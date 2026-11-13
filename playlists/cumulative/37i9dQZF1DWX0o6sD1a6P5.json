@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The hottest Afrobeats, Afropop and Afro-Caribbean hits, all in one place. Cover: Issah",
+  "description": "The hottest Afrobeats, Afropop and Afro-Caribbean hits, all in one place. Cover: Mauvais djo",
   "name": "Afro Hits",
   "tracks": [
     {
@@ -9782,7 +9782,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 188574,
       "name": "JURU",
       "url": "https://open.spotify.com/track/1DlhldwsjrMJozbJsjk6cK"
@@ -10952,6 +10952,24 @@
       "duration_ms": 174226,
       "name": "Loju (feat. Wizkid)",
       "url": "https://open.spotify.com/track/4U3RTbBmft10cAQqMYw7At"
+    },
+    {
+      "album": {
+        "name": "Loketo",
+        "url": "https://open.spotify.com/album/7FoN3QRhA0hjIxEIXGGi5w"
+      },
+      "artists": [
+        {
+          "name": "MIK",
+          "url": "https://open.spotify.com/artist/5iZb1gFGW7uP1NDHXJ7ZTG"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187943,
+      "name": "Loketo",
+      "url": "https://open.spotify.com/track/78EitsAHPADPQzPG1WHqLh"
     },
     {
       "album": {
@@ -14715,6 +14733,28 @@
     },
     {
       "album": {
+        "name": "SHOGUN IN LAGOS",
+        "url": "https://open.spotify.com/album/0Uq4u4UvnkLtofhMy4TOwe"
+      },
+      "artists": [
+        {
+          "name": "Didi B",
+          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165663,
+      "name": "PARTY",
+      "url": "https://open.spotify.com/track/4uyr0Cw61kDhk0JBJOfDAK"
+    },
+    {
+      "album": {
         "name": "Party",
         "url": "https://open.spotify.com/album/52SDAY1Ky5h9gKOlxPYKiO"
       },
@@ -18002,7 +18042,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 178513,
       "name": "Supernova",
       "url": "https://open.spotify.com/track/3HtmeE9GWYZaOLnxrDt29s"

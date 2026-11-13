@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 
 > the deep & minimal side of house & tech ⛏️⛏️  <br/>featuring Josh Baker
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,300 likes - 125 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,359 likes - 125 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

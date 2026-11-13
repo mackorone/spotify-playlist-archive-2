@@ -1,6 +1,6 @@
 {
   "description": "La psicodelia tropical latinoamericana y sus alucinantes ritmos.",
-  "num_followers": 52234,
+  "num_followers": 52244,
   "original_name": "TROPILOCO",
   "owner": {
     "name": "Spotify",
@@ -563,22 +563,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Dos Santos",
-        "url": "https://open.spotify.com/album/203gWxeq8djoqOxwU45zkg"
-      },
-      "artists": [
-        {
-          "name": "Dos Santos",
-          "url": "https://open.spotify.com/artist/12Av6pjGrpX0wfTTyXNsyP"
-        }
-      ],
-      "duration_ms": 213186,
-      "name": "El Pescador",
-      "url": "https://open.spotify.com/track/2yLm7Y9foI71By8rAdYsFE"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "Eclipse",
         "url": "https://open.spotify.com/album/27SOPYyLOq2RWnzPx6pW4d"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 206430,
       "name": "Eclipse",
       "url": "https://open.spotify.com/track/52Ntzc7mUEEH5ilCz7MYpF"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "Dos Santos",
+        "url": "https://open.spotify.com/album/203gWxeq8djoqOxwU45zkg"
+      },
+      "artists": [
+        {
+          "name": "Dos Santos",
+          "url": "https://open.spotify.com/artist/12Av6pjGrpX0wfTTyXNsyP"
+        }
+      ],
+      "duration_ms": 213186,
+      "name": "El Pescador",
+      "url": "https://open.spotify.com/track/2yLm7Y9foI71By8rAdYsFE"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -783,22 +783,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Cumbia del Metr\u00f3nomo",
-        "url": "https://open.spotify.com/album/3gmy0O8akgbJfuagwuYPac"
-      },
-      "artists": [
-        {
-          "name": "Las Muiscas",
-          "url": "https://open.spotify.com/artist/4RHL341vneyqWQTIVq6ige"
-        }
-      ],
-      "duration_ms": 304000,
-      "name": "Cumbia del Metr\u00f3nomo",
-      "url": "https://open.spotify.com/track/7bwN33H6XD0TR0Tu7CwJRz"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "Yellow Laces - Another Life",
         "url": "https://open.spotify.com/album/7JCCT2925DBAePLGnf6YQ4"
       },
@@ -815,22 +799,18 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Cumbia Disco Energy",
-        "url": "https://open.spotify.com/album/7t4dB442nNp87febQyO9Ur"
+        "name": "Cumbia del Metr\u00f3nomo",
+        "url": "https://open.spotify.com/album/3gmy0O8akgbJfuagwuYPac"
       },
       "artists": [
         {
-          "name": "Sonido Gallo Negro",
-          "url": "https://open.spotify.com/artist/3lSqMCuyfqugFoibdOCeZo"
-        },
-        {
-          "name": "Polymarchs",
-          "url": "https://open.spotify.com/artist/0r0MDdN441rIsekmG6fi99"
+          "name": "Las Muiscas",
+          "url": "https://open.spotify.com/artist/4RHL341vneyqWQTIVq6ige"
         }
       ],
-      "duration_ms": 237674,
-      "name": "Cumbia Disco Energy",
-      "url": "https://open.spotify.com/track/4I4JOjfW35xlyEgjiyswGJ"
+      "duration_ms": 304000,
+      "name": "Cumbia del Metr\u00f3nomo",
+      "url": "https://open.spotify.com/track/7bwN33H6XD0TR0Tu7CwJRz"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -871,18 +851,22 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Lalango",
-        "url": "https://open.spotify.com/album/05KxvOMM465lpZlzK6hCdg"
+        "name": "Cumbia Disco Energy",
+        "url": "https://open.spotify.com/album/7t4dB442nNp87febQyO9Ur"
       },
       "artists": [
         {
-          "name": "Malphino",
-          "url": "https://open.spotify.com/artist/1hWJbIVGfYRmwRgmM6HFij"
+          "name": "Sonido Gallo Negro",
+          "url": "https://open.spotify.com/artist/3lSqMCuyfqugFoibdOCeZo"
+        },
+        {
+          "name": "Polymarchs",
+          "url": "https://open.spotify.com/artist/0r0MDdN441rIsekmG6fi99"
         }
       ],
-      "duration_ms": 209371,
-      "name": "Republica Federal de Malphino",
-      "url": "https://open.spotify.com/track/2BNNHF4crFVs3qz1kNxyHy"
+      "duration_ms": 237674,
+      "name": "Cumbia Disco Energy",
+      "url": "https://open.spotify.com/track/4I4JOjfW35xlyEgjiyswGJ"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -899,6 +883,22 @@
       "duration_ms": 170895,
       "name": "Another Life",
       "url": "https://open.spotify.com/track/688jOdQWukxAS2bEDlDk3p"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "Lalango",
+        "url": "https://open.spotify.com/album/05KxvOMM465lpZlzK6hCdg"
+      },
+      "artists": [
+        {
+          "name": "Malphino",
+          "url": "https://open.spotify.com/artist/1hWJbIVGfYRmwRgmM6HFij"
+        }
+      ],
+      "duration_ms": 209371,
+      "name": "Republica Federal de Malphino",
+      "url": "https://open.spotify.com/track/2BNNHF4crFVs3qz1kNxyHy"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Sonido Yoryi",
-        "url": "https://open.spotify.com/album/0tbKSUNuPamYlrj6xs2WIe"
-      },
-      "artists": [
-        {
-          "name": "Los Yoryis",
-          "url": "https://open.spotify.com/artist/2PG2Bb0BU0Aojy7Vkdl9ya"
-        }
-      ],
-      "duration_ms": 280821,
-      "name": "Sonido Yoryi",
-      "url": "https://open.spotify.com/track/6NOq1ssPUVhIOjhAPzaRxt"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "Somos",
         "url": "https://open.spotify.com/album/4MoPXiOJYb32vO1JhKBOvw"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 198469,
       "name": "Por Ah\u00ed",
       "url": "https://open.spotify.com/track/5TewOoVbMDzrV5AKHXKMPd"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "Sonido Yoryi",
+        "url": "https://open.spotify.com/album/0tbKSUNuPamYlrj6xs2WIe"
+      },
+      "artists": [
+        {
+          "name": "Los Yoryis",
+          "url": "https://open.spotify.com/artist/2PG2Bb0BU0Aojy7Vkdl9ya"
+        }
+      ],
+      "duration_ms": 280821,
+      "name": "Sonido Yoryi",
+      "url": "https://open.spotify.com/track/6NOq1ssPUVhIOjhAPzaRxt"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Shift and Shadow",
-        "url": "https://open.spotify.com/album/68coa3myXyACGNFuHU0OZT"
-      },
-      "artists": [
-        {
-          "name": "XIXA",
-          "url": "https://open.spotify.com/artist/00TFWY9PfTDEgsptXLrl1e"
-        }
-      ],
-      "duration_ms": 243493,
-      "name": "Cumbia del Paletero",
-      "url": "https://open.spotify.com/track/4laare64UJzFrVoFuZOMqP"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "Metamorfosis",
         "url": "https://open.spotify.com/album/5Wbem5BnV8kCBFcoeZYaQO"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 295552,
       "name": "Metamorfosis",
       "url": "https://open.spotify.com/track/1FDduS4e9CDhZ3UFmoGAWq"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "Shift and Shadow",
+        "url": "https://open.spotify.com/album/68coa3myXyACGNFuHU0OZT"
+      },
+      "artists": [
+        {
+          "name": "XIXA",
+          "url": "https://open.spotify.com/artist/00TFWY9PfTDEgsptXLrl1e"
+        }
+      ],
+      "duration_ms": 243493,
+      "name": "Cumbia del Paletero",
+      "url": "https://open.spotify.com/track/4laare64UJzFrVoFuZOMqP"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Virgen de Guadalupe",
-        "url": "https://open.spotify.com/album/5l1BXk01Bi8lsWqvGvoH5D"
-      },
-      "artists": [
-        {
-          "name": "Los Pe\u00f1aloza",
-          "url": "https://open.spotify.com/artist/5HCLthv6IZFjkrhGMHKmli"
-        }
-      ],
-      "duration_ms": 222214,
-      "name": "Virgen de Guadalupe",
-      "url": "https://open.spotify.com/track/4DpBpURKuXKwWECFwMkr7T"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "Puerta del sol",
         "url": "https://open.spotify.com/album/7to1r45Wg55xqBzWhqHmMc"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 270090,
       "name": "Puerta del sol",
       "url": "https://open.spotify.com/track/7gLNpAOrOBpfhH3gSXdFQO"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "Virgen de Guadalupe",
+        "url": "https://open.spotify.com/album/5l1BXk01Bi8lsWqvGvoH5D"
+      },
+      "artists": [
+        {
+          "name": "Los Pe\u00f1aloza",
+          "url": "https://open.spotify.com/artist/5HCLthv6IZFjkrhGMHKmli"
+        }
+      ],
+      "duration_ms": 222214,
+      "name": "Virgen de Guadalupe",
+      "url": "https://open.spotify.com/track/4DpBpURKuXKwWECFwMkr7T"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Ocelote",
-        "url": "https://open.spotify.com/album/5QjSfqwbwpzCtVEoXKflGK"
-      },
-      "artists": [
-        {
-          "name": "Monstruos del Ma\u00f1ana",
-          "url": "https://open.spotify.com/artist/7v8VhVh30Z6wcT480oEK7V"
-        }
-      ],
-      "duration_ms": 434400,
-      "name": "Ocelote",
-      "url": "https://open.spotify.com/track/6oIxxuAvq7K3DqEnDyNHA9"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "Infame Golpazo En Keroxen",
         "url": "https://open.spotify.com/album/5o1rY4kJ3NlsUwwBzRljM4"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 234603,
       "name": "Todos tenemos hogar",
       "url": "https://open.spotify.com/track/0oqUwU7MMQrMUvnrfkaTWv"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "Ocelote",
+        "url": "https://open.spotify.com/album/5QjSfqwbwpzCtVEoXKflGK"
+      },
+      "artists": [
+        {
+          "name": "Monstruos del Ma\u00f1ana",
+          "url": "https://open.spotify.com/artist/7v8VhVh30Z6wcT480oEK7V"
+        }
+      ],
+      "duration_ms": 434400,
+      "name": "Ocelote",
+      "url": "https://open.spotify.com/track/6oIxxuAvq7K3DqEnDyNHA9"
     },
     {
       "added_at": "2025-05-19 17:05:09",

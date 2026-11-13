@@ -4,13 +4,13 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-660 songs - 1 day 15 hr 3 min
+662 songs - 1 day 15 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2 Good 4 U](https://open.spotify.com/track/7JjyJly7Fm17M0C9E01E6Q) | [Jelly Crystal](https://open.spotify.com/artist/4UOv0GRUcowmMub8VH0pxP) | [2 Good 4 U](https://open.spotify.com/album/7rJGVn5RFUhwBU7Kz07hzO) | 3:43 | 2026-03-12 | 2026-04-10 |
 | [201 \(Till förmån för Min Stora Dag\)](https://open.spotify.com/track/5guknVJ1c9Wjj7qT2FE8YH) | [Danny Saucedo](https://open.spotify.com/artist/5tVyieWwN9j09jXUovK2zN), [Amy Deasismont](https://open.spotify.com/artist/0pseTX8XD9hjhIknJ07rK9) | [201 \(Till förmån för Min Stora Dag\)](https://open.spotify.com/album/0T8v3ZJdXOpKHM8RPfan74) | 2:40 | 2024-06-27 | 2024-08-23 |
-| [25k](https://open.spotify.com/track/3PKzDf1fga2dPmxr8yy86a) | [Moonica Mac](https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n) | [25k](https://open.spotify.com/album/6uz7I1Z1Cze2cYsdeqwNxe) | 3:57 | 2026-09-10 |  |
+| [25k](https://open.spotify.com/track/3PKzDf1fga2dPmxr8yy86a) | [Moonica Mac](https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n) | [25k](https://open.spotify.com/album/6uz7I1Z1Cze2cYsdeqwNxe) | 3:57 | 2026-09-10 | 2026-11-13 |
 | [50 år i Västerås](https://open.spotify.com/track/21yl33grFUgtUVt7KjdAkR) | [Lars Winnerbäck](https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI) | [Längtan till våren](https://open.spotify.com/album/6OFxTZikOMONn2rlBXbmJW) | 4:05 | 2026-09-24 |  |
 | [A Fragile Thing](https://open.spotify.com/track/17k0Dwj1nr2VnES26230lJ) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [A Fragile Thing](https://open.spotify.com/album/0AWjjB8tla6JjP2XQzKS9l) | 4:43 | 2024-10-10 | 2025-04-25 |
 | [A Sinner's Life](https://open.spotify.com/track/2FOIGSABwVK7UifUCusFPt) | [Chris Kläfford](https://open.spotify.com/artist/5dSnbLNmUdguVNTAV5Ctk1) | [A Sinner's Life](https://open.spotify.com/album/5Nifo1lIWSMahJWQWbTZjQ) | 3:07 | 2025-01-23 | 2025-06-15 |
@@ -60,6 +60,7 @@
 | [Bar Thinking](https://open.spotify.com/track/2nJfr4oazvlWLoeNYZWQhD) | [Jay Smith](https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1) | [Bar Thinking](https://open.spotify.com/album/6JCtqw85DgIoIhu7xqA90c) | 3:05 | 2024-06-27 | 2024-08-30 |
 | [Bara kom](https://open.spotify.com/track/7CcrqmPUhnFAOWG1Y9ogp8) | [Linnea Henriksson](https://open.spotify.com/artist/3IsULVZIf4iGp9ExB7yJVq) | [Du & jag & mera tid](https://open.spotify.com/album/5DoYxoIibcFRIraBQ8TGQ6) | 2:54 | 2026-01-08 | 2026-07-13 |
 | [Bara mellan oss](https://open.spotify.com/track/4VIWX9gEawpAkvzvwz2a1h) | [Oskar Linnros](https://open.spotify.com/artist/3E8Mx37sikkaFoX5DRecLi) | [Bara mellan oss](https://open.spotify.com/album/0uu0VZmG5Bk4q5VAXTLmnn) | 3:41 | 2026-04-02 | 2026-07-18 |
+| [Bara om min älskade väntar](https://open.spotify.com/track/6TDIDGISwtIaXMddOxt99V) | [Siw Malmkvist](https://open.spotify.com/artist/2VWX6ZalDVTp1KMGN6JDSl) | [Bara om min älskade väntar](https://open.spotify.com/album/62VPgrMUBcgyfjQoGGxPlZ) | 3:17 | 2026-11-12 |  |
 | [Bara om min älskade väntar \- Akustiskversion Dust](https://open.spotify.com/track/6A9oBk2A0KDpnK4ledt7yD) | [Thåström](https://open.spotify.com/artist/2PBhJmRqee1QAyQU2kBu1H) | [Skebokvarnsv\. 209 \(Deluxe Version\)](https://open.spotify.com/album/7xvyIn38X0tWtD0OIHdvdd) | 3:33 | 2025-11-27 | 2026-05-08 |
 | [Bara trummor kvar](https://open.spotify.com/track/65R6XBsGQwS86rwzgybHH4) | [Eva Dahlgren](https://open.spotify.com/artist/7IK2JpZglDYTrso4ILEKE0) | [Bara trummor kvar](https://open.spotify.com/album/6gs9deX2HzLigPK9WDIzSd) | 3:38 | 2026-04-23 | 2026-08-07 |
 | [Bara vara mig själv](https://open.spotify.com/track/2FZ3LanaveWTMf2aWaMnpy) | [Lisa Miskovsky](https://open.spotify.com/artist/5J0dXmqEYctfFsmcakqZFH) | [Eljest](https://open.spotify.com/album/3D0jMkMGAaZ7AbPnYr4tJG) | 4:06 | 2025-03-10 | 2025-06-06 |
@@ -183,6 +184,7 @@
 | [Fan för dig](https://open.spotify.com/track/0oYRtSnrvzyVcPEFgRkhUg) | [Dom Första](https://open.spotify.com/artist/10uLT8GVnmWiYqegEwaO70), [Caroline](https://open.spotify.com/artist/0lAH0mtuoDPBLteml8XHKe) | [Fan för dig](https://open.spotify.com/album/32I93ksL4dC1ibI8mpYask) | 2:46 | 2024-10-24 | 2025-05-02 |
 | [Far](https://open.spotify.com/track/4wMH1Ic4taDwbqQGUNdGON) | [Fredrik Lundman](https://open.spotify.com/artist/6wAyoT7d2NrEWUcG2IbN23) | [Far](https://open.spotify.com/album/5lLRHsgpLXK7m7xhCMMZ0C) | 3:59 | 2025-10-02 | 2026-03-15 |
 | [Farsans händer](https://open.spotify.com/track/5Q6hZUb0wqqasN62P0N3wD) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Farsans händer](https://open.spotify.com/album/2sc5mcCEfmeKSjBxziE6Uz) | 3:07 | 2026-05-28 |  |
+| [Farsans Lilla Anneli](https://open.spotify.com/track/4MqDDf2TgZQcJBjFIq8Iqd) | [HOFFMAESTRO](https://open.spotify.com/artist/6hL8IlB7tKuRiqChLyEJGr) | [Farsans Lilla Anneli](https://open.spotify.com/album/5PLPDDZeVUpa2jSmcIE72B) | 3:00 | 2026-11-12 |  |
 | [Fast Lane](https://open.spotify.com/track/0KraHSiibM4cJR5pgfbI97) | [Jay Smith](https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1) | [Fast Lane](https://open.spotify.com/album/2vMgit0PMLiycYbYeu1Zas) | 2:54 | 2026-08-06 |  |
 | [FEAR OF WINNING](https://open.spotify.com/track/1eqUgrrDobS9cicwpm1aMx) | [Björn Dixgård](https://open.spotify.com/artist/13zLG8IHxqnaG2ijVbj6MT) | [FEAR OF WINNING](https://open.spotify.com/album/5tRqhksdFmuoBZws5eA9Uu) | 3:27 | 2024-10-24 | 2025-05-09 |
 | [Finish Line](https://open.spotify.com/track/5lU6xoJhNJCdckDU57wxod) | [Tingsek](https://open.spotify.com/artist/7ld5C8ya3nwAnCTHG923VE) | [Finish Line](https://open.spotify.com/album/5xShuuJOSs4zD700DPTRh0) | 3:26 | 2024-08-29 | 2024-10-06 |
@@ -312,7 +314,7 @@
 | [Jag ger dig sommaren](https://open.spotify.com/track/4gl4Qy47LihabPCfVlRo3W) | [Andreas Weise](https://open.spotify.com/artist/0G74PWccc2UbEEHNKVVaKB) | [Jag ger dig sommaren](https://open.spotify.com/album/0EZkINzN1X1yjaufrRWqHe) | 3:07 | 2026-06-04 | 2026-08-21 |
 | [Jag gör allt som man inte får](https://open.spotify.com/track/7MyUU3mlh2g4FtSjPUItXL) | [Rolf Wikström](https://open.spotify.com/artist/6JnHX2U0qF3EcoAHta5V3r) | [Jag gör allt som man inte får](https://open.spotify.com/album/26AjUi95V3BArfHFPfBcWz) | 3:04 | 2024-06-27 | 2024-09-06 |
 | [Jag hör också rösterna](https://open.spotify.com/track/5R2BEPAaK1X8XShxbH42H6) | [Terra ](https://open.spotify.com/artist/38KJOj7CCAHBDSLkjczak1) | [Jag hör också rösterna](https://open.spotify.com/album/72jvBIYYhGQxAi5fAvHENi) | 4:05 | 2025-01-23 | 2025-05-30 |
-| [Jag kan höra musiken](https://open.spotify.com/track/2eFTJs1i5VHXd4DNQOhFKe) | [Mauro Scocco](https://open.spotify.com/artist/0qC4DawW3xCirhuq5cvaKV) | [Livets rytm](https://open.spotify.com/album/0vhWiYgi4sMrsaggbDKyYY) | 3:16 | 2026-10-29 |  |
+| [Jag kan höra musiken](https://open.spotify.com/track/2eFTJs1i5VHXd4DNQOhFKe) | [Mauro Scocco](https://open.spotify.com/artist/0qC4DawW3xCirhuq5cvaKV) | [Livets rytm](https://open.spotify.com/album/0vhWiYgi4sMrsaggbDKyYY) | 3:16 | 2026-10-29 | 2026-11-13 |
 | [Jag vill drömma](https://open.spotify.com/track/2lWBXbSIVtzGFq3egd7al4) | [Herreys](https://open.spotify.com/artist/2uS8ryCr9KuXzh7Y4xowle) | [Jag vill drömma](https://open.spotify.com/album/18dsriIndUm1FaelXGnzF8) | 3:24 | 2025-05-29 | 2025-06-01 |
 | [Jag Vill Inte Va Med](https://open.spotify.com/track/4XcVFMu1a1DMVxriUSSqps) | [Avantgardet](https://open.spotify.com/artist/7eX1F6FIRszrebMLdM1BpQ) | [Noof Belfast – Nybro City](https://open.spotify.com/album/5WstAcClR0wOb8M18QSEKz) | 4:04 | 2024-10-24 | 2024-11-08 |
 | [Jag vill stanna här](https://open.spotify.com/track/1UZ6xtJ0O1t7FggXjILBfR) | [Staffan Hellstrand](https://open.spotify.com/artist/0smhbmfhr1L1vFZskdZIsl) | [Jag vill stanna här](https://open.spotify.com/album/4dyngznUL3t27C2W2kasOB) | 3:23 | 2024-06-27 | 2024-08-09 |

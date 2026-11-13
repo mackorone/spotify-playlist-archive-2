@@ -4211,24 +4211,6 @@
     },
     {
       "album": {
-        "name": "Pagimchee Kkagdugi (Feel Irie)",
-        "url": "https://open.spotify.com/album/26gwf3xt98cVBB2hXOrOjQ"
-      },
-      "artists": [
-        {
-          "name": "Windy City",
-          "url": "https://open.spotify.com/artist/0vaZrSchWXlGGqYK1tNU1x"
-        }
-      ],
-      "date_added": "2025-07-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 341135,
-      "name": "Pagimchee Kkagdugi (Feel Irie)",
-      "url": "https://open.spotify.com/track/0f7C0qyIG718rmPSYhJlSX"
-    },
-    {
-      "album": {
         "name": "Paki Sabi",
         "url": "https://open.spotify.com/album/0eSx2ysOi54l7XhIrzWEDf"
       },
@@ -8274,6 +8256,24 @@
       "duration_ms": 239973,
       "name": "\uc9c0\ub098\uace0 \ub098\uba74 \uc5b8\uc81c\ub098 \uc88b\uc558\uc5b4 As Time Passes, Always Been Good (Short Version)",
       "url": "https://open.spotify.com/track/4ktRwQDjbxoepZtG9oSGxL"
+    },
+    {
+      "album": {
+        "name": "\ud30c\uae40\uce58 \uae4d\ub450\uae30",
+        "url": "https://open.spotify.com/album/26gwf3xt98cVBB2hXOrOjQ"
+      },
+      "artists": [
+        {
+          "name": "\uae40\ubc18\uc7a5\uacfc \uc708\ub514\uc2dc\ud2f0",
+          "url": "https://open.spotify.com/artist/4pBsJFHxQhnWlTShadz1rm"
+        }
+      ],
+      "date_added": "2025-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341135,
+      "name": "\ud30c\uae40\uce58\uae4d\ub450\uae30",
+      "url": "https://open.spotify.com/track/0f7C0qyIG718rmPSYhJlSX"
     },
     {
       "album": {

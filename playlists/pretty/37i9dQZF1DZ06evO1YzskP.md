@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YzskP.md) - [plain]
 
 > This is La Receta\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,131 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,150 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YzskP.md) - [plain]
 | 40 | [No Voy Con Rodeos](https://open.spotify.com/track/6bCk2kMU5E5wV3WBLugNnG) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Corridos Asombrerados](https://open.spotify.com/album/71tQtGC4f82VbhikchHliX) | 2:47 |
 | 41 | [Borracho](https://open.spotify.com/track/1sBQCmnlEwq6UN2qsQ7WIe) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [REGRESA](https://open.spotify.com/album/3G0KlYGP9XSLGIX63NT2xr) | 2:26 |
 | 42 | [Lo Que Construimos](https://open.spotify.com/track/7GlfNhJutjN1rhKwhR779E) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Lo Que Construimos](https://open.spotify.com/album/2maXmcI7gl4oZMzNQSlLUz) | 3:30 |
-| 43 | [La Belikada](https://open.spotify.com/track/2gt6sb9c74OGlfHdpBzrsa) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm) | [La Belikada](https://open.spotify.com/album/133hcTdLOisGXEF3NmOkLw) | 2:33 |
-| 44 | [Apenas Es Martes](https://open.spotify.com/track/0CRKpS3BPN98A5XKD8Vprf) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [La Receta Del Corrido](https://open.spotify.com/album/7KqUhSZkcFOtZzVZlQZjBr) | 3:20 |
-| 45 | [Sal De Tu Casa](https://open.spotify.com/track/0z2aeRd5lDuk7wm4M6I7PI) | [Reynaldos de la Sierra](https://open.spotify.com/artist/13rTu0fmZMKFl0oB2JC1oe), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Bateando Duro](https://open.spotify.com/album/2CEgRKTs2YfHiOHlOE77yh) | 2:26 |
-| 46 | [LALA](https://open.spotify.com/track/1pUxlPdbbGm55yvLCxlG2e) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Luis Mexia](https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC) | [Corridos Aesthetic](https://open.spotify.com/album/0RzAd6HUJ3wRbgUedKYMZ1) | 3:11 |
+| 43 | [Apenas Es Martes](https://open.spotify.com/track/0CRKpS3BPN98A5XKD8Vprf) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [La Receta Del Corrido](https://open.spotify.com/album/7KqUhSZkcFOtZzVZlQZjBr) | 3:20 |
+| 44 | [La Belikada](https://open.spotify.com/track/2gt6sb9c74OGlfHdpBzrsa) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm) | [La Belikada](https://open.spotify.com/album/133hcTdLOisGXEF3NmOkLw) | 2:33 |
+| 45 | [LALA](https://open.spotify.com/track/1pUxlPdbbGm55yvLCxlG2e) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Luis Mexia](https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC) | [Corridos Aesthetic](https://open.spotify.com/album/0RzAd6HUJ3wRbgUedKYMZ1) | 3:11 |
+| 46 | [Sal De Tu Casa](https://open.spotify.com/track/0z2aeRd5lDuk7wm4M6I7PI) | [Reynaldos de la Sierra](https://open.spotify.com/artist/13rTu0fmZMKFl0oB2JC1oe), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Bateando Duro](https://open.spotify.com/album/2CEgRKTs2YfHiOHlOE77yh) | 2:26 |
 | 47 | [Somos Mayiza](https://open.spotify.com/track/4M6GLOcjYod234PrPPat4r) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Somos Mayiza](https://open.spotify.com/album/76oTb9XZQqKwiXa8U8UxoW) | 3:12 |
 | 48 | [Mi pareja en turno](https://open.spotify.com/track/4jCmraVktEXNCeEcDtOGZE) | [Low](https://open.spotify.com/artist/24XyZeV84qSzHbYple0FmS), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Mi pareja en turno](https://open.spotify.com/album/2I4Ikw1PoEUEhrGZ0qnfWI) | 3:07 |
 | 49 | [Mi más grande error](https://open.spotify.com/track/5g7ohfHLulYM39b6mkiURy) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Kevin AMF](https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu) | [Mi más grande error](https://open.spotify.com/album/5VavgMSlwoK93M5vSMJmDG) | 2:23 |
 | 50 | [Me Dejaron Como 100pre](https://open.spotify.com/track/2qWuXhI0PW4QuVmyXqqyRp) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac) | [Me Dejaron Como 100pre](https://open.spotify.com/album/4f7OO4Z04tIGrCOeyx50Rv) | 2:52 |
 
-Snapshot ID: `avENAAAAAACWBPbb8CfPYHl5kYdeDKfI`
+Snapshot ID: `avOwAAAAAABvQpne46p6KLuJ9jVNNZQI`

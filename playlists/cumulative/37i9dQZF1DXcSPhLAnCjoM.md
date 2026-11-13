@@ -2,9 +2,9 @@
 
 ### [Grand Hit](https://open.spotify.com/playlist/37i9dQZF1DXcSPhLAnCjoM)
 
-> "D'or et d'étain" de Vianney est le Grand Hit de la semaine.
+> "Chaussures Roses" de TeddyBear est le Grand Hit de la semaine.
 
-355 songs - 18 hr 9 min
+356 songs - 18 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Bande organisée](https://open.spotify.com/track/1vZ9zAIQ9cB386y0E6jcxg) | [Vernis Rouge](https://open.spotify.com/artist/6Miu2EYSCD74K7VzDYostC) | [Bande organisée](https://open.spotify.com/album/2x4sU3PRr3kh5IvwaxiXNQ) | 2:07 | 2024-03-21 | 2024-04-19 |
 | [Bande organisée](https://open.spotify.com/track/5lOvw1rwphudYBZssRXJPO) | [Vernis Rouge](https://open.spotify.com/artist/6Miu2EYSCD74K7VzDYostC) | [Bande organisée](https://open.spotify.com/album/1EqBkCvjB9r5dwC21tKOU6) | 2:07 | 2024-03-21 | 2024-08-23 |
 | [Beau \(feat\. Julien Doré\)](https://open.spotify.com/track/7xZrirKz1fymGxGVPtRRRk) | [Joseph Kamel](https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI), [Julien Doré](https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj) | [Miroirs](https://open.spotify.com/album/5y08xFNtrldDoRVDAH30Uu) | 2:56 | 2024-01-11 | 2024-11-08 |
+| [Bella Vita](https://open.spotify.com/track/5QZB8045IFPASGcJgNYIew) | [Oria](https://open.spotify.com/artist/2tcokte1gClrCRw645UFYR) | [Ça ira](https://open.spotify.com/album/6DB4qBlolf8rxYYIquGkG9) | 2:59 | 2026-11-12 |  |
 | [Belle](https://open.spotify.com/track/7kmslsDZxmi87QwTsXEuaH) | [Paola](https://open.spotify.com/artist/7izxlZDhSich8F2ukPd3pc) | [Belle](https://open.spotify.com/album/1poQ0HjBQiJARpbeMcgGqu) | 2:23 | 2024-03-07 | 2024-04-26 |
 | [Bene](https://open.spotify.com/track/08a2Ve5gCAmvSomD1m2DJB) | [Carbonne](https://open.spotify.com/artist/2t0frJEIdex2PTwuLlGxDD) | [Par nous\-mêmes](https://open.spotify.com/album/2X5USMHX1pApuSt0JIRrjA) | 3:13 | 2024-09-05 | 2025-01-31 |
 | [Bonjour, Pardon, Merci](https://open.spotify.com/track/2jAXPXIejP3yz5mUtZLkOX) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Bonjour, Pardon, Merci](https://open.spotify.com/album/02QlnQYs9hya4kAG0Zw0jJ) | 3:10 | 2026-08-20 |  |
@@ -358,7 +359,7 @@
 | [À qui le tour](https://open.spotify.com/track/4kdkyOmEnSHMdWO242OPiU) | [Jeck](https://open.spotify.com/artist/1kvygchIwU4XHXY8xD6ugf), [Carla](https://open.spotify.com/artist/7dgCfYEmAX7OxaYWgCGxAr) | [À qui le tour](https://open.spotify.com/album/7vgUh9mWDMtSboczXCDYxG) | 2:42 | 2025-08-07 | 2026-02-06 |
 | [À tes côtés](https://open.spotify.com/track/0wz1wXKDBtlGhfRNpnLtc1) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7), [Lenie](https://open.spotify.com/artist/2ln12LyfiK9UkmiYXOiuaF) | [À tes côtés](https://open.spotify.com/album/6xi7XWHQdck25dVdc5MRY1) | 2:37 | 2025-05-01 | 2025-12-05 |
 | [Ça fait mal](https://open.spotify.com/track/20TU073PqgJ2IcL9rYvhoS) | [Vitaa](https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht) | [Charlotte](https://open.spotify.com/album/33CQFVIhZgyZYSuwxB2so9) | 3:09 | 2026-03-05 |  |
-| [ça pik un peu quand même](https://open.spotify.com/track/5NYys16a8WwOsNHowqVBPw) | [miki](https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6) | [industry plant](https://open.spotify.com/album/0RdSN1LHK5602mFafwYu4i) | 2:17 | 2026-03-19 |  |
+| [ça pik un peu quand même](https://open.spotify.com/track/5NYys16a8WwOsNHowqVBPw) | [miki](https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6) | [industry plant](https://open.spotify.com/album/0RdSN1LHK5602mFafwYu4i) | 2:17 | 2026-03-19 | 2026-11-13 |
 | [Égaré](https://open.spotify.com/track/0cfxcc6fEDeafzlO5yNUV4) | [M\. Pokora](https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ) | [ADRÉNALINE, LA RÉÉDITION](https://open.spotify.com/album/1eOxvVovDuEtlCBDjdte9W) | 2:47 | 2026-10-22 |  |
 | [Été avec toi](https://open.spotify.com/track/4cSHMHSTRhetAtT1iDP2zO) | [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0) | [Été avec toi](https://open.spotify.com/album/5ExuPCbhP2IlrBgvdZvTLu) | 3:07 | 2026-07-09 |  |
 | [être biennn](https://open.spotify.com/track/0O2eT2YAfna5HFTFz1ibKE) | [Eddy de Pretto](https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj) | [CRASH CŒUR](https://open.spotify.com/album/37b90qQXuhhAzmxQlQLWOK) | 3:27 | 2024-08-01 | 2024-09-13 |

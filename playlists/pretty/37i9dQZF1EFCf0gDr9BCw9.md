@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5fDwKN0rk0zEGCIvuj9XFs">Billy Strayhorn</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 674 likes - 178 songs - 13 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 675 likes - 178 songs - 13 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -141,8 +141,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 | 131 | [A Train](https://open.spotify.com/track/5eXSfxJEQ97wabK59E4Q8V) | [The Bob Florence Limited Edition](https://open.spotify.com/artist/1j9ZcAj2ccKF0T05WIOtSZ) | [Legendary](https://open.spotify.com/album/12a7QFo0wpphi58Ad18Mk3) | 9:06 |
 | 132 | [Put\-Tin](https://open.spotify.com/track/68cYL6SAVU64gtYQ8TVKsv) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Yale Concert](https://open.spotify.com/album/3pJA2vmaSygXCjxC9Rzsgl) | 4:07 |
 | 133 | [Wounded Love](https://open.spotify.com/track/0MilYv2CPSz8OSagzt4OZ3) | [Ack van Rooyen](https://open.spotify.com/artist/0vKyK79242pyAt7Q2Q098s), [Paul Heller](https://open.spotify.com/artist/0a1edbJ1q3RcJJVNs6OZE7), [Hubert Nuss](https://open.spotify.com/artist/2ZGQmeuUjYVQqFBlOuCHu8), [Ingmar Heller](https://open.spotify.com/artist/2eN5KGOnoYxAXKdGXUmlV8) | [Live & In Studio](https://open.spotify.com/album/1AX3jZbnAs6Y6dCsZsYZ93) | 3:20 |
-| 134 | [Blossom](https://open.spotify.com/track/6lz6Jryza3yur1ryPt0Xw3) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [BD Music Presents Billy Strayhorn Played by Duke Ellington](https://open.spotify.com/album/1FtPZ5ml8WFnCMwd3sKaPQ) | 2:29 |
-| 135 | [A Lonely Co\-Ed](https://open.spotify.com/track/2VERuOjNs50QNeXrbGNeu3) | [Ivie Anderson](https://open.spotify.com/artist/1jEpOIhjQCQlOEzLdGS4bA), [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Ivie And Duke Vol 2](https://open.spotify.com/album/5OKLbINAcZkdjibWW9d6CN) | 3:15 |
+| 134 | [A Lonely Co\-Ed](https://open.spotify.com/track/2VERuOjNs50QNeXrbGNeu3) | [Ivie Anderson](https://open.spotify.com/artist/1jEpOIhjQCQlOEzLdGS4bA), [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Ivie And Duke Vol 2](https://open.spotify.com/album/5OKLbINAcZkdjibWW9d6CN) | 3:15 |
+| 135 | [Blossom](https://open.spotify.com/track/6lz6Jryza3yur1ryPt0Xw3) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [BD Music Presents Billy Strayhorn Played by Duke Ellington](https://open.spotify.com/album/1FtPZ5ml8WFnCMwd3sKaPQ) | 2:29 |
 | 136 | [Elysee](https://open.spotify.com/track/33lviUYxL1teikwgjjBtkM) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [The Private Collection, Vol\. 4: Studio Sessions New York 1963](https://open.spotify.com/album/5pyw7AuWKPPAZ4Y4OU4SZM) | 2:25 |
 | 137 | [Blue Orchid](https://open.spotify.com/track/3ruD1kDRKeZvAMxNrQjiSs) | [Virtual Frizz](https://open.spotify.com/artist/18CiLSBQv3tIfT3COqhqJ3), [Josefina Anselmo](https://open.spotify.com/artist/1juhF59PwTZYbqzHC64mQ3) | [El Polvo Trae](https://open.spotify.com/album/1uqIp3eKgedUfn7NQn7Iwy) | 2:39 |
 | 138 | [Blue Star](https://open.spotify.com/track/1JZdz50wMrpCa98gAftH8q) | [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32), [Kenny Drew](https://open.spotify.com/artist/65uKPt40QH8dMBLuoJHPVY), [Jesper Lundgård](https://open.spotify.com/artist/3oqRY23oWw62rv9k3Xi3Bp), [Ed Thigpen](https://open.spotify.com/artist/7ofmO3RJ2eeaRhApcStDkI), [Richard Boone](https://open.spotify.com/artist/662dXNo4tQGmhylSgGF97f) | [Summer Serenade](https://open.spotify.com/album/2lSBl6rR9hlqC4nojN6uir) | 8:06 |
@@ -187,4 +187,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 | 177 | [Rhumbop](https://open.spotify.com/track/6ebY9lVt94BL4VWduLL0eq) | [Claude Bolling Big Band](https://open.spotify.com/artist/3YxemJtRsk1WR4ikdnfy6L), [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [A Drum Is a Woman, conte musical de Duke Ellington \(Live au Théâtre National de Chaillot en 1996\)](https://open.spotify.com/album/4sTOOHhshmGFyo6GvxHQRc) | 3:29 |
 | 178 | [Up and Down, up and Down \(I Will Lead Them up and Down\)](https://open.spotify.com/track/2miKp3bcM2dEB9FmLOG9nT) | [Czechoslovak Radio Jazz Orchestra](https://open.spotify.com/artist/6YynL3WAOLrsD1V7JFgkJc) | [Duke Ellington: Such Sweet Thunder](https://open.spotify.com/album/10AJORtPWhhRy02XfXgZ5C) | 2:52 |
 
-Snapshot ID: `AchbMAAAAABVnIcvG2khH7WPsXQFAFuh`
+Snapshot ID: `AchglAAAAAChnebExoBI/yxR8dJv8Dud`

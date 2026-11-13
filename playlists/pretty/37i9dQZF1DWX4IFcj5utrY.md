@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > The best dance hits in Africa\. Cover: CIZA
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,774 likes - 60 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,817 likes - 60 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

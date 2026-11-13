@@ -113,7 +113,7 @@
 | [ENDGAME](https://open.spotify.com/track/2toJ3Yovx8mqHZIIQOpTG1) | [NANO](https://open.spotify.com/artist/0mxcC38vLiMEP8g4MVNhO4) | [aИomaly](https://open.spotify.com/album/0zf73QkRFifuL3Skr4ShxQ) | 3:43 | 2025-07-01 | 2025-07-29 |
 | [ENERGETIC](https://open.spotify.com/track/136RFhFtC1lDlKgXw7eXM3) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [ENERGETIC](https://open.spotify.com/album/6xa5EHn3K16kLv3oYtKP4N) | 3:22 | 2026-06-23 |  |
 | [EPIPHANY](https://open.spotify.com/track/0lnyoAKhIfozU8aEWV3IOR) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [EPIPHANY](https://open.spotify.com/album/5rhtPiGWtRZkF7Y81yeNtw) | 3:16 | 2025-07-01 |  |
-| [ERASE](https://open.spotify.com/track/5Drv786v9viM5BxXZrCOqM) | [THE ORAL CIGARETTES](https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q) | [ERASE](https://open.spotify.com/album/6Av9ZMcqAgdMqYq3xXu1iB) | 3:02 | 2026-01-13 |  |
+| [ERASE](https://open.spotify.com/track/5Drv786v9viM5BxXZrCOqM) | [THE ORAL CIGARETTES](https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q) | [ERASE](https://open.spotify.com/album/6Av9ZMcqAgdMqYq3xXu1iB) | 3:02 | 2026-01-13 | 2026-11-13 |
 | [error](https://open.spotify.com/track/6UBKBsszhdmFrfgdrfXhHr) | [FACT](https://open.spotify.com/artist/6e72QQjYlMcLhQaDWO2G73) | [FACT 2009 \- 2012](https://open.spotify.com/album/7EAoGpFEkajO87sci1FFC2) | 3:32 | 2023-11-21 | 2026-03-06 |
 | [EVER](https://open.spotify.com/track/0IQLk94VE32tdGlC7lUsPW) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [EVER](https://open.spotify.com/album/3sA5Hdfaqv5XKc1ujCPTYS) | 4:02 | 2026-02-10 |  |
 | [Everblack \(feat\. David Simonich\)](https://open.spotify.com/track/4zngVa4uioPfsuDonRuXHv) | [Crystal Lake](https://open.spotify.com/artist/0A7d0PJxaLO7CGI94ht6PX), [David Simonich](https://open.spotify.com/artist/4VfRlW2jlturNdkawu7dmI) | [The Weight of Sound](https://open.spotify.com/album/5NXDBIwFFXf0ty5mN8KBkP) | 3:16 | 2026-02-04 | 2026-06-23 |
@@ -537,6 +537,6 @@
 | [都会の森](https://open.spotify.com/track/5wd7lEHk2f95i924JiaoZM) | [湾岸の羊\~Sheep living on the edge\~](https://open.spotify.com/artist/3tB2xQ555Rr6YiseCfzomT) | [都会の森](https://open.spotify.com/album/3u6pEvEf99Ape8QSg3aVR2) | 6:48 | 2023-07-20 | 2023-08-02 |
 | [開花宣言](https://open.spotify.com/track/4PvO2OtoM5j8UpuurSZiC8) | [NEMOPHILA](https://open.spotify.com/artist/1ijXMkMWUj8mJrW2SnIvpp) | [開花宣言](https://open.spotify.com/album/1RfVbPhg2uUd8AZaKZ39OK) | 3:09 | 2025-09-30 | 2026-07-31 |
 | [風の日](https://open.spotify.com/track/0ui9eFDmG2V9vW794v8CEp) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [ELLEGARDEN BEST 1999\-2008](https://open.spotify.com/album/1UnNvMfNPmPQlsedObGRIK) | 4:12 | 2023-07-20 |  |
-| [🔥おっかない🔥](https://open.spotify.com/track/7nymdpRh8yfJsHt6VWoKfQ) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [🔥おっかない🔥](https://open.spotify.com/album/2vfqUvyv98Z354MvJ2a3Lz) | 3:16 | 2025-09-30 | 2026-11-08 |
+| [🔥おっかない🔥](https://open.spotify.com/track/7nymdpRh8yfJsHt6VWoKfQ) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [🔥おっかない🔥](https://open.spotify.com/album/2vfqUvyv98Z354MvJ2a3Lz) | 3:16 | 2025-09-30 |  |
 
 \*This playlist was first scraped on 2023-07-23. Prior content cannot be recovered.

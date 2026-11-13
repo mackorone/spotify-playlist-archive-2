@@ -4,11 +4,11 @@
 
 > Sleepy, cosy piano music for snoozing, power naps and relaxation.
 
-245 songs - 10 hr 40 min
+246 songs - 10 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [1897](https://open.spotify.com/track/0LWLiWgpy17VdoczXCDfmh) | [Maru Gomes](https://open.spotify.com/artist/3c06rwhV9teHblfhGaUqdp) | [1897](https://open.spotify.com/album/2wRhqJS1PEq0C1C5d0r0pM) | 2:35 | 2023-10-27 |  |
+| [1897](https://open.spotify.com/track/0LWLiWgpy17VdoczXCDfmh) | [Maru Gomes](https://open.spotify.com/artist/3c06rwhV9teHblfhGaUqdp) | [1897](https://open.spotify.com/album/2wRhqJS1PEq0C1C5d0r0pM) | 2:35 | 2023-10-27 | 2026-11-13 |
 | [3 A.M.](https://open.spotify.com/track/2Ns0FbBGsOVhnr6hnJckbU) | [IA Landon](https://open.spotify.com/artist/26eN1lvWB6W7lyoPnGT4I2) | [Frozen Cloud](https://open.spotify.com/album/7Au4LzrZg2bOzvIjJPYNtU) | 2:16 | 2023-10-27 | 2024-02-22 |
 | [A Bad Dream That Will Pass Away](https://open.spotify.com/track/6XTKYGyydndSUV3OHHDwZU) | [Luke Howard](https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf) | [A Bad Dream That Will Pass Away](https://open.spotify.com/album/4VCzs0bZIXVoNxQq5sGAnm) | 2:56 | 2023-10-27 | 2024-02-22 |
 | [A bed of tulips](https://open.spotify.com/track/3y3krIeEKphe51xVjdHLXm) | [Luanna Averie](https://open.spotify.com/artist/0rDO43Kf4w2sLN4pezlscB) | [A bed of tulips](https://open.spotify.com/album/6ssyw1LvXTs859YSEXx4tc) | 2:40 | 2023-10-27 |  |
@@ -227,6 +227,7 @@
 | [Undisturbed](https://open.spotify.com/track/2sDskIxP9gdYKo0L2WCBLR) | [Bryn Williams](https://open.spotify.com/artist/2EYQUBVJqp5CH3lOSj5FLJ) | [Undisturbed](https://open.spotify.com/album/2CpPAqdJrVVvFnDEV373Td) | 2:34 | 2023-10-27 | 2024-03-08 |
 | [Une chambre](https://open.spotify.com/track/1yLwh6aAl8wA0e9bhiAUcu) | [Ferdinand Lapointe](https://open.spotify.com/artist/6MkcHOmde3eMbEykQff35Y) | [Une chambre](https://open.spotify.com/album/5pVmk2BMssNvJui9WpOYi7) | 2:42 | 2023-10-27 |  |
 | [Until Morning](https://open.spotify.com/track/2ZWPXtvddR5evsWreTWQvs) | [lake balboa](https://open.spotify.com/artist/3WdeppzrwwIJOhlN12ryDR) | [Until Morning](https://open.spotify.com/album/1vfm6Jt5hILrAqylXvDdzb) | 3:19 | 2026-05-08 |  |
+| [Vetyver](https://open.spotify.com/track/5gRk3pZSlF9LteTMYNwEVH) | [Ella Davies](https://open.spotify.com/artist/41ZN6cpScLI4JidZW7f47H) | [Vetyver](https://open.spotify.com/album/6S6E0YvFEYbU9MOgDeOMGT) | 2:58 | 2026-11-13 |  |
 | [voler](https://open.spotify.com/track/5q78LVLnM2EFEyQpVym3qU) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [voler](https://open.spotify.com/album/2mSjBOywrt6qYKniIOhIdk) | 2:33 | 2025-03-28 |  |
 | [Véraison](https://open.spotify.com/track/5O1uC5BKuDD9Kfm4KAxsku) | [Silvenna](https://open.spotify.com/artist/0EpNnTSU5DHuYwSdMMRyfw) | [Véraison](https://open.spotify.com/album/7nf7iVj9lLkBM7V5LYvZJ1) | 2:28 | 2026-09-11 |  |
 | [Wait For Me](https://open.spotify.com/track/2z6wyjZZ5hIP7ef5qjW7kW) | [Dawn Well](https://open.spotify.com/artist/4QfIvnMPiyUcI6mSTZc1mJ) | [Wait For Me](https://open.spotify.com/album/496cm8dtvsmmwlz3moBnM8) | 2:00 | 2023-10-27 | 2024-03-08 |

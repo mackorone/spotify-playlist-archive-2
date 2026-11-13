@@ -2269,6 +2269,24 @@
     },
     {
       "album": {
+        "name": "Et vous, tu m'aimes ?",
+        "url": "https://open.spotify.com/album/3YaeTL1gQ9CkWK0hj0foVU"
+      },
+      "artists": [
+        {
+          "name": "Brigitte",
+          "url": "https://open.spotify.com/artist/3pwoLiEbkKB4c4Vj9Mzypk"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243758,
+      "name": "Battez-vous",
+      "url": "https://open.spotify.com/track/7IlmHApoMCIv39Z5JRZyrk"
+    },
+    {
+      "album": {
         "name": "Mise \u00e0 jour",
         "url": "https://open.spotify.com/album/2M8IRxOB9vV2P2OoaeMrkQ"
       },
@@ -4341,6 +4359,24 @@
     },
     {
       "album": {
+        "name": "Sensation",
+        "url": "https://open.spotify.com/album/7ssHO3Sljdx8vlZQGT4TRM"
+      },
+      "artists": [
+        {
+          "name": "Ronisia",
+          "url": "https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181512,
+      "name": "Champagne",
+      "url": "https://open.spotify.com/track/3DszGRTMjdrzn2QQLNAh9d"
+    },
+    {
+      "album": {
         "name": "Coastal Grooves",
         "url": "https://open.spotify.com/album/5LMfBxAyFy41CavxGAykHR"
       },
@@ -6165,6 +6201,24 @@
     },
     {
       "album": {
+        "name": "M.I.L.S 4",
+        "url": "https://open.spotify.com/album/1M1KkNC2T11RCmQ3nZ9izv"
+      },
+      "artists": [
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135792,
+      "name": "DES PIGES",
+      "url": "https://open.spotify.com/track/6MGnc5b2Xen2vTCjJWYM7n"
+    },
+    {
+      "album": {
         "name": "Deslocado",
         "url": "https://open.spotify.com/album/70Bn4uvWtXrBKlbttB822R"
       },
@@ -7372,6 +7426,42 @@
       "duration_ms": 159245,
       "name": "End of Beginning",
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
+    },
+    {
+      "album": {
+        "name": "Entre les morts",
+        "url": "https://open.spotify.com/album/3SU151A6YJLsCW4Oakj2Ml"
+      },
+      "artists": [
+        {
+          "name": "Sdeux",
+          "url": "https://open.spotify.com/artist/3kIpWl22qMXtCNGiamn9Px"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147587,
+      "name": "Entre les morts",
+      "url": "https://open.spotify.com/track/2eI2U9zIV2vVB5QDJFYGKD"
+    },
+    {
+      "album": {
+        "name": "Entre deux r\u00eaves",
+        "url": "https://open.spotify.com/album/5jm1jHoCMuMh3SElNY9R81"
+      },
+      "artists": [
+        {
+          "name": "Charles Aznavour",
+          "url": "https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156186,
+      "name": "Entre nous",
+      "url": "https://open.spotify.com/track/4zLOxRhqBNFePYic2RhGt0"
     },
     {
       "album": {
@@ -12731,6 +12821,28 @@
     },
     {
       "album": {
+        "name": "Evidence",
+        "url": "https://open.spotify.com/album/2h6EgCJTdQ57YGsmp4pCII"
+      },
+      "artists": [
+        {
+          "name": "Kim",
+          "url": "https://open.spotify.com/artist/1bufaOa1xsdvxGxeqQJtzW"
+        },
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183826,
+      "name": "Love & Lov\u00e9",
+      "url": "https://open.spotify.com/track/3TCtWxTMMZ8wnWFLnvtJsJ"
+    },
+    {
+      "album": {
         "name": "Love D'une Tana",
         "url": "https://open.spotify.com/album/77YmSqZ7y8WSA2rZdWO0nD"
       },
@@ -14250,7 +14362,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-07",
+      "date_removed": null,
       "duration_ms": 214110,
       "name": "Mec de la rue",
       "url": "https://open.spotify.com/track/65wLKpTngPpQ9zs8WBT3e8"
@@ -15776,6 +15888,24 @@
       "duration_ms": 181270,
       "name": "Nicole Kidman",
       "url": "https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J"
+    },
+    {
+      "album": {
+        "name": "TONIGHT",
+        "url": "https://open.spotify.com/album/1OTfJFoGv5Rl6O67eiN6M0"
+      },
+      "artists": [
+        {
+          "name": "TKS 2G",
+          "url": "https://open.spotify.com/artist/26ZKmgHKJWQdnSKUZCVEKa"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161547,
+      "name": "Nikki",
+      "url": "https://open.spotify.com/track/5yWthlFYMiTdL5l80OpqV1"
     },
     {
       "album": {
@@ -18993,6 +19123,24 @@
     },
     {
       "album": {
+        "name": "Prince Royce",
+        "url": "https://open.spotify.com/album/5zEFCJy9kAyD8rMbBESdYh"
+      },
+      "artists": [
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223200,
+      "name": "Rechazame",
+      "url": "https://open.spotify.com/track/07p0kLnvfQQ2bLujHyzSGK"
+    },
+    {
+      "album": {
         "name": "Depuis le temps",
         "url": "https://open.spotify.com/album/2bha7Ff2j1zCBmECAXaxfu"
       },
@@ -21268,6 +21416,24 @@
       "duration_ms": 198840,
       "name": "Stop The Wedding!",
       "url": "https://open.spotify.com/track/3zOYmiNOuyDL0ClxJcEJ0T"
+    },
+    {
+      "album": {
+        "name": "The Girl Of Your Dreams",
+        "url": "https://open.spotify.com/album/03HD0ohJOvejRoesXWKZFl"
+      },
+      "artists": [
+        {
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199460,
+      "name": "Stop The Wedding!",
+      "url": "https://open.spotify.com/track/7MOO89Qv9AV7VZkt5mcqA8"
     },
     {
       "album": {

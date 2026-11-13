@@ -2658,7 +2658,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-08",
+      "date_removed": null,
       "duration_ms": 162757,
       "name": "Blod",
       "url": "https://open.spotify.com/track/75pme3Ywol4lQNgV1h4kLZ"
@@ -2684,6 +2684,28 @@
       "duration_ms": 182608,
       "name": "Blodigt (feat. Annika)",
       "url": "https://open.spotify.com/track/2EVJSQTl0bqHISNlJbhNIc"
+    },
+    {
+      "album": {
+        "name": "Blood In Your Eyes (from GTAVI: The Album)",
+        "url": "https://open.spotify.com/album/2J5ttiLhgBPxcLyHlhQVKO"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161219,
+      "name": "Blood In Your Eyes (from GTAVI: The Album)",
+      "url": "https://open.spotify.com/track/4h3tY2zV4easaHEAbHVmgj"
     },
     {
       "album": {
@@ -2742,7 +2764,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-09",
+      "date_removed": null,
       "duration_ms": 188493,
       "name": "Blue Light (feat. Blood Orange)",
       "url": "https://open.spotify.com/track/1J8wS07uP0uerunK3vnyRP"
@@ -3860,7 +3882,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-07",
+      "date_removed": null,
       "duration_ms": 144451,
       "name": "Circadian Rhythm",
       "url": "https://open.spotify.com/track/6TQt2aEZgmZ5sohBxCENLr"
@@ -5176,7 +5198,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 193306,
       "name": "Desperado",
       "url": "https://open.spotify.com/track/1ZsuzTGF2ZNlfndPmwOgUD"
@@ -5854,7 +5876,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 292780,
       "name": "doom",
       "url": "https://open.spotify.com/track/3kKPZFQse4LtbnMRhnAlEO"
@@ -6686,7 +6708,7 @@
       ],
       "date_added": "2026-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 117999,
       "name": "elsker n\u00e5r vi fucker op",
       "url": "https://open.spotify.com/track/4kyqzxvXL7Gd7mj1BrSQZy"
@@ -6780,7 +6802,7 @@
       ],
       "date_added": "2026-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 203300,
       "name": "En Ild Der Altid Br\u00e6nder",
       "url": "https://open.spotify.com/track/3Wgnfdz0jBvgRloeI0Loz7"
@@ -6854,7 +6876,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 165412,
       "name": "En Som Dig (feat. Bl\u00e6st, ADAAM & Back To Back)",
       "url": "https://open.spotify.com/track/2zRpuPGERrbAfRXqjCAKix"
@@ -7090,6 +7112,24 @@
       "duration_ms": 207639,
       "name": "Et sted hvor vi de f\u00f8rste",
       "url": "https://open.spotify.com/track/0Y7lLJhJEb2B9EMOiOc94Z"
+    },
+    {
+      "album": {
+        "name": "SWALLOW!",
+        "url": "https://open.spotify.com/album/3dQzmmWFcow0z84wGW6RpD"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216053,
+      "name": "Eternal",
+      "url": "https://open.spotify.com/track/7CyqGGsu0bV0fvwzQA7z9F"
     },
     {
       "album": {
@@ -8144,7 +8184,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-10",
+      "date_removed": null,
       "duration_ms": 192449,
       "name": "Fly Away",
       "url": "https://open.spotify.com/track/4OyMFGeTq844ZBRtqc19V2"
@@ -8652,6 +8692,24 @@
       "duration_ms": 213746,
       "name": "Fuck",
       "url": "https://open.spotify.com/track/1vkZx3z5H0uVvrrCsMMn6I"
+    },
+    {
+      "album": {
+        "name": "CKlub EriCKa",
+        "url": "https://open.spotify.com/album/77MP08tkCuSRVaYufj5uP9"
+      },
+      "artists": [
+        {
+          "name": "Ericka Jane",
+          "url": "https://open.spotify.com/artist/1L4HGLMFRrJsAnug5M7slL"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182757,
+      "name": "FuCK Det Op!",
+      "url": "https://open.spotify.com/track/5MOkB9IOep4yXJftQ52Qau"
     },
     {
       "album": {
@@ -9964,7 +10022,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 261427,
       "name": "Harmony",
       "url": "https://open.spotify.com/track/57a0usyQgVXthMoFZotx85"
@@ -10156,7 +10214,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 174282,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/2mkSfDrnrhcPHesoQzLTbM"
@@ -10704,7 +10762,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 163437,
       "name": "Hold Mit Tempo",
       "url": "https://open.spotify.com/track/1AiduuJNTQikQ4edzuTcUM"
@@ -11470,7 +11528,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-10",
+      "date_removed": null,
       "duration_ms": 229875,
       "name": "Hver Eneste Gang",
       "url": "https://open.spotify.com/track/1p8AjTC2doJ2gau4MNbnZ8"
@@ -12457,6 +12515,24 @@
     },
     {
       "album": {
+        "name": "Illumineret",
+        "url": "https://open.spotify.com/album/0fzVt3ozZZuCEE2nPy52h5"
+      },
+      "artists": [
+        {
+          "name": "Kundo",
+          "url": "https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199137,
+      "name": "Illumineret",
+      "url": "https://open.spotify.com/track/3KoSjVffFUitmwjzOKngNp"
+    },
+    {
+      "album": {
         "name": "Illusion",
         "url": "https://open.spotify.com/album/68mwSgiHv3JF9nrw9feMrt"
       },
@@ -12944,7 +13020,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 170009,
       "name": "It's A New Day",
       "url": "https://open.spotify.com/track/1sQzpB8StECTvUbAKWF8eK"
@@ -13903,6 +13979,24 @@
     },
     {
       "album": {
+        "name": "Lad Det Br\u00e6nde",
+        "url": "https://open.spotify.com/album/2uLAGT444QyqYy2TNsiYvE"
+      },
+      "artists": [
+        {
+          "name": "MAS",
+          "url": "https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150621,
+      "name": "Lad Det Br\u00e6nde",
+      "url": "https://open.spotify.com/track/4tCRLYfh6l9ZO8uW0LWwy8"
+    },
+    {
+      "album": {
         "name": "Lady Lady",
         "url": "https://open.spotify.com/album/0PuPRPQjPQWu542pZIlN39"
       },
@@ -14374,7 +14468,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-11",
+      "date_removed": null,
       "duration_ms": 152201,
       "name": "Lighter (feat. Gilli)",
       "url": "https://open.spotify.com/track/1VcwyFJ80YEgfmKYwEtQLJ"
@@ -14802,7 +14896,7 @@
       ],
       "date_added": "2026-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 151026,
       "name": "Lov Mig Du Venter",
       "url": "https://open.spotify.com/track/2XS8lNsfEp19keGZNhdazo"
@@ -17039,6 +17133,32 @@
     },
     {
       "album": {
+        "name": "No Mercy",
+        "url": "https://open.spotify.com/album/7xwJjafwpApMwasiEszGbq"
+      },
+      "artists": [
+        {
+          "name": "GUSTO",
+          "url": "https://open.spotify.com/artist/2ePd2b0RlMm7txE4D4SXpL"
+        },
+        {
+          "name": "ozzy",
+          "url": "https://open.spotify.com/artist/1RJznM4DOSV69NWbkq3RA9"
+        },
+        {
+          "name": "Noah Carter",
+          "url": "https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162629,
+      "name": "No Mercy",
+      "url": "https://open.spotify.com/track/4kSsO50b4j4gFy6EXquXho"
+    },
+    {
+      "album": {
         "name": "No Sleep",
         "url": "https://open.spotify.com/album/4dVlY7P2VuWFkGvNDASaPE"
       },
@@ -19012,7 +19132,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 212586,
       "name": "Regnbuer",
       "url": "https://open.spotify.com/track/3BVzF9yLBRYnrFhJn2252c"
@@ -19216,7 +19336,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 199166,
       "name": "RESCUER",
       "url": "https://open.spotify.com/track/19Lnk1Q2FJcB3Hia0wfgye"
@@ -20276,7 +20396,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 158568,
       "name": "Shen Mao",
       "url": "https://open.spotify.com/track/087oAJywUltu0v3jetQzAm"
@@ -22986,7 +23106,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-08",
+      "date_removed": null,
       "duration_ms": 152030,
       "name": "Te Ske",
       "url": "https://open.spotify.com/track/2u9QFWXxN36yBcU3rinyi0"
@@ -23084,7 +23204,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 132817,
       "name": "THAT GIRL!",
       "url": "https://open.spotify.com/track/2DgmLCX1ojv7lE6xk2PD0H"
@@ -24098,7 +24218,7 @@
       ],
       "date_added": "2026-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 141824,
       "name": "TOO SOON (feat. Babyface)",
       "url": "https://open.spotify.com/track/1FcuNoGjKXQ7XvwuV0B9ke"
@@ -24284,6 +24404,24 @@
       "duration_ms": 273805,
       "name": "Trying Times",
       "url": "https://open.spotify.com/track/52T8TTMESX21406wvTdQDY"
+    },
+    {
+      "album": {
+        "name": "Jack",
+        "url": "https://open.spotify.com/album/4wI8A68dwFEb3z8pXT390H"
+      },
+      "artists": [
+        {
+          "name": "Michael Williams",
+          "url": "https://open.spotify.com/artist/4pA9UUTKYrz88wP5NzYyVE"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165818,
+      "name": "Tr\u00e6k Vejret",
+      "url": "https://open.spotify.com/track/3iqJmH6b9S7DfLDJRXJqEp"
     },
     {
       "album": {
@@ -26464,6 +26602,36 @@
       "duration_ms": 168894,
       "name": "YA BABA",
       "url": "https://open.spotify.com/track/48l6xps5kWSsxtYdXHgz0Y"
+    },
+    {
+      "album": {
+        "name": "Ya Hit (feat. Drake, Travis Scott & Loe Shimmy)",
+        "url": "https://open.spotify.com/album/5KXRJdjRBZMPrmvt4EgXAd"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Loe Shimmy",
+          "url": "https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "Ya Hit (feat. Drake, Travis Scott & Loe Shimmy)",
+      "url": "https://open.spotify.com/track/76jR5C9oKb1DJR3rab6dGV"
     },
     {
       "album": {

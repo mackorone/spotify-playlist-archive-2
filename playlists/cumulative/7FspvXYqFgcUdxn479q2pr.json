@@ -6673,6 +6673,28 @@
     },
     {
       "album": {
+        "name": "REVELATIONS",
+        "url": "https://open.spotify.com/album/0GIMc0FfEfEEwnao2B3Bgo"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "CERES",
+          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145875,
+      "name": "Drinking To Forget You (feat. CERES)",
+      "url": "https://open.spotify.com/track/75ZLttvMJajeCqB8uZzZw9"
+    },
+    {
+      "album": {
         "name": "Drip On",
         "url": "https://open.spotify.com/album/7Am8j5PdsNTfYzNpW018Vk"
       },
@@ -12242,6 +12264,24 @@
     {
       "album": {
         "name": "In The Night",
+        "url": "https://open.spotify.com/album/2zOf2Whdcsiwa29XgI9IBJ"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Helmy",
+          "url": "https://open.spotify.com/artist/00k5zSa7jWCoEZ0e6tly9m"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119160,
+      "name": "In The Night",
+      "url": "https://open.spotify.com/track/4qXgjMNIRHKyire7WBehs0"
+    },
+    {
+      "album": {
+        "name": "In The Night",
         "url": "https://open.spotify.com/album/1SBZwbwzZfl6PuPrgd0FSW"
       },
       "artists": [
@@ -17211,6 +17251,24 @@
     },
     {
       "album": {
+        "name": "Nacht EP",
+        "url": "https://open.spotify.com/album/4hqhoyVgFmxiG6mkm9o0LJ"
+      },
+      "artists": [
+        {
+          "name": "POLTERGST",
+          "url": "https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184367,
+      "name": "Nacht",
+      "url": "https://open.spotify.com/track/5fVQgADfzuONNeVY3utc2a"
+    },
+    {
+      "album": {
         "name": "NAOMA",
         "url": "https://open.spotify.com/album/1yUCjgGF0rAVHVBYcxPkqW"
       },
@@ -21888,6 +21946,32 @@
       "duration_ms": 153230,
       "name": "Smile",
       "url": "https://open.spotify.com/track/6xHyykn4eSkjQs6Ci73Nf1"
+    },
+    {
+      "album": {
+        "name": "Smoke & Lazers",
+        "url": "https://open.spotify.com/album/1seWQNnFkSX95r8yHtnOdb"
+      },
+      "artists": [
+        {
+          "name": "Lavern",
+          "url": "https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO"
+        },
+        {
+          "name": "EV",
+          "url": "https://open.spotify.com/artist/1qOueWotu6CIb1GMoib2GX"
+        },
+        {
+          "name": "Izzy Bizu",
+          "url": "https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176387,
+      "name": "Smoke & Lazers",
+      "url": "https://open.spotify.com/track/0FRhp8czW9og1Y4hs2AMkx"
     },
     {
       "album": {

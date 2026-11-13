@@ -1,12 +1,12 @@
 {
   "description": "This is Maverick City Music. The essential tracks, all in one playlist.",
-  "num_followers": 166905,
+  "num_followers": 166913,
   "original_name": "This Is Maverick City Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avENAAAAAAC9Wtz2haUnarfLCNo1T2bB",
+  "snapshot_id": "avOwAAAAAABgq7zoqKGA5mhptteWqL0a",
   "tracks": [
     {
       "added_at": null,
@@ -371,30 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Milk & Honey",
-        "url": "https://open.spotify.com/album/44e1KWenGKSOldpOFS0OmD"
-      },
-      "artists": [
-        {
-          "name": "Crowder",
-          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
-        },
-        {
-          "name": "Dante Bowe",
-          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
-        },
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        }
-      ],
-      "duration_ms": 263833,
-      "name": "God Really Loves Us",
-      "url": "https://open.spotify.com/track/1pDKzl0oWh9jWfCCt8cIbE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "YET (feat. Ashley Hess & the King will come)",
         "url": "https://open.spotify.com/album/5UrquVUYkl6qbyHkip4SNb"
       },
@@ -415,6 +391,30 @@
       "duration_ms": 350194,
       "name": "YET (feat. Ashley Hess & the King will come)",
       "url": "https://open.spotify.com/track/4vH0rypLr1NgyymAXehhgG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Milk & Honey",
+        "url": "https://open.spotify.com/album/44e1KWenGKSOldpOFS0OmD"
+      },
+      "artists": [
+        {
+          "name": "Crowder",
+          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
+        },
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        },
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        }
+      ],
+      "duration_ms": 263833,
+      "name": "God Really Loves Us",
+      "url": "https://open.spotify.com/track/1pDKzl0oWh9jWfCCt8cIbE"
     },
     {
       "added_at": null,
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/4qWwUB9j83xgUIhJXH3l8L"
         }
       ],
-      "duration_ms": 246579,
-      "name": "Goodness Of God - Instrumental Worship",
-      "url": "https://open.spotify.com/track/2WUe7iXgaob8TJITKrQjwt"
+      "duration_ms": 262304,
+      "name": "I Speak Jesus - Instrumental Worship",
+      "url": "https://open.spotify.com/track/1SC5WvC4xqYGKQTgRusjq9"
     },
     {
       "added_at": null,
@@ -811,6 +811,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Maverick City Music, Vol. 3: Pt. 1",
+        "url": "https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "KJ Scriven",
+          "url": "https://open.spotify.com/artist/7z6VyUifcnT3j1q6i9UZLC"
+        }
+      ],
+      "duration_ms": 542193,
+      "name": "Man of Your Word (feat. KJ Scriven, Chandler Moore)",
+      "url": "https://open.spotify.com/track/6TigGiyqHr7Dy1CaCeKhdP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jubilee: Juneteenth Edition",
         "url": "https://open.spotify.com/album/6wjcKFIUSu5mz1CcN7CcZH"
       },
@@ -847,26 +867,6 @@
       "duration_ms": 272348,
       "name": "Bless Me",
       "url": "https://open.spotify.com/track/5fpKz6Ei4IQPNh4YhlGdbE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Maverick City Music, Vol. 3: Pt. 1",
-        "url": "https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "KJ Scriven",
-          "url": "https://open.spotify.com/artist/7z6VyUifcnT3j1q6i9UZLC"
-        }
-      ],
-      "duration_ms": 542193,
-      "name": "Man of Your Word (feat. KJ Scriven, Chandler Moore)",
-      "url": "https://open.spotify.com/track/6TigGiyqHr7Dy1CaCeKhdP"
     },
     {
       "added_at": null,
@@ -915,6 +915,26 @@
       "duration_ms": 232093,
       "name": "Stand Still",
       "url": "https://open.spotify.com/track/0Wa2ws6YA9IWWLPbyF1jRF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Maverick City Music, Vol. 3: Pt. 1",
+        "url": "https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
+        }
+      ],
+      "duration_ms": 766715,
+      "name": "Have My Heart (feat. Chris Brown, Chandler Moore)",
+      "url": "https://open.spotify.com/track/6vpqd2PVdRja9di26vmCAa"
     },
     {
       "added_at": null,
@@ -991,8 +1011,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maverick City Music, Vol. 3: Pt. 1",
-        "url": "https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq"
+        "name": "Maverick City, Vol. 2",
+        "url": "https://open.spotify.com/album/5knnLqGsFigRxNqFsj3XN1"
       },
       "artists": [
         {
@@ -1000,13 +1020,13 @@
           "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
         },
         {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
         }
       ],
-      "duration_ms": 766715,
-      "name": "Have My Heart (feat. Chris Brown, Chandler Moore)",
-      "url": "https://open.spotify.com/track/6vpqd2PVdRja9di26vmCAa"
+      "duration_ms": 563067,
+      "name": "Take Me Back (feat. Dante Bowe)",
+      "url": "https://open.spotify.com/track/0qsEmBu3AYhf5JuLjDHGe7"
     },
     {
       "added_at": null,
@@ -1027,26 +1047,6 @@
       "duration_ms": 421165,
       "name": "My Life Is In Your Hands (feat.Chandler Moore)",
       "url": "https://open.spotify.com/track/01sXKzitAQVsljePSMpxuv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Maverick City, Vol. 2",
-        "url": "https://open.spotify.com/album/5knnLqGsFigRxNqFsj3XN1"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Dante Bowe",
-          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
-        }
-      ],
-      "duration_ms": 563067,
-      "name": "Take Me Back (feat. Dante Bowe)",
-      "url": "https://open.spotify.com/track/0qsEmBu3AYhf5JuLjDHGe7"
     },
     {
       "added_at": null,
@@ -1099,30 +1099,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Simple Adoraci\u00f3n",
-        "url": "https://open.spotify.com/album/1t1oByVYwJvDm1AI9GXtkk"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Musica",
-          "url": "https://open.spotify.com/artist/29lt2pgyQRRWbMqIeVHc9a"
-        },
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Melody Adorno",
-          "url": "https://open.spotify.com/artist/43nq5HoQm5caEU9SCaO67o"
-        }
-      ],
-      "duration_ms": 515963,
-      "name": "Mi Oraci\u00f3n (La Ni\u00f1a de Tus Ojos) [feat. Melody Adorno]",
-      "url": "https://open.spotify.com/track/7HPGVjYp7NmIEcfhPwgUB1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jubilee: Juneteenth Edition",
         "url": "https://open.spotify.com/album/6wjcKFIUSu5mz1CcN7CcZH"
       },
@@ -1143,6 +1119,30 @@
       "duration_ms": 299509,
       "name": "Sufficient for Today (feat. Maryanne J. George & Mav City Gospel Choir)",
       "url": "https://open.spotify.com/track/5aobFxGYo2lOVfwrRxIGwv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Simple Adoraci\u00f3n",
+        "url": "https://open.spotify.com/album/1t1oByVYwJvDm1AI9GXtkk"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Musica",
+          "url": "https://open.spotify.com/artist/29lt2pgyQRRWbMqIeVHc9a"
+        },
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Melody Adorno",
+          "url": "https://open.spotify.com/artist/43nq5HoQm5caEU9SCaO67o"
+        }
+      ],
+      "duration_ms": 515963,
+      "name": "Mi Oraci\u00f3n (La Ni\u00f1a de Tus Ojos) [feat. Melody Adorno]",
+      "url": "https://open.spotify.com/track/7HPGVjYp7NmIEcfhPwgUB1"
     },
     {
       "added_at": null,

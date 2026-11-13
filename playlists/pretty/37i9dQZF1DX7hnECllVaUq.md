@@ -2,18 +2,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hnECllVaUq.md) - [plain]
 
 ### [Country Worldwide](https://open.spotify.com/playlist/37i9dQZF1DX7hnECllVaUq)
 
-> The biggest hits from country artists around the globe\. Cover: Cammy Barnes
+> The biggest hits from country artists around the globe\. Cover: Owen Riegling
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,559 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,592 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [You & Me](https://open.spotify.com/track/3ni5OnXcVfLaOaO0GptY3a) | [Cammy Barnes](https://open.spotify.com/artist/28J1DHByWcyaurTUQ8Rzs9) | [You & Me](https://open.spotify.com/album/64xwYQZN8MXVmcuubvOMsl) | 3:17 |
+| 1 | [Place And Space In Time](https://open.spotify.com/track/1gR8iPbYTp8Gzpa7ScMALI) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [In The Feeling \(Deluxe\)](https://open.spotify.com/album/5TPWHD9a20t0eVW4RYrCME) | 3:33 |
 | 2 | [Choosin' Texas](https://open.spotify.com/track/65DbTqJKhbwqYbZ1Okr0rc) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Choosin' Texas](https://open.spotify.com/album/4ggV0IaczfDFjVSwBM8yvi) | 3:52 |
 | 3 | [Quitter](https://open.spotify.com/track/7EkB5YHjZaOL9f3Wk3kiRw) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Quitter](https://open.spotify.com/album/6qOS75v0sTFE3K1VrIM4mz) | 2:41 |
 | 4 | [A Bar Song \(Tipsy\)](https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [A Bar Song \(Tipsy\)](https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ) | 2:51 |
 | 5 | [I Had Some Help \(Feat\. Morgan Wallen\)](https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I Had Some Help](https://open.spotify.com/album/1woYXxyyxTQJ0E0AhZE6mj) | 2:58 |
-| 6 | [Dublin Lights](https://open.spotify.com/track/1pJ4VltkJd9psAy8C6AuGM) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [My Mess, My Heart, My Life.](https://open.spotify.com/album/08u2urMBBJIz9kMwAl08yI) | 2:09 |
+| 6 | [You & Me](https://open.spotify.com/track/3ni5OnXcVfLaOaO0GptY3a) | [Cammy Barnes](https://open.spotify.com/artist/28J1DHByWcyaurTUQ8Rzs9) | [You & Me](https://open.spotify.com/album/64xwYQZN8MXVmcuubvOMsl) | 3:17 |
 | 7 | [Coming Soon To A Honky Tonk Near You](https://open.spotify.com/track/1xOK8ho6DIUq6nZyCTAoe9) | [Jade Eagleson](https://open.spotify.com/artist/2nTzAHwCk0swkDdIPj2FIP), [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [Coming Soon To A Honky Tonk Near You](https://open.spotify.com/album/69UGWayVw5TmfSf0fid4xo) | 2:48 |
 | 8 | [How It Ends](https://open.spotify.com/track/2mAg9WpZyXO0F6zMdL1MiC) | [Mack Geiger](https://open.spotify.com/artist/1ylRveckaItA2kOhQh8rnQ) | [How It Ends](https://open.spotify.com/album/21ejtIpAF27jhRps6Doi6g) | 3:41 |
 | 9 | [Anytime, Anywhere, Antoinette](https://open.spotify.com/track/5clq7hPIaE3VUB0mqnKIjn) | [Wade Forster](https://open.spotify.com/artist/4ZPuBr6MAXRpyQsQMfqVRK) | [Anytime, Anywhere, Antoinette](https://open.spotify.com/album/3hQ0qTkMTio82I4gIJkm4r) | 4:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hnECllVaUq.md) - [plain]
 | 99 | [Think I'm In Love With You](https://open.spotify.com/track/65M92JpTbAdHmTQm4jGaDa) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Think I’m In Love With You](https://open.spotify.com/album/52lLryGmbfkDOayypXEhhR) | 3:42 |
 | 100 | [All The Way \(feat\. Bailey Zimmerman\)](https://open.spotify.com/track/73kIKvg65QWieOKXIwyLJP) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [All The Way \(feat\. Bailey Zimmerman\)](https://open.spotify.com/album/6ySeR2u4QyfkeZBVL4yORh) | 2:45 |
 
-Snapshot ID: `AAAAADUiUsa9kggDxinbL7KwfjIk9Sqb`
+Snapshot ID: `AAAAAKM+SgCbpOEgyzQbWk25JP3kDq9B`

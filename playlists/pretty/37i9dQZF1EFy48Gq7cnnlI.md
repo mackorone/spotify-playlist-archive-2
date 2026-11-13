@@ -110,8 +110,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFy48Gq7cnnlI.md) - [plain]
 | 100 | [Love Again](https://open.spotify.com/track/4GjEdufOc7sbZAW8wtI2DT) | [Ben Goldsmith](https://open.spotify.com/artist/0PZ37cyRFUP9o9nCdfS8J8) | [The Start of Something Beautiful](https://open.spotify.com/album/2I0Fq1wuE7WffXEYdiy5QJ) | 3:06 |
 | 101 | [Let You Down](https://open.spotify.com/track/3RfCrI6Mmteu7Tp4xGndWd) | [Mikky Ekko](https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V) | [FAME](https://open.spotify.com/album/3pF80DknR77Qb9gyd1CXM9) | 3:15 |
 | 102 | [Alien](https://open.spotify.com/track/7q9fCrPFy5MdQcDPFbDR85) | [TOMI](https://open.spotify.com/artist/4FUg6Smq0DbieQJyg1AwXz) | [Alien](https://open.spotify.com/album/5Z5AlMnCuoVkL5sEfnSpUL) | 3:21 |
-| 103 | [Lanterns](https://open.spotify.com/track/43Zwrtbau8McAXvvxw9Qv2) | [Benny Tipene](https://open.spotify.com/artist/6iGRpCDnRmtqYF0tNjRoKJ) | [Bricks \- Extended Sessions](https://open.spotify.com/album/35StGDg3dq2KgNrpC0LwrK) | 2:50 |
-| 104 | [Hold Back](https://open.spotify.com/track/1d0Uq6maOfblLvOZdrgrwT) | [Luca Fogale](https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med) | [Run Where The Light Calls](https://open.spotify.com/album/6RDBPh2kbTqWoGCKckNPHX) | 3:46 |
+| 103 | [Hold Back](https://open.spotify.com/track/1d0Uq6maOfblLvOZdrgrwT) | [Luca Fogale](https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med) | [Run Where The Light Calls](https://open.spotify.com/album/6RDBPh2kbTqWoGCKckNPHX) | 3:46 |
+| 104 | [Lanterns](https://open.spotify.com/track/43Zwrtbau8McAXvvxw9Qv2) | [Benny Tipene](https://open.spotify.com/artist/6iGRpCDnRmtqYF0tNjRoKJ) | [Bricks \- Extended Sessions](https://open.spotify.com/album/35StGDg3dq2KgNrpC0LwrK) | 2:50 |
 | 105 | [Revolution](https://open.spotify.com/track/1cMkI0yq7RjIjSQA7cqZhQ) | [Lily Donat](https://open.spotify.com/artist/3jRKjQ2Eul9SnJVFfdyTj2) | [I Am Woman \(Original Motion Picture Soundtrack\) \[Inspired by the story of Helen Reddy\]](https://open.spotify.com/album/4Dv1Twt5mHut1IGY3XF6Dq) | 2:51 |
 | 106 | [Hallucinate](https://open.spotify.com/track/1OkWTc4o5N7e78c5lrabPQ) | [Missy Higgins](https://open.spotify.com/artist/6aP8ry8w3bSNyfyqhE8rGf) | [Solastalgia](https://open.spotify.com/album/7rwzI6iThLPPhZWL07AgE4) | 3:07 |
 | 107 | [Diss and Disappoint](https://open.spotify.com/track/1RXFZcTmIoG3BpYobw0eyu) | [flowerkid](https://open.spotify.com/artist/4VFDBAAO80bu4bTcVJ6M8i) | [Diss and Disappoint](https://open.spotify.com/album/7oaEeaY8WIXyHbV72oLHfk) | 2:57 |
@@ -133,4 +133,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFy48Gq7cnnlI.md) - [plain]
 | 123 | [Vintage](https://open.spotify.com/track/1VD5r2AI7Im5lulgjjIbSP) | [Fleurie](https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4) | [Late But Blooming](https://open.spotify.com/album/4W0t8ASDbL0OEYVtz3kAFf) | 3:35 |
 | 124 | [Father's Daughter](https://open.spotify.com/track/6GrNQpUeL0lwTaU02sQS60) | [Ruby Rodgers](https://open.spotify.com/artist/1yQ8xHBILLk32v48YCzq0G) | [Sixteen](https://open.spotify.com/album/5Tag3rGJu9CySbiFFuC0zB) | 5:17 |
 
-Snapshot ID: `AchbMAAAAAACh+kpTAFZ3AKTc3R4YWsa`
+Snapshot ID: `AchglAAAAACJMOmHhYEA7UqSjSsUvqlk`

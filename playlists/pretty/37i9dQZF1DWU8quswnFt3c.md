@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women at full volume with mindfreakk! from Thailand.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,020,436 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,020,349 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 34 | [Por Debajo De La Mesa](https://open.spotify.com/track/3fkdu0ySrFF0Y3VAyyGPjL) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Por Debajo De La Mesa](https://open.spotify.com/album/5hGNkM9FmYIDSGvQElWcpR) | 3:04 |
 | 35 | [Smoke](https://open.spotify.com/track/5IGQIUoXm7ZsMXUkHRIsMg) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [The Doves Came Home](https://open.spotify.com/album/6stW0BEOqA6F0Gi7inuzLS) | 4:37 |
 | 36 | [Every Aching Minute](https://open.spotify.com/track/1mxFh0yxb2lZzqdy8jFseo) | [Gretta Ray](https://open.spotify.com/artist/4xdEmbimxXyo9wXy9lq3ek) | [Heartsong](https://open.spotify.com/album/5bOHldwxMlxDhzSuMc1s8G) | 4:51 |
-| 37 | [aftertears](https://open.spotify.com/track/7lyewi26KwzRM9XNB7Sl6y) | [mindfreakk!](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [aftertears](https://open.spotify.com/album/0qtTQO2tmH6a03Dey9zeaz) | 6:27 |
-| 38 | [Keddab](https://open.spotify.com/track/7Hh4hykGxO7hT0FoFVkonP) | [ASSIA](https://open.spotify.com/artist/3x7veOAhTEg0Z3abcNQhzu) | [Keddab](https://open.spotify.com/album/430OinMfmEtvRBeKNYPbeL) | 2:46 |
+| 37 | [Keddab](https://open.spotify.com/track/7Hh4hykGxO7hT0FoFVkonP) | [ASSIA](https://open.spotify.com/artist/3x7veOAhTEg0Z3abcNQhzu) | [Keddab](https://open.spotify.com/album/430OinMfmEtvRBeKNYPbeL) | 2:46 |
+| 38 | [aftertears](https://open.spotify.com/track/7lyewi26KwzRM9XNB7Sl6y) | [mindfreakk!](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [aftertears](https://open.spotify.com/album/0qtTQO2tmH6a03Dey9zeaz) | 6:27 |
 | 39 | [Dust U Off](https://open.spotify.com/track/1MjkvZOLEgJqSShFr1Ixui) | [Moyka](https://open.spotify.com/artist/2u7pjisWrThF8JErPVIPlJ) | [BULLSEYE](https://open.spotify.com/album/6cBdLtktEMZP9m3e0jKytE) | 3:59 |
 | 40 | [SKIN AFROPATY](https://open.spotify.com/track/4ThjZY42ya58WehhodPAdx) | [BUDAH](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO) | [FREQUÊNCIA LUNAR](https://open.spotify.com/album/3qbfxWGIF45fv8btLzrsDR) | 2:52 |
 | 41 | [CMYM](https://open.spotify.com/track/364BqG2nRU9idqWNxJiBUy) | [Alexandra Căpitănescu](https://open.spotify.com/artist/6C2GlsTc6EVC7uKar8F1G0) | [CMYM](https://open.spotify.com/album/6jkyxYY3m1JwJ2N2sIQ5rb) | 4:02 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 44 | [Oceany](https://open.spotify.com/track/0mEBiQh0MJ6YRQYwWCempf) | [Wiktoria Kida](https://open.spotify.com/artist/6EuekoOKebcHJWIqHuBK0H), [Księga Żywiołów](https://open.spotify.com/artist/1TqYSOMq3DVt2cUERdU4v5) | [Oceany](https://open.spotify.com/album/77O6RrxTwQ6YhQLbkVv5PP) | 2:46 |
 | 45 | [lazy](https://open.spotify.com/track/2liHqyTSLnswtC0LBd5T8Z) | [LAUSBUB](https://open.spotify.com/artist/1nK2FcujOkjFDDAr1EMo2M) | [society \| lazy](https://open.spotify.com/album/6SqzOoFdO4S4NDl0sBMJxW) | 2:11 |
 | 46 | [Invisible Wounds](https://open.spotify.com/track/718dkyj9wPUtDmP0cWkaxz) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [What Happened To The Heart?](https://open.spotify.com/album/357nWCZmAQtr7nNTHhkIn7) | 4:59 |
-| 47 | [Snail Song](https://open.spotify.com/track/4IwVHxOmdbcTM5ThqQwu6T) | [Goodmorning Pancake](https://open.spotify.com/artist/7Bezyy4h6Ftw2pjtq8NcbE), [mindfreakk!](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Snail Song](https://open.spotify.com/album/6CeaDxEmRXTCTZZJMXgFJG) | 3:32 |
-| 48 | [Victoria](https://open.spotify.com/track/3aDrC0uyqKWOXc9bclRdQc) | [Suena](https://open.spotify.com/artist/3ZCy1ehzbzEAcpcHnHJYXd), [Esther Abrami](https://open.spotify.com/artist/5zCkKfOMcIx8ISU53JBPng) | [INSTINCTA](https://open.spotify.com/album/3PLxcpG6HX1bPdqrJTUNfT) | 2:23 |
+| 47 | [Victoria](https://open.spotify.com/track/3aDrC0uyqKWOXc9bclRdQc) | [Suena](https://open.spotify.com/artist/3ZCy1ehzbzEAcpcHnHJYXd), [Esther Abrami](https://open.spotify.com/artist/5zCkKfOMcIx8ISU53JBPng) | [INSTINCTA](https://open.spotify.com/album/3PLxcpG6HX1bPdqrJTUNfT) | 2:23 |
+| 48 | [Snail Song](https://open.spotify.com/track/4IwVHxOmdbcTM5ThqQwu6T) | [Goodmorning Pancake](https://open.spotify.com/artist/7Bezyy4h6Ftw2pjtq8NcbE), [mindfreakk!](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Snail Song](https://open.spotify.com/album/6CeaDxEmRXTCTZZJMXgFJG) | 3:32 |
 | 49 | [Je M'appelle Tété](https://open.spotify.com/track/58aI1ZhTgyOh9pHU0Bgd8l) | [B0YG1RL](https://open.spotify.com/artist/0qhwdD2NFfJ8eCK1hKlAiq) | [777](https://open.spotify.com/album/0PLgkwpOBriwfUzvXs7m2m) | 2:01 |
 | 50 | [end credits](https://open.spotify.com/track/4IEGZYUSKkgWMy8vpp1Z7H) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj) | [end credits](https://open.spotify.com/album/6ZgbXMymYOnmGTTgFcnmy2) | 4:08 |
 

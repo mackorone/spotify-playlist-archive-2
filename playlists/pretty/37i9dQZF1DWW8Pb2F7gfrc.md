@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW8Pb2F7gfrc.md) - [plain]
 
 > Enjoy the Asian Pop Festival 2025 LIVE SET including the voices of artists on stage and set lists! \(아티스트들의 무대 위 목소리와 셋리스트가 포함된 아시안 팝 페스티벌 2025 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,380 likes - 432 songs - 1 day 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,383 likes - 432 songs - 1 day 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -399,7 +399,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW8Pb2F7gfrc.md) - [plain]
 | 389 | [Janchi Reggae](https://open.spotify.com/track/6E46Tt8YfjWhxuqYGUh5hA) | [김반장과 윈디시티](https://open.spotify.com/artist/4pBsJFHxQhnWlTShadz1rm) | [Full Greeting](https://open.spotify.com/album/5pbdzSMkWZXv43FGHOeCKY) | 5:55 |
 | 390 | [Put Yah Lighta \(Give Mi The Fyah\)](https://open.spotify.com/track/6kim5AJC7V3FPNnfZIXr8k) | [김반장과 윈디시티](https://open.spotify.com/artist/4pBsJFHxQhnWlTShadz1rm) | [WindyCity Meets Srirajah Rockers](https://open.spotify.com/album/3uw9WGEWX55eJWBctgoBo4) | 4:43 |
 | 391 | [Countryman](https://open.spotify.com/track/2rGtvyg9zlDDKsE3VOuhEJ) | [김반장과 윈디시티](https://open.spotify.com/artist/4pBsJFHxQhnWlTShadz1rm) | [Countryman\`s Vibration](https://open.spotify.com/album/1RHK0xfqkDmmzqA2TJ5544) | 4:12 |
-| 392 | [Pagimchee Kkagdugi \(Feel Irie\)](https://open.spotify.com/track/0f7C0qyIG718rmPSYhJlSX) | [Windy City](https://open.spotify.com/artist/0vaZrSchWXlGGqYK1tNU1x) | [Pagimchee Kkagdugi \(Feel Irie\)](https://open.spotify.com/album/26gwf3xt98cVBB2hXOrOjQ) | 5:41 |
+| 392 | [파김치깍두기](https://open.spotify.com/track/0f7C0qyIG718rmPSYhJlSX) | [김반장과 윈디시티](https://open.spotify.com/artist/4pBsJFHxQhnWlTShadz1rm) | [파김치 깍두기](https://open.spotify.com/album/26gwf3xt98cVBB2hXOrOjQ) | 5:41 |
 | 393 | [시장에 가자 Si Jang e Gaja \(Adrian Sherwood Mix\)](https://open.spotify.com/track/5xpr91ghRJ00pcVTAHJREi) | [김반장과 윈디시티](https://open.spotify.com/artist/4pBsJFHxQhnWlTShadz1rm), [Adrian Sherwood](https://open.spotify.com/artist/4vZIz0gG5DD3Qj9MB6kclW) | [시장에 가자 Si Jang e Gaja](https://open.spotify.com/album/45VvbRVN8FIz7ARAigj4ib) | 7:50 |
 | 394 | [Elnino Prodigo](https://open.spotify.com/track/6WggpyrSZ7uetnBAbjxM6F) | [김반장과 윈디시티](https://open.spotify.com/artist/4pBsJFHxQhnWlTShadz1rm) | [Love Record](https://open.spotify.com/album/0FHke5LN9sGx3AwX1bPzBW) | 4:51 |
 | 395 | [yours](https://open.spotify.com/track/7JQH2lBMZ10ztDnpoeq6Ki) | [데이먼스 이어 Damons year](https://open.spotify.com/artist/2T5KKZuEEudb7alCJ1pCus) | [yours](https://open.spotify.com/album/7mvY0s2fwo5aaRw4zCyCA6) | 2:45 |

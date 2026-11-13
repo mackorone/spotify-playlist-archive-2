@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,335 songs - 3 day 1 hr 58 min
+1,337 songs - 3 day 2 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -840,6 +840,7 @@
 | [Oblivion](https://open.spotify.com/track/0QHo2C0zCM4paxa04PsJhU) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs), [Jantine](https://open.spotify.com/artist/3Hlhy5mpM8cT1Guv1GOhQG) | [Oblivion](https://open.spotify.com/album/1sZLwBJEGFLtRDHtrS2Xl2) | 2:32 | 2025-02-20 | 2025-05-17 |
 | [Oblivion](https://open.spotify.com/track/4dTC6SHxIibaRue2eKI2ai) | [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz), [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO), [Philip Strand](https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q) | [Oblivion](https://open.spotify.com/album/0tVfKBH8luy3wdwvIJ0dge) | 3:24 | 2022-06-02 | 2022-08-13 |
 | [obvious](https://open.spotify.com/track/0RXP5hsxxUyWMeKDd0Zxb1) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [undux](https://open.spotify.com/album/5YdArpd5cqnRdOnpvpfSp9) | 3:32 | 2025-12-04 | 2026-03-31 |
+| [OCEAN EYES](https://open.spotify.com/track/0NuCDPkaoiyfGEHXADvzvF) | [WHOiSEE](https://open.spotify.com/artist/7pA2OyYV0LxwdOvzJJe7CH), [ARKIIN](https://open.spotify.com/artist/3cMxYJXz3hB6rmjmp12DK3), [Elle Vee](https://open.spotify.com/artist/7b1FMiWXZwOBsxi0uWw6wH) | [OCEAN EYES](https://open.spotify.com/album/1pZXpeAuUa2vOKZ1yd3CK8) | 3:36 | 2026-11-12 |  |
 | [October](https://open.spotify.com/track/3dI7bW8OnWBUCCeBNwQ08J) | [Leah Culver](https://open.spotify.com/artist/0KEExJc1NKwmzJxQHbbkts) | [October](https://open.spotify.com/album/1qPdose5MyZE37xgnGKz1e) | 2:38 | 2022-10-11 | 2022-12-10 |
 | [Odyssey](https://open.spotify.com/track/07S4ihGvHe1jcWfagHL83s) | [Angara](https://open.spotify.com/artist/14MtSANT6PClR71nsqXhy3), [Bound to Divide](https://open.spotify.com/artist/5nQ7llwdZYT6MWMeLLe8dc) | [Odyssey](https://open.spotify.com/album/1xyjWXsA94Bj6T1WAhnOUV) | 4:15 | 2024-04-02 | 2024-06-19 |
 | [ok](https://open.spotify.com/track/3yDg9UhdWmFlHsaJaN0GRI) | [Enjac](https://open.spotify.com/artist/7iIiRw3JSWI8c9n8CIQS3f) | [ok](https://open.spotify.com/album/3beDdopYTPW97ZlnjWhBzm) | 2:45 | 2023-01-25 | 2023-04-12 |
@@ -1309,6 +1310,7 @@
 | [Wide Open](https://open.spotify.com/track/0ICvgo8qnBYhVUqGAycdqG) | [Topi](https://open.spotify.com/artist/6WP0h3qR0awvIWPMvE72F8) | [Wide Open](https://open.spotify.com/album/27xkRKbfs3scIzNeO3lgRQ) | 3:04 | 2024-12-09 | 2025-03-19 |
 | [Wild Time](https://open.spotify.com/track/0YX38wDVtPkk7FAOO3wU64) | [Leotrix](https://open.spotify.com/artist/3mVL1qynaYs31rgyDTytkS) | [Wild Time](https://open.spotify.com/album/1ye5cB0yJ8wLlGoNv4s2qN) | 3:51 | 2022-05-12 | 2022-07-23 |
 | [Wildfire](https://open.spotify.com/track/49Y95L9PEgmiU8grfUF2el) | [Banaati](https://open.spotify.com/artist/3lwdREjAeG9zskfcoPYAz4), [Dokho](https://open.spotify.com/artist/5m62yqRUbEgCFNLKLlHkXM), [MØØNE](https://open.spotify.com/artist/7kKL0Z6mypwMkgCevMfuQ6) | [Wildfire](https://open.spotify.com/album/3XFyWwB4yXHSjoRHqNq98y) | 3:40 | 2024-08-07 | 2024-10-29 |
+| [Wildfire](https://open.spotify.com/track/4qTWnYehSsQRKM29JfSYCF) | [MitiS](https://open.spotify.com/artist/16yUpGkBRgc2eDMd3bB3Uw), [FLOTE](https://open.spotify.com/artist/5GlpEfsBmDxKXL5Sr3ZTMO), [Violyt](https://open.spotify.com/artist/58dODJDrNq8DHvx5CJDJgd) | [Wildfire](https://open.spotify.com/album/6jeE5vtviufpGBqV4tb994) | 3:11 | 2026-11-12 |  |
 | [WILL YOU MOVE](https://open.spotify.com/track/7Lg1jpTtyIkFBc3YVp22sm) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8) | [WILL YOU MOVE](https://open.spotify.com/album/42inKpy3qJ7Z74LbnPzcnF) | 2:49 | 2026-02-25 | 2026-06-06 |
 | [Wish](https://open.spotify.com/track/6ZcnuLd0mWgqseSnxTFMRF) | [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR), [WELON](https://open.spotify.com/artist/0fegs2UgMTsicSZ00z3HJQ) | [Wish](https://open.spotify.com/album/6xOIqG0yH0Ejwg6wROcPDc) | 3:02 | 2025-06-25 | 2025-09-19 |
 | [Wish You Stayed](https://open.spotify.com/track/3swA7H6ohhJomFrC5YOiG2) | [YULA](https://open.spotify.com/artist/32GQyTofHn92DwudAFpVf8) | [Wish You Stayed](https://open.spotify.com/album/2UYUKxWI2OjPG3eW0nf0Rg) | 3:00 | 2022-09-06 | 2022-11-05 |

@@ -4,7 +4,7 @@
 
 > you up?
 
-590 songs - 1 day 8 hr 41 min
+591 songs - 1 day 8 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@
 | [CHXSE](https://open.spotify.com/track/4vZCkAXIcD8A050VeirCwj) | [Chase Atlantic](https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT) | [BEAUTY IN DEATH \(DELUXE EDITION\)](https://open.spotify.com/album/4tb9KRJe8FNjYIRbvtGTG5) | 3:29 | 2022-05-06 | 2022-07-27 |
 | [CIGARETTES](https://open.spotify.com/track/3TfTZ3fGLYtR1azsY8iEp4) | [Amir Obe](https://open.spotify.com/artist/6AWdGez5g1jxpfl9XD4wI3) | [None Of The Clocks Work](https://open.spotify.com/album/1k3MYSTe3zls106XkVRhuW) | 3:10 | 2022-02-11 | 2022-04-20 |
 | [Climax](https://open.spotify.com/track/5pyVqlqThcxI7tPDjHIzPh) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Looking 4 Myself \(Expanded Edition\)](https://open.spotify.com/album/7eyuQZCLG5tdjWpKZbDE8g) | 3:52 | 2022-03-25 | 2022-04-19 |
-| [Close](https://open.spotify.com/track/2wJhFcye5iiW2mVBpGednz) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Last Year Was Complicated](https://open.spotify.com/album/1J1mjhlth8XnU8ttfRKp5r) | 3:54 | 2022-03-25 |  |
+| [Close](https://open.spotify.com/track/2wJhFcye5iiW2mVBpGednz) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Last Year Was Complicated](https://open.spotify.com/album/1J1mjhlth8XnU8ttfRKp5r) | 3:54 | 2022-03-25 | 2026-11-13 |
 | [close with desires \(right person wrong timing\)](https://open.spotify.com/track/1yUO5lVnOstziQEz7byXBx) | [teo glacier](https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY) | [close with desires \(right person wrong timing\)](https://open.spotify.com/album/6Jdgoq4F3pd02of1peADKM) | 3:23 | 2023-06-08 | 2025-03-15 |
 | [Closer](https://open.spotify.com/track/5mc6EyF1OIEOhAkD0Gg9Lc) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [The Downward Spiral \(Deluxe Edition\)](https://open.spotify.com/album/5I7lLu8xXJfGRdFUqHaLQU) | 6:13 | 2025-03-18 |  |
 | [coffee](https://open.spotify.com/track/6vMpPxLV0F5Diwcs6awI1Z) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Wildheart \(Deluxe Version\)](https://open.spotify.com/album/6W8ZsoinSMViZMh9aYK7gQ) | 4:46 | 2022-03-28 | 2024-03-16 |
@@ -292,6 +292,7 @@
 | [Karma](https://open.spotify.com/track/2Fyjjpg03fn7n5cj0Qm380) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Last Day Of Summer](https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz) | 3:08 | 2022-11-09 | 2024-12-28 |
 | [kill for me?](https://open.spotify.com/track/3CllWqGpp4lInHfu5B7OSJ) | [bartek turski](https://open.spotify.com/artist/5HArWtrcYhpxplTtZ848wR) | [kill for me?](https://open.spotify.com/album/6R73G7Td2TIms6bEKqA2zk) | 2:40 | 2025-08-29 | 2025-11-29 |
 | [killer](https://open.spotify.com/track/4QUzLCXrpHO4c6dGyZlpO2) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [killer](https://open.spotify.com/album/4BYCmmwbSU2bxcQEEI6RBU) | 2:56 | 2022-06-17 | 2022-06-25 |
+| [Killer, Baby](https://open.spotify.com/track/1rFmwFVlQR0EjWBingBep6) | [Alfie Castley](https://open.spotify.com/artist/4t5uGGNiFjujYEEyVVDEwc) | [Killer, Baby](https://open.spotify.com/album/5Pp56WPDTfooS4XEhiRlMJ) | 2:46 | 2026-11-12 |  |
 | [Killing Butterflies](https://open.spotify.com/track/3R8PKPTPgHApBhCt3NUJ0q) | [Lou Bliss](https://open.spotify.com/artist/3mRtqarEAPGOkpadcWZgdY) | [Killing Butterflies](https://open.spotify.com/album/6avxfpUklBv0idzCXnGtt6) | 2:50 | 2025-11-28 | 2026-05-02 |
 | [Killing Me](https://open.spotify.com/track/1vghSeMBb7AIMT3JaMrlHO) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Killing Me](https://open.spotify.com/album/4HsgZMW1HHEQX6xyX0MrQm) | 2:45 | 2022-03-25 | 2022-07-29 |
 | [killing time](https://open.spotify.com/track/51jmw8SLKHpN7WDsqzk4uQ) | [Kate Peytavin](https://open.spotify.com/artist/6PnD7O3Er35tK4TeFyndOS) | [killing time](https://open.spotify.com/album/6nlfXRWDo8dqfjqsp4LjJI) | 2:53 | 2023-11-17 | 2024-03-16 |

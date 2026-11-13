@@ -4,7 +4,7 @@
 
 > Gentle Ambient piano to help you fall asleep.
 
-1,851 songs - 3 day 17 hr 41 min
+1,852 songs - 3 day 17 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -638,6 +638,7 @@
 | [Finally In Peace](https://open.spotify.com/track/52tcU3qihtTISeQJz1JFfl) | [Ronald Sims](https://open.spotify.com/artist/6Nqa1xXz6ABuyUVhsSDdUR) | [Waiting For The Moment](https://open.spotify.com/album/7hyIafLbk0WYcrydcN6PEX) | 2:56 | 2020-10-20\* | 2020-12-12 |
 | [Find Me](https://open.spotify.com/track/6jDM7dC4rmCFaB6J1huffu) | [Leyton Miller](https://open.spotify.com/artist/1Ne3d3mvmU8z83OHnVFSxu) | [Find Me](https://open.spotify.com/album/5ix4GEUCC9ITQRBN5tTeLI) | 3:21 | 2021-07-07 | 2022-03-25 |
 | [Finding Z](https://open.spotify.com/track/6wxi3k13LLevWzehEbQCaN) | [Robin Laureli](https://open.spotify.com/artist/30nCX93T9DmENsEgm1tetr) | [Finding Z](https://open.spotify.com/album/52Q1HU0Kr1n2gxElmS2zNA) | 3:37 | 2021-08-17 | 2021-09-22 |
+| [Firefly](https://open.spotify.com/track/0GGCIC4ctiUCzxRdTtgzc0) | [Lumbus](https://open.spotify.com/artist/1RNt7MjVfrk7ZGMVbx6cdi) | [Firefly](https://open.spotify.com/album/2F2r2LlYdVncsfQOhyJFqT) | 2:37 | 2026-11-13 |  |
 | [First Light of Dawn](https://open.spotify.com/track/3FvNzkkZxjpHpGMVOroMJr) | [Dawnveil](https://open.spotify.com/artist/6CYkhlH8BegFF1PSBGT4fm) | [First Light of Dawn](https://open.spotify.com/album/6EDtdJdf1wtDRsbLqm6rRz) | 2:27 | 2026-08-06 | 2026-10-07 |
 | [Fjord](https://open.spotify.com/track/5F820xSuKiMLpGOV04Xs3c) | [Reiki Akoya](https://open.spotify.com/artist/0VYt8sIrhLaI1J5XBw4Ez5) | [Fjord](https://open.spotify.com/album/6uJxTkCL8G3hjXi7S3ejkJ) | 2:54 | 2022-12-20 | 2024-02-08 |
 | [Flashback](https://open.spotify.com/track/37VNAvc9lZC70FcViKcI6f) | [Chandeller](https://open.spotify.com/artist/0LzWeBGGtEazh0mJmyxFXi) | [Brightness](https://open.spotify.com/album/6mRVmuhkO5VClWaRgVHcCf) | 3:17 | 2021-06-16 | 2021-09-03 |

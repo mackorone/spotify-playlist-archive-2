@@ -4,7 +4,7 @@
 
 > ¡Trópico y vanguardia! Deja que la brisa impulse tu espíritu.
 
-210 songs - 11 hr 32 min
+211 songs - 11 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [No Hay Luka](https://open.spotify.com/track/55i7dPL0vhXBePs1c6Isbh) | [Aguas Ardientes](https://open.spotify.com/artist/1eAywdgupRbvrEXW2PCzAc) | [Guarever](https://open.spotify.com/album/27laC01FYhhSgAdOCdZEdF) | 4:17 | 2023-04-28 | 2025-10-11 |
 | [No Llegamos Ni A Febrero](https://open.spotify.com/track/5yb9zjiSDK9cMBhQxI0TMs) | [Ysa C](https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk) | [No Llegamos Ni A Febrero](https://open.spotify.com/album/6aNgiuAeoVLHICmNiZryZo) | 2:58 | 2026-06-19 | 2026-09-19 |
 | [No me opongo](https://open.spotify.com/track/0k6JmVpT4JZrFz4SIIh0iS) | [CERO39](https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0), [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [R\-A\-B\-I\-A](https://open.spotify.com/album/2l0v6JRCpZdnIRoe5AJn33) | 3:05 | 2024-06-28 | 2026-09-19 |
+| [No me pasa el tiempo](https://open.spotify.com/track/1JKZLkAopq2TMNMBvtH4YO) | [Shonny](https://open.spotify.com/artist/70axD2kGUWcyWjZAGAtgft) | [AVE DEL PARAÍSO](https://open.spotify.com/album/5I9Rza1ph1avrDLfcuz5SS) | 3:37 | 2026-11-13 |  |
 | [NO SE DA \(Bahía Aguacate\)](https://open.spotify.com/track/2AfAXREccYROY8IdG789VC) | [Martina La Peligrosa](https://open.spotify.com/artist/0kPA7qoAAkI8id1ARXhh5n) | [NO SE DA \(Bahía Aguacate\)](https://open.spotify.com/album/00IAfX3E8MwCxxyQy89hX9) | 3:00 | 2026-09-11 |  |
 | [No Se Dio](https://open.spotify.com/track/4WJlDctOtjnZXgW49DM1Bs) | [Ysa C](https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk), [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX), [The Prodigiez](https://open.spotify.com/artist/0ITff7REwQrTAlu9HsiWQT) | [No Se Dio](https://open.spotify.com/album/7qkFiccMKg5MaeuaznXLJF) | 2:48 | 2024-11-26 | 2026-09-19 |
 | [Nunca Es Tarde](https://open.spotify.com/track/56jmUTFstVNSPgsSOcvFof) | [Fifty](https://open.spotify.com/artist/0hc0PTtmvWMtjDatU4Mmyk) | [Nunca Es Tarde](https://open.spotify.com/album/6eHaYmkfZW8wpEyqgk3B5G) | 2:41 | 2026-09-11 | 2026-10-24 |

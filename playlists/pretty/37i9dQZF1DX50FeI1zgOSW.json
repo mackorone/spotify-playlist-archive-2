@@ -1,12 +1,12 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Sai Prashob",
-  "num_followers": 21734,
+  "num_followers": 21742,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADG6J+Q4JlaipVmGvkYFTHRvgoaJ",
+  "snapshot_id": "AAAAAI+X1aQTz3ed2eGbm40bqTx4K690",
   "tracks": [
     {
       "added_at": "2026-11-05 16:50:08",
@@ -109,6 +109,30 @@
       "url": "https://open.spotify.com/track/0V0C9pofS9nvn0EGU5kgfE"
     },
     {
+      "added_at": "2026-11-13 00:53:10",
+      "album": {
+        "name": "Artha Jamam",
+        "url": "https://open.spotify.com/album/3dmVwpaL5s5aSaehluRhko"
+      },
+      "artists": [
+        {
+          "name": "PRI",
+          "url": "https://open.spotify.com/artist/3SdB1D3HlBKxhy5kOOQvit"
+        },
+        {
+          "name": "Bak n 4th",
+          "url": "https://open.spotify.com/artist/0XZDSZnm55oXsRvKSsnPyv"
+        },
+        {
+          "name": "Athisaiyan Suresh",
+          "url": "https://open.spotify.com/artist/1kHBtaoep8kLtW9o52Hi7Z"
+        }
+      ],
+      "duration_ms": 249000,
+      "name": "Artha Jamam",
+      "url": "https://open.spotify.com/track/3YrQR9d2DVwtbedlIyZhH6"
+    },
+    {
       "added_at": "2026-10-19 12:26:16",
       "album": {
         "name": "Venmathiye",
@@ -123,6 +147,30 @@
       "duration_ms": 208666,
       "name": "Venmathiye",
       "url": "https://open.spotify.com/track/5VjrTq3Q4fZ5MWXCVavRQ7"
+    },
+    {
+      "added_at": "2026-11-13 00:53:10",
+      "album": {
+        "name": "Enakena Ne",
+        "url": "https://open.spotify.com/album/0Jv8vKRXgbhwTM5ILPEFKx"
+      },
+      "artists": [
+        {
+          "name": "Allan Preetham",
+          "url": "https://open.spotify.com/artist/5fzwyKrgd74RioG5kFNY03"
+        },
+        {
+          "name": "Ben Kingsley",
+          "url": "https://open.spotify.com/artist/15GDBRYOgCK5xZ8FxWEx4f"
+        },
+        {
+          "name": "Rajaganapathy",
+          "url": "https://open.spotify.com/artist/2VuJo5b1VcEIruE52GtNLq"
+        }
+      ],
+      "duration_ms": 231750,
+      "name": "Enakena Ne",
+      "url": "https://open.spotify.com/track/6bTrd4zfL4Z3TWvcBhc70Y"
     },
     {
       "added_at": "2026-11-06 12:15:42",
@@ -145,6 +193,22 @@
       "url": "https://open.spotify.com/track/29hRTF2McBiRPU5Vp1EpPU"
     },
     {
+      "added_at": "2026-11-13 00:53:10",
+      "album": {
+        "name": "Yaadhanaye",
+        "url": "https://open.spotify.com/album/6rS3WB82ecT6H5YgE1UgpP"
+      },
+      "artists": [
+        {
+          "name": "Prasad S.N",
+          "url": "https://open.spotify.com/artist/1deQgLe6eU8iiEwkRZDdc4"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Yaadhanaye",
+      "url": "https://open.spotify.com/track/3vqxLHoCRB7ShB9zSWiM4N"
+    },
+    {
       "added_at": "2026-07-16 15:08:35",
       "album": {
         "name": "Anbin Nadhiye",
@@ -159,6 +223,30 @@
       "duration_ms": 201082,
       "name": "Anbin Nadhiye",
       "url": "https://open.spotify.com/track/6aNNNwoULBgMkO2QfrPc1X"
+    },
+    {
+      "added_at": "2026-11-13 00:53:10",
+      "album": {
+        "name": "Poomadhi (From \u201cJamuna\u201d)",
+        "url": "https://open.spotify.com/album/3U50sohR6XcejUuQDlVNga"
+      },
+      "artists": [
+        {
+          "name": "Naveed Rehman",
+          "url": "https://open.spotify.com/artist/7iJepRkB92sBPs7Z8IGpuq"
+        },
+        {
+          "name": "Anchal Thakur",
+          "url": "https://open.spotify.com/artist/16ngoernrtNLt9ZcGFRIR4"
+        },
+        {
+          "name": "KULFI",
+          "url": "https://open.spotify.com/artist/5eH92zDf7WZSHUCqAKWfxR"
+        }
+      ],
+      "duration_ms": 194181,
+      "name": "Poomadhi - From \u201cJamuna\u201d",
+      "url": "https://open.spotify.com/track/0myoV8lmd4TLW2JngK5ios"
     },
     {
       "added_at": "2026-10-07 10:00:42",
@@ -193,6 +281,26 @@
       "url": "https://open.spotify.com/track/5gQ8TcvVGGMLrcUsJmN6v3"
     },
     {
+      "added_at": "2026-11-13 00:53:10",
+      "album": {
+        "name": "Supersonic",
+        "url": "https://open.spotify.com/album/5ucHmici4nAtI88HVMmnld"
+      },
+      "artists": [
+        {
+          "name": "Joshua Aaron",
+          "url": "https://open.spotify.com/artist/3q3ikUy0tmXkAonQpYDORq"
+        },
+        {
+          "name": "TNC",
+          "url": "https://open.spotify.com/artist/5q79L7eL1FmDlIMsBF2u12"
+        }
+      ],
+      "duration_ms": 213512,
+      "name": "Supersonic",
+      "url": "https://open.spotify.com/track/3Xis9ydmqZbbsDDjSqYgd1"
+    },
+    {
       "added_at": "2026-11-11 08:46:45",
       "album": {
         "name": "Aaku Paaku (Love Version) [From \"Think Indie\"]",
@@ -201,7 +309,7 @@
       "artists": [
         {
           "name": "Nandan Prabu",
-          "url": "https://open.spotify.com/artist/2Cag4gZ9qeVUd11qCjwRYC"
+          "url": "https://open.spotify.com/artist/1R092f0cKrQh1e2fu32oGl"
         },
         {
           "name": "KULFI",
@@ -947,26 +1055,6 @@
       "duration_ms": 248000,
       "name": "Lakhs of Kisses",
       "url": "https://open.spotify.com/track/3xOva2NHv8cXA7zu6AaQdC"
-    },
-    {
-      "added_at": "2026-06-10 10:19:16",
-      "album": {
-        "name": "IOIO",
-        "url": "https://open.spotify.com/album/1tkadsy7lB3zNA5xkWbM30"
-      },
-      "artists": [
-        {
-          "name": "Harsha Vardhan",
-          "url": "https://open.spotify.com/artist/5HBsR2S0am7usrUZ5GVos1"
-        },
-        {
-          "name": "Vishnu Edavan",
-          "url": "https://open.spotify.com/artist/0EESJaBQY5fiBeQOGvDi3T"
-        }
-      ],
-      "duration_ms": 169117,
-      "name": "IOIO",
-      "url": "https://open.spotify.com/track/0ye9i27scMk0GBlbGJEVjJ"
     },
     {
       "added_at": "2026-08-04 06:47:01",
@@ -1741,26 +1829,6 @@
       "url": "https://open.spotify.com/track/1mgNWa6XeVeaJkPz7xuBZP"
     },
     {
-      "added_at": "2026-05-23 12:56:43",
-      "album": {
-        "name": "Needhaana",
-        "url": "https://open.spotify.com/album/4k1iILHsTBRDvOfjAEX4r9"
-      },
-      "artists": [
-        {
-          "name": "Sandhya Chari",
-          "url": "https://open.spotify.com/artist/3c9OLxs9AiWd0ec9k08Y6X"
-        },
-        {
-          "name": "Athisaiyan Suresh",
-          "url": "https://open.spotify.com/artist/1kHBtaoep8kLtW9o52Hi7Z"
-        }
-      ],
-      "duration_ms": 219434,
-      "name": "Needhaana",
-      "url": "https://open.spotify.com/track/3289Oo8ShsetMCZ7RK4gxG"
-    },
-    {
       "added_at": "2026-07-09 14:57:16",
       "album": {
         "name": "Anu Anuvai",
@@ -1853,46 +1921,6 @@
       "url": "https://open.spotify.com/track/3wlxGGL8AjIY22ZJ1SgVgM"
     },
     {
-      "added_at": "2026-05-04 07:54:22",
-      "album": {
-        "name": "Pachaikili",
-        "url": "https://open.spotify.com/album/12ynGqeFcY7fseMm3rXj0Z"
-      },
-      "artists": [
-        {
-          "name": "Sourav Suresh",
-          "url": "https://open.spotify.com/artist/4bl4dLgJ5NQezTcREd7ECu"
-        },
-        {
-          "name": "Amaya Shaj",
-          "url": "https://open.spotify.com/artist/5JfPBgCEMiXteIK9sLUx3R"
-        }
-      ],
-      "duration_ms": 190164,
-      "name": "Pachaikili",
-      "url": "https://open.spotify.com/track/4ZVjetCurXC1f6irAsfoKH"
-    },
-    {
-      "added_at": "2026-05-10 01:11:33",
-      "album": {
-        "name": "Azhage",
-        "url": "https://open.spotify.com/album/2z6CcR8uMUZKugAl9OcDI8"
-      },
-      "artists": [
-        {
-          "name": "Mr.Manglish",
-          "url": "https://open.spotify.com/artist/7HUDa5mBirRdGHzmEFvd3v"
-        },
-        {
-          "name": "Sreya Sri",
-          "url": "https://open.spotify.com/artist/64M8okQp1fbO4ucVayzptd"
-        }
-      ],
-      "duration_ms": 207750,
-      "name": "Azhage",
-      "url": "https://open.spotify.com/track/0ARQLookb1w5u7AsNq4AHm"
-    },
-    {
       "added_at": "2026-05-29 10:56:32",
       "album": {
         "name": "Ninaivil Nee",
@@ -1959,22 +1987,6 @@
       "duration_ms": 242896,
       "name": "Vizhigalil Aasa",
       "url": "https://open.spotify.com/track/4q0VwdxR6Kok5bq7aYiTui"
-    },
-    {
-      "added_at": "2026-05-20 15:27:36",
-      "album": {
-        "name": "Maruvaati",
-        "url": "https://open.spotify.com/album/1Yjp0QGEKrZLzanB29GWmZ"
-      },
-      "artists": [
-        {
-          "name": "Wasim R",
-          "url": "https://open.spotify.com/artist/3VpaMk7vUcWlbF9GhqNoT2"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Maruvaati",
-      "url": "https://open.spotify.com/track/5Oea0pw6YbO9v9yhjP5Gbj"
     },
     {
       "added_at": "2026-06-03 21:26:56",

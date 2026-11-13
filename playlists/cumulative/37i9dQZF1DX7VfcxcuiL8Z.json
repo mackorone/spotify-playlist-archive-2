@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The best in new rock. Cover: Royal Blood",
+  "description": "The best in new rock. Cover: Fall Out Boy",
   "name": "Rock Out.",
   "tracks": [
     {
@@ -258,6 +258,24 @@
       "duration_ms": 283160,
       "name": "Accomplice",
       "url": "https://open.spotify.com/track/46ywwjXiSMwkQb2VP78Uqi"
+    },
+    {
+      "album": {
+        "name": "ACES",
+        "url": "https://open.spotify.com/album/6T9ZMACdVbFDmk22nZLpzH"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211844,
+      "name": "ACES",
+      "url": "https://open.spotify.com/track/2sCwIkIPsvrZXbHNQWkvo8"
     },
     {
       "album": {
@@ -985,6 +1003,24 @@
     },
     {
       "album": {
+        "name": "It all feels the same from afar",
+        "url": "https://open.spotify.com/album/0Wj5EYtvHmqW0OC8gKtoVC"
+      },
+      "artists": [
+        {
+          "name": "breakkaway",
+          "url": "https://open.spotify.com/artist/5z5HaEaQY18oRwCuIXf826"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134485,
+      "name": "Backseat",
+      "url": "https://open.spotify.com/track/31KsU3qjA8eQ5Kh9YQ9Cqt"
+    },
+    {
+      "album": {
         "name": "Play Niis",
         "url": "https://open.spotify.com/album/229GwK7pxQ81okcU4phzEC"
       },
@@ -1212,7 +1248,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 192990,
       "name": "Be Happy",
       "url": "https://open.spotify.com/track/2vQ2jaoKYz6651c4qwjy69"
@@ -1288,7 +1324,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 302800,
       "name": "BedHead",
       "url": "https://open.spotify.com/track/1aPrxGK9OZBVscOkKwklR4"
@@ -1350,6 +1386,24 @@
       "duration_ms": 260550,
       "name": "Begging for Change",
       "url": "https://open.spotify.com/track/0HeZeCEzrXPXdaTD9JDA4a"
+    },
+    {
+      "album": {
+        "name": "Benny's Video",
+        "url": "https://open.spotify.com/album/6c3Ol8A3dtGWvo3fa9jun2"
+      },
+      "artists": [
+        {
+          "name": "Gang of Youths",
+          "url": "https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318000,
+      "name": "Benny's Video",
+      "url": "https://open.spotify.com/track/5N4sQdc3npLGzNfjg8kxlY"
     },
     {
       "album": {
@@ -1458,6 +1512,24 @@
       "duration_ms": 191700,
       "name": "Big Dreams",
       "url": "https://open.spotify.com/track/0lInhiFmT2Dk9RlJItxzIG"
+    },
+    {
+      "album": {
+        "name": "big freak",
+        "url": "https://open.spotify.com/album/0i5mCnj5znjoEpElwLbLDk"
+      },
+      "artists": [
+        {
+          "name": "Middle Kids",
+          "url": "https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182899,
+      "name": "big freak",
+      "url": "https://open.spotify.com/track/0bSFRKbr6mzWv35E6SXZMy"
     },
     {
       "album": {
@@ -2496,7 +2568,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 189677,
       "name": "Closer",
       "url": "https://open.spotify.com/track/0OgIjOcARxnYgm5iL5P6AA"
@@ -2712,7 +2784,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 167906,
       "name": "Copenhagen",
       "url": "https://open.spotify.com/track/7slWyXCqYjStw4zapVAZL0"
@@ -2748,7 +2820,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 163465,
       "name": "Counting The Days",
       "url": "https://open.spotify.com/track/0LtfzO8EAU8xvrNl89H9Ci"
@@ -3895,6 +3967,24 @@
     },
     {
       "album": {
+        "name": "Expensive Music",
+        "url": "https://open.spotify.com/album/3BMYqDZXXM6mTnP7zewI6J"
+      },
+      "artists": [
+        {
+          "name": "Ricky Albeck",
+          "url": "https://open.spotify.com/artist/7hHSpppI6jMgsOwPjX0v3E"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206716,
+      "name": "Expensive Music",
+      "url": "https://open.spotify.com/track/6RJk2DuCdUnM2XZhul9txe"
+    },
+    {
+      "album": {
         "name": "Dead Anthems",
         "url": "https://open.spotify.com/album/0nAORS2KFCgUx4VhpeuZUY"
       },
@@ -4076,7 +4166,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 172125,
       "name": "fever dream",
       "url": "https://open.spotify.com/track/0RkGXPK7gU68W5buwhag6Y"
@@ -4466,6 +4556,24 @@
       "duration_ms": 211794,
       "name": "Fuck You, Pay Me",
       "url": "https://open.spotify.com/track/7jSwMVsXQgjXgX8Rc5e9LW"
+    },
+    {
+      "album": {
+        "name": "It was only a dream",
+        "url": "https://open.spotify.com/album/22DbAhXhwLN1Q4xkA047OC"
+      },
+      "artists": [
+        {
+          "name": "Amira Elfeky",
+          "url": "https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198093,
+      "name": "Funeral",
+      "url": "https://open.spotify.com/track/35qlLHdXJ60WKwKIryhL0U"
     },
     {
       "album": {
@@ -6497,6 +6605,24 @@
     },
     {
       "album": {
+        "name": "Itsy Bitsy",
+        "url": "https://open.spotify.com/album/44V5OVOQ0zmbh1T1UYL6Bt"
+      },
+      "artists": [
+        {
+          "name": "jade yee-smith",
+          "url": "https://open.spotify.com/artist/2JffhI0mbTb7flHpwPgq3a"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205988,
+      "name": "Itsy Bitsy",
+      "url": "https://open.spotify.com/track/2rlzp4LgFSePAHPYhSLQqR"
+    },
+    {
+      "album": {
         "name": "Dopamine Chamber",
         "url": "https://open.spotify.com/album/0JICUfSKOdGqzE9FJSrNci"
       },
@@ -7348,7 +7474,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 200186,
       "name": "Lonely in the Future",
       "url": "https://open.spotify.com/track/5gBMUQu2FVV1OYu92hbJjv"
@@ -10294,7 +10420,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 219029,
       "name": "Run Away",
       "url": "https://open.spotify.com/track/4djHuoHnH3bEKf5tbviToI"
@@ -11008,7 +11134,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 344666,
       "name": "SLPM",
       "url": "https://open.spotify.com/track/7CglnAjpSvMMSIAMeBfVvP"
@@ -13077,6 +13203,28 @@
     },
     {
       "album": {
+        "name": "Carnaval De Luz",
+        "url": "https://open.spotify.com/album/07Q9bUJarYrFjhxofoenM0"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270285,
+      "name": "Torn (feat. Dolly Parton)",
+      "url": "https://open.spotify.com/track/28voksbZPIhS2dJV6iLS1h"
+    },
+    {
+      "album": {
         "name": "Tourniquet",
         "url": "https://open.spotify.com/album/2U1NHrusYm2RjcbX1tEi56"
       },
@@ -13604,6 +13752,24 @@
       "duration_ms": 209160,
       "name": "Virtual Lover",
       "url": "https://open.spotify.com/track/2PpCKWp67hO4NKvQr10Q8o"
+    },
+    {
+      "album": {
+        "name": "VISION",
+        "url": "https://open.spotify.com/album/1k8iox8vL0cWGsrsTiIGA0"
+      },
+      "artists": [
+        {
+          "name": "Quarters",
+          "url": "https://open.spotify.com/artist/0mnruuV4CcKu7Ux7kBZ5sa"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243250,
+      "name": "VISION",
+      "url": "https://open.spotify.com/track/6x8MDxMoqVhnSXWy07s6xX"
     },
     {
       "album": {

@@ -1,60 +1,60 @@
 {
-  "description": "Fearless sounds at the crossroads of country and folk. Cover: The Dead South",
-  "num_followers": 70420,
+  "description": "Fearless sounds at the crossroads of country and folk. Cover: Noeline Hofmann",
+  "num_followers": 70419,
   "original_name": "Renegades",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGBbUwKcutZMw9zkJ2mHs0GzTEUS",
+  "snapshot_id": "AAAAACE3UTjZZzxEAj0A0cAphtiTFY2H",
   "tracks": [
     {
       "added_at": "2026-11-06 05:02:45",
       "album": {
-        "name": "Scarlett",
-        "url": "https://open.spotify.com/album/7hUGKO4CfgGFAmw3qc0UQb"
+        "name": "The Great Divide",
+        "url": "https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz"
       },
       "artists": [
         {
-          "name": "Richy Mitch & The Coal Miners",
-          "url": "https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau"
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
         }
       ],
-      "duration_ms": 184000,
-      "name": "Scarlett",
-      "url": "https://open.spotify.com/track/0VkA3rug1fdlSPGw1rMnos"
+      "duration_ms": 231086,
+      "name": "Doors",
+      "url": "https://open.spotify.com/track/3iU2qsthCTo5EeTE03l3Si"
+    },
+    {
+      "added_at": "2026-11-12 22:28:36",
+      "album": {
+        "name": "Blink of an Eye",
+        "url": "https://open.spotify.com/album/1lV6prQWBJ9qFjaNB1wefs"
+      },
+      "artists": [
+        {
+          "name": "Julian Taylor",
+          "url": "https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6"
+        }
+      ],
+      "duration_ms": 209380,
+      "name": "Blink of an Eye",
+      "url": "https://open.spotify.com/track/2Dh8EwD5TcIEsPASpxrwUm"
     },
     {
       "added_at": "2026-11-06 05:02:45",
       "album": {
-        "name": "Butter My Lover",
-        "url": "https://open.spotify.com/album/4sallK6PvSMYzgy0yht9ie"
+        "name": "What You Want",
+        "url": "https://open.spotify.com/album/4k6889NpXtWFLCM70GknB9"
       },
       "artists": [
         {
-          "name": "The Dead South",
-          "url": "https://open.spotify.com/artist/3HR1xtIsUefdFnkI1XHgeA"
+          "name": "Vincent Mason",
+          "url": "https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS"
         }
       ],
-      "duration_ms": 185735,
-      "name": "Butter My Lover",
-      "url": "https://open.spotify.com/track/1qHOvXNVPJucw4dCBY2H0D"
-    },
-    {
-      "added_at": "2026-11-06 05:02:45",
-      "album": {
-        "name": "Good By Now",
-        "url": "https://open.spotify.com/album/3R4ZvpbQntDFuVCJF7Rw4n"
-      },
-      "artists": [
-        {
-          "name": "Thelma & James",
-          "url": "https://open.spotify.com/artist/60WW5HfHRijpxoTRlaU8BE"
-        }
-      ],
-      "duration_ms": 183765,
-      "name": "Good By Now",
-      "url": "https://open.spotify.com/track/714MAXEt0p1j3XDCyJ9uZT"
+      "duration_ms": 172885,
+      "name": "What You Want",
+      "url": "https://open.spotify.com/track/1OSzjOgzbkNP8ti6444vBv"
     },
     {
       "added_at": "2026-11-06 05:02:45",
@@ -127,18 +127,18 @@
     {
       "added_at": "2026-11-06 05:02:45",
       "album": {
-        "name": "Pair of Dice",
-        "url": "https://open.spotify.com/album/0KLVzJ7M9BUmVrj8Ic5CHL"
+        "name": "Butter My Lover",
+        "url": "https://open.spotify.com/album/4sallK6PvSMYzgy0yht9ie"
       },
       "artists": [
         {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+          "name": "The Dead South",
+          "url": "https://open.spotify.com/artist/3HR1xtIsUefdFnkI1XHgeA"
         }
       ],
-      "duration_ms": 269833,
-      "name": "Pair of Dice",
-      "url": "https://open.spotify.com/track/0SIaQRxv2uyjjeWP8PV7uj"
+      "duration_ms": 185735,
+      "name": "Butter My Lover",
+      "url": "https://open.spotify.com/track/1qHOvXNVPJucw4dCBY2H0D"
     },
     {
       "added_at": "2026-11-06 05:02:45",
@@ -207,38 +207,6 @@
     {
       "added_at": "2026-11-06 05:02:45",
       "album": {
-        "name": "The Great Divide",
-        "url": "https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 231086,
-      "name": "Doors",
-      "url": "https://open.spotify.com/track/3iU2qsthCTo5EeTE03l3Si"
-    },
-    {
-      "added_at": "2026-11-06 05:02:45",
-      "album": {
-        "name": "What You Want",
-        "url": "https://open.spotify.com/album/4k6889NpXtWFLCM70GknB9"
-      },
-      "artists": [
-        {
-          "name": "Vincent Mason",
-          "url": "https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS"
-        }
-      ],
-      "duration_ms": 172885,
-      "name": "What You Want",
-      "url": "https://open.spotify.com/track/1OSzjOgzbkNP8ti6444vBv"
-    },
-    {
-      "added_at": "2026-11-06 05:02:45",
-      "album": {
         "name": "With Heaven On Top",
         "url": "https://open.spotify.com/album/4NvMwUFmY1dcDEgD8KoQjG"
       },
@@ -251,22 +219,6 @@
       "duration_ms": 185788,
       "name": "Plastic Cigarette",
       "url": "https://open.spotify.com/track/2jCJjRc9mz6VYBMhLy3H9i"
-    },
-    {
-      "added_at": "2026-11-06 05:02:45",
-      "album": {
-        "name": "Loving You Like That",
-        "url": "https://open.spotify.com/album/14mWqWNWb41eUWAHFiryiH"
-      },
-      "artists": [
-        {
-          "name": "Dylan Gossett",
-          "url": "https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x"
-        }
-      ],
-      "duration_ms": 265401,
-      "name": "Loving You Like That",
-      "url": "https://open.spotify.com/track/3LBOyssekEWeHA7TaGEksG"
     },
     {
       "added_at": "2026-11-06 05:02:45",
@@ -303,6 +255,22 @@
       "duration_ms": 317961,
       "name": "The Great Divide",
       "url": "https://open.spotify.com/track/77zqs8ucHCSk5jh9TYec4b"
+    },
+    {
+      "added_at": "2026-11-06 05:02:45",
+      "album": {
+        "name": "Loving You Like That",
+        "url": "https://open.spotify.com/album/14mWqWNWb41eUWAHFiryiH"
+      },
+      "artists": [
+        {
+          "name": "Dylan Gossett",
+          "url": "https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x"
+        }
+      ],
+      "duration_ms": 265401,
+      "name": "Loving You Like That",
+      "url": "https://open.spotify.com/track/3LBOyssekEWeHA7TaGEksG"
     },
     {
       "added_at": "2026-11-06 05:02:45",
@@ -479,6 +447,22 @@
     {
       "added_at": "2026-11-06 05:02:45",
       "album": {
+        "name": "Pair of Dice",
+        "url": "https://open.spotify.com/album/0KLVzJ7M9BUmVrj8Ic5CHL"
+      },
+      "artists": [
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        }
+      ],
+      "duration_ms": 269833,
+      "name": "Pair of Dice",
+      "url": "https://open.spotify.com/track/0SIaQRxv2uyjjeWP8PV7uj"
+    },
+    {
+      "added_at": "2026-11-06 05:02:45",
+      "album": {
         "name": "Pretty Little Liar",
         "url": "https://open.spotify.com/album/24dL04mo8rbTz1UjztM9Um"
       },
@@ -543,18 +527,18 @@
     {
       "added_at": "2026-11-06 05:02:45",
       "album": {
-        "name": "Magnolia Sage (In Full Bloom)",
-        "url": "https://open.spotify.com/album/0SUFiA1g2CrQfVFxyYRL3N"
+        "name": "Scarlett",
+        "url": "https://open.spotify.com/album/7hUGKO4CfgGFAmw3qc0UQb"
       },
       "artists": [
         {
-          "name": "Jackson Dean",
-          "url": "https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl"
+          "name": "Richy Mitch & The Coal Miners",
+          "url": "https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau"
         }
       ],
-      "duration_ms": 261693,
-      "name": "Wildfire - Afterburn",
-      "url": "https://open.spotify.com/track/63Ga7BbFylK89dZc6H0MF6"
+      "duration_ms": 184000,
+      "name": "Scarlett",
+      "url": "https://open.spotify.com/track/0VkA3rug1fdlSPGw1rMnos"
     },
     {
       "added_at": "2026-11-06 05:02:45",
@@ -571,6 +555,38 @@
       "duration_ms": 147588,
       "name": "Carolina Heart",
       "url": "https://open.spotify.com/track/3DtHxRGefgI8U1AAMeFGjg"
+    },
+    {
+      "added_at": "2026-11-06 05:02:45",
+      "album": {
+        "name": "Magnolia Sage (In Full Bloom)",
+        "url": "https://open.spotify.com/album/0SUFiA1g2CrQfVFxyYRL3N"
+      },
+      "artists": [
+        {
+          "name": "Jackson Dean",
+          "url": "https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl"
+        }
+      ],
+      "duration_ms": 261693,
+      "name": "Wildfire - Afterburn",
+      "url": "https://open.spotify.com/track/63Ga7BbFylK89dZc6H0MF6"
+    },
+    {
+      "added_at": "2026-11-06 05:02:45",
+      "album": {
+        "name": "Good By Now",
+        "url": "https://open.spotify.com/album/3R4ZvpbQntDFuVCJF7Rw4n"
+      },
+      "artists": [
+        {
+          "name": "Thelma & James",
+          "url": "https://open.spotify.com/artist/60WW5HfHRijpxoTRlaU8BE"
+        }
+      ],
+      "duration_ms": 183765,
+      "name": "Good By Now",
+      "url": "https://open.spotify.com/track/714MAXEt0p1j3XDCyJ9uZT"
     },
     {
       "added_at": "2026-11-06 05:02:45",
@@ -671,22 +687,6 @@
     {
       "added_at": "2026-11-06 05:02:45",
       "album": {
-        "name": "Famous to You",
-        "url": "https://open.spotify.com/album/6kfzInEq7MP3gwjxUdusf6"
-      },
-      "artists": [
-        {
-          "name": "Max McNown",
-          "url": "https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp"
-        }
-      ],
-      "duration_ms": 216261,
-      "name": "Famous to You",
-      "url": "https://open.spotify.com/track/4fk3Kq7uZYVCZGsaVJKcY3"
-    },
-    {
-      "added_at": "2026-11-06 05:02:45",
-      "album": {
         "name": "Light Over the Hill (from Reminders of Him)",
         "url": "https://open.spotify.com/album/3xMWMgRB83AwY5d4fDmTiX"
       },
@@ -699,6 +699,22 @@
       "duration_ms": 283605,
       "name": "Light Over the Hill (from Reminders of Him)",
       "url": "https://open.spotify.com/track/1TYfVk1t85btBuBGqEnB4g"
+    },
+    {
+      "added_at": "2026-11-06 05:02:45",
+      "album": {
+        "name": "Famous to You",
+        "url": "https://open.spotify.com/album/6kfzInEq7MP3gwjxUdusf6"
+      },
+      "artists": [
+        {
+          "name": "Max McNown",
+          "url": "https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp"
+        }
+      ],
+      "duration_ms": 216261,
+      "name": "Famous to You",
+      "url": "https://open.spotify.com/track/4fk3Kq7uZYVCZGsaVJKcY3"
     },
     {
       "added_at": "2026-11-06 05:02:45",
@@ -755,22 +771,6 @@
     {
       "added_at": "2026-11-06 05:02:45",
       "album": {
-        "name": "Heart You Didn't Break",
-        "url": "https://open.spotify.com/album/5uUttORPPONM7o3vhYZO2m"
-      },
-      "artists": [
-        {
-          "name": "Max McNown",
-          "url": "https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp"
-        }
-      ],
-      "duration_ms": 192185,
-      "name": "Heart You Didn't Break",
-      "url": "https://open.spotify.com/track/3LZ9tH82f13GAbbm97c8dN"
-    },
-    {
-      "added_at": "2026-11-06 05:02:45",
-      "album": {
         "name": "Dustpiles",
         "url": "https://open.spotify.com/album/7wLlEZobDhLqAYs7slQGBo"
       },
@@ -783,6 +783,22 @@
       "duration_ms": 243960,
       "name": "The Dress",
       "url": "https://open.spotify.com/track/4pbQxmny6x7hYojKtu77SW"
+    },
+    {
+      "added_at": "2026-11-06 05:02:45",
+      "album": {
+        "name": "Heart You Didn't Break",
+        "url": "https://open.spotify.com/album/5uUttORPPONM7o3vhYZO2m"
+      },
+      "artists": [
+        {
+          "name": "Max McNown",
+          "url": "https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp"
+        }
+      ],
+      "duration_ms": 192185,
+      "name": "Heart You Didn't Break",
+      "url": "https://open.spotify.com/track/3LZ9tH82f13GAbbm97c8dN"
     },
     {
       "added_at": "2026-11-06 05:02:45",
@@ -839,22 +855,6 @@
     {
       "added_at": "2026-11-06 05:02:45",
       "album": {
-        "name": "Wilson Silverstar 402 Blues",
-        "url": "https://open.spotify.com/album/7Ato6HH1IWAPVjBjPIoxhP"
-      },
-      "artists": [
-        {
-          "name": "Noeline Hofmann",
-          "url": "https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW"
-        }
-      ],
-      "duration_ms": 283723,
-      "name": "Wilson Silverstar 402 Blues",
-      "url": "https://open.spotify.com/track/73ZTpFDEMU8wRmj4KXv0J2"
-    },
-    {
-      "added_at": "2026-11-06 05:02:45",
-      "album": {
         "name": "Frostbite",
         "url": "https://open.spotify.com/album/1kGSdeHUwCRfN1Fi7v02i4"
       },
@@ -867,6 +867,22 @@
       "duration_ms": 202674,
       "name": "Frostbite",
       "url": "https://open.spotify.com/track/1bJPV0YFBxytUqVWnwngq5"
+    },
+    {
+      "added_at": "2026-11-06 05:02:45",
+      "album": {
+        "name": "Wilson Silverstar 402 Blues",
+        "url": "https://open.spotify.com/album/7Ato6HH1IWAPVjBjPIoxhP"
+      },
+      "artists": [
+        {
+          "name": "Noeline Hofmann",
+          "url": "https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW"
+        }
+      ],
+      "duration_ms": 283723,
+      "name": "Wilson Silverstar 402 Blues",
+      "url": "https://open.spotify.com/track/73ZTpFDEMU8wRmj4KXv0J2"
     },
     {
       "added_at": "2026-11-06 05:02:45",
@@ -1311,22 +1327,6 @@
     {
       "added_at": "2026-11-06 05:02:45",
       "album": {
-        "name": "Home Depot",
-        "url": "https://open.spotify.com/album/7whQfUpiPPsEt05CmwK4Is"
-      },
-      "artists": [
-        {
-          "name": "Medium Build",
-          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
-        }
-      ],
-      "duration_ms": 193039,
-      "name": "Home Depot",
-      "url": "https://open.spotify.com/track/0CaoTxpMO29nsMXQXSfPTY"
-    },
-    {
-      "added_at": "2026-11-06 05:02:45",
-      "album": {
         "name": "True Violet",
         "url": "https://open.spotify.com/album/2eWgxkjH8BZR652lXDfDB5"
       },
@@ -1339,6 +1339,22 @@
       "duration_ms": 251066,
       "name": "Better Man",
       "url": "https://open.spotify.com/track/4hKN1viExB1aJPbEctj68g"
+    },
+    {
+      "added_at": "2026-11-06 05:02:45",
+      "album": {
+        "name": "Home Depot",
+        "url": "https://open.spotify.com/album/7whQfUpiPPsEt05CmwK4Is"
+      },
+      "artists": [
+        {
+          "name": "Medium Build",
+          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
+        }
+      ],
+      "duration_ms": 193039,
+      "name": "Home Depot",
+      "url": "https://open.spotify.com/track/0CaoTxpMO29nsMXQXSfPTY"
     },
     {
       "added_at": "2026-11-06 05:02:45",
@@ -1507,22 +1523,6 @@
     {
       "added_at": "2026-11-06 05:02:45",
       "album": {
-        "name": "The Hard Way (Complete Edition)",
-        "url": "https://open.spotify.com/album/5uQnCFvZnigWu4AVJS15t8"
-      },
-      "artists": [
-        {
-          "name": "Cameron Whitcomb",
-          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
-        }
-      ],
-      "duration_ms": 167152,
-      "name": "Want For Nothing",
-      "url": "https://open.spotify.com/track/5pIWnSAzQuBUnJcXjL4auI"
-    },
-    {
-      "added_at": "2026-11-06 05:02:45",
-      "album": {
         "name": "I'm In Love with a Man",
         "url": "https://open.spotify.com/album/6DBhzD6TexUCl3FSjOmSmZ"
       },
@@ -1535,6 +1535,22 @@
       "duration_ms": 181846,
       "name": "I'm In Love with a Man",
       "url": "https://open.spotify.com/track/5EYpxenCIodbHiMovjb6tt"
+    },
+    {
+      "added_at": "2026-11-06 05:02:45",
+      "album": {
+        "name": "The Hard Way (Complete Edition)",
+        "url": "https://open.spotify.com/album/5uQnCFvZnigWu4AVJS15t8"
+      },
+      "artists": [
+        {
+          "name": "Cameron Whitcomb",
+          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
+        }
+      ],
+      "duration_ms": 167152,
+      "name": "Want For Nothing",
+      "url": "https://open.spotify.com/track/5pIWnSAzQuBUnJcXjL4auI"
     },
     {
       "added_at": "2026-11-06 05:02:45",
@@ -1663,26 +1679,6 @@
       "duration_ms": 186280,
       "name": "Fell In Love (Couldn't Get Out)",
       "url": "https://open.spotify.com/track/2LT0EEkdCg1GFXbTKtz3Ci"
-    },
-    {
-      "added_at": "2026-11-06 05:02:45",
-      "album": {
-        "name": "If There's A Heaven",
-        "url": "https://open.spotify.com/album/2wztGzC37E9wJez5AMCJf3"
-      },
-      "artists": [
-        {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
-        },
-        {
-          "name": "Stephen Wilson Jr.",
-          "url": "https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd"
-        }
-      ],
-      "duration_ms": 301780,
-      "name": "If There's A Heaven",
-      "url": "https://open.spotify.com/track/7lfCazSXAmsNc1bZ3d4zwx"
     }
   ],
   "unique_name": "Renegades",

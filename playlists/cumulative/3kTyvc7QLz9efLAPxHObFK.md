@@ -4,7 +4,7 @@
 
 > 
 
-3,258 songs - 6 day 23 hr 26 min
+3,260 songs - 6 day 23 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -587,6 +587,7 @@
 | [Crazy in Love](https://open.spotify.com/track/1pXf678Bt8HUG1gjAWaojJ) | [Invictus](https://open.spotify.com/artist/5h298bjSxYJBmrrYVnZ51O), [High Resistance](https://open.spotify.com/artist/2oqQBJb0AXOKJHOzOlEuWO) | [Crazy In Love \(Hardstyle\)](https://open.spotify.com/album/68EaPKnMRNt2FrTCZBTwE8) | 2:49 | 2026-05-28 |  |
 | [Creature](https://open.spotify.com/track/0duEKwS3y2r4j3ObMzDEh9) | [Dither](https://open.spotify.com/artist/2CTPZndAY5BwdgHk8AX0B7), [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3) | [Creature](https://open.spotify.com/album/4D0BKqlqFQXmuR3tYlwwxP) | 4:11 | 2023-04-14 |  |
 | [Creed Of Freakstyle](https://open.spotify.com/track/14IsD2FgLmBaGVsbCm1oIE) | [Angerfist](https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS), [Restrained](https://open.spotify.com/artist/2ym6Gwn7qNzgiAm6VA3nsV) | [Creed Of Freakstyle](https://open.spotify.com/album/5QgbUIZAldBQ6FmWDMXD6D) | 4:09 | 2023-10-03 |  |
+| [Crime Light](https://open.spotify.com/track/1uYOF1MbYr0UoOmIKOF6E7) | [Noise Of Aggression](https://open.spotify.com/artist/3IUHsnxMykEgZX9K1v94F1), [Silky Noize](https://open.spotify.com/artist/4ijctz73JCwLekCyUpoPuL), [Guiberz](https://open.spotify.com/artist/5foXMuzBwyazFvEVJqUcq4) | [Crime Light](https://open.spotify.com/album/3hJviEphFhKhdO4mIJRJ7Y) | 2:22 | 2026-11-12 |  |
 | [Crispy](https://open.spotify.com/track/6qCF6QCjFw1RBvMcdQWyzA) | [Sghenny](https://open.spotify.com/artist/4ciy3r7f8nrBKoLZsJ6oVY) | [Smile Jumptek](https://open.spotify.com/album/7rSEUcDgnGds45VoReyCV5) | 3:03 | 2023-04-14 |  |
 | [Cross The Line](https://open.spotify.com/track/0J8fSvuZKVUbggaUgiHtNp) | [Dither](https://open.spotify.com/artist/2CTPZndAY5BwdgHk8AX0B7) | [The Wreckoning](https://open.spotify.com/album/18Mnzx0terGHSvFhPyzaCB) | 3:30 | 2023-07-16 |  |
 | [CrossFire](https://open.spotify.com/track/3NmnT8Vj2cyagwkFyKIULQ) | [USAO](https://open.spotify.com/artist/25iPl8VJFDu38JMFF6uMXI) | [CrossFire](https://open.spotify.com/album/0DQPHQwaNiI9yXYIkiX8MF) | 2:25 | 2023-10-26 |  |
@@ -3066,6 +3067,7 @@
 | [Wake Up](https://open.spotify.com/track/5ujH0zeUaY4PzTbieNLitQ) | [Darksiderz](https://open.spotify.com/artist/1XwoaxvFx5Y67ZdLQt2TMa), [ATHRS](https://open.spotify.com/artist/5AXI65sMlxQ1GtWmoyf3jN), [Kreation](https://open.spotify.com/artist/3xDNY0vcZ7JBBX5fhdbT83) | [Letting Go](https://open.spotify.com/album/7rlWtfndeXQ7uS6vQZRrXL) | 3:29 | 2024-05-10 |  |
 | [Wake Up The Neighbours](https://open.spotify.com/track/2eLaCrv73osOtnP31Dy7n1) | [M\-Project](https://open.spotify.com/artist/5XQLMFJlYMppzVqRUpFP5x), [Last Word](https://open.spotify.com/artist/4xhbLq3ngCmSNOIoqyS3AG) | [Over The Top](https://open.spotify.com/album/3ZzLWwCFdoYHAnsdDOFhxA) | 3:39 | 2023-10-06 |  |
 | [WAKE UP TO REALITY](https://open.spotify.com/track/2ifB8uuDuMrtonYtQlcCfQ) | [Frenchkillerz](https://open.spotify.com/artist/1AYLNDNyJwPWGSlB3l2Ji1), [Zero Decay](https://open.spotify.com/artist/6jeIVSYtovQyTuskys78hD) | [WAKE UP TO REALITY](https://open.spotify.com/album/5uKbXalGIjrvJhsZEs8alR) | 3:46 | 2022-11-21 |  |
+| [WAKE UP!](https://open.spotify.com/track/4Unobu6728CSjZwhRdhXaQ) | [Dyzo](https://open.spotify.com/artist/0cV7yJEN1t7Dd7s73RIRBA), [Acidz](https://open.spotify.com/artist/4AflTeWUY89j7GYJvyWGAo) | [WAKE UP!](https://open.spotify.com/album/3jg5EGLhTJcCY4QYFiyy9C) | 2:29 | 2026-11-12 |  |
 | [Wander](https://open.spotify.com/track/1O4SkvHwM1Y04NDVMvbBfO) | [Dead X](https://open.spotify.com/artist/1viO40zvthKBg0VNEnJoma), [Yosuf](https://open.spotify.com/artist/0pceb68in41LfgvQbkvCzg) | [Wander](https://open.spotify.com/album/40uderlqt7fwSjrb1X10k9) | 2:24 | 2024-08-04 |  |
 | [Wanna Be Free](https://open.spotify.com/track/6XbYj3HEET0vX9ZjBqjZii) | [kors k](https://open.spotify.com/artist/667AP6niAXUnJkkum46TvZ), [MK](https://open.spotify.com/artist/6srOYVliLMjw56yDyBvV6k) | [Wanna Be Free](https://open.spotify.com/album/4crhvQ4yIMZJElfCVPoIKn) | 3:25 | 2022-09-28 |  |
 | [Wanna Get Down](https://open.spotify.com/track/4M1XovhczZdEsteFJcn6Hx) | [Vengeance](https://open.spotify.com/artist/0rkZewDpEnFUDab7m5A4Tz), [Timpo](https://open.spotify.com/artist/2blWHyCFa21GwZfWH6HNHw) | [Wanna Get Down](https://open.spotify.com/album/3qLUwgrUevXYLltM95XJOA) | 2:36 | 2025-04-25 |  |

@@ -673,6 +673,24 @@
     },
     {
       "album": {
+        "name": "Hollowbody",
+        "url": "https://open.spotify.com/album/4UelZbXLzeHu2g8WGH18Y4"
+      },
+      "artists": [
+        {
+          "name": "Fog Lake",
+          "url": "https://open.spotify.com/artist/04GCjO1r1hPelibCUq9S8H"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195981,
+      "name": "Balcony",
+      "url": "https://open.spotify.com/track/2IB4itue6EUReMjhpTvSoh"
+    },
+    {
+      "album": {
         "name": "Beau Bassin",
         "url": "https://open.spotify.com/album/6YQ0k2zg4JThc0snaxgaeb"
       },
@@ -1912,7 +1930,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 144173,
       "name": "Dans une autre cour",
       "url": "https://open.spotify.com/track/4bogJtkAPlJ8C6kE3IJ0v8"
@@ -2086,10 +2104,32 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 226586,
       "name": "Des histoires qui ne seront jamais finies",
       "url": "https://open.spotify.com/track/0lQ6omsWPn0jUDkT4frBuu"
+    },
+    {
+      "album": {
+        "name": "Les saisons, les secondes",
+        "url": "https://open.spotify.com/album/5DZUml3CivElTaNRYZJvvt"
+      },
+      "artists": [
+        {
+          "name": "Vincent Valli\u00e8res",
+          "url": "https://open.spotify.com/artist/2iG6QPoQAVjR93cWyMKqen"
+        },
+        {
+          "name": "Lili-Rose Valli\u00e8res",
+          "url": "https://open.spotify.com/artist/0sNTdnuGnyvDlufisk3Epj"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276240,
+      "name": "Dessine-moi",
+      "url": "https://open.spotify.com/track/7tARDOYKtwaW8vm2Qv56j4"
     },
     {
       "album": {
@@ -2234,7 +2274,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 193212,
       "name": "Dog (everybody learns)",
       "url": "https://open.spotify.com/track/0aQ7qATPeO0gixsNa3hE2Q"
@@ -2844,6 +2884,24 @@
       "duration_ms": 215804,
       "name": "Face au vent",
       "url": "https://open.spotify.com/track/6gEEboylX8e3SUJ8mdzaUC"
+    },
+    {
+      "album": {
+        "name": "Grief",
+        "url": "https://open.spotify.com/album/550I7qG07HwCBmMWrdd0EJ"
+      },
+      "artists": [
+        {
+          "name": "Montreal Chill Panic",
+          "url": "https://open.spotify.com/artist/4m5IRea4VkknvXaL8vQBBQ"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Fading Signals",
+      "url": "https://open.spotify.com/track/4JFRps7Ca8SUWdus3Udf8k"
     },
     {
       "album": {
@@ -5014,7 +5072,7 @@
       ],
       "date_added": "2021-01-03",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 238969,
       "name": "L'\u00e9t\u00e9 indien de ta vie",
       "url": "https://open.spotify.com/track/4PTfPO12EmNNR4eXPweff2"
@@ -7735,6 +7793,24 @@
     },
     {
       "album": {
+        "name": "Alas Time Has Passed",
+        "url": "https://open.spotify.com/album/1OMYfkr6hkkGjAltOPGVdS"
+      },
+      "artists": [
+        {
+          "name": "Fine Food Market",
+          "url": "https://open.spotify.com/artist/5yLNDnaFmGzAQBjnWzdDET"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197841,
+      "name": "New Mountain",
+      "url": "https://open.spotify.com/track/1Uxbm2Z7Llk256Cp2VObPu"
+    },
+    {
+      "album": {
         "name": "99 Nights",
         "url": "https://open.spotify.com/album/5RHDcbKUJ0isLtDr97nP9P"
       },
@@ -8601,6 +8677,24 @@
     },
     {
       "album": {
+        "name": "Pie in the Sky",
+        "url": "https://open.spotify.com/album/6dKTA6fQL7y5KyXaEOmB48"
+      },
+      "artists": [
+        {
+          "name": "Matt Holubowski",
+          "url": "https://open.spotify.com/artist/384YLF1kNQk9Ccl8pn7BSO"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259462,
+      "name": "Pie in the Sky",
+      "url": "https://open.spotify.com/track/699x6CXskk0UBYolCbrPBt"
+    },
+    {
+      "album": {
         "name": "UFO RELIGION",
         "url": "https://open.spotify.com/album/0qAOo3mr8RBN7ZNRf5TiAI"
       },
@@ -9357,6 +9451,24 @@
     },
     {
       "album": {
+        "name": "Ribbons (Wolastoqey Version)",
+        "url": "https://open.spotify.com/album/4UHaB0vDIX9HHDZ2Q4B8cz"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Dutcher",
+          "url": "https://open.spotify.com/artist/0QisUuu0cbcoOod1lBVf0f"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167184,
+      "name": "Ribbons - Wolastoqey Version",
+      "url": "https://open.spotify.com/track/60MYNfVgdePiteLrPgTq3P"
+    },
+    {
+      "album": {
         "name": "Rien de plus grand",
         "url": "https://open.spotify.com/album/2gU16GxJuVsePs44TreU2a"
       },
@@ -9542,7 +9654,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 284415,
       "name": "R\u00e9gate",
       "url": "https://open.spotify.com/track/4BBLpqkp9eVQS2Ra5MdI6u"
@@ -10800,7 +10912,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 307567,
       "name": "The Music That Makes Me Dance",
       "url": "https://open.spotify.com/track/2Z84D8TYmtA126ofIvQDtn"

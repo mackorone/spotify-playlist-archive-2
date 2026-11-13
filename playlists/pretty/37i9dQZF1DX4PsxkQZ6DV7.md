@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PsxkQZ6DV7.md) - [plain]
 
 > Music from "CHiiKAWA THE MOVIE: THE SECRET OF THE MERMAID ISLAND" 「映画ちいかわ 人魚の島のひみつ」とシリーズの楽曲を1つのプレイリストに。
 
-[Spotify](https://open.spotify.com/user/spotify) - 543 likes - 56 songs - 1 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 626 likes - 56 songs - 1 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

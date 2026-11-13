@@ -1,68 +1,28 @@
 {
-  "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a> \ud83c\udf2a\ufe0f featuring Sammy Virji",
-  "num_followers": 843593,
+  "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a> \ud83e\udd8b featuring The Chainsmokers",
+  "num_followers": 843564,
   "original_name": "creamy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM5IgOJs611yzyddAbhgeAcSaHVW",
+  "snapshot_id": "AAAAABdYF2WdRH0KYhnhhE3AxNEsQjXd",
   "tracks": [
     {
-      "added_at": "2026-11-06 22:26:07",
+      "added_at": "2026-11-13 05:02:03",
       "album": {
-        "name": "Mayday",
-        "url": "https://open.spotify.com/album/3pbsnLYLe0fAshG1Uyzyd5"
+        "name": "Take What You Need",
+        "url": "https://open.spotify.com/album/6mKaexnVCCwdcaK2gGRxjX"
       },
       "artists": [
         {
-          "name": "Saint Ludo",
-          "url": "https://open.spotify.com/artist/3UBYL8t0DhD4uhJxF0FtGT"
-        },
-        {
-          "name": "Ceebo",
-          "url": "https://open.spotify.com/artist/4wtelmF043mIcSEjNs7wWB"
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
         }
       ],
-      "duration_ms": 198000,
-      "name": "Mayday",
-      "url": "https://open.spotify.com/track/3bhGt6n1v1htyY1pXDA4cz"
-    },
-    {
-      "added_at": "2026-05-01 04:02:39",
-      "album": {
-        "name": "Gloss (feat. y3kfae)",
-        "url": "https://open.spotify.com/album/1oJVbraMcDsSslBon72fUP"
-      },
-      "artists": [
-        {
-          "name": "Daniel Allan",
-          "url": "https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra"
-        },
-        {
-          "name": "y3kfae",
-          "url": "https://open.spotify.com/artist/1JJj74IKp1MHqtxuVz3ZXP"
-        }
-      ],
-      "duration_ms": 112325,
-      "name": "Gloss (feat. y3kfae)",
-      "url": "https://open.spotify.com/track/6Q7WM5xVcgXIy9qd41EqyZ"
-    },
-    {
-      "added_at": "2026-10-30 04:01:24",
-      "album": {
-        "name": "Open Late",
-        "url": "https://open.spotify.com/album/6SrOv99B12ZeggHewdjp56"
-      },
-      "artists": [
-        {
-          "name": "Sammy Virji",
-          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
-        }
-      ],
-      "duration_ms": 236927,
-      "name": "Repeaty",
-      "url": "https://open.spotify.com/track/4PgcKyByDFEXm5RQA07WD2"
+      "duration_ms": 164123,
+      "name": "Take What You Need",
+      "url": "https://open.spotify.com/track/06Fg5OKkRBN4HxzTzT0uLt"
     },
     {
       "added_at": "2026-09-25 04:02:54",
@@ -85,24 +45,76 @@
       "url": "https://open.spotify.com/track/0ELmB2r0C0iusi6b0zJH7s"
     },
     {
-      "added_at": "2026-11-06 22:26:07",
+      "added_at": "2026-05-01 04:02:39",
       "album": {
-        "name": "Automatic",
-        "url": "https://open.spotify.com/album/1uBLxl7S1C1qFycJZN8yhT"
+        "name": "Gloss (feat. y3kfae)",
+        "url": "https://open.spotify.com/album/1oJVbraMcDsSslBon72fUP"
       },
       "artists": [
         {
-          "name": "msft",
-          "url": "https://open.spotify.com/artist/2G8vzUhESNnXthOWoZn3mx"
+          "name": "Daniel Allan",
+          "url": "https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra"
         },
         {
-          "name": "Rakjay",
-          "url": "https://open.spotify.com/artist/5PgyKgHJoVE2uIXXy06mEQ"
+          "name": "y3kfae",
+          "url": "https://open.spotify.com/artist/1JJj74IKp1MHqtxuVz3ZXP"
         }
       ],
-      "duration_ms": 157714,
-      "name": "Automatic",
-      "url": "https://open.spotify.com/track/53oWYKd4JECrSqgp0ZLK7z"
+      "duration_ms": 112325,
+      "name": "Gloss (feat. y3kfae)",
+      "url": "https://open.spotify.com/track/6Q7WM5xVcgXIy9qd41EqyZ"
+    },
+    {
+      "added_at": "2026-11-06 22:26:07",
+      "album": {
+        "name": "Mayday",
+        "url": "https://open.spotify.com/album/3pbsnLYLe0fAshG1Uyzyd5"
+      },
+      "artists": [
+        {
+          "name": "Saint Ludo",
+          "url": "https://open.spotify.com/artist/3UBYL8t0DhD4uhJxF0FtGT"
+        },
+        {
+          "name": "Ceebo",
+          "url": "https://open.spotify.com/artist/4wtelmF043mIcSEjNs7wWB"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Mayday",
+      "url": "https://open.spotify.com/track/3bhGt6n1v1htyY1pXDA4cz"
+    },
+    {
+      "added_at": "2026-11-13 05:02:03",
+      "album": {
+        "name": "moreNOISE",
+        "url": "https://open.spotify.com/album/0jLbzXR8BoYatCE0eqCtYh"
+      },
+      "artists": [
+        {
+          "name": "hjud",
+          "url": "https://open.spotify.com/artist/2XuRU9n4z1J1iQIZO4QEk9"
+        }
+      ],
+      "duration_ms": 154709,
+      "name": "moreNOISE",
+      "url": "https://open.spotify.com/track/6au96E7RGxNjCVLUO7F6Ql"
+    },
+    {
+      "added_at": "2026-09-25 04:02:54",
+      "album": {
+        "name": "Warlord",
+        "url": "https://open.spotify.com/album/6tYSvopvMK6JbxwjGDwTSh"
+      },
+      "artists": [
+        {
+          "name": "MPH",
+          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
+        }
+      ],
+      "duration_ms": 193777,
+      "name": "Warlord",
+      "url": "https://open.spotify.com/track/4WOvLGtZgRTQX3aCx9btnJ"
     },
     {
       "added_at": "2026-10-16 04:01:58",
@@ -125,20 +137,60 @@
       "url": "https://open.spotify.com/track/0K6BjzzhUqBmOvHvxqpRpG"
     },
     {
-      "added_at": "2026-09-25 04:02:54",
+      "added_at": "2026-10-30 04:01:24",
       "album": {
-        "name": "Warlord",
-        "url": "https://open.spotify.com/album/6tYSvopvMK6JbxwjGDwTSh"
+        "name": "Open Late",
+        "url": "https://open.spotify.com/album/6SrOv99B12ZeggHewdjp56"
       },
       "artists": [
         {
-          "name": "MPH",
-          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
         }
       ],
-      "duration_ms": 193777,
-      "name": "Warlord",
-      "url": "https://open.spotify.com/track/4WOvLGtZgRTQX3aCx9btnJ"
+      "duration_ms": 236927,
+      "name": "Repeaty",
+      "url": "https://open.spotify.com/track/4PgcKyByDFEXm5RQA07WD2"
+    },
+    {
+      "added_at": "2026-11-06 22:26:07",
+      "album": {
+        "name": "Automatic",
+        "url": "https://open.spotify.com/album/1uBLxl7S1C1qFycJZN8yhT"
+      },
+      "artists": [
+        {
+          "name": "msft",
+          "url": "https://open.spotify.com/artist/2G8vzUhESNnXthOWoZn3mx"
+        },
+        {
+          "name": "Rakjay",
+          "url": "https://open.spotify.com/artist/5PgyKgHJoVE2uIXXy06mEQ"
+        }
+      ],
+      "duration_ms": 157714,
+      "name": "Automatic",
+      "url": "https://open.spotify.com/track/53oWYKd4JECrSqgp0ZLK7z"
+    },
+    {
+      "added_at": "2026-11-13 05:02:03",
+      "album": {
+        "name": "BONES",
+        "url": "https://open.spotify.com/album/1gUzJS4yIHcOo0HNGZg3d2"
+      },
+      "artists": [
+        {
+          "name": "Chopsoe",
+          "url": "https://open.spotify.com/artist/5y8reXJqfkQwiFoFHOqTzF"
+        },
+        {
+          "name": "KOMODO",
+          "url": "https://open.spotify.com/artist/4z9ZX7oV2oHdx1HTYIggGL"
+        }
+      ],
+      "duration_ms": 178991,
+      "name": "BONES",
+      "url": "https://open.spotify.com/track/0MqMIbvNROMkR7EHx9t8Al"
     },
     {
       "added_at": "2026-11-06 22:26:07",
@@ -201,6 +253,26 @@
       "url": "https://open.spotify.com/track/1ws9HNQVmC84LcyG2pfIhH"
     },
     {
+      "added_at": "2026-11-13 05:02:03",
+      "album": {
+        "name": "I Should Say It More",
+        "url": "https://open.spotify.com/album/7dpMjwvwPXU4JKeukGNaIF"
+      },
+      "artists": [
+        {
+          "name": "nimino",
+          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
+        },
+        {
+          "name": "Manta",
+          "url": "https://open.spotify.com/artist/6AGlSGZh0z7CwUXEnFYXyJ"
+        }
+      ],
+      "duration_ms": 269538,
+      "name": "I Should Say It More",
+      "url": "https://open.spotify.com/track/0xm1wgBPTMGXLUZklPLnXH"
+    },
+    {
       "added_at": "2026-10-30 04:01:24",
       "album": {
         "name": "YOU MAKE ME",
@@ -237,6 +309,26 @@
       "url": "https://open.spotify.com/track/1GKyj57DLCUZWQxDibeilO"
     },
     {
+      "added_at": "2026-11-13 05:02:03",
+      "album": {
+        "name": "Taste My Love",
+        "url": "https://open.spotify.com/album/05nl0hL6qeR0Nup4Bgs4x8"
+      },
+      "artists": [
+        {
+          "name": "WHIPPED CREAM",
+          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
+        },
+        {
+          "name": "L I F E / L I N E",
+          "url": "https://open.spotify.com/artist/5oGx8PvzXwgguezHDVRakQ"
+        }
+      ],
+      "duration_ms": 157669,
+      "name": "Taste My Love",
+      "url": "https://open.spotify.com/track/40aY6e7zdpErlxmINKgoIl"
+    },
+    {
       "added_at": "2026-11-06 22:26:07",
       "album": {
         "name": "Last Call",
@@ -255,6 +347,26 @@
       "duration_ms": 172246,
       "name": "10,000 Flowers",
       "url": "https://open.spotify.com/track/49lEbksmIPM7wTCmMO87my"
+    },
+    {
+      "added_at": "2026-11-13 05:02:03",
+      "album": {
+        "name": "Bomb Buster",
+        "url": "https://open.spotify.com/album/0ZXDgtsWaKyeS7ImSkQjIT"
+      },
+      "artists": [
+        {
+          "name": "DOREY",
+          "url": "https://open.spotify.com/artist/5P7dSJOFqnDQ3oY1Q7z0id"
+        },
+        {
+          "name": "Ben Prophet",
+          "url": "https://open.spotify.com/artist/0YRk8fU48dUpIGqJYh5b4U"
+        }
+      ],
+      "duration_ms": 226086,
+      "name": "Bomb Buster",
+      "url": "https://open.spotify.com/track/1rPZCxtmtbOuOCTfevFMCO"
     },
     {
       "added_at": "2026-08-28 16:14:58",
@@ -713,22 +825,6 @@
       "url": "https://open.spotify.com/track/5jPmaFKrZgaxfdRXa0E3dO"
     },
     {
-      "added_at": "2026-10-16 04:01:58",
-      "album": {
-        "name": "LONELY",
-        "url": "https://open.spotify.com/album/2bYbFsfmAg6jrxapfAHjeg"
-      },
-      "artists": [
-        {
-          "name": "Eyezic",
-          "url": "https://open.spotify.com/artist/1mUQNkBHUAOOesB3vc9p97"
-        }
-      ],
-      "duration_ms": 167111,
-      "name": "LONELY",
-      "url": "https://open.spotify.com/track/0G24L0HnxskslJ0luwE6eJ"
-    },
-    {
       "added_at": "2026-09-25 04:02:54",
       "album": {
         "name": "SENTI",
@@ -945,26 +1041,6 @@
       "url": "https://open.spotify.com/track/3GYv23rXigfEB2Sw6WbCPx"
     },
     {
-      "added_at": "2026-08-28 16:14:58",
-      "album": {
-        "name": "WHEN I TALK!",
-        "url": "https://open.spotify.com/album/52IP1UM34Tnd2XXAjaxlGl"
-      },
-      "artists": [
-        {
-          "name": "Moore Kismet",
-          "url": "https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5"
-        },
-        {
-          "name": "Chuck Sutton",
-          "url": "https://open.spotify.com/artist/472LbYT0htG8bFXNXpEgRN"
-        }
-      ],
-      "duration_ms": 173116,
-      "name": "WHEN I TALK!",
-      "url": "https://open.spotify.com/track/6c3EEVUELrRPujWdYCxmDA"
-    },
-    {
       "added_at": "2026-09-18 14:58:12",
       "album": {
         "name": "HOLD IT DOWN",
@@ -1097,22 +1173,6 @@
       "url": "https://open.spotify.com/track/0ZL0LiEdUas8eiMlhBWMh9"
     },
     {
-      "added_at": "2026-09-04 04:01:55",
-      "album": {
-        "name": "Odyssey",
-        "url": "https://open.spotify.com/album/5u2SydpyK5My9bvvzm3WpG"
-      },
-      "artists": [
-        {
-          "name": "camoufly",
-          "url": "https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ"
-        }
-      ],
-      "duration_ms": 231304,
-      "name": "Odyssey",
-      "url": "https://open.spotify.com/track/6z8D9KWgMGNm6oSzFltgHe"
-    },
-    {
       "added_at": "2026-07-24 04:02:33",
       "album": {
         "name": "U&I",
@@ -1143,26 +1203,6 @@
       "duration_ms": 177433,
       "name": "125",
       "url": "https://open.spotify.com/track/6XecKnaXmoAChPDV0AvnKQ"
-    },
-    {
-      "added_at": "2026-08-21 15:18:15",
-      "album": {
-        "name": "fondofme",
-        "url": "https://open.spotify.com/album/1caBJnGrPXT0eSzdNduS50"
-      },
-      "artists": [
-        {
-          "name": "4K",
-          "url": "https://open.spotify.com/artist/4B5o3KYgu0h7jpphQsrDRP"
-        },
-        {
-          "name": "Anjeli",
-          "url": "https://open.spotify.com/artist/6at7m0HyAUud3CXlhwOuqC"
-        }
-      ],
-      "duration_ms": 203294,
-      "name": "fondofme",
-      "url": "https://open.spotify.com/track/0vAFaI4Dx0qdhRR1WmlIU7"
     },
     {
       "added_at": "2026-08-21 15:18:15",
@@ -1219,26 +1259,6 @@
       "duration_ms": 153079,
       "name": "CEREMONY",
       "url": "https://open.spotify.com/track/450o2Q2eGFkjIPZCx7oU28"
-    },
-    {
-      "added_at": "2026-08-21 15:18:15",
-      "album": {
-        "name": "Lose Your Love",
-        "url": "https://open.spotify.com/album/2su8xsNYxw9LsVuDaaoFvK"
-      },
-      "artists": [
-        {
-          "name": "AFSHEEN",
-          "url": "https://open.spotify.com/artist/5iwLVxdLzgm1cLrZunXzWR"
-        },
-        {
-          "name": "Shuba",
-          "url": "https://open.spotify.com/artist/3Uios5Yyv4i8EBs9H3DUY5"
-        }
-      ],
-      "duration_ms": 147992,
-      "name": "Lose Your Love",
-      "url": "https://open.spotify.com/track/3jvIuCAJzi4enfEEw66vYR"
     },
     {
       "added_at": "2026-08-14 04:01:52",
@@ -1403,22 +1423,6 @@
       "duration_ms": 179650,
       "name": "Think About You",
       "url": "https://open.spotify.com/track/7EIapGhCTEqD7YSpW25qqA"
-    },
-    {
-      "added_at": "2026-07-31 04:02:28",
-      "album": {
-        "name": "Bad Girl",
-        "url": "https://open.spotify.com/album/1WhkwyTu3REq1WmW4jQTsF"
-      },
-      "artists": [
-        {
-          "name": "Misdemeanor",
-          "url": "https://open.spotify.com/artist/6ohc4257tcIwK3UDZEQZeu"
-        }
-      ],
-      "duration_ms": 150004,
-      "name": "Bad Girl",
-      "url": "https://open.spotify.com/track/5YMdRD2koM5OnM3nbsRJ6K"
     },
     {
       "added_at": "2026-06-12 15:55:15",

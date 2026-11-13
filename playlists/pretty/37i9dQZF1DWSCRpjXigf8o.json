@@ -1,6 +1,6 @@
 {
   "description": "\u723d\u3084\u304b\u306a1\u65e5\u3092\u3001\u30b9\u30ed\u30fc\u301c\u30df\u30c3\u30c9\u30c6\u30f3\u30dd\u306a\u97f3\u697d\u3068\u5171\u306b\u5fc3\u5730\u3088\u304f\u30b9\u30bf\u30fc\u30c8\u3057\u307e\u305b\u3093\u304b\uff1f\uff1f",
-  "num_followers": 88610,
+  "num_followers": 88605,
   "original_name": "Mid Tempo Magic",
   "owner": {
     "name": "Spotify",
@@ -299,6 +299,22 @@
     {
       "added_at": "2026-11-06 10:13:47",
       "album": {
+        "name": "What the Body Remembers",
+        "url": "https://open.spotify.com/album/6BVhF8p2cVM0X8f1K7mbHb"
+      },
+      "artists": [
+        {
+          "name": "Chezka",
+          "url": "https://open.spotify.com/artist/09aWOipSJalkgLg7vOOUlY"
+        }
+      ],
+      "duration_ms": 254081,
+      "name": "Still a body",
+      "url": "https://open.spotify.com/track/5tv0vXUn1l1zjc1mgwmmKh"
+    },
+    {
+      "added_at": "2026-11-06 10:13:47",
+      "album": {
         "name": "Vendr\u00e1n Suaves Lluvias (y el tiempo prudente)",
         "url": "https://open.spotify.com/album/2yhcXITwUBTEAs3g3l5AXB"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 195577,
       "name": "Crab",
       "url": "https://open.spotify.com/track/6v1d0oFmJnq0Md14QjTnAB"
-    },
-    {
-      "added_at": "2026-11-06 10:13:47",
-      "album": {
-        "name": "What the Body Remembers",
-        "url": "https://open.spotify.com/album/6BVhF8p2cVM0X8f1K7mbHb"
-      },
-      "artists": [
-        {
-          "name": "Chezka",
-          "url": "https://open.spotify.com/artist/09aWOipSJalkgLg7vOOUlY"
-        }
-      ],
-      "duration_ms": 254081,
-      "name": "Still a body",
-      "url": "https://open.spotify.com/track/5tv0vXUn1l1zjc1mgwmmKh"
     },
     {
       "added_at": "2026-11-06 10:13:47",
@@ -513,22 +513,6 @@
       "url": "https://open.spotify.com/track/1VlehMw5J8ySV6UkkuOiT2"
     },
     {
-      "added_at": "2026-11-06 10:13:47",
-      "album": {
-        "name": "Love, At The End Of The World",
-        "url": "https://open.spotify.com/album/4N1jjlEFahaPfBEGBKkIEQ"
-      },
-      "artists": [
-        {
-          "name": "SEREN",
-          "url": "https://open.spotify.com/artist/7834TkZnwWSMThBso3wKjL"
-        }
-      ],
-      "duration_ms": 180768,
-      "name": "Love, At The End Of The World",
-      "url": "https://open.spotify.com/track/5TDzozeZNIzs6oSTDngBbd"
-    },
-    {
       "added_at": "2026-02-19 15:16:11",
       "album": {
         "name": "Backflips in a Restaurant",
@@ -563,18 +547,18 @@
     {
       "added_at": "2026-11-06 10:13:47",
       "album": {
-        "name": "Fell Asleep in the Sun",
-        "url": "https://open.spotify.com/album/3iW6HSsVPhmr7XRgisVwTd"
+        "name": "Love, At The End Of The World",
+        "url": "https://open.spotify.com/album/4N1jjlEFahaPfBEGBKkIEQ"
       },
       "artists": [
         {
-          "name": "After",
-          "url": "https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li"
+          "name": "SEREN",
+          "url": "https://open.spotify.com/artist/7834TkZnwWSMThBso3wKjL"
         }
       ],
-      "duration_ms": 231813,
-      "name": "Fell Asleep in the Sun",
-      "url": "https://open.spotify.com/track/0qJfieRh1V4PEcUxdQEMMp"
+      "duration_ms": 180768,
+      "name": "Love, At The End Of The World",
+      "url": "https://open.spotify.com/track/5TDzozeZNIzs6oSTDngBbd"
     },
     {
       "added_at": "2026-11-06 10:13:47",
@@ -611,6 +595,22 @@
     {
       "added_at": "2026-11-06 10:13:47",
       "album": {
+        "name": "Fell Asleep in the Sun",
+        "url": "https://open.spotify.com/album/3iW6HSsVPhmr7XRgisVwTd"
+      },
+      "artists": [
+        {
+          "name": "After",
+          "url": "https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li"
+        }
+      ],
+      "duration_ms": 231813,
+      "name": "Fell Asleep in the Sun",
+      "url": "https://open.spotify.com/track/0qJfieRh1V4PEcUxdQEMMp"
+    },
+    {
+      "added_at": "2026-11-06 10:13:47",
+      "album": {
         "name": "Days of Heaven",
         "url": "https://open.spotify.com/album/3kgoPlwQzDHFljdZbdWmLN"
       },
@@ -623,22 +623,6 @@
       "duration_ms": 134000,
       "name": "Days of Heaven",
       "url": "https://open.spotify.com/track/55yZU5phJ00OycDoKgVRZB"
-    },
-    {
-      "added_at": "2026-11-06 10:13:47",
-      "album": {
-        "name": "Burgers42",
-        "url": "https://open.spotify.com/album/77XylCmFSpEZ7bI0Hm0fsi"
-      },
-      "artists": [
-        {
-          "name": "NEW LORE",
-          "url": "https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Burgers42",
-      "url": "https://open.spotify.com/track/5Hy3KlVoV1CYZsLEb4C8Q1"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -655,6 +639,22 @@
       "duration_ms": 193000,
       "name": "pity dirty",
       "url": "https://open.spotify.com/track/1O12sL9Ekek4WY7U03cG06"
+    },
+    {
+      "added_at": "2026-11-06 10:13:47",
+      "album": {
+        "name": "Burgers42",
+        "url": "https://open.spotify.com/album/77XylCmFSpEZ7bI0Hm0fsi"
+      },
+      "artists": [
+        {
+          "name": "NEW LORE",
+          "url": "https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Burgers42",
+      "url": "https://open.spotify.com/track/5Hy3KlVoV1CYZsLEb4C8Q1"
     },
     {
       "added_at": "2026-11-06 10:13:47",
@@ -691,6 +691,22 @@
     {
       "added_at": "2026-11-06 10:13:47",
       "album": {
+        "name": "Kelly",
+        "url": "https://open.spotify.com/album/05y25pwHlCDzV03IBfJs7c"
+      },
+      "artists": [
+        {
+          "name": "Kelly No Brakes",
+          "url": "https://open.spotify.com/artist/0ZnVWrM636IZszLw8naK0V"
+        }
+      ],
+      "duration_ms": 249454,
+      "name": "Kelly",
+      "url": "https://open.spotify.com/track/5zg2SLq4J1w0y7n9TWP8s4"
+    },
+    {
+      "added_at": "2026-11-06 10:13:47",
+      "album": {
         "name": "In N Out",
         "url": "https://open.spotify.com/album/08xTz3N0aYfduShwtz5Ec4"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 221109,
       "name": "Half Time",
       "url": "https://open.spotify.com/track/7vnDJaomEwLJljbe3e13Zq"
-    },
-    {
-      "added_at": "2026-11-06 10:13:47",
-      "album": {
-        "name": "Kelly",
-        "url": "https://open.spotify.com/album/05y25pwHlCDzV03IBfJs7c"
-      },
-      "artists": [
-        {
-          "name": "Kelly No Brakes",
-          "url": "https://open.spotify.com/artist/0ZnVWrM636IZszLw8naK0V"
-        }
-      ],
-      "duration_ms": 249454,
-      "name": "Kelly",
-      "url": "https://open.spotify.com/track/5zg2SLq4J1w0y7n9TWP8s4"
     },
     {
       "added_at": "2026-11-06 10:13:47",
@@ -911,22 +911,18 @@
     {
       "added_at": "2026-11-06 10:13:47",
       "album": {
-        "name": "Take Heart",
-        "url": "https://open.spotify.com/album/3lrUZeRSqIbRw79Ps8RWH2"
+        "name": "Run",
+        "url": "https://open.spotify.com/album/06naMrmyoxr5FuQ4XYGgcq"
       },
       "artists": [
         {
-          "name": "Jon Bryant",
-          "url": "https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L"
-        },
-        {
-          "name": "Rose Betts",
-          "url": "https://open.spotify.com/artist/3DYAP9CXyfNiM2nlu09w4i"
+          "name": "Zleepyfred",
+          "url": "https://open.spotify.com/artist/2He5QzrfdoL86M9VtFaJto"
         }
       ],
-      "duration_ms": 247202,
-      "name": "Take Heart",
-      "url": "https://open.spotify.com/track/2nLYQRnMrVzoSRb59V04kl"
+      "duration_ms": 186640,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/5S6MnDZaOMRISuoNT1p70o"
     },
     {
       "added_at": "2026-11-06 10:13:47",
@@ -947,18 +943,22 @@
     {
       "added_at": "2026-11-06 10:13:47",
       "album": {
-        "name": "Run",
-        "url": "https://open.spotify.com/album/06naMrmyoxr5FuQ4XYGgcq"
+        "name": "Take Heart",
+        "url": "https://open.spotify.com/album/3lrUZeRSqIbRw79Ps8RWH2"
       },
       "artists": [
         {
-          "name": "Zleepyfred",
-          "url": "https://open.spotify.com/artist/2He5QzrfdoL86M9VtFaJto"
+          "name": "Jon Bryant",
+          "url": "https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L"
+        },
+        {
+          "name": "Rose Betts",
+          "url": "https://open.spotify.com/artist/3DYAP9CXyfNiM2nlu09w4i"
         }
       ],
-      "duration_ms": 186640,
-      "name": "Run",
-      "url": "https://open.spotify.com/track/5S6MnDZaOMRISuoNT1p70o"
+      "duration_ms": 247202,
+      "name": "Take Heart",
+      "url": "https://open.spotify.com/track/2nLYQRnMrVzoSRb59V04kl"
     },
     {
       "added_at": "2026-11-06 10:13:47",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2026-11-06 10:13:47",
       "album": {
-        "name": "You Are Never Gone From Me",
-        "url": "https://open.spotify.com/album/7czHkHTQJ2toJgow0V0zdQ"
-      },
-      "artists": [
-        {
-          "name": "Morgana",
-          "url": "https://open.spotify.com/artist/2qYwadDTn22zMJ9Q26ke0d"
-        }
-      ],
-      "duration_ms": 212055,
-      "name": "You Are Never Gone From Me",
-      "url": "https://open.spotify.com/track/3X4aqjMeBDw4ISXy3M3Xtw"
-    },
-    {
-      "added_at": "2026-11-06 10:13:47",
-      "album": {
         "name": "ACT II: Silkworm",
         "url": "https://open.spotify.com/album/42v7lt7rHS8PatbcLTvnXV"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 136173,
       "name": "Woohoo",
       "url": "https://open.spotify.com/track/4um1LI7lfwbCXDGfPmnXyC"
+    },
+    {
+      "added_at": "2026-11-06 10:13:47",
+      "album": {
+        "name": "You Are Never Gone From Me",
+        "url": "https://open.spotify.com/album/7czHkHTQJ2toJgow0V0zdQ"
+      },
+      "artists": [
+        {
+          "name": "Morgana",
+          "url": "https://open.spotify.com/artist/2qYwadDTn22zMJ9Q26ke0d"
+        }
+      ],
+      "duration_ms": 212055,
+      "name": "You Are Never Gone From Me",
+      "url": "https://open.spotify.com/track/3X4aqjMeBDw4ISXy3M3Xtw"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -1221,22 +1221,6 @@
       "url": "https://open.spotify.com/track/5eYyHqwe3jHaPrzQjWP6pp"
     },
     {
-      "added_at": "2026-11-06 10:13:47",
-      "album": {
-        "name": "Punish My Mind",
-        "url": "https://open.spotify.com/album/5pqm3QIOrvYJ4UwPtUEO8O"
-      },
-      "artists": [
-        {
-          "name": "@",
-          "url": "https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3"
-        }
-      ],
-      "duration_ms": 184853,
-      "name": "Punish My Mind",
-      "url": "https://open.spotify.com/track/3TzL94FxRyskQA1LENtYrj"
-    },
-    {
       "added_at": "2026-02-19 15:16:11",
       "album": {
         "name": "I'd Be Lost",
@@ -1251,6 +1235,22 @@
       "duration_ms": 167012,
       "name": "I'd Be Lost",
       "url": "https://open.spotify.com/track/5WxdR1qBMw71xC4cTMYjYW"
+    },
+    {
+      "added_at": "2026-11-06 10:13:47",
+      "album": {
+        "name": "Punish My Mind",
+        "url": "https://open.spotify.com/album/5pqm3QIOrvYJ4UwPtUEO8O"
+      },
+      "artists": [
+        {
+          "name": "@",
+          "url": "https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3"
+        }
+      ],
+      "duration_ms": 184853,
+      "name": "Punish My Mind",
+      "url": "https://open.spotify.com/track/3TzL94FxRyskQA1LENtYrj"
     },
     {
       "added_at": "2026-11-06 10:13:47",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2026-11-06 10:13:47",
       "album": {
-        "name": "B2B",
-        "url": "https://open.spotify.com/album/2EwLT20LcBAALdkeciGW9P"
-      },
-      "artists": [
-        {
-          "name": "EFI",
-          "url": "https://open.spotify.com/artist/4h3xRZkaRJhrLs6cxtShbw"
-        }
-      ],
-      "duration_ms": 140347,
-      "name": "B2B",
-      "url": "https://open.spotify.com/track/2TalsuBazv4JesNUWj1QTh"
-    },
-    {
-      "added_at": "2026-11-06 10:13:47",
-      "album": {
         "name": "girlhood",
         "url": "https://open.spotify.com/album/3bfl3J5n57QdWtbaelu5RH"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 231910,
       "name": "girlhood",
       "url": "https://open.spotify.com/track/38PXyRblkgEYvJRAwX6XGD"
+    },
+    {
+      "added_at": "2026-11-06 10:13:47",
+      "album": {
+        "name": "B2B",
+        "url": "https://open.spotify.com/album/2EwLT20LcBAALdkeciGW9P"
+      },
+      "artists": [
+        {
+          "name": "EFI",
+          "url": "https://open.spotify.com/artist/4h3xRZkaRJhrLs6cxtShbw"
+        }
+      ],
+      "duration_ms": 140347,
+      "name": "B2B",
+      "url": "https://open.spotify.com/track/2TalsuBazv4JesNUWj1QTh"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -1429,6 +1429,22 @@
       "url": "https://open.spotify.com/track/2IUAGDffoWoasAGUPu5sM5"
     },
     {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
+        "name": "Caterpillar",
+        "url": "https://open.spotify.com/album/4S1zoniwS9PvDJ6n2GJW8i"
+      },
+      "artists": [
+        {
+          "name": "Fiji Blue",
+          "url": "https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe"
+        }
+      ],
+      "duration_ms": 169172,
+      "name": "Caterpillar",
+      "url": "https://open.spotify.com/track/4Er5MHdgvsfc2zvqOMQRyI"
+    },
+    {
       "added_at": "2026-11-06 10:13:47",
       "album": {
         "name": "\u96f0\u56f2\u6c17",
@@ -1451,18 +1467,22 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "Caterpillar",
-        "url": "https://open.spotify.com/album/4S1zoniwS9PvDJ6n2GJW8i"
+        "name": "Fall Into You",
+        "url": "https://open.spotify.com/album/4W2eUzZfKOC0PVE5RjCSlS"
       },
       "artists": [
         {
-          "name": "Fiji Blue",
-          "url": "https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe"
+          "name": "Aziz Hedra",
+          "url": "https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD"
+        },
+        {
+          "name": "Julia Wu",
+          "url": "https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv"
         }
       ],
-      "duration_ms": 169172,
-      "name": "Caterpillar",
-      "url": "https://open.spotify.com/track/4Er5MHdgvsfc2zvqOMQRyI"
+      "duration_ms": 168658,
+      "name": "Fall Into You",
+      "url": "https://open.spotify.com/track/6IpniKTQXAEjc2erLByfo2"
     },
     {
       "added_at": "2026-11-06 10:13:47",
@@ -1483,26 +1503,6 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "Fall Into You",
-        "url": "https://open.spotify.com/album/4W2eUzZfKOC0PVE5RjCSlS"
-      },
-      "artists": [
-        {
-          "name": "Aziz Hedra",
-          "url": "https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD"
-        },
-        {
-          "name": "Julia Wu",
-          "url": "https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv"
-        }
-      ],
-      "duration_ms": 168658,
-      "name": "Fall Into You",
-      "url": "https://open.spotify.com/track/6IpniKTQXAEjc2erLByfo2"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
         "name": "Turntable in the Lift",
         "url": "https://open.spotify.com/album/7c4niJGLB25XRgVNlDH1Lk"
       },
@@ -1515,22 +1515,6 @@
       "duration_ms": 426250,
       "name": "Tunes for Suly",
       "url": "https://open.spotify.com/track/4IRNgiLaOrg0RvEWNBjveK"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
-        "name": "covent garden",
-        "url": "https://open.spotify.com/album/4fz69J654PbUgnq2vkZzVH"
-      },
-      "artists": [
-        {
-          "name": "pami",
-          "url": "https://open.spotify.com/artist/4cC1AQC0SUwmemy2FHBST8"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "covent garden",
-      "url": "https://open.spotify.com/track/0YIiDc0bIbvm2doecnf7fU"
     },
     {
       "added_at": "2026-11-06 10:13:47",
@@ -1547,6 +1531,22 @@
       "duration_ms": 195774,
       "name": "Void,",
       "url": "https://open.spotify.com/track/0Wbjjfu5EifuNKDO0ClcP4"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
+        "name": "covent garden",
+        "url": "https://open.spotify.com/album/4fz69J654PbUgnq2vkZzVH"
+      },
+      "artists": [
+        {
+          "name": "pami",
+          "url": "https://open.spotify.com/artist/4cC1AQC0SUwmemy2FHBST8"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "covent garden",
+      "url": "https://open.spotify.com/track/0YIiDc0bIbvm2doecnf7fU"
     },
     {
       "added_at": "2026-11-06 10:13:47",
@@ -1639,22 +1639,18 @@
     {
       "added_at": "2026-11-06 10:13:47",
       "album": {
-        "name": "Fall (For You)",
-        "url": "https://open.spotify.com/album/0TUfFZthbgCmbef1XNFYY6"
+        "name": "\u3074\u304b\u3074\u304b",
+        "url": "https://open.spotify.com/album/0fgbGNoJ8eIHzQoTOo6jnG"
       },
       "artists": [
         {
-          "name": "Xeuphoria",
-          "url": "https://open.spotify.com/artist/6Sbjh6vCJQE5eQTQvYoksJ"
-        },
-        {
-          "name": "KiBi",
-          "url": "https://open.spotify.com/artist/39Jmzhw5DYrOqgrGjAo1Rm"
+          "name": "\u5ca9\u5d0e\u6843\u5b50",
+          "url": "https://open.spotify.com/artist/0Yb6qJAprge68CFUcfIYu6"
         }
       ],
-      "duration_ms": 177049,
-      "name": "Fall (For You)",
-      "url": "https://open.spotify.com/track/0AKciAtnP7eumDYspyydKz"
+      "duration_ms": 346750,
+      "name": "\u5357\u306e\u5cf6",
+      "url": "https://open.spotify.com/track/5lSvpFZXL4ExGDW8nceUKe"
     }
   ],
   "unique_name": "Mid Tempo Magic",

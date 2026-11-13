@@ -4,7 +4,7 @@
 
 > This is CKay\. The essential tracks, all in one playlist.
 
-68 songs - 3 hr 22 min
+69 songs - 3 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,8 @@
 | [come close \(feat\. Ayra Starr\)](https://open.spotify.com/track/2u5dBIBam2FTwYsgsptJyj) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Sad Romance](https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY) | 3:24 | 2025-08-13 |  |
 | [DORIME \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/154GtlyXeS8mEwNytNJyI4) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [EMOTIONS](https://open.spotify.com/album/2YmoOH3tCkDVnmBsBrFpLI) | 2:34 | 2025-08-13 |  |
 | [dtf](https://open.spotify.com/track/4RAuM2qWLBDrNtzfz3bBKs) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [CKay The First](https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih) | 3:31 | 2025-08-13 |  |
-| [E CLEAR](https://open.spotify.com/track/1D2K8VnbpswyKR401j2fl1) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [E CLEAR](https://open.spotify.com/album/4t2mGEpHQDrrSfUNiqdSKm) | 2:44 | 2026-07-18 |  |
+| [E CLEAR](https://open.spotify.com/track/1D2K8VnbpswyKR401j2fl1) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [E CLEAR](https://open.spotify.com/album/4t2mGEpHQDrrSfUNiqdSKm) | 2:44 | 2026-07-18 | 2026-11-13 |
+| [E CLEAR](https://open.spotify.com/track/23RZmdpN4Dp37ugeD3VIDb) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [BANGER BOY](https://open.spotify.com/album/6HgyYGUF6mv2UaEZWQb0VN) | 2:44 | 2026-11-13 |  |
 | [EGWU EJI](https://open.spotify.com/track/7HeqbuykOPm9DZ965bHhsg) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [EMOTIONS](https://open.spotify.com/album/2YmoOH3tCkDVnmBsBrFpLI) | 2:52 | 2025-08-13 |  |
 | [emiliana](https://open.spotify.com/track/6bW7YnPQQffit1iwule5Vv) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance](https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY) | 2:46 | 2025-08-13 |  |
 | [FALL IN LUV](https://open.spotify.com/track/4cdLwShxb26m7e5T64GhRk) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [EMOTIONS](https://open.spotify.com/album/2YmoOH3tCkDVnmBsBrFpLI) | 2:57 | 2026-01-25 | 2026-08-27 |

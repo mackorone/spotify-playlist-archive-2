@@ -4,7 +4,7 @@
 
 > This is Yuki Hayashi\. The essential tracks, all in one playlist.
 
-229 songs - 10 hr 38 min
+230 songs - 10 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,7 @@
 | [Sparkle〜Movie Edit Ver](https://open.spotify.com/track/4f0Q2sqqfASj4nf6gKS7GF) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [映画「バクテン!!」オリジナルサウンドトラック](https://open.spotify.com/album/0unHuSzyduv1PIICXG6UW8) | 3:07 | 2025-02-08 | 2025-02-13 |
 | [speed\-star](https://open.spotify.com/track/3BOYNihQu4je4UFH8Q74v7) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [ガンダムビルドファイターズ オリジナルサウンドトラック](https://open.spotify.com/album/4e1cD58exCnmmelDrf8CzA) | 2:48 | 2025-03-04 | 2025-03-13 |
 | [Sword of Courage](https://open.spotify.com/track/3WfVVKF0evK1vkfNj3oEEd) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『杖と剣のウィストリア』音楽抄録](https://open.spotify.com/album/3KS2hEGBf4rUhwb9pZtUFZ) | 4:02 | 2024-10-02 | 2026-08-26 |
-| [Symbol Of Fear](https://open.spotify.com/track/0kthQQOOH3QZ9eNhFGcvSa) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [My Hero Academia: Season 5 \(Original Series Soundtrack\)](https://open.spotify.com/album/0bLbDW4SwX2LQ0ixPSOPeG) | 2:48 | 2026-08-28 |  |
+| [Symbol Of Fear](https://open.spotify.com/track/0kthQQOOH3QZ9eNhFGcvSa) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [My Hero Academia: Season 5 \(Original Series Soundtrack\)](https://open.spotify.com/album/0bLbDW4SwX2LQ0ixPSOPeG) | 2:48 | 2026-08-28 | 2026-11-13 |
 | [TENDERNESS](https://open.spotify.com/track/77UWObBTpXLmott7WRNtLW) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [BGM FROM TV SERIES "MEDALIST"](https://open.spotify.com/album/2i8EU2h3ys89ZE09cihi9q) | 2:03 | 2025-04-10 | 2025-04-25 |
 | [The Demon Lord](https://open.spotify.com/track/6gsulI9GDDaXrBRChQdmOj) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [My Hero Academia: Season 7 \(Original Pre\-Release Soundtrack\)](https://open.spotify.com/album/5RWOdk6MQhq7EQYRdbt3cy) | 3:10 | 2024-07-22 | 2026-01-26 |
 | [The Fields of Rigarden](https://open.spotify.com/track/7lqiSW1H38DPiRc6O6TO8l) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『杖と剣のウィストリア』音楽抄録 其の捌](https://open.spotify.com/album/3BCk6XjIy0TfwJNN7pFmxt) | 1:50 | 2026-06-03 | 2026-07-08 |
@@ -191,6 +191,7 @@
 | [強くなれ](https://open.spotify.com/track/1lxtWPkY7QaSxvwG2Szl2E) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「ハイキュー!!」 オリジナルサウンドトラック 2](https://open.spotify.com/album/1aO6rB7SrbcwStQuaC0X78) | 3:10 | 2024-04-21 |  |
 | [強くなれ](https://open.spotify.com/track/6RQvBfTupup0pjiE01m4mq) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「ハイキュー!!」 オリジナルサウンドトラック 2](https://open.spotify.com/album/6f7ewU8BNZaeqfN899iutk) | 3:10 | 2022-12-23 | 2024-03-30 |
 | [後悔と原動力](https://open.spotify.com/track/0C4FFuNGEayRRMtjlYL1wj) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『ハイキュー!! セカンドシーズン』オリジナル・サウンドトラック \(Vol.2\)](https://open.spotify.com/album/54yg1VofNhuje44hH5ySea) | 3:20 | 2024-01-22 | 2025-07-27 |
+| [微笑みと真実](https://open.spotify.com/track/6zpVoChIqFX5DB2mtufVLk) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [NHKドラマ「歪んだ波紋」オリジナル・サウンドトラック](https://open.spotify.com/album/006dSwW7joDABkNGFOJxRv) | 2:54 | 2026-11-13 |  |
 | [悔しさ](https://open.spotify.com/track/3YmBYMAYnWwWxs20A3vfBj) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「ハイキュー!!」 オリジナルサウンドトラック 2](https://open.spotify.com/album/6f7ewU8BNZaeqfN899iutk) | 2:40 | 2022-12-23 | 2024-04-11 |
 | [悔しさ](https://open.spotify.com/track/6ZIQnW2s2v6w3iHG8ELt7B) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「ハイキュー!!」 オリジナルサウンドトラック 2](https://open.spotify.com/album/1aO6rB7SrbcwStQuaC0X78) | 2:40 | 2024-04-11 |  |
 | [憧れ](https://open.spotify.com/track/6YkY9rt0L6N2FHLLZEKHrO) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「ハイキュー!!」 オリジナルサウンドトラック](https://open.spotify.com/album/4KYMA3QiGbqcHh0GPIT6Bo) | 2:23 | 2025-05-16 | 2025-05-27 |

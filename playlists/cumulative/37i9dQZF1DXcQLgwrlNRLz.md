@@ -2,9 +2,9 @@
 
 ### [Francophone.wav](https://open.spotify.com/playlist/37i9dQZF1DXcQLgwrlNRLz)
 
-> Le plus chauds d'Afrique Francophone\. Cover: Didi B
+> Le plus chauds d'Afrique Francophone\. Cover: Baby Daiz & Tiakola
 
-94 songs - 4 hr 44 min
+95 songs - 4 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,8 @@
 | [Doucement](https://open.spotify.com/track/5oooP3k9wgJPSi1VL31J6Q) | [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV), [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [Doucement](https://open.spotify.com/album/5t3kZ84tS3zxidUwy5qZaf) | 3:47 | 2026-06-26 |  |
 | [Désarmer](https://open.spotify.com/track/3Sk2eNbuIke4QGkP8bjAVC) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Désarmer](https://open.spotify.com/album/6OZlA4Xv52ah7v17rY3Kus) | 2:38 | 2026-06-26 |  |
 | [DÔNI DÔNI](https://open.spotify.com/track/7fBruPDPsWJaIhnX5jBci4) | [Magic System](https://open.spotify.com/artist/6MvRVq0CtpQQlwnIiszV8F) | [DONI DONI](https://open.spotify.com/album/15Q3TClLlr3rurOsOAOksr) | 3:11 | 2026-06-26 | 2026-07-18 |
-| [Effrayés](https://open.spotify.com/track/4ocjzDW1Ub8o6qCt39UFmU) | [Le D](https://open.spotify.com/artist/1q3qfgcLt7dhYNdWLEXgkX) | [Effrayés](https://open.spotify.com/album/0YxCQx9d9h4nvxLmX6BCjU) | 1:45 | 2026-10-23 |  |
+| [Effrayés](https://open.spotify.com/track/4ocjzDW1Ub8o6qCt39UFmU) | [Le D](https://open.spotify.com/artist/1q3qfgcLt7dhYNdWLEXgkX) | [Effrayés](https://open.spotify.com/album/0YxCQx9d9h4nvxLmX6BCjU) | 1:45 | 2026-10-23 | 2026-11-13 |
+| [El Classico](https://open.spotify.com/track/1Q0SAIQM1UwhMo1niXOB5M) | [BabyDaiz](https://open.spotify.com/artist/75ffkjzl2yQm2wRvP5QL4s), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [El Classico](https://open.spotify.com/album/44Hco6UbPBieEbp0Q8Jl5w) | 2:51 | 2026-11-13 |  |
 | [En Haut](https://open.spotify.com/track/6BovZi5xW96aWgGZVmToRe) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4), [Jr La Melo](https://open.spotify.com/artist/66zu5ZivCIIEf7agz4ZMrU), [Tam Sir](https://open.spotify.com/artist/4WxmlzvtfZbTyGB1LvR02X) | [En Haut](https://open.spotify.com/album/3Ge3t58NoBmGiEdeqIXh1F) | 2:52 | 2026-06-26 | 2026-09-25 |
 | [Fire in your Eyes](https://open.spotify.com/track/0GiBsDZ5sZRVM9cH68Yj0d) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4), [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9) | [Fire in your Eyes](https://open.spotify.com/album/4DB72Q0aDAkUy3Jljnp1Ly) | 3:35 | 2026-06-26 |  |
 | [Garde Ta Position](https://open.spotify.com/track/5WtWjJKaFlAJDCu1IzFAjM) | [Hulk](https://open.spotify.com/artist/2D2Wm1oAJrDRzXVzxkyBOE) | [Garde Ta Position](https://open.spotify.com/album/3GJvUv0vAMbQV3tomgt7h8) | 2:13 | 2026-06-26 | 2026-11-09 |

@@ -2,15 +2,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS5WTN5nKF7.md) - [plain]
 
 ### [Hit Radio](https://open.spotify.com/playlist/37i9dQZF1DXbS5WTN5nKF7)
 
-> Le meilleur des hits avec Mosimann.
+> Le meilleur des hits avec Adèle Castillon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 438,476 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 438,511 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Soon \(feat\. Gaëtan Roussel\)](https://open.spotify.com/track/4vbuk1D3adU4GjFLAjIYwQ) | [Mosimann](https://open.spotify.com/artist/7sAqpkrQBaOkddsv1Tz1XK), [Gaëtan Roussel](https://open.spotify.com/artist/2FDsdMev4pzIXwoJGXi9zf) | [Soon \(feat\. Gaëtan Roussel\)](https://open.spotify.com/album/3uZ42zrAW1vonT8olC4Dui) | 2:31 |
-| 2 | [Mr\. Know It All](https://open.spotify.com/track/2g5kPQh1EexoG8kGZH2nOZ) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Mr\. Know It All](https://open.spotify.com/album/6pSMDQxVmzO16b4feWczz1) | 3:18 |
-| 3 | [Été avec toi](https://open.spotify.com/track/4cSHMHSTRhetAtT1iDP2zO) | [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0) | [Été avec toi](https://open.spotify.com/album/5ExuPCbhP2IlrBgvdZvTLu) | 3:07 |
+| 1 | [Été avec toi](https://open.spotify.com/track/4cSHMHSTRhetAtT1iDP2zO) | [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0) | [Été avec toi](https://open.spotify.com/album/5ExuPCbhP2IlrBgvdZvTLu) | 3:07 |
+| 2 | [Soon \(feat\. Gaëtan Roussel\)](https://open.spotify.com/track/4vbuk1D3adU4GjFLAjIYwQ) | [Mosimann](https://open.spotify.com/artist/7sAqpkrQBaOkddsv1Tz1XK), [Gaëtan Roussel](https://open.spotify.com/artist/2FDsdMev4pzIXwoJGXi9zf) | [Soon \(feat\. Gaëtan Roussel\)](https://open.spotify.com/album/3uZ42zrAW1vonT8olC4Dui) | 2:31 |
+| 3 | [Mr\. Know It All](https://open.spotify.com/track/2g5kPQh1EexoG8kGZH2nOZ) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Mr\. Know It All](https://open.spotify.com/album/6pSMDQxVmzO16b4feWczz1) | 3:18 |
 | 4 | [Self Aware](https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT) | [Temper City](https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz) | [Self Aware](https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M) | 3:00 |
 | 5 | [D'or et d'étain](https://open.spotify.com/track/7CcuCgNXUWEAyKhQGwqJzf) | [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6) | [D'or et d'étain](https://open.spotify.com/album/6uZcxUFKGEVp2S6205r4s4) | 3:16 |
 | 6 | [Animal](https://open.spotify.com/track/3ouNEk0tv5TTi8VWMe1xbX) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Animal](https://open.spotify.com/album/3ybCwWDhYDt2GYSCYFiF83) | 2:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS5WTN5nKF7.md) - [plain]
 | 49 | [Picasso](https://open.spotify.com/track/2A1wTYEJZkvph9zbDla67R) | [Bigflo & Oli](https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs) | [Karma](https://open.spotify.com/album/1cOIpFhvmwtWvG2tuC47Ha) | 2:43 |
 | 50 | [Nightshift Superstar](https://open.spotify.com/track/0ysOBzp8xSrbDenht9mQ9C) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Nightshift Superstar](https://open.spotify.com/album/2mtNOqNWDFaMUfgL6L6oGm) | 4:07 |
 
-Snapshot ID: `AAAAABsSMYVfscJ4UEJ5PNO2e28IC3wc`
+Snapshot ID: `AAAAAHCuVN4JC4/2DIxlnx2uUjlE98YF`

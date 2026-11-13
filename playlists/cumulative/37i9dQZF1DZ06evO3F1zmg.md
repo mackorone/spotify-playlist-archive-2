@@ -4,7 +4,7 @@
 
 > This is Saweetie\. The essential tracks, all in one playlist.
 
-119 songs - 5 hr 30 min
+120 songs - 5 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,8 @@
 | [All Night \(feat\. Saweetie\)](https://open.spotify.com/track/1hkeifGMiDQjXlvAsIoDaa) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [All Night \(feat\. Saweetie\)](https://open.spotify.com/album/3m4sanPtJZrKkYMxSbjRRP) | 3:17 | 2024-01-20 |  |
 | [All She Wanna Do \(with Saweetie\)](https://open.spotify.com/track/0yq6siEu8dMBv2sb8yEtEJ) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [All She Wanna Do](https://open.spotify.com/album/6TZegXA3acaeOUIh5fsV5M) | 3:15 | 2022-10-28 |  |
 | [Attitude \- from the "Bruised" Soundtrack](https://open.spotify.com/track/0ZlPqSmpq7lUJ77RbVyCpZ) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [Bruised Soundtrack](https://open.spotify.com/artist/0CHgnpcHB0yfcUfJ3bdI3W) | [Attitude \(from the "Bruised" Soundtrack\)](https://open.spotify.com/album/7AQasdBcwHRxcKZLyd7FMR) | 1:56 | 2024-05-25 | 2024-05-26 |
-| [B\*tch From Da Souf \(Remix\)](https://open.spotify.com/track/2zUbimuKNWDMCwbqNauLWV) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Trina](https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [B\*tch From Da Souf \(Remix\)](https://open.spotify.com/album/3o03DZkcxR0OzpsPArhDxy) | 3:44 | 2022-10-28 |  |
+| [B\*tch From Da Souf \(Remix\)](https://open.spotify.com/track/2zUbimuKNWDMCwbqNauLWV) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Trina](https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [B\*tch From Da Souf \(Remix\)](https://open.spotify.com/album/3o03DZkcxR0OzpsPArhDxy) | 3:44 | 2022-10-28 | 2026-11-13 |
+| [B\*tch From Da Souf \(Remix\) \(feat\. Trina\)](https://open.spotify.com/track/39GH3B0XsTd4SsqT7DJijs) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [Trina](https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn) | [Queen of Da Souf](https://open.spotify.com/album/1HOYLdaWocKi1YGveli9kF) | 3:44 | 2026-11-13 |  |
 | [Baby Boo](https://open.spotify.com/track/36UY111WEuMBKpF189a6m1) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Public Displays Of Affection: The Album](https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9) | 2:32 | 2022-12-10 |  |
 | [Baby Boo \(with Saweetie\)](https://open.spotify.com/track/68aV83AuiEu1xeHDGulsyB) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Baby Boo](https://open.spotify.com/album/0DW558ZCBNQQ3hBzOqVeP4) | 2:32 | 2022-10-28 | 2022-12-11 |
 | [Back Seat](https://open.spotify.com/track/21aTMDYavtB0mi9Bkc8UrQ) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [Lourdiz](https://open.spotify.com/artist/54nb7VPvMgQEW6pC9Mz0an) | [Pretty Summer Playlist: Season 1](https://open.spotify.com/album/2HOYNp9NxRakR9u9na7Wth) | 3:03 | 2022-10-28 |  |

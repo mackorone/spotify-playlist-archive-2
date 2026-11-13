@@ -4,7 +4,7 @@
 
 > Solo musica indipendente 🇮🇹, aggiornata il mercoledì\. <a href="spotify:artist:6X4GKXwvYRDPVzIKYdCpil">Elisa Benetti</a> in cover.
 
-2,302 songs - 4 day 18 hr 46 min
+2,303 songs - 4 day 18 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1219,6 +1219,7 @@
 | [Margherite](https://open.spotify.com/track/3KMtDchuVeFPMAeTfSM06x) | [Bordeaux](https://open.spotify.com/artist/64IcDilEU6X8Caozoixn0V) | [Margherite](https://open.spotify.com/album/3RTYpk9W5g6ikLwt1GctOG) | 2:41 | 2023-09-26 | 2023-10-25 |
 | [marionetta](https://open.spotify.com/track/2ckMGPS2WLuDDdBxaljK1A) | [G\. Tiffany](https://open.spotify.com/artist/3wdbwDqNLEIBP4lQzzo0hB) | [marionetta](https://open.spotify.com/album/74IbDKOEfriHFoCnQ3Rmb5) | 2:01 | 2025-11-25 | 2025-12-31 |
 | [Mariposa](https://open.spotify.com/track/6EvI5xktrT4QArsjKeHJTj) | [FENICE](https://open.spotify.com/artist/4c7S5SAfW8xtGnn8qi4d8D) | [Mariposa](https://open.spotify.com/album/1yusNei6x6kvnULNCxKziu) | 3:07 | 2023-02-24 | 2023-03-15 |
+| [MARLBORO](https://open.spotify.com/track/0NWCL1wrDccL20fddwElfA) | [ISLA](https://open.spotify.com/artist/1kxIH0LbXAHPlBQsEqJAGt) | [MARLBORO](https://open.spotify.com/album/3V1oPIVoVqsp2jEZNG3sE1) | 3:20 | 2026-11-10 |  |
 | [MARONNA](https://open.spotify.com/track/2ITtOrqUTkg8B5Q322ukyc) | [IDDA](https://open.spotify.com/artist/1pRhf8tFJk2k1ejw6sRqQK) | [MARONNA](https://open.spotify.com/album/6OlXNyv0KL9Sb6Zxz3JzTy) | 2:36 | 2025-09-30 | 2025-11-05 |
 | [Marta Vive](https://open.spotify.com/track/4mlZkVhL34iUjN6hCNOCrz) | [Bosnia](https://open.spotify.com/artist/4cfHjQPZE1LRHvD38jue82) | [Marta Vive](https://open.spotify.com/album/2F9q47bw1oaRsKcSKFuolu) | 3:17 | 2022-11-24 | 2022-12-01 |
 | [Martedì](https://open.spotify.com/track/72f8rrWu5ZyTkowUCUs1y9) | [HAMBURGO](https://open.spotify.com/artist/7rEBJhnCtbpVOXacgihVdd) | [Martedì](https://open.spotify.com/album/7g29SAK7M8QbO52uWqIpbi) | 3:19 | 2025-05-27 | 2025-06-19 |

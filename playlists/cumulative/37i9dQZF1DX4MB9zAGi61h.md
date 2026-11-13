@@ -4,7 +4,7 @@
 
 > Close Mic, Muted Strings, Cozy Vibes
 
-112 songs - 4 hr 42 min
+116 songs - 4 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Asterium](https://open.spotify.com/track/34wJdKrvz1WaxKFLNAodKn) | [Valter Soll](https://open.spotify.com/artist/1gD9cydWC0yCBMG8Bn6tau) | [Asterium](https://open.spotify.com/album/3Tp2ArnnsUkK6FI4eHTR0K) | 2:50 | 2026-07-24 |  |
 | [Before It Hurts](https://open.spotify.com/track/7hPp55WuMnbLDfRpwYkpYN) | [Mattia Vlad Morleo](https://open.spotify.com/artist/2VBeBMU2ZBdmqnsBZ45CXE) | [Before It Hurts](https://open.spotify.com/album/3pU8mqByPXNgWHRnV873fm) | 1:29 | 2026-08-07 |  |
 | [Before the Rain](https://open.spotify.com/track/2HUTET60za3USQAg8WnSFK) | [Ametrine Skies](https://open.spotify.com/artist/40vrF4Xbk1GAxqnIRdyrKs) | [Before the Rain](https://open.spotify.com/album/3JnAgnrdlJf7AlrUTyBGNc) | 2:12 | 2026-07-24 |  |
+| [Between Dreams](https://open.spotify.com/track/7ekoXOuw0RM7qMcWqL1jiQ) | [Asger Rykker](https://open.spotify.com/artist/1dkPa7IPiPu8k4vNJbql0B) | [Between Dreams](https://open.spotify.com/album/3HuNFGgI2T7r9r354cIw71) | 3:09 | 2026-11-13 |  |
 | [Between Seasons](https://open.spotify.com/track/4XPUL6dYh97Yl7mFsU7qch) | [Affinity88](https://open.spotify.com/artist/1TtjuHoQlVdbpNsyR6S8bw) | [Between Seasons](https://open.spotify.com/album/5gbsDOTG5sXs1nPGBPgMaH) | 2:28 | 2026-08-07 |  |
 | [Between the sides](https://open.spotify.com/track/0voZCnjiv3vXRHjku2A87P) | [Lian Evren](https://open.spotify.com/artist/22dRQgoESkBlJ1gJF0gVz6) | [Between the sides](https://open.spotify.com/album/1We9Ji2R1kqb6BihQkiehZ) | 3:07 | 2026-09-18 |  |
 | [Beyond The Mist](https://open.spotify.com/track/1BbMa127Sb16ts9KpqUWKF) | [Max Swan](https://open.spotify.com/artist/2d1JYQW1AqWDJYigDlLLPj) | [Beyond The Mist](https://open.spotify.com/album/1a0PezFzlD8Xz4p0BZr5sq) | 3:07 | 2026-07-24 |  |
@@ -32,6 +33,7 @@
 | [Bramble](https://open.spotify.com/track/6J2H73IdyNJtynPkd3uHG1) | [Quentin Noire](https://open.spotify.com/artist/1FXZ3lnXGrC1N5WGYOzmRm) | [Bramble](https://open.spotify.com/album/01ZnOfWcHnjhobloNWPxac) | 2:53 | 2026-08-24 |  |
 | [Chalford](https://open.spotify.com/track/6CbJQ7uTJjW3RjXBG9sU0o) | [Quentin Noire](https://open.spotify.com/artist/1FXZ3lnXGrC1N5WGYOzmRm) | [Chalford](https://open.spotify.com/album/4QeoYBpW1fA9D9DwxIm06j) | 2:59 | 2026-08-07 |  |
 | [Circumstances](https://open.spotify.com/track/1gwtkhjfBcsdZom7szIDnB) | [Malmkvist](https://open.spotify.com/artist/1Po25zG3Yrda2a6il6VH8l) | [Circumstances](https://open.spotify.com/album/40y5seW3eWuNEoBBLHkggz) | 2:08 | 2026-10-09 |  |
+| [Distant](https://open.spotify.com/track/2ZJTT9wwW50fSYr8qxFQSP) | [Arielan Vide](https://open.spotify.com/artist/2fvlcT93u5SQePtPugGGpz) | [Distant](https://open.spotify.com/album/6jhjjt9riJRiGOuBC9y66m) | 2:04 | 2026-11-13 |  |
 | [Does everyone hate me, or do I just need to go to sleep?](https://open.spotify.com/track/0ve62dWOJlOLKby2BnJLTE) | [Monty Hancock](https://open.spotify.com/artist/3aYlsneQ7p6SOVfKONAUxP) | [Does everyone hate me, or do I just need to go to sleep?](https://open.spotify.com/album/04r5zXARSkG4u3ouvJ2XYr) | 2:09 | 2026-09-18 |  |
 | [Elysium](https://open.spotify.com/track/0FjEbmuVgksEG1TN1eE0Dk) | [Charlie Westbrook](https://open.spotify.com/artist/7fbHzE2OKP2VIVIr5RZe0E) | [Elysium](https://open.spotify.com/album/07H5h0uPqEH3HVGc2tiGLk) | 2:46 | 2026-07-24 |  |
 | [Fading Vestige](https://open.spotify.com/track/0n6355sEMLzIu92kvetYAp) | [Theodore Montreux](https://open.spotify.com/artist/1pG8mXVn8gPCoXWkUdwRWS) | [Fading Vestige](https://open.spotify.com/album/3DtpQBTmGwosln3VLp2IKU) | 2:04 | 2026-11-06 |  |
@@ -80,6 +82,7 @@
 | [Reminisce](https://open.spotify.com/track/6JAgrPR2SsSQbMKQLKU3Li) | [Tomasz Kraal](https://open.spotify.com/artist/1XJ3PChclslYOOvJ7fJRkJ) | [Reminisce](https://open.spotify.com/album/00I4uPtckukweP7GVOqZsk) | 2:31 | 2026-08-07 |  |
 | [Respire](https://open.spotify.com/track/4ESdZyH4qHj61dZvNO50Hh) | [Aeyes Libe](https://open.spotify.com/artist/2PUFZI4SN9XsFMf0i7qEwv) | [Respire](https://open.spotify.com/album/0nFg9YJrlSNFOwFkmSvWdW) | 2:47 | 2026-07-24 |  |
 | [Resting Day](https://open.spotify.com/track/71NBRPViD3vj0L9bbszasV) | [Mireth](https://open.spotify.com/artist/6au8W1s6SC8vFldlQoTSU5) | [Resting Day](https://open.spotify.com/album/5h4xjpbOtxSYKe57t5coux) | 2:19 | 2026-07-24 |  |
+| [Safe Here](https://open.spotify.com/track/2BygomOaMO8gXApsL4tWVS) | [Silvenna](https://open.spotify.com/artist/0EpNnTSU5DHuYwSdMMRyfw) | [Safe Here](https://open.spotify.com/album/2TIGPBbJTie4yVHGGxkju2) | 2:29 | 2026-11-13 |  |
 | [Sail Away](https://open.spotify.com/track/44BFfYMUdKogtMSJJZAhvk) | [Matthew L\. Fisher](https://open.spotify.com/artist/2ih4rjK8ZgiEpVu3BJ6sUb) | [Sail Away](https://open.spotify.com/album/52H4dLx4r4FowOjCJ83v3h) | 2:19 | 2026-07-24 |  |
 | [Satori](https://open.spotify.com/track/6Zmhxmb4cIZnrrbHfBsVKZ) | [Christian Vey](https://open.spotify.com/artist/34oi16MBJNFMwdyDqIlMXL) | [Satori](https://open.spotify.com/album/60pPe1OEiOxmAz5p4Kr9J2) | 3:00 | 2026-07-24 |  |
 | [Secrets](https://open.spotify.com/track/0cO37G43QCiV16qILpDOv5) | [Aisen Voight](https://open.spotify.com/artist/6qP2qRYduH4bCfMcSMiglb) | [Secrets](https://open.spotify.com/album/5uFr8qS1rHGlBaYnYJIIAG) | 2:58 | 2026-07-24 |  |
@@ -98,6 +101,7 @@
 | [Stargazing](https://open.spotify.com/track/4xiVBxNJpThJGaHyzXyRmz) | [Ludwig Bern](https://open.spotify.com/artist/3CTqF5KWRHPvxA8SMgxHNA) | [Stargazing](https://open.spotify.com/album/6bUu077simU3l9W3ti2DMe) | 2:45 | 2026-07-24 |  |
 | [Still here](https://open.spotify.com/track/7fEU3GxXppkdMdMNMirYc8) | [Liam Sorrell](https://open.spotify.com/artist/7oxpMg7b1GHRDeST0Q3OPd) | [Still here](https://open.spotify.com/album/44bEu6SriItrBYfAdgSgB2) | 2:39 | 2026-07-24 |  |
 | [Stone Worn](https://open.spotify.com/track/6L1Ttfw1NAi6q6gra940BP) | [Ella Davies](https://open.spotify.com/artist/41ZN6cpScLI4JidZW7f47H) | [Stone Worn](https://open.spotify.com/album/142Hrq33zUe1LXWUDKgXhR) | 2:32 | 2026-07-24 |  |
+| [Sunkeeper](https://open.spotify.com/track/6cSehIz4fEXgDedsU5tmni) | [SoftKey](https://open.spotify.com/artist/73P22uwEYwcNzLZhc63iFX) | [Sunkeeper](https://open.spotify.com/album/5kyRV34kWcFuDceAxQMNur) | 1:49 | 2026-11-13 |  |
 | [Sunset Fields](https://open.spotify.com/track/2IJt0x091l14kWVucFSOnm) | [Djana F](https://open.spotify.com/artist/63cagQjQkkMRWkUD28NXE5) | [Sunset Fields](https://open.spotify.com/album/1h7TFt5PIeFGjg1GpDj974) | 2:46 | 2026-07-24 |  |
 | [Sunside](https://open.spotify.com/track/1YjZyU94YBTuLgBp1Df86F) | [Syrene](https://open.spotify.com/artist/6Q9ePrzgGlI5DW95Xskv4p) | [Sunside](https://open.spotify.com/album/0ODokPId0OyxADfWzouGgL) | 2:28 | 2026-08-07 |  |
 | [Take Me There](https://open.spotify.com/track/0cchNVMlw35l2VRxOdglj9) | [Herman Schirmer](https://open.spotify.com/artist/3jyv8lrOBakKhajNDnxoJm) | [Take Me There](https://open.spotify.com/album/65Sz1OuYoGcXNAYrJHV3m1) | 2:26 | 2026-07-24 |  |

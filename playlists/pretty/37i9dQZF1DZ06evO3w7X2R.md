@@ -23,4 +23,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3w7X2R.md) - [plain]
 | 13 | [Same Ole Dreams](https://open.spotify.com/track/6hCzYVmRGvPCpCAh3AdMXS) | [rjtheweirdo](https://open.spotify.com/artist/5XWVWbQiBVEEXZSFyEsUcW), [Nali](https://open.spotify.com/artist/3CMbroLqMKEfk0BMcfz5h9) | [At Least She's Beautiful](https://open.spotify.com/album/3kTzp0zFyAUnm2YP2YxHpL) | 2:44 |
 | 14 | [Know Now](https://open.spotify.com/track/6WItNAzTTmewC6v4Ineux7) | [rjtheweirdo](https://open.spotify.com/artist/5XWVWbQiBVEEXZSFyEsUcW) | [At Least She's Beautiful](https://open.spotify.com/album/3kTzp0zFyAUnm2YP2YxHpL) | 2:31 |
 
-Snapshot ID: `avENAAAAAADguTOZJ890oQfC0UX/5IJA`
+Snapshot ID: `avOwAAAAAAAm8A5Z/xE5rwxzpG4PXlRh`

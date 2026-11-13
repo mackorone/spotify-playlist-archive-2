@@ -1,6 +1,6 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Maui",
-  "num_followers": 192280,
+  "num_followers": 192291,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
@@ -667,6 +667,26 @@
     {
       "added_at": "2026-11-06 16:01:03",
       "album": {
+        "name": "Sem Ponto e Sem V\u00edrgula",
+        "url": "https://open.spotify.com/album/0KZyWSZV39Lv7VMcopSyuU"
+      },
+      "artists": [
+        {
+          "name": "Aydan",
+          "url": "https://open.spotify.com/artist/6fKyodrAgP9ewRR1mGgSmU"
+        },
+        {
+          "name": "JOK3R",
+          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
+        }
+      ],
+      "duration_ms": 201532,
+      "name": "Sem Ponto e Sem V\u00edrgula",
+      "url": "https://open.spotify.com/track/6meqR7kOgsmVnkTXkfcl63"
+    },
+    {
+      "added_at": "2026-11-06 16:01:03",
+      "album": {
         "name": "Que Confus\u00e3o, Amor - Spotify Singles",
         "url": "https://open.spotify.com/album/0EWMAQNKdQnyvlumh8GOEF"
       },
@@ -679,26 +699,6 @@
       "duration_ms": 174417,
       "name": "Que Confus\u00e3o, Amor - Spotify Singles",
       "url": "https://open.spotify.com/track/5ZXuUeesGs5adylptucGn6"
-    },
-    {
-      "added_at": "2026-11-06 16:01:03",
-      "album": {
-        "name": "Relevuras",
-        "url": "https://open.spotify.com/album/1OEJBUlrbK9kHySgk4w09h"
-      },
-      "artists": [
-        {
-          "name": "THAMI",
-          "url": "https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL"
-        },
-        {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
-        }
-      ],
-      "duration_ms": 197647,
-      "name": "Prisioneira de Mim",
-      "url": "https://open.spotify.com/track/6wt6zTlUopQ8yR1rTUZIrA"
     },
     {
       "added_at": "2026-11-06 16:01:03",
@@ -719,22 +719,22 @@
     {
       "added_at": "2026-11-06 16:01:03",
       "album": {
-        "name": "Sem Ponto e Sem V\u00edrgula",
-        "url": "https://open.spotify.com/album/0KZyWSZV39Lv7VMcopSyuU"
+        "name": "Relevuras",
+        "url": "https://open.spotify.com/album/1OEJBUlrbK9kHySgk4w09h"
       },
       "artists": [
         {
-          "name": "Aydan",
-          "url": "https://open.spotify.com/artist/6fKyodrAgP9ewRR1mGgSmU"
+          "name": "THAMI",
+          "url": "https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL"
         },
         {
-          "name": "JOK3R",
-          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
         }
       ],
-      "duration_ms": 201532,
-      "name": "Sem Ponto e Sem V\u00edrgula",
-      "url": "https://open.spotify.com/track/6meqR7kOgsmVnkTXkfcl63"
+      "duration_ms": 197647,
+      "name": "Prisioneira de Mim",
+      "url": "https://open.spotify.com/track/6wt6zTlUopQ8yR1rTUZIrA"
     },
     {
       "added_at": "2026-11-06 16:01:03",
@@ -787,30 +787,6 @@
     {
       "added_at": "2026-11-06 16:01:03",
       "album": {
-        "name": "Dubl\u00ea",
-        "url": "https://open.spotify.com/album/792fMLb4bXAmhS9pQMcEBh"
-      },
-      "artists": [
-        {
-          "name": "Don",
-          "url": "https://open.spotify.com/artist/3hAwxMO9sRsHbjS8w5uWAA"
-        },
-        {
-          "name": "Monrabeatz",
-          "url": "https://open.spotify.com/artist/4wbHi5ZR4MGw5jRvMCB75C"
-        },
-        {
-          "name": "Juce Rock",
-          "url": "https://open.spotify.com/artist/0536dOi2J2UZ7GBMx0O4Gv"
-        }
-      ],
-      "duration_ms": 158105,
-      "name": "Rude",
-      "url": "https://open.spotify.com/track/739VBGTCWvOJ0zxCtWkX9W"
-    },
-    {
-      "added_at": "2026-11-06 16:01:03",
-      "album": {
         "name": "Cansei De Chorar Seu Nome",
         "url": "https://open.spotify.com/album/4wksx2nXU8WF5Mmhmi1mmf"
       },
@@ -835,6 +811,30 @@
     {
       "added_at": "2026-11-06 16:01:03",
       "album": {
+        "name": "Dubl\u00ea",
+        "url": "https://open.spotify.com/album/792fMLb4bXAmhS9pQMcEBh"
+      },
+      "artists": [
+        {
+          "name": "Don",
+          "url": "https://open.spotify.com/artist/3hAwxMO9sRsHbjS8w5uWAA"
+        },
+        {
+          "name": "Monrabeatz",
+          "url": "https://open.spotify.com/artist/4wbHi5ZR4MGw5jRvMCB75C"
+        },
+        {
+          "name": "Juce Rock",
+          "url": "https://open.spotify.com/artist/0536dOi2J2UZ7GBMx0O4Gv"
+        }
+      ],
+      "duration_ms": 158105,
+      "name": "Rude",
+      "url": "https://open.spotify.com/track/739VBGTCWvOJ0zxCtWkX9W"
+    },
+    {
+      "added_at": "2026-11-06 16:01:03",
+      "album": {
         "name": "Poema Sujo",
         "url": "https://open.spotify.com/album/0YMVamkJjw75KFVgqJVYUy"
       },
@@ -851,8 +851,8 @@
     {
       "added_at": "2026-11-06 16:01:03",
       "album": {
-        "name": "Diz Pra Mim",
-        "url": "https://open.spotify.com/album/6LOUnuAM49oKo5qe5Z3VIm"
+        "name": "Ouvir Voc\u00ea (Remix)",
+        "url": "https://open.spotify.com/album/7mDJP2Ec63EpJIF9UWH2g0"
       },
       "artists": [
         {
@@ -860,17 +860,25 @@
           "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
         },
         {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
         },
         {
-          "name": "Jones",
-          "url": "https://open.spotify.com/artist/1VAABCsVnmvmVSHZaqweMG"
+          "name": "Guhhl",
+          "url": "https://open.spotify.com/artist/5i1l8M9mY6ICtOVb3JeG1G"
+        },
+        {
+          "name": "Cave",
+          "url": "https://open.spotify.com/artist/3TKi2ihPsE1ViCKxLKxQm7"
+        },
+        {
+          "name": "BM Ally",
+          "url": "https://open.spotify.com/artist/3SRpSeXuXx3FqwmOEV3gKE"
         }
       ],
-      "duration_ms": 199736,
-      "name": "Diz Pra Mim",
-      "url": "https://open.spotify.com/track/3M9nYKyZYrU5XKOUattQWc"
+      "duration_ms": 273777,
+      "name": "Ouvir Voc\u00ea (Remix)",
+      "url": "https://open.spotify.com/track/2rFdrg0CX3R2TGxPWe1uph"
     },
     {
       "added_at": "2026-11-06 16:01:03",
@@ -947,8 +955,8 @@
     {
       "added_at": "2026-11-06 16:01:03",
       "album": {
-        "name": "Ouvir Voc\u00ea (Remix)",
-        "url": "https://open.spotify.com/album/7mDJP2Ec63EpJIF9UWH2g0"
+        "name": "Diz Pra Mim",
+        "url": "https://open.spotify.com/album/6LOUnuAM49oKo5qe5Z3VIm"
       },
       "artists": [
         {
@@ -956,25 +964,17 @@
           "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
         },
         {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
         },
         {
-          "name": "Guhhl",
-          "url": "https://open.spotify.com/artist/5i1l8M9mY6ICtOVb3JeG1G"
-        },
-        {
-          "name": "Cave",
-          "url": "https://open.spotify.com/artist/3TKi2ihPsE1ViCKxLKxQm7"
-        },
-        {
-          "name": "BM Ally",
-          "url": "https://open.spotify.com/artist/3SRpSeXuXx3FqwmOEV3gKE"
+          "name": "Jones",
+          "url": "https://open.spotify.com/artist/1VAABCsVnmvmVSHZaqweMG"
         }
       ],
-      "duration_ms": 273777,
-      "name": "Ouvir Voc\u00ea (Remix)",
-      "url": "https://open.spotify.com/track/2rFdrg0CX3R2TGxPWe1uph"
+      "duration_ms": 199736,
+      "name": "Diz Pra Mim",
+      "url": "https://open.spotify.com/track/3M9nYKyZYrU5XKOUattQWc"
     },
     {
       "added_at": "2026-11-06 16:01:03",

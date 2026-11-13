@@ -1284,7 +1284,7 @@
       ],
       "date_added": "2026-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 170858,
       "name": "A Mais Amada Do Brasil",
       "url": "https://open.spotify.com/track/4wCKcA0EqDPHRvWJUGLk22"
@@ -15008,7 +15008,7 @@
       ],
       "date_added": "2026-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-11",
+      "date_removed": null,
       "duration_ms": 158176,
       "name": "Exigente",
       "url": "https://open.spotify.com/track/3y1DTmkETpAhDePWF7Uiis"
@@ -22824,7 +22824,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 148195,
       "name": "Me Fala Qual Necessidade - Ao Vivo",
       "url": "https://open.spotify.com/track/10a26720hpdHY8JVsHrrdQ"
@@ -24883,6 +24883,28 @@
     },
     {
       "album": {
+        "name": "Mon Amour",
+        "url": "https://open.spotify.com/album/7CGVeBieYqzryYS7HIUwQB"
+      },
+      "artists": [
+        {
+          "name": "Baco Exu do Blues",
+          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
+        },
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269600,
+      "name": "Mon Amour",
+      "url": "https://open.spotify.com/track/69lnNVsVKJs3yrfv06UZtI"
+    },
+    {
+      "album": {
         "name": "MONA LISA",
         "url": "https://open.spotify.com/album/2zX4sG2aTB7SoITKDa3VBa"
       },
@@ -26506,7 +26528,7 @@
       ],
       "date_added": "2026-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-11",
+      "date_removed": null,
       "duration_ms": 167399,
       "name": "Nem Balancei",
       "url": "https://open.spotify.com/track/05DdX8vwi9kiPbWr3fkeZp"
@@ -34053,6 +34075,24 @@
     },
     {
       "album": {
+        "name": "Resenha dos Amigos 2.0",
+        "url": "https://open.spotify.com/album/49wyA4NvT8CWJxk2eA0A7s"
+      },
+      "artists": [
+        {
+          "name": "Arapuca Hits",
+          "url": "https://open.spotify.com/artist/6eso50KR292SQYU2j7wqB0"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255758,
+      "name": "Resenha dos Amigos 2.0",
+      "url": "https://open.spotify.com/track/3uZpICdc5ScOYV6xNCMNJr"
+    },
+    {
+      "album": {
         "name": "Churrasco Sertanejo - M\u00fasicas pra Curtir com a Galera",
         "url": "https://open.spotify.com/album/6cWv16GoCUXO41GBADlEGz"
       },
@@ -41198,7 +41238,7 @@
       ],
       "date_added": "2026-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 199387,
       "name": "Traidor",
       "url": "https://open.spotify.com/track/6gjqPHut0PC4OS2VJWgDtB"
@@ -41674,7 +41714,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 162580,
       "name": "Tubar\u00f5es - Ao Vivo",
       "url": "https://open.spotify.com/track/3JojUdNlifAfB5J9dLvJ9H"

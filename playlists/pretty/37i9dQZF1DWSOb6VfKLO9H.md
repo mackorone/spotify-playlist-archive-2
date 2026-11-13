@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSOb6VfKLO9H.md) - [plain]
 
 > Alle oude party tunes!
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,114 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,127 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSOb6VfKLO9H.md) - [plain]
 | 55 | [Hele Meneer](https://open.spotify.com/track/7HRMo1cEFxoInV9fWjkoqB) | [Adje](https://open.spotify.com/artist/5erZiBCKPxe9FaTiXHO00m) | [Hele Meneer \#Dingems \- EP](https://open.spotify.com/album/0yPM77F6QoP63pXIXCR7ia) | 2:43 |
 | 56 | [wine slow \- remix](https://open.spotify.com/track/0zhMdm2j0y1NmJAQN3GhsZ) | [Idaly](https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Famke Louise](https://open.spotify.com/artist/4Dm1MX4VPbtLssAQeBhHFo), [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8) | [IDALY](https://open.spotify.com/album/1UFy580iiYLKbgqjVEMzSA) | 3:45 |
 | 57 | [Boot](https://open.spotify.com/track/5DhLsu431rudt8PENvUDao) | [Fmg](https://open.spotify.com/artist/2cZwVNd4sK0CCJ6BqY7U9H) | [Boot](https://open.spotify.com/album/440UZkx5XItk0wpuJN0ZoU) | 3:17 |
-| 58 | [Ai](https://open.spotify.com/track/2dEoEy7wqvJ4xq90lrPEwU) | [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm), [Rolf Sanchez](https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws), [Poke](https://open.spotify.com/artist/0hgX6slgQFj1QpjpKHbcK1) | [HIT\-SIG](https://open.spotify.com/album/0d3bCQl6iYxeKQAomdJnZp) | 2:59 |
-| 59 | [Big Man](https://open.spotify.com/track/6bJ9c5VIx8jbf5U34qHAFm) | [Sevn Alias](https://open.spotify.com/artist/0HDMwoCS316xhKCZlJPBnc), [Mula](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi), [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR) | [Big Man](https://open.spotify.com/album/5GKqyIUHBWSwyCF1apkT9X) | 2:43 |
+| 58 | [Big Man](https://open.spotify.com/track/6bJ9c5VIx8jbf5U34qHAFm) | [Sevn Alias](https://open.spotify.com/artist/0HDMwoCS316xhKCZlJPBnc), [Mula](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi), [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR) | [Big Man](https://open.spotify.com/album/5GKqyIUHBWSwyCF1apkT9X) | 2:43 |
+| 59 | [Ai](https://open.spotify.com/track/2dEoEy7wqvJ4xq90lrPEwU) | [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm), [Rolf Sanchez](https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws), [Poke](https://open.spotify.com/artist/0hgX6slgQFj1QpjpKHbcK1) | [HIT\-SIG](https://open.spotify.com/album/0d3bCQl6iYxeKQAomdJnZp) | 2:59 |
 | 60 | [Casablanca](https://open.spotify.com/track/1VsClV89BOYGlN7RITBHYc) | [Equalz](https://open.spotify.com/artist/57RYqNhEvaNiafuP1X73GS) | [Update](https://open.spotify.com/album/1KPFU6sP0o457VZsUESt7N) | 2:26 |
 | 61 | [Paper Zien \- Remix](https://open.spotify.com/track/1YnCInissFkmQTfZv3k2mT) | [Yssi SB](https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8), [D\-Double](https://open.spotify.com/artist/7sgdV8Ka9ILeZdzSqjzItk), [Henkie T](https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El), [Jack](https://open.spotify.com/artist/7CIYYEGtuTl0sjwEY8ihGh), [Sevn Alias](https://open.spotify.com/artist/0HDMwoCS316xhKCZlJPBnc), [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx) | [Paper Zien \(Remix\)](https://open.spotify.com/album/6a8CFoI8oEjQB78dDryCF3) | 4:08 |
 | 62 | [Rompe](https://open.spotify.com/track/4YaKdKVcrM6Gf5ZALtp0gI) | [Priceless](https://open.spotify.com/artist/2408j875K0AESndCiOw5UO), [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj) | [Rompe](https://open.spotify.com/album/3rZb8GgKNTUgL4MZYFoacP) | 3:04 |

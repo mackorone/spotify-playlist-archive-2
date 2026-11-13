@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Det senaste och b\u00e4sta fr\u00e5n v\u00e4rlden av indie. Cover: GRANT",
+  "description": "Det senaste och b\u00e4sta fr\u00e5n v\u00e4rlden av indie. Cover: Niki & The Dove",
   "name": "Indie Highlights",
   "tracks": [
     {
@@ -164,7 +164,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 237019,
       "name": "25k",
       "url": "https://open.spotify.com/track/3PKzDf1fga2dPmxr8yy86a"
@@ -3564,7 +3564,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 208173,
       "name": "By and By",
       "url": "https://open.spotify.com/track/5JZ07LF0eSj9rgmGNlrLjl"
@@ -8288,7 +8288,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 216520,
       "name": "F\u00f6r n\u00e4ra solen",
       "url": "https://open.spotify.com/track/6J71OcLTKjZIIH9AlYu0LW"
@@ -8620,6 +8620,24 @@
       "duration_ms": 191893,
       "name": "Give a Little",
       "url": "https://open.spotify.com/track/4MjXZqLHPOHefLJ1CGgBqc"
+    },
+    {
+      "album": {
+        "name": "Give Me a Break",
+        "url": "https://open.spotify.com/album/0joEKXZr0GHzDmfVhfE31m"
+      },
+      "artists": [
+        {
+          "name": "tigerstate",
+          "url": "https://open.spotify.com/artist/5IASPTbco70KYmxQwSg8E1"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191375,
+      "name": "Give Me a Break",
+      "url": "https://open.spotify.com/track/6kPNEqgPqiWMfD0fWzZ2Mk"
     },
     {
       "album": {
@@ -14615,6 +14633,24 @@
     },
     {
       "album": {
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/3u58jGUdXH3ofvTWzFewDp"
+      },
+      "artists": [
+        {
+          "name": "Ecco2k",
+          "url": "https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242007,
+      "name": "Loveless Animal, Lawless Criminal",
+      "url": "https://open.spotify.com/track/6yuSgXobqz8GkbUbS18XCp"
+    },
+    {
+      "album": {
         "name": "LOVER",
         "url": "https://open.spotify.com/album/57mcrQqIYUZWljpJ5rtkcs"
       },
@@ -14702,7 +14738,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 316066,
       "name": "Lubnan (\u0644\u0628\u0646\u0627\u0646)",
       "url": "https://open.spotify.com/track/0iON9wU5x2Isk7zefu1t99"
@@ -16283,6 +16319,24 @@
     },
     {
       "album": {
+        "name": "A dying source",
+        "url": "https://open.spotify.com/album/5FtNLcMLndyRVJtgMgWary"
+      },
+      "artists": [
+        {
+          "name": "RIVER",
+          "url": "https://open.spotify.com/artist/4RVtMjhWZC6B9k6PvqorqV"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287186,
+      "name": "My dog",
+      "url": "https://open.spotify.com/track/0l2wSY2Wi8gwFIh2QL3xUh"
+    },
+    {
+      "album": {
         "name": "My Ex Would've Left By Now",
         "url": "https://open.spotify.com/album/5FZs5tmpZ9ai0YQBMtiBXh"
       },
@@ -17662,7 +17716,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 244000,
       "name": "Onenon",
       "url": "https://open.spotify.com/track/7Aw5qQy9zeg9ZGtsOQAcQA"
@@ -18720,7 +18774,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 111713,
       "name": "Pop Rock Sugar Rush",
       "url": "https://open.spotify.com/track/3j1ir4cK96ILIU5twTkD6B"
@@ -20922,6 +20976,24 @@
       "duration_ms": 231933,
       "name": "Silver Sable",
       "url": "https://open.spotify.com/track/2F6vx9sOQJE264gYgn9dxr"
+    },
+    {
+      "album": {
+        "name": "Silver Springs (Spotify Singles)",
+        "url": "https://open.spotify.com/album/0fW7syaAcr6p7MpMnyq49k"
+      },
+      "artists": [
+        {
+          "name": "Sarah Julia",
+          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200399,
+      "name": "Silver Springs - Spotify Singles",
+      "url": "https://open.spotify.com/track/171L1i9B8JSR234FJbKDPi"
     },
     {
       "album": {
@@ -23647,6 +23719,24 @@
     },
     {
       "album": {
+        "name": "The Kiss",
+        "url": "https://open.spotify.com/album/7iRKKi7ffTXgwb94K3qBze"
+      },
+      "artists": [
+        {
+          "name": "Niki & The Dove",
+          "url": "https://open.spotify.com/artist/4hiLNlqr4vQdiuo1aQKSXS"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248443,
+      "name": "The Kiss",
+      "url": "https://open.spotify.com/track/4C9hsJRqrkTn1BO8rAZJv9"
+    },
+    {
+      "album": {
         "name": "The Last Sad Song",
         "url": "https://open.spotify.com/album/7K7im2jRJSRnzJsBEUM5L6"
       },
@@ -23832,7 +23922,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 272125,
       "name": "THE RAT AND THE FUCKING COCAINE",
       "url": "https://open.spotify.com/track/26nkKSSuMC9SYoOho0QZ4c"
@@ -24765,6 +24855,24 @@
     },
     {
       "album": {
+        "name": "FULL, FUL & K\u00c4NSLIG",
+        "url": "https://open.spotify.com/album/2opeK2NgpjHAs6kNCXY2F7"
+      },
+      "artists": [
+        {
+          "name": "the name Will",
+          "url": "https://open.spotify.com/artist/7KKPJD0WpOGj9bdmjQNmDB"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 5",
+      "url": "https://open.spotify.com/track/4rsh80Az3F2kMyzePCwOan"
+    },
+    {
+      "album": {
         "name": "Track and Field",
         "url": "https://open.spotify.com/album/7lJIJZp0dR8I5dfLACSYKA"
       },
@@ -25396,7 +25504,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 323693,
       "name": "Vice",
       "url": "https://open.spotify.com/track/2kYikjBhWLs8riPqpM02A1"
@@ -26727,6 +26835,24 @@
     },
     {
       "album": {
+        "name": "Without U",
+        "url": "https://open.spotify.com/album/1IOkFVSRl7UxEwJIBzwTYi"
+      },
+      "artists": [
+        {
+          "name": "Jimi Somewhere",
+          "url": "https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186317,
+      "name": "Without U",
+      "url": "https://open.spotify.com/track/4iL8VaKWRMo5MTQJByqWeA"
+    },
+    {
+      "album": {
         "name": "Half truths from a broken heart",
         "url": "https://open.spotify.com/album/2nIJGhfS4tHqEl6gFDsjNz"
       },
@@ -27074,6 +27200,24 @@
       "duration_ms": 111759,
       "name": "You Don't Know Me",
       "url": "https://open.spotify.com/track/6R7duyVyvy7S4gNQKitgBY"
+    },
+    {
+      "album": {
+        "name": "You Go I Go",
+        "url": "https://open.spotify.com/album/0qtY0ECJ0vA10NaO3e3pIk"
+      },
+      "artists": [
+        {
+          "name": "ViVii",
+          "url": "https://open.spotify.com/artist/21m5PZPUgSF0k76W1MMCAa"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222472,
+      "name": "You Go I Go",
+      "url": "https://open.spotify.com/track/16nSP8KOfyEOv2nbJJkhwp"
     },
     {
       "album": {

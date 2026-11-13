@@ -1,6 +1,6 @@
 {
   "description": "Tristeza independiente para aquellos d\u00edas de baj\u00f3n. Pehuenche, Renee Mooi en portada. ",
-  "num_followers": 626181,
+  "num_followers": 626140,
   "original_name": "Qu\u00e9 Sad!",
   "owner": {
     "name": "Spotify",
@@ -579,6 +579,22 @@
     {
       "added_at": "2026-11-06 06:00:06",
       "album": {
+        "name": "Qui\u00e9n Dice",
+        "url": "https://open.spotify.com/album/3tAKezwIGgXfXJZQtbF7eK"
+      },
+      "artists": [
+        {
+          "name": "Marcos Menchaca",
+          "url": "https://open.spotify.com/artist/1Pvcsw46EYSQKIa5TRrfGj"
+        }
+      ],
+      "duration_ms": 225196,
+      "name": "Qui\u00e9n Dice",
+      "url": "https://open.spotify.com/track/567t9YdgQ12cPNJma02EPT"
+    },
+    {
+      "added_at": "2026-11-06 06:00:06",
+      "album": {
         "name": "MIS L\u00c1GRIMAS",
         "url": "https://open.spotify.com/album/0h8ySx6u9eLkaW42GhVXvA"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 266150,
       "name": "MIS L\u00c1GRIMAS",
       "url": "https://open.spotify.com/track/3nBTjrgTyKW7hQwBTfa63J"
-    },
-    {
-      "added_at": "2026-11-06 06:00:06",
-      "album": {
-        "name": "Qui\u00e9n Dice",
-        "url": "https://open.spotify.com/album/3tAKezwIGgXfXJZQtbF7eK"
-      },
-      "artists": [
-        {
-          "name": "Marcos Menchaca",
-          "url": "https://open.spotify.com/artist/1Pvcsw46EYSQKIa5TRrfGj"
-        }
-      ],
-      "duration_ms": 225196,
-      "name": "Qui\u00e9n Dice",
-      "url": "https://open.spotify.com/track/567t9YdgQ12cPNJma02EPT"
     },
     {
       "added_at": "2026-11-06 06:00:06",
@@ -847,18 +847,22 @@
     {
       "added_at": "2026-11-06 06:00:06",
       "album": {
-        "name": "La Despedida",
-        "url": "https://open.spotify.com/album/7kIG2qcC1fEiIi4bOjF3qE"
+        "name": "Parada Obligatoria (1ra Parada)",
+        "url": "https://open.spotify.com/album/2egjoQlWOOcvoUu0YwDfJt"
       },
       "artists": [
         {
-          "name": "Pehuenche",
-          "url": "https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk"
+          "name": "Tufic",
+          "url": "https://open.spotify.com/artist/5vtHlotcrr5pZQUgdnozWV"
+        },
+        {
+          "name": "El Otro Polo",
+          "url": "https://open.spotify.com/artist/6guLg5yfcFlYyRp4DzrEO2"
         }
       ],
-      "duration_ms": 226018,
-      "name": "La Despedida",
-      "url": "https://open.spotify.com/track/47yunkbH5ZSaT7zcRX2UZX"
+      "duration_ms": 210166,
+      "name": "Un poema duerme en mi cama",
+      "url": "https://open.spotify.com/track/4gP1fhi83i8ZITpokd9vqj"
     },
     {
       "added_at": "2026-11-06 06:00:06",
@@ -899,22 +903,18 @@
     {
       "added_at": "2026-11-06 06:00:06",
       "album": {
-        "name": "Parada Obligatoria (1ra Parada)",
-        "url": "https://open.spotify.com/album/2egjoQlWOOcvoUu0YwDfJt"
+        "name": "La Despedida",
+        "url": "https://open.spotify.com/album/7kIG2qcC1fEiIi4bOjF3qE"
       },
       "artists": [
         {
-          "name": "Tufic",
-          "url": "https://open.spotify.com/artist/5vtHlotcrr5pZQUgdnozWV"
-        },
-        {
-          "name": "El Otro Polo",
-          "url": "https://open.spotify.com/artist/6guLg5yfcFlYyRp4DzrEO2"
+          "name": "Pehuenche",
+          "url": "https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk"
         }
       ],
-      "duration_ms": 210166,
-      "name": "Un poema duerme en mi cama",
-      "url": "https://open.spotify.com/track/4gP1fhi83i8ZITpokd9vqj"
+      "duration_ms": 226018,
+      "name": "La Despedida",
+      "url": "https://open.spotify.com/track/47yunkbH5ZSaT7zcRX2UZX"
     },
     {
       "added_at": "2026-11-06 06:00:06",
@@ -1183,18 +1183,22 @@
     {
       "added_at": "2026-11-06 06:00:06",
       "album": {
-        "name": "Eres Diamante",
-        "url": "https://open.spotify.com/album/1KwZSjF1emfRRgxG4AQeeL"
+        "name": "Ni\u00f1a Bonita",
+        "url": "https://open.spotify.com/album/4h7cWmz3MjF3HzPTc5PezA"
       },
       "artists": [
         {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+          "name": "Dstance",
+          "url": "https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2"
+        },
+        {
+          "name": "Melissa Robles",
+          "url": "https://open.spotify.com/artist/03Qx159jmT9mvmw5YjzvAs"
         }
       ],
-      "duration_ms": 240295,
-      "name": "Ojos Noche",
-      "url": "https://open.spotify.com/track/7fNPXeqDaUjWiZhiPHTG6y"
+      "duration_ms": 263400,
+      "name": "Ni\u00f1a Bonita",
+      "url": "https://open.spotify.com/track/2T6IW1nQ2CTctvnYrWqM6R"
     },
     {
       "added_at": "2026-11-06 06:00:06",
@@ -1219,22 +1223,18 @@
     {
       "added_at": "2026-11-06 06:00:06",
       "album": {
-        "name": "Ni\u00f1a Bonita",
-        "url": "https://open.spotify.com/album/4h7cWmz3MjF3HzPTc5PezA"
+        "name": "Eres Diamante",
+        "url": "https://open.spotify.com/album/1KwZSjF1emfRRgxG4AQeeL"
       },
       "artists": [
         {
-          "name": "Dstance",
-          "url": "https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2"
-        },
-        {
-          "name": "Melissa Robles",
-          "url": "https://open.spotify.com/artist/03Qx159jmT9mvmw5YjzvAs"
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
         }
       ],
-      "duration_ms": 263400,
-      "name": "Ni\u00f1a Bonita",
-      "url": "https://open.spotify.com/track/2T6IW1nQ2CTctvnYrWqM6R"
+      "duration_ms": 240295,
+      "name": "Ojos Noche",
+      "url": "https://open.spotify.com/track/7fNPXeqDaUjWiZhiPHTG6y"
     },
     {
       "added_at": "2026-11-06 06:00:06",

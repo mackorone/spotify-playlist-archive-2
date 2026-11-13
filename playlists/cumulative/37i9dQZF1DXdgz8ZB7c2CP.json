@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a> \ud83c\udf2a\ufe0f featuring Sammy Virji",
+  "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a> \ud83e\udd8b featuring The Chainsmokers",
   "name": "creamy",
   "tracks": [
     {
@@ -1912,7 +1912,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 150004,
       "name": "Bad Girl",
       "url": "https://open.spotify.com/track/5YMdRD2koM5OnM3nbsRJ6K"
@@ -3186,6 +3186,50 @@
       "duration_ms": 285882,
       "name": "Bogeyman",
       "url": "https://open.spotify.com/track/1GjwboGNxJlQ65BQRjtyNm"
+    },
+    {
+      "album": {
+        "name": "Bomb Buster",
+        "url": "https://open.spotify.com/album/0ZXDgtsWaKyeS7ImSkQjIT"
+      },
+      "artists": [
+        {
+          "name": "DOREY",
+          "url": "https://open.spotify.com/artist/5P7dSJOFqnDQ3oY1Q7z0id"
+        },
+        {
+          "name": "Ben Prophet",
+          "url": "https://open.spotify.com/artist/0YRk8fU48dUpIGqJYh5b4U"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226086,
+      "name": "Bomb Buster",
+      "url": "https://open.spotify.com/track/1rPZCxtmtbOuOCTfevFMCO"
+    },
+    {
+      "album": {
+        "name": "BONES",
+        "url": "https://open.spotify.com/album/1gUzJS4yIHcOo0HNGZg3d2"
+      },
+      "artists": [
+        {
+          "name": "Chopsoe",
+          "url": "https://open.spotify.com/artist/5y8reXJqfkQwiFoFHOqTzF"
+        },
+        {
+          "name": "KOMODO",
+          "url": "https://open.spotify.com/artist/4z9ZX7oV2oHdx1HTYIggGL"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178991,
+      "name": "BONES",
+      "url": "https://open.spotify.com/track/0MqMIbvNROMkR7EHx9t8Al"
     },
     {
       "album": {
@@ -9978,7 +10022,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 203294,
       "name": "fondofme",
       "url": "https://open.spotify.com/track/0vAFaI4Dx0qdhRR1WmlIU7"
@@ -13735,6 +13779,28 @@
     },
     {
       "album": {
+        "name": "I Should Say It More",
+        "url": "https://open.spotify.com/album/7dpMjwvwPXU4JKeukGNaIF"
+      },
+      "artists": [
+        {
+          "name": "nimino",
+          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
+        },
+        {
+          "name": "Manta",
+          "url": "https://open.spotify.com/artist/6AGlSGZh0z7CwUXEnFYXyJ"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269538,
+      "name": "I Should Say It More",
+      "url": "https://open.spotify.com/track/0xm1wgBPTMGXLUZklPLnXH"
+    },
+    {
+      "album": {
         "name": "I Stay",
         "url": "https://open.spotify.com/album/74z5d0cBn4c6YdDGWb4gLd"
       },
@@ -16798,7 +16864,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 167111,
       "name": "LONELY",
       "url": "https://open.spotify.com/track/0G24L0HnxskslJ0luwE6eJ"
@@ -16984,7 +17050,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 147992,
       "name": "Lose Your Love",
       "url": "https://open.spotify.com/track/3jvIuCAJzi4enfEEw66vYR"
@@ -18491,6 +18557,24 @@
     },
     {
       "album": {
+        "name": "moreNOISE",
+        "url": "https://open.spotify.com/album/0jLbzXR8BoYatCE0eqCtYh"
+      },
+      "artists": [
+        {
+          "name": "hjud",
+          "url": "https://open.spotify.com/artist/2XuRU9n4z1J1iQIZO4QEk9"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154709,
+      "name": "moreNOISE",
+      "url": "https://open.spotify.com/track/6au96E7RGxNjCVLUO7F6Ql"
+    },
+    {
+      "album": {
         "name": "Rain Delay",
         "url": "https://open.spotify.com/album/741Bm55QwtIJrg4gh2BgfA"
       },
@@ -19690,7 +19774,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 231304,
       "name": "Odyssey",
       "url": "https://open.spotify.com/track/6z8D9KWgMGNm6oSzFltgHe"
@@ -27177,6 +27261,24 @@
     },
     {
       "album": {
+        "name": "Take What You Need",
+        "url": "https://open.spotify.com/album/6mKaexnVCCwdcaK2gGRxjX"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164123,
+      "name": "Take What You Need",
+      "url": "https://open.spotify.com/track/06Fg5OKkRBN4HxzTzT0uLt"
+    },
+    {
+      "album": {
         "name": "Take You There",
         "url": "https://open.spotify.com/album/6o8D6vk6tTWJZCR5zNpn7b"
       },
@@ -27458,6 +27560,28 @@
       "duration_ms": 186666,
       "name": "taste",
       "url": "https://open.spotify.com/track/20K9sHmEviJK5FTFKArYzR"
+    },
+    {
+      "album": {
+        "name": "Taste My Love",
+        "url": "https://open.spotify.com/album/05nl0hL6qeR0Nup4Bgs4x8"
+      },
+      "artists": [
+        {
+          "name": "WHIPPED CREAM",
+          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
+        },
+        {
+          "name": "L I F E / L I N E",
+          "url": "https://open.spotify.com/artist/5oGx8PvzXwgguezHDVRakQ"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157669,
+      "name": "Taste My Love",
+      "url": "https://open.spotify.com/track/40aY6e7zdpErlxmINKgoIl"
     },
     {
       "album": {
@@ -31572,7 +31696,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 173116,
       "name": "WHEN I TALK!",
       "url": "https://open.spotify.com/track/6c3EEVUELrRPujWdYCxmDA"

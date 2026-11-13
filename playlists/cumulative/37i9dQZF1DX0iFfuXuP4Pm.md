@@ -4,7 +4,7 @@
 
 > Mga nangunguna sa mundo ng OPM\. Cover: Wilbert Ross
 
-645 songs - 1 day 16 hr 19 min
+646 songs - 1 day 16 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [B.A.D.](https://open.spotify.com/track/14YZcGhRR05BTYajt8f9u9) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [B.A.D.](https://open.spotify.com/album/6FsUUmtn9CrZhfRqaz9EcM) | 2:50 | 2024-01-24 | 2024-03-14 |
 | [Babaeng Torpe](https://open.spotify.com/track/6PqQLaRKRk9Td2WfNIc721) | [Gracenote](https://open.spotify.com/artist/4mrrcDjpjUq27YEGwlisgs) | [Babaeng Torpe](https://open.spotify.com/album/7xn6BDQmB8qzssk9aHG79E) | 4:50 | 2024-02-07 | 2024-03-07 |
 | [Babaero](https://open.spotify.com/track/0NJAqnvbF6vzripOB7PclP) | [gins&melodies](https://open.spotify.com/artist/2WzWSpOB41g3gb78Raj6RK), [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [Babaero](https://open.spotify.com/album/1rWV1baWSlnYYrYxU719QO) | 2:55 | 2024-01-29 | 2024-07-12 |
-| [Babaero](https://open.spotify.com/track/55ij7wjoz4xgzvJO2hV7Y8) | [Leanne](https://open.spotify.com/artist/0V39TQSFg4VAwmwJ6JWdsU) | [Babaero](https://open.spotify.com/album/5MKGvgS8oOgRiaVCg9GLnX) | 4:20 | 2026-08-07 |  |
+| [Babaero](https://open.spotify.com/track/55ij7wjoz4xgzvJO2hV7Y8) | [leanne](https://open.spotify.com/artist/0V39TQSFg4VAwmwJ6JWdsU) | [Babaero](https://open.spotify.com/album/5MKGvgS8oOgRiaVCg9GLnX) | 4:20 | 2026-08-07 |  |
 | [Baby 123](https://open.spotify.com/track/3chBLXLQgj1KB2h1KgQxmF) | [RAPROJECT SIX](https://open.spotify.com/artist/02QBz6b5fpeADDbuTE1C59), [MADAM SAUCE](https://open.spotify.com/artist/3yL6zbQBFZbBp2cUG38Eu2) | [Baby 123](https://open.spotify.com/album/6z2T61xva7VFBk7a2rUmrx) | 2:56 | 2026-10-02 |  |
 | [Baggages](https://open.spotify.com/track/5CdRKbPYKe0V2bgNrQfRcd) | [Zeke Abella](https://open.spotify.com/artist/5aEAM9GB7loq6xxai3YYrn) | [Baggages](https://open.spotify.com/album/0HARzAL7EzcvJ3d5AV5ks7) | 3:16 | 2024-07-24 | 2024-10-03 |
 | [Bagong Tradisyon](https://open.spotify.com/track/5H7dSVRGiOP7eRUz7qXu6o) | [TONEEJAY](https://open.spotify.com/artist/2KdFoq4IBXMzfia4ZCLDIs) | [Bagong Tradisyon](https://open.spotify.com/album/6BJHujHabp4qnJfwvAmfqp) | 3:32 | 2024-01-24 | 2024-03-07 |
@@ -474,7 +474,7 @@
 | [Punta Ka?](https://open.spotify.com/track/6MKfYl08wrrIrH3a0MyGt6) | [Realest Cram](https://open.spotify.com/artist/3d0hhzHPK0jA5mKTeFIZc5), [Ohthreesosa](https://open.spotify.com/artist/3JRoPtrm59tN0yEY9eV1ZS) | [Punta Ka?](https://open.spotify.com/album/3fVSa9avzjEltiwjC55xmI) | 3:56 | 2025-12-10 | 2026-01-22 |
 | [Puntirya](https://open.spotify.com/track/7fHgK24OXJ4tcZaGyERyFT) | [Ryannah J](https://open.spotify.com/artist/6qmz5baFW3JXKU7jUv3vJD) | [Puntirya](https://open.spotify.com/album/6jtq1fwv2xRUMWWIpA7hug) | 3:43 | 2024-07-11 | 2024-10-03 |
 | [Purgatoryo](https://open.spotify.com/track/2ww7tsDpQujEz4hY4PKW6g) | [fitterkarma](https://open.spotify.com/artist/3tWAXoP37qDPvpAOnj7Zmr) | [Purgatoryo](https://open.spotify.com/album/3HcEMi3hhykdzTUXNRUXK0) | 2:15 | 2026-08-07 | 2026-09-19 |
-| [Puso](https://open.spotify.com/track/6bL1905He8qzy48DcXO1Xt) | [Janine](https://open.spotify.com/artist/09Xydf4dlkr29dH99DmsvQ) | [Puso](https://open.spotify.com/album/6INNQlbCinKJOVMURzn5Kz) | 4:22 | 2026-08-28 |  |
+| [Puso](https://open.spotify.com/track/6bL1905He8qzy48DcXO1Xt) | [Janine](https://open.spotify.com/artist/09Xydf4dlkr29dH99DmsvQ) | [Puso](https://open.spotify.com/album/6INNQlbCinKJOVMURzn5Kz) | 4:22 | 2026-08-28 | 2026-11-13 |
 | [Puso](https://open.spotify.com/track/23GZMUl9aJvSmb2QpBS55j) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [Puso](https://open.spotify.com/album/1W3PCcGjOgI58R6r9sYZbx) | 5:02 | 2025-05-07 | 2025-09-18 |
 | [Puting Papel](https://open.spotify.com/track/21e4DRfB39O7VtoejY78Cg) | [Gloc\-9](https://open.spotify.com/artist/7HJDRQAfEcFiARVehhM6qD), [Kael Guerrero](https://open.spotify.com/artist/3Lcxk1qxmoKXVMxKSR4aWQ), [Yuridope](https://open.spotify.com/artist/5xOvrnVpLjzfGi69GDlzQY) | [Puting Papel](https://open.spotify.com/album/41uEz1eIG39QQLTQlNYD7Q) | 4:53 | 2024-12-11 | 2025-01-16 |
 | [pwede ba kitang ligawan?](https://open.spotify.com/track/54jyPfgfNqsSrGy9pFkYQD) | [The Juans](https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv) | [pwede ba kitang ligawan?](https://open.spotify.com/album/1965BuJYRYfO7y8hjW6Mki) | 2:15 | 2024-02-14 | 2024-07-12 |
@@ -610,6 +610,7 @@
 | [Toyo](https://open.spotify.com/track/1PxsXBSYcsO86i3RZZEwd5) | [KZ Tandingan](https://open.spotify.com/artist/1mcqfNCReSFxun2vIWvC28) | [Toyo](https://open.spotify.com/album/2m4TsjHM0SnencJriOXEMM) | 4:12 | 2024-10-02 | 2025-01-30 |
 | [Traffic](https://open.spotify.com/track/1yiO7S3ipTzVOdEdG5j56k) | [James Reid](https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH) | [Traffic](https://open.spotify.com/album/7us9nYgkLeGMK5ZuKaSc3F) | 3:04 | 2026-03-11 | 2026-05-07 |
 | [Triumph](https://open.spotify.com/track/3JU64RR6S7P3y4ne7V5OMG) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Triumph](https://open.spotify.com/album/6jvr0yp0tK9JHnoXLqMDbG) | 2:53 | 2024-10-23 | 2024-12-05 |
+| [Tsaka Nalang](https://open.spotify.com/track/6j05nGDZcNBOO5Wanwg9uQ) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Tsaka Nalang](https://open.spotify.com/album/2HEYlaK6YDhO1AgwFdRIHg) | 3:18 | 2026-11-13 |  |
 | [tulad ng dati](https://open.spotify.com/track/4f7cU4cyeopJTENffy9Abu) | [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON), [Over October](https://open.spotify.com/artist/1hMAGfvamVXuSWBFQRFMeq) | [tulad ng dati](https://open.spotify.com/album/5q69zaKdcARmpiEXOHLro0) | 3:12 | 2025-09-10 | 2025-10-16 |
 | [Tumalon](https://open.spotify.com/track/3jY7hKSQ1Iqm8GXgs8lYHb) | [Solace Out The Door](https://open.spotify.com/artist/08x1UThF1Onk5rM2mO1F1c) | [Tumalon](https://open.spotify.com/album/6369WTiMYEJdEL4Sv0CSis) | 3:38 | 2024-12-18 | 2025-04-03 |
 | [Tumaya](https://open.spotify.com/track/5bXkfZuaIcNe64TsZKBQ7y) | [Bert Symoun](https://open.spotify.com/artist/1WeeTm0Wd9QYP65MGIsUgz) | [Tumaya](https://open.spotify.com/album/3AY8kdUZXjy0AX7GA4GwwH) | 3:27 | 2026-01-29 | 2026-03-26 |

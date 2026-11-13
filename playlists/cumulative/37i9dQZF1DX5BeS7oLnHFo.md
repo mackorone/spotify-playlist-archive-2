@@ -4,7 +4,7 @@
 
 > زبدة الراب الصافية\. ١٠٠٪ صناعة محليّة
 
-94 songs - 4 hr 28 min
+95 songs - 4 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,10 +46,10 @@
 | [Jabaha Le Ahlo](https://open.spotify.com/track/5Wran1wG54f2w0tnV8BmBI) | [Slow Moe](https://open.spotify.com/artist/5ws4gBwkGLUzjVxhvw4Kwd) | [Jabaha Le Ahlo](https://open.spotify.com/album/0sy0PPYClrTSRGz8CCFmTT) | 2:47 | 2026-02-27 |  |
 | [Jiddo](https://open.spotify.com/track/6pczaXrplw78wIo3D9zuLM) | [Mvndila](https://open.spotify.com/artist/4xChDGJOSeebJva9pcvmSJ) | [Jiddo](https://open.spotify.com/album/0SladTRgQhrI8r1zZt62gY) | 2:24 | 2025-10-02 | 2025-10-15 |
 | [Khalisni](https://open.spotify.com/track/0T1nrCDa8G4pzzW92BgGIp) | [Saud G](https://open.spotify.com/artist/76VXSNBSY5pbsYgMe2dTYZ), [Ahmedoo Biggie](https://open.spotify.com/artist/4srnmX4lNfxOKYNA8gdRMy) | [Khalisni](https://open.spotify.com/album/3gYH2ky5iZ1SaKNveeP378) | 3:09 | 2024-06-24 | 2026-01-15 |
-| [Km Wahed](https://open.spotify.com/track/1rukCHBt95a58Mb4cXzaAV) | [Triple9](https://open.spotify.com/artist/4EDet5KEQAdPKia5RxnVLt) | [Km Wahed](https://open.spotify.com/album/2yZ27FdxGaM69G3jUkDDVn) | 2:15 | 2025-10-07 |  |
+| [Km Wahed](https://open.spotify.com/track/1rukCHBt95a58Mb4cXzaAV) | [Triple9](https://open.spotify.com/artist/4EDet5KEQAdPKia5RxnVLt) | [Km Wahed](https://open.spotify.com/album/2yZ27FdxGaM69G3jUkDDVn) | 2:15 | 2025-10-07 | 2026-11-13 |
 | [KUNG FU](https://open.spotify.com/track/1fBF7Bn3QYK53XHpttpoyl) | [Vortex](https://open.spotify.com/artist/4ZmsZWoPes1sqS7Mo0a0xP), [LBandy](https://open.spotify.com/artist/0KgDFmrEx0ezsgblUjCxoA) | [KUNG FU](https://open.spotify.com/album/4nNge4R3KOJ3FXgUrclICp) | 2:26 | 2025-01-06 | 2025-10-03 |
 | [Lajl Aldar](https://open.spotify.com/track/6Mt9xxJ9RVgvMtN7Qqguv7) | [Ntitled](https://open.spotify.com/artist/1IlPPRHXWaxkyNiboLlCjd) | [Lajl Aldar](https://open.spotify.com/album/6j0XfhZLiWgfjb4m3x8mYB) | 2:20 | 2024-06-24 | 2025-10-15 |
-| [Leh](https://open.spotify.com/track/3AitDtX8v5llBxeXDjx1ld) | [Veto](https://open.spotify.com/artist/6LhACAqPCMAf2jnSgE8aqa) | [Leh](https://open.spotify.com/album/6GtedZwGjK8hK3OuN6VDwG) | 2:49 | 2025-10-02 |  |
+| [Leh](https://open.spotify.com/track/3AitDtX8v5llBxeXDjx1ld) | [Veto](https://open.spotify.com/artist/6LhACAqPCMAf2jnSgE8aqa) | [Leh](https://open.spotify.com/album/6GtedZwGjK8hK3OuN6VDwG) | 2:49 | 2025-10-02 | 2026-11-13 |
 | [LkLk](https://open.spotify.com/track/5VZ8DEWkAQfd7SZi0t2OAs) | [Khayyat](https://open.spotify.com/artist/0ZymXKuHy9Sqg2X5IEwLut), [Ntitled](https://open.spotify.com/artist/1IlPPRHXWaxkyNiboLlCjd) | [LkLk](https://open.spotify.com/album/7JUPrKv0iiM5WIWYmL1wv9) | 3:23 | 2024-06-24 | 2025-10-15 |
 | [London](https://open.spotify.com/track/1NtSwFwDEaQkM1QvKzaa7c) | [Soulja](https://open.spotify.com/artist/4LmdLhcTV6FR8omNKEOtuN), [Montiyago](https://open.spotify.com/artist/46MsyReAQf8kF6M4tD38Bk) | [Deja Vu](https://open.spotify.com/album/5kYZncxSpmU0nldbzyHw6q) | 2:40 | 2025-10-02 |  |
 | [Loop](https://open.spotify.com/track/2Pi4fHuWK9k8Wg2NvUx9dn) | [Tageel](https://open.spotify.com/artist/4LcBuE8S15eBSgSqKApro5) | [Kitab](https://open.spotify.com/album/1ao9V5no6rbr7QGNFUE5LI) | 3:02 | 2025-10-02 | 2025-10-15 |
@@ -65,6 +65,7 @@
 | [PETROL ALFAN \(feat\. Alshaikh\)](https://open.spotify.com/track/6Ng41Z45QiJ88KmEuFpS0N) | [Moayad](https://open.spotify.com/artist/6DutMGme3677e88ZM0THXu), [Alshaikh](https://open.spotify.com/artist/7MgFtgGEvXlgQOVw07qHJ2) | [PETROL ALFAN \(feat\. Alshaikh\)](https://open.spotify.com/album/009Fnoj0mfiihyzxg1ZjyZ) | 2:47 | 2025-04-29 | 2025-10-03 |
 | [R2](https://open.spotify.com/track/48lACJStcQmd2WO1qMnqOF) | [Alyoung](https://open.spotify.com/artist/0cCdSqBWH0WY1rg6yFTA3C), [Randar](https://open.spotify.com/artist/0yaac3M9Xna3EgrANm9qnk) | [R2](https://open.spotify.com/album/4WLDfug8AMnPH1gh0QVwq2) | 2:32 | 2026-07-29 |  |
 | [Rawq Elmanga](https://open.spotify.com/track/2hB2WISY87CjgjY3YNaJpt) | [Alyoung](https://open.spotify.com/artist/0cCdSqBWH0WY1rg6yFTA3C), [Randar](https://open.spotify.com/artist/0yaac3M9Xna3EgrANm9qnk) | [Rawq Elmanga](https://open.spotify.com/album/24i5mi7wRZIZATTQCWipGC) | 3:15 | 2024-06-24 |  |
+| [RONALDO](https://open.spotify.com/track/31MCc2B0eHOCKLjjoiCVE6) | [Alshaikh](https://open.spotify.com/artist/7MgFtgGEvXlgQOVw07qHJ2) | [RONALDO](https://open.spotify.com/album/7KSLKF4rd4OQJZu4BxHr5r) | 2:48 | 2026-11-12 |  |
 | [Shampoo](https://open.spotify.com/track/4qPsQJxMOREpkJcWz8OggA) | [Dr.Slim](https://open.spotify.com/artist/4Rb8AeljgYsMU3YW6D1asy) | [Shampoo](https://open.spotify.com/album/0BqtNn7UOpSUow10X2uG3I) | 2:40 | 2025-05-12 | 2025-10-03 |
 | [Shift](https://open.spotify.com/track/7Il7dirZYENWLPUMvYxLTC) | [Connan](https://open.spotify.com/artist/2rwkjlKZ4WoJXfkqUt3L45), [Hleem Taj Alser](https://open.spotify.com/artist/1taUz5RunniiDh3pyqXBKN) | [Shift](https://open.spotify.com/album/7aY1uHmcbbKdNZe3vLmUf5) | 2:30 | 2026-07-16 |  |
 | [SHOOTA](https://open.spotify.com/track/3nfWzTTxqbjHvALssUUKGb) | [Vortex](https://open.spotify.com/artist/4ZmsZWoPes1sqS7Mo0a0xP) | [SHOOTA](https://open.spotify.com/album/2pSwKpprTbV2QveOywXmjy) | 2:29 | 2024-06-24 |  |
@@ -78,7 +79,7 @@
 | [Tsunami](https://open.spotify.com/track/4iZEVee6FqyJLey77O9IjE) | [Vortex](https://open.spotify.com/artist/4ZmsZWoPes1sqS7Mo0a0xP), [Dr Slim](https://open.spotify.com/artist/3kElM4OngfmVhwYognqJij) | [Tsunami](https://open.spotify.com/album/5j4JPKExPkOcAGW441a2oK) | 2:57 | 2024-09-19 | 2025-10-03 |
 | [Wala Shai](https://open.spotify.com/track/4tGcsPIxrrwDm6DWZf0MCY) | [Telfaz11](https://open.spotify.com/artist/5PVYhzRlwWI7OWgPBDDQkh) | [Sattar](https://open.spotify.com/album/5zTkn4lFoPfW09RREtNxmr) | 2:50 | 2024-06-24 | 2025-12-19 |
 | [Ween Yabu](https://open.spotify.com/track/2JvrzoueEOcl6cYhnnI8XS) | [Ntitled](https://open.spotify.com/artist/1IlPPRHXWaxkyNiboLlCjd), [Dafencii](https://open.spotify.com/artist/6tiw0jaXjPqUqupLzCCfiv) | [Ween Yabu](https://open.spotify.com/album/1Fa0JCaLqGpUctiOcABxY5) | 3:23 | 2024-06-24 |  |
-| [Y20](https://open.spotify.com/track/1UDiiOdFUs3MdV9uAo8cYe) | [Triple9](https://open.spotify.com/artist/4EDet5KEQAdPKia5RxnVLt), [YSN Lowkey](https://open.spotify.com/artist/2gaO2Gwf588OnnaDwArIAW) | [Y20](https://open.spotify.com/album/6KB2ail4OHmi7hLE9sO9x6) | 1:54 | 2026-02-12 |  |
+| [Y20](https://open.spotify.com/track/1UDiiOdFUs3MdV9uAo8cYe) | [Triple9](https://open.spotify.com/artist/4EDet5KEQAdPKia5RxnVLt), [YSN Lowkey](https://open.spotify.com/artist/2gaO2Gwf588OnnaDwArIAW) | [Y20](https://open.spotify.com/album/6KB2ail4OHmi7hLE9sO9x6) | 1:54 | 2026-02-12 | 2026-11-13 |
 | [أهل العمار \(feat\. Ali Naseraldeen\)](https://open.spotify.com/track/1poqei4HbPw5lN3UL1rWKv) | [Esaam Satti](https://open.spotify.com/artist/4G0Y7SHFiexAC2U8UU5EVy), [Ali Naseraldeen](https://open.spotify.com/artist/7f57uC78jbchvWZjdQf96c) | [أهل العمار \(feat\. Ali Naseraldeen\)](https://open.spotify.com/album/2OUH1uzap9sVVbo9D5DBpS) | 3:47 | 2025-10-02 |  |
 | [اشناك](https://open.spotify.com/track/0ZehBprB7kEqrboKujaVVg) | [Júnior T](https://open.spotify.com/artist/1MYUszmFEtNVSEZ2UC92Sd), [INSEVEN](https://open.spotify.com/artist/5la1BXSjVSVTyF1E8Vj3EZ) | [اشناك](https://open.spotify.com/album/28eIWKEmIgz7Kcg4rZM6xu) | 2:50 | 2026-07-16 |  |
 | [الجلسة الاولى : فريستايل](https://open.spotify.com/track/4dvz8mbfDaERCEFa1gt9fV) | [Ntitled](https://open.spotify.com/artist/1IlPPRHXWaxkyNiboLlCjd) | [الجلسة الاولى : فريستايل](https://open.spotify.com/album/0UA4g53jHzmPvYdQM0EKEe) | 2:16 | 2024-06-24 | 2025-10-03 |

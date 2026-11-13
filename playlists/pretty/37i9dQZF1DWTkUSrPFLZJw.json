@@ -1,6 +1,6 @@
 {
   "description": "atopa risers",
-  "num_followers": 24868,
+  "num_followers": 24882,
   "original_name": "Soloku ",
   "owner": {
     "name": "Spotify",
@@ -839,26 +839,6 @@
     {
       "added_at": "2026-10-23 00:01:41",
       "album": {
-        "name": "Where Do We Go From Here",
-        "url": "https://open.spotify.com/album/0amZp5xPOzIaq0LqhhP5xD"
-      },
-      "artists": [
-        {
-          "name": "KiDi",
-          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
-        },
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 143119,
-      "name": "IDK (with Sarkodie)",
-      "url": "https://open.spotify.com/track/1GHsOfL6Sx8NxKHSEbpVpr"
-    },
-    {
-      "added_at": "2026-10-23 00:01:41",
-      "album": {
         "name": "High",
         "url": "https://open.spotify.com/album/1aGAwIFTyyw5YlbspR0mq9"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 193758,
       "name": "High",
       "url": "https://open.spotify.com/track/7l8VNas2HcqyvsvOSjXDQt"
+    },
+    {
+      "added_at": "2026-10-23 00:01:41",
+      "album": {
+        "name": "Where Do We Go From Here",
+        "url": "https://open.spotify.com/album/0amZp5xPOzIaq0LqhhP5xD"
+      },
+      "artists": [
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 143119,
+      "name": "IDK (with Sarkodie)",
+      "url": "https://open.spotify.com/track/1GHsOfL6Sx8NxKHSEbpVpr"
     },
     {
       "added_at": "2026-10-23 00:01:41",

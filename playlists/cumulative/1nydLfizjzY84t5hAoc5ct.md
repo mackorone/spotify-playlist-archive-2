@@ -4,7 +4,7 @@
 
 > OffAxisTours.com \| Indie \| Folk \| Electro \| Rock \| Pop  \| NO autotune, AI or instrumental
 
-460 songs - 1 day 3 hr 44 min
+461 songs - 1 day 3 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Cowboy Blues](https://open.spotify.com/track/33AEU6iQTRP4RKjDSOIoSS) | [Dear Heather](https://open.spotify.com/artist/1mWoFKl5CsBCynbbLVh7kB) | [Get My Good Side](https://open.spotify.com/album/2ssdXflV2D83zpRBXy3Wnn) | 3:55 | 2025-11-16 |  |
 | [Cricket Coyote](https://open.spotify.com/track/6m8SoDsRXRtCTCIiu4lb9k) | [Springworks](https://open.spotify.com/artist/351ok85APWNYv1RcU0UMcn) | [Cricket Coyote](https://open.spotify.com/album/0lgQkHMixqlSfNYuejukwp) | 4:00 | 2026-07-11 | 2026-07-22 |
 | [Crimson](https://open.spotify.com/track/2UrsxXhfzooaCLbgHaD28F) | [Psychedelic Cowboys](https://open.spotify.com/artist/6UyfO8kKSqsmKl9evcMHJq), [Jungmayer Louis Mouksa](https://open.spotify.com/artist/4v7SgZcoZS1PGQgkJniXRz) | [Once again they are wrong](https://open.spotify.com/album/35kLhozb8osDqHDvo2gZp9) | 5:39 | 2026-08-19 | 2026-08-22 |
+| [Critical Analysis](https://open.spotify.com/track/4boYzmLVSF6gvD5UWRxt9T) | [LECKI LECKI](https://open.spotify.com/artist/68G5m61q5sMimRnEHrcEGF) | [Critical Analysis](https://open.spotify.com/album/3EWXE8YnopD7OGwWQQPZzF) | 3:59 | 2026-11-12 |  |
 | [Cross The Street](https://open.spotify.com/track/2jsqoaZJqHF1t25vVuONHn) | [Junior Varsity](https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp) | [My Star \(Deluxe\)](https://open.spotify.com/album/3jXRErosrQELn4XWbP4Ucw) | 2:47 | 2026-09-03 |  |
 | [Crushwhore](https://open.spotify.com/track/3g9dkoiaCGaaAAX8WS88c5) | [moberod](https://open.spotify.com/artist/49lLlq5yOsfgHQnypG2Cdd) | [Learning It the Hard Way](https://open.spotify.com/album/6h3qBmbL2n3vFtfYF9G9uq) | 3:38 | 2026-06-09 | 2026-06-20 |
 | [CULT!](https://open.spotify.com/track/5bFgYId624WHc4NIdhYzhg) | [I'm Geist](https://open.spotify.com/artist/3RBbPmeuOZUZK0xtR32fHy) | [CULT!](https://open.spotify.com/album/5npSR16WyZJdHYqdYDkvWu) | 2:30 | 2026-09-03 |  |

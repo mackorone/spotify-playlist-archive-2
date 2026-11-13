@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "New & Hottest K-Hip Hop is here. (Cover: Dakshood)",
+  "description": "New & Hottest K-Hip Hop is here. (Cover: HAON)",
   "name": "KrOWN",
   "tracks": [
     {
@@ -13120,7 +13120,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 132931,
       "name": "GET JIGGY!",
       "url": "https://open.spotify.com/track/2RvB8W3b4a0viQh6jMBjnQ"
@@ -29497,6 +29497,28 @@
     },
     {
       "album": {
+        "name": "Pinocchio (Feat. Raf Sandou)",
+        "url": "https://open.spotify.com/album/58DzA1QNw84eHy51tWJsAc"
+      },
+      "artists": [
+        {
+          "name": "Woo",
+          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
+        },
+        {
+          "name": "Raf Sandou",
+          "url": "https://open.spotify.com/artist/4FBKTurCVdtC6Fq8mSQgj8"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143093,
+      "name": "Pinocchio (Feat. Raf Sandou)",
+      "url": "https://open.spotify.com/track/7soZAucR4biFPrKUnUlI4Z"
+    },
+    {
+      "album": {
         "name": "2 Kids On The Block - Part.3",
         "url": "https://open.spotify.com/album/7IbrzIkXcdevPIE4HnnFuR"
       },
@@ -29546,6 +29568,24 @@
       "duration_ms": 126338,
       "name": "Plan A-Z (feat. TOMMY YANG)",
       "url": "https://open.spotify.com/track/2hDV7WwnfDee8vsqFmpSuQ"
+    },
+    {
+      "album": {
+        "name": "i+em",
+        "url": "https://open.spotify.com/album/2nDc4H8vVDmc6XRYqfq4Gz"
+      },
+      "artists": [
+        {
+          "name": "HAON",
+          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158896,
+      "name": "Platinum",
+      "url": "https://open.spotify.com/track/3ShJGp85eq87bjJxmTxt0a"
     },
     {
       "album": {
@@ -32777,6 +32817,28 @@
     },
     {
       "album": {
+        "name": "SALJJAK Freestyle",
+        "url": "https://open.spotify.com/album/5BY3iLvoRiF6N8KPdK6eHP"
+      },
+      "artists": [
+        {
+          "name": "\uc800\uc2a4\ub514\uc2a4 (JUSTHIS)",
+          "url": "https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3"
+        },
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167184,
+      "name": "SALJJAK Freestyle",
+      "url": "https://open.spotify.com/track/7edtVmUiPSxngCQM9kqGVy"
+    },
+    {
+      "album": {
         "name": "YAHO",
         "url": "https://open.spotify.com/album/4ptpkLWr3MMEe6pUQv0Xs8"
       },
@@ -35378,7 +35440,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 219000,
       "name": "Star*",
       "url": "https://open.spotify.com/track/7uAVtZiyafG8YsI5yTiQ6y"
@@ -36124,7 +36186,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 149000,
       "name": "sunday",
       "url": "https://open.spotify.com/track/1QQyMKRCOUQS8aKNeiHJRu"

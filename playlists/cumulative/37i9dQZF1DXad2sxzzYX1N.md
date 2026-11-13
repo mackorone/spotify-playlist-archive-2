@@ -4,7 +4,7 @@
 
 > The indie viral hits you can't escape\. Cover: Remi Wolf
 
-248 songs - 14 hr 42 min
+249 songs - 14 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 | 2024-02-19 |  |
 | [Everything In Its Right Place](https://open.spotify.com/track/2kRFrWaLWiKq48YYVdGcm8) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Kid A](https://open.spotify.com/album/6GjwtEZcfenmOf6l18N7T7) | 4:11 | 2023-11-29 | 2024-01-10 |
 | [Everything is romantic featuring caroline polachek](https://open.spotify.com/track/2p2U8zVAnue6Yrx3mvtBE3) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/0W5woeQnfOZmVLSbggRRlR) | 3:23 | 2024-10-17 | 2025-02-19 |
+| [Everything On Fire](https://open.spotify.com/track/0UQqqjAgaF55dma8PxwMXp) | [Maia Toakley](https://open.spotify.com/artist/1B1J5gTh5qjRAykIQMX8Ka) | [Everything On Fire](https://open.spotify.com/album/3X4JQKQqriikASbUet3yBN) | 3:48 | 2026-11-12 |  |
 | [Fabienk](https://open.spotify.com/track/4UXwfhy8RTOcH0QWJF8SMg) | [Angine de Poitrine](https://open.spotify.com/artist/13NmOYYfvONNZ9mn2qn8P2) | [Fabienk](https://open.spotify.com/album/3K7nUC1QKBJi7iB9VSX9GZ) | 6:31 | 2026-03-19 | 2026-04-08 |
 | [Favourite](https://open.spotify.com/track/7oG9qhZ0UaQEoUGJJVXh1U) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Favourite](https://open.spotify.com/album/2bPJfnWkyJKG4gCajBXASQ) | 4:16 | 2024-09-20 | 2024-10-18 |
 | [Feel It \(From “Invincible”\)](https://open.spotify.com/track/3SAga35lAPYdjj3qyfEsCF) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Feel It \(From “Invincible”\)](https://open.spotify.com/album/0GHlPN101r1WcuQCwINbI2) | 2:37 | 2024-04-11 | 2026-06-13 |
@@ -174,7 +175,7 @@
 | [Orbiter](https://open.spotify.com/track/77fL8ATR0dpUDLI0XLmDBV) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide: The Last Of The Bugs](https://open.spotify.com/album/0TSynllAnze7KMhv6J7W18) | 4:46 | 2026-10-19 |  |
 | [Over & Over](https://open.spotify.com/track/0NSKePv9EAvvCL4YHiMfUv) | [Rio Romeo](https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub) | [Over & Over](https://open.spotify.com/album/1SvObtq8R8BpE2CsfCt2tF) | 1:40 | 2024-07-15 | 2024-07-27 |
 | [party 4 u](https://open.spotify.com/track/2RdEC8Ff83WkX7kDVCHseE) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [how i'm feeling now](https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu) | 4:56 | 2025-02-18 |  |
-| [Pink in the Night](https://open.spotify.com/track/51vArgRF64yIWk3JIcRITo) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Be the Cowboy](https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq) | 2:16 | 2026-11-05 |  |
+| [Pink in the Night](https://open.spotify.com/track/51vArgRF64yIWk3JIcRITo) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Be the Cowboy](https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq) | 2:16 | 2026-11-05 | 2026-11-13 |
 | [PIXELATED KISSES](https://open.spotify.com/track/2OZVskV28xxJjjhQqKTLSg) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [PIXELATED KISSES](https://open.spotify.com/album/3FLlai6YTV9IwCU0KolG1w) | 1:50 | 2026-02-19 | 2026-03-20 |
 | [Pool](https://open.spotify.com/track/5cHDAJwQx3CUxRWHfAvbkv) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [The Baby](https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6) | 4:29 | 2025-07-28 | 2025-08-09 |
 | [Pool \- Stripped](https://open.spotify.com/track/5zlxkhxG7ICPmq8x3GSPy8) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Pool](https://open.spotify.com/album/3Fd3U7toUGx6ga7G4h8Kss) | 4:03 | 2025-08-08 | 2025-11-13 |

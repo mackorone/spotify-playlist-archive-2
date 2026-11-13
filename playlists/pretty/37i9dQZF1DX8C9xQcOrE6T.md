@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C9xQcOrE6T.md) - [plain]
 
 > Find your favorite Disney hits all in one place\. Iconic jams from Moana, Frozen, Encanto, Toy Story and more are here!
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,858,264 likes - 71 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,858,312 likes - 71 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

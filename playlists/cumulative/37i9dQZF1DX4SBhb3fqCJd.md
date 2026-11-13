@@ -2,9 +2,9 @@
 
 ### [RNB X](https://open.spotify.com/playlist/37i9dQZF1DX4SBhb3fqCJd)
 
-> Where R&B lives\. Cover: Ella Mai
+> Where R&B lives\. Cover: Snoh Aalegra
 
-907 songs - 2 day 2 hr 41 min
+910 songs - 2 day 2 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [ALL MINE](https://open.spotify.com/track/3XgGQ1wjo5khvq2UImjyNF) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 3:36 | 2022-07-08 | 2023-03-18 |
 | [All or Nothing \(feat\. Ella Mai\)](https://open.spotify.com/track/4SPazIWgMqArA81XKxgDZa) | [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98), [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [After the Butterflies](https://open.spotify.com/album/3KxnjxwC38wxRIYl2tFo80) | 3:10 | 2023-11-17 | 2024-04-19 |
 | [All Yours](https://open.spotify.com/track/0FK76UEefHKQ78AXEWJY31) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [DOPAMINE](https://open.spotify.com/album/1XSUdSojWNJCgNqKNxfcVr) | 3:28 | 2024-06-14 | 2024-10-19 |
-| [Almost](https://open.spotify.com/track/2yxBMqrQBMI5EDr9nGn4ZZ) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Frequency Of Love](https://open.spotify.com/album/6uKjWjH2r2fsgfKaIsaYWw) | 3:14 | 2026-10-02 |  |
+| [Almost](https://open.spotify.com/track/2yxBMqrQBMI5EDr9nGn4ZZ) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Frequency Of Love](https://open.spotify.com/album/6uKjWjH2r2fsgfKaIsaYWw) | 3:14 | 2026-10-02 | 2026-11-13 |
 | [Alone](https://open.spotify.com/track/0UqV4f9Uyp1EwM5jxXex36) | [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [Songs for Women, Free Game for Niggas \- EP](https://open.spotify.com/album/64iyjndrqCyY9dbldsSZx1) | 3:01 | 2023-04-28 | 2023-06-24 |
 | [Alright](https://open.spotify.com/track/3OgdnA3LYpJ6vxrfk6X3p4) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR II](https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ) | 2:53 | 2023-09-22 | 2024-11-09 |
 | [altar](https://open.spotify.com/track/501mFwKeLnybf8JO3XL66O) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [altar](https://open.spotify.com/album/7aQ67hIkvYTPsXFEPL6CyI) | 4:03 | 2021-12-17 | 2022-03-26 |
@@ -359,7 +359,8 @@
 | [I can’t be high around you anymore](https://open.spotify.com/track/47SWX89TEMbqdL1CyAzDGb) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [THERAPY AT THE CLUB](https://open.spotify.com/album/1Rz7o4Hllbk3qVHEa6XgBf) | 3:20 | 2026-08-14 |  |
 | [I Don't Mind](https://open.spotify.com/track/0BKP9mcDJOnIz3GHm07wP5) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [In Pieces](https://open.spotify.com/album/57eOzR6RxyfJLC3ggBQfRI) | 2:57 | 2023-04-07 | 2023-07-22 |
 | [I Hate U](https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [I Hate U](https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw) | 2:54 | 2021-12-17 | 2022-06-18 |
-| [I Love You](https://open.spotify.com/track/0yXMe310dgpquMTa7OmHKk) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [I Love You](https://open.spotify.com/album/31wXDPNODAAp5v0F9Kq6zZ) | 3:17 | 2026-10-23 |  |
+| [I Love You](https://open.spotify.com/track/0yXMe310dgpquMTa7OmHKk) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [I Love You](https://open.spotify.com/album/31wXDPNODAAp5v0F9Kq6zZ) | 3:17 | 2026-10-23 | 2026-11-13 |
+| [I Love You](https://open.spotify.com/track/31P54A2UCu7hWuPHOIIbj9) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Legendary Love](https://open.spotify.com/album/74ExA1UleSA3kSC0TyNObv) | 3:17 | 2026-11-13 |  |
 | [I Need Her](https://open.spotify.com/track/6g8YoqKjS1OqW0MXo1DyeL) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Solace & The Vices](https://open.spotify.com/album/3Xk1Mz1aaon4cx1f91Z00n) | 2:37 | 2025-10-03 | 2025-12-20 |
 | [I Need You \(feat\. Brandy\)](https://open.spotify.com/track/1RNcORpluixtdsa5CBFjBH) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Kehlani](https://open.spotify.com/album/2xkYTmqjear3lSGydIn7wh) | 4:03 | 2026-04-24 | 2026-07-25 |
 | [I Wish you Roses](https://open.spotify.com/track/6BQrmjAgPfPTwILoFEK3Hd) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [I Wish you Roses](https://open.spotify.com/album/2XCrHIlpS6yq2Lix46lOPi) | 3:45 | 2023-01-20 | 2023-04-29 |
@@ -405,7 +406,7 @@
 | [Just How You Are](https://open.spotify.com/track/7KO0PWYRvoQMNdOZ4KHulW) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Just How You Are](https://open.spotify.com/album/72kXsZAoCVweVue3PPZ7hw) | 3:14 | 2025-10-03 | 2025-11-22 |
 | [JUST LIKE THAT \(with Ari Lennox\)](https://open.spotify.com/track/2eCIT1yhrYfWdfC5VahUrt) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [JUST LIKE THAT \(with Ari Lennox\)](https://open.spotify.com/album/04paAyoEdoSL1nSUdoMSp1) | 2:43 | 2024-11-15 | 2025-03-22 |
 | [KARMA](https://open.spotify.com/track/5gc1YUM7XMyvzjJtNLXprG) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx), [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM) | [KARMA](https://open.spotify.com/album/0ahMBglX3zpyTxcD3NwZR5) | 3:07 | 2024-02-23 | 2024-04-13 |
-| [Karma](https://open.spotify.com/track/4tkaRLzfaYQyaqvIaiyz4h) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Karma](https://open.spotify.com/album/0ZYZgEwmt3NAS54RC8Y8Zz) | 3:29 | 2026-10-16 |  |
+| [Karma](https://open.spotify.com/track/4tkaRLzfaYQyaqvIaiyz4h) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Karma](https://open.spotify.com/album/0ZYZgEwmt3NAS54RC8Y8Zz) | 3:29 | 2026-10-16 | 2026-11-13 |
 | [Karma](https://open.spotify.com/track/2Fyjjpg03fn7n5cj0Qm380) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Last Day Of Summer](https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz) | 3:08 | 2022-08-26 | 2023-01-14 |
 | [Keep Going \(Aaaaahhhhh\)](https://open.spotify.com/track/1EJ3Ihcgm3HsHTRT4CaUEp) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Glad You Came](https://open.spotify.com/album/02YWHzAqDtkFuNPAr82b8s) | 2:48 | 2024-12-13 | 2025-03-29 |
 | [KEEPER](https://open.spotify.com/track/0oG6bJKzXgqzsaaEy1M510) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [BELOVED](https://open.spotify.com/album/7pcBXbl1g198PNAxt44bHQ) | 3:42 | 2025-09-05 | 2026-04-25 |
@@ -644,7 +645,7 @@
 | [Rainy Days](https://open.spotify.com/track/3mkRf3aCGR47rOxtJJiv9u) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [HEARTS SOLD SEPARATELY](https://open.spotify.com/album/0gZVv6enPZhdDz7vrzwhZP) | 3:32 | 2025-08-22 | 2026-03-21 |
 | [RATHER BE](https://open.spotify.com/track/2QcDEWNu8pvcfxmo3KHYRv) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [RATHER BE](https://open.spotify.com/album/2OsE2fTGgTPYGzaARFLs8M) | 2:51 | 2025-05-16 | 2025-07-19 |
 | [RATHER BE ALONE \(feat\. Halle\)](https://open.spotify.com/track/4x87U8mTjl1irG9XK0Jr4z) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Halle](https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx) | [RATHER BE ALONE \(feat\. Halle\)](https://open.spotify.com/album/0pE2DNeBk3xGNrYkKgR8ai) | 3:10 | 2025-04-18 | 2025-05-31 |
-| [Reach Out](https://open.spotify.com/track/5QPXPPVW730RcBAlLXIQlF) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Frequency Of Love](https://open.spotify.com/album/6uKjWjH2r2fsgfKaIsaYWw) | 2:39 | 2026-10-02 |  |
+| [Reach Out](https://open.spotify.com/track/5QPXPPVW730RcBAlLXIQlF) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Frequency Of Love](https://open.spotify.com/album/6uKjWjH2r2fsgfKaIsaYWw) | 2:39 | 2026-10-02 | 2026-11-13 |
 | [Reach Out](https://open.spotify.com/track/7utED0KJFDNKvCdVZmHHKa) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Reach Out](https://open.spotify.com/album/46Xg3GoIYnoRbSmMpBxF0Z) | 2:39 | 2026-07-24 | 2026-10-02 |
 | [Ready](https://open.spotify.com/track/1hWi7x6YYkpCt6aRlC2r6R) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Ready](https://open.spotify.com/album/4VEmS1AQqFKNhCCtmp2R0E) | 3:01 | 2023-07-07 | 2023-07-15 |
 | [Real Thing \(feat\. Tori Kelly\)](https://open.spotify.com/track/4Nk5iJrw4u7vJ6nGXosuxk) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Pink Moon](https://open.spotify.com/album/5MxLgiQF7yvC7SVMghxPZ1) | 3:15 | 2022-01-28 | 2022-05-07 |
@@ -812,6 +813,7 @@
 | [This Is](https://open.spotify.com/track/2zuDMKJ2rSgCMtJknUJBZ9) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Heart On My Sleeve \(Deluxe Edition\)](https://open.spotify.com/album/5PSR9tquibfWRiWVSkn6qD) | 3:26 | 2023-02-03 | 2023-10-21 |
 | [Through The Night \(feat\. Free Nationals\)](https://open.spotify.com/track/0lpo9c5J9uOZqMsXEei1gV) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO), [Free Nationals](https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj) | [When I Hear Your Name](https://open.spotify.com/album/6owNWjSOZiMUKgGfRShwxN) | 4:18 | 2023-11-17 | 2024-06-01 |
 | [Time Machine](https://open.spotify.com/track/1caYuDcVSxd8qZBEqzrXQk) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection](https://open.spotify.com/album/4gECm6iRIuekmp8r6HIko0) | 3:42 | 2022-03-11 | 2022-05-14 |
+| [Timeless](https://open.spotify.com/track/3BQes6FigrqLHU08KNtdG0) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Legendary Love](https://open.spotify.com/album/74ExA1UleSA3kSC0TyNObv) | 3:40 | 2026-11-13 |  |
 | [To B Honest](https://open.spotify.com/track/4u5BaS3nzHw1RIm1uEl0x7) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [To Whom This May Concern](https://open.spotify.com/album/7mwyiTViOEtAtOeoilQ3QG) | 4:30 | 2026-02-13 | 2026-03-21 |
 | [To The Moon](https://open.spotify.com/track/6dfCnnBrqYANJSU3tpG5pI) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [I'll Always Come Find You](https://open.spotify.com/album/7MXxt6ult07PrDraCxb5EK) | 2:43 | 2024-07-26 | 2024-12-14 |
 | [To This Day](https://open.spotify.com/track/7JM71c4NDJh0gllX45eWRi) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [To This Day](https://open.spotify.com/album/3Mub17z8Rz5f6xTQjbukjI) | 3:30 | 2023-06-23 | 2023-09-30 |
@@ -826,6 +828,7 @@
 | [Treasure In The Hills](https://open.spotify.com/track/64TJKMfx0QxpuR7rTXL05c) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Electric Dusk](https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT) | 3:09 | 2023-08-18 | 2024-05-03 |
 | [Treat Me](https://open.spotify.com/track/2ZCu2xskiEBCV3y0eu0zJG) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Treat Me](https://open.spotify.com/album/07OIugKUfGzqhgZxJ4v7qP) | 2:29 | 2022-04-08 | 2022-07-10 |
 | [Tricks Are For Kids](https://open.spotify.com/track/6ggChS1qPtrjHYcN7s4Uol) | [rjtheweirdo](https://open.spotify.com/artist/5XWVWbQiBVEEXZSFyEsUcW) | [At Least She's Beautiful](https://open.spotify.com/album/3kTzp0zFyAUnm2YP2YxHpL) | 2:20 | 2026-07-03 |  |
+| [Trophy](https://open.spotify.com/track/1I2QdqvSz7AeMPVZJheUcj) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Trophy](https://open.spotify.com/album/3GKB75ijlo1b33UVr809hQ) | 4:05 | 2026-11-13 |  |
 | [Truth or Dare](https://open.spotify.com/track/1whAXVGN8AdfrnoXNIXfJf) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA](https://open.spotify.com/album/6cWVXZCgpDJhvFOqB6o0DP) | 3:10 | 2023-12-01 | 2024-04-13 |
 | [Try Me](https://open.spotify.com/track/3htVhQPsTXWAkAXYRkfRSz) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Try Me](https://open.spotify.com/album/1zEHQu3XSlROYTbFdmISHx) | 3:33 | 2023-04-14 | 2023-07-08 |
 | [Try Peace...](https://open.spotify.com/track/26H5U6YRMbzunMgCe89r0s) | [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9) | [Try Peace...](https://open.spotify.com/album/3qThDnd30yCBWBmpu4nE8Y) | 3:40 | 2022-03-11 | 2022-05-28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX442zFw7L5ce.md) - [plain]
 
 > Get ready to these songs that'll make you feel like you're the QUEEEEN! <br/>Cover : Sreeleela
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,800 likes - 50 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,813 likes - 50 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX442zFw7L5ce.md) - [plain]
 | 44 | [Andaala Raakshsive](https://open.spotify.com/track/5xUZRi3ph5h01vbgx3u65X) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [Harini](https://open.spotify.com/artist/41BeeC5hYqvtGkM79RYvN4) | [Oke Okkadu](https://open.spotify.com/album/1WCAy8NWpdJ0NtzBTtxXvu) | 6:13 |
 | 45 | [Gulabi Kallu Rendu Mullu](https://open.spotify.com/track/7Kd2C4NcmMRk0N7M3LRvLS) | [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7) | [Govindudu Andarivaadele](https://open.spotify.com/album/6IKZJLQIyKWHYk9iarEI0W) | 4:24 |
 | 46 | [Akasam Ammayaithe](https://open.spotify.com/track/14I31bbtEZVADFi1uCcxcu) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Gopika Poornima](https://open.spotify.com/artist/5Rj7UMjxB4u5OZnS5c1rXF) | [Gabbar Singh](https://open.spotify.com/album/57x6HaiiJdeTg9yhfoMcSr) | 4:51 |
-| 47 | [Buggey Bangarama](https://open.spotify.com/track/18RUE4llLj46NIQKojerlw) | [Rajesh](https://open.spotify.com/artist/6aQ5LDX0WlnyDLI8TGU0wK) | [Chandamama](https://open.spotify.com/album/2eASY2UZa4O8pdXvK9SNgC) | 4:32 |
-| 48 | [Chandrakala](https://open.spotify.com/track/0KuVYY7tHWcwbvR0FSwrEo) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [Rita Thyagarajan](https://open.spotify.com/artist/27bGntdBHtYYP0QPkKzqzF) | [Adhurs](https://open.spotify.com/album/62IHYuxj0BTHw3BgrjRlQO) | 4:13 |
-| 49 | [Beautiful Girl](https://open.spotify.com/track/3P8sXN7vsucV5k80lReeeq) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD) | [Life Is Beautiful](https://open.spotify.com/album/1Hd2y0smTAvVSTvJeXj5lW) | 4:43 |
-| 50 | [Yentha Sakkagunnave](https://open.spotify.com/track/6ZwkWDAoj6aDCbng3xnGSl) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Chandra Bose](https://open.spotify.com/artist/3gZ3IpjebAehFzIYhFIJDK) | [Rangasthalam](https://open.spotify.com/album/7tSkAxhqw7Gb2lvnAjxvwF) | 4:22 |
+| 47 | [Aakasam](https://open.spotify.com/track/4wKiaLGUIAdgRBSv80aeBW) | [Sumangaly](https://open.spotify.com/artist/0WpkyIAATl5W540KCSEUwX), [Kid Sathya](https://open.spotify.com/artist/2nzTUPkoUDOpQsQWzIUEQn) | [Kalusukovalani](https://open.spotify.com/album/2z84b5n0ZwZa3exP90AHiu) | 4:46 |
+| 48 | [Buggey Bangarama](https://open.spotify.com/track/18RUE4llLj46NIQKojerlw) | [Rajesh](https://open.spotify.com/artist/6aQ5LDX0WlnyDLI8TGU0wK) | [Chandamama](https://open.spotify.com/album/2eASY2UZa4O8pdXvK9SNgC) | 4:32 |
+| 49 | [Chandrakala](https://open.spotify.com/track/0KuVYY7tHWcwbvR0FSwrEo) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [Rita Thyagarajan](https://open.spotify.com/artist/27bGntdBHtYYP0QPkKzqzF) | [Adhurs](https://open.spotify.com/album/62IHYuxj0BTHw3BgrjRlQO) | 4:13 |
+| 50 | [Beautiful Girl](https://open.spotify.com/track/3P8sXN7vsucV5k80lReeeq) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD) | [Life Is Beautiful](https://open.spotify.com/album/1Hd2y0smTAvVSTvJeXj5lW) | 4:43 |
 
 Snapshot ID: `AAAAACxybIzkJDYHg12HfbJDdMUrX3l8`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Bres, Light, Quervo",
+  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Likeboss",
   "name": "Hot Greek Rap",
   "tracks": [
     {
@@ -1611,6 +1611,32 @@
     },
     {
       "album": {
+        "name": "Friday The 13th",
+        "url": "https://open.spotify.com/album/1hFAK2N8NrzGqBv73hcsDx"
+      },
+      "artists": [
+        {
+          "name": "Likeboss",
+          "url": "https://open.spotify.com/artist/5gw7flNXQt0oQ5taY1as73"
+        },
+        {
+          "name": "Kidd",
+          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
+        },
+        {
+          "name": "Echo",
+          "url": "https://open.spotify.com/artist/0JfrxGQOdnHYZWBAtzPezD"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "APOPSE",
+      "url": "https://open.spotify.com/track/7amgtXC4JGkiUPiaDKqtY6"
+    },
+    {
+      "album": {
         "name": "APOTIPOMATA",
         "url": "https://open.spotify.com/album/13fA1U9jizHnA17kxIOhtX"
       },
@@ -1682,7 +1708,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 156992,
       "name": "APROVEITAR",
       "url": "https://open.spotify.com/track/59M9N7qMNKo95G22Wb3Rly"
@@ -4230,7 +4256,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 135272,
       "name": "CRETA",
       "url": "https://open.spotify.com/track/5nj63xdbymspnKmHC5isVZ"
@@ -4504,6 +4530,32 @@
       "duration_ms": 147415,
       "name": "DANNY PHANTOM",
       "url": "https://open.spotify.com/track/2RrO7rBV3BpeXn04tc2Za4"
+    },
+    {
+      "album": {
+        "name": "DARKWAVE",
+        "url": "https://open.spotify.com/album/74ELQs8x8LOzI79DuiCLC1"
+      },
+      "artists": [
+        {
+          "name": "KSF",
+          "url": "https://open.spotify.com/artist/6PR7GwuKj5ZCuHsNslHcC9"
+        },
+        {
+          "name": "Ank Beats",
+          "url": "https://open.spotify.com/artist/2mNrF07VPij0HJqtgOZO5W"
+        },
+        {
+          "name": "supremusdeus",
+          "url": "https://open.spotify.com/artist/1rhLxhmrO8hfjtnUh4j0Mw"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106263,
+      "name": "DARKWAVE",
+      "url": "https://open.spotify.com/track/6dtuEjc4lxlvBd03io65wi"
     },
     {
       "album": {
@@ -6487,6 +6539,28 @@
     },
     {
       "album": {
+        "name": "MPASTARD0S",
+        "url": "https://open.spotify.com/album/7azjzKMvWGkorvqryUcr2h"
+      },
+      "artists": [
+        {
+          "name": "LEX",
+          "url": "https://open.spotify.com/artist/3ObDUGvTK5W2QJqBQyIkm1"
+        },
+        {
+          "name": "Dof Twogee",
+          "url": "https://open.spotify.com/artist/1OJxI4NQfY6osMvhfRMMEX"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "FIME",
+      "url": "https://open.spotify.com/track/2WHBuHRJwtUCmk5YJ7EG4x"
+    },
+    {
+      "album": {
         "name": "Firma",
         "url": "https://open.spotify.com/album/6I6pNnepxmXZwQy72BnYnt"
       },
@@ -8026,7 +8100,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 188233,
       "name": "HAHAHA",
       "url": "https://open.spotify.com/track/4agkvRh2xfTlFPfJ5ZpRTQ"
@@ -9145,6 +9219,28 @@
     },
     {
       "album": {
+        "name": "Kapnoi Kai Daimones",
+        "url": "https://open.spotify.com/album/73DVn735UDOkabVFHI3kzZ"
+      },
+      "artists": [
+        {
+          "name": "Ortiz",
+          "url": "https://open.spotify.com/artist/6nidPawoE1wPgAtFmeyXyR"
+        },
+        {
+          "name": "Bossikan",
+          "url": "https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190221,
+      "name": "Kapnoi Kai Daimones",
+      "url": "https://open.spotify.com/track/7MRFfHxOJ5VErsvdd1wKcD"
+    },
+    {
+      "album": {
         "name": "MAVRI ELLADA",
         "url": "https://open.spotify.com/album/1VLERIT9MWXQGypnzYaTe9"
       },
@@ -9602,7 +9698,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 174065,
       "name": "KLEIDIA",
       "url": "https://open.spotify.com/track/5XM5BN2S3HLTaK4wvC7RZe"
@@ -13872,7 +13968,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 168500,
       "name": "PALOMA",
       "url": "https://open.spotify.com/track/2mSredandhqq7qSD2LVhn6"
@@ -16594,6 +16690,24 @@
       "duration_ms": 214253,
       "name": "SERBIAN FREESTYLE",
       "url": "https://open.spotify.com/track/1MMpsfptbwzmzAcxZxRG1x"
+    },
+    {
+      "album": {
+        "name": "Seri Apo Xthes",
+        "url": "https://open.spotify.com/album/35DQkfPdu2o7AunkOzklMi"
+      },
+      "artists": [
+        {
+          "name": "Tus",
+          "url": "https://open.spotify.com/artist/2nIUyFPGvJ6Wuj10rNowq5"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138929,
+      "name": "Seri Apo Xthes",
+      "url": "https://open.spotify.com/track/5WONz35lHVxkgPqSIahH9U"
     },
     {
       "album": {

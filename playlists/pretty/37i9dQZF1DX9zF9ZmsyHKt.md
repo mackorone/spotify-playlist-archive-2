@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 
 > O melhor do Tecnobrega, Melody e Brega do norte! Foto: Viviane Batidão
 
-[Spotify](https://open.spotify.com/user/spotify) - 363,428 likes - 65 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 363,426 likes - 65 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 | 38 | [Fica ou Sai \- Ao Vivo](https://open.spotify.com/track/7uFUgHj2oYSgnGQwnQbxpJ) | [Rebeca Lindsay](https://open.spotify.com/artist/3yMbb5fw0spHqSkVZpsuGq) | [Fica ou Sai \(Ao Vivo\)](https://open.spotify.com/album/0XRhuNGN7G2OKsDvKRoIJx) | 2:21 |
 | 39 | [Esperança](https://open.spotify.com/track/65XEiVtu5lTjBqsAfJeafb) | [Banda AR\-15](https://open.spotify.com/artist/6wYo9f6kXFslXYtATvhM86), [Manu](https://open.spotify.com/artist/0CdnnCbbKD4oIzBmxi2o7r) | [Esperança](https://open.spotify.com/album/2mwMZXG1mfvuSNAGun4qZL) | 2:55 |
 | 40 | [Grito Seu Nome](https://open.spotify.com/track/3JQLEtwCzTNwrjbbxoVDZE) | [Viviane Batidão](https://open.spotify.com/artist/1p2aDZsmPNSKQynqjXN7Hj) | [Sucessos](https://open.spotify.com/album/6UqGyxulGDAtJGQiy5gRP8) | 3:03 |
-| 41 | [Búfalo do Marajó](https://open.spotify.com/track/76tnBMbH2D5HbvZ3g5ZRSI) | [Aretuza Lovi](https://open.spotify.com/artist/3cKD8x85OnB9pu8T8k5GYe), [Allanzinho](https://open.spotify.com/artist/73qBqoOL5FnxUSdtTl5JQ0) | [BOROGODÓ 2](https://open.spotify.com/album/19zfL8aj6RlLqajsgOwQKo) | 2:38 |
-| 42 | [São Amores](https://open.spotify.com/track/48qHCv2FnLa5uVCAcPveU1) | [Banda Quero Mais](https://open.spotify.com/artist/2qKQ4jiEt7kpYuLyTsNQqz) | [São Amores](https://open.spotify.com/album/55Rl0AQKQwbAKyI41H088s) | 3:19 |
+| 41 | [São Amores](https://open.spotify.com/track/48qHCv2FnLa5uVCAcPveU1) | [Banda Quero Mais](https://open.spotify.com/artist/2qKQ4jiEt7kpYuLyTsNQqz) | [São Amores](https://open.spotify.com/album/55Rl0AQKQwbAKyI41H088s) | 3:19 |
+| 42 | [Búfalo do Marajó](https://open.spotify.com/track/76tnBMbH2D5HbvZ3g5ZRSI) | [Aretuza Lovi](https://open.spotify.com/artist/3cKD8x85OnB9pu8T8k5GYe), [Allanzinho](https://open.spotify.com/artist/73qBqoOL5FnxUSdtTl5JQ0) | [BOROGODÓ 2](https://open.spotify.com/album/19zfL8aj6RlLqajsgOwQKo) | 2:38 |
 | 43 | [Esse Jogo Acabou](https://open.spotify.com/track/7r7JTB4CTLtILAQ4cR4mH1) | [Rebeca Lindsay](https://open.spotify.com/artist/3yMbb5fw0spHqSkVZpsuGq) | [Esse Jogo Acabou](https://open.spotify.com/album/6Jk9HrMwJEKjR1XHsrHDQH) | 3:09 |
 | 44 | [Carabao o Máximo](https://open.spotify.com/track/21X99tpR1iJj93Qq1Zfmrb) | [Banda msynck](https://open.spotify.com/artist/79iY9AWpx6WDFhWAko16rQ) | [Carabao o Máximo](https://open.spotify.com/album/3D7ahZJOzjxb7NXyvtAQeS) | 2:20 |
 | 45 | [Para de Negar](https://open.spotify.com/track/1V6yPFiUioG4ZXWqQQmazb) | [Banda AR\-15](https://open.spotify.com/artist/6wYo9f6kXFslXYtATvhM86) | [Para de Negar](https://open.spotify.com/album/6JuP0kg9xQgbLqt4XiH4gm) | 2:51 |

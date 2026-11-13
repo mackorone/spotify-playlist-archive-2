@@ -1,12 +1,12 @@
 {
   "description": "This is EST Gee. The essential tracks, all in one playlist.",
-  "num_followers": 13835,
+  "num_followers": 13838,
   "original_name": "This Is EST Gee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avENAAAAAAA4CiszBHRYZdBPC5s5hP77",
+  "snapshot_id": "avOwAAAAAACkM/omkaNtV3bDmrfBwRme",
   "tracks": [
     {
       "added_at": null,
@@ -755,6 +755,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I Never Felt Nun",
+        "url": "https://open.spotify.com/album/0A4xJz6OAedAQGriJH7pjn"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 166956,
+      "name": "Come Home",
+      "url": "https://open.spotify.com/track/6bDBI9WP59AI2cjn20oQV2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "My World",
         "url": "https://open.spotify.com/album/4KLUvDEJRMLGNHy8xZCLrX"
       },
@@ -787,22 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Never Felt Nun",
-        "url": "https://open.spotify.com/album/0A4xJz6OAedAQGriJH7pjn"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 166956,
-      "name": "Come Home",
-      "url": "https://open.spotify.com/track/6bDBI9WP59AI2cjn20oQV2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ion Feel Nun",
         "url": "https://open.spotify.com/album/5pn7HHtN1bupnOMXtWs0LL"
       },
@@ -812,9 +812,9 @@
           "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
         }
       ],
-      "duration_ms": 106904,
-      "name": "Morals",
-      "url": "https://open.spotify.com/track/1rVsTdubD5s0PDz6gzLhTK"
+      "duration_ms": 154936,
+      "name": "Gangatroni",
+      "url": "https://open.spotify.com/track/3ttCrTtqA6OHBudFhTCTZv"
     },
     {
       "added_at": null,
@@ -839,26 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NOT A CHANCE IN HELL",
-        "url": "https://open.spotify.com/album/3bJvXyBbNAh6kT5MnQ6iCS"
-      },
-      "artists": [
-        {
-          "name": "Mozzy",
-          "url": "https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO"
-        },
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 94945,
-      "name": "WOULDN'T HOLD YOU UP",
-      "url": "https://open.spotify.com/track/6zUKuZMJflZgPWMS23nh7I"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Never Felt Nun",
         "url": "https://open.spotify.com/album/0A4xJz6OAedAQGriJH7pjn"
       },
@@ -879,6 +859,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "NOT A CHANCE IN HELL",
+        "url": "https://open.spotify.com/album/3bJvXyBbNAh6kT5MnQ6iCS"
+      },
+      "artists": [
+        {
+          "name": "Mozzy",
+          "url": "https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO"
+        },
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 94945,
+      "name": "WOULDN'T HOLD YOU UP",
+      "url": "https://open.spotify.com/track/6zUKuZMJflZgPWMS23nh7I"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ion Feel Nun",
         "url": "https://open.spotify.com/album/5pn7HHtN1bupnOMXtWs0LL"
       },
@@ -888,9 +888,9 @@
           "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
         }
       ],
-      "duration_ms": 154936,
-      "name": "Gangatroni",
-      "url": "https://open.spotify.com/track/3ttCrTtqA6OHBudFhTCTZv"
+      "duration_ms": 106904,
+      "name": "Morals",
+      "url": "https://open.spotify.com/track/1rVsTdubD5s0PDz6gzLhTK"
     },
     {
       "added_at": null,

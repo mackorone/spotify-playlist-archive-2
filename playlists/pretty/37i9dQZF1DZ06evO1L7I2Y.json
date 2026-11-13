@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avENAAAAAABwpXtc5vUtlLzfxrYPJuH+",
+  "snapshot_id": "avOwAAAAAABUtWpA+QR0B3z9711E3xgg",
   "tracks": [
     {
       "added_at": null,
@@ -351,26 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "POSTURADA",
-        "url": "https://open.spotify.com/album/5819BDcxcehDVMAN0Ztke2"
-      },
-      "artists": [
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "LARINHX",
-          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
-        }
-      ],
-      "duration_ms": 177230,
-      "name": "POSTURADA",
-      "url": "https://open.spotify.com/track/6B4X1XdoqDpbNRGRjGlGHp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "NOVA ERA",
         "url": "https://open.spotify.com/album/122yRf2xz5FT2ua5Vbv3tp"
       },
@@ -387,6 +367,26 @@
       "duration_ms": 215400,
       "name": "Tanto Faz",
       "url": "https://open.spotify.com/track/05EOQ6Cmgb8tSFkKI4vesG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "POSTURADA",
+        "url": "https://open.spotify.com/album/5819BDcxcehDVMAN0Ztke2"
+      },
+      "artists": [
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "LARINHX",
+          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
+        }
+      ],
+      "duration_ms": 177230,
+      "name": "POSTURADA",
+      "url": "https://open.spotify.com/track/6B4X1XdoqDpbNRGRjGlGHp"
     },
     {
       "added_at": null,
@@ -435,6 +435,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Stephen King",
+        "url": "https://open.spotify.com/album/2SixEfADecvtERCCUXwQej"
+      },
+      "artists": [
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        }
+      ],
+      "duration_ms": 164571,
+      "name": "Stephen King",
+      "url": "https://open.spotify.com/track/54Lt2Ge2OBZoFInMDJmU92"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Estrela",
         "url": "https://open.spotify.com/album/7rqbuDl2LJx0ebJUWDKjsJ"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 244000,
       "name": "Coisa de Acender",
       "url": "https://open.spotify.com/track/6uwu2ccApOhVVCSSIRl3rq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stephen King",
-        "url": "https://open.spotify.com/album/2SixEfADecvtERCCUXwQej"
-      },
-      "artists": [
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        }
-      ],
-      "duration_ms": 164571,
-      "name": "Stephen King",
-      "url": "https://open.spotify.com/track/54Lt2Ge2OBZoFInMDJmU92"
     },
     {
       "added_at": null,
@@ -971,34 +971,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "M\u00fasicas Para Marolar",
-        "url": "https://open.spotify.com/album/3arnEefvVL9ReTcoHiNOFp"
-      },
-      "artists": [
-        {
-          "name": "KING Saints",
-          "url": "https://open.spotify.com/artist/6EErJIzXBBSWY7MkH3OaYY"
-        },
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "Papatinho",
-          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
-        },
-        {
-          "name": "Los Brasileros",
-          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
-        }
-      ],
-      "duration_ms": 171008,
-      "name": "Gostoso esse Pretinho",
-      "url": "https://open.spotify.com/track/3VQ4Dszt8yygoYp0n0OlBt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trono de Vidro",
         "url": "https://open.spotify.com/album/5478asny0EoVp8jWQ0DAX7"
       },
@@ -1027,26 +999,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fed Tracks #14: Recado",
-        "url": "https://open.spotify.com/album/2bdqJbDmCUaTVyN1AaUCDJ"
+        "name": "M\u00fasicas Para Marolar",
+        "url": "https://open.spotify.com/album/3arnEefvVL9ReTcoHiNOFp"
       },
       "artists": [
+        {
+          "name": "KING Saints",
+          "url": "https://open.spotify.com/artist/6EErJIzXBBSWY7MkH3OaYY"
+        },
         {
           "name": "N.I.N.A",
           "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
         },
         {
-          "name": "808 Luke",
-          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
+          "name": "Papatinho",
+          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
         },
         {
-          "name": "Baratapai",
-          "url": "https://open.spotify.com/artist/7nahK9VX0AFY1KZmT04lGY"
+          "name": "Los Brasileros",
+          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
         }
       ],
-      "duration_ms": 161095,
-      "name": "Fed Tracks #14: Recado",
-      "url": "https://open.spotify.com/track/1AzsKMkoDCBhbOw5OU1Ii1"
+      "duration_ms": 171008,
+      "name": "Gostoso esse Pretinho",
+      "url": "https://open.spotify.com/track/3VQ4Dszt8yygoYp0n0OlBt"
     },
     {
       "added_at": null,
@@ -1071,6 +1047,30 @@
       "duration_ms": 150711,
       "name": "Quem que t\u00e1 vindo no porte?",
       "url": "https://open.spotify.com/track/2vkkLaM2uBX8d5Gs1IBjsa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fed Tracks #14: Recado",
+        "url": "https://open.spotify.com/album/2bdqJbDmCUaTVyN1AaUCDJ"
+      },
+      "artists": [
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "808 Luke",
+          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
+        },
+        {
+          "name": "Baratapai",
+          "url": "https://open.spotify.com/artist/7nahK9VX0AFY1KZmT04lGY"
+        }
+      ],
+      "duration_ms": 161095,
+      "name": "Fed Tracks #14: Recado",
+      "url": "https://open.spotify.com/track/1AzsKMkoDCBhbOw5OU1Ii1"
     },
     {
       "added_at": null,

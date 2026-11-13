@@ -4,7 +4,7 @@
 
 > Get ready for a full\-body workout
 
-158 songs - 7 hr 58 min
+159 songs - 8 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Gangland](https://open.spotify.com/track/1AGeDbAlIcoJN01bLkFN82) | [Mankirt Aulakh](https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr) | [Mankirt Aulakh \- Best Hits](https://open.spotify.com/album/5Cjo7LqqidLgnitIbm9G3L) | 2:48 | 2025-05-15 | 2025-07-22 |
 | [Garariyaan](https://open.spotify.com/track/4EjQpfmX0f5xOLWiNUT2Ss) | [Jot Brar](https://open.spotify.com/artist/4wfH46OWSushhawHvpG6ys) | [Garariyaan](https://open.spotify.com/album/7vOzKww4nnj3DNRtwN3cla) | 2:55 | 2025-04-25 | 2025-06-21 |
 | [Gulabi Pagg](https://open.spotify.com/track/35CTzZi7rJLBHvfVZZBrVr) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Roar](https://open.spotify.com/album/1pcsPt7079EJi5u9OzHYqa) | 2:50 | 2023-06-22 | 2025-01-09 |
+| [GUTS](https://open.spotify.com/track/0pzEwf8MDTTtRlwoof5VZR) | [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [GUTS](https://open.spotify.com/album/291yQlLpduGIxeC7RJvh8f) | 2:48 | 2026-11-12 |  |
 | [Haaye Oye \(feat\. Ash King\)](https://open.spotify.com/track/0oukMLKedsqQ3ltnI2daRO) | [QARAN](https://open.spotify.com/artist/0KDEADL3DeTLtENG3DliCd), [Ash King](https://open.spotify.com/artist/1cfG7UM0OD4O1II1nd15Qo) | [Haaye Oye \(feat\. Ash King\)](https://open.spotify.com/album/5vQyWyFVzojsUsBGSzmZSe) | 3:20 | 2025-01-08 | 2025-02-12 |
 | [Hadd Todta \- From "Majhail"](https://open.spotify.com/track/4Ra4w2di4Pw2Wd3iUID7EK) | [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3), [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj) | [Hadd Todta \(From "Majhail"\)](https://open.spotify.com/album/76TqXlblGWmMvVNLJtNw0I) | 2:37 | 2025-01-17 | 2025-05-16 |
 | [Halla Gulla](https://open.spotify.com/track/6VDZQV2ZhRSwtapy6860Rv) | [Harf Cheema](https://open.spotify.com/artist/5LCotODBhURh2HRrDINp3A), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Gaiphy](https://open.spotify.com/artist/0skC3fyzwvZzjtrJ4iUP7B) | [Halla Gulla](https://open.spotify.com/album/4kN2YAdAUuDcPHxmNOd3oQ) | 2:47 | 2025-01-30 |  |
@@ -142,7 +143,7 @@
 | [Softly](https://open.spotify.com/track/0YQJoDL6f46J0n1rOVkpxJ) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Making Memories](https://open.spotify.com/album/3BGU0BqGwBkYDHpfCWFm7I) | 2:35 | 2025-01-08 |  |
 | [Sohna Munda](https://open.spotify.com/track/6aVPnC26Jr2MwzlSNd7lQv) | [Bukka Jatt](https://open.spotify.com/artist/4EKIG5bG1BlL7NHvzDw4XV), [Vicky Dhaliwal](https://open.spotify.com/artist/5Gf8EL6dRLNm7EJNnLQ4vf), [Master Mind](https://open.spotify.com/artist/2YeNjkqQUEPNtoEryZYbdz) | [Sohna Munda](https://open.spotify.com/album/79DQmQ2NHrvhOuE5WYKh7R) | 2:14 | 2024-11-04 | 2025-01-09 |
 | [Sohniye](https://open.spotify.com/track/4rL0ikdBsPgGF4QkOkX9YC) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Sohniye](https://open.spotify.com/album/0SQKVfRe9nUS9ULfGQ0fOo) | 2:34 | 2026-07-10 |  |
-| [Stubborn](https://open.spotify.com/track/0UXQN4UL4LW1IeMczufzsF) | [Nirvair Pannu](https://open.spotify.com/artist/4vIsAZx8AolYa6paJphDGY), [Pagga](https://open.spotify.com/artist/4tGqWmZl3fRvb0QMCb0yxg), [DesiFrenzy](https://open.spotify.com/artist/7gfgcUaGKOoCfKt1Yoi92E) | [ROMEO](https://open.spotify.com/album/3BdbcwuZ24zF60YcQrL3NV) | 2:17 | 2025-11-17 |  |
+| [Stubborn](https://open.spotify.com/track/0UXQN4UL4LW1IeMczufzsF) | [Nirvair Pannu](https://open.spotify.com/artist/4vIsAZx8AolYa6paJphDGY), [Pagga](https://open.spotify.com/artist/4tGqWmZl3fRvb0QMCb0yxg), [DesiFrenzy](https://open.spotify.com/artist/7gfgcUaGKOoCfKt1Yoi92E) | [ROMEO](https://open.spotify.com/album/3BdbcwuZ24zF60YcQrL3NV) | 2:17 | 2025-11-17 | 2026-11-13 |
 | [Summer High](https://open.spotify.com/track/1aL9518P5G72N92b48tuKw) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB) | [Summer High](https://open.spotify.com/album/7sni37uwHitUkllYmcRO8W) | 2:57 | 2025-01-08 | 2025-02-08 |
 | [Sun Bae](https://open.spotify.com/track/1jahde3ydmkbYI8meSepXs) | [Harkirat Sangha](https://open.spotify.com/artist/1fhomnuqkIYFeXNoJB5DjT) | [Sun Bae](https://open.spotify.com/album/4WXsuNALXzHqp6bzqqxWvj) | 2:16 | 2026-08-17 |  |
 | [Take It Easy](https://open.spotify.com/track/5si4xdFplkXAydKfFe1xXa) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Four You](https://open.spotify.com/album/5IVcvfVOLEPMJ4PKqPaq2w) | 3:30 | 2023-06-22 | 2026-02-16 |

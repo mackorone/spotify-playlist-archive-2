@@ -4,7 +4,7 @@
 
 > Gentle ambient for a calm baby during bath time, playtime or baby massage.
 
-453 songs - 21 hr 19 min
+454 songs - 21 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,6 +184,7 @@
 | [Himmel](https://open.spotify.com/track/27baICs60YE6REfpKvtmDV) | [Leo Baumgart](https://open.spotify.com/artist/0qFeRGzewB33eItfoNqrvd) | [Himmel](https://open.spotify.com/album/6lSg3KYWMk1wgl6lpEhda8) | 3:05 | 2023-06-29 | 2025-02-14 |
 | [Hir](https://open.spotify.com/track/1j5jXzbjr34PbSmXEPFEnL) | [Lee Azalea](https://open.spotify.com/artist/5nQNc4ExpTTrS00gqk1J2y) | [Hir](https://open.spotify.com/album/4NfnyvYhG8epCPJw7eY4s2) | 2:49 | 2023-09-08 | 2025-10-02 |
 | [Holding Light](https://open.spotify.com/track/2kISqKr7qyisH1fv4vfUO4) | [Spacetactular](https://open.spotify.com/artist/7FQhluCKlC5UBRvkodPl8m) | [Holding Light](https://open.spotify.com/album/2fXfDfwQlGMequMl7Cz35D) | 2:19 | 2025-11-27 |  |
+| [Holding the Sky](https://open.spotify.com/track/0uohvIxWZX0tS0TIZ76rHE) | [Civian](https://open.spotify.com/artist/4yaZWyVYNm5cP3GnG3tj1p) | [Holding the Sky](https://open.spotify.com/album/1CMVlmUN82Yw2hiQBZmv7Z) | 2:40 | 2026-11-13 |  |
 | [Home](https://open.spotify.com/track/5Jiloy8XMxkyDDPKgoWZaA) | [Joseph Sai](https://open.spotify.com/artist/7tVx3YEKyoSaM7CcmlneBc) | [Home](https://open.spotify.com/album/6QtrBoEHcf9me8ki9gUM4u) | 2:39 | 2025-06-12 | 2026-02-17 |
 | [Hopeful](https://open.spotify.com/track/3FOajHFfKG99RrWco1kuCu) | [Soliaga](https://open.spotify.com/artist/7LIerH0gT1AvTtmxx7xQp8) | [A New Day Rising](https://open.spotify.com/album/3YHlkNADUbpe7ccGzpJKNf) | 2:37 | 2023-04-18 | 2023-11-25 |
 | [Horizon Echoes](https://open.spotify.com/track/6mVR4skJMDCu3bnvQdwPEK) | [neon cosmo](https://open.spotify.com/artist/5JJlwfHP7R3sSWfrDn4FOV) | [Horizon Echoes](https://open.spotify.com/album/5uUZXj5WBAb9xoS8Nj0rdR) | 3:04 | 2025-02-13 |  |

@@ -4,26 +4,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIIeDESz1ZP.md) - [plain]
 
 > Slow down and enjoy\. Music videos only available on Premium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 248 likes - 34 songs - 1 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 253 likes - 34 songs - 1 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [CATIRA](https://open.spotify.com/track/661rXAsu9bIXLjQd1Xl2HA) | [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1) | [CATIRA](https://open.spotify.com/album/7jF5rAgT0vLc6P9iXlI6K2) | 3:05 |
 | 2 | [For Eva](https://open.spotify.com/track/69jTHsPXAij557lc73zcp2) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Para Cuando Sean Mayores](https://open.spotify.com/album/4ObpOQskrI1sAUEysNy4FG) | 2:39 |
-| 3 | [Me Lo Merezco \(Live From Los Ángeles\)](https://open.spotify.com/track/4IEmRObLMwgK7oFpSgaRS5) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Me Lo Merezco \(Live From Los Ángeles\)](https://open.spotify.com/album/2qnCxHMQku9nCrOQZyuwb0) | 3:16 |
-| 4 | [SUPERESTRELLA](https://open.spotify.com/track/6hpuesKPNa3WhV48O7Fa47) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [CUARTO AZUL](https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M) | 3:03 |
-| 5 | [uno+1](https://open.spotify.com/track/0jzIZfvE0dayZflAL7MJ2U) | [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p) | [uno+1](https://open.spotify.com/album/7ssfNloiP6fxfovaiBODyZ) | 2:56 |
-| 6 | [LLEVA AL SOL \(Live\) \- Spotify Live Room](https://open.spotify.com/track/3ukh2uh6yuHuyrYhiq0No8) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Rels B \- Spotify Live Room](https://open.spotify.com/album/42xIr4vHShxAWnsIFmmG0N) | 2:37 |
-| 7 | [Las Cosas Cambian](https://open.spotify.com/track/6r6AWwdHOzaIpHqkPM9RTD) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [Las Cosas Cambian](https://open.spotify.com/album/1DPpZho3cBWwF6Z5kC2Mue) | 2:36 |
-| 8 | [LEJOS](https://open.spotify.com/track/4gssyYgB9EegQ8Klp46Bvs) | [FABIAN](https://open.spotify.com/artist/5OHLIL5eTIYJ4WXNvKkeyG) | [LEJOS](https://open.spotify.com/album/434f2GTmix3G9KBL469TUV) | 3:15 |
-| 9 | [No es tu estilo](https://open.spotify.com/track/5RikicLu1IWphJ0y6BadSE) | [LOCKWARD](https://open.spotify.com/artist/52IDIMrGNbCUkHrpkf0F8y), [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [No es tu estilo](https://open.spotify.com/album/6n2DgWN6TftYJKGNcBPW1G) | 2:22 |
-| 10 | [De Cero](https://open.spotify.com/track/4VPaf34uvnDpfsYsNJU5FP) | [Martox](https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r) | [De Cero](https://open.spotify.com/album/33X8MSFhcmZfQyvL9YhMkK) | 2:50 |
-| 11 | [Ola <3](https://open.spotify.com/track/3dz8m6YV4kyQGsMpZOZwJF) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Enayy](https://open.spotify.com/artist/6NxJgAQlIO7Tgs0AKGkMXZ) | [Ola <3](https://open.spotify.com/album/5QaOre1ZyTW0MrocZByawc) | 2:28 |
-| 12 | [INTERÉS HACIA TI](https://open.spotify.com/track/2NVrPOo4REC8eO77OJuIhb) | [FAMA](https://open.spotify.com/artist/0vYXDaGn2E1NcgYQ1PVN7X) | [INTERÉS HACIA TI](https://open.spotify.com/album/3zBzy1qhmnXOz8astqS3ri) | 2:29 |
-| 13 | [TOTOTO \(+4\)](https://open.spotify.com/track/6M10I5lksIvZG7a87D5Qhm) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [TOTOTO \(+4\)](https://open.spotify.com/album/7cfnnziRacYRtzV9CmJvab) | 2:18 |
-| 14 | [Beso a Beso](https://open.spotify.com/track/1hih4xsBd6rHYETs8wI79C) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX) | [Beso a Beso](https://open.spotify.com/album/3ltYEasCkX4XZJxBScFNln) | 2:17 |
-| 15 | [BRUJA](https://open.spotify.com/track/1zkDITnmXQ5VRMcRQE9cR8) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [BRUJA](https://open.spotify.com/album/4eArbt7UHM2HaBuFvcSYZn) | 2:56 |
-| 16 | [No Tengo Remedio](https://open.spotify.com/track/2R6VN8srZYSecU20Un9Nni) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [No Tengo Remedio](https://open.spotify.com/album/0DM3TZ2kLXKPCpfAgMk49F) | 3:09 |
+| 3 | [No Tengo Remedio \- En Vivo en Casa Spotify](https://open.spotify.com/track/48OBvoamhz47ZmLX5nkIeE) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [No Tengo Remedio \(En Vivo en Casa Spotify\)](https://open.spotify.com/album/07weXrV0TrCeHGHgRPN3iE) | 3:27 |
+| 4 | [Me Lo Merezco \(Live From Los Ángeles\)](https://open.spotify.com/track/4IEmRObLMwgK7oFpSgaRS5) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Me Lo Merezco \(Live From Los Ángeles\)](https://open.spotify.com/album/2qnCxHMQku9nCrOQZyuwb0) | 3:16 |
+| 5 | [SUPERESTRELLA](https://open.spotify.com/track/6hpuesKPNa3WhV48O7Fa47) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [CUARTO AZUL](https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M) | 3:03 |
+| 6 | [uno+1](https://open.spotify.com/track/0jzIZfvE0dayZflAL7MJ2U) | [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p) | [uno+1](https://open.spotify.com/album/7ssfNloiP6fxfovaiBODyZ) | 2:56 |
+| 7 | [LLEVA AL SOL \(Live\) \- Spotify Live Room](https://open.spotify.com/track/3ukh2uh6yuHuyrYhiq0No8) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Rels B \- Spotify Live Room](https://open.spotify.com/album/42xIr4vHShxAWnsIFmmG0N) | 2:37 |
+| 8 | [Las Cosas Cambian](https://open.spotify.com/track/6r6AWwdHOzaIpHqkPM9RTD) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [Las Cosas Cambian](https://open.spotify.com/album/1DPpZho3cBWwF6Z5kC2Mue) | 2:36 |
+| 9 | [LEJOS](https://open.spotify.com/track/4gssyYgB9EegQ8Klp46Bvs) | [FABIAN](https://open.spotify.com/artist/5OHLIL5eTIYJ4WXNvKkeyG) | [LEJOS](https://open.spotify.com/album/434f2GTmix3G9KBL469TUV) | 3:15 |
+| 10 | [No es tu estilo](https://open.spotify.com/track/5RikicLu1IWphJ0y6BadSE) | [LOCKWARD](https://open.spotify.com/artist/52IDIMrGNbCUkHrpkf0F8y), [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [No es tu estilo](https://open.spotify.com/album/6n2DgWN6TftYJKGNcBPW1G) | 2:22 |
+| 11 | [De Cero](https://open.spotify.com/track/4VPaf34uvnDpfsYsNJU5FP) | [Martox](https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r) | [De Cero](https://open.spotify.com/album/33X8MSFhcmZfQyvL9YhMkK) | 2:50 |
+| 12 | [Ola <3](https://open.spotify.com/track/3dz8m6YV4kyQGsMpZOZwJF) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Enayy](https://open.spotify.com/artist/6NxJgAQlIO7Tgs0AKGkMXZ) | [Ola <3](https://open.spotify.com/album/5QaOre1ZyTW0MrocZByawc) | 2:28 |
+| 13 | [INTERÉS HACIA TI](https://open.spotify.com/track/2NVrPOo4REC8eO77OJuIhb) | [FAMA](https://open.spotify.com/artist/0vYXDaGn2E1NcgYQ1PVN7X) | [INTERÉS HACIA TI](https://open.spotify.com/album/3zBzy1qhmnXOz8astqS3ri) | 2:29 |
+| 14 | [TOTOTO \(+4\)](https://open.spotify.com/track/6M10I5lksIvZG7a87D5Qhm) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [TOTOTO \(+4\)](https://open.spotify.com/album/7cfnnziRacYRtzV9CmJvab) | 2:18 |
+| 15 | [Beso a Beso](https://open.spotify.com/track/1hih4xsBd6rHYETs8wI79C) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX) | [Beso a Beso](https://open.spotify.com/album/3ltYEasCkX4XZJxBScFNln) | 2:17 |
+| 16 | [BRUJA](https://open.spotify.com/track/1zkDITnmXQ5VRMcRQE9cR8) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [BRUJA](https://open.spotify.com/album/4eArbt7UHM2HaBuFvcSYZn) | 2:56 |
 | 17 | [La Semana](https://open.spotify.com/track/4NMoJRudco3Fc2EO5DCtGe) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [La Semana](https://open.spotify.com/album/2vdBYs1jB7bAUC495Q1ZdO) | 3:30 |
 | 18 | [Las Cosas Que Solo Se Hacen En La Noche \(feat\. Nile Rodgers\)](https://open.spotify.com/track/525T9rlpX3m3LHEtyVuIFN) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Las Cosas Que Solo Se Hacen En La Noche \(feat\. Nile Rodgers\)](https://open.spotify.com/album/1ZDGbhCdCMCXAv3lYONIui) | 2:19 |
 | 19 | [Vida Loca](https://open.spotify.com/track/5dNky6SuEfNBan5perlSGl) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX) | [FREE SPIRITS](https://open.spotify.com/album/2lbCB2zwGvqqn7IkRQGaEo) | 2:35 |
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIIeDESz1ZP.md) - [plain]
 | 33 | [penso en voce](https://open.spotify.com/track/6MRzvONHsxqcDMlFImvPow) | [Sparklmami](https://open.spotify.com/artist/50NGgQQCV0QLrOefzyuNh0) | [in this body](https://open.spotify.com/album/6haYphkZdT3j3DvhWcAemW) | 2:36 |
 | 34 | [A La Niña Que Fui](https://open.spotify.com/track/1QOIgb4mC4s5nYc6cWNWI0) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [PUERTA ABIERTA](https://open.spotify.com/album/6WxZB5gxWmzRvKVzG2Pu9P) | 3:05 |
 
-Snapshot ID: `AAAAAGl1J+cTlUNwe0k1aWQJI2Sh5y4Q`
+Snapshot ID: `AAAAAKFt5GJaSkM33KLDCBgn95Dn7Wh3`

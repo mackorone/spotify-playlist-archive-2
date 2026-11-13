@@ -1,12 +1,12 @@
 {
   "description": "This is Mar de Copas. The essential tracks, all in one playlist.",
-  "num_followers": 8729,
+  "num_followers": 8728,
   "original_name": "This Is Mar de Copas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avENAAAAAAApjTzpp8S+F5H6CV6Imq62",
+  "snapshot_id": "avOwAAAAAADR2+FNLmFWDkk4CtePDV6T",
   "tracks": [
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Si algo as\u00ed como el amor est\u00e1 en el aire",
-        "url": "https://open.spotify.com/album/4Z2EOWKODHlBbLnvewyQwW"
-      },
-      "artists": [
-        {
-          "name": "Mar de Copas",
-          "url": "https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur"
-        }
-      ],
-      "duration_ms": 306986,
-      "name": "Vuelve Conmigo",
-      "url": "https://open.spotify.com/track/0JTBnDXkc9XFWPuMTYf3v2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En Vivo",
         "url": "https://open.spotify.com/album/4Hqwb17imLElcwhbbjQJX4"
       },
@@ -475,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "III",
-        "url": "https://open.spotify.com/album/4rBvKNO0rcUjv8ItVyA4dG"
+        "name": "Si algo as\u00ed como el amor est\u00e1 en el aire",
+        "url": "https://open.spotify.com/album/4Z2EOWKODHlBbLnvewyQwW"
       },
       "artists": [
         {
@@ -484,9 +468,25 @@
           "url": "https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur"
         }
       ],
-      "duration_ms": 225626,
-      "name": "Otra Canci\u00f3n",
-      "url": "https://open.spotify.com/track/6o5EDbCCf94rIvBoKXw4dR"
+      "duration_ms": 306986,
+      "name": "Vuelve Conmigo",
+      "url": "https://open.spotify.com/track/0JTBnDXkc9XFWPuMTYf3v2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lado B",
+        "url": "https://open.spotify.com/album/6lAwgVT7xFEeZazlF95q2t"
+      },
+      "artists": [
+        {
+          "name": "Mar de Copas",
+          "url": "https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur"
+        }
+      ],
+      "duration_ms": 193093,
+      "name": "Lisa en el Espejo",
+      "url": "https://open.spotify.com/track/0fp20PQabJAHeXBu8UkniG"
     },
     {
       "added_at": null,
@@ -507,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lado B",
-        "url": "https://open.spotify.com/album/6lAwgVT7xFEeZazlF95q2t"
+        "name": "III",
+        "url": "https://open.spotify.com/album/4rBvKNO0rcUjv8ItVyA4dG"
       },
       "artists": [
         {
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur"
         }
       ],
-      "duration_ms": 193093,
-      "name": "Lisa en el Espejo",
-      "url": "https://open.spotify.com/track/0fp20PQabJAHeXBu8UkniG"
+      "duration_ms": 225626,
+      "name": "Otra Canci\u00f3n",
+      "url": "https://open.spotify.com/track/6o5EDbCCf94rIvBoKXw4dR"
     },
     {
       "added_at": null,
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur"
         }
       ],
-      "duration_ms": 273120,
-      "name": "El Rumbo del Mar",
-      "url": "https://open.spotify.com/track/3DJ3U63ZMcyDto3nT4yLTO"
+      "duration_ms": 347733,
+      "name": "Lo Que Tu Gesto Da",
+      "url": "https://open.spotify.com/track/5AgU65tzExyFTeO4hJ9knw"
     },
     {
       "added_at": null,
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur"
         }
       ],
-      "duration_ms": 347733,
-      "name": "Lo Que Tu Gesto Da",
-      "url": "https://open.spotify.com/track/5AgU65tzExyFTeO4hJ9knw"
+      "duration_ms": 273120,
+      "name": "El Rumbo del Mar",
+      "url": "https://open.spotify.com/track/3DJ3U63ZMcyDto3nT4yLTO"
     },
     {
       "added_at": null,
@@ -715,8 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mar de Copas",
-        "url": "https://open.spotify.com/album/08mPDAxP3cAeqUga7266QQ"
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/4Hqwb17imLElcwhbbjQJX4"
       },
       "artists": [
         {
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur"
         }
       ],
-      "duration_ms": 255013,
-      "name": "Canci\u00f3n",
-      "url": "https://open.spotify.com/track/17Te5QkNgs4KdHPlNcqGcB"
+      "duration_ms": 163173,
+      "name": "A Dios",
+      "url": "https://open.spotify.com/track/7tcimL9ijjO5XFoH74eskd"
     },
     {
       "added_at": null,
@@ -747,8 +747,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/4Hqwb17imLElcwhbbjQJX4"
+        "name": "Mar de Copas",
+        "url": "https://open.spotify.com/album/08mPDAxP3cAeqUga7266QQ"
       },
       "artists": [
         {
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur"
         }
       ],
-      "duration_ms": 163173,
-      "name": "A Dios",
-      "url": "https://open.spotify.com/track/7tcimL9ijjO5XFoH74eskd"
+      "duration_ms": 255013,
+      "name": "Canci\u00f3n",
+      "url": "https://open.spotify.com/track/17Te5QkNgs4KdHPlNcqGcB"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Kirk Franklin. The essential tracks, all in one playlist.",
-  "num_followers": 39950,
+  "num_followers": 39954,
   "original_name": "This Is Kirk Franklin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avENAAAAAACOZQsiZEcX/twNd7duWMuE",
+  "snapshot_id": "avOwAAAAAADyxnooZgbbUb1pFEfafLUe",
   "tracks": [
     {
       "added_at": null,
@@ -83,38 +83,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Nu Nation Project",
-        "url": "https://open.spotify.com/album/2AipEP8KHGkhpQkhqBYTfH"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 368440,
-      "name": "Something About the Name Jesus",
-      "url": "https://open.spotify.com/track/0bGyh9iwb37ElctPNsxdwX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Rebirth Of Kirk Franklin (Live)",
-        "url": "https://open.spotify.com/album/1OSCxbStNDOwBaZIXcivce"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 340133,
-      "name": "Brighter Day - Live at Lakewood Church, Houston, TX - June 16, 2000",
-      "url": "https://open.spotify.com/track/5qFDlKHNb0v68YSghSY4GK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Burn The Ships (Deluxe Edition: Remixes & Collaborations)",
         "url": "https://open.spotify.com/album/5bZuiwMXhNgCTPXgKh3nOb"
       },
@@ -135,6 +103,38 @@
       "duration_ms": 206103,
       "name": "TOGETHER",
       "url": "https://open.spotify.com/track/1D9qrTl2rVrS2XP9RDLLs0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Rebirth Of Kirk Franklin (Live)",
+        "url": "https://open.spotify.com/album/1OSCxbStNDOwBaZIXcivce"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 340133,
+      "name": "Brighter Day - Live at Lakewood Church, Houston, TX - June 16, 2000",
+      "url": "https://open.spotify.com/track/5qFDlKHNb0v68YSghSY4GK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Nu Nation Project",
+        "url": "https://open.spotify.com/album/2AipEP8KHGkhpQkhqBYTfH"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 368440,
+      "name": "Something About the Name Jesus",
+      "url": "https://open.spotify.com/track/0bGyh9iwb37ElctPNsxdwX"
     },
     {
       "added_at": null,
@@ -175,26 +175,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thank You For Everything (Live)",
-        "url": "https://open.spotify.com/album/7dT0K5S2DMfgwU0Rm81Zka"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        },
-        {
-          "name": "Karen Clark Sheard",
-          "url": "https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1"
-        }
-      ],
-      "duration_ms": 396666,
-      "name": "Thank You For Everything (with Karen Clark-Sheard) - Live",
-      "url": "https://open.spotify.com/track/68fFSCTE1b7AmubG9XNmVZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Out Of The Dark",
         "url": "https://open.spotify.com/album/0HXOO7P7QQHPzUHDbSGKMF"
       },
@@ -215,6 +195,26 @@
       "duration_ms": 244360,
       "name": "Bleed The Same",
       "url": "https://open.spotify.com/track/5c1gWcamTmYP1t3UwN6caS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Thank You For Everything (Live)",
+        "url": "https://open.spotify.com/album/7dT0K5S2DMfgwU0Rm81Zka"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Karen Clark Sheard",
+          "url": "https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1"
+        }
+      ],
+      "duration_ms": 396666,
+      "name": "Thank You For Everything (with Karen Clark-Sheard) - Live",
+      "url": "https://open.spotify.com/track/68fFSCTE1b7AmubG9XNmVZ"
     },
     {
       "added_at": null,
@@ -343,6 +343,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I Am What I Am",
+        "url": "https://open.spotify.com/album/1x31MHy6JN73zg7jmtOjdc"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 395866,
+      "name": "Someday - Live",
+      "url": "https://open.spotify.com/track/1bu2x61uy2IGZV6GLIcugt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Kirk Franklin and the Family",
         "url": "https://open.spotify.com/album/4b1c7FWhyhIZ6OYINCx107"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 305666,
       "name": "Stomp (Remix)",
       "url": "https://open.spotify.com/track/5JggmPy0YhCLaA6Vt4cmMo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Am What I Am",
-        "url": "https://open.spotify.com/album/1x31MHy6JN73zg7jmtOjdc"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 395866,
-      "name": "Someday - Live",
-      "url": "https://open.spotify.com/track/1bu2x61uy2IGZV6GLIcugt"
     },
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "God's Property from Kirk Franklin's Nu Nation",
-        "url": "https://open.spotify.com/album/2MCmQvsAE0S5UYI413OC1E"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 346866,
-      "name": "The Storm Is Over Now",
-      "url": "https://open.spotify.com/track/6blSODzePwJZwG8VS3i5nt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Am What I Am",
         "url": "https://open.spotify.com/album/1x31MHy6JN73zg7jmtOjdc"
       },
@@ -559,6 +543,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "God's Property from Kirk Franklin's Nu Nation",
+        "url": "https://open.spotify.com/album/2MCmQvsAE0S5UYI413OC1E"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 346866,
+      "name": "The Storm Is Over Now",
+      "url": "https://open.spotify.com/track/6blSODzePwJZwG8VS3i5nt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Kirk Franklin and the Family",
         "url": "https://open.spotify.com/album/4b1c7FWhyhIZ6OYINCx107"
       },
@@ -571,22 +571,6 @@
       "duration_ms": 292040,
       "name": "Silver and Gold - Live",
       "url": "https://open.spotify.com/track/49BWLtQKtyz1kYhe148mWj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Rebirth Of Kirk Franklin (Live)",
-        "url": "https://open.spotify.com/album/1OSCxbStNDOwBaZIXcivce"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 382573,
-      "name": "My Life, My Love, My All - Live at Lakewood Church, Houston, TX - June 16, 2000",
-      "url": "https://open.spotify.com/track/40cMyQLw09ehBKgfvVxjie"
     },
     {
       "added_at": null,
@@ -616,9 +600,25 @@
           "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
         }
       ],
-      "duration_ms": 391966,
-      "name": "It Is Well - Live",
-      "url": "https://open.spotify.com/track/2bdLGhj4lnh0k0s55sYUlP"
+      "duration_ms": 286800,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/22qMvl1vaniwIDA8TDpA7W"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Rebirth Of Kirk Franklin (Live)",
+        "url": "https://open.spotify.com/album/1OSCxbStNDOwBaZIXcivce"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 382573,
+      "name": "My Life, My Love, My All - Live at Lakewood Church, Houston, TX - June 16, 2000",
+      "url": "https://open.spotify.com/track/40cMyQLw09ehBKgfvVxjie"
     },
     {
       "added_at": null,
@@ -655,6 +655,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I Am What I Am",
+        "url": "https://open.spotify.com/album/1x31MHy6JN73zg7jmtOjdc"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 391966,
+      "name": "It Is Well - Live",
+      "url": "https://open.spotify.com/track/2bdLGhj4lnh0k0s55sYUlP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "All Things",
         "url": "https://open.spotify.com/album/30hJTxaNjKsXkvyhSs8rL9"
       },
@@ -667,98 +683,6 @@
       "duration_ms": 189799,
       "name": "All Things",
       "url": "https://open.spotify.com/track/3TF6zST4pvaoaUwekLUZEx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Am What I Am",
-        "url": "https://open.spotify.com/album/1x31MHy6JN73zg7jmtOjdc"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 286800,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/22qMvl1vaniwIDA8TDpA7W"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Losing My Religion",
-        "url": "https://open.spotify.com/album/5jmz4EGoRRbBvzaLRNAPEA"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 237963,
-      "name": "123 Victory",
-      "url": "https://open.spotify.com/track/0hDTfFE4QECNZAuVTkcGLH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Portable Sounds (With Bonus Remixes)",
-        "url": "https://open.spotify.com/album/2MZDLzslNM6iXbzcUS13zl"
-      },
-      "artists": [
-        {
-          "name": "TobyMac",
-          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
-        },
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        },
-        {
-          "name": "Mandisa",
-          "url": "https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3"
-        }
-      ],
-      "duration_ms": 375973,
-      "name": "Lose My Soul - Afterparty Interlude",
-      "url": "https://open.spotify.com/track/2DNJ7NAr5IN9BPrKyKx7Gb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hiding Place",
-        "url": "https://open.spotify.com/album/5A5ePoPwlIuxVmn3cIhiFw"
-      },
-      "artists": [
-        {
-          "name": "Tori Kelly",
-          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
-        },
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 214008,
-      "name": "Never Alone",
-      "url": "https://open.spotify.com/track/7vF5RIx2jHtt9Y0OElOZKK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Do It Again",
-        "url": "https://open.spotify.com/album/5HKgWSVnx2YEkQ9d6T6ZJs"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 229123,
-      "name": "Do It Again",
-      "url": "https://open.spotify.com/track/6ZYrfrxalPRcUdSieUCkdM"
     },
     {
       "added_at": null,
@@ -783,6 +707,66 @@
       "duration_ms": 202117,
       "name": "Melodies From Heaven (feat. Maryanne J. George, Chandler Moore)",
       "url": "https://open.spotify.com/track/1KSglHwhyo430sz8eJy7yh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Losing My Religion",
+        "url": "https://open.spotify.com/album/5jmz4EGoRRbBvzaLRNAPEA"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 237963,
+      "name": "123 Victory",
+      "url": "https://open.spotify.com/track/0hDTfFE4QECNZAuVTkcGLH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hiding Place",
+        "url": "https://open.spotify.com/album/5A5ePoPwlIuxVmn3cIhiFw"
+      },
+      "artists": [
+        {
+          "name": "Tori Kelly",
+          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 214008,
+      "name": "Never Alone",
+      "url": "https://open.spotify.com/track/7vF5RIx2jHtt9Y0OElOZKK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Portable Sounds (With Bonus Remixes)",
+        "url": "https://open.spotify.com/album/2MZDLzslNM6iXbzcUS13zl"
+      },
+      "artists": [
+        {
+          "name": "TobyMac",
+          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Mandisa",
+          "url": "https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3"
+        }
+      ],
+      "duration_ms": 375973,
+      "name": "Lose My Soul - Afterparty Interlude",
+      "url": "https://open.spotify.com/track/2DNJ7NAr5IN9BPrKyKx7Gb"
     },
     {
       "added_at": null,
@@ -923,6 +907,38 @@
       "duration_ms": 423106,
       "name": "My World Needs You (feat. Sarah Reeves, Tasha Cobbs & Tamela Mann)",
       "url": "https://open.spotify.com/track/0GRRDzyfiF5dQU1ZpC4Ftk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hello Fear",
+        "url": "https://open.spotify.com/album/6CkiHbEFRtD75ghxLBOn3N"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Rance Allen",
+          "url": "https://open.spotify.com/artist/6kSjbNXcS3bNyP3WSli67X"
+        },
+        {
+          "name": "Marvin Winans",
+          "url": "https://open.spotify.com/artist/2QuleHm5yBUYv3vjqWTM79"
+        },
+        {
+          "name": "John P. Kee",
+          "url": "https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl"
+        },
+        {
+          "name": "Isaac Carree",
+          "url": "https://open.spotify.com/artist/2bTfKyEM0bSDqmDcZybqzH"
+        }
+      ],
+      "duration_ms": 336773,
+      "name": "Something About The Name Jesus Pt. 2 (feat. Rance Allen, Marvin Winans, John P. Kee & Isaac Carree)",
+      "url": "https://open.spotify.com/track/3JELE0SCT2f9Wfg31OkhOG"
     }
   ],
   "unique_name": "This Is Kirk Franklin",

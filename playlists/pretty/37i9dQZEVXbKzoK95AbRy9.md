@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,500 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,519 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [SET BOCA 09 \(feat\. Mc Jvila, Mc Lele JP, Mc Leozin, Mc Bruninho da Praia & Dj Daltin no Beat\)](https://open.spotify.com/track/7By1xSEpnisnvOK6CvrEk1) | [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [MC Meno K](https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK), [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [DJ Glenner](https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK), [MC Jvila](https://open.spotify.com/artist/2f8xoxornfSw6ePzgyM9NO), [Mc Lele JP](https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY), [Mc Leozin](https://open.spotify.com/artist/6mKwmTMzDrye9elc8JWiw3), [Mc Bruninho da Praia](https://open.spotify.com/artist/7579yDSrhA6ZAArOo7m6UT), [Dj Daltin no Beat](https://open.spotify.com/artist/2lFKqFqItmkHQB8jKilc44) | [SET BOCA 09 \(feat\. Mc Jvila, Mc Lele JP, Mc Leozin, Mc Bruninho da Praia & Dj Daltin no Beat\)](https://open.spotify.com/album/2L2HIKhijLbqTOHNGLIw2b) | 7:11 |
 | 50 | [Mente Barulhenta](https://open.spotify.com/track/2364CtKIeJNVUnZZHKrzIr) | [Mc IG](https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN), [Mc Lele JP](https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY), [DJ Oreia](https://open.spotify.com/artist/1b8S7EPzdckRyIh0uSbOMI), [DJ Noiskita](https://open.spotify.com/artist/3TYTLGZJkc58xamupVrfFl) | [Quem Tá Vivo, Tá Vivendo](https://open.spotify.com/album/5bfMYcaucm6RfNqZZTFjo9) | 3:35 |
 
-Snapshot ID: `MogGqAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MolMcAAAAAAAAAAAAAAAAAAAAAAAAGVu`

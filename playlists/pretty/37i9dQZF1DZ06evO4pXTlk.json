@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avENAAAAAADyGI3d4XNBbDHT2RsdmO3K",
+  "snapshot_id": "avOwAAAAAAAldgbE2uqp3YAtW9AZrshC",
   "tracks": [
     {
       "added_at": null,
@@ -115,38 +115,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hold on to Your Heart",
-        "url": "https://open.spotify.com/album/0dUfvaLw6L22guWr1ldEr2"
-      },
-      "artists": [
-        {
-          "name": "The XCERTS",
-          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
-        }
-      ],
-      "duration_ms": 199528,
-      "name": "Hold on to Your Heart",
-      "url": "https://open.spotify.com/track/6AZ94VHiLMNmtJGuIaKVyU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "i think i want to go home now.",
-        "url": "https://open.spotify.com/album/11vZ8gOVgAq5Txx9Eo76hl"
-      },
-      "artists": [
-        {
-          "name": "The XCERTS",
-          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
-        }
-      ],
-      "duration_ms": 181040,
-      "name": "bury you",
-      "url": "https://open.spotify.com/track/75kozyljpuhllnRfboXMEp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Afterthoughts On Letting Go",
         "url": "https://open.spotify.com/album/5K3J7hIZ5aHfV4tUAnbv7b"
       },
@@ -167,8 +135,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "There Is Only You",
-        "url": "https://open.spotify.com/album/1PVASk4Wj9YoOlllQgDUoL"
+        "name": "i think i want to go home now.",
+        "url": "https://open.spotify.com/album/11vZ8gOVgAq5Txx9Eo76hl"
       },
       "artists": [
         {
@@ -176,9 +144,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 202550,
-      "name": "Kids On Drugs",
-      "url": "https://open.spotify.com/track/5JZKRfxtw70OBNY1dSrJlW"
+      "duration_ms": 181040,
+      "name": "bury you",
+      "url": "https://open.spotify.com/track/75kozyljpuhllnRfboXMEp"
     },
     {
       "added_at": null,
@@ -192,15 +160,15 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 214880,
-      "name": "We Are Gonna Live",
-      "url": "https://open.spotify.com/track/4xecVWlowXeLZXxGZ3eeBS"
+      "duration_ms": 199528,
+      "name": "Hold on to Your Heart",
+      "url": "https://open.spotify.com/track/6AZ94VHiLMNmtJGuIaKVyU"
     },
     {
       "added_at": null,
       "album": {
-        "name": "i think i want to go home now.",
-        "url": "https://open.spotify.com/album/11vZ8gOVgAq5Txx9Eo76hl"
+        "name": "There Is Only You",
+        "url": "https://open.spotify.com/album/1PVASk4Wj9YoOlllQgDUoL"
       },
       "artists": [
         {
@@ -208,9 +176,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 158346,
-      "name": "wow",
-      "url": "https://open.spotify.com/track/1QKUDfrfJ55HaVVUyJZ28Z"
+      "duration_ms": 202550,
+      "name": "Kids On Drugs",
+      "url": "https://open.spotify.com/track/5JZKRfxtw70OBNY1dSrJlW"
     },
     {
       "added_at": null,
@@ -231,8 +199,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "There Is Only You",
-        "url": "https://open.spotify.com/album/1PVASk4Wj9YoOlllQgDUoL"
+        "name": "i think i want to go home now.",
+        "url": "https://open.spotify.com/album/11vZ8gOVgAq5Txx9Eo76hl"
       },
       "artists": [
         {
@@ -240,9 +208,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 216578,
-      "name": "Live Like This",
-      "url": "https://open.spotify.com/track/4Vt9jIvA2OSFZ7V1UKYDyy"
+      "duration_ms": 158346,
+      "name": "wow",
+      "url": "https://open.spotify.com/track/1QKUDfrfJ55HaVVUyJZ28Z"
     },
     {
       "added_at": null,
@@ -256,15 +224,15 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 212026,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/4OUtEuCBZvKlaPKzBG7M4G"
+      "duration_ms": 214880,
+      "name": "We Are Gonna Live",
+      "url": "https://open.spotify.com/track/4xecVWlowXeLZXxGZ3eeBS"
     },
     {
       "added_at": null,
       "album": {
-        "name": "i think i want to go home now.",
-        "url": "https://open.spotify.com/album/11vZ8gOVgAq5Txx9Eo76hl"
+        "name": "There Is Only You",
+        "url": "https://open.spotify.com/album/1PVASk4Wj9YoOlllQgDUoL"
       },
       "artists": [
         {
@@ -272,9 +240,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 195760,
-      "name": "do it to myself",
-      "url": "https://open.spotify.com/track/05mZ4vAbzyGFAeiqGOJEKS"
+      "duration_ms": 216578,
+      "name": "Live Like This",
+      "url": "https://open.spotify.com/track/4Vt9jIvA2OSFZ7V1UKYDyy"
     },
     {
       "added_at": null,
@@ -295,8 +263,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "There Is Only You",
-        "url": "https://open.spotify.com/album/1PVASk4Wj9YoOlllQgDUoL"
+        "name": "i think i want to go home now.",
+        "url": "https://open.spotify.com/album/11vZ8gOVgAq5Txx9Eo76hl"
       },
       "artists": [
         {
@@ -304,9 +272,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 343212,
-      "name": "There Is Only You",
-      "url": "https://open.spotify.com/track/7aqRsbwlcDexjeRKdv6UGc"
+      "duration_ms": 195760,
+      "name": "do it to myself",
+      "url": "https://open.spotify.com/track/05mZ4vAbzyGFAeiqGOJEKS"
     },
     {
       "added_at": null,
@@ -327,8 +295,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "i think i want to go home now.",
-        "url": "https://open.spotify.com/album/11vZ8gOVgAq5Txx9Eo76hl"
+        "name": "There Is Only You",
+        "url": "https://open.spotify.com/album/1PVASk4Wj9YoOlllQgDUoL"
       },
       "artists": [
         {
@@ -336,9 +304,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 183386,
-      "name": "pretty ugly",
-      "url": "https://open.spotify.com/track/2DhfPBOUHdtu93QDCU29aq"
+      "duration_ms": 343212,
+      "name": "There Is Only You",
+      "url": "https://open.spotify.com/track/7aqRsbwlcDexjeRKdv6UGc"
     },
     {
       "added_at": null,
@@ -359,8 +327,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "There Is Only You",
-        "url": "https://open.spotify.com/album/1PVASk4Wj9YoOlllQgDUoL"
+        "name": "i think i want to go home now.",
+        "url": "https://open.spotify.com/album/11vZ8gOVgAq5Txx9Eo76hl"
       },
       "artists": [
         {
@@ -368,9 +336,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 184443,
-      "name": "Kick It",
-      "url": "https://open.spotify.com/track/6DudfdpqtGRCyUoTcMAmJb"
+      "duration_ms": 183386,
+      "name": "pretty ugly",
+      "url": "https://open.spotify.com/track/2DhfPBOUHdtu93QDCU29aq"
     },
     {
       "added_at": null,
@@ -384,15 +352,15 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 229640,
-      "name": "Drive Me Wild",
-      "url": "https://open.spotify.com/track/0vOuCoedkkXYOpU3QYkCBa"
+      "duration_ms": 212026,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/4OUtEuCBZvKlaPKzBG7M4G"
     },
     {
       "added_at": null,
       "album": {
-        "name": "i think i want to go home now.",
-        "url": "https://open.spotify.com/album/11vZ8gOVgAq5Txx9Eo76hl"
+        "name": "There Is Only You",
+        "url": "https://open.spotify.com/album/1PVASk4Wj9YoOlllQgDUoL"
       },
       "artists": [
         {
@@ -400,9 +368,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 168893,
-      "name": "losing it",
-      "url": "https://open.spotify.com/track/155fZiclWkb1BMRx3GlIwp"
+      "duration_ms": 184443,
+      "name": "Kick It",
+      "url": "https://open.spotify.com/track/6DudfdpqtGRCyUoTcMAmJb"
     },
     {
       "added_at": null,
@@ -423,6 +391,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "i think i want to go home now.",
+        "url": "https://open.spotify.com/album/11vZ8gOVgAq5Txx9Eo76hl"
+      },
+      "artists": [
+        {
+          "name": "The XCERTS",
+          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
+        }
+      ],
+      "duration_ms": 168893,
+      "name": "losing it",
+      "url": "https://open.spotify.com/track/155fZiclWkb1BMRx3GlIwp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hold on to Your Heart",
+        "url": "https://open.spotify.com/album/0dUfvaLw6L22guWr1ldEr2"
+      },
+      "artists": [
+        {
+          "name": "The XCERTS",
+          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
+        }
+      ],
+      "duration_ms": 229640,
+      "name": "Drive Me Wild",
+      "url": "https://open.spotify.com/track/0vOuCoedkkXYOpU3QYkCBa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "There Is Only You",
         "url": "https://open.spotify.com/album/1PVASk4Wj9YoOlllQgDUoL"
       },
@@ -435,6 +435,22 @@
       "duration_ms": 232078,
       "name": "I Don't Care",
       "url": "https://open.spotify.com/track/2Jt31docTzpsvfouRxEwoX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In the Cold Wind We Smile (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/7KpMyE6xSVdRVdkIxSng5N"
+      },
+      "artists": [
+        {
+          "name": "The XCERTS",
+          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
+        }
+      ],
+      "duration_ms": 212905,
+      "name": "Do You Feel Safe?",
+      "url": "https://open.spotify.com/track/71B1fNBwSnln85JuY4bTh3"
     },
     {
       "added_at": null,
@@ -475,54 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In the Cold Wind We Smile (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/7KpMyE6xSVdRVdkIxSng5N"
-      },
-      "artists": [
-        {
-          "name": "The XCERTS",
-          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
-        }
-      ],
-      "duration_ms": 212905,
-      "name": "Do You Feel Safe?",
-      "url": "https://open.spotify.com/track/71B1fNBwSnln85JuY4bTh3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Learning How To Live And Let Go",
-        "url": "https://open.spotify.com/album/1BkBunl3Wug629qK7Ke1T2"
-      },
-      "artists": [
-        {
-          "name": "The XCERTS",
-          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
-        }
-      ],
-      "duration_ms": 122528,
-      "name": "Jealousy",
-      "url": "https://open.spotify.com/track/0MRquMVJQiDJaeC1i3U8D0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Scatterbrain",
-        "url": "https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap"
-      },
-      "artists": [
-        {
-          "name": "The XCERTS",
-          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
-        }
-      ],
-      "duration_ms": 213426,
-      "name": "Young (Belane)",
-      "url": "https://open.spotify.com/track/6O3tpTZNeD4v0VEUvaBwSZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "You Mean Everything",
         "url": "https://open.spotify.com/album/4clkcMkCg0FE8HizG0CE8K"
       },
@@ -555,6 +523,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Scatterbrain",
+        "url": "https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap"
+      },
+      "artists": [
+        {
+          "name": "The XCERTS",
+          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
+        }
+      ],
+      "duration_ms": 213426,
+      "name": "Young (Belane)",
+      "url": "https://open.spotify.com/track/6O3tpTZNeD4v0VEUvaBwSZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Learning How To Live And Let Go",
         "url": "https://open.spotify.com/album/1BkBunl3Wug629qK7Ke1T2"
       },
@@ -567,22 +551,6 @@
       "duration_ms": 81332,
       "name": "Inhale (her)",
       "url": "https://open.spotify.com/track/58PNAiIBCBLZDe3ZFSiS7b"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Scatterbrain",
-        "url": "https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap"
-      },
-      "artists": [
-        {
-          "name": "The XCERTS",
-          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
-        }
-      ],
-      "duration_ms": 270706,
-      "name": "Distant Memory",
-      "url": "https://open.spotify.com/track/4l4SP3rYBjOvJCEcLQH75f"
     },
     {
       "added_at": null,
@@ -619,6 +587,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Scatterbrain",
+        "url": "https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap"
+      },
+      "artists": [
+        {
+          "name": "The XCERTS",
+          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
+        }
+      ],
+      "duration_ms": 270706,
+      "name": "Distant Memory",
+      "url": "https://open.spotify.com/track/4l4SP3rYBjOvJCEcLQH75f"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Learning How To Live And Let Go",
         "url": "https://open.spotify.com/album/1BkBunl3Wug629qK7Ke1T2"
       },
@@ -628,9 +612,25 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 161733,
-      "name": "Car Crash Culture",
-      "url": "https://open.spotify.com/track/4k7X0geoLL1LQ1TnmZNt0z"
+      "duration_ms": 122528,
+      "name": "Jealousy",
+      "url": "https://open.spotify.com/track/0MRquMVJQiDJaeC1i3U8D0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In the Cold Wind We Smile (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/7KpMyE6xSVdRVdkIxSng5N"
+      },
+      "artists": [
+        {
+          "name": "The XCERTS",
+          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
+        }
+      ],
+      "duration_ms": 316893,
+      "name": "Cool Ethan",
+      "url": "https://open.spotify.com/track/2qHRHqAVw7HPjCiJHF4UPM"
     },
     {
       "added_at": null,
@@ -651,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "In the Cold Wind We Smile (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/7KpMyE6xSVdRVdkIxSng5N"
+        "name": "Learning How To Live And Let Go",
+        "url": "https://open.spotify.com/album/1BkBunl3Wug629qK7Ke1T2"
       },
       "artists": [
         {
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 316893,
-      "name": "Cool Ethan",
-      "url": "https://open.spotify.com/track/2qHRHqAVw7HPjCiJHF4UPM"
+      "duration_ms": 161733,
+      "name": "Car Crash Culture",
+      "url": "https://open.spotify.com/track/4k7X0geoLL1LQ1TnmZNt0z"
     }
   ],
   "unique_name": "This Is The XCERTS",

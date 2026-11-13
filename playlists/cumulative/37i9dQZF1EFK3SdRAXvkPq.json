@@ -2729,6 +2729,28 @@
     },
     {
       "album": {
+        "name": "Palomino (Remix)",
+        "url": "https://open.spotify.com/album/5eK9c2t3ilEqEKR3F7mkQk"
+      },
+      "artists": [
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193386,
+      "name": "Palomino - Remix",
+      "url": "https://open.spotify.com/track/1IGc1w4X7LKjHbzU3svVXH"
+    },
+    {
+      "album": {
         "name": "Con dolor",
         "url": "https://open.spotify.com/album/5NPLmlTys2atPbydfgLKke"
       },

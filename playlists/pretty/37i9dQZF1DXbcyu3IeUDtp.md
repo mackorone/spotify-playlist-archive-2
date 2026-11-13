@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcyu3IeUDtp.md) - [plain]
 
 > <a href="spotify:artist:4rdJkXHNrMgowlwUdQAg8T">Ela Minus</a>' favorite tracks\. Updated regularly\. Curated by Ela Minus\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,431 likes - 83 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,435 likes - 83 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

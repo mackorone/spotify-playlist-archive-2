@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Ronisia",
+  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Warren Saada x JEUDI",
   "name": "R&Bae",
   "tracks": [
     {
@@ -3563,6 +3563,24 @@
     },
     {
       "album": {
+        "name": "Dernier Bus",
+        "url": "https://open.spotify.com/album/3kjtGOAWTnhs5fHuYgEaY5"
+      },
+      "artists": [
+        {
+          "name": "SenSey'",
+          "url": "https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208014,
+      "name": "Dernier Bus",
+      "url": "https://open.spotify.com/track/3mfBjPvxhW364zsXWbgfEB"
+    },
+    {
+      "album": {
         "name": "Dernier je t'aime",
         "url": "https://open.spotify.com/album/6h9eY1yISpJwaiNXZEwe3M"
       },
@@ -4006,7 +4024,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 151719,
       "name": "Dopamine",
       "url": "https://open.spotify.com/track/36ntyJsQjDBDSAnjxz96MD"
@@ -4782,7 +4800,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 204253,
       "name": "face2face (feat. Ronisia)",
       "url": "https://open.spotify.com/track/5b5xwjnYDRatDTe3l75MON"
@@ -5072,6 +5090,24 @@
       "duration_ms": 180212,
       "name": "Follow Me",
       "url": "https://open.spotify.com/track/7h3oCfORMboakvSqgn3dmt"
+    },
+    {
+      "album": {
+        "name": "Frapper \u00e7a (super pack)",
+        "url": "https://open.spotify.com/album/59lBRSji3ki04liyr8BgmR"
+      },
+      "artists": [
+        {
+          "name": "Chrystel",
+          "url": "https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142624,
+      "name": "Frapper \u00e7a",
+      "url": "https://open.spotify.com/track/0AUd7rg4SqlXDY6UsTDmTg"
     },
     {
       "album": {
@@ -7406,7 +7442,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 150511,
       "name": "La p\u00e9tasse",
       "url": "https://open.spotify.com/track/2FGUvuu07YxBUcK4fQ0nom"
@@ -7746,7 +7782,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 159000,
       "name": "location",
       "url": "https://open.spotify.com/track/0PDTp5dVHePKWrJ4b532tg"
@@ -10230,6 +10266,24 @@
       "duration_ms": 140952,
       "name": "OU",
       "url": "https://open.spotify.com/track/2aRQ3urYDd2FhUE8nZrmGN"
+    },
+    {
+      "album": {
+        "name": "Oublie moi",
+        "url": "https://open.spotify.com/album/3Ca1XR9fSPwJTeXNWGUd5p"
+      },
+      "artists": [
+        {
+          "name": "Kurtys",
+          "url": "https://open.spotify.com/artist/732YXWHf1cGFf2CufOIHsU"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149333,
+      "name": "Oublie moi",
+      "url": "https://open.spotify.com/track/7DyiDYRk0UasuC71ukfUs7"
     },
     {
       "album": {
@@ -13394,6 +13448,28 @@
       "duration_ms": 190434,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/6Yoxcu3q5HJf0Vt0cO9JZ7"
+    },
+    {
+      "album": {
+        "name": "Sors de ma life",
+        "url": "https://open.spotify.com/album/5XZGdDHkQxWEkhN8tZMY3o"
+      },
+      "artists": [
+        {
+          "name": "Warren Saada",
+          "url": "https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM"
+        },
+        {
+          "name": "JEUDI",
+          "url": "https://open.spotify.com/artist/6HZ8c7N6ysiZJf4HkGCszd"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207653,
+      "name": "Sors de ma life",
+      "url": "https://open.spotify.com/track/3LrWSd7L8buvWBKDgTtPvc"
     },
     {
       "album": {

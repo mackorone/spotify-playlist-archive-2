@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "David Guetta x Hypaton au top des bangers dance/electro du moment !",
+  "description": "Bormin' au top des bangers dance/electro du moment !",
   "name": "BANGER",
   "tracks": [
     {
@@ -2266,7 +2266,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 157593,
       "name": "Everlasting",
       "url": "https://open.spotify.com/track/3OVgtWok11FzuHJuCw5KPX"
@@ -3990,7 +3990,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 160270,
       "name": "Isabelle",
       "url": "https://open.spotify.com/track/61hCrar05r0Wsy6E2BuCmq"
@@ -7317,6 +7317,28 @@
     },
     {
       "album": {
+        "name": "Staring At The Sun",
+        "url": "https://open.spotify.com/album/4uUYfu9Qtnt5RiTZnPDceK"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "name": "LAUREL",
+          "url": "https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201255,
+      "name": "Staring At The Sun",
+      "url": "https://open.spotify.com/track/7J0kkgb99OIb3a7IJb6SDT"
+    },
+    {
+      "album": {
         "name": "Starlight",
         "url": "https://open.spotify.com/album/7xWgrLBIQVECzOsNvo2OHU"
       },
@@ -7508,6 +7530,24 @@
       "duration_ms": 201557,
       "name": "Take Me Back",
       "url": "https://open.spotify.com/track/1ydTfAU0AXrRnbPpfyWYQm"
+    },
+    {
+      "album": {
+        "name": "Take Me Home",
+        "url": "https://open.spotify.com/album/20T8xImt6u3qe2NvJxwSBL"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173333,
+      "name": "Take Me Home",
+      "url": "https://open.spotify.com/track/2gMEsJfYojkFVlOC9gYhxH"
     },
     {
       "album": {

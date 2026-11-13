@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F6y9e.md) - [plain]
 
 > This is Grupo Firme\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,158,723 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,158,843 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F6y9e.md) - [plain]
 | 20 | [El Mundo a Tus Pies](https://open.spotify.com/track/3mv2WC2zSgLmZJziw6kIq7) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [El Mundo a Tus Pies](https://open.spotify.com/album/3VOql1x3LFdMnKBFsEqgDm) | 2:56 |
 | 21 | [Vuelve](https://open.spotify.com/track/5OPljbMv9PFDUpucKAcH3b) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Vuelve](https://open.spotify.com/album/3g0PHy2BRa3ujyVpEMU5S5) | 2:52 |
 | 22 | [Modo Difícil](https://open.spotify.com/track/36HVLbDhXrvMTBRj6KTD31) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Modo Difícil](https://open.spotify.com/album/3kfuMuOaXbp69CayJ2kiqI) | 3:21 |
-| 23 | [Felicidades](https://open.spotify.com/track/3RxqFMGljx897MC9yApidW) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Felicidades](https://open.spotify.com/album/6yZG4ygkTClT7lTi73n9fl) | 3:09 |
-| 24 | [Hubiéramos](https://open.spotify.com/track/7Lncm89dgNpqoLMCtY86Y8) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Evolución](https://open.spotify.com/album/5bdv6THb6wb7DyCpDBv7be) | 3:49 |
+| 23 | [Hubiéramos](https://open.spotify.com/track/7Lncm89dgNpqoLMCtY86Y8) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Evolución](https://open.spotify.com/album/5bdv6THb6wb7DyCpDBv7be) | 3:49 |
+| 24 | [Felicidades](https://open.spotify.com/track/3RxqFMGljx897MC9yApidW) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Felicidades](https://open.spotify.com/album/6yZG4ygkTClT7lTi73n9fl) | 3:09 |
 | 25 | [Mi Buena Suerte \- En Vivo](https://open.spotify.com/track/4xa12B5gKP5D3LDQBSqDQd) | [Moy Bobadilla](https://open.spotify.com/artist/6H8yLg2ml8H94LRjriezMR), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Arriba La Moyombiza \(En Vivo\)](https://open.spotify.com/album/5n2AudWb133n1lu9JmWxSs) | 2:40 |
 | 26 | [Se Veía Venir](https://open.spotify.com/track/5yeNV4fEsdm1oeyureAJUz) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Se Veía Venir](https://open.spotify.com/album/7xr2h5VxJyJA6oDLaPYovk) | 2:32 |
 | 27 | [Segundas Partes](https://open.spotify.com/track/5YZfVtBFzbVvOsXRkQHd3M) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Evolución](https://open.spotify.com/album/5bdv6THb6wb7DyCpDBv7be) | 3:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F6y9e.md) - [plain]
 | 49 | [Me Canse de Amarte](https://open.spotify.com/track/2aGJ0y8jMmS4szjb4COtMG) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Grupo Corporacion](https://open.spotify.com/artist/4cFJzREymbjXas09arEp5o) | [Me Canse de Amarte](https://open.spotify.com/album/3dICCmVAjGk6jEStG8ajYD) | 3:18 |
 | 50 | [Te Equivocaste \(En Vivo\)](https://open.spotify.com/track/4ANXqggZoRGJHE9NfaVMLL) | [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Desde La Playa "En Vivo desde Mazatlan, Sinaloa"](https://open.spotify.com/album/1VdrXuMVBAzsxPP4vaecDI) | 4:35 |
 
-Snapshot ID: `avENAAAAAADnegyFzKWraMCUhKnSXGt0`
+Snapshot ID: `avOwAAAAAAAyNJiTaZEr4fFbJRd1n3iX`

@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume with mindfreakk! from Thailand.",
-  "num_followers": 1020436,
+  "num_followers": 1020349,
   "original_name": "EQUAL",
   "owner": {
     "name": "Spotify",
@@ -627,22 +627,6 @@
     {
       "added_at": "2026-11-11 05:00:20",
       "album": {
-        "name": "aftertears",
-        "url": "https://open.spotify.com/album/0qtTQO2tmH6a03Dey9zeaz"
-      },
-      "artists": [
-        {
-          "name": "mindfreakk!",
-          "url": "https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a"
-        }
-      ],
-      "duration_ms": 387606,
-      "name": "aftertears",
-      "url": "https://open.spotify.com/track/7lyewi26KwzRM9XNB7Sl6y"
-    },
-    {
-      "added_at": "2026-11-11 05:00:20",
-      "album": {
         "name": "Keddab",
         "url": "https://open.spotify.com/album/430OinMfmEtvRBeKNYPbeL"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 166779,
       "name": "Keddab",
       "url": "https://open.spotify.com/track/7Hh4hykGxO7hT0FoFVkonP"
+    },
+    {
+      "added_at": "2026-11-11 05:00:20",
+      "album": {
+        "name": "aftertears",
+        "url": "https://open.spotify.com/album/0qtTQO2tmH6a03Dey9zeaz"
+      },
+      "artists": [
+        {
+          "name": "mindfreakk!",
+          "url": "https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a"
+        }
+      ],
+      "duration_ms": 387606,
+      "name": "aftertears",
+      "url": "https://open.spotify.com/track/7lyewi26KwzRM9XNB7Sl6y"
     },
     {
       "added_at": "2026-11-11 05:00:20",
@@ -791,26 +791,6 @@
     {
       "added_at": "2026-11-11 05:00:20",
       "album": {
-        "name": "Snail Song",
-        "url": "https://open.spotify.com/album/6CeaDxEmRXTCTZZJMXgFJG"
-      },
-      "artists": [
-        {
-          "name": "Goodmorning Pancake",
-          "url": "https://open.spotify.com/artist/7Bezyy4h6Ftw2pjtq8NcbE"
-        },
-        {
-          "name": "mindfreakk!",
-          "url": "https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a"
-        }
-      ],
-      "duration_ms": 212571,
-      "name": "Snail Song",
-      "url": "https://open.spotify.com/track/4IwVHxOmdbcTM5ThqQwu6T"
-    },
-    {
-      "added_at": "2026-11-11 05:00:20",
-      "album": {
         "name": "INSTINCTA",
         "url": "https://open.spotify.com/album/3PLxcpG6HX1bPdqrJTUNfT"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 143872,
       "name": "Victoria",
       "url": "https://open.spotify.com/track/3aDrC0uyqKWOXc9bclRdQc"
+    },
+    {
+      "added_at": "2026-11-11 05:00:20",
+      "album": {
+        "name": "Snail Song",
+        "url": "https://open.spotify.com/album/6CeaDxEmRXTCTZZJMXgFJG"
+      },
+      "artists": [
+        {
+          "name": "Goodmorning Pancake",
+          "url": "https://open.spotify.com/artist/7Bezyy4h6Ftw2pjtq8NcbE"
+        },
+        {
+          "name": "mindfreakk!",
+          "url": "https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a"
+        }
+      ],
+      "duration_ms": 212571,
+      "name": "Snail Song",
+      "url": "https://open.spotify.com/track/4IwVHxOmdbcTM5ThqQwu6T"
     },
     {
       "added_at": "2026-11-11 05:00:20",

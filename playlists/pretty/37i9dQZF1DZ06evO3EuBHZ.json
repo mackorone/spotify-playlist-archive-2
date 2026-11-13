@@ -1,12 +1,12 @@
 {
   "description": "This is Big Mama Thornton. The essential tracks, all in one playlist.",
-  "num_followers": 18172,
+  "num_followers": 18174,
   "original_name": "This Is Big Mama Thornton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avENAAAAAACs07TO+UfBhERosERF/7Q6",
+  "snapshot_id": "avOwAAAAAACC2SPcsv3b0yoYCkoYeyfR",
   "tracks": [
     {
       "added_at": null,
@@ -311,22 +311,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In Europe",
-        "url": "https://open.spotify.com/album/4GKo7UgPccJMRAm4ljs8Tz"
-      },
-      "artists": [
-        {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
-        }
-      ],
-      "duration_ms": 155906,
-      "name": "The Place",
-      "url": "https://open.spotify.com/track/3UpeJgzCMu4kT1idGQd98U"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hound Dog - The Essential Collection",
         "url": "https://open.spotify.com/album/7AX4dOBsgMfBeNewikf2X4"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 151960,
       "name": "How Come",
       "url": "https://open.spotify.com/track/6dK7dauEMDvJhc2jkhJxbD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In Europe",
+        "url": "https://open.spotify.com/album/4GKo7UgPccJMRAm4ljs8Tz"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "duration_ms": 155906,
+      "name": "The Place",
+      "url": "https://open.spotify.com/track/3UpeJgzCMu4kT1idGQd98U"
     },
     {
       "added_at": null,
@@ -372,25 +372,9 @@
           "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
         }
       ],
-      "duration_ms": 208213,
-      "name": "Life Goes On",
-      "url": "https://open.spotify.com/track/6WnteapB2WkfyK6MVHX55h"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "In Europe",
-        "url": "https://open.spotify.com/album/4GKo7UgPccJMRAm4ljs8Tz"
-      },
-      "artists": [
-        {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
-        }
-      ],
-      "duration_ms": 217160,
-      "name": "Down Home Shake-Down",
-      "url": "https://open.spotify.com/track/6QDIT5BB8mJDa1EBjeFL1y"
+      "duration_ms": 305893,
+      "name": "Everything Gonna Be Alright",
+      "url": "https://open.spotify.com/track/5VK783FVcaNdsx5iN0O7dN"
     },
     {
       "added_at": null,
@@ -407,6 +391,22 @@
       "duration_ms": 405146,
       "name": "Rock Me Baby",
       "url": "https://open.spotify.com/track/4HYvUhFFqlzCpObJL8YBmp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In Europe",
+        "url": "https://open.spotify.com/album/4GKo7UgPccJMRAm4ljs8Tz"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "duration_ms": 217160,
+      "name": "Down Home Shake-Down",
+      "url": "https://open.spotify.com/track/6QDIT5BB8mJDa1EBjeFL1y"
     },
     {
       "added_at": null,
@@ -440,9 +440,25 @@
           "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
         }
       ],
-      "duration_ms": 305893,
-      "name": "Everything Gonna Be Alright",
-      "url": "https://open.spotify.com/track/5VK783FVcaNdsx5iN0O7dN"
+      "duration_ms": 208213,
+      "name": "Life Goes On",
+      "url": "https://open.spotify.com/track/6WnteapB2WkfyK6MVHX55h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stronger Than Dirt",
+        "url": "https://open.spotify.com/album/5RgBzyz655O88ue7VJyN1l"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "duration_ms": 282000,
+      "name": "Ball And Chain",
+      "url": "https://open.spotify.com/track/7djfSzsm0iyC1WhGp3DrGi"
     },
     {
       "added_at": null,
@@ -463,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sassy Mama",
-        "url": "https://open.spotify.com/album/1ecriLTawFnXSoMjszqjSl"
+        "name": "Jail",
+        "url": "https://open.spotify.com/album/21axeJzgy0XEWJAU8sx3SP"
       },
       "artists": [
         {
@@ -472,25 +488,9 @@
           "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
         }
       ],
-      "duration_ms": 251426,
-      "name": "Hound Dog / Walkin' the Dog",
-      "url": "https://open.spotify.com/track/3pZxCAMSg4Rky0QzlzqltY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stronger Than Dirt",
-        "url": "https://open.spotify.com/album/5RgBzyz655O88ue7VJyN1l"
-      },
-      "artists": [
-        {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
-        }
-      ],
-      "duration_ms": 282000,
-      "name": "Ball And Chain",
-      "url": "https://open.spotify.com/track/7djfSzsm0iyC1WhGp3DrGi"
+      "duration_ms": 205000,
+      "name": "Sheriff O.E. & Me",
+      "url": "https://open.spotify.com/track/09FeLwnxUGibd5q41UkRYj"
     },
     {
       "added_at": null,
@@ -515,8 +515,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jail",
-        "url": "https://open.spotify.com/album/21axeJzgy0XEWJAU8sx3SP"
+        "name": "Sassy Mama",
+        "url": "https://open.spotify.com/album/1ecriLTawFnXSoMjszqjSl"
       },
       "artists": [
         {
@@ -524,9 +524,9 @@
           "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
         }
       ],
-      "duration_ms": 205000,
-      "name": "Sheriff O.E. & Me",
-      "url": "https://open.spotify.com/track/09FeLwnxUGibd5q41UkRYj"
+      "duration_ms": 251426,
+      "name": "Hound Dog / Walkin' the Dog",
+      "url": "https://open.spotify.com/track/3pZxCAMSg4Rky0QzlzqltY"
     },
     {
       "added_at": null,
@@ -547,8 +547,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stronger Than Dirt",
-        "url": "https://open.spotify.com/album/5RgBzyz655O88ue7VJyN1l"
+        "name": "In Europe",
+        "url": "https://open.spotify.com/album/4GKo7UgPccJMRAm4ljs8Tz"
       },
       "artists": [
         {
@@ -556,9 +556,9 @@
           "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
         }
       ],
-      "duration_ms": 217000,
-      "name": "That Lucky Old Sun",
-      "url": "https://open.spotify.com/track/0dPS1kignN2T3fTQN7WHqh"
+      "duration_ms": 307306,
+      "name": "Chauffeur Blues",
+      "url": "https://open.spotify.com/track/4Gj5Ngw2L6yJxh7L9LmISH"
     },
     {
       "added_at": null,
@@ -579,8 +579,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "In Europe",
-        "url": "https://open.spotify.com/album/4GKo7UgPccJMRAm4ljs8Tz"
+        "name": "Stronger Than Dirt",
+        "url": "https://open.spotify.com/album/5RgBzyz655O88ue7VJyN1l"
       },
       "artists": [
         {
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
         }
       ],
-      "duration_ms": 307306,
-      "name": "Chauffeur Blues",
-      "url": "https://open.spotify.com/track/4Gj5Ngw2L6yJxh7L9LmISH"
+      "duration_ms": 217000,
+      "name": "That Lucky Old Sun",
+      "url": "https://open.spotify.com/track/0dPS1kignN2T3fTQN7WHqh"
     },
     {
       "added_at": null,
@@ -659,8 +659,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Early One Mornin\u2019 Blues (Live)",
-        "url": "https://open.spotify.com/album/5sQqi3Ce7MkX1h6gj2pVWz"
+        "name": "Real Cool Cat",
+        "url": "https://open.spotify.com/album/4ZTvUA6m87dAY6tXAYV25p"
       },
       "artists": [
         {
@@ -668,9 +668,9 @@
           "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
         }
       ],
-      "duration_ms": 254106,
-      "name": "Early One Mornin\u2019 Blues - Live",
-      "url": "https://open.spotify.com/track/0hWwUHWSJs0JAboIatACFX"
+      "duration_ms": 160543,
+      "name": "Laugh, Laugh, Laugh",
+      "url": "https://open.spotify.com/track/2WQlIEjPYuVRqbz3EIbm0y"
     },
     {
       "added_at": null,
@@ -707,6 +707,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Early One Mornin\u2019 Blues (Live)",
+        "url": "https://open.spotify.com/album/5sQqi3Ce7MkX1h6gj2pVWz"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "duration_ms": 254106,
+      "name": "Early One Mornin\u2019 Blues - Live",
+      "url": "https://open.spotify.com/track/0hWwUHWSJs0JAboIatACFX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Real Cool Cat",
         "url": "https://open.spotify.com/album/4ZTvUA6m87dAY6tXAYV25p"
       },
@@ -716,9 +732,9 @@
           "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
         }
       ],
-      "duration_ms": 160543,
-      "name": "Laugh, Laugh, Laugh",
-      "url": "https://open.spotify.com/track/2WQlIEjPYuVRqbz3EIbm0y"
+      "duration_ms": 152393,
+      "name": "Rock-A-Bye Baby",
+      "url": "https://open.spotify.com/track/3ydFlJpAMMjZtmXAyIacD8"
     },
     {
       "added_at": null,
@@ -739,26 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Big Mama's Home (35 Classic Tracks)",
-        "url": "https://open.spotify.com/album/7FAJRphvLjolVgfOiDaUVt"
-      },
-      "artists": [
-        {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
-        },
-        {
-          "name": "Bill Harvey Orchestra",
-          "url": "https://open.spotify.com/artist/6btaa5XwQQFROFEWCVMeuI"
-        }
-      ],
-      "duration_ms": 166906,
-      "name": "No Jody for Me",
-      "url": "https://open.spotify.com/track/2ciOcWzmHiNinO1rSwMrEm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hound Dog / The Peacock Recordings",
         "url": "https://open.spotify.com/album/02B0EXcXyArity4IKXXo5S"
       },
@@ -775,18 +771,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Real Cool Cat",
-        "url": "https://open.spotify.com/album/4ZTvUA6m87dAY6tXAYV25p"
+        "name": "Big Mama's Home (35 Classic Tracks)",
+        "url": "https://open.spotify.com/album/7FAJRphvLjolVgfOiDaUVt"
       },
       "artists": [
         {
           "name": "Big Mama Thornton",
           "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        },
+        {
+          "name": "Bill Harvey Orchestra",
+          "url": "https://open.spotify.com/artist/6btaa5XwQQFROFEWCVMeuI"
         }
       ],
-      "duration_ms": 152393,
-      "name": "Rock-A-Bye Baby",
-      "url": "https://open.spotify.com/track/3ydFlJpAMMjZtmXAyIacD8"
+      "duration_ms": 166906,
+      "name": "No Jody for Me",
+      "url": "https://open.spotify.com/track/2ciOcWzmHiNinO1rSwMrEm"
     }
   ],
   "unique_name": "This Is Big Mama Thornton",

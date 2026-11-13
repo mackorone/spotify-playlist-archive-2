@@ -7596,7 +7596,7 @@
       ],
       "date_added": "2023-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 168923,
       "name": "Cik\u00e1dy",
       "url": "https://open.spotify.com/track/4enbO9cZhJLSZ6Tf21LRnv"
@@ -14116,7 +14116,7 @@
       ],
       "date_added": "2026-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-12",
+      "date_removed": null,
       "duration_ms": 157475,
       "name": "FURT PYTLE",
       "url": "https://open.spotify.com/track/59EAcjJDDQA7wAbRM4JDIw"
@@ -14738,7 +14738,7 @@
       ],
       "date_added": "2024-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 181224,
       "name": "Givenchy",
       "url": "https://open.spotify.com/track/2K8HLQXU4EB3ZdpNqGN8um"
@@ -18836,6 +18836,24 @@
       "duration_ms": 289533,
       "name": "Iris",
       "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
+    },
+    {
+      "album": {
+        "name": "Dizzy up the Girl",
+        "url": "https://open.spotify.com/album/4kBJTOKS4XeN7FQVG6PoOK"
+      },
+      "artists": [
+        {
+          "name": "The Goo Goo Dolls",
+          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289558,
+      "name": "Iris",
+      "url": "https://open.spotify.com/track/3zslQ5Mhpez7nivcOs3dXn"
     },
     {
       "album": {
@@ -23672,7 +23690,7 @@
       ],
       "date_added": "2026-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 130000,
       "name": "Long Story",
       "url": "https://open.spotify.com/track/7hELM1h9VnjQ263YcXD4x3"
@@ -33984,7 +34002,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-12",
+      "date_removed": null,
       "duration_ms": 124569,
       "name": "PO\u010cKEJ w8",
       "url": "https://open.spotify.com/track/3Jn8X94JACpp9EzJGSdo8F"
@@ -37424,7 +37442,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-12",
+      "date_removed": null,
       "duration_ms": 180740,
       "name": "Self Aware",
       "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
@@ -47000,7 +47018,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 140940,
       "name": "V\u00cd\u0160 JAK BOL\u00cd \u0158\u00cdKAT RIP",
       "url": "https://open.spotify.com/track/37JjmZ1SC4aEahyUYHlXmM"

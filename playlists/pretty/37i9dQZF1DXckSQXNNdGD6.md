@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 
 > La banda sonora de tu orgullo\. Foto: Hidrogenesse.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,998 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,996 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 | 21 | [HE MONTADO UN CIRCO](https://open.spotify.com/track/1rqUfqMHMlsu0SONI6dRYv) | [Jimena Amarillo](https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm) | [AÉREO / HE MONTADO UN CIRCO](https://open.spotify.com/album/0KSaC9MHhQvAHxWLVmYdyr) | 3:06 |
 | 22 | [Pendiente De Mí](https://open.spotify.com/track/1GiP9p80DQOgYs6CJre3Ok) | [LUSILLON](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up) | [Pendiente De Mí](https://open.spotify.com/album/7FtFzQYSse2kL2b5cZ4hJK) | 4:02 |
 | 23 | [Ay!](https://open.spotify.com/track/5kdbE9Yf6cOMvk0edZ1Ocs) | [María Peláe](https://open.spotify.com/artist/1b6ctmaHGrw89ZUmm0nGXq) | [Ay!](https://open.spotify.com/album/1zWnErkis3epAQsy7wx7M5) | 3:03 |
-| 24 | [Culpa del DJ](https://open.spotify.com/track/3GU0y3THGKlB52gvo2yLGj) | [David Rees](https://open.spotify.com/artist/2CQHyfluB4mliyv193Qn2L) | [Culpa del DJ](https://open.spotify.com/album/0Y6ClleAwGn3ye7FOmT6eF) | 3:31 |
+| 24 | [PARA QUÉ](https://open.spotify.com/track/1Yu0uAHAsHnYXMKtoY9rQV) | [Blas Cantó](https://open.spotify.com/artist/3IJtdFn9IKbFvNvZqOJA46) | [PARA QUÉ](https://open.spotify.com/album/5MhOQMyrw34fVfYaTncudp) | 2:41 |
 | 25 | [SexyHOT](https://open.spotify.com/track/28I9DF0YnYCiVdyxIEQbFF) | [FUTURACHICAPOP](https://open.spotify.com/artist/5MSONJTkfk8OSFQYgpz3OJ), [Juan Anselmo](https://open.spotify.com/artist/59rrpl4VEJ34sIXu4JFp8W) | [SexyHOT](https://open.spotify.com/album/1Rbu1T8TTJJnyZ75RNzzkd) | 4:18 |
-| 26 | [PARA QUÉ](https://open.spotify.com/track/1Yu0uAHAsHnYXMKtoY9rQV) | [Blas Cantó](https://open.spotify.com/artist/3IJtdFn9IKbFvNvZqOJA46) | [PARA QUÉ](https://open.spotify.com/album/5MhOQMyrw34fVfYaTncudp) | 2:41 |
+| 26 | [Culpa del DJ](https://open.spotify.com/track/3GU0y3THGKlB52gvo2yLGj) | [David Rees](https://open.spotify.com/artist/2CQHyfluB4mliyv193Qn2L) | [Culpa del DJ](https://open.spotify.com/album/0Y6ClleAwGn3ye7FOmT6eF) | 3:31 |
 | 27 | [JHONNY](https://open.spotify.com/track/1gSfI5vGpoPI8lwcBfzLmW) | [BAJOCERO X](https://open.spotify.com/artist/0zry48rNmbs7Qd3gM4YkEq), [Kercho](https://open.spotify.com/artist/2Dg9RuLl8nw2gkoirqZQkR) | [JHONNY](https://open.spotify.com/album/4J2lVjLVledSnr0eM5uHUA) | 2:38 |
 | 28 | [SECUELAS](https://open.spotify.com/track/2G1joSiUx5sJqIFz3WEdXZ) | [SAZZA](https://open.spotify.com/artist/3vkv2mfJalVqonHHe5yLEe) | [SECUELAS](https://open.spotify.com/album/6Ztivu5gV074WcgjGQMxGP) | 2:50 |
 | 29 | [El Espejo](https://open.spotify.com/track/4JK8Q0RKEhLheiPXdN9P2l) | [Oreiana](https://open.spotify.com/artist/7b1hCTRzkTW2WqSHothS7y) | [El Espejo](https://open.spotify.com/album/0UVW1FlLVC1A8Rliv60qQj) | 3:06 |

@@ -2,9 +2,9 @@
 
 ### [The Indie List](https://open.spotify.com/playlist/37i9dQZF1DWVTKDs2aOkxu)
 
-> The best indie music of the moment\. Cover: Rex Orange County
+> The best indie music of the moment\. Cover: Racing Mount Pleasant
 
-1,271 songs - 3 day 3 hr 13 min
+1,277 songs - 3 day 3 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [Before You I Just Forget](https://open.spotify.com/track/1oVAmJ2oaHv5NWFH99jCWE) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Romance \(Deluxe Edition\)](https://open.spotify.com/album/1eKVHMQJt9UVkuOb4gE3wy) | 3:56 | 2025-04-17 | 2025-09-19 |
 | [Belinda](https://open.spotify.com/track/1rs2lOYfBKNW5OCpeTIiVf) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [Belinda](https://open.spotify.com/album/62HSUHlT6fzM1WjH8hHVWG) | 2:45 | 2026-09-17 | 2026-10-02 |
 | [Benjamin](https://open.spotify.com/track/4v7NvcYqZrlfmWmH8ZYUsz) | [Willie J Healey](https://open.spotify.com/artist/4T4JE09FOmRgv2Wzb6JaOR) | [Benjamin](https://open.spotify.com/album/5YoD2IL272Cl7rWY64sOjq) | 2:24 | 2026-10-22 |  |
+| [Benny's Video](https://open.spotify.com/track/5N4sQdc3npLGzNfjg8kxlY) | [Gang of Youths](https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8) | [Benny's Video](https://open.spotify.com/album/6c3Ol8A3dtGWvo3fa9jun2) | 5:18 | 2026-11-13 |  |
 | [Berlin TV Tower](https://open.spotify.com/track/3DeVp7bfY7ua7eY95xgREC) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Another Picture](https://open.spotify.com/album/2UizRzM5APPgxDAZN6LzXp) | 3:16 | 2025-11-14 | 2025-12-20 |
 | [Best Guess](https://open.spotify.com/track/4zZ1V5x9lvKz2KGpAOP8SV) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Best Guess](https://open.spotify.com/album/7mer2hSbDhEeC6lJvhoSfa) | 4:00 | 2025-02-14 | 2025-03-14 |
 | [Besties](https://open.spotify.com/track/4U9ZjqhaGF9wl56899E4sW) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Forever Howlong](https://open.spotify.com/album/5FjaEW3Hi8vD2aoJNWln4t) | 3:36 | 2025-08-21 | 2025-11-14 |
@@ -293,6 +294,7 @@
 | [Dirt](https://open.spotify.com/track/2I0s3nebFwKQzFlhGT2mkD) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Dirt](https://open.spotify.com/album/4OeO7wZnfrvVRygI1FAlkK) | 5:09 | 2026-01-09 | 2026-01-23 |
 | [Dirty Laundry](https://open.spotify.com/track/3O0VDbjTaFDKQlSyE54xxf) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Dirty Laundry](https://open.spotify.com/album/1toxicdmCTYNhoghfU51lT) | 2:21 | 2024-10-17 | 2025-02-07 |
 | [dirty wedding dress](https://open.spotify.com/track/75GyGLjB9yFLTVltUlDVKI) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [dirty wedding dress](https://open.spotify.com/album/7BQpzzWLy9yszbY5k6790w) | 4:49 | 2026-03-13 | 2026-04-03 |
+| [ditto!](https://open.spotify.com/track/6QR3R7GfYkmgU8aDjvyC92) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [ditto!](https://open.spotify.com/album/06mSoF5qGhURZ6wPakADG3) | 3:34 | 2026-11-13 |  |
 | [Do You Know Me](https://open.spotify.com/track/5XspTgdG4XVtMQuhrcWs2P) | [NECKBREAKERS](https://open.spotify.com/artist/1kjfLF0nj4tofaBOpjoHO2) | [Good Grace In Carnage](https://open.spotify.com/album/5FspJY5Hv7Rp0jmdPIAnPs) | 4:12 | 2026-10-30 | 2026-11-06 |
 | [Do You Really Love Her](https://open.spotify.com/track/0taitulsqplmFbqzO8GEqa) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Do You Really Love Her](https://open.spotify.com/album/574rsOAjtvMf9Y8DuYl0HN) | 3:48 | 2026-03-13 | 2026-05-08 |
 | [Dobro](https://open.spotify.com/track/3tL4ZLFEXLcjJTkbdOwcjW) | [Westside Cowboy](https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2) | [Dobro](https://open.spotify.com/album/1sI3ddpa7pZZvPfL0RHkTq) | 2:45 | 2026-08-06 | 2026-08-21 |
@@ -409,6 +411,7 @@
 | [Fun](https://open.spotify.com/track/36u7bz30t8wlYlyKhN7LKG) | [The Big Moon](https://open.spotify.com/artist/0KU55rzxAihPhi27MAuz9O) | [Fun](https://open.spotify.com/album/744wB2cjHkKYewaKbL38Ku) | 3:31 | 2026-08-06 | 2026-10-02 |
 | [Fundraiser](https://open.spotify.com/track/31n4AvZ46fNJl6QHgVCKL9) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [Fundraiser](https://open.spotify.com/album/41zdUDQTzzWa0lxjCvDxID) | 3:39 | 2025-08-21 | 2025-10-17 |
 | [Fur Elise](https://open.spotify.com/track/4voyl0SW7WHrG9aCH1jGOC) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Fur Elise](https://open.spotify.com/album/3lqXCKvlrQ6EjO4PrFcAcF) | 4:16 | 2026-08-20 | 2026-10-30 |
+| [G.S.K 28.2.25](https://open.spotify.com/track/2NLhPHqfZ3JugvrQdSbwNO) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [CROWDS](https://open.spotify.com/album/6p5et7kxiuFX7r6ACHlffT) | 3:26 | 2026-11-13 |  |
 | [Gabriel](https://open.spotify.com/track/3clpq7tgqi0jcvg16K3c0V) | [Worldpeace DMT](https://open.spotify.com/artist/48Nf4afKn9nV8OqgnTP7dV) | [Gabriel](https://open.spotify.com/album/2trgK2jomllLUNEY3bnaYt) | 2:57 | 2026-09-24 | 2026-10-30 |
 | [Ganni Top \(She Gets What She Needs\)](https://open.spotify.com/track/4S2kZNqRtVNHCXFQKDQpEX) | [Nieve Ella](https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn) | [Ganni Top \(She Gets What She Needs\)](https://open.spotify.com/album/1CTAbh7U5e7KzKQAfX7aNx) | 2:07 | 2024-09-20 | 2024-10-18 |
 | [Garden](https://open.spotify.com/track/5Pr0dZZjoGqnWzlASF1ESU) | [Maria Somerville](https://open.spotify.com/artist/5JjgffJf4s4KF29xdEaAQd) | [Luster](https://open.spotify.com/album/6vRCwr31pNFnURP8mj53KP) | 4:03 | 2025-12-19 | 2026-03-20 |
@@ -449,6 +452,7 @@
 | [Gown](https://open.spotify.com/track/2qDjzlewG9Dx3rC1M2OWXh) | [Joanne Robertson](https://open.spotify.com/artist/4MdQ9btIlh6rzIMA19tu3L), [Oliver Coates](https://open.spotify.com/artist/2jToqK8MU3rtt0DYrgCIXM) | [Blurrr](https://open.spotify.com/album/5WhOeAAZdZNuVPd0owQ88D) | 3:15 | 2025-09-25 | 2025-11-21 |
 | [grapevine](https://open.spotify.com/track/37x7bNCSFxzYXoyrDZXQZd) | [lots of hands](https://open.spotify.com/artist/6sNcyjEVdNlZ0dpgr7EcT9) | [grapevine](https://open.spotify.com/album/1qHcE3ty5vL6pzzAkLw1HX) | 4:27 | 2026-04-30 | 2026-06-26 |
 | [Gravity](https://open.spotify.com/track/1omNLRiHBlp4j6XqvOmMU9) | [The Big Moon](https://open.spotify.com/artist/0KU55rzxAihPhi27MAuz9O) | [Gravity](https://open.spotify.com/album/1foXDZ0htLQ1ruRGkbKASP) | 3:41 | 2026-07-02 | 2026-08-07 |
+| [Great Destroyer](https://open.spotify.com/track/37VSm7OkJYKnGszEqUQm6d) | [Racing Mount Pleasant](https://open.spotify.com/artist/5zaSiNpGxS2lOvZTIZiOQX) | [Great Destroyer](https://open.spotify.com/album/3ovb20hHInBOA8IQA6cSGr) | 4:09 | 2026-11-13 |  |
 | [Green Velvet](https://open.spotify.com/track/5s2GQSKlbKOzUvqyRfwjiE) | [JJerome87](https://open.spotify.com/artist/2UzQILybhlgKlKSiBikOio), [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [Green Velvet](https://open.spotify.com/album/6Ot5LdRWIDbv3CObiFqNaL) | 3:28 | 2026-06-25 | 2026-08-28 |
 | [Grenadine](https://open.spotify.com/track/2mmRj1egR3rhLwfpUZazfv) | [Sorcha Richardson](https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc) | [Grenadine](https://open.spotify.com/album/3MBqDqbQylcQWNGVkFcQvU) | 3:08 | 2026-04-30 | 2026-06-12 |
 | [Gretchen](https://open.spotify.com/track/255KD8LTcbK1sqJVqtYwpe) | [Saint Clair](https://open.spotify.com/artist/79T09chv3YznpSxUAaAiAw) | [Gretchen](https://open.spotify.com/album/0uB6srYMGEDsmgE4sMzZj0) | 2:51 | 2026-06-04 | 2026-07-17 |
@@ -1228,6 +1232,7 @@
 | [When england comes](https://open.spotify.com/track/2TcUaZUxjRv2Iwo0BVhKSF) | [Pollyfromthedirt](https://open.spotify.com/artist/3mNIIIyyVyJvCeO3ZpqlpM) | [When england comes](https://open.spotify.com/album/5GHoySgrasrewtuUWFlDAX) | 2:52 | 2026-01-23 | 2026-02-20 |
 | [When I Wake Up I'm Sad](https://open.spotify.com/track/5xT3wvyIlD1H2pxAJjMYTV) | [Fiona\-Lee](https://open.spotify.com/artist/50vlHl1iuV051WG7kRaCmQ) | [When I Wake Up I'm Sad](https://open.spotify.com/album/1KS7kJbZUASitLCrZ3vnbG) | 4:27 | 2024-11-15 | 2025-02-07 |
 | [When The Dawn Breaks](https://open.spotify.com/track/2pyTm14T04nkS3VPzRMscM) | [Charlie Noordewier](https://open.spotify.com/artist/0SDfEluak7Z8ML7o1K2Ljk) | [Joy and Despair](https://open.spotify.com/album/3kC0MOqq6vxjAsFcTf52NY) | 4:15 | 2026-06-11 | 2026-07-24 |
+| [When The Night](https://open.spotify.com/track/5xt04fHfQUREMH4CuZXQ6l) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [Alamo](https://open.spotify.com/album/4R9LxymAg0jzi0hvRdz2Ac) | 2:48 | 2026-11-13 |  |
 | [When You Tie Your Hair Up](https://open.spotify.com/track/3qZeprTEN2hAWi19KZbcMg) | [Dove Ellis](https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9) | [Blizzard](https://open.spotify.com/album/3Brw2Xdmo6VRPWwOBNye0i) | 4:28 | 2025-12-05 | 2026-04-17 |
 | [Where I Left Us](https://open.spotify.com/track/7lK2E3l1hckTDxfbGxHr6z) | [Bess Atwell](https://open.spotify.com/artist/6Pim5E5Lm03COsjHj2aEiK) | [Where I Left Us](https://open.spotify.com/album/7jUP9aI7MfsViyidFLjnLI) | 3:03 | 2024-07-25 | 2024-10-04 |
 | [Where To Look](https://open.spotify.com/track/6fp01DAoqsZNyTwZidZ74I) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Where To Look](https://open.spotify.com/album/4fwjQarLnKj466NhmGtlgc) | 4:50 | 2025-06-05 | 2025-07-11 |
@@ -1248,6 +1253,7 @@
 | [Wife Once](https://open.spotify.com/track/0vCtC5xweWwyLl84yfM1iR) | [Memory of Speke](https://open.spotify.com/artist/58pZ02rmQbTbYcpC3O7K78) | [Wife Once](https://open.spotify.com/album/1urkJiWWUJc6IuD5aZMedt) | 3:45 | 2024-09-12 | 2024-11-01 |
 | [Wild Long Lie](https://open.spotify.com/track/1SCWdCsPcC5UWJ0jGpWjFm) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Wild Long Lie](https://open.spotify.com/album/2TYwCemvaxgFK7dOwv9Zoo) | 6:04 | 2024-12-06 | 2025-01-17 |
 | [Wink Wink](https://open.spotify.com/track/6GjXR9FaxCuDNbqBrP9aYO) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Wink Wink](https://open.spotify.com/album/1WjjAPm4lSHSjupTleJaCA) | 2:02 | 2026-06-25 | 2026-07-17 |
+| [Winner](https://open.spotify.com/track/21GMGZQQ0MhG5mTe7cvs2Y) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Winner](https://open.spotify.com/album/52JHUm1Y7NIxLdKu0qGwjt) | 3:52 | 2026-11-13 |  |
 | [wiser](https://open.spotify.com/track/1iz2FeDIHjO9yfJnh39FxG) | [Molly Payton](https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N) | [wiser](https://open.spotify.com/album/4GKrKOaYMvxBMRd5mS6qNB) | 3:24 | 2026-10-08 | 2026-11-06 |
 | [Wish Upon You](https://open.spotify.com/track/5S6Lu1hiwmipUZZV4g9n1Z) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Wish Upon You](https://open.spotify.com/album/1jB0LeWCN64fYmjJe2cW1V) | 4:37 | 2026-10-08 |  |
 | [Wishing Bone](https://open.spotify.com/track/1Rpc4MF6q5kH63rozkvlZg) | [Freak Slug](https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS) | [Wishing Bone](https://open.spotify.com/album/7xtBW8XGdQdjPwnlZ8G42P) | 3:28 | 2026-09-17 | 2026-10-23 |

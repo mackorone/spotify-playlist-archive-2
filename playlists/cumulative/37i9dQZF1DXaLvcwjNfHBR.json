@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-06-18",
-  "description": "Your new favourite songs! Cover: Zach Bryan",
+  "description": "Your new favourite songs! Cover: VV-Ace, Tobiahs",
   "name": "Breaking Hits",
   "tracks": [
     {
@@ -2555,6 +2555,24 @@
     },
     {
       "album": {
+        "name": "Benny's Video",
+        "url": "https://open.spotify.com/album/6c3Ol8A3dtGWvo3fa9jun2"
+      },
+      "artists": [
+        {
+          "name": "Gang of Youths",
+          "url": "https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318000,
+      "name": "Benny's Video",
+      "url": "https://open.spotify.com/track/5N4sQdc3npLGzNfjg8kxlY"
+    },
+    {
+      "album": {
         "name": "Berghain",
         "url": "https://open.spotify.com/album/0avVU24xBfXW7ItE0xtzN2"
       },
@@ -2702,6 +2720,24 @@
       "duration_ms": 262268,
       "name": "Big Foot",
       "url": "https://open.spotify.com/track/587Ks4sb6Wd2qRVS5i9fdW"
+    },
+    {
+      "album": {
+        "name": "big freak",
+        "url": "https://open.spotify.com/album/0i5mCnj5znjoEpElwLbLDk"
+      },
+      "artists": [
+        {
+          "name": "Middle Kids",
+          "url": "https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182899,
+      "name": "big freak",
+      "url": "https://open.spotify.com/track/0bSFRKbr6mzWv35E6SXZMy"
     },
     {
       "album": {
@@ -3320,6 +3356,24 @@
       "duration_ms": 211899,
       "name": "Boost Up",
       "url": "https://open.spotify.com/track/5qDawntZqMqDKJdM5QVSdC"
+    },
+    {
+      "album": {
+        "name": "Borderline",
+        "url": "https://open.spotify.com/album/5FJ5lIDtBwFnM7JudQLziA"
+      },
+      "artists": [
+        {
+          "name": "Jack River",
+          "url": "https://open.spotify.com/artist/4xrDCETyApzUQ6xzcc6QtS"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196614,
+      "name": "Borderline",
+      "url": "https://open.spotify.com/track/5Qj3cEnp9XuBFdVGmnHmZF"
     },
     {
       "album": {
@@ -16146,7 +16200,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 182582,
       "name": "new trick",
       "url": "https://open.spotify.com/track/5GKBPdWbW4RQtx9VkQ6xKO"
@@ -17572,7 +17626,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 201331,
       "name": "Party",
       "url": "https://open.spotify.com/track/0zbf6dj8GkCdYRRRph7ELk"
@@ -21714,7 +21768,7 @@
       ],
       "date_added": "2026-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 187265,
       "name": "Summer You Were Mine",
       "url": "https://open.spotify.com/track/6B9XMxOKopfYkBKwA8cPtb"

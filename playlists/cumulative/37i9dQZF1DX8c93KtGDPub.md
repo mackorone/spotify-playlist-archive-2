@@ -4,7 +4,7 @@
 
 > Play these festive songs upon a winter's night, and have yourself a folksy little Christmas now\. Cover: She & Him
 
-297 songs - 17 hr 18 min
+298 songs - 17 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,6 +183,7 @@
 | [O Come O Come Emmanuel](https://open.spotify.com/track/4YIoQTJDBXAc7r8rDxUi50) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Tracks In the Snow](https://open.spotify.com/album/28Fqt02jcDyoi6EfOMy8kQ) | 3:38 | 2021-12-24 |  |
 | [O Come O Come Emmanuel](https://open.spotify.com/track/5K4NYwDJTh0WVBgc5fxyYK) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Tracks in the Snow](https://open.spotify.com/album/2b2J83VmJmpvKX9TEPDKa9) | 3:38 | 2021-12-24 | 2024-04-19 |
 | [O Come, O Come, Emmanuel](https://open.spotify.com/track/3kVnoW7oDuuovp1SyMj9Kb) | [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4) | [Holidays Rule](https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ) | 4:04 | 2021-12-24 |  |
+| [O Holy Night](https://open.spotify.com/track/6vJUwqQM5bTG7BJXMunphX) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [O Holy Night](https://open.spotify.com/album/797ONWrPEHNh4qO2Wd4GX5) | 3:17 | 2026-11-13 |  |
 | [O Holy Night](https://open.spotify.com/track/0NI13AjDx03bIKUG4pWW7f) | [Roses & Revolutions](https://open.spotify.com/artist/1EQiPk32D03HxHmExyCg9l) | [O Holy Night](https://open.spotify.com/album/6jMJTRRrt71X3uJZ98MT9h) | 3:39 | 2021-12-24 | 2023-10-30 |
 | [O Holy Night](https://open.spotify.com/track/54AYl95uqv3p1uiT7q1uLQ) | [Roses & Revolutions](https://open.spotify.com/artist/1EQiPk32D03HxHmExyCg9l) | [O Holy Night](https://open.spotify.com/album/69t87Nw2V9kqKLn5haGDPI) | 3:39 | 2021-12-24 |  |
 | [O Holy Night](https://open.spotify.com/track/7hWs7SHdvZQVtEyWBha5QG) | [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [O Holy Night](https://open.spotify.com/album/0xj9dGod1YUIMOgYHto1nU) | 2:35 | 2021-12-24 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Los Dos Carnales. The essential tracks, all in one playlist.",
-  "num_followers": 355761,
+  "num_followers": 355768,
   "original_name": "This Is Los Dos Carnales",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avENAAAAAAB0rHesSbHyBiC50gPpfCTj",
+  "snapshot_id": "avOwAAAAAAC/jAn+LLVe6BRHn5XtdUln",
   "tracks": [
     {
       "added_at": null,
@@ -455,6 +455,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Al Estilo Rancheron",
+        "url": "https://open.spotify.com/album/7jomGVik8nyxBGpIMSCnRd"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 202327,
+      "name": "El Corrido de Panchito",
+      "url": "https://open.spotify.com/track/5X1fOMurUPOobZJj95NDef"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mis Manos",
         "url": "https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 200945,
       "name": "Tuyo y M\u00edo",
       "url": "https://open.spotify.com/track/4msyEItsAavVb5pZYCuz4n"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Al Estilo Rancheron",
-        "url": "https://open.spotify.com/album/7jomGVik8nyxBGpIMSCnRd"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 202327,
-      "name": "El Corrido de Panchito",
-      "url": "https://open.spotify.com/track/5X1fOMurUPOobZJj95NDef"
     },
     {
       "added_at": null,
@@ -615,26 +615,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yo Nac\u00ed Pa' Ser Jefe",
-        "url": "https://open.spotify.com/album/7q7BpDLt0lsEQIv6MyGqsa"
+        "name": "Corridos Pa' la Historia",
+        "url": "https://open.spotify.com/album/325vQ2EMFZ2pHMMq96xHqh"
       },
       "artists": [
         {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        },
-        {
           "name": "Los Dos Carnales",
           "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        },
-        {
-          "name": "GERARDO DIAZ Y SU GERARQUIA",
-          "url": "https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp"
         }
       ],
-      "duration_ms": 168553,
-      "name": "Yo Nac\u00ed Pa' Ser Jefe",
-      "url": "https://open.spotify.com/track/7p4N0DpozMSO7InGOGLO4x"
+      "duration_ms": 205818,
+      "name": "Al Mill\u00f3n",
+      "url": "https://open.spotify.com/track/2Ns7P7Sa50RHUQ2eyTcQPt"
     },
     {
       "added_at": null,
@@ -659,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos Pa' la Historia",
-        "url": "https://open.spotify.com/album/325vQ2EMFZ2pHMMq96xHqh"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 205818,
-      "name": "Al Mill\u00f3n",
-      "url": "https://open.spotify.com/track/2Ns7P7Sa50RHUQ2eyTcQPt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Claro y Recio",
         "url": "https://open.spotify.com/album/64kBABukozvsMCIJlr17BH"
       },
@@ -695,6 +671,30 @@
       "duration_ms": 165820,
       "name": "\u2060Claro y Recio",
       "url": "https://open.spotify.com/track/2dkH0M3yNXMws83joTlFxL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Yo Nac\u00ed Pa' Ser Jefe",
+        "url": "https://open.spotify.com/album/7q7BpDLt0lsEQIv6MyGqsa"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        },
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        },
+        {
+          "name": "GERARDO DIAZ Y SU GERARQUIA",
+          "url": "https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp"
+        }
+      ],
+      "duration_ms": 168553,
+      "name": "Yo Nac\u00ed Pa' Ser Jefe",
+      "url": "https://open.spotify.com/track/7p4N0DpozMSO7InGOGLO4x"
     },
     {
       "added_at": null,
@@ -799,8 +799,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boleros Placosos",
-        "url": "https://open.spotify.com/album/6dqyuo713dNGjuRf78SjUZ"
+        "name": "Termino Con Lo Nuestro",
+        "url": "https://open.spotify.com/album/7eGdxYcXh1DlmUV2hsDCk6"
       },
       "artists": [
         {
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         }
       ],
-      "duration_ms": 150225,
-      "name": "Todo Fine",
-      "url": "https://open.spotify.com/track/4ceRhPSK8XXsL2do0cyyyK"
+      "duration_ms": 217409,
+      "name": "Termino Con Lo Nuestro",
+      "url": "https://open.spotify.com/track/5bT0SVMNlrqJmG9QlBjxOw"
     },
     {
       "added_at": null,
@@ -831,8 +831,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Termino Con Lo Nuestro",
-        "url": "https://open.spotify.com/album/7eGdxYcXh1DlmUV2hsDCk6"
+        "name": "Boleros Placosos",
+        "url": "https://open.spotify.com/album/6dqyuo713dNGjuRf78SjUZ"
       },
       "artists": [
         {
@@ -840,9 +840,9 @@
           "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         }
       ],
-      "duration_ms": 217409,
-      "name": "Termino Con Lo Nuestro",
-      "url": "https://open.spotify.com/track/5bT0SVMNlrqJmG9QlBjxOw"
+      "duration_ms": 150225,
+      "name": "Todo Fine",
+      "url": "https://open.spotify.com/track/4ceRhPSK8XXsL2do0cyyyK"
     },
     {
       "added_at": null,

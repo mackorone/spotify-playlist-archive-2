@@ -70,10 +70,28 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 240573,
       "name": "Akatsuki no Requiem",
       "url": "https://open.spotify.com/track/2vH8JFJKfkAgZs1GFlOzGh"
+    },
+    {
+      "album": {
+        "name": "Shingeki no Kioku",
+        "url": "https://open.spotify.com/album/6zWhLRGx9cQ67CQqAKOXKd"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244023,
+      "name": "Akatsuki no Requiem",
+      "url": "https://open.spotify.com/track/5YjpokCFOY0vk0NldTEhpY"
     },
     {
       "album": {
@@ -240,6 +258,24 @@
     {
       "album": {
         "name": "Shingeki no Kiseki",
+        "url": "https://open.spotify.com/album/4YsgCmHIRwFV6n0gT6vhGh"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139173,
+      "name": "Kami no Miwaza",
+      "url": "https://open.spotify.com/track/6wv7PuR3zmZOhRlXC8uVH0"
+    },
+    {
+      "album": {
+        "name": "Shingeki no Kiseki",
         "url": "https://open.spotify.com/album/24pr7CLiiJk8rUsXcocSA4"
       },
       "artists": [
@@ -293,6 +329,24 @@
     },
     {
       "album": {
+        "name": "Shingeki no Kioku",
+        "url": "https://open.spotify.com/album/6zWhLRGx9cQ67CQqAKOXKd"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279095,
+      "name": "Nisennen... Moshiku wa... Nimannen Go no Kimi e",
+      "url": "https://open.spotify.com/track/5seGEgJaETjGClu9VAzaUL"
+    },
+    {
+      "album": {
         "name": "Nisennen... Moshiku wa... Nimannen Go no Kimi e",
         "url": "https://open.spotify.com/album/1jx7pZycE5duql9z0qJNDv"
       },
@@ -304,7 +358,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 284784,
       "name": "Nisennen... Moshiku wa... Nimannen Go no Kimi e",
       "url": "https://open.spotify.com/track/4KYO2hnz2vWH0JHJuWypAf"
@@ -394,7 +448,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 90090,
       "name": "Shokei to Shikabane no Michi - TV Size",
       "url": "https://open.spotify.com/track/0q8WLWTRdN7XcNCoZIxCu9"
@@ -416,6 +470,24 @@
       "duration_ms": 276176,
       "name": "Shoukei to Shikabane no Michi",
       "url": "https://open.spotify.com/track/7lcTpZtdTyfiIgVIpmTVut"
+    },
+    {
+      "album": {
+        "name": "Shingeki no Kioku",
+        "url": "https://open.spotify.com/album/6zWhLRGx9cQ67CQqAKOXKd"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278553,
+      "name": "Shoukei to Shikabane no Michi",
+      "url": "https://open.spotify.com/track/2BU84sWZp3DAkeiJUN25aD"
     },
     {
       "album": {

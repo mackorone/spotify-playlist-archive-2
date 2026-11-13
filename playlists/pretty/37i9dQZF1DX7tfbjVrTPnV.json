@@ -1,6 +1,6 @@
 {
   "description": "New and classic releases from Americana stalwarts. Cover: Wynonna",
-  "num_followers": 241327,
+  "num_followers": 241343,
   "original_name": "Americana Icons",
   "owner": {
     "name": "Spotify",
@@ -715,22 +715,6 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
-        "name": "Mortal City",
-        "url": "https://open.spotify.com/album/6EVUAMSaUKG6mxVQcWDdJG"
-      },
-      "artists": [
-        {
-          "name": "Dar Williams",
-          "url": "https://open.spotify.com/artist/4Aarr7f0itQ2WFmmiPcriK"
-        }
-      ],
-      "duration_ms": 287933,
-      "name": "Iowa (Traveling, Pt. 3)",
-      "url": "https://open.spotify.com/track/1DPu4VZvRagYKnkDtn4FbU"
-    },
-    {
-      "added_at": "2026-10-02 04:01:37",
-      "album": {
         "name": "Mountains Of Sorrow, Rivers Of Song (Deluxe)",
         "url": "https://open.spotify.com/album/7mmqWjgDqup34v4bVcTHTx"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 255533,
       "name": "Johnson Blvd",
       "url": "https://open.spotify.com/track/7yVaOoJkOA6Ds8nL9KFDAe"
+    },
+    {
+      "added_at": "2026-10-02 04:01:37",
+      "album": {
+        "name": "Mortal City",
+        "url": "https://open.spotify.com/album/6EVUAMSaUKG6mxVQcWDdJG"
+      },
+      "artists": [
+        {
+          "name": "Dar Williams",
+          "url": "https://open.spotify.com/artist/4Aarr7f0itQ2WFmmiPcriK"
+        }
+      ],
+      "duration_ms": 287933,
+      "name": "Iowa (Traveling, Pt. 3)",
+      "url": "https://open.spotify.com/track/1DPu4VZvRagYKnkDtn4FbU"
     },
     {
       "added_at": "2026-10-02 04:01:37",
@@ -1007,38 +1007,6 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
-        "name": "Alcohol and Adderall",
-        "url": "https://open.spotify.com/album/2ZYFTm2ZvEW1vf66QDc08e"
-      },
-      "artists": [
-        {
-          "name": "Mary Gauthier",
-          "url": "https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS"
-        }
-      ],
-      "duration_ms": 212997,
-      "name": "Alcohol and Adderall",
-      "url": "https://open.spotify.com/track/1ineO3ALPgtWDX9Gt5z5Sc"
-    },
-    {
-      "added_at": "2026-10-02 04:01:37",
-      "album": {
-        "name": "Heartaches & Highways: The Very Best of Emmylou Harris",
-        "url": "https://open.spotify.com/album/2Pd49KeT8aphj7hfBLxcuf"
-      },
-      "artists": [
-        {
-          "name": "Emmylou Harris",
-          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
-        }
-      ],
-      "duration_ms": 213026,
-      "name": "Boulder to Birmingham - 2003 Remaster",
-      "url": "https://open.spotify.com/track/3PAnJueYX2pM8Ig0xSnkbI"
-    },
-    {
-      "added_at": "2026-10-02 04:01:37",
-      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/0HWcZDc3l4PrjpoKA8JDcf"
       },
@@ -1055,18 +1023,18 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
-        "name": "Am I Missing Out",
-        "url": "https://open.spotify.com/album/2TxgtKxNOBZTQiDTk4FaqA"
+        "name": "Heartaches & Highways: The Very Best of Emmylou Harris",
+        "url": "https://open.spotify.com/album/2Pd49KeT8aphj7hfBLxcuf"
       },
       "artists": [
         {
-          "name": "Wynonna",
-          "url": "https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1"
+          "name": "Emmylou Harris",
+          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
         }
       ],
-      "duration_ms": 246858,
-      "name": "Am I Missing Out",
-      "url": "https://open.spotify.com/track/0V3gAuAWrV0X4c510cATjZ"
+      "duration_ms": 213026,
+      "name": "Boulder to Birmingham - 2003 Remaster",
+      "url": "https://open.spotify.com/track/3PAnJueYX2pM8Ig0xSnkbI"
     },
     {
       "added_at": "2026-10-02 04:01:37",
@@ -1091,6 +1059,22 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
+        "name": "Alcohol and Adderall",
+        "url": "https://open.spotify.com/album/2ZYFTm2ZvEW1vf66QDc08e"
+      },
+      "artists": [
+        {
+          "name": "Mary Gauthier",
+          "url": "https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS"
+        }
+      ],
+      "duration_ms": 212997,
+      "name": "Alcohol and Adderall",
+      "url": "https://open.spotify.com/track/1ineO3ALPgtWDX9Gt5z5Sc"
+    },
+    {
+      "added_at": "2026-10-02 04:01:37",
+      "album": {
         "name": "I Am Shelby Lynne (25th Anniversary Edition)",
         "url": "https://open.spotify.com/album/73PlmZa9hwjzFEmQgy0WLi"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 219306,
       "name": "Gotta Get Back",
       "url": "https://open.spotify.com/track/0nRjKEtUgbkooWRkMX0fCL"
+    },
+    {
+      "added_at": "2026-10-02 04:01:37",
+      "album": {
+        "name": "Am I Missing Out",
+        "url": "https://open.spotify.com/album/2TxgtKxNOBZTQiDTk4FaqA"
+      },
+      "artists": [
+        {
+          "name": "Wynonna",
+          "url": "https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1"
+        }
+      ],
+      "duration_ms": 246858,
+      "name": "Am I Missing Out",
+      "url": "https://open.spotify.com/track/0V3gAuAWrV0X4c510cATjZ"
     },
     {
       "added_at": "2026-10-02 04:01:37",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
-        "name": "Paint This Town",
-        "url": "https://open.spotify.com/album/5K3qVf67xePI7R4g3jJ5gw"
-      },
-      "artists": [
-        {
-          "name": "Old Crow Medicine Show",
-          "url": "https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi"
-        }
-      ],
-      "duration_ms": 237826,
-      "name": "Paint This Town",
-      "url": "https://open.spotify.com/track/0gdM5F5lfan6F7gPffEYwJ"
-    },
-    {
-      "added_at": "2026-10-02 04:01:37",
-      "album": {
         "name": "The Essential Guy Clark",
         "url": "https://open.spotify.com/album/7slkWwrXUKHhuJAeaOKB4Y"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 272866,
       "name": "Desperados Waiting For A Train",
       "url": "https://open.spotify.com/track/2Q3KJw8ibHDsvuNQQmeg8Q"
+    },
+    {
+      "added_at": "2026-10-02 04:01:37",
+      "album": {
+        "name": "Paint This Town",
+        "url": "https://open.spotify.com/album/5K3qVf67xePI7R4g3jJ5gw"
+      },
+      "artists": [
+        {
+          "name": "Old Crow Medicine Show",
+          "url": "https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi"
+        }
+      ],
+      "duration_ms": 237826,
+      "name": "Paint This Town",
+      "url": "https://open.spotify.com/track/0gdM5F5lfan6F7gPffEYwJ"
     },
     {
       "added_at": "2026-10-02 04:01:37",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
-        "name": "The Me That Remains",
-        "url": "https://open.spotify.com/album/40Q1PUv4aWPsxGJTvlKHx4"
-      },
-      "artists": [
-        {
-          "name": "Amy Grant",
-          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        }
-      ],
-      "duration_ms": 275346,
-      "name": "Please Don't Make Me Beg",
-      "url": "https://open.spotify.com/track/5wThXI0ZSi2wj5M1lCGNmL"
-    },
-    {
-      "added_at": "2026-10-02 04:01:37",
-      "album": {
         "name": "Too Blessed to Be Stressed",
         "url": "https://open.spotify.com/album/5ijCn137sHy33W2TvoOM0p"
       },
@@ -1331,6 +1315,38 @@
       "duration_ms": 170480,
       "name": "Brothers",
       "url": "https://open.spotify.com/track/6dRdARjCg2Jng4huHZKsP9"
+    },
+    {
+      "added_at": "2026-10-02 04:01:37",
+      "album": {
+        "name": "The Me That Remains",
+        "url": "https://open.spotify.com/album/40Q1PUv4aWPsxGJTvlKHx4"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "duration_ms": 275346,
+      "name": "Please Don't Make Me Beg",
+      "url": "https://open.spotify.com/track/5wThXI0ZSi2wj5M1lCGNmL"
+    },
+    {
+      "added_at": "2026-10-02 04:01:37",
+      "album": {
+        "name": "Patty Griffin",
+        "url": "https://open.spotify.com/album/3ZbfpLDN1yP3JYlqb7K6w0"
+      },
+      "artists": [
+        {
+          "name": "Patty Griffin",
+          "url": "https://open.spotify.com/artist/7tNLRmiAN8hpmFrbIHiHsy"
+        }
+      ],
+      "duration_ms": 284030,
+      "name": "Where I Come From",
+      "url": "https://open.spotify.com/track/6JKQ5URj6dRJ4I1YCiMCEs"
     },
     {
       "added_at": "2026-10-02 04:01:37",
@@ -1367,22 +1383,6 @@
       "duration_ms": 176232,
       "name": "Letting People Down",
       "url": "https://open.spotify.com/track/2pFFjOgqqpNEVSi9ks7xyo"
-    },
-    {
-      "added_at": "2026-10-02 04:01:37",
-      "album": {
-        "name": "Patty Griffin",
-        "url": "https://open.spotify.com/album/3ZbfpLDN1yP3JYlqb7K6w0"
-      },
-      "artists": [
-        {
-          "name": "Patty Griffin",
-          "url": "https://open.spotify.com/artist/7tNLRmiAN8hpmFrbIHiHsy"
-        }
-      ],
-      "duration_ms": 284030,
-      "name": "Where I Come From",
-      "url": "https://open.spotify.com/track/6JKQ5URj6dRJ4I1YCiMCEs"
     },
     {
       "added_at": "2026-10-02 04:01:37",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
-        "name": "Mr. Lincoln",
-        "url": "https://open.spotify.com/album/2up9A6KpO33X2CKMeD7ROE"
-      },
-      "artists": [
-        {
-          "name": "The Jayhawks",
-          "url": "https://open.spotify.com/artist/2UDplVRprMbazU74Hq8OLl"
-        }
-      ],
-      "duration_ms": 196333,
-      "name": "Mr. Lincoln",
-      "url": "https://open.spotify.com/track/1jvrIYoQ6E8qqnZnVBRc7r"
-    },
-    {
-      "added_at": "2026-10-02 04:01:37",
-      "album": {
         "name": "Healing Tide",
         "url": "https://open.spotify.com/album/06UpUVi6uLrcg2kjlQoE5Q"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 260333,
       "name": "Here is Where the Loving is at (feat. Emmylou Harris)",
       "url": "https://open.spotify.com/track/6LfKYnjQqTgB6UwxHtnIxO"
+    },
+    {
+      "added_at": "2026-10-02 04:01:37",
+      "album": {
+        "name": "Mr. Lincoln",
+        "url": "https://open.spotify.com/album/2up9A6KpO33X2CKMeD7ROE"
+      },
+      "artists": [
+        {
+          "name": "The Jayhawks",
+          "url": "https://open.spotify.com/artist/2UDplVRprMbazU74Hq8OLl"
+        }
+      ],
+      "duration_ms": 196333,
+      "name": "Mr. Lincoln",
+      "url": "https://open.spotify.com/track/1jvrIYoQ6E8qqnZnVBRc7r"
     },
     {
       "added_at": "2026-10-02 04:01:37",
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
-        "name": "Airline Highway (Deluxe)",
-        "url": "https://open.spotify.com/album/4PwmqWnZbr5wVbhuxJ6YcE"
-      },
-      "artists": [
-        {
-          "name": "Rodney Crowell",
-          "url": "https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY"
-        }
-      ],
-      "duration_ms": 236920,
-      "name": "When You\u2019re With Him - Bonus Track",
-      "url": "https://open.spotify.com/track/5P6wdjFHzphvxfP3VB8w1N"
-    },
-    {
-      "added_at": "2026-10-02 04:01:37",
-      "album": {
         "name": "Electro Melodier",
         "url": "https://open.spotify.com/album/4nqWF9eOdxiyRevgezK8QS"
       },
@@ -1763,6 +1747,22 @@
       "duration_ms": 215570,
       "name": "Reverie",
       "url": "https://open.spotify.com/track/3h3OQ1X6pe0Z78j37RsPF9"
+    },
+    {
+      "added_at": "2026-10-02 04:01:37",
+      "album": {
+        "name": "Airline Highway (Deluxe)",
+        "url": "https://open.spotify.com/album/4PwmqWnZbr5wVbhuxJ6YcE"
+      },
+      "artists": [
+        {
+          "name": "Rodney Crowell",
+          "url": "https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY"
+        }
+      ],
+      "duration_ms": 236920,
+      "name": "When You\u2019re With Him - Bonus Track",
+      "url": "https://open.spotify.com/track/5P6wdjFHzphvxfP3VB8w1N"
     },
     {
       "added_at": "2026-10-02 04:01:37",
@@ -2151,6 +2151,22 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
+        "name": "Nightshift",
+        "url": "https://open.spotify.com/album/5H9p3AIho3KHIrvr8EbKIc"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 296906,
+      "name": "Nightshift",
+      "url": "https://open.spotify.com/track/5f25QtKgXtaNcbZOCmVFUL"
+    },
+    {
+      "added_at": "2026-10-02 04:01:37",
+      "album": {
         "name": "In Spite of Ourselves",
         "url": "https://open.spotify.com/album/2t6hK5ERtgjbHXVgHlpqJ5"
       },
@@ -2167,22 +2183,6 @@
       "duration_ms": 213600,
       "name": "In Spite of Ourselves (feat. Iris DeMent)",
       "url": "https://open.spotify.com/track/1k691v8ChLgDiuLLKnjyj6"
-    },
-    {
-      "added_at": "2026-10-02 04:01:37",
-      "album": {
-        "name": "Nightshift",
-        "url": "https://open.spotify.com/album/5H9p3AIho3KHIrvr8EbKIc"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 296906,
-      "name": "Nightshift",
-      "url": "https://open.spotify.com/track/5f25QtKgXtaNcbZOCmVFUL"
     },
     {
       "added_at": "2026-10-02 04:01:37",
@@ -2235,22 +2235,6 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
-        "name": "The Tree of Forgiveness",
-        "url": "https://open.spotify.com/album/13UwfQZqne7ZQIkUZsAPLg"
-      },
-      "artists": [
-        {
-          "name": "John Prine",
-          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
-        }
-      ],
-      "duration_ms": 209047,
-      "name": "Summer's End",
-      "url": "https://open.spotify.com/track/511dXUrzAfeivY8f0LUMZd"
-    },
-    {
-      "added_at": "2026-10-02 04:01:37",
-      "album": {
         "name": "Tapestry (Legacy Edition)",
         "url": "https://open.spotify.com/album/7kLLC7CN8oxt0HgP2a051K"
       },
@@ -2263,6 +2247,22 @@
       "duration_ms": 178560,
       "name": "I Feel the Earth Move",
       "url": "https://open.spotify.com/track/7onOpypcFWFc2YjMIcJnx9"
+    },
+    {
+      "added_at": "2026-10-02 04:01:37",
+      "album": {
+        "name": "The Tree of Forgiveness",
+        "url": "https://open.spotify.com/album/13UwfQZqne7ZQIkUZsAPLg"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        }
+      ],
+      "duration_ms": 209047,
+      "name": "Summer's End",
+      "url": "https://open.spotify.com/track/511dXUrzAfeivY8f0LUMZd"
     },
     {
       "added_at": "2026-10-02 04:01:37",

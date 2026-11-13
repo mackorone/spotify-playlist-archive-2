@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJ8OyVOVcvG.md) - [plain]
 
 > Piesele potrivite pentru zilele și nopțile tale chill de toamnă
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,774 likes - 60 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,773 likes - 60 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJ8OyVOVcvG.md) - [plain]
 | 7 | [Too Cute To Be Lonely](https://open.spotify.com/track/5iZbOxJZ2Rmo2ECMXRHU9a) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Too Cute To Be Lonely](https://open.spotify.com/album/7wlMyVNmOTncgwr0SCifSY) | 3:16 |
 | 8 | [Oare m\-ai iubi](https://open.spotify.com/track/5Iey9mQJs232fg3omEnaji) | [Irina Rimes](https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj), [The Motans](https://open.spotify.com/artist/05qpk4JDcLSFNJSsPIZ8Ye) | [Oare m\-ai iubi](https://open.spotify.com/album/4kScXIGavj94pfal8ZuN8e) | 2:52 |
 | 9 | [You Stole The Show](https://open.spotify.com/track/23ZdNaFSfH7VdSVU4U0Agb) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [You Stole The Show](https://open.spotify.com/album/1K7SMm8IvVx0hT40q1tfTh) | 3:27 |
-| 10 | [Risk It All](https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [The Romantic](https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1) | 3:24 |
+| 10 | [WILDFLOWER](https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 4:21 |
 | 11 | [End of August](https://open.spotify.com/track/5LlExBVApHgxWQf6BbsCwo) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide: The Last Of The Bugs](https://open.spotify.com/album/0TSynllAnze7KMhv6J7W18) | 5:17 |
 | 12 | [Funeral](https://open.spotify.com/track/6LdPN8UPj0Ne9Reg6XkDyO) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Funeral](https://open.spotify.com/album/2VHfWdrPP2EgETjiaGBIY6) | 3:32 |
 | 13 | [Stain](https://open.spotify.com/track/3LCFq7wySSi3ePmHV49bvp) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Chuck Timely & The Hourglass](https://open.spotify.com/album/7fZFja60WuvgF48NW1au0R) | 3:16 |
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJ8OyVOVcvG.md) - [plain]
 | 15 | [Noaptea](https://open.spotify.com/track/3oXWlk7N7M6pOq2BkMBUZc) | [EMAA](https://open.spotify.com/artist/4j4xD0oanPaJMB0BVqsRGE) | [Noaptea](https://open.spotify.com/album/0UmWqIkPaJp3vmURbUY45n) | 2:46 |
 | 16 | [Eu nu știu](https://open.spotify.com/track/35Et0fxBNYM8Pm9XzsRbef) | [ALECSA](https://open.spotify.com/artist/0Sxd0dl7ArFSCa4Ay0MbuP), [Criss Blaziny](https://open.spotify.com/artist/5FhmWWRpvTGJweL2wklh1e) | [Eu nu știu](https://open.spotify.com/album/6L11U5rlfnsQJRl14Iqnzy) | 2:53 |
 | 17 | [Sauvignon Blanc](https://open.spotify.com/track/10uxlzuPGekUTay2ZpZ4pR) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [LUX](https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY) | 2:42 |
-| 18 | [WILDFLOWER](https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 4:21 |
+| 18 | [Risk It All](https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [The Romantic](https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1) | 3:24 |
 | 19 | [9 2 5](https://open.spotify.com/track/4bEqzeg29i93cxH11D8Fan) | [Francis On My Mind](https://open.spotify.com/artist/6GdAYfQVlByh3CUmlMsswc) | [Ars Valendi](https://open.spotify.com/album/5LxbIjaNQZvvtWUFj2GOrh) | 2:46 |
 | 20 | [I'm Sorry](https://open.spotify.com/track/5iBXKI4n7OdjdAL057Ljad) | [Silvia Tache](https://open.spotify.com/artist/1lIt10eXYGaJpIovEYnEQ5) | [I'm Sorry](https://open.spotify.com/album/61lqVCn8wsaibnOUOBLA5B) | 3:08 |
 | 21 | [Sienna](https://open.spotify.com/track/0InIeZW4P6VO7dUGRM4AKH) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:44 |

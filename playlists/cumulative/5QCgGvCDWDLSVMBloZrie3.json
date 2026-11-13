@@ -2567,6 +2567,28 @@
     },
     {
       "album": {
+        "name": "The Hunger Games: Sunrise on the Reaping - The Album",
+        "url": "https://open.spotify.com/album/1XVsmx5SwHTXEowtD5T22L"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        },
+        {
+          "name": "The Hunger Games",
+          "url": "https://open.spotify.com/artist/6UdECsev3yuXe2rfLrdDiF"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255984,
+      "name": "Draw You Out",
+      "url": "https://open.spotify.com/track/1T8ZY7TjzPMzPfafT0wojv"
+    },
+    {
+      "album": {
         "name": "Rumours (Super Deluxe)",
         "url": "https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu"
       },

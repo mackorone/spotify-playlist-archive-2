@@ -3980,7 +3980,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 204985,
       "name": "Don\u2019t You Want Some More",
       "url": "https://open.spotify.com/track/1eL4xdRvaKqJ3DITmie69m"
@@ -4590,6 +4590,24 @@
       "duration_ms": 332459,
       "name": "Eyes For You (Migs Retro Vault Remix)",
       "url": "https://open.spotify.com/track/3Fv2vkIbt37OhpTLbwqVZS"
+    },
+    {
+      "album": {
+        "name": "Eyes Wide Open EP",
+        "url": "https://open.spotify.com/album/5J2m8mZcAhi46eg5SWmfkL"
+      },
+      "artists": [
+        {
+          "name": "Toman",
+          "url": "https://open.spotify.com/artist/7A0eeETj5gjPjvXLnskbfG"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Eyes Wide Open",
+      "url": "https://open.spotify.com/track/1OntqmtjPhdT6d9Q942M0V"
     },
     {
       "album": {
@@ -6486,7 +6504,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 195935,
       "name": "Have a Good Time",
       "url": "https://open.spotify.com/track/2vIEBETfRHbUdjCqZtT4mk"
@@ -10857,6 +10875,24 @@
     },
     {
       "album": {
+        "name": "Need I Say More EP",
+        "url": "https://open.spotify.com/album/2jINNmtmZuJsgjN9QUsO1s"
+      },
+      "artists": [
+        {
+          "name": "Joey Daniel",
+          "url": "https://open.spotify.com/artist/5X3u1LutYUOLTFDpAun1px"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Move Around",
+      "url": "https://open.spotify.com/track/2XTUMvTZrHBQDYBaaOa831"
+    },
+    {
+      "album": {
         "name": "Move On Up",
         "url": "https://open.spotify.com/album/0Y036kJi773Vx3ibIsAehS"
       },
@@ -12542,7 +12578,7 @@
       ],
       "date_added": "2026-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 329280,
       "name": "Power",
       "url": "https://open.spotify.com/track/4SICnBUBUgDS6zUsfgMGWX"
@@ -15864,6 +15900,32 @@
       "duration_ms": 219375,
       "name": "Tell You What It Is - Shermanology SoulTec Mix",
       "url": "https://open.spotify.com/track/0hb2n69F0yHdBfvMOuRs13"
+    },
+    {
+      "album": {
+        "name": "Tell You Why",
+        "url": "https://open.spotify.com/album/3QA9mQkH5gjHjEe0XKx2cq"
+      },
+      "artists": [
+        {
+          "name": "Mason Collective",
+          "url": "https://open.spotify.com/artist/5v1K4IgzvVs7rFzessYPhS"
+        },
+        {
+          "name": "VLAD",
+          "url": "https://open.spotify.com/artist/1EIO8S6whyykFRs6kqBhHj"
+        },
+        {
+          "name": "Route 94",
+          "url": "https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153364,
+      "name": "Tell You Why",
+      "url": "https://open.spotify.com/track/00yg4F2H3joRtA2ptT3fwI"
     },
     {
       "album": {

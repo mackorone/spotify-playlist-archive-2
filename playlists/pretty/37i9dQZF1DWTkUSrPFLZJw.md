@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkUSrPFLZJw.md) - [plain]
 
 > atopa risers
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,868 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,882 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkUSrPFLZJw.md) - [plain]
 | 42 | [Wonda Boy](https://open.spotify.com/track/6qY996418IU4NbyI0ibC8U) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Wonda Boy](https://open.spotify.com/album/5l2xTNnn4n0UxyFJvbViQP) | 2:54 |
 | 43 | [Stranger](https://open.spotify.com/track/242WBNiAmAI4iF41XEr4Vx) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Sweet Boy](https://open.spotify.com/album/5bemAcOU06NptwvjYE3lLs) | 2:55 |
 | 44 | [SWAGGA](https://open.spotify.com/track/3TGKQazDOeJyub3Bg7Te7K) | [SSSoundGawd](https://open.spotify.com/artist/3rCVow8RScBBIyrdceDOiw) | [SWAGGA](https://open.spotify.com/album/2ait40lrJyFVOkV4tABe80) | 2:36 |
-| 45 | [IDK \(with Sarkodie\)](https://open.spotify.com/track/1GHsOfL6Sx8NxKHSEbpVpr) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Where Do We Go From Here](https://open.spotify.com/album/0amZp5xPOzIaq0LqhhP5xD) | 2:23 |
-| 46 | [High](https://open.spotify.com/track/7l8VNas2HcqyvsvOSjXDQt) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [High](https://open.spotify.com/album/1aGAwIFTyyw5YlbspR0mq9) | 3:13 |
+| 45 | [High](https://open.spotify.com/track/7l8VNas2HcqyvsvOSjXDQt) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [High](https://open.spotify.com/album/1aGAwIFTyyw5YlbspR0mq9) | 3:13 |
+| 46 | [IDK \(with Sarkodie\)](https://open.spotify.com/track/1GHsOfL6Sx8NxKHSEbpVpr) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Where Do We Go From Here](https://open.spotify.com/album/0amZp5xPOzIaq0LqhhP5xD) | 2:23 |
 | 47 | [Down Flat](https://open.spotify.com/track/0eqmxkeJHQs3mdOEFluYXB) | [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy) | [Down Flat](https://open.spotify.com/album/6eeaFgahrUj7bPRyLkPuAV) | 2:52 |
 | 48 | [Bad Boy](https://open.spotify.com/track/2Yi3XIg9MQAwAlTDCoSumI) | [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Bad Boy](https://open.spotify.com/album/1292tIVpPTJimKAqIOQZlP) | 3:12 |
 | 49 | [Catching Glory](https://open.spotify.com/track/7aTLWKCUqDv6BPPdkww0x8) | [Lalid](https://open.spotify.com/artist/18eUnEkhFO7mnMNDURU1UV) | [Catching Glory](https://open.spotify.com/album/3HESFwZUTupThlVV2z1v6E) | 1:46 |

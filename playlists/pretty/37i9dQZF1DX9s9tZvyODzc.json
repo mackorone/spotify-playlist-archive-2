@@ -1,6 +1,6 @@
 {
   "description": "Dale play y dej\u00e1 que la m\u00fasica te lleve.",
-  "num_followers": 226946,
+  "num_followers": 226968,
   "original_name": "Ruta 2",
   "owner": {
     "name": "Spotify",
@@ -807,22 +807,6 @@
     {
       "added_at": "2026-11-05 21:27:56",
       "album": {
-        "name": "Piano Bar",
-        "url": "https://open.spotify.com/album/17utekM9a95MchXbkbh47k"
-      },
-      "artists": [
-        {
-          "name": "Charly Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
-        }
-      ],
-      "duration_ms": 135973,
-      "name": "Demoliendo Hoteles",
-      "url": "https://open.spotify.com/track/29iIRrSuANyjnwag69PHOJ"
-    },
-    {
-      "added_at": "2026-11-05 21:27:56",
-      "album": {
         "name": "El Calor Del Pleno Invierno",
         "url": "https://open.spotify.com/album/1rfWo44UYWqM3a99Vknlc3"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 185866,
       "name": "Ese Maldito Momento",
       "url": "https://open.spotify.com/track/6MuJUSYCqA4FpMogUHzb2R"
+    },
+    {
+      "added_at": "2026-11-05 21:27:56",
+      "album": {
+        "name": "Piano Bar",
+        "url": "https://open.spotify.com/album/17utekM9a95MchXbkbh47k"
+      },
+      "artists": [
+        {
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+        }
+      ],
+      "duration_ms": 135973,
+      "name": "Demoliendo Hoteles",
+      "url": "https://open.spotify.com/track/29iIRrSuANyjnwag69PHOJ"
     },
     {
       "added_at": "2026-11-05 21:27:56",
@@ -1443,26 +1443,6 @@
     {
       "added_at": "2026-11-05 21:27:56",
       "album": {
-        "name": "Campanas en la Noche",
-        "url": "https://open.spotify.com/album/28nGED6CTK0a1kcLrFhuXr"
-      },
-      "artists": [
-        {
-          "name": "Los Tipitos",
-          "url": "https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt"
-        },
-        {
-          "name": "No Te Va Gustar",
-          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
-        }
-      ],
-      "duration_ms": 250241,
-      "name": "Campanas en la Noche",
-      "url": "https://open.spotify.com/track/3YleanwcXBJFBujoBQcfxe"
-    },
-    {
-      "added_at": "2026-11-05 21:27:56",
-      "album": {
         "name": "ENCHASTRE",
         "url": "https://open.spotify.com/album/4tLVVo1gXMizHYINYC3FB7"
       },
@@ -1479,6 +1459,26 @@
       "duration_ms": 209133,
       "name": "AYER TE VI (feat. Zoe Gotusso)",
       "url": "https://open.spotify.com/track/7gfyrnHMieXMjIW4n2p5wf"
+    },
+    {
+      "added_at": "2026-11-05 21:27:56",
+      "album": {
+        "name": "Campanas en la Noche",
+        "url": "https://open.spotify.com/album/28nGED6CTK0a1kcLrFhuXr"
+      },
+      "artists": [
+        {
+          "name": "Los Tipitos",
+          "url": "https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt"
+        },
+        {
+          "name": "No Te Va Gustar",
+          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
+        }
+      ],
+      "duration_ms": 250241,
+      "name": "Campanas en la Noche",
+      "url": "https://open.spotify.com/track/3YleanwcXBJFBujoBQcfxe"
     },
     {
       "added_at": "2026-11-05 21:27:56",
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2026-11-05 21:27:56",
       "album": {
+        "name": "El Problema Del Amor",
+        "url": "https://open.spotify.com/album/4dPOxioDl5QyoOukaPtgDv"
+      },
+      "artists": [
+        {
+          "name": "Tan Bionica",
+          "url": "https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU"
+        }
+      ],
+      "duration_ms": 220240,
+      "name": "El Problema Del Amor",
+      "url": "https://open.spotify.com/track/7yWTrC2PBucZfyt8EJ3v17"
+    },
+    {
+      "added_at": "2026-11-05 21:27:56",
+      "album": {
         "name": "M\u00e9ritos Y Merecimientos",
         "url": "https://open.spotify.com/album/6ruWQDL06KMQJhCWA1ufXc"
       },
@@ -1607,22 +1623,6 @@
       "duration_ms": 220310,
       "name": "M\u00e9ritos Y Merecimientos",
       "url": "https://open.spotify.com/track/5Q8ZcIv6mysLIuTr2c43HT"
-    },
-    {
-      "added_at": "2026-11-05 21:27:56",
-      "album": {
-        "name": "El Problema Del Amor",
-        "url": "https://open.spotify.com/album/4dPOxioDl5QyoOukaPtgDv"
-      },
-      "artists": [
-        {
-          "name": "Tan Bionica",
-          "url": "https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU"
-        }
-      ],
-      "duration_ms": 220240,
-      "name": "El Problema Del Amor",
-      "url": "https://open.spotify.com/track/7yWTrC2PBucZfyt8EJ3v17"
     },
     {
       "added_at": "2026-11-05 21:27:56",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Rock, indie e punk dall'Italia \ud83c\udfb8 Materazi Future Club in cover",
+  "description": "Rock, indie e punk dall'Italia \ud83c\udfb8 La Rivoluzione Industriale e le sue Conseguenze in cover",
   "name": "Rock Italia",
   "tracks": [
     {
@@ -996,7 +996,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 187000,
       "name": "About to Burn",
       "url": "https://open.spotify.com/track/0tTBcZhbvChehezGIaVOU3"
@@ -1584,7 +1584,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 211829,
       "name": "Along With Gold",
       "url": "https://open.spotify.com/track/29eDpgjhAz9IgsF8rouwyE"
@@ -3342,7 +3342,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 182602,
       "name": "Batticuore",
       "url": "https://open.spotify.com/track/1sMFpkgaqYtmOgHjUxIcQ5"
@@ -3454,6 +3454,24 @@
       "duration_ms": 191925,
       "name": "Before The Fall",
       "url": "https://open.spotify.com/track/09p23iHIwwU43GLgqtRaZq"
+    },
+    {
+      "album": {
+        "name": "Believe It",
+        "url": "https://open.spotify.com/album/0FWYPsbN3vj3tqUzfw0Gxb"
+      },
+      "artists": [
+        {
+          "name": "The Manges",
+          "url": "https://open.spotify.com/artist/5Uop1XjzGUDG3t4uoWXooc"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112960,
+      "name": "Believe It Or Not",
+      "url": "https://open.spotify.com/track/0mEk4siMRcX5bun6TO3vnL"
     },
     {
       "album": {
@@ -8421,6 +8439,24 @@
     },
     {
       "album": {
+        "name": "Dear ghost",
+        "url": "https://open.spotify.com/album/1lOfTE8AaWOHAGqGZM8Mdh"
+      },
+      "artists": [
+        {
+          "name": "Moustache Prawn",
+          "url": "https://open.spotify.com/artist/5hj7vX3pcKC5Gofxadg2mI"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269633,
+      "name": "Dear ghost",
+      "url": "https://open.spotify.com/track/5bxXaEuekDbPoAMv8MWfgW"
+    },
+    {
+      "album": {
         "name": "December First",
         "url": "https://open.spotify.com/album/1Is0ZnET3HAroC7ee6z3j8"
       },
@@ -8728,6 +8764,24 @@
       "duration_ms": 232823,
       "name": "DIFFIDENZA",
       "url": "https://open.spotify.com/track/5LUmYeaE8VlFMM6dY6d2vQ"
+    },
+    {
+      "album": {
+        "name": "Dig",
+        "url": "https://open.spotify.com/album/01oUXJQQuPs04qb674HFKp"
+      },
+      "artists": [
+        {
+          "name": "LAGS",
+          "url": "https://open.spotify.com/artist/024sJGdafgBqXvIK0QTGoc"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271000,
+      "name": "Dig",
+      "url": "https://open.spotify.com/track/4Cp6ByzuIFAED5FlyILyfw"
     },
     {
       "album": {
@@ -9427,6 +9481,24 @@
     },
     {
       "album": {
+        "name": "Un filo d'erba nel muro",
+        "url": "https://open.spotify.com/album/5C8pDFxrmeBUk7iLwrzuBO"
+      },
+      "artists": [
+        {
+          "name": "Cristiano Godano",
+          "url": "https://open.spotify.com/artist/34OquEHqjEheCUbWltCgth"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273393,
+      "name": "Domani",
+      "url": "https://open.spotify.com/track/21p1Lxb6koA4leZj3WhJuK"
+    },
+    {
+      "album": {
         "name": "Domani",
         "url": "https://open.spotify.com/album/2o2o2XN4jwjzya8PusUVFE"
       },
@@ -10052,7 +10124,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 181789,
       "name": "Eclissi",
       "url": "https://open.spotify.com/track/62qANgsjv99kaMG0T6UqG9"
@@ -12191,6 +12263,24 @@
     },
     {
       "album": {
+        "name": "FOMOROMANZO",
+        "url": "https://open.spotify.com/album/044D8b5RVZAGg1sWbRrnHn"
+      },
+      "artists": [
+        {
+          "name": "Ibisco",
+          "url": "https://open.spotify.com/artist/048IEBDc0lctSV2QvGoH1G"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206880,
+      "name": "Fomoromanzo",
+      "url": "https://open.spotify.com/track/2sl5E2zDl5aOByMois444a"
+    },
+    {
+      "album": {
         "name": "Aquario",
         "url": "https://open.spotify.com/album/26FFs8bgJCy9cz87BhiUOh"
       },
@@ -13481,6 +13571,24 @@
     },
     {
       "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/140Fx394gRFhGJwwxT0zKF"
+      },
+      "artists": [
+        {
+          "name": "Envelope",
+          "url": "https://open.spotify.com/artist/692su3wp3EhhRlrpNUB0n1"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249742,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/5P3HvwF1t1t3CtLf4RSCpK"
+    },
+    {
+      "album": {
         "name": "Giacomo",
         "url": "https://open.spotify.com/album/4rCkIYBExjKDFT15pH3kBn"
       },
@@ -13662,6 +13770,24 @@
       "duration_ms": 208301,
       "name": "Giovent\u00f9, amore e rabbia",
       "url": "https://open.spotify.com/track/2Z0zECoJJHQaWa6T6ZlZZ3"
+    },
+    {
+      "album": {
+        "name": "Gira Tudo Arig",
+        "url": "https://open.spotify.com/album/46PeUVL7vAbIwvOHkPSMRh"
+      },
+      "artists": [
+        {
+          "name": "Ninos Du Brasil",
+          "url": "https://open.spotify.com/artist/2ALx5yXpSTe5aPEF2vLeGa"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259213,
+      "name": "Gira Tudo Arig",
+      "url": "https://open.spotify.com/track/7jr0fIRxEJF53BWdtGslzH"
     },
     {
       "album": {
@@ -13986,7 +14112,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 144177,
       "name": "Granato",
       "url": "https://open.spotify.com/track/10OWF3fWBgzf9ZeYCxpdU7"
@@ -20041,6 +20167,24 @@
     },
     {
       "album": {
+        "name": "Se a ridosso del cielo un giorno",
+        "url": "https://open.spotify.com/album/5Joy4E4RU4lnsBi3899Mws"
+      },
+      "artists": [
+        {
+          "name": "L'AMORE",
+          "url": "https://open.spotify.com/artist/6gRamOYCDmzgHxeWxO1RRP"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182006,
+      "name": "LTTDA",
+      "url": "https://open.spotify.com/track/1isP822oVEv2RfuNBZ1s1k"
+    },
+    {
+      "album": {
         "name": "COME FOSSERO CAREZZE",
         "url": "https://open.spotify.com/album/4jtliyGsK3gPu1VSGSzPdH"
       },
@@ -20607,6 +20751,28 @@
     },
     {
       "album": {
+        "name": "mai pi\u00f9, per nessuno",
+        "url": "https://open.spotify.com/album/4s5V6URcyjoqkmkYIJ2hVr"
+      },
+      "artists": [
+        {
+          "name": "Fear Of Apathy",
+          "url": "https://open.spotify.com/artist/69xmomZwZqYGTSYPoWiUML"
+        },
+        {
+          "name": "Leda",
+          "url": "https://open.spotify.com/artist/4N4guJrH1NpiYxuv9GXjBm"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189939,
+      "name": "mai pi\u00f9, per nessuno",
+      "url": "https://open.spotify.com/track/7Hv76hZl2dH7vzZQE7Wy18"
+    },
+    {
+      "album": {
         "name": "Male Cane",
         "url": "https://open.spotify.com/album/17snaUPkFYcJ81a6RVdGYT"
       },
@@ -20748,6 +20914,24 @@
       "duration_ms": 271379,
       "name": "Mamma e pap\u00e0",
       "url": "https://open.spotify.com/track/0uCQY7Psi0dql2N0zAEiTl"
+    },
+    {
+      "album": {
+        "name": "AGUANTE LA RIVO",
+        "url": "https://open.spotify.com/album/3GtSdZLvuq814TL3svm5zi"
+      },
+      "artists": [
+        {
+          "name": "La Rivoluzione Industriale e le sue Conseguenze",
+          "url": "https://open.spotify.com/artist/1oEMqcj6YTvRlRzV6Szyyl"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250181,
+      "name": "Mani",
+      "url": "https://open.spotify.com/track/6qIFfXYG6l0fGq8jid8vUi"
     },
     {
       "album": {
@@ -21198,7 +21382,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 223138,
       "name": "Meglio di niente",
       "url": "https://open.spotify.com/track/5At2rYksLx7gFVaOPBBeUL"
@@ -27234,7 +27418,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 152774,
       "name": "Porno intermezzo",
       "url": "https://open.spotify.com/track/723ED9Den2KesJSvA4iFA7"
@@ -29334,6 +29518,24 @@
       "duration_ms": 228658,
       "name": "Ritorneremo a guardare il Cielo",
       "url": "https://open.spotify.com/track/1fTVs2Yk7n2YfcdaGTMt5b"
+    },
+    {
+      "album": {
+        "name": "Riverbero",
+        "url": "https://open.spotify.com/album/6jwzVOsZONu1fKP45l6XaD"
+      },
+      "artists": [
+        {
+          "name": "La Municip\u00e0l",
+          "url": "https://open.spotify.com/artist/1wQ8rxWLB8fPUHx49l3q5L"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235380,
+      "name": "Riverbero",
+      "url": "https://open.spotify.com/track/0UqLd7cTwjizrupTntvxXv"
     },
     {
       "album": {
@@ -32042,6 +32244,24 @@
     {
       "album": {
         "name": "Sottopelle",
+        "url": "https://open.spotify.com/album/75blirncPsrJHXkgeZUpFo"
+      },
+      "artists": [
+        {
+          "name": "Ai!",
+          "url": "https://open.spotify.com/artist/5BmWr6brwfMjs2J8lFwEEQ"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299767,
+      "name": "Sottopelle",
+      "url": "https://open.spotify.com/track/1FNOofleMOLHYrfzwdvG5Z"
+    },
+    {
+      "album": {
+        "name": "Sottopelle",
         "url": "https://open.spotify.com/album/0ieCABcqtjElQJ33dIsXj5"
       },
       "artists": [
@@ -33922,7 +34142,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 185971,
       "name": "Tessere",
       "url": "https://open.spotify.com/track/51gjw1p3P5MAYzUgZMz4uw"
@@ -34002,6 +34222,24 @@
       "duration_ms": 143139,
       "name": "The Confident Laughter",
       "url": "https://open.spotify.com/track/2GLba1XsDfQp0hdg20ODrI"
+    },
+    {
+      "album": {
+        "name": "The Dead",
+        "url": "https://open.spotify.com/album/2304DJA7HoicyyArAF8eYb"
+      },
+      "artists": [
+        {
+          "name": "Tanz Akademie",
+          "url": "https://open.spotify.com/artist/2IMToJLnXpQhhjbohGNZR9"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216760,
+      "name": "The Dead",
+      "url": "https://open.spotify.com/track/3ch9igoxlbCMnS6H6RFL0Y"
     },
     {
       "album": {
@@ -34496,6 +34734,24 @@
       "duration_ms": 216746,
       "name": "The Wolf",
       "url": "https://open.spotify.com/track/3RlTCt2Uy4NI3pF0VbcwsZ"
+    },
+    {
+      "album": {
+        "name": "There's No God",
+        "url": "https://open.spotify.com/album/7cVZBkXVrO62NDZ0538SK0"
+      },
+      "artists": [
+        {
+          "name": "Earthset",
+          "url": "https://open.spotify.com/artist/27FihPbgJOaSdAyq9kgb9t"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241724,
+      "name": "There's No God",
+      "url": "https://open.spotify.com/track/6AQDf3kFg7qKZUwHJzve1r"
     },
     {
       "album": {
@@ -37493,6 +37749,28 @@
     },
     {
       "album": {
+        "name": "Stagno",
+        "url": "https://open.spotify.com/album/6XPSIklrKWxlswVneiF838"
+      },
+      "artists": [
+        {
+          "name": "Cosmetic",
+          "url": "https://open.spotify.com/artist/4C6fXZ7soCX4ycsXguZ1zE"
+        },
+        {
+          "name": "Quercia",
+          "url": "https://open.spotify.com/artist/5AQAAs2emLmGYAd8UuNmbK"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172082,
+      "name": "Vestito",
+      "url": "https://open.spotify.com/track/2dXpJ4AVaH3sPYXhUytXHw"
+    },
+    {
+      "album": {
         "name": "La Tosca dei Cani",
         "url": "https://open.spotify.com/album/40Fngltav0uIo6x6cw20bM"
       },
@@ -37634,6 +37912,24 @@
       "duration_ms": 256874,
       "name": "Violet Garden",
       "url": "https://open.spotify.com/track/6PEcEssJhESSWMKkNzGa14"
+    },
+    {
+      "album": {
+        "name": "Magia Bianca, Magia Nera",
+        "url": "https://open.spotify.com/album/1A5BFtt4pcKnJy0qAHvUDE"
+      },
+      "artists": [
+        {
+          "name": "Francesca Michielin",
+          "url": "https://open.spotify.com/artist/4jFlmD92WULLlaRS8Cj6QS"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186850,
+      "name": "Viriditas",
+      "url": "https://open.spotify.com/track/0VKyU8AuGvExEz2XuykTbo"
     },
     {
       "album": {

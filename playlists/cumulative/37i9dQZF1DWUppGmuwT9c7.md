@@ -4,7 +4,7 @@
 
 > De grootste hits uit de kroeg in één playlist.
 
-227 songs - 10 hr 43 min
+228 songs - 10 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Aan Alle Mooie Meiden](https://open.spotify.com/track/6x4A4DTWHBK2w7GSAiqVbD) | [Willem Barth](https://open.spotify.com/artist/1thOlcNMXFKvfW0n9ACI52) | [Doe Het Goed](https://open.spotify.com/album/4ZJoyXr0vVitn4DN3yUHQC) | 3:29 | 2025-07-14 | 2025-09-05 |
 | [Adio Amore](https://open.spotify.com/track/10Kc8w5ncxZ7gO7Mk9148q) | [Alex](https://open.spotify.com/artist/2KbZtIe5VeOU8DnktA5xm9) | [Met Feestelijke Groet](https://open.spotify.com/album/74IVzj9l7wqYqcanlePuk2) | 3:14 | 2025-07-14 |  |
 | [Adrenaline](https://open.spotify.com/track/0DDcpc9ImOsGUWupRj2xu5) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Adrenaline](https://open.spotify.com/album/0w5jN6f0rraC1lLGCcHjgu) | 2:28 | 2025-07-14 | 2026-02-06 |
-| [Al Heb Je Niets](https://open.spotify.com/track/6cKvr0voNpYVq9i577qxoW) | [Ammar](https://open.spotify.com/artist/4EqldbhBZVOhfGdAFG0zRb) | [Al Heb Je Niets](https://open.spotify.com/album/5wmuQkePwbFb0FS0cJuJSE) | 2:32 | 2026-02-05 |  |
+| [Al Heb Je Niets](https://open.spotify.com/track/6cKvr0voNpYVq9i577qxoW) | [Ammar](https://open.spotify.com/artist/4EqldbhBZVOhfGdAFG0zRb) | [Al Heb Je Niets](https://open.spotify.com/album/5wmuQkePwbFb0FS0cJuJSE) | 2:32 | 2026-02-05 | 2026-11-13 |
 | [Alleen Met Jou](https://open.spotify.com/track/2K7HqkHEUfz7c4BzEO33Qd) | [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F), [Emma Heesters](https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM) | [Alleen Met Jou](https://open.spotify.com/album/7HgRghVOzefgyXloz5HUmq) | 3:13 | 2025-07-14 | 2026-08-13 |
 | [Alles Kan Kapot](https://open.spotify.com/track/1ufm3zszexVlsNpayLSsiA) | [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9) | [Alles Kan Kapot](https://open.spotify.com/album/0pCHPhcIKvYu3l0VUTioOT) | 2:52 | 2025-07-14 |  |
 | [Alles Op Gevoel](https://open.spotify.com/track/3kHSi1ysS2HLt3XmBLIYlO) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk), [Zoe Tauran](https://open.spotify.com/artist/63eEYhIlgGEjHZrQf61EAB), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Twee Stappen Voor](https://open.spotify.com/album/6HwoP7y1vS2gtH2bMPdfHK) | 2:49 | 2025-07-14 | 2025-10-17 |
@@ -94,6 +94,7 @@
 | [Heb Lak Aan Wat Ze Zeggen](https://open.spotify.com/track/3ej7KCO6lz7Au29DsfDZq7) | [Sven Versteeg](https://open.spotify.com/artist/0NJI3CV8t7MIgRhC3Ov2vV) | [Heb Lak Aan Wat Ze Zeggen](https://open.spotify.com/album/4lAvmC6B24huS5BLvTGUKh) | 2:30 | 2025-07-14 | 2025-09-21 |
 | [Heerlijk](https://open.spotify.com/track/3uNLa5MkTaw3OdXWfXzgXZ) | [Danny De Munk](https://open.spotify.com/artist/5Mww2P8ni50lmfOTsBmGHn) | [Heerlijk](https://open.spotify.com/album/68JDBphxyUiqaNt3qotaf7) | 2:06 | 2026-03-12 |  |
 | [Het Maakt Niet Uit](https://open.spotify.com/track/4CSAy7eHSSnMLIAkcCxeAC) | [Quido van de Graaf](https://open.spotify.com/artist/0EeBSdffc4ckG8Yh9HOPuj) | [Het Maakt Niet Uit](https://open.spotify.com/album/3OSlCwhIjgO0VLkWgm2eOO) | 2:23 | 2025-10-09 | 2026-08-29 |
+| [Hey Poes](https://open.spotify.com/track/3or3wODEzHipOyhbn9GBZp) | [Senna](https://open.spotify.com/artist/4oMzH6lIWPhCdx7KADXLJZ), [Monique Smit](https://open.spotify.com/artist/5z4lUxGyk6fWkbqoITgJTv) | [Hey Poes](https://open.spotify.com/album/5eKGfJrhNXed8KYrsJAOkp) | 2:21 | 2026-11-12 |  |
 | [Hier Mag Alles](https://open.spotify.com/track/1sqe31TzOsjCeex1INgmsq) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Marco Schuitmaker](https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ) | [Hier Mag Alles](https://open.spotify.com/album/7vAX7pi3sdfs65gVw6K1fi) | 3:15 | 2025-07-14 |  |
 | [Hoe Heet Dat Liedje?](https://open.spotify.com/track/2o3ANittPBTyx9KafdQrZc) | [Chris Bauer](https://open.spotify.com/artist/6vx4nxbeAGrQPKHzurW1pi) | [Hoe Heet Dat Liedje?](https://open.spotify.com/album/1s592SEXHqLxjFjAKo65tD) | 3:15 | 2025-07-14 | 2025-09-21 |
 | [Hoe Zou Het Zijn Geweest](https://open.spotify.com/track/5VlumpV7P0bentTmUG4471) | [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F) | [Hoe Zou Het Zijn Geweest](https://open.spotify.com/album/6sqKgulNiIhYxOs4rwHR2a) | 3:01 | 2025-08-07 | 2026-01-15 |

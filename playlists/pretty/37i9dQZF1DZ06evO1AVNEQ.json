@@ -1,12 +1,12 @@
 {
   "description": "This is Feid. The essential tracks, all in one playlist.",
-  "num_followers": 874836,
+  "num_followers": 874937,
   "original_name": "This Is Feid",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avENAAAAAABrXkXLy7tWlUlZRn8m9rRp",
+  "snapshot_id": "avOwAAAAAAAdYARiZbAnR8Ox+niPR7UW",
   "tracks": [
     {
       "added_at": null,
@@ -299,26 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "EL MOCO VERDE",
-        "url": "https://open.spotify.com/album/5w4WlFG5HhXOichH3hwKPH"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "Granuja",
-          "url": "https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS"
-        }
-      ],
-      "duration_ms": 244642,
-      "name": "50 MIL PIEX",
-      "url": "https://open.spotify.com/track/7gSrtsnkzmO9bbDcEN3nz0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "OzuTochi",
         "url": "https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF"
       },
@@ -335,6 +315,26 @@
       "duration_ms": 196600,
       "name": "Hey Mor",
       "url": "https://open.spotify.com/track/1zsPaEkglFvxjAhrM8yhpr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "EL MOCO VERDE",
+        "url": "https://open.spotify.com/album/5w4WlFG5HhXOichH3hwKPH"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Granuja",
+          "url": "https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS"
+        }
+      ],
+      "duration_ms": 244642,
+      "name": "50 MIL PIEX",
+      "url": "https://open.spotify.com/track/7gSrtsnkzmO9bbDcEN3nz0"
     },
     {
       "added_at": null,
@@ -514,15 +514,11 @@
         {
           "name": "Feid",
           "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "Bad Gyal",
-          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
         }
       ],
-      "duration_ms": 194339,
-      "name": "DE DIOR XL",
-      "url": "https://open.spotify.com/track/06UusKSBXp76qo0k0iw0cL"
+      "duration_ms": 141465,
+      "name": "A Xon De Que",
+      "url": "https://open.spotify.com/track/3FqUvsLaAh4k3Uh2d7L3bR"
     },
     {
       "added_at": null,
@@ -598,27 +594,15 @@
         {
           "name": "Feid",
           "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 141465,
-      "name": "A Xon De Que",
-      "url": "https://open.spotify.com/track/3FqUvsLaAh4k3Uh2d7L3bR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "EL GREEN PRINT: La Saga (Disc 1) \u2014 FEID VS FERXXO",
-        "url": "https://open.spotify.com/album/2TXU5Ie2RcPLT1cp7ztKXa"
-      },
-      "artists": [
+        },
         {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
         }
       ],
-      "duration_ms": 169266,
-      "name": "Que vuelta vox",
-      "url": "https://open.spotify.com/track/50QNXm5mb1sUNhI4iTSzl9"
+      "duration_ms": 194339,
+      "name": "DE DIOR XL",
+      "url": "https://open.spotify.com/track/06UusKSBXp76qo0k0iw0cL"
     },
     {
       "added_at": null,
@@ -635,6 +619,22 @@
       "duration_ms": 166253,
       "name": "Prohibidox",
       "url": "https://open.spotify.com/track/3PpWCS95gDUDRPko3u1MZ9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "EL GREEN PRINT: La Saga (Disc 1) \u2014 FEID VS FERXXO",
+        "url": "https://open.spotify.com/album/2TXU5Ie2RcPLT1cp7ztKXa"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 169266,
+      "name": "Que vuelta vox",
+      "url": "https://open.spotify.com/track/50QNXm5mb1sUNhI4iTSzl9"
     },
     {
       "added_at": null,
@@ -679,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "EL GREEN PRINT: La Saga (Disc 1) \u2014 FEID VS FERXXO",
-        "url": "https://open.spotify.com/album/2TXU5Ie2RcPLT1cp7ztKXa"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 170654,
-      "name": "SE LO JURO MOR",
-      "url": "https://open.spotify.com/track/4MSfAq3HZsIbTri2IEsCH1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "att.",
         "url": "https://open.spotify.com/album/1yjQhgZzBmfdS0CTj6xQ2h"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 201935,
       "name": "offline",
       "url": "https://open.spotify.com/track/7s4emXHJwAuo5VvGBXmnBL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "EL GREEN PRINT: La Saga (Disc 1) \u2014 FEID VS FERXXO",
+        "url": "https://open.spotify.com/album/2TXU5Ie2RcPLT1cp7ztKXa"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 170654,
+      "name": "SE LO JURO MOR",
+      "url": "https://open.spotify.com/track/4MSfAq3HZsIbTri2IEsCH1"
     },
     {
       "added_at": null,
@@ -775,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "EL GREEN PRINT: La Saga (Disc 1) \u2014 FEID VS FERXXO",
-        "url": "https://open.spotify.com/album/2TXU5Ie2RcPLT1cp7ztKXa"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 158299,
-      "name": "La Mejor M\u00fasica",
-      "url": "https://open.spotify.com/track/5FJmy7JIUXmBw88lI6vnkS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "INTER SHIBUYA - LA MAFIA",
         "url": "https://open.spotify.com/album/4hUQ4FB9GD5oDmw3XHIr0G"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 196373,
       "name": "SI T\u00da SUPIERAS - Bonus Track",
       "url": "https://open.spotify.com/track/1SCYfmGM5ueb6YiiQbLXVn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "EL GREEN PRINT: La Saga (Disc 1) \u2014 FEID VS FERXXO",
+        "url": "https://open.spotify.com/album/2TXU5Ie2RcPLT1cp7ztKXa"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 158299,
+      "name": "La Mejor M\u00fasica",
+      "url": "https://open.spotify.com/track/5FJmy7JIUXmBw88lI6vnkS"
     },
     {
       "added_at": null,
@@ -1035,6 +1035,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "FERXXOCALIPSIS",
+        "url": "https://open.spotify.com/album/0lgs2Sa82lyX89nBUWyUy6"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 90613,
+      "name": "ALAKRAN",
+      "url": "https://open.spotify.com/track/2Yc3MHpZ9R5UCIz78E20AQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FERXXO (VOL 1: M.O.R)",
+        "url": "https://open.spotify.com/album/3js3vnaiDDghVu9ADH93Q5"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 142613,
+      "name": "EXCXSXS",
+      "url": "https://open.spotify.com/track/0GbrwlmnRMJOQ5bRV9QcZa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Academy",
         "url": "https://open.spotify.com/album/1faqBAWocW4ZOe0OFjudGw"
       },
@@ -1071,38 +1103,6 @@
       "duration_ms": 225013,
       "name": "Imaginate",
       "url": "https://open.spotify.com/track/29ShXDWDedEwZkYc8Du08N"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "FERXXO (VOL 1: M.O.R)",
-        "url": "https://open.spotify.com/album/3js3vnaiDDghVu9ADH93Q5"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 142613,
-      "name": "EXCXSXS",
-      "url": "https://open.spotify.com/track/0GbrwlmnRMJOQ5bRV9QcZa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "FERXXOCALIPSIS",
-        "url": "https://open.spotify.com/album/0lgs2Sa82lyX89nBUWyUy6"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 90613,
-      "name": "ALAKRAN",
-      "url": "https://open.spotify.com/track/2Yc3MHpZ9R5UCIz78E20AQ"
     }
   ],
   "unique_name": "This Is Feid",

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/09d3mIGxzTl2sLatLvhXAh">Rios</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-193 songs - 9 hr 51 min
+194 songs - 9 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [Oye BB](https://open.spotify.com/track/2QftZPguVY5lKNwyXPDywB) | [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Oye BB](https://open.spotify.com/album/3dRkgg45xl85zTpkZvSqPV) | 2:27 | 2025-11-07 |  |
 | [Pa' Guayarte](https://open.spotify.com/track/77J8t2pFJYI8k4tZgJ3ybY) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [JOSE](https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP) | 3:17 | 2025-11-07 |  |
 | [PALOMINO](https://open.spotify.com/track/21sGzDAr9iuedExAktmkeT) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [PALOMINO](https://open.spotify.com/album/7LRLBrL0HfgkU2SqpzwePJ) | 2:14 | 2026-10-14 |  |
+| [Palomino \- Remix](https://open.spotify.com/track/1IGc1w4X7LKjHbzU3svVXH) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Palomino \(Remix\)](https://open.spotify.com/album/5eK9c2t3ilEqEKR3F7mkQk) | 3:13 | 2026-11-12 |  |
 | [Pary](https://open.spotify.com/track/1vuv2tN0AWun2LYnJIkCe0) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Con dolor](https://open.spotify.com/album/5NPLmlTys2atPbydfgLKke) | 2:52 | 2026-08-22 |  |
 | [Pienso En Ella](https://open.spotify.com/track/1JLN3lX1fFAJoFPjUhp4ZR) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Pienso En Ella](https://open.spotify.com/album/7cHJ27ODl19jWx14kWMPMT) | 2:39 | 2025-11-07 |  |
 | [Poblado \- Remix](https://open.spotify.com/track/2K1CQMoG2Dy5nmeOYnhoi8) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Crissin](https://open.spotify.com/artist/6VOoiigTiLVgsMQPP1JOdC), [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z), [Natan & Shander](https://open.spotify.com/artist/5OBK3iQwjNQqElPmn4TgAE) | [JOSE](https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP) | 6:32 | 2025-11-07 |  |

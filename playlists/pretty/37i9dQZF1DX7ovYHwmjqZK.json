@@ -1,6 +1,6 @@
 {
   "description": "Bossa Nova e MPB como acompanhamento / Bossa y m\u00fasica brasile\u00f1a para todo momento.",
-  "num_followers": 282309,
+  "num_followers": 282327,
   "original_name": "Caf\u00e9 Bossa",
   "owner": {
     "name": "Spotify",
@@ -395,6 +395,22 @@
     {
       "added_at": "2026-08-14 03:00:55",
       "album": {
+        "name": "Outra Vez",
+        "url": "https://open.spotify.com/album/3PQfcnc1ZdNn7eTGTizZ2B"
+      },
+      "artists": [
+        {
+          "name": "Adriana Arias",
+          "url": "https://open.spotify.com/artist/2GhgatL5H573yU98hb14OK"
+        }
+      ],
+      "duration_ms": 137424,
+      "name": "Outra Vez",
+      "url": "https://open.spotify.com/track/7ukeAw6TwDl3dZAnv57Irp"
+    },
+    {
+      "added_at": "2026-08-14 03:00:55",
+      "album": {
         "name": "Bossa nova - Girls from Bela Vista",
         "url": "https://open.spotify.com/album/5askH1Yqbbwr3fRcFHawxT"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 264722,
       "name": "Girls from Bela Vista",
       "url": "https://open.spotify.com/track/1av15BaMO4D40o7ndvriul"
-    },
-    {
-      "added_at": "2026-08-14 03:00:55",
-      "album": {
-        "name": "Outra Vez",
-        "url": "https://open.spotify.com/album/3PQfcnc1ZdNn7eTGTizZ2B"
-      },
-      "artists": [
-        {
-          "name": "Adriana Arias",
-          "url": "https://open.spotify.com/artist/2GhgatL5H573yU98hb14OK"
-        }
-      ],
-      "duration_ms": 137424,
-      "name": "Outra Vez",
-      "url": "https://open.spotify.com/track/7ukeAw6TwDl3dZAnv57Irp"
     },
     {
       "added_at": "2026-08-14 03:00:55",
@@ -587,6 +587,22 @@
     {
       "added_at": "2026-08-14 03:00:55",
       "album": {
+        "name": "Semente Chorojazz",
+        "url": "https://open.spotify.com/album/06sIxnlL5TlCXfehFM33m9"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Paulo Becker",
+          "url": "https://open.spotify.com/artist/0dsqfNACo3h5n5Ed6rgKG2"
+        }
+      ],
+      "duration_ms": 267000,
+      "name": "Sambete",
+      "url": "https://open.spotify.com/track/5FLvvnxzuhVPZIgDroYY6I"
+    },
+    {
+      "added_at": "2026-08-14 03:00:55",
+      "album": {
         "name": "Navegante - Dudu Sperb Recebe Guinga",
         "url": "https://open.spotify.com/album/0joPmEYgF2tleXLSTt2ZOT"
       },
@@ -607,18 +623,18 @@
     {
       "added_at": "2026-08-14 03:00:55",
       "album": {
-        "name": "Semente Chorojazz",
-        "url": "https://open.spotify.com/album/06sIxnlL5TlCXfehFM33m9"
+        "name": "Um Dia No Mar",
+        "url": "https://open.spotify.com/album/4QrobV7gNlPPVdJ6MY8Y2U"
       },
       "artists": [
         {
-          "name": "Z\u00e9 Paulo Becker",
-          "url": "https://open.spotify.com/artist/0dsqfNACo3h5n5Ed6rgKG2"
+          "name": "Claudio Fonseca Quartet",
+          "url": "https://open.spotify.com/artist/3cxnRW4ENZ1c41HbbXy8Bf"
         }
       ],
-      "duration_ms": 267000,
-      "name": "Sambete",
-      "url": "https://open.spotify.com/track/5FLvvnxzuhVPZIgDroYY6I"
+      "duration_ms": 161901,
+      "name": "Um Dia No Mar",
+      "url": "https://open.spotify.com/track/1EZYeNyXTPKOVAP7Vn9wCi"
     },
     {
       "added_at": "2026-08-14 03:00:55",
@@ -635,22 +651,6 @@
       "duration_ms": 183656,
       "name": "Ataraxia",
       "url": "https://open.spotify.com/track/59eUAGih69vhMrwQoHrQNP"
-    },
-    {
-      "added_at": "2026-08-14 03:00:55",
-      "album": {
-        "name": "Um Dia No Mar",
-        "url": "https://open.spotify.com/album/4QrobV7gNlPPVdJ6MY8Y2U"
-      },
-      "artists": [
-        {
-          "name": "Claudio Fonseca Quartet",
-          "url": "https://open.spotify.com/artist/3cxnRW4ENZ1c41HbbXy8Bf"
-        }
-      ],
-      "duration_ms": 161901,
-      "name": "Um Dia No Mar",
-      "url": "https://open.spotify.com/track/1EZYeNyXTPKOVAP7Vn9wCi"
     },
     {
       "added_at": "2026-08-14 03:00:55",

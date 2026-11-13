@@ -2645,6 +2645,24 @@
     },
     {
       "album": {
+        "name": "Acorn",
+        "url": "https://open.spotify.com/album/5u9RaA0Qqu5WIroWgWOvTf"
+      },
+      "artists": [
+        {
+          "name": "TimberRidge",
+          "url": "https://open.spotify.com/artist/0Dhp5LBunI0YQAkPwshY0k"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Acorn",
+      "url": "https://open.spotify.com/track/49636TkDwGy7E8lOFni5pn"
+    },
+    {
+      "album": {
         "name": "Across Sands",
         "url": "https://open.spotify.com/album/3g4bJT17nY7L6vt3cBWgBe"
       },
@@ -7080,6 +7098,24 @@
       "duration_ms": 120666,
       "name": "Approved",
       "url": "https://open.spotify.com/track/0V9uCHm1l89qm0iNNtRcSx"
+    },
+    {
+      "album": {
+        "name": "apricity",
+        "url": "https://open.spotify.com/album/0aCOMrCwAA3bjtc79BdCkV"
+      },
+      "artists": [
+        {
+          "name": "Mondo Loops",
+          "url": "https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128955,
+      "name": "apricity",
+      "url": "https://open.spotify.com/track/2N6gkUBspVwpvYiu8ogtkr"
     },
     {
       "album": {
@@ -36249,6 +36285,32 @@
     },
     {
       "album": {
+        "name": "dreamfall",
+        "url": "https://open.spotify.com/album/2qDJd4xr3G8waIMLyXKcGY"
+      },
+      "artists": [
+        {
+          "name": "Kichiro",
+          "url": "https://open.spotify.com/artist/4QDcFcZSlbHAgSXzkRqDjo"
+        },
+        {
+          "name": "Krynoze",
+          "url": "https://open.spotify.com/artist/3iGthn6RykA9JUHnilAIr0"
+        },
+        {
+          "name": "Pepper",
+          "url": "https://open.spotify.com/artist/7wxv15AsqEJNoMmCzkZw9M"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "dreamfall",
+      "url": "https://open.spotify.com/track/57OdICxHS8j1P8pjPkQSab"
+    },
+    {
+      "album": {
         "name": "Dreamgate",
         "url": "https://open.spotify.com/album/3YYXwoFBVSfYlC0SOjMpTD"
       },
@@ -47760,7 +47822,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 121904,
       "name": "for one last time",
       "url": "https://open.spotify.com/track/7bxLGFd5jlMmQ3MtR8qOoy"
@@ -54977,6 +55039,24 @@
     },
     {
       "album": {
+        "name": "Halcyon",
+        "url": "https://open.spotify.com/album/6oNHyZ9Z7TQeCL3wVlWuMc"
+      },
+      "artists": [
+        {
+          "name": "Yax Keyon",
+          "url": "https://open.spotify.com/artist/04m8qKALJROziTgfvAI2RY"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140300,
+      "name": "Halcyon",
+      "url": "https://open.spotify.com/track/1euM1QxLrWsCiJmFLzwiEM"
+    },
+    {
+      "album": {
         "name": "Half Awake",
         "url": "https://open.spotify.com/album/2gkpxbBNtFPOQImPM2oclu"
       },
@@ -56704,7 +56784,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 157500,
       "name": "Heather Bay",
       "url": "https://open.spotify.com/track/5cerwoPTuSNROgRi2PNewa"
@@ -80532,7 +80612,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 113210,
       "name": "Marinara",
       "url": "https://open.spotify.com/track/7uI6R3KoJWxuXjvBHIr5lW"
@@ -128790,7 +128870,7 @@
       ],
       "date_added": "2025-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 157377,
       "name": "sunrise",
       "url": "https://open.spotify.com/track/1eo4dFZb0UAvPO7oPFPE72"

@@ -4,7 +4,7 @@
 
 > All the biggest hits from the biggest boybands!  Cover: One Direction
 
-172 songs - 11 hr 17 min
+173 songs - 11 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Dynamite](https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) | 3:19 | 2022-12-23 |  |
 | [End Of The Road](https://open.spotify.com/track/6ITPK0Iw3OfdqSEWimISst) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [Cooleyhighharmony \(Expanded Edition\)](https://open.spotify.com/album/1Uh5vHKID0YFIpCJf0Y4DN) | 5:49 | 2022-03-09 | 2022-07-29 |
 | [End Of The Road](https://open.spotify.com/track/3l3xTXsUXeWlkPqzMs7mPD) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [Cooleyhighharmony \(Bonus Tracks Version\)](https://open.spotify.com/album/3jknvlUSe6D9Oyn2E3JBLO) | 5:51 | 2021-04-29 |  |
-| [Everybody \(Backstreet's Back\) \- Extended Version](https://open.spotify.com/track/5WTxbyWTpoqhdxEN2szOnl) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Backstreet Boys](https://open.spotify.com/album/0wvQovgaVU99eqw8n3g22S) | 4:47 | 2024-06-04 |  |
+| [Everybody \(Backstreet's Back\) \- Extended Version](https://open.spotify.com/track/5WTxbyWTpoqhdxEN2szOnl) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Backstreet Boys](https://open.spotify.com/album/0wvQovgaVU99eqw8n3g22S) | 4:47 | 2024-06-04 | 2026-11-13 |
 | [Everybody \(Backstreet's Back\) \- Radio Edit](https://open.spotify.com/track/4rTeOSYqwXNz5qPR2DUTFZ) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [This Is The End: Original Motion Picture Soundtrack](https://open.spotify.com/album/1SFKmqhTTEkE3PmSBEMpa3) | 3:44 | 2022-05-17 | 2022-12-24 |
 | [Everybody \(Backstreet's Back\) \- Radio Edit](https://open.spotify.com/track/1di1BEgJYzPvXUuinsYJGP) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Backstreet's Back](https://open.spotify.com/album/2U9ONknz1iFEK9drEKLx8v) | 3:45 | 2021-04-29 | 2022-07-16 |
 | [Everybody Get Up \- Radio Edit](https://open.spotify.com/track/0WGn8xhpPumX73lECUY5Yo) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG) | [Let's Dance](https://open.spotify.com/album/2aSR4RrZ5uCNZSmwqgparc) | 3:03 | 2022-12-23 |  |
@@ -129,6 +129,7 @@
 | [Pop](https://open.spotify.com/track/0Jc8qF1mUPo1A96HE9QxZz) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [Celebrity](https://open.spotify.com/album/7zBue2Vuzg4Z3ncRXaIkJg) | 3:58 | 2022-12-23 |  |
 | [Pray](https://open.spotify.com/track/1luVSQzb1LtLWxFd9xNDYL) | [Take That](https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ) | [Everything Changes \(Expanded Edition\)](https://open.spotify.com/album/1OiyCmdGzJeituBnwEMLOJ) | 3:43 | 2022-05-17 | 2022-12-24 |
 | [Pray](https://open.spotify.com/track/6Ln76fIfkdmL6UHbuYR756) | [Take That](https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ) | [Take That Greatest Hits](https://open.spotify.com/album/0Roig21lheelthCcmLyjYO) | 3:43 | 2021-04-29 | 2022-07-17 |
+| [Quit Playing Games \(With My Heart\)](https://open.spotify.com/track/1nRwyxNsqCLeA17qR8Nfxx) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Backstreet Boys](https://open.spotify.com/album/0wvQovgaVU99eqw8n3g22S) | 3:53 | 2024-06-04 |  |
 | [Relight My Fire \(feat\. Lulu\)](https://open.spotify.com/track/3iODl7yzl5v1HgVFWOXHxR) | [Take That](https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ), [Lulu](https://open.spotify.com/artist/0jYKX08u1XxmHrl5TdM2QZ) | [Take That Greatest Hits](https://open.spotify.com/album/0Roig21lheelthCcmLyjYO) | 4:09 | 2021-04-29 | 2022-04-21 |
 | [Relight My Fire \(feat\. Lulu\)](https://open.spotify.com/track/4UGzL9fNdZPnrb9oseuDSi) | [Take That](https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ), [Lulu](https://open.spotify.com/artist/0jYKX08u1XxmHrl5TdM2QZ) | [Everything Changes \(Expanded Edition\)](https://open.spotify.com/album/1OiyCmdGzJeituBnwEMLOJ) | 4:11 | 2022-05-17 |  |
 | [S.O.S.](https://open.spotify.com/track/6sDP4912wjwB7BJhbSnjS1) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Jonas Brothers](https://open.spotify.com/album/4myOCm6FzD9TMdK7Q0Nzx0) | 2:33 | 2022-12-23 | 2025-08-09 |

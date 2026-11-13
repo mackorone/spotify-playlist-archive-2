@@ -2,9 +2,9 @@
 
 ### [WOR K  OUT](https://open.spotify.com/playlist/37i9dQZF1DX3ZeFHRhhi7Y)
 
-> Workout to K\-Pop? Count me in! \(Cover: xikers\) \(신나는 케이팝 댄스 음악과 함께 운동을 즐겨보세요!\)
+> Workout to K\-Pop? Count me in! \(Cover: ATEEZ\) \(신나는 케이팝 댄스 음악과 함께 운동을 즐겨보세요!\)
 
-732 songs - 1 day 14 hr 28 min
+733 songs - 1 day 14 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -497,7 +497,7 @@
 | [POWER](https://open.spotify.com/track/4XsJiRJQAK8TWcZCn0Dxlh) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [POWER](https://open.spotify.com/album/3w2XYofMZpf1FA5wkkcBfx) | 2:23 | 2024-11-26 | 2025-06-14 |
 | [Power Up](https://open.spotify.com/track/381g0b6QZxC13SzA2HRMIc) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Summer Magic \- Summer Mini Album](https://open.spotify.com/album/5zWa1ZEUBctbKqvwXbFawo) | 3:22 | 2021-12-20 | 2022-04-16 |
 | [PRESENTE](https://open.spotify.com/track/1oaVw7Y6RnvZlneLjAMLic) | [777 \(Triple Seven\)](https://open.spotify.com/artist/1Y5rgGFlx3ws6zMNoqxa4G) | [PRESENTE](https://open.spotify.com/album/4ZLRadM9Wi5L4mCEHGi4Xt) | 3:14 | 2021-12-20 | 2022-06-14 |
-| [Pretty Boy Swag](https://open.spotify.com/track/0IV3CJVZb5nbUgGOnRgHe7) | [idntt](https://open.spotify.com/artist/18eBHUF4EG1bXtbLZZ6g7M) | [<yesweare>](https://open.spotify.com/album/79l0iWkT4NjXY2tjqXLfiB) | 2:59 | 2026-08-06 |  |
+| [Pretty Boy Swag](https://open.spotify.com/track/0IV3CJVZb5nbUgGOnRgHe7) | [idntt](https://open.spotify.com/artist/18eBHUF4EG1bXtbLZZ6g7M) | [<yesweare>](https://open.spotify.com/album/79l0iWkT4NjXY2tjqXLfiB) | 2:59 | 2026-08-06 | 2026-11-13 |
 | [Promise](https://open.spotify.com/track/54z9tiaPu15pfkGSUwrOLI) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [TREASURE EP.2: Zero To One](https://open.spotify.com/album/2PQ8cQ8WzAJJkWYT2Ydmhw) | 3:15 | 2021-12-20 | 2022-04-12 |
 | [Promise U](https://open.spotify.com/track/3S0yfEkrXLpHjcizhj97nf) | [Solar](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD), [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [PROMISE U \(REVIBE Vol.1\)](https://open.spotify.com/album/4eJdKwHH9rb3dNbtIsBgjV) | 3:27 | 2021-12-20 | 2022-07-28 |
 | [PTT \(Paint The Town\)](https://open.spotify.com/track/5awNIWVrh2ISfvPd5IUZNh) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [\[&\]](https://open.spotify.com/album/747FhjbZXy5H8frCZ90eDv) | 3:21 | 2021-12-20 | 2023-09-16 |
@@ -669,6 +669,7 @@
 | [UNFORGIVEN \(feat\. Nile Rodgers\)](https://open.spotify.com/track/51vRumtqbkNW9wrKfESwfu) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 3:02 | 2023-05-01 | 2024-09-25 |
 | [UNIQUE](https://open.spotify.com/track/2UcWuaUqRrKRL8iTA92ELO) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) | [UNIQUE](https://open.spotify.com/album/71EVZx82GopCyTNRZVkZSk) | 2:52 | 2026-03-13 | 2026-04-30 |
 | [Universe \(Let's Play Ball\)](https://open.spotify.com/track/6hHrPwQYGp9kPL7xLZviBS) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [Universe \(Let's Play Ball\)](https://open.spotify.com/album/31BJasH9nLradtMdJEIDXk) | 3:51 | 2021-12-20 | 2022-07-27 |
+| [UP](https://open.spotify.com/track/2DpMn9r9LPpa5PaR4XGFBP) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [GOLDEN HOUR : Part.6](https://open.spotify.com/album/5UKj0Dge5ik5jw3JVjoxof) | 3:26 | 2026-11-13 |  |
 | [Up & Down](https://open.spotify.com/track/5p1PL2Gz532ziKatpyjSNh) | [EXID](https://open.spotify.com/artist/1xs6WFotNQSXweo0GXrS0O) | [Up & Down](https://open.spotify.com/album/7eXi3jZrvfqIfW3dDSl9Jt) | 3:09 | 2022-03-22 | 2022-04-16 |
 | [UP \- KARINA Solo](https://open.spotify.com/track/5sjnkOfTLCLNfkkchI2re2) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [SYNK : PARALLEL LINE \- Special Digital Single](https://open.spotify.com/album/4vLGHlTnlIIxMSfefCY0cU) | 2:46 | 2024-10-11 | 2026-05-12 |
 | [Up!](https://open.spotify.com/track/3XZAvh2NCDQYHgJei35VQ1) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [DOUBLAST](https://open.spotify.com/album/0yMosWzriw3613d26x7MQK) | 3:12 | 2022-06-24 | 2023-07-17 |

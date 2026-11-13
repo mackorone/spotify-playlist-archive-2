@@ -4,7 +4,7 @@
 
 > This is Chalino Sanchez\. The essential tracks, all in one playlist.
 
-84 songs - 4 hr 29 min
+85 songs - 4 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,8 @@
 | [Julián Del Real](https://open.spotify.com/track/2DLUM884fJVwsb5uaZ4QBe) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [El Pela Vacas](https://open.spotify.com/album/6uInLS0vbBQwXiWDirXkOw) | 2:40 | 2024-01-29 | 2025-10-05 |
 | [Julián del Real \- Remastered 2025](https://open.spotify.com/track/7afW44m4B7ioXwnzpk1xci) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [El Pela Vacas \(Remastered 2025\)](https://open.spotify.com/album/3kqaoP6prh0lMtb9VtPbVV) | 2:40 | 2025-10-11 |  |
 | [La Ametralladora](https://open.spotify.com/track/27YCBynZy6VINFpa09QlCi) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Mano A Mano Norteno](https://open.spotify.com/album/16MrsMDG0RKyQIeFJ1H6WM) | 2:34 | 2024-01-29 | 2024-04-06 |
-| [La Ametralladora](https://open.spotify.com/track/2xTyJxQf3jS7jSWndCt2Zx) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Exitos de Colección, Vol.1](https://open.spotify.com/album/7vlwwgfC7ZQDnfRNDNGxgX) | 2:36 | 2024-12-22 |  |
+| [La Ametralladora](https://open.spotify.com/track/2xTyJxQf3jS7jSWndCt2Zx) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Exitos de Colección, Vol.1](https://open.spotify.com/album/7vlwwgfC7ZQDnfRNDNGxgX) | 2:36 | 2024-12-22 | 2026-11-13 |
+| [La Ametralladora](https://open.spotify.com/track/3PxXYyuia1H33DOw7EMuWz) | [Saul Viera El Gavilancillo](https://open.spotify.com/artist/3tLdnHmnfkIdQq5cyFDl69), [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Los Inmortales Con Banda Sinaloense la Costeña](https://open.spotify.com/album/5xDumL5f2U4Ap03PT9abHm) | 2:33 | 2026-11-13 |  |
 | [La Ametralladora](https://open.spotify.com/track/6HU6CPW530Rx4mQJShfviL) | [Saul Viera El Gavilancillo](https://open.spotify.com/artist/3tLdnHmnfkIdQq5cyFDl69), [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Los Mejores Duetos del Año](https://open.spotify.com/album/7terMn7qIuU20lfQidPPQY) | 2:36 | 2024-04-08 | 2024-11-05 |
 | [La Loba Del Mal](https://open.spotify.com/track/6chFGW4L9I0YQX6Es2Jkd9) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [La Flor Del Campo: El Pávido Návido](https://open.spotify.com/album/26jewTq5DzesUy9vfG83nw) | 2:36 | 2024-01-29 | 2026-07-13 |
 | [La Muerte Del Pela Vacas](https://open.spotify.com/track/3hPONUfgInu27vGEezmcWR) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [El Pela Vacas](https://open.spotify.com/album/6uInLS0vbBQwXiWDirXkOw) | 3:11 | 2024-01-29 | 2025-10-12 |

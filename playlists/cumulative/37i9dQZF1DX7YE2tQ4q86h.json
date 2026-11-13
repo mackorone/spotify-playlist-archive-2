@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-19",
-  "description": "Tate is the main pop girl emergency\u2728",
+  "description": "Slayyyter is THE main pop girl emergency\u2728",
   "name": "OBSESSED",
   "tracks": [
     {
@@ -1898,7 +1898,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 193792,
       "name": "are we on a break",
       "url": "https://open.spotify.com/track/0hVOaQJ9anyS9jylMcqg9s"
@@ -3568,7 +3568,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 200204,
       "name": "Blink Twice",
       "url": "https://open.spotify.com/track/5A8YVeEtelHwCxWodW6KrP"
@@ -3608,6 +3608,28 @@
       "duration_ms": 144931,
       "name": "Blonde",
       "url": "https://open.spotify.com/track/44x7Asb4DU5s63216ympxY"
+    },
+    {
+      "album": {
+        "name": "Blood In Your Eyes (from GTAVI: The Album)",
+        "url": "https://open.spotify.com/album/2J5ttiLhgBPxcLyHlhQVKO"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161219,
+      "name": "Blood In Your Eyes (from GTAVI: The Album)",
+      "url": "https://open.spotify.com/track/4h3tY2zV4easaHEAbHVmgj"
     },
     {
       "album": {
@@ -6844,7 +6866,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 287055,
       "name": "DANCE...",
       "url": "https://open.spotify.com/track/5rfOARz6QO73wPATyMtQQZ"
@@ -7476,6 +7498,24 @@
       "duration_ms": 187272,
       "name": "Digital Girl",
       "url": "https://open.spotify.com/track/3GpQ2bhljJkAF1IXaShbMh"
+    },
+    {
+      "album": {
+        "name": "Digital Girlfriend",
+        "url": "https://open.spotify.com/album/00sDhwoeQA2f09emh8BPzo"
+      },
+      "artists": [
+        {
+          "name": "Ruby Rose Turner",
+          "url": "https://open.spotify.com/artist/6F8yrN99JnFHqSF9CZcj2V"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171922,
+      "name": "Digital Girlfriend",
+      "url": "https://open.spotify.com/track/4BuyW9oEVj7oliRL4P2kcs"
     },
     {
       "album": {
@@ -20609,6 +20649,24 @@
     },
     {
       "album": {
+        "name": "Meet Me on the Dance Floor (from the Netflix Film \"Steps\")",
+        "url": "https://open.spotify.com/album/3Pv7ot40kesmbFjZq17RJr"
+      },
+      "artists": [
+        {
+          "name": "Rose Gray",
+          "url": "https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178920,
+      "name": "Meet Me on the Dance Floor (from the Netflix Film \"Steps\")",
+      "url": "https://open.spotify.com/track/1DmjYF2U6PZg2CxbDoYEHM"
+    },
+    {
+      "album": {
         "name": "Melatonin",
         "url": "https://open.spotify.com/album/228ian0XYKvFtY1UchZy5d"
       },
@@ -20842,6 +20900,24 @@
       "duration_ms": 238167,
       "name": "Microdosing",
       "url": "https://open.spotify.com/track/6JtT4a0Z406dz7A2f2vGBe"
+    },
+    {
+      "album": {
+        "name": "Superbloom (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2EJYUIinC3NXtlsFbJtCXX"
+      },
+      "artists": [
+        {
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258218,
+      "name": "Middle Of The Night",
+      "url": "https://open.spotify.com/track/2CTiUfh0kMF5znU84IdjtP"
     },
     {
       "album": {
@@ -21866,7 +21942,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 198509,
       "name": "Myriad Reflector",
       "url": "https://open.spotify.com/track/3IHVJz2gCt9U9goWpG4hcb"
@@ -23608,6 +23684,24 @@
       "duration_ms": 186904,
       "name": "Overdrive",
       "url": "https://open.spotify.com/track/6qiTAGpnHIYB1mh1c1U3wI"
+    },
+    {
+      "album": {
+        "name": "The Pursuit of Pleasure",
+        "url": "https://open.spotify.com/album/0tNBGI5xTcJ6FSC1h12uv3"
+      },
+      "artists": [
+        {
+          "name": "Cherry Bomb",
+          "url": "https://open.spotify.com/artist/2MpXbvJeuKYA2qyxdB0eCM"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203440,
+      "name": "Oxymoronic",
+      "url": "https://open.spotify.com/track/5h7cDSDXfZMEL2yPiz8LW4"
     },
     {
       "album": {
@@ -29978,7 +30072,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 193350,
       "name": "Talk To Me, Zara",
       "url": "https://open.spotify.com/track/58bQU5JRk0sBMUMdRy7sjk"

@@ -5031,6 +5031,28 @@
     },
     {
       "album": {
+        "name": "DRTY",
+        "url": "https://open.spotify.com/album/1aao8FuXkxeH7xLcGlSmx8"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200816,
+      "name": "DRTY",
+      "url": "https://open.spotify.com/track/4v908d71nMHw4sRRx5YTZQ"
+    },
+    {
+      "album": {
         "name": "DSC",
         "url": "https://open.spotify.com/album/5yEQEggZjhNNLMz8jY4n3r"
       },
@@ -7658,7 +7680,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 135724,
       "name": "I Knoww II",
       "url": "https://open.spotify.com/track/0DlXEJiBF5RsnbiYqKndsV"

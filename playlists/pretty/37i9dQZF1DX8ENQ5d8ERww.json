@@ -355,26 +355,6 @@
     {
       "added_at": "2026-10-08 22:00:12",
       "album": {
-        "name": "Verd\u00e4chtig",
-        "url": "https://open.spotify.com/album/3VssVyEuKRopiVCwQZGy7m"
-      },
-      "artists": [
-        {
-          "name": "Wurzel 5",
-          "url": "https://open.spotify.com/artist/735iLNwRvdc39OXIbF9W4K"
-        },
-        {
-          "name": "Luut und T\u00fc\u00fctli",
-          "url": "https://open.spotify.com/artist/77hbpDymWqmhlv7H2Mlrbu"
-        }
-      ],
-      "duration_ms": 286026,
-      "name": "Schwiizchaschte",
-      "url": "https://open.spotify.com/track/5Gnn8npKzj9KRhDTy4hgtN"
-    },
-    {
-      "added_at": "2026-10-08 22:00:12",
-      "album": {
         "name": "Glanton Gang",
         "url": "https://open.spotify.com/album/0kiaJgxcPFBCRx7AilxSef"
       },
@@ -391,6 +371,26 @@
       "duration_ms": 293933,
       "name": "Glasm\u00f6nsch",
       "url": "https://open.spotify.com/track/0GfZ8xC6eDB0OyeC3vipjn"
+    },
+    {
+      "added_at": "2026-10-08 22:00:12",
+      "album": {
+        "name": "Verd\u00e4chtig",
+        "url": "https://open.spotify.com/album/3VssVyEuKRopiVCwQZGy7m"
+      },
+      "artists": [
+        {
+          "name": "Wurzel 5",
+          "url": "https://open.spotify.com/artist/735iLNwRvdc39OXIbF9W4K"
+        },
+        {
+          "name": "Luut und T\u00fc\u00fctli",
+          "url": "https://open.spotify.com/artist/77hbpDymWqmhlv7H2Mlrbu"
+        }
+      ],
+      "duration_ms": 286026,
+      "name": "Schwiizchaschte",
+      "url": "https://open.spotify.com/track/5Gnn8npKzj9KRhDTy4hgtN"
     },
     {
       "added_at": "2026-10-08 22:00:12",

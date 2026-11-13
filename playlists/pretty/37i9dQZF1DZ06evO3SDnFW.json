@@ -1,12 +1,12 @@
 {
   "description": "This is Sam Fender. The essential tracks, all in one playlist.",
-  "num_followers": 256422,
+  "num_followers": 256486,
   "original_name": "This Is Sam Fender",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avENAAAAAADSbnteVRjuwQyKS+wSqkWt",
+  "snapshot_id": "avOwAAAAAACzMJJTseC88rUL8p0t6x1Z",
   "tracks": [
     {
       "added_at": null,
@@ -320,9 +320,9 @@
           "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
         }
       ],
-      "duration_ms": 225600,
-      "name": "Play God",
-      "url": "https://open.spotify.com/track/6R1y3I91AIktu7qoKIugtH"
+      "duration_ms": 275186,
+      "name": "You're Not The Only One",
+      "url": "https://open.spotify.com/track/50PsIMoFsYh2clFHipEi8c"
     },
     {
       "added_at": null,
@@ -448,9 +448,9 @@
           "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
         }
       ],
-      "duration_ms": 275186,
-      "name": "You're Not The Only One",
-      "url": "https://open.spotify.com/track/50PsIMoFsYh2clFHipEi8c"
+      "duration_ms": 225600,
+      "name": "Play God",
+      "url": "https://open.spotify.com/track/6R1y3I91AIktu7qoKIugtH"
     },
     {
       "added_at": null,

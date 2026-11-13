@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest South African rap. \nCover: Buzzi Lee",
+  "description": "Only the hottest South African rap. \nCover: Usimamane",
   "name": "Mzansi Raps",
   "tracks": [
     {
@@ -1546,7 +1546,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 191168,
       "name": "Arrival",
       "url": "https://open.spotify.com/track/47y8h6yklO7E9GWpGLJ3OG"
@@ -1807,6 +1807,28 @@
     },
     {
       "album": {
+        "name": "Die Mense Is Maal",
+        "url": "https://open.spotify.com/album/7GpWEyVSyZCgOhsXjgeJYs"
+      },
+      "artists": [
+        {
+          "name": "Tshego Santana",
+          "url": "https://open.spotify.com/artist/3PrUYgxlKgT2RfX4WkeKw1"
+        },
+        {
+          "name": "A1 RSA",
+          "url": "https://open.spotify.com/artist/1veDMnAgFtRwiZQXezHZMm"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154666,
+      "name": "Azizi",
+      "url": "https://open.spotify.com/track/4tVNuu6MWmMMcFEfJziuOc"
+    },
+    {
+      "album": {
         "name": "Release Form",
         "url": "https://open.spotify.com/album/0CFcDaqpAgqIuYCY6oH31I"
       },
@@ -1826,6 +1848,24 @@
       "duration_ms": 163000,
       "name": "B!tch I'm Good",
       "url": "https://open.spotify.com/track/4ZsqIZhTMk33sbnGgICEwr"
+    },
+    {
+      "album": {
+        "name": "B'thebelele",
+        "url": "https://open.spotify.com/album/2aiXIGo4TDBhu6Oxg9CTHR"
+      },
+      "artists": [
+        {
+          "name": "Nomfundo Yekani",
+          "url": "https://open.spotify.com/artist/0djohoWvQY0SyNvKwqqfKy"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204631,
+      "name": "B'thebelele",
+      "url": "https://open.spotify.com/track/2rJ4NDYUmab3uF41ziMBTX"
     },
     {
       "album": {
@@ -4484,7 +4524,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 213658,
       "name": "CHOOSE ME! LOS ME!",
       "url": "https://open.spotify.com/track/1XdQE1sItS0UQQQe6mqIFT"
@@ -5978,6 +6018,32 @@
       "duration_ms": 175200,
       "name": "Dues - Radio Version",
       "url": "https://open.spotify.com/track/7kqrDBm2gEIt1QZI5VwMR6"
+    },
+    {
+      "album": {
+        "name": "DUNK",
+        "url": "https://open.spotify.com/album/72gfPRIVbSuqh6BkpEQPd7"
+      },
+      "artists": [
+        {
+          "name": "Dukii gonegreen",
+          "url": "https://open.spotify.com/artist/7IrDZVPI2sfYCpyUgj4zwK"
+        },
+        {
+          "name": "LaCabra",
+          "url": "https://open.spotify.com/artist/1Ccf9QPY9mcDSSwnlvofIT"
+        },
+        {
+          "name": "Trophy",
+          "url": "https://open.spotify.com/artist/65vyqjRCxzXjN1TQ3wxoH2"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225886,
+      "name": "DUNK",
+      "url": "https://open.spotify.com/track/2iDL7qT4Z80I4T2p1f60Bc"
     },
     {
       "album": {
@@ -7478,7 +7544,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 401455,
       "name": "Four Horsemen",
       "url": "https://open.spotify.com/track/5DTaJmcXUnv65UyE9SgvX1"
@@ -8380,7 +8446,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 173663,
       "name": "GOBELA",
       "url": "https://open.spotify.com/track/7puq4BGI8373UmiKWEdlk3"
@@ -9835,6 +9901,32 @@
     },
     {
       "album": {
+        "name": "House Party Chronicles (feat. Mellow & Sleazy)",
+        "url": "https://open.spotify.com/album/45FRAVqOWOzReE3BYkTp5q"
+      },
+      "artists": [
+        {
+          "name": "MfanaTouchLine",
+          "url": "https://open.spotify.com/artist/2RV0TompTWunZpF57DdQzJ"
+        },
+        {
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+        },
+        {
+          "name": "Mellow & Sleazy",
+          "url": "https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148965,
+      "name": "House Party Chronicles (feat. Mellow & Sleazy)",
+      "url": "https://open.spotify.com/track/2xsXfmYPC9R6eomGVTAxYE"
+    },
+    {
+      "album": {
         "name": "B4 BISS",
         "url": "https://open.spotify.com/album/6ksSRQyRNoP5pTEjp1fGos"
       },
@@ -9890,7 +9982,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 153191,
       "name": "HUSH",
       "url": "https://open.spotify.com/track/6XtxJYTo8YRCspzt8nvnu5"
@@ -10000,6 +10092,24 @@
       "duration_ms": 137879,
       "name": "I Want It",
       "url": "https://open.spotify.com/track/37dSZbFDX85ofQGof9rM5E"
+    },
+    {
+      "album": {
+        "name": "Might Delete Later",
+        "url": "https://open.spotify.com/album/1rrcujwBt5fwfKaww26XsS"
+      },
+      "artists": [
+        {
+          "name": "Aubrey Gift",
+          "url": "https://open.spotify.com/artist/66loHjDA3JRrdVfxkNg880"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139134,
+      "name": "I Wonder",
+      "url": "https://open.spotify.com/track/1Ihnxgm56AuFTelJ5J7JAx"
     },
     {
       "album": {
@@ -10130,6 +10240,28 @@
       "duration_ms": 248330,
       "name": "iGhost (feat. Jepedoh, Sastii, DaHoodHope & Buzzi Lee)",
       "url": "https://open.spotify.com/track/3RcvOGYJ0OIrOAkVHKSSJh"
+    },
+    {
+      "album": {
+        "name": "ihhala",
+        "url": "https://open.spotify.com/album/2vdLOLnM9OGTmro6HwTEsP"
+      },
+      "artists": [
+        {
+          "name": "Sastii",
+          "url": "https://open.spotify.com/artist/32Mj58IRbLXY5O8uj2O0Ml"
+        },
+        {
+          "name": "Focalistic",
+          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216177,
+      "name": "ihhala",
+      "url": "https://open.spotify.com/track/5NHZZHsClzIGVCQnwJQe7H"
     },
     {
       "album": {
@@ -11288,7 +11420,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 173658,
       "name": "KE WAVE (feat. Brotherkupa)",
       "url": "https://open.spotify.com/track/6Eh0cVGv6rTO00HPgpKAom"
@@ -13110,7 +13242,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 168964,
       "name": "Mabulala Amakhosi",
       "url": "https://open.spotify.com/track/4SJh72AVSRZrVqbsYDM5Ez"
@@ -13536,7 +13668,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 132413,
       "name": "Marco Polo",
       "url": "https://open.spotify.com/track/78RrafIVtzx0ObqAGRljs7"
@@ -14421,6 +14553,32 @@
     },
     {
       "album": {
+        "name": "Money Dance",
+        "url": "https://open.spotify.com/album/4Ez6tdQJvLlEnnZ3ngJ73k"
+      },
+      "artists": [
+        {
+          "name": "Coach Kling",
+          "url": "https://open.spotify.com/artist/2pyiSqWlMN3iHwe0FAhspB"
+        },
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        },
+        {
+          "name": "Khuli Chana",
+          "url": "https://open.spotify.com/artist/4f2hVqzqXvQdVaC35D8sAc"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Money Dance",
+      "url": "https://open.spotify.com/track/0QPcXR3yncr8DzzUtJw8Yq"
+    },
+    {
+      "album": {
         "name": "Mongameli",
         "url": "https://open.spotify.com/album/0eNqPQLDlV8IxOtdrmRMxr"
       },
@@ -14758,6 +14916,28 @@
       "duration_ms": 244733,
       "name": "Muthaland",
       "url": "https://open.spotify.com/track/4w8QGOOFOt5WwjUUYWewjn"
+    },
+    {
+      "album": {
+        "name": "My Baby",
+        "url": "https://open.spotify.com/album/6Qv96vPYbC8S3Ahkj997yr"
+      },
+      "artists": [
+        {
+          "name": "Usimamane",
+          "url": "https://open.spotify.com/artist/7CAuIrM6rFLrIgisYOV0Fs"
+        },
+        {
+          "name": "Jacquees",
+          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226206,
+      "name": "My Baby",
+      "url": "https://open.spotify.com/track/6pUN3vIWlsDDfj9N6tGFsB"
     },
     {
       "album": {
@@ -15486,6 +15666,24 @@
       "duration_ms": 178285,
       "name": "NO FAVOURS",
       "url": "https://open.spotify.com/track/6Se4W4sWQoWIm9aAo7Vdtu"
+    },
+    {
+      "album": {
+        "name": "NO MISTAKE",
+        "url": "https://open.spotify.com/album/2jZ6LyB5NJlaUVoskql5wZ"
+      },
+      "artists": [
+        {
+          "name": "Teejay Mokoena",
+          "url": "https://open.spotify.com/artist/6V8GQVZuFWQiJexS7Kd1rU"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142153,
+      "name": "NO MISTAKE",
+      "url": "https://open.spotify.com/track/0KOTUyiV2WTb8x6Q8XVUWt"
     },
     {
       "album": {
@@ -22396,7 +22594,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 219872,
       "name": "The World Is Yours",
       "url": "https://open.spotify.com/track/5dJ60tQj97cP7VnrkrY5Wo"
@@ -22846,7 +23044,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 150000,
       "name": "Today is a good day",
       "url": "https://open.spotify.com/track/2IOiEhA8VTT4gwel9HgJuu"
@@ -25230,6 +25428,24 @@
       "duration_ms": 74146,
       "name": "Why?",
       "url": "https://open.spotify.com/track/03WphxjLUiLYIixQKoyorC"
+    },
+    {
+      "album": {
+        "name": "Wide Eyes",
+        "url": "https://open.spotify.com/album/18ZUEjbGwQwAVEroeyRvi6"
+      },
+      "artists": [
+        {
+          "name": "Tyler Linkman",
+          "url": "https://open.spotify.com/artist/7ucMQHGfqFQCBYDgzxgHoO"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165882,
+      "name": "Wide Eyes",
+      "url": "https://open.spotify.com/track/20lF0XlycmE6BQgPKCfvK1"
     },
     {
       "album": {

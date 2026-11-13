@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > Showing Teeth are on top of today's best Metal playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,659,804 likes - 101 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,659,838 likes - 101 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

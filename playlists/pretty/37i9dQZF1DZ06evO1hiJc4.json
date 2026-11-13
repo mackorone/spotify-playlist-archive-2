@@ -1,12 +1,12 @@
 {
   "description": "This is Labrinth. The essential tracks, all in one playlist.",
-  "num_followers": 158116,
+  "num_followers": 158120,
   "original_name": "This Is Labrinth",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avENAAAAAADW44Xqix4yrX4+wl+rg2UG",
+  "snapshot_id": "avOwAAAAAAAYb3MLhs12KCQ2WRuM2gIa",
   "tracks": [
     {
       "added_at": null,
@@ -335,26 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cloud Nine",
-        "url": "https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 230356,
-      "name": "Fragile",
-      "url": "https://open.spotify.com/track/6PyxrogMU9imKqVtKx6840"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Make Me (Cry)",
         "url": "https://open.spotify.com/album/46yAYzRhSMPA44m0MzSr6g"
       },
@@ -371,6 +351,26 @@
       "duration_ms": 242081,
       "name": "Make Me (Cry)",
       "url": "https://open.spotify.com/track/2BrzlUj1u1CtvaJDGIKpsP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cloud Nine",
+        "url": "https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 230356,
+      "name": "Fragile",
+      "url": "https://open.spotify.com/track/6PyxrogMU9imKqVtKx6840"
     },
     {
       "added_at": null,
@@ -511,18 +511,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "EUPHORIA SEASON 2 OFFICIAL SCORE (FROM THE HBO ORIGINAL SERIES)",
-        "url": "https://open.spotify.com/album/43tSLc6ZxW8TTRLrBO0SU1"
+        "name": "Disc-Overy",
+        "url": "https://open.spotify.com/album/6nuITL8EMJO1zncOwOeHRr"
       },
       "artists": [
+        {
+          "name": "Tinie Tempah",
+          "url": "https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp"
+        },
         {
           "name": "Labrinth",
           "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
         }
       ],
-      "duration_ms": 150790,
-      "name": "See You Assholes Later",
-      "url": "https://open.spotify.com/track/7A3sMtS3oLdYq9GZlDYzF9"
+      "duration_ms": 295413,
+      "name": "Frisky (feat. Labrinth)",
+      "url": "https://open.spotify.com/track/1vEJMOUd7nRyItMAMDQ5ED"
     },
     {
       "added_at": null,
@@ -543,22 +547,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Disc-Overy",
-        "url": "https://open.spotify.com/album/6nuITL8EMJO1zncOwOeHRr"
+        "name": "EUPHORIA SEASON 2 OFFICIAL SCORE (FROM THE HBO ORIGINAL SERIES)",
+        "url": "https://open.spotify.com/album/43tSLc6ZxW8TTRLrBO0SU1"
       },
       "artists": [
-        {
-          "name": "Tinie Tempah",
-          "url": "https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp"
-        },
         {
           "name": "Labrinth",
           "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
         }
       ],
-      "duration_ms": 295413,
-      "name": "Frisky (feat. Labrinth)",
-      "url": "https://open.spotify.com/track/1vEJMOUd7nRyItMAMDQ5ED"
+      "duration_ms": 150790,
+      "name": "See You Assholes Later",
+      "url": "https://open.spotify.com/track/7A3sMtS3oLdYq9GZlDYzF9"
     },
     {
       "added_at": null,
@@ -755,6 +755,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Kitchen (Score from the Netflix Film)",
+        "url": "https://open.spotify.com/album/67JwhnzZp9DLFIHfsfK6Uf"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 53353,
+      "name": "What Would You Want Me To Be",
+      "url": "https://open.spotify.com/track/5qdma4cGhLzg5fkX57dnmH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Music Is the Weapon (Reloaded)",
         "url": "https://open.spotify.com/album/76zSNlOGCAxTln5yG4pfih"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 199168,
       "name": "Titans",
       "url": "https://open.spotify.com/track/1YHeCzS5L9xs76eOpAS6WU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Kitchen (Score from the Netflix Film)",
-        "url": "https://open.spotify.com/album/67JwhnzZp9DLFIHfsfK6Uf"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 53353,
-      "name": "What Would You Want Me To Be",
-      "url": "https://open.spotify.com/track/5qdma4cGhLzg5fkX57dnmH"
     },
     {
       "added_at": null,
@@ -859,22 +859,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Kitchen (Score from the Netflix Film)",
-        "url": "https://open.spotify.com/album/67JwhnzZp9DLFIHfsfK6Uf"
+        "name": "Electronic Earth (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6PBBbXmYV7dKnaik0fjkOI"
       },
       "artists": [
         {
           "name": "Labrinth",
           "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        },
-        {
-          "name": "Alex Baranowski",
-          "url": "https://open.spotify.com/artist/25ZtHjSjM5LJckzidujhoQ"
         }
       ],
-      "duration_ms": 102603,
-      "name": "Accepted By The Crew",
-      "url": "https://open.spotify.com/track/20pJfe2XnmhYQWlKUlamHh"
+      "duration_ms": 179800,
+      "name": "Let the Sun Shine",
+      "url": "https://open.spotify.com/track/7nRAK7blAQt94WRDI3EciA"
     },
     {
       "added_at": null,
@@ -919,18 +915,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Electronic Earth (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6PBBbXmYV7dKnaik0fjkOI"
+        "name": "The Kitchen (Score from the Netflix Film)",
+        "url": "https://open.spotify.com/album/67JwhnzZp9DLFIHfsfK6Uf"
       },
       "artists": [
         {
           "name": "Labrinth",
           "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        },
+        {
+          "name": "Alex Baranowski",
+          "url": "https://open.spotify.com/artist/25ZtHjSjM5LJckzidujhoQ"
         }
       ],
-      "duration_ms": 179800,
-      "name": "Let the Sun Shine",
-      "url": "https://open.spotify.com/track/7nRAK7blAQt94WRDI3EciA"
+      "duration_ms": 102603,
+      "name": "Accepted By The Crew",
+      "url": "https://open.spotify.com/track/20pJfe2XnmhYQWlKUlamHh"
     },
     {
       "added_at": null,
@@ -951,8 +951,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Kitchen (Score from the Netflix Film)",
-        "url": "https://open.spotify.com/album/67JwhnzZp9DLFIHfsfK6Uf"
+        "name": "COSMIC OPERA ACT I",
+        "url": "https://open.spotify.com/album/3vSeUipyxX4zU6gEl4f1iC"
       },
       "artists": [
         {
@@ -960,9 +960,9 @@
           "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
         }
       ],
-      "duration_ms": 69153,
-      "name": "Benji Puts His Mum To Rest",
-      "url": "https://open.spotify.com/track/34G1uKTSzL3Rw0FzX93Mpw"
+      "duration_ms": 175086,
+      "name": "Debris",
+      "url": "https://open.spotify.com/track/1tNCeieDWM4H5miALnbTbb"
     }
   ],
   "unique_name": "This Is Labrinth",

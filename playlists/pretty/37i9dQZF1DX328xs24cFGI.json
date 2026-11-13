@@ -1,18 +1,18 @@
 {
   "description": "\u604b\u3057\u3066\u308b\u3042\u306a\u305f\u306b\u5bc4\u308a\u6dfb\u3046\u3001\u7d20\u6575\u306a\u30e9\u30d6\u30bd\u30f3\u30b0\u3092\u96c6\u3081\u307e\u3057\u305f\u3002Illustration by <a href=\"https://twitter.com/hoshieri7\">\u5317\u6751\u82f1\u7406</a>(Eri Kitamura)",
-  "num_followers": 202370,
+  "num_followers": 202407,
   "original_name": "\u604b\u3059\u308b\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADLGKAOULpYmMLp1ppmlh7EwmqWp",
+  "snapshot_id": "AAAAAGiwE+sbzdK1ivnUWQHO6P0c/XR7",
   "tracks": [
     {
       "added_at": "2026-11-03 15:00:33",
       "album": {
-        "name": "\u30e9\u30d6\u30b9\u30c8\u30fc\u30ea\u30fc",
-        "url": "https://open.spotify.com/album/6Elim2fDkGOu1ObNwZHvuQ"
+        "name": "\u30b9\u30fc\u30d1\u30fc\u30b9\u30bf\u30fc",
+        "url": "https://open.spotify.com/album/4x70QIHYGdMgV9rRgByZbI"
       },
       "artists": [
         {
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g"
         }
       ],
-      "duration_ms": 294813,
-      "name": "\u9ad8\u5dba\u306e\u82b1\u5b50\u3055\u3093",
-      "url": "https://open.spotify.com/track/2jdbZGFp8KVTuk0YxDNL4l"
+      "duration_ms": 286053,
+      "name": "\u82b1\u675f",
+      "url": "https://open.spotify.com/track/3QIAwtEEDOrv0g5NKCGrXZ"
     },
     {
       "added_at": "2026-11-03 15:00:33",
@@ -251,8 +251,8 @@
     {
       "added_at": "2026-11-03 15:00:33",
       "album": {
-        "name": "\u30b9\u30fc\u30d1\u30fc\u30b9\u30bf\u30fc",
-        "url": "https://open.spotify.com/album/4x70QIHYGdMgV9rRgByZbI"
+        "name": "\u30e9\u30d6\u30b9\u30c8\u30fc\u30ea\u30fc",
+        "url": "https://open.spotify.com/album/6Elim2fDkGOu1ObNwZHvuQ"
       },
       "artists": [
         {
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g"
         }
       ],
-      "duration_ms": 286053,
-      "name": "\u82b1\u675f",
-      "url": "https://open.spotify.com/track/3QIAwtEEDOrv0g5NKCGrXZ"
+      "duration_ms": 294813,
+      "name": "\u9ad8\u5dba\u306e\u82b1\u5b50\u3055\u3093",
+      "url": "https://open.spotify.com/track/2jdbZGFp8KVTuk0YxDNL4l"
     },
     {
       "added_at": "2026-11-03 15:00:33",
@@ -539,22 +539,6 @@
     {
       "added_at": "2026-11-03 15:00:33",
       "album": {
-        "name": "TSUNAMI",
-        "url": "https://open.spotify.com/album/3EVm3Pp0j7BO8TG0rEofss"
-      },
-      "artists": [
-        {
-          "name": "\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
-          "url": "https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael"
-        }
-      ],
-      "duration_ms": 315500,
-      "name": "TSUNAMI",
-      "url": "https://open.spotify.com/track/2iXZA6Ecf9AZHw92tZBNLv"
-    },
-    {
-      "added_at": "2026-11-03 15:00:33",
-      "album": {
         "name": "\u50d5\u305f\u3061\u304c\u3084\u308a\u307e\u3057\u305f",
         "url": "https://open.spotify.com/album/0jf58OGRFXs8NG5hcUCJb0"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 276040,
       "name": "\u732b",
       "url": "https://open.spotify.com/track/6sIx7Cn37DGEhjy9hBP8Gx"
+    },
+    {
+      "added_at": "2026-11-03 15:00:33",
+      "album": {
+        "name": "TSUNAMI",
+        "url": "https://open.spotify.com/album/3EVm3Pp0j7BO8TG0rEofss"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
+          "url": "https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael"
+        }
+      ],
+      "duration_ms": 315500,
+      "name": "TSUNAMI",
+      "url": "https://open.spotify.com/track/2iXZA6Ecf9AZHw92tZBNLv"
     },
     {
       "added_at": "2026-11-03 15:00:33",
@@ -843,18 +843,18 @@
     {
       "added_at": "2026-11-03 15:00:33",
       "album": {
-        "name": "So Honey",
-        "url": "https://open.spotify.com/album/2P85AehquD1yapP2BvFhcv"
+        "name": "\u30d7\u30ed\u30ed\u30fc\u30b0",
+        "url": "https://open.spotify.com/album/3MOKzDaMiqSc04I04oiELA"
       },
       "artists": [
         {
-          "name": "King & Prince",
-          "url": "https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp"
+          "name": "Uru",
+          "url": "https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k"
         }
       ],
-      "duration_ms": 186466,
-      "name": "So Honey",
-      "url": "https://open.spotify.com/track/5oAyDEvsfDuirGzjEh3p3D"
+      "duration_ms": 302346,
+      "name": "\u30d7\u30ed\u30ed\u30fc\u30b0",
+      "url": "https://open.spotify.com/track/4YMukCV1BsdK8V9kZoQpT6"
     },
     {
       "added_at": "2026-11-03 15:00:33",
@@ -875,18 +875,18 @@
     {
       "added_at": "2026-11-03 15:00:33",
       "album": {
-        "name": "\u30d7\u30ed\u30ed\u30fc\u30b0",
-        "url": "https://open.spotify.com/album/3MOKzDaMiqSc04I04oiELA"
+        "name": "So Honey",
+        "url": "https://open.spotify.com/album/2P85AehquD1yapP2BvFhcv"
       },
       "artists": [
         {
-          "name": "Uru",
-          "url": "https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k"
+          "name": "King & Prince",
+          "url": "https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp"
         }
       ],
-      "duration_ms": 302346,
-      "name": "\u30d7\u30ed\u30ed\u30fc\u30b0",
-      "url": "https://open.spotify.com/track/4YMukCV1BsdK8V9kZoQpT6"
+      "duration_ms": 186466,
+      "name": "So Honey",
+      "url": "https://open.spotify.com/track/5oAyDEvsfDuirGzjEh3p3D"
     },
     {
       "added_at": "2026-11-03 15:00:33",

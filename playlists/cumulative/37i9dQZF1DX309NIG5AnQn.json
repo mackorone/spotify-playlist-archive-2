@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-30",
-  "description": "rock alternativo y sudamericano. \n\ud83d\udcf7 Luz y Fuerza",
+  "description": "rock alternativo y sudamericano. \n\ud83d\udcf7 No Me Toques",
   "name": "alt/rock",
   "tracks": [
     {
@@ -328,6 +328,24 @@
       "duration_ms": 323210,
       "name": "Algo Especial",
       "url": "https://open.spotify.com/track/7CvOAdS95Jt41VPw7WyOER"
+    },
+    {
+      "album": {
+        "name": "odio absoluto",
+        "url": "https://open.spotify.com/album/6zFrukNN2oUaf4QJKJfxzx"
+      },
+      "artists": [
+        {
+          "name": "La Real Academia",
+          "url": "https://open.spotify.com/artist/4Rin3fJL3HmFKZsoJ2OzZm"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212169,
+      "name": "Algo para Hacer",
+      "url": "https://open.spotify.com/track/6mRqrM17llHwkMyqlUuDsz"
     },
     {
       "album": {
@@ -1610,7 +1628,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 179926,
       "name": "Cuidado!",
       "url": "https://open.spotify.com/track/72GGPzaWYpeEHstvhkMcBH"
@@ -2218,7 +2236,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 244195,
       "name": "DOSMILUNO",
       "url": "https://open.spotify.com/track/5XsIW5AjmCGybWKQ7tYxqd"
@@ -2830,7 +2848,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 132167,
       "name": "En los Parques",
       "url": "https://open.spotify.com/track/3IRj8U0Lt8bPdlW6GXBK5q"
@@ -2902,7 +2920,7 @@
       ],
       "date_added": "2025-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 167000,
       "name": "Envejecer",
       "url": "https://open.spotify.com/track/0okBFKTi6txpRPV4NenIVb"
@@ -3112,7 +3130,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 339914,
       "name": "Estrellate Estrellita",
       "url": "https://open.spotify.com/track/2wIvD1QzMVlshMuMk4QMWN"
@@ -3220,7 +3238,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 223489,
       "name": "Fanta",
       "url": "https://open.spotify.com/track/182EMsj439PrsmmUYbYy4w"
@@ -3480,7 +3498,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 251407,
       "name": "Guerrero At\u00edpico",
       "url": "https://open.spotify.com/track/5JcF5s0zg7kpeEXg7Iwrgq"
@@ -3834,7 +3852,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 195862,
       "name": "Jalls",
       "url": "https://open.spotify.com/track/3LkuzuyI9d5deRWN55qvH4"
@@ -3888,7 +3906,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 220074,
       "name": "La Chica Diablo",
       "url": "https://open.spotify.com/track/709BCJ6RV5c6xxuByvRjMO"
@@ -4014,7 +4032,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 181930,
       "name": "La Otra Transmisi\u00f3n",
       "url": "https://open.spotify.com/track/0lpz4dZdEDIfn0G2BTv0tc"
@@ -4036,10 +4054,28 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 178794,
       "name": "LAIKS",
       "url": "https://open.spotify.com/track/3Camdb3Q9HlHo6hj7qo266"
+    },
+    {
+      "album": {
+        "name": "Lala Lala",
+        "url": "https://open.spotify.com/album/4ePuox2yCxGgYH5FA7OYv3"
+      },
+      "artists": [
+        {
+          "name": "No Me Toques",
+          "url": "https://open.spotify.com/artist/31uqDrkWjG36pNZU0QSoqi"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236823,
+      "name": "Lala Lala",
+      "url": "https://open.spotify.com/track/3tw2aGDrvCnYwyzKeBTODv"
     },
     {
       "album": {
@@ -4963,6 +4999,24 @@
     },
     {
       "album": {
+        "name": "Ni a palo",
+        "url": "https://open.spotify.com/album/57xTRDtN3csygZL8qqU3Z1"
+      },
+      "artists": [
+        {
+          "name": "NOTA",
+          "url": "https://open.spotify.com/artist/3diz4968GyTG9QV0xVv9lf"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229129,
+      "name": "Ni a palo",
+      "url": "https://open.spotify.com/track/1yGfQCRafAhpOWODEnov3g"
+    },
+    {
+      "album": {
         "name": "No Volver a Perder",
         "url": "https://open.spotify.com/album/7v64pkN48rwUk5m4O4Eagu"
       },
@@ -5264,7 +5318,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 221770,
       "name": "no tengo plata",
       "url": "https://open.spotify.com/track/1Jpnh08qOURW1ZMLeLID2P"
@@ -5788,7 +5842,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 135064,
       "name": "Pide M\u00e1s",
       "url": "https://open.spotify.com/track/5SFCNtQT09D6sNTuB8rnl5"
@@ -6228,7 +6282,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 146176,
       "name": "que se la banquen",
       "url": "https://open.spotify.com/track/1SDALVQe638r5X8r0NfAaJ"
@@ -6246,7 +6300,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 170495,
       "name": "Querido chico",
       "url": "https://open.spotify.com/track/3jyCGPvVavcRnvOMvlJOOO"
@@ -6834,7 +6888,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 225000,
       "name": "Somos Diferentes",
       "url": "https://open.spotify.com/track/2s8vUergwWmNyEcoau4O5O"
@@ -7126,7 +7180,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 172983,
       "name": "Temporal (Bby date cuenta)",
       "url": "https://open.spotify.com/track/2xWqMw3XIEnMni7GJDxqQc"
@@ -7346,6 +7400,24 @@
       "duration_ms": 157069,
       "name": "Tres Viernes",
       "url": "https://open.spotify.com/track/1dgQjfoM0Kcus4Sq6AjTSx"
+    },
+    {
+      "album": {
+        "name": "Tristeza Criolla (Versi\u00f3n Extendida)",
+        "url": "https://open.spotify.com/album/7txyp6wbyrgbCbRHhrDyqI"
+      },
+      "artists": [
+        {
+          "name": "Pretoria",
+          "url": "https://open.spotify.com/artist/0EPYCIPQkhMLuUM9Iqe7B5"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284000,
+      "name": "Tristeza Criolla",
+      "url": "https://open.spotify.com/track/3ybTYYOOOcTBjeuu2ucdVu"
     },
     {
       "album": {
@@ -7584,7 +7656,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 236081,
       "name": "Una Temporada en el Invierno",
       "url": "https://open.spotify.com/track/1UjHRALJEtjgXd3uKC6MnF"
@@ -7800,7 +7872,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 187501,
       "name": "ya nada es igual",
       "url": "https://open.spotify.com/track/1wazR5obN3REn4RM70n0py"

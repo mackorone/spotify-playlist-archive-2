@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avENAAAAAAAkn+8Hj4moIbwJ9ZkHphEY",
+  "snapshot_id": "avOwAAAAAAB4e41G+o3zhy+CZC9if0UB",
   "tracks": [
     {
       "added_at": null,
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I"
         }
       ],
-      "duration_ms": 477692,
-      "name": "Venus",
-      "url": "https://open.spotify.com/track/4HAF5goUXFs9DQF0QdIMEQ"
+      "duration_ms": 364000,
+      "name": "Take the Thorn, Leave the Rose",
+      "url": "https://open.spotify.com/track/4lGU6coYhhEH6ekB5bN4cZ"
     },
     {
       "added_at": null,
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I"
         }
       ],
-      "duration_ms": 364000,
-      "name": "Take the Thorn, Leave the Rose",
-      "url": "https://open.spotify.com/track/4lGU6coYhhEH6ekB5bN4cZ"
+      "duration_ms": 477692,
+      "name": "Venus",
+      "url": "https://open.spotify.com/track/4HAF5goUXFs9DQF0QdIMEQ"
     },
     {
       "added_at": null,

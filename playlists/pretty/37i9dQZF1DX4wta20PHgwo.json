@@ -1,6 +1,6 @@
 {
   "description": "The perfect backdrop to an evening spent relaxing in solitude.",
-  "num_followers": 2181093,
+  "num_followers": 2181047,
   "original_name": "Late Night Jazz",
   "owner": {
     "name": "Spotify",
@@ -87,34 +87,6 @@
     {
       "added_at": "2026-11-06 09:59:04",
       "album": {
-        "name": "Selim / Orange",
-        "url": "https://open.spotify.com/album/5pvkg7xxil9Y0o0UYk1cgw"
-      },
-      "artists": [
-        {
-          "name": "Paolo Fresu",
-          "url": "https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi"
-        },
-        {
-          "name": "Marco Bardoscia",
-          "url": "https://open.spotify.com/artist/6nPFcBOpXLW2vzvor5xo6E"
-        },
-        {
-          "name": "Stefano Bagnoli",
-          "url": "https://open.spotify.com/artist/18ctV072Ro4jq3Uof7fYzN"
-        },
-        {
-          "name": "Dino Rubino",
-          "url": "https://open.spotify.com/artist/3BatL5ELL5CEN1xjCeDi7S"
-        }
-      ],
-      "duration_ms": 196613,
-      "name": "Selim",
-      "url": "https://open.spotify.com/track/0yhKYdDTa4uL6w120teRPP"
-    },
-    {
-      "added_at": "2026-11-06 09:59:04",
-      "album": {
         "name": "This Is Our Year",
         "url": "https://open.spotify.com/album/0vly6DrBxbf2tIUB33vOh0"
       },
@@ -143,6 +115,34 @@
       "duration_ms": 371894,
       "name": "This Is Our Year",
       "url": "https://open.spotify.com/track/24USzMZvsczfg3WsjUruPc"
+    },
+    {
+      "added_at": "2026-11-06 09:59:04",
+      "album": {
+        "name": "Selim / Orange",
+        "url": "https://open.spotify.com/album/5pvkg7xxil9Y0o0UYk1cgw"
+      },
+      "artists": [
+        {
+          "name": "Paolo Fresu",
+          "url": "https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi"
+        },
+        {
+          "name": "Marco Bardoscia",
+          "url": "https://open.spotify.com/artist/6nPFcBOpXLW2vzvor5xo6E"
+        },
+        {
+          "name": "Stefano Bagnoli",
+          "url": "https://open.spotify.com/artist/18ctV072Ro4jq3Uof7fYzN"
+        },
+        {
+          "name": "Dino Rubino",
+          "url": "https://open.spotify.com/artist/3BatL5ELL5CEN1xjCeDi7S"
+        }
+      ],
+      "duration_ms": 196613,
+      "name": "Selim",
+      "url": "https://open.spotify.com/track/0yhKYdDTa4uL6w120teRPP"
     },
     {
       "added_at": "2026-11-06 09:59:04",
@@ -583,22 +583,6 @@
     {
       "added_at": "2026-11-06 09:59:04",
       "album": {
-        "name": "Silent World",
-        "url": "https://open.spotify.com/album/1TpgHVGapenLBD1Mcboy1L"
-      },
-      "artists": [
-        {
-          "name": "Wolfgang Haffner",
-          "url": "https://open.spotify.com/artist/4if1U9RYhAJN9msYzpsfwh"
-        }
-      ],
-      "duration_ms": 272280,
-      "name": "Forever and Ever",
-      "url": "https://open.spotify.com/track/0AaTNHKAophhP8sZuGqg1I"
-    },
-    {
-      "added_at": "2026-11-06 09:59:04",
-      "album": {
         "name": "Stockholm Underground",
         "url": "https://open.spotify.com/album/6Q2EuXcFJk2EDWpKPsBchl"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 188716,
       "name": "Theme for Laura",
       "url": "https://open.spotify.com/track/4rH0C49g6oJcPzsHgCzNLQ"
+    },
+    {
+      "added_at": "2026-11-06 09:59:04",
+      "album": {
+        "name": "Silent World",
+        "url": "https://open.spotify.com/album/1TpgHVGapenLBD1Mcboy1L"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Haffner",
+          "url": "https://open.spotify.com/artist/4if1U9RYhAJN9msYzpsfwh"
+        }
+      ],
+      "duration_ms": 272280,
+      "name": "Forever and Ever",
+      "url": "https://open.spotify.com/track/0AaTNHKAophhP8sZuGqg1I"
     },
     {
       "added_at": "2026-11-06 09:59:04",
@@ -859,6 +859,26 @@
     {
       "added_at": "2026-11-06 09:59:04",
       "album": {
+        "name": "Swept Away",
+        "url": "https://open.spotify.com/album/3Y9niedNuNGE9JcdX9qrIj"
+      },
+      "artists": [
+        {
+          "name": "Marc Johnson",
+          "url": "https://open.spotify.com/artist/3AT9157jK9F2gMSViMdRUH"
+        },
+        {
+          "name": "Eliane Elias",
+          "url": "https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR"
+        }
+      ],
+      "duration_ms": 378520,
+      "name": "Swept Away",
+      "url": "https://open.spotify.com/track/2HfccyKw1vmXFEoOH87FCT"
+    },
+    {
+      "added_at": "2026-11-06 09:59:04",
+      "album": {
         "name": "Isabela",
         "url": "https://open.spotify.com/album/53IXzlGp6ibwzN5DHR156U"
       },
@@ -887,22 +907,42 @@
     {
       "added_at": "2026-11-06 09:59:04",
       "album": {
-        "name": "Swept Away",
-        "url": "https://open.spotify.com/album/3Y9niedNuNGE9JcdX9qrIj"
+        "name": "The Peacocks",
+        "url": "https://open.spotify.com/album/22WyPgbJNJCoWQLfnPAEgd"
       },
       "artists": [
         {
-          "name": "Marc Johnson",
-          "url": "https://open.spotify.com/artist/3AT9157jK9F2gMSViMdRUH"
+          "name": "John Engels",
+          "url": "https://open.spotify.com/artist/1TM3URtJJzkpQkF4Oxn0ce"
         },
         {
-          "name": "Eliane Elias",
-          "url": "https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR"
+          "name": "Benjamin Herman",
+          "url": "https://open.spotify.com/artist/1dZtTzcPTFBsbmqNohoKUR"
+        },
+        {
+          "name": "Joris Teepe",
+          "url": "https://open.spotify.com/artist/6O2Rqtez6yYTnUjW7804Nz"
         }
       ],
-      "duration_ms": 378520,
-      "name": "Swept Away",
-      "url": "https://open.spotify.com/track/2HfccyKw1vmXFEoOH87FCT"
+      "duration_ms": 189673,
+      "name": "The Peacocks - Single Edit",
+      "url": "https://open.spotify.com/track/6axejDXkOwDHgp7HMwWNXb"
+    },
+    {
+      "added_at": "2026-11-06 09:59:04",
+      "album": {
+        "name": "Caris Hermes",
+        "url": "https://open.spotify.com/album/0MKfKZSFjgGYuBZsxe4HNz"
+      },
+      "artists": [
+        {
+          "name": "Caris Hermes",
+          "url": "https://open.spotify.com/artist/23PTKxQtsIL4Z9AZsNabz0"
+        }
+      ],
+      "duration_ms": 166983,
+      "name": "Twelve for J.",
+      "url": "https://open.spotify.com/track/0B8qcFnV8anELirOWmOQQS"
     },
     {
       "added_at": "2026-11-06 09:59:04",
@@ -935,42 +975,18 @@
     {
       "added_at": "2026-11-06 09:59:04",
       "album": {
-        "name": "Caris Hermes",
-        "url": "https://open.spotify.com/album/0MKfKZSFjgGYuBZsxe4HNz"
+        "name": "reverie",
+        "url": "https://open.spotify.com/album/5bco4xpKFuybfx6JmbVDvj"
       },
       "artists": [
         {
-          "name": "Caris Hermes",
-          "url": "https://open.spotify.com/artist/23PTKxQtsIL4Z9AZsNabz0"
+          "name": "Jasmine Myra",
+          "url": "https://open.spotify.com/artist/3OOAxdMJCLi7iAurDghYyK"
         }
       ],
-      "duration_ms": 166983,
-      "name": "Twelve for J.",
-      "url": "https://open.spotify.com/track/0B8qcFnV8anELirOWmOQQS"
-    },
-    {
-      "added_at": "2026-11-06 09:59:04",
-      "album": {
-        "name": "The Peacocks",
-        "url": "https://open.spotify.com/album/22WyPgbJNJCoWQLfnPAEgd"
-      },
-      "artists": [
-        {
-          "name": "John Engels",
-          "url": "https://open.spotify.com/artist/1TM3URtJJzkpQkF4Oxn0ce"
-        },
-        {
-          "name": "Benjamin Herman",
-          "url": "https://open.spotify.com/artist/1dZtTzcPTFBsbmqNohoKUR"
-        },
-        {
-          "name": "Joris Teepe",
-          "url": "https://open.spotify.com/artist/6O2Rqtez6yYTnUjW7804Nz"
-        }
-      ],
-      "duration_ms": 189673,
-      "name": "The Peacocks - Single Edit",
-      "url": "https://open.spotify.com/track/6axejDXkOwDHgp7HMwWNXb"
+      "duration_ms": 273653,
+      "name": "reverie",
+      "url": "https://open.spotify.com/track/6odzoNsTI3mBcjKnmNaoRJ"
     },
     {
       "added_at": "2026-11-06 09:59:04",
@@ -1031,22 +1047,6 @@
     {
       "added_at": "2026-11-06 09:59:04",
       "album": {
-        "name": "A Promise",
-        "url": "https://open.spotify.com/album/77HYhNOlQWTnoqrwAmBahJ"
-      },
-      "artists": [
-        {
-          "name": "Tingvall Trio",
-          "url": "https://open.spotify.com/artist/65mwyp96M7Yx78x8XVz39M"
-        }
-      ],
-      "duration_ms": 283675,
-      "name": "A Promise",
-      "url": "https://open.spotify.com/track/36Y2PY9cCueWRSixpcqiRG"
-    },
-    {
-      "added_at": "2026-11-06 09:59:04",
-      "album": {
         "name": "Faithful",
         "url": "https://open.spotify.com/album/2vsMMoxL7EcOp5KS1tuyo2"
       },
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2026-11-06 09:59:04",
       "album": {
+        "name": "A Promise",
+        "url": "https://open.spotify.com/album/77HYhNOlQWTnoqrwAmBahJ"
+      },
+      "artists": [
+        {
+          "name": "Tingvall Trio",
+          "url": "https://open.spotify.com/artist/65mwyp96M7Yx78x8XVz39M"
+        }
+      ],
+      "duration_ms": 283675,
+      "name": "A Promise",
+      "url": "https://open.spotify.com/track/36Y2PY9cCueWRSixpcqiRG"
+    },
+    {
+      "added_at": "2026-11-06 09:59:04",
+      "album": {
         "name": "Slowly",
         "url": "https://open.spotify.com/album/1nYIPgv2msxabdgHygNxSk"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 335880,
       "name": "Slowly",
       "url": "https://open.spotify.com/track/5ZTNlVn4KXDdO9PPgYDvqL"
-    },
-    {
-      "added_at": "2026-11-06 09:59:04",
-      "album": {
-        "name": "reverie",
-        "url": "https://open.spotify.com/album/5bco4xpKFuybfx6JmbVDvj"
-      },
-      "artists": [
-        {
-          "name": "Jasmine Myra",
-          "url": "https://open.spotify.com/artist/3OOAxdMJCLi7iAurDghYyK"
-        }
-      ],
-      "duration_ms": 273653,
-      "name": "reverie",
-      "url": "https://open.spotify.com/track/6odzoNsTI3mBcjKnmNaoRJ"
     },
     {
       "added_at": "2026-11-06 09:59:04",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2026-11-06 09:59:04",
       "album": {
-        "name": "Little River",
-        "url": "https://open.spotify.com/album/5SYtJ3WCN5c2nEinWR9csr"
-      },
-      "artists": [
-        {
-          "name": "Aaron Parks",
-          "url": "https://open.spotify.com/artist/22KzEvCtrTGf9l6k7zFcdv"
-        }
-      ],
-      "duration_ms": 411996,
-      "name": "Little River",
-      "url": "https://open.spotify.com/track/1kmKV67WowGUUR9KpklaMT"
-    },
-    {
-      "added_at": "2026-11-06 09:59:04",
-      "album": {
         "name": "Angel Eyes",
         "url": "https://open.spotify.com/album/5JkcUSh4jjHSz7o7C3R2Qw"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 292956,
       "name": "Angel Eyes",
       "url": "https://open.spotify.com/track/4Efyso6yJGSWAWnVHt88sp"
+    },
+    {
+      "added_at": "2026-11-06 09:59:04",
+      "album": {
+        "name": "Little River",
+        "url": "https://open.spotify.com/album/5SYtJ3WCN5c2nEinWR9csr"
+      },
+      "artists": [
+        {
+          "name": "Aaron Parks",
+          "url": "https://open.spotify.com/artist/22KzEvCtrTGf9l6k7zFcdv"
+        }
+      ],
+      "duration_ms": 411996,
+      "name": "Little River",
+      "url": "https://open.spotify.com/track/1kmKV67WowGUUR9KpklaMT"
     },
     {
       "added_at": "2026-11-06 09:59:04",
@@ -1363,6 +1363,34 @@
       "duration_ms": 319468,
       "name": "When October Goes - Live",
       "url": "https://open.spotify.com/track/51H9eZYkK0tMAlySURutTJ"
+    },
+    {
+      "added_at": "2026-11-06 09:59:04",
+      "album": {
+        "name": "Comme un \u00e9cho lointain",
+        "url": "https://open.spotify.com/album/6L52UdluTRHs4kUHMaLHby"
+      },
+      "artists": [
+        {
+          "name": "Armel Dupas Trio",
+          "url": "https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU"
+        },
+        {
+          "name": "Armel Dupas",
+          "url": "https://open.spotify.com/artist/484hsKf4h2mWJ3mZy93g8l"
+        },
+        {
+          "name": "Jules Bill\u00e9",
+          "url": "https://open.spotify.com/artist/4NUgmHU1FIREvBXLDDFhng"
+        },
+        {
+          "name": "Christophe Piot",
+          "url": "https://open.spotify.com/artist/4BqX5iSPXbStNLbdzjURGi"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "Comme un \u00e9cho lointain",
+      "url": "https://open.spotify.com/track/42C9NNFStIk1wOy0u4zl5U"
     },
     {
       "added_at": "2026-11-06 09:59:04",
@@ -1447,34 +1475,6 @@
       "duration_ms": 259252,
       "name": "I Love Music",
       "url": "https://open.spotify.com/track/6oAni9EYklGVd1ZOLThaW1"
-    },
-    {
-      "added_at": "2026-11-06 09:59:04",
-      "album": {
-        "name": "Comme un \u00e9cho lointain",
-        "url": "https://open.spotify.com/album/6L52UdluTRHs4kUHMaLHby"
-      },
-      "artists": [
-        {
-          "name": "Armel Dupas Trio",
-          "url": "https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU"
-        },
-        {
-          "name": "Armel Dupas",
-          "url": "https://open.spotify.com/artist/484hsKf4h2mWJ3mZy93g8l"
-        },
-        {
-          "name": "Jules Bill\u00e9",
-          "url": "https://open.spotify.com/artist/4NUgmHU1FIREvBXLDDFhng"
-        },
-        {
-          "name": "Christophe Piot",
-          "url": "https://open.spotify.com/artist/4BqX5iSPXbStNLbdzjURGi"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "Comme un \u00e9cho lointain",
-      "url": "https://open.spotify.com/track/42C9NNFStIk1wOy0u4zl5U"
     },
     {
       "added_at": "2026-11-06 09:59:04",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2026-11-06 09:59:04",
       "album": {
-        "name": "Orange Sea",
-        "url": "https://open.spotify.com/album/6Dvj8ssB0RIknMIQ5Fe0YM"
-      },
-      "artists": [
-        {
-          "name": "Matthias Bublath",
-          "url": "https://open.spotify.com/artist/3us680mKjIt756UpyYnqbV"
-        }
-      ],
-      "duration_ms": 369060,
-      "name": "What Are You Doing for the Rest of Your Life",
-      "url": "https://open.spotify.com/track/3DhFy161BJDOR5KcvtSmY7"
-    },
-    {
-      "added_at": "2026-11-06 09:59:04",
-      "album": {
         "name": "Pause",
         "url": "https://open.spotify.com/album/4hsAzbCsj34wT8lBYArxn0"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 263872,
       "name": "Pause",
       "url": "https://open.spotify.com/track/5kmRpMlAFCCuo8tWpNIvx9"
+    },
+    {
+      "added_at": "2026-11-06 09:59:04",
+      "album": {
+        "name": "Orange Sea",
+        "url": "https://open.spotify.com/album/6Dvj8ssB0RIknMIQ5Fe0YM"
+      },
+      "artists": [
+        {
+          "name": "Matthias Bublath",
+          "url": "https://open.spotify.com/artist/3us680mKjIt756UpyYnqbV"
+        }
+      ],
+      "duration_ms": 369060,
+      "name": "What Are You Doing for the Rest of Your Life",
+      "url": "https://open.spotify.com/track/3DhFy161BJDOR5KcvtSmY7"
     },
     {
       "added_at": "2026-11-06 09:59:04",
@@ -1943,22 +1943,6 @@
     {
       "added_at": "2026-11-06 09:59:04",
       "album": {
-        "name": "With Just A Word",
-        "url": "https://open.spotify.com/album/3jetKcD1Pl9387nGYT9Ckp"
-      },
-      "artists": [
-        {
-          "name": "Diego Rivera",
-          "url": "https://open.spotify.com/artist/64stzun2YnwTHj56sc6Ufa"
-        }
-      ],
-      "duration_ms": 372428,
-      "name": "Dignified Response",
-      "url": "https://open.spotify.com/track/2cM5pSDkk06ngICQkV14dG"
-    },
-    {
-      "added_at": "2026-11-06 09:59:04",
-      "album": {
         "name": "Outside Introspections",
         "url": "https://open.spotify.com/album/0tCjmwUji1atshYWrDXBZf"
       },
@@ -1971,6 +1955,22 @@
       "duration_ms": 309960,
       "name": "Just Go Ahead",
       "url": "https://open.spotify.com/track/6nbKLj4siHi1hc3YuFqauA"
+    },
+    {
+      "added_at": "2026-11-06 09:59:04",
+      "album": {
+        "name": "With Just A Word",
+        "url": "https://open.spotify.com/album/3jetKcD1Pl9387nGYT9Ckp"
+      },
+      "artists": [
+        {
+          "name": "Diego Rivera",
+          "url": "https://open.spotify.com/artist/64stzun2YnwTHj56sc6Ufa"
+        }
+      ],
+      "duration_ms": 372428,
+      "name": "Dignified Response",
+      "url": "https://open.spotify.com/track/2cM5pSDkk06ngICQkV14dG"
     },
     {
       "added_at": "2026-11-06 09:59:04",

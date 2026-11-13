@@ -32921,24 +32921,6 @@
     },
     {
       "album": {
-        "name": "\u96a3\u611b",
-        "url": "https://open.spotify.com/album/1mCdkc5C4rsQHN3DJDtpp5"
-      },
-      "artists": [
-        {
-          "name": "Be my Girl",
-          "url": "https://open.spotify.com/artist/0f1g7262npe7ZCidh6zdEx"
-        }
-      ],
-      "date_added": "2026-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 317500,
-      "name": "tonariai",
-      "url": "https://open.spotify.com/track/55lSYn8928dCWPcUP2vDLq"
-    },
-    {
-      "album": {
         "name": "Too Good/Great Day",
         "url": "https://open.spotify.com/album/1bbq9MgeyGWd4LXO0P23KH"
       },
@@ -67048,6 +67030,24 @@
       "duration_ms": 222933,
       "name": "\u96a3\u3067",
       "url": "https://open.spotify.com/track/1iDoGybLQ7be9o61iLZvsS"
+    },
+    {
+      "album": {
+        "name": "\u96a3\u611b",
+        "url": "https://open.spotify.com/album/1mCdkc5C4rsQHN3DJDtpp5"
+      },
+      "artists": [
+        {
+          "name": "Be my Girl",
+          "url": "https://open.spotify.com/artist/0f1g7262npe7ZCidh6zdEx"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317500,
+      "name": "\u96a3\u611b",
+      "url": "https://open.spotify.com/track/55lSYn8928dCWPcUP2vDLq"
     },
     {
       "album": {

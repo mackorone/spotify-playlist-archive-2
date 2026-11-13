@@ -37514,7 +37514,7 @@
       ],
       "date_added": "2026-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 199094,
       "name": "I'M IN THE BAND",
       "url": "https://open.spotify.com/track/4kDpQhtAarLjq35TOG9K63"
@@ -39366,7 +39366,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 166426,
       "name": "INFINITE SUMMER",
       "url": "https://open.spotify.com/track/5fmUi1YDDi6vTVjpwGGwDK"
@@ -59058,6 +59058,24 @@
     {
       "album": {
         "name": "Porcelain",
+        "url": "https://open.spotify.com/album/5PzeRMz3t3NQ0YJN5MUwci"
+      },
+      "artists": [
+        {
+          "name": "EMMMA",
+          "url": "https://open.spotify.com/artist/69BpHcuizlrHOsWhQoIPMd"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211637,
+      "name": "Porcelain",
+      "url": "https://open.spotify.com/track/0BxQnrSYH2kqwkyjfPmRo0"
+    },
+    {
+      "album": {
+        "name": "Porcelain",
         "url": "https://open.spotify.com/album/11mxTxpDaTQUINE52Ar98c"
       },
       "artists": [
@@ -59090,6 +59108,24 @@
       "duration_ms": 154285,
       "name": "Porn Star",
       "url": "https://open.spotify.com/track/3gb6mXrHtMgHV6XDgFXb60"
+    },
+    {
+      "album": {
+        "name": "POS",
+        "url": "https://open.spotify.com/album/3pkwztTPNbNzsjtyMGRHWk"
+      },
+      "artists": [
+        {
+          "name": "Max Rickun",
+          "url": "https://open.spotify.com/artist/5vYA9ABGrLzyBA0bk55VLl"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203243,
+      "name": "POS",
+      "url": "https://open.spotify.com/track/4JZN0ox5209m96xs5Awbet"
     },
     {
       "album": {
@@ -64068,7 +64104,7 @@
       ],
       "date_added": "2026-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 226235,
       "name": "same me",
       "url": "https://open.spotify.com/track/7p7ug2fgjS13Muq7dHBUWP"
@@ -78014,6 +78050,24 @@
       "duration_ms": 198760,
       "name": "Tulips",
       "url": "https://open.spotify.com/track/2mBbN7mMoWJXduE6T9xuZB"
+    },
+    {
+      "album": {
+        "name": "Tulips",
+        "url": "https://open.spotify.com/album/3YMgvKKKeyS17ZYRWmu0u8"
+      },
+      "artists": [
+        {
+          "name": "Karly Bowman",
+          "url": "https://open.spotify.com/artist/6pMnomeWng0MECHaNIYBY6"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193550,
+      "name": "Tulips",
+      "url": "https://open.spotify.com/track/4DBuOW3dsfxnky8KqLKdRm"
     },
     {
       "album": {

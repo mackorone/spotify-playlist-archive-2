@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Canada](https://open.spotify.com/playlist/37i9dQZF1DWVxStm5ni6tl)
 
-> The best new music by independent artists and labels in Canada\. Updates every Wednesday\. Cover: Quincy Isaiah, Artwork: Isu Kim
+> The best new music by independent artists and labels in Canada\. Updates every Wednesday\. Cover: Brat Star, Artwork: Isu Kim
 
-3,244 songs - 6 day 22 hr 44 min
+3,249 songs - 6 day 22 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1142,6 +1142,7 @@
 | [Healing](https://open.spotify.com/track/7DH09N7VDPgCNP4CXn3QNp) | [Shann Aberdeen](https://open.spotify.com/artist/6nCWqG1NbQWzSZ1gmk8s3O) | [Healing](https://open.spotify.com/album/7AgjKJQUmWxEcNH0v83tBz) | 1:47 | 2023-07-26 | 2023-08-24 |
 | [Hearing From Me Tonight](https://open.spotify.com/track/6gyfxIu0ZhXqbGDhyxqnk4) | [Cam Galloway](https://open.spotify.com/artist/7qVBtsyA0sy6IleYAfiaT9) | [Hearing From Me Tonight](https://open.spotify.com/album/5OQLrNUbrYfa75ccI6e0A2) | 3:04 | 2025-04-30 | 2025-05-22 |
 | [Heart Of A Storm](https://open.spotify.com/track/6O1dRJHBnaiJX2Fp4PXqlg) | [Luna Elle](https://open.spotify.com/artist/76FMyQJ8BGZA762QQc0X8Q) | [Heart Of A Storm](https://open.spotify.com/album/48K9X5o8Sn8oWcd4TXRUjQ) | 2:30 | 2025-07-23 | 2025-09-04 |
+| [Heart on the Line](https://open.spotify.com/track/4qjccGJ1UJrVhfzLD643bu) | [Maya Jade](https://open.spotify.com/artist/7tK7zDUhoiskbWyv8F0DRq) | [Orchid](https://open.spotify.com/album/6Q5Ev3ugg71O1R8JB2Volp) | 3:37 | 2026-11-13 |  |
 | [Heart Racing for You](https://open.spotify.com/track/0RUqSVuWCvbsnqONXCQrwj) | [Enoch Braxton](https://open.spotify.com/artist/5gJXkkGnapUYV6z7Jf7Y2y) | [Heart Racing for You](https://open.spotify.com/album/7lFPyQjbStcn9pRtCfDW0r) | 3:34 | 2025-04-23 | 2025-05-01 |
 | [Heartbeat](https://open.spotify.com/track/7FCJWSLgyr1GMrV7s7tNub) | [DJ Planet Express](https://open.spotify.com/artist/0nx9ai3o3Ba6bE3WHkEoQg), [Katie McBride](https://open.spotify.com/artist/3PlStwko8DjwgLk6KxOAdY) | [DJPE2025](https://open.spotify.com/album/1pgYeoORpnIbmx9dIsUXmX) | 3:33 | 2025-10-22 | 2026-01-15 |
 | [Heartbreak Club](https://open.spotify.com/track/7iJ6C5k07SfjYlr7c5785a) | [Laraw](https://open.spotify.com/artist/7vxKZcJkulVyFjO6Bb1Pq1) | [J'ai quitté le Heartbreak Club](https://open.spotify.com/album/0UGFBfMGBjljra0EJJ1Swj) | 2:37 | 2025-04-02 | 2026-01-15 |
@@ -1972,6 +1973,7 @@
 | [number 1](https://open.spotify.com/track/0QbS7u3CLzBXhFrxn4ThyU) | [Zorza](https://open.spotify.com/artist/3aAo0qwTvgRwURTzzQ3frr), [Julia Cooper](https://open.spotify.com/artist/32phMmuGI8TzzqWpR1q576) | [number 1](https://open.spotify.com/album/69KwvPZlTrGieo5xMC9U4j) | 2:57 | 2026-11-04 |  |
 | [NWTG](https://open.spotify.com/track/1gqNVP1KADI1vyce4Yb72r) | [nezsa](https://open.spotify.com/artist/5yIW4jgRpDB1ytNFHSq8XM) | [NWTG](https://open.spotify.com/album/7xnntO00e5WYYVuiKPWWWG) | 3:15 | 2024-01-31 | 2024-02-15 |
 | [Né pour flâner](https://open.spotify.com/track/1u4UEzziL9XmmpgOr3RQFG) | [DVTR](https://open.spotify.com/artist/2qLPU8fMazHXW2IzNklrZF) | [Né pour flâner](https://open.spotify.com/album/4uwzzDLfZ1pcdCRGexEWRp) | 2:17 | 2025-02-19 | 2025-03-08 |
+| [Obinna](https://open.spotify.com/track/2nBl9oYFSaKLz9WOBE8LgS) | [KOTO?](https://open.spotify.com/artist/1N7v8ztld41DN69kQvp0We), [Soft Eyez](https://open.spotify.com/artist/6ojMQVQeJuZ8PGwHoIO4fT) | [SouthSideKnottyHead](https://open.spotify.com/album/5jnQK10gjDDxGQAJEOzMkK) | 2:10 | 2026-11-13 |  |
 | [Object Permanence](https://open.spotify.com/track/1ncLPvQe060nMDiJZYCscq) | [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex) | [Object Permanence](https://open.spotify.com/album/3uykk3FDfJ6f2u8yxD8p0R) | 4:20 | 2023-10-04 | 2023-10-26 |
 | [Object Permanence \(Radio Edit\)](https://open.spotify.com/track/0SrZGZTyWePrFlpQ2ttWPw) | [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex) | [Object Permanence \(Radio Edit\)](https://open.spotify.com/album/2l5brdHHvFREy1k9WvV6U4) | 3:46 | 2024-05-15 | 2024-05-23 |
 | [Oblije Blockem \- Baby Gyal](https://open.spotify.com/track/0QPxawz5fYG2TeB7mO8wzy) | [Dee End](https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f) | [Oblije Blockem \(Baby Gyal\)](https://open.spotify.com/album/7t31knDPCCiqPTaKIQF3I9) | 3:28 | 2024-08-07 | 2024-08-22 |
@@ -2265,6 +2267,7 @@
 | [Rabid Beach](https://open.spotify.com/track/3LZvuHYXkQtf0nZaAAQKgh) | [Pig Pen](https://open.spotify.com/artist/5gz02MKm1uxQLcjE5Cs9Hr) | [Rabid Beach](https://open.spotify.com/album/4lZ3GjSPnt7tNRuSUDbzG7) | 2:01 | 2025-06-06 | 2025-06-19 |
 | [Race Car](https://open.spotify.com/track/3mpXt1nPPPO5iuUlYH9DXz) | [Drew Now](https://open.spotify.com/artist/2cgMhIxzVBb88R1XVfxnvV) | [Race Car](https://open.spotify.com/album/375v7va4oIa3RXIpopehMv) | 2:16 | 2024-05-01 | 2024-05-16 |
 | [radiate](https://open.spotify.com/track/7e07JlMY4JHKDlj0EytZRC) | [AHSIA](https://open.spotify.com/artist/0Io9HPbsIs5MqlnCIY1gdH) | [radiate](https://open.spotify.com/album/7EYCIXp01huGUn0w6Itr6V) | 3:40 | 2025-08-27 | 2025-09-11 |
+| [Radio](https://open.spotify.com/track/1PS45iWkOspjpeXQjzDhPl) | [Planet Chloé](https://open.spotify.com/artist/6nvLTll83bPbaAvemxQ13S) | [Radio](https://open.spotify.com/album/1uxkF2SgNcdeOYfLwh9OQc) | 2:58 | 2026-11-13 |  |
 | [Raflan](https://open.spotify.com/track/2UdSFmNuvw69HGRr3KbTGh) | [Sardar Khehra](https://open.spotify.com/artist/3YhEUyspZuU7pfEzmpFCsP) | [Raflan](https://open.spotify.com/album/0L6oFqCsWrjm2NFLXMAB8e) | 3:01 | 2024-01-10 | 2024-01-25 |
 | [Rage](https://open.spotify.com/track/5sUWvTviBP5hxYeRmEnSog) | [Laura Lucas](https://open.spotify.com/artist/26C6XIcWyR8utyqb1wycyc) | [Rage](https://open.spotify.com/album/1WEnvdNxVjDqorcoBBOIdt) | 3:21 | 2025-10-22 | 2025-11-20 |
 | [Rags](https://open.spotify.com/track/412DgnJV3OyVDSC62kSMgO) | [Bria Salmena](https://open.spotify.com/artist/5OlCrYhc9fZxibnKwahGr8) | [Rags](https://open.spotify.com/album/3caDFJoWMdSlWjPDtEghOh) | 2:48 | 2025-03-26 | 2025-04-24 |
@@ -2942,6 +2945,7 @@
 | [Toxic \(to Me\)](https://open.spotify.com/track/3brWDMDsaHSfgrCSV7k3Go) | [Josiane](https://open.spotify.com/artist/20D5XV4MYVeOl23idQan4B) | [Toxic \(to Me\)](https://open.spotify.com/album/3WTNiGtLU1R6KHEGBhl4EN) | 3:17 | 2025-07-10 | 2025-07-31 |
 | [Toxic Temptress](https://open.spotify.com/track/4u1zWGPAu89gOiaMFLrqBG) | [Beauty in the Riot](https://open.spotify.com/artist/7owr28kbA6x7F5sCuzeh3m) | [To Do](https://open.spotify.com/album/2iY9PAEn46R9nLkfUmmmj4) | 1:54 | 2025-10-10 | 2025-10-23 |
 | [Tracer des lignes](https://open.spotify.com/track/19G5LnSJ7Gc3fuww6Q7oET) | [oui merci](https://open.spotify.com/artist/6XUr1bWIBVkLmXHySucgyr) | [ok bebye](https://open.spotify.com/album/3o4TZjqq0E3DTyvkAzKHSi) | 3:09 | 2023-10-04 | 2023-10-26 |
+| [Track 3](https://open.spotify.com/track/6zrxzGTyCr751V0RBQ0TYb) | [Jade Monet](https://open.spotify.com/artist/5AE7MlHMoaaPI9VhtYubmT) | [Club Jade Monet](https://open.spotify.com/album/0G9n8yzgBgLZf1iIySIatk) | 0:00 | 2026-11-13 |  |
 | [Trankilows](https://open.spotify.com/track/5DHLfS8t0iKMCcvQVzbvBn) | [Racasse](https://open.spotify.com/artist/0GwP2VFRGAt7RaZwjDQHN6), [Boogát](https://open.spotify.com/artist/2y2bEk3zCBVBMDkrXgA29R) | [Trankilows](https://open.spotify.com/album/30xGiEytoewp92tTovjmIz) | 3:12 | 2024-08-07 | 2024-08-22 |
 | [Trembler](https://open.spotify.com/track/34dD2ftfurB927MOQsT5Uu) | [Salome](https://open.spotify.com/artist/5DxbeMKmMhAE6j80lDhUxq) | [Trembler](https://open.spotify.com/album/6iUitzMM04PySHV9Ez6M5W) | 2:38 | 2024-11-20 | 2024-12-05 |
 | [Tremors](https://open.spotify.com/track/4Z58ggf4sJnDfgfmfwGaBg) | [Celleste](https://open.spotify.com/artist/3tM3LCbkwu6JuDgLyPzMiE) | [Tremors](https://open.spotify.com/album/3KITPrwwqjZY9YcohoxsNP) | 2:51 | 2024-07-24 | 2024-08-22 |
@@ -2962,6 +2966,7 @@
 | [Try On](https://open.spotify.com/track/7m0bGWcDO7b6tg8nyJLLdF) | [B.ROB](https://open.spotify.com/artist/1ok4DP80jKsX7GZZ6yr2xR) | [Try On](https://open.spotify.com/album/4BRY5Ai51rsNIH7BLmaGxO) | 2:51 | 2023-08-09 | 2023-08-17 |
 | [Tu veux danser ?](https://open.spotify.com/track/0UNc3NUK0XnUCwA5rafO0q) | [Mohand Baha](https://open.spotify.com/artist/5Lz6hyIn2iDwHEesU4idwl), [D\-Track](https://open.spotify.com/artist/6iCGxocdnrQ3pxNN1drzNu) | [Tu veux danser ?](https://open.spotify.com/album/7hSMMOTuqoF3S8I6NpDH7U) | 2:06 | 2025-06-18 | 2025-07-11 |
 | [tunnel](https://open.spotify.com/track/43tIV7UcEW6XrvhtRBJGd6) | [blesse](https://open.spotify.com/artist/5MGjRHDmuH8M7tuk7NVmge) | [tunnel](https://open.spotify.com/album/6kMXx28hPek2EZx81pRSQz) | 4:01 | 2024-04-10 | 2024-05-02 |
+| [Turbulences](https://open.spotify.com/track/0u19lGnitw5hKYxqL6zdQZ) | [Manèges](https://open.spotify.com/artist/3aHCC5XL7q7F6UCfOOL4XO) | [Turbulences](https://open.spotify.com/album/4dQGQcGmBtC07HVxmo7ZAj) | 3:49 | 2026-11-13 |  |
 | [turn off the lights](https://open.spotify.com/track/6F7JKeDd9SL9TI7rhZb02x) | [Josh Sahunta](https://open.spotify.com/artist/37aXAbBndtjTPR4aUKumLV) | [turn off the lights](https://open.spotify.com/album/4MYagihFiyx0GTg39Wjp2R) | 4:45 | 2023-11-15 | 2023-11-30 |
 | [Turnt 1995](https://open.spotify.com/track/39qplThDIykDbcWN1Qy1fy) | [Serenade](https://open.spotify.com/artist/3pXkGyRhsDavFHyVL9pmoY) | [Turnt 1995](https://open.spotify.com/album/6PupW3DoeHD9zKIi7Gtq9L) | 1:51 | 2024-01-10 | 2024-01-25 |
 | [twentyfive](https://open.spotify.com/track/2v0akKgyF18o2pfaAbqlV9) | [NLN](https://open.spotify.com/artist/62n4U1X9Uk7DF9jQkAaBrW) | [twentyfive](https://open.spotify.com/album/6n9ggnwY0ididCx59gRnN9) | 2:49 | 2025-02-19 | 2025-03-08 |

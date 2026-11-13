@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmsWPbM2pKT.md) - [plain]
 
 > Obscure, dreamy and nostalgic synth sounds from all over the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 490,074 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 490,157 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,10 +46,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmsWPbM2pKT.md) - [plain]
 | 36 | [dirty little secret](https://open.spotify.com/track/0RNKTiM7M4dzoCLgg3NgGu) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [dirty little secret](https://open.spotify.com/album/4U3f0EIV3XDBT4jcRytwMZ) | 3:01 |
 | 37 | [Black Cathedral](https://open.spotify.com/track/6SQHBJhkZJHoul8PJ8EHXC) | [This Cold Night](https://open.spotify.com/artist/3pIO4LI39vyMYT9cou1B7j) | [While I Disappear](https://open.spotify.com/album/4efXao3lMzP4AWTn94pFL5) | 2:55 |
 | 38 | [Over It](https://open.spotify.com/track/3Vkl2lLObnQ9LDohDopxHH) | [Future Nobodies](https://open.spotify.com/artist/4GMN5lzHF0l56piLOQXhBH) | [Apasionada / Over It](https://open.spotify.com/album/1p6XSjHnvwwbsQNUv2oCvq) | 2:49 |
-| 39 | [Gallowdance \- Slowed](https://open.spotify.com/track/6wmsU8dzx0vvrzR635WpTM) | [fam0uz](https://open.spotify.com/artist/5L9XA5GDsOOKNZfeOO8lmo) | [Gallowdance \- Slowed](https://open.spotify.com/album/7MfXO0FB6bZVtvM45ausJI) | 1:30 |
+| 39 | [99](https://open.spotify.com/track/1136nfwNfK1P1f7YkcqWHU) | [blawhitt](https://open.spotify.com/artist/4Z04808YXRo0Y1PlvDXycM) | [99](https://open.spotify.com/album/1dhq356MIu4BQeUvpOpZm6) | 2:05 |
 | 40 | [Entropy](https://open.spotify.com/track/6gvrPobbaMrvWywWq7SLmj) | [Khton](https://open.spotify.com/artist/45fFAOx67wXDQR2WA6SoKF), [Mos Elian](https://open.spotify.com/artist/0eJvYZgMek9gulGp2yIVfk) | [Entropy](https://open.spotify.com/album/4595rkCbSii9A84XqITn0P) | 3:57 |
 | 41 | [This World Couldn’t See Us](https://open.spotify.com/track/6NPo6ZHIVtsT5DWXZPGpRG) | [Nabihah Iqbal](https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir) | [DREAMER](https://open.spotify.com/album/1Jr7mHRUgVIbdnbC6LI07M) | 3:39 |
-| 42 | [99](https://open.spotify.com/track/1136nfwNfK1P1f7YkcqWHU) | [blawhitt](https://open.spotify.com/artist/4Z04808YXRo0Y1PlvDXycM) | [99](https://open.spotify.com/album/1dhq356MIu4BQeUvpOpZm6) | 2:05 |
+| 42 | [Gallowdance \- Slowed](https://open.spotify.com/track/6wmsU8dzx0vvrzR635WpTM) | [fam0uz](https://open.spotify.com/artist/5L9XA5GDsOOKNZfeOO8lmo) | [Gallowdance \- Slowed](https://open.spotify.com/album/7MfXO0FB6bZVtvM45ausJI) | 1:30 |
 | 43 | [HUNNY](https://open.spotify.com/track/1GNszTPgt9RwTLIOzwfHWb) | [French Police](https://open.spotify.com/artist/75vqTLIltGApfI0NxcsJaC) | [BLEU](https://open.spotify.com/album/6woJYYYScksahP4fTIMhus) | 2:23 |
 | 44 | [The Others](https://open.spotify.com/track/59mJLb7Ksjp7U63j6c2PhQ) | [Rendez Vous](https://open.spotify.com/artist/4a118edzJsiImCyPCZk6mY) | [Rendez\-Vous](https://open.spotify.com/album/11KSgvhpxoK78X8nTtjskx) | 3:40 |
 | 45 | [Lost](https://open.spotify.com/track/44cuIdT06T3f5mIIDldv6z) | [Vandal Moon](https://open.spotify.com/artist/0b0HjXjfkApMcVJqsH8wYX) | [Lost](https://open.spotify.com/album/7y0Wt3nBmFUn7Ser3MuMCd) | 3:40 |

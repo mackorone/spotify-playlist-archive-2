@@ -1,12 +1,12 @@
 {
   "description": "This is Florence + The Machine. The essential tracks, all in one playlist.",
-  "num_followers": 592837,
+  "num_followers": 592853,
   "original_name": "This Is Florence + The Machine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avENAAAAAADAOAahmv8nlvI0MBR9pp2L",
+  "snapshot_id": "avOwAAAAAAAs0Kxs9+B+PfZmZ2OpmCSa",
   "tracks": [
     {
       "added_at": null,
@@ -407,22 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lungs (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 213560,
-      "name": "Howl",
-      "url": "https://open.spotify.com/track/3GS8qG28p2RF6M7S5rFdx5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "You've Got The Love (Jamie xx Rework)",
         "url": "https://open.spotify.com/album/6ehMwGARrrgvrOpyHAV1LA"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 342990,
       "name": "You've Got The Love - Jamie xx Rework",
       "url": "https://open.spotify.com/track/59Y2GLn55BVjX3UTMUDtTP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lungs (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1rLLyY5p6HXNl2lKzINWp5"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 214053,
+      "name": "Howl",
+      "url": "https://open.spotify.com/track/30JSP0mpT8DQNHjs6v8Z4P"
     },
     {
       "added_at": null,
@@ -575,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lungs (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1rLLyY5p6HXNl2lKzINWp5"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 124240,
-      "name": "Kiss With A Fist",
-      "url": "https://open.spotify.com/track/0qnzHn8plo9r10x69uFJYS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "High As Hope",
         "url": "https://open.spotify.com/album/0pKZJj9GzcKPCS8r4IaksA"
       },
@@ -623,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dance Fever",
-        "url": "https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 164566,
-      "name": "The Bomb",
-      "url": "https://open.spotify.com/track/6QAztdj5jtr41PL56WcgvP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ceremonials (Original Deluxe Version)",
         "url": "https://open.spotify.com/album/19J2iqK89BCrNG4El2FRi5"
       },
@@ -651,6 +619,22 @@
       "duration_ms": 333400,
       "name": "What The Water Gave Me",
       "url": "https://open.spotify.com/track/10H6mvk1cPPTzs3IHsHSHi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dance Fever",
+        "url": "https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 164566,
+      "name": "The Bomb",
+      "url": "https://open.spotify.com/track/6QAztdj5jtr41PL56WcgvP"
     },
     {
       "added_at": null,
@@ -687,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dance Fever",
-        "url": "https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 214046,
-      "name": "Daffodil",
-      "url": "https://open.spotify.com/track/3EIgAuegl9y3MKfYyNb8jS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "How Big, How Blue, How Beautiful (Deluxe)",
         "url": "https://open.spotify.com/album/2jn2n5OkuHliOLKCqHnjXV"
       },
@@ -715,6 +683,22 @@
       "duration_ms": 241490,
       "name": "Make Up Your Mind",
       "url": "https://open.spotify.com/track/3AiXzUyFAFZVBGVAADPN5a"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dance Fever",
+        "url": "https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 214046,
+      "name": "Daffodil",
+      "url": "https://open.spotify.com/track/3EIgAuegl9y3MKfYyNb8jS"
     },
     {
       "added_at": null,
@@ -847,6 +831,22 @@
       "duration_ms": 188615,
       "name": "Moderation",
       "url": "https://open.spotify.com/track/6V0PPYLaQ5fCAPftwIgpuN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Everybody Scream Tour Live",
+        "url": "https://open.spotify.com/album/1f3QAJG9UzARzT26yvEdRI"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 252678,
+      "name": "Howl - Live",
+      "url": "https://open.spotify.com/track/1IpNSfw0oeM3X4yCfpnq29"
     }
   ],
   "unique_name": "This Is Florence + The Machine",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-30",
-  "description": "Music that's hard to define, but easy to love. Cover: Fontaines D.C.",
+  "description": "Music that's hard to define, but easy to love. Cover: Middle Kids",
   "name": "Front Left",
   "tracks": [
     {
@@ -526,6 +526,24 @@
       "duration_ms": 265453,
       "name": "4runner",
       "url": "https://open.spotify.com/track/1RaF9xwakfao1RRknWyYB5"
+    },
+    {
+      "album": {
+        "name": "50/50",
+        "url": "https://open.spotify.com/album/6UiXsffeceFbIvVcxaAK5V"
+      },
+      "artists": [
+        {
+          "name": "SOFY",
+          "url": "https://open.spotify.com/artist/34TRRbxNJYpDV7VJ7kBzQd"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163772,
+      "name": "50/50",
+      "url": "https://open.spotify.com/track/16QLv8xt9nPNBZCBDm3Gkv"
     },
     {
       "album": {
@@ -2609,6 +2627,28 @@
     },
     {
       "album": {
+        "name": "BATTLER",
+        "url": "https://open.spotify.com/album/6OILfoM8u5tHwgFxx2oxVP"
+      },
+      "artists": [
+        {
+          "name": "lil ket",
+          "url": "https://open.spotify.com/artist/4eRIX5JhG8gg3Hk5T9EqJ7"
+        },
+        {
+          "name": "David Grey",
+          "url": "https://open.spotify.com/artist/06W41FIA9jGjGvEXonnrfC"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225613,
+      "name": "Bad Dog",
+      "url": "https://open.spotify.com/track/0D6wbHCTPQ2BTxoOIJOLH0"
+    },
+    {
+      "album": {
         "name": "Bad Dreams",
         "url": "https://open.spotify.com/album/4GCA7dZvYiZAq38EBsZqgL"
       },
@@ -3390,6 +3430,24 @@
       "duration_ms": 216311,
       "name": "BIG DOG",
       "url": "https://open.spotify.com/track/5SHQAQPCg74DGXaxbH9OhZ"
+    },
+    {
+      "album": {
+        "name": "big freak",
+        "url": "https://open.spotify.com/album/0i5mCnj5znjoEpElwLbLDk"
+      },
+      "artists": [
+        {
+          "name": "Middle Kids",
+          "url": "https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182899,
+      "name": "big freak",
+      "url": "https://open.spotify.com/track/0bSFRKbr6mzWv35E6SXZMy"
     },
     {
       "album": {
@@ -16748,7 +16806,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 186000,
       "name": "Indecision (feat. Daniel Caesar)",
       "url": "https://open.spotify.com/track/0zZ5TnmUIub96AsZmkCXYS"
@@ -18200,7 +18258,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 171293,
       "name": "landscaper",
       "url": "https://open.spotify.com/track/7FCAR9JMJ29OmljgBJHMy1"
@@ -26110,7 +26168,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 128320,
       "name": "Radio",
       "url": "https://open.spotify.com/track/2WtyoJQz87jHh4COGbmXZL"
@@ -32414,7 +32472,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 201992,
       "name": "The Hardest Thing",
       "url": "https://open.spotify.com/track/5ScaryMl0YslsJnBAb9CpD"
@@ -36706,6 +36764,24 @@
       "duration_ms": 268410,
       "name": "Yamaha",
       "url": "https://open.spotify.com/track/6qR5YGunNSASaabs4kJB9V"
+    },
+    {
+      "album": {
+        "name": "Year Of The Snake",
+        "url": "https://open.spotify.com/album/6lcmqmRxudAKcMLdMEg1Oj"
+      },
+      "artists": [
+        {
+          "name": "Nick Ward",
+          "url": "https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239072,
+      "name": "Year Of The Snake",
+      "url": "https://open.spotify.com/track/0YLdCs1jfvDhJFe9cw9eNJ"
     },
     {
       "album": {

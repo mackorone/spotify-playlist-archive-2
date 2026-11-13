@@ -1,6 +1,6 @@
 {
   "description": "Musica da ascoltare con un drink in mano \ud83e\udd43",
-  "num_followers": 252016,
+  "num_followers": 252006,
   "original_name": "Aperitivo Time",
   "owner": {
     "name": "Spotify",
@@ -555,18 +555,18 @@
     {
       "added_at": "2026-09-03 22:02:56",
       "album": {
-        "name": "Falling for You",
-        "url": "https://open.spotify.com/album/0eeBjfwq7PNalu0RBtYKeA"
+        "name": "Goodbye Country (Hello Nightclub)",
+        "url": "https://open.spotify.com/album/1bS1J4OVGrpu6e2U2pHge6"
       },
       "artists": [
         {
-          "name": "NEIL FRANCES",
-          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
+          "name": "Groove Armada",
+          "url": "https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ"
         }
       ],
-      "duration_ms": 190000,
-      "name": "Falling for You",
-      "url": "https://open.spotify.com/track/7o8VEpWXIvvnDIQaXDHI8S"
+      "duration_ms": 300266,
+      "name": "My Friend",
+      "url": "https://open.spotify.com/track/5LRxSyiIRHQD26h1mdM0Ir"
     },
     {
       "added_at": "2026-09-03 22:02:56",
@@ -607,22 +607,6 @@
     {
       "added_at": "2026-09-03 22:02:56",
       "album": {
-        "name": "Goodbye Country (Hello Nightclub)",
-        "url": "https://open.spotify.com/album/1bS1J4OVGrpu6e2U2pHge6"
-      },
-      "artists": [
-        {
-          "name": "Groove Armada",
-          "url": "https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ"
-        }
-      ],
-      "duration_ms": 300266,
-      "name": "My Friend",
-      "url": "https://open.spotify.com/track/5LRxSyiIRHQD26h1mdM0Ir"
-    },
-    {
-      "added_at": "2026-09-03 22:02:56",
-      "album": {
         "name": "Both Of Us",
         "url": "https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 229424,
       "name": "Both Of Us - Edit",
       "url": "https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv"
+    },
+    {
+      "added_at": "2026-09-03 22:02:56",
+      "album": {
+        "name": "Falling for You",
+        "url": "https://open.spotify.com/album/0eeBjfwq7PNalu0RBtYKeA"
+      },
+      "artists": [
+        {
+          "name": "NEIL FRANCES",
+          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Falling for You",
+      "url": "https://open.spotify.com/track/7o8VEpWXIvvnDIQaXDHI8S"
     },
     {
       "added_at": "2026-09-03 22:02:56",
@@ -891,30 +891,6 @@
     {
       "added_at": "2026-09-03 22:02:56",
       "album": {
-        "name": "Ice 2 Water",
-        "url": "https://open.spotify.com/album/07QpZOg940gjr7NqqtdPTd"
-      },
-      "artists": [
-        {
-          "name": "Wakyin",
-          "url": "https://open.spotify.com/artist/2CnJJITnV40TB5UtCRhwIZ"
-        },
-        {
-          "name": "Ronis Goliath",
-          "url": "https://open.spotify.com/artist/7ab3brrz3yehEwzYJf7F8t"
-        },
-        {
-          "name": "bees & honey",
-          "url": "https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi"
-        }
-      ],
-      "duration_ms": 196700,
-      "name": "Ice 2 Water",
-      "url": "https://open.spotify.com/track/697Ub7j26uCkn3VtWSucG3"
-    },
-    {
-      "added_at": "2026-09-03 22:02:56",
-      "album": {
         "name": "Sunday",
         "url": "https://open.spotify.com/album/4VTOytGXwnkNkggIND58d8"
       },
@@ -967,6 +943,30 @@
       "duration_ms": 155702,
       "name": "V\u00e1rias Queixas - Radio Edit",
       "url": "https://open.spotify.com/track/7wjaRyfALrdFBJnuJeACy2"
+    },
+    {
+      "added_at": "2026-09-03 22:02:56",
+      "album": {
+        "name": "Ice 2 Water",
+        "url": "https://open.spotify.com/album/07QpZOg940gjr7NqqtdPTd"
+      },
+      "artists": [
+        {
+          "name": "Wakyin",
+          "url": "https://open.spotify.com/artist/2CnJJITnV40TB5UtCRhwIZ"
+        },
+        {
+          "name": "Ronis Goliath",
+          "url": "https://open.spotify.com/artist/7ab3brrz3yehEwzYJf7F8t"
+        },
+        {
+          "name": "bees & honey",
+          "url": "https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi"
+        }
+      ],
+      "duration_ms": 196700,
+      "name": "Ice 2 Water",
+      "url": "https://open.spotify.com/track/697Ub7j26uCkn3VtWSucG3"
     },
     {
       "added_at": "2026-09-03 22:02:56",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2026-09-03 22:02:56",
       "album": {
-        "name": "By Your Side",
-        "url": "https://open.spotify.com/album/4iv1fsRtMDanS6VB6RW0Hg"
-      },
-      "artists": [
-        {
-          "name": "Sofia Kourtesis",
-          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
-        }
-      ],
-      "duration_ms": 367362,
-      "name": "By Your Side",
-      "url": "https://open.spotify.com/track/69uPNh3b6VKdMZMbIKYQ1l"
-    },
-    {
-      "added_at": "2026-09-03 22:02:56",
-      "album": {
         "name": "Move On Up (Mark Knight Remix)",
         "url": "https://open.spotify.com/album/7hg20oE5SyyQf7JN8YA1Dq"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 294211,
       "name": "Jazz Club After Hours",
       "url": "https://open.spotify.com/track/0nPoWlU7nIz74B6px39NMz"
+    },
+    {
+      "added_at": "2026-09-03 22:02:56",
+      "album": {
+        "name": "By Your Side",
+        "url": "https://open.spotify.com/album/4iv1fsRtMDanS6VB6RW0Hg"
+      },
+      "artists": [
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        }
+      ],
+      "duration_ms": 367362,
+      "name": "By Your Side",
+      "url": "https://open.spotify.com/track/69uPNh3b6VKdMZMbIKYQ1l"
     },
     {
       "added_at": "2026-09-03 22:02:56",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2026-09-03 22:02:56",
       "album": {
-        "name": "Karibu",
-        "url": "https://open.spotify.com/album/3t5LUHkurItcGrnKberJpd"
-      },
-      "artists": [
-        {
-          "name": "WITH U",
-          "url": "https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV"
-        }
-      ],
-      "duration_ms": 242500,
-      "name": "Karibu",
-      "url": "https://open.spotify.com/track/0lJJAJEaVkPMG2PdeLu0Pg"
-    },
-    {
-      "added_at": "2026-09-03 22:02:56",
-      "album": {
         "name": "Leave My Home",
         "url": "https://open.spotify.com/album/30YHSDjlRRnxAdIbDXgbdX"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 221772,
       "name": "Leave My Home",
       "url": "https://open.spotify.com/track/769CRTJKBxN0UiVYkHFoCM"
+    },
+    {
+      "added_at": "2026-09-03 22:02:56",
+      "album": {
+        "name": "Karibu",
+        "url": "https://open.spotify.com/album/3t5LUHkurItcGrnKberJpd"
+      },
+      "artists": [
+        {
+          "name": "WITH U",
+          "url": "https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV"
+        }
+      ],
+      "duration_ms": 242500,
+      "name": "Karibu",
+      "url": "https://open.spotify.com/track/0lJJAJEaVkPMG2PdeLu0Pg"
     },
     {
       "added_at": "2026-09-03 22:02:56",
@@ -1639,6 +1639,22 @@
     {
       "added_at": "2026-09-03 22:02:56",
       "album": {
+        "name": "Things You Want",
+        "url": "https://open.spotify.com/album/08Xc7BRq6Mz9BwoiB5sLNU"
+      },
+      "artists": [
+        {
+          "name": "Flying Moth",
+          "url": "https://open.spotify.com/artist/4TmwdCfg977GsElJtngLp7"
+        }
+      ],
+      "duration_ms": 220645,
+      "name": "Things You Want",
+      "url": "https://open.spotify.com/track/19bWGnsuujQJHd3qcHbKE5"
+    },
+    {
+      "added_at": "2026-09-03 22:02:56",
+      "album": {
         "name": "Da Fonk (feat. Joni)",
         "url": "https://open.spotify.com/album/5t3QAcFlAa6hB08H976naz"
       },
@@ -1655,22 +1671,6 @@
       "duration_ms": 351496,
       "name": "Da Fonk (feat. Joni) - [Dub]",
       "url": "https://open.spotify.com/track/16HsivNFzvZZNwK12a0fOp"
-    },
-    {
-      "added_at": "2026-09-03 22:02:56",
-      "album": {
-        "name": "I Did You Wrong",
-        "url": "https://open.spotify.com/album/3qWNwf5a53GPFLXKhZWZbi"
-      },
-      "artists": [
-        {
-          "name": "Harry Hayes",
-          "url": "https://open.spotify.com/artist/7BBSATOdEaY07XbxlUzfFu"
-        }
-      ],
-      "duration_ms": 172965,
-      "name": "I Did You Wrong",
-      "url": "https://open.spotify.com/track/1HpOpFbCT9z6FyXdyPPeHX"
     },
     {
       "added_at": "2026-09-03 22:02:56",
@@ -1707,18 +1707,18 @@
     {
       "added_at": "2026-09-03 22:02:56",
       "album": {
-        "name": "Things You Want",
-        "url": "https://open.spotify.com/album/08Xc7BRq6Mz9BwoiB5sLNU"
+        "name": "I Did You Wrong",
+        "url": "https://open.spotify.com/album/3qWNwf5a53GPFLXKhZWZbi"
       },
       "artists": [
         {
-          "name": "Flying Moth",
-          "url": "https://open.spotify.com/artist/4TmwdCfg977GsElJtngLp7"
+          "name": "Harry Hayes",
+          "url": "https://open.spotify.com/artist/7BBSATOdEaY07XbxlUzfFu"
         }
       ],
-      "duration_ms": 220645,
-      "name": "Things You Want",
-      "url": "https://open.spotify.com/track/19bWGnsuujQJHd3qcHbKE5"
+      "duration_ms": 172965,
+      "name": "I Did You Wrong",
+      "url": "https://open.spotify.com/track/1HpOpFbCT9z6FyXdyPPeHX"
     },
     {
       "added_at": "2026-09-03 22:02:56",
@@ -1743,6 +1743,22 @@
     {
       "added_at": "2026-09-03 22:02:56",
       "album": {
+        "name": "Onda",
+        "url": "https://open.spotify.com/album/7LCrYes3eU6PLWBJGJjRGw"
+      },
+      "artists": [
+        {
+          "name": "Flying Moth",
+          "url": "https://open.spotify.com/artist/4TmwdCfg977GsElJtngLp7"
+        }
+      ],
+      "duration_ms": 346229,
+      "name": "Now You Feel",
+      "url": "https://open.spotify.com/track/6ByIvhZp1fSV8uh31UFQyT"
+    },
+    {
+      "added_at": "2026-09-03 22:02:56",
+      "album": {
         "name": "Yatta!",
         "url": "https://open.spotify.com/album/14miHHQBXPPlt61Ax0SK2W"
       },
@@ -1755,26 +1771,6 @@
       "duration_ms": 271247,
       "name": "In Search of Yang",
       "url": "https://open.spotify.com/track/6FR6o5mqPEVRffn9Jxsnqr"
-    },
-    {
-      "added_at": "2026-09-03 22:02:56",
-      "album": {
-        "name": "Love Will Set U Free",
-        "url": "https://open.spotify.com/album/2q1yFtPevPCNlp06WDzfFc"
-      },
-      "artists": [
-        {
-          "name": "Monkey Safari",
-          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
-        },
-        {
-          "name": "DJ Island",
-          "url": "https://open.spotify.com/artist/0B8uvQRg70TpBi26MKtJxY"
-        }
-      ],
-      "duration_ms": 354365,
-      "name": "Sometimes",
-      "url": "https://open.spotify.com/track/7vApqfnpLqrKeR6VISh0wH"
     },
     {
       "added_at": "2026-09-03 22:02:56",
@@ -1795,18 +1791,22 @@
     {
       "added_at": "2026-09-03 22:02:56",
       "album": {
-        "name": "Onda",
-        "url": "https://open.spotify.com/album/7LCrYes3eU6PLWBJGJjRGw"
+        "name": "Love Will Set U Free",
+        "url": "https://open.spotify.com/album/2q1yFtPevPCNlp06WDzfFc"
       },
       "artists": [
         {
-          "name": "Flying Moth",
-          "url": "https://open.spotify.com/artist/4TmwdCfg977GsElJtngLp7"
+          "name": "Monkey Safari",
+          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
+        },
+        {
+          "name": "DJ Island",
+          "url": "https://open.spotify.com/artist/0B8uvQRg70TpBi26MKtJxY"
         }
       ],
-      "duration_ms": 346229,
-      "name": "Now You Feel",
-      "url": "https://open.spotify.com/track/6ByIvhZp1fSV8uh31UFQyT"
+      "duration_ms": 354365,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/7vApqfnpLqrKeR6VISh0wH"
     },
     {
       "added_at": "2026-09-03 22:02:56",
@@ -1847,18 +1847,22 @@
     {
       "added_at": "2026-09-03 22:02:56",
       "album": {
-        "name": "Pollen",
-        "url": "https://open.spotify.com/album/1YMTFJDxykCBo0dTMELAHv"
+        "name": "Born a Loser",
+        "url": "https://open.spotify.com/album/6OQjfXsIharHjMAMbGYGNd"
       },
       "artists": [
         {
-          "name": "dublon",
-          "url": "https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD"
+          "name": "Myd",
+          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
+        },
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
         }
       ],
-      "duration_ms": 120508,
-      "name": "Pollen",
-      "url": "https://open.spotify.com/track/0uqlh0c9vOJMyUNC9LHPSC"
+      "duration_ms": 167093,
+      "name": "Moving Men",
+      "url": "https://open.spotify.com/track/3OrQzlqFmedMua5WxgCVrI"
     }
   ],
   "unique_name": "Aperitivo Time",

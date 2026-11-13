@@ -1,6 +1,6 @@
 {
   "description": "Soft Jazz beats in the background while you're focusing, studying or relaxing.",
-  "num_followers": 204220,
+  "num_followers": 204222,
   "original_name": "Smooth Jazz Beats",
   "owner": {
     "name": "Spotify",
@@ -431,22 +431,6 @@
     {
       "added_at": "2026-10-16 07:28:54",
       "album": {
-        "name": "skills",
-        "url": "https://open.spotify.com/album/6wrc9Wgs0TbJBweRqWWj8W"
-      },
-      "artists": [
-        {
-          "name": "skrn",
-          "url": "https://open.spotify.com/artist/1k29Ytv2zKdGrYGadr9etJ"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "skills",
-      "url": "https://open.spotify.com/track/2I0IyaxKWCbpsWpKqTm17U"
-    },
-    {
-      "added_at": "2026-10-16 07:28:54",
-      "album": {
         "name": "Velvet Hours",
         "url": "https://open.spotify.com/album/1rDPoVP7U1erNslRjWyMZ8"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 95421,
       "name": "Undertones",
       "url": "https://open.spotify.com/track/6DpWcDvKZGPj1fTq7lKSST"
+    },
+    {
+      "added_at": "2026-10-16 07:28:54",
+      "album": {
+        "name": "skills",
+        "url": "https://open.spotify.com/album/6wrc9Wgs0TbJBweRqWWj8W"
+      },
+      "artists": [
+        {
+          "name": "skrn",
+          "url": "https://open.spotify.com/artist/1k29Ytv2zKdGrYGadr9etJ"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "skills",
+      "url": "https://open.spotify.com/track/2I0IyaxKWCbpsWpKqTm17U"
     },
     {
       "added_at": "2026-10-16 07:28:54",
@@ -523,6 +523,22 @@
     {
       "added_at": "2026-10-16 07:28:54",
       "album": {
+        "name": "Fading Sunlight",
+        "url": "https://open.spotify.com/album/1TyWcm8cliKPoLEiPW7FPW"
+      },
+      "artists": [
+        {
+          "name": "Midnight Hour",
+          "url": "https://open.spotify.com/artist/6UFBs0ELMi8M2SewSY3Zs5"
+        }
+      ],
+      "duration_ms": 115324,
+      "name": "Fading Sunlight",
+      "url": "https://open.spotify.com/track/7xm5AAqhagjl1dVbyvViHI"
+    },
+    {
+      "added_at": "2026-10-16 07:28:54",
+      "album": {
         "name": "Marigot",
         "url": "https://open.spotify.com/album/08mK985PXhFRSnEDZyhep0"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 120000,
       "name": "Marigot",
       "url": "https://open.spotify.com/track/43Ni4j90A0bFH6ygRNeyfW"
-    },
-    {
-      "added_at": "2026-10-16 07:28:54",
-      "album": {
-        "name": "Fading Sunlight",
-        "url": "https://open.spotify.com/album/1TyWcm8cliKPoLEiPW7FPW"
-      },
-      "artists": [
-        {
-          "name": "Midnight Hour",
-          "url": "https://open.spotify.com/artist/6UFBs0ELMi8M2SewSY3Zs5"
-        }
-      ],
-      "duration_ms": 115324,
-      "name": "Fading Sunlight",
-      "url": "https://open.spotify.com/track/7xm5AAqhagjl1dVbyvViHI"
     },
     {
       "added_at": "2026-10-16 07:28:54",
@@ -579,26 +579,6 @@
     {
       "added_at": "2026-10-16 07:28:54",
       "album": {
-        "name": "Views",
-        "url": "https://open.spotify.com/album/4R8Vz6szozsXUipPIUhrDO"
-      },
-      "artists": [
-        {
-          "name": "Lotus Beats",
-          "url": "https://open.spotify.com/artist/667RkTKDzJP6Hi3viSrkWI"
-        },
-        {
-          "name": "Two Scents",
-          "url": "https://open.spotify.com/artist/7sRau6OFIdLc2jMdzZRt81"
-        }
-      ],
-      "duration_ms": 101538,
-      "name": "Views",
-      "url": "https://open.spotify.com/track/5fXTFdLOni8XLNHMTcmgUz"
-    },
-    {
-      "added_at": "2026-10-16 07:28:54",
-      "album": {
         "name": "moments",
         "url": "https://open.spotify.com/album/4JNzCvA37BbzSpNWVDIDqi"
       },
@@ -615,6 +595,26 @@
       "duration_ms": 113323,
       "name": "tuesday evenings",
       "url": "https://open.spotify.com/track/1Rl4Qph0hXgF6cadGi4qcd"
+    },
+    {
+      "added_at": "2026-10-16 07:28:54",
+      "album": {
+        "name": "Views",
+        "url": "https://open.spotify.com/album/4R8Vz6szozsXUipPIUhrDO"
+      },
+      "artists": [
+        {
+          "name": "Lotus Beats",
+          "url": "https://open.spotify.com/artist/667RkTKDzJP6Hi3viSrkWI"
+        },
+        {
+          "name": "Two Scents",
+          "url": "https://open.spotify.com/artist/7sRau6OFIdLc2jMdzZRt81"
+        }
+      ],
+      "duration_ms": 101538,
+      "name": "Views",
+      "url": "https://open.spotify.com/track/5fXTFdLOni8XLNHMTcmgUz"
     },
     {
       "added_at": "2026-10-16 07:28:54",
@@ -671,26 +671,6 @@
     {
       "added_at": "2026-10-16 07:28:54",
       "album": {
-        "name": "Polaroids",
-        "url": "https://open.spotify.com/album/6Z4oxIV8uRTX3IIEeZsWWp"
-      },
-      "artists": [
-        {
-          "name": "Midnight Hour",
-          "url": "https://open.spotify.com/artist/6UFBs0ELMi8M2SewSY3Zs5"
-        },
-        {
-          "name": "Two Scents",
-          "url": "https://open.spotify.com/artist/7sRau6OFIdLc2jMdzZRt81"
-        }
-      ],
-      "duration_ms": 138352,
-      "name": "Polaroids",
-      "url": "https://open.spotify.com/track/7kedyO9WGXcrvpRATAX0C8"
-    },
-    {
-      "added_at": "2026-10-16 07:28:54",
-      "album": {
         "name": "Wind",
         "url": "https://open.spotify.com/album/0UkQR5qvcniCN4wF8Xu7e1"
       },
@@ -727,6 +707,26 @@
     {
       "added_at": "2026-10-16 07:28:54",
       "album": {
+        "name": "Polaroids",
+        "url": "https://open.spotify.com/album/6Z4oxIV8uRTX3IIEeZsWWp"
+      },
+      "artists": [
+        {
+          "name": "Midnight Hour",
+          "url": "https://open.spotify.com/artist/6UFBs0ELMi8M2SewSY3Zs5"
+        },
+        {
+          "name": "Two Scents",
+          "url": "https://open.spotify.com/artist/7sRau6OFIdLc2jMdzZRt81"
+        }
+      ],
+      "duration_ms": 138352,
+      "name": "Polaroids",
+      "url": "https://open.spotify.com/track/7kedyO9WGXcrvpRATAX0C8"
+    },
+    {
+      "added_at": "2026-10-16 07:28:54",
+      "album": {
         "name": "Know You",
         "url": "https://open.spotify.com/album/6E1T3eTNSIxE8UrqOmb2QW"
       },
@@ -759,6 +759,22 @@
     {
       "added_at": "2026-10-16 07:28:54",
       "album": {
+        "name": "Bask",
+        "url": "https://open.spotify.com/album/1yRuNCV4Wa5DjPYkVUwAV8"
+      },
+      "artists": [
+        {
+          "name": "CMJ",
+          "url": "https://open.spotify.com/artist/0PbBgZYFayICVW0646NtXG"
+        }
+      ],
+      "duration_ms": 106666,
+      "name": "Bask",
+      "url": "https://open.spotify.com/track/1BjS00Udv7m5tJKj7x5uhz"
+    },
+    {
+      "added_at": "2026-10-16 07:28:54",
+      "album": {
         "name": "Wind",
         "url": "https://open.spotify.com/album/6dpMkpP4Yn36VWWYwkNPIZ"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 106829,
       "name": "Wind",
       "url": "https://open.spotify.com/track/2TcsW2KxKMJtOonKMFQjPY"
-    },
-    {
-      "added_at": "2026-10-16 07:28:54",
-      "album": {
-        "name": "Bask",
-        "url": "https://open.spotify.com/album/1yRuNCV4Wa5DjPYkVUwAV8"
-      },
-      "artists": [
-        {
-          "name": "CMJ",
-          "url": "https://open.spotify.com/artist/0PbBgZYFayICVW0646NtXG"
-        }
-      ],
-      "duration_ms": 106666,
-      "name": "Bask",
-      "url": "https://open.spotify.com/track/1BjS00Udv7m5tJKj7x5uhz"
     },
     {
       "added_at": "2026-10-16 07:28:54",
@@ -955,26 +955,6 @@
     {
       "added_at": "2026-10-16 07:28:54",
       "album": {
-        "name": "Suite 8",
-        "url": "https://open.spotify.com/album/6zlTwu4W93EGNO9mBToGTP"
-      },
-      "artists": [
-        {
-          "name": "Casiio",
-          "url": "https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a"
-        },
-        {
-          "name": "Nokiaa",
-          "url": "https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN"
-        }
-      ],
-      "duration_ms": 110769,
-      "name": "Suite 8",
-      "url": "https://open.spotify.com/track/2gT8jhUQ5BXEBLNTePmlR1"
-    },
-    {
-      "added_at": "2026-10-16 07:28:54",
-      "album": {
         "name": "School Kids",
         "url": "https://open.spotify.com/album/5tkUkptMPsOWoFSFUNwi4J"
       },
@@ -991,6 +971,26 @@
       "duration_ms": 120000,
       "name": "School Kids",
       "url": "https://open.spotify.com/track/1Ty1JGgZNi9jEV2E9ceXpt"
+    },
+    {
+      "added_at": "2026-10-16 07:28:54",
+      "album": {
+        "name": "Suite 8",
+        "url": "https://open.spotify.com/album/6zlTwu4W93EGNO9mBToGTP"
+      },
+      "artists": [
+        {
+          "name": "Casiio",
+          "url": "https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a"
+        },
+        {
+          "name": "Nokiaa",
+          "url": "https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN"
+        }
+      ],
+      "duration_ms": 110769,
+      "name": "Suite 8",
+      "url": "https://open.spotify.com/track/2gT8jhUQ5BXEBLNTePmlR1"
     },
     {
       "added_at": "2026-10-16 07:28:54",
@@ -1035,26 +1035,6 @@
     {
       "added_at": "2026-10-16 07:28:54",
       "album": {
-        "name": "Feels Like Home",
-        "url": "https://open.spotify.com/album/2f7pevpH8LUkHCSTRdUh1D"
-      },
-      "artists": [
-        {
-          "name": "OMMI",
-          "url": "https://open.spotify.com/artist/75GHk4deBRJlGhw6TehRuR"
-        },
-        {
-          "name": "Korey Wade",
-          "url": "https://open.spotify.com/artist/5EMhnsc8XoFAR7Cpb8TjPv"
-        }
-      ],
-      "duration_ms": 114394,
-      "name": "Feels Like Home",
-      "url": "https://open.spotify.com/track/7Bcs07Br3nImaiqs5kXcpP"
-    },
-    {
-      "added_at": "2026-10-16 07:28:54",
-      "album": {
         "name": "Blue Skies",
         "url": "https://open.spotify.com/album/4NF6j0UpqxnbooPCltEehL"
       },
@@ -1075,6 +1055,26 @@
       "duration_ms": 109756,
       "name": "Blue Skies",
       "url": "https://open.spotify.com/track/1ULVlnExqXN3JGy3gTuRv1"
+    },
+    {
+      "added_at": "2026-10-16 07:28:54",
+      "album": {
+        "name": "Feels Like Home",
+        "url": "https://open.spotify.com/album/2f7pevpH8LUkHCSTRdUh1D"
+      },
+      "artists": [
+        {
+          "name": "OMMI",
+          "url": "https://open.spotify.com/artist/75GHk4deBRJlGhw6TehRuR"
+        },
+        {
+          "name": "Korey Wade",
+          "url": "https://open.spotify.com/artist/5EMhnsc8XoFAR7Cpb8TjPv"
+        }
+      ],
+      "duration_ms": 114394,
+      "name": "Feels Like Home",
+      "url": "https://open.spotify.com/track/7Bcs07Br3nImaiqs5kXcpP"
     },
     {
       "added_at": "2026-10-16 07:28:54",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2026-10-16 07:28:54",
       "album": {
+        "name": "Leafy Greens",
+        "url": "https://open.spotify.com/album/5vaCBfz8K866fJH9GUAfZt"
+      },
+      "artists": [
+        {
+          "name": "Beats Me, Innit?",
+          "url": "https://open.spotify.com/artist/5szil3lhFSrW575RVEyPle"
+        }
+      ],
+      "duration_ms": 160750,
+      "name": "Leafy Greens",
+      "url": "https://open.spotify.com/track/4v2QdeTrznnSrGhPPc5szG"
+    },
+    {
+      "added_at": "2026-10-16 07:28:54",
+      "album": {
         "name": "high downforce",
         "url": "https://open.spotify.com/album/2wVHvyrMgTFW0OazHPe7Zq"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 124797,
       "name": "Greedy",
       "url": "https://open.spotify.com/track/4Dl5rg9VuKYWza78Ehv7jH"
-    },
-    {
-      "added_at": "2026-10-16 07:28:54",
-      "album": {
-        "name": "Leafy Greens",
-        "url": "https://open.spotify.com/album/5vaCBfz8K866fJH9GUAfZt"
-      },
-      "artists": [
-        {
-          "name": "Beats Me, Innit?",
-          "url": "https://open.spotify.com/artist/5szil3lhFSrW575RVEyPle"
-        }
-      ],
-      "duration_ms": 160750,
-      "name": "Leafy Greens",
-      "url": "https://open.spotify.com/track/4v2QdeTrznnSrGhPPc5szG"
     },
     {
       "added_at": "2026-10-16 07:28:54",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2026-10-16 07:28:54",
       "album": {
-        "name": "THIQ",
-        "url": "https://open.spotify.com/album/58DFMetPJSIf1H2uhefB6u"
-      },
-      "artists": [
-        {
-          "name": "Bloomsbury Boys",
-          "url": "https://open.spotify.com/artist/7cwVlsMga7sXR644hJbA3c"
-        }
-      ],
-      "duration_ms": 143283,
-      "name": "THIQ",
-      "url": "https://open.spotify.com/track/0nVkXSPPznif7IifqC2T8H"
-    },
-    {
-      "added_at": "2026-10-16 07:28:54",
-      "album": {
         "name": "Orle",
         "url": "https://open.spotify.com/album/6s3FEdI41LNe9vgPWbgQAm"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 186666,
       "name": "Orle",
       "url": "https://open.spotify.com/track/3HMSwkVRwDlSqHjAzJ8Pqh"
+    },
+    {
+      "added_at": "2026-10-16 07:28:54",
+      "album": {
+        "name": "THIQ",
+        "url": "https://open.spotify.com/album/58DFMetPJSIf1H2uhefB6u"
+      },
+      "artists": [
+        {
+          "name": "Bloomsbury Boys",
+          "url": "https://open.spotify.com/artist/7cwVlsMga7sXR644hJbA3c"
+        }
+      ],
+      "duration_ms": 143283,
+      "name": "THIQ",
+      "url": "https://open.spotify.com/track/0nVkXSPPznif7IifqC2T8H"
     },
     {
       "added_at": "2026-10-16 07:28:54",
@@ -1379,22 +1379,6 @@
       "duration_ms": 163500,
       "name": "Central Park",
       "url": "https://open.spotify.com/track/3ohDGLqiQv6TOdR3N7xmCf"
-    },
-    {
-      "added_at": "2026-10-16 07:28:54",
-      "album": {
-        "name": "pearls",
-        "url": "https://open.spotify.com/album/3YYdtz7Jg3r2oKW7cq37Et"
-      },
-      "artists": [
-        {
-          "name": "skrn",
-          "url": "https://open.spotify.com/artist/1k29Ytv2zKdGrYGadr9etJ"
-        }
-      ],
-      "duration_ms": 108000,
-      "name": "pearls",
-      "url": "https://open.spotify.com/track/2nLLeDCCmy27w6v405VVZT"
     },
     {
       "added_at": "2026-10-16 07:28:54",
@@ -1451,6 +1435,22 @@
     {
       "added_at": "2026-10-16 07:28:54",
       "album": {
+        "name": "pearls",
+        "url": "https://open.spotify.com/album/3YYdtz7Jg3r2oKW7cq37Et"
+      },
+      "artists": [
+        {
+          "name": "skrn",
+          "url": "https://open.spotify.com/artist/1k29Ytv2zKdGrYGadr9etJ"
+        }
+      ],
+      "duration_ms": 108000,
+      "name": "pearls",
+      "url": "https://open.spotify.com/track/2nLLeDCCmy27w6v405VVZT"
+    },
+    {
+      "added_at": "2026-10-16 07:28:54",
+      "album": {
         "name": "High Expectations",
         "url": "https://open.spotify.com/album/6Or8HJNSBISRJNgukN5tyd"
       },
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2026-10-16 07:28:54",
       "album": {
-        "name": "Melting Away",
-        "url": "https://open.spotify.com/album/6Fcny8zpQ9huychcq3kHsJ"
-      },
-      "artists": [
-        {
-          "name": "Josie Mehlin",
-          "url": "https://open.spotify.com/artist/3VkUsVhRvP02IX46EWGzQz"
-        }
-      ],
-      "duration_ms": 186874,
-      "name": "Melting Away",
-      "url": "https://open.spotify.com/track/1dOSLiAiqzqH4fek2zyogm"
-    },
-    {
-      "added_at": "2026-10-16 07:28:54",
-      "album": {
         "name": "Sthlm Night",
         "url": "https://open.spotify.com/album/1GgvBY2L1UVmlysJu45aWS"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 170500,
       "name": "Sthlm Night",
       "url": "https://open.spotify.com/track/7eMXZGWOAL7clS5ki24HDO"
+    },
+    {
+      "added_at": "2026-10-16 07:28:54",
+      "album": {
+        "name": "Melting Away",
+        "url": "https://open.spotify.com/album/6Fcny8zpQ9huychcq3kHsJ"
+      },
+      "artists": [
+        {
+          "name": "Josie Mehlin",
+          "url": "https://open.spotify.com/artist/3VkUsVhRvP02IX46EWGzQz"
+        }
+      ],
+      "duration_ms": 186874,
+      "name": "Melting Away",
+      "url": "https://open.spotify.com/track/1dOSLiAiqzqH4fek2zyogm"
     },
     {
       "added_at": "2026-10-16 07:28:54",

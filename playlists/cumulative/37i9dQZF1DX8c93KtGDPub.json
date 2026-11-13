@@ -3256,6 +3256,24 @@
     {
       "album": {
         "name": "O Holy Night",
+        "url": "https://open.spotify.com/album/797ONWrPEHNh4qO2Wd4GX5"
+      },
+      "artists": [
+        {
+          "name": "Fruit Bats",
+          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197320,
+      "name": "O Holy Night",
+      "url": "https://open.spotify.com/track/6vJUwqQM5bTG7BJXMunphX"
+    },
+    {
+      "album": {
+        "name": "O Holy Night",
         "url": "https://open.spotify.com/album/6jMJTRRrt71X3uJZ98MT9h"
       },
       "artists": [

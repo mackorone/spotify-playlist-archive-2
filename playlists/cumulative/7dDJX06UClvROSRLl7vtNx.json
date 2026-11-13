@@ -11499,6 +11499,24 @@
     },
     {
       "album": {
+        "name": "Helium",
+        "url": "https://open.spotify.com/album/3fhyYz2oP329A36y1mBqtY"
+      },
+      "artists": [
+        {
+          "name": "Palmero",
+          "url": "https://open.spotify.com/artist/5hV5GLJ6kmWccJriPOPsOn"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132571,
+      "name": "Helium",
+      "url": "https://open.spotify.com/track/42Y8WxRlVyFIC1oJuDmlQl"
+    },
+    {
+      "album": {
         "name": "Here Alone",
         "url": "https://open.spotify.com/album/6vM1oqLYAnBFghBaBNoJMb"
       },
@@ -21660,6 +21678,24 @@
       "duration_ms": 147692,
       "name": "Nothing Else Compares",
       "url": "https://open.spotify.com/track/5Vpu50XIDx4MdTvbLcIflS"
+    },
+    {
+      "album": {
+        "name": "Nothing Feels The Same",
+        "url": "https://open.spotify.com/album/5eeIGCdy14RIt1zmYne2Da"
+      },
+      "artists": [
+        {
+          "name": "After June",
+          "url": "https://open.spotify.com/artist/54ca7OngsDRKrfApI0An72"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Nothing Feels The Same",
+      "url": "https://open.spotify.com/track/3LjqFoIeRfU1lEkTtjw1Zd"
     },
     {
       "album": {

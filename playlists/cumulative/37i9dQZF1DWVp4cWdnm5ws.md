@@ -4,7 +4,7 @@
 
 > Introducing RADAR Philippines Cast of 2026\. Cover: NEW LORE
 
-368 songs - 21 hr 47 min
+370 songs - 21 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,6 +210,7 @@
 | [maryclaire](https://open.spotify.com/track/2kxOkocyK75spxRWoSaufB) | [fitterkarma](https://open.spotify.com/artist/3tWAXoP37qDPvpAOnj7Zmr) | [maryclaire](https://open.spotify.com/album/1meZYCtadHPVjd8GYH6mTr) | 6:05 | 2026-06-24 |  |
 | [Maulan](https://open.spotify.com/track/3Ps0HEBA983FI2eaLtRMjW) | [ALLMO$T](https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz) | [Maulan](https://open.spotify.com/album/4wJr8jkyzQqhgkMlhfCXTQ) | 3:59 | 2025-08-01 | 2026-04-07 |
 | [Mayari](https://open.spotify.com/track/4fYDCIeW8frXcVpifquhxJ) | [Ace Banzuelo](https://open.spotify.com/artist/3f0X043zSojego7Qn4Yi6U) | [Mayari](https://open.spotify.com/album/2Vhz5nwKK4Hb5ssC5wBoTn) | 4:30 | 2021-11-25 | 2022-03-25 |
+| [Mic Check Mic Check \(Alam Mo Na Yan\)](https://open.spotify.com/track/3xx7dPdiYyDwb10aWV1uqc) | [VVINK](https://open.spotify.com/artist/4RYaFaZPwHFQpNUr6mW6OW) | [Mic Check Mic Check \(Alam Mo Na Yan\)](https://open.spotify.com/album/0IsvrMU14IDRyD0Qeju5Il) | 3:26 | 2026-11-13 |  |
 | [Mind, Body & Soul](https://open.spotify.com/track/0hi5lH7ioy89SP1itoseLt) | [Peaceful Gemini](https://open.spotify.com/artist/4AD2SGYmDQVd02vrwH0TaA) | [Mind, Body & Soul](https://open.spotify.com/album/0tmFpA4feyj6wlpIX7GE0D) | 3:29 | 2021-11-25 | 2022-03-25 |
 | [Misfire](https://open.spotify.com/track/3LB91BYKAZqcQG7Q2TGepV) | [Chezka](https://open.spotify.com/artist/09aWOipSJalkgLg7vOOUlY) | [Misfire](https://open.spotify.com/album/0UmM7cmL7Mxy4ZUCDdD41e) | 3:41 | 2026-04-06 |  |
 | [Misteryoso](https://open.spotify.com/track/0kE1SmlJNLg14dgdo9kJws) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Misteryoso](https://open.spotify.com/album/6BqP9dOpxUGa7gCunYMw9a) | 3:41 | 2024-05-29 | 2025-03-28 |
@@ -343,6 +344,7 @@
 | [Tingin](https://open.spotify.com/track/7b89Ffklm3xh4GI37vlZDZ) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN), [Janine](https://open.spotify.com/artist/09Xydf4dlkr29dH99DmsvQ) | [Tingin](https://open.spotify.com/album/5Z3PE5HciL6majXbtu3EU3) | 3:42 | 2024-04-02 | 2025-03-28 |
 | [To Pick a Lock](https://open.spotify.com/track/2s0E9y9CCJhs9KqEcYtGx8) | [Elle Sebastian](https://open.spotify.com/artist/3tZLOm9eJAxX6Q0xkEGjWo) | [To Pick a Lock](https://open.spotify.com/album/27dbQwfPkrwR4Mn4JAH7CU) | 5:12 | 2021-11-25 | 2022-03-25 |
 | [Totoo](https://open.spotify.com/track/2xLdN3oHi4CG89H9g1DJXN) | [Kenaniah](https://open.spotify.com/artist/2owtRYReKCG1n2AAS5AcpS) | [Kenaniah](https://open.spotify.com/album/50ZqQAS4Cp2ATe9w1MUHB7) | 4:40 | 2023-07-21 | 2024-04-03 |
+| [Track 3](https://open.spotify.com/track/735s7kB0oA5PXgXtiSZLMG) | [NEW LORE](https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E) | [Very Ancient Way of Crying](https://open.spotify.com/album/3xbauaiHd7Ah6wzGjfmoYo) | 0:00 | 2026-11-13 |  |
 | [Trash](https://open.spotify.com/track/2eNd3TxM4dTBbVXPaiaOhm) | [BGYO](https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8) | [Trash](https://open.spotify.com/album/5OLrKVbEIEC1XLpgXhnCaq) | 2:20 | 2025-03-27 | 2026-04-07 |
 | [Trisikulo](https://open.spotify.com/track/5ZOcgcOuMamz9I4DscdCs8) | [Ziv](https://open.spotify.com/artist/4Wz4nR941NXG2gzv06H62t), [VVINK](https://open.spotify.com/artist/4RYaFaZPwHFQpNUr6mW6OW) | [Trisikulo](https://open.spotify.com/album/2LBma9pugz4QM1btCzMYjG) | 2:49 | 2026-10-16 |  |
 | [Trust Me](https://open.spotify.com/track/6N9yWlPP4Ha96AfkXHgaqk) | [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON) | [Trust Me](https://open.spotify.com/album/0cCvsiXoR8TDNDdO38w05C) | 3:49 | 2025-03-27 | 2026-04-07 |

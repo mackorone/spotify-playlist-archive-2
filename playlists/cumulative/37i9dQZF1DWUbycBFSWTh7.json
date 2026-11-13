@@ -1580,7 +1580,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 416103,
       "name": "Can't Master (Original Mix)",
       "url": "https://open.spotify.com/track/3VeootWEg3DmE4veDExV2D"
@@ -1748,7 +1748,7 @@
       ],
       "date_added": "2026-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 394600,
       "name": "CDSS",
       "url": "https://open.spotify.com/track/4kk4okQXLPuWyKGvRnBLOY"
@@ -5019,6 +5019,24 @@
     },
     {
       "album": {
+        "name": "Mighty Lover EP",
+        "url": "https://open.spotify.com/album/3FJUr4ZT7xIwGtfZfLPW6h"
+      },
+      "artists": [
+        {
+          "name": "Fouk",
+          "url": "https://open.spotify.com/artist/7CSVLVGfYClzI2061XKrWe"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328425,
+      "name": "Higher State",
+      "url": "https://open.spotify.com/track/0UXpTDeGWzIcfAlSPMWIit"
+    },
+    {
+      "album": {
         "name": "Hive Mind (Primitive Body Dub)",
         "url": "https://open.spotify.com/album/5yJCYNZ2M7QvJ86dspaQZk"
       },
@@ -5845,6 +5863,24 @@
     },
     {
       "album": {
+        "name": "Infinity",
+        "url": "https://open.spotify.com/album/4H0coR9hZ2hZHyjTtHFV2c"
+      },
+      "artists": [
+        {
+          "name": "Hidde van Wee",
+          "url": "https://open.spotify.com/artist/3BhQ6qO6Y8Pxbok6yUWRwH"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227076,
+      "name": "Infinity",
+      "url": "https://open.spotify.com/track/2zsAYN6ssMPK2ros8QCfHg"
+    },
+    {
+      "album": {
         "name": "Zero One EP, Pt. 2",
         "url": "https://open.spotify.com/album/2gujz9OM5fZUNdzpgWP1fz"
       },
@@ -6376,6 +6412,24 @@
       "duration_ms": 439830,
       "name": "Kamoufle",
       "url": "https://open.spotify.com/track/1z4SfJBEpQTwlLu9GMtmCe"
+    },
+    {
+      "album": {
+        "name": "Keep On",
+        "url": "https://open.spotify.com/album/0m3f0Sp1UL1S9Bu3qsrBIG"
+      },
+      "artists": [
+        {
+          "name": "Dam Swindle",
+          "url": "https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224966,
+      "name": "Keep On",
+      "url": "https://open.spotify.com/track/6kDe2WC8P0MxO0HFIBzKd1"
     },
     {
       "album": {
@@ -8503,6 +8557,24 @@
     },
     {
       "album": {
+        "name": "Never Want To Leave",
+        "url": "https://open.spotify.com/album/6QZQuVf9KY2WngHJjL1MOe"
+      },
+      "artists": [
+        {
+          "name": "Milio",
+          "url": "https://open.spotify.com/artist/3NoWSOGaFNLvKXxho4phMO"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345200,
+      "name": "Never Want To Leave",
+      "url": "https://open.spotify.com/track/3xJbaqQWXk5R08WcbRFkAM"
+    },
+    {
+      "album": {
         "name": "I'm Still The Same Person",
         "url": "https://open.spotify.com/album/7cdywfbUKe3vUG22Kq6qYO"
       },
@@ -9092,7 +9164,7 @@
       ],
       "date_added": "2025-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 239032,
       "name": "Or Stay Alive - N.W.N. Remix Edit",
       "url": "https://open.spotify.com/track/6cwZHxmzCpAqUsgzF339Gw"
@@ -10473,6 +10545,24 @@
     },
     {
       "album": {
+        "name": "Seashell",
+        "url": "https://open.spotify.com/album/6SFlogAS0lcM727YDaeBOc"
+      },
+      "artists": [
+        {
+          "name": "Kamma",
+          "url": "https://open.spotify.com/artist/775xcuXzPW9p8TODycEul0"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370000,
+      "name": "Seashell",
+      "url": "https://open.spotify.com/track/6MczHSvK3O5UkeHN8WYHl4"
+    },
+    {
+      "album": {
         "name": "Anywhere, Anyway EP",
         "url": "https://open.spotify.com/album/24lbiEbHBl2T1OrtziUrVo"
       },
@@ -10890,7 +10980,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 202622,
       "name": "So Seductive",
       "url": "https://open.spotify.com/track/7zozi3j9zUbvv37jnSe57D"
@@ -11962,6 +12052,24 @@
     {
       "album": {
         "name": "The Message",
+        "url": "https://open.spotify.com/album/1PuW2JnDxtT3gHc9woZNWq"
+      },
+      "artists": [
+        {
+          "name": "Fouk",
+          "url": "https://open.spotify.com/artist/7CSVLVGfYClzI2061XKrWe"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394556,
+      "name": "The Message",
+      "url": "https://open.spotify.com/track/6MHVwp543GcpRx5PpJjRQH"
+    },
+    {
+      "album": {
+        "name": "The Message",
         "url": "https://open.spotify.com/album/248sWfLhMasyAMws38nu0Z"
       },
       "artists": [
@@ -12252,7 +12360,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 226714,
       "name": "The Saw That Broke The Camels Back",
       "url": "https://open.spotify.com/track/41z5UyRNqFVmmGheKvgeX5"
@@ -12634,7 +12742,7 @@
       ],
       "date_added": "2025-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 558688,
       "name": "Threads",
       "url": "https://open.spotify.com/track/741R6zkeGk7dFg1393tLMW"

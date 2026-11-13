@@ -4,7 +4,7 @@
 
 > Hip hop and rap music from Nigeria\. Cover: 6uff
 
-846 songs - 1 day 15 hr 29 min
+847 songs - 1 day 15 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,6 +243,7 @@
 | [Don't Pressure Me \(feat\. ODUMODUBLVCK\)](https://open.spotify.com/track/2gCSM7hC0VH4qJYenhkK7g) | [SuperWozzy](https://open.spotify.com/artist/0HeYa1Xtc9SKOD6SsF43lS), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Don't Pressure Me \(feat\. ODUMODUBLVCK\)](https://open.spotify.com/album/6t0qKoRMBV5zBWfscTy5nS) | 3:17 | 2024-02-09 | 2024-03-29 |
 | [DREAMS II](https://open.spotify.com/track/5rOIb9reu3rDswgaNKBo6s) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [DREAMS II](https://open.spotify.com/album/5Gv2wMWPt9dmBEPjc47XZo) | 3:57 | 2024-03-29 | 2024-11-22 |
 | [Drip \- Remix](https://open.spotify.com/track/6hewMA6fdyQn8OrufnuRFP) | [GINGO](https://open.spotify.com/artist/68R99JNwcSkTFtF4csRRJV), [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [Drip \(Remix\)](https://open.spotify.com/album/0Vf0PWZL99O3ZcRGpoPGL6) | 2:20 | 2024-05-31 | 2025-01-31 |
+| [DRTY](https://open.spotify.com/track/4v908d71nMHw4sRRx5YTZQ) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [DRTY](https://open.spotify.com/album/1aao8FuXkxeH7xLcGlSmx8) | 3:20 | 2026-11-13 |  |
 | [DSC](https://open.spotify.com/track/7HwSQoHXqMX3JlAh2qnDgd) | [Erigga](https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF), [Kashcpt](https://open.spotify.com/artist/2QRB0fbCA9ZCwe67h96PNs) | [DSC](https://open.spotify.com/album/5yEQEggZjhNNLMz8jY4n3r) | 2:36 | 2024-10-18 | 2026-01-15 |
 | [DUM](https://open.spotify.com/track/3i2t3pOBrvdX3B9j66ss2A) | [Fimi](https://open.spotify.com/artist/4ZnAdq8niwc3MnthK4ujdr) | [DUM](https://open.spotify.com/album/7DGdsVLaKxm97NaRn6XX1j) | 2:08 | 2026-07-31 | 2026-09-11 |
 | [Dunsin Wright](https://open.spotify.com/track/1yEUMs6qm47uQcnTWdc1BK) | [Fresh L.](https://open.spotify.com/artist/5Req3092u4LKlAcv6kZALj) | [Dunsin Wright](https://open.spotify.com/album/1Cnl2eE34Pkxa6WvhwSPbI) | 2:08 | 2023-10-20 | 2023-11-10 |
@@ -365,7 +366,7 @@
 | [I DEY ABUJA](https://open.spotify.com/track/6AAKc2ijypXA3aAGvL40i7) | [Toocoldbaby](https://open.spotify.com/artist/7IsbSKYoGSIWo0NMqxjOCM) | [I DEY ABUJA](https://open.spotify.com/album/1B3he5xpzSAlAsUevQ2P2V) | 1:51 | 2026-02-27 | 2026-03-13 |
 | [I Don't Care \(feat\. Bella Shmurda & Vector\)](https://open.spotify.com/track/7B1yc3t9hnNj9Uq2LBnAz4) | [Candy Bleakz](https://open.spotify.com/artist/2QPpxx2U3qEeZZsF3uaXn0), [Bella Shmurda](https://open.spotify.com/artist/4OBeWqpDm9s3hfaoVAj1Ni), [Vector](https://open.spotify.com/artist/0VIRUXHBdO0Uo2U6MbVOmn) | [Better Days](https://open.spotify.com/album/6XhHnQhsT8EayndVj36qvf) | 2:52 | 2024-03-22 | 2024-11-22 |
 | [I knoww](https://open.spotify.com/track/04tEKZxYzpYbPfIA0fJlOF) | [EF Moon](https://open.spotify.com/artist/0fFQ89LOIU2Bc8bRacEyv9), [Star Jay](https://open.spotify.com/artist/1fuHb5TQ1r9wqAPx4jgx8D) | [I knoww](https://open.spotify.com/album/7fXaUu3blBnTT1VPi6OhLq) | 1:22 | 2026-05-29 | 2026-06-19 |
-| [I Knoww II](https://open.spotify.com/track/0DlXEJiBF5RsnbiYqKndsV) | [EF Moon](https://open.spotify.com/artist/0fFQ89LOIU2Bc8bRacEyv9), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [I Knoww II](https://open.spotify.com/album/28pWV27QnlP2Mwe1nhEiN7) | 2:15 | 2026-09-11 |  |
+| [I Knoww II](https://open.spotify.com/track/0DlXEJiBF5RsnbiYqKndsV) | [EF Moon](https://open.spotify.com/artist/0fFQ89LOIU2Bc8bRacEyv9), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [I Knoww II](https://open.spotify.com/album/28pWV27QnlP2Mwe1nhEiN7) | 2:15 | 2026-09-11 | 2026-11-13 |
 | [I LOOK GOOD](https://open.spotify.com/track/5hSiM6ctEOTsQAMBjidq2r) | [Eva Alordiah](https://open.spotify.com/artist/3Fys2rzPCbp6tDzQ7YO3Pq) | [I LOOK GOOD](https://open.spotify.com/album/3LaVxJ3gAcD59h3piZ5kAM) | 2:25 | 2024-02-16 | 2024-02-23 |
 | [I LOVE THIS \(feat\. Igwe Aka\)](https://open.spotify.com/track/6sS4CHgGx63QMYmxdxd06n) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Igwe Aka](https://open.spotify.com/artist/00dT0myy0kbq152QWIzRPI) | [NOMADINHO: 4TH PRIME](https://open.spotify.com/album/4S0TXxId60knMPsHNHgUt3) | 2:24 | 2026-10-16 |  |
 | [I Met Nas in a Dream](https://open.spotify.com/track/53ji2kOnMFVz81RblzTCSc) | [Sosa.ttw](https://open.spotify.com/artist/5yh4KL43XecTrNwFmDF7Ko), [Tonee C](https://open.spotify.com/artist/5Yst8ocYJuFir5d09eNFj8) | [I Met Nas in a Dream](https://open.spotify.com/album/0RLi8gzE8HYWZly3iMoVIT) | 2:42 | 2024-11-22 | 2024-11-30 |

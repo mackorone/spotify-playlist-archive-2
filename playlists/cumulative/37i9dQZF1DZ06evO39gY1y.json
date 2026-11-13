@@ -53,6 +53,28 @@
     },
     {
       "album": {
+        "name": "Camastro al Fallo",
+        "url": "https://open.spotify.com/album/4aGcv1O8NDS04LCXVugqmB"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Sabino",
+          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178500,
+      "name": "Adicto",
+      "url": "https://open.spotify.com/track/765bOJivTgxtkE2kDcLPOx"
+    },
+    {
+      "album": {
         "name": "La Invit\u00e9 a Bailar, Me Dijo Adi\u00f3s Muy Pronto",
         "url": "https://open.spotify.com/album/79Cm6Btxi0sAfOHn1x4HsP"
       },
@@ -2376,7 +2398,7 @@
       ],
       "date_added": "2026-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 182100,
       "name": "Rel\u00e1mpago",
       "url": "https://open.spotify.com/track/0NLXQIZmQ66xNv4H5yEt9g"

@@ -2,9 +2,9 @@
 
 ### [POP!](https://open.spotify.com/playlist/37i9dQZF1DX6ec78YGWIGS)
 
-> Lo nuevo y lo más escuchado del pop\. Foto: BOM
+> Lo nuevo y lo más escuchado del pop\. Foto: Yami Safdie
 
-592 songs - 1 day 4 hr 56 min
+595 songs - 1 day 5 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -344,6 +344,7 @@
 | [MI PRIMER NOMBRE ES MARÍA](https://open.spotify.com/track/4ZnZDgWUSUjTMj2z6Cvo9y) | [143leti](https://open.spotify.com/artist/14fFkrYIwbODcbFIKoWfSr), [Roxxee](https://open.spotify.com/artist/7gnbAa5mL68nImWWYqHmDg) | [MI PRIMER NOMBRE ES MARÍA](https://open.spotify.com/album/68F2WBq1VSYP2YnISJBAwc) | 2:21 | 2026-11-06 |  |
 | [Mi una en 1M](https://open.spotify.com/track/6vkrrInEdRM4E490HVdMws) | [RUGGERO](https://open.spotify.com/artist/3YLlfcDiFzKJXhTK4sKuCz) | [Mi una en 1M](https://open.spotify.com/album/65DjpBrXK7A4gp9r5j3UlQ) | 3:08 | 2023-05-12 | 2023-06-02 |
 | [MIENTRAS ME CURO DEL CORA](https://open.spotify.com/track/6otePxalBK8AVa20xhZYVQ) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 2:44 | 2023-05-12 | 2023-08-04 |
+| [Migajas](https://open.spotify.com/track/6X0xjArooU3ErLHpJAhx7w) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [Bienvenida de Soltera](https://open.spotify.com/album/1Y6KmzdMpcO4l9KLRHzNiE) | 2:35 | 2026-11-13 |  |
 | [MIL BESOS](https://open.spotify.com/track/5WJS4rGu9kpfvSdV9mFxza) | [Zeballos](https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [MIL BESOS](https://open.spotify.com/album/3t48NiVRZ58fBdIdT0EisS) | 3:21 | 2026-09-25 |  |
 | [Milagrosa](https://open.spotify.com/track/4CVhywni3QwalKLZgwFi58) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [Milagrosa](https://open.spotify.com/album/2Ri7SdWvj5PNtbVxrMDq3t) | 2:20 | 2023-05-12 | 2023-05-27 |
 | [Milagrosa](https://open.spotify.com/track/7vFESQCFxuL38hNbTCtUDu) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [Milagrosa](https://open.spotify.com/album/2TKYEbaAPl4mqTAyGiKFRS) | 2:20 | 2023-05-26 | 2023-09-30 |
@@ -472,6 +473,7 @@
 | [REPLAY](https://open.spotify.com/track/3LIVZogvUUJ996kjjMAmJv) | [ADOLLZ](https://open.spotify.com/artist/1u98tBOXzodOmuGbqXTedL) | [REPLAY](https://open.spotify.com/album/0BhantBtUbbYVuG8ejp0eo) | 3:10 | 2025-07-11 | 2025-07-25 |
 | [Replay](https://open.spotify.com/track/2rH0luo2WOZ5QKBTPMRkL4) | [ELOISA](https://open.spotify.com/artist/1GbHLsyBjx0L5uJoPRoelG) | [y si es la última noche?](https://open.spotify.com/album/20X0aNooUIAGYOaVJ0hvWg) | 2:20 | 2026-10-30 | 2026-11-07 |
 | [Rincón](https://open.spotify.com/track/4PMi46eDFyLmHKKtVTrDGb) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [Rincón](https://open.spotify.com/album/1Kq2pzsoVXEtoXaZf0x2RY) | 2:44 | 2023-07-11 | 2023-08-04 |
+| [Romeo](https://open.spotify.com/track/6lKB4tJIUqwQdCTq8mlKeE) | [bautibit](https://open.spotify.com/artist/3kqMwQRkXB1f0nbvxIH3e5), [Staner](https://open.spotify.com/artist/42rDqqPSGclDjqm8g7tiGT) | [Romeo](https://open.spotify.com/album/5HGYhuThgwTxqYN0DmMlqJ) | 2:16 | 2026-11-13 |  |
 | [Rápido](https://open.spotify.com/track/4SxSaGLmgyCCVDgbjZmKvV) | [Ambik](https://open.spotify.com/artist/4QIM495B5wWD9B24Fsi4aR) | [Rápido](https://open.spotify.com/album/0lzlsc6JE3y8D8Ov8T23Lq) | 1:46 | 2024-04-19 | 2024-05-18 |
 | [S.O.S](https://open.spotify.com/track/4qVFJdnzV5xhdGpD6RBvEr) | [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN), [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [S.O.S](https://open.spotify.com/album/6EyvfUT1Fw4ibKocckl5DE) | 3:02 | 2024-05-31 | 2024-10-12 |
 | [S91](https://open.spotify.com/track/7EpOXgSRgnglRWr86pZfGU) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [S91](https://open.spotify.com/album/0bgvd5Xd52TX61R8uhaISK) | 2:53 | 2023-07-14 | 2024-01-13 |
@@ -516,6 +518,7 @@
 | [sorry es que soy bipolarrr](https://open.spotify.com/track/33BselzygJVodjKKHVLpiH) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [sorry es que soy bipolarrr](https://open.spotify.com/album/3ll4hIoivK1wpONt3MDxg5) | 3:40 | 2024-06-14 | 2024-08-13 |
 | [SOY](https://open.spotify.com/track/29SDCodVy2u3N6IAQjNZaA) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [SOY](https://open.spotify.com/album/2ZzM2xidCrRpnQbpd2Fsd8) | 2:54 | 2024-08-16 | 2024-11-16 |
 | [Soy Increíble](https://open.spotify.com/track/62j9HqMqmQZNjW2GtaAhXg) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX) | [FREE SPIRITS](https://open.spotify.com/album/2lbCB2zwGvqqn7IkRQGaEo) | 3:09 | 2026-03-20 | 2026-08-28 |
+| [Su Historieta](https://open.spotify.com/track/5STf2PtIUMgmSf57wJEZs1) | [Soffia Philo](https://open.spotify.com/artist/5o1ARHZ2fhll5jILdQp84X) | [Que me Llame](https://open.spotify.com/album/6nFwAXu3dj0URWqWXoL6m3) | 2:49 | 2026-11-13 |  |
 | [SUPERESTRELLA](https://open.spotify.com/track/6hpuesKPNa3WhV48O7Fa47) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [CUARTO AZUL](https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M) | 3:03 | 2026-07-31 |  |
 | [Sympathy is a knife featuring ariana grande](https://open.spotify.com/track/3nQ24dxqvxZEVwlHTeuLz0) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 2:34 | 2024-10-11 | 2024-10-26 |
 | [São Paulo \(feat\. Anitta\)](https://open.spotify.com/track/0xGQTpN4ESETtl1Sp6rzd2) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [São Paulo](https://open.spotify.com/album/44MHvpU3h9Wp6SxhsC9GOK) | 5:01 | 2024-11-05 | 2025-05-09 |

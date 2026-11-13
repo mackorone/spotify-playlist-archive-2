@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-04-15",
-  "description": "IBZ szn. Cover: Ivory (IT) & Auggi\u00eb",
+  "description": "IBZ szn. Cover: Brunello",
   "name": "Umami",
   "tracks": [
     {
@@ -4349,6 +4349,28 @@
     },
     {
       "album": {
+        "name": "Burn Me Down",
+        "url": "https://open.spotify.com/album/1MJs5zVGOSUTa1LErbwRIo"
+      },
+      "artists": [
+        {
+          "name": "Luch",
+          "url": "https://open.spotify.com/artist/0Jp7EXwEqkmsUO7eu9kbbp"
+        },
+        {
+          "name": "Jamek Ortega",
+          "url": "https://open.spotify.com/artist/0z4954ccQLUdwTHCSMXtem"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159344,
+      "name": "Burn Me Down",
+      "url": "https://open.spotify.com/track/56xw1tdkoN3xeGvessiHqb"
+    },
+    {
+      "album": {
         "name": "Burning Bright, pt. II",
         "url": "https://open.spotify.com/album/2BExcohtZcLb984JR4C9XQ"
       },
@@ -7256,7 +7278,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 234346,
       "name": "Dolphin Groove",
       "url": "https://open.spotify.com/track/3MO993scXW9baXcMuNrhdJ"
@@ -7274,7 +7296,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 192700,
       "name": "Don't Go",
       "url": "https://open.spotify.com/track/6hYqPvgX9U7LjGKXtnyNbD"
@@ -12495,6 +12517,24 @@
     },
     {
       "album": {
+        "name": "idk wtd",
+        "url": "https://open.spotify.com/album/2wfK1VVlX9o9JDYSkqYP21"
+      },
+      "artists": [
+        {
+          "name": "aka Vinnie",
+          "url": "https://open.spotify.com/artist/6UnSeTHLUTc13ReMW40rJe"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162667,
+      "name": "idk wtd",
+      "url": "https://open.spotify.com/track/4ZbUjue8DIZxBjsZnnG8Sb"
+    },
+    {
+      "album": {
         "name": "Psssh 001",
         "url": "https://open.spotify.com/album/0E8Qok1GefELqqpBAm0gfx"
       },
@@ -16347,6 +16387,28 @@
     },
     {
       "album": {
+        "name": "Low Effort",
+        "url": "https://open.spotify.com/album/6WkCtbdfhajq1uMd3ATa6S"
+      },
+      "artists": [
+        {
+          "name": "Steve N",
+          "url": "https://open.spotify.com/artist/0he1A3HWxtr44Ifk21DNKH"
+        },
+        {
+          "name": "Mert Erkan",
+          "url": "https://open.spotify.com/artist/3aRIQ7ZH2Z4p5GO2IImSfn"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208780,
+      "name": "Low Effort",
+      "url": "https://open.spotify.com/track/1wea00ieN9teG7W91s9bau"
+    },
+    {
+      "album": {
         "name": "Low Low",
         "url": "https://open.spotify.com/album/6zsZ6HvoCrql4RmWkbQ0ll"
       },
@@ -17952,7 +18014,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 191629,
       "name": "Mode Vision",
       "url": "https://open.spotify.com/track/7HoK6TRhSmf897K3GtStys"
@@ -18938,6 +19000,28 @@
       "duration_ms": 205573,
       "name": "My Love for You (Yebba's Heartbreak) - Edit",
       "url": "https://open.spotify.com/track/4IC4M64imsv7BGowdrFEzH"
+    },
+    {
+      "album": {
+        "name": "My Lovin",
+        "url": "https://open.spotify.com/album/1AGq4iiDDP4Jrb5J1i0ZYJ"
+      },
+      "artists": [
+        {
+          "name": "Denis Horvat",
+          "url": "https://open.spotify.com/artist/5eJJoSS6weFQeI9AtNFLee"
+        },
+        {
+          "name": "Auggi\u00eb",
+          "url": "https://open.spotify.com/artist/5NExMFya2Tu4I4DlTHKOMe"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344516,
+      "name": "My Lovin",
+      "url": "https://open.spotify.com/track/1BbyOfPlgrT7wWfTV3Aevd"
     },
     {
       "album": {
@@ -21362,6 +21446,32 @@
       "duration_ms": 157176,
       "name": "pass on over",
       "url": "https://open.spotify.com/track/0j28heQh9SneJxHpLY4pdt"
+    },
+    {
+      "album": {
+        "name": "Password",
+        "url": "https://open.spotify.com/album/3Z5WB0hymx6X1at5tI9gws"
+      },
+      "artists": [
+        {
+          "name": "Mita Gami",
+          "url": "https://open.spotify.com/artist/6Y9N9gdo5jpzGsExWDymS8"
+        },
+        {
+          "name": "Genish",
+          "url": "https://open.spotify.com/artist/12rfpY7qPWCqM5kN8q1Ry1"
+        },
+        {
+          "name": "Alon Aboutboul",
+          "url": "https://open.spotify.com/artist/4gPrtFqjAIU9dqcGlJ3HN2"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221127,
+      "name": "Password",
+      "url": "https://open.spotify.com/track/468W5Xam03SaZ7AEjvtGzG"
     },
     {
       "album": {
@@ -26382,7 +26492,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 331920,
       "name": "Sun My Sweet Sun - Love Version",
       "url": "https://open.spotify.com/track/18tRRaLHF6Y0b1yb6rJNET"
@@ -27848,7 +27958,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 308852,
       "name": "The Only One - Radio Edit",
       "url": "https://open.spotify.com/track/3eEdbkAYt1mYKDoHYzc4Ig"
@@ -29490,7 +29600,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 275905,
       "name": "Vaal",
       "url": "https://open.spotify.com/track/2vLzxI56he3XskMDUgBDcY"
@@ -30600,6 +30710,28 @@
       "duration_ms": 199354,
       "name": "WHAT!",
       "url": "https://open.spotify.com/track/1vnEr5iuAEGZco3ryl6kfg"
+    },
+    {
+      "album": {
+        "name": "What's So Funny",
+        "url": "https://open.spotify.com/album/07W4AVm1G5nf6TvUWh3pWJ"
+      },
+      "artists": [
+        {
+          "name": "Notre Dame",
+          "url": "https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt"
+        },
+        {
+          "name": "Moontalk",
+          "url": "https://open.spotify.com/artist/4UFhlgDCipgC1LdbaJgIgN"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234374,
+      "name": "What's So Funny",
+      "url": "https://open.spotify.com/track/5SXvHuvzGBTuAqwlVxGeYG"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > 50 найгарячіших пісень в Україні\. Обкладинка: SKYLERR & kavabanga Depo kolibri
 
-235 songs - 11 hr 56 min
+236 songs - 11 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,7 +192,7 @@
 | [Порічка](https://open.spotify.com/track/3gH5vuIvlmzHQkPGmbkXND) | [YAKTAK](https://open.spotify.com/artist/5zjgy7grnZbt2L12meuxog), [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [Порічка](https://open.spotify.com/album/7psQf9ptuKCMeDfvlumlmU) | 2:39 | 2024-06-27 | 2025-01-28 |
 | [Посилать](https://open.spotify.com/track/1n9Nd330aNzwwUi1p7tIF9) | [BRYKULETS](https://open.spotify.com/artist/7JThbRHgQpaRM87SKqPqoB) | [Посилать](https://open.spotify.com/album/1s6ntybnzHb68tXPNPScFn) | 2:56 | 2025-04-17 | 2025-10-17 |
 | [Привіт\. Hello](https://open.spotify.com/track/6hZJocUHCjpSmWOghwdHkL) | [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr) | [Привіт\. Hello](https://open.spotify.com/album/7a4jaPDUORkJUUXCU1X43o) | 3:02 | 2026-03-26 | 2026-06-12 |
-| [Прикуті](https://open.spotify.com/track/4KfdSyCZM6LY7WlATxIgfx) | [Kristonko](https://open.spotify.com/artist/0zazzKWsThTBwSOVbwBNZY) | [Прикуті](https://open.spotify.com/album/01jiq2sZMVJcY9UQd6NnvA) | 2:25 | 2026-04-27 |  |
+| [Прикуті](https://open.spotify.com/track/4KfdSyCZM6LY7WlATxIgfx) | [Kristonko](https://open.spotify.com/artist/0zazzKWsThTBwSOVbwBNZY) | [Прикуті](https://open.spotify.com/album/01jiq2sZMVJcY9UQd6NnvA) | 2:25 | 2026-04-27 | 2026-11-13 |
 | [Принцеса](https://open.spotify.com/track/09VEXQKnA8JvSqAGSINDe9) | [DYKYI](https://open.spotify.com/artist/4MQqUxGDXVC2RVzYAy0OQ0), [Фабрика Зірок](https://open.spotify.com/artist/0y4n8SgvVOPp74lxOCky84) | [Принцеса](https://open.spotify.com/album/2tPEWFp9Di6ZrCQJP5P7BS) | 2:51 | 2026-11-05 |  |
 | [Півонії](https://open.spotify.com/track/6mkdNIS7OOMndjXVzgyA13) | [Анна Трінчер](https://open.spotify.com/artist/71Lczal1i7u1Emcp0UfY9E) | [Півонії](https://open.spotify.com/album/6CJD937GwNOJDyPgDwaron) | 2:06 | 2025-07-31 | 2026-01-15 |
 | [Пінаколада](https://open.spotify.com/track/4PMQ591DnjhGRYZNLETsno) | [Vitaliy Kozlovskiy](https://open.spotify.com/artist/1xn58akm1S6uU3ZVbNNfSw) | [Пінаколада](https://open.spotify.com/album/112jvnaQDUj6eHextLkaaS) | 3:15 | 2025-05-16 | 2026-05-08 |
@@ -229,6 +229,7 @@
 | [Чай \- «Ховаючи колишню»](https://open.spotify.com/track/7EbBBVkxknlzRi20czbAws) | [Klavdia Petrivna](https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y) | [Чай \(«Ховаючи колишню»\)](https://open.spotify.com/album/3yHBRGlcTKvOkl0J9PC2SB) | 3:09 | 2025-11-13 | 2025-12-02 |
 | [Час](https://open.spotify.com/track/4mVDYu5SYxeKK9BhEnlstT) | [Vivienne Mort](https://open.spotify.com/artist/6mQd5HeHhMBZK8u2bTCduH) | [Досвід](https://open.spotify.com/album/44prQVO4fIoqf2qQYy0Eyq) | 3:20 | 2024-06-27 | 2024-10-29 |
 | [Червоний мак](https://open.spotify.com/track/3wgjTy5esSJiekFbS0LBRt) | [SKYLERR](https://open.spotify.com/artist/4yAxWAp7yFeQJu9la6eaCg), [kavabanga Depo kolibri](https://open.spotify.com/artist/5qr3Q9yXnDkxF3RLs5ZPLn) | [Червоний мак](https://open.spotify.com/album/67turAkNUghJQnJBgTYfgE) | 3:29 | 2026-10-22 |  |
+| [Червоні прапорці](https://open.spotify.com/track/4SCuJ31JyLkJXaK2bJui3i) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [Червоні прапорці](https://open.spotify.com/album/6lWFE3O6uR3hB5QHSvRVGG) | 2:40 | 2026-11-12 |  |
 | [ЧОМУ](https://open.spotify.com/track/4mj7zAZwUpCDuPVdZEQlH3) | [Volodymyr Dantes](https://open.spotify.com/artist/0eFAXtLIVxGHPJgUS8gI2E) | [ЧОМУ](https://open.spotify.com/album/0siaXl6Hg3rOEI1CESKefY) | 2:44 | 2025-11-17 | 2026-01-06 |
 | [ЧУЖІЮ Я](https://open.spotify.com/track/3Pc3jFRVSUvMKLsna4KNe1) | [NAZVA](https://open.spotify.com/artist/6Z0JQx2gaHoT6fiBgTS9p3), [BRYKULETS](https://open.spotify.com/artist/7JThbRHgQpaRM87SKqPqoB) | [ЧУЖІЮ Я](https://open.spotify.com/album/6BYXvDUKBwdObrJdvNWYr7) | 3:23 | 2024-12-12 | 2025-04-11 |
 | [Шиншила](https://open.spotify.com/track/1f5i0oy0aeVVbXDvAbPEdg) | [Tina Karol](https://open.spotify.com/artist/0W3C8tSz8ERP2t37m6Ru6r) | [Шиншила](https://open.spotify.com/album/0vJRuTCQzUlMn7pDV9HeAy) | 2:48 | 2026-01-08 | 2026-02-20 |

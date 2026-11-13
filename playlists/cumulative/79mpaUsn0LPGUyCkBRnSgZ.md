@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-1,265 songs - 3 day 9 hr 47 min
+1,267 songs - 3 day 9 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [1/1 \- Remastered 2004](https://open.spotify.com/track/3bCmDqflFBHijgJfvtqev5) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 1: Music For Airports \(Remastered 2004\)](https://open.spotify.com/album/063f8Ej8rLVTz9KkjQKEMa) | 17:21 | 2024-01-12 | 2024-02-17 |
 | [100](https://open.spotify.com/track/6e6zTZH1PIyXRI6PTByfW6) | [Lute](https://open.spotify.com/artist/75WcpJKWXBV3o3cfluWapK) | [Gold Mouf \(Deluxe\)](https://open.spotify.com/album/5O5tzddmtxljqz3WOwFK00) | 3:50 | 2022-09-06 |  |
 | [100 Degrees](https://open.spotify.com/track/1DPIqXc2BfJWWgCy0Tc2lr) | [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49) | [Live on Ice](https://open.spotify.com/album/6K7SjlIebufubxXGf4uA7a) | 4:25 | 2023-05-18 |  |
+| [100% Legal Intro](https://open.spotify.com/track/6dFVY4JKZLMsAsxE7bCwyf) | [300SkullsAndCounting](https://open.spotify.com/artist/7hGgwyIQYX5u1XU8asjH63), [Jenny Sparks](https://open.spotify.com/artist/0S8h1aYM60QtOHIKqWfNvf) | [THIS IS SPA TOWN!](https://open.spotify.com/album/621WlWIqOod29HG6km5Olf) | 3:25 | 2026-11-13 |  |
 | [100,000 Voices](https://open.spotify.com/track/4RenR9s7VhyzHVHMdTmjx2) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) | [Djesse Vol\. 4](https://open.spotify.com/album/13r6eqjYlKELFQlNvVCBz1) | 4:44 | 2024-03-01 | 2024-03-09 |
 | [123](https://open.spotify.com/track/2QrMuaZUACwUpmIzmqRE9l) | [Girlpool](https://open.spotify.com/artist/3BYXi96LqI8TwNljFKE0DZ) | [Powerplant](https://open.spotify.com/album/120bhi2kgHiYc2FwI7nghO) | 2:50 | 2022-08-25 | 2023-07-29 |
 | [15 Step](https://open.spotify.com/track/4oXg7xT4ksBxHTx8PcmSXw) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [In Rainbows](https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK) | 3:57 | 2023-01-19 | 2024-01-18 |
@@ -672,6 +673,7 @@
 | [Lust For Life](https://open.spotify.com/track/21YxK0klhpfLW8budkJaMF) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Lust For Life](https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz) | 5:13 | 2023-11-19 | 2025-10-29 |
 | [Lydia Wears A Cross](https://open.spotify.com/track/39Xue5JNMm2yLvIma6Ut8u) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [PRE PLEASURE](https://open.spotify.com/album/47R4scO7Jzc3PViyjEoMb5) | 4:01 | 2023-04-30 | 2023-12-14 |
 | [Maggot Brain](https://open.spotify.com/track/5WJU527RQNyMLuKecjsL8V) | [Funkadelic](https://open.spotify.com/artist/450o9jw6AtiQlQkHCdH6Ru) | [Maggot Brain](https://open.spotify.com/album/3ywVzrwMQ3Kq43N9zBdBQm) | 10:19 | 2024-01-23 | 2024-10-24 |
+| [Magical Dream](https://open.spotify.com/track/3UteqPisakwAwZ1xKjERqf) | [808 State](https://open.spotify.com/artist/7hFdUW64G4iU1tz46ITRfN) | [Ninety](https://open.spotify.com/album/46z1u29jqg6fZA6mAO2E8Y) | 3:52 | 2026-11-13 |  |
 | [Mahashmashana](https://open.spotify.com/track/1wSzyIk6YisAMGtvbDEsuU) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Mahashmashana](https://open.spotify.com/album/2oJHtuXrCJ0KMH5GrC6Qdw) | 9:19 | 2024-11-22 | 2024-11-28 |
 | [Main Titles](https://open.spotify.com/track/5TTPUpjBOycZtQYyxjOshu) | [Wes Borland](https://open.spotify.com/artist/3Uzo5Y5sjGlwxNjfZDtGLF) | [Crystal Machete](https://open.spotify.com/album/6RrfC1hxrS4ANiOQPTtCs3) | 6:29 | 2024-01-18 |  |
 | [Malka Moma](https://open.spotify.com/track/2ZPzIZGqhm613bqOj3evQv) | [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0) | [Heavenly Body: If I'm The Bottle You’re The Message](https://open.spotify.com/album/6NjXeIwjKdVEkJHvom1m3x) | 3:14 | 2026-07-27 |  |

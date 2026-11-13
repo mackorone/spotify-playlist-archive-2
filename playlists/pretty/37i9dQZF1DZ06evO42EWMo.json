@@ -1,12 +1,12 @@
 {
   "description": "This is Amy Winehouse. The essential tracks, all in one playlist.",
-  "num_followers": 1210881,
+  "num_followers": 1210904,
   "original_name": "This Is Amy Winehouse",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avENAAAAAACSAcP/1T9QNfwCQGcUQJrK",
+  "snapshot_id": "avOwAAAAAADhBRT44k5HvSuv0N1km/AH",
   "tracks": [
     {
       "added_at": null,
@@ -355,8 +355,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Back To Black (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG"
+        "name": "Frank (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2rWBGF3pKx8Jla9VYMQ8Xc"
       },
       "artists": [
         {
@@ -364,9 +364,9 @@
           "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
         }
       ],
-      "duration_ms": 153413,
-      "name": "You're Wondering Now",
-      "url": "https://open.spotify.com/track/7ee1XEOzZgzTQWNaiHZvKY"
+      "duration_ms": 128933,
+      "name": "(There Is) No Greater Love",
+      "url": "https://open.spotify.com/track/1jLNxsmGsEQAM4CUkHemfS"
     },
     {
       "added_at": null,
@@ -387,8 +387,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Frank (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2rWBGF3pKx8Jla9VYMQ8Xc"
+        "name": "Back To Black (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG"
       },
       "artists": [
         {
@@ -396,9 +396,9 @@
           "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
         }
       ],
-      "duration_ms": 128933,
-      "name": "(There Is) No Greater Love",
-      "url": "https://open.spotify.com/track/1jLNxsmGsEQAM4CUkHemfS"
+      "duration_ms": 153413,
+      "name": "You're Wondering Now",
+      "url": "https://open.spotify.com/track/7ee1XEOzZgzTQWNaiHZvKY"
     },
     {
       "added_at": null,
@@ -423,6 +423,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Frank (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2rWBGF3pKx8Jla9VYMQ8Xc"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "duration_ms": 301000,
+      "name": "Help Yourself",
+      "url": "https://open.spotify.com/track/5TImISmK9CQtBrt0rLbq0R"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Back To Black (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 215000,
       "name": "Hey Little Rich Girl",
       "url": "https://open.spotify.com/track/6huXEunO4jEFn9Q7WLoMZs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Frank (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2rWBGF3pKx8Jla9VYMQ8Xc"
-      },
-      "artists": [
-        {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
-        }
-      ],
-      "duration_ms": 301000,
-      "name": "Help Yourself",
-      "url": "https://open.spotify.com/track/5TImISmK9CQtBrt0rLbq0R"
     },
     {
       "added_at": null,
@@ -495,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Back To Black (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG"
-      },
-      "artists": [
-        {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
-        }
-      ],
-      "duration_ms": 176320,
-      "name": "Monkey Man",
-      "url": "https://open.spotify.com/track/52fqquVYihRW17ySEcy5mA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Frank (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2rWBGF3pKx8Jla9VYMQ8Xc"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 234106,
       "name": "Intro / Stronger Than Me",
       "url": "https://open.spotify.com/track/2qPwYT63eEx3JNWdVE6bb0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Back To Black (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "duration_ms": 176320,
+      "name": "Monkey Man",
+      "url": "https://open.spotify.com/track/52fqquVYihRW17ySEcy5mA"
     },
     {
       "added_at": null,
@@ -567,22 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "AMY (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5Fb59VtYjJNTXPcNGpoDU3"
-      },
-      "artists": [
-        {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
-        }
-      ],
-      "duration_ms": 175986,
-      "name": "We're Still Friends - Live At The Union Chapel",
-      "url": "https://open.spotify.com/track/1MdMYZN0VnpjTy6nBCM2Qf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Frank (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2rWBGF3pKx8Jla9VYMQ8Xc"
       },
@@ -599,8 +583,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fuckery (Me & Mr Jones - Original Demo)",
-        "url": "https://open.spotify.com/album/4XW0oFx8MjEVQ42KzvOosp"
+        "name": "AMY (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5Fb59VtYjJNTXPcNGpoDU3"
       },
       "artists": [
         {
@@ -608,9 +592,9 @@
           "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
         }
       ],
-      "duration_ms": 151840,
-      "name": "Fuckery - Me & Mr Jones / Original Demo",
-      "url": "https://open.spotify.com/track/1XzafONBlJpskpZhO3QgZX"
+      "duration_ms": 175986,
+      "name": "We're Still Friends - Live At The Union Chapel",
+      "url": "https://open.spotify.com/track/1MdMYZN0VnpjTy6nBCM2Qf"
     },
     {
       "added_at": null,
@@ -627,6 +611,22 @@
       "duration_ms": 317013,
       "name": "In My Bed",
       "url": "https://open.spotify.com/track/2TfIuZiaQK2I6Dsn0GxxdN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fuckery (Me & Mr Jones - Original Demo)",
+        "url": "https://open.spotify.com/album/4XW0oFx8MjEVQ42KzvOosp"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "duration_ms": 151840,
+      "name": "Fuckery - Me & Mr Jones / Original Demo",
+      "url": "https://open.spotify.com/track/1XzafONBlJpskpZhO3QgZX"
     },
     {
       "added_at": null,
@@ -667,6 +667,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Frank",
+        "url": "https://open.spotify.com/album/3kGbxqlVl3LqjifxlubtcT"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "duration_ms": 254727,
+      "name": "Amy Amy Amy",
+      "url": "https://open.spotify.com/track/6lX3i8dl8gsWMfaUIgcOl6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sirens of Song",
         "url": "https://open.spotify.com/album/6V2rjEdJenqFpZDug9maSA"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 165440,
       "name": "Monkey Man",
       "url": "https://open.spotify.com/track/5JSJQNIlsfrfuXhjKTAfDa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Frank",
-        "url": "https://open.spotify.com/album/3kGbxqlVl3LqjifxlubtcT"
-      },
-      "artists": [
-        {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
-        }
-      ],
-      "duration_ms": 254727,
-      "name": "Amy Amy Amy",
-      "url": "https://open.spotify.com/track/6lX3i8dl8gsWMfaUIgcOl6"
     },
     {
       "added_at": null,
@@ -739,6 +739,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Frank",
+        "url": "https://open.spotify.com/album/3kGbxqlVl3LqjifxlubtcT"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "duration_ms": 253059,
+      "name": "Brother",
+      "url": "https://open.spotify.com/track/56Arzti6qoYbWlU5cM5xQ9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Life Is Good",
         "url": "https://open.spotify.com/album/4tpG2K3nqcrFNGBikX3dc0"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 356466,
       "name": "Cherry Wine",
       "url": "https://open.spotify.com/track/4K7jd5Wm09iF9xum3gfExb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Frank",
-        "url": "https://open.spotify.com/album/3kGbxqlVl3LqjifxlubtcT"
-      },
-      "artists": [
-        {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
-        }
-      ],
-      "duration_ms": 253059,
-      "name": "Brother",
-      "url": "https://open.spotify.com/track/56Arzti6qoYbWlU5cM5xQ9"
     },
     {
       "added_at": null,
@@ -815,22 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stronger Than Me",
-        "url": "https://open.spotify.com/album/17M1mlaV8mmeMt6oSHYxC7"
-      },
-      "artists": [
-        {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
-        }
-      ],
-      "duration_ms": 283800,
-      "name": "What It Is",
-      "url": "https://open.spotify.com/track/79dmkAahkE4zQfAWtk3hhF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Frank",
         "url": "https://open.spotify.com/album/3kGbxqlVl3LqjifxlubtcT"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 410760,
       "name": "You Sent Me Flying / Cherry",
       "url": "https://open.spotify.com/track/2XVLtD3PlpQTdh81UP2grX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stronger Than Me",
+        "url": "https://open.spotify.com/album/17M1mlaV8mmeMt6oSHYxC7"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "duration_ms": 283800,
+      "name": "What It Is",
+      "url": "https://open.spotify.com/track/79dmkAahkE4zQfAWtk3hhF"
     },
     {
       "added_at": null,

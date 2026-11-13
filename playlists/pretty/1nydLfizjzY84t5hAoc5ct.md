@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1nydLfizjzY84t5hAoc5ct.md) - [plain]
 
 > OffAxisTours.com \| Indie \| Folk \| Electro \| Rock \| Pop  \| NO autotune, AI or instrumental
 
-[newfoundsound](https://open.spotify.com/user/newfoundsound) - 1,418 likes - 138 songs - 7 hr 10 min
+[newfoundsound](https://open.spotify.com/user/newfoundsound) - 1,418 likes - 139 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -146,5 +146,6 @@ pretty - [cumulative](/playlists/cumulative/1nydLfizjzY84t5hAoc5ct.md) - [plain]
 | 136 | [Twisted](https://open.spotify.com/track/3lnjiEMyKpAPtOEZR6Heyb) | [Anna Marx](https://open.spotify.com/artist/0uVaLTYvT29QKgp1NIkPp8) | [Twisted](https://open.spotify.com/album/1PKXY8u4zqwEuOfAJbFPkG) | 2:22 |
 | 137 | [Leaving Lewis](https://open.spotify.com/track/0ALm9JXJJWok8bmnF0fTcI) | [Willie Campbell](https://open.spotify.com/artist/1f9HLcCq2yssKl9qIhpXAU) | [Leaving Lewis](https://open.spotify.com/album/70qBYevsHzieH2yI36dmXg) | 3:18 |
 | 138 | [A Reckless Expenditure](https://open.spotify.com/track/0RQVNCtnxSiXiFXMQLwJtX) | [KATERINA.](https://open.spotify.com/artist/43Yvnw65fjs8L8FIhV2T1c) | [A Reckless Expenditure](https://open.spotify.com/album/4SGD85gF2YlRVSaXarQSTX) | 1:49 |
+| 139 | [Critical Analysis](https://open.spotify.com/track/4boYzmLVSF6gvD5UWRxt9T) | [LECKI LECKI](https://open.spotify.com/artist/68G5m61q5sMimRnEHrcEGF) | [Critical Analysis](https://open.spotify.com/album/3EWXE8YnopD7OGwWQQPZzF) | 3:59 |
 
-Snapshot ID: `AACFScDvp73eqN81B0rTu3Oc5B/WIgEC`
+Snapshot ID: `AACFSk8Ju9p08Hm8Ry5tEnaWuqoKGtre`

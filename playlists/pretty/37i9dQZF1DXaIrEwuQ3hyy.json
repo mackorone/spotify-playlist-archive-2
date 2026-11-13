@@ -1,6 +1,6 @@
 {
   "description": "lass mal den herbst romantisieren",
-  "num_followers": 1109845,
+  "num_followers": 1109965,
   "original_name": "Herbst Chillout",
   "owner": {
     "name": "Spotify",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2026-11-05 23:00:47",
       "album": {
+        "name": "Rehab - Spotify Singles",
+        "url": "https://open.spotify.com/album/5ryoNuIzvgmHGm1mswYtq2"
+      },
+      "artists": [
+        {
+          "name": "badm\u00f3mzjay",
+          "url": "https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h"
+        }
+      ],
+      "duration_ms": 262198,
+      "name": "Rehab - Spotify Singles",
+      "url": "https://open.spotify.com/track/2zohPykSNrLEahqVi3gKfu"
+    },
+    {
+      "added_at": "2026-11-05 23:00:47",
+      "album": {
         "name": "Tall Pines",
         "url": "https://open.spotify.com/album/7nd1bPBc68WdwJY5WkoLjX"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 194210,
       "name": "Tall Pines",
       "url": "https://open.spotify.com/track/2VQ5Zw5bDevO8iRx1EQ2gr"
-    },
-    {
-      "added_at": "2026-11-05 23:00:47",
-      "album": {
-        "name": "Rehab - Spotify Singles",
-        "url": "https://open.spotify.com/album/5ryoNuIzvgmHGm1mswYtq2"
-      },
-      "artists": [
-        {
-          "name": "badm\u00f3mzjay",
-          "url": "https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h"
-        }
-      ],
-      "duration_ms": 262198,
-      "name": "Rehab - Spotify Singles",
-      "url": "https://open.spotify.com/track/2zohPykSNrLEahqVi3gKfu"
     },
     {
       "added_at": "2026-11-05 23:00:47",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2026-11-05 23:00:47",
       "album": {
-        "name": "light up",
-        "url": "https://open.spotify.com/album/624OAhMdNm67bAzeEoQCsS"
-      },
-      "artists": [
-        {
-          "name": "Amistat",
-          "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
-        }
-      ],
-      "duration_ms": 215930,
-      "name": "light up",
-      "url": "https://open.spotify.com/track/5873aXgitStLQwgQBRVJAK"
-    },
-    {
-      "added_at": "2026-11-05 23:00:47",
-      "album": {
         "name": "Know the Night",
         "url": "https://open.spotify.com/album/1rKrDA2rrti4WOKjsF4XWm"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 120491,
       "name": "1000 Tage",
       "url": "https://open.spotify.com/track/5No65rZdw7efFpH5Ax6F6Z"
+    },
+    {
+      "added_at": "2026-11-05 23:00:47",
+      "album": {
+        "name": "light up",
+        "url": "https://open.spotify.com/album/624OAhMdNm67bAzeEoQCsS"
+      },
+      "artists": [
+        {
+          "name": "Amistat",
+          "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
+        }
+      ],
+      "duration_ms": 215930,
+      "name": "light up",
+      "url": "https://open.spotify.com/track/5873aXgitStLQwgQBRVJAK"
     },
     {
       "added_at": "2026-11-05 23:00:47",
@@ -1503,18 +1503,18 @@
     {
       "added_at": "2026-11-05 23:00:47",
       "album": {
-        "name": "Claw Marks",
-        "url": "https://open.spotify.com/album/554SArB7F5OY3NkquLJ06I"
+        "name": "mein n\u00e4chstes leben",
+        "url": "https://open.spotify.com/album/038Xy3LCSMYbCQcITgjSaa"
       },
       "artists": [
         {
-          "name": "panicbaby",
-          "url": "https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA"
+          "name": "cami",
+          "url": "https://open.spotify.com/artist/64bv5tnrfDXWI1McC1vitt"
         }
       ],
-      "duration_ms": 155528,
-      "name": "Claw Marks",
-      "url": "https://open.spotify.com/track/6QsXgv4TR4luZN0omMH5Di"
+      "duration_ms": 182874,
+      "name": "mein n\u00e4chstes leben",
+      "url": "https://open.spotify.com/track/6atEiNS1RXIIEfWYntlE7T"
     },
     {
       "added_at": "2026-11-05 23:00:47",
@@ -1535,34 +1535,18 @@
     {
       "added_at": "2026-11-05 23:00:47",
       "album": {
-        "name": "mein n\u00e4chstes leben",
-        "url": "https://open.spotify.com/album/038Xy3LCSMYbCQcITgjSaa"
+        "name": "Claw Marks",
+        "url": "https://open.spotify.com/album/554SArB7F5OY3NkquLJ06I"
       },
       "artists": [
         {
-          "name": "cami",
-          "url": "https://open.spotify.com/artist/64bv5tnrfDXWI1McC1vitt"
+          "name": "panicbaby",
+          "url": "https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA"
         }
       ],
-      "duration_ms": 182874,
-      "name": "mein n\u00e4chstes leben",
-      "url": "https://open.spotify.com/track/6atEiNS1RXIIEfWYntlE7T"
-    },
-    {
-      "added_at": "2026-11-05 23:00:47",
-      "album": {
-        "name": "LIFE IS WEIRD SOMETIMES",
-        "url": "https://open.spotify.com/album/46zget8f2833wlpXGK74vN"
-      },
-      "artists": [
-        {
-          "name": "zeck",
-          "url": "https://open.spotify.com/artist/2Brk4G18TPI8kgR3fG8agO"
-        }
-      ],
-      "duration_ms": 221013,
-      "name": "WAVES",
-      "url": "https://open.spotify.com/track/1Ew3ZHUTSRNf1W3LW8gkB9"
+      "duration_ms": 155528,
+      "name": "Claw Marks",
+      "url": "https://open.spotify.com/track/6QsXgv4TR4luZN0omMH5Di"
     },
     {
       "added_at": "2026-11-05 23:00:47",
@@ -1599,6 +1583,22 @@
     {
       "added_at": "2026-11-05 23:00:47",
       "album": {
+        "name": "LIFE IS WEIRD SOMETIMES",
+        "url": "https://open.spotify.com/album/46zget8f2833wlpXGK74vN"
+      },
+      "artists": [
+        {
+          "name": "zeck",
+          "url": "https://open.spotify.com/artist/2Brk4G18TPI8kgR3fG8agO"
+        }
+      ],
+      "duration_ms": 221013,
+      "name": "WAVES",
+      "url": "https://open.spotify.com/track/1Ew3ZHUTSRNf1W3LW8gkB9"
+    },
+    {
+      "added_at": "2026-11-05 23:00:47",
+      "album": {
         "name": "WORRY.",
         "url": "https://open.spotify.com/album/687CLrjAQcz01r18Eo9bXn"
       },
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2026-11-05 23:00:47",
       "album": {
-        "name": "everything in between",
-        "url": "https://open.spotify.com/album/5TBc9Vjb515B9nTLCuMuJO"
-      },
-      "artists": [
-        {
-          "name": "Amistat",
-          "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
-        }
-      ],
-      "duration_ms": 213450,
-      "name": "seven days a week",
-      "url": "https://open.spotify.com/track/4UzCI5OvAhczflItEGqfyU"
-    },
-    {
-      "added_at": "2026-11-05 23:00:47",
-      "album": {
         "name": "Damn the Wild Air, Pt. 01",
         "url": "https://open.spotify.com/album/2vi9ZLXr7t48sW4c07GMwk"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 207133,
       "name": "Only Love",
       "url": "https://open.spotify.com/track/7GSDVuT5iV0tSEvsnTmRtT"
+    },
+    {
+      "added_at": "2026-11-05 23:00:47",
+      "album": {
+        "name": "everything in between",
+        "url": "https://open.spotify.com/album/5TBc9Vjb515B9nTLCuMuJO"
+      },
+      "artists": [
+        {
+          "name": "Amistat",
+          "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
+        }
+      ],
+      "duration_ms": 213450,
+      "name": "seven days a week",
+      "url": "https://open.spotify.com/track/4UzCI5OvAhczflItEGqfyU"
     },
     {
       "added_at": "2026-11-05 23:00:47",
@@ -1683,18 +1683,18 @@
     {
       "added_at": "2026-11-05 23:00:47",
       "album": {
-        "name": "Bigger Picture",
-        "url": "https://open.spotify.com/album/7q4bQccI2jQ32LwE2ydM57"
+        "name": "Make me think of you",
+        "url": "https://open.spotify.com/album/1LCyjbwY18GGpobrSlv8ZJ"
       },
       "artists": [
         {
-          "name": "Sarah Julia",
-          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
+          "name": "ELIS NOA",
+          "url": "https://open.spotify.com/artist/6jLDzjrANnkIEhgdEL8gZf"
         }
       ],
-      "duration_ms": 185753,
-      "name": "Bigger Picture",
-      "url": "https://open.spotify.com/track/0iFdtqVlV5piDnq0KUloCB"
+      "duration_ms": 199006,
+      "name": "Make me think of you",
+      "url": "https://open.spotify.com/track/2VAjQDNPTToTFUVrjFy7Mw"
     }
   ],
   "unique_name": "Herbst Chillout",

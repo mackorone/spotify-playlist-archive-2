@@ -2,7 +2,7 @@
 
 ### [Hit Radio](https://open.spotify.com/playlist/37i9dQZF1DXbS5WTN5nKF7)
 
-> Le meilleur des hits avec Mosimann.
+> Le meilleur des hits avec Adèle Castillon.
 
 558 songs - 1 day 4 hr 56 min
 

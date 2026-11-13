@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: Young Multi",
+  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: SVM!R, OKI",
   "name": "RAP GENERACJA",
   "tracks": [
     {
@@ -264,7 +264,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 174953,
       "name": "100k",
       "url": "https://open.spotify.com/track/3eJ9V340QHSJY7PJ1LtdtW"
@@ -2095,6 +2095,36 @@
     },
     {
       "album": {
+        "name": "Architekci Stylu",
+        "url": "https://open.spotify.com/album/6Wc1CTvVnVdBHbTh2TPKLT"
+      },
+      "artists": [
+        {
+          "name": "Bonus RPK",
+          "url": "https://open.spotify.com/artist/070tdNOiP3pIsGlqNfVkG3"
+        },
+        {
+          "name": "TEDE",
+          "url": "https://open.spotify.com/artist/38iqZSGa2pvToKrMISU8g1"
+        },
+        {
+          "name": "VBS",
+          "url": "https://open.spotify.com/artist/6dLmkDJ0rahtzUgcpUyxGQ"
+        },
+        {
+          "name": "DJ HWR",
+          "url": "https://open.spotify.com/artist/6255yim4X30IpIWY3UBgKW"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154934,
+      "name": "Architekci Stylu",
+      "url": "https://open.spotify.com/track/3YsTzVZ6cw5eX454rj18Oz"
+    },
+    {
+      "album": {
         "name": "ALESHEN",
         "url": "https://open.spotify.com/album/08PYODf99mkvjX4biusjns"
       },
@@ -3458,7 +3488,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 165217,
       "name": "BOOSTER",
       "url": "https://open.spotify.com/track/4rL2I2sKeTezweOPSf1yc3"
@@ -4386,7 +4416,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 144000,
       "name": "Ca\u0142a noc",
       "url": "https://open.spotify.com/track/471biicMnufF5anbuKtGR9"
@@ -5248,6 +5278,40 @@
       "duration_ms": 207887,
       "name": "CO Z NAMI B\u0118DZIE?",
       "url": "https://open.spotify.com/track/51ZuDrNM6JVu7XXTq3YGE1"
+    },
+    {
+      "album": {
+        "name": "COLDBOY SUMMER",
+        "url": "https://open.spotify.com/album/2tz0BqJHbCjQCljBGIqAYG"
+      },
+      "artists": [
+        {
+          "name": "TUZZA Globale",
+          "url": "https://open.spotify.com/artist/5mufBhOA5JhyLcRr3bPYpA"
+        },
+        {
+          "name": "BENITO",
+          "url": "https://open.spotify.com/artist/6aWXxZlSCw9FVzVgIMT9i8"
+        },
+        {
+          "name": "Ricci Tuzza",
+          "url": "https://open.spotify.com/artist/6N1ErmztHVJLWxXuTSGU9A"
+        },
+        {
+          "name": "Kaz Ba\u0142agane",
+          "url": "https://open.spotify.com/artist/2GzZAv52VCMdVli7QzkteT"
+        },
+        {
+          "name": "@atutowy",
+          "url": "https://open.spotify.com/artist/53UpeT3katrOaJmhSiRp2a"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157875,
+      "name": "COLDBOY SUMMER",
+      "url": "https://open.spotify.com/track/3qc3WLui9qGPwRA0QB7Hq4"
     },
     {
       "album": {
@@ -6724,6 +6788,24 @@
       "duration_ms": 153600,
       "name": "DOLCE VITA",
       "url": "https://open.spotify.com/track/6TDvQQit8Q6EJhHvtx62cp"
+    },
+    {
+      "album": {
+        "name": "Blueprint",
+        "url": "https://open.spotify.com/album/3yicFMcjxT9VPawzGoDKhG"
+      },
+      "artists": [
+        {
+          "name": "wane",
+          "url": "https://open.spotify.com/artist/3KL9m4NwBRDjBEcybcgfyh"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146018,
+      "name": "Dom",
+      "url": "https://open.spotify.com/track/3Lxr86TMVB6os3baoF8cmL"
     },
     {
       "album": {
@@ -8687,6 +8769,28 @@
     },
     {
       "album": {
+        "name": "GATSBY",
+        "url": "https://open.spotify.com/album/0eWB225L9LczrWgDL9dgdJ"
+      },
+      "artists": [
+        {
+          "name": "SVM!R",
+          "url": "https://open.spotify.com/artist/4K8wRpyAE3Cwq4q5Jpgpdh"
+        },
+        {
+          "name": "OKI",
+          "url": "https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141333,
+      "name": "GATSBY",
+      "url": "https://open.spotify.com/track/65tPzQrFJ5evMlv274MXKU"
+    },
+    {
+      "album": {
         "name": "GATUNKI",
         "url": "https://open.spotify.com/album/4mLp5ZEGsUVrbI2MUC1PAQ"
       },
@@ -10202,7 +10306,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 102580,
       "name": "HRABIA",
       "url": "https://open.spotify.com/track/2vCr53OQO52hO9yO6Lxomv"
@@ -11346,7 +11450,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 195428,
       "name": "jeszcze raz?",
       "url": "https://open.spotify.com/track/5X1f1HSzJlUjQ7HUMw8PDD"
@@ -11810,7 +11914,7 @@
       ],
       "date_added": "2026-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 222761,
       "name": "KA\u017bDY CHCE MNIE WI\u0118CEJ",
       "url": "https://open.spotify.com/track/6eS1XCGyY5I1mAfq8AgmTe"
@@ -14581,6 +14685,32 @@
     },
     {
       "album": {
+        "name": "MEGAN FOX",
+        "url": "https://open.spotify.com/album/47wWVRNlRGc1VqbOvie7We"
+      },
+      "artists": [
+        {
+          "name": "Young Igi",
+          "url": "https://open.spotify.com/artist/1yq2JzsqbzFbJ1B7wGOXLc"
+        },
+        {
+          "name": "Mercury",
+          "url": "https://open.spotify.com/artist/65KzmKTmARM8EBVoxki2gn"
+        },
+        {
+          "name": "Worek",
+          "url": "https://open.spotify.com/artist/00o5eWNk5MqreQLbngsikb"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141560,
+      "name": "MEGAN FOX",
+      "url": "https://open.spotify.com/track/2Ip97var8w0vjX18hJ2wnS"
+    },
+    {
+      "album": {
         "name": "Memento",
         "url": "https://open.spotify.com/album/5i1YotcMYS49V5N8QzwXR6"
       },
@@ -15429,6 +15559,32 @@
     },
     {
       "album": {
+        "name": "Morocco",
+        "url": "https://open.spotify.com/album/5RKfMnsQJYRSGMGNHl6Uj6"
+      },
+      "artists": [
+        {
+          "name": "JONNI HERMAN",
+          "url": "https://open.spotify.com/artist/2Kzxgli57GcRx0v6NJfsiL"
+        },
+        {
+          "name": "Kronkel Dom",
+          "url": "https://open.spotify.com/artist/1dkyORGHN0TOmjzu5qCO45"
+        },
+        {
+          "name": "Polski",
+          "url": "https://open.spotify.com/artist/6uz8zc2txDqWvPfzm5SXNW"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145945,
+      "name": "Morocco",
+      "url": "https://open.spotify.com/track/3Udm2Datfq4MrblAqjQseZ"
+    },
+    {
+      "album": {
         "name": "Most Wanted",
         "url": "https://open.spotify.com/album/4adx6MTS0K043oX06eSl8X"
       },
@@ -15730,7 +15886,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 194693,
       "name": "MY\u015aL\u0118 WI\u0118C JESTEM",
       "url": "https://open.spotify.com/track/5ZgSRbOtbZgW2pq5j1qMyU"
@@ -15748,7 +15904,7 @@
       ],
       "date_added": "2026-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 135445,
       "name": "M\u0142ody Bia\u0142as (Freestyle)",
       "url": "https://open.spotify.com/track/2DmuhxmWro5d2P5XvSFRGH"
@@ -17346,6 +17502,28 @@
       "duration_ms": 147692,
       "name": "NIE WSZYSTKO ZABOLI RAZ",
       "url": "https://open.spotify.com/track/2XxPUXfmaJ5pQFP32jGcJA"
+    },
+    {
+      "album": {
+        "name": "Nie zrozumiesz",
+        "url": "https://open.spotify.com/album/4nLGCHpWIFrH0ZF365Cmkx"
+      },
+      "artists": [
+        {
+          "name": "Malik Montana",
+          "url": "https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E"
+        },
+        {
+          "name": "FT Kings",
+          "url": "https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148571,
+      "name": "Nie zrozumiesz",
+      "url": "https://open.spotify.com/track/0CtOT3PpJjAkBJ6JoonOZm"
     },
     {
       "album": {
@@ -19754,6 +19932,28 @@
       "duration_ms": 168000,
       "name": "PERRI",
       "url": "https://open.spotify.com/track/6UYBdTUG04IjUZyF6TnuOA"
+    },
+    {
+      "album": {
+        "name": "Pesele",
+        "url": "https://open.spotify.com/album/0VVrLwOJ9Lgaeiu7qGnUvK"
+      },
+      "artists": [
+        {
+          "name": "Liber",
+          "url": "https://open.spotify.com/artist/2CiMCmeBorjSa1ppz6wY6s"
+        },
+        {
+          "name": "Young Leosia",
+          "url": "https://open.spotify.com/artist/0iBTVnJ1Sff92zCDujfvyJ"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Pesele",
+      "url": "https://open.spotify.com/track/74qcYXvhFLfkKpQGZ0H3BW"
     },
     {
       "album": {
@@ -25903,6 +26103,28 @@
     },
     {
       "album": {
+        "name": "Uniwersytet $wagu",
+        "url": "https://open.spotify.com/album/5OyYqDCGKVqyQEqR0w88MT"
+      },
+      "artists": [
+        {
+          "name": "OG KAMKA",
+          "url": "https://open.spotify.com/artist/4PWPZvjcjwtAh07gTsNPTb"
+        },
+        {
+          "name": "TEDE",
+          "url": "https://open.spotify.com/artist/38iqZSGa2pvToKrMISU8g1"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148411,
+      "name": "Uniwersytet $wagu",
+      "url": "https://open.spotify.com/track/6sL6yXd6wshlNRS9slOfve"
+    },
+    {
+      "album": {
         "name": "intro + up! up! up!",
         "url": "https://open.spotify.com/album/0lonx6kXB21iLRpdkgv78L"
       },
@@ -28218,7 +28440,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 150000,
       "name": "Zapach",
       "url": "https://open.spotify.com/track/01HZ3Xmp4a2T41yu7HYnz4"

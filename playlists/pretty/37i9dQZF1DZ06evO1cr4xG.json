@@ -1,12 +1,12 @@
 {
   "description": "This is Trivium. The essential tracks, all in one playlist.",
-  "num_followers": 89885,
+  "num_followers": 89898,
   "original_name": "This Is Trivium",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avENAAAAAADIOEKJmWWWZm2hYC/OjnYC",
+  "snapshot_id": "avOwAAAAAADoL583/SpdwO0lgHQZxveo",
   "tracks": [
     {
       "added_at": null,
@@ -491,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vengeance Falls (Special Edition)",
-        "url": "https://open.spotify.com/album/1hamGtmqitOROTKc0yNhow"
+        "name": "The Crusade",
+        "url": "https://open.spotify.com/album/42MixogSAsobX5po649Y0j"
       },
       "artists": [
         {
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
         }
       ],
-      "duration_ms": 266173,
-      "name": "Through Blood and Dirt and Bone",
-      "url": "https://open.spotify.com/track/5wsGmJgkTbddIDOoRU6xOT"
+      "duration_ms": 275240,
+      "name": "Entrance of the Conflagration",
+      "url": "https://open.spotify.com/track/2icKtrNwH2ugXzPu9DSwVD"
     },
     {
       "added_at": null,
@@ -555,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Crusade",
-        "url": "https://open.spotify.com/album/42MixogSAsobX5po649Y0j"
+        "name": "Vengeance Falls (Special Edition)",
+        "url": "https://open.spotify.com/album/1hamGtmqitOROTKc0yNhow"
       },
       "artists": [
         {
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
         }
       ],
-      "duration_ms": 275240,
-      "name": "Entrance of the Conflagration",
-      "url": "https://open.spotify.com/track/2icKtrNwH2ugXzPu9DSwVD"
+      "duration_ms": 266173,
+      "name": "Through Blood and Dirt and Bone",
+      "url": "https://open.spotify.com/track/5wsGmJgkTbddIDOoRU6xOT"
     },
     {
       "added_at": null,
@@ -747,8 +747,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Struck Dead",
-        "url": "https://open.spotify.com/album/6nJMEK1URMQE8vgFmsYRXJ"
+        "name": "Ember to Inferno",
+        "url": "https://open.spotify.com/album/2UibUYNkuWJkhwosbeYStK"
       },
       "artists": [
         {
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
         }
       ],
-      "duration_ms": 438552,
-      "name": "Six Walls",
-      "url": "https://open.spotify.com/track/5fsPDbW7ZRVpJ8w3x5EOIl"
+      "duration_ms": 251160,
+      "name": "Ember to Inferno",
+      "url": "https://open.spotify.com/track/4sMUta0WkVGXC7QEJ3dLPD"
     },
     {
       "added_at": null,
@@ -795,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ember to Inferno",
-        "url": "https://open.spotify.com/album/2UibUYNkuWJkhwosbeYStK"
+        "name": "Struck Dead",
+        "url": "https://open.spotify.com/album/6nJMEK1URMQE8vgFmsYRXJ"
       },
       "artists": [
         {
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
         }
       ],
-      "duration_ms": 251160,
-      "name": "Ember to Inferno",
-      "url": "https://open.spotify.com/track/4sMUta0WkVGXC7QEJ3dLPD"
+      "duration_ms": 438552,
+      "name": "Six Walls",
+      "url": "https://open.spotify.com/track/5fsPDbW7ZRVpJ8w3x5EOIl"
     }
   ],
   "unique_name": "This Is Trivium",

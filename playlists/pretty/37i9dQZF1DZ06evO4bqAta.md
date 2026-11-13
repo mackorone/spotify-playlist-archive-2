@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bqAta.md) - [plain]
 
 > This is Bob Dylan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 595,105 likes - 50 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 595,133 likes - 50 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,9 +25,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bqAta.md) - [plain]
 | 15 | [Subterranean Homesick Blues](https://open.spotify.com/track/6k9DUKMJpWvu6eFG3O64Lg) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Bringing It All Back Home](https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v) | 2:19 |
 | 16 | [Shelter from the Storm](https://open.spotify.com/track/3y4Uza6K58JXQ7RYya8ZI5) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Blood On The Tracks](https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF) | 5:00 |
 | 17 | [Positively 4th Street](https://open.spotify.com/track/6q9rNSvE59IVT3ZlEorvYb) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Bob Dylan's Greatest Hits](https://open.spotify.com/album/3V3d0884r25OnvSpM8hD0T) | 3:53 |
-| 18 | [It's All Over Now, Baby Blue](https://open.spotify.com/track/4EgKcG7aswxVfQEqa3dl8S) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Bringing It All Back Home](https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v) | 4:13 |
-| 19 | [Simple Twist of Fate](https://open.spotify.com/track/3wAX3qn53iQUFE84hpfeen) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Blood On The Tracks](https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF) | 4:17 |
-| 20 | [One More Cup of Coffee](https://open.spotify.com/track/4WOruM7TiQSETsWYy8bDSX) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Desire](https://open.spotify.com/album/1T8usYsiGEMPMQOLFgJEbE) | 3:46 |
+| 18 | [One More Cup of Coffee](https://open.spotify.com/track/4WOruM7TiQSETsWYy8bDSX) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Desire](https://open.spotify.com/album/1T8usYsiGEMPMQOLFgJEbE) | 3:46 |
+| 19 | [It's All Over Now, Baby Blue](https://open.spotify.com/track/4EgKcG7aswxVfQEqa3dl8S) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Bringing It All Back Home](https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v) | 4:13 |
+| 20 | [Simple Twist of Fate](https://open.spotify.com/track/3wAX3qn53iQUFE84hpfeen) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Blood On The Tracks](https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF) | 4:17 |
 | 21 | [A Hard Rain's A\-Gonna Fall](https://open.spotify.com/track/7ny2ATvjtKszCpLpfsGnVQ) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Freewheelin' Bob Dylan](https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek) | 6:52 |
 | 22 | [My Back Pages \- Live at Madison Square Garden, New York, NY \- October 1992](https://open.spotify.com/track/0bIGNGUqgpB82sAksxonkZ) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX), [Roger McGuinn](https://open.spotify.com/artist/3ExrAwcOqgGjt9kFRwdM76), [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn), [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Bob Dylan \- 30th Anniversary Concert Celebration \[\(Deluxe Edition\) \[Remastered\]\]](https://open.spotify.com/album/5OlEEw6gIk32eMhOqRlfGu) | 4:39 |
 | 23 | [Forever Young \- Slow Version](https://open.spotify.com/track/4yWl0tnEanf3zmZzl9kbQn) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Planet Waves](https://open.spotify.com/album/3gYbjd76d8T5Ct5WxCxX5R) | 4:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bqAta.md) - [plain]
 | 49 | [I Pity the Poor Immigrant \- Live at Tarrant County Convention Center Arena, Fort Worth, TX \- May 16, 1976](https://open.spotify.com/track/44TTJsUQZZpeHtJmTX51OP) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [I Pity the Poor Immigrant \(Live at Tarrant County Convention Center Arena, Fort Worth, TX \- May 16, 1976\)](https://open.spotify.com/album/27FS50AX2xBSksq5NAZxid) | 4:41 |
 | 50 | [Stuck Inside of Mobile with the Memphis Blues Again](https://open.spotify.com/track/1NYTj6JEw3IOh4ggiBh82h) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Blonde On Blonde](https://open.spotify.com/album/4NP1rhnsPdYpnyJP0p0k0L) | 7:06 |
 
-Snapshot ID: `avENAAAAAAAGYy5ZH0zpJKv9nbl03pE4`
+Snapshot ID: `avOwAAAAAAB2z8832aBU3CR6DbZw9qsZ`

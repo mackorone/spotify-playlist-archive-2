@@ -4,7 +4,7 @@
 
 > This is El de La Guitarra\. The essential tracks, all in one playlist.
 
-129 songs - 6 hr 20 min
+130 songs - 6 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Cuando Se Le Ofrezca](https://open.spotify.com/track/7BynlyGJKOxSq7t99jatxz) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Va Por Todos](https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA) | 2:16 | 2022-06-01 |  |
 | [Cuartitos De Libra](https://open.spotify.com/track/0rewTyKwnWKLcHKbt1XM42) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Con Los Pies En La Tierra Y La Mirada En El Cielo](https://open.spotify.com/album/2DE5r32KUueRrOKkeGXQ1T) | 3:04 | 2022-06-01 |  |
 | [De Aquí Para Allá](https://open.spotify.com/track/5e71bYvDvHQNHCWwqslKfV) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk), [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD) | [De Aquí Para Allá](https://open.spotify.com/album/6GXtWhkWY6KQ7xBn3Ici8Q) | 3:36 | 2022-08-27 | 2025-03-19 |
-| [De La Escuelita Graduado](https://open.spotify.com/track/7t78b9kNHPzECSZ0wyzTc3) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [De La Escuelita Graduado](https://open.spotify.com/album/5WCODFEvrpKj4Aifd1Fxnp) | 2:43 | 2025-11-10 |  |
+| [De La Escuelita Graduado](https://open.spotify.com/track/7t78b9kNHPzECSZ0wyzTc3) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [De La Escuelita Graduado](https://open.spotify.com/album/5WCODFEvrpKj4Aifd1Fxnp) | 2:43 | 2025-11-10 | 2026-11-13 |
 | [Derecha La Flecha](https://open.spotify.com/track/6Qei0rSgoDr6jjsvbZ0sCp) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Derecha La Flecha](https://open.spotify.com/album/1xiSb0JPOxGd1JnOejlAVY) | 2:58 | 2026-04-20 |  |
 | [Diamantes De Esfera](https://open.spotify.com/track/2G7lzDzR0Bz3x7LoD3r27I) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda \(Vol.4\)](https://open.spotify.com/album/3xOwDpuBJiCY7nxJEDQR71) | 2:00 | 2023-10-05 | 2025-11-18 |
 | [Dime x Que](https://open.spotify.com/track/67SiSGW15EcJe8muSJUNzU) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Dime x Que](https://open.spotify.com/album/6ucVQoyr47QMbtc963azmg) | 2:53 | 2025-07-06 | 2026-05-05 |
@@ -55,6 +55,7 @@
 | [El Monstro 7](https://open.spotify.com/track/21jEIOf3pXF1EOb9n0vZJf) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda Vol.2](https://open.spotify.com/album/4lPJVD5JmytPu0jnJAU7PS) | 3:22 | 2022-06-01 |  |
 | [El Oso](https://open.spotify.com/track/3XkmnmWXsNw790uaFBexqb) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [El Oso](https://open.spotify.com/album/3uh2JvWLCJ9qEbrYdhyNhf) | 4:47 | 2022-06-01 | 2023-02-21 |
 | [El Roque](https://open.spotify.com/track/6WxSL4jaPaxEa1mm7p2uMd) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Instinto](https://open.spotify.com/album/7KlLuBZiwOzCTL7Q3J26cq) | 2:44 | 2022-07-25 | 2022-07-31 |
+| [El Truco](https://open.spotify.com/track/0sdGoBbHuazwbbuQvPL1LE) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk), [Job Gallegos](https://open.spotify.com/artist/76lYBIbMnUBukvLlYZFGrH) | [El Truco](https://open.spotify.com/album/4TDvH6MxGDkr0LzLxrpEFu) | 2:53 | 2026-11-13 |  |
 | [En La Bola \(feat\. El De La Guitarra\)](https://open.spotify.com/track/1MKSWLFVyxgdLKE8YUby50) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Pura Lumbre](https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz) | 2:50 | 2022-06-01 |  |
 | [Estilo Militar](https://open.spotify.com/track/5YzIk26HIxTcchwGwWQ5p9) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk), [Los De La Villa](https://open.spotify.com/artist/4k0T7XGZDSFv5fnAnZUNHl) | [Estilo Militar](https://open.spotify.com/album/5e51uEalSKB8Rb6PChOkCQ) | 2:55 | 2023-04-04 | 2024-01-30 |
 | [Fin De Semana](https://open.spotify.com/track/4N5Qpos9bnbTFOXHBHANJQ) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Fin De Semana](https://open.spotify.com/album/1GBuuYtkHBUXxY2j1XrLff) | 3:00 | 2026-05-05 |  |

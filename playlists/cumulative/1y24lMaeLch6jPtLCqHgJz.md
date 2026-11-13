@@ -4,7 +4,7 @@
 
 > best festival music \- summer festival \- best festivals \- festival summer \- mainstage music \- tomorrowland festival \- awakenings festival \- zomer festivals \- festival vibes
 
-515 songs - 1 day 1 hr 43 min
+516 songs - 1 day 1 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -358,6 +358,7 @@
 | [Push Up \- Main Edit](https://open.spotify.com/track/3AjSfp5FDvwtMU9XBsbS8j) | [Creeds](https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5) | [Push Up \(Main Edit\)](https://open.spotify.com/album/3v5BP6gPT1nNU9rjs57fF0) | 2:19 | 2023-11-21 |  |
 | [Ratata](https://open.spotify.com/track/3uN27f0O5xfPmEtw1JoroP) | [La Fuente](https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD) | [Ratata](https://open.spotify.com/album/1PGUc5o85RbeXfvvgfhYIU) | 2:28 | 2024-03-28 |  |
 | [Rave Mozart](https://open.spotify.com/track/2LthmFrSphvy9i4ZbCOvrw) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy) | [Rave Mozart](https://open.spotify.com/album/2uOKEJY6YVITAumYlV35n8) | 2:06 | 2024-05-06 | 2024-06-22 |
+| [Rave With Me](https://open.spotify.com/track/2fMqKYZMnM3as6ZSylALmK) | [Kevin Krissen](https://open.spotify.com/artist/136IMKXG5a8xUSYuTkCBMI), [Castor & Pollux](https://open.spotify.com/artist/6fHUILCpBvfSHB48AEciPG) | [Rave With Me](https://open.spotify.com/album/2K4ixSjvdfESDQragSPYV7) | 3:00 | 2026-11-12 |  |
 | [RE4SON](https://open.spotify.com/track/6553wCdVuWciRZbLd0T1r5) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [4444 OF A KIND](https://open.spotify.com/artist/69aOmjpvxqUDUaZUvuw6Di), [Sub Zero Project](https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl), [D\-Block & S\-te\-Fan](https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z) | [RE4SON](https://open.spotify.com/album/6gXoFS4tXwFCRPWHfvqCKL) | 3:37 | 2026-11-05 |  |
 | [Ready To Go](https://open.spotify.com/track/5kGsYldOHe9x5XNSDJbEL6) | [Sacha Harland](https://open.spotify.com/artist/4GktaoQrTnZR0JREmWusDO) | [Ready To Go](https://open.spotify.com/album/3cKlxftKAArUBEa6iPnhIh) | 2:35 | 2026-10-29 |  |
 | [Reality](https://open.spotify.com/track/5FDLBL5PJKSXdMsMIU7FRw) | [HUTS](https://open.spotify.com/artist/6d4AePmkVnbu2qIbT6vsem) | [Reality](https://open.spotify.com/album/4VVZ1mVS2f9erPqAQhVoXh) | 2:19 | 2024-11-08 | 2025-03-13 |

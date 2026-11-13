@@ -5867,6 +5867,24 @@
     },
     {
       "album": {
+        "name": "Riverglass",
+        "url": "https://open.spotify.com/album/2ttKwQQK1oefd32hvNxEHC"
+      },
+      "artists": [
+        {
+          "name": "Theo Solin",
+          "url": "https://open.spotify.com/artist/1OX2OAs4EbPsLUxA3Jchly"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151279,
+      "name": "Riverglass",
+      "url": "https://open.spotify.com/track/0pBXSyD6fjozoJaWUdHTNk"
+    },
+    {
+      "album": {
         "name": "Romantic Theme X",
         "url": "https://open.spotify.com/album/5fcLeerhYIat8LZYcyXxU1"
       },

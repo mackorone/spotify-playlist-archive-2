@@ -1,12 +1,12 @@
 {
   "description": "This is Kehlani. The essential tracks, all in one playlist.",
-  "num_followers": 339672,
+  "num_followers": 339705,
   "original_name": "This Is Kehlani",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avENAAAAAABYkCbmrNDSvrMcY2XaYseu",
+  "snapshot_id": "avOwAAAAAABT617MXy0gyTAdhf78aOrL",
   "tracks": [
     {
       "added_at": null,
@@ -439,26 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "It Was Good Until It Wasn't",
-        "url": "https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        },
-        {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
-        }
-      ],
-      "duration_ms": 278715,
-      "name": "Hate the Club (feat. Masego)",
-      "url": "https://open.spotify.com/track/0QUbiLQySWPq5Lh3f7A9bN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MUTT Deluxe: HEEL",
         "url": "https://open.spotify.com/album/5m3rVDTPrTRwSgkKsvSYEL"
       },
@@ -475,6 +455,26 @@
       "duration_ms": 219607,
       "name": "DIRT ON MY SHOES (feat. Kehlani)",
       "url": "https://open.spotify.com/track/2AA05NFvw5tPQ9pvj68fsY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "It Was Good Until It Wasn't",
+        "url": "https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        },
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        }
+      ],
+      "duration_ms": 278715,
+      "name": "Hate the Club (feat. Masego)",
+      "url": "https://open.spotify.com/track/0QUbiLQySWPq5Lh3f7A9bN"
     },
     {
       "added_at": null,
@@ -571,18 +571,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Know Wassup",
-        "url": "https://open.spotify.com/album/5PdJ9s1UhLttMDmAMyMdtt"
+        "name": "SLIDER II",
+        "url": "https://open.spotify.com/album/3jwPo6mAL7jtRXRWHLkSD0"
       },
       "artists": [
+        {
+          "name": "Karri",
+          "url": "https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME"
+        },
         {
           "name": "Kehlani",
           "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
         }
       ],
-      "duration_ms": 201142,
-      "name": "You Know Wassup",
-      "url": "https://open.spotify.com/track/6HUO25AttZZCoKAY0vUVtc"
+      "duration_ms": 142768,
+      "name": "go",
+      "url": "https://open.spotify.com/track/7aV29KhhOFLawanslvY7Mg"
     },
     {
       "added_at": null,
@@ -607,22 +611,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "SLIDER II",
-        "url": "https://open.spotify.com/album/3jwPo6mAL7jtRXRWHLkSD0"
+        "name": "You Know Wassup",
+        "url": "https://open.spotify.com/album/5PdJ9s1UhLttMDmAMyMdtt"
       },
       "artists": [
-        {
-          "name": "Karri",
-          "url": "https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME"
-        },
         {
           "name": "Kehlani",
           "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
         }
       ],
-      "duration_ms": 142768,
-      "name": "go",
-      "url": "https://open.spotify.com/track/7aV29KhhOFLawanslvY7Mg"
+      "duration_ms": 201142,
+      "name": "You Know Wassup",
+      "url": "https://open.spotify.com/track/6HUO25AttZZCoKAY0vUVtc"
     },
     {
       "added_at": null,

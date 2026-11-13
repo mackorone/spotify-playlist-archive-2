@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-03-14",
-  "description": "explore the alt-sounds of Copenhagen and beyond \ud83c\udf00 Cover: Coco O.",
+  "description": "explore the alt-sounds of Copenhagen and beyond \ud83c\udf00 Cover: Yangze",
   "name": "Cph+",
   "tracks": [
     {
@@ -1786,7 +1786,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 214729,
       "name": "E45",
       "url": "https://open.spotify.com/track/0w6G3E9M8EVoZMAyg76U2L"
@@ -2402,7 +2402,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 137939,
       "name": "G-LIP",
       "url": "https://open.spotify.com/track/6F8GWMveksAfUHPjisf7MD"
@@ -3629,6 +3629,24 @@
     },
     {
       "album": {
+        "name": "Heartbreak Stew",
+        "url": "https://open.spotify.com/album/71JbANfvjiWqdhCb83IrMA"
+      },
+      "artists": [
+        {
+          "name": "Yangze",
+          "url": "https://open.spotify.com/artist/41ZgBrHYJcdi3LEiZX1RMt"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195828,
+      "name": "Let It Go",
+      "url": "https://open.spotify.com/track/4aHZTxqb7HZuCNJJXdnVBb"
+    },
+    {
+      "album": {
         "name": "Mind Palace Music",
         "url": "https://open.spotify.com/album/7h3MMJMKzY03w8VVYgrYWr"
       },
@@ -3772,6 +3790,24 @@
       "duration_ms": 341333,
       "name": "Little Hooks",
       "url": "https://open.spotify.com/track/1JwIHAXrpiaeBnQYb5XCsR"
+    },
+    {
+      "album": {
+        "name": "Little Things",
+        "url": "https://open.spotify.com/album/1brz3yWqkMbo3xx9FlyewX"
+      },
+      "artists": [
+        {
+          "name": "sadie",
+          "url": "https://open.spotify.com/artist/6b5UgDdpmrafQHLmFg2DBc"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157857,
+      "name": "Little Things",
+      "url": "https://open.spotify.com/track/5rCdoOUzXhApxg05G4NAqe"
     },
     {
       "album": {
@@ -5581,6 +5617,24 @@
     },
     {
       "album": {
+        "name": "Push",
+        "url": "https://open.spotify.com/album/67ENQbKzxMjSFlvZhLFb1P"
+      },
+      "artists": [
+        {
+          "name": "Eterna",
+          "url": "https://open.spotify.com/artist/7ekeXKGdf5os6oYTZgKTQP"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207958,
+      "name": "Spire",
+      "url": "https://open.spotify.com/track/1ByAsiTxnJCxuYB1vHFRed"
+    },
+    {
+      "album": {
         "name": "Luster",
         "url": "https://open.spotify.com/album/6vRCwr31pNFnURP8mj53KP"
       },
@@ -6250,7 +6304,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 174105,
       "name": "together",
       "url": "https://open.spotify.com/track/2yr8vl7DazLslCkbHMp4E3"

@@ -1,12 +1,12 @@
 {
   "description": "This is Ventino. The essential tracks, all in one playlist.",
-  "num_followers": 28970,
+  "num_followers": 28972,
   "original_name": "This Is Ventino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avENAAAAAACUlyUMNqiY2mMHKUaziuQm",
+  "snapshot_id": "avOwAAAAAABBrgdxdnuclO1wE8XCz0mC",
   "tracks": [
     {
       "added_at": null,
@@ -355,6 +355,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ventino",
+        "url": "https://open.spotify.com/album/4pAoxsmYFDVqf8jWBihOKz"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "duration_ms": 188888,
+      "name": "Si Decides (Baby)",
+      "url": "https://open.spotify.com/track/12xjRcDTBU9RgLMZePtLop"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Otra Noche",
         "url": "https://open.spotify.com/album/3c9rfTuSviV1bZBnXURf27"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 195488,
       "name": "Soltar Tu Mano (feat. Rom\u00e1n Torres)",
       "url": "https://open.spotify.com/track/0PFPvBVuzKoQTVu9jkePzj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ventino",
-        "url": "https://open.spotify.com/album/4pAoxsmYFDVqf8jWBihOKz"
-      },
-      "artists": [
-        {
-          "name": "Ventino",
-          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
-        }
-      ],
-      "duration_ms": 188888,
-      "name": "Si Decides (Baby)",
-      "url": "https://open.spotify.com/track/12xjRcDTBU9RgLMZePtLop"
     },
     {
       "added_at": null,
@@ -439,6 +439,42 @@
       "duration_ms": 231040,
       "name": "La Vida Sin Ti",
       "url": "https://open.spotify.com/track/382e4hfqVal6gfgYyLUHsp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Inevitables",
+        "url": "https://open.spotify.com/album/1V5qSya58ba5f421vdBJHd"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "duration_ms": 156027,
+      "name": "La Mitad",
+      "url": "https://open.spotify.com/track/41zgsKUwPbTWOSrgn1DSpc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ventino: El Precio De La Gloria (Banda Sonora Original De La Serie De Televisi\u00f3n)",
+        "url": "https://open.spotify.com/album/1yZC3hn1Adr59UlR6g0NBx"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        },
+        {
+          "name": "Caracol Televisi\u00f3n",
+          "url": "https://open.spotify.com/artist/6Rk6tAhO16QKZZtYFrHMbm"
+        }
+      ],
+      "duration_ms": 150650,
+      "name": "Bueno Para Mi - Banda Sonora Original De La Serie De Televisi\u00f3n",
+      "url": "https://open.spotify.com/track/3GvCjdrQeL1bYb32FelX1F"
     },
     {
       "added_at": null,
@@ -531,42 +567,6 @@
       "duration_ms": 230662,
       "name": "Mi Pueblo Natal",
       "url": "https://open.spotify.com/track/7JF9ljGd6rn323v4GNt2Mo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ventino: El Precio De La Gloria (Banda Sonora Original De La Serie De Televisi\u00f3n)",
-        "url": "https://open.spotify.com/album/1yZC3hn1Adr59UlR6g0NBx"
-      },
-      "artists": [
-        {
-          "name": "Ventino",
-          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
-        },
-        {
-          "name": "Caracol Televisi\u00f3n",
-          "url": "https://open.spotify.com/artist/6Rk6tAhO16QKZZtYFrHMbm"
-        }
-      ],
-      "duration_ms": 150650,
-      "name": "Bueno Para Mi - Banda Sonora Original De La Serie De Televisi\u00f3n",
-      "url": "https://open.spotify.com/track/3GvCjdrQeL1bYb32FelX1F"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Inevitables",
-        "url": "https://open.spotify.com/album/1V5qSya58ba5f421vdBJHd"
-      },
-      "artists": [
-        {
-          "name": "Ventino",
-          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
-        }
-      ],
-      "duration_ms": 156027,
-      "name": "La Mitad",
-      "url": "https://open.spotify.com/track/41zgsKUwPbTWOSrgn1DSpc"
     },
     {
       "added_at": null,
@@ -795,6 +795,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Te Dejo Entrar",
+        "url": "https://open.spotify.com/album/7Il8qjMFGj4QT1XLih4Qcp"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "duration_ms": 192845,
+      "name": "Te Dejo Entrar",
+      "url": "https://open.spotify.com/track/39ME7Co4Z5ETWFhAGBqMhh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Otra Noche",
         "url": "https://open.spotify.com/album/3c9rfTuSviV1bZBnXURf27"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 192926,
       "name": "Est\u00e1s",
       "url": "https://open.spotify.com/track/190oPZ25kanU2CRpgi801e"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Te Dejo Entrar",
-        "url": "https://open.spotify.com/album/7Il8qjMFGj4QT1XLih4Qcp"
-      },
-      "artists": [
-        {
-          "name": "Ventino",
-          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
-        }
-      ],
-      "duration_ms": 192845,
-      "name": "Te Dejo Entrar",
-      "url": "https://open.spotify.com/track/39ME7Co4Z5ETWFhAGBqMhh"
     },
     {
       "added_at": null,

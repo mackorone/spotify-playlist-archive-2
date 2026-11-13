@@ -4,11 +4,12 @@
 
 > warm and cozy beats to watch the leaves fall, focus, study or chill to.
 
-136 songs - 5 hr 11 min
+139 songs - 5 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Lovely Day](https://open.spotify.com/track/4uvjetG9h0f3ctvZsW4DQR) | [saint rumi](https://open.spotify.com/artist/4KZj9rS07i3nfijzVtkqMQ), [Taki Brano](https://open.spotify.com/artist/3kegRO5fvrXxqOrUiEbtOG), [Sphere of Hip\-Hop](https://open.spotify.com/artist/4zjVwGsBMdMZcxUKKCUbIU) | [A Lovely Day](https://open.spotify.com/album/4cWkIl6WR5IvMeJFQNyebA) | 1:49 | 2024-10-18 | 2024-11-09 |
+| [Acorn](https://open.spotify.com/track/49636TkDwGy7E8lOFni5pn) | [TimberRidge](https://open.spotify.com/artist/0Dhp5LBunI0YQAkPwshY0k) | [Acorn](https://open.spotify.com/album/5u9RaA0Qqu5WIroWgWOvTf) | 2:30 | 2026-11-13 |  |
 | [Airy Dream](https://open.spotify.com/track/0EO2YsUyTRDvXgET97TEsF) | [poems](https://open.spotify.com/artist/3MqAMBWx8jXvOhjQWiGN6w) | [Airy Dream](https://open.spotify.com/album/1WlSFbBa2pcFYD6fuMe8l3) | 2:09 | 2024-10-18 | 2025-12-05 |
 | [All Nighter](https://open.spotify.com/track/4XkfovbQ3GVlGzDCUD1bkR) | [Sunny Léo](https://open.spotify.com/artist/2w5KiJbmzmpynhshcjodYG) | [All Nighter](https://open.spotify.com/album/6ZvDaTQavm4C1lLu6LVuGv) | 2:05 | 2025-12-04 | 2026-09-08 |
 | [Amnesia](https://open.spotify.com/track/45jbQ3dPOPRXrUfUnRwnCN) | [softclouds](https://open.spotify.com/artist/4rjXInANFMCQfAzadFAi4d) | [Amnesia](https://open.spotify.com/album/0Veqr59WbWNYQYBrASjr67) | 2:25 | 2024-10-18 |  |
@@ -65,7 +66,7 @@
 | [Gravity of Love](https://open.spotify.com/track/4waRcANfO8zeGwZLGGmK8a) | [Kadeen B](https://open.spotify.com/artist/5lK2qWZmdr8c6wUgCvZ9XV) | [Gravity of Love](https://open.spotify.com/album/7cL88M0zNEXKDWr7PQWFh8) | 2:51 | 2024-10-18 | 2026-04-24 |
 | [Hazy](https://open.spotify.com/track/40frhLpVMThTogyowcdNtb) | [Sihu](https://open.spotify.com/artist/0IDfPC86tctwQaHkc9tVfX) | [Hazy](https://open.spotify.com/album/7cKu4mdSXXN5f4LRBI2i9G) | 2:20 | 2024-10-18 |  |
 | [Hopefull Afterall](https://open.spotify.com/track/5SphZD6nqBV1BRkqH0hl10) | [sienna whisper](https://open.spotify.com/artist/6QXEwlJU7oOCVoSYTuoYk0) | [Hopefull Afterall](https://open.spotify.com/album/2EBAgVcsdxHA9eJkxmNTag) | 2:14 | 2024-10-18 | 2025-10-23 |
-| [Hotaru](https://open.spotify.com/track/6dOgXIJVo4FPXN1dKaVzeS) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Muscot](https://open.spotify.com/album/4SND1sjGy3qhhQYL13UjLI) | 2:37 | 2024-10-18 |  |
+| [Hotaru](https://open.spotify.com/track/6dOgXIJVo4FPXN1dKaVzeS) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Muscot](https://open.spotify.com/album/4SND1sjGy3qhhQYL13UjLI) | 2:37 | 2024-10-18 | 2026-11-13 |
 | [hummingbird](https://open.spotify.com/track/2RmlNxCvN4gO3O8aerL48i) | [the tofu paradigm](https://open.spotify.com/artist/3Ux7jaAusHBJAKgdzZ1RCe) | [hummingbird](https://open.spotify.com/album/3yvz93RfZtIQFh62YL69PY) | 2:05 | 2026-10-05 |  |
 | [i think you think](https://open.spotify.com/track/1LcmOGUr03cPyonGphp3pU) | [new vibe](https://open.spotify.com/artist/4opkbCiRUcXTOudZGFZAeo) | [i think you think](https://open.spotify.com/album/6HYFO1uCMfTPqVjReAcQkR) | 1:55 | 2026-11-05 |  |
 | [In Solitude](https://open.spotify.com/track/3UhdC3ObYG7quEvAlmsJWw) | [mindfulsky.](https://open.spotify.com/artist/1d5zeALWXczL36spR9JTUs) | [In Solitude](https://open.spotify.com/album/3dx8XMLKbco2SHGmt6mpbF) | 2:07 | 2026-10-23 |  |
@@ -95,6 +96,7 @@
 | [Mindset](https://open.spotify.com/track/6dLitvcM1cVRQV1vN2jxGM) | [Golden Mist](https://open.spotify.com/artist/0Hd6QWTqvltK9qwevGqQtK) | [Mindset](https://open.spotify.com/album/4lAPtfrcpeNTRoU2Fsd1YU) | 1:55 | 2025-11-14 |  |
 | [mirror maze](https://open.spotify.com/track/1N3CGy4TEPeF7ROJcztkEq) | [C\-90](https://open.spotify.com/artist/23TW2SFcDS3yUZOPwMmzIq) | [mirror maze](https://open.spotify.com/album/7J86EmXsS5IBGNPXzsRENp) | 2:28 | 2024-11-08 | 2025-09-19 |
 | [mixture](https://open.spotify.com/track/61Ghb129p1GQJwe0R1HMA5) | [okayokay](https://open.spotify.com/artist/633sZM1wdqt78ctvpVluum) | [mixture](https://open.spotify.com/album/4dAcetjrb9Z6lCH0BbpWYC) | 2:03 | 2024-10-18 | 2024-10-25 |
+| [moonmilk](https://open.spotify.com/track/1hse9zteQhsyMnASrJWXJr) | [Govii](https://open.spotify.com/artist/2rVT5Vmfp9tvqtvAQU0r4f) | [moonmilk](https://open.spotify.com/album/4SrUtkYFnFTwDUEL5OcrTy) | 2:18 | 2026-11-13 |  |
 | [Morning Dew](https://open.spotify.com/track/12FNaRxFplk9Bs3fjpQzHM) | [Lil Leaf](https://open.spotify.com/artist/1GXcMejVQYwn2UstbQ0eHY) | [Morning Dew](https://open.spotify.com/album/1sOBZaf8YPRGzWfUiS0470) | 2:38 | 2024-11-29 |  |
 | [Natsumi](https://open.spotify.com/track/4GQ8CyrjkROX6hiM7q1d2H) | [Neko Kedi](https://open.spotify.com/artist/785Hs8MoBt2oTIRtfEtsuw) | [Natsumi](https://open.spotify.com/album/72FhFkkn8epsa96noAjLMJ) | 2:06 | 2024-10-18 |  |
 | [nevermind](https://open.spotify.com/track/2iWEgdzh9GJuX9hUX1jihX) | [afk](https://open.spotify.com/artist/29Xl84PNW154iIVrdVe2mN) | [nevermind](https://open.spotify.com/album/1EUjPE7ffJMMk6P9NhMzy3) | 2:20 | 2026-10-16 |  |
@@ -133,6 +135,7 @@
 | [Summer's End](https://open.spotify.com/track/1q0dOeLENSRPQE7Diz6Yld) | [morning green](https://open.spotify.com/artist/3FItRGy5Od4t19e3GvlDKZ) | [Summer's End](https://open.spotify.com/album/6xQ5CrNGGpgWP2gHMZraXI) | 2:03 | 2025-10-22 |  |
 | [sunrise](https://open.spotify.com/track/1eo4dFZb0UAvPO7oPFPE72) | [mxgnetic.](https://open.spotify.com/artist/5u7mGLVX9UB0iKwkgMywJ9) | [sunrise](https://open.spotify.com/album/0t4yXNgstBAzYTiRL5oOsc) | 2:37 | 2025-09-25 | 2026-09-08 |
 | [temporary approved](https://open.spotify.com/track/2kt3LN3iDaQMRINPRsGaJJ) | [Oroshi](https://open.spotify.com/artist/3gqs8fHrmLkMfjT5BI1bNh) | [temporary approved](https://open.spotify.com/album/3nRBtSNytK87rJY1mZVKEa) | 2:00 | 2024-10-18 |  |
+| [The Other Trail](https://open.spotify.com/track/1x5olsNXOr8oPYjUJXZToz) | [Mareel](https://open.spotify.com/artist/7nI22V07BuRLz4BKbXtE5z) | [The Other Trail](https://open.spotify.com/album/2Qj8lFr2VDhXMXsbcaPfnP) | 2:13 | 2026-11-13 |  |
 | [The Tallest Mountain](https://open.spotify.com/track/14rZzlYzQ5emCMpb5FLeR5) | [Cyber Bloom](https://open.spotify.com/artist/3zeayfTUAD4ekNKbjFmRA7) | [The Tallest Mountain](https://open.spotify.com/album/38OaG5sdb67iy5IFNPpcwy) | 2:16 | 2024-10-24 |  |
 | [thyme moves slow](https://open.spotify.com/track/70GXZOIk33cXFqhpNUiT7X) | [new vibe](https://open.spotify.com/artist/4opkbCiRUcXTOudZGFZAeo) | [thyme moves slow](https://open.spotify.com/album/49sa9gAhQ1jQkRqkx2qhQ5) | 2:27 | 2024-10-18 |  |
 | [triple sun](https://open.spotify.com/track/5DcoqE24JhH57niz7kgR0I) | [May\-Flowa](https://open.spotify.com/artist/3nYAsFmuTO2M6A9Gpb8CCr) | [triple sun](https://open.spotify.com/album/4mG00rSaqK95YPPnA4ZmQV) | 1:53 | 2024-10-18 | 2025-09-06 |

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4wmgHQAAzg3gbnQWSyoMZp">Pharrell Williams</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-1,050 songs - 2 day 18 hr 29 min
+1,051 songs - 2 day 18 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Angel](https://open.spotify.com/track/4WHQH9TRMCtR7nqnTjKaty) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [In My Mind](https://open.spotify.com/album/2AYyw0FbE1GXlNHnx2Gj4a) | 2:44 | 2024-01-29 |  |
 | [Announcement \- Sped Up](https://open.spotify.com/track/37yxlMfYaoAAI1dY2axJZU) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Universal Mind Control](https://open.spotify.com/album/6wl2laSmw3sucFUwRlqAP2) | 3:45 | 2024-09-12 |  |
 | [Anti Matter](https://open.spotify.com/track/1LMsm1VLbyuLI95fNihyOG) | [N.E.R.D](https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi) | [Seeing Sounds](https://open.spotify.com/album/20jWmZIMmIaclvShj8KSrB) | 4:01 | 2024-09-12 |  |
-| [Anything](https://open.spotify.com/track/5kiD3qnsuhV2YwH4bq93Yc) | [Hedley](https://open.spotify.com/artist/6Shas1ACrMl25XHgTrzxeo) | [Wild Life](https://open.spotify.com/album/6ixtp901UtxzxN81ErCYbO) | 3:11 | 2024-01-29 |  |
+| [Anything](https://open.spotify.com/track/5kiD3qnsuhV2YwH4bq93Yc) | [Hedley](https://open.spotify.com/artist/6Shas1ACrMl25XHgTrzxeo) | [Wild Life](https://open.spotify.com/album/6ixtp901UtxzxN81ErCYbO) | 3:11 | 2024-01-29 | 2026-11-13 |
 | [Anything](https://open.spotify.com/track/20HaMaNES3lw0EWJXS1Fb6) | [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Kingdom Come](https://open.spotify.com/album/3A29Ss77LjRZ3sKuauWieY) | 4:21 | 2024-09-12 |  |
 | [APESHIT](https://open.spotify.com/track/0E6PsO3ymCfUh7pJQjBgkj) | [The Carters](https://open.spotify.com/artist/4fpTMHe34LC5t3h5ztK8qu) | [EVERYTHING IS LOVE](https://open.spotify.com/album/3hCiP4V5Mu3Y0Z8lb70iDp) | 4:24 | 2024-01-31 |  |
 | [APESHIT](https://open.spotify.com/track/4YPkPJWP26WuwMnOOtzPJN) | [The Carters](https://open.spotify.com/artist/4fpTMHe34LC5t3h5ztK8qu) | [APESHIT \(Official Video\)](https://open.spotify.com/album/2NEQBoiYhgkGdGufGFwG0C) | 6:05 | 2024-01-29 | 2024-02-01 |
@@ -975,7 +975,8 @@
 | [Truth Or Dare](https://open.spotify.com/track/2BGSZEEWJeR0PAo7V5clSY) | [N.E.R.D](https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi), [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [In Search Of...](https://open.spotify.com/album/5u8ri4s76Ew14IwGOJf5hI) | 4:22 | 2024-01-29 |  |
 | [Twilight](https://open.spotify.com/track/1ZFg3nGsUSqkwmMPU9qLHk) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Ventura](https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY) | 3:16 | 2024-01-29 |  |
 | [Twisted \(feat\. Pharrell\)](https://open.spotify.com/track/65czTBQkqPJwK1JAyND9Rb) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Looking 4 Myself \(Expanded Edition\)](https://open.spotify.com/album/7eyuQZCLG5tdjWpKZbDE8g) | 3:43 | 2024-01-29 | 2025-03-03 |
-| [Twisted \- Original Single Edit](https://open.spotify.com/track/2VPctE4wLyCxfWUa67ZnJO) | [Svenson & Gielen](https://open.spotify.com/artist/0u3QU5dRkT3Xeioo16EUtV), [Johan Gielen](https://open.spotify.com/artist/2eSSc4YqhlEw0e11E9oQhP) | [Twisted](https://open.spotify.com/album/3p6UcPMaO8AvVJFlgHOVhN) | 3:02 | 2025-03-02 |  |
+| [Twisted \- Original Single Edit](https://open.spotify.com/track/3WrWPVIDletwarlbuEy0ps) | [Svenson & Gielen](https://open.spotify.com/artist/0u3QU5dRkT3Xeioo16EUtV), [Johan Gielen](https://open.spotify.com/artist/2eSSc4YqhlEw0e11E9oQhP) | [A State Of Trance Radio Top 20 – November 2011 \(Including Classic Bonus Track\)](https://open.spotify.com/album/1dmG0YQLhHzyFETJJgLwQk) | 3:02 | 2026-11-12 |  |
+| [Twisted \- Original Single Edit](https://open.spotify.com/track/2VPctE4wLyCxfWUa67ZnJO) | [Svenson & Gielen](https://open.spotify.com/artist/0u3QU5dRkT3Xeioo16EUtV), [Johan Gielen](https://open.spotify.com/artist/2eSSc4YqhlEw0e11E9oQhP) | [Twisted](https://open.spotify.com/album/3p6UcPMaO8AvVJFlgHOVhN) | 3:02 | 2025-03-02 | 2026-11-13 |
 | [Two Different Worlds](https://open.spotify.com/track/3RWkZKqgUUb67ZsBfXQHTT) | [Foreigner](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) | [Agent Provocateur](https://open.spotify.com/album/2n2rPdvCWzqng418OPbR01) | 4:31 | 2026-11-11 |  |
 | [Two Different Worlds](https://open.spotify.com/track/2aY357RazhpW5bq6Wykibp) | [Foreigner](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) | [Agent Provocateur](https://open.spotify.com/album/4oQhDQDKMeI6IMlwpXt3j8) | 4:31 | 2024-06-20 | 2026-11-12 |
 | [U Don't Have to Call](https://open.spotify.com/track/5PCJldueshnwqQVjS16543) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [8701](https://open.spotify.com/album/6k16WXh4rKyusIoN00rmpi) | 4:29 | 2024-01-29 |  |

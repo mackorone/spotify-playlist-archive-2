@@ -2,9 +2,9 @@
 
 ### [RADAR BNLX](https://open.spotify.com/playlist/37i9dQZF1DXaxwXKCsImRe)
 
-> De toekomst van de Benelux volgens onze muziekredactie\. Cover: <a href="spotify:artist:5qQLp6Xal6S6KXEHgvxmvp">Dressed Like Boys</a>
+> De toekomst van de Benelux volgens onze muziekredactie\. Cover: <a href="spotify:artist:4oMzH6lIWPhCdx7KADXLJZ">Senna</a>
 
-281 songs - 14 hr 54 min
+283 songs - 14 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Adem Je In](https://open.spotify.com/track/3YKAKQVZBybMEWpUtQ1HAW) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Ik Besta Voor Altijd Zolang Jij Aan Mij Denkt](https://open.spotify.com/album/0g6FAxEKgMT5mZMQuEVAQ3) | 3:46 | 2023-09-14 | 2026-03-19 |
 | [Adem Je In \- Remix](https://open.spotify.com/track/5F469F5Dk2Zzm6BpP0OhVq) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK), [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1) | [Adem Je In \(Remix\)](https://open.spotify.com/album/2s2Jz2xKZrfaSqY9HK6sOe) | 3:43 | 2021-12-10 | 2022-03-19 |
 | [Alles Kan Kapot](https://open.spotify.com/track/1ufm3zszexVlsNpayLSsiA) | [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9) | [Alles Kan Kapot](https://open.spotify.com/album/0pCHPhcIKvYu3l0VUTioOT) | 2:52 | 2025-06-19 | 2026-09-17 |
-| [Alles Wat Ik Nodig Heb](https://open.spotify.com/track/4hmpOuIVv8kxVQfpKvDBqN) | [Senna](https://open.spotify.com/artist/4oMzH6lIWPhCdx7KADXLJZ) | [Alles Wat Ik Nodig Heb](https://open.spotify.com/album/0y7U633k7fboef4iOSNVWy) | 2:22 | 2026-03-25 |  |
+| [Alles Wat Ik Nodig Heb](https://open.spotify.com/track/4hmpOuIVv8kxVQfpKvDBqN) | [Senna](https://open.spotify.com/artist/4oMzH6lIWPhCdx7KADXLJZ) | [Alles Wat Ik Nodig Heb](https://open.spotify.com/album/0y7U633k7fboef4iOSNVWy) | 2:22 | 2026-03-25 | 2026-11-13 |
 | [Alone](https://open.spotify.com/track/3Cyp0LHyFXXpm6daHDV6oR) | [Beau Diako](https://open.spotify.com/artist/3W02sTifN8tW1bapAkS1hu), [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [Alone](https://open.spotify.com/album/1Gng9GvjxKFh1QrrHDcfvr) | 3:03 | 2022-03-18 | 2022-06-17 |
 | [Als Jij Maar Bij Me Bent](https://open.spotify.com/track/5AimUqVfhUXe1jCRanTK72) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Als Jij Maar Bij Me Bent](https://open.spotify.com/album/5feJik71vEqH5bSdktYTjq) | 2:40 | 2022-05-22 | 2022-06-01 |
 | [Als Thuis](https://open.spotify.com/track/6hoWEwirlkqSV3oZ4qEzWV) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Als Thuis](https://open.spotify.com/album/31p5uf3ZYI7baJgMyvGz7l) | 2:59 | 2023-04-06 | 2023-05-10 |
@@ -116,6 +116,7 @@
 | [Helaas](https://open.spotify.com/track/0JzULZMvwyf00IMQmGFoS5) | [Langa](https://open.spotify.com/artist/0BFood0cmj86LkpdOArhNs), [Yssi SB](https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8), [Rijck](https://open.spotify.com/artist/0TzY5bHHF5sZsm1XV5UCzZ) | [Helaas](https://open.spotify.com/album/5VJ9DvEiel3SnSZBSFGnvx) | 2:42 | 2026-03-18 |  |
 | [Helen](https://open.spotify.com/track/0MsLcStKOzqMxpE5b7NO8K) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Helen / Hou Me Vast](https://open.spotify.com/album/6G2S6NyTPsoPqtKAa6S1bl) | 3:22 | 2023-01-27 | 2023-05-10 |
 | [Het Komt Door Jou](https://open.spotify.com/track/5JWHSbwDQIXQP9532k3uqQ) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Beste Zangers 2026 \(Zoë Livay\)](https://open.spotify.com/album/4r5YD8D2gp85QTuo6pcv26) | 3:03 | 2026-10-29 |  |
+| [Hey Poes](https://open.spotify.com/track/3or3wODEzHipOyhbn9GBZp) | [Senna](https://open.spotify.com/artist/4oMzH6lIWPhCdx7KADXLJZ), [Monique Smit](https://open.spotify.com/artist/5z4lUxGyk6fWkbqoITgJTv) | [Hey Poes](https://open.spotify.com/album/5eKGfJrhNXed8KYrsJAOkp) | 2:21 | 2026-11-12 |  |
 | [Hijos De La Noche](https://open.spotify.com/track/1XgsBtX1glXMrclgp6JBb5) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Roots EP, Pt\. 1](https://open.spotify.com/album/2WWgsiqIgoEURvWaYZaiK2) | 3:36 | 2023-09-14 | 2024-01-19 |
 | [Hocus Pocus](https://open.spotify.com/track/2ToN3eKF4xLBM0yihlNQB0) | [Sylvie Kreusch](https://open.spotify.com/artist/11T0XSkxSB5KUPTe8P8BOl) | [Hocus Pocus](https://open.spotify.com/album/20MzdqGreRzxHFxWIdXFgF) | 3:18 | 2024-07-01 | 2024-10-25 |
 | [Hoe Zit Het Met Ons?](https://open.spotify.com/track/1rN5JHM21poaueaK01se6P) | [Aaron Blommaert](https://open.spotify.com/artist/67Hs92fNnRAgFBfL6EePwb) | [Hoe Zit Het Met Ons?](https://open.spotify.com/album/7zEz4lybKXy6PDwnBRTxis) | 3:06 | 2025-09-24 | 2026-03-20 |
@@ -225,6 +226,7 @@
 | [She's A Star](https://open.spotify.com/track/1WTdWqP7VUEVuSrBcoAAtU) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm) | [She's A Star](https://open.spotify.com/album/0q5wcUvHIgklQrc1SDam2x) | 4:45 | 2022-03-18 | 2023-04-07 |
 | [Show Me](https://open.spotify.com/track/1Ey1TMpXKQY7rlJ0ZuNc50) | [Feng Suave](https://open.spotify.com/artist/73dudJ9j0HStIhJDU8MjMI) | [So Much for Gardening](https://open.spotify.com/album/3YeM4v2nWzBdcCl9awURhv) | 5:50 | 2021-12-10 | 2022-03-12 |
 | [siente más](https://open.spotify.com/track/6sycT6FiSI1YSERI9279qY) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Paris Texas](https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8) | 4:00 | 2022-08-25 | 2023-04-07 |
+| [Silver Springs \- Spotify Singles](https://open.spotify.com/track/171L1i9B8JSR234FJbKDPi) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Silver Springs \(Spotify Singles\)](https://open.spotify.com/album/0fW7syaAcr6p7MpMnyq49k) | 3:20 | 2026-11-12 |  |
 | [Sit Back Baby](https://open.spotify.com/track/3uJHRqJcli8SMnZx1M2KXD) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [Sit Back Baby](https://open.spotify.com/album/049xHwMikU5vc99m0Xo5Z1) | 3:54 | 2025-09-25 | 2026-04-01 |
 | [Sluit Me In Je Armen](https://open.spotify.com/track/3hDonrNsWXsXegk5y67wKs) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE) | [Sluit Me In Je Armen](https://open.spotify.com/album/0dmNOTJAS3XLdvQyVJpYaW) | 2:43 | 2026-03-09 |  |
 | [Smile](https://open.spotify.com/track/2ApL6VOKSrkgQpReK9CNSo) | [Jann](https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb) | [Smile](https://open.spotify.com/album/0mdge9D2gBA10epxNEXjLS) | 3:04 | 2022-01-24 | 2022-06-17 |
@@ -254,7 +256,7 @@
 | [The Things That You Are Not \(Part 1\)](https://open.spotify.com/track/2Lo6dinJC6pLfMRK2H0ehd) | [Thomas Porter](https://open.spotify.com/artist/1HWwfeXkUm1jrOHiI61Q6C) | [Manic Pixie Dream Girl](https://open.spotify.com/album/5coRlQYIHdjSU37K7cRC3n) | 2:52 | 2022-03-18 | 2023-09-15 |
 | [The World's Thing](https://open.spotify.com/track/7p9qrq8qPw8KA6nyLN6Ocq) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm) | [The World's Thing](https://open.spotify.com/album/0orNVT4C6SfaFiplCVEvFX) | 2:43 | 2022-02-03 | 2023-04-07 |
 | [Therapie](https://open.spotify.com/track/01vJrmmK189tfubjoU0jOw) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Er Was Eens Een Meid](https://open.spotify.com/album/3fO8TSTjkapJpQU4xKgahE) | 3:01 | 2023-04-05 | 2024-04-11 |
-| [Therapist's Daughter](https://open.spotify.com/track/4Wa4o786mF0RLlLoO2Sz4R) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Therapist's Daughter](https://open.spotify.com/album/3bcNya70WdDCtpcBK2V0Fl) | 2:53 | 2026-08-27 |  |
+| [Therapist's Daughter](https://open.spotify.com/track/4Wa4o786mF0RLlLoO2Sz4R) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Therapist's Daughter](https://open.spotify.com/album/3bcNya70WdDCtpcBK2V0Fl) | 2:53 | 2026-08-27 | 2026-11-13 |
 | [To The Moon](https://open.spotify.com/track/1CyYcBdukmFjFibDZaDlHc) | [hooligan.](https://open.spotify.com/artist/4sDsgLXhS6If9HrV2mwuSx) | [To The Moon](https://open.spotify.com/album/4UEbczuNRxEy7SGJTrfEBd) | 3:21 | 2022-10-17 | 2023-07-21 |
 | [Touchdown](https://open.spotify.com/track/3rEVddu309s1q60xAEB7AE) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [The Fear That This Is Real](https://open.spotify.com/album/59eUZ7LL95OYdNB2nxbsE4) | 3:52 | 2026-10-08 |  |
 | [Tranen Van Goud](https://open.spotify.com/track/0Ekq35nZ7eaVURu300F09s) | [Aaron Blommaert](https://open.spotify.com/artist/67Hs92fNnRAgFBfL6EePwb), [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE) | [Tranen Van Goud](https://open.spotify.com/album/2gJFnppCudFvs1OQprImqB) | 2:21 | 2026-05-11 | 2026-09-17 |

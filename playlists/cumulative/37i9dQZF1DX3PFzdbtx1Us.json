@@ -3999,6 +3999,24 @@
     },
     {
       "album": {
+        "name": "Longing",
+        "url": "https://open.spotify.com/album/0jOrGMPdWJCMQ8QU3VTSVz"
+      },
+      "artists": [
+        {
+          "name": "Leonard Anderson",
+          "url": "https://open.spotify.com/artist/1cXE0r5JyjFer1EwCcv8zS"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Longing",
+      "url": "https://open.spotify.com/track/0MVHmSGtQB1cuX56mtJmqo"
+    },
+    {
+      "album": {
         "name": "Lost",
         "url": "https://open.spotify.com/album/7xHVlsqzstKTkgVrbpgMPH"
       },

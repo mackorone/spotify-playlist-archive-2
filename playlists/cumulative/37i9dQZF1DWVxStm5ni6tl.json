@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-27",
-  "description": "The best new music by independent artists and labels in Canada. Updates every Wednesday. Cover: Quincy Isaiah, Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels in Canada. Updates every Wednesday. Cover: Brat Star, Artwork: Isu Kim",
   "name": "Fresh Finds Canada",
   "tracks": [
     {
@@ -21325,6 +21325,24 @@
     },
     {
       "album": {
+        "name": "Orchid",
+        "url": "https://open.spotify.com/album/6Q5Ev3ugg71O1R8JB2Volp"
+      },
+      "artists": [
+        {
+          "name": "Maya Jade",
+          "url": "https://open.spotify.com/artist/7tK7zDUhoiskbWyv8F0DRq"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217208,
+      "name": "Heart on the Line",
+      "url": "https://open.spotify.com/track/4qjccGJ1UJrVhfzLD643bu"
+    },
+    {
+      "album": {
         "name": "Heart Racing for You",
         "url": "https://open.spotify.com/album/7lFPyQjbStcn9pRtCfDW0r"
       },
@@ -36809,6 +36827,28 @@
     },
     {
       "album": {
+        "name": "SouthSideKnottyHead",
+        "url": "https://open.spotify.com/album/5jnQK10gjDDxGQAJEOzMkK"
+      },
+      "artists": [
+        {
+          "name": "KOTO?",
+          "url": "https://open.spotify.com/artist/1N7v8ztld41DN69kQvp0We"
+        },
+        {
+          "name": "Soft Eyez",
+          "url": "https://open.spotify.com/artist/6ojMQVQeJuZ8PGwHoIO4fT"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130000,
+      "name": "Obinna",
+      "url": "https://open.spotify.com/track/2nBl9oYFSaKLz9WOBE8LgS"
+    },
+    {
+      "album": {
         "name": "Object Permanence",
         "url": "https://open.spotify.com/album/3uykk3FDfJ6f2u8yxD8p0R"
       },
@@ -42320,6 +42360,24 @@
       "duration_ms": 220633,
       "name": "radiate",
       "url": "https://open.spotify.com/track/7e07JlMY4JHKDlj0EytZRC"
+    },
+    {
+      "album": {
+        "name": "Radio",
+        "url": "https://open.spotify.com/album/1uxkF2SgNcdeOYfLwh9OQc"
+      },
+      "artists": [
+        {
+          "name": "Planet Chlo\u00e9",
+          "url": "https://open.spotify.com/artist/6nvLTll83bPbaAvemxQ13S"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178954,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/1PS45iWkOspjpeXQjzDhPl"
     },
     {
       "album": {
@@ -55049,6 +55107,24 @@
     },
     {
       "album": {
+        "name": "Club Jade Monet",
+        "url": "https://open.spotify.com/album/0G9n8yzgBgLZf1iIySIatk"
+      },
+      "artists": [
+        {
+          "name": "Jade Monet",
+          "url": "https://open.spotify.com/artist/5AE7MlHMoaaPI9VhtYubmT"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 3",
+      "url": "https://open.spotify.com/track/6zrxzGTyCr751V0RBQ0TYb"
+    },
+    {
+      "album": {
         "name": "Trankilows",
         "url": "https://open.spotify.com/album/30xGiEytoewp92tTovjmIz"
       },
@@ -55426,6 +55502,24 @@
       "duration_ms": 241240,
       "name": "tunnel",
       "url": "https://open.spotify.com/track/43tIV7UcEW6XrvhtRBJGd6"
+    },
+    {
+      "album": {
+        "name": "Turbulences",
+        "url": "https://open.spotify.com/album/4dQGQcGmBtC07HVxmo7ZAj"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e8ges",
+          "url": "https://open.spotify.com/artist/3aHCC5XL7q7F6UCfOOL4XO"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229201,
+      "name": "Turbulences",
+      "url": "https://open.spotify.com/track/0u19lGnitw5hKYxqL6zdQZ"
     },
     {
       "album": {

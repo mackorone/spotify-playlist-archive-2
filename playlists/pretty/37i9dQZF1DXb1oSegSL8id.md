@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1oSegSL8id.md) - [plain]
 
 > Tem Sertanejo! Tem Funk! Tem Pagode! A melhor trilha pra embalar o seu churrasco.
 
-[Spotify](https://open.spotify.com/user/spotify) - 866,030 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 866,041 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1oSegSL8id.md) - [plain]
 | 18 | [Cheirosa \- Ao Vivo](https://open.spotify.com/track/2PWjKmjyTZeDpmOUa3a5da) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Cheirosa \(Ao Vivo\)](https://open.spotify.com/album/2s8vRW3xvh5BP4CWKyh14X) | 3:01 |
 | 19 | [Saideira \- Ao Vivo](https://open.spotify.com/track/2UmKWMYAqRlAYfDum7qryt) | [Atitude 67](https://open.spotify.com/artist/1vp5pm1DluN0sNXx4tMZzo) | [Atitude 67 \(Ao Vivo\)](https://open.spotify.com/album/5hxexa4StN8STmpxFQaG9n) | 2:58 |
 | 20 | [Bye Bye \- Ao Vivo](https://open.spotify.com/track/055TcJ0BdCrW7qE8Yq5KRM) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Todos Os Cantos, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/4HpiwfnQvs867JNWeLy1vr) | 2:46 |
-| 21 | [Ferida Curada](https://open.spotify.com/track/1U3tv41tFRgOfbytpuYQrR) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Ferida Curada](https://open.spotify.com/album/4S428p1Dl0B5QShuR6FBMu) | 2:39 |
-| 22 | [Cilada](https://open.spotify.com/track/2CfYBDMvXBKxIqBOUjAvfU) | [Molejo](https://open.spotify.com/artist/7yl05GUXqcUA3mfpowr1fe) | [Não Quero Saber de Ti Ti Ti](https://open.spotify.com/album/4nu2sb4YM2YA8AjsS5Duc2) | 3:43 |
+| 21 | [Cilada](https://open.spotify.com/track/2CfYBDMvXBKxIqBOUjAvfU) | [Molejo](https://open.spotify.com/artist/7yl05GUXqcUA3mfpowr1fe) | [Não Quero Saber de Ti Ti Ti](https://open.spotify.com/album/4nu2sb4YM2YA8AjsS5Duc2) | 3:43 |
+| 22 | [Ferida Curada](https://open.spotify.com/track/1U3tv41tFRgOfbytpuYQrR) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Ferida Curada](https://open.spotify.com/album/4S428p1Dl0B5QShuR6FBMu) | 2:39 |
 | 23 | [Quando Você Me Beija / Eternamente / Depois da Briga \- Ao Vivo](https://open.spotify.com/track/5ruG18WndCCaU4f0ZMwehj) | [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi), [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Churrasquinho Menos É Mais, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/0ni6zhrp00jfoI0lswSrGv) | 5:18 |
 | 24 | [A boba fui eu \- Recorded At Mosh Studios, São Paulo](https://open.spotify.com/track/4Y7ay3naWoluoOM3xIj1UZ) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Spotify Singles](https://open.spotify.com/album/12khkvFs0A8wiIYYmRIQgk) | 3:12 |
 | 25 | [Todo Mundo Vai Sofrer \- Ao Vivo](https://open.spotify.com/track/4E6RdcCWMiHTu7zy1VTNDo) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Todos Os Cantos, Vol\. 2 \(ao Vivo\)](https://open.spotify.com/album/3mTbv6MyAR4KEDh0w8s9Nk) | 2:34 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1oSegSL8id.md) - [plain]
 | 59 | [Bebe e Vem Me Procurar](https://open.spotify.com/track/3tu0GkIZwwkmILoD4HemBq) | [Raí Saia Rodada](https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz) | [Bebe e Vem Me Procurar](https://open.spotify.com/album/6ZrJp1WEax1ZsoF5nTcYsz) | 2:34 |
 | 60 | [Foi Pá Pum](https://open.spotify.com/track/6F7tttrdq7aUdxXVeo0nKp) | [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE) | [Debaixo Do Meu Telhado](https://open.spotify.com/album/3nK8BGJDIxuIN1rhsOX3mg) | 3:03 |
 | 61 | [Carreira Solo \- Ao Vivo](https://open.spotify.com/track/1MmS7UIy3J1BTxfGCRvVqN) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [O Embaixador in Cariri \(Ao Vivo\)](https://open.spotify.com/album/17jzAujoXwIF60ojew1yHU) | 3:35 |
-| 62 | [Cobaia](https://open.spotify.com/track/6qDvzHbstT1Tr45okT8eN4) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Cobaia](https://open.spotify.com/album/7CbERGprCKdr9eR5TNG5Rd) | 3:39 |
-| 63 | [ASSIM NASCE UM BÊBADO](https://open.spotify.com/track/3p3iOpzsKOGMeNBaexBXXR) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [ASSIM NASCE UM BÊBADO](https://open.spotify.com/album/4eSeT6FOFd9VmN4tCyyQc3) | 3:43 |
+| 62 | [ASSIM NASCE UM BÊBADO](https://open.spotify.com/track/3p3iOpzsKOGMeNBaexBXXR) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [ASSIM NASCE UM BÊBADO](https://open.spotify.com/album/4eSeT6FOFd9VmN4tCyyQc3) | 3:43 |
+| 63 | [Cobaia](https://open.spotify.com/track/6qDvzHbstT1Tr45okT8eN4) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Cobaia](https://open.spotify.com/album/7CbERGprCKdr9eR5TNG5Rd) | 3:39 |
 | 64 | [Sogra \- Ao Vivo](https://open.spotify.com/track/4zsiMjB0794HztyqUkD3Zi) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg), [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Open House \(Ao Vivo\)](https://open.spotify.com/album/69BEwRfwBeIpoene374tX2) | 2:57 |
 | 65 | [Aonde Quer Chegar](https://open.spotify.com/track/6bcvIgM2W5kaMozN2L9e0k) | [Turma do Pagode](https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut) | [Aonde Quer Chegar](https://open.spotify.com/album/4OgqLEkwazzYv1snqUOQlo) | 3:11 |
 | 66 | [Não Me Arranha \- Ao Vivo](https://open.spotify.com/track/6ve9hbVnSgJ0vrsRpj18OH) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Buteco in Boston \(Ao Vivo\)](https://open.spotify.com/album/1AebCIKwFh7upRidnha8yo) | 2:39 |

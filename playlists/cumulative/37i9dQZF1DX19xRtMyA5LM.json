@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-20",
-  "description": "\u2757\ufe0fNieuwe tracks van Leblanco, JoeyAK, Frsh en meer..",
+  "description": "\u2757\ufe0fNieuwe tracks van Dopebwoy, Cor & Lijpe, Rits en meer..",
   "name": "Woordenschat",
   "tracks": [
     {
@@ -370,7 +370,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 155253,
       "name": "20 Backshot",
       "url": "https://open.spotify.com/track/5R1tJMXJ5Sq0lelx4VOgRI"
@@ -790,7 +790,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 120000,
       "name": "Alleen Jij",
       "url": "https://open.spotify.com/track/6F9sU0hboUEegZTNIIgmGT"
@@ -2436,7 +2436,7 @@
       ],
       "date_added": "2026-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 169315,
       "name": "City Boys",
       "url": "https://open.spotify.com/track/31PlIzDW5KB0xdvFQB66X0"
@@ -3099,6 +3099,24 @@
     },
     {
       "album": {
+        "name": "Donker",
+        "url": "https://open.spotify.com/album/3bj4ALcaAWcXsUI0JhMwz1"
+      },
+      "artists": [
+        {
+          "name": "Rits",
+          "url": "https://open.spotify.com/artist/0zjY4NHr3mdGq8Mn8btl3O"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182500,
+      "name": "Donker",
+      "url": "https://open.spotify.com/track/1P4mwlyZD78OFJmEqomQZ1"
+    },
+    {
+      "album": {
         "name": "Don\u2019t Underestimate",
         "url": "https://open.spotify.com/album/7cHcMTOHyV5ymx7MFsX6Hz"
       },
@@ -3592,7 +3610,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 144166,
       "name": "FaceTime Sparta",
       "url": "https://open.spotify.com/track/0jLUdTtetXUO1FVO91UvfH"
@@ -3684,7 +3702,7 @@
       ],
       "date_added": "2026-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 137355,
       "name": "FDP",
       "url": "https://open.spotify.com/track/6q0GmWamisjcj3wYqGvOZx"
@@ -3772,7 +3790,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 103478,
       "name": "Fijnproever",
       "url": "https://open.spotify.com/track/1IMec53wbo65roDYmCnbdX"
@@ -3820,6 +3838,24 @@
       "duration_ms": 146787,
       "name": "FINESSE",
       "url": "https://open.spotify.com/track/7hapK9RIPikrhptYX9smPs"
+    },
+    {
+      "album": {
+        "name": "Project Flex",
+        "url": "https://open.spotify.com/album/7E1vZAyUrCRUE0l3LYp4MT"
+      },
+      "artists": [
+        {
+          "name": "Dopebwoy",
+          "url": "https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131651,
+      "name": "FITNESS",
+      "url": "https://open.spotify.com/track/5SAz8q7P997ZEAL3biOA2o"
     },
     {
       "album": {
@@ -4242,7 +4278,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 169103,
       "name": "Gass",
       "url": "https://open.spotify.com/track/5ZgPegQQqZquH6KZDCk8PG"
@@ -4480,7 +4516,7 @@
       ],
       "date_added": "2026-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 134000,
       "name": "Gele Ferrari",
       "url": "https://open.spotify.com/track/7pEAaR3p9CVZGmBnpV2yfs"
@@ -6704,7 +6740,7 @@
       ],
       "date_added": "2026-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 128166,
       "name": "KTM",
       "url": "https://open.spotify.com/track/3qbfFVsA8M8v3KiMRBxeHY"
@@ -6966,7 +7002,7 @@
       ],
       "date_added": "2026-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 101142,
       "name": "Lahmacun",
       "url": "https://open.spotify.com/track/0gnL03gM8MKBWMPTn74u67"
@@ -7786,7 +7822,7 @@
       ],
       "date_added": "2026-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 167704,
       "name": "Mashakil",
       "url": "https://open.spotify.com/track/6h0dya6yxt7gPkD9uHEq4y"
@@ -8780,7 +8816,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 186438,
       "name": "NO DAYS OFF",
       "url": "https://open.spotify.com/track/2wNNAvXTcn1CvjcBdD32bB"
@@ -9140,6 +9176,28 @@
       "duration_ms": 132904,
       "name": "OP SLOT?",
       "url": "https://open.spotify.com/track/05EiCcnXDpsvLusAtRXS09"
+    },
+    {
+      "album": {
+        "name": "Opladen",
+        "url": "https://open.spotify.com/album/0AT5leqGR53q1BxqhCj36x"
+      },
+      "artists": [
+        {
+          "name": "Young Ellens",
+          "url": "https://open.spotify.com/artist/0SuC1Z51R9kleDO1pj3Gub"
+        },
+        {
+          "name": "Lil Saint",
+          "url": "https://open.spotify.com/artist/32nKrlbSIPvgVTcd4LKJor"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139000,
+      "name": "Opladen",
+      "url": "https://open.spotify.com/track/61P29QQU0iLPDDTkH6FZMQ"
     },
     {
       "album": {
@@ -10035,6 +10093,24 @@
     },
     {
       "album": {
+        "name": "Project Flex",
+        "url": "https://open.spotify.com/album/7E1vZAyUrCRUE0l3LYp4MT"
+      },
+      "artists": [
+        {
+          "name": "Dopebwoy",
+          "url": "https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90872,
+      "name": "PROJECT FLEX",
+      "url": "https://open.spotify.com/track/6s5clLEiXgpkYRyJSP0Gnu"
+    },
+    {
+      "album": {
         "name": "Proost",
         "url": "https://open.spotify.com/album/237Q7Gxp8uPJW7oW9bHZdg"
       },
@@ -10434,7 +10510,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 136258,
       "name": "Ring d\u2019Anvers",
       "url": "https://open.spotify.com/track/7dONsabhDrIQGJsZ9ZpmYO"
@@ -10900,7 +10976,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 129826,
       "name": "Schijn je licht op mij",
       "url": "https://open.spotify.com/track/4h6oCJNPJ06eYT3M9jdCOq"
@@ -10998,7 +11074,7 @@
       ],
       "date_added": "2026-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 145297,
       "name": "Sel3a Money",
       "url": "https://open.spotify.com/track/30MxZg09HHybWP0VMuACr1"
@@ -11304,7 +11380,7 @@
       ],
       "date_added": "2026-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 141517,
       "name": "Soldaten",
       "url": "https://open.spotify.com/track/3hzsluxtiTvqyx7qFJmc5Q"
@@ -12325,6 +12401,28 @@
     },
     {
       "album": {
+        "name": "Project Flex",
+        "url": "https://open.spotify.com/album/7E1vZAyUrCRUE0l3LYp4MT"
+      },
+      "artists": [
+        {
+          "name": "Dopebwoy",
+          "url": "https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr"
+        },
+        {
+          "name": "Aitch",
+          "url": "https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135423,
+      "name": "TOMA",
+      "url": "https://open.spotify.com/track/16MvPzav0kCaGCmMtAX6qb"
+    },
+    {
+      "album": {
         "name": "TOXIC",
         "url": "https://open.spotify.com/album/7DWEu6Ka60yycvREDE9XLG"
       },
@@ -12388,6 +12486,24 @@
       "duration_ms": 158241,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/4tu4ZJyPBRnPqmvXZhaqAj"
+    },
+    {
+      "album": {
+        "name": "Praat van de Straat II, Vol. 4",
+        "url": "https://open.spotify.com/album/2PmwN1pFkXGTCEsHisWR2b"
+      },
+      "artists": [
+        {
+          "name": "Sepa",
+          "url": "https://open.spotify.com/artist/5oBUDu4SFA4clHOLCrh2b7"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 4",
+      "url": "https://open.spotify.com/track/1MZqk6nX0olmzsbMCO5r0F"
     },
     {
       "album": {
@@ -13244,7 +13360,7 @@
       ],
       "date_added": "2026-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 150000,
       "name": "WAIT 4 YOU",
       "url": "https://open.spotify.com/track/3Cc3wmx0FdJ77wuzR7TdBH"
@@ -13672,6 +13788,28 @@
       "duration_ms": 173684,
       "name": "Wijngaard Convo\u2019s",
       "url": "https://open.spotify.com/track/4oCjYPHI1pVHpEyO6oCIsh"
+    },
+    {
+      "album": {
+        "name": "Wind Tegen",
+        "url": "https://open.spotify.com/album/2OEmrQ2UbrxACT8Z4RNCel"
+      },
+      "artists": [
+        {
+          "name": "Cor",
+          "url": "https://open.spotify.com/artist/66wqVYADY665LeMxs8nlk3"
+        },
+        {
+          "name": "Lijpe",
+          "url": "https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174790,
+      "name": "Wind Tegen",
+      "url": "https://open.spotify.com/track/6bkf0DIK8HV7MrYvlAT9Cg"
     },
     {
       "album": {

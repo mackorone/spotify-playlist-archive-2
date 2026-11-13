@@ -1,6 +1,6 @@
 {
   "description": "Enjoy the popular Korean Cyworld bgm that embroidered the 2000s and 2010s. (\ud55c \uc2dc\uc808 \uac10\uc131\uc744 \ub300\ud45c\ud588\ub358 \uc2f8\uc774\uc6d4\ub4dc BGM\uc744 \uac10\uc0c1\ud574\ubcf4\uc138\uc694.)",
-  "num_followers": 41396,
+  "num_followers": 41411,
   "original_name": "CYWORLD BGM (\uc2f8\uc774\uc6d4\ub4dc BGM)",
   "owner": {
     "name": "Spotify",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
+        "name": "Voice Of Heaven",
+        "url": "https://open.spotify.com/album/0V3PQa5gQpIHRwJEscGwvY"
+      },
+      "artists": [
+        {
+          "name": "Zia",
+          "url": "https://open.spotify.com/artist/2vAxwTAH2OaInCfMxriCqk"
+        }
+      ],
+      "duration_ms": 216320,
+      "name": "gazing blankly",
+      "url": "https://open.spotify.com/track/5t2qlg7EG7qmckTk6usRee"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
         "name": "Glass Mask",
         "url": "https://open.spotify.com/album/7klNdBJ1KRmBQtdZyhzM51"
       },
@@ -1299,18 +1315,18 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "Voice Of Heaven",
-        "url": "https://open.spotify.com/album/0V3PQa5gQpIHRwJEscGwvY"
+        "name": "Afterglow",
+        "url": "https://open.spotify.com/album/163Vvv3rKHXfsd357oudYb"
       },
       "artists": [
         {
-          "name": "Zia",
-          "url": "https://open.spotify.com/artist/2vAxwTAH2OaInCfMxriCqk"
+          "name": "VIBE",
+          "url": "https://open.spotify.com/artist/68ym0sOo7MazZxScbm1wtI"
         }
       ],
-      "duration_ms": 216320,
-      "name": "gazing blankly",
-      "url": "https://open.spotify.com/track/5t2qlg7EG7qmckTk6usRee"
+      "duration_ms": 243749,
+      "name": "Promise U (Original Ver.)",
+      "url": "https://open.spotify.com/track/0xal1TDjG4hQRt6poGvoml"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -1327,22 +1343,6 @@
       "duration_ms": 337946,
       "name": "\uadf8\ub300 \ub5a0\ub09c \ub4a4 (with \ube0c\ub77c\uc6b4 \uc544\uc774\ub4dc \uc18c\uc6b8)",
       "url": "https://open.spotify.com/track/6HkeCtEHZSDReE5EEvjv2J"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
-        "name": "Afterglow",
-        "url": "https://open.spotify.com/album/163Vvv3rKHXfsd357oudYb"
-      },
-      "artists": [
-        {
-          "name": "VIBE",
-          "url": "https://open.spotify.com/artist/68ym0sOo7MazZxScbm1wtI"
-        }
-      ],
-      "duration_ms": 243749,
-      "name": "Promise U (Original Ver.)",
-      "url": "https://open.spotify.com/track/0xal1TDjG4hQRt6poGvoml"
     },
     {
       "added_at": "2022-06-13 13:22:46",

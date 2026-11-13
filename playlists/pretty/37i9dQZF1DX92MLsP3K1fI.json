@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s fresh! Alleh en portada \u2728",
-  "num_followers": 96769,
+  "num_followers": 96772,
   "original_name": "Oye Pop",
   "owner": {
     "name": "Spotify",
@@ -375,6 +375,22 @@
     {
       "added_at": "2026-11-06 06:00:28",
       "album": {
+        "name": "Quiero +",
+        "url": "https://open.spotify.com/album/3eF6EiinfXf9fXbyLTxFDv"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 128487,
+      "name": "Quiero +",
+      "url": "https://open.spotify.com/track/3qwEwtnOb6TyJkSGYEm02h"
+    },
+    {
+      "added_at": "2026-11-06 06:00:28",
+      "album": {
         "name": "pAL_veranito.mp3",
         "url": "https://open.spotify.com/album/2FAyVjETQ3RSG1vrNtf87z"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 169846,
       "name": "pongo remix",
       "url": "https://open.spotify.com/track/1Z02pAigkKXgTfy3GMiQ6x"
-    },
-    {
-      "added_at": "2026-11-06 06:00:28",
-      "album": {
-        "name": "Quiero +",
-        "url": "https://open.spotify.com/album/3eF6EiinfXf9fXbyLTxFDv"
-      },
-      "artists": [
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 128487,
-      "name": "Quiero +",
-      "url": "https://open.spotify.com/track/3qwEwtnOb6TyJkSGYEm02h"
     },
     {
       "added_at": "2026-11-06 06:00:28",
@@ -451,22 +451,6 @@
     {
       "added_at": "2026-11-06 06:00:28",
       "album": {
-        "name": "Abr\u00e1zame",
-        "url": "https://open.spotify.com/album/2necl8JtJ9lUI3mXx1zv7L"
-      },
-      "artists": [
-        {
-          "name": "Siddhartha",
-          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
-        }
-      ],
-      "duration_ms": 184654,
-      "name": "Abr\u00e1zame",
-      "url": "https://open.spotify.com/track/3J8zlBElo97VLMiLfufyR8"
-    },
-    {
-      "added_at": "2026-11-06 06:00:28",
-      "album": {
         "name": "Lejos de la Ciudad (Con Los \u00c1ngeles Azules)",
         "url": "https://open.spotify.com/album/2UW6dBX7GAFrN2dnr0KWAX"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 201053,
       "name": "Lejos de la Ciudad (Con Los \u00c1ngeles Azules)",
       "url": "https://open.spotify.com/track/1OV1ubx1Ri4B2sYIPMumJ3"
+    },
+    {
+      "added_at": "2026-11-06 06:00:28",
+      "album": {
+        "name": "Abr\u00e1zame",
+        "url": "https://open.spotify.com/album/2necl8JtJ9lUI3mXx1zv7L"
+      },
+      "artists": [
+        {
+          "name": "Siddhartha",
+          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
+        }
+      ],
+      "duration_ms": 184654,
+      "name": "Abr\u00e1zame",
+      "url": "https://open.spotify.com/track/3J8zlBElo97VLMiLfufyR8"
     },
     {
       "added_at": "2026-11-06 06:00:28",
@@ -543,22 +543,6 @@
     {
       "added_at": "2026-11-06 06:00:28",
       "album": {
-        "name": "ObsesionHada",
-        "url": "https://open.spotify.com/album/46PO600f8MWEJE6FiU0WH0"
-      },
-      "artists": [
-        {
-          "name": "Yeri Mua",
-          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
-        }
-      ],
-      "duration_ms": 151016,
-      "name": "ObsesionHada",
-      "url": "https://open.spotify.com/track/5mwWrANiKqgLNf3fabdLz7"
-    },
-    {
-      "added_at": "2026-11-06 06:00:28",
-      "album": {
         "name": "La Espina",
         "url": "https://open.spotify.com/album/1PxKetu6nc5xn1XtktKOLf"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 206662,
       "name": "La Espina",
       "url": "https://open.spotify.com/track/0707sTVDEe4EjiNOlz9gO4"
+    },
+    {
+      "added_at": "2026-11-06 06:00:28",
+      "album": {
+        "name": "ObsesionHada",
+        "url": "https://open.spotify.com/album/46PO600f8MWEJE6FiU0WH0"
+      },
+      "artists": [
+        {
+          "name": "Yeri Mua",
+          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
+        }
+      ],
+      "duration_ms": 151016,
+      "name": "ObsesionHada",
+      "url": "https://open.spotify.com/track/5mwWrANiKqgLNf3fabdLz7"
     },
     {
       "added_at": "2026-11-06 06:00:28",
@@ -847,22 +847,6 @@
     {
       "added_at": "2026-11-06 06:00:28",
       "album": {
-        "name": "Caer y Levantarse",
-        "url": "https://open.spotify.com/album/7sRTvhUtL6QbVeVNO7BaYa"
-      },
-      "artists": [
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 270925,
-      "name": "Caer y Levantarse",
-      "url": "https://open.spotify.com/track/0FYGlxgKse1U1v5QrfjXwj"
-    },
-    {
-      "added_at": "2026-11-06 06:00:28",
-      "album": {
         "name": "Aplauso",
         "url": "https://open.spotify.com/album/41U2TU0ktIrUCImUc4xqIb"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 232153,
       "name": "Aplauso",
       "url": "https://open.spotify.com/track/3CYxoFeymojAvh8TzgwmOR"
+    },
+    {
+      "added_at": "2026-11-06 06:00:28",
+      "album": {
+        "name": "Caer y Levantarse",
+        "url": "https://open.spotify.com/album/7sRTvhUtL6QbVeVNO7BaYa"
+      },
+      "artists": [
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 270925,
+      "name": "Caer y Levantarse",
+      "url": "https://open.spotify.com/track/0FYGlxgKse1U1v5QrfjXwj"
     },
     {
       "added_at": "2026-11-06 06:00:28",
@@ -943,6 +943,22 @@
     {
       "added_at": "2026-11-06 06:00:28",
       "album": {
+        "name": "Mil A\u00f1os Luz",
+        "url": "https://open.spotify.com/album/6uir6VliMqpzFyufG3XAPo"
+      },
+      "artists": [
+        {
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+        }
+      ],
+      "duration_ms": 252060,
+      "name": "Mil A\u00f1os Luz",
+      "url": "https://open.spotify.com/track/5BkQhPFhDit08E2j3wl62Z"
+    },
+    {
+      "added_at": "2026-11-06 06:00:28",
+      "album": {
         "name": "Diamantes",
         "url": "https://open.spotify.com/album/6kn5ZIUlHA3NBsacObuBiU"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 250006,
       "name": "Diamantes",
       "url": "https://open.spotify.com/track/7IwG40uAh2A39GQtqANRNW"
-    },
-    {
-      "added_at": "2026-11-06 06:00:28",
-      "album": {
-        "name": "Mil A\u00f1os Luz",
-        "url": "https://open.spotify.com/album/6uir6VliMqpzFyufG3XAPo"
-      },
-      "artists": [
-        {
-          "name": "Matisse",
-          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
-        }
-      ],
-      "duration_ms": 252060,
-      "name": "Mil A\u00f1os Luz",
-      "url": "https://open.spotify.com/track/5BkQhPFhDit08E2j3wl62Z"
     },
     {
       "added_at": "2026-11-06 06:00:28",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2026-11-06 06:00:28",
       "album": {
-        "name": "Cuando Estamos Solas",
-        "url": "https://open.spotify.com/album/6yljdwX9QDrD97sdLnD5Rv"
-      },
-      "artists": [
-        {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
-        }
-      ],
-      "duration_ms": 160322,
-      "name": "Cuando Estamos Solas",
-      "url": "https://open.spotify.com/track/36E5cnvLlDtNJTvfhDi5ZX"
-    },
-    {
-      "added_at": "2026-11-06 06:00:28",
-      "album": {
         "name": "Ve y Diles V2 (Remix)",
         "url": "https://open.spotify.com/album/1JP7lfhnwCzHMStiqeL9QV"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 176470,
       "name": "Ve y Diles V2 - Remix",
       "url": "https://open.spotify.com/track/3NO1321RAnd9GmZoJANxlI"
+    },
+    {
+      "added_at": "2026-11-06 06:00:28",
+      "album": {
+        "name": "Cuando Estamos Solas",
+        "url": "https://open.spotify.com/album/6yljdwX9QDrD97sdLnD5Rv"
+      },
+      "artists": [
+        {
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+        }
+      ],
+      "duration_ms": 160322,
+      "name": "Cuando Estamos Solas",
+      "url": "https://open.spotify.com/track/36E5cnvLlDtNJTvfhDi5ZX"
     },
     {
       "added_at": "2026-11-06 06:00:28",

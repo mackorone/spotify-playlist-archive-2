@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。A Collection of Songs by Japanese Women Vocalists\.  cover: 高畑充希
 
-3,942 songs - 10 day 10 hr 40 min
+3,943 songs - 10 day 10 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1026,6 +1026,7 @@
 | [Kick Off](https://open.spotify.com/track/5yc7Vd2kX7H5KRcWZloktL) | [TAMIW](https://open.spotify.com/artist/1OwFxbJhm8V4Sy28ogtS5l) | [Kick Off](https://open.spotify.com/album/2TZNIpSkEzb5tG38CSAJgi) | 4:07 | 2022-12-06 | 2022-12-14 |
 | [KILL LOVE](https://open.spotify.com/track/2OrNoZhXPmWcJQLMyTEjop) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [呪いをかけて、まぼろしをといて。](https://open.spotify.com/album/0m4QPfwdOiuvYojWJuYklp) | 4:45 | 2025-09-09 | 2026-01-24 |
 | [Kill or Kiss](https://open.spotify.com/track/2kLQYErt8QPd4cg2axB7in) | [平手友梨奈](https://open.spotify.com/artist/1sv5H7vUHgpozdrgkL1n4k) | [Kill or Kiss](https://open.spotify.com/album/0oMQOKCOH1errI6cG7HVGn) | 3:05 | 2026-04-14 |  |
+| [KILLA](https://open.spotify.com/track/62QKQ1q60ia1JdRq3z5QLe) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [KILLA](https://open.spotify.com/album/67kLj3jphSXfZpTkPL5UsN) | 3:04 | 2026-11-10 |  |
 | [Killer Purple](https://open.spotify.com/track/13mIGCul6OnkZkLZJoXPDP) | [Mashinomi](https://open.spotify.com/artist/38ekEKl28kPuKUoQqSFlKi), [yuigot](https://open.spotify.com/artist/6JpGvdWdOnLTKuNWqOpYT0) | [Crying High](https://open.spotify.com/album/3hDJ253nf3BbBoCEE3lIxE) | 2:20 | 2024-05-28 | 2024-06-05 |
 | [Killer Word](https://open.spotify.com/track/55YTEATvWRdjUXGkxfdlWB) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Killer Word](https://open.spotify.com/album/5nkuYDrndcdN41UN8QKgkP) | 4:01 | 2023-11-30 | 2023-12-06 |
 | [Killing Me Softly with His Song](https://open.spotify.com/track/2xoKBwwJx439gKKRV8KWXR) | [Beverly](https://open.spotify.com/artist/5AJRsYTgSVuUTT2SbhLLxu) | [Killing Me Softly with His Song](https://open.spotify.com/album/6RKt6CeiXsWMNy5p9AGqMl) | 4:30 | 2024-07-25 | 2024-07-31 |
@@ -2221,7 +2222,7 @@
 | [Yae](https://open.spotify.com/track/6GcVf0wzXw0F1WQx5xXHbb) | [Natsuko Nisshoku](https://open.spotify.com/artist/4GnFg9D7Ds99UI0r5t9PZK) | [HANAYODO \-flower and dust\-](https://open.spotify.com/album/2L8zOjcxhs8D7w04N9XIDe) | 4:21 | 2023-04-04 | 2023-04-19 |
 | [YATTAAMAN](https://open.spotify.com/track/50SXt6w5aZFspG9JqM9Jyp) | [MisiiN](https://open.spotify.com/artist/1AWaERDm3O1qwyVa3NpmXC), [Maika Loubté](https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz) | [YATTAAMAN](https://open.spotify.com/album/6FIcS3fPt11Dn5Xqo3AykX) | 2:51 | 2024-07-09 | 2024-07-17 |
 | [Yellow.](https://open.spotify.com/track/5DavTYGypSFyGYv3zGxwyP) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [Yellow.](https://open.spotify.com/album/2IywDIPk6Q2s9LQlxMpxnt) | 3:09 | 2023-12-14 | 2023-12-20 |
-| [YES](https://open.spotify.com/track/2b8adGbmp6swKDTeySw1eU) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [YES](https://open.spotify.com/album/2MfHhRewq0NNudlThYeOw8) | 5:01 | 2026-05-12 |  |
+| [YES](https://open.spotify.com/track/2b8adGbmp6swKDTeySw1eU) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [YES](https://open.spotify.com/album/2MfHhRewq0NNudlThYeOw8) | 5:01 | 2026-05-12 | 2026-11-13 |
 | [Yes\-No](https://open.spotify.com/track/7MpOq1WicvJIBVJMezQ0x8) | [JUJU](https://open.spotify.com/artist/5VLVogbPeBgFHXQPZQzBej) | [小さな歌](https://open.spotify.com/album/3HkSW9YrKFDeGxz0mTg3nu) | 4:38 | 2025-09-09 | 2025-09-17 |
 | [yesterday](https://open.spotify.com/track/09meCm8RAglUydfbQ5of8w) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [yesterday](https://open.spotify.com/album/5enVYavufYQAqMgsnGWi22) | 3:46 | 2024-10-08 | 2024-11-13 |
 | [YETI](https://open.spotify.com/track/4TFJVIYjTBFAkQKMsPAEUi) | [中野ミホ](https://open.spotify.com/artist/1VGKPNzzfAx82OG0sWXtLS) | [YETI](https://open.spotify.com/album/3AYPP1RzPIXUuOG0EN6fAt) | 4:33 | 2024-07-09 | 2024-07-17 |

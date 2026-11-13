@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "le canzoni di cui siamo ossessionati \ud83d\udc9a Alfa in cover ",
+  "description": "le canzoni di cui siamo ossessionati \ud83d\udc9a Pinguini Tattici Nucleari in cover ",
   "name": "Alta Rotazione",
   "tracks": [
     {
@@ -394,7 +394,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 144100,
       "name": "ADRENALINA",
       "url": "https://open.spotify.com/track/2pULqfE2k1DHr24dtJwMRh"
@@ -692,7 +692,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 265017,
       "name": "Amateur (feat. Salmo)",
       "url": "https://open.spotify.com/track/3lTpJpJwmDwoHlErwU5xZC"
@@ -1695,6 +1695,24 @@
     },
     {
       "album": {
+        "name": "BLU",
+        "url": "https://open.spotify.com/album/2ktDbWsnkegDPBQLPJO9H4"
+      },
+      "artists": [
+        {
+          "name": "Mida",
+          "url": "https://open.spotify.com/artist/2Pr26KMbfrX8zb8Vk6jFHe"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161982,
+      "name": "BLU",
+      "url": "https://open.spotify.com/track/2vQmvvGDjLy8qNzzOE2drg"
+    },
+    {
+      "album": {
         "name": "RYAN TED",
         "url": "https://open.spotify.com/album/2U9mwmcJrUmkIpJm9gq8n7"
       },
@@ -1750,6 +1768,24 @@
       "duration_ms": 160151,
       "name": "bollicine",
       "url": "https://open.spotify.com/track/01SWo42ZIDViMJXB6Hbws7"
+    },
+    {
+      "album": {
+        "name": "BOMBE",
+        "url": "https://open.spotify.com/album/2IFxsGqWZlkOY53q11vDpt"
+      },
+      "artists": [
+        {
+          "name": "Sayf",
+          "url": "https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160594,
+      "name": "BOMBE",
+      "url": "https://open.spotify.com/track/6pnVB2KOEjuJi7Umwef0tj"
     },
     {
       "album": {
@@ -2026,7 +2062,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 187254,
       "name": "BUONA DOMENICA",
       "url": "https://open.spotify.com/track/0mRRblaBsr3Vq79sNfv8Ty"
@@ -2080,7 +2116,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 161454,
       "name": "Cabana",
       "url": "https://open.spotify.com/track/0mky62869TYpIcvQ9NmOtY"
@@ -2730,6 +2766,24 @@
     {
       "album": {
         "name": "Ciao",
+        "url": "https://open.spotify.com/album/3v5ILQF90m4GBWthB3dHnr"
+      },
+      "artists": [
+        {
+          "name": "Elisa",
+          "url": "https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241028,
+      "name": "Ciao",
+      "url": "https://open.spotify.com/track/39lyoUGAYKAwVNUNEoHdYr"
+    },
+    {
+      "album": {
+        "name": "Ciao",
         "url": "https://open.spotify.com/album/04Ym8yzWO8fJmP1emtBuKV"
       },
       "artists": [
@@ -2972,7 +3026,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 207831,
       "name": "Comuni Immortali",
       "url": "https://open.spotify.com/track/1VsUaDLGDWdaITdEB8BZmY"
@@ -3020,6 +3074,28 @@
       "duration_ms": 166366,
       "name": "CONTA SU DI ME",
       "url": "https://open.spotify.com/track/7HKqAt1GaGbdXKmqhRwcR4"
+    },
+    {
+      "album": {
+        "name": "Amateur",
+        "url": "https://open.spotify.com/album/4wTAb0EVZi1ppAnGeJ0e9t"
+      },
+      "artists": [
+        {
+          "name": "Cesare Cremonini",
+          "url": "https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T"
+        },
+        {
+          "name": "Malika Ayane",
+          "url": "https://open.spotify.com/artist/5jcswtptZttxBwWKXbR5k5"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289314,
+      "name": "Cose molto piccole (feat. Malika Ayane)",
+      "url": "https://open.spotify.com/track/2Bqr7eNrzWIOXSZTvSSayc"
     },
     {
       "album": {
@@ -3212,6 +3288,28 @@
       "duration_ms": 173415,
       "name": "Da Dio",
       "url": "https://open.spotify.com/track/7pzx95tPu1njhmM6IoR6Al"
+    },
+    {
+      "album": {
+        "name": "TUTTO BENE GRAZIE",
+        "url": "https://open.spotify.com/album/2epZi9msVLcyAaoVVzexzv"
+      },
+      "artists": [
+        {
+          "name": "sangiovanni",
+          "url": "https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP"
+        },
+        {
+          "name": "Alfa",
+          "url": "https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170915,
+      "name": "da domani (feat. Alfa)",
+      "url": "https://open.spotify.com/track/6LxK7gHUo3z4tG5Lm9QV4Y"
     },
     {
       "album": {
@@ -7670,7 +7768,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 175625,
       "name": "Mano Nella Mano (con Fulminacci)",
       "url": "https://open.spotify.com/track/0T6gmN1rupoIxcEI5mqyCg"
@@ -8087,6 +8185,24 @@
     },
     {
       "album": {
+        "name": "MI PRIMER AMOR",
+        "url": "https://open.spotify.com/album/5yOp9Wy96TDQnQ2Wi35oKk"
+      },
+      "artists": [
+        {
+          "name": "Cate Lumina",
+          "url": "https://open.spotify.com/artist/3EAlQVh9v7qGWoImwqgrYf"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "MI PRIMER AMOR",
+      "url": "https://open.spotify.com/track/7as8jAfzaldgkA04fVE5DV"
+    },
+    {
+      "album": {
         "name": "Tana",
         "url": "https://open.spotify.com/album/1mfvkuYG4BB9qeJpbaWNOh"
       },
@@ -8368,7 +8484,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 194989,
       "name": "Monete e bottoni",
       "url": "https://open.spotify.com/track/3MVod6kqB2E2VU1xrK9Hyj"
@@ -9343,6 +9459,24 @@
     },
     {
       "album": {
+        "name": "Ogni volta che sei qui",
+        "url": "https://open.spotify.com/album/2HRXpgU3gFAgWQJ3B3aecf"
+      },
+      "artists": [
+        {
+          "name": "Gazzelle",
+          "url": "https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193660,
+      "name": "Ogni volta che sei qui",
+      "url": "https://open.spotify.com/track/3QbXXz5oHwE8MYPhAQ2uy9"
+    },
+    {
+      "album": {
         "name": "OH MA",
         "url": "https://open.spotify.com/album/1BjNwysLqaHy252RUVsLjA"
       },
@@ -9456,7 +9590,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 157405,
       "name": "ok buonanotte",
       "url": "https://open.spotify.com/track/3D3tkwn0dPmNUg0R0o8qG7"
@@ -11474,7 +11608,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 144939,
       "name": "ROSE NERE",
       "url": "https://open.spotify.com/track/3LQRj8zNgaOmzMzm4eokRF"
@@ -12058,6 +12192,24 @@
       "duration_ms": 316251,
       "name": "Senza se e senza ma - BROOKLYN STUDIO, JOVA SESSION 25",
       "url": "https://open.spotify.com/track/7w8gx5kBSpKOolSYHykwau"
+    },
+    {
+      "album": {
+        "name": "Senza tregua",
+        "url": "https://open.spotify.com/album/2OIyM7cAW9NwO0RiJg3bDy"
+      },
+      "artists": [
+        {
+          "name": "ANTONIA",
+          "url": "https://open.spotify.com/artist/7FHXOCS4B6dXsf5x3KmRr0"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144842,
+      "name": "Senza tregua",
+      "url": "https://open.spotify.com/track/4Puo8pyv152VIsyFrkT0pq"
     },
     {
       "album": {
@@ -14508,6 +14660,24 @@
       "duration_ms": 208500,
       "name": "VIENNAR\u00cc",
       "url": "https://open.spotify.com/track/4jiplAN9NaGsapfWZED45b"
+    },
+    {
+      "album": {
+        "name": "Magia Bianca, Magia Nera",
+        "url": "https://open.spotify.com/album/1A5BFtt4pcKnJy0qAHvUDE"
+      },
+      "artists": [
+        {
+          "name": "Francesca Michielin",
+          "url": "https://open.spotify.com/artist/4jFlmD92WULLlaRS8Cj6QS"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186850,
+      "name": "Viriditas",
+      "url": "https://open.spotify.com/track/0VKyU8AuGvExEz2XuykTbo"
     },
     {
       "album": {

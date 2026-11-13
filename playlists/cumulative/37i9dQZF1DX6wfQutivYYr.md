@@ -2,9 +2,9 @@
 
 ### [Hot Hits Italia](https://open.spotify.com/playlist/37i9dQZF1DX6wfQutivYYr)
 
-> ADÉLA  in cover della playlist con tutte le hit 🔥
+> Tate McRae  in cover della playlist con tutte le hit 🔥
 
-389 songs - 20 hr 20 min
+390 songs - 20 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [2 GIORNI DI FILA \(feat\. Sfera Ebbasta, ANNA\)](https://open.spotify.com/track/5CqjSq1ZJFPWxonCeZPyRk) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [TUTTO È POSSIBILE](https://open.spotify.com/album/5EKYDOBrlVJlvMGEgdgytB) | 3:31 | 2026-01-16 | 2026-06-09 |
 | [2 GIORNI DI FILA \(feat\. Sfera Ebbasta, ANNA\)](https://open.spotify.com/track/6S9jhAReGPzub7RkRbv8HM) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [TUTTO È POSSIBILE](https://open.spotify.com/album/58OUscdI2nOUKFpoPlp2eb) | 3:31 | 2026-05-29 | 2026-06-04 |
 | [30ºC](https://open.spotify.com/track/5eyL6waluu7hXrRrWewBFU) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [30ºC](https://open.spotify.com/album/66o9NYg61y0te154pzWWth) | 2:22 | 2024-06-28 | 2024-11-16 |
+| [7/7](https://open.spotify.com/track/5P39MpRYjtD28Q3xPbK9E2) | [Frezza](https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W) | [7/7](https://open.spotify.com/album/1we0yt2pmpz84YEIboKAan) | 2:35 | 2026-11-12 |  |
 | [7ELEVEN](https://open.spotify.com/track/27teXnNekA5jBFLCcsCFoq) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [BIG 5](https://open.spotify.com/album/4Are0mNScwygiibFFK39db) | 2:07 | 2025-07-28 | 2025-12-06 |
 | [A Lei](https://open.spotify.com/track/50uGP4Bs22S1iPNn1hTo3R) | [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Fritu](https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF) | [Mafia Slime 2](https://open.spotify.com/album/3lWXS1KGNgGSvBU9lpwkFI) | 3:05 | 2025-01-21 | 2025-02-18 |
 | [a me mi piace \(feat\. Manu Chao\)](https://open.spotify.com/track/2QtnkkxwmsGm84fPAx8uTP) | [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7), [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [a me mi piace](https://open.spotify.com/album/50KsSqMmKIcModa3dbbNzW) | 2:20 | 2025-05-15 | 2026-02-27 |
@@ -146,7 +147,7 @@
 | [FENTANYL \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/4kDi7X5sgqF0aM74aPBWSc) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [LOCURA](https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj) | 3:08 | 2024-09-20 | 2024-12-03 |
 | [FINALE DIVERSO \(feat\. Shiva\)](https://open.spotify.com/track/5fJioNT3gcSavYrplGXmqF) | [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Sine](https://open.spotify.com/artist/4IEJn7FhTQoNgvSlBH8H6n) | [FUNNY GAMES](https://open.spotify.com/album/4V8qhBg6rU8kd1THoGf2Pf) | 2:58 | 2025-12-04 | 2026-01-15 |
 | [Fino All'Alba](https://open.spotify.com/track/5nvVV6XRIWs4DNVAQfxElX) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [Takagi & Ketra](https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx) | [Fino All'Alba](https://open.spotify.com/album/38LPofTed054HS3S5VyoeT) | 2:37 | 2024-07-18 | 2024-11-16 |
-| [FLAMENCO PARANOIA](https://open.spotify.com/track/549DrPfwUQuZB3q53WQh1z) | [Samurai Jay](https://open.spotify.com/artist/2n0Ki4A5tKTEloq3WCt1IH), [Vito Salamanca](https://open.spotify.com/artist/2QJ1AReDewmz4fcRhGxW6Y) | [AMATORE](https://open.spotify.com/album/0Put06lJPKgGFHmMntdV7f) | 2:44 | 2026-06-25 |  |
+| [FLAMENCO PARANOIA](https://open.spotify.com/track/549DrPfwUQuZB3q53WQh1z) | [Samurai Jay](https://open.spotify.com/artist/2n0Ki4A5tKTEloq3WCt1IH), [Vito Salamanca](https://open.spotify.com/artist/2QJ1AReDewmz4fcRhGxW6Y) | [AMATORE](https://open.spotify.com/album/0Put06lJPKgGFHmMntdV7f) | 2:44 | 2026-06-25 | 2026-11-13 |
 | [Floyd Mayweather \(feat\. Papa V e Nerissima Serpe\)](https://open.spotify.com/track/3xrtjStNBOWioe7CN7YMDy) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB) | [Hustle Mixtape Vol\. 2](https://open.spotify.com/album/4BmvCSV4ZqsnyAcQQQnv0S) | 3:03 | 2025-11-05 | 2025-11-14 |
 | [FOTOGRAFIA](https://open.spotify.com/track/78F6s5j8febWk0ICOAIxjM) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [FOTOGRAFIA](https://open.spotify.com/album/33uyidreFCPnfn0sgERJeR) | 3:44 | 2025-11-07 | 2026-02-26 |
 | [Freedom](https://open.spotify.com/track/643MFa7QJyJw8muzkfnZOP) | [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7) | [Miria](https://open.spotify.com/album/3vqJiPXRqAfrzRE0EPDXCR) | 3:04 | 2026-10-15 |  |

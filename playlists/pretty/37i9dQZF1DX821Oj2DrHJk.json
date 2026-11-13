@@ -1,6 +1,6 @@
 {
   "description": "Rock on repeat during the summers of the 1970s.",
-  "num_followers": 32638,
+  "num_followers": 32640,
   "original_name": "70s Summer Rock",
   "owner": {
     "name": "Spotify",
@@ -639,22 +639,6 @@
     {
       "added_at": "2024-07-12 14:53:15",
       "album": {
-        "name": "Bachman-Turner Overdrive II",
-        "url": "https://open.spotify.com/album/1p2tbwfEfN8kZNOi4F3bGH"
-      },
-      "artists": [
-        {
-          "name": "Bachman-Turner Overdrive",
-          "url": "https://open.spotify.com/artist/5q4AzEtCoYJyXjMMoEkSU5"
-        }
-      ],
-      "duration_ms": 289893,
-      "name": "Takin' Care Of Business",
-      "url": "https://open.spotify.com/track/0lzNXoZINVBLHWNIxKxWOo"
-    },
-    {
-      "added_at": "2024-07-12 14:53:15",
-      "album": {
         "name": "Double Vision (Expanded)",
         "url": "https://open.spotify.com/album/6lu6DYE0eHHp1gd3QGUYhu"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 268693,
       "name": "Hot Blooded",
       "url": "https://open.spotify.com/track/6xMHglHoafdDFGXS6qfwSH"
+    },
+    {
+      "added_at": "2024-07-12 14:53:15",
+      "album": {
+        "name": "Bachman-Turner Overdrive II",
+        "url": "https://open.spotify.com/album/1p2tbwfEfN8kZNOi4F3bGH"
+      },
+      "artists": [
+        {
+          "name": "Bachman-Turner Overdrive",
+          "url": "https://open.spotify.com/artist/5q4AzEtCoYJyXjMMoEkSU5"
+        }
+      ],
+      "duration_ms": 289893,
+      "name": "Takin' Care Of Business",
+      "url": "https://open.spotify.com/track/0lzNXoZINVBLHWNIxKxWOo"
     },
     {
       "added_at": "2024-07-12 14:53:15",
@@ -815,22 +815,6 @@
     {
       "added_at": "2024-07-12 14:53:15",
       "album": {
-        "name": "Desolation Angels (2009 Remaster)",
-        "url": "https://open.spotify.com/album/1yNIJqbC4vSPFcc8mKEWZp"
-      },
-      "artists": [
-        {
-          "name": "Bad Company",
-          "url": "https://open.spotify.com/artist/5AEG63ajney2BoDXi0Vb84"
-        }
-      ],
-      "duration_ms": 197466,
-      "name": "Rock 'n' Roll Fantasy - 2009 Remaster",
-      "url": "https://open.spotify.com/track/71GMl3Q7U4JnrTqI9kfcoN"
-    },
-    {
-      "added_at": "2024-07-12 14:53:15",
-      "album": {
         "name": "Candy-O",
         "url": "https://open.spotify.com/album/4UFgeduzEZegQE74xUwI6J"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 213173,
       "name": "Let's Go",
       "url": "https://open.spotify.com/track/43G3McVkRa8V7oGQzfQuRr"
+    },
+    {
+      "added_at": "2024-07-12 14:53:15",
+      "album": {
+        "name": "Desolation Angels (2009 Remaster)",
+        "url": "https://open.spotify.com/album/1yNIJqbC4vSPFcc8mKEWZp"
+      },
+      "artists": [
+        {
+          "name": "Bad Company",
+          "url": "https://open.spotify.com/artist/5AEG63ajney2BoDXi0Vb84"
+        }
+      ],
+      "duration_ms": 197466,
+      "name": "Rock 'n' Roll Fantasy - 2009 Remaster",
+      "url": "https://open.spotify.com/track/71GMl3Q7U4JnrTqI9kfcoN"
     },
     {
       "added_at": "2024-07-12 14:53:15",
@@ -911,22 +911,6 @@
     {
       "added_at": "2024-07-12 14:53:15",
       "album": {
-        "name": "Cat Scratch Fever",
-        "url": "https://open.spotify.com/album/5vndJ1bTQkvu3HZaJjgomB"
-      },
-      "artists": [
-        {
-          "name": "Ted Nugent",
-          "url": "https://open.spotify.com/artist/21ysNsPzHdqYN2fQ75ZswG"
-        }
-      ],
-      "duration_ms": 219400,
-      "name": "Cat Scratch Fever",
-      "url": "https://open.spotify.com/track/0SvfyHYDp2uIsHt53LDlI9"
-    },
-    {
-      "added_at": "2024-07-12 14:53:15",
-      "album": {
         "name": "Never Mind The Bollocks, Here\u2019s The Sex Pistols",
         "url": "https://open.spotify.com/album/6ggO3YVhyonYuFWUPBRyIv"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 197613,
       "name": "Pretty Vacant",
       "url": "https://open.spotify.com/track/21rz5LMBiIpQWRGQcb0xIg"
+    },
+    {
+      "added_at": "2024-07-12 14:53:15",
+      "album": {
+        "name": "Cat Scratch Fever",
+        "url": "https://open.spotify.com/album/5vndJ1bTQkvu3HZaJjgomB"
+      },
+      "artists": [
+        {
+          "name": "Ted Nugent",
+          "url": "https://open.spotify.com/artist/21ysNsPzHdqYN2fQ75ZswG"
+        }
+      ],
+      "duration_ms": 219400,
+      "name": "Cat Scratch Fever",
+      "url": "https://open.spotify.com/track/0SvfyHYDp2uIsHt53LDlI9"
     },
     {
       "added_at": "2024-07-12 14:53:15",
@@ -1087,18 +1087,18 @@
     {
       "added_at": "2024-07-12 14:53:15",
       "album": {
-        "name": "Smashes Thrashes & Hits",
-        "url": "https://open.spotify.com/album/2TrudRaCE8XYG56z1Xbmh6"
+        "name": "Wizzard Brew",
+        "url": "https://open.spotify.com/album/4nDZxxwsvUNhJUmBhhec4N"
       },
       "artists": [
         {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+          "name": "Wizzard",
+          "url": "https://open.spotify.com/artist/7823Dim2TzjiQQ9wRQxyi9"
         }
       ],
-      "duration_ms": 228560,
-      "name": "Detroit Rock City",
-      "url": "https://open.spotify.com/track/3uz0O62HqYoyRiWZjS61KK"
+      "duration_ms": 302333,
+      "name": "See My Baby Jive - 2006 Remaster",
+      "url": "https://open.spotify.com/track/6cg3CWWHTui9KAew9dHIjT"
     },
     {
       "added_at": "2024-07-12 14:53:15",
@@ -1119,18 +1119,18 @@
     {
       "added_at": "2024-07-12 14:53:15",
       "album": {
-        "name": "Wizzard Brew",
-        "url": "https://open.spotify.com/album/4nDZxxwsvUNhJUmBhhec4N"
+        "name": "Smashes Thrashes & Hits",
+        "url": "https://open.spotify.com/album/2TrudRaCE8XYG56z1Xbmh6"
       },
       "artists": [
         {
-          "name": "Wizzard",
-          "url": "https://open.spotify.com/artist/7823Dim2TzjiQQ9wRQxyi9"
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
         }
       ],
-      "duration_ms": 302333,
-      "name": "See My Baby Jive - 2006 Remaster",
-      "url": "https://open.spotify.com/track/6cg3CWWHTui9KAew9dHIjT"
+      "duration_ms": 228560,
+      "name": "Detroit Rock City",
+      "url": "https://open.spotify.com/track/3uz0O62HqYoyRiWZjS61KK"
     },
     {
       "added_at": "2024-07-12 14:53:15",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2024-07-12 14:53:15",
       "album": {
-        "name": "A Day At The Races (Deluxe Edition 2011 Remaster)",
-        "url": "https://open.spotify.com/album/4KZGe18wZJbXL6JLW4KyLc"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 173173,
-      "name": "Good Old-Fashioned Lover Boy - Remastered 2011",
-      "url": "https://open.spotify.com/track/1n7xFAY4xoPeqRvrkzAtsw"
-    },
-    {
-      "added_at": "2024-07-12 14:53:15",
-      "album": {
         "name": "Made In The Shade",
         "url": "https://open.spotify.com/album/2IP71ETmY8bjS3VYYXcidI"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 229626,
       "name": "Brown Sugar - 2005 Digital Remaster",
       "url": "https://open.spotify.com/track/7bdBuquSmLkOR81YMSuRV5"
+    },
+    {
+      "added_at": "2024-07-12 14:53:15",
+      "album": {
+        "name": "A Day At The Races (Deluxe Edition 2011 Remaster)",
+        "url": "https://open.spotify.com/album/4KZGe18wZJbXL6JLW4KyLc"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 173173,
+      "name": "Good Old-Fashioned Lover Boy - Remastered 2011",
+      "url": "https://open.spotify.com/track/1n7xFAY4xoPeqRvrkzAtsw"
     },
     {
       "added_at": "2024-07-12 14:53:15",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2024-07-12 14:53:15",
       "album": {
-        "name": "A Night At The Opera (2011 Remaster)",
-        "url": "https://open.spotify.com/album/1GbtB4zTqAsyfZEsm1RZfx"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 170786,
-      "name": "You're My Best Friend - Remastered 2011",
-      "url": "https://open.spotify.com/track/4vhVDkSx9RSb2k6mWFMYNI"
-    },
-    {
-      "added_at": "2024-07-12 14:53:15",
-      "album": {
         "name": "15 Classic Tracks: Mud",
         "url": "https://open.spotify.com/album/3LLikLI6t1Wh8zXiQ56OvU"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 201560,
       "name": "Moonshine Sally",
       "url": "https://open.spotify.com/track/68AHScwgPtIxHOZnljOTZ3"
+    },
+    {
+      "added_at": "2024-07-12 14:53:15",
+      "album": {
+        "name": "A Night At The Opera (2011 Remaster)",
+        "url": "https://open.spotify.com/album/1GbtB4zTqAsyfZEsm1RZfx"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 170786,
+      "name": "You're My Best Friend - Remastered 2011",
+      "url": "https://open.spotify.com/track/4vhVDkSx9RSb2k6mWFMYNI"
     },
     {
       "added_at": "2024-07-12 14:53:15",

@@ -1,6 +1,6 @@
 {
   "description": "Modern heavenly sounds. Cover: L'Rain",
-  "num_followers": 1596545,
+  "num_followers": 1596432,
   "original_name": "Ethereal",
   "owner": {
     "name": "Spotify",
@@ -783,22 +783,6 @@
     {
       "added_at": "2026-09-17 20:11:13",
       "album": {
-        "name": "Miss",
-        "url": "https://open.spotify.com/album/1FzOkO7pp3y2Q8BXffpLsb"
-      },
-      "artists": [
-        {
-          "name": "Florence Road",
-          "url": "https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV"
-        }
-      ],
-      "duration_ms": 217700,
-      "name": "Miss",
-      "url": "https://open.spotify.com/track/7vBOMoBKb6InbMdQiFwRCO"
-    },
-    {
-      "added_at": "2026-09-17 20:11:13",
-      "album": {
         "name": "WILLOW",
         "url": "https://open.spotify.com/album/4B2pV5Zds6478QOqA8yqdj"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 143640,
       "name": "Time Machine",
       "url": "https://open.spotify.com/track/1jVjOcs7QeQZJXScbqvofI"
+    },
+    {
+      "added_at": "2026-09-17 20:11:13",
+      "album": {
+        "name": "Miss",
+        "url": "https://open.spotify.com/album/1FzOkO7pp3y2Q8BXffpLsb"
+      },
+      "artists": [
+        {
+          "name": "Florence Road",
+          "url": "https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV"
+        }
+      ],
+      "duration_ms": 217700,
+      "name": "Miss",
+      "url": "https://open.spotify.com/track/7vBOMoBKb6InbMdQiFwRCO"
     },
     {
       "added_at": "2026-09-17 20:11:13",
@@ -1135,22 +1135,18 @@
     {
       "added_at": "2026-09-17 20:11:13",
       "album": {
-        "name": "NO SZNS",
-        "url": "https://open.spotify.com/album/05kT1p6wyim40HJVzg7tt3"
+        "name": "Heavy Heads",
+        "url": "https://open.spotify.com/album/53oI2Smb1pZKWACrwf7ixf"
       },
       "artists": [
         {
-          "name": "Jean Dawson",
-          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+          "name": "Orca",
+          "url": "https://open.spotify.com/artist/3c2nSvBJwDuvmxFBKlc854"
         }
       ],
-      "duration_ms": 213026,
-      "name": "NO SZNS",
-      "url": "https://open.spotify.com/track/0dn6S6lJqAIQg90kMmWtVj"
+      "duration_ms": 211764,
+      "name": "Heavy Heads",
+      "url": "https://open.spotify.com/track/5dNDBm3dVxo2Zemw9SC1TR"
     },
     {
       "added_at": "2026-09-17 20:11:13",
@@ -1171,18 +1167,22 @@
     {
       "added_at": "2026-09-17 20:11:13",
       "album": {
-        "name": "Heavy Heads",
-        "url": "https://open.spotify.com/album/53oI2Smb1pZKWACrwf7ixf"
+        "name": "NO SZNS",
+        "url": "https://open.spotify.com/album/05kT1p6wyim40HJVzg7tt3"
       },
       "artists": [
         {
-          "name": "Orca",
-          "url": "https://open.spotify.com/artist/3c2nSvBJwDuvmxFBKlc854"
+          "name": "Jean Dawson",
+          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 211764,
-      "name": "Heavy Heads",
-      "url": "https://open.spotify.com/track/5dNDBm3dVxo2Zemw9SC1TR"
+      "duration_ms": 213026,
+      "name": "NO SZNS",
+      "url": "https://open.spotify.com/track/0dn6S6lJqAIQg90kMmWtVj"
     },
     {
       "added_at": "2026-09-17 20:11:13",

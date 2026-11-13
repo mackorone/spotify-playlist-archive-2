@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > 日本ロックシーンの話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: サンボマスター Tatsuya Kitani
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,866 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,875 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 48 | [ふれる](https://open.spotify.com/track/41IYePCc4p7PJqwwdfUEWZ) | [w.o.d.](https://open.spotify.com/artist/06sqnZl2EzpyIamhM1u3eO) | [ふれる](https://open.spotify.com/album/0lu92aGMIuh1LPHCNHamvu) | 4:12 |
 | 49 | [リベラシオン](https://open.spotify.com/track/0QCqWFSzw5lhvldul7ZaEA) | [the dresscodes](https://open.spotify.com/artist/2qmqi8B4pdSyjBc7lNBBiO) | [リベラシオン](https://open.spotify.com/album/34KgxnhqXVbMlkzjR2jMI5) | 3:20 |
 | 50 | [99](https://open.spotify.com/track/0X87OpfgCHDskp78eMUCAx) | [KAMI WA SAIKORO WO FURANAI](https://open.spotify.com/artist/2FqdskWqZqDdlSnAIo9BGA) | [99](https://open.spotify.com/album/1TAXj57dnpYNZsmc7aAI0R) | 3:15 |
-| 51 | [tonariai](https://open.spotify.com/track/55lSYn8928dCWPcUP2vDLq) | [Be my Girl](https://open.spotify.com/artist/0f1g7262npe7ZCidh6zdEx) | [隣愛](https://open.spotify.com/album/1mCdkc5C4rsQHN3DJDtpp5) | 5:17 |
+| 51 | [隣愛](https://open.spotify.com/track/55lSYn8928dCWPcUP2vDLq) | [Be my Girl](https://open.spotify.com/artist/0f1g7262npe7ZCidh6zdEx) | [隣愛](https://open.spotify.com/album/1mCdkc5C4rsQHN3DJDtpp5) | 5:17 |
 | 52 | [TABOO](https://open.spotify.com/track/0P9212Fmc1cb3LtaUTnles) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [あたまご](https://open.spotify.com/album/0ZlbviG8bVZ7nCO9XPEyGH) | 3:31 |
 | 53 | [DREAM OF BUTTERFLY](https://open.spotify.com/track/611IQQ87evnbCgEFY9Cail) | [FZMZ](https://open.spotify.com/artist/0RrQBLmeSCUkYFs0vncrhb) | [DREAM OF BUTTERFLY](https://open.spotify.com/album/6yUwXez9a1xA0RY7D81rsy) | 2:57 |
 | 54 | [DALALA](https://open.spotify.com/track/3fOz3ecK1RMlPAZ3PYVqoM) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [HOOMAN AFTER ALL](https://open.spotify.com/album/5nm1PXUkNGH3nsNWL0sOJA) | 3:37 |

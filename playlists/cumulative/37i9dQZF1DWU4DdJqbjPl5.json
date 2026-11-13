@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "Intersection of R&B and afrobeats. Cover: Fireboy DML",
+  "description": "Intersection of R&B and afrobeats. Cover: DJ Tunez",
   "name": "afro&b ",
   "tracks": [
     {
@@ -1567,6 +1567,32 @@
     },
     {
       "album": {
+        "name": "NBO \u2018X\u2019 PRESS",
+        "url": "https://open.spotify.com/album/6czwEju8FIEBB8PMMuzpl8"
+      },
+      "artists": [
+        {
+          "name": "Xenia Manasseh",
+          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
+        },
+        {
+          "name": "Maali",
+          "url": "https://open.spotify.com/artist/0Bw2d3PrLLqnor0Y9tt9vk"
+        },
+        {
+          "name": "Hendrick Sam",
+          "url": "https://open.spotify.com/artist/3JCq2a0rntSwS9gtnhfNO9"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Bitter Sweet",
+      "url": "https://open.spotify.com/track/1qDz5NiUD1smerTp0bg6hA"
+    },
+    {
+      "album": {
         "name": "Lustropolis",
         "url": "https://open.spotify.com/album/4mFLlS3vDHSxAtnLRMmOrq"
       },
@@ -2871,6 +2897,24 @@
     },
     {
       "album": {
+        "name": "DISTANCE",
+        "url": "https://open.spotify.com/album/3DKZQZ18DoO9d78SVEa3WK"
+      },
+      "artists": [
+        {
+          "name": "Libianca",
+          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132480,
+      "name": "DISTANCE",
+      "url": "https://open.spotify.com/track/3N0U4QtIj3mtQEta7u8Cyv"
+    },
+    {
+      "album": {
         "name": "Dive In",
         "url": "https://open.spotify.com/album/4sYyq8J4gHzzTIoYg2Bxos"
       },
@@ -2998,6 +3042,24 @@
       "duration_ms": 211533,
       "name": "Don't Say the Words",
       "url": "https://open.spotify.com/track/0N1QCR8ixCrfJq61xeNoot"
+    },
+    {
+      "album": {
+        "name": "Girl From The West",
+        "url": "https://open.spotify.com/album/4frT3p7rhaAyLgtRSIO2U2"
+      },
+      "artists": [
+        {
+          "name": "Solana",
+          "url": "https://open.spotify.com/artist/3l476od4bTSjScrR20hpjR"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157419,
+      "name": "Don't Want",
+      "url": "https://open.spotify.com/track/1a4kuAuM9rMX49yalPL3at"
     },
     {
       "album": {
@@ -7440,7 +7502,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 190000,
       "name": "Malaika",
       "url": "https://open.spotify.com/track/73HnH8p7dahNXGFIaDoMTz"
@@ -9232,7 +9294,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 324250,
       "name": "Place I Go To",
       "url": "https://open.spotify.com/track/43kHmYAXTofGm3P1mNr0bf"
@@ -10461,6 +10523,36 @@
     },
     {
       "album": {
+        "name": "In Tunez We Trust Vol. 1",
+        "url": "https://open.spotify.com/album/7juWJSfCEy4gJ5AfQF63RO"
+      },
+      "artists": [
+        {
+          "name": "DJ Tunez",
+          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
+        },
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        },
+        {
+          "name": "Mannywellz",
+          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
+        },
+        {
+          "name": "Kemuel",
+          "url": "https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255937,
+      "name": "Simple Things",
+      "url": "https://open.spotify.com/track/5ME3jQi30fwnouAbfw5Yiv"
+    },
+    {
+      "album": {
         "name": "Sinner",
         "url": "https://open.spotify.com/album/1kpkSvYRz40cdD1GvfN7OJ"
       },
@@ -11662,7 +11754,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 307660,
       "name": "Throw Something",
       "url": "https://open.spotify.com/track/5Ahzftt1kLGb1daMiLOk8e"
@@ -11962,6 +12054,24 @@
       "duration_ms": 287908,
       "name": "Toxic Arms",
       "url": "https://open.spotify.com/track/4I2IFTF3PzcpnP3q6J2GHS"
+    },
+    {
+      "album": {
+        "name": "DON'T DISTURB THE GROOVE: AFROSOUL (DELUXE)",
+        "url": "https://open.spotify.com/album/6qVzB5GJrWScu2kZUkfVwn"
+      },
+      "artists": [
+        {
+          "name": "THEHONESTGUY",
+          "url": "https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222697,
+      "name": "TRAIL OF BROKEN HEARTS",
+      "url": "https://open.spotify.com/track/7FOOCtzEzy31Z6JJpdeW7O"
     },
     {
       "album": {

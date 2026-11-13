@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u5169\u4eba\u6210\u7d44\u3001\u4e09\u4eba\u6210\u5718\uff0c\u786c\u5730\u4e3b\u6d41\u90fd\u5728\u53f0\u7063\u958b\u82b1\uff01\u98a8\u683c\u8c50\u5bcc\u529b\u91cf\u5927\uff01Cover: Tizzy Bac",
+  "description": "\u5169\u4eba\u6210\u7d44\u3001\u4e09\u4eba\u6210\u5718\uff0c\u786c\u5730\u4e3b\u6d41\u90fd\u5728\u53f0\u7063\u958b\u82b1\uff01\u98a8\u683c\u8c50\u5bcc\u529b\u91cf\u5927\uff01Cover: iF",
   "name": "\u7d44\u5718\u98c6\u6b4c",
   "tracks": [
     {
@@ -2137,6 +2137,24 @@
     },
     {
       "album": {
+        "name": "Goodbye",
+        "url": "https://open.spotify.com/album/6OqwluYPyREXwd7ZXOf8ik"
+      },
+      "artists": [
+        {
+          "name": "\u7f8a\u7c73\u4eba YUMMY MAN",
+          "url": "https://open.spotify.com/artist/5OmWkLnsbfJMTgKY21S9Co"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273582,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/4rBvzu54hsPsagnh47sH7R"
+    },
+    {
+      "album": {
         "name": "Hackery",
         "url": "https://open.spotify.com/album/7u7NRI7T7L6EoJVv9yLX4b"
       },
@@ -2462,6 +2480,24 @@
       "duration_ms": 210535,
       "name": "I'm not Elvis",
       "url": "https://open.spotify.com/track/1izr6wtl16ptV3aQrIN9V9"
+    },
+    {
+      "album": {
+        "name": "Far Motor Luminescence",
+        "url": "https://open.spotify.com/album/0tRTJvW0i72fVWatAUaekd"
+      },
+      "artists": [
+        {
+          "name": "\u6211\u5922\u898b\u9577\u9838\u9e7f\u5c0d\u6211\u8aaa",
+          "url": "https://open.spotify.com/artist/5QfFcgiiDqsrl6CUPOYkvn"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292875,
+      "name": "In My Mind",
+      "url": "https://open.spotify.com/track/6M1rdMgZjNNC1WfV0394Bu"
     },
     {
       "album": {
@@ -3900,7 +3936,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 259603,
       "name": "Really Not",
       "url": "https://open.spotify.com/track/0dvelPOEctgO6ixprB0YLO"
@@ -4710,10 +4746,28 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 285770,
       "name": "Stadium Rocked and Rolled (Liu Ying Sessions)",
       "url": "https://open.spotify.com/track/3ih2pc8DiDnyblMxF7zFOg"
+    },
+    {
+      "album": {
+        "name": "Stars and Sunshine",
+        "url": "https://open.spotify.com/album/7oM0Xefh3tmPJOgH7soUVM"
+      },
+      "artists": [
+        {
+          "name": "BUTTER RIOT",
+          "url": "https://open.spotify.com/artist/25Y2nEOfYkJ8OCSHf36nuX"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186418,
+      "name": "Stars and Sunshine",
+      "url": "https://open.spotify.com/track/0YfSZLqh9dCLk40dpo10nf"
     },
     {
       "album": {
@@ -6222,7 +6276,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 200789,
       "name": "\u4e0d\u60f3\u9577\u5927\uff0c\u4e5f\u4e0d\u60f3\u4e00\u76f4\u9019\u6a23",
       "url": "https://open.spotify.com/track/1sTjWwCtnHBiVs60iH2byj"
@@ -6842,7 +6896,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 253717,
       "name": "\u4f60\u5230\u5e95\u5728\u9078\u64c7\u4ec0\u9ebc",
       "url": "https://open.spotify.com/track/3tKi1rBzT8RPtAyId7iOJ7"
@@ -8619,6 +8673,24 @@
     },
     {
       "album": {
+        "name": "\u53ea\u5269\u5f8c\u6094\u5728\u7b49\u5f85",
+        "url": "https://open.spotify.com/album/5tOsVckeTIy9CijotMFPPq"
+      },
+      "artists": [
+        {
+          "name": "TRASH",
+          "url": "https://open.spotify.com/artist/3KZMUYrA5eIfgZdIFRmNe4"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281345,
+      "name": "\u53ea\u5269\u5f8c\u6094\u5728\u7b49\u5f85",
+      "url": "https://open.spotify.com/track/7FZDUwHOMnPU9ChFYXSov5"
+    },
+    {
+      "album": {
         "name": "\u53ea\u60f3\u5c0d\u4f60\u5531\u9996\u9127\u9e97\u541b (\u96fb\u5f71\u300a\u5929\u4f5c\u4e4b\u5408\u300b\u4e2d\u6587\u4e3b\u984c\u66f2)",
         "url": "https://open.spotify.com/album/265IJdzkedf8T8SrD9ftda"
       },
@@ -9480,6 +9552,24 @@
       "duration_ms": 276336,
       "name": "\u5927\u98a8\u5439",
       "url": "https://open.spotify.com/track/7Gbrrr7Y3kJ1JyqqVpwhsG"
+    },
+    {
+      "album": {
+        "name": "\u5929\u4f7f\uff1f\u60e1\u9b54\uff1f",
+        "url": "https://open.spotify.com/album/35FKTlZ8ohTIDyULyHLiQJ"
+      },
+      "artists": [
+        {
+          "name": "iF",
+          "url": "https://open.spotify.com/artist/2w9ROTfdD98w2BRnNASzWK"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192500,
+      "name": "\u5929\u4f7f\uff1f\u60e1\u9b54\uff1f",
+      "url": "https://open.spotify.com/track/1ualRJBdnFsVzoYR2VkUGJ"
     },
     {
       "album": {
@@ -11246,7 +11336,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 197985,
       "name": "\u611b\u4eba\u8207\u88ab\u611b\u7684\u59ff\u614b",
       "url": "https://open.spotify.com/track/0JSVc8Y0twd0sUGTZOThyY"

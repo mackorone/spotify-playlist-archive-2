@@ -380,7 +380,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 213560,
       "name": "Howl",
       "url": "https://open.spotify.com/track/3GS8qG28p2RF6M7S5rFdx5"
@@ -398,10 +398,28 @@
       ],
       "date_added": "2025-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-01",
+      "date_removed": null,
       "duration_ms": 214053,
       "name": "Howl",
       "url": "https://open.spotify.com/track/30JSP0mpT8DQNHjs6v8Z4P"
+    },
+    {
+      "album": {
+        "name": "Everybody Scream Tour Live",
+        "url": "https://open.spotify.com/album/1f3QAJG9UzARzT26yvEdRI"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252678,
+      "name": "Howl - Live",
+      "url": "https://open.spotify.com/track/1IpNSfw0oeM3X4yCfpnq29"
     },
     {
       "album": {
@@ -506,7 +524,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 124240,
       "name": "Kiss With A Fist",
       "url": "https://open.spotify.com/track/0qnzHn8plo9r10x69uFJYS"

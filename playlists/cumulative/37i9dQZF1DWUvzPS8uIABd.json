@@ -821,6 +821,24 @@
     },
     {
       "album": {
+        "name": "ja nyt m\u00e4 kerron",
+        "url": "https://open.spotify.com/album/46lkq3OXx2m7Zg73moGm2p"
+      },
+      "artists": [
+        {
+          "name": "Mirella",
+          "url": "https://open.spotify.com/artist/5m8QXFAKCuty66pOzy9aPZ"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209929,
+      "name": "Alas",
+      "url": "https://open.spotify.com/track/0mxyMwPoa8Y2LLGJidqKZ7"
+    },
+    {
+      "album": {
         "name": "Alkemia / Showbisn\u20acs",
         "url": "https://open.spotify.com/album/6EMVXMLTJAujvHB6LwiCmk"
       },
@@ -2311,6 +2329,24 @@
     },
     {
       "album": {
+        "name": "e r v o",
+        "url": "https://open.spotify.com/album/1qu1mEUaRkrMDUvBVKOyB6"
+      },
+      "artists": [
+        {
+          "name": "ibe",
+          "url": "https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197823,
+      "name": "e r v o",
+      "url": "https://open.spotify.com/track/2s1sRZq5VfxytUi8yPukbK"
+    },
+    {
+      "album": {
         "name": "Edes takas",
         "url": "https://open.spotify.com/album/1TKEdy66AsWe3xb8VjRPUK"
       },
@@ -2380,7 +2416,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 158585,
       "name": "Ehk\u00e4 Joskus",
       "url": "https://open.spotify.com/track/22w9MQkkSuE7iQphGYTfWx"
@@ -4078,7 +4114,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 191097,
       "name": "Helahoito",
       "url": "https://open.spotify.com/track/6uSuEu5nMDNlEZuZOcGxCQ"
@@ -4158,6 +4194,24 @@
       "duration_ms": 225600,
       "name": "Herkkukauppa (Bam Tsiki Tsiki)",
       "url": "https://open.spotify.com/track/09rz8UVupw08GyfqSX92oo"
+    },
+    {
+      "album": {
+        "name": "Hiljenee - EP",
+        "url": "https://open.spotify.com/album/4lvwQq7P3W6DiQxHK0EqRg"
+      },
+      "artists": [
+        {
+          "name": "Portion Boys",
+          "url": "https://open.spotify.com/artist/04UpsyroM3wyQYwhYd9mSv"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181200,
+      "name": "Hiljenee",
+      "url": "https://open.spotify.com/track/4G2MXXF941spWeS0EvlaTL"
     },
     {
       "album": {
@@ -4658,7 +4712,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 191720,
       "name": "H\u00e4visin eron",
       "url": "https://open.spotify.com/track/5NzmhCh3YKJXlbwDlzbhKP"
@@ -5622,6 +5676,24 @@
       "duration_ms": 138935,
       "name": "Jos ei oo meit",
       "url": "https://open.spotify.com/track/1g4QizdrPAiOWXgRbePWSV"
+    },
+    {
+      "album": {
+        "name": "Jos haluut el\u00e4\u00e4",
+        "url": "https://open.spotify.com/album/5ILQpyvS1WHV73W1WR8VIp"
+      },
+      "artists": [
+        {
+          "name": "Juuna Chill",
+          "url": "https://open.spotify.com/artist/5ndSb0dw2ilXbSlUZ7Gm78"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177608,
+      "name": "Jos haluut el\u00e4\u00e4",
+      "url": "https://open.spotify.com/track/7u2vSwGtqMg20zVcHBBLeX"
     },
     {
       "album": {
@@ -8288,7 +8360,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 181866,
       "name": "Kuolemantanssi",
       "url": "https://open.spotify.com/track/44sYFmnivspQb37ZqbG29E"
@@ -8498,6 +8570,24 @@
       "duration_ms": 168752,
       "name": "Kyyneleet sateessa",
       "url": "https://open.spotify.com/track/6LtPm6eJ3xywabrHNWdWPg"
+    },
+    {
+      "album": {
+        "name": "Kyyneleet sateessa (Vain el\u00e4m\u00e4\u00e4 kausi 17)",
+        "url": "https://open.spotify.com/album/4X7PgbccSTkp8gWU0JUrQg"
+      },
+      "artists": [
+        {
+          "name": "Nelli Matula",
+          "url": "https://open.spotify.com/artist/4D8m6VLd1ySVC6A2tzFvrE"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214533,
+      "name": "Kyyneleet sateessa - Vain el\u00e4m\u00e4\u00e4 kausi 17",
+      "url": "https://open.spotify.com/track/6HoW14z5IHf1DDtsMwlCHk"
     },
     {
       "album": {
@@ -9148,7 +9238,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 221911,
       "name": "Liian aikaista rakastaa",
       "url": "https://open.spotify.com/track/0HODfDmGLHFGutvWCwNUlW"
@@ -13214,7 +13304,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 158472,
       "name": "Pahoille teille",
       "url": "https://open.spotify.com/track/4xaNQ6k3xiZ6dAyI5hJGwA"
@@ -14934,6 +15024,24 @@
       "duration_ms": 195549,
       "name": "Rakkauteen (Vain el\u00e4m\u00e4\u00e4 kausi 16)",
       "url": "https://open.spotify.com/track/5TeqjpMEE4YAgo1NtlCje9"
+    },
+    {
+      "album": {
+        "name": "Ram pam pam (Vain el\u00e4m\u00e4\u00e4 kausi 17)",
+        "url": "https://open.spotify.com/album/5PaXbdP8SYOIFeE38qP2Mo"
+      },
+      "artists": [
+        {
+          "name": "Benjamin",
+          "url": "https://open.spotify.com/artist/5FgAhHocNrSCn7Ox87uyef"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150642,
+      "name": "Ram pam pam (Vain el\u00e4m\u00e4\u00e4 kausi 17)",
+      "url": "https://open.spotify.com/track/2VAbwvXEuIaMY22oJcRSoQ"
     },
     {
       "album": {
@@ -19412,7 +19520,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 181528,
       "name": "Ty\u00f6tt\u00f6m\u00e4n p\u00e4iv\u00e4t",
       "url": "https://open.spotify.com/track/0V3UHMinifL4dOB7Urriem"
@@ -20926,6 +21034,24 @@
       "duration_ms": 212613,
       "name": "Viinii",
       "url": "https://open.spotify.com/track/3n3hf9PWHruPQp6HsnbvfR"
+    },
+    {
+      "album": {
+        "name": "Viisi kes\u00e4\u00e4 (Vain el\u00e4m\u00e4\u00e4 kausi 17)",
+        "url": "https://open.spotify.com/album/1ZSKvWfVo9TZaR8GJntfdA"
+      },
+      "artists": [
+        {
+          "name": "Ares",
+          "url": "https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155423,
+      "name": "Viisi kes\u00e4\u00e4 (Vain el\u00e4m\u00e4\u00e4 kausi 17)",
+      "url": "https://open.spotify.com/track/6DeZhEcdBRus66YY5RO9ME"
     },
     {
       "album": {

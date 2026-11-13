@@ -1,12 +1,12 @@
 {
   "description": "This is Lil Baby. The essential tracks, all in one playlist.",
-  "num_followers": 452567,
+  "num_followers": 452591,
   "original_name": "This Is Lil Baby",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avENAAAAAACdB/mIyH8ZMlQn0sBDALjI",
+  "snapshot_id": "avOwAAAAAAB5B7b1DZl8GbZdEhEuncI7",
   "tracks": [
     {
       "added_at": null,
@@ -567,22 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FRESH",
-        "url": "https://open.spotify.com/album/1RijzUXg1jg93ghalGG7TP"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 146952,
-      "name": "Top Uh It",
-      "url": "https://open.spotify.com/track/5oh5HKx8GKofYhhpvXY0e3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Just Cause Y'all Waited 2",
         "url": "https://open.spotify.com/album/3D4bwVn4Wp8Za0Amkyd5I5"
       },
@@ -631,6 +615,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "FRESH",
+        "url": "https://open.spotify.com/album/1RijzUXg1jg93ghalGG7TP"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 146952,
+      "name": "Top Uh It",
+      "url": "https://open.spotify.com/track/5oh5HKx8GKofYhhpvXY0e3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Time Served",
         "url": "https://open.spotify.com/album/6Wq84YPRzpAIY8CEeluUlv"
       },
@@ -647,22 +647,6 @@
       "duration_ms": 164753,
       "name": "U Played (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/7qeWNGBqqagdwf4KnjRzGZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "It's Only Me",
-        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 177789,
-      "name": "California Breeze",
-      "url": "https://open.spotify.com/track/6ug9fUi5oLLgQgOF1G8WkM"
     },
     {
       "added_at": null,
@@ -687,6 +671,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "It's Only Me",
+        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 177789,
+      "name": "California Breeze",
+      "url": "https://open.spotify.com/track/6ug9fUi5oLLgQgOF1G8WkM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FRESH",
+        "url": "https://open.spotify.com/album/1RijzUXg1jg93ghalGG7TP"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 160102,
+      "name": "Ain\u2019t Goin",
+      "url": "https://open.spotify.com/track/3pRSJlJultkLi6vxD4VxE7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hollywood's Bleeding",
         "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 218320,
       "name": "On The Road (feat. Meek Mill & Lil Baby)",
       "url": "https://open.spotify.com/track/12Fkyg9lpmaz2zmKOfw2Y2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "FRESH",
-        "url": "https://open.spotify.com/album/1RijzUXg1jg93ghalGG7TP"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 160102,
-      "name": "Ain\u2019t Goin",
-      "url": "https://open.spotify.com/track/3pRSJlJultkLi6vxD4VxE7"
     },
     {
       "added_at": null,
@@ -767,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Turn",
-        "url": "https://open.spotify.com/album/1ynyQdPQiXdYJNQEDL1S3d"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 183011,
-      "name": "Woah",
-      "url": "https://open.spotify.com/track/02RCbjb9czvQKNGBmEmWob"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FRESH",
         "url": "https://open.spotify.com/album/1RijzUXg1jg93ghalGG7TP"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 154838,
       "name": "Burnt Shit",
       "url": "https://open.spotify.com/track/5w35qRwSFysW6yFP0RRypV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Turn",
+        "url": "https://open.spotify.com/album/1ynyQdPQiXdYJNQEDL1S3d"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 183011,
+      "name": "Woah",
+      "url": "https://open.spotify.com/track/02RCbjb9czvQKNGBmEmWob"
     },
     {
       "added_at": null,
@@ -815,22 +815,6 @@
       "duration_ms": 182857,
       "name": "24 (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/0xUvi7wldroBzaZCengPa5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "It's Only Me",
-        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 200470,
-      "name": "In A Minute",
-      "url": "https://open.spotify.com/track/31lopd32BkJBTSgYE16c5e"
     },
     {
       "added_at": null,
@@ -883,6 +867,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "It's Only Me",
+        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 200470,
+      "name": "In A Minute",
+      "url": "https://open.spotify.com/track/31lopd32BkJBTSgYE16c5e"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Idol Episode 5 Part 1 (Music from the HBO Original Series)",
         "url": "https://open.spotify.com/album/4q3wUuIReEjGSYzmSsxtl6"
       },
@@ -903,26 +903,6 @@
       "duration_ms": 262229,
       "name": "False Idols (with Lil Baby, Suzanna Son)",
       "url": "https://open.spotify.com/track/6cViXqp01e3FrAaseuiSAV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "It's Only Me",
-        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "Fridayy",
-          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
-        }
-      ],
-      "duration_ms": 167977,
-      "name": "Forever (feat. Fridayy)",
-      "url": "https://open.spotify.com/track/1T4k0sw0HldDg004Kw4Oct"
     },
     {
       "added_at": null,
@@ -971,6 +951,26 @@
       "duration_ms": 189964,
       "name": "All My Partnas (feat. Future, Young Thug & Rylo Rodriguez)",
       "url": "https://open.spotify.com/track/4bZoNVFloslp1MJSugAXdH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "It's Only Me",
+        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+        }
+      ],
+      "duration_ms": 167977,
+      "name": "Forever (feat. Fridayy)",
+      "url": "https://open.spotify.com/track/1T4k0sw0HldDg004Kw4Oct"
     },
     {
       "added_at": null,

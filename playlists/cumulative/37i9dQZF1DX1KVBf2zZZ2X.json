@@ -772,7 +772,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 134999,
       "name": "Believe",
       "url": "https://open.spotify.com/track/6vHGmxJ2tKVqLI4n6le6WU"
@@ -866,6 +866,24 @@
       "duration_ms": 324000,
       "name": "Birds of Paradise",
       "url": "https://open.spotify.com/track/5Qm47coZ5Eph0roKaCml85"
+    },
+    {
+      "album": {
+        "name": "Blue Hour",
+        "url": "https://open.spotify.com/album/3XS37goKOizx2EzOLi6567"
+      },
+      "artists": [
+        {
+          "name": "Luca Kerr",
+          "url": "https://open.spotify.com/artist/2jhFEyMpycPOddBCSQYjap"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132466,
+      "name": "Blue Hour",
+      "url": "https://open.spotify.com/track/4KBuYJzWLsUfWLyukShOab"
     },
     {
       "album": {
@@ -1086,7 +1104,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-11",
+      "date_removed": null,
       "duration_ms": 135000,
       "name": "Calm Mind, in the Forest",
       "url": "https://open.spotify.com/track/6j88pim2dgfpUIlf984HtC"
@@ -1896,7 +1914,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-04",
+      "date_removed": null,
       "duration_ms": 161538,
       "name": "Echoes Amass",
       "url": "https://open.spotify.com/track/6dgWBAnWRwD6Qi6vQAsVuL"
@@ -2058,7 +2076,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 130200,
       "name": "Evening",
       "url": "https://open.spotify.com/track/52afCNwqDO3OrW8kKXTIFb"
@@ -4496,7 +4514,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 162000,
       "name": "Passing",
       "url": "https://open.spotify.com/track/2tVrAzePSMl6GtO0dZENG8"
@@ -5522,7 +5540,7 @@
       ],
       "date_added": "2026-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 155121,
       "name": "Soft Embrace",
       "url": "https://open.spotify.com/track/7fdbp2sO9tishNMGSLn8aj"
@@ -5666,7 +5684,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-06",
+      "date_removed": null,
       "duration_ms": 178976,
       "name": "Soulful Gem",
       "url": "https://open.spotify.com/track/0VY33SprrlAzEkAOtxtI98"

@@ -9003,6 +9003,24 @@
     },
     {
       "album": {
+        "name": "My Addiction",
+        "url": "https://open.spotify.com/album/0q1vkwrp4rCczBBWpVBI9E"
+      },
+      "artists": [
+        {
+          "name": "Skyl Panameraa",
+          "url": "https://open.spotify.com/artist/0QW6dSzw0EqIIBQJrGq1Kd"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158935,
+      "name": "My Addiction",
+      "url": "https://open.spotify.com/track/0wqjkhQYagTQOLqMippB3A"
+    },
+    {
+      "album": {
         "name": "My Eyes",
         "url": "https://open.spotify.com/album/4UwUmhnznZq2b0aSbNONrj"
       },
@@ -13803,6 +13821,24 @@
     },
     {
       "album": {
+        "name": "The Fury",
+        "url": "https://open.spotify.com/album/7byxu6uRVYFOmmJUlA5vvp"
+      },
+      "artists": [
+        {
+          "name": "The River Filth",
+          "url": "https://open.spotify.com/artist/59BG6GYu3KdNc7lTYQSkae"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195029,
+      "name": "The Fury",
+      "url": "https://open.spotify.com/track/5Nz9osPWntRijFqYXSYlGX"
+    },
+    {
+      "album": {
         "name": "Ascend",
         "url": "https://open.spotify.com/album/7HBJCsmEoPOBmV043hkXCr"
       },
@@ -15722,6 +15758,24 @@
       "duration_ms": 208457,
       "name": "Wolves Of E-Street",
       "url": "https://open.spotify.com/track/2rQ28XXzoIxh0Q5MvPCuiS"
+    },
+    {
+      "album": {
+        "name": "Writings on the Wall",
+        "url": "https://open.spotify.com/album/57UsFyMrHu97seIZ3Z2q4z"
+      },
+      "artists": [
+        {
+          "name": "Coyote Crunch",
+          "url": "https://open.spotify.com/artist/3eOqf23jG1UGhZb7oQSbm3"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299375,
+      "name": "Writings on the Wall",
+      "url": "https://open.spotify.com/track/2VhzXO9b32pNU31Mdyp5PK"
     },
     {
       "album": {

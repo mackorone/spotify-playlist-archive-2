@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "The hottest and recent Ghana party starters. Cover:   AratheJay",
+  "description": "The hottest and recent Ghana party starters. Cover:   Kofi Mole",
   "name": "Ghana Party",
   "tracks": [
     {
@@ -474,7 +474,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 139601,
       "name": "ABILITY (with Medikal & beatzvampire)",
       "url": "https://open.spotify.com/track/5mrALmqbMOh64jH7AJCM7U"
@@ -844,7 +844,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 161492,
       "name": "Ajei",
       "url": "https://open.spotify.com/track/5OlnZD8XkWh0LLBf3j7YUI"
@@ -1114,7 +1114,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 160741,
       "name": "Allo",
       "url": "https://open.spotify.com/track/02U8LbJujN3o0COgb6yHHF"
@@ -1798,7 +1798,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 219428,
       "name": "Awurade Aye",
       "url": "https://open.spotify.com/track/5MO3ZW5mDhQiUmrYoYfitt"
@@ -2320,7 +2320,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 162941,
       "name": "Bendova",
       "url": "https://open.spotify.com/track/0yMNSWqzTUWWF9HaODxQaC"
@@ -2378,7 +2378,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 171483,
       "name": "Biggest Nathaniel",
       "url": "https://open.spotify.com/track/19BPSCAVxqbTW1UNvgz9q1"
@@ -2691,6 +2691,24 @@
     },
     {
       "album": {
+        "name": "Boot 4 Boot",
+        "url": "https://open.spotify.com/album/3eRIE1TP4jTWhGdymPgn3t"
+      },
+      "artists": [
+        {
+          "name": "Kofi Kinaata",
+          "url": "https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241829,
+      "name": "Boot 4 Boot",
+      "url": "https://open.spotify.com/track/5Hn5BKyP15kzHWOthsslQ0"
+    },
+    {
+      "album": {
         "name": "Boozen",
         "url": "https://open.spotify.com/album/7oB8cDMcd087vjZodijtYV"
       },
@@ -2980,7 +2998,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 154434,
       "name": "Can't Stop",
       "url": "https://open.spotify.com/track/71WcXwFtMAD0hGAas2pEYF"
@@ -3894,7 +3912,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 158429,
       "name": "Do Better",
       "url": "https://open.spotify.com/track/3CqYU4M2gHSXybegYvquPo"
@@ -4270,7 +4288,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 258292,
       "name": "Enjoyment",
       "url": "https://open.spotify.com/track/0v76jMok28fHJmXKpV07dP"
@@ -5803,6 +5821,28 @@
     },
     {
       "album": {
+        "name": "Good Feeling",
+        "url": "https://open.spotify.com/album/2zWHkYPxGU3SBYTxGvqYdB"
+      },
+      "artists": [
+        {
+          "name": "King Paluta",
+          "url": "https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT"
+        },
+        {
+          "name": "Fameye",
+          "url": "https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175438,
+      "name": "Good Feeling",
+      "url": "https://open.spotify.com/track/1BWeBfNq3OWR47V4C6Rc3N"
+    },
+    {
+      "album": {
         "name": "Good Girl (Evandy Girl)",
         "url": "https://open.spotify.com/album/0qP1Ep1na1g15udNUiIXOo"
       },
@@ -6552,6 +6592,28 @@
       "duration_ms": 208000,
       "name": "I Pray",
       "url": "https://open.spotify.com/track/4f3pIJLTJ7pA72AHEBaPc2"
+    },
+    {
+      "album": {
+        "name": "I Stress II",
+        "url": "https://open.spotify.com/album/2vGimwotRmaY6GgkT0vzXD"
+      },
+      "artists": [
+        {
+          "name": "OV",
+          "url": "https://open.spotify.com/artist/6m4OztP0eEgXadXD9biIN0"
+        },
+        {
+          "name": "King Paluta",
+          "url": "https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168274,
+      "name": "I Stress II",
+      "url": "https://open.spotify.com/track/6THiPzkRrFreY63C8xl7cU"
     },
     {
       "album": {
@@ -7510,7 +7572,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 201951,
       "name": "Lala",
       "url": "https://open.spotify.com/track/6zDbBn9GLSwWhWYwAwL2k8"
@@ -7634,7 +7696,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 139333,
       "name": "Life Of The Party",
       "url": "https://open.spotify.com/track/6UQI0exLmQjVO4mz5Gu3XB"
@@ -8301,6 +8363,28 @@
     },
     {
       "album": {
+        "name": "Spirit",
+        "url": "https://open.spotify.com/album/304dL9LU4N6fw9NSuIBDMA"
+      },
+      "artists": [
+        {
+          "name": "Akwaboah",
+          "url": "https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y"
+        },
+        {
+          "name": "Wendy Shay",
+          "url": "https://open.spotify.com/artist/5yrRN6GxtTSHbcw7qxPg4S"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222611,
+      "name": "Me Pe",
+      "url": "https://open.spotify.com/track/6QkNPxBoaHe94aLolfo9eY"
+    },
+    {
+      "album": {
         "name": "Me Sisi",
         "url": "https://open.spotify.com/album/3IwecGnHivXYOnhC5IFmDl"
       },
@@ -8414,7 +8498,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 187187,
       "name": "Melody",
       "url": "https://open.spotify.com/track/6EzmOUvFrYs0H7m25S5IwT"
@@ -9224,7 +9308,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 191137,
       "name": "No Love",
       "url": "https://open.spotify.com/track/4qua256ZagtQ0WPHRj7ua2"
@@ -9860,7 +9944,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 232155,
       "name": "Odo Ankasa",
       "url": "https://open.spotify.com/track/09wVyBurKxBhGxKF3CjxLm"
@@ -11106,7 +11190,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 97550,
       "name": "Princess",
       "url": "https://open.spotify.com/track/5mxzoHipkwp4QJaKUA128x"
@@ -11762,7 +11846,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 183050,
       "name": "Ruwa II",
       "url": "https://open.spotify.com/track/28R9kqOIrgZ088NsPziz9S"
@@ -11872,7 +11956,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 156200,
       "name": "sankofa",
       "url": "https://open.spotify.com/track/0JwTlwOTMnxar1Sk0tBVaj"
@@ -13222,7 +13306,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 173572,
       "name": "Sweet",
       "url": "https://open.spotify.com/track/5mRnNyJe2gVLmnwdTBgT2O"
@@ -13526,10 +13610,28 @@
       ],
       "date_added": "2025-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 181968,
       "name": "The Matter - Remix",
       "url": "https://open.spotify.com/track/2ts0q5y3aJYT4zXAqjzBxe"
+    },
+    {
+      "album": {
+        "name": "Therapy",
+        "url": "https://open.spotify.com/album/5O6e7jDzxV5kvNwaHrKHpm"
+      },
+      "artists": [
+        {
+          "name": "Akuvi",
+          "url": "https://open.spotify.com/artist/41VbuWKdlHSsk8By8pA68h"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159409,
+      "name": "Therapy",
+      "url": "https://open.spotify.com/track/4jTRj7jqpWFIOCcBXWRIqD"
     },
     {
       "album": {
@@ -13574,6 +13676,28 @@
       "duration_ms": 221804,
       "name": "Thermometer (Ma Lo)",
       "url": "https://open.spotify.com/track/0R7KRqS9h8gLVzLc7mDE8q"
+    },
+    {
+      "album": {
+        "name": "This & That",
+        "url": "https://open.spotify.com/album/0tVLgekXw4qWrenZo6HtzD"
+      },
+      "artists": [
+        {
+          "name": "Wendy Shay",
+          "url": "https://open.spotify.com/artist/5yrRN6GxtTSHbcw7qxPg4S"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154434,
+      "name": "This & That",
+      "url": "https://open.spotify.com/track/5NbP5ui2Y4tfV1QmwMSUrU"
     },
     {
       "album": {
@@ -13788,7 +13912,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 194181,
       "name": "Too Late",
       "url": "https://open.spotify.com/track/7krvWOVJSMcj3LHuxygzLh"
@@ -14312,7 +14436,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 224026,
       "name": "We Deh Inside",
       "url": "https://open.spotify.com/track/1ggelQKWMb1pBGcbRm72iC"
@@ -14352,7 +14476,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 175135,
       "name": "WEATHER FOR 2",
       "url": "https://open.spotify.com/track/56qLZovBjCLJUBlGv1gER8"
@@ -14566,7 +14690,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 160000,
       "name": "Wings",
       "url": "https://open.spotify.com/track/4OLg97i6GF3qN6RbjsA2vi"
@@ -14632,6 +14756,28 @@
       "duration_ms": 154811,
       "name": "Wo Be Di",
       "url": "https://open.spotify.com/track/3qdewg2LKF0GWD8Uw7JpHP"
+    },
+    {
+      "album": {
+        "name": "Wo Case II",
+        "url": "https://open.spotify.com/album/3dm40nNDBgC5DqhPczfyTJ"
+      },
+      "artists": [
+        {
+          "name": "Rap Fada",
+          "url": "https://open.spotify.com/artist/2B2GXzW2b4x6pohKQ5C40a"
+        },
+        {
+          "name": "Kwabena Kwabena",
+          "url": "https://open.spotify.com/artist/6zKu61RG80pBKOMUbBKNMr"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190909,
+      "name": "Wo Case II",
+      "url": "https://open.spotify.com/track/1zDwNYdon1QjsMdphxxd4c"
     },
     {
       "album": {
@@ -15314,7 +15460,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 159272,
       "name": "Your Body (Crazy)",
       "url": "https://open.spotify.com/track/6z8o5ymNwSGbY2rWLTCagT"
@@ -15438,6 +15584,28 @@
       "duration_ms": 184615,
       "name": "Zormizor (Asabone)",
       "url": "https://open.spotify.com/track/6pO6mg2XVv3IW7LyyMc5Sj"
+    },
+    {
+      "album": {
+        "name": "\u0190SHISHI",
+        "url": "https://open.spotify.com/album/75ouxpLQuQEcEeDSDChXIt"
+      },
+      "artists": [
+        {
+          "name": "Quamina Mp",
+          "url": "https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw"
+        },
+        {
+          "name": "Kofi Mole",
+          "url": "https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "\u0190SHISHI",
+      "url": "https://open.spotify.com/track/6XhF1f8SsYWyycQuiQNIou"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX7t977T5F4kQ"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oGHu3SOP0B.md) - [plain]
 
 > ฟังศิลปินหญิงประเทศไทยผ่านเพลงที่ mindfreakkk! ร่วมคัดสรรมาให้\. ปก: mindfreakk!
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,533 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,531 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

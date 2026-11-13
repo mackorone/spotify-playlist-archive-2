@@ -4881,6 +4881,32 @@
     },
     {
       "album": {
+        "name": "S\u00f3 s\u00f3 s\u00f3 s\u00f3",
+        "url": "https://open.spotify.com/album/2EKR6iHD5BmsoyEmgVcc30"
+      },
+      "artists": [
+        {
+          "name": "TRZ",
+          "url": "https://open.spotify.com/artist/7cLUwy0R7N8q1YSjHYZdrU"
+        },
+        {
+          "name": "Mc Rd",
+          "url": "https://open.spotify.com/artist/6ugw7JCu0AG7txRcRAxU8d"
+        },
+        {
+          "name": "DINASTICA",
+          "url": "https://open.spotify.com/artist/7sAHzDSvItILeoOcxqZSL3"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128307,
+      "name": "S\u00f3 s\u00f3 s\u00f3 s\u00f3",
+      "url": "https://open.spotify.com/track/0zxD829aNQjg2YeajDJOYc"
+    },
+    {
+      "album": {
         "name": "Tacata (Remix)",
         "url": "https://open.spotify.com/album/2GfGGlindjNS4kkZinqKdA"
       },

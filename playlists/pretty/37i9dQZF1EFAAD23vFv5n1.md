@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/14QejH3mjo1cVX1ATOop0M">okgiorgio</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,081 likes - 198 songs - 9 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,080 likes - 198 songs - 9 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -150,8 +150,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 | 140 | [JAMES DEAN](https://open.spotify.com/track/38ymTy0ALyNcnWCLoCDgWr) | [YTAM](https://open.spotify.com/artist/2KFd6aIoUCq0se2nNlyI8U) | [JAMES DEAN](https://open.spotify.com/album/7hihiCYSTCRKAGcX7hSUXJ) | 3:07 |
 | 141 | [ko confuso](https://open.spotify.com/track/7mtxsZkHrTvIOGr6mkZ7Nv) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ko mixtape](https://open.spotify.com/album/77sTewe6uhw0100rEFzEXl) | 1:41 |
 | 142 | [DNA](https://open.spotify.com/track/2MJAVrhgJRMK0ONG3N9vpv) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [In Memoria](https://open.spotify.com/album/2JpboxeGrgW2joLcSNmXht) | 3:09 |
-| 143 | [Indico](https://open.spotify.com/track/2jtjPf6vm3hqlO8xGHRN3A) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [Indico](https://open.spotify.com/album/47sbHniMtApzvNu7FZDOje) | 2:55 |
-| 144 | [ko espira](https://open.spotify.com/track/2XtDmNRz3wyGDLqyCyN38u) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ko mixtape](https://open.spotify.com/album/77sTewe6uhw0100rEFzEXl) | 2:36 |
+| 143 | [ko espira](https://open.spotify.com/track/2XtDmNRz3wyGDLqyCyN38u) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ko mixtape](https://open.spotify.com/album/77sTewe6uhw0100rEFzEXl) | 2:36 |
+| 144 | [Indico](https://open.spotify.com/track/2jtjPf6vm3hqlO8xGHRN3A) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [Indico](https://open.spotify.com/album/47sbHniMtApzvNu7FZDOje) | 2:55 |
 | 145 | [ALIENI v9](https://open.spotify.com/track/3qa68cc8YLeaUgA3Xw8434) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [ANATOMIA CRISTALLO](https://open.spotify.com/album/3cQbctP7TYxlAQIZjDduuv) | 2:47 |
 | 146 | [Labirinto](https://open.spotify.com/track/51BUYyFMqfMEJZBfEmRMtA) | [HÅN](https://open.spotify.com/artist/7n3jYxJuLzLuOv8Fk1s9N1) | [Labirinto](https://open.spotify.com/album/5tOUjr8okysSFcpySHZU6L) | 2:01 |
 | 147 | [FACCIO SCHIFO v4](https://open.spotify.com/track/0pbCRZ4k46zHGbbNBRGpls) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [ANATOMIA CRISTALLO](https://open.spotify.com/album/3cQbctP7TYxlAQIZjDduuv) | 2:26 |
@@ -207,4 +207,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 | 197 | [Pastello bianco](https://open.spotify.com/track/1OkJez0pACXq0PFne04HOX) | [Bruno Biondi](https://open.spotify.com/artist/4IFzOP78zDKfLxJaskBWvn) | [Compilation Spazioinediti, Vol\. 8 Nuove Proposte](https://open.spotify.com/album/34UixL4dCEdH927BrWbUIq) | 4:00 |
 | 198 | [Victoria's Secret](https://open.spotify.com/track/0qlfvwLYOxLs0pPktzqSmV) | [John's Saxophone](https://open.spotify.com/artist/5017jdzBcgvmdHLGkWwRZY) | [My Favorite Songs, International Hits 2025](https://open.spotify.com/album/6j1ufpqyRZqJp84UMigIXc) | 3:20 |
 
-Snapshot ID: `AchbJgAAAAC7bsl6HQlDuGuUEMr4lm2Z`
+Snapshot ID: `AchgigAAAAAHG6f0+CktYTsQOAUc3yZ7`

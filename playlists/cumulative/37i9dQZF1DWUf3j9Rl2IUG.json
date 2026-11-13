@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Afrobeats' hottest singles. Cover: Olamide",
+  "description": "Afrobeats' hottest singles. Cover: Patoranking ",
   "name": "Gbedu",
   "tracks": [
     {
@@ -906,7 +906,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 174159,
       "name": "ARMED & DANGEROUS (feat. Young Jonn)",
       "url": "https://open.spotify.com/track/2VTjvbOa7BNQoW9zrgiqnC"
@@ -2876,7 +2876,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 175666,
       "name": "Chandelier",
       "url": "https://open.spotify.com/track/20l4NPs2c9OBKBKUKRjxIy"
@@ -3686,7 +3686,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 218947,
       "name": "Despacito (feat. FOLA)",
       "url": "https://open.spotify.com/track/0HlF88ZuW0yTty8fogzpaG"
@@ -4208,6 +4208,28 @@
       "duration_ms": 168779,
       "name": "Double",
       "url": "https://open.spotify.com/track/5aYcdAo0OCkV9lxQFFWaVg"
+    },
+    {
+      "album": {
+        "name": "DRTY",
+        "url": "https://open.spotify.com/album/1aao8FuXkxeH7xLcGlSmx8"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200816,
+      "name": "DRTY",
+      "url": "https://open.spotify.com/track/4v908d71nMHw4sRRx5YTZQ"
     },
     {
       "album": {
@@ -6536,7 +6558,7 @@
       ],
       "date_added": "2025-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 125284,
       "name": "Hey Jago",
       "url": "https://open.spotify.com/track/4xVj25uTjTZCaHbSFbYwAE"
@@ -7236,6 +7258,32 @@
       "duration_ms": 162351,
       "name": "Incoming",
       "url": "https://open.spotify.com/track/56amD1DaOooWn1RwbJiJnq"
+    },
+    {
+      "album": {
+        "name": "INFERNO",
+        "url": "https://open.spotify.com/album/4oVtp47IW7IyevJL95hdf8"
+      },
+      "artists": [
+        {
+          "name": "Peruzzi",
+          "url": "https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151456,
+      "name": "INFERNO",
+      "url": "https://open.spotify.com/track/3FCIOA44iYIDsjDNeXthc1"
     },
     {
       "album": {
@@ -9863,6 +9911,28 @@
     },
     {
       "album": {
+        "name": "Na Money",
+        "url": "https://open.spotify.com/album/3yCjNjTfdHoDljqzA6cmBY"
+      },
+      "artists": [
+        {
+          "name": "DJ Tunez",
+          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
+        },
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202758,
+      "name": "Na Money",
+      "url": "https://open.spotify.com/track/1MEhHrisdcK9xuTuxvYdzh"
+    },
+    {
+      "album": {
         "name": "Na Scra",
         "url": "https://open.spotify.com/album/77fJOYGEHdfMzNhGDDxO3B"
       },
@@ -10576,6 +10646,24 @@
       "duration_ms": 156000,
       "name": "Old Soldier",
       "url": "https://open.spotify.com/track/0cREe4pQv35ekBuzzldv0u"
+    },
+    {
+      "album": {
+        "name": "Omo Ologo",
+        "url": "https://open.spotify.com/album/2j1BVbjLs3HSsRGN1LpihP"
+      },
+      "artists": [
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Omo Ologo",
+      "url": "https://open.spotify.com/track/5UziHRcYKB8foeAnfqy8sC"
     },
     {
       "album": {
@@ -11498,7 +11586,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 211304,
       "name": "Pretty Nun",
       "url": "https://open.spotify.com/track/6TX6IMV1PAlpSlrmVFurNA"
@@ -14238,6 +14326,28 @@
       "duration_ms": 149454,
       "name": "Wayo",
       "url": "https://open.spotify.com/track/3J6APt513Rv9lN7auorpw5"
+    },
+    {
+      "album": {
+        "name": "Welcome To Lagos",
+        "url": "https://open.spotify.com/album/65SHs9gGDOyXxFs4vHAcCZ"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183092,
+      "name": "Welcome To Lagos",
+      "url": "https://open.spotify.com/track/6q9AMhh5M1SiCCvrh94YVh"
     },
     {
       "album": {

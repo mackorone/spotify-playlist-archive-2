@@ -1,12 +1,12 @@
 {
   "description": "This is BAYLI. The essential tracks, all in one playlist.",
-  "num_followers": 352,
+  "num_followers": 353,
   "original_name": "This Is BAYLI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avENAAAAAAAjczw8eoCh+/iR3UPl+7WU",
+  "snapshot_id": "avOwAAAAAABXKFspjwDHxIH0fIZsxfUJ",
   "tracks": [
     {
       "added_at": null,
@@ -235,6 +235,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "not safe",
+        "url": "https://open.spotify.com/album/3Obqq8uZvZKIDRKm63tise"
+      },
+      "artists": [
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "duration_ms": 136686,
+      "name": "not safe",
+      "url": "https://open.spotify.com/track/3msQyhTxEPh8Qr8PdKINUd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "clown shit (up the wall) [SOPHIE Remix]",
         "url": "https://open.spotify.com/album/0w3ZduXZIPEMktyyVmEAbr"
       },
@@ -259,8 +275,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "not safe",
-        "url": "https://open.spotify.com/album/3Obqq8uZvZKIDRKm63tise"
+        "name": "boys lie",
+        "url": "https://open.spotify.com/album/7u79RtCjM1KNE6IDBiNsQi"
       },
       "artists": [
         {
@@ -268,29 +284,9 @@
           "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
         }
       ],
-      "duration_ms": 136686,
-      "name": "not safe",
-      "url": "https://open.spotify.com/track/3msQyhTxEPh8Qr8PdKINUd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NO RE-ENTRY (Nano Mixes)",
-        "url": "https://open.spotify.com/album/6yODHDXTOQfnomDLz32S9y"
-      },
-      "artists": [
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        },
-        {
-          "name": "Banoffee",
-          "url": "https://open.spotify.com/artist/0BZ0jp1b95bdcX23MZRU4A"
-        }
-      ],
-      "duration_ms": 166688,
-      "name": "Monster",
-      "url": "https://open.spotify.com/track/3gfmmGwODGiOxkGMz8DYlx"
+      "duration_ms": 145857,
+      "name": "boys lie",
+      "url": "https://open.spotify.com/track/3WueDZQh5JdW5dR1cGZ4Xk"
     },
     {
       "added_at": null,
@@ -315,8 +311,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "boys lie",
-        "url": "https://open.spotify.com/album/7u79RtCjM1KNE6IDBiNsQi"
+        "name": "NO RE-ENTRY (Nano Mixes)",
+        "url": "https://open.spotify.com/album/6yODHDXTOQfnomDLz32S9y"
+      },
+      "artists": [
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        },
+        {
+          "name": "Banoffee",
+          "url": "https://open.spotify.com/artist/0BZ0jp1b95bdcX23MZRU4A"
+        }
+      ],
+      "duration_ms": 166688,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/3gfmmGwODGiOxkGMz8DYlx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "stories 2",
+        "url": "https://open.spotify.com/album/3bB8Ac29DUpwbjWTZGbOKh"
       },
       "artists": [
         {
@@ -324,9 +340,9 @@
           "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
         }
       ],
-      "duration_ms": 145857,
-      "name": "boys lie",
-      "url": "https://open.spotify.com/track/3WueDZQh5JdW5dR1cGZ4Xk"
+      "duration_ms": 130560,
+      "name": "pressure",
+      "url": "https://open.spotify.com/track/29XFwGNkE4E153MGV232hB"
     },
     {
       "added_at": null,
@@ -359,22 +375,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "act up",
-        "url": "https://open.spotify.com/album/0o384u0H638iKJSUdW6zc3"
-      },
-      "artists": [
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        }
-      ],
-      "duration_ms": 128793,
-      "name": "act up",
-      "url": "https://open.spotify.com/track/2yJzSXqWpMXhhUTh6QKeh8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "NO RE-ENTRY",
         "url": "https://open.spotify.com/album/3gUwFjbvPiO4i5vseJHg5G"
       },
@@ -391,8 +391,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "stories 2",
-        "url": "https://open.spotify.com/album/3bB8Ac29DUpwbjWTZGbOKh"
+        "name": "act up",
+        "url": "https://open.spotify.com/album/0o384u0H638iKJSUdW6zc3"
       },
       "artists": [
         {
@@ -400,29 +400,9 @@
           "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
         }
       ],
-      "duration_ms": 130560,
-      "name": "pressure",
-      "url": "https://open.spotify.com/track/29XFwGNkE4E153MGV232hB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ethical Plum",
-        "url": "https://open.spotify.com/album/1mue0bRSOvTGisXjsFGNAz"
-      },
-      "artists": [
-        {
-          "name": "Chaos Chaos",
-          "url": "https://open.spotify.com/artist/6D6rjLdxyE5vwhMlkuQq0E"
-        },
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        }
-      ],
-      "duration_ms": 166929,
-      "name": "Ethical Plum",
-      "url": "https://open.spotify.com/track/6hsGhh9tQ5g3QteBK1n72Y"
+      "duration_ms": 128793,
+      "name": "act up",
+      "url": "https://open.spotify.com/track/2yJzSXqWpMXhhUTh6QKeh8"
     },
     {
       "added_at": null,
@@ -451,22 +431,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "demon time",
-        "url": "https://open.spotify.com/album/2B8rBYLpIJNkP4OsN16yRm"
+        "name": "Ethical Plum",
+        "url": "https://open.spotify.com/album/1mue0bRSOvTGisXjsFGNAz"
       },
       "artists": [
         {
-          "name": "Mura Masa",
-          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
+          "name": "Chaos Chaos",
+          "url": "https://open.spotify.com/artist/6D6rjLdxyE5vwhMlkuQq0E"
         },
         {
           "name": "BAYLI",
           "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
         }
       ],
-      "duration_ms": 130057,
-      "name": "demon time (with BAYLI)",
-      "url": "https://open.spotify.com/track/4bLUlN1VbZvCksmFpjABwf"
+      "duration_ms": 166929,
+      "name": "Ethical Plum",
+      "url": "https://open.spotify.com/track/6hsGhh9tQ5g3QteBK1n72Y"
     },
     {
       "added_at": null,
@@ -483,6 +463,26 @@
       "duration_ms": 137104,
       "name": "say it back",
       "url": "https://open.spotify.com/track/6VbD1cKFOkL1ScX02MwOEx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "demon time",
+        "url": "https://open.spotify.com/album/2B8rBYLpIJNkP4OsN16yRm"
+      },
+      "artists": [
+        {
+          "name": "Mura Masa",
+          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
+        },
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "duration_ms": 130057,
+      "name": "demon time (with BAYLI)",
+      "url": "https://open.spotify.com/track/4bLUlN1VbZvCksmFpjABwf"
     },
     {
       "added_at": null,
@@ -655,26 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heartbreak County, Vol. 2",
-        "url": "https://open.spotify.com/album/4xNquGajSV7ohPAipCsyet"
-      },
-      "artists": [
-        {
-          "name": "Gia Woods",
-          "url": "https://open.spotify.com/artist/6T56xtTEllGW17snjAZLNP"
-        },
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Spend It",
-      "url": "https://open.spotify.com/track/1ux0qtopD4gfcGwmirx8Np"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Push N Pull",
         "url": "https://open.spotify.com/album/6NJUaLB7QJap4J0rTWwYrV"
       },
@@ -691,6 +671,26 @@
       "duration_ms": 162580,
       "name": "Push N Pull",
       "url": "https://open.spotify.com/track/1Ze2YUR6IEAUhfhJgsP6f8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heartbreak County, Vol. 2",
+        "url": "https://open.spotify.com/album/4xNquGajSV7ohPAipCsyet"
+      },
+      "artists": [
+        {
+          "name": "Gia Woods",
+          "url": "https://open.spotify.com/artist/6T56xtTEllGW17snjAZLNP"
+        },
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Spend It",
+      "url": "https://open.spotify.com/track/1ux0qtopD4gfcGwmirx8Np"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyqhBuzEZK8S.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0jdtXxGhcy0ycjSBMT5Qij">Jack Antonoff</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,573 likes - 375 songs - 23 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,579 likes - 375 songs - 23 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -265,13 +265,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyqhBuzEZK8S.md) - [plain]
 | 255 | [Down](https://open.spotify.com/track/3JS3K4Kw0xnhDRsPG9kUph) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Daddy's Home](https://open.spotify.com/album/654KFpNOZ26Hj9luu7aKeM) | 3:26 |
 | 256 | [My Best Friend's Weddings](https://open.spotify.com/track/6LxBEoDS5uUGZ6aAovHuvc) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Gaslighter](https://open.spotify.com/album/1YV5Rh6n8dLOycCqWcUSq4) | 4:18 |
 | 257 | [Half Love](https://open.spotify.com/track/48v4OanMw0bPHUDFssBXoD) | [Red Hearse](https://open.spotify.com/artist/2922Q2qAcxb0hRD0LtPcFc) | [Red Hearse](https://open.spotify.com/album/1BrBVH1v92OAzRDijSyhj9) | 3:13 |
-| 258 | [91](https://open.spotify.com/track/6v3wihX7hSonQaBVSYTBgW) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Take the Sadness Out of Saturday Night](https://open.spotify.com/album/6SPUtbeCQiPGej0t5RBasE) | 2:59 |
-| 259 | [dirty wedding dress](https://open.spotify.com/track/1zjHdaG27ff3e1n22lXZxE) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [everyone for ten minutes](https://open.spotify.com/album/7fVpvNHItOKonMGgbhHL5o) | 4:49 |
+| 258 | [dirty wedding dress](https://open.spotify.com/track/1zjHdaG27ff3e1n22lXZxE) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [everyone for ten minutes](https://open.spotify.com/album/7fVpvNHItOKonMGgbhHL5o) | 4:49 |
+| 259 | [91](https://open.spotify.com/track/6v3wihX7hSonQaBVSYTBgW) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Take the Sadness Out of Saturday Night](https://open.spotify.com/album/6SPUtbeCQiPGej0t5RBasE) | 2:59 |
 | 260 | [the van](https://open.spotify.com/track/2VdzNDpYVvBvteqFeInmH4) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [everyone for ten minutes](https://open.spotify.com/album/7fVpvNHItOKonMGgbhHL5o) | 2:58 |
 | 261 | [On Video](https://open.spotify.com/track/1QA6xgUEZ1BqOj2xuroM3N) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Primetime \(Original Soundtrack\)](https://open.spotify.com/album/7ovDEJjPRNRow5sf7NXkvX) | 3:31 |
 | 262 | [Help Me Run Away](https://open.spotify.com/track/5ZMXWxz3752G8bUNJXqFLi) | [St\. Lucia](https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu) | [Matter](https://open.spotify.com/album/4qH5TQZxM5v7tKT0E09WAK) | 4:47 |
-| 263 | [Use Me](https://open.spotify.com/track/7jruR1S3Fhz6odhVGLJ6iU) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [ARIZONA BABY](https://open.spotify.com/album/6wi40lIjhukePWyXRKY7qO) | 2:12 |
-| 264 | [Nothing Is U](https://open.spotify.com/track/4PDuIdU1oXL4hHfriaOXFv) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Gone Now](https://open.spotify.com/album/10HKbC9lKDHGQvndGck6XJ) | 2:31 |
+| 263 | [Nothing Is U](https://open.spotify.com/track/4PDuIdU1oXL4hHfriaOXFv) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Gone Now](https://open.spotify.com/album/10HKbC9lKDHGQvndGck6XJ) | 2:31 |
+| 264 | [Use Me](https://open.spotify.com/track/7jruR1S3Fhz6odhVGLJ6iU) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [ARIZONA BABY](https://open.spotify.com/album/6wi40lIjhukePWyXRKY7qO) | 2:12 |
 | 265 | [American Problem](https://open.spotify.com/track/1bMD1NK0f9hFxqOf5bMz6i) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [ARIZONA BABY](https://open.spotify.com/album/6wi40lIjhukePWyXRKY7qO) | 3:11 |
 | 266 | [Jesus Is Dead](https://open.spotify.com/track/3os2J85M4MsaQtUrGACNgp) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Bleachers](https://open.spotify.com/album/0nZy2z8sZsM5TIHzUpcq5E) | 3:09 |
 | 267 | [we should talk](https://open.spotify.com/track/5xqxq73BSIr3303mn1Dnqz) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [everyone for ten minutes](https://open.spotify.com/album/7fVpvNHItOKonMGgbhHL5o) | 3:04 |
@@ -310,8 +310,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyqhBuzEZK8S.md) - [plain]
 | 300 | [take you out tonight](https://open.spotify.com/track/4N7uiwrAI22mvi1sWC08uo) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [everyone for ten minutes](https://open.spotify.com/album/7fVpvNHItOKonMGgbhHL5o) | 4:28 |
 | 301 | [Ordinary Heaven](https://open.spotify.com/track/37iTeSsKvk2PQqNMH5hfoc) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Bleachers](https://open.spotify.com/album/0nZy2z8sZsM5TIHzUpcq5E) | 5:12 |
 | 302 | [Running To Pain](https://open.spotify.com/track/3xJ3atgWwf1qU14nDRzJXc) | [Kelsey Lu](https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5) | [So Help Me God](https://open.spotify.com/album/1NRIhAmDSsF25lFAwv4pDt) | 4:06 |
-| 303 | [The Backwards Heart](https://open.spotify.com/track/3yXpfmDmEluup8pOyi0g25) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Bleachers \(Deluxe\)](https://open.spotify.com/album/6HdWNexk92vAHRQimnh4fF) | 4:06 |
-| 304 | [Blood Brothers](https://open.spotify.com/track/7aMdmpShbYFRbdJigosY7C) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Blood Brothers](https://open.spotify.com/album/14y4V2QHlAI2bQeznVe97z) | 3:46 |
+| 303 | [Blood Brothers](https://open.spotify.com/track/7aMdmpShbYFRbdJigosY7C) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Blood Brothers](https://open.spotify.com/album/14y4V2QHlAI2bQeznVe97z) | 3:46 |
+| 304 | [The Backwards Heart](https://open.spotify.com/track/3yXpfmDmEluup8pOyi0g25) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Bleachers \(Deluxe\)](https://open.spotify.com/album/6HdWNexk92vAHRQimnh4fF) | 4:06 |
 | 305 | [Changes](https://open.spotify.com/track/2BojNLVmbq72M3FvZ7F9Ge) | [Brooke Candy](https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m) | [Changes](https://open.spotify.com/album/2lwidKEv28foesJgv8hpPY) | 3:25 |
 | 306 | [Violence](https://open.spotify.com/track/3ceQfWfkQmDsDsfHrAsasD) | [Red Hearse](https://open.spotify.com/artist/2922Q2qAcxb0hRD0LtPcFc) | [Red Hearse](https://open.spotify.com/album/1BrBVH1v92OAzRDijSyhj9) | 3:47 |
 | 307 | [dancing](https://open.spotify.com/track/3q05CKcaV14NeEX8jlgkby) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [everyone for ten minutes](https://open.spotify.com/album/7fVpvNHItOKonMGgbhHL5o) | 3:14 |
@@ -384,4 +384,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyqhBuzEZK8S.md) - [plain]
 | 374 | [W.95th Street High](https://open.spotify.com/track/6D4wRSYyOHfJkYs2VelrbW) | [Steel Train](https://open.spotify.com/artist/21GlDdSK6L1AvnMSbKh4Ut) | [Twilight Tales From The Prairies Of The Sun](https://open.spotify.com/album/5fJVIiklRAtq8xC0TdYZvO) | 4:21 |
 | 375 | [I Will Stay Here](https://open.spotify.com/track/0Je3AfZFiRde3KcvZYlCS0) | [Steel Train](https://open.spotify.com/artist/21GlDdSK6L1AvnMSbKh4Ut) | [Twilight Tales From The Prairies Of The Sun](https://open.spotify.com/album/5fJVIiklRAtq8xC0TdYZvO) | 5:46 |
 
-Snapshot ID: `AchbJgAAAACJGima3XnwU2kE5Oi9mu7v`
+Snapshot ID: `AchgigAAAAB/wX/K7U2ISS6wBURcN9AP`

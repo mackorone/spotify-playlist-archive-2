@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgIR1mhXzPQ.md) - [plain]
 
 > 대한민국 인디 음악의 현재와 미래가 한자리에! 2026 인디스땅스 & 사운드패스 The present and future of K\-Indie music! 2026 INDIESTANCE & SOUND PATH Showcase.
 
-[Spotify](https://open.spotify.com/user/spotify) - 207 likes - 44 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 210 likes - 44 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

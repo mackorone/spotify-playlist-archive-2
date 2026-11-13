@@ -671,6 +671,24 @@
     },
     {
       "album": {
+        "name": "As It Should Be",
+        "url": "https://open.spotify.com/album/4OJVdiN8yZAfMaLCiG1L0x"
+      },
+      "artists": [
+        {
+          "name": "Bodi Lukasz",
+          "url": "https://open.spotify.com/artist/6FhL947nyB3vI5QUecgylC"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147625,
+      "name": "As It Should Be",
+      "url": "https://open.spotify.com/track/2VW1jH7g94XgM4fiCwIdPl"
+    },
+    {
+      "album": {
         "name": "Asilah",
         "url": "https://open.spotify.com/album/5ngz6Awk3fEPDe5GomDmRM"
       },
@@ -6476,6 +6494,24 @@
       "duration_ms": 133874,
       "name": "Peace",
       "url": "https://open.spotify.com/track/1wVGlAEohNLnz29Iojl2BI"
+    },
+    {
+      "album": {
+        "name": "Peeking Through Clouds",
+        "url": "https://open.spotify.com/album/6m9ejulBzFaBPwmQo4TP4H"
+      },
+      "artists": [
+        {
+          "name": "Magnus Sakamura",
+          "url": "https://open.spotify.com/artist/6YyKxlVhFcuyUVfKutRtQr"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181043,
+      "name": "Peeking Through Clouds",
+      "url": "https://open.spotify.com/track/4fmFf8EkmmnHWcYpXWNqSz"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Aventura. The essential tracks, all in one playlist.",
-  "num_followers": 677176,
+  "num_followers": 677226,
   "original_name": "This Is Aventura",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avENAAAAAAArGiLMYmmWppqo1dHZ1txJ",
+  "snapshot_id": "avOwAAAAAABmrETjHwEMvYqh3p0kekeN",
   "tracks": [
     {
       "added_at": null,
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
         }
       ],
-      "duration_ms": 245040,
-      "name": "Alexandra",
-      "url": "https://open.spotify.com/track/5KGRgP2TIoQy5JGi5MFm7Z"
+      "duration_ms": 217880,
+      "name": "Amor Bonito (Novela 2)",
+      "url": "https://open.spotify.com/track/6vw2D0AeWBSJhJi0OrnudX"
     },
     {
       "added_at": null,
@@ -656,9 +656,9 @@
           "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
         }
       ],
-      "duration_ms": 217880,
-      "name": "Amor Bonito (Novela 2)",
-      "url": "https://open.spotify.com/track/6vw2D0AeWBSJhJi0OrnudX"
+      "duration_ms": 245040,
+      "name": "Alexandra",
+      "url": "https://open.spotify.com/track/5KGRgP2TIoQy5JGi5MFm7Z"
     },
     {
       "added_at": null,

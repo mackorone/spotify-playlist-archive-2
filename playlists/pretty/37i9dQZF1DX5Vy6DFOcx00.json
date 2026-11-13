@@ -1,13 +1,29 @@
 {
   "description": "iykyk",
-  "num_followers": 4053682,
+  "num_followers": 4053406,
   "original_name": "big on the internet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPSqBfNAiMcjHD1bhV8ia885gXIH",
+  "snapshot_id": "AAAAAPG4Zifnb2vqGycBhPcHkmTKIfsg",
   "tracks": [
+    {
+      "added_at": "2026-11-12 16:28:26",
+      "album": {
+        "name": "Grease (The Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq"
+      },
+      "artists": [
+        {
+          "name": "Frankie Avalon",
+          "url": "https://open.spotify.com/artist/5zNOI87gG4RttFmYAZWaxQ"
+        }
+      ],
+      "duration_ms": 239906,
+      "name": "Beauty School Dropout - From \u201cGrease\u201d",
+      "url": "https://open.spotify.com/track/5HhODl6Rl3nDulwv7S4Iyn"
+    },
     {
       "added_at": "2026-10-23 04:02:27",
       "album": {
@@ -59,6 +75,22 @@
       "duration_ms": 171717,
       "name": "It's That Time - FISHER Remix",
       "url": "https://open.spotify.com/track/3GiORO0zRwRT3g9CCklzkQ"
+    },
+    {
+      "added_at": "2026-10-09 04:02:49",
+      "album": {
+        "name": "Oh yeah?",
+        "url": "https://open.spotify.com/album/289GZwycrFReuNB706obBx"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "duration_ms": 149663,
+      "name": "nothing",
+      "url": "https://open.spotify.com/track/3lIHa4fUwNKOCSS5k3Za0i"
     },
     {
       "added_at": "2026-10-21 20:41:59",
@@ -113,6 +145,22 @@
       "url": "https://open.spotify.com/track/4EVSMqqVEehvyyOBmjNTlA"
     },
     {
+      "added_at": "2026-11-12 16:28:26",
+      "album": {
+        "name": "Everything On Fire",
+        "url": "https://open.spotify.com/album/3X4JQKQqriikASbUet3yBN"
+      },
+      "artists": [
+        {
+          "name": "Maia Toakley",
+          "url": "https://open.spotify.com/artist/1B1J5gTh5qjRAykIQMX8Ka"
+        }
+      ],
+      "duration_ms": 228240,
+      "name": "Everything On Fire",
+      "url": "https://open.spotify.com/track/0UQqqjAgaF55dma8PxwMXp"
+    },
+    {
       "added_at": "2026-10-09 04:02:49",
       "album": {
         "name": "Free Wired",
@@ -151,6 +199,70 @@
       "duration_ms": 111655,
       "name": "Suzuki (from GTAVI: The Album)",
       "url": "https://open.spotify.com/track/6VDw2mGBIa4csypjOhS6JT"
+    },
+    {
+      "added_at": "2026-11-12 16:28:26",
+      "album": {
+        "name": "Kindred Shadow",
+        "url": "https://open.spotify.com/album/6kqZPhxz3xIsJl4CfITDpL"
+      },
+      "artists": [
+        {
+          "name": "Pogo",
+          "url": "https://open.spotify.com/artist/1ng3xz2dyz57Z1WpnzM2G7"
+        }
+      ],
+      "duration_ms": 164703,
+      "name": "Forget",
+      "url": "https://open.spotify.com/track/26xgfuQnTaa5UQJhdQACz6"
+    },
+    {
+      "added_at": "2026-11-12 16:28:26",
+      "album": {
+        "name": "M\u00fasica para Hornear",
+        "url": "https://open.spotify.com/album/5SXOSHN5A1KpAZaWKopiMV"
+      },
+      "artists": [
+        {
+          "name": "Stephen Wilson Jr.",
+          "url": "https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd"
+        }
+      ],
+      "duration_ms": 247279,
+      "name": "Stand By Me - Live at The Print Shop",
+      "url": "https://open.spotify.com/track/3CuM5NvE8YszSb6r7ymjQe"
+    },
+    {
+      "added_at": "2026-08-06 14:45:02",
+      "album": {
+        "name": "Loser",
+        "url": "https://open.spotify.com/album/3xIGAElZCxV44QtMvXrPMa"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 223069,
+      "name": "Loser",
+      "url": "https://open.spotify.com/track/3RmFPuTTAjSQ2pbEd2j9oA"
+    },
+    {
+      "added_at": "2026-11-12 16:28:26",
+      "album": {
+        "name": "Killer, Baby",
+        "url": "https://open.spotify.com/album/5Pp56WPDTfooS4XEhiRlMJ"
+      },
+      "artists": [
+        {
+          "name": "Alfie Castley",
+          "url": "https://open.spotify.com/artist/4t5uGGNiFjujYEEyVVDEwc"
+        }
+      ],
+      "duration_ms": 166759,
+      "name": "Killer, Baby",
+      "url": "https://open.spotify.com/track/1rFmwFVlQR0EjWBingBep6"
     },
     {
       "added_at": "2026-10-19 23:29:54",
@@ -205,20 +317,20 @@
       "url": "https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0"
     },
     {
-      "added_at": "2026-08-06 14:45:02",
+      "added_at": "2026-11-12 16:28:26",
       "album": {
-        "name": "Loser",
-        "url": "https://open.spotify.com/album/3xIGAElZCxV44QtMvXrPMa"
+        "name": "Shotta's.",
+        "url": "https://open.spotify.com/album/1XUTYkp36yxfOmOaNlbxiE"
       },
       "artists": [
         {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+          "name": "Season 25",
+          "url": "https://open.spotify.com/artist/1WtceoonufhxRc6AnUSbat"
         }
       ],
-      "duration_ms": 223069,
-      "name": "Loser",
-      "url": "https://open.spotify.com/track/3RmFPuTTAjSQ2pbEd2j9oA"
+      "duration_ms": 142613,
+      "name": "Shotta's.",
+      "url": "https://open.spotify.com/track/1ApUYfDejOBvrTnar2Wyf3"
     },
     {
       "added_at": "2026-10-19 23:29:54",
@@ -237,6 +349,22 @@
       "url": "https://open.spotify.com/track/51vArgRF64yIWk3JIcRITo"
     },
     {
+      "added_at": "2026-11-12 16:28:26",
+      "album": {
+        "name": "Barely Holding On",
+        "url": "https://open.spotify.com/album/3D1Oaq7DHlYcGYclJJJeMh"
+      },
+      "artists": [
+        {
+          "name": "Buffalo Traffic Jam",
+          "url": "https://open.spotify.com/artist/22LEPYRDhoThnbpShy6fV7"
+        }
+      ],
+      "duration_ms": 210626,
+      "name": "Barely Holding On",
+      "url": "https://open.spotify.com/track/2uSgEGeb0j2xQiqj7wA2xm"
+    },
+    {
       "added_at": "2026-10-09 04:02:49",
       "album": {
         "name": "IMPULSIVE",
@@ -251,6 +379,22 @@
       "duration_ms": 156106,
       "name": "IMPULSIVE",
       "url": "https://open.spotify.com/track/6HkdUz90Kmcxr0cprI10UL"
+    },
+    {
+      "added_at": "2026-11-12 16:28:26",
+      "album": {
+        "name": "The Dark Side of the Moon",
+        "url": "https://open.spotify.com/album/4LH4d3cOWNNsVw41Gqt2kv"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "duration_ms": 422853,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/3TO7bbrUKrOSPGRTB5MeCz"
     },
     {
       "added_at": "2026-10-09 04:02:49",
@@ -337,20 +481,20 @@
       "url": "https://open.spotify.com/track/2XhmIDdUVi7f44eW5wZEO8"
     },
     {
-      "added_at": "2026-10-09 04:02:49",
+      "added_at": "2026-11-12 16:28:26",
       "album": {
-        "name": "Oh yeah?",
-        "url": "https://open.spotify.com/album/289GZwycrFReuNB706obBx"
+        "name": "The Poet",
+        "url": "https://open.spotify.com/album/0FxES8KJrC1l05E4lKdaxh"
       },
       "artists": [
         {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+          "name": "John Michael Howell",
+          "url": "https://open.spotify.com/artist/4BqK6JLgMwQ99hx85DxNhP"
         }
       ],
-      "duration_ms": 149663,
-      "name": "nothing",
-      "url": "https://open.spotify.com/track/3lIHa4fUwNKOCSS5k3Za0i"
+      "duration_ms": 183110,
+      "name": "Fairy",
+      "url": "https://open.spotify.com/track/0z2deS6KOYeBAOs6OTOvyw"
     },
     {
       "added_at": "2026-09-18 04:02:54",
@@ -865,38 +1009,6 @@
       "url": "https://open.spotify.com/track/7JIuqL4ZqkpfGKQhYlrirs"
     },
     {
-      "added_at": "2026-09-18 04:02:54",
-      "album": {
-        "name": "No Other Heart",
-        "url": "https://open.spotify.com/album/1iiL6HegqIF4Ql0ObDxU2j"
-      },
-      "artists": [
-        {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        }
-      ],
-      "duration_ms": 173117,
-      "name": "No Other Heart",
-      "url": "https://open.spotify.com/track/4laW52Dhj4RhmYqdXYiYw9"
-    },
-    {
-      "added_at": "2026-09-18 04:02:54",
-      "album": {
-        "name": "SUCKER",
-        "url": "https://open.spotify.com/album/5Ws5ktkIUJFpaIImvH3tYU"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 208973,
-      "name": "Red Balloon - Bonus Track",
-      "url": "https://open.spotify.com/track/7slO17jNwf7yI0SHLEXIXJ"
-    },
-    {
       "added_at": "2026-08-06 14:51:57",
       "album": {
         "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
@@ -927,82 +1039,6 @@
       "duration_ms": 126686,
       "name": "Pink Blush",
       "url": "https://open.spotify.com/track/2FaW6Je4rEKqCE47NbLQX1"
-    },
-    {
-      "added_at": "2026-09-18 04:02:54",
-      "album": {
-        "name": "BFF4L",
-        "url": "https://open.spotify.com/album/4uQcLbMRotntOegxzt1FzB"
-      },
-      "artists": [
-        {
-          "name": "holottacheese",
-          "url": "https://open.spotify.com/artist/37Nev24TbRvZdcymARiXwh"
-        },
-        {
-          "name": "holottamula",
-          "url": "https://open.spotify.com/artist/2j4ebyg69zQ6ocw719yOzK"
-        }
-      ],
-      "duration_ms": 93544,
-      "name": "BFF4L",
-      "url": "https://open.spotify.com/track/1miLQdnK9BuevUNgevzTHX"
-    },
-    {
-      "added_at": "2026-09-11 04:42:20",
-      "album": {
-        "name": "The Boatlift",
-        "url": "https://open.spotify.com/album/7m9AYxqeFPagkaqlg6WE0J"
-      },
-      "artists": [
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        },
-        {
-          "name": "Lil Jon",
-          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
-        }
-      ],
-      "duration_ms": 245054,
-      "name": "The Anthem",
-      "url": "https://open.spotify.com/track/2cZ5ACJfBj2uAXARdHpjAW"
-    },
-    {
-      "added_at": "2026-08-21 04:02:31",
-      "album": {
-        "name": "18 Months",
-        "url": "https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        }
-      ],
-      "duration_ms": 234506,
-      "name": "I Need Your Love (feat. Ellie Goulding)",
-      "url": "https://open.spotify.com/track/05SBRd4fXgn8FX7bf8BCAE"
-    },
-    {
-      "added_at": "2026-08-04 01:43:44",
-      "album": {
-        "name": "petal",
-        "url": "https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 184248,
-      "name": "petal",
-      "url": "https://open.spotify.com/track/70pVCVMGjmIWPbWXDwf11e"
     },
     {
       "added_at": "2026-09-18 04:02:54",

@@ -2,9 +2,9 @@
 
 ### [Bedroom Pop](https://open.spotify.com/playlist/37i9dQZF1DXcxvFzl58uP7)
 
-> Dreamy melodies and hushed vocals\. Cover: Ghostly Kisses
+> Dreamy melodies and hushed vocals\. Cover: Gabriella Bee
 
-1,062 songs - 2 day 7 hr 7 min
+1,065 songs - 2 day 7 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,7 +227,7 @@
 | [Crying on the Subway](https://open.spotify.com/track/6dbAKM5iS4ZrdIxuGY5wuT) | [Hana Vu](https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO) | [Crying on the Subway](https://open.spotify.com/album/1A6NdHTHLt06XCoOanr2sl) | 2:44 | 2019-07-30\* | 2021-05-25 |
 | [Cure](https://open.spotify.com/track/5Y9Yt65EIE3sgfT2cCQqQV) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [Cure](https://open.spotify.com/album/5b6ynO9hFN6QShLHxjs2Xc) | 2:39 | 2021-03-29 | 2021-06-03 |
 | [Cut Me Out](https://open.spotify.com/track/1YihSDAg3p8sWmncpIShkS) | [BOYO](https://open.spotify.com/artist/1puLsaxX9EwudKrNBUVFe4) | [Cut Me Out](https://open.spotify.com/album/6AWBNB0ZQ9OGEy6ZbaFyTa) | 2:57 | 2019-07-30\* | 2019-08-09 |
-| [Cute](https://open.spotify.com/track/5Io5zi4VLNLSV0HZ0muPPW) | [Asara](https://open.spotify.com/artist/5W1dRz6kNfJb2cSPQKErpD) | [Cute](https://open.spotify.com/album/0KafD7J4XoiLvLwI9tBjIa) | 2:16 | 2026-03-13 |  |
+| [Cute](https://open.spotify.com/track/5Io5zi4VLNLSV0HZ0muPPW) | [Asara](https://open.spotify.com/artist/5W1dRz6kNfJb2cSPQKErpD) | [Cute](https://open.spotify.com/album/0KafD7J4XoiLvLwI9tBjIa) | 2:16 | 2026-03-13 | 2026-11-13 |
 | [Cuz You're My Girl](https://open.spotify.com/track/1zrbRA9ADsXFHRt0GSJnJq) | [Yung Heazy](https://open.spotify.com/artist/15fMBLwvm3qGTWXgdxOUCV) | [Cuz You're My Girl](https://open.spotify.com/album/53bd4Vo0JyNRk4odnRYHYT) | 4:07 | 2019-07-30\* | 2022-04-16 |
 | [Daffodils](https://open.spotify.com/track/2vyak1vtVqf328sQoy0VCS) | [Adam Snow](https://open.spotify.com/artist/7aA8brStGaORtuXmY6nrT0) | [Daffodils](https://open.spotify.com/album/5M52Nb9flcsFikTMdfqM19) | 2:46 | 2021-02-26 | 2021-05-27 |
 | [Daisy](https://open.spotify.com/track/3SE3kNoi1T9euYL6NTOcXB) | [Delorians](https://open.spotify.com/artist/3veLkV7PryzEQXJnFxDhON) | [Daisy](https://open.spotify.com/album/3iz6RVbojDkO2E0DFni9t3) | 3:06 | 2021-10-08 | 2024-04-24 |
@@ -237,6 +237,7 @@
 | [Dark Red](https://open.spotify.com/track/3EaJDYHA0KnX88JvDhL9oa) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Dark Red](https://open.spotify.com/album/7vrsFZNVhrriKh0SZKJW41) | 2:53 | 2022-09-14 | 2023-04-18 |
 | [Dark Red](https://open.spotify.com/track/3cJjqvXbFwiWgnuWgoyhPM) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Steve Lacy's Demo](https://open.spotify.com/album/2J3aZLAPphJi80QXibyrNr) | 2:53 | 2022-12-21 | 2023-02-21 |
 | [Darling I Do](https://open.spotify.com/track/4HQPftni948NDA17ajheQQ) | [Ezra Williams](https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48) | [Darling I Do](https://open.spotify.com/album/0BeGOenR0eXIrFxmgQnt2j) | 3:01 | 2023-09-29 | 2024-04-24 |
+| [daydream](https://open.spotify.com/track/1aqGJEUdNQaSrtNXeHFws8) | [Ivytide](https://open.spotify.com/artist/1FYG11siqeY73Lu2hrFMYp) | [daydream](https://open.spotify.com/album/2gvlIWggmJfiOr6RfwVYFF) | 3:05 | 2026-11-13 |  |
 | [Days With You](https://open.spotify.com/track/5N6WeW88EoI3OnpYoKvhLh) | [Mont Duamel](https://open.spotify.com/artist/2yVpWiIBNJb0U8lPhE86cB) | [Days With You](https://open.spotify.com/album/4o8nsp5Yjks4EEtZgqYS41) | 2:49 | 2022-03-04 | 2022-07-22 |
 | [daytime](https://open.spotify.com/track/4FpqxunRt0nwV5mBesjZ2H) | [Frances Forever](https://open.spotify.com/artist/5uuqghaOBgtv92jDyDveQl) | [paranoia party](https://open.spotify.com/album/0VUQxlHNGfyoac8Hi1QsIK) | 3:39 | 2021-07-19 | 2022-04-21 |
 | [Daytrip](https://open.spotify.com/track/5QTFijKBM9oCO5vH744k7r) | [STEPHAN](https://open.spotify.com/artist/5nactm2CY1y393GPVUzKOY), [Current Blue](https://open.spotify.com/artist/6wW4D3fGgRABc3cAotb0RS) | [Daytrip](https://open.spotify.com/album/2MbEjelAESGKIBDL54OYeY) | 2:24 | 2019-07-30\* | 2021-05-31 |
@@ -619,7 +620,7 @@
 | [MKP](https://open.spotify.com/track/2pDrWUk0ZU0W00Cw8290y2) | [emawk](https://open.spotify.com/artist/2zAshenjqDlcL4pudfySBY) | [MKP](https://open.spotify.com/album/5bKkJRL5LTQhl3BVbVrJ0U) | 3:40 | 2021-05-04 | 2021-05-28 |
 | [mmmmm](https://open.spotify.com/track/29vSgGJJgVntYlzaXdMlPT) | [Daisy the Great](https://open.spotify.com/artist/0SrIPejckovMwhrN3MZFPB) | [soft songs](https://open.spotify.com/album/4wL7nOcMIwIY0zr7B1bEnb) | 1:16 | 2020-06-12 | 2021-05-23 |
 | [Moneymaker](https://open.spotify.com/track/5tLXBOJvOu48PjpW76VStm) | [Chloe Parché](https://open.spotify.com/artist/6jCOKlQ9OBPbQgPoZ3haov) | [Moneymaker](https://open.spotify.com/album/5XDL6RZGrCHqt8vX49KeZU) | 3:00 | 2021-03-20 | 2021-07-26 |
-| [Mood Ring](https://open.spotify.com/track/7rDj3Mst01U7U6GmfHImZT) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [Mood Ring](https://open.spotify.com/album/32egrBNmQPGPRSYWdkn9Xf) | 3:22 | 2026-08-21 |  |
+| [Mood Ring](https://open.spotify.com/track/7rDj3Mst01U7U6GmfHImZT) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [Mood Ring](https://open.spotify.com/album/32egrBNmQPGPRSYWdkn9Xf) | 3:22 | 2026-08-21 | 2026-11-13 |
 | [Moonlight](https://open.spotify.com/track/4firXMx3LKEH8a5hiJeL5D) | [CASTLEBEAT](https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3) | [Moonlight](https://open.spotify.com/album/3a4JBDsQCybVTSAn3KDdrN) | 3:59 | 2024-01-12 | 2025-02-11 |
 | [More To You](https://open.spotify.com/track/3kpXsXVUkPus5T7Qld833K) | [Josh Fudge](https://open.spotify.com/artist/6FvkNLhuBDTYfqbl6PV0xp) | [More To You](https://open.spotify.com/album/5wOG2cUteiFYJ9u19jHkzL) | 3:54 | 2021-05-01 | 2022-04-20 |
 | [Morning Sex](https://open.spotify.com/track/2fGRJzoiYJYAzlQAyBONMb) | [Ralph Castelli](https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd) | [Morning Sex](https://open.spotify.com/album/6nPjdP4pjRIItNMnu9DSLQ) | 2:55 | 2019-07-30\* | 2026-10-09 |
@@ -719,7 +720,7 @@
 | [pink](https://open.spotify.com/track/07k9mY47Nk7UiBvsaHZ1Do) | [okayceci](https://open.spotify.com/artist/1NCMfKfYXbyLqsChnYNd3P) | [pink](https://open.spotify.com/album/7Cu10G7pgBtQrwvpXY4HLF) | 2:27 | 2021-03-21 | 2021-05-18 |
 | [Pisces Moon](https://open.spotify.com/track/1tlRDKcS5x4qXwJsgpLwCp) | [Flower Face](https://open.spotify.com/artist/0sYlth2PW1zWJMEU2vCukz) | [Pisces Moon](https://open.spotify.com/album/5JHN8Wx9jUJSbr1vgxuAl3) | 3:39 | 2022-03-04 | 2022-04-18 |
 | [Plant!](https://open.spotify.com/track/53oZXP24LECwD6YBybecvG) | [Flowerboy](https://open.spotify.com/artist/10HyhQTjkmDpWBpaUgO2GS) | [Plant!](https://open.spotify.com/album/6M5YgjMimJs0qUBkDmXf3N) | 2:11 | 2021-10-08 | 2022-07-28 |
-| [Please](https://open.spotify.com/track/1JYpAqXg2HwCfTMKzr6VXK) | [Esbie Fonte](https://open.spotify.com/artist/6Sh3ahSTQD6LqMh1wMaSLY) | [Please](https://open.spotify.com/album/7D5FN6JVYSzYfHTGWSx5zy) | 3:36 | 2024-11-25 |  |
+| [Please](https://open.spotify.com/track/1JYpAqXg2HwCfTMKzr6VXK) | [Esbie Fonte](https://open.spotify.com/artist/6Sh3ahSTQD6LqMh1wMaSLY) | [Please](https://open.spotify.com/album/7D5FN6JVYSzYfHTGWSx5zy) | 3:36 | 2024-11-25 | 2026-11-13 |
 | [Pond Weed](https://open.spotify.com/track/2Tq8kdQuyuQNudS7PO3fSw) | [Brad stank](https://open.spotify.com/artist/6BkeI9oZkqskZ4XMwy5OFl) | [Eternal Slowdown](https://open.spotify.com/album/0ZHd1Jd0l3pc7t6DfVlDbd) | 4:20 | 2023-08-25 | 2024-04-24 |
 | [Pope Is a Rockstar](https://open.spotify.com/track/0So2sgVa8aJiARPl2P29u2) | [SALES](https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN) | [SALES LP](https://open.spotify.com/album/7ywSMs3G2OWOGVKMqc7KsE) | 3:07 | 2021-12-16 | 2022-04-07 |
 | [pouring outside](https://open.spotify.com/track/6IW56BQYrmMniYZBwGCNeL) | [dyl dion](https://open.spotify.com/artist/6oqHT4S7trO98T8NkbQJ4h) | [pouring outside](https://open.spotify.com/album/3tD59sMsBsem82vGGVRRim) | 2:36 | 2022-02-02 | 2022-05-30 |
@@ -767,7 +768,7 @@
 | [Running](https://open.spotify.com/track/4pbZ4wFXjGa92CsOlrscDL) | [Ralph Castelli](https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd) | [Running](https://open.spotify.com/album/5PYHrR4SV1E7ZwTmhyQGw3) | 2:38 | 2020-05-17 | 2022-04-20 |
 | [running back](https://open.spotify.com/track/2GIfPh0soztojStCU4hWcX) | [Prentiss](https://open.spotify.com/artist/0uzKt8lgkTlxm4OUWiCX3H) | [hey prentiss](https://open.spotify.com/album/5rULMY8zzfeKSBlpuDOIZe) | 1:52 | 2022-03-04 | 2022-04-16 |
 | [Rush](https://open.spotify.com/track/1YVDXfQqscsz95OHzXtYj2) | [Adriana Proenza](https://open.spotify.com/artist/7KHA7OOevgTDFhlym0oEyP), [M.R.L.N](https://open.spotify.com/artist/6FdUPIozbiZTwiaxQXzMM5) | [Rush](https://open.spotify.com/album/5frGEFPYH8gC6ziIceNHPA) | 3:02 | 2019-07-30\* | 2020-04-23 |
-| [Sad](https://open.spotify.com/track/1LsbKa4Wr0aQwDYKK1Yueq) | [Sean Davidson](https://open.spotify.com/artist/6u0XWceCyNB6MJrRzB8498) | [Notebook 26](https://open.spotify.com/album/1L5i0JLzxeqWQMZQ2IvLjP) | 2:34 | 2026-11-06 |  |
+| [Sad](https://open.spotify.com/track/1LsbKa4Wr0aQwDYKK1Yueq) | [Sean Davidson](https://open.spotify.com/artist/6u0XWceCyNB6MJrRzB8498) | [Notebook 26](https://open.spotify.com/album/1L5i0JLzxeqWQMZQ2IvLjP) | 2:34 | 2026-11-06 | 2026-11-13 |
 | [Safe Bet](https://open.spotify.com/track/1M5nsffIhlZC4OtQrNMiwZ) | [j ember](https://open.spotify.com/artist/4UUDpbs7gikfzHz0CRvdnv) | [Safe Bet](https://open.spotify.com/album/1Cd2uRXtyORXJDai5of0iN) | 3:08 | 2026-10-09 |  |
 | [Same as It Ever Was](https://open.spotify.com/track/2p4hVPCgzyB7OXDtcdoaWQ) | [Victoria Bigelow](https://open.spotify.com/artist/3QcQHXrN1oIQO9kCihqNCU) | [Same as It Ever Was](https://open.spotify.com/album/3WVb6l4hnwAxisjsG6FDrS) | 2:28 | 2021-08-27 | 2022-04-20 |
 | [Satellite](https://open.spotify.com/track/2ZePtlVh7zuwJuRsyDf0wv) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [Satellite](https://open.spotify.com/album/7CqjJX9zyeD5oGqhItutRJ) | 2:59 | 2023-04-17 | 2023-04-21 |
@@ -802,7 +803,7 @@
 | [Shooting Star](https://open.spotify.com/track/5HSCHarXwdTRIfVwsYnbRA) | [Tommy Newport](https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv) | [Shooting Star](https://open.spotify.com/album/50hsrcRrFSSPzWIIPhDgRV) | 2:34 | 2020-06-20 | 2021-04-30 |
 | [should i get my ears pierced?](https://open.spotify.com/track/3F86hfA7Afrya4LTKckWKM) | [remy](https://open.spotify.com/artist/4DsVKs4W72RTKOfD3CtTaw) | [should i get my ears pierced?](https://open.spotify.com/album/7DNALWifdczn56CQ0IrAa9) | 2:31 | 2021-07-02 | 2022-04-17 |
 | [Shoulder](https://open.spotify.com/track/0cs9JUEbRpq0FKlrLatqnL) | [CASTLEBEAT](https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3), [Sonia Gadhia](https://open.spotify.com/artist/3bjxtDdZiByIKfHFEK96zB) | [Melodrama](https://open.spotify.com/album/4VDue6QekQ9iZZpMTLS7ZX) | 3:21 | 2020-10-16 | 2021-07-26 |
-| [Show Me How](https://open.spotify.com/track/01TyFEZu6mHbffsVfxgrFn) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Show Me How](https://open.spotify.com/album/75IgpYGNlc8KmwZ9FlTtJg) | 3:35 | 2021-11-17 | 2024-05-05 |
+| [Show Me How](https://open.spotify.com/track/01TyFEZu6mHbffsVfxgrFn) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Show Me How](https://open.spotify.com/album/75IgpYGNlc8KmwZ9FlTtJg) | 3:35 | 2021-11-17 |  |
 | [Show Me How](https://open.spotify.com/track/75IQVo8hqI1iwVZyvkN2VT) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Show Me How](https://open.spotify.com/album/7mUYDBqNiddmKxuKrnBEKQ) | 3:35 | 2023-09-29 | 2024-04-19 |
 | [Show Runner 99](https://open.spotify.com/track/4G5bnCpOB99DIcOQa6QVYw) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Show Runner 99](https://open.spotify.com/album/1ixXFuKaljRwvI8IEupLeQ) | 3:26 | 2021-08-27 | 2022-07-29 |
 | [Shy](https://open.spotify.com/track/3TFNxpIwIzMi3jsMRy9GVZ) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [Shy](https://open.spotify.com/album/3GB1leLOnXrqHy7dTFZ9I8) | 3:21 | 2019-11-15 |  |
@@ -861,6 +862,7 @@
 | [Splinter](https://open.spotify.com/track/4iKfmaKGc59LZXQNK7nAgf) | [FIG](https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8) | [Splinter](https://open.spotify.com/album/5xQJYeIxVY2xJngtdtGz11) | 2:47 | 2025-11-20 | 2026-02-28 |
 | [Star Catcher](https://open.spotify.com/track/5gpMP9txiN63xsNlBWNBRX) | [Vansire](https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY), [Chester Watson](https://open.spotify.com/artist/1vmLIa1VRY38hZoar8AyYS) | [Angel Youth](https://open.spotify.com/album/3Zqe5icElI6gNEM9v3UpXN) | 3:19 | 2019-07-31 | 2021-05-27 |
 | [Start The Show](https://open.spotify.com/track/6F9S6CMJZU8utXfjoV7vAX) | [FIG](https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8), [Liltrxptendo](https://open.spotify.com/artist/3WFlOP0dm0rDBwjiMNbfsP) | [The Fluke](https://open.spotify.com/album/0MgeachBtgPXXt00RWv5Yd) | 3:08 | 2021-02-28 | 2021-05-27 |
+| [Steady](https://open.spotify.com/track/42Ux4Cb5iR6prDveFvLNv9) | [Shaina Hayes](https://open.spotify.com/artist/07BSJfATf49EmPNOzM01cZ) | [Steady](https://open.spotify.com/album/2baQtWqbXN5xXxUHJ0GwaV) | 4:12 | 2026-11-13 |  |
 | [Still Beating](https://open.spotify.com/track/2N4idqj9TT3HnH2OFT9j0v) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [This Old Dog](https://open.spotify.com/album/6XzoFb3hP14jVQeCMRdVJR) | 3:01 | 2019-07-30\* | 2022-07-29 |
 | [Still Beating](https://open.spotify.com/track/4LpUpiYoZ2M3Z1kmhn4EQo) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [This Old Dog](https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7) | 3:01 | 2021-02-27 | 2024-04-19 |
 | [Still Got You](https://open.spotify.com/track/4YqhexywnAsA3fiIb1mdGl) | [STEPHAN](https://open.spotify.com/artist/5nactm2CY1y393GPVUzKOY) | [Still Got You](https://open.spotify.com/album/4WYoDZAUzdn2ArmyrfUcT8) | 2:13 | 2019-07-31 | 2019-10-17 |
@@ -1029,6 +1031,7 @@
 | [What’s This About \(La La La La\)](https://open.spotify.com/track/5JHKt7k6aKdfRs2flAT4je) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [What’s This About \(La La La La\)](https://open.spotify.com/album/6HBrgJUaDMbHlDtCjK7K5d) | 2:10 | 2024-08-30 | 2026-02-28 |
 | [Where Do I Go](https://open.spotify.com/track/0HvbFmfFlcsAJ6hydqflNk) | [MINOVA](https://open.spotify.com/artist/6mskRz8EwbqCXm39vtGStC) | [Where Do I Go](https://open.spotify.com/album/4nFKRPl8NBisqDFKIFZVqg) | 3:10 | 2024-01-12 |  |
 | [Where is the night flame](https://open.spotify.com/track/7pepl08YPjjhGxDIJUJ5rg) | [tiger bae](https://open.spotify.com/artist/0xH0kox7WzXayqGJRqIvEp) | [Where is the night flame](https://open.spotify.com/album/7mjKUw3RcjJgjiA5N4KzvL) | 3:39 | 2021-03-20 | 2021-05-20 |
+| [whiplash](https://open.spotify.com/track/0DbOLpTyYnS2z95rifxMSJ) | [Gabriela Bee](https://open.spotify.com/artist/4z0EquFxDCtiHuPGiWDCq1) | [whiplash](https://open.spotify.com/album/0gWJNCsbesxslnMabROiRh) | 2:38 | 2026-11-13 |  |
 | [Why Do You Want Anything To Do With Me?](https://open.spotify.com/track/1WPXdnwx8OS5bRqysVMrS9) | [Hala](https://open.spotify.com/artist/1dTBAtLZBUB8Ir4PmJYw9t) | [Red Herring](https://open.spotify.com/album/45Vu1IeIky2HL6w7R2UsRv) | 2:48 | 2021-02-24 | 2021-05-23 |
 | [Wiggle](https://open.spotify.com/track/3xUoFmauSdcqntvnmc39XZ) | [binki](https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW) | [Wiggle](https://open.spotify.com/album/3C6id3ytbDm10twaf8c4BY) | 2:59 | 2019-09-03 | 2021-08-24 |
 | [wildflower](https://open.spotify.com/track/0u7Shj9zotYlZR1HTV04CX) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [wildflower](https://open.spotify.com/album/3K4cEd76AbffzMtu8bEfz9) | 2:55 | 2024-12-12 |  |

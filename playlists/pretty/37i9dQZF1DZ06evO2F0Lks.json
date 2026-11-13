@@ -1,12 +1,12 @@
 {
   "description": "This is Carrie Underwood. The essential tracks, all in one playlist.",
-  "num_followers": 152512,
+  "num_followers": 152511,
   "original_name": "This Is Carrie Underwood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avENAAAAAADagG9etcm/AMf/Oll1vn1H",
+  "snapshot_id": "avOwAAAAAABvFxKadCaGNGkeRO/KI/4s",
   "tracks": [
     {
       "added_at": null,
@@ -735,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Some Hearts",
-        "url": "https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 240258,
-      "name": "Don't Forget to Remember Me",
-      "url": "https://open.spotify.com/track/0SCtEUwSkgavjuzebBznX5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ghost Story",
         "url": "https://open.spotify.com/album/7jiRQ5lBRvqoqSsPldfHjc"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 181400,
       "name": "Ghost Story",
       "url": "https://open.spotify.com/track/2FGOg7uYBfnspkPOISXTFY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Some Hearts",
+        "url": "https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 240258,
+      "name": "Don't Forget to Remember Me",
+      "url": "https://open.spotify.com/track/0SCtEUwSkgavjuzebBznX5"
     },
     {
       "added_at": null,
@@ -799,6 +799,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Play On",
+        "url": "https://open.spotify.com/album/3iLrVuA1k7onNmZTuUQH4u"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 196694,
+      "name": "Look at Me",
+      "url": "https://open.spotify.com/track/30vfmE5gZLW1VtghknFwTn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Duets II",
         "url": "https://open.spotify.com/album/5ktAYFq8wJ1hcWHaxl6AQf"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 228853,
       "name": "It Had to Be You",
       "url": "https://open.spotify.com/track/328dqlTGkTgH5GPrsQusql"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Denim & Rhinestones",
-        "url": "https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 203600,
-      "name": "Pink Champagne",
-      "url": "https://open.spotify.com/track/0LI59fuqv8OTAnY9cqCife"
     },
     {
       "added_at": null,

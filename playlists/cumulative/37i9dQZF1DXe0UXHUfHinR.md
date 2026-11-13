@@ -4,7 +4,7 @@
 
 > The most popular Jazz tracks in one playlist\. Cover: Herbie Hancock
 
-882 songs - 2 day 23 hr 23 min
+883 songs - 2 day 23 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Angel Eyes \- Studio](https://open.spotify.com/track/4d3XHYFFuYYzxWr2cJ6yQl) | [Tommy Flanagan](https://open.spotify.com/artist/6dUZplQfg5blo0h9HiJ94d), [Ron Carter](https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP), [Tony Williams](https://open.spotify.com/artist/1TW90GjShgkjySrxBxcwQe) | [Master Trio](https://open.spotify.com/album/0O6FZJtO0RcQEDu3t55vF4) | 5:49 | 2023-04-19 |  |
 | [April In Paris](https://open.spotify.com/track/34zhjduFdQFhkRUJ230h9T) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [All Or Nothing At All](https://open.spotify.com/album/4euFXiaCTmBkwh9HXjagp9) | 3:05 | 2022-10-27 | 2025-09-13 |
 | [April In Paris](https://open.spotify.com/track/5rPMbUxXRXvWu89k0n6Sxj) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC) | [April In Paris: The Genius Of Charlie Parker \#2](https://open.spotify.com/album/7uifUApb0mUlqIxX5SkrVJ) | 3:07 | 2022-12-22 |  |
-| [April In Paris](https://open.spotify.com/track/5rdjEoAiqqsjZdQaYSaDta) | [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [April In Paris \(Expanded Edition\)](https://open.spotify.com/album/1gDs61sxoI4By9TKxe8Y0k) | 3:48 | 2025-12-04 |  |
+| [April In Paris](https://open.spotify.com/track/5rdjEoAiqqsjZdQaYSaDta) | [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [April In Paris \(Expanded Edition\)](https://open.spotify.com/album/1gDs61sxoI4By9TKxe8Y0k) | 3:48 | 2025-12-04 | 2026-11-13 |
 | [April In Paris \- 2007 Remaster/Rudy Van Gelder Edition](https://open.spotify.com/track/3QuSHJUfvuOyeKMS32Wckj) | [Thad Jones](https://open.spotify.com/artist/6DbqS0X8cSFOPGsvyze2yh) | [The Magnificent Thad Jones \(Remastered\)](https://open.spotify.com/album/5ZaHEBnWWXSD3zvfiY6pju) | 6:43 | 2022-10-27 |  |
 | [As Time Goes By](https://open.spotify.com/track/3lO4Z6BSp773vcovgYurHg) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [The Complete Commodore Recordings](https://open.spotify.com/album/7zSWkh1YCGAo4zO7nje22z) | 3:14 | 2022-12-07 | 2026-08-05 |
 | [As Times Goes By](https://open.spotify.com/track/5w2q0VJw3QYjjDKnb4Mt8Z) | [Teddy Wilson](https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii) | [I Got Rhythm](https://open.spotify.com/album/06nblZEpSdnbBN6iLwl3W9) | 3:07 | 2022-10-27 |  |
@@ -698,6 +698,7 @@
 | [Stolen Moments](https://open.spotify.com/track/1tbzRQCZUoKYMCxzK0Jx5p) | [Ahmad Jamal Trio](https://open.spotify.com/artist/0BqALs1lInR9TTOulUADH7) | [The Awakening](https://open.spotify.com/album/5oSVYKZLKGCmwYqmJ7AZnO) | 6:32 | 2022-10-27 |  |
 | [Stolen Moments](https://open.spotify.com/track/1sce5VJvCOYYDAR9rp9KdG) | [Oliver Nelson](https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN) | [The Blues And The Abstract Truth](https://open.spotify.com/album/6lxRA8Rl9a9XoZDCVWBzBY) | 8:45 | 2022-10-27 |  |
 | [Stompin At The Savoy](https://open.spotify.com/track/1xUJ1mdLAysxNBtO9w3J2g) | [Benny Goodman](https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve) | [B\. G\. In Hi Fi](https://open.spotify.com/album/33oCBSZiLbfqyOnTTQ4Tct) | 3:15 | 2022-10-27 |  |
+| [Stompin' At The Savoy](https://open.spotify.com/track/2VaOoXFfdlrHyhORSq9H1v) | [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO), [Max Roach](https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g) | [Brown And Roach Incorporated](https://open.spotify.com/album/6Wub7N4F0jXoqt66E5j2ql) | 6:27 | 2025-12-04 |  |
 | [Stompin' At The Savoy](https://open.spotify.com/track/4Skc87uKf4cHqEYbnr56La) | [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB) | [A Generation Ago Today](https://open.spotify.com/album/1L4xE6y5n2qKfYqJCoqzLf) | 6:08 | 2025-12-04 | 2026-02-01 |
 | [Stompin' At The Savoy](https://open.spotify.com/track/1YwL0oRz2KmlNcO2ahQWOn) | [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9), [Paul Chambers](https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG), [Art Taylor](https://open.spotify.com/artist/3CsHGnB9qK3KYH7xmyGAGX) | [Red Garland's Piano](https://open.spotify.com/album/1Lrt5saApIz6z8dGmyKB7d) | 3:09 | 2022-10-27 | 2025-10-14 |
 | [Stompin' At The Savoy \- 1956 Version](https://open.spotify.com/track/49vFXoPnbgIoLd76Szqmar) | [Teddy Wilson](https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii) | [I Got Rhythm](https://open.spotify.com/album/06nblZEpSdnbBN6iLwl3W9) | 4:09 | 2022-10-27 |  |

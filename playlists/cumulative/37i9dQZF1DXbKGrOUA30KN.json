@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-10-28",
-  "description": "Deutschpop, der jetzt passiert. Cover: LUNA",
+  "description": "Deutschpop, der jetzt passiert. Cover: LEA",
   "name": "POPLAND",
   "tracks": [
     {
@@ -374,7 +374,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 129561,
       "name": "A380",
       "url": "https://open.spotify.com/track/02bsPwc776mmOCQtb2I2oP"
@@ -548,7 +548,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 142493,
       "name": "Alles an dir",
       "url": "https://open.spotify.com/track/6oK1GmmQlx3HSr6dbBGgXS"
@@ -1447,6 +1447,24 @@
     },
     {
       "album": {
+        "name": "VELINA",
+        "url": "https://open.spotify.com/album/2wdQGUfo18GUQvU9PmAsiF"
+      },
+      "artists": [
+        {
+          "name": "Domiziana",
+          "url": "https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178475,
+      "name": "Bacio Bacio",
+      "url": "https://open.spotify.com/track/5bQEsZlo8aHiwbLrVVwzUf"
+    },
+    {
+      "album": {
         "name": "Ballade",
         "url": "https://open.spotify.com/album/5symCvNqJGPymGLo3gWnLR"
       },
@@ -1555,6 +1573,24 @@
     },
     {
       "album": {
+        "name": "Bei dir",
+        "url": "https://open.spotify.com/album/3s1EoKorrwwLaFt9UwOWV4"
+      },
+      "artists": [
+        {
+          "name": "NESS",
+          "url": "https://open.spotify.com/artist/0860MVRZC3Llgf1mFvnd1R"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165010,
+      "name": "Bei dir",
+      "url": "https://open.spotify.com/track/4G0j4dM7SQTeuzvuuluP75"
+    },
+    {
+      "album": {
         "name": "BEI EUCH",
         "url": "https://open.spotify.com/album/0mqdtZ3ZqzctIO0NFssyiB"
       },
@@ -1588,6 +1624,24 @@
       "duration_ms": 216560,
       "name": "Bei Mir",
       "url": "https://open.spotify.com/track/70wFWF3mbtFFgGoO1hd7HH"
+    },
+    {
+      "album": {
+        "name": "Safe Songs",
+        "url": "https://open.spotify.com/album/5PIKCVcwa8akXx5FESseUO"
+      },
+      "artists": [
+        {
+          "name": "Nico Gomez",
+          "url": "https://open.spotify.com/artist/0gQm7HDLwdjFHpDwiBMV8c"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165031,
+      "name": "Bei Mir",
+      "url": "https://open.spotify.com/track/5rHaaYNEJY5qaxpBcifQ8f"
     },
     {
       "album": {
@@ -1862,7 +1916,7 @@
       ],
       "date_added": "2026-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 247398,
       "name": "Bleib mir",
       "url": "https://open.spotify.com/track/6RtDreAUHjtu0JvBBUvvEl"
@@ -2176,7 +2230,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 179500,
       "name": "Cool",
       "url": "https://open.spotify.com/track/2QxUK5UwFJq5SCBMuhWxcb"
@@ -2923,6 +2977,24 @@
     },
     {
       "album": {
+        "name": "denkst du man liebt dich...",
+        "url": "https://open.spotify.com/album/6NpGATeIdwLMHYxmZXWY7D"
+      },
+      "artists": [
+        {
+          "name": "VICKY",
+          "url": "https://open.spotify.com/artist/7JJqR4GbZwWeUMkRGAk0Va"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183201,
+      "name": "denkst du man liebt dich\u2026",
+      "url": "https://open.spotify.com/track/6jTmQNNyXOFeWGjuYuvjs9"
+    },
+    {
+      "album": {
         "name": "Der einzige Ort",
         "url": "https://open.spotify.com/album/4XEoS4uSjP9r3nY5thup6g"
       },
@@ -3192,7 +3264,7 @@
       ],
       "date_added": "2026-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 166106,
       "name": "don't look back",
       "url": "https://open.spotify.com/track/3FzgJmYGkNsuHboOYQcVnl"
@@ -3210,7 +3282,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 137037,
       "name": "Down",
       "url": "https://open.spotify.com/track/5kgirqD4Vp21Svujvqp4BO"
@@ -3702,7 +3774,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 171405,
       "name": "Ein Feuerwerk f\u00fcr dich",
       "url": "https://open.spotify.com/track/7DrF32pOyCaOHVUS0fBupo"
@@ -3840,6 +3912,24 @@
       "duration_ms": 121148,
       "name": "Einer liebt immer mehr",
       "url": "https://open.spotify.com/track/2rMbK64Aj3meR2alB9vt8b"
+    },
+    {
+      "album": {
+        "name": "Eines Tages",
+        "url": "https://open.spotify.com/album/5NS31GNoaqa6GSCu6uAb0l"
+      },
+      "artists": [
+        {
+          "name": "Carlo5",
+          "url": "https://open.spotify.com/artist/1A8G3z6a78odCcAjUDaU6a"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171200,
+      "name": "Eines Tages",
+      "url": "https://open.spotify.com/track/4WmLIItdA3c9WZdyJMc3ZZ"
     },
     {
       "album": {
@@ -4140,7 +4230,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 163980,
       "name": "es wird alles gut",
       "url": "https://open.spotify.com/track/7nrj5WCNiTjzf0ppQX22qL"
@@ -4270,6 +4360,24 @@
       "duration_ms": 156301,
       "name": "fassade",
       "url": "https://open.spotify.com/track/1UqpBql6vks9Fp3bqms3pn"
+    },
+    {
+      "album": {
+        "name": "Fast Life",
+        "url": "https://open.spotify.com/album/7rILxC07gUD77jNSQiYjub"
+      },
+      "artists": [
+        {
+          "name": "Culcha Candela",
+          "url": "https://open.spotify.com/artist/3gemH8D6fpu12DmTmUZYAL"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143750,
+      "name": "Fast Life",
+      "url": "https://open.spotify.com/track/6fCoV6jinoGyeDWtiG7R4C"
     },
     {
       "album": {
@@ -4894,7 +5002,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 179432,
       "name": "F\u00fcr mich da",
       "url": "https://open.spotify.com/track/62uqgOBogBNLWhffFgoALj"
@@ -5216,7 +5324,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 146131,
       "name": "Glaubst du nicht auch",
       "url": "https://open.spotify.com/track/1MDC9cmNlt3nU18QDk0STY"
@@ -5516,7 +5624,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 144563,
       "name": "Gutmensch",
       "url": "https://open.spotify.com/track/5P2tmoRAhJp5TpLxuE7UIK"
@@ -6450,7 +6558,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 156346,
       "name": "H\u00f6rt nicht auf",
       "url": "https://open.spotify.com/track/5zmITfhDUl9D1iFM4eeiQt"
@@ -8631,6 +8739,42 @@
     },
     {
       "album": {
+        "name": "leben l\u00e4chelt",
+        "url": "https://open.spotify.com/album/6miR4FLuf45e02tKP1JQUr"
+      },
+      "artists": [
+        {
+          "name": "becks",
+          "url": "https://open.spotify.com/artist/7Bk6OavbjEK5gtMvSRns57"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144201,
+      "name": "leben l\u00e4chelt",
+      "url": "https://open.spotify.com/track/5a4SWVOztLOi0klvZsCDDD"
+    },
+    {
+      "album": {
+        "name": "Leben ruft",
+        "url": "https://open.spotify.com/album/0bdl7dAYRB1N1HwAblVqtf"
+      },
+      "artists": [
+        {
+          "name": "1986zig",
+          "url": "https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162986,
+      "name": "Leben ruft",
+      "url": "https://open.spotify.com/track/7eDS9YX6F57CqrTvN8s1nF"
+    },
+    {
+      "album": {
         "name": "Lebensm\u00fcde",
         "url": "https://open.spotify.com/album/1547AAy8nakEWMd0rF4gEJ"
       },
@@ -9687,6 +9831,24 @@
     },
     {
       "album": {
+        "name": "mein jahr EP",
+        "url": "https://open.spotify.com/album/3NraaP6OZUmrEPYVceA4ih"
+      },
+      "artists": [
+        {
+          "name": "Lea Marie",
+          "url": "https://open.spotify.com/artist/5XIF2l3hXty0qWMNR58Bqk"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158206,
+      "name": "mein jahr",
+      "url": "https://open.spotify.com/track/12Z1merjb8Gs4sWgF1agnQ"
+    },
+    {
+      "album": {
         "name": "Mein Leben",
         "url": "https://open.spotify.com/album/67hNSOYntcNpU4M3ofmt1i"
       },
@@ -10200,6 +10362,24 @@
       "duration_ms": 172754,
       "name": "Na und ?!",
       "url": "https://open.spotify.com/track/6pNeV9j1tHgMtUXbJ7N6RA"
+    },
+    {
+      "album": {
+        "name": "Nach dir kommt nichts mehr",
+        "url": "https://open.spotify.com/album/25GKCl6aKePUaibLHVO3ji"
+      },
+      "artists": [
+        {
+          "name": "Florian K\u00fcnstler",
+          "url": "https://open.spotify.com/artist/50ZzowkYhUZZ2uGZSXqJbE"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194463,
+      "name": "Nach dir kommt nichts mehr",
+      "url": "https://open.spotify.com/track/5N6aLcCQT5cOXIypJqGLev"
     },
     {
       "album": {
@@ -10951,6 +11131,24 @@
     },
     {
       "album": {
+        "name": "NUR DU",
+        "url": "https://open.spotify.com/album/4C5DceYTKAiaC2EycLEVOP"
+      },
+      "artists": [
+        {
+          "name": "CIVAN",
+          "url": "https://open.spotify.com/artist/2DkBug60LT1v2RHGTgbo0g"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137566,
+      "name": "NUR DU",
+      "url": "https://open.spotify.com/track/23EibLB5yv8EDuT4lCB0PF"
+    },
+    {
+      "album": {
         "name": "Nur Gott wei\u00df",
         "url": "https://open.spotify.com/album/7r2h7pk5oU4nFwC8H9cBRo"
       },
@@ -11281,6 +11479,24 @@
     },
     {
       "album": {
+        "name": "pass auf dich auf",
+        "url": "https://open.spotify.com/album/2QGJadew1qeSjaCqCg5Qox"
+      },
+      "artists": [
+        {
+          "name": "KAYEF",
+          "url": "https://open.spotify.com/artist/4hXT6A14n901v8DU5Of337"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134272,
+      "name": "pass auf dich auf",
+      "url": "https://open.spotify.com/track/78ZRUyhxSwEUdT0lOWdnIf"
+    },
+    {
+      "album": {
         "name": "Pass auf dich auf",
         "url": "https://open.spotify.com/album/1t3KsmowogfDoYr4RH6C0N"
       },
@@ -11584,7 +11800,7 @@
       ],
       "date_added": "2026-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 149136,
       "name": "pink",
       "url": "https://open.spotify.com/track/2Vd5BdcrLQ9VGpoE5Ovmi7"
@@ -12310,7 +12526,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 192101,
       "name": "sch\u00f6n",
       "url": "https://open.spotify.com/track/0yiCDvZZdRuhUEJJCRv1GO"
@@ -12694,6 +12910,24 @@
       "duration_ms": 135409,
       "name": "So wie sie",
       "url": "https://open.spotify.com/track/2aa4pe8kQ68SVOYijZ8xTr"
+    },
+    {
+      "album": {
+        "name": "Bleib mir",
+        "url": "https://open.spotify.com/album/66B2dJExzFyfXGWiK2riup"
+      },
+      "artists": [
+        {
+          "name": "Pur",
+          "url": "https://open.spotify.com/artist/175a900UJkfGsIGcvUDaEx"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273994,
+      "name": "Solange Dein Herz schl\u00e4gt (Herztrilogie III)",
+      "url": "https://open.spotify.com/track/5fpvDUn1rivW2zyj0Nmm45"
     },
     {
       "album": {
@@ -13092,7 +13326,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 167615,
       "name": "Stille K\u00e4mpfe",
       "url": "https://open.spotify.com/track/5bwAUjXCeswq7BD1dX4hqV"
@@ -13204,6 +13438,24 @@
       "duration_ms": 160189,
       "name": "Suffering In Style",
       "url": "https://open.spotify.com/track/0LzTrNBOxEoMxPqky7Z3la"
+    },
+    {
+      "album": {
+        "name": "Mittendrin Tape",
+        "url": "https://open.spotify.com/album/5iCSzftYkin35G0Enk4TzM"
+      },
+      "artists": [
+        {
+          "name": "Ivo Martin",
+          "url": "https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178604,
+      "name": "Synergie",
+      "url": "https://open.spotify.com/track/594ax4nEGWzdtfzznqNvfj"
     },
     {
       "album": {
@@ -13706,6 +13958,24 @@
       "duration_ms": 209685,
       "name": "Unter meinem Kissen",
       "url": "https://open.spotify.com/track/0sgINGKcJpc31YEXh32430"
+    },
+    {
+      "album": {
+        "name": "unter meiner haut",
+        "url": "https://open.spotify.com/album/6mEnSHAjoiubt7xyUF2Wwl"
+      },
+      "artists": [
+        {
+          "name": "LEVKA",
+          "url": "https://open.spotify.com/artist/1npJSBTSN3anXxBFZlLi88"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203127,
+      "name": "unter meiner haut",
+      "url": "https://open.spotify.com/track/5SAQGhmQBgsniJxZbCQcuS"
     },
     {
       "album": {
@@ -14270,7 +14540,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 143636,
       "name": "Wann h\u00f6rt das auf?",
       "url": "https://open.spotify.com/track/4zd6hJV71lwqZEtAlC54nq"
@@ -14372,6 +14642,24 @@
       "duration_ms": 124250,
       "name": "was bleibt dann zwischen uns?",
       "url": "https://open.spotify.com/track/76DasZKUhyLV7tQX1Scq4A"
+    },
+    {
+      "album": {
+        "name": "Was denkst du wer du bist",
+        "url": "https://open.spotify.com/album/4r1tEtbH2M90CiKG3ZBozX"
+      },
+      "artists": [
+        {
+          "name": "LEA",
+          "url": "https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190009,
+      "name": "Was denkst du wer du bist",
+      "url": "https://open.spotify.com/track/1FScZlemEy7mamlhEbsvRl"
     },
     {
       "album": {
@@ -14480,7 +14768,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 179520,
       "name": "Was immer du willst!",
       "url": "https://open.spotify.com/track/185cvCZ59Gv7CYa23IBRTo"

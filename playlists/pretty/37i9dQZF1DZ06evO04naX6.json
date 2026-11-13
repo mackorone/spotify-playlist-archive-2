@@ -1,12 +1,12 @@
 {
   "description": "This is Yandel. The essential tracks, all in one playlist.",
-  "num_followers": 181551,
+  "num_followers": 181540,
   "original_name": "This Is Yandel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avENAAAAAADPnv3oSPR+VXWL7Lq87nvb",
+  "snapshot_id": "avOwAAAAAACc9twga0lQqGO80MZWgLHe",
   "tracks": [
     {
       "added_at": null,
@@ -175,38 +175,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Criatura",
-        "url": "https://open.spotify.com/album/3C2Y8YZGNyGqXZLPHPUMj3"
-      },
-      "artists": [
-        {
-          "name": "Nacho",
-          "url": "https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Mambo Kingz",
-          "url": "https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK"
-        },
-        {
-          "name": "DJ Luian",
-          "url": "https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD"
-        }
-      ],
-      "duration_ms": 217093,
-      "name": "B\u00e1ilame - Remix",
-      "url": "https://open.spotify.com/track/4l3xGFwoTinvYxsePytOOf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Infinito",
         "url": "https://open.spotify.com/album/1O7pyLEzS5wsGwi5vkkF68"
       },
@@ -243,6 +211,38 @@
       "duration_ms": 180360,
       "name": "Brickell",
       "url": "https://open.spotify.com/track/0rNqDh9zWWJVTLS4VfceHP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Criatura",
+        "url": "https://open.spotify.com/album/3C2Y8YZGNyGqXZLPHPUMj3"
+      },
+      "artists": [
+        {
+          "name": "Nacho",
+          "url": "https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Mambo Kingz",
+          "url": "https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK"
+        },
+        {
+          "name": "DJ Luian",
+          "url": "https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD"
+        }
+      ],
+      "duration_ms": 217093,
+      "name": "B\u00e1ilame - Remix",
+      "url": "https://open.spotify.com/track/4l3xGFwoTinvYxsePytOOf"
     },
     {
       "added_at": null,
@@ -567,26 +567,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yankee 150",
-        "url": "https://open.spotify.com/album/6ufsNn6vIdR75yr6uYZW9F"
+        "name": "Welcome To The Jungle",
+        "url": "https://open.spotify.com/album/6ZDd9FZ6CDmNjTkPx8t9rz"
       },
       "artists": [
         {
+          "name": "Franco \"El Gorilla\"",
+          "url": "https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ"
+        },
+        {
           "name": "Yandel",
           "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
         }
       ],
-      "duration_ms": 242667,
-      "name": "Yankee 150",
-      "url": "https://open.spotify.com/track/28BSTgZH1ckI8Xfy8LXaRz"
+      "duration_ms": 168720,
+      "name": "Vamos Hacerlo",
+      "url": "https://open.spotify.com/track/4qZEe7OrbYFWUCFrnCOP0O"
     },
     {
       "added_at": null,
@@ -607,22 +603,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Welcome To The Jungle",
-        "url": "https://open.spotify.com/album/6ZDd9FZ6CDmNjTkPx8t9rz"
+        "name": "Yankee 150",
+        "url": "https://open.spotify.com/album/6ufsNn6vIdR75yr6uYZW9F"
       },
       "artists": [
         {
-          "name": "Franco \"El Gorilla\"",
-          "url": "https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ"
-        },
-        {
           "name": "Yandel",
           "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
         }
       ],
-      "duration_ms": 168720,
-      "name": "Vamos Hacerlo",
-      "url": "https://open.spotify.com/track/4qZEe7OrbYFWUCFrnCOP0O"
+      "duration_ms": 242667,
+      "name": "Yankee 150",
+      "url": "https://open.spotify.com/track/28BSTgZH1ckI8Xfy8LXaRz"
     },
     {
       "added_at": null,
@@ -799,6 +799,62 @@
     {
       "added_at": null,
       "album": {
+        "name": "MANIFESTING 20-05",
+        "url": "https://open.spotify.com/album/5WTsC6KDdxp9xVQrAMIU6c"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 208386,
+      "name": "No Digas Na",
+      "url": "https://open.spotify.com/track/2iPoYcC5x7gylwRyCwzFxI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ELYTE",
+        "url": "https://open.spotify.com/album/6TJh9B7dVXOoGjnDRUY7Ea"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 154969,
+      "name": "HABLAME CLARO",
+      "url": "https://open.spotify.com/track/2qyEoF40CW5XfmpYJDoOR3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SINF\u00d3NICO (En Vivo)",
+        "url": "https://open.spotify.com/album/6qBMMQeQLfUxEs47lK085F"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 120101,
+      "name": "Noche De Entierro - Sinf\u00f3nico En Vivo",
+      "url": "https://open.spotify.com/track/229RHylF8KuiREpa3hY01H"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "APOCALIPTO",
         "url": "https://open.spotify.com/album/5rJi3PGyqB4zFK3bwvsgjt"
       },
@@ -836,45 +892,9 @@
           "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
         }
       ],
-      "duration_ms": 208386,
-      "name": "No Digas Na",
-      "url": "https://open.spotify.com/track/2iPoYcC5x7gylwRyCwzFxI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SINF\u00d3NICO (En Vivo)",
-        "url": "https://open.spotify.com/album/6qBMMQeQLfUxEs47lK085F"
-      },
-      "artists": [
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 120101,
-      "name": "Noche De Entierro - Sinf\u00f3nico En Vivo",
-      "url": "https://open.spotify.com/track/229RHylF8KuiREpa3hY01H"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ELYTE",
-        "url": "https://open.spotify.com/album/6TJh9B7dVXOoGjnDRUY7Ea"
-      },
-      "artists": [
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 154969,
-      "name": "HABLAME CLARO",
-      "url": "https://open.spotify.com/track/2qyEoF40CW5XfmpYJDoOR3"
+      "duration_ms": 188600,
+      "name": "Fecha",
+      "url": "https://open.spotify.com/track/14LaTeixKug7O2jNMK8u1C"
     },
     {
       "added_at": null,
@@ -899,26 +919,6 @@
       "duration_ms": 319586,
       "name": "Desperte Sin Ti - Remix",
       "url": "https://open.spotify.com/track/1CWi7KBl7TUIYgIH52KO6f"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MANIFESTING 20-05",
-        "url": "https://open.spotify.com/album/5WTsC6KDdxp9xVQrAMIU6c"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 188600,
-      "name": "Fecha",
-      "url": "https://open.spotify.com/track/14LaTeixKug7O2jNMK8u1C"
     },
     {
       "added_at": null,
@@ -951,30 +951,6 @@
       "duration_ms": 237616,
       "name": "Mi Religi\u00f3n",
       "url": "https://open.spotify.com/track/3dnOHn0A5q3ny1LLLnSAty"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Movimiento",
-        "url": "https://open.spotify.com/album/6oIHoEwrm6noktaEdvxod4"
-      },
-      "artists": [
-        {
-          "name": "Cloonee",
-          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "ATLAC",
-          "url": "https://open.spotify.com/artist/4zjApLlmv1DjwnM2Yrmp98"
-        }
-      ],
-      "duration_ms": 154161,
-      "name": "Movimiento",
-      "url": "https://open.spotify.com/track/5CcmjQ1cZFvA63uoWwLVvt"
     },
     {
       "added_at": null,
@@ -1023,6 +999,30 @@
       "duration_ms": 216293,
       "name": "Unica - Remix",
       "url": "https://open.spotify.com/track/5Sv1rKKMX1yl9kfJ2HTluk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Movimiento",
+        "url": "https://open.spotify.com/album/6oIHoEwrm6noktaEdvxod4"
+      },
+      "artists": [
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "ATLAC",
+          "url": "https://open.spotify.com/artist/4zjApLlmv1DjwnM2Yrmp98"
+        }
+      ],
+      "duration_ms": 154161,
+      "name": "Movimiento",
+      "url": "https://open.spotify.com/track/5CcmjQ1cZFvA63uoWwLVvt"
     },
     {
       "added_at": null,

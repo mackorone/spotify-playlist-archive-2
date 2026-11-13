@@ -4,7 +4,7 @@
 
 > Gospel songs to get you in the spirit\. Whether you are happy or need company to feel better, this is the right one! Cover:  Celestine Donkor
 
-843 songs - 2 day 23 hr 56 min
+844 songs - 3 day 0 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -403,7 +403,7 @@
 | [Kumama Papa](https://open.spotify.com/track/2uHY9QxXldmXdbhvvEOf6J) | [The Kiffness](https://open.spotify.com/artist/6t41YgqHULlgOq9TK1kcrG), [Grace Lokwa](https://open.spotify.com/artist/1ShPOU9aA4b68tOHBSz7sW) | [Kumama Papa](https://open.spotify.com/album/20GdacZdfLiQbve9FF8Xqu) | 2:37 | 2024-02-16 | 2024-03-22 |
 | [Kwechiri](https://open.spotify.com/track/5IVsnrFCDaMLWh8VdlFLJ7) | [Nolly](https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM), [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV) | [Kwechiri](https://open.spotify.com/album/4ASycUKDxU8xOuDcZYlaTB) | 2:36 | 2025-07-18 | 2025-07-25 |
 | [Lai Lai](https://open.spotify.com/track/4J7u9sUTi63l1KOIw5o9jC) | [Aremmic](https://open.spotify.com/artist/7BT40oP5mx0gTwoR8KmbCN) | [Lai Lai](https://open.spotify.com/album/5YXPJ5JBpAxrIGx81Pmyyn) | 2:47 | 2024-09-27 | 2024-12-21 |
-| [Lazy Man](https://open.spotify.com/track/5ybg7689HmX4tY8sWao3y0) | [Israel the creator](https://open.spotify.com/artist/5SATwYWqLzEg84BWHdQjmX) | [Lazy Man](https://open.spotify.com/album/44Hpk1LpKPDLGHBwCPM7ij) | 2:09 | 2026-10-16 |  |
+| [Lazy Man](https://open.spotify.com/track/5ybg7689HmX4tY8sWao3y0) | [Israel the creator](https://open.spotify.com/artist/5SATwYWqLzEg84BWHdQjmX) | [Lazy Man](https://open.spotify.com/album/44Hpk1LpKPDLGHBwCPM7ij) | 2:09 | 2026-10-16 | 2026-11-13 |
 | [Lead Me](https://open.spotify.com/track/0qsUgNIZ4gJ2AeEUjBmUv8) | [Pastor Emmanuel Iren](https://open.spotify.com/artist/1Ge81wiDXhRxTHVE1pdHyw) | [Lead Me](https://open.spotify.com/album/4s1WzWFA2sLNCUGdfkdxNy) | 6:26 | 2024-08-30 | 2025-01-07 |
 | [Lean](https://open.spotify.com/track/3qJdny0ZhWHHxJVrEt0yIT) | [Blesside](https://open.spotify.com/artist/6XP3o5zMuprWMDuBVLny32), [NW.FRGVN](https://open.spotify.com/artist/75hGaBbLe3tUa4CHSEB3mu), [TGIF](https://open.spotify.com/artist/3gLInN1bj7QkZ6q2Rb0zcm) | [Lean](https://open.spotify.com/album/0jshOcvmqgys28YzaL8C1v) | 3:22 | 2025-05-30 | 2025-06-20 |
 | [Let It Show \(Live\)](https://open.spotify.com/track/0qShlAPNKT5UHib8bLn3X2) | [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Let It Show \(Live\)](https://open.spotify.com/album/1yorjTPD4R9JExtEfY70ka) | 7:59 | 2025-01-10 | 2026-07-09 |
@@ -541,6 +541,7 @@
 | [Oghene Me](https://open.spotify.com/track/6p6Zqs0sTpKbYY7p3NS4Yg) | [Onos](https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0) | [Songs from the Place of Prayer](https://open.spotify.com/album/2u8rAcqeoemQsK3E66P1JC) | 4:56 | 2023-12-05 | 2023-12-11 |
 | [Ogo](https://open.spotify.com/track/48cvOppznTu76T12L5RCF9) | [Kent Edunjobi](https://open.spotify.com/artist/4MYsXi8hLzpmPBIIYD1EIE) | [Ogo](https://open.spotify.com/album/1d9pKspTWQ5AryZa5XBaHj) | 6:18 | 2024-11-08 | 2024-12-14 |
 | [OH MY GOD](https://open.spotify.com/track/6QQhpDzhLjUPPCDbmG5OQj) | [Futuristic](https://open.spotify.com/artist/5Z5jUyiNvFaqp0EVyLNf0p), [Sam Opoku](https://open.spotify.com/artist/5NDzGl3leOCXxfUcyQC0sv), [Tay Nay](https://open.spotify.com/artist/6v2Z6W04FFGH4OmzBT4T1i) | [OH MY GOD](https://open.spotify.com/album/3jA7bdqXtQEOD2n9do3jsE) | 2:40 | 2025-07-18 | 2025-08-08 |
+| [Oh the Blood](https://open.spotify.com/track/4jllsGoYmiFXrKUv25APKn) | [James Pringle](https://open.spotify.com/artist/6zkTqZtCq2WEPpDCWg7NxT), [Stella](https://open.spotify.com/artist/3DJdQo4KmnMxc12F5k7gs5) | [Desires](https://open.spotify.com/album/67973iS8JHdwcMENyMFL89) | 4:23 | 2026-10-23 |  |
 | [Oh When The Saint](https://open.spotify.com/track/2XW2C5YvxXwnhmnjBTX4mX) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Johay](https://open.spotify.com/artist/5AMZQzbWtj39A4bRoObz9e) | [Oh When The Saint](https://open.spotify.com/album/5VwaJl4eBX8IrPnCvmK8Ls) | 2:24 | 2025-07-18 | 2025-08-01 |
 | [Okaka](https://open.spotify.com/track/3UzPGTfy8facDCSCT2HJs3) | [Preye Odede](https://open.spotify.com/artist/7Aqgu2MNhHNHobtzJB1DlK), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Okaka](https://open.spotify.com/album/2DsC78HhjWpD2YMImCwemz) | 12:20 | 2023-08-25 | 2024-08-22 |
 | [Okemmuo \- The Spirit of the Spirit](https://open.spotify.com/track/1sK5xKa8ewU1g6oPngoAeq) | [Chioma Jesus](https://open.spotify.com/artist/7GNY8eqnvkcMvJp1jrETa4), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Okemmuo \(The Spirit of the Spirit\)](https://open.spotify.com/album/6BIkUGVK0K4LRoebCTGG6s) | 5:54 | 2022-10-14 | 2022-11-05 |

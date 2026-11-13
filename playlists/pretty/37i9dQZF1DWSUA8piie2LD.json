@@ -1,6 +1,6 @@
 {
   "description": "The smoothest of smooth Jazz for your romantic evening.",
-  "num_followers": 175736,
+  "num_followers": 175781,
   "original_name": "Romantic Smooth Jazz",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,22 @@
     {
       "added_at": "2026-02-09 08:21:39",
       "album": {
+        "name": "Presence",
+        "url": "https://open.spotify.com/album/3y3NkJMbTM1JLwrDKxEFZb"
+      },
+      "artists": [
+        {
+          "name": "Chuck Loeb",
+          "url": "https://open.spotify.com/artist/02L5Rmh1RtTbHOBdzPzfoQ"
+        }
+      ],
+      "duration_ms": 247333,
+      "name": "Window of the Soul",
+      "url": "https://open.spotify.com/track/32eDGGkGf1lcJ8aWrjGhFO"
+    },
+    {
+      "added_at": "2026-02-09 08:21:39",
+      "album": {
         "name": "The Collection",
         "url": "https://open.spotify.com/album/3hJBjYNUVY7vSITE8GZ3QV"
       },
@@ -391,38 +407,6 @@
       "duration_ms": 283866,
       "name": "Twice in a Lifetime",
       "url": "https://open.spotify.com/track/0DFNqX97HJYLNFtYRu2FpO"
-    },
-    {
-      "added_at": "2026-02-09 08:21:39",
-      "album": {
-        "name": "Presence",
-        "url": "https://open.spotify.com/album/3y3NkJMbTM1JLwrDKxEFZb"
-      },
-      "artists": [
-        {
-          "name": "Chuck Loeb",
-          "url": "https://open.spotify.com/artist/02L5Rmh1RtTbHOBdzPzfoQ"
-        }
-      ],
-      "duration_ms": 247333,
-      "name": "Window of the Soul",
-      "url": "https://open.spotify.com/track/32eDGGkGf1lcJ8aWrjGhFO"
-    },
-    {
-      "added_at": "2026-02-09 08:21:39",
-      "album": {
-        "name": "In Joy",
-        "url": "https://open.spotify.com/album/5hxIOm6CwhTqI9W60yyX43"
-      },
-      "artists": [
-        {
-          "name": "Gordon James",
-          "url": "https://open.spotify.com/artist/5OSScl9AWD6yfWTkmjgFPz"
-        }
-      ],
-      "duration_ms": 305680,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/1v5WalcQgFcHnSYe1e6LcF"
     },
     {
       "added_at": "2026-02-09 08:21:39",
@@ -459,6 +443,22 @@
     {
       "added_at": "2026-02-09 08:21:39",
       "album": {
+        "name": "In Joy",
+        "url": "https://open.spotify.com/album/5hxIOm6CwhTqI9W60yyX43"
+      },
+      "artists": [
+        {
+          "name": "Gordon James",
+          "url": "https://open.spotify.com/artist/5OSScl9AWD6yfWTkmjgFPz"
+        }
+      ],
+      "duration_ms": 305680,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/1v5WalcQgFcHnSYe1e6LcF"
+    },
+    {
+      "added_at": "2026-02-09 08:21:39",
+      "album": {
         "name": "Someone To Love You",
         "url": "https://open.spotify.com/album/7J1vwBoBA9y0kNCfVPxi2B"
       },
@@ -491,22 +491,6 @@
     {
       "added_at": "2026-02-09 08:21:39",
       "album": {
-        "name": "Flipside",
-        "url": "https://open.spotify.com/album/5jJnmTSaatjd3tXpfXaEzd"
-      },
-      "artists": [
-        {
-          "name": "Jeff Lorber",
-          "url": "https://open.spotify.com/artist/1SaH16LT1AWVsBU8AKY4HN"
-        }
-      ],
-      "duration_ms": 312226,
-      "name": "Angel In Paris",
-      "url": "https://open.spotify.com/track/1fUa03IMAd3cRKQvrVgEV1"
-    },
-    {
-      "added_at": "2026-02-09 08:21:39",
-      "album": {
         "name": "Najee's Theme",
         "url": "https://open.spotify.com/album/2T1cuFZTdRwShl0ksdXT6a"
       },
@@ -523,18 +507,18 @@
     {
       "added_at": "2026-02-09 08:21:39",
       "album": {
-        "name": "Songs From The Night Before",
-        "url": "https://open.spotify.com/album/1qABZigBQzuvHXnvjfcLCe"
+        "name": "Flipside",
+        "url": "https://open.spotify.com/album/5jJnmTSaatjd3tXpfXaEzd"
       },
       "artists": [
         {
-          "name": "David Sanborn",
-          "url": "https://open.spotify.com/artist/7vNcTk9TgKF0qDsS87nWGE"
+          "name": "Jeff Lorber",
+          "url": "https://open.spotify.com/artist/1SaH16LT1AWVsBU8AKY4HN"
         }
       ],
-      "duration_ms": 303680,
-      "name": "Rikke",
-      "url": "https://open.spotify.com/track/1wvb7JFKm9QeLJ7VNRmncw"
+      "duration_ms": 312226,
+      "name": "Angel In Paris",
+      "url": "https://open.spotify.com/track/1fUa03IMAd3cRKQvrVgEV1"
     },
     {
       "added_at": "2026-02-09 08:21:39",
@@ -551,6 +535,22 @@
       "duration_ms": 238293,
       "name": "Night Rider",
       "url": "https://open.spotify.com/track/3mn4KmAcvj2mhpkO11EsGQ"
+    },
+    {
+      "added_at": "2026-02-09 08:21:39",
+      "album": {
+        "name": "Songs From The Night Before",
+        "url": "https://open.spotify.com/album/1qABZigBQzuvHXnvjfcLCe"
+      },
+      "artists": [
+        {
+          "name": "David Sanborn",
+          "url": "https://open.spotify.com/artist/7vNcTk9TgKF0qDsS87nWGE"
+        }
+      ],
+      "duration_ms": 303680,
+      "name": "Rikke",
+      "url": "https://open.spotify.com/track/1wvb7JFKm9QeLJ7VNRmncw"
     },
     {
       "added_at": "2026-02-09 08:21:39",
@@ -603,22 +603,6 @@
     {
       "added_at": "2026-02-09 08:21:39",
       "album": {
-        "name": "Journey",
-        "url": "https://open.spotify.com/album/3O6pouh9bYPTnzzpl1ssPI"
-      },
-      "artists": [
-        {
-          "name": "Fourplay",
-          "url": "https://open.spotify.com/artist/3PcMolaGsh2nryvBR2sQOS"
-        }
-      ],
-      "duration_ms": 340386,
-      "name": "Fields of Gold",
-      "url": "https://open.spotify.com/track/0f8lc6QabkwdZ89O2qRXkp"
-    },
-    {
-      "added_at": "2026-02-09 08:21:39",
-      "album": {
         "name": "Nightlife",
         "url": "https://open.spotify.com/album/3REfT3hfJrLkfsfmkS8ZHN"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 271880,
       "name": "Nightlife",
       "url": "https://open.spotify.com/track/2RZ4AXlxoLZbFgHGsfHY8i"
+    },
+    {
+      "added_at": "2026-02-09 08:21:39",
+      "album": {
+        "name": "Journey",
+        "url": "https://open.spotify.com/album/3O6pouh9bYPTnzzpl1ssPI"
+      },
+      "artists": [
+        {
+          "name": "Fourplay",
+          "url": "https://open.spotify.com/artist/3PcMolaGsh2nryvBR2sQOS"
+        }
+      ],
+      "duration_ms": 340386,
+      "name": "Fields of Gold",
+      "url": "https://open.spotify.com/track/0f8lc6QabkwdZ89O2qRXkp"
     },
     {
       "added_at": "2026-02-09 08:21:39",
@@ -683,22 +683,6 @@
     {
       "added_at": "2026-02-09 08:21:39",
       "album": {
-        "name": "Nightshift",
-        "url": "https://open.spotify.com/album/6fCnWPp7z8tsb3eDdRCf3G"
-      },
-      "artists": [
-        {
-          "name": "Gregg Karukas",
-          "url": "https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V"
-        }
-      ],
-      "duration_ms": 253760,
-      "name": "Nightshift",
-      "url": "https://open.spotify.com/track/5T7rGLBBmkjrKMuoaabrkZ"
-    },
-    {
-      "added_at": "2026-02-09 08:21:39",
-      "album": {
         "name": "Full Stride",
         "url": "https://open.spotify.com/album/30r0DoPQxBqIz3RBoxpcSj"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 260706,
       "name": "Nightfall",
       "url": "https://open.spotify.com/track/7fKo8Bl3VEm87tc70jx05r"
+    },
+    {
+      "added_at": "2026-02-09 08:21:39",
+      "album": {
+        "name": "Nightshift",
+        "url": "https://open.spotify.com/album/6fCnWPp7z8tsb3eDdRCf3G"
+      },
+      "artists": [
+        {
+          "name": "Gregg Karukas",
+          "url": "https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V"
+        }
+      ],
+      "duration_ms": 253760,
+      "name": "Nightshift",
+      "url": "https://open.spotify.com/track/5T7rGLBBmkjrKMuoaabrkZ"
     },
     {
       "added_at": "2026-02-09 08:21:39",
@@ -731,22 +731,6 @@
     {
       "added_at": "2026-02-09 08:21:39",
       "album": {
-        "name": "Colors",
-        "url": "https://open.spotify.com/album/0ZymVVHN1W2T6rYSqIjLaW"
-      },
-      "artists": [
-        {
-          "name": "Kirk Whalum",
-          "url": "https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1"
-        }
-      ],
-      "duration_ms": 276226,
-      "name": "If Only For One Night",
-      "url": "https://open.spotify.com/track/7eAboOIUeI5RYXVjCI6p0S"
-    },
-    {
-      "added_at": "2026-02-09 08:21:39",
-      "album": {
         "name": "In the Moment",
         "url": "https://open.spotify.com/album/1PA4zjWrIdycExmlDIxYHk"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 251960,
       "name": "In the Moment",
       "url": "https://open.spotify.com/track/3fIjgiM4QNP8xz6MyUwetQ"
+    },
+    {
+      "added_at": "2026-02-09 08:21:39",
+      "album": {
+        "name": "Colors",
+        "url": "https://open.spotify.com/album/0ZymVVHN1W2T6rYSqIjLaW"
+      },
+      "artists": [
+        {
+          "name": "Kirk Whalum",
+          "url": "https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1"
+        }
+      ],
+      "duration_ms": 276226,
+      "name": "If Only For One Night",
+      "url": "https://open.spotify.com/track/7eAboOIUeI5RYXVjCI6p0S"
     },
     {
       "added_at": "2026-02-09 08:21:39",

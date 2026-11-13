@@ -1155,6 +1155,36 @@
     },
     {
       "album": {
+        "name": "\"Dudamel Conducts John Williams Movie Themes\"",
+        "url": "https://open.spotify.com/album/0atVhrfpor5swRU8yoljae"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "Simone Porter",
+          "url": "https://open.spotify.com/artist/7Ea3HtEUEpLaGUjyrjQRSZ"
+        },
+        {
+          "name": "Los Angeles Philharmonic",
+          "url": "https://open.spotify.com/artist/6yeL5iw4hXNZtd8T7FOoFU"
+        },
+        {
+          "name": "Gustavo Dudamel",
+          "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221266,
+      "name": "Theme - From \"Schindler's List\" / Live at Walt Disney Concert Hall, Los Angeles / 2019",
+      "url": "https://open.spotify.com/track/5KHTSumR58EAUVd5UYRaoz"
+    },
+    {
+      "album": {
         "name": "New Year's Concert 2017 / Neujahrskonzert 2017",
         "url": "https://open.spotify.com/album/5ppcI0MWkfvKH064fMMYXQ"
       },

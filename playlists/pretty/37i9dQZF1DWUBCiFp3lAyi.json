@@ -1,6 +1,6 @@
 {
   "description": "Your personalized GTA radio station",
-  "num_followers": 753556,
+  "num_followers": 753762,
   "original_name": "Grand Theft Auto Radio",
   "owner": {
     "name": "Spotify",
@@ -431,22 +431,6 @@
     {
       "added_at": "2026-09-16 20:40:24",
       "album": {
-        "name": "The Singles (Expanded)",
-        "url": "https://open.spotify.com/album/7yZHLfxqiGPbSQLrVJljah"
-      },
-      "artists": [
-        {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
-        }
-      ],
-      "duration_ms": 206360,
-      "name": "Against All Odds (Take a Look at Me Now) - 2016 Remaster",
-      "url": "https://open.spotify.com/track/63CHa6rmamv9OsehkRD8oz"
-    },
-    {
-      "added_at": "2026-09-16 20:40:24",
-      "album": {
         "name": "Inner Light",
         "url": "https://open.spotify.com/album/4lwHXYfthE95rn7z1B3dWD"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 257985,
       "name": "Inner Light",
       "url": "https://open.spotify.com/track/40tPP3K10yMZxwnT65REKj"
+    },
+    {
+      "added_at": "2026-09-16 20:40:24",
+      "album": {
+        "name": "The Singles (Expanded)",
+        "url": "https://open.spotify.com/album/7yZHLfxqiGPbSQLrVJljah"
+      },
+      "artists": [
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        }
+      ],
+      "duration_ms": 206360,
+      "name": "Against All Odds (Take a Look at Me Now) - 2016 Remaster",
+      "url": "https://open.spotify.com/track/63CHa6rmamv9OsehkRD8oz"
     },
     {
       "added_at": "2026-09-16 20:40:24",
@@ -531,22 +531,6 @@
     {
       "added_at": "2026-09-16 20:40:24",
       "album": {
-        "name": "Night Moves",
-        "url": "https://open.spotify.com/album/5QkOpsZupEPLq186YOrBNe"
-      },
-      "artists": [
-        {
-          "name": "Bob Seger",
-          "url": "https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ"
-        }
-      ],
-      "duration_ms": 324422,
-      "name": "Night Moves",
-      "url": "https://open.spotify.com/track/6UBjSnyP1O5W5ndJoO9vUk"
-    },
-    {
-      "added_at": "2026-09-16 20:40:24",
-      "album": {
         "name": "4 (Expanded)",
         "url": "https://open.spotify.com/album/2Pw51hAGvWpTA3AYl2WVuu"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 292066,
       "name": "Waiting for a Girl like You",
       "url": "https://open.spotify.com/track/2OgVsp77En2nju8pnCieVU"
+    },
+    {
+      "added_at": "2026-09-16 20:40:24",
+      "album": {
+        "name": "Night Moves",
+        "url": "https://open.spotify.com/album/5QkOpsZupEPLq186YOrBNe"
+      },
+      "artists": [
+        {
+          "name": "Bob Seger",
+          "url": "https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ"
+        }
+      ],
+      "duration_ms": 324422,
+      "name": "Night Moves",
+      "url": "https://open.spotify.com/track/6UBjSnyP1O5W5ndJoO9vUk"
     },
     {
       "added_at": "2026-09-16 20:40:24",
@@ -767,22 +767,6 @@
     {
       "added_at": "2026-09-16 20:40:24",
       "album": {
-        "name": "KIRK",
-        "url": "https://open.spotify.com/album/1NsTSXjVNE7XmZ8PmyW0wl"
-      },
-      "artists": [
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        }
-      ],
-      "duration_ms": 159714,
-      "name": "BOP",
-      "url": "https://open.spotify.com/track/6Ozh9Ok6h4Oi1wUSLtBseN"
-    },
-    {
-      "added_at": "2026-09-16 20:40:24",
-      "album": {
         "name": "Skrilla",
         "url": "https://open.spotify.com/album/6AzBF6pF1Vtr1muijJ9Nlv"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 216189,
       "name": "Skrilla",
       "url": "https://open.spotify.com/track/5PyhIVD3WFiEQQTG36Tfch"
+    },
+    {
+      "added_at": "2026-09-16 20:40:24",
+      "album": {
+        "name": "KIRK",
+        "url": "https://open.spotify.com/album/1NsTSXjVNE7XmZ8PmyW0wl"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "duration_ms": 159714,
+      "name": "BOP",
+      "url": "https://open.spotify.com/track/6Ozh9Ok6h4Oi1wUSLtBseN"
     },
     {
       "added_at": "2026-09-16 20:40:24",
@@ -851,22 +851,6 @@
     {
       "added_at": "2026-09-16 20:40:24",
       "album": {
-        "name": "Culture II",
-        "url": "https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y"
-      },
-      "artists": [
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        }
-      ],
-      "duration_ms": 190288,
-      "name": "Stir Fry",
-      "url": "https://open.spotify.com/track/2UVbBKQOdFAekPTRsnkzcf"
-    },
-    {
-      "added_at": "2026-09-16 20:40:24",
-      "album": {
         "name": "City to City",
         "url": "https://open.spotify.com/album/35yZZTWeSrszSKjRlFETwf"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 365626,
       "name": "Baker Street",
       "url": "https://open.spotify.com/track/5gOd6zDC8vhlYjqbQdJVWP"
+    },
+    {
+      "added_at": "2026-09-16 20:40:24",
+      "album": {
+        "name": "Culture II",
+        "url": "https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "duration_ms": 190288,
+      "name": "Stir Fry",
+      "url": "https://open.spotify.com/track/2UVbBKQOdFAekPTRsnkzcf"
     },
     {
       "added_at": "2026-09-16 20:40:24",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2026-09-16 20:40:24",
       "album": {
-        "name": "Hurry Up, We're Dreaming",
-        "url": "https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR"
-      },
-      "artists": [
-        {
-          "name": "M83",
-          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
-        }
-      ],
-      "duration_ms": 241440,
-      "name": "Midnight City",
-      "url": "https://open.spotify.com/track/1eyzqe2QqGZUmfcPZtrIyt"
-    },
-    {
-      "added_at": "2026-09-16 20:40:24",
-      "album": {
         "name": "Gold - The Best of Spandau Ballet",
         "url": "https://open.spotify.com/album/5UUutTu9xlQnG9duYrIIW7"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 161626,
       "name": "Con Altura",
       "url": "https://open.spotify.com/track/2qG5sZ7Si6sdK74qLxedYM"
+    },
+    {
+      "added_at": "2026-09-16 20:40:24",
+      "album": {
+        "name": "Hurry Up, We're Dreaming",
+        "url": "https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR"
+      },
+      "artists": [
+        {
+          "name": "M83",
+          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
+        }
+      ],
+      "duration_ms": 241440,
+      "name": "Midnight City",
+      "url": "https://open.spotify.com/track/1eyzqe2QqGZUmfcPZtrIyt"
     },
     {
       "added_at": "2026-09-16 20:40:24",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2026-09-16 20:40:24",
       "album": {
-        "name": "Avalon",
-        "url": "https://open.spotify.com/album/3JXODSjT9mUz2lIb4YIErw"
-      },
-      "artists": [
-        {
-          "name": "Roxy Music",
-          "url": "https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo"
-        }
-      ],
-      "duration_ms": 270651,
-      "name": "More Than This",
-      "url": "https://open.spotify.com/track/6N7gPTru90HYLRUIVDQ185"
-    },
-    {
-      "added_at": "2026-09-16 20:40:24",
-      "album": {
         "name": "Still Striving",
         "url": "https://open.spotify.com/album/0tQ7Iu6EicQTPyhYRNWjaT"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 173601,
       "name": "Plain Jane",
       "url": "https://open.spotify.com/track/4dVpf9jZjcORqGTLUaeYj9"
+    },
+    {
+      "added_at": "2026-09-16 20:40:24",
+      "album": {
+        "name": "Avalon",
+        "url": "https://open.spotify.com/album/3JXODSjT9mUz2lIb4YIErw"
+      },
+      "artists": [
+        {
+          "name": "Roxy Music",
+          "url": "https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo"
+        }
+      ],
+      "duration_ms": 270651,
+      "name": "More Than This",
+      "url": "https://open.spotify.com/track/6N7gPTru90HYLRUIVDQ185"
     },
     {
       "added_at": "2026-09-16 20:40:24",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2026-09-16 20:40:24",
       "album": {
-        "name": "Goodbye Yellow Brick Road (Remastered)",
-        "url": "https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 295466,
-      "name": "Saturday Night\u2019s Alright (For Fighting) - Remastered 2014",
-      "url": "https://open.spotify.com/track/12yHvSYFXI7PGzNecUvIDu"
-    },
-    {
-      "added_at": "2026-09-16 20:40:24",
-      "album": {
         "name": "Climbing!",
         "url": "https://open.spotify.com/album/2tWvZmP9EVRYqmWyJPLzjP"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 151293,
       "name": "Mississippi Queen",
       "url": "https://open.spotify.com/track/4vO9dmzNRqDhFY3jD1a3P7"
+    },
+    {
+      "added_at": "2026-09-16 20:40:24",
+      "album": {
+        "name": "Goodbye Yellow Brick Road (Remastered)",
+        "url": "https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 295466,
+      "name": "Saturday Night\u2019s Alright (For Fighting) - Remastered 2014",
+      "url": "https://open.spotify.com/track/12yHvSYFXI7PGzNecUvIDu"
     },
     {
       "added_at": "2026-09-16 20:40:24",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2026-09-16 20:40:24",
       "album": {
-        "name": "Heartland",
-        "url": "https://open.spotify.com/album/1sGd8pGtXBuBA728U5FSgf"
-      },
-      "artists": [
-        {
-          "name": "Real Life",
-          "url": "https://open.spotify.com/artist/1n0pe6Cx9pCNvXYkX9TTLX"
-        }
-      ],
-      "duration_ms": 232631,
-      "name": "Send Me An Angel",
-      "url": "https://open.spotify.com/track/3HCDGtLZabH3umLgwCBpDB"
-    },
-    {
-      "added_at": "2026-09-16 20:40:24",
-      "album": {
         "name": "The Age Of Plastic",
         "url": "https://open.spotify.com/album/5KKpKvLOS4tCV7cSOwIOWF"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 253800,
       "name": "Video Killed The Radio Star",
       "url": "https://open.spotify.com/track/6t1FIJlZWTQfIZhsGjaulM"
+    },
+    {
+      "added_at": "2026-09-16 20:40:24",
+      "album": {
+        "name": "Heartland",
+        "url": "https://open.spotify.com/album/1sGd8pGtXBuBA728U5FSgf"
+      },
+      "artists": [
+        {
+          "name": "Real Life",
+          "url": "https://open.spotify.com/artist/1n0pe6Cx9pCNvXYkX9TTLX"
+        }
+      ],
+      "duration_ms": 232631,
+      "name": "Send Me An Angel",
+      "url": "https://open.spotify.com/track/3HCDGtLZabH3umLgwCBpDB"
     },
     {
       "added_at": "2026-09-16 20:40:24",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2026-09-16 20:40:24",
       "album": {
-        "name": "How Could It Be",
-        "url": "https://open.spotify.com/album/2ghvihRomDb37X59VK6hp5"
-      },
-      "artists": [
-        {
-          "name": "Eddie Murphy",
-          "url": "https://open.spotify.com/artist/1Zq8pfBl4ejCMrWdeAdphc"
-        }
-      ],
-      "duration_ms": 253293,
-      "name": "Party All the Time",
-      "url": "https://open.spotify.com/track/6N5DRCQUSXT1qQqmqsO92B"
-    },
-    {
-      "added_at": "2026-09-16 20:40:24",
-      "album": {
         "name": "Hysteria",
         "url": "https://open.spotify.com/album/1ja2qzCrh6bZykcojbZs82"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 346960,
       "name": "Love Bites",
       "url": "https://open.spotify.com/track/4qWizh4UB8BuSypZ3T1zAz"
+    },
+    {
+      "added_at": "2026-09-16 20:40:24",
+      "album": {
+        "name": "How Could It Be",
+        "url": "https://open.spotify.com/album/2ghvihRomDb37X59VK6hp5"
+      },
+      "artists": [
+        {
+          "name": "Eddie Murphy",
+          "url": "https://open.spotify.com/artist/1Zq8pfBl4ejCMrWdeAdphc"
+        }
+      ],
+      "duration_ms": 253293,
+      "name": "Party All the Time",
+      "url": "https://open.spotify.com/track/6N5DRCQUSXT1qQqmqsO92B"
     },
     {
       "added_at": "2026-09-16 20:40:24",

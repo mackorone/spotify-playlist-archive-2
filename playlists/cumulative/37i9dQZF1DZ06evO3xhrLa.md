@@ -4,7 +4,7 @@
 
 > This is Jhené Aiko\. The essential tracks, all in one playlist.
 
-92 songs - 5 hr 38 min
+93 songs - 5 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Triggered \(freestyle\)](https://open.spotify.com/track/3zPgAKn5tbmCuCKrR3r7qE) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Chilombo](https://open.spotify.com/album/5jlE1zlhT3mEWw0mRpN920) | 3:29 | 2023-05-02 |  |
 | [U Move, I Move \(feat\. Jhene Aiko\)](https://open.spotify.com/track/7wfDCDfhVe2tFxIkQEJp35) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Bigger Love](https://open.spotify.com/album/7BRuKFs9BFuba9TlMs2ZLd) | 3:43 | 2023-05-02 | 2026-09-13 |
 | [W.A.Y.S.](https://open.spotify.com/track/7jjKsW39O1i8hKF31ShpV9) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Souled Out \(Deluxe\)](https://open.spotify.com/album/6UKXuiWFuwxzC5rd0SW4Bo) | 3:58 | 2023-05-02 |  |
+| [Wading](https://open.spotify.com/track/1kQbkd67wUkTka6RmyiFL7) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Souled Out \(Deluxe\)](https://open.spotify.com/album/6UKXuiWFuwxzC5rd0SW4Bo) | 4:36 | 2026-11-13 |  |
 | [Wading](https://open.spotify.com/track/67yy5WKIBbuDjPxP3Faewa) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Souled Out](https://open.spotify.com/album/1dfGhmOGPopEReylj0UUDG) | 4:36 | 2024-05-21 | 2024-07-23 |
 | [Wasted Love Freestyle](https://open.spotify.com/track/1zsxlqBfktCpTXK9CjUpyW) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Wasted Love Freestyle](https://open.spotify.com/album/2zMEyUCS2gU5Igc5A6dhaU) | 3:47 | 2024-01-13 | 2024-07-02 |
 | [When We Love](https://open.spotify.com/track/63LJjsJuqZgQyYibMXn9ku) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Trip](https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k) | 4:22 | 2023-05-02 | 2026-09-13 |

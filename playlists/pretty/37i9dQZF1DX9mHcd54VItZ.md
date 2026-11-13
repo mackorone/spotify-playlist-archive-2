@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > The best new and classic South African Rock\. Cover: Spoegwolf
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,881 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,890 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Die Reënmasjien](https://open.spotify.com/track/15zECs6Gbi1MFSKdxEUZ1F) | [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn) | [Kleiner](https://open.spotify.com/album/1LYVEZzgNtSpZKK4k4xOnS) | 3:13 |
 | 2 | [Fake It](https://open.spotify.com/track/4eAwB5pnKFTmsgc3zWoYO0) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Finding Beauty In Negative Spaces \(Bonus Track Version\)](https://open.spotify.com/album/59Tni3gA1OczshFWTMxmbo) | 3:13 |
 | 3 | [Stadig](https://open.spotify.com/track/0CYKkA90kXsGRV5xLrWX6L) | [Rooksein](https://open.spotify.com/artist/0TX0T9VkzOTEjsdzi1a4nT), [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [Stadig](https://open.spotify.com/album/7Edw5GZL5izoP3VbDyewf3) | 3:45 |
-| 4 | [NIE MÔRE NIE NOU](https://open.spotify.com/track/5WdHAbIFzTyy5lsL1jAasG) | [Die Heuwels Fantasties](https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb) | [NIE MÔRE NIE NOU](https://open.spotify.com/album/4LpFTzqLouhqyFFYMjMUEv) | 2:38 |
+| 4 | [Spoed](https://open.spotify.com/track/1ZCLFJW1acNaaObECCXHD6) | [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [Spoed](https://open.spotify.com/album/73UtUb5VpmN7d7Pt10BTkA) | 2:30 |
 | 5 | [Werk is Kerk](https://open.spotify.com/track/72WGSi6PTeZFgbPvLSMOZa) | [VOLK](https://open.spotify.com/artist/4FvIuLbPat5vSttuzmM7VE), [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF) | [Werk is Kerk](https://open.spotify.com/album/472FKZHyC2dSqV99TaTzf5) | 3:22 |
-| 6 | [Spoed](https://open.spotify.com/track/1ZCLFJW1acNaaObECCXHD6) | [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [Spoed](https://open.spotify.com/album/73UtUb5VpmN7d7Pt10BTkA) | 2:30 |
+| 6 | [NIE MÔRE NIE NOU](https://open.spotify.com/track/5WdHAbIFzTyy5lsL1jAasG) | [Die Heuwels Fantasties](https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb) | [NIE MÔRE NIE NOU](https://open.spotify.com/album/4LpFTzqLouhqyFFYMjMUEv) | 2:38 |
 | 7 | [not your wife](https://open.spotify.com/track/6vahp1JzG4nrgq7Acb2QLC) | [Coasters](https://open.spotify.com/artist/4VjyjBUcEwwx4xqtU359Ep) | [not your wife](https://open.spotify.com/album/5AjiZWW1elqJecfnCKMKUA) | 3:45 |
 | 8 | [Insecure Meisies](https://open.spotify.com/track/3DKD5cBeHWnLgXh60317vS) | [Zoé](https://open.spotify.com/artist/2J1JhQzNtZ3RURghA5aF65) | [Insecure Meisies](https://open.spotify.com/album/18J2iHoPYYYPci1BiNeR34) | 3:11 |
 | 9 | [Baseline](https://open.spotify.com/track/73lM1799uutdMU9kYRGn6M) | [We Had Plans](https://open.spotify.com/artist/17gJ9vPD1savdV1NJpelGg) | [Baseline](https://open.spotify.com/album/2gRUmq4vnojyJn4jOfbV51) | 4:00 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 44 | [Verloor Jouself](https://open.spotify.com/track/6gyapfzo41oTNPFLMBIgA4) | [GSTRiNG](https://open.spotify.com/artist/7x8i7WdBTZtFV2VbvIoDM5) | [Verloor Jouself](https://open.spotify.com/album/62W2COHw25v2dtuQ2bxwBV) | 2:15 |
 | 45 | [Afrikaners Is Plesierig](https://open.spotify.com/track/3GHN9QEIr3mYiGRmtleNvc) | [Karen Zoid](https://open.spotify.com/artist/1x6N4tQft8TwRuhOfRUgWC) | [Ultimate Zoid](https://open.spotify.com/album/6umebim7hsEZeR3DfsWmpX) | 3:44 |
 | 46 | [Ek Wil Jou Sien](https://open.spotify.com/track/38N3F6mMbHDDN7Hs6Wr58h) | [SENTIMENT](https://open.spotify.com/artist/5UfvbQjea70nDgJ0xJ4NVt) | [Ek Wil Jou Sien](https://open.spotify.com/album/3MZY8GP0AniCPebdVyTLuO) | 3:03 |
-| 47 | [Against All Odds](https://open.spotify.com/track/4w2QqBnvtWdj4L7QIZxIQW) | [aKING](https://open.spotify.com/artist/7sDD7J6PTmxXfYgIYZpBf5) | [Against All Odds](https://open.spotify.com/album/6mfTMtCYLUXnW7OVkjkOnu) | 2:55 |
-| 48 | [Doen Sy Bes](https://open.spotify.com/track/6fddhUt3v9E3SlJuInrLgS) | [Die Beste Band In Die Wêreld ...Ooit, Ek Sweer](https://open.spotify.com/artist/1LCk8t8lJx1S9aJt6RajMd) | [Nou Toer Ons!](https://open.spotify.com/album/5kzt6dw4Nye0oySXtNXl89) | 2:58 |
+| 47 | [Doen Sy Bes](https://open.spotify.com/track/6fddhUt3v9E3SlJuInrLgS) | [Die Beste Band In Die Wêreld ...Ooit, Ek Sweer](https://open.spotify.com/artist/1LCk8t8lJx1S9aJt6RajMd) | [Nou Toer Ons!](https://open.spotify.com/album/5kzt6dw4Nye0oySXtNXl89) | 2:58 |
+| 48 | [Against All Odds](https://open.spotify.com/track/4w2QqBnvtWdj4L7QIZxIQW) | [aKING](https://open.spotify.com/artist/7sDD7J6PTmxXfYgIYZpBf5) | [Against All Odds](https://open.spotify.com/album/6mfTMtCYLUXnW7OVkjkOnu) | 2:55 |
 | 49 | [Delete You.](https://open.spotify.com/track/2xcBeONsMsXFS7HffJ1lMw) | [CON THE ARTIST](https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz) | [Delete You.](https://open.spotify.com/album/1vRZ4rFrTNNgeyBmBqFdf3) | 3:08 |
 | 50 | [Berge](https://open.spotify.com/track/2z6QLwxk0nmW7Ckkt3M8vG) | [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn) | [Berge](https://open.spotify.com/album/7lOASXESmgv642WLhyUPZE) | 4:15 |
 

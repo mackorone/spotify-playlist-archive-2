@@ -149,6 +149,24 @@
     },
     {
       "album": {
+        "name": "Carga Blanca",
+        "url": "https://open.spotify.com/album/4fWLth4SoX7E629aj01Cpi"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165560,
+      "name": "Aun Se Acuerda de Mi",
+      "url": "https://open.spotify.com/track/4AZKMvd9vLrStknRXbOpZH"
+    },
+    {
+      "album": {
         "name": "20 Exitos De Oro",
         "url": "https://open.spotify.com/album/1wQNoNPJzVHJpc265eYkG3"
       },

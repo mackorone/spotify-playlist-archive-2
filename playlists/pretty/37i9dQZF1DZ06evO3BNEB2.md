@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3BNEB2.md) - [plain]
 
 > This is Wale\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,369 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,370 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3BNEB2.md) - [plain]
 | 42 | [Bed of Roses \(with Wale\)](https://open.spotify.com/track/1M7szG4sXLIcacdsYNJ9OW) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Bed of Roses \(with Wale\)](https://open.spotify.com/album/2TYtr1CCfYFlwf1k3hJ6S3) | 3:05 |
 | 43 | [100 Miles and Running \(ft\. Wale & John Lindahl\)](https://open.spotify.com/track/4CstQ0SUkl0YkoeZkIZlIx) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [John Lindahl](https://open.spotify.com/artist/2ei3ToTz5SL3pVp17X0Vkd) | [YSIV](https://open.spotify.com/album/1lyjkFTJ6yxUyNYysWVBo9) | 5:53 |
 | 44 | [Beautiful Bliss](https://open.spotify.com/track/5Ys7Mcr0n8NBTFiwqbTR8m) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Melanie Fiona](https://open.spotify.com/artist/4O2YL4ygn6eTBC0w1hyWUM), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Attention Deficit \(Explicit Version\)](https://open.spotify.com/album/4wvluWE0xVSY59d1fafNCI) | 5:04 |
-| 45 | [My Boy \(feat\. J\. Cole\) \- Freestyle](https://open.spotify.com/track/11QvWp3CsEPd0YLE6xKGyx) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Free Lunch](https://open.spotify.com/album/2KWMRiVC16dYpH9VkERMOF) | 4:29 |
-| 46 | [On My Mind](https://open.spotify.com/track/3Nb1HMWhunuQBKfQbtY5oA) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Ahora Tengo Todo Menos A Ti](https://open.spotify.com/album/44cLix04JOwkepKq6nIUFL) | 2:56 |
+| 45 | [On My Mind](https://open.spotify.com/track/3Nb1HMWhunuQBKfQbtY5oA) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Ahora Tengo Todo Menos A Ti](https://open.spotify.com/album/44cLix04JOwkepKq6nIUFL) | 2:56 |
+| 46 | [My Boy \(feat\. J\. Cole\) \- Freestyle](https://open.spotify.com/track/11QvWp3CsEPd0YLE6xKGyx) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Free Lunch](https://open.spotify.com/album/2KWMRiVC16dYpH9VkERMOF) | 4:29 |
 | 47 | [You Got It \(feat\. Wale\)](https://open.spotify.com/track/1eG559Jhrn9cDBrZplGlcJ) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Friday Night Lights](https://open.spotify.com/album/4ghGEhWzY5ffry2IqgrnRg) | 4:46 |
 | 48 | [The Girls on Drugs](https://open.spotify.com/track/09GCuO9yQH5R1E8HYknrV8) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [The Album About Nothing](https://open.spotify.com/album/6aCr3UaB8lM9g6TtFB3qwd) | 4:09 |
-| 49 | [Shotgun \(feat\. Wale\)](https://open.spotify.com/track/6xZrxEtWmWFtSQlCuYxLtL) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Some Days I’m Good, Some Days I’m Not](https://open.spotify.com/album/6CyD8cVpx9f8uJT9ZpJHRG) | 2:38 |
-| 50 | [Slow Down \(Remix\) \[feat\. H.E.R\. & Wale\]](https://open.spotify.com/track/3oMICOZz49EM5LT4Z330uo) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Slow Down \(Remix\) \[feat\. H.E.R\. & Wale\]](https://open.spotify.com/album/2HGRESjom1ev3i6XQfSszY) | 3:42 |
+| 49 | [Slow Down \(Remix\) \[feat\. H.E.R\. & Wale\]](https://open.spotify.com/track/3oMICOZz49EM5LT4Z330uo) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Slow Down \(Remix\) \[feat\. H.E.R\. & Wale\]](https://open.spotify.com/album/2HGRESjom1ev3i6XQfSszY) | 3:42 |
+| 50 | [Shotgun \(feat\. Wale\)](https://open.spotify.com/track/6xZrxEtWmWFtSQlCuYxLtL) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Some Days I’m Good, Some Days I’m Not](https://open.spotify.com/album/6CyD8cVpx9f8uJT9ZpJHRG) | 2:38 |
 
-Snapshot ID: `avENAAAAAAB1cqhEIMx+RevFUvUhFZkx`
+Snapshot ID: `avOwAAAAAACPOM5nyhSZaoMV3CYLHw4m`

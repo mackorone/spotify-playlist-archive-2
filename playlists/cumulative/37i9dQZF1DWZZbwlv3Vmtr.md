@@ -4,7 +4,7 @@
 
 > Instrumental beats to lock\-in.
 
-1,237 songs - 1 day 23 hr 31 min
+1,239 songs - 1 day 23 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -712,6 +712,7 @@
 | [Oboe on Jupiter](https://open.spotify.com/track/23NfXr1s9xe0xzAquqGmq5) | [LILCHI](https://open.spotify.com/artist/55rKNBzTkThc5PPCc1kbRn) | [Oboe on Jupiter](https://open.spotify.com/album/6Z5TzNSKzXC8LC6tpnZ5fO) | 2:11 | 2023-01-13 | 2025-09-14 |
 | [Ocean Ride](https://open.spotify.com/track/2uGyOZUwNdpZChOWspCVYP) | [aunt](https://open.spotify.com/artist/1Qq3CjUcS69tT2vvp1ttpB) | [Ocean Ride](https://open.spotify.com/album/0wHm0QUEgZUUNYUF9ut2pq) | 2:09 | 2024-09-27 |  |
 | [Off the Grid](https://open.spotify.com/track/6bmBDrRgDi0MuDu3TCTq0d) | [Spitzgefühl](https://open.spotify.com/artist/1sxYUZPD5cbz9jqdNqR3lk) | [Off the Grid](https://open.spotify.com/album/2SIhBpm83H8nMC0ZMkBnGJ) | 2:14 | 2025-01-24 | 2025-04-30 |
+| [Off We Go](https://open.spotify.com/track/7eQLmNuILoeE8i9IOh75F6) | [Muroki](https://open.spotify.com/artist/1AeSPGqAkY1Me6ed49vb0n) | [Off We Go](https://open.spotify.com/album/4XJnTF0DlozKpzDsn5NMag) | 2:13 | 2026-11-12 |  |
 | [Offline Together](https://open.spotify.com/track/1rnercSSLoBihVQuOM3igA) | [Unmade Bed](https://open.spotify.com/artist/5XYhH4Vnl4zce8VkvTqFCb) | [Offline Together](https://open.spotify.com/album/23oec75AYHRLxv6f4ITm6L) | 2:09 | 2026-07-17 |  |
 | [Okains Bay](https://open.spotify.com/track/7IdC8X9vBmMuwWmKKkawu7) | [Bird Svensøn](https://open.spotify.com/artist/6y2CjnelXUD9BqAMzLkgvC) | [Okains Bay](https://open.spotify.com/album/1XlYdgPcRKZCYgYJWkZ42z) | 2:22 | 2022-05-27 | 2022-07-22 |
 | [Okazaki](https://open.spotify.com/track/18oMqdCWXJArEw8xhShvKl) | [Koi Botaru](https://open.spotify.com/artist/4hWFDULtLWRacgMQYvOA5w) | [Okazaki](https://open.spotify.com/album/7HwHTrwLX8E8SGDL0dS25G) | 1:57 | 2022-12-09 | 2025-07-10 |
@@ -1093,6 +1094,7 @@
 | [The New Day](https://open.spotify.com/track/1y2zDUWWkG4P97pDjWGrDi) | [Jolly Jordan](https://open.spotify.com/artist/4lpUkhOmmsVncY2vxf2UuZ) | [The New Day](https://open.spotify.com/album/2d6zNXCP512uLmfEsI10xA) | 2:44 | 2022-04-15 | 2025-07-10 |
 | [The News](https://open.spotify.com/track/1Spod3yKAoenrvhOHKCSeU) | [Jazzy James](https://open.spotify.com/artist/4Bhy1qgJgnqzCNQ9dmx3MR) | [The News](https://open.spotify.com/album/4fECS0VAlJDNSAsuG6G4X7) | 2:28 | 2022-11-11 | 2023-11-17 |
 | [The News](https://open.spotify.com/track/74dl7BgtaxeIT6d3jtowxH) | [Jazzy James](https://open.spotify.com/artist/4Bhy1qgJgnqzCNQ9dmx3MR) | [The News](https://open.spotify.com/album/0O0rYYaWAvXRRdXz3cKAbM) | 2:28 | 2022-05-13 | 2022-11-20 |
+| [The Other Trail](https://open.spotify.com/track/1x5olsNXOr8oPYjUJXZToz) | [Mareel](https://open.spotify.com/artist/7nI22V07BuRLz4BKbXtE5z) | [The Other Trail](https://open.spotify.com/album/2Qj8lFr2VDhXMXsbcaPfnP) | 2:13 | 2026-11-12 |  |
 | [the promenade](https://open.spotify.com/track/5RF13R5Ke9QggWAjQhJLXk) | [really big mountains](https://open.spotify.com/artist/4yJevCr3DRO4fW0NG2rjt4) | [train legs](https://open.spotify.com/album/2IRJlhzadkFBiNBWE8bt6x) | 2:03 | 2022-04-15 | 2023-07-20 |
 | [The Return](https://open.spotify.com/track/6plHV3oQN20BmAracIOUe5) | [Nishimura Blaze](https://open.spotify.com/artist/0UkVabqymwYoKqA9FtrTYa) | [The Return](https://open.spotify.com/album/7iR2WVooAnVND6Ho31wMxa) | 2:36 | 2024-02-09 | 2025-07-19 |
 | [The Special](https://open.spotify.com/track/0clBXqkR2kqIhkAGdSnSHB) | [Clifford](https://open.spotify.com/artist/2yS9Ixr0a7wHxb0dpEvc2j), [DESH](https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO), [Howden](https://open.spotify.com/artist/5ij6GPX5uLZaxY5tttP8Vi) | [The Special](https://open.spotify.com/album/1lrQMnWVHOHBXEWw231jCK) | 2:01 | 2022-05-13 | 2023-07-20 |
@@ -1199,7 +1201,7 @@
 | [Westminster](https://open.spotify.com/track/4xJIJavUzBatJRvs8v48dF) | [Blue Boatz](https://open.spotify.com/artist/3HrkUrHEDPnVCg92aTL15T) | [Westminster](https://open.spotify.com/album/2QC94ST7Lx4VaHNarIk6zc) | 2:44 | 2022-04-15 | 2025-07-10 |
 | [What If](https://open.spotify.com/track/3yOtycmjxt0lO2LAr7h1fI) | [Ten Tin Trumpets](https://open.spotify.com/artist/1uPhaXGb4PrQKmNnKXm0GI) | [What If](https://open.spotify.com/album/5iJfrGAdF8CrmcUypBd008) | 3:36 | 2022-04-15 | 2022-05-14 |
 | [Where are we now??](https://open.spotify.com/track/0X3VvSa9UXAAc5GkwsPEkS) | [WX//CLTV](https://open.spotify.com/artist/0m4sYqkyOznjEKxEEeLLkL) | [Where are we now??](https://open.spotify.com/album/3qdSszvaFaXLwD58p4mgVi) | 1:10 | 2023-11-24 | 2025-03-08 |
-| [Where the Stones Breathe](https://open.spotify.com/track/3bQmC50CJvtOC52tGgCHXA) | [Muroki](https://open.spotify.com/artist/1AeSPGqAkY1Me6ed49vb0n) | [Where the Stones Breathe](https://open.spotify.com/album/1QCyIeSRYutXT8R9mzDi46) | 2:20 | 2025-12-19 |  |
+| [Where the Stones Breathe](https://open.spotify.com/track/3bQmC50CJvtOC52tGgCHXA) | [Muroki](https://open.spotify.com/artist/1AeSPGqAkY1Me6ed49vb0n) | [Where the Stones Breathe](https://open.spotify.com/album/1QCyIeSRYutXT8R9mzDi46) | 2:20 | 2025-12-19 | 2026-11-13 |
 | [Where's the princess?](https://open.spotify.com/track/0yj53Azagf7yAdU7RMUa74) | [ddrreeaamm](https://open.spotify.com/artist/36nRPSyGHHo4hT0wpvxTBr) | [Where's the princess?](https://open.spotify.com/album/5OHHEebuQi60bEqNCQikMy) | 2:06 | 2023-12-15 | 2025-01-11 |
 | [Who You Are](https://open.spotify.com/track/3uJCI9hrlUdjgmPh2yuv3W) | [Grey Killer](https://open.spotify.com/artist/7D8eeQLyAJQnmyoQ74MJnb) | [Who You Are](https://open.spotify.com/album/17SOzJd9UJnDQzDZpOWyqF) | 4:09 | 2022-08-12 | 2023-09-22 |
 | [Who You Are](https://open.spotify.com/track/4k1o4RLLU5Qp8Qc3iWwCnp) | [Grey Killer](https://open.spotify.com/artist/7D8eeQLyAJQnmyoQ74MJnb) | [Who You Are](https://open.spotify.com/album/5lOG2MHQezQxpHV7HVlC2Z) | 4:09 | 2022-04-15 | 2022-08-13 |

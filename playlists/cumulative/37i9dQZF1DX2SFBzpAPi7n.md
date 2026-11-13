@@ -2,9 +2,9 @@
 
 ### [Cool K'IDs Rock](https://open.spotify.com/playlist/37i9dQZF1DX2SFBzpAPi7n)
 
-> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: OYSTERS\) \(핫한 국내 록 음악을 만나보세요!\)
+> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: LUCY\) \(핫한 국내 록 음악을 만나보세요!\)
 
-1,233 songs - 3 day 2 hr 59 min
+1,234 songs - 3 day 3 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [A Sleepless Night](https://open.spotify.com/track/7wlCdfpxaWQPaxspDIN3wX) | [CNBLUE](https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi) | [X](https://open.spotify.com/album/5jV0o8IBkyrptifJWnXB0u) | 2:45 | 2024-10-16 | 2025-04-12 |
 | [A song for you](https://open.spotify.com/track/67n8M1giJq7nf8H4adHwcS) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [A song for you](https://open.spotify.com/album/7hMIZUJSBHY5UzQfeLkfxE) | 3:15 | 2022-04-22 | 2022-07-28 |
 | [A Song For You](https://open.spotify.com/track/3aaqNLus6XZVW2UtZzbLNl) | [SAya](https://open.spotify.com/artist/0Twk7swVpScH341g40BIbO) | [GREEN MOTHERS' CLUB OST Part 5](https://open.spotify.com/album/79RNrjKKCwikaf8ask8mTY) | 3:32 | 2022-06-13 | 2022-07-09 |
-| [A WASTED DAY](https://open.spotify.com/track/1RXxn4sDioECDRibAvBJ57) | [OYSTERS](https://open.spotify.com/artist/5Q8aOhk9SVLndQyLl5Gozl) | [A WASTED DAY](https://open.spotify.com/album/1lH757G4Aa6JX9oZjnrwZQ) | 1:42 | 2026-11-04 |  |
+| [A WASTED DAY](https://open.spotify.com/track/1RXxn4sDioECDRibAvBJ57) | [OYSTERS](https://open.spotify.com/artist/5Q8aOhk9SVLndQyLl5Gozl) | [A WASTED DAY](https://open.spotify.com/album/1lH757G4Aa6JX9oZjnrwZQ) | 1:42 | 2026-11-04 | 2026-11-13 |
 | [Abilify](https://open.spotify.com/track/5fjD3Ijnjaxeexw6PXD1FK) | [Lips\-Bite](https://open.spotify.com/artist/6oOVSJ1CjIBnMZ4hADpl8h), [Long D](https://open.spotify.com/artist/621cB0IPX1hVgxnB6RqDz0) | [Abilify](https://open.spotify.com/album/6qbyQADqPMPmDbVEgQHZVe) | 3:49 | 2022-06-18 | 2022-07-02 |
 | [Addicted to TV](https://open.spotify.com/track/2OpUyPEh9mq0ZSrOMRIO7S) | [DICKPUNKS](https://open.spotify.com/artist/2g1DmQlx7A9z1ctK0dNlen) | [Addicted to TV](https://open.spotify.com/album/0tMersFXcFglAPfmHGiAug) | 3:44 | 2022-04-22 | 2022-07-27 |
 | [Addiction](https://open.spotify.com/track/0u7mqw0JiK3AVL3lOtzgxM) | [TOUCHED](https://open.spotify.com/artist/5jgIm8tZ4hqLeoHTo9wJIV) | [Addiction](https://open.spotify.com/album/6eba8K9SfZTZ5b3zz0ga2d) | 3:05 | 2024-10-27 | 2024-12-19 |
@@ -49,6 +49,7 @@
 | [AFTER THE FALL](https://open.spotify.com/track/5VeXyX2wRoENzyTBztJp40) | [WEST SOUND](https://open.spotify.com/artist/1CeuINom3Xvt7ENvEnOlyH) | [AFTER THE FALL](https://open.spotify.com/album/2b9nh4MwiJziLdtqKfEtbI) | 3:23 | 2024-11-06 | 2024-12-19 |
 | [After the rain](https://open.spotify.com/track/7ixtNNaE45TecEqZtWbYRx) | [GEMma](https://open.spotify.com/artist/2OHfq64yFsF9ehuUjCZwJF) | [HOPE FOR THE FLOWER](https://open.spotify.com/album/4iY3YGIfLBlAz3NNwTmshr) | 4:42 | 2022-04-12 | 2022-04-22 |
 | [After Tonight](https://open.spotify.com/track/5KB3Qovr1wV5dapcWnnXDg) | [AfterMoon 애프터문](https://open.spotify.com/artist/5Xz2wM6arxCGcFkMdp6iJR) | [After Tonight](https://open.spotify.com/album/1Y0IXwWhiU2maaFcRyX7E5) | 4:25 | 2022-04-12 | 2022-07-27 |
+| [AGAIN!](https://open.spotify.com/track/0bglrEVMAhh6SP8433mpnk) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [AGAIN!](https://open.spotify.com/album/6VdoTGVMCuK4pVd2cnHW5p) | 3:43 | 2026-11-13 |  |
 | [Aliens](https://open.spotify.com/track/5OhAdGaEG4WN3k4LdHx3nC) | [Fromm](https://open.spotify.com/artist/4ht1mwP4ouSu79jOOktCY3) | [CELLOPHANE](https://open.spotify.com/album/4lW1x2le12GEKHdZVPFT8h) | 4:21 | 2022-04-12 | 2022-06-25 |
 | [ALL ENDS](https://open.spotify.com/track/73vfZGF5BxlRLsfdfVvRao) | [GUMX](https://open.spotify.com/artist/4vFO3Z1XVJ3IOX4nQjPW62) | [ALL ENDS](https://open.spotify.com/album/4GPGGQQYoR0Q5ELHPuzd20) | 2:21 | 2022-08-12 | 2022-08-19 |
 | [All is you](https://open.spotify.com/track/5nTJoIraxw2S0Bp5LEqGbk) | [CIFIKA](https://open.spotify.com/artist/0OK6Xs5X1kHs07y68n65CQ), [Shin Hae Gyeong](https://open.spotify.com/artist/5QvjYtqN0mekeCiyhdAjss) | [All is you](https://open.spotify.com/album/10pOd9mtldRpC7tbHNz6WS) | 4:27 | 2022-05-03 | 2022-07-27 |

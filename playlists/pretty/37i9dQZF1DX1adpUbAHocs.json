@@ -1,6 +1,6 @@
 {
   "description": "hop in and take the long way.",
-  "num_followers": 625972,
+  "num_followers": 625907,
   "original_name": "Scenic Route",
   "owner": {
     "name": "Spotify",
@@ -535,22 +535,6 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
-        "name": "Drop Stop Roll",
-        "url": "https://open.spotify.com/album/7C45E727Jyq6UrMyLYD2Ab"
-      },
-      "artists": [
-        {
-          "name": "Rainbow Kitten Surprise",
-          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
-        }
-      ],
-      "duration_ms": 170788,
-      "name": "Drop Stop Roll",
-      "url": "https://open.spotify.com/track/1y3NV3N99VoSP4crdkbog7"
-    },
-    {
-      "added_at": "2024-07-05 20:58:56",
-      "album": {
         "name": "The Roads",
         "url": "https://open.spotify.com/album/2QRL4SnhoN9c6bK8R93o1k"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 250597,
       "name": "The Roads",
       "url": "https://open.spotify.com/track/1z8cabK9f2r2pXWx30ErUW"
+    },
+    {
+      "added_at": "2024-07-05 20:58:56",
+      "album": {
+        "name": "Drop Stop Roll",
+        "url": "https://open.spotify.com/album/7C45E727Jyq6UrMyLYD2Ab"
+      },
+      "artists": [
+        {
+          "name": "Rainbow Kitten Surprise",
+          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
+        }
+      ],
+      "duration_ms": 170788,
+      "name": "Drop Stop Roll",
+      "url": "https://open.spotify.com/track/1y3NV3N99VoSP4crdkbog7"
     },
     {
       "added_at": "2024-07-05 20:58:56",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
-        "name": "The Million Masks Of God",
-        "url": "https://open.spotify.com/album/3GJ7F5BNIZjY5fhiu8ui4B"
-      },
-      "artists": [
-        {
-          "name": "Manchester Orchestra",
-          "url": "https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f"
-        }
-      ],
-      "duration_ms": 148786,
-      "name": "Telepath",
-      "url": "https://open.spotify.com/track/2i8fcnTT5iItxMNwa8mfr3"
-    },
-    {
-      "added_at": "2024-07-05 20:58:56",
-      "album": {
         "name": "Signal Sender",
         "url": "https://open.spotify.com/album/4ILDW93NPJE8kEJSrUXuIy"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 200137,
       "name": "Signal Sender",
       "url": "https://open.spotify.com/track/1XHTJ2n4ajw9dDzuPGY4Rm"
+    },
+    {
+      "added_at": "2024-07-05 20:58:56",
+      "album": {
+        "name": "The Million Masks Of God",
+        "url": "https://open.spotify.com/album/3GJ7F5BNIZjY5fhiu8ui4B"
+      },
+      "artists": [
+        {
+          "name": "Manchester Orchestra",
+          "url": "https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f"
+        }
+      ],
+      "duration_ms": 148786,
+      "name": "Telepath",
+      "url": "https://open.spotify.com/track/2i8fcnTT5iItxMNwa8mfr3"
     },
     {
       "added_at": "2024-07-05 20:58:56",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
-        "name": "South Gotta Change",
-        "url": "https://open.spotify.com/album/2fqnpucDvUPFqFTTn3MTiQ"
-      },
-      "artists": [
-        {
-          "name": "Adia Victoria",
-          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
-        }
-      ],
-      "duration_ms": 225266,
-      "name": "South Gotta Change",
-      "url": "https://open.spotify.com/track/4hDxqXmufOdDFlqnUqcamD"
-    },
-    {
-      "added_at": "2024-07-05 20:58:56",
-      "album": {
         "name": "World On The Ground",
         "url": "https://open.spotify.com/album/7vI29Msu8k0wpFUittUvAH"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 239586,
       "name": "Johnny",
       "url": "https://open.spotify.com/track/4WDtGj1M2HFlcjvYIiRFug"
+    },
+    {
+      "added_at": "2024-07-05 20:58:56",
+      "album": {
+        "name": "South Gotta Change",
+        "url": "https://open.spotify.com/album/2fqnpucDvUPFqFTTn3MTiQ"
+      },
+      "artists": [
+        {
+          "name": "Adia Victoria",
+          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
+        }
+      ],
+      "duration_ms": 225266,
+      "name": "South Gotta Change",
+      "url": "https://open.spotify.com/track/4hDxqXmufOdDFlqnUqcamD"
     },
     {
       "added_at": "2024-07-05 20:58:56",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
-        "name": "Lost Track",
-        "url": "https://open.spotify.com/album/3oiTuW8YuHwmhpDHQOdJGE"
-      },
-      "artists": [
-        {
-          "name": "HAIM",
-          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
-        }
-      ],
-      "duration_ms": 142133,
-      "name": "Lost Track",
-      "url": "https://open.spotify.com/track/3dxgq3THNqGk6Mv5ZZ7yXY"
-    },
-    {
-      "added_at": "2024-07-05 20:58:56",
-      "album": {
         "name": "It\u2019s a good day (to fight the system) [feat. Joy Oladokun]",
         "url": "https://open.spotify.com/album/4PLKogyBkZU5ApXNogSDIF"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 197474,
       "name": "It\u2019s a good day (to fight the system) - feat. Joy Oladokun",
       "url": "https://open.spotify.com/track/0E5MOJcS4Fluq18lTvTVkf"
+    },
+    {
+      "added_at": "2024-07-05 20:58:56",
+      "album": {
+        "name": "Lost Track",
+        "url": "https://open.spotify.com/album/3oiTuW8YuHwmhpDHQOdJGE"
+      },
+      "artists": [
+        {
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+        }
+      ],
+      "duration_ms": 142133,
+      "name": "Lost Track",
+      "url": "https://open.spotify.com/track/3dxgq3THNqGk6Mv5ZZ7yXY"
     },
     {
       "added_at": "2024-07-05 20:58:56",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
-        "name": "Migration Stories",
-        "url": "https://open.spotify.com/album/6wkWIyipqrQI4xLLxv6IGy"
-      },
-      "artists": [
-        {
-          "name": "M. Ward",
-          "url": "https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI"
-        }
-      ],
-      "duration_ms": 208298,
-      "name": "Migration of Souls",
-      "url": "https://open.spotify.com/track/2GmGy1eJTvPACm3ekX0hxD"
-    },
-    {
-      "added_at": "2024-07-05 20:58:56",
-      "album": {
         "name": "Sour Lemon",
         "url": "https://open.spotify.com/album/2gl1YvNVNAd1DdV3r7rOQ0"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 236466,
       "name": "Lost",
       "url": "https://open.spotify.com/track/25JOOXgL3bVkBzjzGvcLoE"
+    },
+    {
+      "added_at": "2024-07-05 20:58:56",
+      "album": {
+        "name": "Migration Stories",
+        "url": "https://open.spotify.com/album/6wkWIyipqrQI4xLLxv6IGy"
+      },
+      "artists": [
+        {
+          "name": "M. Ward",
+          "url": "https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI"
+        }
+      ],
+      "duration_ms": 208298,
+      "name": "Migration of Souls",
+      "url": "https://open.spotify.com/track/2GmGy1eJTvPACm3ekX0hxD"
     }
   ],
   "unique_name": "Scenic Route",

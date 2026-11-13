@@ -2494,10 +2494,32 @@
       ],
       "date_added": "2026-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 224351,
       "name": "Daripontothundu",
       "url": "https://open.spotify.com/track/3cqhSLSwLgHojdZqD8ZLne"
+    },
+    {
+      "album": {
+        "name": "Daripontothundu (DJ Song)",
+        "url": "https://open.spotify.com/album/3XZsb6zxS8AsH4ihAE35B3"
+      },
+      "artists": [
+        {
+          "name": "Mamidi Mounika",
+          "url": "https://open.spotify.com/artist/3Ndbf8EbaxpIzFFEJ2eyBZ"
+        },
+        {
+          "name": "Dj Linga",
+          "url": "https://open.spotify.com/artist/5kEKSNp4QPqAXvhfZIW2nz"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182712,
+      "name": "Daripontothundu - DJ Song",
+      "url": "https://open.spotify.com/track/072JL4fDdbBB9Cw5gSGEsr"
     },
     {
       "album": {
@@ -3812,7 +3834,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-02",
+      "date_removed": null,
       "duration_ms": 205108,
       "name": "Hai Re (From \"Itllu Arjuna\")",
       "url": "https://open.spotify.com/track/1b5IfazTvAHfblmWymHf1p"
@@ -8986,7 +9008,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 221096,
       "name": "Rebel Saab (From \"The Rajasaab\") [TELUGU]",
       "url": "https://open.spotify.com/track/641uWlhT8KRRE74GvDDsxa"

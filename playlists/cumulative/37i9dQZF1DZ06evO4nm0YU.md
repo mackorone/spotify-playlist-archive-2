@@ -4,7 +4,7 @@
 
 > This is Héctor Lavoe\. The essential tracks, all in one playlist.
 
-100 songs - 9 hr 10 min
+101 songs - 9 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [No Me Den Candela](https://open.spotify.com/track/1NKjjz8SHggPHXF6DnlabU) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Guisando: Doing A Job](https://open.spotify.com/album/5cIig3BrjPvDMpMRZR7a9G) | 7:09 | 2022-11-21 | 2023-06-05 |
 | [No Me Den Candela \- Remastered 2025](https://open.spotify.com/track/2B69mVmaUZqzL3XrklfgKT) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Guisando: Doing A Job \(Remastered 2025\)](https://open.spotify.com/album/43hcbyQ8jVEzgHY2pMPpJa) | 7:11 | 2025-07-12 | 2026-03-18 |
 | [No Me Llores Más](https://open.spotify.com/track/74SLiN21pdSJEktbjyjO5I) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Cosa Nuestra](https://open.spotify.com/album/2ta1doHAXdTOtLLoc02fZf) | 5:37 | 2022-09-08 |  |
+| [Noche De Farra](https://open.spotify.com/track/2YISq9GxM1gJLkciIfMS49) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [El Sabio](https://open.spotify.com/album/2QqqS97l2DLYq1vrhHUpze) | 6:00 | 2026-11-13 |  |
 | [Pachito Eché](https://open.spotify.com/track/35KiYF3wTuoVhVYcFPWNWH) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Hector Casanova](https://open.spotify.com/artist/1xAyYU2KQcA4QaNvVqVdu4), [Adalberto Santiago](https://open.spotify.com/artist/6tZxUxheS7w3953cQFOXkd), [Pete "El Conde" Rodriguez](https://open.spotify.com/artist/1Nl2RRbigQuX1TqV1tSPHa), [Justi Barreto](https://open.spotify.com/artist/6qH1QonyK2HnZE4QRBtyP2) | [Homenaje A Beny Moré](https://open.spotify.com/album/3kcPe4YnATOHYNLgwdXSAY) | 3:40 | 2022-10-13 | 2023-02-16 |
 | [Paraíso De Dulzura](https://open.spotify.com/track/65H0XKHaMafgni2wJsSI6m) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [La Voz](https://open.spotify.com/album/6L5s2MnpJNhWA54koTN7UV) | 4:35 | 2022-09-08 | 2025-09-11 |
 | [Paraíso de Dulzura \- Remastered 2023](https://open.spotify.com/track/00VNjC3VctSnxJ1xKzcoIm) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [La Voz \(Remastered 2023\)](https://open.spotify.com/album/4OAr7LoCvz26ux4SYqzUcW) | 4:36 | 2026-08-26 |  |
@@ -95,7 +96,7 @@
 | [Timbalero](https://open.spotify.com/track/52Bo07jYDz6FkKnOL07x3Q) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [49 Minutes](https://open.spotify.com/album/1T4b8OHo82V9mr8UdMTJ72) | 8:17 | 2022-09-08 |  |
 | [Todo Tiene Su Final](https://open.spotify.com/track/7r0ckjpJUZwOASD1VLJgS7) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Lo Mato](https://open.spotify.com/album/4TzXeIsjyPLaNvgOd84bwr) | 5:03 | 2022-09-08 | 2026-11-10 |
 | [Triste Y Vacía](https://open.spotify.com/track/4eJXH4tss0nwgHlaPqMwSc) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Vigilante](https://open.spotify.com/album/0gNCmEbPNV1OJ6JIcExTB7) | 6:11 | 2022-09-08 |  |
-| [Tu No Puedes Conmigo](https://open.spotify.com/track/1Cva3BnPjMPPYuAsd2NHIo) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Cosa Nuestra](https://open.spotify.com/album/2ta1doHAXdTOtLLoc02fZf) | 3:25 | 2026-03-03 |  |
+| [Tu No Puedes Conmigo](https://open.spotify.com/track/1Cva3BnPjMPPYuAsd2NHIo) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Cosa Nuestra](https://open.spotify.com/album/2ta1doHAXdTOtLLoc02fZf) | 3:25 | 2026-03-03 | 2026-11-13 |
 | [Tus Ojos](https://open.spotify.com/track/6p30u7NhMMgPFCLbQqj3Hc) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Tú Bien Lo Sabes](https://open.spotify.com/album/4Lm8DCc4Bj58xztz72CgJ6) | 3:35 | 2025-10-09 |  |
 | [Tus Ojos](https://open.spotify.com/track/2qGOhy0tSbvClnQhgBkkoC) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [La Voz](https://open.spotify.com/album/6L5s2MnpJNhWA54koTN7UV) | 3:36 | 2022-10-07 | 2025-10-09 |
 | [Tú Bien Lo Sabes](https://open.spotify.com/track/10tGX9oQ2xa1mgAXu8Cmc7) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Tú Bien Lo Sabes](https://open.spotify.com/album/4Lm8DCc4Bj58xztz72CgJ6) | 4:10 | 2022-09-14 | 2022-10-13 |

@@ -4553,6 +4553,24 @@
     },
     {
       "album": {
+        "name": "Brisa",
+        "url": "https://open.spotify.com/album/3gEXKIxntUjTaNDsavNhr6"
+      },
+      "artists": [
+        {
+          "name": "Sam Shelby",
+          "url": "https://open.spotify.com/artist/7FltCguKLFPZShVmdTbvwi"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143394,
+      "name": "Brisa",
+      "url": "https://open.spotify.com/track/4qy3Euenb4ywZLCAQYdveC"
+    },
+    {
+      "album": {
         "name": "Broke",
         "url": "https://open.spotify.com/album/5VI7gSQ2bussOvm9vxVapg"
       },
@@ -13312,7 +13330,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 157714,
       "name": "How I Feel",
       "url": "https://open.spotify.com/track/0DiiIbyESdKbGnfD9p4UK0"
@@ -14693,6 +14711,28 @@
     },
     {
       "album": {
+        "name": "Jealousy",
+        "url": "https://open.spotify.com/album/4JlL7CGvmc8hjSD5p54ohe"
+      },
+      "artists": [
+        {
+          "name": "Kapuzen",
+          "url": "https://open.spotify.com/artist/33t6iueXWtstQC1Q0RdojN"
+        },
+        {
+          "name": "Ness\u00f8",
+          "url": "https://open.spotify.com/artist/15zqFxyXkm096rs1qnVn7b"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220800,
+      "name": "Jealousy",
+      "url": "https://open.spotify.com/track/1bB7AhwELoi0gQuWqc17Zw"
+    },
+    {
+      "album": {
         "name": "Jiggle That",
         "url": "https://open.spotify.com/album/5sUxfIQXoeKdG9cS60YAaZ"
       },
@@ -15026,7 +15066,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 149204,
       "name": "Just Woke Up",
       "url": "https://open.spotify.com/track/5Yppr3pc5cSWo1TNY1ReZS"
@@ -17986,7 +18026,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 138181,
       "name": "Move It 2 The Drum",
       "url": "https://open.spotify.com/track/2r0b3hzXvDfOTyyefgbzk4"
@@ -23714,7 +23754,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-29",
+      "date_removed": null,
       "duration_ms": 219534,
       "name": "Salt on my lips",
       "url": "https://open.spotify.com/track/29qf4tjIsZbpjXCfLa6UWf"
@@ -26754,7 +26794,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-07",
+      "date_removed": null,
       "duration_ms": 183500,
       "name": "Tease",
       "url": "https://open.spotify.com/track/6uyPxNh9jZSdwQkfaOF9FF"
@@ -28740,7 +28780,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 191818,
       "name": "Trippin",
       "url": "https://open.spotify.com/track/2yRkOH3pZCCRucPaDrOrBc"
@@ -28986,7 +29026,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 123692,
       "name": "Turn Up The Bass",
       "url": "https://open.spotify.com/track/4YtKvo2pTZsy8kCq9A7d8c"
@@ -30524,6 +30564,32 @@
       "duration_ms": 208550,
       "name": "Whole Lotta Drugs",
       "url": "https://open.spotify.com/track/5WYRO89wwasU6XwYVX2uGQ"
+    },
+    {
+      "album": {
+        "name": "Why You Call",
+        "url": "https://open.spotify.com/album/6dgZGdSomi8n0YCX4CSPzt"
+      },
+      "artists": [
+        {
+          "name": "N2N",
+          "url": "https://open.spotify.com/artist/3ZnVC33s8MBcF0KmAC4rj5"
+        },
+        {
+          "name": "Taylr Renee",
+          "url": "https://open.spotify.com/artist/27feHJH3VKyk8FgOndiWU8"
+        },
+        {
+          "name": "Rob Marion",
+          "url": "https://open.spotify.com/artist/2B1oIKQTFQn04kCW6chegm"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169687,
+      "name": "Why You Call",
+      "url": "https://open.spotify.com/track/4Wxi3LCqhnGeyJfNq3Kk2f"
     },
     {
       "album": {

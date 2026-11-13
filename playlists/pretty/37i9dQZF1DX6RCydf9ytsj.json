@@ -1,6 +1,6 @@
 {
   "description": "We're celebrating the 40th anniversary of The Judd's album \"Why Not Me\" on 80s Country!",
-  "num_followers": 754683,
+  "num_followers": 754768,
   "original_name": "80s Country",
   "owner": {
     "name": "Spotify",
@@ -403,22 +403,6 @@
     {
       "added_at": "2026-02-17 04:46:38",
       "album": {
-        "name": "Storms of Life",
-        "url": "https://open.spotify.com/album/6rOVPyzQ5s7cUUyHHplESf"
-      },
-      "artists": [
-        {
-          "name": "Randy Travis",
-          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
-        }
-      ],
-      "duration_ms": 186346,
-      "name": "On the Other Hand",
-      "url": "https://open.spotify.com/track/5MkOctZG8LI9uHzpY7ncWj"
-    },
-    {
-      "added_at": "2026-02-17 04:46:38",
-      "album": {
         "name": "Lookin' For Love",
         "url": "https://open.spotify.com/album/6AxUdkfWrqHQxQEHKbqL47"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 220440,
       "name": "Lookin' for Love",
       "url": "https://open.spotify.com/track/5pvNhGuCow3Eq1nWbP3Sco"
+    },
+    {
+      "added_at": "2026-02-17 04:46:38",
+      "album": {
+        "name": "Storms of Life",
+        "url": "https://open.spotify.com/album/6rOVPyzQ5s7cUUyHHplESf"
+      },
+      "artists": [
+        {
+          "name": "Randy Travis",
+          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
+        }
+      ],
+      "duration_ms": 186346,
+      "name": "On the Other Hand",
+      "url": "https://open.spotify.com/track/5MkOctZG8LI9uHzpY7ncWj"
     },
     {
       "added_at": "2026-02-17 04:46:38",
@@ -1268,9 +1268,9 @@
           "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
         }
       ],
-      "duration_ms": 179333,
-      "name": "Big City",
-      "url": "https://open.spotify.com/track/7MYCBhcWtRSJ7YXTfIHlI8"
+      "duration_ms": 253293,
+      "name": "Are the Good Times Really Over (I Wish a Buck Was Still Silver)",
+      "url": "https://open.spotify.com/track/7tSZJ9iI3634Sqtd6Uvl49"
     },
     {
       "added_at": "2026-02-17 04:46:38",
@@ -1364,9 +1364,9 @@
           "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
         }
       ],
-      "duration_ms": 253293,
-      "name": "Are the Good Times Really Over (I Wish a Buck Was Still Silver)",
-      "url": "https://open.spotify.com/track/7tSZJ9iI3634Sqtd6Uvl49"
+      "duration_ms": 179333,
+      "name": "Big City",
+      "url": "https://open.spotify.com/track/7MYCBhcWtRSJ7YXTfIHlI8"
     },
     {
       "added_at": "2026-02-17 04:46:38",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2026-02-17 04:46:38",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/6J6IoDmM8Ls9koPtdm11Yu"
-      },
-      "artists": [
-        {
-          "name": "T.G. Sheppard",
-          "url": "https://open.spotify.com/artist/23C7hNBr8GRdsk3VoTSZXh"
-        }
-      ],
-      "duration_ms": 190733,
-      "name": "Do You Wanna Go to Heaven",
-      "url": "https://open.spotify.com/track/27QrAETf4eB2J533ktttTw"
-    },
-    {
-      "added_at": "2026-02-17 04:46:38",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/4oj3skAMdx0abpd3XtOrOo"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 215106,
       "name": "Stand By Me - Single Version",
       "url": "https://open.spotify.com/track/3Fa7jdzVHdykpioJP1Qw7Z"
+    },
+    {
+      "added_at": "2026-02-17 04:46:38",
+      "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/6J6IoDmM8Ls9koPtdm11Yu"
+      },
+      "artists": [
+        {
+          "name": "T.G. Sheppard",
+          "url": "https://open.spotify.com/artist/23C7hNBr8GRdsk3VoTSZXh"
+        }
+      ],
+      "duration_ms": 190733,
+      "name": "Do You Wanna Go to Heaven",
+      "url": "https://open.spotify.com/track/27QrAETf4eB2J533ktttTw"
     },
     {
       "added_at": "2026-02-17 04:46:38",
@@ -1795,6 +1795,22 @@
     {
       "added_at": "2026-02-17 04:46:38",
       "album": {
+        "name": "Wheels",
+        "url": "https://open.spotify.com/album/5bABPMZl5LzayvEbFEeHTi"
+      },
+      "artists": [
+        {
+          "name": "Restless Heart",
+          "url": "https://open.spotify.com/artist/0FcmRWJUfnCuwoXE1H2b0H"
+        }
+      ],
+      "duration_ms": 180800,
+      "name": "Why Does It Have to Be (Wrong or Right)",
+      "url": "https://open.spotify.com/track/2PgFdBqxZ3jJgcnotSLd65"
+    },
+    {
+      "added_at": "2026-02-17 04:46:38",
+      "album": {
         "name": "Super Hits",
         "url": "https://open.spotify.com/album/6J6IoDmM8Ls9koPtdm11Yu"
       },
@@ -1823,22 +1839,6 @@
       "duration_ms": 159866,
       "name": "American Made",
       "url": "https://open.spotify.com/track/1wtcyTExLF8nZu9ZphHIl1"
-    },
-    {
-      "added_at": "2026-02-17 04:46:38",
-      "album": {
-        "name": "Wheels",
-        "url": "https://open.spotify.com/album/5bABPMZl5LzayvEbFEeHTi"
-      },
-      "artists": [
-        {
-          "name": "Restless Heart",
-          "url": "https://open.spotify.com/artist/0FcmRWJUfnCuwoXE1H2b0H"
-        }
-      ],
-      "duration_ms": 180800,
-      "name": "Why Does It Have to Be (Wrong or Right)",
-      "url": "https://open.spotify.com/track/2PgFdBqxZ3jJgcnotSLd65"
     },
     {
       "added_at": "2026-02-17 04:46:38",
@@ -1875,22 +1875,6 @@
     {
       "added_at": "2026-02-17 04:46:38",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/6J6IoDmM8Ls9koPtdm11Yu"
-      },
-      "artists": [
-        {
-          "name": "T.G. Sheppard",
-          "url": "https://open.spotify.com/artist/23C7hNBr8GRdsk3VoTSZXh"
-        }
-      ],
-      "duration_ms": 202226,
-      "name": "Only One You",
-      "url": "https://open.spotify.com/track/36V6Cb9DjnxlVNqqgD5piw"
-    },
-    {
-      "added_at": "2026-02-17 04:46:38",
-      "album": {
         "name": "80s Ladies",
         "url": "https://open.spotify.com/album/34cBmDds6qdKYCwwZdy0XT"
       },
@@ -1903,6 +1887,22 @@
       "duration_ms": 251293,
       "name": "80's Ladies",
       "url": "https://open.spotify.com/track/3cyRqqiu2lrDq06PU3fvce"
+    },
+    {
+      "added_at": "2026-02-17 04:46:38",
+      "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/6J6IoDmM8Ls9koPtdm11Yu"
+      },
+      "artists": [
+        {
+          "name": "T.G. Sheppard",
+          "url": "https://open.spotify.com/artist/23C7hNBr8GRdsk3VoTSZXh"
+        }
+      ],
+      "duration_ms": 202226,
+      "name": "Only One You",
+      "url": "https://open.spotify.com/track/36V6Cb9DjnxlVNqqgD5piw"
     },
     {
       "added_at": "2026-02-17 04:46:38",
@@ -2059,22 +2059,6 @@
     {
       "added_at": "2026-02-17 04:46:38",
       "album": {
-        "name": "The Very Best Of Rosanne Cash",
-        "url": "https://open.spotify.com/album/2Wc3y0qSYX4fxYBWeiYnFa"
-      },
-      "artists": [
-        {
-          "name": "Rosanne Cash",
-          "url": "https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE"
-        }
-      ],
-      "duration_ms": 195080,
-      "name": "Tennessee Flat Top Box",
-      "url": "https://open.spotify.com/track/3zyj0RajXg2w2Bnn773mnW"
-    },
-    {
-      "added_at": "2026-02-17 04:46:38",
-      "album": {
         "name": "My Kind Of Country",
         "url": "https://open.spotify.com/album/3jgF141Czb7pAXR5yvzZ9q"
       },
@@ -2087,6 +2071,22 @@
       "duration_ms": 213560,
       "name": "Somebody Should Leave",
       "url": "https://open.spotify.com/track/4m3VFxVwSPk8VGoA9qcLRC"
+    },
+    {
+      "added_at": "2026-02-17 04:46:38",
+      "album": {
+        "name": "The Very Best Of Rosanne Cash",
+        "url": "https://open.spotify.com/album/2Wc3y0qSYX4fxYBWeiYnFa"
+      },
+      "artists": [
+        {
+          "name": "Rosanne Cash",
+          "url": "https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE"
+        }
+      ],
+      "duration_ms": 195080,
+      "name": "Tennessee Flat Top Box",
+      "url": "https://open.spotify.com/track/3zyj0RajXg2w2Bnn773mnW"
     },
     {
       "added_at": "2026-02-17 04:46:38",
@@ -2235,22 +2235,6 @@
     {
       "added_at": "2026-02-17 04:46:38",
       "album": {
-        "name": "The Very Best Of Rosanne Cash",
-        "url": "https://open.spotify.com/album/2Wc3y0qSYX4fxYBWeiYnFa"
-      },
-      "artists": [
-        {
-          "name": "Rosanne Cash",
-          "url": "https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE"
-        }
-      ],
-      "duration_ms": 194853,
-      "name": "Seven Year Ache",
-      "url": "https://open.spotify.com/track/2bYp7DYfjXULM24FUh9Z3Q"
-    },
-    {
-      "added_at": "2026-02-17 04:46:38",
-      "album": {
         "name": "Kentucky Hearts",
         "url": "https://open.spotify.com/album/0lNKmPEUsnsrVc4vLSnd0x"
       },
@@ -2263,6 +2247,22 @@
       "duration_ms": 168666,
       "name": "Give Me One More Chance",
       "url": "https://open.spotify.com/track/3yaillNLF2RYHeHw2bBX96"
+    },
+    {
+      "added_at": "2026-02-17 04:46:38",
+      "album": {
+        "name": "The Very Best Of Rosanne Cash",
+        "url": "https://open.spotify.com/album/2Wc3y0qSYX4fxYBWeiYnFa"
+      },
+      "artists": [
+        {
+          "name": "Rosanne Cash",
+          "url": "https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE"
+        }
+      ],
+      "duration_ms": 194853,
+      "name": "Seven Year Ache",
+      "url": "https://open.spotify.com/track/2bYp7DYfjXULM24FUh9Z3Q"
     },
     {
       "added_at": "2026-02-17 04:46:38",

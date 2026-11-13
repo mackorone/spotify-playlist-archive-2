@@ -3132,7 +3132,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 147428,
       "name": "Sucessagem",
       "url": "https://open.spotify.com/track/41Ju0wSEJXmA8KGYygwifb"
@@ -3326,7 +3326,7 @@
       ],
       "date_added": "2026-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 165000,
       "name": "Tipo de Mulher",
       "url": "https://open.spotify.com/track/6PkgAOe7vrRpklLoi4sMQZ"
@@ -3408,6 +3408,28 @@
       "duration_ms": 171789,
       "name": "Troca",
       "url": "https://open.spotify.com/track/0NSAyv0XiMNyXRbPD9XBFM"
+    },
+    {
+      "album": {
+        "name": "IRREFRE\u00c1VEL (EP\u00cdLOGO)",
+        "url": "https://open.spotify.com/album/5n6TkcQDHprWUoPPiZE5Y0"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Chris Beats Zn",
+          "url": "https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126792,
+      "name": "Twerk",
+      "url": "https://open.spotify.com/track/6eg1dOiLsxnFbvhM9Z6Egg"
     },
     {
       "album": {

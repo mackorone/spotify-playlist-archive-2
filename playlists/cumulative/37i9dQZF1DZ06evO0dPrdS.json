@@ -481,6 +481,28 @@
     },
     {
       "album": {
+        "name": "Headlines (Friendship Never Ends)",
+        "url": "https://open.spotify.com/album/2r1Nrcescxx8g29Zm4I6nQ"
+      },
+      "artists": [
+        {
+          "name": "Spice Girls",
+          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
+        },
+        {
+          "name": "Guy Garrett",
+          "url": "https://open.spotify.com/artist/0C9uLXnKf8cmfIl1shKYWK"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 426400,
+      "name": "Spice Girls Club Megamix",
+      "url": "https://open.spotify.com/track/7r0b11XqTdRaBebhfzHCod"
+    },
+    {
+      "album": {
         "name": "The Singles Collection",
         "url": "https://open.spotify.com/album/48Uhx4uht0zbMzLAV4PYif"
       },

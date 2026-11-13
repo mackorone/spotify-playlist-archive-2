@@ -140,7 +140,7 @@
       ],
       "date_added": "2025-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 168004,
       "name": "Aba Made",
       "url": "https://open.spotify.com/track/6P2SlidiPfuPRfakuDmLpv"
@@ -260,7 +260,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 206315,
       "name": "Adonai",
       "url": "https://open.spotify.com/track/5q4o2JtCVOwoNAxpSkbfIn"
@@ -2166,7 +2166,7 @@
       ],
       "date_added": "2026-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 180000,
       "name": "Breakthrough",
       "url": "https://open.spotify.com/track/2IKGA1CxxaDvYkdowBCvbN"
@@ -2334,7 +2334,7 @@
       ],
       "date_added": "2026-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 171891,
       "name": "CALLING",
       "url": "https://open.spotify.com/track/4w7GlkfODsBKwSiaqdQIso"
@@ -2666,6 +2666,24 @@
       "duration_ms": 117955,
       "name": "CLOSER",
       "url": "https://open.spotify.com/track/66yWX0RNpotmPhTSCSblHA"
+    },
+    {
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/6dVonnnokSCaHQ3DyVsclT"
+      },
+      "artists": [
+        {
+          "name": "The membrane",
+          "url": "https://open.spotify.com/artist/0XaFHkogeaW0EN4jeO0qI5"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150330,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/4Hok7MEtFhetV6SKDtxGSv"
     },
     {
       "album": {
@@ -3120,7 +3138,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 188367,
       "name": "Cover me",
       "url": "https://open.spotify.com/track/2XeZVmhkVS03hMrRgLr1tA"
@@ -4487,6 +4505,28 @@
     },
     {
       "album": {
+        "name": "Father's House",
+        "url": "https://open.spotify.com/album/2l1rSx4woYjrFmXFNTP5Hc"
+      },
+      "artists": [
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "LE:GEND",
+          "url": "https://open.spotify.com/artist/1i0EEVYkm3H4GF8LccSAB2"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161946,
+      "name": "Father's House",
+      "url": "https://open.spotify.com/track/46bcoIj9BhA7395s5tlZMN"
+    },
+    {
+      "album": {
         "name": "Favor",
         "url": "https://open.spotify.com/album/6X2gMqX3ExUhv24Z9v8X7D"
       },
@@ -5100,6 +5140,24 @@
       "duration_ms": 124489,
       "name": "FOUNTAIN",
       "url": "https://open.spotify.com/track/02h7yGsIosbSIvcAlwf0oZ"
+    },
+    {
+      "album": {
+        "name": "FREEDOM",
+        "url": "https://open.spotify.com/album/324NqJ7OSzDJ9JIV3lTYI3"
+      },
+      "artists": [
+        {
+          "name": "Anendlessocean",
+          "url": "https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191581,
+      "name": "FREEDOM",
+      "url": "https://open.spotify.com/track/0eZSUz1xFLKJ0lzru0bkpB"
     },
     {
       "album": {
@@ -5876,7 +5934,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 159272,
       "name": "GOODNESS",
       "url": "https://open.spotify.com/track/21nmScXFwsbQg6f8OzkEIl"
@@ -6434,7 +6492,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 162058,
       "name": "HIGH",
       "url": "https://open.spotify.com/track/5GhAOp2A9gtQ2wkezEVE5n"
@@ -7024,6 +7082,28 @@
       "duration_ms": 159220,
       "name": "Holy Spirit",
       "url": "https://open.spotify.com/track/6qMEFM7wncWmD6LvxXdZnQ"
+    },
+    {
+      "album": {
+        "name": "I Am What I Am",
+        "url": "https://open.spotify.com/album/1x31MHy6JN73zg7jmtOjdc"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207400,
+      "name": "Hope In You (with Davido)",
+      "url": "https://open.spotify.com/track/1jVbr4dzmLdS5jWzxz0BqL"
     },
     {
       "album": {
@@ -7884,7 +7964,7 @@
       ],
       "date_added": "2026-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 151856,
       "name": "JEHOVAH HAS FILLED ME",
       "url": "https://open.spotify.com/track/6YmodOGjTtmd9PeTqPUnmq"
@@ -8451,6 +8531,28 @@
     },
     {
       "album": {
+        "name": "KOLEBAJE",
+        "url": "https://open.spotify.com/album/2qCyc5Wb4WtXVwdtdA0rIi"
+      },
+      "artists": [
+        {
+          "name": "Oba Reengy",
+          "url": "https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC"
+        },
+        {
+          "name": "Oludemi",
+          "url": "https://open.spotify.com/artist/25ZyjnErx4Eb84RLxQg7WS"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179183,
+      "name": "KOLEBAJE",
+      "url": "https://open.spotify.com/track/33A0BDZtzIvmjQcOWKjqRg"
+    },
+    {
+      "album": {
         "name": "Kulosa Gospel Cover (Remix)",
         "url": "https://open.spotify.com/album/28A4C03hGLqeNH23gCCIdO"
       },
@@ -8734,6 +8836,28 @@
       "duration_ms": 165762,
       "name": "Location",
       "url": "https://open.spotify.com/track/7emIC5BmmI5JSlMD9Kes6n"
+    },
+    {
+      "album": {
+        "name": "Come Home: The Prelude",
+        "url": "https://open.spotify.com/album/5dBNxuGf9m5P63bfIAvgbc"
+      },
+      "artists": [
+        {
+          "name": "Aklesso",
+          "url": "https://open.spotify.com/artist/7r3HxO330lmabOprT2MMFK"
+        },
+        {
+          "name": "WHATUPRG",
+          "url": "https://open.spotify.com/artist/6YgYm3f9ifsz4OwQt8jql7"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175080,
+      "name": "Lord and Savior",
+      "url": "https://open.spotify.com/track/5iORG0BZj9xO5na4IIczh4"
     },
     {
       "album": {
@@ -9274,7 +9398,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 195398,
       "name": "MIGHTY",
       "url": "https://open.spotify.com/track/3xNjE6DkeGcbY609vKInbD"
@@ -11251,6 +11375,28 @@
     },
     {
       "album": {
+        "name": "JEHOVAH HAS FILLED ME",
+        "url": "https://open.spotify.com/album/3VcZdimF4LbOmh5Euwd1Nw"
+      },
+      "artists": [
+        {
+          "name": "Kofi Dartey",
+          "url": "https://open.spotify.com/artist/2VgS8SW9VgfDQCkYqiasPr"
+        },
+        {
+          "name": "Reggie Dartey",
+          "url": "https://open.spotify.com/artist/2hDO9Hvuh8vrSCYm3yRBui"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164031,
+      "name": "OPEN THE DOOR",
+      "url": "https://open.spotify.com/track/1AiCilworgb4fxWVsYrJb3"
+    },
+    {
+      "album": {
         "name": "OPEN THE DOOR",
         "url": "https://open.spotify.com/album/7Jw7gltFv9TArklWwPfocz"
       },
@@ -11516,6 +11662,28 @@
       "duration_ms": 180687,
       "name": "Oyel",
       "url": "https://open.spotify.com/track/4b9vFe5adHevEnOUo0F91O"
+    },
+    {
+      "album": {
+        "name": "CALLED OUT: The Showing Forth",
+        "url": "https://open.spotify.com/album/0te5Opk3g9TtlrjsDQiiQa"
+      },
+      "artists": [
+        {
+          "name": "Gerald Bishung",
+          "url": "https://open.spotify.com/artist/7yAihRRmPVVKmZ6xvFCV7I"
+        },
+        {
+          "name": "Masterkraft",
+          "url": "https://open.spotify.com/artist/0lEUtJddtvvDlxtEmF9j0m"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155789,
+      "name": "O\u2019ZA",
+      "url": "https://open.spotify.com/track/1FBMdIausLGvaXp5munFks"
     },
     {
       "album": {
@@ -12122,7 +12290,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 219132,
       "name": "PROMISES",
       "url": "https://open.spotify.com/track/13mFJm1Dy7MWus3CbJwd3T"
@@ -12846,7 +13014,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 172631,
       "name": "Self",
       "url": "https://open.spotify.com/track/4eqDfX5jMdki9ZHWK1GiVk"
@@ -13397,6 +13565,28 @@
     },
     {
       "album": {
+        "name": "Steps",
+        "url": "https://open.spotify.com/album/13SWcyFtYqRDuOgOvC2i6t"
+      },
+      "artists": [
+        {
+          "name": "Miracle Paul",
+          "url": "https://open.spotify.com/artist/6ZvSmcIH1micTn33U67yU0"
+        },
+        {
+          "name": "Festizie",
+          "url": "https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183925,
+      "name": "Steps",
+      "url": "https://open.spotify.com/track/6Y38oLBkVNVhKxZyi8A6Dv"
+    },
+    {
+      "album": {
         "name": "Still Blessed",
         "url": "https://open.spotify.com/album/61qxBk4OxpnuR2o5WnK4Qt"
       },
@@ -13570,6 +13760,28 @@
       "duration_ms": 121600,
       "name": "Supa II",
       "url": "https://open.spotify.com/track/1uZo8bWMrVGFxk0N09512a"
+    },
+    {
+      "album": {
+        "name": "Super Power",
+        "url": "https://open.spotify.com/album/6UHntVvDLLfbBcDDPT87qU"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        },
+        {
+          "name": "Banky W.",
+          "url": "https://open.spotify.com/artist/1c61yiH4iYE7cHtjAYSUu3"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167045,
+      "name": "Super Power",
+      "url": "https://open.spotify.com/track/1qiAIdLOqqKQ6INFbJnNim"
     },
     {
       "album": {
@@ -14045,6 +14257,46 @@
     },
     {
       "album": {
+        "name": "AFFIRMED",
+        "url": "https://open.spotify.com/album/2ymLCxSwoP4uZof0gH7LTD"
+      },
+      "artists": [
+        {
+          "name": "No\u00ebl Mio",
+          "url": "https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155089,
+      "name": "THE DAY",
+      "url": "https://open.spotify.com/track/6rx68bkerYYaQJB76gVWxB"
+    },
+    {
+      "album": {
+        "name": "The God I Serve",
+        "url": "https://open.spotify.com/album/6lYK1Usmuz5UduUmEeAAT0"
+      },
+      "artists": [
+        {
+          "name": "Anderson Qozan",
+          "url": "https://open.spotify.com/artist/4msmthFt2XFTVxINZhiaxN"
+        },
+        {
+          "name": "Prinx Emmanuel",
+          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219565,
+      "name": "The God I Serve",
+      "url": "https://open.spotify.com/track/2l5XjV9XFznKawVv6a85RD"
+    },
+    {
+      "album": {
         "name": "The Journey",
         "url": "https://open.spotify.com/album/6rlWTLxhAEjkWyF3LACWRL"
       },
@@ -14358,7 +14610,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 165738,
       "name": "This Kind Love",
       "url": "https://open.spotify.com/track/6UapcI8lcu4dINFvlhjzEq"
@@ -14516,7 +14768,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 199023,
       "name": "Titilailai II",
       "url": "https://open.spotify.com/track/1rg8E4pDltX9oZXAC2mR0r"
@@ -15180,7 +15432,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 174545,
       "name": "Water",
       "url": "https://open.spotify.com/track/7rg62pkS9UmBoBEHdlzd0n"
@@ -16037,6 +16289,28 @@
     },
     {
       "album": {
+        "name": "Still",
+        "url": "https://open.spotify.com/album/4b3zDcT5IgrA6MTPRo4qvy"
+      },
+      "artists": [
+        {
+          "name": "Jvson",
+          "url": "https://open.spotify.com/artist/0CbUlmC1cMua8bl6aQvP6F"
+        },
+        {
+          "name": "LAMB CULTURE.",
+          "url": "https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "You are the reason",
+      "url": "https://open.spotify.com/track/4oRAFhEZxc9j3uXjTxkgJC"
+    },
+    {
+      "album": {
         "name": "You Know",
         "url": "https://open.spotify.com/album/3O1maNVb2DhRZLDjsQpEQp"
       },
@@ -16428,6 +16702,28 @@
       "duration_ms": 179000,
       "name": "yours",
       "url": "https://open.spotify.com/track/2CUI95ndyv0TiCLieMVLYk"
+    },
+    {
+      "album": {
+        "name": "Locked In",
+        "url": "https://open.spotify.com/album/48nM78Gx7RxQHOPx0prot4"
+      },
+      "artists": [
+        {
+          "name": "Saelem",
+          "url": "https://open.spotify.com/artist/78bIYHmB39w825leFgF6Wb"
+        },
+        {
+          "name": "Ugoaelo",
+          "url": "https://open.spotify.com/artist/4q4QPKG2CblSLln7Eb3XKT"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173153,
+      "name": "Yours Truly",
+      "url": "https://open.spotify.com/track/0tjh9ZQtmADkkroAJT46zi"
     },
     {
       "album": {

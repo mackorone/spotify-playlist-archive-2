@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avENAAAAAACJEZnz366bF2lGwVHSbbkL",
+  "snapshot_id": "avOwAAAAAAAAU8m6YqEslH3C/gyQFJMB",
   "tracks": [
     {
       "added_at": null,
@@ -827,22 +827,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fell In Love (2016)",
-        "url": "https://open.spotify.com/album/0qNXBllDOLbmINeIE7qwNZ"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        }
-      ],
-      "duration_ms": 177413,
-      "name": "Fell In Love (2016)",
-      "url": "https://open.spotify.com/track/0Tj8jGisjOjBE74rJUlcah"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "OMW2 REXDALE",
         "url": "https://open.spotify.com/album/1hDf16zDN5SjIoMuy6fzB8"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 114560,
       "name": "BURBS",
       "url": "https://open.spotify.com/track/3id4YOaR7JBKJUPOE9VgaE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fell In Love (2016)",
+        "url": "https://open.spotify.com/album/0qNXBllDOLbmINeIE7qwNZ"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "duration_ms": 177413,
+      "name": "Fell In Love (2016)",
+      "url": "https://open.spotify.com/track/0Tj8jGisjOjBE74rJUlcah"
     },
     {
       "added_at": null,
@@ -899,6 +899,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Man (2015)",
+        "url": "https://open.spotify.com/album/5mjgHjGJu6oAaDZ9LaPF6n"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "duration_ms": 259472,
+      "name": "The Man (2015)",
+      "url": "https://open.spotify.com/track/2TWUcyxR1DmdZBbpgIKW9T"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "POP MY SHIT",
         "url": "https://open.spotify.com/album/0NwoimNvEBNqeCaBOlCyGJ"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 113333,
       "name": "POP MY SHIT",
       "url": "https://open.spotify.com/track/5QLDWLnjXSuolYK8NC72Fx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Man (2015)",
-        "url": "https://open.spotify.com/album/5mjgHjGJu6oAaDZ9LaPF6n"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        }
-      ],
-      "duration_ms": 259472,
-      "name": "The Man (2015)",
-      "url": "https://open.spotify.com/track/2TWUcyxR1DmdZBbpgIKW9T"
     },
     {
       "added_at": null,
@@ -959,6 +959,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Emergency Tsunami",
+        "url": "https://open.spotify.com/album/1tihFpzHHM9mDSoFbhMoZL"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "duration_ms": 156518,
+      "name": "Make It Right Back",
+      "url": "https://open.spotify.com/track/6AyXdUH0gnVrJFQb7L7rkI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SAME DIFFERENCE",
         "url": "https://open.spotify.com/album/3EUDvHdTIYlB3Hl1WFOIrS"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 316097,
       "name": "NO CALL NO SHOW (feat. NAV)",
       "url": "https://open.spotify.com/track/48AgSXjkND0Ufv0sOCAhPi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Emergency Tsunami",
-        "url": "https://open.spotify.com/album/1tihFpzHHM9mDSoFbhMoZL"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        }
-      ],
-      "duration_ms": 156518,
-      "name": "Make It Right Back",
-      "url": "https://open.spotify.com/track/6AyXdUH0gnVrJFQb7L7rkI"
     },
     {
       "added_at": null,

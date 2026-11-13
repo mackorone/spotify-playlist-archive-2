@@ -1,12 +1,12 @@
 {
   "description": "Tune into the finest of Tamil Indie music!\nCover : Saurav Srisan & Tanisha Gnanavel",
-  "num_followers": 86526,
+  "num_followers": 86572,
   "original_name": "Tamil Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAD5ShVWrZuCUe3lDPhAHE+LHjIEx",
+  "snapshot_id": "AAAAAMCIbDORnwc6V1WciUP/lXElvMjp",
   "tracks": [
     {
       "added_at": "2026-09-24 14:35:09",
@@ -105,6 +105,34 @@
       "url": "https://open.spotify.com/track/0S3d0It6FKSAVfRSjjveP2"
     },
     {
+      "added_at": "2026-11-13 00:30:20",
+      "album": {
+        "name": "Ovvoru Naalum",
+        "url": "https://open.spotify.com/album/33qQeBLIaFTEmChYZv2lcq"
+      },
+      "artists": [
+        {
+          "name": "Shravan Sridhar",
+          "url": "https://open.spotify.com/artist/0TMLPi3f3qrkHV8y7Ccvec"
+        },
+        {
+          "name": "Pa Hariharan",
+          "url": "https://open.spotify.com/artist/55htwdAycmF3V2bHfmzTXI"
+        },
+        {
+          "name": "STEVIE",
+          "url": "https://open.spotify.com/artist/6GHxnMgyleS4PM4YpVZkTa"
+        },
+        {
+          "name": "Ramya RamC",
+          "url": "https://open.spotify.com/artist/5eB3DzLMr1y7Hh05jd7buD"
+        }
+      ],
+      "duration_ms": 206141,
+      "name": "Ovvoru Naalum",
+      "url": "https://open.spotify.com/track/5DYK6maqD1Gi91y2icQf7g"
+    },
+    {
       "added_at": "2026-05-06 10:50:13",
       "album": {
         "name": "IMAYE",
@@ -127,6 +155,22 @@
       "duration_ms": 202000,
       "name": "IMAYE",
       "url": "https://open.spotify.com/track/5PL0PtPlaSjH6eQdA9WfFS"
+    },
+    {
+      "added_at": "2026-11-13 00:30:20",
+      "album": {
+        "name": "Maranthathey (From \"Nejama?\")",
+        "url": "https://open.spotify.com/album/4ycNFhx4kl67KAGLNnvr37"
+      },
+      "artists": [
+        {
+          "name": "M.S Krsna",
+          "url": "https://open.spotify.com/artist/4qVLx0XPsO5EInvKYH6Pxx"
+        }
+      ],
+      "duration_ms": 236254,
+      "name": "Maranthathey - From \"Nejama?\"",
+      "url": "https://open.spotify.com/track/6dtNPmWMwWMKxQWtWE4QEx"
     },
     {
       "added_at": "2026-03-25 09:30:08",
@@ -243,6 +287,34 @@
       "duration_ms": 190105,
       "name": "Kaadhal Yaathiriye - From \"Think Indie\"",
       "url": "https://open.spotify.com/track/1GTWzhdIIIugDh4AClJ2ZF"
+    },
+    {
+      "added_at": "2026-11-13 00:30:20",
+      "album": {
+        "name": "Kadhal (Like That)",
+        "url": "https://open.spotify.com/album/6gnK1UN7PaE6Zb6SXQ4Ffp"
+      },
+      "artists": [
+        {
+          "name": "Kharesma Ravichandran",
+          "url": "https://open.spotify.com/artist/6XaNXEfQxuGqvzcHEwX6Qw"
+        },
+        {
+          "name": "Jaru Muralee",
+          "url": "https://open.spotify.com/artist/1D5mrr8ya6GM0yQPOgrPqH"
+        },
+        {
+          "name": "Rayan Telleria",
+          "url": "https://open.spotify.com/artist/490VuTQXyo00oHnistIOPw"
+        },
+        {
+          "name": "Swetha Prabakaran",
+          "url": "https://open.spotify.com/artist/5PETiSfBpzFxjaBPfTfJo2"
+        }
+      ],
+      "duration_ms": 200996,
+      "name": "Kadhal (Like That)",
+      "url": "https://open.spotify.com/track/70VStRuTfPm7WmtbunSj2L"
     },
     {
       "added_at": "2026-06-14 06:04:55",

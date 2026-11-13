@@ -13341,6 +13341,24 @@
     },
     {
       "album": {
+        "name": "Off We Go",
+        "url": "https://open.spotify.com/album/4XJnTF0DlozKpzDsn5NMag"
+      },
+      "artists": [
+        {
+          "name": "Muroki",
+          "url": "https://open.spotify.com/artist/1AeSPGqAkY1Me6ed49vb0n"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133170,
+      "name": "Off We Go",
+      "url": "https://open.spotify.com/track/7eQLmNuILoeE8i9IOh75F6"
+    },
+    {
+      "album": {
         "name": "Offline Together",
         "url": "https://open.spotify.com/album/23oec75AYHRLxv6f4ITm6L"
       },
@@ -20475,6 +20493,24 @@
     },
     {
       "album": {
+        "name": "The Other Trail",
+        "url": "https://open.spotify.com/album/2Qj8lFr2VDhXMXsbcaPfnP"
+      },
+      "artists": [
+        {
+          "name": "Mareel",
+          "url": "https://open.spotify.com/artist/7nI22V07BuRLz4BKbXtE5z"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133378,
+      "name": "The Other Trail",
+      "url": "https://open.spotify.com/track/1x5olsNXOr8oPYjUJXZToz"
+    },
+    {
+      "album": {
         "name": "train legs",
         "url": "https://open.spotify.com/album/2IRJlhzadkFBiNBWE8bt6x"
       },
@@ -22506,7 +22542,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 140571,
       "name": "Where the Stones Breathe",
       "url": "https://open.spotify.com/track/3bQmC50CJvtOC52tGgCHXA"

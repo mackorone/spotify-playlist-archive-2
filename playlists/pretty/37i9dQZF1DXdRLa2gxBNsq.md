@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 
 > No, el punk español NO ESTÁ MUERTO\. Foto: Non Servium con Soziedad Alkoholika.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,749 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,762 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,9 +56,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 | 46 | [Los Chicos No Están Bien](https://open.spotify.com/track/5zjQ7F3ctn5m1qOvcfroZx) | [RADIOCRIMEN](https://open.spotify.com/artist/6mA005uHpxR9wUsPYb79dK) | [Los Chicos No Están Bien](https://open.spotify.com/album/2f6MF0iDAqfkaEItHBubC8) | 3:22 |
 | 47 | [No Olvidamos, 3 de Marzo](https://open.spotify.com/track/4l7gui5pGuOs7sHLkGqeCX) | [Soziedad Alkoholika](https://open.spotify.com/artist/2S5OOMthdyp3Qu4IbTGAQ3) | [No Olvidamos, 3 de Marzo \- Single](https://open.spotify.com/album/0p3A6vidvVSIaA8lXxATVE) | 3:51 |
 | 48 | [Ellos Dicen Mierda \(Live\)](https://open.spotify.com/track/4ZhVqaagIdAhVswRMxkUTl) | [La Polla](https://open.spotify.com/artist/1hUMfVjUdE0cymGOv2J70J) | [Punk Latino Vol\. 1](https://open.spotify.com/album/1FOLdlGQrTwxpA7nhGd4zN) | 4:26 |
-| 49 | [Generación Rendida \- Directo Kafe Antzokia](https://open.spotify.com/track/0kYIR3bCHueMx2MUG3iF15) | [Manifa](https://open.spotify.com/artist/7ynFnXnaMHYbTeT4JQ97tc) | [Generación Rendida \(Directo Kafe Antzokia\)](https://open.spotify.com/album/7ASnGjTwBRAUWB9smeGx09) | 2:39 |
+| 49 | [Rico deprimido \- XX5](https://open.spotify.com/track/5x7dsu12skCbNd5HR05ZcB) | [Kaotiko](https://open.spotify.com/artist/1XwQSgy1ZYGHw8ZryGbT2S) | [Rico deprimido \(XX5\)](https://open.spotify.com/album/5beaDQvsYwZFJWBYvuy50z) | 3:25 |
 | 50 | [Antifascismo](https://open.spotify.com/track/0V945W0o8KQijRUY98x59d) | [Kaos Urbano](https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4) | [Antifascismo](https://open.spotify.com/album/1NB2KlLDkVFJLJPlMg7zXU) | 4:20 |
-| 51 | [Rico deprimido \- XX5](https://open.spotify.com/track/5x7dsu12skCbNd5HR05ZcB) | [Kaotiko](https://open.spotify.com/artist/1XwQSgy1ZYGHw8ZryGbT2S) | [Rico deprimido \(XX5\)](https://open.spotify.com/album/5beaDQvsYwZFJWBYvuy50z) | 3:25 |
+| 51 | [Generación Rendida \- Directo Kafe Antzokia](https://open.spotify.com/track/0kYIR3bCHueMx2MUG3iF15) | [Manifa](https://open.spotify.com/artist/7ynFnXnaMHYbTeT4JQ97tc) | [Generación Rendida \(Directo Kafe Antzokia\)](https://open.spotify.com/album/7ASnGjTwBRAUWB9smeGx09) | 2:39 |
 | 52 | [Piedra Contra Tijera](https://open.spotify.com/track/05ZxYc1glaSTsNVbjBO9Ty) | [Soziedad Alkoholika](https://open.spotify.com/artist/2S5OOMthdyp3Qu4IbTGAQ3) | [Tiempos Oscuros](https://open.spotify.com/album/7aQjiTfTyA9eMNkuMc09k9) | 3:15 |
 | 53 | [Molestar](https://open.spotify.com/track/5YH279sUHUCdS8puzhq7ag) | [Segismundo Toxicómano](https://open.spotify.com/artist/0sKBEhvr6hz7Wpptw0fY8U) | [Molestar](https://open.spotify.com/album/1WNGYIGYF0NdeFAZBIAoa8) | 2:38 |
 | 54 | [ANTIFASCISTA](https://open.spotify.com/track/0yIxWJRf96RJds9DQ3tLG3) | [Demenzia Sozial](https://open.spotify.com/artist/7HRSS0s7sgWTvK4q7MDy2O) | [ANTIFASCISTA](https://open.spotify.com/album/7FxgIAAIqupAq0Nslf1VCv) | 4:33 |

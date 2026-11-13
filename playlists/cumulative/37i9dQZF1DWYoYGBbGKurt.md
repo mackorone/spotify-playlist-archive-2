@@ -4,7 +4,7 @@
 
 > Lazy slow lofi beats for laid\-back moments.
 
-2,200 songs - 3 day 13 hr 1 min
+2,205 songs - 3 day 13 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [Aperol](https://open.spotify.com/track/3nT71GkftYk8U1M3rKYDSg) | [Blue Bag](https://open.spotify.com/artist/4rtwUGOQwVUZGAlQYh02ar) | [Aperol](https://open.spotify.com/album/7dVnhhUo1Shgm4lMTqZKx8) | 2:05 | 2024-09-27 | 2024-12-21 |
 | [apollo](https://open.spotify.com/track/0uy2NMV7ALGlp1vAh2PRAj) | [Jarhed](https://open.spotify.com/artist/3gSbOuZWElvuwEPZP18TCF) | [apollo](https://open.spotify.com/album/77iZVGlibX0x7e6VH7wJCJ) | 2:00 | 2022-05-20 | 2024-04-13 |
 | [apple blossom](https://open.spotify.com/track/6oUJvflFeizJe858caTnn0) | [Soft Illy](https://open.spotify.com/artist/2uNhXN2lFd8cDOAAEvjAhV) | [apple blossom](https://open.spotify.com/album/5sUkzZ8F0u6IUx49gUFzdG) | 2:37 | 2026-09-04 |  |
+| [Apricot Hill](https://open.spotify.com/track/4zJhHR4hXtPqVPdMKaWxB2) | [EmptyAtomic](https://open.spotify.com/artist/4rRzjnxPTlenw1v7kOGRC2) | [Apricot Hill](https://open.spotify.com/album/6Y8FBrBXR8EJBL7MQyhT9f) | 2:22 | 2026-11-13 |  |
 | [April Snow](https://open.spotify.com/track/7aAeKms8QSD0VwsHJbhyOX) | [Pixie Dust](https://open.spotify.com/artist/0kSqe2dBbt8rg07yfEBnjR) | [April Snow](https://open.spotify.com/album/1PhgAx4wCZ9Nx9bpd8bDdA) | 2:20 | 2022-04-15 | 2022-11-12 |
 | [Aqua](https://open.spotify.com/track/7ArMWsBYI59MmStLmWAYHj) | [Hevi](https://open.spotify.com/artist/4vv1FFVqxnHyQFLmWxjizb) | [Aqua](https://open.spotify.com/album/5prd1riQ0u3Cv0qjBLpbuu) | 1:41 | 2025-03-28 | 2026-02-14 |
 | [Aquarius](https://open.spotify.com/track/0s5dpPXE8slpfRHg1Hsyxf) | [OnurOHA](https://open.spotify.com/artist/59GI9tAkVAL2QjhOBRLPVZ) | [Aquarius](https://open.spotify.com/album/07HkwGY6fscrm88zYDUcIw) | 2:10 | 2021-12-07 | 2022-07-01 |
@@ -998,6 +999,7 @@
 | [Junto](https://open.spotify.com/track/26j83bPM233r15vxSm3Rxv) | [twuan](https://open.spotify.com/artist/5T0wPeBVC0F7uEbIr8JKE5) | [Junto](https://open.spotify.com/album/1JcZNbOyCje6Vt3z7NhBdp) | 2:17 | 2022-10-07 | 2022-11-24 |
 | [Just a Dream](https://open.spotify.com/track/4q7fXYrlgZ3wIX3dTiunRH) | [Bill Snoozer](https://open.spotify.com/artist/20z7TXde6nPUsv561EMQZo) | [Just a Dream](https://open.spotify.com/album/48xrM4MdUHb4OpZ0GOF1OM) | 1:50 | 2022-01-26 | 2024-05-14 |
 | [Just a Dream](https://open.spotify.com/track/5LQxLCvwc7rT2sz8TYw1s3) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS), [Sweet Medicine](https://open.spotify.com/artist/0CF9CnQbK6uS8u78KVnIPv), [G Mills](https://open.spotify.com/artist/0djvqMepj2XkHfvWTqkH1N) | [Just a Dream](https://open.spotify.com/album/5Bfa60MiEj25eRNYYBlExH) | 2:02 | 2022-04-08 | 2022-10-14 |
+| [Just Passing](https://open.spotify.com/track/38tzxPH3YudrTIwGYXgFt9) | [Flowstate](https://open.spotify.com/artist/7rkICIud7Pb3sWjyZqmimb) | [Just Passing](https://open.spotify.com/album/0zoPzr7gBDYCcnfYHn5KfT) | 2:22 | 2026-11-13 |  |
 | [just relax](https://open.spotify.com/track/0POolioSzFOWb0n0it50Lz) | [stilistics](https://open.spotify.com/artist/4UexprKNraCvro4K4XYzut) | [ready set go](https://open.spotify.com/album/7L4A0d2BV3EE2YL95AiDze) | 1:36 | 2021-12-07 | 2022-07-01 |
 | [Just to be Around You](https://open.spotify.com/track/2MvUVGx50wONz9Oe0f1xZm) | [Sihu](https://open.spotify.com/artist/0IDfPC86tctwQaHkc9tVfX) | [Just to be Around You](https://open.spotify.com/album/3dJmq3PvUHj26LNAtRh06p) | 2:12 | 2023-03-16 | 2023-09-22 |
 | [just us](https://open.spotify.com/track/11ty0SqMqKLesmdGOnfek2) | [giannis wang](https://open.spotify.com/artist/7gCQx2yCLDrGPTMa7fAY8y) | [just us](https://open.spotify.com/album/2FGwQEw7K1qHT3bFX3su6V) | 2:27 | 2025-05-23 | 2026-02-28 |
@@ -1205,6 +1207,7 @@
 | [Manzano](https://open.spotify.com/track/2Kyf4nhYNIlEvZLy36XHOe) | [LBL](https://open.spotify.com/artist/0j0BXMwyoY9NJTbcviFEOp), [Johannes Onetake](https://open.spotify.com/artist/0VVyuGRHXy7PM7JELDbtbD) | [Manzano](https://open.spotify.com/album/5wjvIrHjVCnzqNEFJSab9J) | 2:23 | 2023-09-01 | 2023-09-22 |
 | [Maple](https://open.spotify.com/track/4dRBkGmqjPsMVivOZRjuGL) | [Deauxnuts](https://open.spotify.com/artist/4FCrhj46HBtMVt61k35zMB), [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN) | [Maple](https://open.spotify.com/album/40woW26uPKn30P7NDvg5vk) | 2:11 | 2024-06-21 | 2025-06-07 |
 | [Marbles](https://open.spotify.com/track/4JwQjAOrGDCQEpySgCAEtl) | [Maggotts&Becketts](https://open.spotify.com/artist/5KcHdaJD7z9518eYGaAh07), [chill.farm](https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF) | [Marbles](https://open.spotify.com/album/54iZQMfNa484KcQjlkM9yF) | 2:11 | 2023-11-17 | 2025-03-01 |
+| [Marigold](https://open.spotify.com/track/3DroECJL6iVnxFvmZU1hMA) | [CradleBloom](https://open.spotify.com/artist/4LTEiw8OZvL8RBNghiBC7T) | [Marigold](https://open.spotify.com/album/0Ecwh7VA7A5MkqY8lt0QuZ) | 2:54 | 2026-11-13 |  |
 | [Marina](https://open.spotify.com/track/5u6wwqDd7y1O32Rrm8Fwei) | [TonybtM](https://open.spotify.com/artist/5cNLJmvc3RZVNzgEoqxV38), [Kaspa.](https://open.spotify.com/artist/06O3Epykgsr2PuMgTwZCWF) | [Marina](https://open.spotify.com/album/1KiNooBl2gejte6EuLFtpj) | 2:48 | 2023-08-21 | 2024-10-05 |
 | [Mark free & I](https://open.spotify.com/track/2zAu8dAb8sR86NQTZ9D39A) | [Mervion](https://open.spotify.com/artist/2bVjMeUXBabXj0PdrAaVdu) | [Mark free & I](https://open.spotify.com/album/4r0T4lq4beBVtTQfHtGZmg) | 3:30 | 2022-12-23 | 2023-09-02 |
 | [Marmalade](https://open.spotify.com/track/2Uw8XKHWoZ2dlW9aW4vZFN) | [Bowfi Leets](https://open.spotify.com/artist/2NYkpEq1d5dv0GJvIa0yC7) | [Marmalade](https://open.spotify.com/album/07ubiEsDJaG3172OxCdgYb) | 2:10 | 2021-12-07 | 2022-06-10 |
@@ -1394,6 +1397,7 @@
 | [not noise](https://open.spotify.com/track/1gT5Xf60TPfCwxMhTdqrfe) | [London Lighthouse](https://open.spotify.com/artist/7lwpTjhIayZY8VCuUJHZKt) | [not noise](https://open.spotify.com/album/0YKQ9sSjkyHFGgr8Pp1SDt) | 2:28 | 2024-08-09 | 2025-11-22 |
 | [not okay](https://open.spotify.com/track/2B2F8NHqKwCeJIv7oVrm22) | [Aftermix](https://open.spotify.com/artist/1goPpxuXjwZK1g63yS0VvG) | [not okay](https://open.spotify.com/album/3V2yj5W2fYsV9sSSxUEqhe) | 2:19 | 2021-12-07 | 2022-11-12 |
 | [Not Yet](https://open.spotify.com/track/4m1NVJidXSrWzHlmU2jZ3q) | [Aphrow](https://open.spotify.com/artist/5r6e4n1Ux36kMlRJSqeMPr), [Lonesome Flatpicker](https://open.spotify.com/artist/3BNqADxDEtOTBx2lXCkBau) | [Not Yet](https://open.spotify.com/album/5C45OcqrVqsVky9hPovdff) | 3:00 | 2022-09-30 | 2022-12-17 |
+| [nothing asked](https://open.spotify.com/track/3BfCs2pCmGHtlsNyNLGP7t) | [fourth cloud](https://open.spotify.com/artist/06b1HoxjfHzwgkn9tiYpjy) | [nothing asked](https://open.spotify.com/album/0JNrENhQbvuz9QoqwzY1Mq) | 2:41 | 2026-11-13 |  |
 | [NotThatBad](https://open.spotify.com/track/6lqnK8lLs27uXoXHbSSLvg) | [knight knight](https://open.spotify.com/artist/7ykZNsdah5u9qzEJ6cvrgg) | [NotThatBad](https://open.spotify.com/album/2Q5byoAREuhxwwLm5qSia8) | 2:26 | 2024-05-29 | 2025-08-21 |
 | [November Moon](https://open.spotify.com/track/0uHyGjgAYXgJ20JRf4XWv8) | [Oslo](https://open.spotify.com/artist/7ifB9W0rZFGLiYcisBM9fC) | [November Moon](https://open.spotify.com/album/15KPuUA4hdzpfckOaOWdHL) | 1:48 | 2023-03-08 | 2023-09-22 |
 | [Novosibirsk](https://open.spotify.com/track/1AIQMFyYWxP3ZBbepQ6Xsq) | [Dubinskaya](https://open.spotify.com/artist/1E1Q7PgHTDmEWYSmh1FMwB) | [Novosibirsk](https://open.spotify.com/album/6RGq6gy2lG0CgcFUGr2uRu) | 2:41 | 2021-12-07 | 2023-01-20 |
@@ -1716,6 +1720,7 @@
 | [Slumber](https://open.spotify.com/track/5bIDreJBmTh1LIvr7cb60Y) | [Gizmo](https://open.spotify.com/artist/5yGSDOiFgai6RwHW3DAtW0) | [Gizmo Cloud](https://open.spotify.com/album/3gv0r7yjdKYyuCeiDT9AEc) | 2:08 | 2022-12-02 | 2025-06-07 |
 | [Slumber](https://open.spotify.com/track/3NwNlKywouWoyK9gh8RgL5) | [Lawrence Walther](https://open.spotify.com/artist/40GMyQ5sv1bfiui9CrEPME), [Bcalm](https://open.spotify.com/artist/7M4y7qvcYja7RcXNCGrjeP) | [Slumber](https://open.spotify.com/album/50Er6moyiqlUX2aYE2yHwH) | 2:52 | 2022-06-10 | 2022-08-19 |
 | [Slumber](https://open.spotify.com/track/2qlhzE5NwEvD2xK27gTuol) | [lukayo](https://open.spotify.com/artist/3AhFxqxCwraIIUrUiVx4d1), [Sanu](https://open.spotify.com/artist/4a9bZ6Cp8BXlUxJ7YgX1fq), [ØNEMOR3](https://open.spotify.com/artist/75XUnXCiMd1YMHwBvAIfnn) | [Slumber](https://open.spotify.com/album/4U2LSvfWAOEczANoavJxIk) | 1:54 | 2023-09-29 | 2025-08-21 |
+| [Small Planets](https://open.spotify.com/track/275XmW67wk9LEtrBeZs31Q) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS) | [Small Planets](https://open.spotify.com/album/1quf2vEqmExJLSGtCkWsZs) | 2:03 | 2026-11-13 |  |
 | [smiles](https://open.spotify.com/track/7sadiGlN0XbM7D12N3FbPJ) | [Kaptain Kola](https://open.spotify.com/artist/2WVOlt6L2d41Pu8xhEbFgn) | [smiles](https://open.spotify.com/album/2p1X0yb2vrGOPcZJ4qOxDi) | 1:45 | 2025-10-16 |  |
 | [smileyface](https://open.spotify.com/track/6oGk8aYZv1s28KeBrFGQax) | [Ali Kaj](https://open.spotify.com/artist/06VNBq9wJN4eEo6ZRM7HGI) | [smileyface](https://open.spotify.com/album/78DU2xHbAo9sss8dmbstyI) | 2:54 | 2023-11-17 | 2024-09-07 |
 | [Smooth Fields](https://open.spotify.com/track/2MKtFmktpp2kMGKm4oaOcH) | [Harvest Emotions](https://open.spotify.com/artist/53JNLKdwnvLY8F2tA6T22K) | [Smooth Fields](https://open.spotify.com/album/3NzRqlA8AJyFqDQUdcT9ht) | 2:50 | 2024-07-26 | 2025-08-21 |

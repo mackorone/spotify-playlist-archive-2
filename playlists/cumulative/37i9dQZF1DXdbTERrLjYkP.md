@@ -4,7 +4,7 @@
 
 > Discover the next wave of talent writing their own songs\. Cover: Isabel Dumaa
 
-1,181 songs - 2 day 15 hr 50 min
+1,183 songs - 2 day 15 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Amelie](https://open.spotify.com/track/6ILk4BRILPT1sx3cVNH9ib) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance](https://open.spotify.com/album/5ZCIbfKnv3GF5h5h8MiRzQ) | 4:19 | 2023-03-03 | 2023-06-17 |
 | [Amsterdam](https://open.spotify.com/track/3ZG2ofDgouMnIcoPT8xgFz) | [Stevie Bill](https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv) | [Amsterdam](https://open.spotify.com/album/5J8fTRkYJXCNJNxW7sFaOC) | 3:30 | 2023-08-18 | 2023-10-01 |
 | [An American Crime](https://open.spotify.com/track/4CCYyHZgcy5pKAtmCT0Kf2) | [Sabrina Sterling](https://open.spotify.com/artist/2TX3RFFIqwzwDjFMJN4nV9) | [An American Crime](https://open.spotify.com/album/16HNLvxctG9Ql27DLrod2y) | 3:44 | 2025-10-10 | 2025-11-08 |
+| [An End](https://open.spotify.com/track/3uMk3JgF0AslhR0j1N2hOT) | [Devon Gabriella](https://open.spotify.com/artist/1rfIKfqoygAsxTWBdzVO2i) | [All at Once](https://open.spotify.com/album/7t0cN4yvDz9IefUaDBHb3x) | 2:46 | 2026-11-13 |  |
 | [an hour in your mind](https://open.spotify.com/track/1Ukan5nhkQA27cuzMdN8WG) | [Siena](https://open.spotify.com/artist/2YLY2wTMVd6FwFqFLWwP7C) | [an hour in your mind](https://open.spotify.com/album/6So7znoRkUXewTpcEJbFhG) | 3:13 | 2025-04-04 | 2025-07-19 |
 | [And Then Some](https://open.spotify.com/track/6s0gFpKKKxd8EDhTCvEbYf) | [Alex Sampson](https://open.spotify.com/artist/70LuGDrcHRTN0dQJoLN7rf) | [And Then Some](https://open.spotify.com/album/7jMXIbtas48z1ULzXLtFRa) | 3:09 | 2023-02-10 | 2023-08-12 |
 | [animal](https://open.spotify.com/track/4eUvMQ6bLmDoI0ZvVDo6Tj) | [Ben Ellis](https://open.spotify.com/artist/3u0GaOtYxsIbwldWs8dgE8) | [animal](https://open.spotify.com/album/7pzCdqx626x7QP57oCoPGz) | 4:10 | 2026-03-13 | 2026-07-18 |
@@ -356,7 +357,7 @@
 | [Flood](https://open.spotify.com/track/7uHxkxA2hcETeuDp5seg4E) | [sleep.ing](https://open.spotify.com/artist/72qGRng3c6BZNeYJH3C5ct), [Dave Faber](https://open.spotify.com/artist/2eQOHn4qBMuuKTtx7seCz8) | [Flood](https://open.spotify.com/album/3W3WfVjJJiXFZyALqfESLc) | 2:37 | 2022-02-04 | 2022-03-18 |
 | [Flowers](https://open.spotify.com/track/0hrMXI5eGWHCPKLqOetknM) | [Samantha Ebert](https://open.spotify.com/artist/0ETOPq7bpPG7rxYsV0MEzu) | [Flowers](https://open.spotify.com/album/4zewk35WNIuJhQ9aR0MwQw) | 3:44 | 2024-09-20 | 2025-04-12 |
 | [FOMO](https://open.spotify.com/track/0q2GmsoQ9mZf1PkQqnuoEZ) | [PEGGY](https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh) | [FOMO](https://open.spotify.com/album/2v9iswJpEYA2vPdaeLFbb9) | 3:19 | 2024-12-13 | 2025-05-10 |
-| [Fond](https://open.spotify.com/track/1i7a6xZ9NHpb5FSSyCwTDh) | [Baby J](https://open.spotify.com/artist/5UDfhBSz4ocUxrVjiBGFTK) | [You Don't Know My Name](https://open.spotify.com/album/3inlEu7RZ2B4NdAYEqEmwk) | 2:23 | 2026-06-26 |  |
+| [Fond](https://open.spotify.com/track/1i7a6xZ9NHpb5FSSyCwTDh) | [Baby J](https://open.spotify.com/artist/5UDfhBSz4ocUxrVjiBGFTK) | [You Don't Know My Name](https://open.spotify.com/album/3inlEu7RZ2B4NdAYEqEmwk) | 2:23 | 2026-06-26 | 2026-11-13 |
 | [Fool](https://open.spotify.com/track/2YbCm17UJVAahRBYpliQr8) | [Maya Engen](https://open.spotify.com/artist/4ZGDywKJRHj9oiRg5UkhJm) | [Fool](https://open.spotify.com/album/4RLU9EBKgeFBgBEERtnU8x) | 4:00 | 2026-02-27 | 2026-04-25 |
 | [For an Evening](https://open.spotify.com/track/2ry3JuCKfudzLz0TUeQPgp) | [Emily James](https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy) | [For an Evening](https://open.spotify.com/album/0auzW0Fo22oIXe48MAnZsW) | 4:15 | 2022-12-30 | 2023-04-01 |
 | [FRANKENSTEIN](https://open.spotify.com/track/0tFJn4LFkfvJYpMURjn7Tk) | [PEGGY](https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh) | [FRANKENSTEIN](https://open.spotify.com/album/09av6JLmcwy6qkpuBsM6uN) | 3:07 | 2026-06-26 |  |
@@ -608,6 +609,7 @@
 | [Kinda Like The Heartbreak](https://open.spotify.com/track/6GnaYqtSjiwt6tR6T0Uew5) | [Lily Williams](https://open.spotify.com/artist/1f2q4venkA2pATVTmWhS6Z) | [How The Story Ends](https://open.spotify.com/album/2vcYcWEB5lXdzwBPheO000) | 2:49 | 2023-03-10 | 2023-08-19 |
 | [King's Garden](https://open.spotify.com/track/4aUPb0DZj1saaUJFDjoahk) | [Matilda Lyn](https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0) | [King's Garden](https://open.spotify.com/album/6zsXmJ5est3sAXA9cb15xV) | 2:47 | 2024-08-09 | 2024-12-10 |
 | [kissing for practice](https://open.spotify.com/track/6iLJT7os4NoV3GhQdILDpy) | [Sarah Thompson](https://open.spotify.com/artist/7fMszWkv9oChFal6nM505j) | [kissing for practice](https://open.spotify.com/album/4Lky7SHYZjvEEedNZKHZcG) | 3:29 | 2025-04-11 | 2025-07-19 |
+| [Ladybirds](https://open.spotify.com/track/0pL94IbabpLNr3TTrzXKLy) | [Lucy Blue](https://open.spotify.com/artist/2bhd3BPOa3430RfyyB6moo) | [Ladybirds](https://open.spotify.com/album/4by9Uss8JOqlY7D7dcVTGt) | 3:02 | 2026-11-13 |  |
 | [Last Man Standing](https://open.spotify.com/track/2lWdeczQNurRVraTyZFmgp) | [Livingston](https://open.spotify.com/artist/2fPsJqR6zfoHatC1eFr0eQ) | [Last Man Standing](https://open.spotify.com/album/2IdgA8BGe4nVSa2PM5uaKP) | 3:03 | 2024-01-26 | 2024-08-17 |
 | [Lasting Effects](https://open.spotify.com/track/3bYuvzuTTyLlehuQoiGVPA) | [Avery Lynch](https://open.spotify.com/artist/7aO285xSsCbjy0q9zEqXEk) | [Lasting Effects](https://open.spotify.com/album/113HR1TbXie2s9xTeGEGck) | 3:59 | 2025-06-06 | 2025-07-19 |
 | [Late To The Party](https://open.spotify.com/track/1rbpKQH9Ln0ySrOV3wtWV7) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Late To The Party](https://open.spotify.com/album/3DzDXbB7Zp4rOiXkLmKKhX) | 2:57 | 2022-01-14 | 2022-08-27 |
@@ -1082,7 +1084,7 @@
 | [Uncomfortable](https://open.spotify.com/track/0JDLR0RGTSw0KDkn6r4oEz) | [YDE](https://open.spotify.com/artist/1evuFyLdwoIOIrYxMUfnWW) | [SEND HELP](https://open.spotify.com/album/7pcDzQ0QM54XXOqZf6BmSt) | 2:54 | 2022-09-09 | 2022-12-24 |
 | [Understood](https://open.spotify.com/track/1U1oiy0gG7yqhzJ8duuzMd) | [Eva Westphal](https://open.spotify.com/artist/32obs0w1xupMz2CXf5B9wb) | [Understood](https://open.spotify.com/album/7f7tuG3YU6KszNajcLEmpy) | 2:11 | 2023-02-17 | 2023-04-09 |
 | [Underworld](https://open.spotify.com/track/7G7v5g0WC8E1RoidL43T6X) | [Grace Power](https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP) | [Witching Hour](https://open.spotify.com/album/35TPXfDh8oqj7xpkaWhIKJ) | 3:20 | 2025-10-31 | 2026-04-29 |
-| [Undiscovered](https://open.spotify.com/track/6KZNvMmJA40X5IdEywrV0W) | [Grace Enger](https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf) | [Satisfied Girl](https://open.spotify.com/album/1HeDYeHN3FHp7ilKKxEpYP) | 3:31 | 2026-06-05 |  |
+| [Undiscovered](https://open.spotify.com/track/6KZNvMmJA40X5IdEywrV0W) | [Grace Enger](https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf) | [Satisfied Girl](https://open.spotify.com/album/1HeDYeHN3FHp7ilKKxEpYP) | 3:31 | 2026-06-05 | 2026-11-13 |
 | [Unfinished Business](https://open.spotify.com/track/51Es7m0L8xBEthyJna04so) | [Liv Miraldi](https://open.spotify.com/artist/3kqX5Myzg59lBJTPZmJTzY) | [Unfinished Business](https://open.spotify.com/album/4EgBAIKvsEgr9JZXd28G6K) | 3:56 | 2024-08-23 | 2025-01-18 |
 | [Universe](https://open.spotify.com/track/6Cm5uLnM47WzZUZifIqMgM) | [Annika Bennett](https://open.spotify.com/artist/6p6WfcngzvbVPbmV9HMb5l) | [Universe](https://open.spotify.com/album/6UI2kIBhFmj2LRcfRzjnQl) | 3:55 | 2022-03-25 | 2022-09-28 |
 | [Unrecognizable](https://open.spotify.com/track/3GxQ8j3v80oVBVEozR5iKm) | [Madeline The Person](https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY) | [CHAPTER 2: The Shedding](https://open.spotify.com/album/4ud34EAx7gghmzMVlgikuZ) | 3:36 | 2022-01-14 | 2022-03-05 |

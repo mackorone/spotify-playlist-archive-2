@@ -253,6 +253,24 @@
     },
     {
       "album": {
+        "name": "8pm",
+        "url": "https://open.spotify.com/album/0NNBgo3NYs9eUXnEC0wC3a"
+      },
+      "artists": [
+        {
+          "name": "Walid Martinez",
+          "url": "https://open.spotify.com/artist/1JRdXMJIEbwd3vVl0cnxY6"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354098,
+      "name": "8pm",
+      "url": "https://open.spotify.com/track/3mlUchN9dQr9Ybu3linuGK"
+    },
+    {
+      "album": {
         "name": "Honestly, Nevermind",
         "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
       },
@@ -1510,6 +1528,32 @@
       "duration_ms": 241716,
       "name": "Another Brick In The Wall",
       "url": "https://open.spotify.com/track/6jQH7bOMrSecEmb3oWHeNW"
+    },
+    {
+      "album": {
+        "name": "Another Life",
+        "url": "https://open.spotify.com/album/2VDp60nRSP7seSWAM83LK5"
+      },
+      "artists": [
+        {
+          "name": "Jenia Tarsol",
+          "url": "https://open.spotify.com/artist/0K725IR0iw8JfgNts2UzEk"
+        },
+        {
+          "name": "Joezi",
+          "url": "https://open.spotify.com/artist/2mC93i8OOfK2jpFERbVv8B"
+        },
+        {
+          "name": "Ofer Meiri",
+          "url": "https://open.spotify.com/artist/1KbRCmMiNYEnCDdMkpHhPh"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251803,
+      "name": "Another Life",
+      "url": "https://open.spotify.com/track/5aNXLozxxGAsnvHHYlbeAZ"
     },
     {
       "album": {
@@ -3069,6 +3113,24 @@
     },
     {
       "album": {
+        "name": "Spectrum",
+        "url": "https://open.spotify.com/album/4AlX0Yp66zFqstaHqFfJb5"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 514164,
+      "name": "Black Woman Cry",
+      "url": "https://open.spotify.com/track/29Sx0bBroYHeykh7xSNdmD"
+    },
+    {
+      "album": {
         "name": "Blind",
         "url": "https://open.spotify.com/album/4a1U2aEn9PAkZ7xKvdR5fX"
       },
@@ -3462,7 +3524,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 120500,
       "name": "Bun Is Bun!",
       "url": "https://open.spotify.com/track/03fFGoob44yTJstYZkpkXG"
@@ -16118,7 +16180,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 208000,
       "name": "Mwezi - Radio Edit",
       "url": "https://open.spotify.com/track/6cUg2NkJJ6ONoTUQlqydZ2"
@@ -16482,7 +16544,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 347514,
       "name": "NALA",
       "url": "https://open.spotify.com/track/1Ki95fAh0UZpHGLiofTRuw"
@@ -21100,7 +21162,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 370000,
       "name": "Sanity - Extended Mix",
       "url": "https://open.spotify.com/track/5YJjRDZf7EReVn284ZqOQv"
@@ -21666,6 +21728,28 @@
       "duration_ms": 410250,
       "name": "Shalimar - Dr Feel Remix",
       "url": "https://open.spotify.com/track/6yBhRdoToijr2xQir92Q0f"
+    },
+    {
+      "album": {
+        "name": "Shattered",
+        "url": "https://open.spotify.com/album/78GfkH7T3mQatpUKhKeD1j"
+      },
+      "artists": [
+        {
+          "name": "DJ NAHH",
+          "url": "https://open.spotify.com/artist/3hunruCNd05udCVHOLBhbs"
+        },
+        {
+          "name": "Simbx M",
+          "url": "https://open.spotify.com/artist/7KGH1n97UKchfvKG59dol4"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391497,
+      "name": "Shattered",
+      "url": "https://open.spotify.com/track/5PGClMvL0i1jR3HEQBdEdp"
     },
     {
       "album": {
@@ -23435,6 +23519,32 @@
     },
     {
       "album": {
+        "name": "Survival",
+        "url": "https://open.spotify.com/album/0CxCau16FfciR3aUrc9vKa"
+      },
+      "artists": [
+        {
+          "name": "Piero Farho",
+          "url": "https://open.spotify.com/artist/52LDi8vYmgfoiEaTBWCWSh"
+        },
+        {
+          "name": "Breyth",
+          "url": "https://open.spotify.com/artist/1ASRVb6tSo0Pdb6yEKZhmx"
+        },
+        {
+          "name": "Deena G",
+          "url": "https://open.spotify.com/artist/36cLRv390k560rrpvWmbux"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210491,
+      "name": "Survival",
+      "url": "https://open.spotify.com/track/0xXBo6SiX7G1fv5grcc73j"
+    },
+    {
+      "album": {
         "name": "Synchro System (THEMBA's Herd Mix)",
         "url": "https://open.spotify.com/album/3TOKdWOHRvx0YgBin9w8H6"
       },
@@ -23556,7 +23666,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 367926,
       "name": "Taciturn",
       "url": "https://open.spotify.com/track/4BOlMj3W2ORsfhDwNrLncu"

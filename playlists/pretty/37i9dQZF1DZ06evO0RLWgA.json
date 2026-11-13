@@ -1,12 +1,12 @@
 {
   "description": "This is John Lee Hooker. The essential tracks, all in one playlist.",
-  "num_followers": 52940,
+  "num_followers": 52944,
   "original_name": "This Is John Lee Hooker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avENAAAAAAA8N051XS2mKB9H6q9bjGcn",
+  "snapshot_id": "avOwAAAAAAC0hPRnxgaXa4oojCAZ9jhv",
   "tracks": [
     {
       "added_at": null,
@@ -323,22 +323,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chill Out",
-        "url": "https://open.spotify.com/album/1gHlGo1eKQl5ppd7pdihNy"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 319693,
-      "name": "Annie Mae - 2007 - Remaster",
-      "url": "https://open.spotify.com/track/4L7cUoSuj5zjZ96x9YcUYI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shake",
         "url": "https://open.spotify.com/album/6X76YOntJCyiiFvaIZgRdA"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 296986,
       "name": "I Lay Down",
       "url": "https://open.spotify.com/track/1ZNcJrNdX4HbO6NGj8tlaL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chill Out",
+        "url": "https://open.spotify.com/album/1gHlGo1eKQl5ppd7pdihNy"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 319693,
+      "name": "Annie Mae - 2007 - Remaster",
+      "url": "https://open.spotify.com/track/4L7cUoSuj5zjZ96x9YcUYI"
     },
     {
       "added_at": null,
@@ -395,6 +395,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Urban Blues (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5QCX3rK4zjRiUknme1gQ9x"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 158800,
+      "name": "Cry Before I Go",
+      "url": "https://open.spotify.com/track/7jskfadkwgveJrlF3KNqbb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Blues Summit",
         "url": "https://open.spotify.com/album/1qhzqiTmAjIc38TLqwgsWI"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 298066,
       "name": "You Shook Me",
       "url": "https://open.spotify.com/track/6veqGE5X1PoICwsE02Jh1k"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Urban Blues (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5QCX3rK4zjRiUknme1gQ9x"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 158800,
-      "name": "Cry Before I Go",
-      "url": "https://open.spotify.com/track/7jskfadkwgveJrlF3KNqbb"
     },
     {
       "added_at": null,
@@ -451,6 +451,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Burnin'",
+        "url": "https://open.spotify.com/album/3H0HdocoAAEEfiDfcRZauz"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 229150,
+      "name": "Blues Before Sunrise",
+      "url": "https://open.spotify.com/track/0gHeDEGKk5Pnm3LfgrY9tG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "It Serve You Right To Suffer (2025 Remaster)",
         "url": "https://open.spotify.com/album/5RNxoNHqpCJ2q4YOZycWWS"
       },
@@ -467,18 +483,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Burnin'",
-        "url": "https://open.spotify.com/album/3H0HdocoAAEEfiDfcRZauz"
+        "name": "Shake",
+        "url": "https://open.spotify.com/album/7iW0lg3yMzmO47L2yjCBHn"
       },
       "artists": [
+        {
+          "name": "Zucchero",
+          "url": "https://open.spotify.com/artist/2KftmGt9sk1yLjsAoloC3M"
+        },
         {
           "name": "John Lee Hooker",
           "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
         }
       ],
-      "duration_ms": 229150,
-      "name": "Blues Before Sunrise",
-      "url": "https://open.spotify.com/track/0gHeDEGKk5Pnm3LfgrY9tG"
+      "duration_ms": 296733,
+      "name": "Ali D'Oro",
+      "url": "https://open.spotify.com/track/0U2g0D3nV8oS6qdEAqYZqT"
     },
     {
       "added_at": null,
@@ -515,42 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whiskey & Wimmen: John Lee Hooker's Finest",
-        "url": "https://open.spotify.com/album/2IREyf1bkFTWuZMCayQ5V7"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 148013,
-      "name": "I Need Some Money",
-      "url": "https://open.spotify.com/track/4SjUzT00ytvjmhpd2LaWDo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shake",
-        "url": "https://open.spotify.com/album/7iW0lg3yMzmO47L2yjCBHn"
-      },
-      "artists": [
-        {
-          "name": "Zucchero",
-          "url": "https://open.spotify.com/artist/2KftmGt9sk1yLjsAoloC3M"
-        },
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 296733,
-      "name": "Ali D'Oro",
-      "url": "https://open.spotify.com/track/0U2g0D3nV8oS6qdEAqYZqT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Endless Boogie",
         "url": "https://open.spotify.com/album/0MMLYQDdCJ3niwUmG1FJS5"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 211533,
       "name": "Doin' The Shout",
       "url": "https://open.spotify.com/track/2Rmw5jvEl6kiHVUFQJanZN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Whiskey & Wimmen: John Lee Hooker's Finest",
+        "url": "https://open.spotify.com/album/2IREyf1bkFTWuZMCayQ5V7"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 148013,
+      "name": "I Need Some Money",
+      "url": "https://open.spotify.com/track/4SjUzT00ytvjmhpd2LaWDo"
     },
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't Look Back",
-        "url": "https://open.spotify.com/album/7nEx6csxKzaeNAf4y056F7"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 309320,
-      "name": "The Healing Game",
-      "url": "https://open.spotify.com/track/1SSAVVIiMMfpukBfQ15vBP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Half A Stranger Vol 1",
         "url": "https://open.spotify.com/album/1UKljueptyRlVnuHNYNJOe"
       },
@@ -655,22 +639,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Healer",
-        "url": "https://open.spotify.com/album/7dX5RVwG4Bdw13xrCuIFbk"
+        "name": "Don't Look Back",
+        "url": "https://open.spotify.com/album/7nEx6csxKzaeNAf4y056F7"
       },
       "artists": [
         {
           "name": "John Lee Hooker",
           "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        },
-        {
-          "name": "Robert Cray",
-          "url": "https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj"
         }
       ],
-      "duration_ms": 225906,
-      "name": "Baby Lee - feat. Robert Cray",
-      "url": "https://open.spotify.com/track/0f9HBk7sdDtolNucZ2Scav"
+      "duration_ms": 309320,
+      "name": "The Healing Game",
+      "url": "https://open.spotify.com/track/1SSAVVIiMMfpukBfQ15vBP"
     },
     {
       "added_at": null,
@@ -715,6 +695,26 @@
       "duration_ms": 3250760,
       "name": "The Wanderings of The Avener - Continuous Mix",
       "url": "https://open.spotify.com/track/0uY7cVYUpEuecc9Cfwjby2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Healer",
+        "url": "https://open.spotify.com/album/7dX5RVwG4Bdw13xrCuIFbk"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        },
+        {
+          "name": "Robert Cray",
+          "url": "https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj"
+        }
+      ],
+      "duration_ms": 225906,
+      "name": "Baby Lee - feat. Robert Cray",
+      "url": "https://open.spotify.com/track/0f9HBk7sdDtolNucZ2Scav"
     },
     {
       "added_at": null,
@@ -879,6 +879,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "House Of The Blues",
+        "url": "https://open.spotify.com/album/52ake2Vmv23KLzk7UUh6f3"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 175026,
+      "name": "Ground Hog Blues - Single Version",
+      "url": "https://open.spotify.com/track/2zwnpN2MCs6hCxaXhFZJK4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Healer",
         "url": "https://open.spotify.com/album/7dX5RVwG4Bdw13xrCuIFbk"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 277000,
       "name": "Cuttin' Out - feat. Canned Heat",
       "url": "https://open.spotify.com/track/3wD8QPYFxygFaPHTb21xmr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "House Of The Blues",
-        "url": "https://open.spotify.com/album/52ake2Vmv23KLzk7UUh6f3"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 175026,
-      "name": "Ground Hog Blues - Single Version",
-      "url": "https://open.spotify.com/track/2zwnpN2MCs6hCxaXhFZJK4"
     }
   ],
   "unique_name": "This Is John Lee Hooker",

@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2015. Cover: Tame Impala\n\n\n\n\n\n",
-  "num_followers": 86729,
+  "num_followers": 86742,
   "original_name": "Best of Indie 2015",
   "owner": {
     "name": "Spotify",
@@ -791,22 +791,6 @@
     {
       "added_at": "2024-03-18 13:24:52",
       "album": {
-        "name": "If I Should Go Before You",
-        "url": "https://open.spotify.com/album/33HoOi4X8Q6QZNZVOuvPud"
-      },
-      "artists": [
-        {
-          "name": "City and Colour",
-          "url": "https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR"
-        }
-      ],
-      "duration_ms": 234698,
-      "name": "Lover Come Back",
-      "url": "https://open.spotify.com/track/7G9yE2L2bXxqaQKVL2rKAr"
-    },
-    {
-      "added_at": "2024-03-18 13:24:52",
-      "album": {
         "name": "Our Own House",
         "url": "https://open.spotify.com/album/726GB3GTBwPdsGr5XzOQbz"
       },
@@ -823,18 +807,34 @@
     {
       "added_at": "2024-03-18 13:24:52",
       "album": {
-        "name": "Shadow",
-        "url": "https://open.spotify.com/album/6IoA01Eo4bfsXfEKBEisyG"
+        "name": "If I Should Go Before You",
+        "url": "https://open.spotify.com/album/33HoOi4X8Q6QZNZVOuvPud"
       },
       "artists": [
         {
-          "name": "Chromatics",
-          "url": "https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE"
+          "name": "City and Colour",
+          "url": "https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR"
         }
       ],
-      "duration_ms": 224527,
-      "name": "Shadow",
-      "url": "https://open.spotify.com/track/3sJQGz6WX2YIBaHsH3bRMq"
+      "duration_ms": 234698,
+      "name": "Lover Come Back",
+      "url": "https://open.spotify.com/track/7G9yE2L2bXxqaQKVL2rKAr"
+    },
+    {
+      "added_at": "2024-03-18 13:24:52",
+      "album": {
+        "name": "Make Out",
+        "url": "https://open.spotify.com/album/4sldmS76FbpIaO2sEsZlBh"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "duration_ms": 211340,
+      "name": "ILYSB",
+      "url": "https://open.spotify.com/track/3BwR5psKNxcyqWoc80eOuq"
     },
     {
       "added_at": "2024-03-18 13:24:52",
@@ -855,18 +855,18 @@
     {
       "added_at": "2024-03-18 13:24:52",
       "album": {
-        "name": "Make Out",
-        "url": "https://open.spotify.com/album/4sldmS76FbpIaO2sEsZlBh"
+        "name": "Shadow",
+        "url": "https://open.spotify.com/album/6IoA01Eo4bfsXfEKBEisyG"
       },
       "artists": [
         {
-          "name": "LANY",
-          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+          "name": "Chromatics",
+          "url": "https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE"
         }
       ],
-      "duration_ms": 211340,
-      "name": "ILYSB",
-      "url": "https://open.spotify.com/track/3BwR5psKNxcyqWoc80eOuq"
+      "duration_ms": 224527,
+      "name": "Shadow",
+      "url": "https://open.spotify.com/track/3sJQGz6WX2YIBaHsH3bRMq"
     },
     {
       "added_at": "2024-03-18 13:24:52",
@@ -1188,9 +1188,9 @@
           "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
         }
       ],
-      "duration_ms": 232546,
-      "name": "Don't Wanna Fight",
-      "url": "https://open.spotify.com/track/1yMeXd08op7WK8UN07QZQ9"
+      "duration_ms": 182466,
+      "name": "Sound & Color",
+      "url": "https://open.spotify.com/track/3zWgFhqjlGiM7p1ECrxclH"
     },
     {
       "added_at": "2024-03-18 13:24:52",
@@ -1268,9 +1268,9 @@
           "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
         }
       ],
-      "duration_ms": 182466,
-      "name": "Sound & Color",
-      "url": "https://open.spotify.com/track/3zWgFhqjlGiM7p1ECrxclH"
+      "duration_ms": 232546,
+      "name": "Don't Wanna Fight",
+      "url": "https://open.spotify.com/track/1yMeXd08op7WK8UN07QZQ9"
     },
     {
       "added_at": "2024-03-18 13:24:52",

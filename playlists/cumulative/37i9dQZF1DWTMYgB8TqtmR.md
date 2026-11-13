@@ -4,7 +4,7 @@
 
 > Hot Hits – största och bästa hitsen just nu!
 
-1,129 songs - 2 day 8 hr 53 min
+1,130 songs - 2 day 8 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -574,7 +574,7 @@
 | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi) | 2:27 | 2022-08-31 | 2022-10-28 |
 | [Kvar \- Spotify Studio 100 Recording](https://open.spotify.com/track/374PJMUFDX43vavFdz2Jvi) | [Alawee](https://open.spotify.com/artist/1eAyilKA1p82m0SkoEZ8dB), [Youzie](https://open.spotify.com/artist/5quSkKg59RI6NZPpaaApte) | [Kvar \- Spotify Studio 100 Recording](https://open.spotify.com/album/3IPLGtRogxj4qRIh1sb8YL) | 2:41 | 2023-02-09 | 2023-03-31 |
 | [Kygo Jo \(feat\. Lyng\) \- Kygo Remix](https://open.spotify.com/track/3ExrDwHbhBZYurE2AOC1rL) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Flow Kingz](https://open.spotify.com/artist/1811qTctCVNYGH09k7sfyY), [JMK](https://open.spotify.com/artist/0qq6F6bI5cpDuXgRTM2ZLN), [Lyng](https://open.spotify.com/artist/5ducg8qTQPfJJSSsO3D8hB) | [Kygo Jo \(feat\. Lyng\) \[Kygo Remix\]](https://open.spotify.com/album/6AQiRXJ2i48Lu7CFUrKUER) | 2:33 | 2026-07-13 | 2026-09-04 |
-| [LA LIGA](https://open.spotify.com/track/2echXrccqUfuCST3xF5zjX) | [Greekazo](https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8), [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [Z.E](https://open.spotify.com/artist/3PtEOX0PJSh7ndOL4tP0NR), [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1), [NBLNATION](https://open.spotify.com/artist/6n1wmwNagseQaWrmAkpcE6) | [LA LIGA](https://open.spotify.com/album/3EvZfe1UY1mq2hPahgfAGy) | 2:27 | 2026-10-01 |  |
+| [LA LIGA](https://open.spotify.com/track/2echXrccqUfuCST3xF5zjX) | [Greekazo](https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8), [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [Z.E](https://open.spotify.com/artist/3PtEOX0PJSh7ndOL4tP0NR), [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1), [NBLNATION](https://open.spotify.com/artist/6n1wmwNagseQaWrmAkpcE6) | [LA LIGA](https://open.spotify.com/album/3EvZfe1UY1mq2hPahgfAGy) | 2:27 | 2026-10-01 | 2026-11-13 |
 | [Land Till Land](https://open.spotify.com/track/7F7V4T66tNwtgIhtN8eue0) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG), [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR) | [Land Till Land](https://open.spotify.com/album/5RNOw8MKgHH5lUwteCZQx8) | 2:10 | 2025-02-05 | 2025-03-05 |
 | [Last Last](https://open.spotify.com/track/5YbPxJwPfrj7uswNwoF1pJ) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 2:52 | 2022-08-16 | 2022-10-14 |
 | [Late Night Talking](https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:57 | 2022-05-19 | 2022-08-05 |
@@ -846,6 +846,7 @@
 | [she's all i wanna be](https://open.spotify.com/track/0IuVhCflrQPMGRrOyoY5RW) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [she's all i wanna be](https://open.spotify.com/album/51oWPUjnGhecw62V8LDXK8) | 3:26 | 2022-02-03 | 2022-05-07 |
 | [Shirt](https://open.spotify.com/track/34ZAzO78a5DAVNrYIGWcPm) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Shirt](https://open.spotify.com/album/6Kqm5aSp69hTaOHTx38hsD) | 3:01 | 2022-10-27 | 2022-11-18 |
 | [Shivers](https://open.spotify.com/track/6bQfNiqyCX7UaQSvVVGo4I) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Shivers](https://open.spotify.com/album/5kFCfioZraFsRWpoitQjmx) | 3:27 | 2021-12-16 | 2022-05-14 |
+| [Shotta's.](https://open.spotify.com/track/1ApUYfDejOBvrTnar2Wyf3) | [Season 25](https://open.spotify.com/artist/1WtceoonufhxRc6AnUSbat) | [Shotta's.](https://open.spotify.com/album/1XUTYkp36yxfOmOaNlbxiE) | 2:22 | 2026-11-12 |  |
 | [Show Me Love](https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [Show Me Love](https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6) | 2:56 | 2025-03-11 | 2025-11-12 |
 | [Shut Down](https://open.spotify.com/track/0ARKW62l9uWIDYMZTUmJHF) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) | 2:55 | 2022-09-19 | 2022-09-23 |
 | [Shut Up](https://open.spotify.com/track/0oIeGuhmaT9nvA2bCG66Ft) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Walkerverse Pt\. I & II](https://open.spotify.com/album/3oTCD9IDNU5KLinnV9u7JF) | 2:12 | 2022-11-17 | 2022-11-30 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO14TklP.md) - [plain]
 
 > This is Ebony\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,331 likes - 48 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,359 likes - 48 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO14TklP.md) - [plain]
 | 35 | [Flashes](https://open.spotify.com/track/2bqzfsvVkg7OXxop76r2Pf) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [BENO](https://open.spotify.com/artist/6SZeSPUyGxCMBcaysxnYny) | [Visão Periférica](https://open.spotify.com/album/3P2UK2xxbzATRIgogpF3YF) | 2:58 |
 | 36 | [Reunião Dos Cria](https://open.spotify.com/track/08rJlLJtCWCENyxjkPM3Ns) | [A Banca Records](https://open.spotify.com/artist/0Do6bAo2kcVLp7ekzypskJ), [Dfideliz](https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10), [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX) | [Reunião Dos Cria](https://open.spotify.com/album/2oqaYk1IfIY8HwOinCT2Pq) | 3:48 |
 | 37 | [Disco](https://open.spotify.com/track/3NLir84ijUvixJsOxo2lxU) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX), [Celo1st](https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK) | [Condessa](https://open.spotify.com/album/09p3ofskrFXhmN9dUe5Aiu) | 2:14 |
-| 38 | [BADU & 3000](https://open.spotify.com/track/2EunXugitKqwBZLyPyl1yQ) | [JOCA](https://open.spotify.com/artist/45SdbfTDVazlg3Ehph9UlT), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [CARLO](https://open.spotify.com/artist/0J4DHkFbIhACgOkPFvWl9Y) | [CORTAVENTO](https://open.spotify.com/album/7nyXHb7J8I4piuHtHodwKF) | 3:01 |
+| 38 | [Pra Ver Você Sambar \- feat\. Ebony](https://open.spotify.com/track/2DGzqxqUWBzRA7cEMkZ7QN) | [Alligatorz](https://open.spotify.com/artist/69wxka6JqmMSB5okEEcE1z), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Lucas Santtana](https://open.spotify.com/artist/67muZL7DIwZwLnH9BFfI5Z) | [Pra Ver Você Sambar \(feat\. Ebony\)](https://open.spotify.com/album/24KKVs2nmyeHPHWvk1fn5n) | 2:55 |
 | 39 | [Pódio](https://open.spotify.com/track/53fwzkmkU2NR8pyNB8qYCj) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [BENO](https://open.spotify.com/artist/6SZeSPUyGxCMBcaysxnYny), [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX) | [Visão Periférica](https://open.spotify.com/album/3P2UK2xxbzATRIgogpF3YF) | 2:44 |
-| 40 | [Pra Ver Você Sambar \- feat\. Ebony](https://open.spotify.com/track/2DGzqxqUWBzRA7cEMkZ7QN) | [Alligatorz](https://open.spotify.com/artist/69wxka6JqmMSB5okEEcE1z), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Lucas Santtana](https://open.spotify.com/artist/67muZL7DIwZwLnH9BFfI5Z) | [Pra Ver Você Sambar \(feat\. Ebony\)](https://open.spotify.com/album/24KKVs2nmyeHPHWvk1fn5n) | 2:55 |
+| 40 | [BADU & 3000](https://open.spotify.com/track/2EunXugitKqwBZLyPyl1yQ) | [JOCA](https://open.spotify.com/artist/45SdbfTDVazlg3Ehph9UlT), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [CARLO](https://open.spotify.com/artist/0J4DHkFbIhACgOkPFvWl9Y) | [CORTAVENTO](https://open.spotify.com/album/7nyXHb7J8I4piuHtHodwKF) | 3:01 |
 | 41 | [Facetime](https://open.spotify.com/track/3jlHHNWI4zDED91EaX5ttE) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [Facetime](https://open.spotify.com/album/2l1e5lXljgsDSAbZShQacr) | 2:43 |
 | 42 | [Tanto Faz](https://open.spotify.com/track/7s6Raq8Yvdhjsa38Bnpp8t) | [Black Queen](https://open.spotify.com/artist/12jMN5SeE8STo77it3FXWv), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [Tanto Faz](https://open.spotify.com/album/5KpJdmvfZhyew4cg0GLqHS) | 3:16 |
 | 43 | [After](https://open.spotify.com/track/6WODGYSGiq0aUNqYlOYNhA) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX) | [Visão Periférica](https://open.spotify.com/album/3P2UK2xxbzATRIgogpF3YF) | 2:12 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO14TklP.md) - [plain]
 | 47 | [Caneta](https://open.spotify.com/track/2WxgnVuE9zJPWqqQacGHE0) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [BENO](https://open.spotify.com/artist/6SZeSPUyGxCMBcaysxnYny), [Nave](https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J) | [Visão Periférica](https://open.spotify.com/album/3P2UK2xxbzATRIgogpF3YF) | 3:08 |
 | 48 | [Ca$h Ca$h](https://open.spotify.com/track/5cIQ6FpIhXXFN3cCpBZQSD) | [BlakkStar](https://open.spotify.com/artist/0xOEY6ZB9xhdW3SnfmlgvX), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [Ca$h Ca$h](https://open.spotify.com/album/77cE3ZebHOAHnt2xdFJ9l1) | 3:04 |
 
-Snapshot ID: `avENAAAAAAB5THH1fxsdEex/UZwTEvuV`
+Snapshot ID: `avOwAAAAAAD9oTrWpLhjH7ytgkZIQyM3`

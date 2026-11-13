@@ -5491,6 +5491,24 @@
     },
     {
       "album": {
+        "name": "INHLAWULO",
+        "url": "https://open.spotify.com/album/2riuu9A3fmVezUYkvm6XMs"
+      },
+      "artists": [
+        {
+          "name": "Mlindo The Vocalist",
+          "url": "https://open.spotify.com/artist/09CY8fzqhZHR7rQAULoreI"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295341,
+      "name": "Inhlawulo",
+      "url": "https://open.spotify.com/track/2VIHMyKE1cyMG1jAH4qRH9"
+    },
+    {
+      "album": {
         "name": "Finally Found Her",
         "url": "https://open.spotify.com/album/4plY4J9jXwF5AwDbZwtsYF"
       },
@@ -6176,6 +6194,24 @@
       "duration_ms": 258088,
       "name": "Isthembu (feat. Siya Ntuli)",
       "url": "https://open.spotify.com/track/1yF1gVIE76t5DqUGIRyipv"
+    },
+    {
+      "album": {
+        "name": "It's Not Easy (Akukholula)",
+        "url": "https://open.spotify.com/album/5QL7JLTpuTcB2FkRplgUf7"
+      },
+      "artists": [
+        {
+          "name": "Bongi & Collin",
+          "url": "https://open.spotify.com/artist/265H45nZNLBgMv7guxQ2Jp"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241682,
+      "name": "It's Not Easy (Akukholula)",
+      "url": "https://open.spotify.com/track/7qq4oJ73neWXB20hpimNMH"
     },
     {
       "album": {
@@ -8780,7 +8816,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 225440,
       "name": "Marry me",
       "url": "https://open.spotify.com/track/2SlFyZLbFhRXmqlLU2S87B"
@@ -9288,7 +9324,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 292000,
       "name": "Moya Wami - Live",
       "url": "https://open.spotify.com/track/3T9tONmBdltnOBREBCluJ2"
@@ -10598,7 +10634,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 225287,
       "name": "Ngizmisele",
       "url": "https://open.spotify.com/track/0sSFSV3NiP2i9PzSk65BPa"
@@ -15956,6 +15992,36 @@
       "duration_ms": 156226,
       "name": "UThando Olufudumele",
       "url": "https://open.spotify.com/track/1Yf2Dda3imm3Y34Kgd8uWU"
+    },
+    {
+      "album": {
+        "name": "Uthando Olumnandi",
+        "url": "https://open.spotify.com/album/6yNgWwMpvbv9tBzySpysrp"
+      },
+      "artists": [
+        {
+          "name": "Kinglee Beats",
+          "url": "https://open.spotify.com/artist/0vbMPEuWEuSaetTmp50LZP"
+        },
+        {
+          "name": "Seemah",
+          "url": "https://open.spotify.com/artist/0aNCy4QYgTmEt8dos9toPF"
+        },
+        {
+          "name": "Naledi Aphiwe",
+          "url": "https://open.spotify.com/artist/6zInR2bva7iaRKxeB5AjqN"
+        },
+        {
+          "name": "LilyFaith",
+          "url": "https://open.spotify.com/artist/4NptbBcRjmRZYpFSMfmutv"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277472,
+      "name": "Uthando Olumnandi",
+      "url": "https://open.spotify.com/track/4d0ndOCNJVDanM593ywDBs"
     },
     {
       "album": {

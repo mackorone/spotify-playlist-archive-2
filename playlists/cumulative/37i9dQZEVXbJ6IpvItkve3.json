@@ -12734,7 +12734,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-11",
+      "date_removed": null,
       "duration_ms": 229411,
       "name": "\u05d0\u05d1\u05dc \u05d0\u05ea",
       "url": "https://open.spotify.com/track/5ogS9Gv62PA9a8h3nL2bEX"
@@ -13938,7 +13938,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-12",
+      "date_removed": null,
       "duration_ms": 190000,
       "name": "\u05d0\u05d9\u05e9 \u05d4\u05e4\u05dc\u05d0",
       "url": "https://open.spotify.com/track/21lNFbYE1iSBYtNcW2U8Vm"
@@ -15178,7 +15178,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 183750,
       "name": "\u05d1\u05d0\u05de\u05ea \u05e9\u05dc \u05d4\u05d0\u05de\u05ea",
       "url": "https://open.spotify.com/track/3Dx920qUWdBswFizsT1PxR"
@@ -15880,7 +15880,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 210138,
       "name": "\u05d1\u05df 32",
       "url": "https://open.spotify.com/track/3CdPL5qF03DtSPZMhECaqu"
@@ -20585,6 +20585,24 @@
     },
     {
       "album": {
+        "name": "\u05dc\u05d0 \u05de\u05e2\u05e0\u05d9\u05d9\u05df \u05d0\u05d5\u05ea\u05d9",
+        "url": "https://open.spotify.com/album/6lBMm9VLwma7PvnT23srNb"
+      },
+      "artists": [
+        {
+          "name": "Eden Hason",
+          "url": "https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135064,
+      "name": "\u05dc\u05d0 \u05de\u05e2\u05e0\u05d9\u05d9\u05df \u05d0\u05d5\u05ea\u05d9",
+      "url": "https://open.spotify.com/track/0YL2z8KZ9KGh2ocNEjgv0N"
+    },
+    {
+      "album": {
         "name": "\u05dc\u05d0 \u05de\u05e8\u05d2\u05d9\u05e9 \u05d8\u05d5\u05d1",
         "url": "https://open.spotify.com/album/3bdYTqXYcqvOW36agrX804"
       },
@@ -20654,7 +20672,7 @@
       ],
       "date_added": "2026-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-12",
+      "date_removed": null,
       "duration_ms": 291741,
       "name": "\u05dc\u05d0 \u05e7\u05d5\u05e0\u05d4 \u05d0\u05d5\u05ea\u05d9 / \u05db\u05dc \u05d4\u05e2\u05d9\u05e8 \u05d9\u05d5\u05d3\u05e2\u05ea - Live",
       "url": "https://open.spotify.com/track/6wHzsXtcX4vVSV91pd4vdD"
@@ -21122,7 +21140,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 165333,
       "name": "\u05dc\u05d5\u05e4 \u05e9\u05dc\u05d0 \u05e0\u05d2\u05de\u05e8",
       "url": "https://open.spotify.com/track/0XN0qo1SvJeiiV6yoPP85V"
@@ -27224,7 +27242,7 @@
       ],
       "date_added": "2025-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 178409,
       "name": "\u05e8\u05d5\u05e7\u05d3 \u05dc\u05d9 \u05e2\u05dc \u05d4\u05e2\u05e6\u05d1",
       "url": "https://open.spotify.com/track/5R2KoD3IlLRvCPHVhwdaEe"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "Les hits de demain sont d\u00e9j\u00e0 ici. Photo :  RnBoi",
+  "description": "Les hits de demain sont d\u00e9j\u00e0 ici. Photo :  SIENNA SPIRO",
   "name": "Futurs Hits",
   "tracks": [
     {
@@ -1416,7 +1416,7 @@
       ],
       "date_added": "2026-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 178822,
       "name": "Babydoll feat. Antonio Cipriano",
       "url": "https://open.spotify.com/track/1UO7xiV3QaRfPXUpiVRsEp"
@@ -1957,6 +1957,24 @@
     },
     {
       "album": {
+        "name": "Bella Vita",
+        "url": "https://open.spotify.com/album/7E5q2YUeY5NXoo14PuI4Pn"
+      },
+      "artists": [
+        {
+          "name": "Oria",
+          "url": "https://open.spotify.com/artist/2tcokte1gClrCRw645UFYR"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179320,
+      "name": "Bella Vita",
+      "url": "https://open.spotify.com/track/6bDXDC1meVMo6NyzH7VoxB"
+    },
+    {
+      "album": {
         "name": "BELLAKEO",
         "url": "https://open.spotify.com/album/3VLY9g3CAG1Y5r2eGVEaZ0"
       },
@@ -2276,6 +2294,28 @@
       "duration_ms": 154215,
       "name": "Body Moving",
       "url": "https://open.spotify.com/track/5SFCEkybGYmmzKqewtDEaN"
+    },
+    {
+      "album": {
+        "name": "Casus Belli",
+        "url": "https://open.spotify.com/album/2GlRfEUPzFoYTxGcREodSB"
+      },
+      "artists": [
+        {
+          "name": "Le Crime",
+          "url": "https://open.spotify.com/artist/00edlcHg3ILdHtrYL54bxX"
+        },
+        {
+          "name": "TK",
+          "url": "https://open.spotify.com/artist/5vnUF9uAL0ly7qw25ERLuC"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154464,
+      "name": "Bodycount",
+      "url": "https://open.spotify.com/track/44GFu3eGCrgJAlPUbgiRPE"
     },
     {
       "album": {
@@ -7250,7 +7290,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 208810,
       "name": "Housewife",
       "url": "https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0"
@@ -8188,7 +8228,7 @@
       ],
       "date_added": "2026-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 178331,
       "name": "J'assume",
       "url": "https://open.spotify.com/track/5qRO8OcqfOc7mgTEDN12XQ"
@@ -15828,6 +15868,24 @@
       "duration_ms": 151875,
       "name": "Still Into You",
       "url": "https://open.spotify.com/track/0GYx8Q9iS05CRe9kyzwAIL"
+    },
+    {
+      "album": {
+        "name": "Stop The Wedding!",
+        "url": "https://open.spotify.com/album/4dem9qxmFf4RD6fqoCH6wc"
+      },
+      "artists": [
+        {
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198840,
+      "name": "Stop The Wedding!",
+      "url": "https://open.spotify.com/track/3zOYmiNOuyDL0ClxJcEJ0T"
     },
     {
       "album": {

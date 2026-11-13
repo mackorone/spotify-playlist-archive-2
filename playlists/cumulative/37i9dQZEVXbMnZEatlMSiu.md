@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Taiwan.
 
-1,798 songs - 4 day 8 hr 25 min
+1,799 songs - 4 day 8 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -260,6 +260,7 @@
 | [deja vu](https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:35 | 2021-05-23 | 2021-07-11 |
 | [deja vu](https://open.spotify.com/track/61KpQadow081I2AsbeLcsb) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [deja vu](https://open.spotify.com/album/3lwHyR4joA1xB7Nun21EP6) | 3:35 | 2021-04-07 | 2021-05-23 |
 | [Deja Vu](https://open.spotify.com/track/3aAnwyBJY9OLNLqSgd4fZU) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode 3: TOMORROW](https://open.spotify.com/album/0mDwrOXZHN1lgCNeBvkBbj) | 2:51 | 2024-04-03 | 2024-05-26 |
+| [DEPENDS](https://open.spotify.com/track/23rcMbTChRPIwtCycyb3E4) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [DEPENDS](https://open.spotify.com/album/1ovXAdBxEGkXoYkIEg0IG8) | 3:05 | 2026-11-12 |  |
 | [DESERVE](https://open.spotify.com/track/7It5Iy4mnJWMhESt7qfipt) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [DESERVE](https://open.spotify.com/album/7Aj6krHADdqO0MQaYejME0) | 3:09 | 2026-10-24 |  |
 | [DESERVE](https://open.spotify.com/track/4pqPtMvJlvrCAws8Xtz2T5) | [Gummy B](https://open.spotify.com/artist/041GibkKYtPdNlIAqxs1gs) | [更好](https://open.spotify.com/album/0FKC566l6cp7gHF0QXe9G3) | 2:34 | 2025-10-02 | 2025-10-05 |
 | [Destiny \(WOOZI Solo\)](https://open.spotify.com/track/0z2DWFjnHhuWjlMFqAH4GN) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 5th Album 'HAPPY BURSTDAY'](https://open.spotify.com/album/0xlyof8BowaJtYPsxWYmkN) | 4:21 | 2025-05-28 | 2025-05-30 |
@@ -295,7 +296,7 @@
 | [Dreamers \[Music from the FIFA World Cup Qatar 2022 Official Soundtrack\]](https://open.spotify.com/track/1RDvyOk4WtPCtoqciJwVn8) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [Dreamers \[Music from the FIFA World Cup Qatar 2022 Official Soundtrack\]](https://open.spotify.com/album/0gr5OmB74UhoANEXwYT3gE) | 3:21 | 2022-11-21 | 2022-12-26 |
 | [Drift](https://open.spotify.com/track/2gSezaNAd5cVryt4b4YMEn) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Rich Man \- The 6th Mini Album](https://open.spotify.com/album/7Frk59MgpJw7bDixiMCr49) | 2:57 | 2025-09-10 | 2025-09-11 |
 | [drinks or coffee](https://open.spotify.com/track/3fpWkbEZMP1BgOOfymwoaS) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:13 | 2024-12-07 | 2025-01-05 |
-| [Drip](https://open.spotify.com/track/5JaMKAodzzLdFM2ARRTXb9) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Drip](https://open.spotify.com/album/5RAg0Dd2xkkZ3LEZzPNxYT) | 3:01 | 2026-10-24 | 2026-11-12 |
+| [Drip](https://open.spotify.com/track/5JaMKAodzzLdFM2ARRTXb9) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Drip](https://open.spotify.com/album/5RAg0Dd2xkkZ3LEZzPNxYT) | 3:01 | 2026-10-24 |  |
 | [DRIP](https://open.spotify.com/track/198zDKzyktXRG1PGpidY9h) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [DRIP](https://open.spotify.com/album/6Lp82GTJXzgtIopT0g7N7k) | 3:00 | 2024-11-02 | 2026-01-06 |
 | [DRIP](https://open.spotify.com/track/1MUZitHRpmng5NevrvNx4T) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [DRIP](https://open.spotify.com/album/7JCNpE1d2ivc2YPSqEVShc) | 3:00 | 2024-11-05 | 2025-06-29 |
 | [Drive \(From F1® The Movie\)](https://open.spotify.com/track/0iIcuwia47B5bzjVpyUwyI) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Drive \(From F1® The Movie\)](https://open.spotify.com/album/5Jd8G9DMwnwK7YVlFTvdnc) | 3:07 | 2025-07-08 | 2025-07-19 |
@@ -481,7 +482,7 @@
 | [HOME SWEET HOME \(feat\. TAEYANG & DAESUNG\)](https://open.spotify.com/track/5doooVlMVRZztQbySqARMI) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c), [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [DAESUNG](https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO) | [Übermensch](https://open.spotify.com/album/4FviRd7FubuuGNVt2qME1G) | 3:31 | 2025-02-26 | 2026-01-03 |
 | [Honest \(feat\. Don Toliver\)](https://open.spotify.com/track/2KdKh9vHbKW0tZLqtpxxI0) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Honest](https://open.spotify.com/album/2luYA3MBCKI7SfK3K0U3xf) | 3:13 | 2022-05-01 | 2022-05-08 |
 | [Honey](https://open.spotify.com/track/4qmFC3Jz5aQ0erlk2OSi2X) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:01 | 2025-10-04 | 2025-10-07 |
-| [Hong Kong \(feat\. 王菲季候風\)](https://open.spotify.com/track/1824ElVTa8XiWOjOlujl81) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hong Kong \(feat\. 王菲季候風\)](https://open.spotify.com/album/47lGFW58QJPb3i2pM53Qni) | 3:36 | 2026-11-02 |  |
+| [Hong Kong \(feat\. 王菲季候風\)](https://open.spotify.com/track/1824ElVTa8XiWOjOlujl81) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hong Kong \(feat\. 王菲季候風\)](https://open.spotify.com/album/47lGFW58QJPb3i2pM53Qni) | 3:36 | 2026-11-02 | 2026-11-13 |
 | [Hooligan](https://open.spotify.com/track/20dAJsyno9ZoBLJtqgQnUI) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h) | 3:02 | 2026-03-21 | 2026-06-07 |
 | [HOT](https://open.spotify.com/track/24Y63uAvj6Oc9jGuTlhlgf) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [HOT \(English ver.\) \(feat\. JADE\)](https://open.spotify.com/album/0GjZcJIlYoNHn442Tf0hNT) | 2:23 | 2025-04-15 | 2025-06-16 |
 | [HOT](https://open.spotify.com/track/406IpEtZPvbxApWTGM3twY) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [HOT](https://open.spotify.com/album/3lyRrGhXCCMbt4jVO9Wur2) | 2:23 | 2025-03-15 | 2025-04-16 |
@@ -1212,7 +1213,7 @@
 | [七里香](https://open.spotify.com/track/2g1MHSbgxhcOEKpeWG4pZT) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [七里香](https://open.spotify.com/album/7vSaodFzUYCexkKXeEhkpc) | 4:57 | 2024-11-01 | 2025-01-29 |
 | [七里香](https://open.spotify.com/track/57w29bSwdIZ6gr6xXOqwc1) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [七里香](https://open.spotify.com/album/6WdM1OfmVIPuQ56QPmaJIr) | 4:57 | 2024-10-24 | 2025-02-04 |
 | [三人遊](https://open.spotify.com/track/0ZkoOzNcWkxXaeWzuBFWPU) | [Khalil Fong](https://open.spotify.com/artist/1YrtUPrWcPfgdl9BaD9nhd) | [橙月](https://open.spotify.com/album/3uhvDy6obaVBGrYu7FGYYB) | 3:57 | 2025-03-02 | 2025-03-17 |
-| [下輩子](https://open.spotify.com/track/73Ijz3vN9KP1W5qrfNeWMI) | [玖壹壹](https://open.spotify.com/artist/3w8fdvgPp2aKgy125EBgVg) | [玖肆伍叁](https://open.spotify.com/album/1I6KkvaGCoX1RFJIwD1HE3) | 4:02 | 2026-11-09 |  |
+| [下輩子](https://open.spotify.com/track/73Ijz3vN9KP1W5qrfNeWMI) | [玖壹壹](https://open.spotify.com/artist/3w8fdvgPp2aKgy125EBgVg) | [玖肆伍叁](https://open.spotify.com/album/1I6KkvaGCoX1RFJIwD1HE3) | 4:02 | 2026-11-09 | 2026-11-13 |
 | [下輩子 \- Remix](https://open.spotify.com/track/1qiSvhEJLzmijvayjSICw0) | [玖壹壹](https://open.spotify.com/artist/3w8fdvgPp2aKgy125EBgVg), [高爾宣 OSN](https://open.spotify.com/artist/4TcOznbEZBqev21LzAH4KE), [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM) | [下輩子 \(Remix\)](https://open.spotify.com/album/5vI5LKjr1uwk16WmxnxwTR) | 3:00 | 2025-05-31 | 2025-06-02 |
 | [不介意](https://open.spotify.com/track/4tVLXGYrlv0aysDrZSLRVN) | [The Crane](https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL) | [TALENT](https://open.spotify.com/album/58AtmygL5FdxGhuEUSnWwF) | 3:19 | 2022-12-29 | 2023-01-24 |
 | [不佔地方](https://open.spotify.com/track/4l9N4XgueomoOoYe3us98d) | [Pei\-Yu Hung](https://open.spotify.com/artist/0rARfHZ4ZteUlzbAuxUwAs) | [不佔地方](https://open.spotify.com/album/5tv6XsgJYFkTp39m61b7Fm) | 4:39 | 2025-09-13 | 2025-09-15 |

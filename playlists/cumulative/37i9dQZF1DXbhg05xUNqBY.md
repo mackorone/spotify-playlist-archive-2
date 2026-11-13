@@ -4,7 +4,7 @@
 
 > Let go and let God.
 
-496 songs - 1 day 9 hr 7 min
+497 songs - 1 day 9 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Better View](https://open.spotify.com/track/173RgJWVkioV5Ngb8U6q90) | [Switch](https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN) | [Better View](https://open.spotify.com/album/5fjwampEKoaXEv81pDDQQ5) | 2:48 | 2021-10-31 | 2022-12-06 |
 | [Between Garden and Glory](https://open.spotify.com/track/5SS74lv4c1dHRDv7J1Mj8g) | [The Dodds](https://open.spotify.com/artist/19PhCtCPPzv4CCepliG4hl) | [Between Garden and Glory](https://open.spotify.com/album/1DQrVH9FevzD9EkqDDYM6B) | 4:59 | 2025-12-13 | 2026-10-30 |
 | [Blessed](https://open.spotify.com/track/1bKaY9NsqoMlVopgtV0aCY) | [Rachael Lampa](https://open.spotify.com/artist/0rAp8I6gq67AJEmzWEJ1ri), [Stacie Orrico](https://open.spotify.com/artist/5QjWgYDeKNP2iPHTdTttnG) | [Blessed](https://open.spotify.com/album/0vnGzRXln9z7XcR3aZWAAw) | 4:36 | 2025-12-13 | 2026-03-24 |
+| [Blessed Jesus](https://open.spotify.com/track/4qf15MR21XysuAgjIUddLL) | [REVERENCE WORSHIP](https://open.spotify.com/artist/75qFFtEOPgfXs4BaACYBBY), [Martin Smith](https://open.spotify.com/artist/7ISMNhe95QNLqHgsCHAVeu) | [Blessed Jesus](https://open.spotify.com/album/2SAm3u26s4sqkXi9yBA6jP) | 4:07 | 2026-10-30 |  |
 | [Breath Of God](https://open.spotify.com/track/1IDRVJF7DE64bVXoQfyPcz) | [The Dodds](https://open.spotify.com/artist/19PhCtCPPzv4CCepliG4hl) | [Breath Of God](https://open.spotify.com/album/5pGmaqsp9zcRMrNQp7DfVm) | 5:00 | 2026-07-29 | 2026-08-21 |
 | [BREATHE](https://open.spotify.com/track/4yohajjrNUPdK9WB5ugoiK) | [Ashley Hess](https://open.spotify.com/artist/4s2GYqPWIthqzV5805rY6N) | [BREATHE](https://open.spotify.com/album/1S9MRjerTfmBCwwqQiBaRx) | 3:14 | 2026-10-30 |  |
 | [Breathe](https://open.spotify.com/track/4QvchxEDRzAosUOkZzJGI6) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [Note To Self](https://open.spotify.com/album/4Yj28bUARn3tih4X7zrdaw) | 2:52 | 2024-06-23 | 2025-04-05 |
@@ -99,7 +100,7 @@
 | [Every Day I Love You](https://open.spotify.com/track/51LgJSmjDz5BTmoVg7t2yf) | [Tenielle Neda](https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD) | [Every Day I Love You](https://open.spotify.com/album/2gQLhZ5ML6OQO8ZZmABpU9) | 2:49 | 2025-08-08 |  |
 | [Face to Face](https://open.spotify.com/track/5VNGIuWQoupmG0qM6nhZT5) | [Hope Harding](https://open.spotify.com/artist/3fYSZUjRkhyFiTP12kJtcb) | [Face to Face](https://open.spotify.com/album/6gbaORNejFL6hhGqBxPXgN) | 4:18 | 2025-08-08 | 2025-08-31 |
 | [Face to Face](https://open.spotify.com/track/09BRwLAwH6ebw0vuZPSv8q) | [Mark Barlow](https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl) | [Hymns & Soul](https://open.spotify.com/album/4hDfflz1fKAQt3ZRGVZ8cB) | 3:57 | 2023-02-07 | 2024-04-19 |
-| [Fairest Lord Jesus](https://open.spotify.com/track/4qbW6kGu1zkWbS0C0GCzp8) | [Andrew Osenga](https://open.spotify.com/artist/1lJC5MbTUW5ld4yXzNB0H4) | [Acoustic Hymns](https://open.spotify.com/album/2aUz0Z7fden3bFVVLkV83k) | 4:26 | 2026-10-30 |  |
+| [Fairest Lord Jesus](https://open.spotify.com/track/4qbW6kGu1zkWbS0C0GCzp8) | [Andrew Osenga](https://open.spotify.com/artist/1lJC5MbTUW5ld4yXzNB0H4) | [Acoustic Hymns](https://open.spotify.com/album/2aUz0Z7fden3bFVVLkV83k) | 4:26 | 2026-10-30 | 2026-11-13 |
 | [FAITH](https://open.spotify.com/track/1cwtGw7v2peqfQ5mH1L1s1) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [FAITH](https://open.spotify.com/album/6lzmdWMbhGb0vbW17XHhco) | 3:01 | 2026-07-29 | 2026-10-30 |
 | [Faithful \(To The End\)](https://open.spotify.com/track/6bp5xcAS8GhJA3ndU1L4xE) | [MUCH MORE](https://open.spotify.com/artist/0B1cF1eekag30vXyt0YWMs) | [Faithful \(To The End\)](https://open.spotify.com/album/0C7WzdyLTAtRyJ7ZNS3Bqp) | 3:10 | 2026-04-17 |  |
 | [Faithfulness](https://open.spotify.com/track/672qx8wmGouDn56vewnHQn) | [Road to Restoration](https://open.spotify.com/artist/5HNGuh45sTuaF2y8xr2nKt), [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd) | [Faithfulness & Kem Di Hallelujah](https://open.spotify.com/album/3QMYzQvw4pFbV3H5ZUJgw8) | 4:22 | 2025-04-05 | 2026-10-30 |

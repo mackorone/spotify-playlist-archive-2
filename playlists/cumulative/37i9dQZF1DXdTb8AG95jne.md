@@ -4,7 +4,7 @@
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: IDIOTAPE\)  \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-1,418 songs - 3 day 13 hr 58 min
+1,419 songs - 3 day 14 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1073,6 +1073,7 @@
 | [something](https://open.spotify.com/track/52FF2xeetk0dWtEwUkeWk8) | [Joob A](https://open.spotify.com/artist/4fiMU9JbjPoMn7PVtYPRWP) | [something](https://open.spotify.com/album/1r0uVhqU6StuTuErudEs7s) | 3:38 | 2024-04-30 | 2024-05-10 |
 | [Sometimes \(feat\. TAEKWOO\)](https://open.spotify.com/track/4mqemrVqzIwbCmg47N8rsR) | [Mozy](https://open.spotify.com/artist/4p4s0bzDRKqiaCuwM06GJK), [TAEKWOO](https://open.spotify.com/artist/5Zu4Ot9NEWCHZ8IP7poTDw) | [Sometimes](https://open.spotify.com/album/1jpX3nRiJHjx3jIwPY7iuK) | 3:16 | 2025-09-16 | 2025-10-30 |
 | [Sometimes When I Think Of You](https://open.spotify.com/track/3Ju3mN65kJ5bacdsZWhiEh) | [Han All](https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS) | [Sometimes When I Think Of You](https://open.spotify.com/album/1vCjVVq78cWT080hPJD5yZ) | 4:22 | 2022-03-31 | 2022-04-04 |
+| [Songbird](https://open.spotify.com/track/7bcYN6fNsQoR8qUFJbcGi4) | [O3ohn](https://open.spotify.com/artist/3ZPELd2uCgchQqhLgvrDrI) | [Songbird](https://open.spotify.com/album/3PeeS5hQOtp2766gCh5IXs) | 3:05 | 2026-11-11 |  |
 | [Sonorama 소노라마](https://open.spotify.com/track/2KiFvXAbBo4oEK50jmM1eG) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [Band Nah](https://open.spotify.com/artist/5td0g0Owd8ZYu7SVb6f9xh) | [New Edition 17](https://open.spotify.com/album/2SgtaKI0i6ZhLAbyXeSr8i) | 3:25 | 2022-02-18 | 2022-05-23 |
 | [soony rework \- 1 <In Front of the Iron Fence 철망 앞에서>](https://open.spotify.com/track/0Tso5swgphko9UerLX0VGW) | [장필순 Pil Soon Jang](https://open.spotify.com/artist/4IDTPedYQiZkdIWb3Bm2i2) | [soony rework \- 1 <In Front of the Iron Fence 철망 앞에서>](https://open.spotify.com/album/6I6HPXo2RsaEp0AKrTs8rb) | 5:59 | 2022-04-12 | 2022-04-17 |
 | [Sorrow](https://open.spotify.com/track/0XwGln1yachgJd8PMrfzZ5) | [kursor](https://open.spotify.com/artist/1E72qKtO7O98IKj51642TR) | [Sorrow](https://open.spotify.com/album/4j7fShY9MfyKPgq5czbii0) | 3:28 | 2022-05-03 | 2022-05-12 |

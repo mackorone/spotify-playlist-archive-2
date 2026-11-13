@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ7fMlF5ORU.md) - [plain]
 
 > A alegria do Senhor é a vossa força! Entre no groove com o melhor do Soul, Funk e Disco Cristão\. Foto: Eli Soares
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,481 likes - 80 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,509 likes - 80 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ7fMlF5ORU.md) - [plain]
 | 28 | [Nada Se Compara](https://open.spotify.com/track/7n7uvCFKSs9bO3Vsf4efTo) | [Coral Unasp](https://open.spotify.com/artist/67cOQCgsrJVge8gh0etuB2), [Garnet Lima](https://open.spotify.com/artist/5nIt3IhM8XjCA7LVFCgp9S) | [Nada Se Compara](https://open.spotify.com/album/3UeS120DmaRg42viHosGU6) | 3:01 |
 | 29 | [Zanzando](https://open.spotify.com/track/48hX8UdgWHuTcvamPbYDqr) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Luz \- Parte 1](https://open.spotify.com/album/1gobDPGHKYfG2yFf3jlCRX) | 3:41 |
 | 30 | [Tua Vontade \- Ao Vivo](https://open.spotify.com/track/6cHGFCtV4KxdqAon5BqTz7) | [PV Dantas](https://open.spotify.com/artist/4lYB1E5Ad1KMZDLL2G8y5Z), [2metro](https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV) | [Tua Vontade \(Ao Vivo\)](https://open.spotify.com/album/4hqMaCZwijfjD4sWL6U2Fz) | 3:27 |
-| 31 | [Ele Vem \- Ao Vivo](https://open.spotify.com/track/7hQHwgb9BVVL6NYIUIUiLr) | [ONE Service](https://open.spotify.com/artist/0kCOnrKSr2couo2O5uj2hP), [Julio Cesar](https://open.spotify.com/artist/30KgyZbMwuRzznOnbkb8sr) | [Ele Vem \(Ao Vivo\)](https://open.spotify.com/album/5HWqHBnIpw1welskR8ym0r) | 5:51 |
-| 32 | [Medley: Dom Supremo](https://open.spotify.com/track/2niQsGMsrqw5sYWRaqAKPO) | [Luciano Claw](https://open.spotify.com/artist/29cOjdDdQXsONEsNqNixeu) | [Por Amor a Ti](https://open.spotify.com/album/7xfnLd7REayaXqCwa697Mx) | 2:43 |
+| 31 | [Medley: Dom Supremo](https://open.spotify.com/track/2niQsGMsrqw5sYWRaqAKPO) | [Luciano Claw](https://open.spotify.com/artist/29cOjdDdQXsONEsNqNixeu) | [Por Amor a Ti](https://open.spotify.com/album/7xfnLd7REayaXqCwa697Mx) | 2:43 |
+| 32 | [Ele Vem \- Ao Vivo](https://open.spotify.com/track/7hQHwgb9BVVL6NYIUIUiLr) | [ONE Service](https://open.spotify.com/artist/0kCOnrKSr2couo2O5uj2hP), [Julio Cesar](https://open.spotify.com/artist/30KgyZbMwuRzznOnbkb8sr) | [Ele Vem \(Ao Vivo\)](https://open.spotify.com/album/5HWqHBnIpw1welskR8ym0r) | 5:51 |
 | 33 | [A Noiva \- Ao Vivo](https://open.spotify.com/track/2GLzW6hGMiPmYL15dPhbu5) | [Jéssica Augusto](https://open.spotify.com/artist/5lToDW3d2jgmKpVMi9RhHH) | [A Noiva \(Ao Vivo\)](https://open.spotify.com/album/5el6PFntbrTfCu6dVZID5o) | 5:43 |
 | 34 | [Celebre a Vida](https://open.spotify.com/track/0coa50eJz3TfUKpxAFtZGr) | [Bira Santos](https://open.spotify.com/artist/4ZjwX114IpBLzt2veAIZDM) | [Celebre a Vida](https://open.spotify.com/album/1x2gRCT6IBNYvW3kZF4lSf) | 4:04 |
 | 35 | [Mulher de Ló \- AO VIVO](https://open.spotify.com/track/1SMPAwlsSjeD7KFIrjS9lH) | [Kleber Lucas](https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N) | [Kleber Lucas ao vivo no Teatro Rival \(AO VIVO\)](https://open.spotify.com/album/76A83uRzxB9ySA6BLEKInf) | 3:57 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ7fMlF5ORU.md) - [plain]
 | 74 | [Santo, Santo, Santo \- Ao Vivo](https://open.spotify.com/track/07mrWfYD6KW61BQMa7Niav) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Memóri4s Groove \(Ao Vivo\)](https://open.spotify.com/album/6GAd3DjcN9LYhev1IRCbQ9) | 4:37 |
 | 75 | [Dele, Com Ele \- Ao Vivo](https://open.spotify.com/track/7CRUMlW5jTgcyQHTVMISED) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Vida \(Ao Vivo\)](https://open.spotify.com/album/2B3LKH2c59NTNXvEXA1cKW) | 4:18 |
 | 76 | [Eu Sou](https://open.spotify.com/track/3sEcVLYLPMdP2lOhw9aF47) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Eli Soares 10 Anos](https://open.spotify.com/album/2UsWM0txt8jjHSUgEAKcuq) | 3:57 |
-| 77 | [Oh Glória](https://open.spotify.com/track/3XXjak71y3Keeg7KPhpO2A) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Aonde Está Deus?](https://open.spotify.com/album/3CXe90GxZOBmxZidCtkwjY) | 3:59 |
-| 78 | [Viver O Amor \- Ao Vivo](https://open.spotify.com/track/2jJL6Tj2prWHaXnjLMnLcD) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V), [Felipe Vilela](https://open.spotify.com/artist/7oDJQjouTE3FiFv2TXUxPp) | [Vida \(Ao Vivo\)](https://open.spotify.com/album/2B3LKH2c59NTNXvEXA1cKW) | 3:50 |
+| 77 | [Viver O Amor \- Ao Vivo](https://open.spotify.com/track/2jJL6Tj2prWHaXnjLMnLcD) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V), [Felipe Vilela](https://open.spotify.com/artist/7oDJQjouTE3FiFv2TXUxPp) | [Vida \(Ao Vivo\)](https://open.spotify.com/album/2B3LKH2c59NTNXvEXA1cKW) | 3:50 |
+| 78 | [Oh Glória](https://open.spotify.com/track/3XXjak71y3Keeg7KPhpO2A) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Aonde Está Deus?](https://open.spotify.com/album/3CXe90GxZOBmxZidCtkwjY) | 3:59 |
 | 79 | [Agindo Deus](https://open.spotify.com/track/0Tdr4unuCWQ6DtEOGAQims) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [360 Graus](https://open.spotify.com/album/6i9ALb6S9vy8OAjcbBjDwq) | 3:54 |
 | 80 | [O Melhor Pra Mim \- Ao Vivo](https://open.spotify.com/track/0B6x3VODbBd7i0g55kQutl) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V), [Ed Motta](https://open.spotify.com/artist/19nFjml2GjS4LuL4NrDa7D) | [Vida \(Ao Vivo\)](https://open.spotify.com/album/2B3LKH2c59NTNXvEXA1cKW) | 4:06 |
 

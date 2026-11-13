@@ -1,6 +1,6 @@
 {
   "description": "<3<3<3<3",
-  "num_followers": 1074989,
+  "num_followers": 1074741,
   "original_name": "Kilig Pa More",
   "owner": {
     "name": "Spotify",
@@ -319,6 +319,22 @@
     {
       "added_at": "2026-10-05 03:33:42",
       "album": {
+        "name": "Soft",
+        "url": "https://open.spotify.com/album/2gfh9js0PqxJnWctC4au5k"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "duration_ms": 183803,
+      "name": "Stuck",
+      "url": "https://open.spotify.com/track/0GfWxo8gFJKgQ96tBrq3qo"
+    },
+    {
+      "added_at": "2026-10-05 03:33:42",
+      "album": {
         "name": "Palayo Sa Mundo",
         "url": "https://open.spotify.com/album/7qVzxGZdXhtNHai0fGB9uj"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 268571,
       "name": "Palayo Sa Mundo",
       "url": "https://open.spotify.com/track/4FVZYiCvdLIX8NpcY0lzda"
-    },
-    {
-      "added_at": "2026-10-05 03:33:42",
-      "album": {
-        "name": "Soft",
-        "url": "https://open.spotify.com/album/2gfh9js0PqxJnWctC4au5k"
-      },
-      "artists": [
-        {
-          "name": "LANY",
-          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
-        }
-      ],
-      "duration_ms": 183803,
-      "name": "Stuck",
-      "url": "https://open.spotify.com/track/0GfWxo8gFJKgQ96tBrq3qo"
     },
     {
       "added_at": "2026-10-05 03:33:42",

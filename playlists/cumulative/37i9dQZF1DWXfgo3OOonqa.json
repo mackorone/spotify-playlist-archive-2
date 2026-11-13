@@ -1568,7 +1568,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 147151,
       "name": "80\u2019s",
       "url": "https://open.spotify.com/track/6AxT9RkGn4stESjHvYYOks"
@@ -11410,7 +11410,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 120000,
       "name": "DIMMAN",
       "url": "https://open.spotify.com/track/6zimjp4dfG2jZbw2mg6DBp"
@@ -11912,7 +11912,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 125714,
       "name": "DON\u2019T DANCE",
       "url": "https://open.spotify.com/track/4cDdqJdRXpb8a35KWHP0m9"
@@ -22373,6 +22373,28 @@
     },
     {
       "album": {
+        "name": "Jag \u00c4r",
+        "url": "https://open.spotify.com/album/1D4DYGXJSCSJuTZVsQykAj"
+      },
+      "artists": [
+        {
+          "name": "Madi Banja",
+          "url": "https://open.spotify.com/artist/0LdzDrRc2RESpGqwyhbE3t"
+        },
+        {
+          "name": "Erik Lundin",
+          "url": "https://open.spotify.com/artist/0dCSPVQ30JS4cRaCTtbEmp"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162350,
+      "name": "Jag \u00c4r",
+      "url": "https://open.spotify.com/track/0pGMhNjIiLOBvvWPblXMTp"
+    },
+    {
+      "album": {
         "name": "Jagad",
         "url": "https://open.spotify.com/album/2mxHKGJzoWGtt6e67mrEUS"
       },
@@ -24145,6 +24167,24 @@
     },
     {
       "album": {
+        "name": "Kontakt",
+        "url": "https://open.spotify.com/album/5bBGv5ah2miczSc22w35wG"
+      },
+      "artists": [
+        {
+          "name": "3Z",
+          "url": "https://open.spotify.com/artist/6Q08v2ke3H6mEfIy263Zei"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129677,
+      "name": "Kontakt",
+      "url": "https://open.spotify.com/track/4jYQGVrdWW9zDLWZ1Ftd1B"
+    },
+    {
+      "album": {
         "name": "KONTAKT",
         "url": "https://open.spotify.com/album/16tqM6ATEkEsaiq5ozslFk"
       },
@@ -24922,6 +24962,28 @@
       "duration_ms": 141176,
       "name": "La Zone",
       "url": "https://open.spotify.com/track/56sdheKtWrNGifWrzIm0aF"
+    },
+    {
+      "album": {
+        "name": "Lacazette",
+        "url": "https://open.spotify.com/album/6FobqbG9DiWowFOufGur5H"
+      },
+      "artists": [
+        {
+          "name": "IRM\u00c3O",
+          "url": "https://open.spotify.com/artist/38FjF8j532u7xIWCw0ykGp"
+        },
+        {
+          "name": "4Key",
+          "url": "https://open.spotify.com/artist/5qlrWvC1cnBxcVOdXDYf5z"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149243,
+      "name": "Lacazette",
+      "url": "https://open.spotify.com/track/4zh6AndKhvOPPFOj18du84"
     },
     {
       "album": {
@@ -28771,6 +28833,24 @@
     },
     {
       "album": {
+        "name": "Mata shooters med adresser",
+        "url": "https://open.spotify.com/album/0aNXft4XTBZ5f50kkgh4pl"
+      },
+      "artists": [
+        {
+          "name": "24K",
+          "url": "https://open.spotify.com/artist/4kKkAIpkNWG3XpUIl9yENt"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168600,
+      "name": "Mata shooters med adresser",
+      "url": "https://open.spotify.com/track/6Li9B5Tv7lm8bpaqgohVYB"
+    },
+    {
+      "album": {
         "name": "MATADOR",
         "url": "https://open.spotify.com/album/35f2RCaqMqxU5dNv5v8n7U"
       },
@@ -29511,6 +29591,24 @@
     },
     {
       "album": {
+        "name": "Mia salvezza",
+        "url": "https://open.spotify.com/album/7HWOF9ZYh8LWaeRhvJcNMB"
+      },
+      "artists": [
+        {
+          "name": "Owen",
+          "url": "https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187636,
+      "name": "Mia salvezza",
+      "url": "https://open.spotify.com/track/1hzfBimLG6wYrZX8M6ugg8"
+    },
+    {
+      "album": {
         "name": "Mic Drop (Madame)",
         "url": "https://open.spotify.com/album/0wBxyyIKslQkFpD3EQ4VZb"
       },
@@ -29904,7 +30002,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 132480,
       "name": "MILLZ",
       "url": "https://open.spotify.com/track/4r0jKLk8aEU24dTEsKH7lJ"
@@ -38110,7 +38208,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 153000,
       "name": "SER DIG",
       "url": "https://open.spotify.com/track/6nZNnOkTbsjeZoZCIpp3Yt"
@@ -45958,7 +46056,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 134769,
       "name": "Valhalla",
       "url": "https://open.spotify.com/track/45C7Fmq35ooAUrtoTQv7tp"
@@ -48596,6 +48694,24 @@
       "duration_ms": 162295,
       "name": "X",
       "url": "https://open.spotify.com/track/7DYvcwCrtckSM5bidztQhj"
+    },
+    {
+      "album": {
+        "name": "X",
+        "url": "https://open.spotify.com/album/3hOXHMvLKw3iCuJI4yuUCL"
+      },
+      "artists": [
+        {
+          "name": "Tasha17k",
+          "url": "https://open.spotify.com/artist/3QgpgRgnODIPgu5NDEkcgd"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128939,
+      "name": "X",
+      "url": "https://open.spotify.com/track/77eJVyYbUiHtvDj8iZAWqa"
     },
     {
       "album": {

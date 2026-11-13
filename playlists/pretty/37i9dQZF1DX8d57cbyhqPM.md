@@ -2,26 +2,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d57cbyhqPM.md) - [plain]
 
 ### [Biso Na Biso](https://open.spotify.com/playlist/37i9dQZF1DX8d57cbyhqPM)
 
-> Du Congo, au monde 🌍 avec Tonton Tiakola et Tantine Theodora Theodora.
+> Du Congo, au monde 🌍 avec Tontons BabyDaiz et Tiakola.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,009 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,091 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [La Nocturne](https://open.spotify.com/track/4LRE0yUOAjUqK90vynrOMD) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh), [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2) | [La Nocturne](https://open.spotify.com/album/6xldPRD4EJrJp8SA4lDcIQ) | 3:41 |
+| 1 | [El Classico](https://open.spotify.com/track/1Q0SAIQM1UwhMo1niXOB5M) | [BabyDaiz](https://open.spotify.com/artist/75ffkjzl2yQm2wRvP5QL4s), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [El Classico](https://open.spotify.com/album/44Hco6UbPBieEbp0Q8Jl5w) | 2:51 |
 | 2 | [Denda](https://open.spotify.com/track/4PJALUBn6GZFsCRxHLNjGT) | [Ntaba 2 London](https://open.spotify.com/artist/0J1OPojYoKeyRGscpWrwPy) | [Denda](https://open.spotify.com/album/7gXEYdUI90CDe0vzhjIeQd) | 1:58 |
 | 3 | [X \- Ce que tu proposes](https://open.spotify.com/track/6KOHVB3PyIovtn6iMLrUxc) | [XVI](https://open.spotify.com/artist/0utiBmutysHdb0zXFCLMT2), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [XVI \(Vol\. I\)](https://open.spotify.com/album/2C6AVQT2o0lHjVjEkSWo5M) | 2:21 |
 | 4 | [Pourquoi ??](https://open.spotify.com/track/1BLdz8Hfb3my3XKJapaMYG) | [Dayarga](https://open.spotify.com/artist/5PcBbqK2yMNnbp7c3hRDuX) | [Pourquoi ??](https://open.spotify.com/album/6Qn1X8h93QFtKfdu0mwQ5W) | 2:17 |
 | 5 | [Résilience](https://open.spotify.com/track/4wPxGSktrLzcWef00yzh6k) | [Rebo](https://open.spotify.com/artist/5hfWGpLBqAOqZxb59eiXBb) | [Résilience](https://open.spotify.com/album/3yzapFRtc1Mk2Vc3M6OGrw) | 3:16 |
 | 6 | [Best](https://open.spotify.com/track/2oVib8c5Z46aiAwNj8Vcbq) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [WpointM](https://open.spotify.com/album/3DQjIYAljCg3htgIMPjLf8) | 3:42 |
 | 7 | [BRACELET](https://open.spotify.com/track/6S8erJASTt3KImpljxcQiR) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [La Rvfleuze](https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN) | [BRACELET](https://open.spotify.com/album/4L898G8nVXcQJ6hkc9NYw6) | 2:50 |
-| 8 | [C'Est Comme Ca La Vie](https://open.spotify.com/track/2xarq2O9fLj1Dl0ZCsXU0Q) | [Patience Dabany](https://open.spotify.com/artist/0I4hm86r145kyusXtEIqSL), [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV), [Muss](https://open.spotify.com/artist/5aVHaNk2FbuffjdIsnCmNm) | [Dernière danse \(Vol 7 Inédit\)](https://open.spotify.com/album/35AHZednd5EmoXfL8PP1AR) | 4:20 |
-| 9 | [Mama Mipende](https://open.spotify.com/track/7aWCjvwgrJmiHOX1t8Gf4w) | [Hulk](https://open.spotify.com/artist/2D2Wm1oAJrDRzXVzxkyBOE) | [Mama Mipende](https://open.spotify.com/album/1NavpZVJH5ApdYPQa0LhjA) | 1:30 |
-| 10 | [DONGI](https://open.spotify.com/track/3JyQNsik8nNB5qaOk9iUOg) | [Joe Gez](https://open.spotify.com/artist/7qVQ6lpoxUeAW4QKafkW6z), [Zara Williams](https://open.spotify.com/artist/6cDW8p42zhFhvAbiCPeGQB), [GEZATI](https://open.spotify.com/artist/2P5YIrbsQkx7dynU6Al0yP) | [DONGI](https://open.spotify.com/album/6LMWY9gtFXYgvZuIfEYJ24) | 3:14 |
-| 11 | [4](https://open.spotify.com/track/0TwQx4EjJbI0WCmnP8n4HO) | [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9) | [4](https://open.spotify.com/album/5nVnAPXT2kZrNZbA86IWXu) | 2:20 |
-| 12 | [BONNIE](https://open.spotify.com/track/4qR2MiJJTVLFjboDX2kVh8) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [BONNIE](https://open.spotify.com/album/1Ihlnpxhr5mOuPiTwtoHg5) | 2:57 |
-| 13 | [NZELA](https://open.spotify.com/track/1xBS5qYuqGDF4nTlgItgcq) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [NZELA](https://open.spotify.com/album/38rowpiWYFIVqvrL6UFK7s) | 3:11 |
-| 14 | [Awa 2.0](https://open.spotify.com/track/2pw68nPm4am4VJsPKv9ZGd) | [Croc De Owner](https://open.spotify.com/artist/5wRK5A9rrokA0ue3r7KH4D), [SALIMA CHICA](https://open.spotify.com/artist/0K27AaIekeMBOznvvoVstw) | [Awa 2.0](https://open.spotify.com/album/6xbwYwDm9ndhMTQyk2qY0v) | 6:56 |
+| 8 | [La Nocturne](https://open.spotify.com/track/4LRE0yUOAjUqK90vynrOMD) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh), [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2) | [La Nocturne](https://open.spotify.com/album/6xldPRD4EJrJp8SA4lDcIQ) | 3:41 |
+| 9 | [C'Est Comme Ca La Vie](https://open.spotify.com/track/2xarq2O9fLj1Dl0ZCsXU0Q) | [Patience Dabany](https://open.spotify.com/artist/0I4hm86r145kyusXtEIqSL), [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV), [Muss](https://open.spotify.com/artist/5aVHaNk2FbuffjdIsnCmNm) | [Dernière danse \(Vol 7 Inédit\)](https://open.spotify.com/album/35AHZednd5EmoXfL8PP1AR) | 4:20 |
+| 10 | [Mama Mipende](https://open.spotify.com/track/7aWCjvwgrJmiHOX1t8Gf4w) | [Hulk](https://open.spotify.com/artist/2D2Wm1oAJrDRzXVzxkyBOE) | [Mama Mipende](https://open.spotify.com/album/1NavpZVJH5ApdYPQa0LhjA) | 1:30 |
+| 11 | [DONGI](https://open.spotify.com/track/3JyQNsik8nNB5qaOk9iUOg) | [Joe Gez](https://open.spotify.com/artist/7qVQ6lpoxUeAW4QKafkW6z), [Zara Williams](https://open.spotify.com/artist/6cDW8p42zhFhvAbiCPeGQB), [GEZATI](https://open.spotify.com/artist/2P5YIrbsQkx7dynU6Al0yP) | [DONGI](https://open.spotify.com/album/6LMWY9gtFXYgvZuIfEYJ24) | 3:14 |
+| 12 | [4](https://open.spotify.com/track/0TwQx4EjJbI0WCmnP8n4HO) | [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9) | [4](https://open.spotify.com/album/5nVnAPXT2kZrNZbA86IWXu) | 2:20 |
+| 13 | [BONNIE](https://open.spotify.com/track/4qR2MiJJTVLFjboDX2kVh8) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [BONNIE](https://open.spotify.com/album/1Ihlnpxhr5mOuPiTwtoHg5) | 2:57 |
+| 14 | [NZELA](https://open.spotify.com/track/1xBS5qYuqGDF4nTlgItgcq) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [NZELA](https://open.spotify.com/album/38rowpiWYFIVqvrL6UFK7s) | 3:11 |
 | 15 | [Coco na Yam](https://open.spotify.com/track/7rMJWzRdUHwoIQD06GR5QE) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW), [Ferre Gola](https://open.spotify.com/artist/0is7KJiz3t87LiJWUO1tNI) | [It's Yemi Alade](https://open.spotify.com/album/2c3m38ZFnMRkvp0jmJ7DDo) | 3:28 |
 | 16 | [Wanna Dance](https://open.spotify.com/track/19g1zuYxcp7Lg3hF4VSV5I) | [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Wanna Dance](https://open.spotify.com/album/7xma0F79Vw7xxNbwp87wTu) | 6:05 |
 | 17 | [25](https://open.spotify.com/track/1Y9V9dPUT7dw23Asjoqwhl) | [Chily](https://open.spotify.com/artist/0mnNM5o7vtxo3ivC7Tmoah), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [25](https://open.spotify.com/album/2AdP0LwBuxGAKr2Wo4Chlw) | 2:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d57cbyhqPM.md) - [plain]
 | 49 | [MAMI WATA](https://open.spotify.com/track/6yqwxY8qifBBhyryjZutxk) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [LA MELO EST GANGX](https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1) | 3:52 |
 | 50 | [Rendez\-vous \- remix](https://open.spotify.com/track/1cBNtQbva5A8uZTV2bsqUq) | [PSON](https://open.spotify.com/artist/1Fxk1V3Q9mWXoUKX1LnEAt), [Cysoul](https://open.spotify.com/artist/212RAD04CL3a1XwexVB129) | [Rendez\-vous \(remix\)](https://open.spotify.com/album/1ORzROrvh2HD1ilsOWbQt7) | 3:17 |
 
-Snapshot ID: `AAAAAEWiys3NN2Zfr15y2rLCzJeobQ/n`
+Snapshot ID: `AAAAADNRsyNxoEgwtkcufd9DfD6TPyzc`

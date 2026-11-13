@@ -17369,6 +17369,32 @@
     },
     {
       "album": {
+        "name": "OCEAN EYES",
+        "url": "https://open.spotify.com/album/1pZXpeAuUa2vOKZ1yd3CK8"
+      },
+      "artists": [
+        {
+          "name": "WHOiSEE",
+          "url": "https://open.spotify.com/artist/7pA2OyYV0LxwdOvzJJe7CH"
+        },
+        {
+          "name": "ARKIIN",
+          "url": "https://open.spotify.com/artist/3cMxYJXz3hB6rmjmp12DK3"
+        },
+        {
+          "name": "Elle Vee",
+          "url": "https://open.spotify.com/artist/7b1FMiWXZwOBsxi0uWw6wH"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "OCEAN EYES",
+      "url": "https://open.spotify.com/track/0NuCDPkaoiyfGEHXADvzvF"
+    },
+    {
+      "album": {
         "name": "October",
         "url": "https://open.spotify.com/album/1qPdose5MyZE37xgnGKz1e"
       },
@@ -27240,6 +27266,32 @@
       "duration_ms": 220500,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/49Y95L9PEgmiU8grfUF2el"
+    },
+    {
+      "album": {
+        "name": "Wildfire",
+        "url": "https://open.spotify.com/album/6jeE5vtviufpGBqV4tb994"
+      },
+      "artists": [
+        {
+          "name": "MitiS",
+          "url": "https://open.spotify.com/artist/16yUpGkBRgc2eDMd3bB3Uw"
+        },
+        {
+          "name": "FLOTE",
+          "url": "https://open.spotify.com/artist/5GlpEfsBmDxKXL5Sr3ZTMO"
+        },
+        {
+          "name": "Violyt",
+          "url": "https://open.spotify.com/artist/58dODJDrNq8DHvx5CJDJgd"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191811,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/4qTWnYehSsQRKM29JfSYCF"
     },
     {
       "album": {

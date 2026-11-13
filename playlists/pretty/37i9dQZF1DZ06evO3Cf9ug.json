@@ -1,12 +1,12 @@
 {
   "description": "This is Tems. The essential tracks, all in one playlist.",
-  "num_followers": 156407,
+  "num_followers": 156544,
   "original_name": "This Is Tems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avENAAAAAAAkIOtOVlqlb0SqanlOGsw6",
+  "snapshot_id": "avOwAAAAAACqgZu0kP0WS0przsAe12yG",
   "tracks": [
     {
       "added_at": null,
@@ -767,30 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SWAG LIVE FROM COACHELLA (Weekend I)",
-        "url": "https://open.spotify.com/album/3oPUIxsRBq2riLShD6V2m8"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 252053,
-      "name": "ESSENCE",
-      "url": "https://open.spotify.com/track/3Pf5zVXlpgUOs0pT1IiYjb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Palmwine Express",
         "url": "https://open.spotify.com/album/46m9079uCxKSFAwMFfadwf"
       },
@@ -811,6 +787,30 @@
       "duration_ms": 235101,
       "name": "Too Bad",
       "url": "https://open.spotify.com/track/1YVBEEDyXlWHOrZCgbSsot"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SWAG LIVE FROM COACHELLA (Weekend I)",
+        "url": "https://open.spotify.com/album/3oPUIxsRBq2riLShD6V2m8"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 252053,
+      "name": "ESSENCE",
+      "url": "https://open.spotify.com/track/3Pf5zVXlpgUOs0pT1IiYjb"
     },
     {
       "added_at": null,
@@ -851,26 +851,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blackmagic Version 3.0 (Starving Artist)",
-        "url": "https://open.spotify.com/album/0uoZGAda5pPCSU2yfoZNx5"
-      },
-      "artists": [
-        {
-          "name": "Blackmagic",
-          "url": "https://open.spotify.com/artist/711uESshM9OxGFc3lT8CL8"
-        },
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 184799,
-      "name": "Soon",
-      "url": "https://open.spotify.com/track/1kfQmWnwajgFHQhJMvk6LF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Palmwine Express",
         "url": "https://open.spotify.com/album/46m9079uCxKSFAwMFfadwf"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 168247,
       "name": "Tales By Moonlight",
       "url": "https://open.spotify.com/track/41dadXGDnC0DZfBmOHC1l1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blackmagic Version 3.0 (Starving Artist)",
+        "url": "https://open.spotify.com/album/0uoZGAda5pPCSU2yfoZNx5"
+      },
+      "artists": [
+        {
+          "name": "Blackmagic",
+          "url": "https://open.spotify.com/artist/711uESshM9OxGFc3lT8CL8"
+        },
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 184799,
+      "name": "Soon",
+      "url": "https://open.spotify.com/track/1kfQmWnwajgFHQhJMvk6LF"
     },
     {
       "added_at": null,

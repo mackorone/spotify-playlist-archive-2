@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-07-30",
-  "description": "Dreamy melodies and hushed vocals. Cover: Ghostly Kisses",
+  "description": "Dreamy melodies and hushed vocals. Cover: Gabriella Bee",
   "name": "Bedroom Pop",
   "tracks": [
     {
@@ -4102,7 +4102,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 136011,
       "name": "Cute",
       "url": "https://open.spotify.com/track/5Io5zi4VLNLSV0HZ0muPPW"
@@ -4268,6 +4268,24 @@
       "duration_ms": 181094,
       "name": "Darling I Do",
       "url": "https://open.spotify.com/track/4HQPftni948NDA17ajheQQ"
+    },
+    {
+      "album": {
+        "name": "daydream",
+        "url": "https://open.spotify.com/album/2gvlIWggmJfiOr6RfwVYFF"
+      },
+      "artists": [
+        {
+          "name": "Ivytide",
+          "url": "https://open.spotify.com/artist/1FYG11siqeY73Lu2hrFMYp"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185500,
+      "name": "daydream",
+      "url": "https://open.spotify.com/track/1aqGJEUdNQaSrtNXeHFws8"
     },
     {
       "album": {
@@ -11386,7 +11404,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 202616,
       "name": "Mood Ring",
       "url": "https://open.spotify.com/track/7rDj3Mst01U7U6GmfHImZT"
@@ -13230,7 +13248,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 216651,
       "name": "Please",
       "url": "https://open.spotify.com/track/1JYpAqXg2HwCfTMKzr6VXK"
@@ -14106,7 +14124,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 154000,
       "name": "Sad",
       "url": "https://open.spotify.com/track/1LsbKa4Wr0aQwDYKK1Yueq"
@@ -14752,7 +14770,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-05",
+      "date_removed": null,
       "duration_ms": 215110,
       "name": "Show Me How",
       "url": "https://open.spotify.com/track/01TyFEZu6mHbffsVfxgrFn"
@@ -15824,6 +15842,24 @@
       "duration_ms": 188374,
       "name": "Start The Show",
       "url": "https://open.spotify.com/track/6F9S6CMJZU8utXfjoV7vAX"
+    },
+    {
+      "album": {
+        "name": "Steady",
+        "url": "https://open.spotify.com/album/2baQtWqbXN5xXxUHJ0GwaV"
+      },
+      "artists": [
+        {
+          "name": "Shaina Hayes",
+          "url": "https://open.spotify.com/artist/07BSJfATf49EmPNOzM01cZ"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252033,
+      "name": "Steady",
+      "url": "https://open.spotify.com/track/42Ux4Cb5iR6prDveFvLNv9"
     },
     {
       "album": {
@@ -18928,6 +18964,24 @@
       "duration_ms": 219000,
       "name": "Where is the night flame",
       "url": "https://open.spotify.com/track/7pepl08YPjjhGxDIJUJ5rg"
+    },
+    {
+      "album": {
+        "name": "whiplash",
+        "url": "https://open.spotify.com/album/0gWJNCsbesxslnMabROiRh"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Bee",
+          "url": "https://open.spotify.com/artist/4z0EquFxDCtiHuPGiWDCq1"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158390,
+      "name": "whiplash",
+      "url": "https://open.spotify.com/track/0DbOLpTyYnS2z95rifxMSJ"
     },
     {
       "album": {

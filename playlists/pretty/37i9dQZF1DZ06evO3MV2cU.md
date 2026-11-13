@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MV2cU.md) - [plain]
 
 > This is Chris Tomlin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,868 likes - 50 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,871 likes - 50 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MV2cU.md) - [plain]
 | 18 | [How Great Is Our God](https://open.spotify.com/track/0R34dLuWSMDYnOg50L5qqL) | [The Maker & The Instrument](https://open.spotify.com/artist/0HQiwspXm03L5BmzTgK1hV), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Instrumental Songs Of Worship](https://open.spotify.com/album/3DzhS9CumbDVCkB7WYvtEX) | 5:49 |
 | 19 | [Everlasting God](https://open.spotify.com/track/1cUyNauQChHpZm4RIe2Yuy) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [See The Morning \(Special Edition\)](https://open.spotify.com/album/3VAqfKdNkk3em16aadExkd) | 4:22 |
 | 20 | [Home](https://open.spotify.com/track/2aMb1asq5acm7cDYlFsYhY) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Never Lose Sight \(Deluxe Edition\)](https://open.spotify.com/album/7BK26n0Gkw7bvAlAUdU53F) | 3:39 |
-| 21 | [Thank You Lord \(feat\. Thomas Rhett & Florida Georgia Line\)](https://open.spotify.com/track/1k9dLBzwep1k1eGP0Ec8ZK) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Chris Tomlin & Friends](https://open.spotify.com/album/1tk6wHfQdW92NyYa9YKnfP) | 2:48 |
+| 21 | [The Cross](https://open.spotify.com/track/3BYjy9SgiD9BbBPdhOfRg5) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [REBEL](https://open.spotify.com/album/0sJhrYC1988r2NNxsmzk3V) | 3:41 |
 | 22 | [Amazing Grace \(My Chains Are Gone\)](https://open.spotify.com/track/7HB2ekhcwwsyZ9Vta4s7LP) | [The Maker & The Instrument](https://open.spotify.com/artist/0HQiwspXm03L5BmzTgK1hV), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Instrumental Songs Of Worship](https://open.spotify.com/album/3DzhS9CumbDVCkB7WYvtEX) | 4:58 |
-| 23 | [The Cross](https://open.spotify.com/track/3BYjy9SgiD9BbBPdhOfRg5) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [REBEL](https://open.spotify.com/album/0sJhrYC1988r2NNxsmzk3V) | 3:41 |
+| 23 | [Thank You Lord \(feat\. Thomas Rhett & Florida Georgia Line\)](https://open.spotify.com/track/1k9dLBzwep1k1eGP0Ec8ZK) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Chris Tomlin & Friends](https://open.spotify.com/album/1tk6wHfQdW92NyYa9YKnfP) | 2:48 |
 | 24 | [Forever](https://open.spotify.com/track/6ChFsa3xElTTIJAo460out) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [How Great Is Our God: The Essential Collection](https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu) | 5:26 |
 | 25 | [I Lift My Hands](https://open.spotify.com/track/4qGwoTBvRhJ7YGeoQGytJV) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [And If Our God Is For Us...](https://open.spotify.com/album/2xwFfH8fO1MRmWZbNKZVqt) | 4:38 |
 | 26 | [Your Grace Is Enough](https://open.spotify.com/track/6nVzKwxkRdm5ZM7rMDCwE1) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Arriving](https://open.spotify.com/album/4cCT11g6AEsDrDkyAome9f) | 4:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MV2cU.md) - [plain]
 | 49 | [Help My Unbelief \- Acoustic](https://open.spotify.com/track/2NHRSVGALcjEfEIV9X0yRt) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Help My Unbelief](https://open.spotify.com/album/0IFLYIJTTtebsHLeSrEtKQ) | 3:26 |
 | 50 | [God's Great Dance Floor](https://open.spotify.com/track/2nVmKOoqzbHt5YMT3dzLnp) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Burning Lights](https://open.spotify.com/album/3tSSB1DofuOXRnNXPDjwiW) | 3:38 |
 
-Snapshot ID: `avENAAAAAACJHSKe70pFOE2Gvvq0oHqL`
+Snapshot ID: `avOwAAAAAAAceqSEIJ9MImRbFcej4dFb`

@@ -463,6 +463,24 @@
     },
     {
       "album": {
+        "name": "Aline",
+        "url": "https://open.spotify.com/album/6jUfMyBDp1KPuCjW1MMXZj"
+      },
+      "artists": [
+        {
+          "name": "Opaline Monarque",
+          "url": "https://open.spotify.com/artist/5Aac4kbP69VaMEt67lEiKD"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151059,
+      "name": "Aline",
+      "url": "https://open.spotify.com/track/67u5S8u9ymR5RMRbZ1MZn7"
+    },
+    {
+      "album": {
         "name": "Allow Me To Dream",
         "url": "https://open.spotify.com/album/2Y7wT3pAlOKNvk9d2vcPyA"
       },
@@ -658,6 +676,24 @@
       "duration_ms": 144782,
       "name": "Anatomy of Change",
       "url": "https://open.spotify.com/track/1kh6iEcYhNL6jbMr5BVEVG"
+    },
+    {
+      "album": {
+        "name": "Ancient Asterism",
+        "url": "https://open.spotify.com/album/42gmNS4CL26IhACyuB2gxX"
+      },
+      "artists": [
+        {
+          "name": "Triangular Prism III",
+          "url": "https://open.spotify.com/artist/0SxMFbx9jy8q9pGSJoopmf"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170089,
+      "name": "Ancient Asterism",
+      "url": "https://open.spotify.com/track/7jKvWxfAIuMZsVcP9ozBRu"
     },
     {
       "album": {
@@ -1076,6 +1112,24 @@
       "duration_ms": 151243,
       "name": "Aura",
       "url": "https://open.spotify.com/track/2quE9M1AL9B7T6iSjzeT0o"
+    },
+    {
+      "album": {
+        "name": "Aureliata",
+        "url": "https://open.spotify.com/album/5U4LrFDMIM8zrpDVPQxeuX"
+      },
+      "artists": [
+        {
+          "name": "Evanesce",
+          "url": "https://open.spotify.com/artist/5UPSHUrbSsFQCpKhIi9nr8"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Aureliata",
+      "url": "https://open.spotify.com/track/5IeU1WwL0BKSH4eXoizOhu"
     },
     {
       "album": {
@@ -9371,6 +9425,24 @@
     },
     {
       "album": {
+        "name": "Nattvila",
+        "url": "https://open.spotify.com/album/0cbLEUooNJf3AbdLQ3eOaq"
+      },
+      "artists": [
+        {
+          "name": "Alexander Brinkman",
+          "url": "https://open.spotify.com/artist/00PBaUiEJHzToevJcWXv4M"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Nattvila",
+      "url": "https://open.spotify.com/track/5qYyaFNIfeZmtBAyOZx8HL"
+    },
+    {
+      "album": {
         "name": "Forest Wisdom",
         "url": "https://open.spotify.com/album/6hZoc7bZWQxSUg0DyPMYIa"
       },
@@ -9908,6 +9980,32 @@
       "duration_ms": 149935,
       "name": "Noqueue",
       "url": "https://open.spotify.com/track/6UwHHL5Td690uBRy4ZzzWV"
+    },
+    {
+      "album": {
+        "name": "Northbound Air",
+        "url": "https://open.spotify.com/album/0jqC8DLQM8Ae7vUNDlru6E"
+      },
+      "artists": [
+        {
+          "name": "Sagamo",
+          "url": "https://open.spotify.com/artist/4pDaBlpZTovRy5UjuBUC0l"
+        },
+        {
+          "name": "Sizmara",
+          "url": "https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX"
+        },
+        {
+          "name": "Mshvidi",
+          "url": "https://open.spotify.com/artist/2QG2CJC7IycOyrak6NaFvj"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169199,
+      "name": "Northbound Air",
+      "url": "https://open.spotify.com/track/6X6FCiehGjLPp3vPj25c1O"
     },
     {
       "album": {
@@ -11049,6 +11147,24 @@
     },
     {
       "album": {
+        "name": "Positive Flow",
+        "url": "https://open.spotify.com/album/649O2yNGlkg9bfo39lqrU5"
+      },
+      "artists": [
+        {
+          "name": "Silence Concertos",
+          "url": "https://open.spotify.com/artist/4LryoteCJZPv9bdisFtRFX"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157802,
+      "name": "Positive Flow",
+      "url": "https://open.spotify.com/track/2miELLIoKaIqx9mpyWn55j"
+    },
+    {
+      "album": {
         "name": "Positive Thinking",
         "url": "https://open.spotify.com/album/6hjpo4AgZRiIRsjCQEwjM0"
       },
@@ -11298,6 +11414,24 @@
       "duration_ms": 214750,
       "name": "Purpose",
       "url": "https://open.spotify.com/track/5GzuDxMuqENSCZ61rb3Zex"
+    },
+    {
+      "album": {
+        "name": "Quadra",
+        "url": "https://open.spotify.com/album/5AirsIsaRLo6VZVS5DOMVD"
+      },
+      "artists": [
+        {
+          "name": "Elunara Mare",
+          "url": "https://open.spotify.com/artist/52VdaCQAM3PCg8pQjPUaEV"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Quadra",
+      "url": "https://open.spotify.com/track/6KuSYNaOY3rmCQW0zFVcRC"
     },
     {
       "album": {
@@ -15319,6 +15453,24 @@
     },
     {
       "album": {
+        "name": "Velora",
+        "url": "https://open.spotify.com/album/3QmCPFL926ECODftHtIB6N"
+      },
+      "artists": [
+        {
+          "name": "Moon Waves",
+          "url": "https://open.spotify.com/artist/4culOc37QVV7jSX09VKt96"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155018,
+      "name": "Velora",
+      "url": "https://open.spotify.com/track/5FmqfSO2BqjKSUduFmjX3E"
+    },
+    {
+      "album": {
         "name": "Veloria",
         "url": "https://open.spotify.com/album/3I1B7Fg3wc5E1UlCDEt6Qi"
       },
@@ -16112,6 +16264,24 @@
       "duration_ms": 200094,
       "name": "Winter",
       "url": "https://open.spotify.com/track/26aVqLHRrWVeWkeDF7BcnS"
+    },
+    {
+      "album": {
+        "name": "Wintertide",
+        "url": "https://open.spotify.com/album/2G7A7Zlk0vOtGq33zbTWz4"
+      },
+      "artists": [
+        {
+          "name": "Ever So Blue",
+          "url": "https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140624,
+      "name": "Wintertide",
+      "url": "https://open.spotify.com/track/3TY5N1igLDKbxWNwrCMFdl"
     },
     {
       "album": {

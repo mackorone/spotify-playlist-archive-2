@@ -4,7 +4,7 @@
 
 > New music picks every Friday from your friends at Brownies &amp; Lemonade
 
-5,649 songs - 13 day 2 hr 51 min
+5,649 songs - 13 day 2 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2608,7 +2608,7 @@
 | [Is Everybody Having Fun? \(feat\. rhys from the sticks\)](https://open.spotify.com/track/47w21Lurejb4n3r09H19Fz) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [rhys from the sticks](https://open.spotify.com/artist/4tmqN5uP0Aj50ylHgfwvVa) | [Is Everybody Having Fun? \(feat\. rhys from the sticks\)](https://open.spotify.com/album/7GEjLJopkc7pA63tWzq5Jl) | 2:49 | 2025-06-20 | 2025-07-19 |
 | [Is It Over Now?](https://open.spotify.com/track/7a1HZI7drZ3Rn0EYGAnrgC) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Is It Over Now?](https://open.spotify.com/album/05d5EqS6Ti2DXSO8WfAkbv) | 3:39 | 2026-05-29 | 2026-06-27 |
 | [Is It Real \(feat\. Ravyn Lenae\)](https://open.spotify.com/track/3tYxKs4D1Xqyt9xR8soVdr) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [We Live In A Society](https://open.spotify.com/album/2NvuDARjVRkDMZAHnx8ll5) | 2:49 | 2025-05-02 | 2025-05-31 |
-| [Is There Really No Happiness? \- Frost Children Remix](https://open.spotify.com/track/6iXAhlrnNaDDtlSTYDknex) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam), [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag) | [SMILE! :D plus+](https://open.spotify.com/album/7aPEoTeFJSI5TrMqlPRmUK) | 6:08 | 2026-11-06 |  |
+| [Is There Really No Happiness? \- Frost Children Remix](https://open.spotify.com/track/6iXAhlrnNaDDtlSTYDknex) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam), [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag) | [SMILE! :D plus+](https://open.spotify.com/album/7aPEoTeFJSI5TrMqlPRmUK) | 6:16 | 2026-11-06 |  |
 | [Is this a dream?](https://open.spotify.com/track/5Uc4lFuLehruhbkgLcErrs) | [Justin Jay](https://open.spotify.com/artist/5k5eiijuHxrGwXp2Pz37GZ), [Don Jamal](https://open.spotify.com/artist/3b1DIrWDwR8A5gxBgWt0DV) | [Is this a dream?](https://open.spotify.com/album/7v80FGDLXpH7NublQR44NB) | 2:16 | 2024-08-30 | 2024-09-28 |
 | [Is This Love](https://open.spotify.com/track/6g9LmVrQJPVYSeBdPVxrrr) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ) | [Dotr](https://open.spotify.com/album/4XyaObpQDL61LtLerqAeHx) | 3:57 | 2024-10-18 | 2024-11-16 |
 | [Is This Real?](https://open.spotify.com/track/2REAg8QpTh6Tt7nqGFjAjN) | [Zingara](https://open.spotify.com/artist/5LxbXRVEMOw6i1WSa2YQn1), [Steller](https://open.spotify.com/artist/7fNu9x4iV166BQmQQKOmXl) | [Is This Real?](https://open.spotify.com/album/73dzm1a6T92fFTJ6MiwDiu) | 2:21 | 2025-08-15 | 2025-09-13 |

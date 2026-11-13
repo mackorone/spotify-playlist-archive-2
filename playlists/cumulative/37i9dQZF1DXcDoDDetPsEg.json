@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "The Biggest Hip Hop, UK Rap, R&B, Dancehall, Reggae, Soca & Afrobeats playlist. Cover: Lil Baby",
+  "description": "The Biggest Hip Hop, UK Rap, R&B, Dancehall, Reggae, Soca & Afrobeats playlist. Cover: Chip",
   "name": "Who We Be",
   "tracks": [
     {
@@ -8565,6 +8565,36 @@
     },
     {
       "album": {
+        "name": "Deyah",
+        "url": "https://open.spotify.com/album/1Ri2N5eENG9BPGnqpWTckm"
+      },
+      "artists": [
+        {
+          "name": "Chip",
+          "url": "https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT"
+        },
+        {
+          "name": "Mavado",
+          "url": "https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu"
+        },
+        {
+          "name": "Govana",
+          "url": "https://open.spotify.com/artist/5Xi3NfsVBIEbaWVUfBTy39"
+        },
+        {
+          "name": "Friends Only",
+          "url": "https://open.spotify.com/artist/0EF4AfflaI8N4XDajX10pA"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235150,
+      "name": "Deyah",
+      "url": "https://open.spotify.com/track/70xQXhm7BKijW4MRvQtizM"
+    },
+    {
+      "album": {
         "name": "DFMU",
         "url": "https://open.spotify.com/album/4QyarUpVRUQ2NCsf7NBO3k"
       },
@@ -9720,6 +9750,28 @@
       "duration_ms": 220002,
       "name": "Drip Drip (feat. Nines, MIST, MoStack & Mastermind)",
       "url": "https://open.spotify.com/track/6eaeMeozj8RUHjsOUcubZU"
+    },
+    {
+      "album": {
+        "name": "DRTY",
+        "url": "https://open.spotify.com/album/1aao8FuXkxeH7xLcGlSmx8"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200816,
+      "name": "DRTY",
+      "url": "https://open.spotify.com/track/4v908d71nMHw4sRRx5YTZQ"
     },
     {
       "album": {
@@ -11010,7 +11062,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 148588,
       "name": "FAVORITE LOVER",
       "url": "https://open.spotify.com/track/6YpqsRJaz6M7rZtUc6ZHpj"
@@ -15718,7 +15770,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 157107,
       "name": "House Call",
       "url": "https://open.spotify.com/track/1P2YMHIhDi0Oszip9SpdtS"
@@ -19086,6 +19138,24 @@
       "duration_ms": 169364,
       "name": "Lean (feat. Giggs)",
       "url": "https://open.spotify.com/track/0OCEAU4VxIyLCfWBNRayAP"
+    },
+    {
+      "album": {
+        "name": "Leave You (Never)",
+        "url": "https://open.spotify.com/album/719K239D6kQI3oi3Bw8rbJ"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168154,
+      "name": "Leave You (Never)",
+      "url": "https://open.spotify.com/track/3e3CdVMNH7gIvjKrzO63b7"
     },
     {
       "album": {
@@ -28594,7 +28664,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 206000,
       "name": "Rise Up",
       "url": "https://open.spotify.com/track/6UyTG7dDTWgNJWHpGqKiJE"
@@ -34188,7 +34258,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 188571,
       "name": "Tink Bout It",
       "url": "https://open.spotify.com/track/4rS6RADJ3qxV0YUtDNJ20D"
@@ -37736,6 +37806,32 @@
       "duration_ms": 226000,
       "name": "Why Lie?",
       "url": "https://open.spotify.com/track/6NpWosxIza4XEiGk190FAy"
+    },
+    {
+      "album": {
+        "name": "GMFU",
+        "url": "https://open.spotify.com/album/0sjhU3kzHU2dfd6SVrzLIp"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Loe Shimmy",
+          "url": "https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169759,
+      "name": "Why Not (feat. Quavo & Loe Shimmy)",
+      "url": "https://open.spotify.com/track/3ag3REuwHRHF8kYQffQ8pn"
     },
     {
       "album": {

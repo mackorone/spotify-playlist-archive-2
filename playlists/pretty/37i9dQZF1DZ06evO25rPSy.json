@@ -1,12 +1,12 @@
 {
   "description": "This is Pedro Su\u00e1rez-V\u00e9rtiz. The essential tracks, all in one playlist.",
-  "num_followers": 25276,
+  "num_followers": 25275,
   "original_name": "This Is Pedro Su\u00e1rez-V\u00e9rtiz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avENAAAAAABKvWuGzRLT97LX8wXnHsOJ",
+  "snapshot_id": "avOwAAAAAAC3hpPGKvL5Yytj3x9MfyCw",
   "tracks": [
     {
       "added_at": null,
@@ -331,18 +331,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Degeneracion Actual",
-        "url": "https://open.spotify.com/album/6uvZ1iuFftQCFX3xuzbGJx"
+        "name": "30 Grandes Canciones",
+        "url": "https://open.spotify.com/album/5K9kijwfrDJGHFjjiHbl3I"
       },
       "artists": [
         {
           "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
           "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
+        },
+        {
+          "name": "Juan Diego Fl\u00f3rez",
+          "url": "https://open.spotify.com/artist/6Yxfl63ymAk7MkN8TP10iT"
         }
       ],
-      "duration_ms": 273933,
-      "name": "Cuando El Sol Va A Salir",
-      "url": "https://open.spotify.com/track/1LWcPRF650pL8Df9WpB7vz"
+      "duration_ms": 290626,
+      "name": "Nadia",
+      "url": "https://open.spotify.com/track/2ImoFJy6b3ovpai8LG4s2X"
     },
     {
       "added_at": null,
@@ -379,6 +383,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Degeneracion Actual",
+        "url": "https://open.spotify.com/album/6uvZ1iuFftQCFX3xuzbGJx"
+      },
+      "artists": [
+        {
+          "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
+          "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
+        }
+      ],
+      "duration_ms": 273933,
+      "name": "Cuando El Sol Va A Salir",
+      "url": "https://open.spotify.com/track/1LWcPRF650pL8Df9WpB7vz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Play",
+        "url": "https://open.spotify.com/album/7jdASaqtZM48RluVTKthrR"
+      },
+      "artists": [
+        {
+          "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
+          "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
+        }
+      ],
+      "duration_ms": 268266,
+      "name": "Qu\u00e9 Oscuridad",
+      "url": "https://open.spotify.com/track/6dxz8sm7n7tQhHqwolLdWs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "30 Grandes Canciones",
         "url": "https://open.spotify.com/album/5K9kijwfrDJGHFjjiHbl3I"
       },
@@ -386,15 +422,27 @@
         {
           "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
           "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
-        },
-        {
-          "name": "Juan Diego Fl\u00f3rez",
-          "url": "https://open.spotify.com/artist/6Yxfl63ymAk7MkN8TP10iT"
         }
       ],
-      "duration_ms": 290626,
-      "name": "Nadia",
-      "url": "https://open.spotify.com/track/2ImoFJy6b3ovpai8LG4s2X"
+      "duration_ms": 215200,
+      "name": "Hay un Modo",
+      "url": "https://open.spotify.com/track/2txYL7Jy24r4COOii8IyZn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amazonas",
+        "url": "https://open.spotify.com/album/5Wb51Re0iEMPBKCT1uFDRa"
+      },
+      "artists": [
+        {
+          "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
+          "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
+        }
+      ],
+      "duration_ms": 283440,
+      "name": "Ponerme a volar",
+      "url": "https://open.spotify.com/track/46pW45nZ7gRXkqa0kr1YlB"
     },
     {
       "added_at": null,
@@ -424,25 +472,9 @@
           "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
         }
       ],
-      "duration_ms": 268266,
-      "name": "Qu\u00e9 Oscuridad",
-      "url": "https://open.spotify.com/track/6dxz8sm7n7tQhHqwolLdWs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Amazonas",
-        "url": "https://open.spotify.com/album/5Wb51Re0iEMPBKCT1uFDRa"
-      },
-      "artists": [
-        {
-          "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
-          "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
-        }
-      ],
-      "duration_ms": 283440,
-      "name": "Ponerme a volar",
-      "url": "https://open.spotify.com/track/46pW45nZ7gRXkqa0kr1YlB"
+      "duration_ms": 204480,
+      "name": "Los Ni\u00f1os Se Enamoran",
+      "url": "https://open.spotify.com/track/24dMkYdYG9B1sYgvUW9osX"
     },
     {
       "added_at": null,
@@ -456,9 +488,25 @@
           "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
         }
       ],
-      "duration_ms": 215200,
-      "name": "Hay un Modo",
-      "url": "https://open.spotify.com/track/2txYL7Jy24r4COOii8IyZn"
+      "duration_ms": 236186,
+      "name": "Amazonas",
+      "url": "https://open.spotify.com/track/1gIHCLaJODxONb8WYaygKG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amazonas (Uncut)",
+        "url": "https://open.spotify.com/album/4ddmGtrSeN8sbx9sI56rFy"
+      },
+      "artists": [
+        {
+          "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
+          "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
+        }
+      ],
+      "duration_ms": 251026,
+      "name": "Tema del Adi\u00f3s",
+      "url": "https://open.spotify.com/track/7Go67MY2x1fR8uf85gNazj"
     },
     {
       "added_at": null,
@@ -488,25 +536,9 @@
           "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
         }
       ],
-      "duration_ms": 204480,
-      "name": "Los Ni\u00f1os Se Enamoran",
-      "url": "https://open.spotify.com/track/24dMkYdYG9B1sYgvUW9osX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Amazonas (Uncut)",
-        "url": "https://open.spotify.com/album/4ddmGtrSeN8sbx9sI56rFy"
-      },
-      "artists": [
-        {
-          "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
-          "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
-        }
-      ],
-      "duration_ms": 251026,
-      "name": "Tema del Adi\u00f3s",
-      "url": "https://open.spotify.com/track/7Go67MY2x1fR8uf85gNazj"
+      "duration_ms": 259252,
+      "name": "Bailar",
+      "url": "https://open.spotify.com/track/52YFzji6kJVzC4UqZrsPKT"
     },
     {
       "added_at": null,
@@ -520,9 +552,9 @@
           "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
         }
       ],
-      "duration_ms": 236186,
-      "name": "Amazonas",
-      "url": "https://open.spotify.com/track/1gIHCLaJODxONb8WYaygKG"
+      "duration_ms": 256453,
+      "name": "T\u00fanel del Tiempo",
+      "url": "https://open.spotify.com/track/7v4L5nSPEKVqIhQMVHu3SB"
     },
     {
       "added_at": null,
@@ -579,8 +611,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Play",
-        "url": "https://open.spotify.com/album/7jdASaqtZM48RluVTKthrR"
+        "name": "Amazonas",
+        "url": "https://open.spotify.com/album/5Wb51Re0iEMPBKCT1uFDRa"
       },
       "artists": [
         {
@@ -588,9 +620,9 @@
           "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
         }
       ],
-      "duration_ms": 259252,
-      "name": "Bailar",
-      "url": "https://open.spotify.com/track/52YFzji6kJVzC4UqZrsPKT"
+      "duration_ms": 238133,
+      "name": "Se te parar\u00edan los pelos",
+      "url": "https://open.spotify.com/track/0KyizZMOBT02NiF1YPd4Rk"
     },
     {
       "added_at": null,
@@ -618,27 +650,15 @@
         {
           "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
           "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
-        }
-      ],
-      "duration_ms": 256453,
-      "name": "T\u00fanel del Tiempo",
-      "url": "https://open.spotify.com/track/7v4L5nSPEKVqIhQMVHu3SB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Amazonas",
-        "url": "https://open.spotify.com/album/5Wb51Re0iEMPBKCT1uFDRa"
-      },
-      "artists": [
+        },
         {
-          "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
-          "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
+          "name": "Huecco",
+          "url": "https://open.spotify.com/artist/6Zd2JZF0kIBpeyv2FlPh8i"
         }
       ],
-      "duration_ms": 238133,
-      "name": "Se te parar\u00edan los pelos",
-      "url": "https://open.spotify.com/track/0KyizZMOBT02NiF1YPd4Rk"
+      "duration_ms": 317853,
+      "name": "Maril\u00f3",
+      "url": "https://open.spotify.com/track/3CfjXMpEzzVkNBLIKzESzn"
     },
     {
       "added_at": null,
@@ -655,42 +675,6 @@
       "duration_ms": 262773,
       "name": "El Triunfo Tan So\u00f1ado",
       "url": "https://open.spotify.com/track/0sY6nOI7cfuMlmm1z8PY6j"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "30 Grandes Canciones",
-        "url": "https://open.spotify.com/album/5K9kijwfrDJGHFjjiHbl3I"
-      },
-      "artists": [
-        {
-          "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
-          "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
-        },
-        {
-          "name": "Huecco",
-          "url": "https://open.spotify.com/artist/6Zd2JZF0kIBpeyv2FlPh8i"
-        }
-      ],
-      "duration_ms": 317853,
-      "name": "Maril\u00f3",
-      "url": "https://open.spotify.com/track/3CfjXMpEzzVkNBLIKzESzn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Amazonas",
-        "url": "https://open.spotify.com/album/5Wb51Re0iEMPBKCT1uFDRa"
-      },
-      "artists": [
-        {
-          "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
-          "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
-        }
-      ],
-      "duration_ms": 237880,
-      "name": "Ella y \u00e9l",
-      "url": "https://open.spotify.com/track/4mpLVOQTCxJDfRj0I1XESA"
     }
   ],
   "unique_name": "This Is Pedro Su\u00e1rez-V\u00e9rtiz",

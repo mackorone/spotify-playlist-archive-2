@@ -14648,10 +14648,28 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 101133,
       "name": "Fourteen Reveries: 1",
       "url": "https://open.spotify.com/track/6KlvDepAitRmvY96pHapce"
+    },
+    {
+      "album": {
+        "name": "Fantasy & Reveries",
+        "url": "https://open.spotify.com/album/5IrPa6hiSEhB9zxzzLBLc2"
+      },
+      "artists": [
+        {
+          "name": "Brad Mehldau",
+          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195226,
+      "name": "Fourteen Reveries: 7",
+      "url": "https://open.spotify.com/track/03ROovwUXaNnstUIBq7a6K"
     },
     {
       "album": {
@@ -24156,7 +24174,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 267704,
       "name": "Mameya",
       "url": "https://open.spotify.com/track/2UDf5oZY5qgwUATAElcd26"
@@ -35361,6 +35379,28 @@
     },
     {
       "album": {
+        "name": "Close to Home",
+        "url": "https://open.spotify.com/album/6Ff1U192CG7wewXt5kPPSM"
+      },
+      "artists": [
+        {
+          "name": "Bill Laurance",
+          "url": "https://open.spotify.com/artist/2QjVv1gkLn8XkQxVndgLHF"
+        },
+        {
+          "name": "Michael League",
+          "url": "https://open.spotify.com/artist/0YzrofLyUlORKLkH8AAMm9"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234528,
+      "name": "Sol Do Sul",
+      "url": "https://open.spotify.com/track/6w58niVWhLIcehl1COs9wf"
+    },
+    {
+      "album": {
         "name": "Sol e Luz (feat. Thiago Rabello & Salom\u00e3o Soares)",
         "url": "https://open.spotify.com/album/6HPwMeV7txYMEWmNo6By8e"
       },
@@ -36762,6 +36802,32 @@
       "duration_ms": 293106,
       "name": "Stomping Gamay",
       "url": "https://open.spotify.com/track/3ZV8bAhDtf8zfIktp6oF6B"
+    },
+    {
+      "album": {
+        "name": "Dee Dub",
+        "url": "https://open.spotify.com/album/4l8fQnwQYRUgEn0TnK5V0S"
+      },
+      "artists": [
+        {
+          "name": "Dan White",
+          "url": "https://open.spotify.com/artist/5qgSeztKtoZPWSpRJalkZr"
+        },
+        {
+          "name": "Charlie Hunter",
+          "url": "https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc"
+        },
+        {
+          "name": "Scott Amendola",
+          "url": "https://open.spotify.com/artist/0z8GiMtospGy5TDzG8LiSE"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253377,
+      "name": "Stone City",
+      "url": "https://open.spotify.com/track/6FlNgujDZc9Dj5qWBFT3MI"
     },
     {
       "album": {
@@ -43056,7 +43122,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 263829,
       "name": "Unembeza",
       "url": "https://open.spotify.com/track/0oXf39CHXtxZYGWWNsExhF"
@@ -46718,7 +46784,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 382208,
       "name": "\u1e3ci\u1e45walo \u1e3da Mubebi",
       "url": "https://open.spotify.com/track/3svg2F1ZsOxF2CIL4AAngt"

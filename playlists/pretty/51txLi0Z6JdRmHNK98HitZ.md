@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/51txLi0Z6JdRmHNK98HitZ.md) - [plain]
 
 > A playlist of all our songs released so far\. Also find us on <a href="https://www.instagram.com/middlekidsmusic/">Instagram</a>, <a href="https://www.tiktok.com/@middlekids.music">TikTok</a> &amp; <a href="https://www.facebook.com/middlekidsmusic">Facebook</a>
 
-[Middle Kids](https://open.spotify.com/user/middle_kids_official) - 2,980 likes - 73 songs - 3 hr 49 min
+[Middle Kids](https://open.spotify.com/user/middle_kids_official) - 2,979 likes - 73 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

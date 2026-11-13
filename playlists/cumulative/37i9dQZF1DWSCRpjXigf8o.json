@@ -3456,7 +3456,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 177049,
       "name": "Fall (For You)",
       "url": "https://open.spotify.com/track/0AKciAtnP7eumDYspyydKz"
@@ -13352,6 +13352,24 @@
       "duration_ms": 184000,
       "name": "\u51ac\u3068\u590f\u306e\u9593",
       "url": "https://open.spotify.com/track/0z8N4vP6CAQtPR2dynPEPh"
+    },
+    {
+      "album": {
+        "name": "\u3074\u304b\u3074\u304b",
+        "url": "https://open.spotify.com/album/0fgbGNoJ8eIHzQoTOo6jnG"
+      },
+      "artists": [
+        {
+          "name": "\u5ca9\u5d0e\u6843\u5b50",
+          "url": "https://open.spotify.com/artist/0Yb6qJAprge68CFUcfIYu6"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346750,
+      "name": "\u5357\u306e\u5cf6",
+      "url": "https://open.spotify.com/track/5lSvpFZXL4ExGDW8nceUKe"
     },
     {
       "album": {

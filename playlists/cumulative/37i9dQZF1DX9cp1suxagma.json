@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-18",
-  "description": "Pop de los mejores artistas colombianos. \u00a1Dale play! Foto: Nanpa B\u00e1sico, Kapo",
+  "description": "Pop de los mejores artistas colombianos. \u00a1Dale play! Foto: Shonny",
   "name": "Pop Colombia",
   "tracks": [
     {
@@ -56,7 +56,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 187605,
       "name": "23",
       "url": "https://open.spotify.com/track/03I0v50PLHMxgP5CjzCwt3"
@@ -4435,6 +4435,24 @@
     },
     {
       "album": {
+        "name": "AVE DEL PARA\u00cdSO",
+        "url": "https://open.spotify.com/album/5I9Rza1ph1avrDLfcuz5SS"
+      },
+      "artists": [
+        {
+          "name": "Shonny",
+          "url": "https://open.spotify.com/artist/70axD2kGUWcyWjZAGAtgft"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217936,
+      "name": "No me pasa el tiempo",
+      "url": "https://open.spotify.com/track/1JKZLkAopq2TMNMBvtH4YO"
+    },
+    {
+      "album": {
         "name": "No soy yo",
         "url": "https://open.spotify.com/album/78WLJ4fRlnvYprbgAwvNi9"
       },
@@ -4548,6 +4566,24 @@
       "duration_ms": 189101,
       "name": "No Tengo Remedio",
       "url": "https://open.spotify.com/track/2R6VN8srZYSecU20Un9Nni"
+    },
+    {
+      "album": {
+        "name": "No Veo la Hora",
+        "url": "https://open.spotify.com/album/60WjhSulSkPsI9FmI7iMWK"
+      },
+      "artists": [
+        {
+          "name": "Valentina Rico",
+          "url": "https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203376,
+      "name": "No Veo la Hora",
+      "url": "https://open.spotify.com/track/36Y7IuGJS6AKCYSKTornq4"
     },
     {
       "album": {
@@ -5674,7 +5710,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 184666,
       "name": "Segundos Platos",
       "url": "https://open.spotify.com/track/1pHZf30WYm6CQukt7TvNPM"

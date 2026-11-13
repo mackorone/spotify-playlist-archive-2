@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avENAAAAAACCAE35c/AgiRKmkQflJwxv",
+  "snapshot_id": "avOwAAAAAAD1z1jEE5FACGjEax7BBRQc",
   "tracks": [
     {
       "added_at": null,
@@ -187,22 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mount Vision",
-        "url": "https://open.spotify.com/album/5Er0d89UQnCYtTBoQLZsSr"
-      },
-      "artists": [
-        {
-          "name": "Emily A. Sprague",
-          "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
-        }
-      ],
-      "duration_ms": 459866,
-      "name": "Synth 2",
-      "url": "https://open.spotify.com/track/4IMVzTPODkGzYYB1YlhPJ6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Touchtheplants Presents: Breathing Instruments",
         "url": "https://open.spotify.com/album/6eLJW3hB8GMFBmGGw3dvBe"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 226693,
       "name": "Flew",
       "url": "https://open.spotify.com/track/12wrErlyRy9mocGIy3vgMJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mount Vision",
+        "url": "https://open.spotify.com/album/5Er0d89UQnCYtTBoQLZsSr"
+      },
+      "artists": [
+        {
+          "name": "Emily A. Sprague",
+          "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
+        }
+      ],
+      "duration_ms": 459866,
+      "name": "Synth 2",
+      "url": "https://open.spotify.com/track/4IMVzTPODkGzYYB1YlhPJ6"
     },
     {
       "added_at": null,
@@ -251,22 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mount Vision",
-        "url": "https://open.spotify.com/album/5Er0d89UQnCYtTBoQLZsSr"
-      },
-      "artists": [
-        {
-          "name": "Emily A. Sprague",
-          "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
-        }
-      ],
-      "duration_ms": 183346,
-      "name": "Huckleberry",
-      "url": "https://open.spotify.com/track/0jzmcBUTN9SqVrFed0NKFV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hill, Flower, Fog",
         "url": "https://open.spotify.com/album/4kUoHjxVlyhhTnmSwM47ol"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 413826,
       "name": "Star Gazing",
       "url": "https://open.spotify.com/track/06DeoRfplLugqP2Soi6No2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mount Vision",
+        "url": "https://open.spotify.com/album/5Er0d89UQnCYtTBoQLZsSr"
+      },
+      "artists": [
+        {
+          "name": "Emily A. Sprague",
+          "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
+        }
+      ],
+      "duration_ms": 183346,
+      "name": "Huckleberry",
+      "url": "https://open.spotify.com/track/0jzmcBUTN9SqVrFed0NKFV"
     },
     {
       "added_at": null,
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
         }
       ],
-      "duration_ms": 443440,
-      "name": "Piano 1",
-      "url": "https://open.spotify.com/track/5lSEJkubu5mdi1NnYkEiLC"
+      "duration_ms": 221080,
+      "name": "Piano 2 (Mount Vision)",
+      "url": "https://open.spotify.com/track/3EVe6aUZJOeLDNSVYv60pS"
     },
     {
       "added_at": null,
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
         }
       ],
-      "duration_ms": 219426,
-      "name": "Lava Surrounds",
-      "url": "https://open.spotify.com/track/1LnXxzrN008lulaQTyBvBB"
+      "duration_ms": 223663,
+      "name": "Rising",
+      "url": "https://open.spotify.com/track/4HYX9F5lh33yKbIc5Ie42G"
     },
     {
       "added_at": null,
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
         }
       ],
-      "duration_ms": 221080,
-      "name": "Piano 2 (Mount Vision)",
-      "url": "https://open.spotify.com/track/3EVe6aUZJOeLDNSVYv60pS"
+      "duration_ms": 443440,
+      "name": "Piano 1",
+      "url": "https://open.spotify.com/track/5lSEJkubu5mdi1NnYkEiLC"
     },
     {
       "added_at": null,
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
         }
       ],
-      "duration_ms": 435000,
-      "name": "Each Story",
-      "url": "https://open.spotify.com/track/2lsGq0qsufQcmIM30Xfy2J"
+      "duration_ms": 292000,
+      "name": "Tokyo 2",
+      "url": "https://open.spotify.com/track/5HwlciZrrOMhyAP0Fzdxlr"
     },
     {
       "added_at": null,
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
         }
       ],
-      "duration_ms": 292000,
-      "name": "Tokyo 2",
-      "url": "https://open.spotify.com/track/5HwlciZrrOMhyAP0Fzdxlr"
+      "duration_ms": 390000,
+      "name": "Hokkaido",
+      "url": "https://open.spotify.com/track/3Ao36qzf7iisNWhJlnOK1z"
     },
     {
       "added_at": null,
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
         }
       ],
-      "duration_ms": 390000,
-      "name": "Hokkaido",
-      "url": "https://open.spotify.com/track/3Ao36qzf7iisNWhJlnOK1z"
+      "duration_ms": 435000,
+      "name": "Each Story",
+      "url": "https://open.spotify.com/track/2lsGq0qsufQcmIM30Xfy2J"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Matt Maher. The essential tracks, all in one playlist.",
-  "num_followers": 27945,
+  "num_followers": 27947,
   "original_name": "This Is Matt Maher",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avENAAAAAADPq+D1+0wLIZ3qyacqo5cL",
+  "snapshot_id": "avOwAAAAAABT/mEUoRs4ybKKWzEDYljS",
   "tracks": [
     {
       "added_at": null,
@@ -175,22 +175,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Stories I Tell Myself",
-        "url": "https://open.spotify.com/album/6b008GE6li0fwoIQdjzWpv"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 203266,
-      "name": "The Lord's Prayer (It's Yours)",
-      "url": "https://open.spotify.com/track/6oAfRUceWYKgrYORnyGsDg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "How Great Thou Art (Until That Day) [Live]",
         "url": "https://open.spotify.com/album/4xCf9WmCtwMBcds8fj6I6W"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 269678,
       "name": "How Great Thou Art (Until That Day) - Live",
       "url": "https://open.spotify.com/track/4wZZ3hXmK5lgpT4Q1MsYSU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Stories I Tell Myself",
+        "url": "https://open.spotify.com/album/6b008GE6li0fwoIQdjzWpv"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 203266,
+      "name": "The Lord's Prayer (It's Yours)",
+      "url": "https://open.spotify.com/track/6oAfRUceWYKgrYORnyGsDg"
     },
     {
       "added_at": null,
@@ -647,22 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Stories I Tell Myself",
-        "url": "https://open.spotify.com/album/6Kv4VGIplIgRTTQodGfdt4"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 198066,
-      "name": "The Way You Love Me",
-      "url": "https://open.spotify.com/track/1X6DdAapNhXKQemy5R6WNW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Go Tell It (Gloria)",
         "url": "https://open.spotify.com/album/0zyVJyBQiTJ5XEiRJMThbJ"
       },
@@ -683,28 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Taste And See (The Love Of Christ)",
-        "url": "https://open.spotify.com/album/51eWUtm4FF7SWkIoHq45nH"
-      },
-      "artists": [
-        {
-          "name": "Bryan Fowler",
-          "url": "https://open.spotify.com/artist/73tMHfGoCsakZYN5lMUWSc"
-        },
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 272149,
-      "name": "Taste And See (The Love Of Christ)",
-      "url": "https://open.spotify.com/track/7MjQIKDBaG5BJc9EeIhAbD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "All The People Said Amen",
-        "url": "https://open.spotify.com/album/2WtZ4nYCFphrLzFcjuxhyu"
+        "name": "The Stories I Tell Myself",
+        "url": "https://open.spotify.com/album/6Kv4VGIplIgRTTQodGfdt4"
       },
       "artists": [
         {
@@ -712,29 +676,9 @@
           "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
         }
       ],
-      "duration_ms": 359973,
-      "name": "Adoration (Live)",
-      "url": "https://open.spotify.com/track/5PfnaRjEsPfNOd7AdJmd2N"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Leaning (feat. Lizzie Morgan)",
-        "url": "https://open.spotify.com/album/6Dk3GXUdiov6fsnXdELZTi"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        },
-        {
-          "name": "Lizzie Morgan",
-          "url": "https://open.spotify.com/artist/6ErLTSGjADcbmh10k8uion"
-        }
-      ],
-      "duration_ms": 219213,
-      "name": "Leaning (feat. Lizzie Morgan)",
-      "url": "https://open.spotify.com/track/5i4eapszFQYMycVSOiBxHG"
+      "duration_ms": 198066,
+      "name": "The Way You Love Me",
+      "url": "https://open.spotify.com/track/1X6DdAapNhXKQemy5R6WNW"
     },
     {
       "added_at": null,
@@ -755,6 +699,42 @@
       "duration_ms": 233080,
       "name": "Baptized",
       "url": "https://open.spotify.com/track/5TjlGElg43A1pHSS6sdKBg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All The People Said Amen",
+        "url": "https://open.spotify.com/album/2WtZ4nYCFphrLzFcjuxhyu"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 359973,
+      "name": "Adoration (Live)",
+      "url": "https://open.spotify.com/track/5PfnaRjEsPfNOd7AdJmd2N"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Taste And See (The Love Of Christ)",
+        "url": "https://open.spotify.com/album/51eWUtm4FF7SWkIoHq45nH"
+      },
+      "artists": [
+        {
+          "name": "Bryan Fowler",
+          "url": "https://open.spotify.com/artist/73tMHfGoCsakZYN5lMUWSc"
+        },
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 272149,
+      "name": "Taste And See (The Love Of Christ)",
+      "url": "https://open.spotify.com/track/7MjQIKDBaG5BJc9EeIhAbD"
     },
     {
       "added_at": null,
@@ -787,18 +767,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "All The People Said Amen",
-        "url": "https://open.spotify.com/album/2WtZ4nYCFphrLzFcjuxhyu"
+        "name": "Leaning (feat. Lizzie Morgan)",
+        "url": "https://open.spotify.com/album/6Dk3GXUdiov6fsnXdELZTi"
       },
       "artists": [
         {
           "name": "Matt Maher",
           "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        },
+        {
+          "name": "Lizzie Morgan",
+          "url": "https://open.spotify.com/artist/6ErLTSGjADcbmh10k8uion"
         }
       ],
-      "duration_ms": 365880,
-      "name": "Your Grace Is Enough/Here I Am Lord (Live)",
-      "url": "https://open.spotify.com/track/27TeIT5tc6vORm23A1gA4h"
+      "duration_ms": 219213,
+      "name": "Leaning (feat. Lizzie Morgan)",
+      "url": "https://open.spotify.com/track/5i4eapszFQYMycVSOiBxHG"
     },
     {
       "added_at": null,
@@ -815,6 +799,58 @@
       "duration_ms": 190280,
       "name": "Abide With Me",
       "url": "https://open.spotify.com/track/0ocaDYnVGNWAvu037JI0Pt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All The People Said Amen",
+        "url": "https://open.spotify.com/album/2WtZ4nYCFphrLzFcjuxhyu"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 365880,
+      "name": "Your Grace Is Enough/Here I Am Lord (Live)",
+      "url": "https://open.spotify.com/track/27TeIT5tc6vORm23A1gA4h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Stories I Tell Myself",
+        "url": "https://open.spotify.com/album/6Kv4VGIplIgRTTQodGfdt4"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 233160,
+      "name": "The Stories I Tell Myself",
+      "url": "https://open.spotify.com/track/4C5VoslGdB45KzAaKp4Cg7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Found It In Jesus",
+        "url": "https://open.spotify.com/album/7wJEg8eSQCa2y8Xm35eaQY"
+      },
+      "artists": [
+        {
+          "name": "Stephen McWhirter",
+          "url": "https://open.spotify.com/artist/1DIpWfeb5YTJmmvSy5TSL3"
+        },
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 260987,
+      "name": "Found It In Jesus",
+      "url": "https://open.spotify.com/track/7kOw09xTJZQCinlD8xM5ST"
     },
     {
       "added_at": null,
@@ -847,58 +883,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Found It In Jesus",
-        "url": "https://open.spotify.com/album/7wJEg8eSQCa2y8Xm35eaQY"
+        "name": "Sanctuary Songs",
+        "url": "https://open.spotify.com/album/4kkaT37xGlszLXcJ0cVpbF"
       },
       "artists": [
         {
-          "name": "Stephen McWhirter",
-          "url": "https://open.spotify.com/artist/1DIpWfeb5YTJmmvSy5TSL3"
+          "name": "The Porter's Gate",
+          "url": "https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW"
         },
         {
           "name": "Matt Maher",
           "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 260987,
-      "name": "Found It In Jesus",
-      "url": "https://open.spotify.com/track/7kOw09xTJZQCinlD8xM5ST"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Stories I Tell Myself",
-        "url": "https://open.spotify.com/album/6Kv4VGIplIgRTTQodGfdt4"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 233160,
-      "name": "The Stories I Tell Myself",
-      "url": "https://open.spotify.com/track/4C5VoslGdB45KzAaKp4Cg7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Se\u00f1or, Te Necesito",
-        "url": "https://open.spotify.com/album/6prmSJ9bjlXsxKqIQVxNxK"
-      },
-      "artists": [
-        {
-          "name": "Blanca",
-          "url": "https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO"
         },
         {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+          "name": "DOE",
+          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
         }
       ],
-      "duration_ms": 204167,
-      "name": "Se\u00f1or, Te Necesito",
-      "url": "https://open.spotify.com/track/2EullfPQH8lklDEZSVPDJM"
+      "duration_ms": 356666,
+      "name": "Christ Is Lower Still",
+      "url": "https://open.spotify.com/track/3hCHePNdNzGkhYtSeU13Y6"
     },
     {
       "added_at": null,
@@ -939,6 +943,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Se\u00f1or, Te Necesito",
+        "url": "https://open.spotify.com/album/6prmSJ9bjlXsxKqIQVxNxK"
+      },
+      "artists": [
+        {
+          "name": "Blanca",
+          "url": "https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO"
+        },
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 204167,
+      "name": "Se\u00f1or, Te Necesito",
+      "url": "https://open.spotify.com/track/2EullfPQH8lklDEZSVPDJM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Alive & Breathing",
         "url": "https://open.spotify.com/album/1BxJ93fbfJSKQ4GWqUcQB9"
       },
@@ -951,30 +975,6 @@
       "duration_ms": 239256,
       "name": "Lord of My Life",
       "url": "https://open.spotify.com/track/6vGSYpEzyiAT3vVcGeJgXt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sanctuary Songs",
-        "url": "https://open.spotify.com/album/4kkaT37xGlszLXcJ0cVpbF"
-      },
-      "artists": [
-        {
-          "name": "The Porter's Gate",
-          "url": "https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW"
-        },
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        },
-        {
-          "name": "DOE",
-          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
-        }
-      ],
-      "duration_ms": 356666,
-      "name": "Christ Is Lower Still",
-      "url": "https://open.spotify.com/track/3hCHePNdNzGkhYtSeU13Y6"
     },
     {
       "added_at": null,

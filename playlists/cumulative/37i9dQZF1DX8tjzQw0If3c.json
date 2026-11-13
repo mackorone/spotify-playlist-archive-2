@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Meet the future. Cover: Estelle Fly",
+  "description": "Meet the future. Cover: Julia Duclos",
   "name": "RADAR SG & MY",
   "tracks": [
     {
@@ -1728,6 +1728,24 @@
       "duration_ms": 156631,
       "name": "FADE",
       "url": "https://open.spotify.com/track/3XZHLeJ3qcVWhMSTlarRWA"
+    },
+    {
+      "album": {
+        "name": "Faham",
+        "url": "https://open.spotify.com/album/2rb2r9LM2Pkqktj672s9BD"
+      },
+      "artists": [
+        {
+          "name": "Julia Duclos",
+          "url": "https://open.spotify.com/artist/0eK60XV9Prh7naXVKJt1XE"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168666,
+      "name": "Faham",
+      "url": "https://open.spotify.com/track/1feTnYVXe2se5srOHXjTWf"
     },
     {
       "album": {

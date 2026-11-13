@@ -1207,6 +1207,28 @@
     },
     {
       "album": {
+        "name": "Have Yourself a Merry Little Christmas (From \"Snoopy Presents: 12 Days of Snoopy\")",
+        "url": "https://open.spotify.com/album/76tS12f6S9QDPc9x6OxiWG"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        },
+        {
+          "name": "Peanuts",
+          "url": "https://open.spotify.com/artist/58JT424axIaKJNvUgVonOY"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194733,
+      "name": "Have Yourself a Merry Little Christmas (From \"Snoopy Presents: 12 Days of Snoopy\")",
+      "url": "https://open.spotify.com/track/06tOzNfqvoD38Fo5lfg459"
+    },
+    {
+      "album": {
         "name": "Jazz Christmas Songs By The Fire",
         "url": "https://open.spotify.com/album/0F8Aw2DVnhQNINV62SYtqg"
       },
@@ -1316,7 +1338,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 167546,
       "name": "Holiday Plans",
       "url": "https://open.spotify.com/track/3scP71lzyrGFu98Qi1tPwD"
@@ -1820,7 +1842,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 300586,
       "name": "Moonlight In Vermont",
       "url": "https://open.spotify.com/track/1dpM2N7IkTM1gSUtomiE9F"
@@ -2798,7 +2820,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 167666,
       "name": "The Christmas Waltz",
       "url": "https://open.spotify.com/track/3vpW9dkAZFi8Sg0onz4wvR"
@@ -2954,6 +2976,32 @@
       "duration_ms": 212400,
       "name": "To Us Is Given",
       "url": "https://open.spotify.com/track/7n76J43bOv8dO4MXCbv4Zt"
+    },
+    {
+      "album": {
+        "name": "Trying To Get There (From \"Snoopy Presents: 12 Days of Snoopy\")",
+        "url": "https://open.spotify.com/album/1AeRGvMigVa43GsZmt09Du"
+      },
+      "artists": [
+        {
+          "name": "Kamasi Washington",
+          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
+        },
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        },
+        {
+          "name": "Peanuts",
+          "url": "https://open.spotify.com/artist/58JT424axIaKJNvUgVonOY"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143744,
+      "name": "Trying To Get There (From \"Snoopy Presents: 12 Days of Snoopy\") (feat. Leon Bridges)",
+      "url": "https://open.spotify.com/track/3SgiN73hnVnb9KSs4Z4iL2"
     },
     {
       "album": {
@@ -3286,6 +3334,28 @@
       "duration_ms": 132800,
       "name": "Winter Wonderland - Spotify Singles Holiday",
       "url": "https://open.spotify.com/track/1LmkdWSxjCV7wKTPsCvYWN"
+    },
+    {
+      "album": {
+        "name": "With or Without Snow",
+        "url": "https://open.spotify.com/album/3RdAu5tVKAVZjPylF6CRUv"
+      },
+      "artists": [
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        },
+        {
+          "name": "Mark Limacher",
+          "url": "https://open.spotify.com/artist/2FyolspKay4voViiywFNFs"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178113,
+      "name": "With or Without Snow",
+      "url": "https://open.spotify.com/track/5VWS9ZodFhonOzebqUsmlR"
     },
     {
       "album": {

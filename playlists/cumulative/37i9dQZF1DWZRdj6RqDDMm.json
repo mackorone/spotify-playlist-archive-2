@@ -3105,6 +3105,24 @@
     },
     {
       "album": {
+        "name": "Do A Work In Me",
+        "url": "https://open.spotify.com/album/4irt7LyTKAG3TCd1EYLNX4"
+      },
+      "artists": [
+        {
+          "name": "Kingsley Amiah",
+          "url": "https://open.spotify.com/artist/13BrcJ888g2SIrywaVEfCi"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191351,
+      "name": "Do A Work In Me",
+      "url": "https://open.spotify.com/track/6JrKAn0TNe84njp5L597M0"
+    },
+    {
+      "album": {
         "name": "Do You Know Jesus?",
         "url": "https://open.spotify.com/album/7hhYpFCgnlJaSsbuVPHxQq"
       },
@@ -12502,6 +12520,24 @@
       "duration_ms": 172083,
       "name": "Surrender",
       "url": "https://open.spotify.com/track/5SCH6LHRQH3hfmqAlnU1yo"
+    },
+    {
+      "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/3sN8fndYvbfTXEs9gW7Xet"
+      },
+      "artists": [
+        {
+          "name": "Shime Ahua",
+          "url": "https://open.spotify.com/artist/10hDEzXFAjeQPXm8fxhds5"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138913,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/48Hi6zY1O22GhUaFUHAvRo"
     },
     {
       "album": {

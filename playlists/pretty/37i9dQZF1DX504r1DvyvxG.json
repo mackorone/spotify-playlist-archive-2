@@ -1,6 +1,6 @@
 {
   "description": "Kick back with a collection of iconic and new acoustic tracks with that classic feel. Cover: George Harrison",
-  "num_followers": 2633093,
+  "num_followers": 2633028,
   "original_name": "Classic Acoustic",
   "owner": {
     "name": "Spotify",
@@ -59,22 +59,6 @@
     {
       "added_at": "2026-01-26 17:08:09",
       "album": {
-        "name": "Honky Chateau",
-        "url": "https://open.spotify.com/album/2ei2X6ghPnw7YRwQtAH075"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 281613,
-      "name": "Rocket Man (I Think It's Going To Be A Long, Long Time)",
-      "url": "https://open.spotify.com/track/3gdewACMIVMEWVbyb8O9sY"
-    },
-    {
-      "added_at": "2026-01-26 17:08:09",
-      "album": {
         "name": "America",
         "url": "https://open.spotify.com/album/0E5IKYhiKgbYQkmfsFonbZ"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 252239,
       "name": "A Horse with No Name",
       "url": "https://open.spotify.com/track/54eZmuggBFJbV7k248bTTt"
+    },
+    {
+      "added_at": "2026-01-26 17:08:09",
+      "album": {
+        "name": "Honky Chateau",
+        "url": "https://open.spotify.com/album/2ei2X6ghPnw7YRwQtAH075"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 281613,
+      "name": "Rocket Man (I Think It's Going To Be A Long, Long Time)",
+      "url": "https://open.spotify.com/track/3gdewACMIVMEWVbyb8O9sY"
     },
     {
       "added_at": "2026-01-26 17:08:09",
@@ -335,22 +335,6 @@
     {
       "added_at": "2026-01-26 17:08:09",
       "album": {
-        "name": "The Kick Inside",
-        "url": "https://open.spotify.com/album/5NKTuBLCYhN0OwqFiGdXd1"
-      },
-      "artists": [
-        {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
-        }
-      ],
-      "duration_ms": 269066,
-      "name": "Wuthering Heights",
-      "url": "https://open.spotify.com/track/5YSI1311X8t31PBjkBG4CZ"
-    },
-    {
-      "added_at": "2026-01-26 17:08:09",
-      "album": {
         "name": "Rumours (Super Deluxe)",
         "url": "https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 134400,
       "name": "Never Going Back Again - 2004 Remaster",
       "url": "https://open.spotify.com/track/19Shlms2uTnOjIUg50TXzd"
+    },
+    {
+      "added_at": "2026-01-26 17:08:09",
+      "album": {
+        "name": "The Kick Inside",
+        "url": "https://open.spotify.com/album/5NKTuBLCYhN0OwqFiGdXd1"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "duration_ms": 269066,
+      "name": "Wuthering Heights",
+      "url": "https://open.spotify.com/track/5YSI1311X8t31PBjkBG4CZ"
     },
     {
       "added_at": "2026-01-26 17:08:09",
@@ -659,22 +659,6 @@
     {
       "added_at": "2026-01-26 17:08:09",
       "album": {
-        "name": "Human Touch",
-        "url": "https://open.spotify.com/album/5vza8Bd9yp7kRX45QsUljF"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 391552,
-      "name": "Human Touch",
-      "url": "https://open.spotify.com/track/1o53HbxmOy5TzThJdBaDZb"
-    },
-    {
-      "added_at": "2026-01-26 17:08:09",
-      "album": {
         "name": "In the Wind",
         "url": "https://open.spotify.com/album/5XresJcJBgYkVQE9PATjli"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 177360,
       "name": "Blowin' in the Wind",
       "url": "https://open.spotify.com/track/62Yu8QL1g9pdbvN4XL9Rah"
+    },
+    {
+      "added_at": "2026-01-26 17:08:09",
+      "album": {
+        "name": "Human Touch",
+        "url": "https://open.spotify.com/album/5vza8Bd9yp7kRX45QsUljF"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 391552,
+      "name": "Human Touch",
+      "url": "https://open.spotify.com/track/1o53HbxmOy5TzThJdBaDZb"
     },
     {
       "added_at": "2026-01-26 17:08:09",
@@ -739,22 +739,6 @@
     {
       "added_at": "2026-01-26 17:08:09",
       "album": {
-        "name": "Mercy Now",
-        "url": "https://open.spotify.com/album/1FGmBGkpEjtrtqbW85d9TW"
-      },
-      "artists": [
-        {
-          "name": "Mary Gauthier",
-          "url": "https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS"
-        }
-      ],
-      "duration_ms": 350560,
-      "name": "Mercy Now",
-      "url": "https://open.spotify.com/track/6684GUHy1jpyhJVzpz5OFr"
-    },
-    {
-      "added_at": "2026-01-26 17:08:09",
-      "album": {
         "name": "In the Wind",
         "url": "https://open.spotify.com/album/5XresJcJBgYkVQE9PATjli"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 196466,
       "name": "Don't Think Twice, It's All Right",
       "url": "https://open.spotify.com/track/7IsXXgpowAB48crGjV1oGb"
+    },
+    {
+      "added_at": "2026-01-26 17:08:09",
+      "album": {
+        "name": "Mercy Now",
+        "url": "https://open.spotify.com/album/1FGmBGkpEjtrtqbW85d9TW"
+      },
+      "artists": [
+        {
+          "name": "Mary Gauthier",
+          "url": "https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS"
+        }
+      ],
+      "duration_ms": 350560,
+      "name": "Mercy Now",
+      "url": "https://open.spotify.com/track/6684GUHy1jpyhJVzpz5OFr"
     },
     {
       "added_at": "2026-01-26 17:08:09",
@@ -871,22 +871,6 @@
     {
       "added_at": "2026-01-26 17:08:09",
       "album": {
-        "name": "Elton John",
-        "url": "https://open.spotify.com/album/0C2grVR8DnJnL8rg7OP6Zm"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 244226,
-      "name": "Your Song",
-      "url": "https://open.spotify.com/track/7gCeodIXjhCLDWC5H1LOmT"
-    },
-    {
-      "added_at": "2026-01-26 17:08:09",
-      "album": {
         "name": "The Best of Faces: Good Boys When They're Asleep",
         "url": "https://open.spotify.com/album/375DYMUVvk7xXyKq5IaUTR"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 214960,
       "name": "Ooh La La - 2004 Remaster",
       "url": "https://open.spotify.com/track/6TNNMVpOgn8K5NoDC7alG6"
+    },
+    {
+      "added_at": "2026-01-26 17:08:09",
+      "album": {
+        "name": "Elton John",
+        "url": "https://open.spotify.com/album/0C2grVR8DnJnL8rg7OP6Zm"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 244226,
+      "name": "Your Song",
+      "url": "https://open.spotify.com/track/7gCeodIXjhCLDWC5H1LOmT"
     },
     {
       "added_at": "2026-01-26 17:08:09",

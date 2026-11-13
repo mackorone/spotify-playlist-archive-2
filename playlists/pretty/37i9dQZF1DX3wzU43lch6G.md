@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wzU43lch6G.md) - [plain]
 
 > Melodik Türkçe şarkılarla yaz boyu sahildesin 🏖️
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,445 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,446 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wzU43lch6G.md) - [plain]
 | 37 | [Bi' Fazla](https://open.spotify.com/track/5CEDFlX2WDEwZNHv588tJc) | [Elçin Orçun](https://open.spotify.com/artist/1e6JMnBTnlsmLfUIshPefJ), [Birkan Nasuhoğlu](https://open.spotify.com/artist/7BCcSXMFEzcharu4oXag9d) | [Bi' Fazla](https://open.spotify.com/album/5ZytuhJ7mB6QwiUUQVbOFv) | 3:23 |
 | 38 | [AL SENİN OLSUN DÜNYA](https://open.spotify.com/track/43zDWY9YsHRa1e7xSMPTfs) | [Buray](https://open.spotify.com/artist/1qZ684TB9E1BjH58btdtYd) | [Al Senin Olsun Dünya](https://open.spotify.com/album/7qfiGdZbSh9068JTlpEAkQ) | 3:15 |
 | 39 | [Bodrum](https://open.spotify.com/track/33xcUviev85baFUelQYX9y) | [MFÖ](https://open.spotify.com/artist/2jbrqAuwSdvwcMTbtvncND) | [Ele Güne Karşı Yapayalnız](https://open.spotify.com/album/0NyY9YsGb9YniAs5h6Eva4) | 3:57 |
-| 40 | [Uzun Uzun \(feat\. Jabbar\)](https://open.spotify.com/track/2lfIKSkxC1z8Q7JzTufWFo) | [Deeperise](https://open.spotify.com/artist/0ZRQKFaYGEtbLc8NbyICoe), [Jabbar](https://open.spotify.com/artist/7JrZbwBSIfKcc2gn1Xa4Bd) | [Uzun Uzun \(feat\. Jabbar\)](https://open.spotify.com/album/0kq1mKiHDEAnTHkA3LJ6EG) | 3:36 |
-| 41 | [BOŞLUK](https://open.spotify.com/track/7nnW9qKcLQi98ghW42lsAX) | [Büyük Ev Ablukada](https://open.spotify.com/artist/7pUjWNH0hKYpRzWDdNLzAi) | [FIRTINAYT](https://open.spotify.com/album/2SNhVRSfq609FJVJqcq4zS) | 3:00 |
+| 40 | [BOŞLUK](https://open.spotify.com/track/7nnW9qKcLQi98ghW42lsAX) | [Büyük Ev Ablukada](https://open.spotify.com/artist/7pUjWNH0hKYpRzWDdNLzAi) | [FIRTINAYT](https://open.spotify.com/album/2SNhVRSfq609FJVJqcq4zS) | 3:00 |
+| 41 | [Uzun Uzun \(feat\. Jabbar\)](https://open.spotify.com/track/2lfIKSkxC1z8Q7JzTufWFo) | [Deeperise](https://open.spotify.com/artist/0ZRQKFaYGEtbLc8NbyICoe), [Jabbar](https://open.spotify.com/artist/7JrZbwBSIfKcc2gn1Xa4Bd) | [Uzun Uzun \(feat\. Jabbar\)](https://open.spotify.com/album/0kq1mKiHDEAnTHkA3LJ6EG) | 3:36 |
 | 42 | [Leyla & Mecnun](https://open.spotify.com/track/6npz2LNhco8qYAloW7lTMS) | [Cem Belevi](https://open.spotify.com/artist/5yhN4qXpv9cghmJglovvmg), [Derya Uluğ](https://open.spotify.com/artist/7A6T0nTpXnPXDUGM1yEjEj) | [Leyla & Mecnun](https://open.spotify.com/album/0qYuZyddQa4XOlroSkxkLc) | 3:02 |
 | 43 | [Güneşe Dokundum \- Deep Mix](https://open.spotify.com/track/72AXtr3qhn2LKrNURTzdAQ) | [KÖFN](https://open.spotify.com/artist/3ZKkHPTZTq8z8pokwZiInd), [Salman Tin](https://open.spotify.com/artist/539RbtR2AVUYdmHQZjLL6m), [BKE](https://open.spotify.com/artist/51VogrGKLinkrSwYToAW1C), [Deeperise](https://open.spotify.com/artist/0ZRQKFaYGEtbLc8NbyICoe) | [Güneşe Dokundum \(Deep Mix\)](https://open.spotify.com/album/7LMXsVF5q3oBE7Pw2uBk1o) | 2:30 |
 | 44 | [Bir Anda](https://open.spotify.com/track/4tYUzluvpdFTKhGfT1HTcK) | [Nilhan](https://open.spotify.com/artist/04iDbY27hS8SKKr2toc0nD), [CEAUS](https://open.spotify.com/artist/16312wc5ERKYDDBVwRSAi4) | [Bir Anda](https://open.spotify.com/album/4cG5f9NFKkNr3rH7K3zcuD) | 2:38 |

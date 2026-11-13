@@ -4,7 +4,7 @@
 
 > music to get fly to ft\. Erykah Badu
 
-689 songs - 1 day 13 hr 7 min
+690 songs - 1 day 13 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,6 +249,7 @@
 | [Girls Just Want to Have Fun](https://open.spotify.com/track/7hvwgwbZCCGZaNRQSf8bin) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1), [Ecco2k](https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX) | [Crest](https://open.spotify.com/album/3j75sKW2Lw9gUEhjNzPKn4) | 2:14 | 2022-03-21 | 2022-04-28 |
 | [girls like me don't cry \(remix\) ft\. MIN](https://open.spotify.com/track/78ByURsaVK39jjwTaerCAk) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [MIN](https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw) | [girls like me don't cry \(remix\) ft\. MIN](https://open.spotify.com/album/6MmW9GNxUJ7rDoGs5xEbOf) | 3:33 | 2023-03-14 |  |
 | [Giving Up](https://open.spotify.com/track/61rELAKbEKXdidjxXviWd0) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Mafro](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm) | [Giving Up](https://open.spotify.com/album/2u0L2wbAbJAw5cx00Wk6zE) | 3:23 | 2022-10-07 | 2022-12-17 |
+| [Gloria](https://open.spotify.com/track/4I5uWfaZIrkKCHrbO7eLMV) | [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh) | [Gloria](https://open.spotify.com/album/0LikXFh8YeWcqgOXCgvA9R) | 2:36 | 2024-08-23 |  |
 | [Go Away](https://open.spotify.com/track/1JNv9ICYbayNgqm8fKPLqP) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:27 | 2022-10-26 | 2023-09-06 |
 | [Go Away](https://open.spotify.com/track/6BXHCHzw706smnLQdCIDUy) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Go Away](https://open.spotify.com/album/1nETLIyhtk8GjuqyfOt1G7) | 3:27 | 2021-08-05 | 2022-11-17 |
 | [God Only Knows](https://open.spotify.com/track/1Umw3vhysHBodpBFpFsVgK) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [50 Big Ones: Greatest Hits](https://open.spotify.com/album/6cSZPNsr3tMEHo5QrMjk1F) | 2:55 | 2023-09-07 | 2023-10-05 |
@@ -425,7 +426,7 @@
 | [N Side](https://open.spotify.com/track/3o8qt6r2OPf98KqXhNqVGD) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [N Side](https://open.spotify.com/album/5JHSkgh6NjwNJJSsjzzO1Z) | 3:44 | 2022-10-26 | 2022-11-14 |
 | [Naked](https://open.spotify.com/track/5Vth7eImumlAyhsW8PqqAM) | [Bickle](https://open.spotify.com/artist/1xFMeZFEf4ZUfuKwrfs5lB) | [Naked](https://open.spotify.com/album/6hTRp6fXyHzkMfSEdjvwlT) | 3:30 | 2022-07-29 | 2023-09-06 |
 | [Nasty](https://open.spotify.com/track/1iIkP4FMKqOw5nqbrKUqEC) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Quantum Baby](https://open.spotify.com/album/0fMcAd5V3GKgcjB5ANKeqQ) | 2:56 | 2024-08-23 | 2026-08-28 |
-| [Nasty](https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Nasty](https://open.spotify.com/album/1vMVDUsMWaD5eB4oahCboP) | 2:56 | 2024-05-02 |  |
+| [Nasty](https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Nasty](https://open.spotify.com/album/1vMVDUsMWaD5eB4oahCboP) | 2:56 | 2024-05-02 | 2026-11-13 |
 | [Nature Boy](https://open.spotify.com/track/2TeYqtSnWGOeo6hbhybmng) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [In Flight](https://open.spotify.com/album/1YYsXdhIdSosPehH3CjqZW) | 4:20 | 2023-09-07 | 2023-10-05 |
 | [Nectarine Lane](https://open.spotify.com/track/7rUdHARMP5eILXLw9ysN5F) | [Salina Killa](https://open.spotify.com/artist/5dmNompaODMC0v2jhwEzS0) | [Nectarine Lane](https://open.spotify.com/album/5q3B3Qg7msN3QYZYxQBm9q) | 2:29 | 2022-07-29 | 2022-12-17 |
 | [Never Lose Me](https://open.spotify.com/track/2x2olWuWXpqjoeE4bO1NFS) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Fine Ho, Stay](https://open.spotify.com/album/4tNtjyBBXMhGRwqOQTbh6i) | 2:05 | 2024-05-02 | 2024-05-07 |

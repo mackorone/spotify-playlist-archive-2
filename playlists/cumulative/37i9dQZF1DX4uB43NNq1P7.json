@@ -545,6 +545,24 @@
     },
     {
       "album": {
+        "name": "Faintly Remembered",
+        "url": "https://open.spotify.com/album/4BSO9nyWffk4pB81I2tvwg"
+      },
+      "artists": [
+        {
+          "name": "Joseph Alphane",
+          "url": "https://open.spotify.com/artist/65IJPn3wYi35Qpov4MXcFr"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136815,
+      "name": "Faintly Remembered",
+      "url": "https://open.spotify.com/track/68VUCJHt0Tf2JD3TrcAEss"
+    },
+    {
+      "album": {
         "name": "Forest Crystals",
         "url": "https://open.spotify.com/album/5zFlNgmr3bSv5cxCAUE43h"
       },
@@ -2144,6 +2162,24 @@
       "duration_ms": 216000,
       "name": "Solitude (rain)",
       "url": "https://open.spotify.com/track/7rJ7Zhxvd04reQjatzKhCg"
+    },
+    {
+      "album": {
+        "name": "Somewhere Between",
+        "url": "https://open.spotify.com/album/2a1aaFPZa7GjLN20DGLxXe"
+      },
+      "artists": [
+        {
+          "name": "Ziva",
+          "url": "https://open.spotify.com/artist/3w8cRlmbnCOmIcFqwNyN1S"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147271,
+      "name": "Somewhere Between",
+      "url": "https://open.spotify.com/track/5yzU3KEIJ2BIEmCKdNMWtm"
     },
     {
       "album": {

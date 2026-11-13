@@ -1,6 +1,6 @@
 {
   "description": "Music from the most memorable halftime shows. Cover: Bad Bunny",
-  "num_followers": 178858,
+  "num_followers": 178868,
   "original_name": "Halftime Hits",
   "owner": {
     "name": "Spotify",
@@ -883,6 +883,22 @@
     {
       "added_at": "2026-02-09 02:03:50",
       "album": {
+        "name": "Laundry Service",
+        "url": "https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 196160,
+      "name": "Whenever, Wherever",
+      "url": "https://open.spotify.com/track/2lnzGkdtDj5mtlcOW2yRtG"
+    },
+    {
+      "added_at": "2026-02-09 02:03:50",
+      "album": {
         "name": "The 20/20 Experience (Deluxe Version)",
         "url": "https://open.spotify.com/album/0O82niJ0NpcptYRxogeEZu"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 326271,
       "name": "Suit & Tie (feat. JAY-Z)",
       "url": "https://open.spotify.com/track/6vt0I1cw1YmAIKDJvHVIM5"
-    },
-    {
-      "added_at": "2026-02-09 02:03:50",
-      "album": {
-        "name": "Laundry Service",
-        "url": "https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 196160,
-      "name": "Whenever, Wherever",
-      "url": "https://open.spotify.com/track/2lnzGkdtDj5mtlcOW2yRtG"
     },
     {
       "added_at": "2026-02-09 02:03:50",

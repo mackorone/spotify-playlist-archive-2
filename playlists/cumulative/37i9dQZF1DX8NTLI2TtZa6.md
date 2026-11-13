@@ -4,7 +4,7 @@
 
 > Get\. It\. Done\. Focus\-enhancing piano music to keep you motivated during your study session.
 
-614 songs - 1 day 2 hr 15 min
+615 songs - 1 day 2 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Amaprinces Bend](https://open.spotify.com/track/6DhmBzQD76Ajsd1S0UyT1H) | [Sumsar](https://open.spotify.com/artist/3IKjg0f073Wk4IecayFzWW) | [Amaprinces Bend](https://open.spotify.com/album/4HYFWPnnGISTl8MVk85fgR) | 3:12 | 2021-12-07 | 2023-03-22 |
 | [Amihan](https://open.spotify.com/track/4Si7JHUD6XLygvGzNFyBMa) | [Grace Valiery](https://open.spotify.com/artist/2GllnATolaqI8jwDZzpwCz) | [Amihan](https://open.spotify.com/album/7aYBkUQL3hOvkOgLlENYD3) | 3:10 | 2021-12-07 | 2025-04-10 |
 | [Amour perdu](https://open.spotify.com/track/1sAsclZEYoNjzUmopro1aN) | [Francine Leblanc](https://open.spotify.com/artist/3ua2qjBzlY2IDpjWQJA8Uy) | [Amour perdu](https://open.spotify.com/album/1dY0LogeBi0BFu1C2joxCf) | 2:19 | 2021-12-07 | 2022-02-16 |
+| [An Evolving Heart](https://open.spotify.com/track/3qj4N0i3EEUaNi49yyAM7l) | [Evren Calder](https://open.spotify.com/artist/3UQfhTZxIT81OntthwCHTe) | [An Evolving Heart](https://open.spotify.com/album/5KQWwYjNx4AlIgD0tGR6kd) | 2:28 | 2026-11-13 |  |
 | [Anaïs](https://open.spotify.com/track/3ypf3tHRl2c8FsJRwAhDew) | [Satordi de Launay](https://open.spotify.com/artist/4NZ53ctU4KWRID8Y431vhq) | [Anaïs](https://open.spotify.com/album/6l2cjS9Z7tnOau7cUZBfzz) | 1:58 | 2021-12-07 | 2023-01-27 |
 | [And I Always Will](https://open.spotify.com/track/2ELwSFL1CGiJIlpHP3XFbZ) | [Julien Thorsen](https://open.spotify.com/artist/4mm2IRrNFYuVoESj439Apn) | [And I Always Will](https://open.spotify.com/album/6IMQgMaokDB7ZS5QkOJuoK) | 1:59 | 2021-12-07 | 2022-09-21 |
 | [And There You Were](https://open.spotify.com/track/0UqT57lsbRzjUt5lau8oLh) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [Until The Blissful Dawn](https://open.spotify.com/album/45UjPgFGq62QWAbmKiNxOM) | 2:24 | 2023-10-23 | 2023-11-08 |

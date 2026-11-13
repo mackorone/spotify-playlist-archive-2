@@ -4,7 +4,7 @@
 
 > A new world of alternative electronic music\. Cover: CC:DISCO!
 
-1,172 songs - 3 day 12 hr 43 min
+1,173 songs - 3 day 12 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -658,7 +658,7 @@
 | [Luna](https://open.spotify.com/track/2IA6VXnHBPEGFwSLQ3nDHo) | [Cristina Lazic](https://open.spotify.com/artist/6ArqtJTtHih9GEgA7XvDyg) | [Luna EP](https://open.spotify.com/album/0DET8MfvJCKUs6l1ICACFG) | 4:19 | 2024-02-29 | 2024-06-28 |
 | [Luv\-N\-Me](https://open.spotify.com/track/62t6tbynERX4KtHs2YY8LM) | [Baltra](https://open.spotify.com/artist/2tEyBfwGBfQgLXeAJW0MgC) | [Luv\-N\-Me](https://open.spotify.com/album/4fJ9MKxJKIb7sQaSz6LkvY) | 3:24 | 2022-12-08 | 2023-01-20 |
 | [M1, M3](https://open.spotify.com/track/6oVTKZr8DyW4PvV3MiMAhN) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [M1, M3 / GETOUTOFMYHEAD](https://open.spotify.com/album/6CD21gDg0zB2h1vLj54BDz) | 6:30 | 2023-02-23 | 2023-03-25 |
-| [Mad](https://open.spotify.com/track/4i2PhAH8B2dOtPsRY5EluD) | [Effy](https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0) | [Mad](https://open.spotify.com/album/4pDwGAeGYaZB0Nee3q13ch) | 3:58 | 2025-10-13 |  |
+| [Mad](https://open.spotify.com/track/4i2PhAH8B2dOtPsRY5EluD) | [Effy](https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0) | [Mad](https://open.spotify.com/album/4pDwGAeGYaZB0Nee3q13ch) | 3:58 | 2025-10-13 | 2026-11-13 |
 | [MADLY](https://open.spotify.com/track/7Eg6WudP6Qp7JzqldA2ZTH) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [JUNGLE](https://open.spotify.com/album/409STQlcajDkM1vdhM4Qxo) | 4:09 | 2023-03-09 | 2023-04-28 |
 | [Madres](https://open.spotify.com/track/3oZOhcGFBx5AdxDmpp209k) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Madres](https://open.spotify.com/album/72c0drLnTHGgihMXP0TXU5) | 3:56 | 2023-03-16 | 2023-05-26 |
 | [Magic](https://open.spotify.com/track/02IwpmWcx201kEvq51NA8s) | [Skin On Skin](https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa) | [Magic](https://open.spotify.com/album/3JIB4mCyKaYhxuxyp31vcJ) | 4:53 | 2023-08-17 | 2023-11-10 |
@@ -674,6 +674,7 @@
 | [Mantra](https://open.spotify.com/track/6FRKbLeBePLS0KTZqhVMgR) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Mantra](https://open.spotify.com/album/3y2isq1rsZQLsjXSjIwFBL) | 3:05 | 2026-10-16 |  |
 | [Manía](https://open.spotify.com/track/79aIchpmJXJPDx9J68r3Hg) | [Pangaea](https://open.spotify.com/artist/08Z0yhWGksNk3wceqlCeGE), [Jazz Alonso](https://open.spotify.com/artist/7eSY3eOVSH5SLYU0BV9sCY) | [Manía](https://open.spotify.com/album/6Q7DhlfnFSV2LM4J2hvHMy) | 2:51 | 2025-06-26 | 2025-10-13 |
 | [Mary Jane's In A Hurry \- Workout Mix](https://open.spotify.com/track/0Lspa4okmgvNCTkQHPZ7Gj) | [Deaf Toucan](https://open.spotify.com/artist/3psM3KJlClPARJnfMlnD7m) | [Mary Jane's In A Hurry](https://open.spotify.com/album/5dfkiA5JVvpkoHEa9pYSOq) | 4:56 | 2025-06-05 | 2025-10-13 |
+| [Maybe](https://open.spotify.com/track/0Od0JSjrcDmahzUiB5QepD) | [KH](https://open.spotify.com/artist/7nwdEDnfgNpPhWQCXX3KSx) | [Maybe](https://open.spotify.com/album/3EmDGlGCYEWrs05H0JJ4gO) | 5:17 | 2026-11-05 |  |
 | [Maybe Nevermind \- D.Tiffany's Late Night Mix](https://open.spotify.com/track/5pBNGZoHP5KjABO4ydCGoP) | [Regularfantasy](https://open.spotify.com/artist/4X8qmnrVs1wkdsccBjik8z), [D\. Tiffany](https://open.spotify.com/artist/2LMaARRMktW5O2umBFaQUu) | [New Glow](https://open.spotify.com/album/730jR5hdTM6cZI10fgl7tk) | 8:49 | 2022-12-08 | 2023-01-27 |
 | [MC1K](https://open.spotify.com/track/3l1eBFRRMBawgnvrQ9n5rE) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [MC1K](https://open.spotify.com/album/0FZJURseSsBcAAW8VwJoii) | 3:26 | 2024-07-04 | 2024-07-27 |
 | [Me Gusta Is Dead \(Period Pain Mix\)](https://open.spotify.com/track/4LWxBPGNib9JvUpyTjPXCu) | [CC:DISCO!](https://open.spotify.com/artist/37fxVoFAMzet5CiiDg7SL7) | [Touch The Vibe EP](https://open.spotify.com/album/7nMRaIo6gDJ8vyEZQJN6jm) | 8:00 | 2024-11-22 | 2025-02-07 |

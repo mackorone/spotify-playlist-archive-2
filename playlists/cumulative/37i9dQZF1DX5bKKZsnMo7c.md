@@ -2,9 +2,9 @@
 
 ### [Limelight](https://open.spotify.com/playlist/37i9dQZF1DX5bKKZsnMo7c)
 
-> Dramatic, theatrical pop: Mollie Elizabeth it's your moment!
+> Dramatic, theatrical pop: PEGGY it's your moment!
 
-632 songs - 1 day 10 hr 23 min
+635 songs - 1 day 10 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,6 +185,7 @@
 | [Expiration Dating](https://open.spotify.com/track/4RY8NabvRv6Y95x96asZbr) | [Madelline](https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL) | [Expiration Dating](https://open.spotify.com/album/6FFDFr43db7FFvrpOT6xAg) | 3:00 | 2025-05-23 |  |
 | [Fable](https://open.spotify.com/track/1e0vsza0hIVYv9Mkz542qn) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Fable](https://open.spotify.com/album/74JuKBkLUssHnghX4WusJw) | 4:21 | 2024-10-25 | 2025-07-12 |
 | [Fabulous](https://open.spotify.com/track/1LkpaAtSjAx5n4rrTkIQyu) | [MEEK](https://open.spotify.com/artist/1eg46ke5TEIuJpypjaSvi0) | [Fabulous](https://open.spotify.com/album/4RxIQmhjviMgTLRbCosPoN) | 2:33 | 2026-01-30 |  |
+| [Faces](https://open.spotify.com/track/2VOaEUAQqdOOc7fUCHNpjE) | [Livingston](https://open.spotify.com/artist/2fPsJqR6zfoHatC1eFr0eQ) | [Faces](https://open.spotify.com/album/6MtEJILItZjay2VgIWdWO1) | 3:29 | 2026-11-13 |  |
 | [fairest fruit](https://open.spotify.com/track/4eTLw4k738PaAaHz81XXC6) | [Stateira](https://open.spotify.com/artist/5kS1vwsmrRriPqB1OLOTUZ) | [fairest fruit](https://open.spotify.com/album/7EYeVtJIk3E8gQGDWs4E0s) | 4:02 | 2026-02-27 | 2026-09-22 |
 | [Fairytale](https://open.spotify.com/track/4eDtZP99H6xfasP4Tku9Ee) | [Livingston](https://open.spotify.com/artist/2fPsJqR6zfoHatC1eFr0eQ) | [Lighthouse](https://open.spotify.com/album/4Pmm7z9aZUxOifop5oDvOJ) | 2:49 | 2022-05-23 | 2022-06-02 |
 | [Fall In Love With A Girl \(feat\. Beabadoobee\)](https://open.spotify.com/track/0rH1Y0mcALJgAq8EKF2Zwt) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8), [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Fall In Love With A Girl \(feat\. Beabadoobee\)](https://open.spotify.com/album/18czgkFPCbEyxqTGt3dBQ1) | 3:11 | 2022-05-17 | 2022-06-02 |
@@ -257,6 +258,7 @@
 | [Hearts Intuition](https://open.spotify.com/track/1envNC0ZHjXxqNUaMNSwsH) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [What Happened To The Heart? \(Deluxe\)](https://open.spotify.com/album/7GnH4NzxlsMd5EijCfUAkM) | 3:21 | 2025-05-02 | 2025-05-22 |
 | [Helen's Door](https://open.spotify.com/track/3vMX1vKzmkprqxRiKwDNfu) | [Melina KB](https://open.spotify.com/artist/2bFguwibp03RkAAuC9oYrP) | [Helen's Door](https://open.spotify.com/album/34yIxzhBiLbKWvneIEXE30) | 2:34 | 2026-02-20 | 2026-10-24 |
 | [Hello Florence, How Are You?](https://open.spotify.com/track/0WII8HWOY0oYYpVNscWPDo) | [Florence Arman](https://open.spotify.com/artist/2OTqocUdUt52tEuCd1sJ15) | [Hello Florence, How Are You?](https://open.spotify.com/album/3GVON6N4X0E395w9Ai1cbc) | 4:15 | 2023-01-06 | 2023-01-21 |
+| [HERETIC](https://open.spotify.com/track/5u74bjEr8UeSVFcBAcYGtP) | [PEGGY](https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh) | [ONCE UPON A TIME](https://open.spotify.com/album/6EdSkWoFNcsrKV4tRPlzmq) | 3:16 | 2026-11-13 |  |
 | [Hermit the Frog](https://open.spotify.com/track/4Zcz6saEkOII3PlXd9gN3o) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [The Family Jewels](https://open.spotify.com/album/1CtDa7pVfLF4u2ZadRTWz7) | 3:35 | 2022-05-17 |  |
 | [hide n seek](https://open.spotify.com/track/124MUbhjtneYWTOaVvkLJx) | [Ethan Bortnick](https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY) | [luna park](https://open.spotify.com/album/3JszvFwSmbe6kPv15wbnq9) | 2:56 | 2024-02-16 | 2025-02-15 |
 | [High In Brighton](https://open.spotify.com/track/2Y8nigywBusiNvZMuwL0v3) | [FIZZ](https://open.spotify.com/artist/0zooagBp2tYdvvSLp74S7U) | [High In Brighton](https://open.spotify.com/album/5CvoTuFxsWLLPhOp73RAtG) | 2:51 | 2023-06-15 | 2023-06-21 |
@@ -285,6 +287,7 @@
 | [i only smoke to feel bad](https://open.spotify.com/track/5gtAq2cTH1MpT2Ek8zv7mt) | [KiNG MALA](https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2) | [SPILT MILK](https://open.spotify.com/album/7bjMUmI8UUbAMWUIW0GCkk) | 3:00 | 2023-11-10 | 2024-02-10 |
 | [I Wanna Be In Love Again](https://open.spotify.com/track/3SoskoFsarFxM4xiGN2VvQ) | [Madds Buckley](https://open.spotify.com/artist/4BLdbgVNetzII3ggCMsNtq) | [I Wanna Be In Love Again](https://open.spotify.com/album/0jiEtrM5SHUJ2lAqDBlgdY) | 4:37 | 2022-12-02 | 2023-01-14 |
 | [I Wanna Be In Love So Bad](https://open.spotify.com/track/1ZeZ1DnI5FU0ii7WNx1Zeo) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [My Lover](https://open.spotify.com/album/2huUEfqWfvuCa2MZKuCBO9) | 3:20 | 2026-04-10 | 2026-10-17 |
+| [I Want to Push You in Front of the Subway](https://open.spotify.com/track/0dl7gKsFn8eb78zJ0Pghi9) | [Benjamin Hightower](https://open.spotify.com/artist/70A1X73rk0NI2d6A8pENYN) | [New to the City](https://open.spotify.com/album/4CzT8kDhShsf7cJuC3QwXV) | 3:32 | 2026-11-13 |  |
 | [I Write Sins Not Tragedies](https://open.spotify.com/track/4bPQs0PHn4xbipzdPfn6du) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [A Fever You Can't Sweat Out](https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW) | 3:06 | 2022-05-17 | 2022-12-10 |
 | [I'm a never forgive kinda girl](https://open.spotify.com/track/2ukT0tGixZxC0rYwsG9b3J) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [FABLES](https://open.spotify.com/album/6oHz1CC0PuNSGgRzAOZowX) | 2:05 | 2025-01-10 | 2025-08-18 |
 | [I'm in Love With an E\-Girl](https://open.spotify.com/track/44wBlg3Y1KSAEmaze5BXe7) | [Wilbur Soot](https://open.spotify.com/artist/2XzXLjXRSeFtsic4ieyLJy) | [I'm in Love With an E\-Girl](https://open.spotify.com/album/2IrovQloj4bX8iUnCd0Usp) | 3:59 | 2022-05-17 | 2022-06-17 |

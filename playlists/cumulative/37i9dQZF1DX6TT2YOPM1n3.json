@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-05",
-  "description": "Apne mulk ki homegrown hits \ud83c\udfb6 Cover: Hamza Malik",
+  "description": "Apne mulk ki homegrown hits \ud83c\udfb6 Cover:  Asim Azhar",
   "name": "Pakka Hit Hai",
   "tracks": [
     {
@@ -530,6 +530,28 @@
       "duration_ms": 184373,
       "name": "Alfaaz",
       "url": "https://open.spotify.com/track/0tW2gwaRzFQQrgr2UCO56G"
+    },
+    {
+      "album": {
+        "name": "Alfaaz - Vocals",
+        "url": "https://open.spotify.com/album/44FAgDX3YEMQ6KmkUxCOuf"
+      },
+      "artists": [
+        {
+          "name": "Hamza Malik",
+          "url": "https://open.spotify.com/artist/1GE8jiWTAhX18vP7Wqxig9"
+        },
+        {
+          "name": "Zain Zohaib",
+          "url": "https://open.spotify.com/artist/0M4wzwZKh9SSHkOXYNvQlP"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172977,
+      "name": "Alfaaz - Vocals",
+      "url": "https://open.spotify.com/track/22O7lA56jLJee5p0XR8UNz"
     },
     {
       "album": {
@@ -2162,6 +2184,40 @@
       "duration_ms": 221550,
       "name": "Faltu Pyar",
       "url": "https://open.spotify.com/track/1yFryDjhXXIIaJA1dKqrab"
+    },
+    {
+      "album": {
+        "name": "Jadugar",
+        "url": "https://open.spotify.com/album/5F5igg6wWOhuhZWvL3yI4l"
+      },
+      "artists": [
+        {
+          "name": "Talhah Yunus",
+          "url": "https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5"
+        },
+        {
+          "name": "Sabaat Batin",
+          "url": "https://open.spotify.com/artist/3Q10GP2eLMD5yS7sczpwju"
+        },
+        {
+          "name": "Shae Gill",
+          "url": "https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP"
+        },
+        {
+          "name": "Jokhay",
+          "url": "https://open.spotify.com/artist/0Nl4kTPLk2ucrARvaf55zQ"
+        },
+        {
+          "name": "Umair",
+          "url": "https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215111,
+      "name": "Farebi",
+      "url": "https://open.spotify.com/track/007ZqPQWH1WJqFm0obrLXe"
     },
     {
       "album": {
@@ -4229,6 +4285,32 @@
     },
     {
       "album": {
+        "name": "Maheya | Coke Studio Nu.WAV",
+        "url": "https://open.spotify.com/album/0il0NJaJAT6DIG5JedUIOK"
+      },
+      "artists": [
+        {
+          "name": "Asim Azhar",
+          "url": "https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS"
+        },
+        {
+          "name": "AARYAN",
+          "url": "https://open.spotify.com/artist/3b1957PW1iBjUULrNYSohi"
+        },
+        {
+          "name": "Rovalio",
+          "url": "https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218400,
+      "name": "Maheya | Coke Studio Nu.WAV",
+      "url": "https://open.spotify.com/track/6M9r6baHDuTaXREdS1Li47"
+    },
+    {
+      "album": {
         "name": "Main Rahun (From \"Parwarish\") [Original Motion Picture Soundtrack]",
         "url": "https://open.spotify.com/album/25gVPoJgNIlNPGxOOij21C"
       },
@@ -4291,6 +4373,28 @@
     },
     {
       "album": {
+        "name": "Majaal",
+        "url": "https://open.spotify.com/album/4PGMSd9Ax7NN82jfmim6GQ"
+      },
+      "artists": [
+        {
+          "name": "Tehseen",
+          "url": "https://open.spotify.com/artist/6zDkKkevCSbvdZhIOsRPY6"
+        },
+        {
+          "name": "Joshwa Javaid",
+          "url": "https://open.spotify.com/artist/6c9Nnn4V6eLs6lLTdAFmmo"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Majaal",
+      "url": "https://open.spotify.com/track/3o3KPmpaI6QqLX9VOGF70Q"
+    },
+    {
+      "album": {
         "name": "Majboor",
         "url": "https://open.spotify.com/album/15AHQmI89vZpF6a5o8i3J7"
       },
@@ -4306,7 +4410,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-09",
+      "date_removed": null,
       "duration_ms": 145333,
       "name": "Majboor",
       "url": "https://open.spotify.com/track/0lp3WWhjxFVUht81AQmWX8"
@@ -4719,6 +4823,28 @@
     },
     {
       "album": {
+        "name": "Mujhse Kyun Bair Kiya (From \"Dar-E-Nijaat\")",
+        "url": "https://open.spotify.com/album/4XkHLqDulxEyVWzhbTzzb4"
+      },
+      "artists": [
+        {
+          "name": "Naveed Nashad",
+          "url": "https://open.spotify.com/artist/22fO3UH96rJbcBGI0YN7Ue"
+        },
+        {
+          "name": "Sehar Gul Khan",
+          "url": "https://open.spotify.com/artist/1REoitWY7dtWTikiEjoeVk"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230526,
+      "name": "Mujhse Kyun Bair Kiya (From \"Dar-E-Nijaat\")",
+      "url": "https://open.spotify.com/track/1nPaOBld16buKTJgo3NVIv"
+    },
+    {
+      "album": {
         "name": "Mushk",
         "url": "https://open.spotify.com/album/0TqLMqmG2Gp3W6QhsCGQCJ"
       },
@@ -4896,6 +5022,24 @@
       "duration_ms": 190985,
       "name": "Not Enough",
       "url": "https://open.spotify.com/track/1caCUoqSxqsZDN6Ackcswv"
+    },
+    {
+      "album": {
+        "name": "O Re Bewafa",
+        "url": "https://open.spotify.com/album/0LUzd9uDzzip3fLTtcKJF8"
+      },
+      "artists": [
+        {
+          "name": "Asad Naeem",
+          "url": "https://open.spotify.com/artist/0x0qbiFCy5b2U0jHWX0FeA"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175205,
+      "name": "O Re Bewafa",
+      "url": "https://open.spotify.com/track/1nYpVTN4XBheAksZvw9NkZ"
     },
     {
       "album": {
@@ -5451,6 +5595,32 @@
     },
     {
       "album": {
+        "name": "Qasam | Coke Studio Nu.WAV",
+        "url": "https://open.spotify.com/album/4q5WpIQxf8CdHmihsCJGmM"
+      },
+      "artists": [
+        {
+          "name": "Shae Gill",
+          "url": "https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP"
+        },
+        {
+          "name": "Afusic",
+          "url": "https://open.spotify.com/artist/1pS0qiLG23HMMLFwsQALKx"
+        },
+        {
+          "name": "Abdullah Kasumbi",
+          "url": "https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "Qasam | Coke Studio Nu.WAV",
+      "url": "https://open.spotify.com/track/3NzuLGv6JWOQ8qo8DnLSOd"
+    },
+    {
+      "album": {
         "name": "Qurbaniyan (Orignal Soundtrack from Dekh Zara Pyar Se)",
         "url": "https://open.spotify.com/album/0DIXsrFbfilk0FCGCZ7IyP"
       },
@@ -5608,7 +5778,7 @@
       ],
       "date_added": "2025-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-09",
+      "date_removed": null,
       "duration_ms": 278474,
       "name": "Ranjheya Ve",
       "url": "https://open.spotify.com/track/5J9L7IbadCt0ivs9xmNrr0"
@@ -6224,6 +6394,32 @@
       "duration_ms": 278401,
       "name": "Secrets",
       "url": "https://open.spotify.com/track/3wFAgtVWxbCPvf7sL9xIwF"
+    },
+    {
+      "album": {
+        "name": "Shabnam | Coke Studio Nu.WAV",
+        "url": "https://open.spotify.com/album/6c4Dv3U3Sf325JaOQsOddD"
+      },
+      "artists": [
+        {
+          "name": "Maanu",
+          "url": "https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY"
+        },
+        {
+          "name": "Zoha Waseem",
+          "url": "https://open.spotify.com/artist/20DlRoUeIcVHGEEgYuvvZ8"
+        },
+        {
+          "name": "Talal Qureshi",
+          "url": "https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195963,
+      "name": "Shabnam | Coke Studio Nu.WAV",
+      "url": "https://open.spotify.com/track/17WwR2B3eh8jJ8dII4oh9d"
     },
     {
       "album": {

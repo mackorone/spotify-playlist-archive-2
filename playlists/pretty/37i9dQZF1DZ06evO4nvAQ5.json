@@ -1,12 +1,12 @@
 {
   "description": "This is J Boog. The essential tracks, all in one playlist.",
-  "num_followers": 16675,
+  "num_followers": 16674,
   "original_name": "This Is J Boog",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avENAAAAAAD/QtpEwNlwvrOGq2zWYfAz",
+  "snapshot_id": "avOwAAAAAABii8kspnjWMs6jpVZiG8NF",
   "tracks": [
     {
       "added_at": null,
@@ -347,26 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Smoking Bomb Bud",
-        "url": "https://open.spotify.com/album/5nnejNpcW9HNght3spNqYh"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        },
-        {
-          "name": "Fiji",
-          "url": "https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ"
-        }
-      ],
-      "duration_ms": 216967,
-      "name": "Smoking Bomb Bud",
-      "url": "https://open.spotify.com/track/618CpFCQ6R3i4jPlyTvspX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amid the Noise and Haste",
         "url": "https://open.spotify.com/album/3PPShSOyJlk6lG6BheUqCe"
       },
@@ -387,6 +367,26 @@
       "duration_ms": 195439,
       "name": "Easier",
       "url": "https://open.spotify.com/track/2pmhCyJqNiF2IEE0ATRNaM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Smoking Bomb Bud",
+        "url": "https://open.spotify.com/album/5nnejNpcW9HNght3spNqYh"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        },
+        {
+          "name": "Fiji",
+          "url": "https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ"
+        }
+      ],
+      "duration_ms": 216967,
+      "name": "Smoking Bomb Bud",
+      "url": "https://open.spotify.com/track/618CpFCQ6R3i4jPlyTvspX"
     },
     {
       "added_at": null,
@@ -739,6 +739,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pacific Coast Highway",
+        "url": "https://open.spotify.com/album/2tVLaJCNrTTEWRqGDtxDiH"
+      },
+      "artists": [
+        {
+          "name": "Monsta Ganjah",
+          "url": "https://open.spotify.com/artist/1S66TJhuIfLtz0yEfpv1BL"
+        },
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 243218,
+      "name": "This Is Love",
+      "url": "https://open.spotify.com/track/6kT2DiTbDomd5UJtBJb5Jv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Backyard Boogie",
         "url": "https://open.spotify.com/album/3asYxal37yC5t4M41SdCoZ"
       },
@@ -759,26 +779,6 @@
       "duration_ms": 241083,
       "name": "Hawaiian Pakalolo (feat. Jah Maoli & Spawnbreezie)",
       "url": "https://open.spotify.com/track/0e6WIHOetJ8C3ygoGTohb4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pacific Coast Highway",
-        "url": "https://open.spotify.com/album/2tVLaJCNrTTEWRqGDtxDiH"
-      },
-      "artists": [
-        {
-          "name": "Monsta Ganjah",
-          "url": "https://open.spotify.com/artist/1S66TJhuIfLtz0yEfpv1BL"
-        },
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 243218,
-      "name": "This Is Love",
-      "url": "https://open.spotify.com/track/6kT2DiTbDomd5UJtBJb5Jv"
     },
     {
       "added_at": null,
@@ -971,6 +971,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Break Us Apart",
+        "url": "https://open.spotify.com/album/36crWYwVp2wVZiP6dB5Kzn"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 220909,
+      "name": "Break Us Apart",
+      "url": "https://open.spotify.com/track/7o3rG4WBwROoE8USJMS5Xc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Natural Vibration (Hawaiian Version)",
         "url": "https://open.spotify.com/album/6oM449ilpSbesrHmOxWx0B"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 201173,
       "name": "Natural Vibration (Hawaiian Version)",
       "url": "https://open.spotify.com/track/1irrn7c9q33lajtfvmN0eX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Break Us Apart",
-        "url": "https://open.spotify.com/album/36crWYwVp2wVZiP6dB5Kzn"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 220909,
-      "name": "Break Us Apart",
-      "url": "https://open.spotify.com/track/7o3rG4WBwROoE8USJMS5Xc"
     }
   ],
   "unique_name": "This Is J Boog",

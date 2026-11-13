@@ -2,9 +2,9 @@
 
 ### [RAP 91 Tamil](https://open.spotify.com/playlist/37i9dQZF1DXcZdJumtdMCZ)
 
-> Best of Tamil Hip\-Hop!<br/>Cover : Navz\-47
+> Best of Tamil Hip\-Hop!<br/>Cover : Hiphop Tamizha
 
-408 songs - 21 hr 7 min
+409 songs - 21 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -291,6 +291,7 @@
 | [Ratha Vaada](https://open.spotify.com/track/68OHTUe2PKRWdMIfchm9X8) | [Tha Anbu](https://open.spotify.com/artist/3yg7QLoFurlYyudmr28RrM) | [Ratha Vaada](https://open.spotify.com/album/6XVhUVNsirS9PJDKPjeRHc) | 2:22 | 2025-05-02 | 2025-12-31 |
 | [RATS](https://open.spotify.com/track/1B8F57w0px2VQnt3osOClz) | [Isaivani](https://open.spotify.com/artist/5QeisthWrXdLXPKSxSSAdL), [Gana Gowtham](https://open.spotify.com/artist/4uLvyDqG9a9ar8wk20issC), [Atiium](https://open.spotify.com/artist/59FtOOdwOyFCBSRh7drSjU) | [RATS](https://open.spotify.com/album/7vARACVxzyKVLTp19WPyrv) | 1:56 | 2025-12-10 | 2026-09-03 |
 | [Rekka Rekka \- From "Bison Kaalamaadan"](https://open.spotify.com/track/2lyodB0HLF9KWD8lR4EA4J) | [Nivas K Prasanna](https://open.spotify.com/artist/3RN1T82XXhayseL1rCdJnp), [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71), [Vedan](https://open.spotify.com/artist/1Clwe5e4xyRasANUVlpcCf), [Mari Selvaraj](https://open.spotify.com/artist/38Zkf8fQfCpFzXsHfGVRdF) | [Rekka Rekka \(From "Bison Kaalamaadan"\)](https://open.spotify.com/album/7Br0FidswToB3vRdj9H8Nl) | 5:03 | 2025-09-16 | 2026-06-16 |
+| [Return Of The Dragon Machi](https://open.spotify.com/track/4Wu2mjty32wB7Fh4thxcrH) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q), [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3) | [Return Of The Dragon Machi](https://open.spotify.com/album/0OrWRSFfebQOSFSmVAa2hA) | 3:03 | 2026-11-13 |  |
 | [Rich Rich \(From "Mahaan"\)](https://open.spotify.com/track/0Ozbr9VJeL4ratoGYWop3K) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Durai](https://open.spotify.com/artist/17g7q1dOGhKiEfUY1BRQNe), [ofRO](https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts) | [Rich Rich \(From "Mahaan"\)](https://open.spotify.com/album/3Z4pHhZ5NKMNoNCKIngFCm) | 3:05 | 2022-02-08 | 2025-06-04 |
 | [RIGHTA](https://open.spotify.com/track/3aCAZ1BG3Arw9vr4BS9bH4) | [Tha Mystro](https://open.spotify.com/artist/1CDq8tF7Lqvq3TqLCmNOMQ), [M.Kowtham](https://open.spotify.com/artist/71LicWNSBQwSA0kd8Ncm63) | [RIGHTA](https://open.spotify.com/album/7eDopjlMuLu5f7UlteRDwc) | 2:26 | 2025-01-16 | 2025-09-25 |
 | [Rise of Linga \(From "MAGUDAM"\)](https://open.spotify.com/track/0MghbXuLRY6AbFFAMaUAp8) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [V7h](https://open.spotify.com/artist/12UkcM69ZnjKtvacIgVDdl) | [Rise of Linga \(From "MAGUDAM"\)](https://open.spotify.com/album/5N1Cs9I75y7ArInnP9Nbs1) | 3:24 | 2026-06-24 | 2026-11-03 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNIrSzKgQbP.md) - [plain]
 
 > Sweet songs for sunny days.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,624,756 likes - 75 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,624,555 likes - 75 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNIrSzKgQbP.md) - [plain]
 | 51 | [leave flowers](https://open.spotify.com/track/3OL3NrfcA6WFVBbB0LrDph) | [Sam Nelson Harris](https://open.spotify.com/artist/4SIjsqKdaPeIVDqrALa4Mv), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [why does everything make me cry?](https://open.spotify.com/album/45T13v8nPmnCCbkOtiAACm) | 3:01 |
 | 52 | [Who Wants](https://open.spotify.com/track/0qFvmOIl2cd0NItNgXSbv5) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Who Wants](https://open.spotify.com/album/12o0RLnSOC8pR8rBikuwW4) | 3:25 |
 | 53 | [blue jean](https://open.spotify.com/track/40vvgzQb8LSURO2Vh7dJgz) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [mountain of a memory](https://open.spotify.com/album/2Ct90NeLz3xERcabIYEHIT) | 4:36 |
-| 54 | [Carolina](https://open.spotify.com/track/0yoVKmMKSVCU7tY3R2sO1S) | [Julia Pratt](https://open.spotify.com/artist/0F9yMp30FUREoa635VLsY8) | [Carolina](https://open.spotify.com/album/1nX7BDlyLkRSLzeXX3E89I) | 4:00 |
-| 55 | [Riptide](https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:24 |
+| 54 | [Riptide](https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:24 |
+| 55 | [Carolina](https://open.spotify.com/track/0yoVKmMKSVCU7tY3R2sO1S) | [Julia Pratt](https://open.spotify.com/artist/0F9yMp30FUREoa635VLsY8) | [Carolina](https://open.spotify.com/album/1nX7BDlyLkRSLzeXX3E89I) | 4:00 |
 | 56 | [Artichoke](https://open.spotify.com/track/4bM74eqvr4Pr9CmYeDYOht) | [Bloomsday](https://open.spotify.com/artist/6DhYH5Yx7mZG0qkBmioMbI) | [Heart of the Artichoke](https://open.spotify.com/album/01Y6gij1vhxRlST9TEfDSK) | 2:43 |
 | 57 | [Sister Moon](https://open.spotify.com/track/6gkgd7ayZdwvd8z7wYIMeL) | [Andrea von Kampen](https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY) | [Such Love Does](https://open.spotify.com/album/7qNbPyJsIY98uut0qke5PY) | 2:54 |
 | 58 | [Roughnecks](https://open.spotify.com/track/0KSUCILZvumWBejaVO1atl) | [Briscoe](https://open.spotify.com/artist/28NTlcAifzUgF4SIZgxncj) | [Roughnecks](https://open.spotify.com/album/3XWR1AWPbumu1A2tLTBaKP) | 4:07 |

@@ -2,7 +2,7 @@
 
 ### [Sora Ambient](https://open.spotify.com/playlist/37i9dQZF1DWZqNqPemiefM)
 
-> The artisanal ambient and alternative sounds make you float in the air\. / 上質なアンビエントとオルタナティブミュージック cover: aus
+> The artisanal ambient and alternative sounds make you float in the air\. / 上質なアンビエントとオルタナティブミュージック cover: Maharishi Yogo & Doc No
 
 1,146 songs - 3 day 15 hr 12 min
 

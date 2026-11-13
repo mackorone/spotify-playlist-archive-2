@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0LctmTPNQ3v.md) - [plain]
 
 > Your soundtrack for a not\-so\-silent night\. Cover: Ice Nine Kills
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,761 likes - 73 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,842 likes - 73 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXE7JlNQ8iBe.md) - [plain]
 
 > Silvana Estrada le dedica su canto a La Catrina, para mantener nuestra tradición viva.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,442 likes - 48 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,450 likes - 48 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2PvcRINiHpzzSWn0k2h8Wc.md) - [plain]
 
 > 
 
-[Leah](https://open.spotify.com/user/45qhw1s0njc96km65yesotdhi) - 1 like - 16 songs - 1 hr 0 min
+[Leah](https://open.spotify.com/user/45qhw1s0njc96km65yesotdhi) - 1 like - 16 songs - 57 min 51 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/2PvcRINiHpzzSWn0k2h8Wc.md) - [plain]
 | 12 | [Coming Up Roses](https://open.spotify.com/track/0QPdjsMOUhwouq1NS3HwfQ) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Kiss All The Time\. Disco, Occasionally.](https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR) | 4:08 |
 | 13 | [what’s wrong with me](https://open.spotify.com/track/1W7023CuJrWPbD4q2Sipoh) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG), [Robert Smith](https://open.spotify.com/artist/6G7P2EzH5A36ujN9VPm4B0) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl) | 3:44 |
 | 14 | [the cure](https://open.spotify.com/track/55pBIZO1cqoldeqpp5WR7H) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl) | 4:57 |
-| 15 | [Lovers Always Lose](https://open.spotify.com/track/3ZkwvKNhrOR8f5nFJt6iKE) | [Boys Go To Jupiter](https://open.spotify.com/artist/74HXuOPXsmbmsjoW69Jwyd) | [Meet Me After Practice](https://open.spotify.com/album/7D9ql7QpfXRlcWesB4FXQQ) | 4:59 |
+| 15 | [Staying](https://open.spotify.com/track/3tcCT8WhAIeRW2Ey9M4bL5) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older](https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM) | 2:31 |
 | 16 | [Two elevens](https://open.spotify.com/track/5eyA1FEEE0pMazqeAA3AYD) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Angel](https://open.spotify.com/album/6mQC4efviywahzfwgLvye0) | 3:55 |
 
-Snapshot ID: `AAAAQIkJxQsDulGyt04eMO9buUMNbPS1`
+Snapshot ID: `AAAAQ7iM2gp3GZDTSD2wyKESMxeOw62L`

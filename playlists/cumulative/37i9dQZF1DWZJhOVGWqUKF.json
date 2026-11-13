@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: Lonely Spring",
+  "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: Fall Out Boy",
   "name": "Rock Rotation",
   "tracks": [
     {
@@ -616,7 +616,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 238939,
       "name": "About You - Bonus Version",
       "url": "https://open.spotify.com/track/07f2UG1AH6Z1zv4LeGgUSA"
@@ -678,6 +678,24 @@
       "duration_ms": 199573,
       "name": "Accept Myself",
       "url": "https://open.spotify.com/track/2eK6zmnseWIMW52PR2Z0t1"
+    },
+    {
+      "album": {
+        "name": "ACES",
+        "url": "https://open.spotify.com/album/6T9ZMACdVbFDmk22nZLpzH"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211844,
+      "name": "ACES",
+      "url": "https://open.spotify.com/track/2sCwIkIPsvrZXbHNQWkvo8"
     },
     {
       "album": {
@@ -820,6 +838,24 @@
       "duration_ms": 184215,
       "name": "AFRAID TO DIE (feat. Tatiana Shmayluk from Jinjer)",
       "url": "https://open.spotify.com/track/0MVhJOLU3VhNRzWLwTtA26"
+    },
+    {
+      "album": {
+        "name": "Reflections (Deluxe)",
+        "url": "https://open.spotify.com/album/7s0wnxn8Ts1NIY4bxtpb2Z"
+      },
+      "artists": [
+        {
+          "name": "From Ashes to New",
+          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215140,
+      "name": "After Death",
+      "url": "https://open.spotify.com/track/6Jfa3hoyqX19Iriw3zVYiH"
     },
     {
       "album": {
@@ -3948,7 +3984,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 203633,
       "name": "Cold",
       "url": "https://open.spotify.com/track/3TaeBT5aGh7qxbxTPoLpf1"
@@ -7529,6 +7565,24 @@
     },
     {
       "album": {
+        "name": "Watch Me Break",
+        "url": "https://open.spotify.com/album/42SD0Ruq8nFCzt9aVc4Vv0"
+      },
+      "artists": [
+        {
+          "name": "Staind",
+          "url": "https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192662,
+      "name": "Ghosts",
+      "url": "https://open.spotify.com/track/5LdXaagxNv16sMktjnJAzp"
+    },
+    {
+      "album": {
         "name": "Idols",
         "url": "https://open.spotify.com/album/19PD2IPfceDn9fLAa05TFE"
       },
@@ -8906,7 +8960,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 176066,
       "name": "Hollow",
       "url": "https://open.spotify.com/track/29zuhsQWT2Ik7sPC2K1gPM"
@@ -9348,6 +9402,32 @@
       "duration_ms": 214160,
       "name": "I DESTROYED YOU",
       "url": "https://open.spotify.com/track/5w2mj0Q6CKU3rwmRT09Fr3"
+    },
+    {
+      "album": {
+        "name": "I Don't Trust Tomorrow",
+        "url": "https://open.spotify.com/album/3A9RwIkOqmTjxTTKKCOrzw"
+      },
+      "artists": [
+        {
+          "name": "Bullet For My Valentine",
+          "url": "https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT"
+        },
+        {
+          "name": "Will Ramos",
+          "url": "https://open.spotify.com/artist/0LQyNolD82BRJeXoEr4bwa"
+        },
+        {
+          "name": "Lorna Shore",
+          "url": "https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219819,
+      "name": "I Don't Trust Tomorrow",
+      "url": "https://open.spotify.com/track/3fJ7bg6WdnWEPfkmdFqqxk"
     },
     {
       "album": {
@@ -9938,7 +10018,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 273906,
       "name": "In A Life",
       "url": "https://open.spotify.com/track/1fbIlgO7EgYsDzk3r3uRz2"
@@ -11873,6 +11953,24 @@
     },
     {
       "album": {
+        "name": "Lover / Loser",
+        "url": "https://open.spotify.com/album/001TEAE6u3FiY93ReRtygo"
+      },
+      "artists": [
+        {
+          "name": "Attic Stories",
+          "url": "https://open.spotify.com/artist/6WLBHcOEiXfOt5mrREFth2"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193255,
+      "name": "Lover / Loser",
+      "url": "https://open.spotify.com/track/2aW0hN9SymWXlwzqKLjvlR"
+    },
+    {
+      "album": {
         "name": "Lovesick Lullaby",
         "url": "https://open.spotify.com/album/3zwpHJVP5RXTpzQ7o2dpTu"
       },
@@ -11920,7 +12018,7 @@
       ],
       "date_added": "2026-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 177746,
       "name": "Luca Wanted a Cash Cow but All He Got Was This Song (We Both Deserved Better)",
       "url": "https://open.spotify.com/track/1ZlgnlatnJnpm0o4cICwmk"
@@ -14447,6 +14545,24 @@
     },
     {
       "album": {
+        "name": "Paradise Pit",
+        "url": "https://open.spotify.com/album/1S40HGamc3L17KqVCAT31k"
+      },
+      "artists": [
+        {
+          "name": "FREVD",
+          "url": "https://open.spotify.com/artist/3uXCmzYLCYOItkXSvnVYjg"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209443,
+      "name": "Paradise Pit",
+      "url": "https://open.spotify.com/track/3dkcdkm35tdjv9xMgyIwBv"
+    },
+    {
+      "album": {
         "name": "Paradox Man",
         "url": "https://open.spotify.com/album/3Of6FVyVd8Qm9UGgY3xnsi"
       },
@@ -15208,6 +15324,24 @@
       "duration_ms": 157106,
       "name": "Punks And Demons",
       "url": "https://open.spotify.com/track/3aK2ctwWDXDMZCNGEKwcKg"
+    },
+    {
+      "album": {
+        "name": "Push the River",
+        "url": "https://open.spotify.com/album/3vhapgOEEpYTHTitvs2Nsx"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287325,
+      "name": "Push the River",
+      "url": "https://open.spotify.com/track/0HffjoYID4kfTPHwPcVNvR"
     },
     {
       "album": {
@@ -16616,7 +16750,7 @@
       ],
       "date_added": "2026-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 188559,
       "name": "Show Me How to Be",
       "url": "https://open.spotify.com/track/2g0moilcM4Tc312oxdmkkM"
@@ -17078,6 +17212,24 @@
       "duration_ms": 226466,
       "name": "So Close",
       "url": "https://open.spotify.com/track/0IdFYp4PNFYgqzfjEeLzQf"
+    },
+    {
+      "album": {
+        "name": "So Fed Up",
+        "url": "https://open.spotify.com/album/4mhsP1BLGm4C3vqaykwhre"
+      },
+      "artists": [
+        {
+          "name": "Baits",
+          "url": "https://open.spotify.com/artist/4HUALyDksgCev2Td6iP7WB"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136923,
+      "name": "So Fed Up",
+      "url": "https://open.spotify.com/track/1cQOaDnacEZSq0czBEUAWK"
     },
     {
       "album": {
@@ -20046,7 +20198,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 238002,
       "name": "Unravelling",
       "url": "https://open.spotify.com/track/6Df0RNShcnfIJmrRoJ6Gc9"
@@ -20498,7 +20650,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 196093,
       "name": "Wanna Play?",
       "url": "https://open.spotify.com/track/3HfDocNNFTs9D6gDjyPsRb"

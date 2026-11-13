@@ -1,12 +1,12 @@
 {
   "description": "This is Glen Hansard. The essential tracks, all in one playlist.",
-  "num_followers": 34010,
+  "num_followers": 34012,
   "original_name": "This Is Glen Hansard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avENAAAAAABwqinWKmkyucs5dMqwmvHe",
+  "snapshot_id": "avOwAAAAAAA1b2sSdknLnsDzeTju7KPs",
   "tracks": [
     {
       "added_at": null,
@@ -587,6 +587,90 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Swell Season",
+        "url": "https://open.spotify.com/album/21FlPPRXTywONIRkB4g6Mb"
+      },
+      "artists": [
+        {
+          "name": "The Swell Season",
+          "url": "https://open.spotify.com/artist/2buJppisWV2GWWBWgkK074"
+        },
+        {
+          "name": "Glen Hansard",
+          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
+        },
+        {
+          "name": "Mark\u00e9ta Irglov\u00e1",
+          "url": "https://open.spotify.com/artist/4SklVMGMsWTq7cJd9MixUx"
+        }
+      ],
+      "duration_ms": 218960,
+      "name": "Sleeping",
+      "url": "https://open.spotify.com/track/6ctbCp3KtBLpHVNZgjBU3i"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Forward",
+        "url": "https://open.spotify.com/album/57mnXn8AGiqH6eulFq5fTQ"
+      },
+      "artists": [
+        {
+          "name": "The Swell Season",
+          "url": "https://open.spotify.com/artist/2buJppisWV2GWWBWgkK074"
+        },
+        {
+          "name": "Glen Hansard",
+          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
+        },
+        {
+          "name": "Mark\u00e9ta Irglov\u00e1",
+          "url": "https://open.spotify.com/artist/4SklVMGMsWTq7cJd9MixUx"
+        }
+      ],
+      "duration_ms": 231546,
+      "name": "Stuck In Reverse",
+      "url": "https://open.spotify.com/track/2rQVHibsV25SwAOLhdNUUp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Don\u2019t Settle (Vol. 2 - Transmissions West)",
+        "url": "https://open.spotify.com/album/3l2wMz89yZGgpAssgxf4z9"
+      },
+      "artists": [
+        {
+          "name": "Glen Hansard",
+          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
+        }
+      ],
+      "duration_ms": 255993,
+      "name": "What Happens When The Heart Just Stops (Funkhaus Version)",
+      "url": "https://open.spotify.com/track/40gjFISWufq2pDTgRjeu1z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Flag Day (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6y8qx4wS06EbInD9x8q5Xx"
+      },
+      "artists": [
+        {
+          "name": "Eddie Vedder",
+          "url": "https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh"
+        },
+        {
+          "name": "Glen Hansard",
+          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
+        }
+      ],
+      "duration_ms": 249773,
+      "name": "Flag Day",
+      "url": "https://open.spotify.com/track/6vPFMaNspciL76HBtf05rk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mavis Staples I'll Take You There: An All-Star Concert Celebration (Deluxe / Live)",
         "url": "https://open.spotify.com/album/6MJb2k5X1k25ebj7ZyixCb"
       },
@@ -667,90 +751,6 @@
       "duration_ms": 354107,
       "name": "The Weight - Live",
       "url": "https://open.spotify.com/track/03qSYwxRCavJccioep27Sx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Don\u2019t Settle (Vol. 2 - Transmissions West)",
-        "url": "https://open.spotify.com/album/3l2wMz89yZGgpAssgxf4z9"
-      },
-      "artists": [
-        {
-          "name": "Glen Hansard",
-          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
-        }
-      ],
-      "duration_ms": 255993,
-      "name": "What Happens When The Heart Just Stops (Funkhaus Version)",
-      "url": "https://open.spotify.com/track/40gjFISWufq2pDTgRjeu1z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Forward",
-        "url": "https://open.spotify.com/album/57mnXn8AGiqH6eulFq5fTQ"
-      },
-      "artists": [
-        {
-          "name": "The Swell Season",
-          "url": "https://open.spotify.com/artist/2buJppisWV2GWWBWgkK074"
-        },
-        {
-          "name": "Glen Hansard",
-          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
-        },
-        {
-          "name": "Mark\u00e9ta Irglov\u00e1",
-          "url": "https://open.spotify.com/artist/4SklVMGMsWTq7cJd9MixUx"
-        }
-      ],
-      "duration_ms": 231546,
-      "name": "Stuck In Reverse",
-      "url": "https://open.spotify.com/track/2rQVHibsV25SwAOLhdNUUp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Swell Season",
-        "url": "https://open.spotify.com/album/21FlPPRXTywONIRkB4g6Mb"
-      },
-      "artists": [
-        {
-          "name": "The Swell Season",
-          "url": "https://open.spotify.com/artist/2buJppisWV2GWWBWgkK074"
-        },
-        {
-          "name": "Glen Hansard",
-          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
-        },
-        {
-          "name": "Mark\u00e9ta Irglov\u00e1",
-          "url": "https://open.spotify.com/artist/4SklVMGMsWTq7cJd9MixUx"
-        }
-      ],
-      "duration_ms": 218960,
-      "name": "Sleeping",
-      "url": "https://open.spotify.com/track/6ctbCp3KtBLpHVNZgjBU3i"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Flag Day (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/6y8qx4wS06EbInD9x8q5Xx"
-      },
-      "artists": [
-        {
-          "name": "Eddie Vedder",
-          "url": "https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh"
-        },
-        {
-          "name": "Glen Hansard",
-          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
-        }
-      ],
-      "duration_ms": 249773,
-      "name": "Flag Day",
-      "url": "https://open.spotify.com/track/6vPFMaNspciL76HBtf05rk"
     },
     {
       "added_at": null,
@@ -895,22 +895,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Burn the Maps",
-        "url": "https://open.spotify.com/album/5UD2LodcnQAUnF1rCGmXqu"
+        "name": "Bottle of Smoke",
+        "url": "https://open.spotify.com/album/0Pn5FzzU5r98Wg0dTKD4T3"
       },
       "artists": [
         {
-          "name": "The Frames",
-          "url": "https://open.spotify.com/artist/6lyku6lhbB3tLc3Dghs5CM"
-        },
-        {
           "name": "Glen Hansard",
           "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
+        },
+        {
+          "name": "Shane MacGowan",
+          "url": "https://open.spotify.com/artist/68lZHeroea1NAuEDsfBUjv"
         }
       ],
-      "duration_ms": 239386,
-      "name": "Fake",
-      "url": "https://open.spotify.com/track/52FnogAdCwi0NxD4sBpflo"
+      "duration_ms": 164023,
+      "name": "Bottle of Smoke",
+      "url": "https://open.spotify.com/track/6zhlcfLSxjOxLR80xHAKJP"
     },
     {
       "added_at": null,
@@ -939,22 +939,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bottle of Smoke",
-        "url": "https://open.spotify.com/album/0Pn5FzzU5r98Wg0dTKD4T3"
+        "name": "Burn the Maps",
+        "url": "https://open.spotify.com/album/5UD2LodcnQAUnF1rCGmXqu"
       },
       "artists": [
         {
-          "name": "Glen Hansard",
-          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
+          "name": "The Frames",
+          "url": "https://open.spotify.com/artist/6lyku6lhbB3tLc3Dghs5CM"
         },
         {
-          "name": "Shane MacGowan",
-          "url": "https://open.spotify.com/artist/68lZHeroea1NAuEDsfBUjv"
+          "name": "Glen Hansard",
+          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
         }
       ],
-      "duration_ms": 164023,
-      "name": "Bottle of Smoke",
-      "url": "https://open.spotify.com/track/6zhlcfLSxjOxLR80xHAKJP"
+      "duration_ms": 239386,
+      "name": "Fake",
+      "url": "https://open.spotify.com/track/52FnogAdCwi0NxD4sBpflo"
     },
     {
       "added_at": null,

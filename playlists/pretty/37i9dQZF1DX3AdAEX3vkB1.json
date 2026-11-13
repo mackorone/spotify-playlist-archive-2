@@ -1,6 +1,6 @@
 {
   "description": "The biggest party hits of the 1960s.",
-  "num_followers": 343614,
+  "num_followers": 343651,
   "original_name": "60s Party",
   "owner": {
     "name": "Spotify",
@@ -299,22 +299,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Jump Up Calypso",
-        "url": "https://open.spotify.com/album/1o6SO1ywnIQgb3MFMF1siI"
-      },
-      "artists": [
-        {
-          "name": "Harry Belafonte",
-          "url": "https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z"
-        }
-      ],
-      "duration_ms": 221704,
-      "name": "Jump in the Line",
-      "url": "https://open.spotify.com/track/1zW2csx1vVJrKfvDrFQNVt"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Green Onions",
         "url": "https://open.spotify.com/album/2aGFVLz0oQPa3uxCfq9lcU"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 271573,
       "name": "Magic Carpet Ride",
       "url": "https://open.spotify.com/track/4c4jJJoaiY21t2TyRZgdWS"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Jump Up Calypso",
+        "url": "https://open.spotify.com/album/1o6SO1ywnIQgb3MFMF1siI"
+      },
+      "artists": [
+        {
+          "name": "Harry Belafonte",
+          "url": "https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z"
+        }
+      ],
+      "duration_ms": 221704,
+      "name": "Jump in the Line",
+      "url": "https://open.spotify.com/track/1zW2csx1vVJrKfvDrFQNVt"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -539,22 +539,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Please Mr. Postman",
-        "url": "https://open.spotify.com/album/65n7GqedAHDVRWNh3msH1V"
-      },
-      "artists": [
-        {
-          "name": "The Marvelettes",
-          "url": "https://open.spotify.com/artist/0MponVSpW81oLvJZ53vYZH"
-        }
-      ],
-      "duration_ms": 148040,
-      "name": "Please Mr. Postman - Single Version / Mono",
-      "url": "https://open.spotify.com/track/6jX5mso4x00c1EiNMrTU9U"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Dock of the Bay Sessions",
         "url": "https://open.spotify.com/album/3mdKPgJ2hyDF9ToznWuCn1"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 141000,
       "name": "Hard to Handle",
       "url": "https://open.spotify.com/track/7FXuCkl1kfxwS5icDjTwbM"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Please Mr. Postman",
+        "url": "https://open.spotify.com/album/65n7GqedAHDVRWNh3msH1V"
+      },
+      "artists": [
+        {
+          "name": "The Marvelettes",
+          "url": "https://open.spotify.com/artist/0MponVSpW81oLvJZ53vYZH"
+        }
+      ],
+      "duration_ms": 148040,
+      "name": "Please Mr. Postman - Single Version / Mono",
+      "url": "https://open.spotify.com/track/6jX5mso4x00c1EiNMrTU9U"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -827,22 +827,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Comin' Home Baby",
-        "url": "https://open.spotify.com/album/5OtQlb0pY3Xkg0teNeVm22"
-      },
-      "artists": [
-        {
-          "name": "Mel Torm\u00e9",
-          "url": "https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC"
-        }
-      ],
-      "duration_ms": 165360,
-      "name": "Comin' Home Baby",
-      "url": "https://open.spotify.com/track/71tjsDvB4EMJqNG8EMmFnb"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Take Good Care Of My Baby",
         "url": "https://open.spotify.com/album/4yB0nAAZLuRNK4xdme2axu"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 149800,
       "name": "Take Good Care Of My Baby",
       "url": "https://open.spotify.com/track/06JokgprGDKrtZ1eP6z2CQ"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Comin' Home Baby",
+        "url": "https://open.spotify.com/album/5OtQlb0pY3Xkg0teNeVm22"
+      },
+      "artists": [
+        {
+          "name": "Mel Torm\u00e9",
+          "url": "https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC"
+        }
+      ],
+      "duration_ms": 165360,
+      "name": "Comin' Home Baby",
+      "url": "https://open.spotify.com/track/71tjsDvB4EMJqNG8EMmFnb"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1017,22 +1017,6 @@
       "url": "https://open.spotify.com/track/760clbeDBWmBsBLbszWuNZ"
     },
     {
-      "added_at": "2023-05-30 09:14:29",
-      "album": {
-        "name": "The Complete Johnny Kidd Vol 1 & 2",
-        "url": "https://open.spotify.com/album/34pUE4ZtTaXTdvZ5l39OL1"
-      },
-      "artists": [
-        {
-          "name": "Johnny Kidd & The Pirates",
-          "url": "https://open.spotify.com/artist/52y1cRHUkI0kQqIXCg6JuZ"
-        }
-      ],
-      "duration_ms": 141960,
-      "name": "Shakin' All Over",
-      "url": "https://open.spotify.com/track/6Xv160PuntxAtb67Ed4t4I"
-    },
-    {
       "added_at": "2022-06-16 22:02:00",
       "album": {
         "name": "The Chiffons Absolutely The Best!",
@@ -1047,6 +1031,22 @@
       "duration_ms": 128199,
       "name": "One Fine Day",
       "url": "https://open.spotify.com/track/6vcG9EgeqJUSmmF65lxUm6"
+    },
+    {
+      "added_at": "2023-05-30 09:14:29",
+      "album": {
+        "name": "The Complete Johnny Kidd Vol 1 & 2",
+        "url": "https://open.spotify.com/album/34pUE4ZtTaXTdvZ5l39OL1"
+      },
+      "artists": [
+        {
+          "name": "Johnny Kidd & The Pirates",
+          "url": "https://open.spotify.com/artist/52y1cRHUkI0kQqIXCg6JuZ"
+        }
+      ],
+      "duration_ms": 141960,
+      "name": "Shakin' All Over",
+      "url": "https://open.spotify.com/track/6Xv160PuntxAtb67Ed4t4I"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "No Place To Hide",
-        "url": "https://open.spotify.com/album/7CPcd7Sl9L4TahP1gTqR5q"
-      },
-      "artists": [
-        {
-          "name": "Betty Everett",
-          "url": "https://open.spotify.com/artist/53jXEVVJtpaWVQ3ffvhDtl"
-        }
-      ],
-      "duration_ms": 129758,
-      "name": "It's In The Kiss (The Shoop Shoop Song)",
-      "url": "https://open.spotify.com/track/35hfuechuOqaW31ogdauO7"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Legends Of Rock n' Roll",
         "url": "https://open.spotify.com/album/4b9RizMvXeRHO3ZihUfas6"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 146333,
       "name": "Jambalaya (On The Bayou)",
       "url": "https://open.spotify.com/track/6YS9gh6dxp4rYKWk5jjBDC"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "No Place To Hide",
+        "url": "https://open.spotify.com/album/7CPcd7Sl9L4TahP1gTqR5q"
+      },
+      "artists": [
+        {
+          "name": "Betty Everett",
+          "url": "https://open.spotify.com/artist/53jXEVVJtpaWVQ3ffvhDtl"
+        }
+      ],
+      "duration_ms": 129758,
+      "name": "It's In The Kiss (The Shoop Shoop Song)",
+      "url": "https://open.spotify.com/track/35hfuechuOqaW31ogdauO7"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "The Best Of Chubby Checker 1959-1963",
-        "url": "https://open.spotify.com/album/4I4NKz4jIy7hYke8jvCpPA"
-      },
-      "artists": [
-        {
-          "name": "Chubby Checker",
-          "url": "https://open.spotify.com/artist/7qQJQ3YtcGlqaLg5tcypN2"
-        }
-      ],
-      "duration_ms": 153760,
-      "name": "The Twist",
-      "url": "https://open.spotify.com/track/3ohLnESFgYACPMCkoTOzqE"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Helen Shapiro",
         "url": "https://open.spotify.com/album/4D3i5fQz4JOYHndcmflSqz"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 151293,
       "name": "Walkin' Back to Happiness",
       "url": "https://open.spotify.com/track/3mNfU0psAm7h3s6Dn6i7SD"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "The Best Of Chubby Checker 1959-1963",
+        "url": "https://open.spotify.com/album/4I4NKz4jIy7hYke8jvCpPA"
+      },
+      "artists": [
+        {
+          "name": "Chubby Checker",
+          "url": "https://open.spotify.com/artist/7qQJQ3YtcGlqaLg5tcypN2"
+        }
+      ],
+      "duration_ms": 153760,
+      "name": "The Twist",
+      "url": "https://open.spotify.com/track/3ohLnESFgYACPMCkoTOzqE"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Soul",
-        "url": "https://open.spotify.com/album/6ARDVnSbcuiC1ROfWYY4SD"
-      },
-      "artists": [
-        {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
-        }
-      ],
-      "duration_ms": 119880,
-      "name": "Hit the Road Jack",
-      "url": "https://open.spotify.com/track/2HoqbEOXgbDSLZ5XCePEXt"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Johnny Burnette's Hits And Other Favorites",
         "url": "https://open.spotify.com/album/1AOL5ae6xRGUAvcTGUGPxs"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 119026,
       "name": "You're Sixteen, You're Beautiful (And You're Mine)",
       "url": "https://open.spotify.com/track/5oeFEW0WGSGEdXMDKNI4z4"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Soul",
+        "url": "https://open.spotify.com/album/6ARDVnSbcuiC1ROfWYY4SD"
+      },
+      "artists": [
+        {
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+        }
+      ],
+      "duration_ms": 119880,
+      "name": "Hit the Road Jack",
+      "url": "https://open.spotify.com/track/2HoqbEOXgbDSLZ5XCePEXt"
     },
     {
       "added_at": "2022-06-16 22:02:00",

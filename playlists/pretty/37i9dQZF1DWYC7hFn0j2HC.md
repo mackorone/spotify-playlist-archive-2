@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYC7hFn0j2HC.md) - [plain]
 
 > ¡Lo mejor de los charros cantores! Antonio Aguilar en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,175,951 likes - 70 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,175,933 likes - 70 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,12 +41,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYC7hFn0j2HC.md) - [plain]
 | 31 | [El Mala Estrella](https://open.spotify.com/track/5XjtX9V4qh0WCGnK8MWQBr) | [Luis Aguilar](https://open.spotify.com/artist/4vazE48JBgn7Q7itFsfFVx), [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [RCA 100 Años De Musica](https://open.spotify.com/album/439PoHmgdLpwc6LOF66FwH) | 4:00 |
 | 32 | [Cielo Rojo](https://open.spotify.com/track/2r0EW4QDRuYwWrXlVcTVK1) | [Miguel Aceves Mejia](https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY) | [RCA 100 Anos De Musica \- Segunda Parte](https://open.spotify.com/album/2A95eoCbJRaNzcf7PCxATm) | 3:39 |
 | 33 | [En Mi Viejo San Juan \(with Javier Solís\)](https://open.spotify.com/track/07dcCkp3Eyx0UrqVRT8k6B) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz), [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Dos Idolos Cantando](https://open.spotify.com/album/34xJsekBz5oh2dgmc0tAfy) | 2:53 |
-| 34 | [Qué Manera de Perder](https://open.spotify.com/track/41kpaTpw314JvZEbZzqMAR) | [Cuco Sánchez](https://open.spotify.com/artist/1M1VkVEy3JGFFyPy7oKH2E) | [Tesoros De Colección](https://open.spotify.com/album/4bvBSPQspHM4ZPEGHCHeBO) | 2:21 |
+| 34 | [Arrieros Somos](https://open.spotify.com/track/3J4oQwWvlUi7wp7plOiINB) | [Cuco Sánchez](https://open.spotify.com/artist/1M1VkVEy3JGFFyPy7oKH2E) | [Tesoros De Colección](https://open.spotify.com/album/4bvBSPQspHM4ZPEGHCHeBO) | 2:29 |
 | 35 | [México Lindo](https://open.spotify.com/track/6bhfLLRWSg1TrkHrhJDazV) | [Jorge Negrete](https://open.spotify.com/artist/4W5RbLZybsLfAzE7QqdibE) | [Fiesta Mexicana](https://open.spotify.com/album/5evoUvZVyXXtsf6JJxfaQw) | 3:11 |
 | 36 | [No Volveré](https://open.spotify.com/track/2uBAAQHl6JyJIU6lfNljcc) | [Luis Aguilar](https://open.spotify.com/artist/4vazE48JBgn7Q7itFsfFVx) | [Anthology Of Mexico](https://open.spotify.com/album/1Ges1IUxjdYY12cg3fL7gK) | 3:04 |
 | 37 | [Los Laureles](https://open.spotify.com/track/1zFYkxUs2fESIauv11Mu3w) | [Miguel Aceves Mejia](https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY) | [Lo Mejor De Lo Mejor De RCA Victor](https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo) | 2:17 |
 | 38 | [Caminos de Michoacán](https://open.spotify.com/track/6rhDW2z2TTDxRsv1fI4CnC) | [Federico Villa](https://open.spotify.com/artist/79LwwKFdbXN9RoZAKefN7u) | [15 Exitos De Federico Villa \- Versiones Originales](https://open.spotify.com/album/14M2p00a5ozip7k4XZYihk) | 3:29 |
-| 39 | [Arrieros Somos](https://open.spotify.com/track/3J4oQwWvlUi7wp7plOiINB) | [Cuco Sánchez](https://open.spotify.com/artist/1M1VkVEy3JGFFyPy7oKH2E) | [Tesoros De Colección](https://open.spotify.com/album/4bvBSPQspHM4ZPEGHCHeBO) | 2:29 |
+| 39 | [Qué Manera de Perder](https://open.spotify.com/track/41kpaTpw314JvZEbZzqMAR) | [Cuco Sánchez](https://open.spotify.com/artist/1M1VkVEy3JGFFyPy7oKH2E) | [Tesoros De Colección](https://open.spotify.com/album/4bvBSPQspHM4ZPEGHCHeBO) | 2:21 |
 | 40 | [La Que Se Fue](https://open.spotify.com/track/6J9WTHBcgGL7pjnGT6vvS6) | [Jorge Negrete](https://open.spotify.com/artist/4W5RbLZybsLfAzE7QqdibE) | [Coleccion Original](https://open.spotify.com/album/28wthJnyrnWWG8UkwJ2LiK) | 2:49 |
 | 41 | [Entre Suspiro y Suspiro](https://open.spotify.com/track/7dihiTGOEthPvSHdS6ZUjo) | [Luis Aguilar](https://open.spotify.com/artist/4vazE48JBgn7Q7itFsfFVx) | [Tesoros De Coleccion \- Luis Aguilar "El Gallo De Oro"](https://open.spotify.com/album/7nK4uNja5izG7LrAkmPu2D) | 3:12 |
 | 42 | [Tú y las Nubes](https://open.spotify.com/track/4kwF7GLFxdHxhI6yE7N7DH) | [Miguel Aceves Mejia](https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY) | [Lo Mejor De Lo Mejor De RCA Victor](https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo) | 3:19 |

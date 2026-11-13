@@ -853,6 +853,24 @@
     },
     {
       "album": {
+        "name": "Bedroom Confessional (xtras)",
+        "url": "https://open.spotify.com/album/3CJE9XPDGX5yXZACVwkEuB"
+      },
+      "artists": [
+        {
+          "name": "Ellise",
+          "url": "https://open.spotify.com/artist/2FovgCfOwN9iqbkCBlKFdT"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211722,
+      "name": "LoveLess",
+      "url": "https://open.spotify.com/track/6h4rnABR2uej0FPyggLwb6"
+    },
+    {
+      "album": {
         "name": "make u miss me",
         "url": "https://open.spotify.com/album/0USpfZlo9OlFDkNy9cgFR8"
       },

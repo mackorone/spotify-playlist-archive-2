@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-31",
-  "description": "Biggest Cantopop MV Hits! MVs only available for Spotify premium subscribers.  Cover: Faye Wong \u738b\u83f2",
+  "description": "Biggest Cantopop MV Hits! MVs only available for Spotify premium subscribers.  Cover: Vincy \u8607\u8a60\u6df3",
   "name": "CantoVision",
   "tracks": [
     {
@@ -1486,7 +1486,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 231674,
       "name": "\u5176\u5be6\u6211 \u4e0d\u662f\u90a3\u9ebc\u7684\u7d14\u60c5",
       "url": "https://open.spotify.com/track/1ltNiugtHEE0XpjxFCZtr8"
@@ -2727,6 +2727,24 @@
     },
     {
       "album": {
+        "name": "\u672a\u6df1\u5165\u4f46\u4e86\u89e3",
+        "url": "https://open.spotify.com/album/6ccMGTUqbYc5ouYsS9wYjv"
+      },
+      "artists": [
+        {
+          "name": "MC \u5f35\u5929\u8ce6",
+          "url": "https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181619,
+      "name": "\u672a\u6df1\u5165\u4f46\u4e86\u89e3",
+      "url": "https://open.spotify.com/track/0r0VLsvWv7jo2HGfvlt5xh"
+    },
+    {
+      "album": {
         "name": "\u6787\u6777",
         "url": "https://open.spotify.com/album/2se1VXV7AhCI5J3vVh3UJR"
       },
@@ -2872,6 +2890,24 @@
       "duration_ms": 277000,
       "name": "\u6c42\u6551\u7684\u52c7\u6c23",
       "url": "https://open.spotify.com/track/1Fj6ahpJNC7sJyG8SRxuaf"
+    },
+    {
+      "album": {
+        "name": "\u6c89\u9032\u6d77\u7684\u661f",
+        "url": "https://open.spotify.com/album/3Y8r1kXxRu34XwN0hYIIxy"
+      },
+      "artists": [
+        {
+          "name": "Vincy \u8607\u8a60\u6df3",
+          "url": "https://open.spotify.com/artist/1Uo1h4cGK34qpSLdlg4GUA"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232500,
+      "name": "\u6c89\u9032\u6d77\u7684\u661f",
+      "url": "https://open.spotify.com/track/6wsupRH5oEmqfRGWAmpYKm"
     },
     {
       "album": {
@@ -3023,6 +3059,28 @@
     },
     {
       "album": {
+        "name": "\u7121\u610f\u8b58\u7684AI",
+        "url": "https://open.spotify.com/album/5auggYJ8RFZalIaDNlL17O"
+      },
+      "artists": [
+        {
+          "name": "Jade Sun",
+          "url": "https://open.spotify.com/artist/3wOgiNce6emfZDZffDXaaD"
+        },
+        {
+          "name": "NO CAP RECORDS",
+          "url": "https://open.spotify.com/artist/1yzmgTub0XAUxIHV11ndox"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166451,
+      "name": "\u7121\u610f\u8b58\u7684AI",
+      "url": "https://open.spotify.com/track/0coZBYJWnQ9oW3qc6oP3A3"
+    },
+    {
+      "album": {
         "name": "\u7121\u7b54\u6848",
         "url": "https://open.spotify.com/album/0TKpr27GQEr151D7rzHAt0"
       },
@@ -3106,7 +3164,7 @@
       ],
       "date_added": "2025-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 210026,
       "name": "\u7528\u80cc\u810a\u5531\u60c5\u6b4c",
       "url": "https://open.spotify.com/track/1jQp4mCBDmXr8NMqsMpH8E"
@@ -3430,7 +3488,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 218844,
       "name": "\u884c\u5f97\u8d70\u5f97",
       "url": "https://open.spotify.com/track/07GpYSBl70z5thYWJtvRNo"

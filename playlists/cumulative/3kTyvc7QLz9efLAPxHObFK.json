@@ -11839,6 +11839,32 @@
     },
     {
       "album": {
+        "name": "Crime Light",
+        "url": "https://open.spotify.com/album/3hJviEphFhKhdO4mIJRJ7Y"
+      },
+      "artists": [
+        {
+          "name": "Noise Of Aggression",
+          "url": "https://open.spotify.com/artist/3IUHsnxMykEgZX9K1v94F1"
+        },
+        {
+          "name": "Silky Noize",
+          "url": "https://open.spotify.com/artist/4ijctz73JCwLekCyUpoPuL"
+        },
+        {
+          "name": "Guiberz",
+          "url": "https://open.spotify.com/artist/5foXMuzBwyazFvEVJqUcq4"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142076,
+      "name": "Crime Light",
+      "url": "https://open.spotify.com/track/1uYOF1MbYr0UoOmIKOF6E7"
+    },
+    {
+      "album": {
         "name": "Smile Jumptek",
         "url": "https://open.spotify.com/album/7rSEUcDgnGds45VoReyCV5"
       },
@@ -63518,6 +63544,28 @@
       "duration_ms": 226800,
       "name": "WAKE UP TO REALITY",
       "url": "https://open.spotify.com/track/2ifB8uuDuMrtonYtQlcCfQ"
+    },
+    {
+      "album": {
+        "name": "WAKE UP!",
+        "url": "https://open.spotify.com/album/3jg5EGLhTJcCY4QYFiyy9C"
+      },
+      "artists": [
+        {
+          "name": "Dyzo",
+          "url": "https://open.spotify.com/artist/0cV7yJEN1t7Dd7s73RIRBA"
+        },
+        {
+          "name": "Acidz",
+          "url": "https://open.spotify.com/artist/4AflTeWUY89j7GYJvyWGAo"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149818,
+      "name": "WAKE UP!",
+      "url": "https://open.spotify.com/track/4Unobu6728CSjZwhRdhXaQ"
     },
     {
       "album": {

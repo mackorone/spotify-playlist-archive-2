@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2fdEf506uQJUK5dlS1HhNo">Dahi</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-173 songs - 10 hr 35 min
+174 songs - 10 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Lucky Me](https://open.spotify.com/track/6wVnQMRXd1z2iPEo24f9db) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Detroit 2](https://open.spotify.com/album/6slkiHeFK3wW2D1mao0TX3) | 4:08 | 2026-08-07 |  |
 | [LUST.](https://open.spotify.com/track/06FCvd7rrRcF3DdvWH5Isp) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [DAMN.](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) | 5:07 | 2026-08-07 |  |
 | [MAKE IT KNOWN](https://open.spotify.com/track/5qfVTbcSnH2pd0DRCWHBcU) | [Sam Dew](https://open.spotify.com/artist/1SIw8nXWjvAKeb6Dhh85cz) | [MOONLIT FOOLS](https://open.spotify.com/album/1QeiSQx4kOgkncEVUM5Nud) | 3:22 | 2026-08-07 |  |
+| [Mamacita](https://open.spotify.com/track/5FhcbG04J2xE4Yl89tU0tJ) | [TUAWKI](https://open.spotify.com/artist/5qcbpph3M3q5LKCD7TH6RZ) | [Slopped + Chewed Vol\. 4](https://open.spotify.com/album/2H7pgyDHTtaee6AL6je1xZ) | 3:40 | 2026-11-12 |  |
 | [Me Now](https://open.spotify.com/track/5viCJ7GSQxVWUAPBVoV7IL) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Imperial](https://open.spotify.com/album/42fyKPanos0Q3woi848ktg) | 4:39 | 2026-08-07 |  |
 | [Memories On 47th St.](https://open.spotify.com/track/6oVz6Htjk970xInBdmOvak) | [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG) | [The Autobiography](https://open.spotify.com/album/6NySuONTKK6mtLG0nF80Jr) | 4:02 | 2026-08-07 |  |
 | [Miles \(feat\. Bone Thugs\-N\-Harmony\)](https://open.spotify.com/track/3o86Gn0A25WmiY1p7Zpj5L) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Bone Thugs\-N\-Harmony](https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg) | [2014 Forest Hills Drive \(10 Year Anniversary Edition\)](https://open.spotify.com/album/2fSAC0ZiYnwKfzLEvyaMm8) | 6:01 | 2026-08-07 |  |

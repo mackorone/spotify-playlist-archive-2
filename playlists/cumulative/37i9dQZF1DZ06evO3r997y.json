@@ -268,7 +268,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-18",
+      "date_removed": null,
       "duration_ms": 198493,
       "name": "Closer",
       "url": "https://open.spotify.com/track/46DQR62IXSiU9ssucbeARZ"
@@ -286,7 +286,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 198493,
       "name": "Closer",
       "url": "https://open.spotify.com/track/7kwA5rCeqFbExV7AAq7tuM"
@@ -1373,6 +1373,24 @@
     },
     {
       "album": {
+        "name": "Journey",
+        "url": "https://open.spotify.com/album/42V5bMew9rzNjiFWFlOjQf"
+      },
+      "artists": [
+        {
+          "name": "Akari Kito",
+          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223466,
+      "name": "moment",
+      "url": "https://open.spotify.com/track/7BFyBo41yOfk9pHLs7cBXQ"
+    },
+    {
+      "album": {
         "name": "Monster - from CrosSing",
         "url": "https://open.spotify.com/album/0m8OQ9Xl9id1RJ4uoZf9uQ"
       },
@@ -1402,7 +1420,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 222973,
       "name": "mo\u221eent",
       "url": "https://open.spotify.com/track/5rlKnPUg9Fm9AjkoJYKpV2"
@@ -1420,10 +1438,28 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 246626,
       "name": "No Continue",
       "url": "https://open.spotify.com/track/1t0A9qPEyOEW48bj3QiXgr"
+    },
+    {
+      "album": {
+        "name": "Kaleidoscope",
+        "url": "https://open.spotify.com/album/0PcUc7jSq3jpnS94QO50A5"
+      },
+      "artists": [
+        {
+          "name": "Akari Kito",
+          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246626,
+      "name": "No Continue",
+      "url": "https://open.spotify.com/track/5DvKmMx26AYOW0TyLqr7eE"
     },
     {
       "album": {
@@ -1968,7 +2004,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 244920,
       "name": "\u307f\u3061\u304f\u3055",
       "url": "https://open.spotify.com/track/3gH7Af4Y7FTuPAclJQdma8"

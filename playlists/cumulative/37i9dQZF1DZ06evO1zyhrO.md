@@ -4,7 +4,7 @@
 
 > This is Craig David\. The essential tracks, all in one playlist.
 
-73 songs - 4 hr 21 min
+74 songs - 4 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,8 @@
 | [GOT IT GOOD](https://open.spotify.com/track/7pttGrC2YJYQ997ZryXGCG) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [99.9%](https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa) | 3:48 | 2025-08-02 |  |
 | [Heartline](https://open.spotify.com/track/60RZ7d1D4DeEdtzkjXrp77) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [The Time Is Now \(Expanded Edition\)](https://open.spotify.com/album/51vRvV83RdWGP9FpzGe4SQ) | 3:12 | 2025-08-02 |  |
 | [Hidden Agenda](https://open.spotify.com/track/5MRruRrB235AeY0DISngdw) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Slicker than Your Average](https://open.spotify.com/album/6USRXUZXe4keGs2yUj3Fis) | 3:53 | 2025-08-02 |  |
-| [Hot Stuff \(Let's Dance\)](https://open.spotify.com/track/1xHQVFM5gwg2bZJq9txEzH) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Trust Me](https://open.spotify.com/album/0J9SVTShbzWaOhogFHXJ9K) | 3:39 | 2026-10-06 |  |
+| [HONEYMOON Remix \(with Craig David\)](https://open.spotify.com/track/5GpN4aH67xZ28HvpvmD1LI) | [Parisalexa](https://open.spotify.com/artist/7CZXfBcIhQ2dPEqk3N74vV), [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [HONEYMOON Remix \(with Craig David\)](https://open.spotify.com/album/737OIezy5ApYIKSsl9zlpA) | 2:51 | 2026-11-13 |  |
+| [Hot Stuff \(Let's Dance\)](https://open.spotify.com/track/1xHQVFM5gwg2bZJq9txEzH) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Trust Me](https://open.spotify.com/album/0J9SVTShbzWaOhogFHXJ9K) | 3:39 | 2026-10-06 | 2026-11-13 |
 | [Hypnotic](https://open.spotify.com/track/74tHCnEw90OJQl1LpAddm8) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [The Story Goes...](https://open.spotify.com/album/3tzENLaGyi3Jrb5AaoKrGG) | 4:19 | 2025-08-02 |  |
 | [I Know You \(feat\. Bastille\)](https://open.spotify.com/track/5lRzEC0Hyj92nEr9JkDxM2) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [The Time Is Now \(Expanded Edition\)](https://open.spotify.com/album/51vRvV83RdWGP9FpzGe4SQ) | 3:34 | 2025-08-02 |  |
 | [In It With You](https://open.spotify.com/track/1JdTvT34HhshLjmdSVkAIZ) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [In It With You](https://open.spotify.com/album/5jVN3zaYCJrtZFHtZTwESO) | 3:12 | 2025-08-02 |  |

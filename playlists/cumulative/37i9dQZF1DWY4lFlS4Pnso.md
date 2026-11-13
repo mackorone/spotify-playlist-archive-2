@@ -2,7 +2,7 @@
 
 ### [Hot Hits UK & Ireland](https://open.spotify.com/playlist/37i9dQZF1DWY4lFlS4Pnso)
 
-> The UK and Ireland's biggest playlist\. Cover: Fontaines D.C.
+> The UK and Ireland's biggest playlist\. Cover: Season 25
 
 525 songs - 1 day 4 hr 0 min
 

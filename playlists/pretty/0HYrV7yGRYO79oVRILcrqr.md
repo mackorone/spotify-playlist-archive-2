@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,974 likes - 218 songs - 13 hr 47 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,978 likes - 221 songs - 13 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -226,5 +226,8 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 216 | [Wild In The CIty](https://open.spotify.com/track/6UJ7Tx50w0VwQc8GFM1Ghw) | [Nitrate](https://open.spotify.com/artist/6wEVMZieIv9ttCzvuDYev8) | [Feel The Heat](https://open.spotify.com/album/1XYLHUy8YpqocGfm14fzyJ) | 4:49 |
 | 217 | [Farbenmeer \(Piano Ballata\)](https://open.spotify.com/track/7zVt93LxewhjclzxUQhB6t) | [Berqfeld](https://open.spotify.com/artist/4RJcbX84C4EGrlQPn43YIr) | [Farbenmeer \(Piano Ballata\)](https://open.spotify.com/album/73QwEqiOAYrtMMtsb7auXy) | 2:55 |
 | 218 | [Serotonin Symphony \- Demo](https://open.spotify.com/track/6ngF6ZoTiajb8h1WUDL5nk) | [Manic Party](https://open.spotify.com/artist/0utxly3d4Z0YfD2GJDu788) | [Serotonin Symphony \(Demo\)](https://open.spotify.com/album/6fvQtusdTVzpf24aObsEY5) | 3:43 |
+| 219 | [My Addiction](https://open.spotify.com/track/0wqjkhQYagTQOLqMippB3A) | [Skyl Panameraa](https://open.spotify.com/artist/0QW6dSzw0EqIIBQJrGq1Kd) | [My Addiction](https://open.spotify.com/album/0q1vkwrp4rCczBBWpVBI9E) | 2:38 |
+| 220 | [Writings on the Wall](https://open.spotify.com/track/2VhzXO9b32pNU31Mdyp5PK) | [Coyote Crunch](https://open.spotify.com/artist/3eOqf23jG1UGhZb7oQSbm3) | [Writings on the Wall](https://open.spotify.com/album/57UsFyMrHu97seIZ3Z2q4z) | 4:59 |
+| 221 | [The Fury](https://open.spotify.com/track/5Nz9osPWntRijFqYXSYlGX) | [The River Filth](https://open.spotify.com/artist/59BG6GYu3KdNc7lTYQSkae) | [The Fury](https://open.spotify.com/album/7byxu6uRVYFOmmJUlA5vvp) | 3:15 |
 
-Snapshot ID: `AAANB2mUJv0qYPqbc23YKzc021MoGDES`
+Snapshot ID: `AAANCiJ0GdUHuLHkTkRavPPSI1iemOZG`

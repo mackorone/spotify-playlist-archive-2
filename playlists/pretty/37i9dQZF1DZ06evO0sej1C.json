@@ -1,12 +1,12 @@
 {
   "description": "This is Yoss Bones. The essential tracks, all in one playlist.",
-  "num_followers": 46309,
+  "num_followers": 46315,
   "original_name": "This Is Yoss Bones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avENAAAAAABXIM8/GRkfoiYj/bGF1s3A",
+  "snapshot_id": "avOwAAAAAACwk044hdxytIx11KOJy9zN",
   "tracks": [
     {
       "added_at": null,
@@ -715,6 +715,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Chip S (Metal Version)",
+        "url": "https://open.spotify.com/album/5NvCktcLMOIlYHK8lnK7De"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Ladrones",
+          "url": "https://open.spotify.com/artist/5KGNQQzk32VSQv9If4X7A6"
+        }
+      ],
+      "duration_ms": 193846,
+      "name": "Chip S - Metal Version",
+      "url": "https://open.spotify.com/track/0Cqw1Dj3R5LdRWtq1obbye"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Malvada",
         "url": "https://open.spotify.com/album/6FUY0mliGmcUTZDyDgah6I"
       },
@@ -743,26 +763,6 @@
       "duration_ms": 321951,
       "name": "Malvada",
       "url": "https://open.spotify.com/track/3yE70C2cmJ9FcuIEL7u23e"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chip S (Metal Version)",
-        "url": "https://open.spotify.com/album/5NvCktcLMOIlYHK8lnK7De"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        },
-        {
-          "name": "Ladrones",
-          "url": "https://open.spotify.com/artist/5KGNQQzk32VSQv9If4X7A6"
-        }
-      ],
-      "duration_ms": 193846,
-      "name": "Chip S - Metal Version",
-      "url": "https://open.spotify.com/track/0Cqw1Dj3R5LdRWtq1obbye"
     },
     {
       "added_at": null,
@@ -895,26 +895,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Respira y ya",
-        "url": "https://open.spotify.com/album/0uOdaFxMU6wZXr760wSsaz"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        },
-        {
-          "name": "Baby Garo",
-          "url": "https://open.spotify.com/artist/1v5jtZLPHmUo8VVxldEE9x"
-        }
-      ],
-      "duration_ms": 163960,
-      "name": "Respira y ya",
-      "url": "https://open.spotify.com/track/27BWtWPohMX3xWtcq2tKok"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ya No Quiero Verte",
         "url": "https://open.spotify.com/album/711cIsL3jwCkosLTeycAg8"
       },
@@ -931,6 +911,26 @@
       "duration_ms": 205714,
       "name": "Ya No Quiero Verte",
       "url": "https://open.spotify.com/track/6m77XYqqnVxfREQsiUi7O9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Respira y ya",
+        "url": "https://open.spotify.com/album/0uOdaFxMU6wZXr760wSsaz"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Baby Garo",
+          "url": "https://open.spotify.com/artist/1v5jtZLPHmUo8VVxldEE9x"
+        }
+      ],
+      "duration_ms": 163960,
+      "name": "Respira y ya",
+      "url": "https://open.spotify.com/track/27BWtWPohMX3xWtcq2tKok"
     },
     {
       "added_at": null,
@@ -1035,6 +1035,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "So\u00f1ar",
+        "url": "https://open.spotify.com/album/7i4euJSKy4COiuUMwiom3k"
+      },
+      "artists": [
+        {
+          "name": "Danntik",
+          "url": "https://open.spotify.com/artist/1NnUgWVGkPQLsdXue00beJ"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 209000,
+      "name": "So\u00f1ar",
+      "url": "https://open.spotify.com/track/6lV0GSCVzTp8GpOd2H4HL4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Feedback",
         "url": "https://open.spotify.com/album/3OI8rQ4iGVRVswrQGWAmr1"
       },
@@ -1055,26 +1075,6 @@
       "duration_ms": 200000,
       "name": "Serendipia",
       "url": "https://open.spotify.com/track/5QV0T0Fz6AgMhpDhQ1AKuu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "So\u00f1ar",
-        "url": "https://open.spotify.com/album/7i4euJSKy4COiuUMwiom3k"
-      },
-      "artists": [
-        {
-          "name": "Danntik",
-          "url": "https://open.spotify.com/artist/1NnUgWVGkPQLsdXue00beJ"
-        },
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 209000,
-      "name": "So\u00f1ar",
-      "url": "https://open.spotify.com/track/6lV0GSCVzTp8GpOd2H4HL4"
     },
     {
       "added_at": null,
@@ -1119,26 +1119,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Roll",
-        "url": "https://open.spotify.com/album/6a8vWL0w3KFrSw7DqpPxSa"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        },
-        {
-          "name": "Pato Machete",
-          "url": "https://open.spotify.com/artist/0Wvud7hEqI5zaI0o0iIkj2"
-        }
-      ],
-      "duration_ms": 226666,
-      "name": "De Roll",
-      "url": "https://open.spotify.com/track/2sdKmNpQJmgVSPoiyXcq0t"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tequila y Miel",
         "url": "https://open.spotify.com/album/3qIzssaVo8bUhfHxwbeDua"
       },
@@ -1155,6 +1135,26 @@
       "duration_ms": 211408,
       "name": "Tequila y Miel",
       "url": "https://open.spotify.com/track/0tSB1fuRtQbdQbE5h1fW6M"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De Roll",
+        "url": "https://open.spotify.com/album/6a8vWL0w3KFrSw7DqpPxSa"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Pato Machete",
+          "url": "https://open.spotify.com/artist/0Wvud7hEqI5zaI0o0iIkj2"
+        }
+      ],
+      "duration_ms": 226666,
+      "name": "De Roll",
+      "url": "https://open.spotify.com/track/2sdKmNpQJmgVSPoiyXcq0t"
     },
     {
       "added_at": null,

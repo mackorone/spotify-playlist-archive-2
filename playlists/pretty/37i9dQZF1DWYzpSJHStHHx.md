@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 
 > All the sunny surf rock you need.
 
-[Spotify](https://open.spotify.com/user/spotify) - 483,251 likes - 75 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 483,237 likes - 75 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 | 46 | [Read My Mind](https://open.spotify.com/track/6L0BqIVT6KY4QhgDeexcrY) | [LAZY GHOST](https://open.spotify.com/artist/46tdza9HtvQ3nCEU7LRTKz) | [Read My Mind](https://open.spotify.com/album/2zkiJVltIWQUHL5UDOzntc) | 3:32 |
 | 47 | [Sunlight](https://open.spotify.com/track/7nH4MetArjcIwGgZ4TBLYj) | [flipturn](https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH) | [Sunlight](https://open.spotify.com/album/4UevxgkjqAx6rBhGlA28Yl) | 3:51 |
 | 48 | [A Long Long Time](https://open.spotify.com/track/4I0Bw6QCpkd1udPHP8ciU3) | [Stimpies](https://open.spotify.com/artist/5nAezeFdtBCXFbNF4Jwue4) | [A Long Long Time](https://open.spotify.com/album/5iQmTOwVzxHct0oNobCNx4) | 4:18 |
-| 49 | [Kamakura](https://open.spotify.com/track/2N7XCLNPXNYOIA6R6Oawn1) | [Yuzostate](https://open.spotify.com/artist/0wp464QhpVc7hKfT6jNEp5) | [Kamakura](https://open.spotify.com/album/64p9VeLQsDBEBQgifPMPsu) | 3:07 |
-| 50 | [Riding the Wind](https://open.spotify.com/track/1NnjM3Bm59KAmSRYjcKCgM) | [Offthewally](https://open.spotify.com/artist/5szdoaeT1yHXbbj6w6z2eD) | [Bouquet](https://open.spotify.com/album/2fYv0avSo1PrUgyjH3DHew) | 2:51 |
+| 49 | [Riding the Wind](https://open.spotify.com/track/1NnjM3Bm59KAmSRYjcKCgM) | [Offthewally](https://open.spotify.com/artist/5szdoaeT1yHXbbj6w6z2eD) | [Bouquet](https://open.spotify.com/album/2fYv0avSo1PrUgyjH3DHew) | 2:51 |
+| 50 | [Kamakura](https://open.spotify.com/track/2N7XCLNPXNYOIA6R6Oawn1) | [Yuzostate](https://open.spotify.com/artist/0wp464QhpVc7hKfT6jNEp5) | [Kamakura](https://open.spotify.com/album/64p9VeLQsDBEBQgifPMPsu) | 3:07 |
 | 51 | [Dark Horse](https://open.spotify.com/track/0qUCt1uIinMkpwTm7oNYMG) | [The Terrys](https://open.spotify.com/artist/4quStFmDD9EH5uSJQz4oLS) | [Dark Horse](https://open.spotify.com/album/5UFStqQaeBcbKXs5qRrZO8) | 2:09 |
 | 52 | [Killin' the Vibe](https://open.spotify.com/track/4NcYXkAAvldlvl7esKz5A3) | [Ducktails](https://open.spotify.com/artist/5FQbU5Lrb4pFcW45ZgZzMx) | [III: Arcade Dynamics](https://open.spotify.com/album/1qJHtKPrmdreEmFOPPrTcf) | 4:19 |
 | 53 | [Thrift Store](https://open.spotify.com/track/1KjWTtDZa378N0C9Ug8SoH) | [Arcy Drive](https://open.spotify.com/artist/7o1TBmx7Ube5h2Czlam84O) | [Thrift Store](https://open.spotify.com/album/2wuLmqioOr6gmHwaoz0jWQ) | 2:14 |

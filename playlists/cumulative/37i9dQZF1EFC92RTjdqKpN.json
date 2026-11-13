@@ -2987,6 +2987,24 @@
     },
     {
       "album": {
+        "name": "Sugar Water",
+        "url": "https://open.spotify.com/album/2T17eNpNaZjeuDFcW3Mgfs"
+      },
+      "artists": [
+        {
+          "name": "Maude Latour",
+          "url": "https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136375,
+      "name": "Officially Mine",
+      "url": "https://open.spotify.com/track/2NVsWRM4DFXO1GIBZRVKVY"
+    },
+    {
+      "album": {
         "name": "HELLRAISERS, Part 1",
         "url": "https://open.spotify.com/album/5NXJVouKAFjwszJA8FxUY7"
       },

@@ -4,7 +4,7 @@
 
 > Peaceful piano to help you slow down, breathe, and relax.
 
-1,879 songs - 3 day 11 hr 14 min
+1,880 songs - 3 day 11 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [Amorous Rebound](https://open.spotify.com/track/0JYn3juUc1lZ4kFeGey1kI) | [Sumsar](https://open.spotify.com/artist/3IKjg0f073Wk4IecayFzWW) | [Amorous Rebound](https://open.spotify.com/album/4nXeZ1J8OUhb7vo4fh2zYE) | 1:49 | 2019-09-12 | 2021-08-12 |
 | [An Elevation](https://open.spotify.com/track/0tR800fZrSvw5pZc0j8Y3X) | [Megan Wofford](https://open.spotify.com/artist/3ac7SLoq4Rbms8XZE0rdkA) | [Redefine](https://open.spotify.com/album/0vog80iNYUeezmXJeNBg5s) | 2:53 | 2020-11-03 | 2021-02-17 |
 | [And I Always Will](https://open.spotify.com/track/2ELwSFL1CGiJIlpHP3XFbZ) | [Julien Thorsen](https://open.spotify.com/artist/4mm2IRrNFYuVoESj439Apn) | [And I Always Will](https://open.spotify.com/album/6IMQgMaokDB7ZS5QkOJuoK) | 1:59 | 2020-02-26 | 2022-05-27 |
+| [Anemon](https://open.spotify.com/track/4kSZ5gosHZpbm6bAPyuEHp) | [Blake Hollow](https://open.spotify.com/artist/4UvYi8W3Tfi1FOeLN6rHZ7) | [Anemon](https://open.spotify.com/album/5jdfuhnidvtHCUleoh8gN8) | 3:06 | 2026-11-13 |  |
 | [Ann's Lullaby](https://open.spotify.com/track/4w1DqdY27a1nfrXPBNsixT) | [Manuel Zito](https://open.spotify.com/artist/1D1r09YGuPm6Q5L8KeQcd2) | [Ann's Lullaby](https://open.spotify.com/album/5YQt0lCeryPlyl6ffqcaFQ) | 3:14 | 2020-01-08 | 2020-03-31 |
 | [Anona](https://open.spotify.com/track/44rpvXgWhgUWmLUH12Nu58) | [Otto A\. Totland](https://open.spotify.com/artist/0Dc8oO0rYX3DgirVK88dcl) | [The Lost](https://open.spotify.com/album/7kC6WXiBzA4Itfbzy9PmkT) | 3:27 | 2019-07-25 | 2020-03-04 |
 | [Another Life](https://open.spotify.com/track/44jnGxgCSoyxygFmpyCiPy) | [Eu Nice](https://open.spotify.com/artist/75N5zJx3aWG7AwsJmb08sK) | [Another Life](https://open.spotify.com/album/1lBJzs7vKo2p5HL78MpvPD) | 2:19 | 2022-01-26 | 2023-11-14 |

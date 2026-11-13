@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "PH vibin' cover: DEMI",
+  "description": "PH vibin' cover: brei",
   "name": "Pinas Vibes ",
   "tracks": [
     {
@@ -2697,6 +2697,24 @@
     },
     {
       "album": {
+        "name": "Everytime We",
+        "url": "https://open.spotify.com/album/4Mj87rwOvMgboVTM8wL0rg"
+      },
+      "artists": [
+        {
+          "name": "Jom",
+          "url": "https://open.spotify.com/artist/021sXp6RH5MQCCp2hmal6q"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146288,
+      "name": "Everytime We",
+      "url": "https://open.spotify.com/track/2GH8UXbz8JKiHdjn54JkwT"
+    },
+    {
+      "album": {
         "name": "FACE CARD",
         "url": "https://open.spotify.com/album/4La9N88QGqJizcCy6D7ubV"
       },
@@ -2788,7 +2806,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 209684,
       "name": "fallinlove?",
       "url": "https://open.spotify.com/track/4Jg744nH7glHFc3DpyiNvC"
@@ -7613,6 +7631,28 @@
     },
     {
       "album": {
+        "name": "PEYBRIT",
+        "url": "https://open.spotify.com/album/2PSNON4u5SWTUpg36ow98H"
+      },
+      "artists": [
+        {
+          "name": "JP Bacallan",
+          "url": "https://open.spotify.com/artist/4FHrW1ts0EkPM27nmHtxQG"
+        },
+        {
+          "name": "GRA the Great",
+          "url": "https://open.spotify.com/artist/3w5kgMZkmUD997k44uHz9N"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196142,
+      "name": "PEYBRIT",
+      "url": "https://open.spotify.com/track/5kapHJ3u1P9iKd8j7ScKfe"
+    },
+    {
+      "album": {
         "name": "Phases",
         "url": "https://open.spotify.com/album/1B6czSiyIMwLWgPsCdXwc2"
       },
@@ -7678,7 +7718,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 192954,
       "name": "Play",
       "url": "https://open.spotify.com/track/5tR2mt4gJ5JDMDfHg7EYTL"
@@ -7776,6 +7816,24 @@
       "duration_ms": 223636,
       "name": "Puntirya",
       "url": "https://open.spotify.com/track/7fHgK24OXJ4tcZaGyERyFT"
+    },
+    {
+      "album": {
+        "name": "Puyat",
+        "url": "https://open.spotify.com/album/1esWD7KK9YjJpsgzZs3WI8"
+      },
+      "artists": [
+        {
+          "name": "brei",
+          "url": "https://open.spotify.com/artist/4wbdkRQc3d2yVkT68rMrOi"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185107,
+      "name": "Puyat",
+      "url": "https://open.spotify.com/track/3zHPlWVB1q5saxWlKTPMs2"
     },
     {
       "album": {
@@ -8312,7 +8370,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 186211,
       "name": "Saglit",
       "url": "https://open.spotify.com/track/1St01QnpQ0VLiOCSnE2eta"
@@ -8474,6 +8532,28 @@
       "duration_ms": 208000,
       "name": "Sandali",
       "url": "https://open.spotify.com/track/6gbhAe0l2WPXEGFYOBdPOO"
+    },
+    {
+      "album": {
+        "name": "Sarah (feat. John Roa)",
+        "url": "https://open.spotify.com/album/3TyD8VNfjNrFE5FOR8q4VU"
+      },
+      "artists": [
+        {
+          "name": "Dionela",
+          "url": "https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj"
+        },
+        {
+          "name": "John Roa",
+          "url": "https://open.spotify.com/artist/2U5mF0PZqGu6glnz55yY0y"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149400,
+      "name": "Sarah (feat. John Roa)",
+      "url": "https://open.spotify.com/track/5pGakYfgEiE29pBEeUUbyB"
     },
     {
       "album": {
@@ -9096,7 +9176,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 168000,
       "name": "Space & Time",
       "url": "https://open.spotify.com/track/3azKk9HATst4jPYVlduMIa"

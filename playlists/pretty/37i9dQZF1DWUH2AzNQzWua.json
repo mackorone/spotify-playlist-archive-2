@@ -1,6 +1,6 @@
 {
   "description": "Instant classics from over the years loaded into one sweet mix.",
-  "num_followers": 3837810,
+  "num_followers": 3837599,
   "original_name": "Acoustic Hits: Oldies but Goodies",
   "owner": {
     "name": "Spotify",
@@ -291,22 +291,18 @@
     {
       "added_at": "2024-07-05 22:41:32",
       "album": {
-        "name": "We Sing. We Dance. We Steal Things.",
-        "url": "https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5"
+        "name": "Parachutes",
+        "url": "https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra"
       },
       "artists": [
         {
-          "name": "Jason Mraz",
-          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
-        },
-        {
-          "name": "Colbie Caillat",
-          "url": "https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu"
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
         }
       ],
-      "duration_ms": 189613,
-      "name": "Lucky",
-      "url": "https://open.spotify.com/track/0IktbUcnAGrvD03AWnz3Q8"
+      "duration_ms": 273426,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/0R8P9KfGJCDULmlEoBagcO"
     },
     {
       "added_at": "2024-07-05 22:41:32",
@@ -327,18 +323,22 @@
     {
       "added_at": "2024-07-05 22:41:32",
       "album": {
-        "name": "Parachutes",
-        "url": "https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra"
+        "name": "We Sing. We Dance. We Steal Things.",
+        "url": "https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5"
       },
       "artists": [
         {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+          "name": "Jason Mraz",
+          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+        },
+        {
+          "name": "Colbie Caillat",
+          "url": "https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu"
         }
       ],
-      "duration_ms": 273426,
-      "name": "Trouble",
-      "url": "https://open.spotify.com/track/0R8P9KfGJCDULmlEoBagcO"
+      "duration_ms": 189613,
+      "name": "Lucky",
+      "url": "https://open.spotify.com/track/0IktbUcnAGrvD03AWnz3Q8"
     },
     {
       "added_at": "2024-07-05 22:41:32",
@@ -631,22 +631,6 @@
     {
       "added_at": "2024-07-05 22:41:32",
       "album": {
-        "name": "Say",
-        "url": "https://open.spotify.com/album/1BCSXIQn5NuqM19MjZuOQY"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 230213,
-      "name": "Say",
-      "url": "https://open.spotify.com/track/6wZI4mdT8JwXgkGURnBQiq"
-    },
-    {
-      "added_at": "2024-07-05 22:41:32",
-      "album": {
         "name": "1.22.03 Acoustic",
         "url": "https://open.spotify.com/album/0BCjGDBIymcwf4etd4KBgu"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 276786,
       "name": "She Will Be Loved - Acoustic",
       "url": "https://open.spotify.com/track/2sLS4tVaEoMYrNS67PVz0V"
+    },
+    {
+      "added_at": "2024-07-05 22:41:32",
+      "album": {
+        "name": "Say",
+        "url": "https://open.spotify.com/album/1BCSXIQn5NuqM19MjZuOQY"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 230213,
+      "name": "Say",
+      "url": "https://open.spotify.com/track/6wZI4mdT8JwXgkGURnBQiq"
     },
     {
       "added_at": "2024-07-05 22:41:32",

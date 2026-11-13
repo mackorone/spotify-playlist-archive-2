@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3qZfmr.md) - [plain]
 
 > This is Megan Moroney\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,480 likes - 38 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,515 likes - 38 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3qZfmr.md) - [plain]
 | 5 | [Medicine](https://open.spotify.com/track/3NrAVoBHOvYcmRur0vM9x8) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Cloud 9](https://open.spotify.com/album/4ntHwySryzYS8Td67WlVVq) | 3:11 |
 | 6 | [Wonder](https://open.spotify.com/track/1z89jCXIK0JzyBtaa7Sn58) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Wonder](https://open.spotify.com/album/3XL3TJkGqmZac0iXTL8kdC) | 3:42 |
 | 7 | [I'm Not Pretty](https://open.spotify.com/track/2ePiBvKtQOCBHq9uOlwiiU) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Lucky](https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK) | 3:01 |
-| 8 | [Say When](https://open.spotify.com/track/7mcEvEEwLce8qXrNPmgugg) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Nobody Wants This: Season 3 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/3NxKJiRAZkeZTJ6JvcHK0b) | 3:47 |
-| 9 | [6 Months Later](https://open.spotify.com/track/6LO850KScatqpleILCom6P) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Cloud 9](https://open.spotify.com/album/4ntHwySryzYS8Td67WlVVq) | 3:02 |
+| 8 | [6 Months Later](https://open.spotify.com/track/6LO850KScatqpleILCom6P) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Cloud 9](https://open.spotify.com/album/4ntHwySryzYS8Td67WlVVq) | 3:02 |
+| 9 | [Say When](https://open.spotify.com/track/7mcEvEEwLce8qXrNPmgugg) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Nobody Wants This: Season 3 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/3NxKJiRAZkeZTJ6JvcHK0b) | 3:47 |
 | 10 | [Break It Right Back](https://open.spotify.com/track/4UzkT20tkeSqlKLinRQsA7) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Am I Okay? \(I'll Be Fine\)](https://open.spotify.com/album/0AqurYcKg73g81nADrFcyY) | 3:34 |
 | 11 | [No Caller ID](https://open.spotify.com/track/2TOO5Dp8mlKhSq8xTGPXwX) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Am I Okay?](https://open.spotify.com/album/7l80BDHxpZwj8FXImqH8fw) | 3:28 |
 | 12 | [Cloud 9](https://open.spotify.com/track/5wbXC9b2b5JwOKTd5FhuRy) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Cloud 9](https://open.spotify.com/album/4ntHwySryzYS8Td67WlVVq) | 3:33 |
@@ -38,13 +38,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3qZfmr.md) - [plain]
 | 28 | [Lucky](https://open.spotify.com/track/4KdvlmutAtM0FF8mCXXhQt) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Lucky](https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK) | 2:41 |
 | 29 | [Who's Your Daddy?](https://open.spotify.com/track/5i1UlApqcoXQqbGST2Q3pb) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Who's Your Daddy?](https://open.spotify.com/album/7q4S10v6Ja96voiKGL0fUm) | 3:08 |
 | 30 | [Ain't Nothing 'Bout You \(with Megan Moroney\)](https://open.spotify.com/track/0R51yMOPP9LixmZgGmyWv5) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz), [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Reboot II](https://open.spotify.com/album/1nt0BAJMDSGQvmZbq0xhoI) | 3:31 |
-| 31 | [It Just Got Weird](https://open.spotify.com/track/7FqiywYL9ntgHjlddtMDUk) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O), [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Silver Sands Marina](https://open.spotify.com/album/0ESd1qZt6XOB3kbqiRlTuS) | 3:40 |
-| 32 | [Reasons to Stay](https://open.spotify.com/track/5OPc2fFtwlMsmhOhFcqAny) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Lucky \(Deluxe\)](https://open.spotify.com/album/4Yb0OvM7xTvuyjUivVEXP4) | 4:11 |
-| 33 | [I Love Me](https://open.spotify.com/track/7yL4l7X3nfMV6zYBgn1IfA) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Pistol Made of Roses](https://open.spotify.com/album/2r8MHSTtnErtLRIhwR2P9E) | 3:10 |
+| 31 | [Reasons to Stay](https://open.spotify.com/track/5OPc2fFtwlMsmhOhFcqAny) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Lucky \(Deluxe\)](https://open.spotify.com/album/4Yb0OvM7xTvuyjUivVEXP4) | 4:11 |
+| 32 | [I Love Me](https://open.spotify.com/track/7yL4l7X3nfMV6zYBgn1IfA) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Pistol Made of Roses](https://open.spotify.com/album/2r8MHSTtnErtLRIhwR2P9E) | 3:10 |
+| 33 | [It Just Got Weird](https://open.spotify.com/track/7FqiywYL9ntgHjlddtMDUk) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O), [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Silver Sands Marina](https://open.spotify.com/album/0ESd1qZt6XOB3kbqiRlTuS) | 3:40 |
 | 34 | [I'll Be Fine](https://open.spotify.com/track/7r0EPhlEkkKzdLJyPw1wFz) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Am I Okay? \(I'll Be Fine\)](https://open.spotify.com/album/0AqurYcKg73g81nADrFcyY) | 3:40 |
 | 35 | [Never Left Me \(From Twisters: The Album\)](https://open.spotify.com/track/3IuBfjh6U8r2K0a5sP8Lvf) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Never Left Me \(From Twisters: The Album\)](https://open.spotify.com/album/7g8sRyHTnJBUuDb5VkzBP9) | 3:11 |
-| 36 | [Can't Break Up Now](https://open.spotify.com/track/4Na8o82wKItDTndJr2Iyu5) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i), [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Memory Lane](https://open.spotify.com/album/3PUA3xAHTsDAp11oAb33Mv) | 3:20 |
-| 37 | [He Made Me Do It](https://open.spotify.com/track/2pkZwJgXMeapPZ3BGoNNGB) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Pistol Made of Roses](https://open.spotify.com/album/2r8MHSTtnErtLRIhwR2P9E) | 3:32 |
+| 36 | [He Made Me Do It](https://open.spotify.com/track/2pkZwJgXMeapPZ3BGoNNGB) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Pistol Made of Roses](https://open.spotify.com/album/2r8MHSTtnErtLRIhwR2P9E) | 3:32 |
+| 37 | [Can't Break Up Now](https://open.spotify.com/track/4Na8o82wKItDTndJr2Iyu5) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i), [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Memory Lane](https://open.spotify.com/album/3PUA3xAHTsDAp11oAb33Mv) | 3:20 |
 | 38 | [Who Hurt You?](https://open.spotify.com/track/3SMLwkyLp1wMxjtO8GymvC) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Cloud 9](https://open.spotify.com/album/4ntHwySryzYS8Td67WlVVq) | 3:54 |
 
-Snapshot ID: `avENAAAAAACniijj8H84sDKMlfliBP6Q`
+Snapshot ID: `avOwAAAAAADc7ln29pQ9INdFJMZJ3ouK`

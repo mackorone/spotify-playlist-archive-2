@@ -1,6 +1,6 @@
 {
   "description": "Music paying tribute to the Heartland of America. Cover: Drew Baldridge",
-  "num_followers": 308753,
+  "num_followers": 308732,
   "original_name": "Heartland Country",
   "owner": {
     "name": "Spotify",
@@ -1631,6 +1631,22 @@
     {
       "added_at": "2026-09-18 04:02:42",
       "album": {
+        "name": "#1s ... and then some",
+        "url": "https://open.spotify.com/album/1ZXM9jY3Bsg12KXgwftBrO"
+      },
+      "artists": [
+        {
+          "name": "Brooks & Dunn",
+          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
+        }
+      ],
+      "duration_ms": 268613,
+      "name": "Only In America",
+      "url": "https://open.spotify.com/track/3e41nkMyqcAwaQCXJVj87G"
+    },
+    {
+      "added_at": "2026-09-18 04:02:42",
+      "album": {
         "name": "Brother",
         "url": "https://open.spotify.com/album/0BjVN6PAH15jTwfQZG8dLQ"
       },
@@ -1659,22 +1675,6 @@
       "duration_ms": 165586,
       "name": "Good Vibes",
       "url": "https://open.spotify.com/track/49oBFP6ZHPtd6t33LFTD3E"
-    },
-    {
-      "added_at": "2026-09-18 04:02:42",
-      "album": {
-        "name": "#1s ... and then some",
-        "url": "https://open.spotify.com/album/1ZXM9jY3Bsg12KXgwftBrO"
-      },
-      "artists": [
-        {
-          "name": "Brooks & Dunn",
-          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
-        }
-      ],
-      "duration_ms": 268613,
-      "name": "Only In America",
-      "url": "https://open.spotify.com/track/3e41nkMyqcAwaQCXJVj87G"
     }
   ],
   "unique_name": "Heartland Country",

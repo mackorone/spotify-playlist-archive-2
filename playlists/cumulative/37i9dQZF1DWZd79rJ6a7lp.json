@@ -11361,6 +11361,24 @@
     },
     {
       "album": {
+        "name": "Firefly",
+        "url": "https://open.spotify.com/album/2F2r2LlYdVncsfQOhyJFqT"
+      },
+      "artists": [
+        {
+          "name": "Lumbus",
+          "url": "https://open.spotify.com/artist/1RNt7MjVfrk7ZGMVbx6cdi"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157734,
+      "name": "Firefly",
+      "url": "https://open.spotify.com/track/0GGCIC4ctiUCzxRdTtgzc0"
+    },
+    {
+      "album": {
         "name": "First Light of Dawn",
         "url": "https://open.spotify.com/album/6EDtdJdf1wtDRsbLqm6rRz"
       },

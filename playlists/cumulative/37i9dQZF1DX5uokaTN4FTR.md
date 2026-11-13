@@ -2,7 +2,7 @@
 
 ### [Massive Dance Hits](https://open.spotify.com/playlist/37i9dQZF1DX5uokaTN4FTR)
 
-> The UK's biggest dance playlist! Chris Lorenzo
+> The UK's biggest dance playlist! Kolter
 
 798 songs - 1 day 17 hr 28 min
 
@@ -27,7 +27,7 @@
 | [6 In the Morning \(feat\. Nate Dogg\)](https://open.spotify.com/track/4hGLX2kT2Ayrw0Uh2oQp0J) | [Flex \(UK\)](https://open.spotify.com/artist/2ed1paa4TCZ0C8aLk5xalM), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [6 In the Morning \(feat\. Nate Dogg\)](https://open.spotify.com/album/1UYXqmZmTj9HA98fJpEwTs) | 2:48 | 2024-06-03 | 2025-04-25 |
 | [909](https://open.spotify.com/track/2NNyqVX63BJq603V80uBCf) | [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao), [Danny P](https://open.spotify.com/artist/6RImhfdBSbW7mioCBKmQOd) | [909](https://open.spotify.com/album/2zfkzIFCFlf9aycZyiFUxT) | 3:57 | 2026-01-30 | 2026-08-25 |
 | [99 Degrees](https://open.spotify.com/track/7EafWuZIL2L0TWAUueBZSd) | [Crvvcks](https://open.spotify.com/artist/1coHxhBPteDGeU23Kf1E98), [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [99 Degrees](https://open.spotify.com/album/2cmGrBYepfMbcHvMp93c3K) | 2:35 | 2022-07-14 | 2022-09-23 |
-| [>>>hands on me<<<](https://open.spotify.com/track/3g6l32hAD99c9SFQRAZutd) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [>>>hands on me<<<](https://open.spotify.com/album/0F588VeJ3cyYy6AnZFcXMv) | 2:17 | 2026-04-30 |  |
+| [>>>hands on me<<<](https://open.spotify.com/track/3g6l32hAD99c9SFQRAZutd) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [>>>hands on me<<<](https://open.spotify.com/album/0F588VeJ3cyYy6AnZFcXMv) | 2:17 | 2026-04-30 | 2026-11-13 |
 | [A Drug From God](https://open.spotify.com/track/4skbQNtyjy8A7mo8oqe2oD) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [NPC](https://open.spotify.com/artist/3YEsNNbHlb88K9QCog4R0Y) | [A Drug From God](https://open.spotify.com/album/6tZzL3lTVgWhJb2cE2jz1f) | 3:12 | 2021-11-19 | 2022-01-14 |
 | [About You](https://open.spotify.com/track/4IoWprg6W4DxHjxm1Pi4KT) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [About You](https://open.spotify.com/album/46f0tRgvuc70TDx8P4dMId) | 3:38 | 2022-03-18 | 2022-06-17 |
 | [Abracadabra \(Feat\. Craig David\)](https://open.spotify.com/track/19quyzgfIQzGM8K71UgMhp) | [Wes Nelson](https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq), [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Abracadabra \(feat\. Craig David\)](https://open.spotify.com/album/25HU17CmFd3aQkRHEU4Ek5) | 2:35 | 2024-02-16 | 2024-08-09 |
@@ -163,7 +163,7 @@
 | [Come Find Me \(with Clementine Douglas\)](https://open.spotify.com/track/03AhbPoniP5uqqJKYGWgZE) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Come Find Me \(with Clementine Douglas\)](https://open.spotify.com/album/2D48QGD5lU5kErH6PxLjTs) | 3:27 | 2025-09-25 | 2026-10-14 |
 | [Comes and Goes](https://open.spotify.com/track/3xQPerJjDVZrSFVE340D8r) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [Comes and Goes](https://open.spotify.com/album/4hKZm0EEZeOi7tbUhXTeCs) | 4:22 | 2026-05-28 | 2026-10-16 |
 | [Conceited \- What The Fuck](https://open.spotify.com/track/1Q0pG9JMCGpJ6uyFC9GvkZ) | [BEAUMONT](https://open.spotify.com/artist/2WqpiFf7QEVviSgnMrzalX), [Remy Ma](https://open.spotify.com/artist/39mHYiNmLR7p8PXNG8Wll6) | [Conceited \(What The Fuck\)](https://open.spotify.com/album/0OnIWNEf4e67017mDy2uoM) | 2:36 | 2026-01-16 | 2026-07-31 |
-| [Contact](https://open.spotify.com/track/2BVyRnQTr2by4dvTdhP6LI) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [Contact](https://open.spotify.com/album/1sCsiqGXef6RuggffHQKSS) | 3:07 | 2026-01-16 |  |
+| [Contact](https://open.spotify.com/track/2BVyRnQTr2by4dvTdhP6LI) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [Contact](https://open.spotify.com/album/1sCsiqGXef6RuggffHQKSS) | 3:07 | 2026-01-16 | 2026-11-13 |
 | [Conveniency](https://open.spotify.com/track/0hneE3CWTOFd9PC3qKfJcU) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Conveniency](https://open.spotify.com/album/0lXN4MXvk2ix9IOfJdLDwY) | 2:22 | 2023-02-03 | 2023-03-18 |
 | [Cops & Robbers](https://open.spotify.com/track/5pa2ZyJ3dIEmxRDW74msQi) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Cops & Robbers](https://open.spotify.com/album/6ISsvqjVEeShpIhZir687U) | 2:41 | 2025-06-02 | 2026-03-06 |
 | [COULD BE WRONG](https://open.spotify.com/track/5zuex7tbGFz0gSHlrMvQdu) | [LOSTBOYJAY](https://open.spotify.com/artist/1k0BkkbwTGZGBqrNWwuucL) | [COULD BE WRONG](https://open.spotify.com/album/2aJE1EikJGFwNq0NdGHcZP) | 3:06 | 2022-12-31 | 2023-05-05 |

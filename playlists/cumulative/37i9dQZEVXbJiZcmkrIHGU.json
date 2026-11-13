@@ -721,6 +721,24 @@
     },
     {
       "album": {
+        "name": "11 von 11",
+        "url": "https://open.spotify.com/album/1pacEZeZYMScAvdtlhWf3f"
+      },
+      "artists": [
+        {
+          "name": "Druckluft",
+          "url": "https://open.spotify.com/artist/0frz3O8M5bimsfjqGKcAL9"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169618,
+      "name": "11 von 11",
+      "url": "https://open.spotify.com/track/2YMwnle8hRj0ffnarSuCpl"
+    },
+    {
+      "album": {
         "name": "NINETYNINE",
         "url": "https://open.spotify.com/album/6j4H7Z52aDxJMjaog31UDE"
       },
@@ -6958,6 +6976,24 @@
     {
       "album": {
         "name": "arm um mich",
+        "url": "https://open.spotify.com/album/7GnsoCfRL0XLIe1HcdzpQr"
+      },
+      "artists": [
+        {
+          "name": "CEDDO",
+          "url": "https://open.spotify.com/artist/42trS2y9sQiZ14tTr2ghvG"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150153,
+      "name": "arm um mich",
+      "url": "https://open.spotify.com/track/5jRvFqocteQ2pgwdbST4AN"
+    },
+    {
+      "album": {
+        "name": "arm um mich",
         "url": "https://open.spotify.com/album/5KLhA7GH1NkwPyEbaCdliz"
       },
       "artists": [
@@ -6968,7 +7004,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 150153,
       "name": "arm um mich",
       "url": "https://open.spotify.com/track/6OcyEZ1xYY4F1NdxYSxN8J"
@@ -11958,7 +11994,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 293802,
       "name": "Billie Jean",
       "url": "https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj"
@@ -26752,7 +26788,7 @@
       ],
       "date_added": "2024-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 253920,
       "name": "Every Breath You Take",
       "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1"
@@ -39428,7 +39464,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-14",
+      "date_removed": null,
       "duration_ms": 174617,
       "name": "Ich geh mit meiner Laterne",
       "url": "https://open.spotify.com/track/7tAaD6pAy7JW7PtNESU9mY"
@@ -47739,6 +47775,24 @@
     },
     {
       "album": {
+        "name": "Laternen- und Herbstlieder",
+        "url": "https://open.spotify.com/album/7CIBgDr7rnEI1YeoMLO7Gn"
+      },
+      "artists": [
+        {
+          "name": "Lichterkinder",
+          "url": "https://open.spotify.com/artist/5poyNTy0YyDwAMSYBJ7zgv"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129319,
+      "name": "Laterne, Laterne",
+      "url": "https://open.spotify.com/track/2F9VY2gYvXz47Xbh9Ranea"
+    },
+    {
+      "album": {
         "name": "Champions Club",
         "url": "https://open.spotify.com/album/1ClwwhXiCtzCrCSrnK0L2D"
       },
@@ -50178,7 +50232,7 @@
       ],
       "date_added": "2026-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 223069,
       "name": "Loser",
       "url": "https://open.spotify.com/track/7bxaFZ1O3cHkgLKMsdC3xR"
@@ -55986,7 +56040,7 @@
       ],
       "date_added": "2026-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 142313,
       "name": "MO' MONEY MO' HATERS",
       "url": "https://open.spotify.com/track/0fgfp3IWgN2NGRUZrRhjln"
@@ -57954,7 +58008,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 217380,
       "name": "My Body Isn't Ready",
       "url": "https://open.spotify.com/track/79RJg6MqIJlBuedcMqB9F0"
@@ -73550,7 +73604,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-02",
+      "date_removed": null,
       "duration_ms": 151741,
       "name": "Self Aware",
       "url": "https://open.spotify.com/track/6xupcsJHo3wW2tSVKwu4mf"
@@ -76978,6 +77032,24 @@
       "duration_ms": 197019,
       "name": "St. Chroma (feat. Daniel Caesar)",
       "url": "https://open.spotify.com/track/1QoyuMHNBe7lg3YW4Qtll4"
+    },
+    {
+      "album": {
+        "name": "Laternen- und Herbstlieder",
+        "url": "https://open.spotify.com/album/7CIBgDr7rnEI1YeoMLO7Gn"
+      },
+      "artists": [
+        {
+          "name": "Lichterkinder",
+          "url": "https://open.spotify.com/artist/5poyNTy0YyDwAMSYBJ7zgv"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169596,
+      "name": "St. Martin ritt durch Schnee und Wind",
+      "url": "https://open.spotify.com/track/6X2cb90ZqRJJWM2pxxFD4D"
     },
     {
       "album": {

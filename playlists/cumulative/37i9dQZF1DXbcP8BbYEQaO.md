@@ -4,7 +4,7 @@
 
 > Pop for neon streets, rainy windows, and everything you still feel after dark.
 
-889 songs - 2 day 1 hr 57 min
+890 songs - 2 day 2 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -285,6 +285,7 @@
 | [For My Friends](https://open.spotify.com/track/6IEzGhvKEeUprf0pVk21ye) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Hold On Baby](https://open.spotify.com/album/3Q998ztjKK3ybjToj0QL9c) | 3:35 | 2022-07-31 | 2023-07-26 |
 | [For My Friends](https://open.spotify.com/track/6vs83ufnw4IVbotV0qv6C8) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [For My Friends](https://open.spotify.com/album/7hfIFmFhdPoLzeeDGPaYAw) | 3:35 | 2022-03-18 | 2022-07-29 |
 | [Forever](https://open.spotify.com/track/1Oc7I0lPIuUDSH3fGZe7Yn) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [When I Close My Eyes](https://open.spotify.com/album/6JkrpiVpnhPrCpiVtDPN2f) | 2:49 | 2021-10-16 | 2022-02-12 |
+| [Forever](https://open.spotify.com/track/37GUzBOW6gbF68KIAFnjh6) | [Quiet Light](https://open.spotify.com/artist/6Uy2IwBjxdF0MxQVIN18n9) | [Forever](https://open.spotify.com/album/2iIbQxBJG9cX0HCtfVDXQt) | 4:05 | 2026-11-13 |  |
 | [Forgive Me](https://open.spotify.com/track/4XjTvY0x7RR7cy8inojCkO) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE) | [Forgive Me](https://open.spotify.com/album/27JlVMNrOc1aaHmnaWmCRW) | 3:45 | 2022-03-09 | 2022-04-22 |
 | [Fragile](https://open.spotify.com/track/7FUA7YopOZWJ38Z4bvagWw) | [TRAILS](https://open.spotify.com/artist/4CSX0R9KLs9HkyqLfiraPQ), [Ruuth](https://open.spotify.com/artist/6BsONo5WrLwCzPZ2qHKoN4) | [Fragile](https://open.spotify.com/album/6U4OhqiXPlHvnLwGtNkGlu) | 4:09 | 2020-10-13\* | 2021-10-13 |
 | [Frankenstein](https://open.spotify.com/track/1xSmjB0t19q4CSJ0X0ymGB) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Frankenstein](https://open.spotify.com/album/740ehwZADpfoezUB54h6zE) | 3:22 | 2021-07-17 | 2022-04-17 |
@@ -373,7 +374,7 @@
 | [Houdini](https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Houdini](https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb) | 3:05 | 2023-11-10 | 2024-01-13 |
 | [How Deep Is Your Love](https://open.spotify.com/track/22mek4IiqubGD9ctzxc69s) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Disciples](https://open.spotify.com/artist/5EehXjjMktLuJmbRsM7YfB) | [How Deep Is Your Love](https://open.spotify.com/album/3cG32DOXJoYlOHMmJIaQsm) | 3:32 | 2021-06-19 | 2021-07-04 |
 | [How Do You Sleep?](https://open.spotify.com/track/6b2RcmUt1g9N9mQ3CbjX2Y) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [How Do You Sleep?](https://open.spotify.com/album/7baaCf70tVcUBL2bbkuXjo) | 3:22 | 2020-10-13\* | 2021-02-19 |
-| [How Long \- From"Euphoria" An HBO Original Series](https://open.spotify.com/track/05eZlxyjbkHMPCnunUasCS) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [How Long \(From "Euphoria" An HBO Original Series\)](https://open.spotify.com/album/7IneQ0ViJjz9UR0lisWJzJ) | 3:19 | 2022-01-28 |  |
+| [How Long \- From"Euphoria" An HBO Original Series](https://open.spotify.com/track/05eZlxyjbkHMPCnunUasCS) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [How Long \(From "Euphoria" An HBO Original Series\)](https://open.spotify.com/album/7IneQ0ViJjz9UR0lisWJzJ) | 3:19 | 2022-01-28 | 2026-11-13 |
 | [HOW TO BE A LOVER](https://open.spotify.com/track/1xbP92TbLVfUlS2BtkTidi) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [HOW TO BE A LOVER](https://open.spotify.com/album/0apMpMpEBEqdZj2X51ay62) | 4:26 | 2026-07-03 |  |
 | [Human](https://open.spotify.com/track/6c31lcBJX8HSG9rP0XDiL0) | [BUZZ](https://open.spotify.com/artist/4YXzweXdgnq4xSOpo1ZWxR) | [Human](https://open.spotify.com/album/5f1PQzjf5sGfcVrPCr9yBK) | 2:59 | 2022-05-20 | 2022-07-29 |
 | [Hurricane](https://open.spotify.com/track/6fMZJZqhauwGrwobkPZVJ7) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Hurricane](https://open.spotify.com/album/0nhR7pihu2lJDAvVfXqBcH) | 3:01 | 2022-03-09 | 2022-07-12 |

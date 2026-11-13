@@ -1,12 +1,12 @@
 {
   "description": "Trending songs from Tollywood! \nCover: Basinga Basinga Balaaleee!",
-  "num_followers": 697963,
+  "num_followers": 698340,
   "original_name": "Trending Now Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANfxA4i3p12CrmjtxBAhUL3LMFjp",
+  "snapshot_id": "AAAAAMvmkQDDm8tGFPOWiMZtA+2fLOt1",
   "tracks": [
     {
       "added_at": "2026-09-22 11:32:42",
@@ -33,20 +33,68 @@
       "url": "https://open.spotify.com/track/5aAm4h5bLg4hV5wQAi5MGx"
     },
     {
-      "added_at": "2026-11-03 09:35:09",
+      "added_at": "2026-11-13 04:22:08",
       "album": {
-        "name": "Daripontothundu",
-        "url": "https://open.spotify.com/album/158SMTJXbwDPYRKIAGWd9F"
+        "name": "Daripontothundu (DJ Song)",
+        "url": "https://open.spotify.com/album/3XZsb6zxS8AsH4ihAE35B3"
       },
       "artists": [
         {
           "name": "Mamidi Mounika",
           "url": "https://open.spotify.com/artist/3Ndbf8EbaxpIzFFEJ2eyBZ"
+        },
+        {
+          "name": "Dj Linga",
+          "url": "https://open.spotify.com/artist/5kEKSNp4QPqAXvhfZIW2nz"
         }
       ],
-      "duration_ms": 224351,
-      "name": "Daripontothundu",
-      "url": "https://open.spotify.com/track/3cqhSLSwLgHojdZqD8ZLne"
+      "duration_ms": 182712,
+      "name": "Daripontothundu - DJ Song",
+      "url": "https://open.spotify.com/track/072JL4fDdbBB9Cw5gSGEsr"
+    },
+    {
+      "added_at": "2026-09-22 11:32:42",
+      "album": {
+        "name": "Singari [From \"Dude (Telugu)\"]",
+        "url": "https://open.spotify.com/album/3iLLsCzKJwK4mozLgWtA8L"
+      },
+      "artists": [
+        {
+          "name": "Sai Abhyankkar",
+          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
+        },
+        {
+          "name": "Ramajogayya Sastry",
+          "url": "https://open.spotify.com/artist/4GISoVSxo2LkF5EyorXs9W"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Singari - From \"Dude (Telugu)\"",
+      "url": "https://open.spotify.com/track/0HsDFeWMvnM9rEyvB23RYF"
+    },
+    {
+      "added_at": "2026-11-13 04:22:08",
+      "album": {
+        "name": "Hai Re (From \"Itllu Arjuna\")",
+        "url": "https://open.spotify.com/album/0nSjrDX65muAOgLafXGPfc"
+      },
+      "artists": [
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        },
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Kalyan Chakravarthy",
+          "url": "https://open.spotify.com/artist/4SunIIZcXlrd6CdimZc7PO"
+        }
+      ],
+      "duration_ms": 205108,
+      "name": "Hai Re (From \"Itllu Arjuna\")",
+      "url": "https://open.spotify.com/track/1b5IfazTvAHfblmWymHf1p"
     },
     {
       "added_at": "2026-10-16 06:25:10",
@@ -75,26 +123,6 @@
       "duration_ms": 253061,
       "name": "Yaalalo Yaalalo (From \"Irumudi\")",
       "url": "https://open.spotify.com/track/3K5FEYNTqOSTEiX6oTNOqc"
-    },
-    {
-      "added_at": "2026-09-22 11:32:42",
-      "album": {
-        "name": "Singari [From \"Dude (Telugu)\"]",
-        "url": "https://open.spotify.com/album/3iLLsCzKJwK4mozLgWtA8L"
-      },
-      "artists": [
-        {
-          "name": "Sai Abhyankkar",
-          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
-        },
-        {
-          "name": "Ramajogayya Sastry",
-          "url": "https://open.spotify.com/artist/4GISoVSxo2LkF5EyorXs9W"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Singari - From \"Dude (Telugu)\"",
-      "url": "https://open.spotify.com/track/0HsDFeWMvnM9rEyvB23RYF"
     },
     {
       "added_at": "2026-11-06 18:02:03",
@@ -983,34 +1011,6 @@
       "duration_ms": 222122,
       "name": "Massa Massa (TELUGU)",
       "url": "https://open.spotify.com/track/7GS9ZIE8RjI4wYPcS6BQnt"
-    },
-    {
-      "added_at": "2025-12-16 07:07:20",
-      "album": {
-        "name": "Rebel Saab (From \"The Rajasaab\") [TELUGU]",
-        "url": "https://open.spotify.com/album/1osZtw9mrsC3MhKFjwCLLr"
-      },
-      "artists": [
-        {
-          "name": "Thaman S",
-          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
-        },
-        {
-          "name": "Sanjith Hegde",
-          "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
-        },
-        {
-          "name": "Blaaze",
-          "url": "https://open.spotify.com/artist/4DqSAnlpn10M4pHUFPEt4E"
-        },
-        {
-          "name": "Ramajogayya Sastry",
-          "url": "https://open.spotify.com/artist/4GISoVSxo2LkF5EyorXs9W"
-        }
-      ],
-      "duration_ms": 221096,
-      "name": "Rebel Saab (From \"The Rajasaab\") [TELUGU]",
-      "url": "https://open.spotify.com/track/641uWlhT8KRRE74GvDDsxa"
     },
     {
       "added_at": "2026-05-05 07:47:45",

@@ -2,9 +2,9 @@
 
 ### [Biso Na Biso](https://open.spotify.com/playlist/37i9dQZF1DX8d57cbyhqPM)
 
-> Du Congo, au monde 🌍 avec Tonton Tiakola et Tantine Theodora Theodora.
+> Du Congo, au monde 🌍 avec Tontons BabyDaiz et Tiakola.
 
-820 songs - 1 day 21 hr 52 min
+821 songs - 1 day 21 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Atsha](https://open.spotify.com/track/0vKZw2SGfgDZwXhOEqwPwU) | [Hugo Kafumbi](https://open.spotify.com/artist/4vtmFniIoQeD5t7oNfu4Te) | [Atsha](https://open.spotify.com/album/1I0N8RHSkhfiTce2OxoLmD) | 2:14 | 2024-06-21 | 2024-07-19 |
 | [Aucune attache](https://open.spotify.com/track/3KZN01EuBoqh04jyGXpnxr) | [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [Aucune attache](https://open.spotify.com/album/2u9Mg8knLxFwiEsALkFslI) | 2:41 | 2024-02-02 | 2024-04-27 |
 | [Avec les reins](https://open.spotify.com/track/2vDlMF4846Qt5OYuO1ez9O) | [Jordy](https://open.spotify.com/artist/5tZRrutidZHlufZzoO10Zh), [Bruzer](https://open.spotify.com/artist/1U2Bzt0bhkqHJj7L1WQdnB) | [Avec les reins](https://open.spotify.com/album/1xd8Dfl4VerZnRClDRWjrJ) | 1:59 | 2026-02-06 | 2026-03-14 |
-| [Awa 2.0](https://open.spotify.com/track/2pw68nPm4am4VJsPKv9ZGd) | [Croc De Owner](https://open.spotify.com/artist/5wRK5A9rrokA0ue3r7KH4D), [SALIMA CHICA](https://open.spotify.com/artist/0K27AaIekeMBOznvvoVstw) | [Awa 2.0](https://open.spotify.com/album/6xbwYwDm9ndhMTQyk2qY0v) | 6:56 | 2026-10-23 |  |
+| [Awa 2.0](https://open.spotify.com/track/2pw68nPm4am4VJsPKv9ZGd) | [Croc De Owner](https://open.spotify.com/artist/5wRK5A9rrokA0ue3r7KH4D), [SALIMA CHICA](https://open.spotify.com/artist/0K27AaIekeMBOznvvoVstw) | [Awa 2.0](https://open.spotify.com/album/6xbwYwDm9ndhMTQyk2qY0v) | 6:56 | 2026-10-23 | 2026-11-13 |
 | [Away](https://open.spotify.com/track/0iwxxGrk321aQjqa3zHVkV) | [TSHIM'S](https://open.spotify.com/artist/6KS9VSN0szolg3k7KYaAmX) | [Away](https://open.spotify.com/album/4gwCmuJDEayvcJxFz50SjB) | 3:38 | 2026-08-28 | 2026-10-24 |
 | [AYA BB](https://open.spotify.com/track/6K2y9U8wzNIddX3EpraCOx) | [Hiro](https://open.spotify.com/artist/64XqdWjtYhfMJeQB7wtAwS) | [AYA BB](https://open.spotify.com/album/2cd2ZnghZC0gCcm3TCkUQa) | 2:53 | 2024-07-05 | 2024-09-28 |
 | [Ba Koti](https://open.spotify.com/track/6CbDfWbO76SoXmiGj2V01w) | [DYNAMICTHECOOLKID](https://open.spotify.com/artist/7sLYoyyIgfb4wxx76SalS2), [Shotea](https://open.spotify.com/artist/5f5MAEFbc1NIKsPA4XePXS) | [Ba Koti](https://open.spotify.com/album/2X9h36btJkpeFwlcYVgoQz) | 3:39 | 2022-06-30 | 2022-09-03 |
@@ -245,6 +245,7 @@
 | [Ebembe ya dula](https://open.spotify.com/track/1gKHVSEhXOiBlygk6GnXty) | [Martial Pa'nucci](https://open.spotify.com/artist/2SNXLRyVOjrNqMzqbUkjLB) | [Ebembe ya dula](https://open.spotify.com/album/7MGOXUe5INfN1Xq94x3fDK) | 4:21 | 2022-08-26 | 2023-02-11 |
 | [Effacer](https://open.spotify.com/track/7nYiuvGUxKPyRiOCdRB3CE) | [Gaz Mawete](https://open.spotify.com/artist/4WSA56zRr2ZBnbQqVNrMay) | [Effacer](https://open.spotify.com/album/1JEOvA18w5zATEnhMMcXsv) | 4:56 | 2024-01-19 | 2024-05-18 |
 | [Egogo](https://open.spotify.com/track/2wtHPYS5KY2JKBMqXVY0Oh) | [Messi Dostivanet](https://open.spotify.com/artist/14Zxq58mnuquXq0TpMcjiJ) | [Egogo](https://open.spotify.com/album/0RRWFS4dkvUtZqvwu0sIru) | 3:23 | 2023-11-17 | 2023-11-25 |
+| [El Classico](https://open.spotify.com/track/1Q0SAIQM1UwhMo1niXOB5M) | [BabyDaiz](https://open.spotify.com/artist/75ffkjzl2yQm2wRvP5QL4s), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [El Classico](https://open.spotify.com/album/44Hco6UbPBieEbp0Q8Jl5w) | 2:51 | 2026-11-13 |  |
 | [Elaka](https://open.spotify.com/track/7CL5bYNXrgUiQQPryA1WMZ) | [Pheno Boys](https://open.spotify.com/artist/6JKLAP0SGfAsrujq1U00Zc), [Neo](https://open.spotify.com/artist/2eGLZwYE1TdrnYFjjrQZLA) | [Elaka](https://open.spotify.com/album/13KN0dTz25J9F7QfejexCA) | 4:07 | 2025-10-17 | 2026-01-31 |
 | [Elengi](https://open.spotify.com/track/5f9X0jeqQX8agwzPywXhDZ) | [Future Destin](https://open.spotify.com/artist/54v6fGbKfPoC31jwPPTA6v), [Christian Bella](https://open.spotify.com/artist/6aozNU9SYbDun9FIhXKZEn) | [Elengi](https://open.spotify.com/album/4GQjeDdEQYKDHp90d8A2gD) | 3:23 | 2024-08-23 | 2024-12-07 |
 | [Elengi](https://open.spotify.com/track/0jEuWbCyqhuWqPRUbQR4AD) | [Ocean kalume](https://open.spotify.com/artist/3FnNBWD11gDMSJyNrmKXOZ) | [Elengi](https://open.spotify.com/album/6ZCXzjrFhU3imb09CzIe46) | 6:55 | 2025-02-21 | 2025-03-01 |

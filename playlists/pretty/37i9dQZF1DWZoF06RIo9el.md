@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 
 > Las favoritas de octubre 2026\. Cover: Judeline
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,539,059 likes - 60 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,538,874 likes - 60 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 23 | [El Árbol](https://open.spotify.com/track/1a3CdHpetHGFLATswUsWm9) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [El Árbol](https://open.spotify.com/album/2ZV7lzoMDlrzLZBswCZs3v) | 3:01 |
 | 24 | [Detective](https://open.spotify.com/track/1nGJNFmJ2h6uG7XPoKw97K) | [Jota Rosa](https://open.spotify.com/artist/7gK06FGYa8dtJogKJXAG80), [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [Detective](https://open.spotify.com/album/6XhB8rGigLQhPiS4NO8maJ) | 2:45 |
 | 25 | [si la ves](https://open.spotify.com/track/7jZepEMIwqWvnB9YFDJqCt) | [Paloma Morphy](https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw) | [si la ves](https://open.spotify.com/album/2kkqISXrbSTaVHjj1iKL5R) | 2:57 |
-| 26 | [MADRID](https://open.spotify.com/track/6kUvZUtJDZLZNzjhCqJ7Wk) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [MADRID](https://open.spotify.com/album/3HpVlyht3MQIXBS4VifchT) | 3:04 |
-| 27 | [que seas tú \-\-](https://open.spotify.com/track/4u3KM7fGLsYRp6aN0bDNH3) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO) | [que seas tú \-\- & amor herido \. \. .](https://open.spotify.com/album/0QgnpGyTgCGrGmTFODU4l1) | 3:13 |
+| 26 | [que seas tú \-\-](https://open.spotify.com/track/4u3KM7fGLsYRp6aN0bDNH3) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO) | [que seas tú \-\- & amor herido \. \. .](https://open.spotify.com/album/0QgnpGyTgCGrGmTFODU4l1) | 3:13 |
+| 27 | [MADRID](https://open.spotify.com/track/6kUvZUtJDZLZNzjhCqJ7Wk) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [MADRID](https://open.spotify.com/album/3HpVlyht3MQIXBS4VifchT) | 3:04 |
 | 28 | [Con Esos Celos](https://open.spotify.com/track/63LvRvvdM73126Ye2Sbsdt) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Con Esos Celos](https://open.spotify.com/album/6d1eXu99bHIaP9NgVz4Y6H) | 2:13 |
 | 29 | [Perderte](https://open.spotify.com/track/38NzNYXJblGKRWlytlSgXQ) | [RIA](https://open.spotify.com/artist/21suutlchqrS2j8b2tjEWt), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Perderte](https://open.spotify.com/album/3xVRT1vm3BOvaQp6JNMLiL) | 3:39 |
 | 30 | [Tell Me I'm Beautiful](https://open.spotify.com/track/3NMpis16saqwH4bTKbkmDi) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8) | [Tell Me I'm Beautiful](https://open.spotify.com/album/6ceUAFN6I4c1BI5HocTcLs) | 3:35 |
@@ -49,15 +49,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 39 | [callaíto safari](https://open.spotify.com/track/2tpCPmC6r2HYQUfVAF9GF3) | [LOS MENOR3S](https://open.spotify.com/artist/4FkBhfL2GQLkwBwV6qNhOQ) | [CALLAÍTO SAFARI](https://open.spotify.com/album/5mRmMCVz0LKdAmpeumvpZo) | 2:56 |
 | 40 | [No es tu estilo](https://open.spotify.com/track/5RikicLu1IWphJ0y6BadSE) | [LOCKWARD](https://open.spotify.com/artist/52IDIMrGNbCUkHrpkf0F8y), [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [No es tu estilo](https://open.spotify.com/album/6n2DgWN6TftYJKGNcBPW1G) | 2:22 |
 | 41 | [Barbie](https://open.spotify.com/track/5ZJPlwaqxs7yX7Aqe0TTgJ) | [Huan62](https://open.spotify.com/artist/08yYd8o1CrOjIpGHP2I6zU) | [62 GANG](https://open.spotify.com/album/3lq6BbV7iqzrC50JTzs9Pu) | 1:27 |
-| 42 | [JEEP](https://open.spotify.com/track/7ctWQyAdC1OVpFDtqxNk8t) | [MAGNA](https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF), [Mi Compa el Chino](https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4) | [JEEP](https://open.spotify.com/album/2g5iVDVoQ1WvWTUfxhtzOm) | 3:15 |
-| 43 | [Príncipe](https://open.spotify.com/track/2b39GNmHpEx0RRbKNJEdlf) | [Blua](https://open.spotify.com/artist/43Vc14K5S0k4Vt34OpVFdM) | [Príncipe](https://open.spotify.com/album/7pgIrWQsslCCYVKvXSxcb9) | 3:01 |
-| 44 | [milveces](https://open.spotify.com/track/6u1zU6mOBjwHqO0otIC4Br) | [FaceBrooklyn](https://open.spotify.com/artist/0HGYhpDqId26b8YElUubo8) | [milveces](https://open.spotify.com/album/6hQQz7N2a348XnwyEXWYgk) | 3:40 |
+| 42 | [Príncipe](https://open.spotify.com/track/2b39GNmHpEx0RRbKNJEdlf) | [Blua](https://open.spotify.com/artist/43Vc14K5S0k4Vt34OpVFdM) | [Príncipe](https://open.spotify.com/album/7pgIrWQsslCCYVKvXSxcb9) | 3:01 |
+| 43 | [milveces](https://open.spotify.com/track/6u1zU6mOBjwHqO0otIC4Br) | [FaceBrooklyn](https://open.spotify.com/artist/0HGYhpDqId26b8YElUubo8) | [milveces](https://open.spotify.com/album/6hQQz7N2a348XnwyEXWYgk) | 3:40 |
+| 44 | [JEEP](https://open.spotify.com/track/7ctWQyAdC1OVpFDtqxNk8t) | [MAGNA](https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF), [Mi Compa el Chino](https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4) | [JEEP](https://open.spotify.com/album/2g5iVDVoQ1WvWTUfxhtzOm) | 3:15 |
 | 45 | [La gravedad y el tiempo.](https://open.spotify.com/track/2PSWcnLzIl0vSxEIzKfTYT) | [YOSHI](https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd), [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [La gravedad y el tiempo.](https://open.spotify.com/album/5L95oJ4x1Lrj419blyzCZM) | 2:42 |
 | 46 | [VALIENTE](https://open.spotify.com/track/6zsh0CVgBxGnmDQvSxAObK) | [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [VALIENTE](https://open.spotify.com/album/7zl5hsgnVio4VvgjqkcaWE) | 2:30 |
 | 47 | [perdón](https://open.spotify.com/track/4mXWvB4yFB9K0nwITqiwjw) | [te vi en un planetario](https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm) | [perdón](https://open.spotify.com/album/0sVrUlANtwp9aPhOKgDNly) | 2:43 |
 | 48 | [santa lucía \(impala\)](https://open.spotify.com/track/2iXV1aHxVVtaLLHgdC4Woq) | [FREEKIDS](https://open.spotify.com/artist/60FYZ0x5u10Z9oTq6hJW7j), [PARDOPARDO](https://open.spotify.com/artist/4jK6qJJ6s34BziEutGFMra) | [todavía no vuelvo](https://open.spotify.com/album/1h9p1SAc1ybdGa8lwsftcK) | 3:35 |
-| 49 | [Bashiata](https://open.spotify.com/track/1sxTOfJebwCInle9Wc0YGt) | [Chuwi](https://open.spotify.com/artist/6wF1Cz760dpdbX9RJIDpQW) | [Bashiata](https://open.spotify.com/album/52B2HnetcclvWedmBU9aQc) | 4:12 |
-| 50 | [CARIÑO](https://open.spotify.com/track/6GR5SpN5QMumyDgmaGjecM) | [Melanie Santiler](https://open.spotify.com/artist/1ZN9ReUi4VKQjhzQDVV3Zk) | [LOS CISNES](https://open.spotify.com/album/557XWOuNRadtqs2rByxVuk) | 2:57 |
+| 49 | [CARIÑO](https://open.spotify.com/track/6GR5SpN5QMumyDgmaGjecM) | [Melanie Santiler](https://open.spotify.com/artist/1ZN9ReUi4VKQjhzQDVV3Zk) | [LOS CISNES](https://open.spotify.com/album/557XWOuNRadtqs2rByxVuk) | 2:57 |
+| 50 | [Bashiata](https://open.spotify.com/track/1sxTOfJebwCInle9Wc0YGt) | [Chuwi](https://open.spotify.com/artist/6wF1Cz760dpdbX9RJIDpQW) | [Bashiata](https://open.spotify.com/album/52B2HnetcclvWedmBU9aQc) | 4:12 |
 | 51 | [Quiéreme así](https://open.spotify.com/track/59ZGZeD9krTAmIiXZtoHGZ) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [Quiéreme así](https://open.spotify.com/album/0t6yHJC5VBXAbc5KY6Wprl) | 3:31 |
 | 52 | [algo me gusta de ti](https://open.spotify.com/track/6QBwsbFFoDzKKMwfoU4VCw) | [MYF](https://open.spotify.com/artist/5Xwx1803CBjI5p827twc1K) | [algo me gusta de ti](https://open.spotify.com/album/1Ck80vpdXzrnQdoyA4TXdV) | 2:36 |
 | 53 | [Te Caigo](https://open.spotify.com/track/1SNdl0d0YHfoD7b0Uvfn1W) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Te Caigo](https://open.spotify.com/album/5FpnVFmelMaJf61BMaDOO4) | 3:04 |

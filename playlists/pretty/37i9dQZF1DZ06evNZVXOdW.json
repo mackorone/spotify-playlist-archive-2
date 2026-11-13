@@ -1,12 +1,12 @@
 {
   "description": "This is Arooj Aftab. The essential tracks, all in one playlist.",
-  "num_followers": 9775,
+  "num_followers": 9779,
   "original_name": "This Is Arooj Aftab",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avENAAAAAAA5nSVAJ9p+8X1JbSsGJc/3",
+  "snapshot_id": "avOwAAAAAADYMSWDXPNXgmVwNUGHyMyJ",
   "tracks": [
     {
       "added_at": null,
@@ -311,26 +311,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bait (Music From & Inspired by the Original Series)",
-        "url": "https://open.spotify.com/album/03ZfkSBjBDBWbI5b7yjtzX"
-      },
-      "artists": [
-        {
-          "name": "Anish Kumar",
-          "url": "https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8"
-        },
-        {
-          "name": "Arooj Aftab",
-          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
-        }
-      ],
-      "duration_ms": 209317,
-      "name": "Sweet Dreams (Are Made Of This)",
-      "url": "https://open.spotify.com/track/0cBwTa35pfbzD3vo5W519M"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tails Noir (Original Game Soundtrack)",
         "url": "https://open.spotify.com/album/1fHotEKyTMFFpMCxssBoiy"
       },
@@ -347,6 +327,26 @@
       "duration_ms": 119500,
       "name": "Beyond the Smoke Screen",
       "url": "https://open.spotify.com/track/2xdoRmz28lop5nqCc4v1GC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bait (Music From & Inspired by the Original Series)",
+        "url": "https://open.spotify.com/album/03ZfkSBjBDBWbI5b7yjtzX"
+      },
+      "artists": [
+        {
+          "name": "Anish Kumar",
+          "url": "https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8"
+        },
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        }
+      ],
+      "duration_ms": 209317,
+      "name": "Sweet Dreams (Are Made Of This)",
+      "url": "https://open.spotify.com/track/0cBwTa35pfbzD3vo5W519M"
     },
     {
       "added_at": null,
@@ -376,21 +376,13 @@
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
         },
         {
-          "name": "Cautious Clay",
-          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
-        },
-        {
-          "name": "Kaki King",
-          "url": "https://open.spotify.com/artist/1s2pki7lATUaBOL76E3vCV"
-        },
-        {
-          "name": "Maeve Gilchrist",
-          "url": "https://open.spotify.com/artist/389WRgo5xrmZWgpleecYa5"
+          "name": "Vijay Iyer",
+          "url": "https://open.spotify.com/artist/27DeRe5LjIt9ZPXUjF90h6"
         }
       ],
-      "duration_ms": 307887,
-      "name": "Last Night Reprise (feat. Cautious Clay, Kaki King, Maeve Gilchrist)",
-      "url": "https://open.spotify.com/track/35IhAAciJPseghP7KlBhVU"
+      "duration_ms": 406831,
+      "name": "Saaqi (feat. Vijay Iyer)",
+      "url": "https://open.spotify.com/track/0BUQnIR6u8DFHClDlruO1u"
     },
     {
       "added_at": null,
@@ -404,9 +396,9 @@
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
         }
       ],
-      "duration_ms": 232360,
-      "name": "Lullaby",
-      "url": "https://open.spotify.com/track/7g4891487QfCuRrENM8vUs"
+      "duration_ms": 340400,
+      "name": "Aey Na Balam",
+      "url": "https://open.spotify.com/track/3yqeqSvhVZBfr7Jri53Jbq"
     },
     {
       "added_at": null,
@@ -456,13 +448,21 @@
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
         },
         {
-          "name": "Vijay Iyer",
-          "url": "https://open.spotify.com/artist/27DeRe5LjIt9ZPXUjF90h6"
+          "name": "Cautious Clay",
+          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
+        },
+        {
+          "name": "Kaki King",
+          "url": "https://open.spotify.com/artist/1s2pki7lATUaBOL76E3vCV"
+        },
+        {
+          "name": "Maeve Gilchrist",
+          "url": "https://open.spotify.com/artist/389WRgo5xrmZWgpleecYa5"
         }
       ],
-      "duration_ms": 406831,
-      "name": "Saaqi (feat. Vijay Iyer)",
-      "url": "https://open.spotify.com/track/0BUQnIR6u8DFHClDlruO1u"
+      "duration_ms": 307887,
+      "name": "Last Night Reprise (feat. Cautious Clay, Kaki King, Maeve Gilchrist)",
+      "url": "https://open.spotify.com/track/35IhAAciJPseghP7KlBhVU"
     },
     {
       "added_at": null,
@@ -476,9 +476,9 @@
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
         }
       ],
-      "duration_ms": 340400,
-      "name": "Aey Na Balam",
-      "url": "https://open.spotify.com/track/3yqeqSvhVZBfr7Jri53Jbq"
+      "duration_ms": 232360,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/7g4891487QfCuRrENM8vUs"
     },
     {
       "added_at": null,

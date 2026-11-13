@@ -1,28 +1,44 @@
 {
-  "description": "just trying our best \ud83d\udcf8 Hannah Jadagu",
-  "num_followers": 1516502,
+  "description": "just trying our best \ud83d\udcf8 Holly Humberstone",
+  "num_followers": 1516305,
   "original_name": "young & free",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPrOtCQF7klTKHfm9QgXpr7Up/G2",
+  "snapshot_id": "AAAAAHSRnsylIFf2aHCEQ9U8UmWC+ktK",
   "tracks": [
     {
-      "added_at": "2026-11-06 05:00:35",
+      "added_at": "2026-11-13 05:02:22",
       "album": {
-        "name": "Curse",
-        "url": "https://open.spotify.com/album/5zjmQnfdkjBMU0VIZCFisr"
+        "name": "Cruel World\u2026So It Ends",
+        "url": "https://open.spotify.com/album/0Q6uk8wBcCwONqiYROLo8U"
       },
       "artists": [
         {
-          "name": "Hannah Jadagu",
-          "url": "https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj"
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
         }
       ],
-      "duration_ms": 203946,
-      "name": "Curse",
-      "url": "https://open.spotify.com/track/7pQId23MVVM18bOPZ7v9qH"
+      "duration_ms": 203021,
+      "name": "Killing The Mood",
+      "url": "https://open.spotify.com/track/23aN2ayUPGtpoox5n3eeyG"
+    },
+    {
+      "added_at": "2026-11-13 05:02:22",
+      "album": {
+        "name": "All at Once",
+        "url": "https://open.spotify.com/album/7t0cN4yvDz9IefUaDBHb3x"
+      },
+      "artists": [
+        {
+          "name": "Devon Gabriella",
+          "url": "https://open.spotify.com/artist/1rfIKfqoygAsxTWBdzVO2i"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "An End",
+      "url": "https://open.spotify.com/track/3uMk3JgF0AslhR0j1N2hOT"
     },
     {
       "added_at": "2026-11-06 05:00:35",
@@ -39,22 +55,6 @@
       "duration_ms": 229148,
       "name": "Perfect",
       "url": "https://open.spotify.com/track/3aLDkLDk8ef2va9Lpg23hD"
-    },
-    {
-      "added_at": "2026-10-23 04:02:30",
-      "album": {
-        "name": "Kiss Me Extra Hard",
-        "url": "https://open.spotify.com/album/7dRnnMM7ji2mfCgycJ2ArD"
-      },
-      "artists": [
-        {
-          "name": "Henry Morris",
-          "url": "https://open.spotify.com/artist/1SgGcKiYCO55coa8sdiamq"
-        }
-      ],
-      "duration_ms": 179347,
-      "name": "Rather Fight",
-      "url": "https://open.spotify.com/track/35hZag8RyddXfYsKbVg1f3"
     },
     {
       "added_at": "2026-10-09 05:13:31",
@@ -87,6 +87,118 @@
       "duration_ms": 200714,
       "name": "Horny, Grieving",
       "url": "https://open.spotify.com/track/2uvTP27swxyANQSOp2L0DH"
+    },
+    {
+      "added_at": "2026-11-13 05:02:22",
+      "album": {
+        "name": "POS",
+        "url": "https://open.spotify.com/album/3pkwztTPNbNzsjtyMGRHWk"
+      },
+      "artists": [
+        {
+          "name": "Max Rickun",
+          "url": "https://open.spotify.com/artist/5vYA9ABGrLzyBA0bk55VLl"
+        }
+      ],
+      "duration_ms": 203243,
+      "name": "POS",
+      "url": "https://open.spotify.com/track/4JZN0ox5209m96xs5Awbet"
+    },
+    {
+      "added_at": "2026-11-13 05:05:30",
+      "album": {
+        "name": "slug",
+        "url": "https://open.spotify.com/album/7Hy5GsTBkvTCndGqVLOrQR"
+      },
+      "artists": [
+        {
+          "name": "Devon Again",
+          "url": "https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t"
+        }
+      ],
+      "duration_ms": 236720,
+      "name": "slug",
+      "url": "https://open.spotify.com/track/2vgeAlfyqNyikQfVYa6BS4"
+    },
+    {
+      "added_at": "2026-11-13 05:02:22",
+      "album": {
+        "name": "Fleeting (Forever)",
+        "url": "https://open.spotify.com/album/38bYf23dSJeJqPwHWXQkyD"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kinsley",
+          "url": "https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC"
+        }
+      ],
+      "duration_ms": 247445,
+      "name": "The Look That Never Ends",
+      "url": "https://open.spotify.com/track/7bcZ24jO8abgqDP7zQ2Vm5"
+    },
+    {
+      "added_at": "2026-10-24 04:11:25",
+      "album": {
+        "name": "Look At All The Happy People",
+        "url": "https://open.spotify.com/album/1Bs77WR0J40UQHikv1cKEU"
+      },
+      "artists": [
+        {
+          "name": "Bluegirl",
+          "url": "https://open.spotify.com/artist/0avm7uM7BVbFqihRZjxPGr"
+        }
+      ],
+      "duration_ms": 206564,
+      "name": "Look At All The Happy People",
+      "url": "https://open.spotify.com/track/18o11AfvD5c8x6LjCSeCYG"
+    },
+    {
+      "added_at": "2026-11-13 05:02:22",
+      "album": {
+        "name": "fight!",
+        "url": "https://open.spotify.com/album/77KPou8OGUQIll2cs4PHI0"
+      },
+      "artists": [
+        {
+          "name": "Rence",
+          "url": "https://open.spotify.com/artist/3VJTtTgub426X1NuzcyAOb"
+        }
+      ],
+      "duration_ms": 151359,
+      "name": "fight!",
+      "url": "https://open.spotify.com/track/6jsP7w9a7wDuEVbGOkRh8g"
+    },
+    {
+      "added_at": "2026-11-06 05:00:35",
+      "album": {
+        "name": "Curse",
+        "url": "https://open.spotify.com/album/5zjmQnfdkjBMU0VIZCFisr"
+      },
+      "artists": [
+        {
+          "name": "Hannah Jadagu",
+          "url": "https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj"
+        }
+      ],
+      "duration_ms": 203946,
+      "name": "Curse",
+      "url": "https://open.spotify.com/track/7pQId23MVVM18bOPZ7v9qH"
+    },
+    {
+      "added_at": "2026-10-23 04:02:30",
+      "album": {
+        "name": "Kiss Me Extra Hard",
+        "url": "https://open.spotify.com/album/7dRnnMM7ji2mfCgycJ2ArD"
+      },
+      "artists": [
+        {
+          "name": "Henry Morris",
+          "url": "https://open.spotify.com/artist/1SgGcKiYCO55coa8sdiamq"
+        }
+      ],
+      "duration_ms": 179347,
+      "name": "Rather Fight",
+      "url": "https://open.spotify.com/track/35hZag8RyddXfYsKbVg1f3"
     },
     {
       "added_at": "2026-11-09 19:51:44",
@@ -137,20 +249,20 @@
       "url": "https://open.spotify.com/track/6pJzH5GrCZv7iCw3R2XDTp"
     },
     {
-      "added_at": "2026-10-24 04:11:25",
+      "added_at": "2026-11-13 05:02:22",
       "album": {
-        "name": "Look At All The Happy People",
-        "url": "https://open.spotify.com/album/1Bs77WR0J40UQHikv1cKEU"
+        "name": "Tulips",
+        "url": "https://open.spotify.com/album/3YMgvKKKeyS17ZYRWmu0u8"
       },
       "artists": [
         {
-          "name": "Bluegirl",
-          "url": "https://open.spotify.com/artist/0avm7uM7BVbFqihRZjxPGr"
+          "name": "Karly Bowman",
+          "url": "https://open.spotify.com/artist/6pMnomeWng0MECHaNIYBY6"
         }
       ],
-      "duration_ms": 206564,
-      "name": "Look At All The Happy People",
-      "url": "https://open.spotify.com/track/18o11AfvD5c8x6LjCSeCYG"
+      "duration_ms": 193550,
+      "name": "Tulips",
+      "url": "https://open.spotify.com/track/4DBuOW3dsfxnky8KqLKdRm"
     },
     {
       "added_at": "2026-10-30 04:01:53",
@@ -215,38 +327,6 @@
       "duration_ms": 237292,
       "name": "My Vice Is Misery",
       "url": "https://open.spotify.com/track/4JM95LjK8U9SAxkYnH6HXn"
-    },
-    {
-      "added_at": "2026-10-09 04:00:54",
-      "album": {
-        "name": "Clementine",
-        "url": "https://open.spotify.com/album/6LSKAWq0LXaEFczkqRRe6q"
-      },
-      "artists": [
-        {
-          "name": "Ruby Rose Turner",
-          "url": "https://open.spotify.com/artist/6F8yrN99JnFHqSF9CZcj2V"
-        }
-      ],
-      "duration_ms": 154821,
-      "name": "Clementine",
-      "url": "https://open.spotify.com/track/0XVTFq4y1XmpGThOAHKEc8"
-    },
-    {
-      "added_at": "2026-10-09 04:00:54",
-      "album": {
-        "name": "Too Cute To Be Lonely",
-        "url": "https://open.spotify.com/album/7wlMyVNmOTncgwr0SCifSY"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 196509,
-      "name": "Too Cute To Be Lonely",
-      "url": "https://open.spotify.com/track/5iZbOxJZ2Rmo2ECMXRHU9a"
     },
     {
       "added_at": "2025-08-15 04:00:30",
@@ -877,74 +957,6 @@
       "url": "https://open.spotify.com/track/7EVtAuFIgvaLHMqHGUa3zm"
     },
     {
-      "added_at": "2026-08-28 04:00:13",
-      "album": {
-        "name": "serena joy",
-        "url": "https://open.spotify.com/album/2g6XbbyPIPRMa2P1ildhza"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 185838,
-      "name": "serena joy",
-      "url": "https://open.spotify.com/track/6LJYBq1h5GElQO4sKFdRA9"
-    },
-    {
-      "added_at": "2026-08-21 04:02:38",
-      "album": {
-        "name": "Crazy, Baby",
-        "url": "https://open.spotify.com/album/4Z647T2KuNTEtDjOHfhVR6"
-      },
-      "artists": [
-        {
-          "name": "Cara Delevingne",
-          "url": "https://open.spotify.com/artist/4sv0K6oriSqkSI5O9bQbmd"
-        }
-      ],
-      "duration_ms": 145853,
-      "name": "Crazy, Baby",
-      "url": "https://open.spotify.com/track/27puT2rwyXM9tkOOTxTrQh"
-    },
-    {
-      "added_at": "2026-09-04 04:11:38",
-      "album": {
-        "name": "Modern Dreaming",
-        "url": "https://open.spotify.com/album/1Cp1Pl0VveGx9vYlezypOC"
-      },
-      "artists": [
-        {
-          "name": "Eileen Alister",
-          "url": "https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2"
-        }
-      ],
-      "duration_ms": 173659,
-      "name": "Modern Dreaming",
-      "url": "https://open.spotify.com/track/4MrsOZiOUIuyq2gt1A3hsf"
-    },
-    {
-      "added_at": "2026-08-21 04:02:38",
-      "album": {
-        "name": "STARCROSSED",
-        "url": "https://open.spotify.com/album/7B883f1Pcg6WGmP9hz8BOg"
-      },
-      "artists": [
-        {
-          "name": "PEGGY",
-          "url": "https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh"
-        },
-        {
-          "name": "Lydia the Bard",
-          "url": "https://open.spotify.com/artist/4dYuygkzjqrehCNZMTjkNJ"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "STARCROSSED",
-      "url": "https://open.spotify.com/track/3bxGv7giekHGcXUtGumcVp"
-    },
-    {
       "added_at": "2026-08-14 04:00:15",
       "album": {
         "name": "I think the drugs are working now",
@@ -1391,22 +1403,6 @@
       "duration_ms": 177000,
       "name": "Hometown Letdown",
       "url": "https://open.spotify.com/track/6gPQg2iktdQq3OpOGKmY42"
-    },
-    {
-      "added_at": "2026-07-13 19:10:57",
-      "album": {
-        "name": "Angel(s)",
-        "url": "https://open.spotify.com/album/71W6HyKdt6FDhVYChmamZ4"
-      },
-      "artists": [
-        {
-          "name": "Deb Fan",
-          "url": "https://open.spotify.com/artist/7s1vLo9XJCtiFWWzidpl9m"
-        }
-      ],
-      "duration_ms": 183373,
-      "name": "Angel(s)",
-      "url": "https://open.spotify.com/track/6SwLUJjEIhQfDBPJNexA2y"
     },
     {
       "added_at": "2026-07-17 04:06:21",

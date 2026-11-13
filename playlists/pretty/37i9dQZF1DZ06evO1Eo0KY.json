@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avENAAAAAACiExu/WGrOpg863jvnBEgW",
+  "snapshot_id": "avOwAAAAAAD5kX7kK/kZdhn0iPLlmxti",
   "tracks": [
     {
       "added_at": null,
@@ -232,9 +232,9 @@
           "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
         }
       ],
-      "duration_ms": 191990,
-      "name": "Stuck in Traffic",
-      "url": "https://open.spotify.com/track/6RKVaQhPzmtlDdcysWIV67"
+      "duration_ms": 199183,
+      "name": "Power Nap",
+      "url": "https://open.spotify.com/track/7CMMfKzZ98rYOvQJpHeSv1"
     },
     {
       "added_at": null,
@@ -316,9 +316,9 @@
           "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
         }
       ],
-      "duration_ms": 199183,
-      "name": "Power Nap",
-      "url": "https://open.spotify.com/track/7CMMfKzZ98rYOvQJpHeSv1"
+      "duration_ms": 191990,
+      "name": "Stuck in Traffic",
+      "url": "https://open.spotify.com/track/6RKVaQhPzmtlDdcysWIV67"
     },
     {
       "added_at": null,
@@ -555,26 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Late to My Own Funeral",
-        "url": "https://open.spotify.com/album/2oDcX1gb5edT6qXISrRw8W"
-      },
-      "artists": [
-        {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        },
-        {
-          "name": "Boldy James",
-          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
-        }
-      ],
-      "duration_ms": 165925,
-      "name": "Trapezoid",
-      "url": "https://open.spotify.com/track/3kop1l9o0Yik1Aw4ELJ1rS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Criminally Attached",
         "url": "https://open.spotify.com/album/1StqUa5W8ZyphBT3GHQBHs"
       },
@@ -591,6 +571,26 @@
       "duration_ms": 168000,
       "name": "Infrared Dot Com",
       "url": "https://open.spotify.com/track/13e3YuVd89BEYhdoFkQHAM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Late to My Own Funeral",
+        "url": "https://open.spotify.com/album/2oDcX1gb5edT6qXISrRw8W"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        },
+        {
+          "name": "Boldy James",
+          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+        }
+      ],
+      "duration_ms": 165925,
+      "name": "Trapezoid",
+      "url": "https://open.spotify.com/track/3kop1l9o0Yik1Aw4ELJ1rS"
     },
     {
       "added_at": null,
@@ -690,15 +690,11 @@
         {
           "name": "Boldy James",
           "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
-        },
-        {
-          "name": "David Wesson",
-          "url": "https://open.spotify.com/artist/2iRPUBbN9GyoKwI7CW94Mu"
         }
       ],
-      "duration_ms": 171210,
-      "name": "Cordon Bleu",
-      "url": "https://open.spotify.com/track/4gsjB5FGbSk8DVErMQEM0a"
+      "duration_ms": 186384,
+      "name": "Nice Try Wrong Guy",
+      "url": "https://open.spotify.com/track/3m7eR0cEDZnrKuGJ6uTPhI"
     },
     {
       "added_at": null,
@@ -778,11 +774,15 @@
         {
           "name": "Boldy James",
           "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+        },
+        {
+          "name": "David Wesson",
+          "url": "https://open.spotify.com/artist/2iRPUBbN9GyoKwI7CW94Mu"
         }
       ],
-      "duration_ms": 186384,
-      "name": "Nice Try Wrong Guy",
-      "url": "https://open.spotify.com/track/3m7eR0cEDZnrKuGJ6uTPhI"
+      "duration_ms": 171210,
+      "name": "Cordon Bleu",
+      "url": "https://open.spotify.com/track/4gsjB5FGbSk8DVErMQEM0a"
     },
     {
       "added_at": null,
@@ -800,9 +800,9 @@
           "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
         }
       ],
-      "duration_ms": 216907,
-      "name": "1st Time Around",
-      "url": "https://open.spotify.com/track/0AWcVU2pO1S4uOtpwgHL7S"
+      "duration_ms": 204800,
+      "name": "2 Left Feet",
+      "url": "https://open.spotify.com/track/1mdArD6d9HmEVdXR2SeuG4"
     },
     {
       "added_at": null,
@@ -827,8 +827,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ultimate Dump Gawd",
-        "url": "https://open.spotify.com/album/7BY0QMRC18N9sxaXqYkzNP"
+        "name": "Dump Gawd: Shot Clock King",
+        "url": "https://open.spotify.com/album/36FjECbaQWxWg64KyjotOs"
       },
       "artists": [
         {
@@ -840,9 +840,9 @@
           "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
         }
       ],
-      "duration_ms": 179256,
-      "name": "Mad Life Menace",
-      "url": "https://open.spotify.com/track/7zrEnMTCDQITYQwavB1lfT"
+      "duration_ms": 134269,
+      "name": "Look What You Done",
+      "url": "https://open.spotify.com/track/5K2ueQB4fbPQANVWfJAs7E"
     },
     {
       "added_at": null,
@@ -880,9 +880,29 @@
           "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
         }
       ],
-      "duration_ms": 204800,
-      "name": "2 Left Feet",
-      "url": "https://open.spotify.com/track/1mdArD6d9HmEVdXR2SeuG4"
+      "duration_ms": 216907,
+      "name": "1st Time Around",
+      "url": "https://open.spotify.com/track/0AWcVU2pO1S4uOtpwgHL7S"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ultimate Dump Gawd",
+        "url": "https://open.spotify.com/album/7BY0QMRC18N9sxaXqYkzNP"
+      },
+      "artists": [
+        {
+          "name": "Tha God Fahim",
+          "url": "https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77"
+        },
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        }
+      ],
+      "duration_ms": 179256,
+      "name": "Mad Life Menace",
+      "url": "https://open.spotify.com/track/7zrEnMTCDQITYQwavB1lfT"
     },
     {
       "added_at": null,
@@ -898,31 +918,15 @@
         {
           "name": "Nicholas Craven",
           "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        }
-      ],
-      "duration_ms": 134269,
-      "name": "Look What You Done",
-      "url": "https://open.spotify.com/track/5K2ueQB4fbPQANVWfJAs7E"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "WHAT REMAINS",
-        "url": "https://open.spotify.com/album/1KlMknPbPoZLgevvWAKbF6"
-      },
-      "artists": [
-        {
-          "name": "ANKHLEJOHN",
-          "url": "https://open.spotify.com/artist/5C4Ykpj8uV3LkRANA6rF9M"
         },
         {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+          "name": "Your Old Droog",
+          "url": "https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp"
         }
       ],
-      "duration_ms": 86400,
-      "name": "YOU",
-      "url": "https://open.spotify.com/track/4NGPIOGig9sCHWj6roOmeu"
+      "duration_ms": 132787,
+      "name": "Lost His Way",
+      "url": "https://open.spotify.com/track/6eqnVQb0Ct5Eg8Aziveyh2"
     },
     {
       "added_at": null,
@@ -958,35 +962,55 @@
         {
           "name": "Nicholas Craven",
           "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        },
+        {
+          "name": "Poppy Bricks",
+          "url": "https://open.spotify.com/artist/27LMCWUzDF0MRvJt4aP5py"
         }
       ],
-      "duration_ms": 184370,
-      "name": "Thumb of Craven",
-      "url": "https://open.spotify.com/track/0b4QMytM23x5RIqNoZR3pv"
+      "duration_ms": 193136,
+      "name": "Mr. Quaker Oats",
+      "url": "https://open.spotify.com/track/0AaQu9DCyTlT0RkTaGSytT"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Dump Gawd: Shot Clock King",
-        "url": "https://open.spotify.com/album/36FjECbaQWxWg64KyjotOs"
+        "name": "WHAT REMAINS",
+        "url": "https://open.spotify.com/album/1KlMknPbPoZLgevvWAKbF6"
       },
       "artists": [
         {
-          "name": "Tha God Fahim",
-          "url": "https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77"
+          "name": "ANKHLEJOHN",
+          "url": "https://open.spotify.com/artist/5C4Ykpj8uV3LkRANA6rF9M"
         },
         {
           "name": "Nicholas Craven",
           "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        },
-        {
-          "name": "Your Old Droog",
-          "url": "https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp"
         }
       ],
-      "duration_ms": 132787,
-      "name": "Lost His Way",
-      "url": "https://open.spotify.com/track/6eqnVQb0Ct5Eg8Aziveyh2"
+      "duration_ms": 86400,
+      "name": "YOU",
+      "url": "https://open.spotify.com/track/4NGPIOGig9sCHWj6roOmeu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Deleted Scenes",
+        "url": "https://open.spotify.com/album/0bSumc88UItdZGGWQwf3f5"
+      },
+      "artists": [
+        {
+          "name": "Ransom",
+          "url": "https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4"
+        },
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        }
+      ],
+      "duration_ms": 188414,
+      "name": "Final Destination",
+      "url": "https://open.spotify.com/track/4OAEMH3QS3o69ww6wKrNQS"
     },
     {
       "added_at": null,
@@ -1015,22 +1039,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deleted Scenes",
-        "url": "https://open.spotify.com/album/0bSumc88UItdZGGWQwf3f5"
+        "name": "Dump Gawd: Shot Clock King",
+        "url": "https://open.spotify.com/album/36FjECbaQWxWg64KyjotOs"
       },
       "artists": [
         {
-          "name": "Ransom",
-          "url": "https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4"
+          "name": "Tha God Fahim",
+          "url": "https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77"
         },
         {
           "name": "Nicholas Craven",
           "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
         }
       ],
-      "duration_ms": 188414,
-      "name": "Final Destination",
-      "url": "https://open.spotify.com/track/4OAEMH3QS3o69ww6wKrNQS"
+      "duration_ms": 146807,
+      "name": "Wit out a Question",
+      "url": "https://open.spotify.com/track/0luxbKG9tGZuAuMaN6g4Tg"
     },
     {
       "added_at": null,
@@ -1051,26 +1075,6 @@
       "duration_ms": 222040,
       "name": "Opulence",
       "url": "https://open.spotify.com/track/0CQpw44VyarpOO0YPZm37A"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dump Gawd: Shot Clock King",
-        "url": "https://open.spotify.com/album/36FjECbaQWxWg64KyjotOs"
-      },
-      "artists": [
-        {
-          "name": "Tha God Fahim",
-          "url": "https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77"
-        },
-        {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        }
-      ],
-      "duration_ms": 146807,
-      "name": "Wit out a Question",
-      "url": "https://open.spotify.com/track/0luxbKG9tGZuAuMaN6g4Tg"
     }
   ],
   "unique_name": "This Is Nicholas Craven",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "The hottest Afropop records on the planet.  Cover: Joeboy",
+  "description": "The hottest Afropop records on the planet.  Cover: Solana",
   "name": "Afropop",
   "tracks": [
     {
@@ -1841,6 +1841,28 @@
     },
     {
       "album": {
+        "name": "Recess II",
+        "url": "https://open.spotify.com/album/4x2DysOwGpButInOfDNJdI"
+      },
+      "artists": [
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123000,
+      "name": "BeBe",
+      "url": "https://open.spotify.com/track/5GZTusIWd5rWT6QlQ3RVb3"
+    },
+    {
+      "album": {
         "name": "BECOME ONE",
         "url": "https://open.spotify.com/album/0BnMkwFk7lRK78gASQryUf"
       },
@@ -2400,7 +2422,7 @@
       ],
       "date_added": "2026-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 164971,
       "name": "Bolonese",
       "url": "https://open.spotify.com/track/7DBSJmoCTvuUEO5V1FngrD"
@@ -4389,6 +4411,24 @@
     },
     {
       "album": {
+        "name": "Girl From The West",
+        "url": "https://open.spotify.com/album/4frT3p7rhaAyLgtRSIO2U2"
+      },
+      "artists": [
+        {
+          "name": "Solana",
+          "url": "https://open.spotify.com/artist/3l476od4bTSjScrR20hpjR"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157419,
+      "name": "Don't Want",
+      "url": "https://open.spotify.com/track/1a4kuAuM9rMX49yalPL3at"
+    },
+    {
+      "album": {
         "name": "Down",
         "url": "https://open.spotify.com/album/2nRCzZ8OwYBgSmjcF8wYbY"
       },
@@ -4600,7 +4640,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 205053,
       "name": "Easy Company",
       "url": "https://open.spotify.com/track/6En20OZbeLSvH97lc4q9bv"
@@ -11461,6 +11501,28 @@
     },
     {
       "album": {
+        "name": "In Tunez We Trust Vol. 1",
+        "url": "https://open.spotify.com/album/7juWJSfCEy4gJ5AfQF63RO"
+      },
+      "artists": [
+        {
+          "name": "DJ Tunez",
+          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
+        },
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202758,
+      "name": "Na Money",
+      "url": "https://open.spotify.com/track/3t1pZTZDedrrHRbxlXeVA1"
+    },
+    {
+      "album": {
         "name": "NANA",
         "url": "https://open.spotify.com/album/7KJ1TeVa4Xc9Wv0AOv9o0Y"
       },
@@ -16186,7 +16248,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 227533,
       "name": "Tanko (feat. Terry G)",
       "url": "https://open.spotify.com/track/3XoYWo0jdGq0T25KfNIr3L"

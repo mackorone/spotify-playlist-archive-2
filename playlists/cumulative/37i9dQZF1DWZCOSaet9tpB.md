@@ -2,9 +2,9 @@
 
 ### [Hot Hits Naija ](https://open.spotify.com/playlist/37i9dQZF1DWZCOSaet9tpB)
 
-> Nigeria's hottest tracks\.  Cover: Olamide
+> Nigeria's hottest tracks\.  Cover: Peruzzi, Zlatan and Shoday
 
-681 songs - 1 day 8 hr 47 min
+682 songs - 1 day 8 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -343,7 +343,7 @@
 | [Jinja](https://open.spotify.com/track/5dVJTSZhL2n81ZkT4PZu0x) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Unruly](https://open.spotify.com/album/51mowf1u3WaEYvqalsbP7M) | 2:35 | 2023-08-10 | 2024-03-01 |
 | [Jo Vibe Remix](https://open.spotify.com/track/0Z9FI7KCUie4rowDZMJvbK) | [JoBlaq](https://open.spotify.com/artist/2GyY6fd6hPueMiFe7Bt6Vp), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Jo Vibe Remix](https://open.spotify.com/album/2DtfoxVGDXVooE1143c3mz) | 2:14 | 2025-02-26 | 2025-03-21 |
 | [Jogo](https://open.spotify.com/track/1FvYnYoGgA4VSCCQYoyYLB) | [Skales](https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv) | [Jogo](https://open.spotify.com/album/1OBCMQSmPvSFbajPbc2eG8) | 2:40 | 2024-07-31 | 2024-08-30 |
-| [Jogodo](https://open.spotify.com/track/2njWzPDRRhsXOUhiA42e62) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Jogodo](https://open.spotify.com/album/5X7g2w1hllfIhYhbyMSLpx) | 3:08 | 2026-02-13 |  |
+| [Jogodo](https://open.spotify.com/track/2njWzPDRRhsXOUhiA42e62) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Jogodo](https://open.spotify.com/album/5X7g2w1hllfIhYhbyMSLpx) | 3:08 | 2026-02-13 | 2026-11-13 |
 | [Joha](https://open.spotify.com/track/5UwxpuGHkwiojKDaPC5ZNu) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Mr\. Money With The Vibe](https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI) | 2:28 | 2022-09-23 | 2023-08-11 |
 | [Jolie](https://open.spotify.com/track/7wMYtt3SEquaep8sWCdQqp) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [Jolie](https://open.spotify.com/album/1KyvLDpjRbcHFKXFEvq0bZ) | 3:29 | 2023-03-17 | 2023-09-27 |
 | [Jonzing Boy](https://open.spotify.com/track/0JoCuk9LuUwjLavIGxtKs9) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Jonzing Boy](https://open.spotify.com/album/7nn3qjLeYE65qfRUjreXqP) | 3:05 | 2023-05-11 | 2023-09-27 |
@@ -444,6 +444,7 @@
 | [My G](https://open.spotify.com/track/25k1dcqUAmq4uYKUFj7u3o) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Maverick](https://open.spotify.com/album/2gbx0YcLDduf3oqujoq1fI) | 2:40 | 2023-11-08 | 2024-03-21 |
 | [MY HEALER](https://open.spotify.com/track/3tENXWy5Yf1iJJV4EYqZh1) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx), [OMAH LAY](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [MY HEALER](https://open.spotify.com/album/7jXn39VRrZifIpznbHBDEZ) | 2:37 | 2026-01-23 | 2026-04-17 |
 | [My Way](https://open.spotify.com/track/3yLREZjJFnYLAN4aOUqqP6) | [Hotkeed](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj) | [My Way](https://open.spotify.com/album/5ew8bhyjYFzX6wgoMdEn4i) | 2:34 | 2024-05-14 | 2024-08-01 |
+| [Na Money](https://open.spotify.com/track/1MEhHrisdcK9xuTuxvYdzh) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW) | [Na Money](https://open.spotify.com/album/3yCjNjTfdHoDljqzA6cmBY) | 3:22 | 2026-11-13 |  |
 | [Na Scra](https://open.spotify.com/track/4XHrQHvHWlE0RldeG8Nslq) | [Famous Pluto](https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne) | [Na Scra](https://open.spotify.com/album/77fJOYGEHdfMzNhGDDxO3B) | 2:30 | 2025-03-14 | 2025-08-23 |
 | [Na So](https://open.spotify.com/track/6teayPHJeebZj4s9eMPCyY) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Na So](https://open.spotify.com/album/18pDXf18omJ3ZvmwUweTNs) | 3:34 | 2025-09-12 | 2026-02-20 |
 | [Nakupenda](https://open.spotify.com/track/1p0zeYPLjmIGtw1DzmshZO) | [TxC](https://open.spotify.com/artist/25j9xL1MTyuycuB2xy2Q9g), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW), [Scotts Maphuma](https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Al Xapo](https://open.spotify.com/artist/6dmpoGpCKPEdy7R3XSEA7y) | [Nakupenda](https://open.spotify.com/album/3xbbiXWEHWpCqxDAXKUu5d) | 5:33 | 2026-04-20 |  |

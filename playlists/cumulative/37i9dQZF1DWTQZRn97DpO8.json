@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f\nPhoto : (D)Juno",
+  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f\nPhoto : nass\u00edm",
   "name": "le miel",
   "tracks": [
     {
@@ -3245,6 +3245,28 @@
     },
     {
       "album": {
+        "name": "EASTPAK",
+        "url": "https://open.spotify.com/album/7Lz570qei65vh3Qeaa38ty"
+      },
+      "artists": [
+        {
+          "name": "nass\u00edm",
+          "url": "https://open.spotify.com/artist/2Ck4xqhvgQlBJtUxVPGCIn"
+        },
+        {
+          "name": "BR\u00d6",
+          "url": "https://open.spotify.com/artist/6U2PIOH8ZKgFprcdkIe8J5"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "EASTPAK",
+      "url": "https://open.spotify.com/track/1ojrafWfviB6Vy8QsG3UkU"
+    },
+    {
+      "album": {
         "name": "MAISON \ud83c\udfe0",
         "url": "https://open.spotify.com/album/4Ui7VckSUZPiWH5JLpUGPh"
       },
@@ -5149,6 +5171,24 @@
     },
     {
       "album": {
+        "name": "J'ai chang\u00e9",
+        "url": "https://open.spotify.com/album/5AD3KgWT20xGPyx2U7XBkn"
+      },
+      "artists": [
+        {
+          "name": "Asma",
+          "url": "https://open.spotify.com/artist/0GAbpRBkxeFvT9d5yjOMrB"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211615,
+      "name": "J'ai chang\u00e9",
+      "url": "https://open.spotify.com/track/3BKKuxwVe5xVSBkgruzJha"
+    },
+    {
+      "album": {
         "name": "UNFINISHED MUSIC ONLY",
         "url": "https://open.spotify.com/album/5I2XbMShjBtYGFf7tACrZq"
       },
@@ -6724,7 +6764,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 162257,
       "name": "London",
       "url": "https://open.spotify.com/track/2eJFOE8ag0aFk60a7ej44z"
@@ -7425,6 +7465,24 @@
     },
     {
       "album": {
+        "name": "Merci (Love Letter by Session 32)",
+        "url": "https://open.spotify.com/album/57myhstPFKcHuRWmqkBYJh"
+      },
+      "artists": [
+        {
+          "name": "Celyane",
+          "url": "https://open.spotify.com/artist/4YLotLzWdKNAgAsqNmq2WP"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128503,
+      "name": "Merci - Love Letter by Session 32",
+      "url": "https://open.spotify.com/track/47YntQySbFQ8f8W2jEU0Xh"
+    },
+    {
+      "album": {
         "name": "Corps et \u00c2me",
         "url": "https://open.spotify.com/album/4jvQtwuj8EbkMUht5H4vp4"
       },
@@ -7592,7 +7650,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 196462,
       "name": "Miskine",
       "url": "https://open.spotify.com/track/4ehh2RwDnKqEydVkmAtXf0"
@@ -10164,7 +10222,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 146747,
       "name": "R\u00eave un peu",
       "url": "https://open.spotify.com/track/47uVshCuGbjYhlpNnaNPce"
@@ -10342,7 +10400,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 122790,
       "name": "SALAIRE",
       "url": "https://open.spotify.com/track/2gJIWDEOpqN2y1VoyPANki"
@@ -12610,6 +12668,24 @@
       "duration_ms": 185300,
       "name": "Yonc\u00e9",
       "url": "https://open.spotify.com/track/14kKddVV5x6y9sipuT39EW"
+    },
+    {
+      "album": {
+        "name": "Sans promesses, sans probl\u00e8mes",
+        "url": "https://open.spotify.com/album/7E0noURS2dc3NMHH3SeDNz"
+      },
+      "artists": [
+        {
+          "name": "Linema",
+          "url": "https://open.spotify.com/artist/1JLLmatqNVWI9Ta5bIEvbl"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179154,
+      "name": "You and I",
+      "url": "https://open.spotify.com/track/4rW5jL5eswan1e2hEEqVCg"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [K\-Folk/Acoustic](https://open.spotify.com/playlist/37i9dQZF1DX1wdZM1FEz79)
 
-> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: SONYEONSEUNG\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
+> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: O3ohn\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-703 songs - 1 day 17 hr 21 min
+705 songs - 1 day 17 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -282,7 +282,7 @@
 | [In The City 도시에서](https://open.spotify.com/track/05FR5qWPhj0GfWrUt4MKDk) | [Kwon Tree](https://open.spotify.com/artist/3V8Zj1lAUFlBpra9DvMwMK) | [New Day 새로운 날](https://open.spotify.com/album/4zQQM5dVk61G0UrNB8Qr30) | 4:37 | 2022-03-31 | 2022-04-17 |
 | [In the end](https://open.spotify.com/track/0sIAiIw3ZrHSCusJEvtn2H) | [Yun DDanDDan](https://open.spotify.com/artist/0fnx3yyvXH5E0UATpygzzt) | [Whats wrong with secretary kim OST Part.7](https://open.spotify.com/album/4QKLty6XBVD7DuM4pcvHRa) | 4:25 | 2022-03-31 | 2022-04-11 |
 | [In You](https://open.spotify.com/track/6GnRaHVTPcM0y5z9qWKZcD) | [Isaac Hong](https://open.spotify.com/artist/4bST03NJ0YEysocK5AV1wB) | [Our Unwritten Seoul \(Original Soundtrack\) Part.4](https://open.spotify.com/album/6Jaw045Rl2CuvYgkD43vW3) | 3:46 | 2025-06-17 |  |
-| [in your control](https://open.spotify.com/track/1ub0uODuO4zmKdGUEEJW09) | [Peach Luffe](https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui) | [in your control](https://open.spotify.com/album/7nIKIh4C23jA2dAnahIRrF) | 2:19 | 2026-09-09 |  |
+| [in your control](https://open.spotify.com/track/1ub0uODuO4zmKdGUEEJW09) | [Peach Luffe](https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui) | [in your control](https://open.spotify.com/album/7nIKIh4C23jA2dAnahIRrF) | 2:19 | 2026-09-09 | 2026-11-13 |
 | [Indecision](https://open.spotify.com/track/1E5OPub2NquTTLqm2lhjvl) | [Siwa](https://open.spotify.com/artist/65h2inEcodauMEbyfodXdM) | [Indecision](https://open.spotify.com/album/2ddvTM9uOqCltc0o5Q7bk1) | 3:35 | 2022-03-31 | 2022-04-21 |
 | [Indifferent People](https://open.spotify.com/track/5uYcSONPlw8yDWoBI7SoOd) | [ONEE](https://open.spotify.com/artist/6qFD5SSrBTyg4aVi0EQEXI) | [Indifferent People](https://open.spotify.com/album/1wVHZ8ouYutwHL7H5Gl9s6) | 3:55 | 2022-03-31 | 2022-04-20 |
 | [Indigo](https://open.spotify.com/track/57gU292uJXE0ur2697dQWJ) | [이봄](https://open.spotify.com/artist/5lsChpOwgH1pnjniKZLD8A) | [Indigo](https://open.spotify.com/album/3KQC1jKtj0o7BtK5siVNvd) | 3:40 | 2022-01-13 | 2022-01-18 |
@@ -501,6 +501,7 @@
 | [Sometimes](https://open.spotify.com/track/2M2uoD1G5xjVkRkstFtQdp) | [Swan](https://open.spotify.com/artist/2b9Q943vzno2HNZokj4ziM) | [In the End of Winter](https://open.spotify.com/album/2OdCK6gCCjJd31DKLH76pW) | 3:25 | 2022-03-09 | 2022-05-14 |
 | [Sometimes When I Think Of You \- Acoustic Version](https://open.spotify.com/track/5DHAqdrNAx7cnuJvKc9QmK) | [Han All](https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS) | [Our Sea](https://open.spotify.com/album/1VpLZvJxzX0J93VlNDwx2w) | 4:31 | 2022-03-31 | 2022-04-15 |
 | [Somewhere \(Feat\. Ji\-yeon\)](https://open.spotify.com/track/4TnbK3PVznMBlInnEogMDs) | [Kim Dong Hee](https://open.spotify.com/artist/1TWxdgDEgI0waZzYThBV4K), [Ji Yeon](https://open.spotify.com/artist/4ojQ8Cy1AVup7CZ0OG68eq) | [\[Somewhere, part.1\]](https://open.spotify.com/album/27upaIMZkuGFcIDa14GFLX) | 4:41 | 2022-03-31 | 2022-04-12 |
+| [Songbird](https://open.spotify.com/track/7bcYN6fNsQoR8qUFJbcGi4) | [O3ohn](https://open.spotify.com/artist/3ZPELd2uCgchQqhLgvrDrI) | [Songbird](https://open.spotify.com/album/3PeeS5hQOtp2766gCh5IXs) | 3:05 | 2026-11-12 |  |
 | [Soothe \(feat\. Junmo\)](https://open.spotify.com/track/36xK3JZAJY7Swbse5MitHl) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ), [Junmo](https://open.spotify.com/artist/4bTDgoTm93rfVQ7aSXpChd) | [Another Night](https://open.spotify.com/album/324LwBK9cU30HD4t99Y7dL) | 3:47 | 2021-12-10 | 2022-07-01 |
 | [Speechless](https://open.spotify.com/track/6dT0ADUaAI6I54ZP1zN60m) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [Speechless](https://open.spotify.com/album/4utLnwQ4m8dLvfb72oJ6N8) | 3:27 | 2021-12-10 | 2022-06-13 |
 | [Spring Attitude](https://open.spotify.com/track/0oX3uukKkz0aBEXl3RxxyC) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Idle Idle](https://open.spotify.com/album/5oJiWLZ8JGsYPh9Pdq9D2s) | 3:16 | 2022-01-13 | 2022-05-31 |
@@ -529,6 +530,7 @@
 | [Summer gone by \(Feat\. MORI\)](https://open.spotify.com/track/6XYNKhfq3bucZVrP8kp0DO) | [1014](https://open.spotify.com/artist/6DrNvtiDIKjnRsb7S67iKx), [Mori](https://open.spotify.com/artist/1BNvKAHE63KEhzYHDarlpT) | [Summer gone by \(Feat\. MORI\)](https://open.spotify.com/album/4jW8sXbG23vSJe1qxgh5vx) | 3:27 | 2022-03-31 | 2022-04-11 |
 | [Summer night](https://open.spotify.com/track/5jAmRmTCrSueBF2O7mqI1I) | [for\_the\_poet](https://open.spotify.com/artist/4LzAduZVy0eNJxbe4fwbuX) | [Summer night](https://open.spotify.com/album/0J25ZbYJdZOIa1nDoYCJTP) | 3:19 | 2022-08-19 | 2022-09-03 |
 | [Summer Night](https://open.spotify.com/track/4SPSIlALa6SJMay3SQi7Mp) | [Kim Kyu Jong](https://open.spotify.com/artist/3WMXYNpeC5Z5POJdES9VDp) | [Summer Night](https://open.spotify.com/album/66r2jNtBUScalDYJOtbDG8) | 3:34 | 2022-03-31 | 2022-04-05 |
+| [Summer Saturday](https://open.spotify.com/track/3p3Cj61xnj9rdcLAlFD27A) | [JeongSaebyeok](https://open.spotify.com/artist/4IGJKsSWf3d8o5Qd1NyOs7) | [Nihilistic Love](https://open.spotify.com/album/5SmvSg50GeCTyZcCMHxtmH) | 3:26 | 2026-11-12 |  |
 | [summer youth](https://open.spotify.com/track/3weLeZpoo5XQnoxkc3wbSa) | [Baek A](https://open.spotify.com/artist/5rHUhS9Ya0S63WI9LFmCSx) | [summer youth](https://open.spotify.com/album/59cIkqrNBXirVmxoH4u5iB) | 3:37 | 2025-06-24 | 2025-07-21 |
 | [summerless](https://open.spotify.com/track/5mK4gz7F6zRv0cJP4HlWRl) | [본하](https://open.spotify.com/artist/26oPZPY5H08ViuL52JDqKS) | [summerless](https://open.spotify.com/album/15UTXE6WIeQZsKt1qJALsL) | 3:06 | 2025-05-26 | 2025-06-25 |
 | [SUNFLOWER](https://open.spotify.com/track/4XR7aLFGYuQhKz64ADIxhm) | [PL](https://open.spotify.com/artist/3ZRrPmnB6ORWKeEJ8qawnP) | [SUNFLOWER](https://open.spotify.com/album/6KTIN8L80MmmH6hCTDn9WI) | 2:56 | 2025-12-02 | 2025-12-19 |
@@ -675,7 +677,7 @@
 | [그날에 우리 My Love](https://open.spotify.com/track/37ato9JpxggrmZsqaXa3qN) | [Urban Zakapa](https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8) | [01](https://open.spotify.com/album/7gUFQ9ulk9EbbSz8U52xTp) | 3:53 | 2022-02-18 | 2022-06-19 |
 | [그렇게 넌 나의 비밀이 되었고](https://open.spotify.com/track/0hv2VNJBFGFqS7vGWsbX3m) | [Sondia](https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp), [Vincent Blue](https://open.spotify.com/artist/2AZgVjkPB4a4ULepFyPPgZ) | [Sh\*\*ting Stars OST Part.3](https://open.spotify.com/album/79TMZgjbONFze6t6toQw0X) | 4:11 | 2023-07-01 | 2024-04-19 |
 | [그렇게 됐어 It just happened](https://open.spotify.com/track/1aMxvF0VxH9uyTCRFceyfm) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht), [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [It just happened](https://open.spotify.com/album/5EUfw7eDDUmSqSy0FN0AGh) | 2:36 | 2025-04-24 | 2025-08-10 |
-| [나무야](https://open.spotify.com/track/6YMkLBW9RdVk6UKYgRGTer) | [SONYEONSEUNG](https://open.spotify.com/artist/19W0kAKRBNfg0RuGEBIROg) | [나무야](https://open.spotify.com/album/7LsgP8jLVNfANAUvj0ClO9) | 2:32 | 2026-11-03 |  |
+| [나무야](https://open.spotify.com/track/6YMkLBW9RdVk6UKYgRGTer) | [SONYEONSEUNG](https://open.spotify.com/artist/19W0kAKRBNfg0RuGEBIROg) | [나무야](https://open.spotify.com/album/7LsgP8jLVNfANAUvj0ClO9) | 2:32 | 2026-11-03 | 2026-11-13 |
 | [내가 바보라서 그래?](https://open.spotify.com/track/0SsFfnxcn6fLOVAQ65yYTy) | [KIXO](https://open.spotify.com/artist/2Ls9v5vL8yvMh5NaziiluS) | [내가 바보라서 그래?](https://open.spotify.com/album/7J2sWecxwHLRhtiLtFDVWk) | 2:31 | 2023-03-27 | 2025-07-12 |
 | [너는어때 \- Bossa Nova ver.](https://open.spotify.com/track/3Py8DQJ9U3hqmaSpVjIzHh) | [Coldin](https://open.spotify.com/artist/5yB6Lu343nFLxCVugcgxoG) | [너는어때](https://open.spotify.com/album/35rq5Vnuto7DthwSqQD4gd) | 4:20 | 2022-03-07 | 2022-06-28 |
 | [너로 짙은 밤 Mistiness of You](https://open.spotify.com/track/6RBjYC4YAXWgFmt5V94LHc) | [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca), [Hanall](https://open.spotify.com/artist/2XTRUxBBVztcLWgidIVX5y) | [새봄, 03 소품집 \`겨울 우리\` How I Love You](https://open.spotify.com/album/450lHoZWkYEPoVAAMygbgB) | 3:50 | 2022-03-31 | 2022-04-21 |

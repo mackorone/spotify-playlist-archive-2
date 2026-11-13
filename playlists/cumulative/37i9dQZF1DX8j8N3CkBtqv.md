@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana, featuring NAALAYAK, Mary Ann Alexander, Mali and other exciting artists.
 
-1,656 songs - 3 day 19 hr 19 min
+1,657 songs - 3 day 19 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,7 +157,7 @@
 | [Baawra](https://open.spotify.com/track/2Repz4eP8qEqOVz8CltLZ0) | [Kushagra](https://open.spotify.com/artist/2IKfr1JgPRXmXKAWwrABc6), [Tanishka Bahl](https://open.spotify.com/artist/0RZSHotYnUAsA9mzApotQw), [Geet](https://open.spotify.com/artist/3jWuXbAR2GuuGrY0WgDA7W) | [Baawra](https://open.spotify.com/album/58CpJdSRp7B0Hg96V45ch1) | 4:28 | 2024-08-09 | 2024-12-07 |
 | [Baawra Mann](https://open.spotify.com/track/1PYbrx8dVS1fpbjPWILEzG) | [Shunya](https://open.spotify.com/artist/5Oz3oUJpLWYpDMv75dkvc0) | [Baawra Mann](https://open.spotify.com/album/7h2nzvqLaUZnMqwbDTreRN) | 4:12 | 2025-11-21 | 2026-01-24 |
 | [Back 2 U](https://open.spotify.com/track/6sEVxXlAcot28Q8JZRqLv4) | [Zephyrtone](https://open.spotify.com/artist/57GVEttnzshGnLYIJCFeKo) | [Back 2 U](https://open.spotify.com/album/2iLdPmEWDk3QiMLQgaXVKa) | 3:20 | 2026-08-28 |  |
-| [Back to the Beginning](https://open.spotify.com/track/759KblBb2LaGW9inDp5mCV) | [Mali](https://open.spotify.com/artist/4JSAaGJ5mNSfG0MBxDFQZN) | [Where Was I?](https://open.spotify.com/album/3fTqy8wYSowZeA71B9iBXK) | 3:31 | 2026-11-06 |  |
+| [Back to the Beginning](https://open.spotify.com/track/759KblBb2LaGW9inDp5mCV) | [Mali](https://open.spotify.com/artist/4JSAaGJ5mNSfG0MBxDFQZN) | [Where Was I?](https://open.spotify.com/album/3fTqy8wYSowZeA71B9iBXK) | 3:31 | 2026-11-06 | 2026-11-13 |
 | [Badal](https://open.spotify.com/track/5gwMfrLGUV91qxBNbX9Fri) | [Zariya](https://open.spotify.com/artist/1f7a91vYZcvnBsTRvxFff1) | [Badal](https://open.spotify.com/album/4vX0qUy6r5iN5cZ6nJluEB) | 3:44 | 2023-09-08 | 2023-10-07 |
 | [Badastoor](https://open.spotify.com/track/4SctmiwRI2ygVHhgZ1s7C1) | [Abhijay Sharma](https://open.spotify.com/artist/3x1jBMHHrDUQbtRrvV78h2) | [Badastoor](https://open.spotify.com/album/1wIhDHHh84OmEaBOCOr85J) | 2:09 | 2024-07-26 | 2024-11-09 |
 | [Badila](https://open.spotify.com/track/14tR6AnKR90VAahdfIYf9F) | [Avanti Patel](https://open.spotify.com/artist/4LPRI62WeBuYjw3MA4GTqf), [Rutuja Lad](https://open.spotify.com/artist/6dcj7PFzG1ybNHHJyMUS3m), [Akshay Jadhav](https://open.spotify.com/artist/1qvovvgGVEdrhHTLJYsizG), [Sandeep Mishra](https://open.spotify.com/artist/4vjj2jTnfLbFTAyQzX6sjO), [Nusrat Apoorv](https://open.spotify.com/artist/3AA6aNLg3R7Yj98JjpZg6b), [Joy Sengupta](https://open.spotify.com/artist/2w5FAQc2JWciNPGhsTBf4B) | [Badila](https://open.spotify.com/album/2zmkZI42FY6dAgf6spsfXO) | 8:38 | 2026-08-28 | 2026-10-14 |
@@ -665,6 +665,7 @@
 | [Jee Le](https://open.spotify.com/track/1lnqjp37JJOHsrjCCJ3UJy) | [Taba Chake](https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy) | [Khud Ko Miloon](https://open.spotify.com/album/4a8jBar9By0bgZnzgsKp29) | 3:33 | 2025-09-12 | 2025-11-21 |
 | [Jee Lunga](https://open.spotify.com/track/3G2Dmfxo9W68twpibDaJPr) | [Neyhal](https://open.spotify.com/artist/58nYUsnl5ST7wD1VY49b31) | [Jee Lunga](https://open.spotify.com/album/2WlLGC3mfJxVmnaSCHA0SS) | 3:23 | 2024-08-09 | 2024-09-28 |
 | [Jeena Bekar](https://open.spotify.com/track/1ZxNgEUVD70wDA0TANVnRB) | [Arjuna Harjai](https://open.spotify.com/artist/6EwLfbS1MI8kZXTIwkGfHN), [Priyanka R Bala](https://open.spotify.com/artist/2Kouoq6OQX1lU6sbtulfGd) | [Jeena Bekar](https://open.spotify.com/album/0l8XsL5BVLtN36NbypLmhp) | 3:23 | 2026-06-26 | 2026-09-05 |
+| [Jhalak](https://open.spotify.com/track/23fZaeHn6gxiJGYY2nXOjn) | [Naam Sujal](https://open.spotify.com/artist/6NTcSISlIHPvDleyAkOTqP), [Aanchal Tyagi](https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Jhalak](https://open.spotify.com/album/10BBb28qFnAAkkZPKjp4Pd) | 2:14 | 2026-11-13 |  |
 | [jhalle aa](https://open.spotify.com/track/6udf2AxEj8ivTwOt5sFrQd) | [Mitika Kanwar](https://open.spotify.com/artist/4sjw8DSxhdPiJkGbtAobEg), [Dronark](https://open.spotify.com/artist/5lOdnhqrGPtKohxH9xS7NV) | [jhalle aa](https://open.spotify.com/album/0tHkeM32CHm0pXBv4ykrvh) | 2:44 | 2023-04-14 | 2023-06-30 |
 | [Jheelon Pe Shaam](https://open.spotify.com/track/6uT0YnvjK2AgqctOoJAuvX) | [Sandesh Shandilya](https://open.spotify.com/artist/6AwwLwgIsTIXZ8kHWaZUj5), [Vedang Gaikwad](https://open.spotify.com/artist/75hdci5CS4NBDst8plfSza), [Shradha Mishra](https://open.spotify.com/artist/4nhFZoBTFnDpi17pbaDgd7), [pho](https://open.spotify.com/artist/0eAgLEZjRTeUe2UqQhH9YC), [Himalayan Harmonies](https://open.spotify.com/artist/2osVgMquKwmLorGHfA86aS) | [Harvest](https://open.spotify.com/album/5w1KwsCP121wXn37I6FguI) | 4:09 | 2024-10-11 | 2024-11-23 |
 | [Jhini Jhini](https://open.spotify.com/track/1RI74apWIQoWdtK4qOmZUn) | [Savni Bhatt](https://open.spotify.com/artist/1YO52y5qNkcHvM2x27N2Tn), [Kanakshree Bhatt](https://open.spotify.com/artist/3X3pHaJrecXa0HFG13YvrB) | [Jhini Jhini](https://open.spotify.com/album/6GUFKOCRGSVOkGqx9cVZO1) | 4:47 | 2026-02-20 | 2026-05-09 |

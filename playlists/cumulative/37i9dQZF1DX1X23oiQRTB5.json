@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Ninho x La Rvfleuze au top de la premi\u00e8re playlist de rap fran\u00e7ais.",
+  "description": "SDM au top de la premi\u00e8re playlist de rap fran\u00e7ais.",
   "name": "PVNCHLNRS",
   "tracks": [
     {
@@ -1128,7 +1128,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 123870,
       "name": "Belvedere",
       "url": "https://open.spotify.com/track/5HjHYoZgZCeNvxG0IgmSNE"
@@ -1878,6 +1878,24 @@
       "duration_ms": 188573,
       "name": "Cette ann\u00e9e-l\u00e0",
       "url": "https://open.spotify.com/track/41NJluEub1MMcwkUo411an"
+    },
+    {
+      "album": {
+        "name": "FAST LIFE",
+        "url": "https://open.spotify.com/album/6veJjIj238yfsTg137hv4C"
+      },
+      "artists": [
+        {
+          "name": "L2B",
+          "url": "https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140160,
+      "name": "Chanel",
+      "url": "https://open.spotify.com/track/0jyGEBJvHMxZhoI8768SIz"
     },
     {
       "album": {
@@ -3928,7 +3946,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 209617,
       "name": "Histoire sans fin",
       "url": "https://open.spotify.com/track/1T8rMFY5DayEfuwnkIPYm8"
@@ -7669,6 +7687,28 @@
     },
     {
       "album": {
+        "name": "Poulet Roti",
+        "url": "https://open.spotify.com/album/0iMSWgjGwMktiWhHHeWzDw"
+      },
+      "artists": [
+        {
+          "name": "RK",
+          "url": "https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5"
+        },
+        {
+          "name": "Konieur",
+          "url": "https://open.spotify.com/artist/3OFleM2K9wTLzf0wry6He3"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178690,
+      "name": "Poulet Roti",
+      "url": "https://open.spotify.com/track/2sfibS4Ny890PpiP0XqiKs"
+    },
+    {
+      "album": {
         "name": "A LA VIE A LA MORT",
         "url": "https://open.spotify.com/album/22NwdsP47PnWsA58u3z7S9"
       },
@@ -7702,7 +7742,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 168990,
       "name": "POUSSETTE - Nouvelle \u00c9cole",
       "url": "https://open.spotify.com/track/6uwsbNdXdKmxqTbXj5mbwo"
@@ -10100,6 +10140,24 @@
       "duration_ms": 198053,
       "name": "\u00c7a canarde",
       "url": "https://open.spotify.com/track/7r9KkTYiFYMuNcGR4aySxh"
+    },
+    {
+      "album": {
+        "name": "IN INFINITUM",
+        "url": "https://open.spotify.com/album/0TTw79ACe1zYcMGZxuFhM0"
+      },
+      "artists": [
+        {
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187880,
+      "name": "\u00c7A CHAUFFE",
+      "url": "https://open.spotify.com/track/5zj2b4dFoGXkpsxV2BkN5x"
     },
     {
       "album": {

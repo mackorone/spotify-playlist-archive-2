@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Oo4IE.md) - [plain]
 
 > This is Janis Joplin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,909 likes - 46 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,908 likes - 46 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Oo4IE.md) - [plain]
 | 45 | [Women Is Losers \- Live at the Avalon Ballroom, San Francisco, CA \- December 1966](https://open.spotify.com/track/7tk5U3oLW8pTpspY6JEAAE) | [Big Brother & The Holding Company](https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo), [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Janis: Little Girl Blue \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5F6Th386ar5HNmOkcA0QrK) | 5:06 |
 | 46 | [Nobody Knows You When You're Down and Out](https://open.spotify.com/track/4xtxGynUKSGzHdW5iZ2uQE) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC), [Jorma Kaukonen](https://open.spotify.com/artist/55CXG5KDJpRYwBopfYAJHa) | [The Legendary Typewriter Tape: 6/25/64 Jorma's House](https://open.spotify.com/album/1jx4E5ox9tZxil897h13VF) | 3:20 |
 
-Snapshot ID: `avENAAAAAACb3G7xVC4Vl4n3GCuGF1fX`
+Snapshot ID: `avOwAAAAAABoH3UTpEAj/Ybq9PamyMCU`

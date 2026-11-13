@@ -4,7 +4,7 @@
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-1,235 songs - 2 day 15 hr 33 min
+1,237 songs - 2 day 15 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -516,6 +516,7 @@
 | [In The Air](https://open.spotify.com/track/1d6drNGnLw63kP9Bm8aQtz) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [In The Air](https://open.spotify.com/album/4JHdM4BYdqOJGGw12t1bzX) | 2:44 | 2023-07-28 | 2023-08-11 |
 | [In The City](https://open.spotify.com/track/0QahulT2TcE9WPSZL4tqK4) | [VENGA](https://open.spotify.com/artist/4SHOU5SKwu9LVOwGPHUotS) | [In The City](https://open.spotify.com/album/33GB0es8zwuyvf1QFnmD2e) | 2:51 | 2023-11-17 | 2025-01-09 |
 | [In The Music \(feat\. Adam Clay\)](https://open.spotify.com/track/5D8gCNYs8gMUDROy8qGUeL) | [Illyus & Barrientos](https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C), [Jude & Frank](https://open.spotify.com/artist/7rUJV3QhhZJVRucw5BK09x), [Lohrasp Kansara](https://open.spotify.com/artist/33puj2nZF4OKSccBLaf1oy), [Adam Clay](https://open.spotify.com/artist/19jXtZ3WctjL00MMVqYrv8) | [In The Music \(feat\. Adam Clay\)](https://open.spotify.com/album/4F2hS3ziidvwr9ig2tmrNo) | 3:10 | 2023-08-25 | 2023-12-14 |
+| [In The Night](https://open.spotify.com/track/4qXgjMNIRHKyire7WBehs0) | [Ahmed Helmy](https://open.spotify.com/artist/00k5zSa7jWCoEZ0e6tly9m) | [In The Night](https://open.spotify.com/album/2zOf2Whdcsiwa29XgI9IBJ) | 1:59 | 2026-11-12 |  |
 | [In The Night](https://open.spotify.com/track/4qNqRgHTf2maOS3Ttggutw) | [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx), [Stylo](https://open.spotify.com/artist/0e8a2RTD02fJ5lmCBOR7DI), [Eli & Dani](https://open.spotify.com/artist/6wVwTnmkjVeWVAas91xIJw) | [In The Night](https://open.spotify.com/album/1SBZwbwzZfl6PuPrgd0FSW) | 2:52 | 2026-06-25 |  |
 | [In The Sun](https://open.spotify.com/track/2oOsMm1b1DchtPDNEjLBcm) | [Caius](https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi) | [In The Sun](https://open.spotify.com/album/6mY2Yfw2UaryA7F8KherNy) | 2:32 | 2024-12-05 | 2025-03-14 |
 | [In Your Mind](https://open.spotify.com/track/1fljgBD0HxUOOtLDQ9WSaM) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU), [Notelle](https://open.spotify.com/artist/2QH237xSFhmfZJHrRulT7U) | [In Your Mind](https://open.spotify.com/album/1lnxNRd7kCfp1AGkVehKCU) | 2:34 | 2023-09-22 | 2023-12-14 |
@@ -742,6 +743,7 @@
 | [My Sound](https://open.spotify.com/track/0r9lJuk5bhI7qg83J1oqVt) | [Overheat](https://open.spotify.com/artist/0vBhYdVCoPRZuEQ7FCZ1lS), [MUCKANIKS](https://open.spotify.com/artist/0IDqRhRjbfBwTycszcMerZ) | [My Sound](https://open.spotify.com/album/3BaJeD0h9Ag7r4sqxmiRCf) | 3:25 | 2026-10-22 |  |
 | [My Way \- Radio Edit](https://open.spotify.com/track/5NJ7mZoWHbXPxix0U2xaio) | [Ale Molinari](https://open.spotify.com/artist/1RFM675BkU3koitVKnwatx) | [My Way](https://open.spotify.com/album/2uCuSVAlar4ynu5xwYcZdv) | 2:55 | 2023-09-04 | 2023-12-14 |
 | [MÁQUINA CULONA](https://open.spotify.com/track/5tBNafAkXWrLDQa8SOeat9) | [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7), [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [MÁQUINA CULONA](https://open.spotify.com/album/6rceA1LV2503KinfXAGF1v) | 3:12 | 2024-12-05 | 2025-03-14 |
+| [Nacht](https://open.spotify.com/track/5fVQgADfzuONNeVY3utc2a) | [POLTERGST](https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM) | [Nacht EP](https://open.spotify.com/album/4hqhoyVgFmxiG6mkm9o0LJ) | 3:04 | 2026-11-12 |  |
 | [NAHUA](https://open.spotify.com/track/6DYsMAVUPaytcvuuTNlyOC) | [LST CNTRL](https://open.spotify.com/artist/1I4KEPUYYuXcdBB6cZNapZ) | [NAHUA](https://open.spotify.com/album/5QUTOkbPa8Zhb5d0WU1rQ6) | 3:44 | 2024-01-26 | 2024-09-26 |
 | [Naughty](https://open.spotify.com/track/56HE8zzcJZAF3OZUgCBmQB) | [Tom Budin](https://open.spotify.com/artist/1kwRrQDCpXpVliMDntpxCt), [Rydz](https://open.spotify.com/artist/4WoYfeD73d5vx3UE0rsJnC) | [Naughty](https://open.spotify.com/album/5IWGUvSPVF8mnbfHyJ6s2a) | 2:34 | 2024-06-17 | 2024-09-26 |
 | [Need You Tonight](https://open.spotify.com/track/0qiVfBD3w55Yb62Ie5c2XZ) | [Marvel Riot](https://open.spotify.com/artist/5cI4WAoXtZwW7uz55thjkZ), [Sammy Porter](https://open.spotify.com/artist/2D51qkOmTNsNQj3C4LIvH7) | [Need You Tonight](https://open.spotify.com/album/22dSYgnOpPTX7nlNKnBM7j) | 3:22 | 2023-05-05 | 2023-12-23 |

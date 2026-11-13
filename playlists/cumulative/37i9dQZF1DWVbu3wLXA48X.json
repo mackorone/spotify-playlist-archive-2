@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Current indie tunes from Asia and around the world. Cover: Rex Orange County",
+  "description": "Current indie tunes from Asia and around the world. Cover: yeule",
   "name": "Indie Shuffle",
   "tracks": [
     {
@@ -1682,7 +1682,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 226000,
       "name": "all in",
       "url": "https://open.spotify.com/track/4W5XTCtji4ew31hQm0p9Zf"
@@ -3692,6 +3692,24 @@
       "duration_ms": 250792,
       "name": "BAHASA BARU",
       "url": "https://open.spotify.com/track/2t4dVJGywyzTvjAZjzRBIN"
+    },
+    {
+      "album": {
+        "name": "Hollowbody",
+        "url": "https://open.spotify.com/album/4UelZbXLzeHu2g8WGH18Y4"
+      },
+      "artists": [
+        {
+          "name": "Fog Lake",
+          "url": "https://open.spotify.com/artist/04GCjO1r1hPelibCUq9S8H"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195981,
+      "name": "Balcony",
+      "url": "https://open.spotify.com/track/2IB4itue6EUReMjhpTvSoh"
     },
     {
       "album": {
@@ -14135,6 +14153,28 @@
     },
     {
       "album": {
+        "name": "Eyelashes",
+        "url": "https://open.spotify.com/album/23fzzQ48cb2anU41Ipa1RW"
+      },
+      "artists": [
+        {
+          "name": "The Drums",
+          "url": "https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu"
+        },
+        {
+          "name": "Pearly Drops",
+          "url": "https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255933,
+      "name": "Eyelashes",
+      "url": "https://open.spotify.com/track/03mp9qYHub1QBPDI6sMxU1"
+    },
+    {
+      "album": {
         "name": "Oldies & Goldies",
         "url": "https://open.spotify.com/album/0n4sAkLa48ycqcY8mpLfVt"
       },
@@ -19732,7 +19772,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 102883,
       "name": "hi from me",
       "url": "https://open.spotify.com/track/60XzwYT67TQNhF5Bhu2sQR"
@@ -21964,7 +22004,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 210000,
       "name": "I See Myself In You",
       "url": "https://open.spotify.com/track/7fFIi03q0VmDVirivowqVK"
@@ -22188,7 +22228,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 180281,
       "name": "I Wish",
       "url": "https://open.spotify.com/track/4nOYIkLMPJyxmZmhxsIOfk"
@@ -25553,6 +25593,24 @@
     },
     {
       "album": {
+        "name": "Tropic of Capricorn",
+        "url": "https://open.spotify.com/album/6A8d8PHmD2NqscBHuIp7N9"
+      },
+      "artists": [
+        {
+          "name": "GYMV",
+          "url": "https://open.spotify.com/artist/5xOJz1R1Gcm16mg0V8iukc"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "Let It Come Down",
+      "url": "https://open.spotify.com/track/1xlpI1chOOqAJqYLDPywuW"
+    },
+    {
+      "album": {
         "name": "Let It Pass",
         "url": "https://open.spotify.com/album/1RrGNFFdsUxZrQRjRq6upS"
       },
@@ -26056,7 +26114,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 299000,
       "name": "Lima",
       "url": "https://open.spotify.com/track/51DYhnKExX7vqsjg7aH0tq"
@@ -27268,6 +27326,24 @@
       "duration_ms": 316106,
       "name": "Loveology",
       "url": "https://open.spotify.com/track/3hhU5HJkLOTSTdEWkXMvYS"
+    },
+    {
+      "album": {
+        "name": "Lovepill",
+        "url": "https://open.spotify.com/album/1B0Zmve2Tbg6fJEcr6TtSy"
+      },
+      "artists": [
+        {
+          "name": "yeule",
+          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190662,
+      "name": "Lovepill",
+      "url": "https://open.spotify.com/track/3g7vij2FqegH0CE1PAJvfo"
     },
     {
       "album": {
@@ -34178,7 +34254,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 226439,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/3mVd5gTmze4bWj0uvf6Jta"
@@ -47703,6 +47779,24 @@
     },
     {
       "album": {
+        "name": "Very Ancient Way of Crying",
+        "url": "https://open.spotify.com/album/3xbauaiHd7Ah6wzGjfmoYo"
+      },
+      "artists": [
+        {
+          "name": "NEW LORE",
+          "url": "https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 3",
+      "url": "https://open.spotify.com/track/735s7kB0oA5PXgXtiSZLMG"
+    },
+    {
+      "album": {
         "name": "Trance State",
         "url": "https://open.spotify.com/album/6jA72KxmV3zGZ54umCGzc6"
       },
@@ -52144,6 +52238,24 @@
       "duration_ms": 162096,
       "name": "Yellow Eyes",
       "url": "https://open.spotify.com/track/6xYi9wfZb81gJIVQ95qPNl"
+    },
+    {
+      "album": {
+        "name": "YES",
+        "url": "https://open.spotify.com/album/0FiarOgpwaZ18ZvTy7dlXc"
+      },
+      "artists": [
+        {
+          "name": "Internet Girl",
+          "url": "https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190285,
+      "name": "YES",
+      "url": "https://open.spotify.com/track/00AOxFmaoLC1ZCVm3GGx9z"
     },
     {
       "album": {

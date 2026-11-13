@@ -1,13 +1,29 @@
 {
   "description": "Celebrate the season with these fun tracks",
-  "num_followers": 68932,
+  "num_followers": 68934,
   "original_name": "Kids Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACvbTXmo1duYL6TpbVT5nMGNTUSl",
+  "snapshot_id": "AAAAAMvKpXKES8IyavZmJpj3edm7mbau",
   "tracks": [
+    {
+      "added_at": "2026-11-13 05:01:27",
+      "album": {
+        "name": "Festive Fun with Peppa",
+        "url": "https://open.spotify.com/album/3RGc6yVhWDOutB8zbV6dyt"
+      },
+      "artists": [
+        {
+          "name": "Peppa Pig",
+          "url": "https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG"
+        }
+      ],
+      "duration_ms": 116600,
+      "name": "What We Love About Christmas",
+      "url": "https://open.spotify.com/track/3Fe6IIfWRTdizILiKE0Rxw"
+    },
     {
       "added_at": "2026-11-06 05:00:41",
       "album": {
@@ -75,6 +91,22 @@
       "duration_ms": 145982,
       "name": "Silly Santa",
       "url": "https://open.spotify.com/track/2KnKZzgz9mqorDGlDvPOlH"
+    },
+    {
+      "added_at": "2026-11-13 05:01:27",
+      "album": {
+        "name": "Little Saint Nick",
+        "url": "https://open.spotify.com/album/1bTjt8e6E4s7vJCTw4uE1c"
+      },
+      "artists": [
+        {
+          "name": "The Countdown Kids",
+          "url": "https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL"
+        }
+      ],
+      "duration_ms": 128497,
+      "name": "Little Saint Nick",
+      "url": "https://open.spotify.com/track/15Nc1NPMJUnIxPNNABuZ8U"
     },
     {
       "added_at": "2026-11-06 05:00:41",
@@ -695,38 +727,6 @@
       "duration_ms": 126137,
       "name": "Jingle Meows",
       "url": "https://open.spotify.com/track/5sAxRoAmdnxftcCq7gIjkC"
-    },
-    {
-      "added_at": "2026-11-05 16:56:42",
-      "album": {
-        "name": "Fall and Winter Holiday Songs for Kids",
-        "url": "https://open.spotify.com/album/0pUwuW2CPzA7AmMcFwGOPU"
-      },
-      "artists": [
-        {
-          "name": "Mother Goose Club",
-          "url": "https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86"
-        }
-      ],
-      "duration_ms": 152303,
-      "name": "Joy to the World",
-      "url": "https://open.spotify.com/track/4SiNPQdSlRqjT0bEy0cpFA"
-    },
-    {
-      "added_at": "2026-11-05 16:56:42",
-      "album": {
-        "name": "Merry Christmas! Vol. 2",
-        "url": "https://open.spotify.com/album/4dXjs365PDPBoQmxyPreef"
-      },
-      "artists": [
-        {
-          "name": "Plim Plim Kids Songs",
-          "url": "https://open.spotify.com/artist/0XGgmwDOrlZE5O7GHCHJy8"
-        }
-      ],
-      "duration_ms": 134186,
-      "name": "We Wish You a Merry Christmas",
-      "url": "https://open.spotify.com/track/7Ctxl1dKrbv8GAuFxzJ8pR"
     },
     {
       "added_at": "2026-11-05 16:56:42",

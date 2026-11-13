@@ -4225,6 +4225,24 @@
     },
     {
       "album": {
+        "name": "HEELMATIC",
+        "url": "https://open.spotify.com/album/6xpcVVjSc8kUuddtdJtiY0"
+      },
+      "artists": [
+        {
+          "name": "Westside Gunn",
+          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204126,
+      "name": "DON PISTOLA",
+      "url": "https://open.spotify.com/track/00sREMzYzD6EUJ7HfF4EFP"
+    },
+    {
+      "album": {
         "name": "Dont Wanna C Me Rich",
         "url": "https://open.spotify.com/album/6kgS333fe7aqrClZAZmCfu"
       },
@@ -9312,6 +9330,40 @@
       "duration_ms": 236166,
       "name": "Made You Look (Remix) (feat. Jadakiss & Ludacris) - Live at Webster Hall, NYC - Dec. 17, 2002",
       "url": "https://open.spotify.com/track/2gqdMle5JUnLIlzIEhiEL8"
+    },
+    {
+      "album": {
+        "name": "A Friend of Ours 2",
+        "url": "https://open.spotify.com/album/2oFTmdKaO1UZxdX6lGdggx"
+      },
+      "artists": [
+        {
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+        },
+        {
+          "name": "Black Soprano Family",
+          "url": "https://open.spotify.com/artist/3s7WzrEs4FkNObqj4WyfQm"
+        },
+        {
+          "name": "Fuego Base",
+          "url": "https://open.spotify.com/artist/03JNNveCVBRkLGvhmJfxPO"
+        },
+        {
+          "name": "Sule",
+          "url": "https://open.spotify.com/artist/2uukp6np78iK1wYKFF9R8m"
+        },
+        {
+          "name": "Flames Dot Malik",
+          "url": "https://open.spotify.com/artist/3fTdETUtESGiSOh95gOQeI"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266287,
+      "name": "Make It Make Sense (feat. Sule, Flames Dot Malik)",
+      "url": "https://open.spotify.com/track/5Pd2jMGCHc1ajzJpXSn23d"
     },
     {
       "album": {
@@ -15008,7 +15060,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 150000,
       "name": "Talk Shows (feat. Raekwon)",
       "url": "https://open.spotify.com/track/1RSRsuzoI486TlrGI8lJDC"
@@ -16590,7 +16642,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 228000,
       "name": "TWO.FIVE",
       "url": "https://open.spotify.com/track/6DgJB4B4Z5GhKfUuK1uiLN"

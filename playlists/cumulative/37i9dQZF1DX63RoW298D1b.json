@@ -3399,6 +3399,24 @@
     },
     {
       "album": {
+        "name": "Remnants of a Memory",
+        "url": "https://open.spotify.com/album/5ShbkkjBraLpSswPuwfy64"
+      },
+      "artists": [
+        {
+          "name": "Alverano",
+          "url": "https://open.spotify.com/artist/1VEBBMIpdfhDmssFDcnkf9"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Remnants of a Memory",
+      "url": "https://open.spotify.com/track/49DMiXUF1lscU8hXtLmvmR"
+    },
+    {
+      "album": {
         "name": "Residue",
         "url": "https://open.spotify.com/album/0r7pTejrU8nkzap2IroW2z"
       },

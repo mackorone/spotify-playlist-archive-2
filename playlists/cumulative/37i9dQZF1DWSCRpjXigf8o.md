@@ -4,7 +4,7 @@
 
 > 爽やかな1日を、スロー〜ミッドテンポな音楽と共に心地よくスタートしませんか？？
 
-767 songs - 1 day 22 hr 25 min
+768 songs - 1 day 22 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,7 +194,7 @@
 | [Everything Almost](https://open.spotify.com/track/3Y8oPDyVqlt4sVbr0wwFXe) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [Everything Almost](https://open.spotify.com/album/17tNCtug0gbegOqfHmwnO3) | 3:00 | 2024-01-16 | 2025-10-12 |
 | [Everything Almost](https://open.spotify.com/track/64cSblcHs4nVN1DfSDTT9O) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [Weird Faith](https://open.spotify.com/album/40hflv8qjnNzLA2ZrFA3yv) | 3:00 | 2024-02-15 | 2024-04-19 |
 | [Fairy Falls](https://open.spotify.com/track/402dP9S7AHi88JV7JWjuNF) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [The Summer Isles](https://open.spotify.com/album/05HEBowDsH1MMkERUsn6Tl) | 3:59 | 2023-03-23 | 2023-04-21 |
-| [Fall \(For You\)](https://open.spotify.com/track/0AKciAtnP7eumDYspyydKz) | [Xeuphoria](https://open.spotify.com/artist/6Sbjh6vCJQE5eQTQvYoksJ), [KiBi](https://open.spotify.com/artist/39Jmzhw5DYrOqgrGjAo1Rm) | [Fall \(For You\)](https://open.spotify.com/album/0TUfFZthbgCmbef1XNFYY6) | 2:57 | 2026-11-06 |  |
+| [Fall \(For You\)](https://open.spotify.com/track/0AKciAtnP7eumDYspyydKz) | [Xeuphoria](https://open.spotify.com/artist/6Sbjh6vCJQE5eQTQvYoksJ), [KiBi](https://open.spotify.com/artist/39Jmzhw5DYrOqgrGjAo1Rm) | [Fall \(For You\)](https://open.spotify.com/album/0TUfFZthbgCmbef1XNFYY6) | 2:57 | 2026-11-06 | 2026-11-13 |
 | [Fall Into You](https://open.spotify.com/track/6IpniKTQXAEjc2erLByfo2) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD), [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv) | [Fall Into You](https://open.spotify.com/album/4W2eUzZfKOC0PVE5RjCSlS) | 2:48 | 2025-10-11 |  |
 | [Falling Like The Stars](https://open.spotify.com/track/15xWRPHQMeqgdkGzInx3PY) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Falling Like The Stars](https://open.spotify.com/album/6Vd7ZTFfhrtPuiQIqEN8XU) | 3:32 | 2022-10-20 | 2025-09-06 |
 | [Fantasyland](https://open.spotify.com/track/1VlehMw5J8ySV6UkkuOiT2) | [Moody Joody](https://open.spotify.com/artist/0ndpuECxVStTsHhzq4Euxz) | [Fantasyland](https://open.spotify.com/album/55uT1MQ9TlY5sgV4w835ye) | 3:31 | 2026-11-06 |  |
@@ -725,6 +725,7 @@
 | [光の庭と魚の夢](https://open.spotify.com/track/54eQt6Cfyv7rawQHKtW5bi) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [光の庭と魚の夢](https://open.spotify.com/album/6oAFmHVa4jrzyOUXGCe9xj) | 4:28 | 2023-01-26 | 2023-01-28 |
 | [光朝](https://open.spotify.com/track/09tkV5i4lWmAVSumsJIsEE) | [Monkey Majik](https://open.spotify.com/artist/6U2dgcU46Iy9pF3RQBj5hG) | [空はまるで](https://open.spotify.com/album/3IoDRMDTRFh4HqmhRIrGOJ) | 3:15 | 2026-02-19 | 2026-11-07 |
 | [冬と夏の間](https://open.spotify.com/track/0z8N4vP6CAQtPR2dynPEPh) | [HoSoVoSo](https://open.spotify.com/artist/7iIrHfIBAARkPX2T9nQg9g) | [春を待つ僕ら4](https://open.spotify.com/album/29dDBzJz0UQAnFy7m0wExv) | 3:04 | 2023-02-14 | 2023-03-01 |
+| [南の島](https://open.spotify.com/track/5lSvpFZXL4ExGDW8nceUKe) | [岩崎桃子](https://open.spotify.com/artist/0Yb6qJAprge68CFUcfIYu6) | [ぴかぴか](https://open.spotify.com/album/0fgbGNoJ8eIHzQoTOo6jnG) | 5:46 | 2026-11-06 |  |
 | [各停で行こう](https://open.spotify.com/track/3kcEuewP2VldWBrKC5pNIr) | [マコトコンドウ](https://open.spotify.com/artist/5LGNw6Zr6yaFM9px1QiTwc) | [各停で行こう](https://open.spotify.com/album/1mRuiPEhuXNmrv5LIbHIqX) | 2:47 | 2023-03-28 | 2023-04-21 |
 | [君の隣](https://open.spotify.com/track/71DbWOpzCisKYVvOJiQNrm) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [君の隣](https://open.spotify.com/album/3XaeNTwBhtr0IeMzcP8lPk) | 5:16 | 2024-02-20 | 2024-06-01 |
 | [君は言うかな](https://open.spotify.com/track/41hpqH0V4sz4FvZ2JOfBDb) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [君は言うかな](https://open.spotify.com/album/2RH9084rMEQaLhFSIeEHny) | 4:27 | 2023-05-23 | 2026-11-07 |

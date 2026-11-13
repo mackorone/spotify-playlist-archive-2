@@ -1,6 +1,6 @@
 {
   "description": "Grab your coffee and ease into the day with this light blend.",
-  "num_followers": 433089,
+  "num_followers": 433187,
   "original_name": "Morning Coffee",
   "owner": {
     "name": "Spotify",
@@ -787,22 +787,6 @@
     {
       "added_at": "2026-10-07 15:36:18",
       "album": {
-        "name": "Chapter Of The Forest",
-        "url": "https://open.spotify.com/album/0Tt5WHP4RdkQemDgD1QItP"
-      },
-      "artists": [
-        {
-          "name": "Trevor Hall",
-          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
-        }
-      ],
-      "duration_ms": 274632,
-      "name": "Green Mountain State",
-      "url": "https://open.spotify.com/track/0c7iF5fSBYxCuwsAv2z4iI"
-    },
-    {
-      "added_at": "2026-10-07 15:36:18",
-      "album": {
         "name": "I Still Haven't Found What I'm Looking For / my future",
         "url": "https://open.spotify.com/album/1mgj4CyzzcC05pQQGoPzLN"
       },
@@ -819,18 +803,18 @@
     {
       "added_at": "2026-10-07 15:36:18",
       "album": {
-        "name": "Quick Hands",
-        "url": "https://open.spotify.com/album/0CDO8xzg9Ke3k9og3g8BYq"
+        "name": "Chapter Of The Forest",
+        "url": "https://open.spotify.com/album/0Tt5WHP4RdkQemDgD1QItP"
       },
       "artists": [
         {
-          "name": "Woodlock",
-          "url": "https://open.spotify.com/artist/1slZr3FGlh153jH8xW6SNa"
+          "name": "Trevor Hall",
+          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
         }
       ],
-      "duration_ms": 203466,
-      "name": "Quick Hands",
-      "url": "https://open.spotify.com/track/6HCf9COkucXMcnqxJ1hfP0"
+      "duration_ms": 274632,
+      "name": "Green Mountain State",
+      "url": "https://open.spotify.com/track/0c7iF5fSBYxCuwsAv2z4iI"
     },
     {
       "added_at": "2026-10-07 15:36:18",
@@ -847,6 +831,22 @@
       "duration_ms": 229226,
       "name": "She Burns",
       "url": "https://open.spotify.com/track/3rUw4cRDeYVZhjkUXBnFUQ"
+    },
+    {
+      "added_at": "2026-10-07 15:36:18",
+      "album": {
+        "name": "Quick Hands",
+        "url": "https://open.spotify.com/album/0CDO8xzg9Ke3k9og3g8BYq"
+      },
+      "artists": [
+        {
+          "name": "Woodlock",
+          "url": "https://open.spotify.com/artist/1slZr3FGlh153jH8xW6SNa"
+        }
+      ],
+      "duration_ms": 203466,
+      "name": "Quick Hands",
+      "url": "https://open.spotify.com/track/6HCf9COkucXMcnqxJ1hfP0"
     },
     {
       "added_at": "2026-10-07 15:36:18",
@@ -915,22 +915,6 @@
     {
       "added_at": "2026-10-07 15:36:18",
       "album": {
-        "name": "Brush Fire",
-        "url": "https://open.spotify.com/album/0q9LcQHXp9DuszlWNJZoLB"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 190426,
-      "name": "Brush Fire",
-      "url": "https://open.spotify.com/track/4jp8ragG1fHm1eucECebYF"
-    },
-    {
-      "added_at": "2026-10-07 15:36:18",
-      "album": {
         "name": "Equus Asinus",
         "url": "https://open.spotify.com/album/3DMcONcVrHi6yNLwL576GU"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 291791,
       "name": "I Come With Mud",
       "url": "https://open.spotify.com/track/6U13ePayjjfmxzXHGGYbv5"
+    },
+    {
+      "added_at": "2026-10-07 15:36:18",
+      "album": {
+        "name": "Brush Fire",
+        "url": "https://open.spotify.com/album/0q9LcQHXp9DuszlWNJZoLB"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 190426,
+      "name": "Brush Fire",
+      "url": "https://open.spotify.com/track/4jp8ragG1fHm1eucECebYF"
     },
     {
       "added_at": "2026-10-07 15:36:18",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2026-10-07 15:36:18",
       "album": {
+        "name": "S.O.S.: Save Our Soul",
+        "url": "https://open.spotify.com/album/6vk5kBQsE8SQzv3FxG3TWu"
+      },
+      "artists": [
+        {
+          "name": "Marc Broussard",
+          "url": "https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe"
+        }
+      ],
+      "duration_ms": 278146,
+      "name": "Love And Happiness",
+      "url": "https://open.spotify.com/track/5fMInRpERS8jP2zPz6QyUI"
+    },
+    {
+      "added_at": "2026-10-07 15:36:18",
+      "album": {
         "name": "How Long Do You Think It's Gonna Last?",
         "url": "https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 330066,
       "name": "Birch",
       "url": "https://open.spotify.com/track/7wo2UNeQBowm28hfAJsEMz"
-    },
-    {
-      "added_at": "2026-10-07 15:36:18",
-      "album": {
-        "name": "S.O.S.: Save Our Soul",
-        "url": "https://open.spotify.com/album/6vk5kBQsE8SQzv3FxG3TWu"
-      },
-      "artists": [
-        {
-          "name": "Marc Broussard",
-          "url": "https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe"
-        }
-      ],
-      "duration_ms": 278146,
-      "name": "Love And Happiness",
-      "url": "https://open.spotify.com/track/5fMInRpERS8jP2zPz6QyUI"
     },
     {
       "added_at": "2026-10-07 15:36:18",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2026-10-07 15:36:18",
       "album": {
+        "name": "This Is Really Going To Hurt",
+        "url": "https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0"
+      },
+      "artists": [
+        {
+          "name": "Flyte",
+          "url": "https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu"
+        }
+      ],
+      "duration_ms": 209493,
+      "name": "Everyone's A Winner",
+      "url": "https://open.spotify.com/track/0Gf2hEQEVBcwgy40JyO9LK"
+    },
+    {
+      "added_at": "2026-10-07 15:36:18",
+      "album": {
         "name": "Turning Onto You (HNNY Remix)",
         "url": "https://open.spotify.com/album/3GJkWCJPr1egPYRDXaQcE2"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 210013,
       "name": "Turning Onto You - HNNY Remix",
       "url": "https://open.spotify.com/track/38hxhxzCWO8ffzhdY57pBM"
-    },
-    {
-      "added_at": "2026-10-07 15:36:18",
-      "album": {
-        "name": "This Is Really Going To Hurt",
-        "url": "https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0"
-      },
-      "artists": [
-        {
-          "name": "Flyte",
-          "url": "https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu"
-        }
-      ],
-      "duration_ms": 209493,
-      "name": "Everyone's A Winner",
-      "url": "https://open.spotify.com/track/0Gf2hEQEVBcwgy40JyO9LK"
     },
     {
       "added_at": "2026-10-07 15:36:18",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2026-10-07 15:36:18",
       "album": {
-        "name": "Without a Light",
-        "url": "https://open.spotify.com/album/2eVxQMHiWZ8P96B9QIlNdR"
-      },
-      "artists": [
-        {
-          "name": "Drew Holcomb & The Neighbors",
-          "url": "https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9"
-        }
-      ],
-      "duration_ms": 142200,
-      "name": "Without a Light",
-      "url": "https://open.spotify.com/track/1CYBnHYYbOAsuDCGa0zrw0"
-    },
-    {
-      "added_at": "2026-10-07 15:36:18",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/79Eaui1AldvjTjHIY7V6vu"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 307534,
       "name": "Such A Simple Thing - Recorded at Sound Stage Studios Nashville",
       "url": "https://open.spotify.com/track/1xYMyM7MxFi4OuzDA2op9Q"
+    },
+    {
+      "added_at": "2026-10-07 15:36:18",
+      "album": {
+        "name": "Without a Light",
+        "url": "https://open.spotify.com/album/2eVxQMHiWZ8P96B9QIlNdR"
+      },
+      "artists": [
+        {
+          "name": "Drew Holcomb & The Neighbors",
+          "url": "https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9"
+        }
+      ],
+      "duration_ms": 142200,
+      "name": "Without a Light",
+      "url": "https://open.spotify.com/track/1CYBnHYYbOAsuDCGa0zrw0"
     },
     {
       "added_at": "2026-10-07 15:36:18",
@@ -1343,26 +1343,6 @@
     {
       "added_at": "2026-10-07 15:36:18",
       "album": {
-        "name": "Sunshine In The Room",
-        "url": "https://open.spotify.com/album/5kcPJTW5E80SQpWDsorrYW"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        },
-        {
-          "name": "Jon Batiste",
-          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
-        }
-      ],
-      "duration_ms": 182955,
-      "name": "Sunshine In The Room (feat. Jon Batiste)",
-      "url": "https://open.spotify.com/track/2cbRRdFAhoDnBGQgJ7NGws"
-    },
-    {
-      "added_at": "2026-10-07 15:36:18",
-      "album": {
         "name": "If Ever",
         "url": "https://open.spotify.com/album/0hWhMuCu6vFSHTJNH3BqqC"
       },
@@ -1383,6 +1363,26 @@
       "duration_ms": 215104,
       "name": "If Ever (with Jack Johnson & Ben Harper)",
       "url": "https://open.spotify.com/track/5CeXAfGpk9baITQvV0feoG"
+    },
+    {
+      "added_at": "2026-10-07 15:36:18",
+      "album": {
+        "name": "Sunshine In The Room",
+        "url": "https://open.spotify.com/album/5kcPJTW5E80SQpWDsorrYW"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        },
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        }
+      ],
+      "duration_ms": 182955,
+      "name": "Sunshine In The Room (feat. Jon Batiste)",
+      "url": "https://open.spotify.com/track/2cbRRdFAhoDnBGQgJ7NGws"
     },
     {
       "added_at": "2026-10-07 15:36:18",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2026-10-07 15:36:18",
       "album": {
-        "name": "Roses",
-        "url": "https://open.spotify.com/album/3MIjWNHQ3UcbwtJorLNeJU"
-      },
-      "artists": [
-        {
-          "name": "George Taylor",
-          "url": "https://open.spotify.com/artist/0nuq0P5rPEpF6oFM4PTia5"
-        }
-      ],
-      "duration_ms": 262853,
-      "name": "Roses",
-      "url": "https://open.spotify.com/track/1qRjGm49sjk0NntgZMdDzn"
-    },
-    {
-      "added_at": "2026-10-07 15:36:18",
-      "album": {
         "name": "Back on the Road",
         "url": "https://open.spotify.com/album/5yzWuLgd5HDeqhXHxVb2Kj"
       },
@@ -1747,6 +1731,22 @@
       "duration_ms": 144901,
       "name": "Back on the Road",
       "url": "https://open.spotify.com/track/3iGrd3ze293iLtxeuNFCSq"
+    },
+    {
+      "added_at": "2026-10-07 15:36:18",
+      "album": {
+        "name": "Roses",
+        "url": "https://open.spotify.com/album/3MIjWNHQ3UcbwtJorLNeJU"
+      },
+      "artists": [
+        {
+          "name": "George Taylor",
+          "url": "https://open.spotify.com/artist/0nuq0P5rPEpF6oFM4PTia5"
+        }
+      ],
+      "duration_ms": 262853,
+      "name": "Roses",
+      "url": "https://open.spotify.com/track/1qRjGm49sjk0NntgZMdDzn"
     },
     {
       "added_at": "2026-10-07 15:36:18",
@@ -1907,22 +1907,6 @@
     {
       "added_at": "2026-10-07 15:36:18",
       "album": {
-        "name": "Fondness, Etc.",
-        "url": "https://open.spotify.com/album/3VgLs6trnvDp0Sqe9KLLiF"
-      },
-      "artists": [
-        {
-          "name": "Shakey Graves",
-          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
-        }
-      ],
-      "duration_ms": 175746,
-      "name": "No Place to Be",
-      "url": "https://open.spotify.com/track/5iDSDrBVBExohwfB4RVLHJ"
-    },
-    {
-      "added_at": "2026-10-07 15:36:18",
-      "album": {
         "name": "Keeping The Light On",
         "url": "https://open.spotify.com/album/6frFUCnLfPHN5cuGuONc04"
       },
@@ -1935,6 +1919,22 @@
       "duration_ms": 223628,
       "name": "Keeping The Light On",
       "url": "https://open.spotify.com/track/1Uacdg0eFpE2bpjS90feZQ"
+    },
+    {
+      "added_at": "2026-10-07 15:36:18",
+      "album": {
+        "name": "Fondness, Etc.",
+        "url": "https://open.spotify.com/album/3VgLs6trnvDp0Sqe9KLLiF"
+      },
+      "artists": [
+        {
+          "name": "Shakey Graves",
+          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
+        }
+      ],
+      "duration_ms": 175746,
+      "name": "No Place to Be",
+      "url": "https://open.spotify.com/track/5iDSDrBVBExohwfB4RVLHJ"
     },
     {
       "added_at": "2026-10-07 15:36:18",
@@ -2019,22 +2019,6 @@
     {
       "added_at": "2026-10-07 15:36:18",
       "album": {
-        "name": "Faking My Own Death",
-        "url": "https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf"
-      },
-      "artists": [
-        {
-          "name": "August Ponthier",
-          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
-        }
-      ],
-      "duration_ms": 238829,
-      "name": "Faking My Own Death",
-      "url": "https://open.spotify.com/track/0GoTonjhYLPM7NVKqliTTt"
-    },
-    {
-      "added_at": "2026-10-07 15:36:18",
-      "album": {
         "name": "Don't Fade",
         "url": "https://open.spotify.com/album/0z7QrHUhqM60ZPsNFzxMpx"
       },
@@ -2063,6 +2047,22 @@
       "duration_ms": 174146,
       "name": "Safeword",
       "url": "https://open.spotify.com/track/3FIcE9t4VtHLVNwaMSRALs"
+    },
+    {
+      "added_at": "2026-10-07 15:36:18",
+      "album": {
+        "name": "Faking My Own Death",
+        "url": "https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf"
+      },
+      "artists": [
+        {
+          "name": "August Ponthier",
+          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
+        }
+      ],
+      "duration_ms": 238829,
+      "name": "Faking My Own Death",
+      "url": "https://open.spotify.com/track/0GoTonjhYLPM7NVKqliTTt"
     },
     {
       "added_at": "2026-10-07 15:36:18",
@@ -2611,6 +2611,22 @@
     {
       "added_at": "2026-10-07 15:36:18",
       "album": {
+        "name": "Vignettes",
+        "url": "https://open.spotify.com/album/3QzGPQofSaqMNWqk7BqmAJ"
+      },
+      "artists": [
+        {
+          "name": "Wesley Schultz",
+          "url": "https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX"
+        }
+      ],
+      "duration_ms": 256798,
+      "name": "My City of Ruins",
+      "url": "https://open.spotify.com/track/22NL5h9eOZqVeBRLrRgMJk"
+    },
+    {
+      "added_at": "2026-10-07 15:36:18",
+      "album": {
         "name": "Bali",
         "url": "https://open.spotify.com/album/4xP7076aGQHLA8hA8PZM3W"
       },
@@ -2627,22 +2643,6 @@
       "duration_ms": 217500,
       "name": "Bali",
       "url": "https://open.spotify.com/track/7lAEGfjVzHAscI40AZy0EW"
-    },
-    {
-      "added_at": "2026-10-07 15:36:18",
-      "album": {
-        "name": "Vignettes",
-        "url": "https://open.spotify.com/album/3QzGPQofSaqMNWqk7BqmAJ"
-      },
-      "artists": [
-        {
-          "name": "Wesley Schultz",
-          "url": "https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX"
-        }
-      ],
-      "duration_ms": 256798,
-      "name": "My City of Ruins",
-      "url": "https://open.spotify.com/track/22NL5h9eOZqVeBRLrRgMJk"
     },
     {
       "added_at": "2026-10-07 15:36:18",
@@ -2727,26 +2727,6 @@
     {
       "added_at": "2026-10-07 15:36:18",
       "album": {
-        "name": "Shooting Star",
-        "url": "https://open.spotify.com/album/1wGWZR6KlmVEOCmP9mQ8j1"
-      },
-      "artists": [
-        {
-          "name": "Hovvdy",
-          "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
-        },
-        {
-          "name": "runo plum",
-          "url": "https://open.spotify.com/artist/0pouttXEXIHvguV90fhB39"
-        }
-      ],
-      "duration_ms": 143030,
-      "name": "Shooting Star",
-      "url": "https://open.spotify.com/track/2QRxjT8nlYM2yystxTdz6L"
-    },
-    {
-      "added_at": "2026-10-07 15:36:18",
-      "album": {
         "name": "We Don\u2019t Know We\u2019re Living (w/ Brandi Carlile & Joy Oladokun)",
         "url": "https://open.spotify.com/album/1vJ4hlzBjTPtW54msCMGb9"
       },
@@ -2767,6 +2747,26 @@
       "duration_ms": 270426,
       "name": "We Don\u2019t Know We\u2019re Living (w/ Brandi Carlile & Joy Oladokun)",
       "url": "https://open.spotify.com/track/67whVnjuQPRV27BE4lbqwI"
+    },
+    {
+      "added_at": "2026-10-07 15:36:18",
+      "album": {
+        "name": "Shooting Star",
+        "url": "https://open.spotify.com/album/1wGWZR6KlmVEOCmP9mQ8j1"
+      },
+      "artists": [
+        {
+          "name": "Hovvdy",
+          "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
+        },
+        {
+          "name": "runo plum",
+          "url": "https://open.spotify.com/artist/0pouttXEXIHvguV90fhB39"
+        }
+      ],
+      "duration_ms": 143030,
+      "name": "Shooting Star",
+      "url": "https://open.spotify.com/track/2QRxjT8nlYM2yystxTdz6L"
     },
     {
       "added_at": "2026-10-07 15:36:18",
@@ -2843,22 +2843,6 @@
     {
       "added_at": "2026-10-07 15:36:18",
       "album": {
-        "name": "Things I Chose To Remember",
-        "url": "https://open.spotify.com/album/1bxlSBesh71i89ZitdykUX"
-      },
-      "artists": [
-        {
-          "name": "Rhys Lewis",
-          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
-        }
-      ],
-      "duration_ms": 169226,
-      "name": "Under The Sun",
-      "url": "https://open.spotify.com/track/7y2JsiZ8cKGQp0vmmcMJcB"
-    },
-    {
-      "added_at": "2026-10-07 15:36:18",
-      "album": {
         "name": "I Don't Wanna Dance (Piano Version)",
         "url": "https://open.spotify.com/album/18rblVvDEpB7th3zIx23X5"
       },
@@ -2871,6 +2855,22 @@
       "duration_ms": 255272,
       "name": "I Don't Wanna Dance - Piano Version",
       "url": "https://open.spotify.com/track/4BXcGFt1btBUsOYzERvlG6"
+    },
+    {
+      "added_at": "2026-10-07 15:36:18",
+      "album": {
+        "name": "I Can See The Future",
+        "url": "https://open.spotify.com/album/2r03tuODAS7RHQdN6VrmVy"
+      },
+      "artists": [
+        {
+          "name": "Leith Ross",
+          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
+        }
+      ],
+      "duration_ms": 315680,
+      "name": "Terrified",
+      "url": "https://open.spotify.com/track/7BdOjMjIU66j98WAQzlyqL"
     },
     {
       "added_at": "2026-10-07 15:36:18",
@@ -2891,18 +2891,18 @@
     {
       "added_at": "2026-10-07 15:36:18",
       "album": {
-        "name": "I Can See The Future",
-        "url": "https://open.spotify.com/album/2r03tuODAS7RHQdN6VrmVy"
+        "name": "Things I Chose To Remember",
+        "url": "https://open.spotify.com/album/1bxlSBesh71i89ZitdykUX"
       },
       "artists": [
         {
-          "name": "Leith Ross",
-          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
+          "name": "Rhys Lewis",
+          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
         }
       ],
-      "duration_ms": 315680,
-      "name": "Terrified",
-      "url": "https://open.spotify.com/track/7BdOjMjIU66j98WAQzlyqL"
+      "duration_ms": 169226,
+      "name": "Under The Sun",
+      "url": "https://open.spotify.com/track/7y2JsiZ8cKGQp0vmmcMJcB"
     },
     {
       "added_at": "2026-10-07 15:36:18",
@@ -3067,22 +3067,6 @@
     {
       "added_at": "2026-10-07 15:36:18",
       "album": {
-        "name": "Speaking of You",
-        "url": "https://open.spotify.com/album/1VRsxPMJdQ1LgeKhNb5Kv1"
-      },
-      "artists": [
-        {
-          "name": "Old Sea Brigade",
-          "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45"
-        }
-      ],
-      "duration_ms": 265726,
-      "name": "Speaking of You",
-      "url": "https://open.spotify.com/track/4a4BqvfGcEh2PwRdFVwiMM"
-    },
-    {
-      "added_at": "2026-10-07 15:36:18",
-      "album": {
         "name": "Mud Blood Bone",
         "url": "https://open.spotify.com/album/6eT5qu4VM8hXFm2uJ1JiQU"
       },
@@ -3111,6 +3095,22 @@
       "duration_ms": 190057,
       "name": "Cheap Date",
       "url": "https://open.spotify.com/track/4HLNo8wZoxWejkPY9W59J4"
+    },
+    {
+      "added_at": "2026-10-07 15:36:18",
+      "album": {
+        "name": "Speaking of You",
+        "url": "https://open.spotify.com/album/1VRsxPMJdQ1LgeKhNb5Kv1"
+      },
+      "artists": [
+        {
+          "name": "Old Sea Brigade",
+          "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45"
+        }
+      ],
+      "duration_ms": 265726,
+      "name": "Speaking of You",
+      "url": "https://open.spotify.com/track/4a4BqvfGcEh2PwRdFVwiMM"
     },
     {
       "added_at": "2026-10-07 15:36:18",
@@ -3227,22 +3227,6 @@
     {
       "added_at": "2026-10-07 15:36:18",
       "album": {
-        "name": "Never Gonna Change",
-        "url": "https://open.spotify.com/album/0SxiadbHhDU6dvWChJAezR"
-      },
-      "artists": [
-        {
-          "name": "Kate York",
-          "url": "https://open.spotify.com/artist/5wONG6j4El6k5iOXQdA0Ha"
-        }
-      ],
-      "duration_ms": 209571,
-      "name": "Never Gonna Change",
-      "url": "https://open.spotify.com/track/66itGczd1PDI7441zMYaeI"
-    },
-    {
-      "added_at": "2026-10-07 15:36:18",
-      "album": {
         "name": "Altogether Unaccompanied, Vol. V",
         "url": "https://open.spotify.com/album/2SN8wIw7CUrCdY5RNLWQUT"
       },
@@ -3255,6 +3239,22 @@
       "duration_ms": 305185,
       "name": "Bigger Pieces",
       "url": "https://open.spotify.com/track/6oSMF3TrouX3TNO6NZbRhG"
+    },
+    {
+      "added_at": "2026-10-07 15:36:18",
+      "album": {
+        "name": "Never Gonna Change",
+        "url": "https://open.spotify.com/album/0SxiadbHhDU6dvWChJAezR"
+      },
+      "artists": [
+        {
+          "name": "Kate York",
+          "url": "https://open.spotify.com/artist/5wONG6j4El6k5iOXQdA0Ha"
+        }
+      ],
+      "duration_ms": 209571,
+      "name": "Never Gonna Change",
+      "url": "https://open.spotify.com/track/66itGczd1PDI7441zMYaeI"
     },
     {
       "added_at": "2026-10-07 15:36:18",

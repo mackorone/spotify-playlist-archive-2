@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: ALICJA",
+  "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: Dominika P\u0142onka",
   "name": "up next",
   "tracks": [
     {
@@ -3956,7 +3956,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 151920,
       "name": "DELI SUPREME",
       "url": "https://open.spotify.com/track/7mFj66qVnjoZUXkyPljGj8"
@@ -5880,7 +5880,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 230547,
       "name": "Halina",
       "url": "https://open.spotify.com/track/0BOKmMV0RoCWurTJdDXNIb"
@@ -6462,6 +6462,28 @@
       "duration_ms": 168837,
       "name": "innym razem",
       "url": "https://open.spotify.com/track/3MUb0NoCMcg8yr2DUp9krH"
+    },
+    {
+      "album": {
+        "name": "INSOMNIA",
+        "url": "https://open.spotify.com/album/3dqGwoSyU7efxHTtR4yspm"
+      },
+      "artists": [
+        {
+          "name": "asthma",
+          "url": "https://open.spotify.com/artist/3hz3fhj1laajEycfVkQRlN"
+        },
+        {
+          "name": "Chloe Martini",
+          "url": "https://open.spotify.com/artist/6vhgsnZ2dLDaLDog3pqP2d"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149760,
+      "name": "INSOMNIA",
+      "url": "https://open.spotify.com/track/0YUG4BzNIDyoTUDdKsWW5O"
     },
     {
       "album": {
@@ -7188,7 +7210,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 190500,
       "name": "Kafejka na Ochocie",
       "url": "https://open.spotify.com/track/2huAJcqnLg4SC4jvHKKohG"
@@ -9863,6 +9885,24 @@
     },
     {
       "album": {
+        "name": "na ca\u0142y g\u0142os",
+        "url": "https://open.spotify.com/album/5imufcIm9serkUaGp48NIp"
+      },
+      "artists": [
+        {
+          "name": "Manya",
+          "url": "https://open.spotify.com/artist/0Ik3lsTqLJTDmAmKQ6mxPL"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125916,
+      "name": "na ca\u0142y g\u0142os",
+      "url": "https://open.spotify.com/track/6Nt3wTIgZtzPrYUIxJ9tqp"
+    },
+    {
+      "album": {
         "name": "Na chwil\u0119",
         "url": "https://open.spotify.com/album/2GaFjPRnUXkjFSVfKDy3uI"
       },
@@ -11076,7 +11116,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-11",
+      "date_removed": null,
       "duration_ms": 156000,
       "name": "niech nie \u017cyje nam",
       "url": "https://open.spotify.com/track/0sNuqgwVY7j4ArP5v8cBnR"
@@ -11424,6 +11464,24 @@
       "duration_ms": 177454,
       "name": "noktowizja",
       "url": "https://open.spotify.com/track/0DIv99kVsswFdhqaLwBEJL"
+    },
+    {
+      "album": {
+        "name": "non stop",
+        "url": "https://open.spotify.com/album/50fb1YtGDYx9Ak0VG6Bm6R"
+      },
+      "artists": [
+        {
+          "name": "Dominika P\u0142onka",
+          "url": "https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178331,
+      "name": "non stop",
+      "url": "https://open.spotify.com/track/6tHKBq4Vb21lez5ielAVBo"
     },
     {
       "album": {
@@ -12480,6 +12538,24 @@
       "duration_ms": 167520,
       "name": "Paznokcie z pinteresta",
       "url": "https://open.spotify.com/track/3oI7OV6gjZevts2w7yECv0"
+    },
+    {
+      "album": {
+        "name": "Pech",
+        "url": "https://open.spotify.com/album/578jT0V2xtB9a5N4U8mozE"
+      },
+      "artists": [
+        {
+          "name": "Ola Poskrop",
+          "url": "https://open.spotify.com/artist/2CJ1ODOHx6DhVpaDJaq6dy"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175376,
+      "name": "Pech",
+      "url": "https://open.spotify.com/track/76SidE9PbrH5B7daxXkOdI"
     },
     {
       "album": {
@@ -15320,7 +15396,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 141984,
       "name": "Stuck",
       "url": "https://open.spotify.com/track/7wfECN2xN5O0SwA9eRk2Xw"
@@ -19238,7 +19314,7 @@
       ],
       "date_added": "2026-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 178695,
       "name": "Zdmuchnij",
       "url": "https://open.spotify.com/track/4SeobGlJUeO3D8uyMWdEvF"

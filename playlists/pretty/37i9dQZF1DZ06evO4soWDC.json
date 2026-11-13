@@ -1,12 +1,12 @@
 {
   "description": "This is Luca Brasi. The essential tracks, all in one playlist.",
-  "num_followers": 1010,
+  "num_followers": 1012,
   "original_name": "This Is Luca Brasi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avENAAAAAAAYIKMH3LExdmnPDOaSaWRi",
+  "snapshot_id": "avOwAAAAAAAKHCxLCVUPi0mp/NypEw/9",
   "tracks": [
     {
       "added_at": null,
@@ -399,6 +399,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "By a Thread",
+        "url": "https://open.spotify.com/album/2r5dvvJMnPk6dkHwjRv6Vv"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "duration_ms": 184518,
+      "name": "Western Junction",
+      "url": "https://open.spotify.com/track/4b6gMgx5ykfm8Zri8hpaSR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The World Don't Owe You Anything",
         "url": "https://open.spotify.com/album/5380vNQwfXfMQEpIBgnGRg"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 169266,
       "name": "Habits",
       "url": "https://open.spotify.com/track/3igoVqqRIqOtEFSgSVueHw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "By a Thread",
-        "url": "https://open.spotify.com/album/2r5dvvJMnPk6dkHwjRv6Vv"
-      },
-      "artists": [
-        {
-          "name": "Luca Brasi",
-          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
-        }
-      ],
-      "duration_ms": 183662,
-      "name": "Benthos",
-      "url": "https://open.spotify.com/track/04GyfMLy3j0S6aa7NRrRn0"
     },
     {
       "added_at": null,
@@ -463,6 +463,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "By a Thread",
+        "url": "https://open.spotify.com/album/2r5dvvJMnPk6dkHwjRv6Vv"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "duration_ms": 183662,
+      "name": "Benthos",
+      "url": "https://open.spotify.com/track/04GyfMLy3j0S6aa7NRrRn0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The World Don't Owe You Anything",
         "url": "https://open.spotify.com/album/5380vNQwfXfMQEpIBgnGRg"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 204533,
       "name": "Rinse and Repeat",
       "url": "https://open.spotify.com/track/13oycWNPkO5TstF1DO1x5D"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "By a Thread",
-        "url": "https://open.spotify.com/album/2r5dvvJMnPk6dkHwjRv6Vv"
-      },
-      "artists": [
-        {
-          "name": "Luca Brasi",
-          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
-        }
-      ],
-      "duration_ms": 184518,
-      "name": "Western Junction",
-      "url": "https://open.spotify.com/track/4b6gMgx5ykfm8Zri8hpaSR"
     },
     {
       "added_at": null,
@@ -527,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The World Don't Owe You Anything",
-        "url": "https://open.spotify.com/album/5380vNQwfXfMQEpIBgnGRg"
-      },
-      "artists": [
-        {
-          "name": "Luca Brasi",
-          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
-        }
-      ],
-      "duration_ms": 176893,
-      "name": "Party Scene",
-      "url": "https://open.spotify.com/track/1QYnJPrOiBy6slMePfc0cA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "By a Thread",
         "url": "https://open.spotify.com/album/2r5dvvJMnPk6dkHwjRv6Vv"
       },
@@ -559,6 +543,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The World Don't Owe You Anything",
+        "url": "https://open.spotify.com/album/5380vNQwfXfMQEpIBgnGRg"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "duration_ms": 176893,
+      "name": "Party Scene",
+      "url": "https://open.spotify.com/track/1QYnJPrOiBy6slMePfc0cA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Everything is Tenuous",
         "url": "https://open.spotify.com/album/1CauYGf4kborz50koSaKMd"
       },
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
         }
       ],
-      "duration_ms": 187101,
-      "name": "Remiss of Me",
-      "url": "https://open.spotify.com/track/3qQxv1BBsSnDtJE82pcLnR"
+      "duration_ms": 246347,
+      "name": "Never the Right Time",
+      "url": "https://open.spotify.com/track/5eQo8AdL0PUKw2NgbhJQSZ"
     },
     {
       "added_at": null,
@@ -591,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "'Til Forever",
-        "url": "https://open.spotify.com/album/3Ouz4BXlPk9xvbY8OLY31q"
-      },
-      "artists": [
-        {
-          "name": "Luca Brasi",
-          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
-        }
-      ],
-      "duration_ms": 168760,
-      "name": "'Til Forever",
-      "url": "https://open.spotify.com/track/4LYF3Ioe7PoekNKuhHuC51"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "By a Thread",
         "url": "https://open.spotify.com/album/2r5dvvJMnPk6dkHwjRv6Vv"
       },
@@ -623,6 +607,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "'Til Forever",
+        "url": "https://open.spotify.com/album/3Ouz4BXlPk9xvbY8OLY31q"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "duration_ms": 168760,
+      "name": "'Til Forever",
+      "url": "https://open.spotify.com/track/4LYF3Ioe7PoekNKuhHuC51"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Everything is Tenuous",
         "url": "https://open.spotify.com/album/1CauYGf4kborz50koSaKMd"
       },
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
         }
       ],
-      "duration_ms": 246347,
-      "name": "Never the Right Time",
-      "url": "https://open.spotify.com/track/5eQo8AdL0PUKw2NgbhJQSZ"
+      "duration_ms": 187101,
+      "name": "Remiss of Me",
+      "url": "https://open.spotify.com/track/3qQxv1BBsSnDtJE82pcLnR"
     },
     {
       "added_at": null,

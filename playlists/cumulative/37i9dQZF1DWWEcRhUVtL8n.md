@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Sydney Ross Mitchell
 
-2,571 songs - 5 day 17 hr 12 min
+2,572 songs - 5 day 17 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -711,6 +711,7 @@
 | [Eat It All Up](https://open.spotify.com/track/4qBsljPLydFTDKdLAfXjUa) | [Anna Sofia](https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K) | [Eat It All Up](https://open.spotify.com/album/1quBPc64lRxo3RfWkmzCSE) | 2:37 | 2021-06-03 | 2021-10-24 |
 | [eat the pavement](https://open.spotify.com/track/5WnxvPtkEJ31yXF8ZPwQr2) | [Dev Lemons](https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO) | [eat the pavement](https://open.spotify.com/album/1BplCRhETbabreZMRIgkfx) | 3:44 | 2026-07-13 | 2026-10-18 |
 | [Echo](https://open.spotify.com/track/3SH1vOTwgg5Ma1NhHaXvrA) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:29 | 2024-05-31 | 2025-06-28 |
+| [Eden](https://open.spotify.com/track/4AhOCTJYtVcCkftroo64VF) | [Sofia and the Antoinettes](https://open.spotify.com/artist/2Wmot0sq6wOOjvcYD4NRD7) | [Eden](https://open.spotify.com/album/5pPx1xu0kLg6SLP6RvXona) | 3:11 | 2026-10-30 |  |
 | [Edges of You](https://open.spotify.com/track/3dat7vpTyvyUiCYkvopr1L) | [Alfie Jukes](https://open.spotify.com/artist/06qfcPQQZ3AplWOg3KxsQ9) | [Edges of You](https://open.spotify.com/album/6qSE38dtgNyo5Enaxa1EFo) | 3:14 | 2026-07-06 | 2026-10-15 |
 | [Effortless](https://open.spotify.com/track/1kERj1mdR9X6ZkCGsbIwYc) | [Ant Saunders](https://open.spotify.com/artist/4jpsw9CQS439N0B7SecMgf) | [Effortless](https://open.spotify.com/album/32En4ZcvsHfgeQh26fX9wn) | 2:41 | 2020-10-13\* | 2020-10-23 |
 | [Ego](https://open.spotify.com/track/4cPGneVmrxVcz28DFWlHWl) | [Romy Mars](https://open.spotify.com/artist/6cJxlOHcaXLNUUKYkSecTd) | [Ego](https://open.spotify.com/album/43mrj0Ck4DFDYRC4za10sz) | 3:13 | 2025-12-12 | 2026-02-07 |
@@ -1339,7 +1340,7 @@
 | [Liar](https://open.spotify.com/track/5ya0gIGrhh1NdFoWPaBAhN) | [DYLYN](https://open.spotify.com/artist/3hOdLrtKdSs3AEuwcR7ses) | [Liar](https://open.spotify.com/album/40NNI9LICPtbYSNH4n7ArU) | 3:33 | 2022-04-15 | 2022-04-21 |
 | [liar](https://open.spotify.com/track/1FMO8gVoSFQdduxxulJUCF) | [sundial](https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9) | [liar](https://open.spotify.com/album/4OUEKQPbkU9XW93yKgcGfE) | 2:14 | 2022-07-22 | 2023-07-01 |
 | [Liar Liar](https://open.spotify.com/track/0WzxYGZi9lr3UQLMjbVUdI) | [LIA LIA](https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Armor](https://open.spotify.com/album/6PV9UuqMA3mB9acdDj06DX) | 2:45 | 2026-10-09 |  |
-| [lie alone](https://open.spotify.com/track/2VzOhFDUMzY5FFjZe2uBpf) | [ALINA](https://open.spotify.com/artist/5dMqTi9pBymJAVzH9V7N86) | [lie alone](https://open.spotify.com/album/4ftfORA5fYEtqNAjT94d2U) | 3:49 | 2026-06-12 |  |
+| [lie alone](https://open.spotify.com/track/2VzOhFDUMzY5FFjZe2uBpf) | [ALINA](https://open.spotify.com/artist/5dMqTi9pBymJAVzH9V7N86) | [lie alone](https://open.spotify.com/album/4ftfORA5fYEtqNAjT94d2U) | 3:49 | 2026-06-12 | 2026-11-13 |
 | [LIE DOWN..](https://open.spotify.com/track/68XQUzPx5J3irT3WzUpJRp) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [LIE DOWN..](https://open.spotify.com/album/1DnDYhwZ7K6gejLVulLNZf) | 5:09 | 2025-01-17 | 2025-03-12 |
 | [Lifestyle](https://open.spotify.com/track/52E0w9olHISDiYZdPBS4TS) | [girli](https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP) | [it's just my opinion](https://open.spotify.com/album/2rzEI7LluM2fWaE2an24eC) | 3:13 | 2026-05-15 | 2026-05-26 |
 | [Light Year \(feat\. Lennon Stella\)](https://open.spotify.com/track/7CS9hRKJNmBGWUowSjhedb) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB), [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Light Year \(feat\. Lennon Stella\)](https://open.spotify.com/album/71mCw8RPo3DOgQ9WtDs7pC) | 3:08 | 2021-06-02 | 2022-06-15 |

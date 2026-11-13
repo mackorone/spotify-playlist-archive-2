@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Cele mai noi hituri pop rom\u00e2ne\u0219ti. Cover: Juno, AMI",
+  "description": "Cele mai noi hituri pop rom\u00e2ne\u0219ti. Cover: Lazy Ed",
   "name": "Hiturile de azi",
   "tracks": [
     {
@@ -144,6 +144,24 @@
       "duration_ms": 222285,
       "name": "33",
       "url": "https://open.spotify.com/track/4LafNv6Vn6XQX8A4XcSmiB"
+    },
+    {
+      "album": {
+        "name": "4 str\u0103zi",
+        "url": "https://open.spotify.com/album/4Q4oTLmmtqmsGlsI7WKZHY"
+      },
+      "artists": [
+        {
+          "name": "Erika Isac",
+          "url": "https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183448,
+      "name": "4 str\u0103zi",
+      "url": "https://open.spotify.com/track/35S5ZoZVCOZpYrXHqtlZDI"
     },
     {
       "album": {
@@ -1102,7 +1120,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 155008,
       "name": "Arunc cu florile",
       "url": "https://open.spotify.com/track/1ILEUclvI62ca0mR5cbg2E"
@@ -1500,7 +1518,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 182168,
       "name": "Bastionul Fericirii",
       "url": "https://open.spotify.com/track/6jg9LBPwmtVNXLlqHozweF"
@@ -1638,7 +1656,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 130652,
       "name": "Boys These Days",
       "url": "https://open.spotify.com/track/12Gu3jyDY4nk5XLjxWJvQ8"
@@ -1972,7 +1990,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 128889,
       "name": "Caramela",
       "url": "https://open.spotify.com/track/2rmHmsSXi34pgVJ7YLNblm"
@@ -2182,7 +2200,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 149387,
       "name": "Ceai langa tine",
       "url": "https://open.spotify.com/track/4SWkUkMoq4sScbU9AOSFIT"
@@ -2550,6 +2568,24 @@
       "duration_ms": 130000,
       "name": "CROCO",
       "url": "https://open.spotify.com/track/0XOPtbmm2xAAocenNTPzZR"
+    },
+    {
+      "album": {
+        "name": "Cu cine mai vorbesti",
+        "url": "https://open.spotify.com/album/16jRFADHfrisi2GnEpejQV"
+      },
+      "artists": [
+        {
+          "name": "Lazy Ed",
+          "url": "https://open.spotify.com/artist/23l5vFzRRC5iUKVCH2eb4T"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176250,
+      "name": "Cu cine mai vorbesti",
+      "url": "https://open.spotify.com/track/4XUAZZct08SUyefWyN18g0"
     },
     {
       "album": {
@@ -4279,6 +4315,24 @@
     },
     {
       "album": {
+        "name": "Femeia",
+        "url": "https://open.spotify.com/album/2ZPcjHzJlwk5o5JIKeHx99"
+      },
+      "artists": [
+        {
+          "name": "Delia",
+          "url": "https://open.spotify.com/artist/6YomcUxZXNftP5OyuHoVmB"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166153,
+      "name": "Femeia",
+      "url": "https://open.spotify.com/track/7tXDy5OyjGvVxH5uPBuREq"
+    },
+    {
+      "album": {
         "name": "Fericit",
         "url": "https://open.spotify.com/album/76G5BhFVsytFgA5xJtlHPe"
       },
@@ -4494,7 +4548,7 @@
       ],
       "date_added": "2026-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 149379,
       "name": "Fotografii",
       "url": "https://open.spotify.com/track/0x7LGpyMt644lnikPurW6x"
@@ -4574,7 +4628,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 166875,
       "name": "Full Option",
       "url": "https://open.spotify.com/track/6vnbabsIQOkwp12neqpUoG"
@@ -7232,7 +7286,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 158400,
       "name": "Ne cert\u0103m s\u0103 ne \u00eemp\u0103c\u0103m",
       "url": "https://open.spotify.com/track/3TI8tDdl9l3RgaMsqXHUlE"
@@ -7698,6 +7752,24 @@
       "duration_ms": 186375,
       "name": "Nu M\u0103 Ia",
       "url": "https://open.spotify.com/track/6H0QfyYMYKmb0CfSX8DGTW"
+    },
+    {
+      "album": {
+        "name": "Nu m\u0103 las",
+        "url": "https://open.spotify.com/album/4RZ1hzaeg6YcuEvErCSHCN"
+      },
+      "artists": [
+        {
+          "name": "Lidia Buble",
+          "url": "https://open.spotify.com/artist/69JOH9w7UtJrKnbUpcW2gH"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165600,
+      "name": "Nu m\u0103 las",
+      "url": "https://open.spotify.com/track/4WsV2FUmAIvFc3n1rMjP0a"
     },
     {
       "album": {
@@ -8707,6 +8779,24 @@
     },
     {
       "album": {
+        "name": "Pic\u0103tura chinezeasc\u0103",
+        "url": "https://open.spotify.com/album/1eM9CGb5d8ymqhMtZ5Nyor"
+      },
+      "artists": [
+        {
+          "name": "Irina Rimes",
+          "url": "https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291818,
+      "name": "Pic\u0103tura chinezeasc\u0103",
+      "url": "https://open.spotify.com/track/0fGFLZiZq254TEntlRzHLf"
+    },
+    {
+      "album": {
         "name": "Pic\u0103tura De Cerneal\u0103",
         "url": "https://open.spotify.com/album/1dJdy2U2isiT2Wew6xfTRI"
       },
@@ -9307,6 +9397,24 @@
     },
     {
       "album": {
+        "name": "RESPIR",
+        "url": "https://open.spotify.com/album/6F1q9ddIUBjIUAe7EIHP9f"
+      },
+      "artists": [
+        {
+          "name": "Dan Balan",
+          "url": "https://open.spotify.com/artist/19rUh2xW9SuBUv5BflsdKq"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239569,
+      "name": "RESPIR",
+      "url": "https://open.spotify.com/track/5gjVryJVFvXXXh9DQaNgF5"
+    },
+    {
+      "album": {
         "name": "Reveria",
         "url": "https://open.spotify.com/album/0jCGJHr44ZwSidTWFmGXFV"
       },
@@ -9318,7 +9426,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 143063,
       "name": "Reveria",
       "url": "https://open.spotify.com/track/6travLwZzq8AYtSjfdNAeU"
@@ -9648,6 +9756,24 @@
       "duration_ms": 196800,
       "name": "Se siente bien",
       "url": "https://open.spotify.com/track/1kIa3QF0yfnvYofyqJacAq"
+    },
+    {
+      "album": {
+        "name": "Seara asta",
+        "url": "https://open.spotify.com/album/4KneGAQsRnpBI0JLQFi5hj"
+      },
+      "artists": [
+        {
+          "name": "Carla's Dreams",
+          "url": "https://open.spotify.com/artist/1n5LD9Ar3D6RK2X2ewGvXb"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221395,
+      "name": "Seara asta",
+      "url": "https://open.spotify.com/track/5pbsgrQDCUeWISE1uEBfTk"
     },
     {
       "album": {
@@ -10036,6 +10162,24 @@
       "duration_ms": 157536,
       "name": "Sunt bogat\u0103 r\u0103u de tot",
       "url": "https://open.spotify.com/track/2YToajetZ7k00B8ubRvpTA"
+    },
+    {
+      "album": {
+        "name": "Super Fata",
+        "url": "https://open.spotify.com/album/06prJHfyQfUayNTot2rmLM"
+      },
+      "artists": [
+        {
+          "name": "Liviu Teodorescu",
+          "url": "https://open.spotify.com/artist/7Ml36YHsejaW7jVjJAhW4a"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167393,
+      "name": "Super Fata",
+      "url": "https://open.spotify.com/track/3SyaZBpJj0OIP33Fb9H8VE"
     },
     {
       "album": {
@@ -11616,6 +11760,24 @@
       "duration_ms": 185732,
       "name": "Z\u00e2mbe\u0219te",
       "url": "https://open.spotify.com/track/0vT1xGO41auK3VyI65IldA"
+    },
+    {
+      "album": {
+        "name": "\u00cembr\u0103\u021bi\u0219are",
+        "url": "https://open.spotify.com/album/6lcmHXTtSMP1iNy0zctyDW"
+      },
+      "artists": [
+        {
+          "name": "Feli",
+          "url": "https://open.spotify.com/artist/5ckrQzJjIPDPS6EM4V1nmX"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178043,
+      "name": "\u00cembr\u0103\u021bi\u0219are",
+      "url": "https://open.spotify.com/track/05iPcycSL3AsaLrYv0rQdM"
     },
     {
       "album": {

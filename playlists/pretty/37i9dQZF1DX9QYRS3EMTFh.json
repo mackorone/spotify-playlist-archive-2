@@ -1,15 +1,111 @@
 {
-  "description": "Les hits dancehall, shatta, bouyon & dembow du moment. Photo : Stefflon Don x Leto",
-  "num_followers": 258506,
+  "description": "Les hits dancehall, shatta, bouyon & dembow du moment. Photo : Krys",
+  "num_followers": 258508,
   "original_name": "Dancehall Station",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEdknuZ7OGuxEDeJ5Uf8PEONMpMA",
+  "snapshot_id": "AAAAAGZkCEd9MAAk4bek20R5l3zjXN9/",
   "tracks": [
     {
-      "added_at": "2026-11-05 23:00:12",
+      "added_at": "2026-11-12 23:00:40",
+      "album": {
+        "name": "Real",
+        "url": "https://open.spotify.com/album/5xKBhH2wj5miqIgbt6O88S"
+      },
+      "artists": [
+        {
+          "name": "Krys",
+          "url": "https://open.spotify.com/artist/6d4N9S0QxevupZo0FNXx0D"
+        },
+        {
+          "name": "Fside",
+          "url": "https://open.spotify.com/artist/00ZDcRvFcW61HAEYNH0lG9"
+        },
+        {
+          "name": "DJ Bryan",
+          "url": "https://open.spotify.com/artist/4u2bmSwMR8J1Ft2mkXFwQM"
+        }
+      ],
+      "duration_ms": 173465,
+      "name": "Real",
+      "url": "https://open.spotify.com/track/2WTKNrWYfy6oXDJQHJ8bd6"
+    },
+    {
+      "added_at": "2026-11-12 23:00:40",
+      "album": {
+        "name": "Bad",
+        "url": "https://open.spotify.com/album/2hvDcEaSZpbkQuA4djiLcu"
+      },
+      "artists": [
+        {
+          "name": "Kima",
+          "url": "https://open.spotify.com/artist/0hp836fJ9Dleva1XuehHiS"
+        },
+        {
+          "name": "X-Man",
+          "url": "https://open.spotify.com/artist/4VYr2jD1AzhmEyT2L8xTg4"
+        }
+      ],
+      "duration_ms": 142000,
+      "name": "Bad",
+      "url": "https://open.spotify.com/track/31F6qHhydlh0c7lHs4DmQe"
+    },
+    {
+      "added_at": "2026-11-12 23:00:40",
+      "album": {
+        "name": "MAKA SHIT",
+        "url": "https://open.spotify.com/album/6RTVWlWTi0is0FaOeGj0Lf"
+      },
+      "artists": [
+        {
+          "name": "Lawskie",
+          "url": "https://open.spotify.com/artist/7gdTFjXWEBzBtir4DGFzku"
+        }
+      ],
+      "duration_ms": 152222,
+      "name": "MAKA SHIT",
+      "url": "https://open.spotify.com/track/2fDX1Eqrqf7M1L8vTd4I1L"
+    },
+    {
+      "added_at": "2026-11-12 23:00:40",
+      "album": {
+        "name": "Boss",
+        "url": "https://open.spotify.com/album/05rvHy2DwAcmER2H1udQV4"
+      },
+      "artists": [
+        {
+          "name": "Meryl",
+          "url": "https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA"
+        },
+        {
+          "name": "LeJuh",
+          "url": "https://open.spotify.com/artist/65UTbF7a4NYGfMAZwe279i"
+        }
+      ],
+      "duration_ms": 154049,
+      "name": "Boss",
+      "url": "https://open.spotify.com/track/0pz9Nm8wMv50rUffkzfwqD"
+    },
+    {
+      "added_at": "2026-11-12 23:00:40",
+      "album": {
+        "name": "TONIGHT",
+        "url": "https://open.spotify.com/album/1OTfJFoGv5Rl6O67eiN6M0"
+      },
+      "artists": [
+        {
+          "name": "TKS 2G",
+          "url": "https://open.spotify.com/artist/26ZKmgHKJWQdnSKUZCVEKa"
+        }
+      ],
+      "duration_ms": 161547,
+      "name": "Nikki",
+      "url": "https://open.spotify.com/track/5yWthlFYMiTdL5l80OpqV1"
+    },
+    {
+      "added_at": "2026-11-12 23:00:40",
       "album": {
         "name": "S.L.S",
         "url": "https://open.spotify.com/album/2YcCMcs7UJorJEvpS91B5k"
@@ -33,251 +129,7 @@
       "url": "https://open.spotify.com/track/5yQPgapPMfGR6ktp0eodTK"
     },
     {
-      "added_at": "2026-11-05 23:00:12",
-      "album": {
-        "name": "MAKA SHIT",
-        "url": "https://open.spotify.com/album/6RTVWlWTi0is0FaOeGj0Lf"
-      },
-      "artists": [
-        {
-          "name": "Lawskie",
-          "url": "https://open.spotify.com/artist/7gdTFjXWEBzBtir4DGFzku"
-        }
-      ],
-      "duration_ms": 152222,
-      "name": "MAKA SHIT",
-      "url": "https://open.spotify.com/track/2fDX1Eqrqf7M1L8vTd4I1L"
-    },
-    {
-      "added_at": "2026-11-05 23:00:12",
-      "album": {
-        "name": "Pow Pow / Allo Doudou",
-        "url": "https://open.spotify.com/album/5mnRbWynBTViMMW10m1nlB"
-      },
-      "artists": [
-        {
-          "name": "Niska",
-          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
-        },
-        {
-          "name": "litleboy lsbeats767",
-          "url": "https://open.spotify.com/artist/63eOPc8OECJcJQDoNrD4zY"
-        },
-        {
-          "name": "Miimii KDS",
-          "url": "https://open.spotify.com/artist/0mpZpEH8VcL0tYoGLhR8sd"
-        }
-      ],
-      "duration_ms": 219583,
-      "name": "Pow Pow / Allo Doudou",
-      "url": "https://open.spotify.com/track/4hTc2VnvYoOJwS8QXXhT0p"
-    },
-    {
-      "added_at": "2026-11-05 23:00:12",
-      "album": {
-        "name": "Cuenta (feat. Meryl & Shay)",
-        "url": "https://open.spotify.com/album/3weZpGpJ469y9iAN7i7wXU"
-      },
-      "artists": [
-        {
-          "name": "Ronisia",
-          "url": "https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV"
-        },
-        {
-          "name": "Meryl",
-          "url": "https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA"
-        },
-        {
-          "name": "Shay",
-          "url": "https://open.spotify.com/artist/3MNnSV5hDd2UzZzgqD8xlU"
-        }
-      ],
-      "duration_ms": 183720,
-      "name": "Cuenta (feat. Meryl & Shay)",
-      "url": "https://open.spotify.com/track/1JAigfQReciQ8yK8XikLEr"
-    },
-    {
-      "added_at": "2026-11-05 23:00:12",
-      "album": {
-        "name": "San Ou (Sans Toi)",
-        "url": "https://open.spotify.com/album/3gYtoYS6C7PAksbI9x5lUK"
-      },
-      "artists": [
-        {
-          "name": "DJ TFIISH",
-          "url": "https://open.spotify.com/artist/5BqbVPzkQxOSlCEGswwFyf"
-        },
-        {
-          "name": "Jahyanai",
-          "url": "https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8"
-        },
-        {
-          "name": "N'Ken",
-          "url": "https://open.spotify.com/artist/7CiDghduh4uqMn0zSkPx1p"
-        }
-      ],
-      "duration_ms": 135976,
-      "name": "San Ou (Sans Toi)",
-      "url": "https://open.spotify.com/track/5nqQ1vA6oDMK5xUjVXGlE3"
-    },
-    {
-      "added_at": "2026-11-05 23:00:12",
-      "album": {
-        "name": "Bad",
-        "url": "https://open.spotify.com/album/2hvDcEaSZpbkQuA4djiLcu"
-      },
-      "artists": [
-        {
-          "name": "Kima",
-          "url": "https://open.spotify.com/artist/0hp836fJ9Dleva1XuehHiS"
-        },
-        {
-          "name": "X-Man",
-          "url": "https://open.spotify.com/artist/4VYr2jD1AzhmEyT2L8xTg4"
-        }
-      ],
-      "duration_ms": 142000,
-      "name": "Bad",
-      "url": "https://open.spotify.com/track/31F6qHhydlh0c7lHs4DmQe"
-    },
-    {
-      "added_at": "2026-11-05 23:00:12",
-      "album": {
-        "name": "Buzzomane #\u00c7aPasse",
-        "url": "https://open.spotify.com/album/3Smn2A0YOKBzKzTCBek8AP"
-      },
-      "artists": [
-        {
-          "name": "Le J\u00e8m'ss",
-          "url": "https://open.spotify.com/artist/4jHxx44qWURhTlbw0Dmygp"
-        },
-        {
-          "name": "Natoxie",
-          "url": "https://open.spotify.com/artist/1Wqloe5S1i29Ff7YiWg0x5"
-        }
-      ],
-      "duration_ms": 117600,
-      "name": "Buzzomane #\u00c7aPasse",
-      "url": "https://open.spotify.com/track/7nL8cU9yNmluk8usSXGefo"
-    },
-    {
-      "added_at": "2026-11-05 23:00:12",
-      "album": {
-        "name": "Boss",
-        "url": "https://open.spotify.com/album/05rvHy2DwAcmER2H1udQV4"
-      },
-      "artists": [
-        {
-          "name": "Meryl",
-          "url": "https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA"
-        },
-        {
-          "name": "LeJuh",
-          "url": "https://open.spotify.com/artist/65UTbF7a4NYGfMAZwe279i"
-        }
-      ],
-      "duration_ms": 154049,
-      "name": "Boss",
-      "url": "https://open.spotify.com/track/0pz9Nm8wMv50rUffkzfwqD"
-    },
-    {
-      "added_at": "2026-11-05 23:00:12",
-      "album": {
-        "name": "Mamie",
-        "url": "https://open.spotify.com/album/3FxtSc65QFqATTFxC1RHB1"
-      },
-      "artists": [
-        {
-          "name": "LIANKY",
-          "url": "https://open.spotify.com/artist/7sFXoYRHKDhA5YvYvjM6HU"
-        }
-      ],
-      "duration_ms": 204535,
-      "name": "Mamie",
-      "url": "https://open.spotify.com/track/7rQ2oM7BVDAPaTQgiXhQ2g"
-    },
-    {
-      "added_at": "2026-11-05 23:00:12",
-      "album": {
-        "name": "Roll It",
-        "url": "https://open.spotify.com/album/1AmV1yWwuOrn38M5V5dKu9"
-      },
-      "artists": [
-        {
-          "name": "Rytikal",
-          "url": "https://open.spotify.com/artist/2XmUEusYfpe4UG5BJtRwgX"
-        },
-        {
-          "name": "Kybba",
-          "url": "https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA"
-        }
-      ],
-      "duration_ms": 130063,
-      "name": "Roll It",
-      "url": "https://open.spotify.com/track/7IJSbFW4h3G1t4v0W5QTTj"
-    },
-    {
-      "added_at": "2026-11-05 23:00:12",
-      "album": {
-        "name": "S\u00e9 Miimii",
-        "url": "https://open.spotify.com/album/6POEgRFXk9dDYxWvQW8To4"
-      },
-      "artists": [
-        {
-          "name": "Miimii KDS",
-          "url": "https://open.spotify.com/artist/0mpZpEH8VcL0tYoGLhR8sd"
-        },
-        {
-          "name": "DJ SKYCEE",
-          "url": "https://open.spotify.com/artist/2LhAINHQMEMY2qL0AyNHmv"
-        }
-      ],
-      "duration_ms": 121858,
-      "name": "S\u00e9 Miimii",
-      "url": "https://open.spotify.com/track/46BNhNbHZi98svu6pFwYVq"
-    },
-    {
-      "added_at": "2026-11-05 23:00:12",
-      "album": {
-        "name": "L'Argent des Z'Hommes",
-        "url": "https://open.spotify.com/album/0FAic1HUgSHrRK6GWlDyJf"
-      },
-      "artists": [
-        {
-          "name": "Lybro",
-          "url": "https://open.spotify.com/artist/3uiTnIx5N6ZWAPkPb8GFC9"
-        },
-        {
-          "name": "Mikado",
-          "url": "https://open.spotify.com/artist/41Csk4RHbXp1jnMN4NWwOE"
-        },
-        {
-          "name": "JD",
-          "url": "https://open.spotify.com/artist/0qcbI7oxRa27auD5l0dY57"
-        }
-      ],
-      "duration_ms": 160026,
-      "name": "L'Argent des Z'Hommes",
-      "url": "https://open.spotify.com/track/5hLwSwW6H41oblv7RQ7cik"
-    },
-    {
-      "added_at": "2026-11-05 23:00:12",
-      "album": {
-        "name": "NEW MODEL",
-        "url": "https://open.spotify.com/album/5SjCeKtfMXbM23AkkcbksY"
-      },
-      "artists": [
-        {
-          "name": "Mista",
-          "url": "https://open.spotify.com/artist/0Pcw3wCSeBbuBsnnh4Vlma"
-        }
-      ],
-      "duration_ms": 146956,
-      "name": "NEW MODEL",
-      "url": "https://open.spotify.com/track/1FBsD0wIN0lNHTuBbo3iSh"
-    },
-    {
-      "added_at": "2026-11-05 23:00:12",
+      "added_at": "2026-11-12 23:00:40",
       "album": {
         "name": "S\u00e9 Li #TopShatta",
         "url": "https://open.spotify.com/album/2U6li2uWEIupq3BP5aK95v"
@@ -301,23 +153,211 @@
       "url": "https://open.spotify.com/track/4ZUkPSVsjUlzHwWUhbKH8M"
     },
     {
-      "added_at": "2026-11-05 23:00:12",
+      "added_at": "2026-11-12 23:00:40",
       "album": {
-        "name": "Maloki",
-        "url": "https://open.spotify.com/album/2yFjyTazspuqJDsqUs6hPW"
+        "name": "Bobby",
+        "url": "https://open.spotify.com/album/7FGEDylp02UQgThormU2Kl"
       },
       "artists": [
         {
-          "name": "K-Rosif",
-          "url": "https://open.spotify.com/artist/5gFPNO9iQl6MI5vUawFGcV"
+          "name": "Lybro",
+          "url": "https://open.spotify.com/artist/3uiTnIx5N6ZWAPkPb8GFC9"
+        },
+        {
+          "name": "DJ Kawest",
+          "url": "https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA"
         }
       ],
-      "duration_ms": 141176,
-      "name": "Maloki",
-      "url": "https://open.spotify.com/track/1eAqsJFUaeLMgzD206nP5p"
+      "duration_ms": 124675,
+      "name": "Bobby",
+      "url": "https://open.spotify.com/track/2kuk910PZqPNCXFcVR78O2"
     },
     {
-      "added_at": "2026-11-05 23:00:12",
+      "added_at": "2026-11-12 23:00:40",
+      "album": {
+        "name": "S\u00e9 Miimii",
+        "url": "https://open.spotify.com/album/6POEgRFXk9dDYxWvQW8To4"
+      },
+      "artists": [
+        {
+          "name": "Miimii KDS",
+          "url": "https://open.spotify.com/artist/0mpZpEH8VcL0tYoGLhR8sd"
+        },
+        {
+          "name": "DJ SKYCEE",
+          "url": "https://open.spotify.com/artist/2LhAINHQMEMY2qL0AyNHmv"
+        }
+      ],
+      "duration_ms": 121858,
+      "name": "S\u00e9 Miimii",
+      "url": "https://open.spotify.com/track/46BNhNbHZi98svu6pFwYVq"
+    },
+    {
+      "added_at": "2026-11-12 23:00:40",
+      "album": {
+        "name": "kouf kouf",
+        "url": "https://open.spotify.com/album/1FOATNCZe0DPLfXN4uy3lh"
+      },
+      "artists": [
+        {
+          "name": "Danthology",
+          "url": "https://open.spotify.com/artist/6Rii9NJk3gtAOB1qnbTYPM"
+        },
+        {
+          "name": "Foxii",
+          "url": "https://open.spotify.com/artist/5nU3O7mV2w9OiOxQFzlHEv"
+        },
+        {
+          "name": "Mikado",
+          "url": "https://open.spotify.com/artist/41Csk4RHbXp1jnMN4NWwOE"
+        },
+        {
+          "name": "ZKM STUDIO",
+          "url": "https://open.spotify.com/artist/4G3bV5F6pi1HbG32l2Prwr"
+        }
+      ],
+      "duration_ms": 134460,
+      "name": "kouf kouf",
+      "url": "https://open.spotify.com/track/0rKSDmbzCJXXmWGDQXTIBR"
+    },
+    {
+      "added_at": "2026-11-12 23:00:40",
+      "album": {
+        "name": "Cuenta (feat. Meryl & Shay)",
+        "url": "https://open.spotify.com/album/3weZpGpJ469y9iAN7i7wXU"
+      },
+      "artists": [
+        {
+          "name": "Ronisia",
+          "url": "https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV"
+        },
+        {
+          "name": "Meryl",
+          "url": "https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA"
+        },
+        {
+          "name": "Shay",
+          "url": "https://open.spotify.com/artist/3MNnSV5hDd2UzZzgqD8xlU"
+        }
+      ],
+      "duration_ms": 183720,
+      "name": "Cuenta (feat. Meryl & Shay)",
+      "url": "https://open.spotify.com/track/1JAigfQReciQ8yK8XikLEr"
+    },
+    {
+      "added_at": "2026-11-12 23:00:40",
+      "album": {
+        "name": "Hold Up",
+        "url": "https://open.spotify.com/album/2M4tV0hDgK68qExR6CtXEK"
+      },
+      "artists": [
+        {
+          "name": "Yo Joshy",
+          "url": "https://open.spotify.com/artist/6nqbsvHdj0s0m3JVobStqm"
+        }
+      ],
+      "duration_ms": 106971,
+      "name": "Hold Up",
+      "url": "https://open.spotify.com/track/4QaH5AN60V9pRL3E5qM1RZ"
+    },
+    {
+      "added_at": "2026-11-12 23:00:40",
+      "album": {
+        "name": "Deyah",
+        "url": "https://open.spotify.com/album/1Ri2N5eENG9BPGnqpWTckm"
+      },
+      "artists": [
+        {
+          "name": "Chip",
+          "url": "https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT"
+        },
+        {
+          "name": "Mavado",
+          "url": "https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu"
+        },
+        {
+          "name": "Govana",
+          "url": "https://open.spotify.com/artist/5Xi3NfsVBIEbaWVUfBTy39"
+        },
+        {
+          "name": "Friends Only",
+          "url": "https://open.spotify.com/artist/0EF4AfflaI8N4XDajX10pA"
+        }
+      ],
+      "duration_ms": 235150,
+      "name": "Deyah",
+      "url": "https://open.spotify.com/track/70xQXhm7BKijW4MRvQtizM"
+    },
+    {
+      "added_at": "2026-11-12 23:00:40",
+      "album": {
+        "name": "San Ou (Sans Toi)",
+        "url": "https://open.spotify.com/album/3gYtoYS6C7PAksbI9x5lUK"
+      },
+      "artists": [
+        {
+          "name": "DJ TFIISH",
+          "url": "https://open.spotify.com/artist/5BqbVPzkQxOSlCEGswwFyf"
+        },
+        {
+          "name": "Jahyanai",
+          "url": "https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8"
+        },
+        {
+          "name": "N'Ken",
+          "url": "https://open.spotify.com/artist/7CiDghduh4uqMn0zSkPx1p"
+        }
+      ],
+      "duration_ms": 135976,
+      "name": "San Ou (Sans Toi)",
+      "url": "https://open.spotify.com/track/5nqQ1vA6oDMK5xUjVXGlE3"
+    },
+    {
+      "added_at": "2026-11-12 23:00:40",
+      "album": {
+        "name": "Buzzomane #\u00c7aPasse",
+        "url": "https://open.spotify.com/album/3Smn2A0YOKBzKzTCBek8AP"
+      },
+      "artists": [
+        {
+          "name": "Le J\u00e8m'ss",
+          "url": "https://open.spotify.com/artist/4jHxx44qWURhTlbw0Dmygp"
+        },
+        {
+          "name": "Natoxie",
+          "url": "https://open.spotify.com/artist/1Wqloe5S1i29Ff7YiWg0x5"
+        }
+      ],
+      "duration_ms": 117600,
+      "name": "Buzzomane #\u00c7aPasse",
+      "url": "https://open.spotify.com/track/7nL8cU9yNmluk8usSXGefo"
+    },
+    {
+      "added_at": "2026-11-12 23:00:40",
+      "album": {
+        "name": "Pow Pow / Allo Doudou",
+        "url": "https://open.spotify.com/album/5mnRbWynBTViMMW10m1nlB"
+      },
+      "artists": [
+        {
+          "name": "Niska",
+          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
+        },
+        {
+          "name": "litleboy lsbeats767",
+          "url": "https://open.spotify.com/artist/63eOPc8OECJcJQDoNrD4zY"
+        },
+        {
+          "name": "Miimii KDS",
+          "url": "https://open.spotify.com/artist/0mpZpEH8VcL0tYoGLhR8sd"
+        }
+      ],
+      "duration_ms": 219583,
+      "name": "Pow Pow / Allo Doudou",
+      "url": "https://open.spotify.com/track/4hTc2VnvYoOJwS8QXXhT0p"
+    },
+    {
+      "added_at": "2026-11-12 23:00:40",
       "album": {
         "name": "Y'A BLO",
         "url": "https://open.spotify.com/album/6sFyM6izpawV5ZL536dd1D"
@@ -337,67 +377,31 @@
       "url": "https://open.spotify.com/track/0kKrice1pNmJSOW8q5FnTx"
     },
     {
-      "added_at": "2026-11-05 23:00:12",
+      "added_at": "2026-11-12 23:00:40",
       "album": {
-        "name": "TRIPLE CHEESE",
-        "url": "https://open.spotify.com/album/4bsixOsEZBKxByDIPpwbzn"
+        "name": "L'Argent des Z'Hommes",
+        "url": "https://open.spotify.com/album/0FAic1HUgSHrRK6GWlDyJf"
       },
       "artists": [
         {
-          "name": "N'Dji",
-          "url": "https://open.spotify.com/artist/6pgmPrwPhaUCAVYxDvDr4I"
+          "name": "Lybro",
+          "url": "https://open.spotify.com/artist/3uiTnIx5N6ZWAPkPb8GFC9"
         },
         {
-          "name": "SMITH",
-          "url": "https://open.spotify.com/artist/2HsYKHZpnzUm2yimeGT8K1"
-        }
-      ],
-      "duration_ms": 171692,
-      "name": "Bsx bye",
-      "url": "https://open.spotify.com/track/6ip77MuGD8pRfI6k2mwQUx"
-    },
-    {
-      "added_at": "2026-11-05 23:00:12",
-      "album": {
-        "name": "On My Way",
-        "url": "https://open.spotify.com/album/1ELCS4YXEhBNBWwmtzcJHO"
-      },
-      "artists": [
-        {
-          "name": "Dcamp",
-          "url": "https://open.spotify.com/artist/0EBLKsDlJJByOW4vjFJ9bw"
+          "name": "Mikado",
+          "url": "https://open.spotify.com/artist/41Csk4RHbXp1jnMN4NWwOE"
         },
         {
-          "name": "Lewismelo",
-          "url": "https://open.spotify.com/artist/256KfGVTWcYVULdfl97En2"
+          "name": "JD",
+          "url": "https://open.spotify.com/artist/0qcbI7oxRa27auD5l0dY57"
         }
       ],
-      "duration_ms": 138000,
-      "name": "On My Way",
-      "url": "https://open.spotify.com/track/1KrMdTVNMybjSGwNbqEUQU"
+      "duration_ms": 160026,
+      "name": "L'Argent des Z'Hommes",
+      "url": "https://open.spotify.com/track/5hLwSwW6H41oblv7RQ7cik"
     },
     {
-      "added_at": "2026-11-05 23:00:12",
-      "album": {
-        "name": "Vou \u00e9 Mwen",
-        "url": "https://open.spotify.com/album/5QzhYnY3VVBYp77hkjxqhh"
-      },
-      "artists": [
-        {
-          "name": "Lov'nee",
-          "url": "https://open.spotify.com/artist/2XHk8hsNkttV09BnFR7rTG"
-        },
-        {
-          "name": "DJ Jyz",
-          "url": "https://open.spotify.com/artist/7HMdFIeGnqwPKBRgpJF3gI"
-        }
-      ],
-      "duration_ms": 138461,
-      "name": "Vou \u00e9 Mwen",
-      "url": "https://open.spotify.com/track/0bml9zujCemaVXWXpcQdHc"
-    },
-    {
-      "added_at": "2026-11-05 23:00:12",
+      "added_at": "2026-11-12 23:00:40",
       "album": {
         "name": "M\u00e8m si (Doudou)",
         "url": "https://open.spotify.com/album/15JqPPc93sMs9mwiOes3vq"
@@ -425,27 +429,7 @@
       "url": "https://open.spotify.com/track/6b17tacwa5AMfcKtsW6LUu"
     },
     {
-      "added_at": "2026-11-05 23:00:12",
-      "album": {
-        "name": "Dtak",
-        "url": "https://open.spotify.com/album/2e09tmwuzBlWVOSYPbWbrw"
-      },
-      "artists": [
-        {
-          "name": "SUEILO",
-          "url": "https://open.spotify.com/artist/3MeK3kaFCmsYOIcWjjXpbO"
-        },
-        {
-          "name": "Surprise Beats",
-          "url": "https://open.spotify.com/artist/6uIDtppgYgCTxfbT9CFTQZ"
-        }
-      ],
-      "duration_ms": 117338,
-      "name": "Dtak",
-      "url": "https://open.spotify.com/track/5rYnxvKYP9mxesHFurbdSn"
-    },
-    {
-      "added_at": "2026-11-05 23:00:12",
+      "added_at": "2026-11-12 23:00:40",
       "album": {
         "name": "Calm Down",
         "url": "https://open.spotify.com/album/6q6W3kWzrqtONPTxaAywA8"
@@ -461,7 +445,67 @@
       "url": "https://open.spotify.com/track/2UdRd4zYVw9PW85zlzPjB6"
     },
     {
-      "added_at": "2026-11-05 23:00:12",
+      "added_at": "2026-11-12 23:00:40",
+      "album": {
+        "name": "TONIGHT",
+        "url": "https://open.spotify.com/album/1OTfJFoGv5Rl6O67eiN6M0"
+      },
+      "artists": [
+        {
+          "name": "TKS 2G",
+          "url": "https://open.spotify.com/artist/26ZKmgHKJWQdnSKUZCVEKa"
+        },
+        {
+          "name": "DJ Kawest",
+          "url": "https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA"
+        }
+      ],
+      "duration_ms": 148195,
+      "name": "La Mousse",
+      "url": "https://open.spotify.com/track/3NvfdGkCGLjsaHiuIDdLfP"
+    },
+    {
+      "added_at": "2026-11-12 23:00:40",
+      "album": {
+        "name": "Hit the Road Jack",
+        "url": "https://open.spotify.com/album/5OHUjo2JLl0xRZZ8DdT45A"
+      },
+      "artists": [
+        {
+          "name": "Limitlezz",
+          "url": "https://open.spotify.com/artist/4ufyMlueg4tz0JcKNQFHCz"
+        },
+        {
+          "name": "General Love",
+          "url": "https://open.spotify.com/artist/1WAlq8XEubGcpfKjE1e7za"
+        }
+      ],
+      "duration_ms": 139000,
+      "name": "Hit the Road Jack",
+      "url": "https://open.spotify.com/track/5YkDNoRPQyHDrCgT2SSjL0"
+    },
+    {
+      "added_at": "2026-11-12 23:00:40",
+      "album": {
+        "name": "Roll It",
+        "url": "https://open.spotify.com/album/1AmV1yWwuOrn38M5V5dKu9"
+      },
+      "artists": [
+        {
+          "name": "Rytikal",
+          "url": "https://open.spotify.com/artist/2XmUEusYfpe4UG5BJtRwgX"
+        },
+        {
+          "name": "Kybba",
+          "url": "https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA"
+        }
+      ],
+      "duration_ms": 130063,
+      "name": "Roll It",
+      "url": "https://open.spotify.com/track/7IJSbFW4h3G1t4v0W5QTTj"
+    },
+    {
+      "added_at": "2026-11-12 23:00:40",
       "album": {
         "name": "C\u00e9libataire",
         "url": "https://open.spotify.com/album/35kVjxpSOb4h6lFnYcl09P"
@@ -485,47 +529,7 @@
       "url": "https://open.spotify.com/track/2S6hJyLjUPaA113Wu5uRST"
     },
     {
-      "added_at": "2026-11-05 23:00:12",
-      "album": {
-        "name": "OKAY",
-        "url": "https://open.spotify.com/album/525aSPuTD0jNZk6HjxNtad"
-      },
-      "artists": [
-        {
-          "name": "Blaiz Fayah",
-          "url": "https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7"
-        },
-        {
-          "name": "Gyzmo",
-          "url": "https://open.spotify.com/artist/3YLQYvd1uOBKqbJ1SSwXf7"
-        }
-      ],
-      "duration_ms": 122602,
-      "name": "OKAY",
-      "url": "https://open.spotify.com/track/5bmKmeYgXR62OKOQvAGquD"
-    },
-    {
-      "added_at": "2026-11-05 23:00:12",
-      "album": {
-        "name": "Hit the Road Jack",
-        "url": "https://open.spotify.com/album/5OHUjo2JLl0xRZZ8DdT45A"
-      },
-      "artists": [
-        {
-          "name": "Limitlezz",
-          "url": "https://open.spotify.com/artist/4ufyMlueg4tz0JcKNQFHCz"
-        },
-        {
-          "name": "General Love",
-          "url": "https://open.spotify.com/artist/1WAlq8XEubGcpfKjE1e7za"
-        }
-      ],
-      "duration_ms": 139000,
-      "name": "Hit the Road Jack",
-      "url": "https://open.spotify.com/track/5YkDNoRPQyHDrCgT2SSjL0"
-    },
-    {
-      "added_at": "2026-11-05 23:00:12",
+      "added_at": "2026-11-12 23:00:40",
       "album": {
         "name": "Boom Body (feat. Akon & Aidonia) [Shaz Remix]",
         "url": "https://open.spotify.com/album/1cbcQuTr4lgZtBu1lhd4J8"
@@ -553,7 +557,79 @@
       "url": "https://open.spotify.com/track/56WqzVe7x1bY3QTYZ1oMqh"
     },
     {
-      "added_at": "2026-11-05 23:00:12",
+      "added_at": "2026-11-12 23:00:40",
+      "album": {
+        "name": "Dtak",
+        "url": "https://open.spotify.com/album/2e09tmwuzBlWVOSYPbWbrw"
+      },
+      "artists": [
+        {
+          "name": "SUEILO",
+          "url": "https://open.spotify.com/artist/3MeK3kaFCmsYOIcWjjXpbO"
+        },
+        {
+          "name": "Surprise Beats",
+          "url": "https://open.spotify.com/artist/6uIDtppgYgCTxfbT9CFTQZ"
+        }
+      ],
+      "duration_ms": 117338,
+      "name": "Dtak",
+      "url": "https://open.spotify.com/track/5rYnxvKYP9mxesHFurbdSn"
+    },
+    {
+      "added_at": "2026-11-12 23:00:40",
+      "album": {
+        "name": "OKAY",
+        "url": "https://open.spotify.com/album/525aSPuTD0jNZk6HjxNtad"
+      },
+      "artists": [
+        {
+          "name": "Blaiz Fayah",
+          "url": "https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7"
+        },
+        {
+          "name": "Gyzmo",
+          "url": "https://open.spotify.com/artist/3YLQYvd1uOBKqbJ1SSwXf7"
+        }
+      ],
+      "duration_ms": 122602,
+      "name": "OKAY",
+      "url": "https://open.spotify.com/track/5bmKmeYgXR62OKOQvAGquD"
+    },
+    {
+      "added_at": "2026-11-12 23:00:40",
+      "album": {
+        "name": "Need Drugs",
+        "url": "https://open.spotify.com/album/6p60V1BcSBw3Ye09BLh4yl"
+      },
+      "artists": [
+        {
+          "name": "Byron Messia",
+          "url": "https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv"
+        }
+      ],
+      "duration_ms": 106687,
+      "name": "Need Drugs",
+      "url": "https://open.spotify.com/track/78xmSco9xgb23a9esA6KpK"
+    },
+    {
+      "added_at": "2026-11-12 23:00:40",
+      "album": {
+        "name": "Nous on a vraiment boss\u00e9 beaucoup",
+        "url": "https://open.spotify.com/album/0NIwMQ0x4AawbwMhba3DLZ"
+      },
+      "artists": [
+        {
+          "name": "Meryl",
+          "url": "https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "Nous on a vraiment boss\u00e9 beaucoup",
+      "url": "https://open.spotify.com/track/6vxx7W2zwPCqW1OyROxev5"
+    },
+    {
+      "added_at": "2026-11-12 23:00:40",
       "album": {
         "name": "Vitamine G",
         "url": "https://open.spotify.com/album/4vTPFcwBgDMIFr8Wyi83aD"
@@ -569,51 +645,79 @@
       "url": "https://open.spotify.com/track/7GlY1cM2G0neO5ZmevG6IT"
     },
     {
-      "added_at": "2026-11-05 23:00:12",
+      "added_at": "2026-11-12 23:00:40",
       "album": {
-        "name": "Hold Up",
-        "url": "https://open.spotify.com/album/2M4tV0hDgK68qExR6CtXEK"
+        "name": "COMME MOI",
+        "url": "https://open.spotify.com/album/3pDU6WwxDraKJNE9sDZDJa"
       },
       "artists": [
         {
-          "name": "Yo Joshy",
-          "url": "https://open.spotify.com/artist/6nqbsvHdj0s0m3JVobStqm"
+          "name": "Shannon",
+          "url": "https://open.spotify.com/artist/0n0XMIJ9TmRlxUjWTEUwoH"
+        },
+        {
+          "name": "N'Ken",
+          "url": "https://open.spotify.com/artist/7CiDghduh4uqMn0zSkPx1p"
         }
       ],
-      "duration_ms": 106971,
-      "name": "Hold Up",
-      "url": "https://open.spotify.com/track/4QaH5AN60V9pRL3E5qM1RZ"
+      "duration_ms": 167966,
+      "name": "COMME MOI",
+      "url": "https://open.spotify.com/track/6R8ZtjLansGD3zgpI1YnFO"
     },
     {
-      "added_at": "2026-11-05 23:00:12",
+      "added_at": "2026-11-12 23:00:40",
       "album": {
-        "name": "Feu",
-        "url": "https://open.spotify.com/album/1FnIDdW8Sb9FnBZ0ikK44C"
+        "name": "6 o'clock",
+        "url": "https://open.spotify.com/album/06kz3NAyivvlbizvcVtAxF"
       },
       "artists": [
         {
-          "name": "DJ Tutuss",
-          "url": "https://open.spotify.com/artist/2SkBnjiSVe0sC24id8iuWv"
-        },
-        {
-          "name": "Maurane Voyer",
-          "url": "https://open.spotify.com/artist/6Lm6gwG8tJd3cvUL9he351"
-        },
-        {
-          "name": "Bad Bitch",
-          "url": "https://open.spotify.com/artist/1A3jbVbNlPAUG7C5CVN4sH"
-        },
-        {
-          "name": "Mikado",
-          "url": "https://open.spotify.com/artist/41Csk4RHbXp1jnMN4NWwOE"
+          "name": "Miimii KDS",
+          "url": "https://open.spotify.com/artist/0mpZpEH8VcL0tYoGLhR8sd"
         }
       ],
-      "duration_ms": 175138,
-      "name": "Feu",
-      "url": "https://open.spotify.com/track/2lqfdziYVBZpL9HQNmBvID"
+      "duration_ms": 124586,
+      "name": "6 o'clock",
+      "url": "https://open.spotify.com/track/7gt68ukLRTbKf9RXA3dKcP"
     },
     {
-      "added_at": "2026-11-05 23:00:12",
+      "added_at": "2026-11-12 23:00:40",
+      "album": {
+        "name": "Elastic Girl",
+        "url": "https://open.spotify.com/album/7sdjkMVIO9J6jCoKRZXK0m"
+      },
+      "artists": [
+        {
+          "name": "1T1",
+          "url": "https://open.spotify.com/artist/29DEO5ubNTmLbFSEZDP2we"
+        },
+        {
+          "name": "Aknose",
+          "url": "https://open.spotify.com/artist/1Lqc2Oqyciyq6uvTSNHlwg"
+        }
+      ],
+      "duration_ms": 134987,
+      "name": "Elastic Girl",
+      "url": "https://open.spotify.com/track/05QhrCScAoHiQ3JzSELoBu"
+    },
+    {
+      "added_at": "2026-11-12 23:00:40",
+      "album": {
+        "name": "Paname",
+        "url": "https://open.spotify.com/album/1t5ImKShntckUElyYNcryD"
+      },
+      "artists": [
+        {
+          "name": "Jahlys",
+          "url": "https://open.spotify.com/artist/4AcFhqecUgQOUNmdcdngEq"
+        }
+      ],
+      "duration_ms": 187200,
+      "name": "Paname",
+      "url": "https://open.spotify.com/track/4A1EGyrbGBMrvmfzWsjZAy"
+    },
+    {
+      "added_at": "2026-11-12 23:00:40",
       "album": {
         "name": "VIENS",
         "url": "https://open.spotify.com/album/2yIA1VILvndwa5FIix5XSo"
@@ -633,7 +737,63 @@
       "url": "https://open.spotify.com/track/1okXkMZoG6Pg8tUQFDinZM"
     },
     {
-      "added_at": "2026-11-05 23:00:12",
+      "added_at": "2026-11-12 23:00:40",
+      "album": {
+        "name": "MALAXA",
+        "url": "https://open.spotify.com/album/3Ro8DXhVXPW7zckAl2vu34"
+      },
+      "artists": [
+        {
+          "name": "SMITH",
+          "url": "https://open.spotify.com/artist/2HsYKHZpnzUm2yimeGT8K1"
+        },
+        {
+          "name": "TMX Official",
+          "url": "https://open.spotify.com/artist/7zcM3eRHnnZ8QIp5aonNw5"
+        }
+      ],
+      "duration_ms": 142741,
+      "name": "MALAXA",
+      "url": "https://open.spotify.com/track/6dhsiD7MHlBR2JNbC76NoV"
+    },
+    {
+      "added_at": "2026-11-12 23:00:40",
+      "album": {
+        "name": "TRIPLE CHEESE",
+        "url": "https://open.spotify.com/album/4bsixOsEZBKxByDIPpwbzn"
+      },
+      "artists": [
+        {
+          "name": "N'Dji",
+          "url": "https://open.spotify.com/artist/6pgmPrwPhaUCAVYxDvDr4I"
+        },
+        {
+          "name": "SMITH",
+          "url": "https://open.spotify.com/artist/2HsYKHZpnzUm2yimeGT8K1"
+        }
+      ],
+      "duration_ms": 171692,
+      "name": "Bsx bye",
+      "url": "https://open.spotify.com/track/6ip77MuGD8pRfI6k2mwQUx"
+    },
+    {
+      "added_at": "2026-11-12 23:00:40",
+      "album": {
+        "name": "Mamie",
+        "url": "https://open.spotify.com/album/3FxtSc65QFqATTFxC1RHB1"
+      },
+      "artists": [
+        {
+          "name": "LIANKY",
+          "url": "https://open.spotify.com/artist/7sFXoYRHKDhA5YvYvjM6HU"
+        }
+      ],
+      "duration_ms": 204535,
+      "name": "Mamie",
+      "url": "https://open.spotify.com/track/7rQ2oM7BVDAPaTQgiXhQ2g"
+    },
+    {
+      "added_at": "2026-11-12 23:00:40",
       "album": {
         "name": "Fi the Streets",
         "url": "https://open.spotify.com/album/3WcZEEp5N1WZbJ4plpkme1"
@@ -657,23 +817,7 @@
       "url": "https://open.spotify.com/track/56apfKWX9C2l8mQBdzQzH8"
     },
     {
-      "added_at": "2026-11-05 23:00:12",
-      "album": {
-        "name": "Nous on a vraiment boss\u00e9 beaucoup",
-        "url": "https://open.spotify.com/album/0NIwMQ0x4AawbwMhba3DLZ"
-      },
-      "artists": [
-        {
-          "name": "Meryl",
-          "url": "https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "Nous on a vraiment boss\u00e9 beaucoup",
-      "url": "https://open.spotify.com/track/6vxx7W2zwPCqW1OyROxev5"
-    },
-    {
-      "added_at": "2026-11-05 23:00:12",
+      "added_at": "2026-11-12 23:00:40",
       "album": {
         "name": "Top Gyal",
         "url": "https://open.spotify.com/album/4bRYhOTS9OML8kddqaY3qu"
@@ -693,243 +837,27 @@
       "url": "https://open.spotify.com/track/3CRKZMLSyDoahClvIWnsRE"
     },
     {
-      "added_at": "2026-11-05 23:00:12",
+      "added_at": "2026-11-12 23:00:40",
       "album": {
-        "name": "COMME MOI",
-        "url": "https://open.spotify.com/album/3pDU6WwxDraKJNE9sDZDJa"
+        "name": "Vou \u00e9 Mwen",
+        "url": "https://open.spotify.com/album/5QzhYnY3VVBYp77hkjxqhh"
       },
       "artists": [
         {
-          "name": "Shannon",
-          "url": "https://open.spotify.com/artist/0n0XMIJ9TmRlxUjWTEUwoH"
+          "name": "Lov'nee",
+          "url": "https://open.spotify.com/artist/2XHk8hsNkttV09BnFR7rTG"
         },
         {
-          "name": "N'Ken",
-          "url": "https://open.spotify.com/artist/7CiDghduh4uqMn0zSkPx1p"
+          "name": "DJ Jyz",
+          "url": "https://open.spotify.com/artist/7HMdFIeGnqwPKBRgpJF3gI"
         }
       ],
-      "duration_ms": 167966,
-      "name": "COMME MOI",
-      "url": "https://open.spotify.com/track/6R8ZtjLansGD3zgpI1YnFO"
+      "duration_ms": 138461,
+      "name": "Vou \u00e9 Mwen",
+      "url": "https://open.spotify.com/track/0bml9zujCemaVXWXpcQdHc"
     },
     {
-      "added_at": "2026-11-05 23:00:12",
-      "album": {
-        "name": "TONIGHT",
-        "url": "https://open.spotify.com/album/1OTfJFoGv5Rl6O67eiN6M0"
-      },
-      "artists": [
-        {
-          "name": "TKS 2G",
-          "url": "https://open.spotify.com/artist/26ZKmgHKJWQdnSKUZCVEKa"
-        },
-        {
-          "name": "Le J\u00e8m'ss",
-          "url": "https://open.spotify.com/artist/4jHxx44qWURhTlbw0Dmygp"
-        },
-        {
-          "name": "Mikado",
-          "url": "https://open.spotify.com/artist/41Csk4RHbXp1jnMN4NWwOE"
-        }
-      ],
-      "duration_ms": 157714,
-      "name": "Coucou",
-      "url": "https://open.spotify.com/track/1L0CatzBS8mUWrUPs5yL2n"
-    },
-    {
-      "added_at": "2026-11-05 23:00:12",
-      "album": {
-        "name": "6 o'clock",
-        "url": "https://open.spotify.com/album/06kz3NAyivvlbizvcVtAxF"
-      },
-      "artists": [
-        {
-          "name": "Miimii KDS",
-          "url": "https://open.spotify.com/artist/0mpZpEH8VcL0tYoGLhR8sd"
-        }
-      ],
-      "duration_ms": 124586,
-      "name": "6 o'clock",
-      "url": "https://open.spotify.com/track/7gt68ukLRTbKf9RXA3dKcP"
-    },
-    {
-      "added_at": "2026-11-05 23:00:12",
-      "album": {
-        "name": "Need Drugs",
-        "url": "https://open.spotify.com/album/6p60V1BcSBw3Ye09BLh4yl"
-      },
-      "artists": [
-        {
-          "name": "Byron Messia",
-          "url": "https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv"
-        }
-      ],
-      "duration_ms": 106687,
-      "name": "Need Drugs",
-      "url": "https://open.spotify.com/track/78xmSco9xgb23a9esA6KpK"
-    },
-    {
-      "added_at": "2026-11-05 23:00:12",
-      "album": {
-        "name": "Elastic Girl",
-        "url": "https://open.spotify.com/album/7sdjkMVIO9J6jCoKRZXK0m"
-      },
-      "artists": [
-        {
-          "name": "1T1",
-          "url": "https://open.spotify.com/artist/29DEO5ubNTmLbFSEZDP2we"
-        },
-        {
-          "name": "Aknose",
-          "url": "https://open.spotify.com/artist/1Lqc2Oqyciyq6uvTSNHlwg"
-        }
-      ],
-      "duration_ms": 134987,
-      "name": "Elastic Girl",
-      "url": "https://open.spotify.com/track/05QhrCScAoHiQ3JzSELoBu"
-    },
-    {
-      "added_at": "2026-11-05 23:00:12",
-      "album": {
-        "name": "L\u00c9BON",
-        "url": "https://open.spotify.com/album/7icNs422qs6k5EnVssSmQF"
-      },
-      "artists": [
-        {
-          "name": "K-RIM",
-          "url": "https://open.spotify.com/artist/0II10Pn1LNFArIGqlxWrIm"
-        },
-        {
-          "name": "TMX Official",
-          "url": "https://open.spotify.com/artist/7zcM3eRHnnZ8QIp5aonNw5"
-        }
-      ],
-      "duration_ms": 130765,
-      "name": "L\u00c9BON",
-      "url": "https://open.spotify.com/track/0tg0z3JuffdFUg4xxzatCd"
-    },
-    {
-      "added_at": "2026-11-05 23:00:12",
-      "album": {
-        "name": "Caribbean Love",
-        "url": "https://open.spotify.com/album/2kNWksd7l10GMYdq3vSRzX"
-      },
-      "artists": [
-        {
-          "name": "DJ SKYCEE",
-          "url": "https://open.spotify.com/artist/2LhAINHQMEMY2qL0AyNHmv"
-        },
-        {
-          "name": "Kima",
-          "url": "https://open.spotify.com/artist/0hp836fJ9Dleva1XuehHiS"
-        }
-      ],
-      "duration_ms": 174485,
-      "name": "Caribbean Love",
-      "url": "https://open.spotify.com/track/2HcGkyRBSIgfD7K2eciidI"
-    },
-    {
-      "added_at": "2026-11-05 23:00:12",
-      "album": {
-        "name": "Pic Nic",
-        "url": "https://open.spotify.com/album/7qTCW6UR4qQOXw5taoXt72"
-      },
-      "artists": [
-        {
-          "name": "La Folie",
-          "url": "https://open.spotify.com/artist/1a0V1vMdLVOZguN8iSJHoc"
-        },
-        {
-          "name": "Says'z",
-          "url": "https://open.spotify.com/artist/2vCOfKQ7WFyWmuHbTz7OgG"
-        }
-      ],
-      "duration_ms": 128888,
-      "name": "Pic Nic",
-      "url": "https://open.spotify.com/track/3U0raa0SkGYDl7C3uLIGJw"
-    },
-    {
-      "added_at": "2026-11-05 23:00:12",
-      "album": {
-        "name": "MALAXA",
-        "url": "https://open.spotify.com/album/3Ro8DXhVXPW7zckAl2vu34"
-      },
-      "artists": [
-        {
-          "name": "SMITH",
-          "url": "https://open.spotify.com/artist/2HsYKHZpnzUm2yimeGT8K1"
-        },
-        {
-          "name": "TMX Official",
-          "url": "https://open.spotify.com/artist/7zcM3eRHnnZ8QIp5aonNw5"
-        }
-      ],
-      "duration_ms": 142741,
-      "name": "MALAXA",
-      "url": "https://open.spotify.com/track/6dhsiD7MHlBR2JNbC76NoV"
-    },
-    {
-      "added_at": "2026-11-05 23:00:12",
-      "album": {
-        "name": "TONIGHT",
-        "url": "https://open.spotify.com/album/1OTfJFoGv5Rl6O67eiN6M0"
-      },
-      "artists": [
-        {
-          "name": "TKS 2G",
-          "url": "https://open.spotify.com/artist/26ZKmgHKJWQdnSKUZCVEKa"
-        },
-        {
-          "name": "DJ Kawest",
-          "url": "https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA"
-        }
-      ],
-      "duration_ms": 148195,
-      "name": "La Mousse",
-      "url": "https://open.spotify.com/track/3NvfdGkCGLjsaHiuIDdLfP"
-    },
-    {
-      "added_at": "2026-11-05 23:00:12",
-      "album": {
-        "name": "PSY",
-        "url": "https://open.spotify.com/album/5tqMm59NxAHrLOZsdzXdGS"
-      },
-      "artists": [
-        {
-          "name": "ZOE LUCY",
-          "url": "https://open.spotify.com/artist/0fi0UZMwNy8fGhjvcnnuD2"
-        },
-        {
-          "name": "Sansand",
-          "url": "https://open.spotify.com/artist/0MJlQlTR7mSGW1mmwm94PZ"
-        }
-      ],
-      "duration_ms": 163436,
-      "name": "PSY",
-      "url": "https://open.spotify.com/track/6zeJ4cgidkzSEieyvm5FSv"
-    },
-    {
-      "added_at": "2026-11-05 23:00:12",
-      "album": {
-        "name": "R\u00e9seau",
-        "url": "https://open.spotify.com/album/745BtLan6ihiSKg5G5xgoW"
-      },
-      "artists": [
-        {
-          "name": "T-Jy",
-          "url": "https://open.spotify.com/artist/28YuYWLmKm0vl1gb5cUIta"
-        },
-        {
-          "name": "Yanishi",
-          "url": "https://open.spotify.com/artist/2XngitiMW1vEd1VL0CQg2x"
-        }
-      ],
-      "duration_ms": 159502,
-      "name": "R\u00e9seau",
-      "url": "https://open.spotify.com/track/6f69A5FrV3I7FIeAH1x7CN"
-    },
-    {
-      "added_at": "2026-11-05 23:00:12",
+      "added_at": "2026-11-12 23:00:40",
       "album": {
         "name": "A perp\u00e8te",
         "url": "https://open.spotify.com/album/6SAohYMatBBztLtHCVsMpt"
@@ -949,23 +877,119 @@
       "url": "https://open.spotify.com/track/4gvE7TsnkdTMM59jJp3opF"
     },
     {
-      "added_at": "2026-11-05 23:00:12",
+      "added_at": "2026-11-12 23:00:40",
       "album": {
-        "name": "Paname",
-        "url": "https://open.spotify.com/album/1t5ImKShntckUElyYNcryD"
+        "name": "L\u00c9BON",
+        "url": "https://open.spotify.com/album/7icNs422qs6k5EnVssSmQF"
       },
       "artists": [
         {
-          "name": "Jahlys",
-          "url": "https://open.spotify.com/artist/4AcFhqecUgQOUNmdcdngEq"
+          "name": "K-RIM",
+          "url": "https://open.spotify.com/artist/0II10Pn1LNFArIGqlxWrIm"
+        },
+        {
+          "name": "TMX Official",
+          "url": "https://open.spotify.com/artist/7zcM3eRHnnZ8QIp5aonNw5"
         }
       ],
-      "duration_ms": 187200,
-      "name": "Paname",
-      "url": "https://open.spotify.com/track/4A1EGyrbGBMrvmfzWsjZAy"
+      "duration_ms": 130765,
+      "name": "L\u00c9BON",
+      "url": "https://open.spotify.com/track/0tg0z3JuffdFUg4xxzatCd"
     },
     {
-      "added_at": "2026-11-05 23:00:12",
+      "added_at": "2026-11-12 23:00:40",
+      "album": {
+        "name": "Caribbean Love",
+        "url": "https://open.spotify.com/album/2kNWksd7l10GMYdq3vSRzX"
+      },
+      "artists": [
+        {
+          "name": "DJ SKYCEE",
+          "url": "https://open.spotify.com/artist/2LhAINHQMEMY2qL0AyNHmv"
+        },
+        {
+          "name": "Kima",
+          "url": "https://open.spotify.com/artist/0hp836fJ9Dleva1XuehHiS"
+        }
+      ],
+      "duration_ms": 174485,
+      "name": "Caribbean Love",
+      "url": "https://open.spotify.com/track/2HcGkyRBSIgfD7K2eciidI"
+    },
+    {
+      "added_at": "2026-11-12 23:00:40",
+      "album": {
+        "name": "NEW MODEL",
+        "url": "https://open.spotify.com/album/5SjCeKtfMXbM23AkkcbksY"
+      },
+      "artists": [
+        {
+          "name": "Mista",
+          "url": "https://open.spotify.com/artist/0Pcw3wCSeBbuBsnnh4Vlma"
+        }
+      ],
+      "duration_ms": 146956,
+      "name": "NEW MODEL",
+      "url": "https://open.spotify.com/track/1FBsD0wIN0lNHTuBbo3iSh"
+    },
+    {
+      "added_at": "2026-11-12 23:00:40",
+      "album": {
+        "name": "PSY",
+        "url": "https://open.spotify.com/album/5tqMm59NxAHrLOZsdzXdGS"
+      },
+      "artists": [
+        {
+          "name": "ZOE LUCY",
+          "url": "https://open.spotify.com/artist/0fi0UZMwNy8fGhjvcnnuD2"
+        },
+        {
+          "name": "Sansand",
+          "url": "https://open.spotify.com/artist/0MJlQlTR7mSGW1mmwm94PZ"
+        }
+      ],
+      "duration_ms": 163436,
+      "name": "PSY",
+      "url": "https://open.spotify.com/track/6zeJ4cgidkzSEieyvm5FSv"
+    },
+    {
+      "added_at": "2026-11-12 23:00:40",
+      "album": {
+        "name": "Maloki",
+        "url": "https://open.spotify.com/album/2yFjyTazspuqJDsqUs6hPW"
+      },
+      "artists": [
+        {
+          "name": "K-Rosif",
+          "url": "https://open.spotify.com/artist/5gFPNO9iQl6MI5vUawFGcV"
+        }
+      ],
+      "duration_ms": 141176,
+      "name": "Maloki",
+      "url": "https://open.spotify.com/track/1eAqsJFUaeLMgzD206nP5p"
+    },
+    {
+      "added_at": "2026-11-12 23:00:40",
+      "album": {
+        "name": "R\u00e9seau",
+        "url": "https://open.spotify.com/album/745BtLan6ihiSKg5G5xgoW"
+      },
+      "artists": [
+        {
+          "name": "T-Jy",
+          "url": "https://open.spotify.com/artist/28YuYWLmKm0vl1gb5cUIta"
+        },
+        {
+          "name": "Yanishi",
+          "url": "https://open.spotify.com/artist/2XngitiMW1vEd1VL0CQg2x"
+        }
+      ],
+      "duration_ms": 159502,
+      "name": "R\u00e9seau",
+      "url": "https://open.spotify.com/track/6f69A5FrV3I7FIeAH1x7CN"
+    },
+    {
+      "added_at": "2026-11-12 23:00:40",
       "album": {
         "name": "Indeh",
         "url": "https://open.spotify.com/album/3K0cOOIjPDX6D7gTPHlvZn"
@@ -981,27 +1005,7 @@
       "url": "https://open.spotify.com/track/1YOtFAB7pRU1vx0MzhYiti"
     },
     {
-      "added_at": "2026-11-05 23:00:12",
-      "album": {
-        "name": "B\u00eate et m\u00e9chant",
-        "url": "https://open.spotify.com/album/6DIGyM5J1SFTmJr5aNtn7F"
-      },
-      "artists": [
-        {
-          "name": "Dj Harmelo",
-          "url": "https://open.spotify.com/artist/4wKLOPNb8KJSQyREzT093C"
-        },
-        {
-          "name": "T-Jy",
-          "url": "https://open.spotify.com/artist/28YuYWLmKm0vl1gb5cUIta"
-        }
-      ],
-      "duration_ms": 169411,
-      "name": "B\u00eate et m\u00e9chant",
-      "url": "https://open.spotify.com/track/272TYAbiKBSO0UxHtym1C8"
-    },
-    {
-      "added_at": "2026-11-05 23:00:12",
+      "added_at": "2026-11-12 23:00:40",
       "album": {
         "name": "Asi cash",
         "url": "https://open.spotify.com/album/2gpq7RnLa2AgVS71fEGWra"

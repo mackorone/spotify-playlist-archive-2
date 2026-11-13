@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkosMCdlEHA.md) - [plain]
 
 > Versões desplugadas para curtir um reggae com os pés na areia!
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,516 likes - 75 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,528 likes - 75 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,12 +27,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkosMCdlEHA.md) - [plain]
 | 17 | [Reggae do Manero \- Ao Vivo \| Acústico](https://open.spotify.com/track/0VaMFkBz3QsRAuaek4jYR5) | [Raimundos](https://open.spotify.com/artist/3CfJckVRuukdJSvK3r89yJ) | [Acústico \- Ao Vivo](https://open.spotify.com/album/2DMlDuUYFSjOyEDDL86yia) | 5:25 |
 | 18 | [Uma onda que passou \(E eu não dropei\) \- Ao vivo](https://open.spotify.com/track/5hmTjMenODKpZuE5c4XzCy) | [Tribo De Jah](https://open.spotify.com/artist/6oAqyhJILwJf9S3Of2zTuv) | [15 Anos \(Ao vivo\)](https://open.spotify.com/album/1XRXhmwnkbjh8voQ5rIn0L) | 3:29 |
 | 19 | [Uma Brasileira \- Ao Vivo](https://open.spotify.com/track/7uHsVx7EDLLSuERDVBGcXC) | [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb), [Carlinhos Brown](https://open.spotify.com/artist/5jvQoouPSDvUEwynz5KPpv) | [Uma Brasileira \(Ao Vivo\)](https://open.spotify.com/album/3siyY9J8CgcVlVOkYXgWf6) | 4:10 |
-| 20 | [A Sombra da Maldade \(Acústico\)](https://open.spotify.com/track/6oGsJnSlJdGQ6Rir5YHS8c) | [Cidade Negra](https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ) | [Acústico Cidade Negra](https://open.spotify.com/album/2p9ayxfFobzpbtnF8mJyUL) | 3:50 |
-| 21 | [Sessão Da Tarde](https://open.spotify.com/track/0Arp4flInFKFmRrVCOfw4w) | [Voraz](https://open.spotify.com/artist/54emVun9PakI9opV4aT5Jb), [Julies](https://open.spotify.com/artist/6yDip7RMWxdC6beg5POUvN) | [Sessão Da Tarde](https://open.spotify.com/album/46rATcn57auCSZ1CS9Sp8Y) | 3:02 |
-| 22 | [Filme de Romance](https://open.spotify.com/track/4iTahl8TU9hjSaGGVAsdTd) | [Planta E Raiz](https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO) | [Acústico Planta e Raiz 2022, Pt\. 1](https://open.spotify.com/album/4ZJQfw6hoCE1t2YcTijqTU) | 3:07 |
+| 20 | [Firmamento \(Wrong Girl to Play With\) \[Acústico\]](https://open.spotify.com/track/5ML1D7QsoupxcvUJgf7eD1) | [Cidade Negra](https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ) | [Acústico Cidade Negra](https://open.spotify.com/album/2p9ayxfFobzpbtnF8mJyUL) | 3:42 |
+| 21 | [Filme de Romance](https://open.spotify.com/track/4iTahl8TU9hjSaGGVAsdTd) | [Planta E Raiz](https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO) | [Acústico Planta e Raiz 2022, Pt\. 1](https://open.spotify.com/album/4ZJQfw6hoCE1t2YcTijqTU) | 3:07 |
+| 22 | [Sessão Da Tarde](https://open.spotify.com/track/0Arp4flInFKFmRrVCOfw4w) | [Voraz](https://open.spotify.com/artist/54emVun9PakI9opV4aT5Jb), [Julies](https://open.spotify.com/artist/6yDip7RMWxdC6beg5POUvN) | [Sessão Da Tarde](https://open.spotify.com/album/46rATcn57auCSZ1CS9Sp8Y) | 3:02 |
 | 23 | [Real Gold](https://open.spotify.com/track/4qQm3DuFEVsqp2GWjkNFli) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Real Gold](https://open.spotify.com/album/5PRS6zL5id8VsFjesEsaw3) | 3:17 |
 | 24 | [Saudades Do Tempo \- Ao Vivo Em São Paulo](https://open.spotify.com/track/4CROpP2nRsHjCWUxJ7Ewpy) | [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Ao Vivo Em São Paulo](https://open.spotify.com/album/5Wrwotv3hfJp1nDAoQgRzZ) | 4:56 |
-| 25 | [Firmamento \(Wrong Girl to Play With\) \[Acústico\]](https://open.spotify.com/track/5ML1D7QsoupxcvUJgf7eD1) | [Cidade Negra](https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ) | [Acústico Cidade Negra](https://open.spotify.com/album/2p9ayxfFobzpbtnF8mJyUL) | 3:42 |
+| 25 | [A Sombra da Maldade \(Acústico\)](https://open.spotify.com/track/6oGsJnSlJdGQ6Rir5YHS8c) | [Cidade Negra](https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ) | [Acústico Cidade Negra](https://open.spotify.com/album/2p9ayxfFobzpbtnF8mJyUL) | 3:50 |
 | 26 | [Roots Dance](https://open.spotify.com/track/6fkjiRiUOO5UTUC5hPwqcB) | [Chimarruts](https://open.spotify.com/artist/6rNz4V8ocdBOLgXmLxLVcW) | [Só Pra Brilhar](https://open.spotify.com/album/4dcwRYbS4okDFQiwPcEGuY) | 3:33 |
 | 27 | [Serenou/Nosso Mundo \- Acoustic Sessions](https://open.spotify.com/track/69VrPLeXiiQsIgZofFA7tn) | [Yeti Reggae Club](https://open.spotify.com/artist/5VxPLGujYalBJdAOlU5bfs) | [Serenou/Nosso Mundo \(Acoustic Sessions\)](https://open.spotify.com/album/4SfiSAjkRpxELEOsOEskNJ) | 3:41 |
 | 28 | [De Tanto Sol \(Acústico\)](https://open.spotify.com/track/4zOn4Xw4QIXZkFME9IIr5R) | [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO), [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [De Tanto Sol \(Acústico\)](https://open.spotify.com/album/0G9XFPE6847h3nRRL7Ct8n) | 3:16 |

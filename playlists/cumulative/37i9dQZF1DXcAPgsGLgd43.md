@@ -4,7 +4,7 @@
 
 > The pulse of Latin House 🌀 featuring Andruss & Juos
 
-590 songs - 1 day 7 hr 27 min
+591 songs - 1 day 7 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -464,7 +464,7 @@
 | [Rintintin](https://open.spotify.com/track/1VZup2QEUlkzPTfQ08S371) | [MESTIZA](https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n) | [Rintintin](https://open.spotify.com/album/1I4YDAPuikk1BrhVJRmV73) | 2:43 | 2025-05-23 | 2026-05-05 |
 | [Ritmo](https://open.spotify.com/track/5Fc6juKKeI1G163te8UKjo) | [ANII](https://open.spotify.com/artist/3Do8Sv7yTTtIjf68qHkx0o) | [Ritmo](https://open.spotify.com/album/3537zCnqcxxG74usD1BLg6) | 2:40 | 2025-11-14 | 2026-02-14 |
 | [Ritmo](https://open.spotify.com/track/15223sfwoQj4IAJL8GSnfO) | [Raffa Fl](https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5) | [Ritmo](https://open.spotify.com/album/6LIsvePgAs2LVJHcWub3Sj) | 3:03 | 2021-10-08 | 2023-10-01 |
-| [Ritmo](https://open.spotify.com/track/4FHXsehfIbyPCJLP7fCnIF) | [Raffa Fl](https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5) | [Ritmo](https://open.spotify.com/album/40DTjrBkgfSD4pb1CnlCgl) | 3:03 | 2021-10-08 |  |
+| [Ritmo](https://open.spotify.com/track/4FHXsehfIbyPCJLP7fCnIF) | [Raffa Fl](https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5) | [Ritmo](https://open.spotify.com/album/40DTjrBkgfSD4pb1CnlCgl) | 3:03 | 2021-10-08 | 2026-11-13 |
 | [Ritmo](https://open.spotify.com/track/6cl8QDkk4dwykg7XwXvNET) | [Raffa Fl](https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5) | [Ritmo](https://open.spotify.com/album/5kzBtWUO1HftW3QAdiUs0t) | 3:03 | 2021-10-08 | 2022-07-29 |
 | [Ritmo 305](https://open.spotify.com/track/7M8EtNKLCdCEqPs1vwqHvE) | [Melé](https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX), [Thomas Garcia](https://open.spotify.com/artist/0pOf0CQbzWVo2rgrH9h0Rq) | [Ritmo 305](https://open.spotify.com/album/51YCaYg8W5r9aVolOc8Mk5) | 3:35 | 2024-05-03 | 2024-09-07 |
 | [Ritmo Sabroso](https://open.spotify.com/track/1Xd97xsTJQE2qd2zonWPPX) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta) | [Ritmo Sabroso](https://open.spotify.com/album/5d8zfJKzslUkDKVDd7g8Pm) | 2:34 | 2026-03-13 |  |
@@ -534,6 +534,7 @@
 | [The Sound](https://open.spotify.com/track/5OM3s2BBEPrVjZAnBtFgAv) | [Ollie BC](https://open.spotify.com/artist/7crjp3htKFvWTqzRjdnjmQ) | [The Sound](https://open.spotify.com/album/2Hy9l4nv7LKZaEIwKwjsby) | 2:46 | 2024-04-19 | 2024-05-03 |
 | [Ti Vedo](https://open.spotify.com/track/3evz2s34Jww0c79lTV43on) | [LUCA SKETTI](https://open.spotify.com/artist/1FYwl8FVnopCOyNjiekzNq) | [Ti Vedo](https://open.spotify.com/album/3M7UzO6NVE4iVgfltY77rE) | 2:26 | 2026-05-29 |  |
 | [Ticket](https://open.spotify.com/track/1c6EaTufDorSoUk1xx7fXq) | [Soubeiran](https://open.spotify.com/artist/67FwmaxZpKVnuwP9moY06z) | [Ticket](https://open.spotify.com/album/1fIamecqVi6Lmh2cpDzaRV) | 2:40 | 2025-11-14 | 2026-03-21 |
+| [Tiempo](https://open.spotify.com/track/0CJScw74gppJQ8UTriw1Uu) | [Zaidbreak](https://open.spotify.com/artist/4kxv2kGvnge97AbeT7sDGu) | [Gózalo](https://open.spotify.com/album/2hUSrro22d1Z5stvFB0wON) | 2:29 | 2026-11-13 |  |
 | [Tiki Tiki](https://open.spotify.com/track/3j6NrZ43zwIPANl4kcDUs8) | [HÄWK](https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady) | [Tiki Tiki](https://open.spotify.com/album/2iE41dsSA4TVsWkPhf1o0V) | 2:04 | 2024-05-24 | 2024-08-10 |
 | [Tikitro](https://open.spotify.com/track/3PUNw4b3t5xgANXPhvOioW) | [Band&dos](https://open.spotify.com/artist/68OOyVnaUOq7m4cxQmZslI), [Tony Guerra](https://open.spotify.com/artist/5qURuhcV6ZjUfe1iYsC2Py) | [Tikitro](https://open.spotify.com/album/5urqD5lw9nAIFh5QQDWECs) | 5:32 | 2024-02-02 | 2024-02-24 |
 | [Toca Me Ft\. Michelle Marrero](https://open.spotify.com/track/2WzUDkHU1iAVJdy3Can2O9) | [Menesix](https://open.spotify.com/artist/4g6OmxrDFvrYD0PS9Ki0fQ) | [OBRIGADO](https://open.spotify.com/album/0EoZk9OPqTPYIPId511MtB) | 3:21 | 2025-02-21 | 2025-05-24 |

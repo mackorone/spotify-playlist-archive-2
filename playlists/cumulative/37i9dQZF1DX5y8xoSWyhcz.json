@@ -1141,6 +1141,24 @@
     },
     {
       "album": {
+        "name": "All For Love",
+        "url": "https://open.spotify.com/album/2KILZh5Qp6LDmQhcX31FQM"
+      },
+      "artists": [
+        {
+          "name": "Milk & Bone",
+          "url": "https://open.spotify.com/artist/4fmvA5uVlZUNsje29D1PaW"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269373,
+      "name": "All For Love",
+      "url": "https://open.spotify.com/track/5Jlyuiq9I9yCsNNJiT2RWc"
+    },
+    {
+      "album": {
         "name": "All I Did Was Dream of You (feat. The Mar\u00edas)",
         "url": "https://open.spotify.com/album/4cC1e65OnA1NdyiuvdnwSt"
       },
@@ -3004,7 +3022,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 121290,
       "name": "betterside",
       "url": "https://open.spotify.com/track/6Nmsvya50LmZqQCZgZYkyS"
@@ -3296,7 +3314,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 200820,
       "name": "Blooming",
       "url": "https://open.spotify.com/track/2SKqmrk4SfW1OAfwsnvfyD"
@@ -6050,7 +6068,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 205216,
       "name": "copycat",
       "url": "https://open.spotify.com/track/4Qa6CYV025QuVetFPDdLWH"
@@ -6798,6 +6816,24 @@
       "duration_ms": 187850,
       "name": "Day By Day",
       "url": "https://open.spotify.com/track/7t6NSZQArTCYimaQmfwS0S"
+    },
+    {
+      "album": {
+        "name": "daydream",
+        "url": "https://open.spotify.com/album/2gvlIWggmJfiOr6RfwVYFF"
+      },
+      "artists": [
+        {
+          "name": "Ivytide",
+          "url": "https://open.spotify.com/artist/1FYG11siqeY73Lu2hrFMYp"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185500,
+      "name": "daydream",
+      "url": "https://open.spotify.com/track/1aqGJEUdNQaSrtNXeHFws8"
     },
     {
       "album": {
@@ -8347,6 +8383,24 @@
     },
     {
       "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/0A6T5v4VleEM7gICMUYJLl"
+      },
+      "artists": [
+        {
+          "name": "Cal in Red",
+          "url": "https://open.spotify.com/artist/3dXBDrVfLai40505fF4HH1"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188874,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/1h3PA5NTZ1fKHxfMVSK4QX"
+    },
+    {
+      "album": {
         "name": "easy tiger",
         "url": "https://open.spotify.com/album/6IovnQ5usg4qD2AHCgO6dN"
       },
@@ -9376,7 +9430,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 178758,
       "name": "FATE",
       "url": "https://open.spotify.com/track/1ydHcb2P3Kza6VBBFdXRSt"
@@ -9900,7 +9954,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 204052,
       "name": "Follow",
       "url": "https://open.spotify.com/track/6BkGs2ZNaqaEbrJNlQAt2x"
@@ -12220,7 +12274,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 150954,
       "name": "Heard You Say'n",
       "url": "https://open.spotify.com/track/5v8HNZUO5p3U3y8UP8w5Jw"
@@ -13666,7 +13720,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 201933,
       "name": "I CARE: FAYE WEBSTER VERSION",
       "url": "https://open.spotify.com/track/2952OPwh3MiKGVN5gXR70j"
@@ -15380,7 +15434,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 216197,
       "name": "Inflation",
       "url": "https://open.spotify.com/track/7nK7PpeDATWpg6dJZg9FkM"
@@ -16760,6 +16814,24 @@
       "duration_ms": 175122,
       "name": "Larabar",
       "url": "https://open.spotify.com/track/5wNVNjLNMX0jhefWFOqgT2"
+    },
+    {
+      "album": {
+        "name": "Last Call",
+        "url": "https://open.spotify.com/album/3cwXg4PKwpfwPO5dTAAl0c"
+      },
+      "artists": [
+        {
+          "name": "somi amyl",
+          "url": "https://open.spotify.com/artist/5rGBaX1JEs5VjSHCMC335R"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175428,
+      "name": "Last Call",
+      "url": "https://open.spotify.com/track/6AnzzY4p3GmRQAcktHtd5K"
     },
     {
       "album": {
@@ -18170,7 +18242,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 210000,
       "name": "Make believe",
       "url": "https://open.spotify.com/track/5RoQY3o3b6rupkNpNmuj8P"
@@ -22139,6 +22211,24 @@
     },
     {
       "album": {
+        "name": "Sad Girl",
+        "url": "https://open.spotify.com/album/079a6Q0GxP0rnA0jQF8e3N"
+      },
+      "artists": [
+        {
+          "name": "Dani Black",
+          "url": "https://open.spotify.com/artist/0BDdAfVqxBoWIVCNF3DsHI"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115444,
+      "name": "Pieces",
+      "url": "https://open.spotify.com/track/2bx2qhPN9YGRxe9dEB06fU"
+    },
+    {
+      "album": {
         "name": "pieces",
         "url": "https://open.spotify.com/album/00wsSw2OSFR2jpJLQEiQPr"
       },
@@ -23968,6 +24058,32 @@
       "duration_ms": 166026,
       "name": "Sad Boiii",
       "url": "https://open.spotify.com/track/5LOUGL5zAmtxRQIJBmuUay"
+    },
+    {
+      "album": {
+        "name": "Very Ancient Way of Crying",
+        "url": "https://open.spotify.com/album/3xbauaiHd7Ah6wzGjfmoYo"
+      },
+      "artists": [
+        {
+          "name": "NEW LORE",
+          "url": "https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E"
+        },
+        {
+          "name": "Ichika Nito",
+          "url": "https://open.spotify.com/artist/1v7B6ZWa7QRQS3knn3Jvf4"
+        },
+        {
+          "name": "Gabba",
+          "url": "https://open.spotify.com/artist/6tvCQZS4d1wJ9cA9Gl0ZqP"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202500,
+      "name": "Sad Girl (feat. Ichika Nito & Gabba)",
+      "url": "https://open.spotify.com/track/735s7kB0oA5PXgXtiSZLMG"
     },
     {
       "album": {
@@ -27394,7 +27510,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 148000,
       "name": "SUGAR BOO",
       "url": "https://open.spotify.com/track/38PNZWXNO1RTwPgpcjEOXV"
@@ -27488,7 +27604,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 210400,
       "name": "Sugar, Butter, Elbow Grease",
       "url": "https://open.spotify.com/track/2o0Vzvy05qpJeEbHQle22r"
@@ -29156,6 +29272,24 @@
       "duration_ms": 157694,
       "name": "The Race Is On (Little Moments)",
       "url": "https://open.spotify.com/track/1brgNc5DMPNEO5StQJfRYV"
+    },
+    {
+      "album": {
+        "name": "The Rapture",
+        "url": "https://open.spotify.com/album/0oyfP68wJW8HkMD4tvOFW1"
+      },
+      "artists": [
+        {
+          "name": "Chiara Savasta",
+          "url": "https://open.spotify.com/artist/5TVI6uAbPFru1azAVIaVZR"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173973,
+      "name": "The Rapture",
+      "url": "https://open.spotify.com/track/6oUYmJJWw0xYsC8hos1jBC"
     },
     {
       "album": {
@@ -32294,7 +32428,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 195500,
       "name": "Willow",
       "url": "https://open.spotify.com/track/6MwFr5YA0CZgI2XkEn8niC"

@@ -1,6 +1,6 @@
 {
   "description": "Smooth, relaxing as jazz can be, here's the soothing magic in the thick of night from the middle of the light...",
-  "num_followers": 463462,
+  "num_followers": 463470,
   "original_name": "Smooth Jazz",
   "owner": {
     "name": "Spotify",
@@ -159,6 +159,22 @@
     {
       "added_at": "2026-10-02 07:49:51",
       "album": {
+        "name": "Presence",
+        "url": "https://open.spotify.com/album/3y3NkJMbTM1JLwrDKxEFZb"
+      },
+      "artists": [
+        {
+          "name": "Chuck Loeb",
+          "url": "https://open.spotify.com/artist/02L5Rmh1RtTbHOBdzPzfoQ"
+        }
+      ],
+      "duration_ms": 247333,
+      "name": "Window of the Soul",
+      "url": "https://open.spotify.com/track/32eDGGkGf1lcJ8aWrjGhFO"
+    },
+    {
+      "added_at": "2026-10-02 07:49:51",
+      "album": {
         "name": "The Collection",
         "url": "https://open.spotify.com/album/3hJBjYNUVY7vSITE8GZ3QV"
       },
@@ -191,38 +207,6 @@
     {
       "added_at": "2026-10-02 07:49:51",
       "album": {
-        "name": "Presence",
-        "url": "https://open.spotify.com/album/3y3NkJMbTM1JLwrDKxEFZb"
-      },
-      "artists": [
-        {
-          "name": "Chuck Loeb",
-          "url": "https://open.spotify.com/artist/02L5Rmh1RtTbHOBdzPzfoQ"
-        }
-      ],
-      "duration_ms": 247333,
-      "name": "Window of the Soul",
-      "url": "https://open.spotify.com/track/32eDGGkGf1lcJ8aWrjGhFO"
-    },
-    {
-      "added_at": "2026-10-02 07:49:51",
-      "album": {
-        "name": "Feelin' It",
-        "url": "https://open.spotify.com/album/3qzwqcE1RXuSUdci5XRo2l"
-      },
-      "artists": [
-        {
-          "name": "Freddie Fox",
-          "url": "https://open.spotify.com/artist/3LF2PC0GYS2TXXWTXjxiNr"
-        }
-      ],
-      "duration_ms": 253053,
-      "name": "Still Lovin' You",
-      "url": "https://open.spotify.com/track/1pAysqZEwPCdbBXmoAgrrV"
-    },
-    {
-      "added_at": "2026-10-02 07:49:51",
-      "album": {
         "name": "SHINE!",
         "url": "https://open.spotify.com/album/6xscPJ4QR4Acjq1zhJatbL"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 261640,
       "name": "SHINE!",
       "url": "https://open.spotify.com/track/0oqWJG5i5f01tKY4e3P3ux"
+    },
+    {
+      "added_at": "2026-10-02 07:49:51",
+      "album": {
+        "name": "Feelin' It",
+        "url": "https://open.spotify.com/album/3qzwqcE1RXuSUdci5XRo2l"
+      },
+      "artists": [
+        {
+          "name": "Freddie Fox",
+          "url": "https://open.spotify.com/artist/3LF2PC0GYS2TXXWTXjxiNr"
+        }
+      ],
+      "duration_ms": 253053,
+      "name": "Still Lovin' You",
+      "url": "https://open.spotify.com/track/1pAysqZEwPCdbBXmoAgrrV"
     },
     {
       "added_at": "2026-10-02 07:49:51",
@@ -263,18 +263,18 @@
     {
       "added_at": "2026-10-02 07:49:51",
       "album": {
-        "name": "Sentiment",
-        "url": "https://open.spotify.com/album/7hML0wQpcGtknLxvlvFuR7"
+        "name": "Infinite Love",
+        "url": "https://open.spotify.com/album/4PUEmWCsMIauK26YDbXz25"
       },
       "artists": [
         {
-          "name": "Brendan Rothwell",
-          "url": "https://open.spotify.com/artist/5RABpAgeEQTwa2yoatfUQQ"
+          "name": "Darren Rahn",
+          "url": "https://open.spotify.com/artist/20Jboo9DFLN2MlZPtXQt2u"
         }
       ],
-      "duration_ms": 240172,
-      "name": "Think of You",
-      "url": "https://open.spotify.com/track/73p8Mzp41RUDQtbe52JWHu"
+      "duration_ms": 257367,
+      "name": "Infinite Love",
+      "url": "https://open.spotify.com/track/2Zw99p6yQDuFkk6Bikbr0P"
     },
     {
       "added_at": "2026-10-02 07:49:51",
@@ -295,18 +295,18 @@
     {
       "added_at": "2026-10-02 07:49:51",
       "album": {
-        "name": "Tim Bowman",
-        "url": "https://open.spotify.com/album/5WzwDaBCkfloJvg5zgbwkh"
+        "name": "Sentiment",
+        "url": "https://open.spotify.com/album/7hML0wQpcGtknLxvlvFuR7"
       },
       "artists": [
         {
-          "name": "Tim Bowman",
-          "url": "https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5"
+          "name": "Brendan Rothwell",
+          "url": "https://open.spotify.com/artist/5RABpAgeEQTwa2yoatfUQQ"
         }
       ],
-      "duration_ms": 302814,
-      "name": "10. Soul Dream",
-      "url": "https://open.spotify.com/track/3WBkCYUDJB6dwixiOP6kPD"
+      "duration_ms": 240172,
+      "name": "Think of You",
+      "url": "https://open.spotify.com/track/73p8Mzp41RUDQtbe52JWHu"
     },
     {
       "added_at": "2026-10-02 07:49:51",
@@ -331,18 +331,18 @@
     {
       "added_at": "2026-10-02 07:49:51",
       "album": {
-        "name": "Infinite Love",
-        "url": "https://open.spotify.com/album/4PUEmWCsMIauK26YDbXz25"
+        "name": "Tim Bowman",
+        "url": "https://open.spotify.com/album/5WzwDaBCkfloJvg5zgbwkh"
       },
       "artists": [
         {
-          "name": "Darren Rahn",
-          "url": "https://open.spotify.com/artist/20Jboo9DFLN2MlZPtXQt2u"
+          "name": "Tim Bowman",
+          "url": "https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5"
         }
       ],
-      "duration_ms": 257367,
-      "name": "Infinite Love",
-      "url": "https://open.spotify.com/track/2Zw99p6yQDuFkk6Bikbr0P"
+      "duration_ms": 302814,
+      "name": "10. Soul Dream",
+      "url": "https://open.spotify.com/track/3WBkCYUDJB6dwixiOP6kPD"
     },
     {
       "added_at": "2026-10-02 07:49:51",
@@ -595,22 +595,6 @@
     {
       "added_at": "2026-10-02 07:49:51",
       "album": {
-        "name": "After 8",
-        "url": "https://open.spotify.com/album/2DZxWJXHFCYuiSNoVyWYZe"
-      },
-      "artists": [
-        {
-          "name": "Ronny Jordan",
-          "url": "https://open.spotify.com/artist/32WK2OuP2PG4r7sH7bUfN9"
-        }
-      ],
-      "duration_ms": 252333,
-      "name": "I Remember You",
-      "url": "https://open.spotify.com/track/6iCsFk2zf1INRexhJQzRM0"
-    },
-    {
-      "added_at": "2026-10-02 07:49:51",
-      "album": {
         "name": "Still on The Road",
         "url": "https://open.spotify.com/album/1904mEXM1yyzifmllwUCuc"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 170684,
       "name": "Still on The Road",
       "url": "https://open.spotify.com/track/225rVls2PqjWNcBd2XV8p6"
+    },
+    {
+      "added_at": "2026-10-02 07:49:51",
+      "album": {
+        "name": "After 8",
+        "url": "https://open.spotify.com/album/2DZxWJXHFCYuiSNoVyWYZe"
+      },
+      "artists": [
+        {
+          "name": "Ronny Jordan",
+          "url": "https://open.spotify.com/artist/32WK2OuP2PG4r7sH7bUfN9"
+        }
+      ],
+      "duration_ms": 252333,
+      "name": "I Remember You",
+      "url": "https://open.spotify.com/track/6iCsFk2zf1INRexhJQzRM0"
     },
     {
       "added_at": "2026-10-02 07:49:51",
@@ -859,22 +859,6 @@
     {
       "added_at": "2026-10-02 07:49:51",
       "album": {
-        "name": "The Little Things",
-        "url": "https://open.spotify.com/album/4ZdrC38qyNGHM6pl7xBF9A"
-      },
-      "artists": [
-        {
-          "name": "Cindy Bradley",
-          "url": "https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J"
-        }
-      ],
-      "duration_ms": 295156,
-      "name": "Stockholm Summer",
-      "url": "https://open.spotify.com/track/1Cg4LsGDv3saOFNXdeLHyq"
-    },
-    {
-      "added_at": "2026-10-02 07:49:51",
-      "album": {
         "name": "Shake It",
         "url": "https://open.spotify.com/album/0fxC7twA5PZ0J5LngaiZbP"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 278200,
       "name": "My Song for You",
       "url": "https://open.spotify.com/track/2WkpgjnqTOPCi60IvlDtvB"
+    },
+    {
+      "added_at": "2026-10-02 07:49:51",
+      "album": {
+        "name": "The Little Things",
+        "url": "https://open.spotify.com/album/4ZdrC38qyNGHM6pl7xBF9A"
+      },
+      "artists": [
+        {
+          "name": "Cindy Bradley",
+          "url": "https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J"
+        }
+      ],
+      "duration_ms": 295156,
+      "name": "Stockholm Summer",
+      "url": "https://open.spotify.com/track/1Cg4LsGDv3saOFNXdeLHyq"
     },
     {
       "added_at": "2026-10-02 07:49:51",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2026-10-02 07:49:51",
       "album": {
+        "name": "Let's Get Away",
+        "url": "https://open.spotify.com/album/5Ja2SjrDC7ul4nijfHoujD"
+      },
+      "artists": [
+        {
+          "name": "Norman Brown",
+          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
+        }
+      ],
+      "duration_ms": 205880,
+      "name": "Down Here On The Ground",
+      "url": "https://open.spotify.com/track/4pZBySL7Vz9RiCnedhCpHX"
+    },
+    {
+      "added_at": "2026-10-02 07:49:51",
+      "album": {
         "name": "Velvet Groove",
         "url": "https://open.spotify.com/album/5B8283WjNKxA2TAT7wE176"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 237029,
       "name": "Velvet Groove",
       "url": "https://open.spotify.com/track/2YKRhy9PI0jd0JZSi27sDe"
-    },
-    {
-      "added_at": "2026-10-02 07:49:51",
-      "album": {
-        "name": "Let's Get Away",
-        "url": "https://open.spotify.com/album/5Ja2SjrDC7ul4nijfHoujD"
-      },
-      "artists": [
-        {
-          "name": "Norman Brown",
-          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
-        }
-      ],
-      "duration_ms": 205880,
-      "name": "Down Here On The Ground",
-      "url": "https://open.spotify.com/track/4pZBySL7Vz9RiCnedhCpHX"
     },
     {
       "added_at": "2026-10-02 07:49:51",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2026-10-02 07:49:51",
       "album": {
-        "name": "Release",
-        "url": "https://open.spotify.com/album/7xjP0qV8h62UHwown45INg"
-      },
-      "artists": [
-        {
-          "name": "Lin Rountree",
-          "url": "https://open.spotify.com/artist/4SVXSNL59kiSLgjwZeEfDg"
-        }
-      ],
-      "duration_ms": 292253,
-      "name": "Release",
-      "url": "https://open.spotify.com/track/68JOcOeibkcTidFF6VGxwW"
-    },
-    {
-      "added_at": "2026-10-02 07:49:51",
-      "album": {
         "name": "Deep Dive",
         "url": "https://open.spotify.com/album/3afqxp4kQVjyBkS05sCKf2"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 245925,
       "name": "Deep Dive",
       "url": "https://open.spotify.com/track/1mnNpkP5NgED8O3Zx6GuCA"
+    },
+    {
+      "added_at": "2026-10-02 07:49:51",
+      "album": {
+        "name": "Release",
+        "url": "https://open.spotify.com/album/7xjP0qV8h62UHwown45INg"
+      },
+      "artists": [
+        {
+          "name": "Lin Rountree",
+          "url": "https://open.spotify.com/artist/4SVXSNL59kiSLgjwZeEfDg"
+        }
+      ],
+      "duration_ms": 292253,
+      "name": "Release",
+      "url": "https://open.spotify.com/track/68JOcOeibkcTidFF6VGxwW"
     },
     {
       "added_at": "2026-10-02 07:49:51",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2026-10-02 07:49:51",
       "album": {
-        "name": "Finger Painting",
-        "url": "https://open.spotify.com/album/4VCMgZaEQq8p8oNAtQPVoI"
-      },
-      "artists": [
-        {
-          "name": "Nick Colionne",
-          "url": "https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l"
-        }
-      ],
-      "duration_ms": 228973,
-      "name": "Romantic Nites",
-      "url": "https://open.spotify.com/track/6IfLElgQIOE5xG8DDCC9Rp"
-    },
-    {
-      "added_at": "2026-10-02 07:49:51",
-      "album": {
         "name": "As Promised",
         "url": "https://open.spotify.com/album/0bs64b2YWZp3oMOw297F6U"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 324133,
       "name": "His Coolness",
       "url": "https://open.spotify.com/track/3EQ5NnNUxhE9oRnRk4HPuL"
+    },
+    {
+      "added_at": "2026-10-02 07:49:51",
+      "album": {
+        "name": "Finger Painting",
+        "url": "https://open.spotify.com/album/4VCMgZaEQq8p8oNAtQPVoI"
+      },
+      "artists": [
+        {
+          "name": "Nick Colionne",
+          "url": "https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l"
+        }
+      ],
+      "duration_ms": 228973,
+      "name": "Romantic Nites",
+      "url": "https://open.spotify.com/track/6IfLElgQIOE5xG8DDCC9Rp"
     },
     {
       "added_at": "2026-10-02 07:49:51",

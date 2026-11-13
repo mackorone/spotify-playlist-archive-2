@@ -1837,6 +1837,24 @@
     },
     {
       "album": {
+        "name": "Slopped + Chewed Vol. 4",
+        "url": "https://open.spotify.com/album/2H7pgyDHTtaee6AL6je1xZ"
+      },
+      "artists": [
+        {
+          "name": "TUAWKI",
+          "url": "https://open.spotify.com/artist/5qcbpph3M3q5LKCD7TH6RZ"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220586,
+      "name": "Mamacita",
+      "url": "https://open.spotify.com/track/5FhcbG04J2xE4Yl89tU0tJ"
+    },
+    {
+      "album": {
         "name": "Imperial",
         "url": "https://open.spotify.com/album/42fyKPanos0Q3woi848ktg"
       },

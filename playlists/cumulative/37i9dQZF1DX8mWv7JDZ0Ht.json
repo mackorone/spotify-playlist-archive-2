@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-27",
-  "description": "Novidades e hits do pop nacional pra te deixar mais leve. Foto: Lagum",
+  "description": "Novidades e hits do pop nacional pra te deixar mais leve. Foto: Vitor Kley",
   "name": "Pop Leve",
   "tracks": [
     {
@@ -324,7 +324,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-05",
+      "date_removed": null,
       "duration_ms": 189570,
       "name": "A Minha Flor",
       "url": "https://open.spotify.com/track/6Ws8Z00SaE191uuRtH7Z6o"
@@ -1880,7 +1880,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 208492,
       "name": "At\u00e9 Outro Dia Amor",
       "url": "https://open.spotify.com/track/3sNq3qDXEWI8gtzoWbLAWR"
@@ -3838,7 +3838,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-31",
+      "date_removed": null,
       "duration_ms": 149026,
       "name": "Coisa de Alma",
       "url": "https://open.spotify.com/track/6x3UHY7jsjP9JrrBJjQhf1"
@@ -4904,7 +4904,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-09",
+      "date_removed": null,
       "duration_ms": 160230,
       "name": "Daqui pra sempre",
       "url": "https://open.spotify.com/track/4V9Q1RjlC24rM5ts80S76Q"
@@ -5082,7 +5082,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 162935,
       "name": "Decifrar",
       "url": "https://open.spotify.com/track/7cEthfgEv5kBtnL5cqL5Cs"
@@ -7599,6 +7599,32 @@
     },
     {
       "album": {
+        "name": "Fa\u00e7a Chuva Ou Fa\u00e7a Sol",
+        "url": "https://open.spotify.com/album/55NNE6eRfjnatWPLa0aKx6"
+      },
+      "artists": [
+        {
+          "name": "Carol Fazu",
+          "url": "https://open.spotify.com/artist/5c6ugniglmJAisZw252uwS"
+        },
+        {
+          "name": "Vanessa Da Mata",
+          "url": "https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7"
+        },
+        {
+          "name": "Liminha",
+          "url": "https://open.spotify.com/artist/7Bgh4WtG88t1VQsGKzszH7"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277858,
+      "name": "Fa\u00e7a Chuva Ou Fa\u00e7a Sol",
+      "url": "https://open.spotify.com/track/67xifhsKAR6BpUc0zuGZW5"
+    },
+    {
+      "album": {
         "name": "Fa\u00e7o Parar de Chover",
         "url": "https://open.spotify.com/album/29ZKPLd1xdn8JodQ5a00Cu"
       },
@@ -8424,7 +8450,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-06",
+      "date_removed": null,
       "duration_ms": 163464,
       "name": "gosto de gostar",
       "url": "https://open.spotify.com/track/41wHtU4pHeeaaAB5HFQu2k"
@@ -9520,7 +9546,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 171428,
       "name": "L\u00c1 DE CIMA (1999)",
       "url": "https://open.spotify.com/track/7nCQ8BbP2uCHWqiYJJzex9"
@@ -11898,7 +11924,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 202666,
       "name": "N\u00e3o mente pra mim",
       "url": "https://open.spotify.com/track/2yeomphV6ibKz3sYj1PJ5M"
@@ -12134,7 +12160,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 207500,
       "name": "N\u00e3o Volta Mais - Meu Ac\u00fastico",
       "url": "https://open.spotify.com/track/5hb0rXOZ9iUixLwH23us2U"
@@ -12290,6 +12316,36 @@
       "duration_ms": 209188,
       "name": "O Amor \u00e9 uma Loucura",
       "url": "https://open.spotify.com/track/0i5zSj2cTJxQswf83MZ8uM"
+    },
+    {
+      "album": {
+        "name": "VAMO Sessions: Na Sala De Casa | MaiP\u00ea",
+        "url": "https://open.spotify.com/album/50cEE3xuwBsf3sQD8S5Sd3"
+      },
+      "artists": [
+        {
+          "name": "Maip\u00ea",
+          "url": "https://open.spotify.com/artist/29TGZb5S8iVFN9HzowvnPV"
+        },
+        {
+          "name": "Nossa Toca",
+          "url": "https://open.spotify.com/artist/5o00VSNNjsdSmZ0YJwUSxi"
+        },
+        {
+          "name": "VAMO Music Hub",
+          "url": "https://open.spotify.com/artist/7zUkGZbn7mWYCgiUp3Q9bx"
+        },
+        {
+          "name": "Fabio Brazza",
+          "url": "https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304572,
+      "name": "O C\u00c9U T\u00c1 ROSA",
+      "url": "https://open.spotify.com/track/74hXrbxbvpElH7tmJ5MiLv"
     },
     {
       "album": {
@@ -12504,6 +12560,24 @@
       "duration_ms": 151386,
       "name": "O que \u00e9 teu te encontra",
       "url": "https://open.spotify.com/track/66fooxtrQgWTwuQwEAc7MX"
+    },
+    {
+      "album": {
+        "name": "O Risco",
+        "url": "https://open.spotify.com/album/7cfN5Dk2cghF2lhe4onxCP"
+      },
+      "artists": [
+        {
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182037,
+      "name": "O Risco",
+      "url": "https://open.spotify.com/track/3DSHbS80RfTYOS0lAoDhdp"
     },
     {
       "album": {
@@ -14434,7 +14508,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-11",
+      "date_removed": null,
       "duration_ms": 175801,
       "name": "QUANDO ASSUM VOAR",
       "url": "https://open.spotify.com/track/5yNhzae5tKwrQgiXVJtpcq"
@@ -15146,7 +15220,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 204208,
       "name": "Reza Braba",
       "url": "https://open.spotify.com/track/05IQB3ByghBrhl1U0hYA6a"
@@ -17338,7 +17412,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 188150,
       "name": "te traindo com voc\u00ea",
       "url": "https://open.spotify.com/track/41QKpbVRRdgcTOFvL4GF92"
@@ -18556,7 +18630,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 195789,
       "name": "Um dia inteiro com voc\u00ea",
       "url": "https://open.spotify.com/track/0QYm9hnFT4vMhjwlO9jGmh"

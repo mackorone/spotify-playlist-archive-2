@@ -4938,7 +4938,7 @@
       ],
       "date_added": "2026-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 125454,
       "name": "B.M.S (by my side)",
       "url": "https://open.spotify.com/track/0T1CzbjyOEU60cL5G244di"
@@ -6468,7 +6468,7 @@
       ],
       "date_added": "2026-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 123870,
       "name": "Belvedere",
       "url": "https://open.spotify.com/track/0yo94ERQSrg5qXCUY9hZ78"
@@ -10734,7 +10734,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 212093,
       "name": "Chemin d'or",
       "url": "https://open.spotify.com/track/5kfAx6phDHPpz5g8IAPyc2"
@@ -11550,7 +11550,7 @@
       ],
       "date_added": "2025-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 130800,
       "name": "Coco Chanel",
       "url": "https://open.spotify.com/track/65lCFhOz5RyYH52JryAf10"
@@ -24834,7 +24834,7 @@
       ],
       "date_added": "2026-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-11",
+      "date_removed": null,
       "duration_ms": 172786,
       "name": "Je pense \u00e0 toi",
       "url": "https://open.spotify.com/track/5qq9r3KUlpinOXLO7zEDo8"
@@ -27259,6 +27259,24 @@
     },
     {
       "album": {
+        "name": "AYA",
+        "url": "https://open.spotify.com/album/0BUPS678TfgTmCMVOviolC"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183773,
+      "name": "La machine",
+      "url": "https://open.spotify.com/track/4YcK0u6DgSg1jQqWYCXTBq"
+    },
+    {
+      "album": {
         "name": "Jefe",
         "url": "https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK"
       },
@@ -29506,7 +29524,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 157766,
       "name": "Lettre \u00e0 une femme",
       "url": "https://open.spotify.com/track/10rwyGbKAWZ8JZbL7uHl28"
@@ -29524,7 +29542,7 @@
       ],
       "date_added": "2026-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-11",
+      "date_removed": null,
       "duration_ms": 157766,
       "name": "Lettre \u00e0 une femme",
       "url": "https://open.spotify.com/track/5HEtuK03ygUzqca6yfgOYZ"
@@ -38928,7 +38946,7 @@
       ],
       "date_added": "2026-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-10",
+      "date_removed": null,
       "duration_ms": 121704,
       "name": "Pangor (Swalalala)",
       "url": "https://open.spotify.com/track/02tj7EJuf48fJ2S4tS7htr"
@@ -40560,7 +40578,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-12",
+      "date_removed": null,
       "duration_ms": 163961,
       "name": "Picasso",
       "url": "https://open.spotify.com/track/2A1wTYEJZkvph9zbDla67R"
@@ -41434,7 +41452,7 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 230000,
       "name": "Poney",
       "url": "https://open.spotify.com/track/66ku4Gq4k5xUqdVL4Oam2r"
@@ -42284,7 +42302,7 @@
       ],
       "date_added": "2025-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-16",
+      "date_removed": null,
       "duration_ms": 184800,
       "name": "Putana",
       "url": "https://open.spotify.com/track/5oePa8PlOTPAlRaGs2OZ3A"
@@ -42418,7 +42436,7 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 210247,
       "name": "P\u00e9tunias",
       "url": "https://open.spotify.com/track/3Byu179ofnuChb4zF1fMhu"
@@ -45846,7 +45864,7 @@
       ],
       "date_added": "2026-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-12",
+      "date_removed": null,
       "duration_ms": 180740,
       "name": "Self Aware",
       "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"

@@ -1,12 +1,12 @@
 {
   "description": "This is Michael Jackson. The essential tracks, all in one playlist.",
-  "num_followers": 3602044,
+  "num_followers": 3602386,
   "original_name": "This Is Michael Jackson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avENAAAAAADkefSCjblV0m5fOHj5TnmM",
+  "snapshot_id": "avOwAAAAAAD8LHRcW+qiUk+0Ao5J8yo2",
   "tracks": [
     {
       "added_at": null,
@@ -335,22 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Off the Wall",
-        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 245778,
-      "name": "Off the Wall",
-      "url": "https://open.spotify.com/track/3zYpRGnnoegSpt3SguSo3W"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Thriller",
         "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 363400,
       "name": "Wanna Be Startin' Somethin'",
       "url": "https://open.spotify.com/track/1hu2s7qkm5bo03eODpRQO3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Off the Wall",
+        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 245778,
+      "name": "Off the Wall",
+      "url": "https://open.spotify.com/track/3zYpRGnnoegSpt3SguSo3W"
     },
     {
       "added_at": null,
@@ -399,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HIStory - PAST, PRESENT AND FUTURE - BOOK I",
-        "url": "https://open.spotify.com/album/3OBhnTLrvkoEEETjFA3Qfk"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 405933,
-      "name": "Earth Song",
-      "url": "https://open.spotify.com/track/4GCGH6TJ69neckwITeBFXK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Scorpion",
         "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 245786,
       "name": "Don\u2019t Matter To Me (with Michael Jackson)",
       "url": "https://open.spotify.com/track/6G8kHiVZ1jW7vHMPVRNZU0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HIStory - PAST, PRESENT AND FUTURE - BOOK I",
+        "url": "https://open.spotify.com/album/3OBhnTLrvkoEEETjFA3Qfk"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 405933,
+      "name": "Earth Song",
+      "url": "https://open.spotify.com/track/4GCGH6TJ69neckwITeBFXK"
     },
     {
       "added_at": null,

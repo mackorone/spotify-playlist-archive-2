@@ -4,7 +4,7 @@
 
 > This is Avenoir\. The essential tracks, all in one playlist.
 
-51 songs - 2 hr 21 min
+52 songs - 2 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,11 +41,12 @@
 | [MORTAL](https://open.spotify.com/track/4ZbUA2dQFMvEwgzZJWsBTF) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [NOIRE](https://open.spotify.com/album/4Edp8Knz4hREMPHSCD6Ewd) | 2:21 | 2026-10-20 |  |
 | [MOVIE](https://open.spotify.com/track/0rASH6enPQjubIHb3uuYKF) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [NOIRE](https://open.spotify.com/album/4Yaj2AWCgmCUgQzatJETct) | 2:46 | 2026-10-22 |  |
 | [MOVIE](https://open.spotify.com/track/5Izl3SfU1DbkOkBZoQltsa) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [NOIRE](https://open.spotify.com/album/0g56OJU53oUbiCWB99D5S5) | 2:46 | 2026-06-16 | 2026-10-22 |
-| [Paradise](https://open.spotify.com/track/46a7o30ZuYAhX8LgralbbQ) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Mirage](https://open.spotify.com/album/1ScwWsJ8KmcKRrAWh9nCAS) | 1:53 | 2026-10-11 |  |
+| [Paradise](https://open.spotify.com/track/46a7o30ZuYAhX8LgralbbQ) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Mirage](https://open.spotify.com/album/1ScwWsJ8KmcKRrAWh9nCAS) | 1:53 | 2026-10-11 | 2026-11-13 |
 | [Paradise](https://open.spotify.com/track/6mU00UhZ1jCEyEoja3B3hl) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Mirage](https://open.spotify.com/album/37H6dgOYnjPeTDrcDBuPB2) | 1:53 | 2026-06-16 | 2026-10-10 |
 | [Plein Soleil](https://open.spotify.com/track/2jYoHERAJLmbPEzgEq3q81) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Plein Soleil](https://open.spotify.com/album/34syQNcB2yboOXhcPmN78h) | 3:25 | 2026-09-20 |  |
 | [Shameless](https://open.spotify.com/track/2MJlhN2OockKCadeGS4AEP) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Shameless](https://open.spotify.com/album/1cHm86on0UXY0KepCk1xui) | 2:55 | 2026-06-16 | 2026-10-10 |
 | [Shameless](https://open.spotify.com/track/7FpUhTBcs6Ap2xrx5us2Jp) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Shameless](https://open.spotify.com/album/3rV6cj8X6K8L1NE7l2qAuo) | 2:55 | 2026-10-10 |  |
+| [Songhai](https://open.spotify.com/track/62KBtIONedcc5dzCocY6VZ) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Mirage](https://open.spotify.com/album/1ScwWsJ8KmcKRrAWh9nCAS) | 2:59 | 2026-11-13 |  |
 | [Superficial](https://open.spotify.com/track/1inzz3waRDnnVF9p8eXisd) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Superficial](https://open.spotify.com/album/1lkeQCH9WokW8GQDJ6guea) | 2:44 | 2026-09-12 | 2026-09-13 |
 | [Superficial / Love](https://open.spotify.com/track/3wKZ6upiSfqKFAhemZXdyZ) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb), [Strings From Paris](https://open.spotify.com/artist/4c520eahgQwzeJopRch4k4) | [Medea](https://open.spotify.com/album/4EuJgqGe5oYxN36oSqZ3Jd) | 3:39 | 2026-10-19 |  |
 | [Superficial / Love](https://open.spotify.com/track/53fzAHD09qNmkveSms0NhI) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb), [Strings From Paris](https://open.spotify.com/artist/4c520eahgQwzeJopRch4k4) | [Medea](https://open.spotify.com/album/5L85Wkzg77zKaVHqjhiYSo) | 3:39 | 2026-06-16 | 2026-10-19 |

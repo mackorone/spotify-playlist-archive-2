@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume! Cover: Suena
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,619 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,722 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,18 +23,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 13 | [little black dress](https://open.spotify.com/track/05UGMVbH06OGSgq3tExW9C) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [little black dress](https://open.spotify.com/album/0g7eewUCAkmkOeMjBCBmrN) | 2:33 |
 | 14 | [Solísima \- Piano Version](https://open.spotify.com/track/3zUZUqYz08AYF4tsJPRBdE) | [Suena](https://open.spotify.com/artist/3ZCy1ehzbzEAcpcHnHJYXd) | [INSTINCTA](https://open.spotify.com/album/3PLxcpG6HX1bPdqrJTUNfT) | 3:41 |
 | 15 | [Big World](https://open.spotify.com/track/6CBvZGRx0BGjCyWY2hKlcO) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Big World](https://open.spotify.com/album/4vceLCk3xXL8DTpdWrE3ss) | 3:24 |
-| 16 | [Für mich da](https://open.spotify.com/track/62uqgOBogBNLWhffFgoALj) | [SOFFIE](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Kein Streit den man nicht lösen kann](https://open.spotify.com/album/61jMt8HC8MpJ2at4ebO1K8) | 2:59 |
-| 17 | [Dis\-moi Pierre](https://open.spotify.com/track/6OiCrvN2wIH3DROwj3JPrr) | [Zoë Më](https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN) | [Dis\-moi Pierre](https://open.spotify.com/album/4eEEPfr41WyheW6BEE4o8f) | 2:59 |
-| 18 | [ARROGANT](https://open.spotify.com/track/4mcm0nIqYOK3t714LBIzwT) | [CALLI](https://open.spotify.com/artist/1Z8ZD7IOnNaWxt7PMaLiJA) | [ARROGANT](https://open.spotify.com/album/1AYgJbFYuSfWSN3KpAjdjd) | 2:40 |
-| 19 | [bands breiter](https://open.spotify.com/track/3uCsn5n3t8ZEw0uBK3oS42) | [cherice](https://open.spotify.com/artist/3hdHRmL8PsniFkBS3WwuA7) | [bands breiter](https://open.spotify.com/album/5PgWcCrBneffntXJTwAvlW) | 2:12 |
-| 20 | [Diet](https://open.spotify.com/track/47GpoYIhwGSDnkR9SnXeB5) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [Diet](https://open.spotify.com/album/1ao8Ql5hzq9gUB2U6BCn5g) | 3:05 |
-| 21 | [Fang mich doch](https://open.spotify.com/track/2tRnGN7OZUe46vNlu9p5Xg) | [Caro Schaeffler](https://open.spotify.com/artist/0HOgHNCucycZ7DUyWjFhNB) | [Fang mich doch](https://open.spotify.com/album/5Jdh96S9I8wmFJFlKyTWrj) | 2:27 |
-| 22 | [Tiptoes](https://open.spotify.com/track/1qeLlMkDuVySs1febJY0fI) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Tiptoes](https://open.spotify.com/album/2ODOdUYUH0eIXmW1mdzYf3) | 3:28 |
+| 16 | [Dis\-moi Pierre](https://open.spotify.com/track/6OiCrvN2wIH3DROwj3JPrr) | [Zoë Më](https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN) | [Dis\-moi Pierre](https://open.spotify.com/album/4eEEPfr41WyheW6BEE4o8f) | 2:59 |
+| 17 | [Für mich da](https://open.spotify.com/track/62uqgOBogBNLWhffFgoALj) | [SOFFIE](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Kein Streit den man nicht lösen kann](https://open.spotify.com/album/61jMt8HC8MpJ2at4ebO1K8) | 2:59 |
+| 18 | [bands breiter](https://open.spotify.com/track/3uCsn5n3t8ZEw0uBK3oS42) | [cherice](https://open.spotify.com/artist/3hdHRmL8PsniFkBS3WwuA7) | [bands breiter](https://open.spotify.com/album/5PgWcCrBneffntXJTwAvlW) | 2:12 |
+| 19 | [ARROGANT](https://open.spotify.com/track/4mcm0nIqYOK3t714LBIzwT) | [CALLI](https://open.spotify.com/artist/1Z8ZD7IOnNaWxt7PMaLiJA) | [ARROGANT](https://open.spotify.com/album/1AYgJbFYuSfWSN3KpAjdjd) | 2:40 |
+| 20 | [Tiptoes](https://open.spotify.com/track/1qeLlMkDuVySs1febJY0fI) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Tiptoes](https://open.spotify.com/album/2ODOdUYUH0eIXmW1mdzYf3) | 3:28 |
+| 21 | [Diet](https://open.spotify.com/track/47GpoYIhwGSDnkR9SnXeB5) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [Diet](https://open.spotify.com/album/1ao8Ql5hzq9gUB2U6BCn5g) | 3:05 |
+| 22 | [Fang mich doch](https://open.spotify.com/track/2tRnGN7OZUe46vNlu9p5Xg) | [Caro Schaeffler](https://open.spotify.com/artist/0HOgHNCucycZ7DUyWjFhNB) | [Fang mich doch](https://open.spotify.com/album/5Jdh96S9I8wmFJFlKyTWrj) | 2:27 |
 | 23 | [Adulta](https://open.spotify.com/track/7DocintZ5hbadFUprMSIE4) | [Suena](https://open.spotify.com/artist/3ZCy1ehzbzEAcpcHnHJYXd) | [INSTINCTA](https://open.spotify.com/album/3PLxcpG6HX1bPdqrJTUNfT) | 1:41 |
 | 24 | [pink](https://open.spotify.com/track/2Vd5BdcrLQ9VGpoE5Ovmi7) | [verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [pink](https://open.spotify.com/album/1OoPoq8o9oQMBeane1YIRp) | 2:29 |
-| 25 | [kontrolle \(interlude\)](https://open.spotify.com/track/5xjTqKeAfaNIwKDtsInoYe) | [Charlize](https://open.spotify.com/artist/5RKUXG6hD3vVpakjwcK5IW) | [kontrolle \(interlude\)](https://open.spotify.com/album/6Y2G8pJCOhpxrI69stPWDA) | 3:30 |
-| 26 | [GLÜCKLICH](https://open.spotify.com/track/1btpQH1Drooqqmn2fZpvQ7) | [CARLI](https://open.spotify.com/artist/669JFUZgZaJ9uuBT7cGpU6) | [GLÜCKLICH](https://open.spotify.com/album/1nsEHWrwiV7CU59OYAKtyi) | 2:07 |
-| 27 | [Somebody Like You](https://open.spotify.com/track/3bs4l5CqCmFnSTZsicJHSX) | [Dreamboys The Band](https://open.spotify.com/artist/06EJZ7IlXEqlge7HYE5pIc) | [Somebody Like You](https://open.spotify.com/album/0krzNT0R7oicchWQZotbvq) | 2:32 |
+| 25 | [GLÜCKLICH](https://open.spotify.com/track/1btpQH1Drooqqmn2fZpvQ7) | [CARLI](https://open.spotify.com/artist/669JFUZgZaJ9uuBT7cGpU6) | [GLÜCKLICH](https://open.spotify.com/album/1nsEHWrwiV7CU59OYAKtyi) | 2:07 |
+| 26 | [Somebody Like You](https://open.spotify.com/track/3bs4l5CqCmFnSTZsicJHSX) | [Dreamboys The Band](https://open.spotify.com/artist/06EJZ7IlXEqlge7HYE5pIc) | [Somebody Like You](https://open.spotify.com/album/0krzNT0R7oicchWQZotbvq) | 2:32 |
+| 27 | [kontrolle \(interlude\)](https://open.spotify.com/track/5xjTqKeAfaNIwKDtsInoYe) | [Charlize](https://open.spotify.com/artist/5RKUXG6hD3vVpakjwcK5IW) | [kontrolle \(interlude\)](https://open.spotify.com/album/6Y2G8pJCOhpxrI69stPWDA) | 3:30 |
 | 28 | [Take Me to Ecstasy](https://open.spotify.com/track/0ZRVGU4tml1miY4uwmDevN) | [Alyne](https://open.spotify.com/artist/3I6VTLm67GhUmOTrhM0DzY) | [Take Me to Ecstasy](https://open.spotify.com/album/7lSgVKdX8c07TZVTaffiNb) | 4:13 |
 | 29 | [schwarz/weiß](https://open.spotify.com/track/57yrZVbGTTiGRrdCGhXFUu) | [Paula Engels](https://open.spotify.com/artist/1tO0z6nFsDt5mHYNrSPC0b) | [schwarz/weiß](https://open.spotify.com/album/6dBtqyqYiwt4xY4HDplKOE) | 3:20 |
 | 30 | [Primapulsa](https://open.spotify.com/track/06qgb8Cs6lu5V5cMWvOt3j) | [Suena](https://open.spotify.com/artist/3ZCy1ehzbzEAcpcHnHJYXd) | [INSTINCTA](https://open.spotify.com/album/3PLxcpG6HX1bPdqrJTUNfT) | 2:27 |

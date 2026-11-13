@@ -737,6 +737,24 @@
     },
     {
       "album": {
+        "name": "Ebenezer (Music from the Motion Picture)",
+        "url": "https://open.spotify.com/album/3AJVBgueVmdPrLi3OpTdvz"
+      },
+      "artists": [
+        {
+          "name": "Tyler Bates",
+          "url": "https://open.spotify.com/artist/75fIuwXxhZ1atNzWLMrgF0"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81745,
+      "name": "Christmas Supper",
+      "url": "https://open.spotify.com/track/6f82mbh2m5iYvAB6G5vdBV"
+    },
+    {
+      "album": {
         "name": "The Holiday (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1wJZSN3VrWTR8OcFJ4lp9I"
       },
@@ -2682,6 +2700,32 @@
       "duration_ms": 109133,
       "name": "Trelew, Cornwall, England",
       "url": "https://open.spotify.com/track/5lfnVdkjUpDFzHfRh3PYom"
+    },
+    {
+      "album": {
+        "name": "Snoopy Presents: 12 Days of Snoopy (Original Apple TV Soundtrack)",
+        "url": "https://open.spotify.com/album/7CF0KAiX6UzOauKO2ML1ok"
+      },
+      "artists": [
+        {
+          "name": "Kamasi Washington",
+          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
+        },
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        },
+        {
+          "name": "Peanuts",
+          "url": "https://open.spotify.com/artist/58JT424axIaKJNvUgVonOY"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143744,
+      "name": "Trying To Get There (feat. Leon Bridges)",
+      "url": "https://open.spotify.com/track/55wWki4fedcLYqN2F05hjH"
     },
     {
       "album": {

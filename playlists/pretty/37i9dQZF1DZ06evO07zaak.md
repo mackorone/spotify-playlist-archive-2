@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07zaak.md) - [plain]
 
 > This is Pink Floyd\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,588,308 likes - 42 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,588,460 likes - 42 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,20 +35,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07zaak.md) - [plain]
 | 25 | [Take It Back](https://open.spotify.com/track/325toqbCzE1g1pYIED7U4C) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Division Bell](https://open.spotify.com/album/5F0IQXuHfTV7SBvZVnXERl) | 6:12 |
 | 26 | [Dogs](https://open.spotify.com/track/2jvuMDqBK04WvCYYz5qjvG) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Animals](https://open.spotify.com/album/3b4E89rxzZQ9zkhgKpj8N4) | 17:04 |
 | 27 | [One of These Days](https://open.spotify.com/track/6uU0Hu8oVk9gBihokcrDMH) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Meddle](https://open.spotify.com/album/468ZwCchVtzEbt9BHmXopb) | 5:55 |
-| 28 | [Sorrow](https://open.spotify.com/track/0u90NnJ2p3Q2MIP9IaAsg5) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [A Momentary Lapse of Reason](https://open.spotify.com/album/4xODvcpjOOgu4oKWL0sCte) | 8:44 |
+| 28 | [The Final Cut](https://open.spotify.com/track/5y1Uc72BAKxaleTEXpcJJq) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Final Cut](https://open.spotify.com/album/1yMenUMOx7BpfTDuVQs99y) | 4:47 |
 | 29 | [What Do You Want from Me](https://open.spotify.com/track/3Tsh9pjiJ5cvmuiZALdgVz) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Division Bell](https://open.spotify.com/album/5F0IQXuHfTV7SBvZVnXERl) | 4:21 |
-| 30 | [The Final Cut](https://open.spotify.com/track/5y1Uc72BAKxaleTEXpcJJq) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Final Cut](https://open.spotify.com/album/1yMenUMOx7BpfTDuVQs99y) | 4:47 |
+| 30 | [Sorrow](https://open.spotify.com/track/0u90NnJ2p3Q2MIP9IaAsg5) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [A Momentary Lapse of Reason](https://open.spotify.com/album/4xODvcpjOOgu4oKWL0sCte) | 8:44 |
 | 31 | [San Tropez](https://open.spotify.com/track/3kbUFmLV5SHVQonfOpNgkd) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Meddle](https://open.spotify.com/album/468ZwCchVtzEbt9BHmXopb) | 3:42 |
 | 32 | [Lost for Words](https://open.spotify.com/track/4Ev1LZ4uzjnSvDHpgdyBZK) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Division Bell](https://open.spotify.com/album/5F0IQXuHfTV7SBvZVnXERl) | 5:14 |
-| 33 | [Wot's...Uh the Deal](https://open.spotify.com/track/6zGFOp6rJZbYSp9DQO5AHY) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Obscured by Clouds](https://open.spotify.com/album/00BBpx0gG4KfQtxSJBPKUZ) | 5:09 |
-| 34 | [Your Possible Pasts](https://open.spotify.com/track/1IAiDrvZCOx8AHlNZGY5yU) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Final Cut](https://open.spotify.com/album/1yMenUMOx7BpfTDuVQs99y) | 4:23 |
+| 33 | [Your Possible Pasts](https://open.spotify.com/track/1IAiDrvZCOx8AHlNZGY5yU) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Final Cut](https://open.spotify.com/album/1yMenUMOx7BpfTDuVQs99y) | 4:23 |
+| 34 | [Wot's...Uh the Deal](https://open.spotify.com/track/6zGFOp6rJZbYSp9DQO5AHY) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Obscured by Clouds](https://open.spotify.com/album/00BBpx0gG4KfQtxSJBPKUZ) | 5:09 |
 | 35 | [A Pillow of Winds](https://open.spotify.com/track/7krbQbYq63hcwVMNW1R0tD) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Meddle](https://open.spotify.com/album/468ZwCchVtzEbt9BHmXopb) | 5:13 |
 | 36 | [Poles Apart](https://open.spotify.com/track/6uE9hF8fIb6shBXrrzA12U) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Division Bell](https://open.spotify.com/album/5F0IQXuHfTV7SBvZVnXERl) | 7:03 |
-| 37 | [Childhood's End](https://open.spotify.com/track/4fnJmewCdmTfErfSYSysyM) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Obscured by Clouds](https://open.spotify.com/album/00BBpx0gG4KfQtxSJBPKUZ) | 4:33 |
-| 38 | [One of the Few](https://open.spotify.com/track/2rcpqbAf0ZXdgddldbu1sU) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Final Cut](https://open.spotify.com/album/1yMenUMOx7BpfTDuVQs99y) | 1:14 |
+| 37 | [One of the Few](https://open.spotify.com/track/2rcpqbAf0ZXdgddldbu1sU) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Final Cut](https://open.spotify.com/album/1yMenUMOx7BpfTDuVQs99y) | 1:14 |
+| 38 | [Childhood's End](https://open.spotify.com/track/4fnJmewCdmTfErfSYSysyM) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Obscured by Clouds](https://open.spotify.com/album/00BBpx0gG4KfQtxSJBPKUZ) | 4:33 |
 | 39 | [Terminal Frost](https://open.spotify.com/track/4hO2y5DRbeMppklIroS1O8) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [A Momentary Lapse of Reason](https://open.spotify.com/album/4xODvcpjOOgu4oKWL0sCte) | 6:15 |
 | 40 | [Echoes](https://open.spotify.com/track/7kriFJLY2KOhw5en9iI2jb) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Meddle](https://open.spotify.com/album/468ZwCchVtzEbt9BHmXopb) | 23:33 |
-| 41 | [Obscured by Clouds](https://open.spotify.com/track/3c8LKbUsjW9lMYQzVScXQT) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Obscured by Clouds](https://open.spotify.com/album/00BBpx0gG4KfQtxSJBPKUZ) | 3:04 |
-| 42 | [The Fletcher Memorial Home](https://open.spotify.com/track/0L0HAZg6FGrBAS6QE7B1eI) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Final Cut](https://open.spotify.com/album/1yMenUMOx7BpfTDuVQs99y) | 4:09 |
+| 41 | [The Fletcher Memorial Home](https://open.spotify.com/track/0L0HAZg6FGrBAS6QE7B1eI) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Final Cut](https://open.spotify.com/album/1yMenUMOx7BpfTDuVQs99y) | 4:09 |
+| 42 | [Obscured by Clouds](https://open.spotify.com/track/3c8LKbUsjW9lMYQzVScXQT) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Obscured by Clouds](https://open.spotify.com/album/00BBpx0gG4KfQtxSJBPKUZ) | 3:04 |
 
-Snapshot ID: `avENAAAAAABt6Yai6yVLAcOxq0+EBBr1`
+Snapshot ID: `avOwAAAAAAByEacynNO3zDdfEMesERDi`

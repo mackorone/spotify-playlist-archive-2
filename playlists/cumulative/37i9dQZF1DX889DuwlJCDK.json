@@ -15127,24 +15127,6 @@
     },
     {
       "album": {
-        "name": "\u96a3\u611b",
-        "url": "https://open.spotify.com/album/1mCdkc5C4rsQHN3DJDtpp5"
-      },
-      "artists": [
-        {
-          "name": "Be my Girl",
-          "url": "https://open.spotify.com/artist/0f1g7262npe7ZCidh6zdEx"
-        }
-      ],
-      "date_added": "2026-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 317500,
-      "name": "tonariai",
-      "url": "https://open.spotify.com/track/55lSYn8928dCWPcUP2vDLq"
-    },
-    {
-      "album": {
         "name": "Tonight",
         "url": "https://open.spotify.com/album/7exvqVYLZmOrndjXlBAzfx"
       },
@@ -22818,7 +22800,7 @@
       ],
       "date_added": "2026-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 218773,
       "name": "\u30c7\u30d6\u30ea",
       "url": "https://open.spotify.com/track/6rao4FXWyCqdQOwj3L4UpZ"
@@ -36357,6 +36339,24 @@
     },
     {
       "album": {
+        "name": "\u96a3\u611b",
+        "url": "https://open.spotify.com/album/1mCdkc5C4rsQHN3DJDtpp5"
+      },
+      "artists": [
+        {
+          "name": "Be my Girl",
+          "url": "https://open.spotify.com/artist/0f1g7262npe7ZCidh6zdEx"
+        }
+      ],
+      "date_added": "2026-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317500,
+      "name": "\u96a3\u611b",
+      "url": "https://open.spotify.com/track/55lSYn8928dCWPcUP2vDLq"
+    },
+    {
+      "album": {
         "name": "\u96e2\u3055\u306a\u3044\u3067\u3044\u3066",
         "url": "https://open.spotify.com/album/57uP8IjOsKGwHVqAls2bWo"
       },
@@ -36944,7 +36944,7 @@
       ],
       "date_added": "2026-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-12",
+      "date_removed": null,
       "duration_ms": 228233,
       "name": "\u9ab8",
       "url": "https://open.spotify.com/track/3DRxJmLpOKjKyJFLBy8j1J"

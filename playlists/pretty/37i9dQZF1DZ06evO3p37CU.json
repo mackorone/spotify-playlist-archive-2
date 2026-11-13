@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avENAAAAAAD/K5tNMcKt+C3//ex9Wenp",
+  "snapshot_id": "avOwAAAAAAC0PuXd+jBfFk8Yy8U3/tsU",
   "tracks": [
     {
       "added_at": null,
@@ -215,22 +215,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "SuperGood",
-        "url": "https://open.spotify.com/album/07ElwjWGMXVNlQG4TsVn9H"
+        "name": "PERFECT FANTASY",
+        "url": "https://open.spotify.com/album/6RGc5RHYU6tt6hsDKNF0ND"
       },
       "artists": [
         {
-          "name": "Duckwrth",
-          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
-        },
-        {
           "name": "EARTHGANG",
           "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        },
+        {
+          "name": "Spillage Village",
+          "url": "https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf"
+        },
+        {
+          "name": "Benji.",
+          "url": "https://open.spotify.com/artist/2Y4AFMyyarPFVfz9o2CRo2"
         }
       ],
-      "duration_ms": 218017,
-      "name": "Super Bounce",
-      "url": "https://open.spotify.com/track/0bdNktKwMzf6d4V5BNK1KN"
+      "duration_ms": 195200,
+      "name": "BOBBY BOUCHER (feat. Benji.)",
+      "url": "https://open.spotify.com/track/37zzOqUUXvKxKns9Ri0JUh"
     },
     {
       "added_at": null,
@@ -275,26 +279,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "PERFECT FANTASY",
-        "url": "https://open.spotify.com/album/6RGc5RHYU6tt6hsDKNF0ND"
+        "name": "SuperGood",
+        "url": "https://open.spotify.com/album/07ElwjWGMXVNlQG4TsVn9H"
       },
       "artists": [
         {
+          "name": "Duckwrth",
+          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
+        },
+        {
           "name": "EARTHGANG",
           "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        },
-        {
-          "name": "Spillage Village",
-          "url": "https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf"
-        },
-        {
-          "name": "Benji.",
-          "url": "https://open.spotify.com/artist/2Y4AFMyyarPFVfz9o2CRo2"
         }
       ],
-      "duration_ms": 195200,
-      "name": "BOBBY BOUCHER (feat. Benji.)",
-      "url": "https://open.spotify.com/track/37zzOqUUXvKxKns9Ri0JUh"
+      "duration_ms": 218017,
+      "name": "Super Bounce",
+      "url": "https://open.spotify.com/track/0bdNktKwMzf6d4V5BNK1KN"
     },
     {
       "added_at": null,
@@ -439,26 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revenge Of The Dreamers III",
-        "url": "https://open.spotify.com/album/2n3quCZ0anEa46j2IveacI"
-      },
-      "artists": [
-        {
-          "name": "Dreamville",
-          "url": "https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG"
-        },
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        }
-      ],
-      "duration_ms": 194613,
-      "name": "Swivel (with EARTHGANG) - From The Album \"Mirrorland\"",
-      "url": "https://open.spotify.com/track/03XfngWwNfhEjrnEga73Rg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shang-Chi and The Legend of The Ten Rings: The Album",
         "url": "https://open.spotify.com/album/2kAqjStKcwlDD59H0llhGC"
       },
@@ -475,6 +455,26 @@
       "duration_ms": 198626,
       "name": "Act Up",
       "url": "https://open.spotify.com/track/36Ajx3OHw1qOAjS4tJs38V"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Revenge Of The Dreamers III",
+        "url": "https://open.spotify.com/album/2n3quCZ0anEa46j2IveacI"
+      },
+      "artists": [
+        {
+          "name": "Dreamville",
+          "url": "https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        }
+      ],
+      "duration_ms": 194613,
+      "name": "Swivel (with EARTHGANG) - From The Album \"Mirrorland\"",
+      "url": "https://open.spotify.com/track/03XfngWwNfhEjrnEga73Rg"
     },
     {
       "added_at": null,
@@ -579,26 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cool Me Down",
-        "url": "https://open.spotify.com/album/1vi41sN0MrOxjlvafOhTM9"
-      },
-      "artists": [
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        },
-        {
-          "name": "NATURE",
-          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
-        }
-      ],
-      "duration_ms": 195630,
-      "name": "Cool Me Down",
-      "url": "https://open.spotify.com/track/2mEcBJge7HFc9kb62LtQ0v"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Song Machine, Season One: Strange Timez (Deluxe)",
         "url": "https://open.spotify.com/album/5I9K0u8r52jp4Y2bF8mOaz"
       },
@@ -651,6 +631,26 @@
       "duration_ms": 202500,
       "name": "You Comfort Me",
       "url": "https://open.spotify.com/track/6YT5x2mq6uSyhjjrmGEbir"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cool Me Down",
+        "url": "https://open.spotify.com/album/1vi41sN0MrOxjlvafOhTM9"
+      },
+      "artists": [
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        },
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        }
+      ],
+      "duration_ms": 195630,
+      "name": "Cool Me Down",
+      "url": "https://open.spotify.com/track/2mEcBJge7HFc9kb62LtQ0v"
     },
     {
       "added_at": null,
@@ -1031,6 +1031,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Strays with Rabies",
+        "url": "https://open.spotify.com/album/3bYMVNcOHLDv2z6yWEl3yb"
+      },
+      "artists": [
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        },
+        {
+          "name": "Mereba",
+          "url": "https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL"
+        }
+      ],
+      "duration_ms": 296586,
+      "name": "Liquor Sto'",
+      "url": "https://open.spotify.com/track/6fUHMhwKBSmetq2T1PvCKK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Antagonist",
         "url": "https://open.spotify.com/album/6u26YQ3XrrBmHUj3g0dzhJ"
       },
@@ -1055,26 +1075,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Strays with Rabies",
-        "url": "https://open.spotify.com/album/3bYMVNcOHLDv2z6yWEl3yb"
-      },
-      "artists": [
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        },
-        {
-          "name": "Mereba",
-          "url": "https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL"
-        }
-      ],
-      "duration_ms": 296586,
-      "name": "Liquor Sto'",
-      "url": "https://open.spotify.com/track/6fUHMhwKBSmetq2T1PvCKK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mirrorland",
         "url": "https://open.spotify.com/album/2JtlTPzThXs3Pvz8V2iBIB"
       },
@@ -1084,9 +1084,9 @@
           "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
         }
       ],
-      "duration_ms": 179493,
-      "name": "Bank",
-      "url": "https://open.spotify.com/track/0uqJQ1k1N63nl4tAYW8t2A"
+      "duration_ms": 277493,
+      "name": "This Side",
+      "url": "https://open.spotify.com/track/6H1ysWbUhCfAPukSBItJUt"
     },
     {
       "added_at": null,
@@ -1176,9 +1176,9 @@
           "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
         }
       ],
-      "duration_ms": 277493,
-      "name": "This Side",
-      "url": "https://open.spotify.com/track/6H1ysWbUhCfAPukSBItJUt"
+      "duration_ms": 179493,
+      "name": "Bank",
+      "url": "https://open.spotify.com/track/0uqJQ1k1N63nl4tAYW8t2A"
     }
   ],
   "unique_name": "This Is EARTHGANG",

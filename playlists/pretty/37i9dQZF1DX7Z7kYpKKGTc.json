@@ -1,6 +1,6 @@
 {
   "description": "The romantic side of classic rock and metal",
-  "num_followers": 1023242,
+  "num_followers": 1023412,
   "original_name": "Rock Love Songs",
   "owner": {
     "name": "Spotify",
@@ -635,18 +635,22 @@
     {
       "added_at": "2026-09-02 01:59:09",
       "album": {
-        "name": "Cracked Rear View",
-        "url": "https://open.spotify.com/album/5AYmpTfdv1OoASUJ5rZB7K"
+        "name": "Disclaimer II",
+        "url": "https://open.spotify.com/album/1mMgrxFYBUMKANGbapmXxi"
       },
       "artists": [
         {
-          "name": "Hootie & The Blowfish",
-          "url": "https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof"
+          "name": "Seether",
+          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
+        },
+        {
+          "name": "Amy Lee",
+          "url": "https://open.spotify.com/artist/0fGVuq5ed21pM7iWwTcMyk"
         }
       ],
-      "duration_ms": 318533,
-      "name": "Let Her Cry",
-      "url": "https://open.spotify.com/track/6NGi23FFKq9tH5NR1NcTw2"
+      "duration_ms": 258333,
+      "name": "Broken",
+      "url": "https://open.spotify.com/track/507bYMYfbm6sUS9iEAaeSd"
     },
     {
       "added_at": "2026-09-02 01:59:09",

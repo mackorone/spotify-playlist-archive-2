@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Carnaval. The essential tracks, all in one playlist.",
-  "num_followers": 65601,
+  "num_followers": 65605,
   "original_name": "This Is Banda Carnaval",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avENAAAAAAAcTOXdKttMXE9vn12B/4W8",
+  "snapshot_id": "avOwAAAAAAAxsFLGqZ5Le4BA0geOKCfG",
   "tracks": [
     {
       "added_at": null,
@@ -127,22 +127,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El N\u00famero 1",
-        "url": "https://open.spotify.com/album/6DNKBX6yM88feUvaifEWfX"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 226400,
-      "name": "Olvidarte No Ser\u00e1 Sencillo",
-      "url": "https://open.spotify.com/track/28G1NMKWboIAlzSo7O0eT7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "M\u00e1ximo Nivel",
         "url": "https://open.spotify.com/album/2o3N95qE0jyJm4huXhK0WE"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 214666,
       "name": "Lo Que Pienso De Ti",
       "url": "https://open.spotify.com/track/12UqDbdI0cuw5FMGrjX59W"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El N\u00famero 1",
+        "url": "https://open.spotify.com/album/6DNKBX6yM88feUvaifEWfX"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 226400,
+      "name": "Olvidarte No Ser\u00e1 Sencillo",
+      "url": "https://open.spotify.com/track/28G1NMKWboIAlzSo7O0eT7"
     },
     {
       "added_at": null,
@@ -191,22 +191,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El N\u00famero 1",
-        "url": "https://open.spotify.com/album/6DNKBX6yM88feUvaifEWfX"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 207200,
-      "name": "El Mentiroso",
-      "url": "https://open.spotify.com/track/5OQGBfftOwNNCurN60x8SC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Me Rindo",
         "url": "https://open.spotify.com/album/4ZuuapFT4NA2nYljrz6D57"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 220653,
       "name": "Me Rindo",
       "url": "https://open.spotify.com/track/763m9Csnr97OvhnAej8iDQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El N\u00famero 1",
+        "url": "https://open.spotify.com/album/6DNKBX6yM88feUvaifEWfX"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 207200,
+      "name": "El Mentiroso",
+      "url": "https://open.spotify.com/track/5OQGBfftOwNNCurN60x8SC"
     },
     {
       "added_at": null,
@@ -715,6 +715,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Banda Carnaval & Valent\u00edn Elizalde",
+        "url": "https://open.spotify.com/album/77isjgI5Rz6GNpLvxA4VXm"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        },
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "duration_ms": 233546,
+      "name": "Volver\u00e9 A Amar",
+      "url": "https://open.spotify.com/track/4LlLsV4tAVb40iglBkFDfl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sabes Que Lo Hago",
+        "url": "https://open.spotify.com/album/7MX6kDsXTKY7lNSf26ACzz"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 193080,
+      "name": "Sabes Que Lo Hago",
+      "url": "https://open.spotify.com/track/1nXX0DQjdLxaTTyvHLM6WL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "En Vivo Desde El Rancho",
         "url": "https://open.spotify.com/album/0MhHMBaSyymJS9CslAtVxI"
       },
@@ -739,42 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sabes Que Lo Hago",
-        "url": "https://open.spotify.com/album/7MX6kDsXTKY7lNSf26ACzz"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 193080,
-      "name": "Sabes Que Lo Hago",
-      "url": "https://open.spotify.com/track/1nXX0DQjdLxaTTyvHLM6WL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Banda Carnaval & Valent\u00edn Elizalde",
-        "url": "https://open.spotify.com/album/77isjgI5Rz6GNpLvxA4VXm"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        },
-        {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
-        }
-      ],
-      "duration_ms": 233546,
-      "name": "Volver\u00e9 A Amar",
-      "url": "https://open.spotify.com/track/4LlLsV4tAVb40iglBkFDfl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Segunda Temporada",
         "url": "https://open.spotify.com/album/3dcxUASRwab0TUUfBAcPQt"
       },
@@ -787,22 +787,6 @@
       "duration_ms": 157906,
       "name": "Me Perd\u00ed De Un Amor",
       "url": "https://open.spotify.com/track/5dIbOZ1cf4UmEPTUoT5h5G"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En Vivo Desde El Rancho",
-        "url": "https://open.spotify.com/album/0MhHMBaSyymJS9CslAtVxI"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 148680,
-      "name": "Caballito De Otate - En Vivo Desde El Rancho",
-      "url": "https://open.spotify.com/track/71OGhd0HAEQvQzrOPTIJ1j"
     },
     {
       "added_at": null,
@@ -823,22 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fibras Sensibles",
-        "url": "https://open.spotify.com/album/1SIOva8bdGwBhujbFfWmUm"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 200720,
-      "name": "Fibras Sensibles",
-      "url": "https://open.spotify.com/track/3ecQDBEjejR0bXp2ZoeYTo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos, Rancheras Y Caballos En Vivo",
         "url": "https://open.spotify.com/album/0Qy6qGMqzEoZCUu0hKtMu2"
       },
@@ -855,8 +823,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Nuestro Amor No Queda Nada",
-        "url": "https://open.spotify.com/album/2Djiz5Ch5BEDfK8TwNpLEt"
+        "name": "En Vivo Desde El Rancho",
+        "url": "https://open.spotify.com/album/0MhHMBaSyymJS9CslAtVxI"
       },
       "artists": [
         {
@@ -864,9 +832,25 @@
           "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
         }
       ],
-      "duration_ms": 215364,
-      "name": "De Nuestro Amor No Queda Nada",
-      "url": "https://open.spotify.com/track/3DvFmNLmpfBNxe1CC7uOGj"
+      "duration_ms": 148680,
+      "name": "Caballito De Otate - En Vivo Desde El Rancho",
+      "url": "https://open.spotify.com/track/71OGhd0HAEQvQzrOPTIJ1j"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fibras Sensibles",
+        "url": "https://open.spotify.com/album/1SIOva8bdGwBhujbFfWmUm"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 200720,
+      "name": "Fibras Sensibles",
+      "url": "https://open.spotify.com/track/3ecQDBEjejR0bXp2ZoeYTo"
     },
     {
       "added_at": null,
@@ -883,6 +867,22 @@
       "duration_ms": 102840,
       "name": "Caballo De Patas Blancas",
       "url": "https://open.spotify.com/track/2snAmWK7MqZMLHlAb0fu7f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De Nuestro Amor No Queda Nada",
+        "url": "https://open.spotify.com/album/2Djiz5Ch5BEDfK8TwNpLEt"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 215364,
+      "name": "De Nuestro Amor No Queda Nada",
+      "url": "https://open.spotify.com/track/3DvFmNLmpfBNxe1CC7uOGj"
     },
     {
       "added_at": null,

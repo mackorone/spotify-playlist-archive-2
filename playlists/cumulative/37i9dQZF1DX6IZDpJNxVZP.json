@@ -3562,7 +3562,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 152303,
       "name": "Joy to the World",
       "url": "https://open.spotify.com/track/4SiNPQdSlRqjT0bEy0cpFA"
@@ -3834,6 +3834,24 @@
       "duration_ms": 136551,
       "name": "Little Robin",
       "url": "https://open.spotify.com/track/4SJPaflFvYjlQlpVX5Rr9X"
+    },
+    {
+      "album": {
+        "name": "Little Saint Nick",
+        "url": "https://open.spotify.com/album/1bTjt8e6E4s7vJCTw4uE1c"
+      },
+      "artists": [
+        {
+          "name": "The Countdown Kids",
+          "url": "https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128497,
+      "name": "Little Saint Nick",
+      "url": "https://open.spotify.com/track/15Nc1NPMJUnIxPNNABuZ8U"
     },
     {
       "album": {
@@ -7178,7 +7196,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 134186,
       "name": "We Wish You a Merry Christmas",
       "url": "https://open.spotify.com/track/7Ctxl1dKrbv8GAuFxzJ8pR"
@@ -7384,6 +7402,24 @@
       "duration_ms": 168560,
       "name": "What Should I Be for Halloween?",
       "url": "https://open.spotify.com/track/2jh6FmnzLlqkE222YYs9jo"
+    },
+    {
+      "album": {
+        "name": "Festive Fun with Peppa",
+        "url": "https://open.spotify.com/album/3RGc6yVhWDOutB8zbV6dyt"
+      },
+      "artists": [
+        {
+          "name": "Peppa Pig",
+          "url": "https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116600,
+      "name": "What We Love About Christmas",
+      "url": "https://open.spotify.com/track/3Fe6IIfWRTdizILiKE0Rxw"
     },
     {
       "album": {

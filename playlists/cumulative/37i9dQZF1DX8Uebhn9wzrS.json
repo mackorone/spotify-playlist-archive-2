@@ -629,6 +629,24 @@
     },
     {
       "album": {
+        "name": "a.m. mist",
+        "url": "https://open.spotify.com/album/7yZCtcZk2N40AedozG7Qmy"
+      },
+      "artists": [
+        {
+          "name": "Shayla Sereno",
+          "url": "https://open.spotify.com/artist/0d2oMUkzD4I5It0MFXNVpb"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141642,
+      "name": "a.m. mist",
+      "url": "https://open.spotify.com/track/2DjrTNvyYRn8X8V6Ta32HN"
+    },
+    {
+      "album": {
         "name": "Above Surface",
         "url": "https://open.spotify.com/album/1oCtA60JsHMz92tEMexQ6D"
       },
@@ -3736,7 +3754,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 138576,
       "name": "Barefoot Hours",
       "url": "https://open.spotify.com/track/4Z0QMdz4LpXLgvCFv1wv4K"
@@ -13518,7 +13536,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 137073,
       "name": "Familiar Places",
       "url": "https://open.spotify.com/track/3osBV0wkWjEDRWKxo4UjDK"
@@ -16544,7 +16562,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 146250,
       "name": "Give Me a Slice",
       "url": "https://open.spotify.com/track/6AYCQxs3mSt5XtjINwPwDQ"
@@ -26276,7 +26294,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 139130,
       "name": "Midnight Groove",
       "url": "https://open.spotify.com/track/7gDvDMEIlY8ocNh0OpptRB"
@@ -32173,6 +32191,28 @@
     },
     {
       "album": {
+        "name": "Phased",
+        "url": "https://open.spotify.com/album/5dfDAcBqQlLXUcvsp27dIx"
+      },
+      "artists": [
+        {
+          "name": "Banks",
+          "url": "https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU"
+        },
+        {
+          "name": "Ptr.",
+          "url": "https://open.spotify.com/artist/6NjVgE12RKrH5MjW9Tgd0o"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130588,
+      "name": "Phased",
+      "url": "https://open.spotify.com/track/1OXmaIvsUjzgIxfMpdxNDu"
+    },
+    {
+      "album": {
         "name": "Phoebe Buffay",
         "url": "https://open.spotify.com/album/5woAL81Ow7OztxwqzULTgG"
       },
@@ -34052,7 +34092,7 @@
       ],
       "date_added": "2026-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-07",
+      "date_removed": null,
       "duration_ms": 146142,
       "name": "RESOLUTION",
       "url": "https://open.spotify.com/track/7lFW8mhko9rb4ZCGooRy5t"
@@ -34712,7 +34752,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 140541,
       "name": "Roosevelt Hotel",
       "url": "https://open.spotify.com/track/2BhVxXIkQ5mAZ5yewY62MY"
@@ -36554,6 +36594,24 @@
       "duration_ms": 166714,
       "name": "shrimp fried rice",
       "url": "https://open.spotify.com/track/3x3XohQ3tsuvhAKiWKEb2b"
+    },
+    {
+      "album": {
+        "name": "Shutter Speed Living",
+        "url": "https://open.spotify.com/album/2u7Ivf0AZ9dGBN0fiOmLZP"
+      },
+      "artists": [
+        {
+          "name": "GhostBPM",
+          "url": "https://open.spotify.com/artist/1l0Q84vIiTxDfHS9dw7FjA"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "Shutter Speed Living",
+      "url": "https://open.spotify.com/track/7MnbTa4uKQ9ii7PsI9UTqi"
     },
     {
       "album": {
@@ -44258,6 +44316,24 @@
       "duration_ms": 104388,
       "name": "Umbrella",
       "url": "https://open.spotify.com/track/2x7ZGOrxT7aLnMO9d3XZUa"
+    },
+    {
+      "album": {
+        "name": "Umbrella Sky",
+        "url": "https://open.spotify.com/album/5jbJI5sLPO4WWXJvCalKdy"
+      },
+      "artists": [
+        {
+          "name": "DowtownRain",
+          "url": "https://open.spotify.com/artist/2ifE3zo60zdSYOptvRhHYa"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139374,
+      "name": "Umbrella Sky",
+      "url": "https://open.spotify.com/track/2Y4rRlanUi7BHYLBDTYELz"
     },
     {
       "album": {

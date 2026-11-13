@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-09",
-  "description": "What pops out!? Roll the gacha and find your Neo J-Pop treasure. cover: Tatsuya Kitani \u30ad\u30bf\u30cb\u30bf\u30c4\u30e4",
+  "description": "What pops out!? Roll the gacha and find your Neo J-Pop treasure. cover: Kroi",
   "name": "Gacha Pop",
   "tracks": [
     {
@@ -6341,6 +6341,24 @@
     },
     {
       "album": {
+        "name": "KILLA",
+        "url": "https://open.spotify.com/album/67kLj3jphSXfZpTkPL5UsN"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184584,
+      "name": "KILLA",
+      "url": "https://open.spotify.com/track/62QKQ1q60ia1JdRq3z5QLe"
+    },
+    {
+      "album": {
         "name": "Completeness",
         "url": "https://open.spotify.com/album/5i7bsC8RBELXhGeMViNwZX"
       },
@@ -9553,6 +9571,24 @@
     },
     {
       "album": {
+        "name": "reason for being",
+        "url": "https://open.spotify.com/album/0CQJPuVnW2ruQGgBCLvj2R"
+      },
+      "artists": [
+        {
+          "name": "iVy",
+          "url": "https://open.spotify.com/artist/70lDezP0StoGMa58IcLXCc"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192160,
+      "name": "Pinot noir",
+      "url": "https://open.spotify.com/track/2DXknNYBaZlCC7tDM0i23O"
+    },
+    {
+      "album": {
         "name": "plan",
         "url": "https://open.spotify.com/album/1c7dUJR1HsiVLLLR901iMr"
       },
@@ -11517,6 +11553,24 @@
     },
     {
       "album": {
+        "name": "Sugar",
+        "url": "https://open.spotify.com/album/4IusailOZxQhm1g8GXj6kc"
+      },
+      "artists": [
+        {
+          "name": "Hitsujibungaku",
+          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221583,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/6dUGOqORyEd1qv3h3XsKRf"
+    },
+    {
+      "album": {
         "name": "SEQUENCE 01",
         "url": "https://open.spotify.com/album/2dsk3MlHRNOqWqrUZoqI0K"
       },
@@ -11786,7 +11840,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 252518,
       "name": "Sweet Memories feat. \u30a2\u30a4\u30ca\u30fb\u30b8\u30fb\u30a8\u30f3\u30c9",
       "url": "https://open.spotify.com/track/5ohDaO3JClUzxArhvn1gjr"
@@ -13250,7 +13304,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 189629,
       "name": "WATCH ME - feat. BIA",
       "url": "https://open.spotify.com/track/3IWZeuKAIICpfEj7bkSB6p"
@@ -15830,7 +15884,7 @@
       ],
       "date_added": "2026-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 335960,
       "name": "\u30a2\u30b7\u30c7\u30de\u30c8\u30a4",
       "url": "https://open.spotify.com/track/7bJvn5SFOWN17OnAjczSsW"
@@ -16129,6 +16183,24 @@
     },
     {
       "album": {
+        "name": "\u30a8\u30af\u30ec\u30a2\u30dc\u30fc\u30a4",
+        "url": "https://open.spotify.com/album/19i6IGxOToyYdRQl9PkGlt"
+      },
+      "artists": [
+        {
+          "name": "7co",
+          "url": "https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170700,
+      "name": "\u30a8\u30af\u30ec\u30a2\u30dc\u30fc\u30a4",
+      "url": "https://open.spotify.com/track/6DBEAEnL4qp0qtDetTqmqA"
+    },
+    {
+      "album": {
         "name": "\u30a8\u30c8\u30bb\u30c8\u30e9",
         "url": "https://open.spotify.com/album/43Ap150hU1yjJYlmI7Y8IX"
       },
@@ -16266,7 +16338,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 206586,
       "name": "\u30aa\u30ea\u30aa\u30f3",
       "url": "https://open.spotify.com/track/6VpeCZDyuFJD3HW5bwEc8Z"
@@ -17790,7 +17862,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 219400,
       "name": "\u30d0\u30ea\u30d0\u30eaBuddy",
       "url": "https://open.spotify.com/track/03jc1xUdkdwNbbzum0TPEF"
@@ -18818,6 +18890,24 @@
       "duration_ms": 227320,
       "name": "\u30e1\u30d5\u30a3\u30b9\u30c8",
       "url": "https://open.spotify.com/track/45LUKiex0D78VuhP3Oz6mG"
+    },
+    {
+      "album": {
+        "name": "\u30e1\u30e9\u30f3\u30b3\u30ea\u30fc\u6563\u6b69",
+        "url": "https://open.spotify.com/album/0s0CPSG3POgBFYMNyEbECy"
+      },
+      "artists": [
+        {
+          "name": "kiyu",
+          "url": "https://open.spotify.com/artist/3aEOW8dsrbkcL3iA3w1tXu"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238750,
+      "name": "\u30e1\u30e9\u30f3\u30b3\u30ea\u30fc\u6563\u6b69",
+      "url": "https://open.spotify.com/track/6HMYNNwqdtvBvtM6SzRH2a"
     },
     {
       "album": {

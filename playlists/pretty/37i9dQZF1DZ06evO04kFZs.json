@@ -1,12 +1,12 @@
 {
   "description": "This is Pop Smoke. The essential tracks, all in one playlist.",
-  "num_followers": 499028,
+  "num_followers": 499029,
   "original_name": "This Is Pop Smoke",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avENAAAAAADUFR9MIn1FtkPJoxak8JQ3",
+  "snapshot_id": "avOwAAAAAAAmnJmdTk2B2nZtIivdpBH5",
   "tracks": [
     {
       "added_at": null,
@@ -32,21 +32,17 @@
       "added_at": null,
       "album": {
         "name": "Shoot For The Stars Aim For The Moon",
-        "url": "https://open.spotify.com/album/3HrEoVcXbsvjY0KD2AIcNu"
+        "url": "https://open.spotify.com/album/6u3vDhwJ2HXHShH5kD00qL"
       },
       "artists": [
         {
           "name": "Pop Smoke",
           "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
-        },
-        {
-          "name": "Lil Tjay",
-          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
         }
       ],
-      "duration_ms": 213333,
-      "name": "Mood Swings",
-      "url": "https://open.spotify.com/track/5l0uFjA731wPYH8CkR7K1Y"
+      "duration_ms": 160000,
+      "name": "What You Know Bout Love",
+      "url": "https://open.spotify.com/track/4xVmPboqdKG78mkqZ0sn1m"
     },
     {
       "added_at": null,
@@ -104,17 +100,21 @@
       "added_at": null,
       "album": {
         "name": "Shoot For The Stars Aim For The Moon",
-        "url": "https://open.spotify.com/album/6u3vDhwJ2HXHShH5kD00qL"
+        "url": "https://open.spotify.com/album/3HrEoVcXbsvjY0KD2AIcNu"
       },
       "artists": [
         {
           "name": "Pop Smoke",
           "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        },
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
         }
       ],
-      "duration_ms": 160000,
-      "name": "What You Know Bout Love",
-      "url": "https://open.spotify.com/track/4xVmPboqdKG78mkqZ0sn1m"
+      "duration_ms": 213333,
+      "name": "Mood Swings",
+      "url": "https://open.spotify.com/track/5l0uFjA731wPYH8CkR7K1Y"
     },
     {
       "added_at": null,
@@ -726,11 +726,19 @@
         {
           "name": "Pop Smoke",
           "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Pusha T",
+          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
         }
       ],
-      "duration_ms": 120827,
-      "name": "More Time",
-      "url": "https://open.spotify.com/track/5QA4kqSHJJc4oZggCB5aYS"
+      "duration_ms": 215000,
+      "name": "Tell The Vision",
+      "url": "https://open.spotify.com/track/4KAsDy2wUBQCx41kseXU1L"
     },
     {
       "added_at": null,
@@ -802,19 +810,11 @@
         {
           "name": "Pop Smoke",
           "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Pusha T",
-          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
         }
       ],
-      "duration_ms": 215000,
-      "name": "Tell The Vision",
-      "url": "https://open.spotify.com/track/4KAsDy2wUBQCx41kseXU1L"
+      "duration_ms": 120827,
+      "name": "More Time",
+      "url": "https://open.spotify.com/track/5QA4kqSHJJc4oZggCB5aYS"
     },
     {
       "added_at": null,

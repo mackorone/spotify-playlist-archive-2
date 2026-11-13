@@ -121,6 +121,24 @@
     },
     {
       "album": {
+        "name": "Acoustic Worship Medley",
+        "url": "https://open.spotify.com/album/5ocFB503FpEwfJKHePz4He"
+      },
+      "artists": [
+        {
+          "name": "Minstrel John Leke",
+          "url": "https://open.spotify.com/artist/4Y9c0hrqtHikpZFb7lif8o"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102912,
+      "name": "Acoustic Worship Medley",
+      "url": "https://open.spotify.com/track/2b9WSGOgA1nHVHTLDDJqCk"
+    },
+    {
+      "album": {
         "name": "ADDU'A II",
         "url": "https://open.spotify.com/album/25REAlmke4usAabXdUCwGK"
       },
@@ -1969,6 +1987,24 @@
     },
     {
       "album": {
+        "name": "Big God (Live)",
+        "url": "https://open.spotify.com/album/7KEM5f29U0quNQOgtqgma2"
+      },
+      "artists": [
+        {
+          "name": "Grace Oluwaloju",
+          "url": "https://open.spotify.com/artist/6NInTLdGUMFQHAaFnpUo9Y"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 602653,
+      "name": "Big God - Live",
+      "url": "https://open.spotify.com/track/6uKOZlVxeuXbXiUEXEkvaq"
+    },
+    {
+      "album": {
         "name": "Bigger (odogwu)",
         "url": "https://open.spotify.com/album/48QML3HO0ku6ZMnkuYCuAx"
       },
@@ -3350,7 +3386,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 532062,
       "name": "Dear Lord",
       "url": "https://open.spotify.com/track/1GypIZsEmGFqTbmUzkoEf4"
@@ -3874,6 +3910,46 @@
       "duration_ms": 211343,
       "name": "Echoes Of Love",
       "url": "https://open.spotify.com/track/5Soqtv37Gb1ROUIAVCfOeW"
+    },
+    {
+      "album": {
+        "name": "Ego Ole (Live)",
+        "url": "https://open.spotify.com/album/1lWEQZSMeiE4dFvpUE6NNZ"
+      },
+      "artists": [
+        {
+          "name": "Tkeyz",
+          "url": "https://open.spotify.com/artist/6MRNiMCUDv9mDmMcaXhjgI"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 537464,
+      "name": "Ego Ole",
+      "url": "https://open.spotify.com/track/0gPmTJ0QcBRa2aGO4jzsAm"
+    },
+    {
+      "album": {
+        "name": "Ekele Gi (Your Praise)",
+        "url": "https://open.spotify.com/album/49d8vJzEVbxFMe7HJncpdw"
+      },
+      "artists": [
+        {
+          "name": "Judikay",
+          "url": "https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x"
+        },
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210309,
+      "name": "Ekele Gi (Your Praise)",
+      "url": "https://open.spotify.com/track/7nnz0zoHemoMgN59lT8C5d"
     },
     {
       "album": {
@@ -7249,6 +7325,28 @@
     },
     {
       "album": {
+        "name": "His Mercy Endures",
+        "url": "https://open.spotify.com/album/0aVk77WXs43mXFtXwic8fo"
+      },
+      "artists": [
+        {
+          "name": "Pelumi Deborah",
+          "url": "https://open.spotify.com/artist/4UEAcfckZercWHlnw0jdOx"
+        },
+        {
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1066830,
+      "name": "His Mercy Endures",
+      "url": "https://open.spotify.com/track/1efOKuzlOACr2JcMgILRN3"
+    },
+    {
+      "album": {
         "name": "His Own (Leave Me Alone)",
         "url": "https://open.spotify.com/album/2EJzFXvdGBLUaTrcILHbJw"
       },
@@ -9434,7 +9532,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 321538,
       "name": "iNkosi Yinhle Futhi Ilungile",
       "url": "https://open.spotify.com/track/6oDmWhaSLEe3kdgdwD5hI0"
@@ -9820,7 +9918,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 309270,
       "name": "Jesus",
       "url": "https://open.spotify.com/track/4m6pnffyyH6NGaig7PaG2I"
@@ -10352,7 +10450,7 @@
       ],
       "date_added": "2025-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-12",
+      "date_removed": null,
       "duration_ms": 284853,
       "name": "Kulungile Baba",
       "url": "https://open.spotify.com/track/1lVle6qDY5DRMiJFgHyd3i"
@@ -11436,7 +11534,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-04",
+      "date_removed": null,
       "duration_ms": 166000,
       "name": "Miracle No Dey Tire Jesus",
       "url": "https://open.spotify.com/track/4BdSQteqYNDGU8oD487KEU"
@@ -12872,7 +12970,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 175188,
       "name": "No Longer Bound (I'm Free)",
       "url": "https://open.spotify.com/track/2GGvmXF70zQ13NS86nOw7k"
@@ -13548,7 +13646,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 263535,
       "name": "Oh the Blood",
       "url": "https://open.spotify.com/track/4jllsGoYmiFXrKUv25APKn"
@@ -13774,7 +13872,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 266750,
       "name": "Omemma",
       "url": "https://open.spotify.com/track/22M26W7IWo0P9s0pZWpCLV"
@@ -15254,7 +15352,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 317250,
       "name": "Righteous One",
       "url": "https://open.spotify.com/track/0Mhpqg33CpDyzCkhZjSNC8"
@@ -15993,6 +16091,28 @@
     },
     {
       "album": {
+        "name": "So Good (Live)",
+        "url": "https://open.spotify.com/album/3qD33yGPSAHLmGzNJB3esF"
+      },
+      "artists": [
+        {
+          "name": "Grace Idowu",
+          "url": "https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH"
+        },
+        {
+          "name": "Aremmic",
+          "url": "https://open.spotify.com/artist/7BT40oP5mx0gTwoR8KmbCN"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351502,
+      "name": "So Good - Live",
+      "url": "https://open.spotify.com/track/0QHfS2r97xd9VDPGS860UA"
+    },
+    {
+      "album": {
         "name": "Sogi",
         "url": "https://open.spotify.com/album/67QMPJvknH8c1gTr4lkhTR"
       },
@@ -16066,7 +16186,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 530989,
       "name": "Solid Rock",
       "url": "https://open.spotify.com/track/401HXqPDizJstzW9B1Rhfh"
@@ -17286,6 +17406,24 @@
       "duration_ms": 375893,
       "name": "The Maranatha Song",
       "url": "https://open.spotify.com/track/4C8wVVjL8n3s5i6R3kDhL1"
+    },
+    {
+      "album": {
+        "name": "The Name of Jesus",
+        "url": "https://open.spotify.com/album/6yUyqpFPTcrFrYYjtxRxrL"
+      },
+      "artists": [
+        {
+          "name": "I-fee Sound",
+          "url": "https://open.spotify.com/artist/2KksbUKNi1zlUA3f2YEilP"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232122,
+      "name": "The Name of Jesus",
+      "url": "https://open.spotify.com/track/4NqTtJ6dyVNY8zs2TiJuCP"
     },
     {
       "album": {
@@ -18576,7 +18714,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 308636,
       "name": "We Need Your Mercy",
       "url": "https://open.spotify.com/track/0QWo72wWFYr189PTEDJnrp"
@@ -19772,7 +19910,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-08",
+      "date_removed": null,
       "duration_ms": 642000,
       "name": "Yahweh",
       "url": "https://open.spotify.com/track/4cnDMiBwVbuZVmS7keEFYn"
@@ -20096,7 +20234,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-11",
+      "date_removed": null,
       "duration_ms": 350194,
       "name": "YET (feat. Ashley Hess & the King will come)",
       "url": "https://open.spotify.com/track/4vH0rypLr1NgyymAXehhgG"
@@ -20370,7 +20508,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 369056,
       "name": "You Are Worthy - Live",
       "url": "https://open.spotify.com/track/6ZTsQQt8hgTLyKH50hvaeS"
@@ -20752,7 +20890,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 394647,
       "name": "Your True Friend (Jesus) - Live",
       "url": "https://open.spotify.com/track/4du4cTGn30RQcy9sY1Lc9J"

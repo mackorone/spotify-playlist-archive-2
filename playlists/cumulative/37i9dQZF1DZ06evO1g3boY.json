@@ -5,6 +5,32 @@
   "tracks": [
     {
       "album": {
+        "name": "A Contribui\u00e7\u00e3o Milion\u00e1ria de Todos os Erros",
+        "url": "https://open.spotify.com/album/0L2OUS0v0XhkWCh3ee0WRg"
+      },
+      "artists": [
+        {
+          "name": "Puro Suco",
+          "url": "https://open.spotify.com/artist/3UD5S1SrDQo3KPTfWxL7Ms"
+        },
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "BEATDOMK",
+          "url": "https://open.spotify.com/artist/3skj2KZCvizGrCwYD03ApC"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224571,
+      "name": "7 mil caminhos",
+      "url": "https://open.spotify.com/track/6NgzBc8hIelJKYB5KIfItr"
+    },
+    {
+      "album": {
         "name": "AmarElo - Ao Vivo",
         "url": "https://open.spotify.com/album/1OEj74ygMvQHFyypp3COpw"
       },
@@ -2196,7 +2222,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 194240,
       "name": "Sozim",
       "url": "https://open.spotify.com/track/2l6Cfr8vIkONQJKQRRHnsz"

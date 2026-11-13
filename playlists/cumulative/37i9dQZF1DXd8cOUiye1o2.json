@@ -1419,6 +1419,24 @@
     },
     {
       "album": {
+        "name": "Niki G",
+        "url": "https://open.spotify.com/album/6hcKDorzP4sFk9iaTd85Wu"
+      },
+      "artists": [
+        {
+          "name": "Nikhita Gandhi",
+          "url": "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "All That I Have",
+      "url": "https://open.spotify.com/track/24XA6nrVoP57Tik49MxEGh"
+    },
+    {
+      "album": {
         "name": "Alvida (From \"Aankhon Ki Gustaakhiyan\")",
         "url": "https://open.spotify.com/album/7EKIi0Xwjf2ZGbMB2BS1WA"
       },
@@ -3272,7 +3290,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 264444,
       "name": "Beete Lamhe",
       "url": "https://open.spotify.com/track/5zQZS2f6kUJ2UOoOVDte14"
@@ -4311,6 +4329,36 @@
     },
     {
       "album": {
+        "name": "Bulaye Chhathi Maa (From \"Yeh Prem Mol Liya\")",
+        "url": "https://open.spotify.com/album/5wKUoRLcKKaNeaKREAih4a"
+      },
+      "artists": [
+        {
+          "name": "Himesh Reshammiya",
+          "url": "https://open.spotify.com/artist/0sSxphmGskGCKlwB9xa6WU"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Keshav Anand",
+          "url": "https://open.spotify.com/artist/7LkdtgIhOIz0JRoigs3O3K"
+        },
+        {
+          "name": "Manoj Muntashir",
+          "url": "https://open.spotify.com/artist/4cAERazLlAzVGA10ORWaUP"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369743,
+      "name": "Bulaye Chhathi Maa - From \"Yeh Prem Mol Liya\"",
+      "url": "https://open.spotify.com/track/7CKyzLr5rGzuAbpQVx0OPC"
+    },
+    {
+      "album": {
         "name": "Bulletproof (From \"Lukkhe\")",
         "url": "https://open.spotify.com/album/0wCIknAP0Im4Baez90mTjA"
       },
@@ -4720,7 +4768,7 @@
       ],
       "date_added": "2026-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 186305,
       "name": "Chamka Chamka",
       "url": "https://open.spotify.com/track/0tFrnfs90NSGuwJnfUYcnu"
@@ -6248,7 +6296,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 201818,
       "name": "Dhoond",
       "url": "https://open.spotify.com/track/7fGPb53JPKWVYtofXWK3p2"
@@ -9091,10 +9139,6 @@
         "url": "https://open.spotify.com/album/2pa6Jiy3Gi7T2xPw1Y1aFF"
       },
       "artists": [
-        {
-          "name": "RAAHEE",
-          "url": "https://open.spotify.com/artist/6t9jQM2chaUmhwqMNPGR66"
-        },
         {
           "name": "Raj Barman",
           "url": "https://open.spotify.com/artist/5qERXbPWPdUePjrAW00vuU"
@@ -17869,6 +17913,28 @@
     },
     {
       "album": {
+        "name": "Mudd Na Sajna",
+        "url": "https://open.spotify.com/album/5oNufrn0Td0leLDHIWw6w7"
+      },
+      "artists": [
+        {
+          "name": "Madhubanti Bagchi",
+          "url": "https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h"
+        },
+        {
+          "name": "Siddharth Amit Bhavsar",
+          "url": "https://open.spotify.com/artist/2DQZm7ErqpqiT4nxF9i4a2"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232456,
+      "name": "Mudd Na Sajna",
+      "url": "https://open.spotify.com/track/4feeZH5iAQjvKhWyoXNVLT"
+    },
+    {
+      "album": {
         "name": "Tu Meri Main Tera Main Tera Tu Meri",
         "url": "https://open.spotify.com/album/237OmhF9Vu3GATeI30W4ci"
       },
@@ -18476,7 +18542,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 264000,
       "name": "Naina Saavan",
       "url": "https://open.spotify.com/track/4zDxjgxg2gZDSnKCUIyQJA"
@@ -25907,6 +25973,40 @@
     },
     {
       "album": {
+        "name": "Teri Ore",
+        "url": "https://open.spotify.com/album/0rwXjsxEkC4aTnPClIeRzn"
+      },
+      "artists": [
+        {
+          "name": "Palak Muchhal",
+          "url": "https://open.spotify.com/artist/3yMmYEklQ7gLOZXEFNd3xr"
+        },
+        {
+          "name": "Shahid Mallya",
+          "url": "https://open.spotify.com/artist/4LnYRxNZVCTsDCO2xKjOn8"
+        },
+        {
+          "name": "Javed-Mohsin",
+          "url": "https://open.spotify.com/artist/2zvJLk0gTH7r7A5Q6X5Bq8"
+        },
+        {
+          "name": "Vishal Pandey",
+          "url": "https://open.spotify.com/artist/5y04rD8ihZfeNmcqK0W6eu"
+        },
+        {
+          "name": "Sheetal Sharma",
+          "url": "https://open.spotify.com/artist/7xy0RuQgVy3ecvEaXWhd3O"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248086,
+      "name": "Teri Ore",
+      "url": "https://open.spotify.com/track/4fiyN7ps9e6hyeoRfk02OL"
+    },
+    {
+      "album": {
         "name": "Teri Pehli Nazar (From \"Love In Vietnam\")",
         "url": "https://open.spotify.com/album/4eS9yCRDlKVVu3BDcDlDvX"
       },
@@ -26326,6 +26426,28 @@
       "duration_ms": 154952,
       "name": "Title Track (From Mrs. Deshpande)",
       "url": "https://open.spotify.com/track/1IcCrRl0iEpdSo0ucbgoRT"
+    },
+    {
+      "album": {
+        "name": "Niki G",
+        "url": "https://open.spotify.com/album/6hcKDorzP4sFk9iaTd85Wu"
+      },
+      "artists": [
+        {
+          "name": "Nikhita Gandhi",
+          "url": "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
+        },
+        {
+          "name": "Karan Kanchan",
+          "url": "https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159230,
+      "name": "Toddy",
+      "url": "https://open.spotify.com/track/1Vok23JnLm6I0VLkF7Bf0w"
     },
     {
       "album": {
@@ -27242,7 +27364,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 234047,
       "name": "Tujh Mein Basi Meri Jaan (From \"Prahaar: The Untold Story Of Ujjwal Nikam\")",
       "url": "https://open.spotify.com/track/2t5tY8gvTlUlGlOuG8Czne"

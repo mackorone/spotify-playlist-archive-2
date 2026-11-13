@@ -3245,6 +3245,24 @@
     },
     {
       "album": {
+        "name": "follow me",
+        "url": "https://open.spotify.com/album/6L4UpkfUt2mNrCMewjl4Os"
+      },
+      "artists": [
+        {
+          "name": "Noir Vista",
+          "url": "https://open.spotify.com/artist/2lEM5VYK095SC5NRXvQSoJ"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137182,
+      "name": "follow me",
+      "url": "https://open.spotify.com/track/0Dj7gjJgVy6SdoW8XLFKCF"
+    },
+    {
+      "album": {
         "name": "Follow you to the end",
         "url": "https://open.spotify.com/album/0UvFH1NKo6HOnZSZNopxUF"
       },
@@ -6557,6 +6575,24 @@
     },
     {
       "album": {
+        "name": "Pause",
+        "url": "https://open.spotify.com/album/6prAiKpW1V0204T8uDiKPj"
+      },
+      "artists": [
+        {
+          "name": "apparater",
+          "url": "https://open.spotify.com/artist/5KQgYUEYCLvjLZge7PLlZW"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150946,
+      "name": "Pause",
+      "url": "https://open.spotify.com/track/34gIaRzNI4FG0LhBfhgKjU"
+    },
+    {
+      "album": {
         "name": "Paw",
         "url": "https://open.spotify.com/album/0Y7b18kuxfilvbmCmXKJTT"
       },
@@ -6748,7 +6784,7 @@
       ],
       "date_added": "2025-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 148611,
       "name": "Pitanga",
       "url": "https://open.spotify.com/track/5IqsEqudEHRwKk878X9xNB"
@@ -8555,6 +8591,24 @@
     },
     {
       "album": {
+        "name": "Sunburst",
+        "url": "https://open.spotify.com/album/1Y4N80pMoVSoCdYUI0RlrG"
+      },
+      "artists": [
+        {
+          "name": "MAC MAY",
+          "url": "https://open.spotify.com/artist/3UrJQ0mp4sFhOzqC1GKjti"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148037,
+      "name": "Sunburst",
+      "url": "https://open.spotify.com/track/23lryTADz8u2Q8DKeXxy5Q"
+    },
+    {
+      "album": {
         "name": "Sunday Drive",
         "url": "https://open.spotify.com/album/11R7PXqvuiJWwfNnE8YRrK"
       },
@@ -8876,6 +8930,24 @@
       "duration_ms": 129391,
       "name": "Talk to Me",
       "url": "https://open.spotify.com/track/7N2owRWLVbvf6bUbjmhqMj"
+    },
+    {
+      "album": {
+        "name": "Tangerine",
+        "url": "https://open.spotify.com/album/0tEKAoJLeoU7C1TIZy44iC"
+      },
+      "artists": [
+        {
+          "name": "Luminez",
+          "url": "https://open.spotify.com/artist/2F4pWWLPG7lbACO3RUBjoQ"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147169,
+      "name": "Tangerine",
+      "url": "https://open.spotify.com/track/0MX8GStAilgYMPAKaiqPUp"
     },
     {
       "album": {
@@ -9455,6 +9527,24 @@
     },
     {
       "album": {
+        "name": "Tropical",
+        "url": "https://open.spotify.com/album/29QlouUOSoTv66nMYkX6YD"
+      },
+      "artists": [
+        {
+          "name": "Duke Washington",
+          "url": "https://open.spotify.com/artist/6Tur5tz3yIV5EZeLwClVVq"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Tropical",
+      "url": "https://open.spotify.com/track/7aApZSl5ErNw1qQAFqrexE"
+    },
+    {
+      "album": {
         "name": "Tryin' - Chill House",
         "url": "https://open.spotify.com/album/7toIQ03j9CygKydoqvhzff"
       },
@@ -9880,7 +9970,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 153596,
       "name": "Villa",
       "url": "https://open.spotify.com/track/4rxpODKq41MdeiVvq8UnhY"

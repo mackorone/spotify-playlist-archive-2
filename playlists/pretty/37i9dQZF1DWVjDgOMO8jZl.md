@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVjDgOMO8jZl.md) - [plain]
 
 > La classe RADAR 2026/27 che non vediamo l'ora di farvi scoprire e raccontarvi 🥹 Emili Kasa in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,875 likes - 19 songs - 57 min 29 sec
+[Spotify](https://open.spotify.com/user/spotify) - 25,877 likes - 19 songs - 57 min 29 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,15 +1,123 @@
 {
-  "description": "De toekomst van de Benelux volgens onze muziekredactie. Cover: <a href=\"spotify:artist:5qQLp6Xal6S6KXEHgvxmvp\">Dressed Like Boys</a> ",
-  "num_followers": 8305,
+  "description": "De toekomst van de Benelux volgens onze muziekredactie. Cover: <a href=\"spotify:artist:4oMzH6lIWPhCdx7KADXLJZ\">Senna</a> ",
+  "num_followers": 8304,
   "original_name": "RADAR BNLX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAN4jL2+JM+CdlDJMHhEDgLpXm3vF",
+  "snapshot_id": "AAAAANfhvSFP2yZnzxTJM53v55UVQWuw",
   "tracks": [
     {
-      "added_at": "2026-10-29 23:00:56",
+      "added_at": "2026-11-12 23:00:35",
+      "album": {
+        "name": "Hey Poes",
+        "url": "https://open.spotify.com/album/5eKGfJrhNXed8KYrsJAOkp"
+      },
+      "artists": [
+        {
+          "name": "Senna",
+          "url": "https://open.spotify.com/artist/4oMzH6lIWPhCdx7KADXLJZ"
+        },
+        {
+          "name": "Monique Smit",
+          "url": "https://open.spotify.com/artist/5z4lUxGyk6fWkbqoITgJTv"
+        }
+      ],
+      "duration_ms": 141374,
+      "name": "Hey Poes",
+      "url": "https://open.spotify.com/track/3or3wODEzHipOyhbn9GBZp"
+    },
+    {
+      "added_at": "2026-11-12 23:00:35",
+      "album": {
+        "name": "Vuurwerk",
+        "url": "https://open.spotify.com/album/6Q3K5puUGxM4OChACZbBPf"
+      },
+      "artists": [
+        {
+          "name": "Senna",
+          "url": "https://open.spotify.com/artist/4oMzH6lIWPhCdx7KADXLJZ"
+        },
+        {
+          "name": "Sven Versteeg",
+          "url": "https://open.spotify.com/artist/0NJI3CV8t7MIgRhC3Ov2vV"
+        }
+      ],
+      "duration_ms": 184800,
+      "name": "Vuurwerk",
+      "url": "https://open.spotify.com/track/5gFNiSyU6MJBcWU31ATJgh"
+    },
+    {
+      "added_at": "2026-11-12 23:00:35",
+      "album": {
+        "name": "Waar Blijf Je Nou",
+        "url": "https://open.spotify.com/album/5bVeC1xSb9cerOTLbVCKDJ"
+      },
+      "artists": [
+        {
+          "name": "Donnie",
+          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
+        },
+        {
+          "name": "Senna",
+          "url": "https://open.spotify.com/artist/4oMzH6lIWPhCdx7KADXLJZ"
+        }
+      ],
+      "duration_ms": 178432,
+      "name": "Waar Blijf Je Nou",
+      "url": "https://open.spotify.com/track/3zPB1hMsorvAEiIl88JOpr"
+    },
+    {
+      "added_at": "2026-11-12 23:00:35",
+      "album": {
+        "name": "Silver Springs (Spotify Singles)",
+        "url": "https://open.spotify.com/album/0fW7syaAcr6p7MpMnyq49k"
+      },
+      "artists": [
+        {
+          "name": "Sarah Julia",
+          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
+        }
+      ],
+      "duration_ms": 200399,
+      "name": "Silver Springs - Spotify Singles",
+      "url": "https://open.spotify.com/track/171L1i9B8JSR234FJbKDPi"
+    },
+    {
+      "added_at": "2026-11-12 23:00:35",
+      "album": {
+        "name": "The Fear That This Is Real",
+        "url": "https://open.spotify.com/album/59eUZ7LL95OYdNB2nxbsE4"
+      },
+      "artists": [
+        {
+          "name": "Sarah Julia",
+          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
+        }
+      ],
+      "duration_ms": 232903,
+      "name": "Touchdown",
+      "url": "https://open.spotify.com/track/3rEVddu309s1q60xAEB7AE"
+    },
+    {
+      "added_at": "2026-11-12 23:00:35",
+      "album": {
+        "name": "Wishing Stone",
+        "url": "https://open.spotify.com/album/5Rq1WgYz5l7DSHU7FYgtbE"
+      },
+      "artists": [
+        {
+          "name": "Sarah Julia",
+          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
+        }
+      ],
+      "duration_ms": 228395,
+      "name": "Wishing Stone",
+      "url": "https://open.spotify.com/track/2vXS0Aia2hmzUvZg2iFpEz"
+    },
+    {
+      "added_at": "2026-11-12 23:00:35",
       "album": {
         "name": "LY",
         "url": "https://open.spotify.com/album/16nQg0IJ2lgJLXxg7bR77c"
@@ -25,7 +133,7 @@
       "url": "https://open.spotify.com/track/7c9MmK1KocaSXLhsXCDnCq"
     },
     {
-      "added_at": "2026-10-15 22:00:19",
+      "added_at": "2026-11-12 23:00:35",
       "album": {
         "name": "And Then I Woke Up",
         "url": "https://open.spotify.com/album/3coDLWeDJYp3m5iyh6rEFK"
@@ -41,7 +149,7 @@
       "url": "https://open.spotify.com/track/2mrOZHjVK645tRXNUJxcTI"
     },
     {
-      "added_at": "2026-10-15 22:00:19",
+      "added_at": "2026-11-12 23:00:35",
       "album": {
         "name": "Dressed Like Boys",
         "url": "https://open.spotify.com/album/2aVuPgS0edNTSjUodsqwGn"
@@ -57,7 +165,7 @@
       "url": "https://open.spotify.com/track/7crOLVTdtuCxsPVnrZJxSZ"
     },
     {
-      "added_at": "2026-10-29 23:00:56",
+      "added_at": "2026-11-12 23:00:35",
       "album": {
         "name": "Meisje Van Het Noorden",
         "url": "https://open.spotify.com/album/59Htiw60K0NE276cUSguCw"
@@ -77,7 +185,7 @@
       "url": "https://open.spotify.com/track/4vAhRwKWmeAXaoRuoyz9GX"
     },
     {
-      "added_at": "2026-10-15 22:00:19",
+      "added_at": "2026-11-12 23:00:35",
       "album": {
         "name": "Niemand Wil Een Popster",
         "url": "https://open.spotify.com/album/33rXtwNcRKwvEM8w0vqVPQ"
@@ -93,7 +201,7 @@
       "url": "https://open.spotify.com/track/4ylzEL9Fiz17Wh9ojfG0cL"
     },
     {
-      "added_at": "2026-10-15 22:00:19",
+      "added_at": "2026-11-12 23:00:35",
       "album": {
         "name": "Ik Haat Je",
         "url": "https://open.spotify.com/album/2KYisYmKm6X6vPqBWZzMMm"
@@ -113,7 +221,7 @@
       "url": "https://open.spotify.com/track/6585feosjoM8XJYrKDMHAi"
     },
     {
-      "added_at": "2026-10-29 23:00:56",
+      "added_at": "2026-11-12 23:00:35",
       "album": {
         "name": "OLYMPIA",
         "url": "https://open.spotify.com/album/7tjANrVYCWX3mxqL6A7q0V"
@@ -141,7 +249,7 @@
       "url": "https://open.spotify.com/track/4ssqFV5CiUDiaoN0AIVxbW"
     },
     {
-      "added_at": "2026-10-15 22:00:19",
+      "added_at": "2026-11-12 23:00:35",
       "album": {
         "name": "REAL W\u00a3T",
         "url": "https://open.spotify.com/album/35dD6e2QnVR4JEZXvdZeQs"
@@ -169,7 +277,7 @@
       "url": "https://open.spotify.com/track/1RvV0atdwwLGQYBnqlD823"
     },
     {
-      "added_at": "2026-10-15 22:00:19",
+      "added_at": "2026-11-12 23:00:35",
       "album": {
         "name": "Ereronde (Deluxe)",
         "url": "https://open.spotify.com/album/4EnUKKxdXG5fcAYee26gta"
@@ -185,7 +293,7 @@
       "url": "https://open.spotify.com/track/72yHK7rmosQlWOcrhJ27w9"
     },
     {
-      "added_at": "2026-10-15 22:00:19",
+      "added_at": "2026-11-12 23:00:35",
       "album": {
         "name": "Team",
         "url": "https://open.spotify.com/album/0fIZfL92hzRoUXA7MCS85f"
@@ -213,7 +321,7 @@
       "url": "https://open.spotify.com/track/5AAmx0PVyKogRIn9bEfO47"
     },
     {
-      "added_at": "2026-10-15 22:00:19",
+      "added_at": "2026-11-12 23:00:35",
       "album": {
         "name": "Helaas",
         "url": "https://open.spotify.com/album/5VJ9DvEiel3SnSZBSFGnvx"
@@ -237,7 +345,7 @@
       "url": "https://open.spotify.com/track/0JzULZMvwyf00IMQmGFoS5"
     },
     {
-      "added_at": "2026-10-15 22:00:19",
+      "added_at": "2026-11-12 23:00:35",
       "album": {
         "name": "Bottega",
         "url": "https://open.spotify.com/album/3oI3ueQ9ULWtdMSV6yVP4Q"
@@ -253,55 +361,7 @@
       "url": "https://open.spotify.com/track/0AIJ7AyADNauAKNBKEKhGv"
     },
     {
-      "added_at": "2026-10-15 22:00:19",
-      "album": {
-        "name": "The Fear That This Is Real",
-        "url": "https://open.spotify.com/album/59eUZ7LL95OYdNB2nxbsE4"
-      },
-      "artists": [
-        {
-          "name": "Sarah Julia",
-          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
-        }
-      ],
-      "duration_ms": 232903,
-      "name": "Touchdown",
-      "url": "https://open.spotify.com/track/3rEVddu309s1q60xAEB7AE"
-    },
-    {
-      "added_at": "2026-10-15 22:00:19",
-      "album": {
-        "name": "Therapist's Daughter",
-        "url": "https://open.spotify.com/album/3bcNya70WdDCtpcBK2V0Fl"
-      },
-      "artists": [
-        {
-          "name": "Sarah Julia",
-          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
-        }
-      ],
-      "duration_ms": 173593,
-      "name": "Therapist's Daughter",
-      "url": "https://open.spotify.com/track/4Wa4o786mF0RLlLoO2Sz4R"
-    },
-    {
-      "added_at": "2026-10-15 22:00:19",
-      "album": {
-        "name": "Wishing Stone",
-        "url": "https://open.spotify.com/album/5Rq1WgYz5l7DSHU7FYgtbE"
-      },
-      "artists": [
-        {
-          "name": "Sarah Julia",
-          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
-        }
-      ],
-      "duration_ms": 228395,
-      "name": "Wishing Stone",
-      "url": "https://open.spotify.com/track/2vXS0Aia2hmzUvZg2iFpEz"
-    },
-    {
-      "added_at": "2026-10-29 23:00:56",
+      "added_at": "2026-11-12 23:00:35",
       "album": {
         "name": "Beste Zangers 2026 (Zo\u00eb Livay)",
         "url": "https://open.spotify.com/album/4r5YD8D2gp85QTuo6pcv26"
@@ -321,7 +381,7 @@
       "url": "https://open.spotify.com/track/5JWHSbwDQIXQP9532k3uqQ"
     },
     {
-      "added_at": "2026-10-15 22:00:19",
+      "added_at": "2026-11-12 23:00:35",
       "album": {
         "name": "Beste Zangers 2026 (Zo\u00eb Livay)",
         "url": "https://open.spotify.com/album/4hp8Ylt5gjrnn7JMrQIb4F"
@@ -341,7 +401,7 @@
       "url": "https://open.spotify.com/track/7bqWezmwsEJdUqy326SM83"
     },
     {
-      "added_at": "2026-10-15 22:00:19",
+      "added_at": "2026-11-12 23:00:35",
       "album": {
         "name": "Sluit Me In Je Armen",
         "url": "https://open.spotify.com/album/0dmNOTJAS3XLdvQyVJpYaW"
@@ -355,62 +415,6 @@
       "duration_ms": 163976,
       "name": "Sluit Me In Je Armen",
       "url": "https://open.spotify.com/track/3hDonrNsWXsXegk5y67wKs"
-    },
-    {
-      "added_at": "2026-10-15 22:00:19",
-      "album": {
-        "name": "Vuurwerk",
-        "url": "https://open.spotify.com/album/6Q3K5puUGxM4OChACZbBPf"
-      },
-      "artists": [
-        {
-          "name": "Senna",
-          "url": "https://open.spotify.com/artist/4oMzH6lIWPhCdx7KADXLJZ"
-        },
-        {
-          "name": "Sven Versteeg",
-          "url": "https://open.spotify.com/artist/0NJI3CV8t7MIgRhC3Ov2vV"
-        }
-      ],
-      "duration_ms": 184800,
-      "name": "Vuurwerk",
-      "url": "https://open.spotify.com/track/5gFNiSyU6MJBcWU31ATJgh"
-    },
-    {
-      "added_at": "2026-10-15 22:00:19",
-      "album": {
-        "name": "Waar Blijf Je Nou",
-        "url": "https://open.spotify.com/album/5bVeC1xSb9cerOTLbVCKDJ"
-      },
-      "artists": [
-        {
-          "name": "Donnie",
-          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
-        },
-        {
-          "name": "Senna",
-          "url": "https://open.spotify.com/artist/4oMzH6lIWPhCdx7KADXLJZ"
-        }
-      ],
-      "duration_ms": 178432,
-      "name": "Waar Blijf Je Nou",
-      "url": "https://open.spotify.com/track/3zPB1hMsorvAEiIl88JOpr"
-    },
-    {
-      "added_at": "2026-10-15 22:00:19",
-      "album": {
-        "name": "Alles Wat Ik Nodig Heb",
-        "url": "https://open.spotify.com/album/0y7U633k7fboef4iOSNVWy"
-      },
-      "artists": [
-        {
-          "name": "Senna",
-          "url": "https://open.spotify.com/artist/4oMzH6lIWPhCdx7KADXLJZ"
-        }
-      ],
-      "duration_ms": 142182,
-      "name": "Alles Wat Ik Nodig Heb",
-      "url": "https://open.spotify.com/track/4hmpOuIVv8kxVQfpKvDBqN"
     }
   ],
   "unique_name": "RADAR BNLX",

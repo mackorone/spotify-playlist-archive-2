@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 
 > La  selección  musical de la inconmensurable tristeza latina bajo la mirada de un simple editor de Spotify
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,556 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,566 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,10 +42,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 | 32 | [Santa Rosa](https://open.spotify.com/track/59pr4mXuQU6VbpXQjVoN5L) | [Procrastinación 1 Yo 0](https://open.spotify.com/artist/1MSazhd5p3dgnK1WBLduaT) | [El Mejor Regalo De Nuestras Vidas](https://open.spotify.com/album/4twfyKaFL5bFXEqUbeLx5q) | 2:56 |
 | 33 | [Miedo a Perder](https://open.spotify.com/track/3X6apLf8f7fD7qDFdOCj13) | [El Sueño de Alicia](https://open.spotify.com/artist/1Jdy7PQDJZPnCplQ3HxCbs) | [Sociedad De Socorro Mutuo](https://open.spotify.com/album/2kJMFGORcX2UM7lEBx4WAC) | 2:45 |
 | 34 | [Estética Unisex](https://open.spotify.com/track/7cyaNzIBHiKiUj9qYYc7MV) | [cacomixtle](https://open.spotify.com/artist/5BPV50KIHSSKCHuQwh30fP) | [Estética Unisex](https://open.spotify.com/album/17yFPNdiIHiEbyg8heJyOS) | 1:53 |
-| 35 | [kickflip](https://open.spotify.com/track/3z35ncyRmvJA1jORp83naX) | [Cuando el problema no existe](https://open.spotify.com/artist/6jNLWMmQOaV3OeQbjPmWOn) | [kickflip](https://open.spotify.com/album/6H1xzfMVhMoST3Pfvqb01d) | 4:18 |
+| 35 | [Jardín de Plastilina](https://open.spotify.com/track/5TlBGBCObj3AGtuwUIcJE9) | [recuerdo acariciar con miedo las alas de un ave herida](https://open.spotify.com/artist/5VpDAX7Mz6ZYj0odIGXcHu) | [Muchas Formas de Decir Casa](https://open.spotify.com/album/6w90GXtYSucNXlwo19qk0u) | 3:52 |
 | 36 | [Mot Hulligan](https://open.spotify.com/track/6en3tPpGj4vfkHnGDsEq9x) | [Almost Done](https://open.spotify.com/artist/19uFCH9vBe6F7cOZNK5DZ9), [Las Cosas Calladitas](https://open.spotify.com/artist/2rVBJ9SpnaT23vEJE2lzpb) | [Peter Brown](https://open.spotify.com/album/0NJuZCHjKCxyRK78AMttIQ) | 3:20 |
 | 37 | [Nunca Pense En Algo Tan Feo Como Odiarte](https://open.spotify.com/track/1vm2xeAdZmtZAUYNuWVY5e) | [Mi Mascota Leila](https://open.spotify.com/artist/3fMUI1SlJ06jX1V0qGNmge) | [Nunca Pense En Algo Tan Feo Como Odiarte](https://open.spotify.com/album/0Zr2dw2MSPmv50W6yb2tFi) | 2:38 |
-| 38 | [Jardín de Plastilina](https://open.spotify.com/track/5TlBGBCObj3AGtuwUIcJE9) | [recuerdo acariciar con miedo las alas de un ave herida](https://open.spotify.com/artist/5VpDAX7Mz6ZYj0odIGXcHu) | [Muchas Formas de Decir Casa](https://open.spotify.com/album/6w90GXtYSucNXlwo19qk0u) | 3:52 |
+| 38 | [kickflip](https://open.spotify.com/track/3z35ncyRmvJA1jORp83naX) | [Cuando el problema no existe](https://open.spotify.com/artist/6jNLWMmQOaV3OeQbjPmWOn) | [kickflip](https://open.spotify.com/album/6H1xzfMVhMoST3Pfvqb01d) | 4:18 |
 | 39 | [micheladas](https://open.spotify.com/track/5NEVQPTo96aRBH1l94rzEs) | [cacomixtle](https://open.spotify.com/artist/5BPV50KIHSSKCHuQwh30fP) | [micheladas](https://open.spotify.com/album/4HLVYt01Umo4A63cpg4g4B) | 2:16 |
 | 40 | [U/T](https://open.spotify.com/track/1GUxYyg4Hg49icIJC9p0qA) | [Un Viejo Arcoiris](https://open.spotify.com/artist/2DmfnifKTOqFOMBBj7pPbb) | [Hace Dos Veranos](https://open.spotify.com/album/1PRTHcesi1VKgVWtkjIS6j) | 2:47 |
 | 41 | [Destello](https://open.spotify.com/track/1M0QiIMZ7hR7Am3hK9Y5Vz) | [Distimia Agorafóbica](https://open.spotify.com/artist/7tISC8BW7wEIbPpQVz4RmR) | [Todo Ocaso Resplandece y Acaba](https://open.spotify.com/album/7Mpv4BsHC0sM20F4RXXMYJ) | 5:00 |

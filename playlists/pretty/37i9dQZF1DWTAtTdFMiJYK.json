@@ -1,6 +1,6 @@
 {
   "description": "Most exciting artists from the Indian Indie scene. Cover: Niyam",
-  "num_followers": 207145,
+  "num_followers": 207283,
   "original_name": "RADAR India",
   "owner": {
     "name": "Spotify",
@@ -851,22 +851,26 @@
     {
       "added_at": "2026-11-06 06:17:58",
       "album": {
-        "name": "Main Khadya",
-        "url": "https://open.spotify.com/album/2mzaueuvI1r4fRrwJEUdX4"
+        "name": "Woh",
+        "url": "https://open.spotify.com/album/1reZwldnOqKL9BWwwrSH2x"
       },
       "artists": [
         {
-          "name": "Naveen Chaudhary",
-          "url": "https://open.spotify.com/artist/7mG5Kqg1c8YqOjzxwbmdxB"
+          "name": "Khatth",
+          "url": "https://open.spotify.com/artist/25z03NEKPCRRfHVBCsgOiY"
         },
         {
-          "name": "Heer",
-          "url": "https://open.spotify.com/artist/0Z9plG3hnIsXMiAukUIh1l"
+          "name": "Sthiti",
+          "url": "https://open.spotify.com/artist/61oEn9Hdu2SCqRWT8E8bVw"
+        },
+        {
+          "name": "Shruti Prakash Dash",
+          "url": "https://open.spotify.com/artist/2FeA4uJpvcZ1uemmSaC1Qj"
         }
       ],
-      "duration_ms": 162461,
-      "name": "Main Khadya",
-      "url": "https://open.spotify.com/track/0qcTfoV2aVjbajiDNzWkZJ"
+      "duration_ms": 194521,
+      "name": "Woh",
+      "url": "https://open.spotify.com/track/1bw0tYUf70kQaVeiPd2U7c"
     },
     {
       "added_at": "2026-11-06 06:17:58",
@@ -895,26 +899,22 @@
     {
       "added_at": "2026-11-06 06:17:58",
       "album": {
-        "name": "Woh",
-        "url": "https://open.spotify.com/album/1reZwldnOqKL9BWwwrSH2x"
+        "name": "Main Khadya",
+        "url": "https://open.spotify.com/album/2mzaueuvI1r4fRrwJEUdX4"
       },
       "artists": [
         {
-          "name": "Khatth",
-          "url": "https://open.spotify.com/artist/25z03NEKPCRRfHVBCsgOiY"
+          "name": "Naveen Chaudhary",
+          "url": "https://open.spotify.com/artist/7mG5Kqg1c8YqOjzxwbmdxB"
         },
         {
-          "name": "Sthiti",
-          "url": "https://open.spotify.com/artist/61oEn9Hdu2SCqRWT8E8bVw"
-        },
-        {
-          "name": "Shruti Prakash Dash",
-          "url": "https://open.spotify.com/artist/2FeA4uJpvcZ1uemmSaC1Qj"
+          "name": "Heer",
+          "url": "https://open.spotify.com/artist/0Z9plG3hnIsXMiAukUIh1l"
         }
       ],
-      "duration_ms": 194521,
-      "name": "Woh",
-      "url": "https://open.spotify.com/track/1bw0tYUf70kQaVeiPd2U7c"
+      "duration_ms": 162461,
+      "name": "Main Khadya",
+      "url": "https://open.spotify.com/track/0qcTfoV2aVjbajiDNzWkZJ"
     },
     {
       "added_at": "2026-11-06 06:17:58",

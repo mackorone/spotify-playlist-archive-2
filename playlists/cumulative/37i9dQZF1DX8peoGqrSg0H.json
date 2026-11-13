@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: LYKN",
+  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: BILLKIN",
   "name": "T-Pop Now",
   "tracks": [
     {
@@ -3660,7 +3660,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 205161,
       "name": "New Season (\u0e24\u0e14\u0e39\u0e43\u0e2b\u0e21\u0e48)",
       "url": "https://open.spotify.com/track/3VcmuNLcc2sH1ZrFh2njnp"
@@ -3794,7 +3794,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 217346,
       "name": "Not The Best But Still Good - From \"\u0e14\u0e49\u0e27\u0e07\u0e01\u0e31\u0e1a\u0e40\u0e18\u0e2d Duang With You\"",
       "url": "https://open.spotify.com/track/3Gc9V37FTaHx9bFtX4hfmn"
@@ -4134,6 +4134,24 @@
       "duration_ms": 185377,
       "name": "Pick A Card",
       "url": "https://open.spotify.com/track/4V2UBqg9gve2nRewvtDoP8"
+    },
+    {
+      "album": {
+        "name": "Please",
+        "url": "https://open.spotify.com/album/54smc6Y8SyhMS5nx7ztqY0"
+      },
+      "artists": [
+        {
+          "name": "JASP.ER",
+          "url": "https://open.spotify.com/artist/1wBe2nbEVc01LGBk4YCxER"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211363,
+      "name": "Please",
+      "url": "https://open.spotify.com/track/53IXN2kmm8HD34hnDfzLfe"
     },
     {
       "album": {
@@ -5157,6 +5175,24 @@
     },
     {
       "album": {
+        "name": "Think About You",
+        "url": "https://open.spotify.com/album/2rKs4K9M3ai12ugGeqQSkZ"
+      },
+      "artists": [
+        {
+          "name": "CLO'VER",
+          "url": "https://open.spotify.com/artist/6KINo3699mlyhzNc89bE7t"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184411,
+      "name": "Think About You",
+      "url": "https://open.spotify.com/track/4y2HJ7jyd3l4SQ6Ce1I1N5"
+    },
+    {
+      "album": {
         "name": "Time Flies",
         "url": "https://open.spotify.com/album/4HWxA9IkxlZHJzv3SNbXdX"
       },
@@ -5190,7 +5226,7 @@
       ],
       "date_added": "2026-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 178064,
       "name": "Tippy",
       "url": "https://open.spotify.com/track/47IHdImbWol8u0WpVUgccT"
@@ -6757,6 +6793,28 @@
     },
     {
       "album": {
+        "name": "\u0e02\u0e32\u0e14\u0e40\u0e18\u0e2d (Losing You) (From \"\u0e40\u0e02\u0e21\u0e08\u0e34\u0e23\u0e32\u0e15\u0e49\u0e2d\u0e07\u0e23\u0e2d\u0e14\u0e15\u0e25\u0e2d\u0e14\u0e01\u0e32\u0e25 Khemjira Forever Series\")",
+        "url": "https://open.spotify.com/album/1uUyxU176TvuFs76x49ucf"
+      },
+      "artists": [
+        {
+          "name": "TLE MATIMUN",
+          "url": "https://open.spotify.com/artist/55nXVlnA6gx8ixFHPq30r6"
+        },
+        {
+          "name": "FirstOne",
+          "url": "https://open.spotify.com/artist/0VcQFPTVtUjOdJvVEkGvMP"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206560,
+      "name": "\u0e02\u0e32\u0e14\u0e40\u0e18\u0e2d (Losing You) - From \"\u0e40\u0e02\u0e21\u0e08\u0e34\u0e23\u0e32\u0e15\u0e49\u0e2d\u0e07\u0e23\u0e2d\u0e14\u0e15\u0e25\u0e2d\u0e14\u0e01\u0e32\u0e25 Khemjira Forever Series\"",
+      "url": "https://open.spotify.com/track/0Cnb0yIf87HUioFaGxutRm"
+    },
+    {
+      "album": {
         "name": "\u0e02\u0e35\u0e49\u0e2b\u0e22\u0e2d\u0e01 (Kidjing)",
         "url": "https://open.spotify.com/album/52rV9x3w4aN1BpTRLijUaA"
       },
@@ -7290,7 +7348,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 208800,
       "name": "\u0e04\u0e23\u0e1a\u0e23\u0e2d\u0e1a\u0e44\u0e1b\u0e14\u0e49\u0e27\u0e22\u0e01\u0e31\u0e19 (Counting Till I Die)",
       "url": "https://open.spotify.com/track/4INM2cIXCKyYQDuwdBsVgU"
@@ -8304,7 +8362,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 241875,
       "name": "\u0e08\u0e33\u0e44\u0e27\u0e49",
       "url": "https://open.spotify.com/track/4UbYIYA0YmoSfkD7o9fbXJ"
@@ -8774,6 +8832,24 @@
       "duration_ms": 190000,
       "name": "\u0e0a\u0e31\u0e48\u0e27\u0e42\u0e21\u0e07\u0e1e\u0e34\u0e40\u0e28\u0e29 (Time To Love)",
       "url": "https://open.spotify.com/track/6Z7vxUs7OmuVMlkX6ZEz3R"
+    },
+    {
+      "album": {
+        "name": "\u0e0a\u0e35\u0e27\u0e34\u0e15\u0e04\u0e37\u0e2d\u0e2d\u0e30\u0e44\u0e23? (Winter Is Coming)",
+        "url": "https://open.spotify.com/album/23TjisvxxfW8EHT7w9U8m0"
+      },
+      "artists": [
+        {
+          "name": "THE TOYS",
+          "url": "https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177362,
+      "name": "\u0e0a\u0e35\u0e27\u0e34\u0e15\u0e04\u0e37\u0e2d\u0e2d\u0e30\u0e44\u0e23? (Winter Is Coming)",
+      "url": "https://open.spotify.com/track/7wm5UZWumOYMcynaX5R2M7"
     },
     {
       "album": {
@@ -10488,7 +10564,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 172040,
       "name": "\u0e19\u0e48\u0e32\u0e23\u0e31\u0e01\u0e40\u0e01\u0e34\u0e19\u0e01\u0e33\u0e2b\u0e19\u0e14 - From \"\u0e17\u0e35\u0e48\u0e23\u0e31\u0e01\u0e2a\u0e32\u0e23\u0e27\u0e31\u0e15\u0e23\u0e40\u0e18\u0e35\u0e22\u0e23\u0e4c\"",
       "url": "https://open.spotify.com/track/2kYKeiblbGnScQleDDFFmD"
@@ -10760,7 +10836,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 191100,
       "name": "\u0e1b\u0e25\u0e48\u0e2d\u0e22\u0e43\u0e08 (Bloom)",
       "url": "https://open.spotify.com/track/47lYJIDzEjbb3GMPjbNwmG"
@@ -12108,6 +12184,24 @@
       "duration_ms": 215675,
       "name": "\u0e23\u0e2d\u0e40\u0e01\u0e48\u0e07 - Introvert",
       "url": "https://open.spotify.com/track/60lOiEJVxbn4Crv8344i1W"
+    },
+    {
+      "album": {
+        "name": "\u0e23\u0e30\u0e1a\u0e1a\u0e02\u0e31\u0e14\u0e02\u0e49\u0e2d\u0e07 (SOS)",
+        "url": "https://open.spotify.com/album/32XwNOmfBKvV9VWMtLPRaX"
+      },
+      "artists": [
+        {
+          "name": "BILLKIN",
+          "url": "https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193404,
+      "name": "\u0e23\u0e30\u0e1a\u0e1a\u0e02\u0e31\u0e14\u0e02\u0e49\u0e2d\u0e07 (SOS)",
+      "url": "https://open.spotify.com/track/6TcM9UKDc12Kus4bMBQaJU"
     },
     {
       "album": {
@@ -14910,6 +15004,24 @@
       "duration_ms": 178909,
       "name": "\u0e2d\u0e32\u0e2b\u0e21\u0e27\u0e22\u0e2b\u0e32\u0e22 (\u963f\u59b9\u8d70 / Chinese Girl)",
       "url": "https://open.spotify.com/track/4rDCI4NQEBQrfTFN5epRYU"
+    },
+    {
+      "album": {
+        "name": "\u0e2d\u0e34\u0e07\u0e44\u0e2b\u0e25\u0e48",
+        "url": "https://open.spotify.com/album/4eVfOwFCCQPgfZ3UHOQjuS"
+      },
+      "artists": [
+        {
+          "name": "PS",
+          "url": "https://open.spotify.com/artist/5mPMimurGk9ARZM3FV12x0"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209132,
+      "name": "\u0e2d\u0e34\u0e07\u0e44\u0e2b\u0e25\u0e48",
+      "url": "https://open.spotify.com/track/2yVIkqqIJb00owsPDInXCV"
     },
     {
       "album": {
@@ -18065,6 +18177,24 @@
     },
     {
       "album": {
+        "name": "\u0e43\u0e08\u0e25\u0e2d\u0e22 (Join a line)",
+        "url": "https://open.spotify.com/album/0krMujtk1IHKmwbd9AZbUM"
+      },
+      "artists": [
+        {
+          "name": "NONT TANONT",
+          "url": "https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240374,
+      "name": "\u0e43\u0e08\u0e25\u0e2d\u0e22 (Join a line)",
+      "url": "https://open.spotify.com/track/7gEbFk8tNECKN2ioXrcEQS"
+    },
+    {
+      "album": {
         "name": "\u0e43\u0e08\u0e27\u0e32\u0e22 (Why Do I Love You?)",
         "url": "https://open.spotify.com/album/6GwmK1E56jer66kfS4KXIg"
       },
@@ -18608,7 +18738,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 216000,
       "name": "\u0e44\u0e21\u0e48\u0e23\u0e27\u0e22\u0e44\u0e21\u0e48\u0e04\u0e38\u0e22 (Rich)",
       "url": "https://open.spotify.com/track/6MMQz5ctjNNEE7CWKoEDrM"

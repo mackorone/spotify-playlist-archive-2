@@ -2273,6 +2273,24 @@
     },
     {
       "album": {
+        "name": "Bombshell",
+        "url": "https://open.spotify.com/album/3YN9pb7xbignsmawVbSo0n"
+      },
+      "artists": [
+        {
+          "name": "Snotty Nose Rez Kids",
+          "url": "https://open.spotify.com/artist/16T3el1CEjX49qFA7UT2n5"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121125,
+      "name": "Bombshell",
+      "url": "https://open.spotify.com/track/2VeN1n4V4e1MQuxsbz1cHe"
+    },
+    {
+      "album": {
         "name": "Boost Up",
         "url": "https://open.spotify.com/album/76u0teJxmuTXfNZLNws7Ub"
       },
@@ -4360,7 +4378,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 217024,
       "name": "Currency",
       "url": "https://open.spotify.com/track/2nVP6HXSfFSD5ISwQmaQ8w"
@@ -11172,7 +11190,7 @@
       ],
       "date_added": "2026-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 160000,
       "name": "Innocent Smile (feat. Suggs & Chase & Status)",
       "url": "https://open.spotify.com/track/2vaQLoyoTBiG07lwseHd3f"
@@ -16644,7 +16662,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 171940,
       "name": "Pandora's Box",
       "url": "https://open.spotify.com/track/6zpeQpV1meY5BVLKYlmgwX"

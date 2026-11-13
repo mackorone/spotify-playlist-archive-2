@@ -401,6 +401,24 @@
     },
     {
       "album": {
+        "name": "2745",
+        "url": "https://open.spotify.com/album/5hFyFSKzjb72pNZ9W1ttIY"
+      },
+      "artists": [
+        {
+          "name": "LEO2745",
+          "url": "https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353348,
+      "name": "2745",
+      "url": "https://open.spotify.com/track/3B1HyVNTIX4YBQUzzthnDH"
+    },
+    {
+      "album": {
         "name": "2K26 FREESTYLE",
         "url": "https://open.spotify.com/album/5QKYIywU2MGSR8LmnP5B3j"
       },
@@ -5479,6 +5497,24 @@
     },
     {
       "album": {
+        "name": "VENDETTA: Veni, Vidi, Vici",
+        "url": "https://open.spotify.com/album/7ndEiAxUhF1Q9LXk5dQyMs"
+      },
+      "artists": [
+        {
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167858,
+      "name": "CR7",
+      "url": "https://open.spotify.com/track/7dg3JBafoISze8RxBFmiG2"
+    },
+    {
+      "album": {
         "name": "10/10",
         "url": "https://open.spotify.com/album/2aNvcfyPkWMeQcE5f2OMJI"
       },
@@ -10018,7 +10054,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 147341,
       "name": "Ipanema",
       "url": "https://open.spotify.com/track/3dGuHCcyjt9vBSWwJMlbMc"
@@ -11610,7 +11646,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 132270,
       "name": "Main Character Energy",
       "url": "https://open.spotify.com/track/2F9jpjyAeKI8r3hVvwpfGL"
@@ -19351,6 +19387,24 @@
     },
     {
       "album": {
+        "name": "SOLTAR OS C\u00c3ES",
+        "url": "https://open.spotify.com/album/1k8NMuuWTy7ZFEc8aOaVLC"
+      },
+      "artists": [
+        {
+          "name": "Joint One",
+          "url": "https://open.spotify.com/artist/5W4i9lwHlsuhSL6Mw4KvCQ"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202800,
+      "name": "SOLTAR OS C\u00c3ES",
+      "url": "https://open.spotify.com/track/6w2QRhwaRQXESn20yCHBvZ"
+    },
+    {
+      "album": {
         "name": "Sometimes",
         "url": "https://open.spotify.com/album/5KtyAVXpW4uqD2TG02NTA4"
       },
@@ -20748,7 +20802,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 200412,
       "name": "Traumas",
       "url": "https://open.spotify.com/track/4F85yQQ8WBin4BJN9ZGLvW"

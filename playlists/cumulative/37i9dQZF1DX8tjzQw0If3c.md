@@ -2,9 +2,9 @@
 
 ### [RADAR SG & MY](https://open.spotify.com/playlist/37i9dQZF1DX8tjzQw0If3c)
 
-> Meet the future\. Cover: Estelle Fly
+> Meet the future\. Cover: Julia Duclos
 
-341 songs - 18 hr 31 min
+342 songs - 18 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [EYEZ](https://open.spotify.com/track/0mb8qYvh2IUAuQQ3gNTueb) | [karan](https://open.spotify.com/artist/6QJpQL2sOAE4yKLSHFyjy8) | [EYEZ](https://open.spotify.com/album/3tARCP2tUQXmIIJeRg0hrN) | 3:53 | 2025-07-17 | 2026-04-07 |
 | [EYEZ](https://open.spotify.com/track/4YqQdOfk5KNUEqLZcdsftr) | [karan](https://open.spotify.com/artist/6QJpQL2sOAE4yKLSHFyjy8) | [OTHERNIGHT](https://open.spotify.com/album/2R0stQU71C8iijxgMo6Fec) | 3:53 | 2025-12-03 | 2026-01-17 |
 | [FADE](https://open.spotify.com/track/3XZHLeJ3qcVWhMSTlarRWA) | [karan](https://open.spotify.com/artist/6QJpQL2sOAE4yKLSHFyjy8) | [FADE](https://open.spotify.com/album/4zkXysoyWxSxF9T7OsbgQe) | 2:36 | 2025-04-15 | 2026-04-07 |
+| [Faham](https://open.spotify.com/track/1feTnYVXe2se5srOHXjTWf) | [Julia Duclos](https://open.spotify.com/artist/0eK60XV9Prh7naXVKJt1XE) | [Faham](https://open.spotify.com/album/2rb2r9LM2Pkqktj672s9BD) | 2:48 | 2026-11-12 |  |
 | [failed tailors](https://open.spotify.com/track/1Wo0SG49zVdZMR72F7N554) | [MISTER TWO FIVE](https://open.spotify.com/artist/3ktfXasHfUIS1KgXvjkg1o) | [failed tailors](https://open.spotify.com/album/5WtwPe85WwbgAi3z2fnv05) | 2:42 | 2026-07-17 |  |
 | [Fairy](https://open.spotify.com/track/7sSZn238Sz9I1YnUE1yLXc) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W) | [Fairy](https://open.spotify.com/album/2YMOfRKtE80e5w7IPblfyc) | 3:21 | 2025-02-27 | 2025-04-16 |
 | [Falling Behind](https://open.spotify.com/track/4rkVYgCqgTwtKzc8HDdWHZ) | [rhyu](https://open.spotify.com/artist/01861Hi28PdrPUOZwFaMcJ) | [Falling Behind](https://open.spotify.com/album/4pFN6euGkFVwdF7RxZe3qO) | 3:00 | 2024-06-27 | 2025-04-16 |

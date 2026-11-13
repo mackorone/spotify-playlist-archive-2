@@ -1,12 +1,12 @@
 {
   "description": "Bringing out the best of latest love tracks\nCover : Alias Rukmini",
-  "num_followers": 172492,
+  "num_followers": 172499,
   "original_name": "Latest Romance Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALC+Faa7m01YnKuqI16hmy/aDhwm",
+  "snapshot_id": "AAAAAMPwcgRm819Ivu6nO0jfKV54obdi",
   "tracks": [
     {
       "added_at": "2026-11-02 03:30:36",
@@ -31,6 +31,34 @@
       "duration_ms": 227569,
       "name": "Ruku Ruku Rukmini (From \"Alias Rukmini\")",
       "url": "https://open.spotify.com/track/1I1MMjsWoJG82rwvy9RbZr"
+    },
+    {
+      "added_at": "2026-11-13 04:06:37",
+      "album": {
+        "name": "Meghaalu Sandhramlo (From \"Inka Em Anukoledhu\")",
+        "url": "https://open.spotify.com/album/1ZIUotzoHr1QQkPftVoELL"
+      },
+      "artists": [
+        {
+          "name": "Sinjith Yerramilli",
+          "url": "https://open.spotify.com/artist/30p5WaPxeojOvFem2XwJtd"
+        },
+        {
+          "name": "Adithya RK",
+          "url": "https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm"
+        },
+        {
+          "name": "Gomathi Iyer",
+          "url": "https://open.spotify.com/artist/7ekeKm0GRK4hh1TYrjfmiI"
+        },
+        {
+          "name": "Kittu Vissapragada",
+          "url": "https://open.spotify.com/artist/5UDv7yHHkED5J7nXh3yoiy"
+        }
+      ],
+      "duration_ms": 222500,
+      "name": "Meghaalu Sandhramlo (From \"Inka Em Anukoledhu\")",
+      "url": "https://open.spotify.com/track/1UJ3TqCsn7BkfZtze10mf3"
     },
     {
       "added_at": "2026-10-08 12:34:35",
@@ -85,32 +113,156 @@
       "url": "https://open.spotify.com/track/1I6ugA7KeDLB7pmwYYbRG1"
     },
     {
-      "added_at": "2026-11-02 03:30:36",
+      "added_at": "2026-11-13 04:06:37",
       "album": {
-        "name": "Kusuma (From \"Mana Graamaayanam\")",
-        "url": "https://open.spotify.com/album/158ZDZKgSC4VaAwJKiaSuw"
+        "name": "Rutthuu (From \"Reality\")",
+        "url": "https://open.spotify.com/album/24LGyHJkkJd1NbD2996Ghs"
       },
       "artists": [
         {
-          "name": "Pancham Jeeva",
-          "url": "https://open.spotify.com/artist/3Aw8pGLgK0Mjl5gh2S7F6s"
+          "name": "Bheems Ceciroleo",
+          "url": "https://open.spotify.com/artist/0L5f9aJIaxQXTipZ7uQYiC"
         },
         {
-          "name": "Sakshi Kallur",
-          "url": "https://open.spotify.com/artist/4XA1eGTPybnNfZtbbyThDt"
+          "name": "Kapil Kapilan",
+          "url": "https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2"
         },
         {
-          "name": "Poornachandra Tejaswi SV",
-          "url": "https://open.spotify.com/artist/1VDfV4Mh4Hc6uQIw6qRQ88"
-        },
-        {
-          "name": "Hanumayya Bandaru",
-          "url": "https://open.spotify.com/artist/5FgeOseolnvsW64b4GbroS"
+          "name": "Purnachary",
+          "url": "https://open.spotify.com/artist/1ZFFT98lBNfyXcsCbXZP7j"
         }
       ],
-      "duration_ms": 266105,
-      "name": "Kusuma (From \"Mana Graamaayanam\")",
-      "url": "https://open.spotify.com/track/72ZdH4RLvgnUzSlJIMNKcm"
+      "duration_ms": 193043,
+      "name": "Rutthuu (From \"Reality\")",
+      "url": "https://open.spotify.com/track/7sqOnNFWADqAORU2USmsEe"
+    },
+    {
+      "added_at": "2026-11-13 04:20:33",
+      "album": {
+        "name": "Evaraina (From \"Haindava\")",
+        "url": "https://open.spotify.com/album/2S2XMMaYvnhaXOsPPf1jEP"
+      },
+      "artists": [
+        {
+          "name": "Kapil Kapilan",
+          "url": "https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2"
+        },
+        {
+          "name": "Shweta Mohan",
+          "url": "https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9"
+        },
+        {
+          "name": "Sam Cs",
+          "url": "https://open.spotify.com/artist/3FKfvZFiwpIUWvZgC75bzU"
+        },
+        {
+          "name": "Kittu Vissapragada",
+          "url": "https://open.spotify.com/artist/5UDv7yHHkED5J7nXh3yoiy"
+        }
+      ],
+      "duration_ms": 219818,
+      "name": "Evaraina (From \"Haindava\")",
+      "url": "https://open.spotify.com/track/5PmsvXxFAFphVx5r861DMJ"
+    },
+    {
+      "added_at": "2026-09-21 15:02:16",
+      "album": {
+        "name": "Anjaana Anjaani (From \"The Paradise\") (Telugu)",
+        "url": "https://open.spotify.com/album/3SBWD56siGLfTGGm40Zsre"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Sublahshini",
+          "url": "https://open.spotify.com/artist/0nh5cRtt03SU6LhzhVC5fv"
+        },
+        {
+          "name": "Kittu Vissapragada",
+          "url": "https://open.spotify.com/artist/5UDv7yHHkED5J7nXh3yoiy"
+        }
+      ],
+      "duration_ms": 230976,
+      "name": "Anjaana Anjaani (From \"The Paradise\") (Telugu)",
+      "url": "https://open.spotify.com/track/5TjLPa8M104c3bImxulwpR"
+    },
+    {
+      "added_at": "2026-11-13 04:06:37",
+      "album": {
+        "name": "Vaanalle (From \"Hello Prema\")",
+        "url": "https://open.spotify.com/album/6Nz4aiFwa2QwkBzfCXXMZ2"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Ajai S Khashyap",
+          "url": "https://open.spotify.com/artist/5dW8IcqAqgqrUNWEBYmj3A"
+        },
+        {
+          "name": "Ramya Bhat Abhyankar",
+          "url": "https://open.spotify.com/artist/0wqiIwWvYsOAcZdtJLMFO8"
+        },
+        {
+          "name": "Sreemani",
+          "url": "https://open.spotify.com/artist/4FMXVUiqvq8093FT0KBRza"
+        }
+      ],
+      "duration_ms": 226800,
+      "name": "Vaanalle - From \"Hello Prema\"",
+      "url": "https://open.spotify.com/track/69HWIgh46rzU6tNPWZNPue"
+    },
+    {
+      "added_at": "2026-08-18 08:00:06",
+      "album": {
+        "name": "Chinni Chinni (From \"Itllu Arjuna\")",
+        "url": "https://open.spotify.com/album/2MIL7U7zxY7KqUbyZ1CuXg"
+      },
+      "artists": [
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        },
+        {
+          "name": "Mohit Chauhan",
+          "url": "https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS"
+        },
+        {
+          "name": "Kalyan Chakravarthy",
+          "url": "https://open.spotify.com/artist/4SunIIZcXlrd6CdimZc7PO"
+        }
+      ],
+      "duration_ms": 250027,
+      "name": "Chinni Chinni (From \"Itllu Arjuna\")",
+      "url": "https://open.spotify.com/track/7BS4pIh5jmj89BEf7hmW5Z"
+    },
+    {
+      "added_at": "2026-11-06 16:28:57",
+      "album": {
+        "name": "Nuvvena Na Yadalona (From \"Almost Arjun\")",
+        "url": "https://open.spotify.com/album/1gYdMWlOmCNIPgNOt4jZKs"
+      },
+      "artists": [
+        {
+          "name": "BV Harsha",
+          "url": "https://open.spotify.com/artist/5iQlmpnrNkPpXWvclKqXCc"
+        },
+        {
+          "name": "Lipsika Bhashyam",
+          "url": "https://open.spotify.com/artist/21dhDPAGZuoa1M2S60hFK1"
+        },
+        {
+          "name": "Vijay Evana",
+          "url": "https://open.spotify.com/artist/0Ox5rB4Z1phGeUIhCYqR0x"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "Nuvvena Na Yadalona (From \"Almost Arjun\")",
+      "url": "https://open.spotify.com/track/1OWu4YDF4EIrQRbDX6IHqi"
     },
     {
       "added_at": "2026-11-02 05:42:50",
@@ -165,6 +317,30 @@
       "url": "https://open.spotify.com/track/5xLWhJbkmFsvkKn7FVtT93"
     },
     {
+      "added_at": "2026-11-11 08:31:18",
+      "album": {
+        "name": "Scene (Telugu) [Original Motion Picture Soundtrack]",
+        "url": "https://open.spotify.com/album/1SV9brjeNCqQudljTQVBFS"
+      },
+      "artists": [
+        {
+          "name": "Sushin Shyam",
+          "url": "https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S"
+        },
+        {
+          "name": "Sindhuja Tanuku",
+          "url": "https://open.spotify.com/artist/6MFgsuRbk8fELevIMJWFQr"
+        },
+        {
+          "name": "Rakendu Mouli",
+          "url": "https://open.spotify.com/artist/2wBKMv1ci10ht9OqJzJBg8"
+        }
+      ],
+      "duration_ms": 231000,
+      "name": "Kalane Pilichi",
+      "url": "https://open.spotify.com/track/4evIkpJGnmUtKFKXQJQzT2"
+    },
+    {
       "added_at": "2026-11-02 03:30:36",
       "album": {
         "name": "Jatha Goode (From \"Ramayana\")",
@@ -191,78 +367,66 @@
     {
       "added_at": "2026-11-02 03:30:36",
       "album": {
-        "name": "Gammunundadhe (From \"Haiku\") (Telugu)",
-        "url": "https://open.spotify.com/album/2pzvkcnY1SwmA9cOWXDQjq"
+        "name": "Kusuma (From \"Mana Graamaayanam\")",
+        "url": "https://open.spotify.com/album/158ZDZKgSC4VaAwJKiaSuw"
       },
       "artists": [
         {
-          "name": "Siddhu Kumar",
-          "url": "https://open.spotify.com/artist/652AxOhhHWM3oxqY82UhQ9"
+          "name": "Pancham Jeeva",
+          "url": "https://open.spotify.com/artist/3Aw8pGLgK0Mjl5gh2S7F6s"
         },
         {
-          "name": "Adithya RK",
-          "url": "https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm"
+          "name": "Sakshi Kallur",
+          "url": "https://open.spotify.com/artist/4XA1eGTPybnNfZtbbyThDt"
         },
         {
-          "name": "Sanjana Kalmanje",
-          "url": "https://open.spotify.com/artist/4zQpCebYLmlfG8Cw43xdtZ"
+          "name": "Poornachandra Tejaswi SV",
+          "url": "https://open.spotify.com/artist/1VDfV4Mh4Hc6uQIw6qRQ88"
         },
         {
-          "name": "Vanamali",
-          "url": "https://open.spotify.com/artist/26RVabQo2q3G6wqyO0LnvV"
+          "name": "Hanumayya Bandaru",
+          "url": "https://open.spotify.com/artist/5FgeOseolnvsW64b4GbroS"
         }
       ],
-      "duration_ms": 166500,
-      "name": "Gammunundadhe (From \"Haiku\") (Telugu)",
-      "url": "https://open.spotify.com/track/6S7NyXow8Wfwx7oiJGs3mn"
+      "duration_ms": 266105,
+      "name": "Kusuma (From \"Mana Graamaayanam\")",
+      "url": "https://open.spotify.com/track/72ZdH4RLvgnUzSlJIMNKcm"
     },
     {
-      "added_at": "2026-11-11 08:31:18",
+      "added_at": "2026-11-12 07:13:19",
       "album": {
-        "name": "Scene (Telugu) [Original Motion Picture Soundtrack]",
-        "url": "https://open.spotify.com/album/1SV9brjeNCqQudljTQVBFS"
+        "name": "Nee Kallalo Chusane (From \"Dad's Little Friend\")",
+        "url": "https://open.spotify.com/album/6uhNm4xYH15O3NdjfqPtsC"
       },
       "artists": [
         {
-          "name": "Sushin Shyam",
-          "url": "https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S"
+          "name": "RH Vikram",
+          "url": "https://open.spotify.com/artist/4ld8izRCDIs4k8S0cbc6Bt"
         },
         {
-          "name": "Sindhuja Tanuku",
-          "url": "https://open.spotify.com/artist/6MFgsuRbk8fELevIMJWFQr"
+          "name": "Sudharsan Hemaram",
+          "url": "https://open.spotify.com/artist/03KNxs8MLQiKFnJjpBH5VC"
         },
         {
-          "name": "Rakendu Mouli",
-          "url": "https://open.spotify.com/artist/2wBKMv1ci10ht9OqJzJBg8"
+          "name": "Niranjana Ramanan",
+          "url": "https://open.spotify.com/artist/3GB9ulskXfPOQCzw0SNEDx"
+        },
+        {
+          "name": "Lakshmi Priyanka",
+          "url": "https://open.spotify.com/artist/2K08CRxFYB4vypKb79x62A"
+        },
+        {
+          "name": "Rajath Raghav",
+          "url": "https://open.spotify.com/artist/4xid9UQAYZorZf9QIGCHi4"
+        },
+        {
+          "name": "Kajal Choudhary",
+          "url": "https://open.spotify.com/artist/7A8I22U67eEancAsu7IZSx"
         }
       ],
-      "duration_ms": 231000,
-      "name": "Kalane Pilichi",
-      "url": "https://open.spotify.com/track/4evIkpJGnmUtKFKXQJQzT2"
-    },
-    {
-      "added_at": "2026-09-21 15:02:16",
-      "album": {
-        "name": "Anjaana Anjaani (From \"The Paradise\") (Telugu)",
-        "url": "https://open.spotify.com/album/3SBWD56siGLfTGGm40Zsre"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Sublahshini",
-          "url": "https://open.spotify.com/artist/0nh5cRtt03SU6LhzhVC5fv"
-        },
-        {
-          "name": "Kittu Vissapragada",
-          "url": "https://open.spotify.com/artist/5UDv7yHHkED5J7nXh3yoiy"
-        }
-      ],
-      "duration_ms": 230976,
-      "name": "Anjaana Anjaani (From \"The Paradise\") (Telugu)",
-      "url": "https://open.spotify.com/track/5TjLPa8M104c3bImxulwpR"
+      "duration_ms": 238378,
+      "name": "Nee Kallalo Chusane (From \"Dad's Little Friend\")",
+      "url": "https://open.spotify.com/track/1v6xRHbVVu1I7vhh2Q2v3b"
     },
     {
       "added_at": "2026-11-06 16:28:57",
@@ -287,30 +451,6 @@
       "duration_ms": 205033,
       "name": "Emani Varninchanu (From \"Srirastu\") [TELUGU]",
       "url": "https://open.spotify.com/track/1sy2whjGX4KRR7C1JaELSD"
-    },
-    {
-      "added_at": "2026-11-06 16:28:57",
-      "album": {
-        "name": "Nuvvena Na Yadalona (From \"Almost Arjun\")",
-        "url": "https://open.spotify.com/album/1gYdMWlOmCNIPgNOt4jZKs"
-      },
-      "artists": [
-        {
-          "name": "BV Harsha",
-          "url": "https://open.spotify.com/artist/5iQlmpnrNkPpXWvclKqXCc"
-        },
-        {
-          "name": "Lipsika Bhashyam",
-          "url": "https://open.spotify.com/artist/21dhDPAGZuoa1M2S60hFK1"
-        },
-        {
-          "name": "Vijay Evana",
-          "url": "https://open.spotify.com/artist/0Ox5rB4Z1phGeUIhCYqR0x"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "Nuvvena Na Yadalona (From \"Almost Arjun\")",
-      "url": "https://open.spotify.com/track/1OWu4YDF4EIrQRbDX6IHqi"
     },
     {
       "added_at": "2026-11-02 05:52:35",
@@ -431,30 +571,6 @@
       "duration_ms": 262767,
       "name": "Kanne Kalavagane (From \"Modern Missamma\")",
       "url": "https://open.spotify.com/track/2MLPIUnNwu4TTlJ951NutO"
-    },
-    {
-      "added_at": "2026-08-18 08:00:06",
-      "album": {
-        "name": "Chinni Chinni (From \"Itllu Arjuna\")",
-        "url": "https://open.spotify.com/album/2MIL7U7zxY7KqUbyZ1CuXg"
-      },
-      "artists": [
-        {
-          "name": "Thaman S",
-          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
-        },
-        {
-          "name": "Mohit Chauhan",
-          "url": "https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS"
-        },
-        {
-          "name": "Kalyan Chakravarthy",
-          "url": "https://open.spotify.com/artist/4SunIIZcXlrd6CdimZc7PO"
-        }
-      ],
-      "duration_ms": 250027,
-      "name": "Chinni Chinni (From \"Itllu Arjuna\")",
-      "url": "https://open.spotify.com/track/7BS4pIh5jmj89BEf7hmW5Z"
     },
     {
       "added_at": "2026-09-11 12:07:38",
@@ -721,30 +837,6 @@
       "url": "https://open.spotify.com/track/4je3GTgQURWRVEW380UCMQ"
     },
     {
-      "added_at": "2026-08-11 07:18:18",
-      "album": {
-        "name": "Evare Nuvve (From \"I'M Game - Telugu\")",
-        "url": "https://open.spotify.com/album/1PW0Ft8TF5vQ91BfWImiAd"
-      },
-      "artists": [
-        {
-          "name": "Jakes Bejoy",
-          "url": "https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt"
-        },
-        {
-          "name": "Armaan Malik",
-          "url": "https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs"
-        },
-        {
-          "name": "Sanare",
-          "url": "https://open.spotify.com/artist/5OBBWXv2u5ZODe8odcEHbl"
-        }
-      ],
-      "duration_ms": 264418,
-      "name": "Evare Nuvve - From \"I'M Game - Telugu\"",
-      "url": "https://open.spotify.com/track/0oLfwDDvhEYVIUwBih2lG5"
-    },
-    {
       "added_at": "2026-09-22 07:23:31",
       "album": {
         "name": "Naa Prema Devatha (From \"Chakkora - A Lunar Love Bird\")",
@@ -913,30 +1005,6 @@
       "url": "https://open.spotify.com/track/6AKuAYwXrrrpsAaWuhl4A8"
     },
     {
-      "added_at": "2026-08-04 08:15:46",
-      "album": {
-        "name": "Kamsahamnida (From \"Korean Kanakaraju\")",
-        "url": "https://open.spotify.com/album/0dPSyFZAgD9WtDVIHujBc5"
-      },
-      "artists": [
-        {
-          "name": "Sid Sriram",
-          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
-        },
-        {
-          "name": "Thaman S",
-          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
-        },
-        {
-          "name": "Kasarla Shyam",
-          "url": "https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt"
-        }
-      ],
-      "duration_ms": 193269,
-      "name": "Kamsahamnida (From \"Korean Kanakaraju\")",
-      "url": "https://open.spotify.com/track/2VxTKPJ2yyK1u1YzvxQkS9"
-    },
-    {
       "added_at": "2026-08-20 06:42:40",
       "album": {
         "name": "Missamma (From \"Modern Missamma\")",
@@ -1045,26 +1113,6 @@
       "url": "https://open.spotify.com/track/3KXVnullvdfGoCOuwafSwW"
     },
     {
-      "added_at": "2026-08-03 08:58:26",
-      "album": {
-        "name": "Theeram",
-        "url": "https://open.spotify.com/album/5WQJzIMgPXWoW5lcpu1MuB"
-      },
-      "artists": [
-        {
-          "name": "Dhanunjay Seepana",
-          "url": "https://open.spotify.com/artist/5DxwUWyGp1uejyE80iJcn0"
-        },
-        {
-          "name": "Sadhvik Sans",
-          "url": "https://open.spotify.com/artist/41PsgyVuERExqCaH80c25P"
-        }
-      ],
-      "duration_ms": 164840,
-      "name": "Prema Tholiprema",
-      "url": "https://open.spotify.com/track/5umFFxLUuphAvweGeDjewg"
-    },
-    {
       "added_at": "2026-08-10 10:34:51",
       "album": {
         "name": "Neowa Hummke Ya (From \"Korean Kanakaraju\")",
@@ -1141,34 +1189,6 @@
       "url": "https://open.spotify.com/track/3tMoxM3F34JWIVTJH6192l"
     },
     {
-      "added_at": "2026-08-03 08:58:26",
-      "album": {
-        "name": "Niram - Telugu (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4bRHrymP34zj09SPW0UkG6"
-      },
-      "artists": [
-        {
-          "name": "D. Imman",
-          "url": "https://open.spotify.com/artist/1QcBqYUeQ4Ux3itkdDaFi0"
-        },
-        {
-          "name": "Vanamali",
-          "url": "https://open.spotify.com/artist/26RVabQo2q3G6wqyO0LnvV"
-        },
-        {
-          "name": "J.V. Sudhanshu",
-          "url": "https://open.spotify.com/artist/1c8TcsYzbZiEJ0TcEP3NWq"
-        },
-        {
-          "name": "Srinisha Jayaseelan",
-          "url": "https://open.spotify.com/artist/4fbPpuZDZjzbTdGIwhD45a"
-        }
-      ],
-      "duration_ms": 241413,
-      "name": "Noothana - From \"Niram - Telugu\"",
-      "url": "https://open.spotify.com/track/2eDxTuSCTI6PEYzBwjRftP"
-    },
-    {
       "added_at": "2026-09-08 10:11:21",
       "album": {
         "name": "Mana Doctor Babe",
@@ -1239,34 +1259,6 @@
       "duration_ms": 205500,
       "name": "Erai Paare Hrudayam (From \"Premane Oorilo\")",
       "url": "https://open.spotify.com/track/4HPy5fwaJPSYfyjg357ZDl"
-    },
-    {
-      "added_at": "2026-08-10 10:34:51",
-      "album": {
-        "name": "G.D.N (Telugu) [Original Motion Picture Soundtrack]",
-        "url": "https://open.spotify.com/album/5f4VYpFeSz0bc6QVy2EuzX"
-      },
-      "artists": [
-        {
-          "name": "Govind Vasantha",
-          "url": "https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB"
-        },
-        {
-          "name": "Rajshri Sudhakar",
-          "url": "https://open.spotify.com/artist/3lffOIgHvU45UiJqJnjMB6"
-        },
-        {
-          "name": "S.P. Abhishek",
-          "url": "https://open.spotify.com/artist/0mT8jQ7Apit18Ny3xJ7r9g"
-        },
-        {
-          "name": "Devu",
-          "url": "https://open.spotify.com/artist/2OhUJEHpyBziXcZiAPh1Cp"
-        }
-      ],
-      "duration_ms": 276000,
-      "name": "Madhini Merisavey ( From \"G.D.N.\") [Telugu]",
-      "url": "https://open.spotify.com/track/45Hi5RrI7EDLKXSshGplDN"
     },
     {
       "added_at": "2026-08-14 12:32:12",

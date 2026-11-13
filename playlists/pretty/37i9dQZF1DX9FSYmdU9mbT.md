@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FSYmdU9mbT.md) - [plain]
 
 > Os grandes artistas da MPB\. Foto: Maria Bethânia
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,474,551 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,474,566 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FSYmdU9mbT.md) - [plain]
 | 34 | [O Mundo É Um Moinho](https://open.spotify.com/track/1xCbDvw3UNReOWq9BbAThc) | [Cartola](https://open.spotify.com/artist/0RSWHhBUwW7lhCqXqxKxWN) | [Raizes Do Samba](https://open.spotify.com/album/0i9SwtLwZ8cOuH5qtkwTvT) | 3:55 |
 | 35 | [Como Vai Você](https://open.spotify.com/track/6DihrQCKtLq7SpVQt4jBzA) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy) | [Como Vai Você](https://open.spotify.com/album/73zRVTgL5JJugtY1zWasXe) | 3:47 |
 | 36 | [Anunciação \- Ao Vivo](https://open.spotify.com/track/3JrFuUhcNLHiD3hJPVaHTy) | [Alceu Valença](https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG), [Elba Ramalho](https://open.spotify.com/artist/4ph6Bt1mkDlmf32PSvRa8A), [Geraldo Azevedo](https://open.spotify.com/artist/65TbyndeGrDlFd4IkZNfbN) | [O Grande Encontro 20 Anos: Alceu, Elba e Geraldo \(Ao Vivo\)](https://open.spotify.com/album/33HKZh4hP8FmsVmPGoaDYC) | 5:27 |
-| 37 | [O Bêbado e a Equilibrista](https://open.spotify.com/track/3bgRCx8adxUZT7It3ryrWU) | [João Bosco](https://open.spotify.com/artist/3DF0ClNOUuvS3gh8V8sRJH), [Angela Maria](https://open.spotify.com/artist/4SKChJZZUJd8fD4ZbkpL6l) | [Linha De Passe](https://open.spotify.com/album/5hP8pHRsoC1ySE4wVc9wcH) | 3:20 |
-| 38 | [Chuva de Prata \- Ao Vivo](https://open.spotify.com/track/4vrW1O3nZJM8QQN8gzXubU) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [A Pele do Futuro Ao Vivo](https://open.spotify.com/album/1LpG0vjBhKLcUOcgGlPJ1a) | 3:49 |
+| 37 | [Chuva de Prata \- Ao Vivo](https://open.spotify.com/track/4vrW1O3nZJM8QQN8gzXubU) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [A Pele do Futuro Ao Vivo](https://open.spotify.com/album/1LpG0vjBhKLcUOcgGlPJ1a) | 3:49 |
+| 38 | [O Bêbado e a Equilibrista](https://open.spotify.com/track/3bgRCx8adxUZT7It3ryrWU) | [João Bosco](https://open.spotify.com/artist/3DF0ClNOUuvS3gh8V8sRJH), [Angela Maria](https://open.spotify.com/artist/4SKChJZZUJd8fD4ZbkpL6l) | [Linha De Passe](https://open.spotify.com/album/5hP8pHRsoC1ySE4wVc9wcH) | 3:20 |
 | 39 | [De Noite Na Cama](https://open.spotify.com/track/2LkrJ2aF0k50l8JNrqw4KK) | [Erasmo Carlos](https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz) | [Carlos, Erasmo \[Versão Com Bônus \(1971\)\]](https://open.spotify.com/album/2qimhNvbQmkAxG9GS8wj5M) | 3:17 |
 | 40 | [Exagerado 3.0](https://open.spotify.com/track/4D3HlCklYQQgTEuPDso96G) | [Cazuza](https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU) | [Exagerado 3.0 \- Single](https://open.spotify.com/album/7CJhsjfz2e9FujsupS99y3) | 3:46 |
 | 41 | [A Festa \- Acústico](https://open.spotify.com/track/3YM4WkQaQhzjf40skwwadH) | [Milton Nascimento](https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM) | [A Festa \(Acústico\)](https://open.spotify.com/album/1DtKWa3ZQLTmmN3nGuKPZ1) | 5:30 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FSYmdU9mbT.md) - [plain]
 | 66 | [O Meu Guri](https://open.spotify.com/track/5DhXCKF8ucbqj3mmx3p7i0) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [O Meu Guri \(Ao Vivo\)](https://open.spotify.com/album/0fa0zOVmsN69bNwSBcOxi1) | 3:48 |
 | 67 | [Noturno \(Coração Alado\)](https://open.spotify.com/track/02vH3AGn0OBUNhXEi421hS) | [Fagner](https://open.spotify.com/artist/5j3htXVskZF0u8qWY5zcF8), [JB FM](https://open.spotify.com/artist/1xwN91NLLDytxVQkqclZRu) | [Couvert Artístico JB FM: Fagner](https://open.spotify.com/album/0bAb2GnNJrS8AQUOJJvpue) | 4:36 |
 | 68 | [Deus Me Proteja](https://open.spotify.com/track/4Ijct6HkKsC9HQVgcnMe7C) | [Chico César](https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH) | [francisco forró y frevo](https://open.spotify.com/album/08J9fO5TtYRrAO4LkplP8D) | 4:53 |
-| 69 | [Bom\-Senso](https://open.spotify.com/track/7j2ExpvZTeURjspK443YKU) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [Racional \(Vol 1\)](https://open.spotify.com/album/7J9wATH6I891OTHteIWSEj) | 5:05 |
-| 70 | [Aliança](https://open.spotify.com/track/5lLKJdDPy7qbsta6d88lKE) | [Tribalistas](https://open.spotify.com/artist/4laQz4PaKeh2Hu6QL6evVD) | [Tribalistas](https://open.spotify.com/album/4v3TBbpmdInhU1qpWUGBBb) | 3:56 |
+| 69 | [Aliança](https://open.spotify.com/track/5lLKJdDPy7qbsta6d88lKE) | [Tribalistas](https://open.spotify.com/artist/4laQz4PaKeh2Hu6QL6evVD) | [Tribalistas](https://open.spotify.com/album/4v3TBbpmdInhU1qpWUGBBb) | 3:56 |
+| 70 | [Bom\-Senso](https://open.spotify.com/track/7j2ExpvZTeURjspK443YKU) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [Racional \(Vol 1\)](https://open.spotify.com/album/7J9wATH6I891OTHteIWSEj) | 5:05 |
 | 71 | [Andar Com Fé](https://open.spotify.com/track/5IRaXLiPevrMXjToXtD3Rm) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Andar Com Fé](https://open.spotify.com/album/7u1F0ffa1xp774Eyht8K7w) | 3:14 |
 | 72 | [Paciência](https://open.spotify.com/track/4HHDRt7w95ewCrZtRS8djw) | [Lenine](https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C) | [Lenine In Cité \(Deluxe\)](https://open.spotify.com/album/0wqZdjiUhFzPahuSLMcDnI) | 3:51 |
 | 73 | [Brasil Pandeiro](https://open.spotify.com/track/2Er0f1mhO0g1rov9Cdi5Wk) | [Novos Baianos](https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ) | [Acabou Chorare](https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi) | 3:55 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2otQLmbi8QWHjDfq3eL0DC.md) - [plain]
 
 > Get ready to dance with the best House Music! Pulsating beats, groovy rhythms &amp; uplifting vocals from David Guetta, Fisher, Peggy Gou, Oskar, Fred Again.\. and more\. Soulful house, soulful deep house, electronic dance, garage, minimal and sounds\. Updated weekly!
 
-[Topsify](https://open.spotify.com/user/topsify) - 1,321,098 likes - 100 songs - 4 hr 57 min
+[Topsify](https://open.spotify.com/user/topsify) - 1,321,031 likes - 100 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/2otQLmbi8QWHjDfq3eL0DC.md) - [plain]
 | 43 | [Come To Me \(feat\. YSB JAVILLE\)](https://open.spotify.com/track/6SjcORXdVTbHi3hvFbCgVM) | [merchant](https://open.spotify.com/artist/0UEupuqVP2mpTTyf6wcOBY), [YSB JAVILLE](https://open.spotify.com/artist/1xOuhNV2RAhiVgA7KYmM3j) | [Come To Me \(feat\. YSB JAVILLE\)](https://open.spotify.com/album/0atSooBLSCajpk06OsBRnI) | 2:56 |
 | 44 | [Take You There](https://open.spotify.com/track/2Vdk1Muw4EsOj2ay12KM4C) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [SIX40TWO](https://open.spotify.com/artist/2H6DuasUdjR2blRAcYkDwr) | [Take You There](https://open.spotify.com/album/59CAj97sLwMHJtZDfyvQYP) | 3:08 |
 | 45 | [Gold](https://open.spotify.com/track/17dNewo0r2wcw4B94KtOeB) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [Spandau Ballet](https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv) | [Gold](https://open.spotify.com/album/3VMvOJQfRBle7761FQg25w) | 3:19 |
-| 46 | [Time](https://open.spotify.com/track/4RP5gH6Bri8rD2kEMdGLNF) | [Alexis Taylor](https://open.spotify.com/artist/6zclVXoEfp3nFq4dOgqgOX), [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Pat Alvarez](https://open.spotify.com/artist/44rUL8RUXtDCmb8Mtjy5kp) | [Time \(Remixes\)](https://open.spotify.com/album/4cUmBzo2iWRKBfRmR0xyjB) | 4:32 |
+| 46 | [Time \(feat\. The Blessed Madonna & Pat Alvarez\)](https://open.spotify.com/track/4RP5gH6Bri8rD2kEMdGLNF) | [Alexis Taylor](https://open.spotify.com/artist/6zclVXoEfp3nFq4dOgqgOX), [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Pat Alvarez](https://open.spotify.com/artist/44rUL8RUXtDCmb8Mtjy5kp) | [Time \(Remixes\)](https://open.spotify.com/album/4cUmBzo2iWRKBfRmR0xyjB) | 4:32 |
 | 47 | [Let Me Be In Your Arms](https://open.spotify.com/track/4Lgbp0ZVCTLLCf99bwPTVi) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [Let Me Be In Your Arms](https://open.spotify.com/album/2fa72V2RpinQQIzeZ1NiPs) | 3:13 |
 | 48 | [Wanderlust \- NTO Remix](https://open.spotify.com/track/7xZ9nzn0GZPpZgKRsIP0Yu) | [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry), [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq) | [Wanderlust \(NTO Remix\)](https://open.spotify.com/album/6CQfWH6035BfYeksw1dmyf) | 3:46 |
 | 49 | [Elephant](https://open.spotify.com/track/25eziuXzuP0USgaLErpQOF) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Elephant](https://open.spotify.com/album/3ieNe0PtLpl2bJXoJiPcNZ) | 2:11 |

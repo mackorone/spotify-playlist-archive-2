@@ -1,12 +1,12 @@
 {
   "description": "Play these festive songs upon a winter's night, and have yourself a folksy little Christmas now. Cover: She & Him\n",
-  "num_followers": 137396,
+  "num_followers": 137403,
   "original_name": "Folksy Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACRhs66h+r7j5JsQaUKrtvJqNoph",
+  "snapshot_id": "AAAAAArNiTgu5W2d3WK+QjHuuzm8DHxx",
   "tracks": [
     {
       "added_at": "2026-11-06 05:00:50",
@@ -247,6 +247,22 @@
       "duration_ms": 202482,
       "name": "The Bells of Christmas Eve",
       "url": "https://open.spotify.com/track/6YwstWaPT9u5LL4z0ZMWNw"
+    },
+    {
+      "added_at": "2026-11-13 05:01:32",
+      "album": {
+        "name": "O Holy Night",
+        "url": "https://open.spotify.com/album/797ONWrPEHNh4qO2Wd4GX5"
+      },
+      "artists": [
+        {
+          "name": "Fruit Bats",
+          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
+        }
+      ],
+      "duration_ms": 197320,
+      "name": "O Holy Night",
+      "url": "https://open.spotify.com/track/6vJUwqQM5bTG7BJXMunphX"
     },
     {
       "added_at": "2026-11-06 05:00:50",

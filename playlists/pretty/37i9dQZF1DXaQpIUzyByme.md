@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaQpIUzyByme.md) - [plain]
 
 > Beste Nederlandstalige songs uit de 90's! Cover: Acda en de Munnik
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,027 likes - 70 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,036 likes - 70 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,13 +58,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaQpIUzyByme.md) - [plain]
 | 48 | [He Suzie](https://open.spotify.com/track/5tcnWBFZjrA3LeoOY4573u) | [Henk Wijngaard](https://open.spotify.com/artist/0EyzZUO2ycn0hLjKDFT7Hb) | [Mijn Allergrootste Successen](https://open.spotify.com/album/4oaQMnqw89unxMh8hL2DDq) | 3:31 |
 | 49 | [In De Wolken](https://open.spotify.com/track/4yeOX2rVLDZ6XXh2TSkwN6) | [De Kast](https://open.spotify.com/artist/0X6CDvMiFMeLxVnKUq9oWy) | [Hollands Glorie](https://open.spotify.com/album/0mMsYu4KfiMiCRP0B1ZOWF) | 4:24 |
 | 50 | [Het Is Een Nacht..\. \(Levensecht\)](https://open.spotify.com/track/1jnUXW29r0JgYRcQmC3gIp) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv), [Vagant](https://open.spotify.com/artist/2ZywabPnRCoHjfPJfQavrA) | [Verbazing](https://open.spotify.com/album/6hqBbsWRFC9Mh1Z2YdYDNQ) | 3:45 |
-| 51 | [Kleine Jongen](https://open.spotify.com/track/6vzj8d0yOzg3ELH2T4u0CC) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Kleine Jongen](https://open.spotify.com/album/0EsXBeEagSo9xrbKW17FBq) | 3:43 |
-| 52 | [Aan De Kust](https://open.spotify.com/track/7mvxl7tRdYZsJ9jxgIJrVa) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Hier \- Het Beste Van 20 Jaar BLØF](https://open.spotify.com/album/6CXlCKvZ8vyIEDlOIDZZUp) | 3:33 |
+| 51 | [Aan De Kust](https://open.spotify.com/track/7mvxl7tRdYZsJ9jxgIJrVa) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Hier \- Het Beste Van 20 Jaar BLØF](https://open.spotify.com/album/6CXlCKvZ8vyIEDlOIDZZUp) | 3:33 |
+| 52 | [Kleine Jongen](https://open.spotify.com/track/6vzj8d0yOzg3ELH2T4u0CC) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Kleine Jongen](https://open.spotify.com/album/0EsXBeEagSo9xrbKW17FBq) | 3:43 |
 | 53 | [Ik Wil Niet Dat Je Liegt](https://open.spotify.com/track/76ikfBK8uCzlSmhlYKQMLm) | [Paul de Leeuw](https://open.spotify.com/artist/2UWFwMXUXbEs79qbI4NdTT) | [ParaCDmol](https://open.spotify.com/album/2zWo1Ql9eSAWxXxKqYU3yW) | 3:55 |
 | 54 | [Mag Ik Naar Je Kijken?](https://open.spotify.com/track/6nqMWzjqiJCn8VdkwNsuet) | [Marcel De Groot](https://open.spotify.com/artist/1ODOlb645fdLv99x5uzYkk) | [Manen Kweken](https://open.spotify.com/album/7vs2r7qK6Tuf55tzqBmDHK) | 4:21 |
 | 55 | [Per Spoor \(Kedeng Kedeng\)](https://open.spotify.com/track/5FdLWxpHT56vitVh3CGiFV) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv), [Vagant](https://open.spotify.com/artist/2ZywabPnRCoHjfPJfQavrA) | [Verbazing](https://open.spotify.com/album/6hqBbsWRFC9Mh1Z2YdYDNQ) | 4:13 |
-| 56 | [Droomland](https://open.spotify.com/track/3hiURl5d4M3ihHWW8ZdvPS) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY), [Paul de Leeuw](https://open.spotify.com/artist/2UWFwMXUXbEs79qbI4NdTT) | [Hazes 100](https://open.spotify.com/album/0gCT4Y1EUY4XrlWvCE462K) | 3:28 |
-| 57 | [Wat Zou Je Doen?](https://open.spotify.com/track/5iKaPg25J8rrEBHXsM8SLx) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Hier \- Het Beste Van 20 Jaar BLØF](https://open.spotify.com/album/6CXlCKvZ8vyIEDlOIDZZUp) | 4:50 |
+| 56 | [Wat Zou Je Doen?](https://open.spotify.com/track/5iKaPg25J8rrEBHXsM8SLx) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Hier \- Het Beste Van 20 Jaar BLØF](https://open.spotify.com/album/6CXlCKvZ8vyIEDlOIDZZUp) | 4:50 |
+| 57 | [Droomland](https://open.spotify.com/track/3hiURl5d4M3ihHWW8ZdvPS) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY), [Paul de Leeuw](https://open.spotify.com/artist/2UWFwMXUXbEs79qbI4NdTT) | [Hazes 100](https://open.spotify.com/album/0gCT4Y1EUY4XrlWvCE462K) | 3:28 |
 | 58 | [Ome Jan](https://open.spotify.com/track/6UWOJvPjoFA4NoCbLw8wzI) | [Willeke Alberti](https://open.spotify.com/artist/7monj8DXxygyUqgx7ncylV) | [Hollandse Sterren Collectie](https://open.spotify.com/album/1FJhxTagODYnKjA4PJakmk) | 4:31 |
 | 59 | ['k Heb Je Lief](https://open.spotify.com/track/0lhD98JGwGzR16lJTERuO3) | [Paul de Leeuw](https://open.spotify.com/artist/2UWFwMXUXbEs79qbI4NdTT) | [Lief](https://open.spotify.com/album/7DLAUjfxtg8iADMhPjGhbP) | 4:44 |
 | 60 | [Verliefd Zijn](https://open.spotify.com/track/2wLPPLc2mNOskEOtpwgqX8) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv), [Vagant](https://open.spotify.com/artist/2ZywabPnRCoHjfPJfQavrA) | [Verbazing](https://open.spotify.com/album/6hqBbsWRFC9Mh1Z2YdYDNQ) | 3:30 |

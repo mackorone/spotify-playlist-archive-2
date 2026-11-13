@@ -6085,6 +6085,32 @@
     },
     {
       "album": {
+        "name": "You (Summer Is Calling Remix)",
+        "url": "https://open.spotify.com/album/2slxVbCOqwci5ymPbFlw8f"
+      },
+      "artists": [
+        {
+          "name": "Lost Kings",
+          "url": "https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc"
+        },
+        {
+          "name": "Katelyn Tarver",
+          "url": "https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn"
+        },
+        {
+          "name": "Summer Is Calling",
+          "url": "https://open.spotify.com/artist/34q9Zt0mBwYXGMeRq9m94u"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141818,
+      "name": "You - Summer Is Calling Remix",
+      "url": "https://open.spotify.com/track/4dHPcK1EDLKQlxilmcbHiO"
+    },
+    {
+      "album": {
         "name": "Midnight Mass",
         "url": "https://open.spotify.com/album/6Fphuv16AxAhxJcUYPWzV9"
       },

@@ -1,12 +1,12 @@
 {
   "description": "This is Lunay. The essential tracks, all in one playlist.",
-  "num_followers": 70353,
+  "num_followers": 70348,
   "original_name": "This Is Lunay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avENAAAAAAAjNDUu8Y3QXM86XHl8lwnR",
+  "snapshot_id": "avOwAAAAAAAKu3+7yryec2HfFrnoFEs7",
   "tracks": [
     {
       "added_at": null,
@@ -308,13 +308,17 @@
           "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
         },
         {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+          "name": "Chris Jedi",
+          "url": "https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
         }
       ],
-      "duration_ms": 208000,
-      "name": "TODO O NADA",
-      "url": "https://open.spotify.com/track/59rjsHYxdxeUG6gd43Emzs"
+      "duration_ms": 231765,
+      "name": "VUD\u00da",
+      "url": "https://open.spotify.com/track/24YLHalbl2ePQbEXiKqKcP"
     },
     {
       "added_at": null,
@@ -335,26 +339,6 @@
       "duration_ms": 139350,
       "name": "Nuevo",
       "url": "https://open.spotify.com/track/5OAUEIwUw1TsoeCkoI1hbo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Palomino (Remix)",
-        "url": "https://open.spotify.com/album/5eK9c2t3ilEqEKR3F7mkQk"
-      },
-      "artists": [
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 193386,
-      "name": "Palomino - Remix",
-      "url": "https://open.spotify.com/track/1IGc1w4X7LKjHbzU3svVXH"
     },
     {
       "added_at": null,
@@ -391,30 +375,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Ni\u00f1o",
-        "url": "https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay"
-      },
-      "artists": [
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        },
-        {
-          "name": "Chris Jedi",
-          "url": "https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm"
-        },
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
-        }
-      ],
-      "duration_ms": 231765,
-      "name": "VUD\u00da",
-      "url": "https://open.spotify.com/track/24YLHalbl2ePQbEXiKqKcP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Primer Dia de Clases",
         "url": "https://open.spotify.com/album/5r8T7S23cVDSd7a045h4N5"
       },
@@ -431,6 +391,46 @@
       "duration_ms": 176000,
       "name": "Cuando Sera",
       "url": "https://open.spotify.com/track/1UmZpd5navRsg2ukqCKJjc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Ni\u00f1o",
+        "url": "https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay"
+      },
+      "artists": [
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "TODO O NADA",
+      "url": "https://open.spotify.com/track/59rjsHYxdxeUG6gd43Emzs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Palomino (Remix)",
+        "url": "https://open.spotify.com/album/5eK9c2t3ilEqEKR3F7mkQk"
+      },
+      "artists": [
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 193386,
+      "name": "Palomino - Remix",
+      "url": "https://open.spotify.com/track/1IGc1w4X7LKjHbzU3svVXH"
     },
     {
       "added_at": null,
@@ -767,6 +767,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Enf\u00e9rmame",
+        "url": "https://open.spotify.com/album/07sVOLmW2f9iNTTrao0iyU"
+      },
+      "artists": [
+        {
+          "name": "Dany Ome",
+          "url": "https://open.spotify.com/artist/4uQjbkbjzXEE1SsnMHFK1v"
+        },
+        {
+          "name": "Kevincito El 13",
+          "url": "https://open.spotify.com/artist/3ajdx40gqTuGi01ZemBDe9"
+        },
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "duration_ms": 190633,
+      "name": "Enf\u00e9rmame",
+      "url": "https://open.spotify.com/track/7MLVDgUzcDl8DyGP884Itb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u00c9pico",
         "url": "https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT"
       },
@@ -919,6 +943,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Relaciones",
+        "url": "https://open.spotify.com/album/1zzTbQ8f5t1WO3NnTgAwzu"
+      },
+      "artists": [
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "duration_ms": 206896,
+      "name": "Relaciones",
+      "url": "https://open.spotify.com/track/2TL9UACmry1qTiurBc2PjV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u00c9pico",
         "url": "https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT"
       },
@@ -935,22 +975,6 @@
       "duration_ms": 190951,
       "name": "Amigos Na' Mas",
       "url": "https://open.spotify.com/track/1zuMoycNBmpN4p6X8sJeh5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Relaciones",
-        "url": "https://open.spotify.com/album/1zzTbQ8f5t1WO3NnTgAwzu"
-      },
-      "artists": [
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        }
-      ],
-      "duration_ms": 206896,
-      "name": "Relaciones",
-      "url": "https://open.spotify.com/track/2TL9UACmry1qTiurBc2PjV"
     },
     {
       "added_at": null,
@@ -975,30 +999,6 @@
       "duration_ms": 220465,
       "name": "Quiz\u00e1s",
       "url": "https://open.spotify.com/track/7xiZayz1eFWnzLPztL80VQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Enf\u00e9rmame",
-        "url": "https://open.spotify.com/album/07sVOLmW2f9iNTTrao0iyU"
-      },
-      "artists": [
-        {
-          "name": "Dany Ome",
-          "url": "https://open.spotify.com/artist/4uQjbkbjzXEE1SsnMHFK1v"
-        },
-        {
-          "name": "Kevincito El 13",
-          "url": "https://open.spotify.com/artist/3ajdx40gqTuGi01ZemBDe9"
-        },
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        }
-      ],
-      "duration_ms": 190633,
-      "name": "Enf\u00e9rmame",
-      "url": "https://open.spotify.com/track/7MLVDgUzcDl8DyGP884Itb"
     },
     {
       "added_at": null,
@@ -1059,8 +1059,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bandida",
-        "url": "https://open.spotify.com/album/5KpspLxsm5AzGLSsIxJrD2"
+        "name": "Gym",
+        "url": "https://open.spotify.com/album/5ctwyXD42GpDu6D2gktAz5"
       },
       "artists": [
         {
@@ -1068,9 +1068,9 @@
           "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
         }
       ],
-      "duration_ms": 174186,
-      "name": "Bandida",
-      "url": "https://open.spotify.com/track/1p5vF77FRuvyEQfAH5mNMP"
+      "duration_ms": 138260,
+      "name": "Gym",
+      "url": "https://open.spotify.com/track/7kVBOWAEm4YG9I0GRxbxxg"
     },
     {
       "added_at": null,
@@ -1095,8 +1095,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gym",
-        "url": "https://open.spotify.com/album/5ctwyXD42GpDu6D2gktAz5"
+        "name": "Bandida",
+        "url": "https://open.spotify.com/album/5KpspLxsm5AzGLSsIxJrD2"
       },
       "artists": [
         {
@@ -1104,9 +1104,9 @@
           "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
         }
       ],
-      "duration_ms": 138260,
-      "name": "Gym",
-      "url": "https://open.spotify.com/track/7kVBOWAEm4YG9I0GRxbxxg"
+      "duration_ms": 174186,
+      "name": "Bandida",
+      "url": "https://open.spotify.com/track/1p5vF77FRuvyEQfAH5mNMP"
     },
     {
       "added_at": null,

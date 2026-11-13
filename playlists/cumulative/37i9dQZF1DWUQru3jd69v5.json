@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "LILCR in cover della playlist con il futuro del rap italiano \ud83d\udcc8",
+  "description": "R\u00a3d in cover della playlist con il futuro del rap italiano \ud83d\udcc8",
   "name": "Raptopia",
   "tracks": [
     {
@@ -4126,7 +4126,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 130434,
       "name": "AMO I SOLDI/ODIO I SOLDI",
       "url": "https://open.spotify.com/track/5sjcDys7Y3B8OBLq8Uv8wE"
@@ -4516,7 +4516,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 127893,
       "name": "Animo/Calibro",
       "url": "https://open.spotify.com/track/1va8SIcmL5XgdQP9SGgqE8"
@@ -5518,6 +5518,32 @@
       "duration_ms": 196285,
       "name": "BADDIE (feat. Maury North)",
       "url": "https://open.spotify.com/track/2VZw7esRsghIuIllx3hHWU"
+    },
+    {
+      "album": {
+        "name": "OASI, EDEN",
+        "url": "https://open.spotify.com/album/3TPN16UVNiiDfsfZ0HuEh0"
+      },
+      "artists": [
+        {
+          "name": "Fiore Akamono",
+          "url": "https://open.spotify.com/artist/49ArqXIeUITOksVKcoKOCB"
+        },
+        {
+          "name": "Maska",
+          "url": "https://open.spotify.com/artist/4s7lub6OTMblNwFn9wXClR"
+        },
+        {
+          "name": "Giovane Drago",
+          "url": "https://open.spotify.com/artist/5LYEbvNUxagnuPZiYao6zg"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153295,
+      "name": "Badgyal (feat. Giovane Drago)",
+      "url": "https://open.spotify.com/track/3e5iSZTVWlmSba7qVscnMN"
     },
     {
       "album": {
@@ -7533,6 +7559,24 @@
     },
     {
       "album": {
+        "name": "BLACKSTAR",
+        "url": "https://open.spotify.com/album/59JcCA1Xo1vN0cpGlNyAgc"
+      },
+      "artists": [
+        {
+          "name": "Scaglia",
+          "url": "https://open.spotify.com/artist/61C1YBssJpV0rPGdoLjoJ7"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123711,
+      "name": "BLACKSTAR",
+      "url": "https://open.spotify.com/track/4Yju5iw7C1yvngvZIFiQ8T"
+    },
+    {
+      "album": {
         "name": "Blatte",
         "url": "https://open.spotify.com/album/6qnVG5gaUiYY0qaxvXFQ8W"
       },
@@ -9181,6 +9225,24 @@
     },
     {
       "album": {
+        "name": "The Pluggfather",
+        "url": "https://open.spotify.com/album/6yk1AOV2vggTQ47p1tPGKe"
+      },
+      "artists": [
+        {
+          "name": "Tony 2Milli",
+          "url": "https://open.spotify.com/artist/4L9l063lRlIevWZ7UMpqlf"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157611,
+      "name": "CADILLAC",
+      "url": "https://open.spotify.com/track/376z4LozUrJKZuBjct7lPx"
+    },
+    {
+      "album": {
         "name": "CAFF\u00c8 AMARO",
         "url": "https://open.spotify.com/album/0Mdda3X8mF2lghQGmEZCvV"
       },
@@ -10094,7 +10156,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 110000,
       "name": "Cash Mula",
       "url": "https://open.spotify.com/track/0c7un26z1rDinZu5BERE2O"
@@ -18088,7 +18150,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 170115,
       "name": "FILS DE PUTE (feat. YD Frost)",
       "url": "https://open.spotify.com/track/3rknbBiIFpuA2foqBWidNn"
@@ -19250,6 +19312,24 @@
       "duration_ms": 161701,
       "name": "FUORI DI TESTA",
       "url": "https://open.spotify.com/track/68o89piSPKkH8H4e5mxfRs"
+    },
+    {
+      "album": {
+        "name": "Fuoriclasse",
+        "url": "https://open.spotify.com/album/774gF8jDPNDkRDrIAhzOEj"
+      },
+      "artists": [
+        {
+          "name": "Pocho",
+          "url": "https://open.spotify.com/artist/6Ib960PxdWSXy8x0xAdJTG"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122222,
+      "name": "Fuoriclasse",
+      "url": "https://open.spotify.com/track/31Kod48DJ68fGMrmCAWKWh"
     },
     {
       "album": {
@@ -25986,7 +26066,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 133040,
       "name": "LA SCOPO CO O' SGUARDO",
       "url": "https://open.spotify.com/track/4jQRIx85zOOBY07JJg61To"
@@ -26737,6 +26817,24 @@
     },
     {
       "album": {
+        "name": "Late Night",
+        "url": "https://open.spotify.com/album/2A7pCKPNJ3HERmIWqK9n3x"
+      },
+      "artists": [
+        {
+          "name": "Marshe",
+          "url": "https://open.spotify.com/artist/7Fl8QB9g3Mc3n90XPXferx"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148771,
+      "name": "Late Night",
+      "url": "https://open.spotify.com/track/1jQq46DyfkxO27AsJxETbl"
+    },
+    {
+      "album": {
         "name": "LATINO (feat. JeFlako)",
         "url": "https://open.spotify.com/album/7HN8uZXGUXebMFIsCyXlbC"
       },
@@ -26752,7 +26850,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 166857,
       "name": "LATINO (feat. JeFlako)",
       "url": "https://open.spotify.com/track/2v4KdCMLLNXiu74Wj3D0iX"
@@ -27286,7 +27384,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 142512,
       "name": "LIKE THAT",
       "url": "https://open.spotify.com/track/0GSh5CbnD9WwYoGTVoikK7"
@@ -32108,7 +32206,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 218076,
       "name": "MOLLY GIRL (feat. GREG Qx)",
       "url": "https://open.spotify.com/track/3vCroa6GZAkHTBjkwD5rMq"
@@ -33561,6 +33659,28 @@
     },
     {
       "album": {
+        "name": "NEL PANICO",
+        "url": "https://open.spotify.com/album/2GNvnnrFvzir6wHTwf5F6m"
+      },
+      "artists": [
+        {
+          "name": "LeeZo",
+          "url": "https://open.spotify.com/artist/6hifLfYY0cuT5LXjnV3xkj"
+        },
+        {
+          "name": "Coche",
+          "url": "https://open.spotify.com/artist/486QQMJgZEn5lRL4FRlvQy"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145618,
+      "name": "NEL PANICO",
+      "url": "https://open.spotify.com/track/5kS7ffw0QbJLfB2FU0VMS4"
+    },
+    {
+      "album": {
         "name": "On Drug: Nella Gabbia - capitolo 1",
         "url": "https://open.spotify.com/album/0VpCjvJIBY7fgSsDIhRKFW"
       },
@@ -33734,6 +33854,28 @@
       "duration_ms": 164285,
       "name": "Nene (feat. Faneto & Glocky)",
       "url": "https://open.spotify.com/track/4GGmXpTMHEiTT9m8o3e2iM"
+    },
+    {
+      "album": {
+        "name": "Nervi",
+        "url": "https://open.spotify.com/album/3w35zGoZE02ZB4YlGzuVYW"
+      },
+      "artists": [
+        {
+          "name": "Neyman",
+          "url": "https://open.spotify.com/artist/6YsSngR29UxtNlCDwqbx24"
+        },
+        {
+          "name": "Ambro",
+          "url": "https://open.spotify.com/artist/3GbItb8tHGLXcW6agBNBwJ"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145126,
+      "name": "Nervi",
+      "url": "https://open.spotify.com/track/6GGtu0G3tqzejtjuUZqt3F"
     },
     {
       "album": {
@@ -39667,6 +39809,24 @@
     },
     {
       "album": {
+        "name": "POCO TEMPO",
+        "url": "https://open.spotify.com/album/3oRLtHsRf8cwzokzjxusot"
+      },
+      "artists": [
+        {
+          "name": "IvanBi",
+          "url": "https://open.spotify.com/artist/0bmPz6WAJMsuDLY5QtSYtg"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163833,
+      "name": "POCO TEMPO",
+      "url": "https://open.spotify.com/track/4GLUD6KtQNMUEqdZQ6Of7v"
+    },
+    {
+      "album": {
         "name": "POGO",
         "url": "https://open.spotify.com/album/42lfznM1XYW1iwj5kPg4N6"
       },
@@ -42512,6 +42672,24 @@
       "duration_ms": 87956,
       "name": "READY X LA W4RRR",
       "url": "https://open.spotify.com/track/5OQnwMaLvqM8TJ9vpsUg4M"
+    },
+    {
+      "album": {
+        "name": "REAL BADGYAL",
+        "url": "https://open.spotify.com/album/38KsNOVN7YX5EIVpvBWRrw"
+      },
+      "artists": [
+        {
+          "name": "Jasmin407",
+          "url": "https://open.spotify.com/artist/028PeMF9C0Ycn6wJRd1P7F"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113739,
+      "name": "REAL BADGYAL",
+      "url": "https://open.spotify.com/track/5rydjM0mFhs4Y5wIQcJ5eE"
     },
     {
       "album": {
@@ -50598,7 +50776,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 196149,
       "name": "TI RICORDI",
       "url": "https://open.spotify.com/track/5L4sZUVdzypmbD1NhFK3mh"
@@ -50700,6 +50878,24 @@
       "duration_ms": 140307,
       "name": "Tiki Taka",
       "url": "https://open.spotify.com/track/50MWpZN2WAcfkeKAaU5fvY"
+    },
+    {
+      "album": {
+        "name": "tiki tiki *___*",
+        "url": "https://open.spotify.com/album/3es8aG8NvrEHzOSQlz2OFO"
+      },
+      "artists": [
+        {
+          "name": "RIRI2K",
+          "url": "https://open.spotify.com/artist/14QMCAaOdrpr30PrA2tvid"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "tiki tiki *___*",
+      "url": "https://open.spotify.com/track/2aY5G9EyxzPVy2z4gkpiRC"
     },
     {
       "album": {
@@ -51734,7 +51930,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 130588,
       "name": "Trama",
       "url": "https://open.spotify.com/track/21gbVv0OpDZNqIYQ6vr4hi"
@@ -52652,7 +52848,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 179277,
       "name": "Tutto Scorre",
       "url": "https://open.spotify.com/track/7p66WPqossFb1J3zTYDjL8"
@@ -52768,6 +52964,24 @@
       "duration_ms": 102689,
       "name": "TYPE BEAT SHAWTY",
       "url": "https://open.spotify.com/track/6HFLgj8BnhPwRynNgdAr1I"
+    },
+    {
+      "album": {
+        "name": "Blood",
+        "url": "https://open.spotify.com/album/4pJRmwG7iETOnttKS1RW8R"
+      },
+      "artists": [
+        {
+          "name": "R\u00a3d",
+          "url": "https://open.spotify.com/artist/4hZ6NhyyFrGR6TAnEROtVs"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174545,
+      "name": "Type Shii",
+      "url": "https://open.spotify.com/track/3PHxaCSGt3E1uFSG72uJAB"
     },
     {
       "album": {
@@ -56216,7 +56430,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 86289,
       "name": "Yes Yo (feat. JOJO)",
       "url": "https://open.spotify.com/track/5y8rUTX7TZqcTygZoWXmf4"
@@ -56766,6 +56980,24 @@
       "duration_ms": 138979,
       "name": "\u00c8 UN BENZ",
       "url": "https://open.spotify.com/track/2sHM1NowAikspT3YovEchc"
+    },
+    {
+      "album": {
+        "name": "\u00c8 UN'IDEA",
+        "url": "https://open.spotify.com/album/07EHEGNhvpTU11cr3XwzCp"
+      },
+      "artists": [
+        {
+          "name": "Gize",
+          "url": "https://open.spotify.com/artist/67SfchHURE79qxwxyuGavv"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149117,
+      "name": "\u00c8 UN'IDEA",
+      "url": "https://open.spotify.com/track/6XTXYakMtqhxVhnmbZgxok"
     },
     {
       "album": {

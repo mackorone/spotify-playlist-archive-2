@@ -1165,6 +1165,24 @@
     },
     {
       "album": {
+        "name": "Eye To Eye",
+        "url": "https://open.spotify.com/album/7nYGeThehF01LYvmj53Ec7"
+      },
+      "artists": [
+        {
+          "name": "Trophy Boy Poems",
+          "url": "https://open.spotify.com/artist/1EyJ3RSMmZO6ZK2HxzSvTj"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192727,
+      "name": "Eye To Eye",
+      "url": "https://open.spotify.com/track/7r152bhgOM1CvlEzoQQVeI"
+    },
+    {
+      "album": {
         "name": "Fairy Wings",
         "url": "https://open.spotify.com/album/2vyGVc7zSMlbPrQGRWX8Sd"
       },

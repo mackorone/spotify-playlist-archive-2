@@ -525,6 +525,28 @@
     },
     {
       "album": {
+        "name": "Before You Know It",
+        "url": "https://open.spotify.com/album/09MFYa0kaj2G2LpRZfKUyo"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173202,
+      "name": "Before You Know It",
+      "url": "https://open.spotify.com/track/0IEKKqwiTDVh6I3M9XlrAQ"
+    },
+    {
+      "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/2BB9t81lxrLJGePBRpUtAN"
       },
@@ -968,7 +990,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 202017,
       "name": "Come Back Tomorrow",
       "url": "https://open.spotify.com/track/3iiXaOBE26R8jjfaE44xNt"
@@ -1370,7 +1392,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 158769,
       "name": "Feel",
       "url": "https://open.spotify.com/track/3mxwrp5v4TcWK1T4MsXdcs"
@@ -1396,6 +1418,62 @@
       "duration_ms": 206218,
       "name": "Feel Again",
       "url": "https://open.spotify.com/track/4i9ay73aSChB8q4KeGDBIl"
+    },
+    {
+      "album": {
+        "name": "Feel Love",
+        "url": "https://open.spotify.com/album/0tb2xEL0QyA2uJg1bZ0Jjo"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        },
+        {
+          "name": "The Rocketman",
+          "url": "https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V"
+        },
+        {
+          "name": "Dimitri Vegas",
+          "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
+        },
+        {
+          "name": "Like Mike",
+          "url": "https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170800,
+      "name": "Feel Love",
+      "url": "https://open.spotify.com/track/5ZuIWk2CWo9NTh3Ijzbn3r"
+    },
+    {
+      "album": {
+        "name": "Fight For Love",
+        "url": "https://open.spotify.com/album/4UI0gVstrcRStFLYrsCD2T"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Kaitlin Aragon",
+          "url": "https://open.spotify.com/artist/29G5je6tT7As2ZFY72CdXs"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180461,
+      "name": "Fight For Love",
+      "url": "https://open.spotify.com/track/3Ke6mheKxEbsfuP2p0W2Kz"
     },
     {
       "album": {
@@ -4128,7 +4206,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 162206,
       "name": "pAPi wiTH tOKisCha",
       "url": "https://open.spotify.com/track/5j2NMCTCQ5R4yV6CUwR1nG"
@@ -4426,6 +4504,36 @@
       "duration_ms": 207870,
       "name": "Rave Never Ends",
       "url": "https://open.spotify.com/track/3A5vAVf6MabbZnfC662cdn"
+    },
+    {
+      "album": {
+        "name": "RE4SON",
+        "url": "https://open.spotify.com/album/6gXoFS4tXwFCRPWHfvqCKL"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "4444 OF A KIND",
+          "url": "https://open.spotify.com/artist/69aOmjpvxqUDUaZUvuw6Di"
+        },
+        {
+          "name": "Sub Zero Project",
+          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
+        },
+        {
+          "name": "D-Block & S-te-Fan",
+          "url": "https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217161,
+      "name": "RE4SON",
+      "url": "https://open.spotify.com/track/6553wCdVuWciRZbLd0T1r5"
     },
     {
       "album": {
@@ -5540,7 +5648,7 @@
       ],
       "date_added": "2026-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 160011,
       "name": "Time After Time",
       "url": "https://open.spotify.com/track/4ldTexWwh69o6yrBaho5e2"

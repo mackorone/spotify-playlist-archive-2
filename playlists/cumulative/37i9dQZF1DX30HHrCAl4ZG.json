@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Explore all things indie rock right now. Featuring music from Fontaines D.C.",
+  "description": "Explore all things indie rock right now. Featuring music from Pinegrove",
   "name": "Today's Indie Rock",
   "tracks": [
     {
@@ -4428,7 +4428,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 191450,
       "name": "Billy Elliot",
       "url": "https://open.spotify.com/track/7gf3M0upbz1PemBCtDUP7D"
@@ -4904,7 +4904,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 159527,
       "name": "Blue Fairy",
       "url": "https://open.spotify.com/track/0tTfzkTDrCO9iX5hiBHjl7"
@@ -9342,7 +9342,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 194765,
       "name": "Dandelion",
       "url": "https://open.spotify.com/track/1JjL9mpChpaO3fZRFI402Z"
@@ -10904,7 +10904,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 178650,
       "name": "Don\u2019t Lie",
       "url": "https://open.spotify.com/track/4cEC3ENYWqhXjOtmvCSxij"
@@ -12988,6 +12988,24 @@
       "duration_ms": 287226,
       "name": "Fantasy",
       "url": "https://open.spotify.com/track/4cakGDwEb3ZTUQRB66xesd"
+    },
+    {
+      "album": {
+        "name": "Fare Thee Well, Miss Carousel",
+        "url": "https://open.spotify.com/album/4F0vxhetE2gLgkUUCED5sS"
+      },
+      "artists": [
+        {
+          "name": "The Lemonheads",
+          "url": "https://open.spotify.com/artist/6w7fc6IZlo5zwBaKT5jU1X"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316507,
+      "name": "Fare Thee Well, Miss Carousel",
+      "url": "https://open.spotify.com/track/0Ppg2H8k6WNdBGZclp1NO1"
     },
     {
       "album": {
@@ -15470,6 +15488,24 @@
       "duration_ms": 157000,
       "name": "Gr8 Timing!",
       "url": "https://open.spotify.com/track/0R5RnMzKGJLLwlS8FAnDp3"
+    },
+    {
+      "album": {
+        "name": "Great Destroyer",
+        "url": "https://open.spotify.com/album/3ovb20hHInBOA8IQA6cSGr"
+      },
+      "artists": [
+        {
+          "name": "Racing Mount Pleasant",
+          "url": "https://open.spotify.com/artist/5zaSiNpGxS2lOvZTIZiOQX"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249586,
+      "name": "Great Destroyer",
+      "url": "https://open.spotify.com/track/37VSm7OkJYKnGszEqUQm6d"
     },
     {
       "album": {
@@ -20000,7 +20036,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 186986,
       "name": "Jane!",
       "url": "https://open.spotify.com/track/5BdTXOmNx4NANVF4IMitQQ"
@@ -21200,7 +21236,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 170380,
       "name": "Laying Down",
       "url": "https://open.spotify.com/track/2vYaRSGzWjD3X17T1ICQvp"
@@ -21668,6 +21704,24 @@
       "duration_ms": 186505,
       "name": "Life",
       "url": "https://open.spotify.com/track/01YuUwKN7RFa09q72o0hBF"
+    },
+    {
+      "album": {
+        "name": "Lifer",
+        "url": "https://open.spotify.com/album/3a7ggPhwRnYn73uCJ0qQ44"
+      },
+      "artists": [
+        {
+          "name": "Armlock",
+          "url": "https://open.spotify.com/artist/7BoU3VkauvnYvttpymQ7pG"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162698,
+      "name": "Lifer",
+      "url": "https://open.spotify.com/track/6pKOiHEMUgqNKl4qqspjJF"
     },
     {
       "album": {
@@ -22310,6 +22364,24 @@
       "duration_ms": 179499,
       "name": "Looking Out for You",
       "url": "https://open.spotify.com/track/3jfZ9M23l0L7RxzYMTgBTv"
+    },
+    {
+      "album": {
+        "name": "Everything So Far \u2013 11th Anniversary Edition",
+        "url": "https://open.spotify.com/album/4yfGudqYBn02zyl5OzZIOe"
+      },
+      "artists": [
+        {
+          "name": "Pinegrove",
+          "url": "https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256511,
+      "name": "Lorazepam (ESF \"Bonus Round\")",
+      "url": "https://open.spotify.com/track/3AXWgOtbWI2iz0M8A1RViV"
     },
     {
       "album": {
@@ -24114,7 +24186,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 214600,
       "name": "Mice Protection",
       "url": "https://open.spotify.com/track/4sCiHmLrMcfjMTP10dfVzu"
@@ -25080,7 +25152,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 133912,
       "name": "Multizeal",
       "url": "https://open.spotify.com/track/5eYJZqdfGF6bdBli2ynooi"
@@ -25372,7 +25444,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 192289,
       "name": "MY LOVE",
       "url": "https://open.spotify.com/track/2Co01NIDhLJrQRlI8QiGKw"
@@ -25541,6 +25613,24 @@
     },
     {
       "album": {
+        "name": "Natural Disasters",
+        "url": "https://open.spotify.com/album/3YFGx66CV14wmi6ZmVqo4y"
+      },
+      "artists": [
+        {
+          "name": "Palehound",
+          "url": "https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212303,
+      "name": "Natural Disasters",
+      "url": "https://open.spotify.com/track/0w2oeFlzYXNDlcHwxGT8iH"
+    },
+    {
+      "album": {
         "name": "Nauseous (WHY NOT Version)",
         "url": "https://open.spotify.com/album/13Z4tNSN9OzfEZzXnOJvbA"
       },
@@ -25646,7 +25736,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 174834,
       "name": "Never Have I Ever",
       "url": "https://open.spotify.com/track/2Ojr742JINM4QEOk7vQGEh"
@@ -26014,7 +26104,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 218909,
       "name": "No Fear",
       "url": "https://open.spotify.com/track/2LQhEn8usQ8va0aPdLRnWX"
@@ -27242,7 +27332,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 259495,
       "name": "Opening Night",
       "url": "https://open.spotify.com/track/7HXzuAd8UNJj2yCAS0NWbB"
@@ -29072,7 +29162,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 266759,
       "name": "Puppet - Taken From Peaky Blinders: The Immortal Man (Soundtrack from the Netflix Film)",
       "url": "https://open.spotify.com/track/7dtX124bngqv8RPPccWYUC"
@@ -29944,7 +30034,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 232138,
       "name": "Ring Of Fire",
       "url": "https://open.spotify.com/track/4yvqnW2T2V73yhMWu8OyaT"
@@ -32330,7 +32420,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 192439,
       "name": "skinny dip",
       "url": "https://open.spotify.com/track/3GR1J0gHGBN4jX2auDDE2j"
@@ -33838,7 +33928,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 205274,
       "name": "Star",
       "url": "https://open.spotify.com/track/3PdE19PCcon8iVW9KXtRWl"
@@ -40356,7 +40446,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 189853,
       "name": "Where's My Phone?",
       "url": "https://open.spotify.com/track/4BUDJShvKNRbrgylxri5tI"
@@ -40746,6 +40836,24 @@
       "duration_ms": 178933,
       "name": "Wink",
       "url": "https://open.spotify.com/track/5IgYoIjoRxfSuAr436g029"
+    },
+    {
+      "album": {
+        "name": "Winner",
+        "url": "https://open.spotify.com/album/52JHUm1Y7NIxLdKu0qGwjt"
+      },
+      "artists": [
+        {
+          "name": "Sorry",
+          "url": "https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232047,
+      "name": "Winner",
+      "url": "https://open.spotify.com/track/21GMGZQQ0MhG5mTe7cvs2Y"
     },
     {
       "album": {
@@ -41654,6 +41762,24 @@
       "duration_ms": 160257,
       "name": "Your Life Your Time",
       "url": "https://open.spotify.com/track/1HWkMkgqKMLqsAPRh0KNmE"
+    },
+    {
+      "album": {
+        "name": "Most Likely",
+        "url": "https://open.spotify.com/album/1OQizYD8KIkRSmD1U3m9Vg"
+      },
+      "artists": [
+        {
+          "name": "swell foop",
+          "url": "https://open.spotify.com/artist/5zQi16UXlsQxpqeIOYBu7r"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191802,
+      "name": "Your Love",
+      "url": "https://open.spotify.com/track/1fNKvkFoz5O2XggQCRR57G"
     },
     {
       "album": {

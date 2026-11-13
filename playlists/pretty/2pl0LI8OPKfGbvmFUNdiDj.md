@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-[pma4real](https://open.spotify.com/user/jasonwaroff) - 1,346 likes - 64 songs - 3 hr 29 min
+[pma4real](https://open.spotify.com/user/jasonwaroff) - 1,349 likes - 65 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,5 +72,6 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 | 62 | [OMG](https://open.spotify.com/track/7Hne5xde6zGqJWx4LTa93l) | [Sweet Electric](https://open.spotify.com/artist/2I2JaAstxZhlU1fmnRZSEm) | [Something Something Disco](https://open.spotify.com/album/1PrZie0NfaYvlTTfB8DAve) | 3:57 |
 | 63 | [Lost In The Darkness.](https://open.spotify.com/track/3Ly5QSh3yGfNLZJPSuOf3l) | [TURN BLUE.](https://open.spotify.com/artist/2UknGqLKQShkLJweCFYzjL) | [Lost In The Darkness.](https://open.spotify.com/album/6cpcoERgYP8iD8ABpADnz0) | 3:53 |
 | 64 | [Feel the Vibes](https://open.spotify.com/track/2Yn3ht6bIMQiJhY8IRIKdn) | [Eva Ku](https://open.spotify.com/artist/2g0TDqQxF7SeIZpyloApb0) | [Feel the Vibes](https://open.spotify.com/album/7lgV9Fkn6XwxrWCQrp15zG) | 2:27 |
+| 65 | [Used To Be](https://open.spotify.com/track/3jiX9nLavQLNs0afYgP6Bf) | [Curtis Lee](https://open.spotify.com/artist/5oPWLiR5I9BqjSNgjF7bhD) | [Used To Be](https://open.spotify.com/album/1rrvrkDWzHJasEirfarXl0) | 3:50 |
 
-Snapshot ID: `AAAEqynkKatvu1wAzDBpttrXS943uqgB`
+Snapshot ID: `AAAErDo7jEru5ErsG59nXdQu2WkpZ1kg`

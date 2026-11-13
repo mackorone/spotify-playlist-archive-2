@@ -4,7 +4,7 @@
 
 > Magical film scores and instrumental soundtracks for the festive season🎄
 
-145 songs - 6 hr 47 min
+147 songs - 6 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Christmas Morning](https://open.spotify.com/track/4lLRXK4jhzWSQZpQY6jpOt) | [Harry Gregson\-Williams](https://open.spotify.com/artist/1BxqJ6pOCi8mkSjCbFYjpW) | [Arthur Christmas \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7DvHEGkcpipC5zvDCnRvpc) | 4:00 | 2024-10-11 |  |
 | [Christmas Morning](https://open.spotify.com/track/2L2PfoLfYE2a5ExqfymzLF) | [Miles Goodman](https://open.spotify.com/artist/6EO3sg6d03gDegWGl2eILt) | [The Muppet Christmas Carol \(Special Anniversary Edition\)](https://open.spotify.com/album/63DYbHrvwaBaWVjqQkNvT0) | 0:57 | 2024-10-11 |  |
 | [Christmas Star](https://open.spotify.com/track/7sYDtxVDyT4P3DgUVknThz) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Home Alone 2: Lost in New York \(Original Score\)](https://open.spotify.com/album/4CHAKVRCt7OLk4nzx1h2Sm) | 3:18 | 2025-12-02 |  |
+| [Christmas Supper](https://open.spotify.com/track/6f82mbh2m5iYvAB6G5vdBV) | [Tyler Bates](https://open.spotify.com/artist/75fIuwXxhZ1atNzWLMrgF0) | [Ebenezer \(Music from the Motion Picture\)](https://open.spotify.com/album/3AJVBgueVmdPrLi3OpTdvz) | 1:21 | 2026-11-13 |  |
 | [Christmas Surprise](https://open.spotify.com/track/7yOgWVAYfNUcyiqD8aOmE4) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [The Holiday \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1wJZSN3VrWTR8OcFJ4lp9I) | 2:32 | 2024-10-11 |  |
 | [Christmas with Zachary](https://open.spotify.com/track/4WH29YTfyDhLT1aRKG9qnq) | [Kurt Kuenne](https://open.spotify.com/artist/0xI1aYCkpcC6h8U5NqwUPt) | [Dear Zachary \(Original Motion Picture Score\)](https://open.spotify.com/album/1uc7eJA2LIAI4Dxewq7crx) | 1:37 | 2024-10-11 |  |
 | [Croissants In France](https://open.spotify.com/track/5Mkz30d4nPpwOXcHtbLktQ) | [Craig Armstrong](https://open.spotify.com/artist/526q7RxT5KA1VGeQ5GMSHO) | [Love Actually \(Original Motion Picture Score\)](https://open.spotify.com/album/4Kw7yE7xBZdHrvkTswoQq4) | 1:07 | 2024-10-11 |  |
@@ -148,6 +149,7 @@
 | [To Santa](https://open.spotify.com/track/4PydCZcrYDS66GuCl2Yfqc) | [Rupert Gregson\-Williams](https://open.spotify.com/artist/2vuXYcTqreOLLnlKtMV5UG) | [Dear Santa \(Music from the Paramount+ Original Movie\)](https://open.spotify.com/album/2koKM0TAKy4Skvsvy6NZg6) | 1:14 | 2024-11-29 |  |
 | [Touch My Robe](https://open.spotify.com/track/7pyQgB4eq5yq9mDDeTWfvY) | [Alan Silvestri](https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA) | [A Christmas Carol](https://open.spotify.com/album/35N2paA3Tb44f0a3beEU3V) | 3:41 | 2024-10-11 |  |
 | [Trelew, Cornwall, England](https://open.spotify.com/track/5lfnVdkjUpDFzHfRh3PYom) | [Harry Gregson\-Williams](https://open.spotify.com/artist/1BxqJ6pOCi8mkSjCbFYjpW) | [Arthur Christmas \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7DvHEGkcpipC5zvDCnRvpc) | 1:49 | 2024-10-11 |  |
+| [Trying To Get There \(feat\. Leon Bridges\)](https://open.spotify.com/track/55wWki4fedcLYqN2F05hjH) | [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x), [Peanuts](https://open.spotify.com/artist/58JT424axIaKJNvUgVonOY) | [Snoopy Presents: 12 Days of Snoopy \(Original Apple TV Soundtrack\)](https://open.spotify.com/album/7CF0KAiX6UzOauKO2ML1ok) | 2:23 | 2026-11-13 |  |
 | [We Wish You A...](https://open.spotify.com/track/3EOAnwv5J3XqDQ7ozWgJSg) | [Harry Gregson\-Williams](https://open.spotify.com/artist/1BxqJ6pOCi8mkSjCbFYjpW) | [Arthur Christmas \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7DvHEGkcpipC5zvDCnRvpc) | 0:49 | 2024-10-11 |  |
 | [Wedding](https://open.spotify.com/track/00zjBI6AIxXm5UTs2gRmhY) | [Craig Armstrong](https://open.spotify.com/artist/526q7RxT5KA1VGeQ5GMSHO) | [Bridget Jones’s Baby \(Original Motion Picture Score\)](https://open.spotify.com/album/7pI3xA0nYTiOV69T27WqCQ) | 3:07 | 2024-10-11 |  |
 | [White Christmas](https://open.spotify.com/track/16CUCqzVir1o0TPnDZRScr) | [Irving Berlin](https://open.spotify.com/artist/32zXZpxwb2bq7oGzAhe1Ii), [Boston Pops Orchestra](https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq), [Arthur Fiedler](https://open.spotify.com/artist/2JQBcP1ceEAdwHM6cvSCv8) | [White Christmas \- A Christmas Festival](https://open.spotify.com/album/6yzjErG9plP2b6b62R6yvn) | 3:23 | 2024-10-11 |  |

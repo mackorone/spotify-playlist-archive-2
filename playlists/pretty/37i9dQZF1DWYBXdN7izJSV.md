@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXdN7izJSV.md) - [plain]
 
 > Classic cuts from the alternative country music scene\. Cover: Uncle Tupelo
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,574 likes - 75 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,581 likes - 75 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXdN7izJSV.md) - [plain]
 | 41 | [Save It For A Rainy Day](https://open.spotify.com/track/6IZIEhCq9crPjl2jGUvELS) | [The Jayhawks](https://open.spotify.com/artist/2UDplVRprMbazU74Hq8OLl) | [Rainy Day Music](https://open.spotify.com/album/3vI8vpQDeh7NaNEY1AilPm) | 3:07 |
 | 42 | [New Madrid](https://open.spotify.com/track/4Ssgx7QJr0fzabt4D4JZ1b) | [Uncle Tupelo](https://open.spotify.com/artist/2Plkkomsc4DKawkCioLKjc) | [Anodyne](https://open.spotify.com/album/5DQRAlGAFTpHsXGEg5zw9V) | 3:31 |
 | 43 | [It's Not You, It's Me](https://open.spotify.com/track/3bWvZ3YluJBtHgCP7c0tBv) | [The Little Willies](https://open.spotify.com/artist/4MWopTgyvixq0tNiFrVg0l) | [The Little Willies](https://open.spotify.com/album/5G864T3Gd0LlUEQdw0iZiw) | 2:43 |
-| 44 | [No More Buffalo](https://open.spotify.com/track/7fyi9AWHCum1tXzUacFYro) | [James McMurtry](https://open.spotify.com/artist/52BKc9OtCbQstAAPTIvLGH) | [It Had To Happen](https://open.spotify.com/album/3l7cwOKo22Jw2YfuT9hP3q) | 7:19 |
-| 45 | [Drunken Angel](https://open.spotify.com/track/3plLbnUUKpf8BSXLiIqkPx) | [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP) | [Car Wheels On A Gravel Road](https://open.spotify.com/album/3iC6dJobZulVXp0F4Bojig) | 3:20 |
+| 44 | [Drunken Angel](https://open.spotify.com/track/3plLbnUUKpf8BSXLiIqkPx) | [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP) | [Car Wheels On A Gravel Road](https://open.spotify.com/album/3iC6dJobZulVXp0F4Bojig) | 3:20 |
+| 45 | [No More Buffalo](https://open.spotify.com/track/7fyi9AWHCum1tXzUacFYro) | [James McMurtry](https://open.spotify.com/artist/52BKc9OtCbQstAAPTIvLGH) | [It Had To Happen](https://open.spotify.com/album/3l7cwOKo22Jw2YfuT9hP3q) | 7:19 |
 | 46 | [Nights Like These](https://open.spotify.com/track/7wdsny4I4vMLY4wCF9FDkr) | [Lucero](https://open.spotify.com/artist/1MspPfENB9nzFGaagXmF7R) | [Tennessee](https://open.spotify.com/album/7pNGqfOAI7z0PrwJrdjh1A) | 3:55 |
 | 47 | [Question](https://open.spotify.com/track/2m5ItG3IIMsaGYJjZOvUoE) | [Old 97's](https://open.spotify.com/artist/27AzFtMZhRN78bAMPntbpF) | [Satellite Rides](https://open.spotify.com/album/6SVjHaDr6gwCXUEvHoUhpA) | 2:15 |
 | 48 | [Good Intentions](https://open.spotify.com/track/1xFvog4nYO22Sfw5iarls7) | [Robert Ellis](https://open.spotify.com/artist/6XtG9W2KkPiQ6n1rlIvTJE) | [The Lights from the Chemical Plant](https://open.spotify.com/album/0NwAQ1Z8qlkvBRxm2pjxBM) | 2:47 |

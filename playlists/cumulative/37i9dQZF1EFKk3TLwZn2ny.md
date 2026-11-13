@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5firUEQ9rQDghlz87ntiQD">Monro</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-85 songs - 4 hr 20 min
+86 songs - 4 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Wait For Me](https://open.spotify.com/track/60PG0vmgD0iaOyCviT6Y93) | [Asha Gold](https://open.spotify.com/artist/1sXQIRMGgEwmQktIO4XpWm) | [Wait For Me](https://open.spotify.com/album/59c1N6sNmrTW3aoVzmQvXE) | 3:08 | 2024-01-29 |  |
 | [Walking Away](https://open.spotify.com/track/0ATBZJ1E0lkMC9oweBVLqa) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Lessons in Love](https://open.spotify.com/album/3t5VFTO58tnYpZVeJYGQhD) | 3:32 | 2024-01-29 |  |
 | [Want It With You](https://open.spotify.com/track/1NODaCfupGkQSWckbtW6X1) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Chapter One](https://open.spotify.com/album/0e6oknt3pDkHsOOR16V0Q5) | 3:16 | 2024-01-29 |  |
+| [Wet](https://open.spotify.com/track/2y4Gg9LXXrdq7Z8G3T4YOY) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [ALOUD!](https://open.spotify.com/album/4FDFTveKB14lSEgYJePS8D) | 1:53 | 2026-11-12 |  |
 | [White Lie](https://open.spotify.com/track/1pu8uTETEknskKiQ2ZRV2d) | [Molly Ashcroft](https://open.spotify.com/artist/5GaBtvbFE0zu26I2UZHGIk) | [White Lie](https://open.spotify.com/album/338zZshtwKxZY8gXfMBmMr) | 2:50 | 2024-01-29 | 2024-04-14 |
 | [Who Gon Love You](https://open.spotify.com/track/244cX8u7OwVyiW2z6uaD3C) | [Berner](https://open.spotify.com/artist/2lrtGWxNXWjd0JzDLKXubI), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [HOFFA](https://open.spotify.com/album/1xYcF3T1DnGQ7M5BdzJppi) | 4:13 | 2025-01-28 |  |
 | [Why Would I](https://open.spotify.com/track/3tlagYGVQF3IArtnyE6f8x) | [chlothegod](https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx) | [I Feel Different Every Day](https://open.spotify.com/album/4dNFEQBU7izCLpGiMvbylB) | 3:21 | 2025-02-09 |  |

@@ -2,9 +2,9 @@
 
 ### [Kids Music Videos](https://open.spotify.com/playlist/37i9dQZF1DXaxoSJWuftUi)
 
-> Your favorite kids songs and nursery rhymes, now with videos\. Music videos available only on Premium\. Cover: Ms\. Rachel & Mr\. Aron
+> Your favorite kids songs and nursery rhymes, now with videos\. Music videos available only on Premium\. Cover: Peppa Pig
 
-42 songs - 1 hr 51 min
+43 songs - 1 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Llama Song](https://open.spotify.com/track/7j2wiqoy9i0ZV97yibRYYy) | [Cooltime](https://open.spotify.com/artist/5Cx0MO39eG4ElGaD1juoZQ) | [Songs About Stuff Vol\. 2](https://open.spotify.com/album/1QL6VpmUQKaxDRkvOOkqNk) | 1:50 | 2026-05-22 |  |
 | [One Little Finger](https://open.spotify.com/track/5ra1ik4njIVmFnIHXGRFFx) | [Caitie's Classroom](https://open.spotify.com/artist/7KqTz4iDBYBRvVyReA3SHo), [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [One Little Finger](https://open.spotify.com/album/2REw2stjpsOdQXWO2kH8hL) | 2:22 | 2026-06-19 |  |
 | [Open Shut Them](https://open.spotify.com/track/2bo8EzJS1zfT2AbnntJpuE) | [ItsyBitsyKids](https://open.spotify.com/artist/69sRWANSmSFxBlJ7yfx3Au) | [Open Shut Them](https://open.spotify.com/album/3BTzETecI6nG1FieG6dJWk) | 2:02 | 2026-05-22 |  |
+| [Our Shopping List](https://open.spotify.com/track/0LO5cE6Fs2pn7i7rNZujed) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a), [Noodle & Pals](https://open.spotify.com/artist/5r4Bnflqc1rt8z3UIhwwKf) | [Our Shopping List](https://open.spotify.com/album/3TPlbxhemq7q1c7V7oF49E) | 2:47 | 2026-11-13 |  |
 | [Sharing Is Caring](https://open.spotify.com/track/4OJVKzwNlxaMnFiIRWHFrH) | [Doggyland](https://open.spotify.com/artist/34ZLdDJVv5clP7Ask1zjoP), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Kids Hits, Vol\. 1](https://open.spotify.com/album/6PE793g3TdbQL1nj51wCRm) | 1:58 | 2026-05-22 |  |
 | [Sports](https://open.spotify.com/track/7nZMHop22wTDbaoDkaP9x9) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [Sports](https://open.spotify.com/album/0Hx7DbcJrotDRRDAMvkOnZ) | 2:37 | 2026-06-19 |  |
 | [The Elephant](https://open.spotify.com/track/7aFRFQA17hIsuQ18y3cfFy) | [Hooray Kids Songs](https://open.spotify.com/artist/5tNlF8VeieGuXQzqzCU2Gd) | [The Elephant](https://open.spotify.com/album/1qBkdeuJDb3D8VVpeMN3PG) | 1:47 | 2026-05-22 |  |

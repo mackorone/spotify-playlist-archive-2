@@ -4,13 +4,13 @@
 
 > This is Michael Giacchino\. The essential tracks, all in one playlist.
 
-76 songs - 3 hr 23 min
+77 songs - 3 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Commuted Relationship](https://open.spotify.com/track/3wjNabi8OaDNKoyXkl7fS2) | [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Zootopia 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2i1QqSI3UmOsQf12CQUdRN) | 0:56 | 2026-07-08 | 2026-08-18 |
 | [A Game of Names](https://open.spotify.com/track/1bSeOLK9dg6UTFUMZ3dyBg) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Jojo Rabbit \(Original Score\)](https://open.spotify.com/album/24LihGaQcALI1GA51AXpPZ) | 0:30 | 2026-11-10 |  |
-| [A Good Day to Dive \- from "Spider\-Man: Brand New Day" Soundtrack](https://open.spotify.com/track/20qocJgu4FllPhaoDO3NiL) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Spider\-Man: Brand New Day \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3MnzMfSe5sSUh4Ha5EiXM6) | 4:10 | 2026-08-05 |  |
+| [A Good Day to Dive \- from "Spider\-Man: Brand New Day" Soundtrack](https://open.spotify.com/track/20qocJgu4FllPhaoDO3NiL) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Spider\-Man: Brand New Day \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3MnzMfSe5sSUh4Ha5EiXM6) | 4:10 | 2026-08-05 | 2026-11-13 |
 | [A New Deal](https://open.spotify.com/track/6ddWWAGUgZPBmi6Ezakha1) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Ratatouille \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7Dr08Oi3zxdCzmFulSXSs2) | 1:56 | 2026-07-08 |  |
 | [All's Well That Ends Farewell](https://open.spotify.com/track/3OUzsBpHB4fkdaRy14IcWx) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [The Batman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/18nTX27XXEYARGmWMTgD19) | 2:41 | 2026-07-08 | 2026-08-03 |
 | [Anyone Can Cook](https://open.spotify.com/track/1XgQtMoo2drLvh0qRHMvJB) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Ratatouille \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7Dr08Oi3zxdCzmFulSXSs2) | 3:13 | 2026-07-08 |  |
@@ -23,6 +23,7 @@
 | [Colette Shows Him Le Ropes](https://open.spotify.com/track/6p8lCOvTbSI4eijtyw6pW4) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Ratatouille \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7Dr08Oi3zxdCzmFulSXSs2) | 2:56 | 2026-07-08 |  |
 | [Come Fly With Me \- from "Spider\-Man: Brand New Day" Soundtrack](https://open.spotify.com/track/52Yvf4pN9wixK7ePyQ2irH) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Spider\-Man: Brand New Day \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3MnzMfSe5sSUh4Ha5EiXM6) | 0:30 | 2026-08-07 | 2026-08-15 |
 | [Dept\. of Family Reunions](https://open.spotify.com/track/749lII9VTpff1zUI6lyEoK) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Coco \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5) | 2:44 | 2026-11-02 |  |
+| [Don't Be Voyeur with Me](https://open.spotify.com/track/3xQuz21Qwnxie8L28VNAtg) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [The Batman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/18nTX27XXEYARGmWMTgD19) | 2:38 | 2026-11-13 |  |
 | [Enterprising Young Men](https://open.spotify.com/track/0NGVyXhUkqE3MRN6TmSzuG) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Star Trek \(Music From The Motion Picture\)](https://open.spotify.com/album/0LGD98m43zunznpBrOsjqe) | 2:39 | 2026-07-08 |  |
 | [Episode 2](https://open.spotify.com/track/2EmihuJbmXOcfN3QafNIkJ) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Incredibles 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1kbdqZFxL3fuOmetdZ1VWO) | 0:50 | 2026-07-13 | 2026-11-02 |
 | [Exit Through the Lobby \- from "Spider\-Man: No Way Home" Soundtrack](https://open.spotify.com/track/5CIOy79Y5MmXeInEiVikRC) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Spider\-Man: No Way Home \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1vfxAPvnlWNr5lY9WojHQL) | 4:15 | 2026-07-08 |  |

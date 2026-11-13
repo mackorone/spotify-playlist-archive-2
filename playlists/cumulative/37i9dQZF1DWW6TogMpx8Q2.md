@@ -2,9 +2,9 @@
 
 ### [CantoVision](https://open.spotify.com/playlist/37i9dQZF1DWW6TogMpx8Q2)
 
-> Biggest Cantopop MV Hits! MVs only available for Spotify premium subscribers\.  Cover: Faye Wong 王菲
+> Biggest Cantopop MV Hits! MVs only available for Spotify premium subscribers\.  Cover: Vincy 蘇詠淳
 
-215 songs - 13 hr 28 min
+218 songs - 13 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [傷口不算甚麼](https://open.spotify.com/track/2pJz4kNs6XB1gbTJsnJLgh) | [Michael C](https://open.spotify.com/artist/0Uz6GaLPVXMsFQ21CPmwp1) | [傷口不算甚麼](https://open.spotify.com/album/0sIWDwoiE5NoR7TpAH6RcR) | 3:34 | 2026-09-10 |  |
 | [傷心的時候別說話](https://open.spotify.com/track/0XU1HkOQwgAmuvkiJwAMcp) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [傷心的時候別說話](https://open.spotify.com/album/4vDyhiJ9rvoLdkJtH8t6Iy) | 3:21 | 2025-08-13 | 2026-09-11 |
 | [光年（跟宇宙計時）](https://open.spotify.com/track/0J3XAwEtyryEr8KMwf0k6t) | [Kelly Chen](https://open.spotify.com/artist/7KyaSSJ8uTv7Unev4z2Qc7) | [光年（跟宇宙計時）](https://open.spotify.com/album/6ndmERuh6xPo1wqaRRojvB) | 3:15 | 2025-10-16 | 2026-11-06 |
-| [其實我 不是那麼的純情](https://open.spotify.com/track/1ltNiugtHEE0XpjxFCZtr8) | [Cath Wong](https://open.spotify.com/artist/2Kym4g2CjFyRO3Hx3phNEM) | [其實我 不是那麼的純情](https://open.spotify.com/album/2OBecsTPFO6uTRPo2ofoL5) | 3:51 | 2025-10-23 |  |
+| [其實我 不是那麼的純情](https://open.spotify.com/track/1ltNiugtHEE0XpjxFCZtr8) | [Cath Wong](https://open.spotify.com/artist/2Kym4g2CjFyRO3Hx3phNEM) | [其實我 不是那麼的純情](https://open.spotify.com/album/2OBecsTPFO6uTRPo2ofoL5) | 3:51 | 2025-10-23 | 2026-11-13 |
 | [冬季限定](https://open.spotify.com/track/3Zv9FH2wFzYQqNQv1PwAmz) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [Evergreen](https://open.spotify.com/album/2a4nRNaoAietyKufWYowLm) | 4:08 | 2026-01-15 |  |
 | [初戀](https://open.spotify.com/track/5XihvL3MlNcj6yPwAKsgFw) | [Mike 曾比特](https://open.spotify.com/artist/33oY0RTyXAMYBM6QSImuo7) | [MIKE \(Deluxe Version\)](https://open.spotify.com/album/0bEkpw5Jt53O0uBEYQX2Co) | 3:29 | 2022-07-07 | 2025-08-14 |
 | [初戀無限 Touch](https://open.spotify.com/track/476UgiGiOIOFG2SyWKYBZC) | [Phil Lam](https://open.spotify.com/artist/2pYLo2RugZpdhYRub5nKcV) | [初戀無限 Touch](https://open.spotify.com/album/411glUbJx8iDhDlJgQHvLt) | 4:01 | 2026-10-22 |  |
@@ -155,6 +155,7 @@
 | [月亮代表我](https://open.spotify.com/track/1cZfNeEFNZAfOkqYZQkJHr) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [月亮代表我](https://open.spotify.com/album/7jSkEbWsptHtAbLK0mtbbl) | 3:51 | 2026-06-18 |  |
 | [未來的歌](https://open.spotify.com/track/4KjnXaHhY2FQ09AXUe8MyP) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [未來的歌](https://open.spotify.com/album/483w7AHmaDk6FzRu12frdN) | 4:11 | 2025-11-20 |  |
 | [未存在的我們](https://open.spotify.com/track/7pPYZ8pQcoqHJTOOW4llei) | [PER SE](https://open.spotify.com/artist/4MR8lE0GqFrysJi3s18woQ) | [未存在的我們](https://open.spotify.com/album/3KA4gvnARpTIaNvOYbRYgg) | 4:00 | 2025-11-20 |  |
+| [未深入但了解](https://open.spotify.com/track/0r0VLsvWv7jo2HGfvlt5xh) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [未深入但了解](https://open.spotify.com/album/6ccMGTUqbYc5ouYsS9wYjv) | 3:01 | 2026-11-13 |  |
 | [枇杷](https://open.spotify.com/track/7kk5iqxiUHOaLPfnqSNHOW) | [Cath Wong](https://open.spotify.com/artist/2Kym4g2CjFyRO3Hx3phNEM) | [枇杷](https://open.spotify.com/album/2se1VXV7AhCI5J3vVh3UJR) | 3:39 | 2026-02-26 |  |
 | [某種老朋友](https://open.spotify.com/track/4c9hHw1PUYXHfKFASXo8H0) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [某種老朋友](https://open.spotify.com/album/4F9PntJ91ej5Uxyo1wgMii) | 4:30 | 2022-07-07 | 2025-08-14 |
 | [樹木真美](https://open.spotify.com/track/3V62hqp8AIqkSfr8Ys2lzP) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [樹木真美](https://open.spotify.com/album/24gJxtIlfZDK6SnR2MiuiU) | 4:06 | 2022-07-07 | 2025-08-14 |
@@ -163,6 +164,7 @@
 | [毫無代價唱我自己的歌](https://open.spotify.com/track/1XIqdJrU3abTXTi8AlrRbm) | [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [毫無代價唱我自己的歌](https://open.spotify.com/album/4QotdGG8gpF0uKFJ1ctyqQ) | 3:54 | 2026-11-05 |  |
 | [永久損毀](https://open.spotify.com/track/2T8ppyUVF1TJT1Mjd7nmWK) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC), [Panther Chan](https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm) | [TREBLE](https://open.spotify.com/album/21ZCD2XHS74GxHvDxaXLJK) | 3:52 | 2024-08-13 | 2025-08-14 |
 | [求救的勇氣](https://open.spotify.com/track/1Fj6ahpJNC7sJyG8SRxuaf) | [Panther Chan](https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm) | [求救的勇氣](https://open.spotify.com/album/4IXv3ydm9NmhdSDBPf1XmK) | 4:37 | 2025-08-13 | 2026-09-11 |
+| [沉進海的星](https://open.spotify.com/track/6wsupRH5oEmqfRGWAmpYKm) | [Vincy 蘇詠淳](https://open.spotify.com/artist/1Uo1h4cGK34qpSLdlg4GUA) | [沉進海的星](https://open.spotify.com/album/3Y8r1kXxRu34XwN0hYIIxy) | 3:52 | 2026-11-12 |  |
 | [泥菩薩](https://open.spotify.com/track/2tuBX7EOqjzvWlbk9xqZul) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [泥菩薩](https://open.spotify.com/album/2XtwSkfkOukSfe52grncEH) | 4:01 | 2025-09-25 |  |
 | [活人鏢靶](https://open.spotify.com/track/5UQGMMFAummYZSdshJdo71) | [Kaho Hung](https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh) | [Learning Curve](https://open.spotify.com/album/4diB05q3Yl1cjCBdzeLHCd) | 3:35 | 2022-07-07 | 2025-08-14 |
 | [派對後派對](https://open.spotify.com/track/1fRXWtmTYaFp2XNON4JEKd) | [Cath Wong](https://open.spotify.com/artist/2Kym4g2CjFyRO3Hx3phNEM) | [Sing Along with Her](https://open.spotify.com/album/1nodaLYAS98SfP5yv0ygJ4) | 3:19 | 2026-04-30 |  |
@@ -171,11 +173,12 @@
 | [淺粉紅 pale pink](https://open.spotify.com/track/3bHIyMzAs0BC3T0YVn4Ctb) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [淺粉紅](https://open.spotify.com/album/2uba9qMeStHlwXLbUu0PYj) | 3:21 | 2026-10-22 |  |
 | [渡我](https://open.spotify.com/track/6M1qKCAw7MFLj1Ln6ZaxKK) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [渡我](https://open.spotify.com/album/2l8q7TYv0p02DeBdZpMRT7) | 3:32 | 2026-11-05 |  |
 | [漸漸地](https://open.spotify.com/track/3s0LGsNnxPeJhqhE8bm3jQ) | [Phoebus Ng 吳啟洋](https://open.spotify.com/artist/35C0EdhwEfPvQhZKU8Ax2X) | [漸漸地](https://open.spotify.com/album/47b2GZEehmyONZ6B5I7Pzy) | 4:02 | 2022-07-07 | 2025-08-14 |
+| [無意識的AI](https://open.spotify.com/track/0coZBYJWnQ9oW3qc6oP3A3) | [Jade Sun](https://open.spotify.com/artist/3wOgiNce6emfZDZffDXaaD), [NO CAP RECORDS](https://open.spotify.com/artist/1yzmgTub0XAUxIHV11ndox) | [無意識的AI](https://open.spotify.com/album/5auggYJ8RFZalIaDNlL17O) | 2:46 | 2026-11-12 |  |
 | [無答案](https://open.spotify.com/track/5QNCEZY7agUhCLWpLpGo2d) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [無答案](https://open.spotify.com/album/0TKpr27GQEr151D7rzHAt0) | 4:02 | 2025-08-13 | 2026-09-11 |
 | [無膽匪類](https://open.spotify.com/track/1CUNuItJ9W782QUHDGAW1O) | [Cath Wong](https://open.spotify.com/artist/2Kym4g2CjFyRO3Hx3phNEM) | [無膽匪類](https://open.spotify.com/album/35Pk4Fyff8LLdPY8Bq563J) | 3:19 | 2025-08-13 | 2026-09-11 |
 | [無題時想起的人](https://open.spotify.com/track/1TX8zAgh8PqCgnNxKGxBKU) | [Phil Lam](https://open.spotify.com/artist/2pYLo2RugZpdhYRub5nKcV) | [無題時想起的人](https://open.spotify.com/album/4cRvQPbDo7wp2AQSnh9aoe) | 3:39 | 2025-08-13 | 2026-09-11 |
 | [特務占士匡 Mad World](https://open.spotify.com/track/10Aoi1ETfryNh5JuwslwDG) | [Phil Lam](https://open.spotify.com/artist/2pYLo2RugZpdhYRub5nKcV) | [特務占士匡 Mad World](https://open.spotify.com/album/2fRf6ubalICtwEKoPkJaRD) | 3:36 | 2026-06-18 |  |
-| [用背脊唱情歌](https://open.spotify.com/track/1jQp4mCBDmXr8NMqsMpH8E) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [用背脊唱情歌](https://open.spotify.com/album/65RVRNqYKdkqVJOUOtAtF8) | 3:30 | 2025-08-13 |  |
+| [用背脊唱情歌](https://open.spotify.com/track/1jQp4mCBDmXr8NMqsMpH8E) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [用背脊唱情歌](https://open.spotify.com/album/65RVRNqYKdkqVJOUOtAtF8) | 3:30 | 2025-08-13 | 2026-11-13 |
 | [男人怎可以](https://open.spotify.com/track/7M0ZCvE0HcikCJUy4cTsAF) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [男人怎可以](https://open.spotify.com/album/7L7mQJGSbFFu9HEwHiQ1os) | 4:16 | 2026-07-09 |  |
 | [留一天與你喘息](https://open.spotify.com/track/6flgMTTqhbJSNryAPCYcvA) | [陳卓賢 Ian](https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6) | [留一天與你喘息](https://open.spotify.com/album/70ZVowDZAeADC8GGzpxtgj) | 4:18 | 2022-07-07 | 2025-08-14 |
 | [留下來的人](https://open.spotify.com/track/0NaXXkY7Lss2VF3sYISJXG) | [C AllStar](https://open.spotify.com/artist/0ip5ivJzpy0v4DWVVKxc4D) | [人類世](https://open.spotify.com/album/44L9IokCH6BqKPFfkNbS9V) | 4:04 | 2022-07-07 | 2024-08-14 |
@@ -193,7 +196,7 @@
 | [蒙著嘴說愛你](https://open.spotify.com/track/2w9A7fvq6ka5CB9l7wDZXG) | [Keung To](https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D) | [蒙著嘴說愛你](https://open.spotify.com/album/6OPGexvajf1yf21kT1X0v9) | 4:00 | 2022-07-07 | 2024-08-14 |
 | [蚊螆](https://open.spotify.com/track/68Pno35wJlnYqpUZwhGfbq) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [蚊螆](https://open.spotify.com/album/1DZDRm48pIG90GkGdmdSQR) | 3:23 | 2026-09-10 |  |
 | [蛻 SWITCH](https://open.spotify.com/track/2OcVtRLi5BTnkjD2MPKog8) | [JACE](https://open.spotify.com/artist/1SCaQu3jTbcKIjy8aC7KHa) | [蛻 SWITCH](https://open.spotify.com/album/6OcCfNZtFBskQByvaGygLu) | 2:49 | 2025-08-13 | 2026-09-11 |
-| [行得走得](https://open.spotify.com/track/07GpYSBl70z5thYWJtvRNo) | [Alan Po](https://open.spotify.com/artist/07KI4ayN7XEoAVkYdRq6FA) | [行得走得](https://open.spotify.com/album/4Ip12sVLJTcXvaIwF8QR9I) | 3:38 | 2025-11-13 |  |
+| [行得走得](https://open.spotify.com/track/07GpYSBl70z5thYWJtvRNo) | [Alan Po](https://open.spotify.com/artist/07KI4ayN7XEoAVkYdRq6FA) | [行得走得](https://open.spotify.com/album/4Ip12sVLJTcXvaIwF8QR9I) | 3:38 | 2025-11-13 | 2026-11-13 |
 | [要愛不愛](https://open.spotify.com/track/7B0w5Gaby0t5aFutD5xScr) | [Zpecial](https://open.spotify.com/artist/56Ac1JJiopOrWDuRIb330x) | [要愛不愛](https://open.spotify.com/album/3DGHrte4xY0b5v2hosN5RQ) | 3:22 | 2026-04-30 |  |
 | [親愛的](https://open.spotify.com/track/2RYiEhuaLjU95huFRIfi77) | [Kaho Hung](https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh) | [親愛的](https://open.spotify.com/album/7dhNUGFJPYKsHhRML02ukm) | 4:19 | 2025-08-13 | 2026-10-23 |
 | [記憶棉](https://open.spotify.com/track/1ZrnCyms7CBYsCvkkVIkt8) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [記憶棉](https://open.spotify.com/album/6uWrUpmYlVSBmJ6RkCW4QE) | 4:33 | 2022-07-07 | 2026-09-11 |

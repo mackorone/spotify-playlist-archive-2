@@ -4,7 +4,7 @@
 
 > This is Spice Girls\. The essential tracks, all in one playlist.
 
-45 songs - 3 hr 11 min
+46 songs - 3 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Seremos 1 Los 2 \- Versión En Español](https://open.spotify.com/track/6hcNd7nKFpTt06C754iIg0) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [2 Become 1](https://open.spotify.com/album/7hNNgDU4imUDX29rfuKBGO) | 3:50 | 2026-10-16 |  |
 | [Sisters \(Are Doing It For Themselves\) \- Live](https://open.spotify.com/track/0y2Zg6IkB3YhuA7ygudELZ) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Goodbye](https://open.spotify.com/album/2lm2EzzckeiF3TJAZ9czOG) | 4:23 | 2025-10-28 |  |
 | [Spice Chat 2 “Shall We Say ‘Goodbye’ Then?’](https://open.spotify.com/track/3BDGPPDaW1dwVjOoLO5uPl) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice \(25th Anniversary / Deluxe Edition\)](https://open.spotify.com/album/6VIvQiUIOBMxjme8LYiUlU) | 0:48 | 2025-10-28 |  |
+| [Spice Girls Club Megamix](https://open.spotify.com/track/7r0b11XqTdRaBebhfzHCod) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF), [Guy Garrett](https://open.spotify.com/artist/0C9uLXnKf8cmfIl1shKYWK) | [Headlines \(Friendship Never Ends\)](https://open.spotify.com/album/2r1Nrcescxx8g29Zm4I6nQ) | 7:06 | 2026-11-13 |  |
 | [Spice Girls Megamix \- Radio Edit](https://open.spotify.com/track/5BAwualyg64Sq6tW8AF0JP) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF), [Guy Garrett](https://open.spotify.com/artist/0C9uLXnKf8cmfIl1shKYWK) | [The Singles Collection](https://open.spotify.com/album/48Uhx4uht0zbMzLAV4PYif) | 4:24 | 2026-11-09 |  |
 | [Spice Girls Party Mix](https://open.spotify.com/track/0b6QDY3DSV733KWYX6yWTU) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spiceworld \(25th Anniversary\)](https://open.spotify.com/album/3diiYWB32h7c7Eo2x8oxjK) | 14:44 | 2025-10-28 |  |
 | [Spice Invaders](https://open.spotify.com/track/08DJaUZjWzdRhr9EIdEgg0) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice Up Your Life](https://open.spotify.com/album/4XIOBbf2ELRI4NHelbxRCq) | 3:38 | 2025-10-28 |  |

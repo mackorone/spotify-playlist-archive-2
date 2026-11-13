@@ -1734,7 +1734,7 @@
       ],
       "date_added": "2026-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 158494,
       "name": "Animal",
       "url": "https://open.spotify.com/track/3ouNEk0tv5TTi8VWMe1xbX"
@@ -8717,6 +8717,24 @@
     },
     {
       "album": {
+        "name": "The Black Parade",
+        "url": "https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295000,
+      "name": "Disenchanted",
+      "url": "https://open.spotify.com/track/6T7MAQCekVb3UnCykjX3BP"
+    },
+    {
+      "album": {
         "name": "NEVER ENOUGH",
         "url": "https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y"
       },
@@ -9154,7 +9172,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 209720,
       "name": "Dracula (with JENNIE)",
       "url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
@@ -10986,6 +11004,24 @@
       "duration_ms": 188778,
       "name": "FAMOUS",
       "url": "https://open.spotify.com/track/0AQEShePVSsxMTM6a8ik6t"
+    },
+    {
+      "album": {
+        "name": "The Black Parade",
+        "url": "https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299226,
+      "name": "Famous Last Words",
+      "url": "https://open.spotify.com/track/2d6m2F4I7wCuAKtSsdhh83"
     },
     {
       "album": {
@@ -14128,6 +14164,24 @@
       "duration_ms": 180000,
       "name": "Heavy Serenade",
       "url": "https://open.spotify.com/track/1404zSB6dqMIiStHLI7gg4"
+    },
+    {
+      "album": {
+        "name": "Three Cheers for Sweet Revenge",
+        "url": "https://open.spotify.com/album/6F0yiLAZ3ZEpZXHhYFRrr6"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202339,
+      "name": "Helena",
+      "url": "https://open.spotify.com/track/1UUZgGa03L7HFyNheI2rfV"
     },
     {
       "album": {
@@ -25326,7 +25380,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 231173,
       "name": "Payphone",
       "url": "https://open.spotify.com/track/1XGmzt0PVuFgQYYnV2It7A"
@@ -33887,6 +33941,24 @@
     },
     {
       "album": {
+        "name": "Brand New Eyes",
+        "url": "https://open.spotify.com/album/6LMm8qWuGSRnE3DRMb1CK6"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267657,
+      "name": "The Only Exception",
+      "url": "https://open.spotify.com/track/7zvjty6R6eBnm4YwEi8c3b"
+    },
+    {
+      "album": {
         "name": "The Planet",
         "url": "https://open.spotify.com/album/7uaI73cqw8YC2ViewZAai5"
       },
@@ -35214,7 +35286,7 @@
       ],
       "date_added": "2026-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 187973,
       "name": "Treat You Better",
       "url": "https://open.spotify.com/track/3QGsuHI8jO1Rx4JWLUh9jd"
@@ -38151,6 +38223,24 @@
     },
     {
       "album": {
+        "name": "Parachutes",
+        "url": "https://open.spotify.com/album/4sObgJ1G4jahxdcWTEdeWK"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269208,
+      "name": "Yellow",
+      "url": "https://open.spotify.com/track/1aUTJpaxVd8LpUfbb19wZH"
+    },
+    {
+      "album": {
         "name": "GOLDEN",
         "url": "https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU"
       },
@@ -40384,7 +40474,7 @@
       ],
       "date_added": "2026-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 255182,
       "name": "\u6b32\u843d\u672a\u843d",
       "url": "https://open.spotify.com/track/25rKfmSz9QTVtilqZU9f8D"

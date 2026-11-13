@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 
 > After all, we are all siblings\. Cover: Bernadya, Pamungkas
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,461 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,462 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 | 44 | [Kasih Aba Aba](https://open.spotify.com/track/5rhwXZP0luMucnEPnYJpbI) | [Naykilla](https://open.spotify.com/artist/79omf4LgzaVAnXIRWPkJUq), [Tenxi](https://open.spotify.com/artist/6vP4azTCk053nGL0xAYnVH), [Jemsii](https://open.spotify.com/artist/5PTw7KmM8c9QfBjU5caHWs) | [Kasih Aba Aba](https://open.spotify.com/album/7epsFufhjXWBTRp8i4IkmM) | 2:56 |
 | 45 | [Pergilah Kasih](https://open.spotify.com/track/0lMfcdowtnDVtg6hSi1PyI) | [Raim Laode](https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN) | [Pergilah Kasih](https://open.spotify.com/album/1beyGP8N6Gk25YnbytA3vv) | 4:17 |
 | 46 | [Kasih Tau Mama \(Malam Minggu\)](https://open.spotify.com/track/3egqzae8XAs7VXIb1ikB4I) | [Rombongan Bodonk Koplo](https://open.spotify.com/artist/4lMaxyOo5D7cOWzv2wiRZs) | [Kasih Tau Mama \(Malam Minggu\)](https://open.spotify.com/album/4VFwqb1N4CvkB00X2noeup) | 3:26 |
-| 47 | [Ceritanya Jatuh Cinta](https://open.spotify.com/track/0f9J5rMcMhCQiPGSJHvr7G) | [Aku Jeje](https://open.spotify.com/artist/4FZ6V3q8zMyFvSMeT2ld2f) | [Ceritanya Jatuh Cinta](https://open.spotify.com/album/11Qt4sKWAfJBfQQwtbDox0) | 3:06 |
+| 47 | [That Somebody](https://open.spotify.com/track/0rmhhawrhWNqqZprQTGWWz) | [Rafi Sudirman](https://open.spotify.com/artist/0IJToD6h0XzZMzlgJ5kdhk) | [Scenery](https://open.spotify.com/album/1ymjvLkoCkExW8xZwiNpr6) | 4:43 |
 | 48 | [Garam & Madu \(Sakit Dadaku\)](https://open.spotify.com/track/1hlHeIZ36Idpr57xPI8OCD) | [Tenxi](https://open.spotify.com/artist/6vP4azTCk053nGL0xAYnVH), [Jemsii](https://open.spotify.com/artist/5PTw7KmM8c9QfBjU5caHWs), [Naykilla](https://open.spotify.com/artist/79omf4LgzaVAnXIRWPkJUq) | [Garam & Madu \(Sakit Dadaku\)](https://open.spotify.com/album/6moZrTqV9B8xfqXALVgaAZ) | 3:04 |
-| 49 | [That Somebody](https://open.spotify.com/track/0rmhhawrhWNqqZprQTGWWz) | [Rafi Sudirman](https://open.spotify.com/artist/0IJToD6h0XzZMzlgJ5kdhk) | [Scenery](https://open.spotify.com/album/1ymjvLkoCkExW8xZwiNpr6) | 4:43 |
+| 49 | [Ceritanya Jatuh Cinta](https://open.spotify.com/track/0f9J5rMcMhCQiPGSJHvr7G) | [Aku Jeje](https://open.spotify.com/artist/4FZ6V3q8zMyFvSMeT2ld2f) | [Ceritanya Jatuh Cinta](https://open.spotify.com/album/11Qt4sKWAfJBfQQwtbDox0) | 3:06 |
 | 50 | [Tuhan Tahu Kita Saling Cinta](https://open.spotify.com/track/0n8UJLCCEu2cF0Zm2luIvn) | [Fajar Noor](https://open.spotify.com/artist/3JQketpX6wbJUNAlOIigJc) | [Tuhan Tahu Kita Saling Cinta](https://open.spotify.com/album/0mz4JRi48KjxAbltvPTZIx) | 4:35 |
 | 51 | [Rabun Jauh](https://open.spotify.com/track/670sqeIKIxTu0DweRjnjKt) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Rabun Jauh](https://open.spotify.com/album/0gD4VL7vdxZfeUkRfTpLRM) | 2:55 |
 | 52 | [Kita Usahakan Lagi](https://open.spotify.com/track/1wfbqUSPWbnPjkiBA9UmoF) | [Batas Senja](https://open.spotify.com/artist/4AhHkaGz7W2bKKJK90IaV2) | [Kita Usahakan Lagi](https://open.spotify.com/album/0gOmfHG7fEF7dq72Q7jl9q) | 3:53 |
@@ -95,18 +95,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 | 85 | [Menamakanmu Cinta](https://open.spotify.com/track/1QAwKDm1FPgoD2V6lLiKmC) | [Dato' Sri Siti Nurhaliza](https://open.spotify.com/artist/5d0bxRte3J74ZXyEGRL8uU), [Ade Govinda](https://open.spotify.com/artist/1lg1jqQMMJQQFFMnkxn0zV) | [Menamakanmu Cinta](https://open.spotify.com/album/6bIOflYBZHvfWTG1niLv44) | 4:28 |
 | 86 | [Hatchu!!](https://open.spotify.com/track/2Xrakgck64eK7BebSfiWsp) | [Salma Salsabil](https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs) | [Hatchu!!](https://open.spotify.com/album/1BTnjmmBTK1QxlqwYPdQ5F) | 3:24 |
 | 87 | [Adu Pandang](https://open.spotify.com/track/4DqIWiVTcYzMuaZaa6QIEc) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Adu Pandang](https://open.spotify.com/album/5XosZNUeyiDQVu5J3OXKhc) | 3:06 |
-| 88 | [Semusim](https://open.spotify.com/track/0F0usCZL8B4ichHqUWAAI2) | [Tohpati](https://open.spotify.com/artist/5XyX171jkcvGEx4jkcZeLN), [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [Semusim](https://open.spotify.com/album/2SwklQLPnXVIJIS0ZqIlrL) | 4:14 |
-| 89 | [Melompat Lebih Tinggi](https://open.spotify.com/track/1NuvCcuRUGN54bkSLk51LC) | [Lomba Sihir](https://open.spotify.com/artist/6wD3vtAV0P3gWB9zLs7I4j) | [Melompat Lebih Tinggi](https://open.spotify.com/album/0ffA9bCAagLRj3pp2kYocZ) | 3:40 |
-| 90 | [Pura Pura](https://open.spotify.com/track/1FqoFlbDbeaq6Sy3watDVR) | [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG) | [Pura Pura](https://open.spotify.com/album/1eIPkvtg72lhSTAWFflIOP) | 4:38 |
-| 91 | [shoot](https://open.spotify.com/track/1lpXnyjEKDzExVyVS1AT1Q) | [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [shoot](https://open.spotify.com/album/7C3cWsNbYPO76a5qIq8fPM) | 3:34 |
+| 88 | [Melompat Lebih Tinggi](https://open.spotify.com/track/1NuvCcuRUGN54bkSLk51LC) | [Lomba Sihir](https://open.spotify.com/artist/6wD3vtAV0P3gWB9zLs7I4j) | [Melompat Lebih Tinggi](https://open.spotify.com/album/0ffA9bCAagLRj3pp2kYocZ) | 3:40 |
+| 89 | [Semusim](https://open.spotify.com/track/0F0usCZL8B4ichHqUWAAI2) | [Tohpati](https://open.spotify.com/artist/5XyX171jkcvGEx4jkcZeLN), [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [Semusim](https://open.spotify.com/album/2SwklQLPnXVIJIS0ZqIlrL) | 4:14 |
+| 90 | [shoot](https://open.spotify.com/track/1lpXnyjEKDzExVyVS1AT1Q) | [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [shoot](https://open.spotify.com/album/7C3cWsNbYPO76a5qIq8fPM) | 3:34 |
+| 91 | [Pura Pura](https://open.spotify.com/track/1FqoFlbDbeaq6Sy3watDVR) | [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG) | [Pura Pura](https://open.spotify.com/album/1eIPkvtg72lhSTAWFflIOP) | 4:38 |
 | 92 | [Telepati](https://open.spotify.com/track/2VM0RoNs889vw5c1sFunfB) | [Aziz Harun](https://open.spotify.com/artist/1dmuM6bG5J8sDFyp26x9Nf) | [Telepati](https://open.spotify.com/album/6L7TQes2IZBlcQzjYpPJEk) | 4:06 |
-| 93 | [Menunggumu Sampai Akhir Hidup](https://open.spotify.com/track/6vPs2QpyHKvYJ9Bq7CQaUu) | [Shanna Shannon](https://open.spotify.com/artist/2wJ77L3w0hTQDJH9uH39c2) | [Menunggumu Sampai Akhir Hidup](https://open.spotify.com/album/2GtB6vMtpUwsQ2yqiandyJ) | 4:11 |
-| 94 | [Raga](https://open.spotify.com/track/0P3YLLto0LmRo7z6o0Cyz9) | [Naykilla](https://open.spotify.com/artist/79omf4LgzaVAnXIRWPkJUq) | [centyl](https://open.spotify.com/album/0Pr2kArP3CrD7P32rZ9JMF) | 2:36 |
-| 95 | [Adam](https://open.spotify.com/track/3GDr3vHPxSJT75J3r6JRlY) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Adam](https://open.spotify.com/album/4BE9BCipCOJ3URXXyWUTNo) | 4:44 |
-| 96 | [work](https://open.spotify.com/track/3ISiRKaCo6JzoKRjNJlvQA) | [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [work](https://open.spotify.com/album/0PrpxrMj10YkptkVb1wHza) | 2:25 |
-| 97 | [Tanda Cinta](https://open.spotify.com/track/0ln5g8IxH6IQMx5CmeBZen) | [Kaleb J](https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb) | [Tanda Cinta](https://open.spotify.com/album/0Oc1MACglKTcDBVus3HE7J) | 4:34 |
-| 98 | [Bila](https://open.spotify.com/track/5vUHyNdyf058fWhnUY5nIr) | [Aku Jeje](https://open.spotify.com/artist/4FZ6V3q8zMyFvSMeT2ld2f) | [Bila](https://open.spotify.com/album/0rTZJbjUYarAtLGkV2NejN) | 2:32 |
-| 99 | [Februari](https://open.spotify.com/track/2VJo8Y2eymJGH7p3l2L1ii) | [Rony Parulian](https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ) | [Februari](https://open.spotify.com/album/0ux4SnnsmMzvjy2qm3AD75) | 4:16 |
-| 100 | [Tulips](https://open.spotify.com/track/358ebpX0j2KttZ9IxzEjKB) | [kasper](https://open.spotify.com/artist/4kwRGpvKw9YsV0DTRZQKyH) | [Tulips](https://open.spotify.com/album/5Dzekft2Oi1AkJKLBhJrcs) | 4:14 |
+| 93 | [Raga](https://open.spotify.com/track/0P3YLLto0LmRo7z6o0Cyz9) | [Naykilla](https://open.spotify.com/artist/79omf4LgzaVAnXIRWPkJUq) | [centyl](https://open.spotify.com/album/0Pr2kArP3CrD7P32rZ9JMF) | 2:36 |
+| 94 | [Menunggumu Sampai Akhir Hidup](https://open.spotify.com/track/6vPs2QpyHKvYJ9Bq7CQaUu) | [Shanna Shannon](https://open.spotify.com/artist/2wJ77L3w0hTQDJH9uH39c2) | [Menunggumu Sampai Akhir Hidup](https://open.spotify.com/album/2GtB6vMtpUwsQ2yqiandyJ) | 4:11 |
+| 95 | [work](https://open.spotify.com/track/3ISiRKaCo6JzoKRjNJlvQA) | [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [work](https://open.spotify.com/album/0PrpxrMj10YkptkVb1wHza) | 2:25 |
+| 96 | [Adam](https://open.spotify.com/track/3GDr3vHPxSJT75J3r6JRlY) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Adam](https://open.spotify.com/album/4BE9BCipCOJ3URXXyWUTNo) | 4:44 |
+| 97 | [Bila](https://open.spotify.com/track/5vUHyNdyf058fWhnUY5nIr) | [Aku Jeje](https://open.spotify.com/artist/4FZ6V3q8zMyFvSMeT2ld2f) | [Bila](https://open.spotify.com/album/0rTZJbjUYarAtLGkV2NejN) | 2:32 |
+| 98 | [Tanda Cinta](https://open.spotify.com/track/0ln5g8IxH6IQMx5CmeBZen) | [Kaleb J](https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb) | [Tanda Cinta](https://open.spotify.com/album/0Oc1MACglKTcDBVus3HE7J) | 4:34 |
+| 99 | [Tulips](https://open.spotify.com/track/358ebpX0j2KttZ9IxzEjKB) | [kasper](https://open.spotify.com/artist/4kwRGpvKw9YsV0DTRZQKyH) | [Tulips](https://open.spotify.com/album/5Dzekft2Oi1AkJKLBhJrcs) | 4:14 |
+| 100 | [Februari](https://open.spotify.com/track/2VJo8Y2eymJGH7p3l2L1ii) | [Rony Parulian](https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ) | [Februari](https://open.spotify.com/album/0ux4SnnsmMzvjy2qm3AD75) | 4:16 |
 
 Snapshot ID: `AAAAAH8k636dKqBBwj62UF+ZbuzWgdqC`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cPo2t5Hqf.md) - [plain]
 
 > Enjoy 10 years of music from HATSUNE MIKU "Project DIVA" series/ 初音ミク"Project DIVA"シリーズをひとつのプレイリストに。 © SEGA / © Crypton Future Media, INC\. <a href="https://piapro.net/">www.piapro.net</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 419,263 likes - 100 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 419,287 likes - 100 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cPo2t5Hqf.md) - [plain]
 | 10 | [ヒビカセ](https://open.spotify.com/track/0H1iMm1pO61srixV0rGYRe) | [Reol](https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ) | [No title\-](https://open.spotify.com/album/5qPZrSLh2oecfujdUZqgmy) | 4:10 |
 | 11 | [右肩の蝶](https://open.spotify.com/track/3g3aU6Rlwv4DRSv63KsL4d) | [noripy](https://open.spotify.com/artist/39d9m5GZSuy0uhtRcPdlL6) | [Kagaminext feat\. 鏡音リン、鏡音レン ―10th ANNIVERSARY BEST―](https://open.spotify.com/album/2HbzIEq99Mqb0VgGN1g3if) | 4:23 |
 | 12 | [Yellow \- Re:Dialed](https://open.spotify.com/track/2pD76XdkHQLRWI5Waa81QL) | [livetune](https://open.spotify.com/artist/6dFG0zTOaowuOignddONDP), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Re:Upload](https://open.spotify.com/album/7LP4mt5orMMrzqiOWIFYT4) | 3:20 |
-| 13 | [Nyanyanyanyanyanyanya!](https://open.spotify.com/track/12dIZe3xCPeetNkdovFxxk) | [daniwellP](https://open.spotify.com/artist/057M88mJrSI7zUZpSHexpe) | [Nyanyanyanyanyanyanya!](https://open.spotify.com/album/7JRhwPHdxrzyRuKfGVlR51) | 3:46 |
-| 14 | [ツギハギスタッカート](https://open.spotify.com/track/0V7RxFamMkLN6tXR7S2t1W) | [Toa](https://open.spotify.com/artist/0GpuT5uCfbeG4IwyPLvJ7b) | [ツギハギスタッカート](https://open.spotify.com/album/334dtoC0dImpN25UZ62DMD) | 4:10 |
+| 13 | [ツギハギスタッカート](https://open.spotify.com/track/0V7RxFamMkLN6tXR7S2t1W) | [Toa](https://open.spotify.com/artist/0GpuT5uCfbeG4IwyPLvJ7b) | [ツギハギスタッカート](https://open.spotify.com/album/334dtoC0dImpN25UZ62DMD) | 4:10 |
+| 14 | [Nyanyanyanyanyanyanya!](https://open.spotify.com/track/12dIZe3xCPeetNkdovFxxk) | [daniwellP](https://open.spotify.com/artist/057M88mJrSI7zUZpSHexpe) | [Nyanyanyanyanyanyanya!](https://open.spotify.com/album/7JRhwPHdxrzyRuKfGVlR51) | 3:46 |
 | 15 | [千本桜 \(feat\. 初音ミク\)](https://open.spotify.com/track/38mUTswfszVFQ952r89AP8) | [KuroUsa\(WhiteFlame\)](https://open.spotify.com/artist/1fyLCDf7gQRXZ1hRNtL2UF), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [千本桜](https://open.spotify.com/album/6Wop7Hk2r89DysfUe0USkh) | 4:12 |
 | 16 | [メルト \-MIKU EXPO 2014 in INDONESIA Live\-](https://open.spotify.com/track/6nWONiqCJwFxKKfAJSKaev) | [ryo \(supercell\)](https://open.spotify.com/artist/5Ud2lekREUXjinNlIGjJIX) | [HATSUNE MIKU EXPO 2014 IN INDONESIA \[Live\]](https://open.spotify.com/album/7sHpw2f73tYVfWcYaaLjE4) | 4:44 |
 | 17 | [エイリアンエイリアン](https://open.spotify.com/track/4fDralhqIxfoDHrnFSE3n0) | [Nayutalien](https://open.spotify.com/artist/0U2Emr9cdZNcbqSoKoWb8c) | [ナユタン星からの物体Ｙ](https://open.spotify.com/album/1ntfyuln6tVqXY8RTqb3MQ) | 3:01 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cPo2t5Hqf.md) - [plain]
 | 84 | [ねこみみスイッチ](https://open.spotify.com/track/53FFoxXnk2eWxvSiywyVFw) | [daniwellP](https://open.spotify.com/artist/057M88mJrSI7zUZpSHexpe) | [Neko seT](https://open.spotify.com/album/4ukngdwnH2UhFiCLi42c2y) | 3:54 |
 | 85 | [アマツキツネ \(feat.鏡音リン\)](https://open.spotify.com/track/3izZHDVwlnwjdoWhs1KrMM) | [Marasy](https://open.spotify.com/artist/3Y2hPbg4GHOheV4Hc9lpXV), [Kagamine Rin](https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP) | [空想メモライズ](https://open.spotify.com/album/6dnlAEI38OgEft5ukc6crm) | 3:54 |
 | 86 | [愛言葉](https://open.spotify.com/track/7Dw7AW1UCOppByzD7BQa9O) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [相愛性理論](https://open.spotify.com/album/6Gp6rgebq9fGJtIOgDAiLe) | 4:24 |
-| 87 | [いろは唄](https://open.spotify.com/track/4ZYp6mlFg37la87zyI7PvY) | [Ginsaku](https://open.spotify.com/artist/4qK0qz2xdkIubLelIVOjsz) | [Kagaminext feat\. 鏡音リン、鏡音レン ―10th ANNIVERSARY BEST―](https://open.spotify.com/album/2HbzIEq99Mqb0VgGN1g3if) | 4:05 |
-| 88 | [アカツキアライヴァル](https://open.spotify.com/track/3BFnhJw3PvOhqMtRedHfL1) | [Last Note.](https://open.spotify.com/artist/2LMMds4dvScJB1JGwY42SJ) | [アカツキアライヴァル](https://open.spotify.com/album/5yQrGevT1pF8OXaw4br0dU) | 4:42 |
+| 87 | [アカツキアライヴァル](https://open.spotify.com/track/3BFnhJw3PvOhqMtRedHfL1) | [Last Note.](https://open.spotify.com/artist/2LMMds4dvScJB1JGwY42SJ) | [アカツキアライヴァル](https://open.spotify.com/album/5yQrGevT1pF8OXaw4br0dU) | 4:42 |
+| 88 | [いろは唄](https://open.spotify.com/track/4ZYp6mlFg37la87zyI7PvY) | [Ginsaku](https://open.spotify.com/artist/4qK0qz2xdkIubLelIVOjsz) | [Kagaminext feat\. 鏡音リン、鏡音レン ―10th ANNIVERSARY BEST―](https://open.spotify.com/album/2HbzIEq99Mqb0VgGN1g3if) | 4:05 |
 | 89 | [ありふれたせかいせいふく feat.初音ミク](https://open.spotify.com/track/6Cxzd8UyB28Grofsy17tfF) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Obscure Questions\(オブスキュア クエスチョンズ\) \[feat\. Hatsune Miku\]](https://open.spotify.com/album/62tr8ONXURBl4kxqLGjbMO) | 3:20 |
 | 90 | [Lol \(Lots of Laugh\)](https://open.spotify.com/track/2sigTDjOwoSnwJ9PAXOgwj) | [Mikumix](https://open.spotify.com/artist/7FBbBNwWOBvGBh4RT3kyHH) | [Lots of Love \(feat\. 初音ミク\)](https://open.spotify.com/album/3ZhfLBpwToW4bUQP28LCUn) | 3:35 |
 | 91 | [ストリーミングハート \(feat\. 初音ミク\)](https://open.spotify.com/track/3NgUFrDBCFaALlH0wRVWV9) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Conti New](https://open.spotify.com/album/1XoKyOWzKCe40zGmSjNpqt) | 2:58 |

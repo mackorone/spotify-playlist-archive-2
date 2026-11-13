@@ -1,6 +1,6 @@
 {
   "description": "Victory over death has been won today, forever!",
-  "num_followers": 78036,
+  "num_followers": 78029,
   "original_name": "Easter Worship",
   "owner": {
     "name": "Spotify",
@@ -811,22 +811,6 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
-        "name": "Believe For It",
-        "url": "https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 502333,
-      "name": "Believe For It - Live",
-      "url": "https://open.spotify.com/track/2kSt5gqwUhufhV3mDP38JK"
-    },
-    {
-      "added_at": "2026-04-04 06:11:10",
-      "album": {
         "name": "How Great",
         "url": "https://open.spotify.com/album/5dDRZSDf7fUVAfag8lFBKW"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 292288,
       "name": "Praise the King",
       "url": "https://open.spotify.com/track/2aZ8ZkqwtVs5nEleyIKygM"
+    },
+    {
+      "added_at": "2026-04-04 06:11:10",
+      "album": {
+        "name": "Believe For It",
+        "url": "https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 502333,
+      "name": "Believe For It - Live",
+      "url": "https://open.spotify.com/track/2kSt5gqwUhufhV3mDP38JK"
     },
     {
       "added_at": "2026-04-04 06:11:10",
@@ -867,22 +867,6 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
-        "name": "Alive Again",
-        "url": "https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 294813,
-      "name": "Christ Is Risen",
-      "url": "https://open.spotify.com/track/27q0d0DgZrcnUNr2K0kMPC"
-    },
-    {
-      "added_at": "2026-04-04 06:11:10",
-      "album": {
         "name": "Passion Collection",
         "url": "https://open.spotify.com/album/5qCQNNTRCwSFxE95O7dCOn"
       },
@@ -903,6 +887,22 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
+        "name": "Alive Again",
+        "url": "https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 294813,
+      "name": "Christ Is Risen",
+      "url": "https://open.spotify.com/track/27q0d0DgZrcnUNr2K0kMPC"
+    },
+    {
+      "added_at": "2026-04-04 06:11:10",
+      "album": {
         "name": "Greater Things",
         "url": "https://open.spotify.com/album/6zCU9zG1tIfA9V1UEfSPsz"
       },
@@ -915,26 +915,6 @@
       "duration_ms": 307026,
       "name": "Christ Is Risen",
       "url": "https://open.spotify.com/track/1GQsaKKI0ZJJPI5Zsop20u"
-    },
-    {
-      "added_at": "2026-04-04 06:11:10",
-      "album": {
-        "name": "Jesus Song (Live)",
-        "url": "https://open.spotify.com/album/4re8Y6tpEIARFz4CUYiGiC"
-      },
-      "artists": [
-        {
-          "name": "Thrive Worship",
-          "url": "https://open.spotify.com/artist/76mPLB1kgBIInKSrvuEb72"
-        },
-        {
-          "name": "Taylor Gall",
-          "url": "https://open.spotify.com/artist/6Sg0UxyRCkV13v37ho3asV"
-        }
-      ],
-      "duration_ms": 380713,
-      "name": "Jesus Song - Live",
-      "url": "https://open.spotify.com/track/6p4znVw6OoMeJOWUOyK1cy"
     },
     {
       "added_at": "2026-04-04 06:11:10",
@@ -955,6 +935,26 @@
       "duration_ms": 257666,
       "name": "In Christ Alone",
       "url": "https://open.spotify.com/track/15sauKN8vieeKOVWWR9UG2"
+    },
+    {
+      "added_at": "2026-04-04 06:11:10",
+      "album": {
+        "name": "Jesus Song (Live)",
+        "url": "https://open.spotify.com/album/4re8Y6tpEIARFz4CUYiGiC"
+      },
+      "artists": [
+        {
+          "name": "Thrive Worship",
+          "url": "https://open.spotify.com/artist/76mPLB1kgBIInKSrvuEb72"
+        },
+        {
+          "name": "Taylor Gall",
+          "url": "https://open.spotify.com/artist/6Sg0UxyRCkV13v37ho3asV"
+        }
+      ],
+      "duration_ms": 380713,
+      "name": "Jesus Song - Live",
+      "url": "https://open.spotify.com/track/6p4znVw6OoMeJOWUOyK1cy"
     },
     {
       "added_at": "2026-04-04 06:11:10",
@@ -1619,18 +1619,22 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
-        "name": "Hill Of Grace",
-        "url": "https://open.spotify.com/album/7EM6wAlDRK10dRvjVuGPq4"
+        "name": "Wonder Working Power",
+        "url": "https://open.spotify.com/album/4Q8OiIfEB7drI9glY9C37g"
       },
       "artists": [
         {
-          "name": "Hannah Hobbs",
-          "url": "https://open.spotify.com/artist/4goNjt1yECtAvQw8Br9SKX"
+          "name": "Southeast Worship",
+          "url": "https://open.spotify.com/artist/48Cxaiqses3N5qczr2RJ99"
+        },
+        {
+          "name": "Taylor Barton",
+          "url": "https://open.spotify.com/artist/2uajyTFCN2VcWMe2L1EUVv"
         }
       ],
-      "duration_ms": 235104,
-      "name": "Hill Of Grace",
-      "url": "https://open.spotify.com/track/2B0F33PmOf3uc52uxnjLj8"
+      "duration_ms": 226740,
+      "name": "Wonder Working Power",
+      "url": "https://open.spotify.com/track/5BLk4TeZObZerBo3GZKQ09"
     },
     {
       "added_at": "2026-04-04 06:11:10",
@@ -1655,22 +1659,18 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
-        "name": "Wonder Working Power",
-        "url": "https://open.spotify.com/album/4Q8OiIfEB7drI9glY9C37g"
+        "name": "Hill Of Grace",
+        "url": "https://open.spotify.com/album/7EM6wAlDRK10dRvjVuGPq4"
       },
       "artists": [
         {
-          "name": "Southeast Worship",
-          "url": "https://open.spotify.com/artist/48Cxaiqses3N5qczr2RJ99"
-        },
-        {
-          "name": "Taylor Barton",
-          "url": "https://open.spotify.com/artist/2uajyTFCN2VcWMe2L1EUVv"
+          "name": "Hannah Hobbs",
+          "url": "https://open.spotify.com/artist/4goNjt1yECtAvQw8Br9SKX"
         }
       ],
-      "duration_ms": 226740,
-      "name": "Wonder Working Power",
-      "url": "https://open.spotify.com/track/5BLk4TeZObZerBo3GZKQ09"
+      "duration_ms": 235104,
+      "name": "Hill Of Grace",
+      "url": "https://open.spotify.com/track/2B0F33PmOf3uc52uxnjLj8"
     },
     {
       "added_at": "2026-04-04 06:11:10",
@@ -1935,22 +1935,6 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
-        "name": "Surrounded",
-        "url": "https://open.spotify.com/album/0RpjkgJDTV3IiltZf1Udkl"
-      },
-      "artists": [
-        {
-          "name": "Michael W. Smith",
-          "url": "https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN"
-        }
-      ],
-      "duration_ms": 300026,
-      "name": "Surrounded (Fight My Battles)",
-      "url": "https://open.spotify.com/track/73u7dTjaBTMyvs3KWOThGR"
-    },
-    {
-      "added_at": "2026-04-04 06:11:10",
-      "album": {
         "name": "He Lives",
         "url": "https://open.spotify.com/album/6TPj51KKvfmiRtwcEJ3Sid"
       },
@@ -1967,6 +1951,22 @@
       "duration_ms": 264861,
       "name": "He Lives",
       "url": "https://open.spotify.com/track/6HRrYSbJHcy4oKdgU1pqzs"
+    },
+    {
+      "added_at": "2026-04-04 06:11:10",
+      "album": {
+        "name": "Surrounded",
+        "url": "https://open.spotify.com/album/0RpjkgJDTV3IiltZf1Udkl"
+      },
+      "artists": [
+        {
+          "name": "Michael W. Smith",
+          "url": "https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN"
+        }
+      ],
+      "duration_ms": 300026,
+      "name": "Surrounded (Fight My Battles)",
+      "url": "https://open.spotify.com/track/73u7dTjaBTMyvs3KWOThGR"
     },
     {
       "added_at": "2026-04-04 06:11:10",
@@ -2027,6 +2027,26 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
+        "name": "I Really Love You (Live)",
+        "url": "https://open.spotify.com/album/4WqclX4OiJKC0eriTugFmO"
+      },
+      "artists": [
+        {
+          "name": "Circuit Rider Music",
+          "url": "https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D"
+        },
+        {
+          "name": "Lindy Cofer",
+          "url": "https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I"
+        }
+      ],
+      "duration_ms": 511685,
+      "name": "Oh The Cross - Live",
+      "url": "https://open.spotify.com/track/4N2z745CqERTOBdrCjkh58"
+    },
+    {
+      "added_at": "2026-04-04 06:11:10",
+      "album": {
         "name": "Awaken: The Surrounded Experience",
         "url": "https://open.spotify.com/album/7ABTyGBo7jkcRjLwA03Kqa"
       },
@@ -2047,26 +2067,6 @@
       "duration_ms": 437131,
       "name": "Waymaker",
       "url": "https://open.spotify.com/track/0hLsDRLsfvwExXMBeDS53k"
-    },
-    {
-      "added_at": "2026-04-04 06:11:10",
-      "album": {
-        "name": "I Really Love You (Live)",
-        "url": "https://open.spotify.com/album/4WqclX4OiJKC0eriTugFmO"
-      },
-      "artists": [
-        {
-          "name": "Circuit Rider Music",
-          "url": "https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D"
-        },
-        {
-          "name": "Lindy Cofer",
-          "url": "https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I"
-        }
-      ],
-      "duration_ms": 511685,
-      "name": "Oh The Cross - Live",
-      "url": "https://open.spotify.com/track/4N2z745CqERTOBdrCjkh58"
     },
     {
       "added_at": "2026-04-04 06:11:10",
@@ -2399,18 +2399,22 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
-        "name": "Invisible",
-        "url": "https://open.spotify.com/album/2bbndQzbmvnaaiKcTPsnYO"
+        "name": "All The Earth",
+        "url": "https://open.spotify.com/album/6AmRmySvr449vMyF5Eq7ty"
       },
       "artists": [
         {
-          "name": "Leeland",
-          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
+          "name": "The Belonging Co",
+          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
+        },
+        {
+          "name": "Henry Seeley",
+          "url": "https://open.spotify.com/artist/2MZEISBa4OBbC0erQQcyzS"
         }
       ],
-      "duration_ms": 271533,
-      "name": "Lion and the Lamb",
-      "url": "https://open.spotify.com/track/2nn89bqsJMqX9po7uiSr5r"
+      "duration_ms": 242913,
+      "name": "Zeal (feat. Henry Seeley)",
+      "url": "https://open.spotify.com/track/3DL0ENqjvC8ThxivuL3AUW"
     },
     {
       "added_at": "2026-04-04 06:11:10",
@@ -2471,6 +2475,22 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
+        "name": "Invisible",
+        "url": "https://open.spotify.com/album/2bbndQzbmvnaaiKcTPsnYO"
+      },
+      "artists": [
+        {
+          "name": "Leeland",
+          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
+        }
+      ],
+      "duration_ms": 271533,
+      "name": "Lion and the Lamb",
+      "url": "https://open.spotify.com/track/2nn89bqsJMqX9po7uiSr5r"
+    },
+    {
+      "added_at": "2026-04-04 06:11:10",
+      "album": {
         "name": "Prayers of the Saints",
         "url": "https://open.spotify.com/album/6vx3WJiAST38dlm8NiRXQR"
       },
@@ -2527,22 +2547,6 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
-        "name": "Cannons",
-        "url": "https://open.spotify.com/album/52PYPu1gsuo3r27WDWTnb2"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 293720,
-      "name": "Messiah / You're Beautiful",
-      "url": "https://open.spotify.com/track/0W5TB5VNs0J16suh3r67P1"
-    },
-    {
-      "added_at": "2026-04-04 06:11:10",
-      "album": {
         "name": "O Praise The Name (An\u00e1stasis)",
         "url": "https://open.spotify.com/album/7vAkV9olYZRGokeYOFZuKx"
       },
@@ -2555,6 +2559,22 @@
       "duration_ms": 206133,
       "name": "Cornerstone",
       "url": "https://open.spotify.com/track/2FTOHMSicuYvDBQGebowNq"
+    },
+    {
+      "added_at": "2026-04-04 06:11:10",
+      "album": {
+        "name": "Cannons",
+        "url": "https://open.spotify.com/album/52PYPu1gsuo3r27WDWTnb2"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 293720,
+      "name": "Messiah / You're Beautiful",
+      "url": "https://open.spotify.com/track/0W5TB5VNs0J16suh3r67P1"
     },
     {
       "added_at": "2026-04-04 06:11:10",
@@ -2591,26 +2611,6 @@
       "duration_ms": 378451,
       "name": "Jesus Victorious",
       "url": "https://open.spotify.com/track/6zQCsfV2xYrpeq7OkL2uTm"
-    },
-    {
-      "added_at": "2026-04-04 06:11:10",
-      "album": {
-        "name": "All The Earth",
-        "url": "https://open.spotify.com/album/6AmRmySvr449vMyF5Eq7ty"
-      },
-      "artists": [
-        {
-          "name": "The Belonging Co",
-          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
-        },
-        {
-          "name": "Henry Seeley",
-          "url": "https://open.spotify.com/artist/2MZEISBa4OBbC0erQQcyzS"
-        }
-      ],
-      "duration_ms": 242913,
-      "name": "Zeal (feat. Henry Seeley)",
-      "url": "https://open.spotify.com/track/3DL0ENqjvC8ThxivuL3AUW"
     },
     {
       "added_at": "2026-04-04 06:11:10",

@@ -4,7 +4,7 @@
 
 > Unwind and enjoy the long summer evenings
 
-479 songs - 20 hr 52 min
+480 songs - 20 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -333,6 +333,7 @@
 | [Reversal](https://open.spotify.com/track/15cxmIEktI10nGFpMv77Ts) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [Synchronicity](https://open.spotify.com/album/5W3dGpqFKJCRZxH0uCaXck) | 3:40 | 2022-05-20 | 2025-04-17 |
 | [Revolve](https://open.spotify.com/track/3vM5WFlaaxJjCMWsQYLwZI) | [Crimson Memoirs](https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF) | [Revolve](https://open.spotify.com/album/6EDRURCpmlUE7b6OkrVmeR) | 2:30 | 2022-05-20 | 2025-04-17 |
 | [Ringlus](https://open.spotify.com/track/4weTP460iZfnd8sREo32sX) | [Jan Thiel](https://open.spotify.com/artist/2WrpycwxpswRBTsSnNMWCb) | [Süda](https://open.spotify.com/album/0dR60aXaRgIAUExGS6ZKfG) | 2:41 | 2022-05-20 | 2024-03-26 |
+| [Riverglass](https://open.spotify.com/track/0pBXSyD6fjozoJaWUdHTNk) | [Theo Solin](https://open.spotify.com/artist/1OX2OAs4EbPsLUxA3Jchly) | [Riverglass](https://open.spotify.com/album/2ttKwQQK1oefd32hvNxEHC) | 2:31 | 2026-11-13 |  |
 | [Romantic Theme X](https://open.spotify.com/track/57aqcpd8EXl1k1pWDSZY7n) | [Patrik Berg Almkvisth](https://open.spotify.com/artist/0K5Ns1UkBlmyx8clOiEUbo), [LUCHS](https://open.spotify.com/artist/5YNgVaI5vgMjBLel7QShBe) | [Romantic Theme X](https://open.spotify.com/album/5fcLeerhYIat8LZYcyXxU1) | 2:41 | 2022-05-20 |  |
 | [Rondel](https://open.spotify.com/track/7lE18SWzAxh5SfMbie92jN) | [Lydia Webber](https://open.spotify.com/artist/0lwFe0MGAOei9D2rl5jALq) | [Beija\-flor](https://open.spotify.com/album/5iEY08mWgZExTAqd9oxXJx) | 2:51 | 2022-05-20 | 2026-05-23 |
 | [Rue Au Pain](https://open.spotify.com/track/43pVgyjB9yACAHeoJzsVpg) | [Mauvais Roger](https://open.spotify.com/artist/3WywoFt9vF6tSIJGseVSTD) | [Rue Au Pain](https://open.spotify.com/album/2aASt56NiEervWgl35oO23) | 3:11 | 2022-05-20 | 2024-04-10 |

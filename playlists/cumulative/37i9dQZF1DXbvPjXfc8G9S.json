@@ -1684,7 +1684,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 212857,
       "name": "Casi Algo",
       "url": "https://open.spotify.com/track/6EZXf6pgpbWzmrQo5ErXDK"
@@ -5977,6 +5977,32 @@
     },
     {
       "album": {
+        "name": "Lento",
+        "url": "https://open.spotify.com/album/3XsikNMTSZMajYvNj8JS7U"
+      },
+      "artists": [
+        {
+          "name": "K\u00f8ddy G",
+          "url": "https://open.spotify.com/artist/4N1uqOIvymj2CbBSH33cks"
+        },
+        {
+          "name": "THE FAVORITES",
+          "url": "https://open.spotify.com/artist/7xCeAo7w31Gmz29052qZ5I"
+        },
+        {
+          "name": "1cewayz",
+          "url": "https://open.spotify.com/artist/074nZ9lE8oOR6Amfoyacyp"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/7rg67FsjKopV6WXvJYF8uM"
+    },
+    {
+      "album": {
         "name": "FACE",
         "url": "https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB"
       },
@@ -6382,7 +6408,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 144286,
       "name": "MATADORA",
       "url": "https://open.spotify.com/track/04d5HlcQX6zH5MMqffXOon"
@@ -7872,7 +7898,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-19",
+      "date_removed": null,
       "duration_ms": 229026,
       "name": "Ojitos Chiquitos",
       "url": "https://open.spotify.com/track/4f49sFQko7jHLEFd3tCf5p"
@@ -12124,7 +12150,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 264366,
       "name": "Vulnerable",
       "url": "https://open.spotify.com/track/0Vvwifdi7bGbM88EMBz6HM"
@@ -12244,6 +12270,24 @@
       "duration_ms": 146559,
       "name": "wiggy",
       "url": "https://open.spotify.com/track/4xU4XeklG562EnanWzpY3A"
+    },
+    {
+      "album": {
+        "name": "WINDOW SHOPPER",
+        "url": "https://open.spotify.com/album/35PiOjp1Z2AGxSbIh1fUGl"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181725,
+      "name": "WINDOW SHOPPER",
+      "url": "https://open.spotify.com/track/39W7F5Ayk3AH8cS1IoT9zV"
     },
     {
       "album": {

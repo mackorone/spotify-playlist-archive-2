@@ -1,6 +1,6 @@
 {
   "description": "pop that *hits different* featuring lennon stella",
-  "num_followers": 625285,
+  "num_followers": 625237,
   "original_name": "*hits different*",
   "owner": {
     "name": "Spotify",
@@ -487,6 +487,22 @@
     {
       "added_at": "2026-11-05 13:00:08",
       "album": {
+        "name": "take me home (4 christmas)",
+        "url": "https://open.spotify.com/album/50o3Wm98DQENFLiiX3zd5B"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 177685,
+      "name": "take me home (4 christmas)",
+      "url": "https://open.spotify.com/track/4UjYZS6Jbt3lee27qmiNOu"
+    },
+    {
+      "added_at": "2026-11-05 13:00:08",
+      "album": {
         "name": "LUX",
         "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 214357,
       "name": "blue",
       "url": "https://open.spotify.com/track/3be9ACTxtcL6Zm4vJRUiPG"
-    },
-    {
-      "added_at": "2026-11-05 13:00:08",
-      "album": {
-        "name": "take me home (4 christmas)",
-        "url": "https://open.spotify.com/album/50o3Wm98DQENFLiiX3zd5B"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 177685,
-      "name": "take me home (4 christmas)",
-      "url": "https://open.spotify.com/track/4UjYZS6Jbt3lee27qmiNOu"
     },
     {
       "added_at": "2026-11-05 13:00:08",
@@ -839,6 +839,22 @@
     {
       "added_at": "2026-11-05 13:00:08",
       "album": {
+        "name": "washing skin",
+        "url": "https://open.spotify.com/album/4Oh38cK8SNf6dHaoWT1oe6"
+      },
+      "artists": [
+        {
+          "name": "Alyssa Grace",
+          "url": "https://open.spotify.com/artist/4eZer1QvRM8Pna0rLToV1K"
+        }
+      ],
+      "duration_ms": 200533,
+      "name": "washing skin",
+      "url": "https://open.spotify.com/track/2nyJyP0eAg24k8JFGizPIJ"
+    },
+    {
+      "added_at": "2026-11-05 13:00:08",
+      "album": {
         "name": "If I Ever Talk To God",
         "url": "https://open.spotify.com/album/11YEqBXjQnDej8wmDEyJSy"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 160120,
       "name": "If I Ever Talk To God",
       "url": "https://open.spotify.com/track/6b9389wXP725IPkaa4qbJL"
-    },
-    {
-      "added_at": "2026-11-05 13:00:08",
-      "album": {
-        "name": "Bottle",
-        "url": "https://open.spotify.com/album/0uZGs0m2awRRM75OD1iftN"
-      },
-      "artists": [
-        {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
-        }
-      ],
-      "duration_ms": 258353,
-      "name": "Bottle",
-      "url": "https://open.spotify.com/track/6RE9jLqeJftjRXERFYOK9E"
     },
     {
       "added_at": "2026-11-05 13:00:08",
@@ -887,18 +887,18 @@
     {
       "added_at": "2026-11-05 13:00:08",
       "album": {
-        "name": "Loveland",
-        "url": "https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1"
+        "name": "Bottle",
+        "url": "https://open.spotify.com/album/0uZGs0m2awRRM75OD1iftN"
       },
       "artists": [
         {
-          "name": "Suki Waterhouse",
-          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
         }
       ],
-      "duration_ms": 211280,
-      "name": "Weirdo",
-      "url": "https://open.spotify.com/track/0sZLzafgqCzvnzhh8B97r2"
+      "duration_ms": 258353,
+      "name": "Bottle",
+      "url": "https://open.spotify.com/track/6RE9jLqeJftjRXERFYOK9E"
     },
     {
       "added_at": "2026-11-05 13:00:08",
@@ -919,6 +919,22 @@
     {
       "added_at": "2026-11-05 13:00:08",
       "album": {
+        "name": "Loveland",
+        "url": "https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "duration_ms": 211280,
+      "name": "Weirdo",
+      "url": "https://open.spotify.com/track/0sZLzafgqCzvnzhh8B97r2"
+    },
+    {
+      "added_at": "2026-11-05 13:00:08",
+      "album": {
         "name": "BITE ME",
         "url": "https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN"
       },
@@ -935,18 +951,22 @@
     {
       "added_at": "2026-11-05 13:00:08",
       "album": {
-        "name": "washing skin",
-        "url": "https://open.spotify.com/album/4Oh38cK8SNf6dHaoWT1oe6"
+        "name": "Dream Fatigue",
+        "url": "https://open.spotify.com/album/3eHX7aYtV7VxxSZmWBEKPA"
       },
       "artists": [
         {
-          "name": "Alyssa Grace",
-          "url": "https://open.spotify.com/artist/4eZer1QvRM8Pna0rLToV1K"
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        },
+        {
+          "name": "Brendan Yates",
+          "url": "https://open.spotify.com/artist/4AJe4qjJG5DrDEN7Ijz6Ar"
         }
       ],
-      "duration_ms": 200533,
-      "name": "washing skin",
-      "url": "https://open.spotify.com/track/2nyJyP0eAg24k8JFGizPIJ"
+      "duration_ms": 191000,
+      "name": "Elvis (feat. Brendan Yates)",
+      "url": "https://open.spotify.com/track/3K9BQAQcMQRClXvuHsuuwO"
     },
     {
       "added_at": "2026-11-05 13:00:08",
@@ -983,26 +1003,6 @@
     {
       "added_at": "2026-11-05 13:00:08",
       "album": {
-        "name": "Dream Fatigue",
-        "url": "https://open.spotify.com/album/3eHX7aYtV7VxxSZmWBEKPA"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        },
-        {
-          "name": "Brendan Yates",
-          "url": "https://open.spotify.com/artist/4AJe4qjJG5DrDEN7Ijz6Ar"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "Elvis (feat. Brendan Yates)",
-      "url": "https://open.spotify.com/track/3K9BQAQcMQRClXvuHsuuwO"
-    },
-    {
-      "added_at": "2026-11-05 13:00:08",
-      "album": {
         "name": "Piss In The Wind",
         "url": "https://open.spotify.com/album/7MLyEn1CPizpS8bjZ7zzrT"
       },
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2026-11-05 13:00:08",
       "album": {
-        "name": "Who's the Clown?",
-        "url": "https://open.spotify.com/album/6unMpOoIJqsLxuoTEFqdfP"
-      },
-      "artists": [
-        {
-          "name": "Audrey Hobert",
-          "url": "https://open.spotify.com/artist/4N0TAwz9vhnQtjCqS65aKS"
-        }
-      ],
-      "duration_ms": 185533,
-      "name": "Thirst Trap",
-      "url": "https://open.spotify.com/track/0xiySkh9JAa1f3r6MdBUa3"
-    },
-    {
-      "added_at": "2026-11-05 13:00:08",
-      "album": {
         "name": "Who is she",
         "url": "https://open.spotify.com/album/3oKZB7YNsYSvmI4YQjhtdS"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 159000,
       "name": "Who is she",
       "url": "https://open.spotify.com/track/16iOs2f9G9qRknDgM9cfAw"
+    },
+    {
+      "added_at": "2026-11-05 13:00:08",
+      "album": {
+        "name": "Who's the Clown?",
+        "url": "https://open.spotify.com/album/6unMpOoIJqsLxuoTEFqdfP"
+      },
+      "artists": [
+        {
+          "name": "Audrey Hobert",
+          "url": "https://open.spotify.com/artist/4N0TAwz9vhnQtjCqS65aKS"
+        }
+      ],
+      "duration_ms": 185533,
+      "name": "Thirst Trap",
+      "url": "https://open.spotify.com/track/0xiySkh9JAa1f3r6MdBUa3"
     },
     {
       "added_at": "2026-11-05 13:00:08",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2026-11-05 13:00:08",
       "album": {
-        "name": "Run Rabbit",
-        "url": "https://open.spotify.com/album/1d5wcguxg3968t6WLUGmx4"
-      },
-      "artists": [
-        {
-          "name": "Mollie Elizabeth",
-          "url": "https://open.spotify.com/artist/7a5GcLbKGNuyqIfl6mw99Z"
-        }
-      ],
-      "duration_ms": 189111,
-      "name": "Run Rabbit",
-      "url": "https://open.spotify.com/track/0xVSc4Gvf5ua1yb96Ku5D2"
-    },
-    {
-      "added_at": "2026-11-05 13:00:08",
-      "album": {
         "name": "Bad Apple",
         "url": "https://open.spotify.com/album/74lZWqJXIYUkuaWaxmv63f"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 159324,
       "name": "Bad Apple",
       "url": "https://open.spotify.com/track/0nyD5KLTR52cRcPKeewrvA"
+    },
+    {
+      "added_at": "2026-11-05 13:00:08",
+      "album": {
+        "name": "Run Rabbit",
+        "url": "https://open.spotify.com/album/1d5wcguxg3968t6WLUGmx4"
+      },
+      "artists": [
+        {
+          "name": "Mollie Elizabeth",
+          "url": "https://open.spotify.com/artist/7a5GcLbKGNuyqIfl6mw99Z"
+        }
+      ],
+      "duration_ms": 189111,
+      "name": "Run Rabbit",
+      "url": "https://open.spotify.com/track/0xVSc4Gvf5ua1yb96Ku5D2"
     },
     {
       "added_at": "2026-11-05 13:00:08",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2026-11-05 13:00:08",
       "album": {
-        "name": "The light in the painting",
-        "url": "https://open.spotify.com/album/2skGI69m0mNWQ4o5hguQbY"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 224595,
-      "name": "The light in the painting",
-      "url": "https://open.spotify.com/track/6E8YhQRxBowTWXmHbhmJTJ"
-    },
-    {
-      "added_at": "2026-11-05 13:00:08",
-      "album": {
         "name": "IT'S BEEN AWFUL",
         "url": "https://open.spotify.com/album/2ZDgH9uDdjRFNdjEyQCZtH"
       },
@@ -1231,6 +1215,22 @@
     {
       "added_at": "2026-11-05 13:00:08",
       "album": {
+        "name": "The light in the painting",
+        "url": "https://open.spotify.com/album/2skGI69m0mNWQ4o5hguQbY"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 224595,
+      "name": "The light in the painting",
+      "url": "https://open.spotify.com/track/6E8YhQRxBowTWXmHbhmJTJ"
+    },
+    {
+      "added_at": "2026-11-05 13:00:08",
+      "album": {
         "name": "HALO",
         "url": "https://open.spotify.com/album/4T7qu6MdxoGjzZPErRWgsO"
       },
@@ -1243,22 +1243,6 @@
       "duration_ms": 224661,
       "name": "SAME LA",
       "url": "https://open.spotify.com/track/5PYrRnaRsCOOE0c65L4y2M"
-    },
-    {
-      "added_at": "2026-11-05 13:00:08",
-      "album": {
-        "name": "CHOOM",
-        "url": "https://open.spotify.com/album/2BGC5qI7Kg1ejJnza3Cy5k"
-      },
-      "artists": [
-        {
-          "name": "BABYMONSTER",
-          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
-        }
-      ],
-      "duration_ms": 178880,
-      "name": "CHOOM",
-      "url": "https://open.spotify.com/track/6gunPOwkADFspLkQtmVuZT"
     },
     {
       "added_at": "2026-11-05 13:00:08",
@@ -1279,6 +1263,22 @@
     {
       "added_at": "2026-11-05 13:00:08",
       "album": {
+        "name": "CHOOM",
+        "url": "https://open.spotify.com/album/2BGC5qI7Kg1ejJnza3Cy5k"
+      },
+      "artists": [
+        {
+          "name": "BABYMONSTER",
+          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
+        }
+      ],
+      "duration_ms": 178880,
+      "name": "CHOOM",
+      "url": "https://open.spotify.com/track/6gunPOwkADFspLkQtmVuZT"
+    },
+    {
+      "added_at": "2026-11-05 13:00:08",
+      "album": {
         "name": "Promise?",
         "url": "https://open.spotify.com/album/4C0Jn8EWIX77dDQum3oNJO"
       },
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2026-11-05 13:00:08",
       "album": {
-        "name": "Twiggy",
-        "url": "https://open.spotify.com/album/0Li2DcGKH5ZriWY7WROywb"
-      },
-      "artists": [
-        {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
-        }
-      ],
-      "duration_ms": 209258,
-      "name": "Twiggy",
-      "url": "https://open.spotify.com/track/2gbtCFGn2CKKguwx6PnQ2G"
-    },
-    {
-      "added_at": "2026-11-05 13:00:08",
-      "album": {
         "name": "Somebody Else - Spotify Singles",
         "url": "https://open.spotify.com/album/2x1pqv8DQ5JaR5bbZFiwYq"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 300341,
       "name": "Somebody Else - Spotify Singles",
       "url": "https://open.spotify.com/track/5gMZytf2L5iBLiyBEaSAhh"
+    },
+    {
+      "added_at": "2026-11-05 13:00:08",
+      "album": {
+        "name": "Twiggy",
+        "url": "https://open.spotify.com/album/0Li2DcGKH5ZriWY7WROywb"
+      },
+      "artists": [
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "duration_ms": 209258,
+      "name": "Twiggy",
+      "url": "https://open.spotify.com/track/2gbtCFGn2CKKguwx6PnQ2G"
     }
   ],
   "unique_name": "*hits different*",

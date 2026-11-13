@@ -6,7 +6,7 @@
     "name": "Zack Amiton",
     "url": "https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt"
   },
-  "snapshot_id": "AAAJ60qp2N6UTOY7ft6kxlF0OKI24skw",
+  "snapshot_id": "AAAJ7hVOKI8JGv06z2Y64hlFxdApUuLR",
   "tracks": [
     {
       "added_at": "2021-08-26 23:11:19",
@@ -13359,6 +13359,42 @@
       "duration_ms": 231477,
       "name": "Alyse",
       "url": "https://open.spotify.com/track/2D2ForDZ3hTmpvVawDDjxX"
+    },
+    {
+      "added_at": "2026-11-13 04:36:46",
+      "album": {
+        "name": "THIS IS SPA TOWN!",
+        "url": "https://open.spotify.com/album/621WlWIqOod29HG6km5Olf"
+      },
+      "artists": [
+        {
+          "name": "300SkullsAndCounting",
+          "url": "https://open.spotify.com/artist/7hGgwyIQYX5u1XU8asjH63"
+        },
+        {
+          "name": "Jenny Sparks",
+          "url": "https://open.spotify.com/artist/0S8h1aYM60QtOHIKqWfNvf"
+        }
+      ],
+      "duration_ms": 205546,
+      "name": "100% Legal Intro",
+      "url": "https://open.spotify.com/track/6dFVY4JKZLMsAsxE7bCwyf"
+    },
+    {
+      "added_at": "2026-11-13 04:37:00",
+      "album": {
+        "name": "Ninety",
+        "url": "https://open.spotify.com/album/46z1u29jqg6fZA6mAO2E8Y"
+      },
+      "artists": [
+        {
+          "name": "808 State",
+          "url": "https://open.spotify.com/artist/7hFdUW64G4iU1tz46ITRfN"
+        }
+      ],
+      "duration_ms": 232906,
+      "name": "Magical Dream",
+      "url": "https://open.spotify.com/track/3UteqPisakwAwZ1xKjERqf"
     }
   ],
   "unique_name": "Zacklog",

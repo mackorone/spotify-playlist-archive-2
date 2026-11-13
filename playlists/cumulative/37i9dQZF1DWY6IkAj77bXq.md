@@ -166,7 +166,7 @@
 | [Liberation](https://open.spotify.com/track/4HyKtaIP1Lozq8Bs8JKQKa) | [Erlah](https://open.spotify.com/artist/06tUglXC9xjsC8FN7m3gOP) | [Liberation](https://open.spotify.com/album/2isUstKIlkgHwH2O1gwW2E) | 3:16 | 2024-04-29 | 2026-08-10 |
 | [Life Compass](https://open.spotify.com/track/1CFUu9yoQj7dvWHrvig0wk) | [Paleo Man](https://open.spotify.com/artist/6BJF1vVIcNf0aHOb6pAodc) | [Life Compass](https://open.spotify.com/album/3HV1MBTDUktPjhfr2V05Pt) | 3:09 | 2024-07-19 | 2024-08-16 |
 | [Light & Hope](https://open.spotify.com/track/1t7aHJdENKDjZxyrCRMeQV) | [Crystalsong](https://open.spotify.com/artist/2SdRLr197dzDytBbZe5RZA) | [Light & Hope](https://open.spotify.com/album/4AIfq4wzDvO0JVlManPpxT) | 2:47 | 2022-07-05 | 2025-11-06 |
-| [Light From Within](https://open.spotify.com/track/2U9GA6WsVGUf1i3bnZVLE7) | [Erastox](https://open.spotify.com/artist/3zPEKgYbraip77EsVefCbd) | [Light From Within](https://open.spotify.com/album/0SuSHZGd091t2p0JwOXQtK) | 3:18 | 2025-01-14 |  |
+| [Light From Within](https://open.spotify.com/track/2U9GA6WsVGUf1i3bnZVLE7) | [Erastox](https://open.spotify.com/artist/3zPEKgYbraip77EsVefCbd) | [Light From Within](https://open.spotify.com/album/0SuSHZGd091t2p0JwOXQtK) | 3:18 | 2025-01-14 | 2026-11-13 |
 | [lights](https://open.spotify.com/track/0jUDyVPlv8eWJ86dC4sLqz) | [Mountain Explorer](https://open.spotify.com/artist/0ZRFQvqH13ouWGPIR0ulSF) | [lights](https://open.spotify.com/album/62nUEsKB9oBtGyNokjC3WB) | 2:20 | 2025-05-14 | 2026-02-12 |
 | [Lights on Water](https://open.spotify.com/track/6J0uBGMNk7kjRKVmxh6iJE) | [Astral Wonder](https://open.spotify.com/artist/24JkKS4b8yp9usUXPL0I3G) | [Lights on Water](https://open.spotify.com/album/0TR96hLQ5YvKTdgZY7ffhp) | 3:37 | 2022-07-05 | 2026-09-22 |
 | [Linearity](https://open.spotify.com/track/0Ci8JFzz4gsoDRY7aUau5o) | [Hypertime](https://open.spotify.com/artist/2h8Lzun0E6Ei7JeGW6Hlcc) | [Linearity](https://open.spotify.com/album/0pgMpYSMvMZtoLDl9EWeHW) | 3:11 | 2022-07-05 | 2022-11-12 |
@@ -346,7 +346,7 @@
 | [Where Silence Heals](https://open.spotify.com/track/4DrU5AIgI9aCf5TRomj5T8) | [Ocealis](https://open.spotify.com/artist/6bTSQUJFV2QX32Hx639Ht1) | [Where Silence Heals](https://open.spotify.com/album/26B5JB0X8l53PrLk9STVx3) | 3:22 | 2026-07-03 |  |
 | [World Peace](https://open.spotify.com/track/76Tn6TEnTFySc9CnzSOLx2) | [Spiritual Moment](https://open.spotify.com/artist/5e5P006iq5TGOsKDGdjmit) | [Solfeggio Frequencies & Meditation Music](https://open.spotify.com/album/2g5UiicNoSaurcZu4oIwgS) | 6:49 | 2022-07-05 | 2024-08-29 |
 | [Wu Wei](https://open.spotify.com/track/6EOpjNGn34eXLJASVcUksY) | [De Moi](https://open.spotify.com/artist/1DCmbXFQ1MufTW5IZG3etK) | [Wu Wei](https://open.spotify.com/album/1YhweHJQeMMAza8FLEtZLW) | 2:49 | 2022-09-13 |  |
-| [Yalmi](https://open.spotify.com/track/4vbpZqfVsIz1lPEsMT0IkE) | [Merc La](https://open.spotify.com/artist/0bSzN4RWd1T5I0ICYR2LJS) | [Yalmi](https://open.spotify.com/album/5O6cASUJg7un5RD7kqO0UT) | 2:23 | 2022-07-05 | 2026-11-12 |
+| [Yalmi](https://open.spotify.com/track/4vbpZqfVsIz1lPEsMT0IkE) | [Merc La](https://open.spotify.com/artist/0bSzN4RWd1T5I0ICYR2LJS) | [Yalmi](https://open.spotify.com/album/5O6cASUJg7un5RD7kqO0UT) | 2:23 | 2022-07-05 |  |
 | [Zense](https://open.spotify.com/track/4evoyd3aWcj9rxmzajtsKA) | [Nagawa Meditation](https://open.spotify.com/artist/5YkvkEVx0z1r9HQ3mMTCQQ) | [Zense](https://open.spotify.com/album/3A3HLUnAfLlvrlZeeAcYEQ) | 2:57 | 2025-02-18 |  |
 
 \*This playlist was first scraped on 2022-07-19. Prior content cannot be recovered.

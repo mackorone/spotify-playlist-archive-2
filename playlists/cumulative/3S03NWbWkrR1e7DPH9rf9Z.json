@@ -104,7 +104,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 178750,
       "name": "Addicted - BLK RSE Remix",
       "url": "https://open.spotify.com/track/1J6WkPegBLn9wIX3FrtXHY"
@@ -2060,7 +2060,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 167619,
       "name": "Fly Apart",
       "url": "https://open.spotify.com/track/6RXPW7XKoR4SqSogstTzsY"
@@ -3233,6 +3233,28 @@
     },
     {
       "album": {
+        "name": "Los Ricos",
+        "url": "https://open.spotify.com/album/4CbtHrIokMmVisNUMijXG8"
+      },
+      "artists": [
+        {
+          "name": "Bassjackers",
+          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
+        },
+        {
+          "name": "The Rocketman",
+          "url": "https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166153,
+      "name": "Los Ricos",
+      "url": "https://open.spotify.com/track/2qAMSt43iztxexQVyFCZjy"
+    },
+    {
+      "album": {
         "name": "Lose Control",
         "url": "https://open.spotify.com/album/5OOkTHqKZlXyuMjFfyiy0P"
       },
@@ -4096,7 +4118,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 202615,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/4bruCU0ILLoOfF3iE27opD"
@@ -4238,6 +4260,28 @@
       "duration_ms": 195515,
       "name": "Rave It",
       "url": "https://open.spotify.com/track/7i7St3C83Y4x0ZGRCeBPVw"
+    },
+    {
+      "album": {
+        "name": "Rave With Me",
+        "url": "https://open.spotify.com/album/2K4ixSjvdfESDQragSPYV7"
+      },
+      "artists": [
+        {
+          "name": "Kevin Krissen",
+          "url": "https://open.spotify.com/artist/136IMKXG5a8xUSYuTkCBMI"
+        },
+        {
+          "name": "Castor & Pollux",
+          "url": "https://open.spotify.com/artist/6fHUILCpBvfSHB48AEciPG"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180611,
+      "name": "Rave With Me",
+      "url": "https://open.spotify.com/track/2fMqKYZMnM3as6ZSylALmK"
     },
     {
       "album": {
@@ -4588,7 +4632,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 178777,
       "name": "ROOTS",
       "url": "https://open.spotify.com/track/3zPDsxPKmSGPh5OrdDHVuX"
@@ -4912,7 +4956,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 192916,
       "name": "Show Me Love",
       "url": "https://open.spotify.com/track/0OuQY7KJpP1QCLqJnKLpy9"
@@ -6364,7 +6408,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 168919,
       "name": "WOLFGANG",
       "url": "https://open.spotify.com/track/7HG413xQYwoR6i8D3ADC7J"

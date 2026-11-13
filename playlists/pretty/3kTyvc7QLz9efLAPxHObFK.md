@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 19 likes - 3,249 songs - 6 day 22 hr 54 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 19 likes - 3,251 songs - 6 day 22 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -3257,5 +3257,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 3247 | [Archangels](https://open.spotify.com/track/40rHiQ2H7YYEXYsGGjMFrH) | [DEEZL](https://open.spotify.com/artist/5Gmt205UikGABaRkBaTX5L), [Exoform](https://open.spotify.com/artist/3sU17CPlVZZ4ImHsRAq7gM) | [Archangels](https://open.spotify.com/album/3JWRb3AotLf0GZnGbKNfB9) | 3:13 |
 | 3248 | [Party Hard](https://open.spotify.com/track/4MOWWUI78gBHyA2YTs8R1G) | [Satirized](https://open.spotify.com/artist/6dVybI9eELKRKF3VilNGzh), [Mind Compressor](https://open.spotify.com/artist/04K4XkeDWVLIilcHHAAJ9n) | [Neon Funfair](https://open.spotify.com/album/2XCGEq42bD4eiIagE3mVUN) | 2:27 |
 | 3249 | [Like It Like That](https://open.spotify.com/track/1M2lxWlF7p8T4qCx17SbXS) | [Satirized](https://open.spotify.com/artist/6dVybI9eELKRKF3VilNGzh), [Barber](https://open.spotify.com/artist/55yd56lRrN815OEFUOrC1W), [Tharken](https://open.spotify.com/artist/5gJDqtHi8s0SnyfOztGlTB) | [Neon Funfair](https://open.spotify.com/album/2XCGEq42bD4eiIagE3mVUN) | 2:32 |
+| 3250 | [Crime Light](https://open.spotify.com/track/1uYOF1MbYr0UoOmIKOF6E7) | [Noise Of Aggression](https://open.spotify.com/artist/3IUHsnxMykEgZX9K1v94F1), [Silky Noize](https://open.spotify.com/artist/4ijctz73JCwLekCyUpoPuL), [Guiberz](https://open.spotify.com/artist/5foXMuzBwyazFvEVJqUcq4) | [Crime Light](https://open.spotify.com/album/3hJviEphFhKhdO4mIJRJ7Y) | 2:22 |
+| 3251 | [WAKE UP!](https://open.spotify.com/track/4Unobu6728CSjZwhRdhXaQ) | [Dyzo](https://open.spotify.com/artist/0cV7yJEN1t7Dd7s73RIRBA), [Acidz](https://open.spotify.com/artist/4AflTeWUY89j7GYJvyWGAo) | [WAKE UP!](https://open.spotify.com/album/3jg5EGLhTJcCY4QYFiyy9C) | 2:29 |
 
-Snapshot ID: `AAANKBUn5uvtGlXnPubH1H2GkhdlDLzx`
+Snapshot ID: `AAANKuari3V4Ouecnmm7WksCZacThj9q`

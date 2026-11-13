@@ -4,7 +4,7 @@
 
 > This is PÆRISH\. The essential tracks, all in one playlist.
 
-94 songs - 5 hr 49 min
+95 songs - 5 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Adriatic](https://open.spotify.com/track/7aagL2vRScO72Jb7YNRixX) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Semi Finalists](https://open.spotify.com/album/16RZf3BVDPmN4drdjiaxXY) | 2:57 | 2026-03-06 | 2026-11-02 |
 | [Albert Suffers](https://open.spotify.com/track/6mRqJM62E7KH4zXOWvFmAt) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Fixed It All](https://open.spotify.com/album/5F9Aavpfp58NVEnDqtNU6W) | 4:06 | 2022-09-30 | 2026-04-25 |
 | [Albert Suffers](https://open.spotify.com/track/7JesfTaIawT1Uib0zuvwta) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Fixed It All](https://open.spotify.com/album/5GVTqRW3SJkS0oCU0YREVG) | 4:06 | 2026-04-27 | 2026-07-26 |
-| [Always Assuming](https://open.spotify.com/track/7g7dzfLIPgeVX9ccPKn9eF) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [RITA](https://open.spotify.com/album/79DWOYQBxAFzcSh7pVNvww) | 6:55 | 2026-10-18 |  |
+| [Always Assuming](https://open.spotify.com/track/7g7dzfLIPgeVX9ccPKn9eF) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [RITA](https://open.spotify.com/album/79DWOYQBxAFzcSh7pVNvww) | 6:55 | 2026-10-18 | 2026-11-13 |
 | [Amanita](https://open.spotify.com/track/0dmLa3BjcwVeTRnw3UH6Ei) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [You're in both dreams \(and you're scared\)](https://open.spotify.com/album/642yaHJxAHfVyzu7IBlglo) | 3:01 | 2023-08-19 | 2026-04-19 |
 | [Amanita](https://open.spotify.com/track/22MOx6iBZP7vE2jXx8l8tF) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [You're in both dreams \(and you're scared\)](https://open.spotify.com/album/4m6EgW4rgG86qHqBEKr3Qc) | 3:01 | 2026-04-19 |  |
 | [Archives](https://open.spotify.com/track/0q4wHE2zStn68DoAifJchG) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Fixed It All](https://open.spotify.com/album/5GVTqRW3SJkS0oCU0YREVG) | 3:17 | 2026-04-22 |  |
@@ -68,7 +68,7 @@
 | [Sequoia \- Live at L’Ancienne Abbaye Saint\-Léger](https://open.spotify.com/track/3nA9upoAc8Y2FASGe1a10p) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Acoustic Sessions \(Live At L’Ancienne Abbaye Saint\-Leger\)](https://open.spotify.com/album/1TSJM8ubLZlLFN8vZubEWB) | 4:32 | 2026-03-01 | 2026-03-29 |
 | [ShaqFu](https://open.spotify.com/track/5jJ2Lsh5vBNASoKtzE9Rtp) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Semi Finalists](https://open.spotify.com/album/16RZf3BVDPmN4drdjiaxXY) | 3:25 | 2026-04-02 | 2026-07-29 |
 | [ShaqFu](https://open.spotify.com/track/5myvfocYHmjLdbIvHhExo5) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Semi Finalists](https://open.spotify.com/album/16LfAB0rsKN5dbcYEGLhTb) | 3:25 | 2022-12-12 | 2023-09-02 |
-| [Start out with Differences](https://open.spotify.com/track/036ME3TU5NT3XCLdYxpGMA) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Semi Finalists](https://open.spotify.com/album/16RZf3BVDPmN4drdjiaxXY) | 3:49 | 2026-07-29 | 2026-11-11 |
+| [Start out with Differences](https://open.spotify.com/track/036ME3TU5NT3XCLdYxpGMA) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Semi Finalists](https://open.spotify.com/album/16RZf3BVDPmN4drdjiaxXY) | 3:49 | 2026-07-29 |  |
 | [Start out With Differences](https://open.spotify.com/track/5fITXhJcP55MMRlst8B8lY) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Semi Finalists](https://open.spotify.com/album/16LfAB0rsKN5dbcYEGLhTb) | 3:49 | 2024-03-20 | 2025-01-02 |
 | [Stick to Silence](https://open.spotify.com/track/0a0tGgTGDmo2ChpB7IWTbc) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Stick to Silence](https://open.spotify.com/album/0yAfmA16uaH56VfgXuhjuu) | 3:46 | 2022-09-16 | 2026-04-25 |
 | [Stick to Silence](https://open.spotify.com/track/2p8TppNxlaaQM6Qo0IdcfS) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Stick to Silence](https://open.spotify.com/album/7wSeCh7X6Ff29Tr5Loxhy8) | 3:46 | 2026-04-25 |  |
@@ -95,10 +95,11 @@
 | [Wait For Dark \- The Toxic Avenger Remix](https://open.spotify.com/track/1st4sL0Z4ShdKkXnqR1PLp) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL), [The Toxic Avenger](https://open.spotify.com/artist/5zExRf0VQCl3GO4Jrj8r0s) | [Wait For Dark \(The Toxic Avenger Remix\)](https://open.spotify.com/album/1YvBftCNy214fE35UO0Avr) | 4:01 | 2026-08-03 | 2026-10-16 |
 | [Water Doctor](https://open.spotify.com/track/0dXhvuHICapK14lW6huwO3) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Fixed It All](https://open.spotify.com/album/5GVTqRW3SJkS0oCU0YREVG) | 3:38 | 2026-04-24 |  |
 | [Water Doctor](https://open.spotify.com/track/3xDhCNXmsM0HAeRtTQziaI) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Fixed It All](https://open.spotify.com/album/5F9Aavpfp58NVEnDqtNU6W) | 3:38 | 2023-04-23 | 2026-04-21 |
-| [What You Want](https://open.spotify.com/track/1W0cKIoIaG8nS2VgGYRlVi) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [What You Want](https://open.spotify.com/album/2eaPOiqTtREnX68IAAnGxd) | 3:23 | 2026-10-02 |  |
+| [What You Want](https://open.spotify.com/track/07aGh2vlyUDoiFTPLtkslW) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [RITA](https://open.spotify.com/album/79DWOYQBxAFzcSh7pVNvww) | 3:23 | 2026-11-13 |  |
+| [What You Want](https://open.spotify.com/track/1W0cKIoIaG8nS2VgGYRlVi) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [What You Want](https://open.spotify.com/album/2eaPOiqTtREnX68IAAnGxd) | 3:23 | 2026-10-02 | 2026-11-13 |
 | [Winona Ryder](https://open.spotify.com/track/030oADbNg4fbHOKC9UPZqi) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Semi Finalists](https://open.spotify.com/album/6ij08Dw2Ec5K8bwgJvxPiI) | 4:14 | 2025-01-03 | 2026-03-05 |
 | [Winona Ryder](https://open.spotify.com/track/3Ss1NP5PLQmRakgtYwUS0o) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Semi Finalists](https://open.spotify.com/album/16LfAB0rsKN5dbcYEGLhTb) | 4:14 | 2022-09-16 | 2025-01-02 |
-| [Winona Ryder](https://open.spotify.com/track/3chwiu2j0vvNiOc5zvTnyY) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Semi Finalists](https://open.spotify.com/album/16RZf3BVDPmN4drdjiaxXY) | 4:14 | 2026-03-05 |  |
+| [Winona Ryder](https://open.spotify.com/track/3chwiu2j0vvNiOc5zvTnyY) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Semi Finalists](https://open.spotify.com/album/16RZf3BVDPmN4drdjiaxXY) | 4:14 | 2026-03-05 | 2026-11-13 |
 | [Worry](https://open.spotify.com/track/4FdfVRJL0gWEx2UWzNpIr9) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [You're in both dreams \(and you're scared\)](https://open.spotify.com/album/4m6EgW4rgG86qHqBEKr3Qc) | 3:05 | 2026-05-28 | 2026-11-09 |
 | [Worry](https://open.spotify.com/track/7rwGONCajGFV6kzNcJJEzh) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [You're in both dreams \(and you're scared\)](https://open.spotify.com/album/642yaHJxAHfVyzu7IBlglo) | 3:05 | 2023-08-19 | 2025-12-21 |
 | [You & I](https://open.spotify.com/track/0hcvSKPootQFoAVpqKBebJ) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL), [Patrick Miranda](https://open.spotify.com/artist/3fzSiBL0wpt7sxX4Q9n4YI) | [Fixed It All](https://open.spotify.com/album/5F9Aavpfp58NVEnDqtNU6W) | 4:19 | 2026-04-22 | 2026-04-24 |

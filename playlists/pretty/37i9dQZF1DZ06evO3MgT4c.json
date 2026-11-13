@@ -1,12 +1,12 @@
 {
   "description": "This is Migos. The essential tracks, all in one playlist.",
-  "num_followers": 441414,
+  "num_followers": 441434,
   "original_name": "This Is Migos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avENAAAAAABgQK2YyaIUyrD7CFn0P3fn",
+  "snapshot_id": "avOwAAAAAABCmQ2y2q3Dmbq49OW4idHp",
   "tracks": [
     {
       "added_at": null,
@@ -635,6 +635,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Culture",
+        "url": "https://open.spotify.com/album/4JTOxuvM2jcSqAvEZtZsOO"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "duration_ms": 211244,
+      "name": "Brown Paper Bag",
+      "url": "https://open.spotify.com/track/1VjaZbooaWkntfBLoH6Tb8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Invasion of Privacy",
         "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 262308,
       "name": "Drip (feat. Migos)",
       "url": "https://open.spotify.com/track/2qcG0nZ6S3zZV0UrkY5nFo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Culture",
-        "url": "https://open.spotify.com/album/4JTOxuvM2jcSqAvEZtZsOO"
-      },
-      "artists": [
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        }
-      ],
-      "duration_ms": 211244,
-      "name": "Brown Paper Bag",
-      "url": "https://open.spotify.com/track/1VjaZbooaWkntfBLoH6Tb8"
     },
     {
       "added_at": null,
@@ -863,6 +863,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "KIRK",
+        "url": "https://open.spotify.com/album/1NsTSXjVNE7XmZ8PmyW0wl"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "duration_ms": 216677,
+      "name": "RAW SHIT (feat. Migos)",
+      "url": "https://open.spotify.com/track/1CCDIow4pPYyJYzhtTUYz2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pretty Girls Like Trap Music",
         "url": "https://open.spotify.com/album/5vvvo79z68vWj9yimoygfS"
       },
@@ -879,6 +899,22 @@
       "duration_ms": 308733,
       "name": "Blue Cheese",
       "url": "https://open.spotify.com/track/67gmXPQZL1ISSh13OJJ1Pu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Label II",
+        "url": "https://open.spotify.com/album/1NIzKm1DqvComMoEF1FZPQ"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "duration_ms": 198077,
+      "name": "First 48",
+      "url": "https://open.spotify.com/track/2qSZwaENTR05AE259NUxlK"
     },
     {
       "added_at": null,
@@ -903,42 +939,6 @@
       "duration_ms": 272693,
       "name": "Moses",
       "url": "https://open.spotify.com/track/5FW3FOoBJHGnrRHWVMJE11"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Label II",
-        "url": "https://open.spotify.com/album/1NIzKm1DqvComMoEF1FZPQ"
-      },
-      "artists": [
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        }
-      ],
-      "duration_ms": 198077,
-      "name": "First 48",
-      "url": "https://open.spotify.com/track/2qSZwaENTR05AE259NUxlK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "KIRK",
-        "url": "https://open.spotify.com/album/1NsTSXjVNE7XmZ8PmyW0wl"
-      },
-      "artists": [
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        },
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        }
-      ],
-      "duration_ms": 216677,
-      "name": "RAW SHIT (feat. Migos)",
-      "url": "https://open.spotify.com/track/1CCDIow4pPYyJYzhtTUYz2"
     },
     {
       "added_at": null,

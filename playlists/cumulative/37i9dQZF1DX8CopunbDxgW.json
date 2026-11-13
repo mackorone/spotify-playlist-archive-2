@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "\u00c2me says love is the dance \ud83d\udc9a metropolis is your home for the best indie dance",
+  "description": "Yes Boone is our supernova \ud83d\udc99 metropolis is your home for the best indie dance",
   "name": "metropolis",
   "tracks": [
     {
@@ -5920,7 +5920,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 217249,
       "name": "C'MON",
       "url": "https://open.spotify.com/track/1UdhMXlrK5xeH7cKEdIvRA"
@@ -11118,7 +11118,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 216071,
       "name": "Dragonfly",
       "url": "https://open.spotify.com/track/5n2RJzT9qD1PKGZap0uYdR"
@@ -15304,7 +15304,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 180952,
       "name": "French Boys",
       "url": "https://open.spotify.com/track/3hCT8pt9PMNBl1iej7NQBu"
@@ -17130,6 +17130,28 @@
       "duration_ms": 260169,
       "name": "Guy - L\u2019Imp\u00e9ratrice Remix",
       "url": "https://open.spotify.com/track/5wsKiOZoRGpSbPS0bidI4D"
+    },
+    {
+      "album": {
+        "name": "H.E.A.T.",
+        "url": "https://open.spotify.com/album/7EYmbJAgceCwSflqHBP48N"
+      },
+      "artists": [
+        {
+          "name": "LOVE LANGUAGE",
+          "url": "https://open.spotify.com/artist/1S6Yd5OflS0VBmlfxlSoTM"
+        },
+        {
+          "name": "Touch The Stars",
+          "url": "https://open.spotify.com/artist/2c9ASmLlNkrlshr8eLyVbl"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180553,
+      "name": "H.E.A.T.",
+      "url": "https://open.spotify.com/track/3paBpLSFLutg98N1nCvnOh"
     },
     {
       "album": {
@@ -20547,6 +20569,50 @@
     },
     {
       "album": {
+        "name": "I Should Say It More",
+        "url": "https://open.spotify.com/album/7dpMjwvwPXU4JKeukGNaIF"
+      },
+      "artists": [
+        {
+          "name": "nimino",
+          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
+        },
+        {
+          "name": "Manta",
+          "url": "https://open.spotify.com/artist/6AGlSGZh0z7CwUXEnFYXyJ"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269538,
+      "name": "I Should Say It More",
+      "url": "https://open.spotify.com/track/0xm1wgBPTMGXLUZklPLnXH"
+    },
+    {
+      "album": {
+        "name": "I Still Want You",
+        "url": "https://open.spotify.com/album/69e5x0yppaBzFl3Qy4AQty"
+      },
+      "artists": [
+        {
+          "name": "No Suits",
+          "url": "https://open.spotify.com/artist/1B62oENW0VGjnBBUvwkYtX"
+        },
+        {
+          "name": "MAE",
+          "url": "https://open.spotify.com/artist/6NfUUJWRYeDZxC8TXfSeKJ"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196564,
+      "name": "I Still Want You",
+      "url": "https://open.spotify.com/track/13wFtxe5iYKnUEpdnUw9Cx"
+    },
+    {
+      "album": {
         "name": "I Think I Like You",
         "url": "https://open.spotify.com/album/1uyTVHINj1D2BfyCid3L27"
       },
@@ -21072,6 +21138,24 @@
       "duration_ms": 151473,
       "name": "idgaf",
       "url": "https://open.spotify.com/track/4Ej0ob9L6wzurJsEvbYNjF"
+    },
+    {
+      "album": {
+        "name": "idk wtd",
+        "url": "https://open.spotify.com/album/2wfK1VVlX9o9JDYSkqYP21"
+      },
+      "artists": [
+        {
+          "name": "aka Vinnie",
+          "url": "https://open.spotify.com/artist/6UnSeTHLUTc13ReMW40rJe"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162667,
+      "name": "idk wtd",
+      "url": "https://open.spotify.com/track/4ZbUjue8DIZxBjsZnnG8Sb"
     },
     {
       "album": {
@@ -24743,6 +24827,28 @@
     },
     {
       "album": {
+        "name": "Like The Summer",
+        "url": "https://open.spotify.com/album/6H3TtLRGBCUof98oCtwfOh"
+      },
+      "artists": [
+        {
+          "name": "Girls of the Internet",
+          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
+        },
+        {
+          "name": "Zoe Kypri",
+          "url": "https://open.spotify.com/artist/0FP3GDsv47TrSrV2elyhWX"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204080,
+      "name": "Like The Summer",
+      "url": "https://open.spotify.com/track/2n7adwqXvRBHmocg3jvV1x"
+    },
+    {
+      "album": {
         "name": "Like When We Were Kids",
         "url": "https://open.spotify.com/album/3wVkxL95Af6ufnVyUhsFxy"
       },
@@ -27625,6 +27731,24 @@
     },
     {
       "album": {
+        "name": "Memory Signal / Vakata",
+        "url": "https://open.spotify.com/album/5IMzfD9uFN6RUOIhnYzS4h"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285825,
+      "name": "Memory Signal",
+      "url": "https://open.spotify.com/track/4M6Yq5V4EFhqq12KDpRqAX"
+    },
+    {
+      "album": {
         "name": "Messin' Me Up (feat. EVAN GIIA)",
         "url": "https://open.spotify.com/album/4mFMa4VmNqExwNQ54L1XTS"
       },
@@ -28356,7 +28480,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 167929,
       "name": "Moolah",
       "url": "https://open.spotify.com/track/0rhWe6AnzLyusled6mZJHP"
@@ -36241,6 +36365,24 @@
     },
     {
       "album": {
+        "name": "Say Less",
+        "url": "https://open.spotify.com/album/1n7pWE38qp1u1XHUgcnONo"
+      },
+      "artists": [
+        {
+          "name": "Joshua Idehen",
+          "url": "https://open.spotify.com/artist/3PubLnxnO5N2Avr3UvG1Vc"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192929,
+      "name": "Say Less",
+      "url": "https://open.spotify.com/track/1T3rqTJmUAqEb3zevVY8Fr"
+    },
+    {
+      "album": {
         "name": "Everything Begins Again",
         "url": "https://open.spotify.com/album/4NJRCRC3nqmw1uKscmZBd4"
       },
@@ -36590,7 +36732,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 197744,
       "name": "SEETHISTHRU",
       "url": "https://open.spotify.com/track/7KzS1HW4MHcInfVbtrFjkp"
@@ -40474,7 +40616,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 191003,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/07lwMZLo0Nxc01nMXuiVL8"
@@ -40594,6 +40736,24 @@
       "duration_ms": 211653,
       "name": "Supercolor (feat. CECI)",
       "url": "https://open.spotify.com/track/5MivC2zico0hz5JFvZK9lz"
+    },
+    {
+      "album": {
+        "name": "Supernova",
+        "url": "https://open.spotify.com/album/3H7VxoxXncUEQ7fo2ok46e"
+      },
+      "artists": [
+        {
+          "name": "Yes Boone",
+          "url": "https://open.spotify.com/artist/38AjHGnP1jV6bCn2fnx4F5"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144375,
+      "name": "Supernova",
+      "url": "https://open.spotify.com/track/6UzH32c5VrLD7bKCQFsg2p"
     },
     {
       "album": {
@@ -41250,6 +41410,24 @@
       "duration_ms": 184077,
       "name": "Te Caigo",
       "url": "https://open.spotify.com/track/1SNdl0d0YHfoD7b0Uvfn1W"
+    },
+    {
+      "album": {
+        "name": "tea party",
+        "url": "https://open.spotify.com/album/7rXG9wQpTNZaRE0f0nvRKz"
+      },
+      "artists": [
+        {
+          "name": "moonvine",
+          "url": "https://open.spotify.com/artist/5xSy1py3vJMMbZfwCPZHDF"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121333,
+      "name": "tea party",
+      "url": "https://open.spotify.com/track/4Ld9itujTC7hLw1eFg1UdW"
     },
     {
       "album": {
@@ -44730,7 +44908,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 168946,
       "name": "T\u00f4 Nem A\u00ed",
       "url": "https://open.spotify.com/track/2HNF4rAtO8EL5nE9WdvQ4v"
@@ -45152,7 +45330,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 200694,
       "name": "Undone",
       "url": "https://open.spotify.com/track/5YUeDOmrCNZ9XuVhuA6YRz"
@@ -46174,7 +46352,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 192066,
       "name": "WANNA GET DOWN",
       "url": "https://open.spotify.com/track/4Hoj7nOogsyeeqoJbiCWcA"

@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kDBvo2N2to.md) - [plain]
 | 35 | [BASSIANI](https://open.spotify.com/track/2BtcfopAsabwKFovwFyvFk) | [Soppgirobygget](https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i) | [BASSIANI](https://open.spotify.com/album/5cQhCSdeEC5i17xtdD973E) | 2:43 |
 | 36 | [Tusen spänn](https://open.spotify.com/track/01RdEXps15f3VmQMV6OuTM) | [Tjuvjakt](https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp), [Fanny Avonne](https://open.spotify.com/artist/3TwYZ3UPAb6MI7e1dkbiF8) | [Tusen spänn](https://open.spotify.com/album/65IQow1xXrvDc5j1H0DJiL) | 3:10 |
 | 37 | [To Love Somebody](https://open.spotify.com/track/17LuVd2gBc7UvcgZbm1cFV) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [To Love Somebody](https://open.spotify.com/album/0YZQHiFydiWcBpISxOCFdc) | 3:57 |
-| 38 | [Lucky Again](https://open.spotify.com/track/0n63xAny4NjxRNgKnboEp8) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Lucky Again](https://open.spotify.com/album/51she33GpvE2U3e6HZ41fD) | 3:01 |
-| 39 | [Fröjdo Frido](https://open.spotify.com/track/05v3imcEyaTpAeWXnuurKt) | [Lovet](https://open.spotify.com/artist/2kSCHFK5uErN4BO7IkTrHK) | [Fröjdo Frido](https://open.spotify.com/album/1hwTLZPs4MKVGad7frWF2e) | 2:36 |
+| 38 | [Fröjdo Frido](https://open.spotify.com/track/05v3imcEyaTpAeWXnuurKt) | [Lovet](https://open.spotify.com/artist/2kSCHFK5uErN4BO7IkTrHK) | [Fröjdo Frido](https://open.spotify.com/album/1hwTLZPs4MKVGad7frWF2e) | 2:36 |
+| 39 | [Lucky Again](https://open.spotify.com/track/0n63xAny4NjxRNgKnboEp8) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Lucky Again](https://open.spotify.com/album/51she33GpvE2U3e6HZ41fD) | 3:01 |
 | 40 | [Räddare i nöden](https://open.spotify.com/track/1yHJl9qbcH58PEHLiRlywQ) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt) | [Förr nu & forever](https://open.spotify.com/album/0VgMibLJeMzYTBq4jVXUqC) | 4:01 |
 | 41 | [Håller Mig Själv](https://open.spotify.com/track/1nBqEg9NUvwh0D0xauvzy4) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [Greekazo](https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8), [ROMANOS](https://open.spotify.com/artist/5GT8ltnqVPe7Zf8Ynrb5mV) | [Nya Skolans Ledare](https://open.spotify.com/album/1ptguIZWJepEbkOFyZ05SJ) | 1:49 |
 | 42 | [Viva L’Amor](https://open.spotify.com/track/7AfJuBQaZQxmKDofbP73TT) | [Medina](https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC) | [Viva L’Amor](https://open.spotify.com/album/4b0SCc4EWD8oAJmkpo0wr7) | 3:01 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kDBvo2N2to.md) - [plain]
 | 89 | [Ung \- Acoustic](https://open.spotify.com/track/2m0qtGSqkwTYg83mhxpuok) | [Bruno](https://open.spotify.com/artist/1Z5Q3hr2iNj6NHPKPVWtoL) | [Ung Acoustic](https://open.spotify.com/album/1KcdpBGxvbV9Ke35jUvyIJ) | 2:17 |
 | 90 | [I’m gonna die](https://open.spotify.com/track/1WLL3Kstyvue7WeD71ejnq) | [Dandelion](https://open.spotify.com/artist/4q4PCOVbaLoCD4C3iBLs3c) | [I’m gonna die](https://open.spotify.com/album/4L4110iqb48qGRmk5S0gol) | 3:25 |
 
-Snapshot ID: `AAAAABdg7M76HDq6UXa2iEirMnEPa+Sg`
+Snapshot ID: `AAAAAIrP9yb7h1SzTiSY/YK6tBgS3OG8`

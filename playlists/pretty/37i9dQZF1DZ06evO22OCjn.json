@@ -1,12 +1,12 @@
 {
   "description": "This is Burna Boy. The essential tracks, all in one playlist.",
-  "num_followers": 351437,
+  "num_followers": 351491,
   "original_name": "This Is Burna Boy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avENAAAAAABvft29iiBx/Mdz8vUFn97b",
+  "snapshot_id": "avOwAAAAAACGbkkXPa2Wvv8JZhAgJ+A2",
   "tracks": [
     {
       "added_at": null,
@@ -295,8 +295,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Told Them...",
-        "url": "https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc"
+        "name": "No Sign Of Weakness",
+        "url": "https://open.spotify.com/album/2fXaK76zsSLaAMwCyCqKQL"
       },
       "artists": [
         {
@@ -304,9 +304,9 @@
           "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 153346,
-      "name": "City Boys",
-      "url": "https://open.spotify.com/track/4RoKNqyZ9622tcAeNPNv5k"
+      "duration_ms": 169785,
+      "name": "Born Winner",
+      "url": "https://open.spotify.com/track/4eXb0vQK0syqsuLpj53C4J"
     },
     {
       "added_at": null,
@@ -327,8 +327,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Sign Of Weakness",
-        "url": "https://open.spotify.com/album/2fXaK76zsSLaAMwCyCqKQL"
+        "name": "I Told Them...",
+        "url": "https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc"
       },
       "artists": [
         {
@@ -336,9 +336,9 @@
           "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 169785,
-      "name": "Born Winner",
-      "url": "https://open.spotify.com/track/4eXb0vQK0syqsuLpj53C4J"
+      "duration_ms": 153346,
+      "name": "City Boys",
+      "url": "https://open.spotify.com/track/4RoKNqyZ9622tcAeNPNv5k"
     },
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Outside",
-        "url": "https://open.spotify.com/album/26du6obYLeY1vf6xIJ1l0D"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 231618,
-      "name": "Ye",
-      "url": "https://open.spotify.com/track/3FskQrDXcY24ur2fCvz35O"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Told Them...",
         "url": "https://open.spotify.com/album/5PKl5yyetQ6mFeWK6ONbSH"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 143042,
       "name": "Big 7",
       "url": "https://open.spotify.com/track/2pxcoSLwfv9bheBmpUbMfu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/26du6obYLeY1vf6xIJ1l0D"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 231618,
+      "name": "Ye",
+      "url": "https://open.spotify.com/track/3FskQrDXcY24ur2fCvz35O"
     },
     {
       "added_at": null,
@@ -595,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Twice As Tall",
-        "url": "https://open.spotify.com/album/56lLDMppfyKqUaUJWr0Ld4"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 276536,
-      "name": "Bank On It",
-      "url": "https://open.spotify.com/track/22kcexb32KF5zr9UIWijC7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lenu (Remix)",
         "url": "https://open.spotify.com/album/0XPpgvyG25SbLEcKvAMinb"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 213266,
       "name": "Lenu - Remix",
       "url": "https://open.spotify.com/track/51trdVTGB18HFEsb8dEzq1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Twice As Tall",
+        "url": "https://open.spotify.com/album/56lLDMppfyKqUaUJWr0Ld4"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 276536,
+      "name": "Bank On It",
+      "url": "https://open.spotify.com/track/22kcexb32KF5zr9UIWijC7"
     },
     {
       "added_at": null,
@@ -719,26 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "4 Kamp\u00e9 II",
-        "url": "https://open.spotify.com/album/15TFuzRGsXwFuW1HzwoQNk"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e9 Dw\u00e8t Fil\u00e9",
-          "url": "https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 211304,
-      "name": "4 Kamp\u00e9 II",
-      "url": "https://open.spotify.com/track/2fhVsI54lSCFyW7sw5WPfR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "African Giant",
         "url": "https://open.spotify.com/album/277z75G1Gdz0SWN9pegrrs"
       },
@@ -759,22 +739,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Villain I Never Was",
-        "url": "https://open.spotify.com/album/7mnGUuvsSbUHZdKkJYdmOg"
+        "name": "4 Kamp\u00e9 II",
+        "url": "https://open.spotify.com/album/15TFuzRGsXwFuW1HzwoQNk"
       },
       "artists": [
         {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+          "name": "Jo\u00e9 Dw\u00e8t Fil\u00e9",
+          "url": "https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8"
         },
         {
           "name": "Burna Boy",
           "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 194863,
-      "name": "Second Sermon - Remix",
-      "url": "https://open.spotify.com/track/4DdaGKeVkjQbPHzpoHGafk"
+      "duration_ms": 211304,
+      "name": "4 Kamp\u00e9 II",
+      "url": "https://open.spotify.com/track/2fhVsI54lSCFyW7sw5WPfR"
     },
     {
       "added_at": null,
@@ -791,6 +771,26 @@
       "duration_ms": 200768,
       "name": "Buy You Life",
       "url": "https://open.spotify.com/track/5gL6LKibckV3dDAEkiNnZv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Villain I Never Was",
+        "url": "https://open.spotify.com/album/7mnGUuvsSbUHZdKkJYdmOg"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 194863,
+      "name": "Second Sermon - Remix",
+      "url": "https://open.spotify.com/track/4DdaGKeVkjQbPHzpoHGafk"
     },
     {
       "added_at": null,
@@ -827,6 +827,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "No Sign Of Weakness",
+        "url": "https://open.spotify.com/album/2fXaK76zsSLaAMwCyCqKQL"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 192158,
+      "name": "Dem Dey",
+      "url": "https://open.spotify.com/track/27N2fW3NXw9cvzTHtRSgKR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Love, Damini",
         "url": "https://open.spotify.com/album/1xaHgMftad2egI7Q4DX7Bc"
       },
@@ -847,8 +863,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Sign Of Weakness",
-        "url": "https://open.spotify.com/album/2fXaK76zsSLaAMwCyCqKQL"
+        "name": "Redemption",
+        "url": "https://open.spotify.com/album/50qNx4v7MKypMx5wGynQ8j"
       },
       "artists": [
         {
@@ -856,9 +872,9 @@
           "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 192158,
-      "name": "Dem Dey",
-      "url": "https://open.spotify.com/track/27N2fW3NXw9cvzTHtRSgKR"
+      "duration_ms": 200501,
+      "name": "Pree Me",
+      "url": "https://open.spotify.com/track/0Jf5aygE2PZ3xXBu0B4Ezd"
     },
     {
       "added_at": null,
@@ -879,8 +895,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Redemption",
-        "url": "https://open.spotify.com/album/50qNx4v7MKypMx5wGynQ8j"
+        "name": "No Sign Of Weakness",
+        "url": "https://open.spotify.com/album/2fXaK76zsSLaAMwCyCqKQL"
       },
       "artists": [
         {
@@ -888,9 +904,9 @@
           "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 200501,
-      "name": "Pree Me",
-      "url": "https://open.spotify.com/track/0Jf5aygE2PZ3xXBu0B4Ezd"
+      "duration_ms": 207865,
+      "name": "Update",
+      "url": "https://open.spotify.com/track/6WO22RY0WWcN4yKcQb0h32"
     },
     {
       "added_at": null,
@@ -911,22 +927,6 @@
       "duration_ms": 189800,
       "name": "B. D'OR (feat. Wizkid)",
       "url": "https://open.spotify.com/track/1n6vbblzNmLgkfyPiQK4Ig"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Sign Of Weakness",
-        "url": "https://open.spotify.com/album/2fXaK76zsSLaAMwCyCqKQL"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 207865,
-      "name": "Update",
-      "url": "https://open.spotify.com/track/6WO22RY0WWcN4yKcQb0h32"
     }
   ],
   "unique_name": "This Is Burna Boy",

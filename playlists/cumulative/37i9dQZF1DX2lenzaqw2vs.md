@@ -2,9 +2,9 @@
 
 ### [BRILLO](https://open.spotify.com/playlist/37i9dQZF1DX2lenzaqw2vs)
 
-> Artistas LGBTQIA+ que brillan e inspiran.<br/>Cover: MABEL
+> Artistas LGBTQIA+ que brillan e inspiran.<br/>Cover: MEIEN
 
-381 songs - 20 hr 50 min
+382 songs - 20 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [Cuidaré De Ti](https://open.spotify.com/track/6Qtxmvi4Z2t2bcYJ0LylTX) | [Pavlo](https://open.spotify.com/artist/5HkbqKHZAvQjhjkhYm6mp2) | [Cuidaré De Ti](https://open.spotify.com/album/66t7uYODEltF75JDOSgroj) | 2:28 | 2023-09-01 | 2024-09-21 |
 | [Cáscara de Coco](https://open.spotify.com/track/0IPoG1zyHibWHm3ACZdgBP) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [La Sustancia X](https://open.spotify.com/album/3vNcWxeBpYQJ9OkAcm3ch3) | 2:56 | 2023-01-24 |  |
 | [D.I.V.A](https://open.spotify.com/track/3nvivXDY8cGXwLncIkOCYw) | [La Divaza](https://open.spotify.com/artist/2BYegEOEQj3G3x6ltkFkZM) | [D.I.V.A](https://open.spotify.com/album/3XgtO4AI9o0PAO88WFcDwh) | 2:49 | 2022-06-01 | 2023-01-25 |
-| [Dame Amor](https://open.spotify.com/track/44PTKBoaZzbuC1kzCYanKO) | [Panko](https://open.spotify.com/artist/4IymJSANhLBbJ6HTfPoyJ2), [VELZ](https://open.spotify.com/artist/5QtYRAgsEVXJQOx8atc48i) | [U're Guay, Vol\. 107](https://open.spotify.com/album/4KSPdxwqSDdr8cKOIfkK6w) | 4:58 | 2026-11-06 |  |
+| [Dame Amor](https://open.spotify.com/track/44PTKBoaZzbuC1kzCYanKO) | [Panko](https://open.spotify.com/artist/4IymJSANhLBbJ6HTfPoyJ2), [VELZ](https://open.spotify.com/artist/5QtYRAgsEVXJQOx8atc48i) | [U're Guay, Vol\. 107](https://open.spotify.com/album/4KSPdxwqSDdr8cKOIfkK6w) | 4:58 | 2026-11-06 | 2026-11-13 |
 | [Decilo](https://open.spotify.com/track/1VwdEHTP3qy6bNlEtmqaJq) | [Melanie Williams](https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31), [MEIEN](https://open.spotify.com/artist/7ciZlFBa0GrlGHL2jfeKGU), [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [MEIEN](https://open.spotify.com/album/4bczaWboiY4MjOWuou1zFS) | 3:13 | 2026-11-06 |  |
 | [Declare Independence \- Spotify Singles](https://open.spotify.com/track/6KkwQNxduqthj40TlNVD1j) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [Spotify Singles](https://open.spotify.com/album/4hU6Mq43jOSEIy6EwLYIR8) | 3:48 | 2021-12-09 | 2022-06-01 |
 | [Demasiado Bueno](https://open.spotify.com/track/63xWPyj9hdO0nupTCjvusY) | [Georgel](https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j) | [Claro](https://open.spotify.com/album/6z4WRLPcQhk4LEYWKvbLAU) | 2:46 | 2023-01-24 | 2023-03-04 |
@@ -85,6 +85,7 @@
 | [Desilusionándome](https://open.spotify.com/track/2R8w2f2gBJPCI6zYXNYLYz) | [Georgel](https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j), [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG), [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2) | [Desilusionándome](https://open.spotify.com/album/1uJ1YdzDnJ3ghyv0sltJAJ) | 3:16 | 2021-12-09 | 2022-06-01 |
 | [Despejarte](https://open.spotify.com/track/01WmQyannqAZVN0dN4WITZ) | [Mailen Pankonin](https://open.spotify.com/artist/3YB6vxmSJc6YpW3Otha1v5) | [Affaire](https://open.spotify.com/album/2EI4ueXMiOod86DPBfENaa) | 2:58 | 2026-11-06 |  |
 | [Dime Si Te Vienes](https://open.spotify.com/track/4juekzoV98SvICeCwkWhlw) | [Carlos Sanz](https://open.spotify.com/artist/0nxwrR3H0tNhYTWUSYHqZ6) | [Dime Si Te Vienes](https://open.spotify.com/album/3xSPLP1LBinM401WSytLPn) | 2:53 | 2021-12-09 | 2022-06-01 |
+| [DiNASTiA POP](https://open.spotify.com/track/3YmSFJEhmQgk0o93vRI7hj) | [GABA](https://open.spotify.com/artist/7eVUrPX8mEC1iz0SZvSnZN), [mugripop](https://open.spotify.com/artist/7LdcdufHBxCzWOCAvfy7CY) | [DiNASTiA POP](https://open.spotify.com/album/3EMgNksznuOVgDvJqYDSIx) | 4:41 | 2026-11-13 |  |
 | [Disfraz de tigre](https://open.spotify.com/track/5cME04YK44GYaVeVHMTbdL) | [Hidrogenesse](https://open.spotify.com/artist/2vJ1aFdCPa1wYLqrlTvKuY) | [Animalitos](https://open.spotify.com/album/5JBrDB9iD7huWT5y6LCFPC) | 3:45 | 2021-12-09 | 2022-06-01 |
 | [Diva](https://open.spotify.com/track/2sRnWGmQniHFhiqeMhALtw) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp), [Chico Blanco](https://open.spotify.com/artist/7xLtt3vnhKGANQKpsaIMVa) | [I\. Entusiasmo](https://open.spotify.com/album/6XclHKo4VWI98rtprG0WT1) | 3:26 | 2021-12-09 | 2022-06-01 |
 | [Diva](https://open.spotify.com/track/3DUkMATtjCLnic8KjPgx66) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [Diva](https://open.spotify.com/album/2nOhBMGUd7zru4hDhlV1ih) | 3:27 | 2023-01-24 |  |

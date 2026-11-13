@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIjec9dt7k0O.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5DmrGSDwvNUezS5mYUQI9E">Andrew Watt</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,231 likes - 235 songs - 14 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,232 likes - 235 songs - 14 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -198,8 +198,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIjec9dt7k0O.md) - [plain]
 | 188 | [Power of Right](https://open.spotify.com/track/3FKYu6nsp3LG6JeEmpZRyV) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Earthling](https://open.spotify.com/album/47mMVL72wEPG0li4VTtHzM) | 3:33 |
 | 189 | [Wings Of Stone](https://open.spotify.com/track/1yZntW925nLegBydduhjWN) | [Adam Levine](https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n) | [Wings Of Stone](https://open.spotify.com/album/2hBfTjB77BQ4Fa7RN64MNT) | 3:46 |
 | 190 | [Simple Things](https://open.spotify.com/track/7IIM5wzOr8EQ3I14xHyziq) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [The Lockdown Sessions](https://open.spotify.com/album/7wHczdY0ek3FHnfVhk10om) | 4:11 |
-| 191 | [Stolen Car](https://open.spotify.com/track/7oZ9ZOd0baM352GNmcTr13) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [The Lockdown Sessions](https://open.spotify.com/album/7wHczdY0ek3FHnfVhk10om) | 5:37 |
-| 192 | [Side Effects](https://open.spotify.com/track/463PiN9LTK31VIjID2h9iL) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Foreign Tongues](https://open.spotify.com/album/6jfU2DEetUUo8nmxrzwkhc) | 4:34 |
+| 191 | [Side Effects](https://open.spotify.com/track/463PiN9LTK31VIjID2h9iL) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Foreign Tongues](https://open.spotify.com/album/6jfU2DEetUUo8nmxrzwkhc) | 4:34 |
+| 192 | [Stolen Car](https://open.spotify.com/track/7oZ9ZOd0baM352GNmcTr13) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [The Lockdown Sessions](https://open.spotify.com/album/7wHczdY0ek3FHnfVhk10om) | 5:37 |
 | 193 | [Church & State](https://open.spotify.com/track/7F9ziKa3aZSfd8Fv5aUfs7) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Returning To Myself \(Commentary Album\)](https://open.spotify.com/album/7umxiXlu7t7MK6hPnARZeW) | 4:18 |
 | 194 | [DARKSIDE BLUES](https://open.spotify.com/track/1r5W0EOxXAaNH91TyvhxoT) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Patient Number 9](https://open.spotify.com/album/4u1LXToDGOdhDDf4c9zeqb) | 1:47 |
 | 195 | [Snow](https://open.spotify.com/track/16S1tKSwbeEx2SJCRgFQZ5) | [Caspr](https://open.spotify.com/artist/6yZgSbQMnAFpQRgv7EMRzZ) | [Untitled, Vol 1.](https://open.spotify.com/album/2n8tEVt5quZs6L3l2Yu6Jh) | 3:30 |
@@ -244,4 +244,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIjec9dt7k0O.md) - [plain]
 | 234 | [One Night Stand \- \(Bonus Track\)](https://open.spotify.com/track/0A9ZMNesPbIXCCiaOpe2Gc) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [The Boys of Dungeon Lane \(Special Edition\)](https://open.spotify.com/album/6MZekMcxDFuqd1yXXzliwu) | 3:15 |
 | 235 | [Beam On](https://open.spotify.com/track/467qndiTw6EHdEVgS5GlZ7) | [Khari Mateen](https://open.spotify.com/artist/62KfmfXCMVP2kOsZi4j39u) | [Wait for Sunrise](https://open.spotify.com/album/1bROyL2oDz8tVUcWNbeZSX) | 4:16 |
 
-Snapshot ID: `AchbMAAAAAAUBNSRp83jeS8KQCJfXkqb`
+Snapshot ID: `AchggAAAAAAx81/wOSq05qePHfpu/C+B`

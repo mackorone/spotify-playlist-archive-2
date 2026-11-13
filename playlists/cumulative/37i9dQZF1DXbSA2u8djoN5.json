@@ -368,7 +368,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 168000,
       "name": "Aleg s\u0103 fiu eu",
       "url": "https://open.spotify.com/track/2EQzkWBb196mDl0apw2Cix"
@@ -702,7 +702,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 169711,
       "name": "Asta-i \u021aara Mea",
       "url": "https://open.spotify.com/track/3Itiryt0igEXRtf5KcinDC"
@@ -3181,6 +3181,28 @@
     },
     {
       "album": {
+        "name": "Karmaghedon",
+        "url": "https://open.spotify.com/album/1zloMSvupCt1jNICdf72nL"
+      },
+      "artists": [
+        {
+          "name": "STUDIO 66",
+          "url": "https://open.spotify.com/artist/0Jhs6SrEBujkOWQU472Jap"
+        },
+        {
+          "name": "Mark Freantzu",
+          "url": "https://open.spotify.com/artist/710gCxjFJIhyMKeKDlz88z"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188718,
+      "name": "Karmaghedon",
+      "url": "https://open.spotify.com/track/3m6JJhp4G3ECrPYnd8L2DA"
+    },
+    {
+      "album": {
         "name": "Kilian",
         "url": "https://open.spotify.com/album/07gEvU7e28yrBwcwiEKKd3"
       },
@@ -3872,7 +3894,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 147368,
       "name": "mr. idcash",
       "url": "https://open.spotify.com/track/1U0PITuc3ACNOOM6RhlYKt"
@@ -3960,6 +3982,28 @@
       "duration_ms": 156000,
       "name": "Neinlocuibila",
       "url": "https://open.spotify.com/track/5JouYzY9AdUQUHya0CGY0H"
+    },
+    {
+      "album": {
+        "name": "NELINI\u0218TEA",
+        "url": "https://open.spotify.com/album/5NKsGdrfirZIj7imWY0oYP"
+      },
+      "artists": [
+        {
+          "name": "Diana Iorgu",
+          "url": "https://open.spotify.com/artist/22wPo9Ty6L1mEcbBzSl1Vm"
+        },
+        {
+          "name": "Super ED",
+          "url": "https://open.spotify.com/artist/3VJVPEzq5oAZgzGdDbxSCt"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157714,
+      "name": "NELINI\u0218TEA",
+      "url": "https://open.spotify.com/track/6ewHpKxAZimQzjxSTRwqbV"
     },
     {
       "album": {
@@ -4302,6 +4346,28 @@
       "duration_ms": 131020,
       "name": "Oglind\u0103 oglinjoar\u0103",
       "url": "https://open.spotify.com/track/38pN4Z80UagGOo2SrQhyrZ"
+    },
+    {
+      "album": {
+        "name": "OLE 2",
+        "url": "https://open.spotify.com/album/4yksA6xTU0KtBPjYrW8zQO"
+      },
+      "artists": [
+        {
+          "name": "YNY Sebi",
+          "url": "https://open.spotify.com/artist/5BUJV1dbGNb61hYPK6rhtM"
+        },
+        {
+          "name": "Bvcovia",
+          "url": "https://open.spotify.com/artist/5CqmNRrmp3UP3NGccmlKHR"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174653,
+      "name": "OLE 2",
+      "url": "https://open.spotify.com/track/2jfv8BsdPT73sT2kluugAU"
     },
     {
       "album": {

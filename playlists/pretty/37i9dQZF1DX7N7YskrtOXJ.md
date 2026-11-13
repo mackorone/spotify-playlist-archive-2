@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N7YskrtOXJ.md) - [plain]
 
 > La fiesta se enciende con cumbia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,935 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,954 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N7YskrtOXJ.md) - [plain]
 | 48 | [Supermandoneao](https://open.spotify.com/track/3gS8gNb2W5h89cYsGTpyev) | [Sonora 5 Estrellas](https://open.spotify.com/artist/0oGbFTtR8UqMpgDFLpFKc1) | [Cumbia E' Plaza](https://open.spotify.com/album/1GIrK9JtY36HaNnixqCzDj) | 4:32 |
 | 49 | [Feliz Con Verte](https://open.spotify.com/track/6zAHggor2cPFKGoaahcDEM) | [Arte Elegante](https://open.spotify.com/artist/1F6ZW5IEGN0HB9LTtldRq0), [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [Feliz Con Verte](https://open.spotify.com/album/7AtlscIZYhaka5YkQcwWph) | 3:13 |
 | 50 | [Explicale](https://open.spotify.com/track/3lTKmLEuJl8rj68ojwjoK5) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Cumbia Nena](https://open.spotify.com/album/0bD7aJOQVENKQFq0ayzh9y) | 3:06 |
-| 51 | [Caprichito](https://open.spotify.com/track/4vkG4TEwrAhCwclD7GXF1K) | [Garras de Amor](https://open.spotify.com/artist/6kcdJiENvD273QC9rFoP5a) | [Te Mueve](https://open.spotify.com/album/4eRQmsu8YLnY629lHyDlda) | 3:30 |
-| 52 | [Estaba Aquí Pensando](https://open.spotify.com/track/7fLicsIMv7WlXGTeLL089c) | [La Mary](https://open.spotify.com/artist/77oD0wY2yR0v53K3vjcMZn), [Los Bravos de Chile](https://open.spotify.com/artist/0ryiNdocJHAPmweHeNhp9r) | [Estaba Aquí Pensando](https://open.spotify.com/album/2hw5TTZ931aY4nYBMhXX2C) | 3:07 |
+| 51 | [Estaba Aquí Pensando](https://open.spotify.com/track/7fLicsIMv7WlXGTeLL089c) | [La Mary](https://open.spotify.com/artist/77oD0wY2yR0v53K3vjcMZn), [Los Bravos de Chile](https://open.spotify.com/artist/0ryiNdocJHAPmweHeNhp9r) | [Estaba Aquí Pensando](https://open.spotify.com/album/2hw5TTZ931aY4nYBMhXX2C) | 3:07 |
+| 52 | [Caprichito](https://open.spotify.com/track/4vkG4TEwrAhCwclD7GXF1K) | [Garras de Amor](https://open.spotify.com/artist/6kcdJiENvD273QC9rFoP5a) | [Te Mueve](https://open.spotify.com/album/4eRQmsu8YLnY629lHyDlda) | 3:30 |
 | 53 | [Muero De Frío](https://open.spotify.com/track/3omcI65X80XkY0MqtQmZ73) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Una Cerveza](https://open.spotify.com/album/1g4pk2xu9KBJXTdtOwaO4C) | 3:33 |
 | 54 | [Tomare Para Olvidar](https://open.spotify.com/track/6jIgkj63qs0teCYQ1EB2se) | [Karicia](https://open.spotify.com/artist/4OeXcGvSUYN3eMgy73WBtd), [Grupo Karicia](https://open.spotify.com/artist/0LOfrH82HIHcCXk3eFF7og) | [20 Grandes Exitos](https://open.spotify.com/album/2GBYmiFIKmUtmpe4mqdQg9) | 3:51 |
 | 55 | [Tonta](https://open.spotify.com/track/1babcBOEm3FZMHzRL8z0rU) | [Commanche](https://open.spotify.com/artist/7o6GWu8PprO89hxuS9OiPu) | [No Me Digas Adios](https://open.spotify.com/album/1N6ENqxb4RaYGAC0PiGk1J) | 3:11 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N7YskrtOXJ.md) - [plain]
 | 70 | [Me Emborrachare](https://open.spotify.com/track/6UmL7VOgbpvvRCGeqJnKrK) | [Jordan](https://open.spotify.com/artist/4wO1Ld1CKjm4vFMNUn7E7k) | [Me Emborracharé](https://open.spotify.com/album/5YfG3oN7ijMQljJo7Z3gBI) | 4:02 |
 | 71 | [Mariposa Del Dolor](https://open.spotify.com/track/3OO8pvK6Bo04vXmZzSCKTV) | [Nickoog Clk](https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj), [ILag Keins](https://open.spotify.com/artist/4NZlQAALFKINhN1A6hji3y) | [Mariposa Del Dolor](https://open.spotify.com/album/3coxrERAYGVAsq0GnnC7zg) | 4:13 |
 | 72 | [Cómo Olvidarte](https://open.spotify.com/track/5DcQjboiW4TJ4jhwHS6FrO) | [Pablito Pesadilla](https://open.spotify.com/artist/41vcoPejPG3vv8emJ2R5Ox), [Dunguita](https://open.spotify.com/artist/6tgy6fQk4b1XwrSoHvEqBo), [Pollo González](https://open.spotify.com/artist/3lrVu7mL3lav5ySeUyD5CV) | [Cómo Olvidarte](https://open.spotify.com/album/0y2Bzf65Y7PVczvoMhR66G) | 2:51 |
-| 73 | [Veneno Para Olvidar](https://open.spotify.com/track/093BkdHzJ10bqUbXbdA09u) | [Megapuesta](https://open.spotify.com/artist/2u70zmwJlNfRR89itoO8j2) | [Veneno Para Olvidar](https://open.spotify.com/album/3jWy2ZHjzyNmX38j7v4pbk) | 3:52 |
-| 74 | [Tu Sangre En Mi cuerpo Feat\. Domi](https://open.spotify.com/track/3yRvZoHfliGWeSwUq5ggYV) | [Américo](https://open.spotify.com/artist/6eUAVH8tSq8WSJGPLeDN9c) | [Soy Cumbia](https://open.spotify.com/album/1NSU7oS48L2ez79wVbO2lE) | 4:27 |
+| 73 | [Tu Sangre En Mi cuerpo Feat\. Domi](https://open.spotify.com/track/3yRvZoHfliGWeSwUq5ggYV) | [Américo](https://open.spotify.com/artist/6eUAVH8tSq8WSJGPLeDN9c) | [Soy Cumbia](https://open.spotify.com/album/1NSU7oS48L2ez79wVbO2lE) | 4:27 |
+| 74 | [Veneno Para Olvidar](https://open.spotify.com/track/093BkdHzJ10bqUbXbdA09u) | [Megapuesta](https://open.spotify.com/artist/2u70zmwJlNfRR89itoO8j2) | [Veneno Para Olvidar](https://open.spotify.com/album/3jWy2ZHjzyNmX38j7v4pbk) | 3:52 |
 | 75 | [Tu Vives Equivocada](https://open.spotify.com/track/4NecYY3NKC7FdPXSgJcJ80) | [Grupo Nectar](https://open.spotify.com/artist/67ktO6WKPZ0h4cBxSBBoep) | [Nectar Internacional](https://open.spotify.com/album/5zKXDh6rHtZWHcQyyOgxE4) | 3:46 |
 | 76 | [Bailantero y Parrandero](https://open.spotify.com/track/4UlqjeL20B01ATFJH2c9vK) | [Grupo Sixx](https://open.spotify.com/artist/5tjVTwiojga74Vm263lGwF) | [Bailantero y Parrandero](https://open.spotify.com/album/6odLqxtmdID7FQtwlajjdc) | 3:19 |
 | 77 | [La Pulguita](https://open.spotify.com/track/6SHfjjiY8RrykTskKG0kkr) | [Grupo Luna Negra](https://open.spotify.com/artist/0PSpkNWjWHFMnJ0Usmh24e) | [La Pulguita](https://open.spotify.com/album/5O7TbpfVOsXwwrlzzbNn0X) | 3:32 |

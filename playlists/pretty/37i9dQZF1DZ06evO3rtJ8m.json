@@ -1,12 +1,12 @@
 {
   "description": "This is Big Thief. The essential tracks, all in one playlist.",
-  "num_followers": 48679,
+  "num_followers": 48687,
   "original_name": "This Is Big Thief",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avENAAAAAABoPpzgG4bIRer0HIoOUHzI",
+  "snapshot_id": "avOwAAAAAADige8eMILP7d2jOx8A2zVr",
   "tracks": [
     {
       "added_at": null,
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
         }
       ],
-      "duration_ms": 187306,
-      "name": "Century",
-      "url": "https://open.spotify.com/track/5VgHyTScSLqpTai6oQjird"
+      "duration_ms": 221466,
+      "name": "Strange",
+      "url": "https://open.spotify.com/track/0y8c74ezNCYou4FrX4xI8v"
     },
     {
       "added_at": null,
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
         }
       ],
-      "duration_ms": 221466,
-      "name": "Strange",
-      "url": "https://open.spotify.com/track/0y8c74ezNCYou4FrX4xI8v"
+      "duration_ms": 187306,
+      "name": "Century",
+      "url": "https://open.spotify.com/track/5VgHyTScSLqpTai6oQjird"
     }
   ],
   "unique_name": "This Is Big Thief",

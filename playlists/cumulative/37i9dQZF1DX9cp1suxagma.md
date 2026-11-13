@@ -2,15 +2,15 @@
 
 ### [Pop Colombia](https://open.spotify.com/playlist/37i9dQZF1DX9cp1suxagma)
 
-> Pop de los mejores artistas colombianos\. ¡Dale play! Foto: Nanpa Básico, Kapo
+> Pop de los mejores artistas colombianos\. ¡Dale play! Foto: Shonny
 
-393 songs - 20 hr 34 min
+395 songs - 20 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [+ y +](https://open.spotify.com/track/56kgFiVB5tgtQszv8GGuTJ) | [Natalia Medina](https://open.spotify.com/artist/2haUacIubkfPdJdpiZ2PnC), [Elkin Robinson](https://open.spotify.com/artist/1MS4MMgPaQ0WyM0u0Uj3EO) | [+ y +](https://open.spotify.com/album/5BsntI7dLvrjB4YFyhCcHY) | 3:57 | 2023-04-28 | 2023-06-10 |
 | [19y33](https://open.spotify.com/track/37QRr3OCmTEFobKk7m7Rft) | [Antonia Jones](https://open.spotify.com/artist/5k51uvP0VIISXtITjGNRLL) | [19y33](https://open.spotify.com/album/79ZQwqhGfSCX32muM7GVAr) | 2:56 | 2023-02-24 | 2023-04-29 |
-| [23](https://open.spotify.com/track/03I0v50PLHMxgP5CjzCwt3) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [23](https://open.spotify.com/album/7c4Q9TaHo8VHacdzpGw2JI) | 3:07 | 2023-02-17 |  |
+| [23](https://open.spotify.com/track/03I0v50PLHMxgP5CjzCwt3) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [23](https://open.spotify.com/album/7c4Q9TaHo8VHacdzpGw2JI) | 3:07 | 2023-02-17 | 2026-11-13 |
 | [2302](https://open.spotify.com/track/6UxAsUuceX0sVgWtITnM7b) | [De Narvaez](https://open.spotify.com/artist/7MutscQk35q3QHOJ8mYGWT) | [2302](https://open.spotify.com/album/6IobrkF6VQcLuBgeWlTCnM) | 2:21 | 2025-05-30 | 2026-02-28 |
 | [24 Horas](https://open.spotify.com/track/6dOZaQaueSGM05NdOczDFE) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [24 Horas](https://open.spotify.com/album/4SHVF6pqNpYoWjYeROe5le) | 3:38 | 2024-04-19 | 2024-06-29 |
 | [4:40](https://open.spotify.com/track/0mBt0dOkThzeu7FakfHbGa) | [Maca & Gero](https://open.spotify.com/artist/6u8guISpLd1Al1exxE6BtV), [Beruti](https://open.spotify.com/artist/4Ozcco9RkNmJtg7qkCy8zI) | [4:40](https://open.spotify.com/album/23cWA1ibGkP5VStAh5RRob) | 2:37 | 2023-06-23 | 2026-09-12 |
@@ -239,12 +239,14 @@
 | [No Hay Nadie Más](https://open.spotify.com/track/6wos8Ds5FKMe33GjBHRake) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [No Hay Nadie Más](https://open.spotify.com/album/2s4avhyZ6V7PbFVM6vPStc) | 3:17 | 2024-04-12 | 2026-10-24 |
 | [No Hay Nadie Más](https://open.spotify.com/track/3IPJg1sdqLj12kFIndaonN) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [MANTRA](https://open.spotify.com/album/1l1zcI8iwJg4WCb7jxHtbN) | 3:19 | 2023-02-17 | 2024-04-19 |
 | [No Hay Que Llorar](https://open.spotify.com/track/46tzd3foeCDZeJE5m5JmR3) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [No Hay Que Llorar](https://open.spotify.com/album/7uIbLRXnuJqnAd6XrGSJDQ) | 2:35 | 2026-01-23 | 2026-02-14 |
+| [No me pasa el tiempo](https://open.spotify.com/track/1JKZLkAopq2TMNMBvtH4YO) | [Shonny](https://open.spotify.com/artist/70axD2kGUWcyWjZAGAtgft) | [AVE DEL PARAÍSO](https://open.spotify.com/album/5I9Rza1ph1avrDLfcuz5SS) | 3:37 | 2026-11-13 |  |
 | [No soy yo](https://open.spotify.com/track/47Q1O0vKdL4QTC9FZdSwT1) | [Chago](https://open.spotify.com/artist/5aQK13za62lrxQASWuHMbG) | [No soy yo](https://open.spotify.com/album/78WLJ4fRlnvYprbgAwvNi9) | 2:26 | 2023-11-24 | 2024-02-03 |
 | [NO SUPISTE CUIDARNOS \- Respuesta \#2](https://open.spotify.com/track/0XYnxyC3AgBO8B19iqc3r4) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [NO SUPISTE CUIDARNOS \(Respuesta \#2\)](https://open.spotify.com/album/0NTnrfFM9oczlM1795mwLQ) | 2:55 | 2025-09-05 |  |
 | [No Sé Querer](https://open.spotify.com/track/0QnOCHmZ6yH5J0gajW9jf2) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [No Sé Querer](https://open.spotify.com/album/5mCGmJ3N1H0ARTdBCihqMO) | 3:25 | 2023-02-17 | 2024-09-07 |
 | [No Sé Si Volverá](https://open.spotify.com/track/4KZrzzj4Js25wBYhmUBRNr) | [Superlitio](https://open.spotify.com/artist/2zipzOx6MIp5B8fmxR7bLB), [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [X Revisitado](https://open.spotify.com/album/0VHJPkZR0bh3dOE67Fog6v) | 4:22 | 2023-04-28 | 2023-11-04 |
 | [No Te Esperaba](https://open.spotify.com/track/39VpoxiF5HN43Hkc9flyGa) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2) | [Nada es Permanente](https://open.spotify.com/album/3BRumEgSsjbXY4uF1vfPCE) | 3:12 | 2026-05-08 | 2026-09-19 |
 | [No Tengo Remedio](https://open.spotify.com/track/2R6VN8srZYSecU20Un9Nni) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [No Tengo Remedio](https://open.spotify.com/album/0DM3TZ2kLXKPCpfAgMk49F) | 3:09 | 2026-09-04 |  |
+| [No Veo la Hora](https://open.spotify.com/track/36Y7IuGJS6AKCYSKTornq4) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [No Veo la Hora](https://open.spotify.com/album/60WjhSulSkPsI9FmI7iMWK) | 3:23 | 2026-11-13 |  |
 | [No Vivirías Igual](https://open.spotify.com/track/1Ti5iLAbHICLtvkQW1d4YZ) | [Emyl Rusev](https://open.spotify.com/artist/6nlEU8dj964UFSPfojvK5L) | [No vivirías igual](https://open.spotify.com/album/0PK4vZ49RHea4vSJqD5r42) | 2:54 | 2026-08-28 | 2026-09-26 |
 | [Noche Eterna](https://open.spotify.com/track/3qaKKH1lf9vp3InT2wDBiS) | [Manú](https://open.spotify.com/artist/3iyr6xJPyHx8ptqqzMHDVE) | [Noche Eterna](https://open.spotify.com/album/12XCMP9FULSvpLDBozulb6) | 2:48 | 2025-05-23 | 2025-05-31 |
 | [Noche Primavera](https://open.spotify.com/track/2k27NZDlbYUf2Dfh7C2CQg) | [Manú](https://open.spotify.com/artist/3iyr6xJPyHx8ptqqzMHDVE), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [Noche Primavera](https://open.spotify.com/album/6lI8JL80iNP4A8qzlGNqTG) | 3:19 | 2023-03-09 | 2025-05-31 |
@@ -301,7 +303,7 @@
 | [Rompecabezas](https://open.spotify.com/track/7mMMs48wi2SAxDPrBiVXsm) | [Maca & Gero](https://open.spotify.com/artist/6u8guISpLd1Al1exxE6BtV) | [Rompecabezas](https://open.spotify.com/album/5iyRIoZahas3q6yqEZzGgl) | 3:27 | 2025-12-19 | 2026-02-28 |
 | [Salir Con Vida](https://open.spotify.com/track/5OX1JvE7gTkOd1DSzlrtFw) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Salir Con Vida](https://open.spotify.com/album/3mwKjQSJdQTY0ZdakLi0Vp) | 2:56 | 2023-02-17 |  |
 | [Segunda Cita](https://open.spotify.com/track/0M4EZodLBU7pomErJ9hD5W) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow), [Gangsta](https://open.spotify.com/artist/5ayJu41CsIbLfnMldF6bj3) | [Segunda Cita](https://open.spotify.com/album/7nhWuuDKZNuXOHucKvXlm2) | 2:50 | 2026-09-18 |  |
-| [Segundos Platos](https://open.spotify.com/track/1pHZf30WYm6CQukt7TvNPM) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [SI AYER FUERA HOY](https://open.spotify.com/album/1BUb9ayIoyy6T3iwMscDts) | 3:04 | 2023-02-17 |  |
+| [Segundos Platos](https://open.spotify.com/track/1pHZf30WYm6CQukt7TvNPM) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [SI AYER FUERA HOY](https://open.spotify.com/album/1BUb9ayIoyy6T3iwMscDts) | 3:04 | 2023-02-17 | 2026-11-13 |
 | [Serenata](https://open.spotify.com/track/0Ek2vjTPwy3fXKQnsXy8MH) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Serenata](https://open.spotify.com/album/3DCcGs0cLdjIS43YAIYPix) | 3:26 | 2023-02-17 |  |
 | [Serpiente](https://open.spotify.com/track/03BmpPex7wowkAhdPgFEeG) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [SUPERIOR](https://open.spotify.com/album/7Aa5Xb8P3l5DPYvn3drCCM) | 3:33 | 2025-11-07 | 2025-12-06 |
 | [Si Decides \(Baby\)](https://open.spotify.com/track/12xjRcDTBU9RgLMZePtLop) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Ventino](https://open.spotify.com/album/4pAoxsmYFDVqf8jWBihOKz) | 3:08 | 2026-03-18 | 2026-03-27 |

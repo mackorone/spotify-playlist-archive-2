@@ -1,6 +1,6 @@
 {
   "description": "The official soundtrack for EA SPORTS FC 27.",
-  "num_followers": 437870,
+  "num_followers": 437892,
   "original_name": "EA SPORTS FC 27 Official Soundtrack",
   "owner": {
     "name": "Spotify",
@@ -807,6 +807,22 @@
     {
       "added_at": "2026-09-25 16:48:56",
       "album": {
+        "name": "GRASA",
+        "url": "https://open.spotify.com/album/2ab0PTJ5OG7I6YfSqpDFZv"
+      },
+      "artists": [
+        {
+          "name": "NATHY PELUSO",
+          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
+        }
+      ],
+      "duration_ms": 99850,
+      "name": "APRENDER A AMAR",
+      "url": "https://open.spotify.com/track/3IIwWeUz1DEKHfY01uej6N"
+    },
+    {
+      "added_at": "2026-09-25 16:48:56",
+      "album": {
         "name": "Feel So Good Around U",
         "url": "https://open.spotify.com/album/5pitE0A89EPXOxhkl3HJYh"
       },
@@ -827,22 +843,6 @@
     {
       "added_at": "2026-09-25 16:48:56",
       "album": {
-        "name": "GRASA",
-        "url": "https://open.spotify.com/album/2ab0PTJ5OG7I6YfSqpDFZv"
-      },
-      "artists": [
-        {
-          "name": "NATHY PELUSO",
-          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
-        }
-      ],
-      "duration_ms": 99850,
-      "name": "APRENDER A AMAR",
-      "url": "https://open.spotify.com/track/3IIwWeUz1DEKHfY01uej6N"
-    },
-    {
-      "added_at": "2026-09-25 16:48:56",
-      "album": {
         "name": "DRAMA",
         "url": "https://open.spotify.com/album/39ZEVXaHtMaTuxWOUJXbiH"
       },
@@ -859,22 +859,6 @@
     {
       "added_at": "2026-09-25 16:48:56",
       "album": {
-        "name": "Cancel Me (I'm Tired)",
-        "url": "https://open.spotify.com/album/3zy6TbZpMq8qDwEtJfVTvi"
-      },
-      "artists": [
-        {
-          "name": "Fat Dog",
-          "url": "https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe"
-        }
-      ],
-      "duration_ms": 222596,
-      "name": "Cancel Me (I\u2019m Tired)",
-      "url": "https://open.spotify.com/track/5cYKa4Cowu3Xl6qD2Mh2e6"
-    },
-    {
-      "added_at": "2026-09-25 16:48:56",
-      "album": {
         "name": "This Mirror Weighs a Ton/See Out Loud",
         "url": "https://open.spotify.com/album/53ZH0bU5CZ1QVfz92eImpl"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 296746,
       "name": "See Out Loud",
       "url": "https://open.spotify.com/track/0xPCZvjwl2myKKPhw4Rqhj"
+    },
+    {
+      "added_at": "2026-09-25 16:48:56",
+      "album": {
+        "name": "Cancel Me (I'm Tired)",
+        "url": "https://open.spotify.com/album/3zy6TbZpMq8qDwEtJfVTvi"
+      },
+      "artists": [
+        {
+          "name": "Fat Dog",
+          "url": "https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe"
+        }
+      ],
+      "duration_ms": 222596,
+      "name": "Cancel Me (I\u2019m Tired)",
+      "url": "https://open.spotify.com/track/5cYKa4Cowu3Xl6qD2Mh2e6"
     },
     {
       "added_at": "2026-09-25 16:48:56",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2026-09-25 16:48:56",
       "album": {
-        "name": "Look Up",
-        "url": "https://open.spotify.com/album/4gvR5KMuBMZRFRX6Y0urnk"
-      },
-      "artists": [
-        {
-          "name": "Sycco",
-          "url": "https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0"
-        }
-      ],
-      "duration_ms": 184904,
-      "name": "Look Up",
-      "url": "https://open.spotify.com/track/4Zluf3UZvWHcx3nDe6PrXs"
-    },
-    {
-      "added_at": "2026-09-25 16:48:56",
-      "album": {
         "name": "Steel Beans",
         "url": "https://open.spotify.com/album/3HWe5b34UFa85VqZNvxNFD"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 221804,
       "name": "Too On",
       "url": "https://open.spotify.com/track/3Q4TgCU3WopMMQFgs3iutO"
+    },
+    {
+      "added_at": "2026-09-25 16:48:56",
+      "album": {
+        "name": "Look Up",
+        "url": "https://open.spotify.com/album/4gvR5KMuBMZRFRX6Y0urnk"
+      },
+      "artists": [
+        {
+          "name": "Sycco",
+          "url": "https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0"
+        }
+      ],
+      "duration_ms": 184904,
+      "name": "Look Up",
+      "url": "https://open.spotify.com/track/4Zluf3UZvWHcx3nDe6PrXs"
     },
     {
       "added_at": "2026-09-25 16:48:56",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2026-09-25 16:48:56",
       "album": {
-        "name": "It Grows On Trees (Money)",
-        "url": "https://open.spotify.com/album/3p1P70gZCWLHlPbDFpDR4W"
-      },
-      "artists": [
-        {
-          "name": "AKA",
-          "url": "https://open.spotify.com/artist/3HmRclJ92Niwvq6SXvdhqv"
-        }
-      ],
-      "duration_ms": 184100,
-      "name": "It Grows On Trees (Money)",
-      "url": "https://open.spotify.com/track/1MlM3cDZ9P4baCP27CHxBp"
-    },
-    {
-      "added_at": "2026-09-25 16:48:56",
-      "album": {
         "name": "WAY UP",
         "url": "https://open.spotify.com/album/47FynGHTV7VUYqAGfnZm9q"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 141217,
       "name": "WAY UP",
       "url": "https://open.spotify.com/track/3nbk007nugb1fDPq4TAvst"
+    },
+    {
+      "added_at": "2026-09-25 16:48:56",
+      "album": {
+        "name": "It Grows On Trees (Money)",
+        "url": "https://open.spotify.com/album/3p1P70gZCWLHlPbDFpDR4W"
+      },
+      "artists": [
+        {
+          "name": "AKA",
+          "url": "https://open.spotify.com/artist/3HmRclJ92Niwvq6SXvdhqv"
+        }
+      ],
+      "duration_ms": 184100,
+      "name": "It Grows On Trees (Money)",
+      "url": "https://open.spotify.com/track/1MlM3cDZ9P4baCP27CHxBp"
     },
     {
       "added_at": "2026-09-25 16:48:56",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2026-09-25 16:48:56",
       "album": {
+        "name": "Heaven 2",
+        "url": "https://open.spotify.com/album/5DNFT7cSHevC4ayOuLA22e"
+      },
+      "artists": [
+        {
+          "name": "Lala Lala",
+          "url": "https://open.spotify.com/artist/492I2sQFcHDcsZECYX25dE"
+        }
+      ],
+      "duration_ms": 209533,
+      "name": "Arrow",
+      "url": "https://open.spotify.com/track/3nAcQSav21VEB1alqUHnZy"
+    },
+    {
+      "added_at": "2026-09-25 16:48:56",
+      "album": {
         "name": "Look Into My Eyes",
         "url": "https://open.spotify.com/album/4JoCQNTEXBtF9FdARsICHp"
       },
@@ -1471,22 +1487,6 @@
       "duration_ms": 183333,
       "name": "Look Into My Eyes",
       "url": "https://open.spotify.com/track/5ecgJKrVy6Kl7tcjo6QJg2"
-    },
-    {
-      "added_at": "2026-09-25 16:48:56",
-      "album": {
-        "name": "Heaven 2",
-        "url": "https://open.spotify.com/album/5DNFT7cSHevC4ayOuLA22e"
-      },
-      "artists": [
-        {
-          "name": "Lala Lala",
-          "url": "https://open.spotify.com/artist/492I2sQFcHDcsZECYX25dE"
-        }
-      ],
-      "duration_ms": 209533,
-      "name": "Arrow",
-      "url": "https://open.spotify.com/track/3nAcQSav21VEB1alqUHnZy"
     },
     {
       "added_at": "2026-09-25 16:48:56",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2026-09-25 16:48:56",
       "album": {
-        "name": "PULL!",
-        "url": "https://open.spotify.com/album/648lpKLEqArep6MeMl90ae"
-      },
-      "artists": [
-        {
-          "name": "Kumo 99",
-          "url": "https://open.spotify.com/artist/31UoyJXnXTjUzdwSX1Ylg5"
-        }
-      ],
-      "duration_ms": 145116,
-      "name": "Eyesore",
-      "url": "https://open.spotify.com/track/4U34LgBduKiubvUIbqaLmc"
-    },
-    {
-      "added_at": "2026-09-25 16:48:56",
-      "album": {
         "name": "TRINITY",
         "url": "https://open.spotify.com/album/48GuVeZZVvfy6lpdprJFlv"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 176146,
       "name": "MEGATRON",
       "url": "https://open.spotify.com/track/1rLgNK4AuVQj5ZimlUkX9l"
+    },
+    {
+      "added_at": "2026-09-25 16:48:56",
+      "album": {
+        "name": "PULL!",
+        "url": "https://open.spotify.com/album/648lpKLEqArep6MeMl90ae"
+      },
+      "artists": [
+        {
+          "name": "Kumo 99",
+          "url": "https://open.spotify.com/artist/31UoyJXnXTjUzdwSX1Ylg5"
+        }
+      ],
+      "duration_ms": 145116,
+      "name": "Eyesore",
+      "url": "https://open.spotify.com/track/4U34LgBduKiubvUIbqaLmc"
     },
     {
       "added_at": "2026-09-25 16:48:56",
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2026-09-25 16:48:56",
       "album": {
-        "name": "R\u00e9alit\u00e9 Rap Musique, Vol. 1",
-        "url": "https://open.spotify.com/album/0EuYtJkLsYXxsLfpSU38rF"
-      },
-      "artists": [
-        {
-          "name": "BEN plg",
-          "url": "https://open.spotify.com/artist/4Q4yUu2v7zN40G0LtsnY98"
-        }
-      ],
-      "duration_ms": 186090,
-      "name": "Nickel",
-      "url": "https://open.spotify.com/track/2Tc7jb3EkwCFYtyt0TwuDr"
-    },
-    {
-      "added_at": "2026-09-25 16:48:56",
-      "album": {
         "name": "I Want What I Want",
         "url": "https://open.spotify.com/album/4Y39p70moAouyUQ8RXVXZ3"
       },
@@ -1799,6 +1783,22 @@
     {
       "added_at": "2026-09-25 16:48:56",
       "album": {
+        "name": "R\u00e9alit\u00e9 Rap Musique, Vol. 1",
+        "url": "https://open.spotify.com/album/0EuYtJkLsYXxsLfpSU38rF"
+      },
+      "artists": [
+        {
+          "name": "BEN plg",
+          "url": "https://open.spotify.com/artist/4Q4yUu2v7zN40G0LtsnY98"
+        }
+      ],
+      "duration_ms": 186090,
+      "name": "Nickel",
+      "url": "https://open.spotify.com/track/2Tc7jb3EkwCFYtyt0TwuDr"
+    },
+    {
+      "added_at": "2026-09-25 16:48:56",
+      "album": {
         "name": "The Runner",
         "url": "https://open.spotify.com/album/2h7hFPWXL3oVSdo41PgTCh"
       },
@@ -1815,26 +1815,6 @@
       "duration_ms": 222960,
       "name": "The Runner",
       "url": "https://open.spotify.com/track/2Bn55HuKt3EhQ4AdBGKNAn"
-    },
-    {
-      "added_at": "2026-09-25 16:48:56",
-      "album": {
-        "name": "BOP",
-        "url": "https://open.spotify.com/album/6w1Dq46a5GjDEcVCmgnYrv"
-      },
-      "artists": [
-        {
-          "name": "Gentleman's Dub Club",
-          "url": "https://open.spotify.com/artist/6AGZSUNP6AVZ2BTxUsbJsr"
-        },
-        {
-          "name": "Jolie P",
-          "url": "https://open.spotify.com/artist/7LoympcZMyx1ySTpekLmzB"
-        }
-      ],
-      "duration_ms": 255617,
-      "name": "BOP",
-      "url": "https://open.spotify.com/track/55B7h4UVKWsKG5prz7xRr3"
     },
     {
       "added_at": "2026-09-25 16:48:56",
@@ -1859,6 +1839,26 @@
       "duration_ms": 145609,
       "name": "GARDEL EN EL AVI\u00d3N",
       "url": "https://open.spotify.com/track/3jjFnrNEplIuYPf8qH5yUf"
+    },
+    {
+      "added_at": "2026-09-25 16:48:56",
+      "album": {
+        "name": "BOP",
+        "url": "https://open.spotify.com/album/6w1Dq46a5GjDEcVCmgnYrv"
+      },
+      "artists": [
+        {
+          "name": "Gentleman's Dub Club",
+          "url": "https://open.spotify.com/artist/6AGZSUNP6AVZ2BTxUsbJsr"
+        },
+        {
+          "name": "Jolie P",
+          "url": "https://open.spotify.com/artist/7LoympcZMyx1ySTpekLmzB"
+        }
+      ],
+      "duration_ms": 255617,
+      "name": "BOP",
+      "url": "https://open.spotify.com/track/55B7h4UVKWsKG5prz7xRr3"
     },
     {
       "added_at": "2026-09-25 16:48:56",

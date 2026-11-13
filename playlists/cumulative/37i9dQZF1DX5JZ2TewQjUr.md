@@ -2,9 +2,9 @@
 
 ### [+852 Rising](https://open.spotify.com/playlist/37i9dQZF1DX5JZ2TewQjUr)
 
-> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Paula
+> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: FYP
 
-1,775 songs - 4 day 4 hr 10 min
+1,777 songs - 4 day 4 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -456,7 +456,7 @@
 | [I go to school by bus](https://open.spotify.com/track/3Os3BK6rPvh7Z7VKDBTtAa) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR) | [I go to school by bus](https://open.spotify.com/album/33B3jDSQXLMuuWt8dtjnWD) | 2:04 | 2024-09-05 | 2024-12-13 |
 | [i hate u](https://open.spotify.com/track/1SMS6ig5qiNbjYfm3du2rM) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [i hate u](https://open.spotify.com/album/34CBGNvwe29SICNBKEXhzI) | 2:49 | 2022-06-02 | 2022-09-09 |
 | [i hate u owe me $$](https://open.spotify.com/track/75RainG5pTfpOH1Hj937BU) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5), [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [i hate u owe me $$](https://open.spotify.com/album/6erAGsVqS76Ei8fu66QoKa) | 2:50 | 2022-09-01 | 2023-03-18 |
-| [I Have Your Letter Still](https://open.spotify.com/track/7JUDSlEXbD16wCoMFXubbg) | [BCHOY](https://open.spotify.com/artist/62kYN1r4Go0yN3cT4kwopF) | [I Have Your Letter Still](https://open.spotify.com/album/0Kdr1gCwLfHrqOYAEgq6Nw) | 3:41 | 2026-04-30 |  |
+| [I Have Your Letter Still](https://open.spotify.com/track/7JUDSlEXbD16wCoMFXubbg) | [BCHOY](https://open.spotify.com/artist/62kYN1r4Go0yN3cT4kwopF) | [I Have Your Letter Still](https://open.spotify.com/album/0Kdr1gCwLfHrqOYAEgq6Nw) | 3:41 | 2026-04-30 | 2026-11-13 |
 | [I just wanna sleep](https://open.spotify.com/track/6jNw03uSks35lzpwGcCa9I) | [before the night ends](https://open.spotify.com/artist/4AGHDyw984Ss54AzrGeTgU), [Sabrina Cheung 張蔓莎](https://open.spotify.com/artist/5EFPewjksQrnI87VOsvFHh) | [I just wanna sleep](https://open.spotify.com/album/6KHiY4KYBPzDieETKjzYSM) | 3:15 | 2023-09-21 | 2023-12-01 |
 | [I kinda feel like going home](https://open.spotify.com/track/1WA1STD9PGm3lOq6SwKVa4) | [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR), [Kymza](https://open.spotify.com/artist/51dbcON5ZgfH3B19hpIzeB), [nardey](https://open.spotify.com/artist/7tHQPahicLUO5EdLyo5V28) | [Human Heart](https://open.spotify.com/album/46UcZkRj4FkwY9vNb89gij) | 2:25 | 2024-05-09 | 2024-11-15 |
 | [I LIKE U](https://open.spotify.com/track/30Qsh8LvXViQWlOMxI5BNk) | [ProdiG](https://open.spotify.com/artist/08CriCUDwsWSTvFDWsfpk1) | [I LIKE U](https://open.spotify.com/album/5V2gjlY284O3Zv2edHZcdZ) | 2:06 | 2023-06-08 | 2023-09-15 |
@@ -1328,6 +1328,7 @@
 | [在觀濱中出錯](https://open.spotify.com/track/1M2JjyXzqjqmYBR0wXY4qG) | [Byejack](https://open.spotify.com/artist/0yknwn0XnsbFLagS80AA0n), [Tr33](https://open.spotify.com/artist/5CkI8NcGv6BgLBOaKtgZws) | [在觀濱中出錯](https://open.spotify.com/album/1x5iaF3JE0TRqxM72STrzG) | 4:01 | 2025-04-17 | 2025-08-01 |
 | [在錯誤的宇宙談戀愛](https://open.spotify.com/track/6yOYLtn7n1VE3uiOrE6I3c) | [SULIS](https://open.spotify.com/artist/341jDjLcWdN0Xt9TCkhsv3) | [在錯誤的宇宙談戀愛](https://open.spotify.com/album/2t8wTxHWq34BlYSSRHWKPc) | 3:23 | 2025-10-02 | 2026-02-27 |
 | [在離境大堂告別...](https://open.spotify.com/track/2Nfk9kagAJJctveTSRWd5h) | [未能接通](https://open.spotify.com/artist/1hmX3srvf3H7T95DCUAF8S) | [在離境大堂告別...](https://open.spotify.com/album/4EUQZWlJHWNXGon1CeP6Hl) | 3:27 | 2022-05-26 | 2022-07-29 |
+| [墮進海裡面 Fell Into The Sea](https://open.spotify.com/track/5NnR8TVNWqnr252msASkfK) | [石裂符](https://open.spotify.com/artist/2z5PPOztYLholwAHp3teQq) | [墮進海裡面 Fell Into The Sea](https://open.spotify.com/album/4GCBupY1zOgktfVX4YjdHa) | 4:10 | 2026-11-12 |  |
 | [夏夜未央](https://open.spotify.com/track/63rFXlz0r3uTNPqh84dl7C) | [王胤正](https://open.spotify.com/artist/0JrLkXgQqYCahpOBeqmO2B) | [夏夜未央](https://open.spotify.com/album/384hDmU7m12r02Heqavy3m) | 5:18 | 2023-08-10 | 2023-11-03 |
 | [夏灣拿之夜](https://open.spotify.com/track/1gpd5N3vg0x3G1jg1QlggE) | [N.Y.P.D\. 南洋派對](https://open.spotify.com/artist/0uGCA6uvmofOBLPplBhyAY) | [G.A.I.G.A.I](https://open.spotify.com/album/3iua25eCjomYPmFUSrO2i2) | 3:35 | 2024-06-13 | 2024-11-15 |
 | [外星人接我回去](https://open.spotify.com/track/6GeBNMn9w7i6O6fJnrUt1d) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [外星人接我回去](https://open.spotify.com/album/7m6KVg6aPZIU7Bs0xOtUcN) | 3:50 | 2024-08-15 | 2024-12-13 |
@@ -1355,7 +1356,7 @@
 | [好想大聲講我喜歡你](https://open.spotify.com/track/0xZWkmnX7dSXGlXmkjbeAR) | [新田公路](https://open.spotify.com/artist/1WU9RO61jcDqwnu2Aigzts) | [好想大聲講我喜歡你](https://open.spotify.com/album/5maKeiDNTqNBKuWnPzX9is) | 5:13 | 2023-08-03 | 2023-09-01 |
 | [好想瞓](https://open.spotify.com/track/5J55R1aAfqteDIqeuK5x65) | [Theo Chu Chun Yin](https://open.spotify.com/artist/6gRhpwFLDsVOo0VzrplL9A) | [好想瞓](https://open.spotify.com/album/3eadryqIELwgawYpj0nhtl) | 2:44 | 2023-08-17 | 2023-12-01 |
 | [妳好靚 \(feat\. RebelMan\)](https://open.spotify.com/track/0QPl6JsMOYKa61ThXXrzrW) | [J\-Hoon](https://open.spotify.com/artist/6A1r1biex5FKhLL1Hu3Kao), [RebelMan](https://open.spotify.com/artist/2kCaXiiwA6oRGqa5dqlXYp) | [妳好靚 \(feat\. RebelMan\)](https://open.spotify.com/album/73wlAgPUdpbBDdd2CdprSh) | 3:13 | 2023-07-27 | 2023-09-15 |
-| [始終仍然想起你](https://open.spotify.com/track/2ilpkQbLmmfZJ5JMoysQFZ) | [Young Hysan](https://open.spotify.com/artist/6nZKe3xkbU2IBrVuJGkzCr) | [Lost in Yesterday](https://open.spotify.com/album/68MEenNVJx5K5ZWu1Vrpaa) | 3:13 | 2026-04-30 |  |
+| [始終仍然想起你](https://open.spotify.com/track/2ilpkQbLmmfZJ5JMoysQFZ) | [Young Hysan](https://open.spotify.com/artist/6nZKe3xkbU2IBrVuJGkzCr) | [Lost in Yesterday](https://open.spotify.com/album/68MEenNVJx5K5ZWu1Vrpaa) | 3:13 | 2026-04-30 | 2026-11-13 |
 | [婆娘PAULLEUNG](https://open.spotify.com/track/0vvONjfKPXhyzHCp5lH3Kt) | [5gjm999](https://open.spotify.com/artist/06M2LuWYlrYVjg0guNWZJb) | [小悲咒三週年EP](https://open.spotify.com/album/0Fv6m3KgDYPYGQlXOzHYAA) | 1:57 | 2023-08-31 | 2023-12-01 |
 | [學柔而修](https://open.spotify.com/track/4V1BVYXpUCSXkgdXED5PCc) | [ERN9](https://open.spotify.com/artist/0BEPNot13vK1o6U8Gcja3V), [BillyT](https://open.spotify.com/artist/66oBldKAMOv1vFqUwD4cUJ) | [學柔而修](https://open.spotify.com/album/6KY3XU9jHipWmpq5tVkRgK) | 2:35 | 2026-02-12 | 2026-07-24 |
 | [守](https://open.spotify.com/track/4EOg9ajGad1pg7KKnaQgvA) | [J Jelly](https://open.spotify.com/artist/6P03BlZWRPQGNSyiauTllj) | [守](https://open.spotify.com/album/5VO0nVaONkT3qsI1hougBX) | 2:20 | 2023-03-09 | 2023-07-14 |
@@ -1610,6 +1611,7 @@
 | [生日快樂wow](https://open.spotify.com/track/23A875x46p1luVfmUEF3dy) | [Novel Fergus](https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR), [PetPetShawn](https://open.spotify.com/artist/3yL4X4Lk7qA5q9FShkremM) | [花燈](https://open.spotify.com/album/7HHg3RBa4qqFN4cX5Jjfiv) | 2:12 | 2026-05-07 | 2026-11-07 |
 | [生活的形狀 \- the shape of everything](https://open.spotify.com/track/2LMrE6U99m9TjD6PrEPJ0V) | [wave n' poem](https://open.spotify.com/artist/3GIxTTp1oNCW4mEajGGuJY) | [wave n' poem](https://open.spotify.com/album/5YmcS60oSCh9flSFESetPh) | 4:35 | 2024-06-13 | 2024-11-15 |
 | [生活的形狀 / diary](https://open.spotify.com/track/5D5B238LE5i6vnPOGH3msX) | [rosemances](https://open.spotify.com/artist/7lq5r4rEXkxtYt3bGK4fAK) | [生活的形狀 / diary](https://open.spotify.com/album/52hZGRYX3pUMuyGbepf8JF) | 3:36 | 2026-02-26 | 2026-09-18 |
+| [用武之地](https://open.spotify.com/track/0Cmjwr3UJ6yJnsQ1Df5fhk) | [FYP](https://open.spotify.com/artist/4p0rkZqkBevR2hDsNmOLRM) | [用武之地](https://open.spotify.com/album/6lggdYW766WprkQrhNkV00) | 4:01 | 2026-11-12 |  |
 | [甩身 \(feat\. CotaBoii\)](https://open.spotify.com/track/1ECUIV8lgeLLKx4FP92aX7) | [區子琳](https://open.spotify.com/artist/1wJ1hjR8MO4yvGO2ItLl4I), [CotaBoii](https://open.spotify.com/artist/2yUScYyzi0WG8ldMEFximW) | [甩身 \(feat\. CotaBoii\)](https://open.spotify.com/album/3JuWMejLdX2RxP0VhL3WiM) | 3:22 | 2023-09-14 | 2023-11-24 |
 | [界限症](https://open.spotify.com/track/6qjZCAVuB5UNKFPhduC1gD) | [Instinct of Sight](https://open.spotify.com/artist/69daEmEDuIbefSrerLcNhA) | [界限症](https://open.spotify.com/album/2NSMbcxQgBUpWMpl8v2x73) | 2:59 | 2025-02-06 | 2025-05-30 |
 | [界限症](https://open.spotify.com/track/7sBV4RnLh35eXTwuwq6DEQ) | [Instinct of Sight](https://open.spotify.com/artist/69daEmEDuIbefSrerLcNhA) | [界限症](https://open.spotify.com/album/5A2j0BkH2wUT9I0plBLcTy) | 2:59 | 2026-08-06 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-11-24",
-  "description": "The home for alternative electronic music. Cover: Conducta",
+  "description": "The home for alternative electronic music. Cover: salute",
   "name": "Altar",
   "tracks": [
     {
@@ -5238,7 +5238,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 227827,
       "name": "Closer - Edit",
       "url": "https://open.spotify.com/track/6VtwaoZE98xcL80dSCKnLF"
@@ -13240,7 +13240,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 396363,
       "name": "Human Voice",
       "url": "https://open.spotify.com/track/5Lh2zmWu8BecY2l9Upggm9"
@@ -13716,6 +13716,24 @@
       "duration_ms": 226048,
       "name": "I Need U",
       "url": "https://open.spotify.com/track/1j5OPlPaNAvWL9mgis4lur"
+    },
+    {
+      "album": {
+        "name": "i really liike u",
+        "url": "https://open.spotify.com/album/3rrkwIwuhIlUBaoPo8viGD"
+      },
+      "artists": [
+        {
+          "name": "KTmelodies",
+          "url": "https://open.spotify.com/artist/10IVkptwI3f1wi8XYDl2hd"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124444,
+      "name": "i really liike u",
+      "url": "https://open.spotify.com/track/7KOccEv2Scm9W5WaPXPzbC"
     },
     {
       "album": {
@@ -15166,7 +15184,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 176840,
       "name": "Jomox",
       "url": "https://open.spotify.com/track/6Iwafu6i0DMmlozUQ8Sh5v"
@@ -16424,7 +16442,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 182791,
       "name": "Leave Right Now",
       "url": "https://open.spotify.com/track/3xA724VgSVn5wMJFoyxfeS"
@@ -16450,6 +16468,24 @@
       "duration_ms": 222784,
       "name": "leavemealone",
       "url": "https://open.spotify.com/track/1MVqeIAwhD4T44AKVkIfic"
+    },
+    {
+      "album": {
+        "name": "Leaves",
+        "url": "https://open.spotify.com/album/5x1LoqpCqqTOR4yaJFeFl4"
+      },
+      "artists": [
+        {
+          "name": "Duke Boara",
+          "url": "https://open.spotify.com/artist/6EL8x2zkCRGzb32jvrSI56"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "Leaves",
+      "url": "https://open.spotify.com/track/0s9bum0NjuaH2cVafD8wBP"
     },
     {
       "album": {
@@ -18425,6 +18461,24 @@
     },
     {
       "album": {
+        "name": "Memory Signal / Vakata",
+        "url": "https://open.spotify.com/album/5IMzfD9uFN6RUOIhnYzS4h"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285825,
+      "name": "Memory Signal",
+      "url": "https://open.spotify.com/track/4M6Yq5V4EFhqq12KDpRqAX"
+    },
+    {
+      "album": {
         "name": "Metaphysical",
         "url": "https://open.spotify.com/album/14yXH9auX3hfPGt2l7b7rS"
       },
@@ -18770,6 +18824,46 @@
       "duration_ms": 205161,
       "name": "Mixed Emotions",
       "url": "https://open.spotify.com/track/27A97G7jTpRWeX3E4LpQEs"
+    },
+    {
+      "album": {
+        "name": "Lab Break",
+        "url": "https://open.spotify.com/album/3D5KrmmUeMSvrKg5ao0QvY"
+      },
+      "artists": [
+        {
+          "name": "\u232d IceMorph \u232c",
+          "url": "https://open.spotify.com/artist/5L1J00k5wzxqYK5u2ieZ2z"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192428,
+      "name": "Model Species",
+      "url": "https://open.spotify.com/track/07yFuQi9E9hRiIa8z8aOsY"
+    },
+    {
+      "album": {
+        "name": "Modern Dystopia",
+        "url": "https://open.spotify.com/album/3rVmNlXzEkRlsXa8l4jAU1"
+      },
+      "artists": [
+        {
+          "name": "DJ Seinfeld",
+          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
+        },
+        {
+          "name": "Peter Xan",
+          "url": "https://open.spotify.com/artist/2szFgPvkzJHtlrmuVdhSBP"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203637,
+      "name": "Modern Dystopia",
+      "url": "https://open.spotify.com/track/6IqHpduxivldFZLl346XkU"
     },
     {
       "album": {
@@ -20412,7 +20506,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 220150,
       "name": "Obnox",
       "url": "https://open.spotify.com/track/48qyIqwWGKMIpgmgHJhfAC"
@@ -24804,7 +24898,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 442500,
       "name": "Scottish Midgey",
       "url": "https://open.spotify.com/track/4KWxInaWDqKgsn6sK02XUT"
@@ -25030,6 +25124,24 @@
       "duration_ms": 289471,
       "name": "Serotonin Moonbeams",
       "url": "https://open.spotify.com/track/0hJfuyUwtEYMlGgvr3nzz9"
+    },
+    {
+      "album": {
+        "name": "Set Me Free",
+        "url": "https://open.spotify.com/album/6H69i1PwbYdTsX31bGgq7f"
+      },
+      "artists": [
+        {
+          "name": "Adiel",
+          "url": "https://open.spotify.com/artist/1yetl1fEx0mE16k164jXvw"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300000,
+      "name": "Set Me Free",
+      "url": "https://open.spotify.com/track/4GjIE0VYM6rBtBIJemRzww"
     },
     {
       "album": {
@@ -26382,7 +26494,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 179311,
       "name": "soul reply",
       "url": "https://open.spotify.com/track/4Txm1bcmxUS0h7fRhnhfa8"
@@ -31500,6 +31612,28 @@
       "duration_ms": 140399,
       "name": "Was It Enough",
       "url": "https://open.spotify.com/track/7ftbGeJEZCJTuLEpoeZl9m"
+    },
+    {
+      "album": {
+        "name": "Waste Another Day (feat. Miso Extra)",
+        "url": "https://open.spotify.com/album/4kfBOOTbq3RTgetCueNmQi"
+      },
+      "artists": [
+        {
+          "name": "DJ BORING",
+          "url": "https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p"
+        },
+        {
+          "name": "Miso Extra",
+          "url": "https://open.spotify.com/artist/0Vv0Cc8LAnIhUsYI4d5wBg"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220952,
+      "name": "Waste Another Day (feat. Miso Extra)",
+      "url": "https://open.spotify.com/track/1L4ulSYMsK7fNEVL5lpYB3"
     },
     {
       "album": {

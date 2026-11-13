@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-03-27",
-  "description": "House music lives here. United under one roof, featuring Luuk van Dijk",
+  "description": "House music lives here. United under one roof, featuring Gorgon City",
   "name": "Housewerk",
   "tracks": [
     {
@@ -1553,6 +1553,24 @@
     },
     {
       "album": {
+        "name": "Amen",
+        "url": "https://open.spotify.com/album/2JYPeLjZU8OSckGI3bmIlJ"
+      },
+      "artists": [
+        {
+          "name": "Kitty Ca$h",
+          "url": "https://open.spotify.com/artist/1WcZXhILKBJktTKnqfjWMT"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280320,
+      "name": "Amen",
+      "url": "https://open.spotify.com/track/4BbYT91rlp5nfVJsFhaTe5"
+    },
+    {
+      "album": {
         "name": "Anaconda",
         "url": "https://open.spotify.com/album/3bYo2FlkgCAdGQxsKbu3lq"
       },
@@ -2144,7 +2162,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 214838,
       "name": "Baby Do You Wanna Bump",
       "url": "https://open.spotify.com/track/6dL7IcJKZsMk2ClvsW65GX"
@@ -2936,6 +2954,36 @@
       "duration_ms": 329037,
       "name": "Bayside",
       "url": "https://open.spotify.com/track/7GhnJwfACNTFXOlyByTWtK"
+    },
+    {
+      "album": {
+        "name": "BbY WOW - John Summit Remix",
+        "url": "https://open.spotify.com/album/7cATL7247RiXbe4yL7KdNv"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Judeline",
+          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
+        },
+        {
+          "name": "rusowsky",
+          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218826,
+      "name": "BbY WOW - John Summit Remix",
+      "url": "https://open.spotify.com/track/6i0mauyUtfJ6Wb3QLVxKc6"
     },
     {
       "album": {
@@ -5240,6 +5288,28 @@
       "duration_ms": 175357,
       "name": "Can't Get Enough",
       "url": "https://open.spotify.com/track/3Hq1sl11H1mFTkrou8c7q2"
+    },
+    {
+      "album": {
+        "name": "Can't Get Over",
+        "url": "https://open.spotify.com/album/2wmQ8zQbnejD4r1P58KYFw"
+      },
+      "artists": [
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        },
+        {
+          "name": "Innellea",
+          "url": "https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245273,
+      "name": "Can't Get Over",
+      "url": "https://open.spotify.com/track/13NMHfhVjL071WzEXFdLF9"
     },
     {
       "album": {
@@ -11207,6 +11277,28 @@
     },
     {
       "album": {
+        "name": "Freak",
+        "url": "https://open.spotify.com/album/2JzTmgEodkdJUPynMRlfaJ"
+      },
+      "artists": [
+        {
+          "name": "Dansyn",
+          "url": "https://open.spotify.com/artist/1VnFvf8K01AoqryDdQzitv"
+        },
+        {
+          "name": "Sam Collins",
+          "url": "https://open.spotify.com/artist/60OCVcCxsNKT3VgR0hnDKx"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192755,
+      "name": "Freak",
+      "url": "https://open.spotify.com/track/4UdjPuj8j8qXg2uVCXZ8t7"
+    },
+    {
+      "album": {
         "name": "Freak EP",
         "url": "https://open.spotify.com/album/1mxfzLdy5o6BTGpBImmRmx"
       },
@@ -15834,7 +15926,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 165454,
       "name": "Illusion",
       "url": "https://open.spotify.com/track/3oowIGctmBAAOLGi04Ysvo"
@@ -15874,7 +15966,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 176444,
       "name": "Impressions",
       "url": "https://open.spotify.com/track/0FxEt9WPc729I8X2hvk4vp"
@@ -17315,6 +17407,28 @@
     },
     {
       "album": {
+        "name": "Keep On",
+        "url": "https://open.spotify.com/album/0pKY3pw8isHCSs2rZujmEc"
+      },
+      "artists": [
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        {
+          "name": "TIMID.",
+          "url": "https://open.spotify.com/artist/7ohUwQ36GNovdC1LFlhiQg"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191025,
+      "name": "Keep On",
+      "url": "https://open.spotify.com/track/0q51UzsjGbXC33tKugzA1Q"
+    },
+    {
+      "album": {
         "name": "Keep Pushing",
         "url": "https://open.spotify.com/album/51Efce1Hjf6TxbU7hAKwik"
       },
@@ -17755,6 +17869,24 @@
     },
     {
       "album": {
+        "name": "La Serpiente EP",
+        "url": "https://open.spotify.com/album/3NjnFPugnz04GTENzmd7w1"
+      },
+      "artists": [
+        {
+          "name": "Amal Nemer",
+          "url": "https://open.spotify.com/artist/4dJbkK58s6mj9RGElqCNhm"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171692,
+      "name": "La Serpiente",
+      "url": "https://open.spotify.com/track/4vywbkMb3fowMr4XiQgPNB"
+    },
+    {
+      "album": {
         "name": "La Tarde",
         "url": "https://open.spotify.com/album/44kW2NEni5fjuXMamBEXzL"
       },
@@ -17924,6 +18056,28 @@
       "duration_ms": 247115,
       "name": "Language - Walker & Royce Remix",
       "url": "https://open.spotify.com/track/3e3qNDf5bVeEiBNpOGQ104"
+    },
+    {
+      "album": {
+        "name": "Last All Night",
+        "url": "https://open.spotify.com/album/7D9gg9eLqCOGCvsyvo4kLA"
+      },
+      "artists": [
+        {
+          "name": "Juicy Romance",
+          "url": "https://open.spotify.com/artist/55RZaB7LJnx3sXeyVJXB2e"
+        },
+        {
+          "name": "Azzecca",
+          "url": "https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209885,
+      "name": "Last All Night",
+      "url": "https://open.spotify.com/track/1iUNHk3lN8EZMIhcB68uAc"
     },
     {
       "album": {
@@ -19472,7 +19626,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 211368,
       "name": "Long Jacket",
       "url": "https://open.spotify.com/track/7wFwf1j6nn7uneEF6oTAiR"
@@ -23876,7 +24030,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 223100,
       "name": "oh my yuma!",
       "url": "https://open.spotify.com/track/0gCVfzNzYGBk95GBLQ6US4"
@@ -24606,7 +24760,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 185423,
       "name": "Over You",
       "url": "https://open.spotify.com/track/0Se6UXsaDBMJJaxy4FV4a6"
@@ -25218,7 +25372,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 202968,
       "name": "Phunky",
       "url": "https://open.spotify.com/track/7DwbQsslfL3nus2FinQAnn"
@@ -29796,7 +29950,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 202123,
       "name": "Speechless",
       "url": "https://open.spotify.com/track/7cRKNHHv3WvKBYzrzMvEoG"
@@ -33011,6 +33165,28 @@
     },
     {
       "album": {
+        "name": "Thunder Love",
+        "url": "https://open.spotify.com/album/4NkmhRXUhaHHDj6nDUYjIe"
+      },
+      "artists": [
+        {
+          "name": "JAMIIE",
+          "url": "https://open.spotify.com/artist/3tDYYvrKv7Duw3ismQGnHF"
+        },
+        {
+          "name": "Alan Dixon",
+          "url": "https://open.spotify.com/artist/0yEnnivHzCPxaTfNbWjV7x"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182362,
+      "name": "Thunder Love",
+      "url": "https://open.spotify.com/track/1SBx8Q0RTxkEt8iFyPdiIT"
+    },
+    {
+      "album": {
         "name": "Ti Sento",
         "url": "https://open.spotify.com/album/7Cm248Tj1NigR5Jujq0IJq"
       },
@@ -33510,7 +33686,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 221534,
       "name": "Trapped - Radio-Edit",
       "url": "https://open.spotify.com/track/7LhaYxesZoZQ8b9WJGuLDx"
@@ -33554,6 +33730,24 @@
       "duration_ms": 176791,
       "name": "Tripasia",
       "url": "https://open.spotify.com/track/365aB2RegILTAZqCEgmkUc"
+    },
+    {
+      "album": {
+        "name": "Trippin' In The 16th",
+        "url": "https://open.spotify.com/album/0dB5rqB3rKgpWCkmCIVZZU"
+      },
+      "artists": [
+        {
+          "name": "Ragie Ban",
+          "url": "https://open.spotify.com/artist/7lz52Oe1rAo5DwfSRwFsQL"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "Trippin' In The 16th",
+      "url": "https://open.spotify.com/track/0PT6lC09Xyte5Ljp8sNhyR"
     },
     {
       "album": {
@@ -35237,6 +35431,24 @@
     },
     {
       "album": {
+        "name": "When U Were Mine",
+        "url": "https://open.spotify.com/album/2xj7wSfHJyw8RttZ7Pev4O"
+      },
+      "artists": [
+        {
+          "name": "Soldier Boy",
+          "url": "https://open.spotify.com/artist/4peDh0mBKPwTUFZUj7UCe9"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "When U Were Mine",
+      "url": "https://open.spotify.com/track/6t2Z6ZjynEP2hxuhzM2WxF"
+    },
+    {
+      "album": {
         "name": "Where All My People",
         "url": "https://open.spotify.com/album/47EJutKixbBXN6mVtXe7Qg"
       },
@@ -35736,7 +35948,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 200500,
       "name": "Wo, man - Edit",
       "url": "https://open.spotify.com/track/1SF8DK4wmqKcxehSfheLPS"

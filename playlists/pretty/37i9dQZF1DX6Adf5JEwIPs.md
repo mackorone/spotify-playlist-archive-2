@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Juanchito, Gerardo Coronel 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 730,612 likes - 57 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 730,602 likes - 57 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 41 | [Baby Mala](https://open.spotify.com/track/7v4ZidXynjagUbIzFGsiO3) | [Neto Bernal](https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5) | [Baby Mala](https://open.spotify.com/album/5R21GB2wqIVG2GxNbuZGe0) | 3:23 |
 | 42 | [Pa Los Que Se Fueron](https://open.spotify.com/track/7nQrBhYedMmxyn5LhvgMZf) | [Nivel 5](https://open.spotify.com/artist/7kRSW5oj2hodURrzO6Xp8y) | [Pa Los Que Se Fueron](https://open.spotify.com/album/7bWF77kXdDFA5DAoy2X6Su) | 3:39 |
 | 43 | [Va a regresar el R](https://open.spotify.com/track/01crClbSSmXTTb9YmPfUVz) | [Pablito Osorio](https://open.spotify.com/artist/1ZhRNCRp4k0fGK6p8OPV9t) | [Desde La Perla Vol.2](https://open.spotify.com/album/25HxXL2QZl8opf7hLZqNZs) | 2:47 |
-| 44 | [Norteñas Love Mix \(Te Quiero, Tenerte a Ti, Mi Amor Bonito\)](https://open.spotify.com/track/6GbnNldsEpVmJ1mrFSKGZF) | [Alfonzin García "Dj Alfonzin"](https://open.spotify.com/artist/2rP6Wti41KNNkh6iVyL6Wf), [Cumbre Norteña](https://open.spotify.com/artist/0d1jlQUtg6wJtmOVWSFU0t), [La Inspiración Norteña](https://open.spotify.com/artist/2bDa5OoR8RxoP9sVhkNYon) | [Norteñas Love Mix \(Te Quiero, Tenerte a Ti, Mi Amor Bonito\)](https://open.spotify.com/album/6lUibVWGjMuIxZICHQDU1d) | 5:45 |
+| 44 | [Popurrí Norteñas Love Mix \(Te Quiero, Tenerte a Ti, Mi Amor Bonito\)](https://open.spotify.com/track/6GbnNldsEpVmJ1mrFSKGZF) | [Alfonzin García "Dj Alfonzin"](https://open.spotify.com/artist/2rP6Wti41KNNkh6iVyL6Wf), [Cumbre Norteña](https://open.spotify.com/artist/0d1jlQUtg6wJtmOVWSFU0t), [La Inspiración Norteña](https://open.spotify.com/artist/2bDa5OoR8RxoP9sVhkNYon) | [Popurrí Norteñas Love Mix \(Te Quiero, Tenerte a Ti, Mi Amor Bonito\)](https://open.spotify.com/album/6lUibVWGjMuIxZICHQDU1d) | 5:45 |
 | 45 | [La Suerte](https://open.spotify.com/track/3mSPUaDX361nyy4sHX7Ysh) | [Palmeños De Sinaloa](https://open.spotify.com/artist/3nfcZ9CojgbJ1QNbHu8cU2) | [La Suerte](https://open.spotify.com/album/1QwKN73JruhBP4EsWHNNZC) | 2:43 |
 | 46 | [70 Calaveras \- Tololoche](https://open.spotify.com/track/1701wK8DajrXPf3COHXlfN) | [Los Varones de Culiacan](https://open.spotify.com/artist/3Bz4vStA4p6jwPXL6SDZ9d) | [ABSOLUTE BRAGADO Vol\. 1](https://open.spotify.com/album/42JiK4NXSpAAQizYQkkldQ) | 3:24 |
 | 47 | [FAMA](https://open.spotify.com/track/14dK1FZ9qjecW6ZLSlS0TZ) | [Grupo Privado](https://open.spotify.com/artist/4KlSPzyPWa9JKOBsaOMKaA) | [FAMA](https://open.spotify.com/album/1KQ5wnsxehARC9rHIZOm0X) | 2:46 |

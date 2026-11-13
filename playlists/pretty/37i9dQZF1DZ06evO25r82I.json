@@ -1,12 +1,12 @@
 {
   "description": "This is Jimmy Eat World. The essential tracks, all in one playlist.",
-  "num_followers": 51109,
+  "num_followers": 51119,
   "original_name": "This Is Jimmy Eat World",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avENAAAAAAA7FuElCowlKD5Kvp9P7XmA",
+  "snapshot_id": "avOwAAAAAAC8p0HpC4BDf6+/RMclCS4+",
   "tracks": [
     {
       "added_at": null,
@@ -655,8 +655,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Integrity Blues",
-        "url": "https://open.spotify.com/album/03hVtUfmQW3fhMbYoliIod"
+        "name": "Invented (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1TxRb6Hl940xyXG4eL8Tlo"
       },
       "artists": [
         {
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 171648,
-      "name": "Through",
-      "url": "https://open.spotify.com/track/4Iydh0QUgxeOB1o5oKAzAr"
+      "duration_ms": 198506,
+      "name": "Heart Is Hard To Find",
+      "url": "https://open.spotify.com/track/11rnrqU9FYA5Wrgey0wBm6"
     },
     {
       "added_at": null,
@@ -687,8 +687,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Invented (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1TxRb6Hl940xyXG4eL8Tlo"
+        "name": "Integrity Blues",
+        "url": "https://open.spotify.com/album/03hVtUfmQW3fhMbYoliIod"
       },
       "artists": [
         {
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 198506,
-      "name": "Heart Is Hard To Find",
-      "url": "https://open.spotify.com/track/11rnrqU9FYA5Wrgey0wBm6"
+      "duration_ms": 171648,
+      "name": "Through",
+      "url": "https://open.spotify.com/track/4Iydh0QUgxeOB1o5oKAzAr"
     },
     {
       "added_at": null,
@@ -719,8 +719,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Integrity Blues",
-        "url": "https://open.spotify.com/album/03hVtUfmQW3fhMbYoliIod"
+        "name": "Failure",
+        "url": "https://open.spotify.com/album/7nPnPhFc33i7IqDnwsbqpE"
       },
       "artists": [
         {
@@ -728,9 +728,9 @@
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 318382,
-      "name": "You With Me",
-      "url": "https://open.spotify.com/track/2LjA5UUnyUKTMZ3qdBI8De"
+      "duration_ms": 144807,
+      "name": "Failure",
+      "url": "https://open.spotify.com/track/3pnfUFrTc8i1hpsORDbx1T"
     },
     {
       "added_at": null,
@@ -751,8 +751,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Failure",
-        "url": "https://open.spotify.com/album/7nPnPhFc33i7IqDnwsbqpE"
+        "name": "Integrity Blues",
+        "url": "https://open.spotify.com/album/03hVtUfmQW3fhMbYoliIod"
       },
       "artists": [
         {
@@ -760,9 +760,9 @@
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 144807,
-      "name": "Failure",
-      "url": "https://open.spotify.com/track/3pnfUFrTc8i1hpsORDbx1T"
+      "duration_ms": 318382,
+      "name": "You With Me",
+      "url": "https://open.spotify.com/track/2LjA5UUnyUKTMZ3qdBI8De"
     },
     {
       "added_at": null,

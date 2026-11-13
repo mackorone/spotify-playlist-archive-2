@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4n32BG.md) - [plain]
 
 > This is Hannah Montana\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,075 likes - 34 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,072 likes - 34 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [You'll Always Find Your Way Back Home](https://open.spotify.com/track/12wSL3tGk3MtbDEhfG7xy3) | [Hannah Montana](https://open.spotify.com/artist/7nU4hB040gTmHm45YYMvqc) | [Hannah Montana The Movie](https://open.spotify.com/album/1fc8tPf36cZhNYpNFrWh7o) | 3:44 |
-| 2 | [The Best of Both Worlds](https://open.spotify.com/track/6Z0F3Mqj7tq1CBZo5qMlUg) | [Hannah Montana](https://open.spotify.com/artist/7nU4hB040gTmHm45YYMvqc) | [Hannah Montana](https://open.spotify.com/album/0TyDqWrWHzuyFjjnKqDClu) | 2:54 |
+| 1 | [The Best of Both Worlds](https://open.spotify.com/track/6Z0F3Mqj7tq1CBZo5qMlUg) | [Hannah Montana](https://open.spotify.com/artist/7nU4hB040gTmHm45YYMvqc) | [Hannah Montana](https://open.spotify.com/album/0TyDqWrWHzuyFjjnKqDClu) | 2:54 |
+| 2 | [You'll Always Find Your Way Back Home](https://open.spotify.com/track/3pLXRflcwNSfCYEZbs0rf9) | [Hannah Montana](https://open.spotify.com/artist/7nU4hB040gTmHm45YYMvqc) | [Hannah Montana: The Hits](https://open.spotify.com/album/2c2rbC7FH3strLUbELgiSF) | 3:44 |
 | 3 | [Ordinary Girl](https://open.spotify.com/track/2kIq7Oq6YNfdUuTrmPC4w1) | [Hannah Montana](https://open.spotify.com/artist/7nU4hB040gTmHm45YYMvqc) | [Hannah Montana Forever](https://open.spotify.com/album/6FUFS9PRGUTyVrsltg1xji) | 2:57 |
 | 4 | [He Could Be the One](https://open.spotify.com/track/07HPV6hzecJmMJwsIX8YVU) | [Hannah Montana](https://open.spotify.com/artist/7nU4hB040gTmHm45YYMvqc) | [Hannah Montana 3](https://open.spotify.com/album/0bKrYLZrKCH5qGzgwPxLcl) | 3:00 |
 | 5 | [Rock Star](https://open.spotify.com/track/6KN9atd3DRhmSRWeCSKkkL) | [Hannah Montana](https://open.spotify.com/artist/7nU4hB040gTmHm45YYMvqc) | [Hannah Montana 2 \(Original Soundtrack\)](https://open.spotify.com/album/2Kl34Wu4F27ptdgtUoErJs) | 2:58 |
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4n32BG.md) - [plain]
 | 33 | [Spotlight](https://open.spotify.com/track/3GBnTivPul1ChzgAc2X5iL) | [Hannah Montana](https://open.spotify.com/artist/7nU4hB040gTmHm45YYMvqc) | [Hannah Montana The Movie](https://open.spotify.com/album/1fc8tPf36cZhNYpNFrWh7o) | 3:06 |
 | 34 | [What's Not to Like](https://open.spotify.com/track/7Ikk4lkHAjf4KSWbMZz3G3) | [Hannah Montana](https://open.spotify.com/artist/7nU4hB040gTmHm45YYMvqc) | [Hannah Montana The Movie](https://open.spotify.com/album/1fc8tPf36cZhNYpNFrWh7o) | 3:12 |
 
-Snapshot ID: `avENAAAAAABBoDeCuk2G+JpHaJo8keUk`
+Snapshot ID: `avOwAAAAAACAxRWWlZgsHKX6dB2cejfI`

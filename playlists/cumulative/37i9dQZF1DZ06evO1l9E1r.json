@@ -1416,7 +1416,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-01",
+      "date_removed": null,
       "duration_ms": 189080,
       "name": "Heyr Himnasmi\u00f0ur",
       "url": "https://open.spotify.com/track/05CkMXd8poyR5x8hyHGyrY"
@@ -1517,6 +1517,32 @@
     },
     {
       "album": {
+        "name": "This Will Be Us",
+        "url": "https://open.spotify.com/album/2QQrvgTX9dLwUTycq6gi2N"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        },
+        {
+          "name": "Deutsches Symphonie-Orchester Berlin",
+          "url": "https://open.spotify.com/artist/49TgMBH68KIFiOmLMoUOWY"
+        },
+        {
+          "name": "Robert Ames",
+          "url": "https://open.spotify.com/artist/0TArUQakaqRxFMynA8vA7q"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196840,
+      "name": "In Gray (Version for Orchestra)",
+      "url": "https://open.spotify.com/track/0ExwK9Msc2lSGFXUhjxrTb"
+    },
+    {
+      "album": {
         "name": "Gu\u00f0nad\u00f3ttir: In Gray (Version for Orchestra)",
         "url": "https://open.spotify.com/album/0fSneniBX3MjiFi5zPpCVp"
       },
@@ -1536,7 +1562,7 @@
       ],
       "date_added": "2026-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 196840,
       "name": "In Gray (Version for Orchestra)",
       "url": "https://open.spotify.com/track/39cHx3h4jrTasBAp8fRdGM"
@@ -2344,7 +2370,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 181680,
       "name": "Rennur Upp",
       "url": "https://open.spotify.com/track/3aadTYskcptJckrvN1v8lo"
@@ -2484,7 +2510,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-23",
+      "date_removed": null,
       "duration_ms": 215520,
       "name": "Ser\u00eda",
       "url": "https://open.spotify.com/track/0gByie4ptADcvfEEdFAFjB"
@@ -3434,7 +3460,7 @@
       ],
       "date_added": "2026-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 520186,
       "name": "Unveiled (Version for Orchestra)",
       "url": "https://open.spotify.com/track/1oDsHGoRXkxu1ZEFMybhH7"

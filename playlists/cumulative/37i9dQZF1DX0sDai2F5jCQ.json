@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "Your shortcut to the best new Hip Hop. Cover:Skepta",
+  "description": "Your shortcut to the best new Hip Hop. Cover: Offset",
   "name": "A1",
   "tracks": [
     {
@@ -268,7 +268,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 113376,
       "name": "2016",
       "url": "https://open.spotify.com/track/3UvjjcxvC6hOJON7OzRMDS"
@@ -2185,6 +2185,24 @@
     },
     {
       "album": {
+        "name": "Ben 10",
+        "url": "https://open.spotify.com/album/1US839apPDqjQ4C6SAbCUk"
+      },
+      "artists": [
+        {
+          "name": "DIBZ",
+          "url": "https://open.spotify.com/artist/6zFwkIEBUP5ASaxlgpniej"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160833,
+      "name": "Ben 10",
+      "url": "https://open.spotify.com/track/1mUJ0kk0U5qeMY4PO1kTv0"
+    },
+    {
+      "album": {
         "name": "Bend It Ova (feat. A Boogie Wit Da Hoodie & Big Freedia)",
         "url": "https://open.spotify.com/album/4M8sgmvLoYPeyh107EeO2r"
       },
@@ -3776,7 +3794,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 194000,
       "name": "City",
       "url": "https://open.spotify.com/track/5qhskGL06gUWmpvvoggkkj"
@@ -4488,7 +4506,7 @@
       ],
       "date_added": "2026-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 169411,
       "name": "CUTLASS",
       "url": "https://open.spotify.com/track/5jD8HMgbV74dlOA7WZdK1I"
@@ -5316,7 +5334,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 151179,
       "name": "E.T.",
       "url": "https://open.spotify.com/track/5J4PcF9jlWVNlTkXy8Lxu1"
@@ -5740,7 +5758,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 232087,
       "name": "F*CK YOURSELF FREESTYLE",
       "url": "https://open.spotify.com/track/7qn8jPsr9LLXEdZjSZPKDP"
@@ -7182,7 +7200,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 179130,
       "name": "GHOST DOG.",
       "url": "https://open.spotify.com/track/64cz9KrVR9Aa0r53ECpaor"
@@ -7718,6 +7736,46 @@
       "duration_ms": 130500,
       "name": "Hard Feelings",
       "url": "https://open.spotify.com/track/4MCg8Jj8P4tVnNY6MytUrk"
+    },
+    {
+      "album": {
+        "name": "Take Care (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2479Wl5cmBOwYtv7R2Lwoy"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213306,
+      "name": "Hate Sleeping Alone",
+      "url": "https://open.spotify.com/track/60lYKxEGm5MytZQeCC2yCD"
+    },
+    {
+      "album": {
+        "name": "GMFU",
+        "url": "https://open.spotify.com/album/0sjhU3kzHU2dfd6SVrzLIp"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Larissa Lambert",
+          "url": "https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176234,
+      "name": "Hating On Me (feat. Larissa Lambert)",
+      "url": "https://open.spotify.com/track/4UhYKGn8H0QIDD15uSmWRf"
     },
     {
       "album": {
@@ -11618,7 +11676,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 187223,
       "name": "Money Maker",
       "url": "https://open.spotify.com/track/0jgVmVHbfM7rbhxQQbdpPo"
@@ -16297,6 +16355,28 @@
     },
     {
       "album": {
+        "name": "SOUND OF THE SOUTH",
+        "url": "https://open.spotify.com/album/0l9xDGL3wCul1c8AkoarDJ"
+      },
+      "artists": [
+        {
+          "name": "BexBlu",
+          "url": "https://open.spotify.com/artist/5pXt1B1htTEbkBbQrgNbhy"
+        },
+        {
+          "name": "Paul Stephan",
+          "url": "https://open.spotify.com/artist/4mJjROPMjSeN3bcyUR2sXF"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167368,
+      "name": "SOUND OF THE SOUTH",
+      "url": "https://open.spotify.com/track/1F20jGNfCjT1qjuuE9lBkw"
+    },
+    {
+      "album": {
         "name": "SOUTH OF FRANCE (REMIX)",
         "url": "https://open.spotify.com/album/4owFc3Y0ot577RaREh58FR"
       },
@@ -19858,6 +19938,32 @@
       "duration_ms": 226000,
       "name": "Why Lie?",
       "url": "https://open.spotify.com/track/6NpWosxIza4XEiGk190FAy"
+    },
+    {
+      "album": {
+        "name": "GMFU",
+        "url": "https://open.spotify.com/album/0sjhU3kzHU2dfd6SVrzLIp"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Loe Shimmy",
+          "url": "https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169759,
+      "name": "Why Not (feat. Quavo & Loe Shimmy)",
+      "url": "https://open.spotify.com/track/3ag3REuwHRHF8kYQffQ8pn"
     },
     {
       "album": {

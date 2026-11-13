@@ -4,7 +4,7 @@
 
 > This is Carín León\. The essential tracks, all in one playlist.
 
-214 songs - 11 hr 17 min
+215 songs - 11 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Doliendo Bastante](https://open.spotify.com/track/1HRXCIvIgKbNMNu9qZQuP0) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [MUDA](https://open.spotify.com/album/2BiSmMZggEAlIKOFJATxut) | 2:45 | 2026-05-30 | 2026-10-05 |
 | [Doliendo Bastante \- Live From Japan](https://open.spotify.com/track/3cHJ4wvxLRoxbmRiaxFIwj) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Live From Japan](https://open.spotify.com/album/3ifXLJNgEjwzoOXWGv7oPF) | 3:10 | 2026-10-05 | 2026-10-31 |
 | [DUEÑO DE TI](https://open.spotify.com/track/3fVoK5VLXYksHYMDf16RIT) | [Ramon Vega](https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [DUEÑO DE TI](https://open.spotify.com/album/0h4n1Mx0fmZQYm27TfS7xR) | 3:32 | 2025-05-17 | 2026-01-15 |
+| [Echando a Perder Se Aprende](https://open.spotify.com/track/3TWVJACPmt83yJD92zpoV9) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [MudaH](https://open.spotify.com/album/7KpY255V8Z2lC5du1920wJ) | 2:57 | 2026-11-13 |  |
 | [El Amor De Mi Herida](https://open.spotify.com/track/0QCTjU9xOvdDfe9LXEmxeT) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Palabra De To's](https://open.spotify.com/album/2ZzClIM2jdVPjt7HBICDQP) | 2:07 | 2024-12-09 |  |
 | [El Amor De Tu Vida](https://open.spotify.com/track/5HpXH64cSBNu26yhw3vK37) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Tony Melendez](https://open.spotify.com/artist/2xtVF7p8OnfvOmTExIoknF) | [El Amor De Tu Vida](https://open.spotify.com/album/0TkiwzRoKzV332NLyvnKjJ) | 2:43 | 2022-06-01 | 2023-08-20 |
 | [El Amor De Tu Vida](https://open.spotify.com/track/1blUrWE9p1tmZXHKblhEdU) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Tony Melendez](https://open.spotify.com/artist/2xtVF7p8OnfvOmTExIoknF) | [El Amor De Tu Vida](https://open.spotify.com/album/40kG7l7Z88lN4rkoVTCcNw) | 2:43 | 2026-04-25 |  |
@@ -83,7 +84,7 @@
 | [It Was Always You \(Siempre Fuiste Tú\)](https://open.spotify.com/track/74XgsdImAXUs6VDcmYqbDl) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [It Was Always You \(Siempre Fuiste Tú\)](https://open.spotify.com/album/59P1FibnLGvDRl3jaMgimk) | 3:29 | 2024-03-30 | 2024-08-12 |
 | [La Boda del Huitlacoche \- En Vivo](https://open.spotify.com/track/7ewyZwEMNtt0lqtucOD4vs) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Los Honorables](https://open.spotify.com/artist/3FBJxYbSWdf4s3b7qKbjRL) | [Borrachera Con Los Honorables \(En Vivo\)](https://open.spotify.com/album/5Js6rpaXDIBbdJA5Xn8AYd) | 3:08 | 2023-08-25 | 2026-04-25 |
 | [La Boda Del Huitlacoche \- Live](https://open.spotify.com/track/1Tcm4Qi0lbzXofH11MIzJs) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Borrachera Con Los Honorables \(Live\)](https://open.spotify.com/album/6dvpGPwp36h1DYPUbp2dmv) | 3:08 | 2022-06-01 | 2023-08-26 |
-| [La Buena](https://open.spotify.com/track/3l4k6rckgBZodaRpfMRbDA) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [La Buena](https://open.spotify.com/album/6pJpCycVCDwv5gV1Q5Ql7r) | 2:16 | 2026-04-26 |  |
+| [La Buena](https://open.spotify.com/track/3l4k6rckgBZodaRpfMRbDA) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [La Buena](https://open.spotify.com/album/6pJpCycVCDwv5gV1Q5Ql7r) | 2:16 | 2026-04-26 | 2026-11-13 |
 | [La Chancleta](https://open.spotify.com/track/5XZvJ6snWZ66bKyoPZm7wz) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U) | [La Chancleta](https://open.spotify.com/album/4F17JOxOh0m4lMrwgJS6iy) | 3:01 | 2024-08-25 | 2024-12-16 |
 | [La Esquina del Mall](https://open.spotify.com/track/3WtymOJb6mGqTzU9wlRzck) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [La Esquina del Mall](https://open.spotify.com/album/6TJiIMlNiG56NiToULGmF8) | 3:27 | 2022-10-11 | 2025-03-16 |
 | [La Falta](https://open.spotify.com/track/7Ex9Z4MqgbHNiwQJHnXj0R) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [La Falta](https://open.spotify.com/album/6ZEqDHzgAxGE7ZHOk75ZuX) | 3:08 | 2022-07-28 | 2023-05-27 |

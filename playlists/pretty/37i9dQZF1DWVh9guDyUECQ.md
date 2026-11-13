@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 
 > Lo mejor del Trap, Rap, R&B, Afrobeats y Reggaeton Cristiano\. Foto: Alex Zurdo
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,917 likes - 80 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,936 likes - 80 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

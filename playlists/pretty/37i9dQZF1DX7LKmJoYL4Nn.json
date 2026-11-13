@@ -1,6 +1,6 @@
 {
   "description": "Songs from \u201cENSEMBLE STARS!!\u201d \u00a9 2014-2019 Happy Elements K.K\n",
-  "num_followers": 63475,
+  "num_followers": 63481,
   "original_name": "ENSEMBLE STARS!!",
   "owner": {
     "name": "Spotify",
@@ -1067,6 +1067,26 @@
     {
       "added_at": "2026-10-09 16:26:26",
       "album": {
+        "name": "Jin & Akiomi\u300c\u30cf\u30ca\u30cb\u30ca\u30ec\uff01\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 Extra",
+        "url": "https://open.spotify.com/album/30ZTn3ofR3ISSO1cdY2OGO"
+      },
+      "artists": [
+        {
+          "name": "Jin & Akiomi",
+          "url": "https://open.spotify.com/artist/3ZF3KhNQq8uXuQul8EJVC6"
+        },
+        {
+          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
+          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
+        }
+      ],
+      "duration_ms": 199112,
+      "name": "\u30cf\u30ca\u30cb\u30ca\u30ec\uff01",
+      "url": "https://open.spotify.com/track/32Rqmby8BxNZUvjcbvO88C"
+    },
+    {
+      "added_at": "2026-10-09 16:26:26",
+      "album": {
         "name": "\u300c\u4eca\u65e5\u3082\u63a8\u3057\u304c\u63a8\u3057\u3067\u5c0a\u3044\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 \u30d0\u30e9\u30a8\u30c6\u30a3\u30bd\u30f3\u30b0\u30b7\u30ea\u30fc\u30ba \u7a76\u6975\u306e9\u66f2",
         "url": "https://open.spotify.com/album/694p5vvxMd6Fpf2BwdHKCD"
       },
@@ -1139,26 +1159,6 @@
       "duration_ms": 449210,
       "name": "\u4eca\u65e5\u3082\u63a8\u3057\u304c\u63a8\u3057\u3067\u5c0a\u3044",
       "url": "https://open.spotify.com/track/5S8D0cPG9I8hbJtZo2kyoD"
-    },
-    {
-      "added_at": "2026-10-09 16:26:26",
-      "album": {
-        "name": "Jin & Akiomi\u300c\u30cf\u30ca\u30cb\u30ca\u30ec\uff01\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 Extra",
-        "url": "https://open.spotify.com/album/30ZTn3ofR3ISSO1cdY2OGO"
-      },
-      "artists": [
-        {
-          "name": "Jin & Akiomi",
-          "url": "https://open.spotify.com/artist/3ZF3KhNQq8uXuQul8EJVC6"
-        },
-        {
-          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
-          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
-        }
-      ],
-      "duration_ms": 199112,
-      "name": "\u30cf\u30ca\u30cb\u30ca\u30ec\uff01",
-      "url": "https://open.spotify.com/track/32Rqmby8BxNZUvjcbvO88C"
     },
     {
       "added_at": "2026-10-09 16:26:26",

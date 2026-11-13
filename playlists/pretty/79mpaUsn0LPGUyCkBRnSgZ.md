@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 799 songs - 2 day 3 hr 42 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 801 songs - 2 day 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -807,5 +807,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 797 | [The thing](https://open.spotify.com/track/5R56hCdQMPGW4XXNoCqMK9) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [Jazz dreams](https://open.spotify.com/album/04vD00822fgNjeKsJTldbT) | 2:08 |
 | 798 | [Begin Now!](https://open.spotify.com/track/0j7HViAeH0Z1tMk5SDYaXw) | [The Olivia Tremor Control](https://open.spotify.com/artist/4a2nAPF15Gv8V65Ba3IJSB) | [The Same Place](https://open.spotify.com/album/22Qa4J7PkfP23xfqx4QBat) | 2:15 |
 | 799 | [Alyse](https://open.spotify.com/track/2D2ForDZ3hTmpvVawDDjxX) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [SWALLOW!](https://open.spotify.com/album/3dQzmmWFcow0z84wGW6RpD) | 3:51 |
+| 800 | [100% Legal Intro](https://open.spotify.com/track/6dFVY4JKZLMsAsxE7bCwyf) | [300SkullsAndCounting](https://open.spotify.com/artist/7hGgwyIQYX5u1XU8asjH63), [Jenny Sparks](https://open.spotify.com/artist/0S8h1aYM60QtOHIKqWfNvf) | [THIS IS SPA TOWN!](https://open.spotify.com/album/621WlWIqOod29HG6km5Olf) | 3:25 |
+| 801 | [Magical Dream](https://open.spotify.com/track/3UteqPisakwAwZ1xKjERqf) | [808 State](https://open.spotify.com/artist/7hFdUW64G4iU1tz46ITRfN) | [Ninety](https://open.spotify.com/album/46z1u29jqg6fZA6mAO2E8Y) | 3:52 |
 
-Snapshot ID: `AAAJ60qp2N6UTOY7ft6kxlF0OKI24skw`
+Snapshot ID: `AAAJ7hVOKI8JGv06z2Y64hlFxdApUuLR`

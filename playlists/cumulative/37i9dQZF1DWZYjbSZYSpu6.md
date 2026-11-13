@@ -2,9 +2,9 @@
 
 ### [K\-Pop Duets \(러블리 듀엣\)](https://open.spotify.com/playlist/37i9dQZF1DWZYjbSZYSpu6)
 
-> Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers\. \(Cover: Crush\)
+> Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers\. \(Cover: Izykite\)
 
-300 songs - 17 hr 31 min
+301 songs - 17 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,7 +120,7 @@
 | [Journey](https://open.spotify.com/track/0bJK7JJxK8jph9Nazai0Dr) | [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79), [LEE SUHYUN](https://open.spotify.com/artist/6zfPiJgoaqNPHsW3fsUlBN) | [Journey](https://open.spotify.com/album/2EQ9kO7mz10ZOvopsViCp8) | 3:30 | 2025-02-20 | 2025-08-02 |
 | [Just Good](https://open.spotify.com/track/1Q7BxZ0eWJ0nY08idRET5r) | [Harryan Yoonsoan](https://open.spotify.com/artist/1yiaSLGVlq43ZC9pFLQ8lQ) | [Just Good](https://open.spotify.com/album/0R0SuB559BvKENJYqZelUS) | 2:36 | 2022-03-24 | 2022-07-29 |
 | [Last Scene \(Feat\. Wonstein\)](https://open.spotify.com/track/6OPd1gGT2gRadClWhzcPit) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [A flower bookmark, Pt\. 3](https://open.spotify.com/album/4TeDL95L9OTCpYnuQwlrwY) | 4:03 | 2025-06-10 |  |
-| [Layin' Low \(feat\. Jooyoung\)](https://open.spotify.com/track/1B2vkECYhw0XEcyOexAq6e) | [HYOLYN](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ), [Jooyoung](https://open.spotify.com/artist/1vct46rBqLNRbE9wCibXUH) | [Layin' Low \(feat\. Jooyoung\)](https://open.spotify.com/album/6wPJh6aQa1SoplBJcDPlZW) | 3:08 | 2022-03-24 |  |
+| [Layin' Low \(feat\. Jooyoung\)](https://open.spotify.com/track/1B2vkECYhw0XEcyOexAq6e) | [HYOLYN](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ), [Jooyoung](https://open.spotify.com/artist/1vct46rBqLNRbE9wCibXUH) | [Layin' Low \(feat\. Jooyoung\)](https://open.spotify.com/album/6wPJh6aQa1SoplBJcDPlZW) | 3:08 | 2022-03-24 | 2026-11-13 |
 | [Lemon \(feat\. Colde\)](https://open.spotify.com/track/0YxrpGXvAX6RsvdwRky6qN) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y), [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [Querencia](https://open.spotify.com/album/1p2OBhqq0d1N8awjHV9xA3) | 3:22 | 2022-03-24 | 2022-04-20 |
 | [Let Me Go \(with TAEYEON\)](https://open.spotify.com/track/0W1BHowUDWND1AIQU6nUbD) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [with HER](https://open.spotify.com/album/2NBgvn1II3DilIlJIEL5tW) | 3:31 | 2022-07-25 | 2024-04-19 |
 | [Let Me Go \(with TAEYEON\)](https://open.spotify.com/track/23y3tFEhkTzBT46gRU6tjv) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [with HER](https://open.spotify.com/album/4sHKlMflBj4kKQUmu2HPhv) | 3:31 | 2022-03-24 | 2022-07-29 |
@@ -156,6 +156,7 @@
 | [Mayday \(Feat\. Joy\)](https://open.spotify.com/track/3k7ikTNf1Ms0ZfTsoe9Blk) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [homemade 1](https://open.spotify.com/album/75yTA2QkJzFi33JRw1q7El) | 3:19 | 2022-04-21 | 2022-07-26 |
 | [Me without you \(feat\. Moon Byul of MAMAMOO\)](https://open.spotify.com/track/3FfvXpIMyw29AJ3ghGXEJ5) | [Xydo](https://open.spotify.com/artist/0vcbn6MqAvgM8Gh6wh8d6X), [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [Me without you \(feat\. Moon Byul of MAMAMOO\)](https://open.spotify.com/album/4eld4LZK1hzHeJZuBw8n35) | 3:31 | 2022-03-24 | 2022-07-29 |
 | [Meet Me At Your Place \(Feat\. KANTO\)](https://open.spotify.com/track/0To6ccckBxRNuKkoG8xku1) | [1%](https://open.spotify.com/artist/4Eyqj9gm4OX7A6IltsD5W7), [Kanto](https://open.spotify.com/artist/1Pr77yszl1ikj6k9sy4Cju) | [Meet Me At Your Place](https://open.spotify.com/album/0yrtUoCc020xe7Zy3Mu7vd) | 3:00 | 2022-06-18 | 2022-07-05 |
+| [Milk Cocoa](https://open.spotify.com/track/4EeeqhHAd1q692ZyJd4CCS) | [Izykite](https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx), [jeebanoff](https://open.spotify.com/artist/6FK6uP46ntwU9gaQQxTlDV) | [Milk Cocoa](https://open.spotify.com/album/5XNp2xMEer6ulAh6pxU5R1) | 2:53 | 2026-11-12 |  |
 | [Mirror Love \(Feat\. NIve\)](https://open.spotify.com/track/3i6tUg0L5wVklyUfZ1igji) | [Jang Soo Bin](https://open.spotify.com/artist/5f1qpcqhDl49v5gKln3zl2), [NIve](https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF) | [Mirror Love \(Feat\. NIve\)](https://open.spotify.com/album/0LYqX9fGYTTCJvMg6ehcVq) | 3:59 | 2025-11-06 | 2025-12-22 |
 | [Mise en scène](https://open.spotify.com/track/0wIwrT28ZIAHdJsTgKhAt9) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Mise en scène](https://open.spotify.com/album/2IcyuoBzNE2AaaRzbOORd4) | 2:58 | 2026-10-15 |  |
 | [Mugshot \(Feat\. UNE\)](https://open.spotify.com/track/2euKIWbG8ahCaXIcr8RKer) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [UNE](https://open.spotify.com/artist/1gPI21PhFmfBqPP118h5rS) | [blanc](https://open.spotify.com/album/1fUwVSrt6qTwkpWBmb5HDL) | 3:01 | 2022-08-12 | 2022-11-02 |

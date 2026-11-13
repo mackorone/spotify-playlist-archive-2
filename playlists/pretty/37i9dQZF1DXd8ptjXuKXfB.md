@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8ptjXuKXfB.md) - [plain]
 
 > A legmenőbb és legtrendibb dalok egy helyen 🔥🔥🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,523 likes - 80 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,532 likes - 80 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8ptjXuKXfB.md) - [plain]
 | 64 | [reflex](https://open.spotify.com/track/6GJOamdpyJv4Yb5JDD4R1F) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG), [Only U](https://open.spotify.com/artist/7p5yGL3yNq2pqUUKvt2vnt) | [civil](https://open.spotify.com/album/2VPjzGe5Sd8Vvj8sbzAH9N) | 2:43 |
 | 65 | [VÁRJ MEG](https://open.spotify.com/track/4RyGoGUAR8cAC7hA9qzc5b) | [VZS](https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV), [RZMVS](https://open.spotify.com/artist/2OFqNrzP6JRCfsX9xglMH4) | [HA MEGHALOK SE](https://open.spotify.com/album/5tUNJHOtRKtuftYTS5EVfZ) | 2:45 |
 | 66 | [STARBOY](https://open.spotify.com/track/2KlpczOaQj1KZEZeWVtIfV) | [BELANO](https://open.spotify.com/artist/3YuXDaxA5aNH0yA4SLeEPA) | [STARBOY](https://open.spotify.com/album/1RBFuiXVEbKXBC2ocWf9AE) | 2:36 |
-| 67 | [KERTES HÁZ](https://open.spotify.com/track/1YEzjWjdDNHFeycih2VNGm) | [LMEN PRALA](https://open.spotify.com/artist/3IIFNhvPllMor8rcbecmSj) | [KERTES HÁZ](https://open.spotify.com/album/1ny0U9RJ5otFtQwBpyxfDd) | 2:19 |
-| 68 | [Csurran, cseppen](https://open.spotify.com/track/17WGfCmpgardtW5rRbaE7T) | [Majka](https://open.spotify.com/artist/0D8reSG6hzc5KEQWZPYGFB) | [Csurran, cseppen](https://open.spotify.com/album/4qfxHp5vOfiCHKXwtEcwcM) | 4:10 |
+| 67 | [Csurran, cseppen](https://open.spotify.com/track/17WGfCmpgardtW5rRbaE7T) | [Majka](https://open.spotify.com/artist/0D8reSG6hzc5KEQWZPYGFB) | [Csurran, cseppen](https://open.spotify.com/album/4qfxHp5vOfiCHKXwtEcwcM) | 4:10 |
+| 68 | [KERTES HÁZ](https://open.spotify.com/track/1YEzjWjdDNHFeycih2VNGm) | [LMEN PRALA](https://open.spotify.com/artist/3IIFNhvPllMor8rcbecmSj) | [KERTES HÁZ](https://open.spotify.com/album/1ny0U9RJ5otFtQwBpyxfDd) | 2:19 |
 | 69 | [Beef](https://open.spotify.com/track/0aiD9jQDJOWzGoFlYOZVUe) | [bongor](https://open.spotify.com/artist/5HWC7PRwfVezYNVGggeCYD), [Kapitány Máté](https://open.spotify.com/artist/2Z3ar2v1UZV7rR8R4qZMTn) | [EXTÁZIS](https://open.spotify.com/album/57tS8G2oP8FAFzuczfb1V5) | 3:04 |
 | 70 | [erotika](https://open.spotify.com/track/6WsEsdHsrvxCW47qLE25fG) | [ByeAlex és a Slepp](https://open.spotify.com/artist/2dmFGufs1lJpgKnb5NyPNS) | [elterelés](https://open.spotify.com/album/3qmORfcKkMXuIEqm3b7BMc) | 2:48 |
 | 71 | [Midnight \(The Hanging Tree\)](https://open.spotify.com/track/38MbUy2C0FLv6exayPlImu) | [HOSH](https://open.spotify.com/artist/3qoTlYFOahAlAh9ee3qnbs), [1979](https://open.spotify.com/artist/0L4gqdrMNbRIbNKzgcBXG6), [Jalja](https://open.spotify.com/artist/2KgiNo5JQEyIQdGv2Wyh4R) | [Midnight \(The Hanging Tree\)](https://open.spotify.com/album/6YzV3Syw4CNX3R9IaTfnSh) | 2:58 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8ptjXuKXfB.md) - [plain]
 | 75 | [hungarian mambo](https://open.spotify.com/track/5sTAUXDj9tEQXMBqrA8HH9) | [ByeAlex és a Slepp](https://open.spotify.com/artist/2dmFGufs1lJpgKnb5NyPNS) | [hungarian mambo](https://open.spotify.com/album/4y2M44GwVTymRDOryRkyXe) | 3:15 |
 | 76 | [civil](https://open.spotify.com/track/3zDopiQnon32IK2Am0jmpH) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG) | [civil](https://open.spotify.com/album/2VPjzGe5Sd8Vvj8sbzAH9N) | 3:02 |
 | 77 | [WAZZUP](https://open.spotify.com/track/0FfhG9yxq8tYUJRnV6qo0c) | [MAXI](https://open.spotify.com/artist/3vhX1jGgjZ3DxaCBIJuUyO), [VZS](https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV) | [WAZZUP](https://open.spotify.com/album/2oEy6JwReTNCue0Nu45xhp) | 2:38 |
-| 78 | [Sephora](https://open.spotify.com/track/0spi2UrCGiakkBcKhGUlHE) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG) | [Sephora](https://open.spotify.com/album/57wKUH3yHkLcxx6F0yNQ0w) | 4:31 |
-| 79 | [SZEXFANTOM \- Bonus Track](https://open.spotify.com/track/1Azz15IP4Fuf07sSc2DcSS) | [BELANO](https://open.spotify.com/artist/3YuXDaxA5aNH0yA4SLeEPA), [VINI](https://open.spotify.com/artist/7Ac0uxdCzBBRgjbtel2bbV) | [FASTLIFE](https://open.spotify.com/album/4YJ4h5yTSw8igrBGbkLrX1) | 2:16 |
+| 78 | [SZEXFANTOM \- Bonus Track](https://open.spotify.com/track/1Azz15IP4Fuf07sSc2DcSS) | [BELANO](https://open.spotify.com/artist/3YuXDaxA5aNH0yA4SLeEPA), [VINI](https://open.spotify.com/artist/7Ac0uxdCzBBRgjbtel2bbV) | [FASTLIFE](https://open.spotify.com/album/4YJ4h5yTSw8igrBGbkLrX1) | 2:16 |
+| 79 | [Sephora](https://open.spotify.com/track/0spi2UrCGiakkBcKhGUlHE) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG) | [Sephora](https://open.spotify.com/album/57wKUH3yHkLcxx6F0yNQ0w) | 4:31 |
 | 80 | [WAY TOO HIGH](https://open.spotify.com/track/17WIFL0Bicx4Eo3133nu4S) | [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5), [RZMVS](https://open.spotify.com/artist/2OFqNrzP6JRCfsX9xglMH4) | [SAVAGE](https://open.spotify.com/album/1vKMG0YR60YQc6L3pQ6Gaj) | 2:37 |
 
 Snapshot ID: `AAAAAL8QAoXUK4+eqdU9TXpVpMBs/iDU`

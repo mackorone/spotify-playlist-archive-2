@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Ama Dee in cover della playlist dell'R&B italiano \ud83e\udec0",
+  "description": "Amore Audio in cover della playlist dell'R&B italiano \ud83e\udec0",
   "name": "anima R&B",
   "tracks": [
     {
@@ -781,6 +781,24 @@
     },
     {
       "album": {
+        "name": "Affondo!",
+        "url": "https://open.spotify.com/album/695dnP9sppK2TMluO5bbsR"
+      },
+      "artists": [
+        {
+          "name": "Amore Audio",
+          "url": "https://open.spotify.com/artist/03OiOe7Bfr3XTNnbjvwjTT"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162816,
+      "name": "Affondo!",
+      "url": "https://open.spotify.com/track/5pA9TPYxL39qlgmH1Kh4M3"
+    },
+    {
+      "album": {
         "name": "Autoritratto",
         "url": "https://open.spotify.com/album/2NsZkYhrWMmsBkPIwT6TId"
       },
@@ -1152,7 +1170,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 212500,
       "name": "AMANTIDE",
       "url": "https://open.spotify.com/track/6qyH12X3ANKRc6IBTwMsqw"
@@ -5142,7 +5160,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 164872,
       "name": "Daiquiri",
       "url": "https://open.spotify.com/track/7MeKu9NnEyeEPE3cTu0TJh"
@@ -5398,7 +5416,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 188298,
       "name": "dentro di me",
       "url": "https://open.spotify.com/track/2ExQTMYEMaS77vaT9ySQAM"
@@ -6141,6 +6159,24 @@
     },
     {
       "album": {
+        "name": "Dormi bene",
+        "url": "https://open.spotify.com/album/5F1diuDRAYUcCq9wabC3ht"
+      },
+      "artists": [
+        {
+          "name": "Khamilla",
+          "url": "https://open.spotify.com/artist/7dFuhjMPisO71NDeJQCvyq"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226184,
+      "name": "Dormi bene",
+      "url": "https://open.spotify.com/track/4zmmoYOn4VWt6md4shagSd"
+    },
+    {
+      "album": {
         "name": "dormirai.",
         "url": "https://open.spotify.com/album/1ZSL82TDpcHjBvbcIMsrUQ"
       },
@@ -6424,7 +6460,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 174545,
       "name": "Effetto",
       "url": "https://open.spotify.com/track/6KYTunJD3VX7qhWYTqo4S7"
@@ -15837,6 +15873,24 @@
     },
     {
       "album": {
+        "name": "13esima Casa",
+        "url": "https://open.spotify.com/album/4sCbW37toIUY6oE1zAOwbR"
+      },
+      "artists": [
+        {
+          "name": "Yaraki",
+          "url": "https://open.spotify.com/artist/6NEJLQRMkIN8ud5ng05XIX"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169067,
+      "name": "Polo Nord",
+      "url": "https://open.spotify.com/track/4Gx9crSWmQDhEzJJ34me9r"
+    },
+    {
+      "album": {
         "name": "POMPELMO",
         "url": "https://open.spotify.com/album/7pxoglx2qjOPF6MXVBtphx"
       },
@@ -17908,6 +17962,24 @@
       "duration_ms": 204545,
       "name": "Senza te",
       "url": "https://open.spotify.com/track/0xaEoFkggmekGfQaTwuwk0"
+    },
+    {
+      "album": {
+        "name": "Senza tregua",
+        "url": "https://open.spotify.com/album/2OIyM7cAW9NwO0RiJg3bDy"
+      },
+      "artists": [
+        {
+          "name": "ANTONIA",
+          "url": "https://open.spotify.com/artist/7FHXOCS4B6dXsf5x3KmRr0"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144842,
+      "name": "Senza tregua",
+      "url": "https://open.spotify.com/track/4Puo8pyv152VIsyFrkT0pq"
     },
     {
       "album": {

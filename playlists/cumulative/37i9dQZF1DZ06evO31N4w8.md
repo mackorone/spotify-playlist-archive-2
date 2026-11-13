@@ -4,7 +4,7 @@
 
 > This is Los Rieleros Del Norte\. The essential tracks, all in one playlist.
 
-105 songs - 5 hr 34 min
+106 songs - 5 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Abrazado De Un Poste](https://open.spotify.com/track/70BFiMyeVvuTyOfcSsmQGk) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Prieta Orgullosa](https://open.spotify.com/album/3ax1gPCh8V8EJcMnThK30F) | 2:29 | 2022-06-12 | 2022-06-14 |
 | [Al Ver Que Te Vas](https://open.spotify.com/track/0DRAf1NW1dBCMJOq5r0RKV) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [20 Exitos Clásicos](https://open.spotify.com/album/61Iq2EMTDlr83Q5Smgbh1Y) | 3:28 | 2024-05-01 |  |
 | [Amor Ingrato](https://open.spotify.com/track/3WzL5T9QinwHJlwC8PjD04) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [20 Exitos Historicos, Vol\. 2](https://open.spotify.com/album/0A6Tcem0fgtdekMek63yrV) | 3:04 | 2024-08-15 |  |
-| [Amor Prohibido](https://open.spotify.com/track/1Pdf0Ra4DMrCeOQOYigle9) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [15 Exitos: La Maquina Musical Numero Uno](https://open.spotify.com/album/1zROvL56Rc1Ginre3mWSgD) | 3:34 | 2022-06-01 |  |
+| [Amor Prohibido](https://open.spotify.com/track/1Pdf0Ra4DMrCeOQOYigle9) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [15 Exitos: La Maquina Musical Numero Uno](https://open.spotify.com/album/1zROvL56Rc1Ginre3mWSgD) | 3:34 | 2022-06-01 | 2026-11-13 |
 | [Así De Dolido](https://open.spotify.com/track/3Hgmymo5ZhyVc11a34YSRf) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Así De Dolido](https://open.spotify.com/album/7cQk5n7IGnEVH86jVP8t4r) | 2:41 | 2025-09-10 | 2025-11-26 |
 | [Aunque Mal Paguen Ellas](https://open.spotify.com/track/5mHjquTjfkoKkFdOiMUWHw) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [En Tus Manos](https://open.spotify.com/album/4kN3maXuYFvA8aQKIS4GyD) | 3:42 | 2024-09-25 | 2026-04-09 |
 | [Aventura Pasada](https://open.spotify.com/track/5JchHTsognfG0pbnOVOGwU) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Aventura Pasada](https://open.spotify.com/album/6LIy3aEzPYRSbnqWMUeUtx) | 2:35 | 2022-06-01 |  |
@@ -68,6 +68,7 @@
 | [Me Lo Contaron Ayer](https://open.spotify.com/track/0lWHxgeKgWiNpUHKD7Y8QW) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Me Lo Contaron Ayer](https://open.spotify.com/album/6gu5C4B82H9RWekehc9qIm) | 3:03 | 2022-06-01 | 2022-10-13 |
 | [Mi Amor No Lo Mereces](https://open.spotify.com/track/0ocdFIkMTHJrGEGnph6g94) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Invencible](https://open.spotify.com/album/09bVCvqV5G7r8DIEls8zjB) | 2:39 | 2022-06-01 |  |
 | [Mi Libertad](https://open.spotify.com/track/1F2w6bwCoMuuRH46bi4u60) | [La Zenda Norteña](https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG), [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Mi Libertad](https://open.spotify.com/album/30dzWWHrTkkPscEAMQbybh) | 2:48 | 2026-04-09 | 2026-10-05 |
+| [Mi Libertad \(feat\. Los Rieleros Del Norte\)](https://open.spotify.com/track/3Aq3wdEeHJsO8km4qhCVd0) | [La Zenda Norteña](https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG), [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Mi Libertad \(feat\. Los Rieleros Del Norte\)](https://open.spotify.com/album/5PwFLH6fHiVpVf1eC7SLvD) | 2:48 | 2026-11-13 |  |
 | [Mi Primer Amor \(Meu Primeiro Amor\)](https://open.spotify.com/track/4MBykXKFPYkAmsZhe2kYDo) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Siempre Imitado, Jamas Igualado](https://open.spotify.com/album/35f4w9AcjnUdfJ174fgOz5) | 3:28 | 2022-06-01 |  |
 | [Ni Arrepentida](https://open.spotify.com/track/7qJ1VmcnkQI7etwyRBE5fT) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Ni Arrepentida](https://open.spotify.com/album/43PsyRpPmNrE8DVSiPWmFm) | 2:36 | 2022-06-01 | 2022-09-26 |
 | [Ni El Diablo Te Va A Querer](https://open.spotify.com/track/65mruN5u6IQMRIXubbhMQK) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Ni El Diablo Te Va A Querer](https://open.spotify.com/album/14ukGrCsnpYZcooY1fBfxY) | 2:54 | 2026-01-25 |  |

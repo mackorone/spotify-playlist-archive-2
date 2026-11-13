@@ -1,6 +1,6 @@
 {
   "description": "Aqu\u00ed no hay nostalgia, \u00a1se vino la pachanga!, y el <a href=\"spotify:user:spotify:playlist:37i9dQZF1DWT0pl0yubzJM\">Rock S\u00f3nico</a> tambi\u00e9n!",
-  "num_followers": 392206,
+  "num_followers": 392199,
   "original_name": "Los 90 Argentina",
   "owner": {
     "name": "Spotify",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-06-12 23:23:10",
       "album": {
-        "name": "Lo Mejor de Vilma Palma",
-        "url": "https://open.spotify.com/album/04ezQVYrGNcXyrBUl42NZi"
-      },
-      "artists": [
-        {
-          "name": "Vilma Palma e Vampiros",
-          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
-        }
-      ],
-      "duration_ms": 306000,
-      "name": "Auto rojo",
-      "url": "https://open.spotify.com/track/0TGi4ML897zq1qDcAheMIY"
-    },
-    {
-      "added_at": "2024-06-12 23:23:10",
-      "album": {
         "name": "Los Ladrones Sueltos",
         "url": "https://open.spotify.com/album/0mxTNx34dkX5uBPWu0pu1u"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 222133,
       "name": "No Le Dijo Nada",
       "url": "https://open.spotify.com/track/6zfTUzKLKRXeSzIl7DYPvq"
+    },
+    {
+      "added_at": "2024-06-12 23:23:10",
+      "album": {
+        "name": "Lo Mejor de Vilma Palma",
+        "url": "https://open.spotify.com/album/04ezQVYrGNcXyrBUl42NZi"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "duration_ms": 306000,
+      "name": "Auto rojo",
+      "url": "https://open.spotify.com/track/0TGi4ML897zq1qDcAheMIY"
     },
     {
       "added_at": "2024-06-12 23:23:10",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-06-12 23:23:10",
       "album": {
-        "name": "Acariciando Lo Aspero",
-        "url": "https://open.spotify.com/album/5UmrOPpQ3VmXmBRSvXMbcR"
-      },
-      "artists": [
-        {
-          "name": "Divididos",
-          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
-        }
-      ],
-      "duration_ms": 149533,
-      "name": "El 38",
-      "url": "https://open.spotify.com/track/2TKA7AOxNJk89Qp5iwzxzr"
-    },
-    {
-      "added_at": "2024-06-12 23:23:10",
-      "album": {
         "name": "Big Yuyo",
         "url": "https://open.spotify.com/album/2zABqsniagHwdKt0x6qgSi"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 210960,
       "name": "Me Late",
       "url": "https://open.spotify.com/track/3CizlnqcWoZp9Sthem7jPM"
+    },
+    {
+      "added_at": "2024-06-12 23:23:10",
+      "album": {
+        "name": "Acariciando Lo Aspero",
+        "url": "https://open.spotify.com/album/5UmrOPpQ3VmXmBRSvXMbcR"
+      },
+      "artists": [
+        {
+          "name": "Divididos",
+          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
+        }
+      ],
+      "duration_ms": 149533,
+      "name": "El 38",
+      "url": "https://open.spotify.com/track/2TKA7AOxNJk89Qp5iwzxzr"
     },
     {
       "added_at": "2024-06-12 23:23:10",
@@ -827,22 +827,6 @@
     {
       "added_at": "2024-06-12 23:23:10",
       "album": {
-        "name": "Gol De Mujer",
-        "url": "https://open.spotify.com/album/5qNbbDBwCJn5haKSWxsBJS"
-      },
-      "artists": [
-        {
-          "name": "Divididos",
-          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
-        }
-      ],
-      "duration_ms": 250106,
-      "name": "Nene de Antes",
-      "url": "https://open.spotify.com/track/0VZpqCugL1y5mBGPkw0foP"
-    },
-    {
-      "added_at": "2024-06-12 23:23:10",
-      "album": {
         "name": "Colecci\u00f3n Suprema",
         "url": "https://open.spotify.com/album/7mhDLAiRNZmqaP52huKp3t"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 194960,
       "name": "Para No Verte M\u00e1s",
       "url": "https://open.spotify.com/track/2KeidigK5po1qoREBuX35Z"
+    },
+    {
+      "added_at": "2024-06-12 23:23:10",
+      "album": {
+        "name": "Gol De Mujer",
+        "url": "https://open.spotify.com/album/5qNbbDBwCJn5haKSWxsBJS"
+      },
+      "artists": [
+        {
+          "name": "Divididos",
+          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
+        }
+      ],
+      "duration_ms": 250106,
+      "name": "Nene de Antes",
+      "url": "https://open.spotify.com/track/0VZpqCugL1y5mBGPkw0foP"
     },
     {
       "added_at": "2024-06-12 23:23:10",
@@ -991,18 +991,18 @@
     {
       "added_at": "2024-06-12 23:23:10",
       "album": {
-        "name": "A 15 Cm De La Realidad",
-        "url": "https://open.spotify.com/album/08Y1kgfEcH11p3hJopWslX"
+        "name": "Devorador De Corazones",
+        "url": "https://open.spotify.com/album/7nJFHb7cLQNlv710wRjbvH"
       },
       "artists": [
         {
-          "name": "Kapanga",
-          "url": "https://open.spotify.com/artist/2MLiASzGQHVMyORIApRGsp"
+          "name": "La Portuaria",
+          "url": "https://open.spotify.com/artist/0Q7HmY08qjZ6SrCb9DYji7"
         }
       ],
-      "duration_ms": 232066,
-      "name": "El Mono Relojero",
-      "url": "https://open.spotify.com/track/2RpzktQlb1SZGJBdC6eNIC"
+      "duration_ms": 178800,
+      "name": "Nada Es Igual",
+      "url": "https://open.spotify.com/track/3YLIsu2NZxqfEPj4ADA7WX"
     },
     {
       "added_at": "2024-06-12 23:23:10",
@@ -1023,18 +1023,18 @@
     {
       "added_at": "2024-06-12 23:23:10",
       "album": {
-        "name": "Devorador De Corazones",
-        "url": "https://open.spotify.com/album/7nJFHb7cLQNlv710wRjbvH"
+        "name": "A 15 Cm De La Realidad",
+        "url": "https://open.spotify.com/album/08Y1kgfEcH11p3hJopWslX"
       },
       "artists": [
         {
-          "name": "La Portuaria",
-          "url": "https://open.spotify.com/artist/0Q7HmY08qjZ6SrCb9DYji7"
+          "name": "Kapanga",
+          "url": "https://open.spotify.com/artist/2MLiASzGQHVMyORIApRGsp"
         }
       ],
-      "duration_ms": 178800,
-      "name": "Nada Es Igual",
-      "url": "https://open.spotify.com/track/3YLIsu2NZxqfEPj4ADA7WX"
+      "duration_ms": 232066,
+      "name": "El Mono Relojero",
+      "url": "https://open.spotify.com/track/2RpzktQlb1SZGJBdC6eNIC"
     },
     {
       "added_at": "2024-06-12 23:23:10",

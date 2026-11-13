@@ -1899,6 +1899,28 @@
     },
     {
       "album": {
+        "name": "MADE OF MAGIC",
+        "url": "https://open.spotify.com/album/6V7aiOy3cl1o1HZoeu8MfS"
+      },
+      "artists": [
+        {
+          "name": "LUNAKAI",
+          "url": "https://open.spotify.com/artist/4Ts4xfjHoEysIz3crghYjf"
+        },
+        {
+          "name": "Kari Aryeh",
+          "url": "https://open.spotify.com/artist/2Lt8k0ywBP6I95YzjqrH4s"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212049,
+      "name": "MADE OF MAGIC",
+      "url": "https://open.spotify.com/track/538tCg5oDkDNXVfky5JSnD"
+    },
+    {
+      "album": {
         "name": "Manchild",
         "url": "https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic"
       },

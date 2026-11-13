@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance</a> hits from the 90s and 00s!",
-  "num_followers": 1817370,
+  "num_followers": 1817474,
   "original_name": "Dance Classics",
   "owner": {
     "name": "Spotify",
@@ -83,42 +83,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Heads Will Roll",
-        "url": "https://open.spotify.com/album/4HYlbaWDkCNXXNWQEYl9sV"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        },
-        {
-          "name": "A-Trak",
-          "url": "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
-        }
-      ],
-      "duration_ms": 203920,
-      "name": "Heads Will Roll - A-Trak Remix Radio Edit",
-      "url": "https://open.spotify.com/track/0vBpyfpW2lARGh3AZFtWRi"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Homework",
-        "url": "https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y"
-      },
-      "artists": [
-        {
-          "name": "Daft Punk",
-          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
-        }
-      ],
-      "duration_ms": 429533,
-      "name": "Around the World",
-      "url": "https://open.spotify.com/track/1pKYYY0dkg23sQQXi0Q5zN"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Music Sounds Better With You",
         "url": "https://open.spotify.com/album/7Kusf5plZjl76X5ARWJbNO"
       },
@@ -143,6 +107,42 @@
       "duration_ms": 260906,
       "name": "Music Sounds Better With You - Radio Edit",
       "url": "https://open.spotify.com/track/1mv4lh1rW1K6xhxhJmEezy"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Homework",
+        "url": "https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "duration_ms": 429533,
+      "name": "Around the World",
+      "url": "https://open.spotify.com/track/1pKYYY0dkg23sQQXi0Q5zN"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Heads Will Roll",
+        "url": "https://open.spotify.com/album/4HYlbaWDkCNXXNWQEYl9sV"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        },
+        {
+          "name": "A-Trak",
+          "url": "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
+        }
+      ],
+      "duration_ms": 203920,
+      "name": "Heads Will Roll - A-Trak Remix Radio Edit",
+      "url": "https://open.spotify.com/track/0vBpyfpW2lARGh3AZFtWRi"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Just Be",
-        "url": "https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 177026,
-      "name": "Traffic - Radio Edit",
-      "url": "https://open.spotify.com/track/6pqFWRuybCtxerWC7B4RgF"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Show Me Love (feat. Robin S)",
         "url": "https://open.spotify.com/album/32SxAN231WZpNVzHaFZ9O2"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 185613,
       "name": "Show Me Love (feat. Robin S) - Radio Edit",
       "url": "https://open.spotify.com/track/5Nzph7bpgv2GNh2DcVX29T"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Just Be",
+        "url": "https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 177026,
+      "name": "Traffic - Radio Edit",
+      "url": "https://open.spotify.com/track/6pqFWRuybCtxerWC7B4RgF"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Just Be",
-        "url": "https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 443426,
-      "name": "Adagio For Strings",
-      "url": "https://open.spotify.com/track/6a7mLvgueio7SuHgcacywb"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Orbital 2",
         "url": "https://open.spotify.com/album/1T7efw93w96udljrPyL44G"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 567106,
       "name": "Halcyon and On and On",
       "url": "https://open.spotify.com/track/6l0LbTF2V77M3LPpcOBmqX"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Just Be",
+        "url": "https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 443426,
+      "name": "Adagio For Strings",
+      "url": "https://open.spotify.com/track/6a7mLvgueio7SuHgcacywb"
     },
     {
       "added_at": "2024-07-12 15:40:20",

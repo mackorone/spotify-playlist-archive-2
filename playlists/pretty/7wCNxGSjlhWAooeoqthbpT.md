@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7wCNxGSjlhWAooeoqthbpT.md) - [plain]
 
 > Vibe out with Epic Records cover: Future, Drake, Travis Scott, &amp; Sexy Redd
 
-[Epic Records](https://open.spotify.com/user/epicrecords) - 7,768 likes - 39 songs - 1 hr 56 min
+[Epic Records](https://open.spotify.com/user/epicrecords) - 7,765 likes - 39 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

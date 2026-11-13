@@ -13611,6 +13611,24 @@
     },
     {
       "album": {
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/6WVVBJpuRnqhdlmaZnzSSS"
+      },
+      "artists": [
+        {
+          "name": "Kubla",
+          "url": "https://open.spotify.com/artist/7KgcPkeaO1Rpa4MFl2sLOm"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401184,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/06jcH83GRNu41j0jpF9y94"
+    },
+    {
+      "album": {
         "name": "Great Expectations",
         "url": "https://open.spotify.com/album/3yNhczLbYrRBPTdDCqn398"
       },
@@ -20692,7 +20710,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 185973,
       "name": "Masculine Love",
       "url": "https://open.spotify.com/track/4qwFfzcMM1qoOxxmCJBti4"

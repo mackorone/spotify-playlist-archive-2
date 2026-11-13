@@ -1,6 +1,6 @@
 {
   "description": "Palos de ayer, cl\u00e1sicos para siempre. Foto: Bad Bunny.",
-  "num_followers": 611309,
+  "num_followers": 611411,
   "original_name": "Trap viejito",
   "owner": {
     "name": "Spotify",
@@ -75,34 +75,6 @@
     {
       "added_at": "2026-08-11 14:10:49",
       "album": {
-        "name": "Trap Capos II",
-        "url": "https://open.spotify.com/album/0OQZL8ymQ9RDHaBULw9kCG"
-      },
-      "artists": [
-        {
-          "name": "Trap Capos",
-          "url": "https://open.spotify.com/artist/2pQAUIesBqfT87PaM1ijtk"
-        },
-        {
-          "name": "Noriel",
-          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        }
-      ],
-      "duration_ms": 260386,
-      "name": "De las 2 (feat. Bad Bunny & Arc\u00e1ngel)",
-      "url": "https://open.spotify.com/track/4DS7HoqrKq1dDjeYOKBlu9"
-    },
-    {
-      "added_at": "2026-08-11 14:10:49",
-      "album": {
         "name": "Tu No Vive Asi (feat. Mambo Kingz & DJ Luian)",
         "url": "https://open.spotify.com/album/12yPsAPzZ5584HxpItKBUn"
       },
@@ -127,6 +99,34 @@
       "duration_ms": 264000,
       "name": "Tu No Vive Asi (feat. Mambo Kingz & DJ Luian)",
       "url": "https://open.spotify.com/track/6NSMQFKgjpQb0KkjMDYIK0"
+    },
+    {
+      "added_at": "2026-08-11 14:10:49",
+      "album": {
+        "name": "Trap Capos II",
+        "url": "https://open.spotify.com/album/0OQZL8ymQ9RDHaBULw9kCG"
+      },
+      "artists": [
+        {
+          "name": "Trap Capos",
+          "url": "https://open.spotify.com/artist/2pQAUIesBqfT87PaM1ijtk"
+        },
+        {
+          "name": "Noriel",
+          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "duration_ms": 260386,
+      "name": "De las 2 (feat. Bad Bunny & Arc\u00e1ngel)",
+      "url": "https://open.spotify.com/track/4DS7HoqrKq1dDjeYOKBlu9"
     },
     {
       "added_at": "2026-08-11 14:10:49",
@@ -751,6 +751,22 @@
     {
       "added_at": "2026-08-11 14:10:49",
       "album": {
+        "name": "HECHO A MANO",
+        "url": "https://open.spotify.com/album/7vpRavovNYZYzEOieN5pvU"
+      },
+      "artists": [
+        {
+          "name": "YSY A",
+          "url": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
+        }
+      ],
+      "duration_ms": 160078,
+      "name": "FULL ICE (prod. ORODEMBOW)",
+      "url": "https://open.spotify.com/track/2wK7D7i9bfVt3uLjFsZSEU"
+    },
+    {
+      "added_at": "2026-08-11 14:10:49",
+      "album": {
         "name": "Ahora Me Llama",
         "url": "https://open.spotify.com/album/5G7fWlRbbz0ebcdTaEomEu"
       },
@@ -795,18 +811,18 @@
     {
       "added_at": "2026-08-11 14:10:49",
       "album": {
-        "name": "HECHO A MANO",
-        "url": "https://open.spotify.com/album/7vpRavovNYZYzEOieN5pvU"
+        "name": "Bonus Trap",
+        "url": "https://open.spotify.com/album/7IAJrYDUHZhIGXY6pY1GPX"
       },
       "artists": [
         {
-          "name": "YSY A",
-          "url": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
         }
       ],
-      "duration_ms": 160078,
-      "name": "FULL ICE (prod. ORODEMBOW)",
-      "url": "https://open.spotify.com/track/2wK7D7i9bfVt3uLjFsZSEU"
+      "duration_ms": 133880,
+      "name": "Bounce",
+      "url": "https://open.spotify.com/track/3EO0tGvdBCw6vdChaNvVlc"
     },
     {
       "added_at": "2026-08-11 14:10:49",
@@ -843,18 +859,22 @@
     {
       "added_at": "2026-08-11 14:10:49",
       "album": {
-        "name": "Bonus Trap",
-        "url": "https://open.spotify.com/album/7IAJrYDUHZhIGXY6pY1GPX"
+        "name": "Coronamos",
+        "url": "https://open.spotify.com/album/43w0kG30A0HlctbjuW4ryR"
       },
       "artists": [
         {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+          "name": "Lito Kirino",
+          "url": "https://open.spotify.com/artist/68w2t0wbrGnxSIUHzWs5bt"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
         }
       ],
-      "duration_ms": 133880,
-      "name": "Bounce",
-      "url": "https://open.spotify.com/track/3EO0tGvdBCw6vdChaNvVlc"
+      "duration_ms": 188333,
+      "name": "Coronamos",
+      "url": "https://open.spotify.com/track/6H1XQeSmnfImLOcdFn5x43"
     },
     {
       "added_at": "2026-08-11 14:10:49",
@@ -883,26 +903,6 @@
       "duration_ms": 221802,
       "name": "Vengo De Nada",
       "url": "https://open.spotify.com/track/5pUlI3bMpx2GPu7rXBbk0w"
-    },
-    {
-      "added_at": "2026-08-11 14:10:49",
-      "album": {
-        "name": "Coronamos",
-        "url": "https://open.spotify.com/album/43w0kG30A0HlctbjuW4ryR"
-      },
-      "artists": [
-        {
-          "name": "Lito Kirino",
-          "url": "https://open.spotify.com/artist/68w2t0wbrGnxSIUHzWs5bt"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 188333,
-      "name": "Coronamos",
-      "url": "https://open.spotify.com/track/6H1XQeSmnfImLOcdFn5x43"
     },
     {
       "added_at": "2026-08-11 14:10:49",
@@ -1195,22 +1195,22 @@
     {
       "added_at": "2026-08-11 14:10:49",
       "album": {
-        "name": "A.D.R.O.M.I.C.F.M.S. 2",
-        "url": "https://open.spotify.com/album/2p9pUKKk5lNjwOY6IbILXu"
+        "name": "#Ysya2020 Vol. 5 - Silbando",
+        "url": "https://open.spotify.com/album/7cQuRxvG0SivoV6YCyrJY5"
       },
       "artists": [
         {
-          "name": "Yung Beef",
-          "url": "https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch"
+          "name": "YSY A",
+          "url": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
         },
         {
-          "name": "Steve Lean",
-          "url": "https://open.spotify.com/artist/43C3LVD6x8GLvputT34r6T"
+          "name": "CLUB HATS",
+          "url": "https://open.spotify.com/artist/3Nk2mAv4k4ZOzrP5tpXL2G"
         }
       ],
-      "duration_ms": 191346,
-      "name": "Ready Pa Morir",
-      "url": "https://open.spotify.com/track/6kFpUyaEiuKriL9bhHLZqR"
+      "duration_ms": 119438,
+      "name": "#Ysya2020 Vol. 5 - Silbando",
+      "url": "https://open.spotify.com/track/6TI490muJ6RgFsYJc626BZ"
     },
     {
       "added_at": "2026-08-11 14:10:49",
@@ -1231,6 +1231,26 @@
       "duration_ms": 198703,
       "name": "KHEA: Bzrp Music Sessions, Vol. 34/66",
       "url": "https://open.spotify.com/track/7bidsoy3nzCDNYzAzrV7NN"
+    },
+    {
+      "added_at": "2026-08-11 14:10:49",
+      "album": {
+        "name": "A.D.R.O.M.I.C.F.M.S. 2",
+        "url": "https://open.spotify.com/album/2p9pUKKk5lNjwOY6IbILXu"
+      },
+      "artists": [
+        {
+          "name": "Yung Beef",
+          "url": "https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch"
+        },
+        {
+          "name": "Steve Lean",
+          "url": "https://open.spotify.com/artist/43C3LVD6x8GLvputT34r6T"
+        }
+      ],
+      "duration_ms": 191346,
+      "name": "Ready Pa Morir",
+      "url": "https://open.spotify.com/track/6kFpUyaEiuKriL9bhHLZqR"
     },
     {
       "added_at": "2026-08-11 14:10:49",
@@ -1263,26 +1283,6 @@
       "duration_ms": 273321,
       "name": "T\u00fa No Amas",
       "url": "https://open.spotify.com/track/5J64qSSq0VZuh0CiI9o9Nq"
-    },
-    {
-      "added_at": "2026-08-11 14:10:49",
-      "album": {
-        "name": "#Ysya2020 Vol. 5 - Silbando",
-        "url": "https://open.spotify.com/album/7cQuRxvG0SivoV6YCyrJY5"
-      },
-      "artists": [
-        {
-          "name": "YSY A",
-          "url": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
-        },
-        {
-          "name": "CLUB HATS",
-          "url": "https://open.spotify.com/artist/3Nk2mAv4k4ZOzrP5tpXL2G"
-        }
-      ],
-      "duration_ms": 119438,
-      "name": "#Ysya2020 Vol. 5 - Silbando",
-      "url": "https://open.spotify.com/track/6TI490muJ6RgFsYJc626BZ"
     },
     {
       "added_at": "2026-08-11 14:10:49",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2026-08-11 14:10:49",
       "album": {
+        "name": "Antezana 247 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5tPDpnIZLtftbejuG6BllH"
+      },
+      "artists": [
+        {
+          "name": "YSY A",
+          "url": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
+        }
+      ],
+      "duration_ms": 216056,
+      "name": "Tamo Loco",
+      "url": "https://open.spotify.com/track/3EsXS6UlpHtJvopnLTbsiT"
+    },
+    {
+      "added_at": "2026-08-11 14:10:49",
+      "album": {
         "name": "Jimmy Fallon (Remix)",
         "url": "https://open.spotify.com/album/6ZodluiJtgoZDLMRnv8VkW"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 242376,
       "name": "Jimmy Fallon - Remix",
       "url": "https://open.spotify.com/track/3oyOEGQXpwXVwLSZb088bJ"
-    },
-    {
-      "added_at": "2026-08-11 14:10:49",
-      "album": {
-        "name": "Antezana 247 (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5tPDpnIZLtftbejuG6BllH"
-      },
-      "artists": [
-        {
-          "name": "YSY A",
-          "url": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
-        }
-      ],
-      "duration_ms": 216056,
-      "name": "Tamo Loco",
-      "url": "https://open.spotify.com/track/3EsXS6UlpHtJvopnLTbsiT"
     },
     {
       "added_at": "2026-08-11 14:10:49",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2026-08-11 14:10:49",
       "album": {
-        "name": "Tres Rosas",
-        "url": "https://open.spotify.com/album/6mvvlcmcxcEb5dGRbGPa06"
-      },
-      "artists": [
-        {
-          "name": "Seven Kayne",
-          "url": "https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz"
-        }
-      ],
-      "duration_ms": 163080,
-      "name": "Tres Rosas",
-      "url": "https://open.spotify.com/track/2r1Ovp2SgP1ybHNbbEAg1S"
-    },
-    {
-      "added_at": "2026-08-11 14:10:49",
-      "album": {
         "name": "You're Welcome",
         "url": "https://open.spotify.com/album/1hhtQL6iADIa5DoH7qZlIJ"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 189333,
       "name": "Sigo Fresh",
       "url": "https://open.spotify.com/track/50KdtoOHAI2Bp15YifdP02"
+    },
+    {
+      "added_at": "2026-08-11 14:10:49",
+      "album": {
+        "name": "Tres Rosas",
+        "url": "https://open.spotify.com/album/6mvvlcmcxcEb5dGRbGPa06"
+      },
+      "artists": [
+        {
+          "name": "Seven Kayne",
+          "url": "https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz"
+        }
+      ],
+      "duration_ms": 163080,
+      "name": "Tres Rosas",
+      "url": "https://open.spotify.com/track/2r1Ovp2SgP1ybHNbbEAg1S"
     },
     {
       "added_at": "2026-08-11 14:10:49",

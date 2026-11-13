@@ -1,12 +1,12 @@
 {
   "description": "This is AFI. The essential tracks, all in one playlist.",
-  "num_followers": 39748,
+  "num_followers": 39757,
   "original_name": "This Is AFI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avENAAAAAAAjztq71lWLsf/IoEeYBK2W",
+  "snapshot_id": "avOwAAAAAAD/FOvkAgHaQnPKNOmsfiVX",
   "tracks": [
     {
       "added_at": null,
@@ -187,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Burials",
-        "url": "https://open.spotify.com/album/3pvmZwuBBm8Tt6NXDJkl14"
+        "name": "Crash Love (Deluxe)",
+        "url": "https://open.spotify.com/album/3bvsBOFhdRGsvEwIdRoWZz"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 177373,
-      "name": "17 Crimes",
-      "url": "https://open.spotify.com/track/5uT6m9pcWDKPP6fovtOqLw"
+      "duration_ms": 260760,
+      "name": "Medicate",
+      "url": "https://open.spotify.com/track/42vwak6ZIFMscDhRB3S52z"
     },
     {
       "added_at": null,
@@ -235,8 +235,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Crash Love (Deluxe)",
-        "url": "https://open.spotify.com/album/3bvsBOFhdRGsvEwIdRoWZz"
+        "name": "Burials",
+        "url": "https://open.spotify.com/album/3pvmZwuBBm8Tt6NXDJkl14"
       },
       "artists": [
         {
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 260760,
-      "name": "Medicate",
-      "url": "https://open.spotify.com/track/42vwak6ZIFMscDhRB3S52z"
+      "duration_ms": 177373,
+      "name": "17 Crimes",
+      "url": "https://open.spotify.com/track/5uT6m9pcWDKPP6fovtOqLw"
     },
     {
       "added_at": null,
@@ -587,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Hallows EP",
-        "url": "https://open.spotify.com/album/1g3XMX2gmUF6zAwll0jqN6"
+        "name": "Burials",
+        "url": "https://open.spotify.com/album/3pvmZwuBBm8Tt6NXDJkl14"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 238106,
-      "name": "Halloween",
-      "url": "https://open.spotify.com/track/5YzAjvec8mCjm2bGppn8Oz"
+      "duration_ms": 277840,
+      "name": "I Hope You Suffer",
+      "url": "https://open.spotify.com/track/1bl434nynICAlETvh9kf4e"
     },
     {
       "added_at": null,
@@ -619,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Burials",
-        "url": "https://open.spotify.com/album/3pvmZwuBBm8Tt6NXDJkl14"
+        "name": "All Hallows EP",
+        "url": "https://open.spotify.com/album/1g3XMX2gmUF6zAwll0jqN6"
       },
       "artists": [
         {
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 277840,
-      "name": "I Hope You Suffer",
-      "url": "https://open.spotify.com/track/1bl434nynICAlETvh9kf4e"
+      "duration_ms": 238106,
+      "name": "Halloween",
+      "url": "https://open.spotify.com/track/5YzAjvec8mCjm2bGppn8Oz"
     },
     {
       "added_at": null,
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 168573,
-      "name": "Exsanguination",
-      "url": "https://open.spotify.com/track/6OdabvInaZXWONggJSLncn"
+      "duration_ms": 149906,
+      "name": "Narrative Of Soul Against Soul",
+      "url": "https://open.spotify.com/track/69zFVq4NkAhjiYGdznM23B"
     },
     {
       "added_at": null,
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 149906,
-      "name": "Narrative Of Soul Against Soul",
-      "url": "https://open.spotify.com/track/69zFVq4NkAhjiYGdznM23B"
+      "duration_ms": 168573,
+      "name": "Exsanguination",
+      "url": "https://open.spotify.com/track/6OdabvInaZXWONggJSLncn"
     },
     {
       "added_at": null,

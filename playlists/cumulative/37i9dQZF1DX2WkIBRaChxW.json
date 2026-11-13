@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "What's happening in r&b, right now \u2013 featuring THEHONESTGUY.",
+  "description": "What's happening in r&b, right now \u2013 featuring Naomi Sharon.",
   "name": "R&B Right Now",
   "tracks": [
     {
@@ -5421,6 +5421,24 @@
     },
     {
       "album": {
+        "name": "No Sleep In Paradise: Still Awake*",
+        "url": "https://open.spotify.com/album/1AHQF2QLVpI7u0gGJ47vPt"
+      },
+      "artists": [
+        {
+          "name": "Naomi Sharon",
+          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214925,
+      "name": "Colours",
+      "url": "https://open.spotify.com/track/79sMJBqe2kRAJddQAaIDse"
+    },
+    {
+      "album": {
         "name": "Come For Me (Unlocked) (feat. Khalid & Lucky Daye)",
         "url": "https://open.spotify.com/album/4UVpvYlByfqhARos9od1Kc"
       },
@@ -6452,7 +6470,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 222970,
       "name": "Dangerous",
       "url": "https://open.spotify.com/track/4Cjdia5gVaTKHXuXkod2t5"
@@ -12592,7 +12610,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 213611,
       "name": "I Want U",
       "url": "https://open.spotify.com/track/4K5rlQ6RVXRj6YdjnzSdTV"
@@ -16372,7 +16390,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 148645,
       "name": "LUV MYSELF",
       "url": "https://open.spotify.com/track/3BNljvFH5CaT9T0gcq94qa"
@@ -18232,7 +18250,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 200600,
       "name": "Narcotica",
       "url": "https://open.spotify.com/track/3xoZfRajtcVV9ClP8ZoGC5"
@@ -20408,6 +20426,24 @@
       "duration_ms": 301576,
       "name": "Over (feat. Yebba)",
       "url": "https://open.spotify.com/track/2tGruyXi5FsyP9c5yGh9gz"
+    },
+    {
+      "album": {
+        "name": "3two",
+        "url": "https://open.spotify.com/album/4TvpmzHgr2UqniQChY2dxn"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242256,
+      "name": "Over and Over",
+      "url": "https://open.spotify.com/track/1nxrZb6CTpxdajFn2NhpQx"
     },
     {
       "album": {
@@ -24251,6 +24287,36 @@
     },
     {
       "album": {
+        "name": "Simple Things",
+        "url": "https://open.spotify.com/album/3R2nfobAgdLBHURt1ARtgz"
+      },
+      "artists": [
+        {
+          "name": "DJ Tunez",
+          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
+        },
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        },
+        {
+          "name": "Mannywellz",
+          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
+        },
+        {
+          "name": "Kemuel",
+          "url": "https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255937,
+      "name": "Simple Things",
+      "url": "https://open.spotify.com/track/3E7NkEAoKr2wbvB1gi4Zn6"
+    },
+    {
+      "album": {
         "name": "SINCERITY",
         "url": "https://open.spotify.com/album/6hQ3ZgQh0JAaNDP2GOwBOQ"
       },
@@ -27793,6 +27859,28 @@
     },
     {
       "album": {
+        "name": "Third Letter (The One)",
+        "url": "https://open.spotify.com/album/4ioLRMSjNrw7ACgwyU44Bi"
+      },
+      "artists": [
+        {
+          "name": "Junia-T",
+          "url": "https://open.spotify.com/artist/0OnVUhC12ynNpOuQsRgXLl"
+        },
+        {
+          "name": "Elijah Dax",
+          "url": "https://open.spotify.com/artist/6Hwr3bDEGLweTOT3jeFhtD"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175748,
+      "name": "Third Letter (The One)",
+      "url": "https://open.spotify.com/track/3ulwDjWBKtzmoujhmYlJkA"
+    },
+    {
+      "album": {
         "name": "Heart On My Sleeve (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5PSR9tquibfWRiWVSkn6qD"
       },
@@ -28668,6 +28756,24 @@
       "duration_ms": 173053,
       "name": "Trillions (feat. Brent Faiyaz)",
       "url": "https://open.spotify.com/track/3c9Qu4qMYld9iKrZFS1n5i"
+    },
+    {
+      "album": {
+        "name": "Trophy",
+        "url": "https://open.spotify.com/album/3GKB75ijlo1b33UVr809hQ"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245815,
+      "name": "Trophy",
+      "url": "https://open.spotify.com/track/1I2QdqvSz7AeMPVZJheUcj"
     },
     {
       "album": {
@@ -30100,7 +30206,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 208695,
       "name": "Weak",
       "url": "https://open.spotify.com/track/3Xpw079r8oMTfgjCK7dfBB"

@@ -2,9 +2,9 @@
 
 ### [K\-Pop ON! \(온\)](https://open.spotify.com/playlist/37i9dQZF1DX9tPFwDMOaN1)
 
-> The new & hottest K\-Pop is here! \(Cover: RESCENE\)
+> The new & hottest K\-Pop is here! \(Cover: ATEEZ\)
 
-959 songs - 2 day 1 hr 20 min
+960 songs - 2 day 1 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -880,9 +880,10 @@
 | [UNFORGIVEN \(feat\. Nile Rodgers\)](https://open.spotify.com/track/51vRumtqbkNW9wrKfESwfu) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 3:02 | 2023-05-01 | 2024-02-21 |
 | [UNIQUE](https://open.spotify.com/track/2UcWuaUqRrKRL8iTA92ELO) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) | [UNIQUE](https://open.spotify.com/album/71EVZx82GopCyTNRZVkZSk) | 2:52 | 2026-03-20 | 2026-06-13 |
 | [Universe \(Let's Play Ball\)](https://open.spotify.com/track/6hHrPwQYGp9kPL7xLZviBS) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [Universe \(Let's Play Ball\)](https://open.spotify.com/album/31BJasH9nLradtMdJEIDXk) | 3:51 | 2021-12-13 | 2022-01-27 |
-| [Unknown Planet](https://open.spotify.com/track/02KRPJcx4TJFLCXt9qwEUE) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Unknown Planet](https://open.spotify.com/album/3EfalQgCGR2bh5tkZdZTTR) | 3:45 | 2026-09-18 |  |
+| [Unknown Planet](https://open.spotify.com/track/02KRPJcx4TJFLCXt9qwEUE) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Unknown Planet](https://open.spotify.com/album/3EfalQgCGR2bh5tkZdZTTR) | 3:45 | 2026-09-18 | 2026-11-13 |
 | [UNTOUCHABLE](https://open.spotify.com/track/2CnJMXdMj1uytoZbs4MPbO) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [BORN TO BE](https://open.spotify.com/album/5ivYXhv1TJHN4xik0kKvlC) | 3:14 | 2024-04-18 | 2024-07-13 |
 | [UNTOUCHABLE](https://open.spotify.com/track/2HQALWSN6IF4BYrSADMJ0w) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [BORN TO BE](https://open.spotify.com/album/3cm3EkNQLpKu58btSJT7fz) | 3:14 | 2024-01-08 | 2024-04-19 |
+| [UP](https://open.spotify.com/track/2DpMn9r9LPpa5PaR4XGFBP) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [GOLDEN HOUR : Part.6](https://open.spotify.com/album/5UKj0Dge5ik5jw3JVjoxof) | 3:26 | 2026-11-13 |  |
 | [UP \- KARINA Solo](https://open.spotify.com/track/5sjnkOfTLCLNfkkchI2re2) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [SYNK : PARALLEL LINE \- Special Digital Single](https://open.spotify.com/album/4vLGHlTnlIIxMSfefCY0cU) | 2:46 | 2024-10-10 | 2025-05-03 |
 | [Up!](https://open.spotify.com/track/3XZAvh2NCDQYHgJei35VQ1) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [DOUBLAST](https://open.spotify.com/album/0yMosWzriw3613d26x7MQK) | 3:12 | 2022-06-24 | 2022-11-11 |
 | [Vanilla Days](https://open.spotify.com/track/6J0lnKcH7C1Hu0tn5hv7pI) | [LNGSHOT](https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6) | [Training Day](https://open.spotify.com/album/7z5ZIN7o44Tk8EUkm7AVar) | 2:50 | 2026-03-30 | 2026-05-19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8zwfXO8sDE6.md) - [plain]
 
 > Discover the amazing world of Japanese City Pop from the ‘70s./ ニューミュージックとも一線を画す、都会的で洗練された音楽＝シティポップ の誕生。黎明期の輝きは永遠に。
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,451 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,454 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8zwfXO8sDE6.md) - [plain]
 | 32 | [ボンボヤージ波止場](https://open.spotify.com/track/2GzdAmcK3Kq3MnCkahwqWa) | [Chu Kosaka](https://open.spotify.com/artist/4czBLtKKNzTc6E4cXDYJuA) | [モーニング](https://open.spotify.com/album/5NFbf4KyFXu6bKjzBFnHBZ) | 4:02 |
 | 33 | [ソバカスのある少女](https://open.spotify.com/track/76ZN3sUxFdm1DS4HWmR0Tx) | [ティン・パン・アレー](https://open.spotify.com/artist/1hpng1qlmNyaCQZLdZpbfQ) | [キャラメル・ママ](https://open.spotify.com/album/5Spc2oCDj38mKA33NpsfzG) | 3:29 |
 | 34 | [LADY PINK PANTHER](https://open.spotify.com/track/2fbyESl5b0FVR6yCDsQGPe) | [Shigeru Suzuki](https://open.spotify.com/artist/4yN4amq8cBHHQ49NzFOO5Z) | [LAGOON \(リマスター2017\)](https://open.spotify.com/album/33zr4KaPWAo7XtvinSInsf) | 2:55 |
-| 35 | [ゴロワーズを吸ったことがあるかい](https://open.spotify.com/track/1UOeZZUegiI3Lf0OOa5Unv) | [Hiroshi Kamayatsu](https://open.spotify.com/artist/6Dzf0hRDXsjgxvmeh0dXO7) | [あゝ、わが良き友よ](https://open.spotify.com/album/0Cm3cc9blGGjNw1P4QDA4X) | 4:20 |
-| 36 | [SHININ' YOU,SHININ' DAY](https://open.spotify.com/track/41GTw7r5nCPUSTf0F0O8xy) | [Char](https://open.spotify.com/artist/6M4HwfIjf33RNtOjq3pIzf) | [Char\[Remaster\]](https://open.spotify.com/album/0Z97HIdLQP7O5gecJXy9i2) | 5:55 |
+| 35 | [SHININ' YOU,SHININ' DAY](https://open.spotify.com/track/41GTw7r5nCPUSTf0F0O8xy) | [Char](https://open.spotify.com/artist/6M4HwfIjf33RNtOjq3pIzf) | [Char\[Remaster\]](https://open.spotify.com/album/0Z97HIdLQP7O5gecJXy9i2) | 5:55 |
+| 36 | [ゴロワーズを吸ったことがあるかい](https://open.spotify.com/track/1UOeZZUegiI3Lf0OOa5Unv) | [Hiroshi Kamayatsu](https://open.spotify.com/artist/6Dzf0hRDXsjgxvmeh0dXO7) | [あゝ、わが良き友よ](https://open.spotify.com/album/0Cm3cc9blGGjNw1P4QDA4X) | 4:20 |
 | 37 | [てぃーんず　ぶるーす](https://open.spotify.com/track/2yz2pO5xGSfOetZUX8y6u7) | [Shinji Harada](https://open.spotify.com/artist/5Lo7ke2VQqfAyNhWGBg2t1) | [Feel Happy 2007 ～Debut 30th Anniversary～](https://open.spotify.com/album/6bGCv2abpf9hLDrHrZ7wzB) | 3:47 |
 | 38 | [マイ・ピュア・レディ](https://open.spotify.com/track/3Aq7x3kFdJQJMFk22k16WF) | [Amii Ozaki](https://open.spotify.com/artist/0BPn2k0BoBN6XceavMVCTj) | [Amii \- versary \(東芝EMI編\)](https://open.spotify.com/album/3qdqOLfYO9ghyK6oeDntJg) | 3:17 |
 | 39 | [流星都市](https://open.spotify.com/track/5dcuJcdVq216AlN83S2c2b) | [Chu Kosaka](https://open.spotify.com/artist/4czBLtKKNzTc6E4cXDYJuA) | [ほうろう](https://open.spotify.com/album/569VdQ5J9BOq1tv5ahzf7R) | 3:56 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8zwfXO8sDE6.md) - [plain]
 | 46 | [夜間飛行](https://open.spotify.com/track/0nJSH4TfCIFtIzVhpTAQ9T) | [Yoshitaka Minami](https://open.spotify.com/artist/5dS698oTdel4MldPvYoj7p) | [SOUTH OF THE BORDER](https://open.spotify.com/album/7c23gn3fBcWYojzvB5wBp1) | 3:29 |
 | 47 | [心のままに](https://open.spotify.com/track/5X0xhUWh5d1LltgEPnGl1I) | [朝比奈 マリア](https://open.spotify.com/artist/0Fo7zlHoM0WX4PP2GbipxM) | [MARIA](https://open.spotify.com/album/2TAs79aEFZQpGxYwpF7yAo) | 3:49 |
 | 48 | [YOU GOT THE MUSIC](https://open.spotify.com/track/4QUEaU4FicWIwmbTK6P1X5) | [Char](https://open.spotify.com/artist/6M4HwfIjf33RNtOjq3pIzf) | [THRILL\[Remaster\]](https://open.spotify.com/album/0XzepsIs71Hzyu2FPgvp7A) | 4:32 |
-| 49 | [レインボー・シーライン](https://open.spotify.com/track/7jQ3TGii9ExXggR5LMoT7p) | [Hiroshi Sato](https://open.spotify.com/artist/71uGKB11tJQ1uuLLppcHDj) | [スーパー・マーケット](https://open.spotify.com/album/0gL7jDFYfF6QzfEWdofTxF) | 3:53 |
-| 50 | [ミスティー・レディー](https://open.spotify.com/track/1olfil66HveMe3Bt4iTW1J) | [Tatsuhiko Yamamoto](https://open.spotify.com/artist/0egy8bsVRJUYpdjEvjfR0h) | [Memorial Rain](https://open.spotify.com/album/3HlqiB8wBWjxaqNDqZv9oW) | 4:24 |
+| 49 | [ミスティー・レディー](https://open.spotify.com/track/1olfil66HveMe3Bt4iTW1J) | [Tatsuhiko Yamamoto](https://open.spotify.com/artist/0egy8bsVRJUYpdjEvjfR0h) | [Memorial Rain](https://open.spotify.com/album/3HlqiB8wBWjxaqNDqZv9oW) | 4:24 |
+| 50 | [レインボー・シーライン](https://open.spotify.com/track/7jQ3TGii9ExXggR5LMoT7p) | [Hiroshi Sato](https://open.spotify.com/artist/71uGKB11tJQ1uuLLppcHDj) | [スーパー・マーケット](https://open.spotify.com/album/0gL7jDFYfF6QzfEWdofTxF) | 3:53 |
 
 Snapshot ID: `AAAAANw4Jgn0JMCKJlpNaiIMC3JLSxa6`

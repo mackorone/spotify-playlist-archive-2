@@ -1690,7 +1690,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 190004,
       "name": "Amanece",
       "url": "https://open.spotify.com/track/1LiN0Z98FkR1t0m8KmLcAH"
@@ -1884,10 +1884,36 @@
       ],
       "date_added": "2026-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-11",
+      "date_removed": null,
       "duration_ms": 139698,
       "name": "Amor del Agro",
       "url": "https://open.spotify.com/track/1ZSYhCqlR7ow8fWxfvuFFZ"
+    },
+    {
+      "album": {
+        "name": "Amor Fugaz",
+        "url": "https://open.spotify.com/album/6QOs4yHyvlOw9spJbsGF9R"
+      },
+      "artists": [
+        {
+          "name": "Amigo de Artistas",
+          "url": "https://open.spotify.com/artist/7j6lJVKmCFlcXtfMDf57gP"
+        },
+        {
+          "name": "godie.",
+          "url": "https://open.spotify.com/artist/5VWqDJQziNeUjSkOCzweGH"
+        },
+        {
+          "name": "V.I.C",
+          "url": "https://open.spotify.com/artist/74CA7WjisOioFzIoREi20s"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184074,
+      "name": "Amor Fugaz",
+      "url": "https://open.spotify.com/track/5udFc94o8893fQQ6NZR1Aj"
     },
     {
       "album": {
@@ -4717,6 +4743,32 @@
     },
     {
       "album": {
+        "name": "EL TRAP DE TU PA\u00cdS",
+        "url": "https://open.spotify.com/album/1qRpp0HwiLsTGnIWqtias5"
+      },
+      "artists": [
+        {
+          "name": "YSY A",
+          "url": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "CLUB HATS",
+          "url": "https://open.spotify.com/artist/3Nk2mAv4k4ZOzrP5tpXL2G"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172119,
+      "name": "CAMPO SEM\u00c1NTICO",
+      "url": "https://open.spotify.com/track/4UV3QwEcqHwVWYiXjWfMab"
+    },
+    {
+      "album": {
         "name": "The Life of a Showgirl",
         "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
       },
@@ -7265,6 +7317,28 @@
     },
     {
       "album": {
+        "name": "EL TRAP DE TU PA\u00cdS",
+        "url": "https://open.spotify.com/album/1qRpp0HwiLsTGnIWqtias5"
+      },
+      "artists": [
+        {
+          "name": "YSY A",
+          "url": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
+        },
+        {
+          "name": "CLUB HATS",
+          "url": "https://open.spotify.com/artist/3Nk2mAv4k4ZOzrP5tpXL2G"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141591,
+      "name": "DE LUNES A LUNES",
+      "url": "https://open.spotify.com/track/4v8wBKXXlIAB0o52vL0B4b"
+    },
+    {
+      "album": {
         "name": "De Museo",
         "url": "https://open.spotify.com/album/27ei92dKdKhBVhEVA2ziRR"
       },
@@ -8573,6 +8647,28 @@
     },
     {
       "album": {
+        "name": "EL TRAP DE TU PA\u00cdS",
+        "url": "https://open.spotify.com/album/1qRpp0HwiLsTGnIWqtias5"
+      },
+      "artists": [
+        {
+          "name": "YSY A",
+          "url": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
+        },
+        {
+          "name": "NAIM",
+          "url": "https://open.spotify.com/artist/5w4GJFyat3eunDeVH8j3XZ"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151285,
+      "name": "D\u00d3NDE???",
+      "url": "https://open.spotify.com/track/59IIdMaZhfYRP0qMdQE7Ud"
+    },
+    {
+      "album": {
         "name": "Easy On Me",
         "url": "https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S"
       },
@@ -9440,7 +9536,7 @@
       ],
       "date_added": "2026-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 203181,
       "name": "Eleg\u00ed (Cumbia)",
       "url": "https://open.spotify.com/track/2eBFFRjfuo52CTrlgP5hp0"
@@ -13290,7 +13386,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 195146,
       "name": "KOKO",
       "url": "https://open.spotify.com/track/1tz7RZirwiuaJw2p0jbdHb"
@@ -17522,7 +17618,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 158842,
       "name": "Mil Dramas",
       "url": "https://open.spotify.com/track/10rE29IuOx69NL0pzBZjhH"
@@ -25351,6 +25447,28 @@
     },
     {
       "album": {
+        "name": "EL TRAP DE TU PA\u00cdS",
+        "url": "https://open.spotify.com/album/1qRpp0HwiLsTGnIWqtias5"
+      },
+      "artists": [
+        {
+          "name": "YSY A",
+          "url": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
+        },
+        {
+          "name": "CLUB HATS",
+          "url": "https://open.spotify.com/artist/3Nk2mAv4k4ZOzrP5tpXL2G"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132481,
+      "name": "SIEMPRE ES VIERNES",
+      "url": "https://open.spotify.com/track/22w4SzpB1DIB6NsQKkudGM"
+    },
+    {
+      "album": {
         "name": "Sigue/Forever My Love",
         "url": "https://open.spotify.com/album/5umofLk634QVTKYtt2Deoy"
       },
@@ -30780,7 +30898,7 @@
       ],
       "date_added": "2026-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 143648,
       "name": "VIVO DEL POP",
       "url": "https://open.spotify.com/track/2y6fujem5GThiVehsSrq61"
@@ -30984,7 +31102,7 @@
       ],
       "date_added": "2026-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 117600,
       "name": "Voy Pai",
       "url": "https://open.spotify.com/track/2OCgMH4ptRYkr3X4v15tAD"

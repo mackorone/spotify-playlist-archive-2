@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-874 songs - 2 day 6 hr 27 min
+877 songs - 2 day 6 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -493,6 +493,7 @@
 | [Mumma Ginge](https://open.spotify.com/track/2YMGqzi0WwxUqvYaUyOZar) | [Clayton James Scott](https://open.spotify.com/artist/5kK7BW8ULLKubONyG9Jzok) | [Mumma Ginge](https://open.spotify.com/album/5R7U0RQnOvLHfKmrGPUBoN) | 3:35 | 2025-11-03 | 2025-12-17 |
 | [Mundo Infeliz](https://open.spotify.com/track/4wD588EI0N67gAXGGDaN98) | [Lo Que Nunca Fuimos](https://open.spotify.com/artist/6fjRwIsTHVRTAELwXewKBI) | [El Viejo Y Querido Punk Rock](https://open.spotify.com/album/3KcAhyLdLNx9oMuXoLn6F4) | 3:10 | 2026-07-13 | 2026-08-01 |
 | [Musa](https://open.spotify.com/track/5SmyJGIEQq637JAr7UhHgi) | [Crux Revival](https://open.spotify.com/artist/0eYk6cHTXjqdFH2VBhPNIV) | [Musa](https://open.spotify.com/album/0ooKSwNu7s4beFsWp6S3bE) | 4:28 | 2026-09-07 | 2026-09-20 |
+| [My Addiction](https://open.spotify.com/track/0wqjkhQYagTQOLqMippB3A) | [Skyl Panameraa](https://open.spotify.com/artist/0QW6dSzw0EqIIBQJrGq1Kd) | [My Addiction](https://open.spotify.com/album/0q1vkwrp4rCczBBWpVBI9E) | 2:38 | 2026-11-12 |  |
 | [My Eyes](https://open.spotify.com/track/7LraNdEYQC2epPHZVczNNB) | [Immortal Foreigner](https://open.spotify.com/artist/7JgL2uyFVHWiE0bct43ytm) | [My Eyes](https://open.spotify.com/album/4UwUmhnznZq2b0aSbNONrj) | 3:46 | 2026-06-17 | 2026-06-25 |
 | [My Little House](https://open.spotify.com/track/6swSxpyjkBCXSHDIcKGwor) | [War Honey](https://open.spotify.com/artist/3SSgUv1E6o0261Z951v2Na) | [All You'll Ever Be Good For](https://open.spotify.com/album/3A7FpZAud1r50Gp5Z5Wcf4) | 4:58 | 2026-05-17 | 2026-05-26 |
 | [My Soul's on Fire](https://open.spotify.com/track/5MhRz3sZYA7I6qpWZEniLc) | [K W Hoffman](https://open.spotify.com/artist/11NQwwc952s3dgAPbR5VPD) | [My Soul's on Fire](https://open.spotify.com/album/3fWsuaMhkFulj7cdrACaae) | 2:32 | 2026-01-19 | 2026-03-18 |
@@ -753,6 +754,7 @@
 | [The Death of Venus](https://open.spotify.com/track/6ahpQjmfYTfTE3YVJnivsN) | [The Sway](https://open.spotify.com/artist/6cabGpsisry0tJA3maWIo9) | [Going Blind](https://open.spotify.com/album/6BGcpr68cgLxod7vrRmkeR) | 6:39 | 2026-06-27 |  |
 | [The Endless Line](https://open.spotify.com/track/4vH4XT4cbZbzPsagst504L) | [The Rabbit Council](https://open.spotify.com/artist/1nSm3sva0zgXWbnUjsu5nf) | [The Endless Line](https://open.spotify.com/album/0dPp4UDPvoi9FmbpN7jKup) | 2:28 | 2025-11-20 | 2025-12-17 |
 | [The Funeral March](https://open.spotify.com/track/0QL841AJqf1PKLnXsWNCJp) | [Zornheym](https://open.spotify.com/artist/5YUadeP4WiWAwaMwXsczgJ) | [The Funeral March](https://open.spotify.com/album/5XUdvSZQYtQVuNnRfDYvhW) | 4:07 | 2026-08-25 |  |
+| [The Fury](https://open.spotify.com/track/5Nz9osPWntRijFqYXSYlGX) | [The River Filth](https://open.spotify.com/artist/59BG6GYu3KdNc7lTYQSkae) | [The Fury](https://open.spotify.com/album/7byxu6uRVYFOmmJUlA5vvp) | 3:15 | 2026-11-12 |  |
 | [The Ghost Of You \- Epic Rock Version](https://open.spotify.com/track/1A6zCKYRn7QlIkMh0izWjW) | [Jordi Martijnse](https://open.spotify.com/artist/5Z0G3YfqBlb7LaqJDhKv5p) | [Ascend](https://open.spotify.com/album/7HBJCsmEoPOBmV043hkXCr) | 2:41 | 2025-11-05 | 2025-12-17 |
 | [The Gladiator \(2025 Remastered Version\)](https://open.spotify.com/track/22AfA3lC9hksGyG2KEVHHT) | [Foolish Manure](https://open.spotify.com/artist/3iqKlvnEXhmugZRypumXlS) | [The Gladiator \(2025 Remastered Version\)](https://open.spotify.com/album/3E9TobEFd1wXM42E0FFZrk) | 2:30 | 2026-01-22 | 2026-03-18 |
 | [The Horizon](https://open.spotify.com/track/435lQao69KWGTGd5hMVqUc) | [Stu White](https://open.spotify.com/artist/78mGyhocNcni5BF0U7qyPQ) | [The Horizon](https://open.spotify.com/album/4ByWJZBZrY2Y719qmRKPIZ) | 3:31 | 2026-08-04 |  |
@@ -858,6 +860,7 @@
 | [Without Ligth](https://open.spotify.com/track/4iFvBYv9dvov9VP5iYPZbI) | [Bry](https://open.spotify.com/artist/2ySJgdSMRpOkxkmseui1Kt) | [Butterflies](https://open.spotify.com/album/5jxuctCE4OHBlAKEFzBp9Y) | 3:05 | 2025-10-05 | 2025-11-28 |
 | [Without Peace and Love](https://open.spotify.com/track/4lKbiqJbSZPYBYLPf6YFa6) | [Drew Barrett](https://open.spotify.com/artist/30zxZ045HNbHxWXE77djbX) | [Without Peace and Love](https://open.spotify.com/album/5mYr9Y4BWaL5j61ttgII1x) | 4:23 | 2026-05-31 | 2026-06-18 |
 | [Wolves Of E\-Street](https://open.spotify.com/track/2rQ28XXzoIxh0Q5MvPCuiS) | [The Delta Shake](https://open.spotify.com/artist/7umkJ0FWhHXtPTRzxFVVti) | [Shit Creek Blues](https://open.spotify.com/album/0vPt56J8cBKF1csxRFRRmG) | 3:28 | 2025-12-16 | 2026-04-21 |
+| [Writings on the Wall](https://open.spotify.com/track/2VhzXO9b32pNU31Mdyp5PK) | [Coyote Crunch](https://open.spotify.com/artist/3eOqf23jG1UGhZb7oQSbm3) | [Writings on the Wall](https://open.spotify.com/album/57UsFyMrHu97seIZ3Z2q4z) | 4:59 | 2026-11-12 |  |
 | [XOXO \(Ex oh, Ex ow!\)](https://open.spotify.com/track/4P1CmDbce9sBKsuEx2SBF4) | [Lord Sebastian](https://open.spotify.com/artist/06ADavaxngMDpbcRPXHBvm) | [XOXO \(Ex oh, Ex ow!\)](https://open.spotify.com/album/7KjY597wS0kTiC4TucLvop) | 3:08 | 2026-03-25 | 2026-04-21 |
 | [Ya sev Ya öldür](https://open.spotify.com/track/6OXW8XDKT53BLfcARq7U7F) | [Yürümeyen Merdiven](https://open.spotify.com/artist/5qxtKwjihWyBWuy7Tjs3ue) | [Ya sev Ya öldür](https://open.spotify.com/album/2eSYlzWMaj9KoZfDc2eqOx) | 3:00 | 2025-11-23 | 2025-12-17 |
 | [You Don't Believe Me](https://open.spotify.com/track/2b0rWXHdn6ooRui4dlFiBJ) | [Jibb Valley](https://open.spotify.com/artist/4QAMcP1l4n3nw5vuXXTNUe) | [Jukebox \(Deluxe Cut\)](https://open.spotify.com/album/0nSvLUSCx70FpkKq8ps9AW) | 3:01 | 2026-01-10 | 2026-03-18 |

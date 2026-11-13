@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-02-10",
   "description": "LAS CANCIONES M\u00c1S \ud83d\udd25\ud83d\udd25\ud83d\udd25 ",
-  "name": "HOT NOW - C. Tangana",
+  "name": "HOT NOW - LATIN MAFIA",
   "tracks": [
     {
       "album": {
@@ -1016,7 +1016,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 176568,
       "name": "Ah\u00ed",
       "url": "https://open.spotify.com/track/6DoUDG1GJrJf6eGQLUBBnm"
@@ -3802,7 +3802,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 195164,
       "name": "Cali",
       "url": "https://open.spotify.com/track/31o2zBgMVijZ3dNOPBephl"
@@ -5996,6 +5996,24 @@
       "duration_ms": 159586,
       "name": "DENIAL IS A RIVER",
       "url": "https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB"
+    },
+    {
+      "album": {
+        "name": "Departamento",
+        "url": "https://open.spotify.com/album/540pquD3B2fmai9xx25RII"
+      },
+      "artists": [
+        {
+          "name": "LATIN MAFIA",
+          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284533,
+      "name": "Departamento",
+      "url": "https://open.spotify.com/track/7bFKJ91RTq6wcZJMK1LQRa"
     },
     {
       "album": {
@@ -8440,6 +8458,24 @@
       "duration_ms": 228965,
       "name": "Fortnight (feat. Post Malone)",
       "url": "https://open.spotify.com/track/2OzhQlSqBEmt7hmkYxfT6m"
+    },
+    {
+      "album": {
+        "name": "FRANCIA",
+        "url": "https://open.spotify.com/album/0tm1saZfhOkgkyNXJoGpTg"
+      },
+      "artists": [
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206817,
+      "name": "FRANCIA",
+      "url": "https://open.spotify.com/track/0oPun2a1Vi1QWJRiQC6Ass"
     },
     {
       "album": {
@@ -11294,7 +11330,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 175023,
       "name": "LA CITA FRESITA 2",
       "url": "https://open.spotify.com/track/3OZFtuFUdr3x8klpQ0BOJJ"
@@ -24592,6 +24628,32 @@
       "duration_ms": 166363,
       "name": "Velorios",
       "url": "https://open.spotify.com/track/3stp1Fb0YGmLDeDoaLw1cC"
+    },
+    {
+      "album": {
+        "name": "ven dale",
+        "url": "https://open.spotify.com/album/6dGY42QYXbzNbpyUPvs1nD"
+      },
+      "artists": [
+        {
+          "name": "Doony Graff",
+          "url": "https://open.spotify.com/artist/07yMfbKCotpnWFjCkxPYt0"
+        },
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        },
+        {
+          "name": "Ezya",
+          "url": "https://open.spotify.com/artist/5UFABCQ4gZ6kZAweVndK1F"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147472,
+      "name": "ven dale",
+      "url": "https://open.spotify.com/track/3xtTmmoc3MIkanhLoLTDMj"
     },
     {
       "album": {

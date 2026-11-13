@@ -310,7 +310,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 315125,
       "name": "Aankhein",
       "url": "https://open.spotify.com/track/0Y0qi12uVrC1aTvZ0edihf"
@@ -5810,7 +5810,7 @@
       ],
       "date_added": "2026-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 249351,
       "name": "Karta Hoon",
       "url": "https://open.spotify.com/track/6FrcQrAssZfcWIjobJmkSK"
@@ -8797,6 +8797,28 @@
     },
     {
       "album": {
+        "name": "Naina Saavan - Reprise",
+        "url": "https://open.spotify.com/album/7dDWVIsPi87MBQ8IJtXQIk"
+      },
+      "artists": [
+        {
+          "name": "KhoslaRaghu",
+          "url": "https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS"
+        },
+        {
+          "name": "Kavita Seth",
+          "url": "https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262500,
+      "name": "Naina Saavan - Reprise",
+      "url": "https://open.spotify.com/track/60E6ahAL4ANvC4lvbOjUFP"
+    },
+    {
+      "album": {
         "name": "Nami Danam",
         "url": "https://open.spotify.com/album/1bVfwBHWZ7XEYBO4oottGQ"
       },
@@ -10398,6 +10420,32 @@
       "duration_ms": 204000,
       "name": "Sab Sahi",
       "url": "https://open.spotify.com/track/6u1pJ2UZvR1ZqMO0qtGw8T"
+    },
+    {
+      "album": {
+        "name": "Sab Theek Hain",
+        "url": "https://open.spotify.com/album/0Ogsk8LA820NDUhRpb5geQ"
+      },
+      "artists": [
+        {
+          "name": "KoustavC",
+          "url": "https://open.spotify.com/artist/0EAgG1Ko1vRGwFkNFIDRFg"
+        },
+        {
+          "name": "Pronoy Chakraborty",
+          "url": "https://open.spotify.com/artist/19lj4rECbQgXJolzriEp8c"
+        },
+        {
+          "name": "Debayan Banerjee",
+          "url": "https://open.spotify.com/artist/4Tlcxmv5bmYpBgETYTUHZw"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345901,
+      "name": "Sab Theek Hain",
+      "url": "https://open.spotify.com/track/5SuRBH076ra6QEIK9cBQkK"
     },
     {
       "album": {

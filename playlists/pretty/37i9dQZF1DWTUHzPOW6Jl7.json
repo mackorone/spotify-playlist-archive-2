@@ -1,6 +1,6 @@
 {
   "description": "Need to get your energy level up?",
-  "num_followers": 782427,
+  "num_followers": 782524,
   "original_name": "Energy Booster: R&B",
   "owner": {
     "name": "Spotify",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2022-08-02 10:25:51",
       "album": {
+        "name": "The Heat",
+        "url": "https://open.spotify.com/album/0UZsKcXzOehMvFWTiBlwMi"
+      },
+      "artists": [
+        {
+          "name": "Toni Braxton",
+          "url": "https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe"
+        }
+      ],
+      "duration_ms": 261933,
+      "name": "He Wasn't Man Enough",
+      "url": "https://open.spotify.com/track/7f1Dmr246cJ9uQYdbplTbh"
+    },
+    {
+      "added_at": "2022-08-02 10:25:51",
+      "album": {
         "name": "Goodies",
         "url": "https://open.spotify.com/album/71gUhKYZIWmmjqAHlY4Br3"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 223000,
       "name": "Goodies (feat. Petey Pablo)",
       "url": "https://open.spotify.com/track/3dFwpxh2yH7C7p9BGEKLVB"
-    },
-    {
-      "added_at": "2022-08-02 10:25:51",
-      "album": {
-        "name": "The Heat",
-        "url": "https://open.spotify.com/album/0UZsKcXzOehMvFWTiBlwMi"
-      },
-      "artists": [
-        {
-          "name": "Toni Braxton",
-          "url": "https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe"
-        }
-      ],
-      "duration_ms": 261933,
-      "name": "He Wasn't Man Enough",
-      "url": "https://open.spotify.com/track/7f1Dmr246cJ9uQYdbplTbh"
     },
     {
       "added_at": "2023-08-25 04:01:00",

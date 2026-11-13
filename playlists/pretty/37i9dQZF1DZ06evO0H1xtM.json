@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Marca Registrada. The essential tracks, all in one playlist.",
-  "num_followers": 383790,
+  "num_followers": 383826,
   "original_name": "This Is Grupo Marca Registrada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avENAAAAAAA0LDRRybohl0E3QBF/H1qo",
+  "snapshot_id": "avOwAAAAAAD1xezSFzTf9vp13Z959TwZ",
   "tracks": [
     {
       "added_at": null,
@@ -71,22 +71,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Si Fuera F\u00e1cil",
-        "url": "https://open.spotify.com/album/5QHkQIUSlHrdunxUefdVYd"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 170496,
-      "name": "Si Fuera F\u00e1cil",
-      "url": "https://open.spotify.com/track/0c8Jj4m8nORPaOSpcr5gx0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Solo Me Dejaste",
         "url": "https://open.spotify.com/album/6UIsH8V9ulcnrSzRaKMoK5"
       },
@@ -103,8 +87,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cero Miedo",
-        "url": "https://open.spotify.com/album/3VSPApAscAKQvMYgdGBzJK"
+        "name": "Si Fuera F\u00e1cil",
+        "url": "https://open.spotify.com/album/5QHkQIUSlHrdunxUefdVYd"
       },
       "artists": [
         {
@@ -112,9 +96,9 @@
           "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
         }
       ],
-      "duration_ms": 144693,
-      "name": "Cero Miedo",
-      "url": "https://open.spotify.com/track/45ehHeg9Kr5ZK3sFRnbjOv"
+      "duration_ms": 170496,
+      "name": "Si Fuera F\u00e1cil",
+      "url": "https://open.spotify.com/track/0c8Jj4m8nORPaOSpcr5gx0"
     },
     {
       "added_at": null,
@@ -139,6 +123,22 @@
       "duration_ms": 194769,
       "name": "ELOVRGA",
       "url": "https://open.spotify.com/track/2TJKY0WSFufZOzbRNgl6zE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cero Miedo",
+        "url": "https://open.spotify.com/album/3VSPApAscAKQvMYgdGBzJK"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 144693,
+      "name": "Cero Miedo",
+      "url": "https://open.spotify.com/track/45ehHeg9Kr5ZK3sFRnbjOv"
     },
     {
       "added_at": null,
@@ -555,6 +555,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wonka",
+        "url": "https://open.spotify.com/album/6P0DPtdLfLRQcb2Q6HGnDE"
+      },
+      "artists": [
+        {
+          "name": "EMIRR",
+          "url": "https://open.spotify.com/artist/2qsUySwh6jLSocEUAK5KNW"
+        },
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 190960,
+      "name": "Wonka",
+      "url": "https://open.spotify.com/track/0FmQBKd4WTCbUuiQjYhVhM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mafiosa",
         "url": "https://open.spotify.com/album/6qazRFZrvM3k9n8pzF1ob5"
       },
@@ -591,26 +611,6 @@
       "duration_ms": 196437,
       "name": "Puro Campe\u00f3n",
       "url": "https://open.spotify.com/track/1kNC7b4zXbqoceKpkGdnD8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wonka",
-        "url": "https://open.spotify.com/album/6P0DPtdLfLRQcb2Q6HGnDE"
-      },
-      "artists": [
-        {
-          "name": "EMIRR",
-          "url": "https://open.spotify.com/artist/2qsUySwh6jLSocEUAK5KNW"
-        },
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 190960,
-      "name": "Wonka",
-      "url": "https://open.spotify.com/track/0FmQBKd4WTCbUuiQjYhVhM"
     },
     {
       "added_at": null,
@@ -723,8 +723,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Mismo De La Vida Ruina",
-        "url": "https://open.spotify.com/album/4tJptJsd5EYHQUedAR8i9J"
+        "name": "Vitamina",
+        "url": "https://open.spotify.com/album/6tchKHgP5p2HT8B50gFAcN"
       },
       "artists": [
         {
@@ -732,9 +732,9 @@
           "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
         }
       ],
-      "duration_ms": 200411,
-      "name": "Zutano",
-      "url": "https://open.spotify.com/track/0dabIbQCTptfYxECwfO0Vb"
+      "duration_ms": 174848,
+      "name": "Vitamina",
+      "url": "https://open.spotify.com/track/2TKHT1XU7XZTi3BmU9WjSg"
     },
     {
       "added_at": null,
@@ -755,6 +755,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Mismo De La Vida Ruina",
+        "url": "https://open.spotify.com/album/4tJptJsd5EYHQUedAR8i9J"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 200411,
+      "name": "Zutano",
+      "url": "https://open.spotify.com/track/0dabIbQCTptfYxECwfO0Vb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Corleone",
         "url": "https://open.spotify.com/album/5kFm2qP6M186qWYI9wY0ji"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 226645,
       "name": "La Que Me Espera En La Noche",
       "url": "https://open.spotify.com/track/0nowDTMPXFjMxpK2IxGnjm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vitamina",
-        "url": "https://open.spotify.com/album/6tchKHgP5p2HT8B50gFAcN"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 174848,
-      "name": "Vitamina",
-      "url": "https://open.spotify.com/track/2TKHT1XU7XZTi3BmU9WjSg"
     },
     {
       "added_at": null,
@@ -827,22 +827,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Por Si Las Dudas",
-        "url": "https://open.spotify.com/album/4b4TZIhUWLv0lowcBHVfU2"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 161258,
-      "name": "Por Si Las Dudas",
-      "url": "https://open.spotify.com/track/1fIlEolCrD9USldzUmCrgb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sigue La Magia Dando",
         "url": "https://open.spotify.com/album/1aIIP4cPvZFZnSCwAjKEVW"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 213613,
       "name": "Si Supieran",
       "url": "https://open.spotify.com/track/61cPaeNerTafqZLYMEfTQ3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Por Si Las Dudas",
+        "url": "https://open.spotify.com/album/4b4TZIhUWLv0lowcBHVfU2"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 161258,
+      "name": "Por Si Las Dudas",
+      "url": "https://open.spotify.com/track/1fIlEolCrD9USldzUmCrgb"
     },
     {
       "added_at": null,
@@ -899,6 +899,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sin Darme Explicacion",
+        "url": "https://open.spotify.com/album/2q7suMTvK9bzYLBzKrQoIo"
+      },
+      "artists": [
+        {
+          "name": "Jasson Arellano",
+          "url": "https://open.spotify.com/artist/1XpGHmy23Oo4THEMSngF7v"
+        },
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 187560,
+      "name": "Sin Darme Explicacion",
+      "url": "https://open.spotify.com/track/6hmqUnbDg0IXxXDCPtSblS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Apache (En Vivo)",
         "url": "https://open.spotify.com/album/1xe1JQZeE9V5qFaUvKjotg"
       },
@@ -919,26 +939,6 @@
       "duration_ms": 168251,
       "name": "El Apache (En Vivo)",
       "url": "https://open.spotify.com/track/52t4lVf9K57XzwvDAT2U9r"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sin Darme Explicacion",
-        "url": "https://open.spotify.com/album/2q7suMTvK9bzYLBzKrQoIo"
-      },
-      "artists": [
-        {
-          "name": "Jasson Arellano",
-          "url": "https://open.spotify.com/artist/1XpGHmy23Oo4THEMSngF7v"
-        },
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 187560,
-      "name": "Sin Darme Explicacion",
-      "url": "https://open.spotify.com/track/6hmqUnbDg0IXxXDCPtSblS"
     }
   ],
   "unique_name": "This Is Grupo Marca Registrada",

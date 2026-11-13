@@ -1,12 +1,12 @@
 {
   "description": "This is Erykah Badu. The essential tracks, all in one playlist.",
-  "num_followers": 153346,
+  "num_followers": 153370,
   "original_name": "This Is Erykah Badu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avENAAAAAADpFNIBRRaqiqMBALFq2gcn",
+  "snapshot_id": "avOwAAAAAACUOvx2fcIcEHO9QEGscq6v",
   "tracks": [
     {
       "added_at": null,
@@ -635,26 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "So You Know",
-        "url": "https://open.spotify.com/album/2jELYQXQdqowizHRPUUwAQ"
-      },
-      "artists": [
-        {
-          "name": "Lekan",
-          "url": "https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv"
-        },
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        }
-      ],
-      "duration_ms": 223564,
-      "name": "On Me",
-      "url": "https://open.spotify.com/track/5jSMRqsK70fjBAqZMJ6uCI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chant Down Babylon",
         "url": "https://open.spotify.com/album/4hV6TxaUkzEi4wUN6Fd0s7"
       },
@@ -671,6 +651,26 @@
       "duration_ms": 291733,
       "name": "No More Trouble",
       "url": "https://open.spotify.com/track/6zi8kGpTadjpsLCO4jvMsH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "So You Know",
+        "url": "https://open.spotify.com/album/2jELYQXQdqowizHRPUUwAQ"
+      },
+      "artists": [
+        {
+          "name": "Lekan",
+          "url": "https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv"
+        },
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "duration_ms": 223564,
+      "name": "On Me",
+      "url": "https://open.spotify.com/track/5jSMRqsK70fjBAqZMJ6uCI"
     },
     {
       "added_at": null,
@@ -715,26 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Next To You",
-        "url": "https://open.spotify.com/album/3w2VgrN4DUnNijMa24X06D"
-      },
-      "artists": [
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        },
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-        }
-      ],
-      "duration_ms": 245951,
-      "name": "Next To You",
-      "url": "https://open.spotify.com/track/12wvLk3fOmOonVmH0TtQ8L"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Streetsoul",
         "url": "https://open.spotify.com/album/0vcwoK9Ya3Ev7fuckDAfIl"
       },
@@ -755,6 +735,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Next To You",
+        "url": "https://open.spotify.com/album/3w2VgrN4DUnNijMa24X06D"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        }
+      ],
+      "duration_ms": 245951,
+      "name": "Next To You",
+      "url": "https://open.spotify.com/track/12wvLk3fOmOonVmH0TtQ8L"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "New Amerykah Part One (4th World War)",
         "url": "https://open.spotify.com/album/2cimRuhfNJk2k8dmnwnh2d"
       },
@@ -767,6 +767,26 @@
       "duration_ms": 320973,
       "name": "Honey",
       "url": "https://open.spotify.com/track/2z4ypE6YI1mybsczNx4eRU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Album",
+        "url": "https://open.spotify.com/album/0BwUN4oXLzs95nE8GO1vrI"
+      },
+      "artists": [
+        {
+          "name": "Teyana Taylor",
+          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
+        },
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "duration_ms": 257789,
+      "name": "Lowkey (feat. Erykah Badu)",
+      "url": "https://open.spotify.com/track/6PMb77Py549WyGEDJNAacT"
     }
   ],
   "unique_name": "This Is Erykah Badu",

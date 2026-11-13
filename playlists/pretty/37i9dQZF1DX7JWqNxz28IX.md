@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 
 > 𝖋𝖚𝖈𝖐 𝖑𝖔𝖛𝖊
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,047 likes - 100 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,046 likes - 100 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,20 +60,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 | 50 | [solo polvere.](https://open.spotify.com/track/7gTd5z0K5FjcXyOnDSkcqc) | [Holden](https://open.spotify.com/artist/3XTUciJcdix4GkO9YoBdtP) | [PROLOGO](https://open.spotify.com/album/3zMx1otz8AGfuZ7bQ4JMhL) | 3:13 |
 | 51 | [Horror \- Acoustic](https://open.spotify.com/track/1SoB0Ex6kDPwyY5D9nXucY) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [REBEL \(Deluxe\)](https://open.spotify.com/album/0BSVUwV411OWhUlAIK9epW) | 3:40 |
 | 52 | [SPECCHIO \(interludio\)](https://open.spotify.com/track/4ipopm8ZXDTY9a03gs2M5j) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [SPECCHIO](https://open.spotify.com/album/2siu332vR3M1qf1F9D7LY3) | 1:31 |
-| 53 | [Xelisa2 \(feat\. ARIETE\)](https://open.spotify.com/track/0TFwQNQV9TzDRSh05ljlv7) | [Tauro Boys](https://open.spotify.com/artist/3co0PkJ0FkzdkjRPkBf9WM), [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [TauroTape3](https://open.spotify.com/album/3O1hIgLryt4q65Y1YcjXdp) | 2:57 |
-| 54 | [Tutto o niente 2](https://open.spotify.com/track/2VPm4NZZKroOssZ9TReJ6d) | [gIANMARIA](https://open.spotify.com/artist/3lxINiPO2Mtk6VqtUSd5t1), [Eiemgei](https://open.spotify.com/artist/1ZfpdLI175LHskzbIAtrrA) | [Tutto o niente 2](https://open.spotify.com/album/4F8Tln7lzrOD992Ft8tK7d) | 2:23 |
+| 53 | [Tutto o niente 2](https://open.spotify.com/track/2VPm4NZZKroOssZ9TReJ6d) | [gIANMARIA](https://open.spotify.com/artist/3lxINiPO2Mtk6VqtUSd5t1), [Eiemgei](https://open.spotify.com/artist/1ZfpdLI175LHskzbIAtrrA) | [Tutto o niente 2](https://open.spotify.com/album/4F8Tln7lzrOD992Ft8tK7d) | 2:23 |
+| 54 | [Xelisa2 \(feat\. ARIETE\)](https://open.spotify.com/track/0TFwQNQV9TzDRSh05ljlv7) | [Tauro Boys](https://open.spotify.com/artist/3co0PkJ0FkzdkjRPkBf9WM), [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [TauroTape3](https://open.spotify.com/album/3O1hIgLryt4q65Y1YcjXdp) | 2:57 |
 | 55 | [IL MONDO FUORi : .\. ?](https://open.spotify.com/track/4KhQFg7o7JRJWiI8zQmxIf) | [EMMA](https://open.spotify.com/artist/7LmO2BJsbObtMqCPcpjjhq) | [ERA L’INIZIO](https://open.spotify.com/album/2RgzZRAkdstoKe6NgpTrga) | 4:17 |
 | 56 | [Ti maledirò](https://open.spotify.com/track/4X8hvgbVZ8xShUBeqPDwL4) | [Disme](https://open.spotify.com/artist/0CXnO9kUawdDjzToSqCC3p) | [MALA VITA](https://open.spotify.com/album/6UZxACd7DLXdsYbhcIQSpI) | 2:59 |
 | 57 | [Tatuaggi](https://open.spotify.com/track/5tsK5z8zANVWyZ6bfwzeNw) | [Solø](https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp) | [Tatuaggi](https://open.spotify.com/album/5ET4JUKXPJnQb240Ay2yFa) | 3:22 |
 | 58 | [L'unica](https://open.spotify.com/track/3HFuWPn66BiUM4bMkYpw7j) | [tellynonpiangere](https://open.spotify.com/artist/2n8rCH14DAnaBWMdkfj9hv) | [L'unica](https://open.spotify.com/album/7GztH92sea7XhAY894aycj) | 3:04 |
 | 59 | [Due anni fa](https://open.spotify.com/track/1kSspMQ30u9gHEiRlXvlMm) | [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [Due anni fa](https://open.spotify.com/album/3RB9f0yIzMt3fNDTTT8xx7) | 2:40 |
-| 60 | [Amsterdam](https://open.spotify.com/track/2BOzEweKLKbBdP6szSatP7) | [Nashley](https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe) | [OSIRIDE](https://open.spotify.com/album/6jmB6f0AiVAAYZRAISXHwq) | 3:20 |
-| 61 | [sto bene, a volte](https://open.spotify.com/track/6yCuN6RqkZInyESNtKvOZu) | [Anzj](https://open.spotify.com/artist/2OAmo9IbfDhgPommOAgXqu) | [cloud love](https://open.spotify.com/album/302uCiHcWTHZ1XaX8D2Rvk) | 1:29 |
+| 60 | [sto bene, a volte](https://open.spotify.com/track/6yCuN6RqkZInyESNtKvOZu) | [Anzj](https://open.spotify.com/artist/2OAmo9IbfDhgPommOAgXqu) | [cloud love](https://open.spotify.com/album/302uCiHcWTHZ1XaX8D2Rvk) | 1:29 |
+| 61 | [Amsterdam](https://open.spotify.com/track/2BOzEweKLKbBdP6szSatP7) | [Nashley](https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe) | [OSIRIDE](https://open.spotify.com/album/6jmB6f0AiVAAYZRAISXHwq) | 3:20 |
 | 62 | [Tornerò](https://open.spotify.com/track/7v6mjoYALPYFqlYQxbsRdj) | [Solø](https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp) | [Tornerò](https://open.spotify.com/album/4m9U7MMcVrA3V7T88SUObz) | 2:26 |
 | 63 | [Letto grande](https://open.spotify.com/track/3vMQhhXqvmEwAvK5NJKjEn) | [Matteo Guccini](https://open.spotify.com/artist/36CoTQmA5QgZvVpG81y1di), [Fedesse](https://open.spotify.com/artist/5PO87szg98wyej1UyFzMbC) | [Letto grande](https://open.spotify.com/album/4e9kOiXKkq3accbxqLIfhC) | 3:31 |
 | 64 | [PERCHÉ NON TI CAPIVO](https://open.spotify.com/track/1JLSRLlbsdX9Ac9S0I1QIq) | [Mike Defunto](https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx), [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc), [Frada](https://open.spotify.com/artist/1khPlpMPliiZeK53WWSWXY) | [PERCHÉ NON TI CAPIVO](https://open.spotify.com/album/5e3Dy4cnbNIhXL45ETogGF) | 2:22 |
-| 65 | [Per starci in due](https://open.spotify.com/track/0rQkHChEcnGAT5C0yMz5Iz) | [Nashley](https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe) | [Per starci in due](https://open.spotify.com/album/1sM799krpscdwLGFpuLw7T) | 3:36 |
-| 66 | [Campi Elisi](https://open.spotify.com/track/4odUYVpvAQi8ilcE2BCTnK) | [FRERO](https://open.spotify.com/artist/0bAPSQOMp1MhjF47XhXrox) | [Campi Elisi](https://open.spotify.com/album/6InYmFNRQalW1mmaTgq3zT) | 2:57 |
+| 65 | [Campi Elisi](https://open.spotify.com/track/4odUYVpvAQi8ilcE2BCTnK) | [FRERO](https://open.spotify.com/artist/0bAPSQOMp1MhjF47XhXrox) | [Campi Elisi](https://open.spotify.com/album/6InYmFNRQalW1mmaTgq3zT) | 2:57 |
+| 66 | [Per starci in due](https://open.spotify.com/track/0rQkHChEcnGAT5C0yMz5Iz) | [Nashley](https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe) | [Per starci in due](https://open.spotify.com/album/1sM799krpscdwLGFpuLw7T) | 3:36 |
 | 67 | [FOTORICORDO](https://open.spotify.com/track/4CJ53jdJwJLZFHB3LfZpDm) | [Solø](https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp), [Luk3](https://open.spotify.com/artist/0whO28HUyJLt9F0bLNzqU1) | [FOTORICORDO](https://open.spotify.com/album/2PlhbNve1RMlT0QDJgmixE) | 2:29 |
 | 68 | [Autopsia](https://open.spotify.com/track/5wEdC22OgyM7umwe6XeCms) | [DOXX](https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr) | [Autopsia](https://open.spotify.com/album/01bwlYW15thIL49JrwibKC) | 3:28 |
 | 69 | [bambino perfetto](https://open.spotify.com/track/7dBnuF21ssUjkqUPO8gApy) | [Shama24k](https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm), [SKI](https://open.spotify.com/artist/5tYQ2v9W4IDtLOWNNBsIH3), [Gheb](https://open.spotify.com/artist/5KigfHb4XxYevzO2hAVPAw) | [bambino perfetto](https://open.spotify.com/album/70URwszSHh76Vb3zj6YlEG) | 2:20 |

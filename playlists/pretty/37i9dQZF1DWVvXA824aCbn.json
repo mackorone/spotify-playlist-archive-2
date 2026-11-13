@@ -1,6 +1,6 @@
 {
   "description": "Relaxing jazz piano from the corner of a dim, cozy bar.",
-  "num_followers": 565876,
+  "num_followers": 565854,
   "original_name": "The Piano Bar",
   "owner": {
     "name": "Spotify",
@@ -411,22 +411,6 @@
     {
       "added_at": "2026-10-14 12:30:04",
       "album": {
-        "name": "A Cookie For Marie",
-        "url": "https://open.spotify.com/album/6X6p18R71Cdewdr1Kev1Lp"
-      },
-      "artists": [
-        {
-          "name": "Smoke & Mirrors Trio",
-          "url": "https://open.spotify.com/artist/2l8hGNs8QG9fAf8baaZPhV"
-        }
-      ],
-      "duration_ms": 206097,
-      "name": "Maybe We Should Dance",
-      "url": "https://open.spotify.com/track/2DWXx31Eg2vNMTcEVZT9qk"
-    },
-    {
-      "added_at": "2026-10-14 12:30:04",
-      "album": {
         "name": "i've got a crush on you",
         "url": "https://open.spotify.com/album/3bdegMUGxFxJbgKocQE2G4"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 216759,
       "name": "i've got a crush on you",
       "url": "https://open.spotify.com/track/79S9Ea6Q347UAPTIWnLmV2"
+    },
+    {
+      "added_at": "2026-10-14 12:30:04",
+      "album": {
+        "name": "A Cookie For Marie",
+        "url": "https://open.spotify.com/album/6X6p18R71Cdewdr1Kev1Lp"
+      },
+      "artists": [
+        {
+          "name": "Smoke & Mirrors Trio",
+          "url": "https://open.spotify.com/artist/2l8hGNs8QG9fAf8baaZPhV"
+        }
+      ],
+      "duration_ms": 206097,
+      "name": "Maybe We Should Dance",
+      "url": "https://open.spotify.com/track/2DWXx31Eg2vNMTcEVZT9qk"
     },
     {
       "added_at": "2026-10-14 12:30:04",
@@ -651,22 +651,6 @@
     {
       "added_at": "2026-10-14 12:30:04",
       "album": {
-        "name": "Sunset Stroll",
-        "url": "https://open.spotify.com/album/2MQMIyZob2GNC9h3GY8iTf"
-      },
-      "artists": [
-        {
-          "name": "Urban Jazz Junction",
-          "url": "https://open.spotify.com/artist/1YGmr0ApbYEQW52awe1VSd"
-        }
-      ],
-      "duration_ms": 164682,
-      "name": "Sunset Stroll",
-      "url": "https://open.spotify.com/track/1KYECtLMpjC6ov4SDRAj2Y"
-    },
-    {
-      "added_at": "2026-10-14 12:30:04",
-      "album": {
         "name": "Still",
         "url": "https://open.spotify.com/album/48i2I8qyuyoqMahX05LWkq"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 151542,
       "name": "Still",
       "url": "https://open.spotify.com/track/2s499EvGIk8gVUGLCyftFX"
+    },
+    {
+      "added_at": "2026-10-14 12:30:04",
+      "album": {
+        "name": "Sunset Stroll",
+        "url": "https://open.spotify.com/album/2MQMIyZob2GNC9h3GY8iTf"
+      },
+      "artists": [
+        {
+          "name": "Urban Jazz Junction",
+          "url": "https://open.spotify.com/artist/1YGmr0ApbYEQW52awe1VSd"
+        }
+      ],
+      "duration_ms": 164682,
+      "name": "Sunset Stroll",
+      "url": "https://open.spotify.com/track/1KYECtLMpjC6ov4SDRAj2Y"
     },
     {
       "added_at": "2026-10-14 12:30:04",
@@ -731,22 +731,6 @@
     {
       "added_at": "2026-10-14 12:30:04",
       "album": {
-        "name": "Time After Time",
-        "url": "https://open.spotify.com/album/3PllPoR4LIRfIBqzyKbcv6"
-      },
-      "artists": [
-        {
-          "name": "Urban Jazz Junction",
-          "url": "https://open.spotify.com/artist/1YGmr0ApbYEQW52awe1VSd"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Time After Time",
-      "url": "https://open.spotify.com/track/3GQ6FWgL0Sfr2JH085HAQt"
-    },
-    {
-      "added_at": "2026-10-14 12:30:04",
-      "album": {
         "name": "Make It Rain",
         "url": "https://open.spotify.com/album/35eoTArdoBLU6DD4d9wplC"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 149852,
       "name": "Make It Rain",
       "url": "https://open.spotify.com/track/6VJYqWMZzlammTuuPSJC09"
+    },
+    {
+      "added_at": "2026-10-14 12:30:04",
+      "album": {
+        "name": "Time After Time",
+        "url": "https://open.spotify.com/album/3PllPoR4LIRfIBqzyKbcv6"
+      },
+      "artists": [
+        {
+          "name": "Urban Jazz Junction",
+          "url": "https://open.spotify.com/artist/1YGmr0ApbYEQW52awe1VSd"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Time After Time",
+      "url": "https://open.spotify.com/track/3GQ6FWgL0Sfr2JH085HAQt"
     },
     {
       "added_at": "2026-10-14 12:30:04",
@@ -891,18 +891,18 @@
     {
       "added_at": "2026-10-14 12:30:04",
       "album": {
-        "name": "Holding Onto Dawn",
-        "url": "https://open.spotify.com/album/0JNJYL6httnFWoLYXh6JAE"
+        "name": "Make bad worse",
+        "url": "https://open.spotify.com/album/7ty0Qser224kx5eqTevfPq"
       },
       "artists": [
         {
-          "name": "Novo Stella",
-          "url": "https://open.spotify.com/artist/1YrNSfkC8jWJm1rfvOKN32"
+          "name": "Ornette Haynes",
+          "url": "https://open.spotify.com/artist/5Fb5lnOYweoOU7Xt5qQ1h6"
         }
       ],
-      "duration_ms": 194812,
-      "name": "Holding Onto Dawn",
-      "url": "https://open.spotify.com/track/27yLQgeE70oyihRLEorqRy"
+      "duration_ms": 160292,
+      "name": "Make bad worse",
+      "url": "https://open.spotify.com/track/0YSEDfbMKIihgvPsqmERWu"
     },
     {
       "added_at": "2026-10-14 12:30:04",
@@ -923,34 +923,18 @@
     {
       "added_at": "2026-10-14 12:30:04",
       "album": {
-        "name": "Make bad worse",
-        "url": "https://open.spotify.com/album/7ty0Qser224kx5eqTevfPq"
+        "name": "Holding Onto Dawn",
+        "url": "https://open.spotify.com/album/0JNJYL6httnFWoLYXh6JAE"
       },
       "artists": [
         {
-          "name": "Ornette Haynes",
-          "url": "https://open.spotify.com/artist/5Fb5lnOYweoOU7Xt5qQ1h6"
+          "name": "Novo Stella",
+          "url": "https://open.spotify.com/artist/1YrNSfkC8jWJm1rfvOKN32"
         }
       ],
-      "duration_ms": 160292,
-      "name": "Make bad worse",
-      "url": "https://open.spotify.com/track/0YSEDfbMKIihgvPsqmERWu"
-    },
-    {
-      "added_at": "2026-10-14 12:30:04",
-      "album": {
-        "name": "Home town",
-        "url": "https://open.spotify.com/album/2uSWzyGyq7Iw3pVgQtjytr"
-      },
-      "artists": [
-        {
-          "name": "Cole Peers trio",
-          "url": "https://open.spotify.com/artist/3HwmLSofJhnA1bdPIREqAj"
-        }
-      ],
-      "duration_ms": 178250,
-      "name": "Home town",
-      "url": "https://open.spotify.com/track/26UQyr3L71oAnXQIJf18gr"
+      "duration_ms": 194812,
+      "name": "Holding Onto Dawn",
+      "url": "https://open.spotify.com/track/27yLQgeE70oyihRLEorqRy"
     },
     {
       "added_at": "2026-10-14 12:30:04",
@@ -987,18 +971,18 @@
     {
       "added_at": "2026-10-14 12:30:04",
       "album": {
-        "name": "Above All",
-        "url": "https://open.spotify.com/album/4yHKNMO6qCHvJlj43fHGGQ"
+        "name": "Home town",
+        "url": "https://open.spotify.com/album/2uSWzyGyq7Iw3pVgQtjytr"
       },
       "artists": [
         {
-          "name": "Arthur Taylor Trio",
-          "url": "https://open.spotify.com/artist/5jwt0e3bddxJFS0qGhvv9n"
+          "name": "Cole Peers trio",
+          "url": "https://open.spotify.com/artist/3HwmLSofJhnA1bdPIREqAj"
         }
       ],
-      "duration_ms": 182733,
-      "name": "Above All",
-      "url": "https://open.spotify.com/track/2K9iXW1SNMCRLhtG1CZKpV"
+      "duration_ms": 178250,
+      "name": "Home town",
+      "url": "https://open.spotify.com/track/26UQyr3L71oAnXQIJf18gr"
     },
     {
       "added_at": "2026-10-14 12:30:04",
@@ -1015,6 +999,22 @@
       "duration_ms": 234370,
       "name": "Walking talking fields",
       "url": "https://open.spotify.com/track/2sMyolj16yyMfF5TDs2Xs8"
+    },
+    {
+      "added_at": "2026-10-14 12:30:04",
+      "album": {
+        "name": "Above All",
+        "url": "https://open.spotify.com/album/4yHKNMO6qCHvJlj43fHGGQ"
+      },
+      "artists": [
+        {
+          "name": "Arthur Taylor Trio",
+          "url": "https://open.spotify.com/artist/5jwt0e3bddxJFS0qGhvv9n"
+        }
+      ],
+      "duration_ms": 182733,
+      "name": "Above All",
+      "url": "https://open.spotify.com/track/2K9iXW1SNMCRLhtG1CZKpV"
     },
     {
       "added_at": "2026-10-14 12:30:04",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2026-10-14 12:30:04",
       "album": {
-        "name": "Ask Me Now",
-        "url": "https://open.spotify.com/album/2M7mD8tcjef75sXOfQg2Q4"
-      },
-      "artists": [
-        {
-          "name": "Mike Coen",
-          "url": "https://open.spotify.com/artist/17USEyRv0BAOsxvM5pnsA8"
-        }
-      ],
-      "duration_ms": 281067,
-      "name": "Ask Me Now",
-      "url": "https://open.spotify.com/track/04ICJKheRrWvKTXcQQN8FM"
-    },
-    {
-      "added_at": "2026-10-14 12:30:04",
-      "album": {
         "name": "Silent Streets",
         "url": "https://open.spotify.com/album/1vQAltisCxDsgosm4JeRjf"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 195029,
       "name": "Silent Streets",
       "url": "https://open.spotify.com/track/0FrtYU16g7KDBnG9F5tCHe"
+    },
+    {
+      "added_at": "2026-10-14 12:30:04",
+      "album": {
+        "name": "Ask Me Now",
+        "url": "https://open.spotify.com/album/2M7mD8tcjef75sXOfQg2Q4"
+      },
+      "artists": [
+        {
+          "name": "Mike Coen",
+          "url": "https://open.spotify.com/artist/17USEyRv0BAOsxvM5pnsA8"
+        }
+      ],
+      "duration_ms": 281067,
+      "name": "Ask Me Now",
+      "url": "https://open.spotify.com/track/04ICJKheRrWvKTXcQQN8FM"
     },
     {
       "added_at": "2026-10-14 12:30:04",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2026-10-14 12:30:04",
       "album": {
-        "name": "Epiphany",
-        "url": "https://open.spotify.com/album/0EiGN4mIttPFWFCr5VWoWV"
-      },
-      "artists": [
-        {
-          "name": "Derek Hines Trio",
-          "url": "https://open.spotify.com/artist/1TDvHxM0O09OWCdW8PLBlY"
-        }
-      ],
-      "duration_ms": 207375,
-      "name": "Epiphany",
-      "url": "https://open.spotify.com/track/7ib0OYB581rQOdkhmyqD6T"
-    },
-    {
-      "added_at": "2026-10-14 12:30:04",
-      "album": {
         "name": "Spring Will Be a Little Late This Year",
         "url": "https://open.spotify.com/album/6E3oiM7hAqeUcw7zEM5kil"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 187634,
       "name": "Spring Will Be a Little Late This Year",
       "url": "https://open.spotify.com/track/6Rv2CtJxWX6Kg7hppcZkAm"
+    },
+    {
+      "added_at": "2026-10-14 12:30:04",
+      "album": {
+        "name": "Epiphany",
+        "url": "https://open.spotify.com/album/0EiGN4mIttPFWFCr5VWoWV"
+      },
+      "artists": [
+        {
+          "name": "Derek Hines Trio",
+          "url": "https://open.spotify.com/artist/1TDvHxM0O09OWCdW8PLBlY"
+        }
+      ],
+      "duration_ms": 207375,
+      "name": "Epiphany",
+      "url": "https://open.spotify.com/track/7ib0OYB581rQOdkhmyqD6T"
     },
     {
       "added_at": "2026-10-14 12:30:04",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2026-10-14 12:30:04",
       "album": {
-        "name": "Shimmer Through",
-        "url": "https://open.spotify.com/album/3IcPECf5cE4czhZqmDhiki"
-      },
-      "artists": [
-        {
-          "name": "David Parks & Silver",
-          "url": "https://open.spotify.com/artist/5lh0cmklkqiNcuFsXOyl1D"
-        }
-      ],
-      "duration_ms": 248106,
-      "name": "Shimmer Through",
-      "url": "https://open.spotify.com/track/6040WhuchadJWK5fuNE3OT"
-    },
-    {
-      "added_at": "2026-10-14 12:30:04",
-      "album": {
         "name": "A double-take",
         "url": "https://open.spotify.com/album/5eeTfQ921Zzt9JW1csZgX5"
       },
@@ -1815,6 +1799,22 @@
       "duration_ms": 174149,
       "name": "A double-take",
       "url": "https://open.spotify.com/track/1ocFV6uNLORlfIHW5FNneZ"
+    },
+    {
+      "added_at": "2026-10-14 12:30:04",
+      "album": {
+        "name": "Shimmer Through",
+        "url": "https://open.spotify.com/album/3IcPECf5cE4czhZqmDhiki"
+      },
+      "artists": [
+        {
+          "name": "David Parks & Silver",
+          "url": "https://open.spotify.com/artist/5lh0cmklkqiNcuFsXOyl1D"
+        }
+      ],
+      "duration_ms": 248106,
+      "name": "Shimmer Through",
+      "url": "https://open.spotify.com/track/6040WhuchadJWK5fuNE3OT"
     },
     {
       "added_at": "2026-10-14 12:30:04",

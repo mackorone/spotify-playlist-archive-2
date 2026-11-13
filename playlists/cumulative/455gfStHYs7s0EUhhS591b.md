@@ -4,7 +4,7 @@
 
 > Feel\-good summer throwbacks and chilled lounge mixes to bring the summer vibe all year round.
 
-292 songs - 17 hr 4 min
+293 songs - 17 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -296,6 +296,7 @@
 | [Who Do You Love Now \(Stringer\) \- Larry Lush Ambient Extended Remix](https://open.spotify.com/track/7JT6rZ4chNbzwQMrLCkFZc) | [Riva](https://open.spotify.com/artist/6iA15qGHQwya65ivTQXDzP), [Dannii Minogue](https://open.spotify.com/artist/6XCS9JCn56Q252cMOTbeq6), [Chocolate Puma](https://open.spotify.com/artist/5Aw0IGM5JS3FuTgtRsDWGA), [Larry Lush](https://open.spotify.com/artist/3OvoEybnW789EWk2rhwm6O) | [Who Do You Love Now \(Stringer\)](https://open.spotify.com/album/2YJClku4XNBHu8tHVE893l) | 7:15 | 2025-06-19 |  |
 | [Wide Awake & Dreaming](https://open.spotify.com/track/2JR8MPHL6BqC22nZbMQTmD) | [Amba Shepherd](https://open.spotify.com/artist/4RTCIP5yp2tL1AtBCq7ukj), [Summer Is Calling](https://open.spotify.com/artist/34q9Zt0mBwYXGMeRq9m94u) | [Wide Awake & Dreaming](https://open.spotify.com/album/0kSLx1snPuLdY9wIsRTTQH) | 3:09 | 2025-09-12 |  |
 | [With You](https://open.spotify.com/track/5Lu0vv78RmKZeBPpP1N8za) | [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [With You](https://open.spotify.com/album/1Ca9JdekdlYxnlCMCtVsdR) | 2:34 | 2025-07-18 | 2026-04-18 |
+| [You \- Summer Is Calling Remix](https://open.spotify.com/track/4dHPcK1EDLKQlxilmcbHiO) | [Lost Kings](https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc), [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn), [Summer Is Calling](https://open.spotify.com/artist/34q9Zt0mBwYXGMeRq9m94u) | [You \(Summer Is Calling Remix\)](https://open.spotify.com/album/2slxVbCOqwci5ymPbFlw8f) | 2:21 | 2026-11-13 |  |
 | [You Alone](https://open.spotify.com/track/5MdE6EDV3JeAuTARa2rAVx) | [Will Clarke](https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi), [blythe](https://open.spotify.com/artist/3a6XMXgL5f92tw3wX42kOC) | [Midnight Mass](https://open.spotify.com/album/6Fphuv16AxAhxJcUYPWzV9) | 2:57 | 2025-07-18 |  |
 | [You Are A Traveler](https://open.spotify.com/track/0WYyQGmQy979roTvrVwlTb) | [Tidal Waves](https://open.spotify.com/artist/2dMbBvWelHuv0g26i8G2VH), [Luca Aprile](https://open.spotify.com/artist/149gSkst4bm3PyT2CR7lht) | [You Are A Traveler](https://open.spotify.com/album/4PUk9aHXSLwTdxKjICqBxj) | 3:02 | 2025-07-18 | 2026-04-18 |
 | [Your Loving Arms](https://open.spotify.com/track/0CimIAYuPTVVSHRkdTIlar) | [Summer Is Calling](https://open.spotify.com/artist/34q9Zt0mBwYXGMeRq9m94u), [Karen Overton](https://open.spotify.com/artist/1lIWmG51qV9UGl0H9hr9mR) | [Your Loving Arms](https://open.spotify.com/album/1WpeA8ag2AUWRACxK0bmKZ) | 3:02 | 2025-07-18 |  |

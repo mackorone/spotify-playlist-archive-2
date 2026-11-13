@@ -2,7 +2,7 @@
 
 ### [Viral Songs UK & IE](https://open.spotify.com/playlist/37i9dQZF1DWW1yuCSjnKtM)
 
-> Hot right now 📈 cover: Tate McRae
+> Hot right now 📈 cover: Cloonee and Prospa
 
 1,131 songs - 2 day 14 hr 54 min
 

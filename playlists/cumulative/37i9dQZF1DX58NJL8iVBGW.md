@@ -4,7 +4,7 @@
 
 > Long\-shadow roots rock, folk, and Americana\. Grit\-worn, brooding, and  dark.
 
-269 songs - 16 hr 35 min
+270 songs - 16 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,7 +174,7 @@
 | [Meet Me in the Alleyway](https://open.spotify.com/track/1m4E3gYFqZ0RTxGlZWxP7k) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [I'll Never Get out of This World Alive](https://open.spotify.com/album/4TpbQA23m33nGTWzWBkuZy) | 4:25 | 2022-06-06 | 2024-04-13 |
 | [Meet Me In The Alleyway](https://open.spotify.com/track/4qIY8BJt2qBDZT8lm2eFkv) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [I'll Never Get Out of This World Alive](https://open.spotify.com/album/1QZxAcimNfPH2jymFKdmDE) | 4:25 | 2021-08-16 | 2025-12-13 |
 | [Mountain Rain](https://open.spotify.com/track/0AiIGZWqQ9TlIexfu9W8cU) | [Jonathan Peyton](https://open.spotify.com/artist/1rKBNFP4jc1iLEH8ziP7O0), [Abigail Peyton](https://open.spotify.com/artist/2Hl6tMrcJPzA5mTYgUWVv3) | [Mountain Rain](https://open.spotify.com/album/5uXNrDDexcfkMb11o9y3p4) | 4:05 | 2026-11-06 |  |
-| [Moving](https://open.spotify.com/track/5HAfUxI8HS1V3cvuiEBSyc) | [The Deslondes](https://open.spotify.com/artist/5nlQijI9hZ50keRqmLVov1) | [Moving](https://open.spotify.com/album/375h96EtVWRecmNSwvqXRG) | 3:00 | 2026-03-27 |  |
+| [Moving](https://open.spotify.com/track/5HAfUxI8HS1V3cvuiEBSyc) | [The Deslondes](https://open.spotify.com/artist/5nlQijI9hZ50keRqmLVov1) | [Moving](https://open.spotify.com/album/375h96EtVWRecmNSwvqXRG) | 3:00 | 2026-03-27 | 2026-11-13 |
 | [My Church Is Black](https://open.spotify.com/track/6CApje4OBrR9y2EQJlu8KJ) | [Me And That Man](https://open.spotify.com/artist/3zhMQz4U8XeOPq1Nphrd6a) | [My Church Is Black](https://open.spotify.com/album/7xGEQewEQ8E74KHmIGDYUG) | 2:58 | 2021-08-16 | 2026-08-14 |
 | [No Way Out But Down](https://open.spotify.com/track/4QWnQIa20uqK8uR5RVSRoh) | [Graham Lindsey](https://open.spotify.com/artist/1hFvZy3pBf5pOSmJULL4sG) | [For A Decade of Sin: 11 Years of Bloodshot Records](https://open.spotify.com/album/5WC1jMjx18ysynP4gJPuLb) | 3:10 | 2021-08-16 | 2022-07-29 |
 | [No Way Out but Down \(Alternate Version\)](https://open.spotify.com/track/5xpmBKqvY9u9ziuHRTusY9) | [Graham Lindsey](https://open.spotify.com/artist/1hFvZy3pBf5pOSmJULL4sG) | [Digging Up Birds: A Collection of Rarities & Others](https://open.spotify.com/album/1jbmuJoXQitCyg5vl7kYHD) | 3:08 | 2022-06-06 | 2023-12-26 |
@@ -183,6 +183,7 @@
 | [Oak Tree](https://open.spotify.com/track/2xqpprcQPzknH33EbyJm6i) | [Mirel Wagner](https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx) | [Oak Tree](https://open.spotify.com/album/0zzfzfVNuBwhwkIal3MP0N) | 3:00 | 2021-08-16 | 2022-07-29 |
 | [Oak Tree](https://open.spotify.com/track/0H9gWRPB92lrwtjtQtdrwD) | [Mirel Wagner](https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx) | [When the Cellar Children See the Light of Day](https://open.spotify.com/album/4RP8ZcEWH1tPoEdkaPf8KK) | 3:00 | 2022-06-06 | 2024-04-19 |
 | [Of Nettles and Roses](https://open.spotify.com/track/5PjpDDm31DevJTdSTuRrRS) | [Cinder Well](https://open.spotify.com/artist/6BJ7iUkCa68mX6UnFBwzsV) | [A Blooming Body](https://open.spotify.com/album/3HrIhOs6N3qLz52crWhspQ) | 3:43 | 2026-07-17 |  |
+| [Old Money \(From The Hunger Games: Sunrise on the Reaping \- The Album\)](https://open.spotify.com/track/5Sve6OquhBhnvEXpjxAvwt) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Old Money \(From The Hunger Games: Sunrise on the Reaping \- The Album\)](https://open.spotify.com/album/7aZ23ypWpvhCDWHHATbs1X) | 3:14 | 2026-11-13 |  |
 | [Old Time Religion](https://open.spotify.com/track/4zm37YNRt5XrbFOTPk0jBp) | [Parker Millsap](https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur) | [Parker Millsap](https://open.spotify.com/album/3puqTC6ZIfItLMY4q0wr4e) | 3:54 | 2021-08-16 |  |
 | [One Trip Pony](https://open.spotify.com/track/4BjGGDbhvokfDOBainle9U) | [Early James](https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY) | [One Trip Pony](https://open.spotify.com/album/74baaIXY7vOeuCZzVSEVs3) | 3:40 | 2024-02-16 | 2026-09-18 |
 | [Open Up Your Mind](https://open.spotify.com/track/1YRGRLjCWNlwnmU5spyolO) | [Avi Kaplan](https://open.spotify.com/artist/179MtpbgyNgeNnwNVqnn4p) | [Open Up Your Mind](https://open.spotify.com/album/7AjDfTvIIbRpaByE5zkFgG) | 3:04 | 2026-08-28 |  |

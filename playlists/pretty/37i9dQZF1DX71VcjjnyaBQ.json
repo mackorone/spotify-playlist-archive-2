@@ -1,6 +1,6 @@
 {
   "description": "Soft jazz for slow mornings, first coffee, and the quiet before the day starts.",
-  "num_followers": 448713,
+  "num_followers": 448739,
   "original_name": "Good Morning Jazz",
   "owner": {
     "name": "Spotify",
@@ -407,22 +407,6 @@
     {
       "added_at": "2026-11-06 09:55:33",
       "album": {
-        "name": "II",
-        "url": "https://open.spotify.com/album/1TQcJ46fVdGcVoG5kTXe0W"
-      },
-      "artists": [
-        {
-          "name": "New Fossils",
-          "url": "https://open.spotify.com/artist/1xLmn6aIyH3jxg8lX7L9Zm"
-        }
-      ],
-      "duration_ms": 171397,
-      "name": "Solace",
-      "url": "https://open.spotify.com/track/6O7Eyfs27MbNCaoEDwGLqp"
-    },
-    {
-      "added_at": "2026-11-06 09:55:33",
-      "album": {
         "name": "Memories",
         "url": "https://open.spotify.com/album/3AOFyozta3QSEfa7T9supv"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 366133,
       "name": "Memories",
       "url": "https://open.spotify.com/track/2uLa2EKuWZ62AsBUE1TNi6"
+    },
+    {
+      "added_at": "2026-11-06 09:55:33",
+      "album": {
+        "name": "II",
+        "url": "https://open.spotify.com/album/1TQcJ46fVdGcVoG5kTXe0W"
+      },
+      "artists": [
+        {
+          "name": "New Fossils",
+          "url": "https://open.spotify.com/artist/1xLmn6aIyH3jxg8lX7L9Zm"
+        }
+      ],
+      "duration_ms": 171397,
+      "name": "Solace",
+      "url": "https://open.spotify.com/track/6O7Eyfs27MbNCaoEDwGLqp"
     },
     {
       "added_at": "2026-11-06 09:55:33",
@@ -707,22 +707,6 @@
     {
       "added_at": "2026-11-06 09:55:33",
       "album": {
-        "name": "Jennie / Gravol",
-        "url": "https://open.spotify.com/album/3cU5aG5kVY2PERgkd0EXNJ"
-      },
-      "artists": [
-        {
-          "name": "Hederosgruppen",
-          "url": "https://open.spotify.com/artist/0UNiBtRacvAnbospnyiEhw"
-        }
-      ],
-      "duration_ms": 364741,
-      "name": "Jennie",
-      "url": "https://open.spotify.com/track/5pvXycrzupnyDZT1FVuwEL"
-    },
-    {
-      "added_at": "2026-11-06 09:55:33",
-      "album": {
         "name": "In This Moment",
         "url": "https://open.spotify.com/album/0UFAX4kDWFNLpXWAjrBq4G"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 223706,
       "name": "In This Moment",
       "url": "https://open.spotify.com/track/5ntssQtDHWUdKBYiQDQP5I"
+    },
+    {
+      "added_at": "2026-11-06 09:55:33",
+      "album": {
+        "name": "Jennie / Gravol",
+        "url": "https://open.spotify.com/album/3cU5aG5kVY2PERgkd0EXNJ"
+      },
+      "artists": [
+        {
+          "name": "Hederosgruppen",
+          "url": "https://open.spotify.com/artist/0UNiBtRacvAnbospnyiEhw"
+        }
+      ],
+      "duration_ms": 364741,
+      "name": "Jennie",
+      "url": "https://open.spotify.com/track/5pvXycrzupnyDZT1FVuwEL"
     },
     {
       "added_at": "2026-11-06 09:55:33",

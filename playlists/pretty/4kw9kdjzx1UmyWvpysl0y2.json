@@ -1,13 +1,61 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 122150,
+  "num_followers": 122139,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAV51d0606KgFMiGOJZpyvGs5fmeZv8",
+  "snapshot_id": "AAAV6e9MGQQGoD8HShheGmyJ1eO0E391",
   "tracks": [
+    {
+      "added_at": "2026-11-12 15:11:28",
+      "album": {
+        "name": "Wildfire",
+        "url": "https://open.spotify.com/album/6jeE5vtviufpGBqV4tb994"
+      },
+      "artists": [
+        {
+          "name": "MitiS",
+          "url": "https://open.spotify.com/artist/16yUpGkBRgc2eDMd3bB3Uw"
+        },
+        {
+          "name": "FLOTE",
+          "url": "https://open.spotify.com/artist/5GlpEfsBmDxKXL5Sr3ZTMO"
+        },
+        {
+          "name": "Violyt",
+          "url": "https://open.spotify.com/artist/58dODJDrNq8DHvx5CJDJgd"
+        }
+      ],
+      "duration_ms": 191811,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/4qTWnYehSsQRKM29JfSYCF"
+    },
+    {
+      "added_at": "2026-11-12 15:10:08",
+      "album": {
+        "name": "OCEAN EYES",
+        "url": "https://open.spotify.com/album/1pZXpeAuUa2vOKZ1yd3CK8"
+      },
+      "artists": [
+        {
+          "name": "WHOiSEE",
+          "url": "https://open.spotify.com/artist/7pA2OyYV0LxwdOvzJJe7CH"
+        },
+        {
+          "name": "ARKIIN",
+          "url": "https://open.spotify.com/artist/3cMxYJXz3hB6rmjmp12DK3"
+        },
+        {
+          "name": "Elle Vee",
+          "url": "https://open.spotify.com/artist/7b1FMiWXZwOBsxi0uWw6wH"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "OCEAN EYES",
+      "url": "https://open.spotify.com/track/0NuCDPkaoiyfGEHXADvzvF"
+    },
     {
       "added_at": "2026-11-09 15:28:37",
       "album": {

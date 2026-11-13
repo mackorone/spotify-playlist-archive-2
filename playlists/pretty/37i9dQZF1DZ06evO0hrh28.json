@@ -1,12 +1,12 @@
 {
   "description": "This is Emilia. The essential tracks, all in one playlist.",
-  "num_followers": 255017,
+  "num_followers": 255015,
   "original_name": "This Is Emilia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avENAAAAAACyq1rfWTnWotsHBIoQegOn",
+  "snapshot_id": "avOwAAAAAABWZcBIUwpNgb2qu3CY84R7",
   "tracks": [
     {
       "added_at": null,
@@ -323,6 +323,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La_Playlist.mpeg",
+        "url": "https://open.spotify.com/album/4hrs3KFCvbn6OWadD2qio4"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 149571,
+      "name": "La_Playlist.mpeg",
+      "url": "https://open.spotify.com/track/0Cs2ANiGsCOQLKnCrNJ6hA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "GOTTI A",
         "url": "https://open.spotify.com/album/3s6jmSUxBLRxzKdevnFmJS"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 165054,
       "name": "Alegr\u00eda",
       "url": "https://open.spotify.com/track/0c82YIGpQ5dCaXpTNCk4sb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La_Playlist.mpeg",
-        "url": "https://open.spotify.com/album/4hrs3KFCvbn6OWadD2qio4"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 149571,
-      "name": "La_Playlist.mpeg",
-      "url": "https://open.spotify.com/track/0Cs2ANiGsCOQLKnCrNJ6hA"
     },
     {
       "added_at": null,
@@ -491,42 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00bfY ahora qu\u00e9 +?",
-        "url": "https://open.spotify.com/album/2oBvsAEB09BYyv3Dnzn2Lb"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        },
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 158040,
-      "name": "La cita",
-      "url": "https://open.spotify.com/track/7okjG9qhfXb7mE6HkvBMOK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": ".mp3",
-        "url": "https://open.spotify.com/album/2qo8j9yZIsx66yDuUho2jp"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 155861,
-      "name": "Jagger.mp3",
-      "url": "https://open.spotify.com/track/5XUWO8VqwE4PEkLYAtt7h7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MASNA REMIX",
         "url": "https://open.spotify.com/album/1vfrfkUV2mKB8KPaOcdyaS"
       },
@@ -555,22 +519,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Midnight Sun: Girls Trip",
-        "url": "https://open.spotify.com/album/4WMcRlbt7NvpKrrqO8ykQf"
+        "name": ".mp3",
+        "url": "https://open.spotify.com/album/2qo8j9yZIsx66yDuUho2jp"
       },
       "artists": [
         {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 155861,
+      "name": "Jagger.mp3",
+      "url": "https://open.spotify.com/track/5XUWO8VqwE4PEkLYAtt7h7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u00bfY ahora qu\u00e9 +?",
+        "url": "https://open.spotify.com/album/2oBvsAEB09BYyv3Dnzn2Lb"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
         },
         {
           "name": "Emilia",
           "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
         }
       ],
-      "duration_ms": 195913,
-      "name": "Girl's Girl - Girls Trip",
-      "url": "https://open.spotify.com/track/1eA6Uh2q01uLdV8aXupWtY"
+      "duration_ms": 158040,
+      "name": "La cita",
+      "url": "https://open.spotify.com/track/7okjG9qhfXb7mE6HkvBMOK"
     },
     {
       "added_at": null,
@@ -591,6 +571,26 @@
       "duration_ms": 157830,
       "name": "Salgo a Bailar",
       "url": "https://open.spotify.com/track/7xX7bER73YZSE4m76OpMXV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Midnight Sun: Girls Trip",
+        "url": "https://open.spotify.com/album/4WMcRlbt7NvpKrrqO8ykQf"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 195913,
+      "name": "Girl's Girl - Girls Trip",
+      "url": "https://open.spotify.com/track/1eA6Uh2q01uLdV8aXupWtY"
     },
     {
       "added_at": null,
@@ -683,42 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TU Y YO",
-        "url": "https://open.spotify.com/album/6fP9gXEDhdBaWz6E08kqRr"
-      },
-      "artists": [
-        {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
-        },
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 192517,
-      "name": "TU Y YO",
-      "url": "https://open.spotify.com/track/00THZGfbizNvMUkJsQs74K"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "T\u00fa crees en m\u00ed?",
-        "url": "https://open.spotify.com/album/4wVrfNzE3Dab7EB1Xn6SHo"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 133894,
-      "name": "cuatro veinte",
-      "url": "https://open.spotify.com/track/3ushwCdjpWNdSnZgRFU6Oc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BOTA",
         "url": "https://open.spotify.com/album/3dR7Ki6FZ7ZzERpGaDqizJ"
       },
@@ -739,6 +703,42 @@
       "duration_ms": 178173,
       "name": "BOTA",
       "url": "https://open.spotify.com/track/6XRjI89oGBRJe0etKtI04L"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "T\u00fa crees en m\u00ed?",
+        "url": "https://open.spotify.com/album/4wVrfNzE3Dab7EB1Xn6SHo"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 133894,
+      "name": "cuatro veinte",
+      "url": "https://open.spotify.com/track/3ushwCdjpWNdSnZgRFU6Oc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TU Y YO",
+        "url": "https://open.spotify.com/album/6fP9gXEDhdBaWz6E08kqRr"
+      },
+      "artists": [
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 192517,
+      "name": "TU Y YO",
+      "url": "https://open.spotify.com/track/00THZGfbizNvMUkJsQs74K"
     },
     {
       "added_at": null,
@@ -799,26 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "pasarella \ud83d\udc60",
-        "url": "https://open.spotify.com/album/0DVus7APZKK2eIUkjkt0Md"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        },
-        {
-          "name": "Six Sex",
-          "url": "https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr"
-        }
-      ],
-      "duration_ms": 162245,
-      "name": "pasarella \ud83d\udc60",
-      "url": "https://open.spotify.com/track/67vjKw6LVD5wewFuoC1215"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Underground",
         "url": "https://open.spotify.com/album/2npWGbycKmVVwOn4vo2xBr"
       },
@@ -831,42 +811,6 @@
       "duration_ms": 149471,
       "name": "Underground",
       "url": "https://open.spotify.com/track/3QWCxOv2YharMus6KbfiPJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vestido Rojo",
-        "url": "https://open.spotify.com/album/0IVjdhsXZAeaBHaiZkkcMn"
-      },
-      "artists": [
-        {
-          "name": "Silvestre Dangond",
-          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
-        },
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 153868,
-      "name": "Vestido Rojo",
-      "url": "https://open.spotify.com/track/6kyllwQMZPwCgCJiJd0eWX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "T\u00fa crees en m\u00ed?",
-        "url": "https://open.spotify.com/album/4wVrfNzE3Dab7EB1Xn6SHo"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 166714,
-      "name": "mi otra mitad",
-      "url": "https://open.spotify.com/track/2Cna21irIvinVSJdGda8Om"
     },
     {
       "added_at": null,
@@ -894,11 +838,51 @@
         {
           "name": "Emilia",
           "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        },
+        {
+          "name": "Six Sex",
+          "url": "https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr"
         }
       ],
-      "duration_ms": 218120,
-      "name": "perfectas",
-      "url": "https://open.spotify.com/track/2Syg7oH4lJ2yG2pE7QCcIv"
+      "duration_ms": 162245,
+      "name": "pasarella \ud83d\udc60",
+      "url": "https://open.spotify.com/track/5jX8y3uTztypaMgOinxYMw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "T\u00fa crees en m\u00ed?",
+        "url": "https://open.spotify.com/album/4wVrfNzE3Dab7EB1Xn6SHo"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 166714,
+      "name": "mi otra mitad",
+      "url": "https://open.spotify.com/track/2Cna21irIvinVSJdGda8Om"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vestido Rojo",
+        "url": "https://open.spotify.com/album/0IVjdhsXZAeaBHaiZkkcMn"
+      },
+      "artists": [
+        {
+          "name": "Silvestre Dangond",
+          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 153868,
+      "name": "Vestido Rojo",
+      "url": "https://open.spotify.com/track/6kyllwQMZPwCgCJiJd0eWX"
     },
     {
       "added_at": null,
@@ -919,6 +903,22 @@
       "duration_ms": 164289,
       "name": "De Enero a Diciembre",
       "url": "https://open.spotify.com/track/1p22yVi9e8DT6BEUvOZ0TL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "perfectas",
+        "url": "https://open.spotify.com/album/7FM4Jp2W2L7kvXh7XJAeDl"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 218120,
+      "name": "perfectas",
+      "url": "https://open.spotify.com/track/2Syg7oH4lJ2yG2pE7QCcIv"
     },
     {
       "added_at": null,

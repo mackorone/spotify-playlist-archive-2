@@ -715,6 +715,24 @@
     },
     {
       "album": {
+        "name": "Amen",
+        "url": "https://open.spotify.com/album/2JYPeLjZU8OSckGI3bmIlJ"
+      },
+      "artists": [
+        {
+          "name": "Kitty Ca$h",
+          "url": "https://open.spotify.com/artist/1WcZXhILKBJktTKnqfjWMT"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280320,
+      "name": "Amen",
+      "url": "https://open.spotify.com/track/4BbYT91rlp5nfVJsFhaTe5"
+    },
+    {
+      "album": {
         "name": "AMERICA HAS A PROBLEM (feat. Kendrick Lamar)",
         "url": "https://open.spotify.com/album/2WMGh4pKjsJ21Jlj1DzT7c"
       },
@@ -3180,7 +3198,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 273333,
       "name": "Dancing Nonstop",
       "url": "https://open.spotify.com/track/4T3FFjfzTvVtP7vXHl9CmY"
@@ -5568,6 +5586,24 @@
       "duration_ms": 158600,
       "name": "Going On",
       "url": "https://open.spotify.com/track/6h0ZTPpSl9qT7vmaja9COF"
+    },
+    {
+      "album": {
+        "name": "Good Karma",
+        "url": "https://open.spotify.com/album/4ynfISPekj2DBoTL09R3ta"
+      },
+      "artists": [
+        {
+          "name": "ARDN",
+          "url": "https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "Good Karma",
+      "url": "https://open.spotify.com/track/3mPIT4FDXOIYDFmDLV9WAP"
     },
     {
       "album": {
@@ -8518,7 +8554,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 187223,
       "name": "Money Maker",
       "url": "https://open.spotify.com/track/0jgVmVHbfM7rbhxQQbdpPo"
@@ -10024,7 +10060,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 189797,
       "name": "Peas In A Pod",
       "url": "https://open.spotify.com/track/7HIxhNg4Ko9CvKYpVPMS94"

@@ -1,6 +1,6 @@
 {
   "description": "Journey through the sounds of South African Jazz. Cover: Pilani Bubu",
-  "num_followers": 14900,
+  "num_followers": 14908,
   "original_name": "Jazz NEXT",
   "owner": {
     "name": "Spotify",
@@ -503,22 +503,6 @@
     {
       "added_at": "2026-10-01 22:02:06",
       "album": {
-        "name": "geza",
-        "url": "https://open.spotify.com/album/35azJIrFdyKbviBqU57vhi"
-      },
-      "artists": [
-        {
-          "name": "vuyo viwe",
-          "url": "https://open.spotify.com/artist/0izMndRrjUpSI7mig8yIBj"
-        }
-      ],
-      "duration_ms": 429019,
-      "name": "geza",
-      "url": "https://open.spotify.com/track/4dD6lOcZUNi4M6yA6iUivs"
-    },
-    {
-      "added_at": "2026-10-01 22:02:06",
-      "album": {
         "name": "The Y-Factor Project",
         "url": "https://open.spotify.com/album/6RFLbolbRVLiQwcn2yXk5s"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 258920,
       "name": "Elusive Freedom",
       "url": "https://open.spotify.com/track/0WWQOyWlBzOvAq8XQdQ9Y3"
+    },
+    {
+      "added_at": "2026-10-01 22:02:06",
+      "album": {
+        "name": "The Seed",
+        "url": "https://open.spotify.com/album/0aOrh3PB8Dc41VEcrFxGM8"
+      },
+      "artists": [
+        {
+          "name": "Rorisang Sechele",
+          "url": "https://open.spotify.com/artist/56cA6GXVKFti1Ax2iWZmwU"
+        }
+      ],
+      "duration_ms": 271705,
+      "name": "The Anchor",
+      "url": "https://open.spotify.com/track/5S91DIl4Wy8Bv4gWAAKi89"
     },
     {
       "added_at": "2026-10-01 22:02:06",
@@ -571,18 +571,18 @@
     {
       "added_at": "2026-10-01 22:02:06",
       "album": {
-        "name": "The Seed",
-        "url": "https://open.spotify.com/album/0aOrh3PB8Dc41VEcrFxGM8"
+        "name": "geza",
+        "url": "https://open.spotify.com/album/35azJIrFdyKbviBqU57vhi"
       },
       "artists": [
         {
-          "name": "Rorisang Sechele",
-          "url": "https://open.spotify.com/artist/56cA6GXVKFti1Ax2iWZmwU"
+          "name": "vuyo viwe",
+          "url": "https://open.spotify.com/artist/0izMndRrjUpSI7mig8yIBj"
         }
       ],
-      "duration_ms": 271705,
-      "name": "The Anchor",
-      "url": "https://open.spotify.com/track/5S91DIl4Wy8Bv4gWAAKi89"
+      "duration_ms": 429019,
+      "name": "geza",
+      "url": "https://open.spotify.com/track/4dD6lOcZUNi4M6yA6iUivs"
     },
     {
       "added_at": "2026-10-01 22:02:06",
@@ -659,22 +659,6 @@
     {
       "added_at": "2026-10-01 22:02:06",
       "album": {
-        "name": "Invitation 2",
-        "url": "https://open.spotify.com/album/3JHKnTZn987AZsQHDpx0x5"
-      },
-      "artists": [
-        {
-          "name": "Don Laka",
-          "url": "https://open.spotify.com/artist/1pVB3hFHwbaa3CkI72nQfQ"
-        }
-      ],
-      "duration_ms": 258746,
-      "name": "Monate Ofedile",
-      "url": "https://open.spotify.com/track/3tmrfMKWSKiPzhyKqX419r"
-    },
-    {
-      "added_at": "2026-10-01 22:02:06",
-      "album": {
         "name": "H.O.P.E (Holding On to Positive Expectations)",
         "url": "https://open.spotify.com/album/0hbHnPzMH1eesjHzByYvSF"
       },
@@ -691,26 +675,38 @@
     {
       "added_at": "2026-10-01 22:02:06",
       "album": {
-        "name": "The Crossover II",
-        "url": "https://open.spotify.com/album/3jyWT4o0KD5VMAuUAJM5BE"
+        "name": "Invitation 2",
+        "url": "https://open.spotify.com/album/3JHKnTZn987AZsQHDpx0x5"
       },
       "artists": [
         {
-          "name": "Jazzgroupiez",
-          "url": "https://open.spotify.com/artist/2SmWARs3Ky24E8bfpqj5QM"
-        },
-        {
-          "name": "Saul Madiope",
-          "url": "https://open.spotify.com/artist/2BbonfFXXMlwfcLemarFh3"
-        },
-        {
-          "name": "Stephen Richard",
-          "url": "https://open.spotify.com/artist/4OO982yjCXgY3K3zFqflp3"
+          "name": "Don Laka",
+          "url": "https://open.spotify.com/artist/1pVB3hFHwbaa3CkI72nQfQ"
         }
       ],
-      "duration_ms": 129998,
-      "name": "Brunch In Harlem",
-      "url": "https://open.spotify.com/track/3DNguS5r1FV5U8nikhRkJ9"
+      "duration_ms": 258746,
+      "name": "Monate Ofedile",
+      "url": "https://open.spotify.com/track/3tmrfMKWSKiPzhyKqX419r"
+    },
+    {
+      "added_at": "2026-10-01 22:02:06",
+      "album": {
+        "name": "kulungile",
+        "url": "https://open.spotify.com/album/2Z7VkHwAezY18EJ9wHPeR9"
+      },
+      "artists": [
+        {
+          "name": "Thandiswa",
+          "url": "https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N"
+        },
+        {
+          "name": "Nduduzo Makhathini",
+          "url": "https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft"
+        }
+      ],
+      "duration_ms": 346924,
+      "name": "kulungile",
+      "url": "https://open.spotify.com/track/5IMyRcJrykW4EQKUEwOIrC"
     },
     {
       "added_at": "2026-10-01 22:02:06",
@@ -747,22 +743,26 @@
     {
       "added_at": "2026-10-01 22:02:06",
       "album": {
-        "name": "kulungile",
-        "url": "https://open.spotify.com/album/2Z7VkHwAezY18EJ9wHPeR9"
+        "name": "The Crossover II",
+        "url": "https://open.spotify.com/album/3jyWT4o0KD5VMAuUAJM5BE"
       },
       "artists": [
         {
-          "name": "Thandiswa",
-          "url": "https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N"
+          "name": "Jazzgroupiez",
+          "url": "https://open.spotify.com/artist/2SmWARs3Ky24E8bfpqj5QM"
         },
         {
-          "name": "Nduduzo Makhathini",
-          "url": "https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft"
+          "name": "Saul Madiope",
+          "url": "https://open.spotify.com/artist/2BbonfFXXMlwfcLemarFh3"
+        },
+        {
+          "name": "Stephen Richard",
+          "url": "https://open.spotify.com/artist/4OO982yjCXgY3K3zFqflp3"
         }
       ],
-      "duration_ms": 346924,
-      "name": "kulungile",
-      "url": "https://open.spotify.com/track/5IMyRcJrykW4EQKUEwOIrC"
+      "duration_ms": 129998,
+      "name": "Brunch In Harlem",
+      "url": "https://open.spotify.com/track/3DNguS5r1FV5U8nikhRkJ9"
     },
     {
       "added_at": "2026-10-01 22:02:06",
@@ -791,26 +791,6 @@
     {
       "added_at": "2026-10-01 22:02:06",
       "album": {
-        "name": "Tones of Epiphany",
-        "url": "https://open.spotify.com/album/3xGxUaz3ASDBegpjbmChea"
-      },
-      "artists": [
-        {
-          "name": "Zu.",
-          "url": "https://open.spotify.com/artist/1CQAguK72YsRMOjz1ECeqq"
-        },
-        {
-          "name": "Zuko Collective",
-          "url": "https://open.spotify.com/artist/7ES5SeD9pzZlWsStxrVUMK"
-        }
-      ],
-      "duration_ms": 362790,
-      "name": "The Aha Moment",
-      "url": "https://open.spotify.com/track/5DCuEzR8CjK94M2DWwKygy"
-    },
-    {
-      "added_at": "2026-10-01 22:02:06",
-      "album": {
         "name": "H.O.P.E (Holding On to Positive Expectations)",
         "url": "https://open.spotify.com/album/0hbHnPzMH1eesjHzByYvSF"
       },
@@ -827,18 +807,22 @@
     {
       "added_at": "2026-10-01 22:02:06",
       "album": {
-        "name": "Let The Sky Open Under Your Feet",
-        "url": "https://open.spotify.com/album/5KbTt2xYPBeZXvChMbMwec"
+        "name": "Tones of Epiphany",
+        "url": "https://open.spotify.com/album/3xGxUaz3ASDBegpjbmChea"
       },
       "artists": [
         {
-          "name": "Skyjack",
-          "url": "https://open.spotify.com/artist/6gSBRCbcqIIaD7slbHymwa"
+          "name": "Zu.",
+          "url": "https://open.spotify.com/artist/1CQAguK72YsRMOjz1ECeqq"
+        },
+        {
+          "name": "Zuko Collective",
+          "url": "https://open.spotify.com/artist/7ES5SeD9pzZlWsStxrVUMK"
         }
       ],
-      "duration_ms": 395213,
-      "name": "Let The Sky Open Under Your Feet",
-      "url": "https://open.spotify.com/track/2Pe4C7EbOhkb2ELEGsLfDc"
+      "duration_ms": 362790,
+      "name": "The Aha Moment",
+      "url": "https://open.spotify.com/track/5DCuEzR8CjK94M2DWwKygy"
     },
     {
       "added_at": "2026-10-01 22:02:06",
@@ -883,6 +867,22 @@
     {
       "added_at": "2026-10-01 22:02:06",
       "album": {
+        "name": "Let The Sky Open Under Your Feet",
+        "url": "https://open.spotify.com/album/5KbTt2xYPBeZXvChMbMwec"
+      },
+      "artists": [
+        {
+          "name": "Skyjack",
+          "url": "https://open.spotify.com/artist/6gSBRCbcqIIaD7slbHymwa"
+        }
+      ],
+      "duration_ms": 395213,
+      "name": "Let The Sky Open Under Your Feet",
+      "url": "https://open.spotify.com/track/2Pe4C7EbOhkb2ELEGsLfDc"
+    },
+    {
+      "added_at": "2026-10-01 22:02:06",
+      "album": {
         "name": "iLadi",
         "url": "https://open.spotify.com/album/2fxOL93WjnYC4tNoPGkKqL"
       },
@@ -915,22 +915,6 @@
     {
       "added_at": "2026-10-01 22:02:06",
       "album": {
-        "name": "Ngoma",
-        "url": "https://open.spotify.com/album/6z90PwFcPKHcUDUEyqKFEL"
-      },
-      "artists": [
-        {
-          "name": "SPARTZ",
-          "url": "https://open.spotify.com/artist/2SLukHg2sfRgdzJunl2Dt3"
-        }
-      ],
-      "duration_ms": 337500,
-      "name": "Ngoma",
-      "url": "https://open.spotify.com/track/21HJycogNkwu5A3oaNY1e2"
-    },
-    {
-      "added_at": "2026-10-01 22:02:06",
-      "album": {
         "name": "ZINZA",
         "url": "https://open.spotify.com/album/7zGVonHUJ4gCvcFNrol6qv"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 298400,
       "name": "Sombhuluka",
       "url": "https://open.spotify.com/track/48jlBxbv2YX3l29ivsYn8t"
+    },
+    {
+      "added_at": "2026-10-01 22:02:06",
+      "album": {
+        "name": "Ngoma",
+        "url": "https://open.spotify.com/album/6z90PwFcPKHcUDUEyqKFEL"
+      },
+      "artists": [
+        {
+          "name": "SPARTZ",
+          "url": "https://open.spotify.com/artist/2SLukHg2sfRgdzJunl2Dt3"
+        }
+      ],
+      "duration_ms": 337500,
+      "name": "Ngoma",
+      "url": "https://open.spotify.com/track/21HJycogNkwu5A3oaNY1e2"
     },
     {
       "added_at": "2026-10-01 22:02:06",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2026-10-01 22:02:06",
       "album": {
-        "name": "Qalo",
-        "url": "https://open.spotify.com/album/0Tpgl8HOd2y6aWBGusFIep"
-      },
-      "artists": [
-        {
-          "name": "Bokang Ramatlapeng",
-          "url": "https://open.spotify.com/artist/4pJUoi3zUenJPBfOGfIQhs"
-        }
-      ],
-      "duration_ms": 260750,
-      "name": "Chant Song: Bakoena Ba Nkopane",
-      "url": "https://open.spotify.com/track/48qf6rG6ixRciJJ2saRTDn"
-    },
-    {
-      "added_at": "2026-10-01 22:02:06",
-      "album": {
         "name": "Modeh Ani",
         "url": "https://open.spotify.com/album/1CqHrW7AbDQhEfhc8JRTDx"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 239107,
       "name": "Modeh Ani",
       "url": "https://open.spotify.com/track/3u1zpgT2edkhYKSoO0aTy8"
+    },
+    {
+      "added_at": "2026-10-01 22:02:06",
+      "album": {
+        "name": "Qalo",
+        "url": "https://open.spotify.com/album/0Tpgl8HOd2y6aWBGusFIep"
+      },
+      "artists": [
+        {
+          "name": "Bokang Ramatlapeng",
+          "url": "https://open.spotify.com/artist/4pJUoi3zUenJPBfOGfIQhs"
+        }
+      ],
+      "duration_ms": 260750,
+      "name": "Chant Song: Bakoena Ba Nkopane",
+      "url": "https://open.spotify.com/track/48qf6rG6ixRciJJ2saRTDn"
     }
   ],
   "unique_name": "Jazz NEXT",

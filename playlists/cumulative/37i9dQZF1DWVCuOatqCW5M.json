@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Latest music from Badshah, Shreya Ghoshal, Salim-Sulaiman and more.",
+  "description": "Latest music from Madhubanti Bagchi, Nikhita Gandhi, KhoslaRaghu and more.",
   "name": "New Music Friday I-Pop ",
   "tracks": [
     {
@@ -4414,7 +4414,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 158601,
       "name": "Bandeya",
       "url": "https://open.spotify.com/track/6kqGsYhpZLHvRG9LNOmojW"
@@ -7404,7 +7404,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 199053,
       "name": "Chammo Deewani",
       "url": "https://open.spotify.com/track/2taGFv9IJZG9t2vPw9ovmo"
@@ -18745,6 +18745,32 @@
     },
     {
       "album": {
+        "name": "Jhalak",
+        "url": "https://open.spotify.com/album/10BBb28qFnAAkkZPKjp4Pd"
+      },
+      "artists": [
+        {
+          "name": "Naam Sujal",
+          "url": "https://open.spotify.com/artist/6NTcSISlIHPvDleyAkOTqP"
+        },
+        {
+          "name": "Aanchal Tyagi",
+          "url": "https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off"
+        },
+        {
+          "name": "Hiten",
+          "url": "https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134311,
+      "name": "Jhalak",
+      "url": "https://open.spotify.com/track/23fZaeHn6gxiJGYY2nXOjn"
+    },
+    {
+      "album": {
         "name": "Jhim Jhim",
         "url": "https://open.spotify.com/album/0tJcVhHlsBW5kRhacGeJ51"
       },
@@ -24722,7 +24748,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 222586,
       "name": "Main Baavri",
       "url": "https://open.spotify.com/track/1DceX8Q6yDVg3DWH6qhnPT"
@@ -27413,6 +27439,28 @@
     },
     {
       "album": {
+        "name": "Mudd Na Sajna",
+        "url": "https://open.spotify.com/album/5oNufrn0Td0leLDHIWw6w7"
+      },
+      "artists": [
+        {
+          "name": "Madhubanti Bagchi",
+          "url": "https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h"
+        },
+        {
+          "name": "Siddharth Amit Bhavsar",
+          "url": "https://open.spotify.com/artist/2DQZm7ErqpqiT4nxF9i4a2"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232456,
+      "name": "Mudd Na Sajna",
+      "url": "https://open.spotify.com/track/4feeZH5iAQjvKhWyoXNVLT"
+    },
+    {
+      "album": {
         "name": "Mujhe Mere Naam Se",
         "url": "https://open.spotify.com/album/6KGAJk0rHos4UNZErML5Ap"
       },
@@ -28358,6 +28406,28 @@
       "duration_ms": 195000,
       "name": "Naina Ro Pade (Futurewave Season 1)",
       "url": "https://open.spotify.com/track/6I5gy6scGI7GV8KEPBjIH9"
+    },
+    {
+      "album": {
+        "name": "Naina Saavan - Reprise",
+        "url": "https://open.spotify.com/album/7dDWVIsPi87MBQ8IJtXQIk"
+      },
+      "artists": [
+        {
+          "name": "KhoslaRaghu",
+          "url": "https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS"
+        },
+        {
+          "name": "Kavita Seth",
+          "url": "https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262500,
+      "name": "Naina Saavan - Reprise",
+      "url": "https://open.spotify.com/track/60E6ahAL4ANvC4lvbOjUFP"
     },
     {
       "album": {
@@ -34284,7 +34354,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 277941,
       "name": "Sabar (From \"Bhoomi 2026\")",
       "url": "https://open.spotify.com/track/1i68oUlj31syiQ3ZeA1yPc"
@@ -40220,6 +40290,28 @@
       "duration_ms": 155594,
       "name": "Titli",
       "url": "https://open.spotify.com/track/1B7gF6U1VqiZ1K3sK9YhdI"
+    },
+    {
+      "album": {
+        "name": "Niki G",
+        "url": "https://open.spotify.com/album/6hcKDorzP4sFk9iaTd85Wu"
+      },
+      "artists": [
+        {
+          "name": "Nikhita Gandhi",
+          "url": "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
+        },
+        {
+          "name": "Karan Kanchan",
+          "url": "https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159230,
+      "name": "Toddy",
+      "url": "https://open.spotify.com/track/1Vok23JnLm6I0VLkF7Bf0w"
     },
     {
       "album": {

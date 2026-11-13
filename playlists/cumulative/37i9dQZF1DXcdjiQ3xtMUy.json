@@ -1401,6 +1401,24 @@
     },
     {
       "album": {
+        "name": "Celebrity",
+        "url": "https://open.spotify.com/album/17cIigbMzSl4VyGvvjv8lK"
+      },
+      "artists": [
+        {
+          "name": "Josephine",
+          "url": "https://open.spotify.com/artist/1fAotS2jUxpI8bnIxd5cIR"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150500,
+      "name": "Celebrity",
+      "url": "https://open.spotify.com/track/3S4yeDedGm9HAUpVMYjLrF"
+    },
+    {
+      "album": {
         "name": "Champ",
         "url": "https://open.spotify.com/album/5CtGGWA2XDMSKdgMOjheiB"
       },
@@ -1670,10 +1688,32 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 191778,
       "name": "Diki Mou",
       "url": "https://open.spotify.com/track/6Mo8KakthlJPr6UnoOCVTX"
+    },
+    {
+      "album": {
+        "name": "Diki Mou",
+        "url": "https://open.spotify.com/album/76fii419uVSFAjj3u9U6sJ"
+      },
+      "artists": [
+        {
+          "name": "Claydee",
+          "url": "https://open.spotify.com/artist/2rcsCDLsJw6erBukvjEsrP"
+        },
+        {
+          "name": "Rena Morfi",
+          "url": "https://open.spotify.com/artist/35QNo6nfps7vs25jpz5jl1"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190985,
+      "name": "Diki Mou",
+      "url": "https://open.spotify.com/track/77L5gCG85jveuOV3XxvfNs"
     },
     {
       "album": {
@@ -2501,6 +2541,28 @@
     },
     {
       "album": {
+        "name": "Fire and Snow",
+        "url": "https://open.spotify.com/album/3McaC8V2UlWGKuSf4LGAGA"
+      },
+      "artists": [
+        {
+          "name": "Elena Tsagrinou",
+          "url": "https://open.spotify.com/artist/4TgsxeFPNtkZ5lneq9AceU"
+        },
+        {
+          "name": "Otilia",
+          "url": "https://open.spotify.com/artist/6RQDTlies3nrNDJwXvbBZT"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153157,
+      "name": "Fire and Snow",
+      "url": "https://open.spotify.com/track/1cigP0XcBlkYdP5gUHh4VQ"
+    },
+    {
+      "album": {
         "name": "FLX",
         "url": "https://open.spotify.com/album/7uLuTUvHNihuuKhZd7yGdO"
       },
@@ -2822,7 +2884,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 207666,
       "name": "Gliko Methisi",
       "url": "https://open.spotify.com/track/23dr3z6SEt87AKtts97vny"
@@ -4102,7 +4164,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 180000,
       "name": "Me Gusta",
       "url": "https://open.spotify.com/track/4FKDGC1hp2ojXjgzf1oVG9"
@@ -6316,7 +6378,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 203505,
       "name": "To S' Agapo",
       "url": "https://open.spotify.com/track/1NOXCmSA0fIk9P3PvchJle"

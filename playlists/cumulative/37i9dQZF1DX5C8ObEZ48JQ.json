@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-21",
-  "description": "The best new independent African artists  Cover:  <a href=\"https://open.spotify.com/artist/0izMndRrjUpSI7mig8yIBj?si=00d069521ea54324\">vuyo viwe</a>. Artwork: Isu Kim. ",
+  "description": "The best new independent African artists  Cover:  <a href=\"https://open.spotify.com/artist/6CE2zMLrX6hyJy2MXbbe9J?si=7a5275cad4e74555\">Emly</a>. Artwork: Isu Kim. ",
   "name": "Fresh Finds Africa",
   "tracks": [
     {
@@ -752,7 +752,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 171591,
       "name": "Again",
       "url": "https://open.spotify.com/track/0gNFw7otPPEVSBb1tFNjdO"
@@ -1956,7 +1956,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 458960,
       "name": "Ayan",
       "url": "https://open.spotify.com/track/10vZF9kxLbMnh5h3yRx5kn"
@@ -4260,7 +4260,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 236307,
       "name": "Car Park Cult",
       "url": "https://open.spotify.com/track/0Ca74YE1XGRR6QcreQUDrq"
@@ -4482,7 +4482,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 163125,
       "name": "Chance",
       "url": "https://open.spotify.com/track/4a5X8q7S7aODHRgKI4ExvM"
@@ -6828,7 +6828,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 284000,
       "name": "Don't Wanna Know",
       "url": "https://open.spotify.com/track/0qnPHnYOPrpdGK4B6hhtDr"
@@ -8032,6 +8032,28 @@
       "duration_ms": 203687,
       "name": "Extraordinary",
       "url": "https://open.spotify.com/track/7cYwBXEYuGvWvuyNUKzYLm"
+    },
+    {
+      "album": {
+        "name": "Eyes on You",
+        "url": "https://open.spotify.com/album/6HhFuMZHSp5zNf9vvIDHPa"
+      },
+      "artists": [
+        {
+          "name": "RUVA",
+          "url": "https://open.spotify.com/artist/1WsTxIReCRobQIcvlFDul3"
+        },
+        {
+          "name": "D3NZL",
+          "url": "https://open.spotify.com/artist/2bipRR8Pu3mAzrZ1n3o4HW"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250000,
+      "name": "Eyes on You",
+      "url": "https://open.spotify.com/track/4vFQcA68Uni3vDxaA1iPaa"
     },
     {
       "album": {
@@ -11327,6 +11349,24 @@
     },
     {
       "album": {
+        "name": "When love gives you lemons",
+        "url": "https://open.spotify.com/album/0ynlIgZ1tXGymlNeCgJsYm"
+      },
+      "artists": [
+        {
+          "name": "Emly",
+          "url": "https://open.spotify.com/artist/6CE2zMLrX6hyJy2MXbbe9J"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161739,
+      "name": "Hold Me",
+      "url": "https://open.spotify.com/track/5Ge1O6vILBeYD8NxpC9KDz"
+    },
+    {
+      "album": {
         "name": "Rare Gem",
         "url": "https://open.spotify.com/album/4RVEXkoDefTG5hQhkPogzC"
       },
@@ -11871,6 +11911,24 @@
     },
     {
       "album": {
+        "name": "DIOS",
+        "url": "https://open.spotify.com/album/427NsWyWGIK3J558nJtcNy"
+      },
+      "artists": [
+        {
+          "name": "Espacio Dios",
+          "url": "https://open.spotify.com/artist/030q9tYMZs82CHR8DV9Fid"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125499,
+      "name": "I Love Myself",
+      "url": "https://open.spotify.com/track/2cILEFccOhQ2hzLwYaOpve"
+    },
+    {
+      "album": {
         "name": "I Might",
         "url": "https://open.spotify.com/album/0ZTLZgvrz0KhPTiPnS1O32"
       },
@@ -12036,6 +12094,24 @@
       "duration_ms": 189999,
       "name": "I Wish I Had More Time",
       "url": "https://open.spotify.com/track/5BQML4ZWArKHRCiQuQ4cDT"
+    },
+    {
+      "album": {
+        "name": "Might Delete Later",
+        "url": "https://open.spotify.com/album/1rrcujwBt5fwfKaww26XsS"
+      },
+      "artists": [
+        {
+          "name": "Aubrey Gift",
+          "url": "https://open.spotify.com/artist/66loHjDA3JRrdVfxkNg880"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139134,
+      "name": "I Wonder",
+      "url": "https://open.spotify.com/track/1Ihnxgm56AuFTelJ5J7JAx"
     },
     {
       "album": {
@@ -12696,7 +12772,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 150976,
       "name": "Ingine Ama",
       "url": "https://open.spotify.com/track/0cWC0krHwSeX53BNGF4vt1"
@@ -12722,7 +12798,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 189101,
       "name": "iNjabulo",
       "url": "https://open.spotify.com/track/6aBdeUzyI3cmVjNTvDQBBK"
@@ -15369,6 +15445,24 @@
     },
     {
       "album": {
+        "name": "Love from Kaliningrad",
+        "url": "https://open.spotify.com/album/4gRXUEBGDRB0OpcieYyul4"
+      },
+      "artists": [
+        {
+          "name": "Obscurely Indigo",
+          "url": "https://open.spotify.com/artist/4Qq9ZpMAJLGPLZGMiVYl7N"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117435,
+      "name": "Love from Kaliningrad",
+      "url": "https://open.spotify.com/track/1k2GXZ1ZclljkmjxgPKyBJ"
+    },
+    {
+      "album": {
         "name": "Love From The Nineties",
         "url": "https://open.spotify.com/album/6bh3TgloXnkjY7zSTmQdNK"
       },
@@ -16176,7 +16270,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 260346,
       "name": "Mama",
       "url": "https://open.spotify.com/track/0WtT81xVf7FERbo6SdoFE1"
@@ -19331,6 +19425,24 @@
     },
     {
       "album": {
+        "name": "not your wife",
+        "url": "https://open.spotify.com/album/5AjiZWW1elqJecfnCKMKUA"
+      },
+      "artists": [
+        {
+          "name": "Coasters",
+          "url": "https://open.spotify.com/artist/4VjyjBUcEwwx4xqtU359Ep"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225116,
+      "name": "not your wife",
+      "url": "https://open.spotify.com/track/6vahp1JzG4nrgq7Acb2QLC"
+    },
+    {
+      "album": {
         "name": "NOW YOU KNOW?",
         "url": "https://open.spotify.com/album/04B8RvCItQxXpc8LsfYl6i"
       },
@@ -19624,6 +19736,28 @@
       "duration_ms": 132571,
       "name": "OBAFEMI MARTINS",
       "url": "https://open.spotify.com/track/4o3Un2fL0e5ia757KjDbVv"
+    },
+    {
+      "album": {
+        "name": "Here I Go Again",
+        "url": "https://open.spotify.com/album/1plTKl8NLgovl2mrFAlrCO"
+      },
+      "artists": [
+        {
+          "name": "KLA",
+          "url": "https://open.spotify.com/artist/1LUV99kWKMrRaP1bViUquo"
+        },
+        {
+          "name": "KLY",
+          "url": "https://open.spotify.com/artist/0B6F56wObkhER2AmTNfcl3"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228593,
+      "name": "Obvious",
+      "url": "https://open.spotify.com/track/1vKMcJR4WYmZWbl716ckfC"
     },
     {
       "album": {
@@ -20266,7 +20400,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 175116,
       "name": "Only Soul",
       "url": "https://open.spotify.com/track/0Fdo8JjoA6sVmiT2sAVZgZ"
@@ -21170,6 +21304,28 @@
       "duration_ms": 156536,
       "name": "pitpony",
       "url": "https://open.spotify.com/track/1MwQ4rjZzRK7XOzRknPOFc"
+    },
+    {
+      "album": {
+        "name": "Place I Go To",
+        "url": "https://open.spotify.com/album/1OMB7zASUZqxgdWESvBhJR"
+      },
+      "artists": [
+        {
+          "name": "mala\u00efka",
+          "url": "https://open.spotify.com/artist/3gdZY0Ui68OFFeZ27EpGZo"
+        },
+        {
+          "name": "Ria Boss",
+          "url": "https://open.spotify.com/artist/4RVL6ckos0QWCCz9dTFb5q"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324250,
+      "name": "Place I Go To",
+      "url": "https://open.spotify.com/track/43kHmYAXTofGm3P1mNr0bf"
     },
     {
       "album": {
@@ -23974,7 +24130,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 122033,
       "name": "Sinner",
       "url": "https://open.spotify.com/track/4lWhQA6X4KNTRSQmhpwIN5"
@@ -24266,6 +24422,24 @@
       "duration_ms": 130774,
       "name": "So Beautiful",
       "url": "https://open.spotify.com/track/02AahnmINgt6wogZ4zVPtG"
+    },
+    {
+      "album": {
+        "name": "Only For A While",
+        "url": "https://open.spotify.com/album/5d649NfmfBEFL1flx5pPEs"
+      },
+      "artists": [
+        {
+          "name": "Altair Sa\u00efd",
+          "url": "https://open.spotify.com/artist/6QJj1KD71boYPVql87xBGJ"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200160,
+      "name": "So Easy",
+      "url": "https://open.spotify.com/track/4unXuG8HGFJeZoaI8KTSs6"
     },
     {
       "album": {
@@ -26514,6 +26688,24 @@
       "duration_ms": 141176,
       "name": "Than All [2]",
       "url": "https://open.spotify.com/track/1IGOYnjQk8I8QRTCKLB93v"
+    },
+    {
+      "album": {
+        "name": "thank you god for sadness",
+        "url": "https://open.spotify.com/album/1Xa12x6DUGTyFO9sf3lPlG"
+      },
+      "artists": [
+        {
+          "name": "YOSHE",
+          "url": "https://open.spotify.com/artist/4v9lEuK0nSxVknvcwOWfYn"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "thank you god for sadness",
+      "url": "https://open.spotify.com/track/1kKgTYywpSBfEgPfiVLniP"
     },
     {
       "album": {

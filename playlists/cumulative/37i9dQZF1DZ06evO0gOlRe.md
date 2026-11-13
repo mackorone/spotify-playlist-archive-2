@@ -8,8 +8,8 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [24 Hours](https://open.spotify.com/track/1ZGxwxXbpeydURjPS9mrmL) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [24 Hours](https://open.spotify.com/album/1huVzctnZbPXdXws24VOwz) | 3:18 | 2024-01-10 |  |
-| [Aftermath](https://open.spotify.com/track/1JsXnvR7rYhrwMCsOtScOX) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Aftermath](https://open.spotify.com/album/4vgRDVOUwJNYN5fbWsvka3) | 3:40 | 2024-01-10 |  |
+| [24 Hours](https://open.spotify.com/track/1ZGxwxXbpeydURjPS9mrmL) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [24 Hours](https://open.spotify.com/album/1huVzctnZbPXdXws24VOwz) | 3:18 | 2024-01-10 | 2026-11-13 |
+| [Aftermath](https://open.spotify.com/track/1JsXnvR7rYhrwMCsOtScOX) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Aftermath](https://open.spotify.com/album/4vgRDVOUwJNYN5fbWsvka3) | 3:40 | 2024-01-10 | 2026-11-13 |
 | [Alexander Stewart on 'all these years'](https://open.spotify.com/track/5aLdx4sS8uL8ysZgBkGSoM) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Bleeding Heart \(with Track\-by\-Track Commentary\)](https://open.spotify.com/album/26cd7AEyGAPbguPDvoKtub) | 0:39 | 2024-05-17 | 2024-06-08 |
 | [Alexander Stewart on 'blames on me'](https://open.spotify.com/track/2V3hyIeAhJyQP9kAf51Bvj) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Bleeding Heart \(with Track\-by\-Track Commentary\)](https://open.spotify.com/album/26cd7AEyGAPbguPDvoKtub) | 0:49 | 2024-05-17 | 2024-06-08 |
 | [Alexander Stewart on 'day i die'](https://open.spotify.com/track/6jCzYITsTE5eiOXEiiAM3p) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Bleeding Heart \(with Track\-by\-Track Commentary\)](https://open.spotify.com/album/26cd7AEyGAPbguPDvoKtub) | 0:45 | 2024-05-17 | 2024-06-08 |

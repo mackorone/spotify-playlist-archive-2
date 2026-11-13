@@ -74,7 +74,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-31",
+      "date_removed": null,
       "duration_ms": 155428,
       "name": "10 MINUTES",
       "url": "https://open.spotify.com/track/3aQgH5q3nN7b2AXhaAoAL6"
@@ -3146,7 +3146,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 213600,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/1HOQQpVwY6erTTCnQfvt7t"
@@ -4380,7 +4380,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 185739,
       "name": "BY FIRE!",
       "url": "https://open.spotify.com/track/6SJAOQftqJXBX1WHi8Hs7h"
@@ -5922,7 +5922,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 144065,
       "name": "CTRL",
       "url": "https://open.spotify.com/track/72lmgehnF1PA34gXDqlFjD"
@@ -6521,6 +6521,24 @@
     },
     {
       "album": {
+        "name": "A Street Kid's Diary (Disk 2)",
+        "url": "https://open.spotify.com/album/5XvdrswbICcbJ0sM03NaGz"
+      },
+      "artists": [
+        {
+          "name": "Tml Vibez",
+          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141333,
+      "name": "Diamond or Gold",
+      "url": "https://open.spotify.com/track/48ZLHG2xWe58tYZoNOR3Zd"
+    },
+    {
+      "album": {
         "name": "SWAGUU",
         "url": "https://open.spotify.com/album/5TWK8IJLfQ7cxGm5g6WYtr"
       },
@@ -6532,7 +6550,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 158589,
       "name": "Diamonds",
       "url": "https://open.spotify.com/track/45xtVdVTQtIISLQgHiP8CR"
@@ -9537,6 +9555,24 @@
     },
     {
       "album": {
+        "name": "Girl From The West",
+        "url": "https://open.spotify.com/album/4frT3p7rhaAyLgtRSIO2U2"
+      },
+      "artists": [
+        {
+          "name": "Solana",
+          "url": "https://open.spotify.com/artist/3l476od4bTSjScrR20hpjR"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121500,
+      "name": "Get The Money",
+      "url": "https://open.spotify.com/track/30ONwK8OCScAw6Q73xcATH"
+    },
+    {
+      "album": {
         "name": "Protect Sarz At All Costs",
         "url": "https://open.spotify.com/album/5h3RPX0SZMPQGz6Mwbly0h"
       },
@@ -10462,7 +10498,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-28",
+      "date_removed": null,
       "duration_ms": 129391,
       "name": "Happy Song",
       "url": "https://open.spotify.com/track/2YA4T4tYZNtMvEF1bVYFSY"
@@ -11240,7 +11276,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 160000,
       "name": "Hot Body",
       "url": "https://open.spotify.com/track/04yGQ4xzVt9LVAqop42ja6"
@@ -12173,6 +12209,32 @@
     },
     {
       "album": {
+        "name": "INFERNO",
+        "url": "https://open.spotify.com/album/4oVtp47IW7IyevJL95hdf8"
+      },
+      "artists": [
+        {
+          "name": "Peruzzi",
+          "url": "https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151456,
+      "name": "INFERNO",
+      "url": "https://open.spotify.com/track/3FCIOA44iYIDsjDNeXthc1"
+    },
+    {
+      "album": {
         "name": "Carpe Diem",
         "url": "https://open.spotify.com/album/6fG2eFCgUmytQWL6umtsCh"
       },
@@ -13076,7 +13138,7 @@
       ],
       "date_added": "2026-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-30",
+      "date_removed": null,
       "duration_ms": 169090,
       "name": "Jungle",
       "url": "https://open.spotify.com/track/5cSaHJEB56sgxLURr9WFzF"
@@ -14496,7 +14558,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 187943,
       "name": "Loketo",
       "url": "https://open.spotify.com/track/78EitsAHPADPQzPG1WHqLh"
@@ -16644,7 +16706,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 168331,
       "name": "Ms. Paper (feat. Theodora)",
       "url": "https://open.spotify.com/track/0e6cXkbHc57qMSN3DwmfSI"
@@ -17173,6 +17235,28 @@
     },
     {
       "album": {
+        "name": "In Tunez We Trust Vol. 1",
+        "url": "https://open.spotify.com/album/7juWJSfCEy4gJ5AfQF63RO"
+      },
+      "artists": [
+        {
+          "name": "DJ Tunez",
+          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
+        },
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202758,
+      "name": "Na Money",
+      "url": "https://open.spotify.com/track/3t1pZTZDedrrHRbxlXeVA1"
+    },
+    {
+      "album": {
         "name": "Na So",
         "url": "https://open.spotify.com/album/18pDXf18omJ3ZvmwUweTNs"
       },
@@ -17340,6 +17424,28 @@
       "duration_ms": 161245,
       "name": "Naughty You",
       "url": "https://open.spotify.com/track/6mORDKSjrCfPfD9tLQefHE"
+    },
+    {
+      "album": {
+        "name": "Let That Sink In (LTSI)",
+        "url": "https://open.spotify.com/album/5vfqEobGgU0weOFE5K2rDQ"
+      },
+      "artists": [
+        {
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+        },
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205090,
+      "name": "Ndewo",
+      "url": "https://open.spotify.com/track/2H7kTJJ80YgmqT9aOIaWXt"
     },
     {
       "album": {
@@ -21670,7 +21776,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 158350,
       "name": "Salt",
       "url": "https://open.spotify.com/track/5HzwwlPfwcqDr04WWmfseI"

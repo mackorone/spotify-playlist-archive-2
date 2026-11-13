@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04mTU7.md) - [plain]
 
 > This is AJULLIACOSTA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,152 likes - 47 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,172 likes - 47 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04mTU7.md) - [plain]
 | 3 | [você vai gostar](https://open.spotify.com/track/6Tz1pVZASlwQAAEi7Rb9Ut) | [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o), [AJULLIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd) | [você vai gostar](https://open.spotify.com/album/3GSOqaNwIax15VWuAtwvls) | 3:24 |
 | 4 | [Você Parece Com Vergonha](https://open.spotify.com/track/5r4pDmk3fENDZCc06xrHsJ) | [AJULLIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd) | [Você Parece Com Vergonha](https://open.spotify.com/album/3dNBEUQg3uKKvpoCNEwicy) | 3:03 |
 | 5 | [O que a Julia vai ser?](https://open.spotify.com/track/7LzAlJ41rNAtvLJZC7xnks) | [AJULLIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Maffalda](https://open.spotify.com/artist/3Y6LyX8cnJuJLpehsijwEC) | [Novo Testamento](https://open.spotify.com/album/490tyTcKwuwqzxLu3ij7D5) | 2:36 |
-| 6 | [SUA FAVORITA](https://open.spotify.com/track/7AnpPfdkT6b3Cy6fN8NdkE) | [BUDAH](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [AJULLIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Franco, The Sir!](https://open.spotify.com/artist/2dSdEXb846NGEN95MkLTYU) | [FREQUÊNCIA LUNAR](https://open.spotify.com/album/3qbfxWGIF45fv8btLzrsDR) | 2:33 |
-| 7 | [Set Ajc 2](https://open.spotify.com/track/2QidZpzobGL0Mhmq25oKdK) | [AJULLIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [iamlope$$](https://open.spotify.com/artist/2wT7Qe4IArSitWcIKqa7CZ), [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [LAI$ROSA](https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw) | [Set Ajc 2](https://open.spotify.com/album/2VRQVQ9NcCHudz62D5a2Lm) | 4:25 |
+| 6 | [Set Ajc 2](https://open.spotify.com/track/2QidZpzobGL0Mhmq25oKdK) | [AJULLIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [iamlope$$](https://open.spotify.com/artist/2wT7Qe4IArSitWcIKqa7CZ), [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [LAI$ROSA](https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw) | [Set Ajc 2](https://open.spotify.com/album/2VRQVQ9NcCHudz62D5a2Lm) | 4:25 |
+| 7 | [SUA FAVORITA](https://open.spotify.com/track/7AnpPfdkT6b3Cy6fN8NdkE) | [BUDAH](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [AJULLIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Franco, The Sir!](https://open.spotify.com/artist/2dSdEXb846NGEN95MkLTYU) | [FREQUÊNCIA LUNAR](https://open.spotify.com/album/3qbfxWGIF45fv8btLzrsDR) | 2:33 |
 | 8 | [Homens Como Você \(feat\. Dj Victor\)](https://open.spotify.com/track/6bOXlMdMuwTTvkC7jNzKU2) | [AJULLIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Dj Victor](https://open.spotify.com/artist/5kKzlgNRX8FgC6Bni5DNNC) | [Aju](https://open.spotify.com/album/314Y3jI9qbT6VjMLLRxBG6) | 3:10 |
 | 9 | [Liberdade](https://open.spotify.com/track/4u3ZKIMsLAiikFqxOsnXSp) | [AJULLIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB) | [Novo Testamento](https://open.spotify.com/album/490tyTcKwuwqzxLu3ij7D5) | 2:12 |
 | 10 | [Queen Chavosa](https://open.spotify.com/track/1qDfZrxU4JFbJpb6u4ojCQ) | [AJULLIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [MAT](https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U) | [Brutas Amam, Choram e Sentem Raiva](https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj) | 2:40 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04mTU7.md) - [plain]
 | 46 | [Tente Outra Vez](https://open.spotify.com/track/4kHh90uSeHcEuPfKi3sDxR) | [AJULLIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Sebrae Nosso Canto](https://open.spotify.com/artist/5g96lcZahWMG2d1yrzhQaA) | [Tente Outra Vez](https://open.spotify.com/album/6MQpLTMlTHjTCatVNIkpoq) | 1:54 |
 | 47 | [Aju](https://open.spotify.com/track/5OKRfZjxg0rfrx8ZQxw8X0) | [AJULLIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [MAT](https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U) | [Aju](https://open.spotify.com/album/314Y3jI9qbT6VjMLLRxBG6) | 2:33 |
 
-Snapshot ID: `avENAAAAAABmbaA7BT8lzAHXR/5nZ2+s`
+Snapshot ID: `avOwAAAAAACSbfuqQ7fanQNsqbBpKCLX`

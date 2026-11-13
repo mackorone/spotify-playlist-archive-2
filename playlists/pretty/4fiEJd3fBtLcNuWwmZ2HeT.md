@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 
 > Adicta a mi novia
 
-[bpdhoe](https://open.spotify.com/user/megaalexpro3000) - 2 likes - 527 songs - 1 day 6 hr 25 min
+[bpdhoe](https://open.spotify.com/user/megaalexpro3000) - 2 likes - 527 songs - 1 day 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -531,9 +531,9 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 521 | [僕をそんな目で見ないで](https://open.spotify.com/track/2WVBoL2OaErNK6kEVK7Pjo) | [Kikuo](https://open.spotify.com/artist/5FhcqamaRFfpZb4VHV47fu) | [きくおミク](https://open.spotify.com/album/3fFajEtPI0sXa1Eo0WJMKJ) | 5:08 |
 | 522 | [AaAaAaAAaAaAAa \(feat\. HATSUNE MIKU\)](https://open.spotify.com/track/4NN46C9Wznv1vVWqFhE9wn) | [Nashimoto Ui](https://open.spotify.com/artist/1heQsFLwQ0sehuPqU4jdyk), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Owari](https://open.spotify.com/album/2D3a0mdI5nvHelF8vWL1Lj) | 3:39 |
 | 523 | [저격수 인형](https://open.spotify.com/track/5B1us6jlfXwpqhEZRa8s4P) | [WyvernP](https://open.spotify.com/artist/2Iw5m7MkqPhLpQxdx0SVmn), [유니](https://open.spotify.com/artist/3bFS3jV2rAepYVOuft1iDP) | [Zinnia \(2016\-2018 Collection Vol.01\)](https://open.spotify.com/album/77qDP4NFpjc763QSvxNAqF) | 3:21 |
-| 524 | [Enko Shoujo \(Street girl\) \[feat\. HATSUNE MIKU\]](https://open.spotify.com/track/04ELlaJRnfrT9IwU47afqW) | [Nashimoto Ui](https://open.spotify.com/artist/1heQsFLwQ0sehuPqU4jdyk), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Bo Hyou \(Grave\-Marker\)](https://open.spotify.com/album/5sJSM8z8nqKJOo15Ny7DDL) | 5:38 |
-| 525 | [I'll Throw My Emotions Away](https://open.spotify.com/track/5OqZ2ZwFQtjIT9pSuusIOH) | [Riproducer](https://open.spotify.com/artist/0B4xVHjtdgZXuRFbk4U21N) | [My Brain The Musical](https://open.spotify.com/album/5BtIYvrf2ZIqxjnEoXYu8S) | 4:44 |
-| 526 | [『Madly in Love』](https://open.spotify.com/track/5R0swKDPxyCmTsRSNqZQrR) | [DaTuRa\-ダチュラ\-](https://open.spotify.com/artist/7uSLBKFHe2lShA2ywLyKoB) | [『Grimm’s Garden』](https://open.spotify.com/album/29jMGw1ZHzedANQBXyjoZU) | 2:11 |
-| 527 | [エル・タンゴ・エゴイスタ \(feat\. 巡音ルカ&KAITO\)](https://open.spotify.com/track/1iuuQSwjFKveKI8mFGIRkA) | [nyanyannya](https://open.spotify.com/artist/35WjMs2c8YpOftd7VVPChv), [Megurine Luka](https://open.spotify.com/artist/7HwMt9qpoww4yfE3D8886I), [KAITO](https://open.spotify.com/artist/7CWdEBRTF2C44GfX1GmSc2) | [カドワナルカ＝ドロップゾンデ](https://open.spotify.com/album/4oBaHiA1TJxv9fmZ1kjZyI) | 3:15 |
+| 524 | [I'll Throw My Emotions Away](https://open.spotify.com/track/5OqZ2ZwFQtjIT9pSuusIOH) | [Riproducer](https://open.spotify.com/artist/0B4xVHjtdgZXuRFbk4U21N) | [My Brain The Musical](https://open.spotify.com/album/5BtIYvrf2ZIqxjnEoXYu8S) | 4:44 |
+| 525 | [『Madly in Love』](https://open.spotify.com/track/5R0swKDPxyCmTsRSNqZQrR) | [DaTuRa\-ダチュラ\-](https://open.spotify.com/artist/7uSLBKFHe2lShA2ywLyKoB) | [『Grimm’s Garden』](https://open.spotify.com/album/29jMGw1ZHzedANQBXyjoZU) | 2:11 |
+| 526 | [エル・タンゴ・エゴイスタ \(feat\. 巡音ルカ&KAITO\)](https://open.spotify.com/track/1iuuQSwjFKveKI8mFGIRkA) | [nyanyannya](https://open.spotify.com/artist/35WjMs2c8YpOftd7VVPChv), [Megurine Luka](https://open.spotify.com/artist/7HwMt9qpoww4yfE3D8886I), [KAITO](https://open.spotify.com/artist/7CWdEBRTF2C44GfX1GmSc2) | [カドワナルカ＝ドロップゾンデ](https://open.spotify.com/album/4oBaHiA1TJxv9fmZ1kjZyI) | 3:15 |
+| 527 | [LOSTRUST \(feat\. Yi Xi\)](https://open.spotify.com/track/1kkdsilbjUuuHZMHqUvn5o) | [GGPRM](https://open.spotify.com/artist/6veKk0BLOtQRlTArMf247p), [Yi Xi](https://open.spotify.com/artist/0wMM1e0cn0HAMWeVxkQc9T) | [LOSTRUST \(feat\. Yi Xi\)](https://open.spotify.com/album/5hu3eJlZVZL7zhN4YEqgDh) | 1:32 |
 
-Snapshot ID: `AAAKimDJ4VcfWF+X5QBLpS/QSGxlflrE`
+Snapshot ID: `AAAKjJ/KnQYbUJRq9oq0HhMUsCsP+SbJ`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTP5wXz7Mvlg.md) - [plain]
 
 > <a href="spotify:artist:1rd51IrbtX9DqoU0Zxu4TV">DJ Marky</a>'s favourite tracks\. Updated regularly\. Curated by DJ Marky\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,583 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,595 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

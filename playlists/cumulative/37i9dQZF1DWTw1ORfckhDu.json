@@ -3745,6 +3745,24 @@
     },
     {
       "album": {
+        "name": "e r v o",
+        "url": "https://open.spotify.com/album/1qu1mEUaRkrMDUvBVKOyB6"
+      },
+      "artists": [
+        {
+          "name": "ibe",
+          "url": "https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197823,
+      "name": "e r v o",
+      "url": "https://open.spotify.com/track/2s1sRZq5VfxytUi8yPukbK"
+    },
+    {
+      "album": {
         "name": "Easy",
         "url": "https://open.spotify.com/album/7C5P2vwrurcGVQRPxkBCju"
       },
@@ -7059,6 +7077,24 @@
     },
     {
       "album": {
+        "name": "Hyv\u00e4 poika",
+        "url": "https://open.spotify.com/album/4TC7KZkDt0gjCfAXDWXJVM"
+      },
+      "artists": [
+        {
+          "name": "DJ Ibusal",
+          "url": "https://open.spotify.com/artist/5qVgYJUrdxe6jJIBqG6djX"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "Hyv\u00e4 poika",
+      "url": "https://open.spotify.com/track/15qS2N4caufjK8gtTYqfrq"
+    },
+    {
+      "album": {
         "name": "OMATUNTO",
         "url": "https://open.spotify.com/album/6JROTMROHYxtp6GWZ7Vt39"
       },
@@ -8408,6 +8444,24 @@
       "duration_ms": 138935,
       "name": "Jos ei oo meit",
       "url": "https://open.spotify.com/track/1g4QizdrPAiOWXgRbePWSV"
+    },
+    {
+      "album": {
+        "name": "Jos haluut el\u00e4\u00e4",
+        "url": "https://open.spotify.com/album/5ILQpyvS1WHV73W1WR8VIp"
+      },
+      "artists": [
+        {
+          "name": "Juuna Chill",
+          "url": "https://open.spotify.com/artist/5ndSb0dw2ilXbSlUZ7Gm78"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177608,
+      "name": "Jos haluut el\u00e4\u00e4",
+      "url": "https://open.spotify.com/track/7u2vSwGtqMg20zVcHBBLeX"
     },
     {
       "album": {
@@ -10786,7 +10840,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 199417,
       "name": "Korhosen veneell\u00e4 Pt. 2",
       "url": "https://open.spotify.com/track/3YTTJMgypwL3W4Lnk2qzCq"
@@ -22220,7 +22274,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 148114,
       "name": "Selviytyj\u00e4",
       "url": "https://open.spotify.com/track/3ntq4xgreuHhaqA9c5ZRQQ"
@@ -22486,7 +22540,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 134810,
       "name": "Sin\u00e4",
       "url": "https://open.spotify.com/track/44sRHAH5N5pCBCrjv7mT1w"
@@ -25247,6 +25301,28 @@
     },
     {
       "album": {
+        "name": "TUNNELUKKO",
+        "url": "https://open.spotify.com/album/0RMO2qSbOLT8IkIzIQnTok"
+      },
+      "artists": [
+        {
+          "name": "1les",
+          "url": "https://open.spotify.com/artist/462eXvO7RVfaU7aCzxKggi"
+        },
+        {
+          "name": "arthur",
+          "url": "https://open.spotify.com/artist/0E7YcJpZc4lTgCJug6jioq"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195763,
+      "name": "TUNNELUKKO",
+      "url": "https://open.spotify.com/track/5K8uYL9xAQIOqVKKT6U7Td"
+    },
+    {
+      "album": {
         "name": "Tunnen et riit\u00e4n",
         "url": "https://open.spotify.com/album/2b9baLfJIVY4meCQWLZeHc"
       },
@@ -25894,7 +25970,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 150000,
       "name": "T\u00e4n\u00e4\u00e4n M\u00e4 Teen Sen",
       "url": "https://open.spotify.com/track/7eydi9nUQ1Ev0SwjhpszXJ"

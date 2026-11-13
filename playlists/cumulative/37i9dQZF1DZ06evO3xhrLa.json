@@ -1757,6 +1757,24 @@
     },
     {
       "album": {
+        "name": "Souled Out (Deluxe)",
+        "url": "https://open.spotify.com/album/6UKXuiWFuwxzC5rd0SW4Bo"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276400,
+      "name": "Wading",
+      "url": "https://open.spotify.com/track/1kQbkd67wUkTka6RmyiFL7"
+    },
+    {
+      "album": {
         "name": "Souled Out",
         "url": "https://open.spotify.com/album/1dfGhmOGPopEReylj0UUDG"
       },

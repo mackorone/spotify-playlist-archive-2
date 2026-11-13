@@ -196,7 +196,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 241100,
       "name": "2515",
       "url": "https://open.spotify.com/track/6oJRAA2pF2VK8fmxTncqiG"
@@ -1978,7 +1978,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 161346,
       "name": "buzzin",
       "url": "https://open.spotify.com/track/54GiqXZaERtafqRyrqRRfH"
@@ -4744,7 +4744,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 137000,
       "name": "get naked",
       "url": "https://open.spotify.com/track/0YFvVVhJ4OiETfKZCcZ4hI"
@@ -6144,7 +6144,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 151977,
       "name": "i kinda like how u know just how beautiful u are",
       "url": "https://open.spotify.com/track/4tjaq94p36aOoFwwdKhmGt"
@@ -6645,6 +6645,24 @@
     },
     {
       "album": {
+        "name": "IMPULSIVE",
+        "url": "https://open.spotify.com/album/1kO4Cbjb4fLeHsUDq5PbyC"
+      },
+      "artists": [
+        {
+          "name": "Thekidszn",
+          "url": "https://open.spotify.com/artist/138UAIyJocdHT5PpR0iTJE"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156106,
+      "name": "IMPULSIVE",
+      "url": "https://open.spotify.com/track/4TnnvhiNjsYdcHxODzNiKA"
+    },
+    {
+      "album": {
         "name": "In The Living Room",
         "url": "https://open.spotify.com/album/2HkwfUQg1Z4idyipFLuhnQ"
       },
@@ -7078,6 +7096,28 @@
       "duration_ms": 207866,
       "name": "july/november",
       "url": "https://open.spotify.com/track/6hyirnhFtP1farDrJnsjy6"
+    },
+    {
+      "album": {
+        "name": "Just Like That",
+        "url": "https://open.spotify.com/album/32y3jS0qiUYu9tCOpdif1C"
+      },
+      "artists": [
+        {
+          "name": "Alyz\u00e9e",
+          "url": "https://open.spotify.com/artist/7qVwsLEso0qnI6kYDjNWsO"
+        },
+        {
+          "name": "Essosa",
+          "url": "https://open.spotify.com/artist/6fn7JM8daBvCxpTkYyqtGY"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159523,
+      "name": "Just Like That",
+      "url": "https://open.spotify.com/track/2mkQ7BJZr1WG15SurQlLHP"
     },
     {
       "album": {
@@ -7894,6 +7934,24 @@
       "duration_ms": 213466,
       "name": "Love Me Not",
       "url": "https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52"
+    },
+    {
+      "album": {
+        "name": "love used to help",
+        "url": "https://open.spotify.com/album/3YzsMOpptap9XIpvsL76jq"
+      },
+      "artists": [
+        {
+          "name": "Betty",
+          "url": "https://open.spotify.com/artist/45Ndw1FM9epvaUXQXYGbST"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184811,
+      "name": "love used to help",
+      "url": "https://open.spotify.com/track/2pU8UKkehcgX5ur5GjR6Hi"
     },
     {
       "album": {
@@ -9037,6 +9095,28 @@
     },
     {
       "album": {
+        "name": "Never Said Goodbye (feat. Lil Yachty)",
+        "url": "https://open.spotify.com/album/3J1YFYlZ2LZkTTxgzW44n6"
+      },
+      "artists": [
+        {
+          "name": "josh conway",
+          "url": "https://open.spotify.com/artist/7Fg3bk6FxiFhFnrtXxJNR7"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237666,
+      "name": "Never Said Goodbye (feat. Lil Yachty)",
+      "url": "https://open.spotify.com/track/02A4v0xP7mt78UdPtypvcp"
+    },
+    {
+      "album": {
         "name": "New Age Crisis",
         "url": "https://open.spotify.com/album/6njbQUKUGq6Nv37wVT4WWC"
       },
@@ -9567,6 +9647,24 @@
     },
     {
       "album": {
+        "name": "The Pursuit of Pleasure",
+        "url": "https://open.spotify.com/album/0tNBGI5xTcJ6FSC1h12uv3"
+      },
+      "artists": [
+        {
+          "name": "Cherry Bomb",
+          "url": "https://open.spotify.com/artist/2MpXbvJeuKYA2qyxdB0eCM"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203440,
+      "name": "Oxymoronic",
+      "url": "https://open.spotify.com/track/5h7cDSDXfZMEL2yPiz8LW4"
+    },
+    {
+      "album": {
         "name": "pacifico",
         "url": "https://open.spotify.com/album/6y22za0YpLupKqMyvfbFu9"
       },
@@ -9698,7 +9796,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 148000,
       "name": "PASTEL SKIES",
       "url": "https://open.spotify.com/track/3dMD87OLuqQfvm5EjNQiuH"
@@ -10174,7 +10272,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 180544,
       "name": "Princess",
       "url": "https://open.spotify.com/track/0lGcZ4ETaHaCutgJDPFgep"
@@ -11860,7 +11958,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 173538,
       "name": "SPLINTER",
       "url": "https://open.spotify.com/track/3jjIOrKthJeLRtjwTKROfj"
@@ -13344,6 +13442,24 @@
       "duration_ms": 266624,
       "name": "wearing all white like an angel",
       "url": "https://open.spotify.com/track/0cS0s3CCtyl3oYggDEJ2kJ"
+    },
+    {
+      "album": {
+        "name": "Westside Beach Hotel",
+        "url": "https://open.spotify.com/album/0bqXS1Nua01OoLiptxt4Ny"
+      },
+      "artists": [
+        {
+          "name": "Aiko",
+          "url": "https://open.spotify.com/artist/4rNUXX8pX47dfwyD6KL2zP"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221381,
+      "name": "Westside Beach Hotel",
+      "url": "https://open.spotify.com/track/3OX561e7MjnPCjDe2fHMuH"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > O melhor do sertanejo em uma só playlist! Foto: Jorge & Mateus
 
-432 songs - 20 hr 16 min
+433 songs - 20 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [Evento Cancelado \- Ao Vivo](https://open.spotify.com/track/11fqunD6qlOCrRd88kMOk6) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Manifesto Musical \(Ao Vivo\)](https://open.spotify.com/album/44apM3pC4x6oLt5ULbtV3j) | 3:03 | 2022-05-27 | 2023-06-03 |
 | [Ex Alcoolizado \- Ao Vivo](https://open.spotify.com/track/2VATVdFqb7QqxfAcQPvNpc) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid) | [Israel & Rodolffo: Ao Vivo Em Brasília, Vol\. 3](https://open.spotify.com/album/33kS9T1bA6L7fosKns9fx6) | 2:42 | 2022-04-29 | 2023-02-16 |
 | [Ex dos Meus Sonhos \- Ao Vivo](https://open.spotify.com/track/7LUZT12r4xmwR1Kh8TJgjv) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Buteco Goiânia \(Ao Vivo\)](https://open.spotify.com/album/00jkZlcpl1OU9kZbgLqBMT) | 3:02 | 2022-10-14 | 2023-01-28 |
+| [Exigente](https://open.spotify.com/track/3y1DTmkETpAhDePWF7Uiis) | [Deu Bão](https://open.spotify.com/artist/0Mw7JpTAlJPiMHeUAYu8w8), [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl), [Bison e Comassetto](https://open.spotify.com/artist/0VgVhZxYnmTGqqj7WkAATA) | [Exigente](https://open.spotify.com/album/1uzvtWnZJsDV9gcUhQdRwx) | 2:38 | 2026-11-12 |  |
 | [Expectativa x Realidade](https://open.spotify.com/track/1wdhj1r7aeWVDUl9d18YKu) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Expectativa x Realidade](https://open.spotify.com/album/39ZFdo1y2IeExS8zKixGgw) | 2:43 | 2021-12-31 | 2022-08-13 |
 | [Fala Alguma Coisa \- Ao Vivo](https://open.spotify.com/track/0JAnjmcYMX157RsnmkhDBW) | [Paulo e Nathan](https://open.spotify.com/artist/3CGLLDfrPjF2FJ8HDCKMMv) | [Fala Alguma Coisa \(Ao Vivo\)](https://open.spotify.com/album/5KNtqlfJEyuLHqNRwHYE3B) | 2:41 | 2022-09-02 | 2023-07-01 |
 | [Fala Mal de Mim \- Ao Vivo](https://open.spotify.com/track/6gEOM9IEBzvTdbwNrSkBdC) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Fala Mal de Mim \(Ao Vivo\)](https://open.spotify.com/album/5cCDnN0XpXRSfYCd7vUAAB) | 3:24 | 2022-07-15 | 2022-11-11 |
@@ -437,7 +438,7 @@
 | [Xonei](https://open.spotify.com/track/5sKGmZDmkGwFed5dPpZpZL) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM), [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Xonei](https://open.spotify.com/album/711n0ABtpMF0SjSuDrM1PK) | 2:34 | 2024-08-23 | 2025-08-16 |
 | [Zero Saudade \- Ao Vivo](https://open.spotify.com/track/1oIqP923yBKV45IaXm5s14) | [Os Barões Da Pisadinha](https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Da Roça Pra Cidade \(Ao Vivo\), Vol\. 05](https://open.spotify.com/album/1WrwJGau8eVMIdryUdhBW4) | 3:04 | 2021-12-31 | 2022-07-02 |
 | [Água Nos Zói \- Ao Vivo](https://open.spotify.com/track/77rIMl1WIrLf4ZDKFYZ4ji) | [Clayton & Romário](https://open.spotify.com/artist/1tKrZaph4cLsnEdqC5BNEQ), [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Água Nos Zói \(Ao Vivo\)](https://open.spotify.com/album/055iSHIEhSre9fapRUBcRP) | 3:08 | 2021-12-31 | 2022-12-17 |
-| [É Que Eu Não Te Esqueci 💔](https://open.spotify.com/track/3D71jvd5cyuaW5c3jBCw4i) | [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Fire Arena ❤️‍🔥](https://open.spotify.com/album/5XBlACB0p8q28Or9SiCSBL) | 2:43 | 2026-06-08 |  |
+| [É Que Eu Não Te Esqueci 💔](https://open.spotify.com/track/3D71jvd5cyuaW5c3jBCw4i) | [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Fire Arena ❤️‍🔥](https://open.spotify.com/album/5XBlACB0p8q28Or9SiCSBL) | 2:43 | 2026-06-08 | 2026-11-13 |
 | [Última Noite \- Ao Vivo](https://open.spotify.com/track/7EHlDvAa7gncwcAlfclZiX) | [Felipe Araújo](https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB), [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [Última Noite \(Ao Vivo\)](https://open.spotify.com/album/0DPsEpVRLlu8yZ0hFRIxxw) | 2:28 | 2023-11-17 | 2024-01-20 |
 | [Última Saudade \- Ao Vivo](https://open.spotify.com/track/1wubETHu3SeJHfbz9itEH0) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Manifesto Musical 2 \(Ao Vivo / EP1\)](https://open.spotify.com/album/4HothMjvojSA740SFUAiRC) | 2:30 | 2024-10-04 | 2026-01-15 |
 

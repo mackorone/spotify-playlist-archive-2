@@ -52080,7 +52080,7 @@
       ],
       "date_added": "2026-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-09",
+      "date_removed": null,
       "duration_ms": 194253,
       "name": "I Like Love You",
       "url": "https://open.spotify.com/track/4G7mKi0Cg86mGHXMzEAeRl"
@@ -93671,6 +93671,32 @@
     },
     {
       "album": {
+        "name": "how do you get somebody to love you?",
+        "url": "https://open.spotify.com/album/2lh9vi86WkSOXXNxXTylYt"
+      },
+      "artists": [
+        {
+          "name": "SALLIE",
+          "url": "https://open.spotify.com/artist/11nm1LNMhlPFZyljj3IGrC"
+        },
+        {
+          "name": "Jay-mo Dejon",
+          "url": "https://open.spotify.com/artist/4xxmsf2DOxjXWXuL0sZTwJ"
+        },
+        {
+          "name": "Zaria Hall",
+          "url": "https://open.spotify.com/artist/3KJvophOGMrgipg1AH4tTT"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157524,
+      "name": "save the last dance",
+      "url": "https://open.spotify.com/track/02SDJd1pevOFcbK3TzCfP7"
+    },
+    {
+      "album": {
         "name": "Save The World",
         "url": "https://open.spotify.com/album/01TQsoC4T05pWOxFgpbE38"
       },
@@ -127304,7 +127330,7 @@
       ],
       "date_added": "2026-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 218540,
       "name": "\u2018Til It\u2019s Over",
       "url": "https://open.spotify.com/track/5r9UCu3MQkMRVuB2DCBjz9"

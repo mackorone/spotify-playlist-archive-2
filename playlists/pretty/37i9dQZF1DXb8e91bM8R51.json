@@ -1,6 +1,6 @@
 {
   "description": "Hip Hop pra fazer os corres da vida.",
-  "num_followers": 52939,
+  "num_followers": 52942,
   "original_name": "no corre",
   "owner": {
     "name": "Spotify",
@@ -1419,26 +1419,6 @@
     {
       "added_at": "2026-10-19 15:50:27",
       "album": {
-        "name": "Flowers (feat. MAVI)",
-        "url": "https://open.spotify.com/album/5BoyqCSSuqxD6ZXiVWnWaD"
-      },
-      "artists": [
-        {
-          "name": "TOBi",
-          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
-        },
-        {
-          "name": "MAVI",
-          "url": "https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ"
-        }
-      ],
-      "duration_ms": 182201,
-      "name": "Flowers (feat. MAVI)",
-      "url": "https://open.spotify.com/track/2e8OPXNNk9onHe4pknBZhD"
-    },
-    {
-      "added_at": "2026-10-19 15:50:27",
-      "album": {
         "name": "RUN",
         "url": "https://open.spotify.com/album/6zNJxFmILwoDTFYJqhQFIU"
       },
@@ -1455,6 +1435,26 @@
       "duration_ms": 233090,
       "name": "RUN [Feat. Young Thug] - Single Version",
       "url": "https://open.spotify.com/track/4DSS2IhBFgW7MYyjkOOx68"
+    },
+    {
+      "added_at": "2026-10-19 15:50:27",
+      "album": {
+        "name": "Flowers (feat. MAVI)",
+        "url": "https://open.spotify.com/album/5BoyqCSSuqxD6ZXiVWnWaD"
+      },
+      "artists": [
+        {
+          "name": "TOBi",
+          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
+        },
+        {
+          "name": "MAVI",
+          "url": "https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ"
+        }
+      ],
+      "duration_ms": 182201,
+      "name": "Flowers (feat. MAVI)",
+      "url": "https://open.spotify.com/track/2e8OPXNNk9onHe4pknBZhD"
     },
     {
       "added_at": "2026-10-19 15:50:27",
@@ -1519,26 +1519,6 @@
     {
       "added_at": "2026-10-19 15:50:27",
       "album": {
-        "name": "Flatline (feat. Kenny Mason)",
-        "url": "https://open.spotify.com/album/7D2GAnlKHnfquzGKHSZSTx"
-      },
-      "artists": [
-        {
-          "name": "TOBi",
-          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
-        },
-        {
-          "name": "Kenny Mason",
-          "url": "https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv"
-        }
-      ],
-      "duration_ms": 240080,
-      "name": "Flatline (feat. Kenny Mason)",
-      "url": "https://open.spotify.com/track/17wZ58uIxULAVELzhEURni"
-    },
-    {
-      "added_at": "2026-10-19 15:50:27",
-      "album": {
         "name": "Butterfly Effect (feat. RJ Payne)",
         "url": "https://open.spotify.com/album/7Bo1E59d5xhFdkrwJGUTZ1"
       },
@@ -1555,6 +1535,26 @@
       "duration_ms": 178157,
       "name": "Butterfly Effect (feat. RJ Payne)",
       "url": "https://open.spotify.com/track/7vAd8g2Tkwkj7p88S9ksT9"
+    },
+    {
+      "added_at": "2026-10-19 15:50:27",
+      "album": {
+        "name": "Flatline (feat. Kenny Mason)",
+        "url": "https://open.spotify.com/album/7D2GAnlKHnfquzGKHSZSTx"
+      },
+      "artists": [
+        {
+          "name": "TOBi",
+          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
+        },
+        {
+          "name": "Kenny Mason",
+          "url": "https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv"
+        }
+      ],
+      "duration_ms": 240080,
+      "name": "Flatline (feat. Kenny Mason)",
+      "url": "https://open.spotify.com/track/17wZ58uIxULAVELzhEURni"
     },
     {
       "added_at": "2026-10-19 15:50:27",

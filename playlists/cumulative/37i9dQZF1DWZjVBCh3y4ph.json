@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Les hits zouk & kompa du moment. Photo : Alg\u00e9ric",
+  "description": "Les hits zouk & kompa du moment. Photo : DJ Kawest x Oswald",
   "name": "Zouk Station",
   "tracks": [
     {
@@ -158,6 +158,28 @@
       "duration_ms": 205633,
       "name": "A mes c\u00f4t\u00e9s",
       "url": "https://open.spotify.com/track/1CC4cbv9dHce9iAQp00egV"
+    },
+    {
+      "album": {
+        "name": "A Z\u00e9ro",
+        "url": "https://open.spotify.com/album/7wb0mOO5iYgaxghcbzHybv"
+      },
+      "artists": [
+        {
+          "name": "Forever Music",
+          "url": "https://open.spotify.com/artist/5h452pRjLcTPSrgg1MpSje"
+        },
+        {
+          "name": "Curtis Kane",
+          "url": "https://open.spotify.com/artist/7LGeqJcTk3qJ23m7ROwIw6"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257945,
+      "name": "A Z\u00e9ro",
+      "url": "https://open.spotify.com/track/2x9BzKuFhJABtptUcieU5d"
     },
     {
       "album": {
@@ -2422,7 +2444,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 176385,
       "name": "Doudou",
       "url": "https://open.spotify.com/track/4wrmC3OaHWFqhZeDMzZxeu"
@@ -4314,7 +4336,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 195348,
       "name": "La mari\u00e9e",
       "url": "https://open.spotify.com/track/2JcTelFLWDlFQ3UQ2xix2j"
@@ -4850,7 +4872,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 197499,
       "name": "Ma pr\u00e9f\u00e9r\u00e9e",
       "url": "https://open.spotify.com/track/5QZoX688XH1CKUsgTmWcqC"
@@ -6551,6 +6573,24 @@
     },
     {
       "album": {
+        "name": "Oxyg\u00e8ne",
+        "url": "https://open.spotify.com/album/30sjcRLpkb0z1JaS7DC4QF"
+      },
+      "artists": [
+        {
+          "name": "Goulam",
+          "url": "https://open.spotify.com/artist/3n13dmLc3HY0wL5zwfuOsC"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192666,
+      "name": "Oxyg\u00e8ne",
+      "url": "https://open.spotify.com/track/0XCWS57qXMWENEaHAf9a2Z"
+    },
+    {
+      "album": {
         "name": "Pa Jan'm As\u00e9",
         "url": "https://open.spotify.com/album/6j1BeWs0ajUvztNmUxL7rd"
       },
@@ -7394,7 +7434,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 188164,
       "name": "Prisonniers",
       "url": "https://open.spotify.com/track/0T7OqHLtjhK7eP2AgtKwLd"
@@ -8871,6 +8911,24 @@
     },
     {
       "album": {
+        "name": "Termin\u00e9",
+        "url": "https://open.spotify.com/album/0SWzVW44Hzn4pEWcgbOfs1"
+      },
+      "artists": [
+        {
+          "name": "NELLA",
+          "url": "https://open.spotify.com/artist/6ugsY1POttRGmPeRreTVIT"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209011,
+      "name": "Termin\u00e9",
+      "url": "https://open.spotify.com/track/2cj7vmD2isk7stwlNyLIeV"
+    },
+    {
+      "album": {
         "name": "Tes mots",
         "url": "https://open.spotify.com/album/11NX2XtA4FYWLSPSiz0HkN"
       },
@@ -9946,6 +10004,28 @@
       "duration_ms": 196595,
       "name": "Woy",
       "url": "https://open.spotify.com/track/6rHGT6GOkgs1knyVSgpV95"
+    },
+    {
+      "album": {
+        "name": "Ya Niveau",
+        "url": "https://open.spotify.com/album/2nVTZCOe6fXurXhs9IPhTY"
+      },
+      "artists": [
+        {
+          "name": "DJ Kawest",
+          "url": "https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA"
+        },
+        {
+          "name": "Oswald",
+          "url": "https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190500,
+      "name": "Ya Niveau",
+      "url": "https://open.spotify.com/track/3fuOvo1vjbEaS0CqYsUbnp"
     },
     {
       "album": {

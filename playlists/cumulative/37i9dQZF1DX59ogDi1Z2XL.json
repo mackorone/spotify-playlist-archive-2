@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "The coldest sounds in hip-hop, coming out of Canada. Cover: Smiley & Casper TNG",
+  "description": "The coldest sounds in hip-hop, coming out of Canada. Cover: ARDN",
   "name": "Northern Bars",
   "tracks": [
     {
@@ -792,6 +792,24 @@
       "duration_ms": 165533,
       "name": "4 Sho",
       "url": "https://open.spotify.com/track/4Bq7zzEFrI79hzIFqN4KUm"
+    },
+    {
+      "album": {
+        "name": "QUATTRO",
+        "url": "https://open.spotify.com/album/7nNwyUw04UwGTcRCGaW7yq"
+      },
+      "artists": [
+        {
+          "name": "a4",
+          "url": "https://open.spotify.com/artist/6cXae0oxFktl578F6xun8I"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131029,
+      "name": "4/4",
+      "url": "https://open.spotify.com/track/6Svi5jvX5HEkPp2x09635v"
     },
     {
       "album": {
@@ -4086,7 +4104,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 158000,
       "name": "BAD",
       "url": "https://open.spotify.com/track/52g8mKaXcECey2oIgGdA8m"
@@ -5486,7 +5504,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 129626,
       "name": "Big Body",
       "url": "https://open.spotify.com/track/5f2yyclq8IXZjPyKStXAS1"
@@ -7510,7 +7528,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 160095,
       "name": "Came With A Cost",
       "url": "https://open.spotify.com/track/7qFnKQuWuvQ53T3VfcBYDi"
@@ -10178,7 +10196,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 169841,
       "name": "CUT EM",
       "url": "https://open.spotify.com/track/4NNpSoA7INW4EsIdhADU3y"
@@ -11020,7 +11038,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 140000,
       "name": "Devoted",
       "url": "https://open.spotify.com/track/6XjBgPONT73YdFj2CGEgiA"
@@ -14036,7 +14054,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 141421,
       "name": "False Creek Flats",
       "url": "https://open.spotify.com/track/7JAImzvBOTVkkgRpmR2RFF"
@@ -17477,6 +17495,24 @@
     },
     {
       "album": {
+        "name": "Good Karma",
+        "url": "https://open.spotify.com/album/4ynfISPekj2DBoTL09R3ta"
+      },
+      "artists": [
+        {
+          "name": "ARDN",
+          "url": "https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "Good Karma",
+      "url": "https://open.spotify.com/track/3mPIT4FDXOIYDFmDLV9WAP"
+    },
+    {
+      "album": {
         "name": "Good Kid",
         "url": "https://open.spotify.com/album/5CJQwomPazcVb1yoPPw8Cg"
       },
@@ -18320,6 +18356,24 @@
       "duration_ms": 132793,
       "name": "Hate Me",
       "url": "https://open.spotify.com/track/4A8sWDawez3kOgzmpcpxAJ"
+    },
+    {
+      "album": {
+        "name": "Take Care (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2479Wl5cmBOwYtv7R2Lwoy"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213306,
+      "name": "Hate Sleeping Alone",
+      "url": "https://open.spotify.com/track/60lYKxEGm5MytZQeCC2yCD"
     },
     {
       "album": {
@@ -21019,6 +21073,24 @@
     },
     {
       "album": {
+        "name": "Invisible Boy",
+        "url": "https://open.spotify.com/album/5XstAkym2Mzz7MhsQdp5DX"
+      },
+      "artists": [
+        {
+          "name": "Evil Ebenezer",
+          "url": "https://open.spotify.com/artist/1E1u1P7Fse6SKnETGdo6XK"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129088,
+      "name": "Invisible Boy",
+      "url": "https://open.spotify.com/track/1MlmQnYeIrI2BfjdTm57c6"
+    },
+    {
+      "album": {
         "name": "Ioneedem",
         "url": "https://open.spotify.com/album/1jEYd2DCOlR4UvLrgyPte4"
       },
@@ -21412,7 +21484,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 237344,
       "name": "Janice STFU",
       "url": "https://open.spotify.com/track/514joG57v4yKTsfQmz7stz"
@@ -21789,6 +21861,28 @@
     },
     {
       "album": {
+        "name": "Jusqu'\u00e0 la fin",
+        "url": "https://open.spotify.com/album/0CrDF44c8Ey2nWA1IgraZH"
+      },
+      "artists": [
+        {
+          "name": "Souldia",
+          "url": "https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1"
+        },
+        {
+          "name": "Cupidon",
+          "url": "https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229166,
+      "name": "Jusqu'\u00e0 la fin",
+      "url": "https://open.spotify.com/track/3IbDdbg3b1VpuibC9Aj753"
+    },
+    {
+      "album": {
         "name": "Mumble Rap 2",
         "url": "https://open.spotify.com/album/5AESfqbUcud4cq4xkvmFAq"
       },
@@ -22127,6 +22221,28 @@
     },
     {
       "album": {
+        "name": "Keeper",
+        "url": "https://open.spotify.com/album/1IVtwaOi0441aa5xlrKVtf"
+      },
+      "artists": [
+        {
+          "name": "Shelailai",
+          "url": "https://open.spotify.com/artist/6rhcTWIMphyIXBGVo3B0gc"
+        },
+        {
+          "name": "Eem Triplin",
+          "url": "https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157627,
+      "name": "Keeper",
+      "url": "https://open.spotify.com/track/58l7AtNOamVs2JWDXLvnyE"
+    },
+    {
+      "album": {
         "name": "Kelowna",
         "url": "https://open.spotify.com/album/4j0rUtyuBfQUixdyPR29IB"
       },
@@ -22452,7 +22568,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 230160,
       "name": "Kiss Me When I",
       "url": "https://open.spotify.com/track/2gNtJs3FFGS8Bq67wQpYjq"
@@ -24704,7 +24820,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 153892,
       "name": "Lower East Side",
       "url": "https://open.spotify.com/track/5zNF0xVXdpSHPLYVUwZOyZ"
@@ -28684,6 +28800,24 @@
       "duration_ms": 105648,
       "name": "No Id",
       "url": "https://open.spotify.com/track/76BNJ7QOTjG8Ka4H5qQr5j"
+    },
+    {
+      "album": {
+        "name": "No Love Lost",
+        "url": "https://open.spotify.com/album/5g2wSDIJXXFPDX0WinWSx8"
+      },
+      "artists": [
+        {
+          "name": "Pvrx",
+          "url": "https://open.spotify.com/artist/3tMGRYyYmK8LChGAnnmikZ"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169803,
+      "name": "No Love Lost",
+      "url": "https://open.spotify.com/track/6uKcwZAUBYHWN9nDORsFLx"
     },
     {
       "album": {
@@ -33033,6 +33167,24 @@
     },
     {
       "album": {
+        "name": "Power",
+        "url": "https://open.spotify.com/album/42mGJfLyjMuThlAFWOYDeq"
+      },
+      "artists": [
+        {
+          "name": "Pengz",
+          "url": "https://open.spotify.com/artist/6MtptleIGJ3C7lOpGf9Hxc"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123951,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/119zpfFnIgWfmrDcH0Tn9H"
+    },
+    {
+      "album": {
         "name": "POWER THROUGH",
         "url": "https://open.spotify.com/album/2canhvaAWuCmFKMHXP7yzp"
       },
@@ -33244,6 +33396,24 @@
       "duration_ms": 208571,
       "name": "PRESSURE",
       "url": "https://open.spotify.com/track/47M8dvlkQQcSV7IbjvK31V"
+    },
+    {
+      "album": {
+        "name": "Pressure & Pain",
+        "url": "https://open.spotify.com/album/66xsl63eLYvHmk0tne2JUI"
+      },
+      "artists": [
+        {
+          "name": "Devont\u00e9e",
+          "url": "https://open.spotify.com/artist/4rkobn5JkPJDD1yN9DVU2d"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155633,
+      "name": "Pressure & Pain",
+      "url": "https://open.spotify.com/track/4CfTBnpsFXvTtwOdmmwIAp"
     },
     {
       "album": {
@@ -43884,7 +44054,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 153800,
       "name": "Tryna Get Out",
       "url": "https://open.spotify.com/track/5Swx9ZJUA3NXYpyGlwqF3R"
@@ -47476,6 +47646,36 @@
       "duration_ms": 143880,
       "name": "Y?",
       "url": "https://open.spotify.com/track/2Mytg2OcqnK15ZfmGx9PqB"
+    },
+    {
+      "album": {
+        "name": "Ya Hit (feat. Drake, Travis Scott & Loe Shimmy)",
+        "url": "https://open.spotify.com/album/5KXRJdjRBZMPrmvt4EgXAd"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Loe Shimmy",
+          "url": "https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "Ya Hit (feat. Drake, Travis Scott & Loe Shimmy)",
+      "url": "https://open.spotify.com/track/76jR5C9oKb1DJR3rab6dGV"
     },
     {
       "album": {

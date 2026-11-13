@@ -1,6 +1,6 @@
 {
   "description": "The best new electronic indie music. Cover: FKJ",
-  "num_followers": 44196,
+  "num_followers": 44201,
   "original_name": "Indie Electronic ",
   "owner": {
     "name": "Spotify",
@@ -703,6 +703,22 @@
     {
       "added_at": "2026-11-04 09:14:06",
       "album": {
+        "name": "Me and You",
+        "url": "https://open.spotify.com/album/0WzQlsyq2abojuavi9W9kD"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "duration_ms": 229475,
+      "name": "Me and You",
+      "url": "https://open.spotify.com/track/3K3yAN6QVsLNM3tNkn8zuo"
+    },
+    {
+      "added_at": "2026-11-04 09:14:06",
+      "album": {
         "name": "Far Away (feat. John Glacier & Khadija Al Hanafi)",
         "url": "https://open.spotify.com/album/2A54dXXDuhdZSXfQPQf3rH"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 160360,
       "name": "Far Away (feat. John Glacier & Khadija Al Hanafi)",
       "url": "https://open.spotify.com/track/1gOgRxo3J8iURwbGf5tfBg"
-    },
-    {
-      "added_at": "2026-11-04 09:14:06",
-      "album": {
-        "name": "Me and You",
-        "url": "https://open.spotify.com/album/0WzQlsyq2abojuavi9W9kD"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        }
-      ],
-      "duration_ms": 229475,
-      "name": "Me and You",
-      "url": "https://open.spotify.com/track/3K3yAN6QVsLNM3tNkn8zuo"
     },
     {
       "added_at": "2026-11-04 09:14:06",
@@ -799,22 +799,6 @@
     {
       "added_at": "2026-11-04 09:14:06",
       "album": {
-        "name": "Kaleidoscope",
-        "url": "https://open.spotify.com/album/2a4KB3BrGlfUXNmOQbHPpM"
-      },
-      "artists": [
-        {
-          "name": "Soul Wun",
-          "url": "https://open.spotify.com/artist/1p8OhmCL3zTXnRRG9z97Fp"
-        }
-      ],
-      "duration_ms": 133761,
-      "name": "Tell Your Friends You Love Them",
-      "url": "https://open.spotify.com/track/4yYjB1TE1zkGZQnHqp49aQ"
-    },
-    {
-      "added_at": "2026-11-04 09:14:06",
-      "album": {
         "name": "Talk to Me",
         "url": "https://open.spotify.com/album/3BgijQ4jQnoz6GR8gbxlNg"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 143473,
       "name": "Take My Space",
       "url": "https://open.spotify.com/track/3cIbR7s1wSEhesuYLRD9ij"
+    },
+    {
+      "added_at": "2026-11-04 09:14:06",
+      "album": {
+        "name": "Kaleidoscope",
+        "url": "https://open.spotify.com/album/2a4KB3BrGlfUXNmOQbHPpM"
+      },
+      "artists": [
+        {
+          "name": "Soul Wun",
+          "url": "https://open.spotify.com/artist/1p8OhmCL3zTXnRRG9z97Fp"
+        }
+      ],
+      "duration_ms": 133761,
+      "name": "Tell Your Friends You Love Them",
+      "url": "https://open.spotify.com/track/4yYjB1TE1zkGZQnHqp49aQ"
     },
     {
       "added_at": "2026-11-04 09:14:06",
@@ -923,22 +923,18 @@
     {
       "added_at": "2026-11-04 09:14:06",
       "album": {
-        "name": "Good Girl",
-        "url": "https://open.spotify.com/album/1OJ2oUJcjDuiIEPrU5trpp"
+        "name": "Seaford Sunset",
+        "url": "https://open.spotify.com/album/6QyjzhzhZrYj8C4ALNJIlM"
       },
       "artists": [
         {
-          "name": "Swimming Paul",
-          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
-        },
-        {
-          "name": "Beaux Neptune",
-          "url": "https://open.spotify.com/artist/78yjqwSo3AshRgJwAfeFZj"
+          "name": "Pretty Girl",
+          "url": "https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98"
         }
       ],
-      "duration_ms": 194887,
-      "name": "Good Girl",
-      "url": "https://open.spotify.com/track/3CWjCDuORRYDKZjdQRra4f"
+      "duration_ms": 218318,
+      "name": "Seaford Sunset",
+      "url": "https://open.spotify.com/track/50f3T8LZ1ILhUA6DohGShZ"
     },
     {
       "added_at": "2026-11-04 09:14:06",
@@ -959,22 +955,22 @@
     {
       "added_at": "2026-11-04 09:14:06",
       "album": {
-        "name": "Rise & Shine",
-        "url": "https://open.spotify.com/album/7DwqmyRo2dJeIpoQxE5cjo"
+        "name": "Good Girl",
+        "url": "https://open.spotify.com/album/1OJ2oUJcjDuiIEPrU5trpp"
       },
       "artists": [
         {
-          "name": "Moods",
-          "url": "https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez"
+          "name": "Swimming Paul",
+          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
         },
         {
-          "name": "Two Another",
-          "url": "https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs"
+          "name": "Beaux Neptune",
+          "url": "https://open.spotify.com/artist/78yjqwSo3AshRgJwAfeFZj"
         }
       ],
-      "duration_ms": 150545,
-      "name": "Rise & Shine",
-      "url": "https://open.spotify.com/track/5dB8Rp9VIXzYD8t5dsYzwW"
+      "duration_ms": 194887,
+      "name": "Good Girl",
+      "url": "https://open.spotify.com/track/3CWjCDuORRYDKZjdQRra4f"
     },
     {
       "added_at": "2026-11-04 09:14:06",
@@ -999,18 +995,22 @@
     {
       "added_at": "2026-11-04 09:14:06",
       "album": {
-        "name": "Seaford Sunset",
-        "url": "https://open.spotify.com/album/6QyjzhzhZrYj8C4ALNJIlM"
+        "name": "Rise & Shine",
+        "url": "https://open.spotify.com/album/7DwqmyRo2dJeIpoQxE5cjo"
       },
       "artists": [
         {
-          "name": "Pretty Girl",
-          "url": "https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98"
+          "name": "Moods",
+          "url": "https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez"
+        },
+        {
+          "name": "Two Another",
+          "url": "https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs"
         }
       ],
-      "duration_ms": 218318,
-      "name": "Seaford Sunset",
-      "url": "https://open.spotify.com/track/50f3T8LZ1ILhUA6DohGShZ"
+      "duration_ms": 150545,
+      "name": "Rise & Shine",
+      "url": "https://open.spotify.com/track/5dB8Rp9VIXzYD8t5dsYzwW"
     },
     {
       "added_at": "2026-11-04 09:14:06",
@@ -1103,26 +1103,6 @@
     {
       "added_at": "2026-11-04 09:14:06",
       "album": {
-        "name": "Decoding Birdsong",
-        "url": "https://open.spotify.com/album/74ZHcpT543dq0nG2rupyw6"
-      },
-      "artists": [
-        {
-          "name": "Antony Szmierek",
-          "url": "https://open.spotify.com/artist/1odn2oz1bEsGWugQ8W3zhn"
-        },
-        {
-          "name": "Pretty Girl",
-          "url": "https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98"
-        }
-      ],
-      "duration_ms": 205560,
-      "name": "The First Five Minutes of Magnolia",
-      "url": "https://open.spotify.com/track/50ndAJovuhYFpkAcktjXoU"
-    },
-    {
-      "added_at": "2026-11-04 09:14:06",
-      "album": {
         "name": "Woman",
         "url": "https://open.spotify.com/album/0VJhL9eUwtKSAiqVOYKsFV"
       },
@@ -1143,6 +1123,26 @@
     {
       "added_at": "2026-11-04 09:14:06",
       "album": {
+        "name": "Decoding Birdsong",
+        "url": "https://open.spotify.com/album/74ZHcpT543dq0nG2rupyw6"
+      },
+      "artists": [
+        {
+          "name": "Antony Szmierek",
+          "url": "https://open.spotify.com/artist/1odn2oz1bEsGWugQ8W3zhn"
+        },
+        {
+          "name": "Pretty Girl",
+          "url": "https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98"
+        }
+      ],
+      "duration_ms": 205560,
+      "name": "The First Five Minutes of Magnolia",
+      "url": "https://open.spotify.com/track/50ndAJovuhYFpkAcktjXoU"
+    },
+    {
+      "added_at": "2026-11-04 09:14:06",
+      "album": {
         "name": "PROJECT X",
         "url": "https://open.spotify.com/album/6NoHuyyFKP4bN80iQJ8s9E"
       },
@@ -1155,6 +1155,22 @@
       "duration_ms": 228977,
       "name": "PROJECT X",
       "url": "https://open.spotify.com/track/6bUDwiziH8FPZWse4qsZbM"
+    },
+    {
+      "added_at": "2026-11-04 09:14:06",
+      "album": {
+        "name": "Lose All Your Friends",
+        "url": "https://open.spotify.com/album/6CNGYWi0QtwDh80KcIvnWS"
+      },
+      "artists": [
+        {
+          "name": "Friendly Fires",
+          "url": "https://open.spotify.com/artist/3mZqziCJj4pq3P2VBpmK6p"
+        }
+      ],
+      "duration_ms": 301893,
+      "name": "Lose All Your Friends",
+      "url": "https://open.spotify.com/track/0kvAaEfGZnzBQaUmqUJ2ct"
     },
     {
       "added_at": "2026-11-04 09:14:06",
@@ -1191,22 +1207,6 @@
       "duration_ms": 285882,
       "name": "Tension",
       "url": "https://open.spotify.com/track/2wHUz9eFoKHvS4Fi4hIb3H"
-    },
-    {
-      "added_at": "2026-11-04 09:14:06",
-      "album": {
-        "name": "Lose All Your Friends",
-        "url": "https://open.spotify.com/album/6CNGYWi0QtwDh80KcIvnWS"
-      },
-      "artists": [
-        {
-          "name": "Friendly Fires",
-          "url": "https://open.spotify.com/artist/3mZqziCJj4pq3P2VBpmK6p"
-        }
-      ],
-      "duration_ms": 301893,
-      "name": "Lose All Your Friends",
-      "url": "https://open.spotify.com/track/0kvAaEfGZnzBQaUmqUJ2ct"
     },
     {
       "added_at": "2026-11-04 09:14:06",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2026-11-04 09:14:06",
       "album": {
-        "name": "Lights",
-        "url": "https://open.spotify.com/album/7fjdvyrAAPwqDoGEoW8Blr"
-      },
-      "artists": [
-        {
-          "name": "John Glacier",
-          "url": "https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d"
-        }
-      ],
-      "duration_ms": 136511,
-      "name": "Lights",
-      "url": "https://open.spotify.com/track/1Va3leaBTjd9HUGNbuI97i"
-    },
-    {
-      "added_at": "2026-11-04 09:14:06",
-      "album": {
         "name": "All Your Love",
         "url": "https://open.spotify.com/album/4E0C00NAz73LhNUxB9pquv"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 151763,
       "name": "All Your Love",
       "url": "https://open.spotify.com/track/0EUvplf7cvLd1ZLumMmY3T"
+    },
+    {
+      "added_at": "2026-11-04 09:14:06",
+      "album": {
+        "name": "Lights",
+        "url": "https://open.spotify.com/album/7fjdvyrAAPwqDoGEoW8Blr"
+      },
+      "artists": [
+        {
+          "name": "John Glacier",
+          "url": "https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d"
+        }
+      ],
+      "duration_ms": 136511,
+      "name": "Lights",
+      "url": "https://open.spotify.com/track/1Va3leaBTjd9HUGNbuI97i"
     }
   ],
   "unique_name": "Indie Electronic ",

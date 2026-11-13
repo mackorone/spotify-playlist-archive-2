@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every week!
 
-591 songs - 1 day 4 hr 11 min
+592 songs - 1 day 4 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,6 +220,7 @@
 | [Gravity \(feat\. SACHA\)](https://open.spotify.com/track/05vUCrcaRvSjLzb0WbmVDk) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my), [SACHA](https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG) | [Gravity \(feat\. SACHA\)](https://open.spotify.com/album/79aF8LZe8qAienSve3qjTo) | 3:00 | 2026-07-03 |  |
 | [Guaracha En Reggaetonlandia](https://open.spotify.com/track/1LwzyjKxQiUwfBWpuwlapN) | [2DEEP](https://open.spotify.com/artist/1ky3PEixUHYvSHGeO8TSmb) | [Guaracha En Reggaetonlandia](https://open.spotify.com/album/2c1dWyAgvufd10liQGhbUf) | 2:26 | 2022-10-28 | 2023-04-15 |
 | [Guerrilla](https://open.spotify.com/track/1Wys7K0G79CGrFyBxa951Q) | [Altierr](https://open.spotify.com/artist/1KsOKDPD4azbQGuRzeW2rn) | [Guerrilla](https://open.spotify.com/album/4Ni9Ox6Ggj5mrHaRT4592a) | 3:15 | 2025-03-25 |  |
+| [H.I.M.](https://open.spotify.com/track/0cS1M0GcQqWBa2uB21wgFR) | [HIGHSOCIETY](https://open.spotify.com/artist/32MQN2sITkJGNQN40QLPEa), [Trippz Michaud](https://open.spotify.com/artist/7aZkfILPe29ylBS64DCGds) | [HIGH IMPACT MATERIAL \(H.I.M.\)](https://open.spotify.com/album/7rz3YHPoC1TG5iXEQVKksA) | 2:25 | 2026-11-13 |  |
 | [H8 December](https://open.spotify.com/track/2GmduVx3DDAyqMys6xgqem) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Aviella](https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe), [Mackenzie Sol](https://open.spotify.com/artist/3E9DITocLFcvQi0v56uhYA) | [H8 December](https://open.spotify.com/album/7uyYsla4oPYWFRWwHYJ71S) | 2:20 | 2022-09-19 | 2023-04-09 |
 | [Hachiroku](https://open.spotify.com/track/1i4abDsWpBNJZ0FIwxcwZi) | [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc), [R7CKY](https://open.spotify.com/artist/7nwTgB0QOv2yGprKxofyT8) | [Mini Motors](https://open.spotify.com/album/1wZ4JnsQ0Lfert1OwBrc2H) | 2:53 | 2023-07-24 | 2023-12-14 |
 | [Halfstep](https://open.spotify.com/track/2vVYYm1KgXXQ6QjKTTdiDl) | [TRICKSTAR](https://open.spotify.com/artist/6ZwAfJfUZZObHgUodhLBj5) | [Halfstep](https://open.spotify.com/album/45zfCS0r1tr0HyxcNFIXsA) | 2:31 | 2025-09-12 |  |

@@ -4,7 +4,7 @@
 
 > This is Andre Hazes\. The essential tracks, all in one playlist.
 
-61 songs - 3 hr 41 min
+62 songs - 3 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Een Beetje Verliefd](https://open.spotify.com/track/0XLlGrXn98Td1cPAeKcZns) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Gewoon Andre](https://open.spotify.com/album/6toU0S9DdSnpkwFaguQgIe) | 4:14 | 2025-07-20 |  |
 | [Eenzaam Zonder Jou](https://open.spotify.com/track/3UJ8i54HagEeH4lhmACvLb) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Want Ik Hou Van Jou](https://open.spotify.com/album/1bQsKoFUFBSIYQdMXoh3NB) | 3:52 | 2025-07-20 |  |
 | [Geef Mij Je Angst](https://open.spotify.com/track/0taBVXnPJpCucnlj8Xi9V6) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Voor Jou](https://open.spotify.com/album/0CGICmUeaDosEWgHfNu2IZ) | 4:19 | 2025-07-20 |  |
+| [Het Hoeft Niet Meer](https://open.spotify.com/track/0c5LO2LA2m94FKEVRCje6B) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Kleine Jongen](https://open.spotify.com/album/3bFmAoee6ezDnTaWMP7USl) | 3:15 | 2026-11-13 |  |
 | [Het Is Koud Zonder Jou](https://open.spotify.com/track/3K9DdzUlsLa1SynqM5XhLj) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [N Vriend](https://open.spotify.com/album/12SKNd3eWiv0LAqHGEmJwb) | 4:06 | 2025-07-20 |  |
 | [Het Laatste Rondje](https://open.spotify.com/track/4L2xU84Wbc37In2KXQdQMO) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Gewoon Andre](https://open.spotify.com/album/6toU0S9DdSnpkwFaguQgIe) | 4:20 | 2025-07-20 |  |
 | [Hoogste Tijd](https://open.spotify.com/track/6LQXoQIP2Ijz143UWP6chf) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Kleine Jongen](https://open.spotify.com/album/3bFmAoee6ezDnTaWMP7USl) | 3:14 | 2025-07-20 |  |
@@ -44,7 +45,7 @@
 | [Jij Denkt Maar Dat Je Alles Mag Van Mij](https://open.spotify.com/track/1nfhJk2pQuGFCw4c1Tbqvq) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Jij Bent Alles](https://open.spotify.com/album/15mOfcMsTYi6chFIA0jyXH) | 3:33 | 2025-07-20 | 2025-11-30 |
 | [Kerstmis Voor Een Zwerver](https://open.spotify.com/track/28HZeogH3brUS2m0Y2GF7t) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Kerstboom Zonder Piek](https://open.spotify.com/album/6JOiCwUPUXKVnPMyPDFwVT) | 3:21 | 2025-11-30 | 2025-12-28 |
 | [Kleine Jongen](https://open.spotify.com/track/0NMvLLGLKKJmSMqQSR38Sx) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Kleine Jongen](https://open.spotify.com/album/3bFmAoee6ezDnTaWMP7USl) | 3:43 | 2025-07-20 |  |
-| [Laat De Zon Maar Schijnen](https://open.spotify.com/track/1rgBtqS3nUpVCfg3Xc7ybg) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Mijn Gevoel](https://open.spotify.com/album/7egOHHWD0QAecudU4JjPTe) | 3:35 | 2026-05-14 |  |
+| [Laat De Zon Maar Schijnen](https://open.spotify.com/track/1rgBtqS3nUpVCfg3Xc7ybg) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Mijn Gevoel](https://open.spotify.com/album/7egOHHWD0QAecudU4JjPTe) | 3:35 | 2026-05-14 | 2026-11-13 |
 | [Laat Me](https://open.spotify.com/track/642MewtIduLhhM5CPbrE3O) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Met Liefde](https://open.spotify.com/album/0TAI03BMFuXUpu04Um3Od0) | 3:41 | 2026-02-04 |  |
 | [Leef Nu Maar Je Eigen Leven](https://open.spotify.com/track/3ZAvKrfjxPKvzrxxgywVe8) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Samen](https://open.spotify.com/album/2u9B11BYyxQGBvSzY3UPin) | 3:54 | 2025-07-20 |  |
 | [Op De Hoek Van De Straat](https://open.spotify.com/track/2GHTuJQYBRkpUQkQ58060c) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Dit Is Wat Ik Wil](https://open.spotify.com/album/0bePor1BxmiRNOaGxSJiKN) | 3:08 | 2025-07-20 |  |

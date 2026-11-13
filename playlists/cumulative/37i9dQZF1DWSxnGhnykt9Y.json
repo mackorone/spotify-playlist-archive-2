@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-12-04",
-  "description": "Some of the most influential and innovative voices in afrobeats, afropop, amapiano, hiplife and everything in between, from earliest acts to newest stars. \n\nCover: Niniola",
+  "description": "Some of the most influential and innovative voices in afrobeats, afropop, amapiano, hiplife and everything in between, from earliest acts to newest stars. \n\nCover: Solana",
   "name": "Women of Afro",
   "tracks": [
     {
@@ -92,7 +92,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 129230,
       "name": "4am",
       "url": "https://open.spotify.com/track/6iyQtOBm7vk72oLleHiF2s"
@@ -158,7 +158,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 170078,
       "name": "ACCRA GIRLS",
       "url": "https://open.spotify.com/track/2s01mh0dsFDn4lDCBbCnxD"
@@ -308,6 +308,24 @@
       "duration_ms": 192000,
       "name": "Ah Well",
       "url": "https://open.spotify.com/track/2JtaWZbCiOA0i09pTWH2JQ"
+    },
+    {
+      "album": {
+        "name": "Aka Oma",
+        "url": "https://open.spotify.com/album/65fPSZL5gvkAlTiFpFM8Ti"
+      },
+      "artists": [
+        {
+          "name": "Ugoccie",
+          "url": "https://open.spotify.com/artist/23NKFSnR8yAUDQdub4vnIN"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Aka Oma",
+      "url": "https://open.spotify.com/track/45kMpM6mIfmK1FDM4PFt3y"
     },
     {
       "album": {
@@ -576,7 +594,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 154285,
       "name": "BE",
       "url": "https://open.spotify.com/track/2RMChoPeNN7CaPUD4QfsED"
@@ -736,6 +754,24 @@
       "duration_ms": 148000,
       "name": "Bigger Picture",
       "url": "https://open.spotify.com/track/21ZDmEYeHbewO0pXOOrXKD"
+    },
+    {
+      "album": {
+        "name": "Bilingual Baddie(BB)",
+        "url": "https://open.spotify.com/album/5w9mCgHkFdDDrHVzTmuToU"
+      },
+      "artists": [
+        {
+          "name": "T\u00d6ME",
+          "url": "https://open.spotify.com/artist/2aRiWRO2A7xUI2sqZyJJmX"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118636,
+      "name": "Bilingual Baddie(BB)",
+      "url": "https://open.spotify.com/track/5OhIiYqDiGngTojSmC11ZP"
     },
     {
       "album": {
@@ -1318,7 +1354,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 252723,
       "name": "CRAZY OF ME (feat. MaWhoo)",
       "url": "https://open.spotify.com/track/6gkJmjZtPgbCyYKEHWagz3"
@@ -1565,6 +1601,24 @@
     },
     {
       "album": {
+        "name": "Girl From The West",
+        "url": "https://open.spotify.com/album/4frT3p7rhaAyLgtRSIO2U2"
+      },
+      "artists": [
+        {
+          "name": "Solana",
+          "url": "https://open.spotify.com/artist/3l476od4bTSjScrR20hpjR"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157419,
+      "name": "Don't Want",
+      "url": "https://open.spotify.com/track/1a4kuAuM9rMX49yalPL3at"
+    },
+    {
+      "album": {
         "name": "Don\u2019t You Forget",
         "url": "https://open.spotify.com/album/01Elb7M7eEhIQprV6JdJe5"
       },
@@ -1638,7 +1692,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 128925,
       "name": "DUM",
       "url": "https://open.spotify.com/track/3i2t3pOBrvdX3B9j66ss2A"
@@ -2427,6 +2481,50 @@
     },
     {
       "album": {
+        "name": "Hu Mpaare",
+        "url": "https://open.spotify.com/album/5ObgkS7XODRcQrOKiJgNOB"
+      },
+      "artists": [
+        {
+          "name": "Saint Chicago",
+          "url": "https://open.spotify.com/artist/5dWYZ9caX4LCFxDy78lfC8"
+        },
+        {
+          "name": "Soorebia",
+          "url": "https://open.spotify.com/artist/0ZVH5bOhM2sW3aiLTohO0f"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175945,
+      "name": "Hu Mpaare",
+      "url": "https://open.spotify.com/track/0KlF2Jsoc8mQFZIZ5v5mDF"
+    },
+    {
+      "album": {
+        "name": "Hustler",
+        "url": "https://open.spotify.com/album/5TEQP37CNrQ9ZNCN7eQ7nx"
+      },
+      "artists": [
+        {
+          "name": "Itz Tiffany",
+          "url": "https://open.spotify.com/artist/1Owom9d3JLOlczXBorsQeW"
+        },
+        {
+          "name": "Lalid",
+          "url": "https://open.spotify.com/artist/18eUnEkhFO7mnMNDURU1UV"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128612,
+      "name": "Hustler",
+      "url": "https://open.spotify.com/track/6KS6IlzaDum5ehR91iTNW7"
+    },
+    {
+      "album": {
         "name": "Hyp\u00e9 (feat. Ayra Starr)",
         "url": "https://open.spotify.com/album/5RuD9wVp96jSA1Lx1pZNYD"
       },
@@ -2482,7 +2580,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 192764,
       "name": "I DON'T CARE (feat. Babalwa M)",
       "url": "https://open.spotify.com/track/13ia3DtaRolSiYpjrMbvCO"
@@ -3259,6 +3357,28 @@
     },
     {
       "album": {
+        "name": "Softies Vibe",
+        "url": "https://open.spotify.com/album/6bpneNjbmsbu4X1u5gr1vc"
+      },
+      "artists": [
+        {
+          "name": "Rukmani",
+          "url": "https://open.spotify.com/artist/4lz2CgyavcVw3XfnvID7FV"
+        },
+        {
+          "name": "Ema Onigah",
+          "url": "https://open.spotify.com/artist/3xl6xQ0sIWIWE6tiUW3hwD"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186947,
+      "name": "Lock It In",
+      "url": "https://open.spotify.com/track/3ESQpYDPXBBv8yEJPzrl35"
+    },
+    {
+      "album": {
         "name": "Peace And Money",
         "url": "https://open.spotify.com/album/47pNTi044pGat6ihhj9Vo2"
       },
@@ -3510,7 +3630,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 188000,
       "name": "Makuhia",
       "url": "https://open.spotify.com/track/2Wk9nzP4CIZI8Z0OdHRoGw"
@@ -4431,6 +4551,24 @@
     },
     {
       "album": {
+        "name": "O r\u00ed mi",
+        "url": "https://open.spotify.com/album/1O6BfPiNKoMy1iIZOHekVG"
+      },
+      "artists": [
+        {
+          "name": "Solana",
+          "url": "https://open.spotify.com/artist/3l476od4bTSjScrR20hpjR"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165882,
+      "name": "O r\u00ed mi",
+      "url": "https://open.spotify.com/track/3R4GEid3JLlWuujA7HlRQt"
+    },
+    {
+      "album": {
         "name": "Obi Tan Wo",
         "url": "https://open.spotify.com/album/2PQZCAt8WOUXPmRgVZr2VQ"
       },
@@ -5218,7 +5356,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 192285,
       "name": "Running",
       "url": "https://open.spotify.com/track/2qWaoTUBcVXXA1QgM5ODLc"
@@ -5558,7 +5696,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 307245,
       "name": "Sometimes Love",
       "url": "https://open.spotify.com/track/20KOIyeSqCrfWnUJhGlfKl"
@@ -5820,6 +5958,24 @@
       "duration_ms": 157808,
       "name": "Temperature (E Dey Hot)",
       "url": "https://open.spotify.com/track/0o2Hm5xDGCjsboek8TOFDC"
+    },
+    {
+      "album": {
+        "name": "Therapy",
+        "url": "https://open.spotify.com/album/5O6e7jDzxV5kvNwaHrKHpm"
+      },
+      "artists": [
+        {
+          "name": "Akuvi",
+          "url": "https://open.spotify.com/artist/41VbuWKdlHSsk8By8pA68h"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159409,
+      "name": "Therapy",
+      "url": "https://open.spotify.com/track/4jTRj7jqpWFIOCcBXWRIqD"
     },
     {
       "album": {
@@ -6566,6 +6722,24 @@
       "duration_ms": 152641,
       "name": "You are",
       "url": "https://open.spotify.com/track/2vVtf4WoiXXU5MhJw0JHuA"
+    },
+    {
+      "album": {
+        "name": "Your Body (Crazy)",
+        "url": "https://open.spotify.com/album/2xxi5WOjd5ZAL1wy4gHKWz"
+      },
+      "artists": [
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159272,
+      "name": "Your Body (Crazy)",
+      "url": "https://open.spotify.com/track/6z8o5ymNwSGbY2rWLTCagT"
     },
     {
       "album": {

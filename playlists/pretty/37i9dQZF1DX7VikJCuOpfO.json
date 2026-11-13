@@ -1,6 +1,6 @@
 {
   "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Alex Fernandez \ud83d\udcf8",
-  "num_followers": 368325,
+  "num_followers": 368328,
   "original_name": "Mariachi 2026",
   "owner": {
     "name": "Spotify",
@@ -303,22 +303,6 @@
     {
       "added_at": "2026-11-06 17:00:38",
       "album": {
-        "name": "AL ESTILO JALISCO",
-        "url": "https://open.spotify.com/album/4tMqk85yHl5KPiXbDypOlc"
-      },
-      "artists": [
-        {
-          "name": "Ra\u00fal Beltran",
-          "url": "https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP"
-        }
-      ],
-      "duration_ms": 278590,
-      "name": "TRAIGO UNA SED",
-      "url": "https://open.spotify.com/track/7zyE3MoUk3tkf0T8k5HWDJ"
-    },
-    {
-      "added_at": "2026-11-06 17:00:38",
-      "album": {
         "name": "Se Me Olvid\u00f3 Otra Vez",
         "url": "https://open.spotify.com/album/6zxsZbK1XJBFpDx4QtJ2gt"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 176741,
       "name": "Se Me Olvid\u00f3 Otra Vez",
       "url": "https://open.spotify.com/track/7vZFlThbbfmOqSPkgzGGC4"
+    },
+    {
+      "added_at": "2026-11-06 17:00:38",
+      "album": {
+        "name": "AL ESTILO JALISCO",
+        "url": "https://open.spotify.com/album/4tMqk85yHl5KPiXbDypOlc"
+      },
+      "artists": [
+        {
+          "name": "Ra\u00fal Beltran",
+          "url": "https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP"
+        }
+      ],
+      "duration_ms": 278590,
+      "name": "TRAIGO UNA SED",
+      "url": "https://open.spotify.com/track/7zyE3MoUk3tkf0T8k5HWDJ"
     },
     {
       "added_at": "2026-11-06 17:00:38",
@@ -383,22 +383,6 @@
     {
       "added_at": "2026-11-06 17:00:38",
       "album": {
-        "name": "Ya No Le Mientas",
-        "url": "https://open.spotify.com/album/5luT7UJl4D2vY5xL8M6mRf"
-      },
-      "artists": [
-        {
-          "name": "Alta Consigna",
-          "url": "https://open.spotify.com/artist/0DjAjUeZwSixK0dRwplBXb"
-        }
-      ],
-      "duration_ms": 159347,
-      "name": "Ya No Le Mientas",
-      "url": "https://open.spotify.com/track/7xdtRize93wp9Zi3HM3bqI"
-    },
-    {
-      "added_at": "2026-11-06 17:00:38",
-      "album": {
         "name": "Por Debajo De La Mesa",
         "url": "https://open.spotify.com/album/5hGNkM9FmYIDSGvQElWcpR"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 184313,
       "name": "Por Debajo De La Mesa",
       "url": "https://open.spotify.com/track/3fkdu0ySrFF0Y3VAyyGPjL"
+    },
+    {
+      "added_at": "2026-11-06 17:00:38",
+      "album": {
+        "name": "Ya No Le Mientas",
+        "url": "https://open.spotify.com/album/5luT7UJl4D2vY5xL8M6mRf"
+      },
+      "artists": [
+        {
+          "name": "Alta Consigna",
+          "url": "https://open.spotify.com/artist/0DjAjUeZwSixK0dRwplBXb"
+        }
+      ],
+      "duration_ms": 159347,
+      "name": "Ya No Le Mientas",
+      "url": "https://open.spotify.com/track/7xdtRize93wp9Zi3HM3bqI"
     },
     {
       "added_at": "2026-11-06 17:00:38",

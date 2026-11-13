@@ -1,6 +1,6 @@
 {
   "description": "Os grandes artistas da MPB. Foto: Maria Beth\u00e2nia",
-  "num_followers": 1474551,
+  "num_followers": 1474566,
   "original_name": "O Melhor da MPB",
   "owner": {
     "name": "Spotify",
@@ -615,6 +615,22 @@
     {
       "added_at": "2026-10-19 15:54:39",
       "album": {
+        "name": "A Pele do Futuro Ao Vivo",
+        "url": "https://open.spotify.com/album/1LpG0vjBhKLcUOcgGlPJ1a"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        }
+      ],
+      "duration_ms": 229864,
+      "name": "Chuva de Prata - Ao Vivo",
+      "url": "https://open.spotify.com/track/4vrW1O3nZJM8QQN8gzXubU"
+    },
+    {
+      "added_at": "2026-10-19 15:54:39",
+      "album": {
         "name": "Linha De Passe",
         "url": "https://open.spotify.com/album/5hP8pHRsoC1ySE4wVc9wcH"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 200240,
       "name": "O B\u00eabado e a Equilibrista",
       "url": "https://open.spotify.com/track/3bgRCx8adxUZT7It3ryrWU"
-    },
-    {
-      "added_at": "2026-10-19 15:54:39",
-      "album": {
-        "name": "A Pele do Futuro Ao Vivo",
-        "url": "https://open.spotify.com/album/1LpG0vjBhKLcUOcgGlPJ1a"
-      },
-      "artists": [
-        {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        }
-      ],
-      "duration_ms": 229864,
-      "name": "Chuva de Prata - Ao Vivo",
-      "url": "https://open.spotify.com/track/4vrW1O3nZJM8QQN8gzXubU"
     },
     {
       "added_at": "2026-10-19 15:54:39",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2026-10-19 15:54:39",
       "album": {
-        "name": "Racional (Vol 1)",
-        "url": "https://open.spotify.com/album/7J9wATH6I891OTHteIWSEj"
-      },
-      "artists": [
-        {
-          "name": "Tim Maia",
-          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
-        }
-      ],
-      "duration_ms": 305693,
-      "name": "Bom-Senso",
-      "url": "https://open.spotify.com/track/7j2ExpvZTeURjspK443YKU"
-    },
-    {
-      "added_at": "2026-10-19 15:54:39",
-      "album": {
         "name": "Tribalistas",
         "url": "https://open.spotify.com/album/4v3TBbpmdInhU1qpWUGBBb"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 236970,
       "name": "Alian\u00e7a",
       "url": "https://open.spotify.com/track/5lLKJdDPy7qbsta6d88lKE"
+    },
+    {
+      "added_at": "2026-10-19 15:54:39",
+      "album": {
+        "name": "Racional (Vol 1)",
+        "url": "https://open.spotify.com/album/7J9wATH6I891OTHteIWSEj"
+      },
+      "artists": [
+        {
+          "name": "Tim Maia",
+          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
+        }
+      ],
+      "duration_ms": 305693,
+      "name": "Bom-Senso",
+      "url": "https://open.spotify.com/track/7j2ExpvZTeURjspK443YKU"
     },
     {
       "added_at": "2026-10-19 15:54:39",

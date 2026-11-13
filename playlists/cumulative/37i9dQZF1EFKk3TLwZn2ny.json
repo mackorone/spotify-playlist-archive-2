@@ -1539,6 +1539,24 @@
     },
     {
       "album": {
+        "name": "ALOUD!",
+        "url": "https://open.spotify.com/album/4FDFTveKB14lSEgYJePS8D"
+      },
+      "artists": [
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113072,
+      "name": "Wet",
+      "url": "https://open.spotify.com/track/2y4Gg9LXXrdq7Z8G3T4YOY"
+    },
+    {
+      "album": {
         "name": "White Lie",
         "url": "https://open.spotify.com/album/338zZshtwKxZY8gXfMBmMr"
       },

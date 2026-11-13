@@ -1,31 +1,35 @@
 {
-  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Ronisia",
-  "num_followers": 203688,
+  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Warren Saada x JEUDI",
+  "num_followers": 203711,
   "original_name": "R&Bae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACZTonSo42wxkNd8/sqA0yT+R+y1",
+  "snapshot_id": "AAAAAGimhDEv+KMAjXNl+8xPXZc24Epc",
   "tracks": [
     {
-      "added_at": "2026-11-05 23:00:07",
+      "added_at": "2026-11-12 23:00:30",
       "album": {
-        "name": "Sensation",
-        "url": "https://open.spotify.com/album/7ssHO3Sljdx8vlZQGT4TRM"
+        "name": "Sors de ma life",
+        "url": "https://open.spotify.com/album/5XZGdDHkQxWEkhN8tZMY3o"
       },
       "artists": [
         {
-          "name": "Ronisia",
-          "url": "https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV"
+          "name": "Warren Saada",
+          "url": "https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM"
+        },
+        {
+          "name": "JEUDI",
+          "url": "https://open.spotify.com/artist/6HZ8c7N6ysiZJf4HkGCszd"
         }
       ],
-      "duration_ms": 181512,
-      "name": "Champagne",
-      "url": "https://open.spotify.com/track/3DszGRTMjdrzn2QQLNAh9d"
+      "duration_ms": 207653,
+      "name": "Sors de ma life",
+      "url": "https://open.spotify.com/track/3LrWSd7L8buvWBKDgTtPvc"
     },
     {
-      "added_at": "2026-11-05 23:00:07",
+      "added_at": "2026-11-12 23:00:30",
       "album": {
         "name": "J'assume",
         "url": "https://open.spotify.com/album/7q01MmYmGGFHADR5RYC54G"
@@ -41,26 +45,10 @@
       "url": "https://open.spotify.com/track/5qRO8OcqfOc7mgTEDN12XQ"
     },
     {
-      "added_at": "2026-11-05 23:00:07",
+      "added_at": "2026-11-12 23:00:30",
       "album": {
-        "name": "Merci",
-        "url": "https://open.spotify.com/album/6EA7192nG5dzrraJ2ohXDU"
-      },
-      "artists": [
-        {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
-        }
-      ],
-      "duration_ms": 195316,
-      "name": "Merci",
-      "url": "https://open.spotify.com/track/0w0INM1KnJXEcyFvFw6LzY"
-    },
-    {
-      "added_at": "2026-11-05 23:00:07",
-      "album": {
-        "name": "Juste avant l'\u00e9tincelle...",
-        "url": "https://open.spotify.com/album/4FOedktShEibkYhYC8mcc0"
+        "name": "Zoblazo",
+        "url": "https://open.spotify.com/album/3X3mH7ffwYZZIbFPF2vUjY"
       },
       "artists": [
         {
@@ -68,12 +56,28 @@
           "url": "https://open.spotify.com/artist/43Lkhar9oQ9sIpFXzwhe0T"
         }
       ],
-      "duration_ms": 146000,
-      "name": "Sous ta peau",
-      "url": "https://open.spotify.com/track/10nq1ICgCxWFHyxQXkGBND"
+      "duration_ms": 160474,
+      "name": "Zoblazo",
+      "url": "https://open.spotify.com/track/2bP4d1jWgRglQCbBu4DREv"
     },
     {
-      "added_at": "2026-11-05 23:00:07",
+      "added_at": "2026-11-12 23:00:30",
+      "album": {
+        "name": "Sensation",
+        "url": "https://open.spotify.com/album/7ssHO3Sljdx8vlZQGT4TRM"
+      },
+      "artists": [
+        {
+          "name": "Ronisia",
+          "url": "https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV"
+        }
+      ],
+      "duration_ms": 181512,
+      "name": "Champagne",
+      "url": "https://open.spotify.com/track/3DszGRTMjdrzn2QQLNAh9d"
+    },
+    {
+      "added_at": "2026-11-12 23:00:30",
       "album": {
         "name": "Titanic",
         "url": "https://open.spotify.com/album/76mqpNEK8FRHzOMZUxwDaK"
@@ -93,7 +97,23 @@
       "url": "https://open.spotify.com/track/6Z7tzt8vD8pVgy58IOUKoj"
     },
     {
-      "added_at": "2026-11-05 23:00:07",
+      "added_at": "2026-11-12 23:00:30",
+      "album": {
+        "name": "Merci",
+        "url": "https://open.spotify.com/album/6EA7192nG5dzrraJ2ohXDU"
+      },
+      "artists": [
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "duration_ms": 195316,
+      "name": "Merci",
+      "url": "https://open.spotify.com/track/0w0INM1KnJXEcyFvFw6LzY"
+    },
+    {
+      "added_at": "2026-11-12 23:00:30",
       "album": {
         "name": "Le Deal",
         "url": "https://open.spotify.com/album/2WwAXT0esfsDWsNUjrGWvi"
@@ -113,7 +133,7 @@
       "url": "https://open.spotify.com/track/74BWydeH0rlWAjM9BLxcl1"
     },
     {
-      "added_at": "2026-11-05 23:00:07",
+      "added_at": "2026-11-12 23:00:30",
       "album": {
         "name": "Hot",
         "url": "https://open.spotify.com/album/5FNjUU3YrOLgc09fqV9Dq7"
@@ -133,23 +153,7 @@
       "url": "https://open.spotify.com/track/01Gccj2VR5W5eZMg9h8Bmi"
     },
     {
-      "added_at": "2026-11-05 23:00:07",
-      "album": {
-        "name": "Sensation",
-        "url": "https://open.spotify.com/album/7ssHO3Sljdx8vlZQGT4TRM"
-      },
-      "artists": [
-        {
-          "name": "Ronisia",
-          "url": "https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV"
-        }
-      ],
-      "duration_ms": 153614,
-      "name": "Replay",
-      "url": "https://open.spotify.com/track/38bfxRHZXxdIgikV4xFYuP"
-    },
-    {
-      "added_at": "2026-11-05 23:00:07",
+      "added_at": "2026-11-12 23:00:30",
       "album": {
         "name": "AMOUR & SACRIFICE PART.II",
         "url": "https://open.spotify.com/album/61E561Bc6h0L2NA7RRF8lA"
@@ -165,39 +169,39 @@
       "url": "https://open.spotify.com/track/6ptAjfB1A5qMT3H0JX8k0o"
     },
     {
-      "added_at": "2026-11-05 23:00:07",
+      "added_at": "2026-11-12 23:00:30",
       "album": {
-        "name": "Illico Presto",
-        "url": "https://open.spotify.com/album/1iGuhzQb12kuiecslqQdTM"
+        "name": "Juste avant l'\u00e9tincelle...",
+        "url": "https://open.spotify.com/album/4FOedktShEibkYhYC8mcc0"
       },
       "artists": [
         {
-          "name": "Merveille",
-          "url": "https://open.spotify.com/artist/6a4YQ8ebVHffAYNkHn9nc8"
+          "name": "Ruthee",
+          "url": "https://open.spotify.com/artist/43Lkhar9oQ9sIpFXzwhe0T"
         }
       ],
-      "duration_ms": 144000,
-      "name": "Illico Presto",
-      "url": "https://open.spotify.com/track/7duoBm6ju6M0A6ozHAGLqe"
+      "duration_ms": 146000,
+      "name": "Sous ta peau",
+      "url": "https://open.spotify.com/track/10nq1ICgCxWFHyxQXkGBND"
     },
     {
-      "added_at": "2026-11-05 23:00:07",
+      "added_at": "2026-11-12 23:00:30",
       "album": {
-        "name": "Destin\u00e9e Supremacy",
-        "url": "https://open.spotify.com/album/2f9TdSgcGOxbjziCQKwf2t"
+        "name": "Oublie moi",
+        "url": "https://open.spotify.com/album/3Ca1XR9fSPwJTeXNWGUd5p"
       },
       "artists": [
         {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+          "name": "Kurtys",
+          "url": "https://open.spotify.com/artist/732YXWHf1cGFf2CufOIHsU"
         }
       ],
-      "duration_ms": 150511,
-      "name": "La p\u00e9tasse",
-      "url": "https://open.spotify.com/track/2FGUvuu07YxBUcK4fQ0nom"
+      "duration_ms": 149333,
+      "name": "Oublie moi",
+      "url": "https://open.spotify.com/track/7DyiDYRk0UasuC71ukfUs7"
     },
     {
-      "added_at": "2026-11-05 23:00:07",
+      "added_at": "2026-11-12 23:00:30",
       "album": {
         "name": "MOI, JEUNE & M\u00c9CHANT",
         "url": "https://open.spotify.com/album/7tvIctDQ5pMUpKMhHKUaS5"
@@ -217,23 +221,23 @@
       "url": "https://open.spotify.com/track/5gjNOJQF085su5WY7yL1yl"
     },
     {
-      "added_at": "2026-11-05 23:00:07",
+      "added_at": "2026-11-12 23:00:30",
       "album": {
-        "name": "Don Junio",
-        "url": "https://open.spotify.com/album/1WogymgPlxAnUleQFmEJyV"
+        "name": "Sensation",
+        "url": "https://open.spotify.com/album/7ssHO3Sljdx8vlZQGT4TRM"
       },
       "artists": [
         {
-          "name": " (D)Juno",
-          "url": "https://open.spotify.com/artist/47NPZW7ZtxGEY1P8Pa4AzY"
+          "name": "Ronisia",
+          "url": "https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV"
         }
       ],
-      "duration_ms": 186772,
-      "name": "Don Junio",
-      "url": "https://open.spotify.com/track/7mR7mFAXJRQeR1M1pWVgsy"
+      "duration_ms": 153614,
+      "name": "Replay",
+      "url": "https://open.spotify.com/track/38bfxRHZXxdIgikV4xFYuP"
     },
     {
-      "added_at": "2026-11-05 23:00:07",
+      "added_at": "2026-11-12 23:00:30",
       "album": {
         "name": "Pour le meilleur",
         "url": "https://open.spotify.com/album/3CeZ16FT4YxgA13JycmbbH"
@@ -249,59 +253,39 @@
       "url": "https://open.spotify.com/track/1z7ZMmDlLt3XfhU4PehRDT"
     },
     {
-      "added_at": "2026-11-05 23:00:07",
+      "added_at": "2026-11-12 23:00:30",
       "album": {
-        "name": "Aller sans retour - Music Monday",
-        "url": "https://open.spotify.com/album/5g2gva6enwPlPvvIQojcj6"
+        "name": "Dernier Bus",
+        "url": "https://open.spotify.com/album/3kjtGOAWTnhs5fHuYgEaY5"
       },
       "artists": [
         {
-          "name": "Ocevne",
-          "url": "https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL"
+          "name": "SenSey'",
+          "url": "https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5"
         }
       ],
-      "duration_ms": 144160,
-      "name": "Aller sans retour",
-      "url": "https://open.spotify.com/track/1ePJ1gQbI6qVkQcfqtn0Lv"
+      "duration_ms": 208014,
+      "name": "Dernier Bus",
+      "url": "https://open.spotify.com/track/3mfBjPvxhW364zsXWbgfEB"
     },
     {
-      "added_at": "2026-11-05 23:00:07",
+      "added_at": "2026-11-12 23:00:30",
       "album": {
-        "name": "HHHH\u00b2",
-        "url": "https://open.spotify.com/album/5StEA77WBVD37guZmDD87f"
+        "name": "Illico Presto",
+        "url": "https://open.spotify.com/album/1iGuhzQb12kuiecslqQdTM"
       },
       "artists": [
         {
-          "name": "Josman",
-          "url": "https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR"
-        },
-        {
-          "name": "Ronisia",
-          "url": "https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV"
+          "name": "Merveille",
+          "url": "https://open.spotify.com/artist/6a4YQ8ebVHffAYNkHn9nc8"
         }
       ],
-      "duration_ms": 204253,
-      "name": "face2face (feat. Ronisia)",
-      "url": "https://open.spotify.com/track/5b5xwjnYDRatDTe3l75MON"
+      "duration_ms": 144000,
+      "name": "Illico Presto",
+      "url": "https://open.spotify.com/track/7duoBm6ju6M0A6ozHAGLqe"
     },
     {
-      "added_at": "2026-11-05 23:00:07",
-      "album": {
-        "name": "Zoblazo",
-        "url": "https://open.spotify.com/album/3X3mH7ffwYZZIbFPF2vUjY"
-      },
-      "artists": [
-        {
-          "name": "Ruthee",
-          "url": "https://open.spotify.com/artist/43Lkhar9oQ9sIpFXzwhe0T"
-        }
-      ],
-      "duration_ms": 160474,
-      "name": "Zoblazo",
-      "url": "https://open.spotify.com/track/2bP4d1jWgRglQCbBu4DREv"
-    },
-    {
-      "added_at": "2026-11-05 23:00:07",
+      "added_at": "2026-11-12 23:00:30",
       "album": {
         "name": "Studio Session",
         "url": "https://open.spotify.com/album/2XzlS0seDpzYCgbvGhIGda"
@@ -321,107 +305,39 @@
       "url": "https://open.spotify.com/track/5QbQdRn2FqNimyxMSr9RIR"
     },
     {
-      "added_at": "2026-11-05 23:00:07",
+      "added_at": "2026-11-12 23:00:30",
       "album": {
-        "name": "La guerre",
-        "url": "https://open.spotify.com/album/0m34805p0crcjHeLE8pbmq"
+        "name": "Don Junio",
+        "url": "https://open.spotify.com/album/1WogymgPlxAnUleQFmEJyV"
       },
       "artists": [
         {
-          "name": "Iliana",
-          "url": "https://open.spotify.com/artist/7kjWIGGBS3AigeN2Ppkr83"
+          "name": " (D)Juno",
+          "url": "https://open.spotify.com/artist/47NPZW7ZtxGEY1P8Pa4AzY"
         }
       ],
-      "duration_ms": 192958,
-      "name": "La guerre",
-      "url": "https://open.spotify.com/track/3PEwWCwgsc3qnYcDgNOuq0"
+      "duration_ms": 186772,
+      "name": "Don Junio",
+      "url": "https://open.spotify.com/track/7mR7mFAXJRQeR1M1pWVgsy"
     },
     {
-      "added_at": "2026-11-05 23:00:07",
+      "added_at": "2026-11-12 23:00:30",
       "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/1TihwEVRCTG3DusEz0Rlr4"
+        "name": "Aller sans retour - Music Monday",
+        "url": "https://open.spotify.com/album/5g2gva6enwPlPvvIQojcj6"
       },
       "artists": [
         {
-          "name": "0zaru",
-          "url": "https://open.spotify.com/artist/5LMCpz8qYwAGcVSyNX0gvH"
+          "name": "Ocevne",
+          "url": "https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL"
         }
       ],
-      "duration_ms": 151719,
-      "name": "Dopamine",
-      "url": "https://open.spotify.com/track/36ntyJsQjDBDSAnjxz96MD"
+      "duration_ms": 144160,
+      "name": "Aller sans retour",
+      "url": "https://open.spotify.com/track/1ePJ1gQbI6qVkQcfqtn0Lv"
     },
     {
-      "added_at": "2026-11-05 23:00:07",
-      "album": {
-        "name": "Don\u2018t tell me",
-        "url": "https://open.spotify.com/album/5bmlgb60OzvS8NMGsZfmkn"
-      },
-      "artists": [
-        {
-          "name": "7iaa",
-          "url": "https://open.spotify.com/artist/753CpLj7OaZZbx5qLWHFpl"
-        }
-      ],
-      "duration_ms": 170769,
-      "name": "Don\u2018t tell me",
-      "url": "https://open.spotify.com/track/0bnCNxHiSRqwwLrC5ZRBnU"
-    },
-    {
-      "added_at": "2026-11-05 23:00:07",
-      "album": {
-        "name": "ZMIG EXPANSION",
-        "url": "https://open.spotify.com/album/1OABNen912ksJNgNqEPpVP"
-      },
-      "artists": [
-        {
-          "name": "Danyl",
-          "url": "https://open.spotify.com/artist/5Hq9W3lm1N9KRCf35RBMab"
-        },
-        {
-          "name": "aupinard",
-          "url": "https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne"
-        }
-      ],
-      "duration_ms": 157168,
-      "name": "NAVR\u00c9",
-      "url": "https://open.spotify.com/track/2E0HZe6I8XPmGDzNCBHSuz"
-    },
-    {
-      "added_at": "2026-11-05 23:00:07",
-      "album": {
-        "name": "Sweet Flick",
-        "url": "https://open.spotify.com/album/09y7RxFJU2Mv5L4iZKgUVo"
-      },
-      "artists": [
-        {
-          "name": "Mocaris",
-          "url": "https://open.spotify.com/artist/5DpA6iFia7WBNhmj2M7q2j"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Sweet Flick",
-      "url": "https://open.spotify.com/track/5n5oMheJepImS9whrKTbaD"
-    },
-    {
-      "added_at": "2026-11-05 23:00:07",
-      "album": {
-        "name": "L'originelle",
-        "url": "https://open.spotify.com/album/4ySOy0dWzGLDswAgWD2YDa"
-      },
-      "artists": [
-        {
-          "name": "Fallon",
-          "url": "https://open.spotify.com/artist/4KnnkSpgIiaRMmXO8qq18I"
-        }
-      ],
-      "duration_ms": 161777,
-      "name": "L'originelle",
-      "url": "https://open.spotify.com/track/6K9e2aDYfU4jKA9oKhuNWD"
-    },
-    {
-      "added_at": "2026-11-05 23:00:07",
+      "added_at": "2026-11-12 23:00:30",
       "album": {
         "name": "POSITION",
         "url": "https://open.spotify.com/album/6zSfpaNnuyRnKwiXXo3IsD"
@@ -437,55 +353,59 @@
       "url": "https://open.spotify.com/track/03PUBNIQ75G1EoQVWyn2i2"
     },
     {
-      "added_at": "2026-11-05 23:00:07",
+      "added_at": "2026-11-12 23:00:30",
       "album": {
-        "name": "location",
-        "url": "https://open.spotify.com/album/0Kq1CqgBfILlRlxT3Xq8k6"
+        "name": "Don\u2018t tell me",
+        "url": "https://open.spotify.com/album/5bmlgb60OzvS8NMGsZfmkn"
       },
       "artists": [
         {
-          "name": "aupinard",
-          "url": "https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne"
+          "name": "7iaa",
+          "url": "https://open.spotify.com/artist/753CpLj7OaZZbx5qLWHFpl"
         }
       ],
-      "duration_ms": 159000,
-      "name": "location",
-      "url": "https://open.spotify.com/track/0PDTp5dVHePKWrJ4b532tg"
+      "duration_ms": 170769,
+      "name": "Don\u2018t tell me",
+      "url": "https://open.spotify.com/track/0bnCNxHiSRqwwLrC5ZRBnU"
     },
     {
-      "added_at": "2026-11-05 23:00:07",
+      "added_at": "2026-11-12 23:00:30",
       "album": {
-        "name": "Yumi - Music Monday",
-        "url": "https://open.spotify.com/album/0dUqku7bCPbLMovYBFj6k4"
+        "name": "Frapper \u00e7a (super pack)",
+        "url": "https://open.spotify.com/album/59lBRSji3ki04liyr8BgmR"
       },
       "artists": [
         {
-          "name": "Ocevne",
-          "url": "https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL"
+          "name": "Chrystel",
+          "url": "https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0"
         }
       ],
-      "duration_ms": 160226,
-      "name": "Yumi",
-      "url": "https://open.spotify.com/track/1ModDRltX1IIxurk9eVLX8"
+      "duration_ms": 142624,
+      "name": "Frapper \u00e7a",
+      "url": "https://open.spotify.com/track/0AUd7rg4SqlXDY6UsTDmTg"
     },
     {
-      "added_at": "2026-11-05 23:00:07",
+      "added_at": "2026-11-12 23:00:30",
       "album": {
-        "name": "A part moi",
-        "url": "https://open.spotify.com/album/0bMhxzmk8XyVmvNXbaluVZ"
+        "name": "SENTIMENTS",
+        "url": "https://open.spotify.com/album/0UFDin9BI5vzBOBUYoY4N1"
       },
       "artists": [
         {
-          "name": "Nosky",
-          "url": "https://open.spotify.com/artist/7qSkBZvkKMY7KodsIz7HQN"
+          "name": "Still Fresh",
+          "url": "https://open.spotify.com/artist/3AGggQTwJaSofLcpDlYhV4"
+        },
+        {
+          "name": "Kany",
+          "url": "https://open.spotify.com/artist/0bD7mEP1eG7KRK84O1SjkF"
         }
       ],
-      "duration_ms": 194754,
-      "name": "A part moi",
-      "url": "https://open.spotify.com/track/2msb4c0zY5HgAwgJdszksh"
+      "duration_ms": 139428,
+      "name": "SENTIMENTS",
+      "url": "https://open.spotify.com/track/69c047hFRsd6uFND548cfD"
     },
     {
-      "added_at": "2026-11-05 23:00:07",
+      "added_at": "2026-11-12 23:00:30",
       "album": {
         "name": "BOBO (feat. Maud Elka)",
         "url": "https://open.spotify.com/album/2iEZOJ87JrwsP7HOmcv8Qy"
@@ -505,7 +425,23 @@
       "url": "https://open.spotify.com/track/6Jy3euwzBYBWtN0lZwYCie"
     },
     {
-      "added_at": "2026-11-05 23:00:07",
+      "added_at": "2026-11-12 23:00:30",
+      "album": {
+        "name": "L'originelle",
+        "url": "https://open.spotify.com/album/4ySOy0dWzGLDswAgWD2YDa"
+      },
+      "artists": [
+        {
+          "name": "Fallon",
+          "url": "https://open.spotify.com/artist/4KnnkSpgIiaRMmXO8qq18I"
+        }
+      ],
+      "duration_ms": 161777,
+      "name": "L'originelle",
+      "url": "https://open.spotify.com/track/6K9e2aDYfU4jKA9oKhuNWD"
+    },
+    {
+      "added_at": "2026-11-12 23:00:30",
       "album": {
         "name": "Comme moi",
         "url": "https://open.spotify.com/album/2rG8qp61aIMs4bIi8pBHLX"
@@ -521,79 +457,7 @@
       "url": "https://open.spotify.com/track/10Vh88qJ1gwjjWUdGb8kZm"
     },
     {
-      "added_at": "2026-11-05 23:00:07",
-      "album": {
-        "name": "S.M.L",
-        "url": "https://open.spotify.com/album/5uuU4OMYKuAwWqMZIK1vgx"
-      },
-      "artists": [
-        {
-          "name": "Gol.d",
-          "url": "https://open.spotify.com/artist/1iq9ebpFaCHQ4FbAQWnTtV"
-        }
-      ],
-      "duration_ms": 162173,
-      "name": "S.M.L",
-      "url": "https://open.spotify.com/track/0HWA7rwu3ZUZvA85PDkaMu"
-    },
-    {
-      "added_at": "2026-11-05 23:00:07",
-      "album": {
-        "name": "Slowly",
-        "url": "https://open.spotify.com/album/0PfWw5LC4EA0LtkRzSlzJH"
-      },
-      "artists": [
-        {
-          "name": "Vicky R",
-          "url": "https://open.spotify.com/artist/468tlC6QAKEJ4u0jndX9o0"
-        },
-        {
-          "name": "Singuila",
-          "url": "https://open.spotify.com/artist/7uN1aqKCrD6Ju1sn74MPgf"
-        }
-      ],
-      "duration_ms": 164217,
-      "name": "Slowly",
-      "url": "https://open.spotify.com/track/7gecqbq9bEbmrGWSUg7G7f"
-    },
-    {
-      "added_at": "2026-11-05 23:00:07",
-      "album": {
-        "name": "SWITCH PART. 1",
-        "url": "https://open.spotify.com/album/6P9PuFIGuJSmMkc8pDlpKp"
-      },
-      "artists": [
-        {
-          "name": "Still Fresh",
-          "url": "https://open.spotify.com/artist/3AGggQTwJaSofLcpDlYhV4"
-        },
-        {
-          "name": "Prototype",
-          "url": "https://open.spotify.com/artist/3igykO7sW43wfhSjvnETTo"
-        }
-      ],
-      "duration_ms": 179473,
-      "name": "NONCHALANT (feat. Prototype)",
-      "url": "https://open.spotify.com/track/1MqN5070Dp3gXgKFLpL9gs"
-    },
-    {
-      "added_at": "2026-11-05 23:00:07",
-      "album": {
-        "name": "SEXY DINO",
-        "url": "https://open.spotify.com/album/3frexKb8x3HgamacKlIz3D"
-      },
-      "artists": [
-        {
-          "name": "Teyma",
-          "url": "https://open.spotify.com/artist/3eGGoF2Ci63jAPBFfpMG9h"
-        }
-      ],
-      "duration_ms": 176252,
-      "name": "SEXY DINO",
-      "url": "https://open.spotify.com/track/3mDTu0kKfjj72JqboYClnn"
-    },
-    {
-      "added_at": "2026-11-05 23:00:07",
+      "added_at": "2026-11-12 23:00:30",
       "album": {
         "name": "\u00c9toiles",
         "url": "https://open.spotify.com/album/2mIiMcC5Cn3bDtxr8bxfYg"
@@ -617,7 +481,7 @@
       "url": "https://open.spotify.com/track/2JDKxt8JhqqJEpcDSMAjeB"
     },
     {
-      "added_at": "2026-11-05 23:00:07",
+      "added_at": "2026-11-12 23:00:30",
       "album": {
         "name": "Alov",
         "url": "https://open.spotify.com/album/5e95lZXVU60ySREfcEUd6s"
@@ -633,23 +497,43 @@
       "url": "https://open.spotify.com/track/2IcYyyyn0RbB36N5Pglgmd"
     },
     {
-      "added_at": "2026-11-05 23:00:07",
+      "added_at": "2026-11-12 23:00:30",
       "album": {
-        "name": "Dawn 6:27",
-        "url": "https://open.spotify.com/album/1TqLEmYoztR2eGz8rOELqo"
+        "name": "SWITCH PART. 1",
+        "url": "https://open.spotify.com/album/6P9PuFIGuJSmMkc8pDlpKp"
       },
       "artists": [
         {
-          "name": "Jeremy Lior",
-          "url": "https://open.spotify.com/artist/2BOJKJosuhWbm24je66xOm"
+          "name": "Still Fresh",
+          "url": "https://open.spotify.com/artist/3AGggQTwJaSofLcpDlYhV4"
+        },
+        {
+          "name": "Prototype",
+          "url": "https://open.spotify.com/artist/3igykO7sW43wfhSjvnETTo"
         }
       ],
-      "duration_ms": 223768,
-      "name": "Ma Woman",
-      "url": "https://open.spotify.com/track/6kSTCyfjOUaLddThVzJGli"
+      "duration_ms": 179473,
+      "name": "NONCHALANT (feat. Prototype)",
+      "url": "https://open.spotify.com/track/1MqN5070Dp3gXgKFLpL9gs"
     },
     {
-      "added_at": "2026-11-05 23:00:07",
+      "added_at": "2026-11-12 23:00:30",
+      "album": {
+        "name": "Yumi - Music Monday",
+        "url": "https://open.spotify.com/album/0dUqku7bCPbLMovYBFj6k4"
+      },
+      "artists": [
+        {
+          "name": "Ocevne",
+          "url": "https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL"
+        }
+      ],
+      "duration_ms": 160226,
+      "name": "Yumi",
+      "url": "https://open.spotify.com/track/1ModDRltX1IIxurk9eVLX8"
+    },
+    {
+      "added_at": "2026-11-12 23:00:30",
       "album": {
         "name": "KISS ME",
         "url": "https://open.spotify.com/album/45asXR0NIeCRKnJdt5CBVh"
@@ -669,27 +553,143 @@
       "url": "https://open.spotify.com/track/1bcaEVdwPEu8EoliRy8hOa"
     },
     {
-      "added_at": "2026-11-05 23:00:07",
+      "added_at": "2026-11-12 23:00:30",
       "album": {
-        "name": "SENTIMENTS",
-        "url": "https://open.spotify.com/album/0UFDin9BI5vzBOBUYoY4N1"
+        "name": "SEXY DINO",
+        "url": "https://open.spotify.com/album/3frexKb8x3HgamacKlIz3D"
       },
       "artists": [
         {
-          "name": "Still Fresh",
-          "url": "https://open.spotify.com/artist/3AGggQTwJaSofLcpDlYhV4"
-        },
-        {
-          "name": "Kany",
-          "url": "https://open.spotify.com/artist/0bD7mEP1eG7KRK84O1SjkF"
+          "name": "Teyma",
+          "url": "https://open.spotify.com/artist/3eGGoF2Ci63jAPBFfpMG9h"
         }
       ],
-      "duration_ms": 139428,
-      "name": "SENTIMENTS",
-      "url": "https://open.spotify.com/track/69c047hFRsd6uFND548cfD"
+      "duration_ms": 176252,
+      "name": "SEXY DINO",
+      "url": "https://open.spotify.com/track/3mDTu0kKfjj72JqboYClnn"
     },
     {
-      "added_at": "2026-11-05 23:00:07",
+      "added_at": "2026-11-12 23:00:30",
+      "album": {
+        "name": "ZMIG EXPANSION",
+        "url": "https://open.spotify.com/album/1OABNen912ksJNgNqEPpVP"
+      },
+      "artists": [
+        {
+          "name": "Danyl",
+          "url": "https://open.spotify.com/artist/5Hq9W3lm1N9KRCf35RBMab"
+        },
+        {
+          "name": "aupinard",
+          "url": "https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne"
+        }
+      ],
+      "duration_ms": 157168,
+      "name": "NAVR\u00c9",
+      "url": "https://open.spotify.com/track/2E0HZe6I8XPmGDzNCBHSuz"
+    },
+    {
+      "added_at": "2026-11-12 23:00:30",
+      "album": {
+        "name": "Slowly",
+        "url": "https://open.spotify.com/album/0PfWw5LC4EA0LtkRzSlzJH"
+      },
+      "artists": [
+        {
+          "name": "Vicky R",
+          "url": "https://open.spotify.com/artist/468tlC6QAKEJ4u0jndX9o0"
+        },
+        {
+          "name": "Singuila",
+          "url": "https://open.spotify.com/artist/7uN1aqKCrD6Ju1sn74MPgf"
+        }
+      ],
+      "duration_ms": 164217,
+      "name": "Slowly",
+      "url": "https://open.spotify.com/track/7gecqbq9bEbmrGWSUg7G7f"
+    },
+    {
+      "added_at": "2026-11-12 23:00:30",
+      "album": {
+        "name": "S.M.L",
+        "url": "https://open.spotify.com/album/5uuU4OMYKuAwWqMZIK1vgx"
+      },
+      "artists": [
+        {
+          "name": "Gol.d",
+          "url": "https://open.spotify.com/artist/1iq9ebpFaCHQ4FbAQWnTtV"
+        }
+      ],
+      "duration_ms": 162173,
+      "name": "S.M.L",
+      "url": "https://open.spotify.com/track/0HWA7rwu3ZUZvA85PDkaMu"
+    },
+    {
+      "added_at": "2026-11-12 23:00:30",
+      "album": {
+        "name": "Sweet Flick",
+        "url": "https://open.spotify.com/album/09y7RxFJU2Mv5L4iZKgUVo"
+      },
+      "artists": [
+        {
+          "name": "Mocaris",
+          "url": "https://open.spotify.com/artist/5DpA6iFia7WBNhmj2M7q2j"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Sweet Flick",
+      "url": "https://open.spotify.com/track/5n5oMheJepImS9whrKTbaD"
+    },
+    {
+      "added_at": "2026-11-12 23:00:30",
+      "album": {
+        "name": "A part moi",
+        "url": "https://open.spotify.com/album/0bMhxzmk8XyVmvNXbaluVZ"
+      },
+      "artists": [
+        {
+          "name": "Nosky",
+          "url": "https://open.spotify.com/artist/7qSkBZvkKMY7KodsIz7HQN"
+        }
+      ],
+      "duration_ms": 194754,
+      "name": "A part moi",
+      "url": "https://open.spotify.com/track/2msb4c0zY5HgAwgJdszksh"
+    },
+    {
+      "added_at": "2026-11-12 23:00:30",
+      "album": {
+        "name": "La guerre",
+        "url": "https://open.spotify.com/album/0m34805p0crcjHeLE8pbmq"
+      },
+      "artists": [
+        {
+          "name": "Iliana",
+          "url": "https://open.spotify.com/artist/7kjWIGGBS3AigeN2Ppkr83"
+        }
+      ],
+      "duration_ms": 192958,
+      "name": "La guerre",
+      "url": "https://open.spotify.com/track/3PEwWCwgsc3qnYcDgNOuq0"
+    },
+    {
+      "added_at": "2026-11-12 23:00:30",
+      "album": {
+        "name": "Dawn 6:27",
+        "url": "https://open.spotify.com/album/1TqLEmYoztR2eGz8rOELqo"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Lior",
+          "url": "https://open.spotify.com/artist/2BOJKJosuhWbm24je66xOm"
+        }
+      ],
+      "duration_ms": 223768,
+      "name": "Ma Woman",
+      "url": "https://open.spotify.com/track/6kSTCyfjOUaLddThVzJGli"
+    },
+    {
+      "added_at": "2026-11-12 23:00:30",
       "album": {
         "name": "M\u00c9LODIE VANILLE",
         "url": "https://open.spotify.com/album/41btD4mY2XUHjhlkuSJYiP"

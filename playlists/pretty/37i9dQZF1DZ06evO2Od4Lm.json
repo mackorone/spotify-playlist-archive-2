@@ -1,12 +1,12 @@
 {
   "description": "This is Sufjan Stevens. The essential tracks, all in one playlist.",
-  "num_followers": 135171,
+  "num_followers": 135186,
   "original_name": "This Is Sufjan Stevens",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avENAAAAAAAcUORAvp29xigDSJEVeGMb",
+  "snapshot_id": "avOwAAAAAAAKd5aZKL7e0gy37wSyaWeb",
   "tracks": [
     {
       "added_at": null,
@@ -679,8 +679,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seven Swans",
-        "url": "https://open.spotify.com/album/1WZ9u1VDIih007LAC6VfpA"
+        "name": "Carrie & Lowell (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/0n7HLjx45Y2LD4WyHGDMf3"
       },
       "artists": [
         {
@@ -688,9 +688,9 @@
           "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
         }
       ],
-      "duration_ms": 184866,
-      "name": "Size Too Small",
-      "url": "https://open.spotify.com/track/2Z3WGXNF3OqaJ3XaAaP10a"
+      "duration_ms": 400661,
+      "name": "Wallowa Lake Monster - Version 2",
+      "url": "https://open.spotify.com/track/7JxVuQdS0aFUIMrja2KzyS"
     },
     {
       "added_at": null,
@@ -711,8 +711,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Carrie & Lowell (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/0n7HLjx45Y2LD4WyHGDMf3"
+        "name": "Seven Swans",
+        "url": "https://open.spotify.com/album/1WZ9u1VDIih007LAC6VfpA"
       },
       "artists": [
         {
@@ -720,9 +720,9 @@
           "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
         }
       ],
-      "duration_ms": 400661,
-      "name": "Wallowa Lake Monster - Version 2",
-      "url": "https://open.spotify.com/track/7JxVuQdS0aFUIMrja2KzyS"
+      "duration_ms": 184866,
+      "name": "Size Too Small",
+      "url": "https://open.spotify.com/track/2Z3WGXNF3OqaJ3XaAaP10a"
     },
     {
       "added_at": null,

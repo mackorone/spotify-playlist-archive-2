@@ -1,6 +1,6 @@
 {
   "description": "Vers\u00f5es desplugadas para curtir um reggae com os p\u00e9s na areia!",
-  "num_followers": 155516,
+  "num_followers": 155528,
   "original_name": "Luau Jah",
   "owner": {
     "name": "Spotify",
@@ -348,9 +348,25 @@
           "url": "https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ"
         }
       ],
-      "duration_ms": 230840,
-      "name": "A Sombra da Maldade (Ac\u00fastico)",
-      "url": "https://open.spotify.com/track/6oGsJnSlJdGQ6Rir5YHS8c"
+      "duration_ms": 222066,
+      "name": "Firmamento (Wrong Girl to Play With) [Ac\u00fastico]",
+      "url": "https://open.spotify.com/track/5ML1D7QsoupxcvUJgf7eD1"
+    },
+    {
+      "added_at": "2026-07-02 21:47:25",
+      "album": {
+        "name": "Ac\u00fastico Planta e Raiz 2022, Pt. 1",
+        "url": "https://open.spotify.com/album/4ZJQfw6hoCE1t2YcTijqTU"
+      },
+      "artists": [
+        {
+          "name": "Planta E Raiz",
+          "url": "https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO"
+        }
+      ],
+      "duration_ms": 187093,
+      "name": "Filme de Romance",
+      "url": "https://open.spotify.com/track/4iTahl8TU9hjSaGGVAsdTd"
     },
     {
       "added_at": "2026-07-02 21:47:25",
@@ -371,22 +387,6 @@
       "duration_ms": 182784,
       "name": "Sess\u00e3o Da Tarde",
       "url": "https://open.spotify.com/track/0Arp4flInFKFmRrVCOfw4w"
-    },
-    {
-      "added_at": "2026-07-02 21:47:25",
-      "album": {
-        "name": "Ac\u00fastico Planta e Raiz 2022, Pt. 1",
-        "url": "https://open.spotify.com/album/4ZJQfw6hoCE1t2YcTijqTU"
-      },
-      "artists": [
-        {
-          "name": "Planta E Raiz",
-          "url": "https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO"
-        }
-      ],
-      "duration_ms": 187093,
-      "name": "Filme de Romance",
-      "url": "https://open.spotify.com/track/4iTahl8TU9hjSaGGVAsdTd"
     },
     {
       "added_at": "2026-07-02 21:47:25",
@@ -432,9 +432,9 @@
           "url": "https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ"
         }
       ],
-      "duration_ms": 222066,
-      "name": "Firmamento (Wrong Girl to Play With) [Ac\u00fastico]",
-      "url": "https://open.spotify.com/track/5ML1D7QsoupxcvUJgf7eD1"
+      "duration_ms": 230840,
+      "name": "A Sombra da Maldade (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/6oGsJnSlJdGQ6Rir5YHS8c"
     },
     {
       "added_at": "2026-07-02 21:47:25",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Axm04pkvqs.md) - [plain]
 
 > When my mouth has no words, let my spirit sing
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,055 likes - 80 songs - 12 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,108 likes - 80 songs - 12 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Axm04pkvqs.md) - [plain]
 | 61 | [Eze Mmuo](https://open.spotify.com/track/4Ja1oWQdJqXZ35ZZ1GAdua) | [Mr M & Revelation](https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa) | [Eze Mmuo](https://open.spotify.com/album/6HYR6TCB7BypDFHryf87Kn) | 5:33 |
 | 62 | [Holyghost](https://open.spotify.com/track/5DK8nQppYFosgt9BspPeT6) | [Abbey Ojomu](https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM) | [Holyghost](https://open.spotify.com/album/0auDRLR3Nv8Mv3E953UYZQ) | 5:42 |
 | 63 | [More Than Life \(Spontaneous Worship\)](https://open.spotify.com/track/0gOyPsGz6A7l9zH32sLZ6Y) | [Tomi Favored](https://open.spotify.com/artist/3ioczYyxauJe6sFCd300bZ), [Godswill Oyor](https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS) | [More Than Life \(Spontaneous Worship\)](https://open.spotify.com/album/1Q4iipFbVctBPodLdXKR2a) | 6:44 |
-| 64 | [Worship Chants \-Apostle Micheal Orokpo \(Ale Ah Ah Eh\)](https://open.spotify.com/track/5RpLdELXXOHsXHAp4ayLQ9) | [Sheba osher](https://open.spotify.com/artist/3KOz7JYrKqwlbXZeC7Rt92) | [Worship Chants \-Apostle Micheal Orokpo \(Ale Ah Ah Eh\)](https://open.spotify.com/album/7f8gkasOlAoMu8dU8jZtZO) | 3:21 |
-| 65 | [In His Presence](https://open.spotify.com/track/1K5rXNAbWyOhDpNXFK9Hd1) | [Faith Captain](https://open.spotify.com/artist/3w0OMqAlsf7zRV2GprZvJK) | [The Zamar Experience](https://open.spotify.com/album/4leEZEGBNamPXVBRUqDUQa) | 16:14 |
+| 64 | [In His Presence](https://open.spotify.com/track/1K5rXNAbWyOhDpNXFK9Hd1) | [Faith Captain](https://open.spotify.com/artist/3w0OMqAlsf7zRV2GprZvJK) | [The Zamar Experience](https://open.spotify.com/album/4leEZEGBNamPXVBRUqDUQa) | 16:14 |
+| 65 | [Worship Chants \-Apostle Micheal Orokpo \(Ale Ah Ah Eh\)](https://open.spotify.com/track/5RpLdELXXOHsXHAp4ayLQ9) | [Sheba osher](https://open.spotify.com/artist/3KOz7JYrKqwlbXZeC7Rt92) | [Worship Chants \-Apostle Micheal Orokpo \(Ale Ah Ah Eh\)](https://open.spotify.com/album/7f8gkasOlAoMu8dU8jZtZO) | 3:21 |
 | 66 | [Awake](https://open.spotify.com/track/70GaF6ifYZpt4i2IQNfw2y) | [Ty Bello](https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J), [Nosa](https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4), [121 Selah](https://open.spotify.com/artist/0FjCYT4l6k77uJhK7arnh5) | [We Are Fire](https://open.spotify.com/album/1MBjBNMOTSu2ikfJlt3SIY) | 6:20 |
 | 67 | [Song of Angels](https://open.spotify.com/track/3JMh7EqWmxzguJaSCqQuwc) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [Kingdom Now](https://open.spotify.com/album/2M2BBowaeYPd211IYmKNqn) | 12:11 |
 | 68 | [Prayer Chants](https://open.spotify.com/track/2BOekYaGyejzLMcUvmCamp) | [Rejoice Obasa](https://open.spotify.com/artist/1Ec5jxDetxeq20lsNsYbag), [Oluwajenyo](https://open.spotify.com/artist/5VMLcHJIvePoeIJlsCdPtC) | [Prayer Chants](https://open.spotify.com/album/3NLddvrViSywkOl6QxIxqY) | 3:13 |
@@ -80,13 +80,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Axm04pkvqs.md) - [plain]
 | 70 | [Aye Ole](https://open.spotify.com/track/6XJ4mWDH46We0Mgr1cuHK1) | [Ucious Music](https://open.spotify.com/artist/04SC030qxHLFoyyug9Pawa), [Abbey Ojomu](https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM) | [Aye Ole](https://open.spotify.com/album/2U0IrWZICHozN3wdBzaPqy) | 23:00 |
 | 71 | [Kabiyesi](https://open.spotify.com/track/2qQz5I3VxBWjXDHNqMg6UB) | [Ty Bello](https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J), [Abbey Ojomu](https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM) | [HEAVEN HAS COME](https://open.spotify.com/album/6NxdOsigezOUD537lSYTDz) | 6:18 |
 | 72 | [Song of Angels \(Live\)](https://open.spotify.com/track/0RqyWkOhcoFzO9qFw7JIx9) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [Song of Angels \(Live\)](https://open.spotify.com/album/3ldSID9hjAlvxkXE0KnPd8) | 12:17 |
-| 73 | [Elohim Adonai \(Live\)](https://open.spotify.com/track/73k2BArdQNxNF899zbTMEX) | [Patience Adjei](https://open.spotify.com/artist/6620mC2YUJtGYmx4rmk373) | [Deep Wells](https://open.spotify.com/album/1xO9FgOlSAHPcIAQ9H8G4z) | 3:21 |
-| 74 | [In This Place \- Live At Carnival City, 2024](https://open.spotify.com/track/7iADbXsEzDnryIZ4p6CtON) | [Xolly Mncwango](https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4) | [In This Place/Liyabasebenzela \(Live At Carnival City, 2024\)](https://open.spotify.com/album/7xA0yLisbbeUWFklpr0GmD) | 6:33 |
+| 73 | [In This Place \- Live At Carnival City, 2024](https://open.spotify.com/track/7iADbXsEzDnryIZ4p6CtON) | [Xolly Mncwango](https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4) | [In This Place/Liyabasebenzela \(Live At Carnival City, 2024\)](https://open.spotify.com/album/7xA0yLisbbeUWFklpr0GmD) | 6:33 |
+| 74 | [Elohim Adonai \(Live\)](https://open.spotify.com/track/73k2BArdQNxNF899zbTMEX) | [Patience Adjei](https://open.spotify.com/artist/6620mC2YUJtGYmx4rmk373) | [Deep Wells](https://open.spotify.com/album/1xO9FgOlSAHPcIAQ9H8G4z) | 3:21 |
 | 75 | [The King Is Here](https://open.spotify.com/track/7LZmlyEeqZMjHVRhV5RGt0) | [Embassy Worship](https://open.spotify.com/artist/4cBoYKMseEZPCZhYGtl6d4), [Psalmist Raine](https://open.spotify.com/artist/3uwJ062m79j5I0qr6U4NWY) | [Possess the Land](https://open.spotify.com/album/7qvk6ymjfvruRmR40VoXih) | 8:45 |
-| 76 | [FIRE](https://open.spotify.com/track/3XPHWXa3fHoQCQroxEyBIZ) | [Sandra Boakye\-Duah](https://open.spotify.com/artist/7y1otdxrmiZ3GVTcxkwZGI) | [FIRE](https://open.spotify.com/album/29O9vFnuqUQEw5X27RuUp4) | 9:13 |
+| 76 | [Seek Him](https://open.spotify.com/track/6L3m7ovo5F0KkOSqHEBAN0) | [Oluwajenyo](https://open.spotify.com/artist/5VMLcHJIvePoeIJlsCdPtC) | [Seek Him](https://open.spotify.com/album/2jIscfhK2LVuzQA63TJJC6) | 4:39 |
 | 77 | [Benediction](https://open.spotify.com/track/2aS9WnLarRPsTSyzpzlGNU) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [The Birth of Revival](https://open.spotify.com/album/2Cglyux6VJ6U1fcLaDGtHH) | 13:29 |
-| 78 | [Seek Him](https://open.spotify.com/track/6L3m7ovo5F0KkOSqHEBAN0) | [Oluwajenyo](https://open.spotify.com/artist/5VMLcHJIvePoeIJlsCdPtC) | [Seek Him](https://open.spotify.com/album/2jIscfhK2LVuzQA63TJJC6) | 4:39 |
+| 78 | [FIRE](https://open.spotify.com/track/3XPHWXa3fHoQCQroxEyBIZ) | [Sandra Boakye\-Duah](https://open.spotify.com/artist/7y1otdxrmiZ3GVTcxkwZGI) | [FIRE](https://open.spotify.com/album/29O9vFnuqUQEw5X27RuUp4) | 9:13 |
 | 79 | [Igbo Worship Medley \- Live](https://open.spotify.com/track/6nBROUuH2rBpWonW2VTQ8G) | [Israel Dammy](https://open.spotify.com/artist/0SQOumbt8n4qp5YkfG491a) | [Igbo Worship Medley \(Live\)](https://open.spotify.com/album/1PS09Vap6LJdZ6eAFPxGrs) | 7:54 |
 | 80 | [Midnight Cry, Vol\. 5 \(Time\-Out Of Fellowship\)](https://open.spotify.com/track/7ikJDPDH1IDfxC3uroUw6k) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Midnight Cry, Vol\. 5 \(Time\-Out Of Fellowship\)](https://open.spotify.com/album/13PR6EewIISf4zGx9nuf48) | 47:10 |
 
-Snapshot ID: `AAAAANSIIbxy+yGknaqnvqmuRLys7H/z`
+Snapshot ID: `AAAAAOmhTXLjqCkQmOsodE0Xa//DpdPZ`

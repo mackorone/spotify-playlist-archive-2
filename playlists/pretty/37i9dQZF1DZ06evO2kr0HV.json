@@ -1,12 +1,12 @@
 {
   "description": "This is Esteman. The essential tracks, all in one playlist.",
-  "num_followers": 42726,
+  "num_followers": 42736,
   "original_name": "This Is Esteman",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avENAAAAAAAIcr22KPWeiEHSnxFoJsMw",
+  "snapshot_id": "avOwAAAAAAArRMDgLv/xT3rEBMUiaigm",
   "tracks": [
     {
       "added_at": null,
@@ -115,22 +115,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Secretos",
-        "url": "https://open.spotify.com/album/2anoc6bJ4VPsGZQxrWZTOD"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 187746,
-      "name": "Reina Leona",
-      "url": "https://open.spotify.com/track/4fcZ0HZdaloV9ZSU3xPPD5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amor Libre",
         "url": "https://open.spotify.com/album/3ZNcUIksSrVfc5Ow7f4J6F"
       },
@@ -143,6 +127,22 @@
       "duration_ms": 201000,
       "name": "Noche Sensorial",
       "url": "https://open.spotify.com/track/3GezDPu1wDhp31VMqgGwox"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Secretos",
+        "url": "https://open.spotify.com/album/2anoc6bJ4VPsGZQxrWZTOD"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 187746,
+      "name": "Reina Leona",
+      "url": "https://open.spotify.com/track/4fcZ0HZdaloV9ZSU3xPPD5"
     },
     {
       "added_at": null,
@@ -207,22 +207,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ca\u00f3tica Belleza",
-        "url": "https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS"
+        "name": "DARA",
+        "url": "https://open.spotify.com/album/5VGyOaFFu2uXZJybipzjft"
       },
       "artists": [
         {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
         },
         {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
         }
       ],
-      "duration_ms": 237880,
-      "name": "Ca\u00f3tica Belleza",
-      "url": "https://open.spotify.com/track/2mb51571ds4q4XcOP23rF1"
+      "duration_ms": 171920,
+      "name": "Besos y Pendientes",
+      "url": "https://open.spotify.com/track/2Gdy6E2u62bWSyGyTh4qxg"
     },
     {
       "added_at": null,
@@ -247,22 +247,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "DARA",
-        "url": "https://open.spotify.com/album/5VGyOaFFu2uXZJybipzjft"
+        "name": "Ca\u00f3tica Belleza",
+        "url": "https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS"
       },
       "artists": [
         {
-          "name": "Daniela Spalla",
-          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
-        },
-        {
           "name": "Esteman",
           "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
         }
       ],
-      "duration_ms": 171920,
-      "name": "Besos y Pendientes",
-      "url": "https://open.spotify.com/track/2Gdy6E2u62bWSyGyTh4qxg"
+      "duration_ms": 237880,
+      "name": "Ca\u00f3tica Belleza",
+      "url": "https://open.spotify.com/track/2mb51571ds4q4XcOP23rF1"
     },
     {
       "added_at": null,
@@ -287,22 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ca\u00f3tica Belleza",
-        "url": "https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 222573,
-      "name": "Baila",
-      "url": "https://open.spotify.com/track/0kIPoNlimbRPn16NfQ7ggt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amor\u00edo",
         "url": "https://open.spotify.com/album/0OZ2DcvZOEnSufkLxvXumm"
       },
@@ -323,6 +307,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ca\u00f3tica Belleza",
+        "url": "https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 222573,
+      "name": "Baila",
+      "url": "https://open.spotify.com/track/0kIPoNlimbRPn16NfQ7ggt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Si Volviera A Nacer",
         "url": "https://open.spotify.com/album/0rc8MShj37cLImmPbUt8Pq"
       },
@@ -339,22 +339,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ruzzicovers",
-        "url": "https://open.spotify.com/album/6lPwJVOofbiHP27GRbyOay"
+        "name": "Piensa en m\u00ed",
+        "url": "https://open.spotify.com/album/5rMtRy2rK07v1CSthUb8ev"
       },
       "artists": [
         {
-          "name": "Ruzzi",
-          "url": "https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY"
-        },
-        {
           "name": "Esteman",
           "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
         }
       ],
-      "duration_ms": 187666,
-      "name": "Bailando",
-      "url": "https://open.spotify.com/track/3h5c3ZEwvruxM1tBemCggZ"
+      "duration_ms": 173102,
+      "name": "Piensa en m\u00ed",
+      "url": "https://open.spotify.com/track/1XwNYoMOeD7399kxslic0Q"
     },
     {
       "added_at": null,
@@ -411,6 +411,26 @@
       "duration_ms": 224333,
       "name": "Si Volviera A Nacer",
       "url": "https://open.spotify.com/track/6K7J8BsFt49NA2Hx35RI4v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ruzzicovers",
+        "url": "https://open.spotify.com/album/6lPwJVOofbiHP27GRbyOay"
+      },
+      "artists": [
+        {
+          "name": "Ruzzi",
+          "url": "https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY"
+        },
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 187666,
+      "name": "Bailando",
+      "url": "https://open.spotify.com/track/3h5c3ZEwvruxM1tBemCggZ"
     },
     {
       "added_at": null,
@@ -475,6 +495,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Amor Libre",
+        "url": "https://open.spotify.com/album/3ZNcUIksSrVfc5Ow7f4J6F"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 191680,
+      "name": "Amor Libre",
+      "url": "https://open.spotify.com/track/52xzRsYHAGrKYuWte06LuM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Si Volviera A Nacer",
         "url": "https://open.spotify.com/album/0rc8MShj37cLImmPbUt8Pq"
       },
@@ -491,26 +527,6 @@
       "duration_ms": 221760,
       "name": "Juan Y Paul",
       "url": "https://open.spotify.com/track/1FUKWcdbjLj872lLhgdVeu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Piensa en m\u00ed",
-        "url": "https://open.spotify.com/album/5rMtRy2rK07v1CSthUb8ev"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        },
-        {
-          "name": "Daniela Spalla",
-          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
-        }
-      ],
-      "duration_ms": 173102,
-      "name": "Piensa en m\u00ed",
-      "url": "https://open.spotify.com/track/1XwNYoMOeD7399kxslic0Q"
     },
     {
       "added_at": null,
@@ -535,22 +551,6 @@
       "duration_ms": 215200,
       "name": "Esa Parte de M\u00ed",
       "url": "https://open.spotify.com/track/5zE2XYc6zON8lIYgDi6ZvP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Amor Libre",
-        "url": "https://open.spotify.com/album/3ZNcUIksSrVfc5Ow7f4J6F"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 191680,
-      "name": "Amor Libre",
-      "url": "https://open.spotify.com/track/52xzRsYHAGrKYuWte06LuM"
     },
     {
       "added_at": null,
@@ -639,26 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ca\u00f3tica Belleza",
-        "url": "https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        },
-        {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
-        }
-      ],
-      "duration_ms": 268280,
-      "name": "Adelante",
-      "url": "https://open.spotify.com/track/1FgYBRmeJF5x1H1bBVTVKt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Se Ha Acabado El Show",
         "url": "https://open.spotify.com/album/47J0MUBkFuXodl1OEXrUtc"
       },
@@ -675,6 +655,26 @@
       "duration_ms": 176639,
       "name": "Problemas de Conversaci\u00f3n",
       "url": "https://open.spotify.com/track/0pJCbl4k3pOj5Ld0356kny"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ca\u00f3tica Belleza",
+        "url": "https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "duration_ms": 268280,
+      "name": "Adelante",
+      "url": "https://open.spotify.com/track/1FgYBRmeJF5x1H1bBVTVKt"
     },
     {
       "added_at": null,

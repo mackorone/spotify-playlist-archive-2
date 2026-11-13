@@ -4,7 +4,7 @@
 
 > This is Los Traileros Del Norte\. The essential tracks, all in one playlist.
 
-99 songs - 5 hr 3 min
+100 songs - 5 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [La Desmedida](https://open.spotify.com/track/3ilkGDqYW0m2gpDBD09qnE) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Abeja Reina \(Clásicos Digitalizados\)](https://open.spotify.com/album/6BnRsg4J1Y3HQsJlcrwEZi) | 2:33 | 2022-06-01 | 2024-07-04 |
 | [La Entrega](https://open.spotify.com/track/4E2uYqHn60DDtOP16sLMuz) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Arrastrando La Cobija \(Clásicos Digitalizados\)](https://open.spotify.com/album/7oIVq1jmETB2pIjmi1x2EK) | 2:25 | 2022-11-30 |  |
 | [La Francis](https://open.spotify.com/track/4eFGhgj9hRAhkBRMkrPWlt) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Quisiera Ser Una Lágrima](https://open.spotify.com/album/0VY9UhKG9EBpuuvThP8UU7) | 2:51 | 2022-06-01 |  |
+| [La Muerte de Mari Lee](https://open.spotify.com/track/5tg4Qq2tKZO5yZWjKNsAiv) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Las Más Pedidas, Vol\. 1](https://open.spotify.com/album/1mCM2OJg5uXplzjs9cDTGK) | 3:18 | 2026-11-13 |  |
 | [La Paga](https://open.spotify.com/track/062yrpH0fP3Mz5cWyb5DYP) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Palabras Tristes](https://open.spotify.com/album/5AZuEf75Kcau9PQOR88PLo) | 2:52 | 2022-08-26 |  |
 | [La Quiero Con El Alma](https://open.spotify.com/track/5O7gyxlFdbRcupanCMT1bG) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Rosas Blancas](https://open.spotify.com/album/6K3skX1EmX7Dn56MjhnuC8) | 2:33 | 2022-09-30 |  |
 | [La Tabla del Uno \- En Vivo](https://open.spotify.com/track/2ca21NmVvhjRTNJOOpdOYL) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [35 Aniversario: En Vivo Desde el Domo Care](https://open.spotify.com/album/7mmW9hGKCj290Te1XeeFMr) | 3:26 | 2022-06-01 | 2022-12-21 |
@@ -76,7 +77,7 @@
 | [Noble Engaño](https://open.spotify.com/track/0DrotAHjAF5wkVRLrLLiGK) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Arrastrando La Cobija \(Clásicos Digitalizados\)](https://open.spotify.com/album/7oIVq1jmETB2pIjmi1x2EK) | 2:42 | 2023-03-05 | 2024-03-29 |
 | [Palabras Tristes](https://open.spotify.com/track/0mrX7N28wFzFpkkeCGLCix) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Palabras Tristes](https://open.spotify.com/album/5AZuEf75Kcau9PQOR88PLo) | 2:49 | 2022-06-01 |  |
 | [Paloma Negra](https://open.spotify.com/track/6xg5luJD50QQdwNZunIlCa) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Mas Mexicanos Que Nunca](https://open.spotify.com/album/0WmU0vKZo2Cj84Ri0J7L0M) | 3:34 | 2022-06-01 | 2022-10-13 |
-| [Popurrí Homenaje a Carlos Y Jose \- En Vivo](https://open.spotify.com/track/1TMNGa0Z2IrIDVNaclrFpW) | [Intrusso De Nuevo Leon](https://open.spotify.com/artist/68reDs1P0m1VgJvNWIv4OG), [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37), [Los Astros de China](https://open.spotify.com/artist/6E77RT90bxptRYDYWWv5QR) | [En Vivo, Vol\. 2](https://open.spotify.com/album/0eVtdTIvS7aZbtSxdTkVGi) | 5:46 | 2025-09-11 |  |
+| [Popurrí Homenaje a Carlos Y Jose \- En Vivo](https://open.spotify.com/track/1TMNGa0Z2IrIDVNaclrFpW) | [Intrusso De Nuevo Leon](https://open.spotify.com/artist/68reDs1P0m1VgJvNWIv4OG), [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37), [Los Astros de China](https://open.spotify.com/artist/6E77RT90bxptRYDYWWv5QR) | [En Vivo, Vol\. 2](https://open.spotify.com/album/0eVtdTIvS7aZbtSxdTkVGi) | 5:46 | 2025-09-11 | 2026-11-13 |
 | [Popurrí Homenaje a Don Arnulfo López El Trailero Mayor](https://open.spotify.com/track/2FBToM93PBTB4YsuuKAumQ) | [Intrusso De Nuevo Leon](https://open.spotify.com/artist/68reDs1P0m1VgJvNWIv4OG), [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Popurrí Homenaje a Don Arnulfo López El Trailero Mayor](https://open.spotify.com/album/5wi4muCZuKJF7PxCPPeTeB) | 6:44 | 2025-09-11 | 2025-09-24 |
 | [Popurrí Norteño](https://open.spotify.com/track/4k17wS8n011hu8i4uM4xaO) | [Intrusso De Nuevo Leon](https://open.spotify.com/artist/68reDs1P0m1VgJvNWIv4OG), [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Intrusso 100% Norteño](https://open.spotify.com/album/1xEsaUAnhzOvfGwPC8dDJX) | 10:00 | 2025-09-24 |  |
 | [Popurrí Traileros \- En Vivo](https://open.spotify.com/track/71lETTSiTCMyijicJS66tw) | [Intrusso De Nuevo Leon](https://open.spotify.com/artist/68reDs1P0m1VgJvNWIv4OG), [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [En Vivo, Vol\. 2](https://open.spotify.com/album/0eVtdTIvS7aZbtSxdTkVGi) | 4:56 | 2025-07-27 |  |

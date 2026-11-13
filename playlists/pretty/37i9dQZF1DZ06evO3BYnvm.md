@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3BYnvm.md) - [plain]
 
 > This is Lola Young\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,913 likes - 45 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,922 likes - 45 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,15 +43,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3BYnvm.md) - [plain]
 | 33 | [Blind Love](https://open.spotify.com/track/1Tr2J2bbK9lS6tCs9LFoDo) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Intro](https://open.spotify.com/album/7nlnkF135vozYOVdbtEi0z) | 3:48 |
 | 34 | [Same Bed](https://open.spotify.com/track/0Khhft9qOXfvpEbg7Vn2jF) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Renaissance](https://open.spotify.com/album/1E1voIf1Str4mMaAZXegXY) | 3:45 |
 | 35 | [Outta My Mind pt\. 2](https://open.spotify.com/track/1oyU5HNnNiANItI7DOudPb) | [chlothegod](https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx), [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Outta My Mind pt\. 2](https://open.spotify.com/album/5LSKV2loSaO06efMk8hzED) | 2:44 |
-| 36 | [Bad Game \(3AM\)](https://open.spotify.com/track/0YcOAHmvZRPalC3Wg8BcSm) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [After Midnight](https://open.spotify.com/album/4G49LgI8XdHG5Ymqq3rTfE) | 3:28 |
+| 36 | [After Midnight \(1AM\)](https://open.spotify.com/track/1WtRtjgLCWvkX2kEFeOZy2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [After Midnight](https://open.spotify.com/album/4G49LgI8XdHG5Ymqq3rTfE) | 3:14 |
 | 37 | [Grey And Lilac \- Intro](https://open.spotify.com/track/1TMF8DNwkbQLkBodN8Lgnu) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Intro](https://open.spotify.com/album/7nlnkF135vozYOVdbtEi0z) | 2:37 |
 | 38 | [None For You](https://open.spotify.com/track/2mcWClBQk8SbJpL9aMMNir) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Renaissance](https://open.spotify.com/album/1E1voIf1Str4mMaAZXegXY) | 3:32 |
 | 39 | [Blue \(2AM\)](https://open.spotify.com/track/7pb7fw21xzGuBTVOriBmtX) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Blue \(2AM\)](https://open.spotify.com/album/6fObx5V4teMIbn52o3qTse) | 3:21 |
-| 40 | [After Midnight \(1AM\)](https://open.spotify.com/track/1WtRtjgLCWvkX2kEFeOZy2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [After Midnight](https://open.spotify.com/album/4G49LgI8XdHG5Ymqq3rTfE) | 3:14 |
+| 40 | [Bad Game \(3AM\)](https://open.spotify.com/track/0YcOAHmvZRPalC3Wg8BcSm) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [After Midnight](https://open.spotify.com/album/4G49LgI8XdHG5Ymqq3rTfE) | 3:28 |
 | 41 | [6 Feet Under](https://open.spotify.com/track/0ywhSj38KCaNKaKwtvXEP5) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Intro](https://open.spotify.com/album/7nlnkF135vozYOVdbtEi0z) | 3:21 |
 | 42 | [Woman](https://open.spotify.com/track/4uDIbixPiFLXwhV17G1v7L) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Woman](https://open.spotify.com/album/3M2GuaPC225P4YsyKYIUew) | 2:39 |
 | 43 | [Charlie \(feat\. Lil Yachty\)](https://open.spotify.com/track/7d25e7sGPoQ0orHhKroTu3) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Charlie \(feat\. Lil Yachty\)](https://open.spotify.com/album/5P4MdgUXgsy3NWb3oi6XJT) | 4:51 |
 | 44 | [THE MAN](https://open.spotify.com/track/02xb460RUQTPNJsV726RZS) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Intro](https://open.spotify.com/album/7nlnkF135vozYOVdbtEi0z) | 3:19 |
 | 45 | [Crush](https://open.spotify.com/track/19ddrF8BsiVVYszpeWjb6y) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [This Wasn't Meant For You Anyway](https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U) | 3:46 |
 
-Snapshot ID: `avENAAAAAAAhW1v//XPStQCeTEyOj+6B`
+Snapshot ID: `avOwAAAAAADzGwrDeDEHI5uOt43Ls9by`

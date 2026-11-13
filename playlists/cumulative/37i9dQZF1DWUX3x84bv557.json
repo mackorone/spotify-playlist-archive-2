@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "Frisse Nederlandse pop. Cover: Pommelien Thijs",
+  "description": "Frisse Nederlandse pop. Cover: Adriaan Persons",
   "name": "Je Moerstaal",
   "tracks": [
     {
@@ -118,7 +118,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 140540,
       "name": "1 Keer Jong",
       "url": "https://open.spotify.com/track/3zoJ0fxDe4sBaoscj2gTtO"
@@ -708,7 +708,7 @@
       ],
       "date_added": "2026-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 215840,
       "name": "7 Minuten",
       "url": "https://open.spotify.com/track/1k0Dhhqj9ahO2yR9sdmmg2"
@@ -1182,6 +1182,24 @@
       "duration_ms": 167343,
       "name": "Alleen",
       "url": "https://open.spotify.com/track/18ry46YUhRyFUnxR5oDjwC"
+    },
+    {
+      "album": {
+        "name": "Pijnstiller",
+        "url": "https://open.spotify.com/album/5QM6B3t3Efdnq2X3vde6ml"
+      },
+      "artists": [
+        {
+          "name": "Suzan & Freek",
+          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130666,
+      "name": "Alleen",
+      "url": "https://open.spotify.com/track/1wUDxkCx1zJZLYz71Z5k9g"
     },
     {
       "album": {
@@ -1754,6 +1772,24 @@
       "duration_ms": 206378,
       "name": "Als Alles Wegvalt",
       "url": "https://open.spotify.com/track/4dcu7nIDBIYVDFXWtd5cf1"
+    },
+    {
+      "album": {
+        "name": "Als De Wereld Tegen Ons Is",
+        "url": "https://open.spotify.com/album/18z7wVRfSypc0Vt3QMdOdv"
+      },
+      "artists": [
+        {
+          "name": "Jasmijn Torrico",
+          "url": "https://open.spotify.com/artist/5SIrXx5lWESWersjGYRywZ"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166700,
+      "name": "Als De Wereld Tegen Ons Is",
+      "url": "https://open.spotify.com/track/74j4iu6nWjg91mQYn5MjeB"
     },
     {
       "album": {
@@ -2608,6 +2644,24 @@
       "duration_ms": 126534,
       "name": "Amsterdamse Student",
       "url": "https://open.spotify.com/track/5ErWEoGybmRwHPyB6IMsi2"
+    },
+    {
+      "album": {
+        "name": "Andiamo Tiziano",
+        "url": "https://open.spotify.com/album/7E4NQBCDu76ExrMZo5mvv8"
+      },
+      "artists": [
+        {
+          "name": "Thijs Boontjes",
+          "url": "https://open.spotify.com/artist/7Hx2t9BIWDlr3Bpd6eWmei"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184703,
+      "name": "Andiamo Tiziano",
+      "url": "https://open.spotify.com/track/7i9AQYYY4oIIi2VhKP2aUg"
     },
     {
       "album": {
@@ -7259,6 +7313,24 @@
     },
     {
       "album": {
+        "name": "Dromen In Blauw",
+        "url": "https://open.spotify.com/album/0ShIebiswEZeg16I1mX2WN"
+      },
+      "artists": [
+        {
+          "name": "Adriaan Persons",
+          "url": "https://open.spotify.com/artist/1TPrAXJAcBA8sUPNN39eZg"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181687,
+      "name": "Een Laatste Dans",
+      "url": "https://open.spotify.com/track/5PJuE9ArAHb5kwavASpbcP"
+    },
+    {
+      "album": {
         "name": "Een Nacht Als Deze",
         "url": "https://open.spotify.com/album/5gYLd9YEiTZCDPR0lkiGt6"
       },
@@ -8502,7 +8574,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 182426,
       "name": "Gianni",
       "url": "https://open.spotify.com/track/3bZCTz8RuBTvcYXoVFxWga"
@@ -10162,7 +10234,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 131958,
       "name": "Hij Geeft Alleen Om Mij",
       "url": "https://open.spotify.com/track/1Cs2ymdVvKUtfBtXRWU30A"
@@ -11892,7 +11964,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 136255,
       "name": "Ik Hoor Niks Geks",
       "url": "https://open.spotify.com/track/5WBCWLvkVh8kWBLxUGQd67"
@@ -12210,7 +12282,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 143640,
       "name": "Ik zeg niet dat je moet gaan",
       "url": "https://open.spotify.com/track/0UUJZopRBWmaHIHg8JgoFP"
@@ -12561,6 +12633,32 @@
     },
     {
       "album": {
+        "name": "Sing With Me (Aflevering 1)",
+        "url": "https://open.spotify.com/album/1BrpGunw8hzjbp6cRQzRSB"
+      },
+      "artists": [
+        {
+          "name": "Thijs Pot",
+          "url": "https://open.spotify.com/artist/3nxJAqo44XhsDnBZBXeuvP"
+        },
+        {
+          "name": "Yves Berendse",
+          "url": "https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F"
+        },
+        {
+          "name": "Nick Schilder",
+          "url": "https://open.spotify.com/artist/4pbY2GIsT2jDoVxKqNQcpu"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151420,
+      "name": "Is Dit Nu Later",
+      "url": "https://open.spotify.com/track/1nfZ1uJ4SgXlv1arqragMX"
+    },
+    {
+      "album": {
         "name": "Is Het Gek",
         "url": "https://open.spotify.com/album/1yJ0JSDA5BESShXio4fuT2"
       },
@@ -12688,6 +12786,28 @@
       "duration_ms": 150000,
       "name": "Je Hart Schreeuwt",
       "url": "https://open.spotify.com/track/7x6ZePcUaNscVjqrN76Uww"
+    },
+    {
+      "album": {
+        "name": "DWARS",
+        "url": "https://open.spotify.com/album/3D89VeRqTfJzaFXRxnNT3S"
+      },
+      "artists": [
+        {
+          "name": "Bente",
+          "url": "https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e"
+        },
+        {
+          "name": "Joep Beving",
+          "url": "https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125640,
+      "name": "Je hebt me",
+      "url": "https://open.spotify.com/track/32LxKBhSYH47khNom8oJ86"
     },
     {
       "album": {
@@ -19788,7 +19908,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 142271,
       "name": "Papa's Geld",
       "url": "https://open.spotify.com/track/1s6OsKWzYAPdQrF9HJjplT"
@@ -19944,6 +20064,24 @@
       "duration_ms": 154400,
       "name": "Parler Fran\u00e7ais",
       "url": "https://open.spotify.com/track/0gfHldycqvlnoxGwTPu52Z"
+    },
+    {
+      "album": {
+        "name": "Pas Als Het Over Is",
+        "url": "https://open.spotify.com/album/7j9VVBUogZZmyW2v2jJmiS"
+      },
+      "artists": [
+        {
+          "name": "Metejoor",
+          "url": "https://open.spotify.com/artist/7hdCH3dJ27WvUbo00gAMwE"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195329,
+      "name": "Pas Als Het Over Is",
+      "url": "https://open.spotify.com/track/6Jicl5TWPfZkrS0ovGJG0G"
     },
     {
       "album": {
@@ -20374,6 +20512,24 @@
       "duration_ms": 134641,
       "name": "Puinhoop",
       "url": "https://open.spotify.com/track/5UR6iM7zFdl0JhY4JZ7NIw"
+    },
+    {
+      "album": {
+        "name": "P\u00e9p\u00e9 Chand",
+        "url": "https://open.spotify.com/album/1aYE3fwe9XIFuc0Znp4AVL"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00ebl Domingos",
+          "url": "https://open.spotify.com/artist/5LzkF8ZUuxdSg8BCEwrosb"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205555,
+      "name": "P\u00e9p\u00e9 Chand",
+      "url": "https://open.spotify.com/track/5GalJ2yP97tcdyXjkooBgH"
     },
     {
       "album": {
@@ -20812,7 +20968,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 152201,
       "name": "Rollercoaster",
       "url": "https://open.spotify.com/track/0ZJ5pfR6GTqEfDqZFkpu5b"
@@ -21454,7 +21610,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 149243,
       "name": "Schoolplein",
       "url": "https://open.spotify.com/track/2LB0HVOe0OyZcW2quG9cYq"
@@ -22278,7 +22434,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 176250,
       "name": "Spaans Benauwd",
       "url": "https://open.spotify.com/track/7os250jZHWdOl4auBEbdPl"
@@ -23763,6 +23919,42 @@
     },
     {
       "album": {
+        "name": "Niemands Meisje",
+        "url": "https://open.spotify.com/album/2MVb3OLPmLzhGXnfIjunua"
+      },
+      "artists": [
+        {
+          "name": "Sigourney K",
+          "url": "https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 2",
+      "url": "https://open.spotify.com/track/18ic5yHNhwhB15ez95EtkJ"
+    },
+    {
+      "album": {
+        "name": "Plannen Gewijzigd",
+        "url": "https://open.spotify.com/album/7y7Q2FR23iHqEUvQlVkzzd"
+      },
+      "artists": [
+        {
+          "name": "FAY",
+          "url": "https://open.spotify.com/artist/2rYvyXWazKzVHanTL5GyCE"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 4",
+      "url": "https://open.spotify.com/track/3I7DwpzJv4Rlh9tUCeWHjO"
+    },
+    {
+      "album": {
         "name": "Tranen In De Giftshop",
         "url": "https://open.spotify.com/album/1OQVA5LvlqTTebTLRHub9f"
       },
@@ -24238,6 +24430,24 @@
       "duration_ms": 193227,
       "name": "Utrecht",
       "url": "https://open.spotify.com/track/4NCIduhosiVATq2M38bhI2"
+    },
+    {
+      "album": {
+        "name": "Pijnstiller",
+        "url": "https://open.spotify.com/album/5QM6B3t3Efdnq2X3vde6ml"
+      },
+      "artists": [
+        {
+          "name": "Suzan & Freek",
+          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206938,
+      "name": "Vaders & Moeders",
+      "url": "https://open.spotify.com/track/77Q36rQQxPruhT2npadwgr"
     },
     {
       "album": {
@@ -25671,6 +25881,24 @@
     },
     {
       "album": {
+        "name": "Voorbestemde Wegen",
+        "url": "https://open.spotify.com/album/2aMTTK0moioPgS12ZGSsgn"
+      },
+      "artists": [
+        {
+          "name": "Ralph Moerman",
+          "url": "https://open.spotify.com/artist/1KnT4e4f38872CbGkEo3UR"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238125,
+      "name": "Voorbestemde Wegen",
+      "url": "https://open.spotify.com/track/3d0ORih3jwKq6dGdFKKMu2"
+    },
+    {
+      "album": {
         "name": "Voorbij",
         "url": "https://open.spotify.com/album/4Y7q8OQaYg91BxZWerlBMV"
       },
@@ -26200,7 +26428,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 165436,
       "name": "Wanneer Is Het Genoeg?",
       "url": "https://open.spotify.com/track/1oRNJWXfWfnHs1JdL9gdmh"
@@ -26396,7 +26624,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 168000,
       "name": "wat doe je nou",
       "url": "https://open.spotify.com/track/4APCqMbu2MQ25XSudrmBpN"

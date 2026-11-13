@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avENAAAAAADxSRLMuwcye7lk+Mt2a5bJ",
+  "snapshot_id": "avOwAAAAAAAsZhFQrbKPnefaJOl6v9Zi",
   "tracks": [
     {
       "added_at": null,
@@ -479,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Mejor Amigo",
-        "url": "https://open.spotify.com/album/5qOUTOwLXAm1y3WvzePHZW"
+        "name": "Aqu\u00ed Estoy",
+        "url": "https://open.spotify.com/album/1akofGzJY1aWUjkQK1qs6o"
       },
       "artists": [
         {
@@ -488,13 +488,13 @@
           "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
         },
         {
-          "name": "Franco Rey",
-          "url": "https://open.spotify.com/artist/5ijydygAQo5wd1WJFDrGk3"
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
         }
       ],
-      "duration_ms": 210474,
-      "name": "El Mejor Amigo",
-      "url": "https://open.spotify.com/track/0xRVhzvHkRBXbp25NRDotY"
+      "duration_ms": 229013,
+      "name": "awitado :(",
+      "url": "https://open.spotify.com/track/7p16KfEzAQ5orhR5hYf9Rp"
     },
     {
       "added_at": null,
@@ -527,8 +527,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aqu\u00ed Estoy",
-        "url": "https://open.spotify.com/album/1akofGzJY1aWUjkQK1qs6o"
+        "name": "El Mejor Amigo",
+        "url": "https://open.spotify.com/album/5qOUTOwLXAm1y3WvzePHZW"
       },
       "artists": [
         {
@@ -536,13 +536,13 @@
           "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
         },
         {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+          "name": "Franco Rey",
+          "url": "https://open.spotify.com/artist/5ijydygAQo5wd1WJFDrGk3"
         }
       ],
-      "duration_ms": 229013,
-      "name": "awitado :(",
-      "url": "https://open.spotify.com/track/7p16KfEzAQ5orhR5hYf9Rp"
+      "duration_ms": 210474,
+      "name": "El Mejor Amigo",
+      "url": "https://open.spotify.com/track/0xRVhzvHkRBXbp25NRDotY"
     },
     {
       "added_at": null,
@@ -579,26 +579,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Az\u00facar",
-        "url": "https://open.spotify.com/album/7lYA8XiizTdbP5EQAXRjtE"
+        "name": "Aqu\u00ed Estoy",
+        "url": "https://open.spotify.com/album/1akofGzJY1aWUjkQK1qs6o"
       },
       "artists": [
         {
-          "name": "Mau Moctezuma",
-          "url": "https://open.spotify.com/artist/1oSRId8yJK5I7KMtD5gp3q"
-        },
-        {
-          "name": "Taylor Diaz",
-          "url": "https://open.spotify.com/artist/7bLFuuccJopbrVGDbD0zyf"
-        },
-        {
           "name": "Leon Leiden",
           "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        },
+        {
+          "name": "Pol Granch",
+          "url": "https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0"
         }
       ],
-      "duration_ms": 147906,
-      "name": "Az\u00facar",
-      "url": "https://open.spotify.com/track/5W4HN5rnSphY6nG5cD9elB"
+      "duration_ms": 211702,
+      "name": "Scirocco",
+      "url": "https://open.spotify.com/track/1gKaxZg8fclovRKtLPWV35"
     },
     {
       "added_at": null,
@@ -623,26 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aqu\u00ed Estoy",
-        "url": "https://open.spotify.com/album/1akofGzJY1aWUjkQK1qs6o"
-      },
-      "artists": [
-        {
-          "name": "Leon Leiden",
-          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
-        },
-        {
-          "name": "Pol Granch",
-          "url": "https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0"
-        }
-      ],
-      "duration_ms": 211702,
-      "name": "Scirocco",
-      "url": "https://open.spotify.com/track/1gKaxZg8fclovRKtLPWV35"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Qu\u00e9 M\u00e1s Da",
         "url": "https://open.spotify.com/album/3GEkEU52GYJsCPXm4UFpUi"
       },
@@ -659,6 +635,30 @@
       "duration_ms": 195726,
       "name": "Qu\u00e9 M\u00e1s Da",
       "url": "https://open.spotify.com/track/14WCJzq5yQhdtDrcGm2WcZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Az\u00facar",
+        "url": "https://open.spotify.com/album/7lYA8XiizTdbP5EQAXRjtE"
+      },
+      "artists": [
+        {
+          "name": "Mau Moctezuma",
+          "url": "https://open.spotify.com/artist/1oSRId8yJK5I7KMtD5gp3q"
+        },
+        {
+          "name": "Taylor Diaz",
+          "url": "https://open.spotify.com/artist/7bLFuuccJopbrVGDbD0zyf"
+        },
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        }
+      ],
+      "duration_ms": 147906,
+      "name": "Az\u00facar",
+      "url": "https://open.spotify.com/track/5W4HN5rnSphY6nG5cD9elB"
     },
     {
       "added_at": null,
@@ -743,6 +743,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Manzana",
+        "url": "https://open.spotify.com/album/0LozjoHXdTejrX64kaMb70"
+      },
+      "artists": [
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        }
+      ],
+      "duration_ms": 173936,
+      "name": "Manzana",
+      "url": "https://open.spotify.com/track/1BMoI40IIeE8hUtjSy8jQz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Alberca / ILY <3",
         "url": "https://open.spotify.com/album/56rLIEkSkRChif7JpHRVlj"
       },
@@ -759,8 +775,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Manzana",
-        "url": "https://open.spotify.com/album/0LozjoHXdTejrX64kaMb70"
+        "name": "El Morro Que Hace M\u00fasica",
+        "url": "https://open.spotify.com/album/4RoRb3XF1ibgFcrbNeI3h3"
       },
       "artists": [
         {
@@ -768,9 +784,9 @@
           "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
         }
       ],
-      "duration_ms": 173936,
-      "name": "Manzana",
-      "url": "https://open.spotify.com/track/1BMoI40IIeE8hUtjSy8jQz"
+      "duration_ms": 152000,
+      "name": "La Habanera",
+      "url": "https://open.spotify.com/track/4t1wJfxOwUBsMpYVPnQhQm"
     },
     {
       "added_at": null,
@@ -791,22 +807,6 @@
       "duration_ms": 174037,
       "name": "Cheve",
       "url": "https://open.spotify.com/track/2djtTuxLQbhu4FcMYYdKOD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Morro Que Hace M\u00fasica",
-        "url": "https://open.spotify.com/album/4RoRb3XF1ibgFcrbNeI3h3"
-      },
-      "artists": [
-        {
-          "name": "Leon Leiden",
-          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "La Habanera",
-      "url": "https://open.spotify.com/track/4t1wJfxOwUBsMpYVPnQhQm"
     },
     {
       "added_at": null,
@@ -851,6 +851,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Morro Que Hace M\u00fasica",
+        "url": "https://open.spotify.com/album/4RoRb3XF1ibgFcrbNeI3h3"
+      },
+      "artists": [
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        }
+      ],
+      "duration_ms": 149333,
+      "name": "Vente",
+      "url": "https://open.spotify.com/track/0jGekvFOOBQm3Ba8IfimAp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "mp3.",
         "url": "https://open.spotify.com/album/7hay7ShcevjZmyMfrEYoF6"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 163434,
       "name": "FLOTA",
       "url": "https://open.spotify.com/track/2cgeaGlJpUl1C37OHb28XW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Morro Que Hace M\u00fasica",
-        "url": "https://open.spotify.com/album/4RoRb3XF1ibgFcrbNeI3h3"
-      },
-      "artists": [
-        {
-          "name": "Leon Leiden",
-          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
-        }
-      ],
-      "duration_ms": 149333,
-      "name": "Vente",
-      "url": "https://open.spotify.com/track/0jGekvFOOBQm3Ba8IfimAp"
     },
     {
       "added_at": null,

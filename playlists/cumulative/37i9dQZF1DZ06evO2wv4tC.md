@@ -4,7 +4,7 @@
 
 > This is DESTIN CONRAD\. The essential tracks, all in one playlist.
 
-50 songs - 2 hr 17 min
+51 songs - 2 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,8 @@
 | [EXCITED!](https://open.spotify.com/track/3qE98sHohjBGmohgKOSK01) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [COLORWAY](https://open.spotify.com/album/4cGY0jqWYTCIPwQRXHgKvy) | 1:37 | 2026-11-04 |  |
 | [FAVORITE LOVER](https://open.spotify.com/track/7qjPjdMQmj2ivIuQsc0Cid) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [ROADRUNNER](https://open.spotify.com/album/7joEKdjJC5ROVOVc15CNfj) | 2:28 | 2026-11-04 |  |
 | [FMU!](https://open.spotify.com/track/3Izei1L5dRVIS7tgpEMG7x) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [LOVE ON DIGITAL](https://open.spotify.com/album/7ChitlgU5oFgKmjLtViJ8K) | 2:21 | 2026-11-04 |  |
-| [Form of You \(feat\. DESTIN CONRAD & CHILDOFNINES\)](https://open.spotify.com/track/5HHQseqhsxImBCNNi7nLVM) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Childofnines](https://open.spotify.com/artist/6UuZZqzEfbhWEmHyPEizdH) | [While We Wait 2](https://open.spotify.com/album/6BtMJG0J0QnXIiGRCMgkxA) | 4:22 | 2026-11-04 |  |
+| [Form of You \(feat\. DESTIN CONRAD & CHILDOFNINES\)](https://open.spotify.com/track/3ygPOFRb3mc8xNfFRMdrfx) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Childofnines](https://open.spotify.com/artist/6UuZZqzEfbhWEmHyPEizdH) | [While We Wait 2](https://open.spotify.com/album/0tmZqPHODtZmBHr3cozsOa) | 4:22 | 2026-11-13 |  |
+| [Form of You \(feat\. DESTIN CONRAD & CHILDOFNINES\)](https://open.spotify.com/track/5HHQseqhsxImBCNNi7nLVM) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Childofnines](https://open.spotify.com/artist/6UuZZqzEfbhWEmHyPEizdH) | [While We Wait 2](https://open.spotify.com/album/6BtMJG0J0QnXIiGRCMgkxA) | 4:22 | 2026-11-04 | 2026-11-13 |
 | [HARD!](https://open.spotify.com/track/0DFCew2KI6dzd8FKoGWWph) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [wHIMSY](https://open.spotify.com/album/4JbxuyZJlpIyvXhVCRoq9E) | 2:47 | 2026-11-04 |  |
 | [I LOVE YOUR BODY](https://open.spotify.com/track/3LeYRxEaVtDsvNgpulMIU9) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [ROADRUNNER](https://open.spotify.com/album/7joEKdjJC5ROVOVc15CNfj) | 2:34 | 2026-11-04 |  |
 | [IN THE AIR](https://open.spotify.com/track/4TLJNON6mZLpfZX3g4Oh8B) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [COLORWAY](https://open.spotify.com/album/4cGY0jqWYTCIPwQRXHgKvy) | 2:16 | 2026-11-04 |  |

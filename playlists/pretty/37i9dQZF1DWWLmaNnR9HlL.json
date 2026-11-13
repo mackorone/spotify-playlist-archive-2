@@ -1,6 +1,6 @@
 {
   "description": "La banda sonora para tus cenas en casa.",
-  "num_followers": 392512,
+  "num_followers": 392480,
   "original_name": "Cena con Amigos",
   "owner": {
     "name": "Spotify",
@@ -739,22 +739,6 @@
     {
       "added_at": "2026-08-20 15:24:38",
       "album": {
-        "name": "Tapestry",
-        "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
-      },
-      "artists": [
-        {
-          "name": "Carole King",
-          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
-        }
-      ],
-      "duration_ms": 233552,
-      "name": "It's Too Late",
-      "url": "https://open.spotify.com/track/12q3V8ShACq2PSWINMc2rC"
-    },
-    {
-      "added_at": "2026-08-20 15:24:38",
-      "album": {
         "name": "Daryl Hall & John Oates (The Silver Album)",
         "url": "https://open.spotify.com/album/0QVsWpx62HGRHx1Big7BZA"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 185293,
       "name": "Sara Smile",
       "url": "https://open.spotify.com/track/1qjrYozGqc7upUgfN776lZ"
+    },
+    {
+      "added_at": "2026-08-20 15:24:38",
+      "album": {
+        "name": "Tapestry",
+        "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
+      "duration_ms": 233552,
+      "name": "It's Too Late",
+      "url": "https://open.spotify.com/track/12q3V8ShACq2PSWINMc2rC"
     },
     {
       "added_at": "2026-08-20 15:24:38",
@@ -819,22 +819,6 @@
     {
       "added_at": "2026-08-20 15:24:38",
       "album": {
-        "name": "Dusty... Definitely (Expanded Edtion)",
-        "url": "https://open.spotify.com/album/08W4d8uMIQvJg0nlwR1rBN"
-      },
-      "artists": [
-        {
-          "name": "Dusty Springfield",
-          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
-        }
-      ],
-      "duration_ms": 164173,
-      "name": "Spooky",
-      "url": "https://open.spotify.com/track/3MtP9T0WF4xbIo8vqHYeXM"
-    },
-    {
-      "added_at": "2026-08-20 15:24:38",
-      "album": {
         "name": "Ray Charles (aka: Hallelujah, I Love Her So)",
         "url": "https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 171466,
       "name": "I've Got a Woman",
       "url": "https://open.spotify.com/track/2xar08Fq5xra2KKZs5Bw9j"
+    },
+    {
+      "added_at": "2026-08-20 15:24:38",
+      "album": {
+        "name": "Dusty... Definitely (Expanded Edtion)",
+        "url": "https://open.spotify.com/album/08W4d8uMIQvJg0nlwR1rBN"
+      },
+      "artists": [
+        {
+          "name": "Dusty Springfield",
+          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
+        }
+      ],
+      "duration_ms": 164173,
+      "name": "Spooky",
+      "url": "https://open.spotify.com/track/3MtP9T0WF4xbIo8vqHYeXM"
     },
     {
       "added_at": "2026-08-20 15:24:38",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2026-08-20 15:24:38",
       "album": {
-        "name": "The Look Of Love",
-        "url": "https://open.spotify.com/album/4nmjBh2Td9I9x9JDncrQr3"
-      },
-      "artists": [
-        {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
-        }
-      ],
-      "duration_ms": 282000,
-      "name": "The Look Of Love",
-      "url": "https://open.spotify.com/track/3CDHydgW0ssTh59f0jy1y3"
-    },
-    {
-      "added_at": "2026-08-20 15:24:38",
-      "album": {
         "name": "Currency Of Man",
         "url": "https://open.spotify.com/album/2iKiVmx8ohPDn1hJmxC9tD"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 305265,
       "name": "Morning Sun",
       "url": "https://open.spotify.com/track/7aoJg1wQEqMx1t875H5fww"
+    },
+    {
+      "added_at": "2026-08-20 15:24:38",
+      "album": {
+        "name": "The Look Of Love",
+        "url": "https://open.spotify.com/album/4nmjBh2Td9I9x9JDncrQr3"
+      },
+      "artists": [
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "duration_ms": 282000,
+      "name": "The Look Of Love",
+      "url": "https://open.spotify.com/track/3CDHydgW0ssTh59f0jy1y3"
     },
     {
       "added_at": "2026-08-20 15:24:38",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2026-08-20 15:24:38",
       "album": {
-        "name": "Built on Glass",
-        "url": "https://open.spotify.com/album/2lKbr47iZyXo44V4CEEUaK"
-      },
-      "artists": [
-        {
-          "name": "Chet Faker",
-          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
-        }
-      ],
-      "duration_ms": 285255,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/1Ll09EiN5ffeFl1xNZB2Uk"
-    },
-    {
-      "added_at": "2026-08-20 15:24:38",
-      "album": {
         "name": "Marcos Valle",
         "url": "https://open.spotify.com/album/0FOAFmdS9StYdW3hrSnJCe"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 313493,
       "name": "Estrelar",
       "url": "https://open.spotify.com/track/2koS4fD3kzizdnzWzyrxyT"
+    },
+    {
+      "added_at": "2026-08-20 15:24:38",
+      "album": {
+        "name": "Built on Glass",
+        "url": "https://open.spotify.com/album/2lKbr47iZyXo44V4CEEUaK"
+      },
+      "artists": [
+        {
+          "name": "Chet Faker",
+          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
+        }
+      ],
+      "duration_ms": 285255,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/1Ll09EiN5ffeFl1xNZB2Uk"
     },
     {
       "added_at": "2026-08-20 15:24:38",

@@ -2,9 +2,9 @@
 
 ### [R&Beats](https://open.spotify.com/playlist/37i9dQZF1DX8DvacitluwF)
 
-> The best in South African and international R&B\. Cover: KLA
+> The best in South African and international R&B\. Cover: Lloyiso
 
-706 songs - 1 day 14 hr 8 min
+707 songs - 1 day 14 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,7 @@
 | [CHOMI](https://open.spotify.com/track/5sgAXpkIVv7coia8OJwAjH) | [LIKKYLIKS](https://open.spotify.com/artist/1egZp9V6tEVf1jf5mFurK1), [Zango Kubheka](https://open.spotify.com/artist/1VMANc0TJb3ZL6mOxHkhig) | [CHOMI](https://open.spotify.com/album/2RdMq3GCY9SmIjM4qYRCAH) | 3:36 | 2025-06-13 | 2025-06-20 |
 | [Ciao!](https://open.spotify.com/track/0oMlowcYGs70fDAfRf8eKJ) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Bryson Tiller](https://open.spotify.com/album/0frVQ5nctt6zS9ZR1g5HMX) | 2:05 | 2024-09-26 | 2025-04-25 |
 | [Circles](https://open.spotify.com/track/1YZC8SZJin71ZfItySfe5I) | [Angie Santana](https://open.spotify.com/artist/3gh6VwtLkdkaWCPUV4L6yT) | [Full Circle](https://open.spotify.com/album/3mV8iTF8vMvT0WLvjDKze6) | 3:01 | 2023-10-12 | 2023-10-27 |
-| [Circles](https://open.spotify.com/track/2OReovfjKHti68EZWPX9uf) | [sunandmoon](https://open.spotify.com/artist/3ikGms7GwFvw8noOZqgo0e), [Ogi](https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu), [Anoop](https://open.spotify.com/artist/3996HCdpgDyZ3UewAm5IZy) | [Circles](https://open.spotify.com/album/0cYnmsIOUzTu8ooIHdjQwg) | 3:40 | 2026-08-20 |  |
+| [Circles](https://open.spotify.com/track/2OReovfjKHti68EZWPX9uf) | [sunandmoon](https://open.spotify.com/artist/3ikGms7GwFvw8noOZqgo0e), [Ogi](https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu), [Anoop](https://open.spotify.com/artist/3996HCdpgDyZ3UewAm5IZy) | [Circles](https://open.spotify.com/album/0cYnmsIOUzTu8ooIHdjQwg) | 3:40 | 2026-08-20 | 2026-11-13 |
 | [CITY GYAL](https://open.spotify.com/track/45c6ENP4z68YD6bPkUPTKk) | [Joshua J](https://open.spotify.com/artist/2AZupS7RiLA0sh5uzwsr2l) | [CITY GYAL](https://open.spotify.com/album/7zwiPHmpaTlrEhH7RsbEoD) | 2:30 | 2025-06-20 | 2025-06-28 |
 | [Clarity](https://open.spotify.com/track/1llE1R8w9ikAbGEr32u5CX) | [Chante](https://open.spotify.com/artist/3Hep5FnEEhtEUODQxyGFKg) | [Clarity](https://open.spotify.com/album/5nfnp4M0TXAdqN4cFL8R7r) | 4:14 | 2024-05-16 | 2024-06-14 |
 | [Clarity](https://open.spotify.com/track/6Or8tC2UWavckRdkMUUYfw) | [Chante](https://open.spotify.com/artist/3Hep5FnEEhtEUODQxyGFKg) | [Transparent](https://open.spotify.com/album/1UkM7U0GAqjJs3oO4M1dLR) | 4:14 | 2024-09-02 | 2024-09-12 |
@@ -248,6 +248,7 @@
 | [Go Baby](https://open.spotify.com/track/3NiL2JcFIncyshy4KOKA73) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 3:56 | 2023-10-12 | 2024-01-26 |
 | [Go Girlfriend](https://open.spotify.com/track/7sDsbFNNQmG2UmRjHtO7fW) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [11:11 \(Deluxe\)](https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz) | 2:55 | 2024-04-12 | 2024-08-31 |
 | [Gold](https://open.spotify.com/track/1CpxYmxDzQ2toDyf7THXnt) | [Gemma Griffiths](https://open.spotify.com/artist/1ho07fAwkrMIMAJId6DbCG) | [Gold](https://open.spotify.com/album/7Calum7vbuq3WXiXMYhIdi) | 2:52 | 2025-05-29 | 2025-06-28 |
+| [Gone](https://open.spotify.com/track/6boHsRT72xtOozE3BINB6K) | [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [Gone](https://open.spotify.com/album/1cc7akxYCA0AX8fAkhmPI6) | 3:48 | 2026-11-12 |  |
 | [Good Girls Finish Last](https://open.spotify.com/track/3j8hlB1QSlKvWgDAym77x4) | [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98) | [Good Girls Finish Last](https://open.spotify.com/album/7q4DF1pfa9zlm77xg9uJg1) | 3:02 | 2024-09-11 | 2024-11-29 |
 | [Good Time](https://open.spotify.com/track/0btvV1jKl5TdPWHOvwP5Tt) | [Yashna](https://open.spotify.com/artist/7tUJZBp4pit6GbiSI1kZzH) | [Good Time](https://open.spotify.com/album/6f30WX67H8igtjmtcPmAs9) | 1:53 | 2024-07-25 | 2024-09-03 |
 | [Goody](https://open.spotify.com/track/00OdPTXuEQhk0d8qvp2JNQ) | [Hunter Rose](https://open.spotify.com/artist/2G6bNldbTZU1viUkX5Myuq), [Loop Schrauber](https://open.spotify.com/artist/03q0QEJ2aWKMa5NlOfQX32), [Clap Cotton](https://open.spotify.com/artist/1ruRdyWeMcnliO3CPJ2gtA) | [Slow Summer](https://open.spotify.com/album/3PCSI1vcMZ4av5S2Uwjeli) | 2:26 | 2024-09-02 | 2024-09-12 |

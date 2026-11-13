@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 
 > Lo nuevo y lo mejor en el estilo mariachi\. Cover: Alex Fernandez 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 368,325 likes - 80 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 368,328 likes - 80 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,13 +25,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 15 | [Sabor A Ti](https://open.spotify.com/track/5HQjTtE2s7SxaMI87WoPxH) | [Alex Fernández](https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC) | [Sabor A Ti](https://open.spotify.com/album/0vlDCouQwOpSd2p299lUJ9) | 2:39 |
 | 16 | [Un Vals](https://open.spotify.com/track/1ojcw1w3auGuo2JwVvm8u5) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Un Vals](https://open.spotify.com/album/5K0BYODFTljTcOLGOwBZJX) | 3:09 |
 | 17 | [Mi Problema](https://open.spotify.com/track/7rPsUk73ECuvuliteIS5LE) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Mi Problema](https://open.spotify.com/album/4R8EESNE81YaF6xBamLsjW) | 2:54 |
-| 18 | [TRAIGO UNA SED](https://open.spotify.com/track/7zyE3MoUk3tkf0T8k5HWDJ) | [Raúl Beltran](https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP) | [AL ESTILO JALISCO](https://open.spotify.com/album/4tMqk85yHl5KPiXbDypOlc) | 4:38 |
-| 19 | [Se Me Olvidó Otra Vez](https://open.spotify.com/track/7vZFlThbbfmOqSPkgzGGC4) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Se Me Olvidó Otra Vez](https://open.spotify.com/album/6zxsZbK1XJBFpDx4QtJ2gt) | 2:56 |
+| 18 | [Se Me Olvidó Otra Vez](https://open.spotify.com/track/7vZFlThbbfmOqSPkgzGGC4) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Se Me Olvidó Otra Vez](https://open.spotify.com/album/6zxsZbK1XJBFpDx4QtJ2gt) | 2:56 |
+| 19 | [TRAIGO UNA SED](https://open.spotify.com/track/7zyE3MoUk3tkf0T8k5HWDJ) | [Raúl Beltran](https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP) | [AL ESTILO JALISCO](https://open.spotify.com/album/4tMqk85yHl5KPiXbDypOlc) | 4:38 |
 | 20 | [Disculpe Usted](https://open.spotify.com/track/79Fchr207sdYoIarAaJX7v) | [Alex Fernández](https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC) | [Disculpe Usted](https://open.spotify.com/album/4Sj3RVZse1XYxZnyGdK7f7) | 3:05 |
 | 21 | [La Perra](https://open.spotify.com/track/2l34uHM6mHVi6glzqRpk3y) | [Chuy Lizarraga y Su Banda Tierra Sinaloense](https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr) | [La Perra](https://open.spotify.com/album/7bsNQ0GpPPiP7mRvOGsCzw) | 3:08 |
 | 22 | [De Otro Planeta](https://open.spotify.com/track/1kTi1NUd5lHAJqOn0hZUUB) | [Pedro Fernández](https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh) | [De Otro Planeta](https://open.spotify.com/album/3CliW6dLoz7JQaS7DB2y2b) | 2:58 |
-| 23 | [Ya No Le Mientas](https://open.spotify.com/track/7xdtRize93wp9Zi3HM3bqI) | [Alta Consigna](https://open.spotify.com/artist/0DjAjUeZwSixK0dRwplBXb) | [Ya No Le Mientas](https://open.spotify.com/album/5luT7UJl4D2vY5xL8M6mRf) | 2:39 |
-| 24 | [Por Debajo De La Mesa](https://open.spotify.com/track/3fkdu0ySrFF0Y3VAyyGPjL) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Por Debajo De La Mesa](https://open.spotify.com/album/5hGNkM9FmYIDSGvQElWcpR) | 3:04 |
+| 23 | [Por Debajo De La Mesa](https://open.spotify.com/track/3fkdu0ySrFF0Y3VAyyGPjL) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Por Debajo De La Mesa](https://open.spotify.com/album/5hGNkM9FmYIDSGvQElWcpR) | 3:04 |
+| 24 | [Ya No Le Mientas](https://open.spotify.com/track/7xdtRize93wp9Zi3HM3bqI) | [Alta Consigna](https://open.spotify.com/artist/0DjAjUeZwSixK0dRwplBXb) | [Ya No Le Mientas](https://open.spotify.com/album/5luT7UJl4D2vY5xL8M6mRf) | 2:39 |
 | 25 | [Me Declaro Culpable](https://open.spotify.com/track/5pdJChOYdT3fbM3oCBWI0G) | [Alex Fernández](https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC) | [Voz De Mi Sangre](https://open.spotify.com/album/5NHM9KspGB52hSxbsJSTfa) | 3:32 |
 | 26 | [Serpiente De Cascabel](https://open.spotify.com/track/76zdoeqk70bWpUuaxtjEga) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [Serpiente De Cascabel](https://open.spotify.com/album/72yA07337N8qSkSdpLgTAG) | 3:09 |
 | 27 | [⁠Cuatro Caminos](https://open.spotify.com/track/1yVjUAt8Jn2ZCwXpWJ8Ohp) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [La Nostalgia](https://open.spotify.com/album/3kX6Sov6xamwye4u7n5aJr) | 2:29 |

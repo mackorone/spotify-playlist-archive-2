@@ -1,13 +1,97 @@
 {
-  "description": "Latest music from Badshah, Shreya Ghoshal, Salim-Sulaiman and more.",
-  "num_followers": 102739,
+  "description": "Latest music from Madhubanti Bagchi, Nikhita Gandhi, KhoslaRaghu and more.",
+  "num_followers": 102844,
   "original_name": "New Music Friday I-Pop ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFQgq4zHhsQmsqIKVEZiHE/lFcPW",
+  "snapshot_id": "AAAAAN3GmHIZq264PPSTRy29eQWRc7L6",
   "tracks": [
+    {
+      "added_at": "2026-11-13 04:30:28",
+      "album": {
+        "name": "Mudd Na Sajna",
+        "url": "https://open.spotify.com/album/5oNufrn0Td0leLDHIWw6w7"
+      },
+      "artists": [
+        {
+          "name": "Madhubanti Bagchi",
+          "url": "https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h"
+        },
+        {
+          "name": "Siddharth Amit Bhavsar",
+          "url": "https://open.spotify.com/artist/2DQZm7ErqpqiT4nxF9i4a2"
+        }
+      ],
+      "duration_ms": 232456,
+      "name": "Mudd Na Sajna",
+      "url": "https://open.spotify.com/track/4feeZH5iAQjvKhWyoXNVLT"
+    },
+    {
+      "added_at": "2026-11-13 04:30:28",
+      "album": {
+        "name": "Niki G",
+        "url": "https://open.spotify.com/album/6hcKDorzP4sFk9iaTd85Wu"
+      },
+      "artists": [
+        {
+          "name": "Nikhita Gandhi",
+          "url": "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
+        },
+        {
+          "name": "Karan Kanchan",
+          "url": "https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs"
+        }
+      ],
+      "duration_ms": 159230,
+      "name": "Toddy",
+      "url": "https://open.spotify.com/track/1Vok23JnLm6I0VLkF7Bf0w"
+    },
+    {
+      "added_at": "2026-11-13 04:30:28",
+      "album": {
+        "name": "Naina Saavan - Reprise",
+        "url": "https://open.spotify.com/album/7dDWVIsPi87MBQ8IJtXQIk"
+      },
+      "artists": [
+        {
+          "name": "KhoslaRaghu",
+          "url": "https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS"
+        },
+        {
+          "name": "Kavita Seth",
+          "url": "https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv"
+        }
+      ],
+      "duration_ms": 262500,
+      "name": "Naina Saavan - Reprise",
+      "url": "https://open.spotify.com/track/60E6ahAL4ANvC4lvbOjUFP"
+    },
+    {
+      "added_at": "2026-11-13 04:30:28",
+      "album": {
+        "name": "Jhalak",
+        "url": "https://open.spotify.com/album/10BBb28qFnAAkkZPKjp4Pd"
+      },
+      "artists": [
+        {
+          "name": "Naam Sujal",
+          "url": "https://open.spotify.com/artist/6NTcSISlIHPvDleyAkOTqP"
+        },
+        {
+          "name": "Aanchal Tyagi",
+          "url": "https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off"
+        },
+        {
+          "name": "Hiten",
+          "url": "https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh"
+        }
+      ],
+      "duration_ms": 134311,
+      "name": "Jhalak",
+      "url": "https://open.spotify.com/track/23fZaeHn6gxiJGYY2nXOjn"
+    },
     {
       "added_at": "2026-11-06 02:54:21",
       "album": {
@@ -755,30 +839,6 @@
     {
       "added_at": "2026-10-09 02:52:30",
       "album": {
-        "name": "Sabar (From \"Bhoomi 2026\")",
-        "url": "https://open.spotify.com/album/6luvLJrgAbGrzMT6yQBhCr"
-      },
-      "artists": [
-        {
-          "name": "Salim\u2013Sulaiman",
-          "url": "https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq"
-        },
-        {
-          "name": "Armaan Malik",
-          "url": "https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs"
-        },
-        {
-          "name": "Shraddha Pandit",
-          "url": "https://open.spotify.com/artist/4rhk6lDh2srdV1a1qmIqGa"
-        }
-      ],
-      "duration_ms": 277941,
-      "name": "Sabar (From \"Bhoomi 2026\")",
-      "url": "https://open.spotify.com/track/1i68oUlj31syiQ3ZeA1yPc"
-    },
-    {
-      "added_at": "2026-10-09 02:52:30",
-      "album": {
         "name": "Kaali Raat",
         "url": "https://open.spotify.com/album/1QG5T9RZDFpGnWJKW4QDzd"
       },
@@ -871,54 +931,6 @@
     {
       "added_at": "2026-10-02 04:30:15",
       "album": {
-        "name": "Chammo Deewani",
-        "url": "https://open.spotify.com/album/3f86QKltHGHmzvOLSpaKco"
-      },
-      "artists": [
-        {
-          "name": "Amit Trivedi",
-          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
-        },
-        {
-          "name": "Poorvi Koutish",
-          "url": "https://open.spotify.com/artist/2TmWCKfrFiN6j5eBcIA13p"
-        },
-        {
-          "name": "Kausar Munir",
-          "url": "https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA"
-        }
-      ],
-      "duration_ms": 199053,
-      "name": "Chammo Deewani",
-      "url": "https://open.spotify.com/track/2taGFv9IJZG9t2vPw9ovmo"
-    },
-    {
-      "added_at": "2026-10-02 04:30:15",
-      "album": {
-        "name": "Main Baavri",
-        "url": "https://open.spotify.com/album/31KwG9Yk42lUQf3kmQIFIV"
-      },
-      "artists": [
-        {
-          "name": "Monali Thakur",
-          "url": "https://open.spotify.com/artist/2o4R2rK7FetH40HTv0SUWl"
-        },
-        {
-          "name": "Alok Ranjan Srivastava",
-          "url": "https://open.spotify.com/artist/5DexCXOx7knvTPNU8KBYep"
-        },
-        {
-          "name": "Sahil Vishwakarma",
-          "url": "https://open.spotify.com/artist/3cqINZyIxPLf7qW1cw0mQV"
-        }
-      ],
-      "duration_ms": 222586,
-      "name": "Main Baavri",
-      "url": "https://open.spotify.com/track/1DceX8Q6yDVg3DWH6qhnPT"
-    },
-    {
-      "added_at": "2026-10-02 04:30:15",
-      "album": {
         "name": "I Met Her Again",
         "url": "https://open.spotify.com/album/4Vkrye5i3q1Hd5Tb7dfDBy"
       },
@@ -959,30 +971,6 @@
       "duration_ms": 236146,
       "name": "Bairi Piya",
       "url": "https://open.spotify.com/track/7J3gWwFF84eXhB6Ek4ry4N"
-    },
-    {
-      "added_at": "2026-09-25 05:13:09",
-      "album": {
-        "name": "Bandeya",
-        "url": "https://open.spotify.com/album/7hsylLmXblXZNq3Hd8RAcx"
-      },
-      "artists": [
-        {
-          "name": "Sonu Nigam",
-          "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
-        },
-        {
-          "name": "Rucha",
-          "url": "https://open.spotify.com/artist/0i0whoBGGN3c66BSz2jkPb"
-        },
-        {
-          "name": "Gurman",
-          "url": "https://open.spotify.com/artist/6idSI8A0Mid4mx6GMognXx"
-        }
-      ],
-      "duration_ms": 158601,
-      "name": "Bandeya",
-      "url": "https://open.spotify.com/track/6kqGsYhpZLHvRG9LNOmojW"
     },
     {
       "added_at": "2026-09-25 05:13:09",

@@ -2,9 +2,9 @@
 
 ### [Running Club](https://open.spotify.com/playlist/37i9dQZF1DWT6anPZiHuxz)
 
-> Chasing that runner's high! Countdown to the New York Marathon.
+> Chasing that runner's high!
 
-490 songs - 1 day 2 hr 28 min
+491 songs - 1 day 2 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -344,6 +344,7 @@
 | [Rave Therapy](https://open.spotify.com/track/26SBh3qrxSkpVqLRQkcSbU) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Rave Therapy](https://open.spotify.com/album/0uEiSJnCg3JGlacWk6Slgp) | 2:37 | 2026-09-18 |  |
 | [Red Lights](https://open.spotify.com/track/5L2l7mI8J1USMzhsmdjat9) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [A Town Called Paradise](https://open.spotify.com/album/4SHlBT6B3kL8bdj6X2xHRp) | 4:22 | 2024-01-19 | 2024-10-05 |
 | [Reload \- Radio Edit](https://open.spotify.com/track/5jyUBKpmaH670zrXrE0wmO) | [Sebastian Ingrosso](https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP), [Tommy Trash](https://open.spotify.com/artist/1tBU8jUEdVR3mqSsAqEGfD), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq) | [Reload \(Vocal Version / Radio Edit\)](https://open.spotify.com/album/2UgmfoJF7x7cQmWADnoQdG) | 3:41 | 2024-01-19 |  |
+| [Reload \- swedm® Remix](https://open.spotify.com/track/712AoRHqVcCsiHc3nn4CUK) | [Sebastian Ingrosso](https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP), [Tommy Trash](https://open.spotify.com/artist/1tBU8jUEdVR3mqSsAqEGfD), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq), [swedm®](https://open.spotify.com/artist/0JoFtJei4JUZYBqN0dk8UK) | [Reload \(swedm® Remix\)](https://open.spotify.com/album/3S4SOGuORtJXHy45p1Q951) | 5:54 | 2026-11-13 |  |
 | [Repeaty](https://open.spotify.com/track/4PgcKyByDFEXm5RQA07WD2) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [Open Late](https://open.spotify.com/album/6SrOv99B12ZeggHewdjp56) | 3:56 | 2026-10-23 |  |
 | [Resonate \(feat\. Julia Church\)](https://open.spotify.com/track/2pvQCbUnXHOpAcJOkgAYmZ) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Resonate \(feat\. Julia Church\)](https://open.spotify.com/album/7r9LSib4rKpvAS9hTRt1QJ) | 4:01 | 2024-06-21 | 2024-07-13 |
 | [Rest Of My Life](https://open.spotify.com/track/4OvFFy9nniyG6CsI86yNGL) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Endless Summer](https://open.spotify.com/artist/3E0d6yF8knEtWluzLbxCVA), [Sadie Rose Van](https://open.spotify.com/artist/26WIQmMRRABfsQCIhwtNns) | [Rest Of My Life](https://open.spotify.com/album/7zeA4kJCW5R6Qef90r2zQM) | 3:25 | 2024-01-26 | 2024-11-02 |
@@ -431,7 +432,7 @@
 | [That Acid](https://open.spotify.com/track/5qYT2yz53B2yb5wK7f4goK) | [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5) | [That Acid](https://open.spotify.com/album/1fh6gxJ1fnPhfOosqj20yL) | 2:25 | 2025-08-12 | 2026-05-30 |
 | [that way \- Jonasu Remix](https://open.spotify.com/track/6Asu7oyQxcmONn4HypXV7n) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [Jonasu](https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT) | [that way \(Jonasu Remix\)](https://open.spotify.com/album/14OfY1xDQxV8Ax31LpVSHW) | 2:47 | 2022-08-12 | 2023-02-11 |
 | [That's When You Know](https://open.spotify.com/track/1XhItJSBxL5yKh0V0ymg6D) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [That's When You Know](https://open.spotify.com/album/2XgEVPnq6LHLAKAIJXmlHZ) | 3:13 | 2026-04-17 |  |
-| [The Block](https://open.spotify.com/track/3MnBeb0rOMmrhJ6azyip02) | [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13), [Friction](https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr) | [The Block](https://open.spotify.com/album/4HcwZqnr72ATTGJ8fCaLOR) | 3:25 | 2026-10-16 |  |
+| [The Block](https://open.spotify.com/track/3MnBeb0rOMmrhJ6azyip02) | [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13), [Friction](https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr) | [The Block](https://open.spotify.com/album/4HcwZqnr72ATTGJ8fCaLOR) | 3:25 | 2026-10-16 | 2026-11-13 |
 | [The Days \- NOTION Remix](https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8) | [Chrystal](https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK), [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM) | [The Days \(NOTION Remix\)](https://open.spotify.com/album/15gT6ikjvzrlIxQ5eTpqLJ) | 3:53 | 2025-01-17 |  |
 | [the floor \- fred remix](https://open.spotify.com/track/03g9zBj3bCqIuF7KvRw72z) | [Skin On Skin](https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [the floor](https://open.spotify.com/album/6z6zEs1UJmGMxPCT0E5C1L) | 5:41 | 2025-10-17 | 2025-12-06 |
 | [The Music Began To Play](https://open.spotify.com/track/5jOhS3S7vTj9yQ4UmEk8qj) | [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL), [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [The Music Began To Play](https://open.spotify.com/album/1RPFQ2LTLiHL7hxRwL8RZc) | 2:25 | 2024-01-19 | 2024-11-08 |

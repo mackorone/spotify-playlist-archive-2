@@ -433,6 +433,24 @@
     },
     {
       "album": {
+        "name": "Best of It",
+        "url": "https://open.spotify.com/album/5Z1OyunLYvWm78f4EaFU8M"
+      },
+      "artists": [
+        {
+          "name": "Blas\u00e9",
+          "url": "https://open.spotify.com/artist/4PqSBgXKxQuqclKpwB6iuc"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177453,
+      "name": "Best of It",
+      "url": "https://open.spotify.com/track/5m2BZspGkunCWFZcgSOb7u"
+    },
+    {
+      "album": {
         "name": "Bloodline",
         "url": "https://open.spotify.com/album/6w9KqIfC7zIoKmdJgs9yBA"
       },
@@ -1352,7 +1370,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 159807,
       "name": "END OF THE SKY",
       "url": "https://open.spotify.com/track/2laWkyz40Hn8PCodiCTo4Z"

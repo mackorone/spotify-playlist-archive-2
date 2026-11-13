@@ -1,6 +1,6 @@
 {
   "description": "All the classic songs you love\u2014covered. Cover: Brandi Carlile",
-  "num_followers": 710042,
+  "num_followers": 710055,
   "original_name": "Classic Covers",
   "owner": {
     "name": "Spotify",
@@ -659,22 +659,6 @@
     {
       "added_at": "2026-05-08 04:01:55",
       "album": {
-        "name": "Barton Hollow",
-        "url": "https://open.spotify.com/album/3GtyVMEnfmc3rl8pTYBJqi"
-      },
-      "artists": [
-        {
-          "name": "The Civil Wars",
-          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
-        }
-      ],
-      "duration_ms": 185053,
-      "name": "Dance Me to the End of Love - Bonus",
-      "url": "https://open.spotify.com/track/68KCwQ2PNKNT17sEx32DEG"
-    },
-    {
-      "added_at": "2026-05-08 04:01:55",
-      "album": {
         "name": "America",
         "url": "https://open.spotify.com/album/1LbsN7ZwjjnafolKPbnDZK"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 218240,
       "name": "America",
       "url": "https://open.spotify.com/track/228IDYsx1EAHiuh9xLktmj"
+    },
+    {
+      "added_at": "2026-05-08 04:01:55",
+      "album": {
+        "name": "Barton Hollow",
+        "url": "https://open.spotify.com/album/3GtyVMEnfmc3rl8pTYBJqi"
+      },
+      "artists": [
+        {
+          "name": "The Civil Wars",
+          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
+        }
+      ],
+      "duration_ms": 185053,
+      "name": "Dance Me to the End of Love - Bonus",
+      "url": "https://open.spotify.com/track/68KCwQ2PNKNT17sEx32DEG"
     },
     {
       "added_at": "2026-05-08 04:01:55",
@@ -1531,22 +1531,18 @@
     {
       "added_at": "2026-05-08 04:01:55",
       "album": {
-        "name": "When The Levee Breaks",
-        "url": "https://open.spotify.com/album/3IEVZmB4jiRhirv2VVMuSL"
+        "name": "Bell Bottom Blues",
+        "url": "https://open.spotify.com/album/3dvynRPvKrgZWuNHzhzQ55"
       },
       "artists": [
         {
-          "name": "Robert Plant",
-          "url": "https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y"
-        },
-        {
-          "name": "Alison Krauss",
-          "url": "https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG"
+          "name": "Wesley Schultz",
+          "url": "https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX"
         }
       ],
-      "duration_ms": 242884,
-      "name": "When The Levee Breaks",
-      "url": "https://open.spotify.com/track/5YIFfBRujaS2EwF5GCJv0u"
+      "duration_ms": 218893,
+      "name": "Bell Bottom Blues",
+      "url": "https://open.spotify.com/track/2bo2FJBYgcNCfs2NZcVZuN"
     },
     {
       "added_at": "2026-05-08 04:01:55",
@@ -1571,18 +1567,22 @@
     {
       "added_at": "2026-05-08 04:01:55",
       "album": {
-        "name": "Bell Bottom Blues",
-        "url": "https://open.spotify.com/album/3dvynRPvKrgZWuNHzhzQ55"
+        "name": "When The Levee Breaks",
+        "url": "https://open.spotify.com/album/3IEVZmB4jiRhirv2VVMuSL"
       },
       "artists": [
         {
-          "name": "Wesley Schultz",
-          "url": "https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX"
+          "name": "Robert Plant",
+          "url": "https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y"
+        },
+        {
+          "name": "Alison Krauss",
+          "url": "https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG"
         }
       ],
-      "duration_ms": 218893,
-      "name": "Bell Bottom Blues",
-      "url": "https://open.spotify.com/track/2bo2FJBYgcNCfs2NZcVZuN"
+      "duration_ms": 242884,
+      "name": "When The Levee Breaks",
+      "url": "https://open.spotify.com/track/5YIFfBRujaS2EwF5GCJv0u"
     },
     {
       "added_at": "2026-05-08 04:01:55",
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2026-05-08 04:01:55",
       "album": {
-        "name": "Dreams (Lanie's Version)",
-        "url": "https://open.spotify.com/album/0KlsuFkgIWDhHmgJuCxXdb"
-      },
-      "artists": [
-        {
-          "name": "Lanie Gardner",
-          "url": "https://open.spotify.com/artist/5lhCycgJCjQIMpWNk4DycY"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Dreams - Lanie's Version",
-      "url": "https://open.spotify.com/track/2HA6QsvyuQRoYhKoBZdyN2"
-    },
-    {
-      "added_at": "2026-05-08 04:01:55",
-      "album": {
         "name": "You'll Never Walk Alone",
         "url": "https://open.spotify.com/album/7CAxZhdr8hiyDQYJrF8UnM"
       },
@@ -1787,6 +1771,22 @@
       "duration_ms": 118476,
       "name": "You'll Never Walk Alone",
       "url": "https://open.spotify.com/track/1x8Wm6urdzbDZcWpjtIUTK"
+    },
+    {
+      "added_at": "2026-05-08 04:01:55",
+      "album": {
+        "name": "Dreams (Lanie's Version)",
+        "url": "https://open.spotify.com/album/0KlsuFkgIWDhHmgJuCxXdb"
+      },
+      "artists": [
+        {
+          "name": "Lanie Gardner",
+          "url": "https://open.spotify.com/artist/5lhCycgJCjQIMpWNk4DycY"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Dreams - Lanie's Version",
+      "url": "https://open.spotify.com/track/2HA6QsvyuQRoYhKoBZdyN2"
     },
     {
       "added_at": "2026-05-08 04:01:55",

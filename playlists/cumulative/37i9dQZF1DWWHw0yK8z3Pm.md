@@ -2,9 +2,9 @@
 
 ### [Renegades](https://open.spotify.com/playlist/37i9dQZF1DWWHw0yK8z3Pm)
 
-> Fearless sounds at the crossroads of country and folk\. Cover: The Dead South
+> Fearless sounds at the crossroads of country and folk\. Cover: Noeline Hofmann
 
-798 songs - 2 day 0 hr 24 min
+799 songs - 2 day 0 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Black Creek](https://open.spotify.com/track/4jB3Mw900goYibsFAueHph) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [No Place Left to Leave \(2006\)](https://open.spotify.com/album/2dUlzOFbYohtRpYHXklj0K) | 3:32 | 2023-04-21 | 2025-10-18 |
 | [Black Lavender \(ft\. Brittney Spencer\)](https://open.spotify.com/track/3AXNE72mnKIkaT3kigz7q9) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6), [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3) | [Black Lavender \(ft\. Brittney Spencer\)](https://open.spotify.com/album/3Z7VohZSNBdMa3qk67PQ0a) | 3:01 | 2026-06-26 | 2026-08-28 |
 | [Blackjack County Chain](https://open.spotify.com/track/5LXa2KkGzasB6I66RG7Jay) | [Benjamin Dakota Rogers](https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL) | [Blackjack County Chain](https://open.spotify.com/album/0Y4htv2b5SQzLBP9GBckhL) | 2:43 | 2022-07-15 | 2023-01-21 |
+| [Blink of an Eye](https://open.spotify.com/track/2Dh8EwD5TcIEsPASpxrwUm) | [Julian Taylor](https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6) | [Blink of an Eye](https://open.spotify.com/album/1lV6prQWBJ9qFjaNB1wefs) | 3:29 | 2026-11-12 |  |
 | [Bloodline](https://open.spotify.com/track/40ZNzxRpzGOnLw0ylcVueQ) | [Mon Rovîa](https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos) | [Bloodline](https://open.spotify.com/album/7Ln3LF8E2WFUZENabeVuIX) | 3:00 | 2026-01-09 |  |
 | [Bloodline](https://open.spotify.com/track/5oPvYIe6n8qkqooSrejkFh) | [Truman Sinclair](https://open.spotify.com/artist/6blV8nsJMWan2a2sYFyxVG) | [American Recordings](https://open.spotify.com/album/4uc19QGmrmKLoGxTjS94IE) | 3:10 | 2025-02-14 | 2026-04-25 |
 | [Blue Water](https://open.spotify.com/track/4JcHHGalNvDxB0gCpGg1HP) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [Blue Water](https://open.spotify.com/album/22uxBCWF0hwH84VV9O20CB) | 3:08 | 2026-02-20 | 2026-06-05 |
@@ -367,7 +368,7 @@
 | [If It Comes in the Morning](https://open.spotify.com/track/2dKbKigrQtSFGDS8c9L3fJ) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [If It Comes in the Morning](https://open.spotify.com/album/6yBuW4QLmb2rigEMoC1A60) | 4:05 | 2022-05-13 | 2022-06-18 |
 | [If the Loneliness Don't Kill Me](https://open.spotify.com/track/34wCPaOE7dhUUg8DlR5NQ5) | [Whitehorse](https://open.spotify.com/artist/3PSH5PsWfZQiD2wieKU0ss) | [If The Loneliness Don't Kill Me](https://open.spotify.com/album/4ulfhgsUVauXUbSFLJzQiC) | 3:03 | 2022-10-28 | 2023-01-16 |
 | [If the Loneliness Don't Kill Me](https://open.spotify.com/track/6vkbnhLvFFkK9dvxeqnus3) | [Whitehorse](https://open.spotify.com/artist/3PSH5PsWfZQiD2wieKU0ss) | [I'm Not Crying, You're Crying](https://open.spotify.com/album/2yNUReN1do8Qbg6xkfJiw6) | 3:03 | 2022-12-16 | 2023-04-22 |
-| [If There's A Heaven](https://open.spotify.com/track/7lfCazSXAmsNc1bZ3d4zwx) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd) | [If There's A Heaven](https://open.spotify.com/album/2wztGzC37E9wJez5AMCJf3) | 5:01 | 2025-10-03 |  |
+| [If There's A Heaven](https://open.spotify.com/track/7lfCazSXAmsNc1bZ3d4zwx) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd) | [If There's A Heaven](https://open.spotify.com/album/2wztGzC37E9wJez5AMCJf3) | 5:01 | 2025-10-03 | 2026-11-13 |
 | [If You Ain’t In Love By Now](https://open.spotify.com/track/2fvv8455RiAIie3YY6oxxF) | [Thelma & James](https://open.spotify.com/artist/60WW5HfHRijpxoTRlaU8BE) | [If You Ain’t In Love By Now](https://open.spotify.com/album/6CaciMY4uqOM1Dz202symB) | 3:02 | 2026-02-13 |  |
 | [if you wanna know](https://open.spotify.com/track/2raU5tgnnM697qeoIJMEL6) | [Evan Honer](https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP) | [if you wanna know](https://open.spotify.com/album/4aUPBUhqt0jyOhULbLR7K3) | 2:58 | 2026-07-17 |  |
 | [Im Yr Mane](https://open.spotify.com/track/0V3tCYPh0cjbSHGFsUG0zQ) | [Futurebirds](https://open.spotify.com/artist/4Ait1vX2ZaWPrkua8Z664O) | [Far Out Country II](https://open.spotify.com/album/07e18bhZe44A4MykJh8YnI) | 4:03 | 2026-09-11 | 2026-10-24 |

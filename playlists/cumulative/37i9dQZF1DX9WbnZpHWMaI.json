@@ -674,7 +674,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 174566,
       "name": "All In For You (feat. KU\u010cKA)",
       "url": "https://open.spotify.com/track/7dnWj4jcFqGbRhc3eyr66W"
@@ -815,6 +815,24 @@
     },
     {
       "album": {
+        "name": "Amen",
+        "url": "https://open.spotify.com/album/2JYPeLjZU8OSckGI3bmIlJ"
+      },
+      "artists": [
+        {
+          "name": "Kitty Ca$h",
+          "url": "https://open.spotify.com/artist/1WcZXhILKBJktTKnqfjWMT"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280320,
+      "name": "Amen",
+      "url": "https://open.spotify.com/track/4BbYT91rlp5nfVJsFhaTe5"
+    },
+    {
+      "album": {
         "name": "AMNESIA",
         "url": "https://open.spotify.com/album/1QfmD8pxQPt9OwY2G08iVN"
       },
@@ -844,7 +862,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 260500,
       "name": "amor fati",
       "url": "https://open.spotify.com/track/6Q7bsT9gFYXqm6GoEdUG6G"
@@ -2168,7 +2186,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 195183,
       "name": "Built For This",
       "url": "https://open.spotify.com/track/1PpHwZ75m6xGKdjXpaxUua"
@@ -2464,7 +2482,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 316869,
       "name": "can't stop",
       "url": "https://open.spotify.com/track/19jGoaQl5HURwDLeY8Tv9g"
@@ -4747,6 +4765,24 @@
     },
     {
       "album": {
+        "name": "Fall In Love",
+        "url": "https://open.spotify.com/album/3MRa4WJuwYOPdUEwPunFI2"
+      },
+      "artists": [
+        {
+          "name": "Emily Nash",
+          "url": "https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210692,
+      "name": "Fall In Love",
+      "url": "https://open.spotify.com/track/3eCZVp9RZChgSLzC5aYiJL"
+    },
+    {
+      "album": {
         "name": "Fall Into Place",
         "url": "https://open.spotify.com/album/4V60NNPJMG4EM2B1fwbJz9"
       },
@@ -5817,6 +5853,24 @@
     },
     {
       "album": {
+        "name": "flutter",
+        "url": "https://open.spotify.com/album/3GqB9ZrCDNHN0HnDu39mJU"
+      },
+      "artists": [
+        {
+          "name": "frau",
+          "url": "https://open.spotify.com/artist/14E6albdtD5YWzbat5lWKo"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243144,
+      "name": "further from you",
+      "url": "https://open.spotify.com/track/0YsktvaMqVarhfhuqAnhD5"
+    },
+    {
+      "album": {
         "name": "FWTDJ (All Night Long)",
         "url": "https://open.spotify.com/album/1u70efS1IicS42qnwzlWxC"
       },
@@ -6504,7 +6558,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 245500,
       "name": "GTP!",
       "url": "https://open.spotify.com/track/68MUS59if9KQAzGdQKGe5j"
@@ -8875,6 +8929,28 @@
     },
     {
       "album": {
+        "name": "Last All Night",
+        "url": "https://open.spotify.com/album/7D9gg9eLqCOGCvsyvo4kLA"
+      },
+      "artists": [
+        {
+          "name": "Juicy Romance",
+          "url": "https://open.spotify.com/artist/55RZaB7LJnx3sXeyVJXB2e"
+        },
+        {
+          "name": "Azzecca",
+          "url": "https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209885,
+      "name": "Last All Night",
+      "url": "https://open.spotify.com/track/1iUNHk3lN8EZMIhcB68uAc"
+    },
+    {
+      "album": {
         "name": "Last Dance",
         "url": "https://open.spotify.com/album/2JwrSr2KjW2qOYjyH7NHZD"
       },
@@ -10262,6 +10338,24 @@
       "duration_ms": 212903,
       "name": "Monochrome",
       "url": "https://open.spotify.com/track/2kskTbid8dwX2CWRr0PHTI"
+    },
+    {
+      "album": {
+        "name": "Lovestruck",
+        "url": "https://open.spotify.com/album/3xqLxr8m1eopRM4OlAR3wX"
+      },
+      "artists": [
+        {
+          "name": "D'Leesa",
+          "url": "https://open.spotify.com/artist/0G1rpAGzZYHuIf8X0VFF2a"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202058,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/4gEL12We9HXKCV1MyXgLXB"
     },
     {
       "album": {
@@ -11668,7 +11762,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 127986,
       "name": "Party",
       "url": "https://open.spotify.com/track/5Uj8BedbjxzXkeWBocZhAV"
@@ -11864,6 +11958,24 @@
       "duration_ms": 382250,
       "name": "Pink Beluga",
       "url": "https://open.spotify.com/track/66gjsQi1En9ZSyjiTr0gSQ"
+    },
+    {
+      "album": {
+        "name": "Pistachio Milk",
+        "url": "https://open.spotify.com/album/1pEo4QFhJAzVQFzFlqBVmI"
+      },
+      "artists": [
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212784,
+      "name": "Pistachio Milk",
+      "url": "https://open.spotify.com/track/40WtjOQBgEKtmKHCh0mEuL"
     },
     {
       "album": {
@@ -13190,6 +13302,24 @@
       "duration_ms": 275779,
       "name": "SENSE_LESS",
       "url": "https://open.spotify.com/track/1qf65XWPapiV0Tqf6uRqdH"
+    },
+    {
+      "album": {
+        "name": "Separated",
+        "url": "https://open.spotify.com/album/2mCfByJqC4R0I7w1znKToi"
+      },
+      "artists": [
+        {
+          "name": "Amy Wiles",
+          "url": "https://open.spotify.com/artist/4ztolv1NbTfNxSjS1EgtOX"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179172,
+      "name": "Separated",
+      "url": "https://open.spotify.com/track/1TJ0KhLwrbdgHg2ioxfeg9"
     },
     {
       "album": {
@@ -15864,7 +15994,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 151054,
       "name": "Train Of Thought",
       "url": "https://open.spotify.com/track/1zhowQgLDBGUy9WrPzNbv3"

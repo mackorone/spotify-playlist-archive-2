@@ -358,6 +358,32 @@
     {
       "album": {
         "name": "While We Wait 2",
+        "url": "https://open.spotify.com/album/0tmZqPHODtZmBHr3cozsOa"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        },
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        },
+        {
+          "name": "Childofnines",
+          "url": "https://open.spotify.com/artist/6UuZZqzEfbhWEmHyPEizdH"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262455,
+      "name": "Form of You (feat. DESTIN CONRAD & CHILDOFNINES)",
+      "url": "https://open.spotify.com/track/3ygPOFRb3mc8xNfFRMdrfx"
+    },
+    {
+      "album": {
+        "name": "While We Wait 2",
         "url": "https://open.spotify.com/album/6BtMJG0J0QnXIiGRCMgkxA"
       },
       "artists": [
@@ -376,7 +402,7 @@
       ],
       "date_added": "2026-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 262455,
       "name": "Form of You (feat. DESTIN CONRAD & CHILDOFNINES)",
       "url": "https://open.spotify.com/track/5HHQseqhsxImBCNNi7nLVM"

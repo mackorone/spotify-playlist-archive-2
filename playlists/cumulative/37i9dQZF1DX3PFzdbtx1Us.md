@@ -4,7 +4,7 @@
 
 > Ambient piano to help you stay focussed.
 
-425 songs - 17 hr 11 min
+426 songs - 17 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,6 +229,7 @@
 | [little plate](https://open.spotify.com/track/1yqd5CxtQrretfwCvu6Cxk) | [Hiroko Murakami](https://open.spotify.com/artist/2FPMZBH13ARkDrd37sIp13), [Hiroco.M](https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of) | [little plate](https://open.spotify.com/album/0Djm9jXUNQV3yNos33h8lI) | 3:29 | 2024-03-19 |  |
 | [Lo Siento](https://open.spotify.com/track/6HTwYHpvYigjhhvBUsEKcd) | [Algot Brooke](https://open.spotify.com/artist/5jusPffeiBz4RWAvgZK3dC) | [Lo Siento](https://open.spotify.com/album/4dTNDpTsYII6p7fkO8zWqc) | 2:14 | 2023-05-15 | 2025-04-10 |
 | [Lofoten](https://open.spotify.com/track/3cn7PHrN7FdhOrH2wqPeKe) | [Otto Noir](https://open.spotify.com/artist/7mpTE0q7VN3TGP1kpn4uIS) | [Lofoten](https://open.spotify.com/album/0FsLOcwk1jL1yB1e64LKXD) | 2:41 | 2023-05-15 | 2024-02-06 |
+| [Longing](https://open.spotify.com/track/0MVHmSGtQB1cuX56mtJmqo) | [Leonard Anderson](https://open.spotify.com/artist/1cXE0r5JyjFer1EwCcv8zS) | [Longing](https://open.spotify.com/album/0jOrGMPdWJCMQ8QU3VTSVz) | 2:36 | 2026-11-13 |  |
 | [Lost](https://open.spotify.com/track/1zBxAPqR7cAZyRo2XBQFrU) | [Shadow Sirens](https://open.spotify.com/artist/4YSBO6rsLGDqogalXAYJFA) | [Lost](https://open.spotify.com/album/7xHVlsqzstKTkgVrbpgMPH) | 3:27 | 2021-06-27 | 2023-05-16 |
 | [Lost & Found](https://open.spotify.com/track/5UO03m8S0mJKptzwKo5N7c) | [Nora Gray](https://open.spotify.com/artist/6Q2lui7LkSzE2Ah2EG2gla) | [Lost & Found](https://open.spotify.com/album/4LablbSrD01fa943OTlDEZ) | 2:23 | 2023-05-15 | 2025-11-18 |
 | [Lost In The Bookstore](https://open.spotify.com/track/73uNzueWJEr3dwJ4OgcY3I) | [Otto Noir](https://open.spotify.com/artist/7mpTE0q7VN3TGP1kpn4uIS) | [Lost In The Bookstore](https://open.spotify.com/album/37JDScSL8M9XgxL2qINZqT) | 2:51 | 2024-02-05 |  |

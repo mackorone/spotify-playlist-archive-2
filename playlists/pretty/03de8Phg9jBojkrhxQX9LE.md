@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 
 > New music picks every Friday from your friends at Brownies &amp; Lemonade
 
-[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 22,254 likes - 151 songs - 8 hr 27 min
+[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 22,253 likes - 151 songs - 8 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 | 6 | [Give You Love](https://open.spotify.com/track/6Bv6ovdcP1uCEJjnF9qvBg) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT) | [Give You Love](https://open.spotify.com/album/1wNw1N3oGXnGZt0pbUEaJS) | 2:54 |
 | 7 | [Split Signal](https://open.spotify.com/track/1QLPvlwhqNhoEtybsYuO79) | [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn), [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz) | [Split Signal](https://open.spotify.com/album/2fOopypzh9Jm4aPX1Vf5ZP) | 2:59 |
 | 8 | [Come Back To Me](https://open.spotify.com/track/37MdMMy0HtWrPELvMg2lMl) | [Gentlemens Club](https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO) | [Come Back To Me](https://open.spotify.com/album/0EU7Tpq1343mpsaWqNhB4A) | 2:55 |
-| 9 | [Is There Really No Happiness? \- Frost Children Remix](https://open.spotify.com/track/6iXAhlrnNaDDtlSTYDknex) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam), [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag) | [SMILE! :D plus+](https://open.spotify.com/album/7aPEoTeFJSI5TrMqlPRmUK) | 6:08 |
+| 9 | [Is There Really No Happiness? \- Frost Children Remix](https://open.spotify.com/track/6iXAhlrnNaDDtlSTYDknex) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam), [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag) | [SMILE! :D plus+](https://open.spotify.com/album/7aPEoTeFJSI5TrMqlPRmUK) | 6:16 |
 | 10 | [Sludge](https://open.spotify.com/track/1W3ccAbkj7tyiOm7v2wO0z) | [Shades](https://open.spotify.com/artist/3hZYcnuncZYCJzqO9pwpAK), [Eprom](https://open.spotify.com/artist/2c2X6dr1PHctH24BxNOjHi), [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z) | [Sludge](https://open.spotify.com/album/5sdPji7hCiUs2QIKGxJbon) | 2:54 |
 | 11 | [The Return of the OG](https://open.spotify.com/track/1M7Sq0l10P9H4aJ7vaqorv) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS) | [The Return of the OG](https://open.spotify.com/album/0TDzwSBrbIZ3ytK74AIwQ1) | 2:18 |
 | 12 | [Super Hero](https://open.spotify.com/track/6wmZRyXefapsfGeGiLdZnL) | [Ganja White Night](https://open.spotify.com/artist/1a6oIpEh4DGgaqgWg5xwd3) | [Wobble Game](https://open.spotify.com/album/4g8y1iXlwC1A2342UmHA8K) | 3:36 |

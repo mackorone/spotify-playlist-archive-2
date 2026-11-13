@@ -1,6 +1,6 @@
 {
   "description": "Pronto pra pool party? Vem com a gente!",
-  "num_followers": 325602,
+  "num_followers": 325600,
   "original_name": "Festa na Piscina",
   "owner": {
     "name": "Spotify",
@@ -235,18 +235,18 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/12khkvFs0A8wiIYYmRIQgk"
+        "name": "Jogo do Amor",
+        "url": "https://open.spotify.com/album/4njG3ASiYdSUc60uDTvDDS"
       },
       "artists": [
         {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+          "name": "MC Bruninho",
+          "url": "https://open.spotify.com/artist/3shPgAzHMyRwWOkXeoWKeB"
         }
       ],
-      "duration_ms": 192870,
-      "name": "A boba fui eu - Recorded At Mosh Studios, S\u00e3o Paulo",
-      "url": "https://open.spotify.com/track/4Y7ay3naWoluoOM3xIj1UZ"
+      "duration_ms": 144039,
+      "name": "Jogo do Amor",
+      "url": "https://open.spotify.com/track/3MxbRHE1u74SoMNR9iURIZ"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -271,18 +271,18 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
-        "name": "Jogo do Amor",
-        "url": "https://open.spotify.com/album/4njG3ASiYdSUc60uDTvDDS"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/12khkvFs0A8wiIYYmRIQgk"
       },
       "artists": [
         {
-          "name": "MC Bruninho",
-          "url": "https://open.spotify.com/artist/3shPgAzHMyRwWOkXeoWKeB"
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
         }
       ],
-      "duration_ms": 144039,
-      "name": "Jogo do Amor",
-      "url": "https://open.spotify.com/track/3MxbRHE1u74SoMNR9iURIZ"
+      "duration_ms": 192870,
+      "name": "A boba fui eu - Recorded At Mosh Studios, S\u00e3o Paulo",
+      "url": "https://open.spotify.com/track/4Y7ay3naWoluoOM3xIj1UZ"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
-        "name": "A\u00ed Eu Bebo (ao Vivo)",
-        "url": "https://open.spotify.com/album/6xWyByyXTcL2MUSi0mKewj"
-      },
-      "artists": [
-        {
-          "name": "Maiara & Maraisa",
-          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
-        }
-      ],
-      "duration_ms": 173891,
-      "name": "A\u00ed Eu Bebo - Ao Vivo",
-      "url": "https://open.spotify.com/track/6lK3nCiigk34SGqEjpQoqO"
-    },
-    {
-      "added_at": "2023-01-17 01:33:36",
-      "album": {
         "name": "12 Horas",
         "url": "https://open.spotify.com/album/2ook1jniY6KP7rr7xmgpcW"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 240048,
       "name": "12 Horas",
       "url": "https://open.spotify.com/track/7B826fTyDa3DkjnKpOgXFo"
+    },
+    {
+      "added_at": "2023-01-17 01:33:36",
+      "album": {
+        "name": "A\u00ed Eu Bebo (ao Vivo)",
+        "url": "https://open.spotify.com/album/6xWyByyXTcL2MUSi0mKewj"
+      },
+      "artists": [
+        {
+          "name": "Maiara & Maraisa",
+          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
+        }
+      ],
+      "duration_ms": 173891,
+      "name": "A\u00ed Eu Bebo - Ao Vivo",
+      "url": "https://open.spotify.com/track/6lK3nCiigk34SGqEjpQoqO"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
-        "name": "Cobertor de Orelha (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6BFfpdvgimAEgtS8szfesm"
-      },
-      "artists": [
-        {
-          "name": "Turma do Pagode",
-          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
-        }
-      ],
-      "duration_ms": 156921,
-      "name": "Cobertor de Orelha - Ao Vivo",
-      "url": "https://open.spotify.com/track/5tDIwLvi7AaoY4pkA7pUBv"
-    },
-    {
-      "added_at": "2023-01-17 01:33:36",
-      "album": {
         "name": "Tudo Ok",
         "url": "https://open.spotify.com/album/33h1DnrztGgynGDWwzQEiA"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 178960,
       "name": "Um Brinde (feat. Mar\u00edlia Mendon\u00e7a & Maiara & Maraisa)",
       "url": "https://open.spotify.com/track/6aIrHPvM3l16MeS7iOQRYO"
+    },
+    {
+      "added_at": "2023-01-17 01:33:36",
+      "album": {
+        "name": "Cobertor de Orelha (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6BFfpdvgimAEgtS8szfesm"
+      },
+      "artists": [
+        {
+          "name": "Turma do Pagode",
+          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
+        }
+      ],
+      "duration_ms": 156921,
+      "name": "Cobertor de Orelha - Ao Vivo",
+      "url": "https://open.spotify.com/track/5tDIwLvi7AaoY4pkA7pUBv"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
-        "name": "S\u00f3 Depois do Carnaval",
-        "url": "https://open.spotify.com/album/4UPVYuREwSxXKWtAHlSz7E"
-      },
-      "artists": [
-        {
-          "name": "Lexa",
-          "url": "https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv"
-        }
-      ],
-      "duration_ms": 166666,
-      "name": "S\u00f3 Depois do Carnaval",
-      "url": "https://open.spotify.com/track/6HtVFR6WAeJRgYtleNcEE8"
-    },
-    {
-      "added_at": "2023-01-17 01:33:36",
-      "album": {
         "name": "Solta a batida",
         "url": "https://open.spotify.com/album/37ENHzff2cXEOqVbJ4WjY4"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 169811,
       "name": "Solta a batida",
       "url": "https://open.spotify.com/track/4yjljBusKH0hgsIzHlF85T"
+    },
+    {
+      "added_at": "2023-01-17 01:33:36",
+      "album": {
+        "name": "S\u00f3 Depois do Carnaval",
+        "url": "https://open.spotify.com/album/4UPVYuREwSxXKWtAHlSz7E"
+      },
+      "artists": [
+        {
+          "name": "Lexa",
+          "url": "https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv"
+        }
+      ],
+      "duration_ms": 166666,
+      "name": "S\u00f3 Depois do Carnaval",
+      "url": "https://open.spotify.com/track/6HtVFR6WAeJRgYtleNcEE8"
     },
     {
       "added_at": "2023-01-17 01:33:36",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dvuioZhoLo.md) - [plain]
 
 > New makes old\. Cover: Paige Plaisance
 
-[Spotify](https://open.spotify.com/user/spotify) - 316,061 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 316,066 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dvuioZhoLo.md) - [plain]
 | 21 | [Mississippi](https://open.spotify.com/track/2MzuBHUg1YLezoTZqfBfVl) | [The Cactus Blossoms](https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S) | [You're Dreaming](https://open.spotify.com/album/4qGvK6eH2aTvYIu1WmSSxG) | 4:01 |
 | 22 | [Cardinal Sin \(feat\. Jason Isbell\)](https://open.spotify.com/track/1wU21mCoSc3fc8VZq1WkAn) | [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR), [Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY) | [Cardinal Sin \(feat\. Jason Isbell\)](https://open.spotify.com/album/5bqzhOiZ1j42qcD2oMCh32) | 3:34 |
 | 23 | [Weed Instead of Roses](https://open.spotify.com/track/4VErYdXTSbt5pGa9eZwUFA) | [Ashley Monroe](https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP) | [Like a Rose](https://open.spotify.com/album/35H5tWdoP4xZenoLJBiaGf) | 3:19 |
-| 24 | [My Baby Loves Me](https://open.spotify.com/track/3oBDO2dRQg47wMR2z789Vq) | [Pokey LaFarge](https://open.spotify.com/artist/6hAUCkzZpoYGObd8qFW5TT) | [Rent Money](https://open.spotify.com/album/5EjAUMD7gtVa951fKC8c3h) | 3:05 |
-| 25 | [\(I’m Gonna Get Over This\) Some Day](https://open.spotify.com/track/2cLGgmjT7pQ4MhcwpdqA4E) | [Logan Ledger](https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM) | [Logan Ledger](https://open.spotify.com/album/6unbrJ83ygRGVgd6VeBfQD) | 2:52 |
+| 24 | [\(I’m Gonna Get Over This\) Some Day](https://open.spotify.com/track/2cLGgmjT7pQ4MhcwpdqA4E) | [Logan Ledger](https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM) | [Logan Ledger](https://open.spotify.com/album/6unbrJ83ygRGVgd6VeBfQD) | 2:52 |
+| 25 | [My Baby Loves Me](https://open.spotify.com/track/3oBDO2dRQg47wMR2z789Vq) | [Pokey LaFarge](https://open.spotify.com/artist/6hAUCkzZpoYGObd8qFW5TT) | [Rent Money](https://open.spotify.com/album/5EjAUMD7gtVa951fKC8c3h) | 3:05 |
 | 26 | [You Make Sense To Me](https://open.spotify.com/track/0H2E2WuQocHwRU7hHhZ1Sz) | [Alex Lambert](https://open.spotify.com/artist/6iQBhWmcQcl9s4w1hL5lnN) | [You Make Sense To Me](https://open.spotify.com/album/4WpCPGJZZfQACuLkCxtfAn) | 3:55 |
 | 27 | [Powder Blue](https://open.spotify.com/track/4eml8c7ZKYbMPFNgtfiwou) | [The Cactus Blossoms](https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S) | [You're Dreaming](https://open.spotify.com/album/4qGvK6eH2aTvYIu1WmSSxG) | 2:23 |
 | 28 | [You and I](https://open.spotify.com/track/3veAtMxHWM7SbZOXfJ142t) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [You and I](https://open.spotify.com/album/5ILxuigcogkefZqzMuHU2t) | 2:49 |
@@ -61,17 +61,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dvuioZhoLo.md) - [plain]
 | 51 | [Demons](https://open.spotify.com/track/2tb19wQu9EEK4mFooVSKx8) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Demons](https://open.spotify.com/album/5aGMS2lsapoII9HrZPd3eE) | 4:29 |
 | 52 | [You Don't Scare Me](https://open.spotify.com/track/6gNeydQ1T8JfthxH1PtuxM) | [Whitney Rose](https://open.spotify.com/artist/1kltSDXx78MGhHmxbe35tx) | [Rule 62](https://open.spotify.com/album/2gnifAAMU2Q7A2ZtqNIlAf) | 4:10 |
 | 53 | [Don't Waste Your Prayers](https://open.spotify.com/track/73KH2rdA1bzlIydzmoXJF7) | [Chaparelle](https://open.spotify.com/artist/48c9PKsgH8QMkAN6pg6Xz8) | [Don't Waste Your Prayers](https://open.spotify.com/album/1v3yDVsW0j1D7hVqKrPQqm) | 2:53 |
-| 54 | [Still Miss the Way](https://open.spotify.com/track/0y7ARFCXEDZpAOQDD2lmH0) | [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5) | [With Me in the Summer](https://open.spotify.com/album/1d6S1Z19Ia7xJkVd6ZoOlk) | 3:09 |
-| 55 | [Rootin’ For You](https://open.spotify.com/track/5oUu7vNtAdMQCund3kWJDF) | [Emily Nenni](https://open.spotify.com/artist/63BuZ8jcRTEc8SLZdGlXQy) | [Drive & Cry](https://open.spotify.com/album/3Y0isvmf5SGx5n4TX9pWk2) | 3:23 |
+| 54 | [Rootin’ For You](https://open.spotify.com/track/5oUu7vNtAdMQCund3kWJDF) | [Emily Nenni](https://open.spotify.com/artist/63BuZ8jcRTEc8SLZdGlXQy) | [Drive & Cry](https://open.spotify.com/album/3Y0isvmf5SGx5n4TX9pWk2) | 3:23 |
+| 55 | [Still Miss the Way](https://open.spotify.com/track/0y7ARFCXEDZpAOQDD2lmH0) | [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5) | [With Me in the Summer](https://open.spotify.com/album/1d6S1Z19Ia7xJkVd6ZoOlk) | 3:09 |
 | 56 | [Don't be so hard](https://open.spotify.com/track/4DSOQUiX3PwyoXOKAvySm1) | [Presley Haile](https://open.spotify.com/artist/7ns8HLT4c0KMeGqbk24CiH) | [Hamilton Honey: Part 1](https://open.spotify.com/album/5Nhe3xMXb4tSLGzRHNrAOC) | 3:00 |
 | 57 | [Giddy Up](https://open.spotify.com/track/0ZAkzqCljhDcAOBhemJfs0) | [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [Giddy Up](https://open.spotify.com/album/4PmXzKdrmohY9hqUenv2cl) | 3:01 |
 | 58 | [Tumbleweeds and Chewing Gum](https://open.spotify.com/track/6KvzXZ70HTT3sLd9iYxZJY) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Tumbleweeds and Chewing Gum](https://open.spotify.com/album/06POsA4cWPeLqwEZRg1rJl) | 2:39 |
 | 59 | [Too Late to Write a Love Song](https://open.spotify.com/track/0waQPHO2e0G3NK8QtOBM1b) | [Riddy Arman](https://open.spotify.com/artist/0h1dIjLACuc4yDLePjLT42) | [Riddy Arman](https://open.spotify.com/album/2WtTw0kbBBF9tSLXajwney) | 3:14 |
-| 60 | [Hold The Door](https://open.spotify.com/track/2DRuowrzKYz6tmTmGPf97X) | [Cassandra Lewis](https://open.spotify.com/artist/6L4uAq1cqOvoRIQrXST4nw) | [Lost in a Dream](https://open.spotify.com/album/0lG1BLwuidgVuiAHmQYmJq) | 4:47 |
-| 61 | [This Masquerade](https://open.spotify.com/track/6NqwctQ0JPaXCwXKZk5wDL) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [This Masquerade](https://open.spotify.com/album/1otvDymvVShCQLgSWp869e) | 3:12 |
+| 60 | [This Masquerade](https://open.spotify.com/track/6NqwctQ0JPaXCwXKZk5wDL) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [This Masquerade](https://open.spotify.com/album/1otvDymvVShCQLgSWp869e) | 3:12 |
+| 61 | [Hold The Door](https://open.spotify.com/track/2DRuowrzKYz6tmTmGPf97X) | [Cassandra Lewis](https://open.spotify.com/artist/6L4uAq1cqOvoRIQrXST4nw) | [Lost in a Dream](https://open.spotify.com/album/0lG1BLwuidgVuiAHmQYmJq) | 4:47 |
 | 62 | [Dry Town](https://open.spotify.com/track/4ki94wKEhXYNW4ywgd4qLs) | [Della Mae](https://open.spotify.com/artist/4v6KHXXFsmn8oREWFyodCh) | [Family Reunion](https://open.spotify.com/album/2rAOtJeqLd0RvfqmHoaYZv) | 2:42 |
-| 63 | [My Heart Skips A Beat](https://open.spotify.com/track/2M2W0AOYzKABAo1CyfZoCE) | [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL) | [The Secret Sisters](https://open.spotify.com/album/4xuicwuqEAjIHe2awEubrI) | 2:23 |
-| 64 | [Under You](https://open.spotify.com/track/6tXqo7GYIZKkRw1FYYChk9) | [Andrew Sa](https://open.spotify.com/artist/6deCLrQTLyZTG8iNpirQ07) | [Under You](https://open.spotify.com/album/0fOqE6VqVqhnUBT0Ebkk86) | 3:48 |
+| 63 | [Under You](https://open.spotify.com/track/6tXqo7GYIZKkRw1FYYChk9) | [Andrew Sa](https://open.spotify.com/artist/6deCLrQTLyZTG8iNpirQ07) | [Under You](https://open.spotify.com/album/0fOqE6VqVqhnUBT0Ebkk86) | 3:48 |
+| 64 | [My Heart Skips A Beat](https://open.spotify.com/track/2M2W0AOYzKABAo1CyfZoCE) | [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL) | [The Secret Sisters](https://open.spotify.com/album/4xuicwuqEAjIHe2awEubrI) | 2:23 |
 | 65 | [Mr\. Jukebox](https://open.spotify.com/track/79aieo5PFnS4w6LhTMP9iL) | [Joshua Hedley](https://open.spotify.com/artist/6OJg4GNkAEtu0cfDVRbnjh) | [Mr\. Jukebox](https://open.spotify.com/album/7Fai0BvZT8jsAviCXysERs) | 3:16 |
 | 66 | [Diamond Joe](https://open.spotify.com/track/4BwPFomd2l0vi31rxmRjka) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Field Recordings, Vol\. 1](https://open.spotify.com/album/2C4pCAR41BjNeDEEn1M7tM) | 2:36 |
 | 67 | [Home With My Dog](https://open.spotify.com/track/53taqmWyUH21RoJmglUoyG) | [Emily Nenni](https://open.spotify.com/artist/63BuZ8jcRTEc8SLZdGlXQy) | [Movin’ Shoes](https://open.spotify.com/album/2sHS3YECiWION4TfBHmkTI) | 4:09 |

@@ -4,7 +4,7 @@
 
 > Electronic music with caffeine.
 
-889 songs - 2 day 1 hr 48 min
+890 songs - 2 day 1 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,6 +207,7 @@
 | [Detergent](https://open.spotify.com/track/1XVrxTGDmkz6SAJtKlwkUi) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Venture](https://open.spotify.com/album/264yiwPhtYskIr546jA9nJ) | 2:15 | 2020-10-20\* | 2021-06-23 |
 | [Determination](https://open.spotify.com/track/3Xxt0tIwZXTAdVGTysU5uy) | [Guille Bianchetti](https://open.spotify.com/artist/3JqwtW5C92SUeX85A9DrRy) | [Determination](https://open.spotify.com/album/71Zr1m0srLoB48UBBMoQ30) | 4:42 | 2022-01-21 | 2022-02-11 |
 | [Deviation](https://open.spotify.com/track/5jAFlzqIDDBJzer8jIrNXT) | [Twelwe](https://open.spotify.com/artist/0cXv4l0iCzhQrRljsAQyQW) | [Deviation](https://open.spotify.com/album/40RIVcikWbOKylm2r3ehbW) | 4:02 | 2020-10-20\* | 2020-10-30 |
+| [Devider](https://open.spotify.com/track/7DicPIIbnIt5obTlUZ8W5B) | [Protier](https://open.spotify.com/artist/0ZmYPydrdLRXjAEM2nCVIp) | [Devider](https://open.spotify.com/album/7vs7itMdDwiObB2L5oFJ8N) | 2:18 | 2026-11-13 |  |
 | [Differentia](https://open.spotify.com/track/7vPDIGMLri3GgfhHERDMMz) | [DEX 1200](https://open.spotify.com/artist/2roONpdgmZHRTpr1IFNw0d) | [Differentia](https://open.spotify.com/album/4YUyPcYe3sp1l44sAhIgLY) | 5:43 | 2021-02-12 | 2021-03-25 |
 | [Dim Visage](https://open.spotify.com/track/2myTGFXobAwBwwt4UIJW5i) | [Latency Bloom](https://open.spotify.com/artist/4XftFgTUJvTtVD9z6Nar2a) | [Dim Visage](https://open.spotify.com/album/1hgiSLCB0yFUn5uABq4XMu) | 2:21 | 2026-02-09 |  |
 | [Dimensions](https://open.spotify.com/track/5rTy1sH9jfGEHzdZ5oUG3P) | [Crade](https://open.spotify.com/artist/0sv3Ei5QResLibVKGeW1HM) | [Dimensions](https://open.spotify.com/album/6908Dm8onq9f0UfdmhFzg2) | 3:16 | 2021-11-10 | 2022-08-05 |

@@ -1,32 +1,28 @@
 {
-  "description": "\u00c2me says love is the dance \ud83d\udc9a metropolis is your home for the best indie dance",
-  "num_followers": 866085,
+  "description": "Yes Boone is our supernova \ud83d\udc99 metropolis is your home for the best indie dance",
+  "num_followers": 866044,
   "original_name": "metropolis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALClQJ9Ev6jFZuTmSknewJ2zzi0l",
+  "snapshot_id": "AAAAAM0foN5XEmIn3GO9tCOKfNpgDSmN",
   "tracks": [
     {
-      "added_at": "2026-11-06 05:01:12",
+      "added_at": "2026-11-13 05:01:44",
       "album": {
-        "name": "Love Is The Dance",
-        "url": "https://open.spotify.com/album/3GMbNTMjPI2gJULzw5RaK5"
+        "name": "Supernova",
+        "url": "https://open.spotify.com/album/3H7VxoxXncUEQ7fo2ok46e"
       },
       "artists": [
         {
-          "name": "\u00c2me",
-          "url": "https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564"
-        },
-        {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+          "name": "Yes Boone",
+          "url": "https://open.spotify.com/artist/38AjHGnP1jV6bCn2fnx4F5"
         }
       ],
-      "duration_ms": 240949,
-      "name": "Raw",
-      "url": "https://open.spotify.com/track/6UJhLeYdYqiEQJGBqBAlSN"
+      "duration_ms": 144375,
+      "name": "Supernova",
+      "url": "https://open.spotify.com/track/6UzH32c5VrLD7bKCQFsg2p"
     },
     {
       "added_at": "2026-10-16 04:02:04",
@@ -49,6 +45,42 @@
       "url": "https://open.spotify.com/track/08DdQe8ybw5ya8ZMeYXkIu"
     },
     {
+      "added_at": "2026-10-23 04:01:15",
+      "album": {
+        "name": "Nothing Changes",
+        "url": "https://open.spotify.com/album/1uR5EH11lHCNol59CRjphz"
+      },
+      "artists": [
+        {
+          "name": "Bluprint",
+          "url": "https://open.spotify.com/artist/4wCBSh6bVNDGxOfnem1F5Z"
+        }
+      ],
+      "duration_ms": 160252,
+      "name": "Nothing Changes",
+      "url": "https://open.spotify.com/track/4VV5M13p97jkMXlIDV7iGq"
+    },
+    {
+      "added_at": "2026-11-13 05:01:44",
+      "album": {
+        "name": "I Should Say It More",
+        "url": "https://open.spotify.com/album/7dpMjwvwPXU4JKeukGNaIF"
+      },
+      "artists": [
+        {
+          "name": "nimino",
+          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
+        },
+        {
+          "name": "Manta",
+          "url": "https://open.spotify.com/artist/6AGlSGZh0z7CwUXEnFYXyJ"
+        }
+      ],
+      "duration_ms": 269538,
+      "name": "I Should Say It More",
+      "url": "https://open.spotify.com/track/0xm1wgBPTMGXLUZklPLnXH"
+    },
+    {
       "added_at": "2026-11-06 05:01:12",
       "album": {
         "name": "Feels Right",
@@ -65,20 +97,24 @@
       "url": "https://open.spotify.com/track/5kQ4PsjOxKx9krM47EB9WE"
     },
     {
-      "added_at": "2026-10-23 04:01:15",
+      "added_at": "2026-11-13 05:01:44",
       "album": {
-        "name": "Nothing Changes",
-        "url": "https://open.spotify.com/album/1uR5EH11lHCNol59CRjphz"
+        "name": "H.E.A.T.",
+        "url": "https://open.spotify.com/album/7EYmbJAgceCwSflqHBP48N"
       },
       "artists": [
         {
-          "name": "Bluprint",
-          "url": "https://open.spotify.com/artist/4wCBSh6bVNDGxOfnem1F5Z"
+          "name": "LOVE LANGUAGE",
+          "url": "https://open.spotify.com/artist/1S6Yd5OflS0VBmlfxlSoTM"
+        },
+        {
+          "name": "Touch The Stars",
+          "url": "https://open.spotify.com/artist/2c9ASmLlNkrlshr8eLyVbl"
         }
       ],
-      "duration_ms": 160252,
-      "name": "Nothing Changes",
-      "url": "https://open.spotify.com/track/4VV5M13p97jkMXlIDV7iGq"
+      "duration_ms": 180553,
+      "name": "H.E.A.T.",
+      "url": "https://open.spotify.com/track/3paBpLSFLutg98N1nCvnOh"
     },
     {
       "added_at": "2026-10-09 04:02:18",
@@ -99,6 +135,82 @@
     {
       "added_at": "2026-11-06 05:01:12",
       "album": {
+        "name": "Blink",
+        "url": "https://open.spotify.com/album/54wLFgxwMZKIUf6Vkqz1G2"
+      },
+      "artists": [
+        {
+          "name": "Holiday87",
+          "url": "https://open.spotify.com/artist/6J1tQCbBjDrdDqBYptHqX3"
+        },
+        {
+          "name": "The Knocks",
+          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
+        }
+      ],
+      "duration_ms": 212422,
+      "name": "Camera Faces",
+      "url": "https://open.spotify.com/track/62WULA62c5tKiLjUNMliGK"
+    },
+    {
+      "added_at": "2026-11-13 05:01:44",
+      "album": {
+        "name": "I Still Want You",
+        "url": "https://open.spotify.com/album/69e5x0yppaBzFl3Qy4AQty"
+      },
+      "artists": [
+        {
+          "name": "No Suits",
+          "url": "https://open.spotify.com/artist/1B62oENW0VGjnBBUvwkYtX"
+        },
+        {
+          "name": "MAE",
+          "url": "https://open.spotify.com/artist/6NfUUJWRYeDZxC8TXfSeKJ"
+        }
+      ],
+      "duration_ms": 196564,
+      "name": "I Still Want You",
+      "url": "https://open.spotify.com/track/13wFtxe5iYKnUEpdnUw9Cx"
+    },
+    {
+      "added_at": "2026-11-06 05:01:12",
+      "album": {
+        "name": "Love Is The Dance",
+        "url": "https://open.spotify.com/album/3GMbNTMjPI2gJULzw5RaK5"
+      },
+      "artists": [
+        {
+          "name": "\u00c2me",
+          "url": "https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564"
+        },
+        {
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+        }
+      ],
+      "duration_ms": 240949,
+      "name": "Raw",
+      "url": "https://open.spotify.com/track/6UJhLeYdYqiEQJGBqBAlSN"
+    },
+    {
+      "added_at": "2026-11-13 05:01:44",
+      "album": {
+        "name": "Memory Signal / Vakata",
+        "url": "https://open.spotify.com/album/5IMzfD9uFN6RUOIhnYzS4h"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "duration_ms": 285825,
+      "name": "Memory Signal",
+      "url": "https://open.spotify.com/track/4M6Yq5V4EFhqq12KDpRqAX"
+    },
+    {
+      "added_at": "2026-11-06 05:01:12",
+      "album": {
         "name": "7LLVSION",
         "url": "https://open.spotify.com/album/5wSAGibWmYqSjEyRDjsm6w"
       },
@@ -115,6 +227,58 @@
       "duration_ms": 251015,
       "name": "Ycore",
       "url": "https://open.spotify.com/track/14em6BQkTHQ3S0cF5lmfd8"
+    },
+    {
+      "added_at": "2026-09-25 04:02:12",
+      "album": {
+        "name": "Loser (Fcukers Remix)",
+        "url": "https://open.spotify.com/album/73YOpL9H4qK72bJdakOzyl"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        },
+        {
+          "name": "Fcukers",
+          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+        }
+      ],
+      "duration_ms": 267616,
+      "name": "Loser (Fcukers Remix)",
+      "url": "https://open.spotify.com/track/5Xr20lO3fb2gLtDOKyF0G5"
+    },
+    {
+      "added_at": "2026-11-13 05:01:44",
+      "album": {
+        "name": "idk wtd",
+        "url": "https://open.spotify.com/album/2wfK1VVlX9o9JDYSkqYP21"
+      },
+      "artists": [
+        {
+          "name": "aka Vinnie",
+          "url": "https://open.spotify.com/artist/6UnSeTHLUTc13ReMW40rJe"
+        }
+      ],
+      "duration_ms": 162667,
+      "name": "idk wtd",
+      "url": "https://open.spotify.com/track/4ZbUjue8DIZxBjsZnnG8Sb"
+    },
+    {
+      "added_at": "2026-11-13 05:01:44",
+      "album": {
+        "name": "tea party",
+        "url": "https://open.spotify.com/album/7rXG9wQpTNZaRE0f0nvRKz"
+      },
+      "artists": [
+        {
+          "name": "moonvine",
+          "url": "https://open.spotify.com/artist/5xSy1py3vJMMbZfwCPZHDF"
+        }
+      ],
+      "duration_ms": 121333,
+      "name": "tea party",
+      "url": "https://open.spotify.com/track/4Ld9itujTC7hLw1eFg1UdW"
     },
     {
       "added_at": "2026-11-06 05:01:12",
@@ -157,24 +321,20 @@
       "url": "https://open.spotify.com/track/1al9nKR0YXCPEX0JbTSIRA"
     },
     {
-      "added_at": "2026-11-06 05:01:12",
+      "added_at": "2026-11-13 05:01:44",
       "album": {
-        "name": "Blink",
-        "url": "https://open.spotify.com/album/54wLFgxwMZKIUf6Vkqz1G2"
+        "name": "Say Less",
+        "url": "https://open.spotify.com/album/1n7pWE38qp1u1XHUgcnONo"
       },
       "artists": [
         {
-          "name": "Holiday87",
-          "url": "https://open.spotify.com/artist/6J1tQCbBjDrdDqBYptHqX3"
-        },
-        {
-          "name": "The Knocks",
-          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
+          "name": "Joshua Idehen",
+          "url": "https://open.spotify.com/artist/3PubLnxnO5N2Avr3UvG1Vc"
         }
       ],
-      "duration_ms": 212422,
-      "name": "Camera Faces",
-      "url": "https://open.spotify.com/track/62WULA62c5tKiLjUNMliGK"
+      "duration_ms": 192929,
+      "name": "Say Less",
+      "url": "https://open.spotify.com/track/1T3rqTJmUAqEb3zevVY8Fr"
     },
     {
       "added_at": "2026-10-09 04:02:18",
@@ -197,40 +357,24 @@
       "url": "https://open.spotify.com/track/2415eI6C0m7OXK7J7vfdWv"
     },
     {
-      "added_at": "2026-10-30 04:01:21",
+      "added_at": "2026-11-13 05:01:44",
       "album": {
-        "name": "(L)ove(I)s(F)or(E)veryone",
-        "url": "https://open.spotify.com/album/6OlizAuU1NhbdlRJF6JPr0"
+        "name": "Like The Summer",
+        "url": "https://open.spotify.com/album/6H3TtLRGBCUof98oCtwfOh"
       },
       "artists": [
         {
-          "name": "Mietze Conte",
-          "url": "https://open.spotify.com/artist/3ETvRzzQK7ppB28GcAE8rN"
-        }
-      ],
-      "duration_ms": 142736,
-      "name": "paper plane",
-      "url": "https://open.spotify.com/track/017dv0X0A4aGefEa5PQPmJ"
-    },
-    {
-      "added_at": "2026-09-25 04:02:12",
-      "album": {
-        "name": "Loser (Fcukers Remix)",
-        "url": "https://open.spotify.com/album/73YOpL9H4qK72bJdakOzyl"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+          "name": "Girls of the Internet",
+          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
         },
         {
-          "name": "Fcukers",
-          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+          "name": "Zoe Kypri",
+          "url": "https://open.spotify.com/artist/0FP3GDsv47TrSrV2elyhWX"
         }
       ],
-      "duration_ms": 267616,
-      "name": "Loser (Fcukers Remix)",
-      "url": "https://open.spotify.com/track/5Xr20lO3fb2gLtDOKyF0G5"
+      "duration_ms": 204080,
+      "name": "Like The Summer",
+      "url": "https://open.spotify.com/track/2n7adwqXvRBHmocg3jvV1x"
     },
     {
       "added_at": "2026-10-30 04:01:21",
@@ -247,6 +391,22 @@
       "duration_ms": 239993,
       "name": "4510",
       "url": "https://open.spotify.com/track/6Jbjy3y0nH2c4E739q6TmC"
+    },
+    {
+      "added_at": "2026-10-30 04:01:21",
+      "album": {
+        "name": "(L)ove(I)s(F)or(E)veryone",
+        "url": "https://open.spotify.com/album/6OlizAuU1NhbdlRJF6JPr0"
+      },
+      "artists": [
+        {
+          "name": "Mietze Conte",
+          "url": "https://open.spotify.com/artist/3ETvRzzQK7ppB28GcAE8rN"
+        }
+      ],
+      "duration_ms": 142736,
+      "name": "paper plane",
+      "url": "https://open.spotify.com/track/017dv0X0A4aGefEa5PQPmJ"
     },
     {
       "added_at": "2026-10-16 04:02:04",
@@ -343,22 +503,6 @@
       "duration_ms": 138400,
       "name": "Makeup",
       "url": "https://open.spotify.com/track/0Lu9mxA97HaRchQ3GJ6BNh"
-    },
-    {
-      "added_at": "2026-10-09 04:02:18",
-      "album": {
-        "name": "Dragonfly",
-        "url": "https://open.spotify.com/album/2oRRPG60CPbHy5FR7rdBxV"
-      },
-      "artists": [
-        {
-          "name": "Holiday87",
-          "url": "https://open.spotify.com/artist/6J1tQCbBjDrdDqBYptHqX3"
-        }
-      ],
-      "duration_ms": 216071,
-      "name": "Dragonfly",
-      "url": "https://open.spotify.com/track/5n2RJzT9qD1PKGZap0uYdR"
     },
     {
       "added_at": "2026-10-23 04:01:15",
@@ -519,22 +663,6 @@
       "duration_ms": 192855,
       "name": "Nosebleeds",
       "url": "https://open.spotify.com/track/4nL8u0wNU4jUPNf0CnKzbp"
-    },
-    {
-      "added_at": "2026-10-16 04:02:04",
-      "album": {
-        "name": "Joker",
-        "url": "https://open.spotify.com/album/1gazlKv32DhgZqByvtP97O"
-      },
-      "artists": [
-        {
-          "name": "PPJ",
-          "url": "https://open.spotify.com/artist/7KuCPW8FtCyMhcPxrxjeyi"
-        }
-      ],
-      "duration_ms": 168946,
-      "name": "T\u00f4 Nem A\u00ed",
-      "url": "https://open.spotify.com/track/2HNF4rAtO8EL5nE9WdvQ4v"
     },
     {
       "added_at": "2026-10-09 04:02:18",
@@ -997,22 +1125,6 @@
       "url": "https://open.spotify.com/track/0c6VeRgmmFBN46EFDwsG41"
     },
     {
-      "added_at": "2026-08-14 04:02:00",
-      "album": {
-        "name": "Sunshine",
-        "url": "https://open.spotify.com/album/6xvFXJsIgOC70xQMwho7do"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 191003,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/07lwMZLo0Nxc01nMXuiVL8"
-    },
-    {
       "added_at": "2026-09-04 04:26:07",
       "album": {
         "name": "What I Feel Inside ?",
@@ -1091,22 +1203,6 @@
       "duration_ms": 221280,
       "name": "Touch",
       "url": "https://open.spotify.com/track/4dcmCYvb3NWBn0MQoVhg6z"
-    },
-    {
-      "added_at": "2026-08-28 04:02:12",
-      "album": {
-        "name": "Moolah",
-        "url": "https://open.spotify.com/album/6vRjPTdMZTgg7i2EUwDBr4"
-      },
-      "artists": [
-        {
-          "name": "Harry Hayes",
-          "url": "https://open.spotify.com/artist/7BBSATOdEaY07XbxlUzfFu"
-        }
-      ],
-      "duration_ms": 167929,
-      "name": "Moolah",
-      "url": "https://open.spotify.com/track/0rhWe6AnzLyusled6mZJHP"
     },
     {
       "added_at": "2026-08-28 04:02:12",
@@ -1229,30 +1325,6 @@
       "url": "https://open.spotify.com/track/66b8n7ZJsl7ztsi4rn2jDg"
     },
     {
-      "added_at": "2026-07-10 04:02:03",
-      "album": {
-        "name": "French Boys",
-        "url": "https://open.spotify.com/album/1YcB3dHmmnNZBvGHzDrRaz"
-      },
-      "artists": [
-        {
-          "name": "Alyz\u00e9e",
-          "url": "https://open.spotify.com/artist/7qVwsLEso0qnI6kYDjNWsO"
-        },
-        {
-          "name": "Tentendo",
-          "url": "https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W"
-        },
-        {
-          "name": "Yazida",
-          "url": "https://open.spotify.com/artist/4XYMiEaq0oqFVyBDPfhUfw"
-        }
-      ],
-      "duration_ms": 180952,
-      "name": "French Boys",
-      "url": "https://open.spotify.com/track/3hCT8pt9PMNBl1iej7NQBu"
-    },
-    {
       "added_at": "2026-08-21 04:02:03",
       "album": {
         "name": "Decoding Birdsong",
@@ -1291,22 +1363,6 @@
       "duration_ms": 206294,
       "name": "can't take this",
       "url": "https://open.spotify.com/track/2Mr5R7A9KR1b5HRZIEBunZ"
-    },
-    {
-      "added_at": "2026-08-21 04:02:03",
-      "album": {
-        "name": "SEETHISTHRU",
-        "url": "https://open.spotify.com/album/6ObXALRks7eET0pVrUr3n5"
-      },
-      "artists": [
-        {
-          "name": "That Franco",
-          "url": "https://open.spotify.com/artist/7g1wGpkV1xFxx6APTrp7bv"
-        }
-      ],
-      "duration_ms": 197744,
-      "name": "SEETHISTHRU",
-      "url": "https://open.spotify.com/track/7KzS1HW4MHcInfVbtrFjkp"
     },
     {
       "added_at": "2026-05-29 04:17:08",
@@ -1485,26 +1541,6 @@
       "url": "https://open.spotify.com/track/20FqWsyuUaQTU5tk4nP6eN"
     },
     {
-      "added_at": "2026-07-24 04:02:32",
-      "album": {
-        "name": "WANNA GET DOWN",
-        "url": "https://open.spotify.com/album/1SLJjtvaq4qVwQPkFv4TUM"
-      },
-      "artists": [
-        {
-          "name": "Jean Tonique",
-          "url": "https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI"
-        },
-        {
-          "name": "Madge",
-          "url": "https://open.spotify.com/artist/2StukZYqvy5IZmVestMrWo"
-        }
-      ],
-      "duration_ms": 192066,
-      "name": "WANNA GET DOWN",
-      "url": "https://open.spotify.com/track/4Hoj7nOogsyeeqoJbiCWcA"
-    },
-    {
       "added_at": "2026-07-10 04:02:03",
       "album": {
         "name": "HUMAN AGAIN",
@@ -1649,22 +1685,6 @@
       "url": "https://open.spotify.com/track/0Wnq7CivkLqb2nBtgej9m0"
     },
     {
-      "added_at": "2026-04-24 04:02:18",
-      "album": {
-        "name": "C'MON",
-        "url": "https://open.spotify.com/album/28KVyJE1pHcXRmE9jfHRIW"
-      },
-      "artists": [
-        {
-          "name": "Aki Oke",
-          "url": "https://open.spotify.com/artist/7d76hQbV3M2NOwec3e16bv"
-        }
-      ],
-      "duration_ms": 217249,
-      "name": "C'MON",
-      "url": "https://open.spotify.com/track/1UdhMXlrK5xeH7cKEdIvRA"
-    },
-    {
       "added_at": "2026-05-15 04:01:39",
       "album": {
         "name": "Anywhere You Go",
@@ -1743,22 +1763,6 @@
       "duration_ms": 171613,
       "name": "if you wanna party, come over to my house",
       "url": "https://open.spotify.com/track/5rBBVYaOqtFS1Dx6MVpr5O"
-    },
-    {
-      "added_at": "2026-04-10 04:02:28",
-      "album": {
-        "name": "Undone",
-        "url": "https://open.spotify.com/album/5HOv3RzSiDLuCFeCygFzAK"
-      },
-      "artists": [
-        {
-          "name": "Alex Frankel",
-          "url": "https://open.spotify.com/artist/7jBVVnSTb10YfTjrw1SjbL"
-        }
-      ],
-      "duration_ms": 200694,
-      "name": "Undone",
-      "url": "https://open.spotify.com/track/5YUeDOmrCNZ9XuVhuA6YRz"
     },
     {
       "added_at": "2026-04-10 04:02:28",

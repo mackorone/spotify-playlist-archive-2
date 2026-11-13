@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 289 likes - 5,562 songs - 12 day 22 hr 55 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 289 likes - 5,567 songs - 12 day 23 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -5570,5 +5570,10 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 5560 | [The Eternal Anchor \(fomo mode\)](https://open.spotify.com/track/0gBG55hKLZpqBMUJmKhGwi) | [The second coast](https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi) | [The architecture of truth](https://open.spotify.com/album/0HHB0GLwTyxZBAz9wQSWP5) | 3:58 |
 | 5561 | [Unshakable Foundation \(fomo mode\)](https://open.spotify.com/track/1Z65Q5ETOtLN17aU6mPs9p) | [The second coast](https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi) | [The architecture of truth](https://open.spotify.com/album/0HHB0GLwTyxZBAz9wQSWP5) | 4:52 |
 | 5562 | [Squalo Balena](https://open.spotify.com/track/20kQD4HWEL80RTHx1NWrB6) | [Jack Vultur](https://open.spotify.com/artist/4UIDVuQxTCzkVVNP2YAMf8) | [Spaziotempo](https://open.spotify.com/album/1aZCwn3hiBwpgYhHiZCqRb) | 5:00 |
+| 5563 | [Glass Teeth](https://open.spotify.com/track/71aF2HWIvljystTBSrg3MK) | [First Fifty Feet](https://open.spotify.com/artist/4AADJVMfOR93MzDAy5hQC8) | [Glass Teeth](https://open.spotify.com/album/7pZdyBsO0GRpEC5fjT0yya) | 3:24 |
+| 5564 | [Memudar](https://open.spotify.com/track/42MN7rZSgf51HjESLwydIm) | [Eklyra](https://open.spotify.com/artist/2ROoPAHDGn6hHs986H0y9V) | [Memudar](https://open.spotify.com/album/5aS3Oc95zN232HjNzk0dWO) | 3:52 |
+| 5565 | [Love & Hate](https://open.spotify.com/track/1BWO0H2dWosBTTCmKEQW23) | [Broken Star](https://open.spotify.com/artist/7jixBxoSPjyr8LXJaa8TX6) | [Love & Hate](https://open.spotify.com/album/4gjZ87DTCkoZ7qlkGGoRdv) | 3:07 |
+| 5566 | [Our last summer together](https://open.spotify.com/track/1P9JNOUO0GqQ2RmN80XH3V) | [Abbracci](https://open.spotify.com/artist/1RxeLo5uBMZHEkMz9O9SPO) | [The end of Summer](https://open.spotify.com/album/2kTwZSU8hZNmAbpFkY77PD) | 4:54 |
+| 5567 | [Autumn leavs](https://open.spotify.com/track/0DFG9MNGSKcoZSbZvqcOuS) | [Abbracci](https://open.spotify.com/artist/1RxeLo5uBMZHEkMz9O9SPO) | [The end of Summer](https://open.spotify.com/album/2kTwZSU8hZNmAbpFkY77PD) | 4:58 |
 
-Snapshot ID: `AAALBXd04ZvoE7RiiyzzG5O/cNW3dnvm`
+Snapshot ID: `AAALCxvhkwPPr/h7ChM0S0alwFWO6QkL`

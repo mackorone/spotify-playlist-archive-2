@@ -4,7 +4,7 @@
 
 > Country music to accompany you on the open road\. Cover: Cody Johnson
 
-451 songs - 1 day 0 hr 53 min
+452 songs - 1 day 0 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,6 +185,7 @@
 | [Hurricane](https://open.spotify.com/track/6xHI9KjUjYT0FPtGO8Mxa1) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [This One's for You](https://open.spotify.com/album/1lhNch5NkOONvFhRPh8qaj) | 3:42 | 2021-12-03 | 2024-08-03 |
 | [I Ain't Comin' Back \(feat\. Post Malone\)](https://open.spotify.com/track/5ceKWhT3J34xxw5uzIzgU9) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [I Ain't Comin' Back](https://open.spotify.com/album/7mY1h0bOuFvMBAyRJ6fxHB) | 2:55 | 2025-06-04 | 2026-09-19 |
 | [I Can't \(feat\. Old Dominion\)](https://open.spotify.com/track/2YoOaGlM2zGpYBanN3AxrV) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R), [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Supernova \(Deluxe\)](https://open.spotify.com/album/7EVVjcblXEwmzOUFSIdExn) | 3:30 | 2021-12-03 | 2022-07-28 |
+| [I Can't Love You Anymore](https://open.spotify.com/track/5aVBxVa0kz9uzv0F4gwdEn) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I Can't Love You Anymore](https://open.spotify.com/album/5BFfobflVIOwebqy5RtBcP) | 3:48 | 2026-11-13 |  |
 | [I Do For You](https://open.spotify.com/track/00Vx3GCkGKFFFzxZprYLfL) | [Dillon Carmichael](https://open.spotify.com/artist/3lvYE3o75PNjyvcKuBPXo6) | [I Do For You](https://open.spotify.com/album/6M3IP41VOfGI2AsCMr3CHy) | 2:54 | 2021-12-03 | 2022-02-27 |
 | [I Don't Know About You](https://open.spotify.com/track/3yOs8FffuG6hPbzQG9lIqV) | [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0) | [Laps Around The Sun](https://open.spotify.com/album/5gzfsecJfxWOdWwnFT7LsR) | 3:27 | 2021-12-03 | 2022-11-15 |
 | [I Get That With You](https://open.spotify.com/track/6o0sttjutkWGYefP7OsaYX) | [Josh Melton](https://open.spotify.com/artist/5l5SDQs2xyEidWQOw3ro6T) | [I Get That With You](https://open.spotify.com/album/5GclVHfgWVglhbVOom2TIx) | 3:09 | 2021-12-03 | 2022-07-19 |
@@ -408,7 +409,7 @@
 | [We Didn't Have Much](https://open.spotify.com/track/0Iuw6WPws324i7G7sCejTX) | [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk) | [Straight Outta The Country](https://open.spotify.com/album/1rW4SdSGRziYMzyteohUwP) | 2:54 | 2021-12-03 |  |
 | [We Got History](https://open.spotify.com/track/6Awl7JBDQjfm7xkS3LkhDi) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [This Is the Heavy](https://open.spotify.com/album/7hWoBHqzfN4QMcVPFSqbBS) | 3:23 | 2023-04-21 |  |
 | [We Ride](https://open.spotify.com/track/72kGuWpRiuA149Bn5lDkIO) | [Bryan Martin](https://open.spotify.com/artist/0ChjBYedhZTQnWZWQYg15U) | [Poets & Old Souls](https://open.spotify.com/album/19X9Ts9AYIRrqthSTf3qss) | 3:08 | 2023-08-01 | 2024-04-19 |
-| [weren't for the wind](https://open.spotify.com/track/4v9alNvEjLjvqo4LNWwswl) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [weren't for the wind](https://open.spotify.com/album/2EaHnwT7NSSG207GN94pfN) | 3:13 | 2025-06-04 |  |
+| [weren't for the wind](https://open.spotify.com/track/4v9alNvEjLjvqo4LNWwswl) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [weren't for the wind](https://open.spotify.com/album/2EaHnwT7NSSG207GN94pfN) | 3:13 | 2025-06-04 | 2026-11-13 |
 | [What A Song Can Do](https://open.spotify.com/track/6370O8YLLVTdcnE457lhhY) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [What A Song Can Do](https://open.spotify.com/album/6WFBqvXyejttGfBbyJllyd) | 3:41 | 2022-05-27 | 2022-07-29 |
 | [What Could've Been](https://open.spotify.com/track/4WWbmSEZTTWfqoOLSW8AMS) | [Gone West](https://open.spotify.com/artist/1dIS2M2CNnqd2ks8Okqi7A) | [What Could've Been](https://open.spotify.com/album/2bjUmxDz33wQ4f6X4Cimdq) | 3:42 | 2021-12-03 | 2022-04-29 |
 | [What I See](https://open.spotify.com/track/4zLh511JiWkVxr5QOUkeVR) | [LANCO](https://open.spotify.com/artist/2lRH2dgU5Kk4Bc5phmII4T) | [Lessons Learned](https://open.spotify.com/album/7ter4I7Qt9UC8RKD4CIpQO) | 3:49 | 2021-12-03 | 2022-02-10 |

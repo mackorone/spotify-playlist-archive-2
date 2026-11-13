@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRdd9noPgqB.md) - [plain]
 
 > La playlist qui fait du bien ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,037 likes - 70 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,045 likes - 70 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRdd9noPgqB.md) - [plain]
 | 6 | [Superstar](https://open.spotify.com/track/4YAMMJJOKgNlIOtrYlvvNp) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Superstar](https://open.spotify.com/album/1AUrq5meJLITlFgraUVuE5) | 2:40 |
 | 7 | [Writing's On The Wall](https://open.spotify.com/track/4mDTqEqt0QHQFPNkz8eHjr) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Kansas Anymore](https://open.spotify.com/album/4OZ6nCbn8w0cHr1m0qiD2s) | 2:49 |
 | 8 | [Madwoman](https://open.spotify.com/track/0UqHzMvRQnaOXEPKgFVhxN) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time: The Final Hour](https://open.spotify.com/album/4DWK6TLXHl1fly2zi5RlO7) | 3:59 |
-| 9 | [Following the Sun](https://open.spotify.com/track/2sFbdDiEDpyCdP5nUCuGBm) | [SUPER\-Hi](https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE), [NEEKA](https://open.spotify.com/artist/1JPZHb1qziDJ05n0a1OvfW) | [Following the Sun](https://open.spotify.com/album/51SEsgwoNiKu8rcZxQTjo4) | 3:25 |
-| 10 | [I Love You](https://open.spotify.com/track/0yXMe310dgpquMTa7OmHKk) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [I Love You](https://open.spotify.com/album/31wXDPNODAAp5v0F9Kq6zZ) | 3:17 |
+| 9 | [I Love You](https://open.spotify.com/track/0yXMe310dgpquMTa7OmHKk) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [I Love You](https://open.spotify.com/album/31wXDPNODAAp5v0F9Kq6zZ) | 3:17 |
+| 10 | [Following the Sun](https://open.spotify.com/track/2sFbdDiEDpyCdP5nUCuGBm) | [SUPER\-Hi](https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE), [NEEKA](https://open.spotify.com/artist/1JPZHb1qziDJ05n0a1OvfW) | [Following the Sun](https://open.spotify.com/album/51SEsgwoNiKu8rcZxQTjo4) | 3:25 |
 | 11 | [Mary Jane](https://open.spotify.com/track/77tzOaMILSpfk1zvnBDrZ1) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Mary Jane](https://open.spotify.com/album/2HfOz1SbaBBaGndKORgwKm) | 2:31 |
 | 12 | [High Hopes 3000](https://open.spotify.com/track/1dKUibfoGwiApjEYJhB9R2) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [High Hopes 3000](https://open.spotify.com/album/1wNw84HV2GGAhuf6ROgRgu) | 4:05 |
 | 13 | [no more regrets](https://open.spotify.com/track/7lgx7t5ZLkdOjiOAjSx9d6) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [no more regrets](https://open.spotify.com/album/5cdZLcELt79qq6zxd0oFkA) | 2:58 |

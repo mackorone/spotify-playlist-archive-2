@@ -4,7 +4,7 @@
 
 > The best pop songs from new, independent artists as chosen by our editors\.  Cover: Magdalene\. Artwork by Paola Saliby
 
-4,686 songs - 9 day 22 hr 43 min
+4,689 songs - 9 day 22 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2055,7 +2055,7 @@
 | [I'm Cool](https://open.spotify.com/track/1wrZa8ypixZWQvpVQaFtH1) | [Jenay Faith](https://open.spotify.com/artist/0Nt64nQH5KlYrgwY8ZEvYo) | [I'm Cool](https://open.spotify.com/album/33LXwFuqBoCYDGv2PMV40b) | 2:59 | 2021-08-05 | 2021-08-26 |
 | [I'm Getting Tired of Me](https://open.spotify.com/track/07WKlkJLhYvLbMrSovouVg) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [I'm Getting Tired of Me](https://open.spotify.com/album/3kTyKUKa5KujzBuWp3qMDa) | 3:36 | 2020-11-27 | 2020-12-08 |
 | [I'M GOOD \(HONEY\)](https://open.spotify.com/track/6aJPNvnIZHA6qgCdTJzh4k) | [CAFE TOKYO](https://open.spotify.com/artist/6O6iCYO5CrnzosokZM0Are) | [I'M GOOD \(HONEY\)](https://open.spotify.com/album/2CXy5p0KrvW81gZU5lHd6l) | 2:59 | 2025-02-19 | 2025-04-03 |
-| [I'M IN THE BAND](https://open.spotify.com/track/4kDpQhtAarLjq35TOG9K63) | [Max Rickun](https://open.spotify.com/artist/5vYA9ABGrLzyBA0bk55VLl) | [I'M IN THE BAND](https://open.spotify.com/album/4RYbnY33qSKP55guw0EsxI) | 3:19 | 2026-09-30 |  |
+| [I'M IN THE BAND](https://open.spotify.com/track/4kDpQhtAarLjq35TOG9K63) | [Max Rickun](https://open.spotify.com/artist/5vYA9ABGrLzyBA0bk55VLl) | [I'M IN THE BAND](https://open.spotify.com/album/4RYbnY33qSKP55guw0EsxI) | 3:19 | 2026-09-30 | 2026-11-13 |
 | [i'm lonely](https://open.spotify.com/track/7v1AvHSQ9L3MHs16dLXJx3) | [Luz](https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c) | [i'm lonely](https://open.spotify.com/album/43aZ0fzBFLHGEeIm7Id1b0) | 3:01 | 2020-12-08 | 2021-01-15 |
 | [I'm losing you](https://open.spotify.com/track/7IgwLaFZtyU78jW13d8qvL) | [Lauren Juzang](https://open.spotify.com/artist/2HCsMc18MHvpDACmNhbpQ5) | [I'm losing you](https://open.spotify.com/album/2UeE8xZZBWXovvhYmuA4d3) | 3:09 | 2026-10-30 |  |
 | [I'm Not A Boy](https://open.spotify.com/track/7GXkoQOJkiWngZMxEVb2pN) | [Tommi Aura](https://open.spotify.com/artist/0RPos3j6vQijjlI0X17k88) | [I'm Not A Boy](https://open.spotify.com/album/6jrqRAx4Ojvr6xGd3bjxlh) | 2:40 | 2024-01-17 | 2024-03-07 |
@@ -2157,7 +2157,7 @@
 | [Incognito](https://open.spotify.com/track/3emj9uYlPymC9wCWPfqihi) | [Raine](https://open.spotify.com/artist/1hxElSEVvcFYd7lTQaTXYG) | [Incognito](https://open.spotify.com/album/1HtSnYl8tUvfs8pVgJN5xz) | 3:26 | 2023-08-16 | 2023-09-14 |
 | [Indigo](https://open.spotify.com/track/4vXmVoQF1ngREaOZNx69Bf) | [Till](https://open.spotify.com/artist/6jb6i2O42Rn8es8RpBLRLa) | [Indigo](https://open.spotify.com/album/6FXqTawC6dbEB4cq0RFIBF) | 3:03 | 2023-06-14 | 2023-09-14 |
 | [Infamous](https://open.spotify.com/track/3I37mrPBvQb9C6n8Ak9XIi) | [Bella Masone](https://open.spotify.com/artist/41CcCGp5xpVte491SpMQJF) | [Call Me Bella](https://open.spotify.com/album/7HuJB1MSPJS3JP8gKYAD73) | 2:57 | 2025-01-08 | 2025-01-23 |
-| [INFINITE SUMMER](https://open.spotify.com/track/5fmUi1YDDi6vTVjpwGGwDK) | [garbagepink](https://open.spotify.com/artist/67JJQ1bAsztm9QUq9OTr1z) | [INFINITE SUMMER](https://open.spotify.com/album/1nup1cxvdRqRbjET5V2YuB) | 2:46 | 2026-09-09 |  |
+| [INFINITE SUMMER](https://open.spotify.com/track/5fmUi1YDDi6vTVjpwGGwDK) | [garbagepink](https://open.spotify.com/artist/67JJQ1bAsztm9QUq9OTr1z) | [INFINITE SUMMER](https://open.spotify.com/album/1nup1cxvdRqRbjET5V2YuB) | 2:46 | 2026-09-09 | 2026-11-13 |
 | [ingrained](https://open.spotify.com/track/0z8c9tITOflVHvum6znURZ) | [KCH](https://open.spotify.com/artist/46uWTUVuDzfIAfiLA8Xfgb) | [my head is a jungle in a deforestation way](https://open.spotify.com/album/1FscXGFbEu6Aaq7FZqeoqd) | 3:23 | 2026-04-15 | 2026-06-25 |
 | [Inject Me](https://open.spotify.com/track/4dGwHglvcnBzANN7uZCHYT) | [Tash Blake](https://open.spotify.com/artist/2BTuO9Djg1SvpQ6fupdlnB) | [Inject Me](https://open.spotify.com/album/6NOxYzzbRk5F60RpRWifNv) | 2:27 | 2023-05-03 | 2023-06-15 |
 | [Ink](https://open.spotify.com/track/0tX3xC5f7NtGheX83Lh6Fr) | [Alice Pisano](https://open.spotify.com/artist/1B52Dud7YBQYoGLt2QxckH) | [Ink](https://open.spotify.com/album/7l2emmevUiiLZYNAenTigJ) | 2:42 | 2022-09-21 | 2022-10-16 |
@@ -3234,8 +3234,10 @@
 | [Popcorn Ceiling \(Anyone, Anyway\)](https://open.spotify.com/track/4V95Jcbcd1R2SGsoarRRQk) | [Ren Martinez](https://open.spotify.com/artist/7jwt0XqTVstELcOeS8F8zf) | [Popcorn Ceiling \(Anyone, Anyway\)](https://open.spotify.com/album/3eGsMi2znPDFg3ldzUpU2x) | 4:06 | 2025-09-24 | 2025-11-20 |
 | [Popsicle](https://open.spotify.com/track/74NL5Ie5ggLQBIqJK1l1MF) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Popsicle](https://open.spotify.com/album/6LsfxTZih135bUPoObrD81) | 1:50 | 2023-05-17 | 2023-08-31 |
 | [Popstar of Your Dreams](https://open.spotify.com/track/2EXoykjKLC5A4RjKs9gpYx) | [Kai Bosch](https://open.spotify.com/artist/6NvsbUgzHkjZK3ZUEWui41) | [Popstar of Your Dreams](https://open.spotify.com/album/3ipC2tIuK15IhTbTPMuxl5) | 3:11 | 2025-04-30 | 2025-06-12 |
+| [Porcelain](https://open.spotify.com/track/0BxQnrSYH2kqwkyjfPmRo0) | [EMMMA](https://open.spotify.com/artist/69BpHcuizlrHOsWhQoIPMd) | [Porcelain](https://open.spotify.com/album/5PzeRMz3t3NQ0YJN5MUwci) | 3:31 | 2026-11-13 |  |
 | [Porcelain](https://open.spotify.com/track/4uiWXurzJvxA3yL1CvJTqo) | [Grace Power](https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP) | [Porcelain](https://open.spotify.com/album/11mxTxpDaTQUINE52Ar98c) | 3:22 | 2026-08-12 |  |
 | [Porn Star](https://open.spotify.com/track/3gb6mXrHtMgHV6XDgFXb60) | [Sydney Ross Mitchell](https://open.spotify.com/artist/6ehbjKYJwaDdHpiw52vdGr) | [Porn Star](https://open.spotify.com/album/50sODBepKvtl2xsK5ni7wU) | 2:34 | 2024-01-10 | 2024-02-22 |
+| [POS](https://open.spotify.com/track/4JZN0ox5209m96xs5Awbet) | [Max Rickun](https://open.spotify.com/artist/5vYA9ABGrLzyBA0bk55VLl) | [POS](https://open.spotify.com/album/3pkwztTPNbNzsjtyMGRHWk) | 3:23 | 2026-11-13 |  |
 | [Postcard](https://open.spotify.com/track/68XQbCzPXP3hsrKO1Bqg66) | [Elise Elvira](https://open.spotify.com/artist/4UgJMtggKFjXHMoTDS5KjU) | [Postcard](https://open.spotify.com/album/1di98tXf4JYIiuOW5BQUDM) | 2:59 | 2026-09-16 | 2026-10-08 |
 | [Poster Girl](https://open.spotify.com/track/3PtstBp4I3hi59Irv4oR0O) | [Lily Ward](https://open.spotify.com/artist/1kYMGmkw8ta4nvMiK0pcdF) | [Poster Girl](https://open.spotify.com/album/6nYZQLpRbZRxZpNLVZgDhu) | 3:14 | 2021-07-16 | 2021-09-16 |
 | [potion](https://open.spotify.com/track/42cTujnWEeALsFQKiKcg6w) | [TEILZ](https://open.spotify.com/artist/5FXeiHtcyalHwoeViwaEno) | [come to mommy](https://open.spotify.com/album/1CyYAGOMbi7szTakqDtt6I) | 2:43 | 2026-10-14 |  |
@@ -3508,7 +3510,7 @@
 | [salut](https://open.spotify.com/track/4Kov3d6fMnBeZuAtio6ES0) | [jungle bobby](https://open.spotify.com/artist/2OOLZKc1j4FoOCHOgGbtRl), [lentra](https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT) | [salut](https://open.spotify.com/album/7td0AcXmNXjfulxGo9AIXk) | 2:22 | 2021-06-03 | 2021-06-18 |
 | [SAME DAMN SONG](https://open.spotify.com/track/1ocrDvt7PiRJC9OoSQNLHf) | [Brendan Bennett](https://open.spotify.com/artist/0lpU3HUAjN8AdjApUJ2ykI) | [SAME DAMN SONG](https://open.spotify.com/album/4BcgMBYOSYiICH7gdyv8Ga) | 2:22 | 2021-03-11 | 2021-04-08 |
 | [Same for Me](https://open.spotify.com/track/7dE9sFfSRbuTehCTziAuXl) | [Emilia Tarrant](https://open.spotify.com/artist/1vf6uDbPOzuzMZAzunyGg0) | [Same for Me](https://open.spotify.com/album/6BnpujdyvUG5pHHI6Dz3Ga) | 3:24 | 2022-07-20 | 2022-09-01 |
-| [same me](https://open.spotify.com/track/7p7ug2fgjS13Muq7dHBUWP) | [Monnie](https://open.spotify.com/artist/15zF5LyP92uIG0bUk8rzOA) | [same me](https://open.spotify.com/album/3wjo43vZ9jQcGh6O0hsjTH) | 3:46 | 2026-08-26 |  |
+| [same me](https://open.spotify.com/track/7p7ug2fgjS13Muq7dHBUWP) | [Monnie](https://open.spotify.com/artist/15zF5LyP92uIG0bUk8rzOA) | [same me](https://open.spotify.com/album/3wjo43vZ9jQcGh6O0hsjTH) | 3:46 | 2026-08-26 | 2026-11-13 |
 | [Same Plot](https://open.spotify.com/track/5R3um5bRV89XYB6stQuTpj) | [Laiko](https://open.spotify.com/artist/0SQAiYrcEsisHTLuDzffgX) | [Same Plot](https://open.spotify.com/album/25XUt5RUrgUDYtHixVNzeF) | 2:01 | 2022-03-16 | 2022-04-14 |
 | [Same Song](https://open.spotify.com/track/6aOCgLtyi4vuXKjZSYXqAF) | [Beatrich](https://open.spotify.com/artist/4R7ILGBgDWUiAT1kWNe90W) | [Same Song](https://open.spotify.com/album/1sAJVlsGOwhvt3JdDioXXr) | 2:39 | 2021-05-20 | 2021-06-18 |
 | [Same Spoon](https://open.spotify.com/track/21E8AG9rDGRtziaFWGf9aU) | [Takkin](https://open.spotify.com/artist/6YJXZoTvzi4NK03J19R73d) | [Same Spoon](https://open.spotify.com/album/1oxzfVto0zDBiZ27QndqL1) | 3:17 | 2022-04-13 | 2022-05-18 |
@@ -4272,6 +4274,7 @@
 | [Tuesday](https://open.spotify.com/track/5nf7yFRhOPGzOJquD1uBVl) | [Raine](https://open.spotify.com/artist/1hxElSEVvcFYd7lTQaTXYG) | [Tuesday](https://open.spotify.com/album/07vujYtuSv4deqB0B4IDpT) | 2:42 | 2023-03-15 | 2023-04-27 |
 | [Tug of War](https://open.spotify.com/track/0UVudocODfeK3ze5LCoVUw) | [MiCCY](https://open.spotify.com/artist/2xN0EuownBIpIUHs8XObm1) | [Tug of War](https://open.spotify.com/album/3Up7OZAHFJIZd7l0s6WbhB) | 2:35 | 2020-10-13\* | 2020-10-22 |
 | [Tulips](https://open.spotify.com/track/2mBbN7mMoWJXduE6T9xuZB) | [Kai Bosch](https://open.spotify.com/artist/6NvsbUgzHkjZK3ZUEWui41) | [Tulips](https://open.spotify.com/album/6EXK2krpifmLZZhJVlEgbv) | 3:18 | 2024-01-17 | 2024-02-29 |
+| [Tulips](https://open.spotify.com/track/4DBuOW3dsfxnky8KqLKdRm) | [Karly Bowman](https://open.spotify.com/artist/6pMnomeWng0MECHaNIYBY6) | [Tulips](https://open.spotify.com/album/3YMgvKKKeyS17ZYRWmu0u8) | 3:13 | 2026-11-13 |  |
 | [Tulog Na \(Asleep\)](https://open.spotify.com/track/35hva8NauuBF6uk4iCCA40) | [Lecx Stacy](https://open.spotify.com/artist/3hf2fbkCVahsazNW73SovO) | [Tulog Na \(Asleep\)](https://open.spotify.com/album/7rqx5k9XZx9FWAvBaRQn6D) | 3:41 | 2021-03-25 | 2021-04-22 |
 | [tulsa](https://open.spotify.com/track/0iesFoMEeh75EmNc5SoDfk) | [dev soter](https://open.spotify.com/artist/72o6x8c93sNk9FjARfRyCy) | [tulsa](https://open.spotify.com/album/4DUAkm9cJKMoXmgwR7AxBl) | 1:57 | 2021-07-22 | 2021-08-12 |
 | [Tune Out](https://open.spotify.com/track/6TNJW7DiT98oZHbsMvuiYB) | [no good](https://open.spotify.com/artist/4TQBssOnDLpMnLN8hdeLKF) | [Tune Out](https://open.spotify.com/album/6n5ZgLo1fGk55N5srhT3vC) | 2:02 | 2023-03-29 | 2023-05-04 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCZGAr5f5XdA.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7v5dzv9oB0T3lZKkN2rduc">Jon Bellion</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,121 likes - 218 songs - 12 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,122 likes - 218 songs - 12 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCZGAr5f5XdA.md) - [plain]
 | 55 | [Luxury](https://open.spotify.com/track/5CgFGKdTn8R5dXGEPEX6Gm) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg), [Audra Mae](https://open.spotify.com/artist/21jPcGkRtUofRVCC8cWHPS) | [The Definition](https://open.spotify.com/album/7EOvtHDxbltA0GNC4mvLAC) | 4:03 |
 | 56 | [Morning In America](https://open.spotify.com/track/2JXNOtb0ANe6MzgRYDQG2J) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [The Human Condition](https://open.spotify.com/album/2jJReDZqTuAxr4R0ItimZc) | 4:25 |
 | 57 | [Wild Dreams \(feat\. Khalid\)](https://open.spotify.com/track/4OSq3SdsA8gdWifORPf3YE) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Love, Damini](https://open.spotify.com/album/53s3xfNBbh5Z0Xv9IXjvi4) | 3:06 |
-| 58 | [iRobot](https://open.spotify.com/track/453QwgDIG95NmmLqSxnPsR) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [The Human Condition](https://open.spotify.com/album/2jJReDZqTuAxr4R0ItimZc) | 3:28 |
-| 59 | [Get By](https://open.spotify.com/track/6Aq8FRLvUNzBNCgCQ3PsXT) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Beautifully Broken](https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3) | 2:40 |
+| 58 | [Get By](https://open.spotify.com/track/6Aq8FRLvUNzBNCgCQ3PsXT) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Beautifully Broken](https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3) | 2:40 |
+| 59 | [iRobot](https://open.spotify.com/track/453QwgDIG95NmmLqSxnPsR) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [The Human Condition](https://open.spotify.com/album/2jJReDZqTuAxr4R0ItimZc) | 3:28 |
 | 60 | [Conversations with my Wife](https://open.spotify.com/track/1EAZ0APxPiVuzDb7R5TfVI) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [Glory Sound Prep](https://open.spotify.com/album/59YYObx9wFEFG5zVdlfwvf) | 3:26 |
 | 61 | [Back to You](https://open.spotify.com/track/6iB4FVNBjXR9M5nhvSlZde) | [Twin Forks](https://open.spotify.com/artist/6GwNGuDRNbx5XwoHQA3QiD) | [Twin Forks](https://open.spotify.com/album/5RtOloqFxDxiJJgAkDqrvZ) | 2:50 |
 | 62 | [The Good In Me](https://open.spotify.com/track/0XA9B3KXLmdgaQ2KcIJa3h) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [The Human Condition](https://open.spotify.com/album/2jJReDZqTuAxr4R0ItimZc) | 3:43 |
@@ -227,4 +227,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCZGAr5f5XdA.md) - [plain]
 | 217 | [Break These Walls](https://open.spotify.com/track/36Z2l0DlYqChUzYMjNqt9s) | [Imua Garza](https://open.spotify.com/artist/3ExFFbNEL1NWmOh9keikr7), [Kamu Sing](https://open.spotify.com/artist/2v97aslimxgi78AWRyqQom) | [Harmony City](https://open.spotify.com/album/1ewpID3ekASORuzC28Lh3K) | 4:00 |
 | 218 | [High Horse](https://open.spotify.com/track/7GMgbF87l9dj8XWLMlehdz) | [The Laissez Fairs](https://open.spotify.com/artist/1J4rwIayXHw7S6oEYBiiuP) | [Empire of Mars](https://open.spotify.com/album/6ukHxOWQZSt7Z2osTmKAGt) | 3:33 |
 
-Snapshot ID: `AchbMAAAAADFtotF+pCSV8HGNqrVhYz6`
+Snapshot ID: `AchglAAAAAC4jYjTUNaO5n4mmqrjw5ce`

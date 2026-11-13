@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-622 songs - 1 day 11 hr 15 min
+623 songs - 1 day 11 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -572,6 +572,7 @@
 | [Unseen](https://open.spotify.com/track/4PNJKxfbMdy8ecH9IfHlm9) | [Dascar](https://open.spotify.com/artist/1iZBGqKBPdZhVYt8O7DkHv) | [Unseen](https://open.spotify.com/album/2p6xnyiunmNlFoqXuJpUyl) | 3:23 | 2025-11-30 | 2026-01-05 |
 | [untitled](https://open.spotify.com/track/0RVvZ8l6MFAEDLpVasrzYa) | [vic hagen](https://open.spotify.com/artist/7iPpuV8sPw5MU1iJvLx8CU) | [untitled](https://open.spotify.com/album/2Sf3u0pwck1BFHuaP4crw3) | 4:04 | 2026-08-03 |  |
 | [Up on the Map \(Bonus\)](https://open.spotify.com/track/1ipZmDA8TRSdWE1X1I2rU1) | [TUFF Cookie Productions](https://open.spotify.com/artist/3hG8Zkj1Vwzrg2LqiPfELU), [Blakestyle](https://open.spotify.com/artist/0YxbMKrZgTOUWYeOdBgdoy) | [TUFF Cookie All\-Stars, Vol\. 1](https://open.spotify.com/album/1zDyXU2vigviLqfeb0r80y) | 2:39 | 2025-11-11 | 2025-12-01 |
+| [Used To Be](https://open.spotify.com/track/3jiX9nLavQLNs0afYgP6Bf) | [Curtis Lee](https://open.spotify.com/artist/5oPWLiR5I9BqjSNgjF7bhD) | [Used To Be](https://open.spotify.com/album/1rrvrkDWzHJasEirfarXl0) | 3:50 | 2026-11-12 |  |
 | [Vacío](https://open.spotify.com/track/25iohMwQe32vaFBdLdIPmx) | [Ay!Pod](https://open.spotify.com/artist/7iooJ1Ud7b6jKPnoaDu0mz) | [Vacío](https://open.spotify.com/album/6DmBFlKWiUukKLkYobKww9) | 3:29 | 2026-03-25 | 2026-05-26 |
 | [Vals de Muertos](https://open.spotify.com/track/0fbYJDN2AphsRkF9rosfjW) | [Brujo Nativo](https://open.spotify.com/artist/0fAQrIC5Rz7nvbUyDV9wCX) | [Vals de Muertos](https://open.spotify.com/album/0XlaajVRABYgWwkTVlLCTd) | 3:45 | 2025-11-03 | 2025-12-01 |
 | [VAMOS!](https://open.spotify.com/track/4HPh05Go7vxyYpqQb3xLs1) | [PeGie](https://open.spotify.com/artist/54TYnbAQnkrjI6ry4eUU6X), [Wszołek](https://open.spotify.com/artist/5EGOQRzEzTxqczyOwRIhKm) | [VAMOS!](https://open.spotify.com/album/0aHzsFNtkvrltOfK1ed20g) | 1:49 | 2025-11-10 | 2025-12-01 |

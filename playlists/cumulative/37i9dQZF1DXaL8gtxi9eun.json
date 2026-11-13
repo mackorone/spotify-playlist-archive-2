@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "\u0643\u0644 \u0645\u0627 \u0647\u0648 \u062c\u062f\u064a\u062f \u0641\u064a \u0639\u0627\u0644\u0645 \u0627\u0644\u0628\u0648\u0628 \u0627\u0644\u0645\u0635\u0631\u064a. \u0627\u0644\u063a\u0644\u0627\u0641: \u062d\u0648\u062f\u0647 \u0648\u062c\u0646\u0627\u062a",
+  "description": "\u0643\u0644 \u0645\u0627 \u0647\u0648 \u062c\u062f\u064a\u062f \u0641\u064a \u0639\u0627\u0644\u0645 \u0627\u0644\u0628\u0648\u0628 \u0627\u0644\u0645\u0635\u0631\u064a. \u0627\u0644\u063a\u0644\u0627\u0641: \u062f\u0646\u064a\u0627 \u0648\u0627\u0626\u0644",
   "name": "\u0628\u0648\u0628 \u062c\u062f\u064a\u062f",
   "tracks": [
     {
@@ -1362,6 +1362,24 @@
       "duration_ms": 213428,
       "name": "Bahki Annak",
       "url": "https://open.spotify.com/track/7MqKFhAg2hHT4ek4bqonoJ"
+    },
+    {
+      "album": {
+        "name": "Bakallem Nafsi",
+        "url": "https://open.spotify.com/album/1yiGfrFYYLRrZhFETZUK74"
+      },
+      "artists": [
+        {
+          "name": "Hamza Namira",
+          "url": "https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149032,
+      "name": "Bakallem Nafsi",
+      "url": "https://open.spotify.com/track/4T72Cl494pSlvShMDlis8z"
     },
     {
       "album": {
@@ -4841,6 +4859,24 @@
     },
     {
       "album": {
+        "name": "MESH SAME3 - \u0645\u0634 \u0633\u0627\u0645\u0639",
+        "url": "https://open.spotify.com/album/6V1NjxxKNXhlFHuhvqSPU2"
+      },
+      "artists": [
+        {
+          "name": "ESS",
+          "url": "https://open.spotify.com/artist/4Ac6dsXygagJvXowyX9btP"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142486,
+      "name": "MESH SAME3 - \u0645\u0634 \u0633\u0627\u0645\u0639",
+      "url": "https://open.spotify.com/track/1jGgbWTCRhtCiFGXSJjyjO"
+    },
+    {
+      "album": {
         "name": "Mesh Tabee3y",
         "url": "https://open.spotify.com/album/6v61DYXmWE0FQtSsu2szS9"
       },
@@ -6437,6 +6473,24 @@
     },
     {
       "album": {
+        "name": "Wahashtny",
+        "url": "https://open.spotify.com/album/4QTbkCUc1PBFz4vWqOG1lc"
+      },
+      "artists": [
+        {
+          "name": "Donia Wael",
+          "url": "https://open.spotify.com/artist/1gUWwjX6wyoX6fOJ4z5Ha1"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194736,
+      "name": "Wahashtny",
+      "url": "https://open.spotify.com/track/4EprVgXSWSaJUVCeZ0IbgV"
+    },
+    {
+      "album": {
         "name": "Wahed Bas",
         "url": "https://open.spotify.com/album/0aOYDx9ERBWahhcF9yQkqb"
       },
@@ -6868,6 +6922,24 @@
       "duration_ms": 233232,
       "name": "Ya Ghayeb",
       "url": "https://open.spotify.com/track/2j4O1Oz0AVTWNLHjhTzBbJ"
+    },
+    {
+      "album": {
+        "name": "Ya Habibi",
+        "url": "https://open.spotify.com/album/6DR8iZGnJYbilbeOQFzUXL"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Basyoni",
+          "url": "https://open.spotify.com/artist/2T6gqh96T1Cy8YfvzEPr49"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155294,
+      "name": "Ya Habibi",
+      "url": "https://open.spotify.com/track/6hlCFBEWlK2T1eTyA0QdaY"
     },
     {
       "album": {
@@ -10582,6 +10654,24 @@
       "duration_ms": 208500,
       "name": "\u064a\u0627 \u0633\u0627\u062a\u0631",
       "url": "https://open.spotify.com/track/2ohn9s2Wuv3XHS4OwOsZ4c"
+    },
+    {
+      "album": {
+        "name": "\u064a\u0627 \u0642\u0644\u0628\u064a \u0628\u0644\u0627\u0634",
+        "url": "https://open.spotify.com/album/5ObK6z7wk6cmiGY1gmkQu2"
+      },
+      "artists": [
+        {
+          "name": "Karim Mohsen",
+          "url": "https://open.spotify.com/artist/56JGGZouDaedckdIuTg98X"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201250,
+      "name": "\u064a\u0627 \u0642\u0644\u0628\u064a \u0628\u0644\u0627\u0634",
+      "url": "https://open.spotify.com/track/2e4wZVcirHAXasVwI4Edea"
     },
     {
       "album": {

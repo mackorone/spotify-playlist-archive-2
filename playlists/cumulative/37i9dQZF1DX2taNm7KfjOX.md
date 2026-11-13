@@ -4,7 +4,7 @@
 
 > Repeat\-free hours of new and beloved indie folk\. Cover: Babehoven
 
-776 songs - 2 day 0 hr 17 min
+777 songs - 2 day 0 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -221,6 +221,7 @@
 | [Everything Is Free \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0mZdT3W9e1UyJlSXMV6xL0) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Spotify Singles](https://open.spotify.com/album/2cWqFyCDTBXrTx5hy86qK5) | 4:25 | 2022-06-24 | 2024-04-19 |
 | [Everything Is Free \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3VB5e3mQF5F0qzX5UD7WIx) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Spotify Singles](https://open.spotify.com/album/1h1Y5FD9Tat1H8t3rHrWu6) | 4:25 | 2021-10-22 | 2022-07-29 |
 | [Everything Looks Better \(In Hindsight\)](https://open.spotify.com/track/4IL5B1c7iUHMA5Rr1ucNo6) | [The Wild Reeds](https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH) | [The World We Built](https://open.spotify.com/album/3Z7jF3AHU6lNKkqDFYCern) | 5:28 | 2021-10-22 | 2024-08-05 |
+| [Everything On Fire](https://open.spotify.com/track/0UQqqjAgaF55dma8PxwMXp) | [Maia Toakley](https://open.spotify.com/artist/1B1J5gTh5qjRAykIQMX8Ka) | [Everything On Fire](https://open.spotify.com/album/3X4JQKQqriikASbUet3yBN) | 3:48 | 2026-11-12 |  |
 | [Exploding](https://open.spotify.com/track/6yNYd418PyTvOM9WkHSUcf) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Exploding](https://open.spotify.com/album/72GQuGC9XNu3WnvOh45KbZ) | 4:01 | 2023-09-22 | 2025-02-08 |
 | [Eye of the Canyon](https://open.spotify.com/track/2dd8AouAUzOXkoeGYj5KXA) | [Boy & Bear](https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6) | [Lost Dreams](https://open.spotify.com/album/6VMaL2uxCKWWFHi1NDIcyz) | 4:11 | 2023-09-15 | 2023-10-11 |
 | [Eyes Wide Open \- From "North Star"](https://open.spotify.com/track/1xkFLx2HwziUgjXrC0Jhw6) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Eyes Wide Open \(From "North Star"\)](https://open.spotify.com/album/2YYpuK6nOd6KJap8X7vzHe) | 3:15 | 2022-01-14 | 2024-01-06 |
@@ -361,7 +362,7 @@
 | [It's Infinite](https://open.spotify.com/track/0W3hYZhMQlXxJFMbcU3OKe) | [Lomelda](https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4) | [Hannah](https://open.spotify.com/album/0xKBSA1TCEAauJkd3s6gfY) | 2:54 | 2023-05-12 | 2024-04-19 |
 | [It's Infinite](https://open.spotify.com/track/6lOHvNgGKFK0HVzSu4HEca) | [Lomelda](https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4) | [It's Infinite](https://open.spotify.com/album/2xTzkPIjEuzHgLFxC1SnRC) | 2:54 | 2021-10-22 | 2022-07-29 |
 | [Javelin](https://open.spotify.com/track/0CyWgKe5ZQ1BVN5Lyp2Z3C) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [Javelin](https://open.spotify.com/album/7nd9mJWgsV8oPY35Dq57eX) | 3:45 | 2026-05-01 | 2026-07-16 |
-| [Jericho Beach](https://open.spotify.com/track/53jyTLOaSpjitcwV3kwczg) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Jericho Beach](https://open.spotify.com/album/3WgUnsJ1FMTyjFr1kR1uZ6) | 2:56 | 2024-01-05 |  |
+| [Jericho Beach](https://open.spotify.com/track/53jyTLOaSpjitcwV3kwczg) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Jericho Beach](https://open.spotify.com/album/3WgUnsJ1FMTyjFr1kR1uZ6) | 2:56 | 2024-01-05 | 2026-11-13 |
 | [Jessie's Comet](https://open.spotify.com/track/73Nc16ELVAtiyqsCy9q5MQ) | [Billianne](https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC) | [Modes of Transportation](https://open.spotify.com/album/1uCP3X06rtmi7P7Dsg1cMD) | 3:30 | 2025-09-22 | 2026-05-16 |
 | [jordan](https://open.spotify.com/track/53SqnMF0OIZtQWyjvQpFqr) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [jordan](https://open.spotify.com/album/6AsNNdORDTgvDgL2Dz2W88) | 4:01 | 2021-10-22 | 2022-07-29 |
 | [jordan](https://open.spotify.com/track/2BGyfq5k9xGO9019bUsYFk) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness](https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ) | 4:01 | 2022-06-24 | 2024-01-06 |

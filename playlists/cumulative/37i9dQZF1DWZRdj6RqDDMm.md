@@ -4,7 +4,7 @@
 
 > Just wanna Praise the Lord and chill\. Here is a perfect one! Cover: Sal Ly
 
-729 songs - 1 day 16 hr 24 min
+731 songs - 1 day 16 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,6 +152,7 @@
 | [Different II](https://open.spotify.com/track/5dkZykEUFRA6SbVnAej4Dc) | [Imancee](https://open.spotify.com/artist/7FMKtYkyh6dGQ7TN1lTzc6), [Blessing Emmanuel](https://open.spotify.com/artist/3bmy26teHjRR7kccIiZJDN) | [Different II](https://open.spotify.com/album/2ziepwCaf8ssdOYEZiNqmh) | 2:25 | 2024-11-22 | 2025-01-10 |
 | [DNA](https://open.spotify.com/track/2yfc79Ai0LwFSFokyEdoVT) | [Benjamin Israel](https://open.spotify.com/artist/5qGo4F4KRcg0fBmJBD2Ubq) | [DNA](https://open.spotify.com/album/4uA9c80POUZ6RsdQuI6Kie) | 5:21 | 2024-04-19 | 2024-07-05 |
 | [DND](https://open.spotify.com/track/6xhbmrgrtaMDouMNx3Ngrh) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Jenge](https://open.spotify.com/artist/7u3MaCiypw3nu7mhEvFtdT), [Lj the Messenger](https://open.spotify.com/artist/1wxZ1Mv6pAQbaqh30Nq6hB) | [DND](https://open.spotify.com/album/505C3EoaHu9vcIaiT4ShrP) | 2:37 | 2024-09-27 | 2025-01-10 |
+| [Do A Work In Me](https://open.spotify.com/track/6JrKAn0TNe84njp5L597M0) | [Kingsley Amiah](https://open.spotify.com/artist/13BrcJ888g2SIrywaVEfCi) | [Do A Work In Me](https://open.spotify.com/album/4irt7LyTKAG3TCd1EYLNX4) | 3:11 | 2026-11-13 |  |
 | [Do You Know Jesus?](https://open.spotify.com/track/2cZuuJ61c7qSct57or0h9Y) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Pillar YRR](https://open.spotify.com/artist/62jRIwQ6eUifptPOGRBHqd), [Lekan Salamii](https://open.spotify.com/artist/2S8pBLSlvmEiRPl2SMPfPB) | [Do You Know Jesus?](https://open.spotify.com/album/7hhYpFCgnlJaSsbuVPHxQq) | 2:35 | 2023-11-24 | 2024-01-26 |
 | [Doh Doh Doh](https://open.spotify.com/track/2lMZGnSWKU9LxUjO5EThrw) | [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8), [Ife](https://open.spotify.com/artist/3n5NBohiciKgl7Y8i4AeyK) | [Doh Doh Doh](https://open.spotify.com/album/5rH09ZUv3nstdF2LtbPvvN) | 2:33 | 2023-11-03 | 2024-06-07 |
 | [Drought Is Over \- Live](https://open.spotify.com/track/4hD3YpKYxanh4n9KyG3c2z) | [WINNER WAYS.](https://open.spotify.com/artist/29L1pzmDzW3P2FmQBovIFK), [Mairos](https://open.spotify.com/artist/6magWqKDY1pnK2maOgtH6s) | [Drought Is Over \(Live\)](https://open.spotify.com/album/2QaERS9ehpJs34yWtznjL8) | 2:37 | 2024-05-17 | 2024-07-05 |
@@ -596,6 +597,7 @@
 | [SURE](https://open.spotify.com/track/0Q9HxCnsukScN8HhStukkJ) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [SURE](https://open.spotify.com/album/0y3P7yCypBWA2Zc5CuTPAQ) | 2:24 | 2025-01-03 | 2025-03-21 |
 | [SURELY \- UNVL' 24](https://open.spotify.com/track/2zTR5has6FHGwdwoi26Apt) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Esua](https://open.spotify.com/artist/4d4PXQtoasXLoQHuguk2U2) | [SURELY \(UNVL' 24\)](https://open.spotify.com/album/0tzCM41z8QPFzQcLiIpWCX) | 2:05 | 2024-09-20 | 2024-11-08 |
 | [Surrender](https://open.spotify.com/track/5SCH6LHRQH3hfmqAlnU1yo) | [Jvson](https://open.spotify.com/artist/0CbUlmC1cMua8bl6aQvP6F) | [Surrender](https://open.spotify.com/album/1MXMfvad0zlEQscHvBZU9h) | 2:52 | 2024-02-09 | 2024-03-22 |
+| [Surrender](https://open.spotify.com/track/48Hi6zY1O22GhUaFUHAvRo) | [Shime Ahua](https://open.spotify.com/artist/10hDEzXFAjeQPXm8fxhds5) | [Surrender](https://open.spotify.com/album/3sN8fndYvbfTXEs9gW7Xet) | 2:18 | 2026-11-13 |  |
 | [Surrounded](https://open.spotify.com/track/5MGzVKz5Tc6SSbeeiZc3sm) | [Omojo](https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC) | [Surrounded By Giants](https://open.spotify.com/album/7xXqifpLuxSIUPv84ZAlnC) | 2:48 | 2026-10-23 |  |
 | [Sweet \- Remix](https://open.spotify.com/track/26mpBVaglCZ1CZ7flEgQIY) | [Maikon West](https://open.spotify.com/artist/3QKJ7PXenJvvf1MiicgBIG), [Lekan Salamii](https://open.spotify.com/artist/2S8pBLSlvmEiRPl2SMPfPB), [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y) | [Sweet \(Remix\)](https://open.spotify.com/album/3MHm7jR2DyqSBy1WbcfB0n) | 3:07 | 2024-03-01 | 2024-06-07 |
 | [Sweet Humans](https://open.spotify.com/track/3YsHPktItHzH9iME3Q7Kej) | [Awinnah](https://open.spotify.com/artist/3VYRqGXzaXMKRSCpx5FIWX) | [Sweet Humans](https://open.spotify.com/album/03YKAs3zrpoXKO4jRTQ5ce) | 2:54 | 2025-04-06 | 2025-05-30 |

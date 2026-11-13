@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avENAAAAAADVUjuSSdnFyyCb40zqyDVZ",
+  "snapshot_id": "avOwAAAAAAANIrP+OYuHJLx+kbjhc2Yn",
   "tracks": [
     {
       "added_at": null,
@@ -111,26 +111,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hero",
-        "url": "https://open.spotify.com/album/6j1ewaeiw48zvPdaC3RK7m"
+        "name": "I Want It All Back",
+        "url": "https://open.spotify.com/album/1qdWoey06aHIvwqWQFCRnQ"
       },
       "artists": [
         {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        },
-        {
-          "name": "J Moss",
-          "url": "https://open.spotify.com/artist/6sj6FGLblnVfktDZPaydWP"
-        },
-        {
           "name": "Tye Tribbett",
           "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        },
+        {
+          "name": "ABLAZE",
+          "url": "https://open.spotify.com/artist/6zudSiQaQJQB8naH5pf65W"
         }
       ],
-      "duration_ms": 407266,
-      "name": "Could've Been (with J Moss & Tye Tribbett)",
-      "url": "https://open.spotify.com/track/4YSzPF7PIahHWHQpyVJPMK"
+      "duration_ms": 273440,
+      "name": "I Want It All Back",
+      "url": "https://open.spotify.com/track/46D6FVbX3BQcTN9Fb6B781"
     },
     {
       "added_at": null,
@@ -151,22 +147,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Want It All Back",
-        "url": "https://open.spotify.com/album/1qdWoey06aHIvwqWQFCRnQ"
+        "name": "Hero",
+        "url": "https://open.spotify.com/album/6j1ewaeiw48zvPdaC3RK7m"
       },
       "artists": [
         {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
         },
         {
-          "name": "ABLAZE",
-          "url": "https://open.spotify.com/artist/6zudSiQaQJQB8naH5pf65W"
+          "name": "J Moss",
+          "url": "https://open.spotify.com/artist/6sj6FGLblnVfktDZPaydWP"
+        },
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
         }
       ],
-      "duration_ms": 273440,
-      "name": "I Want It All Back",
-      "url": "https://open.spotify.com/track/46D6FVbX3BQcTN9Fb6B781"
+      "duration_ms": 407266,
+      "name": "Could've Been (with J Moss & Tye Tribbett)",
+      "url": "https://open.spotify.com/track/4YSzPF7PIahHWHQpyVJPMK"
     },
     {
       "added_at": null,
@@ -615,22 +615,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Duets",
-        "url": "https://open.spotify.com/album/2pn94b30NhIFRdBNI0cvn4"
+        "name": "Victory Live",
+        "url": "https://open.spotify.com/album/14AByKbhJJzkvoY8f5qZuG"
       },
       "artists": [
-        {
-          "name": "Donnie McClurkin",
-          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
-        },
         {
           "name": "Tye Tribbett",
           "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
         }
       ],
-      "duration_ms": 307586,
-      "name": "We Are Victorious (feat. Tye Tribbett)",
-      "url": "https://open.spotify.com/track/3nAL7SbBrEUcDGDAQofFfG"
+      "duration_ms": 307266,
+      "name": "Still Have Joy - Live",
+      "url": "https://open.spotify.com/track/3v8cp4oAUyt3fPWPT2bA3B"
     },
     {
       "added_at": null,
@@ -667,6 +663,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Duets",
+        "url": "https://open.spotify.com/album/2pn94b30NhIFRdBNI0cvn4"
+      },
+      "artists": [
+        {
+          "name": "Donnie McClurkin",
+          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
+        },
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "duration_ms": 307586,
+      "name": "We Are Victorious (feat. Tye Tribbett)",
+      "url": "https://open.spotify.com/track/3nAL7SbBrEUcDGDAQofFfG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Victory Live",
         "url": "https://open.spotify.com/album/14AByKbhJJzkvoY8f5qZuG"
       },
@@ -676,9 +692,9 @@
           "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
         }
       ],
-      "duration_ms": 307266,
-      "name": "Still Have Joy - Live",
-      "url": "https://open.spotify.com/track/3v8cp4oAUyt3fPWPT2bA3B"
+      "duration_ms": 198226,
+      "name": "1-2 (Victory Check) - Live",
+      "url": "https://open.spotify.com/track/5EN0vOxkd5jnh62qvM5BP1"
     },
     {
       "added_at": null,
@@ -699,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fresh",
-        "url": "https://open.spotify.com/album/6XoZ9zBsXQhtXK6j804l5A"
-      },
-      "artists": [
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        }
-      ],
-      "duration_ms": 292813,
-      "name": "Champion",
-      "url": "https://open.spotify.com/track/5jh6FTGuERahsyV7snAdQS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stand out",
         "url": "https://open.spotify.com/album/0eamOeDsOqnsFG1nMJdsHf"
       },
@@ -727,22 +727,6 @@
       "duration_ms": 336080,
       "name": "I Need You",
       "url": "https://open.spotify.com/track/1uR3lbQYM30WYKiA09cehY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Victory Live",
-        "url": "https://open.spotify.com/album/14AByKbhJJzkvoY8f5qZuG"
-      },
-      "artists": [
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        }
-      ],
-      "duration_ms": 198226,
-      "name": "1-2 (Victory Check) - Live",
-      "url": "https://open.spotify.com/track/5EN0vOxkd5jnh62qvM5BP1"
     },
     {
       "added_at": null,
@@ -791,6 +775,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fresh",
+        "url": "https://open.spotify.com/album/6XoZ9zBsXQhtXK6j804l5A"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "duration_ms": 292813,
+      "name": "Champion",
+      "url": "https://open.spotify.com/track/5jh6FTGuERahsyV7snAdQS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Stand out",
         "url": "https://open.spotify.com/album/0eamOeDsOqnsFG1nMJdsHf"
       },
@@ -803,6 +803,26 @@
       "duration_ms": 257733,
       "name": "Let Us Worship",
       "url": "https://open.spotify.com/track/135kZmHIhJhzomzKpV9IVm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Bloody Win (Live)",
+        "url": "https://open.spotify.com/album/4LJMZurhpJDxopsPlwQvqk"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        },
+        {
+          "name": "Lena Byrd-Miles",
+          "url": "https://open.spotify.com/artist/02dokIaBFwqSfAFyU8xWWZ"
+        }
+      ],
+      "duration_ms": 509186,
+      "name": "Out Of Hiding / How He Loves / Good Good Father - Medley/Live",
+      "url": "https://open.spotify.com/track/5LV9XOXzoyYmNnKPVH9wBv"
     },
     {
       "added_at": null,
@@ -835,26 +855,6 @@
       "duration_ms": 360680,
       "name": "My Joy",
       "url": "https://open.spotify.com/track/00tk3yXvbdngvs5nuTysRJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Bloody Win (Live)",
-        "url": "https://open.spotify.com/album/4LJMZurhpJDxopsPlwQvqk"
-      },
-      "artists": [
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        },
-        {
-          "name": "Lena Byrd-Miles",
-          "url": "https://open.spotify.com/artist/02dokIaBFwqSfAFyU8xWWZ"
-        }
-      ],
-      "duration_ms": 509186,
-      "name": "Out Of Hiding / How He Loves / Good Good Father - Medley/Live",
-      "url": "https://open.spotify.com/track/5LV9XOXzoyYmNnKPVH9wBv"
     },
     {
       "added_at": null,

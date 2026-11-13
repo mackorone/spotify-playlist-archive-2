@@ -2188,7 +2188,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 263684,
       "name": "Enta",
       "url": "https://open.spotify.com/track/3ngFB96ifMSfbwcTCvKKSZ"
@@ -2650,7 +2650,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 218213,
       "name": "Haak Glbi",
       "url": "https://open.spotify.com/track/4ZNHWvR3qwB2r91uWFCzfY"
@@ -2974,7 +2974,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 207098,
       "name": "Hawwal",
       "url": "https://open.spotify.com/track/0qsBAxhERLLEPj7orq4euU"
@@ -4776,6 +4776,24 @@
       "duration_ms": 305057,
       "name": "My People And My World",
       "url": "https://open.spotify.com/track/0xPWpqWvI3KSj1kv3SnPjG"
+    },
+    {
+      "album": {
+        "name": "Nabd Al Quloob",
+        "url": "https://open.spotify.com/album/29SJHZ3paLr7LIoeTLbocQ"
+      },
+      "artists": [
+        {
+          "name": "Rashed Al-Majed",
+          "url": "https://open.spotify.com/artist/3bAY4XYwWCUNpuXclgudSX"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260073,
+      "name": "Nabd Al Quloob",
+      "url": "https://open.spotify.com/track/6vZM3vrOVWVQl2I8Je3AZz"
     },
     {
       "album": {
@@ -7225,6 +7243,28 @@
     },
     {
       "album": {
+        "name": "\u062c\u0627\u0643\u0645 \u0623\u0628\u0648 \u0633\u0644\u0645\u0627\u0646",
+        "url": "https://open.spotify.com/album/7KJ4hKCoY5ei8RUQ14bebz"
+      },
+      "artists": [
+        {
+          "name": "Majid Almohandis",
+          "url": "https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj"
+        },
+        {
+          "name": "\u0641\u0631\u0642\u0629 \u0627\u0644\u062f\u0631\u0639\u064a\u0629",
+          "url": "https://open.spotify.com/artist/56eQIB2h6WcKjiAuxir9oT"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 388059,
+      "name": "\u062c\u0627\u0643\u0645 \u0623\u0628\u0648 \u0633\u0644\u0645\u0627\u0646",
+      "url": "https://open.spotify.com/track/2cw26UWRkJg0ng1BZTzVGq"
+    },
+    {
+      "album": {
         "name": "\u062c\u0645\u0627\u0644\u0647",
         "url": "https://open.spotify.com/album/5YDNtwvDQbQObi32lPZqq1"
       },
@@ -7946,6 +7986,28 @@
       "duration_ms": 230619,
       "name": "\u0639\u0631\u0634 \u0628\u0644\u0642\u064a\u0633",
       "url": "https://open.spotify.com/track/1sA87h1EcFMsQ3tOA5fYSF"
+    },
+    {
+      "album": {
+        "name": "\u0639\u0632\u0645 \u0627\u0644\u0633\u0639\u0648\u062f\u064a \u0645\u0627 \u064a\u0644\u064a\u0646",
+        "url": "https://open.spotify.com/album/2iTRIjC4ayXyUzpRUxxogN"
+      },
+      "artists": [
+        {
+          "name": "Mohammed Abdu",
+          "url": "https://open.spotify.com/artist/3byKtMzSP9AhdnWbWz7geB"
+        },
+        {
+          "name": "Rabeh Saqer",
+          "url": "https://open.spotify.com/artist/13xKnb7dAum7ShcsxQA5v2"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272254,
+      "name": "\u0639\u0632\u0645 \u0627\u0644\u0633\u0639\u0648\u062f\u064a \u0645\u0627 \u064a\u0644\u064a\u0646",
+      "url": "https://open.spotify.com/track/7vtOJhQF0KU5zEC9cLZa2F"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The perfect mix of current Latin Pop hits! Enjoy Shakira, TINI, Camilo, Milo J, Emilia, Manuel Turizo, Maluma, Rauw Alejandro, Mon Laferte and more!!! Cover: Emilia
 
-1,068 songs - 2 day 8 hr 51 min
+1,069 songs - 2 day 8 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -365,6 +365,7 @@
 | [Espectacular](https://open.spotify.com/track/4HnuPc5Cng3tbwunyqSMNi) | [Sky Rompiendo](https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Espectacular](https://open.spotify.com/album/2HLdCDKtyV4VxHLYk5xvAS) | 3:05 | 2024-04-19 | 2025-09-12 |
 | [Espina De Rosa \- Spotify Singles](https://open.spotify.com/track/7LRpdP6rxYXPgh9dfjWEat) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2) | [Espina De Rosa \- Spotify Singles](https://open.spotify.com/album/7Hr9xc5g0bm0POgzqC1YHc) | 2:04 | 2022-10-27 | 2023-05-26 |
 | [ESTA ES TU CASA NENA](https://open.spotify.com/track/1be5haaiIQXBp7nQFhhpge) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [ESTA ES TU CASA NENA](https://open.spotify.com/album/39hTQ9G1MhUcDTLZMG3sM5) | 3:29 | 2025-09-12 | 2026-09-19 |
+| [Esta Navidad](https://open.spotify.com/track/51YdMLKoKxQFdj1Q1DXRaI) | [Arthur Hanlon](https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB), [Leslie Grace](https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc) | [Esta Navidad](https://open.spotify.com/album/7DSZVYQr3le9SpX3QYJi8D) | 2:42 | 2026-11-12 |  |
 | [Esta Vida](https://open.spotify.com/track/5OSGdSxtulzlzdPdK2MQJC) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Esta Vida](https://open.spotify.com/album/5C82uAeAwABjDB7lsLL9iL) | 3:29 | 2023-04-14 | 2023-06-03 |
 | [Este Loko](https://open.spotify.com/track/75kntiN9imnekH6siBHc0x) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Este Loko](https://open.spotify.com/album/4V3FlnhiKbllFkqt9mxNnW) | 3:20 | 2022-02-02 | 2023-05-26 |
 | [Esto Se Jodió](https://open.spotify.com/track/1PPJODzFMJ0pnn5DgknzSS) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Esto Se Jodió](https://open.spotify.com/album/0F0A7affQSG3f8yJEH8KlY) | 2:39 | 2024-10-25 |  |

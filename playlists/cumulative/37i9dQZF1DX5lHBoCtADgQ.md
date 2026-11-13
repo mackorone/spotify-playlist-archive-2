@@ -4,7 +4,7 @@
 
 > Enjoy the folk from Punjab\. Cover: Surinder Kaur
 
-141 songs - 8 hr 58 min
+142 songs - 9 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Challa](https://open.spotify.com/track/2rfnZnHrgIpciZb78nWwKX) | [Gurdas Maan](https://open.spotify.com/artist/3ttzOzBpRWRBzhn6thqhdT) | [Laung Da Lishkara \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4qlU0pl3svPl0jArs2Upo7) | 6:46 | 2022-07-16 | 2024-01-08 |
 | [Challa](https://open.spotify.com/track/4Au2BuSo70ozHs8TFE2dwh) | [Gurdas Maan](https://open.spotify.com/artist/3ttzOzBpRWRBzhn6thqhdT) | [Laung Da Lishkara](https://open.spotify.com/album/55LNP0Gwa2VONSPlxbycVW) | 6:46 | 2021-11-03 | 2025-04-19 |
 | [Challa](https://open.spotify.com/track/6kXvZYkGp4dpYOuKfvIEF7) | [Yasir Hussain](https://open.spotify.com/artist/2DtPjAGsvP7LPIMtj0Co1k), [Prabh Grewal](https://open.spotify.com/artist/0gumUSJckNLBtBELSDsWwn) | [Challa](https://open.spotify.com/album/3sENj2hG8yOGtkLHe82MBA) | 3:09 | 2025-07-03 |  |
+| [Challa \- Maati S2](https://open.spotify.com/track/3VIsbOuyLYIEFvXc4Ru42f) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV) | [Challa \(Maati S2\)](https://open.spotify.com/album/0W8K4zTp23jPtP8F0eTKqX) | 4:54 | 2026-11-12 |  |
 | [Challa \- Spotify Singles](https://open.spotify.com/track/3zvzQBIjjVRTdYmsdiBvNm) | [Gurdas Maan](https://open.spotify.com/artist/3ttzOzBpRWRBzhn6thqhdT), [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Challa \- Spotify Singles](https://open.spotify.com/album/3u7kkfoyrcF13kxMn3o23J) | 4:43 | 2023-03-18 |  |
 | [Challa Mera Jee Dhola](https://open.spotify.com/track/5eFYClAF0m6zOjH9JeCByt) | [Annie Ahluwalia](https://open.spotify.com/artist/05K8h7cidaFrQ33vhu6IZ0) | [Challa Mera Jee Dhola](https://open.spotify.com/album/684ZR78vU7xTzpX8Rpad8j) | 3:38 | 2021-11-03 |  |
 | [Challa X Chan Kithan Guzari](https://open.spotify.com/track/2hWNpP7C7mvLTloxpQM9Dw) | [Waqar Khan](https://open.spotify.com/artist/1SNuHi2OFtW7XggF1NbeV9), [Kabul Bukhari](https://open.spotify.com/artist/14KvoiphLvP8UmalvMqT49) | [Challa X Chan Kithan Guzari](https://open.spotify.com/album/34bbYQoSZGbmrSSebFPXxy) | 5:20 | 2025-07-03 | 2026-08-11 |
@@ -144,7 +145,7 @@
 | [Tappe \- From "Rabb Da Radio 2"](https://open.spotify.com/track/30wnxjw4ud9pwuTKSdoqAY) | [Ranjit Bawa](https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Tappe \(From "Rabb Da Radio 2"\)](https://open.spotify.com/album/1qQbdooXXwN1ksUhlTXkyd) | 3:26 | 2025-04-18 |  |
 | [Tere Jeya Hor Disda](https://open.spotify.com/track/3XIi6msH1YV5Nncnz07mIj) | [Siddharth Slathia](https://open.spotify.com/artist/3DYqdRwHGB8fjVO0JqAgN7) | [Tere Jeya Hor Disda](https://open.spotify.com/album/7n5DGiPi4rR8yBnH3I8osc) | 4:35 | 2021-11-03 | 2026-06-07 |
 | [Tu Chann Main Chakor](https://open.spotify.com/track/1U5byvCuDxdweNRQE3e7dh) | [Tanvi Sharma](https://open.spotify.com/artist/3n8g62X5MiJLU2PTUuknN2) | [Folk Colours](https://open.spotify.com/album/42W7F6dBaitbVuHzHmk1dF) | 3:21 | 2024-12-02 | 2025-04-19 |
-| [Tumba \- From "Oye Bhole Oye 2"](https://open.spotify.com/track/4CeNeOiRwEmCLhqpbI4LC7) | [Ghaffar Raghi Group](https://open.spotify.com/artist/2Awd2ab1ZKeqyqEbfkesjr), [Jagjeet Sandhu](https://open.spotify.com/artist/5CzdMEOnnrgrcm5p0TOpoW), [Crowny](https://open.spotify.com/artist/1ff7RRGYaqGGsOpUrEm5un) | [Tumba \(From "Oye Bhole Oye 2"\)](https://open.spotify.com/album/35NQ0cze0eagxsZmvIvfo7) | 3:52 | 2026-06-19 |  |
+| [Tumba \- From "Oye Bhole Oye 2"](https://open.spotify.com/track/4CeNeOiRwEmCLhqpbI4LC7) | [Ghaffar Raghi Group](https://open.spotify.com/artist/2Awd2ab1ZKeqyqEbfkesjr), [Jagjeet Sandhu](https://open.spotify.com/artist/5CzdMEOnnrgrcm5p0TOpoW), [Crowny](https://open.spotify.com/artist/1ff7RRGYaqGGsOpUrEm5un) | [Tumba \(From "Oye Bhole Oye 2"\)](https://open.spotify.com/album/35NQ0cze0eagxsZmvIvfo7) | 3:52 | 2026-06-19 | 2026-11-13 |
 | [Vally](https://open.spotify.com/track/4MaLITvCIHu3SMWYD8FmNI) | [Balkar Ankhila](https://open.spotify.com/artist/73QlE5yHfDqfYGENOTY4be), [Manjinder Gulshan](https://open.spotify.com/artist/6nSGdRvoskYIMt3o68BVrw) | [Vally](https://open.spotify.com/album/7L3RncjV67wG8IEUa9IIPL) | 3:15 | 2024-09-30 | 2025-07-04 |
 | [Ve Gurdit Deya Lalaa](https://open.spotify.com/track/4Xs5ktOy57oQ1hPtLrzcVy) | [Madan Bala Sindhu](https://open.spotify.com/artist/6dZqrn5IBirS8HA3tCPQMv) | [Geet Shagna De](https://open.spotify.com/album/0PrTCTodwMPGbsGWGc6s7j) | 2:30 | 2025-08-14 |  |
 | [Wanga Satrangiyan](https://open.spotify.com/track/5cYxayct1FIWABUGxZTrrW) | [Harbhajan Mann](https://open.spotify.com/artist/6NhiWVGtq25QmacOUbTXKf), [Mannat Noor](https://open.spotify.com/artist/0TxBLummgAxRkxn21HrLDp) | [Wanga Satrangiyan](https://open.spotify.com/album/4Q9YmHhaGHPhyaSuNipCzI) | 3:26 | 2022-05-18 |  |

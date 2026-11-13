@@ -4,7 +4,7 @@
 
 > This is Erykah Badu\. The essential tracks, all in one playlist.
 
-41 songs - 3 hr 5 min
+42 songs - 3 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [I'll Call U Back](https://open.spotify.com/track/6zfVYM5Nne0EzpjzYfJKwp) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [But You Caint Use My Phone \(Mixtape\)](https://open.spotify.com/album/2gc9WOWqVRrGUENUjozcpY) | 1:57 | 2026-11-04 |  |
 | [In Love With You](https://open.spotify.com/track/79UjqYt9MCLlBpzAvaKVJj) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX), [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1) | [Mama's Gun](https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH) | 5:21 | 2026-11-04 |  |
 | [Love Of My Life \(An Ode To Hip Hop\) \- Longer Album Version](https://open.spotify.com/track/0ieS2bue78yadTdPiyzsaO) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX), [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [Go! Common Classics](https://open.spotify.com/album/2IGKisSgNle7264UoY57vO) | 5:37 | 2026-11-04 |  |
+| [Lowkey \(feat\. Erykah Badu\)](https://open.spotify.com/track/6PMb77Py549WyGEDJNAacT) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a), [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [The Album](https://open.spotify.com/album/0BwUN4oXLzs95nE8GO1vrI) | 4:17 | 2026-11-13 |  |
 | [Next 2 U](https://open.spotify.com/track/1JnY7KGXg32YebN0fyLJPD) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Before The World Blows](https://open.spotify.com/album/6eKe5wqXAHA1LLnIwGuaSI) | 2:58 | 2026-11-04 |  |
 | [Next Lifetime](https://open.spotify.com/track/6sIMSl1n3KDPr03Fw8mujd) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Baduizm](https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3) | 6:26 | 2026-11-04 |  |
 | [Next To You](https://open.spotify.com/track/12wvLk3fOmOonVmH0TtQ8L) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Next To You](https://open.spotify.com/album/3w2VgrN4DUnNijMa24X06D) | 4:05 | 2026-11-04 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYS4jYoOYXiN.md) - [plain]
 
 > We like it like that! Cover: Pete Rodriguez
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,146 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,170 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYS4jYoOYXiN.md) - [plain]
 | 13 | [Richie's Jala\-Jala](https://open.spotify.com/track/0QvRbWa5WBhbJtg52GdbJq) | [Richie Ray & Bobby Cruz](https://open.spotify.com/artist/56eTRCwZ13vVWAmrG0dMnq) | [A Lifetime of Hits..\. \(Live At Centro de Bellas Artes, San Juan, Puerto Rico.\)](https://open.spotify.com/album/0u75f0pYJy2cGHNiikXGlz) | 4:57 |
 | 14 | [Pastime Paradise](https://open.spotify.com/track/36LpijZOR2wl2hGmVL1EN0) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D) | [La Cuna](https://open.spotify.com/album/3vcEuGjhuMh3BKNWYBFFqy) | 8:34 |
 | 15 | [Boogaloo Blues](https://open.spotify.com/track/48pCzNTXLLKneVT6Uel2oT) | [Johnny Colon](https://open.spotify.com/artist/4IQvRKcRuA2mzB6lc2E5Pm) | [Boogaloo Blues](https://open.spotify.com/album/1ME1gBqz9bt3A0LXDQYHB4) | 6:51 |
-| 16 | [Micaela](https://open.spotify.com/track/7uOddHRjCk9KE6hDgGB0NG) | [Pete Rodriguez](https://open.spotify.com/artist/76KY8JsK3XMQkjDiRZVprS) | [Fania Signature Vol\. III: Boogaloo](https://open.spotify.com/album/3FZzICWs1LVtzIirWtQLlQ) | 5:24 |
-| 17 | [Guaguancó Triste](https://open.spotify.com/track/6S22eYfhiqVvlTYeSfZwDj) | [Bobby Cruz](https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4), [Ricardo "Richie" Ray](https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc) | [El Bestial Sonido de](https://open.spotify.com/album/75SxVlMzxU5FADaYf12d6f) | 5:23 |
+| 16 | [Guaguancó Triste](https://open.spotify.com/track/6S22eYfhiqVvlTYeSfZwDj) | [Bobby Cruz](https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4), [Ricardo "Richie" Ray](https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc) | [El Bestial Sonido de](https://open.spotify.com/album/75SxVlMzxU5FADaYf12d6f) | 5:23 |
+| 17 | [Micaela](https://open.spotify.com/track/7uOddHRjCk9KE6hDgGB0NG) | [Pete Rodriguez](https://open.spotify.com/artist/76KY8JsK3XMQkjDiRZVprS) | [Fania Signature Vol\. III: Boogaloo](https://open.spotify.com/album/3FZzICWs1LVtzIirWtQLlQ) | 5:24 |
 | 18 | [Cloud Nine](https://open.spotify.com/track/7CRJV0qUMAxftqySiPazpK) | [Mongo Santamaria](https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0) | [Mongo Santamaria's Greatest Hits](https://open.spotify.com/album/0iAuAgfu3aba2ebIBJ63P7) | 5:44 |
 | 19 | [Right On](https://open.spotify.com/track/4V0PNNaNA9PgFC3zVlw8no) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D) | [Barretto Power](https://open.spotify.com/album/5RxIBMJ5ZrQo1YmD1bk9k7) | 2:47 |
 | 20 | [Guaguancó Raro](https://open.spotify.com/track/2p4JCDisy82i1dhZW4v0Pr) | [Ricardo "Richie" Ray](https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc), [Bobby Cruz](https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4) | [Agúzate](https://open.spotify.com/album/2R2Y7hVi5E6mDjepQZYRN4) | 6:21 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYS4jYoOYXiN.md) - [plain]
 | 46 | [Arrecotin Arrecotan](https://open.spotify.com/track/0Fhj9gmYf0BR5aHI2TPhfU) | [Ismael Rivera](https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ) | [Ismael Rivera \- Greatest Hits](https://open.spotify.com/album/5YbhaAh0G06ElvNWvLvRor) | 3:38 |
 | 47 | [Summertime Blues](https://open.spotify.com/track/1e6jHVb4C6ehwXrMgqBk47) | [Lebrón Brothers](https://open.spotify.com/artist/3MeSOWo9ZSTe5Esf66uXam) | [Back On The Streets Of Spanish Harlem](https://open.spotify.com/album/3ea0oHYXJgewFJpRvH7iip) | 4:41 |
 | 48 | [Baby Boogaloo](https://open.spotify.com/track/0ICpJmbN1nZi6LnJtTKcC8) | [Nilo Espinosa y Orquesta](https://open.spotify.com/artist/6eGqK6UncF1x1pF3VB0CZ7) | [¡Gózalo! Vol 1](https://open.spotify.com/album/2sYk4OCqCgZhE3nRevJEMa) | 5:28 |
-| 49 | [Pow Wow](https://open.spotify.com/track/33iZ7YZRt32eqtsRIEe7yj) | [Bobby Marin](https://open.spotify.com/artist/1M6SRxoB7bSY1M8WbwIeF3), [Orchestra Corchado](https://open.spotify.com/artist/1byeIsRSkUbfuvsT9iZMaW) | [Pow Wow](https://open.spotify.com/album/3JZjVes4oar3ZOF3EmToMx) | 3:48 |
-| 50 | [A Deeper Shade Of Soul](https://open.spotify.com/track/3IdSUJXeJ2stlXftRNOh2e) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D) | [Acid](https://open.spotify.com/album/0RpE6Nz3Cyb7gx2CpC5dJn) | 2:48 |
+| 49 | [A Deeper Shade Of Soul](https://open.spotify.com/track/3IdSUJXeJ2stlXftRNOh2e) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D) | [Acid](https://open.spotify.com/album/0RpE6Nz3Cyb7gx2CpC5dJn) | 2:48 |
+| 50 | [Come And Get It](https://open.spotify.com/track/647gi4v4E8zPT0GdiR8MxL) | [Ralph Robles](https://open.spotify.com/artist/6zIVmHQtPA9i2eZRDtWqjV) | [El Barrio](https://open.spotify.com/album/4xGW5NEUTOgeqvYoOCCD0k) | 3:00 |
 
 Snapshot ID: `AAAAAAMsWphEbNAx60wAr4BBzu2k9QTY`

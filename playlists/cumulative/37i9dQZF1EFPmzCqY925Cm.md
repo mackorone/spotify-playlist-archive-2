@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0vazKoFv2TDrHUfBarjJ0n">Boy Blue</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-80 songs - 3 hr 30 min
+81 songs - 3 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Lemon Tree](https://open.spotify.com/track/4g7t4gur0b65QHYjNmq4J5) | [secs on the beach](https://open.spotify.com/artist/5zDEuV2X31GgJ4R0tPosmM) | [Lemon Tree](https://open.spotify.com/album/2TgW5hBwWMUdyc9K1Cuwqt) | 1:54 | 2025-03-28 |  |
 | [London's Calling](https://open.spotify.com/track/6PMc3WtyzVGmnHCEWlmIbW) | [PLVTINUM](https://open.spotify.com/artist/4V2pR2iSd1g0RZCglrP3jn) | [London's Calling](https://open.spotify.com/album/3PeetJ2MUzFszFdrAI8Bda) | 2:23 | 2024-01-29 |  |
 | [Love Me Not](https://open.spotify.com/track/6UumSbVp1ae6IfcOWDo1oL) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Love Me Not](https://open.spotify.com/album/7xUn31DxHbMMH8oNTeI4uh) | 2:20 | 2024-05-10 |  |
+| [LoveLess](https://open.spotify.com/track/6h4rnABR2uej0FPyggLwb6) | [Ellise](https://open.spotify.com/artist/2FovgCfOwN9iqbkCBlKFdT) | [Bedroom Confessional \(xtras\)](https://open.spotify.com/album/3CJE9XPDGX5yXZACVwkEuB) | 3:31 | 2026-11-12 |  |
 | [make u miss me](https://open.spotify.com/track/5NZGTvM5SYxifaJIMz3XZI) | [Kate Peytavin](https://open.spotify.com/artist/6PnD7O3Er35tK4TeFyndOS) | [make u miss me](https://open.spotify.com/album/0USpfZlo9OlFDkNy9cgFR8) | 3:08 | 2024-10-08 |  |
 | [MISS INTERNATIONAL](https://open.spotify.com/track/7q2UiCJ2VYBaWwPh814Ir0) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [CLASSIC](https://open.spotify.com/album/5vA7TtHURjmn49seAAgWCG) | 2:41 | 2026-06-05 |  |
 | [More Than Anybody](https://open.spotify.com/track/4Ts7ndNLTgNXdRRPzmgSDZ) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ), [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Future Renaissance](https://open.spotify.com/album/14WJvgC04sHE4m7HIXZ8Ri) | 2:57 | 2025-07-27 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrH4yMJbkL8.md) - [plain]
 
 > A collection of beautiful songs by Indigenous artists\. Cover: Eadsé
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,451 likes - 39 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,475 likes - 39 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

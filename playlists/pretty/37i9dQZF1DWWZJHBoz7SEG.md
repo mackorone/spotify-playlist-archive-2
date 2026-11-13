@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > En las ultimas del pan de muerto y el pumpkin spice\. Ed Maverick y Little Jesus en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,255,546 likes - 95 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,255,434 likes - 95 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

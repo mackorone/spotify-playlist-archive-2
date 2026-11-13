@@ -1,6 +1,6 @@
 {
   "description": "A collection of feel-good songs from your favorite anime. Illustration by <a href=\"https://www.instagram.com/nostalook7090/\">NOSTALOOK</a>",
-  "num_followers": 279,
+  "num_followers": 308,
   "original_name": "Anime Booster",
   "owner": {
     "name": "Spotify",
@@ -747,22 +747,6 @@
     {
       "added_at": "2026-11-10 14:23:19",
       "album": {
-        "name": "\u30df\u30c3\u30af\u30b9\u30ca\u30c3\u30c4",
-        "url": "https://open.spotify.com/album/3O9SqecmKFv2ZafPKwahtz"
-      },
-      "artists": [
-        {
-          "name": "OFFICIAL HIGE DANDISM",
-          "url": "https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj"
-        }
-      ],
-      "duration_ms": 213438,
-      "name": "\u30df\u30c3\u30af\u30b9\u30ca\u30c3\u30c4",
-      "url": "https://open.spotify.com/track/60ReNXcPcsVFd7nUuQw5HZ"
-    },
-    {
-      "added_at": "2026-11-10 14:23:19",
-      "album": {
         "name": "CASANOVA POSSE",
         "url": "https://open.spotify.com/album/2xfq9tUp4QOlCGT6j4k0g9"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 240666,
       "name": "CASANOVA POSSE",
       "url": "https://open.spotify.com/track/26Lip4WX1oWceF9tb8m2qw"
+    },
+    {
+      "added_at": "2026-11-10 14:23:19",
+      "album": {
+        "name": "\u30df\u30c3\u30af\u30b9\u30ca\u30c3\u30c4",
+        "url": "https://open.spotify.com/album/3O9SqecmKFv2ZafPKwahtz"
+      },
+      "artists": [
+        {
+          "name": "OFFICIAL HIGE DANDISM",
+          "url": "https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj"
+        }
+      ],
+      "duration_ms": 213438,
+      "name": "\u30df\u30c3\u30af\u30b9\u30ca\u30c3\u30c4",
+      "url": "https://open.spotify.com/track/60ReNXcPcsVFd7nUuQw5HZ"
     },
     {
       "added_at": "2026-11-10 14:23:19",

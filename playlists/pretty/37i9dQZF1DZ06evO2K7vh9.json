@@ -1,12 +1,12 @@
 {
   "description": "This is Lil Tecca. The essential tracks, all in one playlist.",
-  "num_followers": 103350,
+  "num_followers": 103353,
   "original_name": "This Is Lil Tecca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avENAAAAAACK/V/sQW4gd99V18runC/C",
+  "snapshot_id": "avOwAAAAAACigkHHKB970PstiEz3h7Ds",
   "tracks": [
     {
       "added_at": null,
@@ -315,22 +315,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rover (feat. Lil Tecca)",
-        "url": "https://open.spotify.com/album/4mywvojjCi9vsVNSPRCNfR"
+        "name": "We Love You Tecca",
+        "url": "https://open.spotify.com/album/1I6FpscJIfwf4T56VxGVsB"
       },
       "artists": [
-        {
-          "name": "S1mba",
-          "url": "https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s"
-        },
         {
           "name": "Lil Tecca",
           "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
         }
       ],
-      "duration_ms": 166805,
-      "name": "Rover (feat. Lil Tecca)",
-      "url": "https://open.spotify.com/track/6E6RS1uUDxxYiWMmEKrxnh"
+      "duration_ms": 109373,
+      "name": "Shots",
+      "url": "https://open.spotify.com/track/6eSU1exzDvBEXmBRxspeh5"
     },
     {
       "added_at": null,
@@ -351,18 +347,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "We Love You Tecca",
-        "url": "https://open.spotify.com/album/1I6FpscJIfwf4T56VxGVsB"
+        "name": "Rover (feat. Lil Tecca)",
+        "url": "https://open.spotify.com/album/4mywvojjCi9vsVNSPRCNfR"
       },
       "artists": [
+        {
+          "name": "S1mba",
+          "url": "https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s"
+        },
         {
           "name": "Lil Tecca",
           "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
         }
       ],
-      "duration_ms": 109373,
-      "name": "Shots",
-      "url": "https://open.spotify.com/track/6eSU1exzDvBEXmBRxspeh5"
+      "duration_ms": 166805,
+      "name": "Rover (feat. Lil Tecca)",
+      "url": "https://open.spotify.com/track/6E6RS1uUDxxYiWMmEKrxnh"
     },
     {
       "added_at": null,
@@ -715,22 +715,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trap Thug Family",
-        "url": "https://open.spotify.com/album/2T5uqtLfuewixOOInuc6vC"
+        "name": "All Is Yellow",
+        "url": "https://open.spotify.com/album/4NGIX0BP6xxRaGh64hhJhe"
       },
       "artists": [
         {
-          "name": "Trap Thug Family",
-          "url": "https://open.spotify.com/artist/5vaLtyVwbTErZSLqVRCd9b"
+          "name": "Lyrical Lemonade",
+          "url": "https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly"
         },
         {
           "name": "Lil Tecca",
           "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        },
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        },
+        {
+          "name": "Lil Skies",
+          "url": "https://open.spotify.com/artist/7d3WFRME3vBY2cgoP38RDo"
         }
       ],
-      "duration_ms": 126093,
-      "name": "Love No Thot (feat. Lil Tecca)",
-      "url": "https://open.spotify.com/track/10axzwbqRSkv4n56GmjmPH"
+      "duration_ms": 169014,
+      "name": "This My Life (with Lil Tecca, The Kid LAROI & Lil Skies)",
+      "url": "https://open.spotify.com/track/5CT3zRd2FKM7F81KEacXIP"
     },
     {
       "added_at": null,
@@ -771,30 +779,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Is Yellow",
-        "url": "https://open.spotify.com/album/4NGIX0BP6xxRaGh64hhJhe"
+        "name": "Trap Thug Family",
+        "url": "https://open.spotify.com/album/2T5uqtLfuewixOOInuc6vC"
       },
       "artists": [
         {
-          "name": "Lyrical Lemonade",
-          "url": "https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly"
+          "name": "Trap Thug Family",
+          "url": "https://open.spotify.com/artist/5vaLtyVwbTErZSLqVRCd9b"
         },
         {
           "name": "Lil Tecca",
           "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        },
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        },
-        {
-          "name": "Lil Skies",
-          "url": "https://open.spotify.com/artist/7d3WFRME3vBY2cgoP38RDo"
         }
       ],
-      "duration_ms": 169014,
-      "name": "This My Life (with Lil Tecca, The Kid LAROI & Lil Skies)",
-      "url": "https://open.spotify.com/track/5CT3zRd2FKM7F81KEacXIP"
+      "duration_ms": 126093,
+      "name": "Love No Thot (feat. Lil Tecca)",
+      "url": "https://open.spotify.com/track/10axzwbqRSkv4n56GmjmPH"
     },
     {
       "added_at": null,
@@ -819,6 +819,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Virgo World",
+        "url": "https://open.spotify.com/album/389zGArsMlwuPorS4Cw7IX"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 179813,
+      "name": "Dolly (with Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/77Xwqkw7VrV8E5FCq9JhO8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Memories in My Head",
         "url": "https://open.spotify.com/album/78hRaefit0PBhkcXmFmZL2"
       },
@@ -839,26 +859,6 @@
       "duration_ms": 191703,
       "name": "Memories in My Head",
       "url": "https://open.spotify.com/track/6FQtgWGaP23uTMtjfIs2tZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Virgo World",
-        "url": "https://open.spotify.com/album/389zGArsMlwuPorS4Cw7IX"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        },
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 179813,
-      "name": "Dolly (with Lil Uzi Vert)",
-      "url": "https://open.spotify.com/track/77Xwqkw7VrV8E5FCq9JhO8"
     },
     {
       "added_at": null,

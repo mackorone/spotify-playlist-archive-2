@@ -1,6 +1,6 @@
 {
   "description": "Blissful indie for dreamers.",
-  "num_followers": 322508,
+  "num_followers": 322509,
   "original_name": "Dreampop",
   "owner": {
     "name": "Spotify",
@@ -335,22 +335,6 @@
     {
       "added_at": "2025-05-01 21:52:32",
       "album": {
-        "name": "Coping Habits",
-        "url": "https://open.spotify.com/album/2dha3JRdwEHp4eaVPoUHxp"
-      },
-      "artists": [
-        {
-          "name": "Beach Vacation",
-          "url": "https://open.spotify.com/artist/5r5uCVk3IIzm2jdfGDpl8C"
-        }
-      ],
-      "duration_ms": 159863,
-      "name": "Up Late",
-      "url": "https://open.spotify.com/track/1orDT3tSQjSx6W7UqMLliR"
-    },
-    {
-      "added_at": "2025-05-01 21:52:32",
-      "album": {
         "name": "You and Me",
         "url": "https://open.spotify.com/album/4WmQIWuFrxPQc7Ae3LKDUQ"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 225618,
       "name": "You and Me",
       "url": "https://open.spotify.com/track/4KE91Xg3FL51yMhnpSqRvE"
+    },
+    {
+      "added_at": "2025-05-01 21:52:32",
+      "album": {
+        "name": "Coping Habits",
+        "url": "https://open.spotify.com/album/2dha3JRdwEHp4eaVPoUHxp"
+      },
+      "artists": [
+        {
+          "name": "Beach Vacation",
+          "url": "https://open.spotify.com/artist/5r5uCVk3IIzm2jdfGDpl8C"
+        }
+      ],
+      "duration_ms": 159863,
+      "name": "Up Late",
+      "url": "https://open.spotify.com/track/1orDT3tSQjSx6W7UqMLliR"
     },
     {
       "added_at": "2025-05-01 21:52:32",
@@ -421,6 +421,22 @@
       "url": "https://open.spotify.com/track/6PWjL98PtO7QBbMzBYszNY"
     },
     {
+      "added_at": "2026-10-02 04:02:02",
+      "album": {
+        "name": "Lucky Clover",
+        "url": "https://open.spotify.com/album/2CKeSsSVyW9dh81IfyvjU6"
+      },
+      "artists": [
+        {
+          "name": "Whisper Doll",
+          "url": "https://open.spotify.com/artist/5WqfNE3lDiQ7auVGw4lbuU"
+        }
+      ],
+      "duration_ms": 136000,
+      "name": "Lucky Clover",
+      "url": "https://open.spotify.com/track/6GevokAd21692eviYc1O0I"
+    },
+    {
       "added_at": "2025-05-01 21:52:32",
       "album": {
         "name": "Boyhood",
@@ -451,22 +467,6 @@
       "duration_ms": 195691,
       "name": "Hyper-normal",
       "url": "https://open.spotify.com/track/137bcY3t0tco8OqzumsF4z"
-    },
-    {
-      "added_at": "2026-10-02 04:02:02",
-      "album": {
-        "name": "Lucky Clover",
-        "url": "https://open.spotify.com/album/2CKeSsSVyW9dh81IfyvjU6"
-      },
-      "artists": [
-        {
-          "name": "Whisper Doll",
-          "url": "https://open.spotify.com/artist/5WqfNE3lDiQ7auVGw4lbuU"
-        }
-      ],
-      "duration_ms": 136000,
-      "name": "Lucky Clover",
-      "url": "https://open.spotify.com/track/6GevokAd21692eviYc1O0I"
     },
     {
       "added_at": "2025-05-01 21:52:32",
@@ -551,18 +551,18 @@
     {
       "added_at": "2025-05-01 21:52:32",
       "album": {
-        "name": "Face Down In The Garden",
-        "url": "https://open.spotify.com/album/1oFMLVK71dL1Jpq6aoCoIq"
+        "name": "Space Between Us",
+        "url": "https://open.spotify.com/album/6ZoG8UIgbpue4NGJ3x9VS8"
       },
       "artists": [
         {
-          "name": "Tennis",
-          "url": "https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM"
+          "name": "VHS Collection",
+          "url": "https://open.spotify.com/artist/2Nvaq4y2ygxIqfwXyz0HeH"
         }
       ],
-      "duration_ms": 252593,
-      "name": "12 Blown Tires",
-      "url": "https://open.spotify.com/track/43sc5VGNzFauUOnepR9VSc"
+      "duration_ms": 239360,
+      "name": "Space Between Us",
+      "url": "https://open.spotify.com/track/0RuQddbj6LGbMq1CzzPgGj"
     },
     {
       "added_at": "2025-05-01 21:52:32",
@@ -603,18 +603,18 @@
     {
       "added_at": "2025-05-01 21:52:32",
       "album": {
-        "name": "Space Between Us",
-        "url": "https://open.spotify.com/album/6ZoG8UIgbpue4NGJ3x9VS8"
+        "name": "Face Down In The Garden",
+        "url": "https://open.spotify.com/album/1oFMLVK71dL1Jpq6aoCoIq"
       },
       "artists": [
         {
-          "name": "VHS Collection",
-          "url": "https://open.spotify.com/artist/2Nvaq4y2ygxIqfwXyz0HeH"
+          "name": "Tennis",
+          "url": "https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM"
         }
       ],
-      "duration_ms": 239360,
-      "name": "Space Between Us",
-      "url": "https://open.spotify.com/track/0RuQddbj6LGbMq1CzzPgGj"
+      "duration_ms": 252593,
+      "name": "12 Blown Tires",
+      "url": "https://open.spotify.com/track/43sc5VGNzFauUOnepR9VSc"
     },
     {
       "added_at": "2025-05-01 21:52:32",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2025-05-01 21:52:32",
       "album": {
-        "name": "How Many Love Songs Have Died In Vegas?",
-        "url": "https://open.spotify.com/album/3ctaMoubphJD5IVfNfsb1V"
-      },
-      "artists": [
-        {
-          "name": "Swim Deep",
-          "url": "https://open.spotify.com/artist/2XddLUPFBmTonCFy8uB3uc"
-        }
-      ],
-      "duration_ms": 233203,
-      "name": "How Many Love Songs Have Died In Vegas?",
-      "url": "https://open.spotify.com/track/6ldiSdfgx96IQvUm2XOobi"
-    },
-    {
-      "added_at": "2025-05-01 21:52:32",
-      "album": {
         "name": "Portal",
         "url": "https://open.spotify.com/album/36rdTGwMgq7jOhVYegLaKO"
       },
@@ -1295,18 +1279,18 @@
     {
       "added_at": "2025-05-01 21:52:32",
       "album": {
-        "name": "Blue Arcade",
-        "url": "https://open.spotify.com/album/5cd1Eoqh8XtOvrhyDa0Ehd"
+        "name": "How Many Love Songs Have Died In Vegas?",
+        "url": "https://open.spotify.com/album/3ctaMoubphJD5IVfNfsb1V"
       },
       "artists": [
         {
-          "name": "Caroline Loveglow",
-          "url": "https://open.spotify.com/artist/3j0n7TWGvwhPBMBWPbuasr"
+          "name": "Swim Deep",
+          "url": "https://open.spotify.com/artist/2XddLUPFBmTonCFy8uB3uc"
         }
       ],
-      "duration_ms": 217647,
-      "name": "Blue Arcade",
-      "url": "https://open.spotify.com/track/5Id7y5MkbCDY4i81QYpctc"
+      "duration_ms": 233203,
+      "name": "How Many Love Songs Have Died In Vegas?",
+      "url": "https://open.spotify.com/track/6ldiSdfgx96IQvUm2XOobi"
     },
     {
       "added_at": "2025-05-01 21:52:32",
@@ -1323,6 +1307,22 @@
       "duration_ms": 182000,
       "name": "Alone",
       "url": "https://open.spotify.com/track/1W91GlNLLC6y0xXg1RLtie"
+    },
+    {
+      "added_at": "2025-05-01 21:52:32",
+      "album": {
+        "name": "Blue Arcade",
+        "url": "https://open.spotify.com/album/5cd1Eoqh8XtOvrhyDa0Ehd"
+      },
+      "artists": [
+        {
+          "name": "Caroline Loveglow",
+          "url": "https://open.spotify.com/artist/3j0n7TWGvwhPBMBWPbuasr"
+        }
+      ],
+      "duration_ms": 217647,
+      "name": "Blue Arcade",
+      "url": "https://open.spotify.com/track/5Id7y5MkbCDY4i81QYpctc"
     },
     {
       "added_at": "2025-05-01 21:52:32",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "Nieuwe tijdloze muziek. Cover: Zach Bryan",
+  "description": "Nieuwe tijdloze muziek. Cover: John Mayer",
   "name": "Altijd Goed",
   "tracks": [
     {
@@ -543,6 +543,24 @@
     },
     {
       "album": {
+        "name": "We Were Only Young",
+        "url": "https://open.spotify.com/album/4r0s2Z9J1e6HoKad1ieniF"
+      },
+      "artists": [
+        {
+          "name": "Kodaline",
+          "url": "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "All I\u2019ll Ever Need",
+      "url": "https://open.spotify.com/track/7bb3TCpMOV3HC4Mo5WGRQP"
+    },
+    {
+      "album": {
         "name": "All My Broken Pieces",
         "url": "https://open.spotify.com/album/4sbMRC8gsLRdloSLdNlwif"
       },
@@ -1069,6 +1087,24 @@
     },
     {
       "album": {
+        "name": "Babydoll",
+        "url": "https://open.spotify.com/album/2FRSDXehsQLDy2rYnZ9Drq"
+      },
+      "artists": [
+        {
+          "name": "Jamie Miller",
+          "url": "https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178822,
+      "name": "Babydoll",
+      "url": "https://open.spotify.com/track/1o9mAOmNm3wT2NdyGV1Ard"
+    },
+    {
+      "album": {
         "name": "back to friends",
         "url": "https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E"
       },
@@ -1156,6 +1192,24 @@
       "duration_ms": 125800,
       "name": "Ballad Of Easy Rider",
       "url": "https://open.spotify.com/track/5Nn8SPmzJUV3xUZFBdFjcV"
+    },
+    {
+      "album": {
+        "name": "Barely Holding On",
+        "url": "https://open.spotify.com/album/3D1Oaq7DHlYcGYclJJJeMh"
+      },
+      "artists": [
+        {
+          "name": "Buffalo Traffic Jam",
+          "url": "https://open.spotify.com/artist/22LEPYRDhoThnbpShy6fV7"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210626,
+      "name": "Barely Holding On",
+      "url": "https://open.spotify.com/track/2uSgEGeb0j2xQiqj7wA2xm"
     },
     {
       "album": {
@@ -1779,6 +1833,24 @@
     },
     {
       "album": {
+        "name": "Boys",
+        "url": "https://open.spotify.com/album/4k0kJvdKs7WzyVkbItks8C"
+      },
+      "artists": [
+        {
+          "name": "Josua Peter",
+          "url": "https://open.spotify.com/artist/1cOAQlxoO4hLqaCHeJEDFt"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191376,
+      "name": "Boys",
+      "url": "https://open.spotify.com/track/2yhJUgl9HczS3gLAYStMbt"
+    },
+    {
+      "album": {
         "name": "Break Up in Reverse",
         "url": "https://open.spotify.com/album/1fvk2zesgMji3Izn69EiBg"
       },
@@ -2104,7 +2176,7 @@
       ],
       "date_added": "2026-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 205013,
       "name": "By Your Side (feat. Venice)",
       "url": "https://open.spotify.com/track/32sYwQIoBBPsAIbOwsu1wC"
@@ -3162,7 +3234,7 @@
       ],
       "date_added": "2026-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 197637,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/4oRB6Rgyq2Y5K30elz9vzs"
@@ -6324,7 +6396,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 333800,
       "name": "Hold Me (Mantra)",
       "url": "https://open.spotify.com/track/4531KTSpDcgxSWksAYKQhg"
@@ -8017,6 +8089,24 @@
     },
     {
       "album": {
+        "name": "Dopamine Chamber",
+        "url": "https://open.spotify.com/album/0JICUfSKOdGqzE9FJSrNci"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194205,
+      "name": "Japan",
+      "url": "https://open.spotify.com/track/29USgREdEXy48zHm3OnhAZ"
+    },
+    {
+      "album": {
         "name": "Joking",
         "url": "https://open.spotify.com/album/1lSICe6rIoZ3OOf4HGTfZU"
       },
@@ -9058,7 +9148,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 187365,
       "name": "Lose My Life",
       "url": "https://open.spotify.com/track/4EAQsGj6Dzi2f2G0rErm5P"
@@ -9908,7 +9998,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 350235,
       "name": "Monochrome",
       "url": "https://open.spotify.com/track/2UCez53mJifActURlSyN5V"
@@ -10107,6 +10197,24 @@
     },
     {
       "album": {
+        "name": "My Body Isn't Ready (Orchestral Version from Sound City)",
+        "url": "https://open.spotify.com/album/7kjFKbcW8aAOXPLgZgjscS"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225550,
+      "name": "My Body Isn't Ready - Orchestral Version from Sound City",
+      "url": "https://open.spotify.com/track/5wA2qmCu9hcu6KAqNE4FOC"
+    },
+    {
+      "album": {
         "name": "Where I've Been, Isn't Where I'm Going",
         "url": "https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3"
       },
@@ -10162,6 +10270,28 @@
       "duration_ms": 241057,
       "name": "My Friend",
       "url": "https://open.spotify.com/track/6ZZBMSIa6EaOxRrzhxK0fA"
+    },
+    {
+      "album": {
+        "name": "My Guy (with Jacob Lusk)",
+        "url": "https://open.spotify.com/album/6DqkILIFo3b3ysqBWoYLZt"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Jacob Lusk",
+          "url": "https://open.spotify.com/artist/6dm2qCTCfqv1fqrow7UOcj"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240203,
+      "name": "My Guy (with Jacob Lusk)",
+      "url": "https://open.spotify.com/track/7foNDytOErUly5pbxUgN88"
     },
     {
       "album": {
@@ -11502,7 +11632,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 167920,
       "name": "Pieces",
       "url": "https://open.spotify.com/track/3w9TwHXJrfuti3lFQhLEwh"
@@ -13444,7 +13574,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 196096,
       "name": "Sorry Mama",
       "url": "https://open.spotify.com/track/1KfRGLBCotFvdFSAn2KPaH"
@@ -13924,7 +14054,7 @@
       ],
       "date_added": "2026-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 344295,
       "name": "Stockholm",
       "url": "https://open.spotify.com/track/4Aor8M0U720cnHUgYvOC5P"
@@ -14176,7 +14306,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 265505,
       "name": "Summer Clothes",
       "url": "https://open.spotify.com/track/1bOnbXldcr1DnseZ7getJp"
@@ -14794,7 +14924,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 156230,
       "name": "That Ain\u2019t You",
       "url": "https://open.spotify.com/track/4gPnKC5eNWa3pjMocIPeL7"
@@ -16092,10 +16222,28 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 155413,
       "name": "Today Yesterday",
       "url": "https://open.spotify.com/track/7lQ1RqU3fD51Mw2ogVDY6w"
+    },
+    {
+      "album": {
+        "name": "Tom and Jerry",
+        "url": "https://open.spotify.com/album/5PflBP4GjYSCtb54nCdra0"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231554,
+      "name": "Tom and Jerry",
+      "url": "https://open.spotify.com/track/071WCTT7JXeHRFjMMX5MaT"
     },
     {
       "album": {
@@ -16204,6 +16352,24 @@
       "duration_ms": 251424,
       "name": "Too Sweet",
       "url": "https://open.spotify.com/track/4IadxL6BUymXlh8RCJJu7T"
+    },
+    {
+      "album": {
+        "name": "In The Dark",
+        "url": "https://open.spotify.com/album/5IfXorPLlTRYTSWhoJynFs"
+      },
+      "artists": [
+        {
+          "name": "MICHA",
+          "url": "https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 1",
+      "url": "https://open.spotify.com/track/6haIzqA4tYA3NQDfQKikkD"
     },
     {
       "album": {
@@ -16883,6 +17049,24 @@
     },
     {
       "album": {
+        "name": "Watch You Dance",
+        "url": "https://open.spotify.com/album/1fg3ZklsI8O7TdzAHyDRh1"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147720,
+      "name": "Watch You Dance",
+      "url": "https://open.spotify.com/track/4lOKG77QX7DXG6x2cZ1egg"
+    },
+    {
+      "album": {
         "name": "WDIA (Would Do It Again)",
         "url": "https://open.spotify.com/album/50ImqQW5kr8xad7RZgnCvB"
       },
@@ -17058,6 +17242,24 @@
       "duration_ms": 224173,
       "name": "Weathervane",
       "url": "https://open.spotify.com/track/0vxNNwfm6zj8ISkCi6INFR"
+    },
+    {
+      "album": {
+        "name": "Weight Of The Feather",
+        "url": "https://open.spotify.com/album/2Uu75DHRs4yiEleO5vt02o"
+      },
+      "artists": [
+        {
+          "name": "Kingfishr",
+          "url": "https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153780,
+      "name": "Weight Of The Feather",
+      "url": "https://open.spotify.com/track/2uGTpK30J70bJWI69P5ddK"
     },
     {
       "album": {

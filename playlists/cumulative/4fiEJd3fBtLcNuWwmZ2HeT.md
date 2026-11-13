@@ -4,7 +4,7 @@
 
 > Adicta a mi novia
 
-569 songs - 1 day 9 hr 22 min
+570 songs - 1 day 9 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,7 @@
 | [DROPS \(feat\. Such\)](https://open.spotify.com/track/6te9jqAYbzj2VAcdXqmpfO) | [Zekk](https://open.spotify.com/artist/6ImFfiM17Sg4T56akzOnu1), [poplavor](https://open.spotify.com/artist/3wCRaUFj9TwTtbZ6fdKj0K), [Such](https://open.spotify.com/artist/0m7tILDYjOZCFFVVGmI3io) | [encore \-Emotional Vocal POP 02\-](https://open.spotify.com/album/4YMCeV11IVZR4G5KJIoZTJ) | 3:02 | 2023-07-27 |  |
 | [Drunk](https://open.spotify.com/track/6WI2GsakMUzGf9EGT0Ln5t) | [The Living Tombstone](https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF) | [zero\_one](https://open.spotify.com/album/54wAlSP6p1gVxZmlzAfpiJ) | 3:25 | 2023-10-25 |  |
 | [Eat \(feat\. Ado\)](https://open.spotify.com/track/6G7lmaVhweBRsn3sniKvme) | [jon\-YAKITORY](https://open.spotify.com/artist/0XDvcwWavm2VcdiXwDKgvB), [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Eat \(feat\. Ado\)](https://open.spotify.com/album/0GP5ShEt1o6H7y3izn2G4G) | 3:24 | 2024-09-07 |  |
-| [Enko Shoujo \(Street girl\) \[feat\. HATSUNE MIKU\]](https://open.spotify.com/track/04ELlaJRnfrT9IwU47afqW) | [Nashimoto Ui](https://open.spotify.com/artist/1heQsFLwQ0sehuPqU4jdyk), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Bo Hyou \(Grave\-Marker\)](https://open.spotify.com/album/5sJSM8z8nqKJOo15Ny7DDL) | 5:38 | 2026-10-14 |  |
+| [Enko Shoujo \(Street girl\) \[feat\. HATSUNE MIKU\]](https://open.spotify.com/track/04ELlaJRnfrT9IwU47afqW) | [Nashimoto Ui](https://open.spotify.com/artist/1heQsFLwQ0sehuPqU4jdyk), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Bo Hyou \(Grave\-Marker\)](https://open.spotify.com/album/5sJSM8z8nqKJOo15Ny7DDL) | 5:38 | 2026-10-14 | 2026-11-13 |
 | [ENVY BABY](https://open.spotify.com/track/7rPKtXBW35rSQH1i6QAvyk) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [ENVY BABY](https://open.spotify.com/album/0rp0Htb5EVN4G9boRMNPk4) | 2:15 | 2024-08-31 |  |
 | [Envy Cat Walk](https://open.spotify.com/track/1YgxBIyu2z4hRQuAx7Yw8j) | [RIB](https://open.spotify.com/artist/5YGU6VC4rMn4s5tScJG8WY) | [Rib On](https://open.spotify.com/album/1HN8yEXVd7oKn1RGV2V0BD) | 3:43 | 2025-01-06 |  |
 | [eyecandy](https://open.spotify.com/track/5t3WG41rP9uEcxTkQhdosW) | [Roji](https://open.spotify.com/artist/2Ul2czund8h5v5dekxbiJc) | [eyecandy](https://open.spotify.com/album/3Md7daZJ9GBkhN4xO3sC69) | 2:00 | 2026-02-09 |  |
@@ -205,6 +205,7 @@
 | [Looping the Rooms \(feat\. HATSUNE MIKU\)](https://open.spotify.com/track/3wmzZRtm6hwqXX3KndOtSI) | [rusino](https://open.spotify.com/artist/2p6kVvES1aPMkHsz22JukH), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Looping the Rooms / Lambent Aria](https://open.spotify.com/album/6MyiYxY7PsY0aHp1PjA5KM) | 2:14 | 2026-01-18 |  |
 | [Los! Los! Los!](https://open.spotify.com/track/4M5WCAgpMCbBYwaQerEkMo) | [ターニャ・デグレチャフ\(CV:悠木碧\)](https://open.spotify.com/artist/6swJSqM6NMF0u3kslRDRwu) | [TVアニメ「幼女戦記」エンディングテーマ「Los! Los! Los!」](https://open.spotify.com/album/3zfMMMTn2pp4sd2a7wln92) | 3:37 | 2024-06-10 |  |
 | [Lost Umbrella](https://open.spotify.com/track/2zAi85TQB7mLzl8P1ySAj9) | [稲葉曇](https://open.spotify.com/artist/25b7eSZD64Sm8ReHZ1WDc7) | [ANTICYCLONE](https://open.spotify.com/album/0QoalZudcGlnFFoN9Qr8UB) | 3:24 | 2022-05-05 |  |
+| [LOSTRUST \(feat\. Yi Xi\)](https://open.spotify.com/track/1kkdsilbjUuuHZMHqUvn5o) | [GGPRM](https://open.spotify.com/artist/6veKk0BLOtQRlTArMf247p), [Yi Xi](https://open.spotify.com/artist/0wMM1e0cn0HAMWeVxkQc9T) | [LOSTRUST \(feat\. Yi Xi\)](https://open.spotify.com/album/5hu3eJlZVZL7zhN4YEqgDh) | 1:32 | 2026-11-12 |  |
 | [Lotus eater \(feat\. Kaai Yuki\)](https://open.spotify.com/track/6oGEsHXy2eo8KOmHZGDIJq) | [Aoris](https://open.spotify.com/artist/3BHZU0TPDSxlbKFHflct6W), [Yuki Kaai](https://open.spotify.com/artist/2VLQ72xXVYB1n8lvkEWOhS) | [Lotus eater \(feat\. Kaai Yuki\)](https://open.spotify.com/album/1THxmV6O2zynUuZwyvptou) | 2:42 | 2026-05-09 |  |
 | [Love I Need](https://open.spotify.com/track/1pvjgrDx35jAt5FOcdrsuT) | [The Living Tombstone](https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF) | [Love I Need](https://open.spotify.com/album/7oQqmAf8OR0zfW5wbZIVH4) | 3:12 | 2022-08-04 | 2026-09-13 |
 | [Lovely Mine Girl](https://open.spotify.com/track/3EusRqi3A00rP3HR8d2kNh) | [litmus\*](https://open.spotify.com/artist/4grBe27LTKdzWxm1YCiF84), [REML](https://open.spotify.com/artist/7qAvJuLIr1uEt2iad9myrO), [可不](https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE) | [Lovely Mine Girl](https://open.spotify.com/album/64WY7FPC7KePBg5B5yVhVR) | 3:15 | 2026-09-11 |  |

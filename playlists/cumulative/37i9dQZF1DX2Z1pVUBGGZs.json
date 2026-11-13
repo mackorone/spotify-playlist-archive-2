@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "a playlist without boundaries \ud83d\ude80 cover: piri, t.o",
+  "description": "a playlist without boundaries \ud83d\ude80 cover: Tora-i, Louis Culture",
   "name": "Our Generation",
   "tracks": [
     {
@@ -1338,7 +1338,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 157241,
       "name": "Baaad!",
       "url": "https://open.spotify.com/track/6QuWpNthKEE38rp0YjhqgB"
@@ -1368,6 +1368,24 @@
       "duration_ms": 188711,
       "name": "Babe",
       "url": "https://open.spotify.com/track/4DbsTW4h2gjwdpC9W9iID4"
+    },
+    {
+      "album": {
+        "name": "to know you",
+        "url": "https://open.spotify.com/album/0Cuv96713l1r80X65WZTVt"
+      },
+      "artists": [
+        {
+          "name": "Lexie Carroll",
+          "url": "https://open.spotify.com/artist/0j3JsMUkjmRIqTi1xQ5dp0"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163924,
+      "name": "babe, it's smaller than you think",
+      "url": "https://open.spotify.com/track/1dCrQIJY8aLt6M3cW0sja7"
     },
     {
       "album": {
@@ -5607,6 +5625,28 @@
     },
     {
       "album": {
+        "name": "the after glow",
+        "url": "https://open.spotify.com/album/2OYqbmOlEATNjnA9OVC18F"
+      },
+      "artists": [
+        {
+          "name": "earfzilla",
+          "url": "https://open.spotify.com/artist/65SDZetBIC5qK27DoJUx0f"
+        },
+        {
+          "name": "Rejjie Snow",
+          "url": "https://open.spotify.com/artist/3lLHpTOJ11tWiUNGYN14gt"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161669,
+      "name": "dressing gown",
+      "url": "https://open.spotify.com/track/519GxthZryPOXvAdL28iyr"
+    },
+    {
+      "album": {
         "name": "Drive",
         "url": "https://open.spotify.com/album/7DCk4UPh5RZ7gNgBwkcgkC"
       },
@@ -6206,6 +6246,24 @@
       "duration_ms": 203760,
       "name": "Ever Seen",
       "url": "https://open.spotify.com/track/7pMEJEVSjQBuUAqWOupJk6"
+    },
+    {
+      "album": {
+        "name": "SCREWED UP",
+        "url": "https://open.spotify.com/album/0ChQ95WhNx739YGFBc04vg"
+      },
+      "artists": [
+        {
+          "name": "Pozzy",
+          "url": "https://open.spotify.com/artist/4QmxfpwoGK3BHPGCfZ3A5G"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121988,
+      "name": "EVERGLADE",
+      "url": "https://open.spotify.com/track/0ixjah5iT7gUE6VCG6XIdQ"
     },
     {
       "album": {
@@ -9783,6 +9841,24 @@
     },
     {
       "album": {
+        "name": "i really liike u",
+        "url": "https://open.spotify.com/album/3rrkwIwuhIlUBaoPo8viGD"
+      },
+      "artists": [
+        {
+          "name": "KTmelodies",
+          "url": "https://open.spotify.com/artist/10IVkptwI3f1wi8XYDl2hd"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124444,
+      "name": "i really liike u",
+      "url": "https://open.spotify.com/track/7KOccEv2Scm9W5WaPXPzbC"
+    },
+    {
+      "album": {
         "name": "I Saw Your Face",
         "url": "https://open.spotify.com/album/6PM2d4YZxyXLO05TWXoSm7"
       },
@@ -10670,7 +10746,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 219428,
       "name": "IT WAS ALWAYS GONNA HURT IN THE END",
       "url": "https://open.spotify.com/track/5vrwdAEqceHc7A4qi4lywM"
@@ -12582,7 +12658,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 192405,
       "name": "Lovestruck",
       "url": "https://open.spotify.com/track/0BQHJP1Q9SsU7fA2hwTJjo"
@@ -12838,7 +12914,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 165120,
       "name": "Madonna",
       "url": "https://open.spotify.com/track/3Xbfw6oJBNh4t2M8pNWglg"
@@ -14416,6 +14492,24 @@
       "duration_ms": 179555,
       "name": "Not My Type",
       "url": "https://open.spotify.com/track/5mHeJsko8znfqCEXayzfAS"
+    },
+    {
+      "album": {
+        "name": "NOT YOUR MAN",
+        "url": "https://open.spotify.com/album/30hcmWeb1Y40hbN1A8YWN5"
+      },
+      "artists": [
+        {
+          "name": "JEDSOUL",
+          "url": "https://open.spotify.com/artist/1d31pvQ23phSKJISEqXQLO"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "NOT YOUR MAN",
+      "url": "https://open.spotify.com/track/2KBA6zqKnyaTDpke7KJ1h7"
     },
     {
       "album": {
@@ -16164,7 +16258,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 148541,
       "name": "Rather You Leave",
       "url": "https://open.spotify.com/track/1kJlbNplwduN7UfsAf5jEU"
@@ -16402,7 +16496,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 199386,
       "name": "Right Time",
       "url": "https://open.spotify.com/track/2BjbVLuIpyL53l4LEScuUx"
@@ -17604,6 +17698,24 @@
       "duration_ms": 138488,
       "name": "Sign of the Times",
       "url": "https://open.spotify.com/track/1lLj2Sx25r56K18YYfkSW6"
+    },
+    {
+      "album": {
+        "name": "Signals",
+        "url": "https://open.spotify.com/album/73vVoVQQzSmq35cni1FISr"
+      },
+      "artists": [
+        {
+          "name": "rainbow frog biscuits",
+          "url": "https://open.spotify.com/artist/6tyZ35su1t0W5Hx0rWhhvT"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Signals",
+      "url": "https://open.spotify.com/track/3Cg9yd54r3P2pCu8X8WyEu"
     },
     {
       "album": {
@@ -19351,6 +19463,28 @@
     },
     {
       "album": {
+        "name": "Sundown",
+        "url": "https://open.spotify.com/album/2bXofjekwT9zn3Z7tWtuzd"
+      },
+      "artists": [
+        {
+          "name": "Tora-i",
+          "url": "https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z"
+        },
+        {
+          "name": "Louis Culture",
+          "url": "https://open.spotify.com/artist/7k6jdEkR8FoKdOi0iW4VkR"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192070,
+      "name": "Sundown",
+      "url": "https://open.spotify.com/track/4K2yfod2Ac7igAeVjks1a4"
+    },
+    {
+      "album": {
         "name": "Sunlight",
         "url": "https://open.spotify.com/album/2SPrhyXLzqJD1PsTFoBkOU"
       },
@@ -20674,7 +20808,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 208433,
       "name": "TMTMF (tell me to my face)",
       "url": "https://open.spotify.com/track/1El92tNKm9nkxx2tlK2ooq"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-10",
-  "description": "Today's biggest dance hits! Cover: Mau P",
+  "description": "Today's biggest dance hits! Cover: Becky Hill",
   "name": "Dance Generation",
   "tracks": [
     {
@@ -4634,7 +4634,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 196643,
       "name": "Control Me",
       "url": "https://open.spotify.com/track/0adMO7pIBsUeOSx2SJEbwq"
@@ -11715,6 +11715,24 @@
     },
     {
       "album": {
+        "name": "Laneway Switch",
+        "url": "https://open.spotify.com/album/0gEQPQdK2cVwAc2uU3tnB1"
+      },
+      "artists": [
+        {
+          "name": "Kalus",
+          "url": "https://open.spotify.com/artist/2k6FiPBKN4TzVqXHs9FTZE"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143571,
+      "name": "Laneway Switch",
+      "url": "https://open.spotify.com/track/1E88rOrQ0vWFqitNzdEGjj"
+    },
+    {
+      "album": {
         "name": "LAST OF US (feat. Rita Ora)",
         "url": "https://open.spotify.com/album/19wUjYvz97e0wXWHE41PSV"
       },
@@ -12708,7 +12726,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 374410,
       "name": "Love Sensation - Afterhours Mix",
       "url": "https://open.spotify.com/track/5nxpg2Yvg8286aJ6L6w7DD"
@@ -15076,7 +15094,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 212093,
       "name": "Oldskool Flavor",
       "url": "https://open.spotify.com/track/1RaDR9M8gan0KxZOSl2i8Y"
@@ -15900,7 +15918,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 170101,
       "name": "Paradiso",
       "url": "https://open.spotify.com/track/4AWlna2oBQugsrcTDpG2xu"
@@ -17072,6 +17090,36 @@
       "duration_ms": 203668,
       "name": "Release The Pressure",
       "url": "https://open.spotify.com/track/7Dev2VJdJKwIIUdj3lcQl9"
+    },
+    {
+      "album": {
+        "name": "Reload (swedm\u00ae Remix)",
+        "url": "https://open.spotify.com/album/3S4SOGuORtJXHy45p1Q951"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Ingrosso",
+          "url": "https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP"
+        },
+        {
+          "name": "Tommy Trash",
+          "url": "https://open.spotify.com/artist/1tBU8jUEdVR3mqSsAqEGfD"
+        },
+        {
+          "name": "John Martin",
+          "url": "https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq"
+        },
+        {
+          "name": "swedm\u00ae",
+          "url": "https://open.spotify.com/artist/0JoFtJei4JUZYBqN0dk8UK"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354375,
+      "name": "Reload - swedm\u00ae Remix",
+      "url": "https://open.spotify.com/track/712AoRHqVcCsiHc3nn4CUK"
     },
     {
       "album": {
@@ -21609,6 +21657,24 @@
     },
     {
       "album": {
+        "name": "REBECCA",
+        "url": "https://open.spotify.com/album/4hCwXvKTdnhUUsoSgVA6Ia"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165451,
+      "name": "tie me d^wn",
+      "url": "https://open.spotify.com/track/5H2sF8TtiDMYKQyWz7uu4l"
+    },
+    {
+      "album": {
         "name": "Til Death",
         "url": "https://open.spotify.com/album/5vY7zRwYoEAFrounXi7HaQ"
       },
@@ -22656,6 +22722,28 @@
       "duration_ms": 193777,
       "name": "Warlord",
       "url": "https://open.spotify.com/track/4WOvLGtZgRTQX3aCx9btnJ"
+    },
+    {
+      "album": {
+        "name": "Water",
+        "url": "https://open.spotify.com/album/6vRwDEY1SKVzvS4WkDhOYu"
+      },
+      "artists": [
+        {
+          "name": "Marlon Hoffstadt",
+          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
+        },
+        {
+          "name": "Niko Rubio",
+          "url": "https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184414,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/2rhmjUU57blXd38ket5gNE"
     },
     {
       "album": {

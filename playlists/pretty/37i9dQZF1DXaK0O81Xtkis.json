@@ -1,13 +1,77 @@
 {
   "description": "a little indie, a little pop, soda featuring OK MICKEY",
-  "num_followers": 227909,
+  "num_followers": 227897,
   "original_name": "soda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKnY3Y+0QjX2Ma5Q5UATh6vy5wDS",
+  "snapshot_id": "AAAAAOt4+RZz+u2v6EE4nFvglWr7IM6K",
   "tracks": [
+    {
+      "added_at": "2026-11-13 05:00:17",
+      "album": {
+        "name": "POS",
+        "url": "https://open.spotify.com/album/3pkwztTPNbNzsjtyMGRHWk"
+      },
+      "artists": [
+        {
+          "name": "Max Rickun",
+          "url": "https://open.spotify.com/artist/5vYA9ABGrLzyBA0bk55VLl"
+        }
+      ],
+      "duration_ms": 203243,
+      "name": "POS",
+      "url": "https://open.spotify.com/track/4JZN0ox5209m96xs5Awbet"
+    },
+    {
+      "added_at": "2026-11-13 05:00:17",
+      "album": {
+        "name": "New to the City",
+        "url": "https://open.spotify.com/album/4CzT8kDhShsf7cJuC3QwXV"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Hightower",
+          "url": "https://open.spotify.com/artist/70A1X73rk0NI2d6A8pENYN"
+        }
+      ],
+      "duration_ms": 212501,
+      "name": "I Want to Push You in Front of the Subway",
+      "url": "https://open.spotify.com/track/0dl7gKsFn8eb78zJ0Pghi9"
+    },
+    {
+      "added_at": "2026-11-13 05:00:17",
+      "album": {
+        "name": "So Romantic",
+        "url": "https://open.spotify.com/album/4ei0xYYrF49Cdv9jV7E2tx"
+      },
+      "artists": [
+        {
+          "name": "Skylar Simone",
+          "url": "https://open.spotify.com/artist/4Xt0mNxZEZWjgJwsZKDuvQ"
+        }
+      ],
+      "duration_ms": 166880,
+      "name": "So Romantic",
+      "url": "https://open.spotify.com/track/0z8ovDfjz9PM6yMjqWUF7l"
+    },
+    {
+      "added_at": "2026-11-13 05:00:17",
+      "album": {
+        "name": "Soft",
+        "url": "https://open.spotify.com/album/2gfh9js0PqxJnWctC4au5k"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "duration_ms": 183803,
+      "name": "Stuck",
+      "url": "https://open.spotify.com/track/0GfWxo8gFJKgQ96tBrq3qo"
+    },
     {
       "added_at": "2026-10-23 04:01:26",
       "album": {

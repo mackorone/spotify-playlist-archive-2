@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4XgoRkwyon9.md) - [plain]
 
 > Mujeres a todo volumen, ahora en video\. Sólo para usuarios Premium\. BLAIR en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,195 likes - 29 songs - 1 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,190 likes - 29 songs - 1 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4XgoRkwyon9.md) - [plain]
 | 17 | [Liberdade \(Live Video\)](https://open.spotify.com/track/7tmHn32UqnSOV5AjET27W7) | [AJULLIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Greezy](https://open.spotify.com/artist/4pCc9pIGC9AH7NdAsxzTxj) | [Liberdade \(Live Video\)](https://open.spotify.com/album/38ouHs0BO5bGw9xykPCsbr) | 3:08 |
 | 18 | [TODO LO QUE TENGO \- EQUAL en vivo Casa Spotify Buenos Aires](https://open.spotify.com/track/3zbzvhfS1AKPIDf1grC9j6) | [BLAIR](https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ) | [TODO LO QUE TENGO \(EQUAL en vivo Casa Spotify Buenos Aires\)](https://open.spotify.com/album/77D93nUJfRZglhnFboDKFS) | 3:28 |
 | 19 | [Déjame Ser \- EQUAL En Vivo CDMX](https://open.spotify.com/track/56h0xUQ1lRDUz1tsev07bC) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY), [Alex etc.](https://open.spotify.com/artist/5HJfikshCXA946oV7QhUZG) | [Déjame Ser](https://open.spotify.com/album/757tGzy75GYwJPEH37nvsO) | 3:07 |
-| 20 | [París \(Junto a Ti\) \- EQUAL En Vivo CDMX](https://open.spotify.com/track/0hSo53mUqXiISNyC84Ch4r) | [Sofish](https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB), [Sueño A Marte](https://open.spotify.com/artist/6pz3M7ma5C5yKRjN5gaatN), [Andru](https://open.spotify.com/artist/3oOQ670Uw0UyVnmj9XM58W) | [París \(Junto a Ti\) \- EQUAL En Vivo CDMX](https://open.spotify.com/album/196CAwvkL5HgdHcEF0Xnsm) | 3:42 |
+| 20 | [París \(Junto a Ti\)](https://open.spotify.com/track/0hSo53mUqXiISNyC84Ch4r) | [Sofish](https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB), [Sueño A Marte](https://open.spotify.com/artist/6pz3M7ma5C5yKRjN5gaatN), [Andru](https://open.spotify.com/artist/3oOQ670Uw0UyVnmj9XM58W) | [París \(Junto a Ti\)](https://open.spotify.com/album/196CAwvkL5HgdHcEF0Xnsm) | 3:42 |
 | 21 | [Quero saber \(Live Video\)](https://open.spotify.com/track/21JBCPz0uQwPqRZWziMlxy) | [AJULLIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Greezy](https://open.spotify.com/artist/4pCc9pIGC9AH7NdAsxzTxj) | [Quero saber \(Live Video\)](https://open.spotify.com/album/5LkpJwK4vy8pPs3bRopIlG) | 3:09 |
 | 22 | [Cadenas \- EQUAL En Vivo CDMX](https://open.spotify.com/track/23JNz9DUe6RIMgiw8tfoaP) | [Jessy Bulbo](https://open.spotify.com/artist/2icB5yGi569VGjYogZtSvT), [Gloory Hole](https://open.spotify.com/artist/3iq1MFUd7NXDXWChm0E2mO) | [Cadenas \- EQUAL En Vivo CDMX](https://open.spotify.com/album/5ILNn5Xq5FIYmwOdfVbieF) | 4:35 |
 | 23 | [HOMBRE ROTO \- EQUAL en vivo Casa Spotify Buenos Aires](https://open.spotify.com/track/1NtWMpizdTMJEQscB34z5J) | [BLAIR](https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ) | [HOMBRE ROTO \(EQUAL en vivo Casa Spotify Buenos Aires\)](https://open.spotify.com/album/4mFKCCVwM9xkN2B2F55sGT) | 3:57 |

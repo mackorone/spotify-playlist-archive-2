@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Dql91.md) - [plain]
 
 > This is Infinity Song\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,108 likes - 43 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,110 likes - 43 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hurricane](https://open.spotify.com/track/7eN33HacgLXQbJYWl7oARA) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [INFINITY SONG](https://open.spotify.com/album/3Soghp3FR1HNqmHjQktQT4) | 3:41 |
 | 2 | [Oops](https://open.spotify.com/track/5HUqlNEKgLwBiPfpK9wBaX) | [Momo Boyd](https://open.spotify.com/artist/5gqxLVfjWfNZ6dsKL05NKd), [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Miss Michigan](https://open.spotify.com/album/403xK3xBydTLfaBxctsZ2X) | 2:26 |
 | 3 | [London Foxes](https://open.spotify.com/track/66QxAmSRT2GKceep57uq2q) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [London Foxes](https://open.spotify.com/album/68TxnBCELiRWaCauc7NWgg) | 2:35 |
-| 4 | [Metamorphosis](https://open.spotify.com/track/205Dyp6IqtOcYRX72QvbB7) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Metamorphosis](https://open.spotify.com/album/49S75QQHzUjB8dWf2V6C77) | 4:30 |
-| 5 | [WHAT LOVERS DO](https://open.spotify.com/track/01FJTTSRharY3U5JUzzgkj) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM), [Fat Nwigwe](https://open.spotify.com/artist/6vKEwTQ0TVz0aJoobvLG1Y), [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [THE BRIDGE](https://open.spotify.com/album/136DnJdQKnudDjbqn97oNV) | 2:34 |
-| 6 | [Sinking Boat](https://open.spotify.com/track/1jvOjD7K9707WeA99qWyNC) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Metamorphosis Complete](https://open.spotify.com/album/0mfdTcr1Y7vlMSXDpKAZ2G) | 2:56 |
+| 4 | [Sinking Boat](https://open.spotify.com/track/1jvOjD7K9707WeA99qWyNC) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Metamorphosis Complete](https://open.spotify.com/album/0mfdTcr1Y7vlMSXDpKAZ2G) | 2:56 |
+| 5 | [Metamorphosis](https://open.spotify.com/track/205Dyp6IqtOcYRX72QvbB7) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Metamorphosis](https://open.spotify.com/album/49S75QQHzUjB8dWf2V6C77) | 4:30 |
+| 6 | [WHAT LOVERS DO](https://open.spotify.com/track/01FJTTSRharY3U5JUzzgkj) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM), [Fat Nwigwe](https://open.spotify.com/artist/6vKEwTQ0TVz0aJoobvLG1Y), [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [THE BRIDGE](https://open.spotify.com/album/136DnJdQKnudDjbqn97oNV) | 2:34 |
 | 7 | [Sayonara](https://open.spotify.com/track/3W2yA6zPsnPWgPs4mg1qB2) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [INFINITY SONG](https://open.spotify.com/album/3Soghp3FR1HNqmHjQktQT4) | 2:57 |
 | 8 | [Big Country](https://open.spotify.com/track/2Mp25bWz6FUGpk2AIhDE46) | [Momo Boyd](https://open.spotify.com/artist/5gqxLVfjWfNZ6dsKL05NKd), [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Miss Michigan](https://open.spotify.com/album/403xK3xBydTLfaBxctsZ2X) | 2:58 |
 | 9 | [Hater's Anthem](https://open.spotify.com/track/1wipegfMZkHgwyR3XMDuJ1) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Metamorphosis](https://open.spotify.com/album/49S75QQHzUjB8dWf2V6C77) | 2:51 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Dql91.md) - [plain]
 | 42 | [Becoming](https://open.spotify.com/track/1gxw2HNkbC48PXDQ4VRHMz) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Mad Love \(Deluxe\)](https://open.spotify.com/album/3lJ4EW6gMM4tUXgt6fXnAS) | 4:10 |
 | 43 | [We Are The Light](https://open.spotify.com/track/2eevyW5N3mnqwpYIOjXStk) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Mad Love](https://open.spotify.com/album/5qmLJG8mG05p5R9Gu2ckGn) | 3:27 |
 
-Snapshot ID: `avENAAAAAABjOXgHTqipN0S7m6e+i81E`
+Snapshot ID: `avOwAAAAAAB+rYxSc2Mx2IrFtDwNhGtx`

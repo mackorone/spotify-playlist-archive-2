@@ -1,6 +1,6 @@
 {
   "description": "Die Playlist zur Wasserpfeife. Cover: Shirin David, Summer Cem",
-  "num_followers": 905992,
+  "num_followers": 905959,
   "original_name": "Shisha Club",
   "owner": {
     "name": "Spotify",
@@ -67,22 +67,6 @@
     {
       "added_at": "2026-10-16 09:20:36",
       "album": {
-        "name": "Rien 100 Rien",
-        "url": "https://open.spotify.com/album/2GLuHlc49dJKY8yzxUZb8p"
-      },
-      "artists": [
-        {
-          "name": "Jul",
-          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Sous la lune",
-      "url": "https://open.spotify.com/track/6hKkzk8UlVUj9ioPCyeH1O"
-    },
-    {
-      "added_at": "2026-10-16 09:20:36",
-      "album": {
         "name": "Tr\u00e4nen",
         "url": "https://open.spotify.com/album/7Hjp9ZAbijiLCUZ1pwcnsO"
       },
@@ -95,6 +79,22 @@
       "duration_ms": 147730,
       "name": "Tr\u00e4nen",
       "url": "https://open.spotify.com/track/5fML3HUwuAgxkdRskh5apJ"
+    },
+    {
+      "added_at": "2026-10-16 09:20:36",
+      "album": {
+        "name": "Rien 100 Rien",
+        "url": "https://open.spotify.com/album/2GLuHlc49dJKY8yzxUZb8p"
+      },
+      "artists": [
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Sous la lune",
+      "url": "https://open.spotify.com/track/6hKkzk8UlVUj9ioPCyeH1O"
     },
     {
       "added_at": "2026-10-16 09:20:36",
@@ -347,22 +347,6 @@
     {
       "added_at": "2026-10-16 09:20:36",
       "album": {
-        "name": "Erinnerung",
-        "url": "https://open.spotify.com/album/6vsV5GUrK6qjQiLNQ3anfh"
-      },
-      "artists": [
-        {
-          "name": "Dardan",
-          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
-        }
-      ],
-      "duration_ms": 184093,
-      "name": "Erinnerung",
-      "url": "https://open.spotify.com/track/3ZytSzc7WgFeXLuGQjwuwr"
-    },
-    {
-      "added_at": "2026-10-16 09:20:36",
-      "album": {
         "name": "STARBOYZ",
         "url": "https://open.spotify.com/album/1GRCiDDDgMNf3jWnM9efjJ"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 152186,
       "name": "GYALDEM",
       "url": "https://open.spotify.com/track/3L3gjaGUsqpvWxi17lFLL9"
+    },
+    {
+      "added_at": "2026-10-16 09:20:36",
+      "album": {
+        "name": "Erinnerung",
+        "url": "https://open.spotify.com/album/6vsV5GUrK6qjQiLNQ3anfh"
+      },
+      "artists": [
+        {
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+        }
+      ],
+      "duration_ms": 184093,
+      "name": "Erinnerung",
+      "url": "https://open.spotify.com/track/3ZytSzc7WgFeXLuGQjwuwr"
     },
     {
       "added_at": "2026-10-16 09:20:36",
@@ -435,22 +435,18 @@
     {
       "added_at": "2026-10-16 09:20:36",
       "album": {
-        "name": "Vermisse",
-        "url": "https://open.spotify.com/album/0MyJNG4dGUzXMOKRHQ20OB"
+        "name": "GEH VON HIER",
+        "url": "https://open.spotify.com/album/5QFt31vASR3wn6XkgdB5lF"
       },
       "artists": [
         {
-          "name": "Dardan",
-          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
-        },
-        {
-          "name": "Azet",
-          "url": "https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh"
+          "name": "Jamal",
+          "url": "https://open.spotify.com/artist/3DwUvt0kzO3j1fMQa6UfTU"
         }
       ],
-      "duration_ms": 154653,
-      "name": "Vermisse",
-      "url": "https://open.spotify.com/track/0DAe8XAFqCfdL2F649pgN0"
+      "duration_ms": 136500,
+      "name": "GEH VON HIER",
+      "url": "https://open.spotify.com/track/5mRM1823WjdJzQ12Shibvw"
     },
     {
       "added_at": "2026-10-16 09:20:36",
@@ -475,18 +471,22 @@
     {
       "added_at": "2026-10-16 09:20:36",
       "album": {
-        "name": "GEH VON HIER",
-        "url": "https://open.spotify.com/album/5QFt31vASR3wn6XkgdB5lF"
+        "name": "Vermisse",
+        "url": "https://open.spotify.com/album/0MyJNG4dGUzXMOKRHQ20OB"
       },
       "artists": [
         {
-          "name": "Jamal",
-          "url": "https://open.spotify.com/artist/3DwUvt0kzO3j1fMQa6UfTU"
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+        },
+        {
+          "name": "Azet",
+          "url": "https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh"
         }
       ],
-      "duration_ms": 136500,
-      "name": "GEH VON HIER",
-      "url": "https://open.spotify.com/track/5mRM1823WjdJzQ12Shibvw"
+      "duration_ms": 154653,
+      "name": "Vermisse",
+      "url": "https://open.spotify.com/track/0DAe8XAFqCfdL2F649pgN0"
     },
     {
       "added_at": "2026-10-16 09:20:36",
@@ -523,6 +523,26 @@
     {
       "added_at": "2026-10-16 09:20:36",
       "album": {
+        "name": "FEELINGS",
+        "url": "https://open.spotify.com/album/6hAzYzd0fzIkRX3uHW2q89"
+      },
+      "artists": [
+        {
+          "name": "marlon",
+          "url": "https://open.spotify.com/artist/1Vik8Idfyx10pDtl7oyZGL"
+        },
+        {
+          "name": "Southside Q",
+          "url": "https://open.spotify.com/artist/31iD3wB1injwPbHsq3LI1l"
+        }
+      ],
+      "duration_ms": 116444,
+      "name": "FEELINGS",
+      "url": "https://open.spotify.com/track/06gDGefw318uLsbZwD2lzC"
+    },
+    {
+      "added_at": "2026-10-16 09:20:36",
+      "album": {
         "name": "Que pasa",
         "url": "https://open.spotify.com/album/3AXzv1siNozGI4AOaKuv13"
       },
@@ -543,26 +563,6 @@
       "duration_ms": 157377,
       "name": "Que pasa",
       "url": "https://open.spotify.com/track/4fH8BbJKlb5jnmmXDroWe1"
-    },
-    {
-      "added_at": "2026-10-16 09:20:36",
-      "album": {
-        "name": "FEELINGS",
-        "url": "https://open.spotify.com/album/6hAzYzd0fzIkRX3uHW2q89"
-      },
-      "artists": [
-        {
-          "name": "marlon",
-          "url": "https://open.spotify.com/artist/1Vik8Idfyx10pDtl7oyZGL"
-        },
-        {
-          "name": "Southside Q",
-          "url": "https://open.spotify.com/artist/31iD3wB1injwPbHsq3LI1l"
-        }
-      ],
-      "duration_ms": 116444,
-      "name": "FEELINGS",
-      "url": "https://open.spotify.com/track/06gDGefw318uLsbZwD2lzC"
     },
     {
       "added_at": "2026-10-16 09:20:36",
@@ -619,26 +619,18 @@
     {
       "added_at": "2026-10-16 09:20:36",
       "album": {
-        "name": "Bleib stark",
-        "url": "https://open.spotify.com/album/2mBw0hNgfE4lvYgajed54n"
+        "name": "Glastisch",
+        "url": "https://open.spotify.com/album/1K1XiAVE0qOwZQBFaYQpcw"
       },
       "artists": [
         {
-          "name": "Aymo",
-          "url": "https://open.spotify.com/artist/4dFsxc7SFDOmkzNLKILGUq"
-        },
-        {
-          "name": "Aymen",
-          "url": "https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N"
-        },
-        {
-          "name": "Amo",
-          "url": "https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh"
+          "name": "Makar",
+          "url": "https://open.spotify.com/artist/4PUr4W5mWlzMkyVpSiX2ZN"
         }
       ],
-      "duration_ms": 184200,
-      "name": "Bleib stark",
-      "url": "https://open.spotify.com/track/6JbVRviSipLkiY3khQjBWs"
+      "duration_ms": 171537,
+      "name": "Glastisch",
+      "url": "https://open.spotify.com/track/0h6Rex3lPLTAGotD2I6ZcS"
     },
     {
       "added_at": "2026-10-16 09:20:36",
@@ -663,18 +655,26 @@
     {
       "added_at": "2026-10-16 09:20:36",
       "album": {
-        "name": "Glastisch",
-        "url": "https://open.spotify.com/album/1K1XiAVE0qOwZQBFaYQpcw"
+        "name": "Bleib stark",
+        "url": "https://open.spotify.com/album/2mBw0hNgfE4lvYgajed54n"
       },
       "artists": [
         {
-          "name": "Makar",
-          "url": "https://open.spotify.com/artist/4PUr4W5mWlzMkyVpSiX2ZN"
+          "name": "Aymo",
+          "url": "https://open.spotify.com/artist/4dFsxc7SFDOmkzNLKILGUq"
+        },
+        {
+          "name": "Aymen",
+          "url": "https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N"
+        },
+        {
+          "name": "Amo",
+          "url": "https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh"
         }
       ],
-      "duration_ms": 171537,
-      "name": "Glastisch",
-      "url": "https://open.spotify.com/track/0h6Rex3lPLTAGotD2I6ZcS"
+      "duration_ms": 184200,
+      "name": "Bleib stark",
+      "url": "https://open.spotify.com/track/6JbVRviSipLkiY3khQjBWs"
     },
     {
       "added_at": "2026-10-16 09:20:36",
@@ -847,6 +847,22 @@
     {
       "added_at": "2026-10-16 09:20:36",
       "album": {
+        "name": "MON FR\u00c8RE",
+        "url": "https://open.spotify.com/album/2ChCYqCNePb3OtnYNJBIKF"
+      },
+      "artists": [
+        {
+          "name": "THIZZY52",
+          "url": "https://open.spotify.com/artist/1dVKBw8iMPpS1almxwIVI3"
+        }
+      ],
+      "duration_ms": 171866,
+      "name": "MON FR\u00c8RE",
+      "url": "https://open.spotify.com/track/6UjrBp0tyzBG2n0ZgQ72Jv"
+    },
+    {
+      "added_at": "2026-10-16 09:20:36",
+      "album": {
         "name": "DRINNE",
         "url": "https://open.spotify.com/album/3qMw3v7ShGsbIuszgZKExI"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 168000,
       "name": "DRINNE",
       "url": "https://open.spotify.com/track/1QZ1Rm9H5ytBhukQbZpaXx"
-    },
-    {
-      "added_at": "2026-10-16 09:20:36",
-      "album": {
-        "name": "MON FR\u00c8RE",
-        "url": "https://open.spotify.com/album/2ChCYqCNePb3OtnYNJBIKF"
-      },
-      "artists": [
-        {
-          "name": "THIZZY52",
-          "url": "https://open.spotify.com/artist/1dVKBw8iMPpS1almxwIVI3"
-        }
-      ],
-      "duration_ms": 171866,
-      "name": "MON FR\u00c8RE",
-      "url": "https://open.spotify.com/track/6UjrBp0tyzBG2n0ZgQ72Jv"
     },
     {
       "added_at": "2026-10-16 09:20:36",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2026-10-16 09:20:36",
       "album": {
-        "name": "Mein Cutie <3",
-        "url": "https://open.spotify.com/album/73MU9R7JX5phaaO5StfOA7"
-      },
-      "artists": [
-        {
-          "name": "YUNG SAINT PAUL",
-          "url": "https://open.spotify.com/artist/7KPX8F8F0fLE0sYMTU4p9R"
-        }
-      ],
-      "duration_ms": 130914,
-      "name": "Mein Cutie <3",
-      "url": "https://open.spotify.com/track/4amIje1MIz0NbIzmso07tZ"
-    },
-    {
-      "added_at": "2026-10-16 09:20:36",
-      "album": {
         "name": "PIRATE FR\u20ac\u20ac$T\u00a5L\u00a3",
         "url": "https://open.spotify.com/album/1PPrUd92XT9VMU6S6J02YN"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 123675,
       "name": "PIRATE FR\u20ac\u20ac$T\u00a5L\u00a3",
       "url": "https://open.spotify.com/track/1MTM3zSGU0ZLVOoVFHbO3q"
+    },
+    {
+      "added_at": "2026-10-16 09:20:36",
+      "album": {
+        "name": "Mein Cutie <3",
+        "url": "https://open.spotify.com/album/73MU9R7JX5phaaO5StfOA7"
+      },
+      "artists": [
+        {
+          "name": "YUNG SAINT PAUL",
+          "url": "https://open.spotify.com/artist/7KPX8F8F0fLE0sYMTU4p9R"
+        }
+      ],
+      "duration_ms": 130914,
+      "name": "Mein Cutie <3",
+      "url": "https://open.spotify.com/track/4amIje1MIz0NbIzmso07tZ"
     },
     {
       "added_at": "2026-10-16 09:20:36",

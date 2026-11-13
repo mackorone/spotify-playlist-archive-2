@@ -4,7 +4,7 @@
 
 > 뮤직비디오 기능이 지원되는 노래들을 플레이리스트로 즐겨보세요! \(Cover: Mark Lee\) \(Enjoy a playlist of songs that support music video features!\)
 
-295 songs - 16 hr 1 min
+298 songs - 16 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [CRAZY \(at PURE FLOWERS LIVE\) l Presented by Spotify](https://open.spotify.com/track/4KhF3kOe5u8eS27G8DEJI9) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CRAZY \(at PURE FLOWERS LIVE\) l Presented by Spotify](https://open.spotify.com/album/7rckq7pX7XmzgPNgSOaXMP) | 2:52 | 2026-06-08 |  |
 | [Creatures \(at PURE FLOWERS LIVE\) l Presented by Spotify](https://open.spotify.com/track/3WotTZr6P3Y7faSFC82nPO) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Creatures \(at PURE FLOWERS LIVE\) l Presented by Spotify](https://open.spotify.com/album/1l9nBUyvVRmv03XYfv6NYA) | 3:11 | 2026-06-01 |  |
 | [Crown](https://open.spotify.com/track/0frJ0IhhIOSWodge5fwKb5) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [Crown](https://open.spotify.com/album/2xgWak2XDGZyBnGtVIkUJp) | 3:31 | 2026-01-19 |  |
+| [Dancing in the Dark](https://open.spotify.com/track/7JaklRGtjDrRBtJHOSIEI4) | [A2O SOUL](https://open.spotify.com/artist/1sqWFSwBcJ6eunJRrCsmYb), [A2O](https://open.spotify.com/artist/7rBQch7KtqQNQjV5AxdHlE) | [SUPERSTAR](https://open.spotify.com/album/6yXPYq0Iz38xI9BMByyMV4) | 2:48 | 2026-11-13 |  |
 | [Dash](https://open.spotify.com/track/2eUExqqFOpckGJG7faJMeW) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [Dash](https://open.spotify.com/album/3f1MBI3Z9BTZ8N1kaX46sV) | 3:58 | 2025-07-15 | 2025-08-20 |
 | [DDI RO RI](https://open.spotify.com/track/4pKCIM6LQowiGak1lkymxz) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [DDI RO RI](https://open.spotify.com/album/11APOWQvzunwVquigB7umx) | 3:18 | 2026-06-12 |  |
 | [ddok ddok ddok](https://open.spotify.com/track/3gYInUz6sp2ujSizzUdZeg) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [ddok ddok ddok](https://open.spotify.com/album/4gHuTmtRrcGHwgijzB7yR2) | 2:40 | 2026-05-12 |  |
@@ -173,6 +174,7 @@
 | [Love Language](https://open.spotify.com/track/2fsKNHi8vJN42gDLpBotRB) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [Love Language](https://open.spotify.com/album/2KRvASM9QUGCGZA9OlM0su) | 3:08 | 2025-07-15 | 2026-09-09 |
 | [Love Language](https://open.spotify.com/track/6qdGaCxEZzJ5qwi3mYS52z) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [Love Language](https://open.spotify.com/album/4Wr4R6H61vyoJEb8oIpvYq) | 3:08 | 2025-07-15 | 2026-09-09 |
 | [Love Splash!](https://open.spotify.com/track/5K4Q3yW9UA2Nxs7aa3JB4G) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [Love Splash!](https://open.spotify.com/album/1vuEkIrziagQdTt5o6sRrm) | 3:29 | 2025-10-24 |  |
+| [Lovesick](https://open.spotify.com/track/0TjdkkN0gxVHrUkmw7WNtD) | [CHAERYEONG](https://open.spotify.com/artist/73nPXEFs9tGCNmSOcqFHPs) | [Lovesick](https://open.spotify.com/album/0WDSuTC158mmg6uhRs6ABJ) | 3:04 | 2026-11-13 |  |
 | [Lovin' the Christmas](https://open.spotify.com/track/3NfqT6MzUUGAEPDexBdiQY) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Lovin' the Christmas](https://open.spotify.com/album/0h6qqiXbAuNpHBbSiWyAxD) | 3:37 | 2026-01-03 |  |
 | [MAGIC](https://open.spotify.com/track/390kIxRDC9MAaalV4JdaXf) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [The Phase](https://open.spotify.com/album/5JiHYvqPp8ti0RIzqqyrNf) | 2:37 | 2026-10-06 |  |
 | [Magnetic](https://open.spotify.com/track/09dYdaC3OSE3yVUg26krr3) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Magnetic](https://open.spotify.com/album/7re6tanALidYb951y3GFyC) | 3:08 | 2025-07-15 | 2025-08-20 |
@@ -277,6 +279,7 @@
 | [toxic till the end](https://open.spotify.com/track/5m38Ga84E7jUIGL7Ungmqb) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [toxic till the end](https://open.spotify.com/album/1oujnhVOqWo1namwQZ1h4V) | 3:55 | 2025-07-15 | 2025-08-20 |
 | [Truman \(HAN & Felix\)](https://open.spotify.com/track/6zIBr28UYGgoMHb0LK5iQq) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Truman \(HAN & Felix\)](https://open.spotify.com/album/6cJdx8CdQKbj147TBEzl9p) | 3:23 | 2025-07-15 | 2025-08-20 |
 | [Twenty](https://open.spotify.com/track/7niaoLueEhilX5iDealwyJ) | [KickFlip](https://open.spotify.com/artist/6F4yXjmhQBqo6HVr6K234k) | [Twenty](https://open.spotify.com/album/3ecSoyC5AXuhoAHyCC89ZU) | 4:06 | 2026-03-20 |  |
+| [UP](https://open.spotify.com/track/2DpMn9r9LPpa5PaR4XGFBP) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [GOLDEN HOUR : Part.6](https://open.spotify.com/album/5UKj0Dge5ik5jw3JVjoxof) | 3:26 | 2026-11-13 |  |
 | [Upside Down Kiss](https://open.spotify.com/track/32sf5Wf5C856fqrTntigSS) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [Upside Down Kiss](https://open.spotify.com/album/5bWPidA83oIMmECU5n8AAq) | 2:49 | 2025-08-13 |  |
 | [Upside Down Kiss](https://open.spotify.com/track/6iaupFZ3bRJFxfoyYGHIs1) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [Upside Down Kiss](https://open.spotify.com/album/3kxXhrAyzON1BSAh62dD4Q) | 2:49 | 2025-08-13 |  |
 | [Vitamin ME](https://open.spotify.com/track/7s2ACt7fLNltzHPAmMe5LS) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Vitamin ME](https://open.spotify.com/album/5yNpvDVuYOyVha85Df87Rw) | 3:32 | 2026-08-25 |  |

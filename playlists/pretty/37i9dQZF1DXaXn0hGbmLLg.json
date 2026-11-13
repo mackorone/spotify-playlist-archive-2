@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADzCVy9mEEtF4keWWkkT64ckh8ve",
+  "snapshot_id": "AAAAAA3RhvSDF+zAGafyZB7bEg5goABG",
   "tracks": [
     {
       "added_at": "2026-11-03 23:00:10",
@@ -147,22 +147,6 @@
     {
       "added_at": "2026-11-03 23:00:10",
       "album": {
-        "name": "Take It Off For You",
-        "url": "https://open.spotify.com/album/2yumCPc0yEgORe9X6WRlQ7"
-      },
-      "artists": [
-        {
-          "name": "Stevie Bill",
-          "url": "https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv"
-        }
-      ],
-      "duration_ms": 156540,
-      "name": "Take It Off For You",
-      "url": "https://open.spotify.com/track/5brhefwMpr2H1E9UaBo3ix"
-    },
-    {
-      "added_at": "2026-11-03 23:00:10",
-      "album": {
         "name": "Aflevering 6 - Jeangu Macrooy",
         "url": "https://open.spotify.com/album/5LRrDd1d285J0rSXCXqYX9"
       },
@@ -179,6 +163,22 @@
       "duration_ms": 183509,
       "name": "Het Komt Door Jou",
       "url": "https://open.spotify.com/track/7wvfe7WWSz3HHaa9epKMSx"
+    },
+    {
+      "added_at": "2026-11-03 23:00:10",
+      "album": {
+        "name": "Take It Off For You",
+        "url": "https://open.spotify.com/album/2yumCPc0yEgORe9X6WRlQ7"
+      },
+      "artists": [
+        {
+          "name": "Stevie Bill",
+          "url": "https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv"
+        }
+      ],
+      "duration_ms": 156540,
+      "name": "Take It Off For You",
+      "url": "https://open.spotify.com/track/5brhefwMpr2H1E9UaBo3ix"
     },
     {
       "added_at": "2026-11-03 23:00:10",
@@ -215,6 +215,26 @@
     {
       "added_at": "2026-11-03 23:00:10",
       "album": {
+        "name": "BRGY",
+        "url": "https://open.spotify.com/album/0qa5fwH6SqV8XunS2iDrNy"
+      },
+      "artists": [
+        {
+          "name": "ZYHH",
+          "url": "https://open.spotify.com/artist/0gPcmVDfRgMGgnZCr3qvuO"
+        },
+        {
+          "name": "Mitchell Yard",
+          "url": "https://open.spotify.com/artist/6uBNJwADs2esWMFezi5Eb2"
+        }
+      ],
+      "duration_ms": 179142,
+      "name": "Call Me Up 'N Drive",
+      "url": "https://open.spotify.com/track/2FbaKicprIHWLzEddqrk37"
+    },
+    {
+      "added_at": "2026-11-03 23:00:10",
+      "album": {
         "name": "Gimme",
         "url": "https://open.spotify.com/album/1uAChZyazVvnAmxXcIo4os"
       },
@@ -235,26 +255,6 @@
       "duration_ms": 139636,
       "name": "Gimme",
       "url": "https://open.spotify.com/track/2qL2ornN89hlwyVK74uPnf"
-    },
-    {
-      "added_at": "2026-11-03 23:00:10",
-      "album": {
-        "name": "BRGY",
-        "url": "https://open.spotify.com/album/0qa5fwH6SqV8XunS2iDrNy"
-      },
-      "artists": [
-        {
-          "name": "ZYHH",
-          "url": "https://open.spotify.com/artist/0gPcmVDfRgMGgnZCr3qvuO"
-        },
-        {
-          "name": "Mitchell Yard",
-          "url": "https://open.spotify.com/artist/6uBNJwADs2esWMFezi5Eb2"
-        }
-      ],
-      "duration_ms": 179142,
-      "name": "Call Me Up 'N Drive",
-      "url": "https://open.spotify.com/track/2FbaKicprIHWLzEddqrk37"
     },
     {
       "added_at": "2026-11-03 23:00:10",
@@ -391,22 +391,6 @@
     {
       "added_at": "2026-11-03 23:00:10",
       "album": {
-        "name": "Klootzak",
-        "url": "https://open.spotify.com/album/0y3c0J3WfbamdJDjkOzAXa"
-      },
-      "artists": [
-        {
-          "name": "JANEY",
-          "url": "https://open.spotify.com/artist/173RaTzsGfsppxsy70QxhN"
-        }
-      ],
-      "duration_ms": 140412,
-      "name": "Klootzak",
-      "url": "https://open.spotify.com/track/3uEU0UV8r09QwkofJd2hy8"
-    },
-    {
-      "added_at": "2026-11-03 23:00:10",
-      "album": {
         "name": "Licht Uit, Hoofd Aan",
         "url": "https://open.spotify.com/album/4mOnst39MZG0f9cgnDalj1"
       },
@@ -423,18 +407,18 @@
     {
       "added_at": "2026-11-03 23:00:10",
       "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/1Gs6J7dE84FioFXpScmIM4"
+        "name": "Klootzak",
+        "url": "https://open.spotify.com/album/0y3c0J3WfbamdJDjkOzAXa"
       },
       "artists": [
         {
-          "name": "ROND\u00c9",
-          "url": "https://open.spotify.com/artist/4hj9dun9KpnBukLv7Hgfkr"
+          "name": "JANEY",
+          "url": "https://open.spotify.com/artist/173RaTzsGfsppxsy70QxhN"
         }
       ],
-      "duration_ms": 202460,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/5n4qgPv315nvmlWtaqHA6g"
+      "duration_ms": 140412,
+      "name": "Klootzak",
+      "url": "https://open.spotify.com/track/3uEU0UV8r09QwkofJd2hy8"
     },
     {
       "added_at": "2026-11-03 23:00:10",
@@ -471,18 +455,18 @@
     {
       "added_at": "2026-11-03 23:00:10",
       "album": {
-        "name": "Motel",
-        "url": "https://open.spotify.com/album/28YOATj8fmRniN5K6W3pok"
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/1Gs6J7dE84FioFXpScmIM4"
       },
       "artists": [
         {
-          "name": "Lisa Korver",
-          "url": "https://open.spotify.com/artist/3erkoMXFF8JTY5PvwolFUH"
+          "name": "ROND\u00c9",
+          "url": "https://open.spotify.com/artist/4hj9dun9KpnBukLv7Hgfkr"
         }
       ],
-      "duration_ms": 225405,
-      "name": "Motel",
-      "url": "https://open.spotify.com/track/2xLA3OXFudJwPgdpdEkIiS"
+      "duration_ms": 202460,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/5n4qgPv315nvmlWtaqHA6g"
     },
     {
       "added_at": "2026-11-03 23:00:10",
@@ -503,6 +487,22 @@
       "duration_ms": 173922,
       "name": "Eyes On Me",
       "url": "https://open.spotify.com/track/1bCeED0zVJb4r3l1hEtG6C"
+    },
+    {
+      "added_at": "2026-11-03 23:00:10",
+      "album": {
+        "name": "Motel",
+        "url": "https://open.spotify.com/album/28YOATj8fmRniN5K6W3pok"
+      },
+      "artists": [
+        {
+          "name": "Lisa Korver",
+          "url": "https://open.spotify.com/artist/3erkoMXFF8JTY5PvwolFUH"
+        }
+      ],
+      "duration_ms": 225405,
+      "name": "Motel",
+      "url": "https://open.spotify.com/track/2xLA3OXFudJwPgdpdEkIiS"
     },
     {
       "added_at": "2026-11-03 23:00:10",
@@ -667,22 +667,6 @@
     {
       "added_at": "2026-11-03 23:00:10",
       "album": {
-        "name": "Stop Met Praten",
-        "url": "https://open.spotify.com/album/6ypLwgh46iVPREwiTsrgBV"
-      },
-      "artists": [
-        {
-          "name": "Wende",
-          "url": "https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G"
-        }
-      ],
-      "duration_ms": 204133,
-      "name": "Stop Met Praten",
-      "url": "https://open.spotify.com/track/6sbCSfOQgr2yZoZSNdO5tM"
-    },
-    {
-      "added_at": "2026-11-03 23:00:10",
-      "album": {
         "name": "Sofrimento",
         "url": "https://open.spotify.com/album/1n0zxxY7PJZNo4Wp9uHQkU"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 258549,
       "name": "Sofrimento",
       "url": "https://open.spotify.com/track/405KNWeiAJxjH98XX9iSep"
+    },
+    {
+      "added_at": "2026-11-03 23:00:10",
+      "album": {
+        "name": "Stop Met Praten",
+        "url": "https://open.spotify.com/album/6ypLwgh46iVPREwiTsrgBV"
+      },
+      "artists": [
+        {
+          "name": "Wende",
+          "url": "https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G"
+        }
+      ],
+      "duration_ms": 204133,
+      "name": "Stop Met Praten",
+      "url": "https://open.spotify.com/track/6sbCSfOQgr2yZoZSNdO5tM"
     },
     {
       "added_at": "2026-11-03 23:00:10",
@@ -747,22 +747,6 @@
     {
       "added_at": "2026-11-03 23:00:10",
       "album": {
-        "name": "Stuurloos",
-        "url": "https://open.spotify.com/album/4sLqs1mbLHANb0OGiMAVO1"
-      },
-      "artists": [
-        {
-          "name": "Tessa June",
-          "url": "https://open.spotify.com/artist/67UrL3cZJQ2WhwqdikarKk"
-        }
-      ],
-      "duration_ms": 160534,
-      "name": "Stuurloos",
-      "url": "https://open.spotify.com/track/5bCciSSJvPmdosIEFI3rIi"
-    },
-    {
-      "added_at": "2026-11-03 23:00:10",
-      "album": {
         "name": "Wagenziek",
         "url": "https://open.spotify.com/album/30TH5fJAP6TdaYkPF6D8b7"
       },
@@ -775,22 +759,6 @@
       "duration_ms": 183000,
       "name": "Wagenziek",
       "url": "https://open.spotify.com/track/5iX1R02Pg6Cxl2HRdoquPX"
-    },
-    {
-      "added_at": "2026-11-03 23:00:10",
-      "album": {
-        "name": "Ik ben hier",
-        "url": "https://open.spotify.com/album/789LTXnNfELXx2ekogWTAw"
-      },
-      "artists": [
-        {
-          "name": "Noor",
-          "url": "https://open.spotify.com/artist/0mYBpec0ykRwV25xiGnU2W"
-        }
-      ],
-      "duration_ms": 237823,
-      "name": "Ik ben hier",
-      "url": "https://open.spotify.com/track/1nEblC76z9vJqo4hW20FfI"
     },
     {
       "added_at": "2026-11-03 23:00:10",
@@ -811,18 +779,34 @@
     {
       "added_at": "2026-11-03 23:00:10",
       "album": {
-        "name": "Ik Beloof Je Dat Het Beter Wordt",
-        "url": "https://open.spotify.com/album/57HWVtslY6u0w3DudtNhno"
+        "name": "Ik ben hier",
+        "url": "https://open.spotify.com/album/789LTXnNfELXx2ekogWTAw"
       },
       "artists": [
         {
-          "name": "Roxeanne Hazes",
-          "url": "https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6"
+          "name": "Noor",
+          "url": "https://open.spotify.com/artist/0mYBpec0ykRwV25xiGnU2W"
         }
       ],
-      "duration_ms": 172941,
-      "name": "Ik Beloof Je Dat Het Beter Wordt",
-      "url": "https://open.spotify.com/track/5UP8PzhH0ljxvU0bT9qtvE"
+      "duration_ms": 237823,
+      "name": "Ik ben hier",
+      "url": "https://open.spotify.com/track/1nEblC76z9vJqo4hW20FfI"
+    },
+    {
+      "added_at": "2026-11-03 23:00:10",
+      "album": {
+        "name": "Stuurloos",
+        "url": "https://open.spotify.com/album/4sLqs1mbLHANb0OGiMAVO1"
+      },
+      "artists": [
+        {
+          "name": "Tessa June",
+          "url": "https://open.spotify.com/artist/67UrL3cZJQ2WhwqdikarKk"
+        }
+      ],
+      "duration_ms": 160534,
+      "name": "Stuurloos",
+      "url": "https://open.spotify.com/track/5bCciSSJvPmdosIEFI3rIi"
     },
     {
       "added_at": "2026-11-03 23:00:10",
@@ -843,18 +827,18 @@
     {
       "added_at": "2026-11-03 23:00:10",
       "album": {
-        "name": "Schoolplein",
-        "url": "https://open.spotify.com/album/5q4y56NTQZytBklZcwEVxK"
+        "name": "Ik Beloof Je Dat Het Beter Wordt",
+        "url": "https://open.spotify.com/album/57HWVtslY6u0w3DudtNhno"
       },
       "artists": [
         {
-          "name": "Lolo Hefting",
-          "url": "https://open.spotify.com/artist/1QxuSoOeaBssFBysmaKc3F"
+          "name": "Roxeanne Hazes",
+          "url": "https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6"
         }
       ],
-      "duration_ms": 149243,
-      "name": "Schoolplein",
-      "url": "https://open.spotify.com/track/2LB0HVOe0OyZcW2quG9cYq"
+      "duration_ms": 172941,
+      "name": "Ik Beloof Je Dat Het Beter Wordt",
+      "url": "https://open.spotify.com/track/5UP8PzhH0ljxvU0bT9qtvE"
     },
     {
       "added_at": "2026-11-03 23:00:10",
@@ -871,6 +855,22 @@
       "duration_ms": 145277,
       "name": "I Wasn't Made For You",
       "url": "https://open.spotify.com/track/5Un8xE3fFFixtKXbtNrdpx"
+    },
+    {
+      "added_at": "2026-11-03 23:00:10",
+      "album": {
+        "name": "Schoolplein",
+        "url": "https://open.spotify.com/album/5q4y56NTQZytBklZcwEVxK"
+      },
+      "artists": [
+        {
+          "name": "Lolo Hefting",
+          "url": "https://open.spotify.com/artist/1QxuSoOeaBssFBysmaKc3F"
+        }
+      ],
+      "duration_ms": 149243,
+      "name": "Schoolplein",
+      "url": "https://open.spotify.com/track/2LB0HVOe0OyZcW2quG9cYq"
     },
     {
       "added_at": "2026-11-03 23:00:10",
@@ -955,6 +955,22 @@
     {
       "added_at": "2026-11-03 23:00:10",
       "album": {
+        "name": "Acht Wacht",
+        "url": "https://open.spotify.com/album/67PSJEzADm925p6h6zre6x"
+      },
+      "artists": [
+        {
+          "name": "SkyeIndy",
+          "url": "https://open.spotify.com/artist/2mT7QJhZE3gmwXAfpUIkPt"
+        }
+      ],
+      "duration_ms": 165618,
+      "name": "Hier Ben",
+      "url": "https://open.spotify.com/track/49uhwpvJNhAZh5fP0wnnMh"
+    },
+    {
+      "added_at": "2026-11-03 23:00:10",
+      "album": {
         "name": "Meisje",
         "url": "https://open.spotify.com/album/3uYtgXu8U7HUxhXzrgnvZi"
       },
@@ -971,18 +987,18 @@
     {
       "added_at": "2026-11-03 23:00:10",
       "album": {
-        "name": "Acht Wacht",
-        "url": "https://open.spotify.com/album/67PSJEzADm925p6h6zre6x"
+        "name": "Stof",
+        "url": "https://open.spotify.com/album/0f40C4fpqEVEFbciDYhIe5"
       },
       "artists": [
         {
-          "name": "SkyeIndy",
-          "url": "https://open.spotify.com/artist/2mT7QJhZE3gmwXAfpUIkPt"
+          "name": "MAYTE",
+          "url": "https://open.spotify.com/artist/0qSW0N5julVXfIQ3Ql4tHj"
         }
       ],
-      "duration_ms": 165618,
-      "name": "Hier Ben",
-      "url": "https://open.spotify.com/track/49uhwpvJNhAZh5fP0wnnMh"
+      "duration_ms": 175946,
+      "name": "Stof",
+      "url": "https://open.spotify.com/track/0OHFe7fy7BeilTJpN7OFDF"
     },
     {
       "added_at": "2026-11-03 23:00:10",
@@ -1003,18 +1019,18 @@
     {
       "added_at": "2026-11-03 23:00:10",
       "album": {
-        "name": "Stof",
-        "url": "https://open.spotify.com/album/0f40C4fpqEVEFbciDYhIe5"
+        "name": "Rooted",
+        "url": "https://open.spotify.com/album/5n4mhKvpBcDXG0m1EebYvE"
       },
       "artists": [
         {
-          "name": "MAYTE",
-          "url": "https://open.spotify.com/artist/0qSW0N5julVXfIQ3Ql4tHj"
+          "name": "Krystl",
+          "url": "https://open.spotify.com/artist/7eacKV5WqetV2IZTDrwKhi"
         }
       ],
-      "duration_ms": 175946,
-      "name": "Stof",
-      "url": "https://open.spotify.com/track/0OHFe7fy7BeilTJpN7OFDF"
+      "duration_ms": 173918,
+      "name": "Rooted",
+      "url": "https://open.spotify.com/track/4YGwXaIcN6sGl86VnNJHi7"
     },
     {
       "added_at": "2026-11-03 23:00:10",
@@ -1051,18 +1067,18 @@
     {
       "added_at": "2026-11-03 23:00:10",
       "album": {
-        "name": "Rooted",
-        "url": "https://open.spotify.com/album/5n4mhKvpBcDXG0m1EebYvE"
+        "name": "other side",
+        "url": "https://open.spotify.com/album/5rR10DdElaYpsVfKH37yOA"
       },
       "artists": [
         {
-          "name": "Krystl",
-          "url": "https://open.spotify.com/artist/7eacKV5WqetV2IZTDrwKhi"
+          "name": "Shanee",
+          "url": "https://open.spotify.com/artist/5HU2bzuycGkCc5CNvwm8wV"
         }
       ],
-      "duration_ms": 173918,
-      "name": "Rooted",
-      "url": "https://open.spotify.com/track/4YGwXaIcN6sGl86VnNJHi7"
+      "duration_ms": 151200,
+      "name": "other side",
+      "url": "https://open.spotify.com/track/4LGJQOcTRZkYHzfJYu5k0Q"
     },
     {
       "added_at": "2026-11-03 23:00:10",
@@ -1095,22 +1111,6 @@
       "duration_ms": 162426,
       "name": "Mid Air",
       "url": "https://open.spotify.com/track/1OmqyR7qRqz0GLO8dqWRaG"
-    },
-    {
-      "added_at": "2026-11-03 23:00:10",
-      "album": {
-        "name": "other side",
-        "url": "https://open.spotify.com/album/5rR10DdElaYpsVfKH37yOA"
-      },
-      "artists": [
-        {
-          "name": "Shanee",
-          "url": "https://open.spotify.com/artist/5HU2bzuycGkCc5CNvwm8wV"
-        }
-      ],
-      "duration_ms": 151200,
-      "name": "other side",
-      "url": "https://open.spotify.com/track/4LGJQOcTRZkYHzfJYu5k0Q"
     },
     {
       "added_at": "2026-11-03 23:00:10",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2026-11-03 23:00:10",
       "album": {
+        "name": "Ik dans alleen",
+        "url": "https://open.spotify.com/album/4ZXmPNKXS0TkKcGo0M1Yys"
+      },
+      "artists": [
+        {
+          "name": "Jelle van Dael",
+          "url": "https://open.spotify.com/artist/4CBytrQX85XtpfDzvdL3DI"
+        }
+      ],
+      "duration_ms": 167053,
+      "name": "Ik dans alleen",
+      "url": "https://open.spotify.com/track/1EcQgdFT4TZ0W4Ld2bHfq2"
+    },
+    {
+      "added_at": "2026-11-03 23:00:10",
+      "album": {
         "name": "Along the Lines of Loving",
         "url": "https://open.spotify.com/album/30Wvze6lFPQH3uGoqw7yPz"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 289852,
       "name": "Let Me Be Your Eyes",
       "url": "https://open.spotify.com/track/5ADMH7TW6DxmH8rnsC5AHD"
-    },
-    {
-      "added_at": "2026-11-03 23:00:10",
-      "album": {
-        "name": "Ik dans alleen",
-        "url": "https://open.spotify.com/album/4ZXmPNKXS0TkKcGo0M1Yys"
-      },
-      "artists": [
-        {
-          "name": "Jelle van Dael",
-          "url": "https://open.spotify.com/artist/4CBytrQX85XtpfDzvdL3DI"
-        }
-      ],
-      "duration_ms": 167053,
-      "name": "Ik dans alleen",
-      "url": "https://open.spotify.com/track/1EcQgdFT4TZ0W4Ld2bHfq2"
     },
     {
       "added_at": "2026-11-03 23:00:10",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2026-11-03 23:00:10",
       "album": {
+        "name": "Reason",
+        "url": "https://open.spotify.com/album/4QBfva2NWTMIb0mh1WElFT"
+      },
+      "artists": [
+        {
+          "name": "Noa Lee",
+          "url": "https://open.spotify.com/artist/4YGchyGbwAekTbhOxczQqM"
+        }
+      ],
+      "duration_ms": 191113,
+      "name": "Reason",
+      "url": "https://open.spotify.com/track/5sHwACFsl3OoxFdoBD0gcU"
+    },
+    {
+      "added_at": "2026-11-03 23:00:10",
+      "album": {
         "name": "Stranger's Eyes",
         "url": "https://open.spotify.com/album/1vH1BCcnvyOctYWLj3nryf"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 136331,
       "name": "Eind Goed Al Goed Toch?",
       "url": "https://open.spotify.com/track/0yLp9ZPsJlw8AyP4Ql0m0i"
-    },
-    {
-      "added_at": "2026-11-03 23:00:10",
-      "album": {
-        "name": "Reason",
-        "url": "https://open.spotify.com/album/4QBfva2NWTMIb0mh1WElFT"
-      },
-      "artists": [
-        {
-          "name": "Noa Lee",
-          "url": "https://open.spotify.com/artist/4YGchyGbwAekTbhOxczQqM"
-        }
-      ],
-      "duration_ms": 191113,
-      "name": "Reason",
-      "url": "https://open.spotify.com/track/5sHwACFsl3OoxFdoBD0gcU"
     },
     {
       "added_at": "2026-11-03 23:00:10",

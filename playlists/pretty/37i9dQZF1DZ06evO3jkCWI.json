@@ -1,12 +1,12 @@
 {
   "description": "This is Los Invasores De Nuevo Le\u00f3n. The essential tracks, all in one playlist.",
-  "num_followers": 206728,
+  "num_followers": 206752,
   "original_name": "This Is Los Invasores De Nuevo Le\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avENAAAAAADpefX1SOvPK7Eh1FIr6xdV",
+  "snapshot_id": "avOwAAAAAAC+lAcTKAqg7LYS7hBJmA5s",
   "tracks": [
     {
       "added_at": null,
@@ -639,6 +639,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Es Demasiado Tarde",
+        "url": "https://open.spotify.com/album/3RhITFDOGFitmcOtfUE2Kx"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 168160,
+      "name": "Vete Con El",
+      "url": "https://open.spotify.com/track/6UV3lfi399R9Gp9RvWCBbE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "D\u00e9jate Llevar",
         "url": "https://open.spotify.com/album/6OCVGmvD74MNcDpClL0uXT"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 211706,
       "name": "En El \u00daltimo Rinc\u00f3n",
       "url": "https://open.spotify.com/track/5JMWkaL8u03EbqsKS3mL14"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Es Demasiado Tarde",
-        "url": "https://open.spotify.com/album/3RhITFDOGFitmcOtfUE2Kx"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 186173,
-      "name": "Distancia Maldita",
-      "url": "https://open.spotify.com/track/3RhNtiTs0FwK9RpZpP7Xf8"
     },
     {
       "added_at": null,
@@ -707,6 +707,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Es Demasiado Tarde",
+        "url": "https://open.spotify.com/album/3RhITFDOGFitmcOtfUE2Kx"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 186173,
+      "name": "Distancia Maldita",
+      "url": "https://open.spotify.com/track/3RhNtiTs0FwK9RpZpP7Xf8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mi H\u00e9roe",
         "url": "https://open.spotify.com/album/1Flg5XJrhqjvd70wX6QV9C"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 159013,
       "name": "Degenerado",
       "url": "https://open.spotify.com/track/413NV5nNVfbEh7vG1x2GTl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Es Demasiado Tarde",
-        "url": "https://open.spotify.com/album/3RhITFDOGFitmcOtfUE2Kx"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 168160,
-      "name": "Vete Con El",
-      "url": "https://open.spotify.com/track/6UV3lfi399R9Gp9RvWCBbE"
     },
     {
       "added_at": null,
@@ -803,22 +803,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cielo",
-        "url": "https://open.spotify.com/album/2AEpGBgtmhI43nm7P2VWgI"
+        "name": "Jard\u00edn Del Amor",
+        "url": "https://open.spotify.com/album/2iZQVldZBZhB7uz4XVtl8M"
       },
       "artists": [
-        {
-          "name": "Los Regios",
-          "url": "https://open.spotify.com/artist/6ComYuBDvewAezU7Va3DoU"
-        },
         {
           "name": "Los Invasores De Nuevo Le\u00f3n",
           "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
         }
       ],
-      "duration_ms": 179351,
-      "name": "Cielo",
-      "url": "https://open.spotify.com/track/0OaJyJ4jdnTJB74VwhhEZ0"
+      "duration_ms": 214040,
+      "name": "Dios No Lo Quiera",
+      "url": "https://open.spotify.com/track/4AS7TdXyndLscNSLybJuA9"
     }
   ],
   "unique_name": "This Is Los Invasores De Nuevo Le\u00f3n",

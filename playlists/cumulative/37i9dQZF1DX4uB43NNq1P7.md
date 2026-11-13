@@ -4,7 +4,7 @@
 
 > The sounds of rain outside, while you're cozy inside with some relaxing piano music in the background.
 
-162 songs - 7 hr 14 min
+164 songs - 7 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Entre tus manos](https://open.spotify.com/track/66dhGa0VKUZwBQQ0vkIItG) | [Phases of You](https://open.spotify.com/artist/04f6XeDUKqybwfbSheAoWv) | [Entre tus manos](https://open.spotify.com/album/5loAom6m6jvgODXh7J3QqK) | 2:44 | 2023-03-13 | 2025-08-23 |
 | [Even Closer](https://open.spotify.com/track/2xIELXsAZNAi85cIKuHMFQ) | [Ivan Blois](https://open.spotify.com/artist/4dH20BbKaKVPBfwfmvUfZp) | [Even Closer](https://open.spotify.com/album/3xUOgQaLR9uXyfI560LnRM) | 2:15 | 2023-03-13 |  |
 | [Faces of Life](https://open.spotify.com/track/3OaoIj3nXqvoc43J9HPaQT) | [Sean Drake](https://open.spotify.com/artist/6JQ6Ivh7N5lXkLz2DqKS4E) | [Faces of Life](https://open.spotify.com/album/0AQkzszLcwT3psDzAQ6CEz) | 3:04 | 2023-08-02 |  |
+| [Faintly Remembered](https://open.spotify.com/track/68VUCJHt0Tf2JD3TrcAEss) | [Joseph Alphane](https://open.spotify.com/artist/65IJPn3wYi35Qpov4MXcFr) | [Faintly Remembered](https://open.spotify.com/album/4BSO9nyWffk4pB81I2tvwg) | 2:16 | 2026-11-13 |  |
 | [Fairy Dust in the Rain](https://open.spotify.com/track/1MU9fy4hMLoaLUc2bv8gtM) | [Sylvia McArther](https://open.spotify.com/artist/33hLKr1EfUrc14GnznVB21) | [Forest Crystals](https://open.spotify.com/album/5zFlNgmr3bSv5cxCAUE43h) | 2:56 | 2023-08-02 | 2024-01-10 |
 | [Filtered Light \(Rain\)](https://open.spotify.com/track/1LojjBNeJIcAvAiBcmVlV3) | [Teide](https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5) | [Filtered Light \(Rain\)](https://open.spotify.com/album/49nE3LTRvdivTulr4oenOs) | 3:02 | 2023-03-13 |  |
 | [Finding Stillness](https://open.spotify.com/track/1397Q9ntqPu4eLlTgxym8W) | [Phobic](https://open.spotify.com/artist/4pgvre1wDhGGmEbjevWClj) | [Finding Stillness](https://open.spotify.com/album/2qZdb0bjjwkug2ShGqADAw) | 1:59 | 2026-09-25 |  |
@@ -127,6 +128,7 @@
 | [Soft Piano In Light Rain](https://open.spotify.com/track/2t5rleV4AUS329uPShiEQ6) | [Wonderful Escape](https://open.spotify.com/artist/0PJ6I5TXDRK4pmLuSfh33T) | [Rain & Piano](https://open.spotify.com/album/4Hxom43QXe8rjoiw1uxyFB) | 3:20 | 2023-03-13 | 2025-03-05 |
 | [Soft Rain On The Pane](https://open.spotify.com/track/1XbbW2IdFethsMfNKPWSWu) | [The Gustaf](https://open.spotify.com/artist/10CHzX0eZwBquNxVAxKpv2) | [Soft Rain On The Pane](https://open.spotify.com/album/0UUJEjqBJsEN9KgUs7BWDK) | 2:18 | 2025-04-29 |  |
 | [Solitude \(rain\)](https://open.spotify.com/track/7rJ7Zhxvd04reQjatzKhCg) | [Ren Lockhart](https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp) | [Tjörnin \(rain\)](https://open.spotify.com/album/2KAYvmo41twqasnKkDigBs) | 3:36 | 2023-09-01 |  |
+| [Somewhere Between](https://open.spotify.com/track/5yzU3KEIJ2BIEmCKdNMWtm) | [Ziva](https://open.spotify.com/artist/3w8cRlmbnCOmIcFqwNyN1S) | [Somewhere Between](https://open.spotify.com/album/2a1aaFPZa7GjLN20DGLxXe) | 2:27 | 2026-11-13 |  |
 | [Soothing Raindrops](https://open.spotify.com/track/6U0aQFWE7BJj3WSxE0Q8oG) | [Epic Soundscapes](https://open.spotify.com/artist/5u0dE6Vw509dFP0YK5y8lc) | [Epic Rain & Piano \- vol.1](https://open.spotify.com/album/7rhRA2bs7V7dpaDqRhIPce) | 3:40 | 2023-03-13 |  |
 | [Sparkling Raindrops](https://open.spotify.com/track/5XGEqEZcTEazxrjUKxdmqe) | [Konstantin Rotärmel](https://open.spotify.com/artist/73x7dsM3ThlOaumf63iiyT) | [Feel The Rain](https://open.spotify.com/album/1xed5PITjxBUJt7JD5aK0b) | 2:07 | 2023-10-19 | 2024-04-19 |
 | [Sparkling Raindrops](https://open.spotify.com/track/6wa9UyYtc4fzGudPw0l361) | [Konstantin Rotärmel](https://open.spotify.com/artist/73x7dsM3ThlOaumf63iiyT) | [Feel the Rain](https://open.spotify.com/album/630CuaflRgHBARUoVuUJQ7) | 2:07 | 2023-03-13 |  |

@@ -584,7 +584,7 @@
       ],
       "date_added": "2026-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 230192,
       "name": "Creature",
       "url": "https://open.spotify.com/track/4KZaPLldsGdZ9wFBaodhu0"
@@ -2359,6 +2359,28 @@
     },
     {
       "album": {
+        "name": "Rainbow",
+        "url": "https://open.spotify.com/album/3T9MyhIWzknmBECzO1DR4x"
+      },
+      "artists": [
+        {
+          "name": "OS",
+          "url": "https://open.spotify.com/artist/2reYn5CRdrqSoiIwODFqUg"
+        },
+        {
+          "name": "Silverbird",
+          "url": "https://open.spotify.com/artist/035EbN0ZDZgyxcR2nzZUvW"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179066,
+      "name": "Rainbow",
+      "url": "https://open.spotify.com/track/3GB94rRWmLt9bHNWgy7Z80"
+    },
+    {
+      "album": {
         "name": "Rainbows",
         "url": "https://open.spotify.com/album/2SE9JJtLa3MXV9q0IyctMf"
       },
@@ -3550,7 +3572,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 126008,
       "name": "Wake Up From This Nightmare",
       "url": "https://open.spotify.com/track/09PevcRkdtEdQYjygC8wEU"
@@ -3666,6 +3688,24 @@
       "duration_ms": 156225,
       "name": "What Does Bob Think?",
       "url": "https://open.spotify.com/track/41Mfjkvgz4I7QZDTRKUQyV"
+    },
+    {
+      "album": {
+        "name": "When I'm with You",
+        "url": "https://open.spotify.com/album/4r3NS62R3Ru8rPAwdstcny"
+      },
+      "artists": [
+        {
+          "name": "RCKYLNDN",
+          "url": "https://open.spotify.com/artist/5WSiPMaJ4FK3v4v7mqXewG"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254400,
+      "name": "When I'm with You",
+      "url": "https://open.spotify.com/track/47CJxF0UrfLxJjTXf194MN"
     },
     {
       "album": {

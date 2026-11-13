@@ -4,7 +4,7 @@
 
 > New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: Modeā
 
-2,101 songs - 4 day 5 hr 12 min
+2,103 songs - 4 day 5 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -503,6 +503,7 @@
 | [Drifting](https://open.spotify.com/track/4EmH2iRucAgCOnhuJRotUi) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Drifting](https://open.spotify.com/album/2kLk6nNB65O9AA6EmaI5DG) | 2:27 | 2023-06-22 | 2023-07-21 |
 | [Drifting \(Arodes Remix\)](https://open.spotify.com/track/6Oy2VKOZ2sduYfNu7Eje3f) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt), [Arodes](https://open.spotify.com/artist/4p2f8wUtltMAFuIJB4NR47) | [Drifting \(Arodes Remix\)](https://open.spotify.com/album/5bbRJwFsL9GVfBW4PHFIlt) | 3:03 | 2025-08-01 |  |
 | [Drifting \(SISTEK Remix\)](https://open.spotify.com/track/0wYI9ob0NLlUJTkSC3a4yV) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt), [Sistek](https://open.spotify.com/artist/7AfIBbjDpPR6FlLWLsAcHu) | [Drifting \(Remixes\)](https://open.spotify.com/album/2rCBDFnr6sMOrei4zh2kvS) | 3:58 | 2024-08-23 | 2024-08-30 |
+| [Drinking To Forget You \(feat\. CERES\)](https://open.spotify.com/track/75ZLttvMJajeCqB8uZzZw9) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [REVELATIONS](https://open.spotify.com/album/0GIMc0FfEfEEwnao2B3Bgo) | 2:25 | 2026-11-12 |  |
 | [Drip N Drop](https://open.spotify.com/track/7yZdhvfPmYX8FqFSrek5As) | [Fraxy](https://open.spotify.com/artist/2AiK07wBzpRw0r1uvJZboa) | [Drip N Drop](https://open.spotify.com/album/6o3w06lM3T7xwaNHg9jByY) | 2:20 | 2024-03-15 | 2024-03-23 |
 | [DRIVER'S SEAT](https://open.spotify.com/track/1xzlWb3RiPhRWYzH5quw62) | [ANGELPLAYA](https://open.spotify.com/artist/4WcJRxmR6wNm0L1acKLKVo) | [DRIVER'S SEAT](https://open.spotify.com/album/3o2SdN0fuO8Sg6STcvd3Qi) | 2:17 | 2023-07-27 | 2023-08-20 |
 | [Drop Da Bomb](https://open.spotify.com/track/2p7x2Ogr7rVINUj7AT1M6L) | [Bombs Away](https://open.spotify.com/artist/1YlyxjwYNSjBD0NAJGEfWB), [Luciana](https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV) | [Drop Da Bomb](https://open.spotify.com/album/1gK92tqHvmH1We7jphlE0N) | 2:29 | 2023-03-09 | 2023-03-18 |
@@ -1654,6 +1655,7 @@
 | [SLS \(feat\. Alex Price\)](https://open.spotify.com/track/1wHd984Gz1MVNiBPRdutud) | [Doozie](https://open.spotify.com/artist/094tZMLXkYiIpf6u2XAaX1), [Malive](https://open.spotify.com/artist/5JsnFhU4OqgEtNXs7Sq1Vm), [Alex Price](https://open.spotify.com/artist/2xtZchCzPx5YtM0cMNKedw) | [SLS \(feat\. Alex Price\)](https://open.spotify.com/album/2CbFv2dQOFra4nV6V2uTQI) | 3:13 | 2023-06-22 | 2023-07-09 |
 | [Smack That](https://open.spotify.com/track/2t3BPeHvHRz6T0EEFfkJ9l) | [Steff da Campo](https://open.spotify.com/artist/7Bo6vpAmmhylCRWoHSBkcZ), [ROOSTERJAXX](https://open.spotify.com/artist/5s9BO1SFLuFK7SgVd86h1l) | [Smack That](https://open.spotify.com/album/7JjwvCm8V9tk8WQQs76uzs) | 2:25 | 2023-06-15 | 2023-07-01 |
 | [Smile](https://open.spotify.com/track/6xHyykn4eSkjQs6Ci73Nf1) | [Steve Chris](https://open.spotify.com/artist/1ZtZJPMuPeN1JQcOta58KI), [Venes](https://open.spotify.com/artist/6bPCwlvecIvvfvB2a1mShc) | [Smile](https://open.spotify.com/album/1XFefiA64fuTrqGpsynbAe) | 2:33 | 2026-05-29 |  |
+| [Smoke & Lazers](https://open.spotify.com/track/0FRhp8czW9og1Y4hs2AMkx) | [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO), [EV](https://open.spotify.com/artist/1qOueWotu6CIb1GMoib2GX), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [Smoke & Lazers](https://open.spotify.com/album/1seWQNnFkSX95r8yHtnOdb) | 2:56 | 2026-11-12 |  |
 | [Snake Pit](https://open.spotify.com/track/5GQRu63MroIMnM7DPH75Mi) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5), [Yosuf](https://open.spotify.com/artist/0pceb68in41LfgvQbkvCzg) | [Timmy Trumpet's SINPHONY No\. 2](https://open.spotify.com/album/2SBIYlYYL5S9VBd2NsbzFm) | 2:18 | 2024-04-26 | 2024-05-03 |
 | [Snakes 2022](https://open.spotify.com/track/75bbJMLDvW4wYA6hJZkGpQ) | [Sikdope](https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG) | [Snakes 2022](https://open.spotify.com/album/02R4W0mbgjy7dgAkqJAmEQ) | 2:22 | 2022-10-07 | 2022-10-21 |
 | [So Different](https://open.spotify.com/track/7ncQlEWDcux4xhuoGzY2Lc) | [Pickle](https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt), [TOYZZ](https://open.spotify.com/artist/79WxyVmZBcttTrPqhaAOwV) | [So Different](https://open.spotify.com/album/36Qxy0uYkoTu5sVWvIzoVZ) | 3:00 | 2024-07-25 | 2024-08-02 |

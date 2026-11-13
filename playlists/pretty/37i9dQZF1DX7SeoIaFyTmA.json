@@ -1,6 +1,6 @@
 {
   "description": "Timeless Salsa from your favorite legends.",
-  "num_followers": 1565285,
+  "num_followers": 1565502,
   "original_name": "Salsa Classics",
   "owner": {
     "name": "Spotify",
@@ -1635,6 +1635,22 @@
     {
       "added_at": "2026-10-01 23:32:36",
       "album": {
+        "name": "El Cantante de los Cantantes",
+        "url": "https://open.spotify.com/album/1uj6t6QrkyuyeHdHcKporK"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 622520,
+      "name": "El Cantante",
+      "url": "https://open.spotify.com/track/0C279YvVWJcmFMSDtqIGfq"
+    },
+    {
+      "added_at": "2026-10-01 23:32:36",
+      "album": {
         "name": "Detalles",
         "url": "https://open.spotify.com/album/0yw16WalUWK5vOUbFlGYAI"
       },
@@ -1651,18 +1667,18 @@
     {
       "added_at": "2026-10-01 23:32:36",
       "album": {
-        "name": "El Cantante de los Cantantes",
-        "url": "https://open.spotify.com/album/1uj6t6QrkyuyeHdHcKporK"
+        "name": "La Herencia",
+        "url": "https://open.spotify.com/album/7C94KIrL1IS3hHQwQ9BbGr"
       },
       "artists": [
         {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+          "name": "Ismael Rivera",
+          "url": "https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ"
         }
       ],
-      "duration_ms": 622520,
-      "name": "El Cantante",
-      "url": "https://open.spotify.com/track/0C279YvVWJcmFMSDtqIGfq"
+      "duration_ms": 214213,
+      "name": "Dime Por Que",
+      "url": "https://open.spotify.com/track/7zKdfPOyJvmtzVIgZYheGZ"
     },
     {
       "added_at": "2026-10-01 23:32:36",
@@ -1695,22 +1711,6 @@
       "duration_ms": 284653,
       "name": "Fuego En El 23",
       "url": "https://open.spotify.com/track/60HG3jOvvG7XITdy6F06el"
-    },
-    {
-      "added_at": "2026-10-01 23:32:36",
-      "album": {
-        "name": "La Salsa Met\u00e1lica Volvi\u00f3 Con Todos los Hierros",
-        "url": "https://open.spotify.com/album/0axC56ZBZxOVR8hSCx22ZR"
-      },
-      "artists": [
-        {
-          "name": "Sonora Carruseles",
-          "url": "https://open.spotify.com/artist/34qU0b0yRjEzRJtknerEDS"
-        }
-      ],
-      "duration_ms": 284706,
-      "name": "Micaela",
-      "url": "https://open.spotify.com/track/1NQpbF1vSX5pxCbUDk6ww5"
     }
   ],
   "unique_name": "Salsa Classics",

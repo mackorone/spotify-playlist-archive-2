@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Temper City au top des meilleurs morceaux rock du moment.",
+  "description": "U2 au top des meilleurs morceaux rock du moment.",
   "name": "Top of the Rock",
   "tracks": [
     {
@@ -2428,7 +2428,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 224680,
       "name": "FACE",
       "url": "https://open.spotify.com/track/3S35wYVtK0WSgKSfAXiC5I"
@@ -2522,7 +2522,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 192853,
       "name": "Feel Alive",
       "url": "https://open.spotify.com/track/387V585RTxCBbun1ujV25n"
@@ -2842,7 +2842,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 193733,
       "name": "Go Away",
       "url": "https://open.spotify.com/track/1O9D7P7Z1wMJXW19zTXrXi"
@@ -3774,7 +3774,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 273906,
       "name": "In A Life",
       "url": "https://open.spotify.com/track/1fbIlgO7EgYsDzk3r3uRz2"
@@ -4721,6 +4721,24 @@
     },
     {
       "album": {
+        "name": "Make It Easy",
+        "url": "https://open.spotify.com/album/7zfkgL9UrW9KkVupjbHQJk"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197018,
+      "name": "Make It Easy",
+      "url": "https://open.spotify.com/track/1sTGDnMOSEFYMW3zDPYF7M"
+    },
+    {
+      "album": {
         "name": "Make It Out Alive",
         "url": "https://open.spotify.com/album/6FRkntES0AkBOQu9AOHNeo"
       },
@@ -4988,6 +5006,24 @@
       "duration_ms": 171891,
       "name": "Motel Way of Life",
       "url": "https://open.spotify.com/track/3hqNVh2HrQyX0j9FsjSQX9"
+    },
+    {
+      "album": {
+        "name": "Dead Company",
+        "url": "https://open.spotify.com/album/4dICy1P1QDSEY83qSZEsjh"
+      },
+      "artists": [
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179881,
+      "name": "Mother Never Told You",
+      "url": "https://open.spotify.com/track/30LAPViPx3cUA8KUGNk4rP"
     },
     {
       "album": {
@@ -6316,6 +6352,24 @@
       "duration_ms": 166432,
       "name": "Rocket",
       "url": "https://open.spotify.com/track/1LmOToT3RH1OEZsQ6Q4Jfb"
+    },
+    {
+      "album": {
+        "name": "O My Beloved",
+        "url": "https://open.spotify.com/album/02K3LVfeVC1rPBD6OsANBy"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205741,
+      "name": "Rose",
+      "url": "https://open.spotify.com/track/0yQKZCTATuLTAeg89LccWn"
     },
     {
       "album": {
@@ -8372,6 +8426,28 @@
       "duration_ms": 240590,
       "name": "Top 10 staTues tHat CriEd bloOd",
       "url": "https://open.spotify.com/track/7g4hIeYVk3h5qQXb9RLeXP"
+    },
+    {
+      "album": {
+        "name": "Carnaval De Luz",
+        "url": "https://open.spotify.com/album/07Q9bUJarYrFjhxofoenM0"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270285,
+      "name": "Torn (feat. Dolly Parton)",
+      "url": "https://open.spotify.com/track/28voksbZPIhS2dJV6iLS1h"
     },
     {
       "album": {

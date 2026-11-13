@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "The sound of the underground. Cover: Native James",
+  "description": "The sound of the underground. Cover: Bullet For My Valentine",
   "name": "The Pit",
   "tracks": [
     {
@@ -132,6 +132,24 @@
       "duration_ms": 236775,
       "name": "1x1",
       "url": "https://open.spotify.com/track/1I85hmQ802nxEF0OAoUZxN"
+    },
+    {
+      "album": {
+        "name": "404notfound",
+        "url": "https://open.spotify.com/album/7APyrfwXAJzzG8IBUAOlWF"
+      },
+      "artists": [
+        {
+          "name": "Eternal Rin",
+          "url": "https://open.spotify.com/artist/7sOtvyIRYPD9YzyQfu03Ek"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266530,
+      "name": "404notfound",
+      "url": "https://open.spotify.com/track/02vtCYgPkd9frCTcJTGA46"
     },
     {
       "album": {
@@ -1589,6 +1607,24 @@
     },
     {
       "album": {
+        "name": "BLACK SHEEP",
+        "url": "https://open.spotify.com/album/1SsXI4HzkULJ9IgCRNdobu"
+      },
+      "artists": [
+        {
+          "name": "Make Them Suffer",
+          "url": "https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249520,
+      "name": "BLACK SHEEP",
+      "url": "https://open.spotify.com/track/68chs4vh0WYHDXrUgxKdWj"
+    },
+    {
+      "album": {
         "name": "If Not Winter",
         "url": "https://open.spotify.com/album/6R21I5E805CLZmDn8vESQM"
       },
@@ -1784,7 +1820,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 172066,
       "name": "Blood Pact",
       "url": "https://open.spotify.com/track/6WKDwbfSvpgdsO7J1j2Ujx"
@@ -3177,6 +3213,24 @@
     },
     {
       "album": {
+        "name": "Crucible",
+        "url": "https://open.spotify.com/album/6lfPgNHpPhlu03j2AwObqM"
+      },
+      "artists": [
+        {
+          "name": "TesseracT",
+          "url": "https://open.spotify.com/artist/23ytwhG1pzX6DIVWRWvW1r"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210600,
+      "name": "Crucible",
+      "url": "https://open.spotify.com/track/7ffLlUJAIemMNaGO2uApKX"
+    },
+    {
+      "album": {
         "name": "Crucified",
         "url": "https://open.spotify.com/album/5Jz2uk2TgskbcQF5maAxeE"
       },
@@ -3372,7 +3426,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 134623,
       "name": "Damnation",
       "url": "https://open.spotify.com/track/1CHCx6zSObDtELERfg30FN"
@@ -4282,7 +4336,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 204714,
       "name": "do or die",
       "url": "https://open.spotify.com/track/0Tg0Ac65nMkQE72afNKe0F"
@@ -5181,6 +5235,28 @@
     },
     {
       "album": {
+        "name": "fangs!! (feat. Jacob Charlton)",
+        "url": "https://open.spotify.com/album/6I2I9MQKAia21pTz5SparO"
+      },
+      "artists": [
+        {
+          "name": "Silent Planet",
+          "url": "https://open.spotify.com/artist/0JGTiwfinlCuANGu4Gq2XU"
+        },
+        {
+          "name": "Jacob Charlton",
+          "url": "https://open.spotify.com/artist/2HqCz2f12Frw8b3MLGDU0s"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233426,
+      "name": "fangs!! (feat. Jacob Charlton)",
+      "url": "https://open.spotify.com/track/0QzSO1N189wfc4XYHUZg3w"
+    },
+    {
+      "album": {
         "name": "Far",
         "url": "https://open.spotify.com/album/0ER0N9enALbr72SfW154lP"
       },
@@ -5583,6 +5659,24 @@
     },
     {
       "album": {
+        "name": "Fool",
+        "url": "https://open.spotify.com/album/23CtkCYNEeDhqvp1XFLQlu"
+      },
+      "artists": [
+        {
+          "name": "Mouth Culture",
+          "url": "https://open.spotify.com/artist/4Fc4GqcYwYnTePiW3nggrd"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232403,
+      "name": "Fool",
+      "url": "https://open.spotify.com/track/43QcY6QM8NxPERJA1uzaKk"
+    },
+    {
+      "album": {
         "name": "How To Disappear",
         "url": "https://open.spotify.com/album/1zwEmwHMjcL6eFesggCTOR"
       },
@@ -5898,6 +5992,24 @@
       "duration_ms": 174000,
       "name": "FULLY LXADED",
       "url": "https://open.spotify.com/track/6PlglMPBAatGSSGORRnmHA"
+    },
+    {
+      "album": {
+        "name": "It was only a dream",
+        "url": "https://open.spotify.com/album/22DbAhXhwLN1Q4xkA047OC"
+      },
+      "artists": [
+        {
+          "name": "Amira Elfeky",
+          "url": "https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198093,
+      "name": "Funeral",
+      "url": "https://open.spotify.com/track/35qlLHdXJ60WKwKIryhL0U"
     },
     {
       "album": {
@@ -6768,7 +6880,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-06",
+      "date_removed": null,
       "duration_ms": 196442,
       "name": "Halo",
       "url": "https://open.spotify.com/track/1vW6LHtAe0wu8uVehErPsQ"
@@ -7566,6 +7678,32 @@
       "duration_ms": 264611,
       "name": "I COME ALIVE",
       "url": "https://open.spotify.com/track/4SfQjOiGqT5eYE8C8pR8Kz"
+    },
+    {
+      "album": {
+        "name": "I Don't Trust Tomorrow",
+        "url": "https://open.spotify.com/album/3A9RwIkOqmTjxTTKKCOrzw"
+      },
+      "artists": [
+        {
+          "name": "Bullet For My Valentine",
+          "url": "https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT"
+        },
+        {
+          "name": "Will Ramos",
+          "url": "https://open.spotify.com/artist/0LQyNolD82BRJeXoEr4bwa"
+        },
+        {
+          "name": "Lorna Shore",
+          "url": "https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219819,
+      "name": "I Don't Trust Tomorrow",
+      "url": "https://open.spotify.com/track/3fJ7bg6WdnWEPfkmdFqqxk"
     },
     {
       "album": {
@@ -8502,7 +8640,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 206000,
       "name": "Kerosene",
       "url": "https://open.spotify.com/track/2xixXiLYi3FsNF0m9vEV2G"
@@ -8578,7 +8716,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-09",
+      "date_removed": null,
       "duration_ms": 187464,
       "name": "Kill Me First",
       "url": "https://open.spotify.com/track/1mFvTywPa4teyAeo9frqAY"
@@ -8914,7 +9052,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 219675,
       "name": "Leeches - Demo",
       "url": "https://open.spotify.com/track/7IplvxFsoW4JkDXydqB0Mu"
@@ -9994,7 +10132,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 193263,
       "name": "MINE",
       "url": "https://open.spotify.com/track/22Hm6S9Lz2DfhC6XaDMIWy"
@@ -12384,7 +12522,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 174609,
       "name": "Rote Zora. \u201cResistance is Possible.\u201d Emma, no. 6, June 1984, pp. 39-41.",
       "url": "https://open.spotify.com/track/4RhzATKCn3I11zThqRc27o"
@@ -13242,7 +13380,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 215330,
       "name": "SLAY",
       "url": "https://open.spotify.com/track/7G8riIGRDwwwORrMKqcHiD"
@@ -13716,6 +13854,24 @@
       "duration_ms": 245350,
       "name": "St. Catherine's Wheel",
       "url": "https://open.spotify.com/track/0i3gZrr7j8WYvjDbhcR1oB"
+    },
+    {
+      "album": {
+        "name": "The World Can't Take Much More",
+        "url": "https://open.spotify.com/album/0S9t5NWy0lYIBHyL4oPj7x"
+      },
+      "artists": [
+        {
+          "name": "Reclus.\u00c9",
+          "url": "https://open.spotify.com/artist/77myKiTzTz50cL8cMxBuvV"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246158,
+      "name": "Stain",
+      "url": "https://open.spotify.com/track/50jpaPK56Yguju91mBrT4b"
     },
     {
       "album": {
@@ -14452,7 +14608,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 219179,
       "name": "Tequila Sunrise",
       "url": "https://open.spotify.com/track/5Tw4TT8Ii1AiYTedzSIyli"
@@ -16214,7 +16370,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 209160,
       "name": "Virtual Lover",
       "url": "https://open.spotify.com/track/2PpCKWp67hO4NKvQr10Q8o"

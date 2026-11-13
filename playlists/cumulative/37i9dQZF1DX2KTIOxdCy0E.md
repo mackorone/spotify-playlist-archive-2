@@ -4,7 +4,7 @@
 
 > First comes love, then comes life\. Listen to the music from Nobody Wants This, curated by The Core, Interscope and Aperture Music, now streaming on Netflix.
 
-200 songs - 11 hr 33 min
+201 songs - 11 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Love Sensation](https://open.spotify.com/track/1ViHUUTbkDgS9iyLmWgIYt) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [CONFESSIONS II](https://open.spotify.com/album/1CWY6mfnuLlF4BKRLFcUDQ) | 3:47 | 2026-10-22 |  |
 | [Love Sick \(from the Netflix Series "Nobody Wants This" Season 3\)](https://open.spotify.com/track/760I6OX8k9KkzleuigUcc2) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Love Sick \(from the Netflix Series "Nobody Wants This" Season 3\)](https://open.spotify.com/album/2l7dOY9oiOln2Ln4osavpP) | 3:07 | 2026-10-23 |  |
 | [Lover](https://open.spotify.com/track/1dGr1c8CrMLDpV6mPbImSI) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 3:41 | 2026-10-22 |  |
+| [MADE OF MAGIC](https://open.spotify.com/track/538tCg5oDkDNXVfky5JSnD) | [LUNAKAI](https://open.spotify.com/artist/4Ts4xfjHoEysIz3crghYjf), [Kari Aryeh](https://open.spotify.com/artist/2Lt8k0ywBP6I95YzjqrH4s) | [MADE OF MAGIC](https://open.spotify.com/album/6V7aiOy3cl1o1HZoeu8MfS) | 3:32 | 2026-11-12 |  |
 | [Manchild](https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Manchild](https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic) | 3:33 | 2025-10-23 |  |
 | [Margaret \(feat\. Bleachers\)](https://open.spotify.com/track/1o82DwNisONAd2mu1RcGE6) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 5:39 | 2024-09-19 |  |
 | [Melodies](https://open.spotify.com/track/5BUSg4tq2BA0BqMNsaYknF) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Nobody Wants This Season 2: The Soundtrack](https://open.spotify.com/album/1XKT456HjHTeUw56O9HQEe) | 2:37 | 2025-10-23 |  |

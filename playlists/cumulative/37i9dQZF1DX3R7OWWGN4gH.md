@@ -4,7 +4,7 @@
 
 > entering my reputation era
 
-325 songs - 17 hr 49 min
+326 songs - 17 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,6 +181,7 @@
 | [killer queen](https://open.spotify.com/track/0qo1JukfClmpHnUOJxpFXi) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [killer queen](https://open.spotify.com/album/09h4w3F8jXAQnbYmGYktRR) | 2:58 | 2022-04-15 | 2024-11-15 |
 | [Killer Queen](https://open.spotify.com/track/4mKlzy0qaK1c2Qw5e2VqpF) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Greatest Hits](https://open.spotify.com/album/2vDNi8F9UpSCaBHeKQ3nzh) | 3:00 | 2022-01-27 | 2022-06-03 |
 | [Killer Queen \- Remastered 2011](https://open.spotify.com/track/7GqWnsKhMtEW0nzki5o0d8) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Sheer Heart Attack \(Deluxe Remastered Version\)](https://open.spotify.com/album/6RJyYMIrOtx3VnNIoq31kj) | 2:59 | 2022-01-27 | 2024-04-19 |
+| [Killer, Baby](https://open.spotify.com/track/1rFmwFVlQR0EjWBingBep6) | [Alfie Castley](https://open.spotify.com/artist/4t5uGGNiFjujYEEyVVDEwc) | [Killer, Baby](https://open.spotify.com/album/5Pp56WPDTfooS4XEhiRlMJ) | 2:46 | 2026-11-12 |  |
 | [Killing Butterflies](https://open.spotify.com/track/3R8PKPTPgHApBhCt3NUJ0q) | [Lou Bliss](https://open.spotify.com/artist/3mRtqarEAPGOkpadcWZgdY) | [Killing Butterflies](https://open.spotify.com/album/6avxfpUklBv0idzCXnGtt6) | 2:50 | 2025-11-28 |  |
 | [Kiss or Kill](https://open.spotify.com/track/5hnbeU7sovzIrN8vbLuVpB) | [Stela Cole](https://open.spotify.com/artist/1PlWf6idMAz65Luiq6aOY9) | [Woman of the Hour](https://open.spotify.com/album/73L7cGKM1ipslSGZ1dsmmj) | 3:00 | 2022-07-15 | 2022-07-29 |
 | [Kiss The Ground](https://open.spotify.com/track/4hXc50b59ywx8cdg9KlHCQ) | [Haven Madison](https://open.spotify.com/artist/4bkKamJB5V4yN1llhAv6RZ) | [Turn Off All The Lights](https://open.spotify.com/album/4HE5bl6sodd4gAXj3COIeJ) | 2:35 | 2024-04-26 | 2024-07-13 |
@@ -263,7 +264,7 @@
 | [SINS](https://open.spotify.com/track/3zm96XNTmVVUSL9LEJsMtW) | [Red Leather](https://open.spotify.com/artist/2qltFRTCjw1j67Da9FR8F1) | [SINS](https://open.spotify.com/album/7dBIrsWSqBofw64rRCk6ra) | 2:57 | 2022-09-04 | 2022-10-30 |
 | [Skyfall](https://open.spotify.com/track/6VObnIkLVruX4UVyxWhlqm) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Skyfall](https://open.spotify.com/album/6TwN6Lq9glwnG8kNp6chHY) | 4:46 | 2022-01-27 |  |
 | [Slip](https://open.spotify.com/track/3NVIEjLyQjAMGS36DJzSyt) | [JPOLND](https://open.spotify.com/artist/3k4Tgw8lb1CtDAiErniQu1) | [Slip](https://open.spotify.com/album/2SR5aY4lAw5PzqsqTYnIwA) | 3:09 | 2022-01-27 | 2022-07-21 |
-| [Smells Like Teen Spirit](https://open.spotify.com/track/1gnSosKDAUGYPTkTLiG5DW) | [Malia J](https://open.spotify.com/artist/6iY5faxtqPs0eA1OeSvsAQ) | [Smells Like Teen Spirit](https://open.spotify.com/album/6TIj4zX0PCftJPdTKsk6As) | 3:59 | 2022-01-27 |  |
+| [Smells Like Teen Spirit](https://open.spotify.com/track/1gnSosKDAUGYPTkTLiG5DW) | [Malia J](https://open.spotify.com/artist/6iY5faxtqPs0eA1OeSvsAQ) | [Smells Like Teen Spirit](https://open.spotify.com/album/6TIj4zX0PCftJPdTKsk6As) | 3:59 | 2022-01-27 | 2026-11-13 |
 | [Smile](https://open.spotify.com/track/2f5IZC0qm02BOmKp5rbZgU) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Birds of Prey: The Album](https://open.spotify.com/album/3wITH77YIxYdtVv1W4W1SI) | 2:37 | 2022-01-27 | 2022-04-21 |
 | [Smoke Hole \- Edit](https://open.spotify.com/track/63ajBqgNVFVtkE7vhyBkny) | [Sad Night Dynamite](https://open.spotify.com/artist/6ydvoGN30eRfE78bjTANF7) | [Smoke Hole](https://open.spotify.com/album/1TJpngFnTnOBmFbl1FqyOK) | 2:47 | 2022-01-27 | 2022-05-25 |
 | [So I Danced](https://open.spotify.com/track/6OXq1P3P8Z8ky2x8dDtHSH) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [So I Danced](https://open.spotify.com/album/64wAIYcs6KRlXKWwPdgiLW) | 2:53 | 2023-09-22 | 2023-11-16 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Bonobo. The essential tracks, all in one playlist.",
-  "num_followers": 164797,
+  "num_followers": 164805,
   "original_name": "This Is Bonobo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avENAAAAAACq5S4FuRJHWhu2/3qyGcfx",
+  "snapshot_id": "avOwAAAAAAADtIqT2Yr7DdEc5fbmhwAg",
   "tracks": [
     {
       "added_at": null,
@@ -398,11 +398,15 @@
         {
           "name": "Bonobo",
           "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        },
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
         }
       ],
-      "duration_ms": 182293,
-      "name": "Elysian",
-      "url": "https://open.spotify.com/track/0PYMIPuZk9AjcmkscMeC3D"
+      "duration_ms": 210280,
+      "name": "From You",
+      "url": "https://open.spotify.com/track/6t2gHlvw7kTK6M7M5f7S6K"
     },
     {
       "added_at": null,
@@ -470,15 +474,11 @@
         {
           "name": "Bonobo",
           "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        },
-        {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
         }
       ],
-      "duration_ms": 210280,
-      "name": "From You",
-      "url": "https://open.spotify.com/track/6t2gHlvw7kTK6M7M5f7S6K"
+      "duration_ms": 182293,
+      "name": "Elysian",
+      "url": "https://open.spotify.com/track/0PYMIPuZk9AjcmkscMeC3D"
     },
     {
       "added_at": null,

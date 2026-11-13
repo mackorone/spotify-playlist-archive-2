@@ -1,12 +1,12 @@
 {
   "description": "This is Eslabon Armado. The essential tracks, all in one playlist.",
-  "num_followers": 221506,
+  "num_followers": 221555,
   "original_name": "This Is Eslabon Armado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avENAAAAAAAYGBmoM0K8nW7aedM7y0zs",
+  "snapshot_id": "avOwAAAAAAD4UwMmx9LCyDd+CaZnhW0q",
   "tracks": [
     {
       "added_at": null,
@@ -94,11 +94,15 @@
         {
           "name": "Eslabon Armado",
           "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        },
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
         }
       ],
-      "duration_ms": 203706,
-      "name": "Me Matas",
-      "url": "https://open.spotify.com/track/50g9l7cOUIXt9LVl9eX784"
+      "duration_ms": 275194,
+      "name": "Jugaste y Sufr\u00ed",
+      "url": "https://open.spotify.com/track/3NqBxTOMCJ3zW9CIP51td4"
     },
     {
       "added_at": null,
@@ -166,15 +170,11 @@
         {
           "name": "Eslabon Armado",
           "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        },
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
         }
       ],
-      "duration_ms": 275194,
-      "name": "Jugaste y Sufr\u00ed",
-      "url": "https://open.spotify.com/track/3NqBxTOMCJ3zW9CIP51td4"
+      "duration_ms": 203706,
+      "name": "Me Matas",
+      "url": "https://open.spotify.com/track/50g9l7cOUIXt9LVl9eX784"
     },
     {
       "added_at": null,

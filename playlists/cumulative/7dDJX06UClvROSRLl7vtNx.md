@@ -4,7 +4,7 @@
 
 > Summer 2026 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-1,539 songs - 2 day 18 hr 13 min
+1,541 songs - 2 day 18 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -515,6 +515,7 @@
 | [Heartbreak Or Two](https://open.spotify.com/track/10Gu0dKMkGA8ih1gVpWKeQ) | [Fex](https://open.spotify.com/artist/5R6neU5Q3eyHGXwDT6ZlMM), [Motik](https://open.spotify.com/artist/0bbGuJjcgH3cS4EyF8PhhX), [Spijk](https://open.spotify.com/artist/3KXJ7gaMIWeUQb3gY24idX) | [Heartbreak Or Two](https://open.spotify.com/album/1Wf4aVmBLGlmPhVEjX45Uw) | 2:57 | 2026-05-29 | 2026-07-25 |
 | [Hearts Collide](https://open.spotify.com/track/3EbeZtfFbp2zAYZyJv55Kg) | [leisse](https://open.spotify.com/artist/0uIEHVqB8Kkz3epLhyzjhs) | [Hearts Collide](https://open.spotify.com/album/2JvqQZD4tzk18z9xIwtj6O) | 1:58 | 2023-09-22 | 2024-07-31 |
 | [Heavy Heart](https://open.spotify.com/track/4kO88ZygPdD1D6r2t8ZOjc) | [Eneko Artola](https://open.spotify.com/artist/3Q3pmaIKRKXh2e0g4A4Xpc) | [Heavy Heart](https://open.spotify.com/album/0AlEUs6KsEpGQKtFd6bpIx) | 2:24 | 2025-06-01 | 2025-09-01 |
+| [Helium](https://open.spotify.com/track/42Y8WxRlVyFIC1oJuDmlQl) | [Palmero](https://open.spotify.com/artist/5hV5GLJ6kmWccJriPOPsOn) | [Helium](https://open.spotify.com/album/3fhyYz2oP329A36y1mBqtY) | 2:12 | 2026-11-12 |  |
 | [Here Alone](https://open.spotify.com/track/6tLOoOROOk2bOBavroNsZr) | [nineveh.](https://open.spotify.com/artist/73AdEqHxLEDFFXecpOXrbU), [sznl.](https://open.spotify.com/artist/6RS7KaHU2V9KdPWknkUBl6), [maybealice](https://open.spotify.com/artist/4eBYaVn9ipycqNyknk2nPb) | [Here Alone](https://open.spotify.com/album/6vM1oqLYAnBFghBaBNoJMb) | 2:20 | 2023-11-12 | 2025-07-14 |
 | [Here By My Side](https://open.spotify.com/track/3NkL9FHH8gpYyZ65xZlYuX) | [Lane Boy](https://open.spotify.com/artist/0ABF5V88EylbLU08lCp9N3), [Mason](https://open.spotify.com/artist/4jXbk5gQsWSBWL8HGnIcoh) | [Here By My Side](https://open.spotify.com/album/0GzKosrC9ZCLv1l4xCGalb) | 2:17 | 2025-08-15 | 2026-03-25 |
 | [Here Comes The Sun](https://open.spotify.com/track/3GBLdwpPImhb3CPGnHYSXc) | [KALUMA](https://open.spotify.com/artist/4dgLZMavMm3danubiJxbtw), [BOILERS](https://open.spotify.com/artist/3xdxQ8fboHLHVfL9R4MvZ8), [Gunnva](https://open.spotify.com/artist/7MVtZkqiCMOWchZpXPEMXh) | [Here Comes The Sun](https://open.spotify.com/album/3KXCd6cW6NNwk9Udhoylwb) | 3:06 | 2023-09-22 | 2024-06-08 |
@@ -967,6 +968,7 @@
 | [Not The Only One](https://open.spotify.com/track/0bGq9gcGm1jyHUdYqoQtsY) | [Planetopia](https://open.spotify.com/artist/5yE8mOpWjlbco6luZB04eb) | [Not The Only One](https://open.spotify.com/album/5MOh0lvL0EuY9xoTqpx6rt) | 2:20 | 2025-02-07 | 2025-03-15 |
 | [Nothing Compares](https://open.spotify.com/track/71buKiy5zu2zUm0PBrsIZ4) | [Riesling](https://open.spotify.com/artist/3GxT7ZybNZXWlMR1eopmx9), [Joey Busse](https://open.spotify.com/artist/6ctUI0LDXR8CatDPqGzXYB) | [Nothing Compares](https://open.spotify.com/album/4kzfJcvLN1mgcOgrehDX7m) | 1:59 | 2024-01-07 | 2024-05-13 |
 | [Nothing Else Compares](https://open.spotify.com/track/5Vpu50XIDx4MdTvbLcIflS) | [Hobes](https://open.spotify.com/artist/4oJwnrOedR0fQkD9NlbrMl) | [Nothing Else Compares](https://open.spotify.com/album/0Lm6QN0OLtLkPjcKe4rA1h) | 2:27 | 2026-09-08 |  |
+| [Nothing Feels The Same](https://open.spotify.com/track/3LjqFoIeRfU1lEkTtjw1Zd) | [After June](https://open.spotify.com/artist/54ca7OngsDRKrfApI0An72) | [Nothing Feels The Same](https://open.spotify.com/album/5eeIGCdy14RIt1zmYne2Da) | 2:28 | 2026-11-12 |  |
 | [Nothing To Lose](https://open.spotify.com/track/4qQLUPDmMNNq2YC2x3vKxl) | [Jane Good](https://open.spotify.com/artist/1rFqZWRuRsmDNAuSMRGwSE), [Brunette Drive](https://open.spotify.com/artist/0mUntOdsZg21k8143AH9N3), [Palma](https://open.spotify.com/artist/0HtAORWIjXSXCYcNy3aXDS), [TOZZ](https://open.spotify.com/artist/2ekk7QvrGs9H8B4s1VzfKY) | [Nothing To Lose](https://open.spotify.com/album/01NFHHRrwNyJW9h0e42j5n) | 2:23 | 2025-10-05 |  |
 | [notice me](https://open.spotify.com/track/7HZbjY2grEz4n7btH0ydiQ) | [beinghonest.](https://open.spotify.com/artist/1GnrF1z7ZsNfDgdA58tk87) | [notice me](https://open.spotify.com/album/35dQSegtVUnfUt9WoK3Dkj) | 2:37 | 2025-04-11 | 2025-05-10 |
 | [Now I'm Gone](https://open.spotify.com/track/15hgvY0km8TmpJbFLe9X7k) | [Luna Blue](https://open.spotify.com/artist/1JNyuExWIvx8kH5NOlSBuA) | [Now I'm Gone](https://open.spotify.com/album/1rCZsToVVv9nP1nuHOqpMd) | 2:30 | 2024-06-07 | 2024-07-14 |

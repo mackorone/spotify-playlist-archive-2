@@ -1,12 +1,12 @@
 {
   "description": "This is Pabllo Vittar. The essential tracks, all in one playlist.",
-  "num_followers": 279985,
+  "num_followers": 279974,
   "original_name": "This Is Pabllo Vittar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avENAAAAAACnK7qve20IR642vkyIiQiy",
+  "snapshot_id": "avOwAAAAAABYsebuAiAV6qpV0G4oYUL7",
   "tracks": [
     {
       "added_at": null,
@@ -62,15 +62,11 @@
         {
           "name": "Pabllo Vittar",
           "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        },
-        {
-          "name": "Mahmood",
-          "url": "https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd"
         }
       ],
-      "duration_ms": 160093,
-      "name": "POLIZIA",
-      "url": "https://open.spotify.com/track/4Dt2eu7x1gENrusPxyBtzN"
+      "duration_ms": 177382,
+      "name": "BAD GOOD",
+      "url": "https://open.spotify.com/track/1flTKOxZXjVJbCXXwXD7Cl"
     },
     {
       "added_at": null,
@@ -146,11 +142,15 @@
         {
           "name": "Pabllo Vittar",
           "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "Mahmood",
+          "url": "https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd"
         }
       ],
-      "duration_ms": 177382,
-      "name": "BAD GOOD",
-      "url": "https://open.spotify.com/track/1flTKOxZXjVJbCXXwXD7Cl"
+      "duration_ms": 160093,
+      "name": "POLIZIA",
+      "url": "https://open.spotify.com/track/4Dt2eu7x1gENrusPxyBtzN"
     },
     {
       "added_at": null,
@@ -378,11 +378,15 @@
         {
           "name": "Pabllo Vittar",
           "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
         }
       ],
-      "duration_ms": 143148,
-      "name": "SKIN",
-      "url": "https://open.spotify.com/track/2w4pcPdQNzCoDpOLrPyeCL"
+      "duration_ms": 146500,
+      "name": "BODY TYPE",
+      "url": "https://open.spotify.com/track/2qyHXtXDP4Gb0x6WjeMIeu"
     },
     {
       "added_at": null,
@@ -458,15 +462,11 @@
         {
           "name": "Pabllo Vittar",
           "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        },
-        {
-          "name": "Urias",
-          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
         }
       ],
-      "duration_ms": 146500,
-      "name": "BODY TYPE",
-      "url": "https://open.spotify.com/track/2qyHXtXDP4Gb0x6WjeMIeu"
+      "duration_ms": 143148,
+      "name": "SKIN",
+      "url": "https://open.spotify.com/track/2w4pcPdQNzCoDpOLrPyeCL"
     },
     {
       "added_at": null,
@@ -483,26 +483,6 @@
       "duration_ms": 175000,
       "name": "S\u00e3o Amores",
       "url": "https://open.spotify.com/track/7cj3mQ5XeEQq8Zfa1O5CXB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SAL",
-        "url": "https://open.spotify.com/album/2QhW0MWqMoUENkeL2CFSXE"
-      },
-      "artists": [
-        {
-          "name": "PEDRO SAMPAIO",
-          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
-        },
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "SAL",
-      "url": "https://open.spotify.com/track/4b5rbmik2mSrGo8IvjDUUp"
     },
     {
       "added_at": null,
@@ -527,6 +507,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "SAL",
+        "url": "https://open.spotify.com/album/2QhW0MWqMoUENkeL2CFSXE"
+      },
+      "artists": [
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "SAL",
+      "url": "https://open.spotify.com/track/4b5rbmik2mSrGo8IvjDUUp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Batid\u00e3o Tropical",
         "url": "https://open.spotify.com/album/194szTkDIGJsa9iZJNStwN"
       },
@@ -539,42 +539,6 @@
       "duration_ms": 132983,
       "name": "Triste com T",
       "url": "https://open.spotify.com/track/0L8nJt3b5LjXvFfDt7x2pP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fantas\u00eda",
-        "url": "https://open.spotify.com/album/2LbRBxToUXzFJjPMApnOAQ"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        },
-        {
-          "name": "NATHY PELUSO",
-          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
-        }
-      ],
-      "duration_ms": 149826,
-      "name": "Fantas\u00eda",
-      "url": "https://open.spotify.com/track/5PCIZcn6hKrMA8fmtRoX7Z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "111",
-        "url": "https://open.spotify.com/album/67rOBOMZsXiQwoPpZbnC8b"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 157508,
-      "name": "Rajad\u00e3o",
-      "url": "https://open.spotify.com/track/1DmSaQjZkuwFi57KPv20oB"
     },
     {
       "added_at": null,
@@ -595,6 +559,42 @@
       "duration_ms": 166013,
       "name": "AMEIANOITE",
       "url": "https://open.spotify.com/track/27bgMTAq4qTACnE48M3aTH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "111",
+        "url": "https://open.spotify.com/album/67rOBOMZsXiQwoPpZbnC8b"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 157508,
+      "name": "Rajad\u00e3o",
+      "url": "https://open.spotify.com/track/1DmSaQjZkuwFi57KPv20oB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fantas\u00eda",
+        "url": "https://open.spotify.com/album/2LbRBxToUXzFJjPMApnOAQ"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "NATHY PELUSO",
+          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
+        }
+      ],
+      "duration_ms": 149826,
+      "name": "Fantas\u00eda",
+      "url": "https://open.spotify.com/track/5PCIZcn6hKrMA8fmtRoX7Z"
     },
     {
       "added_at": null,
@@ -751,26 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vira Lata",
-        "url": "https://open.spotify.com/album/1073rEb0vN7ZPBc2Fcs1ph"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gomes",
-          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
-        },
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 130978,
-      "name": "Vira Lata",
-      "url": "https://open.spotify.com/track/610qP5fEpQMv7gzyLipesZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FUTURO FLUXO",
         "url": "https://open.spotify.com/album/5mFbRtI39Lf04HHLtoEm1Y"
       },
@@ -823,18 +803,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Batid\u00e3o Tropical",
-        "url": "https://open.spotify.com/album/194szTkDIGJsa9iZJNStwN"
+        "name": "Vira Lata",
+        "url": "https://open.spotify.com/album/1073rEb0vN7ZPBc2Fcs1ph"
       },
       "artists": [
+        {
+          "name": "Jo\u00e3o Gomes",
+          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
+        },
         {
           "name": "Pabllo Vittar",
           "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
         }
       ],
-      "duration_ms": 155597,
-      "name": "A Lua",
-      "url": "https://open.spotify.com/track/5yKXn2WXISKovZSzczhBI9"
+      "duration_ms": 130978,
+      "name": "Vira Lata",
+      "url": "https://open.spotify.com/track/610qP5fEpQMv7gzyLipesZ"
     },
     {
       "added_at": null,
@@ -887,22 +871,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para\u00edso",
-        "url": "https://open.spotify.com/album/75DV3LLntXpYsaKqRahzlt"
+        "name": "Batid\u00e3o Tropical",
+        "url": "https://open.spotify.com/album/194szTkDIGJsa9iZJNStwN"
       },
       "artists": [
-        {
-          "name": "Lucas Lucco",
-          "url": "https://open.spotify.com/artist/06cd30Cv9US973Ika84gDw"
-        },
         {
           "name": "Pabllo Vittar",
           "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
         }
       ],
-      "duration_ms": 163404,
-      "name": "Para\u00edso",
-      "url": "https://open.spotify.com/track/7u9maPG2E4cN9qChpe80qm"
+      "duration_ms": 155597,
+      "name": "A Lua",
+      "url": "https://open.spotify.com/track/5yKXn2WXISKovZSzczhBI9"
     },
     {
       "added_at": null,
@@ -923,6 +903,26 @@
       "duration_ms": 128067,
       "name": "Garupa",
       "url": "https://open.spotify.com/track/6nmYC5NZrRjRMhyR4aHLoF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Para\u00edso",
+        "url": "https://open.spotify.com/album/75DV3LLntXpYsaKqRahzlt"
+      },
+      "artists": [
+        {
+          "name": "Lucas Lucco",
+          "url": "https://open.spotify.com/artist/06cd30Cv9US973Ika84gDw"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 163404,
+      "name": "Para\u00edso",
+      "url": "https://open.spotify.com/track/7u9maPG2E4cN9qChpe80qm"
     },
     {
       "added_at": null,

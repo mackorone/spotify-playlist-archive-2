@@ -3122,7 +3122,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 211799,
       "name": "Back to the Beginning",
       "url": "https://open.spotify.com/track/759KblBb2LaGW9inDp5mCV"
@@ -13788,6 +13788,32 @@
       "duration_ms": 203636,
       "name": "Jeena Bekar",
       "url": "https://open.spotify.com/track/1ZxNgEUVD70wDA0TANVnRB"
+    },
+    {
+      "album": {
+        "name": "Jhalak",
+        "url": "https://open.spotify.com/album/10BBb28qFnAAkkZPKjp4Pd"
+      },
+      "artists": [
+        {
+          "name": "Naam Sujal",
+          "url": "https://open.spotify.com/artist/6NTcSISlIHPvDleyAkOTqP"
+        },
+        {
+          "name": "Aanchal Tyagi",
+          "url": "https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off"
+        },
+        {
+          "name": "Hiten",
+          "url": "https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134311,
+      "name": "Jhalak",
+      "url": "https://open.spotify.com/track/23fZaeHn6gxiJGYY2nXOjn"
     },
     {
       "album": {

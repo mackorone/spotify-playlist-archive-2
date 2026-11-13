@@ -426,7 +426,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 169999,
       "name": "D\u00e9jate de Cosas",
       "url": "https://open.spotify.com/track/1Sx9ZpBDImdMD8htvnQrdl"
@@ -1104,6 +1104,32 @@
       "duration_ms": 181040,
       "name": "La Noche Es Tuya",
       "url": "https://open.spotify.com/track/0FVVco67xjAExg5OqlQ1gU"
+    },
+    {
+      "album": {
+        "name": "Globall",
+        "url": "https://open.spotify.com/album/5trXODX2kXgViIFuvKrwMo"
+      },
+      "artists": [
+        {
+          "name": "3BallMTY",
+          "url": "https://open.spotify.com/artist/1MLs9allBZrajb5Dc4146L"
+        },
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        },
+        {
+          "name": "Am\u00e9rica Sierra",
+          "url": "https://open.spotify.com/artist/6iK7hlQHfupGjQHrxQIMly"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181040,
+      "name": "La Noche Es Tuya (feat. Am\u00e9rica Sierra & Gerardo Ortiz)",
+      "url": "https://open.spotify.com/track/4oNras6nBQ4ucZAj74z9DB"
     },
     {
       "album": {

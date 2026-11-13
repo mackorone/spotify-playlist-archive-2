@@ -1,18 +1,18 @@
 {
   "description": "New releases for the kids. Cover: Ms. Rachel & Mr. Aron",
-  "num_followers": 105132,
+  "num_followers": 105185,
   "original_name": "New Kids Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPg/4NMtc0H+GJOLrhM/iR0dKEhP",
+  "snapshot_id": "AAAAAMlxrgIpF30rF/xj5wv3UxYPIuuc",
   "tracks": [
     {
-      "added_at": "2026-11-06 05:00:42",
+      "added_at": "2026-11-13 05:01:27",
       "album": {
-        "name": "Happy Place",
-        "url": "https://open.spotify.com/album/2LDvEWNyzKlpjdJlUO08HS"
+        "name": "Bubble Pop",
+        "url": "https://open.spotify.com/album/2Jwds5VYfBZNq4YvCk6Lqn"
       },
       "artists": [
         {
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/7vXebg7HlyNsHfRPJnelJ3"
         }
       ],
-      "duration_ms": 163000,
-      "name": "Happy Place",
-      "url": "https://open.spotify.com/track/3kHfKXYs5FCCE4d3rrHdDn"
+      "duration_ms": 166736,
+      "name": "Bubble Pop",
+      "url": "https://open.spotify.com/track/0ylJkaROyWG8Ws4MGWm30r"
     },
     {
       "added_at": "2026-11-06 05:00:42",
@@ -79,6 +79,22 @@
       "duration_ms": 122109,
       "name": "Scrubbity Rubbity Doo",
       "url": "https://open.spotify.com/track/2vXVHoEVgmWbvKfoFBNIDG"
+    },
+    {
+      "added_at": "2026-11-06 05:00:42",
+      "album": {
+        "name": "Happy Place",
+        "url": "https://open.spotify.com/album/2LDvEWNyzKlpjdJlUO08HS"
+      },
+      "artists": [
+        {
+          "name": "Meekah",
+          "url": "https://open.spotify.com/artist/7vXebg7HlyNsHfRPJnelJ3"
+        }
+      ],
+      "duration_ms": 163000,
+      "name": "Happy Place",
+      "url": "https://open.spotify.com/track/3kHfKXYs5FCCE4d3rrHdDn"
     },
     {
       "added_at": "2026-11-06 05:00:42",
@@ -1807,134 +1823,6 @@
       "duration_ms": 42000,
       "name": "Dino Birthday Song",
       "url": "https://open.spotify.com/track/12hov96CdOSR5RXNidrlmy"
-    },
-    {
-      "added_at": "2026-07-17 04:00:48",
-      "album": {
-        "name": "Confetti",
-        "url": "https://open.spotify.com/album/4xrH4nbJBSL9nhd1Yec9wE"
-      },
-      "artists": [
-        {
-          "name": "Emmie's Wonder Wardrobe",
-          "url": "https://open.spotify.com/artist/1qIM7v8YWqonfMc9y63Twg"
-        },
-        {
-          "name": "Little Angel",
-          "url": "https://open.spotify.com/artist/3zDwkELCCr4anWIsL5LyTn"
-        }
-      ],
-      "duration_ms": 170461,
-      "name": "Confetti",
-      "url": "https://open.spotify.com/track/2XK7mGZHCtKnHJtyJ2he4j"
-    },
-    {
-      "added_at": "2026-07-10 04:00:27",
-      "album": {
-        "name": "Popsicle",
-        "url": "https://open.spotify.com/album/3aRZtdIujhfMd4DebEh380"
-      },
-      "artists": [
-        {
-          "name": "Kamdenboy & Kyraboo",
-          "url": "https://open.spotify.com/artist/1LLiBhK15nZ9cG4X9hpfJx"
-        },
-        {
-          "name": "The KB Family",
-          "url": "https://open.spotify.com/artist/1KcvVk1JUYc6W0FVHpJlHk"
-        }
-      ],
-      "duration_ms": 181518,
-      "name": "Popsicle",
-      "url": "https://open.spotify.com/track/0OmRyYG8IcuMXRu0Zd4ST6"
-    },
-    {
-      "added_at": "2026-07-10 04:00:27",
-      "album": {
-        "name": "Magnificent",
-        "url": "https://open.spotify.com/album/783KS7U8mhnHItAi15v99s"
-      },
-      "artists": [
-        {
-          "name": "Lachi",
-          "url": "https://open.spotify.com/artist/07D2qGlJUOVf83OM5ujJZD"
-        },
-        {
-          "name": "123 Andr\u00e9s",
-          "url": "https://open.spotify.com/artist/1KrkVZFQx2EadAriogq5T9"
-        },
-        {
-          "name": "Tangina Stone",
-          "url": "https://open.spotify.com/artist/4bfY46yOsnTqkW6FOzKSUZ"
-        }
-      ],
-      "duration_ms": 139000,
-      "name": "Magnificent",
-      "url": "https://open.spotify.com/track/0JsyQMTwou58X6xBbwqex1"
-    },
-    {
-      "added_at": "2026-07-10 04:00:27",
-      "album": {
-        "name": "Paint Your Life (A Song About Frida Kahlo)",
-        "url": "https://open.spotify.com/album/0coQwtNLcfSe4ccbAbrguq"
-      },
-      "artists": [
-        {
-          "name": "Little People, BIG DREAMS",
-          "url": "https://open.spotify.com/artist/0yubK9huKbJvRu7YxlpoFX"
-        },
-        {
-          "name": "Dom James",
-          "url": "https://open.spotify.com/artist/1JY39k85BM1XtU5WnBN8WD"
-        },
-        {
-          "name": "Tommy Antonio",
-          "url": "https://open.spotify.com/artist/5ZSb3HseeIBllSbROydx4B"
-        }
-      ],
-      "duration_ms": 199238,
-      "name": "Paint Your Life - A Song About Frida Kahlo",
-      "url": "https://open.spotify.com/track/642WObgrBNJWjHGbIgZerc"
-    },
-    {
-      "added_at": "2026-07-10 04:00:27",
-      "album": {
-        "name": "Good Morning",
-        "url": "https://open.spotify.com/album/1nOHuDof9xjZH3Hdl9Dr6F"
-      },
-      "artists": [
-        {
-          "name": "Vered",
-          "url": "https://open.spotify.com/artist/0u2bCRyS3Cnz9dRl2mnTEg"
-        },
-        {
-          "name": "Mega Ran",
-          "url": "https://open.spotify.com/artist/2mCmDragybleJXqTqsOk5I"
-        }
-      ],
-      "duration_ms": 172866,
-      "name": "Good Morning",
-      "url": "https://open.spotify.com/track/1smnCc2EAljzNGaoqZ6x7q"
-    },
-    {
-      "added_at": "2026-07-10 04:00:27",
-      "album": {
-        "name": "Sesame Street (with Bounce Patrol)",
-        "url": "https://open.spotify.com/album/1g4VZrKl0Gg9gMHwrVJ061"
-      },
-      "artists": [
-        {
-          "name": "Sesame Street",
-          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
-        },
-        {
-          "name": "Bounce Patrol",
-          "url": "https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm"
-        }
-      ],
-      "duration_ms": 154960,
-      "name": "Ball Pit Party (with Bounce Patrol)",
-      "url": "https://open.spotify.com/track/26JXItKm11HlVHFd1XbZGD"
     }
   ],
   "unique_name": "New Kids Music",

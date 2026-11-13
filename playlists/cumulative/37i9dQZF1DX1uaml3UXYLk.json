@@ -3639,6 +3639,24 @@
     },
     {
       "album": {
+        "name": "Devider",
+        "url": "https://open.spotify.com/album/7vs7itMdDwiObB2L5oFJ8N"
+      },
+      "artists": [
+        {
+          "name": "Protier",
+          "url": "https://open.spotify.com/artist/0ZmYPydrdLRXjAEM2nCVIp"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138378,
+      "name": "Devider",
+      "url": "https://open.spotify.com/track/7DicPIIbnIt5obTlUZ8W5B"
+    },
+    {
+      "album": {
         "name": "Differentia",
         "url": "https://open.spotify.com/album/4YUyPcYe3sp1l44sAhIgLY"
       },

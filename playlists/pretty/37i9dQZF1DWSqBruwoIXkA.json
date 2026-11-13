@@ -1,6 +1,6 @@
 {
   "description": "heartbreak feels good in a place like sad hour, with Sienna Spiro",
-  "num_followers": 2389752,
+  "num_followers": 2389791,
   "original_name": "sad hour",
   "owner": {
     "name": "Spotify",
@@ -137,22 +137,6 @@
       "url": "https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT"
     },
     {
-      "added_at": "2025-02-04 01:32:59",
-      "album": {
-        "name": "back to friends",
-        "url": "https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 199032,
-      "name": "back to friends",
-      "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
-    },
-    {
       "added_at": "2024-09-13 04:05:55",
       "album": {
         "name": "The Secret of Us",
@@ -167,6 +151,22 @@
       "duration_ms": 157146,
       "name": "I Love You, I'm Sorry",
       "url": "https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy"
+    },
+    {
+      "added_at": "2025-02-04 01:32:59",
+      "album": {
+        "name": "back to friends",
+        "url": "https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 199032,
+      "name": "back to friends",
+      "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
     },
     {
       "added_at": "2026-10-09 04:00:45",
@@ -1001,22 +1001,6 @@
       "url": "https://open.spotify.com/track/7DQotDUGnJkXgNJv363GXF"
     },
     {
-      "added_at": "2025-08-08 04:00:48",
-      "album": {
-        "name": "BITE ME",
-        "url": "https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN"
-      },
-      "artists": [
-        {
-          "name": "Rene\u00e9 Rapp",
-          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
-        }
-      ],
-      "duration_ms": 143298,
-      "name": "I Think I Like You Better When You\u2019re Gone",
-      "url": "https://open.spotify.com/track/3hBzKgqQKkChH9hyb3MhmT"
-    },
-    {
       "added_at": "2024-09-13 04:05:55",
       "album": {
         "name": "SOS",
@@ -1031,6 +1015,22 @@
       "duration_ms": 158840,
       "name": "Special",
       "url": "https://open.spotify.com/track/6RQ5IwG7uADz9LDWliJGjU"
+    },
+    {
+      "added_at": "2025-08-08 04:00:48",
+      "album": {
+        "name": "BITE ME",
+        "url": "https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN"
+      },
+      "artists": [
+        {
+          "name": "Rene\u00e9 Rapp",
+          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
+        }
+      ],
+      "duration_ms": 143298,
+      "name": "I Think I Like You Better When You\u2019re Gone",
+      "url": "https://open.spotify.com/track/3hBzKgqQKkChH9hyb3MhmT"
     },
     {
       "added_at": "2024-09-13 04:05:55",
@@ -1133,22 +1133,6 @@
       "url": "https://open.spotify.com/track/4H5DcBcHSt6ReloheY37Yi"
     },
     {
-      "added_at": "2026-08-28 05:13:39",
-      "album": {
-        "name": "Guilty",
-        "url": "https://open.spotify.com/album/52axGYJ0PQQiTOtFnJMo6F"
-      },
-      "artists": [
-        {
-          "name": "Sammi Heaney",
-          "url": "https://open.spotify.com/artist/6ooPINF78eV5CFLBPAaVZq"
-        }
-      ],
-      "duration_ms": 226122,
-      "name": "Guilty",
-      "url": "https://open.spotify.com/track/6SEE7iA69AF9N8fqUYRdQr"
-    },
-    {
       "added_at": "2025-07-30 06:17:37",
       "album": {
         "name": "Sex Hysteria",
@@ -1163,6 +1147,22 @@
       "duration_ms": 241291,
       "name": "The Man That Came Back",
       "url": "https://open.spotify.com/track/2luww5OJKlFtvGWwxFYtOm"
+    },
+    {
+      "added_at": "2026-08-28 05:13:39",
+      "album": {
+        "name": "Guilty",
+        "url": "https://open.spotify.com/album/52axGYJ0PQQiTOtFnJMo6F"
+      },
+      "artists": [
+        {
+          "name": "Sammi Heaney",
+          "url": "https://open.spotify.com/artist/6ooPINF78eV5CFLBPAaVZq"
+        }
+      ],
+      "duration_ms": 226122,
+      "name": "Guilty",
+      "url": "https://open.spotify.com/track/6SEE7iA69AF9N8fqUYRdQr"
     },
     {
       "added_at": "2024-09-13 04:05:55",
@@ -1345,22 +1345,6 @@
       "url": "https://open.spotify.com/track/26uXIvU5DdJLPUIj8pK9w7"
     },
     {
-      "added_at": "2025-07-11 04:00:20",
-      "album": {
-        "name": "Rest of Me",
-        "url": "https://open.spotify.com/album/6n8vxGMToOmgBWYdp0oADs"
-      },
-      "artists": [
-        {
-          "name": "Isaac Levi",
-          "url": "https://open.spotify.com/artist/4g75VELuqAmS29Xhlu7ZFC"
-        }
-      ],
-      "duration_ms": 216944,
-      "name": "Rest of Me",
-      "url": "https://open.spotify.com/track/7ifLkceJW9y0uBmlJDcJqF"
-    },
-    {
       "added_at": "2024-09-13 04:05:55",
       "album": {
         "name": "never knew a heart could break itself",
@@ -1375,6 +1359,22 @@
       "duration_ms": 155223,
       "name": "never knew a heart could break itself",
       "url": "https://open.spotify.com/track/4d2ZJ9W7dkQuITwUCTuD5n"
+    },
+    {
+      "added_at": "2025-07-11 04:00:20",
+      "album": {
+        "name": "Rest of Me",
+        "url": "https://open.spotify.com/album/6n8vxGMToOmgBWYdp0oADs"
+      },
+      "artists": [
+        {
+          "name": "Isaac Levi",
+          "url": "https://open.spotify.com/artist/4g75VELuqAmS29Xhlu7ZFC"
+        }
+      ],
+      "duration_ms": 216944,
+      "name": "Rest of Me",
+      "url": "https://open.spotify.com/track/7ifLkceJW9y0uBmlJDcJqF"
     },
     {
       "added_at": "2025-11-07 05:00:51",
@@ -1457,22 +1457,6 @@
       "url": "https://open.spotify.com/track/6ErCfbbI9BG4bK2djjKUvP"
     },
     {
-      "added_at": "2026-06-26 04:02:15",
-      "album": {
-        "name": "It Is What It Is",
-        "url": "https://open.spotify.com/album/2LOKWjz5IXrMMBTVsu6Ak4"
-      },
-      "artists": [
-        {
-          "name": "maryjo",
-          "url": "https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H"
-        }
-      ],
-      "duration_ms": 190794,
-      "name": "It Is What It Is",
-      "url": "https://open.spotify.com/track/05DdoHON4cgcBxewdCHsSp"
-    },
-    {
       "added_at": "2025-09-05 04:53:51",
       "album": {
         "name": "The Knife In My Back",
@@ -1487,6 +1471,22 @@
       "duration_ms": 169320,
       "name": "The Knife In My Back",
       "url": "https://open.spotify.com/track/52hW86OGxT6nn0Aex2V6oM"
+    },
+    {
+      "added_at": "2026-06-26 04:02:15",
+      "album": {
+        "name": "It Is What It Is",
+        "url": "https://open.spotify.com/album/2LOKWjz5IXrMMBTVsu6Ak4"
+      },
+      "artists": [
+        {
+          "name": "maryjo",
+          "url": "https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H"
+        }
+      ],
+      "duration_ms": 190794,
+      "name": "It Is What It Is",
+      "url": "https://open.spotify.com/track/05DdoHON4cgcBxewdCHsSp"
     },
     {
       "added_at": "2025-08-01 04:00:33",
@@ -2013,22 +2013,6 @@
       "url": "https://open.spotify.com/track/2fa8SftlyWKUaBfRyCjPiq"
     },
     {
-      "added_at": "2026-05-15 04:16:24",
-      "album": {
-        "name": "Hit the Wall",
-        "url": "https://open.spotify.com/album/1jvG5wNg83Bm7ykfjwPHbZ"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 194376,
-      "name": "Hit the Wall",
-      "url": "https://open.spotify.com/track/1U90UBmMrQTx9GNweUA4LZ"
-    },
-    {
       "added_at": "2026-10-23 04:02:19",
       "album": {
         "name": "From My Side",
@@ -2045,20 +2029,20 @@
       "url": "https://open.spotify.com/track/0PuPIQIsX4RfzWJWjuBtRg"
     },
     {
-      "added_at": "2026-08-21 04:00:24",
+      "added_at": "2026-05-15 04:16:24",
       "album": {
-        "name": "LOVER GIRL",
-        "url": "https://open.spotify.com/album/6gnIvZLNRxqP9Q4rPg9J2V"
+        "name": "Hit the Wall",
+        "url": "https://open.spotify.com/album/1jvG5wNg83Bm7ykfjwPHbZ"
       },
       "artists": [
         {
-          "name": "Lexi Jayde",
-          "url": "https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC"
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 228291,
-      "name": "misunderstood",
-      "url": "https://open.spotify.com/track/6nozkBOPjHXGo04zIcksB0"
+      "duration_ms": 194376,
+      "name": "Hit the Wall",
+      "url": "https://open.spotify.com/track/1U90UBmMrQTx9GNweUA4LZ"
     },
     {
       "added_at": "2026-09-18 04:14:43",
@@ -2075,6 +2059,22 @@
       "duration_ms": 166000,
       "name": "Crash and Burn",
       "url": "https://open.spotify.com/track/2JV9GMdRcS8DkpqT3ujFEd"
+    },
+    {
+      "added_at": "2026-08-21 04:00:24",
+      "album": {
+        "name": "LOVER GIRL",
+        "url": "https://open.spotify.com/album/6gnIvZLNRxqP9Q4rPg9J2V"
+      },
+      "artists": [
+        {
+          "name": "Lexi Jayde",
+          "url": "https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC"
+        }
+      ],
+      "duration_ms": 228291,
+      "name": "misunderstood",
+      "url": "https://open.spotify.com/track/6nozkBOPjHXGo04zIcksB0"
     },
     {
       "added_at": "2024-09-13 04:05:55",
@@ -2157,22 +2157,6 @@
       "url": "https://open.spotify.com/track/2tHFU0czPTYsKckxvUIZKn"
     },
     {
-      "added_at": "2026-01-23 05:58:48",
-      "album": {
-        "name": "PAPERCUT",
-        "url": "https://open.spotify.com/album/1ZWy1gMLEjonQb9qytN3uo"
-      },
-      "artists": [
-        {
-          "name": "Britton",
-          "url": "https://open.spotify.com/artist/2VjEhHV3KaZlYg2js0Mqr0"
-        }
-      ],
-      "duration_ms": 194028,
-      "name": "PAPERCUT",
-      "url": "https://open.spotify.com/track/25AjbQVBqFYNsACWvMLI6h"
-    },
-    {
       "added_at": "2024-09-13 04:05:55",
       "album": {
         "name": "eternal sunshine",
@@ -2187,6 +2171,22 @@
       "duration_ms": 153633,
       "name": "i wish i hated you",
       "url": "https://open.spotify.com/track/6ktoQBpMjWdKbfOdHeudpE"
+    },
+    {
+      "added_at": "2026-01-23 05:58:48",
+      "album": {
+        "name": "PAPERCUT",
+        "url": "https://open.spotify.com/album/1ZWy1gMLEjonQb9qytN3uo"
+      },
+      "artists": [
+        {
+          "name": "Britton",
+          "url": "https://open.spotify.com/artist/2VjEhHV3KaZlYg2js0Mqr0"
+        }
+      ],
+      "duration_ms": 194028,
+      "name": "PAPERCUT",
+      "url": "https://open.spotify.com/track/25AjbQVBqFYNsACWvMLI6h"
     },
     {
       "added_at": "2026-07-17 04:02:13",
@@ -2429,20 +2429,20 @@
       "url": "https://open.spotify.com/track/0I4BZ46wgUqbazXhHATA1V"
     },
     {
-      "added_at": "2025-12-19 20:32:22",
+      "added_at": "2026-08-07 04:02:17",
       "album": {
-        "name": "The Motive",
-        "url": "https://open.spotify.com/album/63QlFnuiQqTxFzGzhQI0tv"
+        "name": "Pretty Ugly",
+        "url": "https://open.spotify.com/album/1TmgctcS57hCkBysw77AUI"
       },
       "artists": [
         {
-          "name": "Dolder",
-          "url": "https://open.spotify.com/artist/2zzssv1I5AKOEPI98SZvQb"
+          "name": "Sabyna",
+          "url": "https://open.spotify.com/artist/4Pke6JkdRNWAHttfVvnvP6"
         }
       ],
-      "duration_ms": 136693,
-      "name": "The Motive",
-      "url": "https://open.spotify.com/track/4U1hLzm0Hwd3UTLeWKHhVt"
+      "duration_ms": 169720,
+      "name": "Pretty Ugly",
+      "url": "https://open.spotify.com/track/00Mir9uJyfvH1qJYFOUmsn"
     }
   ],
   "unique_name": "sad hour",

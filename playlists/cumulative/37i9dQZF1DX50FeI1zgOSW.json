@@ -151,7 +151,7 @@
       "artists": [
         {
           "name": "Nandan Prabu",
-          "url": "https://open.spotify.com/artist/2Cag4gZ9qeVUd11qCjwRYC"
+          "url": "https://open.spotify.com/artist/1R092f0cKrQh1e2fu32oGl"
         },
         {
           "name": "KULFI",
@@ -1255,6 +1255,32 @@
     },
     {
       "album": {
+        "name": "Artha Jamam",
+        "url": "https://open.spotify.com/album/3dmVwpaL5s5aSaehluRhko"
+      },
+      "artists": [
+        {
+          "name": "PRI",
+          "url": "https://open.spotify.com/artist/3SdB1D3HlBKxhy5kOOQvit"
+        },
+        {
+          "name": "Bak n 4th",
+          "url": "https://open.spotify.com/artist/0XZDSZnm55oXsRvKSsnPyv"
+        },
+        {
+          "name": "Athisaiyan Suresh",
+          "url": "https://open.spotify.com/artist/1kHBtaoep8kLtW9o52Hi7Z"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249000,
+      "name": "Artha Jamam",
+      "url": "https://open.spotify.com/track/3YrQR9d2DVwtbedlIyZhH6"
+    },
+    {
+      "album": {
         "name": "Atha Mava",
         "url": "https://open.spotify.com/album/0A6W0ReWy6DnU5NmcqMyK9"
       },
@@ -1614,7 +1640,7 @@
       ],
       "date_added": "2026-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 207750,
       "name": "Azhage",
       "url": "https://open.spotify.com/track/0ARQLookb1w5u7AsNq4AHm"
@@ -3657,6 +3683,32 @@
     },
     {
       "album": {
+        "name": "Enakena Ne",
+        "url": "https://open.spotify.com/album/0Jv8vKRXgbhwTM5ILPEFKx"
+      },
+      "artists": [
+        {
+          "name": "Allan Preetham",
+          "url": "https://open.spotify.com/artist/5fzwyKrgd74RioG5kFNY03"
+        },
+        {
+          "name": "Ben Kingsley",
+          "url": "https://open.spotify.com/artist/15GDBRYOgCK5xZ8FxWEx4f"
+        },
+        {
+          "name": "Rajaganapathy",
+          "url": "https://open.spotify.com/artist/2VuJo5b1VcEIruE52GtNLq"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231750,
+      "name": "Enakena Ne",
+      "url": "https://open.spotify.com/track/6bTrd4zfL4Z3TWvcBhc70Y"
+    },
+    {
+      "album": {
         "name": "Enakkena Oru Mazhaikkaalam",
         "url": "https://open.spotify.com/album/2xAtYeXRTFZvs5vQ7LGZWt"
       },
@@ -5054,7 +5106,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 169117,
       "name": "IOIO",
       "url": "https://open.spotify.com/track/0ye9i27scMk0GBlbGJEVjJ"
@@ -9364,7 +9416,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 150000,
       "name": "Maruvaati",
       "url": "https://open.spotify.com/track/5Oea0pw6YbO9v9yhjP5Gbj"
@@ -10834,7 +10886,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 219434,
       "name": "Needhaana",
       "url": "https://open.spotify.com/track/3289Oo8ShsetMCZ7RK4gxG"
@@ -12792,7 +12844,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 190164,
       "name": "Pachaikili",
       "url": "https://open.spotify.com/track/4ZVjetCurXC1f6irAsfoKH"
@@ -13720,6 +13772,32 @@
       "duration_ms": 203893,
       "name": "Pookie Ponnamma",
       "url": "https://open.spotify.com/track/1P7OITHvKuprWBsbV2yDHM"
+    },
+    {
+      "album": {
+        "name": "Poomadhi (From \u201cJamuna\u201d)",
+        "url": "https://open.spotify.com/album/3U50sohR6XcejUuQDlVNga"
+      },
+      "artists": [
+        {
+          "name": "Naveed Rehman",
+          "url": "https://open.spotify.com/artist/7iJepRkB92sBPs7Z8IGpuq"
+        },
+        {
+          "name": "Anchal Thakur",
+          "url": "https://open.spotify.com/artist/16ngoernrtNLt9ZcGFRIR4"
+        },
+        {
+          "name": "KULFI",
+          "url": "https://open.spotify.com/artist/5eH92zDf7WZSHUCqAKWfxR"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194181,
+      "name": "Poomadhi - From \u201cJamuna\u201d",
+      "url": "https://open.spotify.com/track/0myoV8lmd4TLW2JngK5ios"
     },
     {
       "album": {
@@ -15484,6 +15562,28 @@
       "duration_ms": 156455,
       "name": "Superhero",
       "url": "https://open.spotify.com/track/3LWzYA7qw4gbWyI148zLaf"
+    },
+    {
+      "album": {
+        "name": "Supersonic",
+        "url": "https://open.spotify.com/album/5ucHmici4nAtI88HVMmnld"
+      },
+      "artists": [
+        {
+          "name": "Joshua Aaron",
+          "url": "https://open.spotify.com/artist/3q3ikUy0tmXkAonQpYDORq"
+        },
+        {
+          "name": "TNC",
+          "url": "https://open.spotify.com/artist/5q79L7eL1FmDlIMsBF2u12"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213512,
+      "name": "Supersonic",
+      "url": "https://open.spotify.com/track/3Xis9ydmqZbbsDDjSqYgd1"
     },
     {
       "album": {
@@ -19392,6 +19492,24 @@
       "duration_ms": 178909,
       "name": "Ya Leili",
       "url": "https://open.spotify.com/track/61cInGVHZSPeUaWXTUZfJl"
+    },
+    {
+      "album": {
+        "name": "Yaadhanaye",
+        "url": "https://open.spotify.com/album/6rS3WB82ecT6H5YgE1UgpP"
+      },
+      "artists": [
+        {
+          "name": "Prasad S.N",
+          "url": "https://open.spotify.com/artist/1deQgLe6eU8iiEwkRZDdc4"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Yaadhanaye",
+      "url": "https://open.spotify.com/track/3vqxLHoCRB7ShB9zSWiM4N"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- South Korea.
 
-2,238 songs - 5 day 2 hr 24 min
+2,239 songs - 5 day 2 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -685,6 +685,7 @@
 | [Fly Up](https://open.spotify.com/track/4rRDmXBKB2X2Jnb8yLzAKZ) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [ODYSSEY \- The 1st Album](https://open.spotify.com/album/4YqJnxf3dYKhosGRrfoQQo) | 2:58 | 2025-05-20 | 2025-06-07 |
 | [FLYING HIGH WITH U](https://open.spotify.com/track/4iZIvaus7v4wSjFvdF83NA) | [VINXEN](https://open.spotify.com/artist/4T6xiCykTP9rCNaEPU7D4q) | [FLYING HIGH WITH U](https://open.spotify.com/album/3DNb7rjCY6ShyXkExKIbSz) | 3:27 | 2026-02-23 | 2026-08-29 |
 | [FLYING HIGH WITH U](https://open.spotify.com/track/4tYDNYCQaW1oXKPzBjB4Id) | [VINXEN](https://open.spotify.com/artist/4T6xiCykTP9rCNaEPU7D4q) | [FLYING HIGH WITH U](https://open.spotify.com/album/4O363IKS1EgTFrOS5AFswv) | 3:27 | 2026-08-05 | 2026-08-07 |
+| [FOCUS](https://open.spotify.com/track/1G4fSgc6Id5nTIKo55XRop) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [FOCUS \(Remixes\)](https://open.spotify.com/album/1yGMnRXU8uehPFHHZTXQZZ) | 2:57 | 2026-11-12 |  |
 | [FOCUS](https://open.spotify.com/track/6jYiHr12NVKLzn0X7K8aSK) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [FOCUS \- The 1st Mini Album](https://open.spotify.com/album/0SVlu6q116wFO1m4EZ088b) | 2:57 | 2025-10-21 | 2026-10-27 |
 | [Focus](https://open.spotify.com/track/3OXAycDk6KZnCfYA0LABUr) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Sticker \- The 3rd Album](https://open.spotify.com/album/6nYbIKGcTmKM5BAlJPPcad) | 3:24 | 2021-09-19 | 2021-09-22 |
 | [Follow You](https://open.spotify.com/track/7FdUvDkaE24o3FPIWTvzv2) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Follow You / Cutthroat](https://open.spotify.com/album/1nz0PWfAcTQVbFtpU6u1UY) | 2:55 | 2021-03-27\* | 2021-03-27 |
@@ -1007,7 +1008,7 @@
 | [Jimmy Cooks \(feat\. 21 Savage\)](https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 3:38 | 2022-06-18 | 2022-08-07 |
 | [Jingle Bell Rock](https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya) | [Bobby Helms](https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC) | [Jingle Bell Rock/Captain Santa Claus \(And His Reindeer Space Patrol\)](https://open.spotify.com/album/3wivyOdotHWZ9dcuXMjPKT) | 2:10 | 2021-12-19 | 2025-12-28 |
 | [Jonah](https://open.spotify.com/track/3gWzTnziivUYzqXtnvgN8q) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:15 | 2021-08-31 | 2021-09-04 |
-| [Joy, Sorrow, A Beautiful Heart](https://open.spotify.com/track/3yKUJbZjAWlteUSjnNv3UK) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [FLOWERING](https://open.spotify.com/album/0e4X6KNw1He0mlZ2BK9Loz) | 4:36 | 2026-04-08 |  |
+| [Joy, Sorrow, A Beautiful Heart](https://open.spotify.com/track/3yKUJbZjAWlteUSjnNv3UK) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [FLOWERING](https://open.spotify.com/album/0e4X6KNw1He0mlZ2BK9Loz) | 4:36 | 2026-04-08 | 2026-11-13 |
 | [JUMP](https://open.spotify.com/track/4TbkhyiZjLS2srPUVez9Fm) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [JUMP](https://open.spotify.com/album/5t3RN1l5dn414E49qTe6UC) | 2:44 | 2025-09-02 | 2025-09-04 |
 | [JUMP](https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [JUMP](https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr) | 2:44 | 2025-07-12 | 2026-03-23 |
 | [Junya](https://open.spotify.com/track/1aF9TeHZbe6OVo9dtjPuzK) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 2:27 | 2021-08-31 | 2021-09-03 |

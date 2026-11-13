@@ -514,7 +514,7 @@
       ],
       "date_added": "2025-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 163918,
       "name": "De La Escuelita Graduado",
       "url": "https://open.spotify.com/track/7t78b9kNHPzECSZ0wyzTc3"
@@ -868,6 +868,28 @@
       "duration_ms": 164500,
       "name": "El Roque",
       "url": "https://open.spotify.com/track/6WxSL4jaPaxEa1mm7p2uMd"
+    },
+    {
+      "album": {
+        "name": "El Truco",
+        "url": "https://open.spotify.com/album/4TDvH6MxGDkr0LzLxrpEFu"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        },
+        {
+          "name": "Job Gallegos",
+          "url": "https://open.spotify.com/artist/76lYBIbMnUBukvLlYZFGrH"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173602,
+      "name": "El Truco",
+      "url": "https://open.spotify.com/track/0sdGoBbHuazwbbuQvPL1LE"
     },
     {
       "album": {

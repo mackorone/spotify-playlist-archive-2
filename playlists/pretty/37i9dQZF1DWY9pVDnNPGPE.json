@@ -547,6 +547,22 @@
     {
       "added_at": "2026-11-03 06:24:03",
       "album": {
+        "name": "Days Gone",
+        "url": "https://open.spotify.com/album/4CF9uJBsUIUvZSlMGDg3v7"
+      },
+      "artists": [
+        {
+          "name": "g0nny",
+          "url": "https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Days Gone",
+      "url": "https://open.spotify.com/track/78s1puju5hhH3yYneGD1HG"
+    },
+    {
+      "added_at": "2026-11-03 06:24:03",
+      "album": {
         "name": "LOVE & HATE",
         "url": "https://open.spotify.com/album/60zMaSh93HpKs9ii52V0wJ"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 204760,
       "name": "Seoul",
       "url": "https://open.spotify.com/track/4b9LMCUaw55QajVRfrfPyS"
-    },
-    {
-      "added_at": "2026-11-03 06:24:03",
-      "album": {
-        "name": "Days Gone",
-        "url": "https://open.spotify.com/album/4CF9uJBsUIUvZSlMGDg3v7"
-      },
-      "artists": [
-        {
-          "name": "g0nny",
-          "url": "https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Days Gone",
-      "url": "https://open.spotify.com/track/78s1puju5hhH3yYneGD1HG"
     },
     {
       "added_at": "2026-11-03 06:24:03",
@@ -631,6 +631,22 @@
     {
       "added_at": "2026-11-03 06:24:03",
       "album": {
+        "name": "Wherever",
+        "url": "https://open.spotify.com/album/47AfzSaiONoJo0WreAOMA1"
+      },
+      "artists": [
+        {
+          "name": "g0nny",
+          "url": "https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR"
+        }
+      ],
+      "duration_ms": 171251,
+      "name": "Wherever",
+      "url": "https://open.spotify.com/track/4g9GTgyJ7f5uUpmh9zMtQF"
+    },
+    {
+      "added_at": "2026-11-03 06:24:03",
+      "album": {
         "name": "Je T'aime",
         "url": "https://open.spotify.com/album/1RzqZoXe1bf1f48PK20EeH"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 214950,
       "name": "dance all night",
       "url": "https://open.spotify.com/track/05v68b039L6DcXHhbkL2wO"
-    },
-    {
-      "added_at": "2026-11-03 06:24:03",
-      "album": {
-        "name": "Wherever",
-        "url": "https://open.spotify.com/album/47AfzSaiONoJo0WreAOMA1"
-      },
-      "artists": [
-        {
-          "name": "g0nny",
-          "url": "https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR"
-        }
-      ],
-      "duration_ms": 171251,
-      "name": "Wherever",
-      "url": "https://open.spotify.com/track/4g9GTgyJ7f5uUpmh9zMtQF"
     },
     {
       "added_at": "2026-11-03 06:24:03",
@@ -731,18 +731,22 @@
     {
       "added_at": "2026-11-03 06:24:03",
       "album": {
-        "name": "Puberty Book\u2160 Bom",
-        "url": "https://open.spotify.com/album/0JkeId5EsudMnCK3UHe7cg"
+        "name": "Someday (feat. Ha Hyun Sang)",
+        "url": "https://open.spotify.com/album/5I3ukJ3aeVcoVy2Q6OWGPW"
       },
       "artists": [
         {
           "name": "BOL4",
           "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        },
+        {
+          "name": "Ha Hyun Sang",
+          "url": "https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb"
         }
       ],
-      "duration_ms": 184680,
-      "name": "Picnic",
-      "url": "https://open.spotify.com/track/1MZ1Y6rIbt008t1TOhHlt5"
+      "duration_ms": 181666,
+      "name": "Someday (feat. Ha Hyun Sang)",
+      "url": "https://open.spotify.com/track/3G4TbgDHUyMnt1RT3lZM66"
     },
     {
       "added_at": "2026-11-03 06:24:03",
@@ -815,22 +819,18 @@
     {
       "added_at": "2026-11-03 06:24:03",
       "album": {
-        "name": "Someday (feat. Ha Hyun Sang)",
-        "url": "https://open.spotify.com/album/5I3ukJ3aeVcoVy2Q6OWGPW"
+        "name": "Puberty Book\u2160 Bom",
+        "url": "https://open.spotify.com/album/0JkeId5EsudMnCK3UHe7cg"
       },
       "artists": [
         {
           "name": "BOL4",
           "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
-        },
-        {
-          "name": "Ha Hyun Sang",
-          "url": "https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb"
         }
       ],
-      "duration_ms": 181666,
-      "name": "Someday (feat. Ha Hyun Sang)",
-      "url": "https://open.spotify.com/track/3G4TbgDHUyMnt1RT3lZM66"
+      "duration_ms": 184680,
+      "name": "Picnic",
+      "url": "https://open.spotify.com/track/1MZ1Y6rIbt008t1TOhHlt5"
     },
     {
       "added_at": "2026-11-03 06:24:03",

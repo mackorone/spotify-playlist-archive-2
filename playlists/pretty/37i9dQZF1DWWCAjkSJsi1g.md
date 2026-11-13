@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWCAjkSJsi1g.md) - [plain]
 
 > The biggest old school anthems from your favourite nightclub spots!
 
-[Spotify](https://open.spotify.com/user/spotify) - 599,810 likes - 100 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 599,801 likes - 100 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWCAjkSJsi1g.md) - [plain]
 | 89 | [Freak Like Me \- Dome's Peak Freak Remix](https://open.spotify.com/track/7jUhvpXow0mD27v77F6vC2) | [Dub Conspiracy](https://open.spotify.com/artist/50JXpwiwsojrMGGHVfif0r), [Tru Faith](https://open.spotify.com/artist/08aJyCqJgyyEVklHZe77R9), [Dome](https://open.spotify.com/artist/3889voMug5hvUtUVC9WaUe) | [Freak Like Me](https://open.spotify.com/album/2WF4PpVoRbiyRRNPBqWXdE) | 4:52 |
 | 90 | [Little Man \- Exemen Works](https://open.spotify.com/track/0PxXQz4Im41YdDi0J3kPCv) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Wookie](https://open.spotify.com/artist/4MswQnojZK1oRaxNsACqjv), [Exemen](https://open.spotify.com/artist/3pCHYkU91rpHix5L78plcF) | [Healing is Difficult \(10th Anniversary Edition\) \(Deluxe\)](https://open.spotify.com/album/077wcp5NLTdkFGSAttyfmG) | 5:03 |
 | 91 | [Sunshine \- Wookie Main Mix](https://open.spotify.com/track/5q1hpdlf8ncJUhKLyjHoHB) | [GABRIELLE](https://open.spotify.com/artist/7rftfGIYEeZ79sLb58ZBDi), [Wookie](https://open.spotify.com/artist/4MswQnojZK1oRaxNsACqjv) | [Rise](https://open.spotify.com/album/2R6V1HDBBgRxfu469y6V6R) | 4:26 |
-| 92 | [Summer Of Love \- Radio Edit](https://open.spotify.com/track/1bmnlM7k7q1E8kO4SSrZBn) | [Lonyo](https://open.spotify.com/artist/7ggOyf2aSSBXOS8RTvy9Mz), [Onyx Stone](https://open.spotify.com/artist/0IiNeUzuPmo1LuTb9SPaXf) | [Summer Of Love](https://open.spotify.com/album/2ZEP1ais9sYt1SRPnra8U1) | 3:54 |
-| 93 | [Candy](https://open.spotify.com/track/0BzapQ62bPrdKS8sGVQ7UF) | [Cameo](https://open.spotify.com/artist/545idYhdloaSlLGBY8E9u2) | [R&B Classics Collection](https://open.spotify.com/album/2ZZiI4Jg5SYg7suQwGSv4z) | 4:06 |
+| 92 | [Candy](https://open.spotify.com/track/0BzapQ62bPrdKS8sGVQ7UF) | [Cameo](https://open.spotify.com/artist/545idYhdloaSlLGBY8E9u2) | [R&B Classics Collection](https://open.spotify.com/album/2ZZiI4Jg5SYg7suQwGSv4z) | 4:06 |
+| 93 | [Summer Of Love \- Radio Edit](https://open.spotify.com/track/1bmnlM7k7q1E8kO4SSrZBn) | [Lonyo](https://open.spotify.com/artist/7ggOyf2aSSBXOS8RTvy9Mz), [Onyx Stone](https://open.spotify.com/artist/0IiNeUzuPmo1LuTb9SPaXf) | [Summer Of Love](https://open.spotify.com/album/2ZEP1ais9sYt1SRPnra8U1) | 3:54 |
 | 94 | [Girlfriend](https://open.spotify.com/track/5TxdQaqp2Xn9IBTlfq26l7) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [Celebrity](https://open.spotify.com/album/7gfXFkA259SkaFeJxSFtKE) | 4:13 |
 | 95 | [Nasty Girl \(feat\. Diddy, Nelly, Jagged Edge & Avery Storm\) \- 2005 Remaster](https://open.spotify.com/track/3NnUocBmP4PuEEe1eQkuwE) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb), [Avery Storm](https://open.spotify.com/artist/79OSA519ScnPY0MVDpu8ZV), [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Jagged Edge](https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp), [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Nasty Girl \(feat\. Diddy, Nelly, Jagged Edge & Avery Storm\)](https://open.spotify.com/album/3sgDRuyfe42VX9rGDW7aBi) | 4:46 |
 | 96 | [Poision](https://open.spotify.com/track/03vwrapDLyriXEYpM1GJPj) | [DJ Luck & MC Neat](https://open.spotify.com/artist/4MflsXABg2VC9Powgd7JCF), [Scott Garcia](https://open.spotify.com/artist/4pmXP4rg8C8WmWtoCWdC9b), [Shy Cookie](https://open.spotify.com/artist/65wWCNrpeb8t3A6707RG5B) | [Poision](https://open.spotify.com/album/5hZRHbGRokvmSvRFsEdLGL) | 5:05 |

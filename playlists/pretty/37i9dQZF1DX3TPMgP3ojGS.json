@@ -1,6 +1,6 @@
 {
   "description": "Soft (the quietest of them all), subtle, no words needed. Take a sip and enjoy the music of composers from around the world.",
-  "num_followers": 488474,
+  "num_followers": 488568,
   "original_name": "Coffee and Piano",
   "owner": {
     "name": "Spotify",
@@ -259,18 +259,18 @@
     {
       "added_at": "2026-05-08 09:59:25",
       "album": {
-        "name": "Poesia",
-        "url": "https://open.spotify.com/album/65XKtO4I2xUDHKsrMjtUtW"
+        "name": "Fields Of Love",
+        "url": "https://open.spotify.com/album/1a1T9YpoJoiwP9iESKlJSN"
       },
       "artists": [
         {
-          "name": "Fernando Alegre",
-          "url": "https://open.spotify.com/artist/3dz7P4W10BnNyKKvT8RWWn"
+          "name": "Reinhard Krause",
+          "url": "https://open.spotify.com/artist/51sDI12AiFuof8oXlSrdnM"
         }
       ],
-      "duration_ms": 125248,
-      "name": "Poesia",
-      "url": "https://open.spotify.com/track/7F6hlMdM7OrUw8C1W4pjAC"
+      "duration_ms": 137743,
+      "name": "Fields Of Love",
+      "url": "https://open.spotify.com/track/38GNL3kBcQafMTKT5tom7c"
     },
     {
       "added_at": "2026-05-08 09:59:25",
@@ -291,18 +291,18 @@
     {
       "added_at": "2026-05-08 09:59:25",
       "album": {
-        "name": "Fields Of Love",
-        "url": "https://open.spotify.com/album/1a1T9YpoJoiwP9iESKlJSN"
+        "name": "Poesia",
+        "url": "https://open.spotify.com/album/65XKtO4I2xUDHKsrMjtUtW"
       },
       "artists": [
         {
-          "name": "Reinhard Krause",
-          "url": "https://open.spotify.com/artist/51sDI12AiFuof8oXlSrdnM"
+          "name": "Fernando Alegre",
+          "url": "https://open.spotify.com/artist/3dz7P4W10BnNyKKvT8RWWn"
         }
       ],
-      "duration_ms": 137743,
-      "name": "Fields Of Love",
-      "url": "https://open.spotify.com/track/38GNL3kBcQafMTKT5tom7c"
+      "duration_ms": 125248,
+      "name": "Poesia",
+      "url": "https://open.spotify.com/track/7F6hlMdM7OrUw8C1W4pjAC"
     },
     {
       "added_at": "2026-05-08 09:59:25",
@@ -323,22 +323,6 @@
     {
       "added_at": "2026-05-08 09:59:25",
       "album": {
-        "name": "Quiet Eyes",
-        "url": "https://open.spotify.com/album/1KnEqKgjw9ryJcHvIgKHL0"
-      },
-      "artists": [
-        {
-          "name": "Davignon",
-          "url": "https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE"
-        }
-      ],
-      "duration_ms": 141451,
-      "name": "Quiet Eyes",
-      "url": "https://open.spotify.com/track/2oafUifmaR1uBS3o9o7uLO"
-    },
-    {
-      "added_at": "2026-05-08 09:59:25",
-      "album": {
         "name": "Les Soir",
         "url": "https://open.spotify.com/album/2pRy5vvv9wU2guTJuw1X9m"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 144875,
       "name": "Les Soir",
       "url": "https://open.spotify.com/track/0WM2fu4FoREAkHiD25SAOj"
+    },
+    {
+      "added_at": "2026-05-08 09:59:25",
+      "album": {
+        "name": "Quiet Eyes",
+        "url": "https://open.spotify.com/album/1KnEqKgjw9ryJcHvIgKHL0"
+      },
+      "artists": [
+        {
+          "name": "Davignon",
+          "url": "https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE"
+        }
+      ],
+      "duration_ms": 141451,
+      "name": "Quiet Eyes",
+      "url": "https://open.spotify.com/track/2oafUifmaR1uBS3o9o7uLO"
     },
     {
       "added_at": "2026-05-08 09:59:25",
@@ -451,22 +451,6 @@
     {
       "added_at": "2026-05-08 09:59:25",
       "album": {
-        "name": "Onward",
-        "url": "https://open.spotify.com/album/5KO6U6HtIH8sK9sOJmJt2i"
-      },
-      "artists": [
-        {
-          "name": "Remi Sinclair",
-          "url": "https://open.spotify.com/artist/2e43Th3IHo39TLIcMpeFbn"
-        }
-      ],
-      "duration_ms": 134000,
-      "name": "Onward",
-      "url": "https://open.spotify.com/track/6zo1cdRzbCvGZmJVJEk8TS"
-    },
-    {
-      "added_at": "2026-05-08 09:59:25",
-      "album": {
         "name": "Evening Star",
         "url": "https://open.spotify.com/album/096g5y9CPefSvUd9EhzL65"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 128724,
       "name": "Evening Star",
       "url": "https://open.spotify.com/track/5HbLcDxxjtJ0800p6RjoeH"
+    },
+    {
+      "added_at": "2026-05-08 09:59:25",
+      "album": {
+        "name": "Onward",
+        "url": "https://open.spotify.com/album/5KO6U6HtIH8sK9sOJmJt2i"
+      },
+      "artists": [
+        {
+          "name": "Remi Sinclair",
+          "url": "https://open.spotify.com/artist/2e43Th3IHo39TLIcMpeFbn"
+        }
+      ],
+      "duration_ms": 134000,
+      "name": "Onward",
+      "url": "https://open.spotify.com/track/6zo1cdRzbCvGZmJVJEk8TS"
     },
     {
       "added_at": "2026-05-08 09:59:25",
@@ -739,22 +739,6 @@
     {
       "added_at": "2026-05-08 09:59:25",
       "album": {
-        "name": "Full Bloom",
-        "url": "https://open.spotify.com/album/1iri0k7a8k3f4QR7krIGlT"
-      },
-      "artists": [
-        {
-          "name": "Allysium",
-          "url": "https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin"
-        }
-      ],
-      "duration_ms": 142763,
-      "name": "Full Bloom",
-      "url": "https://open.spotify.com/track/04i9TIi97Aoh1xjrCCM0aI"
-    },
-    {
-      "added_at": "2026-05-08 09:59:25",
-      "album": {
         "name": "Sakura",
         "url": "https://open.spotify.com/album/2BarWHunh4UHpIHvj1Xoka"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 122000,
       "name": "Nokt\u00farna - Upright Piano",
       "url": "https://open.spotify.com/track/0uSyj4g5Qh5zCcbyMJufbY"
+    },
+    {
+      "added_at": "2026-05-08 09:59:25",
+      "album": {
+        "name": "Full Bloom",
+        "url": "https://open.spotify.com/album/1iri0k7a8k3f4QR7krIGlT"
+      },
+      "artists": [
+        {
+          "name": "Allysium",
+          "url": "https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin"
+        }
+      ],
+      "duration_ms": 142763,
+      "name": "Full Bloom",
+      "url": "https://open.spotify.com/track/04i9TIi97Aoh1xjrCCM0aI"
     },
     {
       "added_at": "2026-05-08 09:59:25",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2026-05-08 09:59:25",
       "album": {
-        "name": "Slowly",
-        "url": "https://open.spotify.com/album/1eVrn1rTgnQZQuQOIZ0jfD"
-      },
-      "artists": [
-        {
-          "name": "Carl Moir",
-          "url": "https://open.spotify.com/artist/1zrM4Ly0jnhCc9KJYYgFWO"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Slowly",
-      "url": "https://open.spotify.com/track/3i5Qo75v7ijp9YE0iOnFS5"
-    },
-    {
-      "added_at": "2026-05-08 09:59:25",
-      "album": {
         "name": "Time Line",
         "url": "https://open.spotify.com/album/40ZYcEHUVHnjvbFEAkj2ns"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 130191,
       "name": "am ersten Tag",
       "url": "https://open.spotify.com/track/2gwhISMkdlhEqEP60P93Z1"
+    },
+    {
+      "added_at": "2026-05-08 09:59:25",
+      "album": {
+        "name": "Slowly",
+        "url": "https://open.spotify.com/album/1eVrn1rTgnQZQuQOIZ0jfD"
+      },
+      "artists": [
+        {
+          "name": "Carl Moir",
+          "url": "https://open.spotify.com/artist/1zrM4Ly0jnhCc9KJYYgFWO"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Slowly",
+      "url": "https://open.spotify.com/track/3i5Qo75v7ijp9YE0iOnFS5"
     },
     {
       "added_at": "2026-05-08 09:59:25",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2026-05-08 09:59:25",
       "album": {
-        "name": "A Bad Dream That Will Pass Away",
-        "url": "https://open.spotify.com/album/4VCzs0bZIXVoNxQq5sGAnm"
-      },
-      "artists": [
-        {
-          "name": "Luke Howard",
-          "url": "https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "A Bad Dream That Will Pass Away",
-      "url": "https://open.spotify.com/track/6XTKYGyydndSUV3OHHDwZU"
-    },
-    {
-      "added_at": "2026-05-08 09:59:25",
-      "album": {
         "name": "Forevermore",
         "url": "https://open.spotify.com/album/1uaB2cXT94Sl6V3eN2UFsW"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 154311,
       "name": "Forevermore",
       "url": "https://open.spotify.com/track/3xZBHTUT1gLAmDbPz77ETo"
+    },
+    {
+      "added_at": "2026-05-08 09:59:25",
+      "album": {
+        "name": "A Bad Dream That Will Pass Away",
+        "url": "https://open.spotify.com/album/4VCzs0bZIXVoNxQq5sGAnm"
+      },
+      "artists": [
+        {
+          "name": "Luke Howard",
+          "url": "https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "A Bad Dream That Will Pass Away",
+      "url": "https://open.spotify.com/track/6XTKYGyydndSUV3OHHDwZU"
     },
     {
       "added_at": "2026-05-08 09:59:25",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2026-05-08 09:59:25",
       "album": {
-        "name": "Act Of Reconciling",
-        "url": "https://open.spotify.com/album/5KqKLlDwZLdA9M5nvVUWSS"
-      },
-      "artists": [
-        {
-          "name": "Herbe Matin",
-          "url": "https://open.spotify.com/artist/6ooqIGgwn5wqQdlFshdBLv"
-        }
-      ],
-      "duration_ms": 143400,
-      "name": "Act Of Reconciling",
-      "url": "https://open.spotify.com/track/3iTgM3cDPpZCQ4GL1pP0Ss"
-    },
-    {
-      "added_at": "2026-05-08 09:59:25",
-      "album": {
         "name": "Glance Out A Casement Window",
         "url": "https://open.spotify.com/album/5fULKKtZk4on3DgNMD2Q4L"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 130164,
       "name": "Glance Out A Casement Window",
       "url": "https://open.spotify.com/track/5hFkGfx038V0LhqI0Uff2J"
+    },
+    {
+      "added_at": "2026-05-08 09:59:25",
+      "album": {
+        "name": "Act Of Reconciling",
+        "url": "https://open.spotify.com/album/5KqKLlDwZLdA9M5nvVUWSS"
+      },
+      "artists": [
+        {
+          "name": "Herbe Matin",
+          "url": "https://open.spotify.com/artist/6ooqIGgwn5wqQdlFshdBLv"
+        }
+      ],
+      "duration_ms": 143400,
+      "name": "Act Of Reconciling",
+      "url": "https://open.spotify.com/track/3iTgM3cDPpZCQ4GL1pP0Ss"
     },
     {
       "added_at": "2026-05-08 09:59:25",

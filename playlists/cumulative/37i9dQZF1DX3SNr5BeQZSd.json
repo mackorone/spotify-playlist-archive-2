@@ -1623,6 +1623,24 @@
     },
     {
       "album": {
+        "name": "apricity",
+        "url": "https://open.spotify.com/album/0aCOMrCwAA3bjtc79BdCkV"
+      },
+      "artists": [
+        {
+          "name": "Mondo Loops",
+          "url": "https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128955,
+      "name": "apricity",
+      "url": "https://open.spotify.com/track/2N6gkUBspVwpvYiu8ogtkr"
+    },
+    {
+      "album": {
         "name": "April",
         "url": "https://open.spotify.com/album/1e80HRo4ffqu3rMGmaVlR3"
       },
@@ -2317,6 +2335,28 @@
     },
     {
       "album": {
+        "name": "awakening",
+        "url": "https://open.spotify.com/album/4Uc0rslUYvNOrsRJsOS7DJ"
+      },
+      "artists": [
+        {
+          "name": "Bcalm",
+          "url": "https://open.spotify.com/artist/7M4y7qvcYja7RcXNCGrjeP"
+        },
+        {
+          "name": "Lonely Llama",
+          "url": "https://open.spotify.com/artist/7qyiD7cCyow6BICznBnKfk"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96000,
+      "name": "awakening",
+      "url": "https://open.spotify.com/track/012sTmPSeAwGR1rhMW2bxg"
+    },
+    {
+      "album": {
         "name": "Awakening",
         "url": "https://open.spotify.com/album/4dD3GqdQ2WsfXsSWtjtp8s"
       },
@@ -2894,7 +2934,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 123000,
       "name": "before leaves fall",
       "url": "https://open.spotify.com/track/2EQshJ7Swet1xt0eKWOxal"
@@ -6422,6 +6462,24 @@
       "duration_ms": 93176,
       "name": "cripple creek",
       "url": "https://open.spotify.com/track/4ycf5iv4VS4B4PCcgXznWk"
+    },
+    {
+      "album": {
+        "name": "Crisp Air",
+        "url": "https://open.spotify.com/album/4idVSzblgTPig2fVi3kmWS"
+      },
+      "artists": [
+        {
+          "name": "CMJ",
+          "url": "https://open.spotify.com/artist/0PbBgZYFayICVW0646NtXG"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123000,
+      "name": "Crisp Air",
+      "url": "https://open.spotify.com/track/3e2xiW96ryDWDlYb7iWB0y"
     },
     {
       "album": {
@@ -12296,7 +12354,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 110769,
       "name": "hiding",
       "url": "https://open.spotify.com/track/7lizSskRGv9bSXgxfxPmpk"
@@ -19662,7 +19720,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 146666,
       "name": "Moving In",
       "url": "https://open.spotify.com/track/2KienAfLxRzyZnYpdI6mv1"
@@ -22157,6 +22215,28 @@
     },
     {
       "album": {
+        "name": "Through the pines",
+        "url": "https://open.spotify.com/album/6qB3nXdkyokEuFhJdmTRYA"
+      },
+      "artists": [
+        {
+          "name": "Casiio",
+          "url": "https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a"
+        },
+        {
+          "name": "marsquake",
+          "url": "https://open.spotify.com/artist/7JHsA8iL2mnUsAteuzehsb"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140487,
+      "name": "Overgrown",
+      "url": "https://open.spotify.com/track/6L3PCRdQgd3StwKU6tBEBW"
+    },
+    {
+      "album": {
         "name": "overlap",
         "url": "https://open.spotify.com/album/6eXnjh6ghj1e09EDmydeXI"
       },
@@ -22698,6 +22778,28 @@
       "duration_ms": 114285,
       "name": "Pause",
       "url": "https://open.spotify.com/track/7FxMRy7NLIelB7rQBlZC19"
+    },
+    {
+      "album": {
+        "name": "Pavement",
+        "url": "https://open.spotify.com/album/108F62VONAjyZxaiZRxUKV"
+      },
+      "artists": [
+        {
+          "name": "Dosi",
+          "url": "https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9"
+        },
+        {
+          "name": "Hoogway",
+          "url": "https://open.spotify.com/artist/1Mh9G47YfuaLdQs44voLrQ"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149142,
+      "name": "Pavement",
+      "url": "https://open.spotify.com/track/1HZRnhx8NXLHjcqOAxNC98"
     },
     {
       "album": {
@@ -23500,7 +23602,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 137142,
       "name": "presence",
       "url": "https://open.spotify.com/track/4u7xzdVBCfjg1hXowA4mRJ"
@@ -34354,7 +34456,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 149610,
       "name": "Westlake",
       "url": "https://open.spotify.com/track/5iEUbMol9exq8Ekw1jdXwD"

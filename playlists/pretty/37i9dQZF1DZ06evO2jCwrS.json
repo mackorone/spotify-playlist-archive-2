@@ -1,12 +1,12 @@
 {
   "description": "This is H.E.R.. The essential tracks, all in one playlist.",
-  "num_followers": 263832,
+  "num_followers": 263851,
   "original_name": "This Is H.E.R.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avENAAAAAADCufqj0fqNAsQVZZXdxb4r",
+  "snapshot_id": "avOwAAAAAABV9fThwrtuSgcL7Vs79cUq",
   "tracks": [
     {
       "added_at": null,
@@ -391,6 +391,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Do To Me",
+        "url": "https://open.spotify.com/album/6b9SrV7fOCmUubzvBQvRVg"
+      },
+      "artists": [
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 225103,
+      "name": "Do To Me",
+      "url": "https://open.spotify.com/track/0CmQgwV3Bmzh9nZb9TNVEI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Back of My Mind",
         "url": "https://open.spotify.com/album/4IwODpNZKFYkHWXSeWMGmP"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 157294,
       "name": "Paradise (feat. Yung Bleu)",
       "url": "https://open.spotify.com/track/2xc1rXfo3Yn20n7wIzmjeu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Do To Me",
-        "url": "https://open.spotify.com/album/6b9SrV7fOCmUubzvBQvRVg"
-      },
-      "artists": [
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "duration_ms": 225103,
-      "name": "Do To Me",
-      "url": "https://open.spotify.com/track/0CmQgwV3Bmzh9nZb9TNVEI"
     },
     {
       "added_at": null,
@@ -639,6 +639,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wrong Places (from Songland)",
+        "url": "https://open.spotify.com/album/2egSKhWoeRAIycSMnlew9P"
+      },
+      "artists": [
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 197727,
+      "name": "Wrong Places (from Songland)",
+      "url": "https://open.spotify.com/track/2mtLGVN6xZm93wDG9nvviS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Where I Go (feat. H.E.R.)",
         "url": "https://open.spotify.com/album/1o8zUe3QYHV42SHSsg6ffu"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 211204,
       "name": "This Way - From SUPERFLY - Original Soundtrack",
       "url": "https://open.spotify.com/track/6fbYL76UWbHdYq4B91TPQi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wrong Places (from Songland)",
-        "url": "https://open.spotify.com/album/2egSKhWoeRAIycSMnlew9P"
-      },
-      "artists": [
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "duration_ms": 197727,
-      "name": "Wrong Places (from Songland)",
-      "url": "https://open.spotify.com/track/2mtLGVN6xZm93wDG9nvviS"
     },
     {
       "added_at": null,

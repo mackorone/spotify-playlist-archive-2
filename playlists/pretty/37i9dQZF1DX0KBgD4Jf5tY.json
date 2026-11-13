@@ -1,6 +1,6 @@
 {
   "description": "Solo musica indipendente \ud83c\uddee\ud83c\uddf9, aggiornata il mercoled\u00ec. <a href=\"spotify:artist:6X4GKXwvYRDPVzIKYdCpil\">Elisa Benetti</a> in cover. ",
-  "num_followers": 10281,
+  "num_followers": 10285,
   "original_name": "Fresh Finds Italia",
   "owner": {
     "name": "Spotify",
@@ -415,6 +415,22 @@
       "duration_ms": 147027,
       "name": "NESSUNO",
       "url": "https://open.spotify.com/track/70TI3kGOvz8S2kBsCzkB0P"
+    },
+    {
+      "added_at": "2026-11-10 23:01:23",
+      "album": {
+        "name": "MARLBORO",
+        "url": "https://open.spotify.com/album/3V1oPIVoVqsp2jEZNG3sE1"
+      },
+      "artists": [
+        {
+          "name": "ISLA",
+          "url": "https://open.spotify.com/artist/1kxIH0LbXAHPlBQsEqJAGt"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "MARLBORO",
+      "url": "https://open.spotify.com/track/0NWCL1wrDccL20fddwElfA"
     },
     {
       "added_at": "2026-11-10 23:01:23",

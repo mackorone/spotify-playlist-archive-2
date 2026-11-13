@@ -1,6 +1,6 @@
 {
   "description": "From the decade that brought us Britney, Spice Girls, Coolio and so many more!",
-  "num_followers": 628220,
+  "num_followers": 628548,
   "original_name": "90s Pop",
   "owner": {
     "name": "Spotify",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-07-12 19:27:29",
       "album": {
-        "name": "Aquarium (Special Edition)",
-        "url": "https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm"
-      },
-      "artists": [
-        {
-          "name": "Aqua",
-          "url": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
-        }
-      ],
-      "duration_ms": 197960,
-      "name": "Barbie Girl",
-      "url": "https://open.spotify.com/track/5ZrDlcxIDZyjOzHdYW1ydr"
-    },
-    {
-      "added_at": "2024-07-12 19:27:29",
-      "album": {
         "name": "Backstreet Boys",
         "url": "https://open.spotify.com/album/0wvQovgaVU99eqw8n3g22S"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 214333,
       "name": "As Long as You Love Me",
       "url": "https://open.spotify.com/track/00WvmRXTkPBZNhhRK3xfdy"
+    },
+    {
+      "added_at": "2024-07-12 19:27:29",
+      "album": {
+        "name": "Aquarium (Special Edition)",
+        "url": "https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm"
+      },
+      "artists": [
+        {
+          "name": "Aqua",
+          "url": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
+        }
+      ],
+      "duration_ms": 197960,
+      "name": "Barbie Girl",
+      "url": "https://open.spotify.com/track/5ZrDlcxIDZyjOzHdYW1ydr"
     },
     {
       "added_at": "2024-07-12 19:27:29",
@@ -879,6 +879,22 @@
     {
       "added_at": "2024-07-12 19:27:29",
       "album": {
+        "name": "The Writing's On The Wall",
+        "url": "https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG"
+      },
+      "artists": [
+        {
+          "name": "Destiny's Child",
+          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
+        }
+      ],
+      "duration_ms": 256026,
+      "name": "Bills, Bills, Bills",
+      "url": "https://open.spotify.com/track/1Oi2zpmL81Q0yScF1zxaC0"
+    },
+    {
+      "added_at": "2024-07-12 19:27:29",
+      "album": {
         "name": "Operation Stackola",
         "url": "https://open.spotify.com/album/5pMShIZc6oWiEtcQvXsKfb"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 253533,
       "name": "I Got 5 On It",
       "url": "https://open.spotify.com/track/4IYKjN1DrYzxKXt0umJqsG"
-    },
-    {
-      "added_at": "2024-07-12 19:27:29",
-      "album": {
-        "name": "The Writing's On The Wall",
-        "url": "https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG"
-      },
-      "artists": [
-        {
-          "name": "Destiny's Child",
-          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
-        }
-      ],
-      "duration_ms": 256026,
-      "name": "Bills, Bills, Bills",
-      "url": "https://open.spotify.com/track/1Oi2zpmL81Q0yScF1zxaC0"
     },
     {
       "added_at": "2024-07-12 19:27:29",
@@ -951,6 +951,22 @@
     {
       "added_at": "2024-07-12 19:27:29",
       "album": {
+        "name": "Spice",
+        "url": "https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ"
+      },
+      "artists": [
+        {
+          "name": "Spice Girls",
+          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
+        }
+      ],
+      "duration_ms": 235973,
+      "name": "Say You'll Be There - Single Mix",
+      "url": "https://open.spotify.com/track/1yTQ39my3MoNROlFw3RDNy"
+    },
+    {
+      "added_at": "2024-07-12 19:27:29",
+      "album": {
         "name": "My Promise",
         "url": "https://open.spotify.com/album/5CQHiljabLGvn72iQk0wsZ"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 272106,
       "name": "All I Wanna Do",
       "url": "https://open.spotify.com/track/3ZpQiJ78LKINrW9SQTgbXd"
-    },
-    {
-      "added_at": "2024-07-12 19:27:29",
-      "album": {
-        "name": "Spice",
-        "url": "https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ"
-      },
-      "artists": [
-        {
-          "name": "Spice Girls",
-          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
-        }
-      ],
-      "duration_ms": 235973,
-      "name": "Say You'll Be There - Single Mix",
-      "url": "https://open.spotify.com/track/1yTQ39my3MoNROlFw3RDNy"
     },
     {
       "added_at": "2024-07-12 19:27:29",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-07-12 19:27:29",
       "album": {
-        "name": "Faith",
-        "url": "https://open.spotify.com/album/2lKDDrmx5aqyBRkho5ljn5"
-      },
-      "artists": [
-        {
-          "name": "Faith Hill",
-          "url": "https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa"
-        }
-      ],
-      "duration_ms": 194306,
-      "name": "This Kiss",
-      "url": "https://open.spotify.com/track/5EYWGM3Ns3iYew8ws0FatB"
-    },
-    {
-      "added_at": "2024-07-12 19:27:29",
-      "album": {
         "name": "...Baby One More Time (Digital Deluxe Version)",
         "url": "https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 198066,
       "name": "(You Drive Me) Crazy",
       "url": "https://open.spotify.com/track/1DSJNBNhGZCigg9ll5VeZv"
+    },
+    {
+      "added_at": "2024-07-12 19:27:29",
+      "album": {
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/2lKDDrmx5aqyBRkho5ljn5"
+      },
+      "artists": [
+        {
+          "name": "Faith Hill",
+          "url": "https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa"
+        }
+      ],
+      "duration_ms": 194306,
+      "name": "This Kiss",
+      "url": "https://open.spotify.com/track/5EYWGM3Ns3iYew8ws0FatB"
     },
     {
       "added_at": "2024-07-12 19:27:29",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2024-07-12 19:27:29",
       "album": {
+        "name": "Backstreet Boys",
+        "url": "https://open.spotify.com/album/0wvQovgaVU99eqw8n3g22S"
+      },
+      "artists": [
+        {
+          "name": "Backstreet Boys",
+          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
+        }
+      ],
+      "duration_ms": 233533,
+      "name": "Quit Playing Games (With My Heart)",
+      "url": "https://open.spotify.com/track/1nRwyxNsqCLeA17qR8Nfxx"
+    },
+    {
+      "added_at": "2024-07-12 19:27:29",
+      "album": {
         "name": "No Way Out (2014 Remaster)",
         "url": "https://open.spotify.com/album/33hEDxsIVGf7R6wRdZBQOw"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 275706,
       "name": "Love Like This",
       "url": "https://open.spotify.com/track/7MQywXGHEev7JmwwIzMcao"
-    },
-    {
-      "added_at": "2024-07-12 19:27:29",
-      "album": {
-        "name": "Backstreet Boys",
-        "url": "https://open.spotify.com/album/0wvQovgaVU99eqw8n3g22S"
-      },
-      "artists": [
-        {
-          "name": "Backstreet Boys",
-          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
-        }
-      ],
-      "duration_ms": 233533,
-      "name": "Quit Playing Games (With My Heart)",
-      "url": "https://open.spotify.com/track/1nRwyxNsqCLeA17qR8Nfxx"
     },
     {
       "added_at": "2024-07-12 19:27:29",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2024-07-12 19:27:29",
       "album": {
-        "name": "Desireless",
-        "url": "https://open.spotify.com/album/3P2WRy9eBoBbSTCZWGQOoO"
-      },
-      "artists": [
-        {
-          "name": "Eagle-Eye Cherry",
-          "url": "https://open.spotify.com/artist/3ngKsDXZAssmljeXCvEgOe"
-        }
-      ],
-      "duration_ms": 239226,
-      "name": "Save Tonight",
-      "url": "https://open.spotify.com/track/1t2Hq2WIBcZINOEnK6mdJG"
-    },
-    {
-      "added_at": "2024-07-12 19:27:29",
-      "album": {
         "name": "Waking Up The Neighbours",
         "url": "https://open.spotify.com/album/061uAXmheZOILmf2rr3tTn"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 394133,
       "name": "(Everything I Do) I Do It For You",
       "url": "https://open.spotify.com/track/6eBK3edMW7bEzecF1eCezc"
+    },
+    {
+      "added_at": "2024-07-12 19:27:29",
+      "album": {
+        "name": "Desireless",
+        "url": "https://open.spotify.com/album/3P2WRy9eBoBbSTCZWGQOoO"
+      },
+      "artists": [
+        {
+          "name": "Eagle-Eye Cherry",
+          "url": "https://open.spotify.com/artist/3ngKsDXZAssmljeXCvEgOe"
+        }
+      ],
+      "duration_ms": 239226,
+      "name": "Save Tonight",
+      "url": "https://open.spotify.com/track/1t2Hq2WIBcZINOEnK6mdJG"
     },
     {
       "added_at": "2024-07-12 19:27:29",

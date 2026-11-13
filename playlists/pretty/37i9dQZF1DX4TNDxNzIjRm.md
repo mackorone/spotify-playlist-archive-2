@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TNDxNzIjRm.md) - [plain]
 
 > Cuando el jangueo está mejor que la fiesta\. Hanging out jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,246,865 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,246,688 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TNDxNzIjRm.md) - [plain]
 | 65 | [PERREO TRISTE](https://open.spotify.com/track/6Woew1S4PzF6NrJPJ1Hylx) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [BARAJA BENDITA](https://open.spotify.com/album/1B8QJFOcpBeycykDaWttDY) | 2:53 |
 | 66 | [Quiero +](https://open.spotify.com/track/3qwEwtnOb6TyJkSGYEm02h) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Quiero +](https://open.spotify.com/album/3eF6EiinfXf9fXbyLTxFDv) | 2:08 |
 | 67 | [GÓZALO, QUE TU MARIDO ESTÁ PRESO \- RMX](https://open.spotify.com/track/0pOfjsuKWEDHqSjzgXzuhd) | [Zelcok Kp](https://open.spotify.com/artist/34KCWdUCHMLKkx3sFb06zr), [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p), [Kiddy Fount](https://open.spotify.com/artist/0pF2lydgnGUlz4s1Zzhxra), [J\-Lit](https://open.spotify.com/artist/7dUBKGHcRsialvNetw2H6v), [Luis Malave](https://open.spotify.com/artist/27FuautCwBe6cBpghICnH2) | [GÓZALO, QUE TU MARIDO ESTÁ PRESO \(RMX\)](https://open.spotify.com/album/0JVVZgd8CUQypp9JhyTJcP) | 3:54 |
-| 68 | [Te Quiero](https://open.spotify.com/track/7GzRxRiDEBBa42S6Nx3IHJ) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Te Quiero](https://open.spotify.com/album/11DqCI7qqSdScS5cOrFpwr) | 2:05 |
-| 69 | [HASTA QUE ME ENAMORO](https://open.spotify.com/track/1x2NX2wwyb47DINKGe314l) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [XROSS](https://open.spotify.com/artist/1sV3HHU1TBH5owKu0WLHf7) | [HASTA QUE ME ENAMORO](https://open.spotify.com/album/0QqDczkevW20da9kiN9O3Q) | 3:00 |
+| 68 | [HASTA QUE ME ENAMORO](https://open.spotify.com/track/1x2NX2wwyb47DINKGe314l) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [XROSS](https://open.spotify.com/artist/1sV3HHU1TBH5owKu0WLHf7) | [HASTA QUE ME ENAMORO](https://open.spotify.com/album/0QqDczkevW20da9kiN9O3Q) | 3:00 |
+| 69 | [Te Quiero](https://open.spotify.com/track/7GzRxRiDEBBa42S6Nx3IHJ) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Te Quiero](https://open.spotify.com/album/11DqCI7qqSdScS5cOrFpwr) | 2:05 |
 | 70 | [Gati](https://open.spotify.com/track/7nQzmlFBLW64QVoH2QhVs8) | [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [Mi Carpe Diem](https://open.spotify.com/album/5xNpY6LGUqNbluWuLJRNSl) | 3:39 |
 | 71 | [Gringa Repartera](https://open.spotify.com/track/6gwqBHNEJn2XYcDjAwCvsX) | [IAmChino](https://open.spotify.com/artist/0b2GL7Y02vu50qieoQmw1w), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [Gringa Repartera](https://open.spotify.com/album/32PMfaSuQA6iMKmHWxlQEv) | 3:12 |
 | 72 | [Estuve Ahí](https://open.spotify.com/track/0deJuuwLr6HofRCDVDbVNA) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Estuve Ahí](https://open.spotify.com/album/4Xw68DlfaFUwGOLFvnpZxW) | 2:15 |

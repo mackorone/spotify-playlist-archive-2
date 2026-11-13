@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "KAROL G, Judeline & rusowsky au sommet de la premi\u00e8re playlist de France.",
+  "description": "Mosimann & Ga\u00ebtan Roussel au sommet de la premi\u00e8re playlist de France.",
   "name": "Hits du Moment",
   "tracks": [
     {
@@ -788,6 +788,28 @@
       "duration_ms": 97960,
       "name": "Babydoll",
       "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
+    },
+    {
+      "album": {
+        "name": "Babydoll",
+        "url": "https://open.spotify.com/album/1Uort7z9KdrvMKKOpev0n9"
+      },
+      "artists": [
+        {
+          "name": "Jamie Miller",
+          "url": "https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6"
+        },
+        {
+          "name": "Antonio Cipriano",
+          "url": "https://open.spotify.com/artist/0C3GEN7zQmGd5NDw9JTrI4"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178822,
+      "name": "Babydoll feat. Antonio Cipriano",
+      "url": "https://open.spotify.com/track/1UO7xiV3QaRfPXUpiVRsEp"
     },
     {
       "album": {
@@ -2680,7 +2702,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 201000,
       "name": "Drive Safe",
       "url": "https://open.spotify.com/track/024GxR7aMUMCPtp8Y3c1zn"
@@ -4029,6 +4051,24 @@
     },
     {
       "album": {
+        "name": "Housewife",
+        "url": "https://open.spotify.com/album/6JvmSyocXef7RZDZFaymNl"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208810,
+      "name": "Housewife",
+      "url": "https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0"
+    },
+    {
+      "album": {
         "name": "Hypnotized",
         "url": "https://open.spotify.com/album/4k0x8hi3zxwSKNxkcYX67J"
       },
@@ -4450,6 +4490,24 @@
       "duration_ms": 152304,
       "name": "It's Not Right But It's Okay",
       "url": "https://open.spotify.com/track/5OFVzqSeFxGpvDGyHvVeLj"
+    },
+    {
+      "album": {
+        "name": "J'assume",
+        "url": "https://open.spotify.com/album/7q01MmYmGGFHADR5RYC54G"
+      },
+      "artists": [
+        {
+          "name": "RnBoi",
+          "url": "https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178331,
+      "name": "J'assume",
+      "url": "https://open.spotify.com/track/5qRO8OcqfOc7mgTEDN12XQ"
     },
     {
       "album": {
@@ -6536,7 +6594,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 183685,
       "name": "NUEVAYoL",
       "url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5"
@@ -8008,7 +8066,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 156254,
       "name": "Sexy Nana",
       "url": "https://open.spotify.com/track/0at2jRhqZ9lhzEILevQxkZ"

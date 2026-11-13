@@ -1,6 +1,6 @@
 {
   "description": "Listen to selected nominees for the 68th GRAMMY Awards.",
-  "num_followers": 165203,
+  "num_followers": 165209,
   "original_name": "The GRAMMYs Official Playlist",
   "owner": {
     "name": "Spotify",
@@ -619,22 +619,6 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
-        "name": "MAYHEM",
-        "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 229997,
-      "name": "Disease",
-      "url": "https://open.spotify.com/track/0T3Hw3kPj9T2E4UoaSXmfn"
-    },
-    {
-      "added_at": "2025-11-12 17:50:29",
-      "album": {
         "name": "Even In Arcadia",
         "url": "https://open.spotify.com/album/1lS7FeRcSUuIGqyg99UGpj"
       },
@@ -651,18 +635,18 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
-        "name": "Mixteip",
-        "url": "https://open.spotify.com/album/5ZhcTmzBym8cwsVkNNrHgS"
+        "name": "MAYHEM",
+        "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
       },
       "artists": [
         {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
         }
       ],
-      "duration_ms": 188386,
-      "name": "Rio",
-      "url": "https://open.spotify.com/track/4m6FwXQm2GQNMn4u9xPhm2"
+      "duration_ms": 229997,
+      "name": "Disease",
+      "url": "https://open.spotify.com/track/0T3Hw3kPj9T2E4UoaSXmfn"
     },
     {
       "added_at": "2025-11-12 17:50:29",
@@ -683,6 +667,22 @@
       "duration_ms": 136036,
       "name": "With You (feat. Omah Lay)",
       "url": "https://open.spotify.com/track/5GyaXqMfcIGHfmTUITFacS"
+    },
+    {
+      "added_at": "2025-11-12 17:50:29",
+      "album": {
+        "name": "Mixteip",
+        "url": "https://open.spotify.com/album/5ZhcTmzBym8cwsVkNNrHgS"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 188386,
+      "name": "Rio",
+      "url": "https://open.spotify.com/track/4m6FwXQm2GQNMn4u9xPhm2"
     },
     {
       "added_at": "2025-11-12 17:50:29",
@@ -1507,6 +1507,26 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
+        "name": "NAIKI",
+        "url": "https://open.spotify.com/album/0pjOf0aWfj0YQCJd1wPCic"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 145714,
+      "name": "MASCARA",
+      "url": "https://open.spotify.com/track/4CDD9QvqxvcquJYxAIPuOL"
+    },
+    {
+      "added_at": "2025-11-12 17:50:29",
+      "album": {
         "name": "FERXXO VOL X: Sagrado",
         "url": "https://open.spotify.com/album/4Fa9OpneHJPjj5jsrCQuMC"
       },
@@ -1539,26 +1559,6 @@
       "duration_ms": 209256,
       "name": "Crucified Son",
       "url": "https://open.spotify.com/track/6GniZoAv7dAL3djoMjxVZa"
-    },
-    {
-      "added_at": "2025-11-12 17:50:29",
-      "album": {
-        "name": "NAIKI",
-        "url": "https://open.spotify.com/album/0pjOf0aWfj0YQCJd1wPCic"
-      },
-      "artists": [
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        },
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        }
-      ],
-      "duration_ms": 145714,
-      "name": "MASCARA",
-      "url": "https://open.spotify.com/track/4CDD9QvqxvcquJYxAIPuOL"
     },
     {
       "added_at": "2025-11-12 17:50:29",
@@ -1611,26 +1611,18 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
-        "name": "Trailblazer (with Miranda Lambert and Lainey Wilson)",
-        "url": "https://open.spotify.com/album/3tVU6zzQUBSHzQ80txYWH0"
+        "name": "Harlequin",
+        "url": "https://open.spotify.com/album/6eKdAMXNBlXNtPy7OdBL50"
       },
       "artists": [
         {
-          "name": "Reba McEntire",
-          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
-        },
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        },
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
         }
       ],
-      "duration_ms": 226753,
-      "name": "Trailblazer (with Miranda Lambert and Lainey Wilson)",
-      "url": "https://open.spotify.com/track/5CJwFd0iqn3s48pFBoNCma"
+      "duration_ms": 245435,
+      "name": "Happy Mistake",
+      "url": "https://open.spotify.com/track/5DQIZ8XC0EP7cfRFrtzY5h"
     },
     {
       "added_at": "2025-11-12 17:50:29",
@@ -1659,18 +1651,26 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
-        "name": "Harlequin",
-        "url": "https://open.spotify.com/album/6eKdAMXNBlXNtPy7OdBL50"
+        "name": "Trailblazer (with Miranda Lambert and Lainey Wilson)",
+        "url": "https://open.spotify.com/album/3tVU6zzQUBSHzQ80txYWH0"
       },
       "artists": [
         {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+          "name": "Reba McEntire",
+          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
+        },
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        },
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
         }
       ],
-      "duration_ms": 245435,
-      "name": "Happy Mistake",
-      "url": "https://open.spotify.com/track/5DQIZ8XC0EP7cfRFrtzY5h"
+      "duration_ms": 226753,
+      "name": "Trailblazer (with Miranda Lambert and Lainey Wilson)",
+      "url": "https://open.spotify.com/track/5CJwFd0iqn3s48pFBoNCma"
     },
     {
       "added_at": "2025-11-12 17:50:29",
@@ -2011,22 +2011,6 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
-        "name": "Something Beautiful (Deluxe)",
-        "url": "https://open.spotify.com/album/3jyvGlsdgbUkdZnbpbZCCb"
-      },
-      "artists": [
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        }
-      ],
-      "duration_ms": 250483,
-      "name": "End of the World",
-      "url": "https://open.spotify.com/track/7C5lLwXJadUtDjb5Ijh12m"
-    },
-    {
-      "added_at": "2025-11-12 17:50:29",
-      "album": {
         "name": "Middle",
         "url": "https://open.spotify.com/album/66esRfCq1pX9ofsg4wwp3Q"
       },
@@ -2039,6 +2023,22 @@
       "duration_ms": 215236,
       "name": "Horses",
       "url": "https://open.spotify.com/track/2xvIz18sQhhNWsjnVTo8OS"
+    },
+    {
+      "added_at": "2025-11-12 17:50:29",
+      "album": {
+        "name": "Something Beautiful (Deluxe)",
+        "url": "https://open.spotify.com/album/3jyvGlsdgbUkdZnbpbZCCb"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "duration_ms": 250483,
+      "name": "End of the World",
+      "url": "https://open.spotify.com/track/7C5lLwXJadUtDjb5Ijh12m"
     },
     {
       "added_at": "2025-11-12 17:50:29",
@@ -2267,26 +2267,6 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
-        "name": "Arcadia",
-        "url": "https://open.spotify.com/album/4S72Bm1ybpe6pwG2ni2wGH"
-      },
-      "artists": [
-        {
-          "name": "Alison Krauss & Union Station",
-          "url": "https://open.spotify.com/artist/0OTnx2X2FDXeewcm72lavT"
-        },
-        {
-          "name": "Alison Krauss",
-          "url": "https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG"
-        }
-      ],
-      "duration_ms": 219374,
-      "name": "Looks Like The End Of The Road",
-      "url": "https://open.spotify.com/track/4Yw2zhsCsAVkKKcVJPDrmy"
-    },
-    {
-      "added_at": "2025-11-12 17:50:29",
-      "album": {
         "name": "The Secret Of Life: Partners, Volume 2",
         "url": "https://open.spotify.com/album/3IWJnA5vzbaVW3LaNuftb2"
       },
@@ -2303,6 +2283,26 @@
       "duration_ms": 296071,
       "name": "Letter To My 13 Year Old Self",
       "url": "https://open.spotify.com/track/7zOjSNTAUdwu3JK6Yt8uxF"
+    },
+    {
+      "added_at": "2025-11-12 17:50:29",
+      "album": {
+        "name": "Arcadia",
+        "url": "https://open.spotify.com/album/4S72Bm1ybpe6pwG2ni2wGH"
+      },
+      "artists": [
+        {
+          "name": "Alison Krauss & Union Station",
+          "url": "https://open.spotify.com/artist/0OTnx2X2FDXeewcm72lavT"
+        },
+        {
+          "name": "Alison Krauss",
+          "url": "https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG"
+        }
+      ],
+      "duration_ms": 219374,
+      "name": "Looks Like The End Of The Road",
+      "url": "https://open.spotify.com/track/4Yw2zhsCsAVkKKcVJPDrmy"
     }
   ],
   "unique_name": "The GRAMMYs Official Playlist",

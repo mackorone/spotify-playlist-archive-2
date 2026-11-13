@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 
 > A palavra do Senhor pra você dançar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,630 likes - 75 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,631 likes - 75 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 | 51 | [O Autor](https://open.spotify.com/track/56kNz9R6DCjeoQuCrljeYy) | [Lufra](https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH), [Dj Mello](https://open.spotify.com/artist/0CwYZDyglnOXWCZ9xx2YC2), [Felson](https://open.spotify.com/artist/2DDzAI8sGdcVE4MYs8VuU2) | [O Autor](https://open.spotify.com/album/50A1UrSjQM0zcLJuqEI3rr) | 2:56 |
 | 52 | [Marcas \- Remix](https://open.spotify.com/track/5WEpKESNpBwo0170C0aj0k) | [Dj Lucas Augusto](https://open.spotify.com/artist/3HDlmQ4iyuqux2TTcPzFEc), [Rosa de Saron](https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX) | [Marcas \(Remix\)](https://open.spotify.com/album/44sgO3D4YBpiRHwu2305fo) | 3:15 |
 | 53 | [Imparável](https://open.spotify.com/track/13uOw9VAS34D34jx64rGEk) | [Dois Irmãos](https://open.spotify.com/artist/1oGmoG5sbNO6r8VW7RyZll), [Michaell D](https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE), [Lufra](https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH) | [Imparável](https://open.spotify.com/album/0XX6szHMJ1b5sfzIC8kCGj) | 2:43 |
-| 54 | [Dono da Minha Vida \- Remix](https://open.spotify.com/track/58HYGCF00P5MGm7ZtYQlcP) | [Dj Del Mag](https://open.spotify.com/artist/2xUpGkJ8TAdUcbULBEP2S4), [Filipe Souza](https://open.spotify.com/artist/7iVidqBbem4kPayKzk4h9z) | [Dono da Minha Vida \(Remix\)](https://open.spotify.com/album/48ZsZjU6GUlRuhv3n7u6cJ) | 3:25 |
-| 55 | [Para o Alto \- Remix](https://open.spotify.com/track/6DfUjTDRAdS1DjO28CcP8q) | [Jessi Dias](https://open.spotify.com/artist/6L8137JRkMls0kVJr7jP83), [DJ Moisés](https://open.spotify.com/artist/34GTvNHuHtAOPbp2P6oy3X) | [Para o Alto \(Remix\)](https://open.spotify.com/album/3KPQGc4SBlvFEunu9rilc4) | 3:27 |
+| 54 | [Para o Alto \- Remix](https://open.spotify.com/track/6DfUjTDRAdS1DjO28CcP8q) | [Jessi Dias](https://open.spotify.com/artist/6L8137JRkMls0kVJr7jP83), [DJ Moisés](https://open.spotify.com/artist/34GTvNHuHtAOPbp2P6oy3X) | [Para o Alto \(Remix\)](https://open.spotify.com/album/3KPQGc4SBlvFEunu9rilc4) | 3:27 |
+| 55 | [Dono da Minha Vida \- Remix](https://open.spotify.com/track/58HYGCF00P5MGm7ZtYQlcP) | [Dj Del Mag](https://open.spotify.com/artist/2xUpGkJ8TAdUcbULBEP2S4), [Filipe Souza](https://open.spotify.com/artist/7iVidqBbem4kPayKzk4h9z) | [Dono da Minha Vida \(Remix\)](https://open.spotify.com/album/48ZsZjU6GUlRuhv3n7u6cJ) | 3:25 |
 | 56 | [Me Encontrou \(DJ Vitor Capoia Remix\)](https://open.spotify.com/track/2BZMBpOPJ1537isDKVrfSX) | [Cleverton Marques](https://open.spotify.com/artist/7IVkIqTy51csgU0TdHFhey), [Michaell D](https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE), [DJ Vitor Capoia](https://open.spotify.com/artist/0I2GS9B8Wtghd5LogOcePp) | [Me Encontrou Remix](https://open.spotify.com/album/0W3OfqzLQ5GIWYFXMZD50p) | 3:10 |
 | 57 | [O Céu É O Meu Lugar](https://open.spotify.com/track/2BQ7Y0h3QKr9YCjCkAMoWz) | [Casa Worship](https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs), [DJ PV](https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j), [Léo Brandão](https://open.spotify.com/artist/7Hy3BcTukq6HpDzVFrnJ8L) | [O Céu É O Meu Lugar](https://open.spotify.com/album/0dgtQEwbUoiCcoWRxi6siP) | 3:55 |
 | 58 | [Alto Preço](https://open.spotify.com/track/6ygbezTFylWUnp52YjceFO) | [Dois Irmãos](https://open.spotify.com/artist/1oGmoG5sbNO6r8VW7RyZll), [Lufra](https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH), [Michaell D](https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE) | [Alto Preço](https://open.spotify.com/album/5ZbZZmG0c1OhpD4vyGpam8) | 3:09 |

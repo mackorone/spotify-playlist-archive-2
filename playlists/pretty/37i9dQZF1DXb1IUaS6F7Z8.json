@@ -1,6 +1,6 @@
 {
   "description": "All of the Celtic punk essentials.. Cover: Dropkick Murphys",
-  "num_followers": 515146,
+  "num_followers": 515186,
   "original_name": "Celtic Punk",
   "owner": {
     "name": "Spotify",
@@ -603,6 +603,22 @@
     {
       "added_at": "2024-02-06 19:54:12",
       "album": {
+        "name": "The Emerald City",
+        "url": "https://open.spotify.com/album/1fBFtQjOZbF7Zr3TiolxHZ"
+      },
+      "artists": [
+        {
+          "name": "The Tossers",
+          "url": "https://open.spotify.com/artist/6JqiYCJwtFqBMCvX772Pw2"
+        }
+      ],
+      "duration_ms": 216800,
+      "name": "USA",
+      "url": "https://open.spotify.com/track/6AXdttKPTiEaGPMrKNNsHK"
+    },
+    {
+      "added_at": "2024-02-06 19:54:12",
+      "album": {
         "name": "Life Is Good",
         "url": "https://open.spotify.com/album/7wxpajBgcfiRwooT3JvYwH"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 223583,
       "name": "You've Got a Friend",
       "url": "https://open.spotify.com/track/7GbGrWKrO2VKrz27sCjGAM"
-    },
-    {
-      "added_at": "2024-02-06 19:54:12",
-      "album": {
-        "name": "The Emerald City",
-        "url": "https://open.spotify.com/album/1fBFtQjOZbF7Zr3TiolxHZ"
-      },
-      "artists": [
-        {
-          "name": "The Tossers",
-          "url": "https://open.spotify.com/artist/6JqiYCJwtFqBMCvX772Pw2"
-        }
-      ],
-      "duration_ms": 216800,
-      "name": "USA",
-      "url": "https://open.spotify.com/track/6AXdttKPTiEaGPMrKNNsHK"
     },
     {
       "added_at": "2024-02-06 19:54:12",

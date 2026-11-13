@@ -1,12 +1,12 @@
 {
   "description": "This is Benson Boone. The essential tracks, all in one playlist.",
-  "num_followers": 405684,
+  "num_followers": 405730,
   "original_name": "This Is Benson Boone",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avENAAAAAAAu/nOEbPWz9v9UucLwciQb",
+  "snapshot_id": "avOwAAAAAAAodYBJxi5JqYOIi8tcPi3w",
   "tracks": [
     {
       "added_at": null,
@@ -123,8 +123,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beautiful Things (Alternate Versions)",
-        "url": "https://open.spotify.com/album/5KZ5cuVY1oLvHI1ecqoUJP"
+        "name": "Before You",
+        "url": "https://open.spotify.com/album/5daRbOcG3hGi60yaXm5PXM"
       },
       "artists": [
         {
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
         }
       ],
-      "duration_ms": 201248,
-      "name": "Beautiful Things - Acoustic",
-      "url": "https://open.spotify.com/track/7rJkmoGkKjLMIPI9qUQnSy"
+      "duration_ms": 187940,
+      "name": "Before You",
+      "url": "https://open.spotify.com/track/523f4oSjrZx83XDtRLnsIw"
     },
     {
       "added_at": null,
@@ -155,8 +155,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Before You",
-        "url": "https://open.spotify.com/album/5daRbOcG3hGi60yaXm5PXM"
+        "name": "Beautiful Things (Alternate Versions)",
+        "url": "https://open.spotify.com/album/5KZ5cuVY1oLvHI1ecqoUJP"
       },
       "artists": [
         {
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
         }
       ],
-      "duration_ms": 187940,
-      "name": "Before You",
-      "url": "https://open.spotify.com/track/523f4oSjrZx83XDtRLnsIw"
+      "duration_ms": 201248,
+      "name": "Beautiful Things - Acoustic",
+      "url": "https://open.spotify.com/track/7rJkmoGkKjLMIPI9qUQnSy"
     },
     {
       "added_at": null,

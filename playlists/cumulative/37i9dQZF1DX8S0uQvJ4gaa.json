@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "Break them in, wear them out. Cover: Mack Geiger",
+  "description": "Break them in, wear them out. Cover: Avery Anna",
   "name": "New Boots",
   "tracks": [
     {
@@ -2618,7 +2618,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 175287,
       "name": "AND THEN SOME",
       "url": "https://open.spotify.com/track/7BD0FyM3N1Czf98oDzYUr4"
@@ -4610,6 +4610,28 @@
       "duration_ms": 176000,
       "name": "Best of My 20's (feat. Trousdale)",
       "url": "https://open.spotify.com/track/0PltwVYmskJyHAfehhhfHB"
+    },
+    {
+      "album": {
+        "name": "No Brakes (Deluxe)",
+        "url": "https://open.spotify.com/album/0vWaE1Trw73LYPBm6yef8V"
+      },
+      "artists": [
+        {
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        },
+        {
+          "name": "Big Mo",
+          "url": "https://open.spotify.com/artist/6p0IWgx77UVIe3OBcaSgdA"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199293,
+      "name": "Best Shot",
+      "url": "https://open.spotify.com/track/4VZy3QrPZmrxcaZLDxv1ks"
     },
     {
       "album": {
@@ -9256,7 +9278,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 158049,
       "name": "Closing Time (with Kelsea Ballerini)",
       "url": "https://open.spotify.com/track/2ROIH7TfO1dpBX6O3PPjBw"
@@ -9520,7 +9542,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 166986,
       "name": "Coldest Shoulder",
       "url": "https://open.spotify.com/track/0EvVO6S1WmbKoR8vaBKFkB"
@@ -14129,6 +14151,24 @@
     },
     {
       "album": {
+        "name": "Drop Anchor Here",
+        "url": "https://open.spotify.com/album/1dbEt8HquK1ogAVXcPV3ve"
+      },
+      "artists": [
+        {
+          "name": "Gabby Barrett",
+          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203186,
+      "name": "Drop Anchor Here",
+      "url": "https://open.spotify.com/track/5za25Jtm5rdrKKHKoAMJEa"
+    },
+    {
+      "album": {
         "name": "Drop of Us",
         "url": "https://open.spotify.com/album/5syzLuYeYbIEQDRQJEXZnX"
       },
@@ -14400,7 +14440,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 247480,
       "name": "Dying In This House",
       "url": "https://open.spotify.com/track/3K33BYes6bVzZAsCiavBVT"
@@ -14904,7 +14944,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 208286,
       "name": "Every Minute Of It",
       "url": "https://open.spotify.com/track/3GmJ2KRfqE7addvkfhmt3V"
@@ -15532,6 +15572,24 @@
       "duration_ms": 195546,
       "name": "Fall In Love With Me",
       "url": "https://open.spotify.com/track/56CmYOZ5YNtmuVUtY5W5jF"
+    },
+    {
+      "album": {
+        "name": "Something To Say (Deluxe)",
+        "url": "https://open.spotify.com/album/6dd2umlPod0QG71Rh1xOgJ"
+      },
+      "artists": [
+        {
+          "name": "Blake Whiten",
+          "url": "https://open.spotify.com/artist/1BjlNhp6EsDG0UMroeJbRM"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199519,
+      "name": "Fall In Your Arms",
+      "url": "https://open.spotify.com/track/0YEYLAdq4OYX0xgtQAZFBp"
     },
     {
       "album": {
@@ -19482,7 +19540,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 224601,
       "name": "Good Faith",
       "url": "https://open.spotify.com/track/57QLRAvrHOIkoU8yAU5WnZ"
@@ -20710,6 +20768,24 @@
       "duration_ms": 187436,
       "name": "Hammer",
       "url": "https://open.spotify.com/track/0lo44qTz7ajiM7CQ67OpZb"
+    },
+    {
+      "album": {
+        "name": "Hand Me Down Genes",
+        "url": "https://open.spotify.com/album/2brm8feW7n9nBejZ8sIG9h"
+      },
+      "artists": [
+        {
+          "name": "Elizabeth Nichols",
+          "url": "https://open.spotify.com/artist/06cAJQBSPkt3bG7uMoWfmA"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175647,
+      "name": "Hand Me Down Genes",
+      "url": "https://open.spotify.com/track/5CFgEzhDAqSLUo5lBARDll"
     },
     {
       "album": {
@@ -22552,7 +22628,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 227830,
       "name": "Hell (feat. Blake Shelton)",
       "url": "https://open.spotify.com/track/1nJMxZnnD8haVM4LdUnbI8"
@@ -28890,6 +28966,24 @@
     {
       "album": {
         "name": "Joe",
+        "url": "https://open.spotify.com/album/0i4CCHDLRiqGpXu6g6SeZB"
+      },
+      "artists": [
+        {
+          "name": "Chase Rice",
+          "url": "https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314330,
+      "name": "Joe",
+      "url": "https://open.spotify.com/track/2u3wxNvNEVk4ibyBpVwMRY"
+    },
+    {
+      "album": {
+        "name": "Joe",
         "url": "https://open.spotify.com/album/3SfvfIU7ttLjbdRuu3L9fI"
       },
       "artists": [
@@ -31364,7 +31458,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 178998,
       "name": "LIL SOMETHIN LIKE",
       "url": "https://open.spotify.com/track/3kuCjj6J9R8SB5Ogdivjzj"
@@ -34286,7 +34380,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 215000,
       "name": "Me Without My Hometown",
       "url": "https://open.spotify.com/track/3hugLTwzVbMVMxrcvK2gsC"
@@ -37681,6 +37775,24 @@
     },
     {
       "album": {
+        "name": "GREYLAN JAMES",
+        "url": "https://open.spotify.com/album/4FU1RC6HI0fuOpytZdsgJG"
+      },
+      "artists": [
+        {
+          "name": "Greylan James",
+          "url": "https://open.spotify.com/artist/0obiwW8UEpyliJ4xhXqrra"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184975,
+      "name": "Night In Shining Armor",
+      "url": "https://open.spotify.com/track/78p52vAnejctvHlyB2mLiV"
+    },
+    {
+      "album": {
         "name": "Night Lights",
         "url": "https://open.spotify.com/album/0dKYIBiFsEftQiLahvzDkh"
       },
@@ -39050,6 +39162,24 @@
       "duration_ms": 200613,
       "name": "Old Me",
       "url": "https://open.spotify.com/track/3JNTPEUBM1GWuO354YVCeq"
+    },
+    {
+      "album": {
+        "name": "Old Me Knew Me",
+        "url": "https://open.spotify.com/album/6CvUcmJydolIqcKcZNtPPo"
+      },
+      "artists": [
+        {
+          "name": "Randall King",
+          "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155013,
+      "name": "Old Me Knew Me",
+      "url": "https://open.spotify.com/track/574ljHKjW9a16EiP6301Ml"
     },
     {
       "album": {
@@ -41279,6 +41409,24 @@
     },
     {
       "album": {
+        "name": "In The Feeling (Deluxe)",
+        "url": "https://open.spotify.com/album/5TPWHD9a20t0eVW4RYrCME"
+      },
+      "artists": [
+        {
+          "name": "Owen Riegling",
+          "url": "https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213005,
+      "name": "Place And Space In Time",
+      "url": "https://open.spotify.com/track/1gR8iPbYTp8Gzpa7ScMALI"
+    },
+    {
+      "album": {
         "name": "Platonic - EP",
         "url": "https://open.spotify.com/album/5PTYUWCgYe6GlmctKST07R"
       },
@@ -43297,6 +43445,24 @@
     },
     {
       "album": {
+        "name": "Roadkill",
+        "url": "https://open.spotify.com/album/4rgfMvtAGXXjiANcJB2Yro"
+      },
+      "artists": [
+        {
+          "name": "Avery Anna",
+          "url": "https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190398,
+      "name": "Roadkill",
+      "url": "https://open.spotify.com/track/1rHJSlIhMASkMdVmXmTuQI"
+    },
+    {
+      "album": {
         "name": "Roads That Go Nowhere",
         "url": "https://open.spotify.com/album/63yxXLeDSqWIehJZNC3n6N"
       },
@@ -43562,7 +43728,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 198759,
       "name": "Ruin A Good Thing",
       "url": "https://open.spotify.com/track/6koiEgvhQ4CyHXfYz9tIv4"
@@ -47208,7 +47374,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 184213,
       "name": "Somethin With You",
       "url": "https://open.spotify.com/track/4uJ9413LfnHjV6eT3QytXC"
@@ -50336,7 +50502,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 203933,
       "name": "Take You Down With Me",
       "url": "https://open.spotify.com/track/6UFZedxBM4L7kP6wUdCAyd"
@@ -50595,6 +50761,24 @@
     },
     {
       "album": {
+        "name": "Tell By Now",
+        "url": "https://open.spotify.com/album/5oKOibgo73GCh3VlOjy7cw"
+      },
+      "artists": [
+        {
+          "name": "Kameron Marlowe",
+          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226693,
+      "name": "Tell By Now",
+      "url": "https://open.spotify.com/track/2w0OKrLtcYiNnlWTyclS2c"
+    },
+    {
+      "album": {
         "name": "Love Talking",
         "url": "https://open.spotify.com/album/0Wt3shUb59XT3O7on9mOjs"
       },
@@ -50714,7 +50898,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 211204,
       "name": "Tennessee You Again",
       "url": "https://open.spotify.com/track/3ztxR9ie57wo0FnSVv4eYb"
@@ -59273,6 +59457,24 @@
     },
     {
       "album": {
+        "name": "Winter Blues",
+        "url": "https://open.spotify.com/album/0JltchoHFLeAH4BBl7uUTe"
+      },
+      "artists": [
+        {
+          "name": "Tyler Nance",
+          "url": "https://open.spotify.com/artist/38zCEnwAxIJWMCeMd9tO7z"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199223,
+      "name": "Winter Blues",
+      "url": "https://open.spotify.com/track/4j5WpXUNE7dAqv0US4Dxlh"
+    },
+    {
+      "album": {
         "name": "Wish I Could Stay",
         "url": "https://open.spotify.com/album/72BoN6dPfgi95DQ7tcctFH"
       },
@@ -61013,6 +61215,28 @@
     },
     {
       "album": {
+        "name": "YOU STILL FEEL LIKE MINE",
+        "url": "https://open.spotify.com/album/3l4tSYkzbk9VGuuIFiuUHE"
+      },
+      "artists": [
+        {
+          "name": "Adrien Nunez",
+          "url": "https://open.spotify.com/artist/6R2UojZrKYDr0RiP9jROAJ"
+        },
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206038,
+      "name": "YOU STILL FEEL LIKE MINE",
+      "url": "https://open.spotify.com/track/0p9depk6pXMSHyKT3edIsy"
+    },
+    {
+      "album": {
         "name": "SixForty1 EP",
         "url": "https://open.spotify.com/album/75meX2ju2wPhb4hhiJ6O2C"
       },
@@ -61458,6 +61682,24 @@
       "duration_ms": 171466,
       "name": "You\u2019re Breaking My Heart (Cecilia)",
       "url": "https://open.spotify.com/track/4eQ9tFefGRZ4oE9leQT4di"
+    },
+    {
+      "album": {
+        "name": "You\u2019re Making Me Nervous",
+        "url": "https://open.spotify.com/album/0P1qVvSQQNLHVru4TrH578"
+      },
+      "artists": [
+        {
+          "name": "KC Bruner",
+          "url": "https://open.spotify.com/artist/6Hn5B6LUK3ITIJPfLBxvOg"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205805,
+      "name": "You\u2019re Making Me Nervous",
+      "url": "https://open.spotify.com/track/4cd0d3vYnlzUdYSK73etBM"
     },
     {
       "album": {

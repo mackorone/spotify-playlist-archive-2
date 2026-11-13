@@ -1188,7 +1188,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 228000,
       "name": "April In Paris",
       "url": "https://open.spotify.com/track/5rdjEoAiqqsjZdQaYSaDta"
@@ -13198,6 +13198,28 @@
       "duration_ms": 195533,
       "name": "Stompin At The Savoy",
       "url": "https://open.spotify.com/track/1xUJ1mdLAysxNBtO9w3J2g"
+    },
+    {
+      "album": {
+        "name": "Brown And Roach Incorporated",
+        "url": "https://open.spotify.com/album/6Wub7N4F0jXoqt66E5j2ql"
+      },
+      "artists": [
+        {
+          "name": "Clifford Brown",
+          "url": "https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO"
+        },
+        {
+          "name": "Max Roach",
+          "url": "https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387000,
+      "name": "Stompin' At The Savoy",
+      "url": "https://open.spotify.com/track/2VaOoXFfdlrHyhORSq9H1v"
     },
     {
       "album": {

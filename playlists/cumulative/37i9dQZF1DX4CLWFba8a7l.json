@@ -1317,6 +1317,24 @@
     },
     {
       "album": {
+        "name": "Benny's Video",
+        "url": "https://open.spotify.com/album/6c3Ol8A3dtGWvo3fa9jun2"
+      },
+      "artists": [
+        {
+          "name": "Gang of Youths",
+          "url": "https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318000,
+      "name": "Benny's Video",
+      "url": "https://open.spotify.com/track/5N4sQdc3npLGzNfjg8kxlY"
+    },
+    {
+      "album": {
         "name": "REDSTAR WU & THE WORLDWIDE SCOURGE",
         "url": "https://open.spotify.com/album/0nhxoQOhijxQPzPBv6OK9V"
       },
@@ -1332,6 +1350,24 @@
       "duration_ms": 216311,
       "name": "BIG DOG",
       "url": "https://open.spotify.com/track/5SHQAQPCg74DGXaxbH9OhZ"
+    },
+    {
+      "album": {
+        "name": "big freak",
+        "url": "https://open.spotify.com/album/0i5mCnj5znjoEpElwLbLDk"
+      },
+      "artists": [
+        {
+          "name": "Middle Kids",
+          "url": "https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182899,
+      "name": "big freak",
+      "url": "https://open.spotify.com/track/0bSFRKbr6mzWv35E6SXZMy"
     },
     {
       "album": {
@@ -1762,6 +1798,24 @@
       "duration_ms": 153901,
       "name": "Bonny",
       "url": "https://open.spotify.com/track/38Af6mSvET1v7XXpE4C21S"
+    },
+    {
+      "album": {
+        "name": "Borderline",
+        "url": "https://open.spotify.com/album/5FJ5lIDtBwFnM7JudQLziA"
+      },
+      "artists": [
+        {
+          "name": "Jack River",
+          "url": "https://open.spotify.com/artist/4xrDCETyApzUQ6xzcc6QtS"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196614,
+      "name": "Borderline",
+      "url": "https://open.spotify.com/track/5Qj3cEnp9XuBFdVGmnHmZF"
     },
     {
       "album": {
@@ -3319,6 +3373,24 @@
     },
     {
       "album": {
+        "name": "Don't Know Why",
+        "url": "https://open.spotify.com/album/5ct1v8SGVoHRhnGv3bCchZ"
+      },
+      "artists": [
+        {
+          "name": "Tash Sultana",
+          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232399,
+      "name": "Don't Know Why - Single Version",
+      "url": "https://open.spotify.com/track/5w2bBOoGTAuNCRZ4uwYLDL"
+    },
+    {
+      "album": {
         "name": "Don't Let Him Say Goodbye - Demo",
         "url": "https://open.spotify.com/album/3h8zMEpUS5xqCMloCaTRuc"
       },
@@ -3554,7 +3626,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 99660,
       "name": "Eastern Rosellas - Full Band",
       "url": "https://open.spotify.com/track/44Uzl6Q8nNEsuvem75ZCPN"
@@ -3728,7 +3800,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 207138,
       "name": "Elements",
       "url": "https://open.spotify.com/track/0ezvAv1ZRfqRBtJCPfMjyJ"
@@ -6346,7 +6418,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 180281,
       "name": "I Wish",
       "url": "https://open.spotify.com/track/4nOYIkLMPJyxmZmhxsIOfk"
@@ -7828,7 +7900,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 240906,
       "name": "Love Balloon",
       "url": "https://open.spotify.com/track/4XvO443Fegm0qj3FWjNFoI"
@@ -14708,7 +14780,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 233000,
       "name": "Wishing Well",
       "url": "https://open.spotify.com/track/7iU74nTWQMKlbmVasRY6Kf"
@@ -14904,6 +14976,24 @@
       "duration_ms": 192000,
       "name": "Ya Mind",
       "url": "https://open.spotify.com/track/3RvVDaK0JZ5i0fDgOAojog"
+    },
+    {
+      "album": {
+        "name": "Year Of The Snake",
+        "url": "https://open.spotify.com/album/6lcmqmRxudAKcMLdMEg1Oj"
+      },
+      "artists": [
+        {
+          "name": "Nick Ward",
+          "url": "https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239072,
+      "name": "Year Of The Snake",
+      "url": "https://open.spotify.com/track/0YLdCs1jfvDhJFe9cw9eNJ"
     },
     {
       "album": {

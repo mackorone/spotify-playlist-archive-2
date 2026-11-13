@@ -1,12 +1,12 @@
 {
   "description": "This is A Boogie Wit da Hoodie. The essential tracks, all in one playlist.",
-  "num_followers": 204625,
+  "num_followers": 204666,
   "original_name": "This Is A Boogie Wit da Hoodie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avENAAAAAAB/8h9GBN9FFeZsm4wkyHqX",
+  "snapshot_id": "avOwAAAAAABy2FzC8/Tenmh0L4IzrZCC",
   "tracks": [
     {
       "added_at": null,
@@ -579,6 +579,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "TBA",
+        "url": "https://open.spotify.com/album/2apbRBAafIKmcWwESmLHJi"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 163655,
+      "name": "Ransom",
+      "url": "https://open.spotify.com/track/14RRHdmfjGPhuWBhkl4Ne4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "B4 The Storm (Expanded Edition)",
         "url": "https://open.spotify.com/album/4fszOxJ7RWHqPIXOrC2iKY"
       },
@@ -631,26 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wait (feat. A Boogie Wit da Hoodie)",
-        "url": "https://open.spotify.com/album/5hDpkIt9yuU2MYDqzdxBDE"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        },
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 190476,
-      "name": "Wait (feat. A Boogie Wit da Hoodie)",
-      "url": "https://open.spotify.com/track/0SvxydoxEEkXt9aMAqTfpB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Day69: Graduation Day",
         "url": "https://open.spotify.com/album/5RPGNLQhSag601FMPT2VW6"
       },
@@ -675,18 +671,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "TBA",
-        "url": "https://open.spotify.com/album/2apbRBAafIKmcWwESmLHJi"
+        "name": "Wait (feat. A Boogie Wit da Hoodie)",
+        "url": "https://open.spotify.com/album/5hDpkIt9yuU2MYDqzdxBDE"
       },
       "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        },
         {
           "name": "A Boogie Wit da Hoodie",
           "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
         }
       ],
-      "duration_ms": 163655,
-      "name": "Ransom",
-      "url": "https://open.spotify.com/track/14RRHdmfjGPhuWBhkl4Ne4"
+      "duration_ms": 190476,
+      "name": "Wait (feat. A Boogie Wit da Hoodie)",
+      "url": "https://open.spotify.com/track/0SvxydoxEEkXt9aMAqTfpB"
     },
     {
       "added_at": null,
@@ -711,6 +711,26 @@
       "duration_ms": 332195,
       "name": "Young Grizzley World (feat. A Boogie Wit Da Hoodie & YNW Melly)",
       "url": "https://open.spotify.com/track/2HsSzwrvvgiYSCdsYLiJWB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TBA",
+        "url": "https://open.spotify.com/album/2apbRBAafIKmcWwESmLHJi"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "DJ SpinKing",
+          "url": "https://open.spotify.com/artist/1qSJaftSab2kTTsj7fLxvM"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Timeless (feat. DJ SPINKING)",
+      "url": "https://open.spotify.com/track/0q5DrtpnnGpOvBy5nnPMbe"
     },
     {
       "added_at": null,
@@ -759,26 +779,6 @@
       "duration_ms": 174100,
       "name": "Baguettes in the Face (feat. NAV, Playboi Carti & A Boogie Wit da Hoodie)",
       "url": "https://open.spotify.com/track/2zjGJ0dChMR0KxBZS15aqo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TBA",
-        "url": "https://open.spotify.com/album/2apbRBAafIKmcWwESmLHJi"
-      },
-      "artists": [
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        },
-        {
-          "name": "DJ SpinKing",
-          "url": "https://open.spotify.com/artist/1qSJaftSab2kTTsj7fLxvM"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Timeless (feat. DJ SPINKING)",
-      "url": "https://open.spotify.com/track/0q5DrtpnnGpOvBy5nnPMbe"
     },
     {
       "added_at": null,
@@ -859,18 +859,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Before Artistry",
-        "url": "https://open.spotify.com/album/3H9jMWGLMhckbBFWdTV0ez"
+        "name": "Catch These Vibes",
+        "url": "https://open.spotify.com/album/2sCwWLX6DJgjCACS0iEBHD"
       },
       "artists": [
+        {
+          "name": "PnB Rock",
+          "url": "https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM"
+        },
         {
           "name": "A Boogie Wit da Hoodie",
           "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
         }
       ],
-      "duration_ms": 191413,
-      "name": "Show Me Something Real",
-      "url": "https://open.spotify.com/track/3LQf1YMwVTO7owyfsVbVae"
+      "duration_ms": 210652,
+      "name": "Lovin' (feat. A Boogie wit da Hoodie)",
+      "url": "https://open.spotify.com/track/2bwN9oZIn9XXSd8RlJ4FDM"
     },
     {
       "added_at": null,
@@ -911,22 +915,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Catch These Vibes",
-        "url": "https://open.spotify.com/album/2sCwWLX6DJgjCACS0iEBHD"
+        "name": "Before Artistry",
+        "url": "https://open.spotify.com/album/3H9jMWGLMhckbBFWdTV0ez"
       },
       "artists": [
-        {
-          "name": "PnB Rock",
-          "url": "https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM"
-        },
         {
           "name": "A Boogie Wit da Hoodie",
           "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
         }
       ],
-      "duration_ms": 210652,
-      "name": "Lovin' (feat. A Boogie wit da Hoodie)",
-      "url": "https://open.spotify.com/track/2bwN9oZIn9XXSd8RlJ4FDM"
+      "duration_ms": 191413,
+      "name": "Show Me Something Real",
+      "url": "https://open.spotify.com/track/3LQf1YMwVTO7owyfsVbVae"
     },
     {
       "added_at": null,

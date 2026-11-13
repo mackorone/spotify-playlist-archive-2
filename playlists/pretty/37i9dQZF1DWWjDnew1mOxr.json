@@ -1,6 +1,6 @@
 {
   "description": "Music that means it. Cover: Jamie T",
-  "num_followers": 132481,
+  "num_followers": 132491,
   "original_name": "Proper Belters",
   "owner": {
     "name": "Spotify",
@@ -383,22 +383,6 @@
     {
       "added_at": "2026-10-23 12:49:56",
       "album": {
-        "name": "Memories",
-        "url": "https://open.spotify.com/album/5lqmvYYODVFgrFTObdKwRr"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 168733,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/2QjvcnTm5u1vWaIChGQVAY"
-    },
-    {
-      "added_at": "2026-10-23 12:49:56",
-      "album": {
         "name": "Wet Leg",
         "url": "https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 196905,
       "name": "Chaise Longue",
       "url": "https://open.spotify.com/track/0nys6GusuHnjSYLW0PYYb7"
+    },
+    {
+      "added_at": "2026-10-23 12:49:56",
+      "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/5lqmvYYODVFgrFTObdKwRr"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 168733,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/2QjvcnTm5u1vWaIChGQVAY"
     },
     {
       "added_at": "2026-10-23 12:49:56",
@@ -495,22 +495,6 @@
     {
       "added_at": "2026-10-23 12:49:56",
       "album": {
-        "name": "Romance Is A Desert",
-        "url": "https://open.spotify.com/album/5mfOMu4CWKTntFIKWhtpND"
-      },
-      "artists": [
-        {
-          "name": "Nieve Ella",
-          "url": "https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn"
-        }
-      ],
-      "duration_ms": 175891,
-      "name": "Romance Is A Desert",
-      "url": "https://open.spotify.com/track/5TST4kEA5XGYK6OvUcjCVY"
-    },
-    {
-      "added_at": "2026-10-23 12:49:56",
-      "album": {
         "name": "Fall Back",
         "url": "https://open.spotify.com/album/1TZuXKic3BlDGc8rt39H8l"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 193182,
       "name": "Goodnight",
       "url": "https://open.spotify.com/track/4mYALBEaw2EEyuxJ2PhYwG"
+    },
+    {
+      "added_at": "2026-10-23 12:49:56",
+      "album": {
+        "name": "Romance Is A Desert",
+        "url": "https://open.spotify.com/album/5mfOMu4CWKTntFIKWhtpND"
+      },
+      "artists": [
+        {
+          "name": "Nieve Ella",
+          "url": "https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn"
+        }
+      ],
+      "duration_ms": 175891,
+      "name": "Romance Is A Desert",
+      "url": "https://open.spotify.com/track/5TST4kEA5XGYK6OvUcjCVY"
     },
     {
       "added_at": "2026-10-23 12:49:56",
@@ -687,22 +687,6 @@
     {
       "added_at": "2026-10-23 12:49:56",
       "album": {
-        "name": "I Was Just A Boy",
-        "url": "https://open.spotify.com/album/4ffSTZhbeStSzbPxq5OWLj"
-      },
-      "artists": [
-        {
-          "name": "Madra Salach",
-          "url": "https://open.spotify.com/artist/4ndHOxgaVPMt9xqdNzldgp"
-        }
-      ],
-      "duration_ms": 444196,
-      "name": "I Was Just A Boy",
-      "url": "https://open.spotify.com/track/49m1P83TOxTKJYeP5aBkZb"
-    },
-    {
-      "added_at": "2026-10-23 12:49:56",
-      "album": {
         "name": "Bliss",
         "url": "https://open.spotify.com/album/3l0RUrCJPrULbRb6BDjETu"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 231394,
       "name": "Bliss",
       "url": "https://open.spotify.com/track/7LuhGbsF44TtiUkGYuZNnx"
+    },
+    {
+      "added_at": "2026-10-23 12:49:56",
+      "album": {
+        "name": "I Was Just A Boy",
+        "url": "https://open.spotify.com/album/4ffSTZhbeStSzbPxq5OWLj"
+      },
+      "artists": [
+        {
+          "name": "Madra Salach",
+          "url": "https://open.spotify.com/artist/4ndHOxgaVPMt9xqdNzldgp"
+        }
+      ],
+      "duration_ms": 444196,
+      "name": "I Was Just A Boy",
+      "url": "https://open.spotify.com/track/49m1P83TOxTKJYeP5aBkZb"
     },
     {
       "added_at": "2026-10-23 12:49:56",
@@ -915,18 +915,18 @@
     {
       "added_at": "2026-10-23 12:49:56",
       "album": {
-        "name": "Kick in the Shins",
-        "url": "https://open.spotify.com/album/2uKLlmvupV6Kx6BheOIZcA"
+        "name": "COOL",
+        "url": "https://open.spotify.com/album/6UEHHZUhGOifJ6xWBWN73Z"
       },
       "artists": [
         {
-          "name": "Radio Free Alice",
-          "url": "https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj"
+          "name": "Crawlers",
+          "url": "https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy"
         }
       ],
-      "duration_ms": 179187,
-      "name": "Kick in the Shins",
-      "url": "https://open.spotify.com/track/49HPE6994YbBkPBZ2p88HJ"
+      "duration_ms": 189534,
+      "name": "COOL",
+      "url": "https://open.spotify.com/track/7BKTCgTQvXFBdCDBtODvQc"
     },
     {
       "added_at": "2026-10-23 12:49:56",
@@ -943,22 +943,6 @@
       "duration_ms": 211119,
       "name": "3AM",
       "url": "https://open.spotify.com/track/7q6sN7NKKowCDvPHS0SaCi"
-    },
-    {
-      "added_at": "2026-10-23 12:49:56",
-      "album": {
-        "name": "COOL",
-        "url": "https://open.spotify.com/album/6UEHHZUhGOifJ6xWBWN73Z"
-      },
-      "artists": [
-        {
-          "name": "Crawlers",
-          "url": "https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy"
-        }
-      ],
-      "duration_ms": 189534,
-      "name": "COOL",
-      "url": "https://open.spotify.com/track/7BKTCgTQvXFBdCDBtODvQc"
     },
     {
       "added_at": "2026-10-23 12:49:56",
@@ -995,18 +979,18 @@
     {
       "added_at": "2026-10-23 12:49:56",
       "album": {
-        "name": "Heaven Knows You're Lonely",
-        "url": "https://open.spotify.com/album/2Y98tVyg7r3FWdbEHXpI1B"
+        "name": "Kick in the Shins",
+        "url": "https://open.spotify.com/album/2uKLlmvupV6Kx6BheOIZcA"
       },
       "artists": [
         {
-          "name": "Dylan John Thomas",
-          "url": "https://open.spotify.com/artist/3cyAuWiMIGwIeimE82NFKb"
+          "name": "Radio Free Alice",
+          "url": "https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj"
         }
       ],
-      "duration_ms": 181773,
-      "name": "Heaven Knows You're Lonely",
-      "url": "https://open.spotify.com/track/5G3Qxt22dINouyLfdfvz9e"
+      "duration_ms": 179187,
+      "name": "Kick in the Shins",
+      "url": "https://open.spotify.com/track/49HPE6994YbBkPBZ2p88HJ"
     },
     {
       "added_at": "2026-10-23 12:49:56",
@@ -1023,6 +1007,22 @@
       "duration_ms": 185572,
       "name": "Hurracane",
       "url": "https://open.spotify.com/track/1xSQFAP6pfng02tJa1jnLc"
+    },
+    {
+      "added_at": "2026-10-23 12:49:56",
+      "album": {
+        "name": "Heaven Knows You're Lonely",
+        "url": "https://open.spotify.com/album/2Y98tVyg7r3FWdbEHXpI1B"
+      },
+      "artists": [
+        {
+          "name": "Dylan John Thomas",
+          "url": "https://open.spotify.com/artist/3cyAuWiMIGwIeimE82NFKb"
+        }
+      ],
+      "duration_ms": 181773,
+      "name": "Heaven Knows You're Lonely",
+      "url": "https://open.spotify.com/track/5G3Qxt22dINouyLfdfvz9e"
     },
     {
       "added_at": "2026-10-23 12:49:56",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2026-10-23 12:49:56",
       "album": {
-        "name": "Meet Me In Love",
-        "url": "https://open.spotify.com/album/1dG3C2nPstMJcrrtvZGJyM"
-      },
-      "artists": [
-        {
-          "name": "Blossoms",
-          "url": "https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5"
-        }
-      ],
-      "duration_ms": 242248,
-      "name": "Meet Me In Love",
-      "url": "https://open.spotify.com/track/0aYpbEZJGOpG8KLLqGkT3q"
-    },
-    {
-      "added_at": "2026-10-23 12:49:56",
-      "album": {
         "name": "Fuck Me (I Didn\u2019t Know How To Say)",
         "url": "https://open.spotify.com/album/5X1CPvZLeIo8Gmw8gWssUW"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 179093,
       "name": "Dirty White",
       "url": "https://open.spotify.com/track/7cZTo3rLTEysAgfprKRnR4"
+    },
+    {
+      "added_at": "2026-10-23 12:49:56",
+      "album": {
+        "name": "Meet Me In Love",
+        "url": "https://open.spotify.com/album/1dG3C2nPstMJcrrtvZGJyM"
+      },
+      "artists": [
+        {
+          "name": "Blossoms",
+          "url": "https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5"
+        }
+      ],
+      "duration_ms": 242248,
+      "name": "Meet Me In Love",
+      "url": "https://open.spotify.com/track/0aYpbEZJGOpG8KLLqGkT3q"
     },
     {
       "added_at": "2026-10-23 12:49:56",
@@ -1299,18 +1299,18 @@
     {
       "added_at": "2026-10-23 12:49:56",
       "album": {
-        "name": "Keira Knightley",
-        "url": "https://open.spotify.com/album/6hP36kS9qD7sLDZml4OFyl"
+        "name": "Inaction",
+        "url": "https://open.spotify.com/album/2pB6NLUOEyMdybOjH0Cgl9"
       },
       "artists": [
         {
-          "name": "Basht.",
-          "url": "https://open.spotify.com/artist/0bIaFZHuLgWlw8UiE9qBAE"
+          "name": "Declan Welsh and The Decadent West",
+          "url": "https://open.spotify.com/artist/6KNqvxgfYVRSzgAE1j2UT5"
         }
       ],
-      "duration_ms": 205554,
-      "name": "Keira Knightley",
-      "url": "https://open.spotify.com/track/5nl7E1Mp7gXhizBse0fR5Y"
+      "duration_ms": 186437,
+      "name": "Inaction",
+      "url": "https://open.spotify.com/track/4rtbWvbrcoVtnSyjgMz0qm"
     },
     {
       "added_at": "2026-10-23 12:49:56",
@@ -1331,34 +1331,18 @@
     {
       "added_at": "2026-10-23 12:49:56",
       "album": {
-        "name": "Inaction",
-        "url": "https://open.spotify.com/album/2pB6NLUOEyMdybOjH0Cgl9"
+        "name": "Keira Knightley",
+        "url": "https://open.spotify.com/album/6hP36kS9qD7sLDZml4OFyl"
       },
       "artists": [
         {
-          "name": "Declan Welsh and The Decadent West",
-          "url": "https://open.spotify.com/artist/6KNqvxgfYVRSzgAE1j2UT5"
+          "name": "Basht.",
+          "url": "https://open.spotify.com/artist/0bIaFZHuLgWlw8UiE9qBAE"
         }
       ],
-      "duration_ms": 186437,
-      "name": "Inaction",
-      "url": "https://open.spotify.com/track/4rtbWvbrcoVtnSyjgMz0qm"
-    },
-    {
-      "added_at": "2026-10-23 12:49:56",
-      "album": {
-        "name": "Standing On A Pane Of Glass",
-        "url": "https://open.spotify.com/album/254x00BfO4GX5R3Tao3Dbq"
-      },
-      "artists": [
-        {
-          "name": "Nieve Ella",
-          "url": "https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn"
-        }
-      ],
-      "duration_ms": 175631,
-      "name": "Standing On A Pane Of Glass",
-      "url": "https://open.spotify.com/track/6JTbg1SEfLYcboPiGIY11Z"
+      "duration_ms": 205554,
+      "name": "Keira Knightley",
+      "url": "https://open.spotify.com/track/5nl7E1Mp7gXhizBse0fR5Y"
     },
     {
       "added_at": "2026-10-23 12:49:56",
@@ -1379,6 +1363,22 @@
     {
       "added_at": "2026-10-23 12:49:56",
       "album": {
+        "name": "Standing On A Pane Of Glass",
+        "url": "https://open.spotify.com/album/254x00BfO4GX5R3Tao3Dbq"
+      },
+      "artists": [
+        {
+          "name": "Nieve Ella",
+          "url": "https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn"
+        }
+      ],
+      "duration_ms": 175631,
+      "name": "Standing On A Pane Of Glass",
+      "url": "https://open.spotify.com/track/6JTbg1SEfLYcboPiGIY11Z"
+    },
+    {
+      "added_at": "2026-10-23 12:49:56",
+      "album": {
         "name": "Yay! Saturday",
         "url": "https://open.spotify.com/album/02OCZT8wTCERuqUzkhQfXn"
       },
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2026-10-23 12:49:56",
       "album": {
-        "name": "Vain",
-        "url": "https://open.spotify.com/album/7K3ynbeFFjIy39mj9idlQE"
-      },
-      "artists": [
-        {
-          "name": "Basht.",
-          "url": "https://open.spotify.com/artist/0bIaFZHuLgWlw8UiE9qBAE"
-        }
-      ],
-      "duration_ms": 156106,
-      "name": "Vain",
-      "url": "https://open.spotify.com/track/6gmLt2fSHmI04GFp3dcBOQ"
-    },
-    {
-      "added_at": "2026-10-23 12:49:56",
-      "album": {
         "name": "Tell It Me Straight",
         "url": "https://open.spotify.com/album/3QnHN82D5eZz77Lt2QWMSm"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 196777,
       "name": "Tell It Me Straight",
       "url": "https://open.spotify.com/track/2PkNbKqot8WMuqDwEssK6p"
+    },
+    {
+      "added_at": "2026-10-23 12:49:56",
+      "album": {
+        "name": "Vain",
+        "url": "https://open.spotify.com/album/7K3ynbeFFjIy39mj9idlQE"
+      },
+      "artists": [
+        {
+          "name": "Basht.",
+          "url": "https://open.spotify.com/artist/0bIaFZHuLgWlw8UiE9qBAE"
+        }
+      ],
+      "duration_ms": 156106,
+      "name": "Vain",
+      "url": "https://open.spotify.com/track/6gmLt2fSHmI04GFp3dcBOQ"
     },
     {
       "added_at": "2026-10-23 12:49:56",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2026-10-23 12:49:56",
       "album": {
-        "name": "It Goes On",
-        "url": "https://open.spotify.com/album/3KA5QA2o7yMkCAbMQNq0oL"
-      },
-      "artists": [
-        {
-          "name": "Westside Cowboy",
-          "url": "https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2"
-        }
-      ],
-      "duration_ms": 238563,
-      "name": "Worried Age",
-      "url": "https://open.spotify.com/track/3wlhh0YM7QZncZezRwEOh2"
-    },
-    {
-      "added_at": "2026-10-23 12:49:56",
-      "album": {
         "name": "Cannonball",
         "url": "https://open.spotify.com/album/1yN1NPr6d4TvVJyUyuMHpK"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 173987,
       "name": "Canyons",
       "url": "https://open.spotify.com/track/7cTEXdnW5DhRWtB5BAsVoP"
+    },
+    {
+      "added_at": "2026-10-23 12:49:56",
+      "album": {
+        "name": "It Goes On",
+        "url": "https://open.spotify.com/album/3KA5QA2o7yMkCAbMQNq0oL"
+      },
+      "artists": [
+        {
+          "name": "Westside Cowboy",
+          "url": "https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2"
+        }
+      ],
+      "duration_ms": 238563,
+      "name": "Worried Age",
+      "url": "https://open.spotify.com/track/3wlhh0YM7QZncZezRwEOh2"
     },
     {
       "added_at": "2026-10-23 12:49:56",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2026-10-23 12:49:56",
       "album": {
-        "name": "In Motion",
-        "url": "https://open.spotify.com/album/0A9yLCxgbRcInKCj6p1gW1"
-      },
-      "artists": [
-        {
-          "name": "The Snuts",
-          "url": "https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo"
-        }
-      ],
-      "duration_ms": 195453,
-      "name": "In Motion",
-      "url": "https://open.spotify.com/track/2D7XbB8lwQDil7ot7UG5f0"
-    },
-    {
-      "added_at": "2026-10-23 12:49:56",
-      "album": {
         "name": "Get Away from the Feeling",
         "url": "https://open.spotify.com/album/1k5fYWqCnKmTd8KQlez9TC"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 230994,
       "name": "You Change with the Seasons",
       "url": "https://open.spotify.com/track/0nAb06osEKEOyKJs0KBT4m"
+    },
+    {
+      "added_at": "2026-10-23 12:49:56",
+      "album": {
+        "name": "In Motion",
+        "url": "https://open.spotify.com/album/0A9yLCxgbRcInKCj6p1gW1"
+      },
+      "artists": [
+        {
+          "name": "The Snuts",
+          "url": "https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo"
+        }
+      ],
+      "duration_ms": 195453,
+      "name": "In Motion",
+      "url": "https://open.spotify.com/track/2D7XbB8lwQDil7ot7UG5f0"
     },
     {
       "added_at": "2026-10-23 12:49:56",
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2026-10-23 12:49:56",
       "album": {
-        "name": "Wallow",
-        "url": "https://open.spotify.com/album/2gEnznMJS3NsZHxrlf55Rb"
+        "name": "Vice Versa",
+        "url": "https://open.spotify.com/album/5KbsOhirBRc37NY9v3NATC"
       },
       "artists": [
         {
-          "name": "the north",
-          "url": "https://open.spotify.com/artist/2DOGRYfLhyYwjyBNeYIM6v"
+          "name": "The Lathums",
+          "url": "https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg"
         }
       ],
-      "duration_ms": 189513,
-      "name": "Wallow",
-      "url": "https://open.spotify.com/track/6OFv5yKa6PTY44tSvvKePY"
+      "duration_ms": 163687,
+      "name": "Vice Versa",
+      "url": "https://open.spotify.com/track/0pOh1U2tIdIHvMDFZXNNp1"
     }
   ],
   "unique_name": "Proper Belters",

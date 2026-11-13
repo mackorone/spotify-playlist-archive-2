@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaIrEwuQ3hyy.md) - [plain]
 
 > lass mal den herbst romantisieren
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,109,845 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,109,965 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaIrEwuQ3hyy.md) - [plain]
 | 58 | [All Again](https://open.spotify.com/track/60DdAwooDzeUf68mZB6d5b) | [Wallners](https://open.spotify.com/artist/3EdHRW9KganBlpKU12OQos) | [Prolog I](https://open.spotify.com/album/1T4yqQcf6jzCEt8IX1dF1v) | 4:18 |
 | 59 | [Ride It Out](https://open.spotify.com/track/02ha48YfyAgAOrg50ZcDNh) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Ride It Out](https://open.spotify.com/album/6vMuk0DhZDM1wClWe6ZjIA) | 3:29 |
 | 60 | [Red Moon](https://open.spotify.com/track/44tb4TdFVliafU17EQg28J) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Red Moon](https://open.spotify.com/album/1ThA4wB67vZ6r540BIRbAa) | 3:32 |
-| 61 | [Tall Pines](https://open.spotify.com/track/2VQ5Zw5bDevO8iRx1EQ2gr) | [Ed Prosek](https://open.spotify.com/artist/6DchmKCVOKK707FCrLFFDW), [Portair](https://open.spotify.com/artist/5eNDu0xRakAeO0Za8pRIuG), [Driftwood Choir](https://open.spotify.com/artist/7igkSEzzo4gyA5Bsah0ZdF) | [Tall Pines](https://open.spotify.com/album/7nd1bPBc68WdwJY5WkoLjX) | 3:14 |
-| 62 | [Rehab \- Spotify Singles](https://open.spotify.com/track/2zohPykSNrLEahqVi3gKfu) | [badmómzjay](https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h) | [Rehab \- Spotify Singles](https://open.spotify.com/album/5ryoNuIzvgmHGm1mswYtq2) | 4:22 |
+| 61 | [Rehab \- Spotify Singles](https://open.spotify.com/track/2zohPykSNrLEahqVi3gKfu) | [badmómzjay](https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h) | [Rehab \- Spotify Singles](https://open.spotify.com/album/5ryoNuIzvgmHGm1mswYtq2) | 4:22 |
+| 62 | [Tall Pines](https://open.spotify.com/track/2VQ5Zw5bDevO8iRx1EQ2gr) | [Ed Prosek](https://open.spotify.com/artist/6DchmKCVOKK707FCrLFFDW), [Portair](https://open.spotify.com/artist/5eNDu0xRakAeO0Za8pRIuG), [Driftwood Choir](https://open.spotify.com/artist/7igkSEzzo4gyA5Bsah0ZdF) | [Tall Pines](https://open.spotify.com/album/7nd1bPBc68WdwJY5WkoLjX) | 3:14 |
 | 63 | [Pause](https://open.spotify.com/track/6IM2LNtEfICxZrLrL8QKQX) | [Lilli](https://open.spotify.com/artist/0EdqMUSITvHwlyAc5SwPcK) | [Pause](https://open.spotify.com/album/74mhbiFIWl58S3erMjR3GP) | 2:23 |
 | 64 | [Summer Nights](https://open.spotify.com/track/01c7BY8nt9MEgaVdvRCely) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Summer Nights](https://open.spotify.com/album/5AMHlJNSFH1czaWSiTVxMZ) | 3:40 |
 | 65 | [Feeling Fine](https://open.spotify.com/track/7rL903PspMN1lJBeFI7OKF) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Feeling Fine](https://open.spotify.com/album/5QVuQVJgf2ibf26Vc24lTx) | 2:48 |
@@ -82,9 +82,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaIrEwuQ3hyy.md) - [plain]
 | 72 | [eat some pasta](https://open.spotify.com/track/3s6zhTUjtgbqlWR89Em1DR) | [Maël & Jonas](https://open.spotify.com/artist/1JIyU8QP1uefijZtptLeTp) | [eat some pasta](https://open.spotify.com/album/2sPuR1EOOWzQ4c6xsMR0OQ) | 2:21 |
 | 73 | [Tell Me](https://open.spotify.com/track/1oKgrBYuFR7zq5k80OiwEe) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Tell Me](https://open.spotify.com/album/1bEGUR0TXyAEETEGIuRw0S) | 3:26 |
 | 74 | [Deep End](https://open.spotify.com/track/3DXEbjIftmPeBj638CxyJD) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Deep End](https://open.spotify.com/album/4nbcHRQuErLlToxQWa9eRc) | 2:51 |
-| 75 | [light up](https://open.spotify.com/track/5873aXgitStLQwgQBRVJAK) | [Amistat](https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU) | [light up](https://open.spotify.com/album/624OAhMdNm67bAzeEoQCsS) | 3:35 |
-| 76 | [Know the Night](https://open.spotify.com/track/0hfjholWfyL1cxsvjwkzM8) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Know the Night](https://open.spotify.com/album/1rKrDA2rrti4WOKjsF4XWm) | 3:10 |
-| 77 | [1000 Tage](https://open.spotify.com/track/5No65rZdw7efFpH5Ax6F6Z) | [yung pepp](https://open.spotify.com/artist/60NJxZ8Au9I6O75u7suayR) | [1000 Tage](https://open.spotify.com/album/5TeTkaORghKxRZob0qxBqD) | 2:00 |
+| 75 | [Know the Night](https://open.spotify.com/track/0hfjholWfyL1cxsvjwkzM8) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Know the Night](https://open.spotify.com/album/1rKrDA2rrti4WOKjsF4XWm) | 3:10 |
+| 76 | [1000 Tage](https://open.spotify.com/track/5No65rZdw7efFpH5Ax6F6Z) | [yung pepp](https://open.spotify.com/artist/60NJxZ8Au9I6O75u7suayR) | [1000 Tage](https://open.spotify.com/album/5TeTkaORghKxRZob0qxBqD) | 2:00 |
+| 77 | [light up](https://open.spotify.com/track/5873aXgitStLQwgQBRVJAK) | [Amistat](https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU) | [light up](https://open.spotify.com/album/624OAhMdNm67bAzeEoQCsS) | 3:35 |
 | 78 | [Lonely Island](https://open.spotify.com/track/2yGiQ4RlVLczAorOE6vmTl) | [STANOVSKY](https://open.spotify.com/artist/4GR8jECs0wPPXOaF1sfYmP), [Rory J Williams](https://open.spotify.com/artist/6WquekDmEAwrJWkV1V6ZD5) | [Lonely Island](https://open.spotify.com/album/0csQ5xD4LaQ7Zw2qOWis6L) | 2:53 |
 | 79 | [Irish Eyes \- Cover](https://open.spotify.com/track/7f22CM18praOPpgvbiMAgY) | [Isabel Dumaa](https://open.spotify.com/artist/31R2Jd36gfwflNuGkqovpv) | [Irish Eyes](https://open.spotify.com/album/6wNwp3iSMstG1TjpTQLbAq) | 2:33 |
 | 80 | [Bisschen wach](https://open.spotify.com/track/6boCFRIpvYlbv5HnTdgbyA) | [Dominik Hartz](https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI), [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [Am Ende des Tages](https://open.spotify.com/album/52JSitmvGlUJFlJMVidPNL) | 3:15 |
@@ -96,17 +96,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaIrEwuQ3hyy.md) - [plain]
 | 86 | [Easy](https://open.spotify.com/track/4LIRPQO4jzel3t4aN5J8PN) | [Wallners](https://open.spotify.com/artist/3EdHRW9KganBlpKU12OQos) | [Easy](https://open.spotify.com/album/24j6IoQ8Junn1mIXfgijU4) | 4:27 |
 | 87 | [Two Thirds](https://open.spotify.com/track/4iwlTULepVCvBDYDGuibt1) | [Childe](https://open.spotify.com/artist/4KCn6A86ivcp0kJcOOi2sq) | [Two Thirds](https://open.spotify.com/album/2dnS3oCYGlApopA4gYbNNL) | 3:26 |
 | 88 | [Iman](https://open.spotify.com/track/4cQcn6Zh5mHglFWIXnckqi) | [Yuuf](https://open.spotify.com/artist/3VfdXeAhqukWy1TTimSA7v) | [Iman](https://open.spotify.com/album/5NbAz6PiABkXYYOpaTIEQN) | 4:00 |
-| 89 | [Claw Marks](https://open.spotify.com/track/6QsXgv4TR4luZN0omMH5Di) | [panicbaby](https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA) | [Claw Marks](https://open.spotify.com/album/554SArB7F5OY3NkquLJ06I) | 2:35 |
+| 89 | [mein nächstes leben](https://open.spotify.com/track/6atEiNS1RXIIEfWYntlE7T) | [cami](https://open.spotify.com/artist/64bv5tnrfDXWI1McC1vitt) | [mein nächstes leben](https://open.spotify.com/album/038Xy3LCSMYbCQcITgjSaa) | 3:02 |
 | 90 | [Weit weg](https://open.spotify.com/track/0xpxqgwLsMIJFQQKPGXclD) | [Ivo Martin](https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg) | [Weit weg](https://open.spotify.com/album/6DQJr9joGBiomIdsoLRevv) | 2:41 |
-| 91 | [mein nächstes leben](https://open.spotify.com/track/6atEiNS1RXIIEfWYntlE7T) | [cami](https://open.spotify.com/artist/64bv5tnrfDXWI1McC1vitt) | [mein nächstes leben](https://open.spotify.com/album/038Xy3LCSMYbCQcITgjSaa) | 3:02 |
-| 92 | [WAVES](https://open.spotify.com/track/1Ew3ZHUTSRNf1W3LW8gkB9) | [zeck](https://open.spotify.com/artist/2Brk4G18TPI8kgR3fG8agO) | [LIFE IS WEIRD SOMETIMES](https://open.spotify.com/album/46zget8f2833wlpXGK74vN) | 3:41 |
-| 93 | [One in a Million](https://open.spotify.com/track/1LjBIsVA2ZXWPRfAngNXEQ) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [One in a Million](https://open.spotify.com/album/3uHNY879SWHenRphH1Zpbd) | 4:17 |
-| 94 | [Barefoot](https://open.spotify.com/track/2v3wP0540bmkM7CFEqtqYy) | [Jacob Leo](https://open.spotify.com/artist/2odk6veMu6QLbd8cqJwELA) | [Barefoot](https://open.spotify.com/album/03XY58JRHWAShkdO6L4ic7) | 2:36 |
+| 91 | [Claw Marks](https://open.spotify.com/track/6QsXgv4TR4luZN0omMH5Di) | [panicbaby](https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA) | [Claw Marks](https://open.spotify.com/album/554SArB7F5OY3NkquLJ06I) | 2:35 |
+| 92 | [One in a Million](https://open.spotify.com/track/1LjBIsVA2ZXWPRfAngNXEQ) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [One in a Million](https://open.spotify.com/album/3uHNY879SWHenRphH1Zpbd) | 4:17 |
+| 93 | [Barefoot](https://open.spotify.com/track/2v3wP0540bmkM7CFEqtqYy) | [Jacob Leo](https://open.spotify.com/artist/2odk6veMu6QLbd8cqJwELA) | [Barefoot](https://open.spotify.com/album/03XY58JRHWAShkdO6L4ic7) | 2:36 |
+| 94 | [WAVES](https://open.spotify.com/track/1Ew3ZHUTSRNf1W3LW8gkB9) | [zeck](https://open.spotify.com/artist/2Brk4G18TPI8kgR3fG8agO) | [LIFE IS WEIRD SOMETIMES](https://open.spotify.com/album/46zget8f2833wlpXGK74vN) | 3:41 |
 | 95 | [WORRY.](https://open.spotify.com/track/4tb0xoNHvIhUsrx7GFcxzf) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [WORRY.](https://open.spotify.com/album/687CLrjAQcz01r18Eo9bXn) | 4:03 |
 | 96 | [I Was Stone](https://open.spotify.com/track/6NLpXfFn71uETTLM8aqjeB) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [I Was Stone](https://open.spotify.com/album/5suahUnFpSYBNSXncdV1fg) | 3:46 |
-| 97 | [seven days a week](https://open.spotify.com/track/4UzCI5OvAhczflItEGqfyU) | [Amistat](https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU) | [everything in between](https://open.spotify.com/album/5TBc9Vjb515B9nTLCuMuJO) | 3:33 |
-| 98 | [Only Love](https://open.spotify.com/track/7GSDVuT5iV0tSEvsnTmRtT) | [JONAH](https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4) | [Damn the Wild Air, Pt\. 01](https://open.spotify.com/album/2vi9ZLXr7t48sW4c07GMwk) | 3:27 |
+| 97 | [Only Love](https://open.spotify.com/track/7GSDVuT5iV0tSEvsnTmRtT) | [JONAH](https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4) | [Damn the Wild Air, Pt\. 01](https://open.spotify.com/album/2vi9ZLXr7t48sW4c07GMwk) | 3:27 |
+| 98 | [seven days a week](https://open.spotify.com/track/4UzCI5OvAhczflItEGqfyU) | [Amistat](https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU) | [everything in between](https://open.spotify.com/album/5TBc9Vjb515B9nTLCuMuJO) | 3:33 |
 | 99 | [Slow It Down](https://open.spotify.com/track/3BCA5KOKE7RRcrx0tK7kDK) | [BILBAO](https://open.spotify.com/artist/6MJ5mobLenB7bCPKPIRoRH), [Thala](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU) | [Slow It Down](https://open.spotify.com/album/5xeGFga33wKgIuTcef2wKn) | 3:38 |
-| 100 | [Bigger Picture](https://open.spotify.com/track/0iFdtqVlV5piDnq0KUloCB) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Bigger Picture](https://open.spotify.com/album/7q4bQccI2jQ32LwE2ydM57) | 3:05 |
+| 100 | [Make me think of you](https://open.spotify.com/track/2VAjQDNPTToTFUVrjFy7Mw) | [ELIS NOA](https://open.spotify.com/artist/6jLDzjrANnkIEhgdEL8gZf) | [Make me think of you](https://open.spotify.com/album/1LCyjbwY18GGpobrSlv8ZJ) | 3:19 |
 
 Snapshot ID: `AAAAAA96X5M8mCcDG3kJXAhG1Z38/pg5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 
 > merry christmas everyone
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,079,496 likes - 102 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,079,405 likes - 102 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 | 16 | [My Vice Is Misery](https://open.spotify.com/track/4JM95LjK8U9SAxkYnH6HXn) | [Presley Regier](https://open.spotify.com/artist/7AAHfakMQan4p04ozZhhwc) | [Sensitive to the room, sensitive to the sound](https://open.spotify.com/album/0M4FDYpeIBg0PUSOBuld8s) | 3:57 |
 | 17 | [Hands On Me \(from the Netflix Series "Nobody Wants This" Season 3\)](https://open.spotify.com/track/3qzc3xyTxHCvsT55a7xPGw) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Hands On Me \(from the Netflix Series "Nobody Wants This" Season 3\)](https://open.spotify.com/album/2PdHMHluDWLNCyG5GUpeoT) | 3:13 |
 | 18 | [washing skin](https://open.spotify.com/track/2nyJyP0eAg24k8JFGizPIJ) | [Alyssa Grace](https://open.spotify.com/artist/4eZer1QvRM8Pna0rLToV1K) | [washing skin](https://open.spotify.com/album/4Oh38cK8SNf6dHaoWT1oe6) | 3:20 |
-| 19 | [CABBY](https://open.spotify.com/track/22XqO0FrbFk2qJNlvCYU22) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Emma Ogier](https://open.spotify.com/artist/7lVBH2nQlHcpcU4RiY7izm), [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [HOW TO QUIT SMOKING](https://open.spotify.com/album/4JxUxYheA8Xs2dvEZTWsyg) | 3:11 |
+| 19 | [Everything On Fire](https://open.spotify.com/track/0UQqqjAgaF55dma8PxwMXp) | [Maia Toakley](https://open.spotify.com/artist/1B1J5gTh5qjRAykIQMX8Ka) | [Everything On Fire](https://open.spotify.com/album/3X4JQKQqriikASbUet3yBN) | 3:48 |
 | 20 | [Unloveu](https://open.spotify.com/track/51jUUdOdGqf0VeGtFOTbRe) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Unloveu](https://open.spotify.com/album/58745aGSmbG4rHAxveiJww) | 3:52 |
 | 21 | [He's My Man](https://open.spotify.com/track/62rwEl9PfnDqrjqNjApOwV) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [He's My Man](https://open.spotify.com/album/04HqGBwmXnxvxHHTEms7cR) | 3:52 |
 | 22 | [NOBODY'S HERO](https://open.spotify.com/track/4xK0It4Kdk80QGGVSW5ec9) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [NOBODY'S HERO](https://open.spotify.com/album/3eYPVRi6W4fG3JyzAcHnAA) | 3:19 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 | 101 | [House Tour](https://open.spotify.com/track/25jgQBxuUkGDdCG1WGKKN9) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 2:49 |
 | 102 | [Fame is a Gun](https://open.spotify.com/track/1c2AFg2WpURtpsOTMr6ZBX) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Fame is a Gun](https://open.spotify.com/album/3SbgH2k3eJ6dPqAhbTBFzm) | 3:03 |
 
-Snapshot ID: `AAAAAOYY/5XqOymAPLA382+0crdAnlTn`
+Snapshot ID: `AAAAALNQ5JlSXlaLbLCsvzWwKmnB30fD`

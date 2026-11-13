@@ -1,6 +1,6 @@
 {
   "description": "Really lovely songs.",
-  "num_followers": 233973,
+  "num_followers": 233969,
   "original_name": "The Lovely Little Playlist",
   "owner": {
     "name": "Spotify",
@@ -515,22 +515,6 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "Morning Phase",
-        "url": "https://open.spotify.com/album/2Qx7dgA5VjX8JDQaXVxzHu"
-      },
-      "artists": [
-        {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
-        }
-      ],
-      "duration_ms": 271106,
-      "name": "Heart Is A Drum",
-      "url": "https://open.spotify.com/track/573nT62vtbezncIwCfxIm7"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
         "name": "Seventeen Going Under (Acoustic)",
         "url": "https://open.spotify.com/album/1fjmi1ythcL9bx9rhaGEYy"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 270840,
       "name": "Seventeen Going Under - Acoustic",
       "url": "https://open.spotify.com/track/1vXmhTcKkv7Kck2gBap1fz"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
+        "name": "Morning Phase",
+        "url": "https://open.spotify.com/album/2Qx7dgA5VjX8JDQaXVxzHu"
+      },
+      "artists": [
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "duration_ms": 271106,
+      "name": "Heart Is A Drum",
+      "url": "https://open.spotify.com/track/573nT62vtbezncIwCfxIm7"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -949,22 +949,6 @@
       "url": "https://open.spotify.com/track/38SpxensPT9J0iNbMmQIjd"
     },
     {
-      "added_at": "2026-08-14 13:22:54",
-      "album": {
-        "name": "End of the World",
-        "url": "https://open.spotify.com/album/5omifXCLUvR9btSGKw90En"
-      },
-      "artists": [
-        {
-          "name": "Susannah Joffe",
-          "url": "https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw"
-        }
-      ],
-      "duration_ms": 156640,
-      "name": "End of the World",
-      "url": "https://open.spotify.com/track/1LEtUoL1OTp6s7UDC1qlbP"
-    },
-    {
       "added_at": "2026-06-18 23:01:00",
       "album": {
         "name": "can we just forget?",
@@ -995,6 +979,22 @@
       "duration_ms": 290840,
       "name": "Honey Water",
       "url": "https://open.spotify.com/track/5JVEWVNVv8OYILCkHZkwvK"
+    },
+    {
+      "added_at": "2026-08-14 13:22:54",
+      "album": {
+        "name": "End of the World",
+        "url": "https://open.spotify.com/album/5omifXCLUvR9btSGKw90En"
+      },
+      "artists": [
+        {
+          "name": "Susannah Joffe",
+          "url": "https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw"
+        }
+      ],
+      "duration_ms": 156640,
+      "name": "End of the World",
+      "url": "https://open.spotify.com/track/1LEtUoL1OTp6s7UDC1qlbP"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -1093,22 +1093,6 @@
       "url": "https://open.spotify.com/track/4tD2yU85sj8pjWPbsA3KDE"
     },
     {
-      "added_at": "2026-08-14 13:22:54",
-      "album": {
-        "name": "If I Could",
-        "url": "https://open.spotify.com/album/10jnGJSwHlbX6wkUb4v0Bb"
-      },
-      "artists": [
-        {
-          "name": "Freak Slug",
-          "url": "https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS"
-        }
-      ],
-      "duration_ms": 231716,
-      "name": "If I Could",
-      "url": "https://open.spotify.com/track/7t3sr53O7D8sPYKrU3ALh8"
-    },
-    {
       "added_at": "2026-06-18 23:01:00",
       "album": {
         "name": "Me and My Friends",
@@ -1123,6 +1107,22 @@
       "duration_ms": 200000,
       "name": "Me and My Friends",
       "url": "https://open.spotify.com/track/7Bo8vjwc0qfdHeIixhHW6X"
+    },
+    {
+      "added_at": "2026-08-14 13:22:54",
+      "album": {
+        "name": "If I Could",
+        "url": "https://open.spotify.com/album/10jnGJSwHlbX6wkUb4v0Bb"
+      },
+      "artists": [
+        {
+          "name": "Freak Slug",
+          "url": "https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS"
+        }
+      ],
+      "duration_ms": 231716,
+      "name": "If I Could",
+      "url": "https://open.spotify.com/track/7t3sr53O7D8sPYKrU3ALh8"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
+        "name": "Today",
+        "url": "https://open.spotify.com/album/5a14jF7aMhiVPUzV2IVavH"
+      },
+      "artists": [
+        {
+          "name": "Far Caspian",
+          "url": "https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4"
+        }
+      ],
+      "duration_ms": 166413,
+      "name": "Today",
+      "url": "https://open.spotify.com/track/7KVGTie5N8KjstWEHRS5qU"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
         "name": "2much2soon",
         "url": "https://open.spotify.com/album/6lelFbCH0ZJ80em8wganZo"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 181920,
       "name": "2much2soon",
       "url": "https://open.spotify.com/track/6siBdjNAiPG4V4pZMFNvac"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
-        "name": "Today",
-        "url": "https://open.spotify.com/album/5a14jF7aMhiVPUzV2IVavH"
-      },
-      "artists": [
-        {
-          "name": "Far Caspian",
-          "url": "https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4"
-        }
-      ],
-      "duration_ms": 166413,
-      "name": "Today",
-      "url": "https://open.spotify.com/track/7KVGTie5N8KjstWEHRS5qU"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "I Don't Think of Kissing You",
-        "url": "https://open.spotify.com/album/70msBWtO2LfuDNZAFf5Uae"
-      },
-      "artists": [
-        {
-          "name": "Katie Gregson-MacLeod",
-          "url": "https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF"
-        }
-      ],
-      "duration_ms": 169124,
-      "name": "I Don't Think of Kissing You",
-      "url": "https://open.spotify.com/track/5tpemQqVsJXeZ5TWusQ3ar"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
         "name": "So Unimportant",
         "url": "https://open.spotify.com/album/59yUecNF0BinJypi9HTQTq"
       },
@@ -1347,6 +1331,22 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
+        "name": "I Don't Think of Kissing You",
+        "url": "https://open.spotify.com/album/70msBWtO2LfuDNZAFf5Uae"
+      },
+      "artists": [
+        {
+          "name": "Katie Gregson-MacLeod",
+          "url": "https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF"
+        }
+      ],
+      "duration_ms": 169124,
+      "name": "I Don't Think of Kissing You",
+      "url": "https://open.spotify.com/track/5tpemQqVsJXeZ5TWusQ3ar"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
         "name": "Citadel Band",
         "url": "https://open.spotify.com/album/7mMwcMgwE98WjsxiCcCiQH"
       },
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "Cinnamon",
-        "url": "https://open.spotify.com/album/4BPGLP2hhaCWdkEJGqZ6sY"
-      },
-      "artists": [
-        {
-          "name": "Jea Mira",
-          "url": "https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3"
-        }
-      ],
-      "duration_ms": 190842,
-      "name": "Cinnamon",
-      "url": "https://open.spotify.com/track/7CxcxeNMisYRbiXULp7L0L"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
         "name": "Lost In A Rush Of Emptiness",
         "url": "https://open.spotify.com/album/3EvUVXwaGNkeqinGICcGQU"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 282529,
       "name": "Everything At Once",
       "url": "https://open.spotify.com/track/1DjdeAcAT1ztBJBxI9VUFo"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
+        "name": "Cinnamon",
+        "url": "https://open.spotify.com/album/4BPGLP2hhaCWdkEJGqZ6sY"
+      },
+      "artists": [
+        {
+          "name": "Jea Mira",
+          "url": "https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3"
+        }
+      ],
+      "duration_ms": 190842,
+      "name": "Cinnamon",
+      "url": "https://open.spotify.com/track/7CxcxeNMisYRbiXULp7L0L"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "Crash Landing",
-        "url": "https://open.spotify.com/album/16yiIpsUTGRqStqX4tcc6y"
-      },
-      "artists": [
-        {
-          "name": "mary in the junkyard",
-          "url": "https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M"
-        }
-      ],
-      "duration_ms": 334216,
-      "name": "Crash Landing",
-      "url": "https://open.spotify.com/track/38UijG8bkv7lBoo3xoSbgA"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
         "name": "Nosebleed",
         "url": "https://open.spotify.com/album/21ra3mXDSgrc12axMIbjsn"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 206573,
       "name": "Nosebleed",
       "url": "https://open.spotify.com/track/1ARLDdTUR8FPWCW65qRTq8"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
+        "name": "Crash Landing",
+        "url": "https://open.spotify.com/album/16yiIpsUTGRqStqX4tcc6y"
+      },
+      "artists": [
+        {
+          "name": "mary in the junkyard",
+          "url": "https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M"
+        }
+      ],
+      "duration_ms": 334216,
+      "name": "Crash Landing",
+      "url": "https://open.spotify.com/track/38UijG8bkv7lBoo3xoSbgA"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -1489,22 +1489,6 @@
       "url": "https://open.spotify.com/track/6SYqfDeq72Y5KJLO3MLbEz"
     },
     {
-      "added_at": "2026-08-14 13:22:54",
-      "album": {
-        "name": "Water Under The Bridge",
-        "url": "https://open.spotify.com/album/3tQj0CwWvbhF36Abxebtua"
-      },
-      "artists": [
-        {
-          "name": "Morgan Harper-Jones",
-          "url": "https://open.spotify.com/artist/73s0o3W8ycCcK4hRjuGNrj"
-        }
-      ],
-      "duration_ms": 234374,
-      "name": "Water Under The Bridge",
-      "url": "https://open.spotify.com/track/33xcJRnmibqubn8C9pklSN"
-    },
-    {
       "added_at": "2026-06-18 23:01:00",
       "album": {
         "name": "Stay And Rest For A While",
@@ -1519,6 +1503,22 @@
       "duration_ms": 173259,
       "name": "Stay And Rest For A While",
       "url": "https://open.spotify.com/track/4tHWZg3t5LpOkdRd53gal2"
+    },
+    {
+      "added_at": "2026-08-14 13:22:54",
+      "album": {
+        "name": "Water Under The Bridge",
+        "url": "https://open.spotify.com/album/3tQj0CwWvbhF36Abxebtua"
+      },
+      "artists": [
+        {
+          "name": "Morgan Harper-Jones",
+          "url": "https://open.spotify.com/artist/73s0o3W8ycCcK4hRjuGNrj"
+        }
+      ],
+      "duration_ms": 234374,
+      "name": "Water Under The Bridge",
+      "url": "https://open.spotify.com/track/33xcJRnmibqubn8C9pklSN"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -1623,6 +1623,22 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
+        "name": "Shelter",
+        "url": "https://open.spotify.com/album/2fnADmeEO13U3Lb4PNsFo3"
+      },
+      "artists": [
+        {
+          "name": "Alice Phoebe Lou",
+          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
+        }
+      ],
+      "duration_ms": 197779,
+      "name": "Shelter",
+      "url": "https://open.spotify.com/track/0hyTH8NRRQeaFjbfoktfnc"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
         "name": "Fantasneeze (feat. Matilda Mann)",
         "url": "https://open.spotify.com/album/0yNJq0ZGlgRyfz4UBoARVn"
       },
@@ -1639,22 +1655,6 @@
       "duration_ms": 201240,
       "name": "Fantasneeze (feat. Matilda Mann)",
       "url": "https://open.spotify.com/track/4dsyiGRnIpw8Y1C5IXhKJi"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
-        "name": "Shelter",
-        "url": "https://open.spotify.com/album/2fnADmeEO13U3Lb4PNsFo3"
-      },
-      "artists": [
-        {
-          "name": "Alice Phoebe Lou",
-          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
-        }
-      ],
-      "duration_ms": 197779,
-      "name": "Shelter",
-      "url": "https://open.spotify.com/track/0hyTH8NRRQeaFjbfoktfnc"
     }
   ],
   "unique_name": "The Lovely Little Playlist",

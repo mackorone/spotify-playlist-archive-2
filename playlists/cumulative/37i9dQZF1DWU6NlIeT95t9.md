@@ -4,7 +4,7 @@
 
 > Meet the future of Pakistani music ♥️ Cover: Shareh
 
-186 songs - 10 hr 30 min
+187 songs - 10 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Bhool](https://open.spotify.com/track/1XTijOjVgekZjRXwgJ2VSE) | [Murtaza Qizilbash](https://open.spotify.com/artist/6hIXwlI4wny3zYuB6cDBBk) | [Bhool](https://open.spotify.com/album/4MIPkmbrYvZqLdzLwaQRF9) | 4:04 | 2026-04-16 |  |
 | [Bhool Nahi](https://open.spotify.com/track/7a0nFCjGdRWZUkEwDvdtSn) | [Ali Alvi](https://open.spotify.com/artist/07cs9v2qoU2I5sshqk56Fz) | [Bhool Nahi](https://open.spotify.com/album/3m6kRxCVzKzGNttpkpLY2v) | 3:04 | 2026-03-27 | 2026-10-17 |
 | [Bolo Unhein](https://open.spotify.com/track/5rmQQPdVfk4fZx99aqJeJe) | [Natasha Noorani](https://open.spotify.com/artist/1nGL9DljVpkRcayU8Wi285), [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS) | [CLUB SANDWICH](https://open.spotify.com/album/430Af0wtsNi3smXvzdvqgV) | 3:03 | 2024-11-18 | 2025-10-11 |
-| [Bulleya](https://open.spotify.com/track/6xIhjZX1ZtFIXg1IDa3DAi) | [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS), [Shae Gill](https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP) | [Bulleya](https://open.spotify.com/album/3c7tSHkLyybTCmtaNlYLSJ) | 3:41 | 2026-01-14 |  |
+| [Bulleya](https://open.spotify.com/track/6xIhjZX1ZtFIXg1IDa3DAi) | [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS), [Shae Gill](https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP) | [Bulleya](https://open.spotify.com/album/3c7tSHkLyybTCmtaNlYLSJ) | 3:41 | 2026-01-14 | 2026-11-13 |
 | [Callin](https://open.spotify.com/track/7o2TnNkehiUrXYdCVpNxkw) | [Afusic](https://open.spotify.com/artist/1pS0qiLG23HMMLFwsQALKx), [AliSoomroMusic](https://open.spotify.com/artist/2hXbxDaLthfodvgEpP6Xpm) | [Callin](https://open.spotify.com/album/2nR8xPGuxPJocyIxyicBb3) | 2:50 | 2025-07-18 |  |
 | [Chalo Door Kahin](https://open.spotify.com/track/5IvGrMBjvL25j42aIKDvZ9) | [Samar Jafri](https://open.spotify.com/artist/4UjFSd24FZluVytp1sk7qq) | [Chalo Door Kahin](https://open.spotify.com/album/65sQMiosPhNePUKN2KKlL0) | 2:38 | 2025-10-20 |  |
 | [Cham Cham](https://open.spotify.com/track/17FEA6kt7Xyjhat3Lv7LAw) | [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW), [Kumail Abbas](https://open.spotify.com/artist/5DqU9TQ8QwgZBIkTU8nd2R) | [Cham Cham](https://open.spotify.com/album/5Cn9Qx5mPJjY0PKa756LCx) | 3:46 | 2024-01-17 | 2026-03-28 |
@@ -96,6 +96,7 @@
 | [Khaab](https://open.spotify.com/track/2qUezRkddmy63nKyGNSKMq) | [Samar Jafri](https://open.spotify.com/artist/4UjFSd24FZluVytp1sk7qq) | [Khaab](https://open.spotify.com/album/3HMRLirzrznhnElAGjZnKG) | 3:34 | 2026-01-02 | 2026-01-15 |
 | [Khair](https://open.spotify.com/track/3rXGNW4iX1XcbJVx2N4qev) | [Kaifi Khalil](https://open.spotify.com/artist/1n9EM0Y4A89vuRiA93gSS9) | [Khair](https://open.spotify.com/album/1egKAuUTNnYFWXwdWWfeRg) | 2:45 | 2024-08-09 | 2025-09-18 |
 | [Khasara](https://open.spotify.com/track/1TWkdQ2k7ysSYwla66Ys6I) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [Samar Jafri](https://open.spotify.com/artist/4UjFSd24FZluVytp1sk7qq) | [Khasara](https://open.spotify.com/album/6YqbrXnmuh8lxNEFeHNOcA) | 2:40 | 2026-03-27 |  |
+| [Khata](https://open.spotify.com/track/6VOujvFOuyhQj01UqocGN8) | [Hassan Sheikh](https://open.spotify.com/artist/6rCIl3FfI0CUJQAWPO6GTc), [Zoha Waseem](https://open.spotify.com/artist/20DlRoUeIcVHGEEgYuvvZ8), [AliSoomroMusic](https://open.spotify.com/artist/2hXbxDaLthfodvgEpP6Xpm) | [Khata](https://open.spotify.com/album/6Ax0B5Jm5wkZYiumd41g5k) | 2:34 | 2026-11-13 |  |
 | [Khushnaseebi](https://open.spotify.com/track/6pnSZHW0QYr6OYd3oXLXL5) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1) | [Khushnaseebi](https://open.spotify.com/album/6UFJPoceIxfmjOMeodyGFu) | 2:35 | 2024-08-16 |  |
 | [Kids](https://open.spotify.com/track/2qTqeKMywXEsWbrdYr5OxP) | [Abdullah Siddiqui](https://open.spotify.com/artist/3PbkSdpJnYRF18jau74b7R), [Shamoon Ismail](https://open.spotify.com/artist/5bxVbtf4t5k1QPmy0XDvgv) | [Heterotopia](https://open.spotify.com/album/1npykN4Zpbo7FQR61o1oAr) | 3:49 | 2023-07-31 | 2024-07-23 |
 | [KYUN](https://open.spotify.com/track/6nw0sXQqDNCQx2IN6ZyJqX) | [Karakoram](https://open.spotify.com/artist/7iUydu6DUbUBsDDwheSlkr), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V) | [KYUN](https://open.spotify.com/album/3qh8blK64o1CqB6Q8hpNMb) | 4:06 | 2023-07-31 | 2026-04-17 |

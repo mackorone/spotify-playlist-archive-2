@@ -1,12 +1,12 @@
 {
   "description": "This is Julia Vit\u00f3ria. The essential tracks, all in one playlist.",
-  "num_followers": 22284,
+  "num_followers": 22278,
   "original_name": "This Is Julia Vit\u00f3ria",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avENAAAAAADMLO8z3CiptmVY81Uldszs",
+  "snapshot_id": "avOwAAAAAAD5W1Pf33MAuvrFDiuT0bBH",
   "tracks": [
     {
       "added_at": null,
@@ -63,26 +63,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Esperan\u00e7a (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0rwf0I8OhfjB41anIMABWO"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        },
-        {
-          "name": "Gabriel Guedes de Almeida",
-          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
-        }
-      ],
-      "duration_ms": 319866,
-      "name": "Esperan\u00e7a - Ao Vivo",
-      "url": "https://open.spotify.com/track/78cNvkjEB5SwU3xz7QyWGc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Um Refr\u00e3o Pra Sua Alma",
         "url": "https://open.spotify.com/album/4ZutxcTq9XmVHdKhGto4OI"
       },
@@ -99,6 +79,26 @@
       "duration_ms": 256023,
       "name": "Um Refr\u00e3o Pra Sua Alma",
       "url": "https://open.spotify.com/track/4wQtpt8H34SIyIvz4FG5Mx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Esperan\u00e7a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0rwf0I8OhfjB41anIMABWO"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        },
+        {
+          "name": "Gabriel Guedes de Almeida",
+          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
+        }
+      ],
+      "duration_ms": 319866,
+      "name": "Esperan\u00e7a - Ao Vivo",
+      "url": "https://open.spotify.com/track/78cNvkjEB5SwU3xz7QyWGc"
     },
     {
       "added_at": null,
@@ -807,6 +807,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Perto Eu Quero Estar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4YJCr4MpR5LE6WBMMcBT4x"
+      },
+      "artists": [
+        {
+          "name": "Thaiane Seghetto",
+          "url": "https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG"
+        },
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 252866,
+      "name": "Perto Eu Quero Estar - Ao Vivo",
+      "url": "https://open.spotify.com/track/0qcVbrMV3FW3BnKOadt3Xw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vem",
         "url": "https://open.spotify.com/album/4w9Ym45CNTgnyTNaMXsJ1w"
       },
@@ -835,26 +855,6 @@
       "duration_ms": 464210,
       "name": "Jesus, Meu Amigo, Meu Salvador (Jesus, My Savior, Jesus, My Friend) - Ao Vivo",
       "url": "https://open.spotify.com/track/7B9wlQrha0ZbHORHFDOXaF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Perto Eu Quero Estar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4YJCr4MpR5LE6WBMMcBT4x"
-      },
-      "artists": [
-        {
-          "name": "Thaiane Seghetto",
-          "url": "https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG"
-        },
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 252866,
-      "name": "Perto Eu Quero Estar - Ao Vivo",
-      "url": "https://open.spotify.com/track/0qcVbrMV3FW3BnKOadt3Xw"
     },
     {
       "added_at": null,

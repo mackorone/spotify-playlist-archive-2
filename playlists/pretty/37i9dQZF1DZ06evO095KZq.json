@@ -1,12 +1,12 @@
 {
   "description": "This is El Fantasma. The essential tracks, all in one playlist.",
-  "num_followers": 450999,
+  "num_followers": 451018,
   "original_name": "This Is El Fantasma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avENAAAAAADE3mwR4si9tT89sTOVDZSE",
+  "snapshot_id": "avOwAAAAAABy+3N2vcqctkVwaZiL29R4",
   "tracks": [
     {
       "added_at": null,
@@ -195,6 +195,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dolor y Amor",
+        "url": "https://open.spotify.com/album/2E58qHF04PzKGW43soO0RT"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 159613,
+      "name": "Dolor y Amor",
+      "url": "https://open.spotify.com/track/7JF3vH3qtE35wKztVK7398"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El De Las Artilladas",
         "url": "https://open.spotify.com/album/2nBQ9GQcml324VeeguWl4P"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 257956,
       "name": "El De Las Artilladas",
       "url": "https://open.spotify.com/track/2XD79HazZ2iYDcuF2bYLSw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dolor y Amor",
-        "url": "https://open.spotify.com/album/2E58qHF04PzKGW43soO0RT"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 159613,
-      "name": "Dolor y Amor",
-      "url": "https://open.spotify.com/track/7JF3vH3qtE35wKztVK7398"
     },
     {
       "added_at": null,
@@ -579,26 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Gemeliza",
-        "url": "https://open.spotify.com/album/2UTATs0QPurLuoLmbqOFlM"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        },
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 205049,
-      "name": "El Muchachon",
-      "url": "https://open.spotify.com/track/5qndgRQs86gXNnFX4PGxao"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Entre Hierba, Polvo y Plomo",
         "url": "https://open.spotify.com/album/25O9BK0aHeYxq9ch47BP9Q"
       },
@@ -623,6 +603,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Gemeliza",
+        "url": "https://open.spotify.com/album/2UTATs0QPurLuoLmbqOFlM"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        },
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 205049,
+      "name": "El Muchachon",
+      "url": "https://open.spotify.com/track/5qndgRQs86gXNnFX4PGxao"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Zool\u00f3gico (En Vivo)",
         "url": "https://open.spotify.com/album/37RVFNtvyofJTE5Ui9YkFC"
       },
@@ -643,46 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yo Nac\u00ed Pa' Ser Jefe",
-        "url": "https://open.spotify.com/album/7q7BpDLt0lsEQIv6MyGqsa"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        },
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        },
-        {
-          "name": "GERARDO DIAZ Y SU GERARQUIA",
-          "url": "https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp"
-        }
-      ],
-      "duration_ms": 168553,
-      "name": "Yo Nac\u00ed Pa' Ser Jefe",
-      "url": "https://open.spotify.com/track/7p4N0DpozMSO7InGOGLO4x"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dolor y Amor",
-        "url": "https://open.spotify.com/album/2E58qHF04PzKGW43soO0RT"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 141409,
-      "name": "Soy de Durango",
-      "url": "https://open.spotify.com/track/5TSazyzXK958PlTdFc1CIX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Tatuado",
         "url": "https://open.spotify.com/album/3C02cJnFkQq2dxBD1MwkcV"
       },
@@ -699,6 +659,22 @@
       "duration_ms": 189230,
       "name": "El Tatuado",
       "url": "https://open.spotify.com/track/6e4IgXKwnk2KamlVuoqqgs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dolor y Amor",
+        "url": "https://open.spotify.com/album/2E58qHF04PzKGW43soO0RT"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 141409,
+      "name": "Soy de Durango",
+      "url": "https://open.spotify.com/track/5TSazyzXK958PlTdFc1CIX"
     },
     {
       "added_at": null,
@@ -767,6 +743,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Yo Nac\u00ed Pa' Ser Jefe",
+        "url": "https://open.spotify.com/album/7q7BpDLt0lsEQIv6MyGqsa"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        },
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        },
+        {
+          "name": "GERARDO DIAZ Y SU GERARQUIA",
+          "url": "https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp"
+        }
+      ],
+      "duration_ms": 168553,
+      "name": "Yo Nac\u00ed Pa' Ser Jefe",
+      "url": "https://open.spotify.com/track/7p4N0DpozMSO7InGOGLO4x"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pa' los Recuerdos, Vol. 2",
         "url": "https://open.spotify.com/album/4xPy9yUhxwQcb7NVU2MNlH"
       },
@@ -799,8 +799,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ense\u00f1anza De Los Viejos",
-        "url": "https://open.spotify.com/album/5oMG64KBWeilrKCVKQ4fEH"
+        "name": "Consejos del Viejo",
+        "url": "https://open.spotify.com/album/6vVuJ52tDtEE0ZDYb2cBkX"
       },
       "artists": [
         {
@@ -808,13 +808,13 @@
           "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
         },
         {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+          "name": "Banda Corona del Rey",
+          "url": "https://open.spotify.com/artist/0CxrfcSWTiBX7M6WAakESI"
         }
       ],
-      "duration_ms": 186435,
-      "name": "Ense\u00f1anza De Los Viejos",
-      "url": "https://open.spotify.com/track/05Lnoy1GuU0GNzVIthSYBo"
+      "duration_ms": 181534,
+      "name": "Consejos del Viejo",
+      "url": "https://open.spotify.com/track/6b93rHiefjegwUhk0aesXL"
     },
     {
       "added_at": null,
@@ -839,8 +839,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Consejos del Viejo",
-        "url": "https://open.spotify.com/album/6vVuJ52tDtEE0ZDYb2cBkX"
+        "name": "Ense\u00f1anza De Los Viejos",
+        "url": "https://open.spotify.com/album/5oMG64KBWeilrKCVKQ4fEH"
       },
       "artists": [
         {
@@ -848,13 +848,13 @@
           "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
         },
         {
-          "name": "Banda Corona del Rey",
-          "url": "https://open.spotify.com/artist/0CxrfcSWTiBX7M6WAakESI"
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
         }
       ],
-      "duration_ms": 181534,
-      "name": "Consejos del Viejo",
-      "url": "https://open.spotify.com/track/6b93rHiefjegwUhk0aesXL"
+      "duration_ms": 186435,
+      "name": "Ense\u00f1anza De Los Viejos",
+      "url": "https://open.spotify.com/track/05Lnoy1GuU0GNzVIthSYBo"
     },
     {
       "added_at": null,

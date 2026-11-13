@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Najlepsze polskie piosenki na czasie. Cover: Margaret",
+  "description": "Najlepsze polskie piosenki na czasie. Cover: GENZIE",
   "name": "Polskie hity",
   "tracks": [
     {
@@ -1425,6 +1425,24 @@
     },
     {
       "album": {
+        "name": "Blask",
+        "url": "https://open.spotify.com/album/5vPXko1B0tTzuAun148WuG"
+      },
+      "artists": [
+        {
+          "name": "Barry Black",
+          "url": "https://open.spotify.com/artist/2jNxbYSRQ7pkrxVuOjES7n"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213397,
+      "name": "Blask",
+      "url": "https://open.spotify.com/track/2pzLHEqFFAFqBgDnJTM1CS"
+    },
+    {
+      "album": {
         "name": "Bli\u017cej podejd\u017a tak",
         "url": "https://open.spotify.com/album/7A3qmuwldYeczNbLL2auS7"
       },
@@ -2708,7 +2726,7 @@
       ],
       "date_added": "2026-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 197250,
       "name": "Cisza ma imi\u0119",
       "url": "https://open.spotify.com/track/2lJHDczLybt18zgFBaXKeJ"
@@ -2748,7 +2766,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 193330,
       "name": "Ci\u0105gle znajduj\u0119 twoje ubrania",
       "url": "https://open.spotify.com/track/3D22IVr0ElopJA9bLUijD4"
@@ -3480,7 +3498,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 164822,
       "name": "daj mi znak",
       "url": "https://open.spotify.com/track/7qOAHK3XcMHz9YlSopJ107"
@@ -3770,7 +3788,7 @@
       ],
       "date_added": "2026-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 157923,
       "name": "Deszcz",
       "url": "https://open.spotify.com/track/7n0aCouGEkVBIVZdYzs7Lp"
@@ -3822,6 +3840,24 @@
       "duration_ms": 182036,
       "name": "deszcz",
       "url": "https://open.spotify.com/track/5J8OJSwdnSkSoVePSK7AyO"
+    },
+    {
+      "album": {
+        "name": "DESZCZOWE DNI",
+        "url": "https://open.spotify.com/album/2pf5ReLVqOuttfhzAr4g4j"
+      },
+      "artists": [
+        {
+          "name": "FANKA",
+          "url": "https://open.spotify.com/artist/5wUmzMcZxXPMi2qpddL0wg"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170769,
+      "name": "DESZCZOWE DNI",
+      "url": "https://open.spotify.com/track/0orsG9bSOEiG0EDB6ujAEU"
     },
     {
       "album": {
@@ -6895,6 +6931,28 @@
     },
     {
       "album": {
+        "name": "jakby ok",
+        "url": "https://open.spotify.com/album/2epRg7LZCWlzDT13OzMiAh"
+      },
+      "artists": [
+        {
+          "name": "LALE",
+          "url": "https://open.spotify.com/artist/1BaXV5IqUHk4V3QkLsSN05"
+        },
+        {
+          "name": "Dizzma",
+          "url": "https://open.spotify.com/artist/7EaDsPGE5PcfbaqySXxzU1"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137932,
+      "name": "jakby ok",
+      "url": "https://open.spotify.com/track/4agwHBJr7jnvS9VHEJRJ0n"
+    },
+    {
+      "album": {
         "name": "Ja\u015bniepanie",
         "url": "https://open.spotify.com/album/7fsfGwJL2Gvx5CYcjKuBQj"
       },
@@ -8724,7 +8782,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 196000,
       "name": "Lepsze czasy",
       "url": "https://open.spotify.com/track/5PEpqM4aMDhmqM2VojaSBy"
@@ -10577,6 +10635,24 @@
     },
     {
       "album": {
+        "name": "na ca\u0142y g\u0142os",
+        "url": "https://open.spotify.com/album/5imufcIm9serkUaGp48NIp"
+      },
+      "artists": [
+        {
+          "name": "Manya",
+          "url": "https://open.spotify.com/artist/0Ik3lsTqLJTDmAmKQ6mxPL"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125916,
+      "name": "na ca\u0142y g\u0142os",
+      "url": "https://open.spotify.com/track/6Nt3wTIgZtzPrYUIxJ9tqp"
+    },
+    {
+      "album": {
         "name": "Na chwil\u0119",
         "url": "https://open.spotify.com/album/2GaFjPRnUXkjFSVfKDy3uI"
       },
@@ -10740,6 +10816,24 @@
       "duration_ms": 185113,
       "name": "na moje nieszcz\u0119\u015bcie",
       "url": "https://open.spotify.com/track/5kp1LBPYyaGswDaG75sx13"
+    },
+    {
+      "album": {
+        "name": "Niebo mam niebieskie",
+        "url": "https://open.spotify.com/album/3aDE0o0FjlSLdMhNpfb5uk"
+      },
+      "artists": [
+        {
+          "name": "Anna Wyszkoni",
+          "url": "https://open.spotify.com/artist/2QhdFVWTX2oEpTJjYm8iv0"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208213,
+      "name": "Na niebie",
+      "url": "https://open.spotify.com/track/6FfoLWOXIXpZliH7NPyKPx"
     },
     {
       "album": {
@@ -12579,6 +12673,24 @@
     },
     {
       "album": {
+        "name": "non stop",
+        "url": "https://open.spotify.com/album/50fb1YtGDYx9Ak0VG6Bm6R"
+      },
+      "artists": [
+        {
+          "name": "Dominika P\u0142onka",
+          "url": "https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178331,
+      "name": "non stop",
+      "url": "https://open.spotify.com/track/6tHKBq4Vb21lez5ielAVBo"
+    },
+    {
+      "album": {
         "name": "Notting Hill",
         "url": "https://open.spotify.com/album/32WDD51h6TxwgEOJ3LSrCW"
       },
@@ -13117,6 +13229,24 @@
     },
     {
       "album": {
+        "name": "Ojciec",
+        "url": "https://open.spotify.com/album/6djqQIwf8OpYjzATZf7tCx"
+      },
+      "artists": [
+        {
+          "name": "Kamil Hussein",
+          "url": "https://open.spotify.com/artist/2MqM2nYRVxkDzcFsAxwD9A"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246683,
+      "name": "Ojciec",
+      "url": "https://open.spotify.com/track/5w8OlXrEsSfusHUYWeWUmv"
+    },
+    {
+      "album": {
         "name": "Oko Za Oko (Myszkovski Remix)",
         "url": "https://open.spotify.com/album/7jSWhC1Wzr9tVbcS4yu3aL"
       },
@@ -13608,7 +13738,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 191548,
       "name": "Pami\u0119tnik",
       "url": "https://open.spotify.com/track/6gKig3A8E0xpGDQNY858On"
@@ -14436,6 +14566,24 @@
       "duration_ms": 188478,
       "name": "POMALUJ M\u00d3J \u015aWIAT",
       "url": "https://open.spotify.com/track/5AOkd7BJEmVj3pxRhW072C"
+    },
+    {
+      "album": {
+        "name": "pomi\u0119dzy",
+        "url": "https://open.spotify.com/album/2zMO71yI5Qh1EiZfduKbXb"
+      },
+      "artists": [
+        {
+          "name": "Kazadi",
+          "url": "https://open.spotify.com/artist/07mRerlNt1Z84BeWgOJRib"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "pomi\u0119dzy",
+      "url": "https://open.spotify.com/track/7z8XKupAEaSdDcj4rO4F1k"
     },
     {
       "album": {
@@ -15389,6 +15537,24 @@
     },
     {
       "album": {
+        "name": "rdza",
+        "url": "https://open.spotify.com/album/3nJcfVjQd7sdDHa6ChiT3X"
+      },
+      "artists": [
+        {
+          "name": "Amla",
+          "url": "https://open.spotify.com/artist/10K2gsGwYiWdzO9bU0AzuC"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170357,
+      "name": "rdza",
+      "url": "https://open.spotify.com/track/6MDg9fT0fgCptKYGoicm7R"
+    },
+    {
+      "album": {
         "name": "Remedium (Wsi\u0105\u015b\u0107 do poci\u0105gu)",
         "url": "https://open.spotify.com/album/5CCQqMLlqI2eXP5o0FAcU3"
       },
@@ -16094,6 +16260,24 @@
       "duration_ms": 164501,
       "name": "SERCE I ROZUM",
       "url": "https://open.spotify.com/track/6rL6SiKacpWQC94R3zUufm"
+    },
+    {
+      "album": {
+        "name": "Serce z wosku",
+        "url": "https://open.spotify.com/album/2Boo6XvXersbCc8Cgry0aX"
+      },
+      "artists": [
+        {
+          "name": "Sarsa",
+          "url": "https://open.spotify.com/artist/0lKCO7SCRiTCS4ZEU6l1zx"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152337,
+      "name": "Serce z wosku",
+      "url": "https://open.spotify.com/track/6rgF0ql0Gg200aoW0vp5X6"
     },
     {
       "album": {
@@ -18246,7 +18430,7 @@
       ],
       "date_added": "2026-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 168345,
       "name": "Toniemy",
       "url": "https://open.spotify.com/track/4fLRJkYBUSmkHjU7FmJTtL"
@@ -18322,6 +18506,24 @@
       "duration_ms": 181463,
       "name": "Tracimy tylko czas",
       "url": "https://open.spotify.com/track/3A9S5Pvld6KupTf9YNvB0n"
+    },
+    {
+      "album": {
+        "name": "404",
+        "url": "https://open.spotify.com/album/0dudXKOmgR8SXodyHEPgQE"
+      },
+      "artists": [
+        {
+          "name": "GENZIE",
+          "url": "https://open.spotify.com/artist/66NiiFgb74HLBN1A5ylO5t"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 5",
+      "url": "https://open.spotify.com/track/5yf7vL8AMfmtimpDhDzoBo"
     },
     {
       "album": {
@@ -19026,6 +19228,24 @@
       "duration_ms": 190000,
       "name": "W blasku s\u0142o\u0144ca",
       "url": "https://open.spotify.com/track/4r43uk1VCa1DIIs8hyreUa"
+    },
+    {
+      "album": {
+        "name": "W DRODZE",
+        "url": "https://open.spotify.com/album/62wTO3epghi46u1h4N48Lj"
+      },
+      "artists": [
+        {
+          "name": "WERSOW",
+          "url": "https://open.spotify.com/artist/1FIoGhkDJAWOqXT1I85GRC"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162424,
+      "name": "W DRODZE",
+      "url": "https://open.spotify.com/track/394RgQxvrvhh5T0eRRcQq5"
     },
     {
       "album": {
@@ -20922,7 +21142,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 149473,
       "name": "Zap\u0119tlone",
       "url": "https://open.spotify.com/track/4eFwoge3WON61Vls56RKyL"
@@ -21068,6 +21288,24 @@
       "duration_ms": 187193,
       "name": "Zdj\u0119cia",
       "url": "https://open.spotify.com/track/4VWFlfcj5LYRKZHper4kHU"
+    },
+    {
+      "album": {
+        "name": "Zdj\u0119cie",
+        "url": "https://open.spotify.com/album/0PXk9uaNawVkvMVvtJzeXN"
+      },
+      "artists": [
+        {
+          "name": "Evelina Ross",
+          "url": "https://open.spotify.com/artist/1oKaZug8yJYjW4ljicp8Iw"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178226,
+      "name": "Zdj\u0119cie",
+      "url": "https://open.spotify.com/track/3TbhyHXTD5QccQZYCJtTI6"
     },
     {
       "album": {

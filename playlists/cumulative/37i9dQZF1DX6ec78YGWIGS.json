@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-16",
-  "description": "Lo nuevo y lo m\u00e1s escuchado del pop. Foto: BOM",
+  "description": "Lo nuevo y lo m\u00e1s escuchado del pop. Foto: Yami Safdie",
   "name": "POP!",
   "tracks": [
     {
@@ -6873,6 +6873,24 @@
     },
     {
       "album": {
+        "name": "Bienvenida de Soltera",
+        "url": "https://open.spotify.com/album/1Y6KmzdMpcO4l9KLRHzNiE"
+      },
+      "artists": [
+        {
+          "name": "Yami Safdie",
+          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155171,
+      "name": "Migajas",
+      "url": "https://open.spotify.com/track/6X0xjArooU3ErLHpJAhx7w"
+    },
+    {
+      "album": {
         "name": "MIL BESOS",
         "url": "https://open.spotify.com/album/3t48NiVRZ58fBdIdT0EisS"
       },
@@ -9505,6 +9523,28 @@
     },
     {
       "album": {
+        "name": "Romeo",
+        "url": "https://open.spotify.com/album/5HGYhuThgwTxqYN0DmMlqJ"
+      },
+      "artists": [
+        {
+          "name": "bautibit",
+          "url": "https://open.spotify.com/artist/3kqMwQRkXB1f0nbvxIH3e5"
+        },
+        {
+          "name": "Staner",
+          "url": "https://open.spotify.com/artist/42rDqqPSGclDjqm8g7tiGT"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136782,
+      "name": "Romeo",
+      "url": "https://open.spotify.com/track/6lKB4tJIUqwQdCTq8mlKeE"
+    },
+    {
+      "album": {
         "name": "R\u00e1pido",
         "url": "https://open.spotify.com/album/0lzlsc6JE3y8D8Ov8T23Lq"
       },
@@ -10414,6 +10454,24 @@
       "duration_ms": 189244,
       "name": "Soy Incre\u00edble",
       "url": "https://open.spotify.com/track/62j9HqMqmQZNjW2GtaAhXg"
+    },
+    {
+      "album": {
+        "name": "Que me Llame",
+        "url": "https://open.spotify.com/album/6nFwAXu3dj0URWqWXoL6m3"
+      },
+      "artists": [
+        {
+          "name": "Soffia Philo",
+          "url": "https://open.spotify.com/artist/5o1ARHZ2fhll5jILdQp84X"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169117,
+      "name": "Su Historieta",
+      "url": "https://open.spotify.com/track/5STf2PtIUMgmSf57wJEZs1"
     },
     {
       "album": {

@@ -1,13 +1,349 @@
 {
-  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Hudson Freeman",
-  "num_followers": 885752,
+  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Hans Williams",
+  "num_followers": 885762,
   "original_name": "Fresh Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHHicMwK8pUjoE38eVjEkX/SXYWc",
+  "snapshot_id": "AAAAAGVlpo3wDE0SuVYitMIPcPpFyoZ+",
   "tracks": [
+    {
+      "added_at": "2026-11-13 05:01:31",
+      "album": {
+        "name": "Everything So Far \u2013 11th Anniversary Edition",
+        "url": "https://open.spotify.com/album/4yfGudqYBn02zyl5OzZIOe"
+      },
+      "artists": [
+        {
+          "name": "Pinegrove",
+          "url": "https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB"
+        }
+      ],
+      "duration_ms": 256511,
+      "name": "Lorazepam (ESF \"Bonus Round\")",
+      "url": "https://open.spotify.com/track/3AXWgOtbWI2iz0M8A1RViV"
+    },
+    {
+      "added_at": "2026-11-13 05:01:31",
+      "album": {
+        "name": "Fly 1111",
+        "url": "https://open.spotify.com/album/6tq0sS8PvlJMBWEXGn70fM"
+      },
+      "artists": [
+        {
+          "name": "Emma Ogier",
+          "url": "https://open.spotify.com/artist/7lVBH2nQlHcpcU4RiY7izm"
+        }
+      ],
+      "duration_ms": 205704,
+      "name": "Land",
+      "url": "https://open.spotify.com/track/7MB1tKZya7KsesEn5F1XkD"
+    },
+    {
+      "added_at": "2026-11-13 05:01:31",
+      "album": {
+        "name": "Songs for the Neighbors",
+        "url": "https://open.spotify.com/album/6drgGahgE4NaaS0Keermyj"
+      },
+      "artists": [
+        {
+          "name": "Hans Williams",
+          "url": "https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj"
+        }
+      ],
+      "duration_ms": 301722,
+      "name": "Marie\u2019s Moon",
+      "url": "https://open.spotify.com/track/4OwzXLDrnKABHXh7xPxGFS"
+    },
+    {
+      "added_at": "2026-11-13 05:01:31",
+      "album": {
+        "name": "The Hunger Games: Sunrise on the Reaping - The Album",
+        "url": "https://open.spotify.com/album/1XVsmx5SwHTXEowtD5T22L"
+      },
+      "artists": [
+        {
+          "name": "Sydney Rose",
+          "url": "https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv"
+        },
+        {
+          "name": "The Hunger Games",
+          "url": "https://open.spotify.com/artist/6UdECsev3yuXe2rfLrdDiF"
+        }
+      ],
+      "duration_ms": 218775,
+      "name": "Dove Song",
+      "url": "https://open.spotify.com/track/2bcUdnE3pX8dImhdUL3JDM"
+    },
+    {
+      "added_at": "2026-11-13 05:01:31",
+      "album": {
+        "name": "The Hunger Games: Sunrise on the Reaping - The Album",
+        "url": "https://open.spotify.com/album/1XVsmx5SwHTXEowtD5T22L"
+      },
+      "artists": [
+        {
+          "name": "Hudson Freeman",
+          "url": "https://open.spotify.com/artist/6k3W2iGuRZrhUnfVZOMQo8"
+        },
+        {
+          "name": "The Hunger Games",
+          "url": "https://open.spotify.com/artist/6UdECsev3yuXe2rfLrdDiF"
+        }
+      ],
+      "duration_ms": 285100,
+      "name": "But You Wanted More",
+      "url": "https://open.spotify.com/track/5VI8v2laC0C01riQR7yuoJ"
+    },
+    {
+      "added_at": "2026-11-13 05:01:31",
+      "album": {
+        "name": "Alas Time Has Passed",
+        "url": "https://open.spotify.com/album/1OMYfkr6hkkGjAltOPGVdS"
+      },
+      "artists": [
+        {
+          "name": "Fine Food Market",
+          "url": "https://open.spotify.com/artist/5yLNDnaFmGzAQBjnWzdDET"
+        }
+      ],
+      "duration_ms": 274276,
+      "name": "Take It as It Is",
+      "url": "https://open.spotify.com/track/6HMZYukwvBnjjt6OtzLTtF"
+    },
+    {
+      "added_at": "2026-11-13 05:01:31",
+      "album": {
+        "name": "Kids",
+        "url": "https://open.spotify.com/album/5AVI0FM7X6di5BYfrJzuzx"
+      },
+      "artists": [
+        {
+          "name": "Noah Rinker",
+          "url": "https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6"
+        }
+      ],
+      "duration_ms": 191506,
+      "name": "Kids",
+      "url": "https://open.spotify.com/track/4fy2glNtG9LGuaH7wKhFLs"
+    },
+    {
+      "added_at": "2026-11-13 05:01:31",
+      "album": {
+        "name": "The Hunger Games: Sunrise on the Reaping - The Album",
+        "url": "https://open.spotify.com/album/1XVsmx5SwHTXEowtD5T22L"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        },
+        {
+          "name": "The Hunger Games",
+          "url": "https://open.spotify.com/artist/6UdECsev3yuXe2rfLrdDiF"
+        }
+      ],
+      "duration_ms": 246054,
+      "name": "Here Then We're Gone",
+      "url": "https://open.spotify.com/track/2StTTNEWsqY0hp9D3wKUay"
+    },
+    {
+      "added_at": "2026-11-13 05:01:31",
+      "album": {
+        "name": "Silver Springs (Spotify Singles)",
+        "url": "https://open.spotify.com/album/0fW7syaAcr6p7MpMnyq49k"
+      },
+      "artists": [
+        {
+          "name": "Sarah Julia",
+          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
+        }
+      ],
+      "duration_ms": 200399,
+      "name": "Silver Springs - Spotify Singles",
+      "url": "https://open.spotify.com/track/171L1i9B8JSR234FJbKDPi"
+    },
+    {
+      "added_at": "2026-11-13 05:01:31",
+      "album": {
+        "name": "Weight Of The Feather",
+        "url": "https://open.spotify.com/album/2Uu75DHRs4yiEleO5vt02o"
+      },
+      "artists": [
+        {
+          "name": "Kingfishr",
+          "url": "https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f"
+        }
+      ],
+      "duration_ms": 153780,
+      "name": "Weight Of The Feather",
+      "url": "https://open.spotify.com/track/2uGTpK30J70bJWI69P5ddK"
+    },
+    {
+      "added_at": "2026-11-13 05:01:31",
+      "album": {
+        "name": "The Hunger Games: Sunrise on the Reaping - The Album",
+        "url": "https://open.spotify.com/album/1XVsmx5SwHTXEowtD5T22L"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        },
+        {
+          "name": "The Hunger Games",
+          "url": "https://open.spotify.com/artist/6UdECsev3yuXe2rfLrdDiF"
+        }
+      ],
+      "duration_ms": 239778,
+      "name": "Show Me Where The Ending Starts",
+      "url": "https://open.spotify.com/track/4kj9ffYfjXVj4wrD5CoHZr"
+    },
+    {
+      "added_at": "2026-11-13 05:01:31",
+      "album": {
+        "name": "Traveler",
+        "url": "https://open.spotify.com/album/5dDNf2t9vIavv8R61niooe"
+      },
+      "artists": [
+        {
+          "name": "Andrew Lucier",
+          "url": "https://open.spotify.com/artist/5fqAKTeGBFD1bdZhEJ3CJl"
+        }
+      ],
+      "duration_ms": 198017,
+      "name": "Traveler",
+      "url": "https://open.spotify.com/track/3ED0OhtRMd5HWFSZN7Xwzm"
+    },
+    {
+      "added_at": "2026-11-13 05:01:31",
+      "album": {
+        "name": "Alamo",
+        "url": "https://open.spotify.com/album/4R9LxymAg0jzi0hvRdz2Ac"
+      },
+      "artists": [
+        {
+          "name": "Jake Bugg",
+          "url": "https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg"
+        }
+      ],
+      "duration_ms": 168920,
+      "name": "When The Night",
+      "url": "https://open.spotify.com/track/5xt04fHfQUREMH4CuZXQ6l"
+    },
+    {
+      "added_at": "2026-11-13 05:01:31",
+      "album": {
+        "name": "Hollowbody",
+        "url": "https://open.spotify.com/album/4UelZbXLzeHu2g8WGH18Y4"
+      },
+      "artists": [
+        {
+          "name": "Fog Lake",
+          "url": "https://open.spotify.com/artist/04GCjO1r1hPelibCUq9S8H"
+        }
+      ],
+      "duration_ms": 195981,
+      "name": "Balcony",
+      "url": "https://open.spotify.com/track/2IB4itue6EUReMjhpTvSoh"
+    },
+    {
+      "added_at": "2026-11-13 05:01:31",
+      "album": {
+        "name": "jewelry",
+        "url": "https://open.spotify.com/album/4aUXJ4Q3JaM8GLwY9voZ35"
+      },
+      "artists": [
+        {
+          "name": "Abby Powledge",
+          "url": "https://open.spotify.com/artist/5H2vu7amXrDfVapz04U8LJ"
+        }
+      ],
+      "duration_ms": 198546,
+      "name": "jewelry",
+      "url": "https://open.spotify.com/track/54p37SMK2n2oErQq7aDe3V"
+    },
+    {
+      "added_at": "2026-11-13 05:01:31",
+      "album": {
+        "name": "Yamaha 250",
+        "url": "https://open.spotify.com/album/4QqvbnPoE2qNYRB6rRd7jr"
+      },
+      "artists": [
+        {
+          "name": "Deloyd Elze",
+          "url": "https://open.spotify.com/artist/74ERN7iYMRTDYfWz2BspQo"
+        }
+      ],
+      "duration_ms": 202626,
+      "name": "Yamaha 250",
+      "url": "https://open.spotify.com/track/0GshKODGX7RVYNuTr6KF3e"
+    },
+    {
+      "added_at": "2026-11-13 05:01:31",
+      "album": {
+        "name": "Rearview",
+        "url": "https://open.spotify.com/album/09lYlxeh1KAe6c5siJ1q8q"
+      },
+      "artists": [
+        {
+          "name": "Center Mid",
+          "url": "https://open.spotify.com/artist/4zPGRxbsiwHe6nVHaL1hlN"
+        }
+      ],
+      "duration_ms": 187312,
+      "name": "Rearview",
+      "url": "https://open.spotify.com/track/0VQzD1AAKDlM3wCGyqLyA9"
+    },
+    {
+      "added_at": "2026-11-13 05:01:31",
+      "album": {
+        "name": "Pie in the Sky",
+        "url": "https://open.spotify.com/album/6dKTA6fQL7y5KyXaEOmB48"
+      },
+      "artists": [
+        {
+          "name": "Matt Holubowski",
+          "url": "https://open.spotify.com/artist/384YLF1kNQk9Ccl8pn7BSO"
+        }
+      ],
+      "duration_ms": 259462,
+      "name": "Pie in the Sky",
+      "url": "https://open.spotify.com/track/699x6CXskk0UBYolCbrPBt"
+    },
+    {
+      "added_at": "2026-11-13 05:01:31",
+      "album": {
+        "name": "Full Circle",
+        "url": "https://open.spotify.com/album/3ASgyeTqBANmesuXmrpfgj"
+      },
+      "artists": [
+        {
+          "name": "Schaefer Llana",
+          "url": "https://open.spotify.com/artist/2p4lD1A4m58EkqOjvcHRsq"
+        }
+      ],
+      "duration_ms": 300817,
+      "name": "Mindless Feeling",
+      "url": "https://open.spotify.com/track/4iVWFyMYVNZVQwTeDM4ViF"
+    },
+    {
+      "added_at": "2026-11-13 05:01:31",
+      "album": {
+        "name": "Daughter Of Sorts",
+        "url": "https://open.spotify.com/album/35BZ4khbT8FyzNLQHLfyzI"
+      },
+      "artists": [
+        {
+          "name": "Diana Silvers",
+          "url": "https://open.spotify.com/artist/4Uf4PfiZLdUfSEksP0ppEs"
+        }
+      ],
+      "duration_ms": 174760,
+      "name": "I Knew You When",
+      "url": "https://open.spotify.com/track/0TNNy97FX2OpacorIjSYKF"
+    },
     {
       "added_at": "2026-11-06 05:01:26",
       "album": {
@@ -2623,258 +2959,6 @@
       "duration_ms": 203136,
       "name": "PBJ",
       "url": "https://open.spotify.com/track/5rjtzSA5VBWg7zmuOGg5Dz"
-    },
-    {
-      "added_at": "2026-09-18 05:00:45",
-      "album": {
-        "name": "Bolder Font",
-        "url": "https://open.spotify.com/album/0M27waE1ENLewUbMGuJORV"
-      },
-      "artists": [
-        {
-          "name": "Brooke Annibale",
-          "url": "https://open.spotify.com/artist/1JojxxteIsItgolTdalOb3"
-        }
-      ],
-      "duration_ms": 210840,
-      "name": "Now It's Over",
-      "url": "https://open.spotify.com/track/0zMrGXlPG1lOobsGrm3o3s"
-    },
-    {
-      "added_at": "2026-09-18 05:00:45",
-      "album": {
-        "name": "remember this",
-        "url": "https://open.spotify.com/album/76oZ5D27X0GfWgEeRkwTdY"
-      },
-      "artists": [
-        {
-          "name": "Ethan Regan",
-          "url": "https://open.spotify.com/artist/3UNkRVGHGCrGCE0930Bt9e"
-        }
-      ],
-      "duration_ms": 199400,
-      "name": "remember this",
-      "url": "https://open.spotify.com/track/2Ky36Q51BjoAwuCD1ukpUo"
-    },
-    {
-      "added_at": "2026-09-18 05:00:45",
-      "album": {
-        "name": "Bird Laugh",
-        "url": "https://open.spotify.com/album/2ROjv4DGu67ZcjANJORwK2"
-      },
-      "artists": [
-        {
-          "name": "mildred",
-          "url": "https://open.spotify.com/artist/3yKgN8NhQcYDi6CXDSYKM0"
-        }
-      ],
-      "duration_ms": 173775,
-      "name": "Bird Laugh",
-      "url": "https://open.spotify.com/track/3LzmhwcWjurhHSjcq8pWoY"
-    },
-    {
-      "added_at": "2026-09-18 05:00:45",
-      "album": {
-        "name": "Safe Place",
-        "url": "https://open.spotify.com/album/1JVaV7mszfevApAkTzzEAP"
-      },
-      "artists": [
-        {
-          "name": "\u00c5lborg",
-          "url": "https://open.spotify.com/artist/5RG6CMtljJC7BbVIfx0j7V"
-        }
-      ],
-      "duration_ms": 258122,
-      "name": "Safe Place",
-      "url": "https://open.spotify.com/track/2YAhGrQnWduKC9JGHR8BFj"
-    },
-    {
-      "added_at": "2026-09-18 05:00:45",
-      "album": {
-        "name": "This Bed Was Made For Me",
-        "url": "https://open.spotify.com/album/5blAJE7TEMhswVeF5dYohp"
-      },
-      "artists": [
-        {
-          "name": "Biita Houdei",
-          "url": "https://open.spotify.com/artist/2oUHYLsX20aJwPuwVAguC3"
-        }
-      ],
-      "duration_ms": 224943,
-      "name": "Peach in the Briar",
-      "url": "https://open.spotify.com/track/72dJCfHMPoMB7YbANFSn5W"
-    },
-    {
-      "added_at": "2026-09-18 05:00:45",
-      "album": {
-        "name": "Hope Is the Thing with Feathers",
-        "url": "https://open.spotify.com/album/1GqUJ1pY3mDZ29wLsJ7Qny"
-      },
-      "artists": [
-        {
-          "name": "Rhiannon Giddens",
-          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
-        }
-      ],
-      "duration_ms": 175640,
-      "name": "Hope Is the Thing with Feathers",
-      "url": "https://open.spotify.com/track/4jLzG9tZZGTbc3p2VWjF7r"
-    },
-    {
-      "added_at": "2026-09-18 05:00:45",
-      "album": {
-        "name": "The Old Beloved Path",
-        "url": "https://open.spotify.com/album/4Tq4yvQltbgUUoEPHa8MQk"
-      },
-      "artists": [
-        {
-          "name": "Jake Xerxes Fussell",
-          "url": "https://open.spotify.com/artist/40iG1d2wC4KdBLb8wXNq33"
-        }
-      ],
-      "duration_ms": 113546,
-      "name": "Of All the Beast-es in the World",
-      "url": "https://open.spotify.com/track/5tR5iWTYRZ91eufFoYHoLG"
-    },
-    {
-      "added_at": "2026-09-18 05:00:45",
-      "album": {
-        "name": "How Do You Like Me Now",
-        "url": "https://open.spotify.com/album/2AFgIaJDyU9EUa8EjNzN8t"
-      },
-      "artists": [
-        {
-          "name": "Helena Deland",
-          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "How Do You Like Me Now",
-      "url": "https://open.spotify.com/track/4bAbkWQVY9tjSYH5jLhufV"
-    },
-    {
-      "added_at": "2026-09-18 05:00:45",
-      "album": {
-        "name": "Peaches and Limes",
-        "url": "https://open.spotify.com/album/7cQfhsNHJaEaGHN3jfNK6a"
-      },
-      "artists": [
-        {
-          "name": "Field Guide",
-          "url": "https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz"
-        },
-        {
-          "name": "Georgia Harmer",
-          "url": "https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4"
-        }
-      ],
-      "duration_ms": 154624,
-      "name": "Back to the Way",
-      "url": "https://open.spotify.com/track/2NSzX80QxYzRt7bygoDRWf"
-    },
-    {
-      "added_at": "2026-09-18 05:00:45",
-      "album": {
-        "name": "Evelyn",
-        "url": "https://open.spotify.com/album/5NjybIKLJxB4xTbkpRNi8l"
-      },
-      "artists": [
-        {
-          "name": "Rosie Rush",
-          "url": "https://open.spotify.com/artist/2DE87QsSSt1QH07jVqLhPE"
-        }
-      ],
-      "duration_ms": 209645,
-      "name": "Evelyn",
-      "url": "https://open.spotify.com/track/3Ur4xd9p8mz6zBmdA192st"
-    },
-    {
-      "added_at": "2026-09-18 05:00:45",
-      "album": {
-        "name": "Delancey & Me",
-        "url": "https://open.spotify.com/album/6IsKs4bfHhxHoKQicINyEE"
-      },
-      "artists": [
-        {
-          "name": "Good Wild Gods",
-          "url": "https://open.spotify.com/artist/6XY9ZdPBtDFSHv4bRUW1E3"
-        },
-        {
-          "name": "Old Sea Brigade",
-          "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45"
-        },
-        {
-          "name": "Luke Sital-Singh",
-          "url": "https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG"
-        }
-      ],
-      "duration_ms": 269160,
-      "name": "Delancey & Me",
-      "url": "https://open.spotify.com/track/0O3q8I7qVhmie1wGLrHPgl"
-    },
-    {
-      "added_at": "2026-09-18 05:00:45",
-      "album": {
-        "name": "Church (in a box)",
-        "url": "https://open.spotify.com/album/67ugcYTuERhh0cbBpqhh4Z"
-      },
-      "artists": [
-        {
-          "name": "Foot Ox",
-          "url": "https://open.spotify.com/artist/4atG4dpAmj30iXyKHeEPVY"
-        }
-      ],
-      "duration_ms": 146200,
-      "name": "Church (in a box)",
-      "url": "https://open.spotify.com/track/2APLkBAdy4IFyw5htcmVCC"
-    },
-    {
-      "added_at": "2026-09-18 05:00:45",
-      "album": {
-        "name": "everything in between",
-        "url": "https://open.spotify.com/album/5TBc9Vjb515B9nTLCuMuJO"
-      },
-      "artists": [
-        {
-          "name": "Amistat",
-          "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
-        }
-      ],
-      "duration_ms": 213450,
-      "name": "seven days a week",
-      "url": "https://open.spotify.com/track/4UzCI5OvAhczflItEGqfyU"
-    },
-    {
-      "added_at": "2026-09-18 05:00:45",
-      "album": {
-        "name": "Big Sun (Deluxe)",
-        "url": "https://open.spotify.com/album/5PSHi6T8QgPv7coY8T0cID"
-      },
-      "artists": [
-        {
-          "name": "HAPPY LANDING",
-          "url": "https://open.spotify.com/artist/2Jsv2nBcTfKpM9dbZcBbk6"
-        }
-      ],
-      "duration_ms": 250748,
-      "name": "Brandy",
-      "url": "https://open.spotify.com/track/77BdrgldFsxeDz4tCqlNmJ"
-    },
-    {
-      "added_at": "2026-09-11 11:33:57",
-      "album": {
-        "name": "Pair of Dice",
-        "url": "https://open.spotify.com/album/0KLVzJ7M9BUmVrj8Ic5CHL"
-      },
-      "artists": [
-        {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
-        }
-      ],
-      "duration_ms": 269833,
-      "name": "Pair of Dice",
-      "url": "https://open.spotify.com/track/0SIaQRxv2uyjjeWP8PV7uj"
     }
   ],
   "unique_name": "Fresh Folk",

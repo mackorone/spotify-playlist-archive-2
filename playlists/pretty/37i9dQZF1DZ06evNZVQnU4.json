@@ -1,12 +1,12 @@
 {
   "description": "This is Olivia Dean. The essential tracks, all in one playlist.",
-  "num_followers": 718215,
+  "num_followers": 718745,
   "original_name": "This Is Olivia Dean",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avENAAAAAAD1t2nSupnyfJhIB+9jOhz+",
+  "snapshot_id": "avOwAAAAAACe52kdeaKv4qcsKa7kC+8e",
   "tracks": [
     {
       "added_at": null,
@@ -627,6 +627,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "What Am I Gonna Do On Sundays?",
+        "url": "https://open.spotify.com/album/1nAyMIwsiY0PbGzFbRY742"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 244693,
+      "name": "Out",
+      "url": "https://open.spotify.com/track/2ehj7rODzZ5HfBoenfLmIK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "You Can't Hurry Love (Live At Jools' Annual Hootenanny)",
         "url": "https://open.spotify.com/album/3XYZBbKA0z41yTr0m17Ofz"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 199000,
       "name": "You Can't Hurry Love - Live At Jools' Annual Hootenanny",
       "url": "https://open.spotify.com/track/2RS7UOxu6rnT3bRNTa9U1W"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "What Am I Gonna Do On Sundays?",
-        "url": "https://open.spotify.com/album/1nAyMIwsiY0PbGzFbRY742"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 244693,
-      "name": "Out",
-      "url": "https://open.spotify.com/track/2ehj7rODzZ5HfBoenfLmIK"
     },
     {
       "added_at": null,

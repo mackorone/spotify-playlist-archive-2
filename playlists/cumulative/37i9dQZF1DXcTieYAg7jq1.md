@@ -4,7 +4,7 @@
 
 > Featuring that new vintage\. Cover: Blu DeTiger
 
-620 songs - 1 day 10 hr 54 min
+621 songs - 1 day 10 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [After The Love](https://open.spotify.com/track/5yoFQKrjS78SIrWd266BOA) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [After The Love](https://open.spotify.com/album/2cb27N2hwLXbJcwAp6AezO) | 3:40 | 2026-07-24 |  |
 | [Alcohol](https://open.spotify.com/track/7knB6NUQFwmKEBroRiLsQ1) | [Kerr Mercer](https://open.spotify.com/artist/5sCWBXe11vVgkSogU1jq5x) | [Alcohol](https://open.spotify.com/album/0hYcs0BNcfioP8zWglC9zt) | 3:19 | 2025-11-21 | 2026-07-11 |
 | [Alexandria](https://open.spotify.com/track/2WmWpdjuLPxjZ02jZ187qY) | [TOAST CLUB](https://open.spotify.com/artist/7Fxkd4fNZApzhdE10tlixG) | [Lift](https://open.spotify.com/album/2Xl617uwCUcTDU7lEsloqK) | 4:37 | 2026-07-24 |  |
+| [All Eyes On Me](https://open.spotify.com/track/4o9v3KKQzKlAPoAvAKucvd) | [Scout Willis](https://open.spotify.com/artist/3Ysxmjrlt0lcajmYoMZznN) | [All Eyes On Me](https://open.spotify.com/album/4i0OKw2V7yaIzBn3qwlL37) | 2:35 | 2026-11-13 |  |
 | [All I Can Say](https://open.spotify.com/track/6ewcR0FnLdKjIt9gcMghrQ) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sincerely,](https://open.spotify.com/album/2XhNukk6jDysbSRL7VsqYb) | 3:07 | 2025-05-09 | 2025-09-13 |
 | [All Over Again](https://open.spotify.com/track/3m0gY7t5mC3ipTmMlvt8wM) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj), [Johnny Stimson](https://open.spotify.com/artist/00OF0nwYaoBSO3AnPVq3vE) | [All Over Again](https://open.spotify.com/album/022igxh5JAOECiWyHG3Fim) | 2:58 | 2023-09-01 | 2024-02-10 |
 | [All Summer](https://open.spotify.com/track/4MA8WJAhL0P3hbD5SrZUUv) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [All Summer](https://open.spotify.com/album/4lcvwRXul0pIJAM8XXU8QS) | 2:51 | 2022-07-01 | 2025-02-08 |
@@ -412,7 +413,7 @@
 | [On The Run](https://open.spotify.com/track/4WVjWMEhBSn3p99hD4v15b) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [On The Run](https://open.spotify.com/album/1bY412UI4q6K8rX2hrRVW6) | 3:19 | 2025-05-02 | 2026-05-30 |
 | [On Top of the World](https://open.spotify.com/track/5erTPoeHKb7wOHzqFw4msd) | [Stephen Day](https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5) | [On Top of the World](https://open.spotify.com/album/6VEn2lcVg9CwQEjnAT6LEj) | 3:59 | 2021-12-03 | 2022-12-13 |
 | [One Life](https://open.spotify.com/track/2ke3UokbJmy74bvueaXli3) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [One Life](https://open.spotify.com/album/1Eq16zkqEjt8Hzrae9q6fa) | 3:02 | 2024-07-12 | 2026-03-21 |
-| [One Man Show](https://open.spotify.com/track/4HjHoX3EAOmqlx6Ewo05JE) | [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [One Man Show](https://open.spotify.com/album/6oscsOnAngFyFbJdWCBN0t) | 2:02 | 2026-03-20 |  |
+| [One Man Show](https://open.spotify.com/track/4HjHoX3EAOmqlx6Ewo05JE) | [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [One Man Show](https://open.spotify.com/album/6oscsOnAngFyFbJdWCBN0t) | 2:02 | 2026-03-20 | 2026-11-13 |
 | [One Thing](https://open.spotify.com/track/7JZLDYLLyoRJ97NoZMEXZl) | [Enisa](https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6) | [One Thing](https://open.spotify.com/album/4YNRtUmWyTeKmpt402o33l) | 2:20 | 2022-01-28 | 2023-09-23 |
 | [Only Girl](https://open.spotify.com/track/17fL4slDQP8YopAZHWyiR3) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Only Girl](https://open.spotify.com/album/2Qp5Ode31zeYK4qEP2mctl) | 2:39 | 2023-04-28 | 2023-09-02 |
 | [Original](https://open.spotify.com/track/0OpVvLqe7KImD3RXXDizTt) | [Connie Talbot](https://open.spotify.com/artist/6v6kEdFKqKZ2T7XjjBD9um) | [Original](https://open.spotify.com/album/2ffPAuQMKRWs4vOoeonRuo) | 3:09 | 2026-01-09 | 2026-04-04 |

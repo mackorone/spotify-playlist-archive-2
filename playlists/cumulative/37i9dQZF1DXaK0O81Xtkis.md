@@ -4,7 +4,7 @@
 
 > a little indie, a little pop, soda featuring OK MICKEY
 
-1,699 songs - 3 day 12 hr 56 min
+1,703 songs - 3 day 13 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -759,6 +759,7 @@
 | [I thought that i'd know by now](https://open.spotify.com/track/7yd3WBefexIk6jtlXJr0HN) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [i thought that i'd know by now](https://open.spotify.com/album/6T7nzcZGGzuhuhLfSKffyE) | 2:54 | 2024-08-02 | 2024-10-19 |
 | [i wanna be your girl](https://open.spotify.com/track/1KATxDmHw5rFg1REMU8wDM) | [Haiden Henderson](https://open.spotify.com/artist/79xvSUqngetd6CbJ1bgb4p) | [i wanna be your girl](https://open.spotify.com/album/5iydIH1mBG1llsm8dH4E3E) | 2:27 | 2026-08-21 |  |
 | [I Wanna Live Forever](https://open.spotify.com/track/759ptp5ik4aLVCMnrQmUKg) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [I Wanna Live Forever](https://open.spotify.com/album/3kI5ZrCZC4FudYzqSAbyVK) | 3:26 | 2023-03-31 | 2023-04-25 |
+| [I Want to Push You in Front of the Subway](https://open.spotify.com/track/0dl7gKsFn8eb78zJ0Pghi9) | [Benjamin Hightower](https://open.spotify.com/artist/70A1X73rk0NI2d6A8pENYN) | [New to the City](https://open.spotify.com/album/4CzT8kDhShsf7cJuC3QwXV) | 3:32 | 2026-11-13 |  |
 | [I Want You Here All The Time](https://open.spotify.com/track/2riJzFiqt8w0g7xkIhRapl) | [Big Time Rush](https://open.spotify.com/artist/0GWCNkPi54upO9WLlwjAHd) | [I Want You Here All The Time](https://open.spotify.com/album/2jCfOYLFdUjHGHMhpoSfRn) | 2:53 | 2025-06-20 | 2025-08-30 |
 | [I Wanted to Keep You](https://open.spotify.com/track/4H5QTP8dcCF43mplpAja28) | [NOVACUB](https://open.spotify.com/artist/5AgzqwERKzaLXw6wSL5LcO) | [I Wanted to Keep You](https://open.spotify.com/album/1fCPIcTrS1wkX529mzWDWw) | 2:48 | 2021-10-29 | 2021-12-25 |
 | [I Was a Fool](https://open.spotify.com/track/5TCSMWZow9lzc7jr8WscVD) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Heartthrob](https://open.spotify.com/album/5IUJ6v408Z7pECC3BXUJxX) | 3:24 | 2022-04-01 | 2022-04-09 |
@@ -1173,6 +1174,7 @@
 | [pollen](https://open.spotify.com/track/1R1wfqCACadR1Z2UWtT0Sp) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [kids](https://open.spotify.com/album/3WKJ25ELBFdV796o45ger6) | 3:18 | 2025-10-10 | 2026-02-14 |
 | [Pool Water Confessions](https://open.spotify.com/track/1ahZDBeXgSjbo31UyKh7w6) | [SUM SUN](https://open.spotify.com/artist/3Rkl3UpmEVgW3vEoISzJUT) | [Pool Water Confessions](https://open.spotify.com/album/6Qf7f5ijkPyixOl3yuUM88) | 3:26 | 2026-06-19 | 2026-10-09 |
 | [popstar](https://open.spotify.com/track/6C2xaC4vv2eRwLqcy564vw) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [popstar](https://open.spotify.com/album/3QHPerVUNjQTLaEXilaMjE) | 3:08 | 2022-03-11 | 2022-06-18 |
+| [POS](https://open.spotify.com/track/4JZN0ox5209m96xs5Awbet) | [Max Rickun](https://open.spotify.com/artist/5vYA9ABGrLzyBA0bk55VLl) | [POS](https://open.spotify.com/album/3pkwztTPNbNzsjtyMGRHWk) | 3:23 | 2026-11-13 |  |
 | [Potential](https://open.spotify.com/track/4cpHvqL4dvporE8JlQwkec) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [Potential](https://open.spotify.com/album/0qqZfp0bh8BpzRZ5jwBLY5) | 4:02 | 2026-04-17 | 2026-06-27 |
 | [Potion](https://open.spotify.com/track/5MRvyJZtnXXTuWfEUIkSAS) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD) | [Potion](https://open.spotify.com/album/124qyryekaVBZATC3KjQHv) | 2:31 | 2022-04-29 | 2022-06-25 |
 | [Practically Strangers](https://open.spotify.com/track/3qkRncHx7iqp05daYmVPCL) | [Jack Gray](https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw) | [Practically Strangers](https://open.spotify.com/album/2Hh1RsqsHsz80iosebrvob) | 2:10 | 2023-05-05 | 2023-07-29 |
@@ -1313,6 +1315,7 @@
 | [So Glad](https://open.spotify.com/track/5lYA5q2q2ZV2DClDrgWRWO) | [Alt Bloom](https://open.spotify.com/artist/6JxQbC46LapcvanSk4J3OP) | [So Glad](https://open.spotify.com/album/2Hnmm7ixt4fHP1sG6EH96l) | 2:23 | 2023-07-28 | 2023-09-16 |
 | [So Good](https://open.spotify.com/track/7eLSdXUfuIJyTPEzyBfpkS) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [Can We Talk?](https://open.spotify.com/album/4XUPb1rntAZTacotCGf4lR) | 2:27 | 2025-10-17 | 2026-01-17 |
 | [So Good](https://open.spotify.com/track/6kxaaIeowajN7w21PfMLbu) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [So Good](https://open.spotify.com/album/2GCDQipR2hfrNzLC9FCwaf) | 2:56 | 2022-07-29 | 2022-09-17 |
+| [So Romantic](https://open.spotify.com/track/0z8ovDfjz9PM6yMjqWUF7l) | [Skylar Simone](https://open.spotify.com/artist/4Xt0mNxZEZWjgJwsZKDuvQ) | [So Romantic](https://open.spotify.com/album/4ei0xYYrF49Cdv9jV7E2tx) | 2:46 | 2026-11-13 |  |
 | [Sober](https://open.spotify.com/track/7K3rRx00hcS6MpZmYGUFH2) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [Sober](https://open.spotify.com/album/51xoJomo3hvVg4BE7GHnHI) | 2:32 | 2022-11-11 | 2023-02-25 |
 | [Softcore](https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Hard To Imagine The Neighbourhood Ever Changing](https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy) | 3:26 | 2022-01-14 | 2022-04-09 |
 | [Solid Ground](https://open.spotify.com/track/5XP9mCru3C5bNHWUl11kAQ) | [PASH](https://open.spotify.com/artist/3jEgbW70PXxv993symSK35) | [PASH](https://open.spotify.com/album/0eitk4vAwmInevT6HQzkdP) | 3:41 | 2026-05-22 | 2026-08-08 |
@@ -1383,6 +1386,7 @@
 | [Strawberry Kisses](https://open.spotify.com/track/4LXuSaMzY515ubvtGnCvBi) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [Strawberry Kisses](https://open.spotify.com/album/4QQ5HRLZrSC7882WTmvZFH) | 3:01 | 2022-01-07 | 2022-01-22 |
 | [Street You Live On](https://open.spotify.com/track/0Rg7gsv3kLviC7jW6Jemv3) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Juno](https://open.spotify.com/album/7tJ8Wtej161vR0uCbGDiDR) | 3:33 | 2022-05-27 | 2022-06-04 |
 | [Stressed Out](https://open.spotify.com/track/13NsokXoQWXEggE6c4yLd7) | [Calabasas](https://open.spotify.com/artist/1hTxTWi0qO9VGuG9elXEcZ) | [Stressed Out](https://open.spotify.com/album/7nyspUQuLKsHDmz49P9Y50) | 2:38 | 2024-03-01 | 2024-03-30 |
+| [Stuck](https://open.spotify.com/track/0GfWxo8gFJKgQ96tBrq3qo) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Soft](https://open.spotify.com/album/2gfh9js0PqxJnWctC4au5k) | 3:03 | 2026-11-13 |  |
 | [Stunner](https://open.spotify.com/track/55g2TpbGrXxLdekbyui2Sl) | [Carter Vail](https://open.spotify.com/artist/4Bu9DnBZ12oX7MiiaJy9hK) | [Stunner](https://open.spotify.com/album/7CdSPlqEI5a2yYlESsTIgG) | 2:15 | 2025-05-23 | 2025-08-16 |
 | [Stunner](https://open.spotify.com/track/5WPulnXHTJuGhdhMNg7KQN) | [GRESLEY](https://open.spotify.com/artist/3jH7tPNd2gFLXAekbpUCOf) | [Stunner](https://open.spotify.com/album/1WOBDxDGuGF763HTh7YSEV) | 4:01 | 2026-08-07 | 2026-10-30 |
 | [stupid i miss u](https://open.spotify.com/track/6rhdKbAlGnmRVfdGnvIyb8) | [Forrest Nolan](https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv) | [stupid i miss u](https://open.spotify.com/album/0DGQGsxX73rGXQtpq52PuA) | 2:20 | 2022-09-30 | 2023-02-18 |

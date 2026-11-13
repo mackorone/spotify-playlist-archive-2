@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avENAAAAAAAkX/xJtgCm87BudQnneCMD",
+  "snapshot_id": "avOwAAAAAAAqid2If1Q16TY9tWZ0Qz0h",
   "tracks": [
     {
       "added_at": null,
@@ -88,8 +88,8 @@
       },
       "artists": [
         {
-          "name": "Mikhail Glinka",
-          "url": "https://open.spotify.com/artist/1GEuHbNwTRj4QPyoythtBh"
+          "name": "C\u00e9sar Franck",
+          "url": "https://open.spotify.com/artist/1C3sffOOvQNUwg4YIsvKqy"
         },
         {
           "name": "Clara Rockmore",
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
         }
       ],
-      "duration_ms": 204066,
-      "name": "Elegy: Do not tempt me needlessly.",
-      "url": "https://open.spotify.com/track/1x1moJQ5Brxm4c19VI5DM5"
+      "duration_ms": 395320,
+      "name": "Sonata for violin and piano: Allegretto poco mosso",
+      "url": "https://open.spotify.com/track/08c9wMMmGawxgqa2pBNYDZ"
     },
     {
       "added_at": null,
@@ -184,8 +184,8 @@
       },
       "artists": [
         {
-          "name": "C\u00e9sar Franck",
-          "url": "https://open.spotify.com/artist/1C3sffOOvQNUwg4YIsvKqy"
+          "name": "Mikhail Glinka",
+          "url": "https://open.spotify.com/artist/1GEuHbNwTRj4QPyoythtBh"
         },
         {
           "name": "Clara Rockmore",
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
         }
       ],
-      "duration_ms": 395320,
-      "name": "Sonata for violin and piano: Allegretto poco mosso",
-      "url": "https://open.spotify.com/track/08c9wMMmGawxgqa2pBNYDZ"
+      "duration_ms": 204066,
+      "name": "Elegy: Do not tempt me needlessly.",
+      "url": "https://open.spotify.com/track/1x1moJQ5Brxm4c19VI5DM5"
     },
     {
       "added_at": null,
@@ -336,8 +336,8 @@
       },
       "artists": [
         {
-          "name": "Franz Schubert",
-          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+          "name": "Fritz Kreisler",
+          "url": "https://open.spotify.com/artist/0HdNDZaNm7xLt18v9aWDfe"
         },
         {
           "name": "Clara Rockmore",
@@ -348,9 +348,9 @@
           "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
         }
       ],
-      "duration_ms": 294893,
-      "name": "Ave Maria, Op. 52 No. 6, D. 839 (Arr. for Theremin & Piano)",
-      "url": "https://open.spotify.com/track/2o7J3w4ii6FN5ikgLty48C"
+      "duration_ms": 153026,
+      "name": "3 Old Viennese Dances: No. 2, Liebesleid (Arr. for Theremin & Piano)",
+      "url": "https://open.spotify.com/track/2ndvA1M9bPNu9jx5d8BYG4"
     },
     {
       "added_at": null,
@@ -432,8 +432,8 @@
       },
       "artists": [
         {
-          "name": "Fritz Kreisler",
-          "url": "https://open.spotify.com/artist/0HdNDZaNm7xLt18v9aWDfe"
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
         },
         {
           "name": "Clara Rockmore",
@@ -444,9 +444,9 @@
           "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
         }
       ],
-      "duration_ms": 153026,
-      "name": "3 Old Viennese Dances: No. 2, Liebesleid (Arr. for Theremin & Piano)",
-      "url": "https://open.spotify.com/track/2ndvA1M9bPNu9jx5d8BYG4"
+      "duration_ms": 294893,
+      "name": "Ave Maria, Op. 52 No. 6, D. 839 (Arr. for Theremin & Piano)",
+      "url": "https://open.spotify.com/track/2o7J3w4ii6FN5ikgLty48C"
     },
     {
       "added_at": null,
@@ -560,33 +560,9 @@
           "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
         }
       ],
-      "duration_ms": 229666,
-      "name": "14 Songs, Op. 34: No. 14, Vocalise (Arr. for Theremin and Piano by Clara Rockmore)",
-      "url": "https://open.spotify.com/track/3y0szu97W5aoe00pwkbHU4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Music and Memories: Clara Rockmore",
-        "url": "https://open.spotify.com/album/74CsKqZHXphRAMS7dPYnoy"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9sar Franck",
-          "url": "https://open.spotify.com/artist/1C3sffOOvQNUwg4YIsvKqy"
-        },
-        {
-          "name": "Clara Rockmore",
-          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
-        },
-        {
-          "name": "Nadia Reisenberg",
-          "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
-        }
-      ],
-      "duration_ms": 537293,
-      "name": "Sonata for violin and piano: Allegro",
-      "url": "https://open.spotify.com/track/2JU9CepLNuxp0Agyyp3fFr"
+      "duration_ms": 259560,
+      "name": "6 Romances, Op. 4: No. 4, Do Not Sing, My Beauty (Arr. for Theremin and Piano by Clara Rockmore)",
+      "url": "https://open.spotify.com/track/2gpimdfFYEztUxQUgdFjym"
     },
     {
       "added_at": null,
@@ -611,6 +587,30 @@
       "duration_ms": 401813,
       "name": "Sonata for violin and piano in A major: Allegretto ben moderato",
       "url": "https://open.spotify.com/track/4wznvZut2lTTZwOjG6jJo6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Music and Memories: Clara Rockmore",
+        "url": "https://open.spotify.com/album/74CsKqZHXphRAMS7dPYnoy"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9sar Franck",
+          "url": "https://open.spotify.com/artist/1C3sffOOvQNUwg4YIsvKqy"
+        },
+        {
+          "name": "Clara Rockmore",
+          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
+        },
+        {
+          "name": "Nadia Reisenberg",
+          "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
+        }
+      ],
+      "duration_ms": 537293,
+      "name": "Sonata for violin and piano: Allegro",
+      "url": "https://open.spotify.com/track/2JU9CepLNuxp0Agyyp3fFr"
     }
   ],
   "unique_name": "This Is Clara Rockmore",

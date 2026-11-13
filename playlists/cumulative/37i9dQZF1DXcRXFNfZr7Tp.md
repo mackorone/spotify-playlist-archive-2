@@ -2,7 +2,7 @@
 
 ### [just hits](https://open.spotify.com/playlist/37i9dQZF1DXcRXFNfZr7Tp)
 
-> Current favorites and exciting new music\. Cover: Olivia Rodrigo
+> Current favorites and exciting new music\. Cover: ADÉLA
 
 1,454 songs - 3 day 3 hr 35 min
 

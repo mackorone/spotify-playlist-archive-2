@@ -1,12 +1,12 @@
 {
   "description": "This is Outkast. The essential tracks, all in one playlist.",
-  "num_followers": 170103,
+  "num_followers": 170115,
   "original_name": "This Is Outkast",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avENAAAAAAA2blclFU/Xdwy9y/HcpmNh",
+  "snapshot_id": "avOwAAAAAABCw+unC27yumyuUahUpsad",
   "tracks": [
     {
       "added_at": null,
@@ -707,6 +707,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "In Due Time",
+        "url": "https://open.spotify.com/album/06ECofyrsfq7eyIoeWV0QU"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        },
+        {
+          "name": "CeeLo Green",
+          "url": "https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8"
+        }
+      ],
+      "duration_ms": 260284,
+      "name": "In Due Time (with Cee-Lo)",
+      "url": "https://open.spotify.com/track/0F7IWMsRmk9P9ML4prVlr0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Gangsta Grillz The Album",
         "url": "https://open.spotify.com/album/68lSPhhVV4hoe95OIaAwec"
       },
@@ -731,26 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In Due Time",
-        "url": "https://open.spotify.com/album/06ECofyrsfq7eyIoeWV0QU"
-      },
-      "artists": [
-        {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        },
-        {
-          "name": "CeeLo Green",
-          "url": "https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8"
-        }
-      ],
-      "duration_ms": 260284,
-      "name": "In Due Time (with Cee-Lo)",
-      "url": "https://open.spotify.com/track/0F7IWMsRmk9P9ML4prVlr0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Idlewild",
         "url": "https://open.spotify.com/album/3L6JBfRxhzGzhhRDlTEdBz"
       },
@@ -758,11 +758,19 @@
         {
           "name": "Outkast",
           "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
         }
       ],
-      "duration_ms": 204160,
-      "name": "Idlewild Blue (Don'tchu Worry 'Bout Me)",
-      "url": "https://open.spotify.com/track/3tkbjyAmQnGsD52Rn8TCX8"
+      "duration_ms": 323000,
+      "name": "Hollywood Divorce (feat. Snoop Dogg & Lil' Wayne)",
+      "url": "https://open.spotify.com/track/1gZZyC3EEw8hwqoYRZqypC"
     },
     {
       "added_at": null,
@@ -846,19 +854,11 @@
         {
           "name": "Outkast",
           "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
         }
       ],
-      "duration_ms": 323000,
-      "name": "Hollywood Divorce (feat. Snoop Dogg & Lil' Wayne)",
-      "url": "https://open.spotify.com/track/1gZZyC3EEw8hwqoYRZqypC"
+      "duration_ms": 204160,
+      "name": "Idlewild Blue (Don'tchu Worry 'Bout Me)",
+      "url": "https://open.spotify.com/track/3tkbjyAmQnGsD52Rn8TCX8"
     },
     {
       "added_at": null,

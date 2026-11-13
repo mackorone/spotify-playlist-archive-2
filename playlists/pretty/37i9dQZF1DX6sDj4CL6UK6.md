@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 
 > English songs from Indian artists.<br/>Cover: The F16s
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,316 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,319 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 | 28 | [Return to Sender](https://open.spotify.com/track/1BOZEfrcvYQ9INFLxXvQFW) | [Anoushka Maskey](https://open.spotify.com/artist/2nDgCBr8jDMiGFjTkwR6ph), [sudan](https://open.spotify.com/artist/7xLQxBMXlCJT50jWVZfSME) | [Epilogue One](https://open.spotify.com/album/2KvQJaq8CeVuTGLVIp1Frf) | 4:14 |
 | 29 | [La La Land](https://open.spotify.com/track/4ntSlRcL76zb4dhiBycTUo) | [Taba Chake](https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy) | [Khud Ko Miloon](https://open.spotify.com/album/4a8jBar9By0bgZnzgsKp29) | 2:40 |
 | 30 | [I for Little Things](https://open.spotify.com/track/5FPR2368qwMCNyA8hIV8cK) | [Easy Wanderlings](https://open.spotify.com/artist/2hfWu4We2fbIRY9kClxBHT) | [As Written in the Stars](https://open.spotify.com/album/4E1if5BmJTV3ryoNkVGFzm) | 3:45 |
-| 31 | [Attached](https://open.spotify.com/track/4LXP4tw0mucgLy8zeNj7lL) | [RANJ](https://open.spotify.com/artist/1vR6C8xoVTgy9yVRsCsr7H), [Clifr](https://open.spotify.com/artist/1o9ja4Dha8IqKI3e5DpH14), [Issamood](https://open.spotify.com/artist/4CM8qfix2AYlwVU0iUIxAW) | [593, Vol\. I](https://open.spotify.com/album/1UtL4DXUWM7Qs6TeL42I5I) | 2:10 |
-| 32 | [Hourglass](https://open.spotify.com/track/2XoGeM2c6R2UFz8SKnJ0WV) | [Run it's the Kid](https://open.spotify.com/artist/36057fby7tY856T2vg7jQj) | [Hourglass](https://open.spotify.com/album/2XYwu6Gzx44CvbVCdjhWGE) | 2:56 |
+| 31 | [Hourglass](https://open.spotify.com/track/2XoGeM2c6R2UFz8SKnJ0WV) | [Run it's the Kid](https://open.spotify.com/artist/36057fby7tY856T2vg7jQj) | [Hourglass](https://open.spotify.com/album/2XYwu6Gzx44CvbVCdjhWGE) | 2:56 |
+| 32 | [Attached](https://open.spotify.com/track/4LXP4tw0mucgLy8zeNj7lL) | [RANJ](https://open.spotify.com/artist/1vR6C8xoVTgy9yVRsCsr7H), [Clifr](https://open.spotify.com/artist/1o9ja4Dha8IqKI3e5DpH14), [Issamood](https://open.spotify.com/artist/4CM8qfix2AYlwVU0iUIxAW) | [593, Vol\. I](https://open.spotify.com/album/1UtL4DXUWM7Qs6TeL42I5I) | 2:10 |
 | 33 | [Champagne Roses](https://open.spotify.com/track/0jk7q9bU2L9c5We9qsosGD) | [Vidya Vox](https://open.spotify.com/artist/4OFJbe1HHVcpnw480py1uN) | [Sundari](https://open.spotify.com/album/6qvcpPDHrLbSdIHavSCcst) | 2:15 |
 | 34 | [Indigo](https://open.spotify.com/track/7mlGKWXA5ZV6HZibmRruqD) | [Dot.](https://open.spotify.com/artist/1Z0J1QCG3GekVONuHuhCu4) | [Indigo](https://open.spotify.com/album/1eGowsUsY6D99t8NsxpRK7) | 3:20 |
 | 35 | [Better Than It All](https://open.spotify.com/track/4CZLWB9teKNiyIN94aovSo) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [Songs From a Matchbox](https://open.spotify.com/album/3fHUM1ZwOd4kP120mHbLxd) | 3:01 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 | 45 | [forget your name](https://open.spotify.com/track/5HMJr3qOYf7Bjd58UNvGDY) | [Ramya Pothuri](https://open.spotify.com/artist/0JgLc59DdeDlgyZtnvAJQ6) | [forget your name](https://open.spotify.com/album/2ZwwjE0KXrvn5UnHXcbaR3) | 3:55 |
 | 46 | [the party song](https://open.spotify.com/track/3KPXbXXOS2oJbXOaX6xP27) | [Shikhar](https://open.spotify.com/artist/0P5toqZxqkmKyhFXYES2k9), [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [the party song](https://open.spotify.com/album/63sVUToNMo3Buh9GwODQRZ) | 3:04 |
 | 47 | [Kindergarten Juliet](https://open.spotify.com/track/5hpvF3zigqgwOicVeeyMoX) | [Janisht Joshi](https://open.spotify.com/artist/0lxFJDXOwwxbYpo0EnA51Z), [Timothy Thampy](https://open.spotify.com/artist/516N84Zm8jTFBAIDSK3uLK) | [Kindergarten Juliet](https://open.spotify.com/album/71UxutgcpGPi7IvNc4d8sk) | 2:54 |
-| 48 | [Glimpses](https://open.spotify.com/track/45mn7PSl1pgVo23ufjcGjT) | [Nida](https://open.spotify.com/artist/3uJI2m1BhqeAmoYBzRcuLs), [Derric D'souza](https://open.spotify.com/artist/5d5eoKkR83aVdBq4CCHG1b) | [Glimpses](https://open.spotify.com/album/1sPxlbBKXOEEpaf6tCYuY1) | 3:33 |
-| 49 | [Cop Shot A Man](https://open.spotify.com/track/6yv6SivWda8eKjpFovPRoG) | [Yelhomie](https://open.spotify.com/artist/3KdTZY35jd30GyLTpOdj7A) | [Cop Shot A Man](https://open.spotify.com/album/2NPQuhVJyYPGuoNJJWVtXN) | 2:40 |
+| 48 | [Cop Shot A Man](https://open.spotify.com/track/6yv6SivWda8eKjpFovPRoG) | [Yelhomie](https://open.spotify.com/artist/3KdTZY35jd30GyLTpOdj7A) | [Cop Shot A Man](https://open.spotify.com/album/2NPQuhVJyYPGuoNJJWVtXN) | 2:40 |
+| 49 | [Glimpses](https://open.spotify.com/track/45mn7PSl1pgVo23ufjcGjT) | [Nida](https://open.spotify.com/artist/3uJI2m1BhqeAmoYBzRcuLs), [Derric D'souza](https://open.spotify.com/artist/5d5eoKkR83aVdBq4CCHG1b) | [Glimpses](https://open.spotify.com/album/1sPxlbBKXOEEpaf6tCYuY1) | 3:33 |
 | 50 | [No One's Baby](https://open.spotify.com/track/7jBaw5iWZmvbga7nIbp7Y4) | [Kiara Chettri](https://open.spotify.com/artist/6bO1Y6AkZ6jtWqmktvmmJ5) | [No One's Baby](https://open.spotify.com/album/6nMYUfTcGxnYyfjUxj0RJI) | 3:26 |
 
 Snapshot ID: `AAAAAIIMh7dk8sdk6G+AgGHsSqkyrxgf`

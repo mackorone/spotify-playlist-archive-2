@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDmc9mJCPQno.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1xzZPyV5jY8bYYNtAUkyOx">Lauren Aquilina</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,236 likes - 137 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,237 likes - 137 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,9 +105,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDmc9mJCPQno.md) - [plain]
 | 95 | [Slutphase](https://open.spotify.com/track/1R3QjFdho8jtsv38Hd2BIL) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [Halfway](https://open.spotify.com/album/79Go9MHdjw3lw66GOQXgOK) | 2:43 |
 | 96 | [Backwards](https://open.spotify.com/track/1pgKXLlRX9hnQGpIEdJbrW) | [Weeekly](https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m) | [ColoRise](https://open.spotify.com/album/1VJ62OC6tQN9n5ss3uEQyr) | 2:41 |
 | 97 | [sims](https://open.spotify.com/track/0mPh3y1fgrZiWlhuNmPq5Y) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [sims](https://open.spotify.com/album/3LezwC2bGCJNNCN5l6hs0y) | 2:42 |
-| 98 | [Visions Again](https://open.spotify.com/track/3HqTbczmmX5sl7x3SN10Vk) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [Age of the Exhibitionist](https://open.spotify.com/album/3x8qThM7qP41LYoEhVerfm) | 3:42 |
-| 99 | [Sadtown USA](https://open.spotify.com/track/1JSPW0h57CHHDFABPH6VxR) | [Carol Ades](https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr) | [Special](https://open.spotify.com/album/6Gu8z975FwatmYxpXNG1hh) | 3:10 |
-| 100 | [SNAKESKIN](https://open.spotify.com/track/5arHkz1Dnm4vsUviReYjN2) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Looks Can Kill \(Alawn Remix Edition\)](https://open.spotify.com/album/0v50ktncrrqM0Cjrgxzb6i) | 3:21 |
+| 98 | [SNAKESKIN](https://open.spotify.com/track/5arHkz1Dnm4vsUviReYjN2) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Looks Can Kill \(Alawn Remix Edition\)](https://open.spotify.com/album/0v50ktncrrqM0Cjrgxzb6i) | 3:21 |
+| 99 | [Visions Again](https://open.spotify.com/track/3HqTbczmmX5sl7x3SN10Vk) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [Age of the Exhibitionist](https://open.spotify.com/album/3x8qThM7qP41LYoEhVerfm) | 3:42 |
+| 100 | [Sadtown USA](https://open.spotify.com/track/1JSPW0h57CHHDFABPH6VxR) | [Carol Ades](https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr) | [Special](https://open.spotify.com/album/6Gu8z975FwatmYxpXNG1hh) | 3:10 |
 | 101 | [fix](https://open.spotify.com/track/66Zc5zZOrGOovGP5VDSu1d) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [BUZZKILL](https://open.spotify.com/album/41oBhRyeuyMHkVdp2LYVJE) | 2:52 |
 | 102 | [Cruel To Be Kind](https://open.spotify.com/track/6TrwwLTF6FqnqIqgwDb2SB) | [Ea Kaya](https://open.spotify.com/artist/2cMDCP6zOLaPPbOXMD4193) | [Cruel To Be Kind](https://open.spotify.com/album/2Y5krCslXIJ2BGz6LNU3sP) | 2:53 |
 | 103 | [Limoncello](https://open.spotify.com/track/1MzrmkSpQO3z0xBIWkh9s0) | [CHUU](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [XO, My Cyberlove](https://open.spotify.com/album/2sVppxhqMC6qFOp1Xxvy8Q) | 2:39 |
@@ -146,4 +146,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDmc9mJCPQno.md) - [plain]
 | 136 | [It's Mean When You Don't Mean It](https://open.spotify.com/track/06qDeXAlTAspztapKBCQXs) | [Grace Davies](https://open.spotify.com/artist/55VbVrjmAWcvCknVFfPzvK) | [The Wrong Side of 25](https://open.spotify.com/album/1ts3tatZuXKtmyTbyqybKS) | 4:09 |
 | 137 | [lie to myself](https://open.spotify.com/track/5p60aTSUb3ZLG1HbUbuJLW) | [amber\-liz](https://open.spotify.com/artist/1OWB13bPhotfvAdQjiIdP5) | [lie to myself](https://open.spotify.com/album/1xtYNQqeWrRvhraE3uiWcs) | 2:33 |
 
-Snapshot ID: `AchbMAAAAACb45r0c2uZc1VKgrbwUMvo`
+Snapshot ID: `AchglAAAAACSxjOQ7iJ9qtY6HqCPdzMF`

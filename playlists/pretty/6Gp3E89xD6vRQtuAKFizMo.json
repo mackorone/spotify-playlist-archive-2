@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every week!",
-  "num_followers": 43185,
+  "num_followers": 43182,
   "original_name": "DIM MAK: IN ROTATION",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "AAAa63KHxdzQHM1vFQnUw7rTZrcMmyK/",
+  "snapshot_id": "AAAa7tuXfQzjNaTGmcThfJjk+ako63AZ",
   "tracks": [
+    {
+      "added_at": "2026-11-13 05:25:59",
+      "album": {
+        "name": "HIGH IMPACT MATERIAL (H.I.M.)",
+        "url": "https://open.spotify.com/album/7rz3YHPoC1TG5iXEQVKksA"
+      },
+      "artists": [
+        {
+          "name": "HIGHSOCIETY",
+          "url": "https://open.spotify.com/artist/32MQN2sITkJGNQN40QLPEa"
+        },
+        {
+          "name": "Trippz Michaud",
+          "url": "https://open.spotify.com/artist/7aZkfILPe29ylBS64DCGds"
+        }
+      ],
+      "duration_ms": 145655,
+      "name": "H.I.M.",
+      "url": "https://open.spotify.com/track/0cS1M0GcQqWBa2uB21wgFR"
+    },
     {
       "added_at": "2026-11-06 12:57:40",
       "album": {

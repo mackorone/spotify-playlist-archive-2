@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1c2S9zEjadnB6Mt2aOOLWn">Ollie Green</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-216 songs - 11 hr 23 min
+217 songs - 11 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [Loved Somebody Else](https://open.spotify.com/track/03S5dBXGXyS8S9fyLNRS2P) | [St\. Lundi](https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH) | [The Island](https://open.spotify.com/album/1sDwclBLUytS3yXeelFMK9) | 3:12 | 2024-09-22 |  |
 | [Loved Somebody Else](https://open.spotify.com/track/5zWjUmp1laBahCxtmKnO7o) | [St\. Lundi](https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH) | [Loved Somebody Else](https://open.spotify.com/album/5ithKxVdpmbeGSTzAg8wU0) | 3:12 | 2024-07-28 | 2024-09-23 |
 | [Me Before You](https://open.spotify.com/track/13VyJynuETCwjT17XXZbkL) | [Mali\-Koa](https://open.spotify.com/artist/45Dc572GdbJ6Guc8X3UW24) | [Hunger](https://open.spotify.com/album/16t2OtzcshZ9wcDMk75hw1) | 3:19 | 2024-01-29 |  |
+| [Million Nights](https://open.spotify.com/track/5XaHxpg5B86KQRRZPdzODQ) | [Joris Sava](https://open.spotify.com/artist/7M7NxBEoOEg35yqUyLRTgT), [Stephen Puth](https://open.spotify.com/artist/6B72wjgAkhvxTVCL6xS6mC) | [Million Nights](https://open.spotify.com/album/5oH8MgoGiLtGifHR48I4IN) | 2:05 | 2026-11-12 |  |
 | [Missing Piece](https://open.spotify.com/track/0cnx25C8BdsEEumqvzXjAF) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Missing Piece](https://open.spotify.com/album/3ISKoozRNGwImVBOrOYw6R) | 2:48 | 2026-10-21 |  |
 | [Mother](https://open.spotify.com/track/6w0UT19dw0IRWtLMQyn1Sq) | [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [Mother](https://open.spotify.com/album/3PzaUA5NnjrDsDECx5tcSe) | 3:19 | 2024-01-29 |  |
 | [Moving Mountains \(feat\. Ollie Green\) \- GATTÜSO Remix](https://open.spotify.com/track/0V3hcG44S4Qg5QgJfQgrEq) | [Disco Fries](https://open.spotify.com/artist/7G7KvDCLdVG0Ok511Iqc9U), [Ollie Green](https://open.spotify.com/artist/2PCKbRUI5rGUwOkGXX2W5U), [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic) | [Moving Mountains \(feat\. Ollie Green\) \[GATTÜSO Remix\]](https://open.spotify.com/album/3cPMzHoZFWnBKeOUVMCTrq) | 3:02 | 2024-01-29 | 2026-06-23 |

@@ -1893,6 +1893,24 @@
     },
     {
       "album": {
+        "name": "Critical Analysis",
+        "url": "https://open.spotify.com/album/3EWXE8YnopD7OGwWQQPZzF"
+      },
+      "artists": [
+        {
+          "name": "LECKI LECKI",
+          "url": "https://open.spotify.com/artist/68G5m61q5sMimRnEHrcEGF"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239105,
+      "name": "Critical Analysis",
+      "url": "https://open.spotify.com/track/4boYzmLVSF6gvD5UWRxt9T"
+    },
+    {
+      "album": {
         "name": "My Star (Deluxe)",
         "url": "https://open.spotify.com/album/3jXRErosrQELn4XWbP4Ucw"
       },

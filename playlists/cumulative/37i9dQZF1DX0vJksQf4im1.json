@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Mark\u5be6\u5462\u500b\u6b4c\u55ae\uff0c\u5c31\u5514\u9a5a\u932f\u904e\u9999\u6e2fhit \u7dca\u5605Pop Songs \u5566\uff01Cover: Dove Cameron",
+  "description": "Mark\u5be6\u5462\u500b\u6b4c\u55ae\uff0c\u5c31\u5514\u9a5a\u932f\u904e\u9999\u6e2fhit \u7dca\u5605Pop Songs \u5566\uff01Cover: FLO",
   "name": "Big In Hong Kong",
   "tracks": [
     {
@@ -356,7 +356,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 175866,
       "name": "AH HA",
       "url": "https://open.spotify.com/track/6fQeVMxEg2FSKfsQm5ArVR"
@@ -932,6 +932,28 @@
       "duration_ms": 160111,
       "name": "BLISS",
       "url": "https://open.spotify.com/track/4dnjLEblR5XKUMJ5ELQceh"
+    },
+    {
+      "album": {
+        "name": "Blood In Your Eyes (from GTAVI: The Album)",
+        "url": "https://open.spotify.com/album/2J5ttiLhgBPxcLyHlhQVKO"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161219,
+      "name": "Blood In Your Eyes (from GTAVI: The Album)",
+      "url": "https://open.spotify.com/track/4h3tY2zV4easaHEAbHVmgj"
     },
     {
       "album": {
@@ -3656,7 +3678,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 261427,
       "name": "Harmony",
       "url": "https://open.spotify.com/track/57a0usyQgVXthMoFZotx85"
@@ -5204,6 +5226,24 @@
       "duration_ms": 176993,
       "name": "Leather Weather",
       "url": "https://open.spotify.com/track/4a9axdtH9qFx0nMiKjwChd"
+    },
+    {
+      "album": {
+        "name": "Leave You (Never)",
+        "url": "https://open.spotify.com/album/719K239D6kQI3oi3Bw8rbJ"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168154,
+      "name": "Leave You (Never)",
+      "url": "https://open.spotify.com/track/3e3CdVMNH7gIvjKrzO63b7"
     },
     {
       "album": {
@@ -9542,7 +9582,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 185000,
       "name": "This & That",
       "url": "https://open.spotify.com/track/7AN7dJCtHqbL7f76QGyraa"
@@ -9706,6 +9746,28 @@
       "duration_ms": 171618,
       "name": "Too Much Of A Good Thing",
       "url": "https://open.spotify.com/track/6Qba5LA11rNI9PyXDBeva7"
+    },
+    {
+      "album": {
+        "name": "Carnaval De Luz",
+        "url": "https://open.spotify.com/album/07Q9bUJarYrFjhxofoenM0"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270285,
+      "name": "Torn (feat. Dolly Parton)",
+      "url": "https://open.spotify.com/track/28voksbZPIhS2dJV6iLS1h"
     },
     {
       "album": {

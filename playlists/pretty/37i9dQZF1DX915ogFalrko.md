@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX915ogFalrko.md) - [plain]
 
 > La playlist à la cool pour accompagner votre dîner !
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,727 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,730 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,13 +46,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX915ogFalrko.md) - [plain]
 | 36 | [Old Lovers \(feat\. The Lumineers\)](https://open.spotify.com/track/2jkKCfee2ib4zQO73tdrzG) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX), [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Old Lovers \(feat\. The Lumineers\)](https://open.spotify.com/album/2ZXrSjTOvBGvcW0m61XKHR) | 3:33 |
 | 37 | [Lucky Again](https://open.spotify.com/track/0n63xAny4NjxRNgKnboEp8) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Lucky Again](https://open.spotify.com/album/51she33GpvE2U3e6HZ41fD) | 3:01 |
 | 38 | [Real!](https://open.spotify.com/track/1yxpRDrcK5ExwNiThPa9Uh) | [Dream Boat](https://open.spotify.com/artist/6oRvLsN1PnXplBf6mLS940) | [Real!](https://open.spotify.com/album/4fD8azzRJrj1pkzk1ra0ZG) | 2:58 |
-| 39 | [Make believe](https://open.spotify.com/track/5RoQY3o3b6rupkNpNmuj8P) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Make believe](https://open.spotify.com/album/1lglf5yZbn6fAgE7Iay13V) | 3:30 |
-| 40 | [Flor de canela](https://open.spotify.com/track/7LYgPSU65SUgWju5fsF6GG) | [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [Flor de canela](https://open.spotify.com/album/3kJbxVlwtM3VELeSFzeevg) | 3:49 |
+| 39 | [Flor de canela](https://open.spotify.com/track/7LYgPSU65SUgWju5fsF6GG) | [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [Flor de canela](https://open.spotify.com/album/3kJbxVlwtM3VELeSFzeevg) | 3:49 |
+| 40 | [One song away from crying](https://open.spotify.com/track/7EzqmGOTlrzy1NxZRjeuVV) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [One song away from crying](https://open.spotify.com/album/5xQgMsnL5a1SmABhKGhtN3) | 3:39 |
 | 41 | [Dance It Out](https://open.spotify.com/track/1TZngJL0DBk2i13ESMiDBQ) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Endless Summer](https://open.spotify.com/album/6YDXIYzh182auw0avklzbq) | 3:14 |
 | 42 | [Save a Little Love for Me](https://open.spotify.com/track/6lqxlJWNaykLli5cIXMf7l) | [Club des Belugas](https://open.spotify.com/artist/3ea1ZpptTqS5pwYYpQQVCo), [Ester Rada](https://open.spotify.com/artist/7JTo5JZjCoBQ7CLUqnkw3g) | [Forward](https://open.spotify.com/album/2UCpwkWg7BuHe2bHD0MTfC) | 3:32 |
 | 43 | [Where To Start](https://open.spotify.com/track/2bhfHrX4IJzF62XKzqZpPX) | [Lou Doillon](https://open.spotify.com/artist/05TeWWFqSVEUurt1lVhh4q) | [Lay Low](https://open.spotify.com/album/06TZNVLfMrf0vtk0WsYwj4) | 2:46 |
-| 44 | [One song away from crying](https://open.spotify.com/track/7EzqmGOTlrzy1NxZRjeuVV) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [One song away from crying](https://open.spotify.com/album/5xQgMsnL5a1SmABhKGhtN3) | 3:39 |
-| 45 | [Things Take Time](https://open.spotify.com/track/6FDIHTvOLT5HC4LqtZPWaE) | [Gang of Youths](https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8) | [Things Take Time](https://open.spotify.com/album/2RsdNUtkxHHG30160YqS2e) | 3:14 |
+| 44 | [Things Take Time](https://open.spotify.com/track/6FDIHTvOLT5HC4LqtZPWaE) | [Gang of Youths](https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8) | [Things Take Time](https://open.spotify.com/album/2RsdNUtkxHHG30160YqS2e) | 3:14 |
+| 45 | [Make believe](https://open.spotify.com/track/5RoQY3o3b6rupkNpNmuj8P) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Make believe](https://open.spotify.com/album/1lglf5yZbn6fAgE7Iay13V) | 3:30 |
 | 46 | [Shala\-Lala\-La](https://open.spotify.com/track/3fv0dIDalzlgaLRAvaBobT) | [Waldeck](https://open.spotify.com/artist/6596yDTd94cIC3dlBptxDH), [la Heidi](https://open.spotify.com/artist/5uaGhmrko7vQ43FKH1V1KT) | [Gran Paradiso](https://open.spotify.com/album/4e8YIEAGQlDLpka8wkiZBM) | 3:15 |
 | 47 | [Mi Negrita](https://open.spotify.com/track/4r7iDEGdW2Gw9hJlCbi5qL) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [Mala](https://open.spotify.com/album/1Z69PSnbIBojgF9NBJbKca) | 3:24 |
 | 48 | [No Thank You, I Love You, Goodbye](https://open.spotify.com/track/068okUVy4duZQXGEIQbn4g) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [No Thank You, I Love You, Goodbye](https://open.spotify.com/album/7fcQkW0AShSOGLl1gKYpRj) | 2:59 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX915ogFalrko.md) - [plain]
 | 86 | [I Only Have Eyes for You](https://open.spotify.com/track/2oSMcZnGARuxk10qd6AXrT) | [The Flamingos](https://open.spotify.com/artist/6iygtKnPG7TRvDaTYcLOd6) | [Flamingo Serenades / Flamingo Favorites](https://open.spotify.com/album/2blBb1v0ylNOrzStHBhK48) | 3:18 |
 | 87 | [Polaroïds](https://open.spotify.com/track/0ZJ2ZHD0KWc5lVGqwdg0rJ) | [Lescop](https://open.spotify.com/artist/2KlDlqEMf0YyYW8rBKUx6W), [Marie\-Flore](https://open.spotify.com/artist/3bM1MZ42q6lUJqHDaDwcKr) | [Polaroïds](https://open.spotify.com/album/68njeIGDJzBKotnUzAXBVl) | 3:13 |
 | 88 | [Superstar](https://open.spotify.com/track/6q62w26Uyzanb0iBu4yZK4) | [BLOW](https://open.spotify.com/artist/39HLbTdg48gwqAIa1CA266) | [Superstar](https://open.spotify.com/album/2CsUNscxXXxaA4uQPR1pJt) | 3:18 |
-| 89 | [Goanna](https://open.spotify.com/track/1WlbrsIoyEIaEEXLRZohp7) | [The Rubens](https://open.spotify.com/artist/2hrWpLNoJcs1EnWSXvB6JI) | [Goanna](https://open.spotify.com/album/3WK8szrOf9AHVBuBJyPjmg) | 2:59 |
-| 90 | [Dark Blue](https://open.spotify.com/track/4JOMI2LLRrhqnq5iXnx4hh) | [Lilly Wood and The Prick](https://open.spotify.com/artist/50OApTJurDusIo9dGTqSU4) | [Christina](https://open.spotify.com/album/1cPnlRW7jlDjRT40IjgZ4V) | 2:49 |
+| 89 | [Dark Blue](https://open.spotify.com/track/4JOMI2LLRrhqnq5iXnx4hh) | [Lilly Wood and The Prick](https://open.spotify.com/artist/50OApTJurDusIo9dGTqSU4) | [Christina](https://open.spotify.com/album/1cPnlRW7jlDjRT40IjgZ4V) | 2:49 |
+| 90 | [Goanna](https://open.spotify.com/track/1WlbrsIoyEIaEEXLRZohp7) | [The Rubens](https://open.spotify.com/artist/2hrWpLNoJcs1EnWSXvB6JI) | [Goanna](https://open.spotify.com/album/3WK8szrOf9AHVBuBJyPjmg) | 2:59 |
 | 91 | [Fou de toi](https://open.spotify.com/track/7mhYCEcW500M6qGhPRMk4R) | [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf) | [Fou de toi](https://open.spotify.com/album/4BrmiAZdqo2nXSLt9v2fVS) | 2:20 |
 | 92 | [idole](https://open.spotify.com/track/67nA20J1o1iS62jpFJFlhb) | [Louve](https://open.spotify.com/artist/3x5sBirhNbWXVt1DwivDOI) | [idole](https://open.spotify.com/album/4QfPMWmVaTENkTFrmA6Gzi) | 2:18 |
 | 93 | [Give Me Your Love Back](https://open.spotify.com/track/070mI5fDgAV77ZBrmoAcfs) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Give Me Your Love Back](https://open.spotify.com/album/4r1zRFQ6pgIPFid4U7ztUO) | 2:56 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX915ogFalrko.md) - [plain]
 | 96 | [Don't Forget Yourself](https://open.spotify.com/track/7deM9Z7kgdp1laZQYaDUnw) | [Møme](https://open.spotify.com/artist/4lDXfIznmGueBgTjI3qGUX), [Ricky Ducati](https://open.spotify.com/artist/66OCo8OcuPNrW6QLfmn7PE) | [California Calling](https://open.spotify.com/album/663dH6X55PAbCCLWa7Dwfp) | 3:21 |
 | 97 | [Rapids of Love](https://open.spotify.com/track/5FGGgeSA7S5acKX1Z5nQPp) | [Courrier Sud](https://open.spotify.com/artist/2qR0Z9tF5eXGAyZFWQWtOm) | [Rapids of Love](https://open.spotify.com/album/0fZHbSZLXoslXNX1xuaC8D) | 2:45 |
 | 98 | [Too High](https://open.spotify.com/track/0efZvIaR1KatgP0Eudg2sH) | [Golf Trip](https://open.spotify.com/artist/2cSZwherHAASXofK9ZFK2A) | [Too High](https://open.spotify.com/album/2ReD4xaHjWDIsGvZoUfdgb) | 3:58 |
-| 99 | [END OF THE SKY](https://open.spotify.com/track/2laWkyz40Hn8PCodiCTo4Z) | [JVLY](https://open.spotify.com/artist/52flspAUwzY59cow3QC53f) | [END OF THE SKY](https://open.spotify.com/album/6cyLb8x3s5tF76GY0uzF45) | 2:39 |
+| 99 | [Best of It](https://open.spotify.com/track/5m2BZspGkunCWFZcgSOb7u) | [Blasé](https://open.spotify.com/artist/4PqSBgXKxQuqclKpwB6iuc) | [Best of It](https://open.spotify.com/album/5Z1OyunLYvWm78f4EaFU8M) | 2:57 |
 | 100 | [Origami](https://open.spotify.com/track/2kbAnjDgC3pmHvhPMnPSsj) | [Claudia Isaki](https://open.spotify.com/artist/5Q8asiEUYLobc6DvKIsqOP) | [Origami](https://open.spotify.com/album/0fCTZZuaPxbAb1GArjeGR7) | 3:46 |
 
 Snapshot ID: `AAAAAEyLLla14+bpiBvCtc4FGSorq0sH`

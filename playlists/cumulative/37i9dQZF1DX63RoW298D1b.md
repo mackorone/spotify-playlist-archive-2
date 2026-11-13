@@ -4,7 +4,7 @@
 
 > Soothing piano for the ultimate wind down.
 
-272 songs - 11 hr 27 min
+273 songs - 11 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,6 +195,7 @@
 | [Quietly, continually](https://open.spotify.com/track/7btf0vfKva9sZ8u4kj84kp) | [Jaquline Falsamo](https://open.spotify.com/artist/4mKpjCmlzJF2PgO8SKwFhK) | [Quietly, continually](https://open.spotify.com/album/0hwbRaVJAjhTTtUA8FE25Q) | 2:18 | 2023-05-09 | 2024-08-08 |
 | [Rays](https://open.spotify.com/track/1o23KVEUtj9M51iEGJg78o) | [Floyd Nova](https://open.spotify.com/artist/4aPhtYq4FqnbM02GHtZHhz) | [Rays](https://open.spotify.com/album/2AP9ZRgQEolXjRccHlPqw1) | 2:33 | 2025-03-20 |  |
 | [Reclined](https://open.spotify.com/track/28JPAfn7GrCkx5yiHBV5xC) | [Rellendum](https://open.spotify.com/artist/35Dv8voHOrXTBT26FFYTxY) | [Reclined](https://open.spotify.com/album/63ejfiiNwhnQI6CLjA2Eul) | 2:20 | 2026-07-03 |  |
+| [Remnants of a Memory](https://open.spotify.com/track/49DMiXUF1lscU8hXtLmvmR) | [Alverano](https://open.spotify.com/artist/1VEBBMIpdfhDmssFDcnkf9) | [Remnants of a Memory](https://open.spotify.com/album/5ShbkkjBraLpSswPuwfy64) | 2:30 | 2026-11-13 |  |
 | [Residue](https://open.spotify.com/track/1G8rGktpVVsVB6k15w8VKk) | [Adam Estrin](https://open.spotify.com/artist/0RyjN3ANxbj9V5mG1WiYF4) | [Residue](https://open.spotify.com/album/0r7pTejrU8nkzap2IroW2z) | 2:26 | 2023-05-09 | 2024-02-14 |
 | [Revelations](https://open.spotify.com/track/0yWAXojIUz6zPGAUGpkgeo) | [Simon Strella](https://open.spotify.com/artist/0oUJgwFn9WchGSTdT7ODyZ) | [Revelations](https://open.spotify.com/album/6Vhv1wbp54xcR3YtxFO2o7) | 2:25 | 2026-07-03 |  |
 | [Reverie](https://open.spotify.com/track/58iu44DB0JdKTGXYfbIYMA) | [Yuko Kimura](https://open.spotify.com/artist/4sVQyVPaGQ1MzslDmkf8nn) | [Reverie](https://open.spotify.com/album/6UI7QQxBRpKU8lstoM4ncP) | 2:30 | 2024-03-05 |  |

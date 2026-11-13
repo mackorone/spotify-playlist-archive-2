@@ -1,6 +1,6 @@
 {
   "description": "The soft sound of some of the smoothest and sweetest vocal Jazz.",
-  "num_followers": 300548,
+  "num_followers": 300596,
   "original_name": "Sweet Jazz",
   "owner": {
     "name": "Spotify",
@@ -171,6 +171,22 @@
     {
       "added_at": "2026-07-03 04:00:58",
       "album": {
+        "name": "Bare Bones",
+        "url": "https://open.spotify.com/album/5WSZnecSUMQprzWZLlk5ha"
+      },
+      "artists": [
+        {
+          "name": "Madeleine Peyroux",
+          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
+        }
+      ],
+      "duration_ms": 237800,
+      "name": "To Love You All Over Again",
+      "url": "https://open.spotify.com/track/4EPwpBN0t11bIxjsAI8oaF"
+    },
+    {
+      "added_at": "2026-07-03 04:00:58",
+      "album": {
         "name": "Sarah Vaughan",
         "url": "https://open.spotify.com/album/7wX89EWCK8cNZeGnBS5bMG"
       },
@@ -187,22 +203,6 @@
       "duration_ms": 291173,
       "name": "Embraceable You",
       "url": "https://open.spotify.com/track/5m3XMzewNg9EADweC7j7Nn"
-    },
-    {
-      "added_at": "2026-07-03 04:00:58",
-      "album": {
-        "name": "Bare Bones",
-        "url": "https://open.spotify.com/album/5WSZnecSUMQprzWZLlk5ha"
-      },
-      "artists": [
-        {
-          "name": "Madeleine Peyroux",
-          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
-        }
-      ],
-      "duration_ms": 237800,
-      "name": "To Love You All Over Again",
-      "url": "https://open.spotify.com/track/4EPwpBN0t11bIxjsAI8oaF"
     },
     {
       "added_at": "2026-07-03 04:00:58",
@@ -275,22 +275,6 @@
     {
       "added_at": "2026-07-03 04:00:58",
       "album": {
-        "name": "Once Upon A Summertime",
-        "url": "https://open.spotify.com/album/5pJeMvBDbvBnmDJsd0Up9n"
-      },
-      "artists": [
-        {
-          "name": "Blossom Dearie",
-          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
-        }
-      ],
-      "duration_ms": 204133,
-      "name": "Tea For Two",
-      "url": "https://open.spotify.com/track/6uWGcfyKS2bP63sd2zyswJ"
-    },
-    {
-      "added_at": "2026-07-03 04:00:58",
-      "album": {
         "name": "Jazz Love",
         "url": "https://open.spotify.com/album/2XDDmdrutCzZRwxpkoJBLq"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 306795,
       "name": "If I Ain\u2019t Got You",
       "url": "https://open.spotify.com/track/3WpToBi5wFQpHPo5dVV2MW"
+    },
+    {
+      "added_at": "2026-07-03 04:00:58",
+      "album": {
+        "name": "Once Upon A Summertime",
+        "url": "https://open.spotify.com/album/5pJeMvBDbvBnmDJsd0Up9n"
+      },
+      "artists": [
+        {
+          "name": "Blossom Dearie",
+          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
+        }
+      ],
+      "duration_ms": 204133,
+      "name": "Tea For Two",
+      "url": "https://open.spotify.com/track/6uWGcfyKS2bP63sd2zyswJ"
     },
     {
       "added_at": "2026-07-03 04:00:58",
@@ -671,22 +671,6 @@
     {
       "added_at": "2026-07-03 04:00:58",
       "album": {
-        "name": "Chansons",
-        "url": "https://open.spotify.com/album/7d6I7tR73f3smXLcKQNgF9"
-      },
-      "artists": [
-        {
-          "name": "Chiara Civello",
-          "url": "https://open.spotify.com/artist/4kVBW3oggjJ8epz4NWIGfk"
-        }
-      ],
-      "duration_ms": 311893,
-      "name": "My Way",
-      "url": "https://open.spotify.com/track/3XJC0d3Yo0y17ZtOlOdC3P"
-    },
-    {
-      "added_at": "2026-07-03 04:00:58",
-      "album": {
         "name": "Gabi Hartmann",
         "url": "https://open.spotify.com/album/1blq9cHNkbEFBPNUyUNRLv"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 156391,
       "name": "People Tell Me / Les gens me disent (feat. Julian Lage)",
       "url": "https://open.spotify.com/track/6VpSE1x8TpJ1uVyUbPDoeJ"
+    },
+    {
+      "added_at": "2026-07-03 04:00:58",
+      "album": {
+        "name": "Chansons",
+        "url": "https://open.spotify.com/album/7d6I7tR73f3smXLcKQNgF9"
+      },
+      "artists": [
+        {
+          "name": "Chiara Civello",
+          "url": "https://open.spotify.com/artist/4kVBW3oggjJ8epz4NWIGfk"
+        }
+      ],
+      "duration_ms": 311893,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/3XJC0d3Yo0y17ZtOlOdC3P"
     },
     {
       "added_at": "2026-07-03 04:00:58",
@@ -843,6 +843,22 @@
     {
       "added_at": "2026-07-03 04:00:58",
       "album": {
+        "name": "Castles in the Air",
+        "url": "https://open.spotify.com/album/1gqx5mQl7BM8A1j5QtZt0S"
+      },
+      "artists": [
+        {
+          "name": "Laura & Anton",
+          "url": "https://open.spotify.com/artist/5zhAV9E0xJDguU5SBk39Zy"
+        }
+      ],
+      "duration_ms": 233848,
+      "name": "Castles in the Air",
+      "url": "https://open.spotify.com/track/2EHOINS6ULWahXvResI7mo"
+    },
+    {
+      "added_at": "2026-07-03 04:00:58",
+      "album": {
         "name": "Live at Jamboree - Barcelona",
         "url": "https://open.spotify.com/album/7tXiRWUOJWPqTxFIjbpvue"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 462306,
       "name": "Summer Time",
       "url": "https://open.spotify.com/track/7skpOVKLMC9oUwVcG6mZQ6"
-    },
-    {
-      "added_at": "2026-07-03 04:00:58",
-      "album": {
-        "name": "Castles in the Air",
-        "url": "https://open.spotify.com/album/1gqx5mQl7BM8A1j5QtZt0S"
-      },
-      "artists": [
-        {
-          "name": "Laura & Anton",
-          "url": "https://open.spotify.com/artist/5zhAV9E0xJDguU5SBk39Zy"
-        }
-      ],
-      "duration_ms": 233848,
-      "name": "Castles in the Air",
-      "url": "https://open.spotify.com/track/2EHOINS6ULWahXvResI7mo"
     },
     {
       "added_at": "2026-07-03 04:00:58",
@@ -951,6 +951,22 @@
     {
       "added_at": "2026-07-03 04:00:58",
       "album": {
+        "name": "I Miss You So",
+        "url": "https://open.spotify.com/album/15cL28NaqFZ5ySBqsa64mF"
+      },
+      "artists": [
+        {
+          "name": "Samara Joy",
+          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
+        }
+      ],
+      "duration_ms": 223060,
+      "name": "I Miss You So",
+      "url": "https://open.spotify.com/track/5kCUgjpQKLmA7a2jR0odul"
+    },
+    {
+      "added_at": "2026-07-03 04:00:58",
+      "album": {
         "name": "Carousel",
         "url": "https://open.spotify.com/album/1j8NBe2Zib5DSVC9TSkH6n"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 217208,
       "name": "Carousel",
       "url": "https://open.spotify.com/track/5zSVV1d87RqUFiZx7kPeKd"
-    },
-    {
-      "added_at": "2026-07-03 04:00:58",
-      "album": {
-        "name": "I Miss You So",
-        "url": "https://open.spotify.com/album/15cL28NaqFZ5ySBqsa64mF"
-      },
-      "artists": [
-        {
-          "name": "Samara Joy",
-          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
-        }
-      ],
-      "duration_ms": 223060,
-      "name": "I Miss You So",
-      "url": "https://open.spotify.com/track/5kCUgjpQKLmA7a2jR0odul"
     },
     {
       "added_at": "2026-07-03 04:00:58",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2026-07-03 04:00:58",
       "album": {
-        "name": "I Wanna Be Loved",
-        "url": "https://open.spotify.com/album/0ymGCq0L4ZURIuEpEBli3I"
-      },
-      "artists": [
-        {
-          "name": "Naama",
-          "url": "https://open.spotify.com/artist/1m4JqvlkZXqZxFZjWaY1jg"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "I Wanna Be Loved",
-      "url": "https://open.spotify.com/track/4DVEhmEhTaUhJLGjKvK5FT"
-    },
-    {
-      "added_at": "2026-07-03 04:00:58",
-      "album": {
         "name": "Misty Blue",
         "url": "https://open.spotify.com/album/6p3WU83zSriSXPAMxGZRhQ"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 229226,
       "name": "When I Fall In Love",
       "url": "https://open.spotify.com/track/3qo1rizHmEmLPZbCwYSiKX"
+    },
+    {
+      "added_at": "2026-07-03 04:00:58",
+      "album": {
+        "name": "I Wanna Be Loved",
+        "url": "https://open.spotify.com/album/0ymGCq0L4ZURIuEpEBli3I"
+      },
+      "artists": [
+        {
+          "name": "Naama",
+          "url": "https://open.spotify.com/artist/1m4JqvlkZXqZxFZjWaY1jg"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "I Wanna Be Loved",
+      "url": "https://open.spotify.com/track/4DVEhmEhTaUhJLGjKvK5FT"
     },
     {
       "added_at": "2026-07-03 04:00:58",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2026-07-03 04:00:58",
       "album": {
-        "name": "Stella Cole",
-        "url": "https://open.spotify.com/album/4mH5g7GuW3KGMziYDMHMUx"
-      },
-      "artists": [
-        {
-          "name": "Stella Cole",
-          "url": "https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR"
-        }
-      ],
-      "duration_ms": 201186,
-      "name": "My Future",
-      "url": "https://open.spotify.com/track/6U47K1QjLeN3lcaWVb48SQ"
-    },
-    {
-      "added_at": "2026-07-03 04:00:58",
-      "album": {
         "name": "Careless Love",
         "url": "https://open.spotify.com/album/5Abc3wXAy8U1f79eVn7AGd"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 196346,
       "name": "Don't Cry Baby",
       "url": "https://open.spotify.com/track/6rmfVDXJjjBhDRlPvzR9Gb"
+    },
+    {
+      "added_at": "2026-07-03 04:00:58",
+      "album": {
+        "name": "Stella Cole",
+        "url": "https://open.spotify.com/album/4mH5g7GuW3KGMziYDMHMUx"
+      },
+      "artists": [
+        {
+          "name": "Stella Cole",
+          "url": "https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR"
+        }
+      ],
+      "duration_ms": 201186,
+      "name": "My Future",
+      "url": "https://open.spotify.com/track/6U47K1QjLeN3lcaWVb48SQ"
     },
     {
       "added_at": "2026-07-03 04:00:58",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2026-07-03 04:00:58",
       "album": {
-        "name": "The Art Of Elegance",
-        "url": "https://open.spotify.com/album/2ZdIKuNRW5Jn9Bt1jYkevo"
-      },
-      "artists": [
-        {
-          "name": "Kristin Chenoweth",
-          "url": "https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q"
-        }
-      ],
-      "duration_ms": 189360,
-      "name": "Let\u2019s Fall In Love",
-      "url": "https://open.spotify.com/track/6YCIFKFWx0pxMEUl8Vko6l"
-    },
-    {
-      "added_at": "2026-07-03 04:00:58",
-      "album": {
         "name": "Over The Years",
         "url": "https://open.spotify.com/album/3XE2b9grofAamuVk72wdn5"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 449000,
       "name": "Lucky To Be Me",
       "url": "https://open.spotify.com/track/1NeeobDoLiJb8U7X10vw3t"
+    },
+    {
+      "added_at": "2026-07-03 04:00:58",
+      "album": {
+        "name": "The Art Of Elegance",
+        "url": "https://open.spotify.com/album/2ZdIKuNRW5Jn9Bt1jYkevo"
+      },
+      "artists": [
+        {
+          "name": "Kristin Chenoweth",
+          "url": "https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q"
+        }
+      ],
+      "duration_ms": 189360,
+      "name": "Let\u2019s Fall In Love",
+      "url": "https://open.spotify.com/track/6YCIFKFWx0pxMEUl8Vko6l"
     },
     {
       "added_at": "2026-07-03 04:00:58",
@@ -1571,26 +1571,6 @@
     {
       "added_at": "2026-07-03 04:00:58",
       "album": {
-        "name": "I'll Be Seeing You",
-        "url": "https://open.spotify.com/album/4B3Flfc818jLhdbmbtWRFK"
-      },
-      "artists": [
-        {
-          "name": "Tea Lundgren",
-          "url": "https://open.spotify.com/artist/1hT3SQ8IFTKJ11GQEtVvvc"
-        },
-        {
-          "name": "Gustav Lundgren",
-          "url": "https://open.spotify.com/artist/2Qb6yi78O4qlvQDB5JvZKV"
-        }
-      ],
-      "duration_ms": 231415,
-      "name": "I'll Be Seeing You",
-      "url": "https://open.spotify.com/track/3iVua8sJTifjJgzZFZbczn"
-    },
-    {
-      "added_at": "2026-07-03 04:00:58",
-      "album": {
         "name": "The Women Who Raised Me",
         "url": "https://open.spotify.com/album/2g6J9bq2p9cRxMoBEldSEF"
       },
@@ -1607,6 +1587,26 @@
       "duration_ms": 284127,
       "name": "Pearls",
       "url": "https://open.spotify.com/track/6ys3DgHClE8mCa4sRx8yDQ"
+    },
+    {
+      "added_at": "2026-07-03 04:00:58",
+      "album": {
+        "name": "I'll Be Seeing You",
+        "url": "https://open.spotify.com/album/4B3Flfc818jLhdbmbtWRFK"
+      },
+      "artists": [
+        {
+          "name": "Tea Lundgren",
+          "url": "https://open.spotify.com/artist/1hT3SQ8IFTKJ11GQEtVvvc"
+        },
+        {
+          "name": "Gustav Lundgren",
+          "url": "https://open.spotify.com/artist/2Qb6yi78O4qlvQDB5JvZKV"
+        }
+      ],
+      "duration_ms": 231415,
+      "name": "I'll Be Seeing You",
+      "url": "https://open.spotify.com/track/3iVua8sJTifjJgzZFZbczn"
     },
     {
       "added_at": "2026-07-03 04:00:58",
@@ -1695,38 +1695,6 @@
     {
       "added_at": "2026-07-03 04:00:58",
       "album": {
-        "name": "An Evening with/ Andy James & John Patitucci",
-        "url": "https://open.spotify.com/album/3wmErkWqIMYJiQhplNUPhl"
-      },
-      "artists": [
-        {
-          "name": "Andy James",
-          "url": "https://open.spotify.com/artist/1MXvoR1huidjc1GRRcAs1F"
-        },
-        {
-          "name": "John Patitucci",
-          "url": "https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH"
-        },
-        {
-          "name": "Chris Potter",
-          "url": "https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB"
-        },
-        {
-          "name": "Bill Cunliffe",
-          "url": "https://open.spotify.com/artist/2FfWqpDJg7emSdQljKfwHM"
-        },
-        {
-          "name": "Vinnie Colaiuta",
-          "url": "https://open.spotify.com/artist/3JE0rhvpwUB5mK2OgUnWlO"
-        }
-      ],
-      "duration_ms": 263282,
-      "name": "Autumn In New York (feat. Chris Potter, Bill Cunliffe & Vinnie Colaiuta)",
-      "url": "https://open.spotify.com/track/6DwflQH9R5Y4hpJrGPeNsC"
-    },
-    {
-      "added_at": "2026-07-03 04:00:58",
-      "album": {
         "name": "Lento",
         "url": "https://open.spotify.com/album/3rwV6PZl7zZqDT0BO05eb2"
       },
@@ -1767,6 +1735,38 @@
       "duration_ms": 177438,
       "name": "Night and Day",
       "url": "https://open.spotify.com/track/62T643WK9mZmi0HaXQ7xMY"
+    },
+    {
+      "added_at": "2026-07-03 04:00:58",
+      "album": {
+        "name": "An Evening with/ Andy James & John Patitucci",
+        "url": "https://open.spotify.com/album/3wmErkWqIMYJiQhplNUPhl"
+      },
+      "artists": [
+        {
+          "name": "Andy James",
+          "url": "https://open.spotify.com/artist/1MXvoR1huidjc1GRRcAs1F"
+        },
+        {
+          "name": "John Patitucci",
+          "url": "https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH"
+        },
+        {
+          "name": "Chris Potter",
+          "url": "https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB"
+        },
+        {
+          "name": "Bill Cunliffe",
+          "url": "https://open.spotify.com/artist/2FfWqpDJg7emSdQljKfwHM"
+        },
+        {
+          "name": "Vinnie Colaiuta",
+          "url": "https://open.spotify.com/artist/3JE0rhvpwUB5mK2OgUnWlO"
+        }
+      ],
+      "duration_ms": 263282,
+      "name": "Autumn In New York (feat. Chris Potter, Bill Cunliffe & Vinnie Colaiuta)",
+      "url": "https://open.spotify.com/track/6DwflQH9R5Y4hpJrGPeNsC"
     },
     {
       "added_at": "2026-07-03 04:00:58",
@@ -2283,22 +2283,6 @@
     {
       "added_at": "2026-07-03 04:00:58",
       "album": {
-        "name": "Our Last Goodbye",
-        "url": "https://open.spotify.com/album/1n2FLr2kCIyovK0UdIDzzl"
-      },
-      "artists": [
-        {
-          "name": "Anastasia Lyutova",
-          "url": "https://open.spotify.com/artist/2XXM9pDf8YPMUjyuaq9u9K"
-        }
-      ],
-      "duration_ms": 312817,
-      "name": "Our Last Goodbye",
-      "url": "https://open.spotify.com/track/67At7oengoEs0vS6v0lufo"
-    },
-    {
-      "added_at": "2026-07-03 04:00:58",
-      "album": {
         "name": "That's All",
         "url": "https://open.spotify.com/album/2TG44OnFdjWNm5DJHeTuo1"
       },
@@ -2323,6 +2307,22 @@
       "duration_ms": 247208,
       "name": "That's All",
       "url": "https://open.spotify.com/track/4fccK8WxSPWlt9lolJqM6u"
+    },
+    {
+      "added_at": "2026-07-03 04:00:58",
+      "album": {
+        "name": "Our Last Goodbye",
+        "url": "https://open.spotify.com/album/1n2FLr2kCIyovK0UdIDzzl"
+      },
+      "artists": [
+        {
+          "name": "Anastasia Lyutova",
+          "url": "https://open.spotify.com/artist/2XXM9pDf8YPMUjyuaq9u9K"
+        }
+      ],
+      "duration_ms": 312817,
+      "name": "Our Last Goodbye",
+      "url": "https://open.spotify.com/track/67At7oengoEs0vS6v0lufo"
     },
     {
       "added_at": "2026-07-03 04:00:58",
@@ -2479,6 +2479,38 @@
     {
       "added_at": "2026-07-03 04:00:58",
       "album": {
+        "name": "Disclosure",
+        "url": "https://open.spotify.com/album/0CRTddNeha55cCvPDQrEcQ"
+      },
+      "artists": [
+        {
+          "name": "Katherine Kostoff",
+          "url": "https://open.spotify.com/artist/6iejr7uXjNOIaqvE5R9t8W"
+        }
+      ],
+      "duration_ms": 287041,
+      "name": "Disclosure",
+      "url": "https://open.spotify.com/track/0VjBHtyg5rKmjZyLOKt3sn"
+    },
+    {
+      "added_at": "2026-07-03 04:00:58",
+      "album": {
+        "name": "Stealing Moments",
+        "url": "https://open.spotify.com/album/5IRLJ5KaSYAHZ2Hr622qbt"
+      },
+      "artists": [
+        {
+          "name": "Viktoria Tolstoy",
+          "url": "https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ"
+        }
+      ],
+      "duration_ms": 272200,
+      "name": "I Don't Wanna Lose You",
+      "url": "https://open.spotify.com/track/0MemkMxKm4jUXTijqmGMep"
+    },
+    {
+      "added_at": "2026-07-03 04:00:58",
+      "album": {
         "name": "Before You Go",
         "url": "https://open.spotify.com/album/3cqgWVLpeBiswAWqbuhD98"
       },
@@ -2511,34 +2543,18 @@
     {
       "added_at": "2026-07-03 04:00:58",
       "album": {
-        "name": "Stealing Moments",
-        "url": "https://open.spotify.com/album/5IRLJ5KaSYAHZ2Hr622qbt"
+        "name": "There's Only One...",
+        "url": "https://open.spotify.com/album/23rGVbzBz5S72mqLUGQJB8"
       },
       "artists": [
         {
-          "name": "Viktoria Tolstoy",
-          "url": "https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ"
+          "name": "Anita O'Day",
+          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
         }
       ],
-      "duration_ms": 272200,
-      "name": "I Don't Wanna Lose You",
-      "url": "https://open.spotify.com/track/0MemkMxKm4jUXTijqmGMep"
-    },
-    {
-      "added_at": "2026-07-03 04:00:58",
-      "album": {
-        "name": "Disclosure",
-        "url": "https://open.spotify.com/album/0CRTddNeha55cCvPDQrEcQ"
-      },
-      "artists": [
-        {
-          "name": "Katherine Kostoff",
-          "url": "https://open.spotify.com/artist/6iejr7uXjNOIaqvE5R9t8W"
-        }
-      ],
-      "duration_ms": 287041,
-      "name": "Disclosure",
-      "url": "https://open.spotify.com/track/0VjBHtyg5rKmjZyLOKt3sn"
+      "duration_ms": 312840,
+      "name": "I'm Getting Sentimental Over You",
+      "url": "https://open.spotify.com/track/1OxzwCDfkefXTnfwiKUufb"
     },
     {
       "added_at": "2026-07-03 04:00:58",
@@ -2555,22 +2571,6 @@
       "duration_ms": 290880,
       "name": "Until It Happens to You",
       "url": "https://open.spotify.com/track/4aUVMqQWLjpXyjvONHUpvC"
-    },
-    {
-      "added_at": "2026-07-03 04:00:58",
-      "album": {
-        "name": "There's Only One...",
-        "url": "https://open.spotify.com/album/23rGVbzBz5S72mqLUGQJB8"
-      },
-      "artists": [
-        {
-          "name": "Anita O'Day",
-          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
-        }
-      ],
-      "duration_ms": 312840,
-      "name": "I'm Getting Sentimental Over You",
-      "url": "https://open.spotify.com/track/1OxzwCDfkefXTnfwiKUufb"
     },
     {
       "added_at": "2026-07-03 04:00:58",
@@ -3007,6 +3007,22 @@
     {
       "added_at": "2026-07-03 04:00:58",
       "album": {
+        "name": "It's Gonna Happen Tonight",
+        "url": "https://open.spotify.com/album/4wRIv7VL7bUq6gOvccx0DU"
+      },
+      "artists": [
+        {
+          "name": "Karen Souza",
+          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
+        }
+      ],
+      "duration_ms": 196498,
+      "name": "It's Gonna Happen Tonight",
+      "url": "https://open.spotify.com/track/2QcUiQ9NBgHJdX9sGQVaAp"
+    },
+    {
+      "added_at": "2026-07-03 04:00:58",
+      "album": {
         "name": "Tenderly",
         "url": "https://open.spotify.com/album/2czMrhriDhqmFnAc0fB43J"
       },
@@ -3071,8 +3087,8 @@
     {
       "added_at": "2026-07-03 04:00:58",
       "album": {
-        "name": "It's Gonna Happen Tonight",
-        "url": "https://open.spotify.com/album/4wRIv7VL7bUq6gOvccx0DU"
+        "name": "Everybody Knows",
+        "url": "https://open.spotify.com/album/3VBajOBgjfC2BSlonO8KwT"
       },
       "artists": [
         {
@@ -3080,9 +3096,9 @@
           "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
         }
       ],
-      "duration_ms": 196498,
-      "name": "It's Gonna Happen Tonight",
-      "url": "https://open.spotify.com/track/2QcUiQ9NBgHJdX9sGQVaAp"
+      "duration_ms": 168092,
+      "name": "Everybody Knows",
+      "url": "https://open.spotify.com/track/0Jfz8rtw11v3Mixr4yTorQ"
     },
     {
       "added_at": "2026-07-03 04:00:58",
@@ -3159,8 +3175,8 @@
     {
       "added_at": "2026-07-03 04:00:58",
       "album": {
-        "name": "Everybody Knows",
-        "url": "https://open.spotify.com/album/3VBajOBgjfC2BSlonO8KwT"
+        "name": "Language of Love (Version with Orchestra)",
+        "url": "https://open.spotify.com/album/4sQ9xawfO2mAMnZ25hz2o0"
       },
       "artists": [
         {
@@ -3168,9 +3184,9 @@
           "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
         }
       ],
-      "duration_ms": 168092,
-      "name": "Everybody Knows",
-      "url": "https://open.spotify.com/track/0Jfz8rtw11v3Mixr4yTorQ"
+      "duration_ms": 248469,
+      "name": "Language of Love - Version with Orchestra",
+      "url": "https://open.spotify.com/track/22hByVCjdms7oeWe3SgxL8"
     },
     {
       "added_at": "2026-07-03 04:00:58",
@@ -3263,22 +3279,6 @@
     {
       "added_at": "2026-07-03 04:00:58",
       "album": {
-        "name": "Language of Love (Version with Orchestra)",
-        "url": "https://open.spotify.com/album/4sQ9xawfO2mAMnZ25hz2o0"
-      },
-      "artists": [
-        {
-          "name": "Karen Souza",
-          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
-        }
-      ],
-      "duration_ms": 248469,
-      "name": "Language of Love - Version with Orchestra",
-      "url": "https://open.spotify.com/track/22hByVCjdms7oeWe3SgxL8"
-    },
-    {
-      "added_at": "2026-07-03 04:00:58",
-      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/2BQJdNJq1qkbvcyMzl9xs4"
       },
@@ -3295,6 +3295,22 @@
       "duration_ms": 250133,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/0VezvV7xjZm8MUVKuJTely"
+    },
+    {
+      "added_at": "2026-07-03 04:00:58",
+      "album": {
+        "name": "For All We Know",
+        "url": "https://open.spotify.com/album/7ox83NOG8GAo9qGavP8aQb"
+      },
+      "artists": [
+        {
+          "name": "Mandy Barnett",
+          "url": "https://open.spotify.com/artist/1dueb4USSa0IBdtDolg4pO"
+        }
+      ],
+      "duration_ms": 173360,
+      "name": "For All We Know",
+      "url": "https://open.spotify.com/track/2nixpMsReC7Pwwfanpk7IZ"
     },
     {
       "added_at": "2026-07-03 04:00:58",
@@ -3327,22 +3343,6 @@
       "duration_ms": 185239,
       "name": "I Wish You Love",
       "url": "https://open.spotify.com/track/5eg751DjyXstfd7xwdHZ62"
-    },
-    {
-      "added_at": "2026-07-03 04:00:58",
-      "album": {
-        "name": "For All We Know",
-        "url": "https://open.spotify.com/album/7ox83NOG8GAo9qGavP8aQb"
-      },
-      "artists": [
-        {
-          "name": "Mandy Barnett",
-          "url": "https://open.spotify.com/artist/1dueb4USSa0IBdtDolg4pO"
-        }
-      ],
-      "duration_ms": 173360,
-      "name": "For All We Know",
-      "url": "https://open.spotify.com/track/2nixpMsReC7Pwwfanpk7IZ"
     },
     {
       "added_at": "2026-07-03 04:00:58",
@@ -3399,6 +3399,22 @@
     {
       "added_at": "2026-07-03 04:00:58",
       "album": {
+        "name": "Fine Brown Frame",
+        "url": "https://open.spotify.com/album/6nPUg45JLv3xKxAXVfeD6B"
+      },
+      "artists": [
+        {
+          "name": "Judith Owen",
+          "url": "https://open.spotify.com/artist/7JJBBV4U990CO3PJrn3CIo"
+        }
+      ],
+      "duration_ms": 200578,
+      "name": "Fine Brown Frame",
+      "url": "https://open.spotify.com/track/6pYeOeWKMODk6lpyCfSiFN"
+    },
+    {
+      "added_at": "2026-07-03 04:00:58",
+      "album": {
         "name": "At Long Last Love (Live)",
         "url": "https://open.spotify.com/album/2U1H2DJYHC4TGCcnjA4be1"
       },
@@ -3423,22 +3439,6 @@
       "duration_ms": 171760,
       "name": "At Long Last Love (Live)",
       "url": "https://open.spotify.com/track/2w945NuM37wWFP4oU0jMqE"
-    },
-    {
-      "added_at": "2026-07-03 04:00:58",
-      "album": {
-        "name": "Fine Brown Frame",
-        "url": "https://open.spotify.com/album/6nPUg45JLv3xKxAXVfeD6B"
-      },
-      "artists": [
-        {
-          "name": "Judith Owen",
-          "url": "https://open.spotify.com/artist/7JJBBV4U990CO3PJrn3CIo"
-        }
-      ],
-      "duration_ms": 200578,
-      "name": "Fine Brown Frame",
-      "url": "https://open.spotify.com/track/6pYeOeWKMODk6lpyCfSiFN"
     },
     {
       "added_at": "2026-07-03 04:00:58",

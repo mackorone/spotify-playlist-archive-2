@@ -1,12 +1,12 @@
 {
   "description": "This is Halestorm. The essential tracks, all in one playlist.",
-  "num_followers": 117596,
+  "num_followers": 117597,
   "original_name": "This Is Halestorm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avENAAAAAAA2D+XLpWGdFizGKxV1LxLH",
+  "snapshot_id": "avOwAAAAAAB8Xvj1a54JJxADNVr7enK/",
   "tracks": [
     {
       "added_at": null,
@@ -303,22 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Darkness Always Wins",
-        "url": "https://open.spotify.com/album/6WWNTFaiCuC8rQvDRVIQWr"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 290309,
-      "name": "Darkness Always Wins",
-      "url": "https://open.spotify.com/track/7wBKXbleeJQuQDnfKlOOGe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ReAniMate: The CoVeRs eP",
         "url": "https://open.spotify.com/album/2fwH1QL0wgnbbXiHWCYs1D"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 302413,
       "name": "All I Wanna Do Is Make Love to You - EP Version",
       "url": "https://open.spotify.com/track/0TqBBrdwai3zdM90Tmyt8J"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Darkness Always Wins",
+        "url": "https://open.spotify.com/album/6WWNTFaiCuC8rQvDRVIQWr"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 290309,
+      "name": "Darkness Always Wins",
+      "url": "https://open.spotify.com/track/7wBKXbleeJQuQDnfKlOOGe"
     },
     {
       "added_at": null,
@@ -431,6 +431,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Reimagined",
+        "url": "https://open.spotify.com/album/6U136FqCYPkYDQnBaaUovl"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        },
+        {
+          "name": "Amy Lee",
+          "url": "https://open.spotify.com/artist/0fGVuq5ed21pM7iWwTcMyk"
+        }
+      ],
+      "duration_ms": 294093,
+      "name": "Break In (feat. Amy Lee)",
+      "url": "https://open.spotify.com/track/2vB55r6U3pqNI8I6Spz391"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Gereg (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4Lge00PEnR7Xb2ZKPItrys"
       },
@@ -451,26 +471,6 @@
       "duration_ms": 349270,
       "name": "Song of Women (feat. Lzzy Hale of Halestorm)",
       "url": "https://open.spotify.com/track/1OZ2eE4InmLDhl5KVG002w"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Reimagined",
-        "url": "https://open.spotify.com/album/6U136FqCYPkYDQnBaaUovl"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        },
-        {
-          "name": "Amy Lee",
-          "url": "https://open.spotify.com/artist/0fGVuq5ed21pM7iWwTcMyk"
-        }
-      ],
-      "duration_ms": 294093,
-      "name": "Break In (feat. Amy Lee)",
-      "url": "https://open.spotify.com/track/2vB55r6U3pqNI8I6Spz391"
     },
     {
       "added_at": null,
@@ -511,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ReAniMate 2.0: The CoVeRs eP",
-        "url": "https://open.spotify.com/album/2uCehLMuLbXVqEklFZzfZA"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 188573,
-      "name": "Get Lucky",
-      "url": "https://open.spotify.com/track/66PgT7clBWAuQlMqoUL0YU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Into the Wild Life (Deluxe)",
         "url": "https://open.spotify.com/album/6jPjpEJBxT0HN71TAEohZ0"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 193613,
       "name": "Apocalyptic",
       "url": "https://open.spotify.com/track/4DveRhd1VBtZyPodE3sbLj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ReAniMate 2.0: The CoVeRs eP",
+        "url": "https://open.spotify.com/album/2uCehLMuLbXVqEklFZzfZA"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 188573,
+      "name": "Get Lucky",
+      "url": "https://open.spotify.com/track/66PgT7clBWAuQlMqoUL0YU"
     },
     {
       "added_at": null,
@@ -591,8 +591,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Everest",
-        "url": "https://open.spotify.com/album/5i8fhyMoVuH1O3pofbxywv"
+        "name": "Back From the Dead",
+        "url": "https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu"
       },
       "artists": [
         {
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
         }
       ],
-      "duration_ms": 230903,
-      "name": "Shiver",
-      "url": "https://open.spotify.com/track/5PoYmKGOgfakgnYkc85TVG"
+      "duration_ms": 222010,
+      "name": "Strange Girl",
+      "url": "https://open.spotify.com/track/6lsQurvT97J67VKSXuCDSx"
     },
     {
       "added_at": null,
@@ -623,8 +623,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Back From the Dead",
-        "url": "https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu"
+        "name": "Everest",
+        "url": "https://open.spotify.com/album/5i8fhyMoVuH1O3pofbxywv"
       },
       "artists": [
         {
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
         }
       ],
-      "duration_ms": 222010,
-      "name": "Strange Girl",
-      "url": "https://open.spotify.com/track/6lsQurvT97J67VKSXuCDSx"
+      "duration_ms": 230903,
+      "name": "Shiver",
+      "url": "https://open.spotify.com/track/5PoYmKGOgfakgnYkc85TVG"
     },
     {
       "added_at": null,

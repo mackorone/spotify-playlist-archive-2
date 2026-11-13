@@ -2,7 +2,7 @@
 
 ### [Ny Pop](https://open.spotify.com/playlist/37i9dQZF1DXc0tFihpSR1M)
 
-> Det beste av ny pop akkurat nå! 🍭<br/>Cover: Ruben
+> Det beste av ny pop akkurat nå! 🍭<br/>Cover: Sval
 
 747 songs - 1 day 14 hr 51 min
 
@@ -434,7 +434,7 @@
 | [Mamma & Pappa](https://open.spotify.com/track/2bn2Cyw9D15R2pvZ6Z6q2D) | [William Gamborg](https://open.spotify.com/artist/4ODEL6BNYKlXrfMUsHMK5P) | [Mamma & Pappa](https://open.spotify.com/album/1fgYpghUw0LZf9B6r8A21g) | 2:50 | 2026-01-01 | 2026-02-06 |
 | [Man I Need](https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Man I Need](https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a) | 3:04 | 2025-08-14 | 2026-09-04 |
 | [Man Of The Year](https://open.spotify.com/track/1hoeP1oPYlhcv6iRCtB7pT) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Man Of The Year](https://open.spotify.com/album/1QSIGmlbg2zqpGbWXJNJeW) | 3:00 | 2025-05-29 | 2025-08-01 |
-| [Man Out of Me](https://open.spotify.com/track/6EXDWi38oaSctFVmBbaPkO) | [8lanco](https://open.spotify.com/artist/63Qoo1vrRqWqEq4JC1dtZs) | [Man Out of Me](https://open.spotify.com/album/5O1OSD73X9C8kSQWewMgJD) | 3:19 | 2026-10-16 | 2026-11-06 |
+| [Man Out of Me](https://open.spotify.com/track/6EXDWi38oaSctFVmBbaPkO) | [8lanco](https://open.spotify.com/artist/63Qoo1vrRqWqEq4JC1dtZs) | [Man Out of Me](https://open.spotify.com/album/5O1OSD73X9C8kSQWewMgJD) | 3:19 | 2026-10-16 |  |
 | [MANCHEGO](https://open.spotify.com/track/6PphAopnQD4tkRxGf8OHpa) | [Ramón](https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL) | [RAMUELO](https://open.spotify.com/album/3ow5zUIQ1F6dnyBu2t3wj6) | 2:45 | 2026-08-20 | 2026-09-04 |
 | [Manchild](https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Manchild](https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic) | 3:33 | 2025-06-06 | 2026-05-22 |
 | [Maniac](https://open.spotify.com/track/6CWRYS1AaB6SGRGR8BsAMs) | [Lila](https://open.spotify.com/artist/7fMaGYPt2Za9wzgOWhWYG4) | [Maniac](https://open.spotify.com/album/6U9qXDKONFYij1UFxllzYE) | 3:17 | 2025-05-08 | 2025-07-25 |
@@ -567,7 +567,7 @@
 | [Se meg](https://open.spotify.com/track/5HQifT2YhSsdems4YipbAC) | [Nessi](https://open.spotify.com/artist/6BU3m4HABKbgt8jhyFuBdl) | [Se meg](https://open.spotify.com/album/4ObGqZJA2pYD7VX0gx4DZg) | 2:42 | 2026-10-01 | 2026-11-06 |
 | [SEES IGJEN](https://open.spotify.com/track/6vW1RECrVCKf1WrlOjdmku) | [Bargee](https://open.spotify.com/artist/0lLcVfzo8FYGaqDY47brmP) | [SEES IGJEN](https://open.spotify.com/album/0ouuDuGD9Jn8D8i4dHbxcD) | 3:27 | 2026-02-12 | 2026-04-09 |
 | [Senaste tiden](https://open.spotify.com/track/7mRVtj0WZj9zn3AKi1pIjh) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt) | [… men det gör jag egentligen](https://open.spotify.com/album/5DUG2p0EimhnktehrSfZZR) | 3:57 | 2024-08-29 | 2024-09-06 |
-| [Ser du månen?](https://open.spotify.com/track/4Rxix9cTsegJUD5lx88Td5) | [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [Ser du månen?](https://open.spotify.com/album/2p0KTC367e39BtQHGjp2qJ) | 3:28 | 2026-11-05 |  |
+| [Ser du månen?](https://open.spotify.com/track/4Rxix9cTsegJUD5lx88Td5) | [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [Ser du månen?](https://open.spotify.com/album/2p0KTC367e39BtQHGjp2qJ) | 3:28 | 2026-11-05 | 2026-11-13 |
 | [serena joy](https://open.spotify.com/track/6LJYBq1h5GElQO4sKFdRA9) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [serena joy](https://open.spotify.com/album/2g6XbbyPIPRMa2P1ildhza) | 3:05 | 2026-08-27 |  |
 | [Set You Free](https://open.spotify.com/track/12GSOzaNG6XYiHWFUez311) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Set You Free](https://open.spotify.com/album/3pVX1mGqZvF8VzweJm2DyY) | 2:13 | 2025-02-13 | 2025-06-09 |
 | [Sexy to Someone](https://open.spotify.com/track/2Nq4SFbvYYZa8AF7lD7CWU) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sexy to Someone](https://open.spotify.com/album/281y6GLUpFfmSyBO7JMLfU) | 3:27 | 2024-06-27 | 2025-02-09 |

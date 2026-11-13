@@ -4,7 +4,7 @@
 
 > Soft and soothing beats for all your yoga practices.
 
-310 songs - 14 hr 57 min
+312 songs - 15 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Come Hang With Me](https://open.spotify.com/track/3nkVPQqsAnSVfcwJ2tHXh1) | [Gadaragh](https://open.spotify.com/artist/2htCgKICdd3y3WpVjh5hyR) | [Come Hang With Me](https://open.spotify.com/album/6dhlzRNnvtYFO7lLomD8hS) | 1:55 | 2022-09-02 | 2023-06-22 |
 | [Compassion](https://open.spotify.com/track/1JC25MxOFnF1YyV4TpLr6q) | [Axel Pacem](https://open.spotify.com/artist/62RbCNMx3dAEBpaW4ev3iy) | [Compassion](https://open.spotify.com/album/1FOn0VvwCxcGzUkjnrbSMP) | 2:23 | 2023-12-01 | 2024-09-07 |
 | [Cosmic Wind](https://open.spotify.com/track/7M6Oo8FUfnOzmv9QlINuOb) | [Eon Weaver](https://open.spotify.com/artist/0HI0efkGlLzkrq0z3l2k2c) | [Cosmic Wind](https://open.spotify.com/album/7Ekok52CQNbNCsyU6LDdUq) | 2:31 | 2025-04-15 | 2025-11-26 |
+| [counting memories i never got to make](https://open.spotify.com/track/2YL3brTIDPqoOoqCSiNSAc) | [sad notes](https://open.spotify.com/artist/6LlMF86oZBZG1nvkIkso0A) | [counting memories i never got to make](https://open.spotify.com/album/7AiFbKyNNFhPkoBUbk7XG5) | 2:27 | 2026-11-13 |  |
 | [Danaus Genutia](https://open.spotify.com/track/0vRHzTymALeCeAL1l5dw5q) | [Star Lions](https://open.spotify.com/artist/3oyABNjDzJ2BL5tshlzpf0) | [Lines of Mauve](https://open.spotify.com/album/3f7SSz5LBqvz1Vqmkffk4V) | 3:34 | 2022-10-25 | 2023-06-22 |
 | [Dance of Calming Sun](https://open.spotify.com/track/21FOpLRPeaNDp4kLANJL9A) | [African Music Drums Collection](https://open.spotify.com/artist/1VZg5g46KNbpD7CsIxPrKo) | [African Healing Dance Therapy \- Tribal Trip, Ethno Lullaby, Vital Trance, Shamanic Serenity, Safari Sunrise](https://open.spotify.com/album/2BamWXOnKROZeTh0VW775W) | 3:31 | 2022-09-02 | 2022-10-26 |
 | [Darma Karma](https://open.spotify.com/track/6ztM1Tfblptt8WPceaYzX7) | [Darma Waters](https://open.spotify.com/artist/4nN4oxcvDaWafW2VAmvf7Y) | [Darma Karma](https://open.spotify.com/album/3MSb27LzvO7txXUL0qu9Xk) | 2:56 | 2024-07-23 | 2025-11-26 |
@@ -163,6 +164,7 @@
 | [Magic Moment](https://open.spotify.com/track/5cPMT9j9tE4ZK6C7mlSK5n) | [Percussion As Medicine](https://open.spotify.com/artist/3FRJVDCXmMrOEnjzr24ful) | [Magic Moment](https://open.spotify.com/album/5ENXsOri8k4cdCnKDGfRoM) | 2:42 | 2022-10-25 | 2024-08-20 |
 | [Maple](https://open.spotify.com/track/4dRBkGmqjPsMVivOZRjuGL) | [Deauxnuts](https://open.spotify.com/artist/4FCrhj46HBtMVt61k35zMB), [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN) | [Maple](https://open.spotify.com/album/40woW26uPKn30P7NDvg5vk) | 2:11 | 2025-11-25 |  |
 | [Marari Vibes](https://open.spotify.com/track/7FGXxtTLhPXusdPJox3q8R) | [The Surrealers](https://open.spotify.com/artist/6G9OIA19uLnfd7PNELBJI9) | [Marari Vibes](https://open.spotify.com/album/7El5vb5cGWoy9shvwiZYBT) | 2:57 | 2024-02-22 | 2025-11-26 |
+| [Marigold](https://open.spotify.com/track/3DroECJL6iVnxFvmZU1hMA) | [CradleBloom](https://open.spotify.com/artist/4LTEiw8OZvL8RBNghiBC7T) | [Marigold](https://open.spotify.com/album/0Ecwh7VA7A5MkqY8lt0QuZ) | 2:54 | 2026-11-13 |  |
 | [Maybe Tomorrow](https://open.spotify.com/track/5hyQHsKDbHfu8Y8y6HG0Zj) | [so.tired](https://open.spotify.com/artist/4ordIijwezMyR8fJkOaVNy) | [Not Tonight](https://open.spotify.com/album/3tKUThK0cnOBD01aeo5BWD) | 2:21 | 2026-10-21 |  |
 | [Meadow at Dawn](https://open.spotify.com/track/1w1OGgbQNq3rZLjYCL354s) | [Eon Weaver](https://open.spotify.com/artist/0HI0efkGlLzkrq0z3l2k2c) | [Meadow at Dawn](https://open.spotify.com/album/6BZsYYiFe1uvqa3bumRoGR) | 2:30 | 2024-06-11 | 2025-11-26 |
 | [Melody in the Rain](https://open.spotify.com/track/4Bl2g1lL12IxgQRfFiRQuR) | [Jolene Cedar](https://open.spotify.com/artist/41pIg33NrVsSkXuvOcG9Vs) | [Melody in the Rain](https://open.spotify.com/album/6ZnAj9D4E3sMrHp8JCDwxD) | 2:12 | 2023-06-21 | 2024-07-24 |

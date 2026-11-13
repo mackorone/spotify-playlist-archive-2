@@ -1,6 +1,6 @@
 {
   "description": "La playlist del jazz italiano, passato e presente. Cover: Carolina Bubbico",
-  "num_followers": 35272,
+  "num_followers": 35271,
   "original_name": "Jazz Italia",
   "owner": {
     "name": "Spotify",
@@ -575,22 +575,6 @@
     {
       "added_at": "2026-10-02 08:14:11",
       "album": {
-        "name": "Zenzero",
-        "url": "https://open.spotify.com/album/5HOmMSauwz1wlsNNtI7RvO"
-      },
-      "artists": [
-        {
-          "name": "Il Mago Del Gelato",
-          "url": "https://open.spotify.com/artist/1HVA7XWQZ5OZgJLhSaTDXA"
-        }
-      ],
-      "duration_ms": 250002,
-      "name": "Zenzero",
-      "url": "https://open.spotify.com/track/596eSWS6SoVNLoe9h1CMXn"
-    },
-    {
-      "added_at": "2026-10-02 08:14:11",
-      "album": {
         "name": "Carioca",
         "url": "https://open.spotify.com/album/0BcPVNgNrtNtXdBrcz7fAp"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 300453,
       "name": "Luz Negra",
       "url": "https://open.spotify.com/track/24r0Ni7UbWHy69PBOe364Q"
+    },
+    {
+      "added_at": "2026-10-02 08:14:11",
+      "album": {
+        "name": "Zenzero",
+        "url": "https://open.spotify.com/album/5HOmMSauwz1wlsNNtI7RvO"
+      },
+      "artists": [
+        {
+          "name": "Il Mago Del Gelato",
+          "url": "https://open.spotify.com/artist/1HVA7XWQZ5OZgJLhSaTDXA"
+        }
+      ],
+      "duration_ms": 250002,
+      "name": "Zenzero",
+      "url": "https://open.spotify.com/track/596eSWS6SoVNLoe9h1CMXn"
     },
     {
       "added_at": "2026-10-02 08:14:11",
@@ -675,6 +675,22 @@
     {
       "added_at": "2026-10-02 08:14:11",
       "album": {
+        "name": "Editto Dal Sottoscoglio",
+        "url": "https://open.spotify.com/album/1NhEbC11WBZrAHU8V2Bqt7"
+      },
+      "artists": [
+        {
+          "name": "Marco Castello",
+          "url": "https://open.spotify.com/artist/0ErDKYNv448COBCNdnqYIm"
+        }
+      ],
+      "duration_ms": 206204,
+      "name": "Editto Dal Sottoscoglio",
+      "url": "https://open.spotify.com/track/2gxOjXkQSlOo8qPfFF97PH"
+    },
+    {
+      "added_at": "2026-10-02 08:14:11",
+      "album": {
         "name": "Libidine (Orginal Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4FYs2SbGNF8Di9iAedjuml"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 263520,
       "name": "Libidine 8",
       "url": "https://open.spotify.com/track/3xiZ0cV7Q50inH4RDYHN4m"
-    },
-    {
-      "added_at": "2026-10-02 08:14:11",
-      "album": {
-        "name": "Editto Dal Sottoscoglio",
-        "url": "https://open.spotify.com/album/1NhEbC11WBZrAHU8V2Bqt7"
-      },
-      "artists": [
-        {
-          "name": "Marco Castello",
-          "url": "https://open.spotify.com/artist/0ErDKYNv448COBCNdnqYIm"
-        }
-      ],
-      "duration_ms": 206204,
-      "name": "Editto Dal Sottoscoglio",
-      "url": "https://open.spotify.com/track/2gxOjXkQSlOo8qPfFF97PH"
     },
     {
       "added_at": "2026-10-02 08:14:11",
@@ -1383,26 +1383,6 @@
     {
       "added_at": "2026-10-02 08:14:11",
       "album": {
-        "name": "Taish\u014dgoto",
-        "url": "https://open.spotify.com/album/2vEboxecinXL8aqLjQxN4h"
-      },
-      "artists": [
-        {
-          "name": "Daniele Baldelli",
-          "url": "https://open.spotify.com/artist/3NZuWa2TqpeGPWGISzX8E7"
-        },
-        {
-          "name": "Gaudi",
-          "url": "https://open.spotify.com/artist/4VPauFDuyMnoakRnCPmcgP"
-        }
-      ],
-      "duration_ms": 304173,
-      "name": "Taish\u014dgoto",
-      "url": "https://open.spotify.com/track/260KNXOYlJjmb51DvC6KF7"
-    },
-    {
-      "added_at": "2026-10-02 08:14:11",
-      "album": {
         "name": "Liquid Portraits",
         "url": "https://open.spotify.com/album/19uGXP6YaIElZQ08aNLJwS"
       },
@@ -1443,22 +1423,6 @@
     {
       "added_at": "2026-10-02 08:14:11",
       "album": {
-        "name": "Non mi resta che tacere",
-        "url": "https://open.spotify.com/album/5hmztkj3i2mGUjPFKdjjwA"
-      },
-      "artists": [
-        {
-          "name": "Marta Frigo",
-          "url": "https://open.spotify.com/artist/08Z3yD7mKBrpXTlrh0mGpj"
-        }
-      ],
-      "duration_ms": 275291,
-      "name": "Non mi resta che tacere",
-      "url": "https://open.spotify.com/track/78zfOvtwijnDEc03lJunsl"
-    },
-    {
-      "added_at": "2026-10-02 08:14:11",
-      "album": {
         "name": "Ballads",
         "url": "https://open.spotify.com/album/1gqjxM0wGTsEhA9GNCD1Gi"
       },
@@ -1487,6 +1451,42 @@
       "duration_ms": 276862,
       "name": "It's Easy to Remember",
       "url": "https://open.spotify.com/track/44swRdyN58zo6GzdRtHcub"
+    },
+    {
+      "added_at": "2026-10-02 08:14:11",
+      "album": {
+        "name": "Taish\u014dgoto",
+        "url": "https://open.spotify.com/album/2vEboxecinXL8aqLjQxN4h"
+      },
+      "artists": [
+        {
+          "name": "Daniele Baldelli",
+          "url": "https://open.spotify.com/artist/3NZuWa2TqpeGPWGISzX8E7"
+        },
+        {
+          "name": "Gaudi",
+          "url": "https://open.spotify.com/artist/4VPauFDuyMnoakRnCPmcgP"
+        }
+      ],
+      "duration_ms": 304173,
+      "name": "Taish\u014dgoto",
+      "url": "https://open.spotify.com/track/260KNXOYlJjmb51DvC6KF7"
+    },
+    {
+      "added_at": "2026-10-02 08:14:11",
+      "album": {
+        "name": "Non mi resta che tacere",
+        "url": "https://open.spotify.com/album/5hmztkj3i2mGUjPFKdjjwA"
+      },
+      "artists": [
+        {
+          "name": "Marta Frigo",
+          "url": "https://open.spotify.com/artist/08Z3yD7mKBrpXTlrh0mGpj"
+        }
+      ],
+      "duration_ms": 275291,
+      "name": "Non mi resta che tacere",
+      "url": "https://open.spotify.com/track/78zfOvtwijnDEc03lJunsl"
     },
     {
       "added_at": "2026-10-02 08:14:11",
@@ -1675,6 +1675,22 @@
     {
       "added_at": "2026-10-02 08:14:11",
       "album": {
+        "name": "New Game Plus",
+        "url": "https://open.spotify.com/album/6tmZs6mC32XYxX7roqBsFd"
+      },
+      "artists": [
+        {
+          "name": "magikAAAAArp",
+          "url": "https://open.spotify.com/artist/1pyovQJ1LBijAxUci0z8sq"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "2 AM",
+      "url": "https://open.spotify.com/track/3vSCu1i40ARAivECYZfcV9"
+    },
+    {
+      "added_at": "2026-10-02 08:14:11",
+      "album": {
         "name": "Norma (Arr. for Jazz Orchestra)",
         "url": "https://open.spotify.com/album/6E5n7bwbyvjDeGj4IexGGl"
       },
@@ -1695,38 +1711,6 @@
       "duration_ms": 584075,
       "name": "Norma: Casta diva - Arr. for Jazz Orchestra",
       "url": "https://open.spotify.com/track/6F2ZVnF2AXI3sG6bxq1o5x"
-    },
-    {
-      "added_at": "2026-10-02 08:14:11",
-      "album": {
-        "name": "New Game Plus",
-        "url": "https://open.spotify.com/album/6tmZs6mC32XYxX7roqBsFd"
-      },
-      "artists": [
-        {
-          "name": "magikAAAAArp",
-          "url": "https://open.spotify.com/artist/1pyovQJ1LBijAxUci0z8sq"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "2 AM",
-      "url": "https://open.spotify.com/track/3vSCu1i40ARAivECYZfcV9"
-    },
-    {
-      "added_at": "2026-10-02 08:14:11",
-      "album": {
-        "name": "NAXOS",
-        "url": "https://open.spotify.com/album/6S9eVbnJNclJ09sCN3lB3Z"
-      },
-      "artists": [
-        {
-          "name": "Francesco Buzzurro",
-          "url": "https://open.spotify.com/artist/7va7RuUDlM00yzRi2nrFX5"
-        }
-      ],
-      "duration_ms": 217280,
-      "name": "Song for Django",
-      "url": "https://open.spotify.com/track/6V6BOGQ5AjGyFnHyayO8aV"
     },
     {
       "added_at": "2026-10-02 08:14:11",
@@ -1759,6 +1743,22 @@
       "duration_ms": 377930,
       "name": "Tempo al Tempo",
       "url": "https://open.spotify.com/track/5fJPhL4bpFTElmkDwjaOME"
+    },
+    {
+      "added_at": "2026-10-02 08:14:11",
+      "album": {
+        "name": "NAXOS",
+        "url": "https://open.spotify.com/album/6S9eVbnJNclJ09sCN3lB3Z"
+      },
+      "artists": [
+        {
+          "name": "Francesco Buzzurro",
+          "url": "https://open.spotify.com/artist/7va7RuUDlM00yzRi2nrFX5"
+        }
+      ],
+      "duration_ms": 217280,
+      "name": "Song for Django",
+      "url": "https://open.spotify.com/track/6V6BOGQ5AjGyFnHyayO8aV"
     },
     {
       "added_at": "2026-10-02 08:14:11",

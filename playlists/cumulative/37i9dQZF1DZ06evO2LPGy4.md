@@ -4,7 +4,7 @@
 
 > This is Gerardo Ortiz\. The essential tracks, all in one playlist.
 
-99 songs - 4 hr 50 min
+100 songs - 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Del 1 al 10](https://open.spotify.com/track/2P27nXY94tCwTdaNtdByWJ) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [El Ejemplar](https://open.spotify.com/album/4lijBURHkEvFWWNpvLSsqW) | 2:38 | 2025-12-16 | 2026-01-15 |
 | [Destapando Botellitas](https://open.spotify.com/track/3FgvsU9Qr1cxmlSdZFPQ3q) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Destapando Botellitas](https://open.spotify.com/album/6GcK0lJrvH4rFp5bLh4NLm) | 2:19 | 2023-08-08 | 2023-11-11 |
 | [Dámaso](https://open.spotify.com/track/7yAwyQ2np0KRjeXsGwirez) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [El Primer Ministro](https://open.spotify.com/album/1fLCJYEq0kv87PSPdCB0dC) | 2:39 | 2023-08-08 |  |
-| [Déjate de Cosas](https://open.spotify.com/track/1Sx9ZpBDImdMD8htvnQrdl) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Déjate de Cosas](https://open.spotify.com/album/3DvNNzASGZtmgpQqJKmcHz) | 2:49 | 2024-05-11 |  |
+| [Déjate de Cosas](https://open.spotify.com/track/1Sx9ZpBDImdMD8htvnQrdl) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Déjate de Cosas](https://open.spotify.com/album/3DvNNzASGZtmgpQqJKmcHz) | 2:49 | 2024-05-11 | 2026-11-13 |
 | [Egoísta](https://open.spotify.com/track/1WXjAJivkxzKrbfy71aUbM) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Comeré Callado, Vol\. 2](https://open.spotify.com/album/2NnG41uV3cvz0iYocqk5WR) | 2:54 | 2023-08-08 |  |
 | [El Aroma de Tu Piel](https://open.spotify.com/track/6ppEDoyrYVONvuaGo7Chv6) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Comeré Callado, Vol\. 2](https://open.spotify.com/album/2NnG41uV3cvz0iYocqk5WR) | 2:52 | 2023-08-08 |  |
 | [El Cartel de la Rana](https://open.spotify.com/track/67YpTbF3dSYBKx7MZFCDto) | [Jorge Santacruz Y Su Grupo Quinto Elemento Feat\. Gerardo Ortiz](https://open.spotify.com/artist/3rNu4bvQwP71sO60VYG7G8), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [La Supremacía](https://open.spotify.com/album/2qgYY0i0OW85xXawxTkEDW) | 3:00 | 2024-02-05 |  |
@@ -63,6 +63,7 @@
 | [Gente del Nini](https://open.spotify.com/track/6pw1JhdFisuezjcr4DwJXY) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Gente del Nini](https://open.spotify.com/album/1LRhDW3RKbXS0jCgl7Y1R8) | 3:31 | 2023-08-08 | 2023-10-11 |
 | [Hola Corazón \- En Vivo](https://open.spotify.com/track/0rXTfXgC4OIWytvMsq8Ls2) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO), [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W), [Wil Caro](https://open.spotify.com/artist/0WmxPSzE2yXAEpVw1yA1A4) | [Hola Corazón \(En Vivo\)](https://open.spotify.com/album/5Ivz9kr0rUtT7o3pQN1jq8) | 3:05 | 2024-02-15 | 2024-06-30 |
 | [La Noche Es Tuya](https://open.spotify.com/track/0FVVco67xjAExg5OqlQ1gU) | [3BallMTY](https://open.spotify.com/artist/1MLs9allBZrajb5Dc4146L), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO), [América Sierra](https://open.spotify.com/artist/6iK7hlQHfupGjQHrxQIMly) | [Globall](https://open.spotify.com/album/1caIQHGbNF21Ed3X65iEWu) | 3:01 | 2025-05-10 | 2026-09-21 |
+| [La Noche Es Tuya \(feat\. América Sierra & Gerardo Ortiz\)](https://open.spotify.com/track/4oNras6nBQ4ucZAj74z9DB) | [3BallMTY](https://open.spotify.com/artist/1MLs9allBZrajb5Dc4146L), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO), [América Sierra](https://open.spotify.com/artist/6iK7hlQHfupGjQHrxQIMly) | [Globall](https://open.spotify.com/album/5trXODX2kXgViIFuvKrwMo) | 3:01 | 2026-11-13 |  |
 | [La Noche Es Tuya \(feat\. Gerardo Ortíz & América Sierra\)](https://open.spotify.com/track/73tHpsVzELtbluqT2D2YPD) | [3BallMTY](https://open.spotify.com/artist/1MLs9allBZrajb5Dc4146L), [América Sierra](https://open.spotify.com/artist/6iK7hlQHfupGjQHrxQIMly), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Globall](https://open.spotify.com/album/4xQUm6jf8BTdvfDE72nu3o) | 3:01 | 2025-01-09 | 2025-03-28 |
 | [La Parca](https://open.spotify.com/track/6RL2LfHexgiFXFEb3yJEdK) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [La Parca](https://open.spotify.com/album/4Wyq5S8SygjS92CA5MrXLG) | 3:13 | 2023-08-08 |  |
 | [La Ultima Sombra](https://open.spotify.com/track/6Z5k18VPZu4b1IaIQmbecn) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Ni Hoy Ni Manana](https://open.spotify.com/album/7jyBbVcnqfV8vtmyyPJarL) | 3:57 | 2023-08-08 |  |

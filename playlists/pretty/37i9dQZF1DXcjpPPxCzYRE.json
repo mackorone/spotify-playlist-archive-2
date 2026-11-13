@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica tranquila para evadirse.",
-  "num_followers": 448138,
+  "num_followers": 448190,
   "original_name": "Relax en casa",
   "owner": {
     "name": "Spotify",
@@ -747,6 +747,22 @@
     {
       "added_at": "2026-10-15 22:01:52",
       "album": {
+        "name": "We Were Here",
+        "url": "https://open.spotify.com/album/3kJxji4lJkuzZJSTWFbNnG"
+      },
+      "artists": [
+        {
+          "name": "Joshua Radin",
+          "url": "https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34"
+        }
+      ],
+      "duration_ms": 149013,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/2ZaYFNn1YQuLSVdHhanr4Q"
+    },
+    {
+      "added_at": "2026-10-15 22:01:52",
+      "album": {
         "name": "Islands in the Fog (with Gizmo Varillas)",
         "url": "https://open.spotify.com/album/1LOI0LDHrsOZ5daYAETPZl"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 255722,
       "name": "Islands in the Fog (with Gizmo Varillas)",
       "url": "https://open.spotify.com/track/0Pat9Ok4QEf36WJGAAf3Ga"
-    },
-    {
-      "added_at": "2026-10-15 22:01:52",
-      "album": {
-        "name": "We Were Here",
-        "url": "https://open.spotify.com/album/3kJxji4lJkuzZJSTWFbNnG"
-      },
-      "artists": [
-        {
-          "name": "Joshua Radin",
-          "url": "https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34"
-        }
-      ],
-      "duration_ms": 149013,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/2ZaYFNn1YQuLSVdHhanr4Q"
     },
     {
       "added_at": "2026-10-15 22:01:52",
@@ -991,22 +991,6 @@
     {
       "added_at": "2026-10-15 22:01:52",
       "album": {
-        "name": "Mejor ma\u00f1ana",
-        "url": "https://open.spotify.com/album/4Z8kBNb9uF82tZ8lyB3Zne"
-      },
-      "artists": [
-        {
-          "name": "Alba Reche",
-          "url": "https://open.spotify.com/artist/4mkCQKEe89EI0kn0Q7tMyK"
-        }
-      ],
-      "duration_ms": 203893,
-      "name": "Mejor ma\u00f1ana",
-      "url": "https://open.spotify.com/track/4t3ygqKQUD3iZvTl9wgkZN"
-    },
-    {
-      "added_at": "2026-10-15 22:01:52",
-      "album": {
         "name": "O",
         "url": "https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 286400,
       "name": "Older Chests",
       "url": "https://open.spotify.com/track/7FCYixd46BlSiO2memrsPo"
+    },
+    {
+      "added_at": "2026-10-15 22:01:52",
+      "album": {
+        "name": "Mejor ma\u00f1ana",
+        "url": "https://open.spotify.com/album/4Z8kBNb9uF82tZ8lyB3Zne"
+      },
+      "artists": [
+        {
+          "name": "Alba Reche",
+          "url": "https://open.spotify.com/artist/4mkCQKEe89EI0kn0Q7tMyK"
+        }
+      ],
+      "duration_ms": 203893,
+      "name": "Mejor ma\u00f1ana",
+      "url": "https://open.spotify.com/track/4t3ygqKQUD3iZvTl9wgkZN"
     },
     {
       "added_at": "2026-10-15 22:01:52",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2026-10-15 22:01:52",
       "album": {
-        "name": "Memory Be a Blade",
-        "url": "https://open.spotify.com/album/459tZ5BMnPXsDQpLsfTI00"
-      },
-      "artists": [
-        {
-          "name": "waterbaby",
-          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
-        }
-      ],
-      "duration_ms": 221066,
-      "name": "Memory Be a Blade",
-      "url": "https://open.spotify.com/track/6kM3Uqz3MRTVGTzu93EZIA"
-    },
-    {
-      "added_at": "2026-10-15 22:01:52",
-      "album": {
         "name": "Mandela Place",
         "url": "https://open.spotify.com/album/6MXVgGqVLqHYuUCLUJUWEb"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 213563,
       "name": "Mandela Place",
       "url": "https://open.spotify.com/track/1SqupVv0WUtDM1LeKsKkw5"
+    },
+    {
+      "added_at": "2026-10-15 22:01:52",
+      "album": {
+        "name": "Memory Be a Blade",
+        "url": "https://open.spotify.com/album/459tZ5BMnPXsDQpLsfTI00"
+      },
+      "artists": [
+        {
+          "name": "waterbaby",
+          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
+        }
+      ],
+      "duration_ms": 221066,
+      "name": "Memory Be a Blade",
+      "url": "https://open.spotify.com/track/6kM3Uqz3MRTVGTzu93EZIA"
     },
     {
       "added_at": "2026-10-15 22:01:52",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2026-10-15 22:01:52",
       "album": {
+        "name": "Sanadoras Voluntades",
+        "url": "https://open.spotify.com/album/4en5TaKhMK6hxjQVW0hHoa"
+      },
+      "artists": [
+        {
+          "name": "Macaco",
+          "url": "https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT"
+        }
+      ],
+      "duration_ms": 164956,
+      "name": "Sanadoras Voluntades",
+      "url": "https://open.spotify.com/track/7AqHsrlrP34XzmOgx5CmGe"
+    },
+    {
+      "added_at": "2026-10-15 22:01:52",
+      "album": {
         "name": "mai adeu",
         "url": "https://open.spotify.com/album/584S9p8PaecDYYRpbP6uZY"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 103461,
       "name": "nada nada",
       "url": "https://open.spotify.com/track/3x2En8Qx8fcOT9eVEyBnqr"
-    },
-    {
-      "added_at": "2026-10-15 22:01:52",
-      "album": {
-        "name": "Sanadoras Voluntades",
-        "url": "https://open.spotify.com/album/4en5TaKhMK6hxjQVW0hHoa"
-      },
-      "artists": [
-        {
-          "name": "Macaco",
-          "url": "https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT"
-        }
-      ],
-      "duration_ms": 164956,
-      "name": "Sanadoras Voluntades",
-      "url": "https://open.spotify.com/track/7AqHsrlrP34XzmOgx5CmGe"
     },
     {
       "added_at": "2026-10-15 22:01:52",
@@ -1687,18 +1687,18 @@
     {
       "added_at": "2026-10-15 22:01:52",
       "album": {
-        "name": "Kevin",
-        "url": "https://open.spotify.com/album/3EOPENikNPh26ZofamfSTT"
+        "name": "201 - Directo en Casa Grito",
+        "url": "https://open.spotify.com/album/1cXNOx12JrvNBNczLLq4Y0"
       },
       "artists": [
         {
-          "name": "Ferran Palau",
-          "url": "https://open.spotify.com/artist/7h0Xj4rDQMndEq2JsZZVzM"
+          "name": "Repion",
+          "url": "https://open.spotify.com/artist/15o4xwiKZWJ6jOFp9LeP24"
         }
       ],
-      "duration_ms": 203003,
-      "name": "Kevin",
-      "url": "https://open.spotify.com/track/1CWVTz4v0IHU3mPouSuZKZ"
+      "duration_ms": 236494,
+      "name": "Cerrar los ojos - Directo en Casa Grito",
+      "url": "https://open.spotify.com/track/6ieYVrQHg9GCobjcCVE021"
     },
     {
       "added_at": "2026-10-15 22:01:52",
@@ -1719,18 +1719,18 @@
     {
       "added_at": "2026-10-15 22:01:52",
       "album": {
-        "name": "201 - Directo en Casa Grito",
-        "url": "https://open.spotify.com/album/1cXNOx12JrvNBNczLLq4Y0"
+        "name": "Kevin",
+        "url": "https://open.spotify.com/album/3EOPENikNPh26ZofamfSTT"
       },
       "artists": [
         {
-          "name": "Repion",
-          "url": "https://open.spotify.com/artist/15o4xwiKZWJ6jOFp9LeP24"
+          "name": "Ferran Palau",
+          "url": "https://open.spotify.com/artist/7h0Xj4rDQMndEq2JsZZVzM"
         }
       ],
-      "duration_ms": 236494,
-      "name": "Cerrar los ojos - Directo en Casa Grito",
-      "url": "https://open.spotify.com/track/6ieYVrQHg9GCobjcCVE021"
+      "duration_ms": 203003,
+      "name": "Kevin",
+      "url": "https://open.spotify.com/track/1CWVTz4v0IHU3mPouSuZKZ"
     },
     {
       "added_at": "2026-10-15 22:01:52",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2026-10-15 22:01:52",
       "album": {
-        "name": "talvez",
-        "url": "https://open.spotify.com/album/2jAD6mAa04Y4cUt4GtAUYW"
-      },
-      "artists": [
-        {
-          "name": "AMYNATA",
-          "url": "https://open.spotify.com/artist/1OfMb4DATw7yp7zMBjUuLg"
-        }
-      ],
-      "duration_ms": 128846,
-      "name": "talvez",
-      "url": "https://open.spotify.com/track/6Az9wDLwMpLGDxJ5dmln3D"
-    },
-    {
-      "added_at": "2026-10-15 22:01:52",
-      "album": {
         "name": "Me Tienes Aqu\u00ed",
         "url": "https://open.spotify.com/album/2QOyRlNU81eSsC3hbFhduc"
       },
@@ -1891,22 +1875,18 @@
     {
       "added_at": "2026-10-15 22:01:52",
       "album": {
-        "name": "El Noi de la Mare",
-        "url": "https://open.spotify.com/album/1GyYr7au04PcBI5x3FgLtG"
+        "name": "talvez",
+        "url": "https://open.spotify.com/album/2jAD6mAa04Y4cUt4GtAUYW"
       },
       "artists": [
         {
-          "name": "S\u00edlvia P\u00e9rez Cruz",
-          "url": "https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw"
-        },
-        {
-          "name": "Juan Fal\u00fa",
-          "url": "https://open.spotify.com/artist/2NjcVfg5McVYV375Fm0rFH"
+          "name": "AMYNATA",
+          "url": "https://open.spotify.com/artist/1OfMb4DATw7yp7zMBjUuLg"
         }
       ],
-      "duration_ms": 243020,
-      "name": "El Noi de la Mare",
-      "url": "https://open.spotify.com/track/66g8zLOa9PaF5bXQ6ubktQ"
+      "duration_ms": 128846,
+      "name": "talvez",
+      "url": "https://open.spotify.com/track/6Az9wDLwMpLGDxJ5dmln3D"
     },
     {
       "added_at": "2026-10-15 22:01:52",
@@ -1923,6 +1903,26 @@
       "duration_ms": 188411,
       "name": "Tan brillant",
       "url": "https://open.spotify.com/track/2OTuWGelABOCooV0bT4WL5"
+    },
+    {
+      "added_at": "2026-10-15 22:01:52",
+      "album": {
+        "name": "El Noi de la Mare",
+        "url": "https://open.spotify.com/album/1GyYr7au04PcBI5x3FgLtG"
+      },
+      "artists": [
+        {
+          "name": "S\u00edlvia P\u00e9rez Cruz",
+          "url": "https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw"
+        },
+        {
+          "name": "Juan Fal\u00fa",
+          "url": "https://open.spotify.com/artist/2NjcVfg5McVYV375Fm0rFH"
+        }
+      ],
+      "duration_ms": 243020,
+      "name": "El Noi de la Mare",
+      "url": "https://open.spotify.com/track/66g8zLOa9PaF5bXQ6ubktQ"
     },
     {
       "added_at": "2026-10-15 22:01:52",
@@ -2047,22 +2047,6 @@
     {
       "added_at": "2026-10-15 22:01:52",
       "album": {
-        "name": "Hasta los Glaciares",
-        "url": "https://open.spotify.com/album/7pZHutsAlnuMmp59NncmBs"
-      },
-      "artists": [
-        {
-          "name": "Daga Voladora",
-          "url": "https://open.spotify.com/artist/0HkkrjqypBf5EUrsCZNxca"
-        }
-      ],
-      "duration_ms": 201381,
-      "name": "Hasta los Glaciares",
-      "url": "https://open.spotify.com/track/1ZKFxPfx7zcFWrp7Dh3Oql"
-    },
-    {
-      "added_at": "2026-10-15 22:01:52",
-      "album": {
         "name": "5AM",
         "url": "https://open.spotify.com/album/2MY27JscZjr0d01jDMISv4"
       },
@@ -2075,6 +2059,22 @@
       "duration_ms": 216800,
       "name": "5AM",
       "url": "https://open.spotify.com/track/3hbQZgr6kAH6zo8pqOivwT"
+    },
+    {
+      "added_at": "2026-10-15 22:01:52",
+      "album": {
+        "name": "Hasta los Glaciares",
+        "url": "https://open.spotify.com/album/7pZHutsAlnuMmp59NncmBs"
+      },
+      "artists": [
+        {
+          "name": "Daga Voladora",
+          "url": "https://open.spotify.com/artist/0HkkrjqypBf5EUrsCZNxca"
+        }
+      ],
+      "duration_ms": 201381,
+      "name": "Hasta los Glaciares",
+      "url": "https://open.spotify.com/track/1ZKFxPfx7zcFWrp7Dh3Oql"
     },
     {
       "added_at": "2026-10-15 22:01:52",

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avENAAAAAACmDnqAi9F/QrE3wOpBYLWg",
+  "snapshot_id": "avOwAAAAAAAFJ1Ud2iWcDu2n6CfeMVh6",
   "tracks": [
     {
       "added_at": null,
@@ -103,6 +103,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "All Your Love",
+        "url": "https://open.spotify.com/album/4EcmsY4avimrHEiYWgJxSD"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        }
+      ],
+      "duration_ms": 128142,
+      "name": "All Your Love",
+      "url": "https://open.spotify.com/track/54myGd3cApYi3ZSSXseWmr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Don't Look Down (feat. BANKS)",
         "url": "https://open.spotify.com/album/7CQsq8FQ9BPHTwgAK6ONXN"
       },
@@ -119,22 +135,6 @@
       "duration_ms": 205423,
       "name": "Don't Look Down (feat. BANKS)",
       "url": "https://open.spotify.com/track/7nO01nUfeU6b6N6WxaRmdH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "All Your Love",
-        "url": "https://open.spotify.com/album/4EcmsY4avimrHEiYWgJxSD"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        }
-      ],
-      "duration_ms": 128142,
-      "name": "All Your Love",
-      "url": "https://open.spotify.com/track/54myGd3cApYi3ZSSXseWmr"
     },
     {
       "added_at": null,
@@ -451,26 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Afterlife",
-        "url": "https://open.spotify.com/album/5FvZBcWlokND0Y5fKcf85c"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        },
-        {
-          "name": "Linney",
-          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
-        }
-      ],
-      "duration_ms": 184163,
-      "name": "Afterlife",
-      "url": "https://open.spotify.com/track/1IATy9AtXQ96BqOAncqaal"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Red Eye Home",
         "url": "https://open.spotify.com/album/6MGFhNLw9fZVFD1KgBqGta"
       },
@@ -491,22 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Cure To Loneliness",
-        "url": "https://open.spotify.com/album/4xC8keq1HPNhkS1qMbLPjF"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        }
-      ],
-      "duration_ms": 234813,
-      "name": "This Song Reminds Me Of You",
-      "url": "https://open.spotify.com/track/0pBUqvtpmhEqFxuhQLur8P"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Weekend",
         "url": "https://open.spotify.com/album/5RW5fQHscTw8urPl8pTsuS"
       },
@@ -523,6 +487,42 @@
       "duration_ms": 168821,
       "name": "Weekend",
       "url": "https://open.spotify.com/track/5QbbJFoN3rLoMAuE6TaLad"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Cure To Loneliness",
+        "url": "https://open.spotify.com/album/4xC8keq1HPNhkS1qMbLPjF"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        }
+      ],
+      "duration_ms": 234813,
+      "name": "This Song Reminds Me Of You",
+      "url": "https://open.spotify.com/track/0pBUqvtpmhEqFxuhQLur8P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Afterlife",
+        "url": "https://open.spotify.com/album/5FvZBcWlokND0Y5fKcf85c"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        },
+        {
+          "name": "Linney",
+          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
+        }
+      ],
+      "duration_ms": 184163,
+      "name": "Afterlife",
+      "url": "https://open.spotify.com/track/1IATy9AtXQ96BqOAncqaal"
     },
     {
       "added_at": null,
@@ -603,6 +603,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Red Eye Home",
+        "url": "https://open.spotify.com/album/6MGFhNLw9fZVFD1KgBqGta"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Heaven Is Calling",
+      "url": "https://open.spotify.com/track/1rZKC24fmvMlfzYo668JdJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Say My Name",
         "url": "https://open.spotify.com/album/0FzK089OhhE9ClJLa6t7zI"
       },
@@ -619,26 +635,6 @@
       "duration_ms": 210923,
       "name": "Say My Name",
       "url": "https://open.spotify.com/track/31xap7wcReOw50PxpEdh4C"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Red Eye Home",
-        "url": "https://open.spotify.com/album/6MGFhNLw9fZVFD1KgBqGta"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        },
-        {
-          "name": "Aluna",
-          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
-        }
-      ],
-      "duration_ms": 209142,
-      "name": "Water Sign (feat. Aluna)",
-      "url": "https://open.spotify.com/track/5P1WwERubwLGRt2Vz5nY6q"
     },
     {
       "added_at": null,
@@ -679,6 +675,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Red Eye Home",
+        "url": "https://open.spotify.com/album/6MGFhNLw9fZVFD1KgBqGta"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        },
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        }
+      ],
+      "duration_ms": 209142,
+      "name": "Water Sign (feat. Aluna)",
+      "url": "https://open.spotify.com/track/5P1WwERubwLGRt2Vz5nY6q"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vertigo",
         "url": "https://open.spotify.com/album/4enJwfK8u2T1Z8OjOs26n5"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 182571,
       "name": "Vertigo",
       "url": "https://open.spotify.com/track/11h1KwP4Ii4ASDUxY9zpMg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Red Eye Home",
-        "url": "https://open.spotify.com/album/6MGFhNLw9fZVFD1KgBqGta"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Heaven Is Calling",
-      "url": "https://open.spotify.com/track/1rZKC24fmvMlfzYo668JdJ"
     },
     {
       "added_at": null,
@@ -755,26 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "We Rise (Jai Wolf Remix)",
-        "url": "https://open.spotify.com/album/7IsUiiiwpbZ94J1CMAFNXW"
-      },
-      "artists": [
-        {
-          "name": "San Holo",
-          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
-        },
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        }
-      ],
-      "duration_ms": 188616,
-      "name": "We Rise - Jai Wolf Remix",
-      "url": "https://open.spotify.com/track/3t9m6BZTPVw7ClRSJBQpGs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Red Eye Home",
         "url": "https://open.spotify.com/album/6MGFhNLw9fZVFD1KgBqGta"
       },
@@ -791,6 +771,26 @@
       "duration_ms": 283764,
       "name": "Red Eye (feat. rei brown)",
       "url": "https://open.spotify.com/track/6YNFPf33hsayb5qwuehAQS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "We Rise (Jai Wolf Remix)",
+        "url": "https://open.spotify.com/album/7IsUiiiwpbZ94J1CMAFNXW"
+      },
+      "artists": [
+        {
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+        },
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        }
+      ],
+      "duration_ms": 188616,
+      "name": "We Rise - Jai Wolf Remix",
+      "url": "https://open.spotify.com/track/3t9m6BZTPVw7ClRSJBQpGs"
     },
     {
       "added_at": null,
@@ -831,6 +831,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Red Eye Home",
+        "url": "https://open.spotify.com/album/6MGFhNLw9fZVFD1KgBqGta"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        }
+      ],
+      "duration_ms": 100625,
+      "name": "3 Tattoos (Rishi\u2019s Interlude)",
+      "url": "https://open.spotify.com/track/2PQnL2SJ7DtwtfYCRW83LG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "In The End (Jai Wolf Club Babu Remix)",
         "url": "https://open.spotify.com/album/3f33kxanpbHtn87RAfGBuc"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 229928,
       "name": "In The End - Jai Wolf Club Babu Remix",
       "url": "https://open.spotify.com/track/2fdN9YHdCMXdstUqmHAQUS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Red Eye Home",
-        "url": "https://open.spotify.com/album/6MGFhNLw9fZVFD1KgBqGta"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        }
-      ],
-      "duration_ms": 100625,
-      "name": "3 Tattoos (Rishi\u2019s Interlude)",
-      "url": "https://open.spotify.com/track/2PQnL2SJ7DtwtfYCRW83LG"
     },
     {
       "added_at": null,

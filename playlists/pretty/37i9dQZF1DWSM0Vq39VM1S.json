@@ -1,6 +1,6 @@
 {
   "description": "C'est parti pour une bonne journ\u00e9e.",
-  "num_followers": 388358,
+  "num_followers": 388347,
   "original_name": "R\u00e9veil en douceur",
   "owner": {
     "name": "Spotify",
@@ -63,22 +63,6 @@
     {
       "added_at": "2026-11-05 23:00:20",
       "album": {
-        "name": "The Universe Smiles Upon You ii",
-        "url": "https://open.spotify.com/album/45ZWDMMVK0N0Hd2p7fLTCB"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        }
-      ],
-      "duration_ms": 291190,
-      "name": "White Gloves ii",
-      "url": "https://open.spotify.com/track/4EGilW7VYfTULk4RENDfJp"
-    },
-    {
-      "added_at": "2026-11-05 23:00:20",
-      "album": {
         "name": "Somewhere Between",
         "url": "https://open.spotify.com/album/2MwfrGfon5UGQ13z0Vh5tW"
       },
@@ -95,6 +79,22 @@
       "duration_ms": 183520,
       "name": "Wake Me Up",
       "url": "https://open.spotify.com/track/1PADgJaScdTMTCfjxVXfhZ"
+    },
+    {
+      "added_at": "2026-11-05 23:00:20",
+      "album": {
+        "name": "The Universe Smiles Upon You ii",
+        "url": "https://open.spotify.com/album/45ZWDMMVK0N0Hd2p7fLTCB"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 291190,
+      "name": "White Gloves ii",
+      "url": "https://open.spotify.com/track/4EGilW7VYfTULk4RENDfJp"
     },
     {
       "added_at": "2026-11-05 23:00:20",
@@ -283,22 +283,6 @@
     {
       "added_at": "2026-11-05 23:00:20",
       "album": {
-        "name": "Rent California",
-        "url": "https://open.spotify.com/album/0LYAS83ZYKtL3JYwZOWAKV"
-      },
-      "artists": [
-        {
-          "name": "James Vincent McMorrow",
-          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
-        }
-      ],
-      "duration_ms": 243595,
-      "name": "Rent California",
-      "url": "https://open.spotify.com/track/5pM6G3SNUe0YIvdbo6YMV8"
-    },
-    {
-      "added_at": "2026-11-05 23:00:20",
-      "album": {
         "name": "Pale Blue Eyes",
         "url": "https://open.spotify.com/album/2LnTh8KbcYBW8C8WmVS46D"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 189905,
       "name": "Pale Blue Eyes",
       "url": "https://open.spotify.com/track/4aK4bJInGOV0Skp8uYrWuE"
+    },
+    {
+      "added_at": "2026-11-05 23:00:20",
+      "album": {
+        "name": "Rent California",
+        "url": "https://open.spotify.com/album/0LYAS83ZYKtL3JYwZOWAKV"
+      },
+      "artists": [
+        {
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+        }
+      ],
+      "duration_ms": 243595,
+      "name": "Rent California",
+      "url": "https://open.spotify.com/track/5pM6G3SNUe0YIvdbo6YMV8"
     },
     {
       "added_at": "2026-11-05 23:00:20",
@@ -399,22 +399,6 @@
     {
       "added_at": "2026-11-05 23:00:20",
       "album": {
-        "name": "Unforgivable Things",
-        "url": "https://open.spotify.com/album/2Q268vFBrWzAj28Hv7vtgC"
-      },
-      "artists": [
-        {
-          "name": "Lennon Stella",
-          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
-        }
-      ],
-      "duration_ms": 155017,
-      "name": "Unforgivable Things",
-      "url": "https://open.spotify.com/track/2Zj7NczSaCllfU2QGaevYB"
-    },
-    {
-      "added_at": "2026-11-05 23:00:20",
-      "album": {
         "name": "And In The Darkness, Hearts Aglow",
         "url": "https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 376520,
       "name": "It's Not Just Me, It's Everybody",
       "url": "https://open.spotify.com/track/7G6NU3cp3ufNMEFCI2l90X"
+    },
+    {
+      "added_at": "2026-11-05 23:00:20",
+      "album": {
+        "name": "Unforgivable Things",
+        "url": "https://open.spotify.com/album/2Q268vFBrWzAj28Hv7vtgC"
+      },
+      "artists": [
+        {
+          "name": "Lennon Stella",
+          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
+        }
+      ],
+      "duration_ms": 155017,
+      "name": "Unforgivable Things",
+      "url": "https://open.spotify.com/track/2Zj7NczSaCllfU2QGaevYB"
     },
     {
       "added_at": "2026-11-05 23:00:20",
@@ -567,22 +567,6 @@
     {
       "added_at": "2026-11-05 23:00:20",
       "album": {
-        "name": "Paint The Picture",
-        "url": "https://open.spotify.com/album/2mIgyg5OiYlHAJ0IWKZnJe"
-      },
-      "artists": [
-        {
-          "name": "Aaron Frazer",
-          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
-        }
-      ],
-      "duration_ms": 195093,
-      "name": "Paint The Picture",
-      "url": "https://open.spotify.com/track/4Mr1kvqFKseh4iKiB5GoYx"
-    },
-    {
-      "added_at": "2026-11-05 23:00:20",
-      "album": {
         "name": "Satin Psicodelic",
         "url": "https://open.spotify.com/album/1HRzxvSMJSc6sNHrU2JA1W"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 324130,
       "name": "Mornin Dew",
       "url": "https://open.spotify.com/track/6bxtai04eVsvV7IZGqOXMy"
+    },
+    {
+      "added_at": "2026-11-05 23:00:20",
+      "album": {
+        "name": "Paint The Picture",
+        "url": "https://open.spotify.com/album/2mIgyg5OiYlHAJ0IWKZnJe"
+      },
+      "artists": [
+        {
+          "name": "Aaron Frazer",
+          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
+        }
+      ],
+      "duration_ms": 195093,
+      "name": "Paint The Picture",
+      "url": "https://open.spotify.com/track/4Mr1kvqFKseh4iKiB5GoYx"
     },
     {
       "added_at": "2026-11-05 23:00:20",

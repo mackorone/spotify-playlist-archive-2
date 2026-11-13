@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "AD\u00c9LA  in cover della playlist con tutte le hit \ud83d\udd25",
+  "description": "Tate McRae  in cover della playlist con tutte le hit \ud83d\udd25",
   "name": "Hot Hits Italia",
   "tracks": [
     {
@@ -148,6 +148,24 @@
       "duration_ms": 142615,
       "name": "30\u00baC",
       "url": "https://open.spotify.com/track/5eyL6waluu7hXrRrWewBFU"
+    },
+    {
+      "album": {
+        "name": "7/7",
+        "url": "https://open.spotify.com/album/1we0yt2pmpz84YEIboKAan"
+      },
+      "artists": [
+        {
+          "name": "Frezza",
+          "url": "https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155647,
+      "name": "7/7",
+      "url": "https://open.spotify.com/track/5P39MpRYjtD28Q3xPbK9E2"
     },
     {
       "album": {
@@ -2868,7 +2886,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 164262,
       "name": "FLAMENCO PARANOIA",
       "url": "https://open.spotify.com/track/549DrPfwUQuZB3q53WQh1z"

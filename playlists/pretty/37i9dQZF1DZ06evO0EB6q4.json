@@ -1,12 +1,12 @@
 {
   "description": "This is Nanpa B\u00e1sico. The essential tracks, all in one playlist.",
-  "num_followers": 270292,
+  "num_followers": 270342,
   "original_name": "This Is Nanpa B\u00e1sico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avENAAAAAADtnB8MIxHZ8veVUyKY/3td",
+  "snapshot_id": "avOwAAAAAAAFAF0Cl6j905ktqH8ISQ0H",
   "tracks": [
     {
       "added_at": null,
@@ -275,6 +275,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Que Tin y Que Tan",
+        "url": "https://open.spotify.com/album/6I3EDRLLHEek6mF7yGKcMu"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 135998,
+      "name": "Estuve Ah\u00ed",
+      "url": "https://open.spotify.com/track/7lkoSBTAVsOAZFko4ONiCo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Paz Mental",
         "url": "https://open.spotify.com/album/2Dxid0n6fLgS8gtAf0Xlze"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 209032,
       "name": "Paz Mental",
       "url": "https://open.spotify.com/track/6NBmlO9D9y32zDjf3PsF6G"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Que Tin y Que Tan",
-        "url": "https://open.spotify.com/album/6I3EDRLLHEek6mF7yGKcMu"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 135998,
-      "name": "Estuve Ah\u00ed",
-      "url": "https://open.spotify.com/track/7lkoSBTAVsOAZFko4ONiCo"
     },
     {
       "added_at": null,
@@ -419,6 +419,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Duelo",
+        "url": "https://open.spotify.com/album/5lyKUk7jLN0Tue0ThuW9kl"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 216572,
+      "name": "Oro Por Ti",
+      "url": "https://open.spotify.com/track/3hWnBTMoc0QGporRnmLZQn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mustang 65'",
         "url": "https://open.spotify.com/album/6N7LzstAyCIAe7sQHJLOEq"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 206200,
       "name": "Prohibida",
       "url": "https://open.spotify.com/track/7bbo8bW8isBHUSrd2pVF7z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Duelo",
-        "url": "https://open.spotify.com/album/5lyKUk7jLN0Tue0ThuW9kl"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 216572,
-      "name": "Oro Por Ti",
-      "url": "https://open.spotify.com/track/3hWnBTMoc0QGporRnmLZQn"
     },
     {
       "added_at": null,
@@ -747,6 +747,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pelinegra",
+        "url": "https://open.spotify.com/album/4JuX8uo2Z2hememSjuoOSK"
+      },
+      "artists": [
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 217739,
+      "name": "Pelinegra",
+      "url": "https://open.spotify.com/track/3Huo8FfIN5pph8cwHvgUiM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Contra Todo Pron\u00f3stico",
         "url": "https://open.spotify.com/album/6Vci5Gbazs7TZYDNliRJKO"
       },
@@ -767,26 +787,6 @@
       "duration_ms": 189098,
       "name": "Volvernos a Amar",
       "url": "https://open.spotify.com/track/3W1HtrBRDTYdvDJ6Ty4bfn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pelinegra",
-        "url": "https://open.spotify.com/album/4JuX8uo2Z2hememSjuoOSK"
-      },
-      "artists": [
-        {
-          "name": "Kapo",
-          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
-        },
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 217739,
-      "name": "Pelinegra",
-      "url": "https://open.spotify.com/track/3Huo8FfIN5pph8cwHvgUiM"
     },
     {
       "added_at": null,
@@ -816,9 +816,9 @@
           "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
         }
       ],
-      "duration_ms": 149895,
-      "name": "Si Usted Quiere",
-      "url": "https://open.spotify.com/track/2DkcpqPaeY8cHZkdW6bX9O"
+      "duration_ms": 165841,
+      "name": "Para terminar en nada",
+      "url": "https://open.spotify.com/track/2Y2L7YqpXEGmVZldo73DA8"
     },
     {
       "added_at": null,
@@ -892,9 +892,9 @@
           "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
         }
       ],
-      "duration_ms": 165841,
-      "name": "Para terminar en nada",
-      "url": "https://open.spotify.com/track/2Y2L7YqpXEGmVZldo73DA8"
+      "duration_ms": 149895,
+      "name": "Si Usted Quiere",
+      "url": "https://open.spotify.com/track/2DkcpqPaeY8cHZkdW6bX9O"
     },
     {
       "added_at": null,
@@ -915,26 +915,6 @@
       "duration_ms": 160703,
       "name": "Perd\u00f3name",
       "url": "https://open.spotify.com/track/5o32j88I290Oi9S6DalgPr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Me Gustas M\u00e1s Que Salir a Fumar",
-        "url": "https://open.spotify.com/album/7B09xwvImN3XxIC7Dk5bOL"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        },
-        {
-          "name": "Alka Produce",
-          "url": "https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q"
-        }
-      ],
-      "duration_ms": 203456,
-      "name": "Me Gustas M\u00e1s Que Salir a Fumar",
-      "url": "https://open.spotify.com/track/4YboPBRofQXESDyYLZZOSM"
     },
     {
       "added_at": null,
@@ -963,6 +943,26 @@
       "duration_ms": 185084,
       "name": "TRAGO #1 LOLOLO",
       "url": "https://open.spotify.com/track/4hwdIStMgDWTkFBoNSwlM8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me Gustas M\u00e1s Que Salir a Fumar",
+        "url": "https://open.spotify.com/album/7B09xwvImN3XxIC7Dk5bOL"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Alka Produce",
+          "url": "https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q"
+        }
+      ],
+      "duration_ms": 203456,
+      "name": "Me Gustas M\u00e1s Que Salir a Fumar",
+      "url": "https://open.spotify.com/track/4YboPBRofQXESDyYLZZOSM"
     },
     {
       "added_at": null,

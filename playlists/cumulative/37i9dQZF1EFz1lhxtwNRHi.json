@@ -247,6 +247,24 @@
     },
     {
       "album": {
+        "name": "Shawn Mendes",
+        "url": "https://open.spotify.com/album/2VP96XdMOKTXefI8Nui23s"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142480,
+      "name": "Because I Had You",
+      "url": "https://open.spotify.com/track/1RRZSm4akqNyMOsPUhw4cb"
+    },
+    {
+      "album": {
         "name": "EL GANZO",
         "url": "https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ"
       },
@@ -474,7 +492,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-15",
+      "date_removed": null,
       "duration_ms": 182746,
       "name": "Celebrity",
       "url": "https://open.spotify.com/track/64qEkCn9ntAmCUdVL6uG4u"
@@ -839,6 +857,42 @@
     },
     {
       "album": {
+        "name": "Living Alone",
+        "url": "https://open.spotify.com/album/1BIJN1yR9QoteRu2BR0V5S"
+      },
+      "artists": [
+        {
+          "name": "Teddy Geiger",
+          "url": "https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212880,
+      "name": "Drink It In",
+      "url": "https://open.spotify.com/track/67yBqB8voPaimdxu1aEQda"
+    },
+    {
+      "album": {
+        "name": "The Sound Experiment 2 - EP",
+        "url": "https://open.spotify.com/album/2RVHro1akoqXxD5ZHB7mgO"
+      },
+      "artists": [
+        {
+          "name": "Samm Henshaw",
+          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240400,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/6Xwpoij6rE9EN0OgJHBdXv"
+    },
+    {
+      "album": {
         "name": "Emergency",
         "url": "https://open.spotify.com/album/2HbmDfMxtgPFf73xQbeaga"
       },
@@ -857,6 +911,24 @@
     },
     {
       "album": {
+        "name": "LACES",
+        "url": "https://open.spotify.com/album/4sase8Fh1jeovdS16pFRJX"
+      },
+      "artists": [
+        {
+          "name": "LACES",
+          "url": "https://open.spotify.com/artist/6yMmGdc524t6LunXvGeffb"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196800,
+      "name": "Enemy",
+      "url": "https://open.spotify.com/track/3ZWVfrzNjKiXplYVHGsrNk"
+    },
+    {
+      "album": {
         "name": "Express Myself",
         "url": "https://open.spotify.com/album/5fKJd9WRNCvI8RYct7oWUP"
       },
@@ -872,6 +944,24 @@
       "duration_ms": 210079,
       "name": "Express Myself",
       "url": "https://open.spotify.com/track/4UisKEOzb1R6Yu95k7UF0E"
+    },
+    {
+      "album": {
+        "name": "Shawn Mendes",
+        "url": "https://open.spotify.com/album/2VP96XdMOKTXefI8Nui23s"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235746,
+      "name": "Fallin' All In You",
+      "url": "https://open.spotify.com/track/5EYBryPOgIEPB7r5QIy6eG"
     },
     {
       "album": {
@@ -1081,6 +1171,24 @@
     },
     {
       "album": {
+        "name": "Living Alone",
+        "url": "https://open.spotify.com/album/1BIJN1yR9QoteRu2BR0V5S"
+      },
+      "artists": [
+        {
+          "name": "Teddy Geiger",
+          "url": "https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204440,
+      "name": "GIve It Up",
+      "url": "https://open.spotify.com/track/45zAZd3NST8CVXDC48VEZh"
+    },
+    {
+      "album": {
         "name": "Just For Fun",
         "url": "https://open.spotify.com/album/17QkdaxVp5VTcu2DyABHoi"
       },
@@ -1276,6 +1384,28 @@
       "duration_ms": 221629,
       "name": "Hurt Me Now",
       "url": "https://open.spotify.com/track/6vrdhvVQXyg7Rji0tFN1Gv"
+    },
+    {
+      "album": {
+        "name": "feel good!!",
+        "url": "https://open.spotify.com/album/6ZTKQ5iWAf3hSxZ2iiDimM"
+      },
+      "artists": [
+        {
+          "name": "Ni/Co's Covers",
+          "url": "https://open.spotify.com/artist/14nRu7BBWmBVENgfwi1YjY"
+        },
+        {
+          "name": "Ni/Co",
+          "url": "https://open.spotify.com/artist/2IR0GSCHsTo7gSw8HHLBnr"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121348,
+      "name": "hurts 2b human",
+      "url": "https://open.spotify.com/track/7vxuG6iLWwvFtqjg9uMK6x"
     },
     {
       "album": {
@@ -1641,6 +1771,24 @@
     },
     {
       "album": {
+        "name": "LACES",
+        "url": "https://open.spotify.com/album/4sase8Fh1jeovdS16pFRJX"
+      },
+      "artists": [
+        {
+          "name": "LACES",
+          "url": "https://open.spotify.com/artist/6yMmGdc524t6LunXvGeffb"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Lead Me On (We Are Not In Love)",
+      "url": "https://open.spotify.com/track/6rwDMwoATOuzYogVKlBrNn"
+    },
+    {
+      "album": {
         "name": "EL GANZO",
         "url": "https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ"
       },
@@ -1740,6 +1888,24 @@
       "duration_ms": 199800,
       "name": "Liberated",
       "url": "https://open.spotify.com/track/5OQByVDbs9788HBRIBqgNW"
+    },
+    {
+      "album": {
+        "name": "Living Alone",
+        "url": "https://open.spotify.com/album/1BIJN1yR9QoteRu2BR0V5S"
+      },
+      "artists": [
+        {
+          "name": "Teddy Geiger",
+          "url": "https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160626,
+      "name": "Lie Tonight (WE USed TWO)",
+      "url": "https://open.spotify.com/track/1UrmITHSByprLN8LsDCjSb"
     },
     {
       "album": {
@@ -1885,6 +2051,24 @@
     },
     {
       "album": {
+        "name": "Living Alone",
+        "url": "https://open.spotify.com/album/1BIJN1yR9QoteRu2BR0V5S"
+      },
+      "artists": [
+        {
+          "name": "Teddy Geiger",
+          "url": "https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189426,
+      "name": "Living Alone",
+      "url": "https://open.spotify.com/track/1uCAknwKMnkAvRYQMIxMvg"
+    },
+    {
+      "album": {
         "name": "LillyAnna",
         "url": "https://open.spotify.com/album/4MZfZGEPUXgCkxEI6fUedT"
       },
@@ -1962,6 +2146,24 @@
       "duration_ms": 201200,
       "name": "Lost In Japan",
       "url": "https://open.spotify.com/track/79esEXlqqmq0GPz0xQSZTV"
+    },
+    {
+      "album": {
+        "name": "Se\u00f1orita",
+        "url": "https://open.spotify.com/album/0Gkh333CogvVTxcz4TkycU"
+      },
+      "artists": [
+        {
+          "name": "Heaven is Shining",
+          "url": "https://open.spotify.com/artist/6n2WzXV5xPZH3Iet8mKtd9"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196083,
+      "name": "Lost in Japan (Remix)",
+      "url": "https://open.spotify.com/track/6TW20ljbvuem7QiWnaj7h7"
     },
     {
       "album": {
@@ -2651,6 +2853,24 @@
     },
     {
       "album": {
+        "name": "Shawn Mendes",
+        "url": "https://open.spotify.com/album/2VP96XdMOKTXefI8Nui23s"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212773,
+      "name": "Perfectly Wrong",
+      "url": "https://open.spotify.com/track/6nat4Z7iRKWVk1qngQqI0Q"
+    },
+    {
+      "album": {
         "name": "Fifty Shades Darker (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5VML6S956h4YfoYPooqLEi"
       },
@@ -2728,6 +2948,24 @@
       "duration_ms": 166093,
       "name": "pretty toxic revolver",
       "url": "https://open.spotify.com/track/28SCx38ziqfg3wwhnhFmvZ"
+    },
+    {
+      "album": {
+        "name": "Shawn Mendes",
+        "url": "https://open.spotify.com/album/2VP96XdMOKTXefI8Nui23s"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204693,
+      "name": "Queen",
+      "url": "https://open.spotify.com/track/6D8FZWtCQRtQUVT3mpjrZs"
     },
     {
       "album": {
@@ -2854,6 +3092,24 @@
       "duration_ms": 247044,
       "name": "Room for One More",
       "url": "https://open.spotify.com/track/6RpvIV4chwtjirAA6DiNzz"
+    },
+    {
+      "album": {
+        "name": "Barely Breathing",
+        "url": "https://open.spotify.com/album/5oBVF8g8guWWrByPxwO5Pa"
+      },
+      "artists": [
+        {
+          "name": "Connell Cruise",
+          "url": "https://open.spotify.com/artist/6mTycJncoEwPBjjmLPeUqs"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215297,
+      "name": "Run & Hide",
+      "url": "https://open.spotify.com/track/4eJfRZkVqvX8ROSn7CPaJt"
     },
     {
       "album": {
@@ -3111,6 +3367,24 @@
     },
     {
       "album": {
+        "name": "Living Alone",
+        "url": "https://open.spotify.com/album/1BIJN1yR9QoteRu2BR0V5S"
+      },
+      "artists": [
+        {
+          "name": "Teddy Geiger",
+          "url": "https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227026,
+      "name": "Sit And Wonder",
+      "url": "https://open.spotify.com/track/2y1u8Xa8NYZKMU1WERlBFK"
+    },
+    {
+      "album": {
         "name": "SKYLOFT",
         "url": "https://open.spotify.com/album/6A0tCIaSLycr0Yyxsbz9ci"
       },
@@ -3274,6 +3548,28 @@
       "duration_ms": 185066,
       "name": "SOS (Overboard)",
       "url": "https://open.spotify.com/track/4OeXeFN1dxx3LTrjcKGSV9"
+    },
+    {
+      "album": {
+        "name": "Spaceship (feat. Uffie)",
+        "url": "https://open.spotify.com/album/62DGTGmwPat1TZksLeVu0m"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        },
+        {
+          "name": "Uffie",
+          "url": "https://open.spotify.com/artist/2s6lxOYvvCvzpHtd3VyuMj"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167079,
+      "name": "Spaceship (feat. Uffie)",
+      "url": "https://open.spotify.com/track/2aOlxywgl4nCD4Xh2mLWM7"
     },
     {
       "album": {
@@ -3448,6 +3744,24 @@
       "duration_ms": 317026,
       "name": "Teenage Boys",
       "url": "https://open.spotify.com/track/3t1b1SpzqIqOY60nXGHB90"
+    },
+    {
+      "album": {
+        "name": "Indian Summer",
+        "url": "https://open.spotify.com/album/2WeFU3ZF6VRQ1dBVs3AtZi"
+      },
+      "artists": [
+        {
+          "name": "Tyler Hilton",
+          "url": "https://open.spotify.com/artist/1bKdOEfMk4ftojJQdyV2Ik"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198720,
+      "name": "That Kind of Night",
+      "url": "https://open.spotify.com/track/1I7DNitroztz7OooXqdxEh"
     },
     {
       "album": {
@@ -3867,6 +4181,24 @@
     },
     {
       "album": {
+        "name": "The Last Fears",
+        "url": "https://open.spotify.com/album/6lwZKirdJlVA99Vvb6m81v"
+      },
+      "artists": [
+        {
+          "name": "Teddy Geiger",
+          "url": "https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204763,
+      "name": "Walking in the Sun",
+      "url": "https://open.spotify.com/track/4j2oNQt1rtM10bxYEBO0SR"
+    },
+    {
+      "album": {
         "name": "Way Back",
         "url": "https://open.spotify.com/album/1228EEKC3pUCGKsnhJs49Z"
       },
@@ -3961,6 +4293,24 @@
     },
     {
       "album": {
+        "name": "Living Alone",
+        "url": "https://open.spotify.com/album/1BIJN1yR9QoteRu2BR0V5S"
+      },
+      "artists": [
+        {
+          "name": "Teddy Geiger",
+          "url": "https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222866,
+      "name": "What Kind Of Love",
+      "url": "https://open.spotify.com/track/5MKKJV5uYs3iNaPxQAXmfX"
+    },
+    {
+      "album": {
         "name": "Shawn Mendes",
         "url": "https://open.spotify.com/album/2VP96XdMOKTXefI8Nui23s"
       },
@@ -4033,6 +4383,24 @@
     },
     {
       "album": {
+        "name": "Shawn Mendes",
+        "url": "https://open.spotify.com/album/2VP96XdMOKTXefI8Nui23s"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200600,
+      "name": "Where Were You In The Morning?",
+      "url": "https://open.spotify.com/track/376Gg7Oxo5C5jUWDWpVXeI"
+    },
+    {
+      "album": {
         "name": "SKYLOFT",
         "url": "https://open.spotify.com/album/0dvuqLEnlfiHV491p4wtWf"
       },
@@ -4088,6 +4456,24 @@
       "duration_ms": 183427,
       "name": "Who I Am",
       "url": "https://open.spotify.com/track/6E5GZrfUuBSd4FilOPIljZ"
+    },
+    {
+      "album": {
+        "name": "Shawn Mendes",
+        "url": "https://open.spotify.com/album/2VP96XdMOKTXefI8Nui23s"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238173,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/3XeqINnregzwBJNg7RyyH4"
     },
     {
       "album": {
@@ -4270,6 +4656,24 @@
       "duration_ms": 214858,
       "name": "Ya Zi Me",
       "url": "https://open.spotify.com/track/7rMntdl7eVtbF3S0GU8izm"
+    },
+    {
+      "album": {
+        "name": "A Reminder",
+        "url": "https://open.spotify.com/album/1fcF8waLfuMSDHRCH5FGdH"
+      },
+      "artists": [
+        {
+          "name": "Drake Bell",
+          "url": "https://open.spotify.com/artist/03ilIKH0i08IxmjKcn63ne"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191520,
+      "name": "You're Not Thinking",
+      "url": "https://open.spotify.com/track/23OonpZdRhnkoxGo1nXWly"
     },
     {
       "album": {

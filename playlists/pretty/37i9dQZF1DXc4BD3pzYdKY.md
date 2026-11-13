@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 
 > The best of Christian Rap & Hip Hop today\.  Cover: Miles Minnick
 
-[Spotify](https://open.spotify.com/user/spotify) - 304,380 likes - 74 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 304,402 likes - 74 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

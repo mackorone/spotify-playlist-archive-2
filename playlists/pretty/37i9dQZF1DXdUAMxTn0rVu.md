@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUAMxTn0rVu.md) - [plain]
 
 > Essential songs from the late '90s, 2000s underground hip\-hop scene\. Cover: J Dilla
 
-[Spotify](https://open.spotify.com/user/spotify) - 658,105 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 658,169 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUAMxTn0rVu.md) - [plain]
 | 29 | [So Far to Go](https://open.spotify.com/track/4omO3Xwm4REEK5HGT6e6yY) | [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp), [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [The Shining](https://open.spotify.com/album/6hXXKsVVTfDbRTEuHaInI5) | 5:36 |
 | 30 | [Mastermind](https://open.spotify.com/track/0uMn8WKu3qtQLaUyal1bsz) | [Deltron 3030](https://open.spotify.com/artist/2efzHZrUGhawnSOTpyAHOQ), [Del The Funky Homosapien](https://open.spotify.com/artist/0YsLR3SQd5QTXAhGIGX7cl), [Dan The Automator](https://open.spotify.com/artist/4fv5w0LJib9OMbXQegqZ01), [Kid Koala](https://open.spotify.com/artist/2s0438sn0pYL2OuukcFqPN) | [Deltron 3030](https://open.spotify.com/album/04uhhcjGVCHodMgZjXOlye) | 3:34 |
 | 31 | [Peruvian Cocaine](https://open.spotify.com/track/3UFQM2oW4KXP3ZZ3jtBx2P) | [Immortal Technique](https://open.spotify.com/artist/7h8ja4JSORo2sXJPmCXRxa), [Tonedeff](https://open.spotify.com/artist/6tJRz44hifa2rNseM7RoTt), [Pumpkinhead](https://open.spotify.com/artist/6DlRKPBLhSYo0KbxVPljBk), [Poison Pen](https://open.spotify.com/artist/5Pm1ivc6SEmNCl6Z8oXVGi), [Loucipher](https://open.spotify.com/artist/54rUhWtGTfR3GMKNyGXyRW), [Diabolic](https://open.spotify.com/artist/32syImTOvzksQre9uRT2L8), [C\-Rayz Walz](https://open.spotify.com/artist/1l4hfWLBSaYjCO8E0lzASA) | [Revolutionary Vol\. 2](https://open.spotify.com/album/5xtkb5z9PgR0dmIf8WkNT0) | 4:48 |
-| 32 | [Scary Movies](https://open.spotify.com/track/2xqAI0XVjrn3VpK0bWa0wD) | [Bad Meets Evil](https://open.spotify.com/artist/77IURH5NC56Jn09QHi76is) | [Game Tight](https://open.spotify.com/album/2fq6xLDQhwbswMqTL3ey9M) | 3:45 |
-| 33 | [I Juswanna Chill](https://open.spotify.com/track/3ipzZgH1766XXRamVwk1Iw) | [Large Professor](https://open.spotify.com/artist/01nVIuD8YZsnFH6x6Cc9rX) | [The LP](https://open.spotify.com/album/7hzM3Sa8BoCKrNqrKJqyz1) | 3:28 |
+| 32 | [I Juswanna Chill](https://open.spotify.com/track/3ipzZgH1766XXRamVwk1Iw) | [Large Professor](https://open.spotify.com/artist/01nVIuD8YZsnFH6x6Cc9rX) | [The LP](https://open.spotify.com/album/7hzM3Sa8BoCKrNqrKJqyz1) | 3:28 |
+| 33 | [Scary Movies](https://open.spotify.com/track/2xqAI0XVjrn3VpK0bWa0wD) | [Bad Meets Evil](https://open.spotify.com/artist/77IURH5NC56Jn09QHi76is) | [Game Tight](https://open.spotify.com/album/2fq6xLDQhwbswMqTL3ey9M) | 3:45 |
 | 34 | [Won't Do](https://open.spotify.com/track/5IYzq28hEwrCRFDvQRFFpM) | [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp) | [The Shining](https://open.spotify.com/album/6hXXKsVVTfDbRTEuHaInI5) | 3:52 |
 | 35 | [Just Begun \(feat\. Jay Electronica, J\. Cole and Mos Def\)](https://open.spotify.com/track/4lHN90buToyId0wJsdl7ij) | [Talib Kweli](https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y), [Hi\-Tek](https://open.spotify.com/artist/7cG9Sjg2u3gbJBnWM8XgKS) | [Revolutions Per Minute](https://open.spotify.com/album/3uwRp5ehO2wWRBKcpjjQdR) | 3:47 |
 | 36 | [Brown Skin Lady](https://open.spotify.com/track/3Mz4AoWIedMfzCib1LYwMZ) | [Black Star](https://open.spotify.com/artist/67ei8ib6PLT1w3OkhIb4fB) | [Mos Def & Talib Kweli Are Black Star](https://open.spotify.com/album/6GRzmk9UGL7odxprOPop1Q) | 5:46 |

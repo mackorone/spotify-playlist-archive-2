@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vBPgvJFPJn.md) - [plain]
 
 > The best new music videos from independent artists and labels\. Featuring Cowboy Hunters\. Music videos only available on Premium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,308 likes - 81 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,321 likes - 81 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vBPgvJFPJn.md) - [plain]
 | 80 | [Picto](https://open.spotify.com/track/4WcvzX139qMLYTlPcCUoAn) | [Ulrika Spacek](https://open.spotify.com/artist/07vC6cutbett8UknXnqxsu) | [Picto](https://open.spotify.com/album/3HF6TUNZTfQ9Sv6lprcVfN) | 5:09 |
 | 81 | [Just Because](https://open.spotify.com/track/0R6iCCGsHrbh75peQKR3eV) | [Brooke Lee](https://open.spotify.com/artist/7mDMlZnQ1SQRtujvd3azxS) | [Just Because](https://open.spotify.com/album/5zC2iBc5qAS8gtLosjIaG3) | 2:59 |
 
-Snapshot ID: `AAAAAJNLcdS0wgF9uJJJxoPpU290Xqmp`
+Snapshot ID: `AAAAAG995g6WkF3sZa7lbfERifra2Ti3`

@@ -2889,6 +2889,28 @@
     },
     {
       "album": {
+        "name": "Million Nights",
+        "url": "https://open.spotify.com/album/5oH8MgoGiLtGifHR48I4IN"
+      },
+      "artists": [
+        {
+          "name": "Joris Sava",
+          "url": "https://open.spotify.com/artist/7M7NxBEoOEg35yqUyLRTgT"
+        },
+        {
+          "name": "Stephen Puth",
+          "url": "https://open.spotify.com/artist/6B72wjgAkhvxTVCL6xS6mC"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125538,
+      "name": "Million Nights",
+      "url": "https://open.spotify.com/track/5XaHxpg5B86KQRRZPdzODQ"
+    },
+    {
+      "album": {
         "name": "Missing Piece",
         "url": "https://open.spotify.com/album/3ISKoozRNGwImVBOrOYw6R"
       },

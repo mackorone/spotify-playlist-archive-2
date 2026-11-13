@@ -928,7 +928,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 218666,
       "name": "Casableu",
       "url": "https://open.spotify.com/track/62Og36IHCGO6MqmxUqU58B"
@@ -1154,6 +1154,28 @@
       "duration_ms": 222727,
       "name": "Days Pass",
       "url": "https://open.spotify.com/track/1JqmT6TAm16oxJhL5MwiwI"
+    },
+    {
+      "album": {
+        "name": "Diamanti",
+        "url": "https://open.spotify.com/album/41vTySQadkMdvNU9SIcqZe"
+      },
+      "artists": [
+        {
+          "name": "okgiorgio",
+          "url": "https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg"
+        },
+        {
+          "name": "PARISI",
+          "url": "https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173483,
+      "name": "Diamanti",
+      "url": "https://open.spotify.com/track/6zfxjkpJZNloKSCE7EfB50"
     },
     {
       "album": {
@@ -1787,6 +1809,24 @@
     },
     {
       "album": {
+        "name": "Goodbye",
+        "url": "https://open.spotify.com/album/7yjd2Me60OdNzz4s53wH1S"
+      },
+      "artists": [
+        {
+          "name": "4eva",
+          "url": "https://open.spotify.com/artist/2gIf3mtLTzopYe8Vf24zeb"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165360,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/25ZtS972qwzVLAVkNw6NjT"
+    },
+    {
+      "album": {
         "name": "Hates Me",
         "url": "https://open.spotify.com/album/3hISp4YyeYVGRPvEM2j5E0"
       },
@@ -2098,7 +2138,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 185202,
       "name": "If They Only Knew?",
       "url": "https://open.spotify.com/track/6FVnK1051a9f4ihuekcgMF"
@@ -3448,6 +3488,28 @@
     {
       "album": {
         "name": "October",
+        "url": "https://open.spotify.com/album/1zPNZIH7hW6qtN6NNXoTnr"
+      },
+      "artists": [
+        {
+          "name": "Catching Flies",
+          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
+        },
+        {
+          "name": "The West Green Quartet",
+          "url": "https://open.spotify.com/artist/5ncYX4gn6gNhestFIf9vwI"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "October",
+      "url": "https://open.spotify.com/track/6xTWiIVxAcsgWVnceKkcbQ"
+    },
+    {
+      "album": {
+        "name": "October",
         "url": "https://open.spotify.com/album/5PdBG1Q3tLZlSLoxB1LtK8"
       },
       "artists": [
@@ -3640,6 +3702,24 @@
       "duration_ms": 156688,
       "name": "open this wall",
       "url": "https://open.spotify.com/track/4m30cfL2qOwlFsuGqMOZ8k"
+    },
+    {
+      "album": {
+        "name": "Open Water",
+        "url": "https://open.spotify.com/album/1x8aTYxIgsnreLasOtQV7f"
+      },
+      "artists": [
+        {
+          "name": "Alex Lustig",
+          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301487,
+      "name": "Open Water",
+      "url": "https://open.spotify.com/track/1qYCdUSNYhMa7fbTVZkCmE"
     },
     {
       "album": {
@@ -3868,7 +3948,7 @@
       ],
       "date_added": "2020-06-05",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 254346,
       "name": "Patience",
       "url": "https://open.spotify.com/track/5pW62tsMUPtw8k69ifpcjJ"
@@ -4704,7 +4784,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 175040,
       "name": "Something Right",
       "url": "https://open.spotify.com/track/4m7n8fwmFXIopFBzWbmlzj"

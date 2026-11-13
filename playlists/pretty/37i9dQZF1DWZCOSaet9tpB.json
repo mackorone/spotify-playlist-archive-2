@@ -1,55 +1,15 @@
 {
-  "description": "Nigeria's hottest tracks.  Cover: Olamide",
-  "num_followers": 369489,
+  "description": "Nigeria's hottest tracks.  Cover: Peruzzi, Zlatan and Shoday ",
+  "num_followers": 369671,
   "original_name": "Hot Hits Naija ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACtjTVMSNL4gcv1viogeXFgIJ6YN",
+  "snapshot_id": "AAAAAIRTQfwAody4n4YBJZGdlIPiYvjN",
   "tracks": [
     {
-      "added_at": "2026-10-16 00:02:00",
-      "album": {
-        "name": "Oriad\u00e9",
-        "url": "https://open.spotify.com/album/43hCvloofcUeEmpK6RFldz"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Mayorkun",
-          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
-        },
-        {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
-        }
-      ],
-      "duration_ms": 166150,
-      "name": "B4 B4 (with Mayorkun & FOLA)",
-      "url": "https://open.spotify.com/track/37BTNKEaW6aUvsKH3O2UUt"
-    },
-    {
-      "added_at": "2026-10-16 00:02:00",
-      "album": {
-        "name": "M$NEY",
-        "url": "https://open.spotify.com/album/07iqzVICrgPFOpXem6MEpU"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 169911,
-      "name": "Gratitude",
-      "url": "https://open.spotify.com/track/7hiRlw64LXcHpGAVJ6eUzv"
-    },
-    {
-      "added_at": "2026-11-02 11:47:29",
+      "added_at": "2026-11-13 00:02:06",
       "album": {
         "name": "INFERNO",
         "url": "https://open.spotify.com/album/4oVtp47IW7IyevJL95hdf8"
@@ -73,7 +33,67 @@
       "url": "https://open.spotify.com/track/3FCIOA44iYIDsjDNeXthc1"
     },
     {
-      "added_at": "2026-10-16 00:02:00",
+      "added_at": "2026-11-13 00:02:06",
+      "album": {
+        "name": "Na Money",
+        "url": "https://open.spotify.com/album/3yCjNjTfdHoDljqzA6cmBY"
+      },
+      "artists": [
+        {
+          "name": "DJ Tunez",
+          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
+        },
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+        }
+      ],
+      "duration_ms": 202758,
+      "name": "Na Money",
+      "url": "https://open.spotify.com/track/1MEhHrisdcK9xuTuxvYdzh"
+    },
+    {
+      "added_at": "2026-11-13 00:02:06",
+      "album": {
+        "name": "Oriad\u00e9",
+        "url": "https://open.spotify.com/album/43hCvloofcUeEmpK6RFldz"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+        },
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        }
+      ],
+      "duration_ms": 166150,
+      "name": "B4 B4 (with Mayorkun & FOLA)",
+      "url": "https://open.spotify.com/track/37BTNKEaW6aUvsKH3O2UUt"
+    },
+    {
+      "added_at": "2026-11-13 00:02:06",
+      "album": {
+        "name": "M$NEY",
+        "url": "https://open.spotify.com/album/07iqzVICrgPFOpXem6MEpU"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 169911,
+      "name": "Gratitude",
+      "url": "https://open.spotify.com/track/7hiRlw64LXcHpGAVJ6eUzv"
+    },
+    {
+      "added_at": "2026-11-13 00:02:06",
       "album": {
         "name": "Chanel (feat. Asake)",
         "url": "https://open.spotify.com/album/3ctssLn3Uq8WPudSkMrzWT"
@@ -93,7 +113,7 @@
       "url": "https://open.spotify.com/track/6JVQBlA628faJmvQbeyBHT"
     },
     {
-      "added_at": "2026-10-23 00:01:08",
+      "added_at": "2026-11-13 00:02:06",
       "album": {
         "name": "Burukutu",
         "url": "https://open.spotify.com/album/5fmsGkc9fvR1MYajeQFwB7"
@@ -109,7 +129,7 @@
       "url": "https://open.spotify.com/track/4vwzDIuXLtdevmmjPtnemz"
     },
     {
-      "added_at": "2026-10-16 00:02:00",
+      "added_at": "2026-11-13 00:02:06",
       "album": {
         "name": "Back 2 U",
         "url": "https://open.spotify.com/album/6kcf7BlqJJFW62YaOsQ00C"
@@ -125,7 +145,7 @@
       "url": "https://open.spotify.com/track/2lhdZrEfgsTjxqjCRXSer0"
     },
     {
-      "added_at": "2026-10-16 00:02:00",
+      "added_at": "2026-11-13 00:02:06",
       "album": {
         "name": "Back Outside",
         "url": "https://open.spotify.com/album/267RcozdqaQbY90DqurUBZ"
@@ -145,7 +165,7 @@
       "url": "https://open.spotify.com/track/5WTj1jVzufTuSzFMyjy60M"
     },
     {
-      "added_at": "2026-10-16 00:02:00",
+      "added_at": "2026-11-13 00:02:06",
       "album": {
         "name": "M$NEY",
         "url": "https://open.spotify.com/album/07iqzVICrgPFOpXem6MEpU"
@@ -161,7 +181,7 @@
       "url": "https://open.spotify.com/track/5u4rozuOBse9MgrAzGspQy"
     },
     {
-      "added_at": "2026-10-16 00:02:00",
+      "added_at": "2026-11-13 00:02:06",
       "album": {
         "name": "GTA",
         "url": "https://open.spotify.com/album/5U7HlyYuQLT3gE5RNVQTzN"
@@ -177,7 +197,7 @@
       "url": "https://open.spotify.com/track/0xirG2M5QtFIzgkJCgpOnc"
     },
     {
-      "added_at": "2026-10-16 00:02:00",
+      "added_at": "2026-11-13 00:02:06",
       "album": {
         "name": "SLICK",
         "url": "https://open.spotify.com/album/1f0zvTxIYJMZ1L87qfGEsZ"
@@ -193,7 +213,7 @@
       "url": "https://open.spotify.com/track/3AcgT1ZcF0e9YknCUD269u"
     },
     {
-      "added_at": "2026-11-02 11:47:29",
+      "added_at": "2026-11-13 00:02:06",
       "album": {
         "name": "Still In Charge",
         "url": "https://open.spotify.com/album/0NlUfh4P7iyypIcxYd0GiD"
@@ -209,7 +229,7 @@
       "url": "https://open.spotify.com/track/6d4YQtaZ7M4WwoYiTC2U06"
     },
     {
-      "added_at": "2026-10-16 00:02:00",
+      "added_at": "2026-11-13 00:02:06",
       "album": {
         "name": "IKEBE 3000",
         "url": "https://open.spotify.com/album/2oqzUjWJ1AQskR9xFzCjbL"
@@ -229,7 +249,7 @@
       "url": "https://open.spotify.com/track/6MFuUHqRLqMoZ1cQf3s6bY"
     },
     {
-      "added_at": "2026-10-16 00:02:00",
+      "added_at": "2026-11-13 00:02:06",
       "album": {
         "name": "Breaking",
         "url": "https://open.spotify.com/album/6xxAjyMa0avvRjfwEXknXK"
@@ -249,7 +269,7 @@
       "url": "https://open.spotify.com/track/3JN8aItsGqTWapuekI8vxM"
     },
     {
-      "added_at": "2026-10-16 00:02:00",
+      "added_at": "2026-11-13 00:02:06",
       "album": {
         "name": "Owo Oluwa (feat. Young Jonn, Krizbeatz & Wave Choir)",
         "url": "https://open.spotify.com/album/63TbRZjT5dtOWaK7ASJ5ql"
@@ -277,7 +297,7 @@
       "url": "https://open.spotify.com/track/1l1y5S87c7TB1SQeqYPXQ8"
     },
     {
-      "added_at": "2026-10-16 00:02:00",
+      "added_at": "2026-11-13 00:02:06",
       "album": {
         "name": "fine ting (fine $hit)",
         "url": "https://open.spotify.com/album/2OF9E4AIW98RK4yuybtaRa"
@@ -293,7 +313,7 @@
       "url": "https://open.spotify.com/track/06fhryffT3VPtv8v8r8EPK"
     },
     {
-      "added_at": "2026-10-16 00:02:00",
+      "added_at": "2026-11-13 00:02:06",
       "album": {
         "name": "Paparazzi",
         "url": "https://open.spotify.com/album/3y6KnQqXjVz7lK5gi9CuRX"
@@ -313,7 +333,7 @@
       "url": "https://open.spotify.com/track/7BhG41omZ3k1wwlNzIlCrm"
     },
     {
-      "added_at": "2026-10-16 00:02:00",
+      "added_at": "2026-11-13 00:02:06",
       "album": {
         "name": "Starrgirl",
         "url": "https://open.spotify.com/album/2xLmXWgnyK0bUBoqq17Mma"
@@ -329,7 +349,7 @@
       "url": "https://open.spotify.com/track/7dk2sVgiQzXyEp0VjlQbQS"
     },
     {
-      "added_at": "2026-10-16 00:02:00",
+      "added_at": "2026-11-13 00:02:06",
       "album": {
         "name": "Ripper's Fate",
         "url": "https://open.spotify.com/album/4lgOFpzSFOgxOnmfFB6kIB"
@@ -349,7 +369,7 @@
       "url": "https://open.spotify.com/track/7vAG802uK3ACnXRokc6VIX"
     },
     {
-      "added_at": "2026-10-23 00:01:08",
+      "added_at": "2026-11-13 00:02:06",
       "album": {
         "name": "Goyard",
         "url": "https://open.spotify.com/album/1qREK38x9lTjIBeo2X1pNS"
@@ -365,7 +385,7 @@
       "url": "https://open.spotify.com/track/2Ts1hFAQq5k7sJFPiqt9Ff"
     },
     {
-      "added_at": "2026-10-16 00:02:00",
+      "added_at": "2026-11-13 00:02:06",
       "album": {
         "name": "M$NEY",
         "url": "https://open.spotify.com/album/07iqzVICrgPFOpXem6MEpU"
@@ -381,7 +401,7 @@
       "url": "https://open.spotify.com/track/5KX0YeCNKaOc3XhhDHi3mI"
     },
     {
-      "added_at": "2026-10-16 00:02:00",
+      "added_at": "2026-11-13 00:02:06",
       "album": {
         "name": "NOMADINHO: 4TH PRIME",
         "url": "https://open.spotify.com/album/4S0TXxId60knMPsHNHgUt3"
@@ -397,7 +417,7 @@
       "url": "https://open.spotify.com/track/0wPfrIdkJq1w6oQX3h6mdi"
     },
     {
-      "added_at": "2026-10-16 00:02:00",
+      "added_at": "2026-11-13 00:02:06",
       "album": {
         "name": "CLARITY OF MIND",
         "url": "https://open.spotify.com/album/28c5qLjX7puNQ96Wa86t5k"
@@ -413,7 +433,7 @@
       "url": "https://open.spotify.com/track/1iDNf6nP0BCXilLVVptflh"
     },
     {
-      "added_at": "2026-10-16 00:02:00",
+      "added_at": "2026-11-13 00:02:06",
       "album": {
         "name": "ZUKO!",
         "url": "https://open.spotify.com/album/7ALh95O2ioQV7a3sW4L2CG"
@@ -433,7 +453,7 @@
       "url": "https://open.spotify.com/track/4ztxrSwzvR854L7ycpuWEM"
     },
     {
-      "added_at": "2026-10-16 00:02:00",
+      "added_at": "2026-11-13 00:02:06",
       "album": {
         "name": "Elumelu",
         "url": "https://open.spotify.com/album/3cR2qRqYSeOiLIPPEokaXg"
@@ -449,7 +469,7 @@
       "url": "https://open.spotify.com/track/7aCW8Q337ACIFUmziqKGQd"
     },
     {
-      "added_at": "2026-10-16 00:02:00",
+      "added_at": "2026-11-13 00:02:06",
       "album": {
         "name": "Online",
         "url": "https://open.spotify.com/album/2z7LOtUcH07Th8zzVi3765"
@@ -465,7 +485,7 @@
       "url": "https://open.spotify.com/track/5ljTDsyyDKI2xbJOqwOdVU"
     },
     {
-      "added_at": "2026-10-16 00:02:00",
+      "added_at": "2026-11-13 00:02:06",
       "album": {
         "name": "treat u right",
         "url": "https://open.spotify.com/album/40A1rVfEkPBAri7GV6iCZE"
@@ -485,7 +505,7 @@
       "url": "https://open.spotify.com/track/38Mnfr1l5t2kckdzoJuXTl"
     },
     {
-      "added_at": "2026-10-16 00:02:00",
+      "added_at": "2026-11-13 00:02:06",
       "album": {
         "name": "Nakupenda",
         "url": "https://open.spotify.com/album/3xbbiXWEHWpCqxDAXKUu5d"
@@ -521,7 +541,7 @@
       "url": "https://open.spotify.com/track/1p0zeYPLjmIGtw1DzmshZO"
     },
     {
-      "added_at": "2026-10-16 00:02:00",
+      "added_at": "2026-11-13 00:02:06",
       "album": {
         "name": "BIG PERFORMER",
         "url": "https://open.spotify.com/album/4y79lgs0VpuvJqcd4oREYJ"
@@ -537,27 +557,7 @@
       "url": "https://open.spotify.com/track/7LzipcGtpXs2oSu9D86Uf0"
     },
     {
-      "added_at": "2026-10-16 00:02:00",
-      "album": {
-        "name": "Jogodo",
-        "url": "https://open.spotify.com/album/5X7g2w1hllfIhYhbyMSLpx"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 188861,
-      "name": "Jogodo",
-      "url": "https://open.spotify.com/track/2njWzPDRRhsXOUhiA42e62"
-    },
-    {
-      "added_at": "2026-10-23 00:01:08",
+      "added_at": "2026-11-13 00:02:06",
       "album": {
         "name": "9",
         "url": "https://open.spotify.com/album/1fHRY61FCATcIMjN0DPtdm"
@@ -573,7 +573,7 @@
       "url": "https://open.spotify.com/track/7KnCGA0gIxaBlLcqzcqwVZ"
     },
     {
-      "added_at": "2026-10-16 00:02:00",
+      "added_at": "2026-11-13 00:02:06",
       "album": {
         "name": "Before The Morning Light",
         "url": "https://open.spotify.com/album/2ReT5MpfcBcllICauo5NNr"
@@ -597,7 +597,7 @@
       "url": "https://open.spotify.com/track/3XOb28yG4xKwuUYlV8eKmS"
     },
     {
-      "added_at": "2026-10-16 00:02:00",
+      "added_at": "2026-11-13 00:02:06",
       "album": {
         "name": "CAPTAIN",
         "url": "https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT"
@@ -617,7 +617,7 @@
       "url": "https://open.spotify.com/track/2IocWgGPI0o6rmRDeb7Zrz"
     },
     {
-      "added_at": "2026-10-16 00:02:00",
+      "added_at": "2026-11-13 00:02:06",
       "album": {
         "name": "ON MY BIRTHDAY",
         "url": "https://open.spotify.com/album/2VPFXrVDrzxxcLaIP2Gpvf"
@@ -633,7 +633,7 @@
       "url": "https://open.spotify.com/track/547Gs3aRtCBJFW7SdPD33x"
     },
     {
-      "added_at": "2026-10-16 00:02:00",
+      "added_at": "2026-11-13 00:02:06",
       "album": {
         "name": "The Game Needs Us",
         "url": "https://open.spotify.com/album/1lcyg1hfUrXOk81kXUv0be"
@@ -653,7 +653,7 @@
       "url": "https://open.spotify.com/track/4c0l2xJLaY8PBS7yi37Ry3"
     },
     {
-      "added_at": "2026-10-16 00:02:00",
+      "added_at": "2026-11-13 00:02:06",
       "album": {
         "name": "Business",
         "url": "https://open.spotify.com/album/0PFTMjw4ODWOQFOoiiadKI"
@@ -669,7 +669,7 @@
       "url": "https://open.spotify.com/track/16TR0AiDrZRV9TFOXBcSE9"
     },
     {
-      "added_at": "2026-10-16 00:02:00",
+      "added_at": "2026-11-13 00:02:06",
       "album": {
         "name": "SOUTH GIDI",
         "url": "https://open.spotify.com/album/5hgdQMsPGxPnhZrAMi1IUQ"
@@ -697,7 +697,7 @@
       "url": "https://open.spotify.com/track/12jMMRyPNMTNp3CRmdWMve"
     },
     {
-      "added_at": "2026-10-16 00:02:00",
+      "added_at": "2026-11-13 00:02:06",
       "album": {
         "name": "TEA",
         "url": "https://open.spotify.com/album/6Vn8pesphnIfwl0oDnW4lj"
@@ -713,7 +713,7 @@
       "url": "https://open.spotify.com/track/1qObCJRmQydvmwO6Z0BMbK"
     },
     {
-      "added_at": "2026-10-16 00:02:00",
+      "added_at": "2026-11-13 00:02:06",
       "album": {
         "name": "attention!",
         "url": "https://open.spotify.com/album/3Z9nEOl5fo7PzP9feRWyz4"
@@ -729,7 +729,7 @@
       "url": "https://open.spotify.com/track/1MGCRWKSEutuqNQwbktV7C"
     },
     {
-      "added_at": "2026-10-16 00:02:00",
+      "added_at": "2026-11-13 00:02:06",
       "album": {
         "name": "THAT GIRL!",
         "url": "https://open.spotify.com/album/6WqlTMTWck54798Lhpv39d"
@@ -749,7 +749,7 @@
       "url": "https://open.spotify.com/track/2DgmLCX1ojv7lE6xk2PD0H"
     },
     {
-      "added_at": "2026-10-16 00:02:00",
+      "added_at": "2026-11-13 00:02:06",
       "album": {
         "name": "Big Bum Bum",
         "url": "https://open.spotify.com/album/3sb9wp0YtrNwfHajHmWF8S"
@@ -769,7 +769,7 @@
       "url": "https://open.spotify.com/track/1heVYYJgIbEmeEQ8ye0YFX"
     },
     {
-      "added_at": "2026-10-16 00:02:00",
+      "added_at": "2026-11-13 00:02:06",
       "album": {
         "name": "FRE$H",
         "url": "https://open.spotify.com/album/573iquT83sDj4mpGM6lZT3"
@@ -785,7 +785,7 @@
       "url": "https://open.spotify.com/track/5PU6gIDtiehjkK1iKWU4KR"
     },
     {
-      "added_at": "2026-10-16 00:02:00",
+      "added_at": "2026-11-13 00:02:06",
       "album": {
         "name": "Mofe",
         "url": "https://open.spotify.com/album/6Pshl1rktRcEVRGlPO9BrB"
@@ -801,7 +801,7 @@
       "url": "https://open.spotify.com/track/1w8lSGDuMUgRh7rygMp7VB"
     },
     {
-      "added_at": "2026-10-23 00:01:08",
+      "added_at": "2026-11-13 00:02:06",
       "album": {
         "name": "Oh No",
         "url": "https://open.spotify.com/album/4gxDCaxwQ8HmgN4yACif96"
@@ -817,7 +817,7 @@
       "url": "https://open.spotify.com/track/2aLQ89nVUJgLjn3tlmjaxN"
     },
     {
-      "added_at": "2026-10-16 00:02:00",
+      "added_at": "2026-11-13 00:02:06",
       "album": {
         "name": "CLARITY OF MIND",
         "url": "https://open.spotify.com/album/28c5qLjX7puNQ96Wa86t5k"
@@ -833,7 +833,7 @@
       "url": "https://open.spotify.com/track/2XftaGClqnkE2hNEhQnR9W"
     },
     {
-      "added_at": "2026-10-23 00:01:08",
+      "added_at": "2026-11-13 00:02:06",
       "album": {
         "name": "9",
         "url": "https://open.spotify.com/album/1fHRY61FCATcIMjN0DPtdm"
@@ -849,7 +849,7 @@
       "url": "https://open.spotify.com/track/61gqqjEpcuuPgZBnONp8vb"
     },
     {
-      "added_at": "2026-10-16 00:02:00",
+      "added_at": "2026-11-13 00:02:06",
       "album": {
         "name": "Abefe (Begged To Be Loved)",
         "url": "https://open.spotify.com/album/27J1nzokWAXP8MF5alIPuZ"
@@ -865,7 +865,7 @@
       "url": "https://open.spotify.com/track/5H1sQwWdyHYg9AKKeJuo0f"
     },
     {
-      "added_at": "2026-10-16 00:02:00",
+      "added_at": "2026-11-13 00:02:06",
       "album": {
         "name": "CHE",
         "url": "https://open.spotify.com/album/6U7Rlp4IUTdgtaOHiycx3x"
@@ -885,7 +885,7 @@
       "url": "https://open.spotify.com/track/6sPehU8iJcnrSndiAoFONQ"
     },
     {
-      "added_at": "2026-10-16 00:02:00",
+      "added_at": "2026-11-13 00:02:06",
       "album": {
         "name": "MOVE",
         "url": "https://open.spotify.com/album/72Blq4pbnoc6togBVawf3K"
@@ -901,7 +901,7 @@
       "url": "https://open.spotify.com/track/7CaTezgzShsRBV7dnxZVWa"
     },
     {
-      "added_at": "2026-10-16 00:02:00",
+      "added_at": "2026-11-13 00:02:06",
       "album": {
         "name": "God Abeg",
         "url": "https://open.spotify.com/album/2V1mG4syocQGXnH2EFHMPN"
@@ -917,7 +917,7 @@
       "url": "https://open.spotify.com/track/7kzGpRbR0uwQrvqBs8Xskw"
     },
     {
-      "added_at": "2026-10-16 00:02:00",
+      "added_at": "2026-11-13 00:02:06",
       "album": {
         "name": "Starrgirl",
         "url": "https://open.spotify.com/album/2xLmXWgnyK0bUBoqq17Mma"

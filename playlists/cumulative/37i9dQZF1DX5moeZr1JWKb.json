@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-06-23",
-  "description": "Estas son las grandes voces del Hip Hop. Foto: Tres Coronas",
+  "description": "Estas son las grandes voces del Hip Hop. Foto: chelo hop",
   "name": "Los Gallos",
   "tracks": [
     {
@@ -422,6 +422,32 @@
       "duration_ms": 128000,
       "name": "BEEMO",
       "url": "https://open.spotify.com/track/5PHhNS4BtZEAHeu4aqoLba"
+    },
+    {
+      "album": {
+        "name": "Bello Love",
+        "url": "https://open.spotify.com/album/6ycs34x4CApaQ6ctfb4smL"
+      },
+      "artists": [
+        {
+          "name": "DJ Premier",
+          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Lil Supa",
+          "url": "https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233256,
+      "name": "Bello Love",
+      "url": "https://open.spotify.com/track/6DUJpDcQrJ3N8r9MuWZA3a"
     },
     {
       "album": {
@@ -1844,7 +1870,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 182173,
       "name": "Hijos de la Tierra",
       "url": "https://open.spotify.com/track/5MVLsgpXweeWLloLlChWDl"
@@ -3514,6 +3540,50 @@
       "duration_ms": 150000,
       "name": "NO TE AWITES",
       "url": "https://open.spotify.com/track/3z4SI8GJdaiYC2PgkVK5dv"
+    },
+    {
+      "album": {
+        "name": "No Tengo Alas",
+        "url": "https://open.spotify.com/album/0rexAdOs1nEdG6BaEmh7rb"
+      },
+      "artists": [
+        {
+          "name": "Nezzah",
+          "url": "https://open.spotify.com/artist/0i0nfbZjEBMFdTyzV4gZz6"
+        },
+        {
+          "name": "Komba",
+          "url": "https://open.spotify.com/artist/45GCCsbyU6F1K5qMciA4tc"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163255,
+      "name": "No Tengo Alas",
+      "url": "https://open.spotify.com/track/7pBcJN92oiJooIMuPms0Iy"
+    },
+    {
+      "album": {
+        "name": "Anatom\u00eda",
+        "url": "https://open.spotify.com/album/5k0rY47fKdShqCa1GCT9TT"
+      },
+      "artists": [
+        {
+          "name": "chelo hop",
+          "url": "https://open.spotify.com/artist/2CHBCYKsNfCltqmkl9yhQC"
+        },
+        {
+          "name": "Astrallbass",
+          "url": "https://open.spotify.com/artist/14dNhqhwFlu2nJuDZRuy8t"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194226,
+      "name": "Ojos",
+      "url": "https://open.spotify.com/track/511FgMEVAdSnFzsibSHu5n"
     },
     {
       "album": {
@@ -5238,7 +5308,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 214666,
       "name": "VIENE",
       "url": "https://open.spotify.com/track/5bX6Bj3leO2XST6H3ewkLB"
@@ -5344,7 +5414,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 148167,
       "name": "Vuelve Y Juega",
       "url": "https://open.spotify.com/track/169Stxh6ZnHavcCrwFcE1S"

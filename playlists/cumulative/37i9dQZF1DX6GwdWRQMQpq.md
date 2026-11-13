@@ -2,7 +2,7 @@
 
 ### [Feelin' Myself](https://open.spotify.com/playlist/37i9dQZF1DX6GwdWRQMQpq)
 
-> The hip\-hop playlist that's a whole mood\. Art By Laci Jordan; Cover: GloRilla & Sexyy Red
+> The hip\-hop playlist that's a whole mood\. Art By Laci Jordan; Cover: Dolly Babe & Megan Thee Stallion
 
 898 songs - 1 day 15 hr 44 min
 

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Nabi e LILCR in cover della playlist dello street rap italiano \u26d3\ufe0f",
+  "description": "Yugi in cover della playlist dello street rap italiano \u26d3\ufe0f",
   "name": "Street Culto",
   "tracks": [
     {
@@ -2673,6 +2673,32 @@
     },
     {
       "album": {
+        "name": "OASI, EDEN",
+        "url": "https://open.spotify.com/album/3TPN16UVNiiDfsfZ0HuEh0"
+      },
+      "artists": [
+        {
+          "name": "Fiore Akamono",
+          "url": "https://open.spotify.com/artist/49ArqXIeUITOksVKcoKOCB"
+        },
+        {
+          "name": "Maska",
+          "url": "https://open.spotify.com/artist/4s7lub6OTMblNwFn9wXClR"
+        },
+        {
+          "name": "Giovane Drago",
+          "url": "https://open.spotify.com/artist/5LYEbvNUxagnuPZiYao6zg"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153295,
+      "name": "Badgyal (feat. Giovane Drago)",
+      "url": "https://open.spotify.com/track/3e5iSZTVWlmSba7qVscnMN"
+    },
+    {
+      "album": {
         "name": "Bagage",
         "url": "https://open.spotify.com/album/4eLAygvtyrT2Etom1JPVGq"
       },
@@ -4026,6 +4052,28 @@
       "duration_ms": 134558,
       "name": "BOBO",
       "url": "https://open.spotify.com/track/5gYRQlaVLI9ElFPvddbzOi"
+    },
+    {
+      "album": {
+        "name": "BODYCOUNT",
+        "url": "https://open.spotify.com/album/11lP7MmMF6dJjIIBi3lvBI"
+      },
+      "artists": [
+        {
+          "name": "N\u00e9za",
+          "url": "https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO"
+        },
+        {
+          "name": "Alkhazar",
+          "url": "https://open.spotify.com/artist/5LYMIHEN7B3C9cm7lSENKF"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130786,
+      "name": "BODYCOUNT",
+      "url": "https://open.spotify.com/track/7icF12FuB1dnk6e6vSgSrO"
     },
     {
       "album": {
@@ -6786,7 +6834,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 168881,
       "name": "DA PALAZZO A PALAZZO (con Promessa)",
       "url": "https://open.spotify.com/track/7seY4zshB3BNx70uLHqT6a"
@@ -22630,7 +22678,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 213248,
       "name": "STUPIDO (feat. Salmo, 18K, Macello, Dani Faiv, Pitta)",
       "url": "https://open.spotify.com/track/237MIJpSpjNeApDFloqgwg"
@@ -23036,7 +23084,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 164598,
       "name": "Take 6",
       "url": "https://open.spotify.com/track/0j4gmizuiIh5k7F62XISiF"
@@ -24363,6 +24411,24 @@
     },
     {
       "album": {
+        "name": "TUTTA LA NOTTE",
+        "url": "https://open.spotify.com/album/2dRRmEIuJLfCFHliW3Uy0K"
+      },
+      "artists": [
+        {
+          "name": "MamboLosco",
+          "url": "https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175037,
+      "name": "TUTTA LA NOTTE",
+      "url": "https://open.spotify.com/track/5dLlY6lxzZzKkt94a69zhv"
+    },
+    {
+      "album": {
         "name": "Going Hard 3",
         "url": "https://open.spotify.com/album/0oziYx99Q1JEAzHl5bZlra"
       },
@@ -25062,6 +25128,24 @@
       "duration_ms": 211404,
       "name": "VITA PUTTANA",
       "url": "https://open.spotify.com/track/0haJKf3qe6DkJziBdEG7o4"
+    },
+    {
+      "album": {
+        "name": "VITA SBAGLIATA",
+        "url": "https://open.spotify.com/album/3JF7Fn3rDZdJ9BRGHsqyF7"
+      },
+      "artists": [
+        {
+          "name": "Scaccia",
+          "url": "https://open.spotify.com/artist/4bvY1rC6kHzkbt2ome594m"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "VITA SBAGLIATA",
+      "url": "https://open.spotify.com/track/6hhGM5iBLjdhD9zlo4TpNa"
     },
     {
       "album": {
@@ -26174,7 +26258,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 168000,
       "name": "\u2060CRIMINALE (feat. Papa V, Ernia)",
       "url": "https://open.spotify.com/track/4tcYbNYBWbhm50IECpySl2"

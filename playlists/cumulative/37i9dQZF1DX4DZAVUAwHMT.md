@@ -2,9 +2,9 @@
 
 ### [The Rock List](https://open.spotify.com/playlist/37i9dQZF1DX4DZAVUAwHMT)
 
-> The UK's biggest rock playlist\. Cover: Royal Blood
+> The UK's biggest rock playlist\. Cover: Fall Out Boy
 
-1,622 songs - 3 day 19 hr 45 min
+1,630 songs - 3 day 20 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [About You](https://open.spotify.com/track/3m4YAWyI7QypBz2qBUQCOO) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [Dear God](https://open.spotify.com/album/3sE3S6k6OA1UXWMKQEiaDY) | 4:36 | 2026-06-25 | 2026-09-18 |
 | [Absolute Bloom](https://open.spotify.com/track/2J2NIgMvtnIStg1ZfCiEjm) | [Higher Power](https://open.spotify.com/artist/6yv0Vd63iiAaW4665Cs9vT) | [Absolute Bloom](https://open.spotify.com/album/5b6msyAHAio8tzWXOaYQsW) | 3:25 | 2024-02-09 | 2024-04-26 |
 | [Abyss \- from Kaiju No\. 8](https://open.spotify.com/track/2kLWSmKHhfUBepkIA9oNe5) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Abyss \(from Kaiju No\. 8\)](https://open.spotify.com/album/1KuM2MPT5uEYg1aY4KrnZ0) | 2:03 | 2024-03-29 | 2024-05-03 |
+| [ACES](https://open.spotify.com/track/2sCwIkIPsvrZXbHNQWkvo8) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [ACES](https://open.spotify.com/album/6T9ZMACdVbFDmk22nZLpzH) | 3:31 | 2026-11-13 |  |
 | [Ache](https://open.spotify.com/track/2oAmk8u71pk22FAW9330gP) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5), [Sam Carter](https://open.spotify.com/artist/21QEpK62qn34QVshh4qpTK) | [Ache](https://open.spotify.com/album/4c5GCTtE09FsMxnC2QKqYU) | 1:40 | 2023-03-10 | 2023-04-14 |
 | [Addicted to the Wicked & Twisted](https://open.spotify.com/track/0zGDTGavhrr5ADw7jt1uXV) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [Death or Glory](https://open.spotify.com/album/0d057DHZkVhYZCDRrr1p5f) | 3:32 | 2024-08-29 | 2024-11-15 |
 | [Adeline](https://open.spotify.com/track/06rpq1YGWFvUxIevdldh96) | [Old Mervs](https://open.spotify.com/artist/3N8YzKqrEQonvd5RLQ4iYg) | [Carparks](https://open.spotify.com/album/41exX5asmlevP9n8OsoviK) | 3:00 | 2026-10-01 |  |
@@ -137,6 +138,7 @@
 | [Baby Blue](https://open.spotify.com/track/1KkgkKGPZfPZgGF1XI6ABP) | [Sundara Karma](https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP) | [Baby Blue](https://open.spotify.com/album/4hf91mS2sYQmmfEMnP5zUj) | 2:54 | 2023-07-27 | 2023-09-22 |
 | [Back Inside My Heart](https://open.spotify.com/track/1QPURD07gE0FWIFbaBmkv3) | [Lucia & The Best Boys](https://open.spotify.com/artist/3hihvmS048d6bb8YlZaTU1) | [Picking Petals](https://open.spotify.com/album/2sc3QU5bC4udHQaPW86iBX) | 3:32 | 2026-07-30 | 2026-08-07 |
 | [Back Of My Hand](https://open.spotify.com/track/45WQmEMvZMy3a90XbRWbbB) | [The Belair Lip Bombs](https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT) | [Back Of My Hand](https://open.spotify.com/album/1B5ulSel2ojBJKhm2YMelp) | 3:26 | 2025-10-09 | 2026-04-14 |
+| [Backseat](https://open.spotify.com/track/31KsU3qjA8eQ5Kh9YQ9Cqt) | [breakkaway](https://open.spotify.com/artist/5z5HaEaQY18oRwCuIXf826) | [It all feels the same from afar](https://open.spotify.com/album/0Wj5EYtvHmqW0OC8gKtoVC) | 2:14 | 2026-11-13 |  |
 | [Bad Decisions](https://open.spotify.com/track/2uJvuMZVAfnWa3lTTxJW9q) | [RedHook](https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI) | [Bad Decisions](https://open.spotify.com/album/5V3bFQnpSALvyDEyHsCHat) | 2:32 | 2023-03-08 | 2024-03-09 |
 | [Bad Influence](https://open.spotify.com/track/1Mv0nJfyxuZM05O3GseVIw) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [The King and Queen of Gasoline](https://open.spotify.com/album/1a3S2I3J4LcmAoj5ttDaoP) | 3:02 | 2023-03-08 | 2023-03-09 |
 | [Bad Luck Hideaway](https://open.spotify.com/track/4ObTobZKWY0nKPvHibhdUM) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Mr Charm](https://open.spotify.com/album/2RK1AjrjE5hgjS8lK0lcz9) | 3:50 | 2026-10-01 | 2026-10-22 |
@@ -215,6 +217,7 @@
 | [BOOM](https://open.spotify.com/track/2SKZ6fQDaSKo3IDYwRJxJI) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [BOOM](https://open.spotify.com/album/7FpdNGjJrRNSUx011p4Tp7) | 2:22 | 2023-02-24 | 2023-07-14 |
 | [bored\. tired\. torn.](https://open.spotify.com/track/204TjMh4AG3S9hizWFegYa) | [Split Chain](https://open.spotify.com/artist/5J0ehnVK9YOBGWOwE022ar) | [bored\. tired\. torn.](https://open.spotify.com/album/1iDIQfen7qk0y1XNJUdRAM) | 2:43 | 2025-03-28 | 2025-07-18 |
 | [Born In Early May](https://open.spotify.com/track/62RtrW0grZ2EUF3FetcbOK) | [mercury](https://open.spotify.com/artist/0MaDtBu4Hw0qLH95poDSCk) | [Together We Are One, You and I](https://open.spotify.com/album/2WOw5ZQrrab9Gxr3ZYxrk3) | 5:12 | 2024-06-06 | 2024-10-04 |
+| [BORN SCREAMING](https://open.spotify.com/track/2DIgNgI1G8dCtntT6NNph2) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [LIVE WITH THIS](https://open.spotify.com/album/4y8xyAseblFCHENTel6i2U) | 3:28 | 2026-11-13 |  |
 | [Boyfeel](https://open.spotify.com/track/6RCB34D4Z3LKpOuIUTdp13) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Boyfeel](https://open.spotify.com/album/2D58g8d3MD0UKNgch1IDKp) | 2:29 | 2024-06-06 | 2024-09-06 |
 | [BRAINDEAD](https://open.spotify.com/track/6mwoR5rKAOHfGlFhXUDbzl) | [WesGhost](https://open.spotify.com/artist/6YmJPuYzqe1HsJArGYcHBJ) | [AM I DREAMING?](https://open.spotify.com/album/6UCgkLZFliqTV7bHDfaBtb) | 2:35 | 2025-04-27 | 2025-07-25 |
 | [BRAINROT](https://open.spotify.com/track/10xlm1z0JiePh1Z6eGecCo) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [BRAINROT](https://open.spotify.com/album/3aKGl3V5rCiCMFqLSpxOz2) | 2:44 | 2025-05-29 | 2025-07-11 |
@@ -487,6 +490,7 @@
 | [Flowers For The Grave](https://open.spotify.com/track/2g101MmiXeLvnCWPSMcVFc) | [Normandie](https://open.spotify.com/artist/1zsOttiR3VjZRnw4Iq8Zg6) | [Flowers For The Grave](https://open.spotify.com/album/3zPoeWuvwtFwlXbvSBNGyI) | 3:51 | 2023-10-06 | 2023-12-15 |
 | [Flux](https://open.spotify.com/track/39limMlZ5B25XM1FhNqa02) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Flux](https://open.spotify.com/album/2rnbGp9o1lJ0T77RBU1bCC) | 5:00 | 2023-03-08 | 2023-03-09 |
 | [Flux](https://open.spotify.com/track/4O4NI06suVdvQiJGf1xmwt) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [So Mean](https://open.spotify.com/album/0i68kkYcrF0bNxZgxIx804) | 5:00 | 2024-03-08 | 2024-03-09 |
+| [Fool](https://open.spotify.com/track/43QcY6QM8NxPERJA1uzaKk) | [Mouth Culture](https://open.spotify.com/artist/4Fc4GqcYwYnTePiW3nggrd) | [Fool](https://open.spotify.com/album/23CtkCYNEeDhqvp1XFLQlu) | 3:52 | 2026-11-13 |  |
 | [For Katie](https://open.spotify.com/track/0WMnzSVA3SKdGHJCtu87nb) | [Casey](https://open.spotify.com/artist/7KqVvL7NOdUWyQg2B63cck) | [How To Disappear](https://open.spotify.com/album/1zwEmwHMjcL6eFesggCTOR) | 3:56 | 2024-01-12 | 2024-01-13 |
 | [For Katie](https://open.spotify.com/track/26icQ3gcv38DZXWX8euZYj) | [Casey](https://open.spotify.com/artist/7KqVvL7NOdUWyQg2B63cck) | [How To Disappear](https://open.spotify.com/album/677t2DpQNOqCZN6PFzPgJr) | 3:56 | 2024-01-12 | 2024-02-23 |
 | [For The Plot](https://open.spotify.com/track/5cTsAVfMDQxjL6qt7k9ijR) | [As December Falls](https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX) | [For The Plot](https://open.spotify.com/album/438uLf4EXbMY4obUmurvQK) | 3:17 | 2025-02-21 | 2025-05-30 |
@@ -509,6 +513,7 @@
 | [Fucking With My Head](https://open.spotify.com/track/3JJu09Tad8S9sXnDEljZql) | [FLETCHR FLETCHR](https://open.spotify.com/artist/7dY0uVX0Mny3JnHwSIW7oD) | [Fucking With My Head](https://open.spotify.com/album/5rBFLL0zpIc1svgKAyk8HX) | 3:29 | 2026-06-11 | 2026-08-21 |
 | [Fugazi](https://open.spotify.com/track/4zv0Q89ALcQ0PETBAXE3b6) | [The Hunna](https://open.spotify.com/artist/7jZycSvTyx0W9poD4PjEIG) | [Fugazi](https://open.spotify.com/album/6SoyBjjhamAP31JxKYxhjm) | 2:40 | 2023-01-13 | 2023-02-03 |
 | [Fun!](https://open.spotify.com/track/2BjDgOYaVX5xdNi8DFV6UW) | [Special Features](https://open.spotify.com/artist/0GYif3C9g5VGcpv2PHnWWT) | [Fun!](https://open.spotify.com/album/4jZ1ClfjRkEyMlVNVK65dw) | 2:56 | 2026-10-01 |  |
+| [Funeral](https://open.spotify.com/track/35qlLHdXJ60WKwKIryhL0U) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [It was only a dream](https://open.spotify.com/album/22DbAhXhwLN1Q4xkA047OC) | 3:18 | 2026-11-13 |  |
 | [Fur Elise](https://open.spotify.com/track/4voyl0SW7WHrG9aCH1jGOC) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Fur Elise](https://open.spotify.com/album/3lqXCKvlrQ6EjO4PrFcAcF) | 4:16 | 2026-08-20 | 2026-09-11 |
 | [Fuse](https://open.spotify.com/track/0UYOncanPfTJVemojPksIP) | [House of Protection](https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA) | [GALORE](https://open.spotify.com/album/2JCUzY4IcU31n6ro3rSicP) | 3:11 | 2024-09-12 | 2024-12-20 |
 | [fuzz](https://open.spotify.com/track/2ctn0r5FOaCMKNC3JPojaG) | [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [fuzz](https://open.spotify.com/album/45jK0xCxf13uNLUKfpPMyR) | 2:46 | 2023-03-03 | 2023-03-18 |
@@ -590,6 +595,7 @@
 | [happiest day of my life](https://open.spotify.com/track/64IXtVAa45ZNBkSpsUBoWJ) | [paris jackson](https://open.spotify.com/artist/11I8qWK4foqycuPFRDFH6e) | [HAPPIEST DAY OF MY LIFE](https://open.spotify.com/album/3rlyTtl7dFB1F3qPcIUL1j) | 3:22 | 2026-08-20 | 2026-10-16 |
 | [HAPPY](https://open.spotify.com/track/02ipIC2ABqOYNN7FNRoido) | [Sløtface](https://open.spotify.com/artist/5sCDleuvB5bBwbSGsp9Bwh) | [AWAKE/ASLEEP](https://open.spotify.com/album/2SM92RVNoh8JWPf4cSc6iy) | 2:27 | 2023-03-08 | 2023-03-09 |
 | [HAPPY](https://open.spotify.com/track/2uLJFEi6rax0x23xZrFyHC) | [Sløtface](https://open.spotify.com/artist/5sCDleuvB5bBwbSGsp9Bwh) | [HAPPY](https://open.spotify.com/album/2BaEVtgFlWOtqz0jtMiVie) | 2:27 | 2023-01-13 | 2023-02-03 |
+| [Happy For You \(Live\) \- Spotify Live Room](https://open.spotify.com/track/3Qglmx6uYBOQv9a3HzjN6x) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Fontaines D.C\. \- Spotify Live Room](https://open.spotify.com/album/5Ln7qNfcRg8pXZnb3p76Fd) | 3:52 | 2026-11-13 |  |
 | [Hard Feelings](https://open.spotify.com/track/4BaX0wDUFPhBAoCpkOUCaX) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Hard Feelings](https://open.spotify.com/album/41FGOYGw8gSYZ1t4YTYUHp) | 2:54 | 2023-02-17 | 2023-05-05 |
 | [HATE 2 LUV U](https://open.spotify.com/track/0cg2EwJcOFj4S7ZDoDhBMc) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [HATE 2 LUV U](https://open.spotify.com/album/5exZjAvyfhdDdssxOcWfRj) | 2:57 | 2023-11-24 | 2023-12-01 |
 | [Hate This Song](https://open.spotify.com/track/3keius8Oa84Xwul5LdvO1c) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo), [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [Hate This Song](https://open.spotify.com/album/2aq4k4OA1jfupRu9eWYRMA) | 2:55 | 2024-09-20 | 2024-12-20 |
@@ -1298,6 +1304,7 @@
 | [Spiralling Out](https://open.spotify.com/track/48wvfkGuiM5x1S7ZPSOIGd) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Spiralling Out](https://open.spotify.com/album/6W4WFSvi7g6Sa9VkDIROle) | 3:44 | 2024-03-22 | 2024-04-26 |
 | [Spirit](https://open.spotify.com/track/29ZJZnAXJ28Bewit5RLRKx) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Rebel Diamonds](https://open.spotify.com/album/6B4kdT96eBQnigkNj8eqeN) | 2:58 | 2023-12-08 | 2024-02-16 |
 | [Spit.](https://open.spotify.com/track/3H6KM1WMpTIMlwlJBwDBkV) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [Spit.](https://open.spotify.com/album/4N8vRR39A9ttCbAVW5Gztx) | 4:08 | 2023-03-08 | 2023-03-09 |
+| [SplitScreen](https://open.spotify.com/track/0DI4136goYFWu3ZQ2f7kNP) | [South Arcade](https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF) | [SplitScreen](https://open.spotify.com/album/4CfxrpJIh3IQK0yi5rLDI4) | 3:12 | 2026-11-13 |  |
 | [Sports Day](https://open.spotify.com/track/6hKwzsBblYMfifCLTp5Gn4) | [Man/Woman/Chainsaw](https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ) | [Eazy Peazy](https://open.spotify.com/album/2L4YcqjnpyyDPnIn8GqJfV) | 2:30 | 2024-11-15 | 2025-03-07 |
 | [Squish](https://open.spotify.com/track/5NcbdZX6WExR3xNDftUp5m) | [Gretel](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Squish](https://open.spotify.com/album/6qMjvExxrJl2gydwmMbn3R) | 3:00 | 2026-01-30 | 2026-04-03 |
 | [St\. Agnes](https://open.spotify.com/track/1iXcHOr7lFCEsGgQvrr2G5) | [Cardinals](https://open.spotify.com/artist/0qmHQLCyJrgGFtqLDSRHJ4) | [Masquerade](https://open.spotify.com/album/29AoeHJhdqdvkZAh7EPoS4) | 2:09 | 2026-02-13 | 2026-04-24 |
@@ -1523,6 +1530,7 @@
 | [Video Game](https://open.spotify.com/track/5ooRkehNy78cEq1IvPBuxr) | [Sick Joy](https://open.spotify.com/artist/2KmAhNcPz1C3oz0rS4iMlx) | [Video Game](https://open.spotify.com/album/38NA1k4GKUFLNZdiGGPwaS) | 4:11 | 2026-01-09 | 2026-02-13 |
 | [Vienna \(Everything’s Fine\)](https://open.spotify.com/track/4MZkA1wOfqYclYkQt7MUEd) | [Vienna Vienna](https://open.spotify.com/artist/5ZVQRC3rtUNBJVrrrSl17r) | [Vienna \(Everything’s Fine\)](https://open.spotify.com/album/47wbE9QX926Oc3UIFAnKFQ) | 2:57 | 2024-09-26 | 2024-10-11 |
 | [Vigilantes](https://open.spotify.com/track/7DNjlPhZrhOgykB94HjecI) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [Vigilantes](https://open.spotify.com/album/1F0QxXNCGOWbfBhUM1Ej6m) | 4:00 | 2025-04-24 | 2025-07-18 |
+| [Vinegar](https://open.spotify.com/track/6Mi8DfWuxbQMLECvPv9EVm) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Vinegar](https://open.spotify.com/album/0oIqh3iglmECGWVs89uZMz) | 3:06 | 2026-11-13 |  |
 | [Violence \(feat\. As December Falls\)](https://open.spotify.com/track/7MlSS4EB0u4szJiaF2AV13) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ), [As December Falls](https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX) | [Violence \(feat\. As December Falls\)](https://open.spotify.com/album/35NJW2tUWom47p99Zzq6q1) | 2:32 | 2025-10-16 | 2026-04-10 |
 | [Violins](https://open.spotify.com/track/2xgOrdZIgcckxGam4dZNVA) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Violins](https://open.spotify.com/album/2dkOtTHYlj2DzIgLaf6FGy) | 4:10 | 2026-06-25 | 2026-08-21 |
 | [Voodoo Science](https://open.spotify.com/track/06krSNKYuVOzGxzwqsWegk) | [Demob Happy](https://open.spotify.com/artist/6FKokxvL5PCWIxrVhMyDgI) | [Voodoo Science](https://open.spotify.com/album/0C83LlAVD0nAhM1wn5aGFS) | 3:09 | 2023-01-27 | 2023-03-31 |

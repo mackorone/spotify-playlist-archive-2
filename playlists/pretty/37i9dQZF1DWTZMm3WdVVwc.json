@@ -1,6 +1,6 @@
 {
   "description": "\u5bd2\u3044\u51ac\u306f\u5fc3\u3092\u6696\u3081\u308b\u30cf\u30fc\u30c8\u30d5\u30eb\u306a\u697d\u66f2\u3092\u304a\u4f9b\u306b\u3002\u3042\u306a\u305f\u306e\u65e5\u3005\u306b\u97f3\u697d\u3092\u3002",
-  "num_followers": 27183,
+  "num_followers": 27189,
   "original_name": "\u51ac\u306e\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
   "owner": {
     "name": "Spotify",
@@ -593,6 +593,22 @@
       "url": "https://open.spotify.com/track/0VwZq35ff2SvvMWOFNrEDc"
     },
     {
+      "added_at": "2025-10-23 13:55:51",
+      "album": {
+        "name": "Expressions",
+        "url": "https://open.spotify.com/album/5mWaVGsfJhuHPOharCmGjU"
+      },
+      "artists": [
+        {
+          "name": "Mariya Takeuchi",
+          "url": "https://open.spotify.com/artist/3WwGRA2o4Ux1RRMYaYDh7N"
+        }
+      ],
+      "duration_ms": 277426,
+      "name": "\u3059\u3066\u304d\u306a\u30db\u30ea\u30c7\u30a4",
+      "url": "https://open.spotify.com/track/42KsMmJ8sbWrfy6WMNWySo"
+    },
+    {
       "added_at": "2025-03-11 22:40:18",
       "album": {
         "name": "NO SIDE",
@@ -611,22 +627,6 @@
     {
       "added_at": "2025-10-23 13:55:51",
       "album": {
-        "name": "Expressions",
-        "url": "https://open.spotify.com/album/5mWaVGsfJhuHPOharCmGjU"
-      },
-      "artists": [
-        {
-          "name": "Mariya Takeuchi",
-          "url": "https://open.spotify.com/artist/3WwGRA2o4Ux1RRMYaYDh7N"
-        }
-      ],
-      "duration_ms": 277426,
-      "name": "\u3059\u3066\u304d\u306a\u30db\u30ea\u30c7\u30a4",
-      "url": "https://open.spotify.com/track/42KsMmJ8sbWrfy6WMNWySo"
-    },
-    {
-      "added_at": "2025-10-23 13:55:51",
-      "album": {
         "name": "POP LIFE",
         "url": "https://open.spotify.com/album/2jb27PDgg002Gnfo357dwv"
       },
@@ -639,22 +639,6 @@
       "duration_ms": 361080,
       "name": "LOVER SOUL",
       "url": "https://open.spotify.com/track/2i0GSXJfOgIMYmncn5S9Yx"
-    },
-    {
-      "added_at": "2025-10-23 13:55:51",
-      "album": {
-        "name": "\u6708\u306b\u5420\u3048\u308b",
-        "url": "https://open.spotify.com/album/31wNfG1NEvrOjQxI4S1AsV"
-      },
-      "artists": [
-        {
-          "name": "\u30e8\u30eb\u30b7\u30ab",
-          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
-        }
-      ],
-      "duration_ms": 265803,
-      "name": "\u6708\u306b\u5420\u3048\u308b",
-      "url": "https://open.spotify.com/track/7sLxvJ2Lj4Kf2K6Wa7OEk1"
     },
     {
       "added_at": "2025-10-24 07:45:46",
@@ -677,6 +661,22 @@
       "url": "https://open.spotify.com/track/5KqIUmgtUmFGlylW0cRiwc"
     },
     {
+      "added_at": "2025-10-23 13:55:51",
+      "album": {
+        "name": "\u6708\u306b\u5420\u3048\u308b",
+        "url": "https://open.spotify.com/album/31wNfG1NEvrOjQxI4S1AsV"
+      },
+      "artists": [
+        {
+          "name": "\u30e8\u30eb\u30b7\u30ab",
+          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
+        }
+      ],
+      "duration_ms": 265803,
+      "name": "\u6708\u306b\u5420\u3048\u308b",
+      "url": "https://open.spotify.com/track/7sLxvJ2Lj4Kf2K6Wa7OEk1"
+    },
+    {
       "added_at": "2025-10-24 07:45:46",
       "album": {
         "name": "Shout Out to Jesus",
@@ -691,6 +691,22 @@
       "duration_ms": 204264,
       "name": "City Love City Love City Love",
       "url": "https://open.spotify.com/track/1iggXYj6rRrHjPG12bmQPj"
+    },
+    {
+      "added_at": "2025-10-24 07:45:46",
+      "album": {
+        "name": "\u96ea\u306e\u83ef",
+        "url": "https://open.spotify.com/album/1RGkN7I8uWB4832MPaBzCy"
+      },
+      "artists": [
+        {
+          "name": "Mika Nakashima",
+          "url": "https://open.spotify.com/artist/3D73KNJRMbV45N59E8IN0F"
+        }
+      ],
+      "duration_ms": 341933,
+      "name": "\u96ea\u306e\u83ef",
+      "url": "https://open.spotify.com/track/0SI0Te2JQTMe05NEmNbje6"
     },
     {
       "added_at": "2025-10-24 07:45:46",
@@ -711,18 +727,34 @@
     {
       "added_at": "2025-10-24 07:45:46",
       "album": {
-        "name": "\u96ea\u306e\u83ef",
-        "url": "https://open.spotify.com/album/1RGkN7I8uWB4832MPaBzCy"
+        "name": "\u3072\u3068\u3064\u306b\u306a\u308b\u3068\u304d",
+        "url": "https://open.spotify.com/album/4wGwmvxA1aqH8Q5ObKN5oA"
       },
       "artists": [
         {
-          "name": "Mika Nakashima",
-          "url": "https://open.spotify.com/artist/3D73KNJRMbV45N59E8IN0F"
+          "name": "EVISBEATS",
+          "url": "https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc"
         }
       ],
-      "duration_ms": 341933,
-      "name": "\u96ea\u306e\u83ef",
-      "url": "https://open.spotify.com/track/0SI0Te2JQTMe05NEmNbje6"
+      "duration_ms": 337306,
+      "name": "\u3044\u3044\u6642\u9593",
+      "url": "https://open.spotify.com/track/3lqUSr3F8gmD7ruydRlky4"
+    },
+    {
+      "added_at": "2025-10-24 07:45:46",
+      "album": {
+        "name": "Kiroro\u306e\u3046\u305f \u2460",
+        "url": "https://open.spotify.com/album/7evQI7Gxwto5ByAD0fiQBF"
+      },
+      "artists": [
+        {
+          "name": "Kiroro",
+          "url": "https://open.spotify.com/artist/279R7zEl7kwZxoMw18Pr9R"
+        }
+      ],
+      "duration_ms": 345086,
+      "name": "\u51ac\u306e\u3046\u305f",
+      "url": "https://open.spotify.com/track/13ZrdwZjgT6P1In07B4TBF"
     },
     {
       "added_at": "2025-03-11 22:40:18",
@@ -743,22 +775,6 @@
     {
       "added_at": "2025-10-24 07:45:46",
       "album": {
-        "name": "\u3072\u3068\u3064\u306b\u306a\u308b\u3068\u304d",
-        "url": "https://open.spotify.com/album/4wGwmvxA1aqH8Q5ObKN5oA"
-      },
-      "artists": [
-        {
-          "name": "EVISBEATS",
-          "url": "https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc"
-        }
-      ],
-      "duration_ms": 337306,
-      "name": "\u3044\u3044\u6642\u9593",
-      "url": "https://open.spotify.com/track/3lqUSr3F8gmD7ruydRlky4"
-    },
-    {
-      "added_at": "2025-10-24 07:45:46",
-      "album": {
         "name": "Gen",
         "url": "https://open.spotify.com/album/1s9TxbeBWAbz939OHhl3ch"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 248666,
       "name": "Why",
       "url": "https://open.spotify.com/track/1v8JIAvZLQXgqhVer4ira5"
-    },
-    {
-      "added_at": "2025-10-24 07:45:46",
-      "album": {
-        "name": "Kiroro\u306e\u3046\u305f \u2460",
-        "url": "https://open.spotify.com/album/7evQI7Gxwto5ByAD0fiQBF"
-      },
-      "artists": [
-        {
-          "name": "Kiroro",
-          "url": "https://open.spotify.com/artist/279R7zEl7kwZxoMw18Pr9R"
-        }
-      ],
-      "duration_ms": 345086,
-      "name": "\u51ac\u306e\u3046\u305f",
-      "url": "https://open.spotify.com/track/13ZrdwZjgT6P1In07B4TBF"
     },
     {
       "added_at": "2025-10-24 07:45:46",
@@ -825,22 +825,6 @@
       "url": "https://open.spotify.com/track/2PwOOgg8PavBNIWsPLIkr3"
     },
     {
-      "added_at": "2025-03-11 22:40:18",
-      "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/1B7s0MuLuwvGpSMOpzKDTN"
-      },
-      "artists": [
-        {
-          "name": "Yo-Sea",
-          "url": "https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw"
-        }
-      ],
-      "duration_ms": 209639,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/20oWyi2kyCBXvgmD41XYEm"
-    },
-    {
       "added_at": "2025-10-23 13:55:51",
       "album": {
         "name": "WINTER SONG",
@@ -857,6 +841,22 @@
       "url": "https://open.spotify.com/track/3fY7C8e4gZ5RfcN4GB2yDJ"
     },
     {
+      "added_at": "2025-03-11 22:40:18",
+      "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/1B7s0MuLuwvGpSMOpzKDTN"
+      },
+      "artists": [
+        {
+          "name": "Yo-Sea",
+          "url": "https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw"
+        }
+      ],
+      "duration_ms": 209639,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/20oWyi2kyCBXvgmD41XYEm"
+    },
+    {
       "added_at": "2025-10-24 07:45:46",
       "album": {
         "name": "\u30d7\u30e9\u30a4\u30de\u30eb",
@@ -871,22 +871,6 @@
       "duration_ms": 292960,
       "name": "\u30d7\u30e9\u30a4\u30de\u30eb",
       "url": "https://open.spotify.com/track/3ngihcNtaHh3ggXwPPpXYv"
-    },
-    {
-      "added_at": "2025-03-11 22:40:18",
-      "album": {
-        "name": "\u305d\u3046\u304b\u306a",
-        "url": "https://open.spotify.com/album/543KpYnJUAHbMY8FgzjLf6"
-      },
-      "artists": [
-        {
-          "name": "Kazumasa Oda",
-          "url": "https://open.spotify.com/artist/2UzjSnmjccLgd1DkvAH5OR"
-        }
-      ],
-      "duration_ms": 263866,
-      "name": "\u307e\u3063\u767d",
-      "url": "https://open.spotify.com/track/1Wy03yAj72MppXCDNYWNYv"
     },
     {
       "added_at": "2026-11-10 09:14:46",
@@ -907,18 +891,18 @@
     {
       "added_at": "2025-03-11 22:40:18",
       "album": {
-        "name": "What's Going On?",
-        "url": "https://open.spotify.com/album/4lOW8UJDAZFRsiK43TBhr7"
+        "name": "\u305d\u3046\u304b\u306a",
+        "url": "https://open.spotify.com/album/543KpYnJUAHbMY8FgzjLf6"
       },
       "artists": [
         {
-          "name": "OFFICIAL HIGE DANDISM",
-          "url": "https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj"
+          "name": "Kazumasa Oda",
+          "url": "https://open.spotify.com/artist/2UzjSnmjccLgd1DkvAH5OR"
         }
       ],
-      "duration_ms": 264546,
-      "name": "\u30cb\u30c3\u30c8\u306e\u5e3d\u5b50",
-      "url": "https://open.spotify.com/track/33JtUjUhbfJlBbdCXH6v5I"
+      "duration_ms": 263866,
+      "name": "\u307e\u3063\u767d",
+      "url": "https://open.spotify.com/track/1Wy03yAj72MppXCDNYWNYv"
     },
     {
       "added_at": "2026-11-10 09:14:46",
@@ -935,6 +919,22 @@
       "duration_ms": 226297,
       "name": "\u51ac\u304c\u597d\u304d\u3060",
       "url": "https://open.spotify.com/track/49tbCLJbJfSLAOMwnroLKD"
+    },
+    {
+      "added_at": "2025-03-11 22:40:18",
+      "album": {
+        "name": "What's Going On?",
+        "url": "https://open.spotify.com/album/4lOW8UJDAZFRsiK43TBhr7"
+      },
+      "artists": [
+        {
+          "name": "OFFICIAL HIGE DANDISM",
+          "url": "https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj"
+        }
+      ],
+      "duration_ms": 264546,
+      "name": "\u30cb\u30c3\u30c8\u306e\u5e3d\u5b50",
+      "url": "https://open.spotify.com/track/33JtUjUhbfJlBbdCXH6v5I"
     },
     {
       "added_at": "2025-10-24 07:45:46",
@@ -969,22 +969,6 @@
       "url": "https://open.spotify.com/track/7gRwEA36B5Oq7oUlCcWLKb"
     },
     {
-      "added_at": "2025-10-23 13:55:51",
-      "album": {
-        "name": "The History of Shogo Hamada\u201cSince 1975\u201d",
-        "url": "https://open.spotify.com/album/2m7ovaZtuf7WumcBTwtsTq"
-      },
-      "artists": [
-        {
-          "name": "Shogo Hamada",
-          "url": "https://open.spotify.com/artist/46Y4IAsvxi9vMQjqL2wdfy"
-        }
-      ],
-      "duration_ms": 311946,
-      "name": "\u60b2\u3057\u307f\u306f\u96ea\u306e\u3088\u3046\u306b (single / 1992)",
-      "url": "https://open.spotify.com/track/10HHmKRsZmQLXQ3kiAEef1"
-    },
-    {
       "added_at": "2026-11-10 09:14:46",
       "album": {
         "name": "M25",
@@ -999,6 +983,22 @@
       "duration_ms": 360146,
       "name": "\u96ea\u306e\u83ef\uff082026 Rerecorded\uff09",
       "url": "https://open.spotify.com/track/0BeXv4ZE6h6duxdKCblrat"
+    },
+    {
+      "added_at": "2025-10-23 13:55:51",
+      "album": {
+        "name": "The History of Shogo Hamada\u201cSince 1975\u201d",
+        "url": "https://open.spotify.com/album/2m7ovaZtuf7WumcBTwtsTq"
+      },
+      "artists": [
+        {
+          "name": "Shogo Hamada",
+          "url": "https://open.spotify.com/artist/46Y4IAsvxi9vMQjqL2wdfy"
+        }
+      ],
+      "duration_ms": 311946,
+      "name": "\u60b2\u3057\u307f\u306f\u96ea\u306e\u3088\u3046\u306b (single / 1992)",
+      "url": "https://open.spotify.com/track/10HHmKRsZmQLXQ3kiAEef1"
     },
     {
       "added_at": "2025-03-11 22:40:18",
@@ -1049,22 +1049,6 @@
       "url": "https://open.spotify.com/track/3RN23f4eu6flCYbmqam9Xl"
     },
     {
-      "added_at": "2025-10-23 13:55:51",
-      "album": {
-        "name": "BIBLE",
-        "url": "https://open.spotify.com/album/0dgfL1KfvwumtF2RH4gNZL"
-      },
-      "artists": [
-        {
-          "name": "Seiko Matsuda",
-          "url": "https://open.spotify.com/artist/3E5NLQpQbd0eJ18XO9zC0h"
-        }
-      ],
-      "duration_ms": 280093,
-      "name": "\u771f\u51ac\u306e\u604b\u4eba\u305f\u3061",
-      "url": "https://open.spotify.com/track/05mB4qDx7CR2c88s0YsNs5"
-    },
-    {
       "added_at": "2026-11-10 09:14:46",
       "album": {
         "name": "Holiday",
@@ -1079,6 +1063,22 @@
       "duration_ms": 190821,
       "name": "Holiday",
       "url": "https://open.spotify.com/track/1motHZAL15sqtVQAei0PGR"
+    },
+    {
+      "added_at": "2025-10-23 13:55:51",
+      "album": {
+        "name": "BIBLE",
+        "url": "https://open.spotify.com/album/0dgfL1KfvwumtF2RH4gNZL"
+      },
+      "artists": [
+        {
+          "name": "Seiko Matsuda",
+          "url": "https://open.spotify.com/artist/3E5NLQpQbd0eJ18XO9zC0h"
+        }
+      ],
+      "duration_ms": 280093,
+      "name": "\u771f\u51ac\u306e\u604b\u4eba\u305f\u3061",
+      "url": "https://open.spotify.com/track/05mB4qDx7CR2c88s0YsNs5"
     },
     {
       "added_at": "2025-10-24 07:45:46",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2025-10-24 07:45:46",
       "album": {
-        "name": "Ken Hirai 10th Anniversary Complete Single Collection '95-'05 \u6b4c\u30d0\u30ab",
-        "url": "https://open.spotify.com/album/6XLXlr6vKDBxkpgkBKF502"
-      },
-      "artists": [
-        {
-          "name": "Ken Hirai",
-          "url": "https://open.spotify.com/artist/6jIhEiXcCAyBsuEI7qZ9vc"
-        }
-      ],
-      "duration_ms": 339773,
-      "name": "even if",
-      "url": "https://open.spotify.com/track/6rKel5kmQN62IKewLUPBze"
-    },
-    {
-      "added_at": "2025-10-24 07:45:46",
-      "album": {
         "name": "Happy X-mas (War Is Over)",
         "url": "https://open.spotify.com/album/4eP51T6TYR1cOFYwZNc6XE"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 268000,
       "name": "Happy X-mas (War Is Over)",
       "url": "https://open.spotify.com/track/4JQS958NdP0PqfcoYFxrhV"
+    },
+    {
+      "added_at": "2025-10-24 07:45:46",
+      "album": {
+        "name": "Ken Hirai 10th Anniversary Complete Single Collection '95-'05 \u6b4c\u30d0\u30ab",
+        "url": "https://open.spotify.com/album/6XLXlr6vKDBxkpgkBKF502"
+      },
+      "artists": [
+        {
+          "name": "Ken Hirai",
+          "url": "https://open.spotify.com/artist/6jIhEiXcCAyBsuEI7qZ9vc"
+        }
+      ],
+      "duration_ms": 339773,
+      "name": "even if",
+      "url": "https://open.spotify.com/track/6rKel5kmQN62IKewLUPBze"
     },
     {
       "added_at": "2025-10-23 13:55:51",
@@ -1257,6 +1257,22 @@
       "url": "https://open.spotify.com/track/2wcIrfQFcXHZ7GIKfP4rD9"
     },
     {
+      "added_at": "2025-03-11 22:40:18",
+      "album": {
+        "name": "\u9060\u3044\u8857\u306e\u3069\u3053\u304b\u3067\u2026",
+        "url": "https://open.spotify.com/album/2heEQ0XdXnD4FHLi2mXLgf"
+      },
+      "artists": [
+        {
+          "name": "Kumi Koda",
+          "url": "https://open.spotify.com/artist/2mGYHril2LuZodRtTX06BC"
+        }
+      ],
+      "duration_ms": 332703,
+      "name": "\u9060\u3044\u8857\u306e\u3069\u3053\u304b\u3067\u2026",
+      "url": "https://open.spotify.com/track/15cyI9UoqIOBXtnb5fPkq3"
+    },
+    {
       "added_at": "2025-10-24 07:45:46",
       "album": {
         "name": "\u7518\u3044\u904b\u547d",
@@ -1289,22 +1305,6 @@
       "url": "https://open.spotify.com/track/1EZKPMqumpM3Jud6AQAlBZ"
     },
     {
-      "added_at": "2025-03-11 22:40:18",
-      "album": {
-        "name": "\u9060\u3044\u8857\u306e\u3069\u3053\u304b\u3067\u2026",
-        "url": "https://open.spotify.com/album/2heEQ0XdXnD4FHLi2mXLgf"
-      },
-      "artists": [
-        {
-          "name": "Kumi Koda",
-          "url": "https://open.spotify.com/artist/2mGYHril2LuZodRtTX06BC"
-        }
-      ],
-      "duration_ms": 332703,
-      "name": "\u9060\u3044\u8857\u306e\u3069\u3053\u304b\u3067\u2026",
-      "url": "https://open.spotify.com/track/15cyI9UoqIOBXtnb5fPkq3"
-    },
-    {
       "added_at": "2025-12-05 00:27:18",
       "album": {
         "name": "shiro",
@@ -1321,22 +1321,6 @@
       "url": "https://open.spotify.com/track/13B7xIMV9eLj9xWO4EJF6r"
     },
     {
-      "added_at": "2025-12-24 00:34:11",
-      "album": {
-        "name": "\u6c34\u4e2d\u306e\u30e1\u30c8\u30ed",
-        "url": "https://open.spotify.com/album/5FlD12dyWeEKRXhNIzRZpM"
-      },
-      "artists": [
-        {
-          "name": "Ohashi Trio",
-          "url": "https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E"
-        }
-      ],
-      "duration_ms": 261865,
-      "name": "\u6c34\u4e2d\u306e\u30e1\u30c8\u30ed",
-      "url": "https://open.spotify.com/track/2rPZULJJqeYbJAwO7PyVcX"
-    },
-    {
       "added_at": "2025-10-24 07:45:46",
       "album": {
         "name": "In TRANSIT (Deluxe Edition)",
@@ -1351,6 +1335,22 @@
       "duration_ms": 229348,
       "name": "Winter Lights",
       "url": "https://open.spotify.com/track/3iceeQ5PJPmkL6X8qwX28v"
+    },
+    {
+      "added_at": "2025-12-24 00:34:11",
+      "album": {
+        "name": "\u6c34\u4e2d\u306e\u30e1\u30c8\u30ed",
+        "url": "https://open.spotify.com/album/5FlD12dyWeEKRXhNIzRZpM"
+      },
+      "artists": [
+        {
+          "name": "Ohashi Trio",
+          "url": "https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E"
+        }
+      ],
+      "duration_ms": 261865,
+      "name": "\u6c34\u4e2d\u306e\u30e1\u30c8\u30ed",
+      "url": "https://open.spotify.com/track/2rPZULJJqeYbJAwO7PyVcX"
     },
     {
       "added_at": "2025-12-05 00:27:18",
@@ -1417,20 +1417,20 @@
       "url": "https://open.spotify.com/track/3qjn3ApkFORYOy9Oj0uhzn"
     },
     {
-      "added_at": "2025-10-24 07:45:46",
+      "added_at": "2026-11-10 09:14:46",
       "album": {
-        "name": "Niche\u30b7\u30f3\u30c9\u30ed\u30fc\u30e0",
-        "url": "https://open.spotify.com/album/5Txrg948JAAstSTzI0Rssa"
+        "name": "WINNER",
+        "url": "https://open.spotify.com/album/5NQRzZbt5XMgADIB4I9oKp"
       },
       "artists": [
         {
-          "name": "ONE OK ROCK",
-          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+          "name": "tami",
+          "url": "https://open.spotify.com/artist/6kAb0LBlfALDVovULIKdIh"
         }
       ],
-      "duration_ms": 295600,
-      "name": "Wherever you are",
-      "url": "https://open.spotify.com/track/7a7EIFzJLd7lcDRgThMQgm"
+      "duration_ms": 275014,
+      "name": "to you",
+      "url": "https://open.spotify.com/track/3POXPYAY4VVZPwoYknIM7N"
     },
     {
       "added_at": "2025-03-11 22:40:18",
@@ -1447,6 +1447,22 @@
       "duration_ms": 178700,
       "name": "Present",
       "url": "https://open.spotify.com/track/6haW837EW4wauotPmhUVAM"
+    },
+    {
+      "added_at": "2025-10-24 07:45:46",
+      "album": {
+        "name": "Niche\u30b7\u30f3\u30c9\u30ed\u30fc\u30e0",
+        "url": "https://open.spotify.com/album/5Txrg948JAAstSTzI0Rssa"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "duration_ms": 295600,
+      "name": "Wherever you are",
+      "url": "https://open.spotify.com/track/7a7EIFzJLd7lcDRgThMQgm"
     },
     {
       "added_at": "2025-10-23 13:55:51",
@@ -1495,22 +1511,6 @@
       "duration_ms": 150483,
       "name": "How are you feeling?",
       "url": "https://open.spotify.com/track/2uPfOgWxzj99atXxkb0mXv"
-    },
-    {
-      "added_at": "2026-11-10 09:14:46",
-      "album": {
-        "name": "WINNER",
-        "url": "https://open.spotify.com/album/5NQRzZbt5XMgADIB4I9oKp"
-      },
-      "artists": [
-        {
-          "name": "tami",
-          "url": "https://open.spotify.com/artist/6kAb0LBlfALDVovULIKdIh"
-        }
-      ],
-      "duration_ms": 275014,
-      "name": "to you",
-      "url": "https://open.spotify.com/track/3POXPYAY4VVZPwoYknIM7N"
     },
     {
       "added_at": "2025-12-11 02:28:39",

@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQuy1uEYTm1p.md) - [plain]
 | 2 | [Songs About U](https://open.spotify.com/track/1iuNH5Ajdqt7O2NMon1EB5) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Songs About U](https://open.spotify.com/album/4F6grP1bKnxdEDkwecx3IM) | 3:00 |
 | 3 | [Thank You Come Again](https://open.spotify.com/track/7b62buEn2WToU7SC13eMb4) | [BamBam](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr) | [BAMESIS](https://open.spotify.com/album/4x2VITMV5Rhr6qdkOUHM0b) | 2:45 |
 | 4 | [Not Done Yet](https://open.spotify.com/track/43xjMIpJBtPsCd8QdVTyf7) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Rocket Power](https://open.spotify.com/album/0HRZ0CldV3tp7U2sTomtIf) | 2:20 |
-| 5 | [Free My N\*\*\*a](https://open.spotify.com/track/4wiKgTjxd1Rh3KLRJ09T3S) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hood Hottest Princess \(Deluxe\)](https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr) | 2:09 |
-| 6 | [Revenge](https://open.spotify.com/track/3h9jy7cOpyIyAxllvaXZbg) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [BITE NOW](https://open.spotify.com/album/1SiZrYRGkJ19v7Bxx0noc7) | 3:07 |
+| 5 | [Revenge](https://open.spotify.com/track/3h9jy7cOpyIyAxllvaXZbg) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [BITE NOW](https://open.spotify.com/album/1SiZrYRGkJ19v7Bxx0noc7) | 3:07 |
+| 6 | [Free My N\*\*\*a](https://open.spotify.com/track/4wiKgTjxd1Rh3KLRJ09T3S) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hood Hottest Princess \(Deluxe\)](https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr) | 2:09 |
 | 7 | [Save Your Soul](https://open.spotify.com/track/4ln9MQz4OChaV3eqGNS7BU) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Thanks 4 Nothing](https://open.spotify.com/album/3rA9WvtKza3kX1S0fNsTgi) | 3:07 |
 | 8 | [Charged Up](https://open.spotify.com/track/5T9eCpmP2lJ0YDEW1qxwPu) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Winter's Diary 5](https://open.spotify.com/album/3qpgECxsMr2Iond5cWsH2h) | 2:59 |
 | 9 | [Distance](https://open.spotify.com/track/1QoK4t3mwW6sv8B79kJYuc) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [DOPAMINE](https://open.spotify.com/album/1XSUdSojWNJCgNqKNxfcVr) | 3:01 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQuy1uEYTm1p.md) - [plain]
 | 39 | [Into me](https://open.spotify.com/track/0O3N02GOlmA64FjatIvzIp) | [Maeesha b](https://open.spotify.com/artist/32kGDmP5SLA0BdfVQNhkq7) | [Into me](https://open.spotify.com/album/5qlLxd49w1hdiJrZIsbMu7) | 1:50 |
 | 40 | [all i need](https://open.spotify.com/track/00joKEPIitqe05LXwZcWT2) | [Maeesha b](https://open.spotify.com/artist/32kGDmP5SLA0BdfVQNhkq7) | [all i need](https://open.spotify.com/album/72NXupoFp47op0ZlhzEMuu) | 2:23 |
 
-Snapshot ID: `AchbMAAAAADhBtlF+hZx9/EWIuT/IFxI`
+Snapshot ID: `AchggAAAAAC9Ph10sc+nlTWaFUHykdOL`

@@ -1,6 +1,6 @@
 {
   "description": "\uc5f0\uc778\uc5d0\uac8c \uc804\ud558\ub294 \ub178\ub7ab\ub9d0\uacfc \ub2ec\ub2ec\ud55c \uc2dc\uac04\uc744 \ud568\uaed8\ud558\uc138\uc694.",
-  "num_followers": 21319,
+  "num_followers": 21320,
   "original_name": "\uc0ac\ub791\uc774\ub780 \ub2e8\uc5b4\ub85c \ubd80\uc871\ud558\uae30\uc5d0 (K-Pop Love Songs)",
   "owner": {
     "name": "Spotify",
@@ -323,22 +323,6 @@
     {
       "added_at": "2026-06-25 15:51:09",
       "album": {
-        "name": "A-TEEN Part. 2",
-        "url": "https://open.spotify.com/album/0vRTiHetZUMy6HGswfv73J"
-      },
-      "artists": [
-        {
-          "name": "So Soo Bin",
-          "url": "https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic"
-        }
-      ],
-      "duration_ms": 204942,
-      "name": "I'II be your star",
-      "url": "https://open.spotify.com/track/0l9LpCsYufB1e5PJSvOXbU"
-    },
-    {
-      "added_at": "2026-06-25 15:51:09",
-      "album": {
         "name": "YUMI's Cells 2, Pt. 3 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/5mwZc68D7ZattMx8VPUDLN"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 222305,
       "name": "Shining on Your Night",
       "url": "https://open.spotify.com/track/0w8gFJyJ2QmNDsHYy0KEa6"
+    },
+    {
+      "added_at": "2026-06-25 15:51:09",
+      "album": {
+        "name": "A-TEEN Part. 2",
+        "url": "https://open.spotify.com/album/0vRTiHetZUMy6HGswfv73J"
+      },
+      "artists": [
+        {
+          "name": "So Soo Bin",
+          "url": "https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic"
+        }
+      ],
+      "duration_ms": 204942,
+      "name": "I'II be your star",
+      "url": "https://open.spotify.com/track/0l9LpCsYufB1e5PJSvOXbU"
     },
     {
       "added_at": "2026-06-25 15:51:09",
@@ -615,22 +615,6 @@
     {
       "added_at": "2026-06-25 15:51:09",
       "album": {
-        "name": "TRUST ME",
-        "url": "https://open.spotify.com/album/70gdmYJboeL0tXQmYOpWVL"
-      },
-      "artists": [
-        {
-          "name": "YUGYEOM",
-          "url": "https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY"
-        }
-      ],
-      "duration_ms": 172306,
-      "name": "LA SOL MI",
-      "url": "https://open.spotify.com/track/5dAsiF46QiGmW9BEc2kIYl"
-    },
-    {
-      "added_at": "2026-06-25 15:51:09",
-      "album": {
         "name": "Boyfriend on Demand Part 1 (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/1ikUWSlHhgzSx6drjjyG97"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 215120,
       "name": "Be My Love",
       "url": "https://open.spotify.com/track/1FbxpeYh1qPvQMve046NQU"
+    },
+    {
+      "added_at": "2026-06-25 15:51:09",
+      "album": {
+        "name": "TRUST ME",
+        "url": "https://open.spotify.com/album/70gdmYJboeL0tXQmYOpWVL"
+      },
+      "artists": [
+        {
+          "name": "YUGYEOM",
+          "url": "https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY"
+        }
+      ],
+      "duration_ms": 172306,
+      "name": "LA SOL MI",
+      "url": "https://open.spotify.com/track/5dAsiF46QiGmW9BEc2kIYl"
     },
     {
       "added_at": "2026-06-25 15:51:09",
@@ -943,34 +943,22 @@
     {
       "added_at": "2026-06-25 15:51:09",
       "album": {
-        "name": "My Everything",
-        "url": "https://open.spotify.com/album/06A6Z2M5V6JFVAXEAg4LAg"
+        "name": "Ten Reasons I Love You(2021)",
+        "url": "https://open.spotify.com/album/7jYHHFrMHo5grqQ1oQ2oRH"
       },
       "artists": [
         {
-          "name": "KyoungSeo",
-          "url": "https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA"
-        }
-      ],
-      "duration_ms": 234320,
-      "name": "My Everything",
-      "url": "https://open.spotify.com/track/30OyUSm3KRcjZQ3Nb1kbXR"
-    },
-    {
-      "added_at": "2026-06-25 15:51:09",
-      "album": {
-        "name": "It\u2032s You",
-        "url": "https://open.spotify.com/album/5wPEtP41dY7dqF3GcLBlfC"
-      },
-      "artists": [
+          "name": "Lee Seok Hoon",
+          "url": "https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot"
+        },
         {
-          "name": "Colde",
-          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+          "name": "ROCOBERRY",
+          "url": "https://open.spotify.com/artist/0Mt9IxntWHsf793bLZhQ9P"
         }
       ],
-      "duration_ms": 193000,
-      "name": "It\u2032s You",
-      "url": "https://open.spotify.com/track/23PyDwW8pLgDsjpyFdjYgj"
+      "duration_ms": 250813,
+      "name": "Ten Reasons I Love You(2021)",
+      "url": "https://open.spotify.com/track/6iTIhJhvTLWsIH6DMfhfvD"
     },
     {
       "added_at": "2026-06-25 15:51:09",
@@ -991,6 +979,22 @@
       "duration_ms": 163773,
       "name": "Way U Are (feat. BIG Naughty)",
       "url": "https://open.spotify.com/track/1cHwmkEYWHstlT9hRF0EeP"
+    },
+    {
+      "added_at": "2026-06-25 15:51:09",
+      "album": {
+        "name": "My Everything",
+        "url": "https://open.spotify.com/album/06A6Z2M5V6JFVAXEAg4LAg"
+      },
+      "artists": [
+        {
+          "name": "KyoungSeo",
+          "url": "https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA"
+        }
+      ],
+      "duration_ms": 234320,
+      "name": "My Everything",
+      "url": "https://open.spotify.com/track/30OyUSm3KRcjZQ3Nb1kbXR"
     }
   ],
   "unique_name": "\uc0ac\ub791\uc774\ub780 \ub2e8\uc5b4\ub85c \ubd80\uc871\ud558\uae30\uc5d0 (K-Pop Love Songs)",

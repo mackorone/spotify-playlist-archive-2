@@ -2,9 +2,9 @@
 
 ### [Cph+](https://open.spotify.com/playlist/37i9dQZF1DX0gcho56Immm)
 
-> explore the alt\-sounds of Copenhagen and beyond 🌀 Cover: Coco O.
+> explore the alt\-sounds of Copenhagen and beyond 🌀 Cover: Yangze
 
-369 songs - 21 hr 0 min
+372 songs - 21 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@
 | [Dust](https://open.spotify.com/track/6xq2ewiAEbFJt0PT8uharC) | [snuggle](https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa) | [Dust](https://open.spotify.com/album/5NfORohjlF3kjZJ2GaUtgD) | 3:27 | 2025-03-13 | 2025-06-07 |
 | [Dust Yourself Off](https://open.spotify.com/track/2NjB3X18j4ShmR962a38c3) | [Martha Skye Murphy](https://open.spotify.com/artist/4riGlB4lkpPDgJscJid8FA) | [Um](https://open.spotify.com/album/6Y0J5WRcTykUZ47wZFrxN3) | 2:05 | 2025-03-13 | 2025-10-18 |
 | [Dwell](https://open.spotify.com/track/7qwApTSPhW04EnRwcdGEur) | [Now Always Fades](https://open.spotify.com/artist/7bdXd6MqOWlETFIx0hpPgy), [Olive Kimoto](https://open.spotify.com/artist/2mtgDA3i2MqqAeRw8AGVY6) | [Coalesce](https://open.spotify.com/album/4uNfL1imCBzXVcYpTtN9vC) | 4:34 | 2026-09-17 |  |
-| [E45](https://open.spotify.com/track/0w6G3E9M8EVoZMAyg76U2L) | [Dork](https://open.spotify.com/artist/3jE90CFpLX1fYiDPHqDZul) | [E45](https://open.spotify.com/album/6AkwQ74vKoFeb3ansGY171) | 3:34 | 2025-10-03 |  |
+| [E45](https://open.spotify.com/track/0w6G3E9M8EVoZMAyg76U2L) | [Dork](https://open.spotify.com/artist/3jE90CFpLX1fYiDPHqDZul) | [E45](https://open.spotify.com/album/6AkwQ74vKoFeb3ansGY171) | 3:34 | 2025-10-03 | 2026-11-13 |
 | [Easy Rider Geneva Heat](https://open.spotify.com/track/18vBir4mGmDL54cnwn758B) | [Lolina](https://open.spotify.com/artist/1jj1qbHgrDKYct7IJv5VQ8) | [Unrecognisable](https://open.spotify.com/album/6mMdp6Ua31O86pTWSdxcMC) | 1:40 | 2026-02-19 |  |
 | [Ecstatic Heads](https://open.spotify.com/track/6h8nLmwNxWrHKYm9p28oc2) | [mark william lewis](https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k) | [Mark William Lewis](https://open.spotify.com/album/1vbTtLdHvOUjv3rfVRr45Y) | 4:39 | 2025-09-12 |  |
 | [Ecto](https://open.spotify.com/track/4A6n0D0nOSPPLRh6PbblyR) | [Cyst](https://open.spotify.com/artist/6rykAKGU8NhN8Sbpe2MZkT), [Iglooghost](https://open.spotify.com/artist/7LCDnUQYE07fnKbo46SVLB), [daisy\*](https://open.spotify.com/artist/799y9UGBODaDBZ8XSbEr1A) | [ᲘᲘ](https://open.spotify.com/album/3VssYONv9JggXulFIcQlds) | 3:03 | 2026-09-11 |  |
@@ -133,7 +133,7 @@
 | [Forget her](https://open.spotify.com/track/5Pf5FOgGfEyKK9zizL2UtA) | [EERA](https://open.spotify.com/artist/1kr9ySHpN45SVd5nJVbIbc) | [Forget her](https://open.spotify.com/album/7wEFFT8ha9xLJ4w5uAZvlz) | 3:37 | 2025-07-04 | 2025-11-01 |
 | [Forgetful](https://open.spotify.com/track/3Q1u8slUCTZEy8zlS9W3iZ) | [Barbro](https://open.spotify.com/artist/4xLgZcnFsAbYKBfsQEJGKY), [Mija Milovic](https://open.spotify.com/artist/2OOCBx8T5zRIv2tLXF8l59) | [Forgetful](https://open.spotify.com/album/3JkbrPgAyJMSn9YuPUpNS5) | 4:41 | 2025-03-13 | 2026-03-20 |
 | [Formula 1](https://open.spotify.com/track/6BHkkOCflCQjyTcGl0jaMi) | [Richard Orofino](https://open.spotify.com/artist/3xXUZ2bPGudLudm2eBE7I0), [Melody English](https://open.spotify.com/artist/681ANzmKTyqMjgPffPiFPp) | [Formula 1](https://open.spotify.com/album/5b5V1qr0RiJzLBAeEe5VOY) | 3:09 | 2025-05-15 | 2026-10-24 |
-| [G\-LIP](https://open.spotify.com/track/6F8GWMveksAfUHPjisf7MD) | [Camille Keller](https://open.spotify.com/artist/3cSFP8ZUJeHzJaPdHtdl0F) | [Lack of G\-LIP](https://open.spotify.com/album/2jn64i9HNuamZQtSlLyjR4) | 2:17 | 2025-08-08 |  |
+| [G\-LIP](https://open.spotify.com/track/6F8GWMveksAfUHPjisf7MD) | [Camille Keller](https://open.spotify.com/artist/3cSFP8ZUJeHzJaPdHtdl0F) | [Lack of G\-LIP](https://open.spotify.com/album/2jn64i9HNuamZQtSlLyjR4) | 2:17 | 2025-08-08 | 2026-11-13 |
 | [Galloping Chest](https://open.spotify.com/track/0sW23ZyfB2RrAFFsA0YGXz) | [Tuvaband](https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT) | [Galloping Chest](https://open.spotify.com/album/33T7RKYfkC9zIsq2gX3hob) | 3:30 | 2025-06-06 | 2026-03-07 |
 | [Gave You Up](https://open.spotify.com/track/2gng4BVSuskEfAo4nFiE2E) | [Carla dal Forno](https://open.spotify.com/artist/6FVxEgfQsGrJ0BogIOYCd6) | [Confession](https://open.spotify.com/album/4YoCbEExp7Zmo6wbcYaR6c) | 3:21 | 2026-04-23 |  |
 | [Getaway](https://open.spotify.com/track/54YvXQzjpfQee9u3YKg8Ls) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [Ö](https://open.spotify.com/album/4RrsgnUbZIFTw42Apa8lXO) | 2:37 | 2026-04-02 |  |
@@ -198,6 +198,7 @@
 | [lao wai](https://open.spotify.com/track/1Kz4kdsoG9XqZReNL3RWZ4) | [Helena Gao](https://open.spotify.com/artist/2s2ztYpVGqV3BWDbAcd35h), [Shushu](https://open.spotify.com/artist/1UNqLt4phNW6lI5mPSL52P) | [lao wai](https://open.spotify.com/album/4gaBhPu0VextnFP4Y86xsC) | 2:31 | 2026-08-07 |  |
 | [Lay down](https://open.spotify.com/track/3gNKevE17xyH9yh7t3kyFO) | [Jenny Hval](https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7) | [Lay down](https://open.spotify.com/album/0F3oUVTkjXhdv4quHL7vYP) | 4:16 | 2025-05-01 | 2026-10-30 |
 | [Let It Go](https://open.spotify.com/track/1awTFbIlHiDAviFFW3hJ7m) | [Barbro](https://open.spotify.com/artist/4xLgZcnFsAbYKBfsQEJGKY) | [Crossfade](https://open.spotify.com/album/3rfUDup9i149Ge1ZGoqUlb) | 2:27 | 2026-02-06 |  |
+| [Let It Go](https://open.spotify.com/track/4aHZTxqb7HZuCNJJXdnVBb) | [Yangze](https://open.spotify.com/artist/41ZgBrHYJcdi3LEiZX1RMt) | [Heartbreak Stew](https://open.spotify.com/album/71JbANfvjiWqdhCb83IrMA) | 3:15 | 2026-11-12 |  |
 | [Letters](https://open.spotify.com/track/0B6xHxWg4g7C9174Cx1d0m) | [@](https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3) | [Mind Palace Music](https://open.spotify.com/album/7h3MMJMKzY03w8VVYgrYWr) | 2:26 | 2025-03-13 | 2026-10-03 |
 | [Lick The Flame](https://open.spotify.com/track/32TOQ5loDzoipxm7qLgkv3) | [effe](https://open.spotify.com/artist/2QHeMiKzNUpV7tFFqudKEX) | [Lick The Flame](https://open.spotify.com/album/41j1T9kYgDVsLDMkth1Kua) | 2:55 | 2026-05-22 |  |
 | [LIGHT DESIGN: OKLOU VERSION](https://open.spotify.com/track/72Mduxm5q1vXtwYatvPGW2) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x), [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [NEVER ENOUGH: VERSIONS](https://open.spotify.com/album/1KR1VedU3v1ZeVz0S1HPDL) | 2:46 | 2026-08-28 |  |
@@ -205,6 +206,7 @@
 | [Little Bit](https://open.spotify.com/track/0spXmYRCgO10zVvQwkj4hZ) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Essentials](https://open.spotify.com/album/6AYAMoty9hbhfzRKWaILTW) | 4:46 | 2025-03-13 | 2025-11-22 |
 | [Little Gods](https://open.spotify.com/track/2FpX0lLE01fW4HD88l2DmJ) | [Elias Rønnenfelt](https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH), [jonatan leandoer96](https://open.spotify.com/artist/5tPS5f7Gu3SaJQusdkehtE) | [Little Gods](https://open.spotify.com/album/3nzBF4atvaVYxVPjGOG845) | 3:40 | 2025-08-08 | 2026-05-01 |
 | [Little Hooks](https://open.spotify.com/track/1JwIHAXrpiaeBnQYb5XCsR) | [Shell Company](https://open.spotify.com/artist/0wqMgaPqqrfHV9zu9ojyFA) | [Locket](https://open.spotify.com/album/29KIEGHMYXe8QpwLFprQIY) | 5:41 | 2025-10-10 | 2026-03-07 |
+| [Little Things](https://open.spotify.com/track/5rCdoOUzXhApxg05G4NAqe) | [sadie](https://open.spotify.com/artist/6b5UgDdpmrafQHLmFg2DBc) | [Little Things](https://open.spotify.com/album/1brz3yWqkMbo3xx9FlyewX) | 2:37 | 2026-11-12 |  |
 | [Long Sardine](https://open.spotify.com/track/7DeppqAvyRBMFyvbGL7Gqp) | [Oxis](https://open.spotify.com/artist/3b3mTvNu2TQcbJSKrvsOYb) | [Long Sardine](https://open.spotify.com/album/3bcaVoQfjwuDmsYoWAgvaJ) | 1:52 | 2025-03-13 | 2025-08-09 |
 | [Losing Tennessee](https://open.spotify.com/track/0cgrMmkoFQCJXnosXSqHWd) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [Rocky Top Ballads](https://open.spotify.com/album/55FiMoQX3KBZo5hawtpofc) | 3:38 | 2025-10-31 |  |
 | [LOVE & POP](https://open.spotify.com/track/657y4ybpQX9jyGLRKgNalz) | [Oli XL](https://open.spotify.com/artist/3L3ejltt5dmjXkES4YSGKX), [Chanel Beads](https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL) | [Lick The Lens – Pt.1](https://open.spotify.com/album/6MLL5vClk79Yhned782Crg) | 3:47 | 2025-09-26 | 2026-03-20 |
@@ -300,6 +302,7 @@
 | [Sometimes I rush](https://open.spotify.com/track/4gSItxVqOlJXeD2Oi2X9GJ) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [Sometimes I rush](https://open.spotify.com/album/3LtB97AUyz7oC3mYTVLo4B) | 1:30 | 2026-10-02 |  |
 | [Sozzy](https://open.spotify.com/track/423XjSWHcBexA8wa7Ih8k2) | [Stone](https://open.spotify.com/artist/4s3jGYoeYr7sX3fB1hLVAn) | [Dream Curtain Eternally Gentle](https://open.spotify.com/album/5YgOgdzglwxc0r3RritcFx) | 4:02 | 2025-09-26 |  |
 | [Spirals On My Tongue](https://open.spotify.com/track/7C73dQdKGFB59kUCL5C2jV) | [RIP Swirl](https://open.spotify.com/artist/2qKskILMPYdropXMRJhn0V), [Ydegirl](https://open.spotify.com/artist/3YAUbceL2MyJfajlikdn1V) | [Spirals On My Tongue](https://open.spotify.com/album/2rxo2AhEjvtu27B0Va0GfC) | 2:45 | 2025-04-17 | 2026-04-24 |
+| [Spire](https://open.spotify.com/track/1ByAsiTxnJCxuYB1vHFRed) | [Eterna](https://open.spotify.com/artist/7ekeXKGdf5os6oYTZgKTQP) | [Push](https://open.spotify.com/album/67ENQbKzxMjSFlvZhLFb1P) | 3:27 | 2026-11-12 |  |
 | [Spring](https://open.spotify.com/track/5FKYSEhkz7sBzlkyLOAXKl) | [Maria Somerville](https://open.spotify.com/artist/5JjgffJf4s4KF29xdEaAQd) | [Luster](https://open.spotify.com/album/6vRCwr31pNFnURP8mj53KP) | 3:34 | 2025-04-30 | 2025-05-02 |
 | [Spring summer](https://open.spotify.com/track/3qRLkEF8PHAvXp6eudfzQ4) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Spring summer](https://open.spotify.com/album/1SznGl13WRMVE8GUT7cvS4) | 2:08 | 2026-04-23 |  |
 | [Star](https://open.spotify.com/track/1rB4MaZhxbxuaIqvbs9nLc) | [Good Sad Happy Bad](https://open.spotify.com/artist/3FPFQDA4cYbvO3O7O5rVWr) | [Shades](https://open.spotify.com/album/4AyXcaqnBjy2J5kHCRLzEA) | 2:32 | 2025-04-10 | 2026-03-07 |
@@ -335,7 +338,7 @@
 | [Time Will Help](https://open.spotify.com/track/1C0LH8rIuyoPQVzBJNhxwm) | [Tigeroak](https://open.spotify.com/artist/5438LSbtMXzEmfe0qZRff0), [Teis Ortved](https://open.spotify.com/artist/5GgzMnW2NLZDoCtR2K3S5X) | [Time Will Help](https://open.spotify.com/album/1UDR8zmbOrEuRg83q1wbRU) | 3:59 | 2026-07-07 |  |
 | [TMN](https://open.spotify.com/track/1atGiLsGuzJ5SduA6vVvrG) | [RIP Swirl](https://open.spotify.com/artist/2qKskILMPYdropXMRJhn0V), [Ydegirl](https://open.spotify.com/artist/3YAUbceL2MyJfajlikdn1V) | [TMN](https://open.spotify.com/album/0yLlTZNuMUYqCx8zktCIWD) | 2:51 | 2025-05-08 | 2025-05-16 |
 | [To trust you](https://open.spotify.com/track/3zf4EScGKx7KCGAkGJIiUv) | [Becky and the Birds](https://open.spotify.com/artist/52MMXmgPC7kDNIYUxCeh8d) | [To trust you](https://open.spotify.com/album/55OpcIldEWmmgvg6rmmE98) | 2:27 | 2025-03-13 | 2026-10-30 |
-| [together](https://open.spotify.com/track/2yr8vl7DazLslCkbHMp4E3) | [NEW YORK](https://open.spotify.com/artist/6SLzOcVFLuSRuJ0DNOpz0Z) | [together](https://open.spotify.com/album/11eCriEtwr1U28laSYqK1q) | 2:54 | 2025-08-08 |  |
+| [together](https://open.spotify.com/track/2yr8vl7DazLslCkbHMp4E3) | [NEW YORK](https://open.spotify.com/artist/6SLzOcVFLuSRuJ0DNOpz0Z) | [together](https://open.spotify.com/album/11eCriEtwr1U28laSYqK1q) | 2:54 | 2025-08-08 | 2026-11-13 |
 | [traces \(feat\. Molina\)](https://open.spotify.com/track/2g3v3n7VuqYTeNjDrNssCa) | [Coals](https://open.spotify.com/artist/6epDO0nPVXpbXBUt4Otiik), [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF) | [traces \(feat\. Molina\)](https://open.spotify.com/album/2eKN8dh9befE2ztXZU4jqV) | 3:07 | 2026-05-29 |  |
 | [Trouble](https://open.spotify.com/track/3OB7tql5cqZdJ71U2HprBf) | [nikocorlin](https://open.spotify.com/artist/4eIb8b7I3OGJGnEacJgtXm) | [Trouble](https://open.spotify.com/album/0nJjMh55SCm9WeGpyD9Vj3) | 2:22 | 2026-10-16 |  |
 | [TWINK](https://open.spotify.com/track/6TecO454rbbvjs7ntr0S5N) | [NINA](https://open.spotify.com/artist/53O83dY0rBGmnM4gV7Sqyr) | [TWINK](https://open.spotify.com/album/0tjF35e4vUYR2Af1UULxhB) | 2:42 | 2025-06-26 | 2026-03-07 |

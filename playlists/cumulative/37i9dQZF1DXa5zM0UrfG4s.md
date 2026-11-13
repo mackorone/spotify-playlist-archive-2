@@ -4,7 +4,7 @@
 
 > rølp og sånt
 
-492 songs - 22 hr 45 min
+493 songs - 22 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Du får aldri se meg naken igjen](https://open.spotify.com/track/4GABBQMuh1RMA2VPe1Uzud) | [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj) | [Du får aldri se meg naken igjen](https://open.spotify.com/album/4SVHYtGKfALHqpFnBqIKsX) | 2:47 | 2021-12-16 | 2022-11-16 |
 | [Du kan inte få min öl](https://open.spotify.com/track/28g0C6ruCVWccDCYJy3G0c) | [Albatraoz](https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x), [Kåren](https://open.spotify.com/artist/2mDX5SCZQKUZvvMCwqst3r) | [Du kan inte få min öl](https://open.spotify.com/album/7DPVUlgOqQlKS9DKaT9ATm) | 2:16 | 2023-12-14 | 2024-02-09 |
 | [Du kan inte få min öl](https://open.spotify.com/track/5htxjeCzsfkps5rh8ZiCd6) | [Albatraoz](https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x), [Kåren](https://open.spotify.com/artist/2mDX5SCZQKUZvvMCwqst3r) | [Du kan inte få min öl](https://open.spotify.com/album/5mC9mcXhQFXcGUuyyuMdcN) | 2:16 | 2021-12-16 | 2023-12-09 |
+| [Du og deg om da \- Live frå Stord](https://open.spotify.com/track/6ygYiOHqBlYYvwTtfw3sxb) | [Tobias Sten](https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz) | [Ein sommar forbi \(Live 2026\)](https://open.spotify.com/album/26Jaw7bxvWKea2vVBQdof0) | 5:12 | 2026-11-12 |  |
 | [Dum i haue](https://open.spotify.com/track/02V2PBxnk14EbrOaDmI0gU) | [Sandra Lyng](https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf), [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW) | [Dum i haue](https://open.spotify.com/album/3OLp95GgOiPnnmiU0C5SFU) | 2:24 | 2023-08-17 |  |
 | [Dunk](https://open.spotify.com/track/3fE2HPDr6upYq4xW16k8BP) | [Örnen](https://open.spotify.com/artist/5qr9oJEKhqbjVAFxyYIKKy), [Hugge](https://open.spotify.com/artist/1U17tqE6Kaphway5gmRD9g) | [Dunk](https://open.spotify.com/album/2mqbDR891jZ87TT5r6Lcoi) | 2:14 | 2022-04-14 | 2022-04-28 |
 | [Dunka](https://open.spotify.com/track/33c4dYHCS1bVYGJYF5iTPL) | [JONE](https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN), [Emil Assergård](https://open.spotify.com/artist/3fpHdW8mp95bOCzRLcauZm) | [Dunka](https://open.spotify.com/album/1nH0DrcdHX0wcTbb60sFs7) | 2:13 | 2024-06-06 | 2024-09-20 |
@@ -341,7 +342,7 @@
 | [Norge rundt](https://open.spotify.com/track/2npSnsWqiOkinzheEcuWh8) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW) | [Norge rundt](https://open.spotify.com/album/1SAhnYv7WLA9wrKlBUQD4J) | 3:24 | 2023-02-03 | 2023-05-21 |
 | [Norge trenger bonden!](https://open.spotify.com/track/0mOahKjQsKatdM08cTkXHr) | [Crashville](https://open.spotify.com/artist/3OzXAMfPfwenAot8z2NPpL), [Ole Hartz](https://open.spotify.com/artist/7J8OsnJjGfG1uHd348LZPI) | [Norge trenger bonden!](https://open.spotify.com/album/6OyAEErfXmTxJEl3kauZCf) | 3:15 | 2026-04-02 |  |
 | [Norske rednecks](https://open.spotify.com/track/0dD5RMYPOYVzGDOhGJWgsF) | [Byting](https://open.spotify.com/artist/70WHziQLTycOFrXWZJbrE7) | [Norske rednecks](https://open.spotify.com/album/30S8kPqmcDPTVr4xBSAglF) | 2:53 | 2021-12-16 | 2022-04-18 |
-| [Nå er det freda'n igjen](https://open.spotify.com/track/096d1z40MQXAEZALorCnC4) | [Rune Rudberg](https://open.spotify.com/artist/5vViCpDnSSDRHtSmFhrKfY) | [Tro](https://open.spotify.com/album/688QJHvwDmWMfILIRPq4rY) | 2:50 | 2022-10-13 |  |
+| [Nå er det freda'n igjen](https://open.spotify.com/track/096d1z40MQXAEZALorCnC4) | [Rune Rudberg](https://open.spotify.com/artist/5vViCpDnSSDRHtSmFhrKfY) | [Tro](https://open.spotify.com/album/688QJHvwDmWMfILIRPq4rY) | 2:50 | 2022-10-13 | 2026-11-13 |
 | [Nå Er Det Fredan Igjen](https://open.spotify.com/track/6zYOdvNQuHxUQtmktw2vwo) | [Rune Rudberg](https://open.spotify.com/artist/5vViCpDnSSDRHtSmFhrKfY) | [Tro](https://open.spotify.com/album/0kFw68XIGOIjPDa39wgSKb) | 2:50 | 2021-12-16 | 2022-05-11 |
 | [Nå er det helg](https://open.spotify.com/track/2n7GTFWvs7pyR02eHEjiLp) | [Katastrofe](https://open.spotify.com/artist/48XeauxB5rhLPXPtACuuUR) | [Nå er det helg](https://open.spotify.com/album/0YPZCUXaKBeoC2Y5AV7ius) | 3:03 | 2021-12-16 | 2026-05-01 |
 | [Nå Koser Vi Oss](https://open.spotify.com/track/6bZHVGx3Qj0zoUUSZjextf) | [TIX](https://open.spotify.com/artist/6CawoDDP1IZUSGl4wSJGC9) | [Nå Koser Vi Oss](https://open.spotify.com/album/4xXIxalm2k3gzYDPxBUgaF) | 2:49 | 2021-12-16 | 2024-02-09 |

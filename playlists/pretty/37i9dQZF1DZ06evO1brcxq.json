@@ -1,12 +1,12 @@
 {
   "description": "This is Charli xcx. The essential tracks, all in one playlist.",
-  "num_followers": 230088,
+  "num_followers": 230098,
   "original_name": "This Is Charli xcx",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avENAAAAAAD6klCzouQ2HWgTSlcJaozq",
+  "snapshot_id": "avOwAAAAAAAF+rS/wagAg1+aFUgFJt+w",
   "tracks": [
     {
       "added_at": null,
@@ -467,6 +467,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wuthering Heights",
+        "url": "https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 183975,
+      "name": "Always Everywhere",
+      "url": "https://open.spotify.com/track/6fGapufucZHPva1kvCqceA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Brat and it\u2019s completely different but also still brat",
         "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 173076,
       "name": "Talk talk featuring troye sivan",
       "url": "https://open.spotify.com/track/7CwWhMGWICOl2ICwbk3QTE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wuthering Heights",
-        "url": "https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 183975,
-      "name": "Always Everywhere",
-      "url": "https://open.spotify.com/track/6fGapufucZHPva1kvCqceA"
     },
     {
       "added_at": null,
@@ -535,22 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Charli",
-        "url": "https://open.spotify.com/album/386IqvSuljaZsMjwDGGdLj"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 157626,
-      "name": "Next Level Charli",
-      "url": "https://open.spotify.com/track/7a6HVxpLhW7hRL9JcFZl16"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wuthering Heights",
         "url": "https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 144426,
       "name": "Wall of Sound",
       "url": "https://open.spotify.com/track/4llQhQnQ0xKel20HqjZyMt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Charli",
+        "url": "https://open.spotify.com/album/386IqvSuljaZsMjwDGGdLj"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 157626,
+      "name": "Next Level Charli",
+      "url": "https://open.spotify.com/track/7a6HVxpLhW7hRL9JcFZl16"
     },
     {
       "added_at": null,
@@ -583,6 +583,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "SUCKER",
+        "url": "https://open.spotify.com/album/2fGpw56D35My0c82eNfKJF"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 203907,
+      "name": "Break the Rules",
+      "url": "https://open.spotify.com/track/70ebKSMHvkUSg7JXgUz74Q"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Brat and it\u2019s completely different but also still brat",
         "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 203945,
       "name": "Everything is romantic featuring caroline polachek",
       "url": "https://open.spotify.com/track/1RGidCmtrqER8GBs8TnG9C"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SUCKER",
-        "url": "https://open.spotify.com/album/2fGpw56D35My0c82eNfKJF"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 203907,
-      "name": "Break the Rules",
-      "url": "https://open.spotify.com/track/70ebKSMHvkUSg7JXgUz74Q"
     },
     {
       "added_at": null,
@@ -651,6 +651,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "how i'm feeling now",
+        "url": "https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 171813,
+      "name": "anthems",
+      "url": "https://open.spotify.com/track/2ljvO8ZpKFMT3HXwCjW4Yw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Brat and it\u2019s completely different but also still brat",
         "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 121273,
       "name": "365 featuring shygirl",
       "url": "https://open.spotify.com/track/5xyaPwLmgoyGlDDu2H0Uix"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "how i'm feeling now",
-        "url": "https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 171813,
-      "name": "anthems",
-      "url": "https://open.spotify.com/track/2ljvO8ZpKFMT3HXwCjW4Yw"
     },
     {
       "added_at": null,
@@ -727,6 +727,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vroom Vroom EP",
+        "url": "https://open.spotify.com/album/261QvR3MgGdyL2HyYIlgfd"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 205099,
+      "name": "Secret (Shh)",
+      "url": "https://open.spotify.com/track/1NvAqtx7PytXUytohhYXbk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Brat and it\u2019s completely different but also still brat",
         "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 154126,
       "name": "Sympathy is a knife featuring ariana grande",
       "url": "https://open.spotify.com/track/3nQ24dxqvxZEVwlHTeuLz0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vroom Vroom EP",
-        "url": "https://open.spotify.com/album/261QvR3MgGdyL2HyYIlgfd"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 205099,
-      "name": "Secret (Shh)",
-      "url": "https://open.spotify.com/track/1NvAqtx7PytXUytohhYXbk"
     },
     {
       "added_at": null,

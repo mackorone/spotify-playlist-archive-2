@@ -2,9 +2,9 @@
 
 ### [Hot Hits Singapore](https://open.spotify.com/playlist/37i9dQZF1DXdEF3AqJpXE3)
 
-> The best tracks from the world of music\. Cover: Tate McRae
+> The best tracks from the world of music\. Cover: The Weeknd
 
-725 songs - 1 day 15 hr 31 min
+727 songs - 1 day 15 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,7 +134,7 @@
 | [Dance The Night \- From Barbie The Album](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu) | 2:56 | 2024-01-17 | 2024-02-08 |
 | [Dancing In The Flames](https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dancing In The Flames](https://open.spotify.com/album/5XsZ5ZTcIHnZxjynaGxA0g) | 3:40 | 2024-09-13 | 2024-12-12 |
 | [Dari Jauh](https://open.spotify.com/track/4dSnUf7H1mnTgasQH3v7oU) | [ALYPH](https://open.spotify.com/artist/3qeuv2ijwaAcbX3KVMJfuj) | [Dari Jauh](https://open.spotify.com/album/1R5tRktIrr1gxIt9gZXGkw) | 3:26 | 2024-05-08 | 2024-06-05 |
-| [Dear my crazy soulmate](https://open.spotify.com/track/0cbgFMxCXMzs80R2vxwApT) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Unknown Planet](https://open.spotify.com/album/3EfalQgCGR2bh5tkZdZTTR) | 2:36 | 2026-09-25 |  |
+| [Dear my crazy soulmate](https://open.spotify.com/track/0cbgFMxCXMzs80R2vxwApT) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Unknown Planet](https://open.spotify.com/album/3EfalQgCGR2bh5tkZdZTTR) | 2:36 | 2026-09-25 | 2026-11-13 |
 | [December 25th](https://open.spotify.com/track/1QNPTNaw67BanVtwXKIX1a) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [December 25th](https://open.spotify.com/album/76xK4t4mW2HvVtA09CLcN6) | 3:51 | 2024-11-12 | 2024-12-19 |
 | [Defying Gravity](https://open.spotify.com/track/5QMrH5nszZZR3nefIj6Mar) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Wicked: The Soundtrack](https://open.spotify.com/album/3JUrJP460nFIqwjxM19slT) | 7:39 | 2024-11-27 | 2025-01-09 |
 | [Deja Vu](https://open.spotify.com/track/3aAnwyBJY9OLNLqSgd4fZU) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode 3: TOMORROW](https://open.spotify.com/album/0mDwrOXZHN1lgCNeBvkBbj) | 2:51 | 2024-04-09 | 2024-05-02 |
@@ -253,6 +253,7 @@
 | [HOME SWEET HOME \(feat\. TAEYANG & DAESUNG\)](https://open.spotify.com/track/0Cu8JdYvV9DdmzLzhxaZLH) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c), [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [DAESUNG](https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO) | [HOME SWEET HOME \(feat\. TAEYANG & DAESUNG\)](https://open.spotify.com/album/5fo3PoBblMOTbg7SXPNspq) | 3:31 | 2024-11-27 | 2025-03-29 |
 | [Homewrecker](https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [Homewrecker](https://open.spotify.com/album/5KzDGTJ3sGlfuwSryRB4p4) | 3:29 | 2026-02-26 | 2026-08-01 |
 | [honeymoon \- Spotify Singles](https://open.spotify.com/track/1HF4nVwcWoLIIE6vyyuwcP) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [Spotify Singles](https://open.spotify.com/album/3rYLPJVwn2FzXnG5oI6noQ) | 2:53 | 2024-09-04 | 2024-10-10 |
+| [Hong Kong \(feat\. 王菲季候風\)](https://open.spotify.com/track/1824ElVTa8XiWOjOlujl81) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hong Kong \(feat\. 王菲季候風\)](https://open.spotify.com/album/47lGFW58QJPb3i2pM53Qni) | 3:36 | 2026-11-12 |  |
 | [Hootie Frutti](https://open.spotify.com/track/6oUUmBcUbZa5O48V5pjgAD) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [WILD](https://open.spotify.com/album/2d0AkZUJV30oIOJAeEyzC6) | 2:20 | 2026-08-21 |  |
 | [HOT](https://open.spotify.com/track/406IpEtZPvbxApWTGM3twY) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [HOT](https://open.spotify.com/album/3lyRrGhXCCMbt4jVO9Wur2) | 2:23 | 2025-03-19 | 2025-05-01 |
 | [HOT SAUCE](https://open.spotify.com/track/3AjfuVk6olyesS7cVfofBE) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [HOT SAUCE](https://open.spotify.com/album/5kTDyVVuvyPJZX1MlXiBvW) | 2:27 | 2025-07-09 | 2025-07-31 |
@@ -275,7 +276,7 @@
 | [I Had Some Help \(Feat\. Morgan Wallen\)](https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I Had Some Help](https://open.spotify.com/album/1woYXxyyxTQJ0E0AhZE6mj) | 2:58 | 2024-05-22 | 2024-07-25 |
 | [I Hate You \(2024\) \- Spotify Singles](https://open.spotify.com/track/2AZhHsWsunXGXKIWioeM6Y) | [SHOWNU X HYUNGWON \(MONSTA X\)](https://open.spotify.com/artist/3AFqxSVdKDJD9qPx3K8tKg) | [I Hate You \(2024\) \- Spotify Singles](https://open.spotify.com/album/1aF8lItq2Esu8pBHJoxXMA) | 2:44 | 2024-03-06 | 2024-03-28 |
 | [I JUST CUT MY HAIR](https://open.spotify.com/track/7yMcMhsYvn5myVD2EizWuJ) | [LAYYI](https://open.spotify.com/artist/76ZCgPpNcZEokvxJRFfSgr) | [I JUST CUT MY HAIR](https://open.spotify.com/album/1sHxTj50ol2j3XZFErvFpW) | 2:33 | 2026-01-28 | 2026-03-12 |
-| [I Just Might](https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [I Just Might](https://open.spotify.com/album/2YOfpbW6kCd2XHW2Ln2Uih) | 3:32 | 2026-01-14 |  |
+| [I Just Might](https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [I Just Might](https://open.spotify.com/album/2YOfpbW6kCd2XHW2Ln2Uih) | 3:32 | 2026-01-14 | 2026-11-13 |
 | [I Knew It, I Knew You \- From "Toy Story 5"](https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [I Knew It, I Knew You \(From "Toy Story 5"\)](https://open.spotify.com/album/3ZLIShtR6Fjs4nTWFpBUB6) | 2:58 | 2026-06-05 |  |
 | [i like that you like it](https://open.spotify.com/track/3J3uorC8pSDKVaiNkGv3Q9) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS) | [i like that you like it](https://open.spotify.com/album/7cloAjZG5UTmzXoS3Q9xD9) | 3:00 | 2024-08-07 | 2024-09-05 |
 | [i like the way you kiss me](https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [i like the way you kiss me](https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z) | 2:22 | 2024-04-03 | 2024-06-01 |
@@ -708,6 +709,7 @@
 | [最對的錯](https://open.spotify.com/track/66eKr9Fr056udiV4TtTFVK) | [Sherman Zhuo](https://open.spotify.com/artist/6Ol8MzcK4ARqC8cTJbFxAw) | [最對的錯](https://open.spotify.com/album/5ojlcwanBkYwWgagNEJlkB) | 3:52 | 2024-01-17 | 2024-06-13 |
 | [有天會再相見](https://open.spotify.com/track/4BZlQdwkgUuaj5xbUHwUl8) | [DIOR 大穎](https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ) | [有天會再相見](https://open.spotify.com/album/3euhcHkOosfai4FG0UXzp1) | 4:35 | 2024-09-11 | 2025-04-23 |
 | [有話沒說](https://open.spotify.com/track/5a59iCKJGGzVqZBDLRBD0J) | [李佳歡](https://open.spotify.com/artist/7sxOGIcUrfCGeTe79YYutH), [Sherman Zhuo](https://open.spotify.com/artist/6Ol8MzcK4ARqC8cTJbFxAw) | [有話沒說](https://open.spotify.com/album/4xGnvis9RtIea8Tx6DKcJI) | 4:25 | 2025-03-19 | 2025-10-04 |
+| [欲落未落](https://open.spotify.com/track/25rKfmSz9QTVtilqZU9f8D) | [DIOR 大穎](https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ) | [欲落未落](https://open.spotify.com/album/355n1THOAzpsZh4R8crspO) | 4:15 | 2026-11-12 |  |
 | [烂片剧情](https://open.spotify.com/track/488IBZgAqHQmUDjg9kTQYG) | [LBI利比](https://open.spotify.com/artist/1xMn0bhYRWHDV01mU8gP1J) | [烂片剧情](https://open.spotify.com/album/2Km6rWJjdJoli9PFE8nwxh) | 3:26 | 2025-04-09 | 2025-09-18 |
 | [爱情的名字](https://open.spotify.com/track/3mPzfTqSoufmb2xDv2K8mQ) | [Sherman Zhuo](https://open.spotify.com/artist/6Ol8MzcK4ARqC8cTJbFxAw) | [爱情的名字](https://open.spotify.com/album/5uR3Pzbi07ArjB3ktHBec3) | 4:12 | 2024-11-29 | 2025-01-30 |
 | [玻璃](https://open.spotify.com/track/4lZVYNSHy3bKN1pqTxw9Zl) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [玻璃](https://open.spotify.com/album/1MCcGh977wVc1i7h4qXoPy) | 3:05 | 2026-05-27 | 2026-09-26 |

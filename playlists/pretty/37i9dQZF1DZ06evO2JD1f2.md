@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2JD1f2.md) - [plain]
 
 > This is EST Gee\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,835 likes - 47 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,838 likes - 47 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,15 +45,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2JD1f2.md) - [plain]
 | 35 | [Special Remix \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/5sXYCAzaTHonbB7OVqU0TI) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [I Still Dont Feel Nun](https://open.spotify.com/album/7ilMGv7d9zo5DF6k87qv7w) | 2:41 |
 | 36 | [Steppers \(Yo Gotti, 42 Dugg, Moneybagg Yo feat\. EST Gee, Mozzy, Blac Youngsta\)](https://open.spotify.com/track/5QTtenOlhm9zTwgO8Tjpht) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [Blac Youngsta](https://open.spotify.com/artist/41klVmDluQZmGGqoidNfbe), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA) | [Gangsta Art](https://open.spotify.com/album/0mX7631qrFwwcnuRzuPpWU) | 3:51 |
 | 37 | [All I Know \(feat\. Pooh Shiesty\)](https://open.spotify.com/track/2z24gKxpLTBgi0CNuvwgyd) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe) | [Bigger Than Life Or Death](https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku) | 2:12 |
-| 38 | [Tug of War March17](https://open.spotify.com/track/5Ol3Ltzg948mZyNVSacwhx) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [My World](https://open.spotify.com/album/4KLUvDEJRMLGNHy8xZCLrX) | 2:37 |
-| 39 | [UNDEFEATED](https://open.spotify.com/track/4HGiXPr1kAN40W8kfbtDMc) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [MAD](https://open.spotify.com/album/47uIW0hqDyqeO9Qrzq4b8k) | 2:45 |
-| 40 | [Come Home](https://open.spotify.com/track/6bDBI9WP59AI2cjn20oQV2) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [I Never Felt Nun](https://open.spotify.com/album/0A4xJz6OAedAQGriJH7pjn) | 2:46 |
-| 41 | [Morals](https://open.spotify.com/track/1rVsTdubD5s0PDz6gzLhTK) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Ion Feel Nun](https://open.spotify.com/album/5pn7HHtN1bupnOMXtWs0LL) | 1:46 |
+| 38 | [Come Home](https://open.spotify.com/track/6bDBI9WP59AI2cjn20oQV2) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [I Never Felt Nun](https://open.spotify.com/album/0A4xJz6OAedAQGriJH7pjn) | 2:46 |
+| 39 | [Tug of War March17](https://open.spotify.com/track/5Ol3Ltzg948mZyNVSacwhx) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [My World](https://open.spotify.com/album/4KLUvDEJRMLGNHy8xZCLrX) | 2:37 |
+| 40 | [UNDEFEATED](https://open.spotify.com/track/4HGiXPr1kAN40W8kfbtDMc) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [MAD](https://open.spotify.com/album/47uIW0hqDyqeO9Qrzq4b8k) | 2:45 |
+| 41 | [Gangatroni](https://open.spotify.com/track/3ttCrTtqA6OHBudFhTCTZv) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Ion Feel Nun](https://open.spotify.com/album/5pn7HHtN1bupnOMXtWs0LL) | 2:34 |
 | 42 | [CHICKENS \(feat\. EST Gee\)](https://open.spotify.com/track/53wBhj706wDMNuBj4FJ0RI) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [I NEVER LIKED YOU](https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL) | 3:15 |
-| 43 | [WOULDN'T HOLD YOU UP](https://open.spotify.com/track/6zUKuZMJflZgPWMS23nh7I) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [NOT A CHANCE IN HELL](https://open.spotify.com/album/3bJvXyBbNAh6kT5MnQ6iCS) | 1:34 |
-| 44 | [Backstage Passes \(feat\. Jack Harlow\)](https://open.spotify.com/track/2BSl2gSFHdzJAMus74qzNj) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [I Never Felt Nun](https://open.spotify.com/album/0A4xJz6OAedAQGriJH7pjn) | 2:38 |
-| 45 | [Gangatroni](https://open.spotify.com/track/3ttCrTtqA6OHBudFhTCTZv) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Ion Feel Nun](https://open.spotify.com/album/5pn7HHtN1bupnOMXtWs0LL) | 2:34 |
+| 43 | [Backstage Passes \(feat\. Jack Harlow\)](https://open.spotify.com/track/2BSl2gSFHdzJAMus74qzNj) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [I Never Felt Nun](https://open.spotify.com/album/0A4xJz6OAedAQGriJH7pjn) | 2:38 |
+| 44 | [WOULDN'T HOLD YOU UP](https://open.spotify.com/track/6zUKuZMJflZgPWMS23nh7I) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [NOT A CHANCE IN HELL](https://open.spotify.com/album/3bJvXyBbNAh6kT5MnQ6iCS) | 1:34 |
+| 45 | [Morals](https://open.spotify.com/track/1rVsTdubD5s0PDz6gzLhTK) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Ion Feel Nun](https://open.spotify.com/album/5pn7HHtN1bupnOMXtWs0LL) | 1:46 |
 | 46 | [Rose Gold \(feat\. EST Gee\)](https://open.spotify.com/track/2SY4ib4Llku3au3gsGPPEW) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Free Dem Boyz](https://open.spotify.com/album/4zJiUubJvgUJNq0BVD9Mvs) | 3:05 |
 | 47 | [Taught Different](https://open.spotify.com/track/4lIfzjd5r3KuGMIxVWUHqs) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Sada Baby](https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw) | [Ion Feel Nun](https://open.spotify.com/album/5pn7HHtN1bupnOMXtWs0LL) | 3:19 |
 
-Snapshot ID: `avENAAAAAAA4CiszBHRYZdBPC5s5hP77`
+Snapshot ID: `avOwAAAAAACkM/omkaNtV3bDmrfBwRme`

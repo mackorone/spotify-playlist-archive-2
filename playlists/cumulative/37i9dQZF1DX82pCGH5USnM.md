@@ -4,7 +4,7 @@
 
 > Soft house music for your laidback moments.
 
-1,091 songs - 2 day 8 hr 40 min
+1,096 songs - 2 day 8 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -364,6 +364,7 @@
 | [Golden Days](https://open.spotify.com/track/7d6FuHugP8dbJMlSVWio21) | [Maiwan](https://open.spotify.com/artist/7Bv1SZbrpTYQixKfQgCzsI) | [Slow Move](https://open.spotify.com/album/4JAuTO8DEM0lpm9pSczYlb) | 3:52 | 2020-04-03\* | 2020-10-16 |
 | [Golden Delicious](https://open.spotify.com/track/33RYuJmDC6YR34O6ALA7st) | [Roy LT](https://open.spotify.com/artist/2nDvbGfbug3iV8TuyIqs4A) | [Golden Delicious](https://open.spotify.com/album/4o9cmtyIfE14I5DdLZtg1i) | 2:29 | 2021-04-15 | 2022-01-22 |
 | [Golden Fade](https://open.spotify.com/track/7nXM3hhr4TzSfjMyIDxteD) | [Gueves](https://open.spotify.com/artist/5Rhg378B8w4Kg0dKNR3cNO) | [Golden Fade](https://open.spotify.com/album/6Szwo5NUqY9VxDjDnsAOrM) | 2:48 | 2026-07-20 |  |
+| [Good Nature](https://open.spotify.com/track/32WTLexqAYzPUt4aPZBBwM) | [Adryax](https://open.spotify.com/artist/76qsIqzQFtCTQizpttVZOo) | [Good Nature](https://open.spotify.com/album/5TDFPnSAfzCx4SmaVvC8YN) | 2:21 | 2026-11-13 |  |
 | [Good People](https://open.spotify.com/track/3Dz35wzOYoerHc0cv4t0kW) | [Mare](https://open.spotify.com/artist/37VYyGD4iL6inSd3jluhV8) | [Good People](https://open.spotify.com/album/4zbq01zpqHuThfDGTfJlad) | 2:37 | 2025-10-03 | 2026-02-26 |
 | [Good Rising](https://open.spotify.com/track/74f0VaipJke6lIWI5BEfTW) | [Sarah, the Illstrumentalist](https://open.spotify.com/artist/4D8x1OO5HeS7yQaSoSbAc6) | [Good Rising](https://open.spotify.com/album/6FpPtyj1Q86xBCiHgAKxL6) | 2:25 | 2021-04-15 | 2021-04-21 |
 | [Gradient Moon](https://open.spotify.com/track/0JwbjnzOEsAU9poTCzSv8U) | [Xavier Manning](https://open.spotify.com/artist/7IErsk4Rfc1rEdc1mwL4ug) | [Gradient Moon](https://open.spotify.com/album/3E0qSploovLREgriBJnFej) | 2:23 | 2022-12-09 | 2026-02-24 |
@@ -489,6 +490,7 @@
 | [Late Night Hours](https://open.spotify.com/track/2SIN8OixGaJKWgkHnJHtTV) | [CL1P\_](https://open.spotify.com/artist/5kC1MlND8XmFASxv1WFTYD) | [Late Night Hours](https://open.spotify.com/album/6sSBBCYBJJr6yxSrC3AQtJ) | 2:56 | 2022-10-07 | 2024-08-31 |
 | [Late Night Rewind](https://open.spotify.com/track/65ynCVpc1h5xE9JZ9URl2Y) | [Reglisse](https://open.spotify.com/artist/5JSk86YHGR6UKHISzJDlp6) | [Late Night Rewind](https://open.spotify.com/album/4YBQ1woEiszGgoWydnWK3A) | 3:00 | 2021-02-04 | 2022-06-24 |
 | [Late Nights](https://open.spotify.com/track/6eIdeEgKCmDLE7uh4r2eaH) | [Blue Daisy](https://open.spotify.com/artist/2l3CKt1KfWQAduDjHFDqsf) | [Late Nights](https://open.spotify.com/album/31qHgKaj3bQCOqiyXb4Lpo) | 2:15 | 2022-10-28 | 2024-11-30 |
+| [Latitude](https://open.spotify.com/track/07lLiN78nyORc5qbuLwC3y) | [Later Gate](https://open.spotify.com/artist/7mWfOiHJewdGSjBQiGFWKD) | [Latitude](https://open.spotify.com/album/525n6kbEG2xyt7kiCRbqQC) | 2:52 | 2026-11-13 |  |
 | [Laurier](https://open.spotify.com/track/7cGtbegZZSQNi7PlakMPvj) | [UPTNS](https://open.spotify.com/artist/5ENMUlyo9nxOTnL5LiHMJh) | [Laurier](https://open.spotify.com/album/57wPEiEcl3ApSWUw6wF8HU) | 2:56 | 2022-01-21 | 2026-02-24 |
 | [lava flow](https://open.spotify.com/track/7slAkHLWy4JUosJAIiynDm) | [kilowattz](https://open.spotify.com/artist/6Bs4E2TGDPdl77feKWHpiN) | [lava flow](https://open.spotify.com/album/5ZTT0wcucFuL8QxE8CTWET) | 2:08 | 2023-01-06 | 2025-02-22 |
 | [Layover](https://open.spotify.com/track/4pGSqP5D3hzKrnC8zFLkIH) | [moe sizzle](https://open.spotify.com/artist/75YPg1tHKK7NxcFD3te2Lg) | [Layover](https://open.spotify.com/album/0waaupjD68nPau4f7A1J3g) | 2:32 | 2026-07-20 |  |
@@ -683,6 +685,7 @@
 | [Parasol Paradise](https://open.spotify.com/track/0G42P5rpaqBp0dKWxG7OOo) | [Sunrise Collective](https://open.spotify.com/artist/63ADxbQmSnhOMqafX8Bfo6) | [Parasol Paradise](https://open.spotify.com/album/0PdU9sY4v5t0i5zuIJyeg8) | 2:46 | 2022-01-21 | 2024-11-16 |
 | [paris](https://open.spotify.com/track/1glNxuJz4qAUyYmauaYD9I) | [Rosi Peloni](https://open.spotify.com/artist/1VgCv8r28xEc11pDhmJSWf) | [paris](https://open.spotify.com/album/6kEPoi0sevh73Wyi2UVNC5) | 2:19 | 2023-04-14 | 2025-06-25 |
 | [Parisian Nights](https://open.spotify.com/track/0W1MltFXt44jVQpBt4fvYo) | [Meladonica](https://open.spotify.com/artist/0CKBzB3A5cgDZhbdtbhQXv) | [Parisian Nights](https://open.spotify.com/album/5VfnaHQfZz6JAoQnSkYnle) | 2:24 | 2026-02-09 | 2026-04-02 |
+| [Parrot Dance](https://open.spotify.com/track/7I9wsTuj2vEOhjZtBvMX1U) | [Le Bourget](https://open.spotify.com/artist/39QGocubAYKDY8IlHzs6ZL) | [Parrot Dance](https://open.spotify.com/album/6n1i3nbc4YAZ0BmXHliACM) | 2:30 | 2026-11-13 |  |
 | [Passage](https://open.spotify.com/track/7wOZCITHxHO4j7dQ5jd2iL) | [Ben Travel](https://open.spotify.com/artist/6s1MIr0LiLjEnSGjvPqaUC) | [Passage](https://open.spotify.com/album/2ODUevO5ok7PMjrhlTmU3l) | 2:57 | 2021-06-02 | 2024-09-28 |
 | [Passing By](https://open.spotify.com/track/28lMyaJBMmgvw4Cn4OvoeH) | [Monday Motive](https://open.spotify.com/artist/4bCmFKZPJZBIZeQ5qVzIyN) | [Passing By](https://open.spotify.com/album/7tj4fpjyhDvNyPgp76Zhlb) | 3:05 | 2021-03-18 | 2022-10-14 |
 | [Passive Mood](https://open.spotify.com/track/0pjZFtdG8OqxWZ8kwrn5ki) | [Static 99](https://open.spotify.com/artist/3KWyHBYuMIZF9fuhrhGoju) | [Passive Mood](https://open.spotify.com/album/4kDhnQxICloKb250fkTbnr) | 2:19 | 2025-10-10 |  |
@@ -864,6 +867,7 @@
 | [So it Goes](https://open.spotify.com/track/2fwXWu7GW6k2BZCGuGvqpe) | [Phil Axes](https://open.spotify.com/artist/0VFWh6K23ZImXW9loa6ciu) | [So it Goes](https://open.spotify.com/album/4bQIeWsHgKddNuRpoOa8ga) | 2:13 | 2026-09-04 |  |
 | [Socorro & Jüpiter](https://open.spotify.com/track/4RNDmizeTDGJVqbX4nKSM1) | [Felipe Gordon](https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj) | [Socorro & Jüpiter](https://open.spotify.com/album/67qEFDPztO2MNCmuDtwp84) | 6:55 | 2020-11-11 | 2020-12-02 |
 | [Soft and Nice](https://open.spotify.com/track/0vrQTP6dfQsQSohyIfB7SP) | [Calvin Durant](https://open.spotify.com/artist/7v3g6YWSgDGIsSZFlCznOL) | [Soft and Nice](https://open.spotify.com/album/6wYji9i4ZVFsz4kYOoVAtm) | 2:22 | 2023-12-01 |  |
+| [Soft Warmth](https://open.spotify.com/track/2NZ6uqKQsW8ZemECB9qje3) | [rigii](https://open.spotify.com/artist/7mKI3t5igUWeoSgBNCdQIU) | [Soft Warmth](https://open.spotify.com/album/7twtcf0InothhFdYnVDK2F) | 2:26 | 2026-11-13 |  |
 | [Soil](https://open.spotify.com/track/19QImmjKGCj2KNvJbFjwRd) | [Bush Lily](https://open.spotify.com/artist/6DegnHhrD8IyI7F7iDnXm4) | [Soil](https://open.spotify.com/album/1nr940JdureKTuemThNzQ4) | 2:17 | 2023-02-24 |  |
 | [sola](https://open.spotify.com/track/1PMdItlayzPgJZ6FL6hXKJ) | [apparater](https://open.spotify.com/artist/5KQgYUEYCLvjLZge7PLlZW) | [sola](https://open.spotify.com/album/51DNDyVAoZ8HbGmvIqkosY) | 2:07 | 2026-07-31 |  |
 | [Solana Beach](https://open.spotify.com/track/2VWrRpMicsoQo4I35w0e7W) | [SunZunSun](https://open.spotify.com/artist/5SKcOlTnoLFO3fKYCnLRWN) | [The Best](https://open.spotify.com/album/2CPNcUW9gY2qeWJquCPnHj) | 3:40 | 2022-01-21 | 2023-06-03 |
@@ -1098,6 +1102,7 @@
 | [You Do You](https://open.spotify.com/track/6YoNh7HiardYLs9qfIGMJB) | [Lukas Hiraeth](https://open.spotify.com/artist/0e6m03hmu9HNYQBaeFkn8D) | [You Do You](https://open.spotify.com/album/0D7kjNyYLWwZizudRPpUuV) | 2:21 | 2025-06-24 |  |
 | [Youthful Spring](https://open.spotify.com/track/3nZUPm6rUYOpN0zaH66fpw) | [Kris Karrey](https://open.spotify.com/artist/200b6fuQRBe2Ra2k6d0lJI) | [Youthful Spring](https://open.spotify.com/album/4AxiTEfNRYC1Ga0aZyYTal) | 3:15 | 2024-03-04 | 2024-09-28 |
 | [Zanzibar](https://open.spotify.com/track/4kOFxbQua6DmmLopfex76W) | [Lndoner](https://open.spotify.com/artist/0CfAjz9xgWzVTurMYXM9P7) | [Zanzibar](https://open.spotify.com/album/0HFKcAkd2zQDxi7or6ENLh) | 2:22 | 2022-07-08 | 2024-11-16 |
+| [Zephyr](https://open.spotify.com/track/3w3rz3NfBMzP5pYqDEwqaH) | [sunswimmer](https://open.spotify.com/artist/4ntbVNJvMev0KXU0ONUFF9) | [Zephyr](https://open.spotify.com/album/5MKu7yvtt0V86JzNV3KVaf) | 2:44 | 2026-11-13 |  |
 | [Zone](https://open.spotify.com/track/08KqvI9uUCf8m6Q2MFJW7U) | [Taki Brano](https://open.spotify.com/artist/3kegRO5fvrXxqOrUiEbtOG) | [Zone](https://open.spotify.com/album/1mYkmgUBm44zNG5a3nU44g) | 2:31 | 2026-07-31 |  |
 
 \*This playlist was first scraped on 2020-04-03. Prior content cannot be recovered.

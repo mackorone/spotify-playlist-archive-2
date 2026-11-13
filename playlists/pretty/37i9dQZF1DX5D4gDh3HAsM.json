@@ -1,13 +1,33 @@
 {
   "description": "Jazzy takes on your favorite Holiday songs. Cover: Samara Joy",
-  "num_followers": 642123,
+  "num_followers": 642290,
   "original_name": "Christmas Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAvvQC0BE+zW4oJIYDPBKMe6nxq/",
+  "snapshot_id": "AAAAAMDi3QRnUVEImW9QJbcb0eN1+kxR",
   "tracks": [
+    {
+      "added_at": "2026-11-13 05:00:31",
+      "album": {
+        "name": "Have Yourself a Merry Little Christmas (From \"Snoopy Presents: 12 Days of Snoopy\")",
+        "url": "https://open.spotify.com/album/76tS12f6S9QDPc9x6OxiWG"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        },
+        {
+          "name": "Peanuts",
+          "url": "https://open.spotify.com/artist/58JT424axIaKJNvUgVonOY"
+        }
+      ],
+      "duration_ms": 194733,
+      "name": "Have Yourself a Merry Little Christmas (From \"Snoopy Presents: 12 Days of Snoopy\")",
+      "url": "https://open.spotify.com/track/06tOzNfqvoD38Fo5lfg459"
+    },
     {
       "added_at": "2026-10-23 04:02:31",
       "album": {
@@ -41,6 +61,26 @@
       "url": "https://open.spotify.com/track/2TyrQS9gC73SSPlu2IEQjP"
     },
     {
+      "added_at": "2026-11-13 05:00:31",
+      "album": {
+        "name": "With or Without Snow",
+        "url": "https://open.spotify.com/album/3RdAu5tVKAVZjPylF6CRUv"
+      },
+      "artists": [
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        },
+        {
+          "name": "Mark Limacher",
+          "url": "https://open.spotify.com/artist/2FyolspKay4voViiywFNFs"
+        }
+      ],
+      "duration_ms": 178113,
+      "name": "With or Without Snow",
+      "url": "https://open.spotify.com/track/5VWS9ZodFhonOzebqUsmlR"
+    },
+    {
       "added_at": "2026-11-06 05:00:17",
       "album": {
         "name": "Christmas in Your Heart",
@@ -59,6 +99,30 @@
       "duration_ms": 243013,
       "name": "Christmas in Your Heart",
       "url": "https://open.spotify.com/track/6hydzgRKP0oFOMXklvW01m"
+    },
+    {
+      "added_at": "2026-11-13 05:00:31",
+      "album": {
+        "name": "Trying To Get There (From \"Snoopy Presents: 12 Days of Snoopy\")",
+        "url": "https://open.spotify.com/album/1AeRGvMigVa43GsZmt09Du"
+      },
+      "artists": [
+        {
+          "name": "Kamasi Washington",
+          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
+        },
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        },
+        {
+          "name": "Peanuts",
+          "url": "https://open.spotify.com/artist/58JT424axIaKJNvUgVonOY"
+        }
+      ],
+      "duration_ms": 143744,
+      "name": "Trying To Get There (From \"Snoopy Presents: 12 Days of Snoopy\") (feat. Leon Bridges)",
+      "url": "https://open.spotify.com/track/3SgiN73hnVnb9KSs4Z4iL2"
     },
     {
       "added_at": "2026-11-06 05:00:17",
@@ -163,22 +227,6 @@
       "duration_ms": 224160,
       "name": "The Christmas Song",
       "url": "https://open.spotify.com/track/5KftXbglq34A75Zc6Q18Rj"
-    },
-    {
-      "added_at": "2025-10-10 14:39:28",
-      "album": {
-        "name": "Holiday Plans",
-        "url": "https://open.spotify.com/album/7kqkOOHq4IlZ5x1htvx8fL"
-      },
-      "artists": [
-        {
-          "name": "Caity Gyorgy",
-          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
-        }
-      ],
-      "duration_ms": 167546,
-      "name": "Holiday Plans",
-      "url": "https://open.spotify.com/track/3scP71lzyrGFu98Qi1tPwD"
     },
     {
       "added_at": "2025-10-10 14:39:28",
@@ -1117,22 +1165,6 @@
       "url": "https://open.spotify.com/track/5YBmVtkeoRdxU1GhRDrxuz"
     },
     {
-      "added_at": "2025-11-07 05:00:35",
-      "album": {
-        "name": "A Very Laufey Holiday",
-        "url": "https://open.spotify.com/album/0NXOmjbsRluHO8QLpZFEBd"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 167666,
-      "name": "The Christmas Waltz",
-      "url": "https://open.spotify.com/track/3vpW9dkAZFi8Sg0onz4wvR"
-    },
-    {
       "added_at": "2025-10-10 14:39:28",
       "album": {
         "name": "Skating (From \"A Charlie Brown Christmas\")",
@@ -1383,22 +1415,6 @@
       "duration_ms": 256973,
       "name": "The Little Drummer Boy (feat. Bill Huntington & Jason Marsalis)",
       "url": "https://open.spotify.com/track/2ApiBIDqdv5kBukv666Qhf"
-    },
-    {
-      "added_at": "2025-10-10 14:39:28",
-      "album": {
-        "name": "The Season",
-        "url": "https://open.spotify.com/album/3ciopGUNGy8S9VoLIfNaFG"
-      },
-      "artists": [
-        {
-          "name": "Jane Monheit",
-          "url": "https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ"
-        }
-      ],
-      "duration_ms": 300586,
-      "name": "Moonlight In Vermont",
-      "url": "https://open.spotify.com/track/1dpM2N7IkTM1gSUtomiE9F"
     },
     {
       "added_at": "2025-10-10 14:39:28",

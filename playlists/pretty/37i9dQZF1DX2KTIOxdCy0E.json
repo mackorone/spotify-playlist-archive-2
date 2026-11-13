@@ -1,12 +1,12 @@
 {
   "description": "First comes love, then comes life. Listen to the music from Nobody Wants This, curated by The Core, Interscope and Aperture Music, now streaming on Netflix.",
-  "num_followers": 216032,
+  "num_followers": 216183,
   "original_name": "Nobody Wants This Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEslU7MKpsklyKBgefj1MGc9yJEq",
+  "snapshot_id": "AAAAAJ4qQLrc5pMB+UH5yCtAt8B6WunL",
   "tracks": [
     {
       "added_at": "2026-10-23 23:33:15",
@@ -455,6 +455,26 @@
       "duration_ms": 225477,
       "name": "Kiss&Tell",
       "url": "https://open.spotify.com/track/7Mjsg7WTyWXy56hZo7py8f"
+    },
+    {
+      "added_at": "2026-11-12 15:08:02",
+      "album": {
+        "name": "MADE OF MAGIC",
+        "url": "https://open.spotify.com/album/6V7aiOy3cl1o1HZoeu8MfS"
+      },
+      "artists": [
+        {
+          "name": "LUNAKAI",
+          "url": "https://open.spotify.com/artist/4Ts4xfjHoEysIz3crghYjf"
+        },
+        {
+          "name": "Kari Aryeh",
+          "url": "https://open.spotify.com/artist/2Lt8k0ywBP6I95YzjqrH4s"
+        }
+      ],
+      "duration_ms": 212049,
+      "name": "MADE OF MAGIC",
+      "url": "https://open.spotify.com/track/538tCg5oDkDNXVfky5JSnD"
     },
     {
       "added_at": "2026-10-22 16:00:41",

@@ -275,6 +275,24 @@
     },
     {
       "album": {
+        "name": "Aline",
+        "url": "https://open.spotify.com/album/6jUfMyBDp1KPuCjW1MMXZj"
+      },
+      "artists": [
+        {
+          "name": "Opaline Monarque",
+          "url": "https://open.spotify.com/artist/5Aac4kbP69VaMEt67lEiKD"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151059,
+      "name": "Aline",
+      "url": "https://open.spotify.com/track/67u5S8u9ymR5RMRbZ1MZn7"
+    },
+    {
+      "album": {
         "name": "All Of Us",
         "url": "https://open.spotify.com/album/0HM8y58DFBfqDjGiaIoMWQ"
       },
@@ -488,6 +506,24 @@
       "duration_ms": 168000,
       "name": "Anachronic",
       "url": "https://open.spotify.com/track/28BhahBC2qOpui6ryXoCev"
+    },
+    {
+      "album": {
+        "name": "Ancient Asterism",
+        "url": "https://open.spotify.com/album/42gmNS4CL26IhACyuB2gxX"
+      },
+      "artists": [
+        {
+          "name": "Triangular Prism III",
+          "url": "https://open.spotify.com/artist/0SxMFbx9jy8q9pGSJoopmf"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170089,
+      "name": "Ancient Asterism",
+      "url": "https://open.spotify.com/track/7jKvWxfAIuMZsVcP9ozBRu"
     },
     {
       "album": {
@@ -812,6 +848,24 @@
       "duration_ms": 148783,
       "name": "Atrea & Astrea",
       "url": "https://open.spotify.com/track/1XOpm9WIEN5yLBH18kh4zf"
+    },
+    {
+      "album": {
+        "name": "Aureliata",
+        "url": "https://open.spotify.com/album/5U4LrFDMIM8zrpDVPQxeuX"
+      },
+      "artists": [
+        {
+          "name": "Evanesce",
+          "url": "https://open.spotify.com/artist/5UPSHUrbSsFQCpKhIi9nr8"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Aureliata",
+      "url": "https://open.spotify.com/track/5IeU1WwL0BKSH4eXoizOhu"
     },
     {
       "album": {
@@ -2752,7 +2806,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 136125,
       "name": "Dreaming",
       "url": "https://open.spotify.com/track/2ZJQrM6KytbhuSmF17gYNa"
@@ -4726,7 +4780,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 167406,
       "name": "Himmelaku",
       "url": "https://open.spotify.com/track/2RSg1e3GMwt6FjwMkgZ5Al"
@@ -6677,6 +6731,24 @@
     },
     {
       "album": {
+        "name": "Nattvila",
+        "url": "https://open.spotify.com/album/0cbLEUooNJf3AbdLQ3eOaq"
+      },
+      "artists": [
+        {
+          "name": "Alexander Brinkman",
+          "url": "https://open.spotify.com/artist/00PBaUiEJHzToevJcWXv4M"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Nattvila",
+      "url": "https://open.spotify.com/track/5qYyaFNIfeZmtBAyOZx8HL"
+    },
+    {
+      "album": {
         "name": "Nebulous Serenity",
         "url": "https://open.spotify.com/album/655kVbfYM4u4jMrqWpN3h2"
       },
@@ -6980,6 +7052,32 @@
       "duration_ms": 234000,
       "name": "Nomeh",
       "url": "https://open.spotify.com/track/3xQbeORys8d2PyWuiGqHYI"
+    },
+    {
+      "album": {
+        "name": "Northbound Air",
+        "url": "https://open.spotify.com/album/0jqC8DLQM8Ae7vUNDlru6E"
+      },
+      "artists": [
+        {
+          "name": "Sagamo",
+          "url": "https://open.spotify.com/artist/4pDaBlpZTovRy5UjuBUC0l"
+        },
+        {
+          "name": "Sizmara",
+          "url": "https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX"
+        },
+        {
+          "name": "Mshvidi",
+          "url": "https://open.spotify.com/artist/2QG2CJC7IycOyrak6NaFvj"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169199,
+      "name": "Northbound Air",
+      "url": "https://open.spotify.com/track/6X6FCiehGjLPp3vPj25c1O"
     },
     {
       "album": {
@@ -7775,6 +7873,24 @@
     },
     {
       "album": {
+        "name": "Positive Flow",
+        "url": "https://open.spotify.com/album/649O2yNGlkg9bfo39lqrU5"
+      },
+      "artists": [
+        {
+          "name": "Silence Concertos",
+          "url": "https://open.spotify.com/artist/4LryoteCJZPv9bdisFtRFX"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157802,
+      "name": "Positive Flow",
+      "url": "https://open.spotify.com/track/2miELLIoKaIqx9mpyWn55j"
+    },
+    {
+      "album": {
         "name": "Post Card Effect",
         "url": "https://open.spotify.com/album/5N0ZoAiJmieny6QXCK1ccI"
       },
@@ -7894,7 +8010,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 187056,
       "name": "Prism",
       "url": "https://open.spotify.com/track/3NUsEBwZcHuqi5QVJLJL4f"
@@ -7970,6 +8086,24 @@
       "duration_ms": 195717,
       "name": "Pure Elements",
       "url": "https://open.spotify.com/track/3VXo1X3728wauOstZ44viK"
+    },
+    {
+      "album": {
+        "name": "Quadra",
+        "url": "https://open.spotify.com/album/5AirsIsaRLo6VZVS5DOMVD"
+      },
+      "artists": [
+        {
+          "name": "Elunara Mare",
+          "url": "https://open.spotify.com/artist/52VdaCQAM3PCg8pQjPUaEV"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Quadra",
+      "url": "https://open.spotify.com/track/6KuSYNaOY3rmCQW0zFVcRC"
     },
     {
       "album": {
@@ -10490,7 +10624,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 172000,
       "name": "Unfolding Into Night",
       "url": "https://open.spotify.com/track/5M5XREM08ITdxl1WxWjZwH"
@@ -10584,6 +10718,24 @@
       "duration_ms": 148000,
       "name": "Valerian",
       "url": "https://open.spotify.com/track/5PBzjazmFvtTg8Ik852i4l"
+    },
+    {
+      "album": {
+        "name": "Velora",
+        "url": "https://open.spotify.com/album/3QmCPFL926ECODftHtIB6N"
+      },
+      "artists": [
+        {
+          "name": "Moon Waves",
+          "url": "https://open.spotify.com/artist/4culOc37QVV7jSX09VKt96"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155018,
+      "name": "Velora",
+      "url": "https://open.spotify.com/track/5FmqfSO2BqjKSUduFmjX3E"
     },
     {
       "album": {
@@ -10984,6 +11136,24 @@
       "duration_ms": 176000,
       "name": "Willow Spring",
       "url": "https://open.spotify.com/track/7DvXX1p1TWC8Nq3mv2NApL"
+    },
+    {
+      "album": {
+        "name": "Wintertide",
+        "url": "https://open.spotify.com/album/2G7A7Zlk0vOtGq33zbTWz4"
+      },
+      "artists": [
+        {
+          "name": "Ever So Blue",
+          "url": "https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140624,
+      "name": "Wintertide",
+      "url": "https://open.spotify.com/track/3TY5N1igLDKbxWNwrCMFdl"
     },
     {
       "album": {

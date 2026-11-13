@@ -1,6 +1,6 @@
 {
   "description": "Chill to these acoustic songs from the Middle East and North Africa. Cover: Labess.",
-  "num_followers": 79345,
+  "num_followers": 79352,
   "original_name": "Acoustic Arabic",
   "owner": {
     "name": "Spotify",
@@ -563,6 +563,22 @@
     {
       "added_at": "2025-10-06 14:50:07",
       "album": {
+        "name": "Oumniya",
+        "url": "https://open.spotify.com/album/4hu42nNoG5DCRahtvY77NP"
+      },
+      "artists": [
+        {
+          "name": "Souad Massi",
+          "url": "https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k"
+        }
+      ],
+      "duration_ms": 290730,
+      "name": "Wakfa",
+      "url": "https://open.spotify.com/track/1mmE3XIwIX0tYjLr6u7zW1"
+    },
+    {
+      "added_at": "2025-10-06 14:50:07",
+      "album": {
         "name": "Ya Zalamez",
         "url": "https://open.spotify.com/album/5KIX5z12W1xilOex7O55fo"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 233215,
       "name": "Albi",
       "url": "https://open.spotify.com/track/5CI4SAR3raAaAu6Rijmpqk"
-    },
-    {
-      "added_at": "2025-10-06 14:50:07",
-      "album": {
-        "name": "Oumniya",
-        "url": "https://open.spotify.com/album/4hu42nNoG5DCRahtvY77NP"
-      },
-      "artists": [
-        {
-          "name": "Souad Massi",
-          "url": "https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k"
-        }
-      ],
-      "duration_ms": 290730,
-      "name": "Wakfa",
-      "url": "https://open.spotify.com/track/1mmE3XIwIX0tYjLr6u7zW1"
     },
     {
       "added_at": "2025-10-06 14:50:07",

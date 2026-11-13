@@ -1068,7 +1068,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 593631,
       "name": "Busa",
       "url": "https://open.spotify.com/track/2fJuxUZaQEsJC8GEvdyQvl"
@@ -3049,6 +3049,24 @@
     },
     {
       "album": {
+        "name": "He Lives",
+        "url": "https://open.spotify.com/album/5URXmzm8uXR1XFcC3MPnvB"
+      },
+      "artists": [
+        {
+          "name": "TSHEPO LEBEPE",
+          "url": "https://open.spotify.com/artist/06PQeyGH37N3e3SAxwJ3LG"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 454940,
+      "name": "Jeso Fela - Live",
+      "url": "https://open.spotify.com/track/0bjKWSEBjlqhry3CQSoqfR"
+    },
+    {
+      "album": {
         "name": "Jeso Ke Jeso (Live at Worship House Church Limpopo, 2023) (feat. Marc Sathekge)",
         "url": "https://open.spotify.com/album/4B2zCui5CF6jIqw7sVX90j"
       },
@@ -3740,6 +3758,24 @@
       "duration_ms": 438973,
       "name": "Khanimambo/Obrigado - Live at Covenant House / 2023",
       "url": "https://open.spotify.com/track/25wWAnC4SPSyMD3pqw0s6f"
+    },
+    {
+      "album": {
+        "name": "Khayelihle",
+        "url": "https://open.spotify.com/album/1dcJCQIga32bMdppXdE44D"
+      },
+      "artists": [
+        {
+          "name": "Lebo Elle Tisane",
+          "url": "https://open.spotify.com/artist/5OjmAYpmIb99cv5HC7Rwkt"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 581418,
+      "name": "Khayelihle",
+      "url": "https://open.spotify.com/track/0XDmPceB9B22SNUINpuR3n"
     },
     {
       "album": {
@@ -4435,6 +4471,28 @@
     },
     {
       "album": {
+        "name": "The Legacy Continues",
+        "url": "https://open.spotify.com/album/3XMdeUI7LZMLtIQwpECtNt"
+      },
+      "artists": [
+        {
+          "name": "Minister Lufuno Dagada",
+          "url": "https://open.spotify.com/artist/6HUzVS8xaww9cijNvixZqA"
+        },
+        {
+          "name": "Betusile Mcinga",
+          "url": "https://open.spotify.com/artist/75BZvMQ0SQYzoMAqxG3gcb"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370139,
+      "name": "Mbilaelo / Nikela Ku Jehova (feat. Betusile Mcinga)",
+      "url": "https://open.spotify.com/track/1f7dEzNSqD5JK2GgRt016q"
+    },
+    {
+      "album": {
         "name": "The Gift, Vol. 1",
         "url": "https://open.spotify.com/album/2YCDh7g2M3KWcDZUKKRUH1"
       },
@@ -4926,7 +4984,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 392435,
       "name": "Ndifun' Izulu",
       "url": "https://open.spotify.com/track/76csbELiVmhYttFqaFHujN"
@@ -5304,7 +5362,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 239506,
       "name": "Ngiyamazi Umhlengi Wami - Live At Cedarwoods of Sandton, 2023",
       "url": "https://open.spotify.com/track/2kUmCaHL6wXqq9CgTpqCBG"
@@ -5778,7 +5836,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 470600,
       "name": "Nothing Without You - Live",
       "url": "https://open.spotify.com/track/33ovGnOeJfoSXRyL3dZhgf"
@@ -5970,6 +6028,32 @@
       "duration_ms": 327653,
       "name": "Onjengawe Jesu Wami - Medley 10",
       "url": "https://open.spotify.com/track/7bYfOZ2LIsVMaR75INcrbl"
+    },
+    {
+      "album": {
+        "name": "Spirit Of Praise 12 (Live)",
+        "url": "https://open.spotify.com/album/6xddYB6RyT68q0yavezJ0d"
+      },
+      "artists": [
+        {
+          "name": "Spirit Of Praise",
+          "url": "https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa"
+        },
+        {
+          "name": "Spirit of Praise Choir",
+          "url": "https://open.spotify.com/artist/598iFL4vIXJNBPQHcB8jDG"
+        },
+        {
+          "name": "Nhlanhla Sibisi",
+          "url": "https://open.spotify.com/artist/0IVAeXQr9He3cUd2QTdsHK"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325493,
+      "name": "Opening - Ivangeli - Live",
+      "url": "https://open.spotify.com/track/5T5hF7TJrKEd2xB2MlYZ3a"
     },
     {
       "album": {
@@ -6578,7 +6662,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 297071,
       "name": "Sihamba ne Qhawe",
       "url": "https://open.spotify.com/track/1BbS7bpQ1NF2SFdMbJazzF"
@@ -7870,7 +7954,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 487268,
       "name": "Uloyiko Lwami",
       "url": "https://open.spotify.com/track/79mI2X5OLrOdcqJMeuTIUH"
@@ -7896,7 +7980,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 485960,
       "name": "Uloyiko Lwami 2.0",
       "url": "https://open.spotify.com/track/2emoPu2M9pl2m30BESXX2J"

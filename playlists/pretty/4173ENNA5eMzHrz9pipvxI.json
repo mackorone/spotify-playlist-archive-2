@@ -1,13 +1,37 @@
 {
   "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Mode\u0101 ",
-  "num_followers": 117515,
+  "num_followers": 117504,
   "original_name": "Spinnin' Records Brand New",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAiLERTx0KD0ek8iHYD0y3OUQcAWjWu",
+  "snapshot_id": "AAAiL8iVvgYUVEsX0GIbkFB3dDmxZWsk",
   "tracks": [
+    {
+      "added_at": "2026-11-12 23:00:08",
+      "album": {
+        "name": "Smoke & Lazers",
+        "url": "https://open.spotify.com/album/1seWQNnFkSX95r8yHtnOdb"
+      },
+      "artists": [
+        {
+          "name": "Lavern",
+          "url": "https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO"
+        },
+        {
+          "name": "EV",
+          "url": "https://open.spotify.com/artist/1qOueWotu6CIb1GMoib2GX"
+        },
+        {
+          "name": "Izzy Bizu",
+          "url": "https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ"
+        }
+      ],
+      "duration_ms": 176387,
+      "name": "Smoke & Lazers",
+      "url": "https://open.spotify.com/track/0FRhp8czW9og1Y4hs2AMkx"
+    },
     {
       "added_at": "2026-10-29 23:00:09",
       "album": {
@@ -231,6 +255,26 @@
       "duration_ms": 120238,
       "name": "Mari\u00f4",
       "url": "https://open.spotify.com/track/7w0l5XqKkW5yF44vUIfl1M"
+    },
+    {
+      "added_at": "2026-11-12 09:23:49",
+      "album": {
+        "name": "REVELATIONS",
+        "url": "https://open.spotify.com/album/0GIMc0FfEfEEwnao2B3Bgo"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "CERES",
+          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
+        }
+      ],
+      "duration_ms": 145875,
+      "name": "Drinking To Forget You (feat. CERES)",
+      "url": "https://open.spotify.com/track/75ZLttvMJajeCqB8uZzZw9"
     },
     {
       "added_at": "2026-10-15 22:00:01",

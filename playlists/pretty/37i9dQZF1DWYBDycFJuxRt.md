@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: ちゃんみな \*👉 <a href="https://spice.eplus.jp/articles/350284">連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,888 likes - 101 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,966 likes - 101 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 71 | [Mirroring my twisted mind](https://open.spotify.com/track/46wacC5WvgI9nU6EYH5OIX) | [o\_all](https://open.spotify.com/artist/2feMmIO3uan7F9DEUOI0aZ) | [Mirroring my twisted mind](https://open.spotify.com/album/4G3pYjTuxCbrBsKuJlnLGp) | 4:12 |
 | 72 | [ONE STEP +1](https://open.spotify.com/track/5iliAdZ2ITugOMxrKFx3lt) | [LUDENS](https://open.spotify.com/artist/2v5SxAcG3dpktPD1E8N6V3) | [ONE STEP +1](https://open.spotify.com/album/187m1v6hZjKQy6kGTPMi8l) | 3:50 |
 | 73 | [99](https://open.spotify.com/track/0X87OpfgCHDskp78eMUCAx) | [KAMI WA SAIKORO WO FURANAI](https://open.spotify.com/artist/2FqdskWqZqDdlSnAIo9BGA) | [99](https://open.spotify.com/album/1TAXj57dnpYNZsmc7aAI0R) | 3:15 |
-| 74 | [tonariai](https://open.spotify.com/track/55lSYn8928dCWPcUP2vDLq) | [Be my Girl](https://open.spotify.com/artist/0f1g7262npe7ZCidh6zdEx) | [隣愛](https://open.spotify.com/album/1mCdkc5C4rsQHN3DJDtpp5) | 5:17 |
+| 74 | [隣愛](https://open.spotify.com/track/55lSYn8928dCWPcUP2vDLq) | [Be my Girl](https://open.spotify.com/artist/0f1g7262npe7ZCidh6zdEx) | [隣愛](https://open.spotify.com/album/1mCdkc5C4rsQHN3DJDtpp5) | 5:17 |
 | 75 | [Sing](https://open.spotify.com/track/0Ik2cKfzupFjh64kOoWllt) | [the engy](https://open.spotify.com/artist/0SLHzcDJxE57ySNIP8tTxO) | [Sing](https://open.spotify.com/album/2uge4KghHGtt4xWNNGQpNR) | 4:02 |
 | 76 | [First Christmas](https://open.spotify.com/track/38GjoT1nUEQwCJVbKHDpHM) | [REIKO](https://open.spotify.com/artist/4h81hSXUcntBFY41VrIH96), [miyou](https://open.spotify.com/artist/2XTOH0VTIryl8Yac4n2LVc) | [First Christmas](https://open.spotify.com/album/7bzx7ZXyrEJD0bXeuPLFuJ) | 4:25 |
 | 77 | [Ai no Katachi](https://open.spotify.com/track/4NENVXyxwPsE4sG15jdtfn) | [吉田仁人](https://open.spotify.com/artist/24IBupKEugYhAfMB5Ro2yp) | [Ai no Katachi](https://open.spotify.com/album/1rKagSOlTAns0oG7rVsWBm) | 2:50 |

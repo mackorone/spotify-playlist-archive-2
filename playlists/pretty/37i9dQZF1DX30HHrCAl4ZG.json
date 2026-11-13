@@ -1,13 +1,29 @@
 {
-  "description": "Explore all things indie rock right now. Featuring music from Fontaines D.C.",
-  "num_followers": 802381,
+  "description": "Explore all things indie rock right now. Featuring music from Pinegrove",
+  "num_followers": 802350,
   "original_name": "Today's Indie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKt701SAJ3IVe6C98iGgz5rtDlsu",
+  "snapshot_id": "AAAAAJ04YOY3pqi/rcv0bpezo+PyKv3Y",
   "tracks": [
+    {
+      "added_at": "2026-11-13 05:01:38",
+      "album": {
+        "name": "Everything So Far \u2013 11th Anniversary Edition",
+        "url": "https://open.spotify.com/album/4yfGudqYBn02zyl5OzZIOe"
+      },
+      "artists": [
+        {
+          "name": "Pinegrove",
+          "url": "https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB"
+        }
+      ],
+      "duration_ms": 256511,
+      "name": "Lorazepam (ESF \"Bonus Round\")",
+      "url": "https://open.spotify.com/track/3AXWgOtbWI2iz0M8A1RViV"
+    },
     {
       "added_at": "2026-10-16 04:01:00",
       "album": {
@@ -23,6 +39,22 @@
       "duration_ms": 194205,
       "name": "Japan",
       "url": "https://open.spotify.com/track/29USgREdEXy48zHm3OnhAZ"
+    },
+    {
+      "added_at": "2026-11-13 05:01:38",
+      "album": {
+        "name": "Great Destroyer",
+        "url": "https://open.spotify.com/album/3ovb20hHInBOA8IQA6cSGr"
+      },
+      "artists": [
+        {
+          "name": "Racing Mount Pleasant",
+          "url": "https://open.spotify.com/artist/5zaSiNpGxS2lOvZTIZiOQX"
+        }
+      ],
+      "duration_ms": 249586,
+      "name": "Great Destroyer",
+      "url": "https://open.spotify.com/track/37VSm7OkJYKnGszEqUQm6d"
     },
     {
       "added_at": "2026-11-06 05:00:56",
@@ -57,6 +89,22 @@
       "url": "https://open.spotify.com/track/4EoJ151oQ5jY48z4RhSE96"
     },
     {
+      "added_at": "2026-11-13 05:01:38",
+      "album": {
+        "name": "Winner",
+        "url": "https://open.spotify.com/album/52JHUm1Y7NIxLdKu0qGwjt"
+      },
+      "artists": [
+        {
+          "name": "Sorry",
+          "url": "https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v"
+        }
+      ],
+      "duration_ms": 232047,
+      "name": "Winner",
+      "url": "https://open.spotify.com/track/21GMGZQQ0MhG5mTe7cvs2Y"
+    },
+    {
       "added_at": "2026-10-16 04:01:00",
       "album": {
         "name": "Believe You Me",
@@ -89,6 +137,22 @@
       "url": "https://open.spotify.com/track/6ee7KId6UZeOyliYOCsYYt"
     },
     {
+      "added_at": "2026-11-13 05:01:38",
+      "album": {
+        "name": "Fare Thee Well, Miss Carousel",
+        "url": "https://open.spotify.com/album/4F0vxhetE2gLgkUUCED5sS"
+      },
+      "artists": [
+        {
+          "name": "The Lemonheads",
+          "url": "https://open.spotify.com/artist/6w7fc6IZlo5zwBaKT5jU1X"
+        }
+      ],
+      "duration_ms": 316507,
+      "name": "Fare Thee Well, Miss Carousel",
+      "url": "https://open.spotify.com/track/0Ppg2H8k6WNdBGZclp1NO1"
+    },
+    {
       "added_at": "2026-10-09 04:02:33",
       "album": {
         "name": "Roar Of The Heliac Goat",
@@ -105,6 +169,22 @@
       "url": "https://open.spotify.com/track/4hjBehyyL8JPQJ0LiYOHnl"
     },
     {
+      "added_at": "2026-11-13 05:01:38",
+      "album": {
+        "name": "Lifer",
+        "url": "https://open.spotify.com/album/3a7ggPhwRnYn73uCJ0qQ44"
+      },
+      "artists": [
+        {
+          "name": "Armlock",
+          "url": "https://open.spotify.com/artist/7BoU3VkauvnYvttpymQ7pG"
+        }
+      ],
+      "duration_ms": 162698,
+      "name": "Lifer",
+      "url": "https://open.spotify.com/track/6pKOiHEMUgqNKl4qqspjJF"
+    },
+    {
       "added_at": "2026-11-06 05:00:56",
       "album": {
         "name": "lyre",
@@ -119,6 +199,38 @@
       "duration_ms": 163880,
       "name": "lyre",
       "url": "https://open.spotify.com/track/21NqnGe9Qfc4rSJkCSKHQP"
+    },
+    {
+      "added_at": "2026-11-13 05:01:38",
+      "album": {
+        "name": "Natural Disasters",
+        "url": "https://open.spotify.com/album/3YFGx66CV14wmi6ZmVqo4y"
+      },
+      "artists": [
+        {
+          "name": "Palehound",
+          "url": "https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M"
+        }
+      ],
+      "duration_ms": 212303,
+      "name": "Natural Disasters",
+      "url": "https://open.spotify.com/track/0w2oeFlzYXNDlcHwxGT8iH"
+    },
+    {
+      "added_at": "2026-11-13 05:01:38",
+      "album": {
+        "name": "Most Likely",
+        "url": "https://open.spotify.com/album/1OQizYD8KIkRSmD1U3m9Vg"
+      },
+      "artists": [
+        {
+          "name": "swell foop",
+          "url": "https://open.spotify.com/artist/5zQi16UXlsQxpqeIOYBu7r"
+        }
+      ],
+      "duration_ms": 191802,
+      "name": "Your Love",
+      "url": "https://open.spotify.com/track/1fNKvkFoz5O2XggQCRR57G"
     },
     {
       "added_at": "2026-10-09 04:02:33",
@@ -511,22 +623,6 @@
       "duration_ms": 190763,
       "name": "Home Alone",
       "url": "https://open.spotify.com/track/4WJwVMnu4hXTXII4M70NCA"
-    },
-    {
-      "added_at": "2026-10-09 04:02:33",
-      "album": {
-        "name": "Laying Down",
-        "url": "https://open.spotify.com/album/6aB7po4FUlk7DB0471ku6e"
-      },
-      "artists": [
-        {
-          "name": "swell foop",
-          "url": "https://open.spotify.com/artist/5zQi16UXlsQxpqeIOYBu7r"
-        }
-      ],
-      "duration_ms": 170380,
-      "name": "Laying Down",
-      "url": "https://open.spotify.com/track/2vYaRSGzWjD3X17T1ICQvp"
     },
     {
       "added_at": "2026-10-09 04:02:33",
@@ -1559,102 +1655,6 @@
     {
       "added_at": "2026-10-09 04:02:33",
       "album": {
-        "name": "For Love of Grace & the Hereafter",
-        "url": "https://open.spotify.com/album/1oU9h86D6qcuHNDoGvzpwV"
-      },
-      "artists": [
-        {
-          "name": "Iceage",
-          "url": "https://open.spotify.com/artist/03hlOXqRyyXO3ectp3eEbU"
-        }
-      ],
-      "duration_ms": 218909,
-      "name": "No Fear",
-      "url": "https://open.spotify.com/track/2LQhEn8usQ8va0aPdLRnWX"
-    },
-    {
-      "added_at": "2026-10-09 04:02:33",
-      "album": {
-        "name": "skinny dip",
-        "url": "https://open.spotify.com/album/0vaVjzaKrZtdBVJdAJk2jn"
-      },
-      "artists": [
-        {
-          "name": "almost monday",
-          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
-        }
-      ],
-      "duration_ms": 192439,
-      "name": "skinny dip",
-      "url": "https://open.spotify.com/track/3GR1J0gHGBN4jX2auDDE2j"
-    },
-    {
-      "added_at": "2026-10-09 04:02:33",
-      "album": {
-        "name": "Never Have I Ever",
-        "url": "https://open.spotify.com/album/5c64n4bmCFpdsvenhcWp5z"
-      },
-      "artists": [
-        {
-          "name": "Rainbow Kitten Surprise",
-          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
-        }
-      ],
-      "duration_ms": 174834,
-      "name": "Never Have I Ever",
-      "url": "https://open.spotify.com/track/2Ojr742JINM4QEOk7vQGEh"
-    },
-    {
-      "added_at": "2026-10-09 04:02:33",
-      "album": {
-        "name": "M.O.T.H.E.R.",
-        "url": "https://open.spotify.com/album/2CdUiNjDfXOy3Vr31aGuuU"
-      },
-      "artists": [
-        {
-          "name": "M.O.T.H.E.R.",
-          "url": "https://open.spotify.com/artist/60M5K3dy0dzK3tpxCvyOWs"
-        }
-      ],
-      "duration_ms": 192289,
-      "name": "MY LOVE",
-      "url": "https://open.spotify.com/track/2Co01NIDhLJrQRlI8QiGKw"
-    },
-    {
-      "added_at": "2026-10-09 04:02:33",
-      "album": {
-        "name": "Don't Lie",
-        "url": "https://open.spotify.com/album/1UKOVuWSsajyHrG1EwtZZI"
-      },
-      "artists": [
-        {
-          "name": "Dogpark",
-          "url": "https://open.spotify.com/artist/2VlmDb05CPERyCZfmZI3x7"
-        }
-      ],
-      "duration_ms": 178650,
-      "name": "Don\u2019t Lie",
-      "url": "https://open.spotify.com/track/4cEC3ENYWqhXjOtmvCSxij"
-    },
-    {
-      "added_at": "2026-10-09 04:02:33",
-      "album": {
-        "name": "Mice Protection",
-        "url": "https://open.spotify.com/album/2rEhabXYFtcZWk6JQ1b7F7"
-      },
-      "artists": [
-        {
-          "name": "Lowertown",
-          "url": "https://open.spotify.com/artist/1yI0RRPnOA9BFJmiZ6cEzw"
-        }
-      ],
-      "duration_ms": 214600,
-      "name": "Mice Protection",
-      "url": "https://open.spotify.com/track/4sCiHmLrMcfjMTP10dfVzu"
-    },
-    {
-      "added_at": "2026-10-09 04:02:33",
-      "album": {
         "name": "The Payoff",
         "url": "https://open.spotify.com/album/5w0KujrYWAir96O9ZhCW1Q"
       },
@@ -2459,182 +2459,6 @@
       "duration_ms": 214666,
       "name": "Internet",
       "url": "https://open.spotify.com/track/5BQnHZI0SzXIcWIwUzCUij"
-    },
-    {
-      "added_at": "2026-10-09 04:02:33",
-      "album": {
-        "name": "Billy Elliot / Alone In Cologne",
-        "url": "https://open.spotify.com/album/38VWIVrqrK8bn6d7Q6zL5o"
-      },
-      "artists": [
-        {
-          "name": "Sorry",
-          "url": "https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v"
-        }
-      ],
-      "duration_ms": 191450,
-      "name": "Billy Elliot",
-      "url": "https://open.spotify.com/track/7gf3M0upbz1PemBCtDUP7D"
-    },
-    {
-      "added_at": "2026-10-09 04:02:33",
-      "album": {
-        "name": "Where's My Phone?",
-        "url": "https://open.spotify.com/album/1oLPKLJMffq7fO3XapLx4G"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 189853,
-      "name": "Where's My Phone?",
-      "url": "https://open.spotify.com/track/4BUDJShvKNRbrgylxri5tI"
-    },
-    {
-      "added_at": "2026-10-09 04:02:33",
-      "album": {
-        "name": "Star",
-        "url": "https://open.spotify.com/album/75az8Y4wNKLh8PpMz6h4zF"
-      },
-      "artists": [
-        {
-          "name": "Iceage",
-          "url": "https://open.spotify.com/artist/03hlOXqRyyXO3ectp3eEbU"
-        }
-      ],
-      "duration_ms": 205274,
-      "name": "Star",
-      "url": "https://open.spotify.com/track/3PdE19PCcon8iVW9KXtRWl"
-    },
-    {
-      "added_at": "2026-10-09 04:02:33",
-      "album": {
-        "name": "Puppet - Taken From Peaky Blinders: The Immortal Man (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/6Ear3FNXxaxeTUqTinbPRD"
-      },
-      "artists": [
-        {
-          "name": "Grian Chatten",
-          "url": "https://open.spotify.com/artist/6XyAI3jtlsss5mJjAAJXzE"
-        },
-        {
-          "name": "Antony Genn",
-          "url": "https://open.spotify.com/artist/0havfeAeChSqpSggNGyysW"
-        },
-        {
-          "name": "Martin Slattery",
-          "url": "https://open.spotify.com/artist/6t3PJIhjCRRJ1SH1O3zbLp"
-        },
-        {
-          "name": "The Immortal Man",
-          "url": "https://open.spotify.com/artist/30m2gfOVcyLAAcSW8JZpFs"
-        }
-      ],
-      "duration_ms": 266759,
-      "name": "Puppet - Taken From Peaky Blinders: The Immortal Man (Soundtrack from the Netflix Film)",
-      "url": "https://open.spotify.com/track/7dtX124bngqv8RPPccWYUC"
-    },
-    {
-      "added_at": "2026-10-09 04:02:33",
-      "album": {
-        "name": "Jane!",
-        "url": "https://open.spotify.com/album/2dKFGp34DsNa9bzZ3NoTC5"
-      },
-      "artists": [
-        {
-          "name": "The Long Faces",
-          "url": "https://open.spotify.com/artist/1DhiWyne1hHwVHTti49o40"
-        }
-      ],
-      "duration_ms": 186986,
-      "name": "Jane!",
-      "url": "https://open.spotify.com/track/5BdTXOmNx4NANVF4IMitQQ"
-    },
-    {
-      "added_at": "2026-10-09 04:02:33",
-      "album": {
-        "name": "Ring Of Fire",
-        "url": "https://open.spotify.com/album/6lZXWwg79uVFYoyrAaRjtZ"
-      },
-      "artists": [
-        {
-          "name": "Buck Meek",
-          "url": "https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR"
-        }
-      ],
-      "duration_ms": 232138,
-      "name": "Ring Of Fire",
-      "url": "https://open.spotify.com/track/4yvqnW2T2V73yhMWu8OyaT"
-    },
-    {
-      "added_at": "2026-10-09 04:02:33",
-      "album": {
-        "name": "Corporate Pudding",
-        "url": "https://open.spotify.com/album/5nW0M9ugNbNygM09L8oMj6"
-      },
-      "artists": [
-        {
-          "name": "Dogpark",
-          "url": "https://open.spotify.com/artist/2VlmDb05CPERyCZfmZI3x7"
-        }
-      ],
-      "duration_ms": 194765,
-      "name": "Dandelion",
-      "url": "https://open.spotify.com/track/1JjL9mpChpaO3fZRFI402Z"
-    },
-    {
-      "added_at": "2026-10-09 04:02:33",
-      "album": {
-        "name": "Dirt Buyer III",
-        "url": "https://open.spotify.com/album/34ukh7YS8utUHcsp32VjIZ"
-      },
-      "artists": [
-        {
-          "name": "Dirt Buyer",
-          "url": "https://open.spotify.com/artist/6MzWbIkpg9it7v13OQkDdp"
-        }
-      ],
-      "duration_ms": 133912,
-      "name": "Multizeal",
-      "url": "https://open.spotify.com/track/5eYJZqdfGF6bdBli2ynooi"
-    },
-    {
-      "added_at": "2026-10-09 04:02:33",
-      "album": {
-        "name": "Opening Night",
-        "url": "https://open.spotify.com/album/0Q6JVakLI4J5kvjX2uW38i"
-      },
-      "artists": [
-        {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-        },
-        {
-          "name": "War Child Records",
-          "url": "https://open.spotify.com/artist/6LUTQHiyRTjNLKtt9Ypstg"
-        }
-      ],
-      "duration_ms": 259495,
-      "name": "Opening Night",
-      "url": "https://open.spotify.com/track/7HXzuAd8UNJj2yCAS0NWbB"
-    },
-    {
-      "added_at": "2026-10-09 04:02:33",
-      "album": {
-        "name": "Blue Fairy",
-        "url": "https://open.spotify.com/album/2TtrqrgTpOPInXcj9FmcCl"
-      },
-      "artists": [
-        {
-          "name": "Clarion",
-          "url": "https://open.spotify.com/artist/7KJSk2ytUFik1LGqFGHOLW"
-        }
-      ],
-      "duration_ms": 159527,
-      "name": "Blue Fairy",
-      "url": "https://open.spotify.com/track/0tTfzkTDrCO9iX5hiBHjl7"
     }
   ],
   "unique_name": "Today's Indie Rock",

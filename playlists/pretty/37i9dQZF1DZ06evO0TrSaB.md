@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0TrSaB.md) - [plain]
 
 > This is Jai'Len Josey\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 234 likes - 28 songs - 1 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 233 likes - 28 songs - 1 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,11 +17,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0TrSaB.md) - [plain]
 | 7 | [Painting The Stars \- feat\. Jai’Len Josey](https://open.spotify.com/track/1f3eqj3tjdUMi3JYyMEhMZ) | [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg), [Jai'Len Josey](https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr) | [HunnyMoon Mountain](https://open.spotify.com/album/2rVpyULucip4FgLYR2rw26) | 4:36 |
 | 8 | [She Got It](https://open.spotify.com/track/4AebZz6zjrNpqk7mehE24x) | [Jai'Len Josey](https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr) | [Illustrations](https://open.spotify.com/album/00pFZrH0XRIXJGo86PQSYW) | 3:09 |
 | 9 | [Truce](https://open.spotify.com/track/0DUW0A9xuu1yKCaXCQVPSw) | [Jai'Len Josey](https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr) | [Serial Romantic](https://open.spotify.com/album/18iDm8NbADcwee74fPEKyp) | 4:09 |
-| 10 | [Good Soup](https://open.spotify.com/track/5xMWNzqWHBrUld2AIEVXoH) | [Jai'Len Josey](https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr) | [Southern Delicacy](https://open.spotify.com/album/2GqVdnApGsHmQrQWX0rVY2) | 2:45 |
+| 10 | [Willie's Interlude](https://open.spotify.com/track/3DsCXUEP6VLzzMUEZ1SbBA) | [Jai'Len Josey](https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr) | [Southern Delicacy](https://open.spotify.com/album/2GqVdnApGsHmQrQWX0rVY2) | 2:40 |
 | 11 | [Playground](https://open.spotify.com/track/1perwA1K2XAy6wSRzrVW7Q) | [Jai'Len Josey](https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr) | [Conversations From A Payphone](https://open.spotify.com/album/0T4Z5y6addAX9snpSlDNr7) | 4:40 |
 | 12 | [When We Jump](https://open.spotify.com/track/5YNYX1iBbTXfbFDZLrPXEU) | [Jai'Len Josey](https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr) | [Illustrations](https://open.spotify.com/album/00pFZrH0XRIXJGo86PQSYW) | 2:54 |
 | 13 | [Out Of My Body](https://open.spotify.com/track/5nayW8BHKzHEOvNBqrzw5b) | [Jai'Len Josey](https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr) | [Serial Romantic](https://open.spotify.com/album/18iDm8NbADcwee74fPEKyp) | 3:37 |
-| 14 | [Willie's Interlude](https://open.spotify.com/track/3DsCXUEP6VLzzMUEZ1SbBA) | [Jai'Len Josey](https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr) | [Southern Delicacy](https://open.spotify.com/album/2GqVdnApGsHmQrQWX0rVY2) | 2:40 |
+| 14 | [Good Soup](https://open.spotify.com/track/5xMWNzqWHBrUld2AIEVXoH) | [Jai'Len Josey](https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr) | [Southern Delicacy](https://open.spotify.com/album/2GqVdnApGsHmQrQWX0rVY2) | 2:45 |
 | 15 | [Anniversary \- A Cappella](https://open.spotify.com/track/4x2V5wl5swFlqyxOWDLIWv) | [JABARI](https://open.spotify.com/artist/0ArKaAfRkhLdJUDNinDKFb), [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9), [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be), [KELS](https://open.spotify.com/artist/0JzgaVLxpCeDg5WIm06DsU), [Dende](https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF), [Jai'Len Josey](https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr), [Amanda Adams](https://open.spotify.com/artist/2bzplmaKUHpSx3jzL4CPH7) | [Anniversary \(A Cappella\)](https://open.spotify.com/album/2caHF1IoGDMIvLkkDvCPKM) | 2:27 |
 | 16 | [Safe](https://open.spotify.com/track/2gYUxw19mLH5zcOV3TrsGl) | [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl), [Jai'Len Josey](https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr) | [As I Am](https://open.spotify.com/album/1M0VIXPymzW0uscfSIRHUr) | 2:21 |
 | 17 | [Housewife](https://open.spotify.com/track/5XL0u4OlkzjotTazxDzjNL) | [Jai'Len Josey](https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr) | [Serial Romantic](https://open.spotify.com/album/18iDm8NbADcwee74fPEKyp) | 2:39 |
@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0TrSaB.md) - [plain]
 | 27 | [Alright](https://open.spotify.com/track/4HsA9X8NaDP3G1NkEL8xOQ) | [MC Lyte](https://open.spotify.com/artist/2ZbWlThDW0qSbI3hinpl0w), [Jai'Len Josey](https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr) | [1 of 1](https://open.spotify.com/album/6brCUPL6IPmTwlesTAPDjj) | 3:44 |
 | 28 | [Welcome Home](https://open.spotify.com/track/4d6v0CvPR7lnsE5P4djMYj) | [Jai'Len Josey](https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr) | [Remember Me: The Mahalia Jackson Story \(Original Soundtrack\)](https://open.spotify.com/album/69SalyGJ7nBvOrex2NJTWN) | 2:06 |
 
-Snapshot ID: `avENAAAAAAAasqgAA5UMcla6hlCEnz4E`
+Snapshot ID: `avOwAAAAAAAwlkzEx6Rh7yZQtpwNZqif`

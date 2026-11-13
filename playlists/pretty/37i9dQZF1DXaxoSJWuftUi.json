@@ -1,12 +1,12 @@
 {
-  "description": "Your favorite kids songs and nursery rhymes, now with videos. Music videos available only on Premium. Cover: Ms. Rachel & Mr. Aron",
-  "num_followers": 7558,
+  "description": "Your favorite kids songs and nursery rhymes, now with videos. Music videos available only on Premium. Cover: Peppa Pig",
+  "num_followers": 7614,
   "original_name": "Kids Music Videos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJHrCVfcpon88rbKVmxBp9QugUCj",
+  "snapshot_id": "AAAAANgA+HjthoME5ch4peaGx4x/KpEn",
   "tracks": [
     {
       "added_at": "2026-09-25 04:01:49",
@@ -215,6 +215,26 @@
       "duration_ms": 247974,
       "name": "Wally & the Bears Monster Hunt",
       "url": "https://open.spotify.com/track/6OOQaZZafEfS3VF0Yt30VG"
+    },
+    {
+      "added_at": "2026-11-13 05:01:22",
+      "album": {
+        "name": "Our Shopping List",
+        "url": "https://open.spotify.com/album/3TPlbxhemq7q1c7V7oF49E"
+      },
+      "artists": [
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        },
+        {
+          "name": "Noodle & Pals",
+          "url": "https://open.spotify.com/artist/5r4Bnflqc1rt8z3UIhwwKf"
+        }
+      ],
+      "duration_ms": 167507,
+      "name": "Our Shopping List",
+      "url": "https://open.spotify.com/track/0LO5cE6Fs2pn7i7rNZujed"
     },
     {
       "added_at": "2026-06-19 04:00:37",

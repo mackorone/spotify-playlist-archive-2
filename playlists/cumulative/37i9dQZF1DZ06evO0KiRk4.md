@@ -4,7 +4,7 @@
 
 > This is Florence + The Machine\. The essential tracks, all in one playlist.
 
-68 songs - 4 hr 43 min
+69 songs - 4 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,14 +28,15 @@
 | [Girl With One Eye](https://open.spotify.com/track/0UqDHyajhOTknbgj1IjuNM) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Version\)](https://open.spotify.com/album/1rLLyY5p6HXNl2lKzINWp5) | 3:38 | 2025-10-28 |  |
 | [Heaven Is Here](https://open.spotify.com/track/4eh6egMbuQ1QJ65HIA9eXG) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Dance Fever](https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE) | 1:51 | 2026-05-15 | 2026-05-31 |
 | [Heavy In Your Arms](https://open.spotify.com/track/3svizT5TsRqDffORHCmwKn) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Between Two Lungs](https://open.spotify.com/album/1iA9sq6Ldnw1HP1YXpa8jh) | 4:47 | 2025-10-28 |  |
-| [Howl](https://open.spotify.com/track/3GS8qG28p2RF6M7S5rFdx5) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Edition\)](https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ) | 3:33 | 2025-10-28 |  |
-| [Howl](https://open.spotify.com/track/30JSP0mpT8DQNHjs6v8Z4P) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Version\)](https://open.spotify.com/album/1rLLyY5p6HXNl2lKzINWp5) | 3:34 | 2025-11-30 | 2026-11-01 |
+| [Howl](https://open.spotify.com/track/3GS8qG28p2RF6M7S5rFdx5) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Edition\)](https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ) | 3:33 | 2025-10-28 | 2026-11-13 |
+| [Howl](https://open.spotify.com/track/30JSP0mpT8DQNHjs6v8Z4P) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Version\)](https://open.spotify.com/album/1rLLyY5p6HXNl2lKzINWp5) | 3:34 | 2025-11-30 |  |
+| [Howl \- Live](https://open.spotify.com/track/1IpNSfw0oeM3X4yCfpnq29) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Everybody Scream Tour Live](https://open.spotify.com/album/1f3QAJG9UzARzT26yvEdRI) | 4:12 | 2026-11-13 |  |
 | [Hunger](https://open.spotify.com/track/6Ju28M6P8Y8sLjBgWjyUUD) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [High As Hope](https://open.spotify.com/album/0pKZJj9GzcKPCS8r4IaksA) | 3:34 | 2025-10-28 |  |
 | [Jenny of Oldstones \(Game of Thrones\)](https://open.spotify.com/track/1u0THw5xaGd7sYzJEh48Lt) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Jenny of Oldstones \(Game of Thrones\)](https://open.spotify.com/album/1R6GYgEbpObUZC2btPQlqB) | 3:08 | 2025-10-28 |  |
 | [Just A Girl \- From The Original Series “Yellowjackets”](https://open.spotify.com/track/7DtbrNlYifGnJc7HY0fS9i) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Just A Girl \(From The Original Series “Yellowjackets”\)](https://open.spotify.com/album/2g9A59r1lqhUp29wxLY3Nk) | 4:34 | 2025-10-28 | 2025-11-02 |
 | [King](https://open.spotify.com/track/31ABtQJdfloNaGz7ZhXaN5) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Dance Fever](https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE) | 4:40 | 2025-10-28 |  |
 | [Kiss With A Fist](https://open.spotify.com/track/0jv5OcbvTUHgO8FgHhya8b) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Edition\)](https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ) | 2:03 | 2026-10-31 | 2026-11-01 |
-| [Kiss With A Fist](https://open.spotify.com/track/0qnzHn8plo9r10x69uFJYS) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Version\)](https://open.spotify.com/album/1rLLyY5p6HXNl2lKzINWp5) | 2:04 | 2025-10-28 |  |
+| [Kiss With A Fist](https://open.spotify.com/track/0qnzHn8plo9r10x69uFJYS) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Version\)](https://open.spotify.com/album/1rLLyY5p6HXNl2lKzINWp5) | 2:04 | 2025-10-28 | 2026-11-13 |
 | [Kraken](https://open.spotify.com/track/4BswiLDcr4ChDGl2NrfhC1) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Everybody Scream](https://open.spotify.com/album/0z7l9VEJyFMv8p8wffRDaF) | 3:50 | 2025-11-02 | 2025-11-16 |
 | [Make Up Your Mind](https://open.spotify.com/track/3AiXzUyFAFZVBGVAADPN5a) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [How Big, How Blue, How Beautiful \(Deluxe\)](https://open.spotify.com/album/2jn2n5OkuHliOLKCqHnjXV) | 4:01 | 2025-10-28 |  |
 | [Mermaids](https://open.spotify.com/track/1rZsn9K890Goymfl7YIdgY) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Dance Fever \(Complete Edition\)](https://open.spotify.com/album/6a15PoOmOueHCdogzhHRbh) | 4:35 | 2025-10-28 | 2026-01-17 |

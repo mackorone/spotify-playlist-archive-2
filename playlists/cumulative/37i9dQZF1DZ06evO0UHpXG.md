@@ -4,7 +4,7 @@
 
 > This is Motörhead\. The essential tracks, all in one playlist.
 
-152 songs - 9 hr 24 min
+153 songs - 9 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [1916](https://open.spotify.com/track/5gp9UXTiUKw0EbKdmdln9O) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [1916](https://open.spotify.com/album/6mvrfjdgSvwcDXhxyVjWTx) | 3:44 | 2022-12-30 |  |
 | [Ace of Spades](https://open.spotify.com/track/6EPRKhUOdiFSQwGBRBbvsZ) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Ace of Spades \(Expanded Edition\)](https://open.spotify.com/album/3rxF05Aux0QTrN533Kjc91) | 2:46 | 2022-12-30 | 2023-12-14 |
 | [Ace of Spades](https://open.spotify.com/track/3CIOopLwvyMvXk97ZEksKO) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Ace of Spades \(Expanded Edition\)](https://open.spotify.com/album/619d4uJE3h2rOlw7kmSlD6) | 2:48 | 2023-12-13 |  |
+| [Ain't My Crime \- 2026 Remaster](https://open.spotify.com/track/4tUPpMZsW9RhWbG7d46R0z) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Orgasmatron \(40th Anniversary Edition\)](https://open.spotify.com/album/3DAjWuihHWYhgtcXpGitiO) | 3:42 | 2026-11-13 |  |
 | [Alligator \- Bomber Demo](https://open.spotify.com/track/7jOHDp3bYzivNs9sP1sDWV) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [The Bomber Demos](https://open.spotify.com/album/61ftZFyu2rAtikKrE2xtfH) | 3:29 | 2024-10-14 | 2024-12-07 |
 | [Back at the Funny Farm](https://open.spotify.com/track/6yzBxTrtlBhm8nXbZIBqS1) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Another Perfect Day \(Expanded Edition\)](https://open.spotify.com/album/4WoY5iVHPMk3duAINlW7MK) | 4:11 | 2022-12-30 | 2023-03-02 |
 | [Be My Baby](https://open.spotify.com/track/0EXoM6WD1gWVDB6Y2kRH2f) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Kiss of Death](https://open.spotify.com/album/4syGSCBIzJWYQB15Msvn1y) | 3:40 | 2022-12-30 | 2023-11-11 |
@@ -143,7 +144,7 @@
 | [The Doctor \- Jacksons Studio Demos \- October 1981](https://open.spotify.com/track/4uEkNKrTju3mBgJwkq4UQz) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Iron Fist \(Deluxe 40th Anniversary Edition\)](https://open.spotify.com/album/2tkYl59Gdw4kLSXGCkEgN8) | 3:10 | 2022-12-30 | 2023-01-24 |
 | [The Hammer](https://open.spotify.com/track/05pK81o3qm38lC1pzXS11K) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Ace of Spades \(Expanded Edition\)](https://open.spotify.com/album/3rxF05Aux0QTrN533Kjc91) | 2:46 | 2022-12-30 | 2023-12-14 |
 | [The Watcher \- The Manticore Tapes](https://open.spotify.com/track/2m5jfyZxwGaJIsrvV547sJ) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [The Manticore Tapes](https://open.spotify.com/album/4lA6sBkX6kxj6aoHBqd6eY) | 4:37 | 2025-08-10 | 2025-08-14 |
-| [Thunder & Lightning](https://open.spotify.com/track/1icsGmCKFX7KA250aDRhma) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Bad Magic](https://open.spotify.com/album/3yRGBNzOdNXmA8YR9hd37X) | 3:06 | 2026-05-28 |  |
+| [Thunder & Lightning](https://open.spotify.com/track/1icsGmCKFX7KA250aDRhma) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Bad Magic](https://open.spotify.com/album/3yRGBNzOdNXmA8YR9hd37X) | 3:06 | 2026-05-28 | 2026-11-13 |
 | [Thunder & Lightning](https://open.spotify.com/track/6qcdpwb8HuELdtekAB4v4c) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Bad Magic](https://open.spotify.com/album/6dMv1580G91kLYjquABSPQ) | 3:06 | 2022-12-30 | 2026-04-28 |
 | [Till the End](https://open.spotify.com/track/00qKfHqfxL4ZNOCEY4VeCQ) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Bad Magic](https://open.spotify.com/album/3yRGBNzOdNXmA8YR9hd37X) | 4:04 | 2026-04-27 |  |
 | [Till The End](https://open.spotify.com/track/1n89RaAdJ19i3vZHwhcHVu) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Bad Magic](https://open.spotify.com/album/6dMv1580G91kLYjquABSPQ) | 4:05 | 2022-12-30 | 2026-04-27 |

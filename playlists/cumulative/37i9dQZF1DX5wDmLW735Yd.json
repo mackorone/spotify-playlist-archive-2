@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The world's biggest Drum 'n' Bass playlist! Cover: goddard",
+  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Wilkinson",
   "name": "Massive Drum & Bass",
   "tracks": [
     {
@@ -1388,7 +1388,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 240500,
       "name": "Around Me (feat. Dawn Joseph)",
       "url": "https://open.spotify.com/track/7fxMHIqfjwrmlbRZFe4jYC"
@@ -4204,7 +4204,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 178971,
       "name": "Calling My Line",
       "url": "https://open.spotify.com/track/7LApuSXvfDcZ8jZDiKuctc"
@@ -6138,7 +6138,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 187685,
       "name": "Daydreaming",
       "url": "https://open.spotify.com/track/2oXe9AR3QVnJELockJxn7y"
@@ -6708,7 +6708,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 192684,
       "name": "Disgruntled (feat. J Hus & IRAH)",
       "url": "https://open.spotify.com/track/0N5tx4jH20cdFnI8jgz90l"
@@ -8396,7 +8396,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 161961,
       "name": "Favela",
       "url": "https://open.spotify.com/track/2ijL261X405FDR88YzpmIv"
@@ -9132,7 +9132,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 226206,
       "name": "Flip It - Again",
       "url": "https://open.spotify.com/track/4ZXjaPaV0ldcNDouuCpWY2"
@@ -12026,6 +12026,24 @@
       "duration_ms": 155913,
       "name": "Hijack",
       "url": "https://open.spotify.com/track/0GHfI7rdYSibiQTR8D1lTl"
+    },
+    {
+      "album": {
+        "name": "hit & run",
+        "url": "https://open.spotify.com/album/6BThRN3CMCjwkjRIYW4OrT"
+      },
+      "artists": [
+        {
+          "name": "[IVY]",
+          "url": "https://open.spotify.com/artist/3bXszy3HMRqUhnON4Bpojw"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194482,
+      "name": "hit & run",
+      "url": "https://open.spotify.com/track/6bp9DdywdZzuMRyY9RViDx"
     },
     {
       "album": {
@@ -19287,6 +19305,28 @@
     },
     {
       "album": {
+        "name": "Out Of Control",
+        "url": "https://open.spotify.com/album/7MTldAIUcnpLhNjFZpCHDb"
+      },
+      "artists": [
+        {
+          "name": "Wilkinson",
+          "url": "https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r"
+        },
+        {
+          "name": "JustHooks",
+          "url": "https://open.spotify.com/artist/6QC9azwBR7Yqujod4hNV2l"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193103,
+      "name": "Out Of Control",
+      "url": "https://open.spotify.com/track/4sB48VYROXFtKbuRTreGma"
+    },
+    {
+      "album": {
         "name": "Out Of My Head",
         "url": "https://open.spotify.com/album/4MGvTyl9Yj46RtMg5woZf5"
       },
@@ -19680,6 +19720,28 @@
       "duration_ms": 145116,
       "name": "Pachamama (feat. Elliphant)",
       "url": "https://open.spotify.com/track/2TCpEU82gEzWAOAbjewQpP"
+    },
+    {
+      "album": {
+        "name": "Painting Lips On",
+        "url": "https://open.spotify.com/album/3wvjWpoQer8Gl1QDLl8qkN"
+      },
+      "artists": [
+        {
+          "name": "Mollie Collins",
+          "url": "https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu"
+        },
+        {
+          "name": "Local",
+          "url": "https://open.spotify.com/artist/5pNualCkz8Fih2WjCYwEZ2"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135515,
+      "name": "Painting Lips On",
+      "url": "https://open.spotify.com/track/0BKyxp5KpY09bK18kbxO3F"
     },
     {
       "album": {
@@ -20532,7 +20594,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 265138,
       "name": "Pushed",
       "url": "https://open.spotify.com/track/0uvZcm225VFhSVGQHilPKh"
@@ -26097,6 +26159,28 @@
     },
     {
       "album": {
+        "name": "COUNTRY GREAZE",
+        "url": "https://open.spotify.com/album/4LCRdTNQxgkW556DEVY5e9"
+      },
+      "artists": [
+        {
+          "name": "Sigma",
+          "url": "https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS"
+        },
+        {
+          "name": "Jude Moore",
+          "url": "https://open.spotify.com/artist/1FCY2XkVyPb6jdozfXdm5h"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187807,
+      "name": "THE DAYZ",
+      "url": "https://open.spotify.com/track/5i04WTBK1U9WsxZxFoj2ZZ"
+    },
+    {
+      "album": {
         "name": "The End of the Earth",
         "url": "https://open.spotify.com/album/5B2CR4iU11579BdWtup0BV"
       },
@@ -27639,6 +27723,24 @@
     },
     {
       "album": {
+        "name": "Vice City",
+        "url": "https://open.spotify.com/album/75KDxtzLJjfrrVMbtRMD1k"
+      },
+      "artists": [
+        {
+          "name": "Ren\u00e9 LaVice",
+          "url": "https://open.spotify.com/artist/0e5WyCWPCJT91whT3lFT4v"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198620,
+      "name": "Vice City",
+      "url": "https://open.spotify.com/track/6WOgzgLpgV8qVxXpBBuELp"
+    },
+    {
+      "album": {
         "name": "Vino Bandit",
         "url": "https://open.spotify.com/album/5wmkCBglZqdYFKjudx75JG"
       },
@@ -28078,6 +28180,28 @@
       "duration_ms": 169655,
       "name": "Wanting You",
       "url": "https://open.spotify.com/track/1ob2gyWUl9qAWkoFnw4fK4"
+    },
+    {
+      "album": {
+        "name": "Warning",
+        "url": "https://open.spotify.com/album/4lOS5hpMrvCHz4EOYVqhHX"
+      },
+      "artists": [
+        {
+          "name": "Catching Cairo",
+          "url": "https://open.spotify.com/artist/1MW1wqNtF2hNgsPfGDhrHB"
+        },
+        {
+          "name": "Benny Page",
+          "url": "https://open.spotify.com/artist/602tBNQHNIZL6tsB2RHAV1"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199100,
+      "name": "Warning",
+      "url": "https://open.spotify.com/track/2bHj4yB7e3JyTYN6dEwPUz"
     },
     {
       "album": {

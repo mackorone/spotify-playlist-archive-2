@@ -1,6 +1,6 @@
 {
   "description": "Alcuni amori bruciano pi\u00f9 di altri. Cover:  Shiva",
-  "num_followers": 130720,
+  "num_followers": 130726,
   "original_name": "Arsenico ",
   "owner": {
     "name": "Spotify",
@@ -399,22 +399,6 @@
     {
       "added_at": "2026-08-26 22:01:25",
       "album": {
-        "name": "Eclissi",
-        "url": "https://open.spotify.com/album/0VliboIrLzdC2Qgjdm5V4S"
-      },
-      "artists": [
-        {
-          "name": "Gemitaiz",
-          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
-        }
-      ],
-      "duration_ms": 186008,
-      "name": "Ciao Baby",
-      "url": "https://open.spotify.com/track/0tE8LYz08MdcV8UZUa1YVV"
-    },
-    {
-      "added_at": "2026-08-26 22:01:25",
-      "album": {
         "name": "4U EP",
         "url": "https://open.spotify.com/album/3AIwaSKtnuwwbdgHZeXcYm"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 186110,
       "name": "4U",
       "url": "https://open.spotify.com/track/5Ro2csr2lw3pEcGAlkuHVp"
+    },
+    {
+      "added_at": "2026-08-26 22:01:25",
+      "album": {
+        "name": "Eclissi",
+        "url": "https://open.spotify.com/album/0VliboIrLzdC2Qgjdm5V4S"
+      },
+      "artists": [
+        {
+          "name": "Gemitaiz",
+          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
+        }
+      ],
+      "duration_ms": 186008,
+      "name": "Ciao Baby",
+      "url": "https://open.spotify.com/track/0tE8LYz08MdcV8UZUa1YVV"
     },
     {
       "added_at": "2026-08-26 22:01:25",
@@ -787,22 +787,6 @@
     {
       "added_at": "2026-08-26 22:01:25",
       "album": {
-        "name": "100 MESSAGGI",
-        "url": "https://open.spotify.com/album/3XBD2ZHIvauc7k4MRQmS4N"
-      },
-      "artists": [
-        {
-          "name": "Lazza",
-          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
-        }
-      ],
-      "duration_ms": 244096,
-      "name": "100 MESSAGGI",
-      "url": "https://open.spotify.com/track/5bXgMzxuNymWhpwkgvYn4O"
-    },
-    {
-      "added_at": "2026-08-26 22:01:25",
-      "album": {
         "name": "Tutti i Nomi del Diavolo",
         "url": "https://open.spotify.com/album/5UIxxfAYiTSd9U7Iz5WwmQ"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 179072,
       "name": "Donna",
       "url": "https://open.spotify.com/track/5EeDZPNPIjEtEZsHMkX1m7"
+    },
+    {
+      "added_at": "2026-08-26 22:01:25",
+      "album": {
+        "name": "100 MESSAGGI",
+        "url": "https://open.spotify.com/album/3XBD2ZHIvauc7k4MRQmS4N"
+      },
+      "artists": [
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        }
+      ],
+      "duration_ms": 244096,
+      "name": "100 MESSAGGI",
+      "url": "https://open.spotify.com/track/5bXgMzxuNymWhpwkgvYn4O"
     },
     {
       "added_at": "2026-08-26 22:01:25",

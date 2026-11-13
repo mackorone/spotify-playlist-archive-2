@@ -1,12 +1,12 @@
 {
   "description": "This is Asake. The essential tracks, all in one playlist.",
-  "num_followers": 93397,
+  "num_followers": 93489,
   "original_name": "This Is Asake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avENAAAAAACUQk+14/A8avVP64ZTiJe1",
+  "snapshot_id": "avOwAAAAAAD0NwK4/qEUjSmn1fyxdp9B",
   "tracks": [
     {
       "added_at": null,
@@ -99,8 +99,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Work Of Art",
-        "url": "https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU"
+        "name": "Mr. Money With The Vibe",
+        "url": "https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI"
       },
       "artists": [
         {
@@ -108,9 +108,9 @@
           "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
         }
       ],
-      "duration_ms": 182142,
-      "name": "Remember",
-      "url": "https://open.spotify.com/track/0Q1bMs3xLQiDEeaneehdxv"
+      "duration_ms": 183829,
+      "name": "Nzaza",
+      "url": "https://open.spotify.com/track/0VjzaXw81JQJM61pzWwP8b"
     },
     {
       "added_at": null,
@@ -131,8 +131,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mr. Money With The Vibe",
-        "url": "https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI"
+        "name": "Work Of Art",
+        "url": "https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU"
       },
       "artists": [
         {
@@ -140,9 +140,9 @@
           "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
         }
       ],
-      "duration_ms": 183829,
-      "name": "Nzaza",
-      "url": "https://open.spotify.com/track/0VjzaXw81JQJM61pzWwP8b"
+      "duration_ms": 182142,
+      "name": "Remember",
+      "url": "https://open.spotify.com/track/0Q1bMs3xLQiDEeaneehdxv"
     },
     {
       "added_at": null,
@@ -444,9 +444,9 @@
           "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
         }
       ],
-      "duration_ms": 134482,
-      "name": "Basquiat",
-      "url": "https://open.spotify.com/track/2H0w7oYDjUvgsFlNQ5swIg"
+      "duration_ms": 145263,
+      "name": "I Believe",
+      "url": "https://open.spotify.com/track/4PKxskDMb62jvG5Li46vkH"
     },
     {
       "added_at": null,
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
         }
       ],
-      "duration_ms": 145263,
-      "name": "I Believe",
-      "url": "https://open.spotify.com/track/4PKxskDMb62jvG5Li46vkH"
+      "duration_ms": 134482,
+      "name": "Basquiat",
+      "url": "https://open.spotify.com/track/2H0w7oYDjUvgsFlNQ5swIg"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "\u6df1\u591c\u306e\u8aad\u66f8\u3001\u304a\u9152\u3092\u98f2\u307f\u306a\u304c\u3089\u30cd\u30c3\u30c8\u30b5\u30fc\u30d5\u30a3\u30f3 ....\u305d\u3093\u306a\u30ea\u30e9\u30c3\u30af\u30b9\u30bf\u30a4\u30e0\u306e\u304a\u4f9b\u306b\u3002",
-  "num_followers": 126938,
+  "num_followers": 126940,
   "original_name": "Midnight Chill",
   "owner": {
     "name": "Spotify",
@@ -273,22 +273,6 @@
       "url": "https://open.spotify.com/track/0sT7s0um30BUnwkErK8nlM"
     },
     {
-      "added_at": "2026-06-25 15:33:31",
-      "album": {
-        "name": "My Guy",
-        "url": "https://open.spotify.com/album/0x6tr75ApACgiGnraluC8t"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 230604,
-      "name": "My Guy",
-      "url": "https://open.spotify.com/track/3n6ytjkbhypwQsRMreKjyT"
-    },
-    {
       "added_at": "2026-06-12 13:48:34",
       "album": {
         "name": "Two Tens (feat. Anderson .Paak)",
@@ -307,6 +291,22 @@
       "duration_ms": 152371,
       "name": "Two Tens (feat. Anderson .Paak)",
       "url": "https://open.spotify.com/track/6clDsO8HwhHEgJDDp88VdL"
+    },
+    {
+      "added_at": "2026-06-25 15:33:31",
+      "album": {
+        "name": "My Guy",
+        "url": "https://open.spotify.com/album/0x6tr75ApACgiGnraluC8t"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 230604,
+      "name": "My Guy",
+      "url": "https://open.spotify.com/track/3n6ytjkbhypwQsRMreKjyT"
     },
     {
       "added_at": "2026-06-12 13:48:34",
@@ -525,24 +525,20 @@
       "url": "https://open.spotify.com/track/1AS9YdkPrxVhSYd0RpommY"
     },
     {
-      "added_at": "2026-06-12 13:48:34",
+      "added_at": "2026-11-06 09:54:19",
       "album": {
-        "name": "Sweet Nothings",
-        "url": "https://open.spotify.com/album/5fVUL0aJVlZd0u6PkJR4yE"
+        "name": "Way back to You",
+        "url": "https://open.spotify.com/album/70wK07yeUWeQiH9OnsjyTP"
       },
       "artists": [
         {
-          "name": "dublon",
-          "url": "https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD"
-        },
-        {
-          "name": "Deza",
-          "url": "https://open.spotify.com/artist/2HoaVzOMwwXNauX5cjdXwg"
+          "name": "Becky and the Birds",
+          "url": "https://open.spotify.com/artist/52MMXmgPC7kDNIYUxCeh8d"
         }
       ],
-      "duration_ms": 142926,
-      "name": "Sweet Nothings",
-      "url": "https://open.spotify.com/track/1xX614z6tmeEtKYU9eOyxH"
+      "duration_ms": 121533,
+      "name": "Way back to You",
+      "url": "https://open.spotify.com/track/5VxGvEGKHDw8AfoRqdfmcR"
     },
     {
       "added_at": "2026-07-31 05:16:07",
@@ -563,6 +559,26 @@
     {
       "added_at": "2026-06-12 13:48:34",
       "album": {
+        "name": "Sweet Nothings",
+        "url": "https://open.spotify.com/album/5fVUL0aJVlZd0u6PkJR4yE"
+      },
+      "artists": [
+        {
+          "name": "dublon",
+          "url": "https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD"
+        },
+        {
+          "name": "Deza",
+          "url": "https://open.spotify.com/artist/2HoaVzOMwwXNauX5cjdXwg"
+        }
+      ],
+      "duration_ms": 142926,
+      "name": "Sweet Nothings",
+      "url": "https://open.spotify.com/track/1xX614z6tmeEtKYU9eOyxH"
+    },
+    {
+      "added_at": "2026-06-12 13:48:34",
+      "album": {
         "name": "Celebrate",
         "url": "https://open.spotify.com/album/4qiEMrSLAIUn2zPrANiH2o"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 223443,
       "name": "Celebrate",
       "url": "https://open.spotify.com/track/0wDTskEQUKP63CjogXK6yc"
-    },
-    {
-      "added_at": "2026-11-06 09:54:19",
-      "album": {
-        "name": "Way back to You",
-        "url": "https://open.spotify.com/album/70wK07yeUWeQiH9OnsjyTP"
-      },
-      "artists": [
-        {
-          "name": "Becky and the Birds",
-          "url": "https://open.spotify.com/artist/52MMXmgPC7kDNIYUxCeh8d"
-        }
-      ],
-      "duration_ms": 121533,
-      "name": "Way back to You",
-      "url": "https://open.spotify.com/track/5VxGvEGKHDw8AfoRqdfmcR"
     },
     {
       "added_at": "2026-11-06 09:54:19",
@@ -745,22 +745,6 @@
       "url": "https://open.spotify.com/track/5yMT0cRoY8G9fbWOEJ2JOE"
     },
     {
-      "added_at": "2026-11-06 09:54:19",
-      "album": {
-        "name": "Puddle",
-        "url": "https://open.spotify.com/album/4jlBjrMWKu1EapkaLUno4X"
-      },
-      "artists": [
-        {
-          "name": "Murex",
-          "url": "https://open.spotify.com/artist/3v73yV0xtIge5cSlUF0Dby"
-        }
-      ],
-      "duration_ms": 117489,
-      "name": "Puddle",
-      "url": "https://open.spotify.com/track/60mjdFiBFsUenV1XYT0yTL"
-    },
-    {
       "added_at": "2026-06-12 13:48:34",
       "album": {
         "name": "A Dawning",
@@ -779,6 +763,22 @@
       "duration_ms": 240197,
       "name": "A Dawning",
       "url": "https://open.spotify.com/track/373lcOHga6YNmZRbqycxFe"
+    },
+    {
+      "added_at": "2026-11-06 09:54:19",
+      "album": {
+        "name": "Puddle",
+        "url": "https://open.spotify.com/album/4jlBjrMWKu1EapkaLUno4X"
+      },
+      "artists": [
+        {
+          "name": "Murex",
+          "url": "https://open.spotify.com/artist/3v73yV0xtIge5cSlUF0Dby"
+        }
+      ],
+      "duration_ms": 117489,
+      "name": "Puddle",
+      "url": "https://open.spotify.com/track/60mjdFiBFsUenV1XYT0yTL"
     },
     {
       "added_at": "2026-06-12 13:48:34",
@@ -929,22 +929,6 @@
       "url": "https://open.spotify.com/track/63c44noYGmbnelCK4rwyGf"
     },
     {
-      "added_at": "2026-06-12 13:48:34",
-      "album": {
-        "name": "Loved",
-        "url": "https://open.spotify.com/album/7z0gdOZRbERZSAq50rassb"
-      },
-      "artists": [
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        }
-      ],
-      "duration_ms": 243263,
-      "name": "Loved",
-      "url": "https://open.spotify.com/track/6fUo4GlD0FbvXNTylA4o68"
-    },
-    {
       "added_at": "2026-11-06 09:54:19",
       "album": {
         "name": "LongTime",
@@ -959,6 +943,22 @@
       "duration_ms": 211714,
       "name": "LongTime",
       "url": "https://open.spotify.com/track/4npxGodAWNwUlfGhHFt617"
+    },
+    {
+      "added_at": "2026-06-12 13:48:34",
+      "album": {
+        "name": "Loved",
+        "url": "https://open.spotify.com/album/7z0gdOZRbERZSAq50rassb"
+      },
+      "artists": [
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "duration_ms": 243263,
+      "name": "Loved",
+      "url": "https://open.spotify.com/track/6fUo4GlD0FbvXNTylA4o68"
     },
     {
       "added_at": "2026-06-12 13:48:34",

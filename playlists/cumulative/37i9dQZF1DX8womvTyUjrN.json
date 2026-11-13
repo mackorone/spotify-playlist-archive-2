@@ -6590,7 +6590,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 165786,
       "name": "Detective",
       "url": "https://open.spotify.com/track/1nGJNFmJ2h6uG7XPoKw97K"
@@ -13232,7 +13232,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 161300,
       "name": "los mismos",
       "url": "https://open.spotify.com/track/49ASTjrn5GshpsttKeCRSI"
@@ -14163,6 +14163,46 @@
     },
     {
       "album": {
+        "name": "me cuidas!",
+        "url": "https://open.spotify.com/album/5clxHG7ty01B6ZS2Vdy0uH"
+      },
+      "artists": [
+        {
+          "name": "Nina",
+          "url": "https://open.spotify.com/artist/1m2sKm6i2WIAvWxRrqunWt"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "me cuidas!",
+      "url": "https://open.spotify.com/track/4Qo3BGa95WkK0wEssoM15X"
+    },
+    {
+      "album": {
+        "name": "me declaro ENAMORADA",
+        "url": "https://open.spotify.com/album/0cKnUfNPHretD3vCX1oMCd"
+      },
+      "artists": [
+        {
+          "name": "Augusta",
+          "url": "https://open.spotify.com/artist/3P3G72tivP1qj26XymKjLB"
+        },
+        {
+          "name": "ABRL",
+          "url": "https://open.spotify.com/artist/34gZHRoHXDq8RR9p0koUbk"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207049,
+      "name": "me declaro ENAMORADA",
+      "url": "https://open.spotify.com/track/6uO25AtfwzT3uSNIDEeLR5"
+    },
+    {
+      "album": {
         "name": "Me Encantar\u00eda",
         "url": "https://open.spotify.com/album/6fnWWfMSRAztQvuJTAfmlw"
       },
@@ -14934,6 +14974,24 @@
       "duration_ms": 175280,
       "name": "mientras pueDa",
       "url": "https://open.spotify.com/track/7ELYHzcSOCDrdQTJaXH5bU"
+    },
+    {
+      "album": {
+        "name": "Bienvenida de Soltera",
+        "url": "https://open.spotify.com/album/1Y6KmzdMpcO4l9KLRHzNiE"
+      },
+      "artists": [
+        {
+          "name": "Yami Safdie",
+          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155171,
+      "name": "Migajas",
+      "url": "https://open.spotify.com/track/6X0xjArooU3ErLHpJAhx7w"
     },
     {
       "album": {
@@ -16124,7 +16182,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 142677,
       "name": "No es tu estilo",
       "url": "https://open.spotify.com/track/5RikicLu1IWphJ0y6BadSE"
@@ -16952,6 +17010,28 @@
       "duration_ms": 192507,
       "name": "NOW",
       "url": "https://open.spotify.com/track/5gJuYaon5zaZahQyAd0LVx"
+    },
+    {
+      "album": {
+        "name": "Nuestra calle (Verano del 76)",
+        "url": "https://open.spotify.com/album/0rHWmVAUKGGtG9k5g8vj2I"
+      },
+      "artists": [
+        {
+          "name": "Gaby Noya",
+          "url": "https://open.spotify.com/artist/7M0MRF7kyp2NTq5DssSbRX"
+        },
+        {
+          "name": "LAGOS",
+          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181752,
+      "name": "Nuestra calle (Verano del 76)",
+      "url": "https://open.spotify.com/track/7o6jkEuVDe3zWPy2TJM5cU"
     },
     {
       "album": {
@@ -18140,6 +18220,24 @@
       "duration_ms": 224835,
       "name": "Patadas de Ahogado",
       "url": "https://open.spotify.com/track/4WefXOf8I4gMjdj2kBJgkl"
+    },
+    {
+      "album": {
+        "name": "PA\u2019 QUE TE OLVIDES DE ELLA",
+        "url": "https://open.spotify.com/album/1T5Qz3iW3hifxRAAPBFROd"
+      },
+      "artists": [
+        {
+          "name": "Sam Eli",
+          "url": "https://open.spotify.com/artist/5aCYTJsL6VosOwnCkxYRaG"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147392,
+      "name": "PA\u2019 QUE TE OLVIDES DE ELLA",
+      "url": "https://open.spotify.com/track/7g4VaDXjoWnd9DtJCmiemd"
     },
     {
       "album": {
@@ -21124,7 +21222,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 170013,
       "name": "Segunda Cita",
       "url": "https://open.spotify.com/track/0M4EZodLBU7pomErJ9hD5W"
@@ -21356,7 +21454,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 177829,
       "name": "si la ves",
       "url": "https://open.spotify.com/track/7jZepEMIwqWvnB9YFDJqCt"
@@ -22350,7 +22448,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 168712,
       "name": "SUPER INTENSO (with Hamilton)",
       "url": "https://open.spotify.com/track/6mNe3iEDfjHYS5tvTVFikv"
@@ -22386,7 +22484,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 175798,
       "name": "superstar",
       "url": "https://open.spotify.com/track/3R6AF7X5xaJOce04wRvV4c"
@@ -23488,6 +23586,24 @@
       "duration_ms": 211653,
       "name": "todo y nada",
       "url": "https://open.spotify.com/track/7Dj6drRthSTvR787ejc4eI"
+    },
+    {
+      "album": {
+        "name": "todonada",
+        "url": "https://open.spotify.com/album/33yQR3TBbRe4XSalCTCVNd"
+      },
+      "artists": [
+        {
+          "name": "Baskiat",
+          "url": "https://open.spotify.com/artist/72L1NTsOwE8ZZ6kxll4UwU"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217687,
+      "name": "todonada",
+      "url": "https://open.spotify.com/track/5LzKeL96VPG5PKANwKZyaM"
     },
     {
       "album": {
@@ -24624,6 +24740,24 @@
       "duration_ms": 158400,
       "name": "UNA CANCI\u00d3N BONITA",
       "url": "https://open.spotify.com/track/4F61wQFYLXKdqwSSIJYEzA"
+    },
+    {
+      "album": {
+        "name": "una en un mill\u00f3n . . & te qued\u00f3 grande [v13 xii] . -",
+        "url": "https://open.spotify.com/album/5WV8k3KiC0QuUuR70gwESF"
+      },
+      "artists": [
+        {
+          "name": "Alex Ponce",
+          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180944,
+      "name": "una en un mill\u00f3n . .",
+      "url": "https://open.spotify.com/track/62R3iw59IeKbl2VbFR2mzp"
     },
     {
       "album": {

@@ -7877,6 +7877,24 @@
     },
     {
       "album": {
+        "name": "I'll Die Happily",
+        "url": "https://open.spotify.com/album/1cZim98guoUVCwT4RRguae"
+      },
+      "artists": [
+        {
+          "name": "martta",
+          "url": "https://open.spotify.com/artist/0MiaKVPx1j2fJr4A37YhLW"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169574,
+      "name": "I'll Die Happily",
+      "url": "https://open.spotify.com/track/3GbtxhWAT8NltZsd2THDEq"
+    },
+    {
+      "album": {
         "name": "I'M A GREAT DAY",
         "url": "https://open.spotify.com/album/0Nzxfeb85vGezniAlYMMK9"
       },
@@ -9474,7 +9492,7 @@
       ],
       "date_added": "2026-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 136363,
       "name": "Kaiken j\u00e4lkeen",
       "url": "https://open.spotify.com/track/6jbhYjhVLE8mToSQeNatJo"
@@ -13735,6 +13753,24 @@
     },
     {
       "album": {
+        "name": "Monumentti",
+        "url": "https://open.spotify.com/album/3FGHPCX492BVAK7SKN2LSF"
+      },
+      "artists": [
+        {
+          "name": "Lyyti",
+          "url": "https://open.spotify.com/artist/1thzcI6KSWuEdFD35WJTtE"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237906,
+      "name": "Monumentti",
+      "url": "https://open.spotify.com/track/0WCLWNGw1uABf2TbHbMjWF"
+    },
+    {
+      "album": {
         "name": "Moonlit Floor",
         "url": "https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb"
       },
@@ -14090,7 +14126,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 213961,
       "name": "Mustikkamaa",
       "url": "https://open.spotify.com/track/3T0WQKTqMhe7RnA3m0im20"
@@ -14270,6 +14306,24 @@
       "duration_ms": 187196,
       "name": "My\u00f6t\u00e4virta (feat. Kojo & Shabu)",
       "url": "https://open.spotify.com/track/3OdKGNIndt3A6pfaF7BLAi"
+    },
+    {
+      "album": {
+        "name": "M\u00e4 en oo sun \u00e4iti",
+        "url": "https://open.spotify.com/album/6iwcrOKv774e5wmuK9YCpz"
+      },
+      "artists": [
+        {
+          "name": "Raama",
+          "url": "https://open.spotify.com/artist/20kmSFD8zNsPmiKMfGgIWb"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "M\u00e4 en oo sun \u00e4iti",
+      "url": "https://open.spotify.com/track/6HARhsjs6YGymmboAl9q6C"
     },
     {
       "album": {
@@ -14546,6 +14600,24 @@
       "duration_ms": 170021,
       "name": "Ne oli v\u00e4\u00e4r\u00e4s (feat. Turisti)",
       "url": "https://open.spotify.com/track/4n6PzDyWGkjAVRl74aR8Pb"
+    },
+    {
+      "album": {
+        "name": "Ne varotti sust",
+        "url": "https://open.spotify.com/album/00TGvsQ0bSLkwPmS1H9swK"
+      },
+      "artists": [
+        {
+          "name": "jambo",
+          "url": "https://open.spotify.com/artist/1fy2OEMI7TX9ayBKxErHK0"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177194,
+      "name": "Ne varotti sust",
+      "url": "https://open.spotify.com/track/0Rsg1WnJl00aU9AcgvmnxF"
     },
     {
       "album": {
@@ -16620,7 +16692,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 213934,
       "name": "Pilvenpiirt\u00e4j\u00e4t",
       "url": "https://open.spotify.com/track/73I9BEWL543fECv8svC4Ag"
@@ -24424,7 +24496,7 @@
       ],
       "date_added": "2026-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 167817,
       "name": "V\u00e4lil sataa",
       "url": "https://open.spotify.com/track/13Q8WZAv9ZmMpiCga8DfE3"

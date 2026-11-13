@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPHCzPqDlCiW.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1c2S9zEjadnB6Mt2aOOLWn">Ollie Green</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 250 likes - 173 songs - 9 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 250 likes - 174 songs - 9 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,8 +117,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPHCzPqDlCiW.md) - [plain]
 | 107 | [strangers](https://open.spotify.com/track/6ErwR2KyOsB0xc4oYFMPkW) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [bleeding heart](https://open.spotify.com/album/53eFX3b6OFPpKi2SEkS0au) | 2:21 |
 | 108 | [Hummingbird \(feat\. Sophie Ellis\-Bextor\)](https://open.spotify.com/track/4XrpyLKVB7uR1yKE0BxQkc) | [LCAW](https://open.spotify.com/artist/7FOb8fwCcjHjKlIlEZk6go), [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Hummingbird \(feat\. Sophie Ellis\-Bextor\)](https://open.spotify.com/album/4mmqfJbRk0NG7OG7cHdGbf) | 2:49 |
 | 109 | [Running](https://open.spotify.com/track/1QIfgOhKg7jb6WbkO4IwFa) | [St\. Lundi](https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH) | [The Island](https://open.spotify.com/album/1sDwclBLUytS3yXeelFMK9) | 2:59 |
-| 110 | [Cool](https://open.spotify.com/track/6GG1su1AVOh39Na8QPqI2B) | [Sarah Close](https://open.spotify.com/artist/5nQybVOGIy5TZ1XK9CaDiS) | [And Now, We're Shining](https://open.spotify.com/album/6hsl8s8m3Le812hnQfrNAv) | 2:57 |
-| 111 | [I'll Be There](https://open.spotify.com/track/3nyrxDcwSokcKwOwibd2CF) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Aya Anne](https://open.spotify.com/artist/5PbxcgpYKbG22qd9c3LNC1) | [Everything, Briefly](https://open.spotify.com/album/6GYAe3bD7bu5a5puqAlcFf) | 2:36 |
+| 110 | [I'll Be There](https://open.spotify.com/track/3nyrxDcwSokcKwOwibd2CF) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Aya Anne](https://open.spotify.com/artist/5PbxcgpYKbG22qd9c3LNC1) | [Everything, Briefly](https://open.spotify.com/album/6GYAe3bD7bu5a5puqAlcFf) | 2:36 |
+| 111 | [Cool](https://open.spotify.com/track/6GG1su1AVOh39Na8QPqI2B) | [Sarah Close](https://open.spotify.com/artist/5nQybVOGIy5TZ1XK9CaDiS) | [And Now, We're Shining](https://open.spotify.com/album/6hsl8s8m3Le812hnQfrNAv) | 2:57 |
 | 112 | [Hard Not to Love You](https://open.spotify.com/track/5c05lHYIIUXwlZ3Qx6ZbtQ) | [Zola Courtney](https://open.spotify.com/artist/11lgCVODZLjSSBl1oSke9J) | [All at Once](https://open.spotify.com/album/1C3KmjfI3oZjfPZGyYAk5X) | 3:46 |
 | 113 | [The Side I Never Show](https://open.spotify.com/track/4o4QUsLfstZmPoq39R7SJD) | [Jack Curley](https://open.spotify.com/artist/1Unwe9Xco0JDlTTwpDVrcK) | [My Heart Can't Take the Music](https://open.spotify.com/album/6HXA21x7DwmcMOvbYcRzir) | 3:48 |
 | 114 | [Can't Speak \(feat\. Stealth\)](https://open.spotify.com/track/3aHLWrR5KpluBeRn9vKCHY) | [Netsky](https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP), [Metrik](https://open.spotify.com/artist/2NCEtX40i9lLNpTg2X5583), [Stealth](https://open.spotify.com/artist/6f3R3mqKR3kHp1KBNMUn80) | [Can't Speak \(feat\. Stealth\)](https://open.spotify.com/album/4bFKoubGC6thZpjFgqMeCA) | 4:13 |
@@ -178,8 +178,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPHCzPqDlCiW.md) - [plain]
 | 168 | [Heaven On Earth](https://open.spotify.com/track/24HlnYyyZInP1skFKqVqsl) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [The Way I Love You](https://open.spotify.com/album/4edayUkEhvvjFQF2DRmlse) | 3:14 |
 | 169 | [Enlightened](https://open.spotify.com/track/2gHOYkfncsID7v89HU7wpc) | [Mark McCabe](https://open.spotify.com/artist/7b7fZRv3EYhFgWYJR3yjXn) | [Enlightened](https://open.spotify.com/album/2wrvR3grhGvyoywz20XRmC) | 3:08 |
 | 170 | [Walk Away](https://open.spotify.com/track/40COlkwjf7rVerBqzNYFOj) | [Kingsland Road](https://open.spotify.com/artist/5z3iTZIRcqy0MyPQY9vEZG) | [We Are the Young](https://open.spotify.com/album/7lSQAPah3kFTIYiUNUAKw4) | 3:47 |
-| 171 | [Blame Myself](https://open.spotify.com/track/0pd0n1og6VABJdjoDdvP2R) | [Jalle](https://open.spotify.com/artist/3NiL0OfaA5v0eK59rJgAvB) | [I’m Sorry](https://open.spotify.com/album/1qm7E3fh18mC8VyagVrdVS) | 3:15 |
-| 172 | [Cry Baby](https://open.spotify.com/track/6CUhst2FN306kgbPZRDMlX) | [Vize Verza](https://open.spotify.com/artist/7866WqAIb0XvXRlRPTUCir) | [Cry Baby](https://open.spotify.com/album/3qw9vLNZSZVp0nspvfnYMQ) | 2:54 |
-| 173 | [Mother](https://open.spotify.com/track/6w0UT19dw0IRWtLMQyn1Sq) | [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [Mother](https://open.spotify.com/album/3PzaUA5NnjrDsDECx5tcSe) | 3:19 |
+| 171 | [Million Nights](https://open.spotify.com/track/5XaHxpg5B86KQRRZPdzODQ) | [Joris Sava](https://open.spotify.com/artist/7M7NxBEoOEg35yqUyLRTgT), [Stephen Puth](https://open.spotify.com/artist/6B72wjgAkhvxTVCL6xS6mC) | [Million Nights](https://open.spotify.com/album/5oH8MgoGiLtGifHR48I4IN) | 2:05 |
+| 172 | [Blame Myself](https://open.spotify.com/track/0pd0n1og6VABJdjoDdvP2R) | [Jalle](https://open.spotify.com/artist/3NiL0OfaA5v0eK59rJgAvB) | [I’m Sorry](https://open.spotify.com/album/1qm7E3fh18mC8VyagVrdVS) | 3:15 |
+| 173 | [Cry Baby](https://open.spotify.com/track/6CUhst2FN306kgbPZRDMlX) | [Vize Verza](https://open.spotify.com/artist/7866WqAIb0XvXRlRPTUCir) | [Cry Baby](https://open.spotify.com/album/3qw9vLNZSZVp0nspvfnYMQ) | 2:54 |
+| 174 | [Mother](https://open.spotify.com/track/6w0UT19dw0IRWtLMQyn1Sq) | [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [Mother](https://open.spotify.com/album/3PzaUA5NnjrDsDECx5tcSe) | 3:19 |
 
-Snapshot ID: `AchbMAAAAAAlyvl+EWFe2x7R+arXH4Lz`
+Snapshot ID: `AchglAAAAADTAbDYvhY2U7b6486p4AQE`

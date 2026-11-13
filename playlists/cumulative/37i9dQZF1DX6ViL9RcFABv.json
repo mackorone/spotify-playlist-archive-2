@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Uma playlist de pura alma pop! Foto: SYRO",
+  "description": "Uma playlist de pura alma pop! Foto: Jo\u00e3o S\u00f3, Tiago Nogueira",
   "name": "Pop PT",
   "tracks": [
     {
@@ -6314,7 +6314,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 227142,
       "name": "Meio da Roda",
       "url": "https://open.spotify.com/track/7E0NUC98gUAg7M6LHtVsQa"
@@ -6740,6 +6740,24 @@
       "duration_ms": 166813,
       "name": "Mulher dos teus sonhos (2 Pares de Botas)",
       "url": "https://open.spotify.com/track/1Mb0AmcqnwconT7HAcH9Th"
+    },
+    {
+      "album": {
+        "name": "PARA FALAR DE AMOR",
+        "url": "https://open.spotify.com/album/6xNHF2DxjMK2pdQP2Gtnma"
+      },
+      "artists": [
+        {
+          "name": "David Carreira",
+          "url": "https://open.spotify.com/artist/6tIIe4TjUAUBgebA9j53ch"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144924,
+      "name": "MULHER, TU \u00c9S (INTRO)",
+      "url": "https://open.spotify.com/track/2ohHjp1Ss8ilyVFgTRMalX"
     },
     {
       "album": {
@@ -10701,6 +10719,28 @@
     },
     {
       "album": {
+        "name": "S\u00f3 Meio Disco",
+        "url": "https://open.spotify.com/album/0UlcJI1JPgzrx4jdTbpwc4"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o S\u00f3",
+          "url": "https://open.spotify.com/artist/3iDVVJyqrMCzLkV5s4x1he"
+        },
+        {
+          "name": "Tiago Nogueira",
+          "url": "https://open.spotify.com/artist/4eGX5Ukp5TPGJGYVmC91UF"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211024,
+      "name": "S\u00f3 Sei Desarrumar",
+      "url": "https://open.spotify.com/track/5H83yG6Ejggt6KMspkStOZ"
+    },
+    {
+      "album": {
         "name": "S\u00f3t\u00e3o dos Porqu\u00eas",
         "url": "https://open.spotify.com/album/6eggTVxskSQRS8QkZHjmf4"
       },
@@ -11184,7 +11224,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 149702,
       "name": "Trata Bem Dela",
       "url": "https://open.spotify.com/track/4FFYBy5h6JPia0XCDVHCDF"

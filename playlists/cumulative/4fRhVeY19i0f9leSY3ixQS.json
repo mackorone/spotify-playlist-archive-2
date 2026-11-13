@@ -928,7 +928,7 @@
       ],
       "date_added": "2026-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-15",
+      "date_removed": null,
       "duration_ms": 201053,
       "name": "Addict",
       "url": "https://open.spotify.com/track/4SDYXj45uDJIUggF0YfVti"
@@ -2106,6 +2106,24 @@
       "duration_ms": 165202,
       "name": "Angelina",
       "url": "https://open.spotify.com/track/0N68KyW2UKZYS71W3zwiXn"
+    },
+    {
+      "album": {
+        "name": "Angels",
+        "url": "https://open.spotify.com/album/1aRvomSaVcDrwDjCPledln"
+      },
+      "artists": [
+        {
+          "name": "Hometown Heroes",
+          "url": "https://open.spotify.com/artist/17A1WgZIfiDOqun0SS1CnA"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173757,
+      "name": "Angels",
+      "url": "https://open.spotify.com/track/2csxye29sN5pFAv1mBM35c"
     },
     {
       "album": {
@@ -4684,6 +4702,24 @@
       "duration_ms": 225340,
       "name": "Black Sheep",
       "url": "https://open.spotify.com/track/5aGNt4QLLBrg1eLd2932FT"
+    },
+    {
+      "album": {
+        "name": "Black Velvet",
+        "url": "https://open.spotify.com/album/3RgqOgUJfOBn4ggBHj8jTN"
+      },
+      "artists": [
+        {
+          "name": "Digital Drvgs",
+          "url": "https://open.spotify.com/artist/03FGSJacyW0TvhESTfz70l"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189374,
+      "name": "Black Velvet",
+      "url": "https://open.spotify.com/track/0sbX8R8E2H5wOTg7oK405g"
     },
     {
       "album": {
@@ -9181,6 +9217,24 @@
     },
     {
       "album": {
+        "name": "Coyote",
+        "url": "https://open.spotify.com/album/5zzh9DoRlDZL9YzJ1cdskD"
+      },
+      "artists": [
+        {
+          "name": "Duncan Ewart",
+          "url": "https://open.spotify.com/artist/1kuKLnTlwajdHLG2Jz68B9"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183436,
+      "name": "Coyote",
+      "url": "https://open.spotify.com/track/3qFDLqpYqNelxumEaCimD8"
+    },
+    {
+      "album": {
         "name": "CRASH",
         "url": "https://open.spotify.com/album/2TAGi329IWIRtI36TVSah9"
       },
@@ -13104,7 +13158,7 @@
       ],
       "date_added": "2026-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 129039,
       "name": "Eeny meeny miny mo",
       "url": "https://open.spotify.com/track/1TuUs7W5E6RBxYKTIHb9pI"
@@ -13364,6 +13418,24 @@
       "duration_ms": 235333,
       "name": "Emergency Feeler",
       "url": "https://open.spotify.com/track/1BLDoUldMKyumDsKTFfqvH"
+    },
+    {
+      "album": {
+        "name": "FINITE.",
+        "url": "https://open.spotify.com/album/7j6xnlQ3ncDpjij50BU0gs"
+      },
+      "artists": [
+        {
+          "name": "Sky Is Alright",
+          "url": "https://open.spotify.com/artist/0ZE8qxTiN6A9FKeUfgi9w3"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223386,
+      "name": "Emily's Star",
+      "url": "https://open.spotify.com/track/6EWibO9lEbCPciA2U9oLyB"
     },
     {
       "album": {
@@ -14936,6 +15008,28 @@
       "duration_ms": 202000,
       "name": "Feral Lane",
       "url": "https://open.spotify.com/track/43ve0SDtFW96YcHCYIv4Bd"
+    },
+    {
+      "album": {
+        "name": "Mind Wars",
+        "url": "https://open.spotify.com/album/17EqSfaXDN2fW2Joka49Dx"
+      },
+      "artists": [
+        {
+          "name": "Johnny Renick",
+          "url": "https://open.spotify.com/artist/0SZUezDsxA4JItYLb5rOgG"
+        },
+        {
+          "name": "Kevin Fey",
+          "url": "https://open.spotify.com/artist/7u1EoPTNK0sUPjIdJqbYB7"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125500,
+      "name": "Ferret Fist Fight",
+      "url": "https://open.spotify.com/track/26H8VKTnt0eTgd2QV8PWFt"
     },
     {
       "album": {
@@ -20771,6 +20865,24 @@
     },
     {
       "album": {
+        "name": "I Want To See Your Bunny",
+        "url": "https://open.spotify.com/album/3j1g0S1vFB13KDG592q6nB"
+      },
+      "artists": [
+        {
+          "name": "Fraud Byron",
+          "url": "https://open.spotify.com/artist/4URqxPLQOwaOlODsj3v8js"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132360,
+      "name": "I Want To See Your Bunny",
+      "url": "https://open.spotify.com/track/2uSexYsTdB4jXSWUxoyAmQ"
+    },
+    {
+      "album": {
         "name": "I Will Catch You If You Fall",
         "url": "https://open.spotify.com/album/5D8riB6Fjv2TYoqprcmrr3"
       },
@@ -21312,6 +21424,24 @@
       "duration_ms": 199587,
       "name": "IDLU",
       "url": "https://open.spotify.com/track/2ejlWsRx89pU3A38vjhWPU"
+    },
+    {
+      "album": {
+        "name": "If I Had A Gun",
+        "url": "https://open.spotify.com/album/6AAhOXjK9bF0xTZd2Xccl7"
+      },
+      "artists": [
+        {
+          "name": "Common Crime",
+          "url": "https://open.spotify.com/artist/4Iyk2Cb44wu8Ty0Xa4hg2E"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143908,
+      "name": "If I Had A Gun",
+      "url": "https://open.spotify.com/track/3zaJXNf19NrnzOVOFEXTYF"
     },
     {
       "album": {
@@ -23592,7 +23722,7 @@
       ],
       "date_added": "2026-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 170069,
       "name": "Komodo Dragon",
       "url": "https://open.spotify.com/track/0NIW93d1Menw1Nk5ujVYkA"
@@ -24460,7 +24590,7 @@
       ],
       "date_added": "2026-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 220941,
       "name": "Light Work",
       "url": "https://open.spotify.com/track/2q0CYpxmvZeXG3UBlNHeEk"
@@ -29167,6 +29297,24 @@
     },
     {
       "album": {
+        "name": "NINE EYES",
+        "url": "https://open.spotify.com/album/6nbDkJGCDYVNeU4cPF1wz5"
+      },
+      "artists": [
+        {
+          "name": "Black Budget",
+          "url": "https://open.spotify.com/artist/0exxtkY3sFR6zxeRnpA1ll"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150147,
+      "name": "NINE EYES",
+      "url": "https://open.spotify.com/track/6ZXGDt0pWfiaFrReGRIcXb"
+    },
+    {
+      "album": {
         "name": "Worst Case",
         "url": "https://open.spotify.com/album/7544hbgFHTtoFnRtlHSNzN"
       },
@@ -31889,6 +32037,24 @@
     },
     {
       "album": {
+        "name": "Side Effects",
+        "url": "https://open.spotify.com/album/0PYPQIoliDiwaudhnR101y"
+      },
+      "artists": [
+        {
+          "name": "Portrait Generation",
+          "url": "https://open.spotify.com/artist/5CFXzbHRbVvzJdVYFWbIkO"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222250,
+      "name": "Pathway To Pleasure",
+      "url": "https://open.spotify.com/track/12y8NUUeROeSdeiCJo0jO2"
+    },
+    {
+      "album": {
         "name": "Patience",
         "url": "https://open.spotify.com/album/0k3NxZeSwzilNQRiYjcpTI"
       },
@@ -32452,6 +32618,24 @@
       "duration_ms": 178905,
       "name": "Piras",
       "url": "https://open.spotify.com/track/1zfvzrHSoyScG5H9tWhpY9"
+    },
+    {
+      "album": {
+        "name": "PIRATENSCHIFF",
+        "url": "https://open.spotify.com/album/7aqHY1uAZFhkgIA8DvdZQC"
+      },
+      "artists": [
+        {
+          "name": "RCOBA DOPPEL Z",
+          "url": "https://open.spotify.com/artist/5ur2H1DLeQdQHndjBmvxMQ"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144360,
+      "name": "PIRATENSCHIFF",
+      "url": "https://open.spotify.com/track/3djz1y3lcxuSgypFDBTHIS"
     },
     {
       "album": {
@@ -37101,6 +37285,24 @@
     },
     {
       "album": {
+        "name": "shiver out",
+        "url": "https://open.spotify.com/album/0sXzwI72kpCHmziBJyEzM1"
+      },
+      "artists": [
+        {
+          "name": "this will confuse you",
+          "url": "https://open.spotify.com/artist/46p1lv0nox8DknfOkVSkCv"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237089,
+      "name": "shiver out",
+      "url": "https://open.spotify.com/track/4HqpMctFhfKM2zlGf9ezDU"
+    },
+    {
+      "album": {
         "name": "High Tension Frequency",
         "url": "https://open.spotify.com/album/2AJN22QbnaEo8ElRquJhsU"
       },
@@ -41339,6 +41541,24 @@
     },
     {
       "album": {
+        "name": "Te las tragas todas",
+        "url": "https://open.spotify.com/album/1ba4ALL5qnrBt5vw3bPXaS"
+      },
+      "artists": [
+        {
+          "name": "TOXO",
+          "url": "https://open.spotify.com/artist/3pjl5zDov3CSOVIEncx0G0"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178974,
+      "name": "Te las tragas todas",
+      "url": "https://open.spotify.com/track/2fv5Jt3u4eBgGPBDnMkyEo"
+    },
+    {
+      "album": {
         "name": "tear you \u00f8ut my heart",
         "url": "https://open.spotify.com/album/7rMrfkjJ5oo70HbYWgr28f"
       },
@@ -42140,7 +42360,7 @@
       ],
       "date_added": "2026-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 180932,
       "name": "The Crimson Room",
       "url": "https://open.spotify.com/track/4gtp5buUYq9g3SPVmoRO3F"
@@ -43478,7 +43698,7 @@
       ],
       "date_added": "2026-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 192897,
       "name": "The Riff But Slower",
       "url": "https://open.spotify.com/track/3uojZakKlUSV9wNOMOz5ij"
@@ -45060,6 +45280,24 @@
       "duration_ms": 157300,
       "name": "TRA LE NOSTRE CENERI",
       "url": "https://open.spotify.com/track/3TJYm2DhKsjBwYRd3Itcb7"
+    },
+    {
+      "album": {
+        "name": "Traces",
+        "url": "https://open.spotify.com/album/5tt1JAZhIzFrBXdvW6Uhap"
+      },
+      "artists": [
+        {
+          "name": "Erranimo",
+          "url": "https://open.spotify.com/artist/1CTebtKxha96fsCwE43qI2"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247500,
+      "name": "Traces",
+      "url": "https://open.spotify.com/track/0e5M1dPwBapuUk4sR4LMYd"
     },
     {
       "album": {

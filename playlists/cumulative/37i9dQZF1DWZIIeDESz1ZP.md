@@ -4,7 +4,7 @@
 
 > Slow down and enjoy\. Music videos only available on Premium.
 
-36 songs - 1 hr 46 min
+37 songs - 1 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,8 @@
 | [Me Lo Merezco \(Live From Los Ángeles\)](https://open.spotify.com/track/4IEmRObLMwgK7oFpSgaRS5) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Me Lo Merezco \(Live From Los Ángeles\)](https://open.spotify.com/album/2qnCxHMQku9nCrOQZyuwb0) | 3:16 | 2026-10-14 |  |
 | [Natural](https://open.spotify.com/track/3TjJq3dLUien8DfEpxr52i) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Instrucciones Para Ser Feliz](https://open.spotify.com/album/3ZtTmeeKnDUWqlQRMmjUtV) | 2:59 | 2026-10-14 |  |
 | [No es tu estilo](https://open.spotify.com/track/5RikicLu1IWphJ0y6BadSE) | [LOCKWARD](https://open.spotify.com/artist/52IDIMrGNbCUkHrpkf0F8y), [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [No es tu estilo](https://open.spotify.com/album/6n2DgWN6TftYJKGNcBPW1G) | 2:22 | 2026-10-14 |  |
-| [No Tengo Remedio](https://open.spotify.com/track/2R6VN8srZYSecU20Un9Nni) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [No Tengo Remedio](https://open.spotify.com/album/0DM3TZ2kLXKPCpfAgMk49F) | 3:09 | 2026-10-14 |  |
+| [No Tengo Remedio](https://open.spotify.com/track/2R6VN8srZYSecU20Un9Nni) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [No Tengo Remedio](https://open.spotify.com/album/0DM3TZ2kLXKPCpfAgMk49F) | 3:09 | 2026-10-14 | 2026-11-13 |
+| [No Tengo Remedio \- En Vivo en Casa Spotify](https://open.spotify.com/track/48OBvoamhz47ZmLX5nkIeE) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [No Tengo Remedio \(En Vivo en Casa Spotify\)](https://open.spotify.com/album/07weXrV0TrCeHGHgRPN3iE) | 3:27 | 2026-11-12 |  |
 | [Ola <3](https://open.spotify.com/track/3dz8m6YV4kyQGsMpZOZwJF) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Enayy](https://open.spotify.com/artist/6NxJgAQlIO7Tgs0AKGkMXZ) | [Ola <3](https://open.spotify.com/album/5QaOre1ZyTW0MrocZByawc) | 2:28 | 2026-10-14 |  |
 | [penso en voce](https://open.spotify.com/track/6MRzvONHsxqcDMlFImvPow) | [Sparklmami](https://open.spotify.com/artist/50NGgQQCV0QLrOefzyuNh0) | [in this body](https://open.spotify.com/album/6haYphkZdT3j3DvhWcAemW) | 2:36 | 2026-10-14 |  |
 | [Quiéreme así](https://open.spotify.com/track/59ZGZeD9krTAmIiXZtoHGZ) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [Quiéreme así](https://open.spotify.com/album/0t6yHJC5VBXAbc5KY6Wprl) | 3:31 | 2026-10-14 |  |

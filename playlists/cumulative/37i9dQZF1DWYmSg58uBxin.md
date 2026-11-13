@@ -4,7 +4,7 @@
 
 > Soothing piano and strings to help you concentrate.
 
-346 songs - 15 hr 39 min
+348 songs - 15 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Always Near](https://open.spotify.com/track/5XvcvUJf7fusfqLk7peZ4k) | [Matteus Fortini](https://open.spotify.com/artist/6DSyvYPVE5NaaOO2La5RLb) | [Always Near](https://open.spotify.com/album/7czK4CJMuSL98IjzU725wl) | 2:34 | 2025-12-01 |  |
 | [Always Shining Bright](https://open.spotify.com/track/4s561TKv61mdyVq98FtbNk) | [Sheila Withmore](https://open.spotify.com/artist/2rrDq3PBO8pPJxs1CJFbj2) | [Always Shining Bright](https://open.spotify.com/album/6L94HMfRefYBQlrOTyRt5A) | 2:16 | 2023-10-10 | 2026-05-23 |
 | [Angustifolia](https://open.spotify.com/track/0wXoceSodypn4BlHQRUYLA) | [Dagmar Sheernan](https://open.spotify.com/artist/3sQmwQXoOcmGEc20ZM1zG9) | [Angustifolia](https://open.spotify.com/album/13Qyyw6AwtO4QPNeFrHfEF) | 2:13 | 2020-10-20\* | 2023-09-09 |
+| [Another Life](https://open.spotify.com/track/5DmrE0oshlw7pSpdOGjUgF) | [Daniel Arvo](https://open.spotify.com/artist/1mHFSQR7dBZO09YhknD1ic) | [Another Life](https://open.spotify.com/album/7gu3l5q6oTdZ26SdffW3fe) | 2:32 | 2026-11-13 |  |
 | [Après tout](https://open.spotify.com/track/1Mb2XNUOWxSJiTkQnoGjGz) | [Alexis Pavot](https://open.spotify.com/artist/3ClYCNzBeMuuOVn23VDVDk) | [Après Tout](https://open.spotify.com/album/1nCHPH8qrolGyCbQ6gXtl3) | 2:27 | 2023-09-26 | 2026-05-23 |
 | [Archipelago](https://open.spotify.com/track/5LmaeC0bRQqaHtK781KOhD) | [Damien Jeunet](https://open.spotify.com/artist/4PLGZc5uRGoXxjzjVDzlPs) | [Archipelago](https://open.spotify.com/album/5cvXAkKUZjtimQ19bN6AN9) | 2:38 | 2024-01-09 |  |
 | [Arriving](https://open.spotify.com/track/2BWhYS9sosKmgg8BWjoQul) | [Ryley Moss](https://open.spotify.com/artist/0qWu3rMcE5Hp0gcAUjPPAG) | [Arriving](https://open.spotify.com/album/0JObZV0R4Ko376lsiK0JWF) | 2:48 | 2023-09-08 |  |
@@ -229,6 +230,7 @@
 | [Opal](https://open.spotify.com/track/3vb6ZHxSckbWkqM5wNdsA5) | [Felix Rösch](https://open.spotify.com/artist/5DN6qP3OzoKVYXF3o2KCXp) | [Opal](https://open.spotify.com/album/7zXuTzVmAVe1fbNw93N4QV) | 3:33 | 2022-05-20 | 2022-05-27 |
 | [Padjelanta](https://open.spotify.com/track/5N5jZgY2X3sfj3HUSjg1Ic) | [Laponia](https://open.spotify.com/artist/2ofMsV0f4ziG96f4ZKPzGr) | [Sarek](https://open.spotify.com/album/2CmyrbcaDXk5SulZg9nRIi) | 2:44 | 2020-10-20\* | 2022-01-08 |
 | [Papperssvalan](https://open.spotify.com/track/537FP4rNU5SILZ5uWF2zDi) | [Norröga](https://open.spotify.com/artist/6k2rfOW9DnWyV4cKXkfjMw) | [Papperssvalan](https://open.spotify.com/album/2Qg3Na5QnWlPFJf0O2CiWV) | 2:33 | 2021-06-18 |  |
+| [Para Siempre](https://open.spotify.com/track/0jYFSmRyjDoKyR4Z1mTVJl) | [Mats Tärnfors](https://open.spotify.com/artist/5PkNELD0DuzkqW2I7X0ND1) | [Para Siempre](https://open.spotify.com/album/0rY5khx8swWUwtehgldf43) | 2:25 | 2026-11-13 |  |
 | [Pastel](https://open.spotify.com/track/5ewgBMv3RKvWgusgayOubz) | [Harlan Silverman](https://open.spotify.com/artist/6RR7uINKmGclSu0zHBC7mU) | [Pastel](https://open.spotify.com/album/7s6ILaRz5CluLRvZVQzBOv) | 2:35 | 2020-10-20\* | 2023-09-09 |
 | [Pause Here](https://open.spotify.com/track/0RpMpu7lNVxOZ0hPDNF9fu) | [Enviromental State](https://open.spotify.com/artist/5tHKsyArg710bnAL9MAL42) | [Pause Here](https://open.spotify.com/album/5qEoS15uFx0ODHDedzPNOW) | 2:12 | 2026-09-18 |  |
 | [Peggy's Cove](https://open.spotify.com/track/7yplIuBnFYA8eUje0Vi0UP) | [Sarah Watson](https://open.spotify.com/artist/3pyGXjDKAt3czGsh7vxkT0) | [Peggy's Cove](https://open.spotify.com/album/6u1kaq0ueouDEcdpyyvsFM) | 2:15 | 2023-09-18 |  |

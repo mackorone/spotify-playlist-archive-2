@@ -2,9 +2,9 @@
 
 ### [Hot Hits Japan](https://open.spotify.com/playlist/37i9dQZF1DXayDMsJG9ZBv)
 
-> 世界中の最新ヒットと日本のトレンドをまとめてお届けします。Cover: Dominic Fike
+> 世界中の最新ヒットと日本のトレンドをまとめてお届けします。Cover: XG
 
-1,121 songs - 2 day 16 hr 28 min
+1,123 songs - 2 day 16 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,6 +197,7 @@
 | [DELRESTO \(ECHOES\) \(feat\. Beyoncé\)](https://open.spotify.com/track/0OEe83mMZ5kaNw5uZQ7ilG) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 4:34 | 2023-07-31 | 2023-09-05 |
 | [Delusion:All](https://open.spotify.com/track/61f3iPQRIe0I6CSj7qJdi3) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Delusion:All](https://open.spotify.com/album/5z4TVXmLIziKpgUEbtHr61) | 3:04 | 2024-07-18 | 2024-10-31 |
 | [DENIAL IS A RIVER](https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 2:39 | 2025-01-16 | 2025-03-14 |
+| [DEPENDS](https://open.spotify.com/track/23rcMbTChRPIwtCycyb3E4) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [DEPENDS](https://open.spotify.com/album/1ovXAdBxEGkXoYkIEg0IG8) | 3:05 | 2026-11-12 |  |
 | [DEPRESSED](https://open.spotify.com/track/1kO8TSZU0ORR4eJpirLPGW) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [DEPRESSED](https://open.spotify.com/album/4wdp5hBwGx9AgqUoiCCDUV) | 2:18 | 2025-09-25 | 2025-11-14 |
 | [DESERVE](https://open.spotify.com/track/3lNWn4ZOgHSZUWcWbIl6KQ) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [DESERVE](https://open.spotify.com/album/5N8EIJo0rBiTiDgGH49Cri) | 3:09 | 2026-10-29 |  |
 | [Die 4 Me](https://open.spotify.com/track/6VYAzAQGFsfEAwdorQaZuU) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Die 4 Me](https://open.spotify.com/album/3j2D3GopiCavuGNJdENOmz) | 3:35 | 2023-03-06 | 2023-04-04 |
@@ -584,6 +585,7 @@
 | [NOT OK](https://open.spotify.com/track/690KKCzni7cDqy9EWe0rpc) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [NOT OK](https://open.spotify.com/album/0L4T0uAWSFgIPZ0Y3JVKoC) | 4:51 | 2023-10-09 | 2023-11-21 |
 | [Nothing Is Lost \(You Give Me Strength\)](https://open.spotify.com/track/1DzJbVkBELu6jDu6q0T0tk) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Avatar: The Way of Water \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4M2Mf4pmARKGVT9MLCe3HA) | 4:27 | 2023-01-30 | 2023-02-21 |
 | [Now And Then](https://open.spotify.com/track/4vziJcnB2Qyi9o4nIRUeN7) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Now And Then](https://open.spotify.com/album/2qQP2NgOoH6HqknnbpJmIk) | 4:08 | 2023-11-02 | 2023-12-13 |
+| [NOW U KNOW](https://open.spotify.com/track/1ZQwDMEIBQaKGP6mpElU4i) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [BE:4U](https://open.spotify.com/album/16ViymeyDqvnGEpKUrWu3x) | 2:58 | 2026-11-12 |  |
 | [number one girl](https://open.spotify.com/track/02CrqOYzrJR8fYOffhvRZZ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [number one girl](https://open.spotify.com/album/5R7uaKp0OOVFhcAruLmi2G) | 3:36 | 2024-11-28 | 2024-12-13 |
 | [Numbers Ur Zone](https://open.spotify.com/track/4gKyKGU7VdyE1ZhFhfg6J0) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [Numbers Ur Zone](https://open.spotify.com/album/2UZ6xQ2NDvRAl5MvLW5wy4) | 2:34 | 2025-10-02 | 2025-10-17 |
 | [Obsessed](https://open.spotify.com/track/2QYnONicU24TXbkhtaemOM) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [Obsessed](https://open.spotify.com/album/6ScO0wdlpZQsE2Mszdg2xF) | 3:16 | 2024-02-01 | 2024-05-17 |
@@ -620,7 +622,7 @@
 | [People Pt.2 \(feat\. IU\)](https://open.spotify.com/track/4EaQ0ouIydfeAgQUz284EF) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [People Pt.2 \(feat\. IU\)](https://open.spotify.com/album/1l12B55qdesQorPcQLJDRo) | 3:33 | 2023-04-10 | 2023-05-02 |
 | [Perfect Blue](https://open.spotify.com/track/4isltDchfXCDrGCNd8iupg) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [ZOT on the WAVE](https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH), [Tiji Jojo](https://open.spotify.com/artist/2ZEOC8FatCSFTFVtt1laOt), [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd), [RYO\-Z](https://open.spotify.com/artist/4sAapCy25wlBnkilgKmtgK) | [Perfect Blue](https://open.spotify.com/album/54xd4oRJbt6MQJUpbqLcL9) | 3:22 | 2025-07-10 | 2025-07-25 |
 | [Perfect Night](https://open.spotify.com/track/74X2u8JMVooG2QbjRxXwR8) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Perfect Night](https://open.spotify.com/album/6Msc3BwzKZ5f5FXmKuUSu6) | 2:39 | 2023-10-31 | 2024-03-29 |
-| [petal](https://open.spotify.com/track/70pVCVMGjmIWPbWXDwf11e) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [petal](https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT) | 3:04 | 2026-07-31 |  |
+| [petal](https://open.spotify.com/track/70pVCVMGjmIWPbWXDwf11e) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [petal](https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT) | 3:04 | 2026-07-31 | 2026-11-13 |
 | [PINKY UP](https://open.spotify.com/track/4KmkJjHTNlr1jFY56Lyz4E) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [PINKY UP](https://open.spotify.com/album/5tLy0MEMDVqiHKso6B4jnz) | 2:11 | 2026-04-16 | 2026-06-19 |
 | [PIXELATED KISSES](https://open.spotify.com/track/2OZVskV28xxJjjhQqKTLSg) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [PIXELATED KISSES](https://open.spotify.com/album/3FLlai6YTV9IwCU0KolG1w) | 1:50 | 2025-10-23 | 2025-11-14 |
 | [PLAYER 1](https://open.spotify.com/track/6pEUfda5EvMmTcCjdoh6Bm) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [Channel U](https://open.spotify.com/album/086HxFr00ZoUPUewk20f6s) | 3:14 | 2025-02-27 | 2025-04-25 |
@@ -860,7 +862,7 @@
 | [Wall of Sound](https://open.spotify.com/track/3wEAaX6X3HCKrN3O2xmVQD) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Wall of Sound](https://open.spotify.com/album/5xQarRykqfONyHrL792y8z) | 2:24 | 2026-01-22 | 2026-01-30 |
 | [WANTCHU](https://open.spotify.com/track/0XWf8CRB6IptewumZDi5b6) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [WANTCHU](https://open.spotify.com/album/3X3j61g2QBXl8qcq4DsSbI) | 3:19 | 2025-08-14 | 2025-11-21 |
 | [wasurerumaeni](https://open.spotify.com/track/4gUjQJheIwz5ALZyeGXHXo) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [wasurerumaeni](https://open.spotify.com/album/0YEgYchI5FGy7g2zqrdsjF) | 4:02 | 2025-10-09 | 2025-11-14 |
-| [WATCH ME \- feat\. BIA](https://open.spotify.com/track/3IWZeuKAIICpfEj7bkSB6p) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [WATCH ME](https://open.spotify.com/album/5N8qYjbTwlroORqdMLSUJK) | 3:09 | 2026-10-01 |  |
+| [WATCH ME \- feat\. BIA](https://open.spotify.com/track/3IWZeuKAIICpfEj7bkSB6p) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [WATCH ME](https://open.spotify.com/album/5N8qYjbTwlroORqdMLSUJK) | 3:09 | 2026-10-01 | 2026-11-13 |
 | [Watch me!](https://open.spotify.com/track/2XlTBc7XOzyunDf3Oqsfpk) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [Watch me!](https://open.spotify.com/album/1M2XEzXjHUbVfMVfwMTPYc) | 3:06 | 2025-05-22 | 2025-08-15 |
 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 | 2023-12-12 | 2024-04-05 |
 | [Water \- Remix](https://open.spotify.com/track/4CljUDO1I5hpKjwSNK6RWY) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Water \(Remix\)](https://open.spotify.com/album/7DWPd7wOj9g0N5krVFil0Z) | 3:20 | 2023-11-28 | 2023-12-06 |

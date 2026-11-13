@@ -546,7 +546,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 221132,
       "name": "Bulleya",
       "url": "https://open.spotify.com/track/6xIhjZX1ZtFIXg1IDa3DAi"
@@ -1890,6 +1890,32 @@
       "duration_ms": 160000,
       "name": "Khasara",
       "url": "https://open.spotify.com/track/1TWkdQ2k7ysSYwla66Ys6I"
+    },
+    {
+      "album": {
+        "name": "Khata",
+        "url": "https://open.spotify.com/album/6Ax0B5Jm5wkZYiumd41g5k"
+      },
+      "artists": [
+        {
+          "name": "Hassan Sheikh",
+          "url": "https://open.spotify.com/artist/6rCIl3FfI0CUJQAWPO6GTc"
+        },
+        {
+          "name": "Zoha Waseem",
+          "url": "https://open.spotify.com/artist/20DlRoUeIcVHGEEgYuvvZ8"
+        },
+        {
+          "name": "AliSoomroMusic",
+          "url": "https://open.spotify.com/artist/2hXbxDaLthfodvgEpP6Xpm"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "Khata",
+      "url": "https://open.spotify.com/track/6VOujvFOuyhQj01UqocGN8"
     },
     {
       "album": {

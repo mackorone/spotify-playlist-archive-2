@@ -1,47 +1,15 @@
 {
-  "description": "The best new music by independent artists and labels in Canada. Updates every Wednesday. Cover: Quincy Isaiah, Artwork: Isu Kim",
-  "num_followers": 28576,
+  "description": "The best new music by independent artists and labels in Canada. Updates every Wednesday. Cover: Brat Star, Artwork: Isu Kim",
+  "num_followers": 28578,
   "original_name": "Fresh Finds Canada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKLL/lFE8bEYaw1wZBqYvv9R5Joo",
+  "snapshot_id": "AAAAALQ/ftPDoOfYpIkdQ5oS1GaDDdo/",
   "tracks": [
     {
-      "added_at": "2026-10-07 04:00:10",
-      "album": {
-        "name": "Summer\u2019s Over Vol. 1",
-        "url": "https://open.spotify.com/album/0FHgWE5RL7icEatWD7xEzX"
-      },
-      "artists": [
-        {
-          "name": "Quincy Isaiah",
-          "url": "https://open.spotify.com/artist/7eAyJBfRTpp3vLocsj1X2i"
-        }
-      ],
-      "duration_ms": 90124,
-      "name": "Moving Different",
-      "url": "https://open.spotify.com/track/4qtMEo7RTuYKbrHI4g4dbP"
-    },
-    {
-      "added_at": "2026-11-04 18:51:30",
-      "album": {
-        "name": "you made me / skin on linen",
-        "url": "https://open.spotify.com/album/4L3aQdOW11hKFGRbpkw3wN"
-      },
-      "artists": [
-        {
-          "name": "PISS",
-          "url": "https://open.spotify.com/artist/1nGBerMI4y0SI6fZk97uYf"
-        }
-      ],
-      "duration_ms": 160435,
-      "name": "i wanted to be a singer",
-      "url": "https://open.spotify.com/track/39yGQhkMG9tQ4kd6wueLQK"
-    },
-    {
-      "added_at": "2026-11-04 18:51:30",
+      "added_at": "2026-11-13 04:11:39",
       "album": {
         "name": "Southern Ontario Gothic",
         "url": "https://open.spotify.com/album/7bf6QpwPckalVCvbiGSYtO"
@@ -57,7 +25,87 @@
       "url": "https://open.spotify.com/track/3Hg6WTPbnBdWiOPXyaTu80"
     },
     {
-      "added_at": "2026-11-04 18:51:30",
+      "added_at": "2026-11-13 04:11:39",
+      "album": {
+        "name": "Orchid",
+        "url": "https://open.spotify.com/album/6Q5Ev3ugg71O1R8JB2Volp"
+      },
+      "artists": [
+        {
+          "name": "Maya Jade",
+          "url": "https://open.spotify.com/artist/7tK7zDUhoiskbWyv8F0DRq"
+        }
+      ],
+      "duration_ms": 217208,
+      "name": "Heart on the Line",
+      "url": "https://open.spotify.com/track/4qjccGJ1UJrVhfzLD643bu"
+    },
+    {
+      "added_at": "2026-11-13 04:11:39",
+      "album": {
+        "name": "Summer\u2019s Over Vol. 1",
+        "url": "https://open.spotify.com/album/0FHgWE5RL7icEatWD7xEzX"
+      },
+      "artists": [
+        {
+          "name": "Quincy Isaiah",
+          "url": "https://open.spotify.com/artist/7eAyJBfRTpp3vLocsj1X2i"
+        }
+      ],
+      "duration_ms": 90124,
+      "name": "Moving Different",
+      "url": "https://open.spotify.com/track/4qtMEo7RTuYKbrHI4g4dbP"
+    },
+    {
+      "added_at": "2026-11-13 04:11:39",
+      "album": {
+        "name": "Turbulences",
+        "url": "https://open.spotify.com/album/4dQGQcGmBtC07HVxmo7ZAj"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e8ges",
+          "url": "https://open.spotify.com/artist/3aHCC5XL7q7F6UCfOOL4XO"
+        }
+      ],
+      "duration_ms": 229201,
+      "name": "Turbulences",
+      "url": "https://open.spotify.com/track/0u19lGnitw5hKYxqL6zdQZ"
+    },
+    {
+      "added_at": "2026-11-13 04:11:39",
+      "album": {
+        "name": "you made me / skin on linen",
+        "url": "https://open.spotify.com/album/4L3aQdOW11hKFGRbpkw3wN"
+      },
+      "artists": [
+        {
+          "name": "PISS",
+          "url": "https://open.spotify.com/artist/1nGBerMI4y0SI6fZk97uYf"
+        }
+      ],
+      "duration_ms": 160435,
+      "name": "i wanted to be a singer",
+      "url": "https://open.spotify.com/track/39yGQhkMG9tQ4kd6wueLQK"
+    },
+    {
+      "added_at": "2026-11-13 04:11:39",
+      "album": {
+        "name": "Radio",
+        "url": "https://open.spotify.com/album/1uxkF2SgNcdeOYfLwh9OQc"
+      },
+      "artists": [
+        {
+          "name": "Planet Chlo\u00e9",
+          "url": "https://open.spotify.com/artist/6nvLTll83bPbaAvemxQ13S"
+        }
+      ],
+      "duration_ms": 178954,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/1PS45iWkOspjpeXQjzDhPl"
+    },
+    {
+      "added_at": "2026-11-13 04:11:39",
       "album": {
         "name": "In search of ocean",
         "url": "https://open.spotify.com/album/6AUU4IBSYYS4Sx2TcY8tJd"
@@ -73,7 +121,27 @@
       "url": "https://open.spotify.com/track/6XldxnLLshzCBGZp9uLUII"
     },
     {
-      "added_at": "2026-11-04 18:51:30",
+      "added_at": "2026-11-13 04:11:39",
+      "album": {
+        "name": "SouthSideKnottyHead",
+        "url": "https://open.spotify.com/album/5jnQK10gjDDxGQAJEOzMkK"
+      },
+      "artists": [
+        {
+          "name": "KOTO?",
+          "url": "https://open.spotify.com/artist/1N7v8ztld41DN69kQvp0We"
+        },
+        {
+          "name": "Soft Eyez",
+          "url": "https://open.spotify.com/artist/6ojMQVQeJuZ8PGwHoIO4fT"
+        }
+      ],
+      "duration_ms": 130000,
+      "name": "Obinna",
+      "url": "https://open.spotify.com/track/2nBl9oYFSaKLz9WOBE8LgS"
+    },
+    {
+      "added_at": "2026-11-13 04:11:39",
       "album": {
         "name": "On My Worst Day",
         "url": "https://open.spotify.com/album/1x8ivq83drPuDYbCJRY5dW"
@@ -89,7 +157,23 @@
       "url": "https://open.spotify.com/track/2abVA5BzsPcmDVp96NSzPt"
     },
     {
-      "added_at": "2026-11-04 18:51:30",
+      "added_at": "2026-11-13 04:11:39",
+      "album": {
+        "name": "Club Jade Monet",
+        "url": "https://open.spotify.com/album/0G9n8yzgBgLZf1iIySIatk"
+      },
+      "artists": [
+        {
+          "name": "Jade Monet",
+          "url": "https://open.spotify.com/artist/5AE7MlHMoaaPI9VhtYubmT"
+        }
+      ],
+      "duration_ms": 0,
+      "name": "Track 3",
+      "url": "https://open.spotify.com/track/6zrxzGTyCr751V0RBQ0TYb"
+    },
+    {
+      "added_at": "2026-11-13 04:11:39",
       "album": {
         "name": "Saisons",
         "url": "https://open.spotify.com/album/09IwKg2UvRi20lV67LKtlk"
@@ -105,7 +189,7 @@
       "url": "https://open.spotify.com/track/5kMrK5lhPuOrUwnjtgIiLg"
     },
     {
-      "added_at": "2026-11-04 18:51:30",
+      "added_at": "2026-11-13 04:11:39",
       "album": {
         "name": "redstar",
         "url": "https://open.spotify.com/album/0Urk10HzyKwZz3ziPj3dlf"
@@ -121,7 +205,7 @@
       "url": "https://open.spotify.com/track/7iswvp4cEuvT7C9593N0hE"
     },
     {
-      "added_at": "2026-11-04 18:51:30",
+      "added_at": "2026-11-13 04:11:39",
       "album": {
         "name": "cherrytapes, Vol. 1",
         "url": "https://open.spotify.com/album/5EjpV3LKJdIK9n5cTWOWBD"
@@ -141,7 +225,7 @@
       "url": "https://open.spotify.com/track/2vIPNCjH3Mr9GYSj3Hq5kE"
     },
     {
-      "added_at": "2026-11-04 18:51:30",
+      "added_at": "2026-11-13 04:11:39",
       "album": {
         "name": "number 1",
         "url": "https://open.spotify.com/album/69KwvPZlTrGieo5xMC9U4j"
@@ -161,7 +245,7 @@
       "url": "https://open.spotify.com/track/0QbS7u3CLzBXhFrxn4ThyU"
     },
     {
-      "added_at": "2026-10-21 20:16:11",
+      "added_at": "2026-11-13 04:11:39",
       "album": {
         "name": "got me good",
         "url": "https://open.spotify.com/album/1HjcqUliMVJyCESHJ76EV8"
@@ -177,7 +261,7 @@
       "url": "https://open.spotify.com/track/0HIoN5IDC2hH9WHJJYTgpx"
     },
     {
-      "added_at": "2026-11-04 18:51:30",
+      "added_at": "2026-11-13 04:11:39",
       "album": {
         "name": "MISS UNDERSTOOD",
         "url": "https://open.spotify.com/album/15qL3Bv2NqMY6yaNn5PGnu"
@@ -193,7 +277,7 @@
       "url": "https://open.spotify.com/track/7qXt7t4LsJSf5Yh2u73QUW"
     },
     {
-      "added_at": "2026-11-04 18:51:30",
+      "added_at": "2026-11-13 04:11:39",
       "album": {
         "name": "yours, forever",
         "url": "https://open.spotify.com/album/5nrddmEElTp9OYgovMhwGi"
@@ -209,7 +293,7 @@
       "url": "https://open.spotify.com/track/0i9RiEyH3GFk6igXlpUPES"
     },
     {
-      "added_at": "2026-10-21 20:16:11",
+      "added_at": "2026-11-13 04:11:39",
       "album": {
         "name": "DREAMS & DIVERSIONS",
         "url": "https://open.spotify.com/album/2hWCYFIEy8Dmdi2Fq87HwT"
@@ -225,7 +309,7 @@
       "url": "https://open.spotify.com/track/6FDO6kE0vgbcm4V5Fa1Ubw"
     },
     {
-      "added_at": "2026-11-04 18:51:30",
+      "added_at": "2026-11-13 04:11:39",
       "album": {
         "name": "Peanut Butter Saltine",
         "url": "https://open.spotify.com/album/3eKf6ZnXHYxBndJ9j7dPGp"
@@ -241,7 +325,7 @@
       "url": "https://open.spotify.com/track/3TWU7oIi1DKMqcQbqlPFoF"
     },
     {
-      "added_at": "2026-11-04 18:51:30",
+      "added_at": "2026-11-13 04:11:39",
       "album": {
         "name": "Melbourne",
         "url": "https://open.spotify.com/album/7hrMaAvydHpxmwBXDeTwa1"
@@ -257,7 +341,7 @@
       "url": "https://open.spotify.com/track/548eDc9ac21RjfoDK5pFYe"
     },
     {
-      "added_at": "2026-10-23 21:24:37",
+      "added_at": "2026-11-13 04:11:39",
       "album": {
         "name": "Boys of Summer",
         "url": "https://open.spotify.com/album/4FT2mP1Ca1FbfTRhSz6sCE"
@@ -273,7 +357,7 @@
       "url": "https://open.spotify.com/track/7b2elsMysU2yarzzancwmU"
     },
     {
-      "added_at": "2026-10-23 21:24:37",
+      "added_at": "2026-11-13 04:11:39",
       "album": {
         "name": "Hi, hello",
         "url": "https://open.spotify.com/album/2YVagahVXK1W7Jk4Cfjvje"
@@ -289,7 +373,7 @@
       "url": "https://open.spotify.com/track/5iliAc75L4vJ3gyUD1EwvK"
     },
     {
-      "added_at": "2026-11-04 18:51:30",
+      "added_at": "2026-11-13 04:11:39",
       "album": {
         "name": "Not Just The Summer",
         "url": "https://open.spotify.com/album/1VmzNlVDgpArrHebcP89NC"
@@ -305,7 +389,7 @@
       "url": "https://open.spotify.com/track/2UHEPCstuGnSyWNkTa019c"
     },
     {
-      "added_at": "2026-10-21 20:16:11",
+      "added_at": "2026-11-13 04:11:39",
       "album": {
         "name": "At Your Service: Act I",
         "url": "https://open.spotify.com/album/0KgXHvxovj4avEYJjpNPJx"
@@ -325,7 +409,7 @@
       "url": "https://open.spotify.com/track/2IFabpdubMf3C7qMqwfRDm"
     },
     {
-      "added_at": "2026-10-07 04:00:10",
+      "added_at": "2026-11-13 04:11:39",
       "album": {
         "name": "Three Missed Calls",
         "url": "https://open.spotify.com/album/1MK8GCuJq8JotZ7FIaP7h2"
@@ -341,7 +425,7 @@
       "url": "https://open.spotify.com/track/1Hq7TWA7sz7F90RzfgtyXI"
     },
     {
-      "added_at": "2026-11-04 18:51:30",
+      "added_at": "2026-11-13 04:11:39",
       "album": {
         "name": "Tell Me... Please",
         "url": "https://open.spotify.com/album/5wK036gybV2Cox20Uk9hB6"
@@ -357,7 +441,7 @@
       "url": "https://open.spotify.com/track/12CwRPev10fULo0PHSWfYV"
     },
     {
-      "added_at": "2026-11-04 18:51:30",
+      "added_at": "2026-11-13 04:11:39",
       "album": {
         "name": "Entropy",
         "url": "https://open.spotify.com/album/7MPl3iUF982L7XDmI0Xz08"
@@ -373,7 +457,7 @@
       "url": "https://open.spotify.com/track/2ihw4nSyz32PV2kFxZ1abh"
     },
     {
-      "added_at": "2026-11-04 18:51:30",
+      "added_at": "2026-11-13 04:11:39",
       "album": {
         "name": "deux poissons",
         "url": "https://open.spotify.com/album/09kAyG5EMRYbggv7WBT936"
@@ -389,7 +473,7 @@
       "url": "https://open.spotify.com/track/6ebKQrUCXpiy74GorQT55C"
     },
     {
-      "added_at": "2026-11-04 18:51:30",
+      "added_at": "2026-11-13 04:11:39",
       "album": {
         "name": "bee's in a garden (Acoustic)",
         "url": "https://open.spotify.com/album/1Wxrbug5Mo2GOLZzsgqbyg"
@@ -405,7 +489,7 @@
       "url": "https://open.spotify.com/track/6bz0X7dOGL9bctl3HqSh01"
     },
     {
-      "added_at": "2026-11-04 18:51:30",
+      "added_at": "2026-11-13 04:11:39",
       "album": {
         "name": "FRESHWHITETOES",
         "url": "https://open.spotify.com/album/0LXbnNYKHDhmrS6SQvDaYq"
@@ -425,7 +509,7 @@
       "url": "https://open.spotify.com/track/31uPt6y5cQzPwRUO4dibye"
     },
     {
-      "added_at": "2026-11-04 18:51:30",
+      "added_at": "2026-11-13 04:11:39",
       "album": {
         "name": "Practice",
         "url": "https://open.spotify.com/album/2YqlukT7QZyO17dguDzXll"
@@ -445,7 +529,7 @@
       "url": "https://open.spotify.com/track/3TTHPnTiLxVxuIlLfu9niJ"
     },
     {
-      "added_at": "2026-11-04 18:51:30",
+      "added_at": "2026-11-13 04:11:39",
       "album": {
         "name": "ESSENCE MUSIQUE 1",
         "url": "https://open.spotify.com/album/3wo0SoFfpZCyHjFACCEjQe"
@@ -465,7 +549,7 @@
       "url": "https://open.spotify.com/track/53ZWTMIpYchWU6WIw5qK6R"
     },
     {
-      "added_at": "2026-11-04 18:51:30",
+      "added_at": "2026-11-13 04:11:39",
       "album": {
         "name": "IFYGF",
         "url": "https://open.spotify.com/album/02PMAdeF21U9rdrt08wWJv"
@@ -481,7 +565,7 @@
       "url": "https://open.spotify.com/track/6jYJYzfwvI8DUeHD4wP35R"
     },
     {
-      "added_at": "2026-11-04 18:51:30",
+      "added_at": "2026-11-13 04:11:39",
       "album": {
         "name": "FYORE",
         "url": "https://open.spotify.com/album/1KrbSKLGBi8VIbj9p2JesC"
@@ -497,7 +581,7 @@
       "url": "https://open.spotify.com/track/1hD3tOT1zqOMgDFXeZ8K6u"
     },
     {
-      "added_at": "2026-11-04 18:51:30",
+      "added_at": "2026-11-13 04:11:39",
       "album": {
         "name": "dress up",
         "url": "https://open.spotify.com/album/5URq0P4FkYeJ8Rh5XxRaB0"
@@ -513,7 +597,7 @@
       "url": "https://open.spotify.com/track/0c2yvtjL14s5d3Yeqpe6Jf"
     },
     {
-      "added_at": "2026-11-04 18:51:30",
+      "added_at": "2026-11-13 04:11:39",
       "album": {
         "name": "Il est partout",
         "url": "https://open.spotify.com/album/16yCjHaaw8ozp1dK9hcILe"
@@ -529,7 +613,7 @@
       "url": "https://open.spotify.com/track/2Ze68jGXk2L4MwY3up97cJ"
     },
     {
-      "added_at": "2026-11-04 18:51:30",
+      "added_at": "2026-11-13 04:11:39",
       "album": {
         "name": "S\u00e9r\u00e9nade / Savage",
         "url": "https://open.spotify.com/album/6M4JE1DAu0Go692WDk3LxF"
@@ -545,7 +629,7 @@
       "url": "https://open.spotify.com/track/5XiiA5KKvQCNVMxDEC5fFE"
     },
     {
-      "added_at": "2026-11-04 18:51:30",
+      "added_at": "2026-11-13 04:11:39",
       "album": {
         "name": "Chaude Chaleur",
         "url": "https://open.spotify.com/album/31l2G3mXDWRl3YZJnZ1aYM"
@@ -561,7 +645,7 @@
       "url": "https://open.spotify.com/track/2COHOZm8EWjpmagCeaWWh1"
     },
     {
-      "added_at": "2026-11-04 18:51:30",
+      "added_at": "2026-11-13 04:11:39",
       "album": {
         "name": "R\u00eaverie Tropicale",
         "url": "https://open.spotify.com/album/4KJBxVRO3cPg9bZ7K5pCf9"
@@ -577,7 +661,7 @@
       "url": "https://open.spotify.com/track/5Ix7s4pbHK4nqiRjt1tsyL"
     },
     {
-      "added_at": "2026-11-04 18:51:30",
+      "added_at": "2026-11-13 04:11:39",
       "album": {
         "name": "Life's What You Make It (DELUXE)",
         "url": "https://open.spotify.com/album/4LVLpijPzV78yeqcByuSBL"
@@ -597,7 +681,7 @@
       "url": "https://open.spotify.com/track/6FjG6kIJgw4gxt9DhQCu8E"
     },
     {
-      "added_at": "2026-11-04 18:51:30",
+      "added_at": "2026-11-13 04:11:39",
       "album": {
         "name": "NOISE MACHINE",
         "url": "https://open.spotify.com/album/0KCjwe8YMP1p91LSSHmXNO"
@@ -613,7 +697,7 @@
       "url": "https://open.spotify.com/track/1iJBBxIZuJyny8stqgtwEG"
     },
     {
-      "added_at": "2026-11-04 18:51:30",
+      "added_at": "2026-11-13 04:11:39",
       "album": {
         "name": "Why(te) Tee",
         "url": "https://open.spotify.com/album/0w2pDF54RFwGjcL6joWXQF"
@@ -629,7 +713,7 @@
       "url": "https://open.spotify.com/track/4iMEZjaZd6QrBXbGXwK0z4"
     },
     {
-      "added_at": "2026-11-04 18:51:30",
+      "added_at": "2026-11-13 04:11:39",
       "album": {
         "name": "Baby, Is That You?",
         "url": "https://open.spotify.com/album/5GwOVIIj9fcvDc1o4a0uNX"
@@ -645,7 +729,7 @@
       "url": "https://open.spotify.com/track/0GzPrpPNALa2HdzbpzDriP"
     },
     {
-      "added_at": "2026-11-04 18:51:30",
+      "added_at": "2026-11-13 04:11:39",
       "album": {
         "name": "Keep It Together",
         "url": "https://open.spotify.com/album/2gnQWtpFeJsCKgBhKFrymh"
@@ -661,7 +745,7 @@
       "url": "https://open.spotify.com/track/5ByocDaHLsuz8TPjCbPvDc"
     },
     {
-      "added_at": "2026-11-04 18:51:30",
+      "added_at": "2026-11-13 04:11:39",
       "album": {
         "name": "Livin Lovin",
         "url": "https://open.spotify.com/album/44op3ot28z7yZZf2hs2jwa"

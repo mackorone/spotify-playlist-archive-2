@@ -9385,6 +9385,28 @@
     },
     {
       "album": {
+        "name": "THIS FEELING",
+        "url": "https://open.spotify.com/album/1FQ0YF2b9wImRz5veL28eo"
+      },
+      "artists": [
+        {
+          "name": "ENIAC",
+          "url": "https://open.spotify.com/artist/2EZUA011nbD0P2R8W7sM38"
+        },
+        {
+          "name": "Silver Bullet",
+          "url": "https://open.spotify.com/artist/0SEngfaDuGowIj9cDEN2yq"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221142,
+      "name": "THIS FEELING",
+      "url": "https://open.spotify.com/track/5Zm56qEPUv0vUdCbDik4Xd"
+    },
+    {
+      "album": {
         "name": "Thought It Was U",
         "url": "https://open.spotify.com/album/28j7q90iOylNg6QhifQEso"
       },

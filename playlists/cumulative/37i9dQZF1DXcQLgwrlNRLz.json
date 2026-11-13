@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2026-06-30",
-  "description": "Le plus chauds d'Afrique Francophone. Cover: Didi B",
+  "description": "Le plus chauds d'Afrique Francophone. Cover: Baby Daiz & Tiakola ",
   "name": "Francophone.wav",
   "tracks": [
     {
@@ -656,10 +656,32 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 105826,
       "name": "Effray\u00e9s",
       "url": "https://open.spotify.com/track/4ocjzDW1Ub8o6qCt39UFmU"
+    },
+    {
+      "album": {
+        "name": "El Classico",
+        "url": "https://open.spotify.com/album/44Hco6UbPBieEbp0Q8Jl5w"
+      },
+      "artists": [
+        {
+          "name": "BabyDaiz",
+          "url": "https://open.spotify.com/artist/75ffkjzl2yQm2wRvP5QL4s"
+        },
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171584,
+      "name": "El Classico",
+      "url": "https://open.spotify.com/track/1Q0SAIQM1UwhMo1niXOB5M"
     },
     {
       "album": {

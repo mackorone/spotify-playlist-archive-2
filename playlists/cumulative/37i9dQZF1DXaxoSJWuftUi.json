@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2026-05-24",
-  "description": "Your favorite kids songs and nursery rhymes, now with videos. Music videos available only on Premium. Cover: Ms. Rachel & Mr. Aron",
+  "description": "Your favorite kids songs and nursery rhymes, now with videos. Music videos available only on Premium. Cover: Peppa Pig",
   "name": "Kids Music Videos",
   "tracks": [
     {
@@ -524,6 +524,28 @@
       "duration_ms": 122240,
       "name": "Open Shut Them",
       "url": "https://open.spotify.com/track/2bo8EzJS1zfT2AbnntJpuE"
+    },
+    {
+      "album": {
+        "name": "Our Shopping List",
+        "url": "https://open.spotify.com/album/3TPlbxhemq7q1c7V7oF49E"
+      },
+      "artists": [
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        },
+        {
+          "name": "Noodle & Pals",
+          "url": "https://open.spotify.com/artist/5r4Bnflqc1rt8z3UIhwwKf"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167507,
+      "name": "Our Shopping List",
+      "url": "https://open.spotify.com/track/0LO5cE6Fs2pn7i7rNZujed"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Experience the best of live worship here. Cover: Mitch Wong",
+  "description": "Experience the best of live worship here. Cover: LO Worship",
   "name": "Best of Live Worship",
   "tracks": [
     {
@@ -1266,7 +1266,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 482253,
       "name": "Beneath Your Wings - Live",
       "url": "https://open.spotify.com/track/0cVvmK5YQaiRoga45kLhY4"
@@ -1446,6 +1446,28 @@
       "duration_ms": 468611,
       "name": "Brand New (feat. Steve Davis & Jordan Colle)",
       "url": "https://open.spotify.com/track/2hvpCFzLL9fys50k7v7tDf"
+    },
+    {
+      "album": {
+        "name": "Break The Jar (Live)",
+        "url": "https://open.spotify.com/album/44ybjLZfz5xy8Zb5PVMhe3"
+      },
+      "artists": [
+        {
+          "name": "Southeast Worship",
+          "url": "https://open.spotify.com/artist/48Cxaiqses3N5qczr2RJ99"
+        },
+        {
+          "name": "Alexis Spaulding",
+          "url": "https://open.spotify.com/artist/32xhGxm7l6MsRd0Ms04MYb"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314905,
+      "name": "Break The Jar - Live",
+      "url": "https://open.spotify.com/track/1bx89I6IemJDpXRxc62GUq"
     },
     {
       "album": {
@@ -2796,10 +2818,32 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 779330,
       "name": "For Christ Alone",
       "url": "https://open.spotify.com/track/7Bo3bNQF6DJ9mKHwvymFZb"
+    },
+    {
+      "album": {
+        "name": "For Jesus (Live)",
+        "url": "https://open.spotify.com/album/5iwARCsDtN0pcsFeqiRjAl"
+      },
+      "artists": [
+        {
+          "name": "New Wine Worship",
+          "url": "https://open.spotify.com/artist/2G5uXRzRvQILLfvQCsnSUV"
+        },
+        {
+          "name": "Joe Hardy",
+          "url": "https://open.spotify.com/artist/5Bd1iYjijYHHAHZWzV1Vi0"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272000,
+      "name": "For Jesus - Live",
+      "url": "https://open.spotify.com/track/2dp8LCLLr26R0nbif6mFxQ"
     },
     {
       "album": {
@@ -2928,6 +2972,24 @@
       "duration_ms": 272869,
       "name": "Give Him Praise - Live",
       "url": "https://open.spotify.com/track/05RRiQVTtIiwACyDwJTtLw"
+    },
+    {
+      "album": {
+        "name": "Give Me Joy (Live from O2 Shepherd's Bush Empire)",
+        "url": "https://open.spotify.com/album/1OpFDrNCqRbR7QMI93l7HK"
+      },
+      "artists": [
+        {
+          "name": "Elle Limebear",
+          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343569,
+      "name": "Give Me Joy - Live from O2 Shepherd\u2019s Bush Empire",
+      "url": "https://open.spotify.com/track/6AKc3SyZGPdLR9GKu8BFtz"
     },
     {
       "album": {
@@ -3502,6 +3564,54 @@
       "duration_ms": 538200,
       "name": "Greatly To Be Praised - Live",
       "url": "https://open.spotify.com/track/4nxbshOlmnBPG94wjMHsaU"
+    },
+    {
+      "album": {
+        "name": "Greatly to Be Praised (Live)",
+        "url": "https://open.spotify.com/album/18x0uO9eEIlcsoOXODq1T9"
+      },
+      "artists": [
+        {
+          "name": "HopeUC Nashville",
+          "url": "https://open.spotify.com/artist/6sMJlvQomyspsCajqkA9Qd"
+        },
+        {
+          "name": "Here Be Lions",
+          "url": "https://open.spotify.com/artist/4DKidGMzaf7OVw7FKxihqc"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283899,
+      "name": "Greatly to Be Praised - Live",
+      "url": "https://open.spotify.com/track/29q0Hvitu3qq6wfKcihXfE"
+    },
+    {
+      "album": {
+        "name": "Greatness",
+        "url": "https://open.spotify.com/album/0YlejC2NYCGaasm2yVJ6Tt"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Aubree Archibeck",
+          "url": "https://open.spotify.com/artist/604TmIQowwYB89ZXdgnc8t"
+        },
+        {
+          "name": "Martin Smith",
+          "url": "https://open.spotify.com/artist/7ISMNhe95QNLqHgsCHAVeu"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392113,
+      "name": "Greatness",
+      "url": "https://open.spotify.com/track/476NZpK9PwbxMd7ya9IX9C"
     },
     {
       "album": {
@@ -4570,7 +4680,7 @@
       ],
       "date_added": "2026-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 328288,
       "name": "I Believe - Live",
       "url": "https://open.spotify.com/track/7D8ZzN0TDoc2EO83SxnK2e"
@@ -4794,7 +4904,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 346056,
       "name": "I Was Made To Glorify Your Name",
       "url": "https://open.spotify.com/track/3OXx9dafJSuGO4OF5SiFLO"
@@ -6442,7 +6552,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 563991,
       "name": "Love Of My Life - Live",
       "url": "https://open.spotify.com/track/7bLxvZFk8wQ0TsNzjyfUr0"
@@ -6720,7 +6830,7 @@
       ],
       "date_added": "2026-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 404589,
       "name": "Middle Of A Miracle - Live",
       "url": "https://open.spotify.com/track/7foDpqL3QfnSLG2NGamL1x"
@@ -7248,7 +7358,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 548333,
       "name": "No One Like You / Higher - Live",
       "url": "https://open.spotify.com/track/5nj4pfC3DgRBvMMPwDyrZX"
@@ -8137,6 +8247,24 @@
     },
     {
       "album": {
+        "name": "Prepare Him Room (Live)",
+        "url": "https://open.spotify.com/album/5gLHqBvauyUQrHUklvpcnj"
+      },
+      "artists": [
+        {
+          "name": "Sovereign Grace Music",
+          "url": "https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238400,
+      "name": "Prepare Him Room - Live",
+      "url": "https://open.spotify.com/track/15iQbtvwthmOWk9joFkoPc"
+    },
+    {
+      "album": {
         "name": "Worthy Of Hallelujah (Live)",
         "url": "https://open.spotify.com/album/3wtjYn5O0FawhiX7M5XodK"
       },
@@ -8310,7 +8438,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 404000,
       "name": "Receive the Fragrance - Live",
       "url": "https://open.spotify.com/track/6wMteA9GTPlNND35aLYQhR"
@@ -8394,7 +8522,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 243642,
       "name": "Rest of My Life - Live",
       "url": "https://open.spotify.com/track/2JTMqQZGd1FVYXIIoZynQQ"
@@ -8565,6 +8693,54 @@
     },
     {
       "album": {
+        "name": "Ruach Elohim",
+        "url": "https://open.spotify.com/album/6c5bXxm89IbidQKfpEnFvw"
+      },
+      "artists": [
+        {
+          "name": "Chroma Worship",
+          "url": "https://open.spotify.com/artist/4WdBWioetJ8BavNqJzQU8P"
+        },
+        {
+          "name": "Joel Barber",
+          "url": "https://open.spotify.com/artist/2q8kIcMla0W9tWshKMIetR"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 582297,
+      "name": "Ruach Elohim",
+      "url": "https://open.spotify.com/track/44k6wKyqzOEh6zTsFnsW1J"
+    },
+    {
+      "album": {
+        "name": "Middle Of A Miracle (Live)",
+        "url": "https://open.spotify.com/album/0LtObkKkXzt5E5jTCcFPhX"
+      },
+      "artists": [
+        {
+          "name": "Grace City",
+          "url": "https://open.spotify.com/artist/0nthudnBUjSpYoUnNawp6J"
+        },
+        {
+          "name": "Kenzie Walker",
+          "url": "https://open.spotify.com/artist/4VJFpqwAvZKRah8klcHmFy"
+        },
+        {
+          "name": "Bobby Walker",
+          "url": "https://open.spotify.com/artist/1wOa9zqJNXhPTAKrSegafE"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307448,
+      "name": "Running Over - Live",
+      "url": "https://open.spotify.com/track/4rCFtVkvuJApSzMaAUceuD"
+    },
+    {
+      "album": {
         "name": "Sing As One",
         "url": "https://open.spotify.com/album/2KQF01EPLOTUAdwP0FKejw"
       },
@@ -8623,6 +8799,24 @@
     },
     {
       "album": {
+        "name": "Second to None (Live)",
+        "url": "https://open.spotify.com/album/5T1cjdP76TyCZiFm4QOxnE"
+      },
+      "artists": [
+        {
+          "name": "Damascus Worship",
+          "url": "https://open.spotify.com/artist/1QHljL6ZVxIi5bylNmFkFI"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387643,
+      "name": "Second to None - Live",
+      "url": "https://open.spotify.com/track/6m5Zvd5HznelUUzLiZ0UQx"
+    },
+    {
+      "album": {
         "name": "Sending Up A Praise",
         "url": "https://open.spotify.com/album/5Bk8bNvJbRTtPUqSTUtkSp"
       },
@@ -8638,7 +8832,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 360840,
       "name": "Sending Up A Praise",
       "url": "https://open.spotify.com/track/5Lwwm1BrY9ThpSVRACUaE6"
@@ -9595,6 +9789,28 @@
     },
     {
       "album": {
+        "name": "The Drought Is Over (Live from LO Conference)",
+        "url": "https://open.spotify.com/album/5VUNF7l8IgVKMURg4QLfOo"
+      },
+      "artists": [
+        {
+          "name": "LO Worship",
+          "url": "https://open.spotify.com/artist/3W1GhZUgWMZBqYwH42Ycuq"
+        },
+        {
+          "name": "Anna Golden",
+          "url": "https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323249,
+      "name": "The Drought Is Over - Live from LO Conference",
+      "url": "https://open.spotify.com/track/2EXb4Ehj689iuhkUgc4Pan"
+    },
+    {
+      "album": {
         "name": "The Good Thief (Hallelujah) [Live]",
         "url": "https://open.spotify.com/album/6rCcZL8tO4yNTfDlf3O3s3"
       },
@@ -9922,7 +10138,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 473198,
       "name": "The Perfect Love of Jesus - Live",
       "url": "https://open.spotify.com/track/5R7MwLBKlUPzRptEuQFY1I"
@@ -10713,6 +10929,24 @@
     },
     {
       "album": {
+        "name": "War Cry",
+        "url": "https://open.spotify.com/album/1lR8VCErm4crvxHJLIPLSK"
+      },
+      "artists": [
+        {
+          "name": "Mercy Culture Worship",
+          "url": "https://open.spotify.com/artist/7qbjOkkH57gPl41xfR8RuI"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 822718,
+      "name": "War Cry - Live",
+      "url": "https://open.spotify.com/track/1EXUqXO0KIPLfstXFjuVNy"
+    },
+    {
+      "album": {
         "name": "Wash Over Me (Live)",
         "url": "https://open.spotify.com/album/2OdJ4uS3VHMruiNKZl4X1Y"
       },
@@ -11475,6 +11709,32 @@
     },
     {
       "album": {
+        "name": "Hallelujah Jesus Saves",
+        "url": "https://open.spotify.com/album/3WAsnLXATQhywTQRoIuLOQ"
+      },
+      "artists": [
+        {
+          "name": "KXC",
+          "url": "https://open.spotify.com/artist/4IRzqqB9lt9kxz86QP0kpO"
+        },
+        {
+          "name": "Joshua Fraser",
+          "url": "https://open.spotify.com/artist/7KO07Ql1wQPxRzdz8pTzJU"
+        },
+        {
+          "name": "Rebekah Fitch",
+          "url": "https://open.spotify.com/artist/3okhrC6DbZJOUhPTiUkwM6"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257045,
+      "name": "You Are Worthy God",
+      "url": "https://open.spotify.com/track/6CtuAyq8emaTeRwhnaul4S"
+    },
+    {
+      "album": {
         "name": "You Came (Lazarus) [Live]",
         "url": "https://open.spotify.com/album/1RmXKqaj24Nznnu6IRhSdk"
       },
@@ -11596,7 +11856,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 239802,
       "name": "You Will Make All Things New",
       "url": "https://open.spotify.com/track/7JM0ANkEUoDmHmdABU1LhA"

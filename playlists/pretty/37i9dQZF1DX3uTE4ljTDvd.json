@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a e conhe\u00e7a as revela\u00e7\u00f5es da m\u00fasica gospel. Foto: Larissa Santos",
-  "num_followers": 134974,
+  "num_followers": 134977,
   "original_name": "Revela\u00e7\u00e3o Gospel",
   "owner": {
     "name": "Spotify",
@@ -439,22 +439,6 @@
     {
       "added_at": "2026-03-02 15:12:51",
       "album": {
-        "name": "Esta\u00e7\u00f5es",
-        "url": "https://open.spotify.com/album/76288hlVhG5AxKmWjOanMQ"
-      },
-      "artists": [
-        {
-          "name": "Os Meireles",
-          "url": "https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1"
-        }
-      ],
-      "duration_ms": 180600,
-      "name": "D\u00ea Mais uma Chance para o Mundo",
-      "url": "https://open.spotify.com/track/1ynxYbJ0Ok79hrPMHpfq8R"
-    },
-    {
-      "added_at": "2026-03-02 15:12:51",
-      "album": {
         "name": "Deus Te Chama",
         "url": "https://open.spotify.com/album/1Fitkeh9wxq0beb7mCFL2e"
       },
@@ -471,18 +455,18 @@
     {
       "added_at": "2026-03-02 15:12:51",
       "album": {
-        "name": "Quem \u00e9 Esse?",
-        "url": "https://open.spotify.com/album/2Hue0DRCh1m0YkA9Hc6qpL"
+        "name": "Esta\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/76288hlVhG5AxKmWjOanMQ"
       },
       "artists": [
         {
-          "name": "Naara e Sarah",
-          "url": "https://open.spotify.com/artist/0LPEcQYu6T8yx0W0pswNf9"
+          "name": "Os Meireles",
+          "url": "https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1"
         }
       ],
-      "duration_ms": 319577,
-      "name": "Quem \u00e9 Esse?",
-      "url": "https://open.spotify.com/track/5aGSIDAIjpskRm4pPMRUDT"
+      "duration_ms": 180600,
+      "name": "D\u00ea Mais uma Chance para o Mundo",
+      "url": "https://open.spotify.com/track/1ynxYbJ0Ok79hrPMHpfq8R"
     },
     {
       "added_at": "2026-03-02 15:12:51",
@@ -499,6 +483,22 @@
       "duration_ms": 288857,
       "name": "Pra Que Eu Fosse Livre",
       "url": "https://open.spotify.com/track/0fvBym1UrheJRFqwFPDEzH"
+    },
+    {
+      "added_at": "2026-03-02 15:12:51",
+      "album": {
+        "name": "Quem \u00e9 Esse?",
+        "url": "https://open.spotify.com/album/2Hue0DRCh1m0YkA9Hc6qpL"
+      },
+      "artists": [
+        {
+          "name": "Naara e Sarah",
+          "url": "https://open.spotify.com/artist/0LPEcQYu6T8yx0W0pswNf9"
+        }
+      ],
+      "duration_ms": 319577,
+      "name": "Quem \u00e9 Esse?",
+      "url": "https://open.spotify.com/track/5aGSIDAIjpskRm4pPMRUDT"
     },
     {
       "added_at": "2026-03-02 15:12:51",
@@ -539,6 +539,26 @@
     {
       "added_at": "2026-03-02 15:12:51",
       "album": {
+        "name": "Destemida",
+        "url": "https://open.spotify.com/album/1NgjBwy3avUOglmOx2pLBJ"
+      },
+      "artists": [
+        {
+          "name": "Adai Music",
+          "url": "https://open.spotify.com/artist/0XjDs3G6KWLGWJT8GXDrZa"
+        },
+        {
+          "name": "Gislaine Rodrigues",
+          "url": "https://open.spotify.com/artist/4De0baIDAcYNBXL6bDybaM"
+        }
+      ],
+      "duration_ms": 298285,
+      "name": "Destemida",
+      "url": "https://open.spotify.com/track/7jLrfFTraIFefCf4NUGDg9"
+    },
+    {
+      "added_at": "2026-03-02 15:12:51",
+      "album": {
         "name": "Clame a Jesus (Ao Vivo)",
         "url": "https://open.spotify.com/album/3ho9koqLjvMKLuXtKStXSY"
       },
@@ -567,26 +587,6 @@
       "duration_ms": 321562,
       "name": "Te Queremos Mais",
       "url": "https://open.spotify.com/track/2b8G9oQzA0MUQvQfhLqZCf"
-    },
-    {
-      "added_at": "2026-03-02 15:12:51",
-      "album": {
-        "name": "Destemida",
-        "url": "https://open.spotify.com/album/1NgjBwy3avUOglmOx2pLBJ"
-      },
-      "artists": [
-        {
-          "name": "Adai Music",
-          "url": "https://open.spotify.com/artist/0XjDs3G6KWLGWJT8GXDrZa"
-        },
-        {
-          "name": "Gislaine Rodrigues",
-          "url": "https://open.spotify.com/artist/4De0baIDAcYNBXL6bDybaM"
-        }
-      ],
-      "duration_ms": 298285,
-      "name": "Destemida",
-      "url": "https://open.spotify.com/track/7jLrfFTraIFefCf4NUGDg9"
     },
     {
       "added_at": "2026-03-02 15:12:51",
@@ -659,6 +659,22 @@
     {
       "added_at": "2026-03-02 15:12:51",
       "album": {
+        "name": "Quanto Amor",
+        "url": "https://open.spotify.com/album/4K7OG0Y812Xl9UlpyNjJbj"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Bulian",
+          "url": "https://open.spotify.com/artist/5eihOAXqmEGCMspHHPSIa0"
+        }
+      ],
+      "duration_ms": 224550,
+      "name": "Quanto Amor",
+      "url": "https://open.spotify.com/track/4Uc9lQEOm6KnNtES53jDfB"
+    },
+    {
+      "added_at": "2026-03-02 15:12:51",
+      "album": {
         "name": "Algo Novo (Ao Vivo)",
         "url": "https://open.spotify.com/album/6G0oDvXL16kzbgrMh0Hdxh"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 310746,
       "name": "Algo Novo (Ao Vivo)",
       "url": "https://open.spotify.com/track/0rXkY5mbbgVzyu1CyNh9Pr"
-    },
-    {
-      "added_at": "2026-03-02 15:12:51",
-      "album": {
-        "name": "Quando o Eterno For Real",
-        "url": "https://open.spotify.com/album/2XYkDU6G3HdRguQctcHmBk"
-      },
-      "artists": [
-        {
-          "name": "Vit\u00f3ria Costa",
-          "url": "https://open.spotify.com/artist/4ivt5LCWnYvngo0oxkDQHW"
-        }
-      ],
-      "duration_ms": 290222,
-      "name": "Quando o Eterno For Real",
-      "url": "https://open.spotify.com/track/78lt1qOfZEjpZPv7JVfunA"
     },
     {
       "added_at": "2026-03-02 15:12:51",
@@ -707,18 +707,18 @@
     {
       "added_at": "2026-03-02 15:12:51",
       "album": {
-        "name": "Quanto Amor",
-        "url": "https://open.spotify.com/album/4K7OG0Y812Xl9UlpyNjJbj"
+        "name": "Quando o Eterno For Real",
+        "url": "https://open.spotify.com/album/2XYkDU6G3HdRguQctcHmBk"
       },
       "artists": [
         {
-          "name": "Gabriel Bulian",
-          "url": "https://open.spotify.com/artist/5eihOAXqmEGCMspHHPSIa0"
+          "name": "Vit\u00f3ria Costa",
+          "url": "https://open.spotify.com/artist/4ivt5LCWnYvngo0oxkDQHW"
         }
       ],
-      "duration_ms": 224550,
-      "name": "Quanto Amor",
-      "url": "https://open.spotify.com/track/4Uc9lQEOm6KnNtES53jDfB"
+      "duration_ms": 290222,
+      "name": "Quando o Eterno For Real",
+      "url": "https://open.spotify.com/track/78lt1qOfZEjpZPv7JVfunA"
     },
     {
       "added_at": "2026-03-02 15:12:51",
@@ -755,6 +755,22 @@
     {
       "added_at": "2026-03-02 15:12:51",
       "album": {
+        "name": "Vida Boa",
+        "url": "https://open.spotify.com/album/5jNET3UCFFAuwFmDoi4U3F"
+      },
+      "artists": [
+        {
+          "name": "Marllon Ribeiro",
+          "url": "https://open.spotify.com/artist/6CdzLasuO9Gbn0mHJSPD5l"
+        }
+      ],
+      "duration_ms": 283947,
+      "name": "Vida Boa",
+      "url": "https://open.spotify.com/track/4WXSnFFUQkUxomeeh8J3Sa"
+    },
+    {
+      "added_at": "2026-03-02 15:12:51",
+      "album": {
         "name": "Descansa em Mim",
         "url": "https://open.spotify.com/album/3pVZs73gK7tDaS6rQwZjYc"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 305000,
       "name": "Descansa em Mim",
       "url": "https://open.spotify.com/track/33Kw7vIXjoeCvwTKeM4wR8"
-    },
-    {
-      "added_at": "2026-03-02 15:12:51",
-      "album": {
-        "name": "Vida Boa",
-        "url": "https://open.spotify.com/album/5jNET3UCFFAuwFmDoi4U3F"
-      },
-      "artists": [
-        {
-          "name": "Marllon Ribeiro",
-          "url": "https://open.spotify.com/artist/6CdzLasuO9Gbn0mHJSPD5l"
-        }
-      ],
-      "duration_ms": 283947,
-      "name": "Vida Boa",
-      "url": "https://open.spotify.com/track/4WXSnFFUQkUxomeeh8J3Sa"
     },
     {
       "added_at": "2026-03-02 15:12:51",
@@ -855,22 +855,6 @@
     {
       "added_at": "2026-03-02 15:12:51",
       "album": {
-        "name": "Peda\u00e7os",
-        "url": "https://open.spotify.com/album/0FQ8Nc7qIXL2iLMM8semJg"
-      },
-      "artists": [
-        {
-          "name": "Matheus Ferreira",
-          "url": "https://open.spotify.com/artist/22qVBbq872oJZLTDHqLxIh"
-        }
-      ],
-      "duration_ms": 259500,
-      "name": "Peda\u00e7os",
-      "url": "https://open.spotify.com/track/4AMynmRZe5KROmgA6pq9I4"
-    },
-    {
-      "added_at": "2026-03-02 15:12:51",
-      "album": {
         "name": "Tu \u00c9s Real",
         "url": "https://open.spotify.com/album/4NoPJEE6kCMWwFutabtrzj"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 302769,
       "name": "Tu \u00c9s Real",
       "url": "https://open.spotify.com/track/7nzBmdLOPtGOmwsWTyNBwq"
+    },
+    {
+      "added_at": "2026-03-02 15:12:51",
+      "album": {
+        "name": "Peda\u00e7os",
+        "url": "https://open.spotify.com/album/0FQ8Nc7qIXL2iLMM8semJg"
+      },
+      "artists": [
+        {
+          "name": "Matheus Ferreira",
+          "url": "https://open.spotify.com/artist/22qVBbq872oJZLTDHqLxIh"
+        }
+      ],
+      "duration_ms": 259500,
+      "name": "Peda\u00e7os",
+      "url": "https://open.spotify.com/track/4AMynmRZe5KROmgA6pq9I4"
     },
     {
       "added_at": "2026-03-02 15:12:51",
@@ -939,22 +939,6 @@
     {
       "added_at": "2026-03-02 15:12:51",
       "album": {
-        "name": "Cora\u00e7\u00e3o Cansado de Partir",
-        "url": "https://open.spotify.com/album/1Ox3RacCzycf2OfYIrSfXc"
-      },
-      "artists": [
-        {
-          "name": "Matheus Ferreira",
-          "url": "https://open.spotify.com/artist/22qVBbq872oJZLTDHqLxIh"
-        }
-      ],
-      "duration_ms": 291500,
-      "name": "Cora\u00e7\u00e3o Cansado de Partir",
-      "url": "https://open.spotify.com/track/4HnZ4YwXkGFMour3ANraz4"
-    },
-    {
-      "added_at": "2026-03-02 15:12:51",
-      "album": {
         "name": "O Teu Poder (Creio em Ti)",
         "url": "https://open.spotify.com/album/3gUFySRFOAKWn5VfZ9dvAI"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 241500,
       "name": "O Teu Poder (Creio em Ti)",
       "url": "https://open.spotify.com/track/7wpguZT8WHrxVimzWfEusv"
+    },
+    {
+      "added_at": "2026-03-02 15:12:51",
+      "album": {
+        "name": "Cora\u00e7\u00e3o Cansado de Partir",
+        "url": "https://open.spotify.com/album/1Ox3RacCzycf2OfYIrSfXc"
+      },
+      "artists": [
+        {
+          "name": "Matheus Ferreira",
+          "url": "https://open.spotify.com/artist/22qVBbq872oJZLTDHqLxIh"
+        }
+      ],
+      "duration_ms": 291500,
+      "name": "Cora\u00e7\u00e3o Cansado de Partir",
+      "url": "https://open.spotify.com/track/4HnZ4YwXkGFMour3ANraz4"
     },
     {
       "added_at": "2026-03-02 15:12:51",

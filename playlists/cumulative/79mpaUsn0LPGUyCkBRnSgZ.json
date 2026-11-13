@@ -185,6 +185,28 @@
     },
     {
       "album": {
+        "name": "THIS IS SPA TOWN!",
+        "url": "https://open.spotify.com/album/621WlWIqOod29HG6km5Olf"
+      },
+      "artists": [
+        {
+          "name": "300SkullsAndCounting",
+          "url": "https://open.spotify.com/artist/7hGgwyIQYX5u1XU8asjH63"
+        },
+        {
+          "name": "Jenny Sparks",
+          "url": "https://open.spotify.com/artist/0S8h1aYM60QtOHIKqWfNvf"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205546,
+      "name": "100% Legal Intro",
+      "url": "https://open.spotify.com/track/6dFVY4JKZLMsAsxE7bCwyf"
+    },
+    {
+      "album": {
         "name": "Djesse Vol. 4",
         "url": "https://open.spotify.com/album/13r6eqjYlKELFQlNvVCBz1"
       },
@@ -12430,6 +12452,24 @@
       "duration_ms": 619263,
       "name": "Maggot Brain",
       "url": "https://open.spotify.com/track/5WJU527RQNyMLuKecjsL8V"
+    },
+    {
+      "album": {
+        "name": "Ninety",
+        "url": "https://open.spotify.com/album/46z1u29jqg6fZA6mAO2E8Y"
+      },
+      "artists": [
+        {
+          "name": "808 State",
+          "url": "https://open.spotify.com/artist/7hFdUW64G4iU1tz46ITRfN"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232906,
+      "name": "Magical Dream",
+      "url": "https://open.spotify.com/track/3UteqPisakwAwZ1xKjERqf"
     },
     {
       "album": {

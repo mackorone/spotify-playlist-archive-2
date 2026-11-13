@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1D1lDfaOy483s8BIQRjBSS">JHart</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-252 songs - 13 hr 43 min
+253 songs - 13 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,6 +161,7 @@
 | [NOT OK](https://open.spotify.com/track/41GSQLHFU2rx97I6QEyw1F) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [EVERYONE'S A STAR! \(Fully Evolved\)](https://open.spotify.com/album/5PZaqv1kmnGYMvO8lS0Cqs) | 3:26 | 2026-11-11 |  |
 | [Off The Wall](https://open.spotify.com/track/10337ZqJY267khka2IZYkY) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [DREAMSCAPE](https://open.spotify.com/album/4CbiijbtjdFusL6uXiZJ2k) | 2:38 | 2024-11-13 | 2024-11-15 |
 | [Off The Wall](https://open.spotify.com/track/5Q5zfuCHsMhvN4eMvNLAjn) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [DREAMSCAPE](https://open.spotify.com/album/4iF9sRunhefmp2zO5ys0AB) | 2:38 | 2024-11-14 |  |
+| [Officially Mine](https://open.spotify.com/track/2NVsWRM4DFXO1GIBZRVKVY) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Sugar Water](https://open.spotify.com/album/2T17eNpNaZjeuDFcW3Mgfs) | 2:16 | 2026-11-12 |  |
 | [On My Life](https://open.spotify.com/track/6izJLwK6uGMJNQaRLFPO3H) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU) | [HELLRAISERS, Part 1](https://open.spotify.com/album/5NXJVouKAFjwszJA8FxUY7) | 2:59 | 2024-02-27 |  |
 | [One Of Those Days](https://open.spotify.com/track/4qoRtBttExNQ8eguqiYsRg) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Just Whitney](https://open.spotify.com/album/1PaUocxapG5ROK0UVvZwNX) | 4:15 | 2024-02-27 |  |
 | [Out Of My League](https://open.spotify.com/track/3JSATYGj6yxP1Vc1b49SSK) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [a beautiful blur](https://open.spotify.com/album/5w3zZsY4gg9M0L599NNmV2) | 3:26 | 2024-02-27 |  |

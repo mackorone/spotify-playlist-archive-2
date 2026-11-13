@@ -1,6 +1,6 @@
 {
   "description": "Hypnotic melodic and afro <a href=\"spotify:genre:house\">house</a> to light up the night.",
-  "num_followers": 595270,
+  "num_followers": 595296,
   "original_name": "Tantra",
   "owner": {
     "name": "Spotify",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2026-10-23 04:00:56",
       "album": {
+        "name": "Loca",
+        "url": "https://open.spotify.com/album/7hTjR05Pb3Fa4ON3utHbAP"
+      },
+      "artists": [
+        {
+          "name": "SHADU",
+          "url": "https://open.spotify.com/artist/6H8SLujG7SG0QxrMoi9V7C"
+        }
+      ],
+      "duration_ms": 184222,
+      "name": "Loca",
+      "url": "https://open.spotify.com/track/1IlcOpEu12FsBFXeSOrJbM"
+    },
+    {
+      "added_at": "2026-10-23 04:00:56",
+      "album": {
         "name": "Rivers and Homes Retake",
         "url": "https://open.spotify.com/album/2E2yEEkQgFrHpYubtzTICD"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 265511,
       "name": "Rivers and Homes Retake",
       "url": "https://open.spotify.com/track/27yxfXtOHaPkytNz0P2HoL"
-    },
-    {
-      "added_at": "2026-10-23 04:00:56",
-      "album": {
-        "name": "Loca",
-        "url": "https://open.spotify.com/album/7hTjR05Pb3Fa4ON3utHbAP"
-      },
-      "artists": [
-        {
-          "name": "SHADU",
-          "url": "https://open.spotify.com/artist/6H8SLujG7SG0QxrMoi9V7C"
-        }
-      ],
-      "duration_ms": 184222,
-      "name": "Loca",
-      "url": "https://open.spotify.com/track/1IlcOpEu12FsBFXeSOrJbM"
     },
     {
       "added_at": "2026-10-23 04:00:56",
@@ -1391,26 +1391,6 @@
     {
       "added_at": "2026-10-23 04:00:56",
       "album": {
-        "name": "Heart Spin EP",
-        "url": "https://open.spotify.com/album/5p7Zfw7MUNPxXg1dWmYSl6"
-      },
-      "artists": [
-        {
-          "name": "Samm",
-          "url": "https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0"
-        },
-        {
-          "name": "JUNO (DE)",
-          "url": "https://open.spotify.com/artist/6H0Lbuc95DxzpDkKdwnYQ3"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "Heart Spin",
-      "url": "https://open.spotify.com/track/116fzo1wS2gAtGYYdx30C8"
-    },
-    {
-      "added_at": "2026-10-23 04:00:56",
-      "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/3LOuosVLxpQ5k5Fs6TDj3z"
       },
@@ -1431,6 +1411,26 @@
       "duration_ms": 376271,
       "name": "Timeless",
       "url": "https://open.spotify.com/track/3sdKayfObt6VePZL7AhiU5"
+    },
+    {
+      "added_at": "2026-10-23 04:00:56",
+      "album": {
+        "name": "Heart Spin EP",
+        "url": "https://open.spotify.com/album/5p7Zfw7MUNPxXg1dWmYSl6"
+      },
+      "artists": [
+        {
+          "name": "Samm",
+          "url": "https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0"
+        },
+        {
+          "name": "JUNO (DE)",
+          "url": "https://open.spotify.com/artist/6H0Lbuc95DxzpDkKdwnYQ3"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "Heart Spin",
+      "url": "https://open.spotify.com/track/116fzo1wS2gAtGYYdx30C8"
     },
     {
       "added_at": "2026-10-23 04:00:56",
@@ -1475,26 +1475,6 @@
     {
       "added_at": "2026-10-23 04:00:56",
       "album": {
-        "name": "Mounkera",
-        "url": "https://open.spotify.com/album/39tt3GUhPor5TYUdsxgNgz"
-      },
-      "artists": [
-        {
-          "name": "MoBlack",
-          "url": "https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs"
-        },
-        {
-          "name": "Djanka Diabat\u00e9",
-          "url": "https://open.spotify.com/artist/7olbVkVVt53k2MXnQV9et3"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "Mounkera",
-      "url": "https://open.spotify.com/track/6UFTQiTLjvrYDqpR6403Jz"
-    },
-    {
-      "added_at": "2026-10-23 04:00:56",
-      "album": {
         "name": "Sound Of The Sunrise",
         "url": "https://open.spotify.com/album/2edg227641w0qF8GX65k0R"
       },
@@ -1511,6 +1491,26 @@
       "duration_ms": 193548,
       "name": "Sound Of The Sunrise",
       "url": "https://open.spotify.com/track/6m5LSzsU466ynNvEkxoctM"
+    },
+    {
+      "added_at": "2026-10-23 04:00:56",
+      "album": {
+        "name": "Mounkera",
+        "url": "https://open.spotify.com/album/39tt3GUhPor5TYUdsxgNgz"
+      },
+      "artists": [
+        {
+          "name": "MoBlack",
+          "url": "https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs"
+        },
+        {
+          "name": "Djanka Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/7olbVkVVt53k2MXnQV9et3"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "Mounkera",
+      "url": "https://open.spotify.com/track/6UFTQiTLjvrYDqpR6403Jz"
     },
     {
       "added_at": "2026-10-23 04:00:56",
@@ -1587,6 +1587,26 @@
     {
       "added_at": "2026-10-23 04:00:56",
       "album": {
+        "name": "THE ASCENSION (INKAWAMI)",
+        "url": "https://open.spotify.com/album/1ypLM6ggLT4oF47kGx3kRz"
+      },
+      "artists": [
+        {
+          "name": "KILIMANJARO",
+          "url": "https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7"
+        },
+        {
+          "name": "Dyo",
+          "url": "https://open.spotify.com/artist/4H1PNuHElBLVok0lnYMrRb"
+        }
+      ],
+      "duration_ms": 179815,
+      "name": "Not Like You",
+      "url": "https://open.spotify.com/track/3xzxzll7UnFqXKg28lsutT"
+    },
+    {
+      "added_at": "2026-10-23 04:00:56",
+      "album": {
         "name": "Mandjou",
         "url": "https://open.spotify.com/album/6HBmnZQbAddEaKfOFlf11K"
       },
@@ -1627,26 +1647,6 @@
       "duration_ms": 166162,
       "name": "GROOVINU",
       "url": "https://open.spotify.com/track/6lGOcjBAzM0paksRI8FIkH"
-    },
-    {
-      "added_at": "2026-10-23 04:00:56",
-      "album": {
-        "name": "THE ASCENSION (INKAWAMI)",
-        "url": "https://open.spotify.com/album/1ypLM6ggLT4oF47kGx3kRz"
-      },
-      "artists": [
-        {
-          "name": "KILIMANJARO",
-          "url": "https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7"
-        },
-        {
-          "name": "Dyo",
-          "url": "https://open.spotify.com/artist/4H1PNuHElBLVok0lnYMrRb"
-        }
-      ],
-      "duration_ms": 179815,
-      "name": "Not Like You",
-      "url": "https://open.spotify.com/track/3xzxzll7UnFqXKg28lsutT"
     },
     {
       "added_at": "2026-10-23 04:00:56",
@@ -1879,6 +1879,30 @@
     {
       "added_at": "2026-10-23 04:00:56",
       "album": {
+        "name": "LOW",
+        "url": "https://open.spotify.com/album/5yVW2lirxVrpemK2mj6K43"
+      },
+      "artists": [
+        {
+          "name": "Serve Cold",
+          "url": "https://open.spotify.com/artist/0jkLg9cCRdKYTay0hte9xm"
+        },
+        {
+          "name": "Grigor\u00e9",
+          "url": "https://open.spotify.com/artist/2RemyvxrdxNsB7ycf3rJHX"
+        },
+        {
+          "name": "Jaguar Jaguar",
+          "url": "https://open.spotify.com/artist/2R8sfGkLsBHLRIrJVmR2t4"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "LOW",
+      "url": "https://open.spotify.com/track/6haDUN6avkD3hgIalNJkyt"
+    },
+    {
+      "added_at": "2026-10-23 04:00:56",
+      "album": {
         "name": "Waya",
         "url": "https://open.spotify.com/album/1KDIQD5as4eTpPS8YfgKfB"
       },
@@ -1903,30 +1927,6 @@
       "duration_ms": 222096,
       "name": "Waya",
       "url": "https://open.spotify.com/track/4Dd72AtS6qXYPNSLE8cpMq"
-    },
-    {
-      "added_at": "2026-10-23 04:00:56",
-      "album": {
-        "name": "LOW",
-        "url": "https://open.spotify.com/album/5yVW2lirxVrpemK2mj6K43"
-      },
-      "artists": [
-        {
-          "name": "Serve Cold",
-          "url": "https://open.spotify.com/artist/0jkLg9cCRdKYTay0hte9xm"
-        },
-        {
-          "name": "Grigor\u00e9",
-          "url": "https://open.spotify.com/artist/2RemyvxrdxNsB7ycf3rJHX"
-        },
-        {
-          "name": "Jaguar Jaguar",
-          "url": "https://open.spotify.com/artist/2R8sfGkLsBHLRIrJVmR2t4"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "LOW",
-      "url": "https://open.spotify.com/track/6haDUN6avkD3hgIalNJkyt"
     },
     {
       "added_at": "2026-10-23 04:00:56",
@@ -2099,6 +2099,22 @@
     {
       "added_at": "2026-10-23 04:00:56",
       "album": {
+        "name": "Ella",
+        "url": "https://open.spotify.com/album/1d2ZLzQ3y2UQzXYx6iLIKM"
+      },
+      "artists": [
+        {
+          "name": "Aden Lou",
+          "url": "https://open.spotify.com/artist/2SERlI6L4lfC7TOY8remiC"
+        }
+      ],
+      "duration_ms": 176585,
+      "name": "Ella",
+      "url": "https://open.spotify.com/track/6fju67ioli6vx2usDVSlxh"
+    },
+    {
+      "added_at": "2026-10-23 04:00:56",
+      "album": {
         "name": "Mirage",
         "url": "https://open.spotify.com/album/1QFEurpNFobpWBTjSyo2di"
       },
@@ -2123,22 +2139,6 @@
       "duration_ms": 222470,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/5GDR8Wya0Zy5xCmeHc7m7P"
-    },
-    {
-      "added_at": "2026-10-23 04:00:56",
-      "album": {
-        "name": "Ella",
-        "url": "https://open.spotify.com/album/1d2ZLzQ3y2UQzXYx6iLIKM"
-      },
-      "artists": [
-        {
-          "name": "Aden Lou",
-          "url": "https://open.spotify.com/artist/2SERlI6L4lfC7TOY8remiC"
-        }
-      ],
-      "duration_ms": 176585,
-      "name": "Ella",
-      "url": "https://open.spotify.com/track/6fju67ioli6vx2usDVSlxh"
     },
     {
       "added_at": "2026-10-23 04:00:56",
@@ -2247,30 +2247,6 @@
     {
       "added_at": "2026-10-23 04:00:56",
       "album": {
-        "name": "Secrets (feat. True Motion)",
-        "url": "https://open.spotify.com/album/5VTJ4q6s1ATldSf3ahOt40"
-      },
-      "artists": [
-        {
-          "name": "Josh Gigante",
-          "url": "https://open.spotify.com/artist/7dcUWT1KmxjXieEnzFSjeH"
-        },
-        {
-          "name": "Prana Flow",
-          "url": "https://open.spotify.com/artist/4WaZ1Gyiur44tPbWiDeTqn"
-        },
-        {
-          "name": "True Motion",
-          "url": "https://open.spotify.com/artist/7c0iaL5N7aygMrQnZmHrST"
-        }
-      ],
-      "duration_ms": 195121,
-      "name": "Secrets - feat. True Motion",
-      "url": "https://open.spotify.com/track/45qrI4aHPLxc7jzIgwjUMQ"
-    },
-    {
-      "added_at": "2026-10-23 04:00:56",
-      "album": {
         "name": "More (Marten Lou Remix)",
         "url": "https://open.spotify.com/album/3t2TM1HgGnVj7xASVVYohS"
       },
@@ -2295,6 +2271,30 @@
     {
       "added_at": "2026-10-23 04:00:56",
       "album": {
+        "name": "Secrets (feat. True Motion)",
+        "url": "https://open.spotify.com/album/5VTJ4q6s1ATldSf3ahOt40"
+      },
+      "artists": [
+        {
+          "name": "Josh Gigante",
+          "url": "https://open.spotify.com/artist/7dcUWT1KmxjXieEnzFSjeH"
+        },
+        {
+          "name": "Prana Flow",
+          "url": "https://open.spotify.com/artist/4WaZ1Gyiur44tPbWiDeTqn"
+        },
+        {
+          "name": "True Motion",
+          "url": "https://open.spotify.com/artist/7c0iaL5N7aygMrQnZmHrST"
+        }
+      ],
+      "duration_ms": 195121,
+      "name": "Secrets - feat. True Motion",
+      "url": "https://open.spotify.com/track/45qrI4aHPLxc7jzIgwjUMQ"
+    },
+    {
+      "added_at": "2026-10-23 04:00:56",
+      "album": {
         "name": "Heartbreaker",
         "url": "https://open.spotify.com/album/2LgrHcS2vize3nhCiwzWxQ"
       },
@@ -2311,6 +2311,26 @@
       "duration_ms": 254365,
       "name": "Heartbreaker",
       "url": "https://open.spotify.com/track/1n7FS2Rm3ptTAOeN82ehRn"
+    },
+    {
+      "added_at": "2026-10-23 04:00:56",
+      "album": {
+        "name": "A.I.E.",
+        "url": "https://open.spotify.com/album/1BgxyiNB6EdE2TjkGUUj7g"
+      },
+      "artists": [
+        {
+          "name": "Kasango",
+          "url": "https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r"
+        },
+        {
+          "name": "Alejandro Garrido",
+          "url": "https://open.spotify.com/artist/5dVMhaF1aZJdncMO2Kp1PH"
+        }
+      ],
+      "duration_ms": 166707,
+      "name": "A.I.E.",
+      "url": "https://open.spotify.com/track/1IKARclHbrqdFf2XdQ6KlK"
     },
     {
       "added_at": "2026-10-23 04:00:56",
@@ -2343,22 +2363,18 @@
     {
       "added_at": "2026-10-23 04:00:56",
       "album": {
-        "name": "A.I.E.",
-        "url": "https://open.spotify.com/album/1BgxyiNB6EdE2TjkGUUj7g"
+        "name": "Doin' It All For The Culture",
+        "url": "https://open.spotify.com/album/4pCW6biKpm6hJbQUwVMD2w"
       },
       "artists": [
         {
-          "name": "Kasango",
-          "url": "https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r"
-        },
-        {
-          "name": "Alejandro Garrido",
-          "url": "https://open.spotify.com/artist/5dVMhaF1aZJdncMO2Kp1PH"
+          "name": "Luch",
+          "url": "https://open.spotify.com/artist/0Jp7EXwEqkmsUO7eu9kbbp"
         }
       ],
-      "duration_ms": 166707,
-      "name": "A.I.E.",
-      "url": "https://open.spotify.com/track/1IKARclHbrqdFf2XdQ6KlK"
+      "duration_ms": 343414,
+      "name": "Doin' It All For The Culture",
+      "url": "https://open.spotify.com/track/40fHcs9WzWosKvLO0dq3O8"
     },
     {
       "added_at": "2026-10-23 04:00:56",
@@ -2379,22 +2395,6 @@
       "duration_ms": 244391,
       "name": "No One",
       "url": "https://open.spotify.com/track/5J72L91na30WRBYaCokV8i"
-    },
-    {
-      "added_at": "2026-10-23 04:00:56",
-      "album": {
-        "name": "Doin' It All For The Culture",
-        "url": "https://open.spotify.com/album/4pCW6biKpm6hJbQUwVMD2w"
-      },
-      "artists": [
-        {
-          "name": "Luch",
-          "url": "https://open.spotify.com/artist/0Jp7EXwEqkmsUO7eu9kbbp"
-        }
-      ],
-      "duration_ms": 343414,
-      "name": "Doin' It All For The Culture",
-      "url": "https://open.spotify.com/track/40fHcs9WzWosKvLO0dq3O8"
     },
     {
       "added_at": "2026-10-23 04:00:56",
@@ -2627,26 +2627,6 @@
     {
       "added_at": "2026-10-23 04:00:56",
       "album": {
-        "name": "The Drum",
-        "url": "https://open.spotify.com/album/6NmhZ8znJbCvIg3N2zEqYp"
-      },
-      "artists": [
-        {
-          "name": "IDRIS",
-          "url": "https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS"
-        },
-        {
-          "name": "Sio",
-          "url": "https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv"
-        }
-      ],
-      "duration_ms": 197829,
-      "name": "The Drum",
-      "url": "https://open.spotify.com/track/6kidZ88sGNXXFI1GzOlUL0"
-    },
-    {
-      "added_at": "2026-10-23 04:00:56",
-      "album": {
         "name": "AD02: Pans Of Death / Rounds",
         "url": "https://open.spotify.com/album/4d74veTXh1r6jtpLaH1fNL"
       },
@@ -2663,6 +2643,26 @@
       "duration_ms": 320597,
       "name": "Pans Of Death",
       "url": "https://open.spotify.com/track/7xcyrOG8Hx9qHbf7JRx31T"
+    },
+    {
+      "added_at": "2026-10-23 04:00:56",
+      "album": {
+        "name": "The Drum",
+        "url": "https://open.spotify.com/album/6NmhZ8znJbCvIg3N2zEqYp"
+      },
+      "artists": [
+        {
+          "name": "IDRIS",
+          "url": "https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS"
+        },
+        {
+          "name": "Sio",
+          "url": "https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv"
+        }
+      ],
+      "duration_ms": 197829,
+      "name": "The Drum",
+      "url": "https://open.spotify.com/track/6kidZ88sGNXXFI1GzOlUL0"
     }
   ],
   "unique_name": "Tantra",

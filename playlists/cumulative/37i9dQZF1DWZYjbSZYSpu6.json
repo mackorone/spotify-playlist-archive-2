@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-19",
-  "description": "Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers. (Cover: Crush)",
+  "description": "Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers. (Cover: Izykite)",
   "name": "K-Pop Duets (\ub7ec\ube14\ub9ac \ub4c0\uc5e3)",
   "tracks": [
     {
@@ -2476,7 +2476,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 188146,
       "name": "Layin' Low (feat. Jooyoung)",
       "url": "https://open.spotify.com/track/1B2vkECYhw0XEcyOexAq6e"
@@ -3254,6 +3254,28 @@
       "duration_ms": 180292,
       "name": "Meet Me At Your Place (Feat. KANTO)",
       "url": "https://open.spotify.com/track/0To6ccckBxRNuKkoG8xku1"
+    },
+    {
+      "album": {
+        "name": "Milk Cocoa",
+        "url": "https://open.spotify.com/album/5XNp2xMEer6ulAh6pxU5R1"
+      },
+      "artists": [
+        {
+          "name": "Izykite",
+          "url": "https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx"
+        },
+        {
+          "name": "jeebanoff",
+          "url": "https://open.spotify.com/artist/6FK6uP46ntwU9gaQQxTlDV"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173418,
+      "name": "Milk Cocoa",
+      "url": "https://open.spotify.com/track/4EeeqhHAd1q692ZyJd4CCS"
     },
     {
       "album": {

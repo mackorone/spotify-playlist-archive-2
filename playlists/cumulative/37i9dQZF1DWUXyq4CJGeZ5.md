@@ -4,7 +4,7 @@
 
 > Piano music for fall vibes and autumnal moods.
 
-573 songs - 1 day 0 hr 52 min
+575 songs - 1 day 0 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Around In Circles](https://open.spotify.com/track/2vFCPvJ1HHw7t9nRl4bKXz) | [Santo De Luca](https://open.spotify.com/artist/0s7z0HatZQ3GXIuUrg5hyL) | [Around In Circles](https://open.spotify.com/album/4XGG0dsoZceyfUImSCrQM3) | 2:15 | 2023-10-10 |  |
 | [Arturo](https://open.spotify.com/track/1PfP9J1Vuc3HQgAqkg0GFW) | [Lucas Forch](https://open.spotify.com/artist/13gyOR6KA3pA8MIuWW2Pcm) | [Beginnings](https://open.spotify.com/album/5MqvffTG1ZlTMBUlZ9ZoVD) | 2:52 | 2023-03-10 | 2024-04-19 |
 | [Arturo](https://open.spotify.com/track/3pDCl4BDuDe4PBMjGapL9E) | [Lucas Forch](https://open.spotify.com/artist/13gyOR6KA3pA8MIuWW2Pcm) | [Arturo](https://open.spotify.com/album/497QetxHSeqogYKtB3dkVT) | 2:52 | 2024-04-09 | 2024-11-13 |
+| [As It Should Be](https://open.spotify.com/track/2VW1jH7g94XgM4fiCwIdPl) | [Bodi Lukasz](https://open.spotify.com/artist/6FhL947nyB3vI5QUecgylC) | [As It Should Be](https://open.spotify.com/album/4OJVdiN8yZAfMaLCiG1L0x) | 2:27 | 2026-11-13 |  |
 | [Asilah](https://open.spotify.com/track/00iniRV1mt5IS6ep01e2Ts) | [Sumsar](https://open.spotify.com/artist/3IKjg0f073Wk4IecayFzWW) | [Asilah](https://open.spotify.com/album/5ngz6Awk3fEPDe5GomDmRM) | 2:40 | 2023-03-10 | 2024-03-26 |
 | [Auric](https://open.spotify.com/track/6mJKi4iA4F95S2fw4py4Tj) | [Andrea Neroli](https://open.spotify.com/artist/3JrPnL4GFXXCAe09g8QdnO) | [Auric](https://open.spotify.com/album/6NHUYkQzuPcxp3BkHo4sgd) | 2:25 | 2026-09-25 |  |
 | [automne](https://open.spotify.com/track/148TgfnMm3rIu632bSYUk9) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [automne](https://open.spotify.com/album/64kqrsnhnRaQ4bGSBpXnh5) | 2:28 | 2024-10-15 |  |
@@ -367,6 +368,7 @@
 | [Paths](https://open.spotify.com/track/3JWltf5Em6j7uhJhSNFneD) | [Silje Mørk](https://open.spotify.com/artist/3Th7uQxL5iOFrWHZ4GZIzP) | [Paths](https://open.spotify.com/album/5mo02zw7os9mLxLZtANHlC) | 2:52 | 2023-10-10 |  |
 | [Pauls Way](https://open.spotify.com/track/2CPb3HzkSrQFhOjGBEoV0t) | [Northern Quest](https://open.spotify.com/artist/0kBhfmZQ4cAg1an1vTbXEe) | [Pauls Way](https://open.spotify.com/album/3EdXQv7enzxPkCR5LKS8Sa) | 2:23 | 2023-03-10 | 2024-04-10 |
 | [Peace](https://open.spotify.com/track/1wVGlAEohNLnz29Iojl2BI) | [Sanna Aalto](https://open.spotify.com/artist/6EJXTKyCTIQICfv1PT6uAg) | [Peace](https://open.spotify.com/album/3KICqMtSBj3fRLRcdXhZKs) | 2:13 | 2023-03-10 | 2025-08-13 |
+| [Peeking Through Clouds](https://open.spotify.com/track/4fmFf8EkmmnHWcYpXWNqSz) | [Magnus Sakamura](https://open.spotify.com/artist/6YyKxlVhFcuyUVfKutRtQr) | [Peeking Through Clouds](https://open.spotify.com/album/6m9ejulBzFaBPwmQo4TP4H) | 3:01 | 2026-11-13 |  |
 | [Pensive](https://open.spotify.com/track/6bYu9TU2rm2rYvlalCReDa) | [Ina Lawson](https://open.spotify.com/artist/6gv5zYOQsJ4vQNAHkGTmLP) | [Pensive](https://open.spotify.com/album/4Ug4sq5SSNzBxx9wgNY2yF) | 2:35 | 2023-03-10 | 2024-10-22 |
 | [Perspectives](https://open.spotify.com/track/4NLORT4CrxkYaegK1ywz4v) | [Gunnel Boek](https://open.spotify.com/artist/1o402msQD5tWRl4y5jnrvI) | [Perspectives](https://open.spotify.com/album/2gSOIVQHLgOt6Fh5lgUPeE) | 3:06 | 2023-03-10 | 2024-10-02 |
 | [Phantom](https://open.spotify.com/track/1PqCQoqFZWNLylRHsmUjG8) | [Kendra Logozar](https://open.spotify.com/artist/7rwhybBLjf5jWQsmXfwJhd) | [Phantom](https://open.spotify.com/album/721GgErPvBzAlFeFjvigOH) | 1:57 | 2023-03-10 | 2023-10-11 |

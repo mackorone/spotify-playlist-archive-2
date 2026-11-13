@@ -4,7 +4,7 @@
 
 > This is OSKIDO\. The essential tracks, all in one playlist.
 
-107 songs - 9 hr 34 min
+108 songs - 9 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,8 @@
 | [Thandolwethu \- Remix](https://open.spotify.com/track/41nYrZjMX3h5nC5Hc5UbrB) | [Berita](https://open.spotify.com/artist/5I5uSqffwEQVxqTbsmqxNQ), [OSKIDO](https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R) | [I Believe 2013](https://open.spotify.com/album/2JOqYLF4kZeYY76toSULUC) | 7:20 | 2025-06-28 |  |
 | [Tiki Tiki 2.0](https://open.spotify.com/track/0abYF61EsGbxEOuO57OvxF) | [OSKIDO](https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R), [SALIMA CHICA](https://open.spotify.com/artist/0K27AaIekeMBOznvvoVstw), [Argento Dust](https://open.spotify.com/artist/4k5ekCq3lqokDeY3JifNjt), [Bun Xapa](https://open.spotify.com/artist/0tD4QlKohHKqpuPZKELnwZ) | [Tiki Tiki](https://open.spotify.com/album/0iGop2RKLCPDQ8Ts3cIHD9) | 3:10 | 2026-07-12 | 2026-07-14 |
 | [Tiki Tiki 2.0](https://open.spotify.com/track/1YSyERC4PhhP8mN2fsm3d1) | [OSKIDO](https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R), [SALIMA CHICA](https://open.spotify.com/artist/0K27AaIekeMBOznvvoVstw), [Argento Dust](https://open.spotify.com/artist/4k5ekCq3lqokDeY3JifNjt), [Bun Xapa](https://open.spotify.com/artist/0tD4QlKohHKqpuPZKELnwZ) | [Tiki Tiki 2.0](https://open.spotify.com/album/0R31RyLvvn97ugRSbOZuRJ) | 3:10 | 2026-07-14 |  |
-| [Tiki Tiki 3.0](https://open.spotify.com/track/24Et33I32iDonYdYQuPEGb) | [OSKIDO](https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R), [Bun Xapa](https://open.spotify.com/artist/0tD4QlKohHKqpuPZKELnwZ), [SALIMA CHICA](https://open.spotify.com/artist/0K27AaIekeMBOznvvoVstw) | [Tiki Tiki 3.0](https://open.spotify.com/album/63IGrMTzDiqrbVPJnnvVFs) | 3:01 | 2026-10-18 |  |
+| [Tiki Tiki 3.0](https://open.spotify.com/track/24Et33I32iDonYdYQuPEGb) | [OSKIDO](https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R), [Bun Xapa](https://open.spotify.com/artist/0tD4QlKohHKqpuPZKELnwZ), [SALIMA CHICA](https://open.spotify.com/artist/0K27AaIekeMBOznvvoVstw) | [Tiki Tiki 3.0](https://open.spotify.com/album/63IGrMTzDiqrbVPJnnvVFs) | 3:01 | 2026-10-18 | 2026-11-13 |
+| [Tiki Tiki 3.0 \- Extended](https://open.spotify.com/track/0e4XJnlNlUZHz2x2LrN2cS) | [OSKIDO](https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R), [Bun Xapa](https://open.spotify.com/artist/0tD4QlKohHKqpuPZKELnwZ), [SALIMA CHICA](https://open.spotify.com/artist/0K27AaIekeMBOznvvoVstw) | [Tiki Tiki 3.0](https://open.spotify.com/album/63IGrMTzDiqrbVPJnnvVFs) | 6:32 | 2026-11-13 |  |
 | [Toyi Toyi](https://open.spotify.com/track/0L6ptIGlGCfksxtsA1W7cP) | [Professor](https://open.spotify.com/artist/3d1I45VCwwwQ6Qi53vKAHt), [OSKIDO](https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R), [Picat](https://open.spotify.com/artist/7FKwoEtXzOHJjlc0kAyPKz) | [University Of Kalawa Jazmee](https://open.spotify.com/album/0oWLtEWgk7r0y9rpgjlagN) | 5:21 | 2025-07-09 |  |
 | [Tsa Ma Ndebele](https://open.spotify.com/track/6JzhJaNEzCZZtqmLbXVoCq) | [OSKIDO](https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R), [Candy Tsamandebele](https://open.spotify.com/artist/0mqbizsedJ6CxlvyVn8Unj) | [Tsa Ma Ndebele \(Remixes\)](https://open.spotify.com/album/2uqCO2u43jEGizgq0SUyCH) | 6:57 | 2026-08-17 |  |
 | [Tsa Ma Ndebele \- Atmos Wav Remix](https://open.spotify.com/track/7cXYfjnygzqf9oKhDYsbos) | [OSKIDO](https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R), [Candy Tsamandebele](https://open.spotify.com/artist/0mqbizsedJ6CxlvyVn8Unj), [Atmos Wav](https://open.spotify.com/artist/0Hm8LlEYCUzjhZ74CWOCTK) | [Tsa Ma Ndebele \(Remixes\)](https://open.spotify.com/album/2uqCO2u43jEGizgq0SUyCH) | 3:41 | 2025-10-12 | 2025-11-09 |

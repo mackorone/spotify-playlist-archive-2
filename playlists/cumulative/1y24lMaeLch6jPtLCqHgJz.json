@@ -7749,6 +7749,28 @@
     },
     {
       "album": {
+        "name": "Rave With Me",
+        "url": "https://open.spotify.com/album/2K4ixSjvdfESDQragSPYV7"
+      },
+      "artists": [
+        {
+          "name": "Kevin Krissen",
+          "url": "https://open.spotify.com/artist/136IMKXG5a8xUSYuTkCBMI"
+        },
+        {
+          "name": "Castor & Pollux",
+          "url": "https://open.spotify.com/artist/6fHUILCpBvfSHB48AEciPG"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180611,
+      "name": "Rave With Me",
+      "url": "https://open.spotify.com/track/2fMqKYZMnM3as6ZSylALmK"
+    },
+    {
+      "album": {
         "name": "RE4SON",
         "url": "https://open.spotify.com/album/6gXoFS4tXwFCRPWHfvqCKL"
       },

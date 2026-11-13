@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7icshDizO3x.md) - [plain]
 
 > 「Stray Kids World Tour ＜RUN IT JAPAN＞」のセットリストをスペシャルメッセージとあわせて公開！
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,875 likes - 29 songs - 1 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,068 likes - 29 songs - 1 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "\uc774\ubcc4, \uc2ac\ud514, \uacf5\ud5c8\ud568. \ub098\uc758 \uc6b0\uc6b8\uc5d0 \uacf5\uac10\ud574\ubcf4\uc138\uc694",
-  "num_followers": 22533,
+  "num_followers": 22540,
   "original_name": "\ub098\uc758 \uc6b0\uc6b8\uc740, (K-Pop Sad Songs)",
   "owner": {
     "name": "Spotify",
@@ -111,6 +111,22 @@
     {
       "added_at": "2026-09-22 14:14:58",
       "album": {
+        "name": "The day was beautiful",
+        "url": "https://open.spotify.com/album/0TlpkCmHNdH8Fdt0AnDGcF"
+      },
+      "artists": [
+        {
+          "name": "Kassy",
+          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
+        }
+      ],
+      "duration_ms": 235392,
+      "name": "The day was beautiful",
+      "url": "https://open.spotify.com/track/3LpAsXjqTQ5FUyptb2lujH"
+    },
+    {
+      "added_at": "2026-09-22 14:14:58",
+      "album": {
         "name": "Hopeless Romantic",
         "url": "https://open.spotify.com/album/1EVvzyt33kcS37UOcQIhYS"
       },
@@ -127,22 +143,6 @@
       "duration_ms": 235920,
       "name": "Hopeless Romantic (Feat. LEE SUHYUN)",
       "url": "https://open.spotify.com/track/0LY4jOJChwNOYUp2dTNEss"
-    },
-    {
-      "added_at": "2026-09-22 14:14:58",
-      "album": {
-        "name": "The day was beautiful",
-        "url": "https://open.spotify.com/album/0TlpkCmHNdH8Fdt0AnDGcF"
-      },
-      "artists": [
-        {
-          "name": "Kassy",
-          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
-        }
-      ],
-      "duration_ms": 235392,
-      "name": "The day was beautiful",
-      "url": "https://open.spotify.com/track/3LpAsXjqTQ5FUyptb2lujH"
     },
     {
       "added_at": "2026-09-22 14:14:58",
@@ -323,6 +323,22 @@
     {
       "added_at": "2026-09-22 14:14:58",
       "album": {
+        "name": "EXchange4, Pt. 6 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6DnjKL09yARkT22fUCULgQ"
+      },
+      "artists": [
+        {
+          "name": "DOYOUNG",
+          "url": "https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Still Here",
+      "url": "https://open.spotify.com/track/2el8yRLvLFS5sxdcqjhDLS"
+    },
+    {
+      "added_at": "2026-09-22 14:14:58",
+      "album": {
         "name": "one summer",
         "url": "https://open.spotify.com/album/1dSFPUYpKZiSdBb4jonPPK"
       },
@@ -343,22 +359,6 @@
     {
       "added_at": "2026-09-22 14:14:58",
       "album": {
-        "name": "EXchange4, Pt. 6 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/6DnjKL09yARkT22fUCULgQ"
-      },
-      "artists": [
-        {
-          "name": "DOYOUNG",
-          "url": "https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Still Here",
-      "url": "https://open.spotify.com/track/2el8yRLvLFS5sxdcqjhDLS"
-    },
-    {
-      "added_at": "2026-09-22 14:14:58",
-      "album": {
         "name": "Head over Heels, Pt. 3 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/3aN92jKS0K4jKpxVEzgIz5"
       },
@@ -375,22 +375,6 @@
     {
       "added_at": "2026-09-22 14:14:58",
       "album": {
-        "name": "First Love Is a Curse",
-        "url": "https://open.spotify.com/album/2iENz685ly97rfApjgS1cy"
-      },
-      "artists": [
-        {
-          "name": "YUJU",
-          "url": "https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "First Love Is a Curse",
-      "url": "https://open.spotify.com/track/6TW9ACpiJzS27WqiTQNN2T"
-    },
-    {
-      "added_at": "2026-09-22 14:14:58",
-      "album": {
         "name": "In your heart",
         "url": "https://open.spotify.com/album/3BKTYYwjrDoTP3iruSLX0P"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 221720,
       "name": "In your heart",
       "url": "https://open.spotify.com/track/7lgrRhx7ExnO4WBofwYeTR"
+    },
+    {
+      "added_at": "2026-09-22 14:14:58",
+      "album": {
+        "name": "First Love Is a Curse",
+        "url": "https://open.spotify.com/album/2iENz685ly97rfApjgS1cy"
+      },
+      "artists": [
+        {
+          "name": "YUJU",
+          "url": "https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "First Love Is a Curse",
+      "url": "https://open.spotify.com/track/6TW9ACpiJzS27WqiTQNN2T"
     },
     {
       "added_at": "2026-09-22 14:14:58",
@@ -787,6 +787,26 @@
     {
       "added_at": "2026-09-22 14:14:58",
       "album": {
+        "name": "HAPPEN",
+        "url": "https://open.spotify.com/album/4xOOB79WcZuOoVwK06No1s"
+      },
+      "artists": [
+        {
+          "name": "Heize",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        },
+        {
+          "name": "Kim Feel",
+          "url": "https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA"
+        }
+      ],
+      "duration_ms": 193280,
+      "name": "The Walking Dead (Feat. Kim Feel)",
+      "url": "https://open.spotify.com/track/1LBNTcVnGw8eJ5oQQmmMZZ"
+    },
+    {
+      "added_at": "2026-09-22 14:14:58",
+      "album": {
         "name": "Our Cosmos",
         "url": "https://open.spotify.com/album/2yudf19Ddb0ynglfZtKpD0"
       },
@@ -799,22 +819,6 @@
       "duration_ms": 227238,
       "name": "Still Here",
       "url": "https://open.spotify.com/track/40ozUffOxCv6Ge5ip6jSN0"
-    },
-    {
-      "added_at": "2026-09-22 14:14:58",
-      "album": {
-        "name": "Still Here",
-        "url": "https://open.spotify.com/album/1vhPhbQYVSAuDI8ZKsG0VU"
-      },
-      "artists": [
-        {
-          "name": "ONEWE",
-          "url": "https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16"
-        }
-      ],
-      "duration_ms": 219746,
-      "name": "Still Here",
-      "url": "https://open.spotify.com/track/7nVhKlC4JktgjoUXLdhly2"
     },
     {
       "added_at": "2026-09-22 14:14:58",
@@ -835,22 +839,18 @@
     {
       "added_at": "2026-09-22 14:14:58",
       "album": {
-        "name": "HAPPEN",
-        "url": "https://open.spotify.com/album/4xOOB79WcZuOoVwK06No1s"
+        "name": "Still Here",
+        "url": "https://open.spotify.com/album/1vhPhbQYVSAuDI8ZKsG0VU"
       },
       "artists": [
         {
-          "name": "Heize",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
-        },
-        {
-          "name": "Kim Feel",
-          "url": "https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA"
+          "name": "ONEWE",
+          "url": "https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16"
         }
       ],
-      "duration_ms": 193280,
-      "name": "The Walking Dead (Feat. Kim Feel)",
-      "url": "https://open.spotify.com/track/1LBNTcVnGw8eJ5oQQmmMZZ"
+      "duration_ms": 219746,
+      "name": "Still Here",
+      "url": "https://open.spotify.com/track/7nVhKlC4JktgjoUXLdhly2"
     }
   ],
   "unique_name": "\ub098\uc758 \uc6b0\uc6b8\uc740, (K-Pop Sad Songs)",

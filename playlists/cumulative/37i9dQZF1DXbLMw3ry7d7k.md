@@ -4,7 +4,7 @@
 
 > The latest and greatest! Revive los éxitos latinos de los últimos meses.
 
-715 songs - 1 day 14 hr 59 min
+716 songs - 1 day 15 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [BUBALU](https://open.spotify.com/track/36FTXlmbiV2diZdZukzLDm) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [BUBALU](https://open.spotify.com/album/0RjxDLuy3YP0zLuo8VB0JX) | 3:48 | 2024-04-12 | 2025-05-03 |
 | [Buenas](https://open.spotify.com/track/4sDpxaulErbJ9NBaJDC7cJ) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Buenas](https://open.spotify.com/album/2FRQH7JReYGUWXX86Pr6ag) | 3:12 | 2023-11-22 | 2025-02-12 |
 | [buenos aires](https://open.spotify.com/track/7L0BH62HRIap3Fg6KUyQfR) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [buenos aires](https://open.spotify.com/album/4SXpbXXNdxRmHbyoFaCnvc) | 3:23 | 2024-07-12 | 2024-10-08 |
-| [Buenos Días](https://open.spotify.com/track/4mc8byHXW8rmZT5L5jwYG5) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Buenos Días](https://open.spotify.com/album/0VI9CUYMmXVlCGhHJ4bgN2) | 2:39 | 2026-04-14 |  |
+| [Buenos Días](https://open.spotify.com/track/4mc8byHXW8rmZT5L5jwYG5) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Buenos Días](https://open.spotify.com/album/0VI9CUYMmXVlCGhHJ4bgN2) | 2:39 | 2026-04-14 | 2026-11-13 |
 | [Buenos Términos](https://open.spotify.com/track/0cpMZWmQnyjkoh9BrNgTMb) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Buenos Términos](https://open.spotify.com/album/5GOVje4CqyYLQIFrE7yVYX) | 2:30 | 2025-10-06 | 2026-03-21 |
 | [BYAK](https://open.spotify.com/track/6zMWAKMDVH1uHHDOrm2RdL) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [SAYONARA](https://open.spotify.com/album/7kfPf285KnlWUTbqaB1jnI) | 3:36 | 2024-07-12 | 2025-05-30 |
 | [Bye](https://open.spotify.com/track/6n2P81rPk2RTzwnNNgFOdb) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Bye](https://open.spotify.com/album/5mRzjZUa5VfaveaPtPqJBB) | 3:32 | 2023-07-03 | 2024-01-30 |
@@ -110,6 +110,7 @@
 | [CAPCANA COCOA](https://open.spotify.com/track/5Otq7hczby9xJIplVweLBI) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [CAPCANA COCOA](https://open.spotify.com/album/141GgW9A8gEidZyiHZPTs4) | 4:04 | 2026-10-21 |  |
 | [Caramelo](https://open.spotify.com/track/3gD4J3RUHy4OUuZ3qAiaiG) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Caramelo](https://open.spotify.com/album/6HZe6aICWesZsze5OKlvMD) | 3:37 | 2021-12-09 | 2023-01-20 |
 | [Carita de Inocente](https://open.spotify.com/track/30oZjF87SHCd0CE0ttGm5U) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [ALTER EGO](https://open.spotify.com/album/3si9Tt0MEyLf26borb6B5p) | 3:11 | 2021-12-09 | 2023-01-20 |
+| [CARITA FELIZ](https://open.spotify.com/track/6bQsFck5fRznOrCfJMxF1c) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [CARITA FELIZ](https://open.spotify.com/album/72fKROtde4M6Rv14mgIOpm) | 3:13 | 2026-11-12 |  |
 | [Carita Linda](https://open.spotify.com/track/5u5gkOBTv48cpXVMqkPkpK) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Carita Linda](https://open.spotify.com/album/7qULx9UqZbMt1jggUMYaWD) | 3:23 | 2025-05-29 | 2026-04-15 |
 | [Carteras Chinas](https://open.spotify.com/track/40V77QgNlrEn4V03E13zxh) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Carteras Chinas](https://open.spotify.com/album/0ZCjHDJjqhUctbgH7HXzqe) | 3:07 | 2025-05-29 | 2025-12-13 |
 | [Cayó La Noche \(feat\. Cruz Cafuné, Abhir Hathi, Bejo, EL IMA\) \[Remix\]](https://open.spotify.com/track/0Bv7O6fmZk3GrNQFYJaXPn) | [La Pantera](https://open.spotify.com/artist/0IEzMvarfVycBJAXjjEZOL), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Juseph](https://open.spotify.com/artist/5kgDdP7a4TsvkF08gpJGX0), [Abhir Hathi](https://open.spotify.com/artist/2D8UzkIVdg1bj0Iqz6gjk0), [Bejo](https://open.spotify.com/artist/0adJG3bdFTHCkTY28NkY4u), [Cruz Cafuné](https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3), [EL IMA](https://open.spotify.com/artist/00vsUIEaNHw6qoQnh8DQM2) | [Cayó La Noche \(feat\. Cruz Cafuné, Abhir Hathi, Bejo, EL IMA\) \[Remix\]](https://open.spotify.com/album/0GkI5Xq0n0McicAumkuGyb) | 6:53 | 2022-06-27 | 2022-10-06 |

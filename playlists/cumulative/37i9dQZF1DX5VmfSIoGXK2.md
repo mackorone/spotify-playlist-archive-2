@@ -4,7 +4,7 @@
 
 > the glorious sounds of Jazz House, from Norway, Venezuela, Nigeria & beyond 🌞 featuring Bård Berg
 
-296 songs - 18 hr 34 min
+297 songs - 18 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Empty.](https://open.spotify.com/track/4oOKNkUzGkjwI3nBoRuc4q) | [Bolden.](https://open.spotify.com/artist/4CxK8Xr9IqYUzhTLhdSfp5) | [Would appear to be jazz.](https://open.spotify.com/album/5XjZB8V2VFP8yPaMsB1NSJ) | 1:51 | 2025-08-29 | 2026-04-25 |
 | [Euro](https://open.spotify.com/track/3Z9Yr1ziFNgkK3oHcvxC5v) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD), [Nathan Haines](https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy) | [Euro](https://open.spotify.com/album/1QYw5ZwARebwLY0WWNo2Px) | 2:48 | 2025-09-12 | 2026-05-30 |
 | [Evolution](https://open.spotify.com/track/28P3hD5604xr8ZD2cpSqqV) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD), [Deza](https://open.spotify.com/artist/2HoaVzOMwwXNauX5cjdXwg) | [Evolution](https://open.spotify.com/album/0WvP86fINZdLQX9d2VYuo3) | 1:58 | 2025-02-21 | 2026-10-02 |
+| [Evviva](https://open.spotify.com/track/1zsXI1OVe28uQKVsrAhf5F) | [Bård Berg](https://open.spotify.com/artist/6cj0DfbcgWVo53BtyTEH6r) | [Evviva](https://open.spotify.com/album/3XEPwhKQOhTHafVE7tI1Vq) | 4:25 | 2026-11-13 |  |
 | [Falling](https://open.spotify.com/track/3pOcr1YHQap65TgnCxJXtY) | [Tour\-Maubourg](https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [Falling](https://open.spotify.com/album/5rQSSNUg4uPr9vQaD7kcKu) | 4:27 | 2026-03-13 |  |
 | [Faux Départ](https://open.spotify.com/track/6he02h6WNseMS0VidRjBFT) | [DJ Psychiatre](https://open.spotify.com/artist/3roL1q2jZoQt3yZqbCb1DR) | [Faux Départ](https://open.spotify.com/album/2x3aYh9DTmqKvYjcHxl1o8) | 4:37 | 2025-02-21 | 2025-06-28 |
 | [Feel The Groove](https://open.spotify.com/track/6Ldd26XXj9otYOR98T7YIt) | [Sébastien Lintz](https://open.spotify.com/artist/4DJAdrP7ni17K4091qE52z) | [Feel The Groove](https://open.spotify.com/album/7EMz0fVR8fitHF1h9cAp6a) | 2:24 | 2026-02-27 |  |
@@ -180,7 +181,7 @@
 | [Moments](https://open.spotify.com/track/48FkCtZNNpTYshKMM358YL) | [Jimmy Q](https://open.spotify.com/artist/7xALZJA4uqi1224A9Bd7GA), [Zac Colwell](https://open.spotify.com/artist/7BmfdJB28dqduFA30V5BjL) | [Moments](https://open.spotify.com/album/0DORzhj4y3sk5rTfQMIKjS) | 3:13 | 2025-12-19 | 2026-05-16 |
 | [Mon Coeur](https://open.spotify.com/track/0PAaJeO1U7Q4OgJk7Wx1j3) | [Sajmoonn](https://open.spotify.com/artist/7Jui0pv7zs0Pmbfaqx2Sjh), [TABLE](https://open.spotify.com/artist/3dVbynuMd3pZFhRF4X0Goy) | [Mon Coeur](https://open.spotify.com/album/3btmLGVI2AlqPtwoeBEt6K) | 4:34 | 2025-02-21 | 2025-10-18 |
 | [Moons](https://open.spotify.com/track/32U32r15CzLGLUs4Qmy101) | [TABLE](https://open.spotify.com/artist/3dVbynuMd3pZFhRF4X0Goy) | [Moons](https://open.spotify.com/album/2W1h6iQcIQdbu596onLosj) | 2:25 | 2025-10-14 | 2026-03-28 |
-| [more butter](https://open.spotify.com/track/4Ohs1ZhLQoSbbtBW2YacJL) | [Soul Legend](https://open.spotify.com/artist/55KBAeJzZBcJ5AhPW5OOpy) | [more butter](https://open.spotify.com/album/2PuueUgLPlffLGKsWCEPbO) | 2:54 | 2025-11-15 |  |
+| [more butter](https://open.spotify.com/track/4Ohs1ZhLQoSbbtBW2YacJL) | [Soul Legend](https://open.spotify.com/artist/55KBAeJzZBcJ5AhPW5OOpy) | [more butter](https://open.spotify.com/album/2PuueUgLPlffLGKsWCEPbO) | 2:54 | 2025-11-15 | 2026-11-13 |
 | [more parties in LA](https://open.spotify.com/track/3hVhokUMdBEg8ZhmFvXLOy) | [STELLA.](https://open.spotify.com/artist/7E4fw5nKeMuPzbvdn52nqa), [pedram](https://open.spotify.com/artist/0sQSO9miTJGNBj9Kqxptfz) | [more parties in LA](https://open.spotify.com/album/6gGC9ATSVrr3iHST9uEeOo) | 2:47 | 2025-05-02 | 2025-11-08 |
 | [More Than Ever](https://open.spotify.com/track/2itHRm1HyxvHYShw5hsbPZ) | [Talaiio](https://open.spotify.com/artist/2h1uVJZjlRuKJgwJFbkkEN) | [More Than Ever](https://open.spotify.com/album/5OFXtg4Ekb4J6IxlINuOu5) | 2:24 | 2025-12-05 | 2026-04-04 |
 | [mostly poetry](https://open.spotify.com/track/6o4UiH0LuFQIvLklnHSj1W) | [Soul Legend](https://open.spotify.com/artist/55KBAeJzZBcJ5AhPW5OOpy) | [mostly poetry](https://open.spotify.com/album/0XS5hDo5UG41upARzFPgCC) | 3:00 | 2025-08-22 | 2026-02-21 |

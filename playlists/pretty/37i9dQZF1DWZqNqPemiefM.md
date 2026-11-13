@@ -2,15 +2,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 
 ### [Sora Ambient](https://open.spotify.com/playlist/37i9dQZF1DWZqNqPemiefM)
 
-> The artisanal ambient and alternative sounds make you float in the air\. / 上質なアンビエントとオルタナティブミュージック cover: aus
+> The artisanal ambient and alternative sounds make you float in the air\. / 上質なアンビエントとオルタナティブミュージック cover: Maharishi Yogo & Doc No
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,399 likes - 190 songs - 15 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,423 likes - 190 songs - 15 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Easy](https://open.spotify.com/track/0wVIE9syWfPabVJPWuj18i) | [aus](https://open.spotify.com/artist/2JHQIdLnjfyobZpDbVGdKV) | [Easy](https://open.spotify.com/album/4QoIdKlq8uTQUArDB0uSLR) | 3:12 |
-| 2 | [The Sea Inside Me](https://open.spotify.com/track/4EJJA1D54gpQdDeVjxN3cu) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [The Sea Inside Me](https://open.spotify.com/album/7caCXE0Vw3WOEPFv7kOUsg) | 5:00 |
-| 3 | [Moss & Green](https://open.spotify.com/track/5g8pfpOdnPOVbNA456Fc1G) | [maharishi yogo](https://open.spotify.com/artist/6PUmcQDCFA2Hhl1EgFW6ja), [Doc No](https://open.spotify.com/artist/0RTNTHxxhRz2BQbPYHY7SC) | [Worlds Collide](https://open.spotify.com/album/4EaXruoSMQ9F0rbERIbJh8) | 7:19 |
+| 1 | [Moss & Green](https://open.spotify.com/track/5g8pfpOdnPOVbNA456Fc1G) | [maharishi yogo](https://open.spotify.com/artist/6PUmcQDCFA2Hhl1EgFW6ja), [Doc No](https://open.spotify.com/artist/0RTNTHxxhRz2BQbPYHY7SC) | [Worlds Collide](https://open.spotify.com/album/4EaXruoSMQ9F0rbERIbJh8) | 7:19 |
+| 2 | [Easy](https://open.spotify.com/track/0wVIE9syWfPabVJPWuj18i) | [aus](https://open.spotify.com/artist/2JHQIdLnjfyobZpDbVGdKV) | [Easy](https://open.spotify.com/album/4QoIdKlq8uTQUArDB0uSLR) | 3:12 |
+| 3 | [The Sea Inside Me](https://open.spotify.com/track/4EJJA1D54gpQdDeVjxN3cu) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [The Sea Inside Me](https://open.spotify.com/album/7caCXE0Vw3WOEPFv7kOUsg) | 5:00 |
 | 4 | [Womb Glow](https://open.spotify.com/track/38SLp8yyu7783yCmeRI3bd) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT), [Dorian Concept](https://open.spotify.com/artist/2sriRQRt36DnfHtD68zZlj) | [Womb Glow](https://open.spotify.com/album/7u69VcuKFgZJwFcAagHUj1) | 3:27 |
 | 5 | [Three Unisons for Four Voices](https://open.spotify.com/track/7JTSYAilJ8UOYCgWIIVyd7) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA), [NO HAY BANDA](https://open.spotify.com/artist/2KLAgVX4mM7Xyy7x1kPatl) | [Three Unisons for Four Voices](https://open.spotify.com/album/1lGxRAHUXSsGtftvRZatyz) | 1:10:14 |
 | 6 | [images on loan](https://open.spotify.com/track/3cCwrAFdIQz8OcDRzGrHfO) | [香田 悠真](https://open.spotify.com/artist/6VzrikesByN5Ogb8A67n47), [Jan Urila Sas](https://open.spotify.com/artist/7BPQ8eUXJcCAVOyJ7vxn5n), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R) | [images on loan](https://open.spotify.com/album/1y3tpf16OEOfBkX3O3fDo0) | 5:39 |
@@ -199,4 +199,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 | 189 | [Virga \(feat\. Darlingside\)](https://open.spotify.com/track/3hhJFk8PZEb0h3aAMbQRcM) | [Yasmin Williams](https://open.spotify.com/artist/4j8CsPzssbM8TCjSvgnmSs), [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Virga \(feat\. Darlingside\)](https://open.spotify.com/album/4Atmmk5jUaQVGxd0XtvsfG) | 6:22 |
 | 190 | [light seeing 3\-3](https://open.spotify.com/track/4g075PjQ7O0idXks99Z64A) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [hikari umi](https://open.spotify.com/album/6vUZxXuYMmuQrTHYr1tViF) | 3:14 |
 
-Snapshot ID: `AAAAABWV3DzWurLoKDF54X0gHXXO8Z3I`
+Snapshot ID: `AAAAAKKkGsZeIHovpx5rGt8+e41/D7ZK`

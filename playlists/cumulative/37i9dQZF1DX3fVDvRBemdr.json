@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "De nieuwste Hollands & Volkspop. Cover: Rutger van Barneveld",
+  "description": "De nieuwste Hollands & Volkspop. Cover: Senna & Monique Smit",
   "name": "Liever Hollands",
   "tracks": [
     {
@@ -85,6 +85,28 @@
     },
     {
       "album": {
+        "name": "100 Keer Gebeld",
+        "url": "https://open.spotify.com/album/5kMTkRu0KV94z7m4Ux5iS4"
+      },
+      "artists": [
+        {
+          "name": "Mike Versteeg",
+          "url": "https://open.spotify.com/artist/1EF9A4CUgRWouYS80puSfB"
+        },
+        {
+          "name": "Martijn Leopardi",
+          "url": "https://open.spotify.com/artist/0dNvb29pd5miS7r3ti22OO"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193500,
+      "name": "100 Keer Gebeld",
+      "url": "https://open.spotify.com/track/3xeTZ8ojNqFUj1K2L4QH1F"
+    },
+    {
+      "album": {
         "name": "100 Keer Naar Jou Gekeken",
         "url": "https://open.spotify.com/album/1LYCWtL9yZxM40lxvMI5jr"
       },
@@ -158,6 +180,24 @@
       "duration_ms": 185801,
       "name": "112",
       "url": "https://open.spotify.com/track/2HdCbn8TsRzAq1aTQZhUav"
+    },
+    {
+      "album": {
+        "name": "6 Planken",
+        "url": "https://open.spotify.com/album/4gJ1IkNvRTSop8o7lPCKtI"
+      },
+      "artists": [
+        {
+          "name": "Likke P\u00eahp",
+          "url": "https://open.spotify.com/artist/4aO9wZpEijSfCiaXZjR2ma"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168331,
+      "name": "6 Planken",
+      "url": "https://open.spotify.com/track/6TXR29qsRYppdeUAw8RFan"
     },
     {
       "album": {
@@ -724,6 +764,24 @@
       "duration_ms": 175240,
       "name": "Als De Bouzouki's Klinken",
       "url": "https://open.spotify.com/track/2KGl4AQdeOkZy6eXnZMHIP"
+    },
+    {
+      "album": {
+        "name": "Als De Morgen Niet Bestaat",
+        "url": "https://open.spotify.com/album/0uWuYD4VkwaUEq0o045ObB"
+      },
+      "artists": [
+        {
+          "name": "Quido van de Graaf",
+          "url": "https://open.spotify.com/artist/0EeBSdffc4ckG8Yh9HOPuj"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182387,
+      "name": "Als De Morgen Niet Bestaat",
+      "url": "https://open.spotify.com/track/5RZZKaOwxVD78IRwnZztHr"
     },
     {
       "album": {
@@ -2486,7 +2544,7 @@
       ],
       "date_added": "2026-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 155564,
       "name": "Dans Voor Mij",
       "url": "https://open.spotify.com/track/4zzdPo4yMp8W1v0ITTukjl"
@@ -4585,6 +4643,24 @@
     },
     {
       "album": {
+        "name": "Fout & Stout",
+        "url": "https://open.spotify.com/album/4bTO6aBV8HT7H1a6YgscWW"
+      },
+      "artists": [
+        {
+          "name": "Danny Froger",
+          "url": "https://open.spotify.com/artist/1T6iHaohBe7N71F1jk0XSy"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135833,
+      "name": "Fout & Stout",
+      "url": "https://open.spotify.com/track/2mujYhFncM9ZKjMICIg7e7"
+    },
+    {
+      "album": {
         "name": "Fout (3x)",
         "url": "https://open.spotify.com/album/5MCRXELzORTrU3UerRzCCM"
       },
@@ -5273,6 +5349,24 @@
     },
     {
       "album": {
+        "name": "Groener Gras",
+        "url": "https://open.spotify.com/album/5LK8IluUokUEfSok27v9Bg"
+      },
+      "artists": [
+        {
+          "name": "Jeffrey Heesen",
+          "url": "https://open.spotify.com/artist/1kIanYuEXT2fojrZmrLLNp"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143243,
+      "name": "Groener Gras",
+      "url": "https://open.spotify.com/track/3w86PY943GX7h02tgAQ9U1"
+    },
+    {
+      "album": {
         "name": "Grote Vriend",
         "url": "https://open.spotify.com/album/14kopE7Qg0KU3QBnw0vPob"
       },
@@ -5895,6 +5989,28 @@
     },
     {
       "album": {
+        "name": "Hey Poes",
+        "url": "https://open.spotify.com/album/5eKGfJrhNXed8KYrsJAOkp"
+      },
+      "artists": [
+        {
+          "name": "Senna",
+          "url": "https://open.spotify.com/artist/4oMzH6lIWPhCdx7KADXLJZ"
+        },
+        {
+          "name": "Monique Smit",
+          "url": "https://open.spotify.com/artist/5z4lUxGyk6fWkbqoITgJTv"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141374,
+      "name": "Hey Poes",
+      "url": "https://open.spotify.com/track/3or3wODEzHipOyhbn9GBZp"
+    },
+    {
+      "album": {
         "name": "Heya Heya",
         "url": "https://open.spotify.com/album/6Y09HHZ8vksxIDs4cAXpqJ"
       },
@@ -6458,6 +6574,24 @@
       "duration_ms": 138103,
       "name": "Ik Bewonder Jou",
       "url": "https://open.spotify.com/track/2XhkRtb9zt9vYRhGkDC756"
+    },
+    {
+      "album": {
+        "name": "Ik Bid Nu Tot God",
+        "url": "https://open.spotify.com/album/6icBl1va1Bzrips13dLX0w"
+      },
+      "artists": [
+        {
+          "name": "Frank Van Etten",
+          "url": "https://open.spotify.com/artist/6idunrSGiChqlZG6MJVhHM"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215682,
+      "name": "Ik Bid Nu Tot God",
+      "url": "https://open.spotify.com/track/5uppUSsYBpad6cFgtFQY6c"
     },
     {
       "album": {
@@ -7096,7 +7230,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 150000,
       "name": "Ik Red Me Wel!",
       "url": "https://open.spotify.com/track/0pC5LjrwyFE54NWd6tSnx2"
@@ -7266,7 +7400,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 150937,
       "name": "Ik Weet Dat Zij Het Ziet",
       "url": "https://open.spotify.com/track/51fX0yAXCfJ7Ka7SZ9G4Er"
@@ -8126,7 +8260,7 @@
       ],
       "date_added": "2026-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 193173,
       "name": "Je zit in m'n hoofd",
       "url": "https://open.spotify.com/track/3NioJZ6lEeh277GGJfAhFI"
@@ -8869,6 +9003,32 @@
     },
     {
       "album": {
+        "name": "Kom Wat Dichterbij",
+        "url": "https://open.spotify.com/album/1Fdb8kr7ugnZrYk0U9Ec5t"
+      },
+      "artists": [
+        {
+          "name": "Rinus Werrens",
+          "url": "https://open.spotify.com/artist/7wJCnEGuQhs6vvj9vLn4KU"
+        },
+        {
+          "name": "Donny Duardo",
+          "url": "https://open.spotify.com/artist/7nJk84xGJhAl4HJ9ib0hQa"
+        },
+        {
+          "name": "K-Liber",
+          "url": "https://open.spotify.com/artist/551ZoX3knGOBIB6HrPPgq2"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173213,
+      "name": "Kom Wat Dichterbij",
+      "url": "https://open.spotify.com/track/3XncYQxQNxfd9XYVgw5at7"
+    },
+    {
+      "album": {
         "name": "Koning van het plein",
         "url": "https://open.spotify.com/album/3AehYYdSmF4xZ8PDRWbS0N"
       },
@@ -8938,7 +9098,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 183674,
       "name": "Kroegen in de Hemel",
       "url": "https://open.spotify.com/track/7daRniFQ3OpZzxCmCBPuoE"
@@ -10436,7 +10596,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 172218,
       "name": "Mijn Hart Is Geen Hotel",
       "url": "https://open.spotify.com/track/3Xymr3jr9Kjx90KWXbjKg7"
@@ -11433,6 +11593,32 @@
     },
     {
       "album": {
+        "name": "Onderweg Naar Jou",
+        "url": "https://open.spotify.com/album/2ova964V0MHnEDVI468g5U"
+      },
+      "artists": [
+        {
+          "name": "De Bevers",
+          "url": "https://open.spotify.com/artist/7p6MzD0DqpI2zjlV1UYffS"
+        },
+        {
+          "name": "John De Bever",
+          "url": "https://open.spotify.com/artist/2qAPnua41tsOE6o2L2tl5p"
+        },
+        {
+          "name": "Kees de Bever",
+          "url": "https://open.spotify.com/artist/3i2hBhyBz78fASjXPfViIm"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187263,
+      "name": "Onderweg Naar Jou",
+      "url": "https://open.spotify.com/track/6aymBfPvCnwI3roMDFbUFK"
+    },
+    {
+      "album": {
         "name": "Onderweg naar jou",
         "url": "https://open.spotify.com/album/2qLtFTUse1S8plx7ZK9ic8"
       },
@@ -12132,7 +12318,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 157000,
       "name": "Poppetjes In Jouw Ogen",
       "url": "https://open.spotify.com/track/4mjSDiUnNaLKA80e1Bp3sB"
@@ -12616,7 +12802,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 149057,
       "name": "Sjansen",
       "url": "https://open.spotify.com/track/5CFrNBn5fJymiGNUn6D5dQ"
@@ -13484,7 +13670,7 @@
       ],
       "date_added": "2026-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 153529,
       "name": "Tutti Colori",
       "url": "https://open.spotify.com/track/5S8oEIBGSZ37RmEAVGw4wi"
@@ -15117,6 +15303,24 @@
     },
     {
       "album": {
+        "name": "We Leven Nu",
+        "url": "https://open.spotify.com/album/3fesxYwu5kTqlJSugmcl8t"
+      },
+      "artists": [
+        {
+          "name": "Martijn Kerstens",
+          "url": "https://open.spotify.com/artist/3Kruszlg3KjU1pwpSymIRo"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153333,
+      "name": "We Leven Nu",
+      "url": "https://open.spotify.com/track/4ccQXzAjVQ0DGpWiWTVT2J"
+    },
+    {
+      "album": {
         "name": "We Zijn Er",
         "url": "https://open.spotify.com/album/49LywfHBRIWur1tPzZJ6gJ"
       },
@@ -15132,7 +15336,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 162461,
       "name": "We Zijn Er",
       "url": "https://open.spotify.com/track/5ugSvzED7o85U4TaMktaqk"

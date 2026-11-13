@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "The Midwest is always on time. Cover: Jack Harlow\n",
+  "description": "The Midwest is always on time. Cover: Babyface Ray\n",
   "name": "CST",
   "tracks": [
     {
@@ -8537,6 +8537,24 @@
     },
     {
       "album": {
+        "name": "Unfuckwitable 2",
+        "url": "https://open.spotify.com/album/2yjJbrMWRKoYUVLaMbQH7g"
+      },
+      "artists": [
+        {
+          "name": "Babyface Ray",
+          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94087,
+      "name": "Endless",
+      "url": "https://open.spotify.com/track/1PGx9P9XjXWL28mcS7pYa6"
+    },
+    {
+      "album": {
         "name": "Episode 6",
         "url": "https://open.spotify.com/album/200U1Yd7DbyOTnUlL2jTnF"
       },
@@ -9026,10 +9044,40 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 158976,
       "name": "Face Card (with Chris Brown & Bryson Tiller)",
       "url": "https://open.spotify.com/track/5N3p9YjU6WGfU0y4jrgEGc"
+    },
+    {
+      "album": {
+        "name": "Face Card (with Chris Brown, Bryson Tiller & Summer Walker) [Remix]",
+        "url": "https://open.spotify.com/album/2VSKmSStjfMUC8kPECoqlm"
+      },
+      "artists": [
+        {
+          "name": "Skilla Baby",
+          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186379,
+      "name": "Face Card (with Chris Brown, Bryson Tiller & Summer Walker) - Remix",
+      "url": "https://open.spotify.com/track/5iNMN3dgHtEwixszbq6fBC"
     },
     {
       "album": {
@@ -10064,7 +10112,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 144657,
       "name": "Free Mind",
       "url": "https://open.spotify.com/track/3BxRFVhRI8OUSrPAcJBWHx"
@@ -12342,6 +12390,24 @@
       "duration_ms": 189082,
       "name": "Gucci Tried to Tell Me",
       "url": "https://open.spotify.com/track/0IAuU49bpY24saPlYBoMDG"
+    },
+    {
+      "album": {
+        "name": "guillermoandrade",
+        "url": "https://open.spotify.com/album/56PZ6amR0FKpQwU1EUkA2c"
+      },
+      "artists": [
+        {
+          "name": "Veeze",
+          "url": "https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133670,
+      "name": "guillermoandrade",
+      "url": "https://open.spotify.com/track/2B4UgX0gZrp6y6k6ox2KX7"
     },
     {
       "album": {
@@ -15745,6 +15811,24 @@
     },
     {
       "album": {
+        "name": "Infinite EP",
+        "url": "https://open.spotify.com/album/5N8jnN7moaKottlIO3xmLZ"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213999,
+      "name": "It's O.K.",
+      "url": "https://open.spotify.com/track/4MB1ZyZNqkrhC3WV8fr4VF"
+    },
+    {
+      "album": {
         "name": "It's On",
         "url": "https://open.spotify.com/album/7p8YmVgtfA5xdUiMlk33Ru"
       },
@@ -17555,6 +17639,24 @@
     },
     {
       "album": {
+        "name": "Lil Dae Dae",
+        "url": "https://open.spotify.com/album/6yLqyJlVQfMaNCFvSvOyyt"
+      },
+      "artists": [
+        {
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193594,
+      "name": "Lil Dae Dae",
+      "url": "https://open.spotify.com/track/5xELAyEJENWuTnhJOzfzbp"
+    },
+    {
+      "album": {
         "name": "Lil Sexy",
         "url": "https://open.spotify.com/album/1iNGyxPArFfBTySJ8bbWSv"
       },
@@ -17924,7 +18026,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 182000,
       "name": "Love Me Now",
       "url": "https://open.spotify.com/track/4IKUU6v9QkLdAD6px5cAlf"
@@ -19471,6 +19573,24 @@
     },
     {
       "album": {
+        "name": "Bentayga Genesis",
+        "url": "https://open.spotify.com/album/57MGQ6sEJOqvkAXCQjrst0"
+      },
+      "artists": [
+        {
+          "name": "Boldy James",
+          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187029,
+      "name": "Mr. DeVille",
+      "url": "https://open.spotify.com/track/1mI5ZoQrU2ivVK1vsG3kJx"
+    },
+    {
+      "album": {
         "name": "Mr. Hanky",
         "url": "https://open.spotify.com/album/1TcIh59Gfrw12QFjIu8RJu"
       },
@@ -20356,7 +20476,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 179979,
       "name": "Nigel Sylvester",
       "url": "https://open.spotify.com/track/09a3A3v2dGT0WNR1amQJXT"
@@ -22414,7 +22534,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 122618,
       "name": "Pause",
       "url": "https://open.spotify.com/track/5l34Ale9qMFJZ0Pgclgejq"
@@ -23732,7 +23852,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 138531,
       "name": "PROLLY",
       "url": "https://open.spotify.com/track/56omE0WC8IUrJ5j4MF9YoF"
@@ -25106,7 +25226,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 210609,
       "name": "Robbery 10",
       "url": "https://open.spotify.com/track/2W2Mmm3BaoRpKq7lr4Cpjp"
@@ -29338,7 +29458,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 121389,
       "name": "Superstar",
       "url": "https://open.spotify.com/track/4TT0XGOuFUcOiHfrWimqBW"
@@ -33853,6 +33973,28 @@
     },
     {
       "album": {
+        "name": "Unfuckwitable 2",
+        "url": "https://open.spotify.com/album/2yjJbrMWRKoYUVLaMbQH7g"
+      },
+      "artists": [
+        {
+          "name": "Babyface Ray",
+          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+        },
+        {
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163935,
+      "name": "When I Call",
+      "url": "https://open.spotify.com/track/5N7kHqHjFGLOe8Ra8e5fsQ"
+    },
+    {
+      "album": {
         "name": "You Can't Say That",
         "url": "https://open.spotify.com/album/1HQJGuWN0N8WCEpczQpQut"
       },
@@ -34902,6 +35044,24 @@
       "duration_ms": 358000,
       "name": "YAH Know",
       "url": "https://open.spotify.com/track/1LzovYtOvkODueiluGyRzF"
+    },
+    {
+      "album": {
+        "name": "Yaxel",
+        "url": "https://open.spotify.com/album/4HrIse1J5s07y83K3eIEQO"
+      },
+      "artists": [
+        {
+          "name": "BabyTron",
+          "url": "https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138161,
+      "name": "Yaxel",
+      "url": "https://open.spotify.com/track/62RMA69LLfBMPDfrEhxvsf"
     },
     {
       "album": {

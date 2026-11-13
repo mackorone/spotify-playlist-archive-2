@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Praise the Lord with all your heart as you sing along to these Gospel Worship songs. Cover: Roosevelt Stewart",
+  "description": "Praise the Lord with all your heart as you sing along to these Gospel Worship songs. Cover: Transformation Worship",
   "name": "Gospel Worship",
   "tracks": [
     {
@@ -630,7 +630,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 262325,
       "name": "Beautiful Exchange",
       "url": "https://open.spotify.com/track/7clvto32JaAp4fcLcHD1Lf"
@@ -1194,6 +1194,28 @@
       "duration_ms": 504889,
       "name": "Dance Anyhow",
       "url": "https://open.spotify.com/track/3TLl80bJcNDDgay3jMclgp"
+    },
+    {
+      "album": {
+        "name": "DANGEROUS GOD",
+        "url": "https://open.spotify.com/album/6MCNuDZNyzwFHZSSTi8vbv"
+      },
+      "artists": [
+        {
+          "name": "Pastor Courage",
+          "url": "https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf"
+        },
+        {
+          "name": "Benjamin Isreal",
+          "url": "https://open.spotify.com/artist/6zZpd4NGOI4twir6Cx5KdZ"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290507,
+      "name": "DANGEROUS GOD",
+      "url": "https://open.spotify.com/track/3tIB8KDkj9cVUXjACAwCTu"
     },
     {
       "album": {
@@ -2993,6 +3015,32 @@
     },
     {
       "album": {
+        "name": "Bloodline",
+        "url": "https://open.spotify.com/album/6XKJINnDZA2ML8c0i3w9am"
+      },
+      "artists": [
+        {
+          "name": "Transformation Worship",
+          "url": "https://open.spotify.com/artist/4pwGjEvQsgeFE27Sk31r7I"
+        },
+        {
+          "name": "Majeste Pearson",
+          "url": "https://open.spotify.com/artist/0Eg7BWS7T6LCkJA5pUhmMZ"
+        },
+        {
+          "name": "Jonathan McReynolds",
+          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337209,
+      "name": "Inheritance",
+      "url": "https://open.spotify.com/track/2m7QZibDGcZFAH1XoRMG4z"
+    },
+    {
+      "album": {
         "name": "Setlist Vol. 1 (Live)",
         "url": "https://open.spotify.com/album/0fRY9s3aFVDG3n9g4atgII"
       },
@@ -3943,6 +3991,24 @@
     },
     {
       "album": {
+        "name": "Never Let The Rocks",
+        "url": "https://open.spotify.com/album/2lIRR6v0OT4q0z4dnaEtBM"
+      },
+      "artists": [
+        {
+          "name": "Gregory Brunot",
+          "url": "https://open.spotify.com/artist/4n7TM4R38KGJmY5PdcqLXt"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324171,
+      "name": "Never Let The Rocks",
+      "url": "https://open.spotify.com/track/6xX28NgjFYtrr8LRiwFZ1E"
+    },
+    {
+      "album": {
         "name": "Gospel's Best Live",
         "url": "https://open.spotify.com/album/5NvLAYXvwMmEfYC5K2CsUd"
       },
@@ -4264,10 +4330,28 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 276480,
       "name": "Only One Holy - Live",
       "url": "https://open.spotify.com/track/36DB26SbP34gCgVBfa7BL2"
+    },
+    {
+      "album": {
+        "name": "The Invitation (Live in Nashville)",
+        "url": "https://open.spotify.com/album/34hqlpjI8FQNcQnpF5qn5u"
+      },
+      "artists": [
+        {
+          "name": "Jasmin Foreman",
+          "url": "https://open.spotify.com/artist/16kiLoWN3jY8WslXMC08Sy"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276480,
+      "name": "Only One Holy - Radio",
+      "url": "https://open.spotify.com/track/6JhGa7pWkmHQSlpVc2CZ2b"
     },
     {
       "album": {
@@ -5077,6 +5161,28 @@
     },
     {
       "album": {
+        "name": "TAKE CONTROL",
+        "url": "https://open.spotify.com/album/1SZxFCuTBWqxmDf1tFfbM1"
+      },
+      "artists": [
+        {
+          "name": "Kofi Dartey",
+          "url": "https://open.spotify.com/artist/2VgS8SW9VgfDQCkYqiasPr"
+        },
+        {
+          "name": "Godswill Oyor",
+          "url": "https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 440955,
+      "name": "TAKE CONTROL",
+      "url": "https://open.spotify.com/track/2nW8b9iS0bw0VqmaIURQqV"
+    },
+    {
+      "album": {
         "name": "The Songbook Of Micah (Live)",
         "url": "https://open.spotify.com/album/1H02658dewlx1vuL4MmGQz"
       },
@@ -5859,6 +5965,28 @@
     },
     {
       "album": {
+        "name": "We Worship You (Live)",
+        "url": "https://open.spotify.com/album/38SX4K8l81X2H4aiu6RBqN"
+      },
+      "artists": [
+        {
+          "name": "Spirit Of Praise",
+          "url": "https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa"
+        },
+        {
+          "name": "Takie Ndou",
+          "url": "https://open.spotify.com/artist/4VRhAhWIwAZ8nXLAxuzDGu"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 599600,
+      "name": "We Worship You - Live",
+      "url": "https://open.spotify.com/track/3Q3k5ttc0uBXEFjELdjPUQ"
+    },
+    {
+      "album": {
         "name": "Well Done",
         "url": "https://open.spotify.com/album/31rCHYaPX2s01fwV7kEouW"
       },
@@ -6308,6 +6436,24 @@
       "duration_ms": 381970,
       "name": "You Are There",
       "url": "https://open.spotify.com/track/3EAHBjhFMwuIdAS5FodQTF"
+    },
+    {
+      "album": {
+        "name": "We Feel Heaven (Live)",
+        "url": "https://open.spotify.com/album/2sc99XQsr6JpXx1Iv2pNAn"
+      },
+      "artists": [
+        {
+          "name": "Folabi Nuel",
+          "url": "https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369056,
+      "name": "You Are Worthy - Live",
+      "url": "https://open.spotify.com/track/6ZTsQQt8hgTLyKH50hvaeS"
     },
     {
       "album": {

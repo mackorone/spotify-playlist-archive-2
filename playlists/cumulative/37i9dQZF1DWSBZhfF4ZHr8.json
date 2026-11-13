@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise avec Linh & Claudio Cap\u00e9o.\n\n",
+  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise avec Marine & Danyl.\n\n",
   "name": "Fresh Vari\u00e9t\u00e9",
   "tracks": [
     {
@@ -218,6 +218,28 @@
       "duration_ms": 221613,
       "name": "Adieux",
       "url": "https://open.spotify.com/track/61f2KBpaXd1xBcPnyLswaV"
+    },
+    {
+      "album": {
+        "name": "Ailleurs",
+        "url": "https://open.spotify.com/album/4zn8kg7LmD3DZ7iOfeosoH"
+      },
+      "artists": [
+        {
+          "name": "Cobalt",
+          "url": "https://open.spotify.com/artist/6WgLIuTWmYjBTFN64iv7ZB"
+        },
+        {
+          "name": "DAYSY",
+          "url": "https://open.spotify.com/artist/6vorHF3qW6vODkQP51kGlk"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175893,
+      "name": "Ailleurs",
+      "url": "https://open.spotify.com/track/3RTQFIpITuWmeh0N4DpcFc"
     },
     {
       "album": {
@@ -770,7 +792,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 182520,
       "name": "bellevie",
       "url": "https://open.spotify.com/track/5gLrC8G7RwfxsiX2ICNZTa"
@@ -1849,6 +1871,24 @@
     },
     {
       "album": {
+        "name": "crash",
+        "url": "https://open.spotify.com/album/4qsEflcoeLFpdV65tl5hpF"
+      },
+      "artists": [
+        {
+          "name": "Lo\u00efc Nottet",
+          "url": "https://open.spotify.com/artist/5nAiCPenjjdpUJAmElxmuu"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147702,
+      "name": "crash",
+      "url": "https://open.spotify.com/track/31pVIAzSraGD26uL4bhj3H"
+    },
+    {
+      "album": {
         "name": "Crash 404",
         "url": "https://open.spotify.com/album/5IYdM41ewgdw56nnArwFdm"
       },
@@ -2124,6 +2164,24 @@
       "duration_ms": 147746,
       "name": "Demain",
       "url": "https://open.spotify.com/track/5fhU1hRABiGlPsX84Ufw4w"
+    },
+    {
+      "album": {
+        "name": "Demain",
+        "url": "https://open.spotify.com/album/0DAgBhxgTgnPeNg6unKQtc"
+      },
+      "artists": [
+        {
+          "name": "Joseph Kamel",
+          "url": "https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176135,
+      "name": "Demain",
+      "url": "https://open.spotify.com/track/2OgXhAccxfMBDlZUmepXBV"
     },
     {
       "album": {
@@ -2808,7 +2866,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 170858,
       "name": "et si je pars",
       "url": "https://open.spotify.com/track/3rynXtBiImASu85juPjrAA"
@@ -3515,6 +3573,24 @@
     },
     {
       "album": {
+        "name": "I <3 you",
+        "url": "https://open.spotify.com/album/7gWBTQxRBcxDx5joFYlYyW"
+      },
+      "artists": [
+        {
+          "name": "Tibz",
+          "url": "https://open.spotify.com/artist/2fAaFNSG0aQucjQigOtHZF"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200600,
+      "name": "I <3 you",
+      "url": "https://open.spotify.com/track/6RSSA85jNZ5tRCgEXg0Y53"
+    },
+    {
+      "album": {
         "name": "Il n'y a que toi (There's Only You)",
         "url": "https://open.spotify.com/album/0SDoAXpB2gvyvLLLQvRzZP"
       },
@@ -3638,7 +3714,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 151856,
       "name": "Insomnie",
       "url": "https://open.spotify.com/track/14fGqHU130ooeNSBmCsJIC"
@@ -4212,7 +4288,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 172801,
       "name": "Je Reste L\u00e0",
       "url": "https://open.spotify.com/track/2ePHKXoS1m1sp1g1p9EzI0"
@@ -4442,6 +4518,24 @@
       "duration_ms": 154805,
       "name": "Juste un peu",
       "url": "https://open.spotify.com/track/7vNKvKNraI2IAooZMMiBzZ"
+    },
+    {
+      "album": {
+        "name": "Juste une fois",
+        "url": "https://open.spotify.com/album/2btNC1JuHos9JR2S04mnRU"
+      },
+      "artists": [
+        {
+          "name": "Lenie",
+          "url": "https://open.spotify.com/artist/2ln12LyfiK9UkmiYXOiuaF"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164015,
+      "name": "Juste une fois",
+      "url": "https://open.spotify.com/track/1TNvGJT5EDUxXp5SYoklnu"
     },
     {
       "album": {
@@ -5724,7 +5818,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 171015,
       "name": "Les Euros",
       "url": "https://open.spotify.com/track/0bc8GhYvEAUDqMaqfCbIrC"
@@ -6546,6 +6640,24 @@
       "duration_ms": 199146,
       "name": "Meilleurs qu'hier",
       "url": "https://open.spotify.com/track/0g4ObIiyj6t33K6WFDt1sr"
+    },
+    {
+      "album": {
+        "name": "melancholia",
+        "url": "https://open.spotify.com/album/18uZTyPwB5U8lwUVzXIThL"
+      },
+      "artists": [
+        {
+          "name": "Ambre",
+          "url": "https://open.spotify.com/artist/28YPWin68aYoxfouVteGYQ"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189760,
+      "name": "melancholia",
+      "url": "https://open.spotify.com/track/7KxY8mBCQcqBw4IkvRk25c"
     },
     {
       "album": {
@@ -7451,6 +7563,24 @@
     },
     {
       "album": {
+        "name": "On sera l\u00e0",
+        "url": "https://open.spotify.com/album/5jhNNZuRJzLFSKVGDbPUhv"
+      },
+      "artists": [
+        {
+          "name": "Soprano",
+          "url": "https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209667,
+      "name": "On sera l\u00e0",
+      "url": "https://open.spotify.com/track/0Nz7R3rQrgABvGRp4BJyUv"
+    },
+    {
+      "album": {
         "name": "Opinel",
         "url": "https://open.spotify.com/album/3h2kLKVyMxIF6EpTNnUI60"
       },
@@ -8200,7 +8330,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 183602,
       "name": "Plus rien \u00e0 offrir",
       "url": "https://open.spotify.com/track/0ElYW8dZgaoO2XYI6Saf1K"
@@ -8634,7 +8764,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 129374,
       "name": "Quelqu'un d'heureux",
       "url": "https://open.spotify.com/track/2EE5pUEfUNSQ365QCmHMni"
@@ -10713,6 +10843,28 @@
     },
     {
       "album": {
+        "name": "Un mal pour un bien",
+        "url": "https://open.spotify.com/album/6brWMM2vaJgMnz7N5dLgsB"
+      },
+      "artists": [
+        {
+          "name": "Marine",
+          "url": "https://open.spotify.com/artist/5IcaqAG12inAfarGuGqpW1"
+        },
+        {
+          "name": "Danyl",
+          "url": "https://open.spotify.com/artist/5Hq9W3lm1N9KRCf35RBMab"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158040,
+      "name": "Un mal pour un bien",
+      "url": "https://open.spotify.com/track/0QtMf1z5LP2D14gMCypChY"
+    },
+    {
+      "album": {
         "name": "gu\u00e9rir",
         "url": "https://open.spotify.com/album/5SLhRamBJlp8UHE5VhKj5Y"
       },
@@ -11216,7 +11368,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 234973,
       "name": "\u00c0 l'envers",
       "url": "https://open.spotify.com/track/09CrknnhUZsaFzrOkw1uYD"
@@ -11274,7 +11426,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 194253,
       "name": "\u00c0 ta sant\u00e9 consentement",
       "url": "https://open.spotify.com/track/0GoCn1kSMd6Yd2Ei6Yl1tG"
@@ -11412,6 +11564,24 @@
       "duration_ms": 167128,
       "name": "\u00c9gar\u00e9",
       "url": "https://open.spotify.com/track/0cfxcc6fEDeafzlO5yNUV4"
+    },
+    {
+      "album": {
+        "name": "\u00catre moi (d\u00e9guis\u00e9 en fleur)",
+        "url": "https://open.spotify.com/album/3M9PFUZ8HhWoZeR0YGO02s"
+      },
+      "artists": [
+        {
+          "name": "MPL",
+          "url": "https://open.spotify.com/artist/7pcG7za39JaUHalwqiuCt9"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "\u00catre moi (d\u00e9guis\u00e9 en fleur)",
+      "url": "https://open.spotify.com/track/2ctJxIV3dpToTzoJvgPiNW"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWSBZhfF4ZHr8"

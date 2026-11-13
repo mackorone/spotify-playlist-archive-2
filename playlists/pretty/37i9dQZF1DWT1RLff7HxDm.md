@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 
 > All live, all blues\. Cover: Samantha Fish
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,155 likes - 100 songs - 10 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,171 likes - 100 songs - 10 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 | 21 | [Rain \- Live At Red Rocks, 2023](https://open.spotify.com/track/3wkrXuffdpo71E29uk8mtI) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Rain \(Live At Red Rocks, 2023\)](https://open.spotify.com/album/1lXEfpDNac1E2XOvNDpbix) | 4:48 |
 | 22 | [The Heart That Never Waits \- Live](https://open.spotify.com/track/4YuyBlfqxrlKNT8E5QxKmk) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Tales Of Time \(Live\)](https://open.spotify.com/album/0G03hsZGLxlUG8Spg4lTi3) | 8:31 |
 | 23 | [Just Won’t Burn \- Live at the Beacon Theatre / 2022](https://open.spotify.com/track/3wl59CVUAS8IL3FfPwfGSB) | [Susan Tedeschi](https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta), [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [Just Won't Burn \(25th Anniversary Deluxe Edition\)](https://open.spotify.com/album/3tUrmnZBBUN9ZCtdJh16xn) | 7:29 |
-| 24 | [Thunder in the Sky \(Live at the Marshall Studio\)](https://open.spotify.com/track/3dGArQ1Z4jUSOc8fJ8n6kj) | [Laurence Jones](https://open.spotify.com/artist/2vX8hKHgReZ15YguZe3Zxj) | [Thunder in the Sky \(Live at the Marshall Studio\)](https://open.spotify.com/album/1eSGbs2e2grK3xqQmPjjc4) | 9:12 |
+| 24 | [Thunder in the Sky \- \(Live at the Marshall Studio\)](https://open.spotify.com/track/3dGArQ1Z4jUSOc8fJ8n6kj) | [Laurence Jones](https://open.spotify.com/artist/2vX8hKHgReZ15YguZe3Zxj) | [Thunder in the Sky \(Live at the Marshall Studio\)](https://open.spotify.com/album/1eSGbs2e2grK3xqQmPjjc4) | 9:12 |
 | 25 | [Cotton Candy \(Live\)](https://open.spotify.com/track/3BEFNKCaaa6nlUgkGlBXMK) | [Robben Ford](https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy) | [Cotton Candy \(Live\)](https://open.spotify.com/album/5h65XYlUahg1cjp5qJRPt1) | 4:20 |
 | 26 | [Gravity \- Live at the House of Blues, Chicago, Illinois, September 22, 2005](https://open.spotify.com/track/0FRoVng8IZZoS0ATxIgvuH) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [TRY! \- Live In Concert](https://open.spotify.com/album/0X9bvQYYtrAYdkO4OKtYwz) | 5:49 |
 | 27 | [What Kind Of Fool \- Live from Haute Spot](https://open.spotify.com/track/6wXEjuK8cueaGdyiLat7M0) | [Ruthie Foster](https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F) | [What Kind Of Fool \(Live from Haute Spot\)](https://open.spotify.com/album/4y4WAI9zFPkgDphk9kgvn7) | 4:31 |

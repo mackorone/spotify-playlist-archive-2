@@ -2,9 +2,9 @@
 
 ### [Pop PT](https://open.spotify.com/playlist/37i9dQZF1DX6ViL9RcFABv)
 
-> Uma playlist de pura alma pop! Foto: SYRO
+> Uma playlist de pura alma pop! Foto: João Só, Tiago Nogueira
 
-617 songs - 1 day 8 hr 30 min
+619 songs - 1 day 8 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -329,7 +329,7 @@
 | [Mau Olhado](https://open.spotify.com/track/0LaW8Kmab0zBV6BLDOS54j) | [Bárbara Bandeira](https://open.spotify.com/artist/4zhMand4AowXuUz4VpGiTJ) | [Mau Olhado](https://open.spotify.com/album/3aQUFGN7T9FPWZoo4IqX0R) | 2:35 | 2026-04-09 | 2026-09-25 |
 | [Maya](https://open.spotify.com/track/76lnq6raCPupukROLdLmwG) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um) | [Voyage \(Part III\)](https://open.spotify.com/album/2YxiYrbic25u1RdERSPmoa) | 3:30 | 2024-11-08 | 2025-03-08 |
 | [Medo](https://open.spotify.com/track/6SdhNImhd8UMS0Tm79kRaA) | [Fernando Daniel](https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC) | [Festival da Canção 2025](https://open.spotify.com/album/6VHtVgnrzrBLMNyYaHkpSu) | 3:00 | 2025-03-14 | 2025-07-11 |
-| [Meio da Roda](https://open.spotify.com/track/7E0NUC98gUAg7M6LHtVsQa) | [Noninho Navarro](https://open.spotify.com/artist/4Upsc5DYZ209aRDVIAgbrm) | [Meio da Roda](https://open.spotify.com/album/3N6qux74cQssu0TIrz1Nh5) | 3:47 | 2026-11-06 |  |
+| [Meio da Roda](https://open.spotify.com/track/7E0NUC98gUAg7M6LHtVsQa) | [Noninho Navarro](https://open.spotify.com/artist/4Upsc5DYZ209aRDVIAgbrm) | [Meio da Roda](https://open.spotify.com/album/3N6qux74cQssu0TIrz1Nh5) | 3:47 | 2026-11-06 | 2026-11-13 |
 | [Melhor Sem Ti](https://open.spotify.com/track/1f00PICONoIkjQ8rkqqFCA) | [Beatriz Abrunhosa](https://open.spotify.com/artist/3obN0kv6cKvDcwGT1TMpTF) | [Melhor Sem Ti](https://open.spotify.com/album/06KrHJWst0BR90qhrjaXpj) | 3:06 | 2025-11-07 | 2025-11-28 |
 | [Melodia](https://open.spotify.com/track/5HSYsk35AOOmLqE5rYcMFx) | [Vado Más Ki Ás](https://open.spotify.com/artist/6HmLPYedWhpFhiF8BonrMG), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Melodia](https://open.spotify.com/album/2RZXeyPA9S4ePRYwDvID1P) | 2:55 | 2024-11-08 | 2025-04-11 |
 | [MENINA](https://open.spotify.com/track/17ohad4EKCTOvpNpDhVjO8) | [MAR](https://open.spotify.com/artist/1eD8ms4LtG3jrXqamSifPY), [Carolina Deslandes](https://open.spotify.com/artist/6xolQjWFT24ykWke55u9fU) | [MENINA](https://open.spotify.com/album/4EUB72vhUpOVYOor1ZpAzX) | 3:33 | 2025-11-14 | 2025-11-28 |
@@ -349,6 +349,7 @@
 | [Mulher Bonita](https://open.spotify.com/track/3EqysxvIY7mf7ED1MvkKSt) | [No Maka](https://open.spotify.com/artist/35dFX8XteNIxKbFW6VmdW3) | [Mulher Bonita](https://open.spotify.com/album/1s1KpszlvLQjndv5qNGZhr) | 3:00 | 2026-09-03 |  |
 | [mulher de corpo inteiro](https://open.spotify.com/track/00hE41WTlYqTCn4Q3PHpD1) | [MATILDA](https://open.spotify.com/artist/5U8hoiuIiFuhKQoiTCXPcS) | [DE CORPO INTEIRO](https://open.spotify.com/album/5bnn5RaLLk2xqtZjgo495I) | 3:00 | 2026-05-21 | 2026-07-17 |
 | [Mulher dos teus sonhos \(2 Pares de Botas\)](https://open.spotify.com/track/1Mb0AmcqnwconT7HAcH9Th) | [Nena](https://open.spotify.com/artist/561qBVd91ZPE9yCURXt7BB), [Joana Almeirante](https://open.spotify.com/artist/4sjur6yJyz7QCyNpiG5Ynm) | [Mulher dos teus sonhos \(2 Pares de Botas\)](https://open.spotify.com/album/3xx2IGEhLpZbaYbM1C2Pqc) | 2:46 | 2025-07-31 | 2025-10-03 |
+| [MULHER, TU ÉS \(INTRO\)](https://open.spotify.com/track/2ohHjp1Ss8ilyVFgTRMalX) | [David Carreira](https://open.spotify.com/artist/6tIIe4TjUAUBgebA9j53ch) | [PARA FALAR DE AMOR](https://open.spotify.com/album/6xNHF2DxjMK2pdQP2Gtnma) | 2:24 | 2026-11-13 |  |
 | [Multa](https://open.spotify.com/track/3PSz7GyzALqB31oYurkUC3) | [David Carreira](https://open.spotify.com/artist/6tIIe4TjUAUBgebA9j53ch) | [Multa](https://open.spotify.com/album/1mz6PNY5DVsC9sskuyb6LU) | 2:40 | 2026-02-06 | 2026-04-17 |
 | [Mundo](https://open.spotify.com/track/43yXbcpBsYN9GzeDHA4QN8) | [Lena d’Água](https://open.spotify.com/artist/6236JGmsEzqSEobDtH75lS) | [Mundo](https://open.spotify.com/album/3HiWFaA0Rr3pp4PKDjfGzD) | 2:30 | 2025-04-17 | 2025-05-02 |
 | [Mãe](https://open.spotify.com/track/7nPsaDN1eYi7QFslaVDSDY) | [D.A.M.A](https://open.spotify.com/artist/4h5zTnUibCdGWia43hOo5y) | [Canções Bonitas em Português Vol\. I](https://open.spotify.com/album/5L8p4ZsuhyPnoav0zmjW4B) | 3:45 | 2024-06-27 | 2025-02-14 |
@@ -554,6 +555,7 @@
 | [Só Deus Sabe](https://open.spotify.com/track/1t7lqhqTivyMiXVNFK9cPx) | [Anda Pacheco](https://open.spotify.com/artist/6Eg8oODWtEpLya3GudfTZM) | [Só Deus Sabe](https://open.spotify.com/album/7xCJoZt1lSDqtGjMjLvwro) | 3:31 | 2024-12-06 | 2025-03-21 |
 | [Só Existo Contigo](https://open.spotify.com/track/6KSp8SF1M4DmlO3FA3JU9G) | [Diogo Piçarra](https://open.spotify.com/artist/3tOS3iTJSHwowFPRdR4Wsf), [Satiro](https://open.spotify.com/artist/2s0vdOp4RtF3VBYH6wxxbM) | [Só Existo Contigo](https://open.spotify.com/album/3H9BKvBxbel1z3lFbgY57r) | 3:27 | 2025-10-02 | 2026-05-29 |
 | [SÓ QUERO VIVER](https://open.spotify.com/track/7nDslFhczcb3OtifwIPNCC) | [LEO2745](https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx), [Criss Calisto](https://open.spotify.com/artist/1GDc3UxzZppUck4qre7QAX) | [SÓ QUERO VIVER](https://open.spotify.com/album/5MXDOITYtd2842neVb5IS5) | 2:42 | 2025-07-17 | 2025-09-27 |
+| [Só Sei Desarrumar](https://open.spotify.com/track/5H83yG6Ejggt6KMspkStOZ) | [João Só](https://open.spotify.com/artist/3iDVVJyqrMCzLkV5s4x1he), [Tiago Nogueira](https://open.spotify.com/artist/4eGX5Ukp5TPGJGYVmC91UF) | [Só Meio Disco](https://open.spotify.com/album/0UlcJI1JPgzrx4jdTbpwc4) | 3:31 | 2026-11-13 |  |
 | [Sótão dos Porquês](https://open.spotify.com/track/2WttNRFTl0Aez48Cq8uj2J) | [SYRO](https://open.spotify.com/artist/55axQKUUXr8LoUcKagMp5x) | [Sótão dos Porquês](https://open.spotify.com/album/6eggTVxskSQRS8QkZHjmf4) | 2:56 | 2026-01-30 | 2026-06-26 |
 | [Talvez](https://open.spotify.com/track/7HNgDJPrtkBhJ6SqUOMMyt) | [Waze](https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm), [Leonor Barreira](https://open.spotify.com/artist/5clPclYJpVR9PKaSHNLXkf) | [Talvez](https://open.spotify.com/album/0oTPd2PPkUffseXHnoeHcF) | 2:52 | 2026-05-07 | 2026-05-29 |
 | [Talvez...](https://open.spotify.com/track/65BXCyoVQ1sSGj0z6UxRcL) | [CAROLINA DE DEUS](https://open.spotify.com/artist/0CwJCUfVGXjdMvyLzJNwFH) | [Talvez...](https://open.spotify.com/album/0o8AGwMQunsC0QMOk4hZt3) | 3:04 | 2024-06-27 | 2024-11-08 |
@@ -578,7 +580,7 @@
 | [Tina](https://open.spotify.com/track/0cGZQqrXnlnBfU7uqHY1eh) | [Mickael Carreira](https://open.spotify.com/artist/6Y9n4rtU99wHdeIrrhndtU), [Tierry](https://open.spotify.com/artist/4FUMTycjZlEY6ZxMgqNjC8) | [Tina](https://open.spotify.com/album/6Hw55O1N1t5l25805KLcd7) | 2:50 | 2026-05-07 | 2026-06-26 |
 | [Tipicamente Casados](https://open.spotify.com/track/0yvE6oZRThZMSbiBDJ4ukO) | [Ana Bacalhau](https://open.spotify.com/artist/39eI4tC8L0YqmljynE71VF), [Mimicat](https://open.spotify.com/artist/7tTVBmiE9WeEDQdW3Q0Wn6) | [Tipicamente Casados](https://open.spotify.com/album/0KmP74mANKebm78UJHfvL1) | 2:57 | 2026-05-28 | 2026-08-07 |
 | [Tiques de Rico](https://open.spotify.com/track/1SgsfPW9jh3LdicCpr0ggh) | [Os Quatro e Meia](https://open.spotify.com/artist/4pHDBbJMWvniiMjrhi2rfE), [Miguel Araújo](https://open.spotify.com/artist/0A1fXDw6kferKgLY4UMxNi) | [Tiques de Rico](https://open.spotify.com/album/3077eqHhvWjs1OoudI0gxn) | 3:37 | 2025-06-26 | 2025-12-19 |
-| [Trata Bem Dela](https://open.spotify.com/track/4FFYBy5h6JPia0XCDVHCDF) | [Khiaro](https://open.spotify.com/artist/1F9fj23YI3lhbe8IX5mHRb) | [Reencontro](https://open.spotify.com/album/2NLUDAehZRgYDG3ZyYY9px) | 2:29 | 2026-10-15 |  |
+| [Trata Bem Dela](https://open.spotify.com/track/4FFYBy5h6JPia0XCDVHCDF) | [Khiaro](https://open.spotify.com/artist/1F9fj23YI3lhbe8IX5mHRb) | [Reencontro](https://open.spotify.com/album/2NLUDAehZRgYDG3ZyYY9px) | 2:29 | 2026-10-15 | 2026-11-13 |
 | [Trigueirinha](https://open.spotify.com/track/5J02C6BJEWlRZKcoaIyz0F) | [Khiaro](https://open.spotify.com/artist/1F9fj23YI3lhbe8IX5mHRb) | [Trigueirinha](https://open.spotify.com/album/3Wa6egHHQhOzETuD1Oz7XD) | 2:39 | 2026-04-16 | 2026-10-30 |
 | [Tristeza](https://open.spotify.com/track/2ff0DqG4icPsm0N6M4em6h) | [JOSH](https://open.spotify.com/artist/4U4egOotuNLKqlARiAfYne) | [Festival da Canção 2025](https://open.spotify.com/album/6VHtVgnrzrBLMNyYaHkpSu) | 2:58 | 2025-03-14 | 2025-04-04 |
 | [Tu](https://open.spotify.com/track/4Aj8x5OSwaCrmhUBVD7z8T) | [Criss Calisto](https://open.spotify.com/artist/1GDc3UxzZppUck4qre7QAX) | [Tu](https://open.spotify.com/album/6a3DUDULPdVCHlOEKXY2pY) | 2:31 | 2026-10-15 |  |

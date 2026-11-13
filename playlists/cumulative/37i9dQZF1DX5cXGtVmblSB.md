@@ -4,7 +4,7 @@
 
 > Soft music to calm down cats, kittens and their humans.
 
-401 songs - 20 hr 38 min
+403 songs - 20 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [Heaven](https://open.spotify.com/track/1pqcEcrpb6pUnFk8tJHdVp) | [Dyfi Francis](https://open.spotify.com/artist/1JKh71Pj7aGLigPUqmoeqj) | [Heaven](https://open.spotify.com/album/4Is63pzyRxXwhxpsCCORgh) | 2:37 | 2026-11-11 |  |
 | [Highlands](https://open.spotify.com/track/5lszZIR5GNQubgdMefwp2T) | [Steve Jones Swiff](https://open.spotify.com/artist/3z1Zuq8iUJqouUmX3ugLml) | [Highlands](https://open.spotify.com/album/3dIFhoR2URHhpLMEVrv4eC) | 2:05 | 2020-01-10 | 2024-07-19 |
 | [Holding Light](https://open.spotify.com/track/2kISqKr7qyisH1fv4vfUO4) | [Spacetactular](https://open.spotify.com/artist/7FQhluCKlC5UBRvkodPl8m) | [Holding Light](https://open.spotify.com/album/2fXfDfwQlGMequMl7Cz35D) | 2:19 | 2025-11-27 |  |
+| [Holding the Sky](https://open.spotify.com/track/0uohvIxWZX0tS0TIZ76rHE) | [Civian](https://open.spotify.com/artist/4yaZWyVYNm5cP3GnG3tj1p) | [Holding the Sky](https://open.spotify.com/album/1CMVlmUN82Yw2hiQBZmv7Z) | 2:40 | 2026-11-13 |  |
 | [Home](https://open.spotify.com/track/5Jiloy8XMxkyDDPKgoWZaA) | [Joseph Sai](https://open.spotify.com/artist/7tVx3YEKyoSaM7CcmlneBc) | [Home](https://open.spotify.com/album/6QtrBoEHcf9me8ki9gUM4u) | 2:39 | 2025-06-11 |  |
 | [Horizon](https://open.spotify.com/track/0gMUFkUoKWzoQbb6PrA6fJ) | [Stravae](https://open.spotify.com/artist/4eaRMciQhKjV2INHRTE95t) | [Horizon](https://open.spotify.com/album/0fhIPMIb03tuuqe9GKtPx1) | 2:45 | 2026-11-11 |  |
 | [Horizon Echoes](https://open.spotify.com/track/6mVR4skJMDCu3bnvQdwPEK) | [neon cosmo](https://open.spotify.com/artist/5JJlwfHP7R3sSWfrDn4FOV) | [Horizon Echoes](https://open.spotify.com/album/5uUZXj5WBAb9xoS8Nj0rdR) | 3:04 | 2025-02-13 |  |
@@ -359,6 +360,7 @@
 | [Stone Archway](https://open.spotify.com/track/7jEje6fOghkcA0VBG6cPwK) | [Celtic Charm](https://open.spotify.com/artist/3GRwfeqk1Aep2RmOliU5ix) | [Stone Archway](https://open.spotify.com/album/4QZXvYUeE8MaCsVbkdVA3E) | 3:15 | 2026-09-11 |  |
 | [Strings Of Serenity](https://open.spotify.com/track/5MCD2VQD1zR35jJHczAkMk) | [X\-Genie](https://open.spotify.com/artist/7jpxxOSOJX0PCvKXAbQs2I) | [Strings Of Serenity](https://open.spotify.com/album/08ToMN7jrPEtekSMYn4RtX) | 2:51 | 2023-05-19 | 2026-02-17 |
 | [Submerged in Silence](https://open.spotify.com/track/7COIgCvwUIdWjmhp8OQXQa) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Submerged in Silence](https://open.spotify.com/album/5EYkzqyUfnfS65SdfSAIRw) | 3:14 | 2023-10-16 |  |
+| [Subtle Holding](https://open.spotify.com/track/1GqnLoUK8vp8qmnV7JvCSP) | [Roots Connection](https://open.spotify.com/artist/2x8Ba8WcnKZDy364S3MIcb) | [Subtle Holding](https://open.spotify.com/album/6115CPcqSXqBVDdUwzVQVv) | 2:23 | 2026-11-13 |  |
 | [Subtone](https://open.spotify.com/track/19k0wj5vi9Bhv7uf5BvWsi) | [Monte Aria](https://open.spotify.com/artist/7mVQk6J9GM0K0sf1H9ueXZ) | [Subtone](https://open.spotify.com/album/0zz9i9tf8C9rtlb7HRpEzH) | 2:44 | 2026-02-16 |  |
 | [Sun Bells](https://open.spotify.com/track/1f5BNfpT1tP7LpD9zri8wD) | [Earthbound](https://open.spotify.com/artist/0F1aPOoP68MvFLfZ4fyP03) | [Sun Bells](https://open.spotify.com/album/0euFYTO4xkTMu8vKzTDBgf) | 3:24 | 2024-08-28 | 2026-01-21 |
 | [Sundrumming](https://open.spotify.com/track/6yvpbvlR9QtmOb1oKHXEQP) | [Sam Bucciana](https://open.spotify.com/artist/4A7ZW9rJIvRiyu3pgxQW1j) | [Sundrumming](https://open.spotify.com/album/67bSUBBZCmETSfbvBMPe1t) | 2:09 | 2023-11-07 | 2026-01-21 |

@@ -1,6 +1,6 @@
 {
   "description": "Solo hit rap da ascoltare in loop. Cover: Lazza",
-  "num_followers": 257698,
+  "num_followers": 257723,
   "original_name": "Hit Rap Italiane",
   "owner": {
     "name": "Spotify",
@@ -291,22 +291,6 @@
     {
       "added_at": "2026-04-23 21:32:47",
       "album": {
-        "name": "Potere",
-        "url": "https://open.spotify.com/album/2PjyVGPJwYRg9GbNXlicKM"
-      },
-      "artists": [
-        {
-          "name": "Luch\u00e8",
-          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
-        }
-      ],
-      "duration_ms": 181661,
-      "name": "Non Abbiamo Et\u00e0",
-      "url": "https://open.spotify.com/track/0NwuXciw6eQc4edjwSBnV3"
-    },
-    {
-      "added_at": "2026-04-23 21:32:47",
-      "album": {
         "name": "The Globe",
         "url": "https://open.spotify.com/album/0Wp32iRbmSA3VvGZmAYjDv"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 146333,
       "name": "Il Filmografo",
       "url": "https://open.spotify.com/track/5nqOdSrqurNq8ejE7Ujc9l"
+    },
+    {
+      "added_at": "2026-04-23 21:32:47",
+      "album": {
+        "name": "Potere",
+        "url": "https://open.spotify.com/album/2PjyVGPJwYRg9GbNXlicKM"
+      },
+      "artists": [
+        {
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        }
+      ],
+      "duration_ms": 181661,
+      "name": "Non Abbiamo Et\u00e0",
+      "url": "https://open.spotify.com/track/0NwuXciw6eQc4edjwSBnV3"
     },
     {
       "added_at": "2026-04-23 21:32:47",
@@ -991,6 +991,22 @@
     {
       "added_at": "2026-04-23 21:32:47",
       "album": {
+        "name": "Vero",
+        "url": "https://open.spotify.com/album/4TJpiqlHBrwm7nLpOIQjZ7"
+      },
+      "artists": [
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        }
+      ],
+      "duration_ms": 182232,
+      "name": "Eravamo Re",
+      "url": "https://open.spotify.com/track/6VwGytUkC11Mj5kcHXggYj"
+    },
+    {
+      "added_at": "2026-04-23 21:32:47",
+      "album": {
         "name": "La Divina Commedia",
         "url": "https://open.spotify.com/album/4ir7AIjfrMVHTxZhnfzhWl"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 137098,
       "name": "Hoe (feat. Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/3VtGh8xE9qRsFyY2Uj1WG3"
-    },
-    {
-      "added_at": "2026-04-23 21:32:47",
-      "album": {
-        "name": "Vero",
-        "url": "https://open.spotify.com/album/4TJpiqlHBrwm7nLpOIQjZ7"
-      },
-      "artists": [
-        {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
-        }
-      ],
-      "duration_ms": 182232,
-      "name": "Eravamo Re",
-      "url": "https://open.spotify.com/track/6VwGytUkC11Mj5kcHXggYj"
     },
     {
       "added_at": "2026-04-23 21:32:47",
@@ -1439,26 +1439,6 @@
     {
       "added_at": "2026-04-23 21:32:47",
       "album": {
-        "name": "VERA BADDIE",
-        "url": "https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2"
-      },
-      "artists": [
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
-        },
-        {
-          "name": "Lazza",
-          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
-        }
-      ],
-      "duration_ms": 198260,
-      "name": "BBE (feat. Lazza)",
-      "url": "https://open.spotify.com/track/4I2SWtTgB08SICbqN6983B"
-    },
-    {
-      "added_at": "2026-04-23 21:32:47",
-      "album": {
         "name": "Ges\u00f9 Bambino",
         "url": "https://open.spotify.com/album/73o3cVQvCogUq8jVRJ8DU4"
       },
@@ -1479,6 +1459,26 @@
       "duration_ms": 158624,
       "name": "Apparecchiato (feat. Nerissima Serpe)",
       "url": "https://open.spotify.com/track/1jM7qLKYebmZhnjwl2MpTo"
+    },
+    {
+      "added_at": "2026-04-23 21:32:47",
+      "album": {
+        "name": "VERA BADDIE",
+        "url": "https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2"
+      },
+      "artists": [
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        },
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        }
+      ],
+      "duration_ms": 198260,
+      "name": "BBE (feat. Lazza)",
+      "url": "https://open.spotify.com/track/4I2SWtTgB08SICbqN6983B"
     },
     {
       "added_at": "2026-04-23 21:32:47",
@@ -1567,46 +1567,6 @@
     {
       "added_at": "2026-04-23 21:32:47",
       "album": {
-        "name": "T\u00caTE (feat. Medy & VillaBanks)",
-        "url": "https://open.spotify.com/album/5TL8p0VHTb54SA7FGhL8lG"
-      },
-      "artists": [
-        {
-          "name": "AVA",
-          "url": "https://open.spotify.com/artist/7zPS3i8YJBNeDcqXUHfCMr"
-        },
-        {
-          "name": "Medy",
-          "url": "https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn"
-        },
-        {
-          "name": "VillaBanks",
-          "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
-        }
-      ],
-      "duration_ms": 180904,
-      "name": "T\u00caTE (feat. Medy & VillaBanks)",
-      "url": "https://open.spotify.com/track/14XAuSrVFla2uyMiYVwQtq"
-    },
-    {
-      "added_at": "2026-04-23 21:32:47",
-      "album": {
-        "name": "Album",
-        "url": "https://open.spotify.com/album/09wqWIOKWuS6RwjBrXe08B"
-      },
-      "artists": [
-        {
-          "name": "Ghali",
-          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
-        }
-      ],
-      "duration_ms": 184413,
-      "name": "Habibi",
-      "url": "https://open.spotify.com/track/2dyQYsU8cJLSGpVsbOy0CO"
-    },
-    {
-      "added_at": "2026-04-23 21:32:47",
-      "album": {
         "name": "Mattoni",
         "url": "https://open.spotify.com/album/1l1cFQQfIbsDDbPavkCosf"
       },
@@ -1631,6 +1591,46 @@
       "duration_ms": 216000,
       "name": "Stay Away (feat. Ketama126, Side Baby & Franco126)",
       "url": "https://open.spotify.com/track/6oZJl2T2hdHnMYcZR6VJGb"
+    },
+    {
+      "added_at": "2026-04-23 21:32:47",
+      "album": {
+        "name": "Album",
+        "url": "https://open.spotify.com/album/09wqWIOKWuS6RwjBrXe08B"
+      },
+      "artists": [
+        {
+          "name": "Ghali",
+          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
+        }
+      ],
+      "duration_ms": 184413,
+      "name": "Habibi",
+      "url": "https://open.spotify.com/track/2dyQYsU8cJLSGpVsbOy0CO"
+    },
+    {
+      "added_at": "2026-04-23 21:32:47",
+      "album": {
+        "name": "T\u00caTE (feat. Medy & VillaBanks)",
+        "url": "https://open.spotify.com/album/5TL8p0VHTb54SA7FGhL8lG"
+      },
+      "artists": [
+        {
+          "name": "AVA",
+          "url": "https://open.spotify.com/artist/7zPS3i8YJBNeDcqXUHfCMr"
+        },
+        {
+          "name": "Medy",
+          "url": "https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn"
+        },
+        {
+          "name": "VillaBanks",
+          "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
+        }
+      ],
+      "duration_ms": 180904,
+      "name": "T\u00caTE (feat. Medy & VillaBanks)",
+      "url": "https://open.spotify.com/track/14XAuSrVFla2uyMiYVwQtq"
     },
     {
       "added_at": "2026-04-23 21:32:47",
@@ -1835,22 +1835,6 @@
     {
       "added_at": "2026-04-23 21:32:47",
       "album": {
-        "name": "Shakerando",
-        "url": "https://open.spotify.com/album/4ZF92wezwJWluQn4CQcXLJ"
-      },
-      "artists": [
-        {
-          "name": "Rhove",
-          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
-        }
-      ],
-      "duration_ms": 195555,
-      "name": "Shakerando",
-      "url": "https://open.spotify.com/track/4EC028SvtlC25iHQSG2OIa"
-    },
-    {
-      "added_at": "2026-04-23 21:32:47",
-      "album": {
         "name": "Raptus 3",
         "url": "https://open.spotify.com/album/04gdaRtg56whGgaaPnUsr4"
       },
@@ -1867,6 +1851,22 @@
       "duration_ms": 166133,
       "name": "Gli occhi della tigre",
       "url": "https://open.spotify.com/track/5pL8J6weoydzXglhsoJ6Vw"
+    },
+    {
+      "added_at": "2026-04-23 21:32:47",
+      "album": {
+        "name": "Shakerando",
+        "url": "https://open.spotify.com/album/4ZF92wezwJWluQn4CQcXLJ"
+      },
+      "artists": [
+        {
+          "name": "Rhove",
+          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
+        }
+      ],
+      "duration_ms": 195555,
+      "name": "Shakerando",
+      "url": "https://open.spotify.com/track/4EC028SvtlC25iHQSG2OIa"
     },
     {
       "added_at": "2026-04-23 21:32:47",

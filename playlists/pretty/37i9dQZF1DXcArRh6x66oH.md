@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcArRh6x66oH.md) - [plain]
 
 > roots run deep with Sam Barber
 
-[Spotify](https://open.spotify.com/user/spotify) - 475,737 likes - 205 songs - 12 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 475,755 likes - 205 songs - 12 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

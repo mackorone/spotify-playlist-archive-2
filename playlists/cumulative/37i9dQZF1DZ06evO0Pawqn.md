@@ -4,7 +4,7 @@
 
 > This is Los Tiranos Del Norte\. The essential tracks, all in one playlist.
 
-111 songs - 5 hr 49 min
+112 songs - 5 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,13 +25,14 @@
 | [Como Estas Tú](https://open.spotify.com/track/0Bl6AJ3Ub5tXB0MyaJmwbK) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Fiesta de Cumbias Norteñas](https://open.spotify.com/album/7wvtD2pITOn1yjvtBWdoAX) | 2:49 | 2024-02-23 | 2024-04-10 |
 | [Corazon de Vecindad](https://open.spotify.com/track/56tdpVNcEEwCTIvaZRlRk9) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Tesoros de Coleccion, Vol\. 1](https://open.spotify.com/album/43YQOZfMDgWtqa2LZ7R7eR) | 3:07 | 2022-06-01 | 2024-09-15 |
 | [Corazon de Vecindad](https://open.spotify.com/track/5Pfz4iOYQZc0ZOrkF5qX0W) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Hermosa Tirana](https://open.spotify.com/album/6L69NftVVtlSbBjaegb0Jn) | 3:09 | 2026-03-05 | 2026-03-27 |
+| [Cowboy Cumbia](https://open.spotify.com/track/4knyMDjTQUKnaaL3TYGpv0) | [Nicky Rosse](https://open.spotify.com/artist/3scQP4cD9pEVskg0go34wc), [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Cowboy Cumbia](https://open.spotify.com/album/27rMvVGAMfCNiBFfmQOrpO) | 4:08 | 2026-11-13 |  |
 | [Crei](https://open.spotify.com/track/0gtWrIyzYgRIGjMBBMBEBz) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Entrega Total](https://open.spotify.com/album/1ynIsTxuLWB8gcIIOEV4pN) | 3:22 | 2022-06-01 |  |
 | [Creí \- Mariachi](https://open.spotify.com/track/4m0RdfKa9DcrhjdRJ00Iaz) | [Mariachi Monumental de America de Juan Jose Almaguer](https://open.spotify.com/artist/7nXvS0SJ0VDjfFF1T7Uqqw), [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Creí \(Mariachi\)](https://open.spotify.com/album/3UoiTiRgEpwKYAjVkVrxM5) | 3:20 | 2022-06-01 | 2022-10-13 |
 | [Cuando Sola Estes](https://open.spotify.com/track/67ZW7fVVWWhN2D9SQxOTxv) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Hermosa Tirana](https://open.spotify.com/album/6L69NftVVtlSbBjaegb0Jn) | 3:07 | 2022-06-01 |  |
 | [De Cantina En Cantina](https://open.spotify.com/track/3roxfXpMk4yQqwoJFMDWCG) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Por Siempre](https://open.spotify.com/album/6DrYJjF6s1khX4qntiY3ns) | 3:09 | 2026-01-24 |  |
 | [De Corazon Ranchero](https://open.spotify.com/track/4nARb8o7ElcHDrAoeVj6K8) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Mis 30 Mejores Canciones](https://open.spotify.com/album/5sZ8JHwkEV2s0Dbv0ylSmZ) | 3:03 | 2022-06-02 | 2026-01-24 |
 | [De la Noche a la Manana](https://open.spotify.com/track/1LJXRLqDnYYqjctGuuJfak) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Hermosa Tirana](https://open.spotify.com/album/6L69NftVVtlSbBjaegb0Jn) | 3:43 | 2024-06-25 | 2024-06-28 |
-| [De La Tierra Al Cielo](https://open.spotify.com/track/1pVu9Epwe1gdQ4aeHcW5QO) | [Grupo Libra](https://open.spotify.com/artist/7A0dBf6Uyh5G1rW7Rh84Dt), [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [De La Tierra Al Cielo](https://open.spotify.com/album/26ituv9NGfhhNkAU68BnHd) | 2:37 | 2022-07-03 |  |
+| [De La Tierra Al Cielo](https://open.spotify.com/track/1pVu9Epwe1gdQ4aeHcW5QO) | [Grupo Libra](https://open.spotify.com/artist/7A0dBf6Uyh5G1rW7Rh84Dt), [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [De La Tierra Al Cielo](https://open.spotify.com/album/26ituv9NGfhhNkAU68BnHd) | 2:37 | 2022-07-03 | 2026-11-13 |
 | [De la Tierra al Cielo](https://open.spotify.com/track/1z45rHA0VeDLRrvxtG5ORF) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [De la Tierra al Cielo VII](https://open.spotify.com/album/3gEDDLBunavFzx7qenQPuh) | 2:37 | 2022-06-01 |  |
 | [De Su Vida Me Ire](https://open.spotify.com/track/0f8rDxZO2XwFI3bQ1iV1Df) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [30 Exitos](https://open.spotify.com/album/5z9l5t8x9UDOWOMKWSBXz9) | 2:55 | 2022-06-01 | 2024-01-13 |
 | [De Su Vida Me Ire](https://open.spotify.com/track/5CSN3xcAG1e8jpPKDaoj4w) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Hermosa Tirana](https://open.spotify.com/album/6L69NftVVtlSbBjaegb0Jn) | 2:57 | 2024-01-12 |  |

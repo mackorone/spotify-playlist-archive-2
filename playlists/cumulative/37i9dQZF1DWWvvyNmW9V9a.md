@@ -4,7 +4,7 @@
 
 > merry christmas everyone
 
-2,913 songs - 6 day 7 hr 37 min
+2,914 songs - 6 day 7 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -418,7 +418,7 @@
 | [by my heart](https://open.spotify.com/track/3hKa9zREMdjXBPaCi0JCpl) | [Meg Donnelly](https://open.spotify.com/artist/0jcl46xRBm9LKIwrKGQPE6) | [by my heart](https://open.spotify.com/album/2tRDeP6tzmB4DDFdqxRNOE) | 2:41 | 2024-10-11 | 2024-10-26 |
 | [Bye Bye Bye \- From Deadpool and Wolverine Soundtrack](https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [No Strings Attached](https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC) | 3:20 | 2024-08-06 | 2024-10-12 |
 | [C'est La Vie \(with bbno$ & Rich Brian\)](https://open.spotify.com/track/0cgy8EueqwMuYzOZrW5vPB) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ), [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [C'est La Vie](https://open.spotify.com/album/4cR3Cgc4klmCeDgFkA3nz7) | 2:40 | 2022-09-23 | 2022-10-29 |
-| [CABBY](https://open.spotify.com/track/22XqO0FrbFk2qJNlvCYU22) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Emma Ogier](https://open.spotify.com/artist/7lVBH2nQlHcpcU4RiY7izm), [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [HOW TO QUIT SMOKING](https://open.spotify.com/album/4JxUxYheA8Xs2dvEZTWsyg) | 3:11 | 2026-10-30 |  |
+| [CABBY](https://open.spotify.com/track/22XqO0FrbFk2qJNlvCYU22) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Emma Ogier](https://open.spotify.com/artist/7lVBH2nQlHcpcU4RiY7izm), [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [HOW TO QUIT SMOKING](https://open.spotify.com/album/4JxUxYheA8Xs2dvEZTWsyg) | 3:11 | 2026-10-30 | 2026-11-13 |
 | [Cadillac Song](https://open.spotify.com/track/2zTMXQaRhL8Kx7Uxr0Mdf9) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [My Everything \- Tenth Anniversary Edition](https://open.spotify.com/album/2uMTmPEFafKfKeobvdx5EE) | 2:52 | 2024-08-22 | 2024-10-12 |
 | [Call It What You Want](https://open.spotify.com/track/1GwMQaZz6Au3QLDbjbMdme) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [reputation](https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv) | 3:23 | 2023-04-26 | 2023-05-27 |
 | [Call Me a Quitter](https://open.spotify.com/track/5l51zmTjvBBCMB1oPtW800) | [New Hope Club](https://open.spotify.com/artist/2WuKU0SYZOQyY3MmE4vtez) | [Call Me a Quitter](https://open.spotify.com/album/59rkqeyDsxLl9GJ3eVxDPj) | 2:24 | 2022-08-19 | 2022-09-03 |
@@ -803,6 +803,7 @@
 | [Everyone’s A Star!](https://open.spotify.com/track/0pcU4T0Gz8XUobyjdoWb6f) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [EVERYONE'S A STAR!](https://open.spotify.com/album/0bXFiluFJjk70GKu0Q7HUa) | 3:15 | 2025-11-14 | 2026-02-07 |
 | [everything everywhere always](https://open.spotify.com/track/1sd2HaV5RYWN8ly7htaElN) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [everything everywhere always](https://open.spotify.com/album/73HKMtn4WRIvvm1m2QEAdf) | 2:27 | 2023-12-22 | 2024-01-13 |
 | [EVERYTHING HALLELUJAH](https://open.spotify.com/track/3fP2e200UqmrZaE9xhDwJ5) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/3l26FLLhl6vxHnkCRf5EOl) | 4:08 | 2026-04-29 | 2026-07-04 |
+| [Everything On Fire](https://open.spotify.com/track/0UQqqjAgaF55dma8PxwMXp) | [Maia Toakley](https://open.spotify.com/artist/1B1J5gTh5qjRAykIQMX8Ka) | [Everything On Fire](https://open.spotify.com/album/3X4JQKQqriikASbUet3yBN) | 3:48 | 2026-11-12 |  |
 | [everything sucks](https://open.spotify.com/track/3z06k8YF9CqX0CGFrlekOK) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB) | [everything sucks](https://open.spotify.com/album/0VtWoMZIJp2kyJcbzBJxLO) | 1:55 | 2021-07-09 | 2022-02-19 |
 | [EVERYTIME](https://open.spotify.com/track/6H1tgszM6u4Q62qpqZyhop) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [EVERYTIME](https://open.spotify.com/album/0vRHjWxollDMNFKeJqHiAa) | 2:35 | 2024-11-15 | 2025-02-08 |
 | [EVIL](https://open.spotify.com/track/6UW10CbMTvqciT3X3Ldeox) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [PORTALS](https://open.spotify.com/album/4kI7ZZF6CgDGFTjZNFwXYG) | 4:06 | 2023-03-31 | 2023-08-19 |

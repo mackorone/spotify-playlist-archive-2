@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQX7bVSkxBy.md) - [plain]
 
 > Raise a voice and testify the goodness of God\.  Cover: Malcolm Rue
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,901 likes - 50 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,924 likes - 50 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQX7bVSkxBy.md) - [plain]
 | 42 | [E Dey Flow](https://open.spotify.com/track/7BvQTLZXj9XDG9BZnGLZtO) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Neeja](https://open.spotify.com/artist/2Q6hH4KzIrMYrpP601GUJi), [SpotLite Nation](https://open.spotify.com/artist/2UhKWXKdeg54DFRMVK3wqS), [Ajay Asika](https://open.spotify.com/artist/6JTtYSXFQweCccnZnRkVs1), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu), [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T), [Chizie](https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE) | [E Dey Flow](https://open.spotify.com/album/4qt2lEkiK39cy0nnbfJMLW) | 2:36 |
 | 43 | [Made A Way](https://open.spotify.com/track/7gricPHxqsVEq1Lml7BFVu) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [The Hill](https://open.spotify.com/album/2RJxSCEQJGBeJHej3IM2cV) | 9:51 |
 | 44 | [Dansaki](https://open.spotify.com/track/7pW8qktBmU1SLIDeiVb8PP) | [Lara George](https://open.spotify.com/artist/6BMYlvYYyC0VxN6vV9y9KZ) | [Higher](https://open.spotify.com/album/3PJUJDl7tSaxspgWXEawfN) | 5:24 |
-| 45 | [He Is Enough](https://open.spotify.com/track/4qEjiYIeD60K7dXcFYYkLS) | [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [He Is Enough](https://open.spotify.com/album/3wh80jvwtIwEpPeXb0hgE8) | 2:07 |
-| 46 | [I Believe It \(The Life of Jesus\)](https://open.spotify.com/track/2iym3PPUfaR5285b8iLfbq) | [Jon Reddick](https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2) | [I Believe It \(The Life of Jesus\)](https://open.spotify.com/album/1kn3HEmaNTYMt4ZGUa23sj) | 3:45 |
+| 45 | [I Believe It \(The Life of Jesus\)](https://open.spotify.com/track/2iym3PPUfaR5285b8iLfbq) | [Jon Reddick](https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2) | [I Believe It \(The Life of Jesus\)](https://open.spotify.com/album/1kn3HEmaNTYMt4ZGUa23sj) | 3:45 |
+| 46 | [He Is Enough](https://open.spotify.com/track/4qEjiYIeD60K7dXcFYYkLS) | [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [He Is Enough](https://open.spotify.com/album/3wh80jvwtIwEpPeXb0hgE8) | 2:07 |
 | 47 | [Nikumbuke](https://open.spotify.com/track/1KfQkotQJ73JT93plHOxTh) | [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Nikumbuke](https://open.spotify.com/album/0yOxz1GgBgXb71mIbyTTsF) | 4:05 |
 | 48 | [Dependable God \(Medley\)](https://open.spotify.com/track/0nFJXe8v5S5J6Jihb33RkN) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Dependable God \(Medley\)](https://open.spotify.com/album/7CzRW6l3bcarSQ8w1wAoKj) | 3:52 |
 | 49 | [Wonder](https://open.spotify.com/track/6lDtOEonI6yUjuyYp6g7X4) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU), [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Wonder](https://open.spotify.com/album/34npUpzknuO6gTYXzhPgJW) | 15:43 |
 | 50 | [I have escaped](https://open.spotify.com/track/7JlAAEib1TABwxSEGU1c4K) | [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI) | [I have escaped \(Main Version\)](https://open.spotify.com/album/2p4SUaDgsEcPFE08Ju0yg0) | 3:20 |
 
-Snapshot ID: `AAAAACxIbCo5FlbYQjSg8sWze78dVI03`
+Snapshot ID: `AAAAAFZso1esE0OYAfMxDq8W4+bf8mPo`

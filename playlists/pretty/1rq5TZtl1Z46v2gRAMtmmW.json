@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 32057,
+  "num_followers": 32059,
   "original_name": "Ninja Tune // New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "AAASVU71xNdIlzjjtzTX/APK9k7ne6iZ",
+  "snapshot_id": "AAASa+i+o2S2WffiFSgMi17WPmxmUta1",
   "tracks": [
     {
       "added_at": "2026-10-20 19:13:48",
@@ -33,6 +33,22 @@
       "url": "https://open.spotify.com/track/2XlS3xEvc3YOQi4SSBVU1K"
     },
     {
+      "added_at": "2026-11-12 16:09:37",
+      "album": {
+        "name": "Memory Signal / Vakata",
+        "url": "https://open.spotify.com/album/5IMzfD9uFN6RUOIhnYzS4h"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "duration_ms": 285825,
+      "name": "Memory Signal",
+      "url": "https://open.spotify.com/track/4M6Yq5V4EFhqq12KDpRqAX"
+    },
+    {
       "added_at": "2026-10-19 16:01:59",
       "album": {
         "name": "RED 99",
@@ -49,10 +65,10 @@
       "url": "https://open.spotify.com/track/0bv1EMaAufHkN6EBBlbk8G"
     },
     {
-      "added_at": "2026-09-11 11:31:51",
+      "added_at": "2026-11-12 16:09:47",
       "album": {
-        "name": "Distance in Static",
-        "url": "https://open.spotify.com/album/2FMGW8WrG0BE0ZimHbHw2M"
+        "name": "Memory Signal / Vakata",
+        "url": "https://open.spotify.com/album/5IMzfD9uFN6RUOIhnYzS4h"
       },
       "artists": [
         {
@@ -60,9 +76,9 @@
           "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
         }
       ],
-      "duration_ms": 261517,
-      "name": "Uncasually",
-      "url": "https://open.spotify.com/track/23XvXxNvhca5O77qJoVmew"
+      "duration_ms": 271888,
+      "name": "Vakata",
+      "url": "https://open.spotify.com/track/7mNRfOVCMIY3m3NH8YROi6"
     },
     {
       "added_at": "2026-04-03 20:05:06",
@@ -123,6 +139,22 @@
       "duration_ms": 271378,
       "name": "Ultra",
       "url": "https://open.spotify.com/track/1OGSuaHoXuG38NI37n6dli"
+    },
+    {
+      "added_at": "2026-09-11 11:31:51",
+      "album": {
+        "name": "Distance in Static",
+        "url": "https://open.spotify.com/album/2FMGW8WrG0BE0ZimHbHw2M"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "duration_ms": 261517,
+      "name": "Uncasually",
+      "url": "https://open.spotify.com/track/23XvXxNvhca5O77qJoVmew"
     },
     {
       "added_at": "2026-09-04 11:35:16",
@@ -385,26 +417,6 @@
       "url": "https://open.spotify.com/track/5mtlKEDbzO1a4Nz8q7odng"
     },
     {
-      "added_at": "2026-08-03 17:37:02",
-      "album": {
-        "name": "Always on Your Side",
-        "url": "https://open.spotify.com/album/04qmxEtttzyhoSzWWe5Kb0"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        },
-        {
-          "name": "Joy Crookes",
-          "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
-        }
-      ],
-      "duration_ms": 208680,
-      "name": "Always on Your Side",
-      "url": "https://open.spotify.com/track/6jJTpzMquQLVuUkM2vVEIF"
-    },
-    {
       "added_at": "2026-09-23 15:12:59",
       "album": {
         "name": "LongTime",
@@ -471,22 +483,6 @@
       "duration_ms": 340789,
       "name": "Withending",
       "url": "https://open.spotify.com/track/6WrqLxFkIlHcBT8DmnYmRL"
-    },
-    {
-      "added_at": "2026-06-10 17:55:44",
-      "album": {
-        "name": "Me and You",
-        "url": "https://open.spotify.com/album/0WzQlsyq2abojuavi9W9kD"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        }
-      ],
-      "duration_ms": 229475,
-      "name": "Me and You",
-      "url": "https://open.spotify.com/track/3K3yAN6QVsLNM3tNkn8zuo"
     },
     {
       "added_at": "2026-08-18 12:59:41",
@@ -587,42 +583,6 @@
       "duration_ms": 219971,
       "name": "Is It Over Now?",
       "url": "https://open.spotify.com/track/7a1HZI7drZ3Rn0EYGAnrgC"
-    },
-    {
-      "added_at": "2026-08-13 14:21:15",
-      "album": {
-        "name": "Grilled Lobster",
-        "url": "https://open.spotify.com/album/1dyX9GA2E1molGiYdQs8uW"
-      },
-      "artists": [
-        {
-          "name": "dublon",
-          "url": "https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD"
-        }
-      ],
-      "duration_ms": 112192,
-      "name": "Grilled Lobster",
-      "url": "https://open.spotify.com/track/6JWc3cBOFjN2RZk9Rb8qFl"
-    },
-    {
-      "added_at": "2026-08-24 16:57:39",
-      "album": {
-        "name": "Talk to Me",
-        "url": "https://open.spotify.com/album/3BgijQ4jQnoz6GR8gbxlNg"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        },
-        {
-          "name": "Nicole Miglis",
-          "url": "https://open.spotify.com/artist/1mmKns9q559kAZeHbKeAu2"
-        }
-      ],
-      "duration_ms": 222768,
-      "name": "Talk to Me",
-      "url": "https://open.spotify.com/track/1AS9YdkPrxVhSYd0RpommY"
     },
     {
       "added_at": "2026-09-25 11:32:39",
@@ -793,22 +753,6 @@
       "url": "https://open.spotify.com/track/7c5JxJWGMJqG0IYABA04WS"
     },
     {
-      "added_at": "2026-07-07 13:14:58",
-      "album": {
-        "name": "Fire on the Water / Drift",
-        "url": "https://open.spotify.com/album/0RpYhaCXxa6vICkfzkEq7t"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        }
-      ],
-      "duration_ms": 270324,
-      "name": "Drift",
-      "url": "https://open.spotify.com/track/3v6NLDBeSPq8RT1QPB3tZo"
-    },
-    {
       "added_at": "2026-06-05 13:33:43",
       "album": {
         "name": "Ayewah!",
@@ -843,22 +787,6 @@
       "duration_ms": 171613,
       "name": "if you wanna party, come over to my house",
       "url": "https://open.spotify.com/track/5rBBVYaOqtFS1Dx6MVpr5O"
-    },
-    {
-      "added_at": "2026-09-03 11:50:56",
-      "album": {
-        "name": "Ascension",
-        "url": "https://open.spotify.com/album/3AYSirSqqcHL8cSeFKr6dY"
-      },
-      "artists": [
-        {
-          "name": "Sam Alfred",
-          "url": "https://open.spotify.com/artist/4PVzoVUDxey3mxGdkf4HgR"
-        }
-      ],
-      "duration_ms": 229656,
-      "name": "Ascension",
-      "url": "https://open.spotify.com/track/3Sz8u6tlAiSXBsDbWfKVKt"
     },
     {
       "added_at": "2026-07-22 14:26:18",
@@ -969,26 +897,6 @@
       "url": "https://open.spotify.com/track/29fZXIGMJHLlCnFZTRLj0o"
     },
     {
-      "added_at": "2026-07-17 09:44:50",
-      "album": {
-        "name": "Right Thing",
-        "url": "https://open.spotify.com/album/7H5iillfusVO8njfh7xBRH"
-      },
-      "artists": [
-        {
-          "name": "MALUGI",
-          "url": "https://open.spotify.com/artist/50udUOTR7dQUgyPwPuCLM6"
-        },
-        {
-          "name": "Paige Cavell",
-          "url": "https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "Right Thing",
-      "url": "https://open.spotify.com/track/3iClibIjy24oX2tOGuBHYl"
-    },
-    {
       "added_at": "2026-04-17 13:23:52",
       "album": {
         "name": "1983",
@@ -1003,46 +911,6 @@
       "duration_ms": 128293,
       "name": "S\u00e3o Paulo",
       "url": "https://open.spotify.com/track/0rq02HJcHdHnya1SjRqAec"
-    },
-    {
-      "added_at": "2026-04-16 13:59:35",
-      "album": {
-        "name": "Weaver",
-        "url": "https://open.spotify.com/album/067ufogz1TAr7npEfLq2mz"
-      },
-      "artists": [
-        {
-          "name": "Nohr",
-          "url": "https://open.spotify.com/artist/5ksOqe4QEaUjadayPHNX82"
-        },
-        {
-          "name": "Afnan Prince",
-          "url": "https://open.spotify.com/artist/0T3J2fxgciLGud2pwqHixZ"
-        }
-      ],
-      "duration_ms": 192625,
-      "name": "Weaver",
-      "url": "https://open.spotify.com/track/5CMlbzwepoJp88Uvqp1WTF"
-    },
-    {
-      "added_at": "2025-09-08 16:26:08",
-      "album": {
-        "name": "Better",
-        "url": "https://open.spotify.com/album/5yHLIte1CKJLMMjOrexXqX"
-      },
-      "artists": [
-        {
-          "name": "nimino",
-          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
-        },
-        {
-          "name": "Manta",
-          "url": "https://open.spotify.com/artist/6AGlSGZh0z7CwUXEnFYXyJ"
-        }
-      ],
-      "duration_ms": 238320,
-      "name": "Better",
-      "url": "https://open.spotify.com/track/6oUgmZK0McW4706SLJlfDh"
     },
     {
       "added_at": "2026-03-10 21:10:21",
@@ -1133,58 +1001,6 @@
       "url": "https://open.spotify.com/track/2xqI4s8TsrOhhGoWZYoDS2"
     },
     {
-      "added_at": "2026-03-03 15:02:02",
-      "album": {
-        "name": "Orla",
-        "url": "https://open.spotify.com/album/7wdlY46kyc6xqANNpog05O"
-      },
-      "artists": [
-        {
-          "name": "nimino",
-          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
-        }
-      ],
-      "duration_ms": 205190,
-      "name": "Orla",
-      "url": "https://open.spotify.com/track/0VFmkwR6SCmT7TIJThlCn9"
-    },
-    {
-      "added_at": "2025-10-20 16:05:21",
-      "album": {
-        "name": "CHROMA 012 TANGZ II",
-        "url": "https://open.spotify.com/album/63NzSW7kCDtPjes17viCxU"
-      },
-      "artists": [
-        {
-          "name": "BICEP",
-          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
-        },
-        {
-          "name": "ELIZA",
-          "url": "https://open.spotify.com/artist/0PgYKqH7ohfAm9LFgWjpl8"
-        }
-      ],
-      "duration_ms": 282003,
-      "name": "CHROMA 012 TANGZ II",
-      "url": "https://open.spotify.com/track/03Y8fcQB5esucnR1CiG1Vh"
-    },
-    {
-      "added_at": "2025-11-18 16:09:35",
-      "album": {
-        "name": "Rest Easy",
-        "url": "https://open.spotify.com/album/3AKzDK0hhKvBpIpKEZxT38"
-      },
-      "artists": [
-        {
-          "name": "nimino",
-          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
-        }
-      ],
-      "duration_ms": 167400,
-      "name": "Rest Easy",
-      "url": "https://open.spotify.com/track/5J5mQKqZVxMDKZ3xPKgABa"
-    },
-    {
       "added_at": "2026-03-25 15:36:48",
       "album": {
         "name": "Jadoo",
@@ -1255,26 +1071,6 @@
       "duration_ms": 189386,
       "name": "Sender Receiver",
       "url": "https://open.spotify.com/track/7zZGLUnTyGPKPAod5hSF1U"
-    },
-    {
-      "added_at": "2025-11-12 11:52:09",
-      "album": {
-        "name": "Too Slow (All Night)",
-        "url": "https://open.spotify.com/album/35IN0y8EZRBW3qVEkvr8bx"
-      },
-      "artists": [
-        {
-          "name": "Eliza Rose",
-          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
-        },
-        {
-          "name": "Oppidan",
-          "url": "https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK"
-        }
-      ],
-      "duration_ms": 171444,
-      "name": "Too Slow (All Night)",
-      "url": "https://open.spotify.com/track/4ywDQlrX9XdJB19bvl3cvU"
     },
     {
       "added_at": "2025-09-09 15:45:10",
@@ -1537,22 +1333,6 @@
       "url": "https://open.spotify.com/track/10WZEaaJ2MsKMgPJpxgaRO"
     },
     {
-      "added_at": "2026-07-01 15:33:14",
-      "album": {
-        "name": "Do You Mind",
-        "url": "https://open.spotify.com/album/1xpJNh2AczS0XSKaf01uyJ"
-      },
-      "artists": [
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        }
-      ],
-      "duration_ms": 187500,
-      "name": "Do You Mind",
-      "url": "https://open.spotify.com/track/7wP2y4niJpt6ddP7dYULMC"
-    },
-    {
       "added_at": "2026-07-08 14:52:22",
       "album": {
         "name": "Denisse",
@@ -1801,22 +1581,6 @@
       "url": "https://open.spotify.com/track/1otspdwkfhfBa0pvpllWHR"
     },
     {
-      "added_at": "2026-09-09 15:20:24",
-      "album": {
-        "name": "1234",
-        "url": "https://open.spotify.com/album/3UMR7iTk8vVOdhV0v0NbMP"
-      },
-      "artists": [
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        }
-      ],
-      "duration_ms": 189783,
-      "name": "1234",
-      "url": "https://open.spotify.com/track/3fkbzqiBiZmv09fKfzQjEF"
-    },
-    {
       "added_at": "2026-09-10 14:39:33",
       "album": {
         "name": "BPM",
@@ -1895,34 +1659,6 @@
       "duration_ms": 222292,
       "name": "Noise Keeper",
       "url": "https://open.spotify.com/track/6zdKacNxfO8UcYE02a2TcP"
-    },
-    {
-      "added_at": "2026-09-24 13:51:44",
-      "album": {
-        "name": "Dekki",
-        "url": "https://open.spotify.com/album/3v3oKw1oLWonpsJ3obeaDT"
-      },
-      "artists": [
-        {
-          "name": "Narasimha",
-          "url": "https://open.spotify.com/artist/2wzbr5OelMdawn7HrZRefV"
-        },
-        {
-          "name": "Maryama Cham",
-          "url": "https://open.spotify.com/artist/1IgQXOB6xo098UpJplr6Lk"
-        },
-        {
-          "name": "Barhama",
-          "url": "https://open.spotify.com/artist/0jTXrnQV2eR82q1EBCUwVJ"
-        },
-        {
-          "name": "Magatte Fall",
-          "url": "https://open.spotify.com/artist/2TeuVsoJ6KllKdijMrqMm0"
-        }
-      ],
-      "duration_ms": 268080,
-      "name": "Dekki",
-      "url": "https://open.spotify.com/track/7Egzpr24Fz9yiiwv6JOL7U"
     },
     {
       "added_at": "2026-10-01 14:24:24",
@@ -2015,22 +1751,6 @@
       "duration_ms": 171438,
       "name": "WYWD",
       "url": "https://open.spotify.com/track/7zZWMR7611shuYcV6W96ou"
-    },
-    {
-      "added_at": "2026-10-19 09:28:54",
-      "album": {
-        "name": "The Devil's Tax Return: Volume 1",
-        "url": "https://open.spotify.com/album/3rgOMpJ4GTgsHY1tyuof2r"
-      },
-      "artists": [
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        }
-      ],
-      "duration_ms": 193082,
-      "name": "When You Were Young",
-      "url": "https://open.spotify.com/track/6PDlFzxxVnvxsqJ33cxp2M"
     },
     {
       "added_at": "2026-11-06 20:01:25",

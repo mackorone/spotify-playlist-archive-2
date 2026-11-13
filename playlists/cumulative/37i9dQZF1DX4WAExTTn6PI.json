@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-09",
-  "description": "Rising voices, enduring roots. Cover: Renee Christine",
+  "description": "Rising voices, enduring roots. Cover: Schaefer Llana",
   "name": "Emerging Americana",
   "tracks": [
     {
@@ -1206,7 +1206,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 178733,
       "name": "Chance at Wholesome",
       "url": "https://open.spotify.com/track/6cKVRmzI0F6YSLAREExr1u"
@@ -1699,6 +1699,24 @@
     },
     {
       "album": {
+        "name": "Doomsday Prepper",
+        "url": "https://open.spotify.com/album/0R3LvaePfWihIlBj1IAnMk"
+      },
+      "artists": [
+        {
+          "name": "Melanie MacLaren",
+          "url": "https://open.spotify.com/artist/2R1li8gWj9IYRHBAHzylbF"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198148,
+      "name": "Doomsday Prepper",
+      "url": "https://open.spotify.com/track/40kFAnGpQVL9XydrbXS6Jm"
+    },
+    {
+      "album": {
         "name": "Dream Song",
         "url": "https://open.spotify.com/album/7hB4iSq2vdaVMJ5esXxe6t"
       },
@@ -1938,6 +1956,24 @@
       "duration_ms": 254869,
       "name": "Everything Under The Sun",
       "url": "https://open.spotify.com/track/5g19VWVVMCk9pc5Y0SOSGK"
+    },
+    {
+      "album": {
+        "name": "Faded",
+        "url": "https://open.spotify.com/album/0kd1aI2GVerPdNcpqQ9KYs"
+      },
+      "artists": [
+        {
+          "name": "Olivia Wolf",
+          "url": "https://open.spotify.com/artist/4nCfP4yZhkF1g7g8MlzCM7"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195173,
+      "name": "Faded",
+      "url": "https://open.spotify.com/track/4Aob5BE14pfmx4irohXsCK"
     },
     {
       "album": {
@@ -4352,7 +4388,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 217953,
       "name": "Light You Up",
       "url": "https://open.spotify.com/track/0Qt9kAwwqqJy1rRCGmAy9U"
@@ -4962,7 +4998,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 250000,
       "name": "McMemories",
       "url": "https://open.spotify.com/track/3yNCRphB2phZiXJiGseBF0"
@@ -5114,6 +5150,24 @@
       "duration_ms": 182140,
       "name": "Millionaire Money",
       "url": "https://open.spotify.com/track/11Xej6CravthiyPLMqTvKe"
+    },
+    {
+      "album": {
+        "name": "Full Circle",
+        "url": "https://open.spotify.com/album/3ASgyeTqBANmesuXmrpfgj"
+      },
+      "artists": [
+        {
+          "name": "Schaefer Llana",
+          "url": "https://open.spotify.com/artist/2p4lD1A4m58EkqOjvcHRsq"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300817,
+      "name": "Mindless Feeling",
+      "url": "https://open.spotify.com/track/4iVWFyMYVNZVQwTeDM4ViF"
     },
     {
       "album": {
@@ -6192,7 +6246,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 183776,
       "name": "Reasons",
       "url": "https://open.spotify.com/track/6qp7oXl2E2DDwDMJPhb1xX"
@@ -6732,7 +6786,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 206460,
       "name": "Silver Promise",
       "url": "https://open.spotify.com/track/1W38NU5gapVcdoYN4JIBzf"
@@ -7374,6 +7428,24 @@
       "duration_ms": 189329,
       "name": "Sweet Misery",
       "url": "https://open.spotify.com/track/7bg9GsxzCq4pj0wjmCz4Ke"
+    },
+    {
+      "album": {
+        "name": "Alas Time Has Passed",
+        "url": "https://open.spotify.com/album/1OMYfkr6hkkGjAltOPGVdS"
+      },
+      "artists": [
+        {
+          "name": "Fine Food Market",
+          "url": "https://open.spotify.com/artist/5yLNDnaFmGzAQBjnWzdDET"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274276,
+      "name": "Take It as It Is",
+      "url": "https://open.spotify.com/track/6HMZYukwvBnjjt6OtzLTtF"
     },
     {
       "album": {
@@ -8046,6 +8118,24 @@
       "duration_ms": 217786,
       "name": "Too Much",
       "url": "https://open.spotify.com/track/3gKAMlneLCgY1UJN4L8OcO"
+    },
+    {
+      "album": {
+        "name": "Too Old To Learn",
+        "url": "https://open.spotify.com/album/6RW69ncPv7POLBOyFnAHNe"
+      },
+      "artists": [
+        {
+          "name": "Jess Woodland",
+          "url": "https://open.spotify.com/artist/20IXA7HkfD8CccYusWwEsq"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172992,
+      "name": "Too Old To Learn",
+      "url": "https://open.spotify.com/track/4cgrxJXqw5VcwvK3vF6Zk3"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXT3RJ6KlMl.md) - [plain]
 
 > Beste Nederlandstalige songs uit de 70's! Cover: Rob de Nijs
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,655 likes - 60 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,664 likes - 60 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,18 +33,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXT3RJ6KlMl.md) - [plain]
 | 23 | [Teddybeer](https://open.spotify.com/track/2h3A48Ho17v0jlSo9MzpKY) | [Gerard De Vries](https://open.spotify.com/artist/0NkWtmKhwsCX7VoMu0DpGP) | [Teddybeer](https://open.spotify.com/album/67xn5qDdvyhwB4PBeLNbuo) | 4:18 |
 | 24 | [Zou Het Erg Zijn, Lieve Opa](https://open.spotify.com/track/0tA70v8mUkJfhSQrmyIjYJ) | [Wilma](https://open.spotify.com/artist/5qfQ89hvnImhLth6VTewEi), [Vader Abraham](https://open.spotify.com/artist/5OWsH2lF65ygWcLYWic6rq) | [Wilma](https://open.spotify.com/album/092vpDBtbC8iFyV5VVUSpq) | 4:02 |
 | 25 | [Willem](https://open.spotify.com/track/6VbIs6wZ0n3PK0BIAZT7j1) | [Willem Duyn](https://open.spotify.com/artist/0FBC3i2GQtzRe9jUodXf3c) | [Wat Maakt Dat Nou Uit](https://open.spotify.com/album/0bgzHWIWQAvfkU2FwK085R) | 3:34 |
-| 26 | [Carolientje](https://open.spotify.com/track/5sIxiugKMRHJzbfZiNGVWT) | [Willeke Alberti](https://open.spotify.com/artist/7monj8DXxygyUqgx7ncylV) | [Come Prima](https://open.spotify.com/album/0aU8iJZSpimikSJ0b1b0cr) | 3:10 |
-| 27 | [Ik ben Gerrit](https://open.spotify.com/track/0RsbkyqqrTmwolQIshPVjX) | [Gerrit Dekzeil](https://open.spotify.com/artist/7JCwsDBlp5mgNwDq8EyLa6) | [Waar moet dat heen? Hoe zal dat gaan?](https://open.spotify.com/album/59VFMA8m9YsjcCnTK9Zbxt) | 3:00 |
+| 26 | [Ik ben Gerrit](https://open.spotify.com/track/0RsbkyqqrTmwolQIshPVjX) | [Gerrit Dekzeil](https://open.spotify.com/artist/7JCwsDBlp5mgNwDq8EyLa6) | [Waar moet dat heen? Hoe zal dat gaan?](https://open.spotify.com/album/59VFMA8m9YsjcCnTK9Zbxt) | 3:00 |
+| 27 | [Carolientje](https://open.spotify.com/track/5sIxiugKMRHJzbfZiNGVWT) | [Willeke Alberti](https://open.spotify.com/artist/7monj8DXxygyUqgx7ncylV) | [Come Prima](https://open.spotify.com/album/0aU8iJZSpimikSJ0b1b0cr) | 3:10 |
 | 28 | [Ik Zie Een Ster](https://open.spotify.com/track/36ZnMUDoSrGUV8moDcilOF) | [Mouth & MacNeal](https://open.spotify.com/artist/51RYnAHfrE4xnMomva5kFq) | [Toen Was Geluk Heel Gewoon](https://open.spotify.com/album/74pP2D0hYoq6rGQhH0akW3) | 2:56 |
 | 29 | [De Tamme Boerenzoon](https://open.spotify.com/track/0QdHoKxsUspo3PRFB5jXLg) | [André van Duin](https://open.spotify.com/artist/1G2QbSM5dLTtqeZHYnxXsF) | [De Tamme Boerenzoon](https://open.spotify.com/album/2Fl945IbiGs1Ac6iBNV0mA) | 4:41 |
 | 30 | [Oh Darling](https://open.spotify.com/track/3lG95fkYa4vlzqDVP9nC7T) | [Theo Diepenbrock](https://open.spotify.com/artist/7INz03Eq6ZwllxktYTzdHO) | [Oh Darling](https://open.spotify.com/album/7oUIOYCWBKgEk27hFpCCWX) | 3:21 |
-| 31 | [Telkens Weer](https://open.spotify.com/track/2SaioB9g7yWhiDj4nsrtVs) | [Willeke Alberti](https://open.spotify.com/artist/7monj8DXxygyUqgx7ncylV) | [Het Mooiste Van Willeke Alberti](https://open.spotify.com/album/4oGOyj6OKbdClBPXjyePzl) | 3:12 |
-| 32 | [Een Kind Zonder Moeder](https://open.spotify.com/track/016RWPqXmXockjFHdYIr1w) | [Mieke](https://open.spotify.com/artist/5K6KrixF0d77DFUIJj3Dfj) | [Een Kind Zonder Moeder](https://open.spotify.com/album/47atzH4VqJTTY76kyKzKdh) | 3:11 |
+| 31 | [Een Kind Zonder Moeder](https://open.spotify.com/track/016RWPqXmXockjFHdYIr1w) | [Mieke](https://open.spotify.com/artist/5K6KrixF0d77DFUIJj3Dfj) | [Een Kind Zonder Moeder](https://open.spotify.com/album/47atzH4VqJTTY76kyKzKdh) | 3:11 |
+| 32 | [Telkens Weer](https://open.spotify.com/track/2SaioB9g7yWhiDj4nsrtVs) | [Willeke Alberti](https://open.spotify.com/artist/7monj8DXxygyUqgx7ncylV) | [Het Mooiste Van Willeke Alberti](https://open.spotify.com/album/4oGOyj6OKbdClBPXjyePzl) | 3:12 |
 | 33 | ['n Man mag niet huilen](https://open.spotify.com/track/5bw3NZK5IMQ5Em7u4wvefI) | [Jacques Herb](https://open.spotify.com/artist/3say7qPpfTJlo8bxcpHQkc) | [Hollandse Sterren](https://open.spotify.com/album/7Ht0WupDYtvD8eRkIZBwOH) | 3:53 |
 | 34 | [Meisjes Met Rode Haren](https://open.spotify.com/track/5NKXshbPQekjqoR2l3Q6JZ) | [Arne Jansen](https://open.spotify.com/artist/0JvAQH3pfJAvEL8cAd6TSe) | [Zijn Allergrootste Hits](https://open.spotify.com/album/6SlNC7rFjsx0BKszgslACL) | 5:35 |
 | 35 | [Blauwe Korenbloemen](https://open.spotify.com/track/5N8apD8l7pOOLdJKg6FJ13) | [Zusjes De Roo](https://open.spotify.com/artist/5zzTSqOoDI9d7JQFplIgNk) | [Blauwe Korenbloemen](https://open.spotify.com/album/0XEmzOcucnMpOtdyo8GIxS) | 3:09 |
-| 36 | [Morgen Ben Ik De Bruid](https://open.spotify.com/track/78cz0SmR2T67fHKdhGdtfx) | [Willeke Alberti](https://open.spotify.com/artist/7monj8DXxygyUqgx7ncylV) | [Die Goeie Ouwe Tijd Top 100](https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3) | 3:20 |
-| 37 | [Zomerzon](https://open.spotify.com/track/3TYZ9VnkrOZt1rcWiRd5uz) | [De Makkers](https://open.spotify.com/artist/6cS8yBmSD1NLa0kzAmLwnl) | [Zomerzon / Als Je Zorgen Hebt](https://open.spotify.com/album/7vKLxVV6e4uXMoCurAjKBM) | 3:42 |
+| 36 | [Zomerzon](https://open.spotify.com/track/3TYZ9VnkrOZt1rcWiRd5uz) | [De Makkers](https://open.spotify.com/artist/6cS8yBmSD1NLa0kzAmLwnl) | [Zomerzon / Als Je Zorgen Hebt](https://open.spotify.com/album/7vKLxVV6e4uXMoCurAjKBM) | 3:42 |
+| 37 | [Morgen Ben Ik De Bruid](https://open.spotify.com/track/78cz0SmR2T67fHKdhGdtfx) | [Willeke Alberti](https://open.spotify.com/artist/7monj8DXxygyUqgx7ncylV) | [Die Goeie Ouwe Tijd Top 100](https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3) | 3:20 |
 | 38 | [Angelique](https://open.spotify.com/track/78lbU2qP55R0rqqSebur4p) | [André van Duin](https://open.spotify.com/artist/1G2QbSM5dLTtqeZHYnxXsF) | [André van Duin](https://open.spotify.com/album/7xDv53IspICoxPuySv8OVh) | 2:14 |
 | 39 | [Kom Van Dat Dak Af](https://open.spotify.com/track/1q8BkBdleysfnUhxISo489) | [Peter Koelewijn](https://open.spotify.com/artist/3oavnC2N25caTse16Gj8HR) | [De Mooiste Liedjes, Vol.1](https://open.spotify.com/album/5oZZQ6gRnhBlBDrrvVDPQA) | 2:36 |
 | 40 | [Brandend Zand](https://open.spotify.com/track/31ZmFDuJqMAaH30JBetArW) | [Gert Timmerman](https://open.spotify.com/artist/0TtfbvSVlFBeYI3uEEWPlC), [Gert & Hermien](https://open.spotify.com/artist/40JZ4PcqTsMqvVWLi0OaOP) | [Brandend Zand](https://open.spotify.com/album/7H0qBQQweMzWTOnQ1YRFM7) | 3:23 |
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXT3RJ6KlMl.md) - [plain]
 | 57 | [Hé Kom Aan](https://open.spotify.com/track/2H7IJB05VJymLMBYJ6bE79) | [Dimitri Van Toren](https://open.spotify.com/artist/6o8d8XXO1VTWSVoEg0j5sb) | [Liedjes van Toen \- Grootste Hollandse Hits 1973\-1974](https://open.spotify.com/album/4sGNb7vx99j0cP2kDJEG2W) | 2:06 |
 | 58 | [Maar Wie Holt Van Mekaar](https://open.spotify.com/track/0cx4IjYw6Nz92bpZ4i6QJB) | [Gerard Hoeben](https://open.spotify.com/artist/6UFl7mSRtkStqDaKl5GV8E) | [Hollandse Hits Top 100](https://open.spotify.com/album/3olYePqSyCQeR2jvXwKhiD) | 2:46 |
 | 59 | [Malle Babbe](https://open.spotify.com/track/1VU0IOYvnK7392tq5rnHTn) | [Rob De Nijs](https://open.spotify.com/artist/3u84EkSPrJYO4n5cipED9K) | [Rob 100](https://open.spotify.com/album/314xNPZisq3G6ZLlBU938T) | 4:14 |
-| 60 | [Jij En Ik Blijven Bestaan](https://open.spotify.com/track/19gBRh5hqQhdZEIAGzy0Ix) | [Vader Abraham](https://open.spotify.com/artist/5OWsH2lF65ygWcLYWic6rq) | [Heerlijk Hollands \- Het Allerbeste van Vader Abraham](https://open.spotify.com/album/5L92v0PP8mQHc01RwsNhv6) | 4:40 |
+| 60 | [Veronica Sorry](https://open.spotify.com/track/21lMOKWDcK9VMse8rt4PPb) | [Peter Koelewijn](https://open.spotify.com/artist/3oavnC2N25caTse16Gj8HR) | [Het Beste Van Peter Koelewijn](https://open.spotify.com/album/5wJr8xACqUiUhBQafHkGB2) | 4:48 |
 
 Snapshot ID: `AAAAALk57uBWqvgW/aWLHRADT7P6DH1m`

@@ -1,6 +1,6 @@
 {
   "description": "Rock en vivo de la A a la Z, de ayer, de hoy y de siempre... Foto: Charly Garc\u00eda",
-  "num_followers": 127862,
+  "num_followers": 127868,
   "original_name": "Vivo de Rock",
   "owner": {
     "name": "Spotify",
@@ -831,6 +831,22 @@
     {
       "added_at": "2026-10-23 03:00:39",
       "album": {
+        "name": "Ac\u00fastico,Teatro Opera, Buenos Aires, Argentina.",
+        "url": "https://open.spotify.com/album/6j8Pylv9STVsYonxYxUoYE"
+      },
+      "artists": [
+        {
+          "name": "Attaque 77",
+          "url": "https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9"
+        }
+      ],
+      "duration_ms": 288560,
+      "name": "Espadas y Serpientes - Ac\u00fastico en Vivo",
+      "url": "https://open.spotify.com/track/26gc3gRiPBIpvvBP87sdxg"
+    },
+    {
+      "added_at": "2026-10-23 03:00:39",
+      "album": {
         "name": "Ac\u00fastico Gran Rex, Vol. 2",
         "url": "https://open.spotify.com/album/5FhGXJP1oaVkRnjoloyz4u"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 251651,
       "name": "De Nada Sirve - En Vivo En Argentina",
       "url": "https://open.spotify.com/track/4xGfcgTkXzHDqEmBh2rWHS"
-    },
-    {
-      "added_at": "2026-10-23 03:00:39",
-      "album": {
-        "name": "Ac\u00fastico,Teatro Opera, Buenos Aires, Argentina.",
-        "url": "https://open.spotify.com/album/6j8Pylv9STVsYonxYxUoYE"
-      },
-      "artists": [
-        {
-          "name": "Attaque 77",
-          "url": "https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9"
-        }
-      ],
-      "duration_ms": 288560,
-      "name": "Espadas y Serpientes - Ac\u00fastico en Vivo",
-      "url": "https://open.spotify.com/track/26gc3gRiPBIpvvBP87sdxg"
     },
     {
       "added_at": "2026-10-23 03:00:39",
@@ -935,6 +935,22 @@
     {
       "added_at": "2026-10-23 03:00:39",
       "album": {
+        "name": "Vivo",
+        "url": "https://open.spotify.com/album/7byqd7hsiFnu2cd4LQPlBm"
+      },
+      "artists": [
+        {
+          "name": "Virus",
+          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
+        }
+      ],
+      "duration_ms": 263373,
+      "name": "Pronta Entrega - En Vivo",
+      "url": "https://open.spotify.com/track/4R924NQoTVx3BJxgghtDSm"
+    },
+    {
+      "added_at": "2026-10-23 03:00:39",
+      "album": {
         "name": "MVD/05/03/05 (En Vivo)",
         "url": "https://open.spotify.com/album/3fV0us97rc1lbhjWVWQO2U"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 247613,
       "name": "La Rueda M\u00e1gica - En Vivo",
       "url": "https://open.spotify.com/track/4lhtqmdz80xSAKWMwDUcuK"
-    },
-    {
-      "added_at": "2026-10-23 03:00:39",
-      "album": {
-        "name": "Vivo",
-        "url": "https://open.spotify.com/album/7byqd7hsiFnu2cd4LQPlBm"
-      },
-      "artists": [
-        {
-          "name": "Virus",
-          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
-        }
-      ],
-      "duration_ms": 263373,
-      "name": "Pronta Entrega - En Vivo",
-      "url": "https://open.spotify.com/track/4R924NQoTVx3BJxgghtDSm"
     },
     {
       "added_at": "2026-10-23 03:00:39",
@@ -1067,22 +1067,18 @@
     {
       "added_at": "2026-10-23 03:00:39",
       "album": {
-        "name": "Silencio (Ft. Fito P\u00e1ez) (En Vivo Teatro \u00d3pera)",
-        "url": "https://open.spotify.com/album/2k5KhI4SGsscifqsHjiRpg"
+        "name": "DESCARTABLE (En Vivo Estadio Racing Club)",
+        "url": "https://open.spotify.com/album/6hO0rzpVAUGNy2h7qKd69p"
       },
       "artists": [
         {
-          "name": "Los Tipitos",
-          "url": "https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt"
-        },
-        {
-          "name": "Fito Paez",
-          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+          "name": "WOS",
+          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
         }
       ],
-      "duration_ms": 301830,
-      "name": "Silencio (Ft. Fito P\u00e1ez) - En Vivo Teatro \u00d3pera",
-      "url": "https://open.spotify.com/track/2Shj8NDwydmHtOpWgjbvS6"
+      "duration_ms": 186928,
+      "name": "DESCARTABLE - En Vivo Estadio Racing Club",
+      "url": "https://open.spotify.com/track/78S8Hb2Z1ERaTjKzxa5l5g"
     },
     {
       "added_at": "2026-10-23 03:00:39",
@@ -1119,18 +1115,22 @@
     {
       "added_at": "2026-10-23 03:00:39",
       "album": {
-        "name": "DESCARTABLE (En Vivo Estadio Racing Club)",
-        "url": "https://open.spotify.com/album/6hO0rzpVAUGNy2h7qKd69p"
+        "name": "Silencio (Ft. Fito P\u00e1ez) (En Vivo Teatro \u00d3pera)",
+        "url": "https://open.spotify.com/album/2k5KhI4SGsscifqsHjiRpg"
       },
       "artists": [
         {
-          "name": "WOS",
-          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
+          "name": "Los Tipitos",
+          "url": "https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt"
+        },
+        {
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
         }
       ],
-      "duration_ms": 186928,
-      "name": "DESCARTABLE - En Vivo Estadio Racing Club",
-      "url": "https://open.spotify.com/track/78S8Hb2Z1ERaTjKzxa5l5g"
+      "duration_ms": 301830,
+      "name": "Silencio (Ft. Fito P\u00e1ez) - En Vivo Teatro \u00d3pera",
+      "url": "https://open.spotify.com/track/2Shj8NDwydmHtOpWgjbvS6"
     },
     {
       "added_at": "2026-10-23 03:00:39",

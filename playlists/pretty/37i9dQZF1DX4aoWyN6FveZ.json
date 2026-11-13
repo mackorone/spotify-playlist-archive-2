@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/ravieb/\">Ravie B</a>",
-  "num_followers": 24927,
+  "num_followers": 24925,
   "original_name": "Ravie B's Taste",
   "owner": {
     "name": "Spotify",
@@ -103,6 +103,22 @@
     {
       "added_at": "2022-10-01 20:09:45",
       "album": {
+        "name": "Fuck The World",
+        "url": "https://open.spotify.com/album/3vi20DRHkqv4HyVg9Rt9wC"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 110128,
+      "name": "Clouded",
+      "url": "https://open.spotify.com/track/2J6OF7CkpdQGSfm1wdclqn"
+    },
+    {
+      "added_at": "2022-10-01 20:09:45",
+      "album": {
         "name": "Surprise",
         "url": "https://open.spotify.com/album/7MtJHdiKmt3Gbus6oyXhy1"
       },
@@ -119,22 +135,6 @@
       "duration_ms": 451826,
       "name": "Gypsy Woman (She's Homeless) (La Da Dee La Da Da) - Basement Boy Strip To The Bone Mix",
       "url": "https://open.spotify.com/track/1SShxVVBeZBCY7WddnksPz"
-    },
-    {
-      "added_at": "2022-10-01 20:09:45",
-      "album": {
-        "name": "Fuck The World",
-        "url": "https://open.spotify.com/album/3vi20DRHkqv4HyVg9Rt9wC"
-      },
-      "artists": [
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 110128,
-      "name": "Clouded",
-      "url": "https://open.spotify.com/track/2J6OF7CkpdQGSfm1wdclqn"
     },
     {
       "added_at": "2022-10-01 20:09:45",
@@ -659,6 +659,22 @@
     {
       "added_at": "2022-10-01 20:09:45",
       "album": {
+        "name": "Life of a DON",
+        "url": "https://open.spotify.com/album/2WmJ5wp5wKBlIJE6FDAIBJ"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 155131,
+      "name": "Get Throwed",
+      "url": "https://open.spotify.com/track/3nfARfVxSqwFahp3yY53aD"
+    },
+    {
+      "added_at": "2022-10-01 20:09:45",
+      "album": {
         "name": "Big Conspiracy",
         "url": "https://open.spotify.com/album/3ORNNahv0Z1IU0AKoliZwn"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 248626,
       "name": "Down And Out",
       "url": "https://open.spotify.com/track/5mEwhCsqadBZIE7SSrv1gC"
-    },
-    {
-      "added_at": "2022-10-01 20:09:45",
-      "album": {
-        "name": "Life of a DON",
-        "url": "https://open.spotify.com/album/2WmJ5wp5wKBlIJE6FDAIBJ"
-      },
-      "artists": [
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        }
-      ],
-      "duration_ms": 155131,
-      "name": "Get Throwed",
-      "url": "https://open.spotify.com/track/3nfARfVxSqwFahp3yY53aD"
     },
     {
       "added_at": "2022-10-01 20:09:45",

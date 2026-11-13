@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 
 > The best new songs of the month, handpicked by Spotify editors\. Cover: Victony
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,018 likes - 62 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,015 likes - 62 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,14 +42,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 | 32 | [Memories](https://open.spotify.com/track/1wyzwFsSpEh65mQqApmd7o) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [Memories](https://open.spotify.com/album/7iva1QVtX8yUQOzR2ysAVj) | 4:44 |
 | 33 | [Mantra](https://open.spotify.com/track/6FRKbLeBePLS0KTZqhVMgR) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Mantra](https://open.spotify.com/album/3y2isq1rsZQLsjXSjIwFBL) | 3:05 |
 | 34 | [Roar Of The Heliac Goat](https://open.spotify.com/track/4hjBehyyL8JPQJ0LiYOHnl) | [mercury](https://open.spotify.com/artist/0MaDtBu4Hw0qLH95poDSCk) | [Roar Of The Heliac Goat](https://open.spotify.com/album/58bNzzNI4WXtLym3d8Nup5) | 4:36 |
-| 35 | [Hysteria](https://open.spotify.com/track/0bIpDIXEcFefn9dmKoAxNy) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Hysteria](https://open.spotify.com/album/1C9mEJJHUKBwdujuDpRjdY) | 2:48 |
-| 36 | [Now I've Got A Lot You Know](https://open.spotify.com/track/2Ike8PM0QWeAMeBxM8b7pY) | [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex) | [the greatest album of all time](https://open.spotify.com/album/604KxCjle0KCw0VXdoMNgj) | 5:10 |
+| 35 | [Now I've Got A Lot You Know](https://open.spotify.com/track/2Ike8PM0QWeAMeBxM8b7pY) | [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex) | [the greatest album of all time](https://open.spotify.com/album/604KxCjle0KCw0VXdoMNgj) | 5:10 |
+| 36 | [Hysteria](https://open.spotify.com/track/0bIpDIXEcFefn9dmKoAxNy) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Hysteria](https://open.spotify.com/album/1C9mEJJHUKBwdujuDpRjdY) | 2:48 |
 | 37 | [Take It Off For You](https://open.spotify.com/track/5brhefwMpr2H1E9UaBo3ix) | [Stevie Bill](https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv) | [Take It Off For You](https://open.spotify.com/album/2yumCPc0yEgORe9X6WRlQ7) | 2:36 |
 | 38 | [What we want and need from love](https://open.spotify.com/track/6KoBqazoogdxoa2fs42ktF) | [Mila Bea](https://open.spotify.com/artist/2zNoOjMtnHPRWgZKqEhxXm) | [What we want and need from love](https://open.spotify.com/album/6vr03B0AIqHXL597wAroV2) | 4:13 |
 | 39 | [Born Again](https://open.spotify.com/track/4l1qY5SuMnNExzQCVtS6OS) | [Star Moles](https://open.spotify.com/artist/2E5hF0ef37SEkbFT7JItSf) | [Born Again](https://open.spotify.com/album/4SO487HCmaih1yGhFfi48v) | 3:37 |
 | 40 | [Buss Down \(1 Thing\)](https://open.spotify.com/track/0au5KKpyNF8ejpWTiPzhLh) | [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ), [Amerie](https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s) | [Buss Down \(1 Thing\)](https://open.spotify.com/album/3qGxpgpdar5u59HZLVl7XF) | 1:59 |
-| 41 | [Honey Is My New Favorite](https://open.spotify.com/track/1BVMfHWOgYZHRdlVptsa2i) | [adore](https://open.spotify.com/artist/7ofG5BaSiQp8WeL4YCYDhF), [Deem Spencer](https://open.spotify.com/artist/4iXaGootDLE50qY42LCdnK) | [Honey Is My New Favorite](https://open.spotify.com/album/5mApXQQlSq9naYH7mpfPWl) | 2:23 |
-| 42 | [Call Me If You Need Me](https://open.spotify.com/track/7bjYJFNaeUcgbCy4fkoFxO) | [Oshun Grizzly](https://open.spotify.com/artist/3i6xQ8FElsPXsYLUsdEadD), [Yolophonik](https://open.spotify.com/artist/3LwIKF4bPDZylPWbHlNeOf), [D3NZL](https://open.spotify.com/artist/2bipRR8Pu3mAzrZ1n3o4HW) | [Call Me If You Need Me](https://open.spotify.com/album/6H3Sd8HbS6x2p8pUPc2pCo) | 2:22 |
+| 41 | [Call Me If You Need Me](https://open.spotify.com/track/7bjYJFNaeUcgbCy4fkoFxO) | [Oshun Grizzly](https://open.spotify.com/artist/3i6xQ8FElsPXsYLUsdEadD), [Yolophonik](https://open.spotify.com/artist/3LwIKF4bPDZylPWbHlNeOf), [D3NZL](https://open.spotify.com/artist/2bipRR8Pu3mAzrZ1n3o4HW) | [Call Me If You Need Me](https://open.spotify.com/album/6H3Sd8HbS6x2p8pUPc2pCo) | 2:22 |
+| 42 | [Honey Is My New Favorite](https://open.spotify.com/track/1BVMfHWOgYZHRdlVptsa2i) | [adore](https://open.spotify.com/artist/7ofG5BaSiQp8WeL4YCYDhF), [Deem Spencer](https://open.spotify.com/artist/4iXaGootDLE50qY42LCdnK) | [Honey Is My New Favorite](https://open.spotify.com/album/5mApXQQlSq9naYH7mpfPWl) | 2:23 |
 | 43 | [laundry song](https://open.spotify.com/track/10sPlfiV8ypVrORMksrXNK) | [lighthearted](https://open.spotify.com/artist/6bIM8yCfbkBSVS40TP5gCf) | [laundry song](https://open.spotify.com/album/7p3w65F7Mm2IF8vOuEyM0W) | 3:47 |
 | 44 | [We'll Never Be This Young Again](https://open.spotify.com/track/0cCyMQoRm3ofgJVb26APSn) | [Laila!](https://open.spotify.com/artist/7tHTnyrdTNM152slc8aQ3t) | [We'll Never Be This Young Again](https://open.spotify.com/album/6FAKkmCP208V0ubSLJ6AXl) | 2:21 |
 | 45 | [Stalks](https://open.spotify.com/track/3aoIIvR9CkLUJ5aKpnsy5u) | [Twisted Teens](https://open.spotify.com/artist/40Hgbyjt4LQmrZYecbXebv) | [Stalks](https://open.spotify.com/album/0ljLVwqEMPGaqsG9mtDRHC) | 2:47 |

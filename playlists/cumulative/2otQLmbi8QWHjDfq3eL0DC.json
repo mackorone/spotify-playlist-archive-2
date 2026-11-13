@@ -14373,32 +14373,6 @@
     },
     {
       "album": {
-        "name": "Time (Remixes)",
-        "url": "https://open.spotify.com/album/4cUmBzo2iWRKBfRmR0xyjB"
-      },
-      "artists": [
-        {
-          "name": "Alexis Taylor",
-          "url": "https://open.spotify.com/artist/6zclVXoEfp3nFq4dOgqgOX"
-        },
-        {
-          "name": "The Blessed Madonna",
-          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
-        },
-        {
-          "name": "Pat Alvarez",
-          "url": "https://open.spotify.com/artist/44rUL8RUXtDCmb8Mtjy5kp"
-        }
-      ],
-      "date_added": "2026-11-06",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 272440,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/4RP5gH6Bri8rD2kEMdGLNF"
-    },
-    {
-      "album": {
         "name": "Time",
         "url": "https://open.spotify.com/album/1X1b2wHqVRlkMTT7SnfqBI"
       },
@@ -14422,6 +14396,32 @@
       "duration_ms": 272440,
       "name": "Time",
       "url": "https://open.spotify.com/track/4oL4yuKcWOsV4uHpbGGtPu"
+    },
+    {
+      "album": {
+        "name": "Time (Remixes)",
+        "url": "https://open.spotify.com/album/4cUmBzo2iWRKBfRmR0xyjB"
+      },
+      "artists": [
+        {
+          "name": "Alexis Taylor",
+          "url": "https://open.spotify.com/artist/6zclVXoEfp3nFq4dOgqgOX"
+        },
+        {
+          "name": "The Blessed Madonna",
+          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
+        },
+        {
+          "name": "Pat Alvarez",
+          "url": "https://open.spotify.com/artist/44rUL8RUXtDCmb8Mtjy5kp"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272440,
+      "name": "Time (feat. The Blessed Madonna & Pat Alvarez)",
+      "url": "https://open.spotify.com/track/4RP5gH6Bri8rD2kEMdGLNF"
     },
     {
       "album": {

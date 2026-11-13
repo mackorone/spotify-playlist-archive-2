@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2cN38f.md) - [plain]
 
 > This is Rochelle Jordan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,981 likes - 36 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,985 likes - 36 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,10 +23,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2cN38f.md) - [plain]
 | 13 | [Back in the Day](https://open.spotify.com/track/2sy9xj6yM79lyJaihqX9PB) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [1021](https://open.spotify.com/album/478zqPLfhIqeaB91EEnHLa) | 3:27 |
 | 14 | [Doing It Too](https://open.spotify.com/track/0EjSsH1ndy3t5JYiq4vI4K) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Through The Wall](https://open.spotify.com/album/1vTquD47VNHtfuc5tVLI98) | 3:26 |
 | 15 | [Already](https://open.spotify.com/track/3i6hNFdgWCDYvDO3STjqib) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Play With The Changes](https://open.spotify.com/album/7DF9gG0kP3noP30oOkErQW) | 3:57 |
-| 16 | [Take Time](https://open.spotify.com/track/2aq9cIGfOVTB2a1DcWhzKv) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Origins](https://open.spotify.com/album/1CbmaTrSl8NJFQyOj6Ws97) | 3:46 |
+| 16 | [Promises \(feat\. Rochelle Jordan\)](https://open.spotify.com/track/6Q6Pl11H9bV9f8bRld32DD) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Mother](https://open.spotify.com/album/2PMAHlFSIxrf1i42NPA83I) | 3:28 |
 | 17 | [Good One](https://open.spotify.com/track/6AuoUvOQDpxQdyE28xg3wT) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [1021](https://open.spotify.com/album/478zqPLfhIqeaB91EEnHLa) | 3:35 |
 | 18 | [Ladida](https://open.spotify.com/track/53v5RuuAux3F8anCHDNwXI) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Through The Wall](https://open.spotify.com/album/1vTquD47VNHtfuc5tVLI98) | 3:43 |
-| 19 | [Promises \(feat\. Rochelle Jordan\)](https://open.spotify.com/track/6Q6Pl11H9bV9f8bRld32DD) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Mother](https://open.spotify.com/album/2PMAHlFSIxrf1i42NPA83I) | 3:28 |
+| 19 | [Take Time](https://open.spotify.com/track/2aq9cIGfOVTB2a1DcWhzKv) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Origins](https://open.spotify.com/album/1CbmaTrSl8NJFQyOj6Ws97) | 3:46 |
 | 20 | [New Wave Groove](https://open.spotify.com/track/5VtnOTbLAysyQAq8qzLTSp) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [The Nightlife](https://open.spotify.com/album/4wTgu0ne0ihggsMbAOGX8x) | 3:32 |
 | 21 | [There You Go](https://open.spotify.com/track/17ppGQtgavljJG2BmX3KDZ) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [1021](https://open.spotify.com/album/478zqPLfhIqeaB91EEnHLa) | 3:19 |
 | 22 | [Sum](https://open.spotify.com/track/3MIVJlKGcLfYNLso4pp6dn) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Through The Wall](https://open.spotify.com/album/1vTquD47VNHtfuc5tVLI98) | 4:09 |
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2cN38f.md) - [plain]
 | 25 | [Private Eye](https://open.spotify.com/track/3p9hpCzQhH2oz8KO9fZyhD) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [The Nightlife](https://open.spotify.com/album/4wTgu0ne0ihggsMbAOGX8x) | 3:17 |
 | 26 | [Never Enough](https://open.spotify.com/track/2lmBzqE0LWxlzfazwJxggj) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Through The Wall](https://open.spotify.com/album/1vTquD47VNHtfuc5tVLI98) | 4:00 |
 | 27 | [Got Em](https://open.spotify.com/track/5WBwG2deJGFR4RllTdWCej) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Play With The Changes](https://open.spotify.com/album/7DF9gG0kP3noP30oOkErQW) | 3:46 |
-| 28 | [What You Done](https://open.spotify.com/track/6IlUok8RCbK7IxNWurTv8p) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3), [Keys N Krates](https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd) | [What You Done](https://open.spotify.com/album/7n1VuZeAEIHwTSFDGlr7vF) | 2:54 |
-| 29 | [No Love](https://open.spotify.com/track/6APJFsK62jequAeWUiVP4S) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Origins](https://open.spotify.com/album/1CbmaTrSl8NJFQyOj6Ws97) | 2:36 |
+| 28 | [No Love](https://open.spotify.com/track/6APJFsK62jequAeWUiVP4S) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Origins](https://open.spotify.com/album/1CbmaTrSl8NJFQyOj6Ws97) | 2:36 |
+| 29 | [What You Done](https://open.spotify.com/track/6IlUok8RCbK7IxNWurTv8p) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3), [Keys N Krates](https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd) | [What You Done](https://open.spotify.com/album/7n1VuZeAEIHwTSFDGlr7vF) | 2:54 |
 | 30 | [Sumthin Crazy \(with Rochelle Jordan\)](https://open.spotify.com/track/7ebsbZwgXRvssvuleJ3Ucl) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [never worry](https://open.spotify.com/album/1ZXC6ylnVeo9H0jAu5ri4r) | 3:06 |
 | 31 | [Count It](https://open.spotify.com/track/0Xam5oGLrRlec9MJDQnZVz) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Play With The Changes](https://open.spotify.com/album/7DF9gG0kP3noP30oOkErQW) | 3:28 |
 | 32 | [Tour Bus](https://open.spotify.com/track/4GZuQqsXHTjfM1XVkXZ5gD) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Project Sidiooo, Vol\. 1](https://open.spotify.com/album/75v6kx1DDN5ARanBzJd7LA) | 1:59 |
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2cN38f.md) - [plain]
 | 35 | [Situation](https://open.spotify.com/track/3J1ZRxH4KrF1AISOkLPjtv) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Play With The Changes](https://open.spotify.com/album/7DF9gG0kP3noP30oOkErQW) | 4:13 |
 | 36 | [Slow](https://open.spotify.com/track/19F8OeoZrLMg1O2X3KwyE4) | [Cyril Hahn](https://open.spotify.com/artist/4EFMHRFpgrpfp0AVEBp4m2), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Voices](https://open.spotify.com/album/06rUXmPBsO3uXbfYGHcmcm) | 3:42 |
 
-Snapshot ID: `avENAAAAAAByxR/I6otQQ7Ky+tVkFbEV`
+Snapshot ID: `avOwAAAAAAD9VoCBYX3vFFwLJRBwOtGq`

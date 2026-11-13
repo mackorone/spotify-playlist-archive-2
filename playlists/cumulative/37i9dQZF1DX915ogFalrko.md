@@ -4,7 +4,7 @@
 
 > La playlist à la cool pour accompagner votre dîner !
 
-293 songs - 16 hr 58 min
+294 songs - 17 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [back to friends](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [back to friends](https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E) | 3:19 | 2025-07-18 |  |
 | [Beast of the Night](https://open.spotify.com/track/6udRUpHQlWCbwbDN6J1Y43) | [BLOW](https://open.spotify.com/artist/39HLbTdg48gwqAIa1CA266) | [Beast of the Night](https://open.spotify.com/album/3n80cCmDjVkd9EX81YV4VU) | 3:40 | 2026-08-17 |  |
 | [Belle âme](https://open.spotify.com/track/0bu7lHmTzz2iBzqbT84olJ) | [Bianca Costa](https://open.spotify.com/artist/1DcL22xdIWcdNa4ZHaXZjT), [aupinard](https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne) | [Gringa](https://open.spotify.com/album/1FoTgNV9Gcim0DEPVoQBlX) | 3:07 | 2025-12-04 | 2026-03-13 |
+| [Best of It](https://open.spotify.com/track/5m2BZspGkunCWFZcgSOb7u) | [Blasé](https://open.spotify.com/artist/4PqSBgXKxQuqclKpwB6iuc) | [Best of It](https://open.spotify.com/album/5Z1OyunLYvWm78f4EaFU8M) | 2:57 | 2026-11-05 |  |
 | [Blame](https://open.spotify.com/track/27dM3Oji0ytPXDYGVwDoJj) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Bloodline](https://open.spotify.com/album/6w9KqIfC7zIoKmdJgs9yBA) | 2:50 | 2025-07-18 |  |
 | [Bleed \(feat\. Omar Apollo\)](https://open.spotify.com/track/5p3ckKoVpUi51ByUmA1vfT) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz), [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Bleed \(feat\. Omar Apollo\)](https://open.spotify.com/album/7E93xjRYu5jTayc9x9wQKk) | 2:59 | 2025-07-18 | 2026-06-13 |
 | [BLOOM](https://open.spotify.com/track/7FR31W0Gpfs7s4fLoBV2Go) | [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT) | [BLOOM](https://open.spotify.com/album/0AduTuWnko3IDC0Oua18qQ) | 2:47 | 2025-07-25 | 2025-08-13 |
@@ -78,7 +79,7 @@
 | [Edge of the Earth](https://open.spotify.com/track/3GzhyEkF7m89mVv3BUJh8N) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [Edge of the Earth](https://open.spotify.com/album/1WljWKt77EMsgjRdnMfUHN) | 3:40 | 2025-11-14 | 2026-03-30 |
 | [El camino negro](https://open.spotify.com/track/46TKHBSVXIOYjfi3pp6X7F) | [Tommy Guerrero](https://open.spotify.com/artist/5qnkHpjyS6CUxH1UUy82B7) | [Road to Knowhere](https://open.spotify.com/album/5XNcBTBDka0LqtQ7FYJlVh) | 5:08 | 2025-07-18 | 2025-08-22 |
 | [Electric Soul](https://open.spotify.com/track/2DDgjp1fChi6UvQzNxtgUw) | [Forester](https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc) | [Somewhere In Between](https://open.spotify.com/album/1SyEXGFsWxnHjD1UsdACMk) | 2:52 | 2026-03-20 |  |
-| [END OF THE SKY](https://open.spotify.com/track/2laWkyz40Hn8PCodiCTo4Z) | [JVLY](https://open.spotify.com/artist/52flspAUwzY59cow3QC53f) | [END OF THE SKY](https://open.spotify.com/album/6cyLb8x3s5tF76GY0uzF45) | 2:39 | 2026-07-02 |  |
+| [END OF THE SKY](https://open.spotify.com/track/2laWkyz40Hn8PCodiCTo4Z) | [JVLY](https://open.spotify.com/artist/52flspAUwzY59cow3QC53f) | [END OF THE SKY](https://open.spotify.com/album/6cyLb8x3s5tF76GY0uzF45) | 2:39 | 2026-07-02 | 2026-11-13 |
 | [enjoy the ride](https://open.spotify.com/track/7knEfWGJmJ7zgTNv3NA6cI) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [enjoy the ride](https://open.spotify.com/album/1EjxPT3Q4ONre5zZakmEhU) | 2:51 | 2025-08-07 | 2026-07-03 |
 | [Everybody's trying to figure me out](https://open.spotify.com/track/1CsGxcyExQn3vt4SNq91d1) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Everybody's trying to figure me out](https://open.spotify.com/album/7GQN5bFkpE2a9RFknshXuF) | 3:53 | 2025-07-18 | 2025-08-09 |
 | [Everything \(Le feu dans ma tête\)](https://open.spotify.com/track/358wdV6Jk1Dj7TkVDt0w8n) | [Ashel](https://open.spotify.com/artist/0uQmXAc9TJ42Te5soOJvkT), [ELISA ERKA](https://open.spotify.com/artist/1EkqwqtzsjxMYJZH73RFVM) | [Everything \(Le feu dans ma tête\)](https://open.spotify.com/album/178FzEeyVs1gcSTTZzQBtB) | 2:21 | 2026-08-21 | 2026-09-15 |

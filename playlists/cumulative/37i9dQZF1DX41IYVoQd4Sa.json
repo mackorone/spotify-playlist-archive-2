@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc : \u05d0\u05d1\u05d9\u05ea\u05e8 \u05d1\u05e0\u05d0\u05d9",
+  "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc : \u05d1\u05e8\u05d9 \u05e1\u05d7\u05e8\u05d5\u05e3",
   "name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
   "tracks": [
     {
@@ -2005,6 +2005,24 @@
     },
     {
       "album": {
+        "name": "People, I hope you know the world is ending.",
+        "url": "https://open.spotify.com/album/4ldNFE4zt6j6wIkv0v7ywF"
+      },
+      "artists": [
+        {
+          "name": "Noga Erez",
+          "url": "https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233466,
+      "name": "People, I hope you know the world is ending.",
+      "url": "https://open.spotify.com/track/2T942a9KQxXVMJkHHURmnj"
+    },
+    {
+      "album": {
         "name": "Petrified",
         "url": "https://open.spotify.com/album/2t8Ve4IgJFdeiemjIyXxwP"
       },
@@ -2020,6 +2038,24 @@
       "duration_ms": 252456,
       "name": "Petrified",
       "url": "https://open.spotify.com/track/04OmvsYNDRNt0CD9Y1rbyV"
+    },
+    {
+      "album": {
+        "name": "Lost Ballads Part I",
+        "url": "https://open.spotify.com/album/02L25wVcc0RYtzaAb9JbMM"
+      },
+      "artists": [
+        {
+          "name": "Asaf Avidan",
+          "url": "https://open.spotify.com/artist/7t51dSX8ZkKC7VoKRd0lME"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277632,
+      "name": "Prelude to Diaspora",
+      "url": "https://open.spotify.com/track/4Zc6RXXV8tL2amj6BMJt6D"
     },
     {
       "album": {
@@ -2324,7 +2360,7 @@
       ],
       "date_added": "2026-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 234524,
       "name": "Stay",
       "url": "https://open.spotify.com/track/0RXqPzxQhpCySer8mTv8jr"
@@ -2588,7 +2624,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 166996,
       "name": "WATCH THE NEWS",
       "url": "https://open.spotify.com/track/7x2mL3MT47IxwQQBfiTFh9"
@@ -4333,6 +4369,28 @@
     },
     {
       "album": {
+        "name": "\u05d4\u05d9\u05d9\u05ea\u05d9 \u05e6\u05d9\u05e4\u05d5\u05e8",
+        "url": "https://open.spotify.com/album/0RXZp8jNms9DSOJ67y0LLw"
+      },
+      "artists": [
+        {
+          "name": "Uri Brauner Kinrot",
+          "url": "https://open.spotify.com/artist/2QXyIEJXxoYuf8MNZ5M3L9"
+        },
+        {
+          "name": "Yaara Shaulian",
+          "url": "https://open.spotify.com/artist/17rR42DJ9kQPIbsYDzhzo9"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207492,
+      "name": "\u05d4\u05d9\u05d9\u05ea\u05d9 \u05e6\u05d9\u05e4\u05d5\u05e8",
+      "url": "https://open.spotify.com/track/2zfRuN9IVyHWhpIMo1s3H5"
+    },
+    {
+      "album": {
         "name": "\u05d4\u05db\u05d0\u05d1 \u05d4\u05d6\u05d4",
         "url": "https://open.spotify.com/album/2Xwyq8mjZC6v848vDLYDlz"
       },
@@ -6012,7 +6070,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 321822,
       "name": "\u05db\u05dc \u05db\u05da \u05d4\u05e8\u05d1\u05d4 \u05e9\u05e0\u05d9\u05dd \u05d0\u05d9\u05ea\u05da",
       "url": "https://open.spotify.com/track/3Bx8JwrEExocGPOL1cKx2V"
@@ -7508,7 +7566,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 182645,
       "name": "\u05e0\u05e2\u05dc\u05d9\u05d9\u05dd",
       "url": "https://open.spotify.com/track/3eDtxooWEmV8hldlr5tbH0"
@@ -8608,6 +8666,24 @@
       "duration_ms": 184721,
       "name": "\u05e9\u05d9\u05e8 \u05d5\u05e8\u05d5\u05d3 - \u05d2\u05e8\u05e1\u05ea \u05e1\u05ea\u05d9\u05d5",
       "url": "https://open.spotify.com/track/0jU9g9jIAzzhxnFcDqGJvv"
+    },
+    {
+      "album": {
+        "name": "\u05e9\u05d9\u05e8 \u05dc\u05d0\u05e1\u05e3",
+        "url": "https://open.spotify.com/album/3tqeeRP38qLKgEuxx3wQt2"
+      },
+      "artists": [
+        {
+          "name": "Adi Ulmansky",
+          "url": "https://open.spotify.com/artist/3USGrdyXkg1eLoWJ7KhrhJ"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248000,
+      "name": "\u05e9\u05d9\u05e8 \u05dc\u05d0\u05e1\u05e3",
+      "url": "https://open.spotify.com/track/1ugjWzPek3YqiGlftecI2e"
     },
     {
       "album": {

@@ -1,13 +1,29 @@
 {
-  "description": "Dramatic, theatrical pop: Mollie Elizabeth it's your moment!",
-  "num_followers": 572172,
+  "description": "Dramatic, theatrical pop: PEGGY it's your moment!",
+  "num_followers": 572202,
   "original_name": "Limelight",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALJ8iVC+wlojqavii7tTJ96rbBIb",
+  "snapshot_id": "AAAAAAnXk8zWNjEUWDcKOtq8o+UnUEWo",
   "tracks": [
+    {
+      "added_at": "2026-11-13 05:02:49",
+      "album": {
+        "name": "ONCE UPON A TIME",
+        "url": "https://open.spotify.com/album/6EdSkWoFNcsrKV4tRPlzmq"
+      },
+      "artists": [
+        {
+          "name": "PEGGY",
+          "url": "https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "HERETIC",
+      "url": "https://open.spotify.com/track/5u74bjEr8UeSVFcBAcYGtP"
+    },
     {
       "added_at": "2026-10-30 04:01:31",
       "album": {
@@ -25,20 +41,36 @@
       "url": "https://open.spotify.com/track/58odKZK2mHgBy5rw6AQL6u"
     },
     {
-      "added_at": "2026-10-30 04:01:31",
+      "added_at": "2026-04-08 17:34:45",
       "album": {
-        "name": "IMITATE",
-        "url": "https://open.spotify.com/album/4Q2vZIVKADXCKegHeyDCAC"
+        "name": "Big Disgrace",
+        "url": "https://open.spotify.com/album/3iyn2K7YlhKie8qrmUV6lS"
       },
       "artists": [
         {
-          "name": "PEGGY",
-          "url": "https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh"
+          "name": "Haute & Freddy",
+          "url": "https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR"
         }
       ],
-      "duration_ms": 189152,
-      "name": "IMITATE",
-      "url": "https://open.spotify.com/track/42GoMVuTK8BXAMpJXDxg9d"
+      "duration_ms": 187658,
+      "name": "Shy Girl",
+      "url": "https://open.spotify.com/track/2LIOTreGvPk5GdpeGUqYIu"
+    },
+    {
+      "added_at": "2026-11-13 05:02:49",
+      "album": {
+        "name": "New to the City",
+        "url": "https://open.spotify.com/album/4CzT8kDhShsf7cJuC3QwXV"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Hightower",
+          "url": "https://open.spotify.com/artist/70A1X73rk0NI2d6A8pENYN"
+        }
+      ],
+      "duration_ms": 212501,
+      "name": "I Want to Push You in Front of the Subway",
+      "url": "https://open.spotify.com/track/0dl7gKsFn8eb78zJ0Pghi9"
     },
     {
       "added_at": "2026-11-09 19:59:54",
@@ -61,6 +93,22 @@
       "url": "https://open.spotify.com/track/2CogABm63uPyd2qAo259RW"
     },
     {
+      "added_at": "2026-11-13 05:02:49",
+      "album": {
+        "name": "Faces",
+        "url": "https://open.spotify.com/album/6MtEJILItZjay2VgIWdWO1"
+      },
+      "artists": [
+        {
+          "name": "Livingston",
+          "url": "https://open.spotify.com/artist/2fPsJqR6zfoHatC1eFr0eQ"
+        }
+      ],
+      "duration_ms": 209935,
+      "name": "Faces",
+      "url": "https://open.spotify.com/track/2VOaEUAQqdOOc7fUCHNpjE"
+    },
+    {
       "added_at": "2026-10-23 04:02:26",
       "album": {
         "name": "God Forbid a Girl Gets Used To This",
@@ -75,22 +123,6 @@
       "duration_ms": 244381,
       "name": "God Forbid a Girl Gets Used To This",
       "url": "https://open.spotify.com/track/3T2het8iwxr3jwK2JpAyfX"
-    },
-    {
-      "added_at": "2026-04-08 17:34:45",
-      "album": {
-        "name": "Big Disgrace",
-        "url": "https://open.spotify.com/album/3iyn2K7YlhKie8qrmUV6lS"
-      },
-      "artists": [
-        {
-          "name": "Haute & Freddy",
-          "url": "https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR"
-        }
-      ],
-      "duration_ms": 187658,
-      "name": "Shy Girl",
-      "url": "https://open.spotify.com/track/2LIOTreGvPk5GdpeGUqYIu"
     },
     {
       "added_at": "2026-10-23 04:02:26",
@@ -123,6 +155,22 @@
       "duration_ms": 232985,
       "name": "He's My Man",
       "url": "https://open.spotify.com/track/62rwEl9PfnDqrjqNjApOwV"
+    },
+    {
+      "added_at": "2026-10-30 04:01:31",
+      "album": {
+        "name": "IMITATE",
+        "url": "https://open.spotify.com/album/4Q2vZIVKADXCKegHeyDCAC"
+      },
+      "artists": [
+        {
+          "name": "PEGGY",
+          "url": "https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh"
+        }
+      ],
+      "duration_ms": 189152,
+      "name": "IMITATE",
+      "url": "https://open.spotify.com/track/42GoMVuTK8BXAMpJXDxg9d"
     },
     {
       "added_at": "2026-10-16 04:01:22",

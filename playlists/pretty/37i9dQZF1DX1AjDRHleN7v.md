@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AjDRHleN7v.md) - [plain]
 
 > Um pouco de reggae pra acompanhar a brisa do mar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 420,925 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 420,959 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AjDRHleN7v.md) - [plain]
 | 22 | [Oh! Chuva \- Ao Vivo](https://open.spotify.com/track/6pGzovjfmkZTwWZ5wMW5MZ) | [Falamansa](https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk), [Marcelo Falcão](https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr) | [Oh! Chuva \(Ao Vivo\)](https://open.spotify.com/album/1XvZ3fUOBfrvserZuP5DDK) | 3:14 |
 | 23 | [Incenso \- Ao Vivo](https://open.spotify.com/track/7eD9Z1zuAAb45QMAewX1SY) | [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Maneva 20 Anos, Origem \- Ao Vivo](https://open.spotify.com/album/3SIvQGMHVSFFR7br8uCsRr) | 2:32 |
 | 24 | [Denso e Danço](https://open.spotify.com/track/2xhFW63RJ7uFVp333kJ4ON) | [Agnes Nunes](https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw) | [Novela](https://open.spotify.com/album/2r8MFQSbAP5jB74eCRE6zx) | 3:37 |
-| 25 | [Tudo Passará](https://open.spotify.com/track/3Sdd3cb8DyjzMSHO9tz9aX) | [Adonai](https://open.spotify.com/artist/1PcD8HGOQMEGvnCCHnPcZN), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Gustah](https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L) | [Tudo Passará](https://open.spotify.com/album/4ACgtyuRCkuwUV49eunX1y) | 2:30 |
-| 26 | [Bora Chamegar](https://open.spotify.com/track/0aCRuXTStPeNGRU3cpmVZa) | [Tribo De Jah](https://open.spotify.com/artist/6oAqyhJILwJf9S3Of2zTuv), [João Beydoun](https://open.spotify.com/artist/5vcL0DhIdXrwxyp791wrFM) | [Revolvendo as Raizes](https://open.spotify.com/album/1xNlNHe5bXk8ZC4rxoZdvf) | 3:50 |
+| 25 | [Bora Chamegar](https://open.spotify.com/track/0aCRuXTStPeNGRU3cpmVZa) | [Tribo De Jah](https://open.spotify.com/artist/6oAqyhJILwJf9S3Of2zTuv), [João Beydoun](https://open.spotify.com/artist/5vcL0DhIdXrwxyp791wrFM) | [Revolvendo as Raizes](https://open.spotify.com/album/1xNlNHe5bXk8ZC4rxoZdvf) | 3:50 |
+| 26 | [Tudo Passará](https://open.spotify.com/track/3Sdd3cb8DyjzMSHO9tz9aX) | [Adonai](https://open.spotify.com/artist/1PcD8HGOQMEGvnCCHnPcZN), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Gustah](https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L) | [Tudo Passará](https://open.spotify.com/album/4ACgtyuRCkuwUV49eunX1y) | 2:30 |
 | 27 | [Flor de Aruanda](https://open.spotify.com/track/53UWKafwpKToHDBB286Q0e) | [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd) | [Flor de Aruanda](https://open.spotify.com/album/0zIowT1jTcN8v8bFa8t0Er) | 3:03 |
 | 28 | [Time Won’t Wait](https://open.spotify.com/track/3wbqx5euzFgiPWg6zQRK7J) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE), [Di Ferrero](https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB) | [Time Won’t Wait](https://open.spotify.com/album/53BphEUeLMphh5CCKe8Uo2) | 3:30 |
 | 29 | [Emaranhei](https://open.spotify.com/track/4cN88WMuH5CAVg6YhnBCIP) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK), [Planta E Raiz](https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO) | [Emaranhei](https://open.spotify.com/album/75Q84Fp94DPjOYcxTtKUTR) | 2:51 |

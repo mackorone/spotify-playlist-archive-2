@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-5,505 songs - 12 day 19 hr 52 min
+5,510 songs - 12 day 20 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -350,6 +350,7 @@
 | [Autumn Breeze \(another\)](https://open.spotify.com/track/5dOpoRNUm1HUNs2lvhgu0R) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Autumn Sweet Music](https://open.spotify.com/album/7s7aLLFz83nSCg8JQpFSrD) | 2:26 | 2025-09-18 |  |
 | [Autumn Days](https://open.spotify.com/track/6K6peanpJ9htUjRM226NUN) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Autumn Sweet Music](https://open.spotify.com/album/7s7aLLFz83nSCg8JQpFSrD) | 2:44 | 2025-05-27 |  |
 | [Autumn Days \(another\)](https://open.spotify.com/track/1Bzj9nCmT0zF0WiF4u5fhp) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Autumn Sweet Music](https://open.spotify.com/album/7s7aLLFz83nSCg8JQpFSrD) | 2:27 | 2025-09-18 |  |
+| [Autumn leavs](https://open.spotify.com/track/0DFG9MNGSKcoZSbZvqcOuS) | [Abbracci](https://open.spotify.com/artist/1RxeLo5uBMZHEkMz9O9SPO) | [The end of Summer](https://open.spotify.com/album/2kTwZSU8hZNmAbpFkY77PD) | 4:58 | 2026-11-13 |  |
 | [Autumn Nights](https://open.spotify.com/track/0QHa0HJkr8JARCqQ7hagjv) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Autumn Sweet Music](https://open.spotify.com/album/7s7aLLFz83nSCg8JQpFSrD) | 2:36 | 2025-05-27 |  |
 | [Autumn Nights \(another\)](https://open.spotify.com/track/0hqowpeVXxIQh8i9tjMdNF) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Autumn Sweet Music](https://open.spotify.com/album/7s7aLLFz83nSCg8JQpFSrD) | 2:02 | 2025-09-18 |  |
 | [Autumn Whispers](https://open.spotify.com/track/4pBJJN4Y2eEIKn96olYw0D) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Autumn Sweet Music](https://open.spotify.com/album/7s7aLLFz83nSCg8JQpFSrD) | 2:30 | 2025-09-18 |  |
@@ -1980,6 +1981,7 @@
 | [Girotondo di Stelle](https://open.spotify.com/track/4JXzOm4XyRbjqvDkUrz7sf) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Pop Italiano](https://open.spotify.com/album/7IrQUjWQhPAXuhNFYaDVI0) | 2:17 | 2025-05-31 |  |
 | [Giulia](https://open.spotify.com/track/2yBfR6xnS4nQ1RPxzO16Ek) | [DreamerWild](https://open.spotify.com/artist/31lDG1hUYSmIw5jYclernj) | [Giulia](https://open.spotify.com/album/3GxwK6vzAPdzY8VW9ql1nF) | 4:01 | 2026-01-04 |  |
 | [Give Me a Sign](https://open.spotify.com/track/2TcGKksrODCi8qxu2Riqfx) | [Ore\-Kun](https://open.spotify.com/artist/6P3eLuqFuDuPkrGmXB9eDF) | [Give Me a Sign](https://open.spotify.com/album/6EQA6VxltoT73LtOrUiiED) | 4:32 | 2024-10-31 | 2026-08-12 |
+| [Glass Teeth](https://open.spotify.com/track/71aF2HWIvljystTBSrg3MK) | [First Fifty Feet](https://open.spotify.com/artist/4AADJVMfOR93MzDAy5hQC8) | [Glass Teeth](https://open.spotify.com/album/7pZdyBsO0GRpEC5fjT0yya) | 3:24 | 2026-11-12 |  |
 | [Glass Wings](https://open.spotify.com/track/1KRQlC687C3IPsb1kBYPH0) | [Fra](https://open.spotify.com/artist/7bbemKBpCgvwVPn8dF4kct) | [Glass Wings](https://open.spotify.com/album/6UoBZE2kv3ZcDUNh9kDR6w) | 3:21 | 2025-08-11 |  |
 | [Glitch in My Head](https://open.spotify.com/track/7va9JFDcDDKo6f1Je4tE6y) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Hyperpop](https://open.spotify.com/album/6rWV9L1qvMm1cvEJ5LJO9E) | 2:22 | 2025-09-16 |  |
 | [Glitch in the Amplifier](https://open.spotify.com/track/68E70uW0bPTUTJBrejy1IF) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Virtual rock](https://open.spotify.com/album/48aggZCMxbdvSMGvL55GyX) | 3:48 | 2025-09-12 |  |
@@ -2813,6 +2815,7 @@
 | [Louis](https://open.spotify.com/track/4yK3AVfdhq9SqCzuLJwYOW) | [Franco De Vita](https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu) | [Al Norte Del Sur](https://open.spotify.com/album/6i3LZIVP1qEDdN6UM3zK3W) | 5:09 | 2026-11-03 |  |
 | [Love](https://open.spotify.com/track/1o0hbhDlQxANi1sllH384o) | [Lara Strieder](https://open.spotify.com/artist/4FNp6aWDqqigyul6I0Torj) | [My Feelings](https://open.spotify.com/album/4ZbIm5MNzLB3p61sZrR1Ku) | 3:34 | 2025-06-05 |  |
 | [Love](https://open.spotify.com/track/1A7sOJ8dptHBZ4FUOtSh6i) | [Pepi](https://open.spotify.com/artist/1JcqlMEa8HWxcRm8zM5oUR) | [Shelter](https://open.spotify.com/album/4O6UZwJNgKafeU08pbjONX) | 2:36 | 2026-04-14 |  |
+| [Love & Hate](https://open.spotify.com/track/1BWO0H2dWosBTTCmKEQW23) | [Broken Star](https://open.spotify.com/artist/7jixBxoSPjyr8LXJaa8TX6) | [Love & Hate](https://open.spotify.com/album/4gjZ87DTCkoZ7qlkGGoRdv) | 3:07 | 2026-11-13 |  |
 | [Love Being You](https://open.spotify.com/track/4wI0HGz85GYrjSZpzfglXc) | [Silent Warriors](https://open.spotify.com/artist/0iUpiqOFyg6m3eFHlGBHN2) | [Letters From My Inner Demon](https://open.spotify.com/album/4PDsVpGc3chCW6ddO7C2ct) | 4:17 | 2026-01-06 |  |
 | [love hate](https://open.spotify.com/track/0BWhRDZajVPoO3qaLbeCDJ) | [xaviersobased](https://open.spotify.com/artist/2oM7LMPFu882oC6jSwEqjd) | [with 2 \(hosted by d9lton\)](https://open.spotify.com/album/1qNo1zN3Df7dI1c3Imp146) | 1:56 | 2025-07-28 |  |
 | [Love Hurts in Stereo](https://open.spotify.com/track/3Jgka9HoGVCrM0r7LsAPIo) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Sad love music](https://open.spotify.com/album/3AUNUYgv9UJbhlUNE5JGDo) | 3:25 | 2025-09-19 |  |
@@ -2963,6 +2966,7 @@
 | [Memories](https://open.spotify.com/track/5cdy8yH2YaBCDhcuXsTCCa) | [Andrea Marcucci](https://open.spotify.com/artist/5L6UJfnzZU98Fx61wESh0F) | [Postcard to the sky](https://open.spotify.com/album/4UN4Rsu5hkfH2VGaHMs0Vz) | 2:03 | 2026-09-04 |  |
 | [Memories](https://open.spotify.com/track/4cktbXiXOapiLBMprHFErI) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [JORDI \(Deluxe\)](https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU) | 3:09 | 2026-11-03 |  |
 | [Memory Card Moments \- Radio Edit](https://open.spotify.com/track/0wCMvP6jojZx738ZOWIEJ6) | [NVRLØST](https://open.spotify.com/artist/5jdHtc5hxhdY9dG2rTS2VE) | [„UNLOCKED:// FILES FROM THE VOID“](https://open.spotify.com/album/6uJTVbOSGms0QLadVQE8Db) | 2:36 | 2025-06-11 |  |
+| [Memudar](https://open.spotify.com/track/42MN7rZSgf51HjESLwydIm) | [Eklyra](https://open.spotify.com/artist/2ROoPAHDGn6hHs986H0y9V) | [Memudar](https://open.spotify.com/album/5aS3Oc95zN232HjNzk0dWO) | 3:52 | 2026-11-12 |  |
 | [Men](https://open.spotify.com/track/220iiQKMH4ZMfHERBJSRJC) | [AKERO](https://open.spotify.com/artist/6e1aFysEzyJ4eBy0z7uFqQ) | [Men](https://open.spotify.com/album/2ek6a8NVclSB1KfxuLsXCG) | 4:54 | 2025-09-17 |  |
 | [Mene Kiya](https://open.spotify.com/track/6xQqenRH7b2TmiFAKlsrku) | [Sidharth Arun](https://open.spotify.com/artist/25CoCzWysxGpvbMGdWYalM) | [Mene Kiya](https://open.spotify.com/album/7rX71mVjeu6PNMV1pUumUi) | 3:25 | 2026-11-05 |  |
 | [Mennem Kell Bébi](https://open.spotify.com/track/1KQbyZBSdVgSesQ173OcHj) | [Amelia Pinter](https://open.spotify.com/artist/1NhvClkKenN1Sq8f3jcMp8) | [Mennem Kell Bébi](https://open.spotify.com/album/5ne2yEwe11OSOohOPTxCII) | 2:29 | 2025-06-04 |  |
@@ -3522,6 +3526,7 @@
 | [Our American Nights](https://open.spotify.com/track/3CdKSVF0iBThFXmFGQexmH) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [American Pop/Punk](https://open.spotify.com/album/6x7tjBoPAnHgElvrRRwd1g) | 3:24 | 2025-09-19 |  |
 | [Our American Nights \(another\)](https://open.spotify.com/track/2z0eFjhevR2vaecGBmmgqi) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [American Pop/Punk](https://open.spotify.com/album/6x7tjBoPAnHgElvrRRwd1g) | 2:24 | 2025-09-19 |  |
 | [Our Government](https://open.spotify.com/track/03oyOm1fFGwR9X47XO9y9U) | [Actor1Ma](https://open.spotify.com/artist/2bhSkSJxOWs9GJu16aaJGC), [Sky C Standfit](https://open.spotify.com/artist/5DX314MQuMO5agZHW5WjiM) | [hustlers Ambition](https://open.spotify.com/album/4MngCDfJLBPmvPO9eBXwa4) | 3:00 | 2025-07-02 |  |
+| [Our last summer together](https://open.spotify.com/track/1P9JNOUO0GqQ2RmN80XH3V) | [Abbracci](https://open.spotify.com/artist/1RxeLo5uBMZHEkMz9O9SPO) | [The end of Summer](https://open.spotify.com/album/2kTwZSU8hZNmAbpFkY77PD) | 4:54 | 2026-11-13 |  |
 | [Ouroboros](https://open.spotify.com/track/23w8U7ujIWpdMlRYazgl1F) | [Synthetic Broadcast](https://open.spotify.com/artist/16H0ape8xiGKFnqUoU6AWQ) | [Reverie](https://open.spotify.com/album/5c7IszYceIopxhjpZGSIKL) | 2:56 | 2026-01-08 |  |
 | [Out of the Box](https://open.spotify.com/track/2vvo5J576wQNvo3fBV0Oz5) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Cyber Electro\-Music](https://open.spotify.com/album/3vRDhvvZ7bNY4ZidlEHF2B) | 3:37 | 2025-09-18 |  |
 | [Out of the Box \(another\)](https://open.spotify.com/track/2pRiZtOkSYB19WV1cWQ56H) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Cyber Electro\-Music](https://open.spotify.com/album/3vRDhvvZ7bNY4ZidlEHF2B) | 2:19 | 2025-09-18 |  |

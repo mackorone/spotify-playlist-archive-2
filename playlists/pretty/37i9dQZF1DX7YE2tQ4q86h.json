@@ -1,29 +1,13 @@
 {
-  "description": "Tate is the main pop girl emergency\u2728",
-  "num_followers": 245345,
+  "description": "Slayyyter is THE main pop girl emergency\u2728",
+  "num_followers": 245441,
   "original_name": "OBSESSED",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKbWlOxCFwK4FJooBMVE9oZOhh0/",
+  "snapshot_id": "AAAAAInaR1D/auKOpssltcd6hKsVFcd1",
   "tracks": [
-    {
-      "added_at": "2026-11-06 05:04:05",
-      "album": {
-        "name": "Housewife",
-        "url": "https://open.spotify.com/album/6JvmSyocXef7RZDZFaymNl"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 208810,
-      "name": "Housewife",
-      "url": "https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0"
-    },
     {
       "added_at": "2026-11-06 05:04:05",
       "album": {
@@ -41,36 +25,20 @@
       "url": "https://open.spotify.com/track/02q72hZq4Ds2pWiBrK8HZo"
     },
     {
-      "added_at": "2026-11-09 19:58:55",
+      "added_at": "2026-11-13 05:07:39",
       "album": {
-        "name": "I thought this story wasn't about me",
-        "url": "https://open.spotify.com/album/55gOYkg8IO4xnIG5JX6JoQ"
+        "name": "Digital Girlfriend",
+        "url": "https://open.spotify.com/album/00sDhwoeQA2f09emh8BPzo"
       },
       "artists": [
         {
-          "name": "Tove Styrke",
-          "url": "https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9"
+          "name": "Ruby Rose Turner",
+          "url": "https://open.spotify.com/artist/6F8yrN99JnFHqSF9CZcj2V"
         }
       ],
-      "duration_ms": 232625,
-      "name": "Look at me",
-      "url": "https://open.spotify.com/track/13bvOqa51xIYWBcOmjOrIk"
-    },
-    {
-      "added_at": "2026-11-06 05:04:05",
-      "album": {
-        "name": "She'll Never Be Me",
-        "url": "https://open.spotify.com/album/6bJ8cNQanzgNNzKIfQMxUC"
-      },
-      "artists": [
-        {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
-        }
-      ],
-      "duration_ms": 185373,
-      "name": "She'll Never Be Me",
-      "url": "https://open.spotify.com/track/3wgrOVBvLSjPujrxDjdWeV"
+      "duration_ms": 171922,
+      "name": "Digital Girlfriend",
+      "url": "https://open.spotify.com/track/4BuyW9oEVj7oliRL4P2kcs"
     },
     {
       "added_at": "2026-11-06 19:14:07",
@@ -91,6 +59,90 @@
     {
       "added_at": "2026-11-06 05:04:05",
       "album": {
+        "name": "Housewife",
+        "url": "https://open.spotify.com/album/6JvmSyocXef7RZDZFaymNl"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 208810,
+      "name": "Housewife",
+      "url": "https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0"
+    },
+    {
+      "added_at": "2026-11-06 05:04:05",
+      "album": {
+        "name": "She'll Never Be Me",
+        "url": "https://open.spotify.com/album/6bJ8cNQanzgNNzKIfQMxUC"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "duration_ms": 185373,
+      "name": "She'll Never Be Me",
+      "url": "https://open.spotify.com/track/3wgrOVBvLSjPujrxDjdWeV"
+    },
+    {
+      "added_at": "2026-11-13 05:07:39",
+      "album": {
+        "name": "Superbloom (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2EJYUIinC3NXtlsFbJtCXX"
+      },
+      "artists": [
+        {
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+        }
+      ],
+      "duration_ms": 258218,
+      "name": "Middle Of The Night",
+      "url": "https://open.spotify.com/track/2CTiUfh0kMF5znU84IdjtP"
+    },
+    {
+      "added_at": "2026-11-13 05:07:39",
+      "album": {
+        "name": "Blood In Your Eyes (from GTAVI: The Album)",
+        "url": "https://open.spotify.com/album/2J5ttiLhgBPxcLyHlhQVKO"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+        }
+      ],
+      "duration_ms": 161219,
+      "name": "Blood In Your Eyes (from GTAVI: The Album)",
+      "url": "https://open.spotify.com/track/4h3tY2zV4easaHEAbHVmgj"
+    },
+    {
+      "added_at": "2026-11-09 19:58:55",
+      "album": {
+        "name": "I thought this story wasn't about me",
+        "url": "https://open.spotify.com/album/55gOYkg8IO4xnIG5JX6JoQ"
+      },
+      "artists": [
+        {
+          "name": "Tove Styrke",
+          "url": "https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9"
+        }
+      ],
+      "duration_ms": 232625,
+      "name": "Look at me",
+      "url": "https://open.spotify.com/track/13bvOqa51xIYWBcOmjOrIk"
+    },
+    {
+      "added_at": "2026-11-06 05:04:05",
+      "album": {
         "name": "Keke Frankenstein",
         "url": "https://open.spotify.com/album/4FL0bUi6VywmFojLNdfjiG"
       },
@@ -103,6 +155,22 @@
       "duration_ms": 225115,
       "name": "Keke Frankenstein",
       "url": "https://open.spotify.com/track/1PdmL1s1euX6Gj0GD6hXc6"
+    },
+    {
+      "added_at": "2026-11-06 05:04:05",
+      "album": {
+        "name": "PRIMA",
+        "url": "https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs"
+      },
+      "artists": [
+        {
+          "name": "AD\u00c9LA",
+          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
+        }
+      ],
+      "duration_ms": 181270,
+      "name": "Nicole Kidman",
+      "url": "https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J"
     },
     {
       "added_at": "2026-11-06 05:04:05",
@@ -151,6 +219,22 @@
       "duration_ms": 156785,
       "name": "Swear On My Sex Life",
       "url": "https://open.spotify.com/track/6Dc2SEXILrBwqWmB1pdqrK"
+    },
+    {
+      "added_at": "2026-11-13 05:07:39",
+      "album": {
+        "name": "Meet Me on the Dance Floor (from the Netflix Film \"Steps\")",
+        "url": "https://open.spotify.com/album/3Pv7ot40kesmbFjZq17RJr"
+      },
+      "artists": [
+        {
+          "name": "Rose Gray",
+          "url": "https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA"
+        }
+      ],
+      "duration_ms": 178920,
+      "name": "Meet Me on the Dance Floor (from the Netflix Film \"Steps\")",
+      "url": "https://open.spotify.com/track/1DmjYF2U6PZg2CxbDoYEHM"
     },
     {
       "added_at": "2026-11-06 05:04:05",
@@ -217,6 +301,22 @@
       "url": "https://open.spotify.com/track/20R5YwjmKubeva79prlvJq"
     },
     {
+      "added_at": "2026-11-13 05:07:39",
+      "album": {
+        "name": "The Pursuit of Pleasure",
+        "url": "https://open.spotify.com/album/0tNBGI5xTcJ6FSC1h12uv3"
+      },
+      "artists": [
+        {
+          "name": "Cherry Bomb",
+          "url": "https://open.spotify.com/artist/2MpXbvJeuKYA2qyxdB0eCM"
+        }
+      ],
+      "duration_ms": 203440,
+      "name": "Oxymoronic",
+      "url": "https://open.spotify.com/track/5h7cDSDXfZMEL2yPiz8LW4"
+    },
+    {
       "added_at": "2026-11-06 05:04:05",
       "album": {
         "name": "Masochist",
@@ -247,22 +347,6 @@
       "duration_ms": 189911,
       "name": "Midnight for the Masses",
       "url": "https://open.spotify.com/track/1V7SqxPE3quY2KblkCFhmr"
-    },
-    {
-      "added_at": "2026-11-06 05:04:05",
-      "album": {
-        "name": "PRIMA",
-        "url": "https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs"
-      },
-      "artists": [
-        {
-          "name": "AD\u00c9LA",
-          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
-        }
-      ],
-      "duration_ms": 181270,
-      "name": "Nicole Kidman",
-      "url": "https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J"
     },
     {
       "added_at": "2026-11-06 05:04:05",
@@ -595,22 +679,6 @@
     {
       "added_at": "2026-11-06 05:04:05",
       "album": {
-        "name": "ESTRUS",
-        "url": "https://open.spotify.com/album/6di14tEch7EQ0jMglRwcf6"
-      },
-      "artists": [
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        }
-      ],
-      "duration_ms": 193792,
-      "name": "are we on a break",
-      "url": "https://open.spotify.com/track/0hVOaQJ9anyS9jylMcqg9s"
-    },
-    {
-      "added_at": "2026-11-06 05:04:05",
-      "album": {
         "name": "Sweat",
         "url": "https://open.spotify.com/album/4D8K3auIXNdxTvDBLgsgL8"
       },
@@ -763,22 +831,6 @@
       "duration_ms": 173680,
       "name": "Lucky - Spotify Singles",
       "url": "https://open.spotify.com/track/3mlGZG9LEBTBlTaR9EVS99"
-    },
-    {
-      "added_at": "2026-11-06 05:04:05",
-      "album": {
-        "name": "Blink Twice",
-        "url": "https://open.spotify.com/album/0bNqctvjXrsdGVdZ0hWnPe"
-      },
-      "artists": [
-        {
-          "name": "Rose Gray",
-          "url": "https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA"
-        }
-      ],
-      "duration_ms": 200204,
-      "name": "Blink Twice",
-      "url": "https://open.spotify.com/track/5A8YVeEtelHwCxWodW6KrP"
     },
     {
       "added_at": "2026-11-06 05:04:05",
@@ -1011,22 +1063,6 @@
     {
       "added_at": "2026-11-06 05:04:05",
       "album": {
-        "name": "Myriad Reflector",
-        "url": "https://open.spotify.com/album/7JEEAscH1dvsz0dr6lCEXV"
-      },
-      "artists": [
-        {
-          "name": "Cherry Bomb",
-          "url": "https://open.spotify.com/artist/2MpXbvJeuKYA2qyxdB0eCM"
-        }
-      ],
-      "duration_ms": 198509,
-      "name": "Myriad Reflector",
-      "url": "https://open.spotify.com/track/3IHVJz2gCt9U9goWpG4hcb"
-    },
-    {
-      "added_at": "2026-11-06 05:04:05",
-      "album": {
         "name": "Love Sensation",
         "url": "https://open.spotify.com/album/4b0rAUWZJA6s3RQC3zIguc"
       },
@@ -1191,26 +1227,6 @@
       "duration_ms": 184927,
       "name": "Ain't In LA",
       "url": "https://open.spotify.com/track/02HyFYmpzt02VJ8k0CqxKj"
-    },
-    {
-      "added_at": "2026-11-06 05:04:05",
-      "album": {
-        "name": "Talk To Me, Zara",
-        "url": "https://open.spotify.com/album/5geHXgOaOjbB15V5Yx1bqM"
-      },
-      "artists": [
-        {
-          "name": "Robyn",
-          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
-        },
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 193350,
-      "name": "Talk To Me, Zara",
-      "url": "https://open.spotify.com/track/58bQU5JRk0sBMUMdRy7sjk"
     },
     {
       "added_at": "2026-11-06 05:04:05",
@@ -1555,22 +1571,6 @@
       "duration_ms": 200200,
       "name": "Sign From God",
       "url": "https://open.spotify.com/track/465ZH6T2yFlcvb7B4J4M05"
-    },
-    {
-      "added_at": "2026-11-06 05:04:05",
-      "album": {
-        "name": "DANCE...",
-        "url": "https://open.spotify.com/album/0aUf8eGa6qyxQT9OWZR09v"
-      },
-      "artists": [
-        {
-          "name": "Slayyyter",
-          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
-        }
-      ],
-      "duration_ms": 287055,
-      "name": "DANCE...",
-      "url": "https://open.spotify.com/track/5rfOARz6QO73wPATyMtQQZ"
     },
     {
       "added_at": "2026-11-06 05:04:05",

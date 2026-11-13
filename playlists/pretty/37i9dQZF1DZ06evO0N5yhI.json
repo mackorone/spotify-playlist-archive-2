@@ -1,12 +1,12 @@
 {
   "description": "This is Phoebe Bridgers. The essential tracks, all in one playlist.",
-  "num_followers": 156203,
+  "num_followers": 156280,
   "original_name": "This Is Phoebe Bridgers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avENAAAAAADKZgVmWXjF/VdAlXUu1Bec",
+  "snapshot_id": "avOwAAAAAADCnkVBZJm1e8aIOrZQdBsR",
   "tracks": [
     {
       "added_at": null,
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
         }
       ],
-      "duration_ms": 219681,
-      "name": "Garden Song",
-      "url": "https://open.spotify.com/track/5bIgzvxvlefRUCQK9JPocF"
+      "duration_ms": 189622,
+      "name": "Punisher",
+      "url": "https://open.spotify.com/track/5LJ4ig9cMvjui3li1mrNRl"
     },
     {
       "added_at": null,
@@ -408,9 +408,9 @@
           "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
         }
       ],
-      "duration_ms": 189622,
-      "name": "Punisher",
-      "url": "https://open.spotify.com/track/5LJ4ig9cMvjui3li1mrNRl"
+      "duration_ms": 219681,
+      "name": "Garden Song",
+      "url": "https://open.spotify.com/track/5bIgzvxvlefRUCQK9JPocF"
     },
     {
       "added_at": null,

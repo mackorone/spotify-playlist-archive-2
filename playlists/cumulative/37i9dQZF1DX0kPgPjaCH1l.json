@@ -518,7 +518,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 169263,
       "name": "Awesome Things",
       "url": "https://open.spotify.com/track/17FiSdQ9GISHOhnVOkdTxZ"
@@ -1055,6 +1055,24 @@
     },
     {
       "album": {
+        "name": "A Street Kid's Diary (Disk 2)",
+        "url": "https://open.spotify.com/album/5XvdrswbICcbJ0sM03NaGz"
+      },
+      "artists": [
+        {
+          "name": "Tml Vibez",
+          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141333,
+      "name": "Diamond or Gold",
+      "url": "https://open.spotify.com/track/48ZLHG2xWe58tYZoNOR3Zd"
+    },
+    {
+      "album": {
         "name": "Dis Year",
         "url": "https://open.spotify.com/album/1mFajKbOGTphsgYXWqI6xk"
       },
@@ -1186,6 +1204,28 @@
       "duration_ms": 208500,
       "name": "Eye Clear",
       "url": "https://open.spotify.com/track/3S0Z5qnYy6MF7EVLM3nDEB"
+    },
+    {
+      "album": {
+        "name": "Fa ye Ope le",
+        "url": "https://open.spotify.com/album/5wML2aVhLdxJB3hOsgzZ7a"
+      },
+      "artists": [
+        {
+          "name": "Rii",
+          "url": "https://open.spotify.com/artist/7qUIE0IFXYbRganFGgTvzT"
+        },
+        {
+          "name": "Pheelz",
+          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186792,
+      "name": "Fa ye Ope le",
+      "url": "https://open.spotify.com/track/3S1KdfyONSHDNkr4maEg2a"
     },
     {
       "album": {
@@ -1996,7 +2036,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 160824,
       "name": "JUNGLE",
       "url": "https://open.spotify.com/track/6hp8DmDElPmM53iOP5ZMq9"
@@ -2621,6 +2661,24 @@
     },
     {
       "album": {
+        "name": "Offline",
+        "url": "https://open.spotify.com/album/4Gu7rukCVGg6wn8gwTRE7x"
+      },
+      "artists": [
+        {
+          "name": "Priesst",
+          "url": "https://open.spotify.com/artist/4Z3LLYwCpB9OKKaSttnapP"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133605,
+      "name": "Offline",
+      "url": "https://open.spotify.com/track/52XWV7WV93wB9PHo7Vs2J2"
+    },
+    {
+      "album": {
         "name": "OFA (Oxlade From Africa)",
         "url": "https://open.spotify.com/album/1QCCsP9vKzAFLklbRwvTC5"
       },
@@ -2650,7 +2708,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 156428,
       "name": "Omo",
       "url": "https://open.spotify.com/track/2JePyTyj5nmjDe2ovgCChq"

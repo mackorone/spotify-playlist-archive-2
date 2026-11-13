@@ -1,6 +1,6 @@
 {
   "description": "A new world of alternative electronic music. Cover: CC:DISCO!",
-  "num_followers": 128445,
+  "num_followers": 128433,
   "original_name": "Portal",
   "owner": {
     "name": "Spotify",
@@ -309,22 +309,6 @@
       "url": "https://open.spotify.com/track/2vf8mbUbkwCMnW1jqRcKSO"
     },
     {
-      "added_at": "2026-10-16 04:02:25",
-      "album": {
-        "name": "Mantra",
-        "url": "https://open.spotify.com/album/3y2isq1rsZQLsjXSjIwFBL"
-      },
-      "artists": [
-        {
-          "name": "Shygirl",
-          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
-        }
-      ],
-      "duration_ms": 185330,
-      "name": "Mantra",
-      "url": "https://open.spotify.com/track/6FRKbLeBePLS0KTZqhVMgR"
-    },
-    {
       "added_at": "2026-05-06 00:22:41",
       "album": {
         "name": "SPRINTER",
@@ -339,6 +323,22 @@
       "duration_ms": 187744,
       "name": "SPRINTER",
       "url": "https://open.spotify.com/track/4KLPZfyMkOkJTCZ4i3luha"
+    },
+    {
+      "added_at": "2026-10-16 04:02:25",
+      "album": {
+        "name": "Mantra",
+        "url": "https://open.spotify.com/album/3y2isq1rsZQLsjXSjIwFBL"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        }
+      ],
+      "duration_ms": 185330,
+      "name": "Mantra",
+      "url": "https://open.spotify.com/track/6FRKbLeBePLS0KTZqhVMgR"
     },
     {
       "added_at": "2026-10-01 14:00:09",
@@ -397,22 +397,6 @@
       "url": "https://open.spotify.com/track/4zI0wuANmj9DNkBOgXU5Wh"
     },
     {
-      "added_at": "2026-08-20 14:00:37",
-      "album": {
-        "name": "Alyse",
-        "url": "https://open.spotify.com/album/3S4XqwT4tjFW1f6R1kmlo3"
-      },
-      "artists": [
-        {
-          "name": "Shygirl",
-          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
-        }
-      ],
-      "duration_ms": 231477,
-      "name": "Alyse",
-      "url": "https://open.spotify.com/track/3KJ9LSGMl7vTZ1lHIP2CBZ"
-    },
-    {
       "added_at": "2026-05-06 00:22:41",
       "album": {
         "name": "Tastes Like The 90s",
@@ -427,6 +411,22 @@
       "duration_ms": 201247,
       "name": "Old' On",
       "url": "https://open.spotify.com/track/38zrbBzmIUC4OPL2NUBx4n"
+    },
+    {
+      "added_at": "2026-08-20 14:00:37",
+      "album": {
+        "name": "Alyse",
+        "url": "https://open.spotify.com/album/3S4XqwT4tjFW1f6R1kmlo3"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        }
+      ],
+      "duration_ms": 231477,
+      "name": "Alyse",
+      "url": "https://open.spotify.com/track/3KJ9LSGMl7vTZ1lHIP2CBZ"
     },
     {
       "added_at": "2026-11-05 22:23:51",
@@ -469,26 +469,6 @@
       "url": "https://open.spotify.com/track/74LRqSi9vqy4vnxCLInNAw"
     },
     {
-      "added_at": "2026-05-06 00:22:41",
-      "album": {
-        "name": "you're a star",
-        "url": "https://open.spotify.com/album/3dmu97DsoFpSptXPtJEzCJ"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "Amyl and The Sniffers",
-          "url": "https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7"
-        }
-      ],
-      "duration_ms": 219130,
-      "name": "you're a star",
-      "url": "https://open.spotify.com/track/017erFbOyCrdz0yburnVGZ"
-    },
-    {
       "added_at": "2026-11-05 13:00:15",
       "album": {
         "name": "Your Shadow at Morning (Four Tet Rework)",
@@ -507,6 +487,26 @@
       "duration_ms": 577500,
       "name": "Your Shadow at Morning - Four Tet Rework",
       "url": "https://open.spotify.com/track/4Y4U1NdAExAYEqYALEgWU2"
+    },
+    {
+      "added_at": "2026-05-06 00:22:41",
+      "album": {
+        "name": "you're a star",
+        "url": "https://open.spotify.com/album/3dmu97DsoFpSptXPtJEzCJ"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Amyl and The Sniffers",
+          "url": "https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7"
+        }
+      ],
+      "duration_ms": 219130,
+      "name": "you're a star",
+      "url": "https://open.spotify.com/track/017erFbOyCrdz0yburnVGZ"
     },
     {
       "added_at": "2026-07-16 14:00:25",
@@ -929,20 +929,20 @@
       "url": "https://open.spotify.com/track/7JvuiP16UTKCnieS9E2Bg3"
     },
     {
-      "added_at": "2026-05-06 00:22:41",
+      "added_at": "2026-11-05 13:00:15",
       "album": {
-        "name": "Mad",
-        "url": "https://open.spotify.com/album/4pDwGAeGYaZB0Nee3q13ch"
+        "name": "Maybe",
+        "url": "https://open.spotify.com/album/3EmDGlGCYEWrs05H0JJ4gO"
       },
       "artists": [
         {
-          "name": "Effy",
-          "url": "https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0"
+          "name": "KH",
+          "url": "https://open.spotify.com/artist/7nwdEDnfgNpPhWQCXX3KSx"
         }
       ],
-      "duration_ms": 238571,
-      "name": "Mad",
-      "url": "https://open.spotify.com/track/4i2PhAH8B2dOtPsRY5EluD"
+      "duration_ms": 317480,
+      "name": "Maybe",
+      "url": "https://open.spotify.com/track/0Od0JSjrcDmahzUiB5QepD"
     }
   ],
   "unique_name": "Portal",

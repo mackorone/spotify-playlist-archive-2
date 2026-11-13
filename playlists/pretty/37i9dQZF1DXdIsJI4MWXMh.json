@@ -1,6 +1,6 @@
 {
   "description": "\u00a1A gastar la suela con lo mejor de la ranchera chilena! Foto: La Descendencia Chilena",
-  "num_followers": 86190,
+  "num_followers": 86202,
   "original_name": "Ranchera Chilena",
   "owner": {
     "name": "Spotify",
@@ -187,22 +187,22 @@
     {
       "added_at": "2026-09-11 21:07:48",
       "album": {
-        "name": "Escribiendo Nuestra Historia",
-        "url": "https://open.spotify.com/album/5XE8kPI7VGYBwczrlaL1Xb"
+        "name": "Bella",
+        "url": "https://open.spotify.com/album/6cjrGGDQs8xmKCNGQ831E5"
       },
       "artists": [
         {
-          "name": "L\u00edderes de Chile",
-          "url": "https://open.spotify.com/artist/12zgyV8SaxwtdtS3E7mCUj"
+          "name": "Grupo Z\u00fambale Primo",
+          "url": "https://open.spotify.com/artist/7hwlbJCUBQksiqlloB6x9K"
         },
         {
-          "name": "Zona Ranchera",
-          "url": "https://open.spotify.com/artist/7Cl7eiETaiSr1HrZ4PhmaZ"
+          "name": "Coraz\u00f3n Serrano",
+          "url": "https://open.spotify.com/artist/4UuICMmKQKNyCJfBg6lFFD"
         }
       ],
-      "duration_ms": 200707,
-      "name": "Si Te Falta Alguien",
-      "url": "https://open.spotify.com/track/68IpmmsVKuLYXy3IHXSO5l"
+      "duration_ms": 200003,
+      "name": "Bella",
+      "url": "https://open.spotify.com/track/1xvnIbO3HaGyalKxPD1EMV"
     },
     {
       "added_at": "2026-09-11 21:07:48",
@@ -255,6 +255,26 @@
     {
       "added_at": "2026-09-11 21:07:48",
       "album": {
+        "name": "Escribiendo Nuestra Historia",
+        "url": "https://open.spotify.com/album/5XE8kPI7VGYBwczrlaL1Xb"
+      },
+      "artists": [
+        {
+          "name": "L\u00edderes de Chile",
+          "url": "https://open.spotify.com/artist/12zgyV8SaxwtdtS3E7mCUj"
+        },
+        {
+          "name": "Zona Ranchera",
+          "url": "https://open.spotify.com/artist/7Cl7eiETaiSr1HrZ4PhmaZ"
+        }
+      ],
+      "duration_ms": 200707,
+      "name": "Si Te Falta Alguien",
+      "url": "https://open.spotify.com/track/68IpmmsVKuLYXy3IHXSO5l"
+    },
+    {
+      "added_at": "2026-09-11 21:07:48",
+      "album": {
         "name": "De Padre Desconocido",
         "url": "https://open.spotify.com/album/6hsBJneAqhFImnsdNDL6ZW"
       },
@@ -267,26 +287,6 @@
       "duration_ms": 154266,
       "name": "Ni Por Mil Pu\u00f1ados De Oro",
       "url": "https://open.spotify.com/track/1Xo6UbLWD2INjx1vMT7FUh"
-    },
-    {
-      "added_at": "2026-09-11 21:07:48",
-      "album": {
-        "name": "Bella",
-        "url": "https://open.spotify.com/album/6cjrGGDQs8xmKCNGQ831E5"
-      },
-      "artists": [
-        {
-          "name": "Grupo Z\u00fambale Primo",
-          "url": "https://open.spotify.com/artist/7hwlbJCUBQksiqlloB6x9K"
-        },
-        {
-          "name": "Coraz\u00f3n Serrano",
-          "url": "https://open.spotify.com/artist/4UuICMmKQKNyCJfBg6lFFD"
-        }
-      ],
-      "duration_ms": 200003,
-      "name": "Bella",
-      "url": "https://open.spotify.com/track/1xvnIbO3HaGyalKxPD1EMV"
     },
     {
       "added_at": "2026-09-11 21:07:48",
@@ -323,22 +323,6 @@
     {
       "added_at": "2026-09-11 21:07:48",
       "album": {
-        "name": "El Primer Paso",
-        "url": "https://open.spotify.com/album/3SbUOk7NQTSnCCGCyxKzsq"
-      },
-      "artists": [
-        {
-          "name": "Grupo Disparo",
-          "url": "https://open.spotify.com/artist/2ebfwnFBy7LnU8m14ZfHvU"
-        }
-      ],
-      "duration_ms": 227379,
-      "name": "Directo al Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/3OPwXK8RsSylbkQQgA5IRV"
-    },
-    {
-      "added_at": "2026-09-11 21:07:48",
-      "album": {
         "name": "Ni\u00e9game",
         "url": "https://open.spotify.com/album/15xRNUgyWm1hvDcYGT7mJB"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 163576,
       "name": "Ni\u00e9game",
       "url": "https://open.spotify.com/track/4stFQZDW8THC9osyyTCDwX"
+    },
+    {
+      "added_at": "2026-09-11 21:07:48",
+      "album": {
+        "name": "El Primer Paso",
+        "url": "https://open.spotify.com/album/3SbUOk7NQTSnCCGCyxKzsq"
+      },
+      "artists": [
+        {
+          "name": "Grupo Disparo",
+          "url": "https://open.spotify.com/artist/2ebfwnFBy7LnU8m14ZfHvU"
+        }
+      ],
+      "duration_ms": 227379,
+      "name": "Directo al Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/3OPwXK8RsSylbkQQgA5IRV"
     },
     {
       "added_at": "2026-09-11 21:07:48",
@@ -887,22 +887,6 @@
     {
       "added_at": "2026-09-11 21:07:48",
       "album": {
-        "name": "La Bella y la Bestia",
-        "url": "https://open.spotify.com/album/3uzaS6D2FiktrOOz8q8Uwe"
-      },
-      "artists": [
-        {
-          "name": "Los Rancheros de Quilleco",
-          "url": "https://open.spotify.com/artist/1rRjhEozUEpIHwGveSLhqx"
-        }
-      ],
-      "duration_ms": 229084,
-      "name": "La Bella y la Bestia",
-      "url": "https://open.spotify.com/track/3K1eKkz623cGkxHDr3IAo1"
-    },
-    {
-      "added_at": "2026-09-11 21:07:48",
-      "album": {
         "name": "Qu\u00e9date con el",
         "url": "https://open.spotify.com/album/14YwCCN4AgfFiN4hodKPiy"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 328974,
       "name": "Ahora por unas monedas",
       "url": "https://open.spotify.com/track/1erKBpcUesKt1298eTTDOQ"
+    },
+    {
+      "added_at": "2026-09-11 21:07:48",
+      "album": {
+        "name": "La Bella y la Bestia",
+        "url": "https://open.spotify.com/album/3uzaS6D2FiktrOOz8q8Uwe"
+      },
+      "artists": [
+        {
+          "name": "Los Rancheros de Quilleco",
+          "url": "https://open.spotify.com/artist/1rRjhEozUEpIHwGveSLhqx"
+        }
+      ],
+      "duration_ms": 229084,
+      "name": "La Bella y la Bestia",
+      "url": "https://open.spotify.com/track/3K1eKkz623cGkxHDr3IAo1"
     },
     {
       "added_at": "2026-09-11 21:07:48",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2026-09-11 21:07:48",
       "album": {
-        "name": "12 A\u00f1os de Historia",
-        "url": "https://open.spotify.com/album/26Mb8YUJfW0yhdUmu3YWjn"
-      },
-      "artists": [
-        {
-          "name": "Los Cumbieros",
-          "url": "https://open.spotify.com/artist/1oxiRPCo3i3tVs9nbcIYdF"
-        }
-      ],
-      "duration_ms": 178586,
-      "name": "La Rumbera",
-      "url": "https://open.spotify.com/track/7FM9C1MThKu9AlMltdBZDL"
-    },
-    {
-      "added_at": "2026-09-11 21:07:48",
-      "album": {
         "name": "Somos Infieles",
         "url": "https://open.spotify.com/album/4vNNb74WGZJl9cCWQjmrpC"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 199527,
       "name": "Somos Infieles",
       "url": "https://open.spotify.com/track/0xxqACHxwwhP4r51GmnRrU"
+    },
+    {
+      "added_at": "2026-09-11 21:07:48",
+      "album": {
+        "name": "12 A\u00f1os de Historia",
+        "url": "https://open.spotify.com/album/26Mb8YUJfW0yhdUmu3YWjn"
+      },
+      "artists": [
+        {
+          "name": "Los Cumbieros",
+          "url": "https://open.spotify.com/artist/1oxiRPCo3i3tVs9nbcIYdF"
+        }
+      ],
+      "duration_ms": 178586,
+      "name": "La Rumbera",
+      "url": "https://open.spotify.com/track/7FM9C1MThKu9AlMltdBZDL"
     },
     {
       "added_at": "2026-09-11 21:07:48",
@@ -1691,26 +1691,6 @@
     {
       "added_at": "2026-09-11 21:07:48",
       "album": {
-        "name": "Soy Adicto a Ti",
-        "url": "https://open.spotify.com/album/4tbMDw4jqlV2ENzdLz7Hid"
-      },
-      "artists": [
-        {
-          "name": "LOS HUASOS DEL SUR",
-          "url": "https://open.spotify.com/artist/4HA64bodqMjAmWg1Eud5yq"
-        },
-        {
-          "name": "Zona Ranchera",
-          "url": "https://open.spotify.com/artist/7Cl7eiETaiSr1HrZ4PhmaZ"
-        }
-      ],
-      "duration_ms": 262500,
-      "name": "Soy Adicto a Ti",
-      "url": "https://open.spotify.com/track/559VSAiv3rFTDrmkfv7nQd"
-    },
-    {
-      "added_at": "2026-09-11 21:07:48",
-      "album": {
         "name": "Amor Salvaje",
         "url": "https://open.spotify.com/album/3OlgaCIkeTik7DXfCzI0R4"
       },
@@ -1727,6 +1707,26 @@
       "duration_ms": 307966,
       "name": "Amor Salvaje",
       "url": "https://open.spotify.com/track/0lMyqrSIdwDgOfBOMN4AeU"
+    },
+    {
+      "added_at": "2026-09-11 21:07:48",
+      "album": {
+        "name": "Soy Adicto a Ti",
+        "url": "https://open.spotify.com/album/4tbMDw4jqlV2ENzdLz7Hid"
+      },
+      "artists": [
+        {
+          "name": "LOS HUASOS DEL SUR",
+          "url": "https://open.spotify.com/artist/4HA64bodqMjAmWg1Eud5yq"
+        },
+        {
+          "name": "Zona Ranchera",
+          "url": "https://open.spotify.com/artist/7Cl7eiETaiSr1HrZ4PhmaZ"
+        }
+      ],
+      "duration_ms": 262500,
+      "name": "Soy Adicto a Ti",
+      "url": "https://open.spotify.com/track/559VSAiv3rFTDrmkfv7nQd"
     }
   ],
   "unique_name": "Ranchera Chilena",

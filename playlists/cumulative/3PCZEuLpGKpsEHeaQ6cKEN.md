@@ -4,7 +4,7 @@
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \|
 
-1,921 songs - 4 day 5 hr 56 min
+1,923 songs - 4 day 6 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -614,6 +614,7 @@
 | [Give Me Love](https://open.spotify.com/track/1kDY6D2JWeRXIquoaATp1Z) | [Nico de Andrea](https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD), [ARCH](https://open.spotify.com/artist/3PqkEQBbtWdgKCWdNXdYrN), [Cerrone](https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM) | [Give Me Love](https://open.spotify.com/album/2rZCryxqON7uvf1oNq6wTL) | 3:52 | 2026-06-19 |  |
 | [Giving It Up](https://open.spotify.com/track/3fbjcTsHFp2e93nvsWkgvH) | [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO) | [Giving It Up](https://open.spotify.com/album/31EtaKwDJPoOkh7Hdg67DB) | 3:13 | 2026-11-06 |  |
 | [Glamorous](https://open.spotify.com/track/1TDUJPr5y73gtWYVCI7QAr) | [Andrew Dum](https://open.spotify.com/artist/2zM7bifXg4U3VopmsgSJVg), [Eran Hersh](https://open.spotify.com/artist/5cqctR1IEdc11lN3KEmoGW) | [Glamorous](https://open.spotify.com/album/6NCaB3ZXx02DQ9oGCqHvgY) | 3:37 | 2025-02-13 | 2025-04-18 |
+| [Go All Night](https://open.spotify.com/track/7g44gG5ob8pZSsScVqQJv0) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Mary Jensen](https://open.spotify.com/artist/3Lhhz2OmsLzPNnSrhij4XB) | [Go All Night](https://open.spotify.com/album/5lHe5xtXmY03UEfCcgLtNu) | 3:10 | 2026-11-13 |  |
 | [God Complex](https://open.spotify.com/track/3ujrxclgI5IGFpGGcid37R) | [GREG 99](https://open.spotify.com/artist/68ocQOFVB9wvLiC1C1WjYp) | [God Complex](https://open.spotify.com/album/70AuVBXEEwDaSprdXbyf2O) | 3:25 | 2026-07-03 |  |
 | [God Help Me](https://open.spotify.com/track/0sYX4xy9oCJSUXPgTYEh6y) | [Bryan Kearney](https://open.spotify.com/artist/5fBbVsFxoa0jDCqocaEdBx), [Plumb](https://open.spotify.com/artist/2tbxcCCM7A71cmkzuB8lyH) | [God Help Me](https://open.spotify.com/album/3k6BqFqGZCMe9rBjznbDAg) | 4:12 | 2025-05-29 |  |
 | [God Is In The Soundwaves](https://open.spotify.com/track/4ma5F23p1jHkuEalMNulv7) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Xoro](https://open.spotify.com/artist/6FzKLPWkSD5Ivq2mU98uqf), [Yola Recoba](https://open.spotify.com/artist/7gvpJzKMMMQsdLqWF4SKs7) | [Breathe In](https://open.spotify.com/album/5O5omtkIR6DrDMKM8YCHmw) | 2:43 | 2024-01-18 | 2024-01-27 |
@@ -1052,6 +1053,7 @@
 | [Marama \(Moon & Stars\)](https://open.spotify.com/track/5dVw9ZFGFuNuKQrl7Lh9xi) | [Ferry Corsten](https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP), [Gouryella](https://open.spotify.com/artist/1JKDQ9CDwfLKUrhO6KYaki), [Saskia Lie\-Atjam](https://open.spotify.com/artist/6KnfZXg7Cg5eIMMLHy7TNJ) | [Marama \(Moon & Stars\)](https://open.spotify.com/album/3Uz5kXthMmPqTxdJwwKT17) | 3:51 | 2025-05-15 |  |
 | [March](https://open.spotify.com/track/5rHtWHjkZqpk7MsoAhwM95) | [Goom Gum](https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec) | [March](https://open.spotify.com/album/42ypcJzGwCmfop9RLDo6lW) | 3:30 | 2026-09-11 |  |
 | [Maria Maria \(feat\. Matthew Clanton\)](https://open.spotify.com/track/08UMJkKYltb67u9dHVlj8P) | [Giorgio Gee](https://open.spotify.com/artist/2uNkbVQ2yfwLDR79cYe92R), [Noize Generation](https://open.spotify.com/artist/0KETuRn1Qq622O6Q0WN1r9), [Matthew Clanton](https://open.spotify.com/artist/2dZXivub7kYr8u7cAIfFpT) | [Maria Maria \(feat\. Matthew Clanton\)](https://open.spotify.com/album/4looyjj1OsMTR4cpexpBHU) | 2:25 | 2023-02-17 | 2023-07-14 |
+| [Mary Go Wild!](https://open.spotify.com/track/2kxmziFdxAjMBLAd8Rz2sZ) | [Grooveyard](https://open.spotify.com/artist/3LThgBIEhmkTZCJ6q7Jkzf) | [Mary Go Wild!](https://open.spotify.com/album/0NiFMJ5WgYExRdIo4sGtTn) | 3:04 | 2026-11-12 |  |
 | [Mason's Daughter](https://open.spotify.com/track/2oBPXcf3mfv2OkeI8bWTFf) | [Lufthaus](https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU), [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Visions, Vol\. 1](https://open.spotify.com/album/4u118aJAyUdQmQAmyTdSyb) | 4:33 | 2023-12-07 | 2024-04-12 |
 | [Matter Of Time](https://open.spotify.com/track/7i5cFCdJt2jAqtaPhwnBJI) | [MŪNTII](https://open.spotify.com/artist/5fomjHx6JSVq8nCgHgxsAI) | [Matter Of Time](https://open.spotify.com/album/5hhtgaghc9eZ3TZcmfmbOt) | 2:50 | 2022-06-09 | 2022-09-16 |
 | [Memories](https://open.spotify.com/track/7xLsq83wIchL3bpqOcpcgI) | [Will Clarke](https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi), [Georgia Meek](https://open.spotify.com/artist/2SdZ3VbhjVRXo11kPxVCTS) | [Memories](https://open.spotify.com/album/31g9lmt75aJ44WwGzCINYf) | 3:08 | 2024-08-15 | 2025-04-04 |

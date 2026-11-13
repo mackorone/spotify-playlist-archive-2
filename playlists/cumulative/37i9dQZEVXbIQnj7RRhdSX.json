@@ -9670,7 +9670,7 @@
       ],
       "date_added": "2026-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-09",
+      "date_removed": null,
       "duration_ms": 210400,
       "name": "BUONANOTTE ANCHE STANOTTE",
       "url": "https://open.spotify.com/track/05cxuAZUr1KgLBP2wL2S6l"
@@ -10462,7 +10462,7 @@
       ],
       "date_added": "2026-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 194184,
       "name": "Canto d\u2019amore (con Marco Mengoni)",
       "url": "https://open.spotify.com/track/0yIboyKspqH4hoisim9UY1"
@@ -11344,7 +11344,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-12",
+      "date_removed": null,
       "duration_ms": 188000,
       "name": "CASINI",
       "url": "https://open.spotify.com/track/2E8t8hDqKvFqSEwmD7Q8zd"
@@ -20242,7 +20242,7 @@
       ],
       "date_added": "2026-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 198001,
       "name": "Eroina (feat. Tutti Fenomeni)",
       "url": "https://open.spotify.com/track/56n5UQJ0SDVaxwQNnu90ee"
@@ -24636,7 +24636,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 168342,
       "name": "Giovani Re",
       "url": "https://open.spotify.com/track/7aNsNTpMq7D4fffUiYKXNR"
@@ -27102,7 +27102,7 @@
       ],
       "date_added": "2026-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 208810,
       "name": "Housewife",
       "url": "https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0"
@@ -31328,7 +31328,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 211453,
       "name": "L'Amore Non Mi Basta",
       "url": "https://open.spotify.com/track/01PuEcSSxP84CO9yaXtsyp"
@@ -31346,7 +31346,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-06",
+      "date_removed": null,
       "duration_ms": 211453,
       "name": "L'Amore Non Mi Basta",
       "url": "https://open.spotify.com/track/1YaSQXYPqhwtw35Wf3Z0nI"
@@ -33302,7 +33302,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-06",
+      "date_removed": null,
       "duration_ms": 192040,
       "name": "La tua canzone",
       "url": "https://open.spotify.com/track/17ctLiAYSfZkL8ksjtSchO"
@@ -35057,6 +35057,24 @@
     },
     {
       "album": {
+        "name": "Livia",
+        "url": "https://open.spotify.com/album/1vY2EV7xUogYoCDCYgW2JT"
+      },
+      "artists": [
+        {
+          "name": "Gazzelle",
+          "url": "https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193212,
+      "name": "Livia",
+      "url": "https://open.spotify.com/track/2VbW3QMaYI36FrWdg0IerY"
+    },
+    {
+      "album": {
         "name": "FERITE (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7g7002AcxLMerhLQEA8naR"
       },
@@ -36776,6 +36794,24 @@
       "duration_ms": 123392,
       "name": "maledetta primavera",
       "url": "https://open.spotify.com/track/3dwOv0XXmyWRcyc7jz1VmL"
+    },
+    {
+      "album": {
+        "name": "Il mio prossimo amore (2021 Remaster)",
+        "url": "https://open.spotify.com/album/0i5CzgqHHy4KWkaN1xR35n"
+      },
+      "artists": [
+        {
+          "name": "Loretta Goggi",
+          "url": "https://open.spotify.com/artist/0r310cYIlI5aMcuDTChNlO"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252451,
+      "name": "Maledetta primavera - 2021 Remaster",
+      "url": "https://open.spotify.com/track/12xYwI2fztwjKRa9UcOgNz"
     },
     {
       "album": {
@@ -57224,7 +57260,7 @@
       ],
       "date_added": "2025-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 176000,
       "name": "SOGNO AMERICANO",
       "url": "https://open.spotify.com/track/7i0zYckMTyvLyKAFxfOKIS"

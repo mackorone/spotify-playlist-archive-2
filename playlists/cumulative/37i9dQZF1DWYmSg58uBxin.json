@@ -301,6 +301,24 @@
     },
     {
       "album": {
+        "name": "Another Life",
+        "url": "https://open.spotify.com/album/7gu3l5q6oTdZ26SdffW3fe"
+      },
+      "artists": [
+        {
+          "name": "Daniel Arvo",
+          "url": "https://open.spotify.com/artist/1mHFSQR7dBZO09YhknD1ic"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152041,
+      "name": "Another Life",
+      "url": "https://open.spotify.com/track/5DmrE0oshlw7pSpdOGjUgF"
+    },
+    {
+      "album": {
         "name": "Apr\u00e8s Tout",
         "url": "https://open.spotify.com/album/1nCHPH8qrolGyCbQ6gXtl3"
       },
@@ -4024,6 +4042,24 @@
       "duration_ms": 153000,
       "name": "Papperssvalan",
       "url": "https://open.spotify.com/track/537FP4rNU5SILZ5uWF2zDi"
+    },
+    {
+      "album": {
+        "name": "Para Siempre",
+        "url": "https://open.spotify.com/album/0rY5khx8swWUwtehgldf43"
+      },
+      "artists": [
+        {
+          "name": "Mats T\u00e4rnfors",
+          "url": "https://open.spotify.com/artist/5PkNELD0DuzkqW2I7X0ND1"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145691,
+      "name": "Para Siempre",
+      "url": "https://open.spotify.com/track/0jYFSmRyjDoKyR4Z1mTVJl"
     },
     {
       "album": {

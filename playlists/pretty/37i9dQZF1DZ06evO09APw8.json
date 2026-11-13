@@ -1,12 +1,12 @@
 {
   "description": "This is Leon Thomas. The essential tracks, all in one playlist.",
-  "num_followers": 25836,
+  "num_followers": 25858,
   "original_name": "This Is Leon Thomas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avENAAAAAADI8CUP6tUKvU4FDI9A5Voh",
+  "snapshot_id": "avOwAAAAAADeQE9GRK7l/M4b3mcmWp9+",
   "tracks": [
     {
       "added_at": null,
@@ -303,22 +303,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oriad\u00e9",
-        "url": "https://open.spotify.com/album/43hCvloofcUeEmpK6RFldz"
+        "name": "ALOUD!",
+        "url": "https://open.spotify.com/album/4FDFTveKB14lSEgYJePS8D"
       },
       "artists": [
         {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
         },
         {
           "name": "Leon Thomas",
           "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
         }
       ],
-      "duration_ms": 150147,
-      "name": "Tell Everybody (feat. Leon Thomas)",
-      "url": "https://open.spotify.com/track/23tywY9NLMzeejiRxMU4GY"
+      "duration_ms": 194526,
+      "name": "Fly U Out",
+      "url": "https://open.spotify.com/track/0J6kLqNvkt4IYOmyvOBiWA"
     },
     {
       "added_at": null,
@@ -343,22 +343,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "ALOUD!",
-        "url": "https://open.spotify.com/album/4FDFTveKB14lSEgYJePS8D"
+        "name": "Oriad\u00e9",
+        "url": "https://open.spotify.com/album/43hCvloofcUeEmpK6RFldz"
       },
       "artists": [
         {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
         },
         {
           "name": "Leon Thomas",
           "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
         }
       ],
-      "duration_ms": 194526,
-      "name": "Fly U Out",
-      "url": "https://open.spotify.com/track/0J6kLqNvkt4IYOmyvOBiWA"
+      "duration_ms": 150147,
+      "name": "Tell Everybody (feat. Leon Thomas)",
+      "url": "https://open.spotify.com/track/23tywY9NLMzeejiRxMU4GY"
     },
     {
       "added_at": null,
@@ -447,22 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Electric Dusk",
-        "url": "https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT"
-      },
-      "artists": [
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 179478,
-      "name": "Sneak",
-      "url": "https://open.spotify.com/track/17InvVlFT4I30J7mdeuorn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MUTT Deluxe: HEEL",
         "url": "https://open.spotify.com/album/5m3rVDTPrTRwSgkKsvSYEL"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 219607,
       "name": "DIRT ON MY SHOES (feat. Kehlani)",
       "url": "https://open.spotify.com/track/2AA05NFvw5tPQ9pvj68fsY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Electric Dusk",
+        "url": "https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 179478,
+      "name": "Sneak",
+      "url": "https://open.spotify.com/track/17InvVlFT4I30J7mdeuorn"
     },
     {
       "added_at": null,
@@ -531,6 +531,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "MUTT Deluxe: HEEL",
+        "url": "https://open.spotify.com/album/5m3rVDTPrTRwSgkKsvSYEL"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 282181,
+      "name": "CATCH A STRAY",
+      "url": "https://open.spotify.com/track/2bMcpeSIM5FNFCv1MK30sQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "PHOLKS",
         "url": "https://open.spotify.com/album/6ph5zbGAudn0EKyw3vXbXM"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 198158,
       "name": "Lone Wolf (feat. 4batz)",
       "url": "https://open.spotify.com/track/5fcmrNQySUNbFn3n3ktu1n"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MUTT Deluxe: HEEL",
-        "url": "https://open.spotify.com/album/5m3rVDTPrTRwSgkKsvSYEL"
-      },
-      "artists": [
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 282181,
-      "name": "CATCH A STRAY",
-      "url": "https://open.spotify.com/track/2bMcpeSIM5FNFCv1MK30sQ"
     },
     {
       "added_at": null,
@@ -767,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Genesis",
-        "url": "https://open.spotify.com/album/6RXMHSqYlYAEpDsNYYBj6B"
-      },
-      "artists": [
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 207572,
-      "name": "Sunken Place",
-      "url": "https://open.spotify.com/track/6QcSxvbao47AlbYOPv9nqv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Victorious 2.0 (More Music from the TV Show \"Victorious\")",
         "url": "https://open.spotify.com/album/0YeCXqc0HDgouocYZAw66P"
       },
@@ -807,22 +791,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "move it along (feat. Leon Thomas)",
-        "url": "https://open.spotify.com/album/5MfGLjBa8qCdAWIS0BNomR"
+        "name": "Genesis",
+        "url": "https://open.spotify.com/album/6RXMHSqYlYAEpDsNYYBj6B"
       },
       "artists": [
-        {
-          "name": "Sasha Keable",
-          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
-        },
         {
           "name": "Leon Thomas",
           "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
         }
       ],
-      "duration_ms": 195454,
-      "name": "move it along (feat. Leon Thomas)",
-      "url": "https://open.spotify.com/track/0soeyncUVADZ35kNtrLZsk"
+      "duration_ms": 207572,
+      "name": "Sunken Place",
+      "url": "https://open.spotify.com/track/6QcSxvbao47AlbYOPv9nqv"
     },
     {
       "added_at": null,
@@ -839,6 +819,26 @@
       "duration_ms": 172844,
       "name": "PRIZE",
       "url": "https://open.spotify.com/track/2kk07MkCNiOC4NAJuSHJ8d"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "move it along (feat. Leon Thomas)",
+        "url": "https://open.spotify.com/album/5MfGLjBa8qCdAWIS0BNomR"
+      },
+      "artists": [
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 195454,
+      "name": "move it along (feat. Leon Thomas)",
+      "url": "https://open.spotify.com/track/0soeyncUVADZ35kNtrLZsk"
     },
     {
       "added_at": null,

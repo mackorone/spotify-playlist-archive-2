@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-20",
-  "description": "Tracks voor de juiste vibe. Cover: Lavils",
+  "description": "Tracks voor de juiste vibe. Cover: Chanou",
   "name": "Vibes",
   "tracks": [
     {
@@ -100,7 +100,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 183912,
       "name": "1942",
       "url": "https://open.spotify.com/track/3qKvzuwafg9yd3nUlErJJz"
@@ -166,7 +166,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 166336,
       "name": "30 Degrees",
       "url": "https://open.spotify.com/track/4W04kKSZ6xD6UBqD7J8Ofq"
@@ -264,6 +264,28 @@
       "duration_ms": 142857,
       "name": "5 STERREN",
       "url": "https://open.spotify.com/track/3IArz6vZ04ql8YH9IshIB0"
+    },
+    {
+      "album": {
+        "name": "a f t e r p a r t y",
+        "url": "https://open.spotify.com/album/0LX8EQ0Fa8KVwAlS30kwqW"
+      },
+      "artists": [
+        {
+          "name": "Demi Lou",
+          "url": "https://open.spotify.com/artist/3y78r08o9kmeQZ1Mu2WtiJ"
+        },
+        {
+          "name": "Drea Dury",
+          "url": "https://open.spotify.com/artist/7euT1r89ub1s001dTqp3gh"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173271,
+      "name": "a f t e r p a r t y",
+      "url": "https://open.spotify.com/track/2Bpz2dxs7G05IOLAJWnbVG"
     },
     {
       "album": {
@@ -1869,6 +1891,24 @@
     },
     {
       "album": {
+        "name": "No Sleep In Paradise: Still Awake*",
+        "url": "https://open.spotify.com/album/1AHQF2QLVpI7u0gGJ47vPt"
+      },
+      "artists": [
+        {
+          "name": "Naomi Sharon",
+          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214925,
+      "name": "Colours",
+      "url": "https://open.spotify.com/track/79sMJBqe2kRAJddQAaIDse"
+    },
+    {
+      "album": {
         "name": "Combinatie",
         "url": "https://open.spotify.com/album/5dpVpb8NqQfV7JaFWcBzcP"
       },
@@ -2406,6 +2446,24 @@
       "duration_ms": 177011,
       "name": "DYNAMITE",
       "url": "https://open.spotify.com/track/1myE3bHoWoSO5hyr3MxdHJ"
+    },
+    {
+      "album": {
+        "name": "Echoes Van Toen",
+        "url": "https://open.spotify.com/album/2EqzKD1Sm7WMCo6h8SO78M"
+      },
+      "artists": [
+        {
+          "name": "Chanou",
+          "url": "https://open.spotify.com/artist/1wLOlcmOMs7q9HzLQkVlXT"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160882,
+      "name": "D\u00c9J\u00c0 Vu",
+      "url": "https://open.spotify.com/track/1giOZzFz4nwlc1eaFGhvST"
     },
     {
       "album": {
@@ -5156,7 +5214,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 232736,
       "name": "Man On A Mission (feat. Wizkid)",
       "url": "https://open.spotify.com/track/23wy2RcVfQRv0TYWTPfbep"
@@ -5752,7 +5810,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 142040,
       "name": "NIEMANDNODIG",
       "url": "https://open.spotify.com/track/1q8SdjVKBAOXX46U8OwxDy"
@@ -6058,7 +6116,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-13",
       "duration_ms": 173764,
       "name": "Nu Ben Ik Bij Jou",
       "url": "https://open.spotify.com/track/2FKOgObl88zCM3poyguj78"
@@ -6332,6 +6390,24 @@
       "duration_ms": 129523,
       "name": "Op Afstand - Live Versie",
       "url": "https://open.spotify.com/track/5o4o6EEnKhdRZeRYOMwpGF"
+    },
+    {
+      "album": {
+        "name": "Otro A\u00f1o Mas",
+        "url": "https://open.spotify.com/album/3XkQX7S6LbQOgB55hB3noD"
+      },
+      "artists": [
+        {
+          "name": "KILATE TESLA",
+          "url": "https://open.spotify.com/artist/3aO2Q4cXKGxsh87bX4Oavo"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "Otro A\u00f1o Mas",
+      "url": "https://open.spotify.com/track/00CkUvXjpACsasrUfjocbx"
     },
     {
       "album": {
@@ -6688,6 +6764,24 @@
       "duration_ms": 156076,
       "name": "Pil\u00e9",
       "url": "https://open.spotify.com/track/5sOXBp183GxCmKH56sH1yo"
+    },
+    {
+      "album": {
+        "name": "PINK TOY",
+        "url": "https://open.spotify.com/album/5dH2ko9TLrsYbFcUX9zrkM"
+      },
+      "artists": [
+        {
+          "name": "JANE",
+          "url": "https://open.spotify.com/artist/4ElOcm04vCIg9rGUWsJ9qe"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147906,
+      "name": "PINK TOY",
+      "url": "https://open.spotify.com/track/1zCQr6qYXdqxHIQxeeuXkc"
     },
     {
       "album": {
