@@ -1,12 +1,12 @@
 {
   "description": "This is EARTHGANG. The essential tracks, all in one playlist.",
-  "num_followers": 22510,
+  "num_followers": 22512,
   "original_name": "This Is EARTHGANG",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avOwAAAAAAC0PuXd+jBfFk8Yy8U3/tsU",
+  "snapshot_id": "avUBgAAAAAAZo/4VdBjiAmwf3ubNPWZi",
   "tracks": [
     {
       "added_at": null,
@@ -459,6 +459,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rags",
+        "url": "https://open.spotify.com/album/6vWPa9ZBLjjh7jsG4hRskQ"
+      },
+      "artists": [
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        }
+      ],
+      "duration_ms": 278083,
+      "name": "Meditate (feat. J.I.D.)",
+      "url": "https://open.spotify.com/track/0Eqm7hD828cATBLUx2fJox"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Revenge Of The Dreamers III",
         "url": "https://open.spotify.com/album/2n3quCZ0anEa46j2IveacI"
       },
@@ -479,22 +499,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rags",
-        "url": "https://open.spotify.com/album/6vWPa9ZBLjjh7jsG4hRskQ"
+        "name": "Been A Minute...",
+        "url": "https://open.spotify.com/album/7381wOtgfTOq2x3pSjkmub"
       },
       "artists": [
+        {
+          "name": "Snakehips",
+          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
+        },
         {
           "name": "EARTHGANG",
           "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
         },
         {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+          "name": "Sin\u00e9ad Harnett",
+          "url": "https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo"
         }
       ],
-      "duration_ms": 278083,
-      "name": "Meditate (feat. J.I.D.)",
-      "url": "https://open.spotify.com/track/0Eqm7hD828cATBLUx2fJox"
+      "duration_ms": 189947,
+      "name": "Been A Minute...",
+      "url": "https://open.spotify.com/track/4QRRjCZLbmnqDGtsKNEiOh"
     },
     {
       "added_at": null,
@@ -527,30 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Been A Minute...",
-        "url": "https://open.spotify.com/album/7381wOtgfTOq2x3pSjkmub"
-      },
-      "artists": [
-        {
-          "name": "Snakehips",
-          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
-        },
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        },
-        {
-          "name": "Sin\u00e9ad Harnett",
-          "url": "https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo"
-        }
-      ],
-      "duration_ms": 189947,
-      "name": "Been A Minute...",
-      "url": "https://open.spotify.com/track/4QRRjCZLbmnqDGtsKNEiOh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "moMINTs",
         "url": "https://open.spotify.com/album/0KdZJNlk291YqvUQhHYttm"
       },
@@ -575,6 +575,26 @@
       "duration_ms": 204000,
       "name": "LORD FORGIVE ME",
       "url": "https://open.spotify.com/track/10dSPiyXAM0Z1oJXRMqIn9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Songs That Made Me Feel",
+        "url": "https://open.spotify.com/album/3X8HsMV6AyN2RZp22JE7HR"
+      },
+      "artists": [
+        {
+          "name": "James Vickery",
+          "url": "https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        }
+      ],
+      "duration_ms": 202500,
+      "name": "You Comfort Me",
+      "url": "https://open.spotify.com/track/6YT5x2mq6uSyhjjrmGEbir"
     },
     {
       "added_at": null,
@@ -611,26 +631,6 @@
       "duration_ms": 247971,
       "name": "LIE TO ME",
       "url": "https://open.spotify.com/track/6Cd4O7wpDas5PQruBM58S4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Songs That Made Me Feel",
-        "url": "https://open.spotify.com/album/3X8HsMV6AyN2RZp22JE7HR"
-      },
-      "artists": [
-        {
-          "name": "James Vickery",
-          "url": "https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch"
-        },
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        }
-      ],
-      "duration_ms": 202500,
-      "name": "You Comfort Me",
-      "url": "https://open.spotify.com/track/6YT5x2mq6uSyhjjrmGEbir"
     },
     {
       "added_at": null,
@@ -855,26 +855,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Run It Up",
-        "url": "https://open.spotify.com/album/6YIohFFdeMmUqjMXLoe4Iq"
-      },
-      "artists": [
-        {
-          "name": "Snakehips",
-          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
-        },
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        }
-      ],
-      "duration_ms": 178218,
-      "name": "Run It Up",
-      "url": "https://open.spotify.com/track/4Tla2jt77nO70DgGwFejbK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Spilligion",
         "url": "https://open.spotify.com/album/2L13Kv0sx6GPAHo7QTZLAy"
       },
@@ -899,6 +879,26 @@
       "duration_ms": 242099,
       "name": "Oshun (with EARTHGANG & 6LACK feat. Jurdan Bryant)",
       "url": "https://open.spotify.com/track/1ohxmwWvLNWIlt0kUo8kZF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Run It Up",
+        "url": "https://open.spotify.com/album/6YIohFFdeMmUqjMXLoe4Iq"
+      },
+      "artists": [
+        {
+          "name": "Snakehips",
+          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        }
+      ],
+      "duration_ms": 178218,
+      "name": "Run It Up",
+      "url": "https://open.spotify.com/track/4Tla2jt77nO70DgGwFejbK"
     },
     {
       "added_at": null,

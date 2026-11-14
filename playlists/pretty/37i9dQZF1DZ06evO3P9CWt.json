@@ -1,12 +1,12 @@
 {
   "description": "This is Pabllo Vittar. The essential tracks, all in one playlist.",
-  "num_followers": 279974,
+  "num_followers": 279970,
   "original_name": "This Is Pabllo Vittar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avOwAAAAAABYsebuAiAV6qpV0G4oYUL7",
+  "snapshot_id": "avUBgAAAAADhwa81C8mFZ4WbcodMdp+R",
   "tracks": [
     {
       "added_at": null,
@@ -462,11 +462,15 @@
         {
           "name": "Pabllo Vittar",
           "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "Villano Antillano",
+          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
         }
       ],
-      "duration_ms": 143148,
-      "name": "SKIN",
-      "url": "https://open.spotify.com/track/2w4pcPdQNzCoDpOLrPyeCL"
+      "duration_ms": 148826,
+      "name": "ROCKSTAR",
+      "url": "https://open.spotify.com/track/1ylXtdgjPCGaKAcbIgBElF"
     },
     {
       "added_at": null,
@@ -671,26 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dawn Of Chromatica",
-        "url": "https://open.spotify.com/album/3OevODyllQCrhudfLLnV3y"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        },
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 140968,
-      "name": "Fun Tonight - Pabllo Vittar Remix",
-      "url": "https://open.spotify.com/track/70FhY7hwautR5xB1qnHzVn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "AFTER",
         "url": "https://open.spotify.com/album/4aj7OO4L022IGAz5zbQwJZ"
       },
@@ -711,6 +695,26 @@
       "duration_ms": 173265,
       "name": "Derretida - Brunoso Remix",
       "url": "https://open.spotify.com/track/7CzUp49fXwsYP4CgQNfDSh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dawn Of Chromatica",
+        "url": "https://open.spotify.com/album/3OevODyllQCrhudfLLnV3y"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 140968,
+      "name": "Fun Tonight - Pabllo Vittar Remix",
+      "url": "https://open.spotify.com/track/70FhY7hwautR5xB1qnHzVn"
     },
     {
       "added_at": null,
@@ -751,6 +755,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "111 DELUXE",
+        "url": "https://open.spotify.com/album/50a3b78Dxu3JENEgakhzaP"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "POCAH",
+          "url": "https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6"
+        },
+        {
+          "name": "Mc Mayara",
+          "url": "https://open.spotify.com/artist/06KW64mW1lFahvaJVV0TRe"
+        }
+      ],
+      "duration_ms": 146543,
+      "name": "Bandida (feat. Mc Mayara)",
+      "url": "https://open.spotify.com/track/2VFTgZwiAdrADSLrUNHWt9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "FUTURO FLUXO",
         "url": "https://open.spotify.com/album/5mFbRtI39Lf04HHLtoEm1Y"
       },
@@ -775,30 +803,6 @@
       "duration_ms": 174213,
       "name": "BRUXARIA 3000",
       "url": "https://open.spotify.com/track/5jd4Ojm5yDifraTb8zGvyp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "111 DELUXE",
-        "url": "https://open.spotify.com/album/50a3b78Dxu3JENEgakhzaP"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        },
-        {
-          "name": "POCAH",
-          "url": "https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6"
-        },
-        {
-          "name": "Mc Mayara",
-          "url": "https://open.spotify.com/artist/06KW64mW1lFahvaJVV0TRe"
-        }
-      ],
-      "duration_ms": 146543,
-      "name": "Bandida (feat. Mc Mayara)",
-      "url": "https://open.spotify.com/track/2VFTgZwiAdrADSLrUNHWt9"
     },
     {
       "added_at": null,
@@ -835,6 +839,26 @@
       "duration_ms": 192421,
       "name": "Pede Pra Eu Ficar (Listen To Your Heart)",
       "url": "https://open.spotify.com/track/3XkzApmBofoR6p9eE4I6pI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pandora",
+        "url": "https://open.spotify.com/album/1eHsHKConMfzho7k48pomW"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 128067,
+      "name": "Garupa",
+      "url": "https://open.spotify.com/track/6nmYC5NZrRjRMhyR4aHLoF"
     },
     {
       "added_at": null,
@@ -887,22 +911,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pandora",
-        "url": "https://open.spotify.com/album/1eHsHKConMfzho7k48pomW"
+        "name": "Batid\u00e3o Tropical Vol. 2",
+        "url": "https://open.spotify.com/album/7taQQZWIVcnHK6spr9N21l"
       },
       "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        },
         {
           "name": "Pabllo Vittar",
           "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
         }
       ],
-      "duration_ms": 128067,
-      "name": "Garupa",
-      "url": "https://open.spotify.com/track/6nmYC5NZrRjRMhyR4aHLoF"
+      "duration_ms": 240400,
+      "name": "Me Usa",
+      "url": "https://open.spotify.com/track/5SlyKJvJOM00wNZ5TdC8sM"
     },
     {
       "added_at": null,
@@ -923,22 +943,6 @@
       "duration_ms": 163404,
       "name": "Para\u00edso",
       "url": "https://open.spotify.com/track/7u9maPG2E4cN9qChpe80qm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Batid\u00e3o Tropical Vol. 2",
-        "url": "https://open.spotify.com/album/7taQQZWIVcnHK6spr9N21l"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 240400,
-      "name": "Me Usa",
-      "url": "https://open.spotify.com/track/5SlyKJvJOM00wNZ5TdC8sM"
     },
     {
       "added_at": null,
@@ -987,8 +991,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vai Passar Mal Remixes",
-        "url": "https://open.spotify.com/album/0FMRLnUbj1in2fX3yxbmx3"
+        "name": "Batid\u00e3o Tropical Vol. 2",
+        "url": "https://open.spotify.com/album/7taQQZWIVcnHK6spr9N21l"
       },
       "artists": [
         {
@@ -996,13 +1000,13 @@
           "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
         },
         {
-          "name": "Mul\u00fa",
-          "url": "https://open.spotify.com/artist/4jsA7x5v8Xg3L4FGwyhGaQ"
+          "name": "Taty Girl",
+          "url": "https://open.spotify.com/artist/3vvHdmRO7G0C3sWP5mHxDE"
         }
       ],
-      "duration_ms": 181000,
-      "name": "Open Bar (Lean On)",
-      "url": "https://open.spotify.com/track/4WiViQB00IRESI6RBo7QaU"
+      "duration_ms": 157492,
+      "name": "Falta Coragem",
+      "url": "https://open.spotify.com/track/2Ai0zPyvWl5BWpdv5YVguy"
     }
   ],
   "unique_name": "This Is Pabllo Vittar",

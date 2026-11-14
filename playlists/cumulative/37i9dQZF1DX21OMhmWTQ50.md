@@ -4,7 +4,7 @@
 
 > Gentle festive piano music to keep you focused this holiday season☕️✨
 
-69 songs - 3 hr 4 min
+71 songs - 3 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,8 @@
 | [God Rest Ye Merry Gentlemen](https://open.spotify.com/track/1DD6tgTJSEHiBLQiKprFWc) | [Nils Olov](https://open.spotify.com/artist/1dgIBgGAPHKb49Cao2Z5U9) | [God Rest Ye Merry Gentlemen](https://open.spotify.com/album/4GvNoOWaHkYuBFXSOhPPXh) | 1:40 | 2025-10-22 |  |
 | [Good King Wenceslas](https://open.spotify.com/track/25vdlTYdZPJssQbXU8qUsg) | [Chris Beard](https://open.spotify.com/artist/7hTEeJAMokCNuBxW8GtFKp) | [We Three Kings](https://open.spotify.com/album/5Ppd2aIzY3YD2ug3FMI7sg) | 2:02 | 2025-10-22 |  |
 | [Hark The Herald Angels Sing](https://open.spotify.com/track/6vD4DVOnhf5N2NKkozKQlR) | [Les Moray](https://open.spotify.com/artist/3oJtOPrahfYye5Ffs05pYR) | [Hark The Herald Angels Sing](https://open.spotify.com/album/4Dnkr99I1KiZluOWg9z5Ai) | 2:35 | 2025-10-22 |  |
-| [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/6dgMbqLVXCHOcaXWVPn6hV) | [Therése Therén](https://open.spotify.com/artist/27L2UTyUaO5OCJSNPYgks6) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/2voxAFLE10XMU4jSNHiG5N) | 2:44 | 2025-11-13 |  |
+| [Have Yourself A Merry Christmas](https://open.spotify.com/track/2aGVfXfUUmiuBV9F4O0S0z) | [Hayra](https://open.spotify.com/artist/6oMgepLVpTpiwfghDHRfZi) | [Have Yourself A Merry Christmas](https://open.spotify.com/album/4pCfVz5xFFnzos3Jx3KyPp) | 2:42 | 2026-11-13 |  |
+| [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/6dgMbqLVXCHOcaXWVPn6hV) | [Therése Therén](https://open.spotify.com/artist/27L2UTyUaO5OCJSNPYgks6) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/2voxAFLE10XMU4jSNHiG5N) | 2:44 | 2025-11-13 | 2026-11-14 |
 | [Have Yourself A Merry Little Christmas \(Performed on Piano\)](https://open.spotify.com/track/4XWWwPtmyaxe0MInJImz4c) | [Eunike Tanzil](https://open.spotify.com/artist/78XsqB0fsyDU7wR2w4zVuA) | [Have Yourself A Merry Little Christmas \(Performed on Piano\)](https://open.spotify.com/album/5EPC92bul5X1FHNHDWCSr5) | 2:37 | 2025-10-22 | 2025-11-14 |
 | [I Saw Mommy Kissing Santa Claus](https://open.spotify.com/track/0aKt25CTygW0FpPAPEgH19) | [Frost & Ember](https://open.spotify.com/artist/1mvunBQzdq7XvcsxyVRaUV) | [I Saw Mommy Kissing Santa Claus](https://open.spotify.com/album/42odUTzJRHivK7qujWnWVq) | 4:35 | 2025-10-22 |  |
 | [In the Bleak Midwinter \(Piano Version\)](https://open.spotify.com/track/5OKJh9efE7zbKQeSML51Xk) | [Jonny Southard](https://open.spotify.com/artist/6BeZ093zzZgeGLSV9TG5Ez) | [In the Bleak Midwinter \(Piano Version\)](https://open.spotify.com/album/4zqHiaCQamGSDLkzKS8UxF) | 4:03 | 2025-10-22 |  |
@@ -73,6 +74,7 @@
 | [The First Noel](https://open.spotify.com/track/47bpAl4y8LNNiyZFC26A2M) | [Wolfgang Schulmann](https://open.spotify.com/artist/0AUguA7F9t87WF6krMPXyz) | [The First Noel](https://open.spotify.com/album/0Yo7z3fUoLc6D1q5Xy9QYi) | 2:00 | 2025-10-22 |  |
 | [The Holly and The Ivy](https://open.spotify.com/track/2lDnYeqB4nAIgXQ5riwjY3) | [Celtic Charm](https://open.spotify.com/artist/3GRwfeqk1Aep2RmOliU5ix) | [The Holly and The Ivy](https://open.spotify.com/album/4jeQzHh5roppGhrx1nYQGQ) | 3:00 | 2025-10-22 |  |
 | [This Christmas](https://open.spotify.com/track/7nPPpcAYWxlAZZ3PXYsaVI) | [Joe Hanson](https://open.spotify.com/artist/4r7XWdXa1dYecUdXwBPIGb) | [This Christmas](https://open.spotify.com/album/4eIb6EZ2ZSUfmKckrarmcJ) | 2:55 | 2025-10-22 | 2025-11-14 |
+| [We shall be festive too](https://open.spotify.com/track/2PqG4ZITeC3ExNWQJXfkeU) | [Yasuo Zen](https://open.spotify.com/artist/4Gew7TmeuvKFbHl0PttGaz) | [We shall be festive too](https://open.spotify.com/album/59XcJv4aaA7tmjAWIOQChc) | 2:25 | 2026-11-13 |  |
 | [We Three Kings](https://open.spotify.com/track/7FDHfTdbx22RIUjNmj6j8p) | [Hidden Piano](https://open.spotify.com/artist/4kC7loyy2JK3tXtxLCyr4m) | [We Three Kings](https://open.spotify.com/album/2FM695LGS0NUZYD8OrmGDf) | 2:28 | 2025-10-22 |  |
 | [White Christmas](https://open.spotify.com/track/2k4Hlixkc0dQ9bKOMSVIdr) | [Quinn Harrington](https://open.spotify.com/artist/5D5E3KJhdrPoOEKfLJ8qk4) | [White Christmas](https://open.spotify.com/album/4cix9KsE3GFgDnPs4ilWPj) | 1:49 | 2025-10-22 |  |
 | [Winter Wonderland](https://open.spotify.com/track/6B0B31rzHq9nESGo2FOA2o) | [Zale Foster](https://open.spotify.com/artist/27JTZNNeGNDXRnzNH8w4On) | [Winter Wonderland](https://open.spotify.com/album/2BFqWPVHQTRDZBNLQVtSFF) | 2:10 | 2025-10-22 |  |

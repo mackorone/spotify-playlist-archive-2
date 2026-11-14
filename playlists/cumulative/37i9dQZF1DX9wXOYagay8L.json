@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Proudly Southern African Afropop gems. Cover: Mawelele",
+  "description": "Proudly Southern African Afropop gems. Cover: The Joy",
   "name": "Made In South Africa",
   "tracks": [
     {
@@ -7703,6 +7703,24 @@
     },
     {
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/0DzepLE2k4Z0jB6rvzusTS"
+      },
+      "artists": [
+        {
+          "name": "The Joy",
+          "url": "https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223708,
+      "name": "Last Chance",
+      "url": "https://open.spotify.com/track/3x34MQpBaq5PccuVsxmUOn"
+    },
+    {
+      "album": {
         "name": "SHONA SOUL",
         "url": "https://open.spotify.com/album/1OZMRM8GFvrS6G4H70VqKl"
       },
@@ -15204,7 +15222,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 233600,
       "name": "Umendo 2",
       "url": "https://open.spotify.com/track/144MjlSQzblBVzyGJtHK8o"

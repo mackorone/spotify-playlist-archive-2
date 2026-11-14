@@ -1593,6 +1593,28 @@
     },
     {
       "album": {
+        "name": "Out Of Control",
+        "url": "https://open.spotify.com/album/7MTldAIUcnpLhNjFZpCHDb"
+      },
+      "artists": [
+        {
+          "name": "Wilkinson",
+          "url": "https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r"
+        },
+        {
+          "name": "JustHooks",
+          "url": "https://open.spotify.com/artist/6QC9azwBR7Yqujod4hNV2l"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193103,
+      "name": "Out Of Control",
+      "url": "https://open.spotify.com/track/4sB48VYROXFtKbuRTreGma"
+    },
+    {
+      "album": {
         "name": "Yellow Flower",
         "url": "https://open.spotify.com/album/00A1XYsx9tgJGnIHVn1X9u"
       },

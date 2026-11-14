@@ -1,12 +1,12 @@
 {
   "description": "This is Oliver Tree. The essential tracks, all in one playlist.",
-  "num_followers": 182101,
+  "num_followers": 182126,
   "original_name": "This Is Oliver Tree",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avOwAAAAAAAZb6n5VUTqPyUfbX0mf6c8",
+  "snapshot_id": "avUBgAAAAAAb4unz4oPfiLFDvK8i0dZh",
   "tracks": [
     {
       "added_at": null,
@@ -547,6 +547,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cowboy Tears",
+        "url": "https://open.spotify.com/album/1ETtnOFdO0JSOy0SRLAmTC"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "duration_ms": 157600,
+      "name": "Things We Used To Do",
+      "url": "https://open.spotify.com/track/55DDIEeRHXfVh1qnhNMJAN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fantasy",
         "url": "https://open.spotify.com/album/1KrTC1K1M7kMAMDWlH1coX"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 155498,
       "name": "Freefall (feat. Oliver Tree)",
       "url": "https://open.spotify.com/track/4OUKMfT24sce6hdAzfNTOX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cowboy Tears",
-        "url": "https://open.spotify.com/album/1ETtnOFdO0JSOy0SRLAmTC"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        }
-      ],
-      "duration_ms": 157600,
-      "name": "Things We Used To Do",
-      "url": "https://open.spotify.com/track/55DDIEeRHXfVh1qnhNMJAN"
     },
     {
       "added_at": null,
@@ -643,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cowboy Tears Drown the World in a Swimming Pool of Sorrow (Deluxe)",
-        "url": "https://open.spotify.com/album/3HnZ8f1qXz3I9XrLAxOnSv"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        }
-      ],
-      "duration_ms": 162877,
-      "name": "I Hate You",
-      "url": "https://open.spotify.com/track/4i6xqPtcyz470NNO2LzFZ4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love You Madly Hate You Badly",
         "url": "https://open.spotify.com/album/4Ns0kKlkmOUNgEM3OHhmKt"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 150790,
       "name": "Joyride",
       "url": "https://open.spotify.com/track/5uQQOcohwdoXdYR60TlBsd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cowboy Tears Drown the World in a Swimming Pool of Sorrow (Deluxe)",
+        "url": "https://open.spotify.com/album/3HnZ8f1qXz3I9XrLAxOnSv"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "duration_ms": 162877,
+      "name": "I Hate You",
+      "url": "https://open.spotify.com/track/4i6xqPtcyz470NNO2LzFZ4"
     },
     {
       "added_at": null,
@@ -707,6 +707,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Love You Madly Hate You Badly",
+        "url": "https://open.spotify.com/album/4Ns0kKlkmOUNgEM3OHhmKt"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "duration_ms": 178492,
+      "name": "Glow On",
+      "url": "https://open.spotify.com/track/1iGx5ExhCxY0mgTaLqWyhn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "ULTRAMAN (From The Netflix Film \"Ultraman: Rising\")",
         "url": "https://open.spotify.com/album/7rZoGRmY7hcAlozzSEdjJH"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 204000,
       "name": "ULTRAMAN - From The Netflix Film \"Ultraman: Rising\"",
       "url": "https://open.spotify.com/track/6qjUr0g56tRAWRdQ3IQYdL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Love You Madly Hate You Badly",
-        "url": "https://open.spotify.com/album/4Ns0kKlkmOUNgEM3OHhmKt"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        }
-      ],
-      "duration_ms": 178492,
-      "name": "Glow On",
-      "url": "https://open.spotify.com/track/1iGx5ExhCxY0mgTaLqWyhn"
     },
     {
       "added_at": null,
@@ -775,6 +775,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Love You Madly Hate You Badly",
+        "url": "https://open.spotify.com/album/4Ns0kKlkmOUNgEM3OHhmKt"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "duration_ms": 190265,
+      "name": "Death Ray",
+      "url": "https://open.spotify.com/track/0YdG4zW1WUpKvWI9tVbnjO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Life Goes On (feat. Trippie Redd & Ski Mask The Slump God)",
         "url": "https://open.spotify.com/album/1ucf98ip08W4dY41QZrXeq"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 182491,
       "name": "Life Goes On (feat. Trippie Redd & Ski Mask The Slump God)",
       "url": "https://open.spotify.com/track/07ShpyCaAqfCseA3fWFFMY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Love You Madly Hate You Badly",
-        "url": "https://open.spotify.com/album/4Ns0kKlkmOUNgEM3OHhmKt"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        }
-      ],
-      "duration_ms": 190265,
-      "name": "Death Ray",
-      "url": "https://open.spotify.com/track/0YdG4zW1WUpKvWI9tVbnjO"
     },
     {
       "added_at": null,

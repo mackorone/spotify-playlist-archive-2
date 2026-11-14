@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1owuN89XHr.md) - [plain]
 
 > Historias y versos que tocan la piel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,393 likes - 100 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 296,371 likes - 100 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,13 +90,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1owuN89XHr.md) - [plain]
 | 80 | [El Primer Amor](https://open.spotify.com/track/7gDmykuww1wLIlHgpBFW4Y) | [Haydée Milanés](https://open.spotify.com/artist/7hipjiOrcrv8qHhmacIPwG), [Francisco Céspedes](https://open.spotify.com/artist/54jti4nqabEAlBvIDU2zt8) | [El Primer Amor](https://open.spotify.com/album/2Zh8iFi1H63FS7M9x6o7a2) | 3:37 |
 | 81 | [Prefiero amar](https://open.spotify.com/track/3Ig5t3esx6oEXPzFfn837w) | [Luis Eduardo Aute](https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS) | [Aire](https://open.spotify.com/album/3eiUKyEarSxAvjZLqIJ1M6) | 3:32 |
 | 82 | [Noche Sin Fin y Mar](https://open.spotify.com/track/0Sp3VjpbsMuMv72CHBuQFc) | [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [Noche Sin Fin y Mar](https://open.spotify.com/album/7BsIanRYYPVAqaeBVUQdUf) | 3:04 |
-| 83 | [A mi lado](https://open.spotify.com/track/6B1t254FqrOgPxmLTmRvxR) | [Haydée Milanés](https://open.spotify.com/artist/7hipjiOrcrv8qHhmacIPwG), [Francisco Céspedes](https://open.spotify.com/artist/54jti4nqabEAlBvIDU2zt8) | [A mi lado](https://open.spotify.com/album/0rOqxGx0SPI8ZYnToq7HoE) | 3:59 |
-| 84 | [Ella es un Volcán](https://open.spotify.com/track/7jXYvUbqMQHLBDn12Yruxp) | [Edgar Oceransky](https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl) | [Escarlata](https://open.spotify.com/album/3TWcdcy2vPnaIXmDYfCpj0) | 3:36 |
+| 83 | [Ella es un Volcán](https://open.spotify.com/track/7jXYvUbqMQHLBDn12Yruxp) | [Edgar Oceransky](https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl) | [Escarlata](https://open.spotify.com/album/3TWcdcy2vPnaIXmDYfCpj0) | 3:36 |
+| 84 | [A mi lado](https://open.spotify.com/track/6B1t254FqrOgPxmLTmRvxR) | [Haydée Milanés](https://open.spotify.com/artist/7hipjiOrcrv8qHhmacIPwG), [Francisco Céspedes](https://open.spotify.com/artist/54jti4nqabEAlBvIDU2zt8) | [A mi lado](https://open.spotify.com/album/0rOqxGx0SPI8ZYnToq7HoE) | 3:59 |
 | 85 | [Sembrando Amor](https://open.spotify.com/track/1rtRqBUB5RnafVaRml1SP3) | [Jorge Gamboa Patrón](https://open.spotify.com/artist/6C7OQL7jqHWXAN6mURuqMu) | [Vagamundo](https://open.spotify.com/album/7DlAbZHP5l7efGJF97KfeS) | 4:30 |
 | 86 | [Alfonsina y el Mar](https://open.spotify.com/track/4QknKPpA2m8Yw8vQimkKHQ) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Alfonsina y el Mar](https://open.spotify.com/album/06MI02YQmQL6Vz2M4EckSg) | 4:39 |
 | 87 | [Viene la Cosa](https://open.spotify.com/track/6ICAdGrduZHsR9ZIfx9CCw) | [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [Viene la Cosa](https://open.spotify.com/album/6PREdFoN9vmyzU3CpdAts3) | 3:51 |
-| 88 | [Todos los ojos te miran \(feat\. Chico Buarque\)](https://open.spotify.com/track/4DW7Ve6nklGVl1Stswkya6) | [Haydée Milanés](https://open.spotify.com/artist/7hipjiOrcrv8qHhmacIPwG), [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [Todos los ojos te miran](https://open.spotify.com/album/1GPzyUlurqWS0KjG8g2J4n) | 4:13 |
-| 89 | [Juro](https://open.spotify.com/track/3uGbe1nJQcC8nWoQ03Ebuf) | [Edgar Oceransky](https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl) | [Juro](https://open.spotify.com/album/34eOeoTPpnB8xQMKCv6dN8) | 3:42 |
+| 88 | [Juro](https://open.spotify.com/track/3uGbe1nJQcC8nWoQ03Ebuf) | [Edgar Oceransky](https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl) | [Juro](https://open.spotify.com/album/34eOeoTPpnB8xQMKCv6dN8) | 3:42 |
+| 89 | [Todos los ojos te miran \(feat\. Chico Buarque\)](https://open.spotify.com/track/4DW7Ve6nklGVl1Stswkya6) | [Haydée Milanés](https://open.spotify.com/artist/7hipjiOrcrv8qHhmacIPwG), [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [Todos los ojos te miran](https://open.spotify.com/album/1GPzyUlurqWS0KjG8g2J4n) | 4:13 |
 | 90 | [Quizas Una Flor](https://open.spotify.com/track/67VTfYQPAZdX564dpwJMlu) | [Alejandro Filio](https://open.spotify.com/artist/2zfJb2mtxjtjPWTldg9R6K) | [1978\-1988](https://open.spotify.com/album/4NquOcku810JUHEDBv2YHy) | 4:02 |
 | 91 | [Lo Mejor Que Hay En Mi Vida](https://open.spotify.com/track/4Z1A6CF9EumHQuz9vaogdf) | [Amaury Gutiérrez](https://open.spotify.com/artist/5bnH2idOWAXzMEbw9gIP5D) | [Entre Cuerdas](https://open.spotify.com/album/3VcfDjnEzaN8nQ0p5gRLKD) | 4:24 |
 | 92 | [Juré](https://open.spotify.com/track/5QnaXZj8VUrCHZ2NWuP4Y9) | [Carlos Carreira](https://open.spotify.com/artist/1VksQOAs5gGHqrcmI4Obw6) | [Contigo](https://open.spotify.com/album/0tveCb0Wi30pENdaIqM7Lj) | 3:36 |

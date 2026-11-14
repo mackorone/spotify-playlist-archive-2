@@ -4,7 +4,7 @@
 
 > Nuovi brani di Gazzelle, Sayf, sangiovanni, BLANCO, Elisa tanti altri.
 
-11,132 songs - 23 day 13 hr 16 min
+11,134 songs - 23 day 13 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2516,6 +2516,7 @@
 | [Deeper](https://open.spotify.com/track/3hpuSKYKfjDPopXtU0OnWI) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Deeper](https://open.spotify.com/album/3lcEjL8STyQO8JipxsnIqP) | 4:48 | 2025-12-05 | 2025-12-12 |
 | [Deeper For You](https://open.spotify.com/track/36i2NckUKCHdpJzrvgukx6) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht) | [Deeper For You](https://open.spotify.com/album/21gIttGR84SMDrgtYqoEiA) | 4:03 | 2024-06-06 | 2024-06-14 |
 | [Dehumanized](https://open.spotify.com/track/51dD8Lkie7e2ITDsB1y4Ui) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Dehumanized](https://open.spotify.com/album/3EtyZfsxMwbL7xyWAh5xPi) | 4:28 | 2026-06-25 | 2026-07-03 |
+| [Deicidio](https://open.spotify.com/track/4zOiwu6pKQLx2hNyGZCV1k) | [Put Pùrana](https://open.spotify.com/artist/6zzXymmHvcDSZoKtiUKivc) | [Put Pùrana](https://open.spotify.com/album/13bLKK1aDNpr0a2Mr2fjb7) | 2:04 | 2026-11-12 |  |
 | [DEJA VU](https://open.spotify.com/track/0OgheDXBeWdcSPNO7QkZPz) | [EUROCLUB](https://open.spotify.com/artist/0O4Hy2bjefsM76Enm55XkR) | [EUROCLUB II](https://open.spotify.com/album/1EponlkVtP06EVU7xEz1op) | 2:43 | 2026-05-21 | 2026-05-29 |
 | [Deja Vu](https://open.spotify.com/track/2NB1gNSdFonXMllNMxiAmE) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Deja Vu](https://open.spotify.com/album/0Xtj0v242nflooXf1FLutS) | 2:55 | 2025-03-20 | 2025-03-28 |
 | [DEJAVU](https://open.spotify.com/track/053gl71zIZtFkG4liMKSOH) | [VAEVA](https://open.spotify.com/artist/2xP0ZgiHfJOP8dzz3ij10b) | [DEJAVU](https://open.spotify.com/album/4OPD15l7VWt44Zd4VeTr45) | 2:20 | 2026-07-16 | 2026-07-24 |
@@ -7333,6 +7334,7 @@
 | [Party Criminal](https://open.spotify.com/track/3fRURTdeiyrZMRKpyFtDbE) | [Surusinghe](https://open.spotify.com/artist/7m5jnraNhVbxMZ7B8FvCSe), [Warrior Queen](https://open.spotify.com/artist/6MGlEnPgJhFkC8P8DdKtsT) | [Cutting Thread](https://open.spotify.com/album/2l3soHjdwpJifx0Nn7Jh1N) | 3:14 | 2026-06-11 | 2026-06-19 |
 | [Party People](https://open.spotify.com/track/2Lw2oix2hvPOMwgyDObq66) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Party People](https://open.spotify.com/album/08755IyPKuxTT7oMJUPiCy) | 3:14 | 2025-01-02 | 2025-01-10 |
 | [Party Time \(feat\. Aatig\)](https://open.spotify.com/track/5yYY6UIqKUIgv1gFnlIokW) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Aatig](https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao) | [Party Time \(feat\. Aatig\)](https://open.spotify.com/album/49PLdkqAKVdfy608nqQchl) | 3:19 | 2026-07-09 | 2026-07-17 |
+| [Party With The Boys](https://open.spotify.com/track/5d2Sj3lMKJFefwU26GInQu) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Party With The Boys](https://open.spotify.com/album/5Ei8O7C8Fa5oXZTNB166Sf) | 2:35 | 2026-11-12 |  |
 | [PARTYGYAL](https://open.spotify.com/track/46Cu4xavDB7pcejde1ldMA) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [PARTYGYAL](https://open.spotify.com/album/58KANh9hTj5sxFClFIuTty) | 2:47 | 2026-02-26 | 2026-03-06 |
 | [Pasaporte](https://open.spotify.com/track/3LkVlYZK41uDwBHX26m8mi) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Mr\. Naisgai](https://open.spotify.com/artist/37BIBvfliXJpSgn10yQUJM) | [Pasaporte](https://open.spotify.com/album/6jGjJCN5uEufVPfbbdjVbf) | 4:26 | 2024-09-26 | 2024-10-04 |
 | [Pasquale \(guarda i cantieri\)](https://open.spotify.com/track/5Lxf6ww2twlVd0kkeTrICS) | [Primogenito](https://open.spotify.com/artist/5kFvZ6VFcWQehxrg2PI8Ce) | [Pasquale \(guarda i cantieri\)](https://open.spotify.com/album/0odog0F3DL9ccdSZt6YRlj) | 2:34 | 2024-09-26 | 2024-10-04 |
@@ -8704,7 +8706,7 @@
 | [senza te](https://open.spotify.com/track/6A4D5wJNi4NB2w2FTezJfh) | [Valerio Mazzei](https://open.spotify.com/artist/2gjd7UN8wYnqF8ZBKqxffi) | [senza te](https://open.spotify.com/album/54g19qvrqead1XxhNpujsV) | 2:19 | 2024-11-28 | 2024-12-06 |
 | [SENZA TE](https://open.spotify.com/track/3TDuzdu0FuAttNdzmuAGt8) | [Young Slash](https://open.spotify.com/artist/7ajcXCqrSRoMtviBDVIjqn), [SKT](https://open.spotify.com/artist/6WRnYIPYh4mJIj6qHRmoZr), [Pedro](https://open.spotify.com/artist/2LI7lXaNJU420lffFWJUcT) | [LIFE IS YOUNG](https://open.spotify.com/album/5FM7khGWDWUpkZt5WlJfZy) | 2:04 | 2025-04-10 | 2025-04-18 |
 | [SENZA TEMPO \(feat\. Izi\)](https://open.spotify.com/track/1NgWfYWI2bzBjBI0TsxvWU) | [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb), [Izi](https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F) | [SENZA TEMPO \(feat\. Izi\)](https://open.spotify.com/album/1ROY2LQ4u7Tj3WRGE4cXFM) | 3:47 | 2025-01-02 | 2025-01-10 |
-| [Senza tregua](https://open.spotify.com/track/4Puo8pyv152VIsyFrkT0pq) | [ANTONIA](https://open.spotify.com/artist/7FHXOCS4B6dXsf5x3KmRr0) | [Senza tregua](https://open.spotify.com/album/2OIyM7cAW9NwO0RiJg3bDy) | 2:24 | 2026-11-12 |  |
+| [Senza Tregua](https://open.spotify.com/track/4Puo8pyv152VIsyFrkT0pq) | [ANTONIA](https://open.spotify.com/artist/7FHXOCS4B6dXsf5x3KmRr0) | [Senza Tregua](https://open.spotify.com/album/2OIyM7cAW9NwO0RiJg3bDy) | 2:24 | 2026-11-12 |  |
 | [Senza tuccà \(feat\. Geolier\)](https://open.spotify.com/track/25vEq7pqZdwS6cOXvJLrqU) | [Gigi D'Alessio](https://open.spotify.com/artist/4eSMsVzRJHhN1aq0IvZcyn), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [Fra](https://open.spotify.com/album/0GBDJdA1bKfeA2hnNcTie4) | 2:56 | 2024-05-23 | 2024-06-01 |
 | [senza un addio](https://open.spotify.com/track/3xx773p0E7H1FtCP39okPf) | [Anelie](https://open.spotify.com/artist/58oZhOpjpxETOI5AORvQUF), [Kr1](https://open.spotify.com/artist/4vsRoPHf54OF5D85j8jKej) | [senza un addio](https://open.spotify.com/album/1LNBuILWncyZVmODbBmqLI) | 2:35 | 2026-10-22 | 2026-10-30 |
 | [Senza Una Stupida Storia](https://open.spotify.com/track/0603pYalC545IuB3RgWXPf) | [Achille Lauro](https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv) | [Senza Una Stupida Storia](https://open.spotify.com/album/11kvJ6rZcdyq1RNJXiKWVJ) | 2:59 | 2025-09-11 | 2025-09-19 |

@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "Angels We Have Heard",
+        "url": "https://open.spotify.com/album/5zOqaewLKpwyMwMmUcYpmQ"
+      },
+      "artists": [
+        {
+          "name": "Declan Starling",
+          "url": "https://open.spotify.com/artist/7G7YDXb2goL9xeq7eWUYKa"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126421,
+      "name": "Angels We Have Heard",
+      "url": "https://open.spotify.com/track/6gwBsK4mKvveVZwu61ZvhA"
+    },
+    {
+      "album": {
         "name": "Angels We Have Heard On High",
         "url": "https://open.spotify.com/album/0ySU6Z24ezxmtznYm934Jg"
       },
@@ -88,7 +106,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 130618,
       "name": "Angels We Have Heard On High",
       "url": "https://open.spotify.com/track/7CIrypZm7JYGM6Llfp97vp"
@@ -186,7 +204,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 140817,
       "name": "Auld Lang Syne",
       "url": "https://open.spotify.com/track/4QXYi1FykH0IS7EzSMiZjP"
@@ -204,7 +222,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 114386,
       "name": "Auld Lang Syne",
       "url": "https://open.spotify.com/track/6PIA6RsYHAu8maxlyCU7ky"
@@ -226,6 +244,24 @@
       "duration_ms": 110956,
       "name": "Auld Lang Syne",
       "url": "https://open.spotify.com/track/17gGsDRMXtLr0At51RMSMa"
+    },
+    {
+      "album": {
+        "name": "Auld Lang Syne",
+        "url": "https://open.spotify.com/album/0NiUZ6QFS6RrZcT9nM7zcE"
+      },
+      "artists": [
+        {
+          "name": "Maurice Green",
+          "url": "https://open.spotify.com/artist/0I2MdtSSCg5xHyymlJpnN3"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129824,
+      "name": "Auld Lang Syne",
+      "url": "https://open.spotify.com/track/0K8tXVptZe0GfEtt55jMEL"
     },
     {
       "album": {
@@ -1054,6 +1090,24 @@
       "duration_ms": 94647,
       "name": "Have Yourself A Merry Little Christmas",
       "url": "https://open.spotify.com/track/6FTtN7PEZXjHbwPmOLcUpk"
+    },
+    {
+      "album": {
+        "name": "Here Comes Santa Claus",
+        "url": "https://open.spotify.com/album/2dBmRQWWmM78yCyri4ncnH"
+      },
+      "artists": [
+        {
+          "name": "Ansel Leo",
+          "url": "https://open.spotify.com/artist/0ZGzQZpKm8vUaLk7QooDgq"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116410,
+      "name": "Here Comes Santa Claus",
+      "url": "https://open.spotify.com/track/70vyCUzQBOKgeBVFMIITN2"
     },
     {
       "album": {
@@ -2085,6 +2139,24 @@
     },
     {
       "album": {
+        "name": "Oh Little Town of Bethlehem",
+        "url": "https://open.spotify.com/album/5YJK60fKWTHjQuoiAX8w5R"
+      },
+      "artists": [
+        {
+          "name": "Toni Barella",
+          "url": "https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118073,
+      "name": "Oh Little Town of Bethlehem",
+      "url": "https://open.spotify.com/track/3ofxI1hvg2pxx3I2NSP7vv"
+    },
+    {
+      "album": {
         "name": "Winter Wonderland",
         "url": "https://open.spotify.com/album/0jNmaN5mDTpx1PTicTRohX"
       },
@@ -2211,6 +2283,24 @@
     },
     {
       "album": {
+        "name": "Santa Claus Is Coming To Town",
+        "url": "https://open.spotify.com/album/29NBXi6AdxgdpF6OGYnnne"
+      },
+      "artists": [
+        {
+          "name": "Armand Beck",
+          "url": "https://open.spotify.com/artist/2XPkhhGa0J9qSSTtJU0GEa"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130333,
+      "name": "Santa Claus Is Coming To Town",
+      "url": "https://open.spotify.com/track/01wq5YjtbD9qkkUxIFhfVd"
+    },
+    {
+      "album": {
         "name": "Holly Jolly Christmas",
         "url": "https://open.spotify.com/album/4PTcZmhz8FQ8PtMpmM1biP"
       },
@@ -2301,6 +2391,24 @@
     },
     {
       "album": {
+        "name": "Silver Bells",
+        "url": "https://open.spotify.com/album/6ALtcGtNeHUDcoxoEHXNQv"
+      },
+      "artists": [
+        {
+          "name": "Riley Howe",
+          "url": "https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179025,
+      "name": "Silver Bells",
+      "url": "https://open.spotify.com/track/4cIG1B7w2SVmjl6Um2XnZT"
+    },
+    {
+      "album": {
         "name": "Snowfall Memories",
         "url": "https://open.spotify.com/album/3UkhDttwBJrDBNke7CXrsd"
       },
@@ -2312,7 +2420,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 157631,
       "name": "Silver Bells",
       "url": "https://open.spotify.com/track/5DOCrDYhS8NrDYF9YmH8Z6"
@@ -2390,6 +2498,24 @@
     {
       "album": {
         "name": "The Christmas Song",
+        "url": "https://open.spotify.com/album/4XWS2JxZ13nLlp1ZZIqoCC"
+      },
+      "artists": [
+        {
+          "name": "Adeben",
+          "url": "https://open.spotify.com/artist/5cSY1JVvW3EoDFLfjuEBkg"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140088,
+      "name": "The Christmas Song",
+      "url": "https://open.spotify.com/track/4XYdYtgncNCJMbQICVW3TT"
+    },
+    {
+      "album": {
+        "name": "The Christmas Song",
         "url": "https://open.spotify.com/album/7Fp4g5ty24nL3bKszUVdGm"
       },
       "artists": [
@@ -2418,7 +2544,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 184840,
       "name": "The Christmas Song",
       "url": "https://open.spotify.com/track/1bhNFAJ9oV7IR9cftCbQD8"
@@ -2660,10 +2786,28 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 111690,
       "name": "What Child Is This",
       "url": "https://open.spotify.com/track/7JSUY7ep1Um9ykMCu2632M"
+    },
+    {
+      "album": {
+        "name": "What Child Is This?",
+        "url": "https://open.spotify.com/album/3g62g9OYPFrRNrdiyWcUbW"
+      },
+      "artists": [
+        {
+          "name": "Tayquin",
+          "url": "https://open.spotify.com/artist/17JNf1PaC48Jb70g0kR4xR"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142988,
+      "name": "What Child Is This?",
+      "url": "https://open.spotify.com/track/3ABCab7OqZTvjnITFQMI5D"
     },
     {
       "album": {

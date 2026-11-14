@@ -4,7 +4,7 @@
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a> 🦋 featuring The Chainsmokers
 
-1,576 songs - 3 day 13 hr 5 min
+1,577 songs - 3 day 13 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -532,6 +532,7 @@
 | [GEMINI](https://open.spotify.com/track/7fvgfalLXZBa0y7AMXZadu) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW) | [GEMINI](https://open.spotify.com/album/0UEDwo3KtuQHtuKkeZkRyi) | 3:48 | 2024-11-21 | 2025-01-17 |
 | [Get Closer](https://open.spotify.com/track/24NIpLql6QM8gA1fDbNvUT) | [Sem](https://open.spotify.com/artist/3MNRl7HX8LItpUynecii15), [Silent Child](https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M) | [Get Closer](https://open.spotify.com/album/4I3MgTn8Qods1j0HpYeqPa) | 3:08 | 2021-08-06 | 2022-04-19 |
 | [Get Dark](https://open.spotify.com/track/0iWMV1PjHlhClsvdGyuQvS) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH), [Killa P](https://open.spotify.com/artist/0yZqTQF0ULKX2gFE6fBHXZ) | [14ZERO V2](https://open.spotify.com/album/2IRS9qLBd27Wp824FxnZqw) | 4:12 | 2026-09-18 |  |
+| [GET DOWN](https://open.spotify.com/track/1VQU6X6o1fOXD2NZ98igNR) | [fromclay](https://open.spotify.com/artist/0EwNsbQywFna5Y83fmTwpu) | [GET DOWN](https://open.spotify.com/album/0E9rnXSE8N8wqErbAhDBmQ) | 3:18 | 2026-11-13 |  |
 | [Get Lost](https://open.spotify.com/track/5P2fPoLx8DG10KfUGHI2pp) | [Killen.](https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt) | [Highlight](https://open.spotify.com/album/4kHyNDHonchA7wACkVJEq7) | 3:32 | 2024-11-07 | 2025-03-21 |
 | [GET MONEY](https://open.spotify.com/track/4l6xxixodubRsZCvbsTu9o) | [SHAKING](https://open.spotify.com/artist/5ymmrBnnRTW23bKo7Fpbx6) | [GET MONEY](https://open.spotify.com/album/4LANVs9MReGnE7alZSPQwx) | 3:02 | 2026-07-31 | 2026-09-12 |
 | [get my way](https://open.spotify.com/track/03JEVI9w0PKZ7e2h72XAfl) | [Nikita, the Wicked](https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd), [Conrad](https://open.spotify.com/artist/788qKGMEh4hfYUTy8yANRC) | [iloveitwhentheyrun](https://open.spotify.com/album/3XlSEKQ4K8luPp5icnTYKo) | 3:08 | 2024-06-13 | 2024-07-27 |
@@ -1008,7 +1009,7 @@
 | [Out There](https://open.spotify.com/track/1kGhJkCKFJ12Bi7nAm01tT) | [eric404](https://open.spotify.com/artist/7jL3ObaJuAVhTAK0VEF2qL) | ["Not Found" \(EP\)](https://open.spotify.com/album/2hHrUGNQ13JEq6qxfb8QPw) | 3:08 | 2026-05-08 | 2026-09-01 |
 | [OUTTAHISMIND](https://open.spotify.com/track/65fPnec9ZIWi4YSMYOQXRm) | [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra), [Port London](https://open.spotify.com/artist/4hvH07yUsAeYBO5KeyAefq) | [Noise Pollution](https://open.spotify.com/album/2Bj2CNQUurTkMIhy4gero9) | 2:09 | 2024-12-05 | 2025-03-14 |
 | [Overcome \(feat\. Frances\)](https://open.spotify.com/track/7nCkmSULSB9Ia5UC2NC7S5) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Frances](https://open.spotify.com/artist/4m6VmvHDXWmVdIw6EJGQ86) | [Evolve](https://open.spotify.com/album/6N2cAL092Va3dLV4wKWd6Y) | 2:56 | 2023-05-12 | 2023-09-16 |
-| [Overkill \- Dance Remix](https://open.spotify.com/track/1qbBwytmeuiZTxm1APaVcn) | [Lambb](https://open.spotify.com/artist/6mzQRecVBUMepkVGAhn6io), [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3) | [Overkill \(Dance Remix\)](https://open.spotify.com/album/26l7zXHw6BafV3xu5FCBio) | 2:34 | 2026-03-27 |  |
+| [Overkill \- Dance Remix](https://open.spotify.com/track/1qbBwytmeuiZTxm1APaVcn) | [Lambb](https://open.spotify.com/artist/6mzQRecVBUMepkVGAhn6io), [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3) | [Overkill \(Dance Remix\)](https://open.spotify.com/album/26l7zXHw6BafV3xu5FCBio) | 2:34 | 2026-03-27 | 2026-11-14 |
 | [Overthinker](https://open.spotify.com/track/4K9xid96G3YmIvQZXN9SXg) | [INZO](https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ) | [Overthinker](https://open.spotify.com/album/04jog2osd7pTEQc49jEIem) | 4:28 | 2021-08-06 | 2022-08-27 |
 | [Overthinker](https://open.spotify.com/track/7qGoMOzR9pJ1bPl4bFmTN7) | [INZO](https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ) | [Overthinker](https://open.spotify.com/album/1eCYiLDLT6ZLzCeThN90UF) | 4:28 | 2021-08-06 | 2024-04-19 |
 | [overwhelmed \- Ookay remix](https://open.spotify.com/track/64zyMkiyBPSyCUgLl4AIXB) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0), [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t) | [overwhelmed \(the remixes\)](https://open.spotify.com/album/3tILcUFrdvba7jYG46EeOQ) | 3:01 | 2021-08-06 | 2022-12-22 |

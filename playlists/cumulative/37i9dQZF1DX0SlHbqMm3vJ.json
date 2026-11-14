@@ -728,7 +728,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 165820,
       "name": "Addicted",
       "url": "https://open.spotify.com/track/1JsIVdGTk1SLWY4Ia8Rfjh"
@@ -2506,6 +2506,28 @@
       "duration_ms": 288956,
       "name": "Bebe",
       "url": "https://open.spotify.com/track/12QrAlDPrS5WWPEal9q4Ph"
+    },
+    {
+      "album": {
+        "name": "Recess II",
+        "url": "https://open.spotify.com/album/4x2DysOwGpButInOfDNJdI"
+      },
+      "artists": [
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123000,
+      "name": "BeBe",
+      "url": "https://open.spotify.com/track/5GZTusIWd5rWT6QlQ3RVb3"
     },
     {
       "album": {
@@ -9044,7 +9066,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 182695,
       "name": "How I Know",
       "url": "https://open.spotify.com/track/6WJ5tB8eVjgwMJudpm6nsZ"
@@ -11111,6 +11133,24 @@
     },
     {
       "album": {
+        "name": "KOWOPE",
+        "url": "https://open.spotify.com/album/2L1fGehxU3KbiqKaPgKoAN"
+      },
+      "artists": [
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229811,
+      "name": "KOWOPE",
+      "url": "https://open.spotify.com/track/5mMkcsSWFnSzFsh9RF9NPO"
+    },
+    {
+      "album": {
         "name": "KU LO SA - A COLORS SHOW",
         "url": "https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi"
       },
@@ -11726,6 +11766,24 @@
       "duration_ms": 123137,
       "name": "Live Life",
       "url": "https://open.spotify.com/track/4NzbGHVNyLIkZHEbMFiKkp"
+    },
+    {
+      "album": {
+        "name": "The Blueprint",
+        "url": "https://open.spotify.com/album/1FEF9Jh7BOuISVXjQynfR4"
+      },
+      "artists": [
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151926,
+      "name": "Living Thing",
+      "url": "https://open.spotify.com/track/0YwJBHVqyWQZKtrcAmFk9Z"
     },
     {
       "album": {
@@ -13850,7 +13908,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 175241,
       "name": "My Dear",
       "url": "https://open.spotify.com/track/3jkowAb9Whk4c0VQxTu5ht"

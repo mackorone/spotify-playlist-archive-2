@@ -2,9 +2,9 @@
 
 ### [RADAR UK & Ireland](https://open.spotify.com/playlist/37i9dQZF1DX9be6QR3XeJp)
 
-> Discover your new favourite artists from UK&IE\. Cover: IFULKI
+> Discover your new favourite artists from UK&IE\. Cover: black nylon
 
-381 songs - 20 hr 24 min
+382 songs - 20 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Back In The Day](https://open.spotify.com/track/4Ydl2Ov6AtHaCG2D3iS8Kv) | [Chrissi](https://open.spotify.com/artist/6dKtberVRbUX3Azn8gt2mt) | [Back In The Day](https://open.spotify.com/album/0kYwSyUR9NhGRsZFeid1Kv) | 3:35 | 2022-07-28 | 2024-04-19 |
 | [backwards loving](https://open.spotify.com/track/1ImZjyaVKQ40IMndFwcPPA) | [Tia Gordon](https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc) | [wait! i have something to say\. x](https://open.spotify.com/album/4LHMNB1D4dgzz9fINvfnb5) | 3:52 | 2025-04-11 |  |
 | [Barbed Wire](https://open.spotify.com/track/11Ct9tSc2I8JOOx1QVtPZx) | [Cardinals](https://open.spotify.com/artist/0qmHQLCyJrgGFtqLDSRHJ4) | [Barbed Wire](https://open.spotify.com/album/1wmIAv2aJG81QhwAEnk9bp) | 3:04 | 2025-11-28 |  |
+| [BDSMX](https://open.spotify.com/track/0mpEqAS2389MXxOflfAvPQ) | [black nylon](https://open.spotify.com/artist/1evn9tfLQgLDCaNfcy7lge) | [BDSMX](https://open.spotify.com/album/167Mww97EYQwYK2jTxvsK0) | 2:55 | 2026-11-13 |  |
 | [Be My Own Boyfriend](https://open.spotify.com/track/0DXZHcAQAkXx8YlMIdzqgG) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Be My Own Boyfriend](https://open.spotify.com/album/3KxiaBG22271OPBM29XRe8) | 3:27 | 2022-02-18 |  |
 | [Behind Closed Eyes](https://open.spotify.com/track/5ZEXTgxlsVT33HKtkJmxFb) | [Maddie Ashman](https://open.spotify.com/artist/0kUfq7dUYNktJeT3OgFhtO) | [Her Side](https://open.spotify.com/album/7EJGHAulmFdXaeECghFNmw) | 5:04 | 2026-02-06 |  |
 | [BERLIN](https://open.spotify.com/track/1BaEm7lJxDtoRZ1QmPcBZr) | [Cody Frost](https://open.spotify.com/artist/3FobDbMc9jNxkZ8GCc685W) | [BERLIN](https://open.spotify.com/album/1CpDsqIBSXH8WCwEb8j8Y6) | 3:02 | 2022-02-18 |  |

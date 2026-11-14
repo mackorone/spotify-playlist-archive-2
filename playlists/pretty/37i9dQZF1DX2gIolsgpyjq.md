@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 > The best new music by independent artists in the Nordics\. Cover: Stephanie Gilbert
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,131 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,142 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 | 20 | [Bedouin Omakase](https://open.spotify.com/track/6dzpr2bWQaxHJ1LUrXwRHs) | [PAYDAR](https://open.spotify.com/artist/4QXhX7CbOMy8HKl8rZNYEt), [Nick AM](https://open.spotify.com/artist/1uPP0SnAHHgGKS0WqbSYwe) | [HEYVAN](https://open.spotify.com/album/6b8hipiCdd8m1jj8mrekIg) | 3:15 |
 | 21 | [hringja](https://open.spotify.com/track/1qYdEL0ske7wieombhZPbA) | [lára](https://open.spotify.com/artist/6ErQHeCo3fok5FFg3rfyxP) | [í bleiku ljósi](https://open.spotify.com/album/1qbeu0prgn2HSCEq8UYjBF) | 3:22 |
 | 22 | [All Shapes and Sizes](https://open.spotify.com/track/6ZCKY7vpwiEiA2vV5fCT4A) | [erdocia](https://open.spotify.com/artist/5nEL3amopJEqKSotD0JukX) | [All Shapes and Sizes](https://open.spotify.com/album/0CWaZFZDNy0LI4WDuUMZgs) | 4:03 |
-| 23 | [notime…](https://open.spotify.com/track/6qL1c0iuEhxV8a1Rt1l3ww) | [finnjävel](https://open.spotify.com/artist/5YQtvxTvGSShjMTOMyCuPT), [GRANT](https://open.spotify.com/artist/6SkVKlAmIWVD0LQvCGQqSj) | [notime…youshouldbeaskingmeout](https://open.spotify.com/album/3thIn4T4XksDxTHEU1rExU) | 2:19 |
+| 23 | [notime…](https://open.spotify.com/track/6qL1c0iuEhxV8a1Rt1l3ww) | [finnjävel](https://open.spotify.com/artist/5YQtvxTvGSShjMTOMyCuPT), [Grant](https://open.spotify.com/artist/6SkVKlAmIWVD0LQvCGQqSj) | [notime…youshouldbeaskingmeout](https://open.spotify.com/album/3thIn4T4XksDxTHEU1rExU) | 2:19 |
 | 24 | [The Next Day](https://open.spotify.com/track/6ldDrqbGUXnyVUCJT4eIpc) | [GB](https://open.spotify.com/artist/4YMJGenzGCHYz30PRdTJP8) | [The Next Day](https://open.spotify.com/album/0lpsfmSjhE3kJw8bbdtdSJ) | 4:09 |
 | 25 | [set for life](https://open.spotify.com/track/5Zf6eLLvwu3PD8Yaif18Zl) | [lene 3000](https://open.spotify.com/artist/2xljJPV7fZOIWj7x4ko22G) | [Greatest swamp hits](https://open.spotify.com/album/34OVcIAlr75Cni7d4nvUKb) | 1:25 |
 | 26 | [Bury The Dust](https://open.spotify.com/track/2kbm5u3IUnhIxVWBqHT54r) | [Atli](https://open.spotify.com/artist/3K075m0ezXFrAdGtZUawkB) | [Bury The Dust](https://open.spotify.com/album/3WOhSyMmAD8Q0bevvMtr8p) | 3:25 |

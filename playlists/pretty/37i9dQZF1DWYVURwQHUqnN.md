@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 
 > Photo : TK x Le Crime
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,151,394 likes - 50 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,151,361 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 | 11 | [Pineapple](https://open.spotify.com/track/1jSRu1IRoB6DPKsWTVGzTB) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Pineapple](https://open.spotify.com/album/7f3hFVJ3QKtimUriucF5Sx) | 2:40 |
 | 12 | [Cuenta \(feat\. Meryl & Shay\)](https://open.spotify.com/track/1JAigfQReciQ8yK8XikLEr) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV), [Meryl](https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA), [Shay](https://open.spotify.com/artist/3MNnSV5hDd2UzZzgqD8xlU) | [Cuenta \(feat\. Meryl & Shay\)](https://open.spotify.com/album/3weZpGpJ469y9iAN7i7wXU) | 3:03 |
 | 13 | [Milano](https://open.spotify.com/track/6WT1AWBgI6DYbmkiWjfO8Q) | [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi), [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [Milano](https://open.spotify.com/album/6bBAtP09YBrPUH05JPNFYC) | 2:36 |
-| 14 | [Track 10](https://open.spotify.com/track/6V8Cjmmy7p1snZecFu4s7V) | [Graya](https://open.spotify.com/artist/6AmKZ6kQdFR64iIiUsRMHT) | [Richesse et Sacrifice](https://open.spotify.com/album/5hyo6rwMbLuPxRCVu3EVtM) | 0:00 |
+| 14 | [Pas satisfait](https://open.spotify.com/track/6V8Cjmmy7p1snZecFu4s7V) | [Graya](https://open.spotify.com/artist/6AmKZ6kQdFR64iIiUsRMHT) | [Richesse et Sacrifice](https://open.spotify.com/album/5hyo6rwMbLuPxRCVu3EVtM) | 2:41 |
 | 15 | [Full](https://open.spotify.com/track/6ZjD4Qv5dPdV3pqouXjr0j) | [Bilouki](https://open.spotify.com/artist/1NB6QyaNXhrDd82y0WyG3I) | [24 KARA](https://open.spotify.com/album/4GZSouPUDOnxWARfOS79hm) | 2:43 |
 | 16 | [CARAPACE](https://open.spotify.com/track/5Xy0qqP85xyAD7epPutFDo) | [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1) | [CARAPACE](https://open.spotify.com/album/3jPN88bqcOFS8Mx7OzgxVX) | 2:49 |
 | 17 | [Coachella](https://open.spotify.com/track/5GW0Vh78Qa8aEVHByOCuYn) | [TK](https://open.spotify.com/artist/5vnUF9uAL0ly7qw25ERLuC), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Coachella](https://open.spotify.com/album/3EGnqt7FAO1CbifmJx7a1a) | 2:41 |

@@ -4,7 +4,7 @@
 
 > The sound of Afrobeats echoing around the world\. Cover: Baby Daiz & Tiakola
 
-261 songs - 13 hr 9 min
+262 songs - 13 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [As We Get High \(feat\. Omah Lay & BEAM\)](https://open.spotify.com/track/3Yh9cNUxHN0bvkWBQ2QVdK) | [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi), [OMAH LAY](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98), [Gyptian](https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi) | [As We Get High \(feat\. Omah Lay & BEAM\)](https://open.spotify.com/album/0fIi74aWkcWjHkNVRB3QZP) | 2:57 | 2026-09-04 | 2026-11-03 |
 | [Awolowo](https://open.spotify.com/track/1136eJrkWsDvReASbjLTaU) | [Fido](https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74) | [Awolowo](https://open.spotify.com/album/5BRKHZh6Y0voiEQ4YsGdCr) | 2:15 | 2025-10-10 | 2026-11-03 |
 | [Aye Kan \(Are You Coming Back?\) \[feat\. Ayra Starr\]](https://open.spotify.com/track/25jdAC3wA5yiwKkGD1n7t2) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Aye Kan \(Are You Coming Back?\) \[feat\. Ayra Starr\]](https://open.spotify.com/album/6qg58bqEAREvTlAo0ytie9) | 3:04 | 2026-03-27 |  |
-| [Baby \(feat\. Minz\)](https://open.spotify.com/track/6YQgFBhoO8y1GZUX8imNgL) | [Harley](https://open.spotify.com/artist/1w8f71fNCVvZtiz4DLd7N5), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [Energy](https://open.spotify.com/album/0szYTRwg7XVBRHnD8ycswr) | 2:13 | 2025-11-28 |  |
+| [Baby \(feat\. Minz\)](https://open.spotify.com/track/6YQgFBhoO8y1GZUX8imNgL) | [Harley](https://open.spotify.com/artist/1w8f71fNCVvZtiz4DLd7N5), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [Energy](https://open.spotify.com/album/0szYTRwg7XVBRHnD8ycswr) | 2:13 | 2025-11-28 | 2026-11-14 |
 | [Baby \(Is it a Crime\)](https://open.spotify.com/track/6NOrpcicPUh2eaj8bAD44u) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Baby \(Is it a Crime\)](https://open.spotify.com/album/6UyYWiOrIJMlccE1DmNRHK) | 2:44 | 2025-10-10 | 2026-11-13 |
 | [BACK TO LAGOS \(feat\. Gunna\)](https://open.spotify.com/track/1MFulYZ17VNHqJFfPK6HO1) | [OMAH LAY](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [CLARITY OF MIND \(EXTENDED\)](https://open.spotify.com/album/54pgmzJXyjWZmGOzRkU9ud) | 2:05 | 2026-11-02 | 2026-11-13 |
 | [Bad](https://open.spotify.com/track/1tgtF6WzgYOPaIWKKhoBgC) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Bad](https://open.spotify.com/album/3RBTfn38vkZuE2XQ91ja7X) | 2:24 | 2026-11-02 | 2026-11-13 |
@@ -262,6 +262,7 @@
 | [WORSHIP](https://open.spotify.com/track/7L1uMx4wG2A9pnRgb7hjQO) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [WORSHIP](https://open.spotify.com/album/5VYH03sAzxNYEb3MZWOeWi) | 2:43 | 2026-03-20 |  |
 | [Wrong Places](https://open.spotify.com/track/5Ub2eXiU36Sn5yfCAPca5I) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p) | [Wrong Places](https://open.spotify.com/album/43gw4TBIji6NCNs6F8W6NJ) | 2:57 | 2025-12-03 | 2026-01-16 |
 | [X TI](https://open.spotify.com/track/4TFjpINnVhINpTdrtNQIvx) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [POR SI ALGUIEN NOS ESCUCHA](https://open.spotify.com/album/0t4IoD2ctBdtx0zRYc8lFe) | 3:35 | 2025-10-10 | 2026-02-20 |
+| [Yasin](https://open.spotify.com/track/1D4K1ZjVcVTO7nretlnoUl) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP), [King Dr\. Saheed Osupa](https://open.spotify.com/artist/44bzPvFDA5djUYE6cvumyu) | [Yasin](https://open.spotify.com/album/6LnkJOm9rFcZG0l49BUerD) | 2:48 | 2026-11-13 |  |
 | [Ye](https://open.spotify.com/track/3FskQrDXcY24ur2fCvz35O) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Outside](https://open.spotify.com/album/26du6obYLeY1vf6xIJ1l0D) | 3:51 | 2025-10-10 | 2026-11-03 |
 | [you](https://open.spotify.com/track/28sqVp9vMKEuVHWnmknj7l) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [you](https://open.spotify.com/album/4ewH5bNprFllcPxYmz43CR) | 2:45 | 2025-10-10 |  |
 | [YoYo](https://open.spotify.com/track/1KIv5Z3YLlURsQ8e2OwXuo) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [YoYo](https://open.spotify.com/album/50zFt2TgGXsfDnf6W0gYys) | 3:20 | 2026-09-04 | 2026-11-03 |

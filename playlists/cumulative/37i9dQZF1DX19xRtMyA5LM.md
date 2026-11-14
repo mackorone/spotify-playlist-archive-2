@@ -4,7 +4,7 @@
 
 > ❗️Nieuwe tracks van Dopebwoy, Cor & Lijpe, Rits en meer..
 
-655 songs - 1 day 5 hr 23 min
+655 songs - 1 day 5 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,6 +215,7 @@
 | [Geen F'er](https://open.spotify.com/track/5HMBuq0KFaoyNvF1JLl1a9) | [Mesy](https://open.spotify.com/artist/6bvQsgkkfaVQ5IljDVC5hk) | [Geen F'er](https://open.spotify.com/album/1otJ0gCi5tK67WeNUMX7n2) | 2:11 | 2025-09-11 | 2025-10-10 |
 | [Geen Geld](https://open.spotify.com/track/4tUWZZFh6rvQ9UbNhcdOUp) | [Sepa](https://open.spotify.com/artist/5oBUDu4SFA4clHOLCrh2b7) | [Geen Geld](https://open.spotify.com/album/0LUfkZhlBGXvbSQai7SNGe) | 3:08 | 2026-10-08 | 2026-11-06 |
 | [Geen Lovesong](https://open.spotify.com/track/2cUSsISFlJ8EOB2EtLiTrO) | [Qlas](https://open.spotify.com/artist/4bB3nz947QqaXQ5DZFcZgS) | [Qlassiek](https://open.spotify.com/album/5JgmudoP2UJkXBLtFtUoxt) | 2:23 | 2026-10-22 |  |
+| [Geen Stress II](https://open.spotify.com/track/1MZqk6nX0olmzsbMCO5r0F) | [Sepa](https://open.spotify.com/artist/5oBUDu4SFA4clHOLCrh2b7), [Sjaak](https://open.spotify.com/artist/2YjydjpJfm9VAtiV0XRmkm) | [Praat van de Straat II](https://open.spotify.com/album/2PmwN1pFkXGTCEsHisWR2b) | 3:01 | 2026-11-12 |  |
 | [GEILA FREESTYLE](https://open.spotify.com/track/3iXcxNl2DlKytXwXSvWNQB) | [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [DJ ROFFA \(LIVE @ FLEX FM\)](https://open.spotify.com/album/5CKa57PQ9rT4aGR0OCGuyh) | 1:24 | 2026-08-13 | 2026-10-09 |
 | [Geldmaat](https://open.spotify.com/track/7c8jgMl2dwVBnC4RvBZHtm) | [Rijck](https://open.spotify.com/artist/0TzY5bHHF5sZsm1XV5UCzZ), [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx) | [Geldmaat](https://open.spotify.com/album/3ZbovTolXgET9q8sQkomEN) | 2:36 | 2025-09-04 | 2025-10-10 |
 | [Geldteller 2](https://open.spotify.com/track/26GWbitB19xHI4tAu1jkk3) | [Geechi](https://open.spotify.com/artist/30TCJAB49OXPfotwqvvB8W) | [Geldteller 2](https://open.spotify.com/album/6YcdlM5B8Izo0sHcFEuKA4) | 2:03 | 2026-05-21 | 2026-06-12 |
@@ -584,7 +585,6 @@
 | [TOXIC](https://open.spotify.com/track/02SkhSShsYpPPAmqwdJi6B) | [Freddie Konings](https://open.spotify.com/artist/2Gdf9LI423ukSgomDCxQI2), [DIKKE](https://open.spotify.com/artist/6lZ9MW0eEVePXdpa87Wag4) | [TOXIC](https://open.spotify.com/album/7DWEu6Ka60yycvREDE9XLG) | 3:15 | 2025-07-17 | 2025-08-15 |
 | [Toxic](https://open.spotify.com/track/2Go05djCQi4zVufi2XFcsQ) | [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx), [Yung Felix](https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu) | [Toxic](https://open.spotify.com/album/7liVvdipZeK6caApJkWSqd) | 2:31 | 2026-05-07 | 2026-08-21 |
 | [Toxic](https://open.spotify.com/track/4tu4ZJyPBRnPqmvXZhaqAj) | [Topperig](https://open.spotify.com/artist/4ZCjmwaMyx0uu5QShvrEZu), [Siggy & D1ns](https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm) | [Toxic](https://open.spotify.com/album/3rza5VfXp7SUYFFkAatCh1) | 2:38 | 2026-11-05 |  |
-| [Track 4](https://open.spotify.com/track/1MZqk6nX0olmzsbMCO5r0F) | [Sepa](https://open.spotify.com/artist/5oBUDu4SFA4clHOLCrh2b7) | [Praat van de Straat II, Vol\. 4](https://open.spotify.com/album/2PmwN1pFkXGTCEsHisWR2b) | 0:00 | 2026-11-12 |  |
 | [TRANQUILLO](https://open.spotify.com/track/7yCQnZXobkhuUhou4F9kog) | [Gregossan](https://open.spotify.com/artist/0p2nWJAXVkj0IkhGiTcPdC) | [TRANQUILLO](https://open.spotify.com/album/2hIBuW8ozqyF7Uv8D6gC8G) | 2:46 | 2025-12-04 | 2026-01-23 |
 | [Traumatisé](https://open.spotify.com/track/4NKYr54p0h4sTbtbCDnhie) | [Leblanco](https://open.spotify.com/artist/3xPDzlchimtvIGqPc1lZl2), [Chardy](https://open.spotify.com/artist/75TcM0uB8Oxfv6CyDzySDa), [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE) | [S.O.G](https://open.spotify.com/album/4wPCFyYI8rbk37XigQlbud) | 3:24 | 2026-11-05 |  |
 | [Trendsetter](https://open.spotify.com/track/1hEc7w72T66QCtN6AbVa2R) | [Elliven](https://open.spotify.com/artist/5RuNabPFwXm2ClPWsZdJqu) | [Trendsetter](https://open.spotify.com/album/4NufF0Z58ZQYF7S61NO6LI) | 2:42 | 2025-07-17 | 2025-08-15 |

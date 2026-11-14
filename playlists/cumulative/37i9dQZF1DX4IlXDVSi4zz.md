@@ -4,7 +4,7 @@
 
 > Dance the night away and just blame it on Tulum!
 
-339 songs - 20 hr 49 min
+340 songs - 20 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Baianá](https://open.spotify.com/track/17B9XlyyYDKkTmPay4z02V) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [The Ringmaster](https://open.spotify.com/album/30uB4Apy4yJgDSfE7xyA6n) | 3:00 | 2022-10-12 | 2024-04-19 |
 | [Baianá](https://open.spotify.com/track/3q9oTSo64CrjOiPwI4DbWE) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [The Ringmaster](https://open.spotify.com/album/6gVyolnWeV2RyvzxxFIvro) | 3:00 | 2022-10-12 | 2023-10-21 |
 | [Baianá](https://open.spotify.com/track/780be5fB7823aHG06mwTat) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [The Ringmaster](https://open.spotify.com/album/5pmFI5q0ob82elppBCel0W) | 3:00 | 2022-04-24 | 2025-05-17 |
+| [BbY WOW \- John Summit Remix](https://open.spotify.com/track/6i0mauyUtfJ6Wb3QLVxKc6) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q), [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [BbY WOW \- John Summit Remix](https://open.spotify.com/album/7cATL7247RiXbe4yL7KdNv) | 3:38 | 2026-11-13 |  |
 | [Be Without You](https://open.spotify.com/track/7c5LEXTP5c1VVELPaNrQii) | [SOSA](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [Be Without You](https://open.spotify.com/album/0cJIafKRuQ84XkvfPk8Umo) | 3:28 | 2026-02-06 |  |
 | [Because You Move Me](https://open.spotify.com/track/05GvwwTLLID738BbKN1ze0) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [Because You Move Me](https://open.spotify.com/album/6BJlfbdvDpdjeC35GNRwBI) | 3:16 | 2022-03-29 |  |
 | [BED](https://open.spotify.com/track/0siYMEsGrzzzlWLXK5zJfS) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [BED](https://open.spotify.com/album/36tML2tWjDrbLW4FgrX17U) | 2:58 | 2023-12-07 | 2026-03-21 |
@@ -161,7 +162,7 @@
 | [La bohemia](https://open.spotify.com/track/5E8eu7Jfj7dkZgnbMOPtwK) | [Charles Aznavour](https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT), [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI) | [La bohemia](https://open.spotify.com/album/6xQ8fWvwPReZSU4uRkUI8p) | 3:48 | 2026-03-20 | 2026-03-27 |
 | [La Luz](https://open.spotify.com/track/4qK2KHiMFdZG9DLJRuEHge) | [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt) | [WAYU Various Artists, Vol\. 2](https://open.spotify.com/album/3do9W9ShRLxIKfUat5nERL) | 5:28 | 2022-04-24 | 2022-07-29 |
 | [La Mentira](https://open.spotify.com/track/6oso9qoKGgH8PmuLJ0jaV8) | [The Soul Brothers](https://open.spotify.com/artist/4qyyx2In3fnMlPjQBfppNn) | [Los Hermanos Del Alma EP](https://open.spotify.com/album/0BgsWj02pAVDFvTTeSsuFB) | 5:52 | 2022-04-24 | 2022-07-29 |
-| [La Musa \(with Miluhska\)](https://open.spotify.com/track/5IGqDVkK8bDHuQqsYvUvMt) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Miluhska](https://open.spotify.com/artist/7N3So4jUBd3uUbbx40TjpY) | [La Musa \(with Miluhska\)](https://open.spotify.com/album/0rOYlzsSZ13P4SToVCMgZt) | 3:03 | 2026-03-20 |  |
+| [La Musa \(with Miluhska\)](https://open.spotify.com/track/5IGqDVkK8bDHuQqsYvUvMt) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Miluhska](https://open.spotify.com/artist/7N3So4jUBd3uUbbx40TjpY) | [La Musa \(with Miluhska\)](https://open.spotify.com/album/0rOYlzsSZ13P4SToVCMgZt) | 3:03 | 2026-03-20 | 2026-11-14 |
 | [La Papaye](https://open.spotify.com/track/2gHA5uelC4cmT0Rn91rTm1) | [Rob!n](https://open.spotify.com/artist/1YJp6laoD5gLNFt4iksPMu), [Lumoon](https://open.spotify.com/artist/0yef6VSNvf1atgoH0Vv5aR) | [La Papaye](https://open.spotify.com/album/4rqE0hYsSByirJPP5h1cp2) | 6:12 | 2022-03-29 | 2022-06-16 |
 | [La Samba](https://open.spotify.com/track/7pLBRrgdyTlDqDKUEq7HFr) | [Jesús Fernández](https://open.spotify.com/artist/6bZ11vzZLe2XZhvgLVcZum) | [La Samba](https://open.spotify.com/album/78EiNoZY04IBAcmENGRyYq) | 2:30 | 2026-03-20 |  |
 | [Lady \(Hear Me Tonight\)](https://open.spotify.com/track/5GIG7Ktm9gZnV5yNqb0XZl) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Lady \(Hear Me Tonight\)](https://open.spotify.com/album/57SwKjLUnRzLs7jXcDsQCY) | 2:33 | 2025-11-21 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Disco forever. Deeper cuts, forgotten gems and 8 minute versions.",
-  "num_followers": 75068,
+  "num_followers": 75074,
   "original_name": "Disco Decadence",
   "owner": {
     "name": "Spotify",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2026-01-15 16:33:26",
       "album": {
+        "name": "Love, Luther",
+        "url": "https://open.spotify.com/album/6jef6FlX6dgn07Ofvd1gVu"
+      },
+      "artists": [
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        }
+      ],
+      "duration_ms": 339506,
+      "name": "Never Too Much - 12\" Version",
+      "url": "https://open.spotify.com/track/7tHT1v3DPsPCJV8U6DQOtQ"
+    },
+    {
+      "added_at": "2026-01-15 16:33:26",
+      "album": {
         "name": "Don't You Want My Love",
         "url": "https://open.spotify.com/album/3wbkiu4RK9zumoN2ibzd5h"
       },
@@ -1223,26 +1239,6 @@
       "duration_ms": 468831,
       "name": "Don't You Want My Love - Remastered",
       "url": "https://open.spotify.com/track/4ti2wje1ckDWltwP45ea9U"
-    },
-    {
-      "added_at": "2026-01-15 16:33:26",
-      "album": {
-        "name": "'Lectric Lady",
-        "url": "https://open.spotify.com/album/7eY0iC16v1UNmrHqG1eiuB"
-      },
-      "artists": [
-        {
-          "name": "Carol Williams",
-          "url": "https://open.spotify.com/artist/5QqgCq8kssGoXgqxBlGgJM"
-        },
-        {
-          "name": "Tom Moulton",
-          "url": "https://open.spotify.com/artist/6xDW6TfPeBAiq1gmqMJnM6"
-        }
-      ],
-      "duration_ms": 473240,
-      "name": "Love Is You - A Tom Moulton Mix",
-      "url": "https://open.spotify.com/track/4YjD6Gd0IjMIchfTOOPEgS"
     }
   ],
   "unique_name": "Disco Decadence",

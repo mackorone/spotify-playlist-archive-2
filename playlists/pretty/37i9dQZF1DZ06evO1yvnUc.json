@@ -1,12 +1,12 @@
 {
   "description": "This is PARTYNEXTDOOR. The essential tracks, all in one playlist.",
-  "num_followers": 182558,
+  "num_followers": 182607,
   "original_name": "This Is PARTYNEXTDOOR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avOwAAAAAACItNG+ulRm5lkZNkkkL045",
+  "snapshot_id": "avUBgAAAAAD7u+anVyDOnu9kNEXpDQiA",
   "tracks": [
     {
       "added_at": null,
@@ -471,18 +471,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "PARTYNEXTDOOR TWO",
-        "url": "https://open.spotify.com/album/52SPzTxOUOS996NCHoGN0r"
+        "name": "For All The Dogs",
+        "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
       },
       "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
         {
           "name": "PARTYNEXTDOOR",
           "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
         }
       ],
-      "duration_ms": 172943,
-      "name": "East Liberty",
-      "url": "https://open.spotify.com/track/2nOTvYKyk51OSs90GvMgLW"
+      "duration_ms": 277720,
+      "name": "Members Only (feat. PARTYNEXTDOOR)",
+      "url": "https://open.spotify.com/track/24FUBxaAYSBlWsbSnEzDcn"
     },
     {
       "added_at": null,
@@ -507,22 +511,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "For All The Dogs",
-        "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
+        "name": "PARTYNEXTDOOR TWO",
+        "url": "https://open.spotify.com/album/52SPzTxOUOS996NCHoGN0r"
       },
       "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
         {
           "name": "PARTYNEXTDOOR",
           "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
         }
       ],
-      "duration_ms": 277720,
-      "name": "Members Only (feat. PARTYNEXTDOOR)",
-      "url": "https://open.spotify.com/track/24FUBxaAYSBlWsbSnEzDcn"
+      "duration_ms": 172943,
+      "name": "East Liberty",
+      "url": "https://open.spotify.com/track/2nOTvYKyk51OSs90GvMgLW"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JdAKMqGwZ5.md) - [plain]
 
 > Las mejores novedades emergentes del mundo indie, cada viernes\. Foto: Amatria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,019 likes - 120 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,030 likes - 120 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JdAKMqGwZ5.md) - [plain]
 | 18 | [ZUGATIK \- Erakarpena](https://open.spotify.com/track/1eKK4yIorH0gjujFaIIuGN) | [BULEGO](https://open.spotify.com/artist/536zVauyusZp2cjwh4QB5B) | [ZUGATIK \- Erakarpena](https://open.spotify.com/album/7qsu6Hk29ieaXsozE2Njb7) | 2:46 |
 | 19 | [Traigo](https://open.spotify.com/track/00mZ0Ic1WKL41QD1dIXr0g) | [La Plazuela](https://open.spotify.com/artist/3iNrNJ38T7OEaI1UofQcIB), [DeLasRosas](https://open.spotify.com/artist/5zMRHPAISUGTHuFZkpaH4b) | [Traigo](https://open.spotify.com/album/6qUy1RwN6e2weEtEj00OJp) | 4:07 |
 | 20 | [Era yo la que apuntaba](https://open.spotify.com/track/0Dbcv5NW0ZkBVxfJ8vRSvx) | [Las Petunias](https://open.spotify.com/artist/5ahvDss0AH60cd2AWqoU1r) | [Era yo la que apuntaba](https://open.spotify.com/album/6HjeY3Gi8xIUKSAVUk6osn) | 3:26 |
-| 21 | [Don Kijote](https://open.spotify.com/track/6jPbGlEvUvWaknj5RrTp8i) | [Amygdala](https://open.spotify.com/artist/7BGTl5Swxc7pcXnSgqzSSM), [Svanti](https://open.spotify.com/artist/2wuPswGEUct2epOPXKMJ2A) | [303 Airlines](https://open.spotify.com/album/24l4TYeLlrRjqk3SjGM9DS) | 5:17 |
+| 21 | [Don Kijote](https://open.spotify.com/track/6jPbGlEvUvWaknj5RrTp8i) | [Amygdala](https://open.spotify.com/artist/7BGTl5Swxc7pcXnSgqzSSM), [Svnti](https://open.spotify.com/artist/3PA0XuAhD178z4UeCJzZTl) | [303 Airlines](https://open.spotify.com/album/24l4TYeLlrRjqk3SjGM9DS) | 5:17 |
 | 22 | [Da Me](https://open.spotify.com/track/25wuRe51bNX1zQXWKxWm9Y) | [Alice Wonder](https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi) | [Da Me](https://open.spotify.com/album/6bY3R8Ne0tYamDMo16D27k) | 1:56 |
 | 23 | [La Verdad](https://open.spotify.com/track/2tBWyqvCOm2YZTc4hMbBS7) | [IZARO](https://open.spotify.com/artist/2brDaxeIxhXevIcKDrGMAb) | [La Verdad](https://open.spotify.com/album/2JNRgxUweLKWL5R0oIwnyz) | 4:12 |
 | 24 | [DARKETONA](https://open.spotify.com/track/7qq0umaWWPcMQuQ9XjMz3e) | [Korashe](https://open.spotify.com/artist/0HFSv9JWkZcY2K4yLGNaHS), [Kfé](https://open.spotify.com/artist/21Oja0BVOrXu4kGqK8MfDF) | [DARKETONA](https://open.spotify.com/album/5U7arsRat7uevXpKNcgHoA) | 2:54 |

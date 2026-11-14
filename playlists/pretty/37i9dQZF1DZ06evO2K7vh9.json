@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avOwAAAAAACigkHHKB970PstiEz3h7Ds",
+  "snapshot_id": "avUBgAAAAABvHPWzS7BemQ5UJcJ1faGk",
   "tracks": [
     {
       "added_at": null,
@@ -715,6 +715,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "All Star",
+        "url": "https://open.spotify.com/album/45LIS5vxDcdMniZcD6biUD"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        },
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        }
+      ],
+      "duration_ms": 180234,
+      "name": "All Star (with Lil Tjay)",
+      "url": "https://open.spotify.com/track/62uolmVjOio9xIfwDM1ZvC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TEC",
+        "url": "https://open.spotify.com/album/4EURMuWFiLLRmQYoH5cgiE"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "duration_ms": 140659,
+      "name": "Need Me",
+      "url": "https://open.spotify.com/track/6hAsChsFiKALkmIishhyVT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "All Is Yellow",
         "url": "https://open.spotify.com/album/4NGIX0BP6xxRaGh64hhJhe"
       },
@@ -739,42 +775,6 @@
       "duration_ms": 169014,
       "name": "This My Life (with Lil Tecca, The Kid LAROI & Lil Skies)",
       "url": "https://open.spotify.com/track/5CT3zRd2FKM7F81KEacXIP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TEC",
-        "url": "https://open.spotify.com/album/4EURMuWFiLLRmQYoH5cgiE"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "duration_ms": 140659,
-      "name": "Need Me",
-      "url": "https://open.spotify.com/track/6hAsChsFiKALkmIishhyVT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "All Star",
-        "url": "https://open.spotify.com/album/45LIS5vxDcdMniZcD6biUD"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        },
-        {
-          "name": "Lil Tjay",
-          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
-        }
-      ],
-      "duration_ms": 180234,
-      "name": "All Star (with Lil Tjay)",
-      "url": "https://open.spotify.com/track/62uolmVjOio9xIfwDM1ZvC"
     },
     {
       "added_at": null,

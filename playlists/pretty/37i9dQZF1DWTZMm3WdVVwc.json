@@ -1,6 +1,6 @@
 {
   "description": "\u5bd2\u3044\u51ac\u306f\u5fc3\u3092\u6696\u3081\u308b\u30cf\u30fc\u30c8\u30d5\u30eb\u306a\u697d\u66f2\u3092\u304a\u4f9b\u306b\u3002\u3042\u306a\u305f\u306e\u65e5\u3005\u306b\u97f3\u697d\u3092\u3002",
-  "num_followers": 27189,
+  "num_followers": 27196,
   "original_name": "\u51ac\u306e\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
   "owner": {
     "name": "Spotify",
@@ -333,22 +333,6 @@
       "url": "https://open.spotify.com/track/5kDz0Wrx0UpaVRttDZ4KtI"
     },
     {
-      "added_at": "2025-10-24 07:45:46",
-      "album": {
-        "name": "1999",
-        "url": "https://open.spotify.com/album/1wj9CGnWoclmhiXlxjPwrW"
-      },
-      "artists": [
-        {
-          "name": "Hitsujibungaku",
-          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
-        }
-      ],
-      "duration_ms": 289060,
-      "name": "1999",
-      "url": "https://open.spotify.com/track/5664npiyyvli6veD4VINZ1"
-    },
-    {
       "added_at": "2025-03-11 22:40:18",
       "album": {
         "name": "WINTER WITHOUT YOU",
@@ -363,6 +347,22 @@
       "duration_ms": 243520,
       "name": "WINTER WITHOUT YOU",
       "url": "https://open.spotify.com/track/5KxTHd0r8eM6T2K65zxt2L"
+    },
+    {
+      "added_at": "2025-10-24 07:45:46",
+      "album": {
+        "name": "1999",
+        "url": "https://open.spotify.com/album/1wj9CGnWoclmhiXlxjPwrW"
+      },
+      "artists": [
+        {
+          "name": "Hitsujibungaku",
+          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
+        }
+      ],
+      "duration_ms": 289060,
+      "name": "1999",
+      "url": "https://open.spotify.com/track/5664npiyyvli6veD4VINZ1"
     },
     {
       "added_at": "2025-03-11 22:40:18",
@@ -529,22 +529,6 @@
       "url": "https://open.spotify.com/track/0PvuVoqa1IHCnTrNnltS70"
     },
     {
-      "added_at": "2025-12-24 00:34:11",
-      "album": {
-        "name": "\u30ac\u30a4\u30a2",
-        "url": "https://open.spotify.com/album/0f9cR9kAGMSLGWnVd9eCyL"
-      },
-      "artists": [
-        {
-          "name": "Siip",
-          "url": "https://open.spotify.com/artist/4iJl88yli7zUwkDCNeKyNa"
-        }
-      ],
-      "duration_ms": 367306,
-      "name": "\u9732",
-      "url": "https://open.spotify.com/track/24dFX0UYYObDzUrY9Mdnqm"
-    },
-    {
       "added_at": "2025-10-23 13:55:51",
       "album": {
         "name": "\u7a32\u57a3\u6f64\u4e0025\u5468\u5e74\u30d9\u30b9\u30c8 Rainy Voice",
@@ -559,6 +543,22 @@
       "duration_ms": 269626,
       "name": "\u30af\u30ea\u30b9\u30de\u30b9\u30ad\u30e3\u30ed\u30eb\u306e\u9803\u306b\u306f",
       "url": "https://open.spotify.com/track/41d7uC7xV3u82wMN0TOoGy"
+    },
+    {
+      "added_at": "2025-12-24 00:34:11",
+      "album": {
+        "name": "\u30ac\u30a4\u30a2",
+        "url": "https://open.spotify.com/album/0f9cR9kAGMSLGWnVd9eCyL"
+      },
+      "artists": [
+        {
+          "name": "Siip",
+          "url": "https://open.spotify.com/artist/4iJl88yli7zUwkDCNeKyNa"
+        }
+      ],
+      "duration_ms": 367306,
+      "name": "\u9732",
+      "url": "https://open.spotify.com/track/24dFX0UYYObDzUrY9Mdnqm"
     },
     {
       "added_at": "2025-10-23 13:55:51",
@@ -789,6 +789,22 @@
       "url": "https://open.spotify.com/track/1v8JIAvZLQXgqhVer4ira5"
     },
     {
+      "added_at": "2025-10-23 13:55:51",
+      "album": {
+        "name": "WINTER SONG",
+        "url": "https://open.spotify.com/album/2gABzfAzxn46TpxOlj9sqf"
+      },
+      "artists": [
+        {
+          "name": "DREAMS COME TRUE",
+          "url": "https://open.spotify.com/artist/2mJOGcLR3aCHkM1uAF93or"
+        }
+      ],
+      "duration_ms": 285533,
+      "name": "WINTER SONG (\u201c\u96ea\u306e\u30af\u30ea\u30b9\u30de\u30b9\u201d WORLDWIDE VERSION)",
+      "url": "https://open.spotify.com/track/3fY7C8e4gZ5RfcN4GB2yDJ"
+    },
+    {
       "added_at": "2025-10-24 07:45:46",
       "album": {
         "name": "\u798f\u8033 THE BEST ACOUSTIC WORKS",
@@ -825,36 +841,20 @@
       "url": "https://open.spotify.com/track/2PwOOgg8PavBNIWsPLIkr3"
     },
     {
-      "added_at": "2025-10-23 13:55:51",
+      "added_at": "2026-11-10 09:14:46",
       "album": {
-        "name": "WINTER SONG",
-        "url": "https://open.spotify.com/album/2gABzfAzxn46TpxOlj9sqf"
+        "name": "\u30ab\u30e1\u30ea\u30a2",
+        "url": "https://open.spotify.com/album/3knlvLel788M075uZCKu08"
       },
       "artists": [
         {
-          "name": "DREAMS COME TRUE",
-          "url": "https://open.spotify.com/artist/2mJOGcLR3aCHkM1uAF93or"
+          "name": "THE JET BOY BANGERZ from EXILE TRIBE",
+          "url": "https://open.spotify.com/artist/3fjFsQiDcaCYsbcnFz3Rhi"
         }
       ],
-      "duration_ms": 285533,
-      "name": "WINTER SONG (\u201c\u96ea\u306e\u30af\u30ea\u30b9\u30de\u30b9\u201d WORLDWIDE VERSION)",
-      "url": "https://open.spotify.com/track/3fY7C8e4gZ5RfcN4GB2yDJ"
-    },
-    {
-      "added_at": "2025-03-11 22:40:18",
-      "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/1B7s0MuLuwvGpSMOpzKDTN"
-      },
-      "artists": [
-        {
-          "name": "Yo-Sea",
-          "url": "https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw"
-        }
-      ],
-      "duration_ms": 209639,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/20oWyi2kyCBXvgmD41XYEm"
+      "duration_ms": 243586,
+      "name": "\u30ab\u30e1\u30ea\u30a2",
+      "url": "https://open.spotify.com/track/1MRMWm30v4Iht0PyNFZoFo"
     },
     {
       "added_at": "2025-10-24 07:45:46",
@@ -873,20 +873,20 @@
       "url": "https://open.spotify.com/track/3ngihcNtaHh3ggXwPPpXYv"
     },
     {
-      "added_at": "2026-11-10 09:14:46",
+      "added_at": "2025-03-11 22:40:18",
       "album": {
-        "name": "\u30ab\u30e1\u30ea\u30a2",
-        "url": "https://open.spotify.com/album/3knlvLel788M075uZCKu08"
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/1B7s0MuLuwvGpSMOpzKDTN"
       },
       "artists": [
         {
-          "name": "THE JET BOY BANGERZ from EXILE TRIBE",
-          "url": "https://open.spotify.com/artist/3fjFsQiDcaCYsbcnFz3Rhi"
+          "name": "Yo-Sea",
+          "url": "https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw"
         }
       ],
-      "duration_ms": 243586,
-      "name": "\u30ab\u30e1\u30ea\u30a2",
-      "url": "https://open.spotify.com/track/1MRMWm30v4Iht0PyNFZoFo"
+      "duration_ms": 209639,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/20oWyi2kyCBXvgmD41XYEm"
     },
     {
       "added_at": "2025-03-11 22:40:18",
@@ -953,22 +953,6 @@
       "url": "https://open.spotify.com/track/3tFY3KX0w4DwynMKepKkUU"
     },
     {
-      "added_at": "2025-10-24 07:45:46",
-      "album": {
-        "name": "OH MY LITTLE GIRL",
-        "url": "https://open.spotify.com/album/7LEcypSjlXxIQnSSjeIiLj"
-      },
-      "artists": [
-        {
-          "name": "Yutaka Ozaki",
-          "url": "https://open.spotify.com/artist/7Mo0nFEU6E8fGI0P2u7MOl"
-        }
-      ],
-      "duration_ms": 276333,
-      "name": "OH MY LITTLE GIRL",
-      "url": "https://open.spotify.com/track/7gRwEA36B5Oq7oUlCcWLKb"
-    },
-    {
       "added_at": "2026-11-10 09:14:46",
       "album": {
         "name": "M25",
@@ -983,6 +967,22 @@
       "duration_ms": 360146,
       "name": "\u96ea\u306e\u83ef\uff082026 Rerecorded\uff09",
       "url": "https://open.spotify.com/track/0BeXv4ZE6h6duxdKCblrat"
+    },
+    {
+      "added_at": "2025-10-24 07:45:46",
+      "album": {
+        "name": "OH MY LITTLE GIRL",
+        "url": "https://open.spotify.com/album/7LEcypSjlXxIQnSSjeIiLj"
+      },
+      "artists": [
+        {
+          "name": "Yutaka Ozaki",
+          "url": "https://open.spotify.com/artist/7Mo0nFEU6E8fGI0P2u7MOl"
+        }
+      ],
+      "duration_ms": 276333,
+      "name": "OH MY LITTLE GIRL",
+      "url": "https://open.spotify.com/track/7gRwEA36B5Oq7oUlCcWLKb"
     },
     {
       "added_at": "2025-10-23 13:55:51",
@@ -1033,22 +1033,6 @@
       "url": "https://open.spotify.com/track/7oRPjRlfRnWZcBH4j8WAAT"
     },
     {
-      "added_at": "2025-03-11 22:40:18",
-      "album": {
-        "name": "Slow time lover",
-        "url": "https://open.spotify.com/album/0SXfEdjFOCmyQwhS8oAbGG"
-      },
-      "artists": [
-        {
-          "name": "RETRORIRON",
-          "url": "https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu"
-        }
-      ],
-      "duration_ms": 241810,
-      "name": "Slow time lover",
-      "url": "https://open.spotify.com/track/3RN23f4eu6flCYbmqam9Xl"
-    },
-    {
       "added_at": "2026-11-10 09:14:46",
       "album": {
         "name": "Holiday",
@@ -1063,6 +1047,22 @@
       "duration_ms": 190821,
       "name": "Holiday",
       "url": "https://open.spotify.com/track/1motHZAL15sqtVQAei0PGR"
+    },
+    {
+      "added_at": "2025-03-11 22:40:18",
+      "album": {
+        "name": "Slow time lover",
+        "url": "https://open.spotify.com/album/0SXfEdjFOCmyQwhS8oAbGG"
+      },
+      "artists": [
+        {
+          "name": "RETRORIRON",
+          "url": "https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu"
+        }
+      ],
+      "duration_ms": 241810,
+      "name": "Slow time lover",
+      "url": "https://open.spotify.com/track/3RN23f4eu6flCYbmqam9Xl"
     },
     {
       "added_at": "2025-10-23 13:55:51",
@@ -1129,22 +1129,6 @@
       "url": "https://open.spotify.com/track/4JQS958NdP0PqfcoYFxrhV"
     },
     {
-      "added_at": "2025-10-24 07:45:46",
-      "album": {
-        "name": "Ken Hirai 10th Anniversary Complete Single Collection '95-'05 \u6b4c\u30d0\u30ab",
-        "url": "https://open.spotify.com/album/6XLXlr6vKDBxkpgkBKF502"
-      },
-      "artists": [
-        {
-          "name": "Ken Hirai",
-          "url": "https://open.spotify.com/artist/6jIhEiXcCAyBsuEI7qZ9vc"
-        }
-      ],
-      "duration_ms": 339773,
-      "name": "even if",
-      "url": "https://open.spotify.com/track/6rKel5kmQN62IKewLUPBze"
-    },
-    {
       "added_at": "2025-10-23 13:55:51",
       "album": {
         "name": "\u30cf\u30d4\u30cd\u30b9EP",
@@ -1159,6 +1143,22 @@
       "duration_ms": 257746,
       "name": "\u30cf\u30d4\u30cd\u30b9",
       "url": "https://open.spotify.com/track/13ndjn8Ro8ytUJQJfNVYz4"
+    },
+    {
+      "added_at": "2025-10-24 07:45:46",
+      "album": {
+        "name": "Ken Hirai 10th Anniversary Complete Single Collection '95-'05 \u6b4c\u30d0\u30ab",
+        "url": "https://open.spotify.com/album/6XLXlr6vKDBxkpgkBKF502"
+      },
+      "artists": [
+        {
+          "name": "Ken Hirai",
+          "url": "https://open.spotify.com/artist/6jIhEiXcCAyBsuEI7qZ9vc"
+        }
+      ],
+      "duration_ms": 339773,
+      "name": "even if",
+      "url": "https://open.spotify.com/track/6rKel5kmQN62IKewLUPBze"
     },
     {
       "added_at": "2025-10-24 07:45:46",
@@ -1273,20 +1273,20 @@
       "url": "https://open.spotify.com/track/15cyI9UoqIOBXtnb5fPkq3"
     },
     {
-      "added_at": "2025-10-24 07:45:46",
+      "added_at": "2025-12-05 00:27:18",
       "album": {
-        "name": "\u7518\u3044\u904b\u547d",
-        "url": "https://open.spotify.com/album/26ENJDTjqWtZWIdPCwo1X9"
+        "name": "shiro",
+        "url": "https://open.spotify.com/album/6hrv5WgeX3p6ZAOibTowfS"
       },
       "artists": [
         {
-          "name": "UA",
-          "url": "https://open.spotify.com/artist/43XHGbWVe5qKVCuI0HMep0"
+          "name": "Offo tokyo",
+          "url": "https://open.spotify.com/artist/24dGzgKTwpUdb4cGdnFj7y"
         }
       ],
-      "duration_ms": 313061,
-      "name": "\u771f\u591c\u4e2d\u306e\u30ae\u30bf\u30fc",
-      "url": "https://open.spotify.com/track/2VSw9rpGvjzAGelXY7zw2c"
+      "duration_ms": 221900,
+      "name": "shiro",
+      "url": "https://open.spotify.com/track/13B7xIMV9eLj9xWO4EJF6r"
     },
     {
       "added_at": "2025-12-11 02:28:39",
@@ -1305,36 +1305,20 @@
       "url": "https://open.spotify.com/track/1EZKPMqumpM3Jud6AQAlBZ"
     },
     {
-      "added_at": "2025-12-05 00:27:18",
-      "album": {
-        "name": "shiro",
-        "url": "https://open.spotify.com/album/6hrv5WgeX3p6ZAOibTowfS"
-      },
-      "artists": [
-        {
-          "name": "Offo tokyo",
-          "url": "https://open.spotify.com/artist/24dGzgKTwpUdb4cGdnFj7y"
-        }
-      ],
-      "duration_ms": 221900,
-      "name": "shiro",
-      "url": "https://open.spotify.com/track/13B7xIMV9eLj9xWO4EJF6r"
-    },
-    {
       "added_at": "2025-10-24 07:45:46",
       "album": {
-        "name": "In TRANSIT (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7JTJZmyZAg9bIjOljvhMf8"
+        "name": "\u7518\u3044\u904b\u547d",
+        "url": "https://open.spotify.com/album/26ENJDTjqWtZWIdPCwo1X9"
       },
       "artists": [
         {
-          "name": "Ovall",
-          "url": "https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv"
+          "name": "UA",
+          "url": "https://open.spotify.com/artist/43XHGbWVe5qKVCuI0HMep0"
         }
       ],
-      "duration_ms": 229348,
-      "name": "Winter Lights",
-      "url": "https://open.spotify.com/track/3iceeQ5PJPmkL6X8qwX28v"
+      "duration_ms": 313061,
+      "name": "\u771f\u591c\u4e2d\u306e\u30ae\u30bf\u30fc",
+      "url": "https://open.spotify.com/track/2VSw9rpGvjzAGelXY7zw2c"
     },
     {
       "added_at": "2025-12-24 00:34:11",
@@ -1351,6 +1335,22 @@
       "duration_ms": 261865,
       "name": "\u6c34\u4e2d\u306e\u30e1\u30c8\u30ed",
       "url": "https://open.spotify.com/track/2rPZULJJqeYbJAwO7PyVcX"
+    },
+    {
+      "added_at": "2025-10-24 07:45:46",
+      "album": {
+        "name": "In TRANSIT (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7JTJZmyZAg9bIjOljvhMf8"
+      },
+      "artists": [
+        {
+          "name": "Ovall",
+          "url": "https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv"
+        }
+      ],
+      "duration_ms": 229348,
+      "name": "Winter Lights",
+      "url": "https://open.spotify.com/track/3iceeQ5PJPmkL6X8qwX28v"
     },
     {
       "added_at": "2025-12-05 00:27:18",

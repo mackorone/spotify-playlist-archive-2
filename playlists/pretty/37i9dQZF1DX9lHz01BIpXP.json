@@ -1,6 +1,6 @@
 {
   "description": "Die beste in Afrikaanse Hip Hop. Cover: Ziggy4x",
-  "num_followers": 3720,
+  "num_followers": 3721,
   "original_name": "Afrikaanse Hip Hop",
   "owner": {
     "name": "Spotify",
@@ -175,42 +175,6 @@
     {
       "added_at": "2025-06-27 09:27:23",
       "album": {
-        "name": "First Day Out",
-        "url": "https://open.spotify.com/album/3ug5SKrtKBpqI7Ni6xgivM"
-      },
-      "artists": [
-        {
-          "name": "Luda G",
-          "url": "https://open.spotify.com/artist/6Qcqf55xs0HYcc9i9myj0Z"
-        },
-        {
-          "name": "Young OG CPT",
-          "url": "https://open.spotify.com/artist/0Mj65U6z6MBgRCO9XsBTHO"
-        }
-      ],
-      "duration_ms": 186263,
-      "name": "First Day Out",
-      "url": "https://open.spotify.com/track/73ypQOtbzrDIjtFqmS453f"
-    },
-    {
-      "added_at": "2025-09-25 22:00:28",
-      "album": {
-        "name": "Disi makliki",
-        "url": "https://open.spotify.com/album/3Kql6vrQQxt3OSTyL4IZJc"
-      },
-      "artists": [
-        {
-          "name": "Daxter Deedz",
-          "url": "https://open.spotify.com/artist/0Jkf0tswAE3lh41WNW1ZOG"
-        }
-      ],
-      "duration_ms": 179869,
-      "name": "Disi makliki",
-      "url": "https://open.spotify.com/track/1u9wr82dUyErwH9DJ1xc7d"
-    },
-    {
-      "added_at": "2025-06-27 09:27:23",
-      "album": {
         "name": "Tittewyt",
         "url": "https://open.spotify.com/album/0vL0GrNmwHfbVJUYX3xAIx"
       },
@@ -231,6 +195,42 @@
       "duration_ms": 218709,
       "name": "Tittewyt",
       "url": "https://open.spotify.com/track/08iPW7xvS94YUYS4ld5vSu"
+    },
+    {
+      "added_at": "2025-09-25 22:00:28",
+      "album": {
+        "name": "Disi makliki",
+        "url": "https://open.spotify.com/album/3Kql6vrQQxt3OSTyL4IZJc"
+      },
+      "artists": [
+        {
+          "name": "Daxter Deedz",
+          "url": "https://open.spotify.com/artist/0Jkf0tswAE3lh41WNW1ZOG"
+        }
+      ],
+      "duration_ms": 179869,
+      "name": "Disi makliki",
+      "url": "https://open.spotify.com/track/1u9wr82dUyErwH9DJ1xc7d"
+    },
+    {
+      "added_at": "2025-06-27 09:27:23",
+      "album": {
+        "name": "First Day Out",
+        "url": "https://open.spotify.com/album/3ug5SKrtKBpqI7Ni6xgivM"
+      },
+      "artists": [
+        {
+          "name": "Luda G",
+          "url": "https://open.spotify.com/artist/6Qcqf55xs0HYcc9i9myj0Z"
+        },
+        {
+          "name": "Young OG CPT",
+          "url": "https://open.spotify.com/artist/0Mj65U6z6MBgRCO9XsBTHO"
+        }
+      ],
+      "duration_ms": 186263,
+      "name": "First Day Out",
+      "url": "https://open.spotify.com/track/73ypQOtbzrDIjtFqmS453f"
     },
     {
       "added_at": "2025-06-27 09:27:23",

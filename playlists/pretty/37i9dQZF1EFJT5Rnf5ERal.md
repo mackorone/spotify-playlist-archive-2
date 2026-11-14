@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6hyJ0dcR6HEDiNyBAgCEPU">Tay Keith</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,254 likes - 286 songs - 13 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,255 likes - 286 songs - 13 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -171,8 +171,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 | 161 | [Ova Bad](https://open.spotify.com/track/7eP2aGOcagXwchZIIKX0QO) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [In Sexyy We Trust](https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx) | 2:11 |
 | 162 | [Smoke \(with EST Gee\)](https://open.spotify.com/track/1jr4IuubT6GD9KpkNFcKcn) | [BlocBoy JB](https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Bacc 2 Da Bloc](https://open.spotify.com/album/2ItyhC5YTQMXGLb6OmZljr) | 2:08 |
 | 163 | [Shine Together](https://open.spotify.com/track/2siheDJgKlL9CIomIsITY3) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [I Still Dont Feel Nun](https://open.spotify.com/album/7ilMGv7d9zo5DF6k87qv7w) | 2:03 |
-| 164 | [Hooters](https://open.spotify.com/track/6TCz9dPTN2FjSrHYg2RpwS) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [Still My Moment](https://open.spotify.com/album/3M683oGfLgaL300rp3xIT2) | 2:50 |
-| 165 | [MANNISH](https://open.spotify.com/track/4FMKlYbHCYv83ryuvOnbqB) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [PROJECT X](https://open.spotify.com/album/2UNJOZcWFBhtjUrKBNS9bc) | 2:27 |
+| 164 | [MANNISH](https://open.spotify.com/track/4FMKlYbHCYv83ryuvOnbqB) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [PROJECT X](https://open.spotify.com/album/2UNJOZcWFBhtjUrKBNS9bc) | 2:27 |
+| 165 | [Hooters](https://open.spotify.com/track/6TCz9dPTN2FjSrHYg2RpwS) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [Still My Moment](https://open.spotify.com/album/3M683oGfLgaL300rp3xIT2) | 2:50 |
 | 166 | [City On Lock](https://open.spotify.com/track/6DDNOwpA8MHEylWVQdyVFq) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [City On Lock](https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN) | 2:18 |
 | 167 | [Shake Dat Ass](https://open.spotify.com/track/5L7uORAm7jmXwMMOSaPweR) | [Jucee Froot](https://open.spotify.com/artist/7BtDOCA9U1krM87JITg6bF), [Zed Zilla](https://open.spotify.com/artist/5ygIMAnMVdeTje3JtDjUTU) | [Shake Dat Ass](https://open.spotify.com/album/2yjWswH8LZnfUGVLKa3an1) | 3:00 |
 | 168 | [Batman](https://open.spotify.com/track/4nt3Zn8CqmVTEVQuYToMqy) | [Ugly God](https://open.spotify.com/artist/3Fdm9TFJQCLmC3AWMuGExi) | [Bumps & Bruises \(Deluxe\)](https://open.spotify.com/album/4jrtlSzTql4HkG8e4LVGyo) | 2:53 |
@@ -295,4 +295,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 | 285 | [Spend It \(feat\. OK! Kyasia\)](https://open.spotify.com/track/6zfRheqLFZe0IvaEbpZsmM) | [That Girl Lay Lay](https://open.spotify.com/artist/6GVYRmhvBibjGCythicOlZ), [OK Kyasia](https://open.spotify.com/artist/1GTgb0xt0CIQjAZs4vFWQG) | [Spend It \(feat\. OK! Kyasia\)](https://open.spotify.com/album/67iNUhgvTMn24eSEDKzrRi) | 2:28 |
 | 286 | [Set Trip](https://open.spotify.com/track/4K0VtxxPpiQ1BJ4EUK803r) | [Blac Youngsta](https://open.spotify.com/artist/41klVmDluQZmGGqoidNfbe) | [Illuminati](https://open.spotify.com/album/2EtFM5N9CfL29S56ZK1LhK) | 2:25 |
 
-Snapshot ID: `AchgigAAAAAXvovCA5cjB9FlgXEvk93B`
+Snapshot ID: `AchmKgAAAADGasc43VNGbvlBvbDrCHGl`

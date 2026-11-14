@@ -1431,7 +1431,7 @@
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 144000,
+      "duration_ms": 144502,
       "name": "All That I Have",
       "url": "https://open.spotify.com/track/24XA6nrVoP57Tik49MxEGh"
     },
@@ -5157,6 +5157,40 @@
     },
     {
       "album": {
+        "name": "Parivarik ManuRanjan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7kulIuMcghcRL0sfLlR4Rg"
+      },
+      "artists": [
+        {
+          "name": "Pallavi Chaudhary",
+          "url": "https://open.spotify.com/artist/5ECZEGGMvumk33LdYUiuBG"
+        },
+        {
+          "name": "Krishnakali Saha",
+          "url": "https://open.spotify.com/artist/2L4PimBfxoTMZRp2SfVP5g"
+        },
+        {
+          "name": "Panther",
+          "url": "https://open.spotify.com/artist/1HnV8VaGdip3y1SpJPgft0"
+        },
+        {
+          "name": "Shamir Tandon",
+          "url": "https://open.spotify.com/artist/5l78zXA0RNE96IP45w3d5t"
+        },
+        {
+          "name": "Niket Pandey",
+          "url": "https://open.spotify.com/artist/61WClnYhOsPEZqbTOp4Dcj"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Chhaap Tilak - From \"Parivarik ManuRanjan\"",
+      "url": "https://open.spotify.com/track/2CX2JthbOjZMhAeKY3wEpT"
+    },
+    {
+      "album": {
         "name": "Chhathi Maiya (From \"The Vvaan\")",
         "url": "https://open.spotify.com/album/1VvPRAsEV5fqG3HDzYJ9aL"
       },
@@ -6624,7 +6658,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 178613,
       "name": "Dil Haareya",
       "url": "https://open.spotify.com/track/157H1RQQiJhYbVDDGjbao8"
@@ -13848,7 +13882,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 183000,
       "name": "Kamli Piya",
       "url": "https://open.spotify.com/track/6t4htW6HC7Usrx9YAQUA3v"
@@ -22874,7 +22908,7 @@
       ],
       "date_added": "2026-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 178647,
       "name": "Sahra",
       "url": "https://open.spotify.com/track/3AxnGEHWcrONXdkVjrOnEc"
@@ -25719,6 +25753,32 @@
     },
     {
       "album": {
+        "name": "Student of the Year - After Dark (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/39IaktXo4nOl8dczOWn6Cq"
+      },
+      "artists": [
+        {
+          "name": "Achint",
+          "url": "https://open.spotify.com/artist/4bvGDTEPFnllKiJaEZGuXk"
+        },
+        {
+          "name": "Jonita Gandhi",
+          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
+        },
+        {
+          "name": "Arushi Kaushal",
+          "url": "https://open.spotify.com/artist/3GYFWgZYy0KWnyqaBWdBpW"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191250,
+      "name": "Tere Liye Marjaawan (From \"Student of the Year - After Dark\")",
+      "url": "https://open.spotify.com/track/3SA46wbCNHufzt0WuUjePW"
+    },
+    {
+      "album": {
         "name": "Tere Rang Mein",
         "url": "https://open.spotify.com/album/3liqZRH0M6mmuIdiOg5JnG"
       },
@@ -26445,7 +26505,7 @@
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 159230,
+      "duration_ms": 158653,
       "name": "Toddy",
       "url": "https://open.spotify.com/track/1Vok23JnLm6I0VLkF7Bf0w"
     },
@@ -28852,6 +28912,36 @@
       "duration_ms": 257763,
       "name": "Yaad Sajan Ki Aaye",
       "url": "https://open.spotify.com/track/5uf4WIA2QAQJhHUIzJinyH"
+    },
+    {
+      "album": {
+        "name": "Parivarik ManuRanjan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7kulIuMcghcRL0sfLlR4Rg"
+      },
+      "artists": [
+        {
+          "name": "Jubin Nautiyal",
+          "url": "https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa"
+        },
+        {
+          "name": "Aseem Trivedi",
+          "url": "https://open.spotify.com/artist/4SK7pRoQe0UnhkjCpn1G3k"
+        },
+        {
+          "name": "Anuj Garg",
+          "url": "https://open.spotify.com/artist/15QUOLMCzfGtMtkQn6IaTG"
+        },
+        {
+          "name": "Yash Kapoor",
+          "url": "https://open.spotify.com/artist/07ymxiaLM2XsuqeE0UrRUw"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214444,
+      "name": "Yaad Tu Aaya - From \"Parivarik ManuRanjan\"",
+      "url": "https://open.spotify.com/track/6U1tEtqsyIrGUlHskzNqzZ"
     },
     {
       "album": {

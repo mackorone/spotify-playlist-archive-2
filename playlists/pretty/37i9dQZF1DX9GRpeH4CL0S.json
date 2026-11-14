@@ -1,6 +1,6 @@
 {
   "description": "The greatest alternative rock songs through the decades. Cover: Weezer",
-  "num_followers": 846019,
+  "num_followers": 846069,
   "original_name": "Essential Alternative",
   "owner": {
     "name": "Spotify",
@@ -547,22 +547,6 @@
     {
       "added_at": "2026-02-13 03:17:49",
       "album": {
-        "name": "Weezer",
-        "url": "https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 200306,
-      "name": "Island In The Sun",
-      "url": "https://open.spotify.com/track/2MLHyLy5z5l5YRp7momlgw"
-    },
-    {
-      "added_at": "2026-02-13 03:17:49",
-      "album": {
         "name": "American Beauty/American Psycho",
         "url": "https://open.spotify.com/album/022DrG7Wp2PSCwzuD0bSzT"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 228360,
       "name": "Centuries",
       "url": "https://open.spotify.com/track/04aAxqtGp5pv12UXAg4pkq"
+    },
+    {
+      "added_at": "2026-02-13 03:17:49",
+      "album": {
+        "name": "Weezer",
+        "url": "https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 200306,
+      "name": "Island In The Sun",
+      "url": "https://open.spotify.com/track/2MLHyLy5z5l5YRp7momlgw"
     },
     {
       "added_at": "2026-02-13 03:17:49",
@@ -611,22 +611,6 @@
     {
       "added_at": "2026-02-13 03:17:49",
       "album": {
-        "name": "Mellon Collie And The Infinite Sadness (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV"
-      },
-      "artists": [
-        {
-          "name": "The Smashing Pumpkins",
-          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
-        }
-      ],
-      "duration_ms": 266200,
-      "name": "1979 - Remastered 2012",
-      "url": "https://open.spotify.com/track/5QLHGv0DfpeXLNFo7SFEy1"
-    },
-    {
-      "added_at": "2026-02-13 03:17:49",
-      "album": {
         "name": "The Black Parade",
         "url": "https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 311106,
       "name": "Welcome to the Black Parade",
       "url": "https://open.spotify.com/track/5wQnmLuC1W7ATsArWACrgW"
+    },
+    {
+      "added_at": "2026-02-13 03:17:49",
+      "album": {
+        "name": "Mellon Collie And The Infinite Sadness (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV"
+      },
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "duration_ms": 266200,
+      "name": "1979 - Remastered 2012",
+      "url": "https://open.spotify.com/track/5QLHGv0DfpeXLNFo7SFEy1"
     },
     {
       "added_at": "2026-02-13 03:17:49",
@@ -691,18 +691,18 @@
     {
       "added_at": "2026-02-13 03:17:49",
       "album": {
-        "name": "Never Trust a Happy Song",
-        "url": "https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc"
+        "name": "The Black Parade",
+        "url": "https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK"
       },
       "artists": [
         {
-          "name": "GROUPLOVE",
-          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
         }
       ],
-      "duration_ms": 218013,
-      "name": "Tongue Tied",
-      "url": "https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N"
+      "duration_ms": 161920,
+      "name": "Teenagers",
+      "url": "https://open.spotify.com/track/7j31rVgGX9Q2blT92VBEA0"
     },
     {
       "added_at": "2026-02-13 03:17:49",
@@ -723,18 +723,18 @@
     {
       "added_at": "2026-02-13 03:17:49",
       "album": {
-        "name": "The Black Parade",
-        "url": "https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK"
+        "name": "Never Trust a Happy Song",
+        "url": "https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc"
       },
       "artists": [
         {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+          "name": "GROUPLOVE",
+          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
         }
       ],
-      "duration_ms": 161920,
-      "name": "Teenagers",
-      "url": "https://open.spotify.com/track/7j31rVgGX9Q2blT92VBEA0"
+      "duration_ms": 218013,
+      "name": "Tongue Tied",
+      "url": "https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N"
     },
     {
       "added_at": "2026-02-13 03:17:49",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2026-02-13 03:17:49",
       "album": {
-        "name": "All Killer, No Filler",
-        "url": "https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 178266,
-      "name": "Fat Lip",
-      "url": "https://open.spotify.com/track/4KacUpvbA3Mfo05gttTjhN"
-    },
-    {
-      "added_at": "2026-02-13 03:17:49",
-      "album": {
         "name": "Ill Communication",
         "url": "https://open.spotify.com/album/6lfjbwFGzQ6aSNP1N3JlT8"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 178440,
       "name": "Sabotage",
       "url": "https://open.spotify.com/track/0Puj4YlTm6xNzDDADXHMI9"
+    },
+    {
+      "added_at": "2026-02-13 03:17:49",
+      "album": {
+        "name": "All Killer, No Filler",
+        "url": "https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 178266,
+      "name": "Fat Lip",
+      "url": "https://open.spotify.com/track/4KacUpvbA3Mfo05gttTjhN"
     },
     {
       "added_at": "2026-02-13 03:17:49",
@@ -2519,22 +2519,6 @@
     {
       "added_at": "2026-02-13 03:17:49",
       "album": {
-        "name": "Fashion Nugget",
-        "url": "https://open.spotify.com/album/57lJNxlrPSin9SySEnerNb"
-      },
-      "artists": [
-        {
-          "name": "CAKE",
-          "url": "https://open.spotify.com/artist/6A43Djmhbe9100UwnI7epV"
-        }
-      ],
-      "duration_ms": 179653,
-      "name": "The Distance",
-      "url": "https://open.spotify.com/track/0xMEF2WiqKWTIG7Krjungw"
-    },
-    {
-      "added_at": "2026-02-13 03:17:49",
-      "album": {
         "name": "I Should Coco",
         "url": "https://open.spotify.com/album/3YfIjaJEWqiSbKPguS9Bxd"
       },
@@ -2547,6 +2531,22 @@
       "duration_ms": 180880,
       "name": "Alright",
       "url": "https://open.spotify.com/track/5xC8uOesnn0udeXAYlAnoY"
+    },
+    {
+      "added_at": "2026-02-13 03:17:49",
+      "album": {
+        "name": "Fashion Nugget",
+        "url": "https://open.spotify.com/album/57lJNxlrPSin9SySEnerNb"
+      },
+      "artists": [
+        {
+          "name": "CAKE",
+          "url": "https://open.spotify.com/artist/6A43Djmhbe9100UwnI7epV"
+        }
+      ],
+      "duration_ms": 179653,
+      "name": "The Distance",
+      "url": "https://open.spotify.com/track/0xMEF2WiqKWTIG7Krjungw"
     },
     {
       "added_at": "2026-02-13 03:17:49",
@@ -2583,22 +2583,6 @@
     {
       "added_at": "2026-02-13 03:17:49",
       "album": {
-        "name": "Vampire Weekend",
-        "url": "https://open.spotify.com/album/5oXBmKbyJeQftWMo87cQ9F"
-      },
-      "artists": [
-        {
-          "name": "Vampire Weekend",
-          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
-        }
-      ],
-      "duration_ms": 137760,
-      "name": "A-Punk",
-      "url": "https://open.spotify.com/track/5dKBaysNJtfpyNTRa5lqDb"
-    },
-    {
-      "added_at": "2026-02-13 03:17:49",
-      "album": {
         "name": "Elephant",
         "url": "https://open.spotify.com/album/0VXcqDD3sHdOIGtO6oYv3d"
       },
@@ -2611,6 +2595,22 @@
       "duration_ms": 231800,
       "name": "Seven Nation Army",
       "url": "https://open.spotify.com/track/3ctoHckjyd13eBi2IDw2Ip"
+    },
+    {
+      "added_at": "2026-02-13 03:17:49",
+      "album": {
+        "name": "Vampire Weekend",
+        "url": "https://open.spotify.com/album/5oXBmKbyJeQftWMo87cQ9F"
+      },
+      "artists": [
+        {
+          "name": "Vampire Weekend",
+          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+        }
+      ],
+      "duration_ms": 137760,
+      "name": "A-Punk",
+      "url": "https://open.spotify.com/track/5dKBaysNJtfpyNTRa5lqDb"
     },
     {
       "added_at": "2026-02-13 03:17:49",
@@ -2775,18 +2775,18 @@
     {
       "added_at": "2026-02-13 03:17:49",
       "album": {
-        "name": "Silent Alarm",
-        "url": "https://open.spotify.com/album/4KeTvCYCel3Ky58FirciWp"
+        "name": "Miike Snow",
+        "url": "https://open.spotify.com/album/3EqIz9KGQakhATc71OGQQi"
       },
       "artists": [
         {
-          "name": "Bloc Party",
-          "url": "https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ"
+          "name": "Miike Snow",
+          "url": "https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J"
         }
       ],
-      "duration_ms": 200400,
-      "name": "Banquet",
-      "url": "https://open.spotify.com/track/6U5hUX40OWY6l0HaPUWElZ"
+      "duration_ms": 263426,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/6vSq5q5DCs1IvwKIq53hj2"
     },
     {
       "added_at": "2026-02-13 03:17:49",
@@ -2807,18 +2807,34 @@
     {
       "added_at": "2026-02-13 03:17:49",
       "album": {
-        "name": "Miike Snow",
-        "url": "https://open.spotify.com/album/3EqIz9KGQakhATc71OGQQi"
+        "name": "Silent Alarm",
+        "url": "https://open.spotify.com/album/4KeTvCYCel3Ky58FirciWp"
       },
       "artists": [
         {
-          "name": "Miike Snow",
-          "url": "https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J"
+          "name": "Bloc Party",
+          "url": "https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ"
         }
       ],
-      "duration_ms": 263426,
-      "name": "Animal",
-      "url": "https://open.spotify.com/track/6vSq5q5DCs1IvwKIq53hj2"
+      "duration_ms": 200400,
+      "name": "Banquet",
+      "url": "https://open.spotify.com/track/6U5hUX40OWY6l0HaPUWElZ"
+    },
+    {
+      "added_at": "2026-02-13 03:17:49",
+      "album": {
+        "name": "Speak & Spell (2006 Remaster)",
+        "url": "https://open.spotify.com/album/0ntg4L6zjosDII94zoyboq"
+      },
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        }
+      ],
+      "duration_ms": 222760,
+      "name": "Just Can't Get Enough - 2006 Remaster",
+      "url": "https://open.spotify.com/track/0xuXRQJfxmdP6gvfDe2Z4L"
     },
     {
       "added_at": "2026-02-13 03:17:49",
@@ -2851,22 +2867,6 @@
       "duration_ms": 279026,
       "name": "Young Folks",
       "url": "https://open.spotify.com/track/6M6UoxIPn4NOWW0x7JPRfv"
-    },
-    {
-      "added_at": "2026-02-13 03:17:49",
-      "album": {
-        "name": "Speak & Spell (2006 Remaster)",
-        "url": "https://open.spotify.com/album/0ntg4L6zjosDII94zoyboq"
-      },
-      "artists": [
-        {
-          "name": "Depeche Mode",
-          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
-        }
-      ],
-      "duration_ms": 222760,
-      "name": "Just Can't Get Enough - 2006 Remaster",
-      "url": "https://open.spotify.com/track/0xuXRQJfxmdP6gvfDe2Z4L"
     },
     {
       "added_at": "2026-02-13 03:17:49",
@@ -2951,22 +2951,6 @@
     {
       "added_at": "2026-02-13 03:17:49",
       "album": {
-        "name": "Icky Thump",
-        "url": "https://open.spotify.com/album/1Mu6HgmdfdiQTOZ8mPEyFU"
-      },
-      "artists": [
-        {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
-        }
-      ],
-      "duration_ms": 254533,
-      "name": "Icky Thump",
-      "url": "https://open.spotify.com/track/09QZAEmdbq28OaNyqTOEvY"
-    },
-    {
-      "added_at": "2026-02-13 03:17:49",
-      "album": {
         "name": "The Libertines",
         "url": "https://open.spotify.com/album/4Fpg7zSk9EdANLYiPXd7ri"
       },
@@ -3031,18 +3015,18 @@
     {
       "added_at": "2026-02-13 03:17:49",
       "album": {
-        "name": "Tell All Your Friends (Re-Issue)",
-        "url": "https://open.spotify.com/album/6OWxP59cOtitg0ALmbms8e"
+        "name": "Icky Thump",
+        "url": "https://open.spotify.com/album/1Mu6HgmdfdiQTOZ8mPEyFU"
       },
       "artists": [
         {
-          "name": "Taking Back Sunday",
-          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
         }
       ],
-      "duration_ms": 211546,
-      "name": "Cute Without the \"E\" (Cut From the Team)",
-      "url": "https://open.spotify.com/track/1aYWQrIT8XPdtV4hhUjczN"
+      "duration_ms": 254533,
+      "name": "Icky Thump",
+      "url": "https://open.spotify.com/track/09QZAEmdbq28OaNyqTOEvY"
     },
     {
       "added_at": "2026-02-13 03:17:49",
@@ -3059,6 +3043,54 @@
       "duration_ms": 213693,
       "name": "Cannonball",
       "url": "https://open.spotify.com/track/2hjGuRIEfEGzQ5MEWLowiU"
+    },
+    {
+      "added_at": "2026-02-13 03:17:49",
+      "album": {
+        "name": "Tell All Your Friends (Re-Issue)",
+        "url": "https://open.spotify.com/album/6OWxP59cOtitg0ALmbms8e"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "duration_ms": 211546,
+      "name": "Cute Without the \"E\" (Cut From the Team)",
+      "url": "https://open.spotify.com/track/1aYWQrIT8XPdtV4hhUjczN"
+    },
+    {
+      "added_at": "2026-02-13 03:17:49",
+      "album": {
+        "name": "The Singles Collection",
+        "url": "https://open.spotify.com/album/2m0063PKiyLZ0NQNEOhzHv"
+      },
+      "artists": [
+        {
+          "name": "Silversun Pickups",
+          "url": "https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h"
+        }
+      ],
+      "duration_ms": 354360,
+      "name": "Lazy Eye",
+      "url": "https://open.spotify.com/track/7eZyj92v6bZsoQ85MxWZsO"
+    },
+    {
+      "added_at": "2026-02-13 03:17:49",
+      "album": {
+        "name": "Everything All The Time",
+        "url": "https://open.spotify.com/album/4BozXZbBYOnLakhZNUv40C"
+      },
+      "artists": [
+        {
+          "name": "Band of Horses",
+          "url": "https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF"
+        }
+      ],
+      "duration_ms": 322173,
+      "name": "The Funeral",
+      "url": "https://open.spotify.com/track/27IZXTdeGYjU6m5lTyDpmr"
     },
     {
       "added_at": "2026-02-13 03:17:49",
@@ -3095,34 +3127,34 @@
     {
       "added_at": "2026-02-13 03:17:49",
       "album": {
-        "name": "The Singles Collection",
-        "url": "https://open.spotify.com/album/2m0063PKiyLZ0NQNEOhzHv"
+        "name": "...Is A Real Boy",
+        "url": "https://open.spotify.com/album/7JNdSN2KnFApyFE836pdUS"
       },
       "artists": [
         {
-          "name": "Silversun Pickups",
-          "url": "https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h"
+          "name": "Say Anything",
+          "url": "https://open.spotify.com/artist/3ImqpXKKgkH5VydfgX1hd4"
         }
       ],
-      "duration_ms": 354360,
-      "name": "Lazy Eye",
-      "url": "https://open.spotify.com/track/7eZyj92v6bZsoQ85MxWZsO"
+      "duration_ms": 254973,
+      "name": "Alive With The Glory Of Love",
+      "url": "https://open.spotify.com/track/7ve7SjgFNCQiuwaYP6uERF"
     },
     {
       "added_at": "2026-02-13 03:17:49",
       "album": {
-        "name": "Everything All The Time",
-        "url": "https://open.spotify.com/album/4BozXZbBYOnLakhZNUv40C"
+        "name": "In Rainbows",
+        "url": "https://open.spotify.com/album/7eyQXxuf2nGj9d2367Gi5f"
       },
       "artists": [
         {
-          "name": "Band of Horses",
-          "url": "https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF"
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
         }
       ],
-      "duration_ms": 322173,
-      "name": "The Funeral",
-      "url": "https://open.spotify.com/track/27IZXTdeGYjU6m5lTyDpmr"
+      "duration_ms": 328293,
+      "name": "House Of Cards",
+      "url": "https://open.spotify.com/track/3Jc6X15OZCCyhGSHBF4hwB"
     },
     {
       "added_at": "2026-02-13 03:17:49",
@@ -3171,38 +3203,6 @@
       "duration_ms": 239600,
       "name": "Pumped up Kicks",
       "url": "https://open.spotify.com/track/6qj3fVJJ2PcRxpSG7lDPZ5"
-    },
-    {
-      "added_at": "2026-02-13 03:17:49",
-      "album": {
-        "name": "...Is A Real Boy",
-        "url": "https://open.spotify.com/album/7JNdSN2KnFApyFE836pdUS"
-      },
-      "artists": [
-        {
-          "name": "Say Anything",
-          "url": "https://open.spotify.com/artist/3ImqpXKKgkH5VydfgX1hd4"
-        }
-      ],
-      "duration_ms": 254973,
-      "name": "Alive With The Glory Of Love",
-      "url": "https://open.spotify.com/track/7ve7SjgFNCQiuwaYP6uERF"
-    },
-    {
-      "added_at": "2026-02-13 03:17:49",
-      "album": {
-        "name": "In Rainbows",
-        "url": "https://open.spotify.com/album/7eyQXxuf2nGj9d2367Gi5f"
-      },
-      "artists": [
-        {
-          "name": "Radiohead",
-          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
-        }
-      ],
-      "duration_ms": 328293,
-      "name": "House Of Cards",
-      "url": "https://open.spotify.com/track/3Jc6X15OZCCyhGSHBF4hwB"
     },
     {
       "added_at": "2026-02-13 03:17:49",

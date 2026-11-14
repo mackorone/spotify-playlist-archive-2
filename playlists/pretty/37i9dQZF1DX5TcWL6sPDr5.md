@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5TcWL6sPDr5.md) - [plain]
 
 > Listen to women at full volume\. Cover: 💚Moyka💚
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,297 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,296 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5TcWL6sPDr5.md) - [plain]
 | 18 | [Vertigo](https://open.spotify.com/track/1aoUkNSAzwMaHoJL0PPkMP) | [Carlina de Place](https://open.spotify.com/artist/3sH7pDSVIcvaR7AVOFeCiv) | [You Said Jump..\. And I Flew](https://open.spotify.com/album/1AOybuyxAGewUiiJc85qhs) | 2:36 |
 | 19 | [Creek](https://open.spotify.com/track/6pahtfyWIYs5qYHNrx9Yjv) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Creek](https://open.spotify.com/album/4ZHCgrvfu9ayQNQ0agDrVO) | 1:53 |
 | 20 | [Stuck On Us](https://open.spotify.com/track/3jbz8nNa7dM3flDi2thhX1) | [Giift](https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p) | [Stuck On Us](https://open.spotify.com/album/2pbCyrVoOx9JosWEd0sRcD) | 2:55 |
-| 21 | [C'mon Caroline](https://open.spotify.com/track/04KeNT4krk7FCBoGV1j1jh) | [GRANT](https://open.spotify.com/artist/6SkVKlAmIWVD0LQvCGQqSj) | [C'mon Caroline](https://open.spotify.com/album/7ocOBer43mULvqsTrET2Ng) | 3:15 |
+| 21 | [C'mon Caroline](https://open.spotify.com/track/04KeNT4krk7FCBoGV1j1jh) | [Grant](https://open.spotify.com/artist/6SkVKlAmIWVD0LQvCGQqSj) | [C'mon Caroline](https://open.spotify.com/album/7ocOBer43mULvqsTrET2Ng) | 3:15 |
 | 22 | [Tabt Noget](https://open.spotify.com/track/4f7b2nMVkhM58F6nSnQTDZ) | [Bette](https://open.spotify.com/artist/4gepV1NXit1T15YxX0Bv27), [GUZO](https://open.spotify.com/artist/5kYNsgbRhmiRs9FZxwaFwV) | [EGO](https://open.spotify.com/album/4KZGnVN2Uner3QBMC0Tfoc) | 3:28 |
 | 23 | [Elastic](https://open.spotify.com/track/7xJ7KcJZth0qSyrkodu6Dr) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Elastic](https://open.spotify.com/album/5IuVkBn0X5N9swYnKqRFf8) | 2:13 |
 | 24 | [Closure](https://open.spotify.com/track/4eM05nS0Lzig5gAbvVyLxK) | [May](https://open.spotify.com/artist/6ufyaDLdDuLeG5Ls4udcDE) | [Closure](https://open.spotify.com/album/0nZQithCY9l0CP2i8WFPto) | 3:08 |

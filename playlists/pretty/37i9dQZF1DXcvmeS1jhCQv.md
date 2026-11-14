@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvmeS1jhCQv.md) - [plain]
 
 > The best new Irish music in one place 📍 Cover: earfzilla
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,227 likes - 69 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,249 likes - 69 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

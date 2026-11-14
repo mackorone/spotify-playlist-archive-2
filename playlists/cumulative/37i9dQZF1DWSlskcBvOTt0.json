@@ -1189,6 +1189,36 @@
     },
     {
       "album": {
+        "name": "All The People",
+        "url": "https://open.spotify.com/album/21BkH2O10433QoWLGs6pZN"
+      },
+      "artists": [
+        {
+          "name": "Shimza",
+          "url": "https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "SOMETHING ELSE",
+          "url": "https://open.spotify.com/artist/5EhAPIpyTfmhdfh6vWsLqM"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157440,
+      "name": "All The People",
+      "url": "https://open.spotify.com/track/4lYmmth0qGELlYGE5LPzkx"
+    },
+    {
+      "album": {
         "name": "Allo EP",
         "url": "https://open.spotify.com/album/2If0tk8iEozYUbwr3dty4m"
       },
@@ -1490,7 +1520,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 154918,
       "name": "Amor",
       "url": "https://open.spotify.com/track/0JIVY8wpEmZSIhAs9lxXxz"
@@ -4376,7 +4406,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-03",
+      "date_removed": null,
       "duration_ms": 179000,
       "name": "Champagne",
       "url": "https://open.spotify.com/track/7dfiOtJr96c3VGUI0JdnJE"
@@ -7830,7 +7860,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-12",
+      "date_removed": null,
       "duration_ms": 210000,
       "name": "Flow",
       "url": "https://open.spotify.com/track/5IpD0DMUjcvsIeVwWCdZR5"
@@ -15968,7 +15998,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 206557,
       "name": "Negra Soy",
       "url": "https://open.spotify.com/track/5ll38KqFaFr08MLWpv7Svb"
@@ -16592,7 +16622,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 158675,
       "name": "No Nation (Ayakata)",
       "url": "https://open.spotify.com/track/4lSSjtNkcROuqNXg09lZVS"
@@ -24176,7 +24206,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-25",
+      "date_removed": null,
       "duration_ms": 199125,
       "name": "Turned A Key",
       "url": "https://open.spotify.com/track/5dwI3JHau2HD1r5ZEKTkIx"
@@ -24678,7 +24708,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 374237,
       "name": "Vele Uyena (Risk It All) (feat. Elaine, JAZZWRLD, Thukuthela & Solaariss)",
       "url": "https://open.spotify.com/track/1YwkMl9hCzyinkiioqo6kl"

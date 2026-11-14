@@ -1,6 +1,6 @@
 {
   "description": "Fantastiske viser fra noen av v\u00e5re aller beste artister.",
-  "num_followers": 81813,
+  "num_followers": 81817,
   "original_name": "Norske viser",
   "owner": {
     "name": "Spotify",
@@ -139,6 +139,22 @@
     {
       "added_at": "2026-03-12 23:00:43",
       "album": {
+        "name": "Mosaikk (16 Biter)",
+        "url": "https://open.spotify.com/album/7rtosLI7Lqa0XoYLKdCjKO"
+      },
+      "artists": [
+        {
+          "name": "Anne Grete Preus",
+          "url": "https://open.spotify.com/artist/32mTrXKr7W8Tg4hH4S2Do1"
+        }
+      ],
+      "duration_ms": 233291,
+      "name": "N\u00e5r himmelen faller ned",
+      "url": "https://open.spotify.com/track/5aasUgkPxYhqKcxmNLotmH"
+    },
+    {
+      "added_at": "2026-03-12 23:00:43",
+      "album": {
         "name": "Godmorgen, s\u00f8ster",
         "url": "https://open.spotify.com/album/2io6ZizFfn0SkBpw1oRa4G"
       },
@@ -171,22 +187,6 @@
       "duration_ms": 225800,
       "name": "Ein farfar i livet",
       "url": "https://open.spotify.com/track/0J5d8MHv2n0QmyJwkcHN2f"
-    },
-    {
-      "added_at": "2026-03-12 23:00:43",
-      "album": {
-        "name": "Mosaikk (16 Biter)",
-        "url": "https://open.spotify.com/album/7rtosLI7Lqa0XoYLKdCjKO"
-      },
-      "artists": [
-        {
-          "name": "Anne Grete Preus",
-          "url": "https://open.spotify.com/artist/32mTrXKr7W8Tg4hH4S2Do1"
-        }
-      ],
-      "duration_ms": 233291,
-      "name": "N\u00e5r himmelen faller ned",
-      "url": "https://open.spotify.com/track/5aasUgkPxYhqKcxmNLotmH"
     },
     {
       "added_at": "2026-03-12 23:00:43",
@@ -227,6 +227,22 @@
     {
       "added_at": "2026-03-12 23:00:43",
       "album": {
+        "name": "M\u00e5nesinn",
+        "url": "https://open.spotify.com/album/4tP6uyIDQ3LC6QsxwLbdh7"
+      },
+      "artists": [
+        {
+          "name": "Ingebj\u00f8rg Bratland",
+          "url": "https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C"
+        }
+      ],
+      "duration_ms": 171640,
+      "name": "Fordi eg elskar deg",
+      "url": "https://open.spotify.com/track/2l0D5xYyekMyMNMJY92MdT"
+    },
+    {
+      "added_at": "2026-03-12 23:00:43",
+      "album": {
         "name": "Liten fuggel (Med kommentarer)",
         "url": "https://open.spotify.com/album/2rPi9btQoagJ9Kzv6Hg8tr"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 244120,
       "name": "Bestevenn",
       "url": "https://open.spotify.com/track/0bQLTkISNpcZ70TbGGisTA"
-    },
-    {
-      "added_at": "2026-03-12 23:00:43",
-      "album": {
-        "name": "M\u00e5nesinn",
-        "url": "https://open.spotify.com/album/4tP6uyIDQ3LC6QsxwLbdh7"
-      },
-      "artists": [
-        {
-          "name": "Ingebj\u00f8rg Bratland",
-          "url": "https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C"
-        }
-      ],
-      "duration_ms": 171640,
-      "name": "Fordi eg elskar deg",
-      "url": "https://open.spotify.com/track/2l0D5xYyekMyMNMJY92MdT"
     },
     {
       "added_at": "2026-03-12 23:00:43",
@@ -307,6 +307,22 @@
     {
       "added_at": "2026-03-12 23:00:43",
       "album": {
+        "name": "Berre meg",
+        "url": "https://open.spotify.com/album/7s0RRWzX6z2zieWyyyxogN"
+      },
+      "artists": [
+        {
+          "name": "Ingebj\u00f8rg Bratland",
+          "url": "https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C"
+        }
+      ],
+      "duration_ms": 226333,
+      "name": "Ingen som du",
+      "url": "https://open.spotify.com/track/4FbpUlIwMiWiqP8fUhDbW2"
+    },
+    {
+      "added_at": "2026-03-12 23:00:43",
+      "album": {
         "name": "S\u00f8vnlaus",
         "url": "https://open.spotify.com/album/3O6xwlooceiBfpcZRrtqsp"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 230973,
       "name": "Trondheimsnatt (feat. Line Sofie Aleksandersen)",
       "url": "https://open.spotify.com/track/0eIvpsLphOvtjcaDoAMDvf"
-    },
-    {
-      "added_at": "2026-03-12 23:00:43",
-      "album": {
-        "name": "Berre meg",
-        "url": "https://open.spotify.com/album/7s0RRWzX6z2zieWyyyxogN"
-      },
-      "artists": [
-        {
-          "name": "Ingebj\u00f8rg Bratland",
-          "url": "https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C"
-        }
-      ],
-      "duration_ms": 226333,
-      "name": "Ingen som du",
-      "url": "https://open.spotify.com/track/4FbpUlIwMiWiqP8fUhDbW2"
     },
     {
       "added_at": "2026-03-12 23:00:43",
@@ -527,22 +527,6 @@
     {
       "added_at": "2026-03-12 23:00:43",
       "album": {
-        "name": "Ta Meg Med",
-        "url": "https://open.spotify.com/album/3pWcFE43bLCUJhpuziIvHP"
-      },
-      "artists": [
-        {
-          "name": "Olav Stedje",
-          "url": "https://open.spotify.com/artist/4SM0aaZA4Gky48PLIlqFPA"
-        }
-      ],
-      "duration_ms": 194506,
-      "name": "Vi Vandrar Saman (Eg F\u00f8lgjer Der Du G\u00e5r)",
-      "url": "https://open.spotify.com/track/5b1AEdCpaCSNO8Z3i3SlFV"
-    },
-    {
-      "added_at": "2026-03-12 23:00:43",
-      "album": {
         "name": "Kr\u00e5keviks Songbok",
         "url": "https://open.spotify.com/album/5SdOIn61IrYoS5xg5sejzf"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 178760,
       "name": "Den Fyrste Song",
       "url": "https://open.spotify.com/track/2enwSZWWEhMxCoGaWke2Qe"
+    },
+    {
+      "added_at": "2026-03-12 23:00:43",
+      "album": {
+        "name": "Ta Meg Med",
+        "url": "https://open.spotify.com/album/3pWcFE43bLCUJhpuziIvHP"
+      },
+      "artists": [
+        {
+          "name": "Olav Stedje",
+          "url": "https://open.spotify.com/artist/4SM0aaZA4Gky48PLIlqFPA"
+        }
+      ],
+      "duration_ms": 194506,
+      "name": "Vi Vandrar Saman (Eg F\u00f8lgjer Der Du G\u00e5r)",
+      "url": "https://open.spotify.com/track/5b1AEdCpaCSNO8Z3i3SlFV"
     },
     {
       "added_at": "2026-03-12 23:00:43",
@@ -663,6 +663,22 @@
     {
       "added_at": "2026-03-12 23:00:43",
       "album": {
+        "name": "Vendepunkt",
+        "url": "https://open.spotify.com/album/3eU4aCZuPIq8hL2dSoibWI"
+      },
+      "artists": [
+        {
+          "name": "Eva Weel Skram",
+          "url": "https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3"
+        }
+      ],
+      "duration_ms": 197529,
+      "name": "P\u00e5 bes\u00f8k",
+      "url": "https://open.spotify.com/track/0uoq8SgOPFuT6uq5WtlXFi"
+    },
+    {
+      "added_at": "2026-03-12 23:00:43",
+      "album": {
         "name": "Badebussen",
         "url": "https://open.spotify.com/album/3EmJ7JUoTy85Ah0ITqQ7UX"
       },
@@ -683,22 +699,6 @@
     {
       "added_at": "2026-03-12 23:00:43",
       "album": {
-        "name": "Vendepunkt",
-        "url": "https://open.spotify.com/album/3eU4aCZuPIq8hL2dSoibWI"
-      },
-      "artists": [
-        {
-          "name": "Eva Weel Skram",
-          "url": "https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3"
-        }
-      ],
-      "duration_ms": 197529,
-      "name": "P\u00e5 bes\u00f8k",
-      "url": "https://open.spotify.com/track/0uoq8SgOPFuT6uq5WtlXFi"
-    },
-    {
-      "added_at": "2026-03-12 23:00:43",
-      "album": {
         "name": "Kom ut kom fram",
         "url": "https://open.spotify.com/album/211PaS9J8AAPWXCVkyIVkF"
       },
@@ -715,22 +715,6 @@
     {
       "added_at": "2026-03-12 23:00:43",
       "album": {
-        "name": "Hildringstimer - 14 velvalgte viser",
-        "url": "https://open.spotify.com/album/3STZjoiXVRs4EnnkrBiZ1x"
-      },
-      "artists": [
-        {
-          "name": "Erik Bye",
-          "url": "https://open.spotify.com/artist/1qqBCY3Scz9Ea1mjkCDgaZ"
-        }
-      ],
-      "duration_ms": 187600,
-      "name": "Varherres Klinkekuler",
-      "url": "https://open.spotify.com/track/5jbz1Pwz06o9fPMYFrmTOP"
-    },
-    {
-      "added_at": "2026-03-12 23:00:43",
-      "album": {
         "name": "Ramler mot hverandre",
         "url": "https://open.spotify.com/album/2ZtsLOse1UpbB5CZZRMN5b"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 214226,
       "name": "Ramler mot hverandre",
       "url": "https://open.spotify.com/track/3MuVUbTl1RrzIKnEl0tYIW"
+    },
+    {
+      "added_at": "2026-03-12 23:00:43",
+      "album": {
+        "name": "Hildringstimer - 14 velvalgte viser",
+        "url": "https://open.spotify.com/album/3STZjoiXVRs4EnnkrBiZ1x"
+      },
+      "artists": [
+        {
+          "name": "Erik Bye",
+          "url": "https://open.spotify.com/artist/1qqBCY3Scz9Ea1mjkCDgaZ"
+        }
+      ],
+      "duration_ms": 187600,
+      "name": "Varherres Klinkekuler",
+      "url": "https://open.spotify.com/track/5jbz1Pwz06o9fPMYFrmTOP"
     },
     {
       "added_at": "2026-03-12 23:00:43",
@@ -819,6 +819,22 @@
     {
       "added_at": "2026-03-12 23:00:43",
       "album": {
+        "name": "Alt det som skinner",
+        "url": "https://open.spotify.com/album/2R6Dqa6ORZaDkBXeD9SMbr"
+      },
+      "artists": [
+        {
+          "name": "Anne Grete Preus",
+          "url": "https://open.spotify.com/artist/32mTrXKr7W8Tg4hH4S2Do1"
+        }
+      ],
+      "duration_ms": 250403,
+      "name": "Alt det som skinner",
+      "url": "https://open.spotify.com/track/0HYvxo4SmIg7pS6TDoODUD"
+    },
+    {
+      "added_at": "2026-03-12 23:00:43",
+      "album": {
         "name": "Heimlandsong",
         "url": "https://open.spotify.com/album/5lk6moS6CZPICHbU1xRJ5m"
       },
@@ -835,26 +851,6 @@
       "duration_ms": 286675,
       "name": "Heimlandsong",
       "url": "https://open.spotify.com/track/5hymGjLtHryPaJsy7RcgBJ"
-    },
-    {
-      "added_at": "2026-03-12 23:00:43",
-      "album": {
-        "name": "Spor i sn\u00f8",
-        "url": "https://open.spotify.com/album/5ALVZSAv6BgrsAJNLvkfbV"
-      },
-      "artists": [
-        {
-          "name": "Stein Torleif Bjella",
-          "url": "https://open.spotify.com/artist/5S2AgI8b86lQyL14ykyYYm"
-        },
-        {
-          "name": "Hver gang vi m\u00f8tes",
-          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
-        }
-      ],
-      "duration_ms": 230680,
-      "name": "Spor i sn\u00f8",
-      "url": "https://open.spotify.com/track/00Hpn2m6O7fInTduN987Zc"
     }
   ],
   "unique_name": "Norske viser",

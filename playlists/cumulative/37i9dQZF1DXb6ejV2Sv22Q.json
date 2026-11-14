@@ -2737,6 +2737,24 @@
     },
     {
       "album": {
+        "name": "DEATH OF CITY WIRES",
+        "url": "https://open.spotify.com/album/7pFx4SewMtipxWYnMbzkvr"
+      },
+      "artists": [
+        {
+          "name": "Mila La Morena",
+          "url": "https://open.spotify.com/artist/3Z9effQtaUBYCz0P0Sup6P"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179200,
+      "name": "CUT THE CAMERAS!",
+      "url": "https://open.spotify.com/track/07PN0vBZIiJjKwaL4xQ8pZ"
+    },
+    {
+      "album": {
         "name": "Cu\u00e1nto nos queda",
         "url": "https://open.spotify.com/album/50yE0eLO8QTDvoY95WfbQy"
       },
@@ -3294,6 +3312,32 @@
       "duration_ms": 189600,
       "name": "DIMEQ?!",
       "url": "https://open.spotify.com/track/041aBasKTvxbf5AzsxRZ34"
+    },
+    {
+      "album": {
+        "name": "dimequemequieres",
+        "url": "https://open.spotify.com/album/2nSf743KHORjxPDNQDnIya"
+      },
+      "artists": [
+        {
+          "name": "KUINA",
+          "url": "https://open.spotify.com/artist/2fjInVWSawW5FUnXd3QLqb"
+        },
+        {
+          "name": "Mi Compa el Chino",
+          "url": "https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4"
+        },
+        {
+          "name": "El Verumcito",
+          "url": "https://open.spotify.com/artist/0Xe3f3OUBfpL0WbRwAJXwY"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156315,
+      "name": "dimequemequieres",
+      "url": "https://open.spotify.com/track/2L0UKitZehWpMz63p0C5lx"
     },
     {
       "album": {
@@ -7605,6 +7649,24 @@
     },
     {
       "album": {
+        "name": "missu(\uff0d\u2038 \u10da)",
+        "url": "https://open.spotify.com/album/4I6rfGpWH83vXbuj2Rfl9m"
+      },
+      "artists": [
+        {
+          "name": "REYPA",
+          "url": "https://open.spotify.com/artist/1wzeiKSV9ynzmzfLvynLiW"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133757,
+      "name": "missu(\uff0d\u2038 \u10da)",
+      "url": "https://open.spotify.com/track/7xf8DSO5glEj5hC0an7mM8"
+    },
+    {
+      "album": {
         "name": "GLOTOBER III: The Final Chapter",
         "url": "https://open.spotify.com/album/1sgoUu9MMPpIpmjaDsqGur"
       },
@@ -10144,7 +10206,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 211611,
       "name": "Qui\u00e9reme as\u00ed",
       "url": "https://open.spotify.com/track/59ZGZeD9krTAmIiXZtoHGZ"
@@ -10682,7 +10744,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 185600,
       "name": "SALIR A BUSCARTE",
       "url": "https://open.spotify.com/track/5vVbHTEphWiFwPpalQ0OIx"
@@ -12572,7 +12634,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 187591,
       "name": "T\u00fa, mi bb",
       "url": "https://open.spotify.com/track/2GuNMjF2VUeUUgtx6CZzYf"

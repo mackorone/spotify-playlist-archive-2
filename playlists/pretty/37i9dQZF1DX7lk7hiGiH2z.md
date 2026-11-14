@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 
 > Die schönsten Lieder für den Laternenumzug ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,898 likes - 45 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,929 likes - 45 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 28 | [Ach, Martin, gib halt mal was her \(Kinderlied für Sankt Martin\)](https://open.spotify.com/track/77Np5dJUNWI97A7BSCeaOy) | [Sternschnuppe](https://open.spotify.com/artist/08M6tIv9n50XyVLtABiZG5) | [Herbstlieder: Lustige Kinderlieder zu Herbst und Halloween](https://open.spotify.com/album/7HGhIQ2dd5w5CtkIrEn7XC) | 4:12 |
 | 29 | [Die Laterne hat heut ihren großen Tag](https://open.spotify.com/track/7BC42JI3FLtA8hhuTl7TyY) | [Jürgen Fastje](https://open.spotify.com/artist/1fBCzTI3C3lLiBqyJU81PB) | [Kinderlieder, Teil 3](https://open.spotify.com/album/7oxfGQyy1dp8LAieSPZRP6) | 3:33 |
 | 30 | [Sonne, Mond und Sterne](https://open.spotify.com/track/4rsdmYSwg7nxCSkb4GEn5J) | [Lauras Stern](https://open.spotify.com/artist/0xY8w0o3cSH3gzx4G4h8qD), [3Berlin](https://open.spotify.com/artist/7eUEQQxUaukrKyzVjeWk1V) | [Lauras Stern \- Das Liederalbum zum Kinofilm](https://open.spotify.com/album/7r855N0wTZTFxyiFntXUsz) | 3:02 |
-| 31 | [Laternchen, Laternchen](https://open.spotify.com/track/02iM95Tu2YT4dsuWwIQkke) | [Kinderchor Canzonetta Berlin](https://open.spotify.com/artist/2hPcTWItqk71rEzyaHQn7R) | [St\. Martin \- Die Kinderlieder zum Laternen Fest](https://open.spotify.com/album/7K3Psz6NXHypF40QCR9kcT) | 1:32 |
+| 31 | [La\-Li\-La\-Lu\-Laterne](https://open.spotify.com/track/4IGeKVHyQEfkdIZDNV8nyf) | [Ingrid Hofer](https://open.spotify.com/artist/1RFd5CgPNp9BKQO40jbitO) | [Teddy Eddy \- Superheld! \(Kinderlieder\)](https://open.spotify.com/album/6l110uQ4RsZjTbCs7gNnUu) | 3:28 |
 | 32 | [Ich liebe alle Sterne \(Laternenlied\)](https://open.spotify.com/track/7Mwi1YiX4xp2Bo6654p2Sf) | [Kati Breuer](https://open.spotify.com/artist/3vgsqpOJq62z2UjnRO2liy), [Stephen Janetzko](https://open.spotify.com/artist/0HC9OQdqPCCE1WNMetTTmG) | [Ich liebe alle Sterne \(Laternenlied\)](https://open.spotify.com/album/1rdaF7ppns4a1ebTYxupqW) | 2:31 |
-| 33 | [La\-Li\-La\-Lu\-Laterne](https://open.spotify.com/track/4IGeKVHyQEfkdIZDNV8nyf) | [Ingrid Hofer](https://open.spotify.com/artist/1RFd5CgPNp9BKQO40jbitO) | [Teddy Eddy \- Superheld! \(Kinderlieder\)](https://open.spotify.com/album/6l110uQ4RsZjTbCs7gNnUu) | 3:28 |
+| 33 | [Laternchen, Laternchen](https://open.spotify.com/track/02iM95Tu2YT4dsuWwIQkke) | [Kinderchor Canzonetta Berlin](https://open.spotify.com/artist/2hPcTWItqk71rEzyaHQn7R) | [St\. Martin \- Die Kinderlieder zum Laternen Fest](https://open.spotify.com/album/7K3Psz6NXHypF40QCR9kcT) | 1:32 |
 | 34 | [Wir leuchten zusammen](https://open.spotify.com/track/31llVx9c5b3iJiLuSIE98h) | [LiederTiger](https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt) | [Meine Lieblingskinderlieder zum Laternelaufen](https://open.spotify.com/album/4EdCIX7eCBKk6RgmXABFJG) | 2:30 |
 | 35 | [Hexen Laternenlauf](https://open.spotify.com/track/6PO8tFwarbJoG3XRU0Uv1y) | [Andreas Schoba: Kinderlieder einfach handgemacht](https://open.spotify.com/artist/3Av62xzOXjxLZ4XAt1V911) | [Hexen Laternenlauf](https://open.spotify.com/album/6ZsgutFQGrbdUjoWj9OdNQ) | 2:08 |
 | 36 | [Wir halten die Laternen](https://open.spotify.com/track/4BSk3N9P8FKiZzWKlBSP4M) | [Schnabi Schnabel](https://open.spotify.com/artist/3GxW2mmzRySZHcA0RUk8d8), [Kinderlieder Gang](https://open.spotify.com/artist/2MRBYMwOyQql8G4BngW89E) | [Kinderlieder \- Herbst \(2022\)](https://open.spotify.com/album/08D9Wpnkuq1Obo7ZMhGCe9) | 3:14 |

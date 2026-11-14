@@ -4243,6 +4243,32 @@
     },
     {
       "album": {
+        "name": "AMA",
+        "url": "https://open.spotify.com/album/4n4V2UU2hQf2ObphZsHdX0"
+      },
+      "artists": [
+        {
+          "name": "Ultra Stellaire",
+          "url": "https://open.spotify.com/artist/4424fsO0szH3eRd2CYcDiI"
+        },
+        {
+          "name": "A\u00cfSSS",
+          "url": "https://open.spotify.com/artist/4nlOI773uzutrPjm8IRoe4"
+        },
+        {
+          "name": "10.10",
+          "url": "https://open.spotify.com/artist/2ENHtWWAdo7yayG5MOCxKX"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137739,
+      "name": "AMA",
+      "url": "https://open.spotify.com/track/1CoxL7VHuwSOK9zLDWX04n"
+    },
+    {
+      "album": {
         "name": "Le chemin des pots cass\u00e9s",
         "url": "https://open.spotify.com/album/0sR2WXnjNcLalUxXvwl4kW"
       },

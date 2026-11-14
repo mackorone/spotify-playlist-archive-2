@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0ENBD2.md) - [plain]
 
 > This is Queen\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,991,103 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,991,119 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0ENBD2.md) - [plain]
 | 6 | [Bohemian Rhapsody](https://open.spotify.com/track/2JiDi0qAXsPwhPqA2qaKGt) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Night At The Opera](https://open.spotify.com/album/1TkbyIkf6GSrO5e7gWS4AM) | 5:54 |
 | 7 | [Radio Ga Ga](https://open.spotify.com/track/6N717o83wbmahFGUqkjQj7) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Works](https://open.spotify.com/album/6IXmSdbq5OmlR08vvcnHoC) | 5:49 |
 | 8 | [Crazy Little Thing Called Love](https://open.spotify.com/track/7uON6DWIjXgmLQIfGsWXpV) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game](https://open.spotify.com/album/6l8tOdUItDC01Qmb91Lo8W) | 2:48 |
-| 9 | [Killer Queen](https://open.spotify.com/track/46L5lm1Xzwr0TExEMpObtq) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Sheer Heart Attack](https://open.spotify.com/album/6uj0z3xtvQ8Y0UWevdQlIx) | 3:00 |
-| 10 | [I Want To Break Free](https://open.spotify.com/track/5lmMeytpSOBTzFYRS32fwA) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Bohemian Rhapsody \(The Original Soundtrack\)](https://open.spotify.com/album/69RZR37WFgxDDdfxAPz9pk) | 3:43 |
+| 9 | [I Want To Break Free](https://open.spotify.com/track/5lmMeytpSOBTzFYRS32fwA) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Bohemian Rhapsody \(The Original Soundtrack\)](https://open.spotify.com/album/69RZR37WFgxDDdfxAPz9pk) | 3:43 |
+| 10 | [Killer Queen](https://open.spotify.com/track/46L5lm1Xzwr0TExEMpObtq) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Sheer Heart Attack](https://open.spotify.com/album/6uj0z3xtvQ8Y0UWevdQlIx) | 3:00 |
 | 11 | [Somebody To Love](https://open.spotify.com/track/18OMrZoyyZuVy06FttIFhq) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Day At The Races \(Deluxe Edition\)](https://open.spotify.com/album/32wu2qeQwVA6D8z1nWk68Q) | 4:57 |
 | 12 | [We Are the Champions](https://open.spotify.com/track/0saBeiGcu2dECTvAknHPzL) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [News Of The World](https://open.spotify.com/album/7hq6mnrJ7CWbemk6B3H8PJ) | 2:59 |
 | 13 | [Cool Cat](https://open.spotify.com/track/1IC79gic67NsxLC4Ddb14W) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Hot Space \(Deluxe Edition\)](https://open.spotify.com/album/5MJwdeBTZ5V4PZtFh4gaQ6) | 3:29 |
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0ENBD2.md) - [plain]
 | 36 | [Princes Of The Universe](https://open.spotify.com/track/6dQupZh4DKM9CGFNu4m6CG) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Kind Of Magic \(Deluxe Edition\)](https://open.spotify.com/album/3gAVJcYGZD5Jm8YaWOkSrZ) | 3:31 |
 | 37 | [Breakthru](https://open.spotify.com/track/1ndfs8LA7ss6kNNQ8itvUt) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Miracle](https://open.spotify.com/album/4Ck0kT7cw6fXjFVBL3DODw) | 4:08 |
 | 38 | [Play The Game](https://open.spotify.com/track/00h2sYTI0EIgvUVlicRDdx) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(Deluxe Edition\)](https://open.spotify.com/album/58bipcogQNQdIrGFWUSJM3) | 3:31 |
-| 39 | [Crazy Little Thing Called Love \- Live in Budapest](https://open.spotify.com/track/1C96D0D01TZiQ6TpY23DvH) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Crazy Little Thing Called Love \(Live in Budapest\)](https://open.spotify.com/album/0N8uGniH4WDCxnwsbkermz) | 4:52 |
-| 40 | ['39](https://open.spotify.com/track/6e8HCstOUFx9sac4fnqPKx) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Night At The Opera \(Deluxe Edition\)](https://open.spotify.com/album/28ZLOn6tPfDTPGIqvwiWvC) | 3:30 |
+| 39 | ['39](https://open.spotify.com/track/6e8HCstOUFx9sac4fnqPKx) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Night At The Opera \(Deluxe Edition\)](https://open.spotify.com/album/28ZLOn6tPfDTPGIqvwiWvC) | 3:30 |
+| 40 | [Crazy Little Thing Called Love \- Live in Budapest](https://open.spotify.com/track/1C96D0D01TZiQ6TpY23DvH) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Crazy Little Thing Called Love \(Live in Budapest\)](https://open.spotify.com/album/0N8uGniH4WDCxnwsbkermz) | 4:52 |
 | 41 | [We Are The Champions \- Live Aid](https://open.spotify.com/track/3QjYCAzQfNFDIL6kSMpPcw) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Bohemian Rhapsody \(The Original Soundtrack\)](https://open.spotify.com/album/69RZR37WFgxDDdfxAPz9pk) | 3:57 |
 | 42 | [Spread Your Wings](https://open.spotify.com/track/7sk3xGIhSoDz7sCwoaFTqn) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [News Of The World](https://open.spotify.com/album/7hq6mnrJ7CWbemk6B3H8PJ) | 4:34 |
 | 43 | [One Vision](https://open.spotify.com/track/3zApeb5jO36NDFPqz1tXW7) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Kind Of Magic \(Deluxe Edition\)](https://open.spotify.com/album/3gAVJcYGZD5Jm8YaWOkSrZ) | 5:10 |
-| 44 | [Who Wants to Live Forever \- Live in Budapest](https://open.spotify.com/track/0FpvhhU3bfAtjx7gFv0GOi) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Who Wants to Live Forever \(Live in Budapest\)](https://open.spotify.com/album/1phOF1iJfhjm64XX3P6Vny) | 3:59 |
-| 45 | [Headlong](https://open.spotify.com/track/1dDtAKhoIhOGDO9mV5kNwX) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Innuendo](https://open.spotify.com/album/0CNfnxzURJtjzeyELCBfvj) | 4:38 |
+| 44 | [Headlong](https://open.spotify.com/track/1dDtAKhoIhOGDO9mV5kNwX) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Innuendo](https://open.spotify.com/album/0CNfnxzURJtjzeyELCBfvj) | 4:38 |
+| 45 | [Who Wants to Live Forever \- Live in Budapest](https://open.spotify.com/track/0FpvhhU3bfAtjx7gFv0GOi) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Who Wants to Live Forever \(Live in Budapest\)](https://open.spotify.com/album/1phOF1iJfhjm64XX3P6Vny) | 3:59 |
 | 46 | [The Invisible Man](https://open.spotify.com/track/770LXTeLm1POb8SLYkXSAa) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Miracle](https://open.spotify.com/album/4Ck0kT7cw6fXjFVBL3DODw) | 4:02 |
 | 47 | [Somebody To Love \- Live At The Freddie Mercury Tribute Concert For AIDS Awareness, Wembley / 1992](https://open.spotify.com/track/0muc9Lvuvz3V0XQjbrfNzz) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo), [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Greatest Hits III](https://open.spotify.com/album/5VeFHJvFbfmrigIKFqGa1e) | 5:07 |
 | 48 | [Keep Yourself Alive](https://open.spotify.com/track/4DU4NgVlTkdS9Ce9o8lsZ6) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Queen \(Deluxe Edition\)](https://open.spotify.com/album/16br4ndsgOTnBQTjV0W5aB) | 3:46 |
 | 49 | [One Year Of Love](https://open.spotify.com/track/3B4lRypQs341Tcgef8gICJ) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Kind Of Magic \(Deluxe Edition\)](https://open.spotify.com/album/3gAVJcYGZD5Jm8YaWOkSrZ) | 4:27 |
 | 50 | [Don't Try Suicide](https://open.spotify.com/track/4Fh9yqhihSjribDyjOV6n7) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(Deluxe Edition\)](https://open.spotify.com/album/58bipcogQNQdIrGFWUSJM3) | 3:52 |
 
-Snapshot ID: `avOwAAAAAAAoqf/U9vfu2kRYLl1RXQHQ`
+Snapshot ID: `avUBgAAAAAD+WnKgEd9X4AH1aa3QD+NL`

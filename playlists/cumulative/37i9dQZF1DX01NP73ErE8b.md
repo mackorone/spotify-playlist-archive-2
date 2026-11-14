@@ -4,7 +4,7 @@
 
 > le canzoni di cui siamo ossessionati 💚 Pinguini Tattici Nucleari in cover
 
-774 songs - 1 day 15 hr 48 min
+775 songs - 1 day 15 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [Comuni Immortali](https://open.spotify.com/track/1VsUaDLGDWdaITdEB8BZmY) | [Achille Lauro](https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv) | [Comuni Immortali](https://open.spotify.com/album/2fip0ycNIWi34aIEaderBP) | 3:27 | 2026-04-16 | 2026-11-13 |
 | [Con Le Mie G \(feat\. Guè\)](https://open.spotify.com/track/1CGxpeDNpw9TfxIiwgm5K6) | [Ele A](https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h) | [Pixel](https://open.spotify.com/album/2GilGjaRAmsF7MptmRnFQT) | 2:51 | 2025-10-09 | 2025-11-04 |
 | [CONTA SU DI ME](https://open.spotify.com/track/7HKqAt1GaGbdXKmqhRwcR4) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [RANCH](https://open.spotify.com/album/4Yaw3xvAIJicXibGvmatbs) | 2:46 | 2025-05-26 | 2025-09-26 |
+| [Cosa mi fai](https://open.spotify.com/track/5KrBQxU4c768qoQp8sUbmp) | [Will](https://open.spotify.com/artist/7qIrqNF6i1kRLkGLgGXuZq) | [Cosa mi fai](https://open.spotify.com/album/6DqSrBR8XZkbKbJVzpTx5W) | 2:45 | 2026-11-13 |  |
 | [Cose molto piccole \(feat\. Malika Ayane\)](https://open.spotify.com/track/2Bqr7eNrzWIOXSZTvSSayc) | [Cesare Cremonini](https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T), [Malika Ayane](https://open.spotify.com/artist/5jcswtptZttxBwWKXbR5k5) | [Amateur](https://open.spotify.com/album/4wTAb0EVZi1ppAnGeJ0e9t) | 4:49 | 2026-11-12 |  |
 | [Cose Stupide](https://open.spotify.com/track/6X6A71dQ9bnJ4rP0RGVcOk) | [Alessandra Amoroso](https://open.spotify.com/artist/2pjb5ffSoVTr5lRYQXlnPu) | [Cose Stupide](https://open.spotify.com/album/0JmzM0D8DZH1UHx6GYbxvZ) | 2:54 | 2025-04-03 | 2025-05-16 |
 | [COSPLAY LOVE](https://open.spotify.com/track/5W6GyPzoPYuOMQRrz7rOhy) | [CARO WOW](https://open.spotify.com/artist/6kyGmHxzIq5UcqAYS6BWUs) | [COSPLAY LOVE](https://open.spotify.com/album/4LjJJLU4qibDKGAxHFpxKE) | 3:02 | 2025-03-20 | 2025-04-25 |
@@ -629,7 +630,7 @@
 | [SENZ'ALLEGRIA](https://open.spotify.com/track/2hbrk0CNaGmQNZWlFhkTZg) | [Gaia](https://open.spotify.com/artist/3AVx3OBPIk4pJQllAXoVs1) | [SENZ'ALLEGRIA](https://open.spotify.com/album/77oDrvHHBmNUZFW9xvwSM2) | 3:30 | 2026-10-15 |  |
 | [Senza la tua mano in tasca](https://open.spotify.com/track/2R0caWLPF6FjmlGqUrrSKk) | [gIANMARIA](https://open.spotify.com/artist/3lxINiPO2Mtk6VqtUSd5t1) | [Senza la tua mano in tasca](https://open.spotify.com/album/0BhWHniHDXogwZX3jdvlB0) | 2:54 | 2026-11-05 |  |
 | [Senza se e senza ma \- BROOKLYN STUDIO, JOVA SESSION 25](https://open.spotify.com/track/7w8gx5kBSpKOolSYHykwau) | [Jovanotti](https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi), [Spanish Harlem Orchestra](https://open.spotify.com/artist/0I7U5I66P88nCaVVPkIz6x) | [NIUIORCHERUBINI \(BROOKLYN STUDIO, JOVA SESSION 25\)](https://open.spotify.com/album/71ydkx8VLeUKNxwcwImstY) | 5:16 | 2025-11-19 | 2025-12-05 |
-| [Senza tregua](https://open.spotify.com/track/4Puo8pyv152VIsyFrkT0pq) | [ANTONIA](https://open.spotify.com/artist/7FHXOCS4B6dXsf5x3KmRr0) | [Senza tregua](https://open.spotify.com/album/2OIyM7cAW9NwO0RiJg3bDy) | 2:24 | 2026-11-12 |  |
+| [Senza Tregua](https://open.spotify.com/track/4Puo8pyv152VIsyFrkT0pq) | [ANTONIA](https://open.spotify.com/artist/7FHXOCS4B6dXsf5x3KmRr0) | [Senza Tregua](https://open.spotify.com/album/2OIyM7cAW9NwO0RiJg3bDy) | 2:24 | 2026-11-12 |  |
 | [Senza Una Stupida Storia](https://open.spotify.com/track/0603pYalC545IuB3RgWXPf) | [Achille Lauro](https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv) | [Senza Una Stupida Storia](https://open.spotify.com/album/11kvJ6rZcdyq1RNJXiKWVJ) | 2:59 | 2025-09-11 | 2026-01-16 |
 | [Serenamente](https://open.spotify.com/track/5ZliWdrEfiHceXVGnGzlxA) | [Juli](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf), [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn) | [SOLITO CINEMA](https://open.spotify.com/album/7o2Ac7nDPNLO0tOsdZ73JD) | 3:16 | 2026-04-23 |  |
 | [SERENATA](https://open.spotify.com/track/18phYWPlfxvF9jmUVwkb4c) | [Serena Brancale](https://open.spotify.com/artist/7108jelN43seqWILMvJwKi), [Alessandra Amoroso](https://open.spotify.com/artist/2pjb5ffSoVTr5lRYQXlnPu) | [SERENATA](https://open.spotify.com/album/1kknmZi7U32CSSrRVRfaqz) | 3:08 | 2025-05-29 | 2025-11-20 |

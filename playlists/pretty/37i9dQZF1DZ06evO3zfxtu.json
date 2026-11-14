@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avOwAAAAAACBLC2ZGMrGGr8Qo/Wf/8Ro",
+  "snapshot_id": "avUBgAAAAACRLuGoaEdf3Jj5eXI89/j+",
   "tracks": [
     {
       "added_at": null,
@@ -351,22 +351,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "That's My Girl (Remixes)",
-        "url": "https://open.spotify.com/album/0oApwtNMKHwqN7Zx4IYip8"
+        "name": "High (Festival Mix)",
+        "url": "https://open.spotify.com/album/28blXEjJBJLBzjrDqWlUY8"
       },
       "artists": [
         {
-          "name": "Fifth Harmony",
-          "url": "https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt"
-        },
-        {
           "name": "Eva Shaw",
           "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        },
+        {
+          "name": "Shaggy",
+          "url": "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
+        },
+        {
+          "name": "Demarco",
+          "url": "https://open.spotify.com/artist/0af5VM6xubf8EXKvoG35x6"
         }
       ],
-      "duration_ms": 193533,
-      "name": "That's My Girl - Eva Shaw Remix",
-      "url": "https://open.spotify.com/track/6ysEPZlnEh20JQUuMaOFes"
+      "duration_ms": 245446,
+      "name": "High - Festival Mix",
+      "url": "https://open.spotify.com/track/45PH0bpj0uPuUyyvaBJFEs"
     },
     {
       "added_at": null,
@@ -399,46 +403,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "High (Festival Mix)",
-        "url": "https://open.spotify.com/album/28blXEjJBJLBzjrDqWlUY8"
+        "name": "That's My Girl (Remixes)",
+        "url": "https://open.spotify.com/album/0oApwtNMKHwqN7Zx4IYip8"
       },
       "artists": [
         {
-          "name": "Eva Shaw",
-          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
-        },
-        {
-          "name": "Shaggy",
-          "url": "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
-        },
-        {
-          "name": "Demarco",
-          "url": "https://open.spotify.com/artist/0af5VM6xubf8EXKvoG35x6"
-        }
-      ],
-      "duration_ms": 245446,
-      "name": "High - Festival Mix",
-      "url": "https://open.spotify.com/track/45PH0bpj0uPuUyyvaBJFEs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Space Jungle 2026",
-        "url": "https://open.spotify.com/album/1RSIjwc8YpxF7VSem773cV"
-      },
-      "artists": [
-        {
-          "name": ".EXA",
-          "url": "https://open.spotify.com/artist/4fCHA6Os4QKfn5UngdAf3i"
+          "name": "Fifth Harmony",
+          "url": "https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt"
         },
         {
           "name": "Eva Shaw",
           "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
         }
       ],
-      "duration_ms": 233142,
-      "name": "Space Jungle 2026",
-      "url": "https://open.spotify.com/track/5R4ExC1GrvfGsF6I4nmJxF"
+      "duration_ms": 193533,
+      "name": "That's My Girl - Eva Shaw Remix",
+      "url": "https://open.spotify.com/track/6ysEPZlnEh20JQUuMaOFes"
     },
     {
       "added_at": null,
@@ -459,6 +439,26 @@
       "duration_ms": 345000,
       "name": "Get Down",
       "url": "https://open.spotify.com/track/0yeQpFHYNyn4sv5PSeLyvu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Space Jungle 2026",
+        "url": "https://open.spotify.com/album/1RSIjwc8YpxF7VSem773cV"
+      },
+      "artists": [
+        {
+          "name": ".EXA",
+          "url": "https://open.spotify.com/artist/4fCHA6Os4QKfn5UngdAf3i"
+        },
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        }
+      ],
+      "duration_ms": 233142,
+      "name": "Space Jungle 2026",
+      "url": "https://open.spotify.com/track/5R4ExC1GrvfGsF6I4nmJxF"
     },
     {
       "added_at": null,
@@ -579,30 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "STATIC",
-        "url": "https://open.spotify.com/album/0Ce8u3zg0o9WCo2jS4QUvC"
-      },
-      "artists": [
-        {
-          "name": "Eva Shaw",
-          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
-        },
-        {
-          "name": "Kofi",
-          "url": "https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld"
-        },
-        {
-          "name": "Ching",
-          "url": "https://open.spotify.com/artist/2OJWvrQSWQXqFNIx6jiM0Q"
-        }
-      ],
-      "duration_ms": 155452,
-      "name": "STATIC",
-      "url": "https://open.spotify.com/track/5VElIgwibFEpnP6iIa0PMF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SOLO",
         "url": "https://open.spotify.com/album/0C1rCiWg2VxcAH7SKdG55B"
       },
@@ -623,6 +599,30 @@
       "duration_ms": 160132,
       "name": "GANG",
       "url": "https://open.spotify.com/track/7kR9xrw56D3GpHKsF585fE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "STATIC",
+        "url": "https://open.spotify.com/album/0Ce8u3zg0o9WCo2jS4QUvC"
+      },
+      "artists": [
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        },
+        {
+          "name": "Kofi",
+          "url": "https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld"
+        },
+        {
+          "name": "Ching",
+          "url": "https://open.spotify.com/artist/2OJWvrQSWQXqFNIx6jiM0Q"
+        }
+      ],
+      "duration_ms": 155452,
+      "name": "STATIC",
+      "url": "https://open.spotify.com/track/5VElIgwibFEpnP6iIa0PMF"
     },
     {
       "added_at": null,
@@ -671,6 +671,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "BIG DRIP",
+        "url": "https://open.spotify.com/album/3wUD21g9m6gcwfiI4bo3a9"
+      },
+      "artists": [
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        },
+        {
+          "name": "Haviah Mighty",
+          "url": "https://open.spotify.com/artist/3UROQ34SGxV7h71Z3Gqp8u"
+        }
+      ],
+      "duration_ms": 124200,
+      "name": "BIG DRIP",
+      "url": "https://open.spotify.com/track/2hynFHX314nydzvtFk8QH5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "please.",
         "url": "https://open.spotify.com/album/3Z7S7yzklJNj07PVZHTp8Z"
       },
@@ -695,8 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Voices (feat. Najja)",
-        "url": "https://open.spotify.com/album/5M8TOMmrqLaAbJIL6AR3YE"
+        "name": "HYPE HOP 003",
+        "url": "https://open.spotify.com/album/2wyip0m1m7wPMvUimuonDj"
       },
       "artists": [
         {
@@ -704,17 +724,13 @@
           "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
         },
         {
-          "name": "DiJiTAL",
-          "url": "https://open.spotify.com/artist/4wgKZjK5s8GV9lMUtEIYiQ"
-        },
-        {
-          "name": "Najja",
-          "url": "https://open.spotify.com/artist/75qq04cEkhdz9WWYWfuYXw"
+          "name": "Kris the $pirit",
+          "url": "https://open.spotify.com/artist/6qqwLx8jRPkjUz0mlIvB6H"
         }
       ],
-      "duration_ms": 206888,
-      "name": "Voices (feat. Najja)",
-      "url": "https://open.spotify.com/track/0yZ7BOopH03rkVyny1XlpS"
+      "duration_ms": 162519,
+      "name": "SOLO [Hype Hop Edit]",
+      "url": "https://open.spotify.com/track/6TjVqOdsedPZ6wqekLiaIg"
     },
     {
       "added_at": null,
@@ -763,8 +779,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "BIG DRIP",
-        "url": "https://open.spotify.com/album/3wUD21g9m6gcwfiI4bo3a9"
+        "name": "Voices (feat. Najja)",
+        "url": "https://open.spotify.com/album/5M8TOMmrqLaAbJIL6AR3YE"
       },
       "artists": [
         {
@@ -772,13 +788,17 @@
           "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
         },
         {
-          "name": "Haviah Mighty",
-          "url": "https://open.spotify.com/artist/3UROQ34SGxV7h71Z3Gqp8u"
+          "name": "DiJiTAL",
+          "url": "https://open.spotify.com/artist/4wgKZjK5s8GV9lMUtEIYiQ"
+        },
+        {
+          "name": "Najja",
+          "url": "https://open.spotify.com/artist/75qq04cEkhdz9WWYWfuYXw"
         }
       ],
-      "duration_ms": 124200,
-      "name": "BIG DRIP",
-      "url": "https://open.spotify.com/track/2hynFHX314nydzvtFk8QH5"
+      "duration_ms": 206888,
+      "name": "Voices (feat. Najja)",
+      "url": "https://open.spotify.com/track/0yZ7BOopH03rkVyny1XlpS"
     },
     {
       "added_at": null,
@@ -792,13 +812,13 @@
           "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
         },
         {
-          "name": "Kris the $pirit",
-          "url": "https://open.spotify.com/artist/6qqwLx8jRPkjUz0mlIvB6H"
+          "name": "TyriqueOrDie",
+          "url": "https://open.spotify.com/artist/6IyH7Och2DBHZAEBH9t9dE"
         }
       ],
-      "duration_ms": 162519,
-      "name": "SOLO [Hype Hop Edit]",
-      "url": "https://open.spotify.com/track/6TjVqOdsedPZ6wqekLiaIg"
+      "duration_ms": 236065,
+      "name": "UNTZ [NYC Rage Fest]",
+      "url": "https://open.spotify.com/track/5MxsUFQKorHAyUCpbY5OA7"
     },
     {
       "added_at": null,
@@ -871,26 +891,6 @@
       "duration_ms": 213851,
       "name": "OUTSIDE",
       "url": "https://open.spotify.com/track/2if5WMiU68CavgL7OJit4Q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "HYPE HOP 003",
-        "url": "https://open.spotify.com/album/2wyip0m1m7wPMvUimuonDj"
-      },
-      "artists": [
-        {
-          "name": "Eva Shaw",
-          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
-        },
-        {
-          "name": "TyriqueOrDie",
-          "url": "https://open.spotify.com/artist/6IyH7Och2DBHZAEBH9t9dE"
-        }
-      ],
-      "duration_ms": 236065,
-      "name": "UNTZ [NYC Rage Fest]",
-      "url": "https://open.spotify.com/track/5MxsUFQKorHAyUCpbY5OA7"
     },
     {
       "added_at": null,
@@ -987,22 +987,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "BIG MON",
-        "url": "https://open.spotify.com/album/0RLe0Jsc7wnkGyaPuuT6Qz"
+        "name": "line em up.",
+        "url": "https://open.spotify.com/album/2HoNPzxZQcZEsSjT6TUNp7"
       },
       "artists": [
         {
-          "name": "DillanPonders",
-          "url": "https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef"
-        },
-        {
           "name": "Eva Shaw",
           "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        },
+        {
+          "name": "Skip Waiters",
+          "url": "https://open.spotify.com/artist/4VarNqx7kH5tBCBQwtixav"
+        },
+        {
+          "name": "Kris the $pirit",
+          "url": "https://open.spotify.com/artist/6qqwLx8jRPkjUz0mlIvB6H"
         }
       ],
-      "duration_ms": 140204,
-      "name": "BIG MON",
-      "url": "https://open.spotify.com/track/2d6ZM9zADssISNrtgIw8LS"
+      "duration_ms": 139424,
+      "name": "line em up.",
+      "url": "https://open.spotify.com/track/67wnr39oFDdVJjRDPb5yGE"
     },
     {
       "added_at": null,
@@ -1027,8 +1031,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "line em up.",
-        "url": "https://open.spotify.com/album/2HoNPzxZQcZEsSjT6TUNp7"
+        "name": "I Been Doing Great (You Can Stop MFing Asking)",
+        "url": "https://open.spotify.com/album/0e3tFtjJ6apQSfRItig6St"
       },
       "artists": [
         {
@@ -1036,17 +1040,33 @@
           "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
         },
         {
-          "name": "Skip Waiters",
-          "url": "https://open.spotify.com/artist/4VarNqx7kH5tBCBQwtixav"
-        },
-        {
-          "name": "Kris the $pirit",
-          "url": "https://open.spotify.com/artist/6qqwLx8jRPkjUz0mlIvB6H"
+          "name": "Nate Husser",
+          "url": "https://open.spotify.com/artist/5o4gKYJ99ROV1yye1v9Sh4"
         }
       ],
-      "duration_ms": 139424,
-      "name": "line em up.",
-      "url": "https://open.spotify.com/track/67wnr39oFDdVJjRDPb5yGE"
+      "duration_ms": 162600,
+      "name": "I Been Doing Great (You Can Stop MFing Asking)",
+      "url": "https://open.spotify.com/track/3MQFwwFy7Wua20rsN4DzbI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BIG MON",
+        "url": "https://open.spotify.com/album/0RLe0Jsc7wnkGyaPuuT6Qz"
+      },
+      "artists": [
+        {
+          "name": "DillanPonders",
+          "url": "https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef"
+        },
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        }
+      ],
+      "duration_ms": 140204,
+      "name": "BIG MON",
+      "url": "https://open.spotify.com/track/2d6ZM9zADssISNrtgIw8LS"
     },
     {
       "added_at": null,
@@ -1075,26 +1095,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "RVPTVRE",
-        "url": "https://open.spotify.com/album/7iI8JyP8eydxqHRpk1HHTH"
-      },
-      "artists": [
-        {
-          "name": "Eva Shaw",
-          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
-        },
-        {
-          "name": "DijahSB",
-          "url": "https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "RVPTVRE",
-      "url": "https://open.spotify.com/track/357JtAx8mVUPmSsHl6SeUW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Distance",
         "url": "https://open.spotify.com/album/3L46F83hE97SiUY5rIRGJn"
       },
@@ -1115,26 +1115,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "NT NT",
-        "url": "https://open.spotify.com/album/104hydtO8pzeBqrrzpc8xi"
+        "name": "Dat Girl",
+        "url": "https://open.spotify.com/album/13kSlYOht04NAOxxYusQQx"
       },
       "artists": [
+        {
+          "name": "Red Rat",
+          "url": "https://open.spotify.com/artist/4lthN9sVX4QW2lnXQEUbMh"
+        },
         {
           "name": "Eva Shaw",
           "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
         },
         {
-          "name": "Omar Kadir",
-          "url": "https://open.spotify.com/artist/1dZdd4uleOGer6HoYZq62D"
-        },
-        {
-          "name": "City Fidelia",
-          "url": "https://open.spotify.com/artist/04IRs1NjfLU4BHyNDUDMsB"
+          "name": "Steve Walls",
+          "url": "https://open.spotify.com/artist/3RAIGoHN3Qz4WQeVPyT4Zc"
         }
       ],
-      "duration_ms": 211800,
-      "name": "NT NT",
-      "url": "https://open.spotify.com/track/6tZRPnnrTjaxg1o6AgufSe"
+      "duration_ms": 130978,
+      "name": "Dat Girl",
+      "url": "https://open.spotify.com/track/5R3yCbROZKow1PHrXI4UP8"
     }
   ],
   "unique_name": "This Is Eva Shaw",

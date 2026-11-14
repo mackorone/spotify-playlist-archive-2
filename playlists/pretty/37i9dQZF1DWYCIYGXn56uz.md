@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 
 > solo le tracce con l'aura migliore 👾 ANTONIA in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 456,026 likes - 84 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 456,008 likes - 84 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Senza tregua](https://open.spotify.com/track/4Puo8pyv152VIsyFrkT0pq) | [ANTONIA](https://open.spotify.com/artist/7FHXOCS4B6dXsf5x3KmRr0) | [Senza tregua](https://open.spotify.com/album/2OIyM7cAW9NwO0RiJg3bDy) | 2:24 |
+| 1 | [Senza Tregua](https://open.spotify.com/track/4Puo8pyv152VIsyFrkT0pq) | [ANTONIA](https://open.spotify.com/artist/7FHXOCS4B6dXsf5x3KmRr0) | [Senza Tregua](https://open.spotify.com/album/2OIyM7cAW9NwO0RiJg3bDy) | 2:24 |
 | 2 | [da domani \(feat\. Alfa\)](https://open.spotify.com/track/6LxK7gHUo3z4tG5Lm9QV4Y) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP), [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7) | [TUTTO BENE GRAZIE](https://open.spotify.com/album/2epZi9msVLcyAaoVVzexzv) | 2:50 |
 | 3 | [Stelle&Galassie](https://open.spotify.com/track/6VDRCGGxETYuD0cPB5YIJh) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Stelle&Galassie](https://open.spotify.com/album/6cnxRaNlSLozN8uGgcYutv) | 3:14 |
 | 4 | [BUONANOTTE ANCHE STANOTTE](https://open.spotify.com/track/05cxuAZUr1KgLBP2wL2S6l) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s) | [BUONANOTTE ANCHE STANOTTE](https://open.spotify.com/album/2F8WdwMPcayDvddkNLKaeI) | 3:30 |

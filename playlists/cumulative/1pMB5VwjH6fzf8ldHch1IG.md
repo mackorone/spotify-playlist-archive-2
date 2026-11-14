@@ -2,7 +2,7 @@
 
 ### [Trending Now](https://open.spotify.com/playlist/1pMB5VwjH6fzf8ldHch1IG)
 
-> Stream your favourite trending tracks and discover new jams along the way! Cover: Harry Styles.
+> Stream your favourite trending tracks and discover new jams along the way! Cover: Tate McRae.
 
 1,708 songs - 3 day 18 hr 23 min
 

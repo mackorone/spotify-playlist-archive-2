@@ -4,7 +4,7 @@
 
 > Christian Hits Now \| Best Christian songs of 2026\. NEW CHRISTIAN MUSIC! New Music Friday! Cover: <a href="https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2?si=qRGgP9VyQ5K94cbE8yXDNw">Josiah Queen</a> Halloween fall music  , soaking worship , jelly roll worship  dolly parton rip dolly parton
 
-249 songs - 16 hr 11 min
+250 songs - 16 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Do It All Alone](https://open.spotify.com/track/4BC0djL2b1NHcLLT9LYw9d) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [Do It All Alone](https://open.spotify.com/album/65x0XC9A6bz7O81n67Sxjy) | 2:52 | 2026-02-13 | 2026-04-11 |
 | [Do It All Alone](https://open.spotify.com/track/4r52cNLmKqWVMMyaHYXikF) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ), [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [Do It All Alone](https://open.spotify.com/album/3uvW02kB4reiUy84wBmqpK) | 2:52 | 2026-04-10 |  |
 | [Doesn't He \(Deserve It All\)](https://open.spotify.com/track/037Q5ln2i35q79Ugfz9R5v) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Doesn't He \(Deserve It All\)](https://open.spotify.com/album/0lH7WX51nhQ7zf6c6vFt6y) | 3:32 | 2026-08-14 |  |
+| [Doxology \(All Praise\)](https://open.spotify.com/track/1DzcXks7Lsa4Zc6wuB2yt4) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0), [Kari Jobe Carnes](https://open.spotify.com/artist/3VTWrobRnI633EBuUSfyw3) | [Doxology \(All Praise\)](https://open.spotify.com/album/0u87RNAoGcLHPxpmJljLWm) | 6:59 | 2026-11-13 |  |
 | [Dusty Bibles](https://open.spotify.com/track/1GvJ35amuk7oGjcnoYSKFA) | [Josiah Queen](https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2) | [Mt\. Zion](https://open.spotify.com/album/0AF1OmlS1oYlymcUNCmmKd) | 3:10 | 2025-12-04 |  |
 | [Dusty Bibles](https://open.spotify.com/track/6N0KWnsfAVDzpekAVwMaOM) | [Josiah Queen](https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2) | [Dusty Bibles](https://open.spotify.com/album/3UZsw4ALtKsYZuSoyaLxHO) | 3:10 | 2025-06-20 | 2025-10-18 |
 | [Dusty Bibles](https://open.spotify.com/track/4Ax4D1H5St8eDVkFgiKKZ9) | [Josiah Queen](https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2), [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Dusty Bibles](https://open.spotify.com/album/47evnhp5JhC3d3CauNzEAU) | 3:10 | 2025-10-17 |  |

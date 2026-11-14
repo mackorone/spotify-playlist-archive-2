@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRegGOhYpv3j.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6Yyn4ntHauNSEpS4cnQALP">Alysa Vanderheym</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 102 likes - 85 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 102 likes - 86 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,5 +93,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRegGOhYpv3j.md) - [plain]
 | 83 | [Maybe Don’t?](https://open.spotify.com/track/5h9IjiO5qNtQgXrZUYWxqU) | [Clarke Burns](https://open.spotify.com/artist/6YSwAuCYqkMo7cCTd3wkVh) | [Maybe Don’t?](https://open.spotify.com/album/413h2NXjHd1Dq1OVjqkr7p) | 2:58 |
 | 84 | [it's not you, it's me](https://open.spotify.com/track/0X3mAcw0fxCLqgVcLoGbpC) | [Savana Santos](https://open.spotify.com/artist/4319F2mBye7whEKPHX8pSm) | [1](https://open.spotify.com/album/6N56gxTiG3hCtCTNgdiYtx) | 2:20 |
 | 85 | [Double Standard](https://open.spotify.com/track/29kSxzMLoSZ4qeEEO2vN4L) | [Conor Clemmons](https://open.spotify.com/artist/6CrzyNTeFnxKAnkXdx8eyv) | [Double Standard](https://open.spotify.com/album/5N9RkXhSdRLVRLNbAJ3hEP) | 3:24 |
+| 86 | [Shut Up & Ride](https://open.spotify.com/track/1SDGjWhZlW3hcv6XY5bwxd) | [Heartland Cast](https://open.spotify.com/artist/4Y45fGW9ShnqqJiKltapow), [Heart Sisters](https://open.spotify.com/artist/2nC9b7wRpXYykitNPnWSdI) | [Heartland \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/0Tt6NOXCCk16UP4Yqj0GiL) | 3:02 |
 
-Snapshot ID: `AchgigAAAADnbRtj0BkVOlyeOWH6dOty`
+Snapshot ID: `AchmKgAAAADnMuJpj/cKBIqz/StPM2ei`

@@ -4,7 +4,7 @@
 
 > La playlist qui fait du bien ☀️
 
-521 songs - 1 day 4 hr 30 min
+522 songs - 1 day 4 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,7 @@
 | [Dracula](https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Dracula](https://open.spotify.com/album/2kCjkEVRnLdEV5UOaQSAG4) | 3:25 | 2025-10-16 | 2026-02-06 |
 | [Dream](https://open.spotify.com/track/1zQ3aaipEmoZ4tHtwIR28a) | [Collect 200](https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE) | [Dream](https://open.spotify.com/album/5RRxkgSIBJ02AUEUf9pi9d) | 2:44 | 2025-09-04 | 2026-05-01 |
 | [Dreaming](https://open.spotify.com/track/2iQGLQk81BqoA5cJCwTawF) | [Tonique & Man](https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Mi Man](https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7) | [Dreaming](https://open.spotify.com/album/7iALUtKcf57yVL2ncziE0K) | 3:36 | 2025-05-01 | 2025-09-12 |
-| [Dreams Of Glory](https://open.spotify.com/track/3TqGsoyxdNceNjtxnpZYUj) | [Tahiti 80](https://open.spotify.com/artist/7N2ukNg3vSS0LE1xqSaO2j) | [Dreams Of Glory](https://open.spotify.com/album/1LsOTDYFTAycBI7A13uN6O) | 2:36 | 2026-10-02 |  |
+| [Dreams Of Glory](https://open.spotify.com/track/3TqGsoyxdNceNjtxnpZYUj) | [Tahiti 80](https://open.spotify.com/artist/7N2ukNg3vSS0LE1xqSaO2j) | [Dreams Of Glory](https://open.spotify.com/album/1LsOTDYFTAycBI7A13uN6O) | 2:36 | 2026-10-02 | 2026-11-14 |
 | [Easy To Love](https://open.spotify.com/track/2qod3v3MbuBamYUZebS88U) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68), [Tom McFarland](https://open.spotify.com/artist/2Lk6Kznui3rNEKOhjGtwM7) | [Easy To Love](https://open.spotify.com/album/5dsGIAbn6byAl76d7O8F0S) | 3:19 | 2026-02-19 |  |
 | [Echo From The Flames](https://open.spotify.com/track/6aqNOnHzXhnDVCY7pDZBD7) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Full Circle](https://open.spotify.com/album/3y9ho86K2n12FPdMV4pU7U) | 4:11 | 2026-03-26 |  |
 | [Eden](https://open.spotify.com/track/5jFiIiqGyS35QMov2WvFaT) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz) | [Eden](https://open.spotify.com/album/1PIpblTFI5xO71o0SWj5Ca) | 4:07 | 2025-11-13 |  |
@@ -440,6 +440,7 @@
 | [Sundown](https://open.spotify.com/track/4n741qFXYCwhdA5dcQRXOb) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Welcome to the Mood / Sundown](https://open.spotify.com/album/41XgAI6YFm0zl6bwDWLXhk) | 3:04 | 2025-05-22 | 2025-10-03 |
 | [Sunshine](https://open.spotify.com/track/07lwMZLo0Nxc01nMXuiVL8) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Sunshine](https://open.spotify.com/album/6xvFXJsIgOC70xQMwho7do) | 3:11 | 2026-08-17 |  |
 | [Sunshine In The Room \(feat\. Jon Batiste\)](https://open.spotify.com/track/2cbRRdFAhoDnBGQgJ7NGws) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD), [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Sunshine In The Room](https://open.spotify.com/album/5kcPJTW5E80SQpWDsorrYW) | 3:02 | 2025-01-30 | 2025-04-25 |
+| [Supernova](https://open.spotify.com/track/5UQPo4DofgIrrSZfliJYKR) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Legendary Love](https://open.spotify.com/album/74ExA1UleSA3kSC0TyNObv) | 2:51 | 2026-11-13 |  |
 | [Superstar](https://open.spotify.com/track/4YAMMJJOKgNlIOtrYlvvNp) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Superstar](https://open.spotify.com/album/1AUrq5meJLITlFgraUVuE5) | 2:40 | 2026-06-26 |  |
 | [Sweet Dream](https://open.spotify.com/track/4cHl5lAbgUja4k0qrpMVx7) | [Tommy Newport](https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv) | [Sweet Dream](https://open.spotify.com/album/60Y0qxOOoSDLCy82y0uD5C) | 2:40 | 2024-03-07 | 2024-05-24 |
 | [Sweet Dream](https://open.spotify.com/track/6FYre3b471v1ESa5yiT4ll) | [Tommy Newport](https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv) | [Sweet Dream](https://open.spotify.com/album/3dDMfXVxgrpykV9KGLDrTn) | 2:40 | 2024-03-14 | 2024-04-19 |

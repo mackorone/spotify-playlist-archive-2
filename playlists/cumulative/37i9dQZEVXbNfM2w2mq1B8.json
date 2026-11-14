@@ -1102,7 +1102,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 209706,
       "name": "A Little Death",
       "url": "https://open.spotify.com/track/5ji8WlqOBtVRCQK9HmHz2x"
@@ -1376,7 +1376,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 251186,
       "name": "Afraid",
       "url": "https://open.spotify.com/track/6y6y7GCq8M4Uy8Tg87dTTJ"
@@ -3478,7 +3478,7 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-11",
+      "date_removed": null,
       "duration_ms": 223448,
       "name": "Bad Boys",
       "url": "https://open.spotify.com/track/5dbIBryEKXQzizXzb3MXnV"
@@ -4708,7 +4708,7 @@
       ],
       "date_added": "2026-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-13",
+      "date_removed": null,
       "duration_ms": 195866,
       "name": "Bez chuvstva",
       "url": "https://open.spotify.com/track/33F5ZZ9LV9gF3Vc3u8NfwD"
@@ -25828,7 +25828,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 216873,
       "name": "Mutsuna",
       "url": "https://open.spotify.com/track/1AZk3XywowE0xQvHOVU6NB"
@@ -36966,7 +36966,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2026-11-13",
+      "date_removed": null,
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -36984,7 +36984,7 @@
       ],
       "date_added": "2026-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 240426,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/0cQVqPuHQP4KEwc7ZUQmj6"
@@ -41098,7 +41098,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-21",
+      "date_removed": null,
       "duration_ms": 216793,
       "name": "Varnah ti go",
       "url": "https://open.spotify.com/track/6zvwO7R26lGigFffAyFDRO"
@@ -43760,7 +43760,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 153000,
       "name": "You Get Me So High",
       "url": "https://open.spotify.com/track/7zwn1eykZtZ5LODrf7c0tS"
@@ -45720,7 +45720,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 217333,
       "name": "\u0414\u0430 \u0441\u0438 \u0442\u0443\u043a",
       "url": "https://open.spotify.com/track/5GeUnhnpp7NyhmBDlkvncd"
@@ -48535,6 +48535,24 @@
     },
     {
       "album": {
+        "name": "\u041c\u0415\u0421\u0415\u0427\u0418\u041d\u0410",
+        "url": "https://open.spotify.com/album/5jlO0A0b0NjDxzlUlFDgOG"
+      },
+      "artists": [
+        {
+          "name": "Molec",
+          "url": "https://open.spotify.com/artist/7H9Le3C3Z6DHOLxZrA3lVr"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222243,
+      "name": "\u041c\u0415\u0421\u0415\u0427\u0418\u041d\u0410",
+      "url": "https://open.spotify.com/track/6aFll9XRDGspVhAryzuBYP"
+    },
+    {
+      "album": {
         "name": "\u041f\u0435\u0441\u043d\u0438 \u0437\u0430 \u0441\u0432\u0430\u0442\u0431\u0438 \u0438 \u043f\u043e\u0433\u0440\u0435\u0431\u0435\u043d\u0438\u044f",
         "url": "https://open.spotify.com/album/3UoZjJacxi8N43F52O6M68"
       },
@@ -48630,7 +48648,7 @@
       ],
       "date_added": "2026-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-11",
+      "date_removed": null,
       "duration_ms": 203624,
       "name": "\u041c\u043e\u0435\u0442\u043e \u0441\u043b\u0430\u0431\u043e \u043c\u044f\u0441\u0442\u043e",
       "url": "https://open.spotify.com/track/46YeHpvSWbG2pHRlMcC5Rp"

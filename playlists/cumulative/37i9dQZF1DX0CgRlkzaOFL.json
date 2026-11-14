@@ -1537,6 +1537,28 @@
     },
     {
       "album": {
+        "name": "Symphonic Suite The Boy and the Heron for piano and orchestra",
+        "url": "https://open.spotify.com/album/74DsWZ2wqaBoJIK3EUzkgL"
+      },
+      "artists": [
+        {
+          "name": "Joe Hisaishi",
+          "url": "https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139893,
+      "name": "The Last Smile",
+      "url": "https://open.spotify.com/track/162Nwflqsrb2vpMsUZwp6Y"
+    },
+    {
+      "album": {
         "name": "Princess Mononoke Soundtrack",
         "url": "https://open.spotify.com/album/2ZHxPDTCRU5STetdmXeW6p"
       },
@@ -2122,6 +2144,24 @@
       "duration_ms": 126133,
       "name": "\u738b\u69d8\u30e9\u30f3\u30ad\u30f3\u30b0 -\u30e1\u30a4\u30f3\u30c6\u30fc\u30de-",
       "url": "https://open.spotify.com/track/1FrE0MDUawjQGqV4rTeOUj"
+    },
+    {
+      "album": {
+        "name": "\u300c\u30f4\u30a3\u30f3\u30e9\u30f3\u30c9\u30fb\u30b5\u30ac\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/2OTjy0OveEEJkcf0sSbhkX"
+      },
+      "artists": [
+        {
+          "name": "Yutaka Yamada",
+          "url": "https://open.spotify.com/artist/0G8iubd5gKv5vdPnmHRaxT"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315293,
+      "name": "\u77ed\u5263",
+      "url": "https://open.spotify.com/track/3t2ow4H66IY0zECtn7G3Qf"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Summer 2026 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-1,541 songs - 2 day 18 hr 18 min
+1,542 songs - 2 day 18 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -614,6 +614,7 @@
 | [I Turn to You](https://open.spotify.com/track/7HzOesq5DaHi8LA7lNskQR) | [Kid On The Block](https://open.spotify.com/artist/6VlE82AXyZhHEo87D6C1RH), [Namté](https://open.spotify.com/artist/35SNnBQdgAu11JxXMJAKa6) | [I Turn to You](https://open.spotify.com/album/3xjYmEqAtx8QJVXEQBjHfu) | 2:36 | 2025-05-05 | 2025-05-19 |
 | [I Wanna Be Down](https://open.spotify.com/track/6TIx9XC0uFZBY6jlFkjiEv) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Joshua Robbie](https://open.spotify.com/artist/63FGE7jdsJPFDjxbMspsfQ) | [I Wanna Be Down](https://open.spotify.com/album/6gSD6zDT2VsNabOxZ7wKQr) | 3:04 | 2025-11-09 | 2026-01-15 |
 | [I Wanted That](https://open.spotify.com/track/0XzYhe3jE5d80apayNMqUG) | [Loumé](https://open.spotify.com/artist/6o8bvjajrVq9BnXoR7bXnH), [Velvety](https://open.spotify.com/artist/5vj8jozcvNuHvgw68Lwvyh), [clarity.](https://open.spotify.com/artist/3cQgKzo3URkXcwxEyjhkPH) | [I Wanted That](https://open.spotify.com/album/48TOZlhE6APQNsxgdrY6DQ) | 2:22 | 2025-04-27 | 2026-03-16 |
+| [I Was Wrong](https://open.spotify.com/track/6NmwydI6FHfgt6pk9qjth6) | [Cal1](https://open.spotify.com/artist/25dKyXEZPXG55aaNFQFbaJ), [l'essay](https://open.spotify.com/artist/19X4W851yGGTB4rgz61cBs) | [I Was Wrong](https://open.spotify.com/album/0QrhGPQXd1Gu3akGEzdGSB) | 2:51 | 2026-11-13 |  |
 | [I Was Wrong](https://open.spotify.com/track/0Sz10EeV3Z0XBJugW07358) | [Coconut Kid](https://open.spotify.com/artist/0YVBrjCS4MxPBonrboHcEh), [Yann Muller](https://open.spotify.com/artist/41HOzTOe9JNerhym1HWxti) | [I Was Wrong](https://open.spotify.com/album/76yvuumlqd2nIpJJIhuHUR) | 2:21 | 2025-09-28 | 2026-01-26 |
 | [I Will Never Let You Go](https://open.spotify.com/track/6ME11DpWlEy7JXrhjPSxqt) | [Riesling](https://open.spotify.com/artist/3GxT7ZybNZXWlMR1eopmx9), [Vitaly Gray](https://open.spotify.com/artist/3QBNeSuKgHx3rMcuqnASk8) | [I Will Never Let You Go](https://open.spotify.com/album/10kOKwK7DirtMUZVdSXHmc) | 2:42 | 2024-02-16 | 2024-05-13 |
 | [I Won't Go Away](https://open.spotify.com/track/1vAPSfIyxQ3J7vpqZES6mD) | [Poul](https://open.spotify.com/artist/3c4NvPspCtP5coqUMzZtHj), [Alberto Ciccarini](https://open.spotify.com/artist/3zw2PGpf4w7YefHvDAdcyS), [Lacey](https://open.spotify.com/artist/0jrXDZPbZ53MWEkAR5Gghz) | [I Won't Go Away](https://open.spotify.com/album/0ilgFSzQWBKaaax6ywDo7i) | 2:41 | 2025-12-07 | 2025-12-30 |

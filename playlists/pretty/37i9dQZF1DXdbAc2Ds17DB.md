@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbAc2Ds17DB.md) - [plain]
 
 > Enjoy JANNABI's \[Sweat & Stardust\] LIVE SET including their voices from the stage! \(잔나비의 무대 멘트와 목소리가 포함된 \[스웨트 앤 스타더스트\] 콘서트 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,246 likes - 33 songs - 1 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,267 likes - 33 songs - 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

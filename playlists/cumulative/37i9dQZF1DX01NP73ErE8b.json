@@ -3077,6 +3077,24 @@
     },
     {
       "album": {
+        "name": "Cosa mi fai",
+        "url": "https://open.spotify.com/album/6DqSrBR8XZkbKbJVzpTx5W"
+      },
+      "artists": [
+        {
+          "name": "Will",
+          "url": "https://open.spotify.com/artist/7qIrqNF6i1kRLkGLgGXuZq"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165600,
+      "name": "Cosa mi fai",
+      "url": "https://open.spotify.com/track/5KrBQxU4c768qoQp8sUbmp"
+    },
+    {
+      "album": {
         "name": "Amateur",
         "url": "https://open.spotify.com/album/4wTAb0EVZi1ppAnGeJ0e9t"
       },
@@ -12195,7 +12213,7 @@
     },
     {
       "album": {
-        "name": "Senza tregua",
+        "name": "Senza Tregua",
         "url": "https://open.spotify.com/album/2OIyM7cAW9NwO0RiJg3bDy"
       },
       "artists": [
@@ -12208,7 +12226,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 144842,
-      "name": "Senza tregua",
+      "name": "Senza Tregua",
       "url": "https://open.spotify.com/track/4Puo8pyv152VIsyFrkT0pq"
     },
     {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlI0CRgWup.md) - [plain]
 
 > Découvrez les nouveautés des artistes RADAR France\. Photo : \(D\)Juno
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,764 likes - 76 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,749 likes - 76 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

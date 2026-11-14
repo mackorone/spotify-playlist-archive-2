@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from Metejoor, SDM, U2,  Loïc Nottet and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,819 likes - 122 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,924 likes - 122 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 47 | [Colours](https://open.spotify.com/track/79sMJBqe2kRAJddQAaIDse) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [No Sleep In Paradise: Still Awake\*](https://open.spotify.com/album/1AHQF2QLVpI7u0gGJ47vPt) | 3:34 |
 | 48 | [Without My Strings](https://open.spotify.com/track/32oNxFi2dBftVTPKsMJcpc) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Without My Strings](https://open.spotify.com/album/75ICiuYySDUpwRAU6I9h3E) | 3:10 |
 | 49 | [Pursuit](https://open.spotify.com/track/1WG7rS7A3Pnn5iHA9th2Ts) | [Apashe](https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN) | [Pursuit](https://open.spotify.com/album/6xGBRR1V1oz3mfCAn9XBET) | 3:59 |
-| 50 | [Why Not \(feat\. Quavo & Loe Shimmy\)](https://open.spotify.com/track/3ag3REuwHRHF8kYQffQ8pn) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax) | [GMFU](https://open.spotify.com/album/0sjhU3kzHU2dfd6SVrzLIp) | 2:49 |
+| 50 | [Why Not? \(feat\. Quavo & Loe Shimmy\)](https://open.spotify.com/track/3ag3REuwHRHF8kYQffQ8pn) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax) | [GMFU](https://open.spotify.com/album/0sjhU3kzHU2dfd6SVrzLIp) | 2:49 |
 | 51 | [In The Dark](https://open.spotify.com/track/6haIzqA4tYA3NQDfQKikkD) | [MICHA](https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6) | [In The Dark](https://open.spotify.com/album/5IfXorPLlTRYTSWhoJynFs) | 3:01 |
 | 52 | [AVEC TOI <3](https://open.spotify.com/track/6ay0TPimoYbapVuEz04uBS) | [sheng](https://open.spotify.com/artist/0mAIVu2rtpW9TYcbp88wqn), [lou.is.dancing](https://open.spotify.com/artist/4gbREU4Hwqaky88SkaZ1hY) | [cry\_baby](https://open.spotify.com/album/6rnxZLBYUNEsyCMsoWXehp) | 2:53 |
 | 53 | [Music](https://open.spotify.com/track/69gSD6OyU1xdnKkh2jFTeD) | [Junior Jack](https://open.spotify.com/artist/583EYzsIVCz1HsEKZbuJ1k), [Pat BDS](https://open.spotify.com/artist/1PorUXjtqZ1f5J9jhwwzR4) | [Music](https://open.spotify.com/album/1jXG3K53z26M6UtCLdnMGf) | 7:17 |

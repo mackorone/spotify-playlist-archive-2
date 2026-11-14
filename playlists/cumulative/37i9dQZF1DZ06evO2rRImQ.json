@@ -758,7 +758,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 170306,
       "name": "Extr\u00e1\u00f1ame",
       "url": "https://open.spotify.com/track/77prsE4cK4WBVSiptghi1x"
@@ -968,6 +968,24 @@
       "duration_ms": 222528,
       "name": "Llorar, Llorar",
       "url": "https://open.spotify.com/track/2PWwos1TVcbQdOGHndeDr6"
+    },
+    {
+      "album": {
+        "name": "Lo Imperfecto M\u00e1s Perfecto",
+        "url": "https://open.spotify.com/album/6yVpRnr4A33KjrOBdbLrqB"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "date_added": "2026-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159189,
+      "name": "Lo Imperfecto M\u00e1s Perfecto",
+      "url": "https://open.spotify.com/track/5ljTJ1g23oETsKQG2zjSre"
     },
     {
       "album": {

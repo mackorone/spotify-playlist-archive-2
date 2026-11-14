@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4horfy.md) - [plain]
 
 > This is Kinderen voor Kinderen\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,871 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,874 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,15 +33,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4horfy.md) - [plain]
 | 23 | [Kriebels](https://open.spotify.com/track/0iXbjpThtIlWlTSiUUUTRt) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [47 \- Spot aan](https://open.spotify.com/album/4TuM9TSDGhc1XgAZZynKl5) | 2:24 |
 | 24 | [Geen kind alleen](https://open.spotify.com/track/0KCvN5nu4t5DrlDLIux2x0) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [Geen kind alleen](https://open.spotify.com/album/1jAswSNcQDmlSf0kCHIjHK) | 3:00 |
 | 25 | [Kleur de wereld groen](https://open.spotify.com/track/5MppH5OIxJKacTcpdfZws4) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [46 \- Vol avontuur](https://open.spotify.com/album/1YGnCuWsBhzrFBBWwEeBku) | 2:42 |
-| 26 | [Gi\-ga\-groen](https://open.spotify.com/track/5qHgkualSydbFiJHwKnD1Z) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [Gi\-ga\-groen](https://open.spotify.com/album/5aXZyWxZlxLwr6bFL5Izu2) | 2:51 |
-| 27 | [P.H.O.N.E\. \- NXT](https://open.spotify.com/track/4gLGJYN0XtBl2Bu7t58MoO) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [P.H.O.N.E\. \(NXT\)](https://open.spotify.com/album/547QuBDvUvzz1DCUW6MXHJ) | 2:20 |
+| 26 | [P.H.O.N.E\. \- NXT](https://open.spotify.com/track/4gLGJYN0XtBl2Bu7t58MoO) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [P.H.O.N.E\. \(NXT\)](https://open.spotify.com/album/547QuBDvUvzz1DCUW6MXHJ) | 2:20 |
+| 27 | [Gi\-ga\-groen](https://open.spotify.com/track/5qHgkualSydbFiJHwKnD1Z) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [Gi\-ga\-groen](https://open.spotify.com/album/5aXZyWxZlxLwr6bFL5Izu2) | 2:51 |
 | 28 | [We are NXT](https://open.spotify.com/track/3zTm7TxioU0xLEahUA0eCQ) | [NXT](https://open.spotify.com/artist/34sWc9MlQzSCbETxXPzYch), [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [We are NXT](https://open.spotify.com/album/2StHqXOrd1WjZlKf69I9PD) | 2:26 |
 | 29 | [Ik voel het](https://open.spotify.com/track/2C6SmlgpOEgGolSw0ue4HE) | [NXT](https://open.spotify.com/artist/34sWc9MlQzSCbETxXPzYch), [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [47 \- Spot aan](https://open.spotify.com/album/4TuM9TSDGhc1XgAZZynKl5) | 2:26 |
 | 30 | [Geen cadeau](https://open.spotify.com/track/6DRniD5AnMwyKNBdjckOEc) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [Geen cadeau](https://open.spotify.com/album/1dQW4R7Kar3rP1Am6n5ZzW) | 2:41 |
 | 31 | [Samen alleen \- NXT](https://open.spotify.com/track/3hW3iRrYjo63Tj2faTc4rY) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [Samen Alleen \(NXT\)](https://open.spotify.com/album/2iKOMx5q7TDQluXyceh3bF) | 2:50 |
 | 32 | [Hardop dromen](https://open.spotify.com/track/2iBGVympAN7k2eOfX5yXQd) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [45 \- Lekker eigenwijs](https://open.spotify.com/album/26Fp5Uw7UDheeFVXlu1HAr) | 2:54 |
-| 33 | [Gruwelijk Eng](https://open.spotify.com/track/4Ip84YLNwIYVWU3u1tVqpt) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [38 \- Gruwelijk eng](https://open.spotify.com/album/2PxkC5dg2AQGYSrC6shWXO) | 3:00 |
-| 34 | [Worden wat je wil](https://open.spotify.com/track/71zLH40Kc5CDoFdC6LhJia) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [Worden wat je wil](https://open.spotify.com/album/5JX7R70g4u0Fc5EwuiLM3P) | 2:41 |
+| 33 | [Worden wat je wil](https://open.spotify.com/track/71zLH40Kc5CDoFdC6LhJia) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [Worden wat je wil](https://open.spotify.com/album/5JX7R70g4u0Fc5EwuiLM3P) | 2:41 |
+| 34 | [Gruwelijk Eng](https://open.spotify.com/track/4Ip84YLNwIYVWU3u1tVqpt) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [38 \- Gruwelijk eng](https://open.spotify.com/album/2PxkC5dg2AQGYSrC6shWXO) | 3:00 |
 | 35 | [FitTop10](https://open.spotify.com/track/35XzKuTMuSFjMzUzMkgOrz) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [FitTop10](https://open.spotify.com/album/4KnLQHGGoyMM5v7zUTiHWf) | 3:05 |
 | 36 | [Vreemde dingen](https://open.spotify.com/track/54zHNZbgxJeO30k6ppFoFl) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [45 \- Lekker eigenwijs](https://open.spotify.com/album/26Fp5Uw7UDheeFVXlu1HAr) | 2:47 |
 | 37 | [Zij aan zij](https://open.spotify.com/track/5QGGDdqiTjGA8u8TS1xQRI) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [Zij aan zij](https://open.spotify.com/album/0VVyLi8EL6qVWRh7JsSQTu) | 3:07 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4horfy.md) - [plain]
 | 40 | [Vakantie in de tuin](https://open.spotify.com/track/2auDClMxhLFb9A5zv6wuVt) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [Vakantie in de tuin](https://open.spotify.com/album/4rRVf4VkJ0q1pW9rRXPxtN) | 2:54 |
 | 41 | [Bij mij thuis](https://open.spotify.com/track/5XHPAesvfBltXo6oP0an4I) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [Bij mij thuis](https://open.spotify.com/album/5K8xJmSBw0NejoYnrs0G0N) | 2:58 |
 | 42 | [Hallo Wereld](https://open.spotify.com/track/4nps5DJ3jFBnmmHHsh6tuo) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [Hallo wereld](https://open.spotify.com/album/7fhvfh8IuUYXK3SpmNZBZX) | 2:38 |
-| 43 | [Fitlala](https://open.spotify.com/track/2l9CqXYEEVcualGqRC5Qxu) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [39 \- Kom erbij!](https://open.spotify.com/album/0I8R89pxTkvn22U6PhsLEg) | 3:20 |
-| 44 | [Superkracht \- NXT](https://open.spotify.com/track/7GQdgmX4UezlLisuY82Lcl) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [Superkracht \(NXT\)](https://open.spotify.com/album/5okXjfwZKRpR8YcXiMqVdk) | 2:53 |
+| 43 | [Superkracht \- NXT](https://open.spotify.com/track/7GQdgmX4UezlLisuY82Lcl) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [Superkracht \(NXT\)](https://open.spotify.com/album/5okXjfwZKRpR8YcXiMqVdk) | 2:53 |
+| 44 | [Fitlala](https://open.spotify.com/track/2l9CqXYEEVcualGqRC5Qxu) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [39 \- Kom erbij!](https://open.spotify.com/album/0I8R89pxTkvn22U6PhsLEg) | 3:20 |
 | 45 | [Vrijheid](https://open.spotify.com/track/06R2eJ0E7Ts63YwZRmXjcd) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [Vrijheid](https://open.spotify.com/album/5uE4gcHs23QPXjIraFtnkh) | 2:45 |
 | 46 | [Achtbaan](https://open.spotify.com/track/7p3slO869Q0TbfG0tG7zGf) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [44 \- Bij mij thuis](https://open.spotify.com/album/4NhFo1kpTnSg3KMi8B2hFV) | 2:43 |
 | 47 | [Doe mee! warming\-up](https://open.spotify.com/track/6PxuoFoxBSOwX9k00JzD6u) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [Doe mee! warming\-up](https://open.spotify.com/album/6E4xBt8xyVqunxfh69mtxP) | 4:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4horfy.md) - [plain]
 | 49 | [Energie!](https://open.spotify.com/track/1WhCbSlN6NAmDH30OFMqPI) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [36 \- Raar maar waar](https://open.spotify.com/album/1Fp3h5LG2zXGRb7UP9Xi6S) | 2:54 |
 | 50 | [Oma's appeltaart](https://open.spotify.com/track/7eOvbPnkm4CrzH07p0NdxI) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [43 \- Gi\-ga\-groen](https://open.spotify.com/album/64NvoYlzgfUwUpzMiteFBA) | 2:53 |
 
-Snapshot ID: `avOwAAAAAACGYfHIY7jmTo5HBxnO1HLI`
+Snapshot ID: `avUBgAAAAABRTstA61ZgFEog/ljTtv6V`

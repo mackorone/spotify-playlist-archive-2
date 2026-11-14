@@ -1,6 +1,6 @@
 {
   "description": "Caf\u00e9 caliente, sill\u00f3n blandito y la mejor lectura o compa\u00f1\u00eda.",
-  "num_followers": 810546,
+  "num_followers": 810479,
   "original_name": "Caf\u00e9, Libros.",
   "owner": {
     "name": "Spotify",
@@ -767,22 +767,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Summertime",
-        "url": "https://open.spotify.com/album/0XtsrrGHxCK1UTMhdL4x7A"
-      },
-      "artists": [
-        {
-          "name": "Gil Cohen",
-          "url": "https://open.spotify.com/artist/3RIFM8s5jyChTKVnP0ZeDe"
-        }
-      ],
-      "duration_ms": 227250,
-      "name": "Summertime",
-      "url": "https://open.spotify.com/track/0kucUUkDimdEREo8hsXOng"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "Dusk Till Dawn",
         "url": "https://open.spotify.com/album/1skDKsDkYykE118scvvhfj"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 208568,
       "name": "Dusk Till Dawn",
       "url": "https://open.spotify.com/track/1NWvbQI3bNfPxbxF9OQ1Ek"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "Summertime",
+        "url": "https://open.spotify.com/album/0XtsrrGHxCK1UTMhdL4x7A"
+      },
+      "artists": [
+        {
+          "name": "Gil Cohen",
+          "url": "https://open.spotify.com/artist/3RIFM8s5jyChTKVnP0ZeDe"
+        }
+      ],
+      "duration_ms": 227250,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/0kucUUkDimdEREo8hsXOng"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -831,6 +831,22 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
+        "name": "Anyone",
+        "url": "https://open.spotify.com/album/0KtdvlGTljVZ4D5Jarm4m8"
+      },
+      "artists": [
+        {
+          "name": "Bailey Jehl",
+          "url": "https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus"
+        }
+      ],
+      "duration_ms": 172766,
+      "name": "Anyone",
+      "url": "https://open.spotify.com/track/0YhsOegsemgmT7ZHdWheUy"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
         "name": "You Get What You Give",
         "url": "https://open.spotify.com/album/7eAjW0akqpFZc14QeBj4Gd"
       },
@@ -863,18 +879,18 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Anyone",
-        "url": "https://open.spotify.com/album/0KtdvlGTljVZ4D5Jarm4m8"
+        "name": "Thunder",
+        "url": "https://open.spotify.com/album/5DphHIaiZBFZvI1epMUjMZ"
       },
       "artists": [
         {
-          "name": "Bailey Jehl",
-          "url": "https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus"
+          "name": "Fink's Mood",
+          "url": "https://open.spotify.com/artist/1iUB72crNwlgJybWBA5Fl8"
         }
       ],
-      "duration_ms": 172766,
-      "name": "Anyone",
-      "url": "https://open.spotify.com/track/0YhsOegsemgmT7ZHdWheUy"
+      "duration_ms": 171696,
+      "name": "Thunder",
+      "url": "https://open.spotify.com/track/0H20PIDhzGnoOOYE6VC1TX"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -895,22 +911,6 @@
       "duration_ms": 224160,
       "name": "It Ain't Me Babe",
       "url": "https://open.spotify.com/track/0LHm4kBHO8rFmjoCVu5MN8"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
-        "name": "Thunder",
-        "url": "https://open.spotify.com/album/5DphHIaiZBFZvI1epMUjMZ"
-      },
-      "artists": [
-        {
-          "name": "Fink's Mood",
-          "url": "https://open.spotify.com/artist/1iUB72crNwlgJybWBA5Fl8"
-        }
-      ],
-      "duration_ms": 171696,
-      "name": "Thunder",
-      "url": "https://open.spotify.com/track/0H20PIDhzGnoOOYE6VC1TX"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "If I Can't Have You",
-        "url": "https://open.spotify.com/album/120k8Zuxhz77mxl5fLXPuB"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Silva",
-          "url": "https://open.spotify.com/artist/7aG9ko9uh8oQK0py75VWDr"
-        }
-      ],
-      "duration_ms": 242776,
-      "name": "If I Can't Have You",
-      "url": "https://open.spotify.com/track/0NREkFloGwchkD4AKHZ10Y"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "I'm a Mess (Acoustic)",
         "url": "https://open.spotify.com/album/6zmhW2TRItWgBM3WBVR9Gn"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 153094,
       "name": "I'm a Mess - Acoustic",
       "url": "https://open.spotify.com/track/1RGcxEKlVL5TSMHqV13etr"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "If I Can't Have You",
+        "url": "https://open.spotify.com/album/120k8Zuxhz77mxl5fLXPuB"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Silva",
+          "url": "https://open.spotify.com/artist/7aG9ko9uh8oQK0py75VWDr"
+        }
+      ],
+      "duration_ms": 242776,
+      "name": "If I Can't Have You",
+      "url": "https://open.spotify.com/track/0NREkFloGwchkD4AKHZ10Y"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -1207,18 +1207,22 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Voy A Apagar La Luz",
-        "url": "https://open.spotify.com/album/7BszH6X5fEBsgNVXXvltvu"
+        "name": "Mi Gente (Acoustic)",
+        "url": "https://open.spotify.com/album/6ygBeTx54rBIFb2YIkq5tj"
       },
       "artists": [
         {
-          "name": "Los Amores Recientes",
-          "url": "https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG"
+          "name": "Aberola",
+          "url": "https://open.spotify.com/artist/0i3cbCgMSQS3tXMVFXoaTC"
+        },
+        {
+          "name": "Mechi Pieretti",
+          "url": "https://open.spotify.com/artist/5rnUlLid4WEcDmAz6McM33"
         }
       ],
-      "duration_ms": 143848,
-      "name": "Voy A Apagar La Luz",
-      "url": "https://open.spotify.com/track/40duIz5ZiOGr9tjiGHQw80"
+      "duration_ms": 160049,
+      "name": "Mi Gente - Acoustic",
+      "url": "https://open.spotify.com/track/1ci9VbZkSxkWmWkD5xGurr"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -1239,22 +1243,18 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Mi Gente (Acoustic)",
-        "url": "https://open.spotify.com/album/6ygBeTx54rBIFb2YIkq5tj"
+        "name": "Voy A Apagar La Luz",
+        "url": "https://open.spotify.com/album/7BszH6X5fEBsgNVXXvltvu"
       },
       "artists": [
         {
-          "name": "Aberola",
-          "url": "https://open.spotify.com/artist/0i3cbCgMSQS3tXMVFXoaTC"
-        },
-        {
-          "name": "Mechi Pieretti",
-          "url": "https://open.spotify.com/artist/5rnUlLid4WEcDmAz6McM33"
+          "name": "Los Amores Recientes",
+          "url": "https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG"
         }
       ],
-      "duration_ms": 160049,
-      "name": "Mi Gente - Acoustic",
-      "url": "https://open.spotify.com/track/1ci9VbZkSxkWmWkD5xGurr"
+      "duration_ms": 143848,
+      "name": "Voy A Apagar La Luz",
+      "url": "https://open.spotify.com/track/40duIz5ZiOGr9tjiGHQw80"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Lullabies for Adults & Children",
-        "url": "https://open.spotify.com/album/39hjO63EvM6Jibz9i4z5cX"
-      },
-      "artists": [
-        {
-          "name": "Odessa",
-          "url": "https://open.spotify.com/artist/7xtlNrmdLZS2sqIkgWewi1"
-        }
-      ],
-      "duration_ms": 156214,
-      "name": "Wake Up With the Sun",
-      "url": "https://open.spotify.com/track/60mU9COPbr4mcGDRVPPGok"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "Shape Of My Heart (Acoustic Version)",
         "url": "https://open.spotify.com/album/2zyRGzbxaf70u5c2R6vnB7"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 183599,
       "name": "Shape Of My Heart - Acoustic Version",
       "url": "https://open.spotify.com/track/7xAxfKxTaCQ5pz41x2zitm"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "Lullabies for Adults & Children",
+        "url": "https://open.spotify.com/album/39hjO63EvM6Jibz9i4z5cX"
+      },
+      "artists": [
+        {
+          "name": "Odessa",
+          "url": "https://open.spotify.com/artist/7xtlNrmdLZS2sqIkgWewi1"
+        }
+      ],
+      "duration_ms": 156214,
+      "name": "Wake Up With the Sun",
+      "url": "https://open.spotify.com/track/60mU9COPbr4mcGDRVPPGok"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Nothing Breaks Like a Heart",
-        "url": "https://open.spotify.com/album/4WHIT1gsLTquLhqMhBrwuP"
-      },
-      "artists": [
-        {
-          "name": "Brimsley",
-          "url": "https://open.spotify.com/artist/0UhNZ8dTl8Wq4iPcwsqPmd"
-        }
-      ],
-      "duration_ms": 203261,
-      "name": "Nothing Breaks Like a Heart",
-      "url": "https://open.spotify.com/track/5Usv5MphawKc1YZGbTlAly"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "Giant",
         "url": "https://open.spotify.com/album/4kYVsOEw017rNxlcMscLak"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 179510,
       "name": "Giant",
       "url": "https://open.spotify.com/track/1ir0M7NQAr7r5mLit1xUq3"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "Nothing Breaks Like a Heart",
+        "url": "https://open.spotify.com/album/4WHIT1gsLTquLhqMhBrwuP"
+      },
+      "artists": [
+        {
+          "name": "Brimsley",
+          "url": "https://open.spotify.com/artist/0UhNZ8dTl8Wq4iPcwsqPmd"
+        }
+      ],
+      "duration_ms": 203261,
+      "name": "Nothing Breaks Like a Heart",
+      "url": "https://open.spotify.com/track/5Usv5MphawKc1YZGbTlAly"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -1979,6 +1979,22 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
+        "name": "Beautiful People",
+        "url": "https://open.spotify.com/album/05D2GqXLdj8WTJUndF8RlG"
+      },
+      "artists": [
+        {
+          "name": "Jessie Blue and Zach Solomon",
+          "url": "https://open.spotify.com/artist/6DdJ9J6G22rS3lC7VRVZtx"
+        }
+      ],
+      "duration_ms": 253872,
+      "name": "Lose You To Love Me",
+      "url": "https://open.spotify.com/track/2S6yL9ZiV5VzugxduC4vIv"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
         "name": "I Want It That Way (Acoustic)",
         "url": "https://open.spotify.com/album/7dWe7q05jeTrOsSr8mAIP2"
       },
@@ -1995,22 +2011,6 @@
       "duration_ms": 185446,
       "name": "I Want It That Way - Acoustic",
       "url": "https://open.spotify.com/track/0AVDgibcn4Ka9pEXEA4wEp"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
-        "name": "Beautiful People",
-        "url": "https://open.spotify.com/album/05D2GqXLdj8WTJUndF8RlG"
-      },
-      "artists": [
-        {
-          "name": "Jessie Blue and Zach Solomon",
-          "url": "https://open.spotify.com/artist/6DdJ9J6G22rS3lC7VRVZtx"
-        }
-      ],
-      "duration_ms": 253872,
-      "name": "Lose You To Love Me",
-      "url": "https://open.spotify.com/track/2S6yL9ZiV5VzugxduC4vIv"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -2159,22 +2159,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "The Middle",
-        "url": "https://open.spotify.com/album/3DB9bG9QjWLhIp3y9PDeTD"
-      },
-      "artists": [
-        {
-          "name": "Dan Berk",
-          "url": "https://open.spotify.com/artist/2kfmnXYxa9yh0RkUBPjSwZ"
-        }
-      ],
-      "duration_ms": 209070,
-      "name": "The Middle",
-      "url": "https://open.spotify.com/track/3D22QSh1HLlvTrNJAHx42t"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2M8YCuo32nPRMyIXdq6aCX"
       },
@@ -2187,6 +2171,22 @@
       "duration_ms": 277674,
       "name": "Ganas - Spotify Singles",
       "url": "https://open.spotify.com/track/57i3tg8kJYRL13vZqoq0kC"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "The Middle",
+        "url": "https://open.spotify.com/album/3DB9bG9QjWLhIp3y9PDeTD"
+      },
+      "artists": [
+        {
+          "name": "Dan Berk",
+          "url": "https://open.spotify.com/artist/2kfmnXYxa9yh0RkUBPjSwZ"
+        }
+      ],
+      "duration_ms": 209070,
+      "name": "The Middle",
+      "url": "https://open.spotify.com/track/3D22QSh1HLlvTrNJAHx42t"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -2323,22 +2323,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Sentir Que No Sabes",
-        "url": "https://open.spotify.com/album/0lIG0tIWqZiWkL43EZvg0l"
-      },
-      "artists": [
-        {
-          "name": "Mabe Fratti",
-          "url": "https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo"
-        }
-      ],
-      "duration_ms": 177771,
-      "name": "Pantalla azul",
-      "url": "https://open.spotify.com/track/6QtA9isiOb6zymFQAKr5L5"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "Reencontrarnos",
         "url": "https://open.spotify.com/album/3L5ujKZChuieBg8OspWra5"
       },
@@ -2355,18 +2339,18 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Terrace Rain/Grid Search",
-        "url": "https://open.spotify.com/album/1mOjrJHrhKH2io2XX3f4RI"
+        "name": "Sentir Que No Sabes",
+        "url": "https://open.spotify.com/album/0lIG0tIWqZiWkL43EZvg0l"
       },
       "artists": [
         {
-          "name": "Afternoon Bike Ride",
-          "url": "https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9"
+          "name": "Mabe Fratti",
+          "url": "https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo"
         }
       ],
-      "duration_ms": 176548,
-      "name": "Terrace Rain",
-      "url": "https://open.spotify.com/track/3IneYkIxkwFCdb68hICqWA"
+      "duration_ms": 177771,
+      "name": "Pantalla azul",
+      "url": "https://open.spotify.com/track/6QtA9isiOb6zymFQAKr5L5"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -2383,6 +2367,22 @@
       "duration_ms": 200686,
       "name": "Don\u2019t You Look At Me That Way",
       "url": "https://open.spotify.com/track/0lAyS09c8EUBC9hJgjBM1U"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "Terrace Rain/Grid Search",
+        "url": "https://open.spotify.com/album/1mOjrJHrhKH2io2XX3f4RI"
+      },
+      "artists": [
+        {
+          "name": "Afternoon Bike Ride",
+          "url": "https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9"
+        }
+      ],
+      "duration_ms": 176548,
+      "name": "Terrace Rain",
+      "url": "https://open.spotify.com/track/3IneYkIxkwFCdb68hICqWA"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -2499,22 +2499,18 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Morning Sun",
-        "url": "https://open.spotify.com/album/5ASteoHCRzSBltEuaP1kmh"
+        "name": "Relaxing 90S Acoustic Covers",
+        "url": "https://open.spotify.com/album/1KDvmZMD4h0rqf90lM1zOU"
       },
       "artists": [
         {
-          "name": "Karen y Los Remedios",
-          "url": "https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv"
-        },
-        {
-          "name": "Z.A.M.P.A",
-          "url": "https://open.spotify.com/artist/2Om6U6DwLuSX7WTVC9Nce2"
+          "name": "Karizma Duo",
+          "url": "https://open.spotify.com/artist/4AG4GdKn7FmC3EPk8m6dxg"
         }
       ],
-      "duration_ms": 267019,
-      "name": "Morning Sun",
-      "url": "https://open.spotify.com/track/5ObGH4iynfz5WQ8KJAYpbZ"
+      "duration_ms": 152432,
+      "name": "Why Does It Always Rain on Me?",
+      "url": "https://open.spotify.com/track/53W9rGhCo7gYlZOM8cHywX"
     }
   ],
   "unique_name": "Caf\u00e9, Libros.",

@@ -4,7 +4,7 @@
 
 > This is Banda Los Recoditos\. The essential tracks, all in one playlist.
 
-125 songs - 6 hr 1 min
+126 songs - 6 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Esta Va Por Ti](https://open.spotify.com/track/1bkcIokOXvuIoKK9YNIx0m) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Perfecta](https://open.spotify.com/album/00n5EfgpQUDaHpcYRP7alm) | 3:20 | 2022-06-01 |  |
 | [Ex De Verdad](https://open.spotify.com/track/5MgQZNiObDalVd2JCDNf3z) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Ex De Verdad](https://open.spotify.com/album/4hWXVOFhWzDuMDsyMtrVPI) | 2:51 | 2026-09-04 |  |
 | [Experto En Fracasos \(Contando Penas\)](https://open.spotify.com/track/1eGB9VAzPMpIPCA562WrUv) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Canto Para Ti](https://open.spotify.com/album/2rDITJyfozpHAZ5JusQaEK) | 2:30 | 2024-06-15 |  |
-| [Extráñame](https://open.spotify.com/track/77prsE4cK4WBVSiptghi1x) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Ando Bien Pedo](https://open.spotify.com/album/09qTTNASCK9Vrnnk8Yyh65) | 2:50 | 2023-11-10 |  |
+| [Extráñame](https://open.spotify.com/track/77prsE4cK4WBVSiptghi1x) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Ando Bien Pedo](https://open.spotify.com/album/09qTTNASCK9Vrnnk8Yyh65) | 2:50 | 2023-11-10 | 2026-11-14 |
 | [Fuerte No Soy](https://open.spotify.com/track/4673knHBZjafW3zfT4nBvc) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Fuerte No Soy](https://open.spotify.com/album/0xeqSKK5P5DbDASkUmiYeU) | 3:21 | 2022-07-11 | 2024-06-15 |
 | [Gracias Muchas Gracias](https://open.spotify.com/track/3BrzJoAtkrR65NeaPBqdNQ) | [Max Peraza](https://open.spotify.com/artist/40XLXsvXDPJuQ6adeK9zh7), [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Gracias Muchas Gracias](https://open.spotify.com/album/1J9oAfdyIEAIsKmreliDJP) | 3:09 | 2026-02-14 | 2026-04-02 |
 | [Habitación 69](https://open.spotify.com/track/6BWCt6sjhntwJh10od5Gxu) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [A Toda Madre](https://open.spotify.com/album/1wQmPnmTyFBI0DSAkQUmzy) | 2:19 | 2022-06-01 | 2022-09-03 |
@@ -61,6 +61,7 @@
 | [La vida es un riesgo](https://open.spotify.com/track/1QzsdTkvEQoWYH0FZSEgRp) | [El Abelito](https://open.spotify.com/artist/2wyswmNTFTyrX2CeT9cda9), [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [La vida es un riesgo](https://open.spotify.com/album/64xRPktBmN7pHbBJuAP6l0) | 2:26 | 2025-11-22 | 2026-07-07 |
 | [Llorando En Un Carro Del Año](https://open.spotify.com/track/4OfIidHHKBPT32ZJpN8m6T) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Llorando En Un Carro Del Año](https://open.spotify.com/album/18XHmgKEQKh4EwxqHDAJNM) | 2:28 | 2022-06-01 |  |
 | [Llorar, Llorar](https://open.spotify.com/track/2PWwos1TVcbQdOGHndeDr6) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Canto Para Ti](https://open.spotify.com/album/2rDITJyfozpHAZ5JusQaEK) | 3:42 | 2024-06-15 |  |
+| [Lo Imperfecto Más Perfecto](https://open.spotify.com/track/5ljTJ1g23oETsKQG2zjSre) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Lo Imperfecto Más Perfecto](https://open.spotify.com/album/6yVpRnr4A33KjrOBdbLrqB) | 2:39 | 2026-11-14 |  |
 | [Lo Mejor Fui Yo](https://open.spotify.com/track/7jpMB927DJ0FkSRMQOUf4U) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Piratita](https://open.spotify.com/album/4HP6iTCu0ph8dye2cYietb) | 2:56 | 2026-06-15 |  |
 | [Lo Que Hacemos En Tu Cama](https://open.spotify.com/track/6Wg40tUtPPacPNVgY22xRH) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Lo Mejor De...](https://open.spotify.com/album/6niDeCvPYEWqC8SlfbzhDC) | 2:25 | 2024-02-07 | 2025-07-20 |
 | [Los Gustos Que Me Doy](https://open.spotify.com/track/7dtCtvl6mHA42cCPowTYTB) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Los Gustos Que Me Doy](https://open.spotify.com/album/37KAZDlCcCpLZuVltkaQfQ) | 2:48 | 2022-06-01 |  |

@@ -1,44 +1,28 @@
 {
-  "description": "Stripped back vibes. Cover:  Alex Isley",
-  "num_followers": 611139,
+  "description": "Stripped back vibes. Cover:  EJ Ross",
+  "num_followers": 611133,
   "original_name": "Acoustic Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGnz4HvrhR73/KwWGqvdNWbTEt8z",
+  "snapshot_id": "AAAAAIB4XXJJcf5z0mbTvZiq2t83wg84",
   "tracks": [
     {
-      "added_at": "2026-10-09 07:06:04",
+      "added_at": "2026-11-13 18:29:09",
       "album": {
-        "name": "Maybe Again (Stripped)",
-        "url": "https://open.spotify.com/album/3lNKxbfn5KZ9tKouafNnEu"
+        "name": "SUNRISE & SUNSETS",
+        "url": "https://open.spotify.com/album/4C2CtLMLk3x2KCTzY7b9by"
       },
       "artists": [
         {
-          "name": "Alex Isley",
-          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+          "name": "EJ Ross",
+          "url": "https://open.spotify.com/artist/3yZJfp37SK7V6yHh3oAGoB"
         }
       ],
-      "duration_ms": 219878,
-      "name": "Maybe Again - Stripped",
-      "url": "https://open.spotify.com/track/1KqvNXRKB2yslBhrJlrxSG"
-    },
-    {
-      "added_at": "2026-10-23 07:00:09",
-      "album": {
-        "name": "Catch Me (Before It's Too Late) [Acoustic]",
-        "url": "https://open.spotify.com/album/4Vj3jYj58cehJfeyvFyFNI"
-      },
-      "artists": [
-        {
-          "name": "Jastin Martin",
-          "url": "https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1"
-        }
-      ],
-      "duration_ms": 160869,
-      "name": "Catch Me (Before It's Too Late) - Acoustic",
-      "url": "https://open.spotify.com/track/7raNFMcoUUBd3PuZYNzQbV"
+      "duration_ms": 194667,
+      "name": "SUNRISE & SUNSETS",
+      "url": "https://open.spotify.com/track/6J5p839wuK7HVilHTmbpMO"
     },
     {
       "added_at": "2026-05-08 06:47:08",
@@ -87,6 +71,38 @@
       "duration_ms": 183133,
       "name": "Closure - One Take",
       "url": "https://open.spotify.com/track/7BPZi9J5qiPErlJOgK6sv6"
+    },
+    {
+      "added_at": "2026-10-09 07:06:04",
+      "album": {
+        "name": "Maybe Again (Stripped)",
+        "url": "https://open.spotify.com/album/3lNKxbfn5KZ9tKouafNnEu"
+      },
+      "artists": [
+        {
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+        }
+      ],
+      "duration_ms": 219878,
+      "name": "Maybe Again - Stripped",
+      "url": "https://open.spotify.com/track/1KqvNXRKB2yslBhrJlrxSG"
+    },
+    {
+      "added_at": "2026-10-23 07:00:09",
+      "album": {
+        "name": "Catch Me (Before It's Too Late) [Acoustic]",
+        "url": "https://open.spotify.com/album/4Vj3jYj58cehJfeyvFyFNI"
+      },
+      "artists": [
+        {
+          "name": "Jastin Martin",
+          "url": "https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1"
+        }
+      ],
+      "duration_ms": 160869,
+      "name": "Catch Me (Before It's Too Late) - Acoustic",
+      "url": "https://open.spotify.com/track/7raNFMcoUUBd3PuZYNzQbV"
     },
     {
       "added_at": "2026-08-07 19:16:50",

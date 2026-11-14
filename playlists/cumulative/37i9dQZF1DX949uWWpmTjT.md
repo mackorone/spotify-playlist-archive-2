@@ -4,7 +4,7 @@
 
 > A soft and slow soundtrack to play in the background to all your activities.
 
-1,131 songs - 3 day 0 hr 50 min
+1,132 songs - 3 day 0 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,7 +228,7 @@
 | [Detour Ahead \(take 2\)](https://open.spotify.com/track/5nDOHSm7jxDU1U9kFKVruH) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Waltz For Debby \(Original Jazz Classics Remaster 2010\)](https://open.spotify.com/album/0MjlKhtsyax9HSWNkYaWM2) | 7:36 | 2021-12-03 | 2023-08-18 |
 | [Dextereous](https://open.spotify.com/track/1Zait2JXHhKnnAhogy1pJJ) | [George Kuntz Four](https://open.spotify.com/artist/6bPFM0SEcXOJwLr0aY024d) | [Dextereous](https://open.spotify.com/album/0SH6CBD4cLzhVvElKEPMtE) | 3:08 | 2023-06-01 | 2025-11-29 |
 | [DFAA](https://open.spotify.com/track/1gx060f6SRyYcSsTcOpWcp) | [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D), [Nikolaj Hess](https://open.spotify.com/artist/3j1aerNPNVeAjD4GgI3xJQ), [Invisible Land](https://open.spotify.com/artist/0GKB0s7UWfb5C88cNZmto6) | [Invisible Land](https://open.spotify.com/album/0jCdnXJIVXcOSv2OwmpDbT) | 3:10 | 2022-06-30 | 2024-02-20 |
-| [DFAA](https://open.spotify.com/track/6SNtmjAiXXwrmZtPImGWQh) | [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D), [Nikolaj Hess](https://open.spotify.com/artist/3j1aerNPNVeAjD4GgI3xJQ), [Invisible Land](https://open.spotify.com/artist/0GKB0s7UWfb5C88cNZmto6) | [DFAA](https://open.spotify.com/album/0Uf3QYBKMBR5VFjFQhXHsp) | 3:10 | 2021-12-03 |  |
+| [DFAA](https://open.spotify.com/track/6SNtmjAiXXwrmZtPImGWQh) | [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D), [Nikolaj Hess](https://open.spotify.com/artist/3j1aerNPNVeAjD4GgI3xJQ), [Invisible Land](https://open.spotify.com/artist/0GKB0s7UWfb5C88cNZmto6) | [DFAA](https://open.spotify.com/album/0Uf3QYBKMBR5VFjFQhXHsp) | 3:10 | 2021-12-03 | 2026-11-14 |
 | [Diane](https://open.spotify.com/track/77BESrsUN386SrjEA7siB5) | [Peter Nordahl Trio](https://open.spotify.com/artist/6Qar0oNt9IZSMyrBxMg7ok) | [Plays Charles Mingus](https://open.spotify.com/album/5qjOXWAkl5levqzlFxFj4f) | 3:11 | 2022-06-30 | 2025-09-18 |
 | [Did you dream too](https://open.spotify.com/track/2uFnSCNpfxySA144y7iIxq) | [Noel Hayes](https://open.spotify.com/artist/0CEZunfWhz5PyHlTNJwC2S) | [Did you dream too](https://open.spotify.com/album/4vQT9zQ6BUEuQLWACzWzhg) | 3:40 | 2023-02-09 |  |
 | [Didn't know who else to call](https://open.spotify.com/track/2me6tmgT1A8d3R9stvr2UK) | [Fortune Morel Trio](https://open.spotify.com/artist/5IDJIXonrrl2nVcd4LZTQf) | [Didn't know who else to call](https://open.spotify.com/album/453PIOiFYjFsoANz9ieG2P) | 3:31 | 2022-12-08 |  |
@@ -393,6 +393,7 @@
 | [I awake](https://open.spotify.com/track/6AianoPQwgFLarNY5s3ntc) | [Ikigai](https://open.spotify.com/artist/0bNWgPLuFJzQ3IXoDfydPv) | [I awake](https://open.spotify.com/album/1H478Tq3lKuqWtTdzhLa8q) | 4:05 | 2023-02-09 | 2024-04-24 |
 | [I Can't Get Started](https://open.spotify.com/track/6R9A3kC2pDbqUe2FpUZW4D) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB) | [Anita](https://open.spotify.com/album/5ytkuJciMwGDXwQeLWbHCw) | 3:53 | 2021-12-03 |  |
 | [I Can't Get Started](https://open.spotify.com/track/0kC4Rrdb4B4hAgt3PMoARe) | [Lester Young](https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm), [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [The President Plays With The Oscar Peterson Trio](https://open.spotify.com/album/7JkisS9bjzaQCgJ9btGjfq) | 3:37 | 2022-08-17 | 2023-05-05 |
+| [I close my eyes](https://open.spotify.com/track/4qD7ma71fhuPTUVUeqq5B7) | [The Grace Smith Gang](https://open.spotify.com/artist/3wyD1yWbuRCI7JevgoI5Cv) | [I close my eyes](https://open.spotify.com/album/0VoNAmlZX8ZPo1lETuGDvM) | 3:53 | 2026-11-13 |  |
 | [I Concentrate On You](https://open.spotify.com/track/2EAg1quHmyj5wGPEONM5KL) | [The Blue Green](https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80) | [I Concentrate On You](https://open.spotify.com/album/5R8IVGtCRIxv5KWwpjTiFL) | 4:40 | 2022-11-30 | 2025-11-29 |
 | [I Didn't Know What Time It Was](https://open.spotify.com/track/3GuKMibYz7gzFTkSoxjQob) | [Bernstein Square](https://open.spotify.com/artist/0RdMRIhMDTQEpMcALRyQTK) | [I Didn't Know What Time It Was](https://open.spotify.com/album/4NpsxaHznzfn1pJpEM4bjR) | 2:51 | 2024-05-23 |  |
 | [I Didn't Know What Time It Was](https://open.spotify.com/track/4xmNWf3u3LM9hu2noChFzA) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Getz Meets Mulligan In Hi\-Fi](https://open.spotify.com/album/790iHphSpmNDWfcha7SAx0) | 8:59 | 2021-12-03 |  |

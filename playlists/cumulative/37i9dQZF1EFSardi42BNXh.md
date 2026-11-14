@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5Ukl34WbJXmU9VM3WeAYMS">Tessa Violet</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-60 songs - 3 hr 7 min
+61 songs - 3 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [On My Own](https://open.spotify.com/track/1KzXa60i893JSwUBWJW83D) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Halloway](https://open.spotify.com/album/7yKTHZCOlmTOmvama52jEc) | 2:56 | 2023-12-30 |  |
 | [Play With Fire](https://open.spotify.com/track/0hsKN2eNws8lHL7h3Pdof6) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [MY GOD!](https://open.spotify.com/album/5B5hOcX9wfcm4qwqs9OjJZ) | 2:56 | 2026-08-20 |  |
 | [Prelude](https://open.spotify.com/track/2ZgFgrxaenAAcsbdO7hE5M) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Bad Ideas](https://open.spotify.com/album/39y7WSuhOKLmxWP7ElwWFl) | 1:03 | 2023-12-30 |  |
+| [Sing Big](https://open.spotify.com/track/2dTrRWDUzEnAXg1ksJo8Pe) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Sing Big](https://open.spotify.com/album/4yucTpIyfasr8q8kLACiZ7) | 3:23 | 2026-11-13 |  |
 | [Small](https://open.spotify.com/track/1OssFHKP8AZlj1ouoQ9vcN) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Maybe Trapped Mostly Troubled \(Deluxe\)](https://open.spotify.com/album/0xkFrvLpgFXodg2fam7loE) | 2:47 | 2026-06-28 |  |
 | [Smoke Signals \(feat\. Tessa Violet\)](https://open.spotify.com/track/07c66SO9kYqa5GSmvLsQZy) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8), [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Smoke Signals \(feat\. Tessa Violet\)](https://open.spotify.com/album/0BcN30IU7guOqvKxVeXXqQ) | 3:28 | 2023-12-30 |  |
 | [Something to Lose](https://open.spotify.com/track/2o3zplckwvV9EkG3b1IQv7) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Something to Lose](https://open.spotify.com/album/6RIbr9d7RF12xrmB5CUlFs) | 3:25 | 2026-10-30 |  |

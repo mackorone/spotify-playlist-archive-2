@@ -1,12 +1,12 @@
 {
   "description": "This is Kidz Bop Kids. The essential tracks, all in one playlist.",
-  "num_followers": 173357,
+  "num_followers": 173352,
   "original_name": "This Is Kidz Bop Kids",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avOwAAAAAADlPq35PtLokaJ2o+qRON3h",
+  "snapshot_id": "avUBgAAAAAD3zzyi4/aMJw2z8BMgyCLf",
   "tracks": [
     {
       "added_at": null,
@@ -219,22 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "KIDZ BOP Halloween",
-        "url": "https://open.spotify.com/album/7GkHcdpMzRAu4rm2LnOnGj"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 133764,
-      "name": "Witch Doctor",
-      "url": "https://open.spotify.com/track/1BObYVgiXuJdtPxUlNmfRt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "KIDZ BOP 2021",
         "url": "https://open.spotify.com/album/5eU8DCQKzpinsnzAAJwlbf"
       },
@@ -247,22 +231,6 @@
       "duration_ms": 170239,
       "name": "Savage Love",
       "url": "https://open.spotify.com/track/5NZcKD2lKDVZiCFADvAyfh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "KIDZ BOP 54",
-        "url": "https://open.spotify.com/album/5RwCNophFbxHCdH6igEalw"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 182881,
-      "name": "Happen To Me",
-      "url": "https://open.spotify.com/track/2Kw4igRdrdb8s63fai2jdu"
     },
     {
       "added_at": null,
@@ -283,8 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "KIDZ BOP Halloween",
-        "url": "https://open.spotify.com/album/7mb79mhvW3ZTdeIQWos7xs"
+        "name": "KIDZ BOP 54",
+        "url": "https://open.spotify.com/album/5RwCNophFbxHCdH6igEalw"
       },
       "artists": [
         {
@@ -292,9 +260,41 @@
           "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
         }
       ],
-      "duration_ms": 179160,
-      "name": "I Want Candy",
-      "url": "https://open.spotify.com/track/4Jdlt3B3F6L50kmfHmbKrF"
+      "duration_ms": 182881,
+      "name": "Happen To Me",
+      "url": "https://open.spotify.com/track/2Kw4igRdrdb8s63fai2jdu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KIDZ BOP Halloween",
+        "url": "https://open.spotify.com/album/7GkHcdpMzRAu4rm2LnOnGj"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 133764,
+      "name": "Witch Doctor",
+      "url": "https://open.spotify.com/track/1BObYVgiXuJdtPxUlNmfRt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KIDZ BOP 2022",
+        "url": "https://open.spotify.com/album/1pVDyIhEeVDBQjZYO67ytl"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 134148,
+      "name": "Astronaut In The Ocean",
+      "url": "https://open.spotify.com/track/65I7LRWEDId3dlW2ReXXR8"
     },
     {
       "added_at": null,
@@ -331,8 +331,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "KIDZ BOP 2022",
-        "url": "https://open.spotify.com/album/1pVDyIhEeVDBQjZYO67ytl"
+        "name": "KIDZ BOP Halloween",
+        "url": "https://open.spotify.com/album/7mb79mhvW3ZTdeIQWos7xs"
       },
       "artists": [
         {
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
         }
       ],
-      "duration_ms": 134148,
-      "name": "Astronaut In The Ocean",
-      "url": "https://open.spotify.com/track/65I7LRWEDId3dlW2ReXXR8"
+      "duration_ms": 179160,
+      "name": "I Want Candy",
+      "url": "https://open.spotify.com/track/4Jdlt3B3F6L50kmfHmbKrF"
     },
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "KIDZ BOP 2024 Vol. 2",
-        "url": "https://open.spotify.com/album/1QGR5HUSkYh3FdapkrRNb5"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 180155,
-      "name": "Beautiful Things",
-      "url": "https://open.spotify.com/track/4uRhvzGgVOTUNC2j5uZ4tG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "KIDZ BOP 2023",
         "url": "https://open.spotify.com/album/5YOe3aJeBjlLA9IuOWyWD5"
       },
@@ -443,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kidz Bop Halloween Hits!",
-        "url": "https://open.spotify.com/album/41Whu3XN1DycyGPZYXz51K"
+        "name": "KIDZ BOP 2024 Vol. 2",
+        "url": "https://open.spotify.com/album/1QGR5HUSkYh3FdapkrRNb5"
       },
       "artists": [
         {
@@ -452,9 +436,9 @@
           "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
         }
       ],
-      "duration_ms": 100560,
-      "name": "Scooby Doo, Where Are You?",
-      "url": "https://open.spotify.com/track/4tHL2ARKN75Romnwr6nWiH"
+      "duration_ms": 180155,
+      "name": "Beautiful Things",
+      "url": "https://open.spotify.com/track/4uRhvzGgVOTUNC2j5uZ4tG"
     },
     {
       "added_at": null,
@@ -471,6 +455,22 @@
       "duration_ms": 146733,
       "name": "Thunder",
       "url": "https://open.spotify.com/track/6zJiQz6bAScLMLn2OzhN6o"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kidz Bop Halloween Hits!",
+        "url": "https://open.spotify.com/album/41Whu3XN1DycyGPZYXz51K"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 100560,
+      "name": "Scooby Doo, Where Are You?",
+      "url": "https://open.spotify.com/track/4tHL2ARKN75Romnwr6nWiH"
     },
     {
       "added_at": null,
@@ -571,6 +571,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ordinary",
+        "url": "https://open.spotify.com/album/3nti4U2l0xqKTSbvMJz9az"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 184591,
+      "name": "Ordinary",
+      "url": "https://open.spotify.com/track/1kpyrSrztFItjIK2rIeynv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "KIDZ BOP Halloween",
         "url": "https://open.spotify.com/album/7mb79mhvW3ZTdeIQWos7xs"
       },
@@ -603,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ordinary",
-        "url": "https://open.spotify.com/album/3nti4U2l0xqKTSbvMJz9az"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 184591,
-      "name": "Ordinary",
-      "url": "https://open.spotify.com/track/1kpyrSrztFItjIK2rIeynv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "KIDZ BOP 2022",
         "url": "https://open.spotify.com/album/1pVDyIhEeVDBQjZYO67ytl"
       },
@@ -631,22 +631,6 @@
       "duration_ms": 115272,
       "name": "Wellerman \u2013 Sea Shanty",
       "url": "https://open.spotify.com/track/7IrlbBGU4Q0jVgpX6lEVYg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "KIDZ BOP Halloween",
-        "url": "https://open.spotify.com/album/7mb79mhvW3ZTdeIQWos7xs"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Ghostbusters",
-      "url": "https://open.spotify.com/track/1VNB8G2Rq3RcQgo74OCHzp"
     },
     {
       "added_at": null,
@@ -667,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kidz Bop Halloween Hits!",
-        "url": "https://open.spotify.com/album/41Whu3XN1DycyGPZYXz51K"
+        "name": "KIDZ BOP Halloween",
+        "url": "https://open.spotify.com/album/7mb79mhvW3ZTdeIQWos7xs"
       },
       "artists": [
         {
@@ -676,9 +660,9 @@
           "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
         }
       ],
-      "duration_ms": 219066,
-      "name": "Werewolves Of London",
-      "url": "https://open.spotify.com/track/322Wso1mXWHJBtZKXUbOF0"
+      "duration_ms": 200000,
+      "name": "Ghostbusters",
+      "url": "https://open.spotify.com/track/1VNB8G2Rq3RcQgo74OCHzp"
     },
     {
       "added_at": null,
@@ -699,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "KIDZ BOP Halloween",
-        "url": "https://open.spotify.com/album/7mb79mhvW3ZTdeIQWos7xs"
+        "name": "Kidz Bop Halloween Hits!",
+        "url": "https://open.spotify.com/album/41Whu3XN1DycyGPZYXz51K"
       },
       "artists": [
         {
@@ -708,9 +692,9 @@
           "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
         }
       ],
-      "duration_ms": 151093,
-      "name": "Purple People Eater",
-      "url": "https://open.spotify.com/track/4mXSbKYf6voPyMaFc79CwL"
+      "duration_ms": 219066,
+      "name": "Werewolves Of London",
+      "url": "https://open.spotify.com/track/322Wso1mXWHJBtZKXUbOF0"
     },
     {
       "added_at": null,
@@ -731,6 +715,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "KIDZ BOP Halloween",
+        "url": "https://open.spotify.com/album/7mb79mhvW3ZTdeIQWos7xs"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 151093,
+      "name": "Purple People Eater",
+      "url": "https://open.spotify.com/track/4mXSbKYf6voPyMaFc79CwL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "KIDZ BOP 2023",
         "url": "https://open.spotify.com/album/5YOe3aJeBjlLA9IuOWyWD5"
       },
@@ -743,6 +743,22 @@
       "duration_ms": 142383,
       "name": "I Ain't Worried",
       "url": "https://open.spotify.com/track/5ItaHbk9Vs36DBZEmg3jxP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KIDZ BOP 52",
+        "url": "https://open.spotify.com/album/6rFTqiL3mNKFT5FdjnEWVf"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 225980,
+      "name": "The Fate Of Ophelia",
+      "url": "https://open.spotify.com/track/7fA5XGWwshca6Un5IPYedY"
     },
     {
       "added_at": null,
@@ -775,22 +791,6 @@
       "duration_ms": 199266,
       "name": "Monster Mash",
       "url": "https://open.spotify.com/track/0Toah6uxtHgm8zSt5dU6bF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "KIDZ BOP 52",
-        "url": "https://open.spotify.com/album/6rFTqiL3mNKFT5FdjnEWVf"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 225980,
-      "name": "The Fate Of Ophelia",
-      "url": "https://open.spotify.com/track/7fA5XGWwshca6Un5IPYedY"
     },
     {
       "added_at": null,

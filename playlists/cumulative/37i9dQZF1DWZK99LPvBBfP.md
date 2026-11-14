@@ -4,7 +4,7 @@
 
 > Club classics from the homeland of dance music.
 
-176 songs - 17 hr 17 min
+177 songs - 17 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Camdino Soul](https://open.spotify.com/track/6jO4uy595sAigCrkKJIhdU) | [Soul II Soul](https://open.spotify.com/artist/2sIx6SmAMw9IBySG3Uj0jf) | [Time For Change](https://open.spotify.com/album/2rBMhWTkBHdjWqpQkHbzI5) | 7:44 | 2024-03-22 |  |
 | [Camino Del Sol](https://open.spotify.com/track/4UFm6Kib5Jxzw9FL0F6x0q) | [Antena](https://open.spotify.com/artist/3apLA4vM37l7KbHOvpyPIc) | [Camino Del Sol](https://open.spotify.com/album/1Sk3WFAves0pZ4Mfj4HtI1) | 3:42 | 2023-08-11 | 2024-04-19 |
 | [Can You Feel It](https://open.spotify.com/track/4mNwbj8hTUjbyZSHdQVIuL) | [Mr\. Fingers](https://open.spotify.com/artist/0dRiUTGvNV17AMIULRYsvn) | [Amnesia](https://open.spotify.com/album/201nAW1V2QI2jDbGci7K3g) | 5:53 | 2023-07-18 | 2023-08-12 |
-| [Canoa](https://open.spotify.com/track/7yAqzJAp6RaOtiDL4MgKzx) | [DJ Gregory](https://open.spotify.com/artist/08P7D5oQ3HUmQ0Gjbw6nzR), [Gregor Salto](https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew) | [Canoa](https://open.spotify.com/album/4hpJ2yJGx1GM6j6qyT8fpt) | 9:06 | 2022-04-13 |  |
+| [Canoa](https://open.spotify.com/track/7yAqzJAp6RaOtiDL4MgKzx) | [DJ Gregory](https://open.spotify.com/artist/08P7D5oQ3HUmQ0Gjbw6nzR), [Gregor Salto](https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew) | [Canoa](https://open.spotify.com/album/4hpJ2yJGx1GM6j6qyT8fpt) | 9:06 | 2022-04-13 | 2026-11-14 |
 | [Children](https://open.spotify.com/track/4wtR6HB3XekEengMX17cpc) | [Robert Miles](https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0) | [Children \(Dance Vault Mixes\)](https://open.spotify.com/album/5vwm8dEf7xGTqUAas8zGdC) | 4:03 | 2022-04-13 |  |
 | [Children \- Full Length](https://open.spotify.com/track/4d6HyxARNCeUEw3sDntLb5) | [Robert Miles](https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0) | [Children \(Dance Vault Mixes\)](https://open.spotify.com/album/5vwm8dEf7xGTqUAas8zGdC) | 7:33 | 2023-07-18 | 2023-08-12 |
 | [Chime \(Edit\) \- Remastered](https://open.spotify.com/track/5LOKOBboMIbi4moxpjuFL5) | [Orbital](https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV) | [Chime](https://open.spotify.com/album/5Q5TZTTdvn7njWWGNjlJdm) | 3:14 | 2022-04-13 |  |
@@ -97,6 +97,7 @@
 | [Lola's Theme \- Radio Edit](https://open.spotify.com/track/2SCP5oOX5OSp5RT83h2rs0) | [The Shapeshifters](https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP) | [Lola's Theme](https://open.spotify.com/album/7DdLjF8JFxVVMFh4rRC1bE) | 3:27 | 2022-04-13 | 2024-04-19 |
 | [Lola's Theme \- Radio Edit](https://open.spotify.com/track/5mAh5J4w6BEZkajB1M7XrB) | [The Shapeshifters](https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP) | [Lola's Theme](https://open.spotify.com/album/0thmU9CS6evNvZSso54yCU) | 3:27 | 2024-03-22 |  |
 | [Love Story](https://open.spotify.com/track/3SdXO2B5AVG6BDHiS7dOH6) | [Layo & Bushwacka!](https://open.spotify.com/artist/4XO18kRHLT6F5RhomZGrpc) | [Night Works](https://open.spotify.com/album/7a25FtnvBLOmW6BA9444Wn) | 5:12 | 2022-04-13 | 2024-04-19 |
+| [Love Story](https://open.spotify.com/track/6g99OTGhJ4BnXDHerdufGR) | [Layo & Bushwacka!](https://open.spotify.com/artist/4XO18kRHLT6F5RhomZGrpc) | [Night Works](https://open.spotify.com/album/3P5IxDoyVaExcDP8IcGkK1) | 5:12 | 2024-03-22 |  |
 | [Lullaby \- Extended Mix](https://open.spotify.com/track/3oHh50CILa1PKDBSvfVuDd) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Mixed Up \(Remastered 2018 / Deluxe Edition\)](https://open.spotify.com/album/3huHRCpnBNMIrU4e10HDtr) | 7:45 | 2024-03-22 |  |
 | [Madan](https://open.spotify.com/track/5aoJnOhycrs0NtXomySi3e) | [Martin Solveig](https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [So Far](https://open.spotify.com/album/2lZokCz6x1j296NYepSBxB) | 4:50 | 2022-04-13 | 2026-01-05 |
 | [Maybe The Sunset](https://open.spotify.com/track/00CQJXwhMPdoyXRlITsoBT) | [José Padilla](https://open.spotify.com/artist/7rDHusYGKfhI7ZNIGeUibU), [Lydmor](https://open.spotify.com/artist/5aubywQASFk4xdR0fVTxFR) | [So Many Colours](https://open.spotify.com/album/4WlD2i4Eb75fNj9VukkEB8) | 6:04 | 2023-08-11 |  |

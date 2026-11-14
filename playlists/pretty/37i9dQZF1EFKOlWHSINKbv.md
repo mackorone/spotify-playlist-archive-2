@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOlWHSINKbv.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/34l1tsrbKtmGYuTEef0YFl">D'Mile</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,641 likes - 157 songs - 9 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,642 likes - 157 songs - 9 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOlWHSINKbv.md) - [plain]
 | 92 | [No Justice \(feat\. Big TC\)](https://open.spotify.com/track/3V2FS2divZQ4fh54jxa5BP) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Big TC](https://open.spotify.com/artist/0lcJ0rnv51qnpYkAlvMCGE) | [Campaign](https://open.spotify.com/album/7bSsdgWDh5VRI3ZVOXQEj4) | 3:54 |
 | 93 | [FWM](https://open.spotify.com/track/20uTG4R792vLsSlcKCbA3r) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Hard II Love](https://open.spotify.com/album/4HAuPn3A4uu9n7RYNk1dOz) | 3:14 |
 | 94 | [Gangster](https://open.spotify.com/track/1TYiFslbRaM2N7xgmw22uQ) | [PJ](https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb) | [Gangster](https://open.spotify.com/album/0haE8BchouIV0AKjBMB4TK) | 3:37 |
-| 95 | [Last Cigarette](https://open.spotify.com/track/0GteMc3A6Mo2BNvvLz4Z8B) | [Ro James](https://open.spotify.com/artist/7r2oyrNc0YjSC7hZL87V0Y) | [ELDORADO](https://open.spotify.com/album/1SXqTsVnjtIULG5YKXafeY) | 3:44 |
-| 96 | [No Lights](https://open.spotify.com/track/4yEGuMeq1XdPzjon9AocdU) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [X \(Expanded Edition\)](https://open.spotify.com/album/3LByoNjO4gbuX5D0u26LDY) | 3:28 |
+| 95 | [No Lights](https://open.spotify.com/track/4yEGuMeq1XdPzjon9AocdU) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [X \(Expanded Edition\)](https://open.spotify.com/album/3LByoNjO4gbuX5D0u26LDY) | 3:28 |
+| 96 | [Last Cigarette](https://open.spotify.com/track/0GteMc3A6Mo2BNvvLz4Z8B) | [Ro James](https://open.spotify.com/artist/7r2oyrNc0YjSC7hZL87V0Y) | [ELDORADO](https://open.spotify.com/album/1SXqTsVnjtIULG5YKXafeY) | 3:44 |
 | 97 | [Road to You](https://open.spotify.com/track/1UWozOfeMSDbTSZBFhdn8V) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [The Beauty of Everything, Pt\. 2](https://open.spotify.com/album/6niD0YxomwByeULnjwA8cD) | 5:06 |
 | 98 | [Royalty](https://open.spotify.com/track/32DOdPhSbnzARVnZTzdb5s) | [Mali Music](https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY) | [Mali Is...](https://open.spotify.com/album/7MMjwKpaSrATroOvGcjTGv) | 4:06 |
 | 99 | [Bar Song](https://open.spotify.com/track/2UWs1yE9D6PXiwhRBOQ2Nw) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [9 Lives](https://open.spotify.com/album/5W2ZpWhrvHK0h68xiP7ajj) | 2:48 |
@@ -166,4 +166,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOlWHSINKbv.md) - [plain]
 | 156 | [First Place Loser \- Bonus Track](https://open.spotify.com/track/1d5AxYa4bOiTaHTOC3UvTg) | [Diddy \- Dirty Money](https://open.spotify.com/artist/2QYEvpsWUOjqaYuxDPTCmV) | [Last Train To Paris \(Deluxe\)](https://open.spotify.com/album/4Ofqtk9mm4nmBuCPhctq0e) | 4:28 |
 | 157 | [Falling In Love](https://open.spotify.com/track/0zzqjHe6CUudt5UzKgS95v) | [Juxtaposition](https://open.spotify.com/artist/4wFqotuEhWL1ERKyIVnU9F) | [Retrospect](https://open.spotify.com/album/3W28uUSJbOrzH3WDbgSWX3) | 3:02 |
 
-Snapshot ID: `AchgdgAAAADHbmGTrlf/NS7ZSy9+dHea`
+Snapshot ID: `AchmFgAAAAD0RBXLs7VyJpPqa73bNPnL`

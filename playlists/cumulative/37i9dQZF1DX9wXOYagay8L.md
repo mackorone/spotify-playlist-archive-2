@@ -2,9 +2,9 @@
 
 ### [Made In South Africa](https://open.spotify.com/playlist/37i9dQZF1DX9wXOYagay8L)
 
-> Proudly Southern African Afropop gems\. Cover: Mawelele
+> Proudly Southern African Afropop gems\. Cover: The Joy
 
-790 songs - 2 day 8 hr 1 min
+791 songs - 2 day 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -357,6 +357,7 @@
 | [Langa Elihle \(feat\. Spizzy & LeeMcKrazy\)](https://open.spotify.com/track/3bi3IfHXusSIlCTC9ZIsr2) | [Muziqal Tone](https://open.spotify.com/artist/0dswN69mvtfnBkONPK7ZkK), [Sinny Man'Que](https://open.spotify.com/artist/3pkvmcbars2K4OSqmRTC7m), [J&S Projects](https://open.spotify.com/artist/66cOfMJH2FvpXFhJzGvvZP), [LeeMcKrazy](https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg), [Spizzy](https://open.spotify.com/artist/08d3kRXpuOCx4pmybvUQK0) | [DJ Jaivane's July Birthday Mix 2021](https://open.spotify.com/album/6ZPskb4wknJmGgTRnMWhuc) | 7:01 | 2022-01-31 | 2022-04-09 |
 | [Langa Linye](https://open.spotify.com/track/56OeFbi7h1lX31zXpLc5yh) | [Mduduzi Ncube](https://open.spotify.com/artist/5jvlsVxfcbRVuHJ2Uv8WOh), [Zakwe](https://open.spotify.com/artist/53tX0k8tF3LaZYncnfpCtd), [Zamo Cofi](https://open.spotify.com/artist/3NvuFbzWW4pgjO4L7uUEPv) | [Langa Linye](https://open.spotify.com/album/5SmgVjY1nTnyK8wil50fLx) | 4:53 | 2022-02-03 | 2023-05-06 |
 | [Langazela \(feat\. Ami Faku & Mr\. V\-ntage\)](https://open.spotify.com/track/2uhZSY6WdR40uiLGtXXmzT) | [Mr Luu](https://open.spotify.com/artist/30f7PK6kTtrOc4HkSVGjgb), [Ami Faku](https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE), [Mr\. V\-ntage](https://open.spotify.com/artist/5LY3ezHTI6TmC8fSU5EUSL) | [Langazela \(feat\. Ami Faku & Mr\. V\-ntage\)](https://open.spotify.com/album/3mDtfwGYbgyVSEswYfno7Q) | 4:02 | 2024-09-13 | 2025-04-25 |
+| [Last Chance](https://open.spotify.com/track/3x34MQpBaq5PccuVsxmUOn) | [The Joy](https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby) | [Home](https://open.spotify.com/album/0DzepLE2k4Z0jB6rvzusTS) | 3:43 | 2026-11-13 |  |
 | [Lebala](https://open.spotify.com/track/1T19kPbN2QQ4VDAmnJUROS) | [Ksoulrsa](https://open.spotify.com/artist/3Rcm4uLd61cxDtQsjjxtH4), [Ruvimbo](https://open.spotify.com/artist/0H9hyTkCwELLroC9zTODuz) | [SHONA SOUL](https://open.spotify.com/album/1OZMRM8GFvrS6G4H70VqKl) | 3:41 | 2026-01-29 | 2026-05-08 |
 | [Lebone](https://open.spotify.com/track/3RnF4b7QjpbdECHKcXXoLX) | [Phonikz](https://open.spotify.com/artist/6YX1n5yl2H2RdidVHWnoc5), [Spartz](https://open.spotify.com/artist/7BTIIrYH0F234f2wpl2irF), [Marcus Harvey](https://open.spotify.com/artist/5MTx8G4UpDgIhvl1eRxJq6) | [Watering Dry Plants](https://open.spotify.com/album/3G1PFpiGsMJ989PtewdMbe) | 3:33 | 2022-05-19 | 2022-07-22 |
 | [LEMENEMENE](https://open.spotify.com/track/6MqItn0BCv0z0jYJymAmKN) | [King Monada](https://open.spotify.com/artist/5SDXPZSEfwqvGPwqiQezOP) | [LEMENEMENE](https://open.spotify.com/album/499oCreFAawyBK9OrXszm5) | 5:06 | 2023-04-03 | 2023-09-01 |
@@ -700,7 +701,7 @@
 | [Umbhalo Wothando \(feat\. Shwi Mantombazane & Siya Ntuli\)](https://open.spotify.com/track/0HzMVl841AovgV1GCUTyLr) | [Nue\_Sam](https://open.spotify.com/artist/2mQ1WAgOTUQDBsJpt7tGTY), [Shwi Mantombazane](https://open.spotify.com/artist/19JQ640cmG2atUL0ynYIWX), [Siya Ntuli](https://open.spotify.com/artist/5BggJAW7Ubyk8FR87MpGvc) | [Umbhalo Wothando \(feat\. Shwi Mantombazane & Siya Ntuli\)](https://open.spotify.com/album/3di79PpABtRkehqxuvchKn) | 4:24 | 2026-09-03 |  |
 | [Umbuzo Wodwa](https://open.spotify.com/track/2Y78qvXgPX8AhZ3CyGTjkj) | [Siya Ntuli](https://open.spotify.com/artist/5BggJAW7Ubyk8FR87MpGvc), [Makhadzi Entertainment](https://open.spotify.com/artist/24Hon9044L6JUKWcqQSjma) | [Umbuzo Wodwa](https://open.spotify.com/album/2nEh7aJQC9MyfTrtSGuJPf) | 4:29 | 2024-03-15 | 2025-09-26 |
 | [Umdanso](https://open.spotify.com/track/0Oz3p5UYinbodtyw7dRndb) | [Aubrey Qwana](https://open.spotify.com/artist/6uVEWgg7sAAzfPQsXjzTRi), [The Maniac DJ](https://open.spotify.com/artist/22uhGwtaO918jLyqEtMIUC) | [Amagalelo](https://open.spotify.com/album/1KdQjmlYYh74SahJmDNGSV) | 3:09 | 2022-02-17 | 2022-06-03 |
-| [Umendo 2](https://open.spotify.com/track/144MjlSQzblBVzyGJtHK8o) | [Aubrey Qwana](https://open.spotify.com/artist/6uVEWgg7sAAzfPQsXjzTRi) | [Mkabayi Legacy](https://open.spotify.com/album/4LljHF0vaVp6G5GLAgHDKD) | 3:53 | 2025-09-12 |  |
+| [Umendo 2](https://open.spotify.com/track/144MjlSQzblBVzyGJtHK8o) | [Aubrey Qwana](https://open.spotify.com/artist/6uVEWgg7sAAzfPQsXjzTRi) | [Mkabayi Legacy](https://open.spotify.com/album/4LljHF0vaVp6G5GLAgHDKD) | 3:53 | 2025-09-12 | 2026-11-14 |
 | [uMfazi\_omuhle](https://open.spotify.com/track/21ihgUfLmtxXwACVarO6EY) | [SouthSideblueprint](https://open.spotify.com/artist/4hiA5BZLtNc8W5Jv1As1vv), [XiKamakazi](https://open.spotify.com/artist/5FTpKlIyNZxecEd2xT8FRL) | [spy\_da\_man](https://open.spotify.com/album/5lXb8z5UIVu0usiRFgxhbQ) | 2:18 | 2022-06-02 | 2022-06-17 |
 | [Umgani Wakho](https://open.spotify.com/track/3O2xwCcuT0k6KG6oqAkAQu) | [Anzo](https://open.spotify.com/artist/0mXjRSmbTBBoufMmTKuGmv), [Aubrey Qwana](https://open.spotify.com/artist/6uVEWgg7sAAzfPQsXjzTRi) | [3310](https://open.spotify.com/album/7AgGMHzNjT0Fudd77ZGonH) | 4:32 | 2021-08-26 | 2022-04-15 |
 | [Umhlaba Wakho \(feat\. Nkosazana Daughter & Azana\)](https://open.spotify.com/track/5k0Ng0woKxgXJ8wv5CyO4M) | [Citizen Deep](https://open.spotify.com/artist/2Wcld3BQUXxWUYMmCJYyuM), [Nkosazana Daughter](https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66), [Azana](https://open.spotify.com/artist/0gJquJFhW829uQhytBRNT5) | [Umhlaba Wakho \(feat\. Nkosazana Daughter & Azana\)](https://open.spotify.com/album/4pG98Z46EJRUepyWcRl015) | 4:25 | 2022-07-07 | 2022-10-14 |

@@ -4,7 +4,7 @@
 
 > Chill techno, melodic house and tech house.
 
-815 songs - 3 day 3 hr 6 min
+816 songs - 3 day 3 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [Close Your Eyes \- Spotify Singles](https://open.spotify.com/track/1BiWBZrvcUh7cDCqHsjb2u) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [HANA](https://open.spotify.com/artist/224Zsim3dmWXWYUXFuHv0o) | [Close Your Eyes \- Spotify Singles](https://open.spotify.com/album/0CBPN1mIPmYvZLKmbH4dd5) | 3:21 | 2021-10-09 | 2023-01-14 |
 | [Closer](https://open.spotify.com/track/3o1zrW0DOGDIM7Inw28TyR) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k) | [Closer](https://open.spotify.com/album/45SzO3Sw87Hqma1EQJ3kFn) | 3:28 | 2020-04-18 | 2022-07-01 |
 | [Cloud 9](https://open.spotify.com/track/6PCkmEG2qnLbewSW1cN1rD) | [Irajá](https://open.spotify.com/artist/4FMTGkOjozsv1N6aMiR6nw), [Black Box](https://open.spotify.com/artist/7IHGC6y8NjBwwWhWCF2lKR), [Luc Rushmere](https://open.spotify.com/artist/7IfsuGH0v0gCTz4e5ZSD1p) | [Cloud 9](https://open.spotify.com/album/5pjdf866qmNg2RMMOC1np6) | 3:35 | 2022-10-28 | 2022-11-24 |
+| [Clown Shoes](https://open.spotify.com/track/3PfdD5fDE4tIF1qU6y60a9) | [Brunello](https://open.spotify.com/artist/7FZIk8RSha4GBa4ZEPuytU) | [Clown Shoes](https://open.spotify.com/album/4PSgcmIAvZn0x642mqrXPi) | 6:21 | 2026-11-13 |  |
 | [Coffee](https://open.spotify.com/track/3Myu3hGDqQXZYqQRWtAqlv) | [Taglo](https://open.spotify.com/artist/4dQDfHDSlal2ceGhs4ZQTD) | [Coffee](https://open.spotify.com/album/75S36sAFceZXQrOo5X8GlV) | 5:59 | 2020-11-21 | 2021-02-27 |
 | [COL](https://open.spotify.com/track/3L5LIZs4OOxQrLNrwPUYAK) | [Circle of Life](https://open.spotify.com/artist/42RQg877YIAzBlaGWWGEPs) | [COL](https://open.spotify.com/album/3D2xhuW1DSLNxqdJzwWn7E) | 7:40 | 2021-02-23 | 2021-05-28 |
 | [Cold Blooded](https://open.spotify.com/track/6ULPq2iNWiykHX1acI2SGn) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Good Lies](https://open.spotify.com/album/7m2yEFYxnjmEyq7IXa9sXp) | 3:37 | 2023-06-30 | 2024-10-28 |
@@ -420,7 +421,7 @@
 | [Love Modules](https://open.spotify.com/track/6zNALmoubQPX3mU8p075S2) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB) | [X](https://open.spotify.com/album/4H6qH7PrZcCdcJMsXu2O1n) | 6:19 | 2019-08-06\* | 2020-06-12 |
 | [Love Tonight \- Oliver Huntemann Remix Edit](https://open.spotify.com/track/2erIidBWSIp491u4RjXRQe) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB), [Oliver Huntemann](https://open.spotify.com/artist/0NBGssQpgDczTsVEp4pCbR) | [Love Tonight \(Oliver Huntemann Remix\)](https://open.spotify.com/album/10fFFQfSWN7tzTKN8hJy3h) | 3:25 | 2021-05-08 | 2022-04-20 |
 | [Love You Got](https://open.spotify.com/track/6Fn0PW0rmdTQ3jbpynyGIu) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5) | [Love You Got](https://open.spotify.com/album/4JBhIRt38otXkigmi7w8YG) | 4:33 | 2024-07-12 | 2024-11-10 |
-| [Low](https://open.spotify.com/track/3RS9G9t00I4ljZzylMXH9O) | [DJ Spade](https://open.spotify.com/artist/2dhmmWskkjPNDFnDQKiyH8), [Dawda](https://open.spotify.com/artist/5CtgmVTepFFoGGtuXsPKFj) | [Low](https://open.spotify.com/album/0W94RDU5UFKmOHCFVQ7hXf) | 3:34 | 2026-08-21 |  |
+| [Low](https://open.spotify.com/track/3RS9G9t00I4ljZzylMXH9O) | [DJ Spade](https://open.spotify.com/artist/2dhmmWskkjPNDFnDQKiyH8), [Dawda](https://open.spotify.com/artist/5CtgmVTepFFoGGtuXsPKFj) | [Low](https://open.spotify.com/album/0W94RDU5UFKmOHCFVQ7hXf) | 3:34 | 2026-08-21 | 2026-11-14 |
 | [Luminous](https://open.spotify.com/track/39zV5zT04fDhtCECIoLWZf) | [Fabrication](https://open.spotify.com/artist/73MDrv3SUYLE1yNOBQMlsy) | [SPLIT 02](https://open.spotify.com/album/6zauR5OL3j8drzdk8dyLla) | 6:08 | 2020-09-11 | 2020-12-05 |
 | [Lutanium](https://open.spotify.com/track/1Is0qsDYVt1C7eFJXfV87j) | [Peer Kusiv](https://open.spotify.com/artist/0yTV2etph4xN8PXPLPeEG5), [Rauschhaus](https://open.spotify.com/artist/5Mxbf9xF3V5bIL5l0xHdzM), [Peter Groskreutz](https://open.spotify.com/artist/4jQG9Atvh30T0vUM0A7nm3) | [Drifting Rocks](https://open.spotify.com/album/5SmuYVVsroSUApTayB6UmS) | 6:12 | 2020-08-30 | 2020-11-14 |
 | [Magic](https://open.spotify.com/track/3q8D7O6GOuiNMBX8SJSt8K) | [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e), [Astrø](https://open.spotify.com/artist/31anju77mwSChYTKZYLxbZ), [Afnan Prince](https://open.spotify.com/artist/0T3J2fxgciLGud2pwqHixZ), [XIRA](https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ) | [Finding Home](https://open.spotify.com/album/3CRJaVRt0ni52xagPsekyk) | 5:00 | 2025-10-03 | 2026-07-06 |

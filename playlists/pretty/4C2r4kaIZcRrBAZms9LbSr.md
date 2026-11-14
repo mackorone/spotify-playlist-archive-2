@@ -4,23 +4,20 @@ pretty - [cumulative](/playlists/cumulative/4C2r4kaIZcRrBAZms9LbSr.md) - [plain]
 
 > The sounds that have currently got the Rough Trade Records team excited, including new releases and favourites from the archive\. Currently updated every Monday.
 
-[Rough Trade Records](https://open.spotify.com/user/roughtraderecordsuk) - 16,260 likes - 14 songs - 1 hr 15 min
+[Rough Trade Records](https://open.spotify.com/user/roughtraderecordsuk) - 16,262 likes - 11 songs - 46 min 54 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Live It Down](https://open.spotify.com/track/46LMLiMIgmpftDNsEirs02) | [Tyler Ballgame](https://open.spotify.com/artist/1pQ0Axx7UF8LDDOqSgdVmK) | [Live It Down](https://open.spotify.com/album/5qyYwVLbn1hWMzLPNObBV0) | 3:43 |
-| 2 | [Still I Love Him](https://open.spotify.com/track/1PbuDuVr1YqxVTk3jv4LTl) | [Radie Peat](https://open.spotify.com/artist/2HzXwEzn6g3waLTIufC1Ji) | [Still I Love Him](https://open.spotify.com/album/0ENfPSVn8uvUIytzWFwvat) | 6:16 |
-| 3 | [Placeholder](https://open.spotify.com/track/5V1kxhCYOixHKKei4c4EwE) | [Gilla Band](https://open.spotify.com/artist/7IdPmzvB3PugXieZE9vS4S) | [Placeholder](https://open.spotify.com/album/2LsamWtPqjSpB4rNICcaRp) | 4:14 |
-| 4 | [death valley fridge magnet](https://open.spotify.com/track/1rzf8tDuXVxyGXdJBxFNSI) | [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv) | [death valley fridge magnet](https://open.spotify.com/album/616dP07OohyFY5DuNFxJur) | 4:24 |
-| 5 | [Baby](https://open.spotify.com/track/37bY677poQAFeSdBNTN7Ik) | [Standing On The Corner](https://open.spotify.com/artist/5yD3wA48IGUoCVboe0LdHx) | [Baby](https://open.spotify.com/album/15t5pAZbc5EAnu3Uc2BKHX) | 6:33 |
-| 6 | [The Tenpenny Piece / Elizabeth Kelly's Delight](https://open.spotify.com/track/22Qq7uQG5rM1lzejtEW3DT) | [Paahto & The Bull](https://open.spotify.com/artist/2dhyG72pNGPQiGVoPvTijs) | [The Tenpenny Piece / Elizabeth Kelly's Delight](https://open.spotify.com/album/50S1T5A2Yz4O7hczsxHgkt) | 3:55 |
-| 7 | [SPECIAL WEAKNESS](https://open.spotify.com/track/56PQ9YCEIe1YhSe90NGdRu) | [Nirosta Steel](https://open.spotify.com/artist/6B6MO6Q4QoLGVq7Kf8vlGM) | [MY SKYSCRAPER](https://open.spotify.com/album/0yZchhNCCIzegjc1ElL5Em) | 13:33 |
-| 8 | [Live Without Her Love](https://open.spotify.com/track/5A2SzM69oijfu5scaUmzWi) | [Sharp Pins](https://open.spotify.com/artist/0eTeMvSkCzEnLH4EgHhrzN) | [Live Without Her Love](https://open.spotify.com/album/46hmma6B2khDw8CxVnxPDN) | 4:08 |
-| 9 | [I Have Known Love](https://open.spotify.com/track/1t8hGSHakCiyoidxZ1Omfx) | [Silver Apples](https://open.spotify.com/artist/6dP7OHshDvGHaNNSwunol4) | [Contact](https://open.spotify.com/album/6dNoZCStK0RoBhqLj3kJN8) | 3:54 |
-| 10 | [Peace Piece](https://open.spotify.com/track/58yFroDNbzHpYzvicaC0de) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Everybody Digs Bill Evans](https://open.spotify.com/album/2zSAVheEFBPMuUozd6C9gt) | 6:44 |
-| 11 | [Mam Yinne Wa](https://open.spotify.com/track/7idNapSLaJMRTfIk5nPE0U) | [Alogte Oho & His Sounds of Joy](https://open.spotify.com/artist/4rGa6nIVxUyi8xWSwkHDE1) | [Mam Yinne Wa](https://open.spotify.com/album/029cFMxo8WWyvXbh66yJmF) | 3:55 |
-| 12 | [No Ordinary Word](https://open.spotify.com/track/5eFzFGYWwDMhOtlaWFDvxF) | [Curbside Lambsear](https://open.spotify.com/artist/1RxPg5a5HnVNZ9gpokMfzh) | [No Ordinary Word](https://open.spotify.com/album/6PwvGFJfhcZDhzCHwk4vei) | 5:45 |
-| 13 | [Man The Door](https://open.spotify.com/track/1WFg77VnAM70L2FmQatjp2) | [Curbside Lambsear](https://open.spotify.com/artist/1RxPg5a5HnVNZ9gpokMfzh) | [No Ordinary Word](https://open.spotify.com/album/6PwvGFJfhcZDhzCHwk4vei) | 6:02 |
-| 14 | [Drive/Park](https://open.spotify.com/track/2nFYhi1w2aNyb4EcZQ5Jhx) | [Heathers](https://open.spotify.com/artist/4ece8MHBxffv0dw7gThk6M) | [Drive/Park](https://open.spotify.com/album/2bCd5sjRz4VmrdFTGFOYjn) | 2:36 |
+| 1 | [Willow Garden](https://open.spotify.com/track/7oEQpN5Ueu3YtnZKv4VACE) | [Radie Peat](https://open.spotify.com/artist/2HzXwEzn6g3waLTIufC1Ji) | [Willow Garden](https://open.spotify.com/album/4AgmQX26NU12CTsmEuEiZG) | 6:11 |
+| 2 | [Billie Holiday \- Live in Phoenix, 2024](https://open.spotify.com/track/2My13W7KH0rzr2Is2Dg8y9) | [Warpaint](https://open.spotify.com/artist/3AmgGrYHXqgbmZ2yKoIVzO) | [Billie Holiday \(Live in Phoenix, 2024\)](https://open.spotify.com/album/3kztNJ53o4C9clwNBmA40C) | 6:17 |
+| 3 | [It's a Fever](https://open.spotify.com/track/4enhiMk65c2Ea7GFUSCvwv) | [The Sophs](https://open.spotify.com/artist/2zX0ROHqU3TEfFtKBtqOAE) | [It's a Fever](https://open.spotify.com/album/4Pn7gMcbToeyermtO3o5Zp) | 3:04 |
+| 4 | [Innisfree](https://open.spotify.com/track/6Ebr1EfOq2LlRtE6E2yUd1) | [Sam Amidon](https://open.spotify.com/artist/6TTJ0xLPPNDyv4bXyukzU4) | [Innisfree](https://open.spotify.com/album/3NCxxGR4fnSVkcJJdjDsOn) | 2:50 |
+| 5 | [Dark Out](https://open.spotify.com/track/6h8kOYTVTTff21yGLylOPg) | [Frog](https://open.spotify.com/artist/3ME5MgDqwM6G3UDLmwjftA) | [Frog For Sale](https://open.spotify.com/album/6HqLL64qbss4s7FzIXnXMn) | 4:01 |
+| 6 | [Percy's Song \- Studio Outtake \- 1963](https://open.spotify.com/track/3jdPMTgiSAyntvVU8aZewM) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Side Tracks](https://open.spotify.com/album/6hQZ17lLlz3upoUPX9nBDY) | 7:40 |
+| 7 | [Die](https://open.spotify.com/track/7yTbU9yzrqHjCD488JC7b4) | [Nine Perfect Lives](https://open.spotify.com/artist/4wx3JoePTmyq3xvAQastJi) | [Die](https://open.spotify.com/album/4XoIqxcNEbTq1IgPepFqlp) | 2:48 |
+| 8 | [When We First Met](https://open.spotify.com/track/5IkNi8sYuM2B4sD7G7v24t) | [Twisted Teens](https://open.spotify.com/artist/40Hgbyjt4LQmrZYecbXebv) | [When We First Met](https://open.spotify.com/album/6VCUINTbuW3a9DFpljReRd) | 1:52 |
+| 9 | [Boom! There She Was](https://open.spotify.com/track/4fcOVzXmQygUi1HkFz0SES) | [Scritti Politti](https://open.spotify.com/artist/59luKpdal8UwxcuLJNoKwS) | [Provision](https://open.spotify.com/album/430UGbBovXlE3CRl1PGINW) | 4:58 |
+| 10 | [Something in mind](https://open.spotify.com/track/1uD44X1B8XkLqTVxrmWgh0) | [Andy Stott](https://open.spotify.com/artist/6BuDxEE5rfuYeyhxQsl53K), [Elaine Howley](https://open.spotify.com/artist/3STzxp6cfWNNQVcAQWYZgh) | [Late Loop](https://open.spotify.com/album/5ma4Jeo1KwJXQpBOKkq2PF) | 4:19 |
+| 11 | [City I Believe](https://open.spotify.com/track/0KSb4aEpIUulAYQ0noSYNz) | [Spanish Horses](https://open.spotify.com/artist/3YrLAGmnU9JltcICs5wBy1) | [City I Believe](https://open.spotify.com/album/7dfygYBnInFEDoewOYswN4) | 2:47 |
 
-Snapshot ID: `AAAYZPZEsfYoe9Pkwt+7I7Caei8Y29/4`
+Snapshot ID: `AAAYfwwoQIIfKyFLn02zGAT38262NVoq`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rtuJW.md) - [plain]
 
 > This is G Herbo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,443 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,441 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,9 +27,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rtuJW.md) - [plain]
 | 17 | [Party in Heaven](https://open.spotify.com/track/0nSwqwNqNUlNgpPJ4GDAMm) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [PTSD](https://open.spotify.com/album/14YY4ksyKkVbBsZ5TJt0Zr) | 3:16 |
 | 18 | [All On Me \(feat\. G Herbo\)](https://open.spotify.com/track/6j9hMjMCp0II1QX1auUlWX) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [The Leaks](https://open.spotify.com/album/7ap5djMVnUTtZR9ffjamg1) | 3:39 |
 | 19 | [Last Time \(feat\. G Herbo\)](https://open.spotify.com/track/5rDt0wjt4BrYGrveWoIKXB) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Me vs\. Myself](https://open.spotify.com/album/2vM2H6lyPfitmNZlc1Vrxv) | 2:59 |
-| 20 | [CODE OF HONOR](https://open.spotify.com/track/63bPfrifq9QfGYoBhATx6b) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [WHAT HAPPENED TO THE STREETS?](https://open.spotify.com/album/3ti3exZqx77nDf4eIQ1z5o) | 3:46 |
-| 21 | [Clippers \(feat\. G Herbo\)](https://open.spotify.com/track/0DRZZuz7QinXaI3pKJ05vH) | [Hurricane Wisdom](https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Perfect Storm: Sorry 4 The Rain](https://open.spotify.com/album/4QMV0g9J5HS87XSvCxAf7i) | 2:36 |
-| 22 | [Real Oppy \(feat\. G Herbo\)](https://open.spotify.com/track/33b88WhmUTvmavA6yAsKQp) | [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Grandson](https://open.spotify.com/album/4tH03Y2xfQNtG0CXJ8eGYN) | 2:43 |
+| 20 | [Clippers \(feat\. G Herbo\)](https://open.spotify.com/track/0DRZZuz7QinXaI3pKJ05vH) | [Hurricane Wisdom](https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Perfect Storm: Sorry 4 The Rain](https://open.spotify.com/album/4QMV0g9J5HS87XSvCxAf7i) | 2:36 |
+| 21 | [Real Oppy \(feat\. G Herbo\)](https://open.spotify.com/track/33b88WhmUTvmavA6yAsKQp) | [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Grandson](https://open.spotify.com/album/4tH03Y2xfQNtG0CXJ8eGYN) | 2:43 |
+| 22 | [CODE OF HONOR](https://open.spotify.com/track/63bPfrifq9QfGYoBhATx6b) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [WHAT HAPPENED TO THE STREETS?](https://open.spotify.com/album/3ti3exZqx77nDf4eIQ1z5o) | 3:46 |
 | 23 | [Survivor’s Guilt \(feat\. G Herbo\)](https://open.spotify.com/track/6nCWE96dbCCeWig5TZu4jv) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Survivor’s Guilt \(feat\. G Herbo\)](https://open.spotify.com/album/5LmyrJlTv5zRJm2CiyxHSS) | 3:03 |
 | 24 | [Kill Shit \(feat\. Lil Bibby\) \(Bonus Track\)](https://open.spotify.com/track/4DLO89J3G62BcXy6coIukw) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Lil Bibby](https://open.spotify.com/artist/4uSN8Y3kgFNVULUWsZEAVW) | [Welcome to Fazoland](https://open.spotify.com/album/5T1xg0VySf2wbzswK84Lbl) | 2:59 |
 | 25 | [High Speed](https://open.spotify.com/track/6CibhjvNeSRJRy6XGshcZ4) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [PTSD](https://open.spotify.com/album/14YY4ksyKkVbBsZ5TJt0Zr) | 2:44 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rtuJW.md) - [plain]
 | 36 | [Win Again](https://open.spotify.com/track/5hDPrhSDyIAJoCRKJG8uxB) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Lil Herb](https://open.spotify.com/album/5eIkANEEOacfzG6Jv3mU9f) | 2:53 |
 | 37 | [Real One](https://open.spotify.com/track/2rBQUcuBP89PonXz4A9QJh) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [PTSD \(Deluxe\)](https://open.spotify.com/album/19trhRvgk1m0PnD3kmMKLY) | 2:42 |
 | 38 | [Thug](https://open.spotify.com/track/0iZh4VcMhp8zoTlvk8HWZD) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Thug](https://open.spotify.com/album/4aEj8HrgkscnDkdu5oPyqu) | 2:25 |
-| 39 | [I Am Who I Am \(feat\. G Herbo\)](https://open.spotify.com/track/6P09dkOxVOMIrvnNBpmHho) | [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [I Quit Rap](https://open.spotify.com/album/7I9ZdeXGuh2ttPzhbjbf6n) | 2:10 |
-| 40 | [Wilt Chamberlin](https://open.spotify.com/track/3t4ElXlTaOv5pFZmJBLh06) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Still Swervin](https://open.spotify.com/album/7EHKnNdskf0X7Swu43CKnV) | 2:28 |
+| 39 | [Wilt Chamberlin](https://open.spotify.com/track/3t4ElXlTaOv5pFZmJBLh06) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Still Swervin](https://open.spotify.com/album/7EHKnNdskf0X7Swu43CKnV) | 2:28 |
+| 40 | [I Am Who I Am \(feat\. G Herbo\)](https://open.spotify.com/track/6P09dkOxVOMIrvnNBpmHho) | [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [I Quit Rap](https://open.spotify.com/album/7I9ZdeXGuh2ttPzhbjbf6n) | 2:10 |
 | 41 | [Cap Guns](https://open.spotify.com/track/7I2XiD0oUxwwcTemm2ftFG) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [PTSD \(Deluxe\)](https://open.spotify.com/album/19trhRvgk1m0PnD3kmMKLY) | 3:16 |
 | 42 | [In The Air \(feat\. Lil Durk\)](https://open.spotify.com/track/231WYOehAI5i10vZ2XTGzk) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Big Swerv 2.0](https://open.spotify.com/album/3SmVWKCh3knpn7ZGBQWH4a) | 3:39 |
 | 43 | [Feet On Land](https://open.spotify.com/track/50RFfEjzKnTAzzYkmPb6DO) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Feet On Land](https://open.spotify.com/album/1liqhZLxTPYloAgky8FjuJ) | 2:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rtuJW.md) - [plain]
 | 49 | [Being Honest \(Remix\) \[feat\. G Herbo\]](https://open.spotify.com/track/2344qwORd0Q3bZhwssd2mw) | [Kay Flock](https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [The D.O.A\. Tape](https://open.spotify.com/album/5DMfgmlbRD0HeUi5QQgOAD) | 2:33 |
 | 50 | [Still Dangerous](https://open.spotify.com/track/5vc2kF0dDGa4zJ3bKFR6LP) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Welcome to Fazoland \(Anniversary Edition\)](https://open.spotify.com/album/1xUgmXMX6ojx1Tum5FbL26) | 2:33 |
 
-Snapshot ID: `avOwAAAAAABbET+hhISZgF4mtT2ivdEW`
+Snapshot ID: `avUBgAAAAADU5q0KMGUtcs9XhlGCi2cy`

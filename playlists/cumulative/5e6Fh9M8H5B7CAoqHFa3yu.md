@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,800 songs - 6 day 18 hr 53 min
+2,805 songs - 6 day 19 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1048,6 +1048,7 @@
 | [hush little darling](https://open.spotify.com/track/3EX2sdcaVioVWLqKJkepRE) | [mytinyhuman](https://open.spotify.com/artist/5wfP5o9j86nnpWHHr73I0V) | [sweet dreams](https://open.spotify.com/album/1LcvGNRU5PUiVam4xFJp9y) | 3:26 | 2025-10-28 |  |
 | [hush little one](https://open.spotify.com/track/6jqaFmXEYC8cPKmWZNezGn) | [mytinyhuman](https://open.spotify.com/artist/5wfP5o9j86nnpWHHr73I0V) | [sweet dreams](https://open.spotify.com/album/1LcvGNRU5PUiVam4xFJp9y) | 1:54 | 2025-10-28 |  |
 | [hush now my darling](https://open.spotify.com/track/4yX8dDFy8RxNP2NbgrtE42) | [mytinyhuman](https://open.spotify.com/artist/5wfP5o9j86nnpWHHr73I0V) | [sweet dreams](https://open.spotify.com/album/1LcvGNRU5PUiVam4xFJp9y) | 3:46 | 2025-10-28 |  |
+| [Huutava Luuta](https://open.spotify.com/track/5D9I7s6qwjlhi5krXDVxhL) | [Muupe B\. Horto](https://open.spotify.com/artist/6Dq8fIdjjfW20AXixOxyKa) | [Tuntosarvi](https://open.spotify.com/album/4WsdrEzof5vYTjPi6fXoQX) | 0:29 | 2026-11-13 |  |
 | [Hygge Time](https://open.spotify.com/track/6lkPc7WYtuXJeLgGEp39bc) | [Mello Marston](https://open.spotify.com/artist/55f0l7J5C0blvKjUW4m8pl) | [Hygge Time](https://open.spotify.com/album/16i1tKqqWE6Ce8q7yg4k7q) | 2:39 | 2025-11-07 |  |
 | [Hyper\-Focus Mode](https://open.spotify.com/track/3UaxkSuqkQaG1KnudJsIFZ) | [Odyra](https://open.spotify.com/artist/1sgLt5j4wGd1c8JCmmnGk4) | [MIDNIGHT TRENDS](https://open.spotify.com/album/0cOYQSynJChd7kPtF7JyI7) | 3:56 | 2026-07-21 |  |
 | [Hypomania](https://open.spotify.com/track/2VdwLwj3eS9wT3I9GF9AwL) | [half\-past nine](https://open.spotify.com/artist/5AQdnxlAP1whBuRmbCHsdb) | [9:30 PM: Unanswered Calls](https://open.spotify.com/album/0BS8Ln2dmv9P1bjAGugrnZ) | 2:57 | 2026-01-30 |  |
@@ -1626,6 +1627,7 @@
 | [Nada que decir](https://open.spotify.com/track/1FG9VzXoVFCjb30HJ7JQoe) | [Proyecto VTK](https://open.spotify.com/artist/4Sjjd7GLD7xgroQkOg3Vxb) | [Nada que decir](https://open.spotify.com/album/623JIkXL7CWsz2x0FYKCAj) | 3:07 | 2025-07-08 |  |
 | [Namah Shivaya](https://open.spotify.com/track/1w6jCPc6QojJ4dfAKPu85r) | [Roots Masashi](https://open.spotify.com/artist/1DgiBmeGUXWA2tJZenhHU2) | [Namah Shivaya](https://open.spotify.com/album/2PHXhEqlA0MubcSfQRik9T) | 4:07 | 2024-05-03 |  |
 | [Nanaimo Face](https://open.spotify.com/track/1wCF2ax233VUM42KHZgZ3d) | [Lil' Cabbage](https://open.spotify.com/artist/6iLEqKx58SukUimAMifDPl) | [Nanaimo Face](https://open.spotify.com/album/744zKFQWAOuUoRzoxR2YQZ) | 4:27 | 2025-10-10 |  |
+| [Nane Tsokha – Fuli Tschai](https://open.spotify.com/track/6azHkK9MkHvZ2KeCRxElxP) | [Barcelona Gipsy balKan Orchestra](https://open.spotify.com/artist/6iASQf0WvN8Ci5oZ2O2Z9b) | [Nova Era](https://open.spotify.com/album/6FWIWzfc6j3XwujamBze1h) | 3:58 | 2026-11-13 |  |
 | [narcy](https://open.spotify.com/track/4wX8rZdRmkekoaLM6RamRU) | [skyry](https://open.spotify.com/artist/10oPnykLQTYRMjFNNES9wk), [Kalianna Kalinova](https://open.spotify.com/artist/0aEhv0iin67ylx5o8qdvJ7) | [narcy](https://open.spotify.com/album/65GxA0h53HGTrnBC9tfQuH) | 3:51 | 2026-04-23 |  |
 | [Natale Techno](https://open.spotify.com/track/4XYCksnT1OrqdXqVD9BINR) | [Abbi](https://open.spotify.com/artist/13MHeIgS0BszMDW9uXEsk4), [EGO](https://open.spotify.com/artist/6z0RqMOlBhJ1zgjcN5bw6d), [Andre Darco](https://open.spotify.com/artist/64qttE78Li0PumKAZsiCVj), [SOCRAN](https://open.spotify.com/artist/4ojIjVw6pPMezGBvmFWZe9), [Monni Redd](https://open.spotify.com/artist/0Wvzfw7hFlyEKI92l1ZTpI) | [Natale Techno](https://open.spotify.com/album/2hocILiryrY4rkwdroW7x7) | 3:48 | 2025-10-12 |  |
 | [Natty Walk](https://open.spotify.com/track/5wNB6o93rQ60ZeWY1eyHwh) | [Messian Dread](https://open.spotify.com/artist/04yVvk0AJ4uHQwNoQbXROj) | [Dangerous Discomixes](https://open.spotify.com/album/6gMtNJyVlKsMQSexWFyb4H) | 8:22 | 2024-05-01 |  |
@@ -1638,6 +1640,7 @@
 | [Need More Dub \- Dub](https://open.spotify.com/track/77nFafxLQO6wJWXxhpMgxa) | [Don Hartley](https://open.spotify.com/artist/0SfhVh8KZdNxqRvIvQyCTb), [Elastica Dub](https://open.spotify.com/artist/1nyZ7QOTyzJ0lhHLGaikIW) | [Need More Love](https://open.spotify.com/album/2rkVqYvWOuxLOCKmnsk4W9) | 4:05 | 2025-05-23 |  |
 | [Need More Love](https://open.spotify.com/track/2FQFpT2emShVmVuN8XSs2j) | [Don Hartley](https://open.spotify.com/artist/0SfhVh8KZdNxqRvIvQyCTb), [Elastica Dub](https://open.spotify.com/artist/1nyZ7QOTyzJ0lhHLGaikIW) | [Need More Love](https://open.spotify.com/album/2rkVqYvWOuxLOCKmnsk4W9) | 4:05 | 2025-05-23 |  |
 | [Need to Find My Way](https://open.spotify.com/track/3nfHQXM9zLjBlXcYE71Fjh) | [Pustye Ludi](https://open.spotify.com/artist/7fSBK3bpBVPOxwmdi4wEWS) | [Need to Find My Way](https://open.spotify.com/album/0aRDidH0Qx7v1smEkx96jL) | 4:14 | 2026-01-12 |  |
+| [Neiti Aika](https://open.spotify.com/track/10J7yVdtIg95ERZYDC5lFb) | [Muupe B\. Horto](https://open.spotify.com/artist/6Dq8fIdjjfW20AXixOxyKa) | [Potero](https://open.spotify.com/album/5nz3Ups0ZNHkjhGSXHWwJD) | 0:34 | 2026-11-13 |  |
 | [NEL SILENZIO DELLA NOTTE](https://open.spotify.com/track/2QO3yvlqjk7OBbZ4knCcEd) | [Alex Loffredi](https://open.spotify.com/artist/7nKYP4LvatBevQFhAwysHa) | [NEL SILENZIO DELLA NOTTE](https://open.spotify.com/album/4a9BjV5KNYRyMtL73YvzSh) | 3:47 | 2024-12-20 |  |
 | [NELLA STRADA](https://open.spotify.com/track/1LD58KQ0dWXyIRMgZblVOD) | [Alex Loffredi](https://open.spotify.com/artist/7nKYP4LvatBevQFhAwysHa) | [NELLA STRADA](https://open.spotify.com/album/6j9miS8vjPHys6lb8MGkaa) | 3:36 | 2025-02-27 |  |
 | [Nemo](https://open.spotify.com/track/5BwnMHqoQ8wxF8uhPDOtuL) | [Mimi Moon](https://open.spotify.com/artist/6fViq5ClIf7k9q4G8dqfy2) | [Nemo](https://open.spotify.com/album/7CtKHC7lwjIUu5ni7kZMkM) | 2:11 | 2026-07-21 |  |
@@ -1913,6 +1916,7 @@
 | [Quiero vivir en el espacio](https://open.spotify.com/track/3yWe7WGRUfG3wbXyDMHzOh) | [Mr\. Mol](https://open.spotify.com/artist/0Pzhf2LTb0C0RJeAxaEBjx), [Lorenzo Graef](https://open.spotify.com/artist/4y9vxtCepgauWVhNLOMWCW), [Pat Quinteros](https://open.spotify.com/artist/5pNjXSuX973oATEuCzHlio) | [Lo primero que se te ocurra](https://open.spotify.com/album/6xIC1j2VkTC0Ekzc52JLtJ) | 5:26 | 2025-06-02 |  |
 | [Quiet Saloon](https://open.spotify.com/track/2aKqg2MIauQD7F4xbq4RRU) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Quiet Saloon](https://open.spotify.com/album/2meMt3MT71KqnIDpNLYLqB) | 3:06 | 2026-03-27 |  |
 | [Quixotic](https://open.spotify.com/track/5ouLQMzhYabZ72aGMOGjqr) | [Helkemar](https://open.spotify.com/artist/1a6v8eZD7UBHDpYjYd0eQl) | [Quixotic](https://open.spotify.com/album/0YvxpgoWTSdCNbiFAxgjYM) | 2:06 | 2026-10-16 |  |
+| [Quédate Aquí](https://open.spotify.com/track/0YqfR9ql9HR1haDeCBpPAT) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Quédate Aquí](https://open.spotify.com/album/4zuDtBc9ypFjpPXPiWYZHC) | 3:12 | 2026-11-13 |  |
 | [R](https://open.spotify.com/track/5hLSB0oIeiJl4y4rbqj4X3) | [fredo ananda](https://open.spotify.com/artist/5LUUDopKsbdRKUsOIkPwOK) | [R](https://open.spotify.com/album/1NyU87V6g84tJ6YH1kXykW) | 2:23 | 2025-09-05 |  |
 | [Rain On My Feet \(Hey You\)](https://open.spotify.com/track/1tW8YIkXQgzA1EEMAIEjp4) | [Bonyde](https://open.spotify.com/artist/7aFZW4OqBpeoZLiT3zzf03) | [Rain On My Feet \(Hey You\)](https://open.spotify.com/album/5NBOgRRps2ALrALoTML3a8) | 3:12 | 2025-06-02 |  |
 | [Rain on Pavement](https://open.spotify.com/track/2g6VYUIBh0F7ZfJonyNFyc) | [Celo Relax](https://open.spotify.com/artist/7clLuVpdgcqkETFLfdLlOw) | [RAIN SERIES, Vol\. 1](https://open.spotify.com/album/2ZZKPJ3tBCBZ0FeNhQChSn) | 3:00 | 2026-10-05 |  |
@@ -2440,6 +2444,7 @@
 | [thē kĭñg](https://open.spotify.com/track/5Q9a6rG87XjIokFB6rumeb) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [Nothing is True & Everything is Possible](https://open.spotify.com/album/4VBnxLnSqWSodiwHIZGdIH) | 2:48 | 2024-03-04 |  |
 | [TI DICO IO COSA C'È](https://open.spotify.com/track/3gkpbrEJL2HmhLBnn7c2Uf) | [Fabrizio Urbani](https://open.spotify.com/artist/2pQiqp2nTCDI4JnPgxGbIN) | [TI DICO IO COSA C'È](https://open.spotify.com/album/64GcefvGGpbarC1Y5eEBci) | 4:04 | 2025-10-19 |  |
 | [Tideway \- Original Version](https://open.spotify.com/track/2cOYljid0NhMlpW6VW5xWE) | [Roberto Senchiu](https://open.spotify.com/artist/6YOzBCyZMjxlDtQmpYvgoC) | [Tideway \(Original Version\)](https://open.spotify.com/album/6b64hY18P5WW2RPLhvAfjl) | 1:20 | 2026-03-23 |  |
+| [Tie](https://open.spotify.com/track/4AhjtuVhfpm6sISXT7cGkk) | [Muupe B\. Horto](https://open.spotify.com/artist/6Dq8fIdjjfW20AXixOxyKa) | [Tuntosarvi](https://open.spotify.com/album/4WsdrEzof5vYTjPi6fXoQX) | 0:50 | 2026-11-13 |  |
 | [Tie II](https://open.spotify.com/track/2Tgb6hQWLox0HPTeG2t3tC) | [Muupe B\. Horto](https://open.spotify.com/artist/6Dq8fIdjjfW20AXixOxyKa) | [Tuntosarvi](https://open.spotify.com/album/4WsdrEzof5vYTjPi6fXoQX) | 0:37 | 2026-09-28 |  |
 | [TIGER JACK](https://open.spotify.com/track/3ApnSYtFjH8w7F84JBNuNZ) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [TIGER JACK](https://open.spotify.com/album/55m9dQFjOKGHwNPccvPwSj) | 3:26 | 2025-11-14 |  |
 | [Tight Formation](https://open.spotify.com/track/5TxViqOacvFQbBZHxdVFsi) | [Odyra](https://open.spotify.com/artist/1sgLt5j4wGd1c8JCmmnGk4) | [Team Routine Cinema](https://open.spotify.com/album/6YnybNMuQYQw2azSLErpbp) | 3:32 | 2026-06-26 |  |

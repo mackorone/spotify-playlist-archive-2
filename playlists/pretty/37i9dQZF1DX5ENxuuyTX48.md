@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 
 > After all, we are all siblings\. Cover: Bernadya, Pamungkas
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,462 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,460 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,9 +68,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 | 58 | [Laut yang Tenang](https://open.spotify.com/track/4qqMPUmuvVukyvFHHPty2H) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Semoga Hanya di Mimpi](https://open.spotify.com/album/5DCtxBnBnAOhzScagNmDQz) | 3:52 |
 | 59 | [rollerblade](https://open.spotify.com/track/3fL35dqYnnabdEp8Sln0lf) | [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [rollerblade](https://open.spotify.com/album/6TFeJFQOM62KtRRHe8fxGV) | 1:54 |
 | 60 | [Tetap Bukan Kamu \(feat\. Rony Parulian\)](https://open.spotify.com/track/0taGkMseEIkIZ3noyFFfZA) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk), [Rony Parulian](https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ) | [ambiVert](https://open.spotify.com/album/4SVd1APxtjPLbghqMzqmBq) | 4:16 |
-| 61 | [I Miss You Every Brand New Day \- From "Spider\-Man: Brand New Day" Movie](https://open.spotify.com/track/0I30Y8ENk7RLUsyFj9VElJ) | [For Revenge](https://open.spotify.com/artist/0f6TyESD8E1mD2oLJ4TGv1) | [I Miss You Every Brand New Day \(From "Spider\-Man: Brand New Day" Movie\)](https://open.spotify.com/album/0oHozoyyDMK8Txgqf3e6xk) | 4:00 |
-| 62 | [Terbang \- Original Soundtrack From Tarung: Unforgiven](https://open.spotify.com/track/0Ng7ays249fbahyqJQGTi0) | [Noh Salleh](https://open.spotify.com/artist/4fVYwG8RsbJsREFFniszhf) | [Terbang \(Original Soundtrack From Tarung: Unforgiven\)](https://open.spotify.com/album/4bTdIzNK1TsWiNZ1gMZzAf) | 2:55 |
-| 63 | [Ceritaku Ceritamu](https://open.spotify.com/track/1Il8WKr9h6azKAlVrFgeVz) | [Katyana](https://open.spotify.com/artist/3pfvO3S6cSlzcKBeigiWKz), [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [Ceritaku Ceritamu](https://open.spotify.com/album/0vVtkDFicJAy0owOfMpChO) | 3:33 |
+| 61 | [Ceritaku Ceritamu](https://open.spotify.com/track/1Il8WKr9h6azKAlVrFgeVz) | [Katyana](https://open.spotify.com/artist/3pfvO3S6cSlzcKBeigiWKz), [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [Ceritaku Ceritamu](https://open.spotify.com/album/0vVtkDFicJAy0owOfMpChO) | 3:33 |
+| 62 | [I Miss You Every Brand New Day \- From "Spider\-Man: Brand New Day" Movie](https://open.spotify.com/track/0I30Y8ENk7RLUsyFj9VElJ) | [For Revenge](https://open.spotify.com/artist/0f6TyESD8E1mD2oLJ4TGv1) | [I Miss You Every Brand New Day \(From "Spider\-Man: Brand New Day" Movie\)](https://open.spotify.com/album/0oHozoyyDMK8Txgqf3e6xk) | 4:00 |
+| 63 | [Terbang \- Original Soundtrack From Tarung: Unforgiven](https://open.spotify.com/track/0Ng7ays249fbahyqJQGTi0) | [Noh Salleh](https://open.spotify.com/artist/4fVYwG8RsbJsREFFniszhf) | [Terbang \(Original Soundtrack From Tarung: Unforgiven\)](https://open.spotify.com/album/4bTdIzNK1TsWiNZ1gMZzAf) | 2:55 |
 | 64 | [Kok Masih Rindu?](https://open.spotify.com/track/3fVpFgP2I6kXEgdfIDpRKe) | [Akbar Chalay](https://open.spotify.com/artist/0dIJRlr9m4hUwdBYmKUTjW), [Mingse](https://open.spotify.com/artist/7n6UYi8ahl0SOStLqjWf6I) | [Kok Masih Rindu?](https://open.spotify.com/album/6ZmGnBimcLIsdQLXl2wMb4) | 2:42 |
 | 65 | [Gurun Hujan](https://open.spotify.com/track/4czYdbSTG4j5mlsgS6VWn7) | [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [Gurun Hujan](https://open.spotify.com/album/6nKmMv7wQ37UCC7NrgnlTR) | 3:10 |
 | 66 | [Sudah Tahu Tuhan Kita Berbeda](https://open.spotify.com/track/17JYicZJSXhHJ3FCY9pv6L) | [eńau](https://open.spotify.com/artist/0agUNq8PH1QSgm88EuhM1u), [Momo](https://open.spotify.com/artist/7xqIvUdaaSypbtL6pFbW18) | [Sudah Tahu Tuhan Kita Berbeda](https://open.spotify.com/album/7EAshI20RwWEFLHhuxhKbb) | 3:52 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 | 83 | [Kasih Tercipta](https://open.spotify.com/track/3G2DGwJxuTjujZ9sUhBdxI) | [Faizal Tahir](https://open.spotify.com/artist/0CIHy5rV9yWHNaYa8U3KLk) | [Kasih Tercipta](https://open.spotify.com/album/29tX1ZowYOPoD5cUpfoC45) | 4:11 |
 | 84 | [NACKAL \(Mama Papa Larang\)](https://open.spotify.com/track/1OJgIOexFa1aIp33EH8BF6) | [Naufal Syachreza](https://open.spotify.com/artist/3x1vHC0kthfGxbY5w8AiRE) | [SUPER EKSIS](https://open.spotify.com/album/7q6KTNDz0hFOyCe6IUTJrO) | 2:26 |
 | 85 | [Menamakanmu Cinta](https://open.spotify.com/track/1QAwKDm1FPgoD2V6lLiKmC) | [Dato' Sri Siti Nurhaliza](https://open.spotify.com/artist/5d0bxRte3J74ZXyEGRL8uU), [Ade Govinda](https://open.spotify.com/artist/1lg1jqQMMJQQFFMnkxn0zV) | [Menamakanmu Cinta](https://open.spotify.com/album/6bIOflYBZHvfWTG1niLv44) | 4:28 |
-| 86 | [Hatchu!!](https://open.spotify.com/track/2Xrakgck64eK7BebSfiWsp) | [Salma Salsabil](https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs) | [Hatchu!!](https://open.spotify.com/album/1BTnjmmBTK1QxlqwYPdQ5F) | 3:24 |
-| 87 | [Adu Pandang](https://open.spotify.com/track/4DqIWiVTcYzMuaZaa6QIEc) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Adu Pandang](https://open.spotify.com/album/5XosZNUeyiDQVu5J3OXKhc) | 3:06 |
+| 86 | [Adu Pandang](https://open.spotify.com/track/4DqIWiVTcYzMuaZaa6QIEc) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Adu Pandang](https://open.spotify.com/album/5XosZNUeyiDQVu5J3OXKhc) | 3:06 |
+| 87 | [Hatchu!!](https://open.spotify.com/track/2Xrakgck64eK7BebSfiWsp) | [Salma Salsabil](https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs) | [Hatchu!!](https://open.spotify.com/album/1BTnjmmBTK1QxlqwYPdQ5F) | 3:24 |
 | 88 | [Melompat Lebih Tinggi](https://open.spotify.com/track/1NuvCcuRUGN54bkSLk51LC) | [Lomba Sihir](https://open.spotify.com/artist/6wD3vtAV0P3gWB9zLs7I4j) | [Melompat Lebih Tinggi](https://open.spotify.com/album/0ffA9bCAagLRj3pp2kYocZ) | 3:40 |
 | 89 | [Semusim](https://open.spotify.com/track/0F0usCZL8B4ichHqUWAAI2) | [Tohpati](https://open.spotify.com/artist/5XyX171jkcvGEx4jkcZeLN), [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [Semusim](https://open.spotify.com/album/2SwklQLPnXVIJIS0ZqIlrL) | 4:14 |
 | 90 | [shoot](https://open.spotify.com/track/1lpXnyjEKDzExVyVS1AT1Q) | [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [shoot](https://open.spotify.com/album/7C3cWsNbYPO76a5qIq8fPM) | 3:34 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 | 95 | [work](https://open.spotify.com/track/3ISiRKaCo6JzoKRjNJlvQA) | [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [work](https://open.spotify.com/album/0PrpxrMj10YkptkVb1wHza) | 2:25 |
 | 96 | [Adam](https://open.spotify.com/track/3GDr3vHPxSJT75J3r6JRlY) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Adam](https://open.spotify.com/album/4BE9BCipCOJ3URXXyWUTNo) | 4:44 |
 | 97 | [Bila](https://open.spotify.com/track/5vUHyNdyf058fWhnUY5nIr) | [Aku Jeje](https://open.spotify.com/artist/4FZ6V3q8zMyFvSMeT2ld2f) | [Bila](https://open.spotify.com/album/0rTZJbjUYarAtLGkV2NejN) | 2:32 |
-| 98 | [Tanda Cinta](https://open.spotify.com/track/0ln5g8IxH6IQMx5CmeBZen) | [Kaleb J](https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb) | [Tanda Cinta](https://open.spotify.com/album/0Oc1MACglKTcDBVus3HE7J) | 4:34 |
-| 99 | [Tulips](https://open.spotify.com/track/358ebpX0j2KttZ9IxzEjKB) | [kasper](https://open.spotify.com/artist/4kwRGpvKw9YsV0DTRZQKyH) | [Tulips](https://open.spotify.com/album/5Dzekft2Oi1AkJKLBhJrcs) | 4:14 |
+| 98 | [Tulips](https://open.spotify.com/track/358ebpX0j2KttZ9IxzEjKB) | [kasper](https://open.spotify.com/artist/4kwRGpvKw9YsV0DTRZQKyH) | [Tulips](https://open.spotify.com/album/5Dzekft2Oi1AkJKLBhJrcs) | 4:14 |
+| 99 | [Tanda Cinta](https://open.spotify.com/track/0ln5g8IxH6IQMx5CmeBZen) | [Kaleb J](https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb) | [Tanda Cinta](https://open.spotify.com/album/0Oc1MACglKTcDBVus3HE7J) | 4:34 |
 | 100 | [Februari](https://open.spotify.com/track/2VJo8Y2eymJGH7p3l2L1ii) | [Rony Parulian](https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ) | [Februari](https://open.spotify.com/album/0ux4SnnsmMzvjy2qm3AD75) | 4:16 |
 
 Snapshot ID: `AAAAAH8k636dKqBBwj62UF+ZbuzWgdqC`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSj1xNuxRPY7.md) - [plain]
 
 > Enjoy BIGBANG's setlist from the XX : COSMOS tour! \(빅뱅의  XX : COSMOS 월드 투어 셋리스트를 지금 바로 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,616 likes - 34 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,733 likes - 34 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

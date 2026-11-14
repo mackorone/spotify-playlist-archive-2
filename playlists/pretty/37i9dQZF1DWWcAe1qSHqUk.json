@@ -351,22 +351,6 @@
     {
       "added_at": "2026-02-09 02:43:34",
       "album": {
-        "name": "Day Breaks",
-        "url": "https://open.spotify.com/album/7ampUMuhfCx0briKjYNKRQ"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 185586,
-      "name": "And Then There Was You",
-      "url": "https://open.spotify.com/track/1Yo6lvTsNozmc9Y9SA275E"
-    },
-    {
-      "added_at": "2026-02-09 02:43:34",
-      "album": {
         "name": "The Best Is Yet to Come - The Songs of Cy Coleman",
         "url": "https://open.spotify.com/album/2d6MOVjMtiiFoZNHK9Xk0p"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 316840,
       "name": "Why Try to Change Me Now",
       "url": "https://open.spotify.com/track/7fKA60i4JhkavVw7fQFOHS"
+    },
+    {
+      "added_at": "2026-02-09 02:43:34",
+      "album": {
+        "name": "Day Breaks",
+        "url": "https://open.spotify.com/album/7ampUMuhfCx0briKjYNKRQ"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 185586,
+      "name": "And Then There Was You",
+      "url": "https://open.spotify.com/track/1Yo6lvTsNozmc9Y9SA275E"
     },
     {
       "added_at": "2026-02-09 02:43:34",
@@ -479,18 +479,18 @@
     {
       "added_at": "2026-02-09 02:43:34",
       "album": {
-        "name": "This Guy's In Love",
-        "url": "https://open.spotify.com/album/6CvJ1nkaBFnqfK1JSJ60Jy"
+        "name": "Hooray For Love",
+        "url": "https://open.spotify.com/album/6LrheEX4HOEDjAh5oj4Q9c"
       },
       "artists": [
         {
-          "name": "Steve Tyrell",
-          "url": "https://open.spotify.com/artist/2UPnuV7os71xTZTyyEgj1B"
+          "name": "Curtis Stigers",
+          "url": "https://open.spotify.com/artist/2bNtosg6E8tvmN6wYxPCfu"
         }
       ],
-      "duration_ms": 223066,
-      "name": "This Guy's In Love With You",
-      "url": "https://open.spotify.com/track/3l91QxfQ9vyxq5AJU4D1FC"
+      "duration_ms": 259573,
+      "name": "Love Is Here To Stay",
+      "url": "https://open.spotify.com/track/2bUK1EW5FPfpNDLO42XKqV"
     },
     {
       "added_at": "2026-02-09 02:43:34",
@@ -511,18 +511,18 @@
     {
       "added_at": "2026-02-09 02:43:34",
       "album": {
-        "name": "Hooray For Love",
-        "url": "https://open.spotify.com/album/6LrheEX4HOEDjAh5oj4Q9c"
+        "name": "This Guy's In Love",
+        "url": "https://open.spotify.com/album/6CvJ1nkaBFnqfK1JSJ60Jy"
       },
       "artists": [
         {
-          "name": "Curtis Stigers",
-          "url": "https://open.spotify.com/artist/2bNtosg6E8tvmN6wYxPCfu"
+          "name": "Steve Tyrell",
+          "url": "https://open.spotify.com/artist/2UPnuV7os71xTZTyyEgj1B"
         }
       ],
-      "duration_ms": 259573,
-      "name": "Love Is Here To Stay",
-      "url": "https://open.spotify.com/track/2bUK1EW5FPfpNDLO42XKqV"
+      "duration_ms": 223066,
+      "name": "This Guy's In Love With You",
+      "url": "https://open.spotify.com/track/3l91QxfQ9vyxq5AJU4D1FC"
     },
     {
       "added_at": "2026-02-09 02:43:34",
@@ -759,22 +759,6 @@
     {
       "added_at": "2026-02-09 02:43:34",
       "album": {
-        "name": "The Very Thought of You",
-        "url": "https://open.spotify.com/album/6R6CLCrX0PblFlg8kj1KsO"
-      },
-      "artists": [
-        {
-          "name": "Nicole Henry",
-          "url": "https://open.spotify.com/artist/17lVE8O9nHn3WWc6Csy2Sn"
-        }
-      ],
-      "duration_ms": 316453,
-      "name": "Make It Last",
-      "url": "https://open.spotify.com/track/69Di4YxK4PB1ivkRdeglt5"
-    },
-    {
-      "added_at": "2026-02-09 02:43:34",
-      "album": {
         "name": "At Last",
         "url": "https://open.spotify.com/album/3NsaK9g3lFCE2zmE8TkMXR"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 164652,
       "name": "At Last",
       "url": "https://open.spotify.com/track/08N2AGjQuf3FitcSvPXgD9"
+    },
+    {
+      "added_at": "2026-02-09 02:43:34",
+      "album": {
+        "name": "The Very Thought of You",
+        "url": "https://open.spotify.com/album/6R6CLCrX0PblFlg8kj1KsO"
+      },
+      "artists": [
+        {
+          "name": "Nicole Henry",
+          "url": "https://open.spotify.com/artist/17lVE8O9nHn3WWc6Csy2Sn"
+        }
+      ],
+      "duration_ms": 316453,
+      "name": "Make It Last",
+      "url": "https://open.spotify.com/track/69Di4YxK4PB1ivkRdeglt5"
     },
     {
       "added_at": "2026-02-09 02:43:34",
@@ -859,22 +859,6 @@
     {
       "added_at": "2026-02-09 02:43:34",
       "album": {
-        "name": "Al Pr\u00edncipe Bossa",
-        "url": "https://open.spotify.com/album/2RxNlfJ7ApMdXoIH9WwvcH"
-      },
-      "artists": [
-        {
-          "name": "Valeria",
-          "url": "https://open.spotify.com/artist/12zOzTSaujBrC0wvlNSFwt"
-        }
-      ],
-      "duration_ms": 205800,
-      "name": "Si Me Dejas Ahora",
-      "url": "https://open.spotify.com/track/0zVQryL6RPYDBmnk6bUdth"
-    },
-    {
-      "added_at": "2026-02-09 02:43:34",
-      "album": {
         "name": "In Blue",
         "url": "https://open.spotify.com/album/7h7XHPDvoFxE7MswAuDvgp"
       },
@@ -891,6 +875,22 @@
     {
       "added_at": "2026-02-09 02:43:34",
       "album": {
+        "name": "Al Pr\u00edncipe Bossa",
+        "url": "https://open.spotify.com/album/2RxNlfJ7ApMdXoIH9WwvcH"
+      },
+      "artists": [
+        {
+          "name": "Valeria",
+          "url": "https://open.spotify.com/artist/12zOzTSaujBrC0wvlNSFwt"
+        }
+      ],
+      "duration_ms": 205800,
+      "name": "Si Me Dejas Ahora",
+      "url": "https://open.spotify.com/track/0zVQryL6RPYDBmnk6bUdth"
+    },
+    {
+      "added_at": "2026-02-09 02:43:34",
+      "album": {
         "name": "Marshall (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3L4djDxGf9l7mF39CGlHOZ"
       },
@@ -903,6 +903,22 @@
       "duration_ms": 152106,
       "name": "For the Love of Freedom",
       "url": "https://open.spotify.com/track/2yuDexdINZo3jxbFHf5fLw"
+    },
+    {
+      "added_at": "2026-02-09 02:43:34",
+      "album": {
+        "name": "Joyride",
+        "url": "https://open.spotify.com/album/30zNfEzFZzFVSy4NFben4f"
+      },
+      "artists": [
+        {
+          "name": "Jamie Lancaster",
+          "url": "https://open.spotify.com/artist/0iRoi077zFrRThy27nP4GR"
+        }
+      ],
+      "duration_ms": 181826,
+      "name": "It Ain't Over 'Til It's Over",
+      "url": "https://open.spotify.com/track/5xtiAessAtry987cTy5maQ"
     },
     {
       "added_at": "2026-02-09 02:43:34",
@@ -943,18 +959,18 @@
     {
       "added_at": "2026-02-09 02:43:34",
       "album": {
-        "name": "Joyride",
-        "url": "https://open.spotify.com/album/30zNfEzFZzFVSy4NFben4f"
+        "name": "Tuck + Cover",
+        "url": "https://open.spotify.com/album/3ldm7w3EdQXyMHJHUmizvk"
       },
       "artists": [
         {
-          "name": "Jamie Lancaster",
-          "url": "https://open.spotify.com/artist/0iRoi077zFrRThy27nP4GR"
+          "name": "Hailey Tuck",
+          "url": "https://open.spotify.com/artist/31xWBejhhuVdm9zRmCQuse"
         }
       ],
-      "duration_ms": 181826,
-      "name": "It Ain't Over 'Til It's Over",
-      "url": "https://open.spotify.com/track/5xtiAessAtry987cTy5maQ"
+      "duration_ms": 208767,
+      "name": "Love On Top",
+      "url": "https://open.spotify.com/track/7409tRO6Y8sLLIlSRZyXiu"
     },
     {
       "added_at": "2026-02-09 02:43:34",
@@ -975,22 +991,6 @@
       "duration_ms": 203893,
       "name": "A Kiss to Build a Dream On",
       "url": "https://open.spotify.com/track/4xsJ6KEsIjsHKWJA7D8GAI"
-    },
-    {
-      "added_at": "2026-02-09 02:43:34",
-      "album": {
-        "name": "Tuck + Cover",
-        "url": "https://open.spotify.com/album/3ldm7w3EdQXyMHJHUmizvk"
-      },
-      "artists": [
-        {
-          "name": "Hailey Tuck",
-          "url": "https://open.spotify.com/artist/31xWBejhhuVdm9zRmCQuse"
-        }
-      ],
-      "duration_ms": 208767,
-      "name": "Love On Top",
-      "url": "https://open.spotify.com/track/7409tRO6Y8sLLIlSRZyXiu"
     },
     {
       "added_at": "2026-02-09 02:43:34",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2026-02-09 02:43:34",
       "album": {
-        "name": "\u30af\u30a8\u30b9\u30bf\u30fb\u30dc\u30c3\u30b5\u30fb\u30df\u30fc\u30a2...",
-        "url": "https://open.spotify.com/album/4ZAB0E6q1y8BpYm0fSTuft"
-      },
-      "artists": [
-        {
-          "name": "Lisa Ono",
-          "url": "https://open.spotify.com/artist/4WJ4FSFiEsJbK4SpGi4w1k"
-        }
-      ],
-      "duration_ms": 231800,
-      "name": "Questi Vent'Anni Miei",
-      "url": "https://open.spotify.com/track/1AhpFthKZAh4rABFrKn4CJ"
-    },
-    {
-      "added_at": "2026-02-09 02:43:34",
-      "album": {
         "name": "Hooray For Love",
         "url": "https://open.spotify.com/album/6LrheEX4HOEDjAh5oj4Q9c"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 226493,
       "name": "That\u2019s All",
       "url": "https://open.spotify.com/track/6sSAu9luXXtIWDZ1Saw6d0"
+    },
+    {
+      "added_at": "2026-02-09 02:43:34",
+      "album": {
+        "name": "\u30af\u30a8\u30b9\u30bf\u30fb\u30dc\u30c3\u30b5\u30fb\u30df\u30fc\u30a2...",
+        "url": "https://open.spotify.com/album/4ZAB0E6q1y8BpYm0fSTuft"
+      },
+      "artists": [
+        {
+          "name": "Lisa Ono",
+          "url": "https://open.spotify.com/artist/4WJ4FSFiEsJbK4SpGi4w1k"
+        }
+      ],
+      "duration_ms": 231800,
+      "name": "Questi Vent'Anni Miei",
+      "url": "https://open.spotify.com/track/1AhpFthKZAh4rABFrKn4CJ"
     }
   ],
   "unique_name": "\u7235\u58eb\u60c5\u6b4c",

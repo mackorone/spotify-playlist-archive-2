@@ -4,7 +4,7 @@
 
 > pushing pop forwards <3!! <br/>cover: Charlotte Plank
 
-2,458 songs - 5 day 2 hr 55 min
+2,459 songs - 5 day 2 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1626,6 +1626,7 @@
 | [One Of Your Girls](https://open.spotify.com/track/1Fav4xZn60uGM3XmiHJmvT) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5PsQkSZdGgr9jnuSKzSi5s) | 3:01 | 2023-10-13 | 2024-03-05 |
 | [ONE SPARK](https://open.spotify.com/track/7cIn67LEvk16v6komC8znS) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [With YOU\-th](https://open.spotify.com/album/575TQDOQqc0MAheeEeKWUR) | 3:03 | 2024-03-04 | 2024-04-10 |
 | [One Whole Day \(feat\. Wiz Khalifa\)](https://open.spotify.com/track/4eHceQL93Re1ZiaY7kRZ7F) | [Dixie](https://open.spotify.com/artist/3DKkhRCGOG4e8IUPYFPfWs), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [One Whole Day \(feat\. Wiz Khalifa\)](https://open.spotify.com/album/4ZdRvkHcJzmDhweKxFdjUw) | 2:56 | 2020-12-05 | 2021-01-09 |
+| [Only](https://open.spotify.com/track/3Ow8GcJHCH705o9RDDg6Be) | [Mayvi](https://open.spotify.com/artist/40OnC1gducPfu1ZvA0pwa8) | [Only](https://open.spotify.com/album/55pwZaTThIlP1mKBBYKNiy) | 2:39 | 2026-11-13 |  |
 | [Only Girl](https://open.spotify.com/track/17fL4slDQP8YopAZHWyiR3) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Only Girl](https://open.spotify.com/album/2Qp5Ode31zeYK4qEP2mctl) | 2:39 | 2023-04-28 | 2023-08-12 |
 | [Only Human](https://open.spotify.com/track/4hSrkHkhSDF2aNfdBp21ZY) | [Ryan Mack](https://open.spotify.com/artist/5LGo1zHegJTWzqVXgeNplt) | [Only Human](https://open.spotify.com/album/43eillpnAaV3zXVRE6aXlL) | 2:15 | 2022-02-18 | 2022-04-15 |
 | [Only Love](https://open.spotify.com/track/4fE3PQDHE50vrcqN8ElxDr) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [Only Love](https://open.spotify.com/album/4WjiBXuiBrFqkRgIG9OCfr) | 4:19 | 2025-03-14 | 2025-03-28 |

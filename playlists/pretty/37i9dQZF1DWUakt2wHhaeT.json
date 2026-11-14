@@ -1,12 +1,12 @@
 {
-  "description": "The best songs from the new shows and the buzziest hits. Cover: Original Broadway Cast of The Lost Boys",
-  "num_followers": 113081,
+  "description": "The best songs from the new shows and the buzziest new recordings. Cover: Original Broadway Cast of The Lost Boys",
+  "num_followers": 113085,
   "original_name": "Broadway Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHIWCHk+2RtF/i4MD3j9PW79AXu6",
+  "snapshot_id": "AAAAAOrnqX5CzJp7ljXpadrqisx3Z7dG",
   "tracks": [
     {
       "added_at": "2026-08-21 22:27:37",
@@ -47,6 +47,38 @@
       "duration_ms": 229227,
       "name": "Secret Comes Out (feat. Brian Flores, Sean Grandillo, Dean Maupin)",
       "url": "https://open.spotify.com/track/6GJ0nYFR1G4M3eTTRl39Dl"
+    },
+    {
+      "added_at": "2026-11-13 05:56:49",
+      "album": {
+        "name": "Mungojerrie and Rumpleteazer",
+        "url": "https://open.spotify.com/album/6inKfiIIYawlUdhw8PvIhm"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Burke",
+          "url": "https://open.spotify.com/artist/0E2mHRzN47Dgo8oWl8u039"
+        },
+        {
+          "name": "Dava Huesca",
+          "url": "https://open.spotify.com/artist/2oub0QLKz19VuINsfiT5Qs"
+        },
+        {
+          "name": "Dudney Joseph Jr.",
+          "url": "https://open.spotify.com/artist/5mLawcSQkjwTcJKnC1wuy8"
+        },
+        {
+          "name": "Cats: The Jellicle Ball",
+          "url": "https://open.spotify.com/artist/6pf57zyzHsduE19An9zIcO"
+        },
+        {
+          "name": "Andrew Lloyd Webber",
+          "url": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
+        }
+      ],
+      "duration_ms": 288632,
+      "name": "Mungojerrie and Rumpleteazer",
+      "url": "https://open.spotify.com/track/6WETfh0D0GdjS25FF9j4TI"
     },
     {
       "added_at": "2026-10-02 04:00:16",
@@ -1187,22 +1219,6 @@
       "duration_ms": 237931,
       "name": "Everything You Long For (is in New Jersey)",
       "url": "https://open.spotify.com/track/18qIH3TEyw3597CeV0uFmY"
-    },
-    {
-      "added_at": "2026-08-21 22:27:37",
-      "album": {
-        "name": "Man Of The House",
-        "url": "https://open.spotify.com/album/38shyLCy0GkloXIDQsiAxu"
-      },
-      "artists": [
-        {
-          "name": "Rachel Zegler",
-          "url": "https://open.spotify.com/artist/1q9hWC9JAJXjXwZN9aDKW3"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "Man Of The House",
-      "url": "https://open.spotify.com/track/3aIvJqEB3SN3aNvOfOo3CS"
     }
   ],
   "unique_name": "Broadway Rising",

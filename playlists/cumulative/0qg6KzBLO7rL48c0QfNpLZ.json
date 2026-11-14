@@ -2295,6 +2295,32 @@
     },
     {
       "album": {
+        "name": "Back For More",
+        "url": "https://open.spotify.com/album/4ziE55pS1kGB4jjWPZfXNl"
+      },
+      "artists": [
+        {
+          "name": "UnderWater Project",
+          "url": "https://open.spotify.com/artist/3GT3gnZ90UuW5Cs0AJopzb"
+        },
+        {
+          "name": "Eric Spike",
+          "url": "https://open.spotify.com/artist/4cqrH3J95V5eocwwAquMdy"
+        },
+        {
+          "name": "NACHT",
+          "url": "https://open.spotify.com/artist/5CpNFBwsjYVR7PKHiZDGT3"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225737,
+      "name": "Back For More",
+      "url": "https://open.spotify.com/track/6OtqqRwL31urVOzsJrsxgx"
+    },
+    {
+      "album": {
         "name": "back to friends",
         "url": "https://open.spotify.com/album/70hKBo3cY1pZtkJ7dpcG95"
       },
@@ -2362,6 +2388,24 @@
       "duration_ms": 134516,
       "name": "Back to Life",
       "url": "https://open.spotify.com/track/0LupN6QwZ8ahjouaewGGtP"
+    },
+    {
+      "album": {
+        "name": "Back To Life",
+        "url": "https://open.spotify.com/album/0q2ODWl2thJqKLPg09zgQc"
+      },
+      "artists": [
+        {
+          "name": "Cozy Sky",
+          "url": "https://open.spotify.com/artist/7ATXYbIzRyHBKJeAUGnO8u"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142750,
+      "name": "Back To Life",
+      "url": "https://open.spotify.com/track/2JAr3DwYTUio83UKrSGRdM"
     },
     {
       "album": {
@@ -3982,7 +4026,7 @@
       ],
       "date_added": "2026-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 228604,
       "name": "Body and Soul",
       "url": "https://open.spotify.com/track/2Etm6XoV1ILcrSz3qT2URt"
@@ -4100,6 +4144,28 @@
       "duration_ms": 169180,
       "name": "Bound To Fade",
       "url": "https://open.spotify.com/track/1lVwetY7Xsf93qI9NoxCNx"
+    },
+    {
+      "album": {
+        "name": "Brain",
+        "url": "https://open.spotify.com/album/4sAsyLWqBWBEqYsvowwPqi"
+      },
+      "artists": [
+        {
+          "name": "Planta Principal",
+          "url": "https://open.spotify.com/artist/4hjYTV1M3y2GNdlqugVNIJ"
+        },
+        {
+          "name": "Pictor",
+          "url": "https://open.spotify.com/artist/6otBbMIYIgQFmkJ8Ylv76m"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154624,
+      "name": "Brain",
+      "url": "https://open.spotify.com/track/6HLIBsxlAvFkU5FMe4rTpS"
     },
     {
       "album": {
@@ -6832,6 +6898,24 @@
       "duration_ms": 129756,
       "name": "Couldn't Live",
       "url": "https://open.spotify.com/track/5TaxbNHHMpXL0JyaB1GItW"
+    },
+    {
+      "album": {
+        "name": "Count & Reaper",
+        "url": "https://open.spotify.com/album/6hvjk4zlrqi027X5c8vs1B"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Herrity",
+          "url": "https://open.spotify.com/artist/0hgcnpA2NIU8TPdeuat6dk"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233298,
+      "name": "Count & Reaper",
+      "url": "https://open.spotify.com/track/1BBKj9wRtIObcby1u1wEtD"
     },
     {
       "album": {
@@ -14029,6 +14113,24 @@
     },
     {
       "album": {
+        "name": "G\u00f6z\u0259lim",
+        "url": "https://open.spotify.com/album/4Z5bn0gBZrJJQOiVYgl0Zv"
+      },
+      "artists": [
+        {
+          "name": "Leyla Shukurli",
+          "url": "https://open.spotify.com/artist/5rINUShIOzanjtnIqcEH9t"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185904,
+      "name": "G\u00f6z\u0259lim",
+      "url": "https://open.spotify.com/track/5q7bx2825JgSXf4xZD3Qlk"
+    },
+    {
+      "album": {
         "name": "H.O.L.Y.",
         "url": "https://open.spotify.com/album/7oCFkWFuRVBCSL2JrPP0LU"
       },
@@ -17460,6 +17562,32 @@
       "duration_ms": 135254,
       "name": "If You're Lonely",
       "url": "https://open.spotify.com/track/1LgD3j29CCKRsb8jdbEzeB"
+    },
+    {
+      "album": {
+        "name": "IFUNA",
+        "url": "https://open.spotify.com/album/25CEqDOUuRR0IhATbiNbn8"
+      },
+      "artists": [
+        {
+          "name": "Feel On Eel",
+          "url": "https://open.spotify.com/artist/2QfgJI9B4SE5PKdQfOIjjL"
+        },
+        {
+          "name": "Black Winter",
+          "url": "https://open.spotify.com/artist/0OI8QP7CaBFEg5IBcvLkWu"
+        },
+        {
+          "name": "Samyorai",
+          "url": "https://open.spotify.com/artist/2UXHA2ybF5pQOmjllYoOsE"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130921,
+      "name": "IFUNA",
+      "url": "https://open.spotify.com/track/6Oa09iO6QQ4HbfkNxORkKD"
     },
     {
       "album": {
@@ -20930,6 +21058,24 @@
       "duration_ms": 152033,
       "name": "Looking 4 Love",
       "url": "https://open.spotify.com/track/3nKX4UBDbwUHLU97LmEOsq"
+    },
+    {
+      "album": {
+        "name": "looking for",
+        "url": "https://open.spotify.com/album/5EHYpn3MBuV20EzSDQVxO2"
+      },
+      "artists": [
+        {
+          "name": "puulse",
+          "url": "https://open.spotify.com/artist/3Kt1r7PvkTaP4sKUWburTp"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147619,
+      "name": "looking for",
+      "url": "https://open.spotify.com/track/4bQ2qt7J21hq1zuGMucHiC"
     },
     {
       "album": {
@@ -24572,7 +24718,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-03",
+      "date_removed": null,
       "duration_ms": 150280,
       "name": "New Day",
       "url": "https://open.spotify.com/track/4oZEjbLDmBuJaC9VgEFi2M"
@@ -31150,6 +31296,36 @@
       "duration_ms": 128000,
       "name": "So Easy (To Fall In Love)",
       "url": "https://open.spotify.com/track/4JulxGIurJOGZh9GtGsHGd"
+    },
+    {
+      "album": {
+        "name": "So Easy (To Fall In Love)",
+        "url": "https://open.spotify.com/album/36paBhKWxpLkvIgpnfIaIh"
+      },
+      "artists": [
+        {
+          "name": "Make it Maks",
+          "url": "https://open.spotify.com/artist/17gc6KMOFtD4BD2wqYzVLV"
+        },
+        {
+          "name": "Nick Giardino",
+          "url": "https://open.spotify.com/artist/3jZXVplmPltILjo5SyBvaD"
+        },
+        {
+          "name": "Aris",
+          "url": "https://open.spotify.com/artist/6o4aUPyhBkSZWdpWZ88p31"
+        },
+        {
+          "name": "Afro Queen",
+          "url": "https://open.spotify.com/artist/0iQaClnw8ysyL24QKIeFuT"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "So Easy (To Fall In Love)",
+      "url": "https://open.spotify.com/track/4Rwjwzt1UW5rEWNNWiNOOr"
     },
     {
       "album": {
@@ -38476,7 +38652,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 221653,
       "name": "Where Has My Mind Gone?",
       "url": "https://open.spotify.com/track/4wmJ1XtheQZukZUKLPe1No"

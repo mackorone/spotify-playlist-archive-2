@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-716 songs - 2 day 1 hr 17 min
+717 songs - 2 day 1 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,7 +240,7 @@
 | [I Don't Know About That](https://open.spotify.com/track/0QVu6tcahV7XR25KY4gowA) | [Elan Lea](https://open.spotify.com/artist/0yaj6mNaPV5xeNn0wOyZlQ) | [My only excuse](https://open.spotify.com/album/6kl4ymNl4SRsvzBiLZBrkq) | 3:19 | 2024-01-24 |  |
 | [I Don't Know How I Got By](https://open.spotify.com/track/7xXlY5tR7PL7mgNF9SCfgf) | [Edwin McCain](https://open.spotify.com/artist/0L6Gwm0JDrgIQJfjarWSUR) | [Playlist: The Best of Edwin McCain](https://open.spotify.com/album/4uFXMAwIhO6y7zJ1gS4k2q) | 3:46 | 2023-12-30 |  |
 | [I Don't Need You To](https://open.spotify.com/track/4ueBIcziMpSFAPW6ulYK8M) | [Samantha Mumba](https://open.spotify.com/artist/7L12TqJ0fbwtFljTbwfwRI) | [Gotta Tell You](https://open.spotify.com/album/5hrhGEdZrxOjBe32cfIuwc) | 3:37 | 2024-07-04 |  |
-| [I Don't Wanna Live Without Your Love](https://open.spotify.com/track/1bQ6SZAR7xI0z6sIxK95KJ) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago 19 \(Expanded Edition\)](https://open.spotify.com/album/1Z9Rlkd9LAYTZcU2TU7BZY) | 3:54 | 2023-12-30 |  |
+| [I Don't Wanna Live Without Your Love](https://open.spotify.com/track/1bQ6SZAR7xI0z6sIxK95KJ) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago 19 \(Expanded Edition\)](https://open.spotify.com/album/1Z9Rlkd9LAYTZcU2TU7BZY) | 3:54 | 2023-12-30 | 2026-11-14 |
 | [I Don't Wanna Smile](https://open.spotify.com/track/4uPN4lISfBaXTDj4QIAgdm) | [Total](https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7) | [Kima, Keisha & Pam](https://open.spotify.com/album/33s3ptUTggk4QrMygA60or) | 4:43 | 2023-12-30 |  |
 | [I Don't Want to Be Your Friend](https://open.spotify.com/track/6XIgcKoXQbJEr6E8EikAyC) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [A Night To Remember](https://open.spotify.com/album/3wegC2LXYCQknfUuOYBwmz) | 4:21 | 2023-12-30 |  |
 | [I Don't Want to Miss a Thing](https://open.spotify.com/track/1cTATYMdB3N8Hq3TEwSZ0F) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [I Don't Want To Miss A Thing \(Official HD Video\)](https://open.spotify.com/album/3osPdU4wgtinhHvwKtLHNP) | 4:52 | 2024-01-21 | 2024-02-01 |
@@ -312,7 +312,8 @@
 | [If I Was the One](https://open.spotify.com/track/1iNO6V1JBTSy9aaiLrOHkZ) | [Ruff Endz](https://open.spotify.com/artist/7liFhc0PDIx8etigqd2WhW) | [Love Crimes](https://open.spotify.com/album/42P7eLV4ylVjWKnRJeCWHG) | 4:26 | 2023-12-30 |  |
 | [If There Really Is A God](https://open.spotify.com/track/0AGXwKZOAHFlGZ5krgZ78U) | [Femme It Forward](https://open.spotify.com/artist/3rw1MKkbLTZw46AqC7gRpH), [SAYGRACE](https://open.spotify.com/artist/6y5amJcTjeDgLXIjtQLMst) | [Big Femme Energy Volume 1](https://open.spotify.com/album/7mRnNfdDMiu6xuLNzXgcHB) | 4:11 | 2024-07-10 |  |
 | [If This Day \- From The Gray House Original Soundtrack](https://open.spotify.com/track/0Te2w0wQWeyPwvrKxsrkXq) | [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [If This Day \(From The Gray House Original Soundtrack\)](https://open.spotify.com/album/6t4KP347nsJTwRA2GXnAlU) | 3:03 | 2026-09-22 |  |
-| [If This Time Is The Last Time](https://open.spotify.com/track/2ji3qfdV8NceFnmLiQAsbs) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK), [Patti Austin](https://open.spotify.com/artist/0JxChc2w5fwTGbXKfc4cRd) | [From Q, With Love](https://open.spotify.com/album/6mJAFD0VbLBJ5wyHs9HG3r) | 4:42 | 2023-12-30 |  |
+| [If This Time Is The Last Time](https://open.spotify.com/track/2ji3qfdV8NceFnmLiQAsbs) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK), [Patti Austin](https://open.spotify.com/artist/0JxChc2w5fwTGbXKfc4cRd) | [From Q, With Love](https://open.spotify.com/album/6mJAFD0VbLBJ5wyHs9HG3r) | 4:42 | 2023-12-30 | 2026-11-14 |
+| [If This Time Is The Last Time](https://open.spotify.com/track/5MuiYU2cqoRJs9nWwwlVuh) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK), [Patti Austin](https://open.spotify.com/artist/0JxChc2w5fwTGbXKfc4cRd) | [From Q, With Love](https://open.spotify.com/album/4KAMGayWfYnp1Q4d1GLHim) | 4:42 | 2026-11-13 |  |
 | [If U Go](https://open.spotify.com/track/4kxckcfvTM73YQTkDckVFl) | [Belinda Carlisle](https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U) | [Kismet](https://open.spotify.com/album/6b5qQmB2IQBQULdHl73wtx) | 3:26 | 2023-12-30 |  |
 | [If You Asked Me To](https://open.spotify.com/track/6vubJBI43jIr557lvNbzlH) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Celine Dion](https://open.spotify.com/album/7C6LFxLn63uasNoDIQ5khO) | 3:54 | 2023-12-30 |  |
 | [If You Could See You \(Through My Eyes\)](https://open.spotify.com/track/6VcWyiv7ILCFkJ4QW061P4) | [Kenny Lattimore](https://open.spotify.com/artist/1UjTUqWfGkof4L5HO5NmzP) | [From The Soul Of Man](https://open.spotify.com/album/01KHEEunv9YbTODeMUUT83) | 4:57 | 2023-12-30 |  |

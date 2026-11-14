@@ -4,7 +4,7 @@
 
 > A pastoral, uplifting pan\-African café sound.
 
-268 songs - 19 hr 45 min
+269 songs - 19 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Dianfa](https://open.spotify.com/track/1dkvVCIP2IH8xLq94UROIU) | [Rokia Traoré](https://open.spotify.com/artist/6sz0k1q2aEtG5dxEgr4YWV) | [Tchamantché](https://open.spotify.com/album/2n67J2WrEvlYz0w8S0Nhtv) | 4:32 | 2023-12-22 | 2024-05-08 |
 | [Diarra](https://open.spotify.com/track/0KAqd0zMI2WUgIyc2O8TKT) | [Tamala](https://open.spotify.com/artist/5V8tx5yPSD9rIb8ynhyWD7), [Bao Sissoko](https://open.spotify.com/artist/4CTaCrWrRUUmZt3KJtwg3E), [Mola Sylla](https://open.spotify.com/artist/1OCWAUqRSu9ZUGdpehnEWK), [Wouter Vandenabeele](https://open.spotify.com/artist/0OlrNScJQ7YYGSkij4TFg8) | [Lumba](https://open.spotify.com/album/3Pg3IQ6LrccO6Cr3WfFYqh) | 4:31 | 2022-08-05 |  |
 | [Djaliya](https://open.spotify.com/track/4FrUmjKqx5lJFmpskAWdiJ) | [Ablaye Cissoko](https://open.spotify.com/artist/7F6474dJ7eusD2MkXm2Lwx) | [Djaliya](https://open.spotify.com/album/05tfcODau1bIZEJ7j2srBm) | 3:40 | 2022-08-05 |  |
-| [Djanfa Di](https://open.spotify.com/track/4FcHp8FUkrAwUehLBKM6si) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [So Kono \(Extended Version\)](https://open.spotify.com/album/7H0azVDfGx3TOoXptx5jEH) | 3:41 | 2025-12-01 |  |
+| [Djanfa Di](https://open.spotify.com/track/4FcHp8FUkrAwUehLBKM6si) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [So Kono \(Extended Version\)](https://open.spotify.com/album/7H0azVDfGx3TOoXptx5jEH) | 3:41 | 2025-12-01 | 2026-11-14 |
 | [Djanne](https://open.spotify.com/track/6A28wYLJErEQD6UryKE8Ct) | [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC) | [Djanne](https://open.spotify.com/album/3QkxgYHkAYDUQY3NxCZOdx) | 2:42 | 2026-02-27 |  |
 | [Djelia](https://open.spotify.com/track/3tDIl6vOp35dSn2PFLaxbJ) | [Massa Dembele](https://open.spotify.com/artist/3hPXu7TVE8f09TD6z11FlW) | [Mezana Dounia](https://open.spotify.com/album/2SmxsoK36dY9Adxf6M81zz) | 5:30 | 2022-08-05 | 2023-03-15 |
 | [Djorolen \(2003 \- Remaster\)](https://open.spotify.com/track/6LSSDJ9XsRPfqMXNr77f6O) | [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh) | [Oumou](https://open.spotify.com/album/7k44FzFVfb0rNHOSgfXQO8) | 6:42 | 2023-10-27 | 2024-04-19 |
@@ -201,6 +201,7 @@
 | [Sarama](https://open.spotify.com/track/0LScGRZP6jfT7wr8PzLzK0) | [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh) | [Timbuktu](https://open.spotify.com/album/5Q2o3yV4ExWvbQyaLvU4Q9) | 3:38 | 2023-03-14 | 2023-11-04 |
 | [Sarama](https://open.spotify.com/track/0YLdjia2pEIPBdz3lEoM3a) | [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh) | [Timbuktu](https://open.spotify.com/album/33VXVqzUNVtZfg1gn6AMi6) | 3:38 | 2023-10-27 | 2024-04-19 |
 | [Sarama](https://open.spotify.com/track/7jDvPH18QP0Y35l20cjYgy) | [Rokia Traoré](https://open.spotify.com/artist/6sz0k1q2aEtG5dxEgr4YWV) | [Beautiful Africa](https://open.spotify.com/album/5gCev1aMAHiG6qmS32mfzj) | 5:01 | 2022-08-05 |  |
+| [Sasi Jaiva](https://open.spotify.com/track/586iK0LElzM784SMvdqUMt) | [Mishy Kope](https://open.spotify.com/artist/5yg2Kn6JYslUEPYkmLca5a) | [Sasi Jaiva](https://open.spotify.com/album/1cLPNj8GW7R3UOep7Zt2Jh) | 4:09 | 2026-11-13 |  |
 | [Savannah Swing](https://open.spotify.com/track/5GBj327e1SzQV9CHNCBsuh) | [Adjiri Odametey](https://open.spotify.com/artist/3dLzGMLvGRLoZgMHEV9Fhg) | [Dzen](https://open.spotify.com/album/4QzYh2migbTJ4ZnBVp3evw) | 2:34 | 2022-08-05 | 2024-05-08 |
 | [Saya](https://open.spotify.com/track/0QEgsUZo5MGIeC595iLllR) | [Diali Cissokho](https://open.spotify.com/artist/36uV9J7f7oGJH2RaLR7zrU), [Kaira Ba](https://open.spotify.com/artist/6pxeyHirxocCrVfb1721dF) | [Routes](https://open.spotify.com/album/5aoYCYVE40xuY6vAs8up9r) | 4:35 | 2023-12-22 | 2024-05-08 |
 | [Saya](https://open.spotify.com/track/08xc7RbThZyKgRBstgtZEX) | [Diali Cissokho & Kaira Ba](https://open.spotify.com/artist/0I5q96SJ25V0fvPDl2EUEx) | [Routes](https://open.spotify.com/album/75oaoHY53aYTaQkWyLESRE) | 4:35 | 2022-08-05 | 2024-04-19 |

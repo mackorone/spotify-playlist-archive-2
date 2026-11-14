@@ -4,7 +4,7 @@
 
 > With Bruno Mars, Maroon 5, Justin Bieber and more
 
-1,388 songs - 3 day 13 hr 14 min
+1,389 songs - 3 day 13 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,8 @@
 | [About Damn Time](https://open.spotify.com/track/6HMtHNpW6YPi1hrw9tgF8P) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 3:11 | 2023-06-03 | 2023-06-08 |
 | [Action!](https://open.spotify.com/track/1TdIfQExmda24o4xY9AeSQ) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [Action!](https://open.spotify.com/album/7ep0RnCGgV74Zip04Sne7Z) | 2:21 | 2022-03-12 | 2022-10-10 |
 | [Adore You](https://open.spotify.com/track/3jjujdWJ72nww5eGnfs2E7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 3:27 | 2024-03-03 | 2024-04-14 |
-| [Adventure of a Lifetime](https://open.spotify.com/track/2gS6LJHhMDn5FPARE1LVtG) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Head Full of Dreams](https://open.spotify.com/album/2I6Sv410RFwJYKN5lFhLsQ) | 4:23 | 2026-11-12 |  |
+| [Adventure of a Lifetime](https://open.spotify.com/track/1KMv5lt9b8vGtO408QM8tr) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Head Full of Dreams Tour Edition](https://open.spotify.com/album/3OQ83AaDoeiPsbSU7DSSl8) | 4:23 | 2026-11-14 |  |
+| [Adventure of a Lifetime](https://open.spotify.com/track/2gS6LJHhMDn5FPARE1LVtG) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Head Full of Dreams](https://open.spotify.com/album/2I6Sv410RFwJYKN5lFhLsQ) | 4:23 | 2026-11-12 | 2026-11-14 |
 | [Adventure of a Lifetime](https://open.spotify.com/track/69uxyAqqPIsUyTO8txoP2M) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Head Full of Dreams](https://open.spotify.com/album/3cfAM8b8KqJRoIzt3zLKqw) | 4:23 | 2023-04-13 | 2026-11-12 |
 | [Afraid to Love \(feat\. K\-Ci\)](https://open.spotify.com/track/5vY4yOP3AC2doa9jS2huU7) | [Stephanie Mills](https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g), [K\-Ci](https://open.spotify.com/artist/4cynDosMoBQcVD9UKLq8eX) | [Afraid to Love \(feat\. K\-Ci\)](https://open.spotify.com/album/2XbYVrECvSW7L7SNhThtMB) | 3:03 | 2022-08-10 | 2022-08-11 |
 | [After Last Night \(with Thundercat & Bootsy Collins\)](https://open.spotify.com/track/3jiKUMXqwEodB7gVv1RMZU) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT) | [An Evening With Silk Sonic](https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk) | 4:09 | 2022-03-28 | 2025-05-30 |

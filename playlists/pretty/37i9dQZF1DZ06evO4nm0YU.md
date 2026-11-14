@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nm0YU.md) - [plain]
 
 > This is Héctor Lavoe\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,134 likes - 50 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,168 likes - 50 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nm0YU.md) - [plain]
 | 49 | [Paraíso de Dulzura \- Remastered 2023](https://open.spotify.com/track/00VNjC3VctSnxJ1xKzcoIm) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [La Voz \(Remastered 2023\)](https://open.spotify.com/album/4OAr7LoCvz26ux4SYqzUcW) | 4:36 |
 | 50 | [Noche De Farra](https://open.spotify.com/track/2YISq9GxM1gJLkciIfMS49) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [El Sabio](https://open.spotify.com/album/2QqqS97l2DLYq1vrhHUpze) | 6:00 |
 
-Snapshot ID: `avOwAAAAAABHPFdjFmRIMa+S0gfjn5I6`
+Snapshot ID: `avUBgAAAAAAjNx55lt0+l9f+xCEorWR/`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "R&B of the moment by the artists of the future. Cover: Ojerime",
+  "description": "R&B of the moment by the artists of the future. Cover: Parisalexa",
   "name": "R&B Rising",
   "tracks": [
     {
@@ -700,7 +700,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 187333,
       "name": "A Thousand Times",
       "url": "https://open.spotify.com/track/0547MWFbVf9ykU6T7LMbCD"
@@ -1152,6 +1152,24 @@
       "duration_ms": 173108,
       "name": "Ain't Mine (feat. Aaron Page)",
       "url": "https://open.spotify.com/track/3cFhs8Gc6zWdAAw5xHAFeB"
+    },
+    {
+      "album": {
+        "name": "Ain't Moved",
+        "url": "https://open.spotify.com/album/2ZXdELhW3C4djmnzoOK6Ms"
+      },
+      "artists": [
+        {
+          "name": "Jozzy",
+          "url": "https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Ain't Moved",
+      "url": "https://open.spotify.com/track/2DQXp4LnomzAY0UWqroSDF"
     },
     {
       "album": {
@@ -5670,7 +5688,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 206072,
       "name": "Canary",
       "url": "https://open.spotify.com/track/73PUE5Vp2NdUZ5VNiaYN26"
@@ -8795,6 +8813,28 @@
     },
     {
       "album": {
+        "name": "Did A Number (Remix)",
+        "url": "https://open.spotify.com/album/4mMDDFvkUT2OnWdm3Rqooh"
+      },
+      "artists": [
+        {
+          "name": "SWEATA",
+          "url": "https://open.spotify.com/artist/6OwF63yz5hwljzTcudIoi1"
+        },
+        {
+          "name": "Kevin Ross",
+          "url": "https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234827,
+      "name": "Did A Number - Remix",
+      "url": "https://open.spotify.com/track/3Vhk5TuOanu2RtRJHpWmYl"
+    },
+    {
+      "album": {
         "name": "Die Young",
         "url": "https://open.spotify.com/album/3f70zg9qFwcrxBVdiZtrs9"
       },
@@ -10864,7 +10904,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 262968,
       "name": "fade",
       "url": "https://open.spotify.com/track/2ryhtkGQue7aDgW6yvd3IY"
@@ -11737,6 +11777,24 @@
     },
     {
       "album": {
+        "name": "Fight For This Love",
+        "url": "https://open.spotify.com/album/443PogehD7eaxsfoaLq4tg"
+      },
+      "artists": [
+        {
+          "name": "Lizzie Berchie",
+          "url": "https://open.spotify.com/artist/4ZdG27oG6K31RhN9XKHt7m"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204480,
+      "name": "Fight For This Love",
+      "url": "https://open.spotify.com/track/1HtKGqTOqJ7T0gWfuY6v0J"
+    },
+    {
+      "album": {
         "name": "Fighting For You",
         "url": "https://open.spotify.com/album/3kACpJckq6rBSFMlMaPOES"
       },
@@ -12281,6 +12339,28 @@
     },
     {
       "album": {
+        "name": "Fly (feat. Muni Long)",
+        "url": "https://open.spotify.com/album/28VfI5mxbTg8T1VQcjpIwJ"
+      },
+      "artists": [
+        {
+          "name": "Tone Stith",
+          "url": "https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44"
+        },
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214522,
+      "name": "Fly (feat. Muni Long)",
+      "url": "https://open.spotify.com/track/6LelmrJwN9peV60f3KNI6N"
+    },
+    {
+      "album": {
         "name": "Fly Girl",
         "url": "https://open.spotify.com/album/3DxsNT0EdadtakLU9wAGke"
       },
@@ -12708,6 +12788,24 @@
       "duration_ms": 137922,
       "name": "Free Fallin'",
       "url": "https://open.spotify.com/track/4hmmx1yd7U5LKmU8jkrzuV"
+    },
+    {
+      "album": {
+        "name": "freedom",
+        "url": "https://open.spotify.com/album/5m4EGBGTkQCyMyk18hzAL9"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Kaleo",
+          "url": "https://open.spotify.com/artist/13b0dupEOyYPm8dZqbqtb5"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206453,
+      "name": "freedom",
+      "url": "https://open.spotify.com/track/6mi5LcRovenEeifhxaEGPl"
     },
     {
       "album": {
@@ -15734,7 +15832,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 125000,
       "name": "HONEYMOON",
       "url": "https://open.spotify.com/track/3vLD71uTkn7BSOdsIyjvqW"
@@ -15756,6 +15854,28 @@
       "duration_ms": 171333,
       "name": "HONEYMOON",
       "url": "https://open.spotify.com/track/3MGuSdChxG0ejAS6Erbshd"
+    },
+    {
+      "album": {
+        "name": "HONEYMOON Remix (with Craig David)",
+        "url": "https://open.spotify.com/album/737OIezy5ApYIKSsl9zlpA"
+      },
+      "artists": [
+        {
+          "name": "Parisalexa",
+          "url": "https://open.spotify.com/artist/7CZXfBcIhQ2dPEqk3N74vV"
+        },
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171333,
+      "name": "HONEYMOON Remix (with Craig David)",
+      "url": "https://open.spotify.com/track/5GpN4aH67xZ28HvpvmD1LI"
     },
     {
       "album": {
@@ -17050,6 +17170,24 @@
       "duration_ms": 166079,
       "name": "I.O.U.",
       "url": "https://open.spotify.com/track/39UemJN9cUuOLZE4nVDnYD"
+    },
+    {
+      "album": {
+        "name": "icanthelpit",
+        "url": "https://open.spotify.com/album/5DiFh0gEGFvcQW80btnhuV"
+      },
+      "artists": [
+        {
+          "name": "yuni",
+          "url": "https://open.spotify.com/artist/0pWQnpjgzFjVlSbmNlyTql"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137192,
+      "name": "icanthelpit",
+      "url": "https://open.spotify.com/track/7th1vaGa2juBYR0LTJ2Dxw"
     },
     {
       "album": {
@@ -20477,6 +20615,42 @@
     },
     {
       "album": {
+        "name": "Luh Mo\u2019 Love",
+        "url": "https://open.spotify.com/album/1xiZuYFl2ZVHkH8ElnU54h"
+      },
+      "artists": [
+        {
+          "name": "EJ Jones",
+          "url": "https://open.spotify.com/artist/1Ub0AUonKoIZuFvy1WZbIC"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251080,
+      "name": "Love Is Gone",
+      "url": "https://open.spotify.com/track/7xyDs0qioJ7pbEVbsyWobe"
+    },
+    {
+      "album": {
+        "name": "Love Is On The Line",
+        "url": "https://open.spotify.com/album/7au8nCs39msCAFUdYSrhOb"
+      },
+      "artists": [
+        {
+          "name": "Ebub\u00e9",
+          "url": "https://open.spotify.com/artist/6Op8o8Uebe6lvbXaqmXT5W"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171038,
+      "name": "Love Is On The Line",
+      "url": "https://open.spotify.com/track/5Er50XhyFEapUAwV1Uvapa"
+    },
+    {
+      "album": {
         "name": "Love Is The Way",
         "url": "https://open.spotify.com/album/1WiszSvpOFgvxk1d0pCFMw"
       },
@@ -21308,6 +21482,46 @@
       "duration_ms": 209990,
       "name": "Made For 2",
       "url": "https://open.spotify.com/track/0mxezMhQVXJuzdVbVvL6wb"
+    },
+    {
+      "album": {
+        "name": "Maggie",
+        "url": "https://open.spotify.com/album/21E7pXh1vBqkTOIJIsbKoR"
+      },
+      "artists": [
+        {
+          "name": "Isaia Huron",
+          "url": "https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202666,
+      "name": "Maggie",
+      "url": "https://open.spotify.com/track/2b6o3jzIhpH5sWFxrsa0x5"
+    },
+    {
+      "album": {
+        "name": "Simulation Blue",
+        "url": "https://open.spotify.com/album/7zBQKkz4PN69UgRPEoolGV"
+      },
+      "artists": [
+        {
+          "name": "Taner\u00e9lle",
+          "url": "https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH"
+        },
+        {
+          "name": "Ambr\u00e9",
+          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152426,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/7o0Nw1ab2ZqHYNUatC4IdR"
     },
     {
       "album": {
@@ -24068,6 +24282,24 @@
       "duration_ms": 223016,
       "name": "Not Your Girl",
       "url": "https://open.spotify.com/track/22MUtl7IfbQKsBrrv89eS6"
+    },
+    {
+      "album": {
+        "name": "JEDSOUL",
+        "url": "https://open.spotify.com/album/7wYPOORBi3uxPh7NCGN1WV"
+      },
+      "artists": [
+        {
+          "name": "JEDSOUL",
+          "url": "https://open.spotify.com/artist/1d31pvQ23phSKJISEqXQLO"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "NOT YOUR MAN",
+      "url": "https://open.spotify.com/track/2Y5AvklDqieQ3mPg5H6vnc"
     },
     {
       "album": {
@@ -28766,7 +28998,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 170811,
       "name": "Safe (feat. Savannah R\u00e9)",
       "url": "https://open.spotify.com/track/03NddMz8erSpjjioDecBh4"
@@ -32379,6 +32611,46 @@
     },
     {
       "album": {
+        "name": "Sundown",
+        "url": "https://open.spotify.com/album/2bXofjekwT9zn3Z7tWtuzd"
+      },
+      "artists": [
+        {
+          "name": "Tora-i",
+          "url": "https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z"
+        },
+        {
+          "name": "Louis Culture",
+          "url": "https://open.spotify.com/artist/7k6jdEkR8FoKdOi0iW4VkR"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192070,
+      "name": "Sundown",
+      "url": "https://open.spotify.com/track/4K2yfod2Ac7igAeVjks1a4"
+    },
+    {
+      "album": {
+        "name": "SUNRISE & SUNSETS",
+        "url": "https://open.spotify.com/album/4C2CtLMLk3x2KCTzY7b9by"
+      },
+      "artists": [
+        {
+          "name": "EJ Ross",
+          "url": "https://open.spotify.com/artist/3yZJfp37SK7V6yHh3oAGoB"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194667,
+      "name": "SUNRISE & SUNSETS",
+      "url": "https://open.spotify.com/track/6J5p839wuK7HVilHTmbpMO"
+    },
+    {
+      "album": {
         "name": "Sunset",
         "url": "https://open.spotify.com/album/3BWt0ekoMAC8kNDItB6gKh"
       },
@@ -32594,6 +32866,24 @@
       "duration_ms": 152666,
       "name": "SUPERSONICS",
       "url": "https://open.spotify.com/track/7yUnhwAewhRV8PcEbh4u8O"
+    },
+    {
+      "album": {
+        "name": "Superstar",
+        "url": "https://open.spotify.com/album/4sKsFOnc9e3niSU2oSBr84"
+      },
+      "artists": [
+        {
+          "name": "Maeta",
+          "url": "https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175972,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/0pwsSPpKWAkvJZsNI3Btu4"
     },
     {
       "album": {
@@ -33882,10 +34172,32 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 170769,
       "name": "The Way You Move",
       "url": "https://open.spotify.com/track/1mnuai6bn7yNwQ6IhxT4AC"
+    },
+    {
+      "album": {
+        "name": "The Way You Move (with BossMan Dlow)",
+        "url": "https://open.spotify.com/album/3XpQqTLw3wZboF8VLJAwEN"
+      },
+      "artists": [
+        {
+          "name": "JayDon",
+          "url": "https://open.spotify.com/artist/2wrxoZjEVKfJZhxCiqK0ju"
+        },
+        {
+          "name": "BossMan Dlow",
+          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196160,
+      "name": "The Way You Move (with BossMan Dlow)",
+      "url": "https://open.spotify.com/track/3fOsyoXuLdTBVbN8jcuMPx"
     },
     {
       "album": {
@@ -34864,7 +35176,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 224062,
       "name": "touch me, tease me",
       "url": "https://open.spotify.com/track/3f3fJODVfB5gZKrkyNy5xg"
@@ -35341,6 +35653,24 @@
     },
     {
       "album": {
+        "name": "TUTI",
+        "url": "https://open.spotify.com/album/370C9Vw2kbgiD7lmpzh1Bw"
+      },
+      "artists": [
+        {
+          "name": "Zae France",
+          "url": "https://open.spotify.com/artist/7jun6jJ4LOAQfx5gSs6mJX"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162654,
+      "name": "TUTI",
+      "url": "https://open.spotify.com/track/5aV2kcYP2GS8sFfFeympem"
+    },
+    {
+      "album": {
         "name": "Twin",
         "url": "https://open.spotify.com/album/2EbH4zNhToxnJEfe56kHiV"
       },
@@ -35440,6 +35770,24 @@
       "duration_ms": 140571,
       "name": "U Betta",
       "url": "https://open.spotify.com/track/2OF9aQTc1njv5oAbb70hyp"
+    },
+    {
+      "album": {
+        "name": "#4a79b1",
+        "url": "https://open.spotify.com/album/2ssGzNxnsZ9ZIpAEBT2nUz"
+      },
+      "artists": [
+        {
+          "name": "Ray Lozano",
+          "url": "https://open.spotify.com/artist/1lqO9zpSZ9iEkgEgJqc443"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135233,
+      "name": "u&me (like always)",
+      "url": "https://open.spotify.com/track/3SVaWt6zGb4FjT2bsjJAZg"
     },
     {
       "album": {
@@ -35832,6 +36180,24 @@
       "duration_ms": 155603,
       "name": "Vanilla Skies",
       "url": "https://open.spotify.com/track/6PPEgkKFHX2nvAr9eqICGV"
+    },
+    {
+      "album": {
+        "name": "Vibing In The Corner",
+        "url": "https://open.spotify.com/album/2EfyELStbtugJB71ucMUHc"
+      },
+      "artists": [
+        {
+          "name": "Stacy Barthe",
+          "url": "https://open.spotify.com/artist/0yq6uHIfFks9yOURUuCITV"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200388,
+      "name": "Vibing In The Corner",
+      "url": "https://open.spotify.com/track/12CNxQMup0oxwTdvhSJDci"
     },
     {
       "album": {
@@ -37830,6 +38196,24 @@
       "duration_ms": 178992,
       "name": "worst behaviour",
       "url": "https://open.spotify.com/track/5EQHN6tBq72rJxHhmGnDoJ"
+    },
+    {
+      "album": {
+        "name": "After Hours, Pt. 3",
+        "url": "https://open.spotify.com/album/5vQoGxkOzyhMvY5ZiN1v9Y"
+      },
+      "artists": [
+        {
+          "name": "Allyn",
+          "url": "https://open.spotify.com/artist/2nWo31Kvu9rMSVfhuUVUw3"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202666,
+      "name": "Worth It",
+      "url": "https://open.spotify.com/track/7IKkZ9SvqxVyx6kJzZWZBS"
     },
     {
       "album": {

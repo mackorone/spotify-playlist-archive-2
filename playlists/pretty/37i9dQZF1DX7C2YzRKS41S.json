@@ -1,6 +1,6 @@
 {
   "description": "Um pouco de folk, jazz e MPB para acordar com o p\u00e9 na estrada.",
-  "num_followers": 151686,
+  "num_followers": 151706,
   "original_name": "Amanhecer na Estrada",
   "owner": {
     "name": "Spotify",
@@ -99,22 +99,6 @@
     {
       "added_at": "2025-10-25 00:54:25",
       "album": {
-        "name": "Bluebird",
-        "url": "https://open.spotify.com/album/2pOID04Y4JnuqDtCmB8JIw"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 242584,
-      "name": "Bluebird",
-      "url": "https://open.spotify.com/track/2pJL7VBbeO4ZqVIUDf0x9H"
-    },
-    {
-      "added_at": "2025-10-25 00:54:25",
-      "album": {
         "name": "Simples",
         "url": "https://open.spotify.com/album/7xVxIAZOM8ac4viH06lVD9"
       },
@@ -127,6 +111,22 @@
       "duration_ms": 170409,
       "name": "A Vida \u00c9 Boa Com Voc\u00ea - Voz E Viol\u00e3o",
       "url": "https://open.spotify.com/track/7w36CnYumoRl1ryZOWsJnk"
+    },
+    {
+      "added_at": "2025-10-25 00:54:25",
+      "album": {
+        "name": "Bluebird",
+        "url": "https://open.spotify.com/album/2pOID04Y4JnuqDtCmB8JIw"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 242584,
+      "name": "Bluebird",
+      "url": "https://open.spotify.com/track/2pJL7VBbeO4ZqVIUDf0x9H"
     },
     {
       "added_at": "2025-10-25 00:54:25",
@@ -1031,22 +1031,18 @@
     {
       "added_at": "2025-10-25 00:54:25",
       "album": {
-        "name": "I'll see you later",
-        "url": "https://open.spotify.com/album/0bKXyHQsadqalpwxarGB5I"
+        "name": "Poeta Eu, Poema Ela",
+        "url": "https://open.spotify.com/album/3Q4PLuAMPFzKm39IUhEc8L"
       },
       "artists": [
         {
-          "name": "Giulia Camargo",
-          "url": "https://open.spotify.com/artist/4u64fJgN0bH3Xzf1Prwg5E"
-        },
-        {
-          "name": "Jacob Mey",
-          "url": "https://open.spotify.com/artist/2I1AeFez28mu7X7Bek4aj5"
+          "name": "Pedro Salom\u00e3o",
+          "url": "https://open.spotify.com/artist/3iEB8nwJu246B3fN4zPuqW"
         }
       ],
-      "duration_ms": 225185,
-      "name": "I'll see you later",
-      "url": "https://open.spotify.com/track/1leqFlJyuvHWSqlmk6DTjW"
+      "duration_ms": 151428,
+      "name": "Poeta Eu, Poema Ela",
+      "url": "https://open.spotify.com/track/6p9C1JwOdFsdb1sAv76wQ5"
     }
   ],
   "unique_name": "Amanhecer na Estrada",

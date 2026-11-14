@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1xVV8WCtm9c6y0cGo4WrWG.md) - [plain]
 
 > The newest and best Hip\-Hop updated weekly! Cover: Lil Baby
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 22,772 likes - 82 songs - 4 hr 1 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 22,768 likes - 84 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,5 +90,7 @@ pretty - [cumulative](/playlists/cumulative/1xVV8WCtm9c6y0cGo4WrWG.md) - [plain]
 | 80 | [LA Nights](https://open.spotify.com/track/62uzemerm9B0BFS9R0jApf) | [Trap Dickey](https://open.spotify.com/artist/20B8Ga2HfEUNJBAbZsJU2c) | [The Ville](https://open.spotify.com/album/4h19noQJ2iWAoyNW4zHYGQ) | 2:18 |
 | 81 | [Out My Face \(My Baby\) \(feat\. Lil Yachty\)](https://open.spotify.com/track/124asPU2FC370O180KQPQi) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Out My Face \(My Baby\) \(feat\. Lil Yachty\)](https://open.spotify.com/album/0myqS8XRIGw3RYHfmuwF7Y) | 3:23 |
 | 82 | [vamp city \(with OsamaSon\)](https://open.spotify.com/track/4UyE3xTsvuyovBIODvhDV0) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX), [OsamaSon](https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1) | [xperiment \- cartunez](https://open.spotify.com/album/6XeYRwn2Db1C0g78HoXxn7) | 1:50 |
+| 83 | [Why Not? \(feat\. Quavo & Loe Shimmy\)](https://open.spotify.com/track/3ag3REuwHRHF8kYQffQ8pn) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax) | [GMFU](https://open.spotify.com/album/0sjhU3kzHU2dfd6SVrzLIp) | 2:49 |
+| 84 | [Ya Hit \(feat\. Drake, Travis Scott & Loe Shimmy\)](https://open.spotify.com/track/76jR5C9oKb1DJR3rab6dGV) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax) | [Ya Hit \(feat\. Drake, Travis Scott & Loe Shimmy\)](https://open.spotify.com/album/5KXRJdjRBZMPrmvt4EgXAd) | 3:34 |
 
-Snapshot ID: `AAAlYLHxsV7Z7w1jnrbcvTc9QvgB8Uqe`
+Snapshot ID: `AAAlYq5NU9z3oySrDQ6bOB8AZ7vsO+TE`

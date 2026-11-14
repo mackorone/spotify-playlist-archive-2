@@ -1,6 +1,6 @@
 {
   "description": "O batid\u00e3o dos funks mais bombados pra agitar a pista do seu baile!",
-  "num_followers": 477623,
+  "num_followers": 477629,
   "original_name": "Segue o Baile",
   "owner": {
     "name": "Spotify",
@@ -291,18 +291,18 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "Na Ponta Ela Fica",
-        "url": "https://open.spotify.com/album/6gF531wpZQpmM84C9vaEjW"
+        "name": "Os Muleke \u00c9 Liso",
+        "url": "https://open.spotify.com/album/4H8m7WqTAjfVBTcw7qgBDp"
       },
       "artists": [
         {
-          "name": "Delano",
-          "url": "https://open.spotify.com/artist/5TmW0cFVEYEbypgTdSNNDn"
+          "name": "MC Rodolfinho",
+          "url": "https://open.spotify.com/artist/4885EF8HYSK3OyCRe7yZIp"
         }
       ],
-      "duration_ms": 154026,
-      "name": "Na Ponta Ela Fica",
-      "url": "https://open.spotify.com/track/1OtZIaJBXo3Pe6nfaMsjKT"
+      "duration_ms": 232646,
+      "name": "Os Muleke \u00c9 Liso",
+      "url": "https://open.spotify.com/track/6OmKF6WW3eQtZzGQ4hDSOX"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -327,18 +327,18 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "Os Muleke \u00c9 Liso",
-        "url": "https://open.spotify.com/album/4H8m7WqTAjfVBTcw7qgBDp"
+        "name": "Na Ponta Ela Fica",
+        "url": "https://open.spotify.com/album/6gF531wpZQpmM84C9vaEjW"
       },
       "artists": [
         {
-          "name": "MC Rodolfinho",
-          "url": "https://open.spotify.com/artist/4885EF8HYSK3OyCRe7yZIp"
+          "name": "Delano",
+          "url": "https://open.spotify.com/artist/5TmW0cFVEYEbypgTdSNNDn"
         }
       ],
-      "duration_ms": 232646,
-      "name": "Os Muleke \u00c9 Liso",
-      "url": "https://open.spotify.com/track/6OmKF6WW3eQtZzGQ4hDSOX"
+      "duration_ms": 154026,
+      "name": "Na Ponta Ela Fica",
+      "url": "https://open.spotify.com/track/1OtZIaJBXo3Pe6nfaMsjKT"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -1087,26 +1087,6 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "Talarica",
-        "url": "https://open.spotify.com/album/2DWrdCrdqBLbK83AfvcAEP"
-      },
-      "artists": [
-        {
-          "name": "Rennan da Penha",
-          "url": "https://open.spotify.com/artist/7ecRwFks8F2vYad383BkKf"
-        },
-        {
-          "name": "MC 2jhow",
-          "url": "https://open.spotify.com/artist/14jVHWj9dqpLhs8hHEMnyJ"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Talarica",
-      "url": "https://open.spotify.com/track/4VUcZNeuit8e7zmSAI4GbL"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
         "name": "Versions of Me",
         "url": "https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D"
       },
@@ -1135,6 +1115,26 @@
       "duration_ms": 176193,
       "name": "Que Rab\u00e3o (feat. Mr. Catra e YG)",
       "url": "https://open.spotify.com/track/71fwkaKdNrxiZZbkzSqmFJ"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
+        "name": "Talarica",
+        "url": "https://open.spotify.com/album/2DWrdCrdqBLbK83AfvcAEP"
+      },
+      "artists": [
+        {
+          "name": "Rennan da Penha",
+          "url": "https://open.spotify.com/artist/7ecRwFks8F2vYad383BkKf"
+        },
+        {
+          "name": "MC 2jhow",
+          "url": "https://open.spotify.com/artist/14jVHWj9dqpLhs8hHEMnyJ"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Talarica",
+      "url": "https://open.spotify.com/track/4VUcZNeuit8e7zmSAI4GbL"
     },
     {
       "added_at": "2023-06-26 14:06:50",

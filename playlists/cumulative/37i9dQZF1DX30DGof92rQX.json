@@ -7425,6 +7425,24 @@
     },
     {
       "album": {
+        "name": "KHAT - Reprised",
+        "url": "https://open.spotify.com/album/4HS5vRng0Wmgrl4wvWmZOP"
+      },
+      "artists": [
+        {
+          "name": "Farhan Saeed",
+          "url": "https://open.spotify.com/artist/1W67L8OH9z7C3b9YJJbVYq"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298285,
+      "name": "KHAT - Reprised",
+      "url": "https://open.spotify.com/track/6q7YyEYvLkwCsY4dVnUKcd"
+    },
+    {
+      "album": {
         "name": "Khata",
         "url": "https://open.spotify.com/album/6Ax0B5Jm5wkZYiumd41g5k"
       },

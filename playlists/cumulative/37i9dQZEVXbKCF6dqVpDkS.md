@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Netherlands.
 
-2,644 songs - 5 day 16 hr 10 min
+2,645 songs - 5 day 16 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,7 +168,7 @@
 | [Angel Numbers / Ten Toes](https://open.spotify.com/track/3XqM8hLCEYlbnFjoWwqtFv) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [11:11](https://open.spotify.com/album/0tL8CzbfmF5poGm9puqALR) | 5:06 | 2023-11-21 | 2024-03-10 |
 | [Angels Like You](https://open.spotify.com/track/1daDRI9ahBonbWD8YcxOIB) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Plastic Hearts](https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR) | 3:16 | 2021-04-26 | 2021-05-16 |
 | [Angry](https://open.spotify.com/track/5op6kdhlMQ4L0KH30GCZ5T) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Hackney Diamonds](https://open.spotify.com/album/1AxMcdQRLguJqSZMxvRNdO) | 3:46 | 2023-10-21 | 2023-10-25 |
-| [Animal](https://open.spotify.com/track/3ouNEk0tv5TTi8VWMe1xbX) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Animal](https://open.spotify.com/album/3ybCwWDhYDt2GYSCYFiF83) | 2:38 | 2026-07-25 |  |
+| [Animal](https://open.spotify.com/track/3ouNEk0tv5TTi8VWMe1xbX) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Animal](https://open.spotify.com/album/3ybCwWDhYDt2GYSCYFiF83) | 2:38 | 2026-07-25 | 2026-11-14 |
 | [Anna](https://open.spotify.com/track/0rYjHLCDkqtfzCiQqIqPGa) | [Cristian D](https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4), [ADF Samski](https://open.spotify.com/artist/5qeFPM2PZUCzcpkY4e4RC8), [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT), [$hirak](https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2) | [Love Doesn't Exist](https://open.spotify.com/album/6oGtt0Qwgq6rmLmMHydKDs) | 2:29 | 2024-05-25 | 2024-06-09 |
 | [Anna](https://open.spotify.com/track/4mMqTt5k2CRBTtuh8rQeL3) | [Cristian D](https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4), [ADF Samski](https://open.spotify.com/artist/5qeFPM2PZUCzcpkY4e4RC8), [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT), [$hirak](https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2) | [Love Doesn't Exist](https://open.spotify.com/album/0TlTVRoWCe48EuS8o5bEYT) | 2:29 | 2024-06-08 | 2024-07-14 |
 | [Anne](https://open.spotify.com/track/5GMVfVehF38Nnvk9onA6zH) | [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Beste Zangers 2026 \(Bizzey\)](https://open.spotify.com/album/1URzOTxuNcgHnAzQkRST9P) | 1:45 | 2026-09-01 | 2026-10-20 |
@@ -1184,6 +1184,7 @@
 | [Iris](https://open.spotify.com/track/4DPdJvSMB6hmrjgC5eC85d) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Stay with You](https://open.spotify.com/album/7ttozw5DWCdQaqfzCMevPc) | 4:49 | 2026-01-28 | 2026-01-30 |
 | [Iris](https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Dizzy up the Girl](https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T) | 4:49 | 2025-08-29 |  |
 | [Is Dat Nou Echt?](https://open.spotify.com/track/1TksL7PBmYxefJYTBrnSE6) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Is Dat Nou Echt?](https://open.spotify.com/album/779Io1t4GipURrEwigZOz1) | 2:28 | 2022-07-16 | 2022-08-05 |
+| [Is Dit Nu Later](https://open.spotify.com/track/1nfZ1uJ4SgXlv1arqragMX) | [Thijs Pot](https://open.spotify.com/artist/3nxJAqo44XhsDnBZBXeuvP), [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F), [Nick Schilder](https://open.spotify.com/artist/4pbY2GIsT2jDoVxKqNQcpu) | [Sing With Me \(Aflevering 1\)](https://open.spotify.com/album/1BrpGunw8hzjbp6cRQzRSB) | 2:31 | 2026-11-13 |  |
 | [Is It Love](https://open.spotify.com/track/5JEzgajKcC4eIQfRu3cZk7) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Is It Love](https://open.spotify.com/album/6fYOQSJpXKdVBkD09Kg2lf) | 2:23 | 2023-12-29 | 2024-03-24 |
 | [Is It Over Now? \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/1Iq8oo9XkmmvCQiGOfORiz) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:49 | 2023-10-28 | 2023-11-11 |
 | [Is There Someone Else?](https://open.spotify.com/track/0mL82sxCRjrs3br407IdJh) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:19 | 2022-01-08 | 2022-01-14 |

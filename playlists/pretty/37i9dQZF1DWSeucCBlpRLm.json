@@ -1,6 +1,6 @@
 {
   "description": "Kickstart your Diwali party with these bangers.",
-  "num_followers": 102052,
+  "num_followers": 102294,
   "original_name": "Diwali Party",
   "owner": {
     "name": "Spotify",
@@ -1283,6 +1283,26 @@
     {
       "added_at": "2026-10-23 09:38:03",
       "album": {
+        "name": "Housefull 2",
+        "url": "https://open.spotify.com/album/0v63JbN0o8wbskqN5zTFLM"
+      },
+      "artists": [
+        {
+          "name": "Mamta Sharma",
+          "url": "https://open.spotify.com/artist/0RMsiUCTjsdGjoKyhEm8Y4"
+        },
+        {
+          "name": "Sukhwinder Singh",
+          "url": "https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT"
+        }
+      ],
+      "duration_ms": 293954,
+      "name": "Anarkali Disco Chali",
+      "url": "https://open.spotify.com/track/0YKEBiwNh4VGsuf99aNfLa"
+    },
+    {
+      "added_at": "2026-10-23 09:38:03",
+      "album": {
         "name": "Coca Cola (From \"Luka Chuppi\")",
         "url": "https://open.spotify.com/album/0L2XbCxKZXwLeWuAUMcBLc"
       },
@@ -1311,22 +1331,26 @@
     {
       "added_at": "2026-10-23 09:38:03",
       "album": {
-        "name": "Housefull 2",
-        "url": "https://open.spotify.com/album/0v63JbN0o8wbskqN5zTFLM"
+        "name": "Tanu Weds Manu",
+        "url": "https://open.spotify.com/album/5R0EsoxxqsmxdJEuM1JPFd"
       },
       "artists": [
         {
-          "name": "Mamta Sharma",
-          "url": "https://open.spotify.com/artist/0RMsiUCTjsdGjoKyhEm8Y4"
+          "name": "Lehmber Hussainpuri",
+          "url": "https://open.spotify.com/artist/7w4cOzDZ5rfomlKHfunmbV"
         },
         {
-          "name": "Sukhwinder Singh",
-          "url": "https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT"
+          "name": "Krsna Solo",
+          "url": "https://open.spotify.com/artist/1fn1zda146dVI8wNdqi9l6"
+        },
+        {
+          "name": "Raj Shekhar",
+          "url": "https://open.spotify.com/artist/2DFCHTDIA0t638a4mm37dK"
         }
       ],
-      "duration_ms": 293954,
-      "name": "Anarkali Disco Chali",
-      "url": "https://open.spotify.com/track/0YKEBiwNh4VGsuf99aNfLa"
+      "duration_ms": 264900,
+      "name": "Sadi Gali",
+      "url": "https://open.spotify.com/track/1tEto4JrqNmBZFH5uAiYqb"
     },
     {
       "added_at": "2026-10-23 09:38:03",
@@ -1359,30 +1383,6 @@
       "duration_ms": 197473,
       "name": "Manike (From \"Thank God\")",
       "url": "https://open.spotify.com/track/0zlGnseLGzRIBA0TJcb3Bo"
-    },
-    {
-      "added_at": "2026-10-23 09:38:03",
-      "album": {
-        "name": "Tanu Weds Manu",
-        "url": "https://open.spotify.com/album/5R0EsoxxqsmxdJEuM1JPFd"
-      },
-      "artists": [
-        {
-          "name": "Lehmber Hussainpuri",
-          "url": "https://open.spotify.com/artist/7w4cOzDZ5rfomlKHfunmbV"
-        },
-        {
-          "name": "Krsna Solo",
-          "url": "https://open.spotify.com/artist/1fn1zda146dVI8wNdqi9l6"
-        },
-        {
-          "name": "Raj Shekhar",
-          "url": "https://open.spotify.com/artist/2DFCHTDIA0t638a4mm37dK"
-        }
-      ],
-      "duration_ms": 264900,
-      "name": "Sadi Gali",
-      "url": "https://open.spotify.com/track/1tEto4JrqNmBZFH5uAiYqb"
     },
     {
       "added_at": "2026-10-23 09:38:03",
@@ -1855,30 +1855,6 @@
     {
       "added_at": "2026-10-23 09:38:03",
       "album": {
-        "name": "Naach Meri Rani (Feat. Nora Fatehi)",
-        "url": "https://open.spotify.com/album/5bimKHx8YBRQBsoph5sODo"
-      },
-      "artists": [
-        {
-          "name": "Guru Randhawa",
-          "url": "https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL"
-        },
-        {
-          "name": "Tanishk Bagchi",
-          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
-        },
-        {
-          "name": "Nikhita Gandhi",
-          "url": "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
-        }
-      ],
-      "duration_ms": 212692,
-      "name": "Naach Meri Rani (Feat. Nora Fatehi)",
-      "url": "https://open.spotify.com/track/1orM67pmkNc4alrZkWjYkV"
-    },
-    {
-      "added_at": "2026-10-23 09:38:03",
-      "album": {
         "name": "Dus Bahane 2.0 (From \"Baaghi 3\") (feat. K.K., Shaan, Tulsi Kumar)",
         "url": "https://open.spotify.com/album/6apDnjHHb93tIEiPyNxhba"
       },
@@ -1899,6 +1875,30 @@
       "duration_ms": 201655,
       "name": "Dus Bahane 2.0 (From \"Baaghi 3\") (feat. K.K., Shaan, Tulsi Kumar)",
       "url": "https://open.spotify.com/track/0z9lOAVgQT5bysEKZ6Wwbk"
+    },
+    {
+      "added_at": "2026-10-23 09:38:03",
+      "album": {
+        "name": "Naach Meri Rani (Feat. Nora Fatehi)",
+        "url": "https://open.spotify.com/album/5bimKHx8YBRQBsoph5sODo"
+      },
+      "artists": [
+        {
+          "name": "Guru Randhawa",
+          "url": "https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL"
+        },
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        },
+        {
+          "name": "Nikhita Gandhi",
+          "url": "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
+        }
+      ],
+      "duration_ms": 212692,
+      "name": "Naach Meri Rani (Feat. Nora Fatehi)",
+      "url": "https://open.spotify.com/track/1orM67pmkNc4alrZkWjYkV"
     },
     {
       "added_at": "2026-10-23 09:38:03",

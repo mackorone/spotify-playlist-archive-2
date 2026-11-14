@@ -4,7 +4,7 @@
 
 > Introducing RADAR Philippines Cast of 2026\. Cover: NEW LORE
 
-370 songs - 21 hr 51 min
+370 songs - 21 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -282,6 +282,7 @@
 | [Saan?](https://open.spotify.com/track/61DuXKQqvXkxcrAIiNLIgR) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [Saan?](https://open.spotify.com/album/2USw0nRD3YRnfofRyufJnR) | 3:26 | 2024-04-02 | 2025-03-28 |
 | [Sabik](https://open.spotify.com/track/6vMDpwwkfsvSIsH6EVOgWz) | [DENȲ](https://open.spotify.com/artist/2Q2uIXpaRSH3Or0oT5nFXR), [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [LOVES7AGE](https://open.spotify.com/album/69ewkNFbekxjGlMyc5kCYQ) | 4:54 | 2023-10-02 | 2024-04-03 |
 | [Sabik](https://open.spotify.com/track/4TFRpNfvdaW1sNmoUtZ5fV) | [Illest Morena](https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI) | [Sabik](https://open.spotify.com/album/3XGnYXcVJE1nD0OymzwcAJ) | 2:41 | 2024-04-02 | 2025-03-28 |
+| [Sad Girl \(feat\. Ichika Nito & Gabba\)](https://open.spotify.com/track/735s7kB0oA5PXgXtiSZLMG) | [NEW LORE](https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E), [Ichika Nito](https://open.spotify.com/artist/1v7B6ZWa7QRQS3knn3Jvf4), [Gabba](https://open.spotify.com/artist/6tvCQZS4d1wJ9cA9Gl0ZqP) | [Very Ancient Way of Crying](https://open.spotify.com/album/3xbauaiHd7Ah6wzGjfmoYo) | 3:22 | 2026-11-13 |  |
 | [Sagi](https://open.spotify.com/track/3Z7Qh3lOUg0d3Aj18otDVn) | [Paul Pablo](https://open.spotify.com/artist/5GB0qrWq0mz2OanyfhXGp0) | [Sagi](https://open.spotify.com/album/4xK0CN6e6hCWM5r0vL0fV5) | 3:21 | 2023-04-13 | 2024-04-03 |
 | [Sagi](https://open.spotify.com/track/7zl6v0rIeKPTb4KCJnsiUd) | [Paul Pablo](https://open.spotify.com/artist/5GB0qrWq0mz2OanyfhXGp0) | [Takaw Tingin](https://open.spotify.com/album/2AAnmzyeMl25pWn3SHElA9) | 3:21 | 2023-11-29 | 2024-01-12 |
 | [Salamin, Salamin](https://open.spotify.com/track/1iIJtD9hkzw4ZHfR7ND9yb) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Talaarawan](https://open.spotify.com/album/2eT1XApzS0GmkJLMlCBdVv) | 3:50 | 2024-03-14 | 2025-03-28 |
@@ -344,7 +345,6 @@
 | [Tingin](https://open.spotify.com/track/7b89Ffklm3xh4GI37vlZDZ) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN), [Janine](https://open.spotify.com/artist/09Xydf4dlkr29dH99DmsvQ) | [Tingin](https://open.spotify.com/album/5Z3PE5HciL6majXbtu3EU3) | 3:42 | 2024-04-02 | 2025-03-28 |
 | [To Pick a Lock](https://open.spotify.com/track/2s0E9y9CCJhs9KqEcYtGx8) | [Elle Sebastian](https://open.spotify.com/artist/3tZLOm9eJAxX6Q0xkEGjWo) | [To Pick a Lock](https://open.spotify.com/album/27dbQwfPkrwR4Mn4JAH7CU) | 5:12 | 2021-11-25 | 2022-03-25 |
 | [Totoo](https://open.spotify.com/track/2xLdN3oHi4CG89H9g1DJXN) | [Kenaniah](https://open.spotify.com/artist/2owtRYReKCG1n2AAS5AcpS) | [Kenaniah](https://open.spotify.com/album/50ZqQAS4Cp2ATe9w1MUHB7) | 4:40 | 2023-07-21 | 2024-04-03 |
-| [Track 3](https://open.spotify.com/track/735s7kB0oA5PXgXtiSZLMG) | [NEW LORE](https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E) | [Very Ancient Way of Crying](https://open.spotify.com/album/3xbauaiHd7Ah6wzGjfmoYo) | 0:00 | 2026-11-13 |  |
 | [Trash](https://open.spotify.com/track/2eNd3TxM4dTBbVXPaiaOhm) | [BGYO](https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8) | [Trash](https://open.spotify.com/album/5OLrKVbEIEC1XLpgXhnCaq) | 2:20 | 2025-03-27 | 2026-04-07 |
 | [Trisikulo](https://open.spotify.com/track/5ZOcgcOuMamz9I4DscdCs8) | [Ziv](https://open.spotify.com/artist/4Wz4nR941NXG2gzv06H62t), [VVINK](https://open.spotify.com/artist/4RYaFaZPwHFQpNUr6mW6OW) | [Trisikulo](https://open.spotify.com/album/2LBma9pugz4QM1btCzMYjG) | 2:49 | 2026-10-16 |  |
 | [Trust Me](https://open.spotify.com/track/6N9yWlPP4Ha96AfkXHgaqk) | [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON) | [Trust Me](https://open.spotify.com/album/0cCvsiXoR8TDNDdO38w05C) | 3:49 | 2025-03-27 | 2026-04-07 |

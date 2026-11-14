@@ -2535,6 +2535,28 @@
     },
     {
       "album": {
+        "name": "Corner",
+        "url": "https://open.spotify.com/album/4CtBGjkZQCToiL7hl5Auq2"
+      },
+      "artists": [
+        {
+          "name": "nimino",
+          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
+        },
+        {
+          "name": "Mike Kota",
+          "url": "https://open.spotify.com/artist/4XQTByA2uvyebfXRZFseV6"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Corner",
+      "url": "https://open.spotify.com/track/0jhteVaVClH9nCq2l7VIrD"
+    },
+    {
+      "album": {
         "name": "Corporate Shakespeare",
         "url": "https://open.spotify.com/album/45g4yPfR9J2AsaAe3WhP1p"
       },
@@ -5606,6 +5628,28 @@
       "duration_ms": 207340,
       "name": "I Saw",
       "url": "https://open.spotify.com/track/2KyawAGl39jfqeZOrVJanN"
+    },
+    {
+      "album": {
+        "name": "Corner",
+        "url": "https://open.spotify.com/album/4CtBGjkZQCToiL7hl5Auq2"
+      },
+      "artists": [
+        {
+          "name": "nimino",
+          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
+        },
+        {
+          "name": "Manta",
+          "url": "https://open.spotify.com/artist/6AGlSGZh0z7CwUXEnFYXyJ"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269538,
+      "name": "I Should Say It More",
+      "url": "https://open.spotify.com/track/1LT0NUK3VIQrJIuHiqYPi4"
     },
     {
       "album": {
@@ -10724,6 +10768,24 @@
       "duration_ms": 184280,
       "name": "The Sun",
       "url": "https://open.spotify.com/track/6fr9xRWjL9VlXLOtbPo81d"
+    },
+    {
+      "album": {
+        "name": "The Sun",
+        "url": "https://open.spotify.com/album/78XbGK7E58bZuKdG30UlYQ"
+      },
+      "artists": [
+        {
+          "name": "Nohr",
+          "url": "https://open.spotify.com/artist/5ksOqe4QEaUjadayPHNX82"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147840,
+      "name": "The Sun",
+      "url": "https://open.spotify.com/track/5NQMv0smXYCkzRAY1IbzIN"
     },
     {
       "album": {

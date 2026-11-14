@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > The latest from Future, Fall Out Boy, Offset, U2, Snoh Aalegra, Owen Riegling, Drake, and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 599,425 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 599,816 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 3 | [Party With The Boys](https://open.spotify.com/track/5d2Sj3lMKJFefwU26GInQu) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Party With The Boys](https://open.spotify.com/album/5Ei8O7C8Fa5oXZTNB166Sf) | 2:35 |
 | 4 | [ACES](https://open.spotify.com/track/2sCwIkIPsvrZXbHNQWkvo8) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [ACES](https://open.spotify.com/album/6T9ZMACdVbFDmk22nZLpzH) | 3:31 |
 | 5 | [Daisy](https://open.spotify.com/track/6Y98b7FYCZkd3JX3diPzd0) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [Pirouette](https://open.spotify.com/album/6TnYUZpDRbl6GiREL8Md4F) | 4:12 |
-| 6 | [Why Not \(feat\. Quavo & Loe Shimmy\)](https://open.spotify.com/track/3ag3REuwHRHF8kYQffQ8pn) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax) | [GMFU](https://open.spotify.com/album/0sjhU3kzHU2dfd6SVrzLIp) | 2:49 |
+| 6 | [Why Not? \(feat\. Quavo & Loe Shimmy\)](https://open.spotify.com/track/3ag3REuwHRHF8kYQffQ8pn) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax) | [GMFU](https://open.spotify.com/album/0sjhU3kzHU2dfd6SVrzLIp) | 2:49 |
 | 7 | [Torn \(feat\. Dolly Parton\)](https://open.spotify.com/track/28voksbZPIhS2dJV6iLS1h) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Carnaval De Luz](https://open.spotify.com/album/07Q9bUJarYrFjhxofoenM0) | 4:30 |
 | 8 | [Supernova](https://open.spotify.com/track/5UQPo4DofgIrrSZfliJYKR) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Legendary Love](https://open.spotify.com/album/74ExA1UleSA3kSC0TyNObv) | 2:51 |
 | 9 | [Place And Space In Time](https://open.spotify.com/track/1gR8iPbYTp8Gzpa7ScMALI) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [In The Feeling \(Deluxe\)](https://open.spotify.com/album/5TPWHD9a20t0eVW4RYrCME) | 3:33 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXuD9SwnM4ac.md) - [plain]
 
 > All the new indie tracks worth knowing about\. Cover: Nick Ward
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,280 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,284 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXuD9SwnM4ac.md) - [plain]
 | 11 | [Real!](https://open.spotify.com/track/1yxpRDrcK5ExwNiThPa9Uh) | [Dream Boat](https://open.spotify.com/artist/6oRvLsN1PnXplBf6mLS940) | [Real!](https://open.spotify.com/album/4fD8azzRJrj1pkzk1ra0ZG) | 2:58 |
 | 12 | [Power](https://open.spotify.com/track/4AgFz88NHRADgVAV2MzOSq) | [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex) | [the greatest album of all time](https://open.spotify.com/album/604KxCjle0KCw0VXdoMNgj) | 3:53 |
 | 13 | [bootleg](https://open.spotify.com/track/6fw5FDNXJ0s7rU8GdIguzT) | [earfzilla](https://open.spotify.com/artist/65SDZetBIC5qK27DoJUx0f), [gone like summer](https://open.spotify.com/artist/2XOxFoWBxYr7IXSdM2QkJn) | [bootleg](https://open.spotify.com/album/7wrnwgR7wXPn2640q3BxCk) | 2:07 |
-| 14 | [Track 3](https://open.spotify.com/track/735s7kB0oA5PXgXtiSZLMG) | [NEW LORE](https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E) | [Very Ancient Way of Crying](https://open.spotify.com/album/3xbauaiHd7Ah6wzGjfmoYo) | 0:00 |
+| 14 | [Sad Girl \(feat\. Ichika Nito & Gabba\)](https://open.spotify.com/track/735s7kB0oA5PXgXtiSZLMG) | [NEW LORE](https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E), [Ichika Nito](https://open.spotify.com/artist/1v7B6ZWa7QRQS3knn3Jvf4), [Gabba](https://open.spotify.com/artist/6tvCQZS4d1wJ9cA9Gl0ZqP) | [Very Ancient Way of Crying](https://open.spotify.com/album/3xbauaiHd7Ah6wzGjfmoYo) | 3:22 |
 | 15 | [Lifer](https://open.spotify.com/track/6pKOiHEMUgqNKl4qqspjJF) | [Armlock](https://open.spotify.com/artist/7BoU3VkauvnYvttpymQ7pG) | [Lifer](https://open.spotify.com/album/3a7ggPhwRnYn73uCJ0qQ44) | 2:42 |
 | 16 | [Great Destroyer](https://open.spotify.com/track/37VSm7OkJYKnGszEqUQm6d) | [Racing Mount Pleasant](https://open.spotify.com/artist/5zaSiNpGxS2lOvZTIZiOQX) | [Great Destroyer](https://open.spotify.com/album/3ovb20hHInBOA8IQA6cSGr) | 4:09 |
 | 17 | [PANGEA](https://open.spotify.com/track/0BA0Gdyz3UK8PJC7c44lK7) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [PANGEA](https://open.spotify.com/album/7F0wEfyBPyUlHyCnXHQwiG) | 2:25 |

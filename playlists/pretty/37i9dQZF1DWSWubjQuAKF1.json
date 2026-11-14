@@ -1,6 +1,6 @@
 {
   "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: Dominika P\u0142onka",
-  "num_followers": 26754,
+  "num_followers": 26782,
   "original_name": "up next",
   "owner": {
     "name": "Spotify",
@@ -299,22 +299,6 @@
     {
       "added_at": "2026-11-12 23:01:43",
       "album": {
-        "name": "Pokochaj Mnie Ponownie",
-        "url": "https://open.spotify.com/album/2PcBuWrQnZKaDKORHCnhb6"
-      },
-      "artists": [
-        {
-          "name": "Natalia Muianga",
-          "url": "https://open.spotify.com/artist/5ixTh4FeSw3QQb3anXHEV4"
-        }
-      ],
-      "duration_ms": 195573,
-      "name": "Pokochaj Mnie Ponownie",
-      "url": "https://open.spotify.com/track/05s3rbRbHOk4gE3KOBixH5"
-    },
-    {
-      "added_at": "2026-11-12 23:01:43",
-      "album": {
         "name": "Homme Fatale",
         "url": "https://open.spotify.com/album/0mrFcfa9ulq0KWpfQYv9i3"
       },
@@ -331,6 +315,22 @@
     {
       "added_at": "2026-11-12 23:01:43",
       "album": {
+        "name": "Pokochaj Mnie Ponownie",
+        "url": "https://open.spotify.com/album/2PcBuWrQnZKaDKORHCnhb6"
+      },
+      "artists": [
+        {
+          "name": "Natalia Muianga",
+          "url": "https://open.spotify.com/artist/5ixTh4FeSw3QQb3anXHEV4"
+        }
+      ],
+      "duration_ms": 195573,
+      "name": "Pokochaj Mnie Ponownie",
+      "url": "https://open.spotify.com/track/05s3rbRbHOk4gE3KOBixH5"
+    },
+    {
+      "added_at": "2026-11-12 23:01:43",
+      "album": {
         "name": "SZTUCZNE USTA",
         "url": "https://open.spotify.com/album/3zkB0tbxkIG2av3bIDfssa"
       },
@@ -343,6 +343,22 @@
       "duration_ms": 200454,
       "name": "SZTUCZNE USTA",
       "url": "https://open.spotify.com/track/3TaKlH1BbZ6swEF5GECVo9"
+    },
+    {
+      "added_at": "2026-11-12 23:01:43",
+      "album": {
+        "name": "Ca\u0142\u0105 noc",
+        "url": "https://open.spotify.com/album/25zHLYu9pqBujSBajPWRgH"
+      },
+      "artists": [
+        {
+          "name": "Maciej Skiba",
+          "url": "https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq"
+        }
+      ],
+      "duration_ms": 172615,
+      "name": "Ca\u0142\u0105 noc",
+      "url": "https://open.spotify.com/track/3rdOArgTazJOV5JFNFZSTr"
     },
     {
       "added_at": "2026-11-12 23:01:43",
@@ -367,22 +383,6 @@
       "duration_ms": 201038,
       "name": "chodzi o nas",
       "url": "https://open.spotify.com/track/0vdVLBqXoN49A1ojHoLMwn"
-    },
-    {
-      "added_at": "2026-11-12 23:01:43",
-      "album": {
-        "name": "Ca\u0142\u0105 noc",
-        "url": "https://open.spotify.com/album/25zHLYu9pqBujSBajPWRgH"
-      },
-      "artists": [
-        {
-          "name": "Maciej Skiba",
-          "url": "https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq"
-        }
-      ],
-      "duration_ms": 172615,
-      "name": "Ca\u0142\u0105 noc",
-      "url": "https://open.spotify.com/track/3rdOArgTazJOV5JFNFZSTr"
     },
     {
       "added_at": "2026-11-12 23:01:43",
@@ -515,6 +515,42 @@
     {
       "added_at": "2026-11-12 23:01:43",
       "album": {
+        "name": "luvvv<3",
+        "url": "https://open.spotify.com/album/4hGf7Tx2EYgdb4wzDI9oay"
+      },
+      "artists": [
+        {
+          "name": "ggluv",
+          "url": "https://open.spotify.com/artist/2YjBfW9J5WxnoYKDuYyj5D"
+        }
+      ],
+      "duration_ms": 120685,
+      "name": "luvvv<3",
+      "url": "https://open.spotify.com/track/49duYLA0Ro10jlqgoPG7s3"
+    },
+    {
+      "added_at": "2026-11-12 23:01:43",
+      "album": {
+        "name": "Away",
+        "url": "https://open.spotify.com/album/1Po0QBhBPS3stIPt6GylQ0"
+      },
+      "artists": [
+        {
+          "name": "Pola",
+          "url": "https://open.spotify.com/artist/35TNTrLhxCXmfO4wL4IWUa"
+        },
+        {
+          "name": "SHD\u00d8W",
+          "url": "https://open.spotify.com/artist/1k4FU2VP9e8I3yY9tz3Stt"
+        }
+      ],
+      "duration_ms": 133333,
+      "name": "Away",
+      "url": "https://open.spotify.com/track/2v3Xu59V4lqBZvYvL5a8fb"
+    },
+    {
+      "added_at": "2026-11-12 23:01:43",
+      "album": {
         "name": "A2",
         "url": "https://open.spotify.com/album/1j4NyStUaoif2pPqvC7NYB"
       },
@@ -547,26 +583,6 @@
     {
       "added_at": "2026-11-12 23:01:43",
       "album": {
-        "name": "Away",
-        "url": "https://open.spotify.com/album/1Po0QBhBPS3stIPt6GylQ0"
-      },
-      "artists": [
-        {
-          "name": "Pola",
-          "url": "https://open.spotify.com/artist/35TNTrLhxCXmfO4wL4IWUa"
-        },
-        {
-          "name": "SHD\u00d8W",
-          "url": "https://open.spotify.com/artist/1k4FU2VP9e8I3yY9tz3Stt"
-        }
-      ],
-      "duration_ms": 133333,
-      "name": "Away",
-      "url": "https://open.spotify.com/track/2v3Xu59V4lqBZvYvL5a8fb"
-    },
-    {
-      "added_at": "2026-11-12 23:01:43",
-      "album": {
         "name": "365 widok\u00f3w na przysz\u0142o\u015b\u0107",
         "url": "https://open.spotify.com/album/5Dxrh7sIALavUQhIyGHLjq"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 215000,
       "name": "365 widok\u00f3w na przysz\u0142o\u015b\u0107",
       "url": "https://open.spotify.com/track/03ZOrxyNE9Bo9CVGCpNwDc"
-    },
-    {
-      "added_at": "2026-11-12 23:01:43",
-      "album": {
-        "name": "luvvv<3",
-        "url": "https://open.spotify.com/album/4hGf7Tx2EYgdb4wzDI9oay"
-      },
-      "artists": [
-        {
-          "name": "ggluv",
-          "url": "https://open.spotify.com/artist/2YjBfW9J5WxnoYKDuYyj5D"
-        }
-      ],
-      "duration_ms": 120685,
-      "name": "luvvv<3",
-      "url": "https://open.spotify.com/track/49duYLA0Ro10jlqgoPG7s3"
     },
     {
       "added_at": "2026-11-12 23:01:43",
@@ -647,6 +647,22 @@
       "duration_ms": 161904,
       "name": "sad, alone?",
       "url": "https://open.spotify.com/track/6FTZamgX8SUlpTL9xKgMtZ"
+    },
+    {
+      "added_at": "2026-11-12 23:01:43",
+      "album": {
+        "name": "Parasolka",
+        "url": "https://open.spotify.com/album/1V2yU8T8TMLdo11yrkws3C"
+      },
+      "artists": [
+        {
+          "name": "Nita",
+          "url": "https://open.spotify.com/artist/1AGR5KsqctsAYgxxINt5xi"
+        }
+      ],
+      "duration_ms": 185986,
+      "name": "Parasolka",
+      "url": "https://open.spotify.com/track/7ArKXOg6lAKARi5xC1QkEZ"
     },
     {
       "added_at": "2026-11-12 23:01:43",
@@ -707,22 +723,6 @@
     {
       "added_at": "2026-11-12 23:01:43",
       "album": {
-        "name": "Parasolka",
-        "url": "https://open.spotify.com/album/1V2yU8T8TMLdo11yrkws3C"
-      },
-      "artists": [
-        {
-          "name": "Nita",
-          "url": "https://open.spotify.com/artist/1AGR5KsqctsAYgxxINt5xi"
-        }
-      ],
-      "duration_ms": 185986,
-      "name": "Parasolka",
-      "url": "https://open.spotify.com/track/7ArKXOg6lAKARi5xC1QkEZ"
-    },
-    {
-      "added_at": "2026-11-12 23:01:43",
-      "album": {
         "name": "NO LUV",
         "url": "https://open.spotify.com/album/51xvWVptIEi1fE6i4VfyiW"
       },
@@ -755,6 +755,26 @@
       "duration_ms": 143157,
       "name": "W OGIE\u0143",
       "url": "https://open.spotify.com/track/7h5JNX0yR8wriqEGmmxJ3Z"
+    },
+    {
+      "added_at": "2026-11-12 23:01:43",
+      "album": {
+        "name": "To zabola\u0142o",
+        "url": "https://open.spotify.com/album/3QqOU9qWuNfSgj5D8LN3mf"
+      },
+      "artists": [
+        {
+          "name": "Nita",
+          "url": "https://open.spotify.com/artist/1AGR5KsqctsAYgxxINt5xi"
+        },
+        {
+          "name": "Jeremi Sikorski",
+          "url": "https://open.spotify.com/artist/72wQxesjJ9hTkk1hGA4tBw"
+        }
+      ],
+      "duration_ms": 225052,
+      "name": "To zabola\u0142o",
+      "url": "https://open.spotify.com/track/3kXR6IRV64WAsQPRWZndc8"
     },
     {
       "added_at": "2026-11-12 23:01:43",
@@ -799,26 +819,6 @@
     {
       "added_at": "2026-11-12 23:01:43",
       "album": {
-        "name": "To zabola\u0142o",
-        "url": "https://open.spotify.com/album/3QqOU9qWuNfSgj5D8LN3mf"
-      },
-      "artists": [
-        {
-          "name": "Nita",
-          "url": "https://open.spotify.com/artist/1AGR5KsqctsAYgxxINt5xi"
-        },
-        {
-          "name": "Jeremi Sikorski",
-          "url": "https://open.spotify.com/artist/72wQxesjJ9hTkk1hGA4tBw"
-        }
-      ],
-      "duration_ms": 225052,
-      "name": "To zabola\u0142o",
-      "url": "https://open.spotify.com/track/3kXR6IRV64WAsQPRWZndc8"
-    },
-    {
-      "added_at": "2026-11-12 23:01:43",
-      "album": {
         "name": "Kr\u0119ci si\u0119 ziemia",
         "url": "https://open.spotify.com/album/6GCVq8w7OneerzKxZnx69b"
       },
@@ -847,6 +847,22 @@
       "duration_ms": 203101,
       "name": "Pick me baby",
       "url": "https://open.spotify.com/track/7dnvgI7XcoUn4aR9dkDO1c"
+    },
+    {
+      "added_at": "2026-11-12 23:01:43",
+      "album": {
+        "name": "Ta\u0144cz i kochaj",
+        "url": "https://open.spotify.com/album/36fNyhTRkKcKRFEZ2u3wla"
+      },
+      "artists": [
+        {
+          "name": "Nita",
+          "url": "https://open.spotify.com/artist/1AGR5KsqctsAYgxxINt5xi"
+        }
+      ],
+      "duration_ms": 173454,
+      "name": "Ta\u0144cz i kochaj",
+      "url": "https://open.spotify.com/track/2JM1chl2LrZLp2O56Pgb82"
     },
     {
       "added_at": "2026-11-12 23:01:43",
@@ -891,18 +907,18 @@
     {
       "added_at": "2026-11-12 23:01:43",
       "album": {
-        "name": "Ta\u0144cz i kochaj",
-        "url": "https://open.spotify.com/album/36fNyhTRkKcKRFEZ2u3wla"
+        "name": "__21__",
+        "url": "https://open.spotify.com/album/1b4qo22PIVnuxnD3BwjLQh"
       },
       "artists": [
         {
-          "name": "Nita",
-          "url": "https://open.spotify.com/artist/1AGR5KsqctsAYgxxINt5xi"
+          "name": "kubera",
+          "url": "https://open.spotify.com/artist/5VGm5Wvwd5NO7uoYvQcKGw"
         }
       ],
-      "duration_ms": 173454,
-      "name": "Ta\u0144cz i kochaj",
-      "url": "https://open.spotify.com/track/2JM1chl2LrZLp2O56Pgb82"
+      "duration_ms": 143200,
+      "name": "__21__",
+      "url": "https://open.spotify.com/track/6vP6lWqFnY2Mp6GqQKrddI"
     },
     {
       "added_at": "2026-11-12 23:01:43",
@@ -919,22 +935,6 @@
       "duration_ms": 158222,
       "name": "Po drugiej stronie szk\u0142a",
       "url": "https://open.spotify.com/track/7uyrqEix2UJUrCqOOFsnKf"
-    },
-    {
-      "added_at": "2026-11-12 23:01:43",
-      "album": {
-        "name": "__21__",
-        "url": "https://open.spotify.com/album/1b4qo22PIVnuxnD3BwjLQh"
-      },
-      "artists": [
-        {
-          "name": "kubera",
-          "url": "https://open.spotify.com/artist/5VGm5Wvwd5NO7uoYvQcKGw"
-        }
-      ],
-      "duration_ms": 143200,
-      "name": "__21__",
-      "url": "https://open.spotify.com/track/6vP6lWqFnY2Mp6GqQKrddI"
     },
     {
       "added_at": "2026-11-12 23:01:43",
@@ -959,26 +959,6 @@
     {
       "added_at": "2026-11-12 23:01:43",
       "album": {
-        "name": "Czuj\u0119 si\u0119 sexy af",
-        "url": "https://open.spotify.com/album/5lOPYpRXOJZVgbwqPtux2j"
-      },
-      "artists": [
-        {
-          "name": "Frank Leen",
-          "url": "https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4"
-        },
-        {
-          "name": "BSK",
-          "url": "https://open.spotify.com/artist/5yx3ksMAPQgeaCbT7pgko2"
-        }
-      ],
-      "duration_ms": 161280,
-      "name": "Czuj\u0119 si\u0119 sexy af",
-      "url": "https://open.spotify.com/track/1fRh9qhe8Ql0iy6RKgWCDO"
-    },
-    {
-      "added_at": "2026-11-12 23:01:43",
-      "album": {
         "name": "Bez dw\u00f3ch zda\u0144",
         "url": "https://open.spotify.com/album/64xzI4eafR1fvsKpNCCtHS"
       },
@@ -995,6 +975,26 @@
       "duration_ms": 179636,
       "name": "Bez dw\u00f3ch zda\u0144",
       "url": "https://open.spotify.com/track/6dzN6hJv8xDvhPkXy2D8G4"
+    },
+    {
+      "added_at": "2026-11-12 23:01:43",
+      "album": {
+        "name": "Czuj\u0119 si\u0119 sexy af",
+        "url": "https://open.spotify.com/album/5lOPYpRXOJZVgbwqPtux2j"
+      },
+      "artists": [
+        {
+          "name": "Frank Leen",
+          "url": "https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4"
+        },
+        {
+          "name": "BSK",
+          "url": "https://open.spotify.com/artist/5yx3ksMAPQgeaCbT7pgko2"
+        }
+      ],
+      "duration_ms": 161280,
+      "name": "Czuj\u0119 si\u0119 sexy af",
+      "url": "https://open.spotify.com/track/1fRh9qhe8Ql0iy6RKgWCDO"
     },
     {
       "added_at": "2026-11-12 23:01:43",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2026-11-12 23:01:43",
       "album": {
+        "name": "Problem Jednego Cia\u0142a",
+        "url": "https://open.spotify.com/album/5zWMFVmPRja3nFtYUWJ9zY"
+      },
+      "artists": [
+        {
+          "name": "Prometh",
+          "url": "https://open.spotify.com/artist/6saU4WOQFf2JMuZZHNVqWX"
+        }
+      ],
+      "duration_ms": 145573,
+      "name": "Problem Jednego Cia\u0142a",
+      "url": "https://open.spotify.com/track/5i09n6QrJKymJWIKvBebfQ"
+    },
+    {
+      "added_at": "2026-11-12 23:01:43",
+      "album": {
         "name": "Jestem Dla Ciebie",
         "url": "https://open.spotify.com/album/73N7avhK4kNLUbSUH1uKQp"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 146280,
       "name": "D\u0142o\u0144 trzymam w laysach",
       "url": "https://open.spotify.com/track/13epEQaevgVluo5VW66M9t"
-    },
-    {
-      "added_at": "2026-11-12 23:01:43",
-      "album": {
-        "name": "Problem Jednego Cia\u0142a",
-        "url": "https://open.spotify.com/album/5zWMFVmPRja3nFtYUWJ9zY"
-      },
-      "artists": [
-        {
-          "name": "Prometh",
-          "url": "https://open.spotify.com/artist/6saU4WOQFf2JMuZZHNVqWX"
-        }
-      ],
-      "duration_ms": 145573,
-      "name": "Problem Jednego Cia\u0142a",
-      "url": "https://open.spotify.com/track/5i09n6QrJKymJWIKvBebfQ"
     },
     {
       "added_at": "2026-11-12 23:01:43",

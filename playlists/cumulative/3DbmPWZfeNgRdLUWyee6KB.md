@@ -4,7 +4,7 @@
 
 > The best new indie music, indie folk &amp; rock discoveries\. Fresh songs for your daily chill, focus and road trips\. Featuring Noah Kahan, Phoebe Bridgers, Sam Fender and top emerging indie artists\. Updated daily with new releases — hit save to stay tuned!
 
-1,700 songs - 4 day 3 hr 9 min
+1,702 songs - 4 day 3 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -473,6 +473,7 @@
 | [Felony](https://open.spotify.com/track/0yjGhB4nn0S3YePwRcHbhZ) | [CTRL FREQS](https://open.spotify.com/artist/3BV3kbIBpKGLztbqNxuWSv) | [CTRL FREQS \(The Album\)](https://open.spotify.com/album/0lIOspuasFJ6BALQKPbyqv) | 3:34 | 2025-11-11 | 2025-12-21 |
 | [Fensterblick](https://open.spotify.com/track/6LgGyauokP9POhNgfiCkmo) | [GINSHER](https://open.spotify.com/artist/4JjoAxWIfPKrhuRZwGvOPS) | [Fensterblick](https://open.spotify.com/album/7BU1ICcPreRxSDag8mwRSM) | 2:47 | 2026-05-02 | 2026-06-05 |
 | [Final Orbit](https://open.spotify.com/track/2ITl2hSvHcXlBhnOvNhSaj) | [Todd & Karen](https://open.spotify.com/artist/2HpxTC13Na9jP0L9z8PneH) | [The Thrift Store Spaceship](https://open.spotify.com/album/1eCF2hRdwdRx5uLyzNcO0g) | 2:43 | 2026-08-18 | 2026-09-17 |
+| [Final Warning](https://open.spotify.com/track/0cRRjEtOM3NNe8Ckh63ne9) | [CTRL FREQS](https://open.spotify.com/artist/3BV3kbIBpKGLztbqNxuWSv) | [The Switch Up](https://open.spotify.com/album/49fyyvE62sc3lkPumVcmPg) | 3:32 | 2026-11-13 |  |
 | [find me](https://open.spotify.com/track/2nFb1sMf4DWOaWxTmEDyEb) | [momy](https://open.spotify.com/artist/0H0rug1rSfEUbdiimPviwF) | [find me](https://open.spotify.com/album/0AC26STLyNaelXiLH2ruFC) | 3:24 | 2026-05-10 | 2026-06-05 |
 | [Fingers Crossed](https://open.spotify.com/track/3vFYVPDRiQjCRJnqgzNbE6) | [Annabelle Grace](https://open.spotify.com/artist/20lr4qe8AZ4I2vuVl6NlL7) | [Fingers Crossed](https://open.spotify.com/album/3rtqRLOBd3NMTmocyqu54Q) | 3:48 | 2025-12-10 | 2026-01-05 |
 | [Fire Fire](https://open.spotify.com/track/5kocHOL5zvOMxyi5ajD95W) | [Miss Marielle](https://open.spotify.com/artist/4jDARgo4Odf7OslYnqZVlx) | [Odd Creations](https://open.spotify.com/album/7ywm5pYJfnPdnK7cC1owlx) | 2:22 | 2026-02-23 | 2026-03-25 |
@@ -1001,6 +1002,7 @@
 | [No More Lies](https://open.spotify.com/track/4AGflhfh5RPzKlVydgG6TQ) | [Elysium](https://open.spotify.com/artist/2NC1GXUAZDH9D8uu809kXg) | [No More Lies](https://open.spotify.com/album/7vQkexwSNeZJQ9X7RLwUTE) | 4:13 | 2026-06-01 | 2026-07-03 |
 | [No One](https://open.spotify.com/track/4KaGZuhrSOGtiKcBqN6tZS) | [Alexandra Hesse](https://open.spotify.com/artist/754oVDQocIr6Vx7KI4SYLV) | [No One](https://open.spotify.com/album/22uHGLhI2IjNuwo0KO9G2n) | 3:36 | 2026-05-21 | 2026-07-03 |
 | [No Time](https://open.spotify.com/track/5vCvWmImr0Vr7YH0C0AyX2) | [Samuel y los Rezagados](https://open.spotify.com/artist/2x8GEMtyjX8bnJhNcNsJrW), [enma alvear](https://open.spotify.com/artist/6xvChSW0aFmkQ7WDjsKmne) | [Back In Business](https://open.spotify.com/album/3mLkSHu7tPitznqB6SnOPQ) | 4:48 | 2026-03-02 | 2026-03-25 |
+| [No Time](https://open.spotify.com/track/4jdy5vik2IOkbTSNXOVNwQ) | [VrginVeinz](https://open.spotify.com/artist/64fmTLGcnTv4hohdOUDE1z) | [No Time](https://open.spotify.com/album/4OpeEfUpts0oLEt9gvC2P7) | 1:34 | 2026-11-06 |  |
 | [No Turns](https://open.spotify.com/track/5XcmXsQHzF9vH0k0UORvLW) | [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [No Turns, Ultraviolet GT!](https://open.spotify.com/album/6SMI2iiMq5MvQpsgtnAPFN) | 2:54 | 2026-02-22 | 2026-03-25 |
 | [Noah \- Radio Edit](https://open.spotify.com/track/1x58z8IfXZpTsWWqJaHV1B) | [Bob Birthisel](https://open.spotify.com/artist/4uc4QBJqxmjH3I6QnA3IdT), [Phil Keaggy](https://open.spotify.com/artist/1bAzlT6fMBcvCfwgh4S3Xl) | [Noah \(Radio Edit\)](https://open.spotify.com/album/4OUb2YjMiE9fRJAGiNpFKk) | 4:20 | 2025-10-06 | 2025-11-29 |
 | [Noche Triste](https://open.spotify.com/track/6Ul7SB8W4juy2Cgn7xnYuZ) | [Odalce](https://open.spotify.com/artist/4vFuQsYj8PmqkumGxVCGDn) | [Noche Triste](https://open.spotify.com/album/7KWb2nFfOQId2beziTBEGv) | 2:54 | 2026-09-22 | 2026-10-23 |
@@ -1150,6 +1152,7 @@
 | [Quiero vivir en el espacio](https://open.spotify.com/track/3yWe7WGRUfG3wbXyDMHzOh) | [Mr\. Mol](https://open.spotify.com/artist/0Pzhf2LTb0C0RJeAxaEBjx), [Lorenzo Graef](https://open.spotify.com/artist/4y9vxtCepgauWVhNLOMWCW), [Pat Quinteros](https://open.spotify.com/artist/5pNjXSuX973oATEuCzHlio) | [Lo primero que se te ocurra](https://open.spotify.com/album/6xIC1j2VkTC0Ekzc52JLtJ) | 5:26 | 2025-12-15 | 2026-01-15 |
 | [Quiet Mirror](https://open.spotify.com/track/1bbHzu8CmoQABeNdYHPR2z) | [Constant Vertex](https://open.spotify.com/artist/5EL7W7lWmcIk3jhTIoPNoM) | [Ad Astra](https://open.spotify.com/album/4JEGhzddPLseDCfKqGhKnj) | 2:58 | 2025-12-22 | 2026-01-27 |
 | [qué pasaría si?](https://open.spotify.com/track/3emdwjVdDDViHiTfdsKJsh) | [Bea Troncea](https://open.spotify.com/artist/2NNFdP47Os0DAjY2VEzYqW) | [qué pasaría si?](https://open.spotify.com/album/3aZ8RGZcoL6iIcK9OnhU3N) | 3:01 | 2026-03-02 | 2026-03-25 |
+| [Raat Ek Baje](https://open.spotify.com/track/1nao54F7nOzPhmhVXvVRxx) | [Samaksh](https://open.spotify.com/artist/1JvSsV27Zvlivwd0j6AtGn) | [Raat Ek Baje](https://open.spotify.com/album/6CKW0QNls4HN8xkgMmWqeH) | 3:16 | 2026-11-13 |  |
 | [Rain \(Acoustic Version\)](https://open.spotify.com/track/1cSiGZuT6GIndL0RQhOeLz) | [Amelia Earnshaw](https://open.spotify.com/artist/1eafCvcMewyKKxAW0cxbtK) | [Rain \(Acoustic Version\)](https://open.spotify.com/album/0qwneIXclosOC2FZTkVAaL) | 4:38 | 2026-05-12 | 2026-07-03 |
 | [Rain On My Window](https://open.spotify.com/track/2viSWZk7ZdYPrLubu3KS0d) | [Consorcio Humano](https://open.spotify.com/artist/6pzNibk8eE0etGvSTW8rjI) | [Rain On My Window](https://open.spotify.com/album/5bEZuimmCYJutBzJ5cCrZe) | 4:10 | 2026-09-17 |  |
 | [Rainy Night](https://open.spotify.com/track/2AuO23FzSXxrnhrZ9jriKE) | [The Inked Path](https://open.spotify.com/artist/6mH0wRSH6wrNnG2K0YSWnM) | [Rainy Night](https://open.spotify.com/album/0THtbTaSYoMWvxTfVC3Ui1) | 3:43 | 2026-02-27 | 2026-07-19 |
@@ -1445,7 +1448,6 @@
 | [The Night King](https://open.spotify.com/track/5B0DwY2VIX18JorYc9K5bq) | [Andora Mercury](https://open.spotify.com/artist/7HrxL4YrxURFDDfTVNhh35) | [The Night King](https://open.spotify.com/album/2IsPWKKBYD1sa1S9Tm54xq) | 5:26 | 2026-10-07 | 2026-11-12 |
 | [The One](https://open.spotify.com/track/6mxtqYfKuCLfkNM6WGFwSg) | [The Thundercracks](https://open.spotify.com/artist/7ASdBF3BAerPO7pd4KEs1I) | [The One](https://open.spotify.com/album/7bsjk3OfWA7E3chARN0s6W) | 3:42 | 2026-11-04 |  |
 | [The One I Want Beside Me](https://open.spotify.com/track/4EtCyjZQCF2fxV6eKYxXXH) | [Solo el Malo](https://open.spotify.com/artist/6zInnYXXcyniz3JBivUoX8) | [The One I Want Beside Me](https://open.spotify.com/album/6k3PoNmrxC5o2gYpjvFm6b) | 3:51 | 2026-03-02 | 2026-03-25 |
-| [The One I'll Chase](https://open.spotify.com/track/4jdy5vik2IOkbTSNXOVNwQ) | [VrginVeinz](https://open.spotify.com/artist/64fmTLGcnTv4hohdOUDE1z) | [The One I'll Chase](https://open.spotify.com/album/4OpeEfUpts0oLEt9gvC2P7) | 1:34 | 2026-11-06 |  |
 | [The Only Path](https://open.spotify.com/track/6UujZvpE9Zi6lXV7Ndi1HH) | [Mike Power](https://open.spotify.com/artist/6o38TL7BKpRI2FF4ohlo6b) | [The Only Path](https://open.spotify.com/album/5C4yZxHiPHcXi1jwHgQkPw) | 3:04 | 2026-01-06 | 2026-02-03 |
 | [The Pink Burger Bar \(Part 2\)](https://open.spotify.com/track/7IX0NcCDjMc3zqkNAHkw1O) | [Douglas & The World](https://open.spotify.com/artist/2tNqnVreooduKUtEidhIFV) | [The Good Old Days \(A Rock 'N' Roll Story\)](https://open.spotify.com/album/5cGl6Se6BNFjkuBarUWsOw) | 8:04 | 2026-02-24 | 2026-03-25 |
 | [The Pink Burger Bar Part 1 \- Live](https://open.spotify.com/track/1fQjUPXzIhec1KRHTt4tNP) | [Douglas & The World](https://open.spotify.com/artist/2tNqnVreooduKUtEidhIFV), [Cool Banana](https://open.spotify.com/artist/3tIcxAObVuYpR4e13MbMQZ) | [The Pink Burger Bar Part 1 \(Live\)](https://open.spotify.com/album/1ha0hQ0qBFnnCAi6tzdWmY) | 2:41 | 2026-02-24 | 2026-03-25 |

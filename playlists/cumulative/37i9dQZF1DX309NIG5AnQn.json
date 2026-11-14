@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "Colisiones",
+        "url": "https://open.spotify.com/album/6hwhbiC8kypxmMkCiNdVfm"
+      },
+      "artists": [
+        {
+          "name": "Clamor",
+          "url": "https://open.spotify.com/artist/4LbaOuP0EEYLfOLQczfBLV"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218444,
+      "name": "100 A\u00f1os",
+      "url": "https://open.spotify.com/track/29LbnjGVnc4Tt3rooYfoTs"
+    },
+    {
+      "album": {
         "name": "Estr\u00e9s y alucinaciones",
         "url": "https://open.spotify.com/album/56QO5e29vGQoeZts6U2Ivf"
       },

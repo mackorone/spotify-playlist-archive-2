@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dd5WKvvHTC.md) - [plain]
 
 > Highlighting key releases from this month's most exciting songwriters from around the globe\. Cover: <a href="spotify:artist:66W9LaWS0DPdL7Sz8iYGYe">JP Saxe</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,268 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,316 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dd5WKvvHTC.md) - [plain]
 | 20 | [Glory.](https://open.spotify.com/track/6m62fFIsk7uJ5tRYMtwSjc) | [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw) | [Kill Me or Kiss Me](https://open.spotify.com/album/09bfaKKmZ80yDefSb2DY1r) | 4:20 |
 | 21 | [Sick of Loving You](https://open.spotify.com/track/6yyH9oyj4A2TBx6TSeL7bb) | [Elvie Shane](https://open.spotify.com/artist/2eIB6vFotL2su94z3pUC1j) | [With the Wind](https://open.spotify.com/album/7BXThXP8RR7gltLp3N3PCU) | 4:54 |
 | 22 | [The Sea Has No Mercy](https://open.spotify.com/track/1qryU8ghsLlVQSbNDaEN3u) | [Bernie Taupin](https://open.spotify.com/artist/5lzPV4EKWYxEUk38UcFBVH) | [The Sea Has No Mercy](https://open.spotify.com/album/34mtQ5nXrnNEHiSzWFiFOg) | 3:57 |
-| 23 | [C'mon Caroline](https://open.spotify.com/track/04KeNT4krk7FCBoGV1j1jh) | [GRANT](https://open.spotify.com/artist/6SkVKlAmIWVD0LQvCGQqSj) | [C'mon Caroline](https://open.spotify.com/album/7ocOBer43mULvqsTrET2Ng) | 3:15 |
+| 23 | [C'mon Caroline](https://open.spotify.com/track/04KeNT4krk7FCBoGV1j1jh) | [Grant](https://open.spotify.com/artist/6SkVKlAmIWVD0LQvCGQqSj) | [C'mon Caroline](https://open.spotify.com/album/7ocOBer43mULvqsTrET2Ng) | 3:15 |
 | 24 | [amazing! \(feat\. ELEVATION RHYTHM\)](https://open.spotify.com/track/5TsYZ7fVY9MuMJkZUNoay5) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8), [Josiah Queen](https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2) | [Damascus Road](https://open.spotify.com/album/4X7OVZ40bdXlArLiO2PYUY) | 4:22 |
 | 25 | [Are You Up Yet?](https://open.spotify.com/track/3G7OZskk8yC1tw4vO5ces7) | [Kathryn Gallagher](https://open.spotify.com/artist/3ih5Zv6GiMsezuTQy6zflD) | [Are You Up Yet?](https://open.spotify.com/album/0S7B7dn81lfZQKCduaEKC8) | 3:13 |
 | 26 | [guilty conscience](https://open.spotify.com/track/5Nn97O6u3DXa7JXeraF1ui) | [Savanna Leigh](https://open.spotify.com/artist/056C8IrJo00DfazBdLIiLt) | [guilty conscience](https://open.spotify.com/album/5FkDGe9NbBH4EeMsfBylBb) | 2:56 |

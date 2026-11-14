@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-12",
-  "description": "This week's top new releases, including Domiziana, DJ Heartstring, SDM, LEA & many more!",
+  "description": "This week's top new releases, including Domiziana, DJ HEARTSTRING, SDM, LEA & many more!",
   "name": "New Music Friday Switzerland",
   "tracks": [
     {
@@ -55359,52 +55359,6 @@
     },
     {
       "album": {
-        "name": "BLACK",
-        "url": "https://open.spotify.com/album/0znAfPvrcIevD306b2QHkr"
-      },
-      "artists": [
-        {
-          "name": "Bantu Nation",
-          "url": "https://open.spotify.com/artist/0gue1dxQtQ28unbf9Z0x2f"
-        },
-        {
-          "name": "Nu51",
-          "url": "https://open.spotify.com/artist/1lAMEytqWfuvgQ8jyz8TWH"
-        },
-        {
-          "name": "G-Mac",
-          "url": "https://open.spotify.com/artist/3anm80VRRBU2mYBKvGQfoL"
-        },
-        {
-          "name": "Des",
-          "url": "https://open.spotify.com/artist/74rrdc9h8enZI0681hjxeJ"
-        },
-        {
-          "name": "Jazeek",
-          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
-        },
-        {
-          "name": "Luciano",
-          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
-        },
-        {
-          "name": "reezy",
-          "url": "https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q"
-        },
-        {
-          "name": "THIZZY52",
-          "url": "https://open.spotify.com/artist/1dVKBw8iMPpS1almxwIVI3"
-        }
-      ],
-      "date_added": "2026-11-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 173857,
-      "name": "BLACK",
-      "url": "https://open.spotify.com/track/4zd9RlMM0M43UE0ZoRFH6h"
-    },
-    {
-      "album": {
         "name": "Black",
         "url": "https://open.spotify.com/album/3Qtj7PJlxPZsdWLqIW1I8d"
       },
@@ -55504,6 +55458,52 @@
       "duration_ms": 208960,
       "name": "black & white",
       "url": "https://open.spotify.com/track/0j2l3sf15o9vczIATwA3Xr"
+    },
+    {
+      "album": {
+        "name": "BLACK (feat. Jazeek, Luciano, THIZZY52, reezy)",
+        "url": "https://open.spotify.com/album/0znAfPvrcIevD306b2QHkr"
+      },
+      "artists": [
+        {
+          "name": "Bantu Nation",
+          "url": "https://open.spotify.com/artist/0gue1dxQtQ28unbf9Z0x2f"
+        },
+        {
+          "name": "Nu51",
+          "url": "https://open.spotify.com/artist/1lAMEytqWfuvgQ8jyz8TWH"
+        },
+        {
+          "name": "G-Mac",
+          "url": "https://open.spotify.com/artist/3anm80VRRBU2mYBKvGQfoL"
+        },
+        {
+          "name": "Des",
+          "url": "https://open.spotify.com/artist/74rrdc9h8enZI0681hjxeJ"
+        },
+        {
+          "name": "Jazeek",
+          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
+        },
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        },
+        {
+          "name": "reezy",
+          "url": "https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q"
+        },
+        {
+          "name": "THIZZY52",
+          "url": "https://open.spotify.com/artist/1dVKBw8iMPpS1almxwIVI3"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173857,
+      "name": "BLACK (feat. Jazeek, Luciano, THIZZY52, reezy)",
+      "url": "https://open.spotify.com/track/4zd9RlMM0M43UE0ZoRFH6h"
     },
     {
       "album": {
@@ -479278,7 +479278,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 169759,
-      "name": "Why Not (feat. Quavo & Loe Shimmy)",
+      "name": "Why Not? (feat. Quavo & Loe Shimmy)",
       "url": "https://open.spotify.com/track/3ag3REuwHRHF8kYQffQ8pn"
     },
     {

@@ -829,6 +829,24 @@
     },
     {
       "album": {
+        "name": "Sing Big",
+        "url": "https://open.spotify.com/album/4yucTpIyfasr8q8kLACiZ7"
+      },
+      "artists": [
+        {
+          "name": "Tessa Violet",
+          "url": "https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203988,
+      "name": "Sing Big",
+      "url": "https://open.spotify.com/track/2dTrRWDUzEnAXg1ksJo8Pe"
+    },
+    {
+      "album": {
         "name": "Maybe Trapped Mostly Troubled (Deluxe)",
         "url": "https://open.spotify.com/album/0xkFrvLpgFXodg2fam7loE"
       },

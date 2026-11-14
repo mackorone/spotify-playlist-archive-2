@@ -1,12 +1,12 @@
 {
   "description": "This is Alexander Stewart. The essential tracks, all in one playlist.",
-  "num_followers": 37874,
+  "num_followers": 37881,
   "original_name": "This Is Alexander Stewart",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avOwAAAAAACbWa7Neyz6MnyWlrkv0b1m",
+  "snapshot_id": "avUBgAAAAAAjVvQD6EzMIYdIoAWcfDXJ",
   "tracks": [
     {
       "added_at": null,
@@ -119,6 +119,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Halo",
+        "url": "https://open.spotify.com/album/2dh9A1fIhtW9ggbd1nvDTL"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "duration_ms": 161430,
+      "name": "Halo",
+      "url": "https://open.spotify.com/track/2hm2rOLMUE0O9Zvsp9mISa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "What If?",
         "url": "https://open.spotify.com/album/3NQLzsml2l8kwASLKj3Av5"
       },
@@ -135,8 +151,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "Halo",
-        "url": "https://open.spotify.com/album/2dh9A1fIhtW9ggbd1nvDTL"
+        "name": "Missing Piece",
+        "url": "https://open.spotify.com/album/3ISKoozRNGwImVBOrOYw6R"
+      },
+      "artists": [
+        {
+          "name": "Frank Walker",
+          "url": "https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq"
+        },
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "duration_ms": 168750,
+      "name": "Missing Piece",
+      "url": "https://open.spotify.com/track/0cnx25C8BdsEEumqvzXjAF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "bleeding heart",
+        "url": "https://open.spotify.com/album/53eFX3b6OFPpKi2SEkS0au"
       },
       "artists": [
         {
@@ -144,9 +180,9 @@
           "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
         }
       ],
-      "duration_ms": 161430,
-      "name": "Halo",
-      "url": "https://open.spotify.com/track/2hm2rOLMUE0O9Zvsp9mISa"
+      "duration_ms": 162146,
+      "name": "if you only knew",
+      "url": "https://open.spotify.com/track/3xbvoHRRmgl2VJJ6vo5F4y"
     },
     {
       "added_at": null,
@@ -171,22 +207,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "bleeding heart",
-        "url": "https://open.spotify.com/album/53eFX3b6OFPpKi2SEkS0au"
-      },
-      "artists": [
-        {
-          "name": "Alexander Stewart",
-          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
-        }
-      ],
-      "duration_ms": 162146,
-      "name": "if you only knew",
-      "url": "https://open.spotify.com/track/3xbvoHRRmgl2VJJ6vo5F4y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "What If?",
         "url": "https://open.spotify.com/album/3NQLzsml2l8kwASLKj3Av5"
       },
@@ -199,26 +219,6 @@
       "duration_ms": 171760,
       "name": "The Way a Heart Breaks",
       "url": "https://open.spotify.com/track/0Bu17sNQtoxhPITYpxdblf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Missing Piece",
-        "url": "https://open.spotify.com/album/3ISKoozRNGwImVBOrOYw6R"
-      },
-      "artists": [
-        {
-          "name": "Frank Walker",
-          "url": "https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq"
-        },
-        {
-          "name": "Alexander Stewart",
-          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
-        }
-      ],
-      "duration_ms": 168750,
-      "name": "Missing Piece",
-      "url": "https://open.spotify.com/track/0cnx25C8BdsEEumqvzXjAF"
     },
     {
       "added_at": null,
@@ -287,22 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "House of Cards",
-        "url": "https://open.spotify.com/album/278AZLs8DAqE2hldJ8pw41"
-      },
-      "artists": [
-        {
-          "name": "Alexander Stewart",
-          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
-        }
-      ],
-      "duration_ms": 214285,
-      "name": "House of Cards",
-      "url": "https://open.spotify.com/track/1QNt0bhIXWu5XdlXlYI4iI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Life at First Sight",
         "url": "https://open.spotify.com/album/7pQfFjGdIT73op3XXM6G7J"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 201400,
       "name": "Life at First Sight",
       "url": "https://open.spotify.com/track/54TAOgQWiq0jBDZ1D5F8vC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "House of Cards",
+        "url": "https://open.spotify.com/album/278AZLs8DAqE2hldJ8pw41"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "duration_ms": 214285,
+      "name": "House of Cards",
+      "url": "https://open.spotify.com/track/1QNt0bhIXWu5XdlXlYI4iI"
     },
     {
       "added_at": null,
@@ -383,22 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "bleeding heart",
-        "url": "https://open.spotify.com/album/53eFX3b6OFPpKi2SEkS0au"
-      },
-      "artists": [
-        {
-          "name": "Alexander Stewart",
-          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "easier said than done",
-      "url": "https://open.spotify.com/track/69AC7cGZsxkhjmY0spltqi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Filing for Love (Original Television Soundtrack) Pt.2",
         "url": "https://open.spotify.com/album/75h2R18FDmCQW7WDF5Q5Rw"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 207000,
       "name": "Home",
       "url": "https://open.spotify.com/track/3lkGPWPtEXbI691YLJyJnv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "bleeding heart",
+        "url": "https://open.spotify.com/album/53eFX3b6OFPpKi2SEkS0au"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "easier said than done",
+      "url": "https://open.spotify.com/track/69AC7cGZsxkhjmY0spltqi"
     },
     {
       "added_at": null,
@@ -447,22 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "bleeding heart",
-        "url": "https://open.spotify.com/album/53eFX3b6OFPpKi2SEkS0au"
-      },
-      "artists": [
-        {
-          "name": "Alexander Stewart",
-          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
-        }
-      ],
-      "duration_ms": 150866,
-      "name": "how dare you",
-      "url": "https://open.spotify.com/track/2O1jcUYVAHZLF7ihpWUENI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "birthday cake (duet)",
         "url": "https://open.spotify.com/album/6G3MPHbJfxqlNCC5VB6e3k"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 205280,
       "name": "birthday cake (duet)",
       "url": "https://open.spotify.com/track/5XgX3fuwz4BumeRyzQKW0S"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "bleeding heart",
+        "url": "https://open.spotify.com/album/53eFX3b6OFPpKi2SEkS0au"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "duration_ms": 150866,
+      "name": "how dare you",
+      "url": "https://open.spotify.com/track/2O1jcUYVAHZLF7ihpWUENI"
     },
     {
       "added_at": null,
@@ -576,9 +576,9 @@
           "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
         }
       ],
-      "duration_ms": 167586,
-      "name": "october",
-      "url": "https://open.spotify.com/track/65MVDci6jCmNj55alfHx3E"
+      "duration_ms": 155066,
+      "name": "drunk thought",
+      "url": "https://open.spotify.com/track/0LDgdxnp94Ut3f5d4Yxzcb"
     },
     {
       "added_at": null,
@@ -644,9 +644,25 @@
           "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
         }
       ],
-      "duration_ms": 155066,
-      "name": "drunk thought",
-      "url": "https://open.spotify.com/track/0LDgdxnp94Ut3f5d4Yxzcb"
+      "duration_ms": 167586,
+      "name": "october",
+      "url": "https://open.spotify.com/track/65MVDci6jCmNj55alfHx3E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "This Is Your Life",
+        "url": "https://open.spotify.com/album/1HKJnTZ2cEEE6ufiKTwzwP"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "duration_ms": 155998,
+      "name": "This Is Your Life",
+      "url": "https://open.spotify.com/track/6wC22rOiOSbpwiAxAxG0kP"
     },
     {
       "added_at": null,
@@ -679,22 +695,6 @@
       "duration_ms": 193400,
       "name": "i wish you cheated (acoustic)",
       "url": "https://open.spotify.com/track/2PWe35jhtzmXp2y1862ApF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "This Is Your Life",
-        "url": "https://open.spotify.com/album/1HKJnTZ2cEEE6ufiKTwzwP"
-      },
-      "artists": [
-        {
-          "name": "Alexander Stewart",
-          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
-        }
-      ],
-      "duration_ms": 155998,
-      "name": "This Is Your Life",
-      "url": "https://open.spotify.com/track/6wC22rOiOSbpwiAxAxG0kP"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 
 > only the best tech house &amp; house music
 
-[tech house heaters](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 16,266 likes - 59 songs - 3 hr 10 min
+[tech house heaters](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 16,268 likes - 62 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,5 +67,8 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 | 57 | [Back Of The Club](https://open.spotify.com/track/2Ie88Tx1XaF90bbBNoBffE) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [Back Of The Club](https://open.spotify.com/album/1nt8qzP1zihkI8IPAFZl3M) | 2:51 |
 | 58 | [Substance](https://open.spotify.com/track/0hxRuJTSckYfGv845s7YnB) | [Bessey](https://open.spotify.com/artist/2Y8520emzk5wmRe9zFSVzA) | [Substance](https://open.spotify.com/album/3WZomqlFXocE30Udiw1A6p) | 2:39 |
 | 59 | [Tell Me](https://open.spotify.com/track/4OgX35ylh4OayekGxE1PkE) | [Ammo Avenue](https://open.spotify.com/artist/2Ruz18KUgVaQXSbc6mqdOn), [Chinonegro](https://open.spotify.com/artist/22aMI6KbqOX9MdtGK58fyY) | [Tell Me EP](https://open.spotify.com/album/4HtzthIMpeaEUn7JRlvrz0) | 3:47 |
+| 60 | [The Beat Don't Stop](https://open.spotify.com/track/23GmTTl94yWGjQ62xrji9k) | [KiRKie](https://open.spotify.com/artist/0nPy8OKs5hIlbMQi07euiB) | [The Beat Don't Stop EP](https://open.spotify.com/album/5EwtOlOmpOuGp54Q84UfXG) | 2:42 |
+| 61 | [Shout It Out \(Sorley Remix\)](https://open.spotify.com/track/5HYuav6UtoUoOUQGJcseK6) | [Funk Cartel](https://open.spotify.com/artist/5CTZ9x42i9fZmlzm3AEyX0), [Sorley](https://open.spotify.com/artist/3apneou0OdagGBkXZxmpaj) | [Shout It Out](https://open.spotify.com/album/0RoKRDm1nc3W9TptvtSLuQ) | 2:47 |
+| 62 | [Losing Control](https://open.spotify.com/track/54AprjCZfZlrOOVYVGFjdO) | [Louden](https://open.spotify.com/artist/0dh6ekhgvAz7Kr8ayRuYlr) | [Losing Control](https://open.spotify.com/album/6TgJyl1PdQ5EqxkqZgBf9F) | 3:20 |
 
-Snapshot ID: `AAAo5QXohf1cMJPn1vVVlvruwPEmyDJr`
+Snapshot ID: `AAAo6HWuPLCIuWvZXNh12K0TnJDsV4Ia`

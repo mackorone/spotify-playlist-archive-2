@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Listen to women at full volume\. Cover: The Womack Sisters
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,651 likes - 54 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,652 likes - 54 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 22 | [Make It Out](https://open.spotify.com/track/4AheSnVw03Gilc49ArDskT) | [Showing Teeth](https://open.spotify.com/artist/6NmmsGOQdDqyXlNVA6uGWv) | [A Fate Worse Than Loneliness](https://open.spotify.com/album/05Le7pf7KPD3PzN060P8KM) | 3:29 |
 | 23 | [dance around it](https://open.spotify.com/track/29BOij3pNtniyS00CiQeq3) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [ashley cooke](https://open.spotify.com/album/5vNtvppAHCSsUdI9dBvqEy) | 3:58 |
 | 24 | [Expensive & Difficult](https://open.spotify.com/track/5M2AlK2QmQEgWbtGjj0epX) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [AUDACITY](https://open.spotify.com/album/03QBipeNRLRu3DRb48t6yi) | 2:49 |
-| 25 | [Get Hit](https://open.spotify.com/track/1yH6JkYm9GvAEYysxrcrE3) | [Trim](https://open.spotify.com/artist/1xkEwol8vsfO4m2WP8Dyk9) | [Get Hit](https://open.spotify.com/album/7sSFmJP0EC5o4HqYwYSBch) | 1:54 |
-| 26 | [A Girl Is A Gun](https://open.spotify.com/track/5k6dxhOevSarbZb6KCgTVT) | [Molly Santana](https://open.spotify.com/artist/1zEHBw7xQf0drXZagRkciU) | [A Girl Is A Gun](https://open.spotify.com/album/7BfoT6cWpsK6Qs4udIVuUB) | 2:40 |
-| 27 | [Throw That Money](https://open.spotify.com/track/4QYMDDTvN9aSYAeXjmCv29) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Throw That Money](https://open.spotify.com/album/6xd4OdM21eHL9NXqnFFCSS) | 2:05 |
+| 25 | [A Girl Is A Gun](https://open.spotify.com/track/5k6dxhOevSarbZb6KCgTVT) | [Molly Santana](https://open.spotify.com/artist/1zEHBw7xQf0drXZagRkciU) | [A Girl Is A Gun](https://open.spotify.com/album/7BfoT6cWpsK6Qs4udIVuUB) | 2:40 |
+| 26 | [Throw That Money](https://open.spotify.com/track/4QYMDDTvN9aSYAeXjmCv29) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Throw That Money](https://open.spotify.com/album/6xd4OdM21eHL9NXqnFFCSS) | 2:05 |
+| 27 | [Get Hit](https://open.spotify.com/track/1yH6JkYm9GvAEYysxrcrE3) | [Trim](https://open.spotify.com/artist/1xkEwol8vsfO4m2WP8Dyk9) | [Get Hit](https://open.spotify.com/album/7sSFmJP0EC5o4HqYwYSBch) | 1:54 |
 | 28 | [Take It Off For You](https://open.spotify.com/track/5brhefwMpr2H1E9UaBo3ix) | [Stevie Bill](https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv) | [Take It Off For You](https://open.spotify.com/album/2yumCPc0yEgORe9X6WRlQ7) | 2:36 |
 | 29 | [BANDERA BLANCA](https://open.spotify.com/track/2dxpAO137w9TbVnnN4Roo1) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [BARAJA BENDITA](https://open.spotify.com/album/1B8QJFOcpBeycykDaWttDY) | 3:04 |
 | 30 | [Honest To God](https://open.spotify.com/track/7wtjMjxPbKlWikgmTtO6Dt) | [Franni Cash](https://open.spotify.com/artist/4fxcjHw2RUb4fBwuqHufT1) | [Here I Am](https://open.spotify.com/album/4by63MmBpTRKY8ZbqtGuIh) | 2:59 |
@@ -43,24 +43,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 33 | [gloria!](https://open.spotify.com/track/0JvxCw2L2ChMeVpIfSwvqN) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [gloria!](https://open.spotify.com/album/7lasq7rFh5mygtWV08BOqh) | 3:21 |
 | 34 | [Any Place In Time](https://open.spotify.com/track/0Y72XLGZnYGDeUfFwXvxCS) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [Any Place In Time](https://open.spotify.com/album/4QZDDxKkCBKjpuyasd6Kog) | 3:15 |
 | 35 | [NO CAP](https://open.spotify.com/track/1IMJpWsaVVZ2jq2SjVlr3e) | [KARRAHBOOO](https://open.spotify.com/artist/3vXXs7JjWfPO0YHhDnj4SP) | [NO CAP](https://open.spotify.com/album/73fplZaiXzMcXALbVjAYpN) | 2:21 |
-| 36 | [Hate Her Enough](https://open.spotify.com/track/0oHC9pm1PuEglAIuSByBFD) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [I Love You, or Whatever](https://open.spotify.com/album/5HPRb2tueCP2qFJFbRLHPc) | 2:53 |
-| 37 | [Crucified](https://open.spotify.com/track/1nXjpHh6L97kyDHsQPhdO1) | [Gore.](https://open.spotify.com/artist/29lirphalEtxlf1f8XlGes) | [Crucified](https://open.spotify.com/album/3tIOkJNW020tMZq0zq7D8A) | 3:10 |
+| 36 | [Crucified](https://open.spotify.com/track/1nXjpHh6L97kyDHsQPhdO1) | [Gore.](https://open.spotify.com/artist/29lirphalEtxlf1f8XlGes) | [Crucified](https://open.spotify.com/album/3tIOkJNW020tMZq0zq7D8A) | 3:10 |
+| 37 | [Hate Her Enough](https://open.spotify.com/track/0oHC9pm1PuEglAIuSByBFD) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [I Love You, or Whatever](https://open.spotify.com/album/5HPRb2tueCP2qFJFbRLHPc) | 2:53 |
 | 38 | [Too Much Of A Good Thing](https://open.spotify.com/track/60UGNZlMSAQnNwWVlKS4Ma) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Too Much Of A Good Thing](https://open.spotify.com/album/72fu5cHbVyHCdTRNO3se9x) | 2:53 |
-| 39 | [Shipwrecked](https://open.spotify.com/track/5geDH5qB7P6lT5VJwkcJLa) | [Izzy Escobar](https://open.spotify.com/artist/63iuP8EumHpqaaMKyi0pxO) | [Shipwrecked](https://open.spotify.com/album/64kuUoeQLBnDHWjxUFEwdh) | 3:12 |
+| 39 | [Spin Back](https://open.spotify.com/track/7ufI8oEpE9ScdibU1OMAtK) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Spin Back](https://open.spotify.com/album/2hIV6f9VUhYaKf26ZTuXQH) | 3:12 |
 | 40 | [WYO](https://open.spotify.com/track/7y306i1Fyfzapyo0CbeMRp) | [KARRAHBOOO](https://open.spotify.com/artist/3vXXs7JjWfPO0YHhDnj4SP), [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [NOT DA 2](https://open.spotify.com/album/3Ntu1axGIlTbDhtAWFIeYi) | 2:36 |
-| 41 | [Spin Back](https://open.spotify.com/track/7ufI8oEpE9ScdibU1OMAtK) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Spin Back](https://open.spotify.com/album/2hIV6f9VUhYaKf26ZTuXQH) | 3:12 |
+| 41 | [Shipwrecked](https://open.spotify.com/track/5geDH5qB7P6lT5VJwkcJLa) | [Izzy Escobar](https://open.spotify.com/artist/63iuP8EumHpqaaMKyi0pxO) | [Shipwrecked](https://open.spotify.com/album/64kuUoeQLBnDHWjxUFEwdh) | 3:12 |
 | 42 | [Blood On Our Hands](https://open.spotify.com/track/2gqatintbIk3Y7lz46zpDP) | [Devon Gabriella](https://open.spotify.com/artist/1rfIKfqoygAsxTWBdzVO2i) | [Blood On Our Hands](https://open.spotify.com/album/60BNyDHsaazyoTe2MQ0WQA) | 3:18 |
 | 43 | [Focus](https://open.spotify.com/track/5NUR4ONjlePCP9vFCobUOC) | [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [Mad Big World](https://open.spotify.com/album/5VgEHVAxaBrWLJIkFHHll4) | 2:49 |
 | 44 | [Used To Be](https://open.spotify.com/track/4wj4ogBPevGweczZNtHoZ2) | [Jamie MacDonald](https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4) | [Used To Be](https://open.spotify.com/album/3RYKpZIW82JbMpULEdcxHG) | 3:01 |
-| 45 | [Sorta, kinda](https://open.spotify.com/track/3Upct5fD1ec5RSOqEvJJut) | [OSTON](https://open.spotify.com/artist/4PR77KtW5drJXCsqcyfuzJ) | [Isn't That Sweet?](https://open.spotify.com/album/3wqrUSyblqilEKanMoRpWw) | 3:56 |
-| 46 | [Lovers](https://open.spotify.com/track/1RNQC5wa8N94Go2DUcOzvx) | [Noeline Hofmann](https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW) | [Lovers](https://open.spotify.com/album/3WilUQCyrwSCmiZ0mLZ9yi) | 4:22 |
+| 45 | [Lovers](https://open.spotify.com/track/1RNQC5wa8N94Go2DUcOzvx) | [Noeline Hofmann](https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW) | [Lovers](https://open.spotify.com/album/3WilUQCyrwSCmiZ0mLZ9yi) | 4:22 |
+| 46 | [Sorta, kinda](https://open.spotify.com/track/3Upct5fD1ec5RSOqEvJJut) | [OSTON](https://open.spotify.com/artist/4PR77KtW5drJXCsqcyfuzJ) | [Isn't That Sweet?](https://open.spotify.com/album/3wqrUSyblqilEKanMoRpWw) | 3:56 |
 | 47 | [HURTS LIKE 17](https://open.spotify.com/track/2Uk8qwrNnd17wBBqlB0nX7) | [Julia Campbell](https://open.spotify.com/artist/0WiKqOGwY43CFTWlz23Yud) | [HURTS LIKE 17](https://open.spotify.com/album/2HLSQ2QFP7kJEFYdTVDrKH) | 2:44 |
 | 48 | [LSD \(Love, Sex & Diamonds\)](https://open.spotify.com/track/2Im1SpnilgeC7uSHWC9KzG) | [VANITY](https://open.spotify.com/artist/5pbQSj4OwloGemk4m3w7S7) | [Mascara Masquerade](https://open.spotify.com/album/0pCtKj5fPOStJZqWCLE6t0) | 3:56 |
 | 49 | [8 FEET TALL \(feat\. Rico Nasty\)](https://open.spotify.com/track/2uGyUOy5RSYW5XTe4dlgMu) | [ERISTHEPLANET](https://open.spotify.com/artist/7qrlv2SiNqUaQT7dBuUHn3), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [IT REALLY DO BE THAT DAMN PHONE](https://open.spotify.com/album/2Ot35WxIvKSnluiocFy5gb) | 1:54 |
-| 50 | [Free](https://open.spotify.com/track/18fGxP6u7Nz8IGI2fdcD1D) | [Leslie Perez](https://open.spotify.com/artist/2NUERBKvU6ghDuqmLReybs) | [Free](https://open.spotify.com/album/5K2vTpujgKWvx4qJNYpxYW) | 3:16 |
-| 51 | [Accelerator](https://open.spotify.com/track/7gDi0QqxumuoiZDvjtX4et) | [Kid Sistr](https://open.spotify.com/artist/7ysZTe2PbCTqmC2tE1dpCk) | [Accelerator](https://open.spotify.com/album/5ewq7Et7TBRwMpfe8isABW) | 2:59 |
+| 50 | [Accelerator](https://open.spotify.com/track/7gDi0QqxumuoiZDvjtX4et) | [Kid Sistr](https://open.spotify.com/artist/7ysZTe2PbCTqmC2tE1dpCk) | [Accelerator](https://open.spotify.com/album/5ewq7Et7TBRwMpfe8isABW) | 2:59 |
+| 51 | [Free](https://open.spotify.com/track/18fGxP6u7Nz8IGI2fdcD1D) | [Leslie Perez](https://open.spotify.com/artist/2NUERBKvU6ghDuqmLReybs) | [Free](https://open.spotify.com/album/5K2vTpujgKWvx4qJNYpxYW) | 3:16 |
 | 52 | [Girls' Girl](https://open.spotify.com/track/7xvfHltVDCQblmWf117BLk) | [Catie Turner](https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa), [Sophie Holohan](https://open.spotify.com/artist/4kpaI92KQcPABQj9qxIopw) | [Blue Alchemy](https://open.spotify.com/album/14l4lt67zgEYveD4olBc52) | 2:59 |
-| 53 | [Next to U](https://open.spotify.com/track/5BHJmo8PQScGQA8QygEIfm) | [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme) | [Next to U](https://open.spotify.com/album/6SYQg3WfLlnZujAcxV0eC4) | 2:56 |
-| 54 | [You're So Vain \- Spotify Singles](https://open.spotify.com/track/7sSha1h81udZIjKJgnShkJ) | [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR) | [You're So Vain \- Spotify Singles](https://open.spotify.com/album/1kKcUBgm2zIAirXfgOGzml) | 4:48 |
+| 53 | [You're So Vain \- Spotify Singles](https://open.spotify.com/track/7sSha1h81udZIjKJgnShkJ) | [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR) | [You're So Vain \- Spotify Singles](https://open.spotify.com/album/1kKcUBgm2zIAirXfgOGzml) | 4:48 |
+| 54 | [Next to U](https://open.spotify.com/track/5BHJmo8PQScGQA8QygEIfm) | [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme) | [Next to U](https://open.spotify.com/album/6SYQg3WfLlnZujAcxV0eC4) | 2:56 |
 
 Snapshot ID: `AAAAAMArIRe1/W0j+z/+lTtvC1z6P347`

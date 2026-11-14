@@ -4,7 +4,7 @@
 
 > Sit back &amp; relax to this peaceful list of restful classics\. Perfect for sleep, study, anti anxiety and anti stress &amp; mindfulness.
 
-97 songs - 5 hr 8 min
+98 songs - 5 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Debussy: Arabesque No\. 1](https://open.spotify.com/track/6tLObgg6Uzqo0LINIodq0F) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Aurélien Pontier](https://open.spotify.com/artist/0v3FoXQEW6STimjWkCrbTo) | [Debussy: Arabesque No\. 1](https://open.spotify.com/album/6fzX8dIRoNXEyeeLoim7Kh) | 3:30 | 2025-10-16 |  |
 | [Debussy: Rêverie, CD 76, L\. 68](https://open.spotify.com/track/0PO9GJ0lOcJeA3Nv60BelK) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Shani Diluka](https://open.spotify.com/artist/3QFnDCL9APB7hCVnSb0a73) | [The Proust Album \- Debussy: Rêverie](https://open.spotify.com/album/7d5VSPSshcqcYx8CVEyipv) | 3:53 | 2025-10-16 |  |
 | [Desplat: Girl with a Pearl Earring](https://open.spotify.com/track/6OHaWxG6PcMend1woo03WW) | [Alexandre Desplat](https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0), [Emmanuel Pahud](https://open.spotify.com/artist/6duaKoFWgzQNgHlfmn3dHq), [Orchestre national de France](https://open.spotify.com/artist/5UFYrc7bnGpaojNag3Bv8M) | [Airlines \- Girl with a Pearl Earring](https://open.spotify.com/album/1YKJyiTaAJqiZ5eXqDw7TI) | 7:26 | 2025-10-16 |  |
-| [Dvorak \- Theme from Largo of "The New World Symphony"](https://open.spotify.com/track/1HdR3nT5nehBD1MoCP0bl7) | [Joshua Leeds](https://open.spotify.com/artist/575iVccJswn9G8quswWP80) | [Relax and De\-Stress](https://open.spotify.com/album/6HoEHN2cE9F2p9Ie6h8ccs) | 5:00 | 2026-07-02 |  |
+| [Dvorak \- Theme from Largo of "The New World Symphony"](https://open.spotify.com/track/1HdR3nT5nehBD1MoCP0bl7) | [Joshua Leeds](https://open.spotify.com/artist/4vEJJgrZOIidAvaUVckIWq) | [Relax and De\-Stress](https://open.spotify.com/album/6HoEHN2cE9F2p9Ie6h8ccs) | 5:00 | 2026-07-02 |  |
 | [Echoes](https://open.spotify.com/track/2PYyoWPyuO5DbEIsMDGLDs) | [Olexandr Ignatov](https://open.spotify.com/artist/5N4JPCILHmKjyrhr97DOpG) | [Echoes](https://open.spotify.com/album/1nAxhkUmDivcwWH4wx1JSg) | 2:24 | 2026-01-12 |  |
 | [Einaudi: I giorni](https://open.spotify.com/track/2UvpD4YYxCi27MlwDy1kvs) | [Dalal](https://open.spotify.com/artist/1ZNA8vzdCn3mKSUSPkCkRJ) | [Einaudi: I giorni](https://open.spotify.com/album/3D5DFh4FC3IpIEfNwV0JkS) | 6:58 | 2025-10-16 |  |
 | [Elgar: Chanson du matin, Op\. 15](https://open.spotify.com/track/4tqF26fdxfA1njENNp6Q1m) | [Edward Elgar](https://open.spotify.com/artist/430byzy0c5bPn5opiu0SRd), [Renaud Capuçon](https://open.spotify.com/artist/6ttz1LgWFVgRiNDOjtDb2L) | [Un violon à Paris](https://open.spotify.com/album/1lZyDr7mP2qj6jTl8kj9US) | 2:31 | 2025-10-16 |  |
@@ -94,6 +94,7 @@
 | [The Book of Sounds: Part 10 \(Single Version\)](https://open.spotify.com/track/7c97v6NzryakfMndVbGaGm) | [Hans Otte](https://open.spotify.com/artist/5MS1W3dYe51MSv2tKSwnyt), [Carlos Cipa](https://open.spotify.com/artist/23Yv6j1axUmPPo5M6u6erO) | [The Book of Sounds: Part 10](https://open.spotify.com/album/53IAVcLLTi7TL8oOQPnlOi) | 4:31 | 2025-10-16 |  |
 | [The Earth Cries](https://open.spotify.com/track/3kFkE1ZgjbTibr8RdwzuCH) | [Ron Adelaar](https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u) | [The Earth Cries](https://open.spotify.com/album/0bMMczD8dDDD4RdH9yTqfh) | 2:06 | 2025-10-16 |  |
 | [The youth in me](https://open.spotify.com/track/11mQ8chWxC1fIbtFw8uxgi) | [Lisa Kriegler](https://open.spotify.com/artist/5Mt0AabvbSZtBXNPhfMBik) | [The youth in me](https://open.spotify.com/album/4OjN9UkitFZyAy9vIf6Ene) | 2:22 | 2025-10-16 | 2026-04-03 |
+| [There Was A Time](https://open.spotify.com/track/1cHLcBlrBUbV1xrkz5s2Fc) | [James Quinn](https://open.spotify.com/artist/5snx16ErkhOi5bNc2mLx5V) | [There Was A Time](https://open.spotify.com/album/67iET3sxFlFwtKSAHFuYij) | 1:58 | 2026-11-13 |  |
 | [Today Is Enough](https://open.spotify.com/track/5wMVbKzxli5cq0myZbBPrS) | [Brock Hewitt: Stories in Sound](https://open.spotify.com/artist/1PWCCcjCmwzjYb48VWpGcm) | [Today Is Enough](https://open.spotify.com/album/4lSAqj1PhA2xKVHvEjSi8z) | 2:36 | 2026-07-02 |  |
 | [Together Tonight \- Prelude](https://open.spotify.com/track/7FS4Jmt8UlDeRnktrdX5Q4) | [Brian Culbertson](https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE) | [Nice & Slow](https://open.spotify.com/album/1ERiUM1WyCUWEu3gnEzKRM) | 0:36 | 2026-07-02 |  |
 | [Truth And Context](https://open.spotify.com/track/1OQUnqwqgYCLVloQM1XqNG) | [Michel Haspeslagh](https://open.spotify.com/artist/3pBbMbMr7qdCr9OA3hasPl) | [Truth And Context](https://open.spotify.com/album/20IbKSpf5XNPuNmEyKlSbZ) | 2:18 | 2025-10-16 |  |

@@ -1,12 +1,12 @@
 {
   "description": "El don de cantar y componer, una playlist llena de talento. Foto: Kiko Veneno.",
-  "num_followers": 354451,
+  "num_followers": 354447,
   "original_name": "Cantautores",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFEA3D1et573a/5A8+TgLX1zkrB4",
+  "snapshot_id": "AAAAANjhVXKuw8W0D6HlnDurMmmcGh1a",
   "tracks": [
     {
       "added_at": "2026-11-05 23:00:14",
@@ -687,22 +687,6 @@
     {
       "added_at": "2026-11-05 23:00:14",
       "album": {
-        "name": "Logo",
-        "url": "https://open.spotify.com/album/571r33emaklRI3YlPioelt"
-      },
-      "artists": [
-        {
-          "name": "Kevin Johansen",
-          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
-        }
-      ],
-      "duration_ms": 244933,
-      "name": "Anoche So\u00f1\u00e9 Contigo",
-      "url": "https://open.spotify.com/track/1cqlBqJC2FL38DYTXgvQIW"
-    },
-    {
-      "added_at": "2026-11-05 23:00:14",
-      "album": {
         "name": "Peces de Ciudad (feat. Pablo L\u00f3pez)",
         "url": "https://open.spotify.com/album/1z62EMbonbN8m5fjpzT9cn"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 390861,
       "name": "Peces de Ciudad (feat. Pablo L\u00f3pez)",
       "url": "https://open.spotify.com/track/7sLYuvEf4lqz6zSnjYBkkP"
+    },
+    {
+      "added_at": "2026-11-05 23:00:14",
+      "album": {
+        "name": "Logo",
+        "url": "https://open.spotify.com/album/571r33emaklRI3YlPioelt"
+      },
+      "artists": [
+        {
+          "name": "Kevin Johansen",
+          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
+        }
+      ],
+      "duration_ms": 244933,
+      "name": "Anoche So\u00f1\u00e9 Contigo",
+      "url": "https://open.spotify.com/track/1cqlBqJC2FL38DYTXgvQIW"
     },
     {
       "added_at": "2026-11-05 23:00:14",
@@ -835,22 +835,6 @@
     {
       "added_at": "2026-11-05 23:00:14",
       "album": {
-        "name": "Canciones 1980-2009",
-        "url": "https://open.spotify.com/album/07JZVPABSbkGmTHDHDCt6u"
-      },
-      "artists": [
-        {
-          "name": "Antonio Vega",
-          "url": "https://open.spotify.com/artist/0r4YtlmJPQk1xhiVKHuPeF"
-        }
-      ],
-      "duration_ms": 190493,
-      "name": "El sitio de mi recreo",
-      "url": "https://open.spotify.com/track/2tkMVjFwDzUCG3ulmz3fCb"
-    },
-    {
-      "added_at": "2026-11-05 23:00:14",
-      "album": {
         "name": "Aire",
         "url": "https://open.spotify.com/album/7F7AQLPetH2wvAUtJAP5Xk"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 256839,
       "name": "Al alba",
       "url": "https://open.spotify.com/track/2g1oUOP1r8DpzXvd1PMafY"
+    },
+    {
+      "added_at": "2026-11-05 23:00:14",
+      "album": {
+        "name": "Canciones 1980-2009",
+        "url": "https://open.spotify.com/album/07JZVPABSbkGmTHDHDCt6u"
+      },
+      "artists": [
+        {
+          "name": "Antonio Vega",
+          "url": "https://open.spotify.com/artist/0r4YtlmJPQk1xhiVKHuPeF"
+        }
+      ],
+      "duration_ms": 190493,
+      "name": "El sitio de mi recreo",
+      "url": "https://open.spotify.com/track/2tkMVjFwDzUCG3ulmz3fCb"
     },
     {
       "added_at": "2026-11-05 23:00:14",
@@ -887,22 +887,6 @@
     {
       "added_at": "2026-11-05 23:00:14",
       "album": {
-        "name": "Un Idiota en el Tejado",
-        "url": "https://open.spotify.com/album/4PYqbbPvcOXoJqmkG4cduA"
-      },
-      "artists": [
-        {
-          "name": "Rupatrupa",
-          "url": "https://open.spotify.com/artist/4NMzrymQlZzpXs0LT3Arei"
-        }
-      ],
-      "duration_ms": 406000,
-      "name": "Un Idiota en el Tejado",
-      "url": "https://open.spotify.com/track/7Hk1PZpVP5IFrmAhEcpjpK"
-    },
-    {
-      "added_at": "2026-11-05 23:00:14",
-      "album": {
         "name": "12 segundos de oscuridad",
         "url": "https://open.spotify.com/album/7CzMD65vBeWb6xRRK9iHgz"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 188106,
       "name": "La vida es m\u00e1s compleja de lo que parece",
       "url": "https://open.spotify.com/track/0KF9s5HhXY9om1zpyo6Uox"
+    },
+    {
+      "added_at": "2026-11-05 23:00:14",
+      "album": {
+        "name": "Un Idiota en el Tejado",
+        "url": "https://open.spotify.com/album/4PYqbbPvcOXoJqmkG4cduA"
+      },
+      "artists": [
+        {
+          "name": "Rupatrupa",
+          "url": "https://open.spotify.com/artist/4NMzrymQlZzpXs0LT3Arei"
+        }
+      ],
+      "duration_ms": 406000,
+      "name": "Un Idiota en el Tejado",
+      "url": "https://open.spotify.com/track/7Hk1PZpVP5IFrmAhEcpjpK"
     },
     {
       "added_at": "2026-11-05 23:00:14",
@@ -999,22 +999,6 @@
     {
       "added_at": "2026-11-05 23:00:14",
       "album": {
-        "name": "Contigo En La Distancia",
-        "url": "https://open.spotify.com/album/7bouBjt8bjfdAHivSZ6hui"
-      },
-      "artists": [
-        {
-          "name": "Pedro Guerra",
-          "url": "https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c"
-        }
-      ],
-      "duration_ms": 115200,
-      "name": "Toda una Vida",
-      "url": "https://open.spotify.com/track/5wQsHNpF6ivosuimPeo7Lo"
-    },
-    {
-      "added_at": "2026-11-05 23:00:14",
-      "album": {
         "name": "B\u00e1sico",
         "url": "https://open.spotify.com/album/29MlnmVjoff9GwJQT9bTka"
       },
@@ -1031,18 +1015,34 @@
     {
       "added_at": "2026-11-05 23:00:14",
       "album": {
-        "name": "\u00bfQui\u00e9n Puso M\u00e1s?",
-        "url": "https://open.spotify.com/album/7zyhfDK83RBHS4eM22OG3G"
+        "name": "Contigo En La Distancia",
+        "url": "https://open.spotify.com/album/7bouBjt8bjfdAHivSZ6hui"
       },
       "artists": [
         {
-          "name": "V\u00edctor Manuel",
-          "url": "https://open.spotify.com/artist/6cFqY5mkBqKqaIYunDg1k8"
+          "name": "Pedro Guerra",
+          "url": "https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c"
         }
       ],
-      "duration_ms": 185826,
-      "name": "Quiero Abrazarte Tanto",
-      "url": "https://open.spotify.com/track/4VBSpxGwGLtgxlsDsuEd1P"
+      "duration_ms": 115200,
+      "name": "Toda una Vida",
+      "url": "https://open.spotify.com/track/5wQsHNpF6ivosuimPeo7Lo"
+    },
+    {
+      "added_at": "2026-11-05 23:00:14",
+      "album": {
+        "name": "Qu\u00e9 bonito",
+        "url": "https://open.spotify.com/album/6YFOEsBJhxOo2T05Y1eJLX"
+      },
+      "artists": [
+        {
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Qu\u00e9 bonito",
+      "url": "https://open.spotify.com/track/20nWXGPfwZuvZfpK1CrF6t"
     },
     {
       "added_at": "2026-11-05 23:00:14",
@@ -1067,18 +1067,18 @@
     {
       "added_at": "2026-11-05 23:00:14",
       "album": {
-        "name": "Qu\u00e9 bonito",
-        "url": "https://open.spotify.com/album/6YFOEsBJhxOo2T05Y1eJLX"
+        "name": "\u00bfQui\u00e9n Puso M\u00e1s?",
+        "url": "https://open.spotify.com/album/7zyhfDK83RBHS4eM22OG3G"
       },
       "artists": [
         {
-          "name": "Valeria Castro",
-          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+          "name": "V\u00edctor Manuel",
+          "url": "https://open.spotify.com/artist/6cFqY5mkBqKqaIYunDg1k8"
         }
       ],
-      "duration_ms": 230000,
-      "name": "Qu\u00e9 bonito",
-      "url": "https://open.spotify.com/track/20nWXGPfwZuvZfpK1CrF6t"
+      "duration_ms": 185826,
+      "name": "Quiero Abrazarte Tanto",
+      "url": "https://open.spotify.com/track/4VBSpxGwGLtgxlsDsuEd1P"
     },
     {
       "added_at": "2026-11-05 23:00:14",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2026-11-05 23:00:14",
       "album": {
-        "name": "Miguel Hernandez",
-        "url": "https://open.spotify.com/album/16CjMJTRsm3KSEgudueP2S"
-      },
-      "artists": [
-        {
-          "name": "Joan Manuel Serrat",
-          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
-        }
-      ],
-      "duration_ms": 171013,
-      "name": "Para la Libertad",
-      "url": "https://open.spotify.com/track/2MbBeecWBAEHAYEC37Gk6s"
-    },
-    {
-      "added_at": "2026-11-05 23:00:14",
-      "album": {
         "name": "Deseos de cosas imposibles",
         "url": "https://open.spotify.com/album/7tD1j4gre4QQaFTCH3MpAk"
       },
@@ -1203,18 +1187,18 @@
     {
       "added_at": "2026-11-05 23:00:14",
       "album": {
-        "name": "Camila / Qu\u00e9 Hay M\u00e1s Grande Que Este Amor",
-        "url": "https://open.spotify.com/album/28bcIOav5nLxZln1mZxPTG"
+        "name": "Miguel Hernandez",
+        "url": "https://open.spotify.com/album/16CjMJTRsm3KSEgudueP2S"
       },
       "artists": [
         {
-          "name": "Teo Planell",
-          "url": "https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4"
+          "name": "Joan Manuel Serrat",
+          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
         }
       ],
-      "duration_ms": 358625,
-      "name": "Qu\u00e9 Hay M\u00e1s Grande Que Este Amor",
-      "url": "https://open.spotify.com/track/2PTJGyZ11tvpfDUUp2enxD"
+      "duration_ms": 171013,
+      "name": "Para la Libertad",
+      "url": "https://open.spotify.com/track/2MbBeecWBAEHAYEC37Gk6s"
     },
     {
       "added_at": "2026-11-05 23:00:14",
@@ -1255,22 +1239,18 @@
     {
       "added_at": "2026-11-05 23:00:14",
       "album": {
-        "name": "Quiero Mejor",
-        "url": "https://open.spotify.com/album/7wMaXdsVI3tW89aZIc7xW1"
+        "name": "Camila / Qu\u00e9 Hay M\u00e1s Grande Que Este Amor",
+        "url": "https://open.spotify.com/album/28bcIOav5nLxZln1mZxPTG"
       },
       "artists": [
         {
-          "name": "Kevin Johansen",
-          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
-        },
-        {
-          "name": "Las Migas",
-          "url": "https://open.spotify.com/artist/6wWp1JO8wL9qEeVV0TRHY3"
+          "name": "Teo Planell",
+          "url": "https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4"
         }
       ],
-      "duration_ms": 183165,
-      "name": "Quiero Mejor",
-      "url": "https://open.spotify.com/track/3LW4vz2fFmhUinOH2t4AR4"
+      "duration_ms": 358625,
+      "name": "Qu\u00e9 Hay M\u00e1s Grande Que Este Amor",
+      "url": "https://open.spotify.com/track/2PTJGyZ11tvpfDUUp2enxD"
     },
     {
       "added_at": "2026-11-05 23:00:14",
@@ -1287,6 +1267,26 @@
       "duration_ms": 442680,
       "name": "Ahora Que Te Encuentro",
       "url": "https://open.spotify.com/track/6hCgPpGpAgV6ExrOj9MGXH"
+    },
+    {
+      "added_at": "2026-11-05 23:00:14",
+      "album": {
+        "name": "Quiero Mejor",
+        "url": "https://open.spotify.com/album/7wMaXdsVI3tW89aZIc7xW1"
+      },
+      "artists": [
+        {
+          "name": "Kevin Johansen",
+          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
+        },
+        {
+          "name": "Las Migas",
+          "url": "https://open.spotify.com/artist/6wWp1JO8wL9qEeVV0TRHY3"
+        }
+      ],
+      "duration_ms": 183165,
+      "name": "Quiero Mejor",
+      "url": "https://open.spotify.com/track/3LW4vz2fFmhUinOH2t4AR4"
     },
     {
       "added_at": "2026-11-05 23:00:14",
@@ -1403,22 +1403,22 @@
     {
       "added_at": "2026-11-05 23:00:14",
       "album": {
-        "name": "Tanto para dar",
-        "url": "https://open.spotify.com/album/5hdBaw1u44rYRsGcASCmVp"
+        "name": "Cuando el R\u00edo Suena...",
+        "url": "https://open.spotify.com/album/6LvauKnko6HIqPHfQLzhOL"
       },
       "artists": [
         {
-          "name": "Meritxell Neddermann",
-          "url": "https://open.spotify.com/artist/59IkSVLk0jDhOyNrXrtpYv"
+          "name": "Rozal\u00e9n",
+          "url": "https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz"
         },
         {
-          "name": "MARO",
-          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
+          "name": "Kevin Johansen",
+          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
         }
       ],
-      "duration_ms": 174225,
-      "name": "Tanto para dar",
-      "url": "https://open.spotify.com/track/259F1hWeGbF7mBDxtBrrS0"
+      "duration_ms": 234743,
+      "name": "Antes De Verte (with Kevin Johansen)",
+      "url": "https://open.spotify.com/track/7btOWcAo8FLUCuhltFlz6v"
     },
     {
       "added_at": "2026-11-05 23:00:14",
@@ -1439,22 +1439,22 @@
     {
       "added_at": "2026-11-05 23:00:14",
       "album": {
-        "name": "Cuando el R\u00edo Suena...",
-        "url": "https://open.spotify.com/album/6LvauKnko6HIqPHfQLzhOL"
+        "name": "Tanto para dar",
+        "url": "https://open.spotify.com/album/5hdBaw1u44rYRsGcASCmVp"
       },
       "artists": [
         {
-          "name": "Rozal\u00e9n",
-          "url": "https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz"
+          "name": "Meritxell Neddermann",
+          "url": "https://open.spotify.com/artist/59IkSVLk0jDhOyNrXrtpYv"
         },
         {
-          "name": "Kevin Johansen",
-          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
+          "name": "MARO",
+          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
         }
       ],
-      "duration_ms": 234743,
-      "name": "Antes De Verte (with Kevin Johansen)",
-      "url": "https://open.spotify.com/track/7btOWcAo8FLUCuhltFlz6v"
+      "duration_ms": 174225,
+      "name": "Tanto para dar",
+      "url": "https://open.spotify.com/track/259F1hWeGbF7mBDxtBrrS0"
     },
     {
       "added_at": "2026-11-05 23:00:14",

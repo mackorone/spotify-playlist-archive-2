@@ -1,6 +1,6 @@
 {
   "description": "Alegr\u00eda para tus ma\u00f1anas. ",
-  "num_followers": 981380,
+  "num_followers": 981375,
   "original_name": "Buen D\u00eda",
   "owner": {
     "name": "Spotify",
@@ -1011,22 +1011,26 @@
     {
       "added_at": "2026-11-05 21:25:44",
       "album": {
-        "name": "Malas Ma\u00f1as",
-        "url": "https://open.spotify.com/album/2ACv05CcHTvW2Bdw8oj0Kh"
+        "name": "Mentira",
+        "url": "https://open.spotify.com/album/0pfzeRGfexQROcWybyxDt6"
       },
       "artists": [
         {
-          "name": "Kenia Os",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
         },
         {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "SOG",
+          "url": "https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD"
         }
       ],
-      "duration_ms": 176760,
-      "name": "Malas Ma\u00f1as",
-      "url": "https://open.spotify.com/track/7aHTMrcc8lme8FFkSwlL3b"
+      "duration_ms": 156631,
+      "name": "Mentira",
+      "url": "https://open.spotify.com/track/06cC0Txd5AoUEX2otETGcs"
     },
     {
       "added_at": "2026-11-05 21:25:44",
@@ -1063,26 +1067,22 @@
     {
       "added_at": "2026-11-05 21:25:44",
       "album": {
-        "name": "Mentira",
-        "url": "https://open.spotify.com/album/0pfzeRGfexQROcWybyxDt6"
+        "name": "Malas Ma\u00f1as",
+        "url": "https://open.spotify.com/album/2ACv05CcHTvW2Bdw8oj0Kh"
       },
       "artists": [
         {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
         },
         {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "SOG",
-          "url": "https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD"
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
         }
       ],
-      "duration_ms": 156631,
-      "name": "Mentira",
-      "url": "https://open.spotify.com/track/06cC0Txd5AoUEX2otETGcs"
+      "duration_ms": 176760,
+      "name": "Malas Ma\u00f1as",
+      "url": "https://open.spotify.com/track/7aHTMrcc8lme8FFkSwlL3b"
     },
     {
       "added_at": "2026-11-05 21:25:44",
@@ -1479,6 +1479,30 @@
     {
       "added_at": "2026-11-05 21:25:44",
       "album": {
+        "name": "BAILAR O MORIR",
+        "url": "https://open.spotify.com/album/1frExSoHTSVKR2Cke2ihIP"
+      },
+      "artists": [
+        {
+          "name": "BOM",
+          "url": "https://open.spotify.com/artist/5px62tDd6w9qqJ90EJigAa"
+        },
+        {
+          "name": "Miranda!",
+          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
+        },
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 145573,
+      "name": "EN ITALIA",
+      "url": "https://open.spotify.com/track/6GLo8QFCRc0cJZdRwYSfrp"
+    },
+    {
+      "added_at": "2026-11-05 21:25:44",
+      "album": {
         "name": "WET DREAMS",
         "url": "https://open.spotify.com/album/0LChGT5a0cKlkVJhRAE2vr"
       },
@@ -1519,30 +1543,6 @@
       "duration_ms": 194727,
       "name": "As\u00ed",
       "url": "https://open.spotify.com/track/5EJiR3xJitCvsVoCf0oDKC"
-    },
-    {
-      "added_at": "2026-11-05 21:25:44",
-      "album": {
-        "name": "BAILAR O MORIR",
-        "url": "https://open.spotify.com/album/1frExSoHTSVKR2Cke2ihIP"
-      },
-      "artists": [
-        {
-          "name": "BOM",
-          "url": "https://open.spotify.com/artist/5px62tDd6w9qqJ90EJigAa"
-        },
-        {
-          "name": "Miranda!",
-          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
-        },
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        }
-      ],
-      "duration_ms": 145573,
-      "name": "EN ITALIA",
-      "url": "https://open.spotify.com/track/6GLo8QFCRc0cJZdRwYSfrp"
     },
     {
       "added_at": "2026-11-05 21:25:44",

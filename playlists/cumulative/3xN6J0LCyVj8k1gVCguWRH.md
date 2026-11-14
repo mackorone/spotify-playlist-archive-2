@@ -4,7 +4,7 @@
 
 > Obama&\#x27;s actual playlist? Nope, just a fan who grouped all his summer song picks into one list\. \(2026, 2024 &amp; 2023 + bonus tracks\) Enjoy!
 
-6,711 songs - 15 day 15 hr 42 min
+6,714 songs - 15 day 15 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -355,7 +355,7 @@
 | [Another Day](https://open.spotify.com/track/17t1CJbvpgpQgoKtxUECe5) | [Kachy\_Wills](https://open.spotify.com/artist/5P7U5UNObRlgisxHCjw4Wh) | [Another Day](https://open.spotify.com/album/6xBpWUXghHBCL4Rg3Yud2U) | 3:19 | 2026-09-16 | 2026-09-27 |
 | [Another Drink](https://open.spotify.com/track/190IjzLs01Y4BKiszBVSIk) | [dezabel](https://open.spotify.com/artist/02qYPfeUvEdhSqLG8ercxJ) | [Another Drink](https://open.spotify.com/album/2mAeaskwXDpkHBpaEGqWor) | 3:06 | 2019-12-16 | 2021-06-20 |
 | [Another Galaxy](https://open.spotify.com/track/0EpP85hoxbDzSJ15dDgTsE) | [publicsoda](https://open.spotify.com/artist/2NVAyHALqWCdcEMDrD7zxw), [Sally Stardust](https://open.spotify.com/artist/06fxTEXGMBU9ynQxBdAn3r), [Sign E](https://open.spotify.com/artist/6h2XsiUvdP6jXF9EzxXf1X) | [Another Galaxy](https://open.spotify.com/album/7gkgtiPuiWiseImjfXWhtJ) | 3:08 | 2023-03-17 | 2023-04-09 |
-| [Another Love](https://open.spotify.com/track/472QKQdZWuuFkzoQ1XOb0A) | [Ivana June](https://open.spotify.com/artist/0uKpC8kiMcqAxihriuu7cP) | [Another Love](https://open.spotify.com/album/7KEQ3ethl1yMn9jTsPnjxQ) | 3:06 | 2026-10-13 |  |
+| [Another Love](https://open.spotify.com/track/472QKQdZWuuFkzoQ1XOb0A) | [Ivana June](https://open.spotify.com/artist/0uKpC8kiMcqAxihriuu7cP) | [Another Love](https://open.spotify.com/album/7KEQ3ethl1yMn9jTsPnjxQ) | 3:06 | 2026-10-13 | 2026-11-14 |
 | [Another Lover](https://open.spotify.com/track/6z4k7IPAWULrxSnDY0kIKZ) | [Joh Chase](https://open.spotify.com/artist/7K2Ko4xHFZjmtM20rUrV6P) | [Another Lover](https://open.spotify.com/album/3h0AoGNgnedGaQmMuIllEU) | 2:55 | 2023-06-23 | 2023-07-14 |
 | [Another Side of Paradise](https://open.spotify.com/track/5OMh3RCJnw4yjTwzONiWac) | [Adam James](https://open.spotify.com/artist/64SgbzDDbzg2dZPZZpmizk), [Steve Stout](https://open.spotify.com/artist/13xgeb7Gr4pPS03s5gcvie) | [Another Side of Paradise](https://open.spotify.com/album/1SSguXEVEQ02ZCbvfmnM4H) | 4:22 | 2024-12-28 | 2025-01-16 |
 | [Another Spring](https://open.spotify.com/track/0ezvj4vHED2rWFfFItOAph) | [Emma Ayzenberg](https://open.spotify.com/artist/4dKpp8jzDVeg4Xoraj6xAL) | [Another Spring](https://open.spotify.com/album/1I2Z4Ygu5hjfxUglpckDEe) | 2:23 | 2026-06-27 | 2026-07-10 |
@@ -810,6 +810,7 @@
 | [Broken](https://open.spotify.com/track/4pyRniHDVjQTgMmuO2g0v9) | [Ian\-Carl](https://open.spotify.com/artist/65AuEMrdDZ9qfUTxdkKwVd) | [Broken](https://open.spotify.com/album/1PBwnGxQyvgUUL09o7fqUG) | 4:15 | 2024-10-18 | 2024-10-30 |
 | [Broken Cards](https://open.spotify.com/track/6kcE8IEcbdjVZAtQw2JV31) | [Jake Blaze](https://open.spotify.com/artist/4pOFCotYldEgrmgT5JzJ1e) | [Broken Cards](https://open.spotify.com/album/6jYQXtehAef4yvn6sAu9H4) | 3:51 | 2025-05-14 | 2025-05-26 |
 | [Broken Heart Diamond Ring](https://open.spotify.com/track/6oBllnn0HGgFJH87mUUwj7) | [Kenny Sharp](https://open.spotify.com/artist/7HL0NItywvJ7qgDfBiIo0E) | [Broken Heart Diamond Ring](https://open.spotify.com/album/6PPeDHupUbrr1HjX3mSOuq) | 2:52 | 2024-11-13 | 2024-11-30 |
+| [BROKEN MACHINE](https://open.spotify.com/track/12GGYI3f9xFYDJlxgZFxyN) | [Julia Kate](https://open.spotify.com/artist/1fIGYGeXGTQXAo1CuW7FaQ) | [BROKEN MACHINE](https://open.spotify.com/album/1Nbc8tveIiMISQsajzeKXn) | 3:36 | 2026-11-13 |  |
 | [broken wïngs](https://open.spotify.com/track/2v4hQFpwsAaww9cdejQEBG) | [BÖBE](https://open.spotify.com/artist/7EDnFpwVQRaREGbgWNzozn) | [poïsoned paradïse](https://open.spotify.com/album/5RMc7t6jHImV8D4jawkgXq) | 3:30 | 2023-02-17 | 2023-03-18 |
 | [Brooklyn Baby](https://open.spotify.com/track/5ZRQsOs28J9L6pwv2WNJRh) | [Don't Believe in Ghosts](https://open.spotify.com/artist/5uLKc9jyRkcyoTNF1JLWe1) | [Brooklyn Baby](https://open.spotify.com/album/6ntm4LThhit6AcJNniegyj) | 2:43 | 2025-08-07 | 2025-08-19 |
 | [Brother](https://open.spotify.com/track/3CeEVNbns845IpQLghLTYl) | [Dino Archon](https://open.spotify.com/artist/3aMxKso1iRRt8RBAymCbuP) | [Brother](https://open.spotify.com/album/1ZEEeHlnROsYni65smnt55) | 4:00 | 2024-11-18 | 2024-11-30 |
@@ -1354,6 +1355,7 @@
 | [Dancing on My Own](https://open.spotify.com/track/65Jh4cVZHinPgvycKW49vt) | [Peter Harper](https://open.spotify.com/artist/4989q1ouh0o3EGOIjrG0sU) | [Dancing on My Own](https://open.spotify.com/album/1zslxlEhLCWrK1a64HmqAb) | 4:18 | 2024-02-23 | 2024-03-08 |
 | [Dancing on the Ceiling](https://open.spotify.com/track/0XvXyY614G3RCk9hMtfjvb) | [Lynndigo](https://open.spotify.com/artist/1AFlJFCgGkFiqjZBtRuZvY) | [Dancing on the Ceiling](https://open.spotify.com/album/3iHDSj1H7GEdFmYlRQZrdy) | 3:50 | 2026-11-01 |  |
 | [Dancing on the Lakes](https://open.spotify.com/track/2Kk9n7u1u7YCWkl1t9olaT) | [aJoy](https://open.spotify.com/artist/7sUU6NR3ToQDBa7FAtyLkW) | [Sleeping in the Meadows](https://open.spotify.com/album/6XBtsD6cQJuOH7jJaQQKIj) | 2:35 | 2022-09-30 | 2022-10-18 |
+| [Dancing with my shadow](https://open.spotify.com/track/6H5dOkRU7f4WXZjDoqjg9K) | [Queen Alana](https://open.spotify.com/artist/6a2ckOz1DJ57zzTwAOKRbO) | [Shattered](https://open.spotify.com/album/7b9sqXENPQbVjMiDYZo5wR) | 2:39 | 2026-11-13 |  |
 | [Dancing With Myself](https://open.spotify.com/track/1BY1Vd2Bt6JPOhMvsIwtVv) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Vital Idol](https://open.spotify.com/album/2PSsUGkAAAnBmUUSNBU6se) | 5:59 | 2024-03-31 | 2024-04-13 |
 | [Dandelion](https://open.spotify.com/track/23QiRcMOf4OjBQ0Hh8AVqe) | [Evan Kreutz](https://open.spotify.com/artist/1dYXOfltl3l3V777TEfdxL) | [Dandelion](https://open.spotify.com/album/6go4Uw7yqpkqLpM7pbFHRR) | 4:00 | 2025-04-16 | 2025-05-04 |
 | [Dandelion](https://open.spotify.com/track/1me23xybekGbQ6IYe3mxbJ) | [Lili Joy](https://open.spotify.com/artist/2JJZDaBBu8qHCKxSXFwMI4) | [Dandelion](https://open.spotify.com/album/6WiX0gdAYHA45hNQuU6khE) | 3:38 | 2021-09-04 | 2021-09-19 |
@@ -1458,6 +1460,7 @@
 | [Die With A Smile](https://open.spotify.com/track/7so0lgd0zP2Sbgs2d7a1SZ) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 4:11 | 2025-03-10 | 2025-12-19 |
 | [Diferente](https://open.spotify.com/track/2RhTb78OPVZ7OrINB6nBBM) | [Richie Playa](https://open.spotify.com/artist/27kSEZqwTeXCXIscSOyyPO) | [Diferente](https://open.spotify.com/album/0GGzDKEqg5LME0K61kOHWg) | 2:27 | 2022-08-12 | 2022-08-28 |
 | [Diff mofo](https://open.spotify.com/track/7A6NQQBVTRkbbVNHHbDwkb) | [Warvet Da Rappa](https://open.spotify.com/artist/7JsTSKgRkTMczmzjuwVUip) | [Diff mofo](https://open.spotify.com/album/3ceYheAJH3sPhe9XUFrVAB) | 1:51 | 2025-01-06 | 2025-01-18 |
+| [Differences](https://open.spotify.com/track/0bD22bytjtNH7xi0QxQkXK) | [Trip Carter](https://open.spotify.com/artist/2bNkF5WGgymQPAqsdyxGH1) | [Elsewhere, USA](https://open.spotify.com/album/3QaJb40ZLNJMaAwStwcckV) | 2:43 | 2026-11-13 |  |
 | [Different](https://open.spotify.com/track/55saUxNm1CTdeGg07ZS7lv) | [Jennifer Denardo](https://open.spotify.com/artist/0QNsXvMHQvoLyRhjzQEYHW) | [Different](https://open.spotify.com/album/5cunPmyWfoooWdHHMABksm) | 4:48 | 2023-09-26 | 2023-12-14 |
 | [Different Life](https://open.spotify.com/track/0d6knUxRwjAoT4BJ3BFz8S) | [Mondelet](https://open.spotify.com/artist/77IVbejK8BNhh02YAR0l1Q) | [Different Life](https://open.spotify.com/album/2AwHsn2n2mcJS9Q5Zl567e) | 3:57 | 2024-12-16 | 2024-12-27 |
 | [Different Man](https://open.spotify.com/track/5tC8QczVpGjP3nZohcyUFv) | [Rooskin](https://open.spotify.com/artist/010wxklenCFtHumkvnpUXg) | [Perpetual Spring](https://open.spotify.com/album/3XMuWYyqoDd0l0IxZ94Ry3) | 2:51 | 2026-04-10 | 2026-05-13 |

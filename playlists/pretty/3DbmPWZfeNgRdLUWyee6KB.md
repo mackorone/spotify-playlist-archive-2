@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new indie music, indie folk &amp; rock discoveries\. Fresh songs for your daily chill, focus and road trips\. Featuring Noah Kahan, Phoebe Bridgers, Sam Fender and top emerging indie artists\. Updated daily with new releases — hit save to stay tuned!
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,336 likes - 104 songs - 6 hr 7 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,337 likes - 106 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 79 | [Tables Turned](https://open.spotify.com/track/1eSTx7137PPWIeIrTzzHPh) | [Stella Maria](https://open.spotify.com/artist/1XVo10kDAKfZbj0V06N20X) | [Tables Turned](https://open.spotify.com/album/41j3h5YJBpiaurwG6PDH5l) | 2:55 |
 | 80 | [Nightbus To Nowhere](https://open.spotify.com/track/7c0wPTH0lS07nuYdMwvizu) | [Black River Ghost](https://open.spotify.com/artist/2judctr0NVnstByT9aSBD2) | [Homeless Hearts and Wandering Minds](https://open.spotify.com/album/5I3EIhLUTnOPHUKQDx4a6K) | 2:34 |
 | 81 | [Waiting](https://open.spotify.com/track/2ynzXArpo0etrRmjEkObNp) | [Margaret's Daughter](https://open.spotify.com/artist/1vhUWZLe5nOcahdd4McuAi) | [Waiting](https://open.spotify.com/album/1oefYEm3ymdIV6VaOS1F42) | 4:16 |
-| 82 | [The One I'll Chase](https://open.spotify.com/track/4jdy5vik2IOkbTSNXOVNwQ) | [VrginVeinz](https://open.spotify.com/artist/64fmTLGcnTv4hohdOUDE1z) | [The One I'll Chase](https://open.spotify.com/album/4OpeEfUpts0oLEt9gvC2P7) | 1:34 |
+| 82 | [No Time](https://open.spotify.com/track/4jdy5vik2IOkbTSNXOVNwQ) | [VrginVeinz](https://open.spotify.com/artist/64fmTLGcnTv4hohdOUDE1z) | [No Time](https://open.spotify.com/album/4OpeEfUpts0oLEt9gvC2P7) | 1:34 |
 | 83 | [Heat](https://open.spotify.com/track/0BIgP3owqZdHqa0tsUhalB) | [ANTON BULAEV](https://open.spotify.com/artist/1zXP0NwrDkuTWeocDEvjIS) | [Heat](https://open.spotify.com/album/1ABqCHr90IAQJgh26ig4Fu) | 3:27 |
 | 84 | [Regen](https://open.spotify.com/track/1SBrhQrbIOaINrCehji9DL) | [Emy´s Puppenlieder](https://open.spotify.com/artist/4Rw58yycqhNe93iyZGRfVs) | [Regen](https://open.spotify.com/album/6MilnacN6UYdly8hMdbfC5) | 2:47 |
 | 85 | [Wrong Side of the Door \- Acoustic](https://open.spotify.com/track/0cEmcV45HxjBOz3T8J8DB0) | [Snawfus Screamers](https://open.spotify.com/artist/7sPAgv3goDwWk4s81fXLwu) | [Wrong Side of the Door \(Acoustic\)](https://open.spotify.com/album/2kztEcTPOatHTaKYozEeNM) | 3:34 |
@@ -112,5 +112,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 102 | [Sacrifice](https://open.spotify.com/track/4qrpNka62WhqHpaCsdlWX7) | [Mudbard](https://open.spotify.com/artist/2O7GYzIURlMiGlVYc7Tvns), [Benedetta](https://open.spotify.com/artist/68sX0S2uF91vR9ALtutsjf) | [Sacrifice](https://open.spotify.com/album/1fhuWUtyCYAtOtXFzMZl3s) | 3:19 |
 | 103 | [Tarde de domingo](https://open.spotify.com/track/0hHQTlF3ULZkigglkmaxeF) | [Lúntika](https://open.spotify.com/artist/5h1l4xnMYLwBs1VF76Dbif) | [Ecléctica: Mi identidad](https://open.spotify.com/album/0cYQOoG1Y2pvgXURFIOt7N) | 3:37 |
 | 104 | [TENERTE](https://open.spotify.com/track/2mq5VG6H0A4Nrq0Nf0GDw7) | [Angel Dz](https://open.spotify.com/artist/1agldgGiabw5qDe00nkdTh) | [TENERTE](https://open.spotify.com/album/2upvwVL1UhgceQjwR79fpC) | 2:15 |
+| 105 | [Raat Ek Baje](https://open.spotify.com/track/1nao54F7nOzPhmhVXvVRxx) | [Samaksh](https://open.spotify.com/artist/1JvSsV27Zvlivwd0j6AtGn) | [Raat Ek Baje](https://open.spotify.com/album/6CKW0QNls4HN8xkgMmWqeH) | 3:16 |
+| 106 | [Final Warning](https://open.spotify.com/track/0cRRjEtOM3NNe8Ckh63ne9) | [CTRL FREQS](https://open.spotify.com/artist/3BV3kbIBpKGLztbqNxuWSv) | [The Switch Up](https://open.spotify.com/album/49fyyvE62sc3lkPumVcmPg) | 3:32 |
 
-Snapshot ID: `AAAZsEacXBRda+gPU0Krw3H5Z57GOoe7`
+Snapshot ID: `AAAZsjOMqzKF3u2ErfoL7XkjI4onb93H`

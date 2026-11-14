@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "50% techno, 50% house \ud83d\udd0a Tech house operators, featuring Bruno Furlan",
+  "description": "50% techno, 50% house \ud83c\udde7\ud83c\uddf7 Tech house operators, featuring Ragie Ban",
   "name": "Tech House Operator",
   "tracks": [
     {
@@ -258,6 +258,24 @@
       "duration_ms": 317464,
       "name": "2 to Go",
       "url": "https://open.spotify.com/track/0cfqqNzKftMco4vjzkKMNo"
+    },
+    {
+      "album": {
+        "name": "2026 Girls EP",
+        "url": "https://open.spotify.com/album/4eWHyguicNjBmsvxBLvWrN"
+      },
+      "artists": [
+        {
+          "name": "Volkoder",
+          "url": "https://open.spotify.com/artist/5SwGFGfUlV6Dan4ygjF5CU"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230625,
+      "name": "2026 Girls",
+      "url": "https://open.spotify.com/track/1RNhur7TI1mZsOMJFvJcFr"
     },
     {
       "album": {
@@ -1070,7 +1088,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 168000,
       "name": "Act Up",
       "url": "https://open.spotify.com/track/6T6OV77EDClmN0SJHqAwR5"
@@ -6820,7 +6838,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 189230,
       "name": "Booty Bang",
       "url": "https://open.spotify.com/track/59FSooGapAZzGZ5cflEufI"
@@ -6944,7 +6962,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 175555,
       "name": "borrowed love (feat. NADIAH)",
       "url": "https://open.spotify.com/track/5q6ED6uWmMoli4B3TdZ6uo"
@@ -17014,7 +17032,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 157500,
       "name": "Energy",
       "url": "https://open.spotify.com/track/3hRaHBTh550CIdgOa3YAeP"
@@ -17208,7 +17226,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 224827,
       "name": "Eternal Rhythm",
       "url": "https://open.spotify.com/track/5kEtRruoS6xW9FmXja36uV"
@@ -17724,6 +17742,24 @@
       "duration_ms": 174677,
       "name": "F*ck",
       "url": "https://open.spotify.com/track/3YpstqktwRasn3mhL2agCe"
+    },
+    {
+      "album": {
+        "name": "F.D.A.U.",
+        "url": "https://open.spotify.com/album/3JDUF7NDfllEfn7GWJXdTF"
+      },
+      "artists": [
+        {
+          "name": "NO STATIC",
+          "url": "https://open.spotify.com/artist/0L0qL52Z7atqrLIw4nOR29"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188534,
+      "name": "F.D.A.U.",
+      "url": "https://open.spotify.com/track/30raKEY04Zev0oWpix9GWc"
     },
     {
       "album": {
@@ -18790,7 +18826,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 193846,
       "name": "Feel This Grip (feat. Baby Tate)",
       "url": "https://open.spotify.com/track/5zdjPqrvUVkF242fY5ZE7Q"
@@ -19909,6 +19945,28 @@
     },
     {
       "album": {
+        "name": "Freak",
+        "url": "https://open.spotify.com/album/2JzTmgEodkdJUPynMRlfaJ"
+      },
+      "artists": [
+        {
+          "name": "Dansyn",
+          "url": "https://open.spotify.com/artist/1VnFvf8K01AoqryDdQzitv"
+        },
+        {
+          "name": "Sam Collins",
+          "url": "https://open.spotify.com/artist/60OCVcCxsNKT3VgR0hnDKx"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192755,
+      "name": "Freak",
+      "url": "https://open.spotify.com/track/4UdjPuj8j8qXg2uVCXZ8t7"
+    },
+    {
+      "album": {
         "name": "FREAK",
         "url": "https://open.spotify.com/album/6F1CskEjdXePcK7JLzyebH"
       },
@@ -20392,6 +20450,24 @@
       "duration_ms": 187251,
       "name": "Freefall (feat. Moxie Knox) - Edit",
       "url": "https://open.spotify.com/track/5imVAY20zvISpCoBuoeqZ2"
+    },
+    {
+      "album": {
+        "name": "Frenchy",
+        "url": "https://open.spotify.com/album/0LIpiTgf5BVA2IxxtMF5cl"
+      },
+      "artists": [
+        {
+          "name": "Novak",
+          "url": "https://open.spotify.com/artist/4RqAxYmN6sJO2Ty0tJ2RMy"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172800,
+      "name": "Frenchy",
+      "url": "https://open.spotify.com/track/6vDxqjDd5hYovexVGcjZvA"
     },
     {
       "album": {
@@ -23204,7 +23280,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 223139,
       "name": "Guest List (feat. Sunbios)",
       "url": "https://open.spotify.com/track/6JCdcoJ6yCxUJ4HIbEo5pY"
@@ -28070,7 +28146,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 182793,
       "name": "It's Time",
       "url": "https://open.spotify.com/track/7DG8JNiVFcBj5cxBw1fUjR"
@@ -31548,6 +31624,32 @@
     {
       "album": {
         "name": "Like That",
+        "url": "https://open.spotify.com/album/3F2OOFA32JsW2CDne7L78o"
+      },
+      "artists": [
+        {
+          "name": "G-POL",
+          "url": "https://open.spotify.com/artist/3O5mszIMh6g6Dt7YlhCIPM"
+        },
+        {
+          "name": "Molchan",
+          "url": "https://open.spotify.com/artist/2dRVtf1SAa62B8LFh1M2qL"
+        },
+        {
+          "name": "LEO VASK",
+          "url": "https://open.spotify.com/artist/59ukGDnYKZFLbJdHj10Hqc"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Like That",
+      "url": "https://open.spotify.com/track/2ZdeWj5ZD70adgaW2ouxS7"
+    },
+    {
+      "album": {
+        "name": "Like That",
         "url": "https://open.spotify.com/album/03u0S5g2JKNNunCU1Z135n"
       },
       "artists": [
@@ -33094,6 +33196,24 @@
       "duration_ms": 376320,
       "name": "Love Poison - Jesse Perez Miami Poison Mix",
       "url": "https://open.spotify.com/track/2KWj43dSjdyyoxLGLOyxeV"
+    },
+    {
+      "album": {
+        "name": "Love Sent",
+        "url": "https://open.spotify.com/album/5IAAoDPfQIvh1WEl3Cuis4"
+      },
+      "artists": [
+        {
+          "name": "Kevin Knapp",
+          "url": "https://open.spotify.com/artist/1qhZdOpfyWk2RbhTCpbAkv"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192755,
+      "name": "Love Sent",
+      "url": "https://open.spotify.com/track/2DfGsKCmW0OTeZ60G0VbJy"
     },
     {
       "album": {
@@ -38302,6 +38422,28 @@
       "duration_ms": 165483,
       "name": "No Fakers",
       "url": "https://open.spotify.com/track/5640SFB4RwuDlIqD5YgibJ"
+    },
+    {
+      "album": {
+        "name": "No Feelings",
+        "url": "https://open.spotify.com/album/1x34VuowLYUSH0MRkLtHhM"
+      },
+      "artists": [
+        {
+          "name": "Draxx (ITA)",
+          "url": "https://open.spotify.com/artist/57QKWHmmY0jb44T2w7ln73"
+        },
+        {
+          "name": "JHAY RHOD",
+          "url": "https://open.spotify.com/artist/0rie5jiyAOzD8ArOo9E5WM"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151384,
+      "name": "No Feelings",
+      "url": "https://open.spotify.com/track/4r1MJQpcpGjEzc44E2VgqV"
     },
     {
       "album": {
@@ -46618,7 +46760,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 170892,
       "name": "Round & Round",
       "url": "https://open.spotify.com/track/58l6WcfGQUVqa84HdrAodB"
@@ -47886,7 +48028,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 227646,
       "name": "Selectah",
       "url": "https://open.spotify.com/track/1EAuIQSAWf5uK0ZR79E6bv"
@@ -49101,6 +49243,24 @@
     },
     {
       "album": {
+        "name": "Shout It Out",
+        "url": "https://open.spotify.com/album/0RoKRDm1nc3W9TptvtSLuQ"
+      },
+      "artists": [
+        {
+          "name": "Funk Cartel",
+          "url": "https://open.spotify.com/artist/5CTZ9x42i9fZmlzm3AEyX0"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210461,
+      "name": "Shout It Out",
+      "url": "https://open.spotify.com/track/5rV2bISx5GQGQBJSHT4Bp2"
+    },
+    {
+      "album": {
         "name": "Show Me",
         "url": "https://open.spotify.com/album/7vB2rUKQk56dRHIQ8i5CT0"
       },
@@ -49514,6 +49674,28 @@
       "duration_ms": 179088,
       "name": "Silence",
       "url": "https://open.spotify.com/track/6WpcKQpHlmnQvzIaduUOkU"
+    },
+    {
+      "album": {
+        "name": "SILK SCARF (Remixes)",
+        "url": "https://open.spotify.com/album/4bSZm6obGz152OEo0vA2mq"
+      },
+      "artists": [
+        {
+          "name": "Tiga",
+          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
+        },
+        {
+          "name": "Broken Hill",
+          "url": "https://open.spotify.com/artist/1hivPylohVo1WNOWyU1zRQ"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231196,
+      "name": "SILK SCARF - Broken Hill Remix",
+      "url": "https://open.spotify.com/track/6yRKwv34j6muyVfL285vaM"
     },
     {
       "album": {
@@ -55769,6 +55951,24 @@
     },
     {
       "album": {
+        "name": "The Siren",
+        "url": "https://open.spotify.com/album/5f4lp6yTenkCLy5Q32uvJB"
+      },
+      "artists": [
+        {
+          "name": "Jordan Peak",
+          "url": "https://open.spotify.com/artist/5Jhhsm26nMbGu8FNOvN3Gk"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163969,
+      "name": "The Siren",
+      "url": "https://open.spotify.com/track/5w15K8GZA9oIetXCtCOfRF"
+    },
+    {
+      "album": {
         "name": "The Sound",
         "url": "https://open.spotify.com/album/55aOqFOHx3O10TU3bYos05"
       },
@@ -57704,6 +57904,24 @@
       "duration_ms": 176791,
       "name": "Tripasia",
       "url": "https://open.spotify.com/track/365aB2RegILTAZqCEgmkUc"
+    },
+    {
+      "album": {
+        "name": "Trippin' In The 16th",
+        "url": "https://open.spotify.com/album/0dB5rqB3rKgpWCkmCIVZZU"
+      },
+      "artists": [
+        {
+          "name": "Ragie Ban",
+          "url": "https://open.spotify.com/artist/7lz52Oe1rAo5DwfSRwFsQL"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "Trippin' In The 16th",
+      "url": "https://open.spotify.com/track/0PT6lC09Xyte5Ljp8sNhyR"
     },
     {
       "album": {
@@ -61613,6 +61831,32 @@
     },
     {
       "album": {
+        "name": "Why You Call",
+        "url": "https://open.spotify.com/album/6dgZGdSomi8n0YCX4CSPzt"
+      },
+      "artists": [
+        {
+          "name": "N2N",
+          "url": "https://open.spotify.com/artist/3ZnVC33s8MBcF0KmAC4rj5"
+        },
+        {
+          "name": "Taylr Renee",
+          "url": "https://open.spotify.com/artist/27feHJH3VKyk8FgOndiWU8"
+        },
+        {
+          "name": "Rob Marion",
+          "url": "https://open.spotify.com/artist/2B1oIKQTFQn04kCW6chegm"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169687,
+      "name": "Why You Call",
+      "url": "https://open.spotify.com/track/4Wxi3LCqhnGeyJfNq3Kk2f"
+    },
+    {
+      "album": {
         "name": "Wild",
         "url": "https://open.spotify.com/album/6r94uELV3McGZfafMAxpSQ"
       },
@@ -61752,7 +61996,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 220000,
       "name": "Witty",
       "url": "https://open.spotify.com/track/6cKNCPypACC3mosprq9VQx"
@@ -61990,7 +62234,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 151841,
       "name": "Work With Me",
       "url": "https://open.spotify.com/track/7eSwXy2etUZ9aqeZ0b3sfl"

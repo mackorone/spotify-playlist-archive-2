@@ -1,6 +1,6 @@
 {
   "description": "Long-shadow roots rock, folk, and Americana. Grit-worn, brooding, and  dark.",
-  "num_followers": 824459,
+  "num_followers": 824496,
   "original_name": "Southern Gothic",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2026-11-13 00:01:01",
       "album": {
-        "name": "John Came Home",
-        "url": "https://open.spotify.com/album/3YIvOJ3c5hOLjzwQ3b9m1p"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Dakota Rogers",
-          "url": "https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL"
-        }
-      ],
-      "duration_ms": 191182,
-      "name": "John Came Home",
-      "url": "https://open.spotify.com/track/1sRCpE1qY3Vlb63907pl82"
-    },
-    {
-      "added_at": "2026-11-13 00:01:01",
-      "album": {
         "name": "Spaces",
         "url": "https://open.spotify.com/album/5EfF28rTF2MACFCf9yVZ1j"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 242266,
       "name": "Sons & Daughters",
       "url": "https://open.spotify.com/track/42r1v4tT0xfteQq0pNMaf9"
+    },
+    {
+      "added_at": "2026-11-13 00:01:01",
+      "album": {
+        "name": "John Came Home",
+        "url": "https://open.spotify.com/album/3YIvOJ3c5hOLjzwQ3b9m1p"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Dakota Rogers",
+          "url": "https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL"
+        }
+      ],
+      "duration_ms": 191182,
+      "name": "John Came Home",
+      "url": "https://open.spotify.com/track/1sRCpE1qY3Vlb63907pl82"
     },
     {
       "added_at": "2026-11-13 00:01:01",
@@ -747,22 +747,6 @@
     {
       "added_at": "2026-11-13 00:01:01",
       "album": {
-        "name": "Two Coats",
-        "url": "https://open.spotify.com/album/1PasnDvFzjSWX1hf14KF6B"
-      },
-      "artists": [
-        {
-          "name": "Robert Plant",
-          "url": "https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y"
-        }
-      ],
-      "duration_ms": 299054,
-      "name": "Two Coats",
-      "url": "https://open.spotify.com/track/4KyTHzNEavebTcUHWxR8Zs"
-    },
-    {
-      "added_at": "2026-11-13 00:01:01",
-      "album": {
         "name": "From Eden EP",
         "url": "https://open.spotify.com/album/0FubRTC6GUFPUg4y2Xuxs0"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 229666,
       "name": "Work Song",
       "url": "https://open.spotify.com/track/5szmwG86IFASvYrca21MEz"
+    },
+    {
+      "added_at": "2026-11-13 00:01:01",
+      "album": {
+        "name": "Two Coats",
+        "url": "https://open.spotify.com/album/1PasnDvFzjSWX1hf14KF6B"
+      },
+      "artists": [
+        {
+          "name": "Robert Plant",
+          "url": "https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y"
+        }
+      ],
+      "duration_ms": 299054,
+      "name": "Two Coats",
+      "url": "https://open.spotify.com/track/4KyTHzNEavebTcUHWxR8Zs"
     },
     {
       "added_at": "2026-11-13 00:01:01",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2026-11-13 00:01:01",
       "album": {
-        "name": "Reckoning",
-        "url": "https://open.spotify.com/album/2fwzpGgUamzs0JvTNQtA9u"
-      },
-      "artists": [
-        {
-          "name": "Mary Gauthier",
-          "url": "https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS"
-        }
-      ],
-      "duration_ms": 187966,
-      "name": "Judgement Day",
-      "url": "https://open.spotify.com/track/09p0mCc89zi4lqvil3uW1Z"
-    },
-    {
-      "added_at": "2026-11-13 00:01:01",
-      "album": {
         "name": "Bless Your Soul",
         "url": "https://open.spotify.com/album/72ikagjWsSJebCaqohnrHB"
       },
@@ -1119,18 +1103,18 @@
     {
       "added_at": "2026-11-13 00:01:01",
       "album": {
-        "name": "How To Act",
-        "url": "https://open.spotify.com/album/1pXMpwXyCzaZAWnqRpkGFE"
+        "name": "Reckoning",
+        "url": "https://open.spotify.com/album/2fwzpGgUamzs0JvTNQtA9u"
       },
       "artists": [
         {
-          "name": "Goodnight, Texas",
-          "url": "https://open.spotify.com/artist/5ammRFhN6wQXM30xlhndC5"
+          "name": "Mary Gauthier",
+          "url": "https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS"
         }
       ],
-      "duration_ms": 221104,
-      "name": "How To Act",
-      "url": "https://open.spotify.com/track/3N5aJgsAM0VQIQ5vEyS8HX"
+      "duration_ms": 187966,
+      "name": "Judgement Day",
+      "url": "https://open.spotify.com/track/09p0mCc89zi4lqvil3uW1Z"
     },
     {
       "added_at": "2026-11-13 00:01:01",
@@ -1147,6 +1131,22 @@
       "duration_ms": 214040,
       "name": "Down by the River",
       "url": "https://open.spotify.com/track/1JDDXUhFhwqu6mjZzQH6Yn"
+    },
+    {
+      "added_at": "2026-11-13 00:01:01",
+      "album": {
+        "name": "How To Act",
+        "url": "https://open.spotify.com/album/1pXMpwXyCzaZAWnqRpkGFE"
+      },
+      "artists": [
+        {
+          "name": "Goodnight, Texas",
+          "url": "https://open.spotify.com/artist/5ammRFhN6wQXM30xlhndC5"
+        }
+      ],
+      "duration_ms": 221104,
+      "name": "How To Act",
+      "url": "https://open.spotify.com/track/3N5aJgsAM0VQIQ5vEyS8HX"
     },
     {
       "added_at": "2026-11-13 00:01:01",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2026-11-13 00:01:01",
       "album": {
+        "name": "Tin Type",
+        "url": "https://open.spotify.com/album/1dA2zNQJAgjd7ZO06wZqiu"
+      },
+      "artists": [
+        {
+          "name": "Elliott BROOD",
+          "url": "https://open.spotify.com/artist/51RfVK8q11xKW7bi7bcMpJ"
+        }
+      ],
+      "duration_ms": 194493,
+      "name": "Cadillac Dust",
+      "url": "https://open.spotify.com/track/6EqH6OTtC3KMxRsU2OGF9A"
+    },
+    {
+      "added_at": "2026-11-13 00:01:01",
+      "album": {
         "name": "I Hear Him Howling",
         "url": "https://open.spotify.com/album/2ry8j1UboPzBLjaDKpgTMo"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 173346,
       "name": "Sister Death",
       "url": "https://open.spotify.com/track/5ZIlSYLOLplrFVRdtSXAxH"
-    },
-    {
-      "added_at": "2026-11-13 00:01:01",
-      "album": {
-        "name": "Tin Type",
-        "url": "https://open.spotify.com/album/1dA2zNQJAgjd7ZO06wZqiu"
-      },
-      "artists": [
-        {
-          "name": "Elliott BROOD",
-          "url": "https://open.spotify.com/artist/51RfVK8q11xKW7bi7bcMpJ"
-        }
-      ],
-      "duration_ms": 194493,
-      "name": "Cadillac Dust",
-      "url": "https://open.spotify.com/track/6EqH6OTtC3KMxRsU2OGF9A"
     },
     {
       "added_at": "2026-11-13 00:01:01",

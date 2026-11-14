@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 801 songs - 2 day 3 hr 50 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 800 songs - 2 day 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -801,13 +801,12 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 791 | [Goodbye to All That](https://open.spotify.com/track/7rvykT4YaOkRwCg0ciXvtJ) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [A Mile South of Heaven](https://open.spotify.com/album/5gtnnY39j0QRzGXqAVJbd7) | 3:19 |
 | 792 | [Bluebirds](https://open.spotify.com/track/1HaGgJJTNySCxWwFvroTBK) | [Adam Green](https://open.spotify.com/artist/3RyJG8xp58XSmsiuIySzUj) | [Friends of Mine](https://open.spotify.com/album/4NnQLq3RTSlvlquWAvXBN5) | 2:08 |
 | 793 | [NO QUITTER](https://open.spotify.com/track/7M5u29tvNh3MjbL2EFhjXn) | [LUCY \(Cooper B\. Handy\)](https://open.spotify.com/artist/16j0wVUk9UOoYEDknfb9rK) | [CITIZEN'S ARREST](https://open.spotify.com/album/6X8fv6u0sNuubwuev2M1eg) | 1:58 |
-| 794 | [Fidelity](https://open.spotify.com/track/2M3zJ1qV61X149Oobd5di1) | [Regina Spektor](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) | [Begin to Hope](https://open.spotify.com/album/0n4cWtI6rdtN1IftVfp1oh) | 3:46 |
-| 795 | [Only Girl](https://open.spotify.com/track/1IjFsLye5xTyYD3UkMXPCR) | [Man/Woman/Chainsaw](https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ) | [Cannonball](https://open.spotify.com/album/1yN1NPr6d4TvVJyUyuMHpK) | 3:36 |
-| 796 | [Posters](https://open.spotify.com/track/7CSEImi7wq3uzOIg1go5Yj) | [Jeffrey Lewis DNU](https://open.spotify.com/artist/4HAZsKeTudGsYd978p7BKy), [Jack Lewis](https://open.spotify.com/artist/6RTpX8f2rtG20Z7GAyZbfq) | [City & Eastern Songs](https://open.spotify.com/album/6LprZiFVkf1egB6zr0W2SZ) | 2:55 |
-| 797 | [The thing](https://open.spotify.com/track/5R56hCdQMPGW4XXNoCqMK9) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [Jazz dreams](https://open.spotify.com/album/04vD00822fgNjeKsJTldbT) | 2:08 |
-| 798 | [Begin Now!](https://open.spotify.com/track/0j7HViAeH0Z1tMk5SDYaXw) | [The Olivia Tremor Control](https://open.spotify.com/artist/4a2nAPF15Gv8V65Ba3IJSB) | [The Same Place](https://open.spotify.com/album/22Qa4J7PkfP23xfqx4QBat) | 2:15 |
-| 799 | [Alyse](https://open.spotify.com/track/2D2ForDZ3hTmpvVawDDjxX) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [SWALLOW!](https://open.spotify.com/album/3dQzmmWFcow0z84wGW6RpD) | 3:51 |
-| 800 | [100% Legal Intro](https://open.spotify.com/track/6dFVY4JKZLMsAsxE7bCwyf) | [300SkullsAndCounting](https://open.spotify.com/artist/7hGgwyIQYX5u1XU8asjH63), [Jenny Sparks](https://open.spotify.com/artist/0S8h1aYM60QtOHIKqWfNvf) | [THIS IS SPA TOWN!](https://open.spotify.com/album/621WlWIqOod29HG6km5Olf) | 3:25 |
-| 801 | [Magical Dream](https://open.spotify.com/track/3UteqPisakwAwZ1xKjERqf) | [808 State](https://open.spotify.com/artist/7hFdUW64G4iU1tz46ITRfN) | [Ninety](https://open.spotify.com/album/46z1u29jqg6fZA6mAO2E8Y) | 3:52 |
+| 794 | [Only Girl](https://open.spotify.com/track/1IjFsLye5xTyYD3UkMXPCR) | [Man/Woman/Chainsaw](https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ) | [Cannonball](https://open.spotify.com/album/1yN1NPr6d4TvVJyUyuMHpK) | 3:36 |
+| 795 | [Posters](https://open.spotify.com/track/7CSEImi7wq3uzOIg1go5Yj) | [Jeffrey Lewis DNU](https://open.spotify.com/artist/4HAZsKeTudGsYd978p7BKy), [Jack Lewis](https://open.spotify.com/artist/6RTpX8f2rtG20Z7GAyZbfq) | [City & Eastern Songs](https://open.spotify.com/album/6LprZiFVkf1egB6zr0W2SZ) | 2:55 |
+| 796 | [The thing](https://open.spotify.com/track/5R56hCdQMPGW4XXNoCqMK9) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [Jazz dreams](https://open.spotify.com/album/04vD00822fgNjeKsJTldbT) | 2:08 |
+| 797 | [Begin Now!](https://open.spotify.com/track/0j7HViAeH0Z1tMk5SDYaXw) | [The Olivia Tremor Control](https://open.spotify.com/artist/4a2nAPF15Gv8V65Ba3IJSB) | [The Same Place](https://open.spotify.com/album/22Qa4J7PkfP23xfqx4QBat) | 2:15 |
+| 798 | [Alyse](https://open.spotify.com/track/2D2ForDZ3hTmpvVawDDjxX) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [SWALLOW!](https://open.spotify.com/album/3dQzmmWFcow0z84wGW6RpD) | 3:51 |
+| 799 | [Magical Dream](https://open.spotify.com/track/3UteqPisakwAwZ1xKjERqf) | [808 State](https://open.spotify.com/artist/7hFdUW64G4iU1tz46ITRfN) | [Ninety](https://open.spotify.com/album/46z1u29jqg6fZA6mAO2E8Y) | 3:52 |
+| 800 | [Swedish Death Cleaning](https://open.spotify.com/track/3Fkh5lCPxZ0n7ojKApo7Zv) | [Aesop Rock](https://open.spotify.com/artist/2fSaE6BXtQy0x7R7v9IOmZ), [Blockhead](https://open.spotify.com/artist/7bHm3B3jJju0q9FUdOgp3b) | [Trouble Mountain](https://open.spotify.com/album/0Fta5KudJiX6HpDWApUu8y) | 2:19 |
 
-Snapshot ID: `AAAJ7hVOKI8JGv06z2Y64hlFxdApUuLR`
+Snapshot ID: `AAAJ8YlMDSvtyhLQbXnH4IP7MiQRTtqg`

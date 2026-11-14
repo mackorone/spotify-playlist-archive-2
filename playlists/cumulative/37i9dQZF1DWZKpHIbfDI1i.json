@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-10",
-  "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Yng Lvcas",
+  "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Majo Aguilar",
   "name": "Top M\u00e9xico",
   "tracks": [
     {
@@ -5962,7 +5962,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 206060,
       "name": "CALLATE Y BESAME - Remix",
       "url": "https://open.spotify.com/track/2qHxoRWVaOHTDlyHf3cjQn"
@@ -6246,7 +6246,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 149076,
       "name": "CAZADORA - DELUXE",
       "url": "https://open.spotify.com/track/4mcmbH713JVpGOfGE4cKDK"
@@ -7986,7 +7986,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 208000,
       "name": "Coraz\u00f3n Vac\u00edo",
       "url": "https://open.spotify.com/track/5Mqdw5Vr0pxbK4zS2zb1is"
@@ -9434,6 +9434,24 @@
       "duration_ms": 125426,
       "name": "Dembow Fres\u00f3n \"Remix\"",
       "url": "https://open.spotify.com/track/7ckxkUmV3YgWMSJ0hgv4Lt"
+    },
+    {
+      "album": {
+        "name": "Departamento",
+        "url": "https://open.spotify.com/album/540pquD3B2fmai9xx25RII"
+      },
+      "artists": [
+        {
+          "name": "LATIN MAFIA",
+          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284533,
+      "name": "Departamento",
+      "url": "https://open.spotify.com/track/7bFKJ91RTq6wcZJMK1LQRa"
     },
     {
       "album": {
@@ -14209,6 +14227,24 @@
     },
     {
       "album": {
+        "name": "FRANCIA",
+        "url": "https://open.spotify.com/album/0tm1saZfhOkgkyNXJoGpTg"
+      },
+      "artists": [
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206817,
+      "name": "FRANCIA",
+      "url": "https://open.spotify.com/track/0oPun2a1Vi1QWJRiQC6Ass"
+    },
+    {
+      "album": {
         "name": "LINAJE",
         "url": "https://open.spotify.com/album/1IUyPkacFHORWwLM9SBbOy"
       },
@@ -16306,7 +16342,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 190588,
       "name": "JULIETA",
       "url": "https://open.spotify.com/track/7zN95qQkFJaheKPIEgOpWJ"
@@ -16822,6 +16858,24 @@
       "duration_ms": 163065,
       "name": "La Actitud Es Lo Importante",
       "url": "https://open.spotify.com/track/7k0J0NjrJmMeeA1zMIWVaC"
+    },
+    {
+      "album": {
+        "name": "LA APUESTA",
+        "url": "https://open.spotify.com/album/2GxXfJiB0H3m5Od40QYH7O"
+      },
+      "artists": [
+        {
+          "name": "Paloma Morphy",
+          "url": "https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212794,
+      "name": "LA APUESTA",
+      "url": "https://open.spotify.com/track/56GIxVbEkklSLH3ausSpqG"
     },
     {
       "album": {
@@ -25371,6 +25425,32 @@
     },
     {
       "album": {
+        "name": "No Sabes De Romances",
+        "url": "https://open.spotify.com/album/1doDe9XRMhXJhAhSXVFZVa"
+      },
+      "artists": [
+        {
+          "name": "MELANCO LIO",
+          "url": "https://open.spotify.com/artist/5IyRWwOvozedVakSgS0k0W"
+        },
+        {
+          "name": "ERRE",
+          "url": "https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3"
+        },
+        {
+          "name": "Joaquin Medina",
+          "url": "https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206516,
+      "name": "No Sabes De Romances",
+      "url": "https://open.spotify.com/track/2rgodkCLWBkleiJ5FezowZ"
+    },
+    {
+      "album": {
         "name": "No Sab\u00eda Cu\u00e1nto",
         "url": "https://open.spotify.com/album/73ldGcnuZUBccjAhd4jgXZ"
       },
@@ -27086,7 +27166,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 169846,
       "name": "PARA NO VERTE MAS",
       "url": "https://open.spotify.com/track/6qZ6RpFSbQTKaKzR7Zfezo"
@@ -29110,7 +29190,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 163370,
       "name": "PRENDO UNO",
       "url": "https://open.spotify.com/track/0pDc8YllIbuUkzRJViR90a"
@@ -37449,6 +37529,24 @@
     },
     {
       "album": {
+        "name": "Caprichos",
+        "url": "https://open.spotify.com/album/6RpwoyuXUyyfZq9YxHoSxb"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231026,
+      "name": "Vas A Recordarme",
+      "url": "https://open.spotify.com/track/0cLJrYmBe0yDueNn0b8UcE"
+    },
+    {
+      "album": {
         "name": "Vas de Salida",
         "url": "https://open.spotify.com/album/2jkH7HrRTkNWqevE3FgncN"
       },
@@ -38180,6 +38278,24 @@
       "duration_ms": 146743,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/4ySgR9BaxtNEiDCFtsfXhS"
+    },
+    {
+      "album": {
+        "name": "Wall Street",
+        "url": "https://open.spotify.com/album/3FvLAl9WsHBnWqhKPS3kQD"
+      },
+      "artists": [
+        {
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155629,
+      "name": "Wall Street",
+      "url": "https://open.spotify.com/track/0jcMfmjkoFqxWAB4Xx8mr0"
     },
     {
       "album": {

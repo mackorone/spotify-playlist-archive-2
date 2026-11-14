@@ -659,6 +659,28 @@
     },
     {
       "album": {
+        "name": "CRACCED - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/6jx7y497fTv9lo2qiAjuAH"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+        }
+      ],
+      "date_added": "2026-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151420,
+      "name": "CRACCED - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/7sXRsJk49SjkFE535MOJ3p"
+    },
+    {
+      "album": {
         "name": "BETTER OVER TIME",
         "url": "https://open.spotify.com/album/0Iccs76G7e4e403S9VRqiA"
       },
@@ -904,7 +926,7 @@
       ],
       "date_added": "2026-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 208583,
       "name": "Good To Me",
       "url": "https://open.spotify.com/track/09fNbO1PnafsvOIANvJCZS"

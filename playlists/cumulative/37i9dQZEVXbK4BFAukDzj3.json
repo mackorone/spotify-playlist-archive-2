@@ -360,7 +360,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 241562,
       "name": "All I Want for Christmas Is You",
       "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
@@ -608,7 +608,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 105088,
       "name": "Anne",
       "url": "https://open.spotify.com/track/7Cyw3ljDo5Dovndz1ObfwY"
@@ -925,6 +925,28 @@
     },
     {
       "album": {
+        "name": "BADDIES IN HOLLANDA",
+        "url": "https://open.spotify.com/album/3awbkJq4On5PkBzhWDzlK5"
+      },
+      "artists": [
+        {
+          "name": "Issah",
+          "url": "https://open.spotify.com/artist/59ZjXKy0c97P7681qe7Tsq"
+        },
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125485,
+      "name": "BADDIES IN HOLLANDA",
+      "url": "https://open.spotify.com/track/183pr9DuHYgTwCI5OLCfk4"
+    },
+    {
+      "album": {
         "name": "Baila de Gasolina",
         "url": "https://open.spotify.com/album/2ojXXfh1QKhimrvz4wt97G"
       },
@@ -1015,6 +1037,32 @@
     },
     {
       "album": {
+        "name": "Therapy",
+        "url": "https://open.spotify.com/album/1uk4H7tt75euGa4yXZsEMD"
+      },
+      "artists": [
+        {
+          "name": "Frsh",
+          "url": "https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN"
+        },
+        {
+          "name": "KM",
+          "url": "https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw"
+        },
+        {
+          "name": "LA$$A",
+          "url": "https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146086,
+      "name": "Bare Minimum (Starboy)",
+      "url": "https://open.spotify.com/track/189kgKrirzHpgxnFNsJwnN"
+    },
+    {
+      "album": {
         "name": "Bare Minimum (Starboy)",
         "url": "https://open.spotify.com/album/3vnMnkcCgl4jF9E1IlKV4j"
       },
@@ -1034,10 +1082,36 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 146086,
       "name": "Bare Minimum (Starboy)",
       "url": "https://open.spotify.com/track/6GhAQffyGx6IgDejJQC4yR"
+    },
+    {
+      "album": {
+        "name": "NO ME ARREPIENTO DE SENTIR TANTO",
+        "url": "https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Judeline",
+          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
+        },
+        {
+          "name": "rusowsky",
+          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225834,
+      "name": "BbY WOW",
+      "url": "https://open.spotify.com/track/3h5T5JypYU7huFiVYhv1dr"
     },
     {
       "album": {
@@ -2394,7 +2468,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 174179,
       "name": "Door Het Oog Van De Nacht",
       "url": "https://open.spotify.com/track/0uWmcPc7Ie30nyNrsHnTjR"
@@ -3234,6 +3308,24 @@
       "duration_ms": 153430,
       "name": "FEVER DREAM",
       "url": "https://open.spotify.com/track/7ogpGbKc4Io6NCU6ydxXwZ"
+    },
+    {
+      "album": {
+        "name": "FF TERUG",
+        "url": "https://open.spotify.com/album/3OvaKp5a4jLDpIt9pGseaT"
+      },
+      "artists": [
+        {
+          "name": "Djaga Djaga",
+          "url": "https://open.spotify.com/artist/4mg1S6eUvRL9IZKzEShYB8"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252551,
+      "name": "FF TERUG",
+      "url": "https://open.spotify.com/track/0KxUxkxhBwFJaPSZxQkOB1"
     },
     {
       "album": {
@@ -4146,7 +4238,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 158666,
       "name": "Hoog",
       "url": "https://open.spotify.com/track/60p06WUwnHKy4vB1QzVIog"
@@ -4546,7 +4638,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 182621,
       "name": "Ik Kijk Soms Naar Jou",
       "url": "https://open.spotify.com/track/4qeOw74SOl3Dj9iCtAG5QK"
@@ -5360,7 +5452,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 262960,
       "name": "Last Christmas",
       "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
@@ -6079,6 +6171,28 @@
     },
     {
       "album": {
+        "name": "MANNSCHAFT",
+        "url": "https://open.spotify.com/album/7DfOrLwvEfGX6CkO3fXiIZ"
+      },
+      "artists": [
+        {
+          "name": "JoeyAK",
+          "url": "https://open.spotify.com/artist/4iCzh7b2cLbHVsPOwhr8W0"
+        },
+        {
+          "name": "THIZZY52",
+          "url": "https://open.spotify.com/artist/1dVKBw8iMPpS1almxwIVI3"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139755,
+      "name": "MANNSCHAFT",
+      "url": "https://open.spotify.com/track/1MAs7Bj45yopDgZzRV5sYL"
+    },
+    {
+      "album": {
         "name": "The Devil Wears Prada 2 (Music From The Motion Picture)",
         "url": "https://open.spotify.com/album/5FKnRUB5lt7z5ac1lmu3BE"
       },
@@ -6404,7 +6518,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 154691,
       "name": "Mo\u00ebt Dat Nou",
       "url": "https://open.spotify.com/track/0HWjXL4layDbYbCj21uzd8"
@@ -7042,10 +7156,28 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 164757,
       "name": "Oceaan",
       "url": "https://open.spotify.com/track/4SNHu8Kd0AiTkwexde6eB8"
+    },
+    {
+      "album": {
+        "name": "Het Is Al Laat Toch",
+        "url": "https://open.spotify.com/album/3tcqgzMjPtrAj1K8kJTl5s"
+      },
+      "artists": [
+        {
+          "name": "Racoon",
+          "url": "https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164757,
+      "name": "Oceaan",
+      "url": "https://open.spotify.com/track/6CqLX2aOY05KCXb78XUsdF"
     },
     {
       "album": {
@@ -8022,10 +8154,36 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 149743,
       "name": "Rozen & Blaadjes",
       "url": "https://open.spotify.com/track/2GRrIFuUibIBf2RMFYu1MR"
+    },
+    {
+      "album": {
+        "name": "Therapy",
+        "url": "https://open.spotify.com/album/1uk4H7tt75euGa4yXZsEMD"
+      },
+      "artists": [
+        {
+          "name": "Frsh",
+          "url": "https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN"
+        },
+        {
+          "name": "Cristian D",
+          "url": "https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4"
+        },
+        {
+          "name": "LA$$A",
+          "url": "https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149743,
+      "name": "Rozen & Blaadjes",
+      "url": "https://open.spotify.com/track/6UgiZErUO6lnCK5gZ0IRNy"
     },
     {
       "album": {
@@ -10378,7 +10536,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 88518,
       "name": "Wintersong",
       "url": "https://open.spotify.com/track/6myzLix7pWytIA7Y9YvwXp"

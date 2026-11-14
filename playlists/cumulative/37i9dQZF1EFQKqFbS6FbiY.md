@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2849WwDsNlt9FpSLivBw2v">Waleria Leão</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-776 songs - 1 day 13 hr 45 min
+777 songs - 1 day 13 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -705,7 +705,8 @@
 | [Trouxamente \- Ao Vivo](https://open.spotify.com/track/29oa7etmRgBc8XWYtm5jb6) | [João Gabriel](https://open.spotify.com/artist/6cuYN8aZLQ1ZSKkJJwi2eY), [Humberto & Ronaldo](https://open.spotify.com/artist/1zEo6Fk1iaaOYFlFPBHCFn) | [João Gabriel: Ao Vivo em Goiânia](https://open.spotify.com/album/7kYGk5VsNaBwa3OuVsKmlI) | 3:02 | 2023-12-30 |  |
 | [Três Frases \- Ao Vivo](https://open.spotify.com/track/13WrtteBNU6cOoKSNAsPlP) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Buteco Goiânia \(Ao Vivo\)](https://open.spotify.com/album/00jkZlcpl1OU9kZbgLqBMT) | 2:40 | 2023-12-30 |  |
 | [Três Versões \- Ao Vivo](https://open.spotify.com/track/3fYFaNb92h2cq5Xv5Dk2VS) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid) | [Let's Bora, Vol\. 3 \(Ao Vivo\)](https://open.spotify.com/album/1LIa0K4VQnzCreRogfMP68) | 3:01 | 2023-12-30 |  |
-| [Três Vidas](https://open.spotify.com/track/6i2HdoE2A4K2ENyJ4oRjmY) | [Edy Britto & Samuel](https://open.spotify.com/artist/6UWCS7TrQo1V96jomn1k8U) | [Três Vidas](https://open.spotify.com/album/2cWv59k8rlvmEY4XBNwPTA) | 3:37 | 2023-12-30 |  |
+| [Três Vidas](https://open.spotify.com/track/33bIJYreoid0DFvvqAFcpD) | [Edy Britto & Samuel](https://open.spotify.com/artist/6UWCS7TrQo1V96jomn1k8U) | [Três Vidas](https://open.spotify.com/album/27oYsg8thAUOs4BelNOpXK) | 3:37 | 2026-11-13 |  |
+| [Três Vidas](https://open.spotify.com/track/6i2HdoE2A4K2ENyJ4oRjmY) | [Edy Britto & Samuel](https://open.spotify.com/artist/6UWCS7TrQo1V96jomn1k8U) | [Três Vidas](https://open.spotify.com/album/2cWv59k8rlvmEY4XBNwPTA) | 3:37 | 2023-12-30 | 2026-11-14 |
 | [Tudo em Minha Volta](https://open.spotify.com/track/0u2JYPHwIoYCZV52UxDEIN) | [Ronny e Ronney](https://open.spotify.com/artist/6ITm7OZvd7ogcjDsQghri5) | [Tudo em Minha Volta](https://open.spotify.com/album/7G0Vbn40xoQtM4cc9hmPde) | 2:25 | 2025-06-27 |  |
 | [Tudo Em Minha Volta \- Ao Vivo](https://open.spotify.com/track/4ZD5dzxjiB7EKh8UsPh2yb) | [João Neto & Frederico](https://open.spotify.com/artist/2FrLTuXGuFDzQsjKidB03W) | [No Sentimento Do Álcool \(Ao Vivo\)](https://open.spotify.com/album/56pGbCL90ViYvFIDctjHcI) | 2:30 | 2023-12-30 | 2025-06-28 |
 | [Tudo É Você](https://open.spotify.com/track/7Bu5GO6eDehwej9HuoNXvL) | [João Guilherme](https://open.spotify.com/artist/70y72eYR8vKi8QLAZjgomN) | [Meu Caminho](https://open.spotify.com/album/5iTmayvPXWVlHLlHrp632N) | 2:31 | 2023-12-30 | 2025-06-28 |

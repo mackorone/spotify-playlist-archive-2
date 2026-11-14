@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [2000 Miles \(from "Oh\. What\. Fun."\)](https://open.spotify.com/track/1CmWAnDKY4W13XRH6dC5XX) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe), [Oh\. What\. Fun.](https://open.spotify.com/artist/5VYSkRVd4ZrQo12YhB3t7S) | [2000 Miles \(from "Oh\. What\. Fun."\)](https://open.spotify.com/album/4THFp0pVKS4HCMUMDrTJYe) | 3:09 | 2025-11-14 | 2026-04-02 |
+| [2000 Miles \(from "Oh\. What\. Fun."\)](https://open.spotify.com/track/1CmWAnDKY4W13XRH6dC5XX) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe), [Oh\. What\. Fun.](https://open.spotify.com/artist/5VYSkRVd4ZrQo12YhB3t7S) | [2000 Miles \(from "Oh\. What\. Fun."\)](https://open.spotify.com/album/4THFp0pVKS4HCMUMDrTJYe) | 3:09 | 2025-11-14 |  |
 | [A Crime](https://open.spotify.com/track/0HgktrvMz1dhVxLGJ1gvpu) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O) | [A Crime](https://open.spotify.com/album/2h0Xy3ana4QAheJYjve5er) | 2:50 | 2021-03-19 | 2022-07-28 |
 | [A Little Bit of Everything \- Spotify Singles](https://open.spotify.com/track/66yvX4stoMKIiTcZeDJGpt) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Spotify Singles](https://open.spotify.com/album/39pwm6XqSwGxzEm0gVYSL1) | 5:17 | 2023-04-11 |  |
 | [a long december](https://open.spotify.com/track/6AJUq174xQvhXvRLbLvFml) | [girlhouse](https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX) | [a long december](https://open.spotify.com/album/4BEcYq7POg39BXzScVb4qE) | 4:11 | 2022-01-28 | 2022-07-26 |
@@ -94,7 +94,7 @@
 | [Crash into Me](https://open.spotify.com/track/0rzjZgdcj0F18uusGIekCa) | [Petey](https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA) | [Other Stuff](https://open.spotify.com/album/31gUo1VnM0u0GyHMOALfNQ) | 2:52 | 2023-10-13 | 2024-04-19 |
 | [Crash into Me](https://open.spotify.com/track/22Gnce47RGM3cZZDPea2Up) | [Petey](https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA) | [Crash Into Me](https://open.spotify.com/album/4KErWwuPdnGOxE4ciibgxP) | 2:52 | 2021-03-12 | 2022-07-28 |
 | [Crazy](https://open.spotify.com/track/47jgSvqlKwGyBLPnMfeEZN) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Crazy](https://open.spotify.com/album/0hOdcKXM4riRXmpyo71SFs) | 4:02 | 2021-03-12 |  |
-| [Crazy Train](https://open.spotify.com/track/6OLeTuJ0u10taGHONnYAFS) | [Zella Day](https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6) | [Crazy Train](https://open.spotify.com/album/1cLNbzbBPli2mmJOtK6Fwf) | 4:12 | 2021-03-12 |  |
+| [Crazy Train](https://open.spotify.com/track/6OLeTuJ0u10taGHONnYAFS) | [Zella Day](https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6) | [Crazy Train](https://open.spotify.com/album/1cLNbzbBPli2mmJOtK6Fwf) | 4:12 | 2021-03-12 | 2026-11-14 |
 | [Creep](https://open.spotify.com/track/0SCox9Tmm4AxcnhDXZglYB) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Creep](https://open.spotify.com/album/0Tp4s71VQ0MZbtJo1cNHYF) | 4:37 | 2021-03-12 | 2023-08-09 |
 | [Creep](https://open.spotify.com/track/5nC2VyPxefp5EXVViTcz7S) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [Creep](https://open.spotify.com/album/4C9Io2lIQJdBo9RH1XK8Gj) | 3:42 | 2021-08-27 | 2022-12-06 |
 | [creep](https://open.spotify.com/track/0OcoZJjaHsYmYZhzT3F3oL) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [creep](https://open.spotify.com/album/7g8SNpeL6pJL8ZlFLQ9C27) | 3:30 | 2021-03-19 | 2022-07-16 |

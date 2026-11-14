@@ -4,7 +4,7 @@
 
 > Best of Punjabi Hip\-Hop! Cover: Karan Aujla
 
-360 songs - 17 hr 50 min
+361 songs - 17 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [Baller](https://open.spotify.com/track/42TMa2hgBNjte4uV7jNCnQ) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Baller](https://open.spotify.com/album/44aCFqUbG06fL58kqpMp8p) | 2:28 | 2023-03-18 | 2024-04-06 |
 | [Ban](https://open.spotify.com/track/79izTfIMSynG9BkQfbYlXh) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN), [Raj Ranjodh](https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF), [Sardar Khehra](https://open.spotify.com/artist/3YhEUyspZuU7pfEzmpFCsP) | [AURA](https://open.spotify.com/album/1qP2ICZGtjDGBayZ7JuQcT) | 2:52 | 2025-10-17 | 2025-11-22 |
 | [Barks](https://open.spotify.com/track/5AcWXb7VURDdZeSLa75d71) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [Azaad 4L](https://open.spotify.com/artist/1ldpy9FewJ95Fk8xniyxU6) | [Barks](https://open.spotify.com/album/7hIJMW0abXIaHukdRuCp8l) | 2:23 | 2024-07-26 | 2024-09-10 |
-| [Before My 18th](https://open.spotify.com/track/5hUex8XtLctBaxjVa6RQYk) | [OtaaL](https://open.spotify.com/artist/2EsJnc4nxzib2w52GbJfzO) | [Before My 18th](https://open.spotify.com/album/6Q6DtR9eSkNVw3uuOKa8JD) | 3:16 | 2026-10-23 |  |
+| [Before My 18th](https://open.spotify.com/track/5hUex8XtLctBaxjVa6RQYk) | [OtaaL](https://open.spotify.com/artist/2EsJnc4nxzib2w52GbJfzO) | [Before My 18th](https://open.spotify.com/album/6Q6DtR9eSkNVw3uuOKa8JD) | 3:16 | 2026-10-23 | 2026-11-14 |
 | [Bexley .Road](https://open.spotify.com/track/53OSu8BTjuc61B6V9Go2nK) | [Baggh\-e SMG](https://open.spotify.com/artist/4eu7AyzvnafwOygTQlfAMu), [BIG KAY SMG](https://open.spotify.com/artist/0z4Mzficie9vUzDmz4Hy9G), [Farmaan SMG](https://open.spotify.com/artist/3yXzSYXBOTZ0m1QAfjlzKK) | [Bexley .Road](https://open.spotify.com/album/1AeMtYxe6KGqhivHtThFzC) | 2:50 | 2024-09-06 |  |
 | [Bhabi](https://open.spotify.com/track/0SQQc3FJiY1pMUV3GJ0vUN) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN), [Himmat Sandhu](https://open.spotify.com/artist/3wsrcGXTRAukQgXrUHJMwC) | [Bhabi](https://open.spotify.com/album/5FhMfJbIUBFkdZYRTllQGi) | 2:13 | 2024-07-18 | 2024-08-22 |
 | [Bitches \- Elevate](https://open.spotify.com/track/0hkXFOhbJ1OUzLOJQ0iEq8) | [Dilraj Grewal](https://open.spotify.com/artist/4K57exUc4hdq6l4iaGyTrT), [Saga Sounds](https://open.spotify.com/artist/6JqjmhYjFskJtqjvruCxKN) | [Bitches \- Elevate](https://open.spotify.com/album/6FODRAWYzMrzxCoZnQQPBe) | 2:46 | 2024-03-27 | 2024-05-17 |
@@ -299,6 +299,7 @@
 | [Score](https://open.spotify.com/track/4FKLi2H8nNxLWwVk9nvzwy) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Awara](https://open.spotify.com/album/5yfA6iH6eQ4JkhT0z9mmmF) | 3:39 | 2023-03-18 | 2024-04-06 |
 | [Seedhi Maut](https://open.spotify.com/track/2WyQYeVXCES3w1eDKadikM) | [Varinder Brar](https://open.spotify.com/artist/4C19flKmMm12gRxmBJWMCV), [Rav Dhaliwal](https://open.spotify.com/artist/3quojFCZjKk1j5zIv0HX2P), [Audiocrakerr](https://open.spotify.com/artist/3Kn4UNlxi4o94HvY5Z3wsN) | [Professor](https://open.spotify.com/album/0g24BaowRoF6rhB6pbgtVP) | 2:55 | 2024-11-28 | 2025-04-26 |
 | [Sensation](https://open.spotify.com/track/2fEsBuz3CWwRyW6TFAsZ1J) | [Zehr Vibe](https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN), [Sardar Khehra](https://open.spotify.com/artist/3YhEUyspZuU7pfEzmpFCsP) | [1:11](https://open.spotify.com/album/26IuSr3QbfNkzw1cx1NT9o) | 2:48 | 2026-05-08 |  |
+| [Shady AF](https://open.spotify.com/track/33K736rFp5T2TvQluF5B9O) | [Jass Goraya](https://open.spotify.com/artist/69HryyPGvyQHAbI0K5ulce), [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [CHEETAH](https://open.spotify.com/artist/48jxktLmsxYggMW9XpdI15) | [The Takeover](https://open.spotify.com/album/7BO4EeSXksZZ8s5GZ88cE1) | 3:15 | 2026-11-13 |  |
 | [Shah Ji](https://open.spotify.com/track/0e4uipfFzht1FPT7l3Wx2u) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [Shah Ji](https://open.spotify.com/album/0bIeOOk2klDQTbtgkx7SwE) | 3:57 | 2023-06-23 | 2024-04-19 |
 | [Shah Ji](https://open.spotify.com/track/6SoqPMebHJMj4imd2vIZPQ) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [Shah Ji](https://open.spotify.com/album/5x8cDu0sNQK9T9VHmG68qi) | 3:57 | 2023-03-18 | 2024-10-17 |
 | [Sham Di Laali](https://open.spotify.com/track/5nL6XYcW0bASEV3cZZWjZ8) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [Basant Kur](https://open.spotify.com/artist/3G2Xtfb5jyShZFe4Xz67y7), [Navvi](https://open.spotify.com/artist/6GsjiE8vB4MUtHSGwbqTYE) | [My Name Is Street](https://open.spotify.com/album/47DSxIL2rXYJviOthx59ea) | 2:48 | 2025-11-07 | 2025-11-22 |

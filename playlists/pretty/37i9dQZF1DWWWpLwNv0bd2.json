@@ -1,12 +1,12 @@
 {
   "description": "Check out the Latest Romance Tracks.\nCover : Meesaya Murukku 2",
-  "num_followers": 226227,
+  "num_followers": 226440,
   "original_name": "Latest Love Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALd0BQJ1yUdFeGofNRzIHE1SUg2V",
+  "snapshot_id": "AAAAAKqKZWmbRDowxIYhnj1sMYEhJ3RR",
   "tracks": [
     {
       "added_at": "2026-09-22 06:51:31",
@@ -121,10 +121,10 @@
       "url": "https://open.spotify.com/track/1DgQIai8yxUNhNeYVfaqT9"
     },
     {
-      "added_at": "2026-10-29 16:03:36",
+      "added_at": "2026-11-13 05:45:16",
       "album": {
-        "name": "Kannum Kannum (From \"Hello Kadhal\")",
-        "url": "https://open.spotify.com/album/70EYVexbhq68CwbDkexTNn"
+        "name": "Niraive (From \"Hello Kadhal\")",
+        "url": "https://open.spotify.com/album/0m8ySymuuzr5K0ziPb1vpl"
       },
       "artists": [
         {
@@ -132,21 +132,21 @@
           "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
         },
         {
-          "name": "Kapil Kapilan",
-          "url": "https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2"
+          "name": "Ajai S Khashyap",
+          "url": "https://open.spotify.com/artist/5dW8IcqAqgqrUNWEBYmj3A"
         },
         {
-          "name": "Sivaangi Krishnakumar",
-          "url": "https://open.spotify.com/artist/0VocNHCBQ7Mzn9jNOmuSmz"
+          "name": "Ramya Bhat Abhyankar",
+          "url": "https://open.spotify.com/artist/0wqiIwWvYsOAcZdtJLMFO8"
         },
         {
           "name": "Vivek",
           "url": "https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx"
         }
       ],
-      "duration_ms": 184583,
-      "name": "Kannum Kannum - From \"Hello Kadhal\"",
-      "url": "https://open.spotify.com/track/6yDTncrJuFg5pIyLS2UwkW"
+      "duration_ms": 226800,
+      "name": "Niraive - From \"Hello Kadhal\"",
+      "url": "https://open.spotify.com/track/2MCZkbdJZtVzn0rU8ATA3Y"
     },
     {
       "added_at": "2026-11-05 09:09:12",
@@ -239,6 +239,34 @@
       "duration_ms": 195161,
       "name": "Address Ila Emotion (From \"John Doe\")",
       "url": "https://open.spotify.com/track/5ntQ0ESi17hUFReo5deVFp"
+    },
+    {
+      "added_at": "2026-10-29 16:03:36",
+      "album": {
+        "name": "Kannum Kannum (From \"Hello Kadhal\")",
+        "url": "https://open.spotify.com/album/70EYVexbhq68CwbDkexTNn"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Kapil Kapilan",
+          "url": "https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2"
+        },
+        {
+          "name": "Sivaangi Krishnakumar",
+          "url": "https://open.spotify.com/artist/0VocNHCBQ7Mzn9jNOmuSmz"
+        },
+        {
+          "name": "Vivek",
+          "url": "https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx"
+        }
+      ],
+      "duration_ms": 184583,
+      "name": "Kannum Kannum - From \"Hello Kadhal\"",
+      "url": "https://open.spotify.com/track/6yDTncrJuFg5pIyLS2UwkW"
     },
     {
       "added_at": "2026-10-21 07:40:19",
@@ -1187,30 +1215,6 @@
       "duration_ms": 273793,
       "name": "Kannukulla",
       "url": "https://open.spotify.com/track/2k4JdMWCH2PIZiGPVsznE5"
-    },
-    {
-      "added_at": "2026-06-10 11:38:56",
-      "album": {
-        "name": "Sambavakaari (From \"Gatta Kusthi 2\")",
-        "url": "https://open.spotify.com/album/3mwLwlDbsYEfUzlU11dVrp"
-      },
-      "artists": [
-        {
-          "name": "Sean Roldan",
-          "url": "https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU"
-        },
-        {
-          "name": "Saindhavi",
-          "url": "https://open.spotify.com/artist/6rEXjeIJ0wL6BFdo8CRcit"
-        },
-        {
-          "name": "Mohan Rajan",
-          "url": "https://open.spotify.com/artist/5ZBar35f3oB1F9TcWAa3ma"
-        }
-      ],
-      "duration_ms": 239111,
-      "name": "Sambavakaari (From \"Gatta Kusthi 2\")",
-      "url": "https://open.spotify.com/track/2qG8rdNOC6DvTykI6Xc6Ly"
     }
   ],
   "unique_name": "Latest Love Tamil",

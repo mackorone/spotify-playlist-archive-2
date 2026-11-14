@@ -4292,7 +4292,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 234466,
       "name": "I Don't Wanna Live Without Your Love",
       "url": "https://open.spotify.com/track/1bQ6SZAR7xI0z6sIxK95KJ"
@@ -5644,10 +5644,32 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 282533,
       "name": "If This Time Is The Last Time",
       "url": "https://open.spotify.com/track/2ji3qfdV8NceFnmLiQAsbs"
+    },
+    {
+      "album": {
+        "name": "From Q, With Love",
+        "url": "https://open.spotify.com/album/4KAMGayWfYnp1Q4d1GLHim"
+      },
+      "artists": [
+        {
+          "name": "Quincy Jones",
+          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
+        },
+        {
+          "name": "Patti Austin",
+          "url": "https://open.spotify.com/artist/0JxChc2w5fwTGbXKfc4cRd"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282533,
+      "name": "If This Time Is The Last Time",
+      "url": "https://open.spotify.com/track/5MuiYU2cqoRJs9nWwwlVuh"
     },
     {
       "album": {

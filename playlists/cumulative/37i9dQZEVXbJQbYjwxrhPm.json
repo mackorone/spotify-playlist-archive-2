@@ -680,7 +680,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 190434,
       "name": "Amore",
       "url": "https://open.spotify.com/track/52wihuqtqPo45YtCLt3RUc"
@@ -928,7 +928,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 223448,
       "name": "Bad Boys",
       "url": "https://open.spotify.com/track/5dbIBryEKXQzizXzb3MXnV"
@@ -1018,7 +1018,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 181545,
       "name": "BAD IDEA",
       "url": "https://open.spotify.com/track/7FfG4gnPZfM5ksxl1WvF1w"
@@ -2692,7 +2692,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 248215,
       "name": "Danoto kopay",
       "url": "https://open.spotify.com/track/1NCd6Euj3t2wiYRgPaX162"
@@ -6774,7 +6774,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 142200,
       "name": "Movin' To The Sun",
       "url": "https://open.spotify.com/track/4vTsKN15Kqo3Geo9r7FhAN"
@@ -6912,7 +6912,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-24",
+      "date_removed": null,
       "duration_ms": 216873,
       "name": "Mutsuna",
       "url": "https://open.spotify.com/track/1AZk3XywowE0xQvHOVU6NB"
@@ -8765,6 +8765,24 @@
     },
     {
       "album": {
+        "name": "Hard To Imagine The Neighbourhood Ever Changing",
+        "url": "https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy"
+      },
+      "artists": [
+        {
+          "name": "The Neighbourhood",
+          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244013,
+      "name": "Reflections",
+      "url": "https://open.spotify.com/track/2xql0pid3EUwW38AsywxhV"
+    },
+    {
+      "album": {
         "name": "Hurry Up Tomorrow",
         "url": "https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU"
       },
@@ -9304,7 +9322,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-10",
+      "date_removed": null,
       "duration_ms": 199024,
       "name": "Skapoto se plashta",
       "url": "https://open.spotify.com/track/5jumClRHFt7meCQ8vbKyDf"
@@ -9820,6 +9838,24 @@
       "duration_ms": 183448,
       "name": "Svekarvishte",
       "url": "https://open.spotify.com/track/0F2jva2ZcSCOO2vSua8XH4"
+    },
+    {
+      "album": {
+        "name": "I Love You.",
+        "url": "https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI"
+      },
+      "artists": [
+        {
+          "name": "The Neighbourhood",
+          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240400,
+      "name": "Sweater Weather",
+      "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
     },
     {
       "album": {
@@ -11142,7 +11178,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-07",
+      "date_removed": null,
       "duration_ms": 203708,
       "name": "Vreme e",
       "url": "https://open.spotify.com/track/3JOJCNsWThMKEeWBXWDgxI"
@@ -12074,7 +12110,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 217500,
       "name": "\u0412\u0440\u0435\u043c\u0435\u0442\u043e \u043b\u0435\u043a\u0443\u0432\u0430",
       "url": "https://open.spotify.com/track/4kuW4hHAIl9tn8LuFQbAoz"
@@ -12922,7 +12958,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 225064,
       "name": "\u0417\u0430\u0440\u044f\u0437\u0430\u043d",
       "url": "https://open.spotify.com/track/3f9supfupV4i2WU5yjv41N"
@@ -13357,6 +13393,24 @@
     },
     {
       "album": {
+        "name": "\u041a\u0440\u0443\u0448\u043a\u0430\u0442\u0430",
+        "url": "https://open.spotify.com/album/4OmNDiKqWD7ZGiYbcpPog1"
+      },
+      "artists": [
+        {
+          "name": "Galin",
+          "url": "https://open.spotify.com/artist/5amPFw5XVlNzP7uSKBXtai"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212727,
+      "name": "\u041a\u0440\u0443\u0448\u043a\u0430\u0442\u0430",
+      "url": "https://open.spotify.com/track/4BmmtBePvavoAWaWFnTjCf"
+    },
+    {
+      "album": {
         "name": "\u041a\u0423-\u041a\u0423",
         "url": "https://open.spotify.com/album/5tJ4cUWEqiErYLpsr0hgAC"
       },
@@ -13408,6 +13462,36 @@
       "duration_ms": 207906,
       "name": "\u041a\u044a\u0440\u0442\u0438\u0448",
       "url": "https://open.spotify.com/track/53ScG8sq3K6H9hN2aLCuwY"
+    },
+    {
+      "album": {
+        "name": "\u041b\u0430\u043a\u043e\u043c\u0438\u044f",
+        "url": "https://open.spotify.com/album/0bbUdlIg1G3WktpH845sim"
+      },
+      "artists": [
+        {
+          "name": "Diona",
+          "url": "https://open.spotify.com/artist/5OyVwBuWRLl5npoif9l5sJ"
+        },
+        {
+          "name": "Bo",
+          "url": "https://open.spotify.com/artist/7hlTtVz10Vlmp9oDPHwjUE"
+        },
+        {
+          "name": "Stella",
+          "url": "https://open.spotify.com/artist/002oyMRzxTzEsBRLzACi8d"
+        },
+        {
+          "name": "Simona",
+          "url": "https://open.spotify.com/artist/46FAr44jS3tCDAdSWzA2Ou"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141686,
+      "name": "\u041b\u0430\u043a\u043e\u043c\u0438\u044f",
+      "url": "https://open.spotify.com/track/5S0qs9IQPsBkT9VO9n4lCk"
     },
     {
       "album": {
@@ -13640,7 +13724,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-31",
+      "date_removed": null,
       "duration_ms": 197333,
       "name": "\u041c\u0430\u043b\u043a\u0430\u0442\u0430, \u0421\u043b\u0430\u0434\u043a\u0430\u0442\u0430",
       "url": "https://open.spotify.com/track/4uibxyiAMOhxVJ17bN9lNT"
@@ -13818,7 +13902,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 203624,
       "name": "\u041c\u043e\u0435\u0442\u043e \u0441\u043b\u0430\u0431\u043e \u043c\u044f\u0441\u0442\u043e",
       "url": "https://open.spotify.com/track/46YeHpvSWbG2pHRlMcC5Rp"

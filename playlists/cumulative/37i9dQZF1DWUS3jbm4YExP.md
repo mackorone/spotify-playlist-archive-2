@@ -4,7 +4,7 @@
 
 > Groovy sounds from around the world.
 
-958 songs - 2 day 19 hr 22 min
+959 songs - 2 day 19 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -242,7 +242,7 @@
 | [Dub Azucar](https://open.spotify.com/track/3NLPUIwr7DwyOmvEJKg6ny) | [Blundetto](https://open.spotify.com/artist/3bWxjvKUe8YV0VkI5d3I1Y) | [Dub Azucar](https://open.spotify.com/album/62gHXF2V4KLOPP9upcYIWB) | 4:06 | 2021-11-12 | 2022-07-29 |
 | [Dub Azucar](https://open.spotify.com/track/5GDcoQYmNc6o7ng1ergzpd) | [Blundetto](https://open.spotify.com/artist/3bWxjvKUe8YV0VkI5d3I1Y) | [Good Good Dub](https://open.spotify.com/album/3dPw9VuoR3OG864MMhCEND) | 4:06 | 2021-11-12 | 2024-01-12 |
 | [Dub Protection](https://open.spotify.com/track/2nonAYGrtN6R6MmzIWwJjf) | [The Diabolical Liberties](https://open.spotify.com/artist/6JZINtp2iR8WoSGngVwsrb), [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC) | [Dub Protection & The Sportswear Mystics](https://open.spotify.com/album/3Aiy2F3rmjJvgEmbOyDf3e) | 5:11 | 2021-10-06 | 2022-07-24 |
-| [Dubby Sunday](https://open.spotify.com/track/2zdLcpv8D5mdyrF5QXEnbc) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Israel Arteaga](https://open.spotify.com/artist/0OgPHnQhFq7XR3DnywgRIP) | [Dubby Sunday](https://open.spotify.com/album/5dWRxAldaLhTCV6eBDHWBt) | 5:48 | 2023-03-31 |  |
+| [Dubby Sunday](https://open.spotify.com/track/2zdLcpv8D5mdyrF5QXEnbc) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Israel Arteaga](https://open.spotify.com/artist/0OgPHnQhFq7XR3DnywgRIP) | [Dubby Sunday](https://open.spotify.com/album/5dWRxAldaLhTCV6eBDHWBt) | 5:48 | 2023-03-31 | 2026-11-14 |
 | [Dun in Outer Space](https://open.spotify.com/track/1gqPkE3eAQuhmr09ZaP8uF) | [Dundundun](https://open.spotify.com/artist/0JKgKpJ7HLggYkQdh1jUVt) | [Dun in Outer Space](https://open.spotify.com/album/5sjAuAJXtLxaUpNYWT9Q0i) | 5:29 | 2022-03-15 | 2022-07-28 |
 | [Dune](https://open.spotify.com/track/1d5ANDjYWxAfOY7PUiGURO) | [Atabasca](https://open.spotify.com/artist/2vIpX7cPlF9qmWNac8TbKi) | [Dune](https://open.spotify.com/album/6n8livungRGNBmj4vY4yhC) | 4:02 | 2026-03-06 | 2026-03-17 |
 | [Durian](https://open.spotify.com/track/1XQEPdAvaP3VfMz9h0QXXl) | [Cavolo Nero](https://open.spotify.com/artist/5ewSUyw8Gl9p38R1uxHuJU) | [Durian](https://open.spotify.com/album/3CFWFANusIG3j8U8YW5nqb) | 3:43 | 2025-02-21 | 2025-03-21 |
@@ -723,6 +723,7 @@
 | [Santa Maria De Feira](https://open.spotify.com/track/2jfgHDPhr2Y5bTX9TVreE5) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [Cripple Crow](https://open.spotify.com/album/4gXJTLmznABPQoAjWv1j3e) | 4:35 | 2026-10-22 | 2026-11-04 |
 | [Santa Maria De Feira](https://open.spotify.com/track/6Yf2HCrWLUo8sgm7KuQagg) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [Cripple Crow](https://open.spotify.com/album/67YNh7PePfDUgjgZOcBvu5) | 4:35 | 2025-03-07 | 2025-04-09 |
 | [Sao Pao](https://open.spotify.com/track/7l6IQxGJmHblnJgzlfYRRe) | [Amalafede](https://open.spotify.com/artist/20vFRu6alusJsfebNWUeP0) | [Sao Pao](https://open.spotify.com/album/5N0RxNzxA6Ix3WwSqlmfGj) | 3:10 | 2026-05-19 | 2026-06-26 |
+| [Sasi Jaiva](https://open.spotify.com/track/586iK0LElzM784SMvdqUMt) | [Mishy Kope](https://open.spotify.com/artist/5yg2Kn6JYslUEPYkmLca5a) | [Sasi Jaiva](https://open.spotify.com/album/1cLPNj8GW7R3UOep7Zt2Jh) | 4:09 | 2026-11-13 |  |
 | [satsuma](https://open.spotify.com/track/3R050VaH43jmKAwoGluK2L) | [Stuzzi](https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr) | [Le Fruit Disco](https://open.spotify.com/album/5iykZjKOnsFRkXPJrPZblc) | 2:58 | 2023-02-02 | 2025-04-30 |
 | [Save Me](https://open.spotify.com/track/6cyceLjnnc8JzkhhqGTbGz) | [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC) | [Weirdo](https://open.spotify.com/album/1VMIAyfBq7OQN5XTgkV1p8) | 4:51 | 2025-04-25 |  |
 | [Say the Word](https://open.spotify.com/track/3ki2cRGh2tviyJHM2Ygdq5) | [The Allergies](https://open.spotify.com/artist/2v2cdjqYIpT8ZBpflNTttY), [Andy Cooper](https://open.spotify.com/artist/7xLdezwE6OgwbhOSWolWuz), [Marietta Smith](https://open.spotify.com/artist/4Blw3ZwUWUvEZ7nkgGDdRi) | [Say the Word](https://open.spotify.com/album/2GqM2KPg3egBeZk1bFEvlg) | 3:27 | 2021-10-06 | 2022-04-21 |

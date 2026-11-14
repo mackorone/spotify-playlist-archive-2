@@ -4,7 +4,7 @@
 
 > We got you! Den bedste nye pop er samlet her\. Bette på cover 💋
 
-1,079 songs - 2 day 6 hr 59 min
+1,081 songs - 2 day 7 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Afterall](https://open.spotify.com/track/6mDKqPHVwjDMrnEz6qtj3Z) | [Saveus](https://open.spotify.com/artist/2rR0cafJvL0JVTC8E2qIqt) | [Afterall](https://open.spotify.com/album/0nXOzec7sBDtMzWFNNSr1s) | 3:22 | 2025-03-13 | 2025-11-14 |
 | [Aftertaste](https://open.spotify.com/track/1K5YqpXZcd79VlNnq5KCJA) | [Luca Borsato](https://open.spotify.com/artist/6zdKsbFf6lk6pX4OQyRfQI), [Luke Alvin](https://open.spotify.com/artist/484n5top8RJk6NL3mGasDc) | [Aftertaste](https://open.spotify.com/album/0dyZqBSeYqgCFe1sDhvoCr) | 2:39 | 2025-07-03 | 2025-10-03 |
 | [Agnes](https://open.spotify.com/track/3ueuKx5ItkRoIinsjUtN14) | [Emily Bowen](https://open.spotify.com/artist/4IcbSUnp61Iqco9c8OsTUc) | [Hate Me For This](https://open.spotify.com/album/3AWwgYgmsw5BzxKEpF3Nyr) | 2:32 | 2025-01-02 | 2025-01-17 |
+| [Aldrig Igen](https://open.spotify.com/track/5Z5PgRZIUu8NjovVUODxEI) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [Aldrig Igen](https://open.spotify.com/album/44y6ANts5tOrHbMfLRPMZD) | 3:04 | 2026-11-13 |  |
 | [Alene Og In Love](https://open.spotify.com/track/1Cb8Xzy5ixO9DSqAoZnzdQ) | [Sofie1998](https://open.spotify.com/artist/56kAP8Glt3AVDWrOwxX9aB) | [Alene Og In Love](https://open.spotify.com/album/7EPoKpsSdGQrw1kEQaM99m) | 2:46 | 2025-08-21 | 2025-09-06 |
 | [Alibi](https://open.spotify.com/track/00DabHCrqGpBSictyJ7pA9) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Alibi](https://open.spotify.com/album/5TBoKcvVVdO6hqiUQJyJTs) | 2:55 | 2025-08-28 | 2025-09-26 |
 | [Alive \(feat\. Wizkid\)](https://open.spotify.com/track/7KeboxD6ciOo8MHlkTgqMH) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Alive \(feat\. Wizkid\)](https://open.spotify.com/album/0b1wTKStMRshCOhUnhfPXR) | 3:27 | 2026-07-02 |  |
@@ -244,6 +245,7 @@
 | [DU MÅ IK GÅ](https://open.spotify.com/track/4t0hAlq0Zsy0kc6ctvJEEm) | [Mille](https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9) | [DU MÅ IK GÅ](https://open.spotify.com/album/47XpL93JCsPWssZ450ebjI) | 2:27 | 2026-07-02 | 2026-08-28 |
 | [Du og jeg](https://open.spotify.com/track/12RzHH3ZiYmBP6ehh33L20) | [Hans Philip](https://open.spotify.com/artist/6idjJt47PjFydVRrAlNw4C) | [Du og jeg](https://open.spotify.com/album/0iyzRhtKLaGhdm4oZylw6O) | 3:55 | 2024-09-05 | 2025-04-18 |
 | [Du Ved Det \(feat\. Gunge\)](https://open.spotify.com/track/7cxaUKtOG7xYvSTskhEgwm) | [Gunge](https://open.spotify.com/artist/2jCpr1LrI4wriiCyiqqyDN), [Eezy](https://open.spotify.com/artist/7wlIkhhCpEiTUjBQtxrowe) | [Du Ved Det \(feat\. Gunge\)](https://open.spotify.com/album/7ElC88rZmveuh3zypr6vcQ) | 2:49 | 2026-01-29 | 2026-02-20 |
+| [Du Ved Jeg Forstår Det](https://open.spotify.com/track/3Vp9YoclG72m2wq9zIj4lo) | [Albert](https://open.spotify.com/artist/3Sog3Abr94ggodkNxdvKRD) | [Du Ved Jeg Forstår Det](https://open.spotify.com/album/22oRvJRejjw4VH8mqOncWB) | 2:32 | 2026-11-13 |  |
 | [Dysphoria](https://open.spotify.com/track/0CbZTdrF4xnNN1ggbnXOnZ) | [Mekdes](https://open.spotify.com/artist/2wQCkBACRNTFCSLPfUikBx) | [Dysphoria](https://open.spotify.com/album/5jouOJvb2kuqnlrKm04RbT) | 3:10 | 2026-09-25 | 2026-10-02 |
 | [d£aler](https://open.spotify.com/track/2MZeoO5my5Z2opiQHm150R) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [d£aler](https://open.spotify.com/album/7ikoTkIbCm6jpWOHa9Cwde) | 2:40 | 2025-07-24 | 2025-10-03 |
 | [Dårligt Match](https://open.spotify.com/track/432EcFkV6If93xvxEx2Rim) | [Mumle](https://open.spotify.com/artist/6xfKNngTw1zxViM96HSTCq) | [Dårligt Match](https://open.spotify.com/album/5LhsH1HcBOmR9SmtBhm7qv) | 2:51 | 2025-05-01 | 2026-02-06 |

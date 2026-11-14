@@ -1,12 +1,12 @@
 {
   "description": "This is Victor Thompson. The essential tracks, all in one playlist.",
-  "num_followers": 6192,
+  "num_followers": 6195,
   "original_name": "This Is Victor Thompson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avOwAAAAAAAkek6QwMxUbqUrmsl5pUlx",
+  "snapshot_id": "avUBgAAAAAB0SG6LZO8gGz80TSPKVZrO",
   "tracks": [
     {
       "added_at": null,
@@ -175,22 +175,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spontaneous Endless Worship",
-        "url": "https://open.spotify.com/album/634VScodKaUDFqUDwCiLzN"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 335266,
-      "name": "Spontaneous Endless Worship",
-      "url": "https://open.spotify.com/track/1wxbaC0dbPDrgdnlQp1rlg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Everyday",
         "url": "https://open.spotify.com/album/3IxSBGvSLluNNMDyf2UOP3"
       },
@@ -211,8 +195,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Not Moved",
-        "url": "https://open.spotify.com/album/04gvFEpR8FICwnjxuf7B4Z"
+        "name": "Spontaneous Endless Worship",
+        "url": "https://open.spotify.com/album/634VScodKaUDFqUDwCiLzN"
       },
       "artists": [
         {
@@ -220,9 +204,9 @@
           "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
         }
       ],
-      "duration_ms": 280403,
-      "name": "Not Moved",
-      "url": "https://open.spotify.com/track/13j5QYsM8B4s8K5l1vTIKI"
+      "duration_ms": 335266,
+      "name": "Spontaneous Endless Worship",
+      "url": "https://open.spotify.com/track/1wxbaC0dbPDrgdnlQp1rlg"
     },
     {
       "added_at": null,
@@ -239,6 +223,22 @@
       "duration_ms": 256872,
       "name": "2Cor 5:7",
       "url": "https://open.spotify.com/track/4nNg7C3FRkEseDHingWCqG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Not Moved",
+        "url": "https://open.spotify.com/album/04gvFEpR8FICwnjxuf7B4Z"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 280403,
+      "name": "Not Moved",
+      "url": "https://open.spotify.com/track/13j5QYsM8B4s8K5l1vTIKI"
     },
     {
       "added_at": null,
@@ -439,6 +439,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "GOOD and MORE",
+        "url": "https://open.spotify.com/album/3BBPaV1dRK6AbrZ9tf9amu"
+      },
+      "artists": [
+        {
+          "name": "Toluwanimee",
+          "url": "https://open.spotify.com/artist/5dfvaMnwLZAGCIp6YNsgiI"
+        },
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 371457,
+      "name": "MERCY",
+      "url": "https://open.spotify.com/track/5F1ceJaNlwFysU0olsXAwb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "OMG",
         "url": "https://open.spotify.com/album/66y97RsgjPCEUB7AlsZaiT"
       },
@@ -459,26 +479,6 @@
       "duration_ms": 143947,
       "name": "OMG",
       "url": "https://open.spotify.com/track/3MJScW03etExqb2Slzbdhq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "GOOD and MORE",
-        "url": "https://open.spotify.com/album/3BBPaV1dRK6AbrZ9tf9amu"
-      },
-      "artists": [
-        {
-          "name": "Toluwanimee",
-          "url": "https://open.spotify.com/artist/5dfvaMnwLZAGCIp6YNsgiI"
-        },
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 371457,
-      "name": "MERCY",
-      "url": "https://open.spotify.com/track/5F1ceJaNlwFysU0olsXAwb"
     },
     {
       "added_at": null,
@@ -679,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let Your Name be Glorified Worship Medley",
-        "url": "https://open.spotify.com/album/316D2SEI6KqaqTmSqBqkxV"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 1046673,
-      "name": "Let Your Name be Glorified Worship Medley",
-      "url": "https://open.spotify.com/track/6FN9Hp7KjPoks4FrORV86c"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BLESSINGS",
         "url": "https://open.spotify.com/album/0GHp6F6kRcQnsabEO0fpTU"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 824408,
       "name": "BLESSINGS",
       "url": "https://open.spotify.com/track/1vo3XKyNdpYtofLD9CihXP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Let Your Name be Glorified Worship Medley",
+        "url": "https://open.spotify.com/album/316D2SEI6KqaqTmSqBqkxV"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 1046673,
+      "name": "Let Your Name be Glorified Worship Medley",
+      "url": "https://open.spotify.com/track/6FN9Hp7KjPoks4FrORV86c"
     },
     {
       "added_at": null,

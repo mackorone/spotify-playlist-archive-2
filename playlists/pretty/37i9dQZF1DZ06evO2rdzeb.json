@@ -1,12 +1,12 @@
 {
   "description": "This is Adrianne Lenker. The essential tracks, all in one playlist.",
-  "num_followers": 20753,
+  "num_followers": 20761,
   "original_name": "This Is Adrianne Lenker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avOwAAAAAAC9z5pS84RlAPQK/2Ok2xoa",
+  "snapshot_id": "avUBgAAAAAAmp0zjDFdBeBpbaaBu+ZJJ",
   "tracks": [
     {
       "added_at": null,
@@ -72,9 +72,9 @@
           "url": "https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR"
         }
       ],
-      "duration_ms": 128853,
-      "name": "Jonathan",
-      "url": "https://open.spotify.com/track/2516lVkDpm86amjTlKVIMC"
+      "duration_ms": 157440,
+      "name": "Indiana",
+      "url": "https://open.spotify.com/track/1EUYnTI3P1DzoeccZ0IHdD"
     },
     {
       "added_at": null,
@@ -140,9 +140,9 @@
           "url": "https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR"
         }
       ],
-      "duration_ms": 157440,
-      "name": "Indiana",
-      "url": "https://open.spotify.com/track/1EUYnTI3P1DzoeccZ0IHdD"
+      "duration_ms": 128853,
+      "name": "Jonathan",
+      "url": "https://open.spotify.com/track/2516lVkDpm86amjTlKVIMC"
     },
     {
       "added_at": null,
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
         }
       ],
-      "duration_ms": 197400,
-      "name": "cradle",
-      "url": "https://open.spotify.com/track/197dwrbQhIhDTvtN6kGcvb"
+      "duration_ms": 148133,
+      "name": "what can you say",
+      "url": "https://open.spotify.com/track/5DhfXSmIrTfcwOPJjGVFdv"
     },
     {
       "added_at": null,
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
         }
       ],
-      "duration_ms": 148133,
-      "name": "what can you say",
-      "url": "https://open.spotify.com/track/5DhfXSmIrTfcwOPJjGVFdv"
+      "duration_ms": 197400,
+      "name": "cradle",
+      "url": "https://open.spotify.com/track/197dwrbQhIhDTvtN6kGcvb"
     },
     {
       "added_at": null,

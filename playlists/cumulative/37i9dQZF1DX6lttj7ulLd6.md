@@ -4,7 +4,7 @@
 
 > Instrumental Smooth Jazz for relaxing.
 
-216 songs - 15 hr 43 min
+219 songs - 15 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Can You Feel It](https://open.spotify.com/track/1mYIkTdWul7A4NYS3cKR2g) | [Adam Hawley](https://open.spotify.com/artist/1lWqhDiZ2OtpsJsQFtXsKX), [Marcus Anderson](https://open.spotify.com/artist/74w7jlHFeZ4x6cHFaHfHtf) | [Double Vision](https://open.spotify.com/album/6mIX3C4SR09oQqMF74NVlL) | 4:11 | 2022-05-06 |  |
 | [Can't Stop Now](https://open.spotify.com/track/0CrM8E0DGn8BRu38mbPoiV) | [Vincent Ingala](https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7) | [Can't Stop Now](https://open.spotify.com/album/7ro6nLa2rGHaq4muoXPSJF) | 4:15 | 2022-05-06 |  |
 | [Candlelight](https://open.spotify.com/track/2IvLn9G9qHouMLwEFirGfy) | [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [After Dark](https://open.spotify.com/album/6TuOteMAypRo9glKqAVSGT) | 4:39 | 2022-05-06 |  |
-| [Cat and Mouse](https://open.spotify.com/track/1SHbIUQu4hIv15BIZW6IkK) | [Rosello Blue](https://open.spotify.com/artist/25oZlFal7MonBvnIataENe) | [Cat and Mouse](https://open.spotify.com/album/0kSCTapQtnOjLNjn9bdaFX) | 2:23 | 2026-03-20 |  |
+| [Cat and Mouse](https://open.spotify.com/track/1SHbIUQu4hIv15BIZW6IkK) | [Rosello Blue](https://open.spotify.com/artist/25oZlFal7MonBvnIataENe) | [Cat and Mouse](https://open.spotify.com/album/0kSCTapQtnOjLNjn9bdaFX) | 2:23 | 2026-03-20 | 2026-11-14 |
 | [Catnap](https://open.spotify.com/track/0x1TSRHlJ2hV63cPBcvrLp) | [Nils](https://open.spotify.com/artist/1vzmLZbXh0Bw5Kz5U4iIyB) | [Ready to Play](https://open.spotify.com/album/2ezdxx2baHQ7qTEUgXR4F5) | 5:03 | 2022-08-29 |  |
 | [Cause We've Ended As Lovers](https://open.spotify.com/track/51VBEDfm60C2PyCtwLGIDG) | [Chieli Minucci](https://open.spotify.com/artist/099uBIWpdGDTtJ7daCuCyX) | [Renaissance](https://open.spotify.com/album/1GJNf1s72ibGmeTC8TitLU) | 5:01 | 2022-05-06 | 2023-03-25 |
 | [Celestial Summer](https://open.spotify.com/track/5uAqNqUJTb1xlqIyxObvWu) | [Jonathan Fritzén](https://open.spotify.com/artist/5CYmlWkTi0RV4UxgREp6fM) | [Celestial Summer](https://open.spotify.com/album/4eD8YUENmkWXCJaRGbHPZ3) | 4:17 | 2024-09-09 | 2025-08-20 |
@@ -47,7 +47,7 @@
 | [Clover Club](https://open.spotify.com/track/4xWyp4noK69mf5RF8sAt47) | [Skylineer](https://open.spotify.com/artist/59QpQv4bZfkh1PgqVrxwii) | [Clover Club](https://open.spotify.com/album/49LIEfwT6jcZJ1cjmsLGOL) | 3:53 | 2025-11-10 |  |
 | [Contemplations](https://open.spotify.com/track/7EwmPnpDQsAhGNdFvI9tKE) | [Rosello Blue](https://open.spotify.com/artist/25oZlFal7MonBvnIataENe) | [Contemplations](https://open.spotify.com/album/6TyHCzyKbB1ON15RPiCdYu) | 2:35 | 2025-01-20 | 2025-02-14 |
 | [Costa del Soul](https://open.spotify.com/track/0pfYPKBNCIu7WPq293pRqG) | [Eric Marienthal](https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK) | [It's Love](https://open.spotify.com/album/3wQ4KYqdrJHqPq2yuuYVC9) | 5:18 | 2024-01-09 | 2024-04-19 |
-| [Costa del Soul](https://open.spotify.com/track/4XdaRAkPSYQFaYA7UE6uAU) | [Eric Marienthal](https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK) | [It's Love](https://open.spotify.com/album/3puLLf4jLAjL7ji1cHU4WG) | 5:18 | 2022-05-06 |  |
+| [Costa del Soul](https://open.spotify.com/track/4XdaRAkPSYQFaYA7UE6uAU) | [Eric Marienthal](https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK) | [It's Love](https://open.spotify.com/album/3puLLf4jLAjL7ji1cHU4WG) | 5:18 | 2022-05-06 | 2026-11-14 |
 | [Days Of Soul](https://open.spotify.com/track/5d55M6BUwHsxXPneoiXb84) | [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF) | [Seven Large](https://open.spotify.com/album/1jqCVKzF972INDR51m9NUR) | 6:13 | 2022-05-06 | 2023-05-12 |
 | [Deep Touch](https://open.spotify.com/track/6t7taWgrWVlV86UuxmMyLW) | [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [Chill Factor](https://open.spotify.com/album/1DUAy4KMoe4R3R5eY5PTii) | 4:36 | 2022-05-06 |  |
 | [Divine Morning](https://open.spotify.com/track/76NCiXYW0Be1Cxgi6tXXX7) | [Delorme & Co](https://open.spotify.com/artist/3SHdVmPB4OnBpkkme0OP4W) | [Divine Morning](https://open.spotify.com/album/4sR1UNCsD2Q8wrNPCh80jS) | 3:33 | 2023-08-15 |  |
@@ -169,6 +169,7 @@
 | [Secret Affair](https://open.spotify.com/track/06gw3rpzTWZjqe0ff8y2kN) | [Brian Culbertson](https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE), [Chris Botti](https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a) | [It's On Tonight](https://open.spotify.com/album/2gAu03wff5WwtTpGYR5vhK) | 5:39 | 2022-05-06 |  |
 | [Show Me The Way](https://open.spotify.com/track/5CwY4CG4zJ7XezlEnvnWoE) | [Gregg Karukas](https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V) | [Looking Up](https://open.spotify.com/album/7lHBtSn2hMlubVBTXn8e0y) | 4:57 | 2022-08-16 |  |
 | [simply delicious](https://open.spotify.com/track/0j7PqCoTnjdE4dIxHOUo7n) | [Sweet Spot Lab](https://open.spotify.com/artist/1PbqUXqRFkCIIKvm2048At) | [simply delicious](https://open.spotify.com/album/0OEZ89P3GA7p9ZJlqJpMPV) | 3:13 | 2026-05-08 |  |
+| [Sips and Stares](https://open.spotify.com/track/0DygxdVeJdrrymYYOi9DVA) | [Rosello Blue](https://open.spotify.com/artist/25oZlFal7MonBvnIataENe) | [Sips and Stares](https://open.spotify.com/album/1JJax98Ub9PBlKt04xkk8k) | 3:18 | 2026-11-13 |  |
 | [Sky Watcher](https://open.spotify.com/track/6M5Zlr1uSlLksVBVy5q6uq) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o) | [Out Of A Dream](https://open.spotify.com/album/3e1fT9twS7LjpTQdtqGNDN) | 4:02 | 2022-05-06 | 2022-11-30 |
 | [Smooth Lines](https://open.spotify.com/track/37wOzVfpUxcs7yf2OdxE1R) | [Irvine](https://open.spotify.com/artist/3AXCBCm78dD72ONT759Msq) | [Smooth Lines](https://open.spotify.com/album/46cSsCZNSPKDCuDXtLvGZJ) | 2:42 | 2024-07-22 | 2025-11-11 |
 | [So Beautiful](https://open.spotify.com/track/4ffJ3kxKr4XP5pjfFm6uZR) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Ride](https://open.spotify.com/album/5x5eUg69ezurxlTfSriyjv) | 4:21 | 2022-05-06 | 2023-02-08 |
@@ -193,12 +194,13 @@
 | [The Last Kiss](https://open.spotify.com/track/3g9XQQDRluVCngQU9yYLyC) | [Ritchie Everett](https://open.spotify.com/artist/3cfaaaztlSIVBlM6JIsbVI) | [Emily](https://open.spotify.com/album/0wgPQcFKBG31xcIejomfma) | 4:04 | 2023-05-11 |  |
 | [The Moment](https://open.spotify.com/track/2YpjoEkXlkT5TBM2T7Hzkh) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [The Moment](https://open.spotify.com/album/49jsFbezskbuL7UtICmrJp) | 6:01 | 2025-01-27 | 2026-03-21 |
 | [The Only One For Me](https://open.spotify.com/track/1dBhgZ40Qf8EVTZ61prtIJ) | [Earl Klugh](https://open.spotify.com/artist/00Nnsh2ykMBYnCDsSFGXSY) | [Wishful Thinking](https://open.spotify.com/album/0L3yaukGbiP8X9BGHMGNOt) | 4:49 | 2022-05-06 | 2022-08-30 |
+| [Things Are Looking Up](https://open.spotify.com/track/45WnqgBEa96VNsQEktGnM0) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [A Simple Man](https://open.spotify.com/album/0hcD1R6aZDW8IpSb909GwG) | 3:57 | 2026-11-13 |  |
 | [Think About It](https://open.spotify.com/track/6XI1bDKgSfXWEyP297UaZS) | [Steve Cole](https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb) | [Stay Awhile](https://open.spotify.com/album/0BnQMPzjGWbmoAOPFs5Nsn) | 4:21 | 2022-05-06 | 2022-08-11 |
 | [Third Wish](https://open.spotify.com/track/6nrafhMBvaXH9srTIk5Y6U) | [Joyce Cooling](https://open.spotify.com/artist/44GiVGTGkzAmI1OGZcypec) | [Third Wish](https://open.spotify.com/album/59rYARbQWHRi3wT19DwRA4) | 4:40 | 2022-05-06 | 2025-09-11 |
 | [To The Max](https://open.spotify.com/track/5fZWvZlO3SddhtKE6p57b4) | [Gerald Albright](https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp) | [Kickin' It Up](https://open.spotify.com/album/2K2hpHYSq3zS68jFFgMBhB) | 4:25 | 2022-05-06 | 2023-03-29 |
 | [Together Again](https://open.spotify.com/track/2QFlvrkBqDkwo4OAjFowk4) | [Peter White](https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS) | [Caravan Of Dreams](https://open.spotify.com/album/55QEhe7Ecp7yZLgaVobo4X) | 5:05 | 2022-05-06 | 2023-08-19 |
 | [Together At Last](https://open.spotify.com/track/2aEyRqY48LbMzHiNAvwoQK) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Celebration](https://open.spotify.com/album/017sfmPLIwMa1r0hpgDnLy) | 5:05 | 2022-05-06 | 2023-08-19 |
-| [Touch](https://open.spotify.com/track/09mcJo5V6ZODKYybdYzgaW) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Send One Your Love](https://open.spotify.com/album/7g5WWkH9quZp6S3lxDBCV6) | 3:46 | 2022-05-06 |  |
+| [Touch](https://open.spotify.com/track/09mcJo5V6ZODKYybdYzgaW) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Send One Your Love](https://open.spotify.com/album/7g5WWkH9quZp6S3lxDBCV6) | 3:46 | 2022-05-06 | 2026-11-14 |
 | [Tribute](https://open.spotify.com/track/50MtaTholYQZwggn6EvbTl) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Tribute](https://open.spotify.com/album/7Io45dFofkBVEzQdMTXxsl) | 4:05 | 2022-08-29 | 2022-09-15 |
 | [Turn It Out](https://open.spotify.com/track/5YQHdie7ADuFsqrDoB1AXZ) | [Peter White](https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS) | [Glow](https://open.spotify.com/album/414uzeqYmcEiQ42Gy5Kyif) | 5:29 | 2022-05-06 | 2023-08-19 |
 | [Two of a Kind \(feat\. Chuck Loeb\)](https://open.spotify.com/track/0rG2XJ2nMojj2dFMkpfSJ7) | [Michael Lington](https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre), [Chuck Loeb](https://open.spotify.com/artist/02L5Rmh1RtTbHOBdzPzfoQ) | [Stay With Me](https://open.spotify.com/album/0ivqeO68UTwDwuaVIo0sU3) | 3:56 | 2022-05-06 |  |
@@ -206,6 +208,7 @@
 | [Unmemorable](https://open.spotify.com/track/7IUmdk8OUhRyFhn769gBNe) | [tori yami](https://open.spotify.com/artist/3ZjRFcfag9ETSC777HOBDx) | [Unmemorable](https://open.spotify.com/album/1MReWwCa8KWZbHoieWvJhA) | 2:22 | 2026-02-13 | 2026-02-26 |
 | [Use Me](https://open.spotify.com/track/5dKyIGGTiQ8xqyvhHfg1Sf) | [Rick Braun](https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ) | [Kisses In The Rain](https://open.spotify.com/album/36tLRdlIbuXboC0QyMhfaX) | 3:42 | 2022-05-06 | 2022-10-05 |
 | [Vinyl](https://open.spotify.com/track/2q2kwEh9flpSMwwqpPYCC3) | [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF) | [Euge Groove](https://open.spotify.com/album/2r10VaddyCNK8eXQOmSNHG) | 4:29 | 2022-08-16 |  |
+| [Walkin' on Love](https://open.spotify.com/track/5F5WQngHQRoHM5DnLEuOLW) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE), [Loyae](https://open.spotify.com/artist/4Euj21Xnjoe3pGCcXPAo4I) | [Walkin' on Love](https://open.spotify.com/album/4jCeiHoBCBJtI0pct1V31P) | 3:12 | 2026-11-13 |  |
 | [Warm Breeze, No Plans](https://open.spotify.com/track/45S1m0gzipf5XV5jWhabH7) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [Warm Breeze, No Plans](https://open.spotify.com/album/5iWCoJLQRRQfW2NNRYpAK4) | 4:33 | 2026-03-06 | 2026-06-27 |
 | [West Coast Coolin'](https://open.spotify.com/track/07pe7c2ytCutxLyykBo1AX) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [West Coast Coolin'](https://open.spotify.com/album/5dAlHUk0CgmwKZygPY8ZJx) | 4:30 | 2022-05-06 |  |
 | [What Cha Gonna Do?](https://open.spotify.com/track/2RMl0c68DWw6zamWB6R1Ce) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o) | [Above The Clouds](https://open.spotify.com/album/6HIHESKwsvniDkbZ6AzuAv) | 4:00 | 2022-05-06 | 2022-10-05 |

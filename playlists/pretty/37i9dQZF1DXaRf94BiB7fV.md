@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > The best new music by independent artists and labels in India\. Cover \- Upkar Thakur
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,834 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,859 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 37 | [Jee Le](https://open.spotify.com/track/7yRXAOSgnHn5nu1oEvIUEi) | [Moses Koul](https://open.spotify.com/artist/2kvK8K0Vhnx3LXQxBP4lLn) | [Jee Le](https://open.spotify.com/album/3Spakv8LvAK95J9sUHlRMG) | 3:02 |
 | 38 | [Tu Mera Jahaan](https://open.spotify.com/track/1kIF49BlWcL3jerAUCaIr1) | [Zicr](https://open.spotify.com/artist/74NuTWw4sEt7GVWUbi2lyc) | [Tu Mera Jahaan](https://open.spotify.com/album/2rdmOwsjeo3kqFtMY7rAZM) | 3:16 |
 | 39 | [Stranger](https://open.spotify.com/track/5j4eiumYSJggM3mMZAcWrI) | [Calcutta Cowboy](https://open.spotify.com/artist/35caokDeiAUdoJtf0GPXdp) | [Stranger](https://open.spotify.com/album/4rhCCCCi6oasJ9w4ODuhyx) | 3:31 |
-| 40 | [Kaahe Sataye](https://open.spotify.com/track/5YXLnG6tMHE80oPZlb2eVk) | [Reeshabh Purohit](https://open.spotify.com/artist/0fCayDnRBfH5Skewe8os7E), [Harsh More](https://open.spotify.com/artist/5tJPDbC6WpIoL32f2ckXIJ) | [Kaahe Sataye](https://open.spotify.com/album/4RvnhQWUPWEm2gRLJkJWmI) | 2:17 |
+| 40 | [Kaahe Sataye](https://open.spotify.com/track/5YXLnG6tMHE80oPZlb2eVk) | [Reeshabh Purohit](https://open.spotify.com/artist/0fCayDnRBfH5Skewe8os7E), [Harsh More](https://open.spotify.com/artist/5tJPDbC6WpIoL32f2ckXIJ), [frangipani](https://open.spotify.com/artist/4pgcZYiZ180FhhtLqTDeoV) | [Kaahe Sataye](https://open.spotify.com/album/4RvnhQWUPWEm2gRLJkJWmI) | 2:17 |
 | 41 | [Besharam Behaya](https://open.spotify.com/track/6P9cDk7s7PWu5TM5EbxOfc) | [Spryk](https://open.spotify.com/artist/16U1VoCTUdHaTWUMKx2dUM), [Gunda](https://open.spotify.com/artist/7qviR9RWRL1V3aM0yQ8V0D) | [Besharam Behaya](https://open.spotify.com/album/5aQ3A46AF1n9LrHvAbByIo) | 2:18 |
 | 42 | [Tauba Tauba](https://open.spotify.com/track/0Kt9FXqUXc62tgcE5hJKhj) | [sarodi](https://open.spotify.com/artist/45HAYOjbKINWz84gKmptHb), [Shubham J](https://open.spotify.com/artist/6jlSVPIRWryMStqD58e63r) | [Tauba Tauba](https://open.spotify.com/album/6NenapAbvmKFI0xVqTC3pF) | 2:23 |
 | 43 | [Pehla Lafz](https://open.spotify.com/track/5smEWOM2zbcvTi9J7xR53q) | [rohansbed](https://open.spotify.com/artist/692ljlwEOQ4wgPKGwARtR9) | [Pehla Lafz](https://open.spotify.com/album/7ACPCyqLe01XN9gc8wibe5) | 3:25 |

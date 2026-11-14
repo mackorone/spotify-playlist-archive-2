@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBKXDgLNOy7n.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1uu0bFedEiZmJYPoqdB6uH">Shane MacGowan</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1 like - 81 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 2 likes - 81 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBKXDgLNOy7n.md) - [plain]
 | 80 | [The Dunes](https://open.spotify.com/track/3d9QANjxZtm9YuBP0wtYMx) | [Jah Wobble's Invaders Of The Heart](https://open.spotify.com/artist/3f2ld0zljQSyarVWTmaYbd) | [The Celtic Poets](https://open.spotify.com/album/2CiGYsscnebb5IJY9xcj4T) | 5:06 |
 | 81 | [The Recruiting Sergeant](https://open.spotify.com/track/7HFnL3qiZEXSPfsyAQOkiL) | [ReGael](https://open.spotify.com/artist/5ASDQpBDLlyOOVBIb7GrWe) | [Coastlines](https://open.spotify.com/album/7sOkvlVTIH003fO40bdB6z) | 2:23 |
 
-Snapshot ID: `AchgigAAAAAb2Jr3FOZ1JIOKzkB7vs53`
+Snapshot ID: `AchmKgAAAAAyV4VNKRW2jTAMb2pLwPi2`

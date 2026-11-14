@@ -4,7 +4,7 @@
 
 > A warm glittering glow of ambient jazz.
 
-101 songs - 8 hr 27 min
+102 songs - 8 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Anechoic Sunset](https://open.spotify.com/track/1MdgzASNcQNh4qBQ07EvUq) | [Luke Stewart](https://open.spotify.com/artist/47Hm7AeE0GmaiZExP1Y6L4), [Jarvis Earnshaw](https://open.spotify.com/artist/50d6mRSAlfiEKpjLlqPTxH) | [Luke Stewart & Jarvis Earnshaw Quartet](https://open.spotify.com/album/1UN3U6lY1qutuaX1x4UpEe) | 7:41 | 2026-02-27 | 2026-04-18 |
 | [Ants To You, Gods To Who ?](https://open.spotify.com/track/1M4x0ug19s7nSFYzjhBKTI) | [André 3000](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6) | [New Blue Sun](https://open.spotify.com/album/33Ek6daAL3oXyQIV1uoItD) | 6:42 | 2026-05-29 | 2026-06-19 |
 | [as it tilts](https://open.spotify.com/track/2BAqRjeyNCzsUtVptGDX0n) | [al.so](https://open.spotify.com/artist/2UzGCNmaCAKmITtDdjUBdL), [Moses Yoofee](https://open.spotify.com/artist/63xdxZes5VBaGdAWhMbgdZ), [Robi](https://open.spotify.com/artist/6w4kDiIXFWEtuLHLbd9zSC), [Marius Max](https://open.spotify.com/artist/7ygCBdW9Lv5ujtijgMhUCs), [Miriam Adefris](https://open.spotify.com/artist/6BgP6cMSLzjiRKwT098mev) | [as it tilts](https://open.spotify.com/album/0nBB9kRqeOxucPEgOwuGin) | 2:56 | 2026-11-06 |  |
+| [Aughts Hymnal](https://open.spotify.com/track/6XQg1HLLx1rCJR12WnOPQb) | [Josh Johnson](https://open.spotify.com/artist/6E2QUbsHDVzmrf1TVfGdwf) | [Animative](https://open.spotify.com/album/2Dky1fEIKf5zyUVI6ISRlx) | 1:49 | 2026-11-13 |  |
 | [Aurora](https://open.spotify.com/track/1h8mF0iwlMSf9BCoUP9sX6) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Last Night The Moon Came Dropping Its Clothes In The Street](https://open.spotify.com/album/6p97ys8xZeV60gh427TwMz) | 5:22 | 2026-02-27 | 2026-10-03 |
 | [Azimuth \(John Taylor\)](https://open.spotify.com/track/6lxxvqCJT0Bbd7i919biu1) | [Gigi Masin](https://open.spotify.com/artist/0dCVhSVXD9JhJh2bTySJZx) | [Movement](https://open.spotify.com/album/7r8WcFH2Vgxb5cNNOgb6o3) | 5:15 | 2026-06-19 |  |
 | [Azurit](https://open.spotify.com/track/13CmQg0AH6TSLez3OpCQFg) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [Bivabippabualukka](https://open.spotify.com/album/1mgxS3noI2nBHvEyMG1ute) | 2:58 | 2026-11-06 |  |
@@ -52,7 +53,7 @@
 | [In This & Every Life](https://open.spotify.com/track/1Cie5gpYr6CrxHQ0avCSbz) | [Cole Pulice](https://open.spotify.com/artist/7JUWlvLs6PzPMLryj6sdCh) | [Land's End Eternal](https://open.spotify.com/album/2VuQg6fEdinbXjOzAAd681) | 3:34 | 2026-02-27 |  |
 | [Inner Beauty](https://open.spotify.com/track/765kzEgStjf1OtFnPz4FFP) | [Moxplant](https://open.spotify.com/artist/5jrkPmVhlJ8GAeSpsnPZte), [Alex Chavira](https://open.spotify.com/artist/1luFzlpXpFV3OuZRHa9uL4) | [Transfigured Mind](https://open.spotify.com/album/1RR6G1DgULjQqAqusq3jk6) | 4:46 | 2026-02-27 |  |
 | [Inner Space](https://open.spotify.com/track/3ITx6f9Vc0O1rsAXgZquHR) | [Clear Path Ensemble](https://open.spotify.com/artist/1VQ28k8VLZK2x1fgTpGO4W) | [Clear Path Ensemble](https://open.spotify.com/album/1jVhxi3l37YhFbyOcgYnaa) | 3:33 | 2026-02-27 |  |
-| [It Can Be Everywhere](https://open.spotify.com/track/0glBCins7Uh2Ca5NtRaj7O) | [Josh Johnson](https://open.spotify.com/artist/6E2QUbsHDVzmrf1TVfGdwf) | [It Can Be Everywhere](https://open.spotify.com/album/7svvnEq4QxgxNYa3G04JVS) | 5:30 | 2026-10-23 |  |
+| [It Can Be Everywhere](https://open.spotify.com/track/0glBCins7Uh2Ca5NtRaj7O) | [Josh Johnson](https://open.spotify.com/artist/6E2QUbsHDVzmrf1TVfGdwf) | [It Can Be Everywhere](https://open.spotify.com/album/7svvnEq4QxgxNYa3G04JVS) | 5:30 | 2026-10-23 | 2026-11-14 |
 | [It Can Be Everywhere](https://open.spotify.com/track/1mQPLb9lmLBgR9WtrdEIJX) | [Josh Johnson](https://open.spotify.com/artist/6E2QUbsHDVzmrf1TVfGdwf) | [It Can Be Everywhere](https://open.spotify.com/album/60VFfdCLTZZyX5wpOIUS2x) | 5:30 | 2026-10-02 | 2026-10-24 |
 | [Late Autumn \(feat\. Anna Butterss, Jay Bellerose & Josh Johnson\)](https://open.spotify.com/track/47yettQYYWSbrLOYDr7osZ) | [Jeff Parker](https://open.spotify.com/artist/3AaY5O1qS0tcNPHwwMwplt), [ETA IVtet](https://open.spotify.com/artist/3uZdiO7Irq5xyxDGjElwCw), [Anna Butterss](https://open.spotify.com/artist/2AN7XYCHxVLSqJ5RPjI4DA), [Jay Bellerose](https://open.spotify.com/artist/6zksXzSSmpDaX1eN4Kx6sf), [Josh Johnson](https://open.spotify.com/artist/6E2QUbsHDVzmrf1TVfGdwf) | [The Way Out of Easy](https://open.spotify.com/album/3NBhIanqLMEjpwhzLWqHsN) | 17:21 | 2026-02-27 | 2026-04-18 |
 | [Lightship](https://open.spotify.com/track/0CnpH1MHRwpe51tDTGHYPv) | [Unknown to Known](https://open.spotify.com/artist/7INjimPX8qiYHGqsX0VzB9), [Idris Rahman](https://open.spotify.com/artist/0usZeXbJX9kz203eMYmWRw), [Yusuf Ahmed](https://open.spotify.com/artist/3gShmv2t9w6p0uvySqLIpB), [Tamar Osborn](https://open.spotify.com/artist/6HdadX6rv2g0EWghE5KkPj), [Jihad Darwish](https://open.spotify.com/artist/2bsHhAkRSy9fEdvd8D143v) | [Lightship](https://open.spotify.com/album/6AUppxCiaz6G8bDvsArS3n) | 2:24 | 2026-10-02 |  |

@@ -2189,6 +2189,24 @@
     },
     {
       "album": {
+        "name": "Central Park",
+        "url": "https://open.spotify.com/album/090XzHeLD5gzIJVVMBz0z8"
+      },
+      "artists": [
+        {
+          "name": "FADED",
+          "url": "https://open.spotify.com/artist/60g0Lh476VUxWoXsLexU9W"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243500,
+      "name": "Central Park",
+      "url": "https://open.spotify.com/track/2fBodXDJPkxHUFm1sJpVYZ"
+    },
+    {
+      "album": {
         "name": "Metaphysical Machines",
         "url": "https://open.spotify.com/album/72ySfGq5j24M8HZe9JvSNq"
       },
@@ -2396,6 +2414,24 @@
       "duration_ms": 254000,
       "name": "Clovers",
       "url": "https://open.spotify.com/track/5QDglHplmxM1m4mSPb668K"
+    },
+    {
+      "album": {
+        "name": "cocain",
+        "url": "https://open.spotify.com/album/6YdjIiYpIdjjCmlBLO8NSz"
+      },
+      "artists": [
+        {
+          "name": "MINIMO.EXE",
+          "url": "https://open.spotify.com/artist/5K8CdOb3qPFei7n1KWn2B5"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105350,
+      "name": "cocain",
+      "url": "https://open.spotify.com/track/2uw1o70hPtbyJ9aOEux2TW"
     },
     {
       "album": {
@@ -6634,6 +6670,24 @@
       "duration_ms": 343040,
       "name": "If Just Dreaming Isn\u2019t Enought, Sorry! (Version 2026)",
       "url": "https://open.spotify.com/track/60UE0B8OoZy3b468b038iM"
+    },
+    {
+      "album": {
+        "name": "If OnlyYesterday",
+        "url": "https://open.spotify.com/album/38ilHQ9tI9apNnEiN6NAfF"
+      },
+      "artists": [
+        {
+          "name": "Chuck Idol",
+          "url": "https://open.spotify.com/artist/7tRZLgsr5C5jvrhZD3NSAV"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196680,
+      "name": "If OnlyYesterday",
+      "url": "https://open.spotify.com/track/5k5Y3JQ5JJnOcD7lKCKUvN"
     },
     {
       "album": {

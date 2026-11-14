@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: Perel
 
-[Spotify](https://open.spotify.com/user/spotify) - 438,315 likes - 75 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 438,286 likes - 75 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 50 | [Free Soul, Pt\. II](https://open.spotify.com/track/5bzHmfn9Ary1XYvTLZ4iJX) | [NIHILS](https://open.spotify.com/artist/0O7NhieDairfQvi9jr66Cx) | [Free Soul, Pt\. II](https://open.spotify.com/album/2OIbnOTNKbC9SqOQTW60mU) | 3:37 |
 | 51 | [Love Triangle](https://open.spotify.com/track/5AdL0XU6R5bN6RweaQsCHr) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a), [SebastiAn](https://open.spotify.com/artist/5tOWIviwLM1EIqGAbF8VSU) | [Love Triangle](https://open.spotify.com/album/2pMOWlF8r0xfUkrloQEO49) | 3:44 |
 | 52 | [Needed You](https://open.spotify.com/track/7sHoawcWnNN260DCwpzAJk) | [Arpy Brown](https://open.spotify.com/artist/74FtMGqsZm74eumHo8Fi3V), [Theon Bower](https://open.spotify.com/artist/45FiG9FmVUViZtiGnYgN8M) | [Needed You](https://open.spotify.com/album/6DklTH8fcfkAqcNDkuP2HJ) | 2:48 |
-| 53 | [C'mon Caroline](https://open.spotify.com/track/04KeNT4krk7FCBoGV1j1jh) | [GRANT](https://open.spotify.com/artist/6SkVKlAmIWVD0LQvCGQqSj) | [C'mon Caroline](https://open.spotify.com/album/7ocOBer43mULvqsTrET2Ng) | 3:15 |
+| 53 | [C'mon Caroline](https://open.spotify.com/track/04KeNT4krk7FCBoGV1j1jh) | [Grant](https://open.spotify.com/artist/6SkVKlAmIWVD0LQvCGQqSj) | [C'mon Caroline](https://open.spotify.com/album/7ocOBer43mULvqsTrET2Ng) | 3:15 |
 | 54 | [Stay Cool](https://open.spotify.com/track/2415eI6C0m7OXK7J7vfdWv) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s), [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J) | [Smiling Through The Pain 3](https://open.spotify.com/album/7btqsflspTMMLYmW7v15Z6) | 2:39 |
 | 55 | [Goodwife](https://open.spotify.com/track/7eWj1RD9as5EZjjevoxSXg) | [Friedberg](https://open.spotify.com/artist/0lqPfG8vAR30UX3cWDbCEn) | [Goodwife](https://open.spotify.com/album/35e4s1PKAh8iwiRWmqg978) | 4:10 |
 | 56 | [Random Violence](https://open.spotify.com/track/0T3vTM8KUAwGMukdAhNVj2) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [Random Violence](https://open.spotify.com/album/3z8j4xdVVyUH12VXFWRCVK) | 5:15 |

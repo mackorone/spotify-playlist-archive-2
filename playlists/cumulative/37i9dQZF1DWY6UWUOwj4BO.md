@@ -4,7 +4,7 @@
 
 > Les meilleurs titres du moment et plus encore en version acoustique.
 
-163 songs - 8 hr 44 min
+164 songs - 8 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,7 +120,7 @@
 | [Nothing Matters \- Acoustic](https://open.spotify.com/track/2EgvsPaH1zIQqMXnQiTtqo) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Nothing Matters \(Acoustic\)](https://open.spotify.com/album/6AhAFk2kmCi42LgIND7KHW) | 3:03 | 2024-04-04 | 2024-11-22 |
 | [On My Love \- Live Acoustic](https://open.spotify.com/track/0CZ0NcS4jXLR4I2zM3FKGq) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [On My Love \(Live Acoustic\)](https://open.spotify.com/album/4dBBsaKdTO58KorP8Z9qc3) | 3:44 | 2023-10-05 | 2024-02-09 |
 | [Onde Anda \- French Version \- Acoustic](https://open.spotify.com/track/3uy0p6o4ZEb5Oyom4zg337) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um) | [Onde Anda \(French Version \- Acoustic\)](https://open.spotify.com/album/4JvVLOqRPa2C1lpX7RxAFi) | 3:00 | 2023-06-02 | 2023-12-02 |
-| [Opalite \- Life Is A Song Acoustic Version](https://open.spotify.com/track/0Ny2HkSrLtvmBVwCQywyip) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl + Acoustic Collection](https://open.spotify.com/album/6QNMhoV8V0u7cFuhhUBOn7) | 4:02 | 2026-02-13 |  |
+| [Opalite \- Life Is A Song Acoustic Version](https://open.spotify.com/track/0Ny2HkSrLtvmBVwCQywyip) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl + Acoustic Collection](https://open.spotify.com/album/6QNMhoV8V0u7cFuhhUBOn7) | 4:02 | 2026-02-13 | 2026-11-14 |
 | [Overdrive \(feat\. Norma Jean Martine\) \- Acoustic Version](https://open.spotify.com/track/2C48i664TyRtr77PBzW6cS) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB) | [Overdrive \(feat\. Norma Jean Martine\) \[Acoustic Version\]](https://open.spotify.com/album/2NDVKadwJzVmaA0TMXzP3G) | 2:07 | 2024-02-08 |  |
 | [Patient Zero \- Acoustic Version](https://open.spotify.com/track/3lRouq3OGSpaf40aBedbVD) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Patient Zero](https://open.spotify.com/album/3EB8m11r5Rls7NtOU7mkx5) | 3:55 | 2026-10-16 |  |
 | [Peaches \- Acoustic](https://open.spotify.com/track/1ChZ4mrSLP8HImCY6IyImf) | [Adam Christopher](https://open.spotify.com/artist/22QkuOmdRnasuuVgUjhrVw) | [Peaches \(Acoustic\)](https://open.spotify.com/album/3qfz0iDhRYXa0VFccGM8VY) | 3:10 | 2022-12-21 | 2023-12-09 |
@@ -144,6 +144,7 @@
 | [Si seulement..\. \- Guitare / voix](https://open.spotify.com/track/13RezTtAB3j8w8C9h1oRsI) | [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF) | [Si seulement...](https://open.spotify.com/album/5WeG2R2qrK0vfJBfMR9Vap) | 2:56 | 2024-11-14 | 2025-04-26 |
 | [SNAP \- Acoustic](https://open.spotify.com/track/6OQ84LoCVGxLkH95LOjIC1) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP PACK](https://open.spotify.com/album/3CVEB0FPk25Ds64ALgxjH7) | 3:28 | 2023-06-16 | 2025-01-04 |
 | [Stay \- Spotify Singles](https://open.spotify.com/track/2MLapVzHNgZit4tTGkfAcf) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Spotify Singles](https://open.spotify.com/album/6H1GSOFY2sL863KbEYUq5c) | 2:55 | 2022-12-21 | 2024-03-15 |
+| [Stop The Wedding! \(Original Piano Demo\)](https://open.spotify.com/track/6RWnO2rl6P66wa5OywrazI) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Stop The Wedding! \(Original Piano Demo\)](https://open.spotify.com/album/6MuNWC2vhoBt2Pok2S6Eye) | 3:18 | 2026-11-13 |  |
 | [Strangers \- sad acoustic version](https://open.spotify.com/track/2BRgLIB3KV9EYdUkOgDgWs) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers \(sad acoustic version\)](https://open.spotify.com/album/5r46y111iubU3MZRsC5ZPK) | 3:04 | 2023-10-26 | 2024-04-19 |
 | [Strangers \- sad acoustic version](https://open.spotify.com/track/3FdmZW1QbdYwV1Iqomtbrt) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers \(sad acoustic version\)](https://open.spotify.com/album/5IbJJqixgNWbwpipRhOagt) | 3:04 | 2023-10-26 | 2024-11-22 |
 | [Sweet but Psycho \- Acoustic](https://open.spotify.com/track/10WVEHOf1FZf5XgK6dUWvN) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Sweet but Psycho \(Acoustic\)](https://open.spotify.com/album/2oKx85K5SRVksSS9aN1Lon) | 2:59 | 2022-12-21 |  |

@@ -4,7 +4,7 @@
 
 > A hand\-picked selection for an extraordinary palette\. Cover: Kings of Leon
 
-554 songs - 1 day 11 hr 37 min
+555 songs - 1 day 11 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Afterlife](https://open.spotify.com/track/2zs0Oae871mUHpS0iOMJ7O) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Afterlife](https://open.spotify.com/album/2qK3BwuD392XoXTqI3B6JN) | 4:08 | 2024-11-15 | 2025-04-21 |
 | [Alive](https://open.spotify.com/track/50FZC0TxQwpitGlQIufSfQ) | [Travis](https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh) | [L.A\. Times](https://open.spotify.com/album/7wYyR1xrLO0uWxBlanysNT) | 2:48 | 2024-07-11 | 2025-05-09 |
 | [All In The Game](https://open.spotify.com/track/5XBUiVkYaDuKhtSV3Fx32f) | [Moreish Idols](https://open.spotify.com/artist/7DoCMYqpSbn3kgBSWDpnLP) | [All In The Game](https://open.spotify.com/album/4zhTIqcLbPovVPYtWAtFhM) | 3:51 | 2025-03-21 | 2025-05-09 |
-| [All over me](https://open.spotify.com/track/4DHDIHlWldxXFqCugQCq8m) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [I quit](https://open.spotify.com/album/2Ub8XBjb6OsCIwM8KA9Sa6) | 3:22 | 2025-06-20 | 2026-11-01 |
+| [All over me](https://open.spotify.com/track/4DHDIHlWldxXFqCugQCq8m) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [I quit](https://open.spotify.com/album/2Ub8XBjb6OsCIwM8KA9Sa6) | 3:22 | 2025-06-20 |  |
 | [All That School For Nothing](https://open.spotify.com/track/1Gn11B0GFzjUvFMe03rP0w) | [John Grant](https://open.spotify.com/artist/3TScZ6zJkavDy0tqoGqiCf) | [The Art of the Lie](https://open.spotify.com/album/7doTp70QkWb5synkUpOdHf) | 5:20 | 2024-06-14 | 2024-08-27 |
 | [All The People \(所有人\)](https://open.spotify.com/track/4P1jRNtwsrEx72UfiZnlIv) | [Chinese American Bear](https://open.spotify.com/artist/6WIb9mpc6lyBzAjTeGWvEh) | [All The People \(所有人\)](https://open.spotify.com/album/0nC0feKX2EiVtfEQLHAUV2) | 3:33 | 2026-02-20 | 2026-05-30 |
 | [Allbarone](https://open.spotify.com/track/4c2aIzS237QA5qLwC53wds) | [Baxter Dury](https://open.spotify.com/artist/0EgHhNmWcjusA7F2heSD0O), [JGrrey](https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx) | [Allbarone](https://open.spotify.com/album/4TO7Aq1Rx4tHk9evwzxtUA) | 4:28 | 2025-05-08 | 2026-06-19 |
@@ -53,7 +53,7 @@
 | [Back in the Game](https://open.spotify.com/track/0tPJ289BckiSSlIanTQnVa) | [Mark Pritchard](https://open.spotify.com/artist/7wDfZhaCORLgP3K62R3MJK), [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [Back in the Game](https://open.spotify.com/album/2kBN9sDKSl5vfCnKMl0XtN) | 4:41 | 2025-02-13 | 2025-05-25 |
 | [Back on the Road](https://open.spotify.com/track/3iGrd3ze293iLtxeuNFCSq) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Back on the Road](https://open.spotify.com/album/5yzWuLgd5HDeqhXHxVb2Kj) | 2:24 | 2025-01-31 | 2026-06-19 |
 | [Backseat Banton](https://open.spotify.com/track/7DQq9q2C6Vba0OYYGtdKo0) | [Bartees Strange](https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG) | [Backseat Banton](https://open.spotify.com/album/1dhLbhrh8xN725CzupxtGg) | 3:31 | 2025-02-13 | 2025-04-21 |
-| [Bambi](https://open.spotify.com/track/2oMBqyiQ8Ggr9YhBuwV6dY) | [THE FAMILY BUSINESS LTD](https://open.spotify.com/artist/2Ow5BisePB6igZKlCxCXrd) | [THE FAMILY BUSINESS LTD](https://open.spotify.com/album/1loaJGkhpz1vtkOXg0EowR) | 2:57 | 2026-10-01 |  |
+| [Bambi](https://open.spotify.com/track/2oMBqyiQ8Ggr9YhBuwV6dY) | [THE FAMILY BUSINESS LTD](https://open.spotify.com/artist/2Ow5BisePB6igZKlCxCXrd) | [THE FAMILY BUSINESS LTD](https://open.spotify.com/album/1loaJGkhpz1vtkOXg0EowR) | 2:57 | 2026-10-01 | 2026-11-14 |
 | [barefeet](https://open.spotify.com/track/3qnJMEAZ4FZr0YiHOfHSPa) | [Gal Go](https://open.spotify.com/artist/7n60wrmIBDkDk5MGXyZC0t), [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [C los lentos](https://open.spotify.com/album/3rJddPnSqEFGp3ajwYvwoJ) | 2:28 | 2025-05-08 | 2025-06-21 |
 | [Be With You Tonight](https://open.spotify.com/track/2EqRbAoCpZRe8rrAQQf7uj) | [Teenage Fanclub](https://open.spotify.com/artist/2Sp19cOHSqAUlE64hekARW) | [Be With You Tonight](https://open.spotify.com/album/23mlecmi7U6Kn6iPMK56DC) | 3:30 | 2026-09-25 | 2026-10-16 |
 | [Before Before](https://open.spotify.com/track/48xmirSoXOlkObvyEAJwJq) | [Paul Heaton](https://open.spotify.com/artist/1aIozCeQrpKipbEdkGtr0j), [Rianne Downey](https://open.spotify.com/artist/254gmlnuhtyLCJmHiodIri) | [Jenius](https://open.spotify.com/album/6gxTMkVUCvfKkFvgq8vCYL) | 3:06 | 2026-08-20 | 2026-10-01 |
@@ -96,7 +96,7 @@
 | [Can't](https://open.spotify.com/track/42RzJ3eJARwTlUVVYdZQ10) | [ANOHNI](https://open.spotify.com/artist/6VJZYivuYJGCrPuOAnI7Qo), [Antony and the Johnsons](https://open.spotify.com/artist/4fxp616ALtFWnXfwxnjLzW) | [My Back Was A Bridge For You To Cross](https://open.spotify.com/album/4g6x7cqgxfkuqA8lfvIKMf) | 4:40 | 2024-06-14 | 2024-08-13 |
 | [Can't Pretend To Know](https://open.spotify.com/track/4blFV4d1eU814W3w9Ohyv3) | [The Murder Capital](https://open.spotify.com/artist/18M7pJRsgFVjEBZ5ufmJAp) | [Can't Pretend To Know](https://open.spotify.com/album/4bAP2pRy474uL5jDRi6jOx) | 2:41 | 2024-11-15 | 2025-02-02 |
 | [Canyons](https://open.spotify.com/track/7cTEXdnW5DhRWtB5BAsVoP) | [Man/Woman/Chainsaw](https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ) | [Cannonball](https://open.spotify.com/album/1yN1NPr6d4TvVJyUyuMHpK) | 2:53 | 2026-08-06 |  |
-| [Cap In Hand](https://open.spotify.com/track/7FZQ2rD9dTDt8GY3zJostK) | [Eels](https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl) | [Cap In Hand](https://open.spotify.com/album/1zy5MTDu9hdJJZFFJocUV5) | 3:32 | 2026-06-18 |  |
+| [Cap In Hand](https://open.spotify.com/track/7FZQ2rD9dTDt8GY3zJostK) | [Eels](https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl) | [Cap In Hand](https://open.spotify.com/album/1zy5MTDu9hdJJZFFJocUV5) | 3:32 | 2026-06-18 | 2026-11-14 |
 | [Caroline](https://open.spotify.com/track/6iWK4oyy9z1qBVbsAlwRhm) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [RUSHMERE](https://open.spotify.com/album/6Ztf9NgYuS1j2df55TXi9r) | 3:20 | 2025-03-28 | 2026-06-19 |
 | [Carried Away](https://open.spotify.com/track/50ASFow3YrVJJpqdzaM1YD) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Equus Caballus](https://open.spotify.com/album/7dJPDPUi94jA91VxG4vZb3) | 3:27 | 2025-05-08 | 2026-06-19 |
 | [Carry Me Away](https://open.spotify.com/track/2ua2zMl11JGJuLyzkhLTxP) | [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc), [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [24 Hr Sports](https://open.spotify.com/album/5oRPwgejhwzH2hbQJO5wrC) | 2:23 | 2025-09-04 | 2026-02-21 |
@@ -290,6 +290,7 @@
 | [Limelight](https://open.spotify.com/track/0OyTkxom7HBZ3lM1U2Fskz) | [Tune\-Yards](https://open.spotify.com/artist/0asVlqTLu3TimnYVyY5Jxi) | [Limelight](https://open.spotify.com/album/5x2ybzUxgUq67ig0swZmok) | 3:48 | 2025-03-21 | 2025-05-09 |
 | [Liquid Gold 25](https://open.spotify.com/track/1rYbXnLbSM6jL1LXzNtkqA) | [Jacob Alon](https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH) | [Liquid Gold 25](https://open.spotify.com/album/3OvjycFnKUyECyZyxnCe3x) | 4:27 | 2025-01-31 | 2025-04-02 |
 | [Little Black Dress](https://open.spotify.com/track/5lDV7OJxjzx4ln8DPZNLeR) | [Francis of Delirium](https://open.spotify.com/artist/0qrCon6GmV92JY5vNALLif) | [Little Black Dress](https://open.spotify.com/album/2wVN511oQyf618kr0sSj9b) | 3:11 | 2025-10-23 | 2026-07-11 |
+| [Little Me \(feat\. Hak Baker\)](https://open.spotify.com/track/10yS5JjDzyrq79Zihzvn1Q) | [Django Django](https://open.spotify.com/artist/2ARO60gI5do88ho6azmzab), [Hak Baker](https://open.spotify.com/artist/5QsqiLFA5Z2gmpKBbxQB2j) | [Doveland](https://open.spotify.com/album/1xIhnCw6TnGf1wuCIjeofL) | 3:14 | 2026-11-06 |  |
 | [Long Dark Night](https://open.spotify.com/track/3geRAOC9ZYJQxA1f2RZrYC) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Long Dark Night](https://open.spotify.com/album/692UfApwZN5hJ7rRIfcSde) | 3:33 | 2024-08-14 | 2025-02-08 |
 | [Long Lonely Road](https://open.spotify.com/track/2o4piahi00YKK9iBPSB6kF) | [Mystery Jets](https://open.spotify.com/artist/09K1H1DgyIXHsMx2j7KTFX) | [A Hole To See The Sky Through](https://open.spotify.com/album/5OGQdQZc5hi7WUkzFPVbSB) | 4:20 | 2026-08-20 | 2026-10-19 |
 | [Long Throes](https://open.spotify.com/track/0fYRy3tTccPQx3IPKEBydD) | [Los Campesinos!](https://open.spotify.com/artist/6FlOCziOXI157pvUREAh3E) | [All Hell](https://open.spotify.com/album/0OC1Dw26zaarFA1HItWV4c) | 4:19 | 2024-07-18 | 2025-01-31 |

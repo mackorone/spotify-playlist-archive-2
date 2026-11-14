@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19UBIk.md) - [plain]
 
 > This is The Doors\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 697,373 likes - 48 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 697,401 likes - 48 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,18 +43,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19UBIk.md) - [plain]
 | 33 | [The Spy](https://open.spotify.com/track/3yDEadQDdmdxYBOeMX6bDW) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Morrison Hotel](https://open.spotify.com/album/6AFLOkpJjFF652jevcSOZX) | 4:15 |
 | 34 | [Wild Child](https://open.spotify.com/track/5QTKB8UOaBO9zvWr6ap05R) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Soft Parade](https://open.spotify.com/album/75bLu4Ung5QbMdJYxx7wTI) | 2:35 |
 | 35 | [The Unknown Soldier](https://open.spotify.com/track/78JYtz4yOPqAEgZZc3SBLT) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Waiting for the Sun](https://open.spotify.com/album/0qZTwrunzX3LG45PvRghmh) | 3:21 |
-| 36 | [Dead Cats, Dead Rats \(Live, 1970\) \- 2026 Mix](https://open.spotify.com/track/7BZuIdyEVEcK3pvRw1yHJt) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Unbound and Dangerous \(Live\)](https://open.spotify.com/album/3c7VtC9lWojBO5yQdr5FMZ) | 1:47 |
+| 36 | [Yachting \(Hyper\)](https://open.spotify.com/track/0ZNRUtMQGeKqo4YpXBgYcP) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Strange Nights of Stone](https://open.spotify.com/album/7bs3oHD0CaOQxUSdjr3osB) | 0:30 |
 | 37 | [You're Lost Little Girl](https://open.spotify.com/track/5onlaW8X1ps8VS4DhxpFom) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Strange Days](https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf) | 3:00 |
 | 38 | [Tell All the People](https://open.spotify.com/track/0g1NRq4KmbEYgzaPF7G6CG) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Soft Parade](https://open.spotify.com/album/75bLu4Ung5QbMdJYxx7wTI) | 3:20 |
 | 39 | [Not to Touch the Earth](https://open.spotify.com/track/4CyqGx74ElL4WC5TaEbx0x) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Waiting for the Sun](https://open.spotify.com/album/0qZTwrunzX3LG45PvRghmh) | 3:54 |
-| 40 | [Yachting \(Hyper\)](https://open.spotify.com/track/0ZNRUtMQGeKqo4YpXBgYcP) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Strange Nights of Stone](https://open.spotify.com/album/7bs3oHD0CaOQxUSdjr3osB) | 0:30 |
-| 41 | [Build Me a Woman \(Live, 1970\) \- 2026 Mix](https://open.spotify.com/track/6nGfm3MCxGWCj9qYgHa6z4) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Unbound and Dangerous \(Live\)](https://open.spotify.com/album/3c7VtC9lWojBO5yQdr5FMZ) | 3:29 |
+| 40 | [Dead Cats, Dead Rats \(Live, 1970\) \- 2026 Mix](https://open.spotify.com/track/7BZuIdyEVEcK3pvRw1yHJt) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Unbound and Dangerous \(Live\)](https://open.spotify.com/album/3c7VtC9lWojBO5yQdr5FMZ) | 1:47 |
+| 41 | [Bird of Prey](https://open.spotify.com/track/0psPuObi7UupQnXjaex39e) | [Jim Morrison](https://open.spotify.com/artist/1QB4oo4JbSRdxNyidIuD0W), [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [An American Prayer](https://open.spotify.com/album/7qj6lZyChZxDGAqzTArHHQ) | 1:03 |
 | 42 | [The Soft Parade](https://open.spotify.com/track/0YMzPd9mYx4txOuCnhYUGU) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Soft Parade](https://open.spotify.com/album/75bLu4Ung5QbMdJYxx7wTI) | 8:34 |
-| 43 | [Bird of Prey](https://open.spotify.com/track/0psPuObi7UupQnXjaex39e) | [Jim Morrison](https://open.spotify.com/artist/1QB4oo4JbSRdxNyidIuD0W), [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [An American Prayer](https://open.spotify.com/album/7qj6lZyChZxDGAqzTArHHQ) | 1:03 |
-| 44 | [Petition the Lord With Prayer \(Live, 1970\) \- 2026 Mix](https://open.spotify.com/track/7DBosfu3dVeI2Yzvb8KAJX) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Unbound and Dangerous \(Live\)](https://open.spotify.com/album/3c7VtC9lWojBO5yQdr5FMZ) | 0:45 |
-| 45 | [Shaman's Blues](https://open.spotify.com/track/4MSGvOyqjifxU0TtDxhQil) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Soft Parade](https://open.spotify.com/album/75bLu4Ung5QbMdJYxx7wTI) | 4:47 |
-| 46 | [Light My Fire \(Live, 1970\) \- 2026 Mix](https://open.spotify.com/track/5GCcUWe7V70x1JfpqoMqjj) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Unbound and Dangerous \(Live\)](https://open.spotify.com/album/3c7VtC9lWojBO5yQdr5FMZ) | 8:55 |
-| 47 | [Wishful Sinful](https://open.spotify.com/track/13ejmQX8lVzeKijqMWiNO7) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Soft Parade](https://open.spotify.com/album/75bLu4Ung5QbMdJYxx7wTI) | 2:55 |
+| 43 | [Build Me a Woman \(Live, 1970\) \- 2026 Mix](https://open.spotify.com/track/6nGfm3MCxGWCj9qYgHa6z4) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Unbound and Dangerous \(Live\)](https://open.spotify.com/album/3c7VtC9lWojBO5yQdr5FMZ) | 3:29 |
+| 44 | [Shaman's Blues](https://open.spotify.com/track/4MSGvOyqjifxU0TtDxhQil) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Soft Parade](https://open.spotify.com/album/75bLu4Ung5QbMdJYxx7wTI) | 4:47 |
+| 45 | [Petition the Lord With Prayer \(Live, 1970\) \- 2026 Mix](https://open.spotify.com/track/7DBosfu3dVeI2Yzvb8KAJX) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Unbound and Dangerous \(Live\)](https://open.spotify.com/album/3c7VtC9lWojBO5yQdr5FMZ) | 0:45 |
+| 46 | [Wishful Sinful](https://open.spotify.com/track/13ejmQX8lVzeKijqMWiNO7) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Soft Parade](https://open.spotify.com/album/75bLu4Ung5QbMdJYxx7wTI) | 2:55 |
+| 47 | [Light My Fire \(Live, 1970\) \- 2026 Mix](https://open.spotify.com/track/5GCcUWe7V70x1JfpqoMqjj) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Unbound and Dangerous \(Live\)](https://open.spotify.com/album/3c7VtC9lWojBO5yQdr5FMZ) | 8:55 |
 | 48 | [Unhappy Girl](https://open.spotify.com/track/7MW3s6XnZua7CNQAfmdGe8) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Strange Days](https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf) | 1:57 |
 
-Snapshot ID: `avOwAAAAAAAfWDr5drgJicfIU9G1UyvP`
+Snapshot ID: `avUBgAAAAABDq5jHutAlkguvI1n60BS7`

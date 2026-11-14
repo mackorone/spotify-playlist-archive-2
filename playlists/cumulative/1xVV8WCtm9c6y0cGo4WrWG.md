@@ -4,7 +4,7 @@
 
 > The newest and best Hip\-Hop updated weekly! Cover: Lil Baby
 
-580 songs - 1 day 5 hr 28 min
+582 songs - 1 day 5 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -567,6 +567,7 @@
 | [WHISKEY WHISKEY \(feat\. Morgan Wallen\)](https://open.spotify.com/track/7hRLuo4QnzCsjICXUOhTE6) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [SPEAK NOW](https://open.spotify.com/album/55Rk02ZSULPUfrW41zjWx9) | 2:41 | 2024-06-14 | 2025-06-07 |
 | [Who The Who’s](https://open.spotify.com/track/54KgqBbs6d13vWIVZDoz19) | [SleazyWorld Go](https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF) | [Who The Who’s](https://open.spotify.com/album/7tXscTU7gEgDlGArw9zaqW) | 3:06 | 2024-08-12 | 2024-09-10 |
 | [Who You Seeing Tonight \(feat\. Don Toliver\)](https://open.spotify.com/track/02hwmwDf2tWe6sM9Ms9Hlr) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Just Getting Started](https://open.spotify.com/album/29CRmHA3hsGk1nwoRnjbxC) | 3:49 | 2025-10-31 |  |
+| [Why Not? \(feat\. Quavo & Loe Shimmy\)](https://open.spotify.com/track/3ag3REuwHRHF8kYQffQ8pn) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax) | [GMFU](https://open.spotify.com/album/0sjhU3kzHU2dfd6SVrzLIp) | 2:49 | 2026-11-13 |  |
 | [Why You Wanna](https://open.spotify.com/track/1g0oI97rPdYuWDIpkbtQdv) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [King](https://open.spotify.com/album/2X7s6Gt8Xz2qEwlw4GVcQo) | 3:35 | 2025-06-20 | 2025-07-12 |
 | [Win Wit Us](https://open.spotify.com/track/1oIefhM6QIK2eXdbtiAhbg) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [Win Wit Us](https://open.spotify.com/album/6flksMqL2DLGLq6lHc80md) | 2:37 | 2024-05-17 | 2024-07-07 |
 | [With My Boo](https://open.spotify.com/track/5jv854w0ZHUCesbjFHIxSs) | [SleazyWorld Go](https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF) | [With My Boo](https://open.spotify.com/album/6nfnwJ2rMqwYhnqoM5aexC) | 2:04 | 2023-11-03 | 2024-03-16 |
@@ -581,6 +582,7 @@
 | [WRK](https://open.spotify.com/track/5HA7el8fgIjpdfE4oMfMdY) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [WRK](https://open.spotify.com/album/7ExlJ95Ktgz2nHRouKBdxu) | 3:14 | 2025-04-19 | 2025-08-09 |
 | [Wrong One \(with Gloss Up & Slimeroni feat\. K Carbon, Aleza, Tay Keith\)](https://open.spotify.com/track/52WoZbGVLrEW0w6AGT9wNS) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1), [Slimeroni](https://open.spotify.com/artist/1aSHAWLQKX1Ln5yoHh8mTq), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA), [K Carbon](https://open.spotify.com/artist/5LxoXQBUoD5oftz6xQLv9y), [Aleza](https://open.spotify.com/artist/0cTIgkgGfLEoAAKV7tJnRz), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Wrong One \(with Gloss Up & Slimeroni feat\. K Carbon, Aleza, Tay Keith\)](https://open.spotify.com/album/0TkJa6iqDtjK4ojpfO8PwG) | 2:57 | 2023-11-03 | 2024-02-19 |
 | [WTW](https://open.spotify.com/track/728E50EwNhQGdlMWxwTCxn) | [SleazyWorld Go](https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF) | [WTW](https://open.spotify.com/album/1yB5UDDeH7FpNVxvOpbBvU) | 3:20 | 2024-03-22 | 2025-02-03 |
+| [Ya Hit \(feat\. Drake, Travis Scott & Loe Shimmy\)](https://open.spotify.com/track/76jR5C9oKb1DJR3rab6dGV) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax) | [Ya Hit \(feat\. Drake, Travis Scott & Loe Shimmy\)](https://open.spotify.com/album/5KXRJdjRBZMPrmvt4EgXAd) | 3:34 | 2026-11-13 |  |
 | [Yeah Glo!](https://open.spotify.com/track/0SdBkFh6u5IHIXqlBu0NyI) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Yeah Glo!](https://open.spotify.com/album/4C6tr5dhwjMXTLkWL86Rqa) | 2:22 | 2024-02-18 | 2025-06-07 |
 | [Yeah Glo!](https://open.spotify.com/track/5A8xI7PN4WDe9e61xEdt94) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Ehhthang Ehhthang](https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI) | 2:22 | 2025-06-07 | 2025-07-12 |
 | [Yeern 101](https://open.spotify.com/track/3K5yjMCFHN4TRWKj1zdKIQ) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [Yeern 101](https://open.spotify.com/album/1G1kvp5sKVBposBjP4xUy2) | 2:20 | 2024-02-16 | 2024-05-06 |

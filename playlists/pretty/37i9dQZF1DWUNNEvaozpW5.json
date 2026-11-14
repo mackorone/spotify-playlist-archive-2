@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del rock de aqu\u00ed, como Alcal\u00e1 Norte.",
-  "num_followers": 621121,
+  "num_followers": 621140,
   "original_name": "Rock Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -791,22 +791,6 @@
     {
       "added_at": "2026-11-05 23:01:45",
       "album": {
-        "name": "El Mar No Cesa- Edici\u00f3n Especial",
-        "url": "https://open.spotify.com/album/1ybmfBatQowYBzowJxE74Y"
-      },
-      "artists": [
-        {
-          "name": "Heroes Del Silencio",
-          "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
-        }
-      ],
-      "duration_ms": 241280,
-      "name": "Mar adentro",
-      "url": "https://open.spotify.com/track/1Oo6emBm60fXZJU2RCeWpH"
-    },
-    {
-      "added_at": "2026-11-05 23:01:45",
-      "album": {
         "name": "A Puerta Cerrada",
         "url": "https://open.spotify.com/album/5oEdjJV5w3M9Odc7y2pWS1"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 224133,
       "name": "Rojitas las orejas",
       "url": "https://open.spotify.com/track/42R5irny7qThOYUThAL7VW"
+    },
+    {
+      "added_at": "2026-11-05 23:01:45",
+      "album": {
+        "name": "El Mar No Cesa- Edici\u00f3n Especial",
+        "url": "https://open.spotify.com/album/1ybmfBatQowYBzowJxE74Y"
+      },
+      "artists": [
+        {
+          "name": "Heroes Del Silencio",
+          "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
+        }
+      ],
+      "duration_ms": 241280,
+      "name": "Mar adentro",
+      "url": "https://open.spotify.com/track/1Oo6emBm60fXZJU2RCeWpH"
     },
     {
       "added_at": "2026-11-05 23:01:45",
@@ -1087,18 +1087,18 @@
     {
       "added_at": "2026-11-05 23:01:45",
       "album": {
-        "name": "La Rosa De Los Vientos",
-        "url": "https://open.spotify.com/album/51ohZ4F4nZ40R8eGyK7tZT"
+        "name": "Jugar Al Gua",
+        "url": "https://open.spotify.com/album/5ibEXgq0ceSFbGT3P3cpl0"
       },
       "artists": [
         {
-          "name": "La Frontera",
-          "url": "https://open.spotify.com/artist/4WeIMVqCUH09dxtBsstIw3"
+          "name": "Rosendo",
+          "url": "https://open.spotify.com/artist/0P4FkbP57uc9XBnJ9aoA3N"
         }
       ],
-      "duration_ms": 275026,
-      "name": "El Limite",
-      "url": "https://open.spotify.com/track/0NFcUhw2uKzX0zqH81tWOu"
+      "duration_ms": 262626,
+      "name": "Flojos de pantal\u00f3n",
+      "url": "https://open.spotify.com/track/5xEQItoulehU1apBfxqkM1"
     },
     {
       "added_at": "2026-11-05 23:01:45",
@@ -1119,18 +1119,18 @@
     {
       "added_at": "2026-11-05 23:01:45",
       "album": {
-        "name": "Jugar Al Gua",
-        "url": "https://open.spotify.com/album/5ibEXgq0ceSFbGT3P3cpl0"
+        "name": "La Rosa De Los Vientos",
+        "url": "https://open.spotify.com/album/51ohZ4F4nZ40R8eGyK7tZT"
       },
       "artists": [
         {
-          "name": "Rosendo",
-          "url": "https://open.spotify.com/artist/0P4FkbP57uc9XBnJ9aoA3N"
+          "name": "La Frontera",
+          "url": "https://open.spotify.com/artist/4WeIMVqCUH09dxtBsstIw3"
         }
       ],
-      "duration_ms": 262626,
-      "name": "Flojos de pantal\u00f3n",
-      "url": "https://open.spotify.com/track/5xEQItoulehU1apBfxqkM1"
+      "duration_ms": 275026,
+      "name": "El Limite",
+      "url": "https://open.spotify.com/track/0NFcUhw2uKzX0zqH81tWOu"
     },
     {
       "added_at": "2026-11-05 23:01:45",
@@ -1239,18 +1239,18 @@
     {
       "added_at": "2026-11-05 23:01:45",
       "album": {
-        "name": "Veo Veo Mamoneo",
-        "url": "https://open.spotify.com/album/7u66tmYVMMEgIRbSrvKNVI"
+        "name": "Uno",
+        "url": "https://open.spotify.com/album/2Qjd3FONI5uY8A8BW5XcDl"
       },
       "artists": [
         {
-          "name": "Rosendo",
-          "url": "https://open.spotify.com/artist/0P4FkbP57uc9XBnJ9aoA3N"
+          "name": "Arco",
+          "url": "https://open.spotify.com/artist/3HdW1zs4IHQSFa3gebmlGY"
         }
       ],
-      "duration_ms": 243040,
-      "name": "Masculino singular",
-      "url": "https://open.spotify.com/track/52QD2RqoYu47mKA1gs4I3M"
+      "duration_ms": 188914,
+      "name": "Lo dif\u00edcil",
+      "url": "https://open.spotify.com/track/78Tr4OatbnIyx9cwGp5vp1"
     },
     {
       "added_at": "2026-11-05 23:01:45",
@@ -1271,18 +1271,18 @@
     {
       "added_at": "2026-11-05 23:01:45",
       "album": {
-        "name": "Uno",
-        "url": "https://open.spotify.com/album/2Qjd3FONI5uY8A8BW5XcDl"
+        "name": "Veo Veo Mamoneo",
+        "url": "https://open.spotify.com/album/7u66tmYVMMEgIRbSrvKNVI"
       },
       "artists": [
         {
-          "name": "Arco",
-          "url": "https://open.spotify.com/artist/3HdW1zs4IHQSFa3gebmlGY"
+          "name": "Rosendo",
+          "url": "https://open.spotify.com/artist/0P4FkbP57uc9XBnJ9aoA3N"
         }
       ],
-      "duration_ms": 188914,
-      "name": "Lo dif\u00edcil",
-      "url": "https://open.spotify.com/track/78Tr4OatbnIyx9cwGp5vp1"
+      "duration_ms": 243040,
+      "name": "Masculino singular",
+      "url": "https://open.spotify.com/track/52QD2RqoYu47mKA1gs4I3M"
     },
     {
       "added_at": "2026-11-05 23:01:45",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2026-11-05 23:01:45",
       "album": {
-        "name": "El Endemoniao",
-        "url": "https://open.spotify.com/album/0ynF4FlizK18ZSlSuLvjOo"
-      },
-      "artists": [
-        {
-          "name": "Alcal\u00e1 Norte",
-          "url": "https://open.spotify.com/artist/7raVfIwIqNjj5OGBbBQNDR"
-        }
-      ],
-      "duration_ms": 214537,
-      "name": "El Endemoniao",
-      "url": "https://open.spotify.com/track/6MGPdKnqiyEqDzEIxoEsvT"
-    },
-    {
-      "added_at": "2026-11-05 23:01:45",
-      "album": {
         "name": "Mediterr\u00e1naeo",
         "url": "https://open.spotify.com/album/7CZDkvrW1btWAv7oV0Sl3o"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 263506,
       "name": "Tu frialdad",
       "url": "https://open.spotify.com/track/2A3WfAbX9KHMQhewdpUiok"
+    },
+    {
+      "added_at": "2026-11-05 23:01:45",
+      "album": {
+        "name": "El Endemoniao",
+        "url": "https://open.spotify.com/album/0ynF4FlizK18ZSlSuLvjOo"
+      },
+      "artists": [
+        {
+          "name": "Alcal\u00e1 Norte",
+          "url": "https://open.spotify.com/artist/7raVfIwIqNjj5OGBbBQNDR"
+        }
+      ],
+      "duration_ms": 214537,
+      "name": "El Endemoniao",
+      "url": "https://open.spotify.com/track/6MGPdKnqiyEqDzEIxoEsvT"
     },
     {
       "added_at": "2026-11-05 23:01:45",
@@ -1847,22 +1847,6 @@
     {
       "added_at": "2026-11-05 23:01:45",
       "album": {
-        "name": "Historia de una Banda (En Directo)",
-        "url": "https://open.spotify.com/album/5yxWQnpSWZdXeiZ6YPOOlu"
-      },
-      "artists": [
-        {
-          "name": "El \u00daltimo De La Fila",
-          "url": "https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I"
-        }
-      ],
-      "duration_ms": 230779,
-      "name": "Aviones Plateados - En Directo",
-      "url": "https://open.spotify.com/track/2fqKBa80qJ7yhucBwLXZF5"
-    },
-    {
-      "added_at": "2026-11-05 23:01:45",
-      "album": {
         "name": "Loba",
         "url": "https://open.spotify.com/album/6UQz9dVDv2jt6qWkmYdyvI"
       },
@@ -1879,6 +1863,22 @@
     {
       "added_at": "2026-11-05 23:01:45",
       "album": {
+        "name": "Historia de una Banda (En Directo)",
+        "url": "https://open.spotify.com/album/5yxWQnpSWZdXeiZ6YPOOlu"
+      },
+      "artists": [
+        {
+          "name": "El \u00daltimo De La Fila",
+          "url": "https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I"
+        }
+      ],
+      "duration_ms": 230779,
+      "name": "Aviones Plateados - En Directo",
+      "url": "https://open.spotify.com/track/2fqKBa80qJ7yhucBwLXZF5"
+    },
+    {
+      "added_at": "2026-11-05 23:01:45",
+      "album": {
         "name": "Rock and Roll Actitud (1978-2018)",
         "url": "https://open.spotify.com/album/5UWflqGh9hNMGZQV3Jmn92"
       },
@@ -1891,22 +1891,6 @@
       "duration_ms": 299977,
       "name": "Rey del Glam",
       "url": "https://open.spotify.com/track/7tWHQ6cmZ1Li3g1OdlHWz1"
-    },
-    {
-      "added_at": "2026-11-05 23:01:45",
-      "album": {
-        "name": "Caras Largas",
-        "url": "https://open.spotify.com/album/6U7YP4tBO7V4WemTMmzlWx"
-      },
-      "artists": [
-        {
-          "name": "Interferencias",
-          "url": "https://open.spotify.com/artist/5FfMaucNsbPciI1kCmVQIN"
-        }
-      ],
-      "duration_ms": 169130,
-      "name": "Caras Largas",
-      "url": "https://open.spotify.com/track/4CA9IaYwMN5W9noZaav3u5"
     },
     {
       "added_at": "2026-11-05 23:01:45",
@@ -1935,18 +1919,18 @@
     {
       "added_at": "2026-11-05 23:01:45",
       "album": {
-        "name": "Rock en Espa\u00f1ol",
-        "url": "https://open.spotify.com/album/0ynW2QsMEAOTnJKolbSWSV"
+        "name": "Caras Largas",
+        "url": "https://open.spotify.com/album/6U7YP4tBO7V4WemTMmzlWx"
       },
       "artists": [
         {
-          "name": "Joaqu\u00edn Sabina",
-          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
+          "name": "Interferencias",
+          "url": "https://open.spotify.com/artist/5FfMaucNsbPciI1kCmVQIN"
         }
       ],
-      "duration_ms": 236160,
-      "name": "Pacto Entre Caballeros",
-      "url": "https://open.spotify.com/track/2pD9O35trzPh9yqqNCIuL5"
+      "duration_ms": 169130,
+      "name": "Caras Largas",
+      "url": "https://open.spotify.com/track/4CA9IaYwMN5W9noZaav3u5"
     },
     {
       "added_at": "2026-11-05 23:01:45",
@@ -1963,6 +1947,22 @@
       "duration_ms": 173533,
       "name": "Pongamos Que Hablo de Madrid",
       "url": "https://open.spotify.com/track/6RVCZgNqZQQSRDFtE7zFwt"
+    },
+    {
+      "added_at": "2026-11-05 23:01:45",
+      "album": {
+        "name": "Rock en Espa\u00f1ol",
+        "url": "https://open.spotify.com/album/0ynW2QsMEAOTnJKolbSWSV"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Sabina",
+          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
+        }
+      ],
+      "duration_ms": 236160,
+      "name": "Pacto Entre Caballeros",
+      "url": "https://open.spotify.com/track/2pD9O35trzPh9yqqNCIuL5"
     },
     {
       "added_at": "2026-11-05 23:01:45",

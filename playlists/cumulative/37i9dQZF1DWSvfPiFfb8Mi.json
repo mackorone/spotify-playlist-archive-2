@@ -2108,7 +2108,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 300487,
       "name": "Doo Wop A Doo - Extended Mix",
       "url": "https://open.spotify.com/track/7ioWXXNAv04z5RHQlLj5QT"
@@ -4077,6 +4077,24 @@
     },
     {
       "album": {
+        "name": "In a Brooklyn Night",
+        "url": "https://open.spotify.com/album/064gZvLzCL65tP13WCNYBy"
+      },
+      "artists": [
+        {
+          "name": "Babert",
+          "url": "https://open.spotify.com/artist/2WyIaamOi8lW7R7nhGMDoe"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226451,
+      "name": "In a Brooklyn Night",
+      "url": "https://open.spotify.com/track/1yd4jZMJhmKTrgyp2Jsn6R"
+    },
+    {
+      "album": {
         "name": "In Control",
         "url": "https://open.spotify.com/album/3SD9BUjJvoSY3Uiafm83lb"
       },
@@ -5580,6 +5598,24 @@
       "duration_ms": 215370,
       "name": "Mess It Up - Purple Disco Machine Remix",
       "url": "https://open.spotify.com/track/7wkTF8cHGCurrfNATqvJLc"
+    },
+    {
+      "album": {
+        "name": "Superbloom (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2EJYUIinC3NXtlsFbJtCXX"
+      },
+      "artists": [
+        {
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258218,
+      "name": "Middle Of The Night",
+      "url": "https://open.spotify.com/track/2CTiUfh0kMF5znU84IdjtP"
     },
     {
       "album": {
@@ -7730,7 +7766,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 193706,
       "name": "Sing It Back (feat. Dana Williams)",
       "url": "https://open.spotify.com/track/6j8TmyhwPunLSpeNA4kVnI"

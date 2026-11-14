@@ -14475,6 +14475,24 @@
     },
     {
       "album": {
+        "name": "FAST LIFE",
+        "url": "https://open.spotify.com/album/6veJjIj238yfsTg137hv4C"
+      },
+      "artists": [
+        {
+          "name": "L2B",
+          "url": "https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173800,
+      "name": "Dedans",
+      "url": "https://open.spotify.com/track/76afFB8dlUYFhW1INRfi01"
+    },
+    {
+      "album": {
         "name": "Deep Down (feat. Never Dull)",
         "url": "https://open.spotify.com/album/3KpxpdySrMR2S7noneu1bI"
       },
@@ -29524,7 +29542,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-13",
+      "date_removed": null,
       "duration_ms": 157766,
       "name": "Lettre \u00e0 une femme",
       "url": "https://open.spotify.com/track/10rwyGbKAWZ8JZbL7uHl28"
@@ -29542,7 +29560,7 @@
       ],
       "date_added": "2026-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 157766,
       "name": "Lettre \u00e0 une femme",
       "url": "https://open.spotify.com/track/5HEtuK03ygUzqca6yfgOYZ"
@@ -30338,7 +30356,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-12",
+      "date_removed": null,
       "duration_ms": 223069,
       "name": "Loser",
       "url": "https://open.spotify.com/track/7bxaFZ1O3cHkgLKMsdC3xR"
@@ -38946,7 +38964,7 @@
       ],
       "date_added": "2026-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 121704,
       "name": "Pangor (Swalalala)",
       "url": "https://open.spotify.com/track/02tj7EJuf48fJ2S4tS7htr"
@@ -43700,7 +43718,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 137973,
       "name": "REN\u00c9 CAOVILLA",
       "url": "https://open.spotify.com/track/4oJxjHkaEq07v25iTcDIxT"

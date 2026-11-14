@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVQreDCvFMf.md) - [plain]
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: Jolianne
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,636 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,685 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVQreDCvFMf.md) - [plain]
 | 4 | [Ating Panahon](https://open.spotify.com/track/0drQHJ1k4Ski9KKwbY6T62) | [Amiel Sol](https://open.spotify.com/artist/4iXntje546XRJmmMTjTO7g) | [Ating Panahon](https://open.spotify.com/album/3eLIaoG4yf8sJyUbBXVdt4) | 4:08 |
 | 5 | [Baka Sakali](https://open.spotify.com/track/0QjT1Y2qToHnkD6bATP9OF) | [Jolianne](https://open.spotify.com/artist/0GuaoBVOFuVXuhbrmSD1je) | [Baka Sakali](https://open.spotify.com/album/6dkiifYuZaYUrs6aNeykvZ) | 3:17 |
 | 6 | [Tsaka Nalang](https://open.spotify.com/track/6j05nGDZcNBOO5Wanwg9uQ) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Tsaka Nalang](https://open.spotify.com/album/2HEYlaK6YDhO1AgwFdRIHg) | 3:18 |
-| 7 | [Track 3](https://open.spotify.com/track/735s7kB0oA5PXgXtiSZLMG) | [NEW LORE](https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E) | [Very Ancient Way of Crying](https://open.spotify.com/album/3xbauaiHd7Ah6wzGjfmoYo) | 0:00 |
+| 7 | [Sad Girl \(feat\. Ichika Nito & Gabba\)](https://open.spotify.com/track/735s7kB0oA5PXgXtiSZLMG) | [NEW LORE](https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E), [Ichika Nito](https://open.spotify.com/artist/1v7B6ZWa7QRQS3knn3Jvf4), [Gabba](https://open.spotify.com/artist/6tvCQZS4d1wJ9cA9Gl0ZqP) | [Very Ancient Way of Crying](https://open.spotify.com/album/3xbauaiHd7Ah6wzGjfmoYo) | 3:22 |
 | 8 | [Star Song](https://open.spotify.com/track/5TGaPefQfu1Z2exPWU96Vf) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [Star Song](https://open.spotify.com/album/1XHBSxQuqSPrzJEmzlKRUB) | 3:56 |
 | 9 | [Sino](https://open.spotify.com/track/2hRl5Nm0XLKNrypmNwGrUv) | [Sintala](https://open.spotify.com/artist/4HgrdGmmnGzCNqHwSzsYjY) | [Sino](https://open.spotify.com/album/4lFNyQL0QZ1350DDxiksmc) | 3:50 |
 | 10 | [Leaves \(Reimagined\)](https://open.spotify.com/track/4WgfuNwzjQPRmvqz7GGAmf) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Leaves \(Reimagined\)](https://open.spotify.com/album/3aScrLHSKGCyo8MRiyJop0) | 6:05 |

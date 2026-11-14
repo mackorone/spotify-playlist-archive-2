@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-1,699 songs - 3 day 13 hr 27 min
+1,700 songs - 3 day 13 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1044,7 +1044,7 @@
 | [Manifest](https://open.spotify.com/track/6FGbxOWr2PhOHd6N06nafP) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf), [Arem Ozguc](https://open.spotify.com/artist/5JJc8is4VzgOz8ZanDj18J), [Arman Aydin](https://open.spotify.com/artist/4xklx5DAtVru5uf3vSXTgf) | [manifestival](https://open.spotify.com/album/15p1byCMc7mi42zFKUziBJ) | 2:29 | 2025-06-14 | 2026-07-28 |
 | [Manolya](https://open.spotify.com/track/6MUv30zouC8LeRCB2VCcK3) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz), [Kurtuluş Kuş](https://open.spotify.com/artist/4jF4tHJlYKS5Z9xdEatCfq) | [Manolya](https://open.spotify.com/album/1bXqjBmgsbKO0I8lUdGCKb) | 3:05 | 2023-07-08 | 2024-02-10 |
 | [MARALIM](https://open.spotify.com/track/2WDQgqHMnbMSvYqNPJ1IIb) | [Maral](https://open.spotify.com/artist/2JcW80GkUeqlA9HGHNVugP) | [MARALIM](https://open.spotify.com/album/0Gg74PqzDIPUiXmB2dYTfT) | 2:22 | 2025-06-07 | 2025-06-15 |
-| [Maraton](https://open.spotify.com/track/4jK6oMDJ54J8P5y5J86Ioh) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Maraton](https://open.spotify.com/album/4N2Xljd6DWSjCoSpXj2nLE) | 3:33 | 2025-12-27 |  |
+| [Maraton](https://open.spotify.com/track/4jK6oMDJ54J8P5y5J86Ioh) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Maraton](https://open.spotify.com/album/4N2Xljd6DWSjCoSpXj2nLE) | 3:33 | 2025-12-27 | 2026-11-14 |
 | [Maraton x 366](https://open.spotify.com/track/4ztzCTIWz27RnvzJgPHTQp) | [Cozulemez](https://open.spotify.com/artist/2iUttn1qpwFvar0Zl1Sf1l), [KarloX](https://open.spotify.com/artist/06T8AdRVP41z6CSb7NEP4v) | [Maraton x 366](https://open.spotify.com/album/7gf36lBWq5ZnmAPvTbBOxp) | 2:43 | 2026-05-04 | 2026-05-08 |
 | [Maraton x 366](https://open.spotify.com/track/00IfICRc7bd3H7b1Q9EaBU) | [farketmez](https://open.spotify.com/artist/39Lseoc0gCNj7jORuM7nes), [bvrat](https://open.spotify.com/artist/7HYZgNEO8fzYGVaqMFiw6l), [ben10rb](https://open.spotify.com/artist/4JMzeyMzO6s5SIBVQUEhXL), [indracan0](https://open.spotify.com/artist/4CQl0rfKD4DA5egsIZyxHd) | [Maraton x 366](https://open.spotify.com/album/2KIXR9IEz6623wcCRtecdA) | 2:42 | 2026-03-31 | 2026-04-02 |
 | [Maraton x 366](https://open.spotify.com/track/6LN3QmXVdmKdqWpHpTqmfI) | [wyborowa lover](https://open.spotify.com/artist/6pXvKvkLzbrF6tjvGaemGY), [carlsberg lover](https://open.spotify.com/artist/4w83euEqop45IfVaLZqVMm) | [Maraton x 366](https://open.spotify.com/album/3vXwOphV4jMN98Jd1twUl3) | 2:42 | 2026-03-29 | 2026-04-01 |
@@ -1688,6 +1688,7 @@
 | [Üzülmedim Ki](https://open.spotify.com/track/3ktq4HfC4fop2PgAmU6qtC) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp), [Büken](https://open.spotify.com/artist/5xvFmfo6COwVZoN8GHaBLs) | [Karışık Kaset 2](https://open.spotify.com/album/3xoEmltF7ZGBP7JEIV4kzQ) | 2:34 | 2026-04-25 | 2026-05-01 |
 | [Üzülmedim Ki](https://open.spotify.com/track/3wWFO3qZzgMGLEF1G33ClH) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp), [Büken](https://open.spotify.com/artist/5xvFmfo6COwVZoN8GHaBLs) | [Üzülmedim Ki](https://open.spotify.com/album/74zx4om0d3Yzeaq1KgmbIF) | 2:34 | 2026-03-23 | 2026-04-26 |
 | [Üzülmedin mi?](https://open.spotify.com/track/7s4j3L5z2qU6ferYLOmFz9) | [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Ben Bazen](https://open.spotify.com/album/3q1dbJRFdUAdvRcq7Kmwra) | 5:03 | 2026-05-18 | 2026-05-20 |
+| [Üç Kalp](https://open.spotify.com/track/5ZxZl0C2RwBeFKh8xb2bkK) | [Hepsi](https://open.spotify.com/artist/1kOoLMi8Z7nDeIa0bSfM3N) | [Hepsi Bir](https://open.spotify.com/album/1zAnSQ6Ukuaxd1Dfscak3J) | 3:51 | 2026-11-13 |  |
 | [ıslak kum](https://open.spotify.com/track/3XeMdSHi48X0XsDHckDhIM) | [Contra](https://open.spotify.com/artist/3tJELJoPZ4VTKmL0vppqLj) | [ıslak kum](https://open.spotify.com/album/3EYBLj3sg0egpnL9Dhwmdh) | 3:06 | 2021-03-27\* | 2021-08-22 |
 | [Şahane](https://open.spotify.com/track/4DbNopoUiA7WRz36e1hRS1) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3), [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [Şahane](https://open.spotify.com/album/04qJEkzjcJ3jSucaskYDSv) | 1:51 | 2022-09-03 | 2022-09-11 |
 | [Şahidim](https://open.spotify.com/track/3xnGK6EsiHUrDdHqjrbDC3) | [Eypio](https://open.spotify.com/artist/6h5P3J0j1x2lhiDk9w4deZ) | [Şahidim](https://open.spotify.com/album/270obzBQwAa765dPNuDKoa) | 3:02 | 2026-10-07 |  |

@@ -4,7 +4,7 @@
 
 > Boys groups/solo artists shining beyond borders\.  グローバルに活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Cover: Stray Kids
 
-1,177 songs - 2 day 15 hr 23 min
+1,179 songs - 2 day 15 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,6 +223,7 @@
 | [DANGER](https://open.spotify.com/track/5HBKNY11WYdJUY4iKXHzG1) | [MAZZEL](https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42) | [DANGER](https://open.spotify.com/album/3KJBbTH6HJ80waDYtLYvDb) | 2:31 | 2025-08-18 | 2025-11-03 |
 | [Dangerous](https://open.spotify.com/track/5unyDrt3v3Yfo7hV20G7DI) | [INFINITE](https://open.spotify.com/artist/1bkpTEmumLC3xc7HgMsttU) | [LIKE INFINITE](https://open.spotify.com/album/4na98IiEj4lAFQS3NKQ5qk) | 3:00 | 2025-03-06 | 2025-04-21 |
 | [DARK MATTER](https://open.spotify.com/track/0JTMpgGCb3AYhFj5CT8C6V) | [FANTASTICS from EXILE TRIBE](https://open.spotify.com/artist/162Ols90jU4CctXQz15NxS) | [FANTASTIC ROCKET](https://open.spotify.com/album/1lgDUdGBXBYYWS6MtyTFT6) | 3:11 | 2023-12-05 | 2024-01-03 |
+| [Darling](https://open.spotify.com/track/57s8MbRMoOsGl5WPdBw7k5) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [Darling](https://open.spotify.com/album/0YC7qhuvIai8TbYOn3xFCa) | 4:08 | 2026-11-13 |  |
 | [Darlin’](https://open.spotify.com/track/7BHFfKeKQuY7XfYi2DjO9E) | [DEEP](https://open.spotify.com/artist/3uh7AvkWcUbrc7ZXR0MW4b) | [Darlin’](https://open.spotify.com/album/7s0tExsJ0h3OWFEqfrsZIT) | 3:31 | 2024-01-02 | 2024-01-17 |
 | [Dash](https://open.spotify.com/track/5APxbxUDWyUChpgjJ0YQzE) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | ['Caligo Pt.1'](https://open.spotify.com/album/1aOh0kGw8kvLCEPttInx98) | 2:54 | 2025-03-06 | 2025-04-15 |
 | [Daybreak](https://open.spotify.com/track/1KTF3VM3K8BG02jMS6EeJk) | [TRENDZ](https://open.spotify.com/artist/6Bmr9e9x44iib7equMj5Qj) | [Daybreak](https://open.spotify.com/album/0DWHw48fL8FFeVUOjgekS6) | 3:35 | 2025-03-19 | 2025-03-26 |
@@ -270,7 +271,7 @@
 | [Dream With Us](https://open.spotify.com/track/4MNxZZl9iyLRvz9n1kHSEg) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [Dream With Us](https://open.spotify.com/album/1MKVIZSSI1346mVoBiLAy1) | 2:48 | 2026-06-12 | 2026-07-24 |
 | [Dreamcatcher](https://open.spotify.com/track/3TmMreqrdEeKajCI4c03X9) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [Dreamcatcher](https://open.spotify.com/album/6bWs8Z5U7wtyhsKLrB0CbA) | 2:58 | 2025-11-06 | 2026-01-30 |
 | [DRESS CODE](https://open.spotify.com/track/6rOL7BKB0pOFvwXZTKuhzp) | [ROIROM](https://open.spotify.com/artist/3g5EB8SrWpWGz82HifWZSj) | [DRESS CODE](https://open.spotify.com/album/4IiYdiEfrvdWkQ0I2k76Dx) | 2:41 | 2026-03-25 | 2026-05-08 |
-| [Drip](https://open.spotify.com/track/5JaMKAodzzLdFM2ARRTXb9) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Drip](https://open.spotify.com/album/5RAg0Dd2xkkZ3LEZzPNxYT) | 3:01 | 2026-10-27 |  |
+| [Drip](https://open.spotify.com/track/5JaMKAodzzLdFM2ARRTXb9) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Drip](https://open.spotify.com/album/5RAg0Dd2xkkZ3LEZzPNxYT) | 3:01 | 2026-10-27 | 2026-11-14 |
 | [Drivin' My Life](https://open.spotify.com/track/3Q8C8TefCUXCwR26VB1zdh) | [STARGLOW](https://open.spotify.com/artist/1iw2iFU0Tpq7xvkX4VZyfZ) | [Drivin' My Life](https://open.spotify.com/album/0cvs6S9VokjBLpVTxux9AZ) | 2:39 | 2026-07-21 | 2026-09-23 |
 | [Drop That!](https://open.spotify.com/track/0yIytxEHCvUcSCVRvwwXEi) | [CLOSE YOUR EYES](https://open.spotify.com/artist/1gyIB8QvgXCZsEghjwTDL5) | [256th Note](https://open.spotify.com/album/4gn5qA9UixpTwnP9Q0XKLW) | 3:02 | 2026-09-30 | 2026-10-07 |
 | [Dropkick](https://open.spotify.com/track/3epNFRifLGAHdsuLCsaVfE) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [First Howling : NOW](https://open.spotify.com/album/3Y4LfcFHqqewsQE2clXvlL) | 2:58 | 2023-11-23 | 2024-06-05 |
@@ -394,7 +395,7 @@
 | [GRIT](https://open.spotify.com/track/11FABIv3ns0K7lHEPi62LU) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [GRIT](https://open.spotify.com/album/0caAMH2CVBEEN3X1up9bKh) | 2:39 | 2025-05-26 | 2025-06-29 |
 | [Grounds](https://open.spotify.com/track/5RhSILGZCxUuoy8MTSiRWO) | [GENERATIONS from EXILE TRIBE](https://open.spotify.com/artist/4HfuyMMy295oBvbIuXr0v8), [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [Grounds](https://open.spotify.com/album/6a2KAwCsBvtqe7iXzsl71P) | 3:16 | 2025-09-08 | 2025-11-25 |
 | [growing pains](https://open.spotify.com/track/6zl7XKVQYzfSbNEMSfPpi3) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [growing pains](https://open.spotify.com/album/6eH7d6D70X0IbAGHBFP9yj) | 3:06 | 2026-02-06 | 2026-04-04 |
-| [Guitarist](https://open.spotify.com/track/75MJ2d8AmBWgf2yeZACwpa) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [DOPAMINE \- The 4th Mini Album](https://open.spotify.com/album/1dTUEYtgfNABjV3BDpSfXA) | 2:43 | 2026-09-08 |  |
+| [Guitarist](https://open.spotify.com/track/75MJ2d8AmBWgf2yeZACwpa) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [DOPAMINE \- The 4th Mini Album](https://open.spotify.com/album/1dTUEYtgfNABjV3BDpSfXA) | 2:43 | 2026-09-08 | 2026-11-14 |
 | [halfmoon](https://open.spotify.com/track/35a21TsJpAibvzwzTUHCi5) | [King & Prince](https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp) | [halfmoon](https://open.spotify.com/album/76xz9bp3cZxNEgJfV1u4zF) | 4:15 | 2024-05-21 | 2024-11-08 |
 | [HANA\_花](https://open.spotify.com/track/4mTWo6hbs8SMgI4Bo2jWFl) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [TAG ME](https://open.spotify.com/album/0uZD2qIc7Y9UsXFModWKau) | 3:23 | 2023-11-23 | 2024-02-28 |
 | [HANAMARU](https://open.spotify.com/track/2ZWtv5EADTwWVWRMQpI4rE) | [VIBY](https://open.spotify.com/artist/6yEmYNNxZJSWa52gCezahN) | [HANAMARU](https://open.spotify.com/album/6cJi17BAY5dou4xC8OD1pP) | 2:36 | 2026-05-12 | 2026-08-05 |
@@ -973,6 +974,7 @@
 | [UNISON](https://open.spotify.com/track/6NRbkFFCQ0SWOzB1tiYIG7) | [Kis\-My\-Ft2](https://open.spotify.com/artist/4kxoWjOpCVYKgPv9nea95k) | [UNISON](https://open.spotify.com/album/6ITFDT8yNLqc7nBeF8dL2S) | 3:44 | 2026-02-12 | 2026-02-17 |
 | [Universe](https://open.spotify.com/track/61bFionfXJxkMit23Rvu5H) | [DAESUNG](https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO) | [D's WAVE](https://open.spotify.com/album/3HI2arleNFka7BTes75U83) | 3:47 | 2025-04-08 | 2025-07-04 |
 | [Universe Universe](https://open.spotify.com/track/2krr4us2sSfqFAMhE6NGUZ) | [FTISLAND](https://open.spotify.com/artist/6KhH771vq2X2Aom91nNzpZ) | [Instinct](https://open.spotify.com/album/1BDySgxDYGz430fD3MPkES) | 3:33 | 2025-09-16 | 2025-10-15 |
+| [UP](https://open.spotify.com/track/4DftOge3WDwVfuNUJmG8Qa) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [GOLDEN HOUR : Part.6](https://open.spotify.com/album/7jLYgdukFKw7suEf3CSDik) | 3:26 | 2026-11-13 |  |
 | [Up All Night](https://open.spotify.com/track/2652PzGxxU8jzARLLubmjD) | [xikers](https://open.spotify.com/artist/6QHP8St0MzfNDqjKpwtMht) | [Up All Night](https://open.spotify.com/album/0L0CetqAg2aiFsC5lHBbyh) | 3:35 | 2025-07-14 | 2025-08-01 |
 | [Upside Down](https://open.spotify.com/track/5a5QwAcEmYGYpE0nt14up9) | [CHANYEOL](https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5) | [Upside Down \- The 2nd Mini Album](https://open.spotify.com/album/6QCntvulIht3aec99G4Wrd) | 2:40 | 2025-08-24 | 2025-09-26 |
 | [Use Your Body](https://open.spotify.com/track/5jJanCOrDYbqfWO85B6XzJ) | [DA PUMP](https://open.spotify.com/artist/3NRXKeatDxKe4apH6XawKX) | [Use Your Body / E\-NERGY BOYS](https://open.spotify.com/album/7pVVu6AwIlArQyTUq8jpqu) | 2:59 | 2024-02-20 | 2024-03-13 |

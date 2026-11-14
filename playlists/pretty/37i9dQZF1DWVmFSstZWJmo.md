@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVmFSstZWJmo.md) - [plain]
 
 > Fcukers on the cover bby
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,288 likes - 100 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,333 likes - 100 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVmFSstZWJmo.md) - [plain]
 | 19 | [Hot Fun](https://open.spotify.com/track/2E3p2VCXYQMgxtwDt9dLDO) | [The Hellp](https://open.spotify.com/artist/5DslL3PUa3BcRlCCEP64A4) | [Hot Fun](https://open.spotify.com/album/4PzhTCrRTncrgOvGcOYpud) | 3:14 |
 | 20 | [Paris](https://open.spotify.com/track/07Ub5Xr2d5UjKAKJXNMP52) | [Just For Fun](https://open.spotify.com/artist/5jCHlaCfuvJlyn5a4yap3t) | [Paris](https://open.spotify.com/album/1JAD1lnNb3shHDqzMQpljy) | 2:22 |
 | 21 | [DARE \(feat\. Shaun Ryder & Roses Gabor\)](https://open.spotify.com/track/4Hff1IjRbLGeLgFgxvHflk) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Shaun Ryder](https://open.spotify.com/artist/3ONSkkEnOSZVNogu98dvTY), [Roses Gabor](https://open.spotify.com/artist/2gcdX1NqiPU2F4QxSlBo7r) | [Demon Days](https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT) | 4:04 |
-| 22 | [monkey disco brain](https://open.spotify.com/track/1h5KIQzrSqoWwXy5kcdDDI) | [Almost Heaven](https://open.spotify.com/artist/25M75SztfGLmmWJK09R1dN) | [RAW CRANIUM \(8 Month Anniversary Edition\)](https://open.spotify.com/album/47usfreydA0AeYe75FT4dP) | 3:16 |
+| 22 | [Dizzy](https://open.spotify.com/track/4mYcrBVBKX6xmWOLDlFOnJ) | [Matthew Dear](https://open.spotify.com/artist/2GLf7iaOOujAem5R87xwto) | [Dizzy](https://open.spotify.com/album/4DM3OmYpY56MyYR5cdb75F) | 3:04 |
 | 23 | [Young Folks](https://open.spotify.com/track/4dyx5SzxPPaD8xQIid5Wjj) | [Peter Bjorn and John](https://open.spotify.com/artist/6u11Qbko2N2hP4lTBYjX86) | [Writer's Block](https://open.spotify.com/album/5g4E06cxsFEMFE9hSekAt2) | 4:36 |
 | 24 | [Reptilia](https://open.spotify.com/track/57Xjny5yNzAcsxnusKmAfA) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Room On Fire](https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh) | 3:39 |
 | 25 | [Aux Romanticiser](https://open.spotify.com/track/58mbHzbxSRXmhkRAdvYvFS) | [The Itch](https://open.spotify.com/artist/64Db5ZXKSHKOKC7h1brQck) | [Aux Romanticiser](https://open.spotify.com/album/532yLPbM08MOlMR4bPIksS) | 5:41 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVmFSstZWJmo.md) - [plain]
 | 99 | [Undressed](https://open.spotify.com/track/0wzQIzJRmKSeHxvPiehhnh) | [Just For Fun](https://open.spotify.com/artist/5jCHlaCfuvJlyn5a4yap3t) | [Undressed](https://open.spotify.com/album/7cAqrnyNvOGsILKP3wVwN8) | 3:00 |
 | 100 | [Cousins](https://open.spotify.com/track/4tFOkEWNXiheSDnURpmGTp) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Contra](https://open.spotify.com/album/2zcMgU6PAlLUDQMqZcxxUU) | 2:25 |
 
-Snapshot ID: `AAAAAMWDxrnyDceYniUwG5X6lfM1ZgXz`
+Snapshot ID: `AAAAALNzfgIzxpsDD8cIreATyqKoEOaj`

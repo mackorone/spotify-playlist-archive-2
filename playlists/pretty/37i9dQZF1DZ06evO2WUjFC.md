@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WUjFC.md) - [plain]
 
 > This is Danny Felix\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,414 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,416 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WUjFC.md) - [plain]
 | 16 | [ANDO MALANDRO](https://open.spotify.com/track/1dSh7Yil3kXqxGRACpdn9c) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [EL GATITO NEGRO](https://open.spotify.com/album/0GRygM9xpSSHn5odtIVQy3) | 2:59 |
 | 17 | [Chiclona](https://open.spotify.com/track/36tSNlKEoGe7Wwb6PKRgc9) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Chiclona](https://open.spotify.com/album/3kZt0wob9pCSTNDVcNt5Ue) | 2:32 |
 | 18 | [30 Cartas \- En Vivo](https://open.spotify.com/track/0GVN5krhhtWiyBmZaUZpD5) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Fiesta Privada Desde El 602 \(En Vivo\)](https://open.spotify.com/album/2BMdhDB0AwzTxRoo8EQ2Te) | 4:07 |
-| 19 | [SEGUIR](https://open.spotify.com/track/15DYQlZ64lyccv5561p4Jv) | [Reynaldos de la Sierra](https://open.spotify.com/artist/13rTu0fmZMKFl0oB2JC1oe), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [CHULA ELLA 59](https://open.spotify.com/album/2hG9jA3GrO9myvWUmVfdty) | 3:15 |
+| 19 | [PLAKA](https://open.spotify.com/track/2guRQXwtWXSs2fdjqApG5N) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [LUCES ROJAS](https://open.spotify.com/album/3CI0ljFulRHYlDHBv4vV7O) | 2:54 |
 | 20 | [OFFICE](https://open.spotify.com/track/7qj6I5UlwhSVtrqBviCy8Q) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Christian Ortega](https://open.spotify.com/artist/528MXn4CmZm4mLZ9vutc1b) | [EL GATITO NEGRO](https://open.spotify.com/album/0GRygM9xpSSHn5odtIVQy3) | 2:25 |
-| 21 | [PLAKA](https://open.spotify.com/track/2guRQXwtWXSs2fdjqApG5N) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [LUCES ROJAS](https://open.spotify.com/album/3CI0ljFulRHYlDHBv4vV7O) | 2:54 |
+| 21 | [SEGUIR](https://open.spotify.com/track/15DYQlZ64lyccv5561p4Jv) | [Reynaldos de la Sierra](https://open.spotify.com/artist/13rTu0fmZMKFl0oB2JC1oe), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [CHULA ELLA 59](https://open.spotify.com/album/2hG9jA3GrO9myvWUmVfdty) | 3:15 |
 | 22 | [Morritas \- En Vivo](https://open.spotify.com/track/4FBCqhGaioQzi8MC8Z8IWa) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [CON LA COCHI \[VOL II \(EN VIVO\)\]](https://open.spotify.com/album/3WmaC3AjtOKrypdTmgOYqx) | 3:39 |
 | 23 | [Godfather \- En Vivo](https://open.spotify.com/track/4B8Z4TwXkssIuLPMTlNIcD) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Fiesta Privada Desde El 602 \(En Vivo\)](https://open.spotify.com/album/2BMdhDB0AwzTxRoo8EQ2Te) | 3:20 |
 | 24 | [DELIRANTE](https://open.spotify.com/track/7riPtZ3t5eiUZRsdOGvM2Z) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [EL GATITO NEGRO](https://open.spotify.com/album/0GRygM9xpSSHn5odtIVQy3) | 2:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WUjFC.md) - [plain]
 | 49 | [LVR](https://open.spotify.com/track/1OLoQ9k8WRYc6zQ4mBWEqP) | [Tyan G](https://open.spotify.com/artist/4j1Usj1sKyLB9CDpSZSZ2C), [Chris Hermosillo](https://open.spotify.com/artist/49s6IQppCi57xqZqwLIT7B), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [LVR](https://open.spotify.com/album/55eQK3OCkiOuEWyKczz1xQ) | 2:52 |
 | 50 | [Ya Están Cantando Los Gallos \(Live\)](https://open.spotify.com/track/7M0ai5eJ5f301qH51XZcjp) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Live, Rancho Style](https://open.spotify.com/album/7qt84cnhuRfW5dbufqY2RA) | 6:02 |
 
-Snapshot ID: `avOwAAAAAADdO2ceZ4OyNpEopJb/Rs79`
+Snapshot ID: `avUBgAAAAAC5frku0CF7ITktvXkTRWOj`

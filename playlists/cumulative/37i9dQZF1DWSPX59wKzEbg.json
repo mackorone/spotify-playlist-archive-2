@@ -827,6 +827,36 @@
     },
     {
       "album": {
+        "name": "Dreaming of a White Christmas (Live in Maastricht)",
+        "url": "https://open.spotify.com/album/5tZ26I4Vy4eFat6y4GZV1K"
+      },
+      "artists": [
+        {
+          "name": "Mykola Leontovych",
+          "url": "https://open.spotify.com/artist/7vdH45G4aZD0tIf3A74R7n"
+        },
+        {
+          "name": "Andr\u00e9 Rieu",
+          "url": "https://open.spotify.com/artist/3hJv5p2HwekJysNB2NDnEC"
+        },
+        {
+          "name": "Johann Strauss Orchestra",
+          "url": "https://open.spotify.com/artist/51HxUAjeZIOv4aniusaDkT"
+        },
+        {
+          "name": "Anna Reker",
+          "url": "https://open.spotify.com/artist/6nxKYPiKxKhmz29CmOYwiI"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331200,
+      "name": "Shchedryk - Live in Maastricht",
+      "url": "https://open.spotify.com/track/0ePb6ggBzsGQCuRJv3X9DB"
+    },
+    {
+      "album": {
         "name": "Christmas in The City",
         "url": "https://open.spotify.com/album/2Fj2qfm8s99jksE5aTuyaC"
       },

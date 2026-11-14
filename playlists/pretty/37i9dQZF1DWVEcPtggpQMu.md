@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 
 > Only the hottest South African rap\. <br/>Cover: Usimamane
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,293 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,324 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 | 5 | [Money Dance](https://open.spotify.com/track/0QPcXR3yncr8DzzUtJw8Yq) | [Coach Kling](https://open.spotify.com/artist/2pyiSqWlMN3iHwe0FAhspB), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Khuli Chana](https://open.spotify.com/artist/4f2hVqzqXvQdVaC35D8sAc) | [Money Dance](https://open.spotify.com/album/4Ez6tdQJvLlEnnZ3ngJ73k) | 3:04 |
 | 6 | [Abracadabra](https://open.spotify.com/track/5IcBKkOHvT76FMcRZWIgYH) | [Buzzi Lee](https://open.spotify.com/artist/5uq7zsfkgABEDUgJZzGZNR), [Mochen](https://open.spotify.com/artist/7DkwT8IpIAjcquKnCwyFRg), [ReasonHD](https://open.spotify.com/artist/5TnRfMYYlRqpLPRRmQngDO) | [Bontle](https://open.spotify.com/album/3RvtILZr9p53CVm4DWo7lV) | 3:26 |
 | 7 | [House Party Chronicles \(feat\. Mellow & Sleazy\)](https://open.spotify.com/track/2xsXfmYPC9R6eomGVTAxYE) | [MfanaTouchLine](https://open.spotify.com/artist/2RV0TompTWunZpF57DdQzJ), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Mellow & Sleazy](https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz) | [House Party Chronicles \(feat\. Mellow & Sleazy\)](https://open.spotify.com/album/45FRAVqOWOzReE3BYkTp5q) | 2:28 |
-| 8 | [B'thebelele](https://open.spotify.com/track/2rJ4NDYUmab3uF41ziMBTX) | [Nomfundo Yekani](https://open.spotify.com/artist/0djohoWvQY0SyNvKwqqfKy) | [B'thebelele](https://open.spotify.com/album/2aiXIGo4TDBhu6Oxg9CTHR) | 3:24 |
+| 8 | [B'thebelele](https://open.spotify.com/track/2rJ4NDYUmab3uF41ziMBTX) | [Nomfundo Yekani](https://open.spotify.com/artist/0djohoWvQY0SyNvKwqqfKy), [Thekidsnextdoor](https://open.spotify.com/artist/3RShIcV5kdBbcpH1XN5im0) | [B'thebelele](https://open.spotify.com/album/2aiXIGo4TDBhu6Oxg9CTHR) | 3:24 |
 | 9 | [Ngale \(feat\. CowBoii\)](https://open.spotify.com/track/2WHQ7rvhW0KroReNfUzaEK) | [Lowfeye](https://open.spotify.com/artist/6D6WUGWRD3tNnmGmtrr1Xn), [CowBoii](https://open.spotify.com/artist/5n0o0t9wgg6uzHqfVd2Yr1) | [Ngale \(feat\. CowBoii\)](https://open.spotify.com/album/6waMc894MZvbA8w3eLIObN) | 3:50 |
 | 10 | [ihhala](https://open.spotify.com/track/5NHZZHsClzIGVCQnwJQe7H) | [Sastii](https://open.spotify.com/artist/32Mj58IRbLXY5O8uj2O0Ml), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju) | [ihhala](https://open.spotify.com/album/2vdLOLnM9OGTmro6HwTEsP) | 3:36 |
 | 11 | [Ballon d'Or Remix](https://open.spotify.com/track/3iUF81GHyMqYeWKxan2KeZ) | [Rush\-Awa](https://open.spotify.com/artist/19EhZztnQppJEafanhneB2), [MashBeatz](https://open.spotify.com/artist/4NJo7JbXHgcLiitBFtWras), [Giftinperson](https://open.spotify.com/artist/2PLL5lJn6C9CrNMgeoUsKk), [DJ Sliqe](https://open.spotify.com/artist/1q4Av58diNwZtD01vPUoH5), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [MfanaTouchLine](https://open.spotify.com/artist/2RV0TompTWunZpF57DdQzJ) | [Ballon d'Or Remix](https://open.spotify.com/album/3d5kNScAcLbzZJz1u0qaLX) | 2:38 |

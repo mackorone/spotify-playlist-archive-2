@@ -60310,6 +60310,10 @@
         {
           "name": "Cro-Mags",
           "url": "https://open.spotify.com/artist/5WCrzTQZ6S6EgebqI57Ilg"
+        },
+        {
+          "name": "Zach Blair",
+          "url": "https://open.spotify.com/artist/0sylheuAxYDOdkQmn2t5m7"
         }
       ],
       "date_added": "2026-11-13",
@@ -211612,6 +211616,24 @@
       "duration_ms": 143946,
       "name": "The Wall",
       "url": "https://open.spotify.com/track/1WawIFyXJhxthsfFujjYez"
+    },
+    {
+      "album": {
+        "name": "Antillia",
+        "url": "https://open.spotify.com/album/6Z9z8yQXuE1z4rYYyxGQyJ"
+      },
+      "artists": [
+        {
+          "name": "Artificial Brain",
+          "url": "https://open.spotify.com/artist/0FJTTwSyFG3TnPYs0Gwuwr"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237577,
+      "name": "The Wandering Star Prion",
+      "url": "https://open.spotify.com/track/6SYo8XCfnHII9XGtamgUEE"
     },
     {
       "album": {

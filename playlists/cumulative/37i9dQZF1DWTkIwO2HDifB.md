@@ -2,7 +2,7 @@
 
 ### [Funk Hits](https://open.spotify.com/playlist/37i9dQZF1DWTkIwO2HDifB)
 
-> Os funks mais 🔑 do Brasil / Foto: MC JVila
+> Os funks mais 🔑 do Brasil / Foto: MC GP, Meno K, MC IG, Breninho VJ, Aaron Modesto, MC Ryan SP, MC Dena, MC Negão Original, MC Dena, MC Negão Original, DJ Glenner, DJ Menor PR, DJ Daltin no Beat
 
 470 songs - 1 day 4 hr 15 min
 

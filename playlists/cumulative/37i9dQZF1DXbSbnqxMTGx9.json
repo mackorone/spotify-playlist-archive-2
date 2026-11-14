@@ -1342,7 +1342,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 256600,
       "name": "Buffalo Soldier",
       "url": "https://open.spotify.com/track/59ByyDNkqRGxBom9nHssxf"
@@ -3166,7 +3166,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 197333,
       "name": "Good Thing Going",
       "url": "https://open.spotify.com/track/4MM4UlT0j7MePs9bMoi34N"
@@ -4163,6 +4163,24 @@
     },
     {
       "album": {
+        "name": "Burnin' (The Definitive Remasters)",
+        "url": "https://open.spotify.com/album/6axWF6fhMuB7pXAUONbGLE"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "date_added": "2021-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281026,
+      "name": "I Shot The Sheriff",
+      "url": "https://open.spotify.com/track/7bnRX1ObyGzzSuOWrNFLWw"
+    },
+    {
+      "album": {
         "name": "Burnin' (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5EZMcYc3xK0rlru83kHpUe"
       },
@@ -4214,24 +4232,6 @@
       "duration_ms": 281026,
       "name": "I Shot The Sheriff",
       "url": "https://open.spotify.com/track/1EB7UuUZ1KYKjRR4ZWFR2u"
-    },
-    {
-      "album": {
-        "name": "Burnin' (The Definitive Remasters)",
-        "url": "https://open.spotify.com/album/6axWF6fhMuB7pXAUONbGLE"
-      },
-      "artists": [
-        {
-          "name": "The Wailers",
-          "url": "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
-        }
-      ],
-      "date_added": "2021-03-02",
-      "date_added_asterisk": false,
-      "date_removed": "2026-11-12",
-      "duration_ms": 281026,
-      "name": "I Shot The Sheriff",
-      "url": "https://open.spotify.com/track/7bnRX1ObyGzzSuOWrNFLWw"
     },
     {
       "album": {
@@ -5514,7 +5514,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-11",
+      "date_removed": null,
       "duration_ms": 175026,
       "name": "Let Me Down Easy",
       "url": "https://open.spotify.com/track/41Z1gnggllzvu7qOWTaSTE"

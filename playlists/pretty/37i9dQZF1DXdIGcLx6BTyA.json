@@ -1259,6 +1259,22 @@
     {
       "added_at": "2026-06-05 20:49:32",
       "album": {
+        "name": "Apocalypse",
+        "url": "https://open.spotify.com/album/13VVtuvboNAaPFcKsQsjLP"
+      },
+      "artists": [
+        {
+          "name": "Bill Callahan",
+          "url": "https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr"
+        }
+      ],
+      "duration_ms": 365746,
+      "name": "Riding For The Feeling",
+      "url": "https://open.spotify.com/track/6qo9HElLHUptcwpVprsS4C"
+    },
+    {
+      "added_at": "2026-06-05 20:49:32",
+      "album": {
         "name": "Loretta",
         "url": "https://open.spotify.com/album/14eHpLl1n8q8OwO44unjE9"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 148522,
       "name": "Loretta",
       "url": "https://open.spotify.com/track/7se1SwflQspTPATjG5xV5X"
-    },
-    {
-      "added_at": "2026-06-05 20:49:32",
-      "album": {
-        "name": "Apocalypse",
-        "url": "https://open.spotify.com/album/13VVtuvboNAaPFcKsQsjLP"
-      },
-      "artists": [
-        {
-          "name": "Bill Callahan",
-          "url": "https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr"
-        }
-      ],
-      "duration_ms": 365746,
-      "name": "Riding For The Feeling",
-      "url": "https://open.spotify.com/track/6qo9HElLHUptcwpVprsS4C"
     },
     {
       "added_at": "2026-06-05 20:49:32",

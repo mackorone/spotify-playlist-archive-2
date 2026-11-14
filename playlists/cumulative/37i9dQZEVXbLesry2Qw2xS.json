@@ -16744,7 +16744,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 144521,
       "name": "Fever",
       "url": "https://open.spotify.com/track/09xhawlPUifhftf8zuie7w"
@@ -28148,7 +28148,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-08",
+      "date_removed": null,
       "duration_ms": 267000,
       "name": "Kolmest soovist viimane",
       "url": "https://open.spotify.com/track/1L5mFtFhrOae6PCBoEOQUz"
@@ -37548,6 +37548,24 @@
       "duration_ms": 197817,
       "name": "My Man on Willpower",
       "url": "https://open.spotify.com/track/3EMfeKtNK4q4k3sVjwg5Yy"
+    },
+    {
+      "album": {
+        "name": "The Reminder",
+        "url": "https://open.spotify.com/album/27Y2wm3WcFThQocgjLI5wF"
+      },
+      "artists": [
+        {
+          "name": "Feist",
+          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228360,
+      "name": "My Moon My Man",
+      "url": "https://open.spotify.com/track/4fQVQKIiidREPI0MhFEuDn"
     },
     {
       "album": {
@@ -58912,7 +58930,7 @@
       ],
       "date_added": "2026-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 169714,
       "name": "Vaadi hele (chug chug)",
       "url": "https://open.spotify.com/track/0neOGgUXx8onOu46hlXKNc"

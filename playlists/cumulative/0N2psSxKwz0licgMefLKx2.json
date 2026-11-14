@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-08",
-  "description": "The biggest Country hits of the year w Morgan Wallen, Tucker Wetmore, and Josh Ross! Cover: Josh Ross",
+  "description": "The biggest Country hits of the year w Morgan Wallen, Tucker Wetmore, and Josh Ross! Cover: Owen Riegling",
   "name": "2026 COUNTRY BANGERS \ud83e\udd20\ud83d\udd25",
   "tracks": [
     {
@@ -5239,6 +5239,24 @@
     },
     {
       "album": {
+        "name": "Leave You Lonely",
+        "url": "https://open.spotify.com/album/27E44sJ5lwE1HhY9EYjmBS"
+      },
+      "artists": [
+        {
+          "name": "Sully Burrows",
+          "url": "https://open.spotify.com/artist/5lCc0O15jryv68uC4A8McT"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206335,
+      "name": "Missing Then",
+      "url": "https://open.spotify.com/track/5EZdPaQgcoKZTNPr135Gce"
+    },
+    {
+      "album": {
         "name": "Parker McCollum (The Deluxe Edition)",
         "url": "https://open.spotify.com/album/4WISa1TyvE8My12P4ie0Ql"
       },
@@ -6147,6 +6165,24 @@
     },
     {
       "album": {
+        "name": "In The Feeling (Deluxe)",
+        "url": "https://open.spotify.com/album/5TPWHD9a20t0eVW4RYrCME"
+      },
+      "artists": [
+        {
+          "name": "Owen Riegling",
+          "url": "https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213005,
+      "name": "Place And Space In Time",
+      "url": "https://open.spotify.com/track/1gR8iPbYTp8Gzpa7ScMALI"
+    },
+    {
+      "album": {
         "name": "Short n' Sweet (Deluxe)",
         "url": "https://open.spotify.com/album/3WzBIQmn2hrulLeTY9smkk"
       },
@@ -6278,7 +6314,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 156562,
       "name": "Put It On Me",
       "url": "https://open.spotify.com/track/2JZDyIQLudHyPupl7P9eDW"

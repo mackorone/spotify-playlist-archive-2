@@ -412,7 +412,7 @@
       ],
       "date_added": "2024-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-11",
+      "date_removed": null,
       "duration_ms": 346096,
       "name": "Come Together (feat. Tim Bowman Jr., Joy Enriquez, Kirk Franklin, Kelontae Gavin, Fred Hammond, Heavenly Joy, Le'Andria Johnson, Lecrae, Mary Mary, Jac Ross, Marvin Sapp, Karen Clark Sheard, Kierra Sheard & Shelby 5)",
       "url": "https://open.spotify.com/track/7DpfOkks38EfsrVcG9Zmhw"
@@ -798,7 +798,7 @@
       ],
       "date_added": "2023-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 209927,
       "name": "Grateful",
       "url": "https://open.spotify.com/track/4KRV4TREh5zVsIxrnvA8XL"
@@ -1134,6 +1134,28 @@
       "duration_ms": 303080,
       "name": "Kill The Dragon",
       "url": "https://open.spotify.com/track/3K2rE2AsGABWSfnZMJ3uUe"
+    },
+    {
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/3Wqg1YZuXCLZtsxn26cXee"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        },
+        {
+          "name": "JDS",
+          "url": "https://open.spotify.com/artist/7GeIcTu4YxcVc0stcO5oQm"
+        }
+      ],
+      "date_added": "2026-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258200,
+      "name": "Lane",
+      "url": "https://open.spotify.com/track/6yPMv21GYiE0j4LbMLypsy"
     },
     {
       "album": {
@@ -1944,7 +1966,7 @@
       ],
       "date_added": "2023-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 282440,
       "name": "So Glad",
       "url": "https://open.spotify.com/track/51BH2ibqUvomGPYProjKtR"

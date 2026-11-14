@@ -1,28 +1,32 @@
 {
-  "description": "New music from your favorite women.  Cover: Honey Bxby",
-  "num_followers": 233746,
+  "description": "New music from your favorite women.  Cover: Taner\u00e9lle",
+  "num_followers": 233778,
   "original_name": "Queen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEZ4ijAaqs73hFXAGoLPbXLHm6Q0",
+  "snapshot_id": "AAAAAK/AcRgbjD+/L/hiSKglB1hZwN99",
   "tracks": [
     {
-      "added_at": "2026-11-06 18:35:09",
+      "added_at": "2026-11-13 08:25:36",
       "album": {
-        "name": "Care For Me",
-        "url": "https://open.spotify.com/album/5FGi5bv38kh0Y7TFHEeglg"
+        "name": "Simulation Blue",
+        "url": "https://open.spotify.com/album/7zBQKkz4PN69UgRPEoolGV"
       },
       "artists": [
         {
-          "name": "Honey Bxby",
-          "url": "https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO"
+          "name": "Taner\u00e9lle",
+          "url": "https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH"
+        },
+        {
+          "name": "Ambr\u00e9",
+          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
         }
       ],
-      "duration_ms": 193562,
-      "name": "Care For Me",
-      "url": "https://open.spotify.com/track/2EzboMQm7LEKWnbmkcORG8"
+      "duration_ms": 152426,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/7o0Nw1ab2ZqHYNUatC4IdR"
     },
     {
       "added_at": "2026-10-23 04:02:18",
@@ -61,20 +65,76 @@
       "url": "https://open.spotify.com/track/1nxrZb6CTpxdajFn2NhpQx"
     },
     {
-      "added_at": "2026-10-23 04:02:18",
+      "added_at": "2026-11-13 08:25:36",
       "album": {
-        "name": "the 5 stages of heartbreak",
-        "url": "https://open.spotify.com/album/6ZWJDaWxNzh7bxrPEWrH9K"
+        "name": "Westside",
+        "url": "https://open.spotify.com/album/4ZOaUTaLlFUjXX7YLl8TYL"
       },
       "artists": [
         {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
         }
       ],
-      "duration_ms": 181769,
-      "name": "the 5 stages of heartbreak",
-      "url": "https://open.spotify.com/track/0eFNKgtxSByzY9fDkP5ZWs"
+      "duration_ms": 180000,
+      "name": "Westside",
+      "url": "https://open.spotify.com/track/5oI9TTtpWU1bxS7COtNy9r"
+    },
+    {
+      "added_at": "2026-11-13 08:25:36",
+      "album": {
+        "name": "HONEYMOON Remix (with Craig David)",
+        "url": "https://open.spotify.com/album/737OIezy5ApYIKSsl9zlpA"
+      },
+      "artists": [
+        {
+          "name": "Parisalexa",
+          "url": "https://open.spotify.com/artist/7CZXfBcIhQ2dPEqk3N74vV"
+        },
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "duration_ms": 171333,
+      "name": "HONEYMOON Remix (with Craig David)",
+      "url": "https://open.spotify.com/track/5GpN4aH67xZ28HvpvmD1LI"
+    },
+    {
+      "added_at": "2026-09-18 07:05:18",
+      "album": {
+        "name": "Yeeha",
+        "url": "https://open.spotify.com/album/42jVIJiwgF0PxX0mcJAFgB"
+      },
+      "artists": [
+        {
+          "name": "LAYA",
+          "url": "https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X"
+        }
+      ],
+      "duration_ms": 239613,
+      "name": "Yeeha",
+      "url": "https://open.spotify.com/track/1POaAJ2xIIxPJPbrN72LyW"
+    },
+    {
+      "added_at": "2026-11-13 08:25:36",
+      "album": {
+        "name": "Legendary Love",
+        "url": "https://open.spotify.com/album/74ExA1UleSA3kSC0TyNObv"
+      },
+      "artists": [
+        {
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+        }
+      ],
+      "duration_ms": 171813,
+      "name": "Supernova",
+      "url": "https://open.spotify.com/track/5UQPo4DofgIrrSZfliJYKR"
     },
     {
       "added_at": "2026-11-06 18:35:09",
@@ -97,6 +157,22 @@
       "url": "https://open.spotify.com/track/61opBcsBWRg15cIhxEKpFJ"
     },
     {
+      "added_at": "2026-11-13 08:25:36",
+      "album": {
+        "name": "Leave You (Never)",
+        "url": "https://open.spotify.com/album/719K239D6kQI3oi3Bw8rbJ"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "duration_ms": 168154,
+      "name": "Leave You (Never)",
+      "url": "https://open.spotify.com/track/3e3CdVMNH7gIvjKrzO63b7"
+    },
+    {
       "added_at": "2026-11-06 18:35:09",
       "album": {
         "name": "Don't Wanna Know",
@@ -113,20 +189,24 @@
       "url": "https://open.spotify.com/track/4xphD56uE6hbDlrIWW9gHd"
     },
     {
-      "added_at": "2026-09-18 07:05:18",
+      "added_at": "2026-11-13 08:25:36",
       "album": {
-        "name": "Yeeha",
-        "url": "https://open.spotify.com/album/42jVIJiwgF0PxX0mcJAFgB"
+        "name": "Wash (feat. HILLARI)",
+        "url": "https://open.spotify.com/album/3AW3TheYh6k1F1YWRUnsBb"
       },
       "artists": [
         {
-          "name": "LAYA",
-          "url": "https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X"
+          "name": "Tori Kelly",
+          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
+        },
+        {
+          "name": "HILLARI",
+          "url": "https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM"
         }
       ],
-      "duration_ms": 239613,
-      "name": "Yeeha",
-      "url": "https://open.spotify.com/track/1POaAJ2xIIxPJPbrN72LyW"
+      "duration_ms": 193630,
+      "name": "Wash (feat. HILLARI)",
+      "url": "https://open.spotify.com/track/6vQqtIxxXg8MiIHEhQaFNO"
     },
     {
       "added_at": "2026-10-16 05:51:05",
@@ -145,36 +225,52 @@
       "url": "https://open.spotify.com/track/4OyMFGeTq844ZBRtqc19V2"
     },
     {
-      "added_at": "2026-11-06 18:35:09",
+      "added_at": "2026-11-13 08:25:36",
       "album": {
-        "name": "DISTANCE",
-        "url": "https://open.spotify.com/album/3DKZQZ18DoO9d78SVEa3WK"
+        "name": "Vibing In The Corner",
+        "url": "https://open.spotify.com/album/2EfyELStbtugJB71ucMUHc"
       },
       "artists": [
         {
-          "name": "Libianca",
-          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
+          "name": "Stacy Barthe",
+          "url": "https://open.spotify.com/artist/0yq6uHIfFks9yOURUuCITV"
         }
       ],
-      "duration_ms": 132480,
-      "name": "DISTANCE",
-      "url": "https://open.spotify.com/track/3N0U4QtIj3mtQEta7u8Cyv"
+      "duration_ms": 200388,
+      "name": "Vibing In The Corner",
+      "url": "https://open.spotify.com/track/12CNxQMup0oxwTdvhSJDci"
     },
     {
-      "added_at": "2026-11-06 18:35:09",
+      "added_at": "2026-11-13 08:25:36",
       "album": {
-        "name": "Don't Stare At The Flame",
-        "url": "https://open.spotify.com/album/1Zh57V6mWKWHld4H1KtzWX"
+        "name": "Superstar",
+        "url": "https://open.spotify.com/album/4sKsFOnc9e3niSU2oSBr84"
       },
       "artists": [
         {
-          "name": "Ojerime",
-          "url": "https://open.spotify.com/artist/2kVmW0EZG23dqsqeRZ4Jg0"
+          "name": "Maeta",
+          "url": "https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO"
         }
       ],
-      "duration_ms": 159803,
-      "name": "Somebody",
-      "url": "https://open.spotify.com/track/156QdHdgJMAyy1B8oHzAcJ"
+      "duration_ms": 175972,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/0pwsSPpKWAkvJZsNI3Btu4"
+    },
+    {
+      "added_at": "2026-10-23 04:02:18",
+      "album": {
+        "name": "the 5 stages of heartbreak",
+        "url": "https://open.spotify.com/album/6ZWJDaWxNzh7bxrPEWrH9K"
+      },
+      "artists": [
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        }
+      ],
+      "duration_ms": 181769,
+      "name": "the 5 stages of heartbreak",
+      "url": "https://open.spotify.com/track/0eFNKgtxSByzY9fDkP5ZWs"
     },
     {
       "added_at": "2026-10-30 04:42:29",
@@ -193,20 +289,68 @@
       "url": "https://open.spotify.com/track/4WxZocojIggeAJJtDLAKHr"
     },
     {
-      "added_at": "2026-10-23 04:02:18",
+      "added_at": "2026-11-13 08:25:36",
       "album": {
-        "name": "I Love You",
-        "url": "https://open.spotify.com/album/31wXDPNODAAp5v0F9Kq6zZ"
+        "name": "No Sleep In Paradise: Still Awake*",
+        "url": "https://open.spotify.com/album/1AHQF2QLVpI7u0gGJ47vPt"
       },
       "artists": [
         {
-          "name": "Snoh Aalegra",
-          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+          "name": "Naomi Sharon",
+          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
         }
       ],
-      "duration_ms": 197760,
-      "name": "I Love You",
-      "url": "https://open.spotify.com/track/0yXMe310dgpquMTa7OmHKk"
+      "duration_ms": 214925,
+      "name": "Colours",
+      "url": "https://open.spotify.com/track/79sMJBqe2kRAJddQAaIDse"
+    },
+    {
+      "added_at": "2026-11-06 18:35:09",
+      "album": {
+        "name": "Don't Stare At The Flame",
+        "url": "https://open.spotify.com/album/1Zh57V6mWKWHld4H1KtzWX"
+      },
+      "artists": [
+        {
+          "name": "Ojerime",
+          "url": "https://open.spotify.com/artist/2kVmW0EZG23dqsqeRZ4Jg0"
+        }
+      ],
+      "duration_ms": 159803,
+      "name": "Somebody",
+      "url": "https://open.spotify.com/track/156QdHdgJMAyy1B8oHzAcJ"
+    },
+    {
+      "added_at": "2026-11-13 08:25:36",
+      "album": {
+        "name": "Fight For This Love",
+        "url": "https://open.spotify.com/album/443PogehD7eaxsfoaLq4tg"
+      },
+      "artists": [
+        {
+          "name": "Lizzie Berchie",
+          "url": "https://open.spotify.com/artist/4ZdG27oG6K31RhN9XKHt7m"
+        }
+      ],
+      "duration_ms": 204480,
+      "name": "Fight For This Love",
+      "url": "https://open.spotify.com/track/1HtKGqTOqJ7T0gWfuY6v0J"
+    },
+    {
+      "added_at": "2026-11-06 18:35:09",
+      "album": {
+        "name": "DISTANCE",
+        "url": "https://open.spotify.com/album/3DKZQZ18DoO9d78SVEa3WK"
+      },
+      "artists": [
+        {
+          "name": "Libianca",
+          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
+        }
+      ],
+      "duration_ms": 132480,
+      "name": "DISTANCE",
+      "url": "https://open.spotify.com/track/3N0U4QtIj3mtQEta7u8Cyv"
     },
     {
       "added_at": "2026-10-23 04:02:18",
@@ -223,6 +367,26 @@
       "duration_ms": 224690,
       "name": "SO MUCH, SO MUCH",
       "url": "https://open.spotify.com/track/0MfFIfcySy8KR3Zqi2QHgT"
+    },
+    {
+      "added_at": "2026-11-13 08:25:36",
+      "album": {
+        "name": "Sundown",
+        "url": "https://open.spotify.com/album/2bXofjekwT9zn3Z7tWtuzd"
+      },
+      "artists": [
+        {
+          "name": "Tora-i",
+          "url": "https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z"
+        },
+        {
+          "name": "Louis Culture",
+          "url": "https://open.spotify.com/artist/7k6jdEkR8FoKdOi0iW4VkR"
+        }
+      ],
+      "duration_ms": 192070,
+      "name": "Sundown",
+      "url": "https://open.spotify.com/track/4K2yfod2Ac7igAeVjks1a4"
     },
     {
       "added_at": "2026-11-06 18:35:09",
@@ -243,22 +407,6 @@
     {
       "added_at": "2026-11-06 18:35:09",
       "album": {
-        "name": "Love, Maybe?",
-        "url": "https://open.spotify.com/album/5q18O0moNVTImQ8Dk8v6QH"
-      },
-      "artists": [
-        {
-          "name": "Titose",
-          "url": "https://open.spotify.com/artist/1GqDQYv81wsGJmzM5LOyF7"
-        }
-      ],
-      "duration_ms": 161786,
-      "name": "Saint Lucia",
-      "url": "https://open.spotify.com/track/0P5aRx1Mw1NiionI0zwb0l"
-    },
-    {
-      "added_at": "2026-11-06 18:35:09",
-      "album": {
         "name": "Break Your Heart",
         "url": "https://open.spotify.com/album/0DW4WdocDOIzM5JFpeCvi1"
       },
@@ -273,20 +421,72 @@
       "url": "https://open.spotify.com/track/6zf6GWfLn1529q6QZKaNPq"
     },
     {
-      "added_at": "2026-11-06 18:35:09",
+      "added_at": "2026-11-13 08:25:36",
       "album": {
-        "name": "Soul Food (Deluxe)",
-        "url": "https://open.spotify.com/album/3SNfyHOdyhJ2upQQL8XGER"
+        "name": "Everything Has Changed - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/1ZJuUMKrGqPjOVglxBnKnH"
       },
       "artists": [
         {
-          "name": "Miranda Rae",
-          "url": "https://open.spotify.com/artist/04CM97hjzZvlzAOOHzh59o"
+          "name": "Danielle Ponder",
+          "url": "https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
         }
       ],
-      "duration_ms": 193056,
-      "name": "Fed Up",
-      "url": "https://open.spotify.com/track/2FCQRQEttBSLBKSR2nh3bE"
+      "duration_ms": 240587,
+      "name": "Everything Has Changed - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/05EcLHQKGcD5PTCN1VDUFL"
+    },
+    {
+      "added_at": "2026-11-13 08:25:36",
+      "album": {
+        "name": "#4a79b1",
+        "url": "https://open.spotify.com/album/2ssGzNxnsZ9ZIpAEBT2nUz"
+      },
+      "artists": [
+        {
+          "name": "Ray Lozano",
+          "url": "https://open.spotify.com/artist/1lqO9zpSZ9iEkgEgJqc443"
+        }
+      ],
+      "duration_ms": 135233,
+      "name": "u&me (like always)",
+      "url": "https://open.spotify.com/track/3SVaWt6zGb4FjT2bsjJAZg"
+    },
+    {
+      "added_at": "2026-10-23 04:02:18",
+      "album": {
+        "name": "I Love You",
+        "url": "https://open.spotify.com/album/31wXDPNODAAp5v0F9Kq6zZ"
+      },
+      "artists": [
+        {
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+        }
+      ],
+      "duration_ms": 197760,
+      "name": "I Love You",
+      "url": "https://open.spotify.com/track/0yXMe310dgpquMTa7OmHKk"
+    },
+    {
+      "added_at": "2026-10-09 07:24:45",
+      "album": {
+        "name": "MACHIKO",
+        "url": "https://open.spotify.com/album/4sbsIebNfM8SrLOnQNXOgc"
+      },
+      "artists": [
+        {
+          "name": "Joyce Wrice",
+          "url": "https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum"
+        }
+      ],
+      "duration_ms": 222970,
+      "name": "Dangerous",
+      "url": "https://open.spotify.com/track/4Cjdia5gVaTKHXuXkod2t5"
     },
     {
       "added_at": "2026-10-16 05:51:05",
@@ -313,20 +513,36 @@
       "url": "https://open.spotify.com/track/0j14eHWV5jzB3pOitfCFE4"
     },
     {
-      "added_at": "2026-10-09 07:24:45",
+      "added_at": "2026-11-13 08:25:36",
       "album": {
-        "name": "MACHIKO",
-        "url": "https://open.spotify.com/album/4sbsIebNfM8SrLOnQNXOgc"
+        "name": "After Hours, Pt. 3",
+        "url": "https://open.spotify.com/album/5vQoGxkOzyhMvY5ZiN1v9Y"
       },
       "artists": [
         {
-          "name": "Joyce Wrice",
-          "url": "https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum"
+          "name": "Allyn",
+          "url": "https://open.spotify.com/artist/2nWo31Kvu9rMSVfhuUVUw3"
         }
       ],
-      "duration_ms": 222970,
-      "name": "Dangerous",
-      "url": "https://open.spotify.com/track/4Cjdia5gVaTKHXuXkod2t5"
+      "duration_ms": 202666,
+      "name": "Worth It",
+      "url": "https://open.spotify.com/track/7IKkZ9SvqxVyx6kJzZWZBS"
+    },
+    {
+      "added_at": "2026-11-06 18:35:09",
+      "album": {
+        "name": "Care For Me",
+        "url": "https://open.spotify.com/album/5FGi5bv38kh0Y7TFHEeglg"
+      },
+      "artists": [
+        {
+          "name": "Honey Bxby",
+          "url": "https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO"
+        }
+      ],
+      "duration_ms": 193562,
+      "name": "Care For Me",
+      "url": "https://open.spotify.com/track/2EzboMQm7LEKWnbmkcORG8"
     },
     {
       "added_at": "2026-09-25 07:44:15",
@@ -343,6 +559,22 @@
       "duration_ms": 175346,
       "name": "Soft Side",
       "url": "https://open.spotify.com/track/2VwBpYBX9Fi3dPe8qDYCiu"
+    },
+    {
+      "added_at": "2026-11-13 08:25:36",
+      "album": {
+        "name": "Wine for Breakfast",
+        "url": "https://open.spotify.com/album/7f7yB273ug78y5uOArfPTI"
+      },
+      "artists": [
+        {
+          "name": "Limage",
+          "url": "https://open.spotify.com/artist/7uezObA5zpd0BUDsxnQ0Y6"
+        }
+      ],
+      "duration_ms": 143116,
+      "name": "Gossip",
+      "url": "https://open.spotify.com/track/0iwKajImcqDYLdEY5Muvp5"
     },
     {
       "added_at": "2026-10-09 07:24:45",
@@ -379,6 +611,38 @@
       "duration_ms": 158026,
       "name": "See You In My Dreams (feat. SZA)",
       "url": "https://open.spotify.com/track/5sDYIz1pOavfbjfMVIMOzW"
+    },
+    {
+      "added_at": "2026-11-06 18:35:09",
+      "album": {
+        "name": "Soul Food (Deluxe)",
+        "url": "https://open.spotify.com/album/3SNfyHOdyhJ2upQQL8XGER"
+      },
+      "artists": [
+        {
+          "name": "Miranda Rae",
+          "url": "https://open.spotify.com/artist/04CM97hjzZvlzAOOHzh59o"
+        }
+      ],
+      "duration_ms": 193056,
+      "name": "Fed Up",
+      "url": "https://open.spotify.com/track/2FCQRQEttBSLBKSR2nh3bE"
+    },
+    {
+      "added_at": "2026-11-06 18:35:09",
+      "album": {
+        "name": "Love, Maybe?",
+        "url": "https://open.spotify.com/album/5q18O0moNVTImQ8Dk8v6QH"
+      },
+      "artists": [
+        {
+          "name": "Titose",
+          "url": "https://open.spotify.com/artist/1GqDQYv81wsGJmzM5LOyF7"
+        }
+      ],
+      "duration_ms": 161786,
+      "name": "Saint Lucia",
+      "url": "https://open.spotify.com/track/0P5aRx1Mw1NiionI0zwb0l"
     },
     {
       "added_at": "2026-11-06 18:35:09",

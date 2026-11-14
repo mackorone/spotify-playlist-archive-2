@@ -4,7 +4,7 @@
 
 > my alt/pop could mean anything ⚔️ cover: Shygirl
 
-770 songs - 1 day 17 hr 29 min
+771 songs - 1 day 17 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -522,6 +522,7 @@
 | [On Fire](https://open.spotify.com/track/7uJgoGxsNfVqoMbjqfUBOG) | [Good Hugg](https://open.spotify.com/artist/2Hsyzkw6WlQxtJuuR0ZMct) | [Six Two](https://open.spotify.com/album/6c0V2xsysKghGWIu1TRH4r) | 3:11 | 2025-06-06 | 2025-08-22 |
 | [On Your Mind \(feat\. Lil Yachty\)](https://open.spotify.com/track/21C6u4k9di4S7w4JsQS1k7) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [On Your Mind \(feat\. Lil Yachty\)](https://open.spotify.com/album/2TZNyzwG89VKnROkBaK7w3) | 3:37 | 2026-06-18 | 2026-10-09 |
 | [One In A Million](https://open.spotify.com/track/0UkgsDVyTCy0naTEKwkDmu) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Ste The Beautiful Martyr 1st Attempt](https://open.spotify.com/album/55QB0uS2Bp83KLN1qW5UGB) | 2:56 | 2025-05-01 | 2025-07-25 |
+| [Only](https://open.spotify.com/track/3Ow8GcJHCH705o9RDDg6Be) | [Mayvi](https://open.spotify.com/artist/40OnC1gducPfu1ZvA0pwa8) | [Only](https://open.spotify.com/album/55pwZaTThIlP1mKBBYKNiy) | 2:39 | 2026-11-13 |  |
 | [othello](https://open.spotify.com/track/06ss61sRVXC2DuYh2GcoVt) | [hard life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [othello](https://open.spotify.com/album/7C4tEL9g4Vb2Dsn9Q1H52h) | 3:12 | 2025-04-10 | 2025-07-25 |
 | [out your mind](https://open.spotify.com/track/1B7hgHRjXhtdBYGrWQo2jr) | [lilheartbreak](https://open.spotify.com/artist/6LMdMAYI8JDAT0KASyl97P) | [out your mind](https://open.spotify.com/album/4kctUgWc1jjW0ZqjvINrKz) | 1:53 | 2025-04-03 | 2025-04-18 |
 | [outta time](https://open.spotify.com/track/0jlOdZleCUed8nv4LcLjjU) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60), [A\. K\. Paul](https://open.spotify.com/artist/5Ur4wFDyKGnavclr0esWLe) | [outta time](https://open.spotify.com/album/3detwCd3QLrrzJZAEAxcQB) | 4:11 | 2026-06-18 |  |

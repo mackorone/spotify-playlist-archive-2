@@ -185,6 +185,24 @@
     },
     {
       "album": {
+        "name": "Absorbing Light",
+        "url": "https://open.spotify.com/album/3xV7wbWKsj6QgAgzFR9vmS"
+      },
+      "artists": [
+        {
+          "name": "In a Dreamlike State",
+          "url": "https://open.spotify.com/artist/5Ij0IjeayxGoMh25PZoWhW"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Absorbing Light",
+      "url": "https://open.spotify.com/track/1KJOSbmkoFNkE4YLn4l3qg"
+    },
+    {
+      "album": {
         "name": "Acceptance",
         "url": "https://open.spotify.com/album/28vHrbkAU4pKirExxyDoGz"
       },
@@ -1267,6 +1285,24 @@
     },
     {
       "album": {
+        "name": "Clearing",
+        "url": "https://open.spotify.com/album/4e3Zps2S4SgGvV4KOLpRx6"
+      },
+      "artists": [
+        {
+          "name": "Eglerion",
+          "url": "https://open.spotify.com/artist/6obnTqlTyEDfgh9jDGMAxO"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Clearing",
+      "url": "https://open.spotify.com/track/7phqBxlVFAPLQKUNdV3ynR"
+    },
+    {
+      "album": {
         "name": "Clearing Away",
         "url": "https://open.spotify.com/album/3ioIRza0mtQiHvBfnZnIqk"
       },
@@ -1354,6 +1390,24 @@
       "duration_ms": 186000,
       "name": "Colline",
       "url": "https://open.spotify.com/track/40GXN1slZTEaXCoacjuocx"
+    },
+    {
+      "album": {
+        "name": "comfort time",
+        "url": "https://open.spotify.com/album/2xx58Bdw3CqbhIHKXlbwj7"
+      },
+      "artists": [
+        {
+          "name": "Soothing Spore",
+          "url": "https://open.spotify.com/artist/2qVPIhHmtBA79wJk9rWzln"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130909,
+      "name": "comfort time",
+      "url": "https://open.spotify.com/track/2fkz3jB6o9MngdHzfWR5ZQ"
     },
     {
       "album": {
@@ -1462,6 +1516,24 @@
       "duration_ms": 201176,
       "name": "Cyclical",
       "url": "https://open.spotify.com/track/7tsxqO0nfASxWTuWyiYFEp"
+    },
+    {
+      "album": {
+        "name": "sea to sky",
+        "url": "https://open.spotify.com/album/1StqpvE2G19OgHK3Xect3e"
+      },
+      "artists": [
+        {
+          "name": "sleeperbuild",
+          "url": "https://open.spotify.com/artist/2CBc8Sb15lCUsj75Gvzo1a"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278760,
+      "name": "cypress",
+      "url": "https://open.spotify.com/track/59sbl1bRf0o2U3S4sFzp4r"
     },
     {
       "album": {
@@ -2417,6 +2489,28 @@
     },
     {
       "album": {
+        "name": "Field Notes",
+        "url": "https://open.spotify.com/album/4u2GL0zry31HozpzxytB8A"
+      },
+      "artists": [
+        {
+          "name": "Within the Light",
+          "url": "https://open.spotify.com/artist/0tqHvxwhDmCbsDJQKM1pWe"
+        },
+        {
+          "name": "Be Still the Earth",
+          "url": "https://open.spotify.com/artist/7FedGrros77uFxBy4PT8k6"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175833,
+      "name": "For the Birds",
+      "url": "https://open.spotify.com/track/242cddn23CKil8XvUvUEgw"
+    },
+    {
+      "album": {
         "name": "Forest at Dusk",
         "url": "https://open.spotify.com/album/6EB4bE9wJ3NYhdg5J3nOZr"
       },
@@ -3217,6 +3311,24 @@
     },
     {
       "album": {
+        "name": "Granhimmel",
+        "url": "https://open.spotify.com/album/6rVWmyiAUPkMyEmnVAcz6v"
+      },
+      "artists": [
+        {
+          "name": "Solfjord",
+          "url": "https://open.spotify.com/artist/01Lia3RrLFYftxXx5DgHG0"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Granhimmel",
+      "url": "https://open.spotify.com/track/72dQBx5y2IMok8VFIJUPb2"
+    },
+    {
+      "album": {
         "name": "Gravity",
         "url": "https://open.spotify.com/album/0RfMrZOANCZ6PHqPhXEomx"
       },
@@ -3232,6 +3344,24 @@
       "duration_ms": 134600,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/6SrGcbpvB216sv4XrtL2Pq"
+    },
+    {
+      "album": {
+        "name": "gray sky forest",
+        "url": "https://open.spotify.com/album/7r68Q6X5jM9gDyYitXBkRD"
+      },
+      "artists": [
+        {
+          "name": "Reitius Rex",
+          "url": "https://open.spotify.com/artist/4dNsq3pEddyli2GElCpGdd"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163500,
+      "name": "gray sky forest",
+      "url": "https://open.spotify.com/track/1Evgq9T4US9qKxd1OqfFC4"
     },
     {
       "album": {
@@ -3466,6 +3596,32 @@
       "duration_ms": 165789,
       "name": "Home in Nature",
       "url": "https://open.spotify.com/track/7xPltikibhbN6HsVjtd9sg"
+    },
+    {
+      "album": {
+        "name": "Field Notes",
+        "url": "https://open.spotify.com/album/4u2GL0zry31HozpzxytB8A"
+      },
+      "artists": [
+        {
+          "name": "Within the Light",
+          "url": "https://open.spotify.com/artist/0tqHvxwhDmCbsDJQKM1pWe"
+        },
+        {
+          "name": "Be Still the Earth",
+          "url": "https://open.spotify.com/artist/7FedGrros77uFxBy4PT8k6"
+        },
+        {
+          "name": "sloer",
+          "url": "https://open.spotify.com/artist/2pDfZekvEL4mWRmeUHoYa6"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157222,
+      "name": "Homeward",
+      "url": "https://open.spotify.com/track/6FP2YzEtyMRwozd9r57FvG"
     },
     {
       "album": {
@@ -3866,6 +4022,24 @@
       "duration_ms": 165849,
       "name": "Lakeside Dawn",
       "url": "https://open.spotify.com/track/0aqoThq5jGu9mlXiRqVzc9"
+    },
+    {
+      "album": {
+        "name": "Lamina",
+        "url": "https://open.spotify.com/album/6kdP9Iv3bMlhGa1lRP75Ir"
+      },
+      "artists": [
+        {
+          "name": "Morouj",
+          "url": "https://open.spotify.com/artist/5YpF6faZSd7Pz7U7gyF4sK"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Lamina",
+      "url": "https://open.spotify.com/track/1vpXJQ038R35p1IVx2Cbwx"
     },
     {
       "album": {
@@ -5382,7 +5556,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 206745,
       "name": "Pesanteur",
       "url": "https://open.spotify.com/track/5pzmVX5w6AK7IEuuAGrCcO"
@@ -7724,6 +7898,24 @@
       "duration_ms": 176000,
       "name": "Valdivian",
       "url": "https://open.spotify.com/track/2jJSclU3SCiqfzAW4q0k2Q"
+    },
+    {
+      "album": {
+        "name": "Valley Forest",
+        "url": "https://open.spotify.com/album/4FpOJ597X4xcmuiLn2YYRO"
+      },
+      "artists": [
+        {
+          "name": "Peaceful Plausible",
+          "url": "https://open.spotify.com/artist/2jBR2Yedi7YgJOjZLDtSJI"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170950,
+      "name": "Valley Forest",
+      "url": "https://open.spotify.com/track/48jgaqYdZN9c2QL0oZ5fBZ"
     },
     {
       "album": {

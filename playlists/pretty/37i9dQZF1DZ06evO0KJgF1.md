@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0KJgF1.md) - [plain]
 
 > This is Siouxsie and the Banshees\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,230 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,239 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0KJgF1.md) - [plain]
 | 31 | [Little Sister](https://open.spotify.com/track/03yJJ5Fv6RZ9CP0WoQ4fza) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Superstition \(Expanded Edition\)](https://open.spotify.com/album/0MNKE093cSDfCrABTCCXwP) | 3:21 |
 | 32 | [Cannons](https://open.spotify.com/track/1sO7AFRF0DG9TFsjGL0Zmt) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Tinderbox](https://open.spotify.com/album/4JLLAw7R40SnvwkUt9B63N) | 3:14 |
 | 33 | [She's A Carnival](https://open.spotify.com/track/4LZsBU2b1qVAJGpX7kXkkL) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [A Kiss In The Dreamhouse](https://open.spotify.com/album/5J3l9yLV2sMfZPEGcUmdz1) | 3:39 |
-| 34 | [Mirage](https://open.spotify.com/track/48dL6SIUIqTS4XIUYIQBSI) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [The Scream](https://open.spotify.com/album/3uMr78kOScjc6eLHMYcVl4) | 2:50 |
+| 34 | [Love In A Void](https://open.spotify.com/track/3iDWWZIkshPqItx3wBCiFf) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Join Hands](https://open.spotify.com/album/4FnKGH6piIJse7MUiYtQfj) | 2:34 |
 | 35 | [Stargazer](https://open.spotify.com/track/0JoshvvOkRzlbbrrveImUE) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [The Rapture \(Remastered / Expanded\)](https://open.spotify.com/album/0w03cDwFhaT9BKE12PSvMJ) | 3:17 |
-| 36 | [Love In A Void](https://open.spotify.com/track/3iDWWZIkshPqItx3wBCiFf) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Join Hands](https://open.spotify.com/album/4FnKGH6piIJse7MUiYtQfj) | 2:34 |
+| 36 | [Mirage](https://open.spotify.com/track/48dL6SIUIqTS4XIUYIQBSI) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [The Scream](https://open.spotify.com/album/3uMr78kOScjc6eLHMYcVl4) | 2:50 |
 | 37 | [Ornaments Of Gold](https://open.spotify.com/track/7tomZBMWdeFHTIitQ5Eyar) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Peepshow \(Remastered And Expanded\)](https://open.spotify.com/album/4g4aSVUuOJCoW2vKhTavXp) | 3:49 |
 | 38 | [Painted Bird](https://open.spotify.com/track/7HilLn7wds2U0jUJGBBVXw) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [A Kiss In The Dreamhouse](https://open.spotify.com/album/5J3l9yLV2sMfZPEGcUmdz1) | 4:15 |
 | 39 | [Shadowtime](https://open.spotify.com/track/1tf394pxbmBkyJ37AUVWXi) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Superstition \(Expanded Edition\)](https://open.spotify.com/album/0MNKE093cSDfCrABTCCXwP) | 4:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0KJgF1.md) - [plain]
 | 49 | [Placebo Effect](https://open.spotify.com/track/3KRbrv6dHumhyyYTu97OqG) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Join Hands](https://open.spotify.com/album/4FnKGH6piIJse7MUiYtQfj) | 4:37 |
 | 50 | [Cry](https://open.spotify.com/track/1TqhjCb7q3PwLRfiWC2W5i) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Superstition \(Expanded Edition\)](https://open.spotify.com/album/0MNKE093cSDfCrABTCCXwP) | 3:32 |
 
-Snapshot ID: `avOwAAAAAAAUA9eCeW8A8MUyCWHLnieC`
+Snapshot ID: `avUBgAAAAACnZ4/yF5ulZ8sPK/6NELdI`

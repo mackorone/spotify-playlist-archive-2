@@ -2336,7 +2336,7 @@
       ],
       "date_added": "2024-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-09",
+      "date_removed": null,
       "duration_ms": 211714,
       "name": "Al\u00f4",
       "url": "https://open.spotify.com/track/6vBuEFImAx36hDYiYqBtkZ"
@@ -10254,7 +10254,7 @@
       ],
       "date_added": "2023-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 293748,
       "name": "Devia Ir",
       "url": "https://open.spotify.com/track/5KZJORKMEkrsNRD4dfBw1X"
@@ -19474,7 +19474,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 289533,
       "name": "Iris",
       "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
@@ -25780,6 +25780,40 @@
       "duration_ms": 188839,
       "name": "Montanha",
       "url": "https://open.spotify.com/track/71Aj0joTSW4wv8olaHNBvK"
+    },
+    {
+      "album": {
+        "name": "MONTANHA RUSSA",
+        "url": "https://open.spotify.com/album/3lJDWzp2Vm0sHAjgycRDYz"
+      },
+      "artists": [
+        {
+          "name": "MAIS PESADOS DA CAPITAL",
+          "url": "https://open.spotify.com/artist/78kZJrv80VLlFJp4lOz5qr"
+        },
+        {
+          "name": "Sam The Kid",
+          "url": "https://open.spotify.com/artist/3NEQ5t2FprBMLmDAP0EPcE"
+        },
+        {
+          "name": "XEG",
+          "url": "https://open.spotify.com/artist/0RcrxRwMAMtjnaWn8UZqBf"
+        },
+        {
+          "name": "Regula",
+          "url": "https://open.spotify.com/artist/6pyqBc7HaffcZJhyfjnceP"
+        },
+        {
+          "name": "Valete",
+          "url": "https://open.spotify.com/artist/32rAgIN6jhUQYhyoKa8agj"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262173,
+      "name": "MONTANHA RUSSA",
+      "url": "https://open.spotify.com/track/1wTGapBP7qHfFiRipfaVw5"
     },
     {
       "album": {
@@ -36439,6 +36473,24 @@
     },
     {
       "album": {
+        "name": "Shotta's.",
+        "url": "https://open.spotify.com/album/1XUTYkp36yxfOmOaNlbxiE"
+      },
+      "artists": [
+        {
+          "name": "Season 25",
+          "url": "https://open.spotify.com/artist/1WtceoonufhxRc6AnUSbat"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142613,
+      "name": "Shotta's.",
+      "url": "https://open.spotify.com/track/1ApUYfDejOBvrTnar2Wyf3"
+    },
+    {
+      "album": {
         "name": "Shottah",
         "url": "https://open.spotify.com/album/0MHm0eH7H688i8pS3zVNA0"
       },
@@ -40028,7 +40080,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 297090,
       "name": "the cure",
       "url": "https://open.spotify.com/track/55pBIZO1cqoldeqpp5WR7H"

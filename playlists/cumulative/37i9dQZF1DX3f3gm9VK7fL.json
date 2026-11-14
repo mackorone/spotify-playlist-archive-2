@@ -327,6 +327,32 @@
     },
     {
       "album": {
+        "name": "Cyberpunk: Edgerunners 2 (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/4GzPICfeGh5OqKjhUtpRQA"
+      },
+      "artists": [
+        {
+          "name": "Petite Meller",
+          "url": "https://open.spotify.com/artist/2gUVyV9z7T6cielHCMSpvb"
+        },
+        {
+          "name": "Kalman Chodakiewitz",
+          "url": "https://open.spotify.com/artist/04CWg0uT79a10dBoyRu4ft"
+        },
+        {
+          "name": "Eli Shiffman",
+          "url": "https://open.spotify.com/artist/49TPnY519EQ4n5pRuWlCgb"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172972,
+      "name": "In Love With Myself",
+      "url": "https://open.spotify.com/track/2iyaHQlYrR8Eyr4wOmOT5D"
+    },
+    {
+      "album": {
         "name": "INERTIA",
         "url": "https://open.spotify.com/album/0tjOB1djtnx8VIkISrO6cb"
       },
@@ -672,7 +698,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 190965,
       "name": "Recollect",
       "url": "https://open.spotify.com/track/3Ltu1EsS0IiHNJcJYwfTkL"

@@ -4,7 +4,7 @@
 
 > For parents and kids of all ages, add some Disney Magic to bedtime routines with soothing and relaxing renditions of timeless Disney music from Frozen, Winnie the Pooh and more.
 
-273 songs - 14 hr 15 min
+275 songs - 14 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Into the Unknown](https://open.spotify.com/track/15ZbeheZ4y21ruWjIlzUb1) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Mindful](https://open.spotify.com/album/31qCPFxPGehOvU9ysAeUqI) | 4:23 | 2022-04-15 |  |
 | [Into the Unknown \- Orgel Version](https://open.spotify.com/track/1yxHVEjw1e9IPoNcWAlJTa) | [Disney Orgel](https://open.spotify.com/artist/2NiGKii6cldvRKyHjVxRH8) | [Disney Orgel/Oyasumi BGM](https://open.spotify.com/album/5xeEN43Vodm7fHSK29vBw9) | 3:56 | 2022-04-15 |  |
 | [It's a Small World](https://open.spotify.com/track/1KmzKvDdiKdcVoxxILTDdz) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Lullaby](https://open.spotify.com/album/3TRzs2Bn8dm6oHqt2LpR6z) | 2:02 | 2022-04-15 |  |
+| [It's a Small World \(Wind\)](https://open.spotify.com/track/6ZbhpU9KuHpqQNAOOrurlY) | [Disney Ambient](https://open.spotify.com/artist/5iop40R7W1LzJpH6Lm8ZRG), [Lucky West](https://open.spotify.com/artist/7EW4xaFyScvYnw467VuHQp) | [Disney Ambient: Wind](https://open.spotify.com/album/2fawuTGikvD93phNOWxy8L) | 3:21 | 2026-11-13 |  |
 | [It's a Small World \- Instrumental](https://open.spotify.com/track/3wI9eq7AaOYGnaO3kKoA8o) | [Fred Mollin](https://open.spotify.com/artist/0qPfO5FCAsfqK3pgqBSAJR) | [Disney Sleepytime Lullabies](https://open.spotify.com/album/4pHb2LkBfPjbMlkGWISDF6) | 1:24 | 2022-04-15 |  |
 | [It's Always Been You](https://open.spotify.com/track/7kiF2QdaqLWAnlANX4AuYf) | [Theodore Shapiro](https://open.spotify.com/artist/6N1Kaz3CvRa9VLll5ahk9T) | [The Devil Wears Prada 2 \(Original Score\)](https://open.spotify.com/album/3KxLOqeODUgNqCEFlblbr8) | 1:52 | 2026-05-12 |  |
 | [Jack's Lament](https://open.spotify.com/track/3M7XhueJoJtX27v9d5wtid) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Dream](https://open.spotify.com/album/6KvAEqxeFDVxFkCvE8gw0C) | 3:47 | 2022-04-15 |  |
@@ -148,6 +149,7 @@
 | [Man or Muppet](https://open.spotify.com/track/1w18QEME2WDke5CCiI0Pws) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Break Time](https://open.spotify.com/album/3bpgROclnnWm7clCFgmweI) | 2:46 | 2022-04-15 |  |
 | [Man or Muppet](https://open.spotify.com/track/0MYd36Y7EsybTbufyNRKAn) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Blissful](https://open.spotify.com/album/6Pgzg6yw1ULylVOaPXzAiK) | 3:14 | 2022-04-15 |  |
 | [Married Life](https://open.spotify.com/track/5ceWoFaoqzbPrejKbNyRM5) | [Disney Peaceful Strings](https://open.spotify.com/artist/1kjDZ3RgSHfx5VES0rF6e0) | [Disney Peaceful Strings: Romance](https://open.spotify.com/album/7F5EjPVGXRXdipfy927cLi) | 4:00 | 2023-01-12 | 2023-01-21 |
+| [Married Life \(Wind\)](https://open.spotify.com/track/383CCu3BYmm5pM0tSCh4AO) | [Disney Ambient](https://open.spotify.com/artist/5iop40R7W1LzJpH6Lm8ZRG), [andysocialclub](https://open.spotify.com/artist/3ZU0e9k7EnHIod4BfOOg8L) | [Disney Ambient: Wind](https://open.spotify.com/album/2fawuTGikvD93phNOWxy8L) | 3:37 | 2026-11-13 |  |
 | [Meg's Garden](https://open.spotify.com/track/1OkdPo7U61GS697VFzmXTI) | [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ) | [Hercules \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7z46fPkl9344yv05HT1Uoq) | 1:14 | 2022-04-15 | 2022-07-29 |
 | [Meg's Garden](https://open.spotify.com/track/1xzhwKbHLhOLwCzIyZnJyW) | [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Hercules \(Original Motion Picture Soundtrack/Japanese Version\)](https://open.spotify.com/album/7EmZAi08IILcveityNOOg7) | 1:12 | 2022-08-16 | 2022-11-13 |
 | [Meg's Garden](https://open.spotify.com/track/3CZ6dewgB5uzSfIgj05xe8) | [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Hercules \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1wbY6VUchNsZLaDi22eD3J) | 1:14 | 2022-06-28 |  |

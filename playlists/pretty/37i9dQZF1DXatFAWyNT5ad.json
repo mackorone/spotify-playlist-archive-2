@@ -1,6 +1,6 @@
 {
   "description": "Let's mix it.",
-  "num_followers": 153624,
+  "num_followers": 153629,
   "original_name": "Pop Rock",
   "owner": {
     "name": "Spotify",
@@ -627,22 +627,6 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "Blood Bunny",
-        "url": "https://open.spotify.com/album/1nXTxXK5WyXz7cLYYVPhKA"
-      },
-      "artists": [
-        {
-          "name": "chloe moriondo",
-          "url": "https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q"
-        }
-      ],
-      "duration_ms": 179573,
-      "name": "I Want To Be With You",
-      "url": "https://open.spotify.com/track/4LK36kV9w3KBD2GYL26ZBq"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
         "name": "In My Head",
         "url": "https://open.spotify.com/album/0fAeiVQKeMPvewBk7UXsSm"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 172466,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/3ryXl6OFAr9fzUpIjAnHIY"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
+        "name": "Blood Bunny",
+        "url": "https://open.spotify.com/album/1nXTxXK5WyXz7cLYYVPhKA"
+      },
+      "artists": [
+        {
+          "name": "chloe moriondo",
+          "url": "https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q"
+        }
+      ],
+      "duration_ms": 179573,
+      "name": "I Want To Be With You",
+      "url": "https://open.spotify.com/track/4LK36kV9w3KBD2GYL26ZBq"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -699,22 +699,6 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "Silverline",
-        "url": "https://open.spotify.com/album/0OmWHv7RbUlhFD1xJdxkEF"
-      },
-      "artists": [
-        {
-          "name": "MOD SUN",
-          "url": "https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG"
-        }
-      ],
-      "duration_ms": 180500,
-      "name": "Silverline",
-      "url": "https://open.spotify.com/track/5GhtKpX3Qbm9uo6kPMrdp9"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
         "name": "Cinderella Snapped",
         "url": "https://open.spotify.com/album/7iUDdeaEqO2asWLp8zPE3n"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 173103,
       "name": "Cinderella Snapped",
       "url": "https://open.spotify.com/track/3udCid1W2whR6CQrVpsKUh"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
+        "name": "Silverline",
+        "url": "https://open.spotify.com/album/0OmWHv7RbUlhFD1xJdxkEF"
+      },
+      "artists": [
+        {
+          "name": "MOD SUN",
+          "url": "https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG"
+        }
+      ],
+      "duration_ms": 180500,
+      "name": "Silverline",
+      "url": "https://open.spotify.com/track/5GhtKpX3Qbm9uo6kPMrdp9"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -795,6 +795,22 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
+        "name": "MUNA",
+        "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 213024,
+      "name": "Anything But Me",
+      "url": "https://open.spotify.com/track/0MtRE3z0MqQp9ZgYVW9s8u"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
         "name": "Yours (feat. Bea Miller)",
         "url": "https://open.spotify.com/album/4WyrqQW0Bo6kVjJxVOAkoQ"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 177188,
       "name": "Yours (feat. Bea Miller)",
       "url": "https://open.spotify.com/track/1OYchHxLhckxWStYd5qTyq"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
-        "name": "MUNA",
-        "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 213024,
-      "name": "Anything But Me",
-      "url": "https://open.spotify.com/track/0MtRE3z0MqQp9ZgYVW9s8u"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
+        "name": "eighteen",
+        "url": "https://open.spotify.com/album/5X37ePjevJgwrKDzk9S3mY"
+      },
+      "artists": [
+        {
+          "name": "Henry Moodie",
+          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
+        }
+      ],
+      "duration_ms": 189179,
+      "name": "eighteen",
+      "url": "https://open.spotify.com/track/37ZOqyxz7B7bmIa2sq5odC"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
         "name": "delusional darling (ft. Ella Red)",
         "url": "https://open.spotify.com/album/3feEOM2rh8zbAdM4xB0wE0"
       },
@@ -1047,18 +1063,18 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "eighteen",
-        "url": "https://open.spotify.com/album/5X37ePjevJgwrKDzk9S3mY"
+        "name": "California Girl",
+        "url": "https://open.spotify.com/album/7tT8MODPGpzEShsgFUBA6q"
       },
       "artists": [
         {
-          "name": "Henry Moodie",
-          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
+          "name": "Crash Adams",
+          "url": "https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5"
         }
       ],
-      "duration_ms": 189179,
-      "name": "eighteen",
-      "url": "https://open.spotify.com/track/37ZOqyxz7B7bmIa2sq5odC"
+      "duration_ms": 173836,
+      "name": "California Girl",
+      "url": "https://open.spotify.com/track/4NSvVWoMswmJpMpSbgipYX"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -1079,22 +1095,6 @@
       "duration_ms": 186377,
       "name": "You Need Me Now? (feat. Sabrina Carpenter)",
       "url": "https://open.spotify.com/track/3zPGZBbZEGqu7eY7R0NkqI"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
-        "name": "California Girl",
-        "url": "https://open.spotify.com/album/7tT8MODPGpzEShsgFUBA6q"
-      },
-      "artists": [
-        {
-          "name": "Crash Adams",
-          "url": "https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5"
-        }
-      ],
-      "duration_ms": 173836,
-      "name": "California Girl",
-      "url": "https://open.spotify.com/track/4NSvVWoMswmJpMpSbgipYX"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "BANG BANG!",
-        "url": "https://open.spotify.com/album/4YmjnqegnwZ18ruZjdJsIH"
-      },
-      "artists": [
-        {
-          "name": "Nessa Barrett",
-          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
-        }
-      ],
-      "duration_ms": 136387,
-      "name": "BANG BANG!",
-      "url": "https://open.spotify.com/track/2YiQL9Aa4PmGF8oMFADzzA"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
         "name": "Over You",
         "url": "https://open.spotify.com/album/2R5WaXG1YcFHhRdFNoS4U4"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 170266,
       "name": "Over You",
       "url": "https://open.spotify.com/track/2ANcnQVK8L23fpyvwd021a"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
+        "name": "BANG BANG!",
+        "url": "https://open.spotify.com/album/4YmjnqegnwZ18ruZjdJsIH"
+      },
+      "artists": [
+        {
+          "name": "Nessa Barrett",
+          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
+        }
+      ],
+      "duration_ms": 136387,
+      "name": "BANG BANG!",
+      "url": "https://open.spotify.com/track/2YiQL9Aa4PmGF8oMFADzzA"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "Angel Wings",
-        "url": "https://open.spotify.com/album/5SqZNJucNQDJiwTFrChQzF"
-      },
-      "artists": [
-        {
-          "name": "Vienna Vienna",
-          "url": "https://open.spotify.com/artist/5ZVQRC3rtUNBJVrrrSl17r"
-        }
-      ],
-      "duration_ms": 224849,
-      "name": "Angel Wings",
-      "url": "https://open.spotify.com/track/3iy584wHI5wWPYKVMr95W3"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
         "name": "Goals",
         "url": "https://open.spotify.com/album/6FUbZObH9XBKbRiOqJIR6S"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 133746,
       "name": "Goals",
       "url": "https://open.spotify.com/track/3rW9rYv7SE0l8MIOWnkZ2i"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
+        "name": "Angel Wings",
+        "url": "https://open.spotify.com/album/5SqZNJucNQDJiwTFrChQzF"
+      },
+      "artists": [
+        {
+          "name": "Vienna Vienna",
+          "url": "https://open.spotify.com/artist/5ZVQRC3rtUNBJVrrrSl17r"
+        }
+      ],
+      "duration_ms": 224849,
+      "name": "Angel Wings",
+      "url": "https://open.spotify.com/track/3iy584wHI5wWPYKVMr95W3"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
+        "name": "BETTER",
+        "url": "https://open.spotify.com/album/7knkjF5GXG1IkTniG5o7Qy"
+      },
+      "artists": [
+        {
+          "name": "People R Ugly",
+          "url": "https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI"
+        }
+      ],
+      "duration_ms": 155668,
+      "name": "BETTER",
+      "url": "https://open.spotify.com/track/1Je9meCzTUNxJ8t2tG6x2E"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
         "name": "Tracy",
         "url": "https://open.spotify.com/album/6KOs8bG57zs3LK9i3rydM0"
       },
@@ -1639,6 +1655,22 @@
       "duration_ms": 140952,
       "name": "Tracy",
       "url": "https://open.spotify.com/track/2Irs8tqS6DELbaFlwlwRTC"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
+        "name": "Be Your Man",
+        "url": "https://open.spotify.com/album/2FPHRWP6rXfchwyAZCJjAu"
+      },
+      "artists": [
+        {
+          "name": "G Flip",
+          "url": "https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU"
+        }
+      ],
+      "duration_ms": 212414,
+      "name": "Be Your Man",
+      "url": "https://open.spotify.com/track/0vUGBxV9t1nNkmdWYDhHOH"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -1659,38 +1691,6 @@
       "duration_ms": 171294,
       "name": "Hell With Me (feat. Steve Aoki)",
       "url": "https://open.spotify.com/track/4fRSz2kGowoaHuWHqeJCZv"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
-        "name": "BETTER",
-        "url": "https://open.spotify.com/album/7knkjF5GXG1IkTniG5o7Qy"
-      },
-      "artists": [
-        {
-          "name": "People R Ugly",
-          "url": "https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI"
-        }
-      ],
-      "duration_ms": 155668,
-      "name": "BETTER",
-      "url": "https://open.spotify.com/track/1Je9meCzTUNxJ8t2tG6x2E"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
-        "name": "Be Your Man",
-        "url": "https://open.spotify.com/album/2FPHRWP6rXfchwyAZCJjAu"
-      },
-      "artists": [
-        {
-          "name": "G Flip",
-          "url": "https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU"
-        }
-      ],
-      "duration_ms": 212414,
-      "name": "Be Your Man",
-      "url": "https://open.spotify.com/track/0vUGBxV9t1nNkmdWYDhHOH"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -1927,26 +1927,6 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "Day Job",
-        "url": "https://open.spotify.com/album/5p91Tw8x7pD9Y46xweBqPi"
-      },
-      "artists": [
-        {
-          "name": "Jayden Seeley",
-          "url": "https://open.spotify.com/artist/6gzW91j6PTJlXTpshZGSQy"
-        },
-        {
-          "name": "The Wrecks",
-          "url": "https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34"
-        }
-      ],
-      "duration_ms": 158423,
-      "name": "Day Job",
-      "url": "https://open.spotify.com/track/0gQaeonQS76sGjcM7FXojN"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
         "name": "Liquor and Kerosene (feat. The Maine)",
         "url": "https://open.spotify.com/album/2Hz30mmJGwlVXhbffxDM8j"
       },
@@ -1967,18 +1947,22 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "Better Off",
-        "url": "https://open.spotify.com/album/0Hy3la1RSQycsZSQdjlrDS"
+        "name": "Day Job",
+        "url": "https://open.spotify.com/album/5p91Tw8x7pD9Y46xweBqPi"
       },
       "artists": [
         {
-          "name": "VOIL\u00c0",
-          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
+          "name": "Jayden Seeley",
+          "url": "https://open.spotify.com/artist/6gzW91j6PTJlXTpshZGSQy"
+        },
+        {
+          "name": "The Wrecks",
+          "url": "https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34"
         }
       ],
-      "duration_ms": 144074,
-      "name": "Better Off",
-      "url": "https://open.spotify.com/track/2iCsXjpsS5aqMMQHGzmjpl"
+      "duration_ms": 158423,
+      "name": "Day Job",
+      "url": "https://open.spotify.com/track/0gQaeonQS76sGjcM7FXojN"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -1995,6 +1979,22 @@
       "duration_ms": 183617,
       "name": "Hold My Own",
       "url": "https://open.spotify.com/track/6PMgYr9zbgKvtOOimQswIA"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
+        "name": "Better Off",
+        "url": "https://open.spotify.com/album/0Hy3la1RSQycsZSQdjlrDS"
+      },
+      "artists": [
+        {
+          "name": "VOIL\u00c0",
+          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
+        }
+      ],
+      "duration_ms": 144074,
+      "name": "Better Off",
+      "url": "https://open.spotify.com/track/2iCsXjpsS5aqMMQHGzmjpl"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -2223,22 +2223,6 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "WDYK",
-        "url": "https://open.spotify.com/album/4noogkQJAT1Y8RMs5KFJ37"
-      },
-      "artists": [
-        {
-          "name": "Jordan Harvey",
-          "url": "https://open.spotify.com/artist/5WKa7xY2Y4Lko2cQjkj1iW"
-        }
-      ],
-      "duration_ms": 191440,
-      "name": "WDYK",
-      "url": "https://open.spotify.com/track/4YyCXnv5MWo9XNUQmuvAbb"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
         "name": "Say That You Love Me",
         "url": "https://open.spotify.com/album/3ztwfW7VqliSFqMuaYSRmX"
       },
@@ -2251,6 +2235,22 @@
       "duration_ms": 142596,
       "name": "Young Broke",
       "url": "https://open.spotify.com/track/6FB3ZzshHONpaHeo97ZYyf"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
+        "name": "WDYK",
+        "url": "https://open.spotify.com/album/4noogkQJAT1Y8RMs5KFJ37"
+      },
+      "artists": [
+        {
+          "name": "Jordan Harvey",
+          "url": "https://open.spotify.com/artist/5WKa7xY2Y4Lko2cQjkj1iW"
+        }
+      ],
+      "duration_ms": 191440,
+      "name": "WDYK",
+      "url": "https://open.spotify.com/track/4YyCXnv5MWo9XNUQmuvAbb"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -2275,22 +2275,6 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "Love Made Me Do It",
-        "url": "https://open.spotify.com/album/3OguoIAR3We4ayjdap0Ri1"
-      },
-      "artists": [
-        {
-          "name": "Kelsy Karter & The Heroines",
-          "url": "https://open.spotify.com/artist/2mAAO54PkHr3NjdlRpzEDl"
-        }
-      ],
-      "duration_ms": 181393,
-      "name": "Daughter of the Night",
-      "url": "https://open.spotify.com/track/17rEsItWTUyfOQ0eOwIVjb"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
         "name": "Red Lights / Ireland",
         "url": "https://open.spotify.com/album/0ZdqmeEBsKCsHbOp6ovtBR"
       },
@@ -2303,6 +2287,22 @@
       "duration_ms": 147000,
       "name": "Red Lights",
       "url": "https://open.spotify.com/track/4AII0LddlsmuLEWBDRXurl"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
+        "name": "Love Made Me Do It",
+        "url": "https://open.spotify.com/album/3OguoIAR3We4ayjdap0Ri1"
+      },
+      "artists": [
+        {
+          "name": "Kelsy Karter & The Heroines",
+          "url": "https://open.spotify.com/artist/2mAAO54PkHr3NjdlRpzEDl"
+        }
+      ],
+      "duration_ms": 181393,
+      "name": "Daughter of the Night",
+      "url": "https://open.spotify.com/track/17rEsItWTUyfOQ0eOwIVjb"
     },
     {
       "added_at": "2026-09-25 04:03:07",

@@ -1,6 +1,6 @@
 {
   "description": "Songs from \u201cENSEMBLE STARS!!\u201d \u00a9 2014-2019 Happy Elements K.K\n",
-  "num_followers": 63481,
+  "num_followers": 63483,
   "original_name": "ENSEMBLE STARS!!",
   "owner": {
     "name": "Spotify",
@@ -495,6 +495,26 @@
     {
       "added_at": "2026-10-09 16:26:26",
       "album": {
+        "name": "2wink\u300c\u6765\u6765\u26062wink\u30a4\u30ea\u30e5\u30fc\u30b8\u30e7\u30f3\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season6",
+        "url": "https://open.spotify.com/album/1UyoPG2KOKk1AUg0Zpt3mr"
+      },
+      "artists": [
+        {
+          "name": "2wink",
+          "url": "https://open.spotify.com/artist/5rng9smynSTLGDc2ImCWG2"
+        },
+        {
+          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
+          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
+        }
+      ],
+      "duration_ms": 197963,
+      "name": "\u6765\u6765\u26062wink\u30a4\u30ea\u30e5\u30fc\u30b8\u30e7\u30f3",
+      "url": "https://open.spotify.com/track/1vIpkihzNMrKFdiC9KW87s"
+    },
+    {
+      "added_at": "2026-10-09 16:26:26",
+      "album": {
         "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 Extra ALKALOID & Crazy:B",
         "url": "https://open.spotify.com/album/0HouiLlpW1yoWsYJ9n3Q4F"
       },
@@ -515,26 +535,6 @@
       "duration_ms": 218159,
       "name": "SAKE OF LOVE",
       "url": "https://open.spotify.com/track/5aSdBBubG2yHtVUF7KcNZl"
-    },
-    {
-      "added_at": "2026-10-09 16:26:26",
-      "album": {
-        "name": "2wink\u300c\u6765\u6765\u26062wink\u30a4\u30ea\u30e5\u30fc\u30b8\u30e7\u30f3\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season6",
-        "url": "https://open.spotify.com/album/1UyoPG2KOKk1AUg0Zpt3mr"
-      },
-      "artists": [
-        {
-          "name": "2wink",
-          "url": "https://open.spotify.com/artist/5rng9smynSTLGDc2ImCWG2"
-        },
-        {
-          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
-          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
-        }
-      ],
-      "duration_ms": 197963,
-      "name": "\u6765\u6765\u26062wink\u30a4\u30ea\u30e5\u30fc\u30b8\u30e7\u30f3",
-      "url": "https://open.spotify.com/track/1vIpkihzNMrKFdiC9KW87s"
     },
     {
       "added_at": "2026-10-09 16:26:26",
@@ -731,22 +731,22 @@
     {
       "added_at": "2026-10-09 16:26:26",
       "album": {
-        "name": "ALKALOID\u300cSunnyTrip Summer\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season5",
-        "url": "https://open.spotify.com/album/5oqDaZ6OOiPqEpIduUbgCy"
+        "name": "Ra*bits \u300cJUMPIN' LUCK BEAT\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season5",
+        "url": "https://open.spotify.com/album/2oTxRxLNZ9prO8Sd8tAPZz"
       },
       "artists": [
         {
-          "name": "ALKALOID",
-          "url": "https://open.spotify.com/artist/7G3q9XMPPbhYYvszkrLqwF"
+          "name": "Ra*bits",
+          "url": "https://open.spotify.com/artist/6re7tAM2hhfDcUNCjAMuQK"
         },
         {
           "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
           "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
         }
       ],
-      "duration_ms": 211976,
-      "name": "SunnyTrip Summer",
-      "url": "https://open.spotify.com/track/5qz6AbE4lsrBNCCTQGZJml"
+      "duration_ms": 227734,
+      "name": "JUMPIN' LUCK BEAT",
+      "url": "https://open.spotify.com/track/6xooenMiEU8fcuuawnubXh"
     },
     {
       "added_at": "2026-10-09 16:26:26",
@@ -771,22 +771,22 @@
     {
       "added_at": "2026-10-09 16:26:26",
       "album": {
-        "name": "Ra*bits \u300cJUMPIN' LUCK BEAT\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season5",
-        "url": "https://open.spotify.com/album/2oTxRxLNZ9prO8Sd8tAPZz"
+        "name": "ALKALOID\u300cSunnyTrip Summer\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season5",
+        "url": "https://open.spotify.com/album/5oqDaZ6OOiPqEpIduUbgCy"
       },
       "artists": [
         {
-          "name": "Ra*bits",
-          "url": "https://open.spotify.com/artist/6re7tAM2hhfDcUNCjAMuQK"
+          "name": "ALKALOID",
+          "url": "https://open.spotify.com/artist/7G3q9XMPPbhYYvszkrLqwF"
         },
         {
           "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
           "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
         }
       ],
-      "duration_ms": 227734,
-      "name": "JUMPIN' LUCK BEAT",
-      "url": "https://open.spotify.com/track/6xooenMiEU8fcuuawnubXh"
+      "duration_ms": 211976,
+      "name": "SunnyTrip Summer",
+      "url": "https://open.spotify.com/track/5qz6AbE4lsrBNCCTQGZJml"
     },
     {
       "added_at": "2026-10-09 16:26:26",
@@ -855,26 +855,6 @@
     {
       "added_at": "2026-10-09 16:26:26",
       "album": {
-        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 Extra ALKALOID & Crazy:B",
-        "url": "https://open.spotify.com/album/0HouiLlpW1yoWsYJ9n3Q4F"
-      },
-      "artists": [
-        {
-          "name": "ALKALOID",
-          "url": "https://open.spotify.com/artist/7G3q9XMPPbhYYvszkrLqwF"
-        },
-        {
-          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
-          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
-        }
-      ],
-      "duration_ms": 212359,
-      "name": "Across the universe",
-      "url": "https://open.spotify.com/track/4Ircdfplz7G3aybDicPOF0"
-    },
-    {
-      "added_at": "2026-10-09 16:26:26",
-      "album": {
         "name": "\u98a8\u65e9 \u5dfd\u300c\u4e16\u754c\u306e\u7247\u9685\u304b\u3089\u541b\u3078\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 Solo -Bright me up!!-",
         "url": "https://open.spotify.com/album/51fUEWprZ7HCEqoDmzVz5o"
       },
@@ -891,6 +871,26 @@
       "duration_ms": 232155,
       "name": "\u4e16\u754c\u306e\u7247\u9685\u304b\u3089\u541b\u3078",
       "url": "https://open.spotify.com/track/2VysPXOrqKBmwwESkBvc8i"
+    },
+    {
+      "added_at": "2026-10-09 16:26:26",
+      "album": {
+        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 Extra ALKALOID & Crazy:B",
+        "url": "https://open.spotify.com/album/0HouiLlpW1yoWsYJ9n3Q4F"
+      },
+      "artists": [
+        {
+          "name": "ALKALOID",
+          "url": "https://open.spotify.com/artist/7G3q9XMPPbhYYvszkrLqwF"
+        },
+        {
+          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
+          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
+        }
+      ],
+      "duration_ms": 212359,
+      "name": "Across the universe",
+      "url": "https://open.spotify.com/track/4Ircdfplz7G3aybDicPOF0"
     },
     {
       "added_at": "2026-10-09 16:26:26",
@@ -1067,26 +1067,6 @@
     {
       "added_at": "2026-10-09 16:26:26",
       "album": {
-        "name": "Jin & Akiomi\u300c\u30cf\u30ca\u30cb\u30ca\u30ec\uff01\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 Extra",
-        "url": "https://open.spotify.com/album/30ZTn3ofR3ISSO1cdY2OGO"
-      },
-      "artists": [
-        {
-          "name": "Jin & Akiomi",
-          "url": "https://open.spotify.com/artist/3ZF3KhNQq8uXuQul8EJVC6"
-        },
-        {
-          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
-          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
-        }
-      ],
-      "duration_ms": 199112,
-      "name": "\u30cf\u30ca\u30cb\u30ca\u30ec\uff01",
-      "url": "https://open.spotify.com/track/32Rqmby8BxNZUvjcbvO88C"
-    },
-    {
-      "added_at": "2026-10-09 16:26:26",
-      "album": {
         "name": "\u300c\u4eca\u65e5\u3082\u63a8\u3057\u304c\u63a8\u3057\u3067\u5c0a\u3044\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 \u30d0\u30e9\u30a8\u30c6\u30a3\u30bd\u30f3\u30b0\u30b7\u30ea\u30fc\u30ba \u7a76\u6975\u306e9\u66f2",
         "url": "https://open.spotify.com/album/694p5vvxMd6Fpf2BwdHKCD"
       },
@@ -1159,6 +1139,26 @@
       "duration_ms": 449210,
       "name": "\u4eca\u65e5\u3082\u63a8\u3057\u304c\u63a8\u3057\u3067\u5c0a\u3044",
       "url": "https://open.spotify.com/track/5S8D0cPG9I8hbJtZo2kyoD"
+    },
+    {
+      "added_at": "2026-10-09 16:26:26",
+      "album": {
+        "name": "Jin & Akiomi\u300c\u30cf\u30ca\u30cb\u30ca\u30ec\uff01\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 Extra",
+        "url": "https://open.spotify.com/album/30ZTn3ofR3ISSO1cdY2OGO"
+      },
+      "artists": [
+        {
+          "name": "Jin & Akiomi",
+          "url": "https://open.spotify.com/artist/3ZF3KhNQq8uXuQul8EJVC6"
+        },
+        {
+          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
+          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
+        }
+      ],
+      "duration_ms": 199112,
+      "name": "\u30cf\u30ca\u30cb\u30ca\u30ec\uff01",
+      "url": "https://open.spotify.com/track/32Rqmby8BxNZUvjcbvO88C"
     },
     {
       "added_at": "2026-10-09 16:26:26",

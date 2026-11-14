@@ -1368,7 +1368,7 @@
       ],
       "date_added": "2026-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 156058,
       "name": "Al Golpito",
       "url": "https://open.spotify.com/track/4j1v2lP0ZFnNgAsbM36ySJ"
@@ -1690,7 +1690,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-13",
+      "date_removed": null,
       "duration_ms": 190004,
       "name": "Amanece",
       "url": "https://open.spotify.com/track/1LiN0Z98FkR1t0m8KmLcAH"
@@ -4762,7 +4762,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 172119,
       "name": "CAMPO SEM\u00c1NTICO",
       "url": "https://open.spotify.com/track/4UV3QwEcqHwVWYiXjWfMab"
@@ -7332,7 +7332,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 141591,
       "name": "DE LUNES A LUNES",
       "url": "https://open.spotify.com/track/4v8wBKXXlIAB0o52vL0B4b"
@@ -8662,7 +8662,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 151285,
       "name": "D\u00d3NDE???",
       "url": "https://open.spotify.com/track/59IIdMaZhfYRP0qMdQE7Ud"
@@ -13809,6 +13809,28 @@
     },
     {
       "album": {
+        "name": "La Historia | Variet\u00e9 #8",
+        "url": "https://open.spotify.com/album/1xcFvlXXmF0eEjpr7R6JXD"
+      },
+      "artists": [
+        {
+          "name": "Tincho & Javi",
+          "url": "https://open.spotify.com/artist/0mDd8pZbNfiDNBrL1qybaK"
+        },
+        {
+          "name": "Amigo de Artistas",
+          "url": "https://open.spotify.com/artist/7j6lJVKmCFlcXtfMDf57gP"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "La Historia | Variet\u00e9 #8",
+      "url": "https://open.spotify.com/track/4wjM89LjqX8eStqmjGmUk0"
+    },
+    {
+      "album": {
         "name": "La Ilusi\u00f3n Se Termin\u00f3",
         "url": "https://open.spotify.com/album/3NM8jmc5YK4OmEbEOrn6FO"
       },
@@ -14814,6 +14836,32 @@
       "duration_ms": 183328,
       "name": "Le Gustan lo' Flaites",
       "url": "https://open.spotify.com/track/1smRP4zRit7A6ZDQXkFJWC"
+    },
+    {
+      "album": {
+        "name": "Aniversario #1",
+        "url": "https://open.spotify.com/album/53R7jGU1VP1Ov2526Clj3P"
+      },
+      "artists": [
+        {
+          "name": "Amigo de Artistas",
+          "url": "https://open.spotify.com/artist/7j6lJVKmCFlcXtfMDf57gP"
+        },
+        {
+          "name": "godie.",
+          "url": "https://open.spotify.com/artist/5VWqDJQziNeUjSkOCzweGH"
+        },
+        {
+          "name": "V.I.C",
+          "url": "https://open.spotify.com/artist/74CA7WjisOioFzIoREi20s"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183673,
+      "name": "Le Hace Falta un Beso",
+      "url": "https://open.spotify.com/track/2lbrvWs23dqBJqB5srmn1e"
     },
     {
       "album": {
@@ -17834,7 +17882,7 @@
       ],
       "date_added": "2026-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-12",
+      "date_removed": null,
       "duration_ms": 204171,
       "name": "Mix Cumbia 4",
       "url": "https://open.spotify.com/track/0WYqzKUvlfmxyDWRplR7nf"
@@ -18478,7 +18526,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-02",
+      "date_removed": null,
       "duration_ms": 189103,
       "name": "Nadie Esta Hablando De Amar",
       "url": "https://open.spotify.com/track/1nQRoMDJBlSokeU8NKiNvY"
@@ -19580,7 +19628,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 266840,
       "name": "Obsesionario en La Mayor",
       "url": "https://open.spotify.com/track/5EGVGkRRJ2udpRnVGpx8LM"
@@ -21206,6 +21254,24 @@
       "duration_ms": 123173,
       "name": "PERRA",
       "url": "https://open.spotify.com/track/0QQthhuTn2aYB0ZxILCf48"
+    },
+    {
+      "album": {
+        "name": "PERRA",
+        "url": "https://open.spotify.com/album/2bO6LeqPdNSRghRf87ptn1"
+      },
+      "artists": [
+        {
+          "name": "Lezcano Alan",
+          "url": "https://open.spotify.com/artist/4JeRrGerAf9K5h4sp7Usjz"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123228,
+      "name": "PERRA",
+      "url": "https://open.spotify.com/track/50wj4bXPnhUOw0zV5h9dd2"
     },
     {
       "album": {
@@ -25462,7 +25528,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 132481,
       "name": "SIEMPRE ES VIERNES",
       "url": "https://open.spotify.com/track/22w4SzpB1DIB6NsQKkudGM"

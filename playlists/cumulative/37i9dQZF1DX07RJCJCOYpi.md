@@ -2,9 +2,9 @@
 
 ### [mint Latin](https://open.spotify.com/playlist/37i9dQZF1DX07RJCJCOYpi)
 
-> The wave of Latin Electronic music\. Cover: DannyLux, Ckdageneral
+> The wave of Latin Electronic music\. Cover: KAROL G, John Summit
 
-457 songs - 23 hr 49 min
+460 songs - 23 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Bailame](https://open.spotify.com/track/6slC1nzaQTGQQWl99SBigP) | [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR) | [Bailame](https://open.spotify.com/album/0j7how96tAQrVMQjqiHqyw) | 3:05 | 2025-04-11 | 2025-07-26 |
 | [Baile Bounce](https://open.spotify.com/track/4JAi6fdEddk9XpW23KYq2E) | [ROMMII](https://open.spotify.com/artist/2ptklB4QBKqyRZNAkAEq8U), [BOLO THE DJ](https://open.spotify.com/artist/4qaAcBXIagTIWYkJRlxYZ7), [CASA AMIGOS](https://open.spotify.com/artist/1GfmUaYy7OeBPTwqDrjiE3) | [Baile Bounce](https://open.spotify.com/album/7BTKwaSJQBJvzMxVb82sVE) | 2:14 | 2025-10-11 | 2026-04-04 |
 | [BAMBOLE \- TAAO REMIX](https://open.spotify.com/track/5b2alA5jFTuaGs0aSjqvcV) | [Vikina](https://open.spotify.com/artist/0acSKGMIRsorWH3cQd5JrE), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Taao](https://open.spotify.com/artist/00I4wKx2BvStGK00Y3Kw5k) | [¿QUESTIONS? RELOADED](https://open.spotify.com/album/7lHgkI1A7SNKQ2V1njA9yt) | 2:47 | 2025-04-11 |  |
+| [BbY WOW \- John Summit Remix](https://open.spotify.com/track/6i0mauyUtfJ6Wb3QLVxKc6) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q), [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [BbY WOW \- John Summit Remix](https://open.spotify.com/album/7cATL7247RiXbe4yL7KdNv) | 3:38 | 2026-11-13 |  |
 | [BEACHY \(Play\-N\-Skillz House Remix\)](https://open.spotify.com/track/73DBgvxxWCJxgwqhlBK4pa) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Play\-N\-Skillz](https://open.spotify.com/artist/7MP4jhYmFEgb0AtiOkw55s) | [BEACHY \(Play\-N\-Skillz House Remix\)](https://open.spotify.com/album/3uLcK52pbcbW74QQZseCYv) | 3:25 | 2023-07-07 | 2025-01-22 |
 | [bebe](https://open.spotify.com/track/73YCfe06Hq68MmS5GFIf0m) | [Cobuz & Bustta](https://open.spotify.com/artist/3m7M07iLR1ragTqZ1Wm1NX) | [bebe](https://open.spotify.com/album/5TMjQ1nkCdafJ2KXxSLOKj) | 2:24 | 2026-01-24 |  |
 | [Belico Guaracha](https://open.spotify.com/track/1OEXKTNAgCLzLafDtvDhJn) | [Muzik Junkies](https://open.spotify.com/artist/34DQTRbIYPLSGU2SkOTEja) | [Belico Guaracha](https://open.spotify.com/album/6xO1uEzWSALC4fGfpIgmuu) | 3:00 | 2023-09-29 | 2024-04-19 |
@@ -153,6 +154,7 @@
 | [FOCO](https://open.spotify.com/track/2sA928RMlgA2BIpI3VF4vu) | [D2OS](https://open.spotify.com/artist/4bYINsPD7PpQj4uRPQnNsz), [El Cherry Scom](https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY), [La Goony Chonga](https://open.spotify.com/artist/4ZNk4pFFvI85sdgjkFPBjI) | [DEEP](https://open.spotify.com/album/4TD9rOjKVUN8CVhRlQ2Bgp) | 3:50 | 2024-05-28 | 2024-09-28 |
 | [For Every Pound](https://open.spotify.com/track/2JpBgRnLDQnRbQnTE5eB60) | [Lechero](https://open.spotify.com/artist/2x5oi7GC3XkdgXSC8juDIw) | [Sorry For The Weight](https://open.spotify.com/album/61UgKPXbltFZQiF3qifIyG) | 3:18 | 2022-03-22 | 2022-04-29 |
 | [Formentera \- GARABATTO RMX](https://open.spotify.com/track/1HaNaeulZAeYszYCRsnD0y) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [GARABATTO](https://open.spotify.com/artist/6JaOGIlSvYswVLPmGUheOO) | [Formentera RMX](https://open.spotify.com/album/5jUuL7HYJQlVF4TlW5PCZp) | 3:12 | 2022-03-22 | 2023-03-04 |
+| [Francisca](https://open.spotify.com/track/0YJsNe2rYjuhNHVJH0QVCd) | [Ateriko](https://open.spotify.com/artist/0hN1eVzVSkZMBMW1DpQQcC) | [Francisca](https://open.spotify.com/album/3TgSbUXRYdblQfu4OyJMlA) | 3:08 | 2026-11-13 |  |
 | [Fria \- Felix Jaehn Remix](https://open.spotify.com/track/44CPdSxbOvhrmvt8O3cVJk) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Fria \(Felix Jaehn Remix\)](https://open.spotify.com/album/71PHfxas0RxjsP7REVxbQa) | 2:40 | 2024-07-26 | 2026-04-04 |
 | [Frikitona](https://open.spotify.com/track/0q9YhUuxm8G1UatNDgBAdh) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI) | [Frikitona](https://open.spotify.com/album/7nsb4hMX1yb6GOILmcp7Kl) | 2:54 | 2023-08-04 | 2023-12-17 |
 | [Frikitona](https://open.spotify.com/track/5ls4FQAoSlAFPFnaYpeyhn) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI) | [Frikitona](https://open.spotify.com/album/5LdsLkZqLq2oUEthzHiR9g) | 2:54 | 2023-12-15 | 2024-04-19 |
@@ -251,6 +253,7 @@
 | [Luces](https://open.spotify.com/track/77UICuAzXRYuJqdhcy6R3m) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Luces](https://open.spotify.com/album/33y9UsVrEeUltpFdq8aPxZ) | 2:52 | 2022-07-04 | 2023-05-27 |
 | [LUCES DE NEON \(feat\. PRIMO\)](https://open.spotify.com/track/1QcohnRucqYNSu9wkq0M2x) | [JOHN ELLE](https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot), [PRIMO](https://open.spotify.com/artist/1b0KsC0utT7mnfZSQXQ9iP) | [LUCES DE NEON \(feat\. PRIMO\)](https://open.spotify.com/album/43WWaLc0pYy8KwzCY4O2RE) | 2:14 | 2025-04-11 |  |
 | [Lágrimas](https://open.spotify.com/track/38W8WO3xGxwWnQkJcrvHX9) | [MËSTIZA](https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n), [PAUZA](https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N), [Argentina](https://open.spotify.com/artist/7dZexQj3iCyp7wr690gnf2) | [Lágrimas \(Feat\. Argentina\)](https://open.spotify.com/album/177yb1Pg2TGtIAO7pHzvPX) | 3:38 | 2023-07-25 | 2023-11-30 |
+| [MADRID](https://open.spotify.com/track/0aQbdYxGUOWE03jwnkFBWp) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [MADRID \(EDM Remixes Bundle\)](https://open.spotify.com/album/4ZhV0tlowK6TiszahrSTrU) | 3:04 | 2026-11-13 |  |
 | [MAGIA](https://open.spotify.com/track/6908rYOxGnN4E4gKnaVg67) | [Maahez](https://open.spotify.com/artist/3i6JYFidKoDsJTtRLMkPXZ) | [MAGIA](https://open.spotify.com/album/0OYw7LZUMRaQ9ZrOPFBhkn) | 2:58 | 2026-03-13 |  |
 | [Maldad Pura \(feat\. Jasiel Nuñez\)](https://open.spotify.com/track/2DlC8rbljmNHJMteSMWJWa) | [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Maldad Pura \(feat\. Jasiel Nuñez\)](https://open.spotify.com/album/2NBk2VsMfEeBlN8KObjo7h) | 2:38 | 2024-12-13 |  |
 | [Mama](https://open.spotify.com/track/5l91QS67BEDNZiDWPdXLwy) | [MichaelBM](https://open.spotify.com/artist/6RY7vqzR938x0DE0Eh6srl), [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J) | [Mama](https://open.spotify.com/album/3rmcFbXbPdvCD8GCL72uZ3) | 2:41 | 2022-03-22 | 2023-03-04 |

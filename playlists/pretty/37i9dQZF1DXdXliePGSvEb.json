@@ -1,6 +1,6 @@
 {
   "description": "Our favourite electronic songs from around the world this year. Cover: KI/KI",
-  "num_followers": 78723,
+  "num_followers": 78718,
   "original_name": "Editors' picks: Best Electronic Songs of 2025",
   "owner": {
     "name": "Spotify",
@@ -955,26 +955,6 @@
     {
       "added_at": "2025-12-03 12:15:55",
       "album": {
-        "name": "TRUE MAGIC, DELUXE",
-        "url": "https://open.spotify.com/album/5tagdDmG4ZUUSYqSNXQsl1"
-      },
-      "artists": [
-        {
-          "name": "salute",
-          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
-        },
-        {
-          "name": "Peter Xan",
-          "url": "https://open.spotify.com/artist/2szFgPvkzJHtlrmuVdhSBP"
-        }
-      ],
-      "duration_ms": 255983,
-      "name": "gbesoke",
-      "url": "https://open.spotify.com/track/2ClKw253thLvImhOHDMk1y"
-    },
-    {
-      "added_at": "2025-12-03 12:15:55",
-      "album": {
         "name": "Big Boy Tracks",
         "url": "https://open.spotify.com/album/2Q9pKNTfIKEe1vRoe7vwWK"
       },
@@ -995,6 +975,26 @@
       "duration_ms": 221520,
       "name": "Big Boy Tracks",
       "url": "https://open.spotify.com/track/0jplL1GF7TuyqR6kAe2ikh"
+    },
+    {
+      "added_at": "2025-12-03 12:15:55",
+      "album": {
+        "name": "TRUE MAGIC, DELUXE",
+        "url": "https://open.spotify.com/album/5tagdDmG4ZUUSYqSNXQsl1"
+      },
+      "artists": [
+        {
+          "name": "salute",
+          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
+        },
+        {
+          "name": "Peter Xan",
+          "url": "https://open.spotify.com/artist/2szFgPvkzJHtlrmuVdhSBP"
+        }
+      ],
+      "duration_ms": 255983,
+      "name": "gbesoke",
+      "url": "https://open.spotify.com/track/2ClKw253thLvImhOHDMk1y"
     },
     {
       "added_at": "2025-12-03 12:15:55",

@@ -1,12 +1,12 @@
 {
   "description": "This is D'Angelo. The essential tracks, all in one playlist.",
-  "num_followers": 79404,
+  "num_followers": 79414,
   "original_name": "This Is D'Angelo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avOwAAAAAAAYhBApLdoT2p+cj8vzT37k",
+  "snapshot_id": "avUBgAAAAAAvMdQoqvH0jiiTPoJI0Zhs",
   "tracks": [
     {
       "added_at": null,
@@ -651,6 +651,26 @@
       "duration_ms": 289026,
       "name": "Ain't That Easy",
       "url": "https://open.spotify.com/track/2yx7XX9v7M6yhm2fBG7K3E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Renaissance",
+        "url": "https://open.spotify.com/album/3asZSLOAAtCNJz5W2LGuFJ"
+      },
+      "artists": [
+        {
+          "name": "Q-Tip",
+          "url": "https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU"
+        },
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 176986,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/1HeuJBxrVjtxLeEJKm8Tez"
     }
   ],
   "unique_name": "This Is D'Angelo",

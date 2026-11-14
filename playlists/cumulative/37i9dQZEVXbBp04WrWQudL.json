@@ -210,6 +210,24 @@
     {
       "album": {
         "name": "All I Want For Christmas Is You",
+        "url": "https://open.spotify.com/album/3Y3HGHWLrtJEzdwuTWU6Tp"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236010,
+      "name": "All I Want For Christmas Is You",
+      "url": "https://open.spotify.com/track/0XSzsXxRtHARGF0wuULAUG"
+    },
+    {
+      "album": {
+        "name": "All I Want For Christmas Is You",
         "url": "https://open.spotify.com/album/0IM6TVN7HYWAThw5aEPJRJ"
       },
       "artists": [
@@ -220,7 +238,7 @@
       ],
       "date_added": "2026-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 237056,
       "name": "All I Want For Christmas Is You",
       "url": "https://open.spotify.com/track/2uY20FD6cAiH5vziccgjAJ"
@@ -1190,7 +1208,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 421269,
       "name": "Choosin' Texas",
       "url": "https://open.spotify.com/track/61oXWlM80pXSYi17C7tzvL"
@@ -2266,7 +2284,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 207412,
       "name": "FIRESTARTER",
       "url": "https://open.spotify.com/track/5o3akcoqyEzVCafBnteSNF"
@@ -3355,6 +3373,24 @@
     },
     {
       "album": {
+        "name": "Lonely in the Future",
+        "url": "https://open.spotify.com/album/59EWpdfYDgpL8ChRkB4dka"
+      },
+      "artists": [
+        {
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260650,
+      "name": "Lonely in the Future",
+      "url": "https://open.spotify.com/track/1vWy3KkV7aKzadtGZSBQ2i"
+    },
+    {
+      "album": {
         "name": "Look Like My Mama",
         "url": "https://open.spotify.com/album/1hmt5rozSHbBtTAEPI5ZFc"
       },
@@ -3798,7 +3834,7 @@
       ],
       "date_added": "2026-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-11",
+      "date_removed": null,
       "duration_ms": 183524,
       "name": "Meu Sil\u00eancio - Ao Vivo",
       "url": "https://open.spotify.com/track/1B3DrO9PIwoVhqOtRRIQvG"
@@ -4118,7 +4154,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-09",
+      "date_removed": null,
       "duration_ms": 201310,
       "name": "NORMAL",
       "url": "https://open.spotify.com/track/5d1adDwusi5l5OsjRuIL2Z"
@@ -4136,7 +4172,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 201950,
       "name": "NORMAL",
       "url": "https://open.spotify.com/track/11RWNnTwBIdmqaJsKzFUqJ"
@@ -6112,7 +6148,7 @@
       ],
       "date_added": "2026-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 243050,
       "name": "VAMO A VEL",
       "url": "https://open.spotify.com/track/0125qUd6QK9Wq7qWtimhYH"
@@ -6494,6 +6530,32 @@
       "duration_ms": 154889,
       "name": "\u00daltima Saudade - Ao Vivo",
       "url": "https://open.spotify.com/track/3RvPXSkVUNq7Rp63uvLYOY"
+    },
+    {
+      "album": {
+        "name": "\u00daltimamente (W Sound 11)",
+        "url": "https://open.spotify.com/album/16Vaq9G5pG5ftFTlUZb6t2"
+      },
+      "artists": [
+        {
+          "name": "W Sound",
+          "url": "https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4"
+        },
+        {
+          "name": "De La Rose",
+          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226837,
+      "name": "\u00daltimamente - W Sound 11",
+      "url": "https://open.spotify.com/track/36EUwLZZXTAJQV0qOgHnZK"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZEVXbBp04WrWQudL"

@@ -1,6 +1,6 @@
 {
   "description": "Este es el Reggae, al sur del continente americano. Foto: Dread Mar I.",
-  "num_followers": 77496,
+  "num_followers": 77509,
   "original_name": "Reggae al Sur",
   "owner": {
     "name": "Spotify",
@@ -239,22 +239,6 @@
     {
       "added_at": "2026-10-23 13:49:17",
       "album": {
-        "name": "HACELA CORTA MOROCHO",
-        "url": "https://open.spotify.com/album/3hMY1AP3oAnzSD2HAZQAAC"
-      },
-      "artists": [
-        {
-          "name": "PALO",
-          "url": "https://open.spotify.com/artist/32ErYjGxv6oBxX1KCMZmtk"
-        }
-      ],
-      "duration_ms": 117358,
-      "name": "HACELA CORTA MOROCHO",
-      "url": "https://open.spotify.com/track/65O7K8HHHTCa8pInjQdTcp"
-    },
-    {
-      "added_at": "2026-10-23 13:49:17",
-      "album": {
         "name": "International Love",
         "url": "https://open.spotify.com/album/6TfIPMw7QqgcTEL0sIMW48"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 246400,
       "name": "International Love",
       "url": "https://open.spotify.com/track/2O282x8rik9PMihQAx6bAq"
+    },
+    {
+      "added_at": "2026-10-23 13:49:17",
+      "album": {
+        "name": "HACELA CORTA MOROCHO",
+        "url": "https://open.spotify.com/album/3hMY1AP3oAnzSD2HAZQAAC"
+      },
+      "artists": [
+        {
+          "name": "PALO",
+          "url": "https://open.spotify.com/artist/32ErYjGxv6oBxX1KCMZmtk"
+        }
+      ],
+      "duration_ms": 117358,
+      "name": "HACELA CORTA MOROCHO",
+      "url": "https://open.spotify.com/track/65O7K8HHHTCa8pInjQdTcp"
     },
     {
       "added_at": "2026-10-23 13:49:17",
@@ -715,6 +715,26 @@
     {
       "added_at": "2026-10-23 13:49:17",
       "album": {
+        "name": "Encanto",
+        "url": "https://open.spotify.com/album/3aJJdHEClW1YQarSSXaE9H"
+      },
+      "artists": [
+        {
+          "name": "MAMA GAIA",
+          "url": "https://open.spotify.com/artist/5uvIzs93CiewRg46Q9VpCx"
+        },
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        }
+      ],
+      "duration_ms": 193817,
+      "name": "Gaia",
+      "url": "https://open.spotify.com/track/4sxH0m1nMETWC6xvMzjk2s"
+    },
+    {
+      "added_at": "2026-10-23 13:49:17",
+      "album": {
         "name": "Llamado",
         "url": "https://open.spotify.com/album/0W6E96gtjauTn9qfb8yA0H"
       },
@@ -739,26 +759,6 @@
       "duration_ms": 225431,
       "name": "Llamado",
       "url": "https://open.spotify.com/track/2JhNQJoJYc7SWkZgdVpGin"
-    },
-    {
-      "added_at": "2026-10-23 13:49:17",
-      "album": {
-        "name": "Encanto",
-        "url": "https://open.spotify.com/album/3aJJdHEClW1YQarSSXaE9H"
-      },
-      "artists": [
-        {
-          "name": "MAMA GAIA",
-          "url": "https://open.spotify.com/artist/5uvIzs93CiewRg46Q9VpCx"
-        },
-        {
-          "name": "Zona Ganjah",
-          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
-        }
-      ],
-      "duration_ms": 193817,
-      "name": "Gaia",
-      "url": "https://open.spotify.com/track/4sxH0m1nMETWC6xvMzjk2s"
     },
     {
       "added_at": "2026-10-23 13:49:17",
@@ -891,22 +891,6 @@
     {
       "added_at": "2026-10-23 13:49:17",
       "album": {
-        "name": "S\u00ed Ser\u00e1s",
-        "url": "https://open.spotify.com/album/0ZToxlCx1Z93ECG3yZWsZ0"
-      },
-      "artists": [
-        {
-          "name": "Rondamon",
-          "url": "https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP"
-        }
-      ],
-      "duration_ms": 198680,
-      "name": "Puede Parecer",
-      "url": "https://open.spotify.com/track/1hLdypz7khXd9pociYJo1Q"
-    },
-    {
-      "added_at": "2026-10-23 13:49:17",
-      "album": {
         "name": "Bahiano BH+",
         "url": "https://open.spotify.com/album/395z1bmOgVL9hz71ajyXSj"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 260266,
       "name": "No Mires Atras",
       "url": "https://open.spotify.com/track/5p1tfHJsagO1inTgmiW7Sk"
+    },
+    {
+      "added_at": "2026-10-23 13:49:17",
+      "album": {
+        "name": "S\u00ed Ser\u00e1s",
+        "url": "https://open.spotify.com/album/0ZToxlCx1Z93ECG3yZWsZ0"
+      },
+      "artists": [
+        {
+          "name": "Rondamon",
+          "url": "https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP"
+        }
+      ],
+      "duration_ms": 198680,
+      "name": "Puede Parecer",
+      "url": "https://open.spotify.com/track/1hLdypz7khXd9pociYJo1Q"
     },
     {
       "added_at": "2026-10-23 13:49:17",
@@ -1275,18 +1275,22 @@
     {
       "added_at": "2026-10-23 13:49:17",
       "album": {
-        "name": "Runfla Calavera",
-        "url": "https://open.spotify.com/album/7jSJ3aBEE9ENZrg5LJPAfc"
+        "name": "Family",
+        "url": "https://open.spotify.com/album/3ErU1DF7DYc6bcFf2zcBrB"
       },
       "artists": [
         {
-          "name": "Mamita Peyote",
-          "url": "https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8"
+          "name": "Stailok",
+          "url": "https://open.spotify.com/artist/3raEZI89hszEBTTvb5wLsi"
+        },
+        {
+          "name": "Pailita",
+          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
         }
       ],
-      "duration_ms": 230986,
-      "name": "Diablito",
-      "url": "https://open.spotify.com/track/2Z1rlQEgYannUuHeJmWYzp"
+      "duration_ms": 258349,
+      "name": "Family",
+      "url": "https://open.spotify.com/track/1oOXaVhLJnpNmdvB0JLSOl"
     },
     {
       "added_at": "2026-10-23 13:49:17",
@@ -1311,22 +1315,18 @@
     {
       "added_at": "2026-10-23 13:49:17",
       "album": {
-        "name": "Family",
-        "url": "https://open.spotify.com/album/3ErU1DF7DYc6bcFf2zcBrB"
+        "name": "Runfla Calavera",
+        "url": "https://open.spotify.com/album/7jSJ3aBEE9ENZrg5LJPAfc"
       },
       "artists": [
         {
-          "name": "Stailok",
-          "url": "https://open.spotify.com/artist/3raEZI89hszEBTTvb5wLsi"
-        },
-        {
-          "name": "Pailita",
-          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
+          "name": "Mamita Peyote",
+          "url": "https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8"
         }
       ],
-      "duration_ms": 258349,
-      "name": "Family",
-      "url": "https://open.spotify.com/track/1oOXaVhLJnpNmdvB0JLSOl"
+      "duration_ms": 230986,
+      "name": "Diablito",
+      "url": "https://open.spotify.com/track/2Z1rlQEgYannUuHeJmWYzp"
     },
     {
       "added_at": "2026-10-23 13:49:17",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2026-10-23 13:49:17",
       "album": {
+        "name": "Momento Tiempo",
+        "url": "https://open.spotify.com/album/0ydi3g7gS5nXOfc1BHAkd1"
+      },
+      "artists": [
+        {
+          "name": "Delfines de Etiopia",
+          "url": "https://open.spotify.com/artist/3XhuCg7NlHiT3zafRVZdc9"
+        }
+      ],
+      "duration_ms": 259373,
+      "name": "De Tanto Caminar",
+      "url": "https://open.spotify.com/track/3YYxrPjEt5r9BPWvvdYFae"
+    },
+    {
+      "added_at": "2026-10-23 13:49:17",
+      "album": {
         "name": "As\u00ed Se Vive Feliz",
         "url": "https://open.spotify.com/album/5fGENcbYnHf0qXhJTUvGOQ"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 199000,
       "name": "As\u00ed Se Vive Feliz",
       "url": "https://open.spotify.com/track/1KuBGjOWwsSvpUoIOpND2z"
-    },
-    {
-      "added_at": "2026-10-23 13:49:17",
-      "album": {
-        "name": "Momento Tiempo",
-        "url": "https://open.spotify.com/album/0ydi3g7gS5nXOfc1BHAkd1"
-      },
-      "artists": [
-        {
-          "name": "Delfines de Etiopia",
-          "url": "https://open.spotify.com/artist/3XhuCg7NlHiT3zafRVZdc9"
-        }
-      ],
-      "duration_ms": 259373,
-      "name": "De Tanto Caminar",
-      "url": "https://open.spotify.com/track/3YYxrPjEt5r9BPWvvdYFae"
     },
     {
       "added_at": "2026-10-23 13:49:17",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2026-10-23 13:49:17",
       "album": {
-        "name": "Arriba",
-        "url": "https://open.spotify.com/album/6Zqog9Lev55brNFT25qM4L"
-      },
-      "artists": [
-        {
-          "name": "Fidel Nadal",
-          "url": "https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS"
-        }
-      ],
-      "duration_ms": 222421,
-      "name": "Arriba",
-      "url": "https://open.spotify.com/track/4fuHpNw6f7LtUWdKAkaHhS"
-    },
-    {
-      "added_at": "2026-10-23 13:49:17",
-      "album": {
         "name": "Casita",
         "url": "https://open.spotify.com/album/0DMSNN9pV9J7oeDsG4Ry2n"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 205059,
       "name": "Casita",
       "url": "https://open.spotify.com/track/3MrOYjTjWASMbTmefUukCz"
+    },
+    {
+      "added_at": "2026-10-23 13:49:17",
+      "album": {
+        "name": "Arriba",
+        "url": "https://open.spotify.com/album/6Zqog9Lev55brNFT25qM4L"
+      },
+      "artists": [
+        {
+          "name": "Fidel Nadal",
+          "url": "https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS"
+        }
+      ],
+      "duration_ms": 222421,
+      "name": "Arriba",
+      "url": "https://open.spotify.com/track/4fuHpNw6f7LtUWdKAkaHhS"
     },
     {
       "added_at": "2026-10-23 13:49:17",

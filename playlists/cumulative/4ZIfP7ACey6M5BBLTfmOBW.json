@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-14",
-  "description": "Strictly the freshest and finest hip-hop heats. No skips. Cover: A$AP Rocky.",
+  "description": "Strictly the freshest and finest hip-hop heats. No skips. Cover: Snotty Nose Rez Kids.",
   "name": "Fresh Hip Hop",
   "tracks": [
     {
@@ -2236,6 +2236,24 @@
       "duration_ms": 170322,
       "name": "BODY SHOP. (feat. Tommy Richman)",
       "url": "https://open.spotify.com/track/7wQ2sYDKlby1qgPki8THbZ"
+    },
+    {
+      "album": {
+        "name": "Bombshell",
+        "url": "https://open.spotify.com/album/3YN9pb7xbignsmawVbSo0n"
+      },
+      "artists": [
+        {
+          "name": "Snotty Nose Rez Kids",
+          "url": "https://open.spotify.com/artist/16T3el1CEjX49qFA7UT2n5"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121125,
+      "name": "Bombshell",
+      "url": "https://open.spotify.com/track/2VeN1n4V4e1MQuxsbz1cHe"
     },
     {
       "album": {

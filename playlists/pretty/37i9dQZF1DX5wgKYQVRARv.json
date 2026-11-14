@@ -1,6 +1,6 @@
 {
   "description": "New and recent favorites of Progressive Metal. Cover: Enslaved",
-  "num_followers": 572500,
+  "num_followers": 572509,
   "original_name": "Progressive Metal",
   "owner": {
     "name": "Spotify",
@@ -831,22 +831,6 @@
     {
       "added_at": "2026-10-19 21:38:58",
       "album": {
-        "name": "Beyond the Reach of the Sun",
-        "url": "https://open.spotify.com/album/1IQZLI0hmtFd073Dp8aZPE"
-      },
-      "artists": [
-        {
-          "name": "Anciients",
-          "url": "https://open.spotify.com/artist/3YQOcYukzO6U1MjFcavDUE"
-        }
-      ],
-      "duration_ms": 492637,
-      "name": "Forbidden Sanctuary",
-      "url": "https://open.spotify.com/track/3Sw6fdbf4psr04Dn0VzArJ"
-    },
-    {
-      "added_at": "2026-10-19 21:38:58",
-      "album": {
         "name": "With All That\u2019s Left",
         "url": "https://open.spotify.com/album/2rNjDEe9fPvLmSO4LqnGiv"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 233933,
       "name": "Dance For You",
       "url": "https://open.spotify.com/track/56O1HPR9bfVYKaUL3wANbv"
+    },
+    {
+      "added_at": "2026-10-19 21:38:58",
+      "album": {
+        "name": "Beyond the Reach of the Sun",
+        "url": "https://open.spotify.com/album/1IQZLI0hmtFd073Dp8aZPE"
+      },
+      "artists": [
+        {
+          "name": "Anciients",
+          "url": "https://open.spotify.com/artist/3YQOcYukzO6U1MjFcavDUE"
+        }
+      ],
+      "duration_ms": 492637,
+      "name": "Forbidden Sanctuary",
+      "url": "https://open.spotify.com/track/3Sw6fdbf4psr04Dn0VzArJ"
     },
     {
       "added_at": "2026-10-19 21:38:58",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2026-10-19 21:38:58",
       "album": {
-        "name": "A Dark Poem, Part II: Sanguis",
-        "url": "https://open.spotify.com/album/2GOYCUoz868WL0S3MR3iKZ"
-      },
-      "artists": [
-        {
-          "name": "Green Carnation",
-          "url": "https://open.spotify.com/artist/1ZaJhNBAhJ3HjPsWiB9sDc"
-        }
-      ],
-      "duration_ms": 545000,
-      "name": "Sanguis",
-      "url": "https://open.spotify.com/track/5ouq744En8GwES4t5FPBx6"
-    },
-    {
-      "added_at": "2026-10-19 21:38:58",
-      "album": {
         "name": "Clawing out",
         "url": "https://open.spotify.com/album/2kyqjgvv8NNFF8ulOY0sYW"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 221533,
       "name": "Clawing out",
       "url": "https://open.spotify.com/track/2vDnLjOWF85p72c1t40oe5"
+    },
+    {
+      "added_at": "2026-10-19 21:38:58",
+      "album": {
+        "name": "A Dark Poem, Part II: Sanguis",
+        "url": "https://open.spotify.com/album/2GOYCUoz868WL0S3MR3iKZ"
+      },
+      "artists": [
+        {
+          "name": "Green Carnation",
+          "url": "https://open.spotify.com/artist/1ZaJhNBAhJ3HjPsWiB9sDc"
+        }
+      ],
+      "duration_ms": 545000,
+      "name": "Sanguis",
+      "url": "https://open.spotify.com/track/5ouq744En8GwES4t5FPBx6"
     },
     {
       "added_at": "2026-10-19 21:38:58",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2026-10-19 21:38:58",
       "album": {
-        "name": "A World Without Heroes",
-        "url": "https://open.spotify.com/album/2xtkmBmtF01sbu1vTpM4y4"
-      },
-      "artists": [
-        {
-          "name": "Katatonia",
-          "url": "https://open.spotify.com/artist/2CWWgbxApjbyByxBBCvGTm"
-        }
-      ],
-      "duration_ms": 166040,
-      "name": "A World Without Heroes",
-      "url": "https://open.spotify.com/track/0kHAefyoCG9uauaDPVKfdI"
-    },
-    {
-      "added_at": "2026-10-19 21:38:58",
-      "album": {
         "name": "Psychotic Banana",
         "url": "https://open.spotify.com/album/1qDg0ds6zDDmYT7nCv9ccw"
       },
@@ -1287,18 +1271,18 @@
     {
       "added_at": "2026-10-19 21:38:58",
       "album": {
-        "name": "Ophelia (feat. SHAOLIN G)",
-        "url": "https://open.spotify.com/album/083FnaHDQgQbQ7VVwnH5nc"
+        "name": "A World Without Heroes",
+        "url": "https://open.spotify.com/album/2xtkmBmtF01sbu1vTpM4y4"
       },
       "artists": [
         {
-          "name": "Tulip",
-          "url": "https://open.spotify.com/artist/520HRtk3c4y8WTKKywE4PY"
+          "name": "Katatonia",
+          "url": "https://open.spotify.com/artist/2CWWgbxApjbyByxBBCvGTm"
         }
       ],
-      "duration_ms": 288018,
-      "name": "Ophelia - feat. SHAOLIN G",
-      "url": "https://open.spotify.com/track/2JuOxFCEkOmq4QfzwaUauH"
+      "duration_ms": 166040,
+      "name": "A World Without Heroes",
+      "url": "https://open.spotify.com/track/0kHAefyoCG9uauaDPVKfdI"
     },
     {
       "added_at": "2026-10-19 21:38:58",
@@ -1315,6 +1299,22 @@
       "duration_ms": 247705,
       "name": "Heathen",
       "url": "https://open.spotify.com/track/2CLuyyy4gpFNqgonHsDg8C"
+    },
+    {
+      "added_at": "2026-10-19 21:38:58",
+      "album": {
+        "name": "Ophelia (feat. SHAOLIN G)",
+        "url": "https://open.spotify.com/album/083FnaHDQgQbQ7VVwnH5nc"
+      },
+      "artists": [
+        {
+          "name": "Tulip",
+          "url": "https://open.spotify.com/artist/520HRtk3c4y8WTKKywE4PY"
+        }
+      ],
+      "duration_ms": 288018,
+      "name": "Ophelia - feat. SHAOLIN G",
+      "url": "https://open.spotify.com/track/2JuOxFCEkOmq4QfzwaUauH"
     },
     {
       "added_at": "2026-10-19 21:38:58",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2026-10-19 21:38:58",
       "album": {
-        "name": "The Phantom Void",
-        "url": "https://open.spotify.com/album/3i6luWWKFx8rfVYfdfNV7E"
-      },
-      "artists": [
-        {
-          "name": "Long Distance Calling",
-          "url": "https://open.spotify.com/artist/3SiCxhceGZgzusCLHd4Zz6"
-        }
-      ],
-      "duration_ms": 473426,
-      "name": "Phantom Void",
-      "url": "https://open.spotify.com/track/5Q46MHpnqwiFcMIMGMjNVU"
-    },
-    {
-      "added_at": "2026-10-19 21:38:58",
-      "album": {
         "name": "At Races",
         "url": "https://open.spotify.com/album/1YXeMcK6jeDBQ41M3DpSZ3"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 359840,
       "name": "At Races",
       "url": "https://open.spotify.com/track/2F9RANfKhByYWOhUiY7Fh0"
+    },
+    {
+      "added_at": "2026-10-19 21:38:58",
+      "album": {
+        "name": "The Phantom Void",
+        "url": "https://open.spotify.com/album/3i6luWWKFx8rfVYfdfNV7E"
+      },
+      "artists": [
+        {
+          "name": "Long Distance Calling",
+          "url": "https://open.spotify.com/artist/3SiCxhceGZgzusCLHd4Zz6"
+        }
+      ],
+      "duration_ms": 473426,
+      "name": "Phantom Void",
+      "url": "https://open.spotify.com/track/5Q46MHpnqwiFcMIMGMjNVU"
     },
     {
       "added_at": "2026-10-19 21:38:58",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2026-10-19 21:38:58",
       "album": {
+        "name": "Through The Hourglass",
+        "url": "https://open.spotify.com/album/6pkmDDMEz21BQY74lll71l"
+      },
+      "artists": [
+        {
+          "name": "Witch Ripper",
+          "url": "https://open.spotify.com/artist/3v6xMwgOKzEYpZNalgtqhI"
+        }
+      ],
+      "duration_ms": 395680,
+      "name": "The Portal",
+      "url": "https://open.spotify.com/track/6ZuM7o6mvG0BQvwrpY75Cg"
+    },
+    {
+      "added_at": "2026-10-19 21:38:58",
+      "album": {
         "name": "The Divide",
         "url": "https://open.spotify.com/album/4dVPRQL6mvBhUXsHHaeTz6"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 162100,
       "name": "Spotlight",
       "url": "https://open.spotify.com/track/6nKHKZgspXY4ng3exvTXGD"
-    },
-    {
-      "added_at": "2026-10-19 21:38:58",
-      "album": {
-        "name": "Through The Hourglass",
-        "url": "https://open.spotify.com/album/6pkmDDMEz21BQY74lll71l"
-      },
-      "artists": [
-        {
-          "name": "Witch Ripper",
-          "url": "https://open.spotify.com/artist/3v6xMwgOKzEYpZNalgtqhI"
-        }
-      ],
-      "duration_ms": 395680,
-      "name": "The Portal",
-      "url": "https://open.spotify.com/track/6ZuM7o6mvG0BQvwrpY75Cg"
     },
     {
       "added_at": "2026-10-19 21:38:58",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2026-10-19 21:38:58",
       "album": {
-        "name": "Stargod",
-        "url": "https://open.spotify.com/album/1FImx4muj0n0HZO14X5blQ"
-      },
-      "artists": [
-        {
-          "name": "Astronoid",
-          "url": "https://open.spotify.com/artist/2S13OV7nLeciVigE0Wxo7E"
-        }
-      ],
-      "duration_ms": 354666,
-      "name": "Depressed Mode",
-      "url": "https://open.spotify.com/track/26qP1rNOOIyzykzWJad4gO"
-    },
-    {
-      "added_at": "2026-10-19 21:38:58",
-      "album": {
         "name": "From Nothing",
         "url": "https://open.spotify.com/album/6NBzyj5wkRF2ILEoAaIQRQ"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 341480,
       "name": "From Nothing",
       "url": "https://open.spotify.com/track/3nr4oL6HxiQjged4NWngEs"
+    },
+    {
+      "added_at": "2026-10-19 21:38:58",
+      "album": {
+        "name": "Stargod",
+        "url": "https://open.spotify.com/album/1FImx4muj0n0HZO14X5blQ"
+      },
+      "artists": [
+        {
+          "name": "Astronoid",
+          "url": "https://open.spotify.com/artist/2S13OV7nLeciVigE0Wxo7E"
+        }
+      ],
+      "duration_ms": 354666,
+      "name": "Depressed Mode",
+      "url": "https://open.spotify.com/track/26qP1rNOOIyzykzWJad4gO"
     },
     {
       "added_at": "2026-10-19 21:38:58",
@@ -1859,18 +1859,18 @@
     {
       "added_at": "2026-10-19 21:38:58",
       "album": {
-        "name": "The Great Filters",
-        "url": "https://open.spotify.com/album/6DI4rXauRX4BzzPAnKo8Nu"
+        "name": "MelancHoly",
+        "url": "https://open.spotify.com/album/2xenPEQcPvRA4fyc08E4cf"
       },
       "artists": [
         {
-          "name": "Fractal Universe",
-          "url": "https://open.spotify.com/artist/4xP1ALrFSYLVCUiRA0xzMy"
+          "name": "Swallow The Sun",
+          "url": "https://open.spotify.com/artist/0ulKlNlo0iPx5ZS6VMTHWQ"
         }
       ],
-      "duration_ms": 215000,
-      "name": "Causality's Grip",
-      "url": "https://open.spotify.com/track/4LAnkpI6JW7bB4hRwMYF3y"
+      "duration_ms": 218000,
+      "name": "MelancHoly",
+      "url": "https://open.spotify.com/track/2rXBCOwW1bm7og7BnDHybT"
     },
     {
       "added_at": "2026-10-19 21:38:58",
@@ -1891,18 +1891,18 @@
     {
       "added_at": "2026-10-19 21:38:58",
       "album": {
-        "name": "MelancHoly",
-        "url": "https://open.spotify.com/album/2xenPEQcPvRA4fyc08E4cf"
+        "name": "The Great Filters",
+        "url": "https://open.spotify.com/album/6DI4rXauRX4BzzPAnKo8Nu"
       },
       "artists": [
         {
-          "name": "Swallow The Sun",
-          "url": "https://open.spotify.com/artist/0ulKlNlo0iPx5ZS6VMTHWQ"
+          "name": "Fractal Universe",
+          "url": "https://open.spotify.com/artist/4xP1ALrFSYLVCUiRA0xzMy"
         }
       ],
-      "duration_ms": 218000,
-      "name": "MelancHoly",
-      "url": "https://open.spotify.com/track/2rXBCOwW1bm7og7BnDHybT"
+      "duration_ms": 215000,
+      "name": "Causality's Grip",
+      "url": "https://open.spotify.com/track/4LAnkpI6JW7bB4hRwMYF3y"
     },
     {
       "added_at": "2026-10-19 21:38:58",
@@ -2003,6 +2003,38 @@
     {
       "added_at": "2026-10-19 21:38:58",
       "album": {
+        "name": "of the Last Human Being",
+        "url": "https://open.spotify.com/album/21sPynlIngwnuIOcltyRjv"
+      },
+      "artists": [
+        {
+          "name": "Sleepytime Gorilla Museum",
+          "url": "https://open.spotify.com/artist/74KPeP60dRLSAAk7sFtWTC"
+        }
+      ],
+      "duration_ms": 390762,
+      "name": "Salamander in Two Worlds",
+      "url": "https://open.spotify.com/track/3ZaIvAnZRhxLNemyyRErHH"
+    },
+    {
+      "added_at": "2026-10-19 21:38:58",
+      "album": {
+        "name": "Moral and Consequence",
+        "url": "https://open.spotify.com/album/04miOpfHNxtzJXZ0KEywz0"
+      },
+      "artists": [
+        {
+          "name": "Frost*",
+          "url": "https://open.spotify.com/artist/1Ha9FtCeuoajMbOG4Kz2d7"
+        }
+      ],
+      "duration_ms": 493223,
+      "name": "Moral and Consequence",
+      "url": "https://open.spotify.com/track/3cOfZRIrGGGnNdkndnmtEC"
+    },
+    {
+      "added_at": "2026-10-19 21:38:58",
+      "album": {
         "name": "Fear",
         "url": "https://open.spotify.com/album/1YyIQsF7te1vM4EBz2h1Bg"
       },
@@ -2039,38 +2071,6 @@
       "duration_ms": 270344,
       "name": "Envy",
       "url": "https://open.spotify.com/track/3BoLYG2QSpR1bCOhuTUsYR"
-    },
-    {
-      "added_at": "2026-10-19 21:38:58",
-      "album": {
-        "name": "of the Last Human Being",
-        "url": "https://open.spotify.com/album/21sPynlIngwnuIOcltyRjv"
-      },
-      "artists": [
-        {
-          "name": "Sleepytime Gorilla Museum",
-          "url": "https://open.spotify.com/artist/74KPeP60dRLSAAk7sFtWTC"
-        }
-      ],
-      "duration_ms": 390762,
-      "name": "Salamander in Two Worlds",
-      "url": "https://open.spotify.com/track/3ZaIvAnZRhxLNemyyRErHH"
-    },
-    {
-      "added_at": "2026-10-19 21:38:58",
-      "album": {
-        "name": "Moral and Consequence",
-        "url": "https://open.spotify.com/album/04miOpfHNxtzJXZ0KEywz0"
-      },
-      "artists": [
-        {
-          "name": "Frost*",
-          "url": "https://open.spotify.com/artist/1Ha9FtCeuoajMbOG4Kz2d7"
-        }
-      ],
-      "duration_ms": 493223,
-      "name": "Moral and Consequence",
-      "url": "https://open.spotify.com/track/3cOfZRIrGGGnNdkndnmtEC"
     },
     {
       "added_at": "2026-10-19 21:38:58",
@@ -2191,22 +2191,6 @@
     {
       "added_at": "2026-10-19 21:38:58",
       "album": {
-        "name": "Spirit Corrosion",
-        "url": "https://open.spotify.com/album/738zzIsYYGg5lcbiApHYXR"
-      },
-      "artists": [
-        {
-          "name": "Nailed to Obscurity",
-          "url": "https://open.spotify.com/artist/3VKWvDnlwWaBI2uzMTjuSJ"
-        }
-      ],
-      "duration_ms": 317706,
-      "name": "Spirit Corrosion",
-      "url": "https://open.spotify.com/track/7sQsJItB0PbQ5asT8PPYrk"
-    },
-    {
-      "added_at": "2026-10-19 21:38:58",
-      "album": {
         "name": "Here We Are",
         "url": "https://open.spotify.com/album/6cytNSU09li8jXGtKezAHz"
       },
@@ -2219,6 +2203,22 @@
       "duration_ms": 214499,
       "name": "Here We Are",
       "url": "https://open.spotify.com/track/3oCwdUiyKIwp6SigQXoopU"
+    },
+    {
+      "added_at": "2026-10-19 21:38:58",
+      "album": {
+        "name": "Spirit Corrosion",
+        "url": "https://open.spotify.com/album/738zzIsYYGg5lcbiApHYXR"
+      },
+      "artists": [
+        {
+          "name": "Nailed to Obscurity",
+          "url": "https://open.spotify.com/artist/3VKWvDnlwWaBI2uzMTjuSJ"
+        }
+      ],
+      "duration_ms": 317706,
+      "name": "Spirit Corrosion",
+      "url": "https://open.spotify.com/track/7sQsJItB0PbQ5asT8PPYrk"
     },
     {
       "added_at": "2026-10-19 21:38:58",

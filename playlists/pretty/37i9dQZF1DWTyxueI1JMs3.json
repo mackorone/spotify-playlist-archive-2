@@ -1,6 +1,6 @@
 {
   "description": "Music from \u201cA3!\u201d, Japan\u2019s top anime style mobile games.\u00a9Liber Entertainment Inc. All Rights Reserved.",
-  "num_followers": 40853,
+  "num_followers": 40855,
   "original_name": "A3!",
   "owner": {
     "name": "Spotify",
@@ -147,6 +147,38 @@
     {
       "added_at": "2026-08-25 16:08:07",
       "album": {
+        "name": "GOLDEN ENCORE!",
+        "url": "https://open.spotify.com/album/3Asr0w8ovcO63Nk4pceDmI"
+      },
+      "artists": [
+        {
+          "name": "BRBRookies!",
+          "url": "https://open.spotify.com/artist/1J51fE64FFrosV0OIf16zf"
+        },
+        {
+          "name": "\u536f\u6728\u5343\u666f(CV:\u7fbd\u591a\u91ce\u6e09)",
+          "url": "https://open.spotify.com/artist/2q1iYBonWHVaAKjA7RgzYO"
+        },
+        {
+          "name": "\u5175\u982d\u4e5d\u9580(CV:\u7560\u4e2d\u7950)",
+          "url": "https://open.spotify.com/artist/1pjEl5QsnV2SHCkZzMP013"
+        },
+        {
+          "name": "\u6cc9\u7530\u8387(CV:\u5c0f\u897f\u6210\u5f25)",
+          "url": "https://open.spotify.com/artist/6vs80AhrELN6M47kwfpfCA"
+        },
+        {
+          "name": "\u30ac\u30a4(CV:\u65e5\u91ce\u8061)",
+          "url": "https://open.spotify.com/artist/7EZcJktHiIdBdcpL6sNOTc"
+        }
+      ],
+      "duration_ms": 280533,
+      "name": "GOLDEN ENCORE!",
+      "url": "https://open.spotify.com/track/5DMdNNSU4xLSTK1niFEaFS"
+    },
+    {
+      "added_at": "2026-08-25 16:08:07",
+      "album": {
         "name": "A3! First AUTUMN EP",
         "url": "https://open.spotify.com/album/3Z9ByrJdBMKn4jQVMq7CEn"
       },
@@ -179,38 +211,6 @@
       "duration_ms": 217600,
       "name": "oneXone",
       "url": "https://open.spotify.com/track/5ePibLYpQJCVQvUgylru5D"
-    },
-    {
-      "added_at": "2026-08-25 16:08:07",
-      "album": {
-        "name": "GOLDEN ENCORE!",
-        "url": "https://open.spotify.com/album/3Asr0w8ovcO63Nk4pceDmI"
-      },
-      "artists": [
-        {
-          "name": "BRBRookies!",
-          "url": "https://open.spotify.com/artist/1J51fE64FFrosV0OIf16zf"
-        },
-        {
-          "name": "\u536f\u6728\u5343\u666f(CV:\u7fbd\u591a\u91ce\u6e09)",
-          "url": "https://open.spotify.com/artist/2q1iYBonWHVaAKjA7RgzYO"
-        },
-        {
-          "name": "\u5175\u982d\u4e5d\u9580(CV:\u7560\u4e2d\u7950)",
-          "url": "https://open.spotify.com/artist/1pjEl5QsnV2SHCkZzMP013"
-        },
-        {
-          "name": "\u6cc9\u7530\u8387(CV:\u5c0f\u897f\u6210\u5f25)",
-          "url": "https://open.spotify.com/artist/6vs80AhrELN6M47kwfpfCA"
-        },
-        {
-          "name": "\u30ac\u30a4(CV:\u65e5\u91ce\u8061)",
-          "url": "https://open.spotify.com/artist/7EZcJktHiIdBdcpL6sNOTc"
-        }
-      ],
-      "duration_ms": 280533,
-      "name": "GOLDEN ENCORE!",
-      "url": "https://open.spotify.com/track/5DMdNNSU4xLSTK1niFEaFS"
     },
     {
       "added_at": "2026-08-25 16:08:07",
@@ -575,18 +575,22 @@
     {
       "added_at": "2026-08-25 16:08:07",
       "album": {
-        "name": "A3! Blooming SPRING EP",
-        "url": "https://open.spotify.com/album/4WbMyqWOIQv8SEtTaRmZMb"
+        "name": "A3! VIVID AUTUMN EP",
+        "url": "https://open.spotify.com/album/6hPBFHntGggl2QHVGDX3CS"
       },
       "artists": [
         {
-          "name": "\u8305\u30f6\u5d0e\u81f3(CV:\u6d45\u6cbc\u664b\u592a\u90ce)",
-          "url": "https://open.spotify.com/artist/1bspajJhduKH7NOdfQPaRE"
+          "name": "\u30c1\u30e3\u30f3[\u4e03\u5c3e\u592a\u4e00(CV:\u6ff1\u5065\u4eba)]",
+          "url": "https://open.spotify.com/artist/1TwbHnNyY1dN0MwhR4p4iI"
+        },
+        {
+          "name": "\u30e6\u30f3[\u6cc9\u7530\u8387(CV:\u5c0f\u897f\u6210\u5f25)]",
+          "url": "https://open.spotify.com/artist/6ulsvir1xX45J9uIHuvvZG"
         }
       ],
-      "duration_ms": 223880,
-      "name": "Gamer's High",
-      "url": "https://open.spotify.com/track/2YObSaepbHWKFT9hYWUTto"
+      "duration_ms": 241106,
+      "name": "\u30ed\u30fc\u30c9\u30c8\u30a5\u9945\u982d\u30de\u30b9\u30bf\u30fc!",
+      "url": "https://open.spotify.com/track/7IZHRR4odvRYzeAW6MX0oH"
     },
     {
       "added_at": "2026-08-25 16:08:07",
@@ -607,22 +611,18 @@
     {
       "added_at": "2026-08-25 16:08:07",
       "album": {
-        "name": "A3! VIVID AUTUMN EP",
-        "url": "https://open.spotify.com/album/6hPBFHntGggl2QHVGDX3CS"
+        "name": "A3! Blooming SPRING EP",
+        "url": "https://open.spotify.com/album/4WbMyqWOIQv8SEtTaRmZMb"
       },
       "artists": [
         {
-          "name": "\u30c1\u30e3\u30f3[\u4e03\u5c3e\u592a\u4e00(CV:\u6ff1\u5065\u4eba)]",
-          "url": "https://open.spotify.com/artist/1TwbHnNyY1dN0MwhR4p4iI"
-        },
-        {
-          "name": "\u30e6\u30f3[\u6cc9\u7530\u8387(CV:\u5c0f\u897f\u6210\u5f25)]",
-          "url": "https://open.spotify.com/artist/6ulsvir1xX45J9uIHuvvZG"
+          "name": "\u8305\u30f6\u5d0e\u81f3(CV:\u6d45\u6cbc\u664b\u592a\u90ce)",
+          "url": "https://open.spotify.com/artist/1bspajJhduKH7NOdfQPaRE"
         }
       ],
-      "duration_ms": 241106,
-      "name": "\u30ed\u30fc\u30c9\u30c8\u30a5\u9945\u982d\u30de\u30b9\u30bf\u30fc!",
-      "url": "https://open.spotify.com/track/7IZHRR4odvRYzeAW6MX0oH"
+      "duration_ms": 223880,
+      "name": "Gamer's High",
+      "url": "https://open.spotify.com/track/2YObSaepbHWKFT9hYWUTto"
     },
     {
       "added_at": "2026-08-25 16:08:07",
@@ -679,6 +679,22 @@
     {
       "added_at": "2026-08-25 16:08:07",
       "album": {
+        "name": "A3! SUNNY SPRING EP",
+        "url": "https://open.spotify.com/album/7MSradvQRYj5JgmZ78h96e"
+      },
+      "artists": [
+        {
+          "name": "\u7893\u6c37\u771f\u6f84(CV:\u767d\u4e95\u60a0\u4ecb)",
+          "url": "https://open.spotify.com/artist/70038mflhvWOF3fhpXCFBf"
+        }
+      ],
+      "duration_ms": 261440,
+      "name": "\u521d\u604bX",
+      "url": "https://open.spotify.com/track/0OehqIzKNfTlG9xuyMA2aN"
+    },
+    {
+      "added_at": "2026-08-25 16:08:07",
+      "album": {
         "name": "A3! Blooming AUTUMN EP",
         "url": "https://open.spotify.com/album/65f9bBqVmfy9fIfJUffUsb"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 210506,
       "name": "Just For Myself",
       "url": "https://open.spotify.com/track/3HzM39Uj7U0FLzLqXOtudU"
-    },
-    {
-      "added_at": "2026-08-25 16:08:07",
-      "album": {
-        "name": "A3! SUNNY SPRING EP",
-        "url": "https://open.spotify.com/album/7MSradvQRYj5JgmZ78h96e"
-      },
-      "artists": [
-        {
-          "name": "\u7893\u6c37\u771f\u6f84(CV:\u767d\u4e95\u60a0\u4ecb)",
-          "url": "https://open.spotify.com/artist/70038mflhvWOF3fhpXCFBf"
-        }
-      ],
-      "duration_ms": 261440,
-      "name": "\u521d\u604bX",
-      "url": "https://open.spotify.com/track/0OehqIzKNfTlG9xuyMA2aN"
     },
     {
       "added_at": "2026-08-25 16:08:07",
@@ -975,22 +975,6 @@
     {
       "added_at": "2026-08-25 16:08:07",
       "album": {
-        "name": "A3! EVER LASTING LP",
-        "url": "https://open.spotify.com/album/6FM2TzRFLqEvgjEvxJ6BcA"
-      },
-      "artists": [
-        {
-          "name": "\u4f50\u4e45\u9593\u54b2\u4e5f(CV:\u9152\u4e95\u5e83\u5927)",
-          "url": "https://open.spotify.com/artist/6rPornlr337BSL4cfY3dTC"
-        }
-      ],
-      "duration_ms": 317440,
-      "name": "\u30e2\u30ce\u30ed\u30fc\u30b0",
-      "url": "https://open.spotify.com/track/37yUMR4J1Hz3JafJILbhcV"
-    },
-    {
-      "added_at": "2026-08-25 16:08:07",
-      "album": {
         "name": "A3! First WINTER EP",
         "url": "https://open.spotify.com/album/4oahcbvpn3vLFvp97Xk8lH"
       },
@@ -1011,22 +995,18 @@
     {
       "added_at": "2026-08-25 16:08:07",
       "album": {
-        "name": "A3! VIVID AUTUMN EP",
-        "url": "https://open.spotify.com/album/6hPBFHntGggl2QHVGDX3CS"
+        "name": "A3! EVER LASTING LP",
+        "url": "https://open.spotify.com/album/6FM2TzRFLqEvgjEvxJ6BcA"
       },
       "artists": [
         {
-          "name": "\u30a2\u30d9\u30eb[\u6cc9\u7530\u8387(CV:\u5c0f\u897f\u6210\u5f25)]",
-          "url": "https://open.spotify.com/artist/3w0Vs5cZKyRNSrYeKzSgi9"
-        },
-        {
-          "name": "\u30a4\u30f4\u30a1\u30f3[\u6442\u6d25\u4e07\u91cc(CV:\u6ca2\u57ce\u5343\u6625)]",
-          "url": "https://open.spotify.com/artist/3ZPTzBL7yXI70nPabrJSGt"
+          "name": "\u4f50\u4e45\u9593\u54b2\u4e5f(CV:\u9152\u4e95\u5e83\u5927)",
+          "url": "https://open.spotify.com/artist/6rPornlr337BSL4cfY3dTC"
         }
       ],
-      "duration_ms": 232280,
-      "name": "RESPAWN",
-      "url": "https://open.spotify.com/track/473pr8GEED1xr1EdJHRk0J"
+      "duration_ms": 317440,
+      "name": "\u30e2\u30ce\u30ed\u30fc\u30b0",
+      "url": "https://open.spotify.com/track/37yUMR4J1Hz3JafJILbhcV"
     },
     {
       "added_at": "2026-08-25 16:08:07",
@@ -1063,6 +1043,26 @@
       "duration_ms": 303880,
       "name": "\u50d5\u3089\u306e\u7d46",
       "url": "https://open.spotify.com/track/5u84IGengx68EHf5gYy9DU"
+    },
+    {
+      "added_at": "2026-08-25 16:08:07",
+      "album": {
+        "name": "A3! VIVID AUTUMN EP",
+        "url": "https://open.spotify.com/album/6hPBFHntGggl2QHVGDX3CS"
+      },
+      "artists": [
+        {
+          "name": "\u30a2\u30d9\u30eb[\u6cc9\u7530\u8387(CV:\u5c0f\u897f\u6210\u5f25)]",
+          "url": "https://open.spotify.com/artist/3w0Vs5cZKyRNSrYeKzSgi9"
+        },
+        {
+          "name": "\u30a4\u30f4\u30a1\u30f3[\u6442\u6d25\u4e07\u91cc(CV:\u6ca2\u57ce\u5343\u6625)]",
+          "url": "https://open.spotify.com/artist/3ZPTzBL7yXI70nPabrJSGt"
+        }
+      ],
+      "duration_ms": 232280,
+      "name": "RESPAWN",
+      "url": "https://open.spotify.com/track/473pr8GEED1xr1EdJHRk0J"
     }
   ],
   "unique_name": "A3!",

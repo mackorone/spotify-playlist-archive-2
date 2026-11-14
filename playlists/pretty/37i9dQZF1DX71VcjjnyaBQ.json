@@ -1,12 +1,12 @@
 {
   "description": "Soft jazz for slow mornings, first coffee, and the quiet before the day starts.",
-  "num_followers": 448739,
+  "num_followers": 448756,
   "original_name": "Good Morning Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIiffll7bIOp7J6upCFuvixZfnZK",
+  "snapshot_id": "AAAAAHbkMbAD3pXqUr/hNaJdFs2bfEf5",
   "tracks": [
     {
       "added_at": "2026-11-06 09:55:33",
@@ -431,22 +431,6 @@
     {
       "added_at": "2026-11-06 09:55:33",
       "album": {
-        "name": "II",
-        "url": "https://open.spotify.com/album/1TQcJ46fVdGcVoG5kTXe0W"
-      },
-      "artists": [
-        {
-          "name": "New Fossils",
-          "url": "https://open.spotify.com/artist/1xLmn6aIyH3jxg8lX7L9Zm"
-        }
-      ],
-      "duration_ms": 171397,
-      "name": "Solace",
-      "url": "https://open.spotify.com/track/6O7Eyfs27MbNCaoEDwGLqp"
-    },
-    {
-      "added_at": "2026-11-06 09:55:33",
-      "album": {
         "name": "Grand Street",
         "url": "https://open.spotify.com/album/6TIjvKJlXCo4mJUYJRUdJV"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 224868,
       "name": "Grand Street",
       "url": "https://open.spotify.com/track/2NxHjUNJbp9udozC5zCUxy"
+    },
+    {
+      "added_at": "2026-11-06 09:55:33",
+      "album": {
+        "name": "II",
+        "url": "https://open.spotify.com/album/1TQcJ46fVdGcVoG5kTXe0W"
+      },
+      "artists": [
+        {
+          "name": "New Fossils",
+          "url": "https://open.spotify.com/artist/1xLmn6aIyH3jxg8lX7L9Zm"
+        }
+      ],
+      "duration_ms": 171397,
+      "name": "Solace",
+      "url": "https://open.spotify.com/track/6O7Eyfs27MbNCaoEDwGLqp"
     },
     {
       "added_at": "2026-11-06 09:55:33",
@@ -539,30 +539,6 @@
     {
       "added_at": "2026-11-06 09:55:33",
       "album": {
-        "name": "Oh Brother",
-        "url": "https://open.spotify.com/album/3DC22laI2ExbcsQ5vX7M1g"
-      },
-      "artists": [
-        {
-          "name": "Vancouver Jazz Orchestra",
-          "url": "https://open.spotify.com/artist/0O1Ba6oK3y2c91nIbyFCJQ"
-        },
-        {
-          "name": "James Danderfer",
-          "url": "https://open.spotify.com/artist/44anuMB8yJSeJOqar2rohI"
-        },
-        {
-          "name": "Brian Charette",
-          "url": "https://open.spotify.com/artist/0BDMJnvi2kFbQAUNUqt5om"
-        }
-      ],
-      "duration_ms": 364700,
-      "name": "Oh Brother",
-      "url": "https://open.spotify.com/track/3DxZ8GyNWXaCnR01vvZjkY"
-    },
-    {
-      "added_at": "2026-11-06 09:55:33",
-      "album": {
         "name": "Happy Hours",
         "url": "https://open.spotify.com/album/3AE4AxxvGo95eLiBVN2Z3r"
       },
@@ -591,6 +567,30 @@
       "duration_ms": 307346,
       "name": "Mo\u2019 Betta Blues",
       "url": "https://open.spotify.com/track/0JoLYqF8Nq29tRzlR384vk"
+    },
+    {
+      "added_at": "2026-11-06 09:55:33",
+      "album": {
+        "name": "Oh Brother",
+        "url": "https://open.spotify.com/album/3DC22laI2ExbcsQ5vX7M1g"
+      },
+      "artists": [
+        {
+          "name": "Vancouver Jazz Orchestra",
+          "url": "https://open.spotify.com/artist/0O1Ba6oK3y2c91nIbyFCJQ"
+        },
+        {
+          "name": "James Danderfer",
+          "url": "https://open.spotify.com/artist/44anuMB8yJSeJOqar2rohI"
+        },
+        {
+          "name": "Brian Charette",
+          "url": "https://open.spotify.com/artist/0BDMJnvi2kFbQAUNUqt5om"
+        }
+      ],
+      "duration_ms": 364700,
+      "name": "Oh Brother",
+      "url": "https://open.spotify.com/track/3DxZ8GyNWXaCnR01vvZjkY"
     },
     {
       "added_at": "2026-11-06 09:55:33",
@@ -643,18 +643,18 @@
     {
       "added_at": "2026-11-06 09:55:33",
       "album": {
-        "name": "Summertime",
-        "url": "https://open.spotify.com/album/2xSiRbIxTg4UYg9aoJTuoV"
+        "name": "In This Moment",
+        "url": "https://open.spotify.com/album/0UFAX4kDWFNLpXWAjrBq4G"
       },
       "artists": [
         {
-          "name": "Thomas Dutronc",
-          "url": "https://open.spotify.com/artist/6ADpAfFsO5dJadJoBKv3nz"
+          "name": "Emil Brandqvist Trio",
+          "url": "https://open.spotify.com/artist/6i6sHi3KJ6rgqxmbBaFDoG"
         }
       ],
-      "duration_ms": 235133,
-      "name": "Summertime",
-      "url": "https://open.spotify.com/track/249aZOusHlB6hTAYzULvqQ"
+      "duration_ms": 223706,
+      "name": "In This Moment",
+      "url": "https://open.spotify.com/track/5ntssQtDHWUdKBYiQDQP5I"
     },
     {
       "added_at": "2026-11-06 09:55:33",
@@ -675,18 +675,18 @@
     {
       "added_at": "2026-11-06 09:55:33",
       "album": {
-        "name": "These Simple Things",
-        "url": "https://open.spotify.com/album/6J9bDFXg7ofIXZ3QQelMjl"
+        "name": "Summertime",
+        "url": "https://open.spotify.com/album/2xSiRbIxTg4UYg9aoJTuoV"
       },
       "artists": [
         {
-          "name": "Triosence",
-          "url": "https://open.spotify.com/artist/2NxFqOk7uZCe0hxfohdWJX"
+          "name": "Thomas Dutronc",
+          "url": "https://open.spotify.com/artist/6ADpAfFsO5dJadJoBKv3nz"
         }
       ],
-      "duration_ms": 308525,
-      "name": "These Simple Things",
-      "url": "https://open.spotify.com/track/3YrOOO4f2ENqK3geQiTpat"
+      "duration_ms": 235133,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/249aZOusHlB6hTAYzULvqQ"
     },
     {
       "added_at": "2026-11-06 09:55:33",
@@ -707,18 +707,18 @@
     {
       "added_at": "2026-11-06 09:55:33",
       "album": {
-        "name": "In This Moment",
-        "url": "https://open.spotify.com/album/0UFAX4kDWFNLpXWAjrBq4G"
+        "name": "These Simple Things",
+        "url": "https://open.spotify.com/album/6J9bDFXg7ofIXZ3QQelMjl"
       },
       "artists": [
         {
-          "name": "Emil Brandqvist Trio",
-          "url": "https://open.spotify.com/artist/6i6sHi3KJ6rgqxmbBaFDoG"
+          "name": "Triosence",
+          "url": "https://open.spotify.com/artist/2NxFqOk7uZCe0hxfohdWJX"
         }
       ],
-      "duration_ms": 223706,
-      "name": "In This Moment",
-      "url": "https://open.spotify.com/track/5ntssQtDHWUdKBYiQDQP5I"
+      "duration_ms": 308525,
+      "name": "These Simple Things",
+      "url": "https://open.spotify.com/track/3YrOOO4f2ENqK3geQiTpat"
     },
     {
       "added_at": "2026-11-06 09:55:33",
@@ -839,6 +839,22 @@
     {
       "added_at": "2026-11-06 09:55:33",
       "album": {
+        "name": "Waltz for Hal Willner",
+        "url": "https://open.spotify.com/album/3UJN3LrJVHiPnAuneBgCSK"
+      },
+      "artists": [
+        {
+          "name": "Bill Frisell",
+          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
+        }
+      ],
+      "duration_ms": 167906,
+      "name": "Waltz for Hal Willner",
+      "url": "https://open.spotify.com/track/5GiqJaoSZn8pMpYztkKeR1"
+    },
+    {
+      "added_at": "2026-11-06 09:55:33",
+      "album": {
         "name": "Uncle John's Band",
         "url": "https://open.spotify.com/album/1Plvo3OJgozxDluN4QKoTo"
       },
@@ -863,18 +879,18 @@
     {
       "added_at": "2026-11-06 09:55:33",
       "album": {
-        "name": "Waltz for Hal Willner",
-        "url": "https://open.spotify.com/album/3UJN3LrJVHiPnAuneBgCSK"
+        "name": "Country Song",
+        "url": "https://open.spotify.com/album/7dpFtT9UDbyyfotK358Qr9"
       },
       "artists": [
         {
-          "name": "Bill Frisell",
-          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
+          "name": "S\u00f8ren Bebe Trio",
+          "url": "https://open.spotify.com/artist/32sqNe2WFtog9WufAVd8EI"
         }
       ],
-      "duration_ms": 167906,
-      "name": "Waltz for Hal Willner",
-      "url": "https://open.spotify.com/track/5GiqJaoSZn8pMpYztkKeR1"
+      "duration_ms": 235400,
+      "name": "Country Song",
+      "url": "https://open.spotify.com/track/3UAMhAWOLTvLBGpXrgWg51"
     },
     {
       "added_at": "2026-11-06 09:55:33",
@@ -895,22 +911,6 @@
     {
       "added_at": "2026-11-06 09:55:33",
       "album": {
-        "name": "Country Song",
-        "url": "https://open.spotify.com/album/7dpFtT9UDbyyfotK358Qr9"
-      },
-      "artists": [
-        {
-          "name": "S\u00f8ren Bebe Trio",
-          "url": "https://open.spotify.com/artist/32sqNe2WFtog9WufAVd8EI"
-        }
-      ],
-      "duration_ms": 235400,
-      "name": "Country Song",
-      "url": "https://open.spotify.com/track/3UAMhAWOLTvLBGpXrgWg51"
-    },
-    {
-      "added_at": "2026-11-06 09:55:33",
-      "album": {
         "name": "They Can't Take That Away from Me",
         "url": "https://open.spotify.com/album/4ukxaPeX9MKJNRkdET7b1w"
       },
@@ -927,22 +927,6 @@
     {
       "added_at": "2026-11-06 09:55:33",
       "album": {
-        "name": "Late Again",
-        "url": "https://open.spotify.com/album/6qU9OQbVjw7HwhMFRYLirB"
-      },
-      "artists": [
-        {
-          "name": "Sven Wunder",
-          "url": "https://open.spotify.com/artist/2fQf2M7SkTwCv2MOEIP2Ly"
-        }
-      ],
-      "duration_ms": 152228,
-      "name": "Asterism Waltz",
-      "url": "https://open.spotify.com/track/2F3topzcPhqBePB7zEqU8H"
-    },
-    {
-      "added_at": "2026-11-06 09:55:33",
-      "album": {
         "name": "These Foolish Things",
         "url": "https://open.spotify.com/album/2tXtAN2qOrJcfglYkTLYqQ"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 341695,
       "name": "These Foolish Things",
       "url": "https://open.spotify.com/track/5HKgNwcH9JrDyBiJ6jCc49"
+    },
+    {
+      "added_at": "2026-11-06 09:55:33",
+      "album": {
+        "name": "Late Again",
+        "url": "https://open.spotify.com/album/6qU9OQbVjw7HwhMFRYLirB"
+      },
+      "artists": [
+        {
+          "name": "Sven Wunder",
+          "url": "https://open.spotify.com/artist/2fQf2M7SkTwCv2MOEIP2Ly"
+        }
+      ],
+      "duration_ms": 152228,
+      "name": "Asterism Waltz",
+      "url": "https://open.spotify.com/track/2F3topzcPhqBePB7zEqU8H"
     },
     {
       "added_at": "2026-11-06 09:55:33",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2026-11-06 09:55:33",
       "album": {
+        "name": "Dream Dancing",
+        "url": "https://open.spotify.com/album/6YaZFZ1WhXY81TB14Keqs9"
+      },
+      "artists": [
+        {
+          "name": "Charles Chen",
+          "url": "https://open.spotify.com/artist/0y3jAU26eNmcPsCAPx2pgY"
+        }
+      ],
+      "duration_ms": 277474,
+      "name": "Dream Dancing",
+      "url": "https://open.spotify.com/track/76m7DuxtViu6mt6bBDrBnD"
+    },
+    {
+      "added_at": "2026-11-06 09:55:33",
+      "album": {
         "name": "Bloodline",
         "url": "https://open.spotify.com/album/4ErrMUDXuRoVxuxxJW58XG"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 359982,
       "name": "Theo",
       "url": "https://open.spotify.com/track/7nkBgHk9BmewU7ZowAfGdD"
-    },
-    {
-      "added_at": "2026-11-06 09:55:33",
-      "album": {
-        "name": "Dream Dancing",
-        "url": "https://open.spotify.com/album/6YaZFZ1WhXY81TB14Keqs9"
-      },
-      "artists": [
-        {
-          "name": "Charles Chen",
-          "url": "https://open.spotify.com/artist/0y3jAU26eNmcPsCAPx2pgY"
-        }
-      ],
-      "duration_ms": 277474,
-      "name": "Dream Dancing",
-      "url": "https://open.spotify.com/track/76m7DuxtViu6mt6bBDrBnD"
     },
     {
       "added_at": "2026-11-06 09:55:33",

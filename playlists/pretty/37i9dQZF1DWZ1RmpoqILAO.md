@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ1RmpoqILAO.md) - [plain]
 
 > Star Moles this song absolutely rips!
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,790 likes - 165 songs - 10 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,805 likes - 165 songs - 10 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

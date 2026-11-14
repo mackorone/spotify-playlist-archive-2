@@ -1,6 +1,6 @@
 {
   "description": "La  selecci\u00f3n  musical de la inconmensurable tristeza latina bajo la mirada de un simple editor de Spotify",
-  "num_followers": 39566,
+  "num_followers": 39567,
   "original_name": "Emo En Tu Idioma",
   "owner": {
     "name": "Spotify",
@@ -219,22 +219,6 @@
     {
       "added_at": "2026-10-16 06:00:34",
       "album": {
-        "name": "Quieres darme un beso?",
-        "url": "https://open.spotify.com/album/2KRplOwcKL3SCTtts8dHMW"
-      },
-      "artists": [
-        {
-          "name": "Quemarlo Todo Por Error",
-          "url": "https://open.spotify.com/artist/2uBBnvNK2YBWL8Q4f4W8GG"
-        }
-      ],
-      "duration_ms": 169167,
-      "name": "Quieres darme un beso?",
-      "url": "https://open.spotify.com/track/3ZJx8bxPfs1D7nsNtrdIDS"
-    },
-    {
-      "added_at": "2026-10-16 06:00:34",
-      "album": {
         "name": "Apoyo Emocional",
         "url": "https://open.spotify.com/album/657j47iSoFWivyz6e55mph"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 134960,
       "name": "Piel",
       "url": "https://open.spotify.com/track/0d5dMFrbWRkTVmElV35Inv"
+    },
+    {
+      "added_at": "2026-10-16 06:00:34",
+      "album": {
+        "name": "Quieres darme un beso?",
+        "url": "https://open.spotify.com/album/2KRplOwcKL3SCTtts8dHMW"
+      },
+      "artists": [
+        {
+          "name": "Quemarlo Todo Por Error",
+          "url": "https://open.spotify.com/artist/2uBBnvNK2YBWL8Q4f4W8GG"
+        }
+      ],
+      "duration_ms": 169167,
+      "name": "Quieres darme un beso?",
+      "url": "https://open.spotify.com/track/3ZJx8bxPfs1D7nsNtrdIDS"
     },
     {
       "added_at": "2026-10-16 06:00:34",
@@ -399,22 +399,6 @@
     {
       "added_at": "2026-10-16 06:00:34",
       "album": {
-        "name": "Nada Bueno Termina Bien",
-        "url": "https://open.spotify.com/album/7sDECyr819XLlKvhBHhqcb"
-      },
-      "artists": [
-        {
-          "name": "cacomixtle",
-          "url": "https://open.spotify.com/artist/5BPV50KIHSSKCHuQwh30fP"
-        }
-      ],
-      "duration_ms": 153798,
-      "name": "Guerra de Novios",
-      "url": "https://open.spotify.com/track/7GT8hWzke6De6HFMjRjBhO"
-    },
-    {
-      "added_at": "2026-10-16 06:00:34",
-      "album": {
         "name": "Gu\u00eda para Comprender los Sue\u00f1os",
         "url": "https://open.spotify.com/album/45tOnoQXrFSdGMLR0EAQB2"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 149000,
       "name": "Todos Preguntaron por Ti",
       "url": "https://open.spotify.com/track/4ourGpcFizvbpzZyuhGKaw"
+    },
+    {
+      "added_at": "2026-10-16 06:00:34",
+      "album": {
+        "name": "Nada Bueno Termina Bien",
+        "url": "https://open.spotify.com/album/7sDECyr819XLlKvhBHhqcb"
+      },
+      "artists": [
+        {
+          "name": "cacomixtle",
+          "url": "https://open.spotify.com/artist/5BPV50KIHSSKCHuQwh30fP"
+        }
+      ],
+      "duration_ms": 153798,
+      "name": "Guerra de Novios",
+      "url": "https://open.spotify.com/track/7GT8hWzke6De6HFMjRjBhO"
     },
     {
       "added_at": "2026-10-16 06:00:34",
@@ -679,22 +679,6 @@
     {
       "added_at": "2026-10-16 06:00:34",
       "album": {
-        "name": "Parras",
-        "url": "https://open.spotify.com/album/4nyIodEOBoNS05fp8rfG8l"
-      },
-      "artists": [
-        {
-          "name": "no hay ni\u00f1os en el parque",
-          "url": "https://open.spotify.com/artist/0PDCp8aQ1WUGhQDyMIGegw"
-        }
-      ],
-      "duration_ms": 214360,
-      "name": "Parras",
-      "url": "https://open.spotify.com/track/5PN7ynq0HnyrJ2ekMfQzeJ"
-    },
-    {
-      "added_at": "2026-10-16 06:00:34",
-      "album": {
         "name": "Principios Y Fundamentos De La Fauna Moderna",
         "url": "https://open.spotify.com/album/2QEPAzajwc62HOtrtEghxK"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 325853,
       "name": "Mera Telos & Letpig Adventure",
       "url": "https://open.spotify.com/track/3eUYUFu7PhhxWSIV8c3uX6"
+    },
+    {
+      "added_at": "2026-10-16 06:00:34",
+      "album": {
+        "name": "Parras",
+        "url": "https://open.spotify.com/album/4nyIodEOBoNS05fp8rfG8l"
+      },
+      "artists": [
+        {
+          "name": "no hay ni\u00f1os en el parque",
+          "url": "https://open.spotify.com/artist/0PDCp8aQ1WUGhQDyMIGegw"
+        }
+      ],
+      "duration_ms": 214360,
+      "name": "Parras",
+      "url": "https://open.spotify.com/track/5PN7ynq0HnyrJ2ekMfQzeJ"
     },
     {
       "added_at": "2026-10-16 06:00:34",
@@ -791,22 +791,6 @@
     {
       "added_at": "2026-10-16 06:00:34",
       "album": {
-        "name": "Jardines Pr\u00f3ximos",
-        "url": "https://open.spotify.com/album/0MEUick8L0S9ZXZrVcdmsa"
-      },
-      "artists": [
-        {
-          "name": "Dejar\u00e9 que me apu\u00f1ales",
-          "url": "https://open.spotify.com/artist/4QbKlV4BEvPWy1ivGBRdPJ"
-        }
-      ],
-      "duration_ms": 172738,
-      "name": "Ave",
-      "url": "https://open.spotify.com/track/1C0JTISdpWiw1rGLNIs5UU"
-    },
-    {
-      "added_at": "2026-10-16 06:00:34",
-      "album": {
         "name": "S / T",
         "url": "https://open.spotify.com/album/6S6Q0edwnbjdImKoXgkoVB"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 108000,
       "name": "Mata a Tus \u00cddolos",
       "url": "https://open.spotify.com/track/4dDCXjTjgKkCVOjjl3ii3D"
+    },
+    {
+      "added_at": "2026-10-16 06:00:34",
+      "album": {
+        "name": "Jardines Pr\u00f3ximos",
+        "url": "https://open.spotify.com/album/0MEUick8L0S9ZXZrVcdmsa"
+      },
+      "artists": [
+        {
+          "name": "Dejar\u00e9 que me apu\u00f1ales",
+          "url": "https://open.spotify.com/artist/4QbKlV4BEvPWy1ivGBRdPJ"
+        }
+      ],
+      "duration_ms": 172738,
+      "name": "Ave",
+      "url": "https://open.spotify.com/track/1C0JTISdpWiw1rGLNIs5UU"
     }
   ],
   "unique_name": "Emo En Tu Idioma",

@@ -1,12 +1,12 @@
 {
   "description": "For parents and kids of all ages, add some Disney Magic to bedtime routines with soothing and relaxing renditions of timeless Disney music from Frozen, Winnie the Pooh and more.",
-  "num_followers": 420299,
+  "num_followers": 420402,
   "original_name": "Disney Lullaby",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACJKiS5FAA85ZwxwsR+Lz/sjGqJR",
+  "snapshot_id": "AAAAAESfDSNaMcWpXvB6wMBy9ZIefMT8",
   "tracks": [
     {
       "added_at": "2026-06-26 13:00:32",
@@ -107,6 +107,26 @@
       "duration_ms": 281130,
       "name": "Colors of the Wind",
       "url": "https://open.spotify.com/track/3yZHKuf1zFNTLxSi4N7Crp"
+    },
+    {
+      "added_at": "2026-11-13 22:09:23",
+      "album": {
+        "name": "Disney Ambient: Wind",
+        "url": "https://open.spotify.com/album/2fawuTGikvD93phNOWxy8L"
+      },
+      "artists": [
+        {
+          "name": "Disney Ambient",
+          "url": "https://open.spotify.com/artist/5iop40R7W1LzJpH6Lm8ZRG"
+        },
+        {
+          "name": "andysocialclub",
+          "url": "https://open.spotify.com/artist/3ZU0e9k7EnHIod4BfOOg8L"
+        }
+      ],
+      "duration_ms": 217852,
+      "name": "Married Life (Wind)",
+      "url": "https://open.spotify.com/track/383CCu3BYmm5pM0tSCh4AO"
     },
     {
       "added_at": "2026-06-26 13:00:32",
@@ -1915,6 +1935,26 @@
       "duration_ms": 149633,
       "name": "So Close",
       "url": "https://open.spotify.com/track/78AXcNfPl3rdNF1jZFW8W4"
+    },
+    {
+      "added_at": "2026-11-13 18:00:12",
+      "album": {
+        "name": "Disney Ambient: Wind",
+        "url": "https://open.spotify.com/album/2fawuTGikvD93phNOWxy8L"
+      },
+      "artists": [
+        {
+          "name": "Disney Ambient",
+          "url": "https://open.spotify.com/artist/5iop40R7W1LzJpH6Lm8ZRG"
+        },
+        {
+          "name": "Lucky West",
+          "url": "https://open.spotify.com/artist/7EW4xaFyScvYnw467VuHQp"
+        }
+      ],
+      "duration_ms": 201979,
+      "name": "It's a Small World (Wind)",
+      "url": "https://open.spotify.com/track/6ZbhpU9KuHpqQNAOOrurlY"
     },
     {
       "added_at": "2026-06-26 13:00:32",

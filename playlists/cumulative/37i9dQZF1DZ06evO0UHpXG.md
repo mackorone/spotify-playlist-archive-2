@@ -4,7 +4,7 @@
 
 > This is Motörhead\. The essential tracks, all in one playlist.
 
-153 songs - 9 hr 28 min
+154 songs - 9 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,8 @@
 | [Help Keep Us on the Road \- The Manticore Tapes](https://open.spotify.com/track/7iFYKP0pfWm9unGGpWwuul) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [The Manticore Tapes](https://open.spotify.com/album/4lA6sBkX6kxj6aoHBqd6eY) | 4:58 | 2025-07-03 | 2025-08-24 |
 | [Heroes](https://open.spotify.com/track/1WE1WsxSqVofH8ugxJkc0c) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Under Cöver](https://open.spotify.com/album/2k92YJRQpz64koEILL4DUs) | 4:20 | 2022-12-30 | 2026-04-12 |
 | [Heroes](https://open.spotify.com/track/2abomxjOAjQeFSuigBkk4x) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Bad Magic: Seriously Bad Magic](https://open.spotify.com/album/4s6noQtkOGFI6uGHh1nzN7) | 4:37 | 2026-04-12 |  |
-| [I Ain't No Nice Guy](https://open.spotify.com/track/4cmC2SW1RVZusILirCrsCs) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [March Or Die](https://open.spotify.com/album/3pbbbyxPPgBTAMbAcVzjex) | 4:15 | 2023-07-01 |  |
+| [I Ain't No Nice Guy](https://open.spotify.com/track/4cmC2SW1RVZusILirCrsCs) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [March Or Die](https://open.spotify.com/album/3pbbbyxPPgBTAMbAcVzjex) | 4:15 | 2023-07-01 | 2026-11-14 |
+| [I Ain't No Nice Guy](https://open.spotify.com/track/08hY5nWZ0NWfdAMBwRPIxr) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [March Or Die](https://open.spotify.com/album/4ghbGX7UrH5TdNScemj22e) | 4:16 | 2026-11-14 |  |
 | [I Ain't No Nice Guy](https://open.spotify.com/track/7g2wO2WeCBrBHWrgB22Fae) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [The Very Best Of](https://open.spotify.com/album/0v6vbvtlFL78oEd3KrT0jp) | 4:16 | 2022-12-30 | 2023-03-04 |
 | [I Don't Believe a Word](https://open.spotify.com/track/4oxS9mNh1GideHUkcEWFYC) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Overnight Sensation](https://open.spotify.com/album/1JmTrg7IxFirYtV1S3yKSi) | 6:31 | 2023-12-13 |  |
 | [I Don't Believe a Word](https://open.spotify.com/track/6k2FLvtZpCcv4uRh4CiBhL) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Overnight Sensation](https://open.spotify.com/album/08NAL0fDCPpDNayW9jjzfB) | 6:31 | 2022-12-30 | 2023-12-14 |

@@ -1,12 +1,12 @@
 {
   "description": "The best new tracks in metal, hard rock, and all things heavy. Cover: Silent Planet",
-  "num_followers": 812303,
+  "num_followers": 812393,
   "original_name": "All New Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIQ4r2pQgLbAZ64RuHdSqGOTYl0a",
+  "snapshot_id": "AAAAAHfAfhtlR/Deaq7Um9zAQ7uDIzlU",
   "tracks": [
     {
       "added_at": "2026-11-13 05:00:35",
@@ -167,6 +167,22 @@
     {
       "added_at": "2026-11-13 05:00:35",
       "album": {
+        "name": "Victim 3",
+        "url": "https://open.spotify.com/album/7yiPAxrmaaycjeslEcG2QP"
+      },
+      "artists": [
+        {
+          "name": "A Killer's Confession",
+          "url": "https://open.spotify.com/artist/5zLrMhpswOj8Wk9EK1PTDM"
+        }
+      ],
+      "duration_ms": 201650,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/3r6dz1CPcfgrPK4binoW8h"
+    },
+    {
+      "added_at": "2026-11-13 05:00:35",
+      "album": {
         "name": "Crucible",
         "url": "https://open.spotify.com/album/6lfPgNHpPhlu03j2AwObqM"
       },
@@ -183,38 +199,18 @@
     {
       "added_at": "2026-11-13 05:00:35",
       "album": {
-        "name": "Volume Four: The Rarities",
-        "url": "https://open.spotify.com/album/2ZWj5afx0QcTgkTN7vSH7V"
+        "name": "The Flame",
+        "url": "https://open.spotify.com/album/7Lq068edjX9QSMd2NcGYEp"
       },
       "artists": [
         {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        },
-        {
-          "name": "Sammy Hagar",
-          "url": "https://open.spotify.com/artist/1hXjTjJzZTXDZ75AclOo6N"
+          "name": "Walls of Jericho",
+          "url": "https://open.spotify.com/artist/60cGRl68qyCBMqZi3tiHEU"
         }
       ],
-      "duration_ms": 229146,
-      "name": "Bad Motor Scooter",
-      "url": "https://open.spotify.com/track/3aEwxmr56bPIAFoymbyrxk"
-    },
-    {
-      "added_at": "2026-11-13 05:00:35",
-      "album": {
-        "name": "Neverending Nightmare",
-        "url": "https://open.spotify.com/album/3G30HSCIaI6jUyQNPz9sjv"
-      },
-      "artists": [
-        {
-          "name": "DragonForce",
-          "url": "https://open.spotify.com/artist/2pH3wEn4eYlMMIIQyKPbVR"
-        }
-      ],
-      "duration_ms": 385256,
-      "name": "Neverending Nightmare",
-      "url": "https://open.spotify.com/track/4zQ65N7npjTLmpNvwbjWAQ"
+      "duration_ms": 156691,
+      "name": "The Flame",
+      "url": "https://open.spotify.com/track/6a9Ax3AQGcif6h6tmweP2R"
     },
     {
       "added_at": "2026-11-13 05:00:35",
@@ -231,6 +227,22 @@
       "duration_ms": 179984,
       "name": "No Funeral",
       "url": "https://open.spotify.com/track/0VtsZeMs3cKf9vPzCCmlR5"
+    },
+    {
+      "added_at": "2026-11-13 21:52:33",
+      "album": {
+        "name": "Antillia",
+        "url": "https://open.spotify.com/album/6Z9z8yQXuE1z4rYYyxGQyJ"
+      },
+      "artists": [
+        {
+          "name": "Artificial Brain",
+          "url": "https://open.spotify.com/artist/0FJTTwSyFG3TnPYs0Gwuwr"
+        }
+      ],
+      "duration_ms": 237577,
+      "name": "The Wandering Star Prion",
+      "url": "https://open.spotify.com/track/6SYo8XCfnHII9XGtamgUEE"
     },
     {
       "added_at": "2026-11-13 05:00:35",
@@ -267,6 +279,42 @@
     {
       "added_at": "2026-11-13 05:00:35",
       "album": {
+        "name": "Neverending Nightmare",
+        "url": "https://open.spotify.com/album/3G30HSCIaI6jUyQNPz9sjv"
+      },
+      "artists": [
+        {
+          "name": "DragonForce",
+          "url": "https://open.spotify.com/artist/2pH3wEn4eYlMMIIQyKPbVR"
+        }
+      ],
+      "duration_ms": 385256,
+      "name": "Neverending Nightmare",
+      "url": "https://open.spotify.com/track/4zQ65N7npjTLmpNvwbjWAQ"
+    },
+    {
+      "added_at": "2026-11-13 05:00:35",
+      "album": {
+        "name": "Volume Four: The Rarities",
+        "url": "https://open.spotify.com/album/2ZWj5afx0QcTgkTN7vSH7V"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        },
+        {
+          "name": "Sammy Hagar",
+          "url": "https://open.spotify.com/artist/1hXjTjJzZTXDZ75AclOo6N"
+        }
+      ],
+      "duration_ms": 229146,
+      "name": "Bad Motor Scooter",
+      "url": "https://open.spotify.com/track/3aEwxmr56bPIAFoymbyrxk"
+    },
+    {
+      "added_at": "2026-11-13 05:00:35",
+      "album": {
         "name": "Slaughter Chords",
         "url": "https://open.spotify.com/album/0WEqxfv0IumZ2WZ8WHr3ae"
       },
@@ -279,22 +327,6 @@
       "duration_ms": 346218,
       "name": "Slaughter Chords",
       "url": "https://open.spotify.com/track/3jVaYFMQOYHqNva7nwTzDM"
-    },
-    {
-      "added_at": "2026-11-13 05:00:35",
-      "album": {
-        "name": "Victim 3",
-        "url": "https://open.spotify.com/album/7yiPAxrmaaycjeslEcG2QP"
-      },
-      "artists": [
-        {
-          "name": "A Killer's Confession",
-          "url": "https://open.spotify.com/artist/5zLrMhpswOj8Wk9EK1PTDM"
-        }
-      ],
-      "duration_ms": 201650,
-      "name": "The One",
-      "url": "https://open.spotify.com/track/3r6dz1CPcfgrPK4binoW8h"
     },
     {
       "added_at": "2026-11-13 05:00:35",
@@ -322,6 +354,10 @@
         {
           "name": "Cro-Mags",
           "url": "https://open.spotify.com/artist/5WCrzTQZ6S6EgebqI57Ilg"
+        },
+        {
+          "name": "Zach Blair",
+          "url": "https://open.spotify.com/artist/0sylheuAxYDOdkQmn2t5m7"
         }
       ],
       "duration_ms": 79663,
@@ -359,22 +395,6 @@
       "duration_ms": 151734,
       "name": "FSU",
       "url": "https://open.spotify.com/track/7cUrY0Y5RmPezuFvCotNSQ"
-    },
-    {
-      "added_at": "2026-11-13 05:00:35",
-      "album": {
-        "name": "The Flame",
-        "url": "https://open.spotify.com/album/7Lq068edjX9QSMd2NcGYEp"
-      },
-      "artists": [
-        {
-          "name": "Walls of Jericho",
-          "url": "https://open.spotify.com/artist/60cGRl68qyCBMqZi3tiHEU"
-        }
-      ],
-      "duration_ms": 156691,
-      "name": "The Flame",
-      "url": "https://open.spotify.com/track/6a9Ax3AQGcif6h6tmweP2R"
     },
     {
       "added_at": "2026-11-13 05:00:35",

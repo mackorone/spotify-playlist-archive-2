@@ -6633,6 +6633,36 @@
     },
     {
       "album": {
+        "name": "Niraive (From \"Hello Kadhal\")",
+        "url": "https://open.spotify.com/album/0m8ySymuuzr5K0ziPb1vpl"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Ajai S Khashyap",
+          "url": "https://open.spotify.com/artist/5dW8IcqAqgqrUNWEBYmj3A"
+        },
+        {
+          "name": "Ramya Bhat Abhyankar",
+          "url": "https://open.spotify.com/artist/0wqiIwWvYsOAcZdtJLMFO8"
+        },
+        {
+          "name": "Vivek",
+          "url": "https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226800,
+      "name": "Niraive - From \"Hello Kadhal\"",
+      "url": "https://open.spotify.com/track/2MCZkbdJZtVzn0rU8ATA3Y"
+    },
+    {
+      "album": {
         "name": "O Kadhale (From \"Tere Ishk Mein\")",
         "url": "https://open.spotify.com/album/4V5wJcvcau4iEYtfrCgWSy"
       },
@@ -8114,7 +8144,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 239111,
       "name": "Sambavakaari (From \"Gatta Kusthi 2\")",
       "url": "https://open.spotify.com/track/2qG8rdNOC6DvTykI6Xc6Ly"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37pZLd58ED5.md) - [plain]
 
 > Solo beat e rime avvolgenti\. Cover: Sfera Ebbasta
 
-[Spotify](https://open.spotify.com/user/spotify) - 356,348 likes - 107 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 356,354 likes - 107 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37pZLd58ED5.md) - [plain]
 | 21 | [con te \(feat\. prima stanza a destra, Massimo Pericolo, Latrelle\)](https://open.spotify.com/track/1Hfie3sTj3PmHVvErUzq0V) | [Sadturs](https://open.spotify.com/artist/4SRpFyqwIrO0xMX39HJnaU), [KIID](https://open.spotify.com/artist/5oKFHzk5mSd5uJpod1D8aB), [prima stanza a destra](https://open.spotify.com/artist/2mCfJF2n60STC46nVkhuq5), [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq), [Latrelle](https://open.spotify.com/artist/2mUoO8KgRQOOzR0VoUWoEV) | [NO REGULAR MUSIC 2.5](https://open.spotify.com/album/7jfo9OmUMjGCPM2Ad0SS6n) | 3:24 |
 | 22 | [MOLECOLE SPRITE](https://open.spotify.com/track/0bhreLyBJhKKtiGOZuKAYx) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [SANTANA MONEY GANG](https://open.spotify.com/album/71agI93AilqukvHURp6tGy) | 2:54 |
 | 23 | [Una bara per due](https://open.spotify.com/track/570IsK8rePxeYM5SZpGCkW) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Una bara per due](https://open.spotify.com/album/6pdxHp0JBj86IkHaZ9BfH7) | 4:46 |
-| 24 | [VAFFANCULO](https://open.spotify.com/track/23Tust6sDp7d7OBTqOTE7p) | [Latrelle](https://open.spotify.com/artist/2mUoO8KgRQOOzR0VoUWoEV), [N'Dreamer](https://open.spotify.com/artist/5r2RIg0giawu4KBxNK0KL8) | [VAFFANCULO](https://open.spotify.com/album/0VdD10ddgdrGea9whypoBl) | 2:19 |
+| 24 | [VAFFANCULO](https://open.spotify.com/track/23Tust6sDp7d7OBTqOTE7p) | [Latrelle](https://open.spotify.com/artist/2mUoO8KgRQOOzR0VoUWoEV), [N'](https://open.spotify.com/artist/5r2RIg0giawu4KBxNK0KL8) | [VAFFANCULO](https://open.spotify.com/album/0VdD10ddgdrGea9whypoBl) | 2:19 |
 | 25 | [Pass per il paradiso feat\. Paky](https://open.spotify.com/track/17zmj2QWvmecrTtTPL4etH) | [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7), [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [Miria](https://open.spotify.com/album/72SNCe5q2phtJlMlPkEAMw) | 2:52 |
 | 26 | [Lo So Che](https://open.spotify.com/track/3w73qvCSGWPCx7w1UMIh6e) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [FERITE \(Deluxe Edition\)](https://open.spotify.com/album/7g7002AcxLMerhLQEA8naR) | 3:01 |
 | 27 | [BOP BOP](https://open.spotify.com/track/7lnA7L04Q3ELVmMoMVeFrw) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [BOP BOP](https://open.spotify.com/album/5PGTq47um2SyPb07sm58pY) | 2:49 |
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37pZLd58ED5.md) - [plain]
 | 106 | [Prima che](https://open.spotify.com/track/1bXER40RxwNWTf9fnQOY64) | [nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD) | [Prima che](https://open.spotify.com/album/2BWwjP2nMSpRRS1mdnHnIP) | 3:03 |
 | 107 | [Morto Mai \(Piano Solo\)](https://open.spotify.com/track/4vuQhmBVvyy4Zau0Ypv738) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [Re Mida \(Aurum\)](https://open.spotify.com/album/18oJqI5kIQ5lwDvpdlny99) | 2:40 |
 
-Snapshot ID: `AAAAAFsWzZWyVyIkzTIJf07upCLPSeYQ`
+Snapshot ID: `AAAAAHspkOddd2PqcnioBWDdII/HCy6/`

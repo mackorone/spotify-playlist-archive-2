@@ -2,7 +2,7 @@
 
 ### [DND.](https://open.spotify.com/playlist/37i9dQZF1DX90ssyl6mXB2)
 
-> late night vibes – notifications off\. cover: Drake
+> late night vibes – notifications off\. cover: Season 25
 
 367 songs - 16 hr 52 min
 

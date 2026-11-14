@@ -1,12 +1,12 @@
 {
   "description": "This is Kelsea Ballerini. The essential tracks, all in one playlist.",
-  "num_followers": 102103,
+  "num_followers": 102104,
   "original_name": "This Is Kelsea Ballerini",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avOwAAAAAACpd2uzbEIi/uSVg6+AvhOd",
+  "snapshot_id": "avUBgAAAAABllVIE6h5aeVDIji+VPfad",
   "tracks": [
     {
       "added_at": null,
@@ -607,8 +607,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mount Pleasant",
-        "url": "https://open.spotify.com/album/2jvpJVr7HjZh61bEyp5gKC"
+        "name": "PATTERNS Commentary Album",
+        "url": "https://open.spotify.com/album/0Py8hbFZ9QhI2gPEqzbla1"
       },
       "artists": [
         {
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
         }
       ],
-      "duration_ms": 169466,
-      "name": "587",
-      "url": "https://open.spotify.com/track/4JlZvp9phjLsVvkf5ut0ZU"
+      "duration_ms": 182453,
+      "name": "WAIT!",
+      "url": "https://open.spotify.com/track/3kIgoto0T2mhZXOcRNNo7F"
     },
     {
       "added_at": null,
@@ -647,8 +647,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "PATTERNS Commentary Album",
-        "url": "https://open.spotify.com/album/0Py8hbFZ9QhI2gPEqzbla1"
+        "name": "Mount Pleasant",
+        "url": "https://open.spotify.com/album/2jvpJVr7HjZh61bEyp5gKC"
       },
       "artists": [
         {
@@ -656,9 +656,9 @@
           "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
         }
       ],
-      "duration_ms": 182453,
-      "name": "WAIT!",
-      "url": "https://open.spotify.com/track/3kIgoto0T2mhZXOcRNNo7F"
+      "duration_ms": 169466,
+      "name": "587",
+      "url": "https://open.spotify.com/track/4JlZvp9phjLsVvkf5ut0ZU"
     },
     {
       "added_at": null,

@@ -2,9 +2,9 @@
 
 ### [Chill Pop](https://open.spotify.com/playlist/37i9dQZF1DX0MLFaUdXnjA)
 
-> Sit back and relax to the chillest pop\.  Cover: keshi
+> Sit back and relax to the chillest pop\.  Cover: Say Now
 
-2,778 songs - 6 day 5 hr 49 min
+2,783 songs - 6 day 6 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -823,6 +823,7 @@
 | [For Oli](https://open.spotify.com/track/7FNBpx4om1iQcUPnyGqdMG) | [Eliott](https://open.spotify.com/artist/2oYcBXVaDoRJZiIwydeDzB) | [For Oli](https://open.spotify.com/album/4oKKOTdzrkbucK3RwrvYXI) | 3:23 | 2023-07-07 | 2023-08-12 |
 | [For The Best](https://open.spotify.com/track/6TIAj4WLkXKV6afNwXz1dp) | [Ebony Loren](https://open.spotify.com/artist/17DzgGdVKwrEdKxc4sPMnY) | [For The Best](https://open.spotify.com/album/3Ycl5WaR5AVYL90ZjECwx4) | 3:01 | 2022-11-25 | 2022-12-03 |
 | [For Tonight](https://open.spotify.com/track/61Emqg95O9zo1GNOcyxq4Y) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [For Tonight](https://open.spotify.com/album/5cAd6WOG1zVNQ2KDCOLtuf) | 3:13 | 2021-09-25 | 2022-07-23 |
+| [Forever](https://open.spotify.com/track/37GUzBOW6gbF68KIAFnjh6) | [Quiet Light](https://open.spotify.com/artist/6Uy2IwBjxdF0MxQVIN18n9) | [Forever](https://open.spotify.com/album/2iIbQxBJG9cX0HCtfVDXQt) | 4:05 | 2026-11-13 |  |
 | [forever and a day](https://open.spotify.com/track/4zGV9YkuYTKRVV6RXd2WvS) | [Abe Parker](https://open.spotify.com/artist/5V61WloeXM3XLslOqJ8RES) | [forever and a day](https://open.spotify.com/album/7hLQkP6QFyXARHA0A4GiND) | 3:16 | 2025-02-07 | 2025-06-14 |
 | [forever fifteen \(acoustic\)](https://open.spotify.com/track/0YvqWiqfk5jYURwR6kGmp6) | [Mothica](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [forever fifteen \(acoustic\)](https://open.spotify.com/album/2vvlh1YyTcVHkXxkZQvEGD) | 3:14 | 2021-03-06 | 2021-04-24 |
 | [Forever Start](https://open.spotify.com/track/3ToN8ReI58rQwfuOtX5tew) | [Ryan Nealon](https://open.spotify.com/artist/6eeu1cHi3LjiKnTxa7eJux), [Jillian Rossi](https://open.spotify.com/artist/2u2MvYsk6gZY0Khn9SAMeO) | [Forever Start](https://open.spotify.com/album/0ovpJJo6ZwHK4s7U89EdbV) | 3:11 | 2025-08-29 | 2026-01-30 |
@@ -876,6 +877,7 @@
 | [girl in new york](https://open.spotify.com/track/3eGIiMTMZduPDb4MN0NTqD) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [girl in new york](https://open.spotify.com/album/3nIb1RiW1bVXHPE1XthHcC) | 2:57 | 2023-12-08 | 2024-04-27 |
 | [Girl In The Mirror](https://open.spotify.com/track/0EUG6aR5MMgsw5tJ89gson) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Girl In The Mirror](https://open.spotify.com/album/7MohXA18YgyFLQThDzZa7Z) | 3:48 | 2024-01-12 | 2024-01-27 |
 | [girl next door](https://open.spotify.com/track/4bd1V7nlKSW0pN2W13pFue) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [girl next door](https://open.spotify.com/album/7JpRzIRYmyEMbvCT2yWyBR) | 3:26 | 2024-07-05 | 2024-07-27 |
+| [Girl of the moment](https://open.spotify.com/track/1F7xMt8gQywT4aJ2Vi8eZj) | [Say Now](https://open.spotify.com/artist/1p6HheoJqfYMiMC62yQIWn) | [Say what you see](https://open.spotify.com/album/2H9148vrCwSS9qB0SIv5xp) | 3:35 | 2026-11-13 |  |
 | [girlfriend ..](https://open.spotify.com/track/4YoLlQtpwBQpoRGF3j2wPp) | [Johnny Yukon](https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex) | [girlfriend ..](https://open.spotify.com/album/3qaGYGQQyJZCpn8POSoNis) | 2:27 | 2024-09-13 | 2024-10-12 |
 | [Girls Girl](https://open.spotify.com/track/3b2OEzF5rlmxyMiwU3d7lz) | [Grace Carter](https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC) | [When Saturn Returns](https://open.spotify.com/album/7747qoZwY5j8OkSkQ4kM51) | 3:24 | 2026-10-16 |  |
 | [girls girls girls](https://open.spotify.com/track/6eutgX6jfXAsjTXgQtCtYV) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [girls girls girls](https://open.spotify.com/album/17K0z0mxfAuYNNrV8Jx8v1) | 2:41 | 2021-10-09 | 2022-01-22 |
@@ -997,6 +999,7 @@
 | [Here Comes the Moon](https://open.spotify.com/track/0rSpqlc27kMB5gpad5mLMV) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw) | [Rick\(y\)](https://open.spotify.com/album/6eZQMCNFzChRdYviYn4LOn) | 2:02 | 2024-05-10 | 2024-05-25 |
 | [Here for You](https://open.spotify.com/track/3DmK9CjTb6DMgnveSK5Sr5) | [Peter Fenn](https://open.spotify.com/artist/6gMyLqdBGrHjR8TdCutVIP) | [Here for You](https://open.spotify.com/album/1YTiPHTwIJ3I2TdJ0S9Bcs) | 2:47 | 2020-09-18 | 2021-01-15 |
 | [Here Now](https://open.spotify.com/track/4DNJQD26B6pzHPFEssGiom) | [Kaptan](https://open.spotify.com/artist/7yNfjZY3QJpm4cUj1i0fWD) | [Whatever You Want](https://open.spotify.com/album/5zzVQgRaQKhp2nmIbM5sc9) | 3:14 | 2020-10-16 | 2020-10-30 |
+| [HERE NOW](https://open.spotify.com/track/2DKudvFN7v0ppq0nFPZb8i) | [KatzPascale](https://open.spotify.com/artist/23vJAg53gio3DsY5jJof5H) | [HERE NOW / FRANK](https://open.spotify.com/album/1VHLQVhoFUUT8b8nRF1RG5) | 2:47 | 2026-11-13 |  |
 | [Here With Me](https://open.spotify.com/track/4U4h7WNNyvhpdaDgHSdD4j) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/1HPTbRqv30KYao7mpuZ6dm) | 4:02 | 2022-09-23 | 2022-10-07 |
 | [Here With Me](https://open.spotify.com/track/5LrN7yUQAzvthd4QujgPFr) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 4:02 | 2023-05-26 | 2023-08-19 |
 | [Here With Me](https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S) | 4:02 | 2022-10-05 | 2023-06-02 |
@@ -2291,6 +2294,7 @@
 | [Swallow](https://open.spotify.com/track/2xtF0pR5YIroM6MzKUhJBy) | [Kevin Atwater](https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6) | [Swallow](https://open.spotify.com/album/1lF9N8KTJe8rEuCTVRwyV8) | 2:59 | 2024-02-02 | 2024-02-17 |
 | [Swarm](https://open.spotify.com/track/1UcsKMDTZksX9AeVIQVL7j) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0) | [Swarm](https://open.spotify.com/album/0oo0gUri4GeCoRm4YIHRko) | 2:42 | 2024-05-31 | 2024-07-02 |
 | [Swedish Girl](https://open.spotify.com/track/4KDxyRMRBTmjZ7sgfqJrPg) | [Saga Faye](https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv) | [Swedish Girl](https://open.spotify.com/album/2HQ34fRPNtVvWJjXo101Yo) | 2:33 | 2025-05-30 | 2025-08-17 |
+| [Sweet](https://open.spotify.com/track/3D3409tT7P1S5AYzYKy3fA) | [Clara Le Bouar](https://open.spotify.com/artist/5d4Z9gtKIo66PT6hMbmevx) | [Sweet](https://open.spotify.com/album/0Ti3FBh9STE0SZ42QXNb8l) | 4:03 | 2026-11-13 |  |
 | [Sweet Dream](https://open.spotify.com/track/1BIKSPrF0M1U6u83MTKmDu) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Sweet Dream](https://open.spotify.com/album/2StstfzDqLhNXWowiBSeHr) | 3:01 | 2021-07-17 | 2021-10-02 |
 | [Sweet Emotion](https://open.spotify.com/track/1D6wWuhDf19IsCFDOR9rlP) | [Diego Gonzalez](https://open.spotify.com/artist/60uj5nOT1TpQeBRo4ds9fd) | [Sweet Emotion](https://open.spotify.com/album/2lEKDGHS0zidrlmckGqmB0) | 3:08 | 2024-07-26 | 2024-08-17 |
 | [Sweet Love](https://open.spotify.com/track/4ilUlZEEDIoQEHNQCyufL0) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [You Promised A Lifetime](https://open.spotify.com/album/6FoEvts0zjsATXcW0J1COW) | 2:29 | 2024-03-29 | 2024-04-27 |
@@ -2726,6 +2730,7 @@
 | [With Love From](https://open.spotify.com/track/2NzaebtWUlpR5zebV9FC35) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [With Love From](https://open.spotify.com/album/1WOEqed1QcGmTCSMOjJL6v) | 3:59 | 2022-11-04 | 2023-03-18 |
 | [With You](https://open.spotify.com/track/7mdJAkMBPkKYOLxcVPDqa0) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [With You](https://open.spotify.com/album/5SrfDaHUYiIGprdRBpAy8x) | 3:09 | 2025-01-10 | 2025-02-08 |
 | [With You \(with Sofia Camara\)](https://open.spotify.com/track/6UPK99uGkoFmEhHLe1Dx67) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y), [Sofia Camara](https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55) | [With You \(with Sofia Camara\)](https://open.spotify.com/album/703OfuxHtlcsnrdZvAjkan) | 3:08 | 2025-03-07 | 2025-06-07 |
+| [Without My Strings](https://open.spotify.com/track/32oNxFi2dBftVTPKsMJcpc) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Without My Strings](https://open.spotify.com/album/75ICiuYySDUpwRAU6I9h3E) | 3:10 | 2026-11-13 |  |
 | [Without Words](https://open.spotify.com/track/2fC0RkvXGfa9A6eZDSnUha) | [Delilah Montagu](https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y) | [Without Words](https://open.spotify.com/album/2m1FDvBl8pE7IIph8sjrAf) | 3:06 | 2024-02-23 | 2024-03-23 |
 | [Without You](https://open.spotify.com/track/2xut8LPDhw24tdYG3jfZMp) | [Brynn Elliott](https://open.spotify.com/artist/43AN9FNovCCWxPX4talyzz) | [Without You](https://open.spotify.com/album/43KciNLzCz24T9KfXZuPbO) | 3:11 | 2021-06-12 | 2021-08-07 |
 | [Without You](https://open.spotify.com/track/0ZTtIdhIhHcbVyYmbwKhWq) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Without You](https://open.spotify.com/album/3OzhhZiW3NhqiYXI6WveaT) | 2:56 | 2023-10-20 | 2023-12-02 |

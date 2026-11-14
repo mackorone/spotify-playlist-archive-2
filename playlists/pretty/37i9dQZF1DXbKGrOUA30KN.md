@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKGrOUA30KN.md) - [plain]
 
 > Deutschpop, der jetzt passiert\. Cover: LEA
 
-[Spotify](https://open.spotify.com/user/spotify) - 641,541 likes - 89 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 641,498 likes - 89 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

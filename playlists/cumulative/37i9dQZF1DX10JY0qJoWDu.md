@@ -4,7 +4,7 @@
 
 > Holiday cheer from your Disney favorites!
 
-149 songs - 6 hr 50 min
+150 songs - 6 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Hearts Full of Cheer \- From "Elena of Avalor"](https://open.spotify.com/track/30LsNscPjAU2uzAfMMbrx9) | ["Elena Of Avalor" Cast](https://open.spotify.com/artist/0p6iNlkB41r1JtxZ3F6JMJ) | [Disney Junior Music Holiday Hits](https://open.spotify.com/album/3MnoSzB6Ynq2vq0BV3krZg) | 2:16 | 2022-12-08 |  |
 | [Here Comes Santa Claus](https://open.spotify.com/track/6UikPXIvtRFBK7SM8s9sY4) | [Mickey Mouse](https://open.spotify.com/artist/6w6OUqDUOPDvEHY85kbJRE), [Minnie Mouse](https://open.spotify.com/artist/0UOuBqKAookZ3EopZFlNL7) | [Disney Holiday Magic](https://open.spotify.com/album/3s3K3PpzvcW4RARpmUMZgy) | 1:52 | 2022-12-08 |  |
 | [Here It Is Christmastime](https://open.spotify.com/track/2yQLP5RVrvJgkViKronxrK) | [Kevin Bacon](https://open.spotify.com/artist/2Uw2gtRwPwKH9QVy4Km1uz), [Old 97's](https://open.spotify.com/artist/27AzFtMZhRN78bAMPntbpF) | [The Guardians of the Galaxy Holiday Special \(Original Soundtrack\)](https://open.spotify.com/album/7hgaezyHeEDN4zFnjRWk9M) | 3:26 | 2022-12-16 |  |
+| [Ho\-Ho\-Home for Christmas](https://open.spotify.com/track/20dc3QEtGxxmrTIeI21I9k) | [Mickey Mouse Clubhouse+ \- Cast](https://open.spotify.com/artist/2tUJ9RmG3zSwctpikuzuzq), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Jr\. Music: Mickey's Home Alone](https://open.spotify.com/album/2gvP77twMWRk4vmpIauwog) | 2:09 | 2026-11-13 |  |
 | [Holidays At Home](https://open.spotify.com/track/6FQSGMx4izRscahI2z0YVl) | [Belle](https://open.spotify.com/artist/0PPpKyvqALNTHqNCkPh9WM) | [Princess Christmas](https://open.spotify.com/album/1WJHhN69hjNuQPG2iJ36BY) | 2:31 | 2021-12-03 |  |
 | [Holly Jolly Zolidays](https://open.spotify.com/track/5bDWUeuQ5XGEGp9v1S3z8t) | [Meg Donnelly](https://open.spotify.com/artist/0jcl46xRBm9LKIwrKGQPE6), [Terry Hu](https://open.spotify.com/artist/5MQjEg9fHarQKj6FVZXQ6H), [Chandler Kinney](https://open.spotify.com/artist/4GsVpISKE79xqOxIrj9FTk), [Pearce Joza](https://open.spotify.com/artist/0JyZJ9UbbvNfoJ14NAUgqt), [Ariel Martin](https://open.spotify.com/artist/1dE8dF47aXT5VYE74R3I42), [Kahyun Kim](https://open.spotify.com/artist/6I3GeKWE0BzFXprLkWWxeP), [Trevor Tordjman](https://open.spotify.com/artist/4cCKeV2O9AE36tLDYlyVZt), [Milo Manheim](https://open.spotify.com/artist/3Pkn59A7kZmnBHp7HBUcz5), [Kingston Foster](https://open.spotify.com/artist/08UrdFER3TwYUs2CzF252x), [ZOMBIES – Cast](https://open.spotify.com/artist/2L7RaHwfVU6ge64IJF8GO5) | [Santler Claws Is Comin' To Town \(From "ZOMBIES: The Re\-Animated Series"\)](https://open.spotify.com/album/7uKBHAkOIOUBChOqbmEXHP) | 1:27 | 2024-12-06 |  |
 | [Home for Christmas](https://open.spotify.com/track/1dQj0qJwCccf6b9f7zJST5) | [DCappella](https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Home for the Holidays with DCappella](https://open.spotify.com/album/3FHCtrY8Pu5KfPfvNSMmcZ) | 2:36 | 2022-09-16 |  |

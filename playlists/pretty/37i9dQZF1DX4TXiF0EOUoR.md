@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TXiF0EOUoR.md) - [plain]
 
 > ¡PUEEERTAAAAAAAAS!
 
-[Spotify](https://open.spotify.com/user/spotify) - 263,115 likes - 125 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 263,128 likes - 125 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,12 +79,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TXiF0EOUoR.md) - [plain]
 | 69 | [La Burra Orejona](https://open.spotify.com/track/4g9S6u0oMzIsRrHvubAyXt) | [Banda Trancazo](https://open.spotify.com/artist/6RS70ocGGNzPKiJVhgf3m9), [Arturo Camarillo](https://open.spotify.com/artist/3p0GWiyIY3AOcBWvXXVQ4h) | [Las Mamirriquis](https://open.spotify.com/album/3Q6ytU0NXA47Ba4HEhaE6I) | 2:44 |
 | 70 | [El Sauce y la Palma](https://open.spotify.com/track/1qmNvOyMuWtVCsLD4fvdz1) | [Banda Sinaloense de Acero](https://open.spotify.com/artist/2SKZP0y4x69KfHpd8QSDRe) | [Y Sigue la Historia \(12 Exitos ¡¡ la Explosiva!!\)](https://open.spotify.com/album/54fAyGnLO7KQjjWdB1nQaV) | 2:15 |
 | 71 | [El Tiliche](https://open.spotify.com/track/1Nzjgrrt5viVSG8ZSVS4WJ) | [Banda Zirahuen](https://open.spotify.com/artist/7HLRLMnyM5R8wHIds5PfZ7) | [Que Lindo Es Michoacán! \(Puros Sones!\)](https://open.spotify.com/album/2SZ3bcNDilMhbkhCBZv8WR) | 2:18 |
-| 72 | [Rumbo a la Cañada](https://open.spotify.com/track/3EhVdAJv8cqxNdL2Aj1NfY) | [Banda Sinaloense Acero de Pablo Molina Jr.](https://open.spotify.com/artist/53qlNZcUOqKJpIdF61XYBc) | [¡¡La Explosiva!!](https://open.spotify.com/album/49pZIrjzr3D1ABMIFI0nGP) | 2:32 |
+| 72 | [El Son de los Ocampo](https://open.spotify.com/track/1SbZqxZoxZKuJTQzEDwV2M) | [Banda La Fregona](https://open.spotify.com/artist/5QjGlm1dx35Pgsg5S1hVf7) | [De la Ciudad pal' Rancho \(Puro Añuuu Weiii\)](https://open.spotify.com/album/2JN6smXOqkzHF0dXAtCFcJ) | 2:45 |
 | 73 | [El Carretero](https://open.spotify.com/track/5Li8aTVHhTJgAfocGruRpw) | [Los Infinitos Puro Zirahuen](https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9) | [Las Alegres de los Infinitos](https://open.spotify.com/album/2i5ASZlby3bDtfMaAMAr3d) | 4:13 |
-| 74 | [El Son de los Ocampo](https://open.spotify.com/track/1SbZqxZoxZKuJTQzEDwV2M) | [Banda La Fregona](https://open.spotify.com/artist/5QjGlm1dx35Pgsg5S1hVf7) | [De la Ciudad pal' Rancho \(Puro Añuuu Weiii\)](https://open.spotify.com/album/2JN6smXOqkzHF0dXAtCFcJ) | 2:45 |
+| 74 | [Rumbo a la Cañada](https://open.spotify.com/track/3EhVdAJv8cqxNdL2Aj1NfY) | [Banda Sinaloense Acero de Pablo Molina Jr.](https://open.spotify.com/artist/53qlNZcUOqKJpIdF61XYBc) | [¡¡La Explosiva!!](https://open.spotify.com/album/49pZIrjzr3D1ABMIFI0nGP) | 2:32 |
 | 75 | [Popurri De Sones Barbaro .\. Son Del Toro / Huitzuqueño / Los Colorados / Las Guacayas](https://open.spotify.com/track/12n0TbGdvDMLeZ4c48drUO) | [La Razza del Compa Edgar](https://open.spotify.com/artist/4yfxTpIJDOaXGPLta4K99K) | [Puros Popurris De Sones](https://open.spotify.com/album/2DbxbOYecqfAD3alfKSSXJ) | 3:19 |
-| 76 | [Vamonos de Fiesta](https://open.spotify.com/track/2WBdwIbWx9glAFgzuwqCEI) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [De Mexico para el Mundo](https://open.spotify.com/album/32TIJn1x8SCsHVCswGnQZQ) | 3:08 |
-| 77 | [Los Triciclos](https://open.spotify.com/track/0GaeJIMjDiOOuD2N1ajoWp) | [Banda La Joya De Antequera](https://open.spotify.com/artist/4ccI2lCNhsfm48C4Dcgfnt) | [Me He Enamorado](https://open.spotify.com/album/0PcA6F22piO1Beu7ud9K8L) | 3:04 |
+| 76 | [Los Triciclos](https://open.spotify.com/track/0GaeJIMjDiOOuD2N1ajoWp) | [Banda La Joya De Antequera](https://open.spotify.com/artist/4ccI2lCNhsfm48C4Dcgfnt) | [Me He Enamorado](https://open.spotify.com/album/0PcA6F22piO1Beu7ud9K8L) | 3:04 |
+| 77 | [Vamonos de Fiesta](https://open.spotify.com/track/2WBdwIbWx9glAFgzuwqCEI) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [De Mexico para el Mundo](https://open.spotify.com/album/32TIJn1x8SCsHVCswGnQZQ) | 3:08 |
 | 78 | [Agua de Té](https://open.spotify.com/track/5HqEVtaLpA8bLnlmX0y8AC) | [Banda La Movida](https://open.spotify.com/artist/4gD8odSwAK19NPcpUiFDf0) | [Agua de Té](https://open.spotify.com/album/2l9bArfA1xUx8VlN168tvQ) | 2:50 |
 | 79 | [El Ocotito](https://open.spotify.com/track/5WxWzOGkYFKhXHK7d2yyP1) | [Banda Sinaloense Acero de Pablo Molina Jr.](https://open.spotify.com/artist/53qlNZcUOqKJpIdF61XYBc) | [¡¡la Explosiva!!, Vol\. 2](https://open.spotify.com/album/4OT17ivovFVhVOlQTRk12w) | 2:57 |
 | 80 | [Lucesita](https://open.spotify.com/track/5EdZ3ta2DrvCjPtHNr8A7Y) | [Guizador Norteño de Zirahuén Mich.](https://open.spotify.com/artist/4fGn6oclcpfVniidRAvXLP) | [Los Únicos del Huapango Michoacano](https://open.spotify.com/album/5y4vlR58lLHIxvJEafFogr) | 2:28 |

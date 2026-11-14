@@ -1,6 +1,6 @@
 {
   "description": "a state of mind. Cover: Charley Crockett",
-  "num_followers": 230127,
+  "num_followers": 230166,
   "original_name": "Outlaw ",
   "owner": {
     "name": "Spotify",
@@ -531,22 +531,6 @@
     {
       "added_at": "2026-08-21 04:01:33",
       "album": {
-        "name": "With Heaven On Top",
-        "url": "https://open.spotify.com/album/4NvMwUFmY1dcDEgD8KoQjG"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 147721,
-      "name": "If They Come Lookin'",
-      "url": "https://open.spotify.com/track/5TnEQex0PO8eVi1i6yDT7Q"
-    },
-    {
-      "added_at": "2026-08-21 04:01:33",
-      "album": {
         "name": "Guitar Town",
         "url": "https://open.spotify.com/album/3bEnaGjQRqfoqNkAQtO1Uy"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 155266,
       "name": "Guitar Town",
       "url": "https://open.spotify.com/track/62ZRHYSOIT9WeZnz18kTHS"
+    },
+    {
+      "added_at": "2026-08-21 04:01:33",
+      "album": {
+        "name": "With Heaven On Top",
+        "url": "https://open.spotify.com/album/4NvMwUFmY1dcDEgD8KoQjG"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 147721,
+      "name": "If They Come Lookin'",
+      "url": "https://open.spotify.com/track/5TnEQex0PO8eVi1i6yDT7Q"
     },
     {
       "added_at": "2026-08-21 04:01:33",
@@ -759,6 +759,22 @@
     {
       "added_at": "2026-08-21 04:01:33",
       "album": {
+        "name": "$10 Cowboy",
+        "url": "https://open.spotify.com/album/29H8rVCQG9uXLiT9hlH5za"
+      },
+      "artists": [
+        {
+          "name": "Charley Crockett",
+          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
+        }
+      ],
+      "duration_ms": 215744,
+      "name": "$10 Cowboy",
+      "url": "https://open.spotify.com/track/77tSuH7nEYx2IWJm9TboDX"
+    },
+    {
+      "added_at": "2026-08-21 04:01:33",
+      "album": {
         "name": "The Essential Merle Haggard: The Epic Years",
         "url": "https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 287626,
       "name": "Pancho and Lefty",
       "url": "https://open.spotify.com/track/2hckAvL66faAcR0Fk64hj6"
-    },
-    {
-      "added_at": "2026-08-21 04:01:33",
-      "album": {
-        "name": "$10 Cowboy",
-        "url": "https://open.spotify.com/album/29H8rVCQG9uXLiT9hlH5za"
-      },
-      "artists": [
-        {
-          "name": "Charley Crockett",
-          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
-        }
-      ],
-      "duration_ms": 215744,
-      "name": "$10 Cowboy",
-      "url": "https://open.spotify.com/track/77tSuH7nEYx2IWJm9TboDX"
     },
     {
       "added_at": "2026-08-21 04:01:33",
@@ -875,22 +875,6 @@
     {
       "added_at": "2026-08-21 04:01:33",
       "album": {
-        "name": "Kristofferson",
-        "url": "https://open.spotify.com/album/4HN8SWymMSOxquR6wY2vke"
-      },
-      "artists": [
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 275690,
-      "name": "Sunday Mornin' Comin' Down",
-      "url": "https://open.spotify.com/track/4JwFrnLLSO4qqxOeHQATf4"
-    },
-    {
-      "added_at": "2026-08-21 04:01:33",
-      "album": {
         "name": "Roadrunner!",
         "url": "https://open.spotify.com/album/3j10vE1dzWGEyVj5lcQXX0"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 199400,
       "name": "You Ain\u2019t Gotta Die (To Be Dead To Me)",
       "url": "https://open.spotify.com/track/2l71DB43YblEWw73yWzeTm"
+    },
+    {
+      "added_at": "2026-08-21 04:01:33",
+      "album": {
+        "name": "Kristofferson",
+        "url": "https://open.spotify.com/album/4HN8SWymMSOxquR6wY2vke"
+      },
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 275690,
+      "name": "Sunday Mornin' Comin' Down",
+      "url": "https://open.spotify.com/track/4JwFrnLLSO4qqxOeHQATf4"
     },
     {
       "added_at": "2026-08-21 04:01:33",
@@ -955,22 +955,6 @@
     {
       "added_at": "2026-08-21 04:01:33",
       "album": {
-        "name": "Kristofferson",
-        "url": "https://open.spotify.com/album/4HN8SWymMSOxquR6wY2vke"
-      },
-      "artists": [
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 147909,
-      "name": "Help Me Make It Through the Night",
-      "url": "https://open.spotify.com/track/2KU944ARlycn1xv8W4I3Oe"
-    },
-    {
-      "added_at": "2026-08-21 04:01:33",
-      "album": {
         "name": "Morning Bail",
         "url": "https://open.spotify.com/album/1YlVSUkQkPwIhAzXG8o2TJ"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 174758,
       "name": "Morning Bail",
       "url": "https://open.spotify.com/track/6022l4GXAIdnm19XAY29Oq"
+    },
+    {
+      "added_at": "2026-08-21 04:01:33",
+      "album": {
+        "name": "Kristofferson",
+        "url": "https://open.spotify.com/album/4HN8SWymMSOxquR6wY2vke"
+      },
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 147909,
+      "name": "Help Me Make It Through the Night",
+      "url": "https://open.spotify.com/track/2KU944ARlycn1xv8W4I3Oe"
     },
     {
       "added_at": "2026-08-21 04:01:33",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2026-08-21 04:01:33",
       "album": {
-        "name": "Love And Danger",
-        "url": "https://open.spotify.com/album/3TkfLkXQuxrwboYs9aM02A"
-      },
-      "artists": [
-        {
-          "name": "Joe Ely",
-          "url": "https://open.spotify.com/artist/388Y4nUQbYSyonhNlBEypT"
-        }
-      ],
-      "duration_ms": 273533,
-      "name": "The Road Goes On Forever",
-      "url": "https://open.spotify.com/track/6vqxih8RNVv2jV86hkE1e7"
-    },
-    {
-      "added_at": "2026-08-21 04:01:33",
-      "album": {
         "name": "Little Victories",
         "url": "https://open.spotify.com/album/2AQojGjLHM5zPgq9O5RpAQ"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 214253,
       "name": "Nothing On Me",
       "url": "https://open.spotify.com/track/3FHzMLL7hgeGdzLf6J6ajS"
+    },
+    {
+      "added_at": "2026-08-21 04:01:33",
+      "album": {
+        "name": "Love And Danger",
+        "url": "https://open.spotify.com/album/3TkfLkXQuxrwboYs9aM02A"
+      },
+      "artists": [
+        {
+          "name": "Joe Ely",
+          "url": "https://open.spotify.com/artist/388Y4nUQbYSyonhNlBEypT"
+        }
+      ],
+      "duration_ms": 273533,
+      "name": "The Road Goes On Forever",
+      "url": "https://open.spotify.com/track/6vqxih8RNVv2jV86hkE1e7"
     },
     {
       "added_at": "2026-08-21 04:01:33",

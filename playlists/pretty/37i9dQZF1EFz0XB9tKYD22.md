@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7Co1jvHSQ9FFXOEY0TdPHQ">Hillary Lindsey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 636 likes - 358 songs - 21 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 637 likes - 358 songs - 21 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -224,8 +224,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 214 | [Somebody New](https://open.spotify.com/track/4wtMEyWDxoxxiQtWywyYNT) | [Steven Tyler](https://open.spotify.com/artist/32zks9ovi0IExzUd1C7W6o) | [We're All Somebody From Somewhere](https://open.spotify.com/album/1GyfGJLtZkD2yfRICZh3j2) | 4:11 |
 | 215 | [Outrun Me](https://open.spotify.com/track/5I5rqEeq4vBj7gbJOgYDUR) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Psychopath](https://open.spotify.com/album/2BXF8oLlDBkgTRAHyeZvuO) | 3:47 |
 | 216 | [Good Life](https://open.spotify.com/track/1N23c0ajye7u6jf8ABNLbY) | [Idman](https://open.spotify.com/artist/6N13mUTgkfYEUmW8R2GH0G) | [Risk](https://open.spotify.com/album/1slDbdhOlw9i2XDsaEVQeo) | 3:35 |
-| 217 | [How To Break A Heart \(feat\. Lori McKenna & Hillary Lindsey\)](https://open.spotify.com/track/5x8C7QQpU81bS62LtFOeGv) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I), [Lori McKenna](https://open.spotify.com/artist/1hjMVz40rkkOoGSnl3yweD), [Hillary Lindsey](https://open.spotify.com/artist/5mX9Z6qHTTHHFCreShrFIA) | [The Dream: Living The Dream \(Deluxe\)](https://open.spotify.com/album/7eictMoL2O0921qQH3aG8K) | 3:24 |
-| 218 | [Hey There Sunshine](https://open.spotify.com/track/7jwzvLPmAI2WVJM6mBzg5G) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [It's A Dying Art](https://open.spotify.com/album/0PW84fpvyi9bfEenBtUiYA) | 3:56 |
+| 217 | [Hey There Sunshine](https://open.spotify.com/track/7jwzvLPmAI2WVJM6mBzg5G) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [It's A Dying Art](https://open.spotify.com/album/0PW84fpvyi9bfEenBtUiYA) | 3:56 |
+| 218 | [How To Break A Heart \(feat\. Lori McKenna & Hillary Lindsey\)](https://open.spotify.com/track/5x8C7QQpU81bS62LtFOeGv) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I), [Lori McKenna](https://open.spotify.com/artist/1hjMVz40rkkOoGSnl3yweD), [Hillary Lindsey](https://open.spotify.com/artist/5mX9Z6qHTTHHFCreShrFIA) | [The Dream: Living The Dream \(Deluxe\)](https://open.spotify.com/album/7eictMoL2O0921qQH3aG8K) | 3:24 |
 | 219 | [Back in the Game](https://open.spotify.com/track/0uoPXey96C6nj5e9wdY5wr) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I) | [27861](https://open.spotify.com/album/6v0nKIJz5dP5iZWGClu2JH) | 3:05 |
 | 220 | [It Ain't Easy](https://open.spotify.com/track/0zpVeUdz3eO7iJiOEdl2Up) | [Steven Tyler](https://open.spotify.com/artist/32zks9ovi0IExzUd1C7W6o) | [We're All Somebody From Somewhere](https://open.spotify.com/album/1GyfGJLtZkD2yfRICZh3j2) | 4:05 |
 | 221 | [Loser](https://open.spotify.com/track/587HQbopl8sKlTxkUs4xoR) | [Mike Ryan](https://open.spotify.com/artist/026v3mvWdRvVdjL67VBySh) | [Longcut](https://open.spotify.com/album/3CD0S22d8MEpuG34AmINSC) | 3:20 |
@@ -367,4 +367,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 357 | [Relapse](https://open.spotify.com/track/2QSx7YmaQeEF1Orrymng9h) | [Romantic](https://open.spotify.com/artist/6kopcZ58fkBTfUzDAQcb4n) | [Dying of The Light](https://open.spotify.com/album/7dYlb4zkngh3DRGGfcj0vC) | 3:30 |
 | 358 | [Got the Poots](https://open.spotify.com/track/71cqwaove3R1wShWBVEJul) | [Tooty Mae Woolley](https://open.spotify.com/artist/5VJGLTxYgDD0DjjirVF3Vd) | [Got the Poots](https://open.spotify.com/album/5eel7jlClDPWgc9CVtYp3l) | 3:36 |
 
-Snapshot ID: `AchgigAAAADNzXeiTCuy9DRSdSDR92Tr`
+Snapshot ID: `AchmKgAAAAC9w3XwU2P0t07HSETM2lKT`

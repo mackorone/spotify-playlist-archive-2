@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrVdvTl1tVY.md) - [plain]
 
 > The biggest house bangers popping off in the UK, let's go! Cover: CHRIS STASSY, Interplanetary Criminal
 
-[Spotify](https://open.spotify.com/user/spotify) - 741,856 likes - 120 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 741,860 likes - 120 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Track 4](https://open.spotify.com/track/15tGq1xOOer8QZ268uBNxG) | [CHRIS STASSY](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So) | [Dangerous](https://open.spotify.com/album/4xM6LyAQYiLa73XcJuD0kU) | 0:00 |
+| 1 | [Dangerous](https://open.spotify.com/track/15tGq1xOOer8QZ268uBNxG) | [CHRIS STASSY](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [Dangerous](https://open.spotify.com/album/4xM6LyAQYiLa73XcJuD0kU) | 4:46 |
 | 2 | [Freakiness](https://open.spotify.com/track/3Q9AFy7RhFlp5QWmBhLdEq) | [Cam Stockman](https://open.spotify.com/artist/6ZznWCJd9W0TBbLtCK7oFg) | [Freakiness](https://open.spotify.com/album/27NK8WVKUNA3LbDW02reN6) | 3:31 |
 | 3 | [Gimme A Beat](https://open.spotify.com/track/4guJccRQ3OYLW9MU88h434) | [Obskür](https://open.spotify.com/artist/29MTNlaVntQaQiDyj8KGwx), [Robbie Doherty](https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS) | [Gimme A Beat](https://open.spotify.com/album/0sftpsszaUp9L2EP3THRjP) | 3:03 |
 | 4 | [Pressure](https://open.spotify.com/track/2cVwPi5aYMCP4R0ZtHSnaA) | [Tommy Phillips](https://open.spotify.com/artist/3Z1hS6haFjSDvQc8TORkIW) | [Pressure](https://open.spotify.com/album/1GJ1OXY16xE3mQO6BbAFh9) | 2:55 |

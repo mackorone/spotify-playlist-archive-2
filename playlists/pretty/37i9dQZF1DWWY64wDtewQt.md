@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 
 > the beat of your drift
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,987,877 likes - 99 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,989,079 likes - 99 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 | 69 | [MONTAGEM FEARLESS \- Ultra Slowed](https://open.spotify.com/track/3dnSijuGDhhzzo0FFGptxX) | [lirvie](https://open.spotify.com/artist/2xUrLIAss3e2KH44O8Iwt2), [DJ eu4oria](https://open.spotify.com/artist/6mg74DlGGudKVTBq7vTgcn), [DJ FZ DA ZN](https://open.spotify.com/artist/3bxjiMeOO8KfgipnZj5fKT), [Matra!](https://open.spotify.com/artist/74zmQLLL7XinbAtJCgMgNJ) | [MONTAGEM FEARLESS](https://open.spotify.com/album/4i25grL8nhDU2fsqMj62It) | 2:32 |
 | 70 | [BAD PARENTING FUNK](https://open.spotify.com/track/6kJjlOWBwnDwIBsvlwTNIF) | [DJ CEREJASS](https://open.spotify.com/artist/1iKfUld50BOVBIgHy3GlGt), [Sayfalse](https://open.spotify.com/artist/6s4LSwgbzTAfnN6OUfegJB) | [BAD PARENTING FUNK](https://open.spotify.com/album/2DNOGCn0szoh9f3rAnhF7b) | 1:27 |
 | 71 | [CALA BOCA PXTA \- Slowed](https://open.spotify.com/track/6f1quGoa3yMxvvhBWg5LF3) | [2KE](https://open.spotify.com/artist/2vPnS0IpayC2RVFuQA08R4) | [CALA BOCA PXTA](https://open.spotify.com/album/1zSowbKLGWW8qwY7H8Hr7Z) | 1:21 |
-| 72 | [MTG DIABÓLICA](https://open.spotify.com/track/0bOk99yLFvoO95Tjz57FgS) | [DJ SXD](https://open.spotify.com/artist/5TYgy94EkTAyehVxZa3uYx), [notdjfake](https://open.spotify.com/artist/3QwztEgQF5edXYpOYsA6fM) | [MTG DIABÓLICA](https://open.spotify.com/album/1axbvo4CY0eNPuxqLV9Oyg) | 1:42 |
+| 72 | [MTG DIABÓLICA](https://open.spotify.com/track/0bOk99yLFvoO95Tjz57FgS) | [notdjfake](https://open.spotify.com/artist/3QwztEgQF5edXYpOYsA6fM), [DJ SXD](https://open.spotify.com/artist/5TYgy94EkTAyehVxZa3uYx), [drexxst](https://open.spotify.com/artist/33JRNwH0tpfYFxXToaJQGa) | [MTG DIABÓLICA](https://open.spotify.com/album/1axbvo4CY0eNPuxqLV9Oyg) | 1:42 |
 | 73 | [FUNK SERENO \- SLOWED](https://open.spotify.com/track/5Y5NUAnVqru8HUUx4Yrli0) | [ICEDMANE](https://open.spotify.com/artist/4cM6xcafBAbS9bOa8kAjRj), [DYSMANE](https://open.spotify.com/artist/1pFLuMBwabtFITLNJlEZ9z) | [FUNK SERENO](https://open.spotify.com/album/5rtythciasHcvQhwf2ubxv) | 2:25 |
 | 74 | [MONTAGEM AMOSTRA \- EDIT VERSION](https://open.spotify.com/track/0dCojVSsIPhUy4R1c9OOm5) | [TRXSHBXY](https://open.spotify.com/artist/1lpPb0grX95giST5LLNOuJ), [zarzour](https://open.spotify.com/artist/6fWaIm6tgq3jfZTr9NMxUd), [DJ VIBER](https://open.spotify.com/artist/2AJGtiRmXalpq8FayihpD8), [WXCHSXN](https://open.spotify.com/artist/3V9pMeaokZlFw0a80Cff3O), [Mc Kitinho](https://open.spotify.com/artist/1d2PrJ5wELpihT8yrwH4mO) | [MONTAGEM AMOSTRA](https://open.spotify.com/album/7Dx7Y0zQseVOjdgnPMYly8) | 1:39 |
 | 75 | [MONTAGEM RUGADA](https://open.spotify.com/track/7hCUHXMZknrymWCyeMx8B6) | [cape](https://open.spotify.com/artist/6hB4Px9Gm2FjAB30PXsv8K), [JXNDRO](https://open.spotify.com/artist/62vwt2P3iBw4NwHdDZb27q), [Sayfalse](https://open.spotify.com/artist/6s4LSwgbzTAfnN6OUfegJB) | [MONTAGEM RUGADA](https://open.spotify.com/album/7FsRROosPNliIsu3YzSs9n) | 1:32 |

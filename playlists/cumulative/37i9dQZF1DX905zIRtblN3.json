@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "\u00a1Las m\u00e1s placosas y llegadoras de nuestra m\u00fasica! Al mill\u00f3n con La Ventaja.",
+  "description": "\u00a1Las m\u00e1s placosas y llegadoras de nuestra m\u00fasica! Al mill\u00f3n con Chino Pacas, Jonathan Caro.",
   "name": "La Reina: \u00c9xitos de la M\u00fasica Mexicana",
   "tracks": [
     {
@@ -886,6 +886,28 @@
       "duration_ms": 215114,
       "name": "ALL THE THINGS SHE SAID",
       "url": "https://open.spotify.com/track/2hlaYHZUhF9yYqo1o71h4X"
+    },
+    {
+      "album": {
+        "name": "All\u00e1 En Sonora",
+        "url": "https://open.spotify.com/album/08AO5vA6G0vmLQPZ2t3O72"
+      },
+      "artists": [
+        {
+          "name": "Chino Pacas",
+          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
+        },
+        {
+          "name": "Jonathan Caro",
+          "url": "https://open.spotify.com/artist/7y6eZQZwyUvR4PlZOVSR7I"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195692,
+      "name": "All\u00e1 En Sonora",
+      "url": "https://open.spotify.com/track/6YVjpUkK6U0pTLYNGZ44uw"
     },
     {
       "album": {
@@ -2622,6 +2644,28 @@
       "duration_ms": 197781,
       "name": "Cada Quien",
       "url": "https://open.spotify.com/track/5BE9B2FiFWBbBdoIQ1m1UP"
+    },
+    {
+      "album": {
+        "name": "Caf\u00e9 de Talega",
+        "url": "https://open.spotify.com/album/5zvZtNxJfzOWPQlKocUgPp"
+      },
+      "artists": [
+        {
+          "name": "Superiores de Nuevo Leon",
+          "url": "https://open.spotify.com/artist/2SET3aaOFm3cLiDGw3xyPv"
+        },
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180052,
+      "name": "Caf\u00e9 de Talega",
+      "url": "https://open.spotify.com/track/4Z0AdTuipXmOGr3fTHeyOW"
     },
     {
       "album": {
@@ -13489,6 +13533,24 @@
     },
     {
       "album": {
+        "name": "Mirar La Luna",
+        "url": "https://open.spotify.com/album/5LyIL8ZVFNfJMReUfVgCNS"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186744,
+      "name": "Mirar La Luna",
+      "url": "https://open.spotify.com/track/09fQPypTWpF3lsNj6zp74o"
+    },
+    {
+      "album": {
         "name": "Mirar Que Te Vas",
         "url": "https://open.spotify.com/album/5vGNBLsJMASajWHWu51RaN"
       },
@@ -17754,7 +17816,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 127029,
       "name": "Rey Le\u00f3n",
       "url": "https://open.spotify.com/track/5ikzjvLe1zsAJkgimIz1ev"
@@ -19258,7 +19320,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 164937,
       "name": "So\u00f1\u00e9",
       "url": "https://open.spotify.com/track/33HYZlzEZwp9KOMt9DY7xF"
@@ -22634,7 +22696,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 178552,
       "name": "\u00bfA Poco Te Decepcion\u00e9?",
       "url": "https://open.spotify.com/track/1eiZv0QfGHKNfASJB0KKvI"

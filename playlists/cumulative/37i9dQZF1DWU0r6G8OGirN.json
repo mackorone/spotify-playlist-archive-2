@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "A December Dream",
+        "url": "https://open.spotify.com/album/7vr14mFSBoe0JEuKiKQdZH"
+      },
+      "artists": [
+        {
+          "name": "Eternal Time Trio",
+          "url": "https://open.spotify.com/artist/7Db24rMZl5sv7EQL5CP988"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152424,
+      "name": "A December Dream",
+      "url": "https://open.spotify.com/track/3wWurMX9uyG7SA8mXkYx33"
+    },
+    {
+      "album": {
         "name": "A Holly Jolly Christmas",
         "url": "https://open.spotify.com/album/2OjP7B1WKh8VcezjQnJ85k"
       },
@@ -383,6 +401,24 @@
     },
     {
       "album": {
+        "name": "Bethlehem Morning",
+        "url": "https://open.spotify.com/album/1Dnaal1OkXWiVhR9Y121t9"
+      },
+      "artists": [
+        {
+          "name": "Trio Musette",
+          "url": "https://open.spotify.com/artist/2ePIFH8jgBe6Cqe2uc8s6A"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149700,
+      "name": "Bethlehem Morning",
+      "url": "https://open.spotify.com/track/49eHz0cKfekGI2Vq9kp2Xo"
+    },
+    {
+      "album": {
         "name": "A Child Is Born",
         "url": "https://open.spotify.com/album/5i3P1z4tgoe8qMFnsFG9Bb"
       },
@@ -394,10 +430,28 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 140755,
       "name": "Blue Christmas",
       "url": "https://open.spotify.com/track/5Xsw49uHfrolDpzV1S0R3n"
+    },
+    {
+      "album": {
+        "name": "Blue Christmas",
+        "url": "https://open.spotify.com/album/4wkbTrGA0HxN93suh0uVOt"
+      },
+      "artists": [
+        {
+          "name": "Night and Day Trio",
+          "url": "https://open.spotify.com/artist/7JKk5tWoGuKwlbGFPGiV8h"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218152,
+      "name": "Blue Christmas",
+      "url": "https://open.spotify.com/track/2s0dvxtFe6SqyQgOTcWEKz"
     },
     {
       "album": {
@@ -740,6 +794,24 @@
       "duration_ms": 114393,
       "name": "Dance of the Sugar Plum Fairy",
       "url": "https://open.spotify.com/track/7h4Ayplz18fKgoPUIWfaJd"
+    },
+    {
+      "album": {
+        "name": "Dancing into Christmas",
+        "url": "https://open.spotify.com/album/5FQc1bCxPuxsRMVu9UiflB"
+      },
+      "artists": [
+        {
+          "name": "Goblin Quartet",
+          "url": "https://open.spotify.com/artist/0ceEvbf4gmN9my4kriQVfm"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124494,
+      "name": "Dancing into Christmas",
+      "url": "https://open.spotify.com/track/2HRk2NalXh1j4AaNPFsKRo"
     },
     {
       "album": {
@@ -1212,6 +1284,24 @@
       "duration_ms": 140124,
       "name": "Here Comes Santa Claus",
       "url": "https://open.spotify.com/track/5J47ZMg53bfHMH1xChF7Go"
+    },
+    {
+      "album": {
+        "name": "Here We Come A-Caroling",
+        "url": "https://open.spotify.com/album/2alGkLKgmlR1NLRIXH7BaN"
+      },
+      "artists": [
+        {
+          "name": "Le Bleu Ensemble",
+          "url": "https://open.spotify.com/artist/3cyV8AxHAoyulOGudi2PGG"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115744,
+      "name": "Here We Come A-Caroling",
+      "url": "https://open.spotify.com/track/1SUTvU7F3DjHCWunCfVprM"
     },
     {
       "album": {
@@ -1752,7 +1842,7 @@
       ],
       "date_added": "2024-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 204187,
       "name": "Meet Me Under the Mistletoe",
       "url": "https://open.spotify.com/track/39kbAYlQI8I9WA6j3YxKSD"
@@ -1914,7 +2004,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 257900,
       "name": "O Holy Night",
       "url": "https://open.spotify.com/track/7HuuaSBXERQWt396J4fxuC"
@@ -2238,10 +2328,28 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 173855,
       "name": "Santa Baby",
       "url": "https://open.spotify.com/track/2dAfFeRPrMoUb6ZKObAHrr"
+    },
+    {
+      "album": {
+        "name": "Santa Baby",
+        "url": "https://open.spotify.com/album/7dY1hwOgtsJ38EJKK276NN"
+      },
+      "artists": [
+        {
+          "name": "The Basement Jazz Trio",
+          "url": "https://open.spotify.com/artist/4zeFXE0vLwXYmvHTmHkpYL"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157194,
+      "name": "Santa Baby",
+      "url": "https://open.spotify.com/track/2SZbb4778sTHtlKVIhJhIV"
     },
     {
       "album": {
@@ -2274,7 +2382,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 138629,
       "name": "Santa tell me",
       "url": "https://open.spotify.com/track/1g5N61jKCHgVpSYYBz9FDV"
@@ -2310,7 +2418,7 @@
       ],
       "date_added": "2024-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 210000,
       "name": "Santa\u00b4s Way Back Home",
       "url": "https://open.spotify.com/track/6XKsktRYFT4GBdIpwEmL6h"
@@ -2458,6 +2566,24 @@
       "duration_ms": 202664,
       "name": "Sleigh Ride",
       "url": "https://open.spotify.com/track/3CwE9ExeHCA9ho6hy1lrNZ"
+    },
+    {
+      "album": {
+        "name": "Slides Across The Snow",
+        "url": "https://open.spotify.com/album/19DU6jIdm4zjOj1ZLqY6ws"
+      },
+      "artists": [
+        {
+          "name": "Ornette Haynes",
+          "url": "https://open.spotify.com/artist/5Fb5lnOYweoOU7Xt5qQ1h6"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221395,
+      "name": "Slides Across The Snow",
+      "url": "https://open.spotify.com/track/34X9nQST5kNnFUVoubt5uF"
     },
     {
       "album": {
@@ -2908,7 +3034,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 218110,
       "name": "The Night Before Christmas",
       "url": "https://open.spotify.com/track/4aFHfT8vtA7DCamwvh1Rad"

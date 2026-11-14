@@ -1313,6 +1313,24 @@
     },
     {
       "album": {
+        "name": "christmas dream",
+        "url": "https://open.spotify.com/album/2JWdOmygDfiRzazzfGGomt"
+      },
+      "artists": [
+        {
+          "name": "aron!",
+          "url": "https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182549,
+      "name": "it's the most wonderful time of the year",
+      "url": "https://open.spotify.com/track/6ozYsjpGOTCgsQg77xvHaX"
+    },
+    {
+      "album": {
         "name": "What A Night! A Christmas Album",
         "url": "https://open.spotify.com/album/4ZD2z6ZVjiaeZolP8MXgvK"
       },
@@ -1324,7 +1342,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 208026,
       "name": "It's the Most Wonderful Time of the Year",
       "url": "https://open.spotify.com/track/0d6akjLICicFPbTghnJkFP"
@@ -1360,7 +1378,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 252922,
       "name": "It's The Most Wonderful Time of the Year",
       "url": "https://open.spotify.com/track/2fV8KRy6XcarcxAi9AyUgR"
@@ -2058,7 +2076,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-07",
+      "date_removed": null,
       "duration_ms": 194866,
       "name": "Poppa Santa Claus - Single Version",
       "url": "https://open.spotify.com/track/3By2EZ4GEcaiLQRfyyf8vP"

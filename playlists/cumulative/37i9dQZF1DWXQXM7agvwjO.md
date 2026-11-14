@@ -4,7 +4,7 @@
 
 > Hottest indie sounds from Asia\. Cover: NEW LORE \(Philippines\)
 
-2,932 songs - 7 day 11 hr 15 min
+2,932 songs - 7 day 11 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1895,6 +1895,7 @@
 | [Rules](https://open.spotify.com/track/6b8PDqaWAwX7aZ2f5wO2Tr) | [The Volunteers](https://open.spotify.com/artist/2jLHrOkh1M5rLJgnrgfQf1) | [Rules](https://open.spotify.com/album/4iSSfrjweTsHTDG75Xw8hz) | 3:57 | 2025-02-27 | 2025-04-22 |
 | [Run](https://open.spotify.com/track/6Lnb8cCLqHwpofO3o3pgzI) | [Frys](https://open.spotify.com/artist/4lCBdUlETFSzE8JhSHyhyJ) | [La Journée](https://open.spotify.com/album/6MwK3P1HHWGBQAK7Wl9yq8) | 3:43 | 2023-03-23 | 2023-04-21 |
 | [Run](https://open.spotify.com/track/7hVd0Hej4nlJiufYwKxhDT) | [TY:DEL](https://open.spotify.com/artist/2hPhnwoTrcoFeuP9pwdClH) | [Run](https://open.spotify.com/album/67VhkG0XlrHJj0JyRQJNR5) | 2:26 | 2023-09-15 | 2023-10-06 |
+| [RUN FROM ME](https://open.spotify.com/track/14s78c4slO6emND3QTUaZq) | [PRYVT](https://open.spotify.com/artist/2EoyTW14yqnbqmk90NjbLT) | [BACK TO REALITY \(DELUXE\)](https://open.spotify.com/album/300M5kQP8R9NMjVuVR66qI) | 2:46 | 2026-11-12 |  |
 | [RUN RUN RUN](https://open.spotify.com/track/2ZlVT0kF6x6ST3PbkbkLIk) | [tie a tie](https://open.spotify.com/artist/7v9fLn8ZcdEdqzF1vX80n5) | [RUN RUN RUN](https://open.spotify.com/album/3Q57FAQEXEJ0fCslmn95Me) | 2:07 | 2024-05-02 | 2024-05-24 |
 | [Runaway](https://open.spotify.com/track/3aJbH8XQCYPE5RKkjDhx6W) | [Shyclops](https://open.spotify.com/artist/7zYMujuLfBXBchiqk64fgZ) | [Runaway](https://open.spotify.com/album/2rWfTnlzuEVq3KifP02KdI) | 3:45 | 2025-06-05 | 2025-08-08 |
 | [RUNNIN](https://open.spotify.com/track/0pY7211lZONVBrLYZ06xK6) | [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9), [Thomas Ng](https://open.spotify.com/artist/2ZeeJPDvqzQ7c8iG3rRsyc) | [RUNNIN](https://open.spotify.com/album/1ScaCCJ6hm3Jwb2A8y7IkZ) | 3:16 | 2026-05-28 | 2026-07-17 |
@@ -1910,6 +1911,7 @@
 | [Saan?](https://open.spotify.com/track/61DuXKQqvXkxcrAIiNLIgR) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [Saan?](https://open.spotify.com/album/2USw0nRD3YRnfofRyufJnR) | 3:26 | 2023-04-20 | 2023-11-24 |
 | [Sacred Soil](https://open.spotify.com/track/2qHHlaoTV2yLEzHYFB9LWy) | [SCALLER](https://open.spotify.com/artist/6IjWOreXe5zdIiRpDD4stM), [IKLIM](https://open.spotify.com/artist/13RkP9NAGg67uIHcFWsdSS) | [Sacred Soil](https://open.spotify.com/album/2GtHXXH1DOMA9bgUs81WoF) | 5:00 | 2025-10-16 | 2025-12-12 |
 | [sad girl](https://open.spotify.com/track/1C4qmPFkEXh7jfJYZG4KjM) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [sad girl](https://open.spotify.com/album/38q4VehB1wdiNUPOoO7JfN) | 2:28 | 2023-07-20 | 2025-04-11 |
+| [Sad Girl \(feat\. Ichika Nito & Gabba\)](https://open.spotify.com/track/735s7kB0oA5PXgXtiSZLMG) | [NEW LORE](https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E), [Ichika Nito](https://open.spotify.com/artist/1v7B6ZWa7QRQS3knn3Jvf4), [Gabba](https://open.spotify.com/artist/6tvCQZS4d1wJ9cA9Gl0ZqP) | [Very Ancient Way of Crying](https://open.spotify.com/album/3xbauaiHd7Ah6wzGjfmoYo) | 3:22 | 2026-11-12 |  |
 | [Sad Love Song](https://open.spotify.com/track/15qWHBkl93PoaHpGWrQnbG) | [Peej](https://open.spotify.com/artist/1fERpjPPt0AJDpT3p7NbiP) | [Sad Love Song](https://open.spotify.com/album/4OxlcjQEvYpuz135kKMhiZ) | 4:26 | 2023-08-17 | 2023-10-27 |
 | [saekdallian](https://open.spotify.com/track/6i2bypuzfzhz5CSCMQl22K) | [ultramodernista](https://open.spotify.com/artist/4Plrerc3e2ZuY5kLT2dbRZ) | [saekdallian](https://open.spotify.com/album/74kaiVuHhGXXLEOxAieZMR) | 3:24 | 2022-05-26 | 2022-07-08 |
 | [Safe Flight](https://open.spotify.com/track/1UVOyw9vzAZ3f6Z9CAm5Vz) | [Will Mara](https://open.spotify.com/artist/5NxczTw9yZIX62WvzQ24mF) | [Safe Flight](https://open.spotify.com/album/3oZDDfuIuDzRDC12mnVrDF) | 2:51 | 2022-08-04 | 2022-09-23 |
@@ -2357,8 +2359,6 @@
 | [Town](https://open.spotify.com/track/6gUN5zMyyUEYkoqbC7ildh) | [Ishbel Warifa](https://open.spotify.com/artist/3wSh7x4BzctCWKfp2lujCD) | [Town](https://open.spotify.com/album/3CyudN7tuOl6p9VjNYMpWU) | 3:30 | 2024-07-11 | 2024-08-02 |
 | [Toxicated](https://open.spotify.com/track/0qB6ZydAb7ibLHNAf6mlRE) | [Bunkface](https://open.spotify.com/artist/70B8WzgEFajrIE820yi08H) | [Toxicated](https://open.spotify.com/album/2SFr2FJjkU6sbkKUFtfBmr) | 2:37 | 2023-02-16 | 2023-04-14 |
 | [Traces](https://open.spotify.com/track/5b9sdOfsG30qP4ig5zYwDh) | [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb) | [Reprise](https://open.spotify.com/album/0e27fGyK96o3H2zGv2WKNu) | 3:13 | 2026-11-06 |  |
-| [Track 14](https://open.spotify.com/track/14s78c4slO6emND3QTUaZq) | [PRYVT](https://open.spotify.com/artist/2EoyTW14yqnbqmk90NjbLT) | [BACK TO REALITY \(DELUXE\)](https://open.spotify.com/album/300M5kQP8R9NMjVuVR66qI) | 0:00 | 2026-11-12 |  |
-| [Track 3](https://open.spotify.com/track/735s7kB0oA5PXgXtiSZLMG) | [NEW LORE](https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E) | [Very Ancient Way of Crying](https://open.spotify.com/album/3xbauaiHd7Ah6wzGjfmoYo) | 0:00 | 2026-11-12 |  |
 | [Transgressions \- feat\. Rol3ert](https://open.spotify.com/track/6ReWKgFx1yyQMDumJgHcm4) | [King No\-One](https://open.spotify.com/artist/6hWReUQlQwLTYlmZ1vltRB), [Rol3ert](https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E) | [Transgressions \(feat\. Rol3ert\)](https://open.spotify.com/album/7tJLjRb9Y6YyfgF40LwrTA) | 3:11 | 2026-09-17 | 2026-10-09 |
 | [Trick Or Treat](https://open.spotify.com/track/2I1QCvKiv2rAxYT6aUZdQS) | [CORAL](https://open.spotify.com/artist/3mhk7DLhAyZqIEuNWwRybV) | [Hey, Monster!](https://open.spotify.com/album/6LD0K43F0gKTBCDJyZVLp8) | 3:14 | 2026-10-30 |  |
 | [trippin](https://open.spotify.com/track/4JkFNeANK0lv1NXmarRnmT) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [trippin](https://open.spotify.com/album/0wFS8hm2vYqo2LeUGpZV1j) | 2:58 | 2023-09-01 | 2024-07-27 |

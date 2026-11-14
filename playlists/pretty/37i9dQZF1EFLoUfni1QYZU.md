@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLoUfni1QYZU.md) - [plain]
 | 17 | [Night Like This](https://open.spotify.com/track/5uZbXwM8gGGHSD1Dqv8kCu) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Forever for Now \(Deluxe Edition\)](https://open.spotify.com/album/4Xj78YEY3wweavnPEJXuWw) | 4:00 |
 | 18 | [When I'm Over You](https://open.spotify.com/track/4UW3ouO2xjiI1Thr4f1uDN) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Heart to Mouth](https://open.spotify.com/album/4OjeNKUsZFgD6dnQbd3pM9) | 4:26 |
 | 19 | [Waiting Outside The Lines](https://open.spotify.com/track/5AdFiDqYP1E0OwXyUt9UGI) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX) | [Hold On ‘Til The Night](https://open.spotify.com/album/5Vbc1cKq8E0TxSAL5rTD57) | 3:51 |
-| 20 | [Tokyo Sunrise](https://open.spotify.com/track/1oOPzxeYO9Z8Y6QAwxnYDL) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Forever for Now \(Deluxe Edition\)](https://open.spotify.com/album/4Xj78YEY3wweavnPEJXuWw) | 4:24 |
-| 21 | [Dreamer](https://open.spotify.com/track/7udNZcaKJQu3uh8L9TZBoP) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Heart to Mouth](https://open.spotify.com/album/4OjeNKUsZFgD6dnQbd3pM9) | 3:25 |
+| 20 | [Dreamer](https://open.spotify.com/track/7udNZcaKJQu3uh8L9TZBoP) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Heart to Mouth](https://open.spotify.com/album/4OjeNKUsZFgD6dnQbd3pM9) | 3:25 |
+| 21 | [Tokyo Sunrise](https://open.spotify.com/track/1oOPzxeYO9Z8Y6QAwxnYDL) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Forever for Now \(Deluxe Edition\)](https://open.spotify.com/album/4Xj78YEY3wweavnPEJXuWw) | 4:24 |
 | 22 | [N'oublie pas](https://open.spotify.com/track/7FIpYtyMksImC785MQ6rk0) | [Mylène Farmer](https://open.spotify.com/artist/0e04xgVBPU6mE2QkSHlufD), [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Désobéissance](https://open.spotify.com/album/5YDET5CVSy7YvV7I3s5wAI) | 3:39 |
 | 23 | [Someday](https://open.spotify.com/track/6aqQwBaJ2W7z5PIqWMheGx) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Forever for Now \(Deluxe Edition\)](https://open.spotify.com/album/4Xj78YEY3wweavnPEJXuWw) | 4:12 |
 | 24 | [Up Against Me](https://open.spotify.com/track/0FblCEqvjlYKCPkid3C0Z5) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost On You](https://open.spotify.com/album/2IdswGlDALRu7hjWi3Nu7f) | 3:02 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLoUfni1QYZU.md) - [plain]
 | 85 | [Pedestal](https://open.spotify.com/track/2uuG0q0NJCODSZxo3Q3RX8) | [EMIN](https://open.spotify.com/artist/0sKY9AcBdiGx4FbFbQsXoX) | [Good Love](https://open.spotify.com/album/0fetHuPcxKROz43WYu3J31) | 3:25 |
 | 86 | [Dark Side \(Instrumental Version\) \[Originally performed by Kelly Clarkson\]](https://open.spotify.com/track/0UIz6OBemLHhD8XW8t2acZ) | [Back Track Karaoke](https://open.spotify.com/artist/0CG46RticezLidYhQ66gUW) | [Top Song's Karaoke \-Vol 3](https://open.spotify.com/album/1c7kIevmDnQPdvmeERdQj4) | 3:21 |
 
-Snapshot ID: `AchggAAAAABd9D2aXX6AjVaGFBgX0Ks1`
+Snapshot ID: `AchmIAAAAAD0A4kYvOSnLMSm7a9hgr3e`

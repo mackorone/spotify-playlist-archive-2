@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 2 likes - 8,492 songs - 21 day 14 hr 0 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 2 likes - 8,494 songs - 21 day 14 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -8500,5 +8500,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 8490 | [前前前世 \- movie ver.](https://open.spotify.com/track/23eTkfMmq1LvqiDzeNHdVe) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [君の名は。](https://open.spotify.com/album/4KtMINeVjpDPdf7CsJSFZl) | 4:45 |
 | 8491 | [Zenzenzense \- Original Version](https://open.spotify.com/track/57Hk29LVcJAaGSFYQSuOKM) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [Human Bloom](https://open.spotify.com/album/5TZ0bVy0tqIriXse4qk1HY) | 4:35 |
 | 8492 | [接吻](https://open.spotify.com/track/4Y1kikrwlBD0ESg9mdOfQp) | [Original Love](https://open.spotify.com/artist/76QaFuQNldIJkAkDmaMAck) | [TOKYO \- CITY POP \-](https://open.spotify.com/album/4xP3ejIHNS3OPGHfSIrevD) | 4:40 |
+| 8493 | [I'm Goin In](https://open.spotify.com/track/5aooThgj87ID0vgiyvcjPM) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH) | [I'm Goin In](https://open.spotify.com/album/645FRpimwu0b1isiY5M32J) | 3:45 |
+| 8494 | [Gold\-Triumph](https://open.spotify.com/track/1Oy5w51bmqgPdiMtXYdrks) | [ゴールドシップ \(CV\. 上田 瞳\)](https://open.spotify.com/artist/1tODxzD6whVt82RO4FgkFE), [ナカヤマフェスタ \(CV\. 下地紫野\)](https://open.spotify.com/artist/5ElmbJJz5azpUCGshekl0P), [オルフェーヴル \(CV\. 日笠陽子\)](https://open.spotify.com/artist/2YiY6vEoIiyVW3WyDnQNIM), [ドリームジャーニー \(CV\. 吉岡茉祐\)](https://open.spotify.com/artist/19YA4Q32cgKV9x8KNb1TmN), [フェノーメノ \(CV\. 日比優理香\)](https://open.spotify.com/artist/7LTAH878GVLq890fi9i9sS), [ステイゴールド \(CV\. 松田颯水\)](https://open.spotify.com/artist/1Sxd0rOFUWr9bXtiBNFEVe), [ウマ娘 プリティーダービー](https://open.spotify.com/artist/5pTLke5Yq8nN4yaPxLPzGd) | [『ウマ娘 プリティーダービー』WINNING LIVE 34](https://open.spotify.com/album/24OSekFqXQwxTNytF41cuo) | 3:37 |
 
-Snapshot ID: `AAAOH09k5CgPMY5QrEVsLGrprHG/rjig`
+Snapshot ID: `AAAOITsVn8gZ3DiGnNK9+3IeKUC0qdmg`

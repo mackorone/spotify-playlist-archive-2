@@ -146,7 +146,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 194281,
       "name": "Amor - Cover",
       "url": "https://open.spotify.com/track/7vObhMIqXv6IQuidv2qVny"
@@ -312,10 +312,40 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 166083,
       "name": "Bajo el Trupillo Guajiro",
       "url": "https://open.spotify.com/track/3CCo1TQuD3BJu1SRlkjaL6"
+    },
+    {
+      "album": {
+        "name": "BbY WOW - John Summit Remix",
+        "url": "https://open.spotify.com/album/7cATL7247RiXbe4yL7KdNv"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Judeline",
+          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
+        },
+        {
+          "name": "rusowsky",
+          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218826,
+      "name": "BbY WOW - John Summit Remix",
+      "url": "https://open.spotify.com/track/6i0mauyUtfJ6Wb3QLVxKc6"
     },
     {
       "album": {
@@ -761,6 +791,24 @@
     },
     {
       "album": {
+        "name": "Conexiones",
+        "url": "https://open.spotify.com/album/6vtTnXHQbqwsVsfjzciO45"
+      },
+      "artists": [
+        {
+          "name": "Peces Raros",
+          "url": "https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201134,
+      "name": "Conexiones",
+      "url": "https://open.spotify.com/track/2qiD6f4p8ryxcCQ5PuJSlp"
+    },
+    {
+      "album": {
         "name": "Corazon de Acero",
         "url": "https://open.spotify.com/album/3BqW7Zt2KkIJaxrqvhyklo"
       },
@@ -928,7 +976,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 278506,
       "name": "Cumbia de la Paz",
       "url": "https://open.spotify.com/track/5qvQItn386BmQV6BBtlfIE"
@@ -1368,6 +1416,28 @@
       "duration_ms": 144148,
       "name": "DOCTOR",
       "url": "https://open.spotify.com/track/5DSMm0BZXlSvqArsTX00Ge"
+    },
+    {
+      "album": {
+        "name": "Dr. Doctor",
+        "url": "https://open.spotify.com/album/3KWUk81qv6TqqSZvfy7QzJ"
+      },
+      "artists": [
+        {
+          "name": "Emi Blue",
+          "url": "https://open.spotify.com/artist/5PqJ1FTbrF7vML9bDQjZ6U"
+        },
+        {
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158769,
+      "name": "Dr. Doctor",
+      "url": "https://open.spotify.com/track/5wEomIRDE8ELPNfXI1NF53"
     },
     {
       "album": {
@@ -2278,7 +2348,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 250958,
       "name": "Guacharaca Reina de la Cumbia - La Reina Guacharaca",
       "url": "https://open.spotify.com/track/2ZvYQaFP7zTAObZwkAkE9N"
@@ -3344,10 +3414,28 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 322063,
       "name": "Llorar y Llorar",
       "url": "https://open.spotify.com/track/1imBpQKlf965zaMpw2u7q1"
+    },
+    {
+      "album": {
+        "name": "LOBA",
+        "url": "https://open.spotify.com/album/1Ic0h49n7cmL16tSgNxYgv"
+      },
+      "artists": [
+        {
+          "name": "Emi Blue",
+          "url": "https://open.spotify.com/artist/5PqJ1FTbrF7vML9bDQjZ6U"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147305,
+      "name": "LOBA",
+      "url": "https://open.spotify.com/track/79qriarcEeWenvlDlPyCtE"
     },
     {
       "album": {
@@ -3672,6 +3760,24 @@
       "duration_ms": 231982,
       "name": "Mi Buen Corazon",
       "url": "https://open.spotify.com/track/1wEIkyWSHXm6U7LXO1jZWi"
+    },
+    {
+      "album": {
+        "name": "LUIS AYALA con norte\u00f1o (en vivo)",
+        "url": "https://open.spotify.com/album/6Zob2JnUQfVMICB72zf1YQ"
+      },
+      "artists": [
+        {
+          "name": "Luis Ayala",
+          "url": "https://open.spotify.com/artist/1dvf1qzaPe9NRqkfp2dArz"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219474,
+      "name": "Mi Ni\u00f1a Bonita - En Vivo",
+      "url": "https://open.spotify.com/track/4CGGDG2ulDs1U3kwNz37p2"
     },
     {
       "album": {

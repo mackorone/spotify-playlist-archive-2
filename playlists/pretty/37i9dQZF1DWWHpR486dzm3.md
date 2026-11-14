@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 
 > Suomi\-indien tuoreimpia helmiä.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,956 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,959 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 | 46 | [Uudestaan](https://open.spotify.com/track/4aGVx9kyw0B3eH5Tr5eUXv) | [Joshua](https://open.spotify.com/artist/6jOZDqxueGiAELIUCmNdAF) | [NDA](https://open.spotify.com/album/0gudgxCFZIk0MOODoIwp7c) | 2:43 |
 | 47 | [Älä pelkää elämää](https://open.spotify.com/track/30TolWVfIheRQVHGq0dYeH) | [Ville Ahonen](https://open.spotify.com/artist/2CBbMl6u2IPskInmzfR92t) | [Älä pelkää elämää](https://open.spotify.com/album/7naMG1eOgit0vKNBMKYn2C) | 4:29 |
 | 48 | [Tuuli](https://open.spotify.com/track/3WmodzeQdtqlh6OUzuBllC) | [Edicti](https://open.spotify.com/artist/5sYAbWJ14L78hv98klUjqS) | [Tuuli](https://open.spotify.com/album/4JNeMo4klFIoX0EhQX4sud) | 3:14 |
-| 49 | [notime…](https://open.spotify.com/track/6qL1c0iuEhxV8a1Rt1l3ww) | [finnjävel](https://open.spotify.com/artist/5YQtvxTvGSShjMTOMyCuPT), [GRANT](https://open.spotify.com/artist/6SkVKlAmIWVD0LQvCGQqSj) | [notime…youshouldbeaskingmeout](https://open.spotify.com/album/3thIn4T4XksDxTHEU1rExU) | 2:19 |
+| 49 | [notime…](https://open.spotify.com/track/6qL1c0iuEhxV8a1Rt1l3ww) | [finnjävel](https://open.spotify.com/artist/5YQtvxTvGSShjMTOMyCuPT), [Grant](https://open.spotify.com/artist/6SkVKlAmIWVD0LQvCGQqSj) | [notime…youshouldbeaskingmeout](https://open.spotify.com/album/3thIn4T4XksDxTHEU1rExU) | 2:19 |
 | 50 | [Falling Out of Grace](https://open.spotify.com/track/5iCPVQrC9d0WjwZqWScSqF) | [Pearly Drops](https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL), [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX), [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme) | [The Voices Became Louder](https://open.spotify.com/album/7k459NSQumr4hllwcUKrJf) | 3:00 |
 | 51 | [daily](https://open.spotify.com/track/0S6Qy2k5Umyj7xY8Wp1d1O) | [niffe](https://open.spotify.com/artist/5anKxAeZ4qdCSYSoZOewwH), [MIQ](https://open.spotify.com/artist/6OXygD3NpYaCwTqURMCcId) | [daily](https://open.spotify.com/album/0PU7ThN95TxW2lkqMVfOn5) | 2:12 |
 | 52 | [Kaikki kääntyy](https://open.spotify.com/track/1CISnkyR74RqSFjayPsvBE) | [HYRYSYSY](https://open.spotify.com/artist/4iV4diBjgL2goSde1Vz00H), [Orvokki](https://open.spotify.com/artist/2hIwNfBlBynlhicFEDBk7e), [mc vatkain](https://open.spotify.com/artist/3S5Upi9G1QoUGz4T6qp0qP) | [Kaikki kääntyy](https://open.spotify.com/album/2VBHyZRJQwZP0rlaWSE5PB) | 3:10 |

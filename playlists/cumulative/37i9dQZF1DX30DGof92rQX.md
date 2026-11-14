@@ -4,7 +4,7 @@
 
 > Latest Pakistani pop releases\. Like this? Listen to the Pop hits in <a href="https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b"> Pakistani Pop</a>\. Cover \- Alan Walker, Hamza Malik, Zain Zohaib, James Arthur
 
-762 songs - 1 day 17 hr 2 min
+763 songs - 1 day 17 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -356,6 +356,7 @@
 | [Khamoshiyan](https://open.spotify.com/track/5gPFmi4oRZ5OUVw8Z2OZZU) | [khalidkhan](https://open.spotify.com/artist/1lRlnbVFAKIvQzclGBSA6j) | [Khamoshiyan](https://open.spotify.com/album/4u8s4kNAftLqvP6Kt5S5QU) | 2:41 | 2026-01-09 | 2026-02-21 |
 | [Khasara](https://open.spotify.com/track/1TWkdQ2k7ysSYwla66Ys6I) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [Samar Jafri](https://open.spotify.com/artist/4UjFSd24FZluVytp1sk7qq) | [Khasara](https://open.spotify.com/album/6YqbrXnmuh8lxNEFeHNOcA) | 2:40 | 2026-03-27 | 2026-06-05 |
 | [KHAT](https://open.spotify.com/track/57wCsgKjm7TNHgvLmyy7ny) | [Farhan Saeed](https://open.spotify.com/artist/1W67L8OH9z7C3b9YJJbVYq), [Hassan Rai](https://open.spotify.com/artist/7mdBGoLdvF4OqvedvcgiuE), [Qasim Dahir](https://open.spotify.com/artist/1yk4ylocCYUE7BP6mwRNar) | [KHAT](https://open.spotify.com/album/0Yc93fOJGWuvjKIoEmsEhV) | 3:20 | 2025-11-14 | 2026-04-25 |
+| [KHAT \- Reprised](https://open.spotify.com/track/6q7YyEYvLkwCsY4dVnUKcd) | [Farhan Saeed](https://open.spotify.com/artist/1W67L8OH9z7C3b9YJJbVYq) | [KHAT \- Reprised](https://open.spotify.com/album/4HS5vRng0Wmgrl4wvWmZOP) | 4:58 | 2026-11-13 |  |
 | [Khata](https://open.spotify.com/track/6VOujvFOuyhQj01UqocGN8) | [Hassan Sheikh](https://open.spotify.com/artist/6rCIl3FfI0CUJQAWPO6GTc), [Zoha Waseem](https://open.spotify.com/artist/20DlRoUeIcVHGEEgYuvvZ8), [AliSoomroMusic](https://open.spotify.com/artist/2hXbxDaLthfodvgEpP6Xpm) | [Khata](https://open.spotify.com/album/6Ax0B5Jm5wkZYiumd41g5k) | 2:34 | 2026-11-13 |  |
 | [Khayaal](https://open.spotify.com/track/772wevNT7Kft3Bn7iBEuOK) | [Ali Mustafa](https://open.spotify.com/artist/7m3Ku1spjnnSy81lVQM0oN), [Daud Raheel](https://open.spotify.com/artist/6NPzI9FlO53oaQmk6Yn2SG), [Jibran Raheel](https://open.spotify.com/artist/5Ziai02jpq91fjNgV6mF9k) | [Khayaal](https://open.spotify.com/album/0VXSJsAas10oeP2HUNefXT) | 2:35 | 2026-09-18 | 2026-11-13 |
 | [KHAYAL](https://open.spotify.com/track/6iLARAw87ATUTrqYx04p1I) | [rizvye](https://open.spotify.com/artist/0MTMRFf0JEdHdVEwrWnrIU) | [KHAYAL](https://open.spotify.com/album/2NxyzyqZL97qnvSIUyEWfr) | 2:50 | 2026-06-05 | 2026-06-12 |

@@ -4,13 +4,13 @@
 
 > This is The Orb\. The essential tracks, all in one playlist.
 
-198 songs - 22 hr 37 min
+199 songs - 22 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [4am Exhale \(Chill Out World!\)](https://open.spotify.com/track/7rzfUCGJIRV4fQ68T07x9A) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [COW / Chill Out, World!](https://open.spotify.com/album/0l5czlo6eYAxcpw95BtPVZ) | 6:03 | 2022-05-29 | 2023-01-14 |
-| [5th Dimensions](https://open.spotify.com/track/3Ntkr1qvo6UVMBuBtOeECM) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [COW / Chill Out, World!](https://open.spotify.com/album/0l5czlo6eYAxcpw95BtPVZ) | 5:15 | 2022-05-31 |  |
-| [7 Oaks](https://open.spotify.com/track/2dJz8zc30GvBOVV1rXhaaE) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [COW / Chill Out, World!](https://open.spotify.com/album/0l5czlo6eYAxcpw95BtPVZ) | 2:19 | 2022-06-03 | 2025-02-16 |
+| [5th Dimensions](https://open.spotify.com/track/3Ntkr1qvo6UVMBuBtOeECM) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [COW / Chill Out, World!](https://open.spotify.com/album/0l5czlo6eYAxcpw95BtPVZ) | 5:15 | 2022-05-31 | 2026-11-14 |
+| [7 Oaks](https://open.spotify.com/track/2dJz8zc30GvBOVV1rXhaaE) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [COW / Chill Out, World!](https://open.spotify.com/album/0l5czlo6eYAxcpw95BtPVZ) | 2:19 | 2022-06-03 |  |
 | [9 elms over river eno \(channel 9\)](https://open.spotify.com/track/36BI2fXvlLxVoJKF9csjE9) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [COW / Chill Out, World!](https://open.spotify.com/album/0l5czlo6eYAxcpw95BtPVZ) | 4:05 | 2022-06-01 | 2026-09-24 |
 | [A Beautiful Day](https://open.spotify.com/track/7Do9MQ2GbPWM28YJ5H0m4s) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [The Dream](https://open.spotify.com/album/7t8f01W2boto0cZcdSbBvD) | 6:48 | 2022-09-06 | 2022-09-09 |
 | [A Cool Dry Place](https://open.spotify.com/track/5b2vSpnqcC7T4F6EiWgZiZ) | [System 7](https://open.spotify.com/artist/2JrTxbnRU8RGKyuyHE8SGP), [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [777](https://open.spotify.com/album/4I1d4Ddu56rNzwoWFS8DLR) | 8:18 | 2022-06-25 | 2022-06-27 |
@@ -41,7 +41,7 @@
 | [Ball of Fire](https://open.spotify.com/track/0LEHV71Ri18k9dsmRslyTI) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF), [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9) | [Presents the Orbserver in the Star House](https://open.spotify.com/album/4CBoRrlyjoHu2yn9EpTVpb) | 4:11 | 2026-06-15 | 2026-10-10 |
 | [Ball of Fire](https://open.spotify.com/track/41Dci0Gdz1RatEXwLEl8z9) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF), [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9) | [Presents the Orbserver in the Star House](https://open.spotify.com/album/6w2RmVdD0JqHDyeYOlzhIm) | 4:11 | 2022-05-29 | 2026-06-15 |
 | [Baraka](https://open.spotify.com/track/5k8yK7Q6asm3jW8EGYxn9V) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Buddhist Hipsters](https://open.spotify.com/album/0qp9tOW3mXLTfVTLbziEif) | 7:06 | 2025-10-12 | 2026-05-25 |
-| [Bedouin](https://open.spotify.com/track/0D657mUEeTbY2nmeNyU2Vq) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Orblivion](https://open.spotify.com/album/7zt3eIX5HaSGMcpsClNKfn) | 4:31 | 2022-06-01 |  |
+| [Bedouin](https://open.spotify.com/track/0D657mUEeTbY2nmeNyU2Vq) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Orblivion](https://open.spotify.com/album/7zt3eIX5HaSGMcpsClNKfn) | 4:31 | 2022-06-01 | 2026-11-14 |
 | [Blue Room \- 7" Mix](https://open.spotify.com/track/6yqPrme30dPVQqUSO8qSHA) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [The Orb \- History Of The Future \(Deluxe Edition\)](https://open.spotify.com/album/7cUZK5ii1GJqR4rYoVflfi) | 3:53 | 2022-05-29 |  |
 | [Captain Korma](https://open.spotify.com/track/07DJhUuoGtBBYatH78k9kO) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Orboretum: The Orb Collection](https://open.spotify.com/album/7tIEBx66gffGNBatufr1jZ) | 5:18 | 2025-02-16 | 2025-03-01 |
 | [Captain Korma](https://open.spotify.com/track/1OH8yc7uDg4pz8CINxrpVz) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Orboretum: The Orb Collection](https://open.spotify.com/album/194FGE9Sv4NPR3PhV5qE4f) | 5:18 | 2024-11-15 | 2024-11-22 |
@@ -174,6 +174,7 @@
 | [Sticky End](https://open.spotify.com/track/7GaAsiIHfeGWWOWTJIxOhc) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [U.F.Orb](https://open.spotify.com/album/2Kn0WVtKYv7bcE3EYk3wRA) | 0:50 | 2026-05-25 |  |
 | [Strong Man's Variations of a Camel Party](https://open.spotify.com/track/5Yxq6XoSEM0nPb1991W7Sn) | [OSS](https://open.spotify.com/artist/4rDMVGigxANzIctI89hCeH), [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Enter the Kettle](https://open.spotify.com/album/6ijPm9fn5hVPo5II2IZOod) | 6:58 | 2022-05-29 | 2022-12-18 |
 | [Super Nova At The End Of The Universe](https://open.spotify.com/track/1QOIvqLUacNvxOBAoA1cDJ) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Adventures Beyond The Ultraworld](https://open.spotify.com/album/0ee1sAau9a2DXQkAyezdwk) | 11:56 | 2022-05-29 |  |
+| [Switch on Leon](https://open.spotify.com/track/261j4FeaxPxoeuPLKG8GPt) | [Jean\-Michel Jarre](https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT), [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Electronica 2: The Heart of Noise](https://open.spotify.com/album/3XWrRy8MDe0ebKa2cuGNMS) | 4:43 | 2026-11-14 |  |
 | [Switch on Leon](https://open.spotify.com/track/5YYjzjQKL32k7pqJmaJRQn) | [Jean\-Michel Jarre](https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT), [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Electronica 2: The Heart of Noise](https://open.spotify.com/album/2Q5Mrul369ojL9N8DWkWQZ) | 4:43 | 2022-05-29 | 2026-11-01 |
 | [The 10 Sultans Of Rudyard \(Moo Moo Mix\)](https://open.spotify.com/track/1LAQpdO8e6MvPpN6lCK0zK) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [COW / Chill Out, World!](https://open.spotify.com/album/0l5czlo6eYAxcpw95BtPVZ) | 3:58 | 2022-05-29 |  |
 | [The Barn](https://open.spotify.com/track/3szxu9hMNEzcEgfZBk7jal) | [Chocolate Hills](https://open.spotify.com/artist/0dDss5kJJRHOoLVjnJPXWF), [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Yarns from the Chocolate Triangle](https://open.spotify.com/album/5sUcXUKA5wS4YWL6IJ61Kv) | 7:04 | 2023-06-17 | 2024-01-29 |

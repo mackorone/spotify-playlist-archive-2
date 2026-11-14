@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuUd3Ffrcx8.md) - [plain]
 
 > 지금 국내에서 떠오르고 있는 팝 음악을 만나보세요! \(커버: Tove Lo\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,834 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,830 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuUd3Ffrcx8.md) - [plain]
 | 2 | [Guts](https://open.spotify.com/track/7CcsXTN6c7DOkF2JOmdC71) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Guts](https://open.spotify.com/album/5BVWDl6DMXN7IgbzTqnFud) | 2:52 |
 | 3 | [Here Then We're Gone](https://open.spotify.com/track/2StTTNEWsqY0hp9D3wKUay) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8), [The Hunger Games](https://open.spotify.com/artist/6UdECsev3yuXe2rfLrdDiF) | [The Hunger Games: Sunrise on the Reaping \- The Album](https://open.spotify.com/album/1XVsmx5SwHTXEowtD5T22L) | 4:06 |
 | 4 | [Torn \(feat\. Dolly Parton\)](https://open.spotify.com/track/28voksbZPIhS2dJV6iLS1h) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Carnaval De Luz](https://open.spotify.com/album/07Q9bUJarYrFjhxofoenM0) | 4:30 |
-| 5 | [Track 3](https://open.spotify.com/track/735s7kB0oA5PXgXtiSZLMG) | [NEW LORE](https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E) | [Very Ancient Way of Crying](https://open.spotify.com/album/3xbauaiHd7Ah6wzGjfmoYo) | 0:00 |
+| 5 | [Sad Girl \(feat\. Ichika Nito & Gabba\)](https://open.spotify.com/track/735s7kB0oA5PXgXtiSZLMG) | [NEW LORE](https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E), [Ichika Nito](https://open.spotify.com/artist/1v7B6ZWa7QRQS3knn3Jvf4), [Gabba](https://open.spotify.com/artist/6tvCQZS4d1wJ9cA9Gl0ZqP) | [Very Ancient Way of Crying](https://open.spotify.com/album/3xbauaiHd7Ah6wzGjfmoYo) | 3:22 |
 | 6 | [Love 4 Me](https://open.spotify.com/track/3WRG5hoYRu6NpOLC4pOBbd) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Unfuckwitable 2](https://open.spotify.com/album/2yjJbrMWRKoYUVLaMbQH7g) | 3:25 |
 | 7 | [Elvis \(feat\. Brendan Yates\)](https://open.spotify.com/track/3K9BQAQcMQRClXvuHsuuwO) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL), [Brendan Yates](https://open.spotify.com/artist/4AJe4qjJG5DrDEN7Ijz6Ar) | [Dream Fatigue](https://open.spotify.com/album/3eHX7aYtV7VxxSZmWBEKPA) | 3:11 |
 | 8 | [CASTING CALL](https://open.spotify.com/track/3El0PldZjIxF1olHHzhUxW) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [HOW TO QUIT SMOKING](https://open.spotify.com/album/4JxUxYheA8Xs2dvEZTWsyg) | 1:56 |

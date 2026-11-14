@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/56ZBiYuSM6W68EojT5WORo">Blush Davis</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-94 songs - 4 hr 41 min
+95 songs - 4 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,8 @@
 | [Manhattan](https://open.spotify.com/track/2FMERdGJeSKefMyz80oYyi) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [SOFI TUKKER](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Telepathy](https://open.spotify.com/album/4fA6Xs32GLxwCWIksGhJIG) | 3:35 | 2026-11-08 |  |
 | [Meaning](https://open.spotify.com/track/1pjHUdacuwY14inKRpcJld) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [\(Me\)moir](https://open.spotify.com/album/1KixiCbpzXKydBJqWiA9kB) | 2:54 | 2025-05-07 |  |
 | [Meaning \- Inst.](https://open.spotify.com/track/4Y5oE4Xn5VMCRce5UgyIkM) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [\(Me\)moir](https://open.spotify.com/album/1KixiCbpzXKydBJqWiA9kB) | 2:54 | 2025-05-07 |  |
-| [Mirror Mirror](https://open.spotify.com/track/0PvZzgz2IjYR3rRDhS4Wxu) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Looks Can Kill \(Alawn Remix Edition\)](https://open.spotify.com/album/0v50ktncrrqM0Cjrgxzb6i) | 3:20 | 2026-11-02 |  |
+| [Mirror Mirror](https://open.spotify.com/track/0PvZzgz2IjYR3rRDhS4Wxu) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Looks Can Kill \(Alawn Remix Edition\)](https://open.spotify.com/album/0v50ktncrrqM0Cjrgxzb6i) | 3:20 | 2026-11-02 | 2026-11-14 |
+| [Mirror Mirror](https://open.spotify.com/track/33FZpwabWJAhBS1huhKwNA) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Looks Can Kill](https://open.spotify.com/album/29iylYBoI7taTmNyvfYygd) | 3:20 | 2026-11-13 |  |
 | [Nine](https://open.spotify.com/track/4MBYWqDACegUtkazjtukJm) | [Ruuth](https://open.spotify.com/artist/6BsONo5WrLwCzPZ2qHKoN4) | [Nine](https://open.spotify.com/album/5CUQHXJ3gW7Dw30QlZPsN2) | 2:39 | 2024-05-01 | 2025-01-15 |
 | [No One Else](https://open.spotify.com/track/7xRNtmOCuXqkm7eRNQsowl) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [A Radiant Sign](https://open.spotify.com/album/5QpbkUhMenmgathlclAcBl) | 3:26 | 2025-01-09 | 2025-04-12 |
 | [Nostalgic](https://open.spotify.com/track/505idOF1JBk7WXlJ75BALj) | [Jordan Jay](https://open.spotify.com/artist/3htJBdRyfwyCTKgpZAj6pY) | [Nostalgic](https://open.spotify.com/album/0ANAg2M3iPZtgDwzQ4sIqk) | 2:20 | 2024-05-01 |  |

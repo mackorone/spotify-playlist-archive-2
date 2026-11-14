@@ -1,6 +1,6 @@
 {
   "description": "Embrace the spirit of the season your favorite Americana artists.",
-  "num_followers": 9261,
+  "num_followers": 9337,
   "original_name": "Americana Christmas",
   "owner": {
     "name": "Spotify",
@@ -27,22 +27,6 @@
     {
       "added_at": "2026-11-13 05:01:57",
       "album": {
-        "name": "A Very Special Christmas 2",
-        "url": "https://open.spotify.com/album/2GNgVTfKQEKi4k5RMjoQkM"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 254200,
-      "name": "Christmas All Over Again",
-      "url": "https://open.spotify.com/track/30SNjazZhzunhAWCjhdyyD"
-    },
-    {
-      "added_at": "2026-11-13 05:01:57",
-      "album": {
         "name": "Pretty Paper",
         "url": "https://open.spotify.com/album/32QtuDgjI7DyC2Qml2XdOS"
       },
@@ -59,6 +43,22 @@
       "duration_ms": 233280,
       "name": "Pretty Paper",
       "url": "https://open.spotify.com/track/54fafGLl0DJqbYtTSwOkZh"
+    },
+    {
+      "added_at": "2026-11-13 05:01:57",
+      "album": {
+        "name": "A Very Special Christmas 2",
+        "url": "https://open.spotify.com/album/2GNgVTfKQEKi4k5RMjoQkM"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 254200,
+      "name": "Christmas All Over Again",
+      "url": "https://open.spotify.com/track/30SNjazZhzunhAWCjhdyyD"
     },
     {
       "added_at": "2026-11-13 05:01:57",
@@ -179,26 +179,6 @@
     {
       "added_at": "2026-11-13 05:01:57",
       "album": {
-        "name": "December Song",
-        "url": "https://open.spotify.com/album/4oepkwqAEiysj5ObhWFNUK"
-      },
-      "artists": [
-        {
-          "name": "Birdtalker",
-          "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt"
-        },
-        {
-          "name": "Joy Williams",
-          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
-        }
-      ],
-      "duration_ms": 215280,
-      "name": "December Song",
-      "url": "https://open.spotify.com/track/6jmtD3wBCznMagjURJHVBx"
-    },
-    {
-      "added_at": "2026-11-13 05:01:57",
-      "album": {
         "name": "The Light Of Christmas Day (From \"Love The Coopers\" Soundtrack)",
         "url": "https://open.spotify.com/album/3B9kzvGmlBGIe7OBKpo5xJ"
       },
@@ -215,6 +195,26 @@
       "duration_ms": 206480,
       "name": "The Light Of Christmas Day - From \"Love The Coopers\" Soundtrack",
       "url": "https://open.spotify.com/track/1UwnjTHeagqBKTmFMe9CwF"
+    },
+    {
+      "added_at": "2026-11-13 05:01:57",
+      "album": {
+        "name": "December Song",
+        "url": "https://open.spotify.com/album/4oepkwqAEiysj5ObhWFNUK"
+      },
+      "artists": [
+        {
+          "name": "Birdtalker",
+          "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt"
+        },
+        {
+          "name": "Joy Williams",
+          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
+        }
+      ],
+      "duration_ms": 215280,
+      "name": "December Song",
+      "url": "https://open.spotify.com/track/6jmtD3wBCznMagjURJHVBx"
     },
     {
       "added_at": "2026-11-13 05:01:57",
@@ -315,22 +315,6 @@
     {
       "added_at": "2026-11-13 05:01:57",
       "album": {
-        "name": "A Dotted Line",
-        "url": "https://open.spotify.com/album/3ujidZyCiCruwocS0bDmt2"
-      },
-      "artists": [
-        {
-          "name": "Nickel Creek",
-          "url": "https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ"
-        }
-      ],
-      "duration_ms": 262786,
-      "name": "Christmas Eve",
-      "url": "https://open.spotify.com/track/2V3w0JAQYU39IgTlHGMAXZ"
-    },
-    {
-      "added_at": "2026-11-13 05:01:57",
-      "album": {
         "name": "The Johnny Cash Family Christmas",
         "url": "https://open.spotify.com/album/6IzlXNgiKR8HIZT5aK2Oqd"
       },
@@ -351,6 +335,22 @@
     {
       "added_at": "2026-11-13 05:01:57",
       "album": {
+        "name": "Every Day Will Be Like A Holiday",
+        "url": "https://open.spotify.com/album/5P8GsBhwdeR0BWF8E3ZzUL"
+      },
+      "artists": [
+        {
+          "name": "The Band Loula",
+          "url": "https://open.spotify.com/artist/3BkvqhICmG3IyD4z9xGu7i"
+        }
+      ],
+      "duration_ms": 200266,
+      "name": "Every Day Will Be Like A Holiday",
+      "url": "https://open.spotify.com/track/7atdNxVyqvUr9rx9gopbEZ"
+    },
+    {
+      "added_at": "2026-11-13 05:01:57",
+      "album": {
         "name": "Live From BBC Radio 2",
         "url": "https://open.spotify.com/album/70nPdV7ZMFzddatb5WjgrE"
       },
@@ -367,18 +367,18 @@
     {
       "added_at": "2026-11-13 05:01:57",
       "album": {
-        "name": "Every Day Will Be Like A Holiday",
-        "url": "https://open.spotify.com/album/5P8GsBhwdeR0BWF8E3ZzUL"
+        "name": "A Dotted Line",
+        "url": "https://open.spotify.com/album/3ujidZyCiCruwocS0bDmt2"
       },
       "artists": [
         {
-          "name": "The Band Loula",
-          "url": "https://open.spotify.com/artist/3BkvqhICmG3IyD4z9xGu7i"
+          "name": "Nickel Creek",
+          "url": "https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ"
         }
       ],
-      "duration_ms": 200266,
-      "name": "Every Day Will Be Like A Holiday",
-      "url": "https://open.spotify.com/track/7atdNxVyqvUr9rx9gopbEZ"
+      "duration_ms": 262786,
+      "name": "Christmas Eve",
+      "url": "https://open.spotify.com/track/2V3w0JAQYU39IgTlHGMAXZ"
     },
     {
       "added_at": "2026-11-13 05:01:57",
@@ -411,22 +411,6 @@
       "duration_ms": 252388,
       "name": "Merry Christmas Mary Jane",
       "url": "https://open.spotify.com/track/7DsdX05nPIdeUKK3xMnjFS"
-    },
-    {
-      "added_at": "2026-11-13 05:01:57",
-      "album": {
-        "name": "Rockin' Around The Christmas Tree / Jingle Bell Rock",
-        "url": "https://open.spotify.com/album/0g4mDVf9xNJzzL6stSLRAN"
-      },
-      "artists": [
-        {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
-        }
-      ],
-      "duration_ms": 143909,
-      "name": "Jingle Bell Rock",
-      "url": "https://open.spotify.com/track/5J4d2HZ7MN8l8ue83VTiGS"
     },
     {
       "added_at": "2026-11-13 05:01:57",
@@ -467,6 +451,22 @@
       "duration_ms": 191959,
       "name": "Merry Christmas Darling",
       "url": "https://open.spotify.com/track/00J60e6s8QVW5cbhjBzYgk"
+    },
+    {
+      "added_at": "2026-11-13 05:01:57",
+      "album": {
+        "name": "Rockin' Around The Christmas Tree / Jingle Bell Rock",
+        "url": "https://open.spotify.com/album/0g4mDVf9xNJzzL6stSLRAN"
+      },
+      "artists": [
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        }
+      ],
+      "duration_ms": 143909,
+      "name": "Jingle Bell Rock",
+      "url": "https://open.spotify.com/track/5J4d2HZ7MN8l8ue83VTiGS"
     },
     {
       "added_at": "2026-11-13 05:01:57",
@@ -619,6 +619,22 @@
     {
       "added_at": "2026-11-13 05:01:57",
       "album": {
+        "name": "Christmas Grass - The Collection",
+        "url": "https://open.spotify.com/album/2D2t6OQacfD3XgKM2HlGOp"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "duration_ms": 194960,
+      "name": "One Bright Star",
+      "url": "https://open.spotify.com/track/1AArIMr7UDV8HJ7kS50zP1"
+    },
+    {
+      "added_at": "2026-11-13 05:01:57",
+      "album": {
         "name": "I Heard the Bells",
         "url": "https://open.spotify.com/album/3inmUzW5uliXu4hNQdpDUl"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 149853,
       "name": "I Heard the Bells on Christmas Day",
       "url": "https://open.spotify.com/track/3u7aseV74piywxb3SeFtWt"
-    },
-    {
-      "added_at": "2026-11-13 05:01:57",
-      "album": {
-        "name": "Christmas Grass - The Collection",
-        "url": "https://open.spotify.com/album/2D2t6OQacfD3XgKM2HlGOp"
-      },
-      "artists": [
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        }
-      ],
-      "duration_ms": 194960,
-      "name": "One Bright Star",
-      "url": "https://open.spotify.com/track/1AArIMr7UDV8HJ7kS50zP1"
     },
     {
       "added_at": "2026-11-13 05:01:57",
@@ -687,22 +687,6 @@
     {
       "added_at": "2026-11-13 05:01:57",
       "album": {
-        "name": "The Devil You Know",
-        "url": "https://open.spotify.com/album/4ftjmx3yacX5yEvFXlc8Pk"
-      },
-      "artists": [
-        {
-          "name": "Todd Snider",
-          "url": "https://open.spotify.com/artist/6uXJm6sZx9IVPrN2laTOP5"
-        }
-      ],
-      "duration_ms": 232840,
-      "name": "Happy New Year",
-      "url": "https://open.spotify.com/track/6xK0xnWFCZBXZ8ftz0CFqP"
-    },
-    {
-      "added_at": "2026-11-13 05:01:57",
-      "album": {
         "name": "Santa Man / Hot Christmas",
         "url": "https://open.spotify.com/album/7x65DcvdHpNES1QBQCXqhN"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 207735,
       "name": "Hard Candy Christmas",
       "url": "https://open.spotify.com/track/70z0rebvMVZNPJwB2LYC8u"
+    },
+    {
+      "added_at": "2026-11-13 05:01:57",
+      "album": {
+        "name": "The Devil You Know",
+        "url": "https://open.spotify.com/album/4ftjmx3yacX5yEvFXlc8Pk"
+      },
+      "artists": [
+        {
+          "name": "Todd Snider",
+          "url": "https://open.spotify.com/artist/6uXJm6sZx9IVPrN2laTOP5"
+        }
+      ],
+      "duration_ms": 232840,
+      "name": "Happy New Year",
+      "url": "https://open.spotify.com/track/6xK0xnWFCZBXZ8ftz0CFqP"
     },
     {
       "added_at": "2026-11-13 05:01:57",
@@ -819,26 +819,6 @@
     {
       "added_at": "2026-11-13 05:01:57",
       "album": {
-        "name": "The Sweetest Season",
-        "url": "https://open.spotify.com/album/21Pf0DS5gAEkosJmfB3kmj"
-      },
-      "artists": [
-        {
-          "name": "Nicole Atkins",
-          "url": "https://open.spotify.com/artist/4ab2tQaaTr2TnairelOwvO"
-        },
-        {
-          "name": "Teddy Morgan",
-          "url": "https://open.spotify.com/artist/2JZSVgCSD6OJrfey6lggwU"
-        }
-      ],
-      "duration_ms": 168565,
-      "name": "The Sweetest Season",
-      "url": "https://open.spotify.com/track/1PdXxmrUn3iOl399I12cku"
-    },
-    {
-      "added_at": "2026-11-13 05:01:57",
-      "album": {
         "name": "I Heard The Bells on Christmas Day",
         "url": "https://open.spotify.com/album/4o5J8wjJkPOhvDQoVLBGVe"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 189360,
       "name": "I Heard The Bells on Christmas Day",
       "url": "https://open.spotify.com/track/3Oi83xSgtotKahPSTUFdH3"
+    },
+    {
+      "added_at": "2026-11-13 05:01:57",
+      "album": {
+        "name": "The Sweetest Season",
+        "url": "https://open.spotify.com/album/21Pf0DS5gAEkosJmfB3kmj"
+      },
+      "artists": [
+        {
+          "name": "Nicole Atkins",
+          "url": "https://open.spotify.com/artist/4ab2tQaaTr2TnairelOwvO"
+        },
+        {
+          "name": "Teddy Morgan",
+          "url": "https://open.spotify.com/artist/2JZSVgCSD6OJrfey6lggwU"
+        }
+      ],
+      "duration_ms": 168565,
+      "name": "The Sweetest Season",
+      "url": "https://open.spotify.com/track/1PdXxmrUn3iOl399I12cku"
     }
   ],
   "unique_name": "Americana Christmas",

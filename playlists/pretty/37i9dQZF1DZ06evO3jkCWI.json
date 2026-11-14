@@ -1,12 +1,12 @@
 {
   "description": "This is Los Invasores De Nuevo Le\u00f3n. The essential tracks, all in one playlist.",
-  "num_followers": 206752,
+  "num_followers": 206796,
   "original_name": "This Is Los Invasores De Nuevo Le\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avOwAAAAAAC+lAcTKAqg7LYS7hBJmA5s",
+  "snapshot_id": "avUBgAAAAABnXn7VL/NIkh79vt0ggpwG",
   "tracks": [
     {
       "added_at": null,
@@ -271,22 +271,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Es Demasiado Tarde",
-        "url": "https://open.spotify.com/album/3RhITFDOGFitmcOtfUE2Kx"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 187613,
-      "name": "Lo Callar\u00e9",
-      "url": "https://open.spotify.com/track/4yhcbZ7HZxK1UI5SOAEdlC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ventanas Al Viento",
         "url": "https://open.spotify.com/album/6KkN3P3M0gqz7IeiejsZwE"
       },
@@ -303,8 +287,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos De Pegue",
-        "url": "https://open.spotify.com/album/2iStr0qc3jeFmGeud0h29Q"
+        "name": "Es Demasiado Tarde",
+        "url": "https://open.spotify.com/album/3RhITFDOGFitmcOtfUE2Kx"
       },
       "artists": [
         {
@@ -312,9 +296,9 @@
           "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
         }
       ],
-      "duration_ms": 211200,
-      "name": "El Subteniente De Linares",
-      "url": "https://open.spotify.com/track/2BYl5gcl27mUpslIRy8MUX"
+      "duration_ms": 187613,
+      "name": "Lo Callar\u00e9",
+      "url": "https://open.spotify.com/track/4yhcbZ7HZxK1UI5SOAEdlC"
     },
     {
       "added_at": null,
@@ -335,8 +319,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Rindo",
-        "url": "https://open.spotify.com/album/5Jeg7MzgKFXenbJAcD64Hj"
+        "name": "Corridos De Pegue",
+        "url": "https://open.spotify.com/album/2iStr0qc3jeFmGeud0h29Q"
       },
       "artists": [
         {
@@ -344,9 +328,9 @@
           "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
         }
       ],
-      "duration_ms": 189493,
-      "name": "Esta Noche Tu Vendr\u00e1s",
-      "url": "https://open.spotify.com/track/2wHcALEBx39LP7ziwlHkSQ"
+      "duration_ms": 211200,
+      "name": "El Subteniente De Linares",
+      "url": "https://open.spotify.com/track/2BYl5gcl27mUpslIRy8MUX"
     },
     {
       "added_at": null,
@@ -363,6 +347,22 @@
       "duration_ms": 186573,
       "name": "Ni Dada La Quiero",
       "url": "https://open.spotify.com/track/30OPXBFUQcldoejVcGvwDv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me Rindo",
+        "url": "https://open.spotify.com/album/5Jeg7MzgKFXenbJAcD64Hj"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 189493,
+      "name": "Esta Noche Tu Vendr\u00e1s",
+      "url": "https://open.spotify.com/track/2wHcALEBx39LP7ziwlHkSQ"
     },
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mil Pedazos",
-        "url": "https://open.spotify.com/album/1ZJRBIV1t8h1BkiuQeEt36"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 194506,
-      "name": "Me Refiero A T\u00ed",
-      "url": "https://open.spotify.com/track/2XXODc6DG0sBs3uhiXQQpq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Es Demasiado Tarde",
         "url": "https://open.spotify.com/album/3RhITFDOGFitmcOtfUE2Kx"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 168160,
       "name": "Vete Con El",
       "url": "https://open.spotify.com/track/6UV3lfi399R9Gp9RvWCBbE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mil Pedazos",
+        "url": "https://open.spotify.com/album/1ZJRBIV1t8h1BkiuQeEt36"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 194506,
+      "name": "Me Refiero A T\u00ed",
+      "url": "https://open.spotify.com/track/2XXODc6DG0sBs3uhiXQQpq"
     },
     {
       "added_at": null,
@@ -691,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trono Caido",
-        "url": "https://open.spotify.com/album/6HwoWKpl3PhOrCfvueiHEb"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 186893,
-      "name": "Coraz\u00f3n De Oro",
-      "url": "https://open.spotify.com/track/0QLxVp77k6Ioz6qSBjUPUL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Es Demasiado Tarde",
         "url": "https://open.spotify.com/album/3RhITFDOGFitmcOtfUE2Kx"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 186173,
       "name": "Distancia Maldita",
       "url": "https://open.spotify.com/track/3RhNtiTs0FwK9RpZpP7Xf8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trono Caido",
+        "url": "https://open.spotify.com/album/6HwoWKpl3PhOrCfvueiHEb"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 186893,
+      "name": "Coraz\u00f3n De Oro",
+      "url": "https://open.spotify.com/track/0QLxVp77k6Ioz6qSBjUPUL"
     },
     {
       "added_at": null,
@@ -739,22 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Flor De Naranjo",
-        "url": "https://open.spotify.com/album/5phLi5dStR0wTk1hGYC2Q3"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 150973,
-      "name": "El Amor De Nosotros",
-      "url": "https://open.spotify.com/track/2APZe1mAUx8lMfFVP2f7AA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "15 Boleros De Oro",
         "url": "https://open.spotify.com/album/3tTkjFxSMIyKTi3KgnqgpT"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 158893,
       "name": "La Vieja Banca",
       "url": "https://open.spotify.com/track/48sgC9LwPwCUBR4MpuVW0R"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mi Flor De Naranjo",
+        "url": "https://open.spotify.com/album/5phLi5dStR0wTk1hGYC2Q3"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 150973,
+      "name": "El Amor De Nosotros",
+      "url": "https://open.spotify.com/track/2APZe1mAUx8lMfFVP2f7AA"
     },
     {
       "added_at": null,
@@ -803,18 +803,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jard\u00edn Del Amor",
-        "url": "https://open.spotify.com/album/2iZQVldZBZhB7uz4XVtl8M"
+        "name": "Cielo",
+        "url": "https://open.spotify.com/album/2AEpGBgtmhI43nm7P2VWgI"
       },
       "artists": [
+        {
+          "name": "Los Regios",
+          "url": "https://open.spotify.com/artist/6ComYuBDvewAezU7Va3DoU"
+        },
         {
           "name": "Los Invasores De Nuevo Le\u00f3n",
           "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
         }
       ],
-      "duration_ms": 214040,
-      "name": "Dios No Lo Quiera",
-      "url": "https://open.spotify.com/track/4AS7TdXyndLscNSLybJuA9"
+      "duration_ms": 179351,
+      "name": "Cielo",
+      "url": "https://open.spotify.com/track/0OaJyJ4jdnTJB74VwhhEZ0"
     }
   ],
   "unique_name": "This Is Los Invasores De Nuevo Le\u00f3n",

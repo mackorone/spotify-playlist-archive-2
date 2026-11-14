@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Don Toliver, Fall Out Boy, 2hollis, Ella Langley, and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,653,696 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,657,061 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,10 +14,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 4 | [Daisy](https://open.spotify.com/track/6Y98b7FYCZkd3JX3diPzd0) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [Pirouette](https://open.spotify.com/album/6TnYUZpDRbl6GiREL8Md4F) | 4:12 |
 | 5 | [Torn \(feat\. Dolly Parton\)](https://open.spotify.com/track/28voksbZPIhS2dJV6iLS1h) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Carnaval De Luz](https://open.spotify.com/album/07Q9bUJarYrFjhxofoenM0) | 4:30 |
 | 6 | [Supernova](https://open.spotify.com/track/5UQPo4DofgIrrSZfliJYKR) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Legendary Love](https://open.spotify.com/album/74ExA1UleSA3kSC0TyNObv) | 2:51 |
-| 7 | [Why Not \(feat\. Quavo & Loe Shimmy\)](https://open.spotify.com/track/3ag3REuwHRHF8kYQffQ8pn) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax) | [GMFU](https://open.spotify.com/album/0sjhU3kzHU2dfd6SVrzLIp) | 2:49 |
+| 7 | [Why Not? \(feat\. Quavo & Loe Shimmy\)](https://open.spotify.com/track/3ag3REuwHRHF8kYQffQ8pn) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax) | [GMFU](https://open.spotify.com/album/0sjhU3kzHU2dfd6SVrzLIp) | 2:49 |
 | 8 | [Land](https://open.spotify.com/track/7MB1tKZya7KsesEn5F1XkD) | [Emma Ogier](https://open.spotify.com/artist/7lVBH2nQlHcpcU4RiY7izm) | [Fly 1111](https://open.spotify.com/album/6tq0sS8PvlJMBWEXGn70fM) | 3:25 |
 | 9 | [HERETIC](https://open.spotify.com/track/5u74bjEr8UeSVFcBAcYGtP) | [PEGGY](https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh) | [ONCE UPON A TIME](https://open.spotify.com/album/6EdSkWoFNcsrKV4tRPlzmq) | 3:16 |
-| 10 | [Ya Hit \(feat\. Drake, Travis Scott & Loe Shimmy\)](https://open.spotify.com/track/61UOGggnjjUPZOXyv2umKm) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax) | [Ya Hit \(feat\. Drake, Travis Scott & Loe Shimmy\)](https://open.spotify.com/album/2RYvIKnnwUybUvUtj0sQil) | 3:33 |
+| 10 | [Ya Hit \(feat\. Drake, Travis Scott & Loe Shimmy\)](https://open.spotify.com/track/76jR5C9oKb1DJR3rab6dGV) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax) | [Ya Hit \(feat\. Drake, Travis Scott & Loe Shimmy\)](https://open.spotify.com/album/5KXRJdjRBZMPrmvt4EgXAd) | 3:34 |
 | 11 | [Trophy](https://open.spotify.com/track/1I2QdqvSz7AeMPVZJheUcj) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Trophy](https://open.spotify.com/album/3GKB75ijlo1b33UVr809hQ) | 4:05 |
 | 12 | [Girl of the moment](https://open.spotify.com/track/1F7xMt8gQywT4aJ2Vi8eZj) | [Say Now](https://open.spotify.com/artist/1p6HheoJqfYMiMC62yQIWn) | [Say what you see](https://open.spotify.com/album/2H9148vrCwSS9qB0SIv5xp) | 3:35 |
 | 13 | [Eternity \(feat\. Emi Grace\)](https://open.spotify.com/track/6CwEB6vhbFxiX5JaOzpWM5) | [Levity](https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C), [Emi Grace](https://open.spotify.com/artist/0U6MHJ9KRB5A1M7iHN06sS) | [Escapism Vol\. II](https://open.spotify.com/album/4aqUvBOO4ieaXIuXDrvAW2) | 3:25 |
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 70 | [Love Is Gone](https://open.spotify.com/track/7xyDs0qioJ7pbEVbsyWobe) | [EJ Jones](https://open.spotify.com/artist/1Ub0AUonKoIZuFvy1WZbIC) | [Luh Mo’ Love](https://open.spotify.com/album/1xiZuYFl2ZVHkH8ElnU54h) | 4:11 |
 | 71 | [Take What You Need](https://open.spotify.com/track/06Fg5OKkRBN4HxzTzT0uLt) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [Take What You Need](https://open.spotify.com/album/6mKaexnVCCwdcaK2gGRxjX) | 2:44 |
 | 72 | [Make It Make Sense \(feat\. Sule, Flames Dot Malik\)](https://open.spotify.com/track/5Pd2jMGCHc1ajzJpXSn23d) | [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [Black Soprano Family](https://open.spotify.com/artist/3s7WzrEs4FkNObqj4WyfQm), [Fuego Base](https://open.spotify.com/artist/03JNNveCVBRkLGvhmJfxPO), [Sule](https://open.spotify.com/artist/2uukp6np78iK1wYKFF9R8m), [Flames Dot Malik](https://open.spotify.com/artist/3fTdETUtESGiSOh95gOQeI) | [A Friend of Ours 2](https://open.spotify.com/album/2oFTmdKaO1UZxdX6lGdggx) | 4:26 |
-| 73 | [HONEYMOON](https://open.spotify.com/track/5U5Q1UpVA6T8TnJl8ehgXG) | [EJ Ross](https://open.spotify.com/artist/3yZJfp37SK7V6yHh3oAGoB) | [SUNRISE & SUNSETS \(Waterfall\)](https://open.spotify.com/album/4C2CtLMLk3x2KCTzY7b9by) | 2:05 |
+| 73 | [SUNRISE & SUNSETS](https://open.spotify.com/track/6J5p839wuK7HVilHTmbpMO) | [EJ Ross](https://open.spotify.com/artist/3yZJfp37SK7V6yHh3oAGoB) | [SUNRISE & SUNSETS](https://open.spotify.com/album/4C2CtLMLk3x2KCTzY7b9by) | 3:14 |
 | 74 | [Drop Anchor Here](https://open.spotify.com/track/5za25Jtm5rdrKKHKoAMJEa) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Drop Anchor Here](https://open.spotify.com/album/1dbEt8HquK1ogAVXcPV3ve) | 3:23 |
 | 75 | [Raincloud](https://open.spotify.com/track/0Jav156DAaylog9r2iZ218) | [Grace Power](https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP) | [Act I: Smoke and Mirrors](https://open.spotify.com/album/4PiWkJgemt6XPNL5NnQ99Y) | 2:53 |
 | 76 | [YES](https://open.spotify.com/track/00AOxFmaoLC1ZCVm3GGx9z) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL) | [YES](https://open.spotify.com/album/0FiarOgpwaZ18ZvTy7dlXc) | 3:10 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 99 | [Tulips](https://open.spotify.com/track/4DBuOW3dsfxnky8KqLKdRm) | [Karly Bowman](https://open.spotify.com/artist/6pMnomeWng0MECHaNIYBY6) | [Tulips](https://open.spotify.com/album/3YMgvKKKeyS17ZYRWmu0u8) | 3:13 |
 | 100 | [Backseat](https://open.spotify.com/track/31KsU3qjA8eQ5Kh9YQ9Cqt) | [breakkaway](https://open.spotify.com/artist/5z5HaEaQY18oRwCuIXf826) | [It all feels the same from afar](https://open.spotify.com/album/0Wj5EYtvHmqW0OC8gKtoVC) | 2:14 |
 
-Snapshot ID: `AAAAADvGuZ5MgsKA8kH3QlM0PbiqO2Pl`
+Snapshot ID: `AAAAADntjn4b5LhbGPKGRN9iwqtywZHE`

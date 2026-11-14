@@ -1,6 +1,6 @@
 {
   "description": "New makes old. Cover: Paige Plaisance",
-  "num_followers": 316066,
+  "num_followers": 316074,
   "original_name": "Vintage Vibes",
   "owner": {
     "name": "Spotify",
@@ -143,22 +143,6 @@
     {
       "added_at": "2026-09-11 04:01:25",
       "album": {
-        "name": "Already Gone",
-        "url": "https://open.spotify.com/album/4BYINxlhcfs2WcQ4hobhou"
-      },
-      "artists": [
-        {
-          "name": "Orville Peck",
-          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
-        }
-      ],
-      "duration_ms": 169351,
-      "name": "Already Gone",
-      "url": "https://open.spotify.com/track/6gwHZtCuKWycRdgyBGsIlj"
-    },
-    {
-      "added_at": "2026-09-11 04:01:25",
-      "album": {
         "name": "Mood Swings",
         "url": "https://open.spotify.com/album/319oKHutG8MS3EFFUF00Th"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 263933,
       "name": "Delilah",
       "url": "https://open.spotify.com/track/0uKRoLqNIs76XJOgCqAc2c"
+    },
+    {
+      "added_at": "2026-09-11 04:01:25",
+      "album": {
+        "name": "Already Gone",
+        "url": "https://open.spotify.com/album/4BYINxlhcfs2WcQ4hobhou"
+      },
+      "artists": [
+        {
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+        }
+      ],
+      "duration_ms": 169351,
+      "name": "Already Gone",
+      "url": "https://open.spotify.com/track/6gwHZtCuKWycRdgyBGsIlj"
     },
     {
       "added_at": "2026-09-11 04:01:25",
@@ -191,22 +191,6 @@
     {
       "added_at": "2026-09-11 04:01:25",
       "album": {
-        "name": "Songs About You",
-        "url": "https://open.spotify.com/album/75zGvMsabnuDzWZmhY5duZ"
-      },
-      "artists": [
-        {
-          "name": "Solon Holt",
-          "url": "https://open.spotify.com/artist/6gcXckLQicjC4KJQi00EMz"
-        }
-      ],
-      "duration_ms": 187976,
-      "name": "Mellow",
-      "url": "https://open.spotify.com/track/2PD23eZV0pO15j27UCmISk"
-    },
-    {
-      "added_at": "2026-09-11 04:01:25",
-      "album": {
         "name": "Tequila or Whiskey",
         "url": "https://open.spotify.com/album/0XBrVw8ciKPQK2IIcLWexj"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 133695,
       "name": "Tequila or Whiskey",
       "url": "https://open.spotify.com/track/6O2a8YfuHdfXrdGUvgzjJc"
+    },
+    {
+      "added_at": "2026-09-11 04:01:25",
+      "album": {
+        "name": "Songs About You",
+        "url": "https://open.spotify.com/album/75zGvMsabnuDzWZmhY5duZ"
+      },
+      "artists": [
+        {
+          "name": "Solon Holt",
+          "url": "https://open.spotify.com/artist/6gcXckLQicjC4KJQi00EMz"
+        }
+      ],
+      "duration_ms": 187976,
+      "name": "Mellow",
+      "url": "https://open.spotify.com/track/2PD23eZV0pO15j27UCmISk"
     },
     {
       "added_at": "2026-09-11 04:01:25",
@@ -239,22 +239,6 @@
     {
       "added_at": "2026-09-11 04:01:25",
       "album": {
-        "name": "I Wanna Be Bad",
-        "url": "https://open.spotify.com/album/6snIP2jUiHg8laMBGmd9rD"
-      },
-      "artists": [
-        {
-          "name": "Kaitlin Butts",
-          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
-        }
-      ],
-      "duration_ms": 157130,
-      "name": "I Wanna Be Bad",
-      "url": "https://open.spotify.com/track/7uxmDjx4P4KSMLI2mXwZeF"
-    },
-    {
-      "added_at": "2026-09-11 04:01:25",
-      "album": {
         "name": "Luke Bell",
         "url": "https://open.spotify.com/album/5gtzbumKYEG1Uz4BvB8hbj"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 209826,
       "name": "Where Ya Been?",
       "url": "https://open.spotify.com/track/5FBjLI91XAAfkJIObf6lvV"
+    },
+    {
+      "added_at": "2026-09-11 04:01:25",
+      "album": {
+        "name": "I Wanna Be Bad",
+        "url": "https://open.spotify.com/album/6snIP2jUiHg8laMBGmd9rD"
+      },
+      "artists": [
+        {
+          "name": "Kaitlin Butts",
+          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
+        }
+      ],
+      "duration_ms": 157130,
+      "name": "I Wanna Be Bad",
+      "url": "https://open.spotify.com/track/7uxmDjx4P4KSMLI2mXwZeF"
     },
     {
       "added_at": "2026-09-11 04:01:25",
@@ -627,22 +627,6 @@
     {
       "added_at": "2026-09-11 04:01:25",
       "album": {
-        "name": "Love You To Death",
-        "url": "https://open.spotify.com/album/5tOcCToOYUOqXMst37Dkpp"
-      },
-      "artists": [
-        {
-          "name": "Twin Temple",
-          "url": "https://open.spotify.com/artist/5NYEE4kgrEZPlM3DxUsTyc"
-        }
-      ],
-      "duration_ms": 204461,
-      "name": "Love You To Death",
-      "url": "https://open.spotify.com/track/5dLMxhgU5uKhx8AweN7UAk"
-    },
-    {
-      "added_at": "2026-09-11 04:01:25",
-      "album": {
         "name": "The Returner",
         "url": "https://open.spotify.com/album/1gQi88Gj1UGV8ZBzYJjJ3i"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 184558,
       "name": "Jeremiah",
       "url": "https://open.spotify.com/track/6DVPXh16r4Bl1V1SINfFeB"
+    },
+    {
+      "added_at": "2026-09-11 04:01:25",
+      "album": {
+        "name": "Love You To Death",
+        "url": "https://open.spotify.com/album/5tOcCToOYUOqXMst37Dkpp"
+      },
+      "artists": [
+        {
+          "name": "Twin Temple",
+          "url": "https://open.spotify.com/artist/5NYEE4kgrEZPlM3DxUsTyc"
+        }
+      ],
+      "duration_ms": 204461,
+      "name": "Love You To Death",
+      "url": "https://open.spotify.com/track/5dLMxhgU5uKhx8AweN7UAk"
     },
     {
       "added_at": "2026-09-11 04:01:25",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2026-09-11 04:01:25",
       "album": {
-        "name": "This Masquerade",
-        "url": "https://open.spotify.com/album/1otvDymvVShCQLgSWp869e"
-      },
-      "artists": [
-        {
-          "name": "Orville Peck",
-          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
-        }
-      ],
-      "duration_ms": 192750,
-      "name": "This Masquerade",
-      "url": "https://open.spotify.com/track/6NqwctQ0JPaXCwXKZk5wDL"
-    },
-    {
-      "added_at": "2026-09-11 04:01:25",
-      "album": {
         "name": "Lost in a Dream",
         "url": "https://open.spotify.com/album/0lG1BLwuidgVuiAHmQYmJq"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 287058,
       "name": "Hold The Door",
       "url": "https://open.spotify.com/track/2DRuowrzKYz6tmTmGPf97X"
+    },
+    {
+      "added_at": "2026-09-11 04:01:25",
+      "album": {
+        "name": "This Masquerade",
+        "url": "https://open.spotify.com/album/1otvDymvVShCQLgSWp869e"
+      },
+      "artists": [
+        {
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+        }
+      ],
+      "duration_ms": 192750,
+      "name": "This Masquerade",
+      "url": "https://open.spotify.com/track/6NqwctQ0JPaXCwXKZk5wDL"
     },
     {
       "added_at": "2026-09-11 04:01:25",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2026-09-11 04:01:25",
       "album": {
-        "name": "Country Is Dead",
-        "url": "https://open.spotify.com/album/6t4rT7Qbt37ywsB3BUXHsN"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Tod",
-          "url": "https://open.spotify.com/artist/30hVqCpEQ8gBRdNvgWMr20"
-        }
-      ],
-      "duration_ms": 216800,
-      "name": "Turn This Thing Around",
-      "url": "https://open.spotify.com/track/1vJSVNznOVvvpEDkfSS9Wc"
-    },
-    {
-      "added_at": "2026-09-11 04:01:25",
-      "album": {
         "name": "Fuck With Sad Girls",
         "url": "https://open.spotify.com/album/42QRkIDihCyPWIrsYVgWni"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 278546,
       "name": "Fuck With Sad Girls",
       "url": "https://open.spotify.com/track/68oChP7L8vv9Oy7ekk1DcV"
+    },
+    {
+      "added_at": "2026-09-11 04:01:25",
+      "album": {
+        "name": "Country Is Dead",
+        "url": "https://open.spotify.com/album/6t4rT7Qbt37ywsB3BUXHsN"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Tod",
+          "url": "https://open.spotify.com/artist/30hVqCpEQ8gBRdNvgWMr20"
+        }
+      ],
+      "duration_ms": 216800,
+      "name": "Turn This Thing Around",
+      "url": "https://open.spotify.com/track/1vJSVNznOVvvpEDkfSS9Wc"
     },
     {
       "added_at": "2026-09-11 04:01:25",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2026-09-11 04:01:25",
       "album": {
-        "name": "Snakelife",
-        "url": "https://open.spotify.com/album/4vsViZG1HskPq7Sx2YSnZU"
-      },
-      "artists": [
-        {
-          "name": "Allison Russell",
-          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
-        }
-      ],
-      "duration_ms": 277613,
-      "name": "Snakelife",
-      "url": "https://open.spotify.com/track/0NNgcqGAz5470XPqrFv8bB"
-    },
-    {
-      "added_at": "2026-09-11 04:01:25",
-      "album": {
         "name": "Lawdy Mama",
         "url": "https://open.spotify.com/album/5T42rU2Wxw07tiV0wt6PUe"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 164920,
       "name": "Lawdy Mama",
       "url": "https://open.spotify.com/track/5qeUS4MZJbPlTFCQHvopUF"
+    },
+    {
+      "added_at": "2026-09-11 04:01:25",
+      "album": {
+        "name": "Snakelife",
+        "url": "https://open.spotify.com/album/4vsViZG1HskPq7Sx2YSnZU"
+      },
+      "artists": [
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        }
+      ],
+      "duration_ms": 277613,
+      "name": "Snakelife",
+      "url": "https://open.spotify.com/track/0NNgcqGAz5470XPqrFv8bB"
     },
     {
       "added_at": "2026-09-11 04:01:25",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2026-09-11 04:01:25",
       "album": {
+        "name": "You Don't Own Me",
+        "url": "https://open.spotify.com/album/7BOSDXG0al6FLZZyUqGIBe"
+      },
+      "artists": [
+        {
+          "name": "Whitney Rose",
+          "url": "https://open.spotify.com/artist/1kltSDXx78MGhHmxbe35tx"
+        }
+      ],
+      "duration_ms": 168648,
+      "name": "You Don't Own Me",
+      "url": "https://open.spotify.com/track/6ZVCTPK8A83OogGsI0Dxjl"
+    },
+    {
+      "added_at": "2026-09-11 04:01:25",
+      "album": {
         "name": "For When It Hurts",
         "url": "https://open.spotify.com/album/4fyML49o9PKbI3jaTFA7gH"
       },
@@ -1599,22 +1615,6 @@
       "duration_ms": 145253,
       "name": "Livin\u2019 In Shame",
       "url": "https://open.spotify.com/track/1bJKcn4D6ElJPGGBZVXi4X"
-    },
-    {
-      "added_at": "2026-09-11 04:01:25",
-      "album": {
-        "name": "You Don't Own Me",
-        "url": "https://open.spotify.com/album/7BOSDXG0al6FLZZyUqGIBe"
-      },
-      "artists": [
-        {
-          "name": "Whitney Rose",
-          "url": "https://open.spotify.com/artist/1kltSDXx78MGhHmxbe35tx"
-        }
-      ],
-      "duration_ms": 168648,
-      "name": "You Don't Own Me",
-      "url": "https://open.spotify.com/track/6ZVCTPK8A83OogGsI0Dxjl"
     },
     {
       "added_at": "2026-09-11 04:01:25",

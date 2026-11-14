@@ -1,13 +1,61 @@
 {
-  "description": "The home of Canadian country music. Cover: Noeline Hofmann",
-  "num_followers": 84604,
+  "description": "The home of Canadian country music. Cover: Sully Burrows",
+  "num_followers": 84603,
   "original_name": "North Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAF2yfjFuGW90JUNX0Ye4EKmSlr58",
+  "snapshot_id": "AAAAADkOkCHXmm4ZgPdqpl5h7hbnBume",
   "tracks": [
+    {
+      "added_at": "2026-11-13 05:03:24",
+      "album": {
+        "name": "Leave You Lonely",
+        "url": "https://open.spotify.com/album/27E44sJ5lwE1HhY9EYjmBS"
+      },
+      "artists": [
+        {
+          "name": "Sully Burrows",
+          "url": "https://open.spotify.com/artist/5lCc0O15jryv68uC4A8McT"
+        }
+      ],
+      "duration_ms": 206335,
+      "name": "Missing Then",
+      "url": "https://open.spotify.com/track/5EZdPaQgcoKZTNPr135Gce"
+    },
+    {
+      "added_at": "2026-11-13 05:03:24",
+      "album": {
+        "name": "In The Feeling (Deluxe)",
+        "url": "https://open.spotify.com/album/5TPWHD9a20t0eVW4RYrCME"
+      },
+      "artists": [
+        {
+          "name": "Owen Riegling",
+          "url": "https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu"
+        }
+      ],
+      "duration_ms": 213005,
+      "name": "Place And Space In Time",
+      "url": "https://open.spotify.com/track/1gR8iPbYTp8Gzpa7ScMALI"
+    },
+    {
+      "added_at": "2026-11-13 05:03:24",
+      "album": {
+        "name": "Lucas Mason",
+        "url": "https://open.spotify.com/album/0pmgusucO04hYc5yc3BmMw"
+      },
+      "artists": [
+        {
+          "name": "Lucas Mason",
+          "url": "https://open.spotify.com/artist/1zZNBtF7Cqq8imxRyfV9Ra"
+        }
+      ],
+      "duration_ms": 196944,
+      "name": "In The Pines",
+      "url": "https://open.spotify.com/track/2z9mTx96kxeplaxkkgkhSw"
+    },
     {
       "added_at": "2026-11-06 05:02:36",
       "album": {
@@ -25,6 +73,58 @@
       "url": "https://open.spotify.com/track/1RNQC5wa8N94Go2DUcOzvx"
     },
     {
+      "added_at": "2026-11-13 05:03:24",
+      "album": {
+        "name": "The Way Life Goes",
+        "url": "https://open.spotify.com/album/3tBxsIFG0fynZ1Sv44GuTm"
+      },
+      "artists": [
+        {
+          "name": "CARV",
+          "url": "https://open.spotify.com/artist/5YQT7e8jtdgdaT8lJsOx9A"
+        }
+      ],
+      "duration_ms": 205460,
+      "name": "The Way Life Goes",
+      "url": "https://open.spotify.com/track/1ekaUp3V2OZl0pHOCiX4pQ"
+    },
+    {
+      "added_at": "2026-11-13 05:03:24",
+      "album": {
+        "name": "Past The Picket",
+        "url": "https://open.spotify.com/album/1w9qQxxGWEdGYn38PNHtrp"
+      },
+      "artists": [
+        {
+          "name": "Hailey Benedict",
+          "url": "https://open.spotify.com/artist/494qaFjOqqQ2NOQfCHSYce"
+        }
+      ],
+      "duration_ms": 157713,
+      "name": "Past The Picket",
+      "url": "https://open.spotify.com/track/0ompJd0umJshCVxFSw4cfH"
+    },
+    {
+      "added_at": "2026-11-13 05:03:24",
+      "album": {
+        "name": "Pas grand-chose",
+        "url": "https://open.spotify.com/album/0B8j0ykzxeakv1pgJfkWnn"
+      },
+      "artists": [
+        {
+          "name": "Arpin L\u00e9pine",
+          "url": "https://open.spotify.com/artist/716wdXFGdFr9p82O3dfmd1"
+        },
+        {
+          "name": "Lost",
+          "url": "https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b"
+        }
+      ],
+      "duration_ms": 206322,
+      "name": "Pas grand-chose",
+      "url": "https://open.spotify.com/track/07LkGMZyy6UvO6dmfz0p3z"
+    },
+    {
       "added_at": "2026-11-06 05:02:36",
       "album": {
         "name": "Sometimes It Don't",
@@ -39,6 +139,122 @@
       "duration_ms": 210182,
       "name": "Sometimes It Don't",
       "url": "https://open.spotify.com/track/20NzXDoFIIbGnvtdLLoziY"
+    },
+    {
+      "added_at": "2026-11-13 05:03:24",
+      "album": {
+        "name": "NEED ME MORE OF YOU",
+        "url": "https://open.spotify.com/album/1wpO9t2p7EMc5notEm0V6b"
+      },
+      "artists": [
+        {
+          "name": "Alli Walker",
+          "url": "https://open.spotify.com/artist/7nspbN0Rr5jTKLOqJoUnPj"
+        }
+      ],
+      "duration_ms": 151970,
+      "name": "NEED ME MORE OF YOU",
+      "url": "https://open.spotify.com/track/0y0Miq1D0uwCky6IEm6Zzg"
+    },
+    {
+      "added_at": "2026-10-30 04:02:48",
+      "album": {
+        "name": "Lover I'm Gonna Miss You (Country Cut)",
+        "url": "https://open.spotify.com/album/1LOJ5kuMPs3ExnvLeKFtuk"
+      },
+      "artists": [
+        {
+          "name": "Noah Derksen",
+          "url": "https://open.spotify.com/artist/31wEHfLGUKIlJAayR6K936"
+        },
+        {
+          "name": "Claire Hunter",
+          "url": "https://open.spotify.com/artist/1aOWfQojdJXv5fniDuaTYD"
+        }
+      ],
+      "duration_ms": 231369,
+      "name": "Lover I'm Gonna Miss You - Country Cut",
+      "url": "https://open.spotify.com/track/0rtaWamWVzkKT66w5c6a5r"
+    },
+    {
+      "added_at": "2026-10-23 04:03:27",
+      "album": {
+        "name": "Set Me Free (from the Netflix Series \"Nobody Wants This\" Season 3)",
+        "url": "https://open.spotify.com/album/0cVPJWwvk76ZCWTykU0lDE"
+      },
+      "artists": [
+        {
+          "name": "Cameron Whitcomb",
+          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
+        }
+      ],
+      "duration_ms": 176169,
+      "name": "Set Me Free (from the Netflix Series \"Nobody Wants This\" Season 3)",
+      "url": "https://open.spotify.com/track/4Qf4BzzNTJUNSuMkcY86K1"
+    },
+    {
+      "added_at": "2026-11-13 05:03:24",
+      "album": {
+        "name": "Nomade",
+        "url": "https://open.spotify.com/album/0OJ2HzdsHe9F53qMOlVRU8"
+      },
+      "artists": [
+        {
+          "name": "Andie Therio",
+          "url": "https://open.spotify.com/artist/6iJjcbcInK5wOen7mW7emi"
+        }
+      ],
+      "duration_ms": 231888,
+      "name": "Sablier",
+      "url": "https://open.spotify.com/track/07gXXlln4iPdqygEmkcV7U"
+    },
+    {
+      "added_at": "2026-11-06 05:02:36",
+      "album": {
+        "name": "Tried & True",
+        "url": "https://open.spotify.com/album/4mgspnxCiZ1uNf2USQIx70"
+      },
+      "artists": [
+        {
+          "name": "Antonio Larosa",
+          "url": "https://open.spotify.com/artist/6Dq03yxvWqvZPoZR7OWbZX"
+        }
+      ],
+      "duration_ms": 182354,
+      "name": "Burning Bright",
+      "url": "https://open.spotify.com/track/0vRUMzjQT55xRrhnLYCwhy"
+    },
+    {
+      "added_at": "2026-11-06 05:02:36",
+      "album": {
+        "name": "Picture Perfect",
+        "url": "https://open.spotify.com/album/4jJ97zwZkWNnF7tFKysYg0"
+      },
+      "artists": [
+        {
+          "name": "Tony Stevens",
+          "url": "https://open.spotify.com/artist/0YwklV2iGY9kq03JYJMtKN"
+        }
+      ],
+      "duration_ms": 156754,
+      "name": "Nothing On Me",
+      "url": "https://open.spotify.com/track/6KgrubJgF9FvBgs4uLeRC4"
+    },
+    {
+      "added_at": "2026-11-13 05:03:24",
+      "album": {
+        "name": "Routes et racines",
+        "url": "https://open.spotify.com/album/0oB0sqsguCjEyDguIlJu7y"
+      },
+      "artists": [
+        {
+          "name": "Beaus\u00e9jour",
+          "url": "https://open.spotify.com/artist/0tllUjGFdhJfUMV8xzTNN2"
+        }
+      ],
+      "duration_ms": 188906,
+      "name": "WOAH",
+      "url": "https://open.spotify.com/track/1aFax8FQGi8QVeDZgqlbg1"
     },
     {
       "added_at": "2026-11-06 05:02:36",
@@ -59,6 +275,22 @@
       "duration_ms": 191641,
       "name": "You Won't Leave Me Tonight",
       "url": "https://open.spotify.com/track/2TTLYepZq6Jcs6QLfM7bJy"
+    },
+    {
+      "added_at": "2026-10-23 04:03:27",
+      "album": {
+        "name": "Outcast",
+        "url": "https://open.spotify.com/album/0l7eb4aBYTCFNgzu2Wf7mq"
+      },
+      "artists": [
+        {
+          "name": "Kyle McKearney",
+          "url": "https://open.spotify.com/artist/7sAGzb8R5byxD1U13npShz"
+        }
+      ],
+      "duration_ms": 229360,
+      "name": "Outcast",
+      "url": "https://open.spotify.com/track/531JT5v5NMAXtfa8oazztG"
     },
     {
       "added_at": "2026-10-30 04:02:48",
@@ -117,26 +349,6 @@
       "url": "https://open.spotify.com/track/1qHOvXNVPJucw4dCBY2H0D"
     },
     {
-      "added_at": "2026-10-30 04:02:48",
-      "album": {
-        "name": "Lover I'm Gonna Miss You (Country Cut)",
-        "url": "https://open.spotify.com/album/1LOJ5kuMPs3ExnvLeKFtuk"
-      },
-      "artists": [
-        {
-          "name": "Noah Derksen",
-          "url": "https://open.spotify.com/artist/31wEHfLGUKIlJAayR6K936"
-        },
-        {
-          "name": "Claire Hunter",
-          "url": "https://open.spotify.com/artist/1aOWfQojdJXv5fniDuaTYD"
-        }
-      ],
-      "duration_ms": 231369,
-      "name": "Lover I'm Gonna Miss You - Country Cut",
-      "url": "https://open.spotify.com/track/0rtaWamWVzkKT66w5c6a5r"
-    },
-    {
       "added_at": "2026-11-06 05:02:36",
       "album": {
         "name": "Verse 1",
@@ -153,6 +365,22 @@
       "url": "https://open.spotify.com/track/4tWJ4HIu2F8vRFpQcnSqJ4"
     },
     {
+      "added_at": "2026-10-30 04:02:48",
+      "album": {
+        "name": "Good Without You",
+        "url": "https://open.spotify.com/album/7r7HRDbM3yq7tQXgCFn9FT"
+      },
+      "artists": [
+        {
+          "name": "Taylor-Rae",
+          "url": "https://open.spotify.com/artist/0DlnbmX0kuF1v8xzxxtqN8"
+        }
+      ],
+      "duration_ms": 213926,
+      "name": "Good Without You",
+      "url": "https://open.spotify.com/track/5wDNtMjJAX72kbsP8c4wOj"
+    },
+    {
       "added_at": "2026-11-06 05:02:36",
       "album": {
         "name": "Forever Changed",
@@ -167,22 +395,6 @@
       "duration_ms": 219797,
       "name": "Same Story",
       "url": "https://open.spotify.com/track/4ckWAaLu2toWp3Q1pGqglL"
-    },
-    {
-      "added_at": "2026-11-06 05:02:36",
-      "album": {
-        "name": "Tried & True",
-        "url": "https://open.spotify.com/album/4mgspnxCiZ1uNf2USQIx70"
-      },
-      "artists": [
-        {
-          "name": "Antonio Larosa",
-          "url": "https://open.spotify.com/artist/6Dq03yxvWqvZPoZR7OWbZX"
-        }
-      ],
-      "duration_ms": 182354,
-      "name": "Burning Bright",
-      "url": "https://open.spotify.com/track/0vRUMzjQT55xRrhnLYCwhy"
     },
     {
       "added_at": "2026-11-06 05:02:36",
@@ -281,38 +493,6 @@
       "url": "https://open.spotify.com/track/35z5BFXpccYwoI4KdXVvez"
     },
     {
-      "added_at": "2026-10-23 04:03:27",
-      "album": {
-        "name": "Set Me Free (from the Netflix Series \"Nobody Wants This\" Season 3)",
-        "url": "https://open.spotify.com/album/0cVPJWwvk76ZCWTykU0lDE"
-      },
-      "artists": [
-        {
-          "name": "Cameron Whitcomb",
-          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
-        }
-      ],
-      "duration_ms": 176169,
-      "name": "Set Me Free (from the Netflix Series \"Nobody Wants This\" Season 3)",
-      "url": "https://open.spotify.com/track/4Qf4BzzNTJUNSuMkcY86K1"
-    },
-    {
-      "added_at": "2026-11-06 05:02:36",
-      "album": {
-        "name": "Picture Perfect",
-        "url": "https://open.spotify.com/album/4jJ97zwZkWNnF7tFKysYg0"
-      },
-      "artists": [
-        {
-          "name": "Tony Stevens",
-          "url": "https://open.spotify.com/artist/0YwklV2iGY9kq03JYJMtKN"
-        }
-      ],
-      "duration_ms": 156754,
-      "name": "Nothing On Me",
-      "url": "https://open.spotify.com/track/6KgrubJgF9FvBgs4uLeRC4"
-    },
-    {
       "added_at": "2026-10-30 04:02:48",
       "album": {
         "name": "The Smallest Star",
@@ -331,22 +511,6 @@
     {
       "added_at": "2026-10-30 04:02:48",
       "album": {
-        "name": "Good Without You",
-        "url": "https://open.spotify.com/album/7r7HRDbM3yq7tQXgCFn9FT"
-      },
-      "artists": [
-        {
-          "name": "Taylor-Rae",
-          "url": "https://open.spotify.com/artist/0DlnbmX0kuF1v8xzxxtqN8"
-        }
-      ],
-      "duration_ms": 213926,
-      "name": "Good Without You",
-      "url": "https://open.spotify.com/track/5wDNtMjJAX72kbsP8c4wOj"
-    },
-    {
-      "added_at": "2026-10-30 04:02:48",
-      "album": {
         "name": "What Do I Do",
         "url": "https://open.spotify.com/album/46Z69lo8LdyVYzcdx7yiA9"
       },
@@ -359,22 +523,6 @@
       "duration_ms": 177750,
       "name": "What Do I Do",
       "url": "https://open.spotify.com/track/4m6FQ7Uz2DAAevgoP9OcSn"
-    },
-    {
-      "added_at": "2026-10-23 04:03:27",
-      "album": {
-        "name": "Outcast",
-        "url": "https://open.spotify.com/album/0l7eb4aBYTCFNgzu2Wf7mq"
-      },
-      "artists": [
-        {
-          "name": "Kyle McKearney",
-          "url": "https://open.spotify.com/artist/7sAGzb8R5byxD1U13npShz"
-        }
-      ],
-      "duration_ms": 229360,
-      "name": "Outcast",
-      "url": "https://open.spotify.com/track/531JT5v5NMAXtfa8oazztG"
     },
     {
       "added_at": "2026-10-23 04:03:27",
@@ -3057,54 +3205,6 @@
       "url": "https://open.spotify.com/track/1Im9Iuc0kOw6CqZo9AItEo"
     },
     {
-      "added_at": "2026-07-24 04:03:36",
-      "album": {
-        "name": "Wherever You Are Tonight",
-        "url": "https://open.spotify.com/album/2WIGWbniyxgcWmQsexir7F"
-      },
-      "artists": [
-        {
-          "name": "Pretty Archie",
-          "url": "https://open.spotify.com/artist/0ZbBrJxdLuqoUmssWYFnKW"
-        }
-      ],
-      "duration_ms": 228413,
-      "name": "Good Stuff",
-      "url": "https://open.spotify.com/track/48ZWvMokjKbGHpqL5DGWYF"
-    },
-    {
-      "added_at": "2026-07-24 04:03:36",
-      "album": {
-        "name": "Three Long Hauls",
-        "url": "https://open.spotify.com/album/5QzcUoI5PLZMGJmxuyJbZR"
-      },
-      "artists": [
-        {
-          "name": "Ryan Lindsay",
-          "url": "https://open.spotify.com/artist/1KWojkmgW6AiDS9yIx9VVu"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Three Long Hauls",
-      "url": "https://open.spotify.com/track/4q04AWjC1gGpuG2h1zpQD7"
-    },
-    {
-      "added_at": "2026-07-24 04:03:36",
-      "album": {
-        "name": "Stoned On You",
-        "url": "https://open.spotify.com/album/3h1ZdoAXhBhIXWu3mMwv8p"
-      },
-      "artists": [
-        {
-          "name": "Matt Lang",
-          "url": "https://open.spotify.com/artist/3vBiGAzipq0DcXDStBf8QW"
-        }
-      ],
-      "duration_ms": 205775,
-      "name": "Stoned On You",
-      "url": "https://open.spotify.com/track/4uOeXIgzdSjVKh5RZxoIOv"
-    },
-    {
       "added_at": "2026-07-17 04:03:05",
       "album": {
         "name": "\u00c0 deux",
@@ -3199,122 +3299,6 @@
       "duration_ms": 216598,
       "name": "Being Free",
       "url": "https://open.spotify.com/track/4BiENiXpFT8dNinYMtwxCo"
-    },
-    {
-      "added_at": "2026-07-10 04:03:19",
-      "album": {
-        "name": "Killed My Silverado",
-        "url": "https://open.spotify.com/album/65CoarfdhnrxT9djRQJcbS"
-      },
-      "artists": [
-        {
-          "name": "Evan Burrison",
-          "url": "https://open.spotify.com/artist/429Zw6geVC0AUPv1sq0bf4"
-        }
-      ],
-      "duration_ms": 163035,
-      "name": "Killed My Silverado",
-      "url": "https://open.spotify.com/track/7no6q4Nx6mJus9km9s4KV6"
-    },
-    {
-      "added_at": "2026-07-10 04:03:19",
-      "album": {
-        "name": "Loser",
-        "url": "https://open.spotify.com/album/6UqGAVVxW5CTW92XPkWqOb"
-      },
-      "artists": [
-        {
-          "name": "Jessica Sevier",
-          "url": "https://open.spotify.com/artist/7bEcIrpwBawp9YKL2MxLL2"
-        }
-      ],
-      "duration_ms": 186884,
-      "name": "Loser",
-      "url": "https://open.spotify.com/track/7DQ5YNHYWwEyEqGsb4JWfQ"
-    },
-    {
-      "added_at": "2026-07-03 04:03:19",
-      "album": {
-        "name": "On va veiller toute la nuit",
-        "url": "https://open.spotify.com/album/7qda1MBlYz2KIHn2ZdtJmD"
-      },
-      "artists": [
-        {
-          "name": "Classe Moyenne",
-          "url": "https://open.spotify.com/artist/4MStgkjCDOLFVmyMMmUo9v"
-        },
-        {
-          "name": "Gabriel Fredette",
-          "url": "https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4"
-        },
-        {
-          "name": "Zach Chico",
-          "url": "https://open.spotify.com/artist/3vBQx85S7A8c09r9FATr37"
-        },
-        {
-          "name": "Justin Roy",
-          "url": "https://open.spotify.com/artist/0fQlhpsdr8Qg3w1PDQ7xIc"
-        },
-        {
-          "name": "Phil Rxcket",
-          "url": "https://open.spotify.com/artist/6WvhHcxi6ddlrEoaeYrRVt"
-        },
-        {
-          "name": "Francis Degrandpr\u00e9",
-          "url": "https://open.spotify.com/artist/22LLgS9VdydAJSBQXUr8r2"
-        }
-      ],
-      "duration_ms": 199453,
-      "name": "On va veiller toute la nuit (feat. Francis Degrandpr\u00e9)",
-      "url": "https://open.spotify.com/track/35BamCZ36Pz5wtUrF9go0g"
-    },
-    {
-      "added_at": "2026-04-17 04:05:01",
-      "album": {
-        "name": "In The Feeling",
-        "url": "https://open.spotify.com/album/5t9dUqzhZipR4hx7et4gx4"
-      },
-      "artists": [
-        {
-          "name": "Owen Riegling",
-          "url": "https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu"
-        }
-      ],
-      "duration_ms": 200623,
-      "name": "Rest Of My",
-      "url": "https://open.spotify.com/track/3nPggg2eXJSJWTnThsj85q"
-    },
-    {
-      "added_at": "2026-07-03 04:03:19",
-      "album": {
-        "name": "Traveling Blues",
-        "url": "https://open.spotify.com/album/4CEWvUJ9YjEQF1apGtPTju"
-      },
-      "artists": [
-        {
-          "name": "Evan Roderick",
-          "url": "https://open.spotify.com/artist/7bw5PTECn2uhtnzlssXeHE"
-        }
-      ],
-      "duration_ms": 215250,
-      "name": "Traveling Blues",
-      "url": "https://open.spotify.com/track/45fEI8uXWhqDdo7JkBm73i"
-    },
-    {
-      "added_at": "2026-06-26 08:00:22",
-      "album": {
-        "name": "Good Time Goes",
-        "url": "https://open.spotify.com/album/72DXGnyQci5iySip0YI8TI"
-      },
-      "artists": [
-        {
-          "name": "Dallas Smith",
-          "url": "https://open.spotify.com/artist/2HgKf6VcQtGmAKpNXidtiC"
-        }
-      ],
-      "duration_ms": 192800,
-      "name": "Good Time Goes",
-      "url": "https://open.spotify.com/track/6haT5X7ZPkkyKJl37HZWMO"
     },
     {
       "added_at": "2026-07-03 04:03:19",

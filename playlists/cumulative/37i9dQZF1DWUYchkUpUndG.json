@@ -13825,6 +13825,24 @@
     },
     {
       "album": {
+        "name": "Awesome God, Mighty God",
+        "url": "https://open.spotify.com/album/7vN7vNWTCQ6B32qLYQejH1"
+      },
+      "artists": [
+        {
+          "name": "TEHGAH",
+          "url": "https://open.spotify.com/artist/4scHETu7kmTovJLCQq8Rla"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 517616,
+      "name": "Awesome God, Mighty God",
+      "url": "https://open.spotify.com/track/3hSqlq9jokfihi6aisqHgJ"
+    },
+    {
+      "album": {
         "name": "Awesome Odogwu",
         "url": "https://open.spotify.com/album/3Q0g7cpzO4rvebRQISXvlj"
       },
@@ -131113,6 +131131,32 @@
     },
     {
       "album": {
+        "name": "Spirit Of Praise 12 (Live)",
+        "url": "https://open.spotify.com/album/6xddYB6RyT68q0yavezJ0d"
+      },
+      "artists": [
+        {
+          "name": "Spirit Of Praise",
+          "url": "https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa"
+        },
+        {
+          "name": "Spirit of Praise Choir",
+          "url": "https://open.spotify.com/artist/598iFL4vIXJNBPQHcB8jDG"
+        },
+        {
+          "name": "Nhlanhla Sibisi",
+          "url": "https://open.spotify.com/artist/0IVAeXQr9He3cUd2QTdsHK"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325493,
+      "name": "Opening - Ivangeli - Live",
+      "url": "https://open.spotify.com/track/5T5hF7TJrKEd2xB2MlYZ3a"
+    },
+    {
+      "album": {
         "name": "Opeyemi",
         "url": "https://open.spotify.com/album/0fgZCkMf4FRh6l0FW8A6h4"
       },
@@ -170119,24 +170163,6 @@
     },
     {
       "album": {
-        "name": "Spirit Of Praise 12 (Live)",
-        "url": "https://open.spotify.com/album/6xddYB6RyT68q0yavezJ0d"
-      },
-      "artists": [
-        {
-          "name": "Spirit Of Praise",
-          "url": "https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa"
-        }
-      ],
-      "date_added": "2026-11-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/5T5hF7TJrKEd2xB2MlYZ3a"
-    },
-    {
-      "album": {
         "name": "Transitions",
         "url": "https://open.spotify.com/album/7Gz5EoGHx4kRNzkTSelrF9"
       },
@@ -171152,6 +171178,24 @@
       "duration_ms": 194772,
       "name": "Tshin Fondini",
       "url": "https://open.spotify.com/track/4KKWQDYstoGC3sp6BlTt3F"
+    },
+    {
+      "album": {
+        "name": "Tso Wulu(Great Tree)",
+        "url": "https://open.spotify.com/album/6yUQM6CI1h5k5EsqIVXi9j"
+      },
+      "artists": [
+        {
+          "name": "Perez Musik",
+          "url": "https://open.spotify.com/artist/0aoCkJnz41cyF84JmMISzI"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264133,
+      "name": "Tso Wulu(Great Tree)",
+      "url": "https://open.spotify.com/track/21XV4JoPj0hTafp9Uk6QOI"
     },
     {
       "album": {

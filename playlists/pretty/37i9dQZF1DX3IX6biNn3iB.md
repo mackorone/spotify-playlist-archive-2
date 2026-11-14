@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IX6biNn3iB.md) - [plain]
 
 > Voices that are elevating nuestra cultura\. Becky G en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,834 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,835 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IX6biNn3iB.md) - [plain]
 | 35 | [Te Vas A Arrepentir \(Don't Hurt Him\)](https://open.spotify.com/track/4Vxy6bU9BRZfLqGkiu5IpH) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8) | [Te Vas A Arrepentir \(Don't Hurt Him\)](https://open.spotify.com/album/0812v2AHlha3OC1xhulTfj) | 3:01 |
 | 36 | [miau](https://open.spotify.com/track/2Z7EkSkuK9oAnTN7AyRwMq) | [Nina del Río](https://open.spotify.com/artist/1wUSPdDC7yelxpg2mdnLGd) | [miau](https://open.spotify.com/album/6rJ72wMDmU2SMehEoVG7Ts) | 3:26 |
 | 37 | [La Baby Cambió](https://open.spotify.com/track/1qLnwbCwQ2YyubFYM0Pw1Z) | [María Isabel](https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5) | [Miss Me Much?](https://open.spotify.com/album/1a84mOgwvjDxfwSBpJxoP2) | 1:54 |
-| 38 | [Vatos](https://open.spotify.com/track/4YOY1oa1UvoAxEaWX9fi9n) | [Vanita Leo](https://open.spotify.com/artist/1ygRaSoCU4Ph22Y4b7UfB9) | [Vatos](https://open.spotify.com/album/1fkFUzh9CvwIHntVF0YVWB) | 2:26 |
-| 39 | [Tú Me Llevas a Un Espacio](https://open.spotify.com/track/6nLZNcjF6a9wa0HH17KsF3) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Descifrar](https://open.spotify.com/album/0iS5WqBx0TeI4duoxqk57F) | 3:13 |
+| 38 | [Tú Me Llevas a Un Espacio](https://open.spotify.com/track/6nLZNcjF6a9wa0HH17KsF3) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Descifrar](https://open.spotify.com/album/0iS5WqBx0TeI4duoxqk57F) | 3:13 |
+| 39 | [Vatos](https://open.spotify.com/track/4YOY1oa1UvoAxEaWX9fi9n) | [Vanita Leo](https://open.spotify.com/artist/1ygRaSoCU4Ph22Y4b7UfB9) | [Vatos](https://open.spotify.com/album/1fkFUzh9CvwIHntVF0YVWB) | 2:26 |
 | 40 | [DURO](https://open.spotify.com/track/6ndhH1Tj2ffz1xWoYQ2e6I) | [¿Téo?](https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u) | [¡BANG BANG!](https://open.spotify.com/album/2ug2WZctSV73uTG44lJ3GM) | 2:22 |
 | 41 | [Para Ti](https://open.spotify.com/track/3pI4sJdZP7tus0pltevj3W) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Ridin' \(Deluxe\)](https://open.spotify.com/album/1sN04YNP3ZXH3zEKN2xX9p) | 3:09 |
 | 42 | [nostalgia](https://open.spotify.com/track/16kZ7Y8zNwrVJXXoo9lYeR) | [selines](https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb) | [\(nostalgia\)](https://open.spotify.com/album/7Jc36cWAbQI2NpvcmBik5A) | 3:24 |

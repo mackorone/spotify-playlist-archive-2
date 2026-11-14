@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 
 > Die beste in Afrikaanse Hip Hop\. Cover: Ziggy4x
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,720 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,721 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 | 6 | [Kyk Uit](https://open.spotify.com/track/2te0KzJO51uuzWqmXiUv3N) | [Ziggy4x](https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27), [Kulture Gang](https://open.spotify.com/artist/28bCYadRJs1HKvyxvnSqIO), [Luda G](https://open.spotify.com/artist/6Qcqf55xs0HYcc9i9myj0Z) | [Kyk Uit](https://open.spotify.com/album/35b5J8H1VslIHmeblkbucS) | 2:40 |
 | 7 | [Miniete](https://open.spotify.com/track/4AfQGFZ2zYdIHYwqBhYx37) | [Interlecc Za](https://open.spotify.com/artist/2cxm02LkeTCk6MlJcsiCrv), [Young OG CPT](https://open.spotify.com/artist/0Mj65U6z6MBgRCO9XsBTHO) | [Miniete](https://open.spotify.com/album/6FpisY6waijVL2IdW1Rsgd) | 2:36 |
 | 8 | [Tolgevang](https://open.spotify.com/track/1WWiozUfi9d26DcAjOthSs) | [Early B](https://open.spotify.com/artist/6CzVcrDqwjvTDr3uxyNgWG) | [Tolgevang](https://open.spotify.com/album/3QJKilrYn9ZvZXs8CLZNyc) | 2:40 |
-| 9 | [First Day Out](https://open.spotify.com/track/73ypQOtbzrDIjtFqmS453f) | [Luda G](https://open.spotify.com/artist/6Qcqf55xs0HYcc9i9myj0Z), [Young OG CPT](https://open.spotify.com/artist/0Mj65U6z6MBgRCO9XsBTHO) | [First Day Out](https://open.spotify.com/album/3ug5SKrtKBpqI7Ni6xgivM) | 3:06 |
+| 9 | [Tittewyt](https://open.spotify.com/track/08iPW7xvS94YUYS4ld5vSu) | [Mr Heinz](https://open.spotify.com/artist/1ONbGb6rAiwalf2VHjsdxL), [Jack Parow](https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA), [Jayms](https://open.spotify.com/artist/1reef06goIFAhuhQsLUHf5) | [Tittewyt](https://open.spotify.com/album/0vL0GrNmwHfbVJUYX3xAIx) | 3:38 |
 | 10 | [Disi makliki](https://open.spotify.com/track/1u9wr82dUyErwH9DJ1xc7d) | [Daxter Deedz](https://open.spotify.com/artist/0Jkf0tswAE3lh41WNW1ZOG) | [Disi makliki](https://open.spotify.com/album/3Kql6vrQQxt3OSTyL4IZJc) | 2:59 |
-| 11 | [Tittewyt](https://open.spotify.com/track/08iPW7xvS94YUYS4ld5vSu) | [Mr Heinz](https://open.spotify.com/artist/1ONbGb6rAiwalf2VHjsdxL), [Jack Parow](https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA), [Jayms](https://open.spotify.com/artist/1reef06goIFAhuhQsLUHf5) | [Tittewyt](https://open.spotify.com/album/0vL0GrNmwHfbVJUYX3xAIx) | 3:38 |
+| 11 | [First Day Out](https://open.spotify.com/track/73ypQOtbzrDIjtFqmS453f) | [Luda G](https://open.spotify.com/artist/6Qcqf55xs0HYcc9i9myj0Z), [Young OG CPT](https://open.spotify.com/artist/0Mj65U6z6MBgRCO9XsBTHO) | [First Day Out](https://open.spotify.com/album/3ug5SKrtKBpqI7Ni6xgivM) | 3:06 |
 | 12 | [Sticks & Stones](https://open.spotify.com/track/5mRHAvmfuSyHznrY42X1Au) | [Ziggy4x](https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27), [Kulture Gang](https://open.spotify.com/artist/28bCYadRJs1HKvyxvnSqIO), [25K](https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9) | [Sticks & Stones](https://open.spotify.com/album/5KmSW8dMnFIcb8oWaAf3qK) | 2:46 |
 | 13 | [By Dit.](https://open.spotify.com/track/7KX1JpTYQnz5DM6VKAzPix) | [Vaughn Valentine](https://open.spotify.com/artist/40AbXDnA4kje6ybZa3vpCH), [Matt Levai](https://open.spotify.com/artist/63IYpzhMyrwUyUDPkHvR3B) | [By Dit.](https://open.spotify.com/album/35OERO7CicxDTR2pk6k3Og) | 2:25 |
 | 14 | [Nooit Genoeg](https://open.spotify.com/track/67CunmsSJA1YRTYE2M9FUS) | [Matt Levai](https://open.spotify.com/artist/63IYpzhMyrwUyUDPkHvR3B), [21 Promo & Pengii](https://open.spotify.com/artist/4hxiYIQmYSFNAgnS32t0y0) | [Nooit Genoeg](https://open.spotify.com/album/6qwo9jR60ylpjrajOfxqAF) | 3:11 |

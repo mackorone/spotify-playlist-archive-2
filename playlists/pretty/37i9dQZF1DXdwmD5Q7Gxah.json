@@ -1,12 +1,12 @@
 {
   "description": "Emma Ogier season <a href=\"https://loremandfriends.substack.com/p/even-if-you-cant-read-you-can-still\"> plus ~new substack ft Lizzy McAlpine & Mackeeper here~</a>   ",
-  "num_followers": 1183755,
+  "num_followers": 1183785,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKc62R9ZBij/Byuw6ITVHom8IkpQ",
+  "snapshot_id": "AAAAAHymsUKHOeY2Xh29bpqUQa6ZCJDV",
   "tracks": [
     {
       "added_at": "2026-11-13 05:01:41",
@@ -71,6 +71,22 @@
       "duration_ms": 205704,
       "name": "Land",
       "url": "https://open.spotify.com/track/7MB1tKZya7KsesEn5F1XkD"
+    },
+    {
+      "added_at": "2026-11-13 17:04:59",
+      "album": {
+        "name": "Honeymoon",
+        "url": "https://open.spotify.com/album/5HZocqevwnLexkjpNCmG1l"
+      },
+      "artists": [
+        {
+          "name": "54 Ultra",
+          "url": "https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ"
+        }
+      ],
+      "duration_ms": 188229,
+      "name": "Honeymoon",
+      "url": "https://open.spotify.com/track/160wVfS6OgXxhyPkDYOhLi"
     },
     {
       "added_at": "2026-11-13 05:01:41",
@@ -171,6 +187,22 @@
       "duration_ms": 217865,
       "name": "Born Again - Bonus Track",
       "url": "https://open.spotify.com/track/1WwPlmneXG71vStRDHf6m5"
+    },
+    {
+      "added_at": "2026-09-25 04:02:54",
+      "album": {
+        "name": "I Won't Cry",
+        "url": "https://open.spotify.com/album/06mN2pGUc6dylBWpLSl4Wo"
+      },
+      "artists": [
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "duration_ms": 260146,
+      "name": "I Won\u2019t Cry",
+      "url": "https://open.spotify.com/track/1FP6gZVvRnvFkaFhgfGYBT"
     },
     {
       "added_at": "2026-11-13 05:01:41",
@@ -569,6 +601,22 @@
       "url": "https://open.spotify.com/track/1Dj0FZ4SVfiGFGBRBF32eb"
     },
     {
+      "added_at": "2026-08-28 04:02:29",
+      "album": {
+        "name": "I Don't Know Why I Said That",
+        "url": "https://open.spotify.com/album/4eUgX0wMxNLxWFFRNgJgZm"
+      },
+      "artists": [
+        {
+          "name": "Me As A Girl",
+          "url": "https://open.spotify.com/artist/5TwlVv5wao2sHAZJ0MVJOQ"
+        }
+      ],
+      "duration_ms": 166186,
+      "name": "I Don't Know Why I Said That",
+      "url": "https://open.spotify.com/track/0sGgseWHrfxZsCSLZ1YjtZ"
+    },
+    {
       "added_at": "2026-10-30 04:01:28",
       "album": {
         "name": "Duck Duck Goose",
@@ -807,22 +855,6 @@
       "duration_ms": 220800,
       "name": "mitcham mint",
       "url": "https://open.spotify.com/track/7jxyK4BC5pP4d8oYUpBdJD"
-    },
-    {
-      "added_at": "2026-08-28 04:02:29",
-      "album": {
-        "name": "I Don't Know Why I Said That",
-        "url": "https://open.spotify.com/album/4eUgX0wMxNLxWFFRNgJgZm"
-      },
-      "artists": [
-        {
-          "name": "Me As A Girl",
-          "url": "https://open.spotify.com/artist/5TwlVv5wao2sHAZJ0MVJOQ"
-        }
-      ],
-      "duration_ms": 166186,
-      "name": "I Don't Know Why I Said That",
-      "url": "https://open.spotify.com/track/0sGgseWHrfxZsCSLZ1YjtZ"
     },
     {
       "added_at": "2026-10-30 04:01:28",
@@ -1271,22 +1303,6 @@
       "duration_ms": 206482,
       "name": "Lucky Nights",
       "url": "https://open.spotify.com/track/0f20d7okXHtOvHSuQFZ31B"
-    },
-    {
-      "added_at": "2026-09-25 04:02:54",
-      "album": {
-        "name": "I Won't Cry",
-        "url": "https://open.spotify.com/album/06mN2pGUc6dylBWpLSl4Wo"
-      },
-      "artists": [
-        {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
-        }
-      ],
-      "duration_ms": 260146,
-      "name": "I Won\u2019t Cry",
-      "url": "https://open.spotify.com/track/1FP6gZVvRnvFkaFhgfGYBT"
     },
     {
       "added_at": "2026-10-09 04:02:49",
@@ -2461,22 +2477,6 @@
       "url": "https://open.spotify.com/track/4FXQTLl5v1jlaLvrp16mFk"
     },
     {
-      "added_at": "2026-08-07 04:02:01",
-      "album": {
-        "name": "Billboard Style",
-        "url": "https://open.spotify.com/album/5J68BHB4bwuKeNXx6UjgIL"
-      },
-      "artists": [
-        {
-          "name": "Billboard Style",
-          "url": "https://open.spotify.com/artist/3oqmZ1rujvoBP7ZyMBKqUQ"
-        }
-      ],
-      "duration_ms": 170196,
-      "name": "Billboard Style",
-      "url": "https://open.spotify.com/track/35ve61xDrQy5Q4U20CCttN"
-    },
-    {
       "added_at": "2026-07-24 04:02:04",
       "album": {
         "name": "LOVE IS THE LAW",
@@ -2541,22 +2541,6 @@
       "url": "https://open.spotify.com/track/5qKD8WTc5qIZW96rIcgzXE"
     },
     {
-      "added_at": "2026-07-31 04:02:08",
-      "album": {
-        "name": "FU : ILY",
-        "url": "https://open.spotify.com/album/0s5WRpopYusuMFTmedJMIN"
-      },
-      "artists": [
-        {
-          "name": "the sound chalk makes",
-          "url": "https://open.spotify.com/artist/4uiFRdH1ESOicHwBuTbsY5"
-        }
-      ],
-      "duration_ms": 149126,
-      "name": "FU : ILY",
-      "url": "https://open.spotify.com/track/6bJYxgGcvR9tqpGQLApNO0"
-    },
-    {
       "added_at": "2026-07-24 04:02:04",
       "album": {
         "name": "Love Love (Love Love)",
@@ -2587,22 +2571,6 @@
       "duration_ms": 151438,
       "name": "Camera",
       "url": "https://open.spotify.com/track/1C95XJLGL9xyMlsES1uVDQ"
-    },
-    {
-      "added_at": "2026-07-08 17:10:56",
-      "album": {
-        "name": "Sweet Fortune",
-        "url": "https://open.spotify.com/album/6FYDpZcqoVFDb31Zo4KA5S"
-      },
-      "artists": [
-        {
-          "name": "Ryan Beatty",
-          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
-        }
-      ],
-      "duration_ms": 264837,
-      "name": "White Lightning",
-      "url": "https://open.spotify.com/track/3K6GgBsxAcSc9bG1kWoaRh"
     },
     {
       "added_at": "2026-07-03 11:50:27",
@@ -2651,22 +2619,6 @@
       "duration_ms": 141804,
       "name": "Sun Has Set",
       "url": "https://open.spotify.com/track/3CnEw0mRAXVlLw36iL0mbe"
-    },
-    {
-      "added_at": "2026-06-12 04:01:36",
-      "album": {
-        "name": "Drive",
-        "url": "https://open.spotify.com/album/1EQK6Ve1W9b4bEKK3QAYtj"
-      },
-      "artists": [
-        {
-          "name": "Foushe\u00e9",
-          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
-        }
-      ],
-      "duration_ms": 179026,
-      "name": "Drive",
-      "url": "https://open.spotify.com/track/6zARylhJ2oHDw0x7V6W32N"
     },
     {
       "added_at": "2026-05-29 04:01:58",
@@ -2719,154 +2671,6 @@
       "duration_ms": 236278,
       "name": "Kitten",
       "url": "https://open.spotify.com/track/1bEYQp9eT55EmNzMXXFWEY"
-    },
-    {
-      "added_at": "2026-05-29 04:01:58",
-      "album": {
-        "name": "Better Angels",
-        "url": "https://open.spotify.com/album/5oZuk5EIEG4licuoLSpgrz"
-      },
-      "artists": [
-        {
-          "name": "sadie",
-          "url": "https://open.spotify.com/artist/6b5UgDdpmrafQHLmFg2DBc"
-        }
-      ],
-      "duration_ms": 160616,
-      "name": "Better Angels",
-      "url": "https://open.spotify.com/track/4dVmB6Y60E2U5tK79G2dhK"
-    },
-    {
-      "added_at": "2026-05-29 04:01:58",
-      "album": {
-        "name": "Miss Michigan",
-        "url": "https://open.spotify.com/album/403xK3xBydTLfaBxctsZ2X"
-      },
-      "artists": [
-        {
-          "name": "Momo Boyd",
-          "url": "https://open.spotify.com/artist/5gqxLVfjWfNZ6dsKL05NKd"
-        },
-        {
-          "name": "Infinity Song",
-          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
-        }
-      ],
-      "duration_ms": 146738,
-      "name": "Oops",
-      "url": "https://open.spotify.com/track/5HUqlNEKgLwBiPfpK9wBaX"
-    },
-    {
-      "added_at": "2026-05-29 04:01:58",
-      "album": {
-        "name": "Crybaby",
-        "url": "https://open.spotify.com/album/1yjYllIw1d3OZoRgPcTGBA"
-      },
-      "artists": [
-        {
-          "name": "After Louise",
-          "url": "https://open.spotify.com/artist/6tjPtIeNLFkHlDQG2mRy3W"
-        }
-      ],
-      "duration_ms": 175597,
-      "name": "Crybaby",
-      "url": "https://open.spotify.com/track/1etY8R5Z0rXhBKlqkUkkwN"
-    },
-    {
-      "added_at": "2026-05-29 04:01:58",
-      "album": {
-        "name": "Stupid Bitches",
-        "url": "https://open.spotify.com/album/7eWy1iLXve9VJdPkr2h9dP"
-      },
-      "artists": [
-        {
-          "name": "Grace Ives",
-          "url": "https://open.spotify.com/artist/4TZieE5978SbTInJswaay2"
-        }
-      ],
-      "duration_ms": 211893,
-      "name": "Stupid Bitches",
-      "url": "https://open.spotify.com/track/4KELpaK3sQ5vEZX9nuK9lg"
-    },
-    {
-      "added_at": "2026-05-29 04:01:58",
-      "album": {
-        "name": "Postinternetfame / Self Tape",
-        "url": "https://open.spotify.com/album/34pUJjYymPU7jioThphtiR"
-      },
-      "artists": [
-        {
-          "name": "Quiet Light",
-          "url": "https://open.spotify.com/artist/6Uy2IwBjxdF0MxQVIN18n9"
-        }
-      ],
-      "duration_ms": 141864,
-      "name": "Postinternetfame",
-      "url": "https://open.spotify.com/track/1EiHTft00amQg7z5TX2lLh"
-    },
-    {
-      "added_at": "2026-05-29 04:01:58",
-      "album": {
-        "name": "A Rush To Nowhere",
-        "url": "https://open.spotify.com/album/5gQpR3TJYjYa4YqD5qHrWs"
-      },
-      "artists": [
-        {
-          "name": "Arima Ederra",
-          "url": "https://open.spotify.com/artist/0wJIP9Wlhn3aSLLaB31IK3"
-        }
-      ],
-      "duration_ms": 221826,
-      "name": "You're My",
-      "url": "https://open.spotify.com/track/2TeNHfb3Xb8aWWESW1QCkl"
-    },
-    {
-      "added_at": "2026-05-29 04:01:58",
-      "album": {
-        "name": "Star",
-        "url": "https://open.spotify.com/album/75az8Y4wNKLh8PpMz6h4zF"
-      },
-      "artists": [
-        {
-          "name": "Iceage",
-          "url": "https://open.spotify.com/artist/03hlOXqRyyXO3ectp3eEbU"
-        }
-      ],
-      "duration_ms": 205274,
-      "name": "Star",
-      "url": "https://open.spotify.com/track/3PdE19PCcon8iVW9KXtRWl"
-    },
-    {
-      "added_at": "2026-05-29 04:01:58",
-      "album": {
-        "name": "My Heart Is A Room With No Cameras In It",
-        "url": "https://open.spotify.com/album/2DX3rjhortqMx72jCdakYu"
-      },
-      "artists": [
-        {
-          "name": "Victoryland",
-          "url": "https://open.spotify.com/artist/63tTs259cHmrkQ7lGTmDdp"
-        }
-      ],
-      "duration_ms": 235429,
-      "name": "I got god",
-      "url": "https://open.spotify.com/track/19LhmxhZyk5LrMWCMMMF0I"
-    },
-    {
-      "added_at": "2026-05-29 04:01:58",
-      "album": {
-        "name": "Imitation (how to become you)",
-        "url": "https://open.spotify.com/album/76Gp2fuUkbbWT2UWTnyaYz"
-      },
-      "artists": [
-        {
-          "name": "doggone",
-          "url": "https://open.spotify.com/artist/2VNWt6p905PprUPc78Mfzt"
-        }
-      ],
-      "duration_ms": 256271,
-      "name": "Imitation (how to become you)",
-      "url": "https://open.spotify.com/track/5c9mIk9tWe0QVM3HtoXlvk"
     }
   ],
   "unique_name": "Lorem",

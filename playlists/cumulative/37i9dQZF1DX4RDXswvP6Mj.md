@@ -4,7 +4,7 @@
 
 > Let's party & clubbing with your favorite K\-pop dance hits! \(Cover: KEYVITUP\) 지금 가장 핫한 댄스곡들을 만나보세요.
 
-965 songs - 2 day 2 hr 40 min
+966 songs - 2 day 2 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -723,7 +723,7 @@
 | [RUN](https://open.spotify.com/track/01UhWj8tk5V2wUke4XvU3v) | [EMP](https://open.spotify.com/artist/0eZu7s7aKm30JOI2KjbA8W), [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4) | [RUN](https://open.spotify.com/album/4NhBWMbgHQjcaRt41eM5QJ) | 2:44 | 2026-11-10 |  |
 | [RUN](https://open.spotify.com/track/4gHUimlUJuaZMn1E7mFBvt) | [H1\-KEY](https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU) | [RUN](https://open.spotify.com/album/5WQdyEPsMtXtFIldEhgqpF) | 3:15 | 2022-07-07 | 2022-07-14 |
 | [Run BTS](https://open.spotify.com/track/69xohKu8C1fsflYAiSNbwM) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:24 | 2022-06-10 | 2025-12-23 |
-| [RUN IT](https://open.spotify.com/track/0D7q3I9Hpi7bBuFd2OFp1s) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [RUN IT](https://open.spotify.com/album/0qq4ARUCMYdH7iEN6Wcq2a) | 3:29 | 2026-06-24 |  |
+| [RUN IT](https://open.spotify.com/track/0D7q3I9Hpi7bBuFd2OFp1s) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [RUN IT](https://open.spotify.com/album/0qq4ARUCMYdH7iEN6Wcq2a) | 3:29 | 2026-06-24 | 2026-11-14 |
 | [RUN RUN RUN](https://open.spotify.com/track/2x1sY2LHI0DfP1XV1zTGDA) | [F.able](https://open.spotify.com/artist/0zV3fDeVSMj631MEuQpqoE) | [RUN RUN RUN](https://open.spotify.com/album/5kzKVqS2yTIPy1QSkPWLEN) | 3:15 | 2022-03-31 | 2022-04-04 |
 | [RUN2U](https://open.spotify.com/track/3gFcGnU4kTdMYLXDjH1TK8) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [YOUNG\-LUV.COM](https://open.spotify.com/album/2xPdgNkM4yIQmP7axJ1T1o) | 3:33 | 2022-02-23 | 2022-09-10 |
 | [Running to Future](https://open.spotify.com/track/6tn8DOizEPVGwqgqdXsYYN) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [Running to Future](https://open.spotify.com/album/26SNqrN1ngsW5AaLpcgkEa) | 3:19 | 2026-01-13 | 2026-04-30 |
@@ -892,6 +892,7 @@
 | [UNNATURAL](https://open.spotify.com/track/1eykKBqxHgasGHwjOQIvbt) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [UNNATURAL](https://open.spotify.com/album/0uD1Chx5ZsnZM4kS8yK0S8) | 3:01 | 2021-12-21 | 2022-04-05 |
 | [UNTOUCHABLE](https://open.spotify.com/track/7rQDt6y60dMT9Wh7xzLZAf) | [EVERGLOW](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) | [\-77.82x\-78.29](https://open.spotify.com/album/1F2CtDmTEiyJRv2bCf6989) | 3:10 | 2022-03-31 | 2022-04-19 |
 | [UNTOUCHABLE](https://open.spotify.com/track/2HQALWSN6IF4BYrSADMJ0w) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [BORN TO BE](https://open.spotify.com/album/3cm3EkNQLpKu58btSJT7fz) | 3:14 | 2024-01-22 | 2024-06-23 |
+| [UP](https://open.spotify.com/track/2DpMn9r9LPpa5PaR4XGFBP) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [GOLDEN HOUR : Part.6](https://open.spotify.com/album/5UKj0Dge5ik5jw3JVjoxof) | 3:26 | 2026-11-13 |  |
 | [UP \- KARINA Solo](https://open.spotify.com/track/5sjnkOfTLCLNfkkchI2re2) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [SYNK : PARALLEL LINE \- Special Digital Single](https://open.spotify.com/album/4vLGHlTnlIIxMSfefCY0cU) | 2:46 | 2024-10-10 | 2025-12-08 |
 | [Up!](https://open.spotify.com/track/3XZAvh2NCDQYHgJei35VQ1) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [DOUBLAST](https://open.spotify.com/album/0yMosWzriw3613d26x7MQK) | 3:12 | 2022-06-20 | 2023-05-10 |
 | [Upside Down](https://open.spotify.com/track/41KiFWhvIgjdVura4h93Zh) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [The Story](https://open.spotify.com/album/4tk1TxAS90si1va7jPWqGg) | 3:15 | 2022-05-27 | 2022-07-05 |

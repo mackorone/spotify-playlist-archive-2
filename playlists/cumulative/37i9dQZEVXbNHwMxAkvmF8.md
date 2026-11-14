@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hungary.
 
-2,012 songs - 4 day 9 hr 30 min
+2,013 songs - 4 day 9 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -876,7 +876,7 @@
 | [Jó modor 2](https://open.spotify.com/track/2m4M8p4bmwEXdRH2NE1iBj) | [Ekhoe](https://open.spotify.com/artist/6lZA0phZLDcwn6k9ElfESM), [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju) | [Sose Alszok](https://open.spotify.com/album/4eloCXvAWlCJnXFS7VF1Wy) | 2:34 | 2023-04-08 | 2023-04-23 |
 | [Jól leszek újra](https://open.spotify.com/track/3g5hOdWycmk8C49MXdfAGo) | [Nagy Bogi](https://open.spotify.com/artist/3VgOKuwKvAYU4aT7atESfM), [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [Hűtlen Délibáb](https://open.spotify.com/album/0nUnpyXWyuKOzAVz7vxKe0) | 2:30 | 2026-02-14 |  |
 | [jól vagyok](https://open.spotify.com/track/5ug7gVEbllwHrb7vDlYqr7) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG) | [civil](https://open.spotify.com/album/2VPjzGe5Sd8Vvj8sbzAH9N) | 3:24 | 2026-07-10 | 2026-07-20 |
-| [JÓZANOK](https://open.spotify.com/track/0x6mKqNfslxlNxlkIroTK8) | [VINI](https://open.spotify.com/artist/7Ac0uxdCzBBRgjbtel2bbV), [Marics Peti](https://open.spotify.com/artist/3AL01X7ic44uuE4xsMVPbp) | [VINNER DELUXE](https://open.spotify.com/album/3dj07tLV6pPxW4YGzF21Ni) | 2:14 | 2026-04-18 | 2026-11-11 |
+| [JÓZANOK](https://open.spotify.com/track/0x6mKqNfslxlNxlkIroTK8) | [VINI](https://open.spotify.com/artist/7Ac0uxdCzBBRgjbtel2bbV), [Marics Peti](https://open.spotify.com/artist/3AL01X7ic44uuE4xsMVPbp) | [VINNER DELUXE](https://open.spotify.com/album/3dj07tLV6pPxW4YGzF21Ni) | 2:14 | 2026-04-18 |  |
 | [JÓÉJSZAKÁT](https://open.spotify.com/track/3WoGALjQo5Qv7K6AG8hi5Z) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG), [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5) | [A MASZK](https://open.spotify.com/album/7GAIOSkRnnTyYnoziR7I1y) | 3:29 | 2026-05-02 | 2026-05-09 |
 | [K POP](https://open.spotify.com/track/00iLTetTLAeImmBlh6jOJh) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 1:52 | 2025-03-15 | 2025-03-19 |
 | [K\-POP](https://open.spotify.com/track/5L3ecxQnQ9qTBmnLQiwf0C) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [K\-POP](https://open.spotify.com/album/10eNMeTimUzAKLhCOpIUlb) | 3:05 | 2023-07-22 | 2023-08-05 |
@@ -921,7 +921,7 @@
 | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/track/748mdHapucXQri7IAO8yFK) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/album/1OnzqJTL9bwe4kvaLxRYxt) | 3:28 | 2021-04-11 | 2021-06-27 |
 | [Kitartást](https://open.spotify.com/track/6S8A2hIs3iqFnn3ZdQGg68) | [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju) | [Vagy Mindent Vagy Semmit](https://open.spotify.com/album/3yzr3LxESMVFNQbz5qZIrH) | 2:18 | 2024-02-03 | 2024-06-14 |
 | [Kitartást](https://open.spotify.com/track/7GAi2oVUykl3Zlw4zBlaRp) | [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju) | [Kitartást](https://open.spotify.com/album/76wjdpRI7WPbx3jYHBFVGU) | 2:26 | 2024-01-23 | 2024-02-04 |
-| [Klitorisz](https://open.spotify.com/track/40qz2m8ecdUSKSsMcCeqNN) | [VINI](https://open.spotify.com/artist/7Ac0uxdCzBBRgjbtel2bbV) | [212223\_Minden\_ami\_én](https://open.spotify.com/album/5XSEdasJQaF9rJbBNDKnZg) | 2:20 | 2026-01-31 |  |
+| [Klitorisz](https://open.spotify.com/track/40qz2m8ecdUSKSsMcCeqNN) | [VINI](https://open.spotify.com/artist/7Ac0uxdCzBBRgjbtel2bbV) | [212223\_Minden\_ami\_én](https://open.spotify.com/album/5XSEdasJQaF9rJbBNDKnZg) | 2:20 | 2026-01-31 | 2026-11-14 |
 | [Knife Talk \(with 21 Savage ft\. Project Pat\)](https://open.spotify.com/track/2BcMwX1MPV6ZHP4tUT9uq6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Project Pat](https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 4:02 | 2021-09-05 | 2021-09-06 |
 | [kohsamui \- interludE](https://open.spotify.com/track/1OYmPTWGvjLVdSOKIqHFdq) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [Aziverzum](https://open.spotify.com/album/4xXvoQdTClfi7CYpWANDRm) | 3:00 | 2025-10-20 | 2025-10-27 |
 | [Komfortzóna](https://open.spotify.com/track/2QA7iZTFdFHic2fFnOoM2K) | [Carson Coma](https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6) | [Purgatórium](https://open.spotify.com/album/6VZ7cFeqx6daOulrJQOOGL) | 3:07 | 2025-11-29 | 2025-12-01 |
@@ -1611,7 +1611,8 @@
 | [SUPERMODEL](https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [SUPERMODEL](https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn) | 2:28 | 2022-05-14 | 2022-06-07 |
 | [SUV](https://open.spotify.com/track/6jIOiFrWhqvDGzwONFKl3j) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw), [Young Fly](https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N) | [BAKPAKK](https://open.spotify.com/album/0rxSEyr7JxVRxuUMtZ5eRT) | 1:49 | 2024-07-27 |  |
 | [SUV 2](https://open.spotify.com/track/7aucJQT8Lnx7WvSMyP0N75) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw), [Young Fly](https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N) | [SUV 2](https://open.spotify.com/album/019iGK5CLJmrwQ5rDND2Th) | 2:19 | 2026-08-22 |  |
-| [Sweater Weather](https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [I Love You.](https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI) | 4:00 | 2021-10-12 |  |
+| [Sweater Weather](https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [I Love You.](https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI) | 4:00 | 2021-10-12 | 2026-11-14 |
+| [Sweater Weather](https://open.spotify.com/track/0cQVqPuHQP4KEwc7ZUQmj6) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [I Love You.](https://open.spotify.com/album/6iu2XwoDlKg0VYte9qAbnr) | 4:00 | 2026-11-13 |  |
 | [SWIM](https://open.spotify.com/track/4g5eopb54XIaV2ciooY3St) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/53OELuhrBiml1ns99FIfEN) | 2:39 | 2026-03-21 | 2026-03-23 |
 | [SWIM](https://open.spotify.com/track/68lbSrXDORS51pmyjZv712) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h) | 2:39 | 2026-03-22 | 2026-04-03 |
 | [Swim](https://open.spotify.com/track/3M0lSi5WW79CXQamgSBIjx) | [Chase Atlantic](https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT) | [Chase Atlantic](https://open.spotify.com/album/7C8uqokvE67UOlu1TiEYMd) | 3:48 | 2024-12-29 | 2025-01-26 |

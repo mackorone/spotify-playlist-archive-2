@@ -1,12 +1,12 @@
 {
   "description": "This is Arsenal Efectivo. The essential tracks, all in one playlist.",
-  "num_followers": 12752,
+  "num_followers": 12751,
   "original_name": "This Is Arsenal Efectivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avOwAAAAAAD2B0XtZ+H38DWZzUmyNBG8",
+  "snapshot_id": "avUBgAAAAADnyNvekke5Uv3KLRGOJTqP",
   "tracks": [
     {
       "added_at": null,
@@ -45,7 +45,7 @@
         }
       ],
       "duration_ms": 172316,
-      "name": "Vida Peligrosa (feat. Arsenal Efectivo & Omar Ruiz)",
+      "name": "Vida Peligrosa",
       "url": "https://open.spotify.com/track/7k7r1GvHZQ06n7fFFLrxCn"
     },
     {
@@ -229,7 +229,7 @@
         }
       ],
       "duration_ms": 229004,
-      "name": "Los Recuerdos (feat. Arsenal Efectivo)",
+      "name": "Los Recuerdos",
       "url": "https://open.spotify.com/track/7kunViZSovu0ZkOcgg9LS8"
     },
     {
@@ -415,22 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FIONA",
-        "url": "https://open.spotify.com/album/4eQKfcyUhqCXfXjstocfhQ"
-      },
-      "artists": [
-        {
-          "name": "Arsenal Efectivo",
-          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
-        }
-      ],
-      "duration_ms": 188446,
-      "name": "FIONA",
-      "url": "https://open.spotify.com/track/3vdhIXQOzU7qTS3cgL1J8K"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jimmy Humilde Presenta Lo Mejor De Las Calles Vol.3",
         "url": "https://open.spotify.com/album/4ebX87u1162NvdQe0qKbiS"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 130470,
       "name": "Cartel De Reyes",
       "url": "https://open.spotify.com/track/42wVd6LrCb0TlMhsqrrVXK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FIONA",
+        "url": "https://open.spotify.com/album/4eQKfcyUhqCXfXjstocfhQ"
+      },
+      "artists": [
+        {
+          "name": "Arsenal Efectivo",
+          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
+        }
+      ],
+      "duration_ms": 188446,
+      "name": "FIONA",
+      "url": "https://open.spotify.com/track/3vdhIXQOzU7qTS3cgL1J8K"
     },
     {
       "added_at": null,
@@ -487,6 +487,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Eternamente",
+        "url": "https://open.spotify.com/album/4GWYly9cxMjGNtWSlygap1"
+      },
+      "artists": [
+        {
+          "name": "Arsenal Efectivo",
+          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
+        }
+      ],
+      "duration_ms": 238116,
+      "name": "Eternamente",
+      "url": "https://open.spotify.com/track/6Bf9ctV7C75vDSq5Ob7zYg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Crimen Organizado",
         "url": "https://open.spotify.com/album/5FiPNWW7CAEXZUFhPniZm1"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 186455,
       "name": "Crimen Organizado",
       "url": "https://open.spotify.com/track/7rQc9Enutk9xbjP7WRUgUi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eternamente",
-        "url": "https://open.spotify.com/album/4GWYly9cxMjGNtWSlygap1"
-      },
-      "artists": [
-        {
-          "name": "Arsenal Efectivo",
-          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
-        }
-      ],
-      "duration_ms": 238116,
-      "name": "Eternamente",
-      "url": "https://open.spotify.com/track/6Bf9ctV7C75vDSq5Ob7zYg"
     },
     {
       "added_at": null,

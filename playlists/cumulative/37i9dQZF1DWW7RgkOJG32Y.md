@@ -2,9 +2,9 @@
 
 ### [Breakout Country](https://open.spotify.com/playlist/37i9dQZF1DWW7RgkOJG32Y)
 
-> Trending for a reason \- the home of country's future monster hits\. Cover: Brandon Lake
+> Trending for a reason \- the home of country's future monster hits\. Cover: Megan Moroney
 
-725 songs - 1 day 15 hr 24 min
+728 songs - 1 day 15 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,6 +189,7 @@
 | [Drinking to the Broken Hearts](https://open.spotify.com/track/58FFAwPYDGarcBP2hNHzUK) | [Maggie Baugh](https://open.spotify.com/artist/4E82Kdena6yf0reUDRzbvW) | [Drinking to the Broken Hearts](https://open.spotify.com/album/1wGzChizEpSj0gZG2S5lRs) | 3:30 | 2022-02-04 | 2022-12-03 |
 | [Drunk Love](https://open.spotify.com/track/18ZbxBOI520oLWi4SlIblW) | [Ty Myers](https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO) | [The Select](https://open.spotify.com/album/4tE4n1E0qtAfJTh8IPT9TN) | 4:00 | 2025-03-28 | 2025-07-19 |
 | [Dyin' Flame](https://open.spotify.com/track/1DNG22ZpedEFqCkJoj4Ibs) | [Tayler Holder](https://open.spotify.com/artist/5Hz3IW691fbgGqLk4yvlNN) | [Dyin' Flame](https://open.spotify.com/album/5LHo3GORejajFOvWzMKlVa) | 2:54 | 2025-04-25 | 2025-10-25 |
+| [Dying In This House](https://open.spotify.com/track/3K33BYes6bVzZAsCiavBVT) | [Mack Geiger](https://open.spotify.com/artist/1ylRveckaItA2kOhQh8rnQ) | [Dying In This House](https://open.spotify.com/album/2RnDoWbeBUohjqVR8CZzQw) | 4:07 | 2026-11-13 |  |
 | [Emerald City](https://open.spotify.com/track/2W6KXuxXkZHhdsfMiYkFi2) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Mount Pleasant](https://open.spotify.com/album/2jvpJVr7HjZh61bEyp5gKC) | 2:16 | 2025-12-05 | 2026-06-13 |
 | [Empty Words](https://open.spotify.com/track/42Zw3Z5xOv7bTV6C6PVwRg) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Empty Words](https://open.spotify.com/album/4V81NUk3LanyGQuyZ7llow) | 2:32 | 2026-02-27 | 2026-06-27 |
 | [Ends of the Earth](https://open.spotify.com/track/30rU9CBF5cwiexNHJffkLS) | [Ty Myers](https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO) | [Ends of the Earth](https://open.spotify.com/album/59IUArxnHB64BUCM3hKTwQ) | 4:29 | 2024-10-25 | 2025-03-29 |
@@ -240,6 +241,7 @@
 | [Going, Going, Gone](https://open.spotify.com/track/67AdiJcurlf6gocGobfaXs) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Growin' Up](https://open.spotify.com/album/1m9DVgV0kEBiVZ4ElhJEte) | 2:57 | 2022-10-07 | 2023-04-01 |
 | [Good At Leaving](https://open.spotify.com/track/6ROMMDonzrFEpC46ptxhcE) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2) | [Is This Heaven? \(Extended\)](https://open.spotify.com/album/5UamcRKGRLG1mxQ16aonmK) | 2:49 | 2026-07-10 | 2026-08-28 |
 | [Good Beer](https://open.spotify.com/track/55M9eKCXJFCpid6WBVyEct) | [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG), [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Good Beer](https://open.spotify.com/album/3PuVtau24hELLklY6dcd3q) | 2:54 | 2022-01-28 | 2022-05-14 |
+| [Good Faith](https://open.spotify.com/track/57QLRAvrHOIkoU8yAU5WnZ) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Outlier](https://open.spotify.com/album/79zGm562qzMTvoxJtoHRn5) | 3:44 | 2026-11-13 |  |
 | [Good Friends](https://open.spotify.com/track/5HVc3YeNKDFomPhXBKE90U) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Humble Quest](https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw) | 3:28 | 2022-05-27 | 2022-10-02 |
 | [Good Goodbye \(feat\. Jimmie Allen\)](https://open.spotify.com/track/5KcDw23a38rfHHI6Gdnedz) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi), [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Good Goodbye \(feat\. Jimmie Allen\)](https://open.spotify.com/album/0KJMKtgo6MQq9ypijW1sKE) | 3:03 | 2021-12-17 | 2022-05-14 |
 | [Good Ol' Man](https://open.spotify.com/track/106WZMD4t61E3WIBPtXTDK) | [Drew Green](https://open.spotify.com/artist/7xZTozOYTK6YKaxcQxeBdP) | [Good Ol' Man](https://open.spotify.com/album/1AUKevdHLZT2YYJqv3mf2s) | 3:22 | 2022-03-04 | 2022-06-18 |
@@ -723,6 +725,7 @@
 | [You Didn’t](https://open.spotify.com/track/5Jwcv2Le3Klwgrgyqa12ZA) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Weekends Look A Little Different These Days](https://open.spotify.com/album/2JJ2v7A5nR6HaYxyO2T0PX) | 3:45 | 2022-01-28 | 2022-11-03 |
 | [you don't deserve a country song](https://open.spotify.com/track/6Ucd3amMzVE9d4UeimUUUS) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [you don't deserve a country song](https://open.spotify.com/album/2bjwSohuICaxJuvKX9Fh0M) | 3:10 | 2023-03-31 | 2023-07-22 |
 | [You For A Reason](https://open.spotify.com/track/10QxsSJlNl8jrylYL5XGJO) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [You For A Reason](https://open.spotify.com/album/5kIKFBdjL155Okv2nXTEWj) | 3:03 | 2024-10-25 | 2025-05-31 |
+| [You for Me \- Smoky Mountain Demo](https://open.spotify.com/track/4dxPIzzrYDqrfAlaiCFaVI) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [You for Me \(Smoky Mountain Demo\)](https://open.spotify.com/album/0ApKQYf6MjrLI4WN5Wf7iY) | 3:18 | 2026-11-13 |  |
 | [You Got a Small Town](https://open.spotify.com/track/0uxbkVqzKkxeVszRa0LFnb) | [Dalton Dover](https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A) | [You Got a Small Town](https://open.spotify.com/album/2dRiCtzyR2XKR4mwwU370t) | 2:58 | 2021-12-17 | 2022-03-05 |
 | [You In A Honky Tonk](https://open.spotify.com/track/6uMlDbkMx22aWyoWgyCbTo) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [Shot Glass](https://open.spotify.com/album/0LjZjuCqFFYCeit3OqcNVH) | 3:03 | 2023-01-06 | 2023-12-09 |
 | [you look like you love me \(feat\. Riley Green\)](https://open.spotify.com/track/0y5Ex8oQ8zCH5TQxHUy1Eo) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8), [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [you look like you love me \(feat\. Riley Green\)](https://open.spotify.com/album/69iNwop7x6VMhFMLEEtY1j) | 3:44 | 2024-06-28 | 2025-04-05 |

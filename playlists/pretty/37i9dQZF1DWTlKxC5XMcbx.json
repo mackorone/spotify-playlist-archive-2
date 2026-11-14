@@ -459,22 +459,6 @@
     {
       "added_at": "2026-02-09 02:43:04",
       "album": {
-        "name": "Scott Hamilton Plays Ballads",
-        "url": "https://open.spotify.com/album/0bw16TpTm9imdckwKYYoKm"
-      },
-      "artists": [
-        {
-          "name": "Scott Hamilton",
-          "url": "https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr"
-        }
-      ],
-      "duration_ms": 220666,
-      "name": "Maybe September",
-      "url": "https://open.spotify.com/track/7wGqWPW8haFrmvikCyS5Qc"
-    },
-    {
-      "added_at": "2026-02-09 02:43:04",
-      "album": {
         "name": "Everything I Play Is Funky",
         "url": "https://open.spotify.com/album/4bonZNozN5B3PO7nXJ317E"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 431266,
       "name": "Over The Rainbow",
       "url": "https://open.spotify.com/track/08lUeu1CxXvAoaKkemoEk8"
+    },
+    {
+      "added_at": "2026-02-09 02:43:04",
+      "album": {
+        "name": "Scott Hamilton Plays Ballads",
+        "url": "https://open.spotify.com/album/0bw16TpTm9imdckwKYYoKm"
+      },
+      "artists": [
+        {
+          "name": "Scott Hamilton",
+          "url": "https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr"
+        }
+      ],
+      "duration_ms": 220666,
+      "name": "Maybe September",
+      "url": "https://open.spotify.com/track/7wGqWPW8haFrmvikCyS5Qc"
     },
     {
       "added_at": "2026-02-09 02:43:04",
@@ -507,6 +507,22 @@
     {
       "added_at": "2026-02-09 02:43:04",
       "album": {
+        "name": "Ballads",
+        "url": "https://open.spotify.com/album/5lzhBDGZKhGKFFVlMOKR0K"
+      },
+      "artists": [
+        {
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+        }
+      ],
+      "duration_ms": 405226,
+      "name": "I'm A Fool To Want You",
+      "url": "https://open.spotify.com/track/3kYrQXSao9IXp3EzMZQt5J"
+    },
+    {
+      "added_at": "2026-02-09 02:43:04",
+      "album": {
         "name": "Ben Webster Meets Oscar Peterson",
         "url": "https://open.spotify.com/album/52vxvueV32JO6tZHaSojRZ"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 236840,
       "name": "When Your Lover Has Gone",
       "url": "https://open.spotify.com/track/7m4OEcDjdVPVKRhXmnQko5"
-    },
-    {
-      "added_at": "2026-02-09 02:43:04",
-      "album": {
-        "name": "Ballads",
-        "url": "https://open.spotify.com/album/5lzhBDGZKhGKFFVlMOKR0K"
-      },
-      "artists": [
-        {
-          "name": "Dexter Gordon",
-          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
-        }
-      ],
-      "duration_ms": 405226,
-      "name": "I'm A Fool To Want You",
-      "url": "https://open.spotify.com/track/3kYrQXSao9IXp3EzMZQt5J"
     },
     {
       "added_at": "2026-02-09 02:43:04",
@@ -987,34 +987,6 @@
     {
       "added_at": "2026-02-09 02:43:04",
       "album": {
-        "name": "At Ease",
-        "url": "https://open.spotify.com/album/49NbMNxUrcqwxpqh2V7kQm"
-      },
-      "artists": [
-        {
-          "name": "Marcus Bartelt",
-          "url": "https://open.spotify.com/artist/0kqhTGbh9RtpgbiUeCHngy"
-        },
-        {
-          "name": "Martin Sasse",
-          "url": "https://open.spotify.com/artist/4jmwrOP4JG1b5s7Jfzj5gT"
-        },
-        {
-          "name": "Martin Gjakonovski",
-          "url": "https://open.spotify.com/artist/5v054lI3qAL9w60moMfo61"
-        },
-        {
-          "name": "Joost Van Schaik",
-          "url": "https://open.spotify.com/artist/4MyNpJkDFnYbEJ21DlSuAZ"
-        }
-      ],
-      "duration_ms": 451155,
-      "name": "Does The Sun Really Shine On The Moon",
-      "url": "https://open.spotify.com/track/43FAhG8BEm5L5Fa8fnC2u5"
-    },
-    {
-      "added_at": "2026-02-09 02:43:04",
-      "album": {
         "name": "What Is There To Say?",
         "url": "https://open.spotify.com/album/0NUxMpyjIOP71y3NaThnTW"
       },
@@ -1043,6 +1015,34 @@
       "duration_ms": 267142,
       "name": "And Suddenly There Was Love",
       "url": "https://open.spotify.com/track/5X6IyZNTHOehDW5BCsAqJH"
+    },
+    {
+      "added_at": "2026-02-09 02:43:04",
+      "album": {
+        "name": "At Ease",
+        "url": "https://open.spotify.com/album/49NbMNxUrcqwxpqh2V7kQm"
+      },
+      "artists": [
+        {
+          "name": "Marcus Bartelt",
+          "url": "https://open.spotify.com/artist/0kqhTGbh9RtpgbiUeCHngy"
+        },
+        {
+          "name": "Martin Sasse",
+          "url": "https://open.spotify.com/artist/4jmwrOP4JG1b5s7Jfzj5gT"
+        },
+        {
+          "name": "Martin Gjakonovski",
+          "url": "https://open.spotify.com/artist/5v054lI3qAL9w60moMfo61"
+        },
+        {
+          "name": "Joost Van Schaik",
+          "url": "https://open.spotify.com/artist/4MyNpJkDFnYbEJ21DlSuAZ"
+        }
+      ],
+      "duration_ms": 451155,
+      "name": "Does The Sun Really Shine On The Moon",
+      "url": "https://open.spotify.com/track/43FAhG8BEm5L5Fa8fnC2u5"
     },
     {
       "added_at": "2026-02-09 02:43:04",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2026-02-09 02:43:04",
       "album": {
-        "name": "Walk The Dog",
-        "url": "https://open.spotify.com/album/1P4DJRMLQ5RhNxYkDPeUf1"
-      },
-      "artists": [
-        {
-          "name": "Leonard Peters",
-          "url": "https://open.spotify.com/artist/3lnir5hIW9TkpCGJGUuhvk"
-        }
-      ],
-      "duration_ms": 175606,
-      "name": "Five Years Ago",
-      "url": "https://open.spotify.com/track/1L2aEbr8dOnVUKoeFhmMZG"
-    },
-    {
-      "added_at": "2026-02-09 02:43:04",
-      "album": {
         "name": "Everytime around",
         "url": "https://open.spotify.com/album/0xz9q4sfWXzF0e0FSPcwJJ"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 325562,
       "name": "Everytime around",
       "url": "https://open.spotify.com/track/2aFgx18xSsCjzZo9vMtyTw"
+    },
+    {
+      "added_at": "2026-02-09 02:43:04",
+      "album": {
+        "name": "Walk The Dog",
+        "url": "https://open.spotify.com/album/1P4DJRMLQ5RhNxYkDPeUf1"
+      },
+      "artists": [
+        {
+          "name": "Leonard Peters",
+          "url": "https://open.spotify.com/artist/3lnir5hIW9TkpCGJGUuhvk"
+        }
+      ],
+      "duration_ms": 175606,
+      "name": "Five Years Ago",
+      "url": "https://open.spotify.com/track/1L2aEbr8dOnVUKoeFhmMZG"
     },
     {
       "added_at": "2026-02-09 02:43:04",
@@ -1219,6 +1219,22 @@
       "duration_ms": 180621,
       "name": "Endless Mind",
       "url": "https://open.spotify.com/track/5MTg1t0AdyxaIvSKv2Zchn"
+    },
+    {
+      "added_at": "2026-02-09 02:43:04",
+      "album": {
+        "name": "Dinah",
+        "url": "https://open.spotify.com/album/1XxaRTNUOXXUnjGxkvuBiW"
+      },
+      "artists": [
+        {
+          "name": "Bengt Hallberg",
+          "url": "https://open.spotify.com/artist/5q3Zh4BS8gJVpcrcGOhk8J"
+        }
+      ],
+      "duration_ms": 224666,
+      "name": "So Long Blues",
+      "url": "https://open.spotify.com/track/5AB1aToFH0q42OHPjAO4Qb"
     },
     {
       "added_at": "2026-02-09 02:43:04",
@@ -1259,22 +1275,6 @@
       "duration_ms": 299880,
       "name": "Send In The Clowns",
       "url": "https://open.spotify.com/track/6Raz653SzfvRokSgYg9yxY"
-    },
-    {
-      "added_at": "2026-02-09 02:43:04",
-      "album": {
-        "name": "Dinah",
-        "url": "https://open.spotify.com/album/1XxaRTNUOXXUnjGxkvuBiW"
-      },
-      "artists": [
-        {
-          "name": "Bengt Hallberg",
-          "url": "https://open.spotify.com/artist/5q3Zh4BS8gJVpcrcGOhk8J"
-        }
-      ],
-      "duration_ms": 224666,
-      "name": "So Long Blues",
-      "url": "https://open.spotify.com/track/5AB1aToFH0q42OHPjAO4Qb"
     },
     {
       "added_at": "2026-02-09 02:43:04",

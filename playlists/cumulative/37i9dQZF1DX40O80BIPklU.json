@@ -1885,6 +1885,32 @@
     },
     {
       "album": {
+        "name": "Bello Love",
+        "url": "https://open.spotify.com/album/6ycs34x4CApaQ6ctfb4smL"
+      },
+      "artists": [
+        {
+          "name": "DJ Premier",
+          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Lil Supa",
+          "url": "https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233256,
+      "name": "Bello Love",
+      "url": "https://open.spotify.com/track/6DUJpDcQrJ3N8r9MuWZA3a"
+    },
+    {
+      "album": {
         "name": "Bendecidos",
         "url": "https://open.spotify.com/album/4UoVuTXXewpiz2fJWiosZH"
       },
@@ -4129,6 +4155,32 @@
     },
     {
       "album": {
+        "name": "ALL-YOU-CAN-EAT, Vol. 4",
+        "url": "https://open.spotify.com/album/4gSx1beG52ZREJsrASfi0w"
+      },
+      "artists": [
+        {
+          "name": "Comida Para Llevar",
+          "url": "https://open.spotify.com/artist/6ybUCb9uQ4fd6gtIptuaYO"
+        },
+        {
+          "name": "Tayko",
+          "url": "https://open.spotify.com/artist/3TqicTPfXQLiPPZWKtHk0m"
+        },
+        {
+          "name": "Veztalone",
+          "url": "https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147002,
+      "name": "De Maravilla",
+      "url": "https://open.spotify.com/track/2lN2qBDVEm9MiChz5Tx4ur"
+    },
+    {
+      "album": {
         "name": "De Oro",
         "url": "https://open.spotify.com/album/0UYD1YeqrWOe2aSx1vvgsk"
       },
@@ -4586,6 +4638,24 @@
       "duration_ms": 205714,
       "name": "Donatello",
       "url": "https://open.spotify.com/track/3Llct6f9pLHLFTCfH5rrks"
+    },
+    {
+      "album": {
+        "name": "Salto de F\u00e9",
+        "url": "https://open.spotify.com/album/05tEnoonvMPmi6NUOsCILe"
+      },
+      "artists": [
+        {
+          "name": "SFDK",
+          "url": "https://open.spotify.com/artist/56n1NeXsTOOxjX3Z4lVMTJ"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144892,
+      "name": "Dos de Enero",
+      "url": "https://open.spotify.com/track/1BZBm0U5zccQbfl7kgS89v"
     },
     {
       "album": {
@@ -10618,7 +10688,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 191851,
       "name": "Mucho Gusto",
       "url": "https://open.spotify.com/track/01gHVyuf5jv5WMi2q7SJei"
@@ -10770,6 +10840,36 @@
       "duration_ms": 223038,
       "name": "Mycelium",
       "url": "https://open.spotify.com/track/7nlHRhd2tKaBEg0fZiR48j"
+    },
+    {
+      "album": {
+        "name": "METAL presenta: LOS LATIN GRIMEY",
+        "url": "https://open.spotify.com/album/0Z45ujtOVT6znSRQ50QtXO"
+      },
+      "artists": [
+        {
+          "name": "Lil Supa",
+          "url": "https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K"
+        },
+        {
+          "name": "3m5",
+          "url": "https://open.spotify.com/artist/1dYMiH0FUuABDJekuOMnuf"
+        },
+        {
+          "name": "Nichess One",
+          "url": "https://open.spotify.com/artist/1mMPZ6dhjDEGg9cqe4Y1SI"
+        },
+        {
+          "name": "Castellanos",
+          "url": "https://open.spotify.com/artist/3IeWLDOKlr0iehy9Wr8Zf2"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223497,
+      "name": "M\u00c1QUINA",
+      "url": "https://open.spotify.com/track/6FFhq7NYmjFKcrqzMHZsku"
     },
     {
       "album": {
@@ -13086,7 +13186,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 145342,
       "name": "REAL GANGSTA LOVE",
       "url": "https://open.spotify.com/track/1pymWRCuZfCd0zdiBJo0Hj"
@@ -15556,7 +15656,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 158325,
       "name": "TRANKY FUNKY",
       "url": "https://open.spotify.com/track/28iQz5gnZyqhUebzeOYCwH"
@@ -15788,7 +15888,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 138161,
       "name": "TURRAZO",
       "url": "https://open.spotify.com/track/7MUu6jrCvu48LSrMRDQKv0"

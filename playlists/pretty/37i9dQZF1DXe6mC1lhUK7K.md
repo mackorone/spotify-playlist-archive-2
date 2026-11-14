@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe6mC1lhUK7K.md) - [plain]
 
 > she's ready for her sequel\. cover: sidney prescott 😱👑
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,883 likes - 90 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,909 likes - 90 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe6mC1lhUK7K.md) - [plain]
 | 30 | [Be Quiet and Drive \(Far Away\)](https://open.spotify.com/track/4Uiw0Sl9yskBaC6P4DcdVD) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Around the Fur](https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu) | 4:59 |
 | 31 | [Girls on Film \- 2010 Remaster](https://open.spotify.com/track/4EFkvOhgAmlHEfDfvfSoh5) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Duran Duran \(Deluxe Edition\)](https://open.spotify.com/album/2Tc7ILGF89w1PWOhzuZlqB) | 3:32 |
 | 32 | [Sweet Dreams \(Are Made of This\) \- 2005 Remaster](https://open.spotify.com/track/1TfqLAPs4K3s2rJMoCokcS) | [Eurythmics](https://open.spotify.com/artist/0NKDgy9j66h3DLnN8qu1bB), [Annie Lennox](https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum), [Dave Stewart](https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg) | [Sweet Dreams \(Are Made Of This\)](https://open.spotify.com/album/5jNDWA19BJbE24x1UUJGRY) | 3:36 |
-| 33 | [Buffy The Vampire Slayer \- The Theme Music](https://open.spotify.com/track/3TZ3NVQtkj4nFPANN946Ct) | [TV Themes](https://open.spotify.com/artist/0clhXvKQeY8xOFIXwePnyR) | [Buffy The Vampire Slayer \- The Theme Music](https://open.spotify.com/album/0XizUl3KDcePvyGAfL4Kgn) | 1:24 |
+| 33 | [Buffy The Vampire Slayer](https://open.spotify.com/track/3TZ3NVQtkj4nFPANN946Ct) | [TV Themes](https://open.spotify.com/artist/0clhXvKQeY8xOFIXwePnyR) | [Buffy The Vampire Slayer \- The Theme Music](https://open.spotify.com/album/0XizUl3KDcePvyGAfL4Kgn) | 1:24 |
 | 34 | [Kill My Boyfriend](https://open.spotify.com/track/20jEZQajiBKZBCte0aVoV3) | [Natalia Kills](https://open.spotify.com/artist/6wdvERzX4CUCOXu6hSS95x) | [Perfectionist \(Deluxe Version\)](https://open.spotify.com/album/0NyW9P0v03NRw7UsWErMaP) | 3:31 |
 | 35 | [Misery Business](https://open.spotify.com/track/6SpLc7EXZIPpy0sVko0aoU) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Riot!](https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc) | 3:31 |
 | 36 | [Raise Hell](https://open.spotify.com/track/02Msss3kY3GSGgeY8oUGMF) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [Raise Hell](https://open.spotify.com/album/0igXZxXbAV5a5EkVcQdlxb) | 3:01 |

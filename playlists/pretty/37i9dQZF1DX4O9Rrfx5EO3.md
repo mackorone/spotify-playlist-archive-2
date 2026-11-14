@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4O9Rrfx5EO3.md) - [plain]
 
 ### [LoveLive! Series　ラブライブ！シリーズ](https://open.spotify.com/playlist/37i9dQZF1DX4O9Rrfx5EO3)
 
-> Music from "LoveLive! Series"「ラブライブ！シリーズ」の楽曲をプレイリストで。©2013 PL! ©2017 PL!S ©2024 PL!NM ©2024 PL!SP ©2026 PL!HS ©IKZL ©PL!SIM
+> Music from "LoveLive! Series"「ラブライブ！シリーズ」の楽曲をプレイリストで。©2013 PL! ©2017 PL!S ©2024 PL!NM ©2024 PL!SP ©2026 PL!HS ©PL!SIM ©IKZL
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,502 likes - 68 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,971 likes - 68 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4O9Rrfx5EO3.md) - [plain]
 | 67 | [意識し合うとか惹かれ合うとか](https://open.spotify.com/track/2C5g8qgE3LKMLTyGnS0Ekx) | [スクールアイドルミュージカル](https://open.spotify.com/artist/6imsymLKQPmMWeEwrw3i55) | [椿滝桜女学院高等学校スクールアイドル部 後夜祭アルバム！](https://open.spotify.com/album/6fw18RXMWwf8ULmuALNITE) | 4:01 |
 | 68 | [夢はドコカラ](https://open.spotify.com/track/6WO2yH01MJhapgAPUbCOKx) | [スクールアイドルミュージカル](https://open.spotify.com/artist/6imsymLKQPmMWeEwrw3i55) | [椿滝桜女学院高等学校スクールアイドル部 後夜祭アルバム！](https://open.spotify.com/album/6fw18RXMWwf8ULmuALNITE) | 3:24 |
 
-Snapshot ID: `AAAAAOMBZjw8PvgpvC31hj+Lf4TTSHw2`
+Snapshot ID: `AAAAAId7qMKAvkVJKh9vOIKNzTRwC3V5`

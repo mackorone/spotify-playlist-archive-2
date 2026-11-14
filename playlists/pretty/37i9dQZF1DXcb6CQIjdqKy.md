@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 
 > The best mix of today's Christian music, all genres, worldwide\. Cover: Tori Kelly & HILLARI
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,669,064 likes - 100 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,669,238 likes - 100 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 | 57 | [Stand](https://open.spotify.com/track/6k466YCtTMxwY5EJBK4zm1) | [John P\. Kee](https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl) | [Stand](https://open.spotify.com/album/5aNfwCfwLpbXuEDEMIS5qT) | 4:44 |
 | 58 | [Nobody But You \- Live](https://open.spotify.com/track/2VoPuqrMwBEDPfTKT3jdUy) | [Zacardi Cortez](https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp) | [IBHAR: The Chronicle \(Chapter 3\)](https://open.spotify.com/album/3Sa1hzBGJkfQAv5d40y82m) | 6:49 |
 | 59 | [Super Power](https://open.spotify.com/track/1qiAIdLOqqKQ6INFbJnNim) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Banky W.](https://open.spotify.com/artist/1c61yiH4iYE7cHtjAYSUu3) | [Super Power](https://open.spotify.com/album/6UHntVvDLLfbBcDDPT87qU) | 2:47 |
-| 60 | [STELLAR](https://open.spotify.com/track/2bL5niytXoWnGZIcu3wIjj) | [Marty](https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK), [Lj the Messenger](https://open.spotify.com/artist/1wxZ1Mv6pAQbaqh30Nq6hB), [De'Aris](https://open.spotify.com/artist/4TyB7OBEDgGW7tIG6jgYAz), [tonyxtrotter](https://open.spotify.com/artist/20eJqy3YU65fubCicAHHvM) | [MARTY PRESENTS: APOLLO RECORDS \- NOT 4 $ALE](https://open.spotify.com/album/44TPL87PTCwdxEtCxzJh6v) | 2:40 |
+| 60 | [STELLAR](https://open.spotify.com/track/2bL5niytXoWnGZIcu3wIjj) | [Marty](https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK), [Lj the Messenger](https://open.spotify.com/artist/1wxZ1Mv6pAQbaqh30Nq6hB), [De'Aris](https://open.spotify.com/artist/4TyB7OBEDgGW7tIG6jgYAz), [tonyxtrotter](https://open.spotify.com/artist/20eJqy3YU65fubCicAHHvM) | [MARTY PRESENTS: APOLLO RECORDS \- NOT 4 $ALE](https://open.spotify.com/album/44TPL87PTCwdxEtCxzJh6v) | 2:41 |
 | 61 | [TOO UNFAZED](https://open.spotify.com/track/6MPfLZFTmkhtRsEkPtrkWq) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [THIS CANNOT BE SOLD](https://open.spotify.com/album/6FctfrwI7lrtCssXAvqdrC) | 3:38 |
 | 62 | [NEW HEAVEN](https://open.spotify.com/track/0tfXcHME27daKjcHe6qtST) | [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [Project Pat](https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc) | [SEVEN TRUMPETS](https://open.spotify.com/album/3u7jThyNYHSpzijEwahB7U) | 1:58 |
 | 63 | [CHAMPIONS \(feat\. Lecrae\)](https://open.spotify.com/track/0tkoGzoixZ2tKs7Qh1p5wT) | [gio.](https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn), [Dell Mac](https://open.spotify.com/artist/1EswPCHgI3tydeJlDVMEFl), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [PROMISE LAND](https://open.spotify.com/album/4UWuBJmG3eAaH9rzS6idl3) | 3:20 |

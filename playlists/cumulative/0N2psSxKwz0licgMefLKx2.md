@@ -2,9 +2,9 @@
 
 ### [2026 COUNTRY BANGERS 🤠🔥](https://open.spotify.com/playlist/0N2psSxKwz0licgMefLKx2)
 
-> The biggest Country hits of the year w Morgan Wallen, Tucker Wetmore, and Josh Ross! Cover: Josh Ross
+> The biggest Country hits of the year w Morgan Wallen, Tucker Wetmore, and Josh Ross! Cover: Owen Riegling
 
-495 songs - 1 day 3 hr 4 min
+497 songs - 1 day 3 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -285,6 +285,7 @@
 | [Milwaukee](https://open.spotify.com/track/2hPGwgrohMaMbEvjtNrw0G) | [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [Milwaukee](https://open.spotify.com/album/745a5QwueK2Mpmr508lN2V) | 2:59 | 2024-01-26 | 2024-09-21 |
 | [Mind Of A Country Boy](https://open.spotify.com/track/6W0hxzuDXmRU6hQmViRaGi) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Mind Of A Country Boy](https://open.spotify.com/album/7GIq22HBQ4mKjxE2PaE5Op) | 3:16 | 2024-06-14 | 2024-09-28 |
 | [Missin You In San Antone](https://open.spotify.com/track/4cWu9xQoWpazNSZ88OAw4d) | [Brett Kissel](https://open.spotify.com/artist/6VOaUBrKfzd49nIAzjVKmm) | [Missin You In San Antone](https://open.spotify.com/album/2SRUh7z7agEMmE3AyejCGE) | 3:13 | 2023-11-03 | 2023-11-11 |
+| [Missing Then](https://open.spotify.com/track/5EZdPaQgcoKZTNPr135Gce) | [Sully Burrows](https://open.spotify.com/artist/5lCc0O15jryv68uC4A8McT) | [Leave You Lonely](https://open.spotify.com/album/27E44sJ5lwE1HhY9EYjmBS) | 3:26 | 2026-11-13 |  |
 | [Montgomery County](https://open.spotify.com/track/5oMa8BhzPaTqdPJ0E9rCRm) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Parker McCollum \(The Deluxe Edition\)](https://open.spotify.com/album/4WISa1TyvE8My12P4ie0Ql) | 3:28 | 2026-03-29 | 2026-05-04 |
 | [Moonshines](https://open.spotify.com/track/6OOVF3wtJ6Qj2fPPHcuzj5) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [Bruce County](https://open.spotify.com/album/2LtmmDRoH27B1li1RRWYvp) | 3:44 | 2024-05-24 | 2025-11-22 |
 | [Movin' On](https://open.spotify.com/track/3yqJZoAQR9N2UlQmhzKAXa) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Movin' On](https://open.spotify.com/album/2MnW3DzqCDPXXRZP0lrGlC) | 2:58 | 2024-11-25 | 2025-04-19 |
@@ -333,13 +334,14 @@
 | [Park](https://open.spotify.com/track/119cU5gffLzRlsEGSshPNQ) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Strong](https://open.spotify.com/album/2HLqoccnVNqOfm7gpN1Svo) | 2:44 | 2024-04-12 | 2026-06-23 |
 | [Phone Call From Home](https://open.spotify.com/track/5kCcDjNlnxtW4ifsds3Fyf) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [Phone Call From Home](https://open.spotify.com/album/2SwS87Y78RE0nNbZk1FFmi) | 3:07 | 2025-11-14 | 2026-04-19 |
 | [Pickup Man](https://open.spotify.com/track/4MXqpnu9lAqqkjSHVlBVoZ) | [HIXTAPE](https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV), [Joe Diffie](https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [HIXTAPE: Vol 3: DIFFTAPE \(Small Batch\)](https://open.spotify.com/album/4xfCXHExwLbivLiKs4Xhcy) | 3:36 | 2023-11-10 | 2024-08-25 |
+| [Place And Space In Time](https://open.spotify.com/track/1gR8iPbYTp8Gzpa7ScMALI) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [In The Feeling \(Deluxe\)](https://open.spotify.com/album/5TPWHD9a20t0eVW4RYrCME) | 3:33 | 2026-11-13 |  |
 | [Please Please Please \(feat\. Dolly Parton\)](https://open.spotify.com/track/6nrSo5ZWhsai0oeX257rRF) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Short n' Sweet \(Deluxe\)](https://open.spotify.com/album/3WzBIQmn2hrulLeTY9smkk) | 3:04 | 2025-02-14 | 2025-11-22 |
 | [Poor, Poor Pitiful Me](https://open.spotify.com/track/53lv0crKsP5DzRj42Ob65x) | [Terri Clark](https://open.spotify.com/artist/0HLOP0AdsaWe5Pt5TNueGC), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Terri Clark: Take Two](https://open.spotify.com/album/5T3rAvru0i4Zt08lmYLy0v) | 3:15 | 2024-06-01 | 2024-10-12 |
 | [Pour Me A Drink \(Feat\. Blake Shelton\)](https://open.spotify.com/track/5ZLL6wYXeqg0k35ZkDRfhZ) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Pour Me A Drink](https://open.spotify.com/album/1WE56xSN0l6bnwGyLeQWdz) | 3:15 | 2024-06-21 |  |
 | [Pour Me Out](https://open.spotify.com/track/4J6jZp2wdRIprg7Ya0QBLM) | [Kashus Culpepper](https://open.spotify.com/artist/2MPe4h9blynt1CfCkMku6j) | [Pour Me Out](https://open.spotify.com/album/4Nesidkow2fCI0r6gneU2v) | 3:48 | 2024-11-25 | 2025-03-01 |
 | [preacher's kid](https://open.spotify.com/track/0xhJziFgWiRqV3ihWaXdc0) | [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd) | [Preacher’s Kid](https://open.spotify.com/album/5r5DSgxAIE0yWQjqZT61fo) | 5:02 | 2026-06-19 |  |
 | [Proving Me Right](https://open.spotify.com/track/5cMXjUFvxrppQsmeXoJ2tt) | [Tucker Wetmore](https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0) | [Proving Me Right](https://open.spotify.com/album/4Sy5ZQvGVhxbVZDUPY4UC2) | 2:54 | 2026-01-31 |  |
-| [Put It On Me](https://open.spotify.com/track/2JZDyIQLudHyPupl7P9eDW) | [Sully Burrows](https://open.spotify.com/artist/5lCc0O15jryv68uC4A8McT) | [Put It On Me](https://open.spotify.com/album/4TmWYzpJwkZc85g9b4hpNc) | 2:36 | 2026-02-20 |  |
+| [Put It On Me](https://open.spotify.com/track/2JZDyIQLudHyPupl7P9eDW) | [Sully Burrows](https://open.spotify.com/artist/5lCc0O15jryv68uC4A8McT) | [Put It On Me](https://open.spotify.com/album/4TmWYzpJwkZc85g9b4hpNc) | 2:36 | 2026-02-20 | 2026-11-14 |
 | [Raining Inside \(With Dawes\)](https://open.spotify.com/track/7su4nP6XfnhsWNa9WS5O3Y) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4), [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [Raining Inside \(With Dawes\)](https://open.spotify.com/album/1nYOXtwd7Ut5sBeM3207ka) | 5:27 | 2025-03-07 | 2025-04-05 |
 | [Rally Around](https://open.spotify.com/track/7tH9XCkn5VJVtEsKli7GPt) | [Sully Burrows](https://open.spotify.com/artist/5lCc0O15jryv68uC4A8McT) | [Rally Around](https://open.spotify.com/album/7Lamznt9F1wvIzbOGvIrf0) | 2:39 | 2025-11-21 | 2026-10-04 |
 | [Rather Be](https://open.spotify.com/track/0gLFZFnaOy3Fa2uBApznuW) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Rather Be](https://open.spotify.com/album/0lxxno3J2bozJPkMYLD2X4) | 2:51 | 2024-07-26 | 2024-10-19 |

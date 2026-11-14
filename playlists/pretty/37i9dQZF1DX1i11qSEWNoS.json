@@ -1,6 +1,6 @@
 {
   "description": "und macht laune",
-  "num_followers": 646934,
+  "num_followers": 646959,
   "original_name": "schiebt anders",
   "owner": {
     "name": "Spotify",
@@ -819,6 +819,26 @@
     {
       "added_at": "2026-10-23 06:58:28",
       "album": {
+        "name": "Man On The Moon: The End Of Day (Int'l Version)",
+        "url": "https://open.spotify.com/album/6oPPKtAwNNlkW4wwHfQDfM"
+      },
+      "artists": [
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        },
+        {
+          "name": "Crookers",
+          "url": "https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C"
+        }
+      ],
+      "duration_ms": 281746,
+      "name": "Day 'N' Nite - Crookers Remix",
+      "url": "https://open.spotify.com/track/34sGnIHB3ZthMvHpNX1i7e"
+    },
+    {
+      "added_at": "2026-10-23 06:58:28",
+      "album": {
         "name": "Not Fair",
         "url": "https://open.spotify.com/album/57jsctxgXIlNnaWtZpjweW"
       },
@@ -839,26 +859,6 @@
       "duration_ms": 163034,
       "name": "Not Fair",
       "url": "https://open.spotify.com/track/0JZ1ABjN8q7TNwMP39NjvU"
-    },
-    {
-      "added_at": "2026-10-23 06:58:28",
-      "album": {
-        "name": "Man On The Moon: The End Of Day (Int'l Version)",
-        "url": "https://open.spotify.com/album/6oPPKtAwNNlkW4wwHfQDfM"
-      },
-      "artists": [
-        {
-          "name": "Kid Cudi",
-          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
-        },
-        {
-          "name": "Crookers",
-          "url": "https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C"
-        }
-      ],
-      "duration_ms": 281746,
-      "name": "Day 'N' Nite - Crookers Remix",
-      "url": "https://open.spotify.com/track/34sGnIHB3ZthMvHpNX1i7e"
     },
     {
       "added_at": "2026-10-23 06:58:28",
@@ -963,26 +963,6 @@
     {
       "added_at": "2026-10-23 06:58:28",
       "album": {
-        "name": "Als du gingst (edit)",
-        "url": "https://open.spotify.com/album/24CMRdb9SWlm08gBNhWD3F"
-      },
-      "artists": [
-        {
-          "name": "Contec",
-          "url": "https://open.spotify.com/artist/2BFFFDU8cOaMWt7i2BHLtX"
-        },
-        {
-          "name": "Lina Maly",
-          "url": "https://open.spotify.com/artist/0VVKg6krYM45eGuevSlcRk"
-        }
-      ],
-      "duration_ms": 239019,
-      "name": "Als du gingst - edit",
-      "url": "https://open.spotify.com/track/1MDyUzZgyrdeQVmV1FU3WQ"
-    },
-    {
-      "added_at": "2026-10-23 06:58:28",
-      "album": {
         "name": "Have You Ever Seen The Rain",
         "url": "https://open.spotify.com/album/5oDYNgWJJAzoqk5u5jZj8k"
       },
@@ -1007,18 +987,22 @@
     {
       "added_at": "2026-10-23 06:58:28",
       "album": {
-        "name": "Biertornado",
-        "url": "https://open.spotify.com/album/7kqjQTEMO3k9IhKa41ADZK"
+        "name": "Als du gingst (edit)",
+        "url": "https://open.spotify.com/album/24CMRdb9SWlm08gBNhWD3F"
       },
       "artists": [
         {
-          "name": "PA69",
-          "url": "https://open.spotify.com/artist/1f3unG8ouGKD4s3iscIA5h"
+          "name": "Contec",
+          "url": "https://open.spotify.com/artist/2BFFFDU8cOaMWt7i2BHLtX"
+        },
+        {
+          "name": "Lina Maly",
+          "url": "https://open.spotify.com/artist/0VVKg6krYM45eGuevSlcRk"
         }
       ],
-      "duration_ms": 218417,
-      "name": "Biertornado",
-      "url": "https://open.spotify.com/track/5u7QargOKXO82nXcAU9s8L"
+      "duration_ms": 239019,
+      "name": "Als du gingst - edit",
+      "url": "https://open.spotify.com/track/1MDyUzZgyrdeQVmV1FU3WQ"
     },
     {
       "added_at": "2026-10-23 06:58:28",
@@ -1039,6 +1023,22 @@
       "duration_ms": 146711,
       "name": "Big City Life",
       "url": "https://open.spotify.com/track/1LIvdWNdKmHvU0FJvw2diN"
+    },
+    {
+      "added_at": "2026-10-23 06:58:28",
+      "album": {
+        "name": "Biertornado",
+        "url": "https://open.spotify.com/album/7kqjQTEMO3k9IhKa41ADZK"
+      },
+      "artists": [
+        {
+          "name": "PA69",
+          "url": "https://open.spotify.com/artist/1f3unG8ouGKD4s3iscIA5h"
+        }
+      ],
+      "duration_ms": 218417,
+      "name": "Biertornado",
+      "url": "https://open.spotify.com/track/5u7QargOKXO82nXcAU9s8L"
     },
     {
       "added_at": "2026-10-23 06:58:28",
@@ -1163,26 +1163,6 @@
     {
       "added_at": "2026-10-23 06:58:28",
       "album": {
-        "name": "Borderline",
-        "url": "https://open.spotify.com/album/7orKsJO9Qi5l33hosrYYAf"
-      },
-      "artists": [
-        {
-          "name": "Ely Oaks",
-          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
-        },
-        {
-          "name": "LAVINIA",
-          "url": "https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6"
-        }
-      ],
-      "duration_ms": 118449,
-      "name": "Borderline",
-      "url": "https://open.spotify.com/track/5LrWZ8K4SPr1Qe0ZBqJGTq"
-    },
-    {
-      "added_at": "2026-10-23 06:58:28",
-      "album": {
         "name": "ALL IN (Lieblingslieder)",
         "url": "https://open.spotify.com/album/3l4OJNnPVJGK8Dg9dvkRFZ"
       },
@@ -1199,22 +1179,22 @@
     {
       "added_at": "2026-10-23 06:58:28",
       "album": {
-        "name": "Clouds",
-        "url": "https://open.spotify.com/album/2ArRQNLxf9t0O0gvmG5Vsj"
+        "name": "Borderline",
+        "url": "https://open.spotify.com/album/7orKsJO9Qi5l33hosrYYAf"
       },
       "artists": [
         {
-          "name": "BUNT.",
-          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
         },
         {
-          "name": "Nate Traveller",
-          "url": "https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc"
+          "name": "LAVINIA",
+          "url": "https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6"
         }
       ],
-      "duration_ms": 158760,
-      "name": "Clouds",
-      "url": "https://open.spotify.com/track/2lWc1iJlz2NVcStV5fbtPG"
+      "duration_ms": 118449,
+      "name": "Borderline",
+      "url": "https://open.spotify.com/track/5LrWZ8K4SPr1Qe0ZBqJGTq"
     },
     {
       "added_at": "2026-10-23 06:58:28",
@@ -1239,6 +1219,26 @@
       "duration_ms": 172764,
       "name": "Unendlichkeit (Remix)",
       "url": "https://open.spotify.com/track/4oodd2Z1U6Xg5tWMiUb3DN"
+    },
+    {
+      "added_at": "2026-10-23 06:58:28",
+      "album": {
+        "name": "Clouds",
+        "url": "https://open.spotify.com/album/2ArRQNLxf9t0O0gvmG5Vsj"
+      },
+      "artists": [
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        },
+        {
+          "name": "Nate Traveller",
+          "url": "https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc"
+        }
+      ],
+      "duration_ms": 158760,
+      "name": "Clouds",
+      "url": "https://open.spotify.com/track/2lWc1iJlz2NVcStV5fbtPG"
     },
     {
       "added_at": "2026-10-23 06:58:28",
@@ -1343,22 +1343,22 @@
     {
       "added_at": "2026-10-23 06:58:28",
       "album": {
-        "name": "Erinner mich",
-        "url": "https://open.spotify.com/album/0jpS7XxChqr5DLtQb2FwFl"
+        "name": "Mamma Mia (feat. Mentissa) [Techno Mix]",
+        "url": "https://open.spotify.com/album/19w0jhRAHEnurkWpsKQFTf"
       },
       "artists": [
         {
-          "name": "HBz",
-          "url": "https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ"
+          "name": "BENNETT",
+          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
         },
         {
-          "name": "2 Engel & Charlie",
-          "url": "https://open.spotify.com/artist/0XRkZikEumDTaGGE9mW8HA"
+          "name": "Mentissa",
+          "url": "https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS"
         }
       ],
-      "duration_ms": 151409,
-      "name": "Erinner mich",
-      "url": "https://open.spotify.com/track/4lArhqEySHQwMKkWkPXQEK"
+      "duration_ms": 200683,
+      "name": "Mamma Mia (feat. Mentissa) - Techno Mix",
+      "url": "https://open.spotify.com/track/3qpsSAfHgTdTwkaraJLe0V"
     },
     {
       "added_at": "2026-10-23 06:58:28",
@@ -1387,22 +1387,22 @@
     {
       "added_at": "2026-10-23 06:58:28",
       "album": {
-        "name": "Mamma Mia (feat. Mentissa) [Techno Mix]",
-        "url": "https://open.spotify.com/album/19w0jhRAHEnurkWpsKQFTf"
+        "name": "Erinner mich",
+        "url": "https://open.spotify.com/album/0jpS7XxChqr5DLtQb2FwFl"
       },
       "artists": [
         {
-          "name": "BENNETT",
-          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
+          "name": "HBz",
+          "url": "https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ"
         },
         {
-          "name": "Mentissa",
-          "url": "https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS"
+          "name": "2 Engel & Charlie",
+          "url": "https://open.spotify.com/artist/0XRkZikEumDTaGGE9mW8HA"
         }
       ],
-      "duration_ms": 200683,
-      "name": "Mamma Mia (feat. Mentissa) - Techno Mix",
-      "url": "https://open.spotify.com/track/3qpsSAfHgTdTwkaraJLe0V"
+      "duration_ms": 151409,
+      "name": "Erinner mich",
+      "url": "https://open.spotify.com/track/4lArhqEySHQwMKkWkPXQEK"
     },
     {
       "added_at": "2026-10-23 06:58:28",
@@ -1735,26 +1735,6 @@
     {
       "added_at": "2026-10-23 06:58:28",
       "album": {
-        "name": "Sehnsucht",
-        "url": "https://open.spotify.com/album/1lIE5a9GgW0UN9BJ25UpyZ"
-      },
-      "artists": [
-        {
-          "name": "Miksu / Macloud",
-          "url": "https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU"
-        },
-        {
-          "name": "t-low",
-          "url": "https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD"
-        }
-      ],
-      "duration_ms": 152826,
-      "name": "Sehnsucht",
-      "url": "https://open.spotify.com/track/7xaqxUl08zOg0YNUHokQpq"
-    },
-    {
-      "added_at": "2026-10-23 06:58:28",
-      "album": {
         "name": "7 Seconds (feat. Shamiya Battles) [Radio Edit]",
         "url": "https://open.spotify.com/album/6i3MFLyojYO4kteUSnWaVG"
       },
@@ -1771,6 +1751,26 @@
       "duration_ms": 92226,
       "name": "7 Seconds (feat. Shamiya Battles) - Radio Edit",
       "url": "https://open.spotify.com/track/4HVELk51Nc1UF7jb1nzIRT"
+    },
+    {
+      "added_at": "2026-10-23 06:58:28",
+      "album": {
+        "name": "Sehnsucht",
+        "url": "https://open.spotify.com/album/1lIE5a9GgW0UN9BJ25UpyZ"
+      },
+      "artists": [
+        {
+          "name": "Miksu / Macloud",
+          "url": "https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU"
+        },
+        {
+          "name": "t-low",
+          "url": "https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD"
+        }
+      ],
+      "duration_ms": 152826,
+      "name": "Sehnsucht",
+      "url": "https://open.spotify.com/track/7xaqxUl08zOg0YNUHokQpq"
     },
     {
       "added_at": "2026-10-23 06:58:28",
@@ -1875,22 +1875,6 @@
     {
       "added_at": "2026-10-23 06:58:28",
       "album": {
-        "name": "K\u00fcss mich (Ivo Martin x Techno Mix)",
-        "url": "https://open.spotify.com/album/4kIYJzc4kN2W8jxEsYs7zd"
-      },
-      "artists": [
-        {
-          "name": "Niklas Dee",
-          "url": "https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE"
-        }
-      ],
-      "duration_ms": 140200,
-      "name": "K\u00fcss mich - Ivo Martin x Techno Mix",
-      "url": "https://open.spotify.com/track/1kEZGwMkrDH2enK3Vh9DNU"
-    },
-    {
-      "added_at": "2026-10-23 06:58:28",
-      "album": {
         "name": "Craving 4 U (feat. bbyclose)",
         "url": "https://open.spotify.com/album/6VIs4Ijm0PCcaIFZdaRlY0"
       },
@@ -1935,6 +1919,22 @@
     {
       "added_at": "2026-10-23 06:58:28",
       "album": {
+        "name": "K\u00fcss mich (Ivo Martin x Techno Mix)",
+        "url": "https://open.spotify.com/album/4kIYJzc4kN2W8jxEsYs7zd"
+      },
+      "artists": [
+        {
+          "name": "Niklas Dee",
+          "url": "https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE"
+        }
+      ],
+      "duration_ms": 140200,
+      "name": "K\u00fcss mich - Ivo Martin x Techno Mix",
+      "url": "https://open.spotify.com/track/1kEZGwMkrDH2enK3Vh9DNU"
+    },
+    {
+      "added_at": "2026-10-23 06:58:28",
+      "album": {
         "name": "Bad Girls",
         "url": "https://open.spotify.com/album/54wKqhFUN5V8lh4tfPTmHH"
       },
@@ -1947,6 +1947,26 @@
       "duration_ms": 121755,
       "name": "Bad Girls",
       "url": "https://open.spotify.com/track/2h4zp76tI5Sbl3BNspNBuG"
+    },
+    {
+      "added_at": "2026-10-23 06:58:28",
+      "album": {
+        "name": "Maneater",
+        "url": "https://open.spotify.com/album/1IzIjAIaqxbIkcs8gjyifw"
+      },
+      "artists": [
+        {
+          "name": "JKRS",
+          "url": "https://open.spotify.com/artist/5EXlM2WBPw4fwTnDNazXxv"
+        },
+        {
+          "name": "ECHO",
+          "url": "https://open.spotify.com/artist/5Spgsyg6iHiNNu3Bqg32cI"
+        }
+      ],
+      "duration_ms": 154285,
+      "name": "Maneater",
+      "url": "https://open.spotify.com/track/2apRbQlpckuUM282gW1Z6p"
     },
     {
       "added_at": "2026-10-23 06:58:28",
@@ -1971,22 +1991,34 @@
     {
       "added_at": "2026-10-23 06:58:28",
       "album": {
-        "name": "Maneater",
-        "url": "https://open.spotify.com/album/1IzIjAIaqxbIkcs8gjyifw"
+        "name": "Meet Her At The Love Parade",
+        "url": "https://open.spotify.com/album/3yZ5NNRrnEtyJFkylL0SaK"
       },
       "artists": [
         {
-          "name": "JKRS",
-          "url": "https://open.spotify.com/artist/5EXlM2WBPw4fwTnDNazXxv"
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
         },
         {
-          "name": "ECHO",
-          "url": "https://open.spotify.com/artist/5Spgsyg6iHiNNu3Bqg32cI"
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        },
+        {
+          "name": "Da Hool",
+          "url": "https://open.spotify.com/artist/0wOXK4GjUAFUDhd7mvKBbW"
+        },
+        {
+          "name": "Dimitri Vegas",
+          "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
+        },
+        {
+          "name": "Kiki Solvej",
+          "url": "https://open.spotify.com/artist/3REA7BOURYizezV7PGQJEW"
         }
       ],
-      "duration_ms": 154285,
-      "name": "Maneater",
-      "url": "https://open.spotify.com/track/2apRbQlpckuUM282gW1Z6p"
+      "duration_ms": 168800,
+      "name": "Meet Her At The Love Parade",
+      "url": "https://open.spotify.com/track/58bT1VNZ0Itc70Sz7mcueT"
     },
     {
       "added_at": "2026-10-23 06:58:28",
@@ -2023,38 +2055,6 @@
       "duration_ms": 209240,
       "name": "Das geht ab - Wir feiern die ganze Nacht",
       "url": "https://open.spotify.com/track/0TvcLuXOCVXQZwspgXPOZb"
-    },
-    {
-      "added_at": "2026-10-23 06:58:28",
-      "album": {
-        "name": "Meet Her At The Love Parade",
-        "url": "https://open.spotify.com/album/3yZ5NNRrnEtyJFkylL0SaK"
-      },
-      "artists": [
-        {
-          "name": "Dimitri Vegas & Like Mike",
-          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
-        },
-        {
-          "name": "Maddix",
-          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
-        },
-        {
-          "name": "Da Hool",
-          "url": "https://open.spotify.com/artist/0wOXK4GjUAFUDhd7mvKBbW"
-        },
-        {
-          "name": "Dimitri Vegas",
-          "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
-        },
-        {
-          "name": "Kiki Solvej",
-          "url": "https://open.spotify.com/artist/3REA7BOURYizezV7PGQJEW"
-        }
-      ],
-      "duration_ms": 168800,
-      "name": "Meet Her At The Love Parade",
-      "url": "https://open.spotify.com/track/58bT1VNZ0Itc70Sz7mcueT"
     }
   ],
   "unique_name": "schiebt anders",

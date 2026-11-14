@@ -4,7 +4,7 @@
 
 > Instrumental beats to lock\-in.
 
-1,239 songs - 1 day 23 hr 35 min
+1,240 songs - 1 day 23 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -643,6 +643,7 @@
 | [Moonlight Kid](https://open.spotify.com/track/7tDSeUGa12JrZRce5HSZzD) | [Aarly](https://open.spotify.com/artist/23n9NAhdmQvss3ZyP7UMaj) | [Moonlight Kid](https://open.spotify.com/album/1dL6gjK4xX4V5zv4RBfV77) | 2:07 | 2023-07-19 | 2026-02-14 |
 | [Moonlight Lake](https://open.spotify.com/track/1whNyC7iUGuRypP24a0K1K) | [Shayla Sereno](https://open.spotify.com/artist/0d2oMUkzD4I5It0MFXNVpb) | [Moonlight Lake](https://open.spotify.com/album/3fTfNJ6tryQQt5ytIajdGP) | 2:20 | 2025-10-24 |  |
 | [Moonlight Shower](https://open.spotify.com/track/0YlzEOlGyoV1N3rbmqQKAx) | [BROCKBEATS](https://open.spotify.com/artist/0DrshpbzI0ItncVhYZ2BtW) | [Moonlight Shower](https://open.spotify.com/album/6pjgTwJwTV7mX8Zf2bshQH) | 2:55 | 2022-12-09 | 2025-07-10 |
+| [moonmilk](https://open.spotify.com/track/1hse9zteQhsyMnASrJWXJr) | [Govii](https://open.spotify.com/artist/2rVT5Vmfp9tvqtvAQU0r4f) | [moonmilk](https://open.spotify.com/album/4SrUtkYFnFTwDUEL5OcrTy) | 2:18 | 2026-11-12 |  |
 | [more love](https://open.spotify.com/track/5Y4xIiKuNFbMcZV5saKHJW) | [emptydream.](https://open.spotify.com/artist/5eVZVouJSvjH5UNfhJy1BX) | [more love](https://open.spotify.com/album/6r780vED6HK9DJsuPPOqUI) | 2:00 | 2026-10-09 | 2026-11-06 |
 | [More That](https://open.spotify.com/track/78pvwbs4dWV7oA1McET7II) | [CrazyJaZz](https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm) | [A Hot Summer](https://open.spotify.com/album/1W10pwjC3Dkx1uTpgfPLV0) | 2:39 | 2022-07-08 | 2022-10-14 |
 | [Morning Bop](https://open.spotify.com/track/7zK6zgXTPYVpWa2W0mRghL) | [Vancgroover](https://open.spotify.com/artist/4oAJgYdsGm7zkJgZTCPA0a) | [Morning Bop](https://open.spotify.com/album/2EuhBsy4LXpc2gPZ8BJ2HJ) | 2:39 | 2022-04-15 | 2022-04-22 |
@@ -712,7 +713,7 @@
 | [Oboe on Jupiter](https://open.spotify.com/track/23NfXr1s9xe0xzAquqGmq5) | [LILCHI](https://open.spotify.com/artist/55rKNBzTkThc5PPCc1kbRn) | [Oboe on Jupiter](https://open.spotify.com/album/6Z5TzNSKzXC8LC6tpnZ5fO) | 2:11 | 2023-01-13 | 2025-09-14 |
 | [Ocean Ride](https://open.spotify.com/track/2uGyOZUwNdpZChOWspCVYP) | [aunt](https://open.spotify.com/artist/1Qq3CjUcS69tT2vvp1ttpB) | [Ocean Ride](https://open.spotify.com/album/0wHm0QUEgZUUNYUF9ut2pq) | 2:09 | 2024-09-27 |  |
 | [Off the Grid](https://open.spotify.com/track/6bmBDrRgDi0MuDu3TCTq0d) | [Spitzgefühl](https://open.spotify.com/artist/1sxYUZPD5cbz9jqdNqR3lk) | [Off the Grid](https://open.spotify.com/album/2SIhBpm83H8nMC0ZMkBnGJ) | 2:14 | 2025-01-24 | 2025-04-30 |
-| [Off We Go](https://open.spotify.com/track/7eQLmNuILoeE8i9IOh75F6) | [Muroki](https://open.spotify.com/artist/1AeSPGqAkY1Me6ed49vb0n) | [Off We Go](https://open.spotify.com/album/4XJnTF0DlozKpzDsn5NMag) | 2:13 | 2026-11-12 |  |
+| [Off We Go](https://open.spotify.com/track/7eQLmNuILoeE8i9IOh75F6) | [Muroki](https://open.spotify.com/artist/1AeSPGqAkY1Me6ed49vb0n) | [Off We Go](https://open.spotify.com/album/4XJnTF0DlozKpzDsn5NMag) | 2:13 | 2026-11-12 | 2026-11-14 |
 | [Offline Together](https://open.spotify.com/track/1rnercSSLoBihVQuOM3igA) | [Unmade Bed](https://open.spotify.com/artist/5XYhH4Vnl4zce8VkvTqFCb) | [Offline Together](https://open.spotify.com/album/23oec75AYHRLxv6f4ITm6L) | 2:09 | 2026-07-17 |  |
 | [Okains Bay](https://open.spotify.com/track/7IdC8X9vBmMuwWmKKkawu7) | [Bird Svensøn](https://open.spotify.com/artist/6y2CjnelXUD9BqAMzLkgvC) | [Okains Bay](https://open.spotify.com/album/1XlYdgPcRKZCYgYJWkZ42z) | 2:22 | 2022-05-27 | 2022-07-22 |
 | [Okazaki](https://open.spotify.com/track/18oMqdCWXJArEw8xhShvKl) | [Koi Botaru](https://open.spotify.com/artist/4hWFDULtLWRacgMQYvOA5w) | [Okazaki](https://open.spotify.com/album/7HwHTrwLX8E8SGDL0dS25G) | 1:57 | 2022-12-09 | 2025-07-10 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,978 likes - 221 songs - 13 hr 58 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,978 likes - 224 songs - 14 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -229,5 +229,8 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 219 | [My Addiction](https://open.spotify.com/track/0wqjkhQYagTQOLqMippB3A) | [Skyl Panameraa](https://open.spotify.com/artist/0QW6dSzw0EqIIBQJrGq1Kd) | [My Addiction](https://open.spotify.com/album/0q1vkwrp4rCczBBWpVBI9E) | 2:38 |
 | 220 | [Writings on the Wall](https://open.spotify.com/track/2VhzXO9b32pNU31Mdyp5PK) | [Coyote Crunch](https://open.spotify.com/artist/3eOqf23jG1UGhZb7oQSbm3) | [Writings on the Wall](https://open.spotify.com/album/57UsFyMrHu97seIZ3Z2q4z) | 4:59 |
 | 221 | [The Fury](https://open.spotify.com/track/5Nz9osPWntRijFqYXSYlGX) | [The River Filth](https://open.spotify.com/artist/59BG6GYu3KdNc7lTYQSkae) | [The Fury](https://open.spotify.com/album/7byxu6uRVYFOmmJUlA5vvp) | 3:15 |
+| 222 | [cocain](https://open.spotify.com/track/2uw1o70hPtbyJ9aOEux2TW) | [MINIMO.EXE](https://open.spotify.com/artist/5K8CdOb3qPFei7n1KWn2B5) | [cocain](https://open.spotify.com/album/6YdjIiYpIdjjCmlBLO8NSz) | 1:45 |
+| 223 | [If OnlyYesterday](https://open.spotify.com/track/5k5Y3JQ5JJnOcD7lKCKUvN) | [Chuck Idol](https://open.spotify.com/artist/7tRZLgsr5C5jvrhZD3NSAV) | [If OnlyYesterday](https://open.spotify.com/album/38ilHQ9tI9apNnEiN6NAfF) | 3:16 |
+| 224 | [Central Park](https://open.spotify.com/track/2fBodXDJPkxHUFm1sJpVYZ) | [FADED](https://open.spotify.com/artist/60g0Lh476VUxWoXsLexU9W) | [Central Park](https://open.spotify.com/album/090XzHeLD5gzIJVVMBz0z8) | 4:03 |
 
-Snapshot ID: `AAANCiJ0GdUHuLHkTkRavPPSI1iemOZG`
+Snapshot ID: `AAANDcvv6xubTN6OmDgxydQ63auTW0gX`

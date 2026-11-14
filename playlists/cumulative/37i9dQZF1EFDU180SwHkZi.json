@@ -1934,10 +1934,28 @@
       ],
       "date_added": "2026-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 200321,
       "name": "Mirror Mirror",
       "url": "https://open.spotify.com/track/0PvZzgz2IjYR3rRDhS4Wxu"
+    },
+    {
+      "album": {
+        "name": "Looks Can Kill",
+        "url": "https://open.spotify.com/album/29iylYBoI7taTmNyvfYygd"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200321,
+      "name": "Mirror Mirror",
+      "url": "https://open.spotify.com/track/33FZpwabWJAhBS1huhKwNA"
     },
     {
       "album": {

@@ -2,7 +2,7 @@
 
 ### [Opening Numbers](https://open.spotify.com/playlist/37i9dQZF1DXb9W2w95RLbO)
 
-> It's time for curtain up! Cover: & Juliet
+> It's time for curtain up! Cover: Cats: The Jellicle Ball
 
 70 songs - 5 hr 12 min
 

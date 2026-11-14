@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: D.A.N.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,181 likes - 99 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,200 likes - 99 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

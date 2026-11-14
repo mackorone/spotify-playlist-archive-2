@@ -1,12 +1,12 @@
 {
   "description": "This is BigXthaPlug. The essential tracks, all in one playlist.",
-  "num_followers": 90772,
+  "num_followers": 90824,
   "original_name": "This Is BigXthaPlug",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avOwAAAAAAAxWDIrOk7s3xpdLNSnt4nW",
+  "snapshot_id": "avUBgAAAAAA57V5FgRP6vV8MKE/XrRYq",
   "tracks": [
     {
       "added_at": null,
@@ -27,6 +27,26 @@
       "duration_ms": 123466,
       "name": "I LIKE IT (feat. Loe Shimmy)",
       "url": "https://open.spotify.com/track/27OOVdqE1aZI6scIxeES0T"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CRACCED - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/6jx7y497fTv9lo2qiAjuAH"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+        }
+      ],
+      "duration_ms": 151420,
+      "name": "CRACCED - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/7sXRsJk49SjkFE535MOJ3p"
     },
     {
       "added_at": null,
@@ -71,22 +91,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TAKE CARE",
-        "url": "https://open.spotify.com/album/6LU7SYL9BWAt3TgEK4DdAc"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 132160,
-      "name": "The Largest",
-      "url": "https://open.spotify.com/track/3neOwym9kfYsM1QWaR77C1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "AMAR",
         "url": "https://open.spotify.com/album/7edOMLcHlhP4Y1b6tzJbn4"
       },
@@ -99,6 +103,22 @@
       "duration_ms": 146133,
       "name": "Texas",
       "url": "https://open.spotify.com/track/7j7ud2oFTJ8BjmeI8bjkQm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TAKE CARE",
+        "url": "https://open.spotify.com/album/6LU7SYL9BWAt3TgEK4DdAc"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 132160,
+      "name": "The Largest",
+      "url": "https://open.spotify.com/track/3neOwym9kfYsM1QWaR77C1"
     },
     {
       "added_at": null,
@@ -135,6 +155,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "AMAR",
+        "url": "https://open.spotify.com/album/7edOMLcHlhP4Y1b6tzJbn4"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 157377,
+      "name": "Levels",
+      "url": "https://open.spotify.com/track/6vOeokRJNZjouabFGDLH1C"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Hope You're Happy (Commentary Version)",
         "url": "https://open.spotify.com/album/7yJCzSTBRhJIisv20lXlQ5"
       },
@@ -151,22 +187,6 @@
       "duration_ms": 176933,
       "name": "About You (feat. Tucker Wetmore)",
       "url": "https://open.spotify.com/track/5xXgI1hjqAil8JX9FH74pn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AMAR",
-        "url": "https://open.spotify.com/album/7edOMLcHlhP4Y1b6tzJbn4"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 157377,
-      "name": "Levels",
-      "url": "https://open.spotify.com/track/6vOeokRJNZjouabFGDLH1C"
     },
     {
       "added_at": null,
@@ -319,22 +339,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "LITE (feat. Belly Gang Kushington)",
-        "url": "https://open.spotify.com/album/2R1Ux79J3M5N1T8QnPTdf7"
+        "name": "BETTER OVER TIME",
+        "url": "https://open.spotify.com/album/0Iccs76G7e4e403S9VRqiA"
       },
       "artists": [
         {
           "name": "BigXthaPlug",
           "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        },
-        {
-          "name": "Belly Gang Kushington",
-          "url": "https://open.spotify.com/artist/7oHPIc7BYAIUhYFF6hSggI"
         }
       ],
-      "duration_ms": 178333,
-      "name": "LITE (feat. Belly Gang Kushington)",
-      "url": "https://open.spotify.com/track/03ZmfQWDEIfhoaIUXi5wAq"
+      "duration_ms": 159133,
+      "name": "ONE",
+      "url": "https://open.spotify.com/track/5V3CgOTXhPXuYxCFJZ0br9"
     },
     {
       "added_at": null,
@@ -355,18 +371,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "BETTER OVER TIME",
-        "url": "https://open.spotify.com/album/0Iccs76G7e4e403S9VRqiA"
+        "name": "LITE (feat. Belly Gang Kushington)",
+        "url": "https://open.spotify.com/album/2R1Ux79J3M5N1T8QnPTdf7"
       },
       "artists": [
         {
           "name": "BigXthaPlug",
           "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
+        {
+          "name": "Belly Gang Kushington",
+          "url": "https://open.spotify.com/artist/7oHPIc7BYAIUhYFF6hSggI"
         }
       ],
-      "duration_ms": 159133,
-      "name": "ONE",
-      "url": "https://open.spotify.com/track/5V3CgOTXhPXuYxCFJZ0br9"
+      "duration_ms": 178333,
+      "name": "LITE (feat. Belly Gang Kushington)",
+      "url": "https://open.spotify.com/track/03ZmfQWDEIfhoaIUXi5wAq"
     },
     {
       "added_at": null,
@@ -387,6 +407,22 @@
       "duration_ms": 126000,
       "name": "Pray Hard (feat. Luke Combs)",
       "url": "https://open.spotify.com/track/1SFWLN2UHw5N7RdkEHGoSD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BETTER OVER TIME",
+        "url": "https://open.spotify.com/album/0Iccs76G7e4e403S9VRqiA"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 122333,
+      "name": "I GET IT",
+      "url": "https://open.spotify.com/track/41C8oQ4f7UZQDMAVcGLQ85"
     },
     {
       "added_at": null,
@@ -435,22 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BETTER OVER TIME",
-        "url": "https://open.spotify.com/album/0Iccs76G7e4e403S9VRqiA"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 122333,
-      "name": "I GET IT",
-      "url": "https://open.spotify.com/track/41C8oQ4f7UZQDMAVcGLQ85"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "AMAR",
         "url": "https://open.spotify.com/album/7edOMLcHlhP4Y1b6tzJbn4"
       },
@@ -463,6 +483,26 @@
       "duration_ms": 133002,
       "name": "Change",
       "url": "https://open.spotify.com/track/4a7CRQloQmNJ2HMPmxQOac"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BETTER OVER TIME",
+        "url": "https://open.spotify.com/album/0Iccs76G7e4e403S9VRqiA"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 147226,
+      "name": "NO LIMIT (feat. Leon Thomas)",
+      "url": "https://open.spotify.com/track/6tsTH3fpf29Hk3psCrf0tT"
     },
     {
       "added_at": null,
@@ -507,26 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BETTER OVER TIME",
-        "url": "https://open.spotify.com/album/0Iccs76G7e4e403S9VRqiA"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        },
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 147226,
-      "name": "NO LIMIT (feat. Leon Thomas)",
-      "url": "https://open.spotify.com/track/6tsTH3fpf29Hk3psCrf0tT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "TAKE CARE",
         "url": "https://open.spotify.com/album/6LU7SYL9BWAt3TgEK4DdAc"
       },
@@ -539,6 +559,26 @@
       "duration_ms": 149573,
       "name": "Take Care",
       "url": "https://open.spotify.com/track/7KLZOdEqC0A2U3UtMthTqK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BETTER OVER TIME",
+        "url": "https://open.spotify.com/album/0Iccs76G7e4e403S9VRqiA"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
+        {
+          "name": "Ro$ama",
+          "url": "https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr"
+        }
+      ],
+      "duration_ms": 149533,
+      "name": "DA FUCC (feat. Ro$ama)",
+      "url": "https://open.spotify.com/track/5FIO30UOUSe7MRXGL5GHvI"
     },
     {
       "added_at": null,
@@ -579,26 +619,6 @@
       "duration_ms": 107520,
       "name": "Microwave",
       "url": "https://open.spotify.com/track/6EZ6hE4t5rUGbmyRQGexAF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BETTER OVER TIME",
-        "url": "https://open.spotify.com/album/0Iccs76G7e4e403S9VRqiA"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        },
-        {
-          "name": "Ro$ama",
-          "url": "https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr"
-        }
-      ],
-      "duration_ms": 149533,
-      "name": "DA FUCC (feat. Ro$ama)",
-      "url": "https://open.spotify.com/track/5FIO30UOUSe7MRXGL5GHvI"
     },
     {
       "added_at": null,
@@ -739,42 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Truth",
-        "url": "https://open.spotify.com/album/0zLMp5cTwpAVp4QikmvOfF"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        },
-        {
-          "name": "Ro$ama",
-          "url": "https://open.spotify.com/artist/7pw5j6dSDGQ9uYwATsdhdi"
-        }
-      ],
-      "duration_ms": 226063,
-      "name": "The Truth",
-      "url": "https://open.spotify.com/track/1toXLw1ovkDGC9bIQEn4RR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AMAR",
-        "url": "https://open.spotify.com/album/7edOMLcHlhP4Y1b6tzJbn4"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 178531,
-      "name": "Dream",
-      "url": "https://open.spotify.com/track/0Wb0tozc6XnUirmEfVwC7z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Be Someone: Texas Population",
         "url": "https://open.spotify.com/album/14XtPxh7Dy1qbLgIw8tYNi"
       },
@@ -803,6 +787,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "AMAR",
+        "url": "https://open.spotify.com/album/7edOMLcHlhP4Y1b6tzJbn4"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 178531,
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/0Wb0tozc6XnUirmEfVwC7z"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "TAKE CARE (DELUXE)",
         "url": "https://open.spotify.com/album/1XZtc4PTKO10b6B3vjwbWs"
       },
@@ -815,6 +815,26 @@
       "duration_ms": 124480,
       "name": "Life of a Boss",
       "url": "https://open.spotify.com/track/2Zom0cHy98xMHYtSFu64yX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Truth",
+        "url": "https://open.spotify.com/album/0zLMp5cTwpAVp4QikmvOfF"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
+        {
+          "name": "Ro$ama",
+          "url": "https://open.spotify.com/artist/7pw5j6dSDGQ9uYwATsdhdi"
+        }
+      ],
+      "duration_ms": 226063,
+      "name": "The Truth",
+      "url": "https://open.spotify.com/track/1toXLw1ovkDGC9bIQEn4RR"
     },
     {
       "added_at": null,
@@ -923,30 +943,6 @@
       "duration_ms": 167114,
       "name": "Picc ah Side",
       "url": "https://open.spotify.com/track/6TbgonRcfEQX9xUUbo9N5M"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Good To Me",
-        "url": "https://open.spotify.com/album/3ITvNAnHd2Ub45NyQLmZ2k"
-      },
-      "artists": [
-        {
-          "name": "Mykfresh",
-          "url": "https://open.spotify.com/artist/67cmVMoqQDWreDXtsIaJdR"
-        },
-        {
-          "name": "2RawQua",
-          "url": "https://open.spotify.com/artist/3DGljPQGDgIsRtIiqetMAo"
-        },
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 208583,
-      "name": "Good To Me",
-      "url": "https://open.spotify.com/track/09fNbO1PnafsvOIANvJCZS"
     }
   ],
   "unique_name": "This Is BigXthaPlug",

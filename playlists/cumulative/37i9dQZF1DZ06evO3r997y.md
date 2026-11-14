@@ -4,12 +4,12 @@
 
 > This is Akari Kito\. The essential tracks, all in one playlist.
 
-127 songs - 8 hr 20 min
+130 songs - 8 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [23時の春雷少女](https://open.spotify.com/track/1LL34cI74PJCGJq6i3o5s1) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [STYLE](https://open.spotify.com/album/2QFDuTNbTa8HGukQx4e5bL) | 4:21 | 2022-06-09 |  |
-| [23時の春雷少女 Live at 名古屋市公会堂 2020/10/3](https://open.spotify.com/track/6UlS8qU6OyXMHI7LkiwyhR) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [鬼頭明里 1st LIVE TOUR「Colorful Closet」Stream Selection](https://open.spotify.com/album/6QVsSElEJnjlZO0uNqUfzE) | 4:18 | 2022-06-09 | 2026-11-05 |
+| [23時の春雷少女 Live at 名古屋市公会堂 2020/10/3](https://open.spotify.com/track/6UlS8qU6OyXMHI7LkiwyhR) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [鬼頭明里 1st LIVE TOUR「Colorful Closet」Stream Selection](https://open.spotify.com/album/6QVsSElEJnjlZO0uNqUfzE) | 4:18 | 2022-06-09 |  |
 | [Afterglow](https://open.spotify.com/track/5Q5NJ6fkNVC0S9AzUF9ycf) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Journey](https://open.spotify.com/album/0Mx3Z30Xbr44Miw4QkmyLh) | 4:03 | 2025-10-29 | 2025-11-18 |
 | [Afterglow](https://open.spotify.com/track/4DvRFPXSsTkxZqwrCZPGly) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Magie Magie](https://open.spotify.com/album/501DWHpafy1a3ycR6TW3q4) | 4:04 | 2023-11-10 | 2024-01-12 |
 | [Always Going My Way](https://open.spotify.com/track/12qUwGKPv6SLq11EdyE4Zc) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Style](https://open.spotify.com/album/4qiC4VYeLzUiRS06HUH47P) | 3:54 | 2022-11-28 | 2026-06-18 |
@@ -30,10 +30,13 @@
 | [Crescent Lullaby \- Akari Kito Billboard Live 2026 2nd Stage](https://open.spotify.com/track/0YbR9vRCAJIuwwvDEWj11T) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Akari Kito Billboard Live 2026](https://open.spotify.com/album/4NGkacXsUAoPT4wT3IoBlI) | 4:00 | 2026-10-31 |  |
 | [DEAD or CALL MY NAME](https://open.spotify.com/track/0r0YGLm7BJdbDvMKb01PSu) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Luminous](https://open.spotify.com/album/3SxUa56iUcYT2tl1FbNSJg) | 3:51 | 2022-10-13 |  |
 | [Dead or Call My Name](https://open.spotify.com/track/3NJOcuEiL474TtLqqOupmU) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Luminous](https://open.spotify.com/album/3SfXj9tQ7sEH4uQNltc9Aa) | 3:51 | 2026-04-24 | 2026-10-31 |
+| [Dear Doze Days](https://open.spotify.com/track/7CqlLEZpUu2cZRo8I9Aywz) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Journey](https://open.spotify.com/album/42V5bMew9rzNjiFWFlOjQf) | 4:20 | 2026-11-14 |  |
 | [Dear Doze Days](https://open.spotify.com/track/1WTDRPZjyt8OvhB1hXGdwh) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Dear Doze Days](https://open.spotify.com/album/13qVL16kWobXvuJjRYLJf2) | 4:21 | 2023-01-08 | 2023-01-11 |
-| [Dear Doze Days](https://open.spotify.com/track/5yBKXF9lRmyispie9cWrrB) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Dear Doze Days](https://open.spotify.com/album/674QP8fOfl3LYuwsMHlmtr) | 4:21 | 2023-01-10 |  |
-| [Dear My Distance](https://open.spotify.com/track/2Hskil6dTjYz6bHF0WUIw9) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Style](https://open.spotify.com/album/4qiC4VYeLzUiRS06HUH47P) | 4:05 | 2022-06-09 |  |
-| [Desire Again](https://open.spotify.com/track/54a0azbxaptJ2rHofB7OzD) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Desire Again](https://open.spotify.com/album/1TNoCgbem1kKPGUgZRH2AK) | 4:00 | 2022-06-09 |  |
+| [Dear Doze Days](https://open.spotify.com/track/5yBKXF9lRmyispie9cWrrB) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Dear Doze Days](https://open.spotify.com/album/674QP8fOfl3LYuwsMHlmtr) | 4:21 | 2023-01-10 | 2026-11-14 |
+| [Dear My Distance](https://open.spotify.com/track/1rRDhwBhZCRBILLtCsSeG6) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Style](https://open.spotify.com/album/58lqvH4ZSvaj84l1XX6v3T) | 4:05 | 2026-11-14 |  |
+| [Dear My Distance](https://open.spotify.com/track/2Hskil6dTjYz6bHF0WUIw9) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Style](https://open.spotify.com/album/4qiC4VYeLzUiRS06HUH47P) | 4:05 | 2022-06-09 | 2026-11-14 |
+| [Desire Again](https://open.spotify.com/track/3xbeGzh2ZlTYIbCsUULV2b) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Desire Again](https://open.spotify.com/album/3fxrUdvYmXVYcDrdmsj2m8) | 4:00 | 2026-11-14 |  |
+| [Desire Again](https://open.spotify.com/track/54a0azbxaptJ2rHofB7OzD) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Desire Again](https://open.spotify.com/album/1TNoCgbem1kKPGUgZRH2AK) | 4:00 | 2022-06-09 | 2026-11-14 |
 | [Desire Again Live at Nagoyashikoukaidou 2020/10/3](https://open.spotify.com/track/5oZn6bOOlew1U02bABjPGj) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Akari Kito 1st Live Tour "Colorful Closet" Stream Selection](https://open.spotify.com/album/2mUd07vO5fluRbzbey70kw) | 3:58 | 2025-08-13 | 2025-08-19 |
 | [Desire Again Live at 名古屋市公会堂 2020/10/3](https://open.spotify.com/track/3SV0SxIW8Hom0umB4s8N8X) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [鬼頭明里 1st LIVE TOUR「Colorful Closet」Stream Selection](https://open.spotify.com/album/6QVsSElEJnjlZO0uNqUfzE) | 3:58 | 2022-06-09 | 2026-09-20 |
 | [Dive to World](https://open.spotify.com/track/4yoRRxSVF6beV7G61R1scj) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Luminous](https://open.spotify.com/album/3SxUa56iUcYT2tl1FbNSJg) | 3:35 | 2023-03-03 | 2024-02-02 |
@@ -49,7 +52,7 @@
 | [Esquisse](https://open.spotify.com/track/7aWBulbCFKjBPmY9AOJmhc) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Esquisse](https://open.spotify.com/album/49EXGjFz7XT2UeSqyb2W7H) | 5:08 | 2022-09-15 | 2022-09-17 |
 | [Esquisse](https://open.spotify.com/track/2igZxJ4EC0jze98OazqKg3) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Luminous](https://open.spotify.com/album/3SfXj9tQ7sEH4uQNltc9Aa) | 5:08 | 2023-04-30 | 2026-08-27 |
 | [Esquisse](https://open.spotify.com/track/6KZ1wCYVxZEsxn45xCKc6P) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Luminous](https://open.spotify.com/album/3SxUa56iUcYT2tl1FbNSJg) | 5:08 | 2023-05-16 |  |
-| [Eternally](https://open.spotify.com/track/3jsCKT0l7XSXjRjJel9QzC) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Journey](https://open.spotify.com/album/0VN22nXaT5LlwS1cjOX8CC) | 4:16 | 2025-11-01 |  |
+| [Eternally](https://open.spotify.com/track/3jsCKT0l7XSXjRjJel9QzC) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Journey](https://open.spotify.com/album/0VN22nXaT5LlwS1cjOX8CC) | 4:16 | 2025-11-01 | 2026-11-14 |
 | [Eternally](https://open.spotify.com/track/4p5MXB7t7dTlNCRgAuX2qE) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Journey](https://open.spotify.com/album/0Mx3Z30Xbr44Miw4QkmyLh) | 4:16 | 2025-11-09 | 2026-11-06 |
 | [Eternally](https://open.spotify.com/track/3Cm32C3h42tViTAGMEC3lL) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [With a Wish](https://open.spotify.com/album/7Ewp3pc0xqGmdTCQDz5Aeq) | 4:16 | 2025-06-27 | 2025-06-28 |
 | [Eternally](https://open.spotify.com/track/3Qa4XkazoM3bHBo9635NWT) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [With a Wish](https://open.spotify.com/album/3SluHCkyfKF9wngEBOWT7M) | 4:16 | 2025-02-28 | 2025-11-05 |

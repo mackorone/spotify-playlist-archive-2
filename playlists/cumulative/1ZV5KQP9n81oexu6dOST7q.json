@@ -1001,6 +1001,24 @@
     },
     {
       "album": {
+        "name": "Elektriciteit",
+        "url": "https://open.spotify.com/album/703VUnkGIXzidBngOP2P5q"
+      },
+      "artists": [
+        {
+          "name": "Nachtdienst",
+          "url": "https://open.spotify.com/artist/3064mDVay7KaKF8TyuD8kw"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153484,
+      "name": "Elektriciteit",
+      "url": "https://open.spotify.com/track/4ZMDZcg57yKNlg5OtCfmFs"
+    },
+    {
+      "album": {
         "name": "Dracula",
         "url": "https://open.spotify.com/album/2kCjkEVRnLdEV5UOaQSAG4"
       },

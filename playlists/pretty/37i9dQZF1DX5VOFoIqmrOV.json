@@ -1,6 +1,6 @@
 {
   "description": "The finest set of Telugu music from the past 10 years. \nCover : 35 Chinna katha kadu!",
-  "num_followers": 472019,
+  "num_followers": 472083,
   "original_name": "Tollywood Pearls",
   "owner": {
     "name": "Spotify",
@@ -597,6 +597,22 @@
       "url": "https://open.spotify.com/track/42JI4hVOPLwQ0J7WOfIieR"
     },
     {
+      "added_at": "2023-12-15 08:53:49",
+      "album": {
+        "name": "Hi Nanna",
+        "url": "https://open.spotify.com/album/1dpKR9xGrVPqN4l78ymrKD"
+      },
+      "artists": [
+        {
+          "name": "Hesham Abdul Wahab",
+          "url": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
+        }
+      ],
+      "duration_ms": 266200,
+      "name": "Gaaju Bomma",
+      "url": "https://open.spotify.com/track/7xmkMdxtGt9jEQVyQK8TP8"
+    },
+    {
       "added_at": "2023-05-04 06:50:45",
       "album": {
         "name": "Dasara (Telugu)",
@@ -619,22 +635,6 @@
       "duration_ms": 203052,
       "name": "Chamkeela Angeelesi",
       "url": "https://open.spotify.com/track/5nhP1idzo26UhFB9jjlIDE"
-    },
-    {
-      "added_at": "2023-12-15 08:53:49",
-      "album": {
-        "name": "Hi Nanna",
-        "url": "https://open.spotify.com/album/1dpKR9xGrVPqN4l78ymrKD"
-      },
-      "artists": [
-        {
-          "name": "Hesham Abdul Wahab",
-          "url": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
-        }
-      ],
-      "duration_ms": 266200,
-      "name": "Gaaju Bomma",
-      "url": "https://open.spotify.com/track/7xmkMdxtGt9jEQVyQK8TP8"
     },
     {
       "added_at": "2023-08-07 09:11:28",
@@ -1189,28 +1189,28 @@
       "url": "https://open.spotify.com/track/6HrOl8dhXsE6RCR4I7Q91K"
     },
     {
-      "added_at": "2024-01-04 06:17:05",
+      "added_at": "2023-05-04 06:50:45",
       "album": {
-        "name": "Ammaadi (From \"Hi Nanna\")",
-        "url": "https://open.spotify.com/album/0wSKxp1N4ux0vbWGFx7Fhs"
+        "name": "Chitralahari (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5pr4jhCfAZ2VjaC45ebThr"
       },
       "artists": [
         {
-          "name": "Shakthisree Gopalan",
-          "url": "https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP"
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
         },
         {
-          "name": "Kala Bhairava",
-          "url": "https://open.spotify.com/artist/4tejKImNVmDcORNBuZ1l14"
+          "name": "Sudharshan Ashok",
+          "url": "https://open.spotify.com/artist/0NCSUqKWDdQrLf7688pRa6"
         },
         {
-          "name": "Hesham Abdul Wahab",
-          "url": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
+          "name": "Sreemani",
+          "url": "https://open.spotify.com/artist/4FMXVUiqvq8093FT0KBRza"
         }
       ],
-      "duration_ms": 219018,
-      "name": "Ammaadi (From \"Hi Nanna\")",
-      "url": "https://open.spotify.com/track/3bPDmXZO6aMcH3h8bkTAdN"
+      "duration_ms": 217875,
+      "name": "Prema Vennela",
+      "url": "https://open.spotify.com/track/5mBwJ0Dl4GSoXwbATPtcsj"
     },
     {
       "added_at": "2025-12-16 12:04:49",
@@ -1237,28 +1237,28 @@
       "url": "https://open.spotify.com/track/5c22snIfXnckNXV4FkLVfs"
     },
     {
-      "added_at": "2023-05-04 06:50:45",
+      "added_at": "2024-01-04 06:17:05",
       "album": {
-        "name": "Chitralahari (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5pr4jhCfAZ2VjaC45ebThr"
+        "name": "Ammaadi (From \"Hi Nanna\")",
+        "url": "https://open.spotify.com/album/0wSKxp1N4ux0vbWGFx7Fhs"
       },
       "artists": [
         {
-          "name": "Devi Sri Prasad",
-          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+          "name": "Shakthisree Gopalan",
+          "url": "https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP"
         },
         {
-          "name": "Sudharshan Ashok",
-          "url": "https://open.spotify.com/artist/0NCSUqKWDdQrLf7688pRa6"
+          "name": "Kala Bhairava",
+          "url": "https://open.spotify.com/artist/4tejKImNVmDcORNBuZ1l14"
         },
         {
-          "name": "Sreemani",
-          "url": "https://open.spotify.com/artist/4FMXVUiqvq8093FT0KBRza"
+          "name": "Hesham Abdul Wahab",
+          "url": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
         }
       ],
-      "duration_ms": 217875,
-      "name": "Prema Vennela",
-      "url": "https://open.spotify.com/track/5mBwJ0Dl4GSoXwbATPtcsj"
+      "duration_ms": 219018,
+      "name": "Ammaadi (From \"Hi Nanna\")",
+      "url": "https://open.spotify.com/track/3bPDmXZO6aMcH3h8bkTAdN"
     },
     {
       "added_at": "2023-01-10 09:27:27",
@@ -1729,6 +1729,22 @@
       "url": "https://open.spotify.com/track/5pOY1Vg2TIIbVBfR6yAg0C"
     },
     {
+      "added_at": "2023-08-07 09:11:28",
+      "album": {
+        "name": "Fidaa",
+        "url": "https://open.spotify.com/album/2OPvJhDyy9YvHJT3xt7Zwh"
+      },
+      "artists": [
+        {
+          "name": "Hemachandra Vedala",
+          "url": "https://open.spotify.com/artist/26R3WRFIf6FbbNAQuMIjkN"
+        }
+      ],
+      "duration_ms": 273181,
+      "name": "Oosupodu",
+      "url": "https://open.spotify.com/track/0xNiDPK4YdZ51ALxSid0QV"
+    },
+    {
       "added_at": "2024-04-18 09:26:24",
       "album": {
         "name": "Om Bheem Bush",
@@ -1751,22 +1767,6 @@
       "duration_ms": 211670,
       "name": "Anuvanuvuu",
       "url": "https://open.spotify.com/track/0kNe3kmRFq7eKVlL15h7nb"
-    },
-    {
-      "added_at": "2023-08-07 09:11:28",
-      "album": {
-        "name": "Fidaa",
-        "url": "https://open.spotify.com/album/2OPvJhDyy9YvHJT3xt7Zwh"
-      },
-      "artists": [
-        {
-          "name": "Hemachandra Vedala",
-          "url": "https://open.spotify.com/artist/26R3WRFIf6FbbNAQuMIjkN"
-        }
-      ],
-      "duration_ms": 273181,
-      "name": "Oosupodu",
-      "url": "https://open.spotify.com/track/0xNiDPK4YdZ51ALxSid0QV"
     },
     {
       "added_at": "2023-01-11 20:52:12",
@@ -1993,6 +1993,26 @@
       "url": "https://open.spotify.com/track/2333RV2lqw4JGTd2TSgIQ5"
     },
     {
+      "added_at": "2023-08-07 09:11:28",
+      "album": {
+        "name": "Fidaa",
+        "url": "https://open.spotify.com/album/2OPvJhDyy9YvHJT3xt7Zwh"
+      },
+      "artists": [
+        {
+          "name": "Sindhuri",
+          "url": "https://open.spotify.com/artist/42hb3CC6jTpF3vve0FkquG"
+        },
+        {
+          "name": "Sinov Raj",
+          "url": "https://open.spotify.com/artist/0Xk1j528pHoL2oervr3qP0"
+        }
+      ],
+      "duration_ms": 248133,
+      "name": "Hey Pillagaada",
+      "url": "https://open.spotify.com/track/3A3vrhAzRGaK92PtFzndjS"
+    },
+    {
       "added_at": "2022-07-24 04:40:57",
       "album": {
         "name": "Ala Vaikunthapurramuloo",
@@ -2147,22 +2167,6 @@
       "duration_ms": 271428,
       "name": "Yenno Yenno",
       "url": "https://open.spotify.com/track/6jaQom4BBYEoylc4NSMcga"
-    },
-    {
-      "added_at": "2023-08-07 09:11:28",
-      "album": {
-        "name": "Nenu Sailaja",
-        "url": "https://open.spotify.com/album/1pE2RYH3lcDdLpMVjBslBp"
-      },
-      "artists": [
-        {
-          "name": "Prudhvi Chandra",
-          "url": "https://open.spotify.com/artist/4xUI2yJe8cZHYGhS8rk1oR"
-        }
-      ],
-      "duration_ms": 209961,
-      "name": "Crazy Feeling",
-      "url": "https://open.spotify.com/track/4cEhCuw7sLZsLIQA1EBvxZ"
     }
   ],
   "unique_name": "Tollywood Pearls",

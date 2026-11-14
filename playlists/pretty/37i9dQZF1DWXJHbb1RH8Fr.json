@@ -1,6 +1,6 @@
 {
   "description": "Ruhunu dinlendirece\u011fin bu kutsal ayda yolculu\u011funa e\u015flik edecek ney ezgileri. G\u00f6rsel: Sultanahmet Camii",
-  "num_followers": 12479,
+  "num_followers": 12478,
   "original_name": "Ramazan",
   "owner": {
     "name": "Spotify",
@@ -291,6 +291,22 @@
     {
       "added_at": "2024-03-05 11:27:00",
       "album": {
+        "name": "T\u00fcrk Tasavvuf Musikisi Korosu \u0130lahiler 1",
+        "url": "https://open.spotify.com/album/7fiu6uWVYeutMeFfvZSOjn"
+      },
+      "artists": [
+        {
+          "name": "Ahmet Hakk\u0131 Turabi",
+          "url": "https://open.spotify.com/artist/1Q53gmZO7nNx8VQABN5t6R"
+        }
+      ],
+      "duration_ms": 98653,
+      "name": "Sagah Ney Taksimi - Enstrumental",
+      "url": "https://open.spotify.com/track/2kVPJredPKd97hbyADqvlC"
+    },
+    {
+      "added_at": "2024-03-05 11:27:00",
+      "album": {
         "name": "Sufi Ney-II",
         "url": "https://open.spotify.com/album/2JeR64azmA15vUXz0GUc4f"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 229537,
       "name": "G\u00fcl Bah\u00e7esi",
       "url": "https://open.spotify.com/track/764idkmt4QTajFaD4LGG21"
-    },
-    {
-      "added_at": "2024-03-05 11:27:00",
-      "album": {
-        "name": "T\u00fcrk Tasavvuf Musikisi Korosu \u0130lahiler 1",
-        "url": "https://open.spotify.com/album/7fiu6uWVYeutMeFfvZSOjn"
-      },
-      "artists": [
-        {
-          "name": "Ahmet Hakk\u0131 Turabi",
-          "url": "https://open.spotify.com/artist/1Q53gmZO7nNx8VQABN5t6R"
-        }
-      ],
-      "duration_ms": 98653,
-      "name": "Sagah Ney Taksimi - Enstrumental",
-      "url": "https://open.spotify.com/track/2kVPJredPKd97hbyADqvlC"
     },
     {
       "added_at": "2024-03-05 11:27:00",

@@ -1,6 +1,6 @@
 {
   "description": "100 canciones de la \u00e9poca nost\u00e1lgica m\u00e1s reciente.",
-  "num_followers": 392628,
+  "num_followers": 392638,
   "original_name": "Los 2000 Argentina",
   "owner": {
     "name": "Spotify",
@@ -815,22 +815,6 @@
     {
       "added_at": "2026-06-26 15:38:11",
       "album": {
-        "name": "La Lata",
-        "url": "https://open.spotify.com/album/5FiOEoJn43wbtD6aqLrQqP"
-      },
-      "artists": [
-        {
-          "name": "Supermerk2",
-          "url": "https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i"
-        }
-      ],
-      "duration_ms": 244653,
-      "name": "Que Calor",
-      "url": "https://open.spotify.com/track/6UhA9om01c39JQAT17rtQn"
-    },
-    {
-      "added_at": "2026-06-26 15:38:11",
-      "album": {
         "name": "Libertinaje",
         "url": "https://open.spotify.com/album/4jvy4EtQG6BrW2FZewSZri"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 259813,
       "name": "Sr. Cobranza",
       "url": "https://open.spotify.com/track/0zXMZx9kvFO6x58JiIh4BJ"
+    },
+    {
+      "added_at": "2026-06-26 15:38:11",
+      "album": {
+        "name": "La Lata",
+        "url": "https://open.spotify.com/album/5FiOEoJn43wbtD6aqLrQqP"
+      },
+      "artists": [
+        {
+          "name": "Supermerk2",
+          "url": "https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i"
+        }
+      ],
+      "duration_ms": 244653,
+      "name": "Que Calor",
+      "url": "https://open.spotify.com/track/6UhA9om01c39JQAT17rtQn"
     },
     {
       "added_at": "2026-06-26 15:38:11",
@@ -963,22 +963,6 @@
     {
       "added_at": "2026-06-26 15:38:11",
       "album": {
-        "name": "Narig\u00f3n del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre",
-        "url": "https://open.spotify.com/album/4GkZExYLfegidZaO1BgpvU"
-      },
-      "artists": [
-        {
-          "name": "Divididos",
-          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
-        }
-      ],
-      "duration_ms": 198706,
-      "name": "Par Mil",
-      "url": "https://open.spotify.com/track/0wUFXsXHZc2h6wKRcmJNWF"
-    },
-    {
-      "added_at": "2026-06-26 15:38:11",
-      "album": {
         "name": "Despedazado Por Mil Partes",
         "url": "https://open.spotify.com/album/0eH6ICTcUbNqjplgRISQEg"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 259533,
       "name": "Lo Fr\u00e1gil De La Locura",
       "url": "https://open.spotify.com/track/53LovEbSOlvxq2qj8EMWub"
+    },
+    {
+      "added_at": "2026-06-26 15:38:11",
+      "album": {
+        "name": "Narig\u00f3n del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre",
+        "url": "https://open.spotify.com/album/4GkZExYLfegidZaO1BgpvU"
+      },
+      "artists": [
+        {
+          "name": "Divididos",
+          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
+        }
+      ],
+      "duration_ms": 198706,
+      "name": "Par Mil",
+      "url": "https://open.spotify.com/track/0wUFXsXHZc2h6wKRcmJNWF"
     },
     {
       "added_at": "2026-06-26 15:38:11",
@@ -1011,8 +1011,8 @@
     {
       "added_at": "2026-06-26 15:38:11",
       "album": {
-        "name": "Operacion Damas Gratis",
-        "url": "https://open.spotify.com/album/4xM6QpVTidPwR4ohNdJMg9"
+        "name": "Sin Remedio",
+        "url": "https://open.spotify.com/album/3C7wJlpB5i90gaL1XBvwcT"
       },
       "artists": [
         {
@@ -1020,9 +1020,9 @@
           "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
         }
       ],
-      "duration_ms": 219693,
-      "name": "Quieren bajarme",
-      "url": "https://open.spotify.com/track/3XDJemacsxOxdwBjA8Mjw9"
+      "duration_ms": 299426,
+      "name": "Mir\u00e1 Como Est\u00e1 La Vagancia",
+      "url": "https://open.spotify.com/track/5CmYHW6tHT8tPbLef7mjBP"
     },
     {
       "added_at": "2026-06-26 15:38:11",
@@ -1091,8 +1091,8 @@
     {
       "added_at": "2026-06-26 15:38:11",
       "album": {
-        "name": "Sin Remedio",
-        "url": "https://open.spotify.com/album/3C7wJlpB5i90gaL1XBvwcT"
+        "name": "Operacion Damas Gratis",
+        "url": "https://open.spotify.com/album/4xM6QpVTidPwR4ohNdJMg9"
       },
       "artists": [
         {
@@ -1100,9 +1100,9 @@
           "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
         }
       ],
-      "duration_ms": 299426,
-      "name": "Mir\u00e1 Como Est\u00e1 La Vagancia",
-      "url": "https://open.spotify.com/track/5CmYHW6tHT8tPbLef7mjBP"
+      "duration_ms": 219693,
+      "name": "Quieren bajarme",
+      "url": "https://open.spotify.com/track/3XDJemacsxOxdwBjA8Mjw9"
     },
     {
       "added_at": "2026-06-26 15:38:11",

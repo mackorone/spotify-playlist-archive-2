@@ -1,6 +1,6 @@
 {
   "description": "After all, we are all siblings. Cover: Bernadya, Pamungkas",
-  "num_followers": 37462,
+  "num_followers": 37460,
   "original_name": "mantap vibes",
   "owner": {
     "name": "Spotify",
@@ -1059,6 +1059,26 @@
     {
       "added_at": "2026-10-16 07:21:03",
       "album": {
+        "name": "Ceritaku Ceritamu",
+        "url": "https://open.spotify.com/album/0vVtkDFicJAy0owOfMpChO"
+      },
+      "artists": [
+        {
+          "name": "Katyana",
+          "url": "https://open.spotify.com/artist/3pfvO3S6cSlzcKBeigiWKz"
+        },
+        {
+          "name": "Nadhif Basalamah",
+          "url": "https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO"
+        }
+      ],
+      "duration_ms": 213500,
+      "name": "Ceritaku Ceritamu",
+      "url": "https://open.spotify.com/track/1Il8WKr9h6azKAlVrFgeVz"
+    },
+    {
+      "added_at": "2026-10-16 07:21:03",
+      "album": {
         "name": "I Miss You Every Brand New Day (From \"Spider-Man: Brand New Day\" Movie)",
         "url": "https://open.spotify.com/album/0oHozoyyDMK8Txgqf3e6xk"
       },
@@ -1087,26 +1107,6 @@
       "duration_ms": 175764,
       "name": "Terbang - Original Soundtrack From Tarung: Unforgiven",
       "url": "https://open.spotify.com/track/0Ng7ays249fbahyqJQGTi0"
-    },
-    {
-      "added_at": "2026-10-16 07:21:03",
-      "album": {
-        "name": "Ceritaku Ceritamu",
-        "url": "https://open.spotify.com/album/0vVtkDFicJAy0owOfMpChO"
-      },
-      "artists": [
-        {
-          "name": "Katyana",
-          "url": "https://open.spotify.com/artist/3pfvO3S6cSlzcKBeigiWKz"
-        },
-        {
-          "name": "Nadhif Basalamah",
-          "url": "https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO"
-        }
-      ],
-      "duration_ms": 213500,
-      "name": "Ceritaku Ceritamu",
-      "url": "https://open.spotify.com/track/1Il8WKr9h6azKAlVrFgeVz"
     },
     {
       "added_at": "2026-10-16 07:21:03",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2026-10-16 07:21:03",
       "album": {
-        "name": "Hatchu!!",
-        "url": "https://open.spotify.com/album/1BTnjmmBTK1QxlqwYPdQ5F"
-      },
-      "artists": [
-        {
-          "name": "Salma Salsabil",
-          "url": "https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs"
-        }
-      ],
-      "duration_ms": 204343,
-      "name": "Hatchu!!",
-      "url": "https://open.spotify.com/track/2Xrakgck64eK7BebSfiWsp"
-    },
-    {
-      "added_at": "2026-10-16 07:21:03",
-      "album": {
         "name": "Adu Pandang",
         "url": "https://open.spotify.com/album/5XosZNUeyiDQVu5J3OXKhc"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 186957,
       "name": "Adu Pandang",
       "url": "https://open.spotify.com/track/4DqIWiVTcYzMuaZaa6QIEc"
+    },
+    {
+      "added_at": "2026-10-16 07:21:03",
+      "album": {
+        "name": "Hatchu!!",
+        "url": "https://open.spotify.com/album/1BTnjmmBTK1QxlqwYPdQ5F"
+      },
+      "artists": [
+        {
+          "name": "Salma Salsabil",
+          "url": "https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs"
+        }
+      ],
+      "duration_ms": 204343,
+      "name": "Hatchu!!",
+      "url": "https://open.spotify.com/track/2Xrakgck64eK7BebSfiWsp"
     },
     {
       "added_at": "2026-10-16 07:21:03",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2026-10-16 07:21:03",
       "album": {
-        "name": "Tanda Cinta",
-        "url": "https://open.spotify.com/album/0Oc1MACglKTcDBVus3HE7J"
-      },
-      "artists": [
-        {
-          "name": "Kaleb J",
-          "url": "https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb"
-        }
-      ],
-      "duration_ms": 274430,
-      "name": "Tanda Cinta",
-      "url": "https://open.spotify.com/track/0ln5g8IxH6IQMx5CmeBZen"
-    },
-    {
-      "added_at": "2026-10-16 07:21:03",
-      "album": {
         "name": "Tulips",
         "url": "https://open.spotify.com/album/5Dzekft2Oi1AkJKLBhJrcs"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 254400,
       "name": "Tulips",
       "url": "https://open.spotify.com/track/358ebpX0j2KttZ9IxzEjKB"
+    },
+    {
+      "added_at": "2026-10-16 07:21:03",
+      "album": {
+        "name": "Tanda Cinta",
+        "url": "https://open.spotify.com/album/0Oc1MACglKTcDBVus3HE7J"
+      },
+      "artists": [
+        {
+          "name": "Kaleb J",
+          "url": "https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb"
+        }
+      ],
+      "duration_ms": 274430,
+      "name": "Tanda Cinta",
+      "url": "https://open.spotify.com/track/0ln5g8IxH6IQMx5CmeBZen"
     },
     {
       "added_at": "2026-10-16 07:21:03",

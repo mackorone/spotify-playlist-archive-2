@@ -1,6 +1,6 @@
 {
   "description": "D\u00f2ng ch\u1ea3y rap Vi\u1ec7t lu\u00f4n cu\u1ed3n cu\u1ed9n. \u1ea2nh b\u00eca: RPT MCK\n",
-  "num_followers": 125224,
+  "num_followers": 125235,
   "original_name": "Hip-hop Vi\u1ec7t",
   "owner": {
     "name": "Spotify",
@@ -195,6 +195,22 @@
     {
       "added_at": "2026-11-12 17:00:08",
       "album": {
+        "name": "Y\u00eau 5",
+        "url": "https://open.spotify.com/album/0zverkhFFDtpDSZlbmJkTr"
+      },
+      "artists": [
+        {
+          "name": "Rhymastic",
+          "url": "https://open.spotify.com/artist/0gGd4WhPXBSgDX6fdOHcOw"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Y\u00eau 5",
+      "url": "https://open.spotify.com/track/5U30iZBlmxkpHqzb1OSnBS"
+    },
+    {
+      "added_at": "2026-11-12 17:00:08",
+      "album": {
         "name": "NG\u1ef0A \u00d4",
         "url": "https://open.spotify.com/album/0gkv4yJzOP4UG19rm8lumW"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 215415,
       "name": "NG\u1ef0A \u00d4",
       "url": "https://open.spotify.com/track/4eeflgjzTF8xN8U2E0dech"
-    },
-    {
-      "added_at": "2026-11-12 17:00:08",
-      "album": {
-        "name": "Y\u00eau 5",
-        "url": "https://open.spotify.com/album/0zverkhFFDtpDSZlbmJkTr"
-      },
-      "artists": [
-        {
-          "name": "Rhymastic",
-          "url": "https://open.spotify.com/artist/0gGd4WhPXBSgDX6fdOHcOw"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Y\u00eau 5",
-      "url": "https://open.spotify.com/track/5U30iZBlmxkpHqzb1OSnBS"
     },
     {
       "added_at": "2026-11-12 17:00:08",
@@ -487,18 +487,30 @@
     {
       "added_at": "2026-11-12 17:00:08",
       "album": {
-        "name": "WILD WEST",
-        "url": "https://open.spotify.com/album/1iVBHUg2oLEsQB0O9qSjGj"
+        "name": "2GOILAYS",
+        "url": "https://open.spotify.com/album/00kEhnqwIBY3sNngZHjpRS"
       },
       "artists": [
         {
-          "name": "Yung Ni99",
-          "url": "https://open.spotify.com/artist/0XJGo6xvJ24G9XXuT1A3NA"
+          "name": "MR LANH",
+          "url": "https://open.spotify.com/artist/54gIDmy6EgICaX1Uiez1iC"
+        },
+        {
+          "name": "Dangrangto",
+          "url": "https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI"
+        },
+        {
+          "name": "TeuYungBoy",
+          "url": "https://open.spotify.com/artist/3oD2yI1g6aT3KawHD8ZYaU"
+        },
+        {
+          "name": "DONAL",
+          "url": "https://open.spotify.com/artist/3rSAej8VUifF02zpsGjsRZ"
         }
       ],
-      "duration_ms": 154285,
-      "name": "Young Money",
-      "url": "https://open.spotify.com/track/0qMIga6w9V9cOQeXsh6KgJ"
+      "duration_ms": 260252,
+      "name": "2GOILAYS",
+      "url": "https://open.spotify.com/track/4TQ0Jgrhe4V9MMqjKViub5"
     },
     {
       "added_at": "2026-11-12 17:00:08",
@@ -527,30 +539,18 @@
     {
       "added_at": "2026-11-12 17:00:08",
       "album": {
-        "name": "2GOILAYS",
-        "url": "https://open.spotify.com/album/00kEhnqwIBY3sNngZHjpRS"
+        "name": "WILD WEST",
+        "url": "https://open.spotify.com/album/1iVBHUg2oLEsQB0O9qSjGj"
       },
       "artists": [
         {
-          "name": "MR LANH",
-          "url": "https://open.spotify.com/artist/54gIDmy6EgICaX1Uiez1iC"
-        },
-        {
-          "name": "Dangrangto",
-          "url": "https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI"
-        },
-        {
-          "name": "TeuYungBoy",
-          "url": "https://open.spotify.com/artist/3oD2yI1g6aT3KawHD8ZYaU"
-        },
-        {
-          "name": "DONAL",
-          "url": "https://open.spotify.com/artist/3rSAej8VUifF02zpsGjsRZ"
+          "name": "Yung Ni99",
+          "url": "https://open.spotify.com/artist/0XJGo6xvJ24G9XXuT1A3NA"
         }
       ],
-      "duration_ms": 260252,
-      "name": "2GOILAYS",
-      "url": "https://open.spotify.com/track/4TQ0Jgrhe4V9MMqjKViub5"
+      "duration_ms": 154285,
+      "name": "Young Money",
+      "url": "https://open.spotify.com/track/0qMIga6w9V9cOQeXsh6KgJ"
     },
     {
       "added_at": "2026-11-12 17:00:08",
@@ -839,22 +839,18 @@
     {
       "added_at": "2026-11-12 17:00:08",
       "album": {
-        "name": "G\u1eb7p L\u1ea1i",
-        "url": "https://open.spotify.com/album/7KhulL89ZB118WVHfgCSm4"
+        "name": "Berlin",
+        "url": "https://open.spotify.com/album/5mIp41bAjfCpYSCompU7cE"
       },
       "artists": [
         {
-          "name": "Binz",
-          "url": "https://open.spotify.com/artist/2nSO7JYDbJrYbJmP39qUzj"
-        },
-        {
-          "name": "Obito",
-          "url": "https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp"
+          "name": "Khoi Vu",
+          "url": "https://open.spotify.com/artist/71Cy7nzbfpuGJAS5FGxm93"
         }
       ],
-      "duration_ms": 255256,
-      "name": "N\u1ebfu (feat. Obito)",
-      "url": "https://open.spotify.com/track/102XJmW0OH1WATZMW9avu2"
+      "duration_ms": 138973,
+      "name": "Berlin",
+      "url": "https://open.spotify.com/track/32K6zBYFUUxKrdsoZd7k3v"
     },
     {
       "added_at": "2026-11-12 17:00:08",
@@ -871,6 +867,26 @@
       "duration_ms": 344276,
       "name": "T\u1ea5m L\u00f2ng C\u1eedu Long",
       "url": "https://open.spotify.com/track/6roVxIZN2frBQoXFomdWW5"
+    },
+    {
+      "added_at": "2026-11-12 17:00:08",
+      "album": {
+        "name": "G\u1eb7p L\u1ea1i",
+        "url": "https://open.spotify.com/album/7KhulL89ZB118WVHfgCSm4"
+      },
+      "artists": [
+        {
+          "name": "Binz",
+          "url": "https://open.spotify.com/artist/2nSO7JYDbJrYbJmP39qUzj"
+        },
+        {
+          "name": "Obito",
+          "url": "https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp"
+        }
+      ],
+      "duration_ms": 255256,
+      "name": "N\u1ebfu (feat. Obito)",
+      "url": "https://open.spotify.com/track/102XJmW0OH1WATZMW9avu2"
     },
     {
       "added_at": "2026-11-12 17:00:08",
@@ -911,22 +927,6 @@
     {
       "added_at": "2026-11-12 17:00:08",
       "album": {
-        "name": "Berlin",
-        "url": "https://open.spotify.com/album/5mIp41bAjfCpYSCompU7cE"
-      },
-      "artists": [
-        {
-          "name": "Khoi Vu",
-          "url": "https://open.spotify.com/artist/71Cy7nzbfpuGJAS5FGxm93"
-        }
-      ],
-      "duration_ms": 138973,
-      "name": "Berlin",
-      "url": "https://open.spotify.com/track/32K6zBYFUUxKrdsoZd7k3v"
-    },
-    {
-      "added_at": "2026-11-12 17:00:08",
-      "album": {
         "name": "Em B\u00e9",
         "url": "https://open.spotify.com/album/4h6b472LS8MBZuNZzKQQDN"
       },
@@ -943,26 +943,6 @@
       "duration_ms": 192000,
       "name": "Em B\u00e9",
       "url": "https://open.spotify.com/track/4RZJObXQzsKQLd25LBjBG8"
-    },
-    {
-      "added_at": "2026-11-12 17:00:08",
-      "album": {
-        "name": "Ch\u00ecm S\u00e2u",
-        "url": "https://open.spotify.com/album/2AZXUAGWs90yNEUC4biubs"
-      },
-      "artists": [
-        {
-          "name": "RPT MCK",
-          "url": "https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL"
-        },
-        {
-          "name": "Trung Tr\u1ea7n",
-          "url": "https://open.spotify.com/artist/2v14NO80QYditUms7sbEIZ"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Ch\u00ecm S\u00e2u",
-      "url": "https://open.spotify.com/track/4ih9noxBfg7euMjCPO0qNH"
     },
     {
       "added_at": "2026-11-12 17:00:08",
@@ -991,6 +971,26 @@
     {
       "added_at": "2026-11-12 17:00:08",
       "album": {
+        "name": "Ch\u00ecm S\u00e2u",
+        "url": "https://open.spotify.com/album/2AZXUAGWs90yNEUC4biubs"
+      },
+      "artists": [
+        {
+          "name": "RPT MCK",
+          "url": "https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL"
+        },
+        {
+          "name": "Trung Tr\u1ea7n",
+          "url": "https://open.spotify.com/artist/2v14NO80QYditUms7sbEIZ"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Ch\u00ecm S\u00e2u",
+      "url": "https://open.spotify.com/track/4ih9noxBfg7euMjCPO0qNH"
+    },
+    {
+      "added_at": "2026-11-12 17:00:08",
+      "album": {
         "name": "ABG",
         "url": "https://open.spotify.com/album/5wSNbLGJ4o9HcBuwfAf84l"
       },
@@ -1011,26 +1011,6 @@
     {
       "added_at": "2026-11-12 17:00:08",
       "album": {
-        "name": "DEJA VU",
-        "url": "https://open.spotify.com/album/6BVlsEO0l2upeO4fukXxvf"
-      },
-      "artists": [
-        {
-          "name": "EREN",
-          "url": "https://open.spotify.com/artist/1CmpPe389rlcewV0pAmxyq"
-        },
-        {
-          "name": "Lil Liem",
-          "url": "https://open.spotify.com/artist/5WtJZwEnoNM2Te1jh6Uftx"
-        }
-      ],
-      "duration_ms": 137787,
-      "name": "B\u00caN ANH",
-      "url": "https://open.spotify.com/track/6zA4zZf2aAoF74L16EePDQ"
-    },
-    {
-      "added_at": "2026-11-12 17:00:08",
-      "album": {
         "name": "C\u00f3 L\u1ebd Anh Ch\u01b0a T\u1eebng",
         "url": "https://open.spotify.com/album/3hgXb4KBABOU4IHPpfODp2"
       },
@@ -1047,6 +1027,26 @@
       "duration_ms": 294534,
       "name": "C\u00f3 L\u1ebd Anh Ch\u01b0a T\u1eebng",
       "url": "https://open.spotify.com/track/1n5vwy1usk9prr2Yuh9Lt8"
+    },
+    {
+      "added_at": "2026-11-12 17:00:08",
+      "album": {
+        "name": "DEJA VU",
+        "url": "https://open.spotify.com/album/6BVlsEO0l2upeO4fukXxvf"
+      },
+      "artists": [
+        {
+          "name": "EREN",
+          "url": "https://open.spotify.com/artist/1CmpPe389rlcewV0pAmxyq"
+        },
+        {
+          "name": "Lil Liem",
+          "url": "https://open.spotify.com/artist/5WtJZwEnoNM2Te1jh6Uftx"
+        }
+      ],
+      "duration_ms": 137787,
+      "name": "B\u00caN ANH",
+      "url": "https://open.spotify.com/track/6zA4zZf2aAoF74L16EePDQ"
     }
   ],
   "unique_name": "Hip-hop Vi\u1ec7t",

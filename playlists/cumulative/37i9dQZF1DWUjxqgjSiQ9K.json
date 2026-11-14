@@ -3949,7 +3949,7 @@
     },
     {
       "album": {
-        "name": "Fuego en el Altar Vol.2",
+        "name": "Fuego en el Altar Vol. 2",
         "url": "https://open.spotify.com/album/1kvyDTioHzNZvoiR1dRmd2"
       },
       "artists": [
@@ -10246,6 +10246,24 @@
       "duration_ms": 258795,
       "name": "La Mesa",
       "url": "https://open.spotify.com/track/02LK8U3ubV5HzZYTBVXj54"
+    },
+    {
+      "album": {
+        "name": "La Mesa",
+        "url": "https://open.spotify.com/album/3e1YJTBQZXgscvnsKrx72W"
+      },
+      "artists": [
+        {
+          "name": "Vaes",
+          "url": "https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221461,
+      "name": "La Mesa",
+      "url": "https://open.spotify.com/track/30MfAUxj4WI9uPyQzjWwYH"
     },
     {
       "album": {
@@ -19678,7 +19696,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 194000,
       "name": "UN TOUR",
       "url": "https://open.spotify.com/track/5QqzWP5sAQPSjqMdhWJH7r"

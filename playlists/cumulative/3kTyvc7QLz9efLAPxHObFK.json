@@ -55817,6 +55817,28 @@
     },
     {
       "album": {
+        "name": "Tainted Love",
+        "url": "https://open.spotify.com/album/5JyJ1D03s6nOukcA73eeJ6"
+      },
+      "artists": [
+        {
+          "name": "Darren Styles",
+          "url": "https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm"
+        },
+        {
+          "name": "Dougal",
+          "url": "https://open.spotify.com/artist/4Dn8TwLoOeWtznIg0LLWFL"
+        }
+      ],
+      "date_added": "2026-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166956,
+      "name": "Tainted Love - Extended Mix",
+      "url": "https://open.spotify.com/track/6eenkpAuYD1zjAJnpnveVB"
+    },
+    {
+      "album": {
         "name": "Take A Ride",
         "url": "https://open.spotify.com/album/0GaU783CD7TVU4pZHX2y2w"
       },

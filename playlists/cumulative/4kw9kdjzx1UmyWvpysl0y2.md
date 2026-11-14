@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,337 songs - 3 day 2 hr 4 min
+1,338 songs - 3 day 2 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -383,6 +383,7 @@
 | [Erased](https://open.spotify.com/track/3ug5IXh3CC4keJp0zNEWrq) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [Andrea Botez](https://open.spotify.com/artist/2Csf1qoijHi5nMt2mMJcjd) | [Erased](https://open.spotify.com/album/0Pd0xUoBSx6MsRMNJmmKPs) | 3:02 | 2025-03-07 | 2025-05-30 |
 | [Este](https://open.spotify.com/track/7jGOUkaWlFj9zPEM0u9gHx) | [Etza](https://open.spotify.com/artist/5XCGOe3YCAhxsfQIUb5xGe) | [Este](https://open.spotify.com/album/67RvEFugxevmYfrHVRiyUt) | 2:50 | 2024-10-01 | 2025-01-10 |
 | [Eucalyptus](https://open.spotify.com/track/6Clt8DqNy7pvteaNfwSTDI) | [Flexible Fire](https://open.spotify.com/artist/76sA8VLsfgOY1qoNgHnf8K), [Dias Ridge](https://open.spotify.com/artist/4Tn3M7czIarbhSFOmHYVMu) | [Eucalyptus](https://open.spotify.com/album/700EBo3VDkXqSssWGjCFMl) | 3:09 | 2025-05-20 | 2025-08-16 |
+| [Euphoria](https://open.spotify.com/track/2zP5hJzCCtzK7ebOdn8UyD) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [Euphoria](https://open.spotify.com/album/0a8aICi3QOfsOBqx7wNBaj) | 2:51 | 2026-11-13 |  |
 | [Euphoria](https://open.spotify.com/track/4tOrfScwPApEDe0adbNzxh) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y), [Stonebank](https://open.spotify.com/artist/4lC8Q0azW5ij2e1skZo377) | [Euphoria](https://open.spotify.com/album/4SfmVWUmmRcNYUUYckepDQ) | 3:04 | 2023-04-24 | 2023-07-22 |
 | [Euphoria Rush](https://open.spotify.com/track/1OUBfd2vYvT6w8ghwbncOq) | [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc), [Skybreak](https://open.spotify.com/artist/2858y2JiMYIst8dY4WXGi3) | [Euphoria Rush](https://open.spotify.com/album/7a3WhUPay2Vg17GgIkmnYt) | 3:56 | 2024-08-14 | 2024-11-07 |
 | [Every Little Thing](https://open.spotify.com/track/6CShhNa33zOmCqJ0SkjsWc) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [Every Little Thing](https://open.spotify.com/album/51pJrPjCgYxYzzcOk4jsWQ) | 3:14 | 2023-01-31 | 2023-04-19 |

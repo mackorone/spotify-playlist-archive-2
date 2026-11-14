@@ -1,12 +1,12 @@
 {
   "description": "This is Olivia Dean. The essential tracks, all in one playlist.",
-  "num_followers": 718745,
+  "num_followers": 719290,
   "original_name": "This Is Olivia Dean",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avOwAAAAAACe52kdeaKv4qcsKa7kC+8e",
+  "snapshot_id": "avUBgAAAAACrBwYeeKPHx//Ghm21+zx8",
   "tracks": [
     {
       "added_at": null,
@@ -43,22 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Messy",
-        "url": "https://open.spotify.com/album/5YlBA1tCY0M8DDs75RB2LY"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 200759,
-      "name": "Dive",
-      "url": "https://open.spotify.com/track/36vmaZyO0iAE6FZ7287fg2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "People Watching (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4gwfCCNRxAB1P62hlDCelM"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 339893,
       "name": "Rein Me In (with Olivia Dean)",
       "url": "https://open.spotify.com/track/0MUXBhPUDF8or0kfQ0EHwV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Messy",
+        "url": "https://open.spotify.com/album/5YlBA1tCY0M8DDs75RB2LY"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 200759,
+      "name": "Dive",
+      "url": "https://open.spotify.com/track/36vmaZyO0iAE6FZ7287fg2"
     },
     {
       "added_at": null,
@@ -111,22 +111,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Messy",
-        "url": "https://open.spotify.com/album/5YlBA1tCY0M8DDs75RB2LY"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 176048,
-      "name": "The Hardest Part",
-      "url": "https://open.spotify.com/track/3cPoiK69oQ1SdbB2j2ulGm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ok Love You Bye",
         "url": "https://open.spotify.com/album/7ooSA4xT6dVvDN8j8AeaH0"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 154386,
       "name": "Ok Love You Bye",
       "url": "https://open.spotify.com/track/66YywMJbAgzQrGkFKjnSsK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Messy",
+        "url": "https://open.spotify.com/album/5YlBA1tCY0M8DDs75RB2LY"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 176048,
+      "name": "The Hardest Part",
+      "url": "https://open.spotify.com/track/3cPoiK69oQ1SdbB2j2ulGm"
     },
     {
       "added_at": null,
@@ -175,22 +175,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Messy",
-        "url": "https://open.spotify.com/album/5YlBA1tCY0M8DDs75RB2LY"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 220372,
-      "name": "Ladies Room",
-      "url": "https://open.spotify.com/track/0M7oki70AV10Ztt3HyUd8Z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ok Love You Bye",
         "url": "https://open.spotify.com/album/7ooSA4xT6dVvDN8j8AeaH0"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 198813,
       "name": "Reason To Stay",
       "url": "https://open.spotify.com/track/56DxR1jHbX6xlGwZdUuN0v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Messy",
+        "url": "https://open.spotify.com/album/5YlBA1tCY0M8DDs75RB2LY"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 220372,
+      "name": "Ladies Room",
+      "url": "https://open.spotify.com/track/0M7oki70AV10Ztt3HyUd8Z"
     },
     {
       "added_at": null,
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "What Am I Gonna Do On Sundays?",
-        "url": "https://open.spotify.com/album/1nAyMIwsiY0PbGzFbRY742"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 244693,
-      "name": "Out",
-      "url": "https://open.spotify.com/track/2ehj7rODzZ5HfBoenfLmIK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "You Can't Hurry Love (Live At Jools' Annual Hootenanny)",
         "url": "https://open.spotify.com/album/3XYZBbKA0z41yTr0m17Ofz"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 199000,
       "name": "You Can't Hurry Love - Live At Jools' Annual Hootenanny",
       "url": "https://open.spotify.com/track/2RS7UOxu6rnT3bRNTa9U1W"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "What Am I Gonna Do On Sundays?",
+        "url": "https://open.spotify.com/album/1nAyMIwsiY0PbGzFbRY742"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 244693,
+      "name": "Out",
+      "url": "https://open.spotify.com/track/2ehj7rODzZ5HfBoenfLmIK"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2w1nc4.md) - [plain]
 
 > This is Pierce The Veil\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,397 likes - 37 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,439 likes - 37 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2w1nc4.md) - [plain]
 | 36 | [The Boy Who Could Fly](https://open.spotify.com/track/635K4hTo5J8d7q8qhfcTMH) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Selfish Machines](https://open.spotify.com/album/01dcOm8Whefyve6zChrq9Q) | 5:07 |
 | 37 | [Currents Convulsive](https://open.spotify.com/track/55z9JKoPKREhOv1bppouag) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [A Flair For The Dramatic](https://open.spotify.com/album/6LkthUHeWKSJsXhjs7SXFq) | 3:35 |
 
-Snapshot ID: `avOwAAAAAABc2VvFbLCWAuqgzZ7A5LUv`
+Snapshot ID: `avUBgAAAAADks/AMvynoKriAnqfiUaDb`

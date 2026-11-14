@@ -1,6 +1,6 @@
 {
   "description": "Discover the music of Brahms.",
-  "num_followers": 132459,
+  "num_followers": 132479,
   "original_name": "This Is Brahms",
   "owner": {
     "name": "Spotify",
@@ -392,30 +392,6 @@
           "url": "https://open.spotify.com/artist/0lluGWFB8hZ6HFktcH6kkr"
         }
       ],
-      "duration_ms": 789573,
-      "name": "Symphony No. 3 in F Major, Op. 90: I. Allegro con brio - Un poco sostenuto - Tempo I",
-      "url": "https://open.spotify.com/track/6zXGDCV9UFzqvGYvQmEdr3"
-    },
-    {
-      "added_at": "2025-12-23 12:26:25",
-      "album": {
-        "name": "Brahms: Symphony No. 3 - Haydn Variations",
-        "url": "https://open.spotify.com/album/2U008dr0zOLARUw2bT2Tnm"
-      },
-      "artists": [
-        {
-          "name": "Johannes Brahms",
-          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
-        },
-        {
-          "name": "London Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
-        },
-        {
-          "name": "Marin Alsop",
-          "url": "https://open.spotify.com/artist/0lluGWFB8hZ6HFktcH6kkr"
-        }
-      ],
       "duration_ms": 518853,
       "name": "Symphony No. 3 in F Major, Op. 90: IV. Allegro",
       "url": "https://open.spotify.com/track/1c8IN6nSj9W7Orwb7XSDu8"
@@ -439,6 +415,30 @@
       "duration_ms": 52200,
       "name": "16 Waltzes, Op. 39 (Version for Solo Piano): No. 3 in G-Sharp Minor",
       "url": "https://open.spotify.com/track/1uglW1nOWySXp1z4F13aMJ"
+    },
+    {
+      "added_at": "2025-12-23 12:26:25",
+      "album": {
+        "name": "Brahms: Symphony No. 3 - Haydn Variations",
+        "url": "https://open.spotify.com/album/2U008dr0zOLARUw2bT2Tnm"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "London Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
+        },
+        {
+          "name": "Marin Alsop",
+          "url": "https://open.spotify.com/artist/0lluGWFB8hZ6HFktcH6kkr"
+        }
+      ],
+      "duration_ms": 789573,
+      "name": "Symphony No. 3 in F Major, Op. 90: I. Allegro con brio - Un poco sostenuto - Tempo I",
+      "url": "https://open.spotify.com/track/6zXGDCV9UFzqvGYvQmEdr3"
     },
     {
       "added_at": "2025-12-23 12:26:25",
@@ -595,26 +595,6 @@
     {
       "added_at": "2025-12-23 12:26:25",
       "album": {
-        "name": "Brahms: Complete Piano Music",
-        "url": "https://open.spotify.com/album/4afZ6OA1FYfxGALdG20qBQ"
-      },
-      "artists": [
-        {
-          "name": "Johannes Brahms",
-          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
-        },
-        {
-          "name": "Gerhard Oppitz",
-          "url": "https://open.spotify.com/artist/6aldsrorHXbSzvcLUnqweo"
-        }
-      ],
-      "duration_ms": 800000,
-      "name": "Variations on a Theme of Paganini in A minor, Op. 35: 1: Theme - Variation 1-14",
-      "url": "https://open.spotify.com/track/3vIeHTsFAdznkYvIWsbZbu"
-    },
-    {
-      "added_at": "2025-12-23 12:26:25",
-      "album": {
         "name": "Brahms: Double Concerto, Op. 102 & Clarinet Quintet, Op. 115",
         "url": "https://open.spotify.com/album/7sWossih935oGlyNqT9Mgv"
       },
@@ -643,6 +623,26 @@
       "duration_ms": 1085706,
       "name": "Brahms: Double Concerto for Violin and Cello in A Minor, Op. 102: I. Allegro",
       "url": "https://open.spotify.com/track/7rgtw2xfq32vD35ZZ6r05U"
+    },
+    {
+      "added_at": "2025-12-23 12:26:25",
+      "album": {
+        "name": "Brahms: Complete Piano Music",
+        "url": "https://open.spotify.com/album/4afZ6OA1FYfxGALdG20qBQ"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Gerhard Oppitz",
+          "url": "https://open.spotify.com/artist/6aldsrorHXbSzvcLUnqweo"
+        }
+      ],
+      "duration_ms": 800000,
+      "name": "Variations on a Theme of Paganini in A minor, Op. 35: 1: Theme - Variation 1-14",
+      "url": "https://open.spotify.com/track/3vIeHTsFAdznkYvIWsbZbu"
     },
     {
       "added_at": "2025-12-23 12:26:25",

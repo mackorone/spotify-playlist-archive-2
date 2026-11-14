@@ -8493,6 +8493,24 @@
     },
     {
       "album": {
+        "name": "Put P\u00f9rana",
+        "url": "https://open.spotify.com/album/13bLKK1aDNpr0a2Mr2fjb7"
+      },
+      "artists": [
+        {
+          "name": "Put P\u00f9rana",
+          "url": "https://open.spotify.com/artist/6zzXymmHvcDSZoKtiUKivc"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124637,
+      "name": "Deicidio",
+      "url": "https://open.spotify.com/track/4zOiwu6pKQLx2hNyGZCV1k"
+    },
+    {
+      "album": {
         "name": "DEJAVU",
         "url": "https://open.spotify.com/album/4OPD15l7VWt44Zd4VeTr45"
       },

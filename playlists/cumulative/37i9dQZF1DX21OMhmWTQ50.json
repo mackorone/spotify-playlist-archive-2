@@ -499,6 +499,24 @@
     },
     {
       "album": {
+        "name": "Have Yourself A Merry Christmas",
+        "url": "https://open.spotify.com/album/4pCfVz5xFFnzos3Jx3KyPp"
+      },
+      "artists": [
+        {
+          "name": "Hayra",
+          "url": "https://open.spotify.com/artist/6oMgepLVpTpiwfghDHRfZi"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162818,
+      "name": "Have Yourself A Merry Christmas",
+      "url": "https://open.spotify.com/track/2aGVfXfUUmiuBV9F4O0S0z"
+    },
+    {
+      "album": {
         "name": "Have Yourself A Merry Little Christmas",
         "url": "https://open.spotify.com/album/2voxAFLE10XMU4jSNHiG5N"
       },
@@ -510,7 +528,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 164000,
       "name": "Have Yourself A Merry Little Christmas",
       "url": "https://open.spotify.com/track/6dgMbqLVXCHOcaXWVPn6hV"
@@ -1184,6 +1202,24 @@
       "duration_ms": 175366,
       "name": "This Christmas",
       "url": "https://open.spotify.com/track/7nPPpcAYWxlAZZ3PXYsaVI"
+    },
+    {
+      "album": {
+        "name": "We shall be festive too",
+        "url": "https://open.spotify.com/album/59XcJv4aaA7tmjAWIOQChc"
+      },
+      "artists": [
+        {
+          "name": "Yasuo Zen",
+          "url": "https://open.spotify.com/artist/4Gew7TmeuvKFbHl0PttGaz"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145656,
+      "name": "We shall be festive too",
+      "url": "https://open.spotify.com/track/2PqG4ZITeC3ExNWQJXfkeU"
     },
     {
       "album": {

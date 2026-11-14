@@ -4,7 +4,7 @@
 
 > time\-stretching granular synthesis
 
-645 songs - 2 day 3 hr 29 min
+647 songs - 2 day 3 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -408,7 +408,7 @@
 | [Phase](https://open.spotify.com/track/3CESG19e31e3WpUaIblz50) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [Phase](https://open.spotify.com/album/3Qp1YBUgGBRpFEITXni0lk) | 3:14 | 2025-09-26 | 2026-03-14 |
 | [Phasma Gigas](https://open.spotify.com/track/2PyLeLsjsVAGzEUPiWIiPm) | [Molero](https://open.spotify.com/artist/3ItdobbGrJbtjPPZegnSEZ) | [Ficciones Del Trópico](https://open.spotify.com/album/04TdkcgVzFBAEzW4T7b6eV) | 4:29 | 2021-10-06 | 2025-07-17 |
 | [Piano Improvisation No\. 19](https://open.spotify.com/track/5yJicLB0k8YwdluDf9y0HN) | [Ángel Sánchez Bórges](https://open.spotify.com/artist/634XXXVQvyWqM5K0IwREcq), [Antiguo Automata Mexicano](https://open.spotify.com/artist/1DrRtaVEJaulXd9SelnyTh) | [20+ Piano Improvisations](https://open.spotify.com/album/039yd6s7qWnqox4tSf6NNB) | 2:30 | 2021-10-06 | 2025-07-17 |
-| [Pink Bape Lighter](https://open.spotify.com/track/4N9U71O0mWNEDRKVVrQwBi) | [Loukeman](https://open.spotify.com/artist/10JL2s5aUztzFyURrFrxtL) | [Sd\-3](https://open.spotify.com/album/1zKvlBFE8d9zNjcBjzitcS) | 2:40 | 2026-04-24 |  |
+| [Pink Bape Lighter](https://open.spotify.com/track/4N9U71O0mWNEDRKVVrQwBi) | [Loukeman](https://open.spotify.com/artist/10JL2s5aUztzFyURrFrxtL) | [Sd\-3](https://open.spotify.com/album/1zKvlBFE8d9zNjcBjzitcS) | 2:40 | 2026-04-24 | 2026-11-14 |
 | [Piranha](https://open.spotify.com/track/6XzAhkUwSkOiSxi9uj0ItW) | [Oxis](https://open.spotify.com/artist/3b3mTvNu2TQcbJSKrvsOYb) | [Piranha](https://open.spotify.com/album/4zchidGxtHY6BF2tsLeYBW) | 2:27 | 2025-10-24 | 2025-11-29 |
 | [PLAA01.BA23.676500.sG](https://open.spotify.com/track/0P33r1U2PGCtwI9iDDUE5g) | [Mantle of Gets](https://open.spotify.com/artist/1RX06VWtY04ZPVbJVyXPaL) | [Puffing Like an Adder \(BOPP.V02\)](https://open.spotify.com/album/4OhhNQM1yoxfBSrjkU1R8w) | 5:53 | 2021-10-06 | 2025-07-17 |
 | [PLACID CENTURY](https://open.spotify.com/track/5YdU58iKUEt292glAiVEZs) | [Dro Carey](https://open.spotify.com/artist/3RwHsu36piLoOoL0Elvse9) | [VT2](https://open.spotify.com/album/3axQCiDzxH4QWTzf5iu4d5) | 4:17 | 2025-06-06 | 2025-10-22 |
@@ -563,6 +563,7 @@
 | [track 2](https://open.spotify.com/track/152VJTzJh0a9XQbVivoOVI) | [ketamine\_shoppe](https://open.spotify.com/artist/4kZmYpKcwD9i0aifzO7A6o) | [20\-40\-60\-80\-100!](https://open.spotify.com/album/31IgIUJn9w7Li1yA0O715K) | 4:05 | 2023-03-28 | 2025-06-14 |
 | [Trail](https://open.spotify.com/track/5DJb7Lvog2ayToxWNVFrdB) | [Konduku](https://open.spotify.com/artist/64v9ctTSV0oUJeZTFBoosp) | [Trail](https://open.spotify.com/album/45OTlffXOSgJkDhdvxMRxz) | 5:57 | 2022-09-21 | 2022-11-13 |
 | [Trans Atlantique](https://open.spotify.com/track/2TTOjkuZ5gUJMpDKKnfkyH) | [Hologramme](https://open.spotify.com/artist/6nDNh0saNzpeQBjYxAliwN) | [Surfaces](https://open.spotify.com/album/2ZZajTIAV6bCVpUdgF9xGg) | 2:58 | 2025-05-30 | 2026-03-07 |
+| [Transdermal Nicotine Patch](https://open.spotify.com/track/6bWLKheJlxNGsauZhYakHF) | [Next To Blue](https://open.spotify.com/artist/651bTRrM7AWeYldvSxdHco) | [Smog Magic](https://open.spotify.com/album/4QQ1FpRkHAUVPiUHhwhNId) | 6:00 | 2026-11-13 |  |
 | [Trapped in an Oil Painting](https://open.spotify.com/track/2CXI4cnhzLHf4zR3uncwPe) | [Lorenzo Senni](https://open.spotify.com/artist/7mKwhB3UiepqzM946jBOyi) | [Canone Infinito Xtended](https://open.spotify.com/album/0e4LkbjCZ3pEEjFSpXQGn1) | 4:10 | 2025-04-25 | 2026-01-31 |
 | [Treat Em Right \- Boards of Canada Instrumental Remix](https://open.spotify.com/track/1XJemofxe6Off1jGE2Wwp1) | [Nevermen](https://open.spotify.com/artist/09P3wPH0MvtLnhwfbtzrRq), [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Treat Em Right \(Boards Of Canada Remix\)](https://open.spotify.com/album/7c1ZOcp1V1MQrsZhtOBNue) | 4:29 | 2021-10-06 | 2025-07-17 |
 | [Treat Em Right \- Boards of Canada Remix Instrumental](https://open.spotify.com/track/3AETAMXWqZTE1ezv2G8bzG) | [Nevermen](https://open.spotify.com/artist/09P3wPH0MvtLnhwfbtzrRq), [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Treat Em Right \(Boards Of Canada Remix\)](https://open.spotify.com/album/3biP5TpmbP1eQBjnMVo2cm) | 4:29 | 2021-10-06 | 2024-04-19 |
@@ -586,6 +587,7 @@
 | [Underwater Lament](https://open.spotify.com/track/5x85aXgAob5cPgjiiLTcah) | [Murcof](https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd) | [The Alias Sessions](https://open.spotify.com/album/2tCcGzGEsrsYSgGW7mqFNI) | 5:20 | 2021-10-06 | 2023-04-30 |
 | [Underwater Lament](https://open.spotify.com/track/6CQJSBa7uo6Hr5991sVrGX) | [Murcof](https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd) | [The Alias Sessions](https://open.spotify.com/album/0stmTlrBLsZMD2O83PAV5Z) | 5:20 | 2021-10-06 | 2024-04-19 |
 | [Underwater Lament](https://open.spotify.com/track/6XGampcg3mqZPlDAUdJzlg) | [Murcof](https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd) | [Underwater Lament](https://open.spotify.com/album/7MSvDATNHNyd65XaCwfk1Z) | 5:20 | 2021-10-06 | 2025-07-17 |
+| [Unemployment for the Afternoon](https://open.spotify.com/track/24P8fj5xGG5wo8TtWKvses) | [amr\*](https://open.spotify.com/artist/0kF6bJSd6U5gn9jgl7rPdI) | [Unemployment for the Afternoon](https://open.spotify.com/album/14KIgCPW7fQ4QuzJFWuHpM) | 4:41 | 2026-11-13 |  |
 | [Universe](https://open.spotify.com/track/0pHRAOsKkigJJ3EOyxGHX6) | [BAILE](https://open.spotify.com/artist/135mViPxje2MED7hOnn2j9) | [Universe](https://open.spotify.com/album/0dxiUjRAiGGJmpejAvSgbp) | 2:58 | 2025-09-19 | 2026-02-27 |
 | [Unknown](https://open.spotify.com/track/1v2DncllklUbNrrXlTVd4h) | [Verses GT](https://open.spotify.com/artist/4iJE0jzx9tLd3JE9TGhcpC), [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT), [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [Unknown](https://open.spotify.com/album/67Su044sk5CBq6c6z03VEA) | 4:00 | 2025-05-30 | 2025-11-04 |
 | [Ur Luv](https://open.spotify.com/track/1TaDpSIEbWbusLjU8LddEv) | [Jonas Landwehr](https://open.spotify.com/artist/6F1uLUaXAt2YmgW9lz1xt1) | [Ur Luv](https://open.spotify.com/album/5AVIux5SDjPmwdUsje8jlj) | 4:22 | 2025-11-03 | 2026-07-25 |
@@ -609,7 +611,7 @@
 | [Warm Electronics Box](https://open.spotify.com/track/4DGStMzbYCCuNy5GoPfUCC) | [RX\-101](https://open.spotify.com/artist/1nxxFDcQjl85Vn3PSZs651) | [Dopamine](https://open.spotify.com/album/32dttKpIJvL2ndTAUSyQui) | 5:49 | 2021-10-06 | 2025-06-07 |
 | [Was Du Suchst](https://open.spotify.com/track/5XcMS5s2ryoGrC3EBWlN3G) | [Tiefe Wasser Berlin](https://open.spotify.com/artist/1CB3IMXIZ0RJXC9JRrC7x3) | [Was Du Suchst](https://open.spotify.com/album/7f3jRpt9Ps1nG9VG4AlOLc) | 7:30 | 2023-03-03 | 2025-07-26 |
 | [Waterways](https://open.spotify.com/track/0cn24Uv7Za2OJ9kAcmrwqA) | [Call Super](https://open.spotify.com/artist/1FVo44KTXqxo3JxXADWTd9) | [A Rhythm Protects One](https://open.spotify.com/album/66anS96MISnHJV4K5H2y7M) | 8:25 | 2025-11-03 | 2026-03-19 |
-| [Wave Jumper](https://open.spotify.com/track/6EF3wIV1qpRYgPXlXbyAxl) | [Spekki Webu](https://open.spotify.com/artist/0FbMK8UG7nEele2cAZgGFv) | [Bootstrap Paradox](https://open.spotify.com/album/1xFLhs4Yi3Ip3OVlQbkFr1) | 5:40 | 2026-08-28 |  |
+| [Wave Jumper](https://open.spotify.com/track/6EF3wIV1qpRYgPXlXbyAxl) | [Spekki Webu](https://open.spotify.com/artist/0FbMK8UG7nEele2cAZgGFv) | [Bootstrap Paradox](https://open.spotify.com/album/1xFLhs4Yi3Ip3OVlQbkFr1) | 5:40 | 2026-08-28 | 2026-11-14 |
 | [wavebeats \- dub](https://open.spotify.com/track/3OkRcIPK4wQwyHKShEncvp) | [Musicentrydelete](https://open.spotify.com/artist/1LM4iUWXAb1ZocvlVOAR7i) | [Selfless](https://open.spotify.com/album/5zZleQTvgmrr10C0KxhUMD) | 5:34 | 2025-11-28 | 2026-04-04 |
 | [Waxcap](https://open.spotify.com/track/4EqJGKB8ptzxBbbwFimdI3) | [DjRUM](https://open.spotify.com/artist/4HwlolvniI44ETSg5tajeZ) | [Under Tangled Silence](https://open.spotify.com/album/1bMzS9D1chZ57onK5mU8ea) | 5:10 | 2025-11-30 |  |
 | [We Are All We Have](https://open.spotify.com/track/0NJHoc8onewG1Pr4mDJdwn) | [Anodyne](https://open.spotify.com/artist/46HAZTDJXaXL5dS9D5Jlwp) | [Decayed](https://open.spotify.com/album/18AMIcRykPQMNwQaBeca0a) | 6:24 | 2021-10-06 | 2022-07-27 |

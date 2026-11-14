@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Zeta. The essential tracks, all in one playlist.",
-  "num_followers": 2976,
+  "num_followers": 2977,
   "original_name": "This Is Banda Zeta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avOwAAAAAAC3b728LY4njRxwAQoPsYB3",
+  "snapshot_id": "avUBgAAAAAANyTW0Q2GTiNMtkC3rR72v",
   "tracks": [
     {
       "added_at": null,
@@ -303,22 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "100% Tropical, Vol. 6",
-        "url": "https://open.spotify.com/album/4ifve9dN8r3IjOq5WjwLK6"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 199160,
-      "name": "Con la Manito Arriba",
-      "url": "https://open.spotify.com/track/7cuH3sbvoIXG9O4oz4Xeml"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Grupero Hits",
         "url": "https://open.spotify.com/album/5dVfZriigZIsjQrK9veAlV"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 167320,
       "name": "Aerobics de se\u00f1oritas",
       "url": "https://open.spotify.com/track/5peoeFKvBESDFc7Ej2G3Bp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "100% Tropical, Vol. 6",
+        "url": "https://open.spotify.com/album/4ifve9dN8r3IjOq5WjwLK6"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 199160,
+      "name": "Con la Manito Arriba",
+      "url": "https://open.spotify.com/track/7cuH3sbvoIXG9O4oz4Xeml"
     },
     {
       "added_at": null,
@@ -535,22 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "D\u00f3nde Est\u00e1s Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/4KeWgca4KdauXP0g26aFRM"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 196291,
-      "name": "D\u00f3nde Est\u00e1s Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/0wGucLJrFq4NVPRIXO8JVA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Top Banda",
         "url": "https://open.spotify.com/album/7H1xTRVWgrtsoc50GkHCmd"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 157866,
       "name": "La p\u00e1lida luz",
       "url": "https://open.spotify.com/track/6nF4Tx3YnLa7isBilAnchR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "D\u00f3nde Est\u00e1s Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/4KeWgca4KdauXP0g26aFRM"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 196291,
+      "name": "D\u00f3nde Est\u00e1s Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/0wGucLJrFq4NVPRIXO8JVA"
     },
     {
       "added_at": null,
@@ -663,6 +663,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "100% Tropical, Vol. 8",
+        "url": "https://open.spotify.com/album/4fUo5HuqR1xV11sSGaAF49"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 177600,
+      "name": "Cumbiando Con Zeta",
+      "url": "https://open.spotify.com/track/7qCGUZmFIlvPp8oupXpSBS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tropicalandia",
         "url": "https://open.spotify.com/album/2nUuPgFwSsktVjUJf06Cqe"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 245333,
       "name": "Llena de Amor",
       "url": "https://open.spotify.com/track/0thgST7TUDPVuW8wTE1LXH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "100% Tropical, Vol. 8",
-        "url": "https://open.spotify.com/album/4fUo5HuqR1xV11sSGaAF49"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 177600,
-      "name": "Cumbiando Con Zeta",
-      "url": "https://open.spotify.com/track/7qCGUZmFIlvPp8oupXpSBS"
     },
     {
       "added_at": null,

@@ -2719,6 +2719,28 @@
     },
     {
       "album": {
+        "name": "CHD",
+        "url": "https://open.spotify.com/album/0WiR0MGmDuhMj3pDOTi1M3"
+      },
+      "artists": [
+        {
+          "name": "The VIJU",
+          "url": "https://open.spotify.com/artist/10ho8uAPRKlVcDDSHu1AZv"
+        },
+        {
+          "name": "Music Mistree",
+          "url": "https://open.spotify.com/artist/4ayVLtQibu9BwTF7LQF4xi"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136091,
+      "name": "CHD",
+      "url": "https://open.spotify.com/track/7CuacvHKXS8zJnNMSqJQFm"
+    },
+    {
+      "album": {
         "name": "Racks & Bars",
         "url": "https://open.spotify.com/album/3wdLWNPf2ZNLyhF4aSQ3p7"
       },
@@ -7358,7 +7380,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 192941,
       "name": "Jaane Ja",
       "url": "https://open.spotify.com/track/4MRygrTCxmU8DrL89tv9zO"

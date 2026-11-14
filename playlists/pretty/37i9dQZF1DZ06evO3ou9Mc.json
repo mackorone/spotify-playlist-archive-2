@@ -1,12 +1,12 @@
 {
   "description": "This is The Offspring. The essential tracks, all in one playlist.",
-  "num_followers": 445645,
+  "num_followers": 445697,
   "original_name": "This Is The Offspring",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avOwAAAAAAAjnw3RzQ04eubcNtDx/jkI",
+  "snapshot_id": "avUBgAAAAAAS7TsFdcM+BX7/DAGqQmZm",
   "tracks": [
     {
       "added_at": null,
@@ -663,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Splinter",
-        "url": "https://open.spotify.com/album/6mVLRZmHfO3CQIk5e1WXBL"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 198720,
-      "name": "The Noose",
-      "url": "https://open.spotify.com/track/0ir4rLQH0Ye3yCpWDFL1J7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ixnay On The Hombre",
         "url": "https://open.spotify.com/album/2PSgMApk089eV6e5LPbQeS"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 167893,
       "name": "Cool To Hate",
       "url": "https://open.spotify.com/track/3M3gKehdtIR2krOZfkw2iK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Splinter",
+        "url": "https://open.spotify.com/album/6mVLRZmHfO3CQIk5e1WXBL"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 198720,
+      "name": "The Noose",
+      "url": "https://open.spotify.com/track/0ir4rLQH0Ye3yCpWDFL1J7"
     },
     {
       "added_at": null,
@@ -743,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ignition",
-        "url": "https://open.spotify.com/album/1obNbVrcFQ00nbmC1ZsJT3"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 196373,
-      "name": "Kick Him When He's Down",
-      "url": "https://open.spotify.com/track/5r5pPZLoablansl2iYPohk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Days Go By",
         "url": "https://open.spotify.com/album/43NzXURI2kqUYBxWyV6Ep9"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 240213,
       "name": "Dirty Magic",
       "url": "https://open.spotify.com/track/0iRJc27fHvcDd7D3mUlZZX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ignition",
+        "url": "https://open.spotify.com/album/1obNbVrcFQ00nbmC1ZsJT3"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 196373,
+      "name": "Kick Him When He's Down",
+      "url": "https://open.spotify.com/track/5r5pPZLoablansl2iYPohk"
     },
     {
       "added_at": null,
@@ -791,22 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ignition (2008 Remaster)",
-        "url": "https://open.spotify.com/album/5AT58tLypuZu3nVlFQObyF"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 152466,
-      "name": "Session - 2008 Remaster",
-      "url": "https://open.spotify.com/track/5eDT0xin7cj0Ec1pNsxMdU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SUPERCHARGED",
         "url": "https://open.spotify.com/album/5PDtsevGakWdIRZyeOZ83g"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 203640,
       "name": "Ok, But This Is The Last Time",
       "url": "https://open.spotify.com/track/6diTGCtoRTj198zL0v2RIO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Days Go By",
+        "url": "https://open.spotify.com/album/43NzXURI2kqUYBxWyV6Ep9"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 241786,
+      "name": "Days Go By",
+      "url": "https://open.spotify.com/track/0wDgnPr6qmNH3I9EGsIRu2"
     }
   ],
   "unique_name": "This Is The Offspring",

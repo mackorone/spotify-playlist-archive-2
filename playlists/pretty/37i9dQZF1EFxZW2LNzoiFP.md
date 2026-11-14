@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 54 | [Beautiful Mind](https://open.spotify.com/track/1nSrsbo4Mpsg0UmjMUjMlD) | [carpetgarden](https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG) | [The Way He Looks](https://open.spotify.com/album/7pSgyeEXgLRpqhQWP6fyUJ) | 3:19 |
 | 55 | [How Far](https://open.spotify.com/track/1NLjz5EHlw7CP2hJIXuZbm) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [Crawl Space](https://open.spotify.com/album/0j72ioWBnqYdL0jiihyNhf) | 3:55 |
 | 56 | [For Violet](https://open.spotify.com/track/2T8OC0ciyqQWxvrHShD6iT) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 3:32 |
-| 57 | [BULLET MAN](https://open.spotify.com/track/31b2vyO3VXHwfGWZIr3JDw) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [MID AIR](https://open.spotify.com/album/1ohUa4biJdcAhjnEbOOXYy) | 2:58 |
-| 58 | [Satellite](https://open.spotify.com/track/2tfzV1WcXJIb19GtcuIiVk) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Pylon](https://open.spotify.com/album/310lmJwtNvQv6SERdmD34Z) | 4:45 |
+| 57 | [Satellite](https://open.spotify.com/track/2tfzV1WcXJIb19GtcuIiVk) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Pylon](https://open.spotify.com/album/310lmJwtNvQv6SERdmD34Z) | 4:45 |
+| 58 | [BULLET MAN](https://open.spotify.com/track/31b2vyO3VXHwfGWZIr3JDw) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [MID AIR](https://open.spotify.com/album/1ohUa4biJdcAhjnEbOOXYy) | 2:58 |
 | 59 | [The Fool](https://open.spotify.com/track/5QFAetd8rpzNuHuTGK0Rde) | [Overcoats](https://open.spotify.com/artist/2pst3pDewxsl4kJERuDZpp) | [The Fight](https://open.spotify.com/album/0ArmKxlIjju4bog52Q33ZE) | 3:09 |
 | 60 | [Roll The Credits](https://open.spotify.com/track/03WIi0grexVN7XZ8zXz3L0) | [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ) | [Some Of Us Are Brave \(Deluxe\)](https://open.spotify.com/album/3vn3IDQmq7rbQ9UZdCYrpK) | 4:13 |
 | 61 | [2DK](https://open.spotify.com/track/6K5oRgYM2QVagCiHFnSDu4) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Backflips in a Restaurant](https://open.spotify.com/album/3IKIobUDlcwhEs0tGJaLc7) | 3:16 |
@@ -154,8 +154,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 144 | [I Got You](https://open.spotify.com/track/4UZbh9hvG4koPEOsgxUg0T) | [Sea Girls](https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe) | [Homesick \(Deluxe\)](https://open.spotify.com/album/3hlVF7J7TrYkgo1zrUweHz) | 3:50 |
 | 145 | [High on You](https://open.spotify.com/track/3A2n4QNrHMiwUlonQcpwFp) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Ambroxyde \(LP\)](https://open.spotify.com/album/1WeFIZU0jhn6QhjRgUQQrk) | 2:51 |
 | 146 | [untangle me](https://open.spotify.com/track/4vea5nsz7JIZSeuVjoNhTh) | [sophie meiers](https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW) | [untangle me](https://open.spotify.com/album/33kXDytIFx1v9FgmYcj0oB) | 1:45 |
-| 147 | [way to record](https://open.spotify.com/track/2gJD77KkEU5RyUHl4xFdFb) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [Crawl Space](https://open.spotify.com/album/0j72ioWBnqYdL0jiihyNhf) | 0:48 |
-| 148 | [No Time](https://open.spotify.com/track/3EWzmnpmKKwwM7lUT2q22u) | [Cailin Russo](https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0) | [The Drama](https://open.spotify.com/album/7t04xptRT83AnNFdsajTYQ) | 3:43 |
+| 147 | [No Time](https://open.spotify.com/track/3EWzmnpmKKwwM7lUT2q22u) | [Cailin Russo](https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0) | [The Drama](https://open.spotify.com/album/7t04xptRT83AnNFdsajTYQ) | 3:43 |
+| 148 | [way to record](https://open.spotify.com/track/2gJD77KkEU5RyUHl4xFdFb) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [Crawl Space](https://open.spotify.com/album/0j72ioWBnqYdL0jiihyNhf) | 0:48 |
 | 149 | [Paranoid](https://open.spotify.com/track/2tf2kksnra9pqQfZ0ZPsaI) | [Mike Sabath](https://open.spotify.com/artist/3UTCjjwxYJioyA39EX6ciu) | [Album II: The Land Of The Twisted Tree](https://open.spotify.com/album/6oKdKdacgWZBqmeqvp0thB) | 3:20 |
 | 150 | [Happy New Year](https://open.spotify.com/track/0TkUwdRLk2cDqFNYZnFdl5) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [The Party And The Mess](https://open.spotify.com/album/3fSI4OFejKzQKZFosmR0vX) | 4:08 |
 | 151 | [Ambroxyde](https://open.spotify.com/track/5Jj9nsX0EuynTtg7100XOB) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Ambroxyde \(LP\)](https://open.spotify.com/album/1WeFIZU0jhn6QhjRgUQQrk) | 2:57 |
@@ -307,4 +307,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 297 | [Shame](https://open.spotify.com/track/7CtHfnRGEwcbN0aGr8WIJn) | [Rén with the Mane](https://open.spotify.com/artist/5XjRRITmUnTJXsOYjfbOlD) | [Shame](https://open.spotify.com/album/4q7m1vMzZ3vzjXUm13R6gf) | 4:23 |
 | 298 | [SPIKE JONZE](https://open.spotify.com/track/1jUlAFuYm0iTbfy8neFL1P) | [SUNFEELS](https://open.spotify.com/artist/3CcplobEljGcerDRDbMJKl) | [SUNFEELS](https://open.spotify.com/album/0jmXQK0xYNCeigwyhgC5Op) | 1:27 |
 
-Snapshot ID: `AchgqAAAAAA9v2VHOKcM/+dkvcGnD476`
+Snapshot ID: `AchmDAAAAABB5DwCEyRaWTFcCklsxybI`

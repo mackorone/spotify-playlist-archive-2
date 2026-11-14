@@ -4,7 +4,7 @@
 
 > Photo : TK x Le Crime
 
-671 songs - 1 day 6 hr 42 min
+671 songs - 1 day 6 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -468,6 +468,7 @@
 | [Pas Jalouse](https://open.spotify.com/track/0TABODtQpJsAUrGGdJ85tG) | [Bamby](https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6), [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332) | [MUSE](https://open.spotify.com/album/3nVSaBvT8Z8c68YAjNZn6h) | 2:36 | 2026-09-17 |  |
 | [Pas les mots](https://open.spotify.com/track/5EvhoSHeimcPmYB9f4DhND) | [Raplume](https://open.spotify.com/artist/2ci4Or1nFI30YCiRS2YXV8), [HOUDI](https://open.spotify.com/artist/0E9vzecg75Thz2ekrGIaF6), [Favé](https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY) | [Pas les mots](https://open.spotify.com/album/5dufV0lmFg19yoQaFIwXxa) | 3:30 | 2023-12-08 | 2024-01-19 |
 | [Pas les mêmes go](https://open.spotify.com/track/2bCT9q1I962xiq1nVg2Vr0) | [DVM](https://open.spotify.com/artist/6Tzkt668w24f7uHLTiq6tr), [Nahir](https://open.spotify.com/artist/3x3gsBtmPOSQVqdBzO7N5E), [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [Pas les mêmes go](https://open.spotify.com/album/6qa4XL0AQznbaeX6IWSqSV) | 2:23 | 2025-06-19 | 2025-07-04 |
+| [Pas satisfait](https://open.spotify.com/track/6V8Cjmmy7p1snZecFu4s7V) | [Graya](https://open.spotify.com/artist/6AmKZ6kQdFR64iIiUsRMHT) | [Richesse et Sacrifice](https://open.spotify.com/album/5hyo6rwMbLuPxRCVu3EVtM) | 2:41 | 2026-11-12 |  |
 | [Passe par chez moi](https://open.spotify.com/track/0HTDatGUTDNG31SUpTVXMV) | [Bianca Costa](https://open.spotify.com/artist/1DcL22xdIWcdNa4ZHaXZjT), [Danyl](https://open.spotify.com/artist/5Hq9W3lm1N9KRCf35RBMab) | [Gringa](https://open.spotify.com/album/1FoTgNV9Gcim0DEPVoQBlX) | 2:22 | 2026-03-26 | 2026-04-24 |
 | [Passe ton chemin](https://open.spotify.com/track/1edPU5OOn4YCWn9lR0nesC) | [Lynda](https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb) | [Passe ton chemin](https://open.spotify.com/album/4oZy6v3nyTXCE2pX4Vv8m0) | 2:49 | 2024-06-13 | 2024-12-06 |
 | [PAY!](https://open.spotify.com/track/1qXKTMEUNkTuYBH6kauxW6) | [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2), [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [PAY!](https://open.spotify.com/album/4V0w5wniprh3z99zFbMPnI) | 2:10 | 2025-04-24 | 2025-07-04 |
@@ -619,7 +620,6 @@
 | [Toute la nuit](https://open.spotify.com/track/4kzHds1mgNB0kuCLHeOGiV) | [GP Explorer](https://open.spotify.com/artist/70uVwDuiOTyZqm8Ik2rk7O), [Anyme023](https://open.spotify.com/artist/2XoNHBh5o3I1Niqsr5uA3P) | [Toute la nuit](https://open.spotify.com/album/0GNUPfnVUIn0Pbm3KLB8NS) | 3:18 | 2025-10-09 | 2026-03-27 |
 | [TOXIC](https://open.spotify.com/track/32OJwqSyxds8PLefK8VLAp) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [MANIA](https://open.spotify.com/album/219t6e1VadecyjyLckRYxF) | 2:40 | 2025-06-19 | 2026-01-30 |
 | [TP](https://open.spotify.com/track/4aslqUfhnz7lYd8mEMIToq) | [Sadek](https://open.spotify.com/artist/63MCBZRiUdnqRsAOJwijiB), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Ouvert tout l'été](https://open.spotify.com/album/7LfBmtNJPmxMReRrUHPzxB) | 2:58 | 2023-09-28 | 2023-12-14 |
-| [Track 10](https://open.spotify.com/track/6V8Cjmmy7p1snZecFu4s7V) | [Graya](https://open.spotify.com/artist/6AmKZ6kQdFR64iIiUsRMHT) | [Richesse et Sacrifice](https://open.spotify.com/album/5hyo6rwMbLuPxRCVu3EVtM) | 0:00 | 2026-11-12 |  |
 | [Traficante](https://open.spotify.com/track/3FVL6UdXArRuGsqGNd3VZj) | [Gambino](https://open.spotify.com/artist/5Wf0eeUkR6rRAre6L7H7jW) | [Traficante](https://open.spotify.com/album/5OXVwHfLjaMqr7cFwwUQBV) | 2:56 | 2023-12-14 | 2024-01-26 |
 | [Triple S](https://open.spotify.com/track/42UJesDEHtemfRPwy23nKj) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Triple S](https://open.spotify.com/album/5TsMWf6f3G5OGo9ZwgQ6BT) | 2:46 | 2026-06-04 | 2026-11-06 |
 | [Trivago](https://open.spotify.com/track/54xaeZD9ya5jd1YJ0LiYew) | [Le Crime](https://open.spotify.com/artist/00edlcHg3ILdHtrYL54bxX) | [Casus Belli](https://open.spotify.com/album/2GlRfEUPzFoYTxGcREodSB) | 2:24 | 2026-10-08 |  |

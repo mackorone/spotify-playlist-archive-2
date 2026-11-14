@@ -1,12 +1,12 @@
 {
   "description": "Brand new music from Gang Of Youths, Ella Langley, U2, Dolly Parton, Jack River + more",
-  "num_followers": 462922,
+  "num_followers": 463132,
   "original_name": "New Music Friday AU & NZ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAcVdXW7mXMob1PyCZVObN0JQ4P1",
+  "snapshot_id": "AAAAAE0v3Zf4d0eC1dOlZw5X9DbwRYVw",
   "tracks": [
     {
       "added_at": "2026-11-12 13:00:21",
@@ -185,7 +185,7 @@
         }
       ],
       "duration_ms": 169759,
-      "name": "Why Not (feat. Quavo & Loe Shimmy)",
+      "name": "Why Not? (feat. Quavo & Loe Shimmy)",
       "url": "https://open.spotify.com/track/3ag3REuwHRHF8kYQffQ8pn"
     },
     {
@@ -230,10 +230,14 @@
         {
           "name": "CHRIS STASSY",
           "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
+        },
+        {
+          "name": "Interplanetary Criminal",
+          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 4",
+      "duration_ms": 286462,
+      "name": "Dangerous",
       "url": "https://open.spotify.com/track/15tGq1xOOer8QZ268uBNxG"
     },
     {
@@ -283,6 +287,30 @@
       "duration_ms": 160060,
       "name": "What If We Kissed",
       "url": "https://open.spotify.com/track/3Xh11v9LycYmL3lAvWHiYL"
+    },
+    {
+      "added_at": "2026-11-13 05:00:42",
+      "album": {
+        "name": "WELCOME (feat. Eminem)",
+        "url": "https://open.spotify.com/album/0SIpXn5R4mqILiDJjWpbQd"
+      },
+      "artists": [
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
+        },
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "J Dilla",
+          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
+        }
+      ],
+      "duration_ms": 162412,
+      "name": "WELCOME (feat. Eminem)",
+      "url": "https://open.spotify.com/track/5xYS6MQKWWdMYg63hrwIiM"
     },
     {
       "added_at": "2026-11-12 13:00:21",
@@ -405,6 +433,34 @@
       "url": "https://open.spotify.com/track/6WQvT3NVZVBSGRS6EgGoS9"
     },
     {
+      "added_at": "2026-11-13 05:00:42",
+      "album": {
+        "name": "Situation (feat. Big Sean, Erykah Badu, & Aasher Saintt)",
+        "url": "https://open.spotify.com/album/4SlPNDEOnbbfPxq72hvwMt"
+      },
+      "artists": [
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        },
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        },
+        {
+          "name": "Aasher Saintt",
+          "url": "https://open.spotify.com/artist/2GcRjXO2JMqFNNRcwEI0iR"
+        }
+      ],
+      "duration_ms": 158879,
+      "name": "Situation (feat. Big Sean, Erykah Badu & Aasher Saintt)",
+      "url": "https://open.spotify.com/track/54AVUcddMaglxfEuXcYoXa"
+    },
+    {
       "added_at": "2026-11-12 13:00:21",
       "album": {
         "name": "Aether",
@@ -477,6 +533,22 @@
       "url": "https://open.spotify.com/track/6IqHpduxivldFZLl346XkU"
     },
     {
+      "added_at": "2026-11-13 05:00:42",
+      "album": {
+        "name": "Party With The Boys",
+        "url": "https://open.spotify.com/album/5Ei8O7C8Fa5oXZTNB166Sf"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 155492,
+      "name": "Party With The Boys",
+      "url": "https://open.spotify.com/track/5d2Sj3lMKJFefwU26GInQu"
+    },
+    {
       "added_at": "2026-11-12 13:00:21",
       "album": {
         "name": "Telescope",
@@ -507,6 +579,22 @@
       "duration_ms": 188229,
       "name": "Honeymoon",
       "url": "https://open.spotify.com/track/160wVfS6OgXxhyPkDYOhLi"
+    },
+    {
+      "added_at": "2026-11-13 05:00:42",
+      "album": {
+        "name": "HEELMATIC",
+        "url": "https://open.spotify.com/album/6xpcVVjSc8kUuddtdJtiY0"
+      },
+      "artists": [
+        {
+          "name": "Westside Gunn",
+          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
+        }
+      ],
+      "duration_ms": 204126,
+      "name": "DON PISTOLA",
+      "url": "https://open.spotify.com/track/00sREMzYzD6EUJ7HfF4EFP"
     },
     {
       "added_at": "2026-11-12 13:00:21",
@@ -664,8 +752,8 @@
           "url": "https://open.spotify.com/artist/0v4Xz06LDEOS0VRzkSbUAk"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 1",
+      "duration_ms": 157906,
+      "name": "FLY",
       "url": "https://open.spotify.com/track/1Vp8cGkSTUJehIzJ8nX1Es"
     },
     {
@@ -751,6 +839,26 @@
       "duration_ms": 153780,
       "name": "Weight Of The Feather",
       "url": "https://open.spotify.com/track/2uGTpK30J70bJWI69P5ddK"
+    },
+    {
+      "added_at": "2026-11-13 05:00:42",
+      "album": {
+        "name": "the after glow",
+        "url": "https://open.spotify.com/album/2OYqbmOlEATNjnA9OVC18F"
+      },
+      "artists": [
+        {
+          "name": "earfzilla",
+          "url": "https://open.spotify.com/artist/65SDZetBIC5qK27DoJUx0f"
+        },
+        {
+          "name": "Rejjie Snow",
+          "url": "https://open.spotify.com/artist/3lLHpTOJ11tWiUNGYN14gt"
+        }
+      ],
+      "duration_ms": 161669,
+      "name": "dressing gown",
+      "url": "https://open.spotify.com/track/519GxthZryPOXvAdL28iyr"
     },
     {
       "added_at": "2026-11-12 13:00:21",
@@ -929,6 +1037,22 @@
       "url": "https://open.spotify.com/track/7gPt3usTvkgy3KLLqdAOkd"
     },
     {
+      "added_at": "2026-11-13 05:00:42",
+      "album": {
+        "name": "GOLDEN HOUR : Part.6",
+        "url": "https://open.spotify.com/album/5UKj0Dge5ik5jw3JVjoxof"
+      },
+      "artists": [
+        {
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+        }
+      ],
+      "duration_ms": 206320,
+      "name": "UP",
+      "url": "https://open.spotify.com/track/2DpMn9r9LPpa5PaR4XGFBP"
+    },
+    {
       "added_at": "2026-11-12 13:00:21",
       "album": {
         "name": "you can't see my mirrors, I can't see you",
@@ -998,10 +1122,18 @@
         {
           "name": "NEW LORE",
           "url": "https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E"
+        },
+        {
+          "name": "Ichika Nito",
+          "url": "https://open.spotify.com/artist/1v7B6ZWa7QRQS3knn3Jvf4"
+        },
+        {
+          "name": "Gabba",
+          "url": "https://open.spotify.com/artist/6tvCQZS4d1wJ9cA9Gl0ZqP"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 3",
+      "duration_ms": 202500,
+      "name": "Sad Girl (feat. Ichika Nito & Gabba)",
       "url": "https://open.spotify.com/track/735s7kB0oA5PXgXtiSZLMG"
     },
     {

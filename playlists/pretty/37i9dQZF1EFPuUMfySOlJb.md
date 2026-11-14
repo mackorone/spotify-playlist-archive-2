@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPuUMfySOlJb.md) - [plain]
 | 23 | [STARSTRUCK](https://open.spotify.com/track/25bsd4PQd6kFL0bE7xqY9M) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [STARSTRUCK](https://open.spotify.com/album/2cRQtKWMhcmoRwWR7IwnnP) | 2:57 |
 | 24 | [Ee\-er](https://open.spotify.com/track/6j2bOHZKtXzVcytOse2Lmc) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb), [Sauce Walka](https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb) | [Throwing Bows](https://open.spotify.com/album/4eK0tskh6kKkNny0wRrqg3) | 2:24 |
 | 25 | [Snipers And Robbers](https://open.spotify.com/track/14uozm5j9UJWSQ8tDCs2rE) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Pistolz & Pearlz](https://open.spotify.com/album/5RHAybGQ8yuZHBd45DJ05b) | 2:18 |
-| 26 | [Paid My Dues](https://open.spotify.com/track/1dgGxvy8OsMBSrOclIN2Bg) | [Yung Pinch](https://open.spotify.com/artist/61qMnYXa1GxSBoV3IiYKjZ) | [4EVERFRIDAY SZN 4](https://open.spotify.com/album/71PJbNosy3eE6RhSTsjWnf) | 2:16 |
+| 26 | [Paid My Dues](https://open.spotify.com/track/1IjzIkLEDV4k6kDVhmxSnV) | [Yung Pinch](https://open.spotify.com/artist/61qMnYXa1GxSBoV3IiYKjZ) | [4EVERFRIDAY SZN 4](https://open.spotify.com/album/2nkAHRT5SpyHM6qZYeCj89) | 2:16 |
 | 27 | [No Stress](https://open.spotify.com/track/0HPlW2dfXiXGWJbKAPyHkZ) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Cut Ties](https://open.spotify.com/album/2KH8PHZCwSqFWiFOz2jzAy) | 2:14 |
 | 28 | [Fliccin Up](https://open.spotify.com/track/4SGqmuv6pxaei3Silq8qaK) | [MBNel](https://open.spotify.com/artist/2aqdy2BLMhGFHhRb1ZbDCF) | [Fliccin Up](https://open.spotify.com/album/6C2rgMF06Uwkm9yokUo7X0) | 2:07 |
 | 29 | [Ski Ga Ski \(隙が好き\)](https://open.spotify.com/track/52QAsWTBhQOPBA83ZfFERg) | [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Ski Ga Ski \(隙が好き\)](https://open.spotify.com/album/6d9GgeqYFK8JYqhS6U8mwL) | 2:01 |
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPuUMfySOlJb.md) - [plain]
 | 41 | [FellInLoveWithAThug](https://open.spotify.com/track/1uVItMXV0MEM3h1XZSDQoH) | [Krimelife Ca$$](https://open.spotify.com/artist/0ZMIyR3pxywqRD66PVrhqj) | [Urban Legend](https://open.spotify.com/album/3dZFUb3lzP3U6sojUTYeme) | 1:53 |
 | 42 | [Running Out of Words](https://open.spotify.com/track/4JrgIIauZIucAVBJwz184N) | [CMTEN](https://open.spotify.com/artist/3ReVTyprRfKmKquryr9UeA) | [Mistakes, etc.](https://open.spotify.com/album/2nvkVRDJnlsy7kIvtoO7w5) | 2:37 |
 
-Snapshot ID: `AchggAAAAAAQX0Td0PXS398Zpmvx/tnB`
+Snapshot ID: `AchmDAAAAADKvCDUksEOJ5Ymn6VdCq/S`

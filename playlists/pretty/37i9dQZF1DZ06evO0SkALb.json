@@ -1,12 +1,12 @@
 {
   "description": "This is Lou Rawls. The essential tracks, all in one playlist.",
-  "num_followers": 13001,
+  "num_followers": 13003,
   "original_name": "This Is Lou Rawls",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avOwAAAAAAB9GnafakKFzGYQ6O3nSHDM",
+  "snapshot_id": "avUBgAAAAABmscaf+7j1+qB8rg70qwpD",
   "tracks": [
     {
       "added_at": null,
@@ -428,15 +428,15 @@
           "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
         }
       ],
-      "duration_ms": 339160,
-      "name": "Early Morning Love",
-      "url": "https://open.spotify.com/track/77SdpzxMVJIjpYkrObUHdP"
+      "duration_ms": 209040,
+      "name": "She's Gone",
+      "url": "https://open.spotify.com/track/6adeIKKnnqB7MwfFeZgYVz"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Unmistakably Lou",
-        "url": "https://open.spotify.com/album/0frjcnc2w32xu0IotX4A2r"
+        "name": "Legendary Lou Rawls",
+        "url": "https://open.spotify.com/album/2aA0a7jTuOaUdjG9ELNtX2"
       },
       "artists": [
         {
@@ -444,9 +444,9 @@
           "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
         }
       ],
-      "duration_ms": 266872,
-      "name": "Spring Again",
-      "url": "https://open.spotify.com/track/0ycmyqOKpNNgjGNcENcVR6"
+      "duration_ms": 240640,
+      "name": "Dead End Street",
+      "url": "https://open.spotify.com/track/6lE3fTHyZgGtT2adZSLYxW"
     },
     {
       "added_at": null,
@@ -492,15 +492,15 @@
           "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
         }
       ],
-      "duration_ms": 209040,
-      "name": "She's Gone",
-      "url": "https://open.spotify.com/track/6adeIKKnnqB7MwfFeZgYVz"
+      "duration_ms": 339160,
+      "name": "Early Morning Love",
+      "url": "https://open.spotify.com/track/77SdpzxMVJIjpYkrObUHdP"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Legendary Lou Rawls",
-        "url": "https://open.spotify.com/album/2aA0a7jTuOaUdjG9ELNtX2"
+        "name": "Unmistakably Lou",
+        "url": "https://open.spotify.com/album/0frjcnc2w32xu0IotX4A2r"
       },
       "artists": [
         {
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
         }
       ],
-      "duration_ms": 240640,
-      "name": "Dead End Street",
-      "url": "https://open.spotify.com/track/6lE3fTHyZgGtT2adZSLYxW"
+      "duration_ms": 266872,
+      "name": "Spring Again",
+      "url": "https://open.spotify.com/track/0ycmyqOKpNNgjGNcENcVR6"
     },
     {
       "added_at": null,
@@ -563,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sit Down and Talk to Me",
-        "url": "https://open.spotify.com/album/0ptfSwqXv2Jm93lXyY2bXD"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 278946,
-      "name": "Ain't That Loving You (For More Reasons Than One)",
-      "url": "https://open.spotify.com/track/0ezc7VHZO0SIicdSFHcfmf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Best Of Lou Rawls - The Capitol Jazz & Blues Sessions",
         "url": "https://open.spotify.com/album/6pxkv1dxkTshid2V0MBGrp"
       },
@@ -611,8 +595,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Essential Lou Rawls",
-        "url": "https://open.spotify.com/album/6vhHreCbPvwLXDreRFHcdG"
+        "name": "Sit Down and Talk to Me",
+        "url": "https://open.spotify.com/album/0ptfSwqXv2Jm93lXyY2bXD"
       },
       "artists": [
         {
@@ -620,9 +604,9 @@
           "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
         }
       ],
-      "duration_ms": 163813,
-      "name": "All The Way",
-      "url": "https://open.spotify.com/track/6GK5AN2ezW2QVVSDUhS9g0"
+      "duration_ms": 278946,
+      "name": "Ain't That Loving You (For More Reasons Than One)",
+      "url": "https://open.spotify.com/track/0ezc7VHZO0SIicdSFHcfmf"
     },
     {
       "added_at": null,
@@ -663,6 +647,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Essential Lou Rawls",
+        "url": "https://open.spotify.com/album/6vhHreCbPvwLXDreRFHcdG"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 163813,
+      "name": "All The Way",
+      "url": "https://open.spotify.com/track/6GK5AN2ezW2QVVSDUhS9g0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "All Things In Time",
         "url": "https://open.spotify.com/album/3JWeH3xgkigYvXdNQCFx1m"
       },
@@ -695,8 +695,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black And Blue",
-        "url": "https://open.spotify.com/album/7xYn8t0P9l0Oep0Ycpc7gS"
+        "name": "Brotherman!: Lou Rawls Sings His Hits",
+        "url": "https://open.spotify.com/album/2dQjiU3OspVulLuFoGXBvI"
       },
       "artists": [
         {
@@ -704,9 +704,9 @@
           "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
         }
       ],
-      "duration_ms": 215240,
-      "name": "I'd Rather Drink Muddy Water - 2006 Remaster",
-      "url": "https://open.spotify.com/track/1ZGODV0nkzm2GpPKmKWu5k"
+      "duration_ms": 176466,
+      "name": "For What It's Worth",
+      "url": "https://open.spotify.com/track/39ZtwewomTxsYMDRITXTlP"
     },
     {
       "added_at": null,
@@ -747,6 +747,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Black And Blue",
+        "url": "https://open.spotify.com/album/7xYn8t0P9l0Oep0Ycpc7gS"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 215240,
+      "name": "I'd Rather Drink Muddy Water - 2006 Remaster",
+      "url": "https://open.spotify.com/track/1ZGODV0nkzm2GpPKmKWu5k"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Shades of Blue",
         "url": "https://open.spotify.com/album/6thOuxCNeHuZpvyw90JlnN"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 232346,
       "name": "I Go Crazy",
       "url": "https://open.spotify.com/track/2bElJW7i0Sq8xME6Tk4qiK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Brotherman!: Lou Rawls Sings His Hits",
-        "url": "https://open.spotify.com/album/2dQjiU3OspVulLuFoGXBvI"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 176466,
-      "name": "For What It's Worth",
-      "url": "https://open.spotify.com/track/39ZtwewomTxsYMDRITXTlP"
     },
     {
       "added_at": null,

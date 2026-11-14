@@ -1,6 +1,6 @@
 {
   "description": "India\u2019s biggest dance anthems, filling every dance floor right now. Cover: Dhurandhar",
-  "num_followers": 83940,
+  "num_followers": 83942,
   "original_name": "mint india",
   "owner": {
     "name": "Spotify",
@@ -115,26 +115,22 @@
     {
       "added_at": "2026-10-08 06:41:51",
       "album": {
-        "name": "Pavazha Malli (From \"Think Indie\")",
-        "url": "https://open.spotify.com/album/0AZKtXd74RQmQtCSGcVuZB"
+        "name": "P-POP CULTURE",
+        "url": "https://open.spotify.com/album/56ojNOZ9rz0PnhSaHHTL7y"
       },
       "artists": [
         {
-          "name": "Sai Abhyankkar",
-          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
         },
         {
-          "name": "Shruti Haasan",
-          "url": "https://open.spotify.com/artist/06vOoTzj6cIac9FMbNXz9h"
-        },
-        {
-          "name": "Vivek",
-          "url": "https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx"
+          "name": "Ikky",
+          "url": "https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel"
         }
       ],
-      "duration_ms": 252569,
-      "name": "Pavazha Malli - From \"Think Indie\"",
-      "url": "https://open.spotify.com/track/4yur1GSBfuS1VADyUYocqd"
+      "duration_ms": 180000,
+      "name": "For A Reason",
+      "url": "https://open.spotify.com/track/0cYohCh24y1aMjJmcS9RBl"
     },
     {
       "added_at": "2026-10-08 06:41:51",
@@ -171,22 +167,26 @@
     {
       "added_at": "2026-10-08 06:41:51",
       "album": {
-        "name": "P-POP CULTURE",
-        "url": "https://open.spotify.com/album/56ojNOZ9rz0PnhSaHHTL7y"
+        "name": "Pavazha Malli (From \"Think Indie\")",
+        "url": "https://open.spotify.com/album/0AZKtXd74RQmQtCSGcVuZB"
       },
       "artists": [
         {
-          "name": "Karan Aujla",
-          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+          "name": "Sai Abhyankkar",
+          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
         },
         {
-          "name": "Ikky",
-          "url": "https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel"
+          "name": "Shruti Haasan",
+          "url": "https://open.spotify.com/artist/06vOoTzj6cIac9FMbNXz9h"
+        },
+        {
+          "name": "Vivek",
+          "url": "https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx"
         }
       ],
-      "duration_ms": 180000,
-      "name": "For A Reason",
-      "url": "https://open.spotify.com/track/0cYohCh24y1aMjJmcS9RBl"
+      "duration_ms": 252569,
+      "name": "Pavazha Malli - From \"Think Indie\"",
+      "url": "https://open.spotify.com/track/4yur1GSBfuS1VADyUYocqd"
     },
     {
       "added_at": "2026-10-08 06:41:51",
@@ -207,34 +207,6 @@
       "duration_ms": 180248,
       "name": "Thodi Si Daaru",
       "url": "https://open.spotify.com/track/3JiLQJmVW7d4O8AQDFB3oj"
-    },
-    {
-      "added_at": "2026-10-08 06:41:51",
-      "album": {
-        "name": "Dhurandhar",
-        "url": "https://open.spotify.com/album/2e7HNQJ0BcMoqwsVDwDhK8"
-      },
-      "artists": [
-        {
-          "name": "Shashwat Sachdev",
-          "url": "https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9"
-        },
-        {
-          "name": "Afsana Khan",
-          "url": "https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo"
-        },
-        {
-          "name": "Irshad Kamil",
-          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
-        },
-        {
-          "name": "Reble",
-          "url": "https://open.spotify.com/artist/3MsxNLVtDVGxjEaxgKAoi0"
-        }
-      ],
-      "duration_ms": 155142,
-      "name": "Naal Nachna",
-      "url": "https://open.spotify.com/track/2nnDPEbNxnBKq5RG6sObTg"
     },
     {
       "added_at": "2026-10-08 06:41:51",
@@ -267,22 +239,6 @@
     {
       "added_at": "2026-10-08 06:41:51",
       "album": {
-        "name": "One Love",
-        "url": "https://open.spotify.com/album/3tNH9Fp4dm3qa3Kr4cv5uJ"
-      },
-      "artists": [
-        {
-          "name": "Shubh",
-          "url": "https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O"
-        }
-      ],
-      "duration_ms": 159222,
-      "name": "One Love",
-      "url": "https://open.spotify.com/track/5ZLkihi6DVsHwDL3B8ym1t"
-    },
-    {
-      "added_at": "2026-10-08 06:41:51",
-      "album": {
         "name": "P-POP CULTURE",
         "url": "https://open.spotify.com/album/56ojNOZ9rz0PnhSaHHTL7y"
       },
@@ -299,6 +255,50 @@
       "duration_ms": 160796,
       "name": "Boyfriend",
       "url": "https://open.spotify.com/track/3ExgWVPWOQts9RVBkqpdic"
+    },
+    {
+      "added_at": "2026-10-08 06:41:51",
+      "album": {
+        "name": "Dhurandhar",
+        "url": "https://open.spotify.com/album/2e7HNQJ0BcMoqwsVDwDhK8"
+      },
+      "artists": [
+        {
+          "name": "Shashwat Sachdev",
+          "url": "https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9"
+        },
+        {
+          "name": "Afsana Khan",
+          "url": "https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo"
+        },
+        {
+          "name": "Irshad Kamil",
+          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
+        },
+        {
+          "name": "Reble",
+          "url": "https://open.spotify.com/artist/3MsxNLVtDVGxjEaxgKAoi0"
+        }
+      ],
+      "duration_ms": 155142,
+      "name": "Naal Nachna",
+      "url": "https://open.spotify.com/track/2nnDPEbNxnBKq5RG6sObTg"
+    },
+    {
+      "added_at": "2026-10-08 06:41:51",
+      "album": {
+        "name": "One Love",
+        "url": "https://open.spotify.com/album/3tNH9Fp4dm3qa3Kr4cv5uJ"
+      },
+      "artists": [
+        {
+          "name": "Shubh",
+          "url": "https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O"
+        }
+      ],
+      "duration_ms": 159222,
+      "name": "One Love",
+      "url": "https://open.spotify.com/track/5ZLkihi6DVsHwDL3B8ym1t"
     },
     {
       "added_at": "2026-10-08 06:41:51",
@@ -351,6 +351,26 @@
       "duration_ms": 228620,
       "name": "Aaj Ki Raat (From \"Stree 2\")",
       "url": "https://open.spotify.com/track/5AnWrUzsrFgBvhn6dUElnr"
+    },
+    {
+      "added_at": "2026-10-08 06:41:51",
+      "album": {
+        "name": "Making Memories",
+        "url": "https://open.spotify.com/album/3BGU0BqGwBkYDHpfCWFm7I"
+      },
+      "artists": [
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        },
+        {
+          "name": "Ikky",
+          "url": "https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel"
+        }
+      ],
+      "duration_ms": 155161,
+      "name": "Softly",
+      "url": "https://open.spotify.com/track/0YQJoDL6f46J0n1rOVkpxJ"
     },
     {
       "added_at": "2026-10-08 06:41:51",
@@ -423,26 +443,6 @@
     {
       "added_at": "2026-10-08 06:41:51",
       "album": {
-        "name": "Making Memories",
-        "url": "https://open.spotify.com/album/3BGU0BqGwBkYDHpfCWFm7I"
-      },
-      "artists": [
-        {
-          "name": "Karan Aujla",
-          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
-        },
-        {
-          "name": "Ikky",
-          "url": "https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel"
-        }
-      ],
-      "duration_ms": 155161,
-      "name": "Softly",
-      "url": "https://open.spotify.com/track/0YQJoDL6f46J0n1rOVkpxJ"
-    },
-    {
-      "added_at": "2026-10-08 06:41:51",
-      "album": {
         "name": "AZUL",
         "url": "https://open.spotify.com/album/3NGgHtZBotxHUiKBUuwn39"
       },
@@ -507,6 +507,26 @@
     {
       "added_at": "2026-10-08 06:41:51",
       "album": {
+        "name": "Shaky",
+        "url": "https://open.spotify.com/album/1Ws1Vt9nXhYx43sKw3h9Fi"
+      },
+      "artists": [
+        {
+          "name": "Sanju Rathod",
+          "url": "https://open.spotify.com/artist/4B9efXsA6sv4w3vts8E0T7"
+        },
+        {
+          "name": "G-SPXRK",
+          "url": "https://open.spotify.com/artist/7BcFJxi62f6cbPyxdTZGll"
+        }
+      ],
+      "duration_ms": 175138,
+      "name": "Shaky",
+      "url": "https://open.spotify.com/track/2HI1eYwbbiJGqi0XaeByOI"
+    },
+    {
+      "added_at": "2026-10-08 06:41:51",
+      "album": {
         "name": "Aavan Jaavan (From \"WAR 2\")",
         "url": "https://open.spotify.com/album/7ka8N9k2D4VLQy6Gx9rmDA"
       },
@@ -531,26 +551,6 @@
       "duration_ms": 225535,
       "name": "Aavan Jaavan (From \"WAR 2\")",
       "url": "https://open.spotify.com/track/0ayku1IzLHuA3cHY4HxOCN"
-    },
-    {
-      "added_at": "2026-10-08 06:41:51",
-      "album": {
-        "name": "Shaky",
-        "url": "https://open.spotify.com/album/1Ws1Vt9nXhYx43sKw3h9Fi"
-      },
-      "artists": [
-        {
-          "name": "Sanju Rathod",
-          "url": "https://open.spotify.com/artist/4B9efXsA6sv4w3vts8E0T7"
-        },
-        {
-          "name": "G-SPXRK",
-          "url": "https://open.spotify.com/artist/7BcFJxi62f6cbPyxdTZGll"
-        }
-      ],
-      "duration_ms": 175138,
-      "name": "Shaky",
-      "url": "https://open.spotify.com/track/2HI1eYwbbiJGqi0XaeByOI"
     },
     {
       "added_at": "2026-10-08 06:41:51",
@@ -647,6 +647,22 @@
     {
       "added_at": "2026-10-08 06:41:51",
       "album": {
+        "name": "Not Guilty",
+        "url": "https://open.spotify.com/album/2ArzqdKnu0N93P4Z206F7c"
+      },
+      "artists": [
+        {
+          "name": "Dhanda Nyoliwala",
+          "url": "https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb"
+        }
+      ],
+      "duration_ms": 175813,
+      "name": "Not Guilty",
+      "url": "https://open.spotify.com/track/4YPSg93DDJW9Uf4IgklCHc"
+    },
+    {
+      "added_at": "2026-10-08 06:41:51",
+      "album": {
         "name": "Tere Pyaar Mein (From \"Tu Jhoothi Main Makkaar\")",
         "url": "https://open.spotify.com/album/5uAi4ZZc7zRdd6PsKNcJXO"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 266094,
       "name": "Tere Pyaar Mein",
       "url": "https://open.spotify.com/track/2ZD4aIEepqZsdxPxLSuUhm"
-    },
-    {
-      "added_at": "2026-10-08 06:41:51",
-      "album": {
-        "name": "Not Guilty",
-        "url": "https://open.spotify.com/album/2ArzqdKnu0N93P4Z206F7c"
-      },
-      "artists": [
-        {
-          "name": "Dhanda Nyoliwala",
-          "url": "https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb"
-        }
-      ],
-      "duration_ms": 175813,
-      "name": "Not Guilty",
-      "url": "https://open.spotify.com/track/4YPSg93DDJW9Uf4IgklCHc"
     },
     {
       "added_at": "2026-10-08 06:41:51",
@@ -991,22 +991,6 @@
     {
       "added_at": "2026-10-08 06:41:51",
       "album": {
-        "name": "Haider (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3JjCJkHvXRX8s2PgwVMXuL"
-      },
-      "artists": [
-        {
-          "name": "Sukhwinder Singh",
-          "url": "https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT"
-        }
-      ],
-      "duration_ms": 365571,
-      "name": "Bismil",
-      "url": "https://open.spotify.com/track/7EadaXiYHu40vxlHyE1ib7"
-    },
-    {
-      "added_at": "2026-10-08 06:41:51",
-      "album": {
         "name": "Babli Badmaash",
         "url": "https://open.spotify.com/album/41AUpeGEOpk2btYQZq4LZi"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 267586,
       "name": "Babli Badmaash",
       "url": "https://open.spotify.com/track/3UwGbGK1pYHt3kXIgc895b"
+    },
+    {
+      "added_at": "2026-10-08 06:41:51",
+      "album": {
+        "name": "Haider (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3JjCJkHvXRX8s2PgwVMXuL"
+      },
+      "artists": [
+        {
+          "name": "Sukhwinder Singh",
+          "url": "https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT"
+        }
+      ],
+      "duration_ms": 365571,
+      "name": "Bismil",
+      "url": "https://open.spotify.com/track/7EadaXiYHu40vxlHyE1ib7"
     },
     {
       "added_at": "2026-10-08 06:41:51",

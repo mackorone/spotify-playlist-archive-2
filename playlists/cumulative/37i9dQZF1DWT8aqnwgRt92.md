@@ -4,7 +4,7 @@
 
 > Hottest Anime hits & best new tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-2,927 songs - 7 day 12 hr 24 min
+2,928 songs - 7 day 12 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -486,7 +486,7 @@
 | [fuwari](https://open.spotify.com/track/5PEDVhheFpRqK5JJ2cu5Nn) | [内田彩](https://open.spotify.com/artist/0M6zW75xJfkFNrxxawEdLz) | [fuwari](https://open.spotify.com/album/6RcIN4K2i0nFbjDoySoMQG) | 3:23 | 2025-07-15 | 2025-07-23 |
 | [fūmi zekka](https://open.spotify.com/track/2Lphm5lQ3bOULctWRuMhJ8) | [YuNi](https://open.spotify.com/artist/6BzlN4V17m7ogeItP4CNN5) | [fūmi zekka](https://open.spotify.com/album/6B2EGXqpVPapvfPFyLlwKm) | 3:18 | 2023-08-06 | 2023-10-04 |
 | [g](https://open.spotify.com/track/5ZNHmpzW8Z6CXO18dp1Tpu) | [Shouta Aoi](https://open.spotify.com/artist/4Kg3vBPMPfnYrnZo2A4czS) | [g](https://open.spotify.com/album/5lZM4MjAHZ9q1xoF5Wl9yQ) | 3:15 | 2026-06-23 | 2026-07-03 |
-| [Galaxy Mode](https://open.spotify.com/track/7dGSFYAVvLyVE0iS7m2ZVI) | [J SOUL BROTHERS III](https://open.spotify.com/artist/1g51NlHKUXlgfvGP22m0uD) | [24/7 ～JSB FOREVER～](https://open.spotify.com/album/2GpzoaznnyKHSi0GFyRLRT) | 3:16 | 2026-10-20 |  |
+| [Galaxy Mode](https://open.spotify.com/track/7dGSFYAVvLyVE0iS7m2ZVI) | [J SOUL BROTHERS III](https://open.spotify.com/artist/1g51NlHKUXlgfvGP22m0uD) | [24/7 ～JSB FOREVER～](https://open.spotify.com/album/2GpzoaznnyKHSi0GFyRLRT) | 3:16 | 2026-10-20 | 2026-11-14 |
 | [Galge](https://open.spotify.com/track/2qORiz0R93Ve0Zrtqf1Eek) | [Aiobahn +81](https://open.spotify.com/artist/3Uyka21MjsQuDzxoOFgizr) | [Galge](https://open.spotify.com/album/4INUi5NXrnFXgVNAwGE9u9) | 4:29 | 2026-07-14 | 2026-08-26 |
 | [GAME OVER](https://open.spotify.com/track/2gH2pndal6ciCOzB0HNhSt) | [issey](https://open.spotify.com/artist/6NOuhUhXshepSHcBqwwZJt) | [GAME OVER](https://open.spotify.com/album/0B7HSA1BkB7b6MfJcR5KIK) | 3:53 | 2024-07-03 | 2024-07-06 |
 | [Gamusharaaa～館のテーマ～](https://open.spotify.com/track/0GYpSpQTxNGiyuUAEmQ6PY) | [古川 慎](https://open.spotify.com/artist/7cqs65sOpEfqF5T0XFnAWc) | [Gamusharaaa～館のテーマ～](https://open.spotify.com/album/7dtjVwgmlSPWrwkGKXWNtf) | 3:37 | 2026-09-29 | 2026-10-21 |
@@ -662,6 +662,7 @@
 | [Ijigen BIGBANG](https://open.spotify.com/track/3QRii5A35ZfsGGiPrv9k0j) | [Uzuki Shimamura \(CV: Ayaka Ohashi\)](https://open.spotify.com/artist/3xoyWve1jtl6V6v5vJ0jzj), [Shizuka Mogami \(CV: Azusa Tadokoro\)](https://open.spotify.com/artist/4O0cUPcEXzU6U510RtnM8l), [KOGANE TSUKIOKA \(CV: Karin Isobe\)](https://open.spotify.com/artist/4r40eoNekBoDSFuPtMaZf1), [Chika Takami \(CV: Anju Inami\)](https://open.spotify.com/artist/1j1qyF4vDxo871CSuHzgY5), [Ayumu Uehara \(CV: Aguri Onishi\)](https://open.spotify.com/artist/0qBW9nTHObmROrT0n1rYFF), [Kanon Shibuya \(CV: Sayuri Date\)](https://open.spotify.com/artist/0d6TVcK3Wq84iMZ3T1kHHR), [Kaho Hinoshita \(CV: Nozomi Nirei\)](https://open.spotify.com/artist/5VnkGk25NC41GkZEEZzQXy) | [Ijigen BIGBANG](https://open.spotify.com/album/5viWiiX3YocnLLAz9kICRH) | 5:16 | 2023-11-07 | 2023-11-22 |
 | [Ikenai Etranger \- TV Size](https://open.spotify.com/track/1NUNDPl0ImLjQJ0WGveIWo) | [Yui Hizuki](https://open.spotify.com/artist/2wtrCZG4SWwmzDng6PDSGC) | [Ikenai Etranger \(TV Size\)](https://open.spotify.com/album/52acpP2vuRs1Im9taZcS59) | 1:30 | 2023-10-05 | 2023-10-11 |
 | [Immortal](https://open.spotify.com/track/0OnBxDVmTg16bqklhVnRsJ) | [JUVENILE](https://open.spotify.com/artist/2Wj83ZkeRUYtTq0kaPOoQW) | [Immortal](https://open.spotify.com/album/19mWviXzRwoBHrJlcbR2la) | 3:18 | 2024-01-09 | 2024-04-11 |
+| [In Love With Myself](https://open.spotify.com/track/2iyaHQlYrR8Eyr4wOmOT5D) | [Petite Meller](https://open.spotify.com/artist/2gUVyV9z7T6cielHCMSpvb), [Kalman Chodakiewitz](https://open.spotify.com/artist/04CWg0uT79a10dBoyRu4ft), [Eli Shiffman](https://open.spotify.com/artist/49TPnY519EQ4n5pRuWlCgb) | [Cyberpunk: Edgerunners 2 \(Original Series Soundtrack\)](https://open.spotify.com/album/4GzPICfeGh5OqKjhUtpRQA) | 2:52 | 2026-11-13 |  |
 | [In the Back Room](https://open.spotify.com/track/086iznqzaVOAmuYMYyjUpn) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [In the Back Room](https://open.spotify.com/album/3lr5rhG5M4hTvwQ5RzGLqw) | 3:26 | 2022-11-08 | 2022-12-07 |
 | [In the Core of My Heart](https://open.spotify.com/track/0DLr3MyMwfW30PTlhnXbqj) | [中島みゆき](https://open.spotify.com/artist/0caDIM0rTovLDe5UdFvK1t) | [「アリスとテレスのまぼろし工場」オリジナルサウンドトラック](https://open.spotify.com/album/2uz6oICkcSVEE0QQaboneg) | 5:28 | 2023-09-26 | 2023-10-25 |
 | [in the pocket](https://open.spotify.com/track/7cSnylYfrW2vho71jk52EC) | [Mr.Children](https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY) | [in the pocket](https://open.spotify.com/album/7og4SwTc07Zan2RHIi0ufr) | 4:51 | 2024-08-29 | 2024-10-09 |

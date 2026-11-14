@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUwDCgX0o26D.md) - [plain]
 
 > 全台最紅西洋歌單！熱門盡在此！Cover:  FLO
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,997 likes - 54 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,003 likes - 54 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

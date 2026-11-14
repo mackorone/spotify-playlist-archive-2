@@ -4156,7 +4156,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 188058,
       "name": "can u",
       "url": "https://open.spotify.com/track/7jCb5WnXPQN981yRkGlxDN"
@@ -12329,6 +12329,24 @@
     },
     {
       "album": {
+        "name": "I8U!!",
+        "url": "https://open.spotify.com/album/4rRIcYdUEo7l0yK1yBQv4G"
+      },
+      "artists": [
+        {
+          "name": "u.r.trax",
+          "url": "https://open.spotify.com/artist/5bGQtNvk4LrSUTZGzBiZq5"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195012,
+      "name": "I8U!!",
+      "url": "https://open.spotify.com/track/5Y9xZHa40mq7k6xLl1zYO4"
+    },
+    {
+      "album": {
         "name": "Ice u out (dj something remix)",
         "url": "https://open.spotify.com/album/0Uv4AnT8TS8a68ZvO1QC6i"
       },
@@ -17428,7 +17446,7 @@
           "url": "https://open.spotify.com/artist/5YQtvxTvGSShjMTOMyCuPT"
         },
         {
-          "name": "GRANT",
+          "name": "Grant",
           "url": "https://open.spotify.com/artist/6SkVKlAmIWVD0LQvCGQqSj"
         }
       ],

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSEAOqwtmQ3.md) - [plain]
 
 > The songs soundtracking the best years
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,737 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,911 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSEAOqwtmQ3.md) - [plain]
 | 24 | [Fada Fada](https://open.spotify.com/track/7vuPAT6r64yBfCWFySA086) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [The PlayMaker](https://open.spotify.com/album/4mT2dPZH31DKN3ka7NGmZW) | 4:48 |
 | 25 | [Wetin We Gain](https://open.spotify.com/track/5faqpitzDhJKv3huL8nJhp) | [Victor AD](https://open.spotify.com/artist/0yUUty3Foto0aVQ0qElM3N) | [Wetin We Gain](https://open.spotify.com/album/6vHdAinF14WKw2vIpXDAiC) | 3:34 |
 | 26 | [Joromi](https://open.spotify.com/track/6NvUNJefj3U5ANRwFBCQXE) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Simisola](https://open.spotify.com/album/4FFft6oVCqgbcIaD9CxZiR) | 3:55 |
-| 27 | [Motigbana](https://open.spotify.com/track/6AYPyB4mgQIGeU0Xab4ONQ) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Motigbana](https://open.spotify.com/album/7yXxe2Zkyf2E3sMDEVaDK6) | 3:57 |
-| 28 | [Bolanle](https://open.spotify.com/track/7gSlSNvxiHC9HrKKbgKzYd) | [IVD](https://open.spotify.com/artist/5hZ6eJ8DdyM7no1KDrfe8m), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Bolanle](https://open.spotify.com/album/4hLok7Z2jx1zBCVIy35LiL) | 2:53 |
+| 27 | [Bolanle](https://open.spotify.com/track/7gSlSNvxiHC9HrKKbgKzYd) | [IVD](https://open.spotify.com/artist/5hZ6eJ8DdyM7no1KDrfe8m), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Bolanle](https://open.spotify.com/album/4hLok7Z2jx1zBCVIy35LiL) | 2:53 |
+| 28 | [Motigbana](https://open.spotify.com/track/6AYPyB4mgQIGeU0Xab4ONQ) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Motigbana](https://open.spotify.com/album/7yXxe2Zkyf2E3sMDEVaDK6) | 3:57 |
 | 29 | [Problem](https://open.spotify.com/track/1x9iAQOjMEHWZX7UeqiyWV) | [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [SPOTLIGHT](https://open.spotify.com/album/1HvZC18RODcUSqng5Q9KJ9) | 3:05 |
 | 30 | [Chemistry](https://open.spotify.com/track/2oMerdOdPAEpv67uVjtTUJ) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Chemistry](https://open.spotify.com/album/7fIrtqz9L6ilRL6vXuKR0D) | 3:48 |
 | 31 | [Fela In Versace](https://open.spotify.com/track/4VmIqdbPsBUMAxCf2nnLD3) | [AKA](https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX) | [Touch My Blood](https://open.spotify.com/album/1cCpD6ImDJDP1nrsZVhV7O) | 5:28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPHCzPqDlCiW.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1c2S9zEjadnB6Mt2aOOLWn">Ollie Green</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 250 likes - 174 songs - 9 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 251 likes - 174 songs - 9 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPHCzPqDlCiW.md) - [plain]
 | 74 | [Crashing](https://open.spotify.com/track/3h92ZmC1s6VkmY8cDaqZ6k) | [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq) | [Crashing](https://open.spotify.com/album/0fEcqp0U7H9cqxl1372HMV) | 2:59 |
 | 75 | [Humans](https://open.spotify.com/track/7KmEHD4bLjod8nhGFYYU2X) | [Vikkstar](https://open.spotify.com/artist/3wE6Lb4RCyPMoXsnXV0ZPC), [Shaun Farrugia](https://open.spotify.com/artist/4ukUyiEoZi8QxibfjuUsEw) | [Humans](https://open.spotify.com/album/5OPflo8FBOC3I0PySfpfef) | 3:33 |
 | 76 | [Tokyo \(feat\. Vertue\)](https://open.spotify.com/track/7wNDfm0Hs4zVws8OxTjUFj) | [Faul & Wad](https://open.spotify.com/artist/6HUm6AHJE0oisACMN6NNJ5), [Vertue](https://open.spotify.com/artist/743a54vYBks5izSpJdWOSc) | [Tokyo \(feat\. Vertue\)](https://open.spotify.com/album/7txj8kBNoVAizBrixf156t) | 3:26 |
-| 77 | [Your Hand Is Safe in Mine](https://open.spotify.com/track/3YJebXo5hYFcEhnSvuzUQQ) | [Blush](https://open.spotify.com/artist/31rc0iQFBQBf1PcS7L3wIN) | [Your Hand Is Safe in Mine](https://open.spotify.com/album/3s549VD9aZNQwdlXlfDZOh) | 3:36 |
-| 78 | [Beautiful Life](https://open.spotify.com/track/15pViH8S6yor5SmFrV03ic) | [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Beautiful Life](https://open.spotify.com/album/2sGLInJA6FWZs6c8PeAG6i) | 2:57 |
+| 77 | [Beautiful Life](https://open.spotify.com/track/15pViH8S6yor5SmFrV03ic) | [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Beautiful Life](https://open.spotify.com/album/2sGLInJA6FWZs6c8PeAG6i) | 2:57 |
+| 78 | [Your Hand Is Safe in Mine](https://open.spotify.com/track/3YJebXo5hYFcEhnSvuzUQQ) | [Blush](https://open.spotify.com/artist/31rc0iQFBQBf1PcS7L3wIN) | [Your Hand Is Safe in Mine](https://open.spotify.com/album/3s549VD9aZNQwdlXlfDZOh) | 3:36 |
 | 79 | [Easy](https://open.spotify.com/track/03UOUsopr9Nq6Ij4l38ksE) | [Aidan Martin](https://open.spotify.com/artist/3JKrNnhjEv9h3fyKhQpylb) | [Easy](https://open.spotify.com/album/3qjvs5d8MHDjkHnIWP2bIq) | 2:55 |
 | 80 | [Gravity \(feat\. Tyler Shaw\)](https://open.spotify.com/track/2cGoqq76QeKeL8H5MSXIlS) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31) | [ORIGIN](https://open.spotify.com/album/3WNr0X7Ke2gbAALJe7OluG) | 3:03 |
 | 81 | [Ruins](https://open.spotify.com/track/4jfB2EGWbtWzDoM696Ch6u) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Ruins](https://open.spotify.com/album/13xj625T4hyjosgTEZBRLH) | 2:40 |
@@ -183,4 +183,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPHCzPqDlCiW.md) - [plain]
 | 173 | [Cry Baby](https://open.spotify.com/track/6CUhst2FN306kgbPZRDMlX) | [Vize Verza](https://open.spotify.com/artist/7866WqAIb0XvXRlRPTUCir) | [Cry Baby](https://open.spotify.com/album/3qw9vLNZSZVp0nspvfnYMQ) | 2:54 |
 | 174 | [Mother](https://open.spotify.com/track/6w0UT19dw0IRWtLMQyn1Sq) | [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [Mother](https://open.spotify.com/album/3PzaUA5NnjrDsDECx5tcSe) | 3:19 |
 
-Snapshot ID: `AchglAAAAADTAbDYvhY2U7b6486p4AQE`
+Snapshot ID: `AchmNAAAAAAZe2PaL2hM0nbAuDdPCjyF`

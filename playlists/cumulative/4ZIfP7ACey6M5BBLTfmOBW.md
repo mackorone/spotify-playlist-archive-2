@@ -2,9 +2,9 @@
 
 ### [Fresh Hip Hop](https://open.spotify.com/playlist/4ZIfP7ACey6M5BBLTfmOBW)
 
-> Strictly the freshest and finest hip\-hop heats\. No skips\. Cover: A$AP Rocky.
+> Strictly the freshest and finest hip\-hop heats\. No skips\. Cover: Snotty Nose Rez Kids.
 
-958 songs - 1 day 20 hr 35 min
+959 songs - 1 day 20 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Bloom ft\. Strings From Paris](https://open.spotify.com/track/1zmm0RJr87jNbbLR08eaLV) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4), [Strings From Paris](https://open.spotify.com/artist/4c520eahgQwzeJopRch4k4) | [Bloom ft\. Strings From Paris](https://open.spotify.com/album/06hyNaRnnj4Byzh8IqyZQW) | 3:19 | 2024-10-04 | 2024-10-14 |
 | [BLRRD BLRRD](https://open.spotify.com/track/1myckSZeHzEeYqRHcrVgHm) | [DD Osama](https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM) | [BLRRD BLRRD](https://open.spotify.com/album/0J4O9Xd4lcxBZC2nEvj9Wh) | 2:19 | 2025-02-21 | 2025-03-29 |
 | [BODY SHOP\. \(feat\. Tommy Richman\)](https://open.spotify.com/track/7wQ2sYDKlby1qgPki8THbZ) | [Paco](https://open.spotify.com/artist/2XmsywQiI1izPHz7Mo84vZ), [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [BODY SHOP\. / PLAN B.](https://open.spotify.com/album/27od1rgOVRYMjoglpaTFO9) | 2:50 | 2024-12-13 | 2025-03-22 |
+| [Bombshell](https://open.spotify.com/track/2VeN1n4V4e1MQuxsbz1cHe) | [Snotty Nose Rez Kids](https://open.spotify.com/artist/16T3el1CEjX49qFA7UT2n5) | [Bombshell](https://open.spotify.com/album/3YN9pb7xbignsmawVbSo0n) | 2:01 | 2026-11-13 |  |
 | [Bon Appétit](https://open.spotify.com/track/1Dhpasf3IFSkWHVEKH3sas) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [Bon Appétit](https://open.spotify.com/album/3xNVzuYogaA4nKfHVeMHtr) | 2:18 | 2025-06-20 | 2025-11-08 |
 | [Booga](https://open.spotify.com/track/1d94WA0KdviIHSKlyDN2VF) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Booga](https://open.spotify.com/album/0E1xU9Ab5UPMzHL7AehdBx) | 1:52 | 2025-11-28 |  |
 | [Boring \(feat\. Nino Paid\)](https://open.spotify.com/track/1zgdLsKsrTenOciccB8Atl) | [BloodHound Q50](https://open.spotify.com/artist/7DVSW8TAJdesr6KT5C0rZx), [Nino Paid](https://open.spotify.com/artist/0WqsT2a4CBuQ0LC7vrJD0H) | [Boring \(feat\. Nino Paid\)](https://open.spotify.com/album/6cRZGEt5seC5dJdr9AacGi) | 2:19 | 2025-07-11 | 2025-09-27 |

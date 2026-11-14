@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-877 songs - 2 day 6 hr 38 min
+880 songs - 2 day 6 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [Castaway](https://open.spotify.com/track/7oEXp5pzlZIGafGaAM3ibD) | [James Sebastian](https://open.spotify.com/artist/6IX76Xz04QnJdDtcDIfoD6) | [Castaway](https://open.spotify.com/album/5omwhRrrco9U57TmhEu1D9) | 3:49 | 2025-12-31 | 2026-03-18 |
 | [Catch Catch](https://open.spotify.com/track/2O9bMJticxbQ8FH3NiQ7Xh) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) | [LOVE CATCHER](https://open.spotify.com/album/1IxQnpYIIFY9F2IVVsD27F) | 3:00 | 2026-05-03 | 2026-05-26 |
 | [Caught in the Stillness](https://open.spotify.com/track/2tDI6WG6dRN7dzIgUpT3B3) | [The Hollow Frays](https://open.spotify.com/artist/4p9MmGhxHuh8SEcsOTiU9L) | [Caught in the Stillness](https://open.spotify.com/album/0UQ0WNh2D6S0InS8ETa4v7) | 3:26 | 2026-03-01 | 2026-03-18 |
+| [Central Park](https://open.spotify.com/track/2fBodXDJPkxHUFm1sJpVYZ) | [FADED](https://open.spotify.com/artist/60g0Lh476VUxWoXsLexU9W) | [Central Park](https://open.spotify.com/album/090XzHeLD5gzIJVVMBz0z8) | 4:03 | 2026-11-13 |  |
 | [Chain of Tears](https://open.spotify.com/track/08SiekDZZVLFZOuXH6hyjb) | [NEBO](https://open.spotify.com/artist/1xa8wXy8Vr8bNIZBXC5MzW) | [Metaphysical Machines](https://open.spotify.com/album/72ySfGq5j24M8HZe9JvSNq) | 4:33 | 2026-03-15 |  |
 | [Change](https://open.spotify.com/track/4R2lNQAf735RGb9Q1ujGj5) | [Claudia Ferri](https://open.spotify.com/artist/1AuF1gQexqDz6ccd06Mge0) | [Change](https://open.spotify.com/album/3IY95C3MaVS42sm8FXxGYj) | 2:48 | 2026-07-25 | 2026-08-15 |
 | [Change It](https://open.spotify.com/track/35zASnos8CRA1WkVHdY0us) | [Uncle Ryano](https://open.spotify.com/artist/5rqp4K9umZGDvEqwGIDWWT), [Brei Carter](https://open.spotify.com/artist/1ODtqEHcWPmq8LlAOWAu7i), [Megan Urby](https://open.spotify.com/artist/0DpGBXTwcqB2PfuF1lQFuo), [Leif Shively Band](https://open.spotify.com/artist/78WGTxMhFRCPmZsaV02Fc8) | [Change It](https://open.spotify.com/album/5OyqYRNiss4SlC9qQMLYCq) | 3:26 | 2026-09-21 |  |
@@ -137,6 +138,7 @@
 | [Cicatriz de besos](https://open.spotify.com/track/2pPYQQjGsjoXtPkBfLaIQe) | [Xeimar](https://open.spotify.com/artist/2ogDO2M2jDroY1ms13KwKa) | [Cicatriz de besos](https://open.spotify.com/album/3F3qpCClHX7mydgVrxVg0y) | 3:49 | 2026-05-11 | 2026-05-26 |
 | [City Life](https://open.spotify.com/track/0Drc5FqVoJKozyyzzRsujs) | [MOKAs](https://open.spotify.com/artist/1IczCTas4lUyZa8wQRst9C) | [City Life](https://open.spotify.com/album/5gSYQTFL50MJ4ThTzYmJgg) | 3:33 | 2026-07-30 | 2026-08-15 |
 | [Clovers](https://open.spotify.com/track/5QDglHplmxM1m4mSPb668K) | [Oleander Grove](https://open.spotify.com/artist/2FnmnwkVB8NPFnqrN22mUz) | [Clovers](https://open.spotify.com/album/7dMaggiYP5KWGTenje5J1y) | 4:14 | 2026-08-09 |  |
+| [cocain](https://open.spotify.com/track/2uw1o70hPtbyJ9aOEux2TW) | [MINIMO.EXE](https://open.spotify.com/artist/5K8CdOb3qPFei7n1KWn2B5) | [cocain](https://open.spotify.com/album/6YdjIiYpIdjjCmlBLO8NSz) | 1:45 | 2026-11-13 |  |
 | [Cocomama](https://open.spotify.com/track/10kkQ39P3LF5U4owFUW1D5) | [Pituf Project](https://open.spotify.com/artist/1JZT0UPEFA7lPu94SzUqWh) | [Perception Altérée](https://open.spotify.com/album/6y1AIZMakzsN8OTTiq29zg) | 4:14 | 2025-09-01 | 2026-07-12 |
 | [Colores](https://open.spotify.com/track/755UkUqGE1RKVdZpCGDFj3) | [Bounce Back](https://open.spotify.com/artist/70mZN7KBrWusiMgyXNW4Hb) | [Colores](https://open.spotify.com/album/6ktEAyCfI5KoTKSgPDFHTO) | 3:58 | 2026-05-11 | 2026-05-26 |
 | [Colors](https://open.spotify.com/track/3vX92NNpPBm3f94fqEZTaX) | [Talking to Sophie](https://open.spotify.com/artist/0LTUT9DnhghYPP64a0ZXmC) | [Grand Ballet](https://open.spotify.com/album/75YY4RxuyNJBsUXlV91sT6) | 2:58 | 2026-07-05 |  |
@@ -366,6 +368,7 @@
 | [I've Got No Fear](https://open.spotify.com/track/0Aj2Zv5gEcj4ndcDpvy9WQ) | [Mays Hounds](https://open.spotify.com/artist/0uyaofsOLmzcYezAAKtYkj) | [I've Got No Fear](https://open.spotify.com/album/557Qq6MMDSAzL75W5qfeDw) | 2:23 | 2025-10-22 | 2025-11-28 |
 | [If I Can't Have You](https://open.spotify.com/track/5CxxnPvc1oqXmmf9GvBuuR) | [Glen Caleb](https://open.spotify.com/artist/4Hyl6jqlskLvgHqxk3eKbA) | [If I Can't Have You](https://open.spotify.com/album/1UGBW7p7M46l2LRoYu2ifg) | 2:45 | 2026-03-05 | 2026-03-18 |
 | [If Just Dreaming Isn’t Enought, Sorry! \(Version 2026\)](https://open.spotify.com/track/60UE0B8OoZy3b468b038iM) | [Mathias Neto](https://open.spotify.com/artist/5QrUJ71HRSZ4O2wVAJkKZG) | [Rock Worlds Collision](https://open.spotify.com/album/3texjmqZN34PmF4sQcYQ4l) | 5:43 | 2026-01-11 | 2026-03-18 |
+| [If OnlyYesterday](https://open.spotify.com/track/5k5Y3JQ5JJnOcD7lKCKUvN) | [Chuck Idol](https://open.spotify.com/artist/7tRZLgsr5C5jvrhZD3NSAV) | [If OnlyYesterday](https://open.spotify.com/album/38ilHQ9tI9apNnEiN6NAfF) | 3:16 | 2026-11-13 |  |
 | [Il Collezionista](https://open.spotify.com/track/0iwgPOvuMNhgVKAwymVymg) | [L'orca](https://open.spotify.com/artist/3Otlm558Nxk1NbixN4qgmp), [Walter](https://open.spotify.com/artist/2dopOJYUmdcTqBAIf6JNfR) | [Il Collezionista & Su Di Dosso](https://open.spotify.com/album/6LCSfJ0p09qp1LvxDOYPcY) | 4:12 | 2025-09-21 | 2026-07-12 |
 | [In a Way Anyway](https://open.spotify.com/track/5VSywl4e3DG6JPpnpjTlji) | [Blews](https://open.spotify.com/artist/18HYO86jbN3uqsjDja6Cgx) | [In a Way Anyway](https://open.spotify.com/album/7jiJQXgJCBJSmuo4CEcEOu) | 3:11 | 2025-10-08 | 2025-11-28 |
 | [In the Evening](https://open.spotify.com/track/4EiKqVV6Ll2JIcB5PDwh4f) | [Jumping Warpigs](https://open.spotify.com/artist/2bVJ0nmmBgKlHSKrtDK11t) | [Blues](https://open.spotify.com/album/4m0VKD21IwFXkpOi8F9seF) | 3:22 | 2026-03-16 | 2026-04-21 |

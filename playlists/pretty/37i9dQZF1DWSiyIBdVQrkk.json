@@ -1,6 +1,6 @@
 {
   "description": "The best in classic and contemporary Reggae. Cover: Original Koffee, for <a href=spotify:playlist:37i9dQZF1DX0rM1NjYKMJa> Carnival Sounds Live 2026.</a>",
-  "num_followers": 2108676,
+  "num_followers": 2108487,
   "original_name": "One Love",
   "owner": {
     "name": "Spotify",
@@ -207,22 +207,6 @@
     {
       "added_at": "2026-08-21 14:00:21",
       "album": {
-        "name": "Police In Helicopter",
-        "url": "https://open.spotify.com/album/7naj9A5QZbYxYbj9Susywq"
-      },
-      "artists": [
-        {
-          "name": "John Holt",
-          "url": "https://open.spotify.com/artist/312pFk2xpEwYWLGPehc4Nu"
-        }
-      ],
-      "duration_ms": 219160,
-      "name": "Police In Helicopter",
-      "url": "https://open.spotify.com/track/0mD19MC6H0OzHvEUADHypU"
-    },
-    {
-      "added_at": "2026-08-21 14:00:21",
-      "album": {
         "name": "Chronology",
         "url": "https://open.spotify.com/album/1w71axmi9UJfsKCdEqGdNm"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 252125,
       "name": "Skankin' Sweet",
       "url": "https://open.spotify.com/track/5SQaQWvBDEAeug4EPyYEGE"
+    },
+    {
+      "added_at": "2026-08-21 14:00:21",
+      "album": {
+        "name": "Police In Helicopter",
+        "url": "https://open.spotify.com/album/7naj9A5QZbYxYbj9Susywq"
+      },
+      "artists": [
+        {
+          "name": "John Holt",
+          "url": "https://open.spotify.com/artist/312pFk2xpEwYWLGPehc4Nu"
+        }
+      ],
+      "duration_ms": 219160,
+      "name": "Police In Helicopter",
+      "url": "https://open.spotify.com/track/0mD19MC6H0OzHvEUADHypU"
     },
     {
       "added_at": "2026-08-21 14:00:21",
@@ -287,22 +287,6 @@
     {
       "added_at": "2026-08-21 14:00:21",
       "album": {
-        "name": "Lava Ground",
-        "url": "https://open.spotify.com/album/7uReTXgsiJdTHdn42KO2Qp"
-      },
-      "artists": [
-        {
-          "name": "I Wayne",
-          "url": "https://open.spotify.com/artist/3HQIkVkhoARQMb0XlvyUKL"
-        }
-      ],
-      "duration_ms": 221866,
-      "name": "Cant Satisfy Her",
-      "url": "https://open.spotify.com/track/3u25dhBZ80h0TFewO29Wqb"
-    },
-    {
-      "added_at": "2026-08-21 14:00:21",
-      "album": {
         "name": "Dread & Terrible",
         "url": "https://open.spotify.com/album/4zYr71y5wIjnoizuJ4o6ZK"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 234586,
       "name": "Here Comes Trouble",
       "url": "https://open.spotify.com/track/5Wwr2S7QZTR5PVJn6jhgdk"
+    },
+    {
+      "added_at": "2026-08-21 14:00:21",
+      "album": {
+        "name": "Lava Ground",
+        "url": "https://open.spotify.com/album/7uReTXgsiJdTHdn42KO2Qp"
+      },
+      "artists": [
+        {
+          "name": "I Wayne",
+          "url": "https://open.spotify.com/artist/3HQIkVkhoARQMb0XlvyUKL"
+        }
+      ],
+      "duration_ms": 221866,
+      "name": "Cant Satisfy Her",
+      "url": "https://open.spotify.com/track/3u25dhBZ80h0TFewO29Wqb"
     },
     {
       "added_at": "2026-08-21 14:00:21",
@@ -671,6 +671,22 @@
     {
       "added_at": "2026-08-21 14:00:21",
       "album": {
+        "name": "Natty Rebel (Extra Version)",
+        "url": "https://open.spotify.com/album/6HTLFNdjeW75Am1fKMHGyZ"
+      },
+      "artists": [
+        {
+          "name": "U-Roy",
+          "url": "https://open.spotify.com/artist/4aCH6cwaYahrWfJWqfEfra"
+        }
+      ],
+      "duration_ms": 211960,
+      "name": "Natty Rebel - Remaster 1990",
+      "url": "https://open.spotify.com/track/5FgdPuK51WBYhuMhV0XIBg"
+    },
+    {
+      "added_at": "2026-08-21 14:00:21",
+      "album": {
         "name": "Fally Lover",
         "url": "https://open.spotify.com/album/1KazY0vkz1QEHqnoF6ocUj"
       },
@@ -683,6 +699,22 @@
       "duration_ms": 203400,
       "name": "Ice Cream Love",
       "url": "https://open.spotify.com/track/16DTl4nJDz444OcvTlbxxD"
+    },
+    {
+      "added_at": "2026-08-21 14:00:21",
+      "album": {
+        "name": "Wisdom",
+        "url": "https://open.spotify.com/album/447C0uIwKJY0AXGkR6Bfa1"
+      },
+      "artists": [
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 323068,
+      "name": "Old Sunrise",
+      "url": "https://open.spotify.com/track/3IZVcI4XBomuSZTF6CBd28"
     },
     {
       "added_at": "2026-08-21 14:00:21",
@@ -707,38 +739,6 @@
     {
       "added_at": "2026-08-21 14:00:21",
       "album": {
-        "name": "Wisdom",
-        "url": "https://open.spotify.com/album/447C0uIwKJY0AXGkR6Bfa1"
-      },
-      "artists": [
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 323068,
-      "name": "Old Sunrise",
-      "url": "https://open.spotify.com/track/3IZVcI4XBomuSZTF6CBd28"
-    },
-    {
-      "added_at": "2026-08-21 14:00:21",
-      "album": {
-        "name": "Natty Rebel (Extra Version)",
-        "url": "https://open.spotify.com/album/6HTLFNdjeW75Am1fKMHGyZ"
-      },
-      "artists": [
-        {
-          "name": "U-Roy",
-          "url": "https://open.spotify.com/artist/4aCH6cwaYahrWfJWqfEfra"
-        }
-      ],
-      "duration_ms": 211960,
-      "name": "Natty Rebel - Remaster 1990",
-      "url": "https://open.spotify.com/track/5FgdPuK51WBYhuMhV0XIBg"
-    },
-    {
-      "added_at": "2026-08-21 14:00:21",
-      "album": {
         "name": "Most Wanted: The Best of King Yellowman",
         "url": "https://open.spotify.com/album/7nPRCptBHN7td5mKb6ON3N"
       },
@@ -755,22 +755,6 @@
     {
       "added_at": "2026-08-21 14:00:21",
       "album": {
-        "name": "Missing You",
-        "url": "https://open.spotify.com/album/3688VgiRVASa05x5FHEmc9"
-      },
-      "artists": [
-        {
-          "name": "Sanchez",
-          "url": "https://open.spotify.com/artist/6550dJCDSrZ8Cv6IDAjHpf"
-        }
-      ],
-      "duration_ms": 202600,
-      "name": "Missing You",
-      "url": "https://open.spotify.com/track/5BkEtAa7LHwm5qs2vLegX3"
-    },
-    {
-      "added_at": "2026-08-21 14:00:21",
-      "album": {
         "name": "Chronology",
         "url": "https://open.spotify.com/album/1w71axmi9UJfsKCdEqGdNm"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 204000,
       "name": "Spanish Town Rockin'",
       "url": "https://open.spotify.com/track/4Qup2zholspnhLpgkO77C2"
+    },
+    {
+      "added_at": "2026-08-21 14:00:21",
+      "album": {
+        "name": "Missing You",
+        "url": "https://open.spotify.com/album/3688VgiRVASa05x5FHEmc9"
+      },
+      "artists": [
+        {
+          "name": "Sanchez",
+          "url": "https://open.spotify.com/artist/6550dJCDSrZ8Cv6IDAjHpf"
+        }
+      ],
+      "duration_ms": 202600,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/5BkEtAa7LHwm5qs2vLegX3"
     },
     {
       "added_at": "2026-08-21 14:00:21",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2026-08-21 14:00:21",
       "album": {
-        "name": "20th Century Masters: The Millennium Collection: Best Of Toots & The Maytals",
-        "url": "https://open.spotify.com/album/4LqckZIG3vtFVGIeY3Q5Yz"
-      },
-      "artists": [
-        {
-          "name": "Toots & The Maytals",
-          "url": "https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK"
-        }
-      ],
-      "duration_ms": 201266,
-      "name": "Take Me Home, Country Roads",
-      "url": "https://open.spotify.com/track/389R9arpxdfl0JA450Qn9m"
-    },
-    {
-      "added_at": "2026-08-21 14:00:21",
-      "album": {
         "name": "Party Girls (feat. Buju Banton)",
         "url": "https://open.spotify.com/album/0ixL0K67B2xkOjom88AdXQ"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 243094,
       "name": "Party Girls (feat. Buju Banton)",
       "url": "https://open.spotify.com/track/5h0uJbjD9QEvXwigegc5O5"
+    },
+    {
+      "added_at": "2026-08-21 14:00:21",
+      "album": {
+        "name": "20th Century Masters: The Millennium Collection: Best Of Toots & The Maytals",
+        "url": "https://open.spotify.com/album/4LqckZIG3vtFVGIeY3Q5Yz"
+      },
+      "artists": [
+        {
+          "name": "Toots & The Maytals",
+          "url": "https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK"
+        }
+      ],
+      "duration_ms": 201266,
+      "name": "Take Me Home, Country Roads",
+      "url": "https://open.spotify.com/track/389R9arpxdfl0JA450Qn9m"
     },
     {
       "added_at": "2026-08-21 14:00:21",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2026-08-21 14:00:21",
       "album": {
-        "name": "Butterflies",
-        "url": "https://open.spotify.com/album/0nMqTIKccDako5MXgaGD8i"
-      },
-      "artists": [
-        {
-          "name": "Buju Banton",
-          "url": "https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA"
-        }
-      ],
-      "duration_ms": 154503,
-      "name": "Butterflies",
-      "url": "https://open.spotify.com/track/6rJ4Wf8HZZNIukRXINmuv6"
-    },
-    {
-      "added_at": "2026-08-21 14:00:21",
-      "album": {
         "name": "In Our Sight",
         "url": "https://open.spotify.com/album/1cAS2LMD5lfjq4jxhprxb6"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 236813,
       "name": "In Our Sight",
       "url": "https://open.spotify.com/track/2Z6LKK4NITZealrsv6KROq"
+    },
+    {
+      "added_at": "2026-08-21 14:00:21",
+      "album": {
+        "name": "Butterflies",
+        "url": "https://open.spotify.com/album/0nMqTIKccDako5MXgaGD8i"
+      },
+      "artists": [
+        {
+          "name": "Buju Banton",
+          "url": "https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA"
+        }
+      ],
+      "duration_ms": 154503,
+      "name": "Butterflies",
+      "url": "https://open.spotify.com/track/6rJ4Wf8HZZNIukRXINmuv6"
     },
     {
       "added_at": "2026-08-21 14:00:21",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2026-08-21 14:00:21",
       "album": {
-        "name": "Dragonfly",
-        "url": "https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 257799,
-      "name": "Good Ol' Days (featuring Cedella Marley)",
-      "url": "https://open.spotify.com/track/28Q2F391hseaFE88B3jki4"
-    },
-    {
-      "added_at": "2026-08-21 14:00:21",
-      "album": {
         "name": "Slow Down (Remix) [feat. H.E.R. & Wale]",
         "url": "https://open.spotify.com/album/2HGRESjom1ev3i6XQfSszY"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 222068,
       "name": "Slow Down (Remix) [feat. H.E.R. & Wale]",
       "url": "https://open.spotify.com/track/3oMICOZz49EM5LT4Z330uo"
+    },
+    {
+      "added_at": "2026-08-21 14:00:21",
+      "album": {
+        "name": "Dragonfly",
+        "url": "https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 257799,
+      "name": "Good Ol' Days (featuring Cedella Marley)",
+      "url": "https://open.spotify.com/track/28Q2F391hseaFE88B3jki4"
     },
     {
       "added_at": "2026-08-21 14:00:21",
@@ -1655,26 +1655,6 @@
     {
       "added_at": "2026-08-21 14:00:21",
       "album": {
-        "name": "Pressure Drop",
-        "url": "https://open.spotify.com/album/4tndZMWvAQHLGll8cQ6Z7J"
-      },
-      "artists": [
-        {
-          "name": "The Kingston Lions",
-          "url": "https://open.spotify.com/artist/2qpNhfxg0P5LfaFZu3Fbuj"
-        },
-        {
-          "name": "MitchDiSinga",
-          "url": "https://open.spotify.com/artist/2JN43oD21CvXIH5OD0RqNp"
-        }
-      ],
-      "duration_ms": 185498,
-      "name": "Pressure Drop",
-      "url": "https://open.spotify.com/track/7gNIW0iH8pm2OeLnt5t50s"
-    },
-    {
-      "added_at": "2026-08-21 14:00:21",
-      "album": {
         "name": "Don't Show Off",
         "url": "https://open.spotify.com/album/7iQGwbsoke1zy9TXtXrWhm"
       },
@@ -1691,6 +1671,26 @@
       "duration_ms": 240309,
       "name": "Don't Show Off",
       "url": "https://open.spotify.com/track/6g1OFTxXHuWE1kJQ8qlXhH"
+    },
+    {
+      "added_at": "2026-08-21 14:00:21",
+      "album": {
+        "name": "Pressure Drop",
+        "url": "https://open.spotify.com/album/4tndZMWvAQHLGll8cQ6Z7J"
+      },
+      "artists": [
+        {
+          "name": "The Kingston Lions",
+          "url": "https://open.spotify.com/artist/2qpNhfxg0P5LfaFZu3Fbuj"
+        },
+        {
+          "name": "MitchDiSinga",
+          "url": "https://open.spotify.com/artist/2JN43oD21CvXIH5OD0RqNp"
+        }
+      ],
+      "duration_ms": 185498,
+      "name": "Pressure Drop",
+      "url": "https://open.spotify.com/track/7gNIW0iH8pm2OeLnt5t50s"
     },
     {
       "added_at": "2026-08-21 14:00:21",
@@ -1839,22 +1839,18 @@
     {
       "added_at": "2026-08-21 14:00:21",
       "album": {
-        "name": "Chant Down Babylon",
-        "url": "https://open.spotify.com/album/3P9TIaf3gZfBhIIUpAqbBD"
+        "name": "70's Pop",
+        "url": "https://open.spotify.com/album/24VKBqI1pzR94n26Ugpk6V"
       },
       "artists": [
         {
-          "name": "Bob Marley",
-          "url": "https://open.spotify.com/artist/6BH2lormtpjy3X9DyrGHVj"
-        },
-        {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+          "name": "10cc",
+          "url": "https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5"
         }
       ],
-      "duration_ms": 346302,
-      "name": "Turn Your Lights Down Low",
-      "url": "https://open.spotify.com/track/1ILZVxd4FCgURhwRRNKQ85"
+      "duration_ms": 267746,
+      "name": "Dreadlock Holiday",
+      "url": "https://open.spotify.com/track/5AW06u82yN9agtQlINqny5"
     },
     {
       "added_at": "2026-08-21 14:00:21",
@@ -1875,6 +1871,42 @@
       "duration_ms": 247133,
       "name": "Murder She Wrote (Original Mix)",
       "url": "https://open.spotify.com/track/0p4uJwIIGfN3tfTFvwALwB"
+    },
+    {
+      "added_at": "2026-08-21 14:00:21",
+      "album": {
+        "name": "Chant Down Babylon",
+        "url": "https://open.spotify.com/album/3P9TIaf3gZfBhIIUpAqbBD"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley",
+          "url": "https://open.spotify.com/artist/6BH2lormtpjy3X9DyrGHVj"
+        },
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        }
+      ],
+      "duration_ms": 346302,
+      "name": "Turn Your Lights Down Low",
+      "url": "https://open.spotify.com/track/1ILZVxd4FCgURhwRRNKQ85"
+    },
+    {
+      "added_at": "2026-08-21 14:00:21",
+      "album": {
+        "name": "The Harder They Come",
+        "url": "https://open.spotify.com/album/4UhiCJRMQrjZ1AQooan47K"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Cliff",
+          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
+        }
+      ],
+      "duration_ms": 158893,
+      "name": "You Can Get It If You Really Want",
+      "url": "https://open.spotify.com/track/2QKh6t4JnWeTnzQpkNXhzW"
     },
     {
       "added_at": "2026-08-21 14:00:21",
@@ -1911,22 +1943,6 @@
     {
       "added_at": "2026-08-21 14:00:21",
       "album": {
-        "name": "70's Pop",
-        "url": "https://open.spotify.com/album/24VKBqI1pzR94n26Ugpk6V"
-      },
-      "artists": [
-        {
-          "name": "10cc",
-          "url": "https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5"
-        }
-      ],
-      "duration_ms": 267746,
-      "name": "Dreadlock Holiday",
-      "url": "https://open.spotify.com/track/5AW06u82yN9agtQlINqny5"
-    },
-    {
-      "added_at": "2026-08-21 14:00:21",
-      "album": {
         "name": "Welcome to Jamrock",
         "url": "https://open.spotify.com/album/1jL9mDhM5cMAwJD9brYyW5"
       },
@@ -1939,22 +1955,6 @@
       "duration_ms": 213200,
       "name": "Welcome To Jamrock",
       "url": "https://open.spotify.com/track/2e5Vm6VvdlTzuNcRSikeU6"
-    },
-    {
-      "added_at": "2026-08-21 14:00:21",
-      "album": {
-        "name": "The Harder They Come",
-        "url": "https://open.spotify.com/album/4UhiCJRMQrjZ1AQooan47K"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Cliff",
-          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
-        }
-      ],
-      "duration_ms": 158893,
-      "name": "You Can Get It If You Really Want",
-      "url": "https://open.spotify.com/track/2QKh6t4JnWeTnzQpkNXhzW"
     }
   ],
   "unique_name": "One Love",

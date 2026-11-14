@@ -1,12 +1,12 @@
 {
   "description": "The hottest new pop with all the drops. Cover: Jazzy\n",
-  "num_followers": 462479,
+  "num_followers": 463141,
   "original_name": "New Dance Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAP6oZuFYWzNfTDEOBqErUrJcKVyJ",
+  "snapshot_id": "AAAAAJ/LY7FQCxcdgd32NANVcFkyK60R",
   "tracks": [
     {
       "added_at": "2026-10-23 19:56:26",
@@ -23,6 +23,50 @@
       "duration_ms": 209723,
       "name": "Peace & Patience",
       "url": "https://open.spotify.com/track/5fdyY4Pm6lbuMJ1pjT88gN"
+    },
+    {
+      "added_at": "2026-11-13 05:29:09",
+      "album": {
+        "name": "All I Need Is Somebody",
+        "url": "https://open.spotify.com/album/2YM4BEDJeuB6qJ67BClxGg"
+      },
+      "artists": [
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "name": "Max B",
+          "url": "https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9"
+        },
+        {
+          "name": "Jamie Foxx",
+          "url": "https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w"
+        }
+      ],
+      "duration_ms": 165338,
+      "name": "All I Need Is Somebody",
+      "url": "https://open.spotify.com/track/6FiKm0uMPClvM0Tb1s6Bt9"
+    },
+    {
+      "added_at": "2026-11-13 05:29:09",
+      "album": {
+        "name": "Keep On",
+        "url": "https://open.spotify.com/album/0pKY3pw8isHCSs2rZujmEc"
+      },
+      "artists": [
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        {
+          "name": "TIMID.",
+          "url": "https://open.spotify.com/artist/7ohUwQ36GNovdC1LFlhiQg"
+        }
+      ],
+      "duration_ms": 191025,
+      "name": "Keep On",
+      "url": "https://open.spotify.com/track/0q51UzsjGbXC33tKugzA1Q"
     },
     {
       "added_at": "2026-10-30 04:01:40",
@@ -1775,30 +1819,6 @@
     {
       "added_at": "2026-08-21 04:02:27",
       "album": {
-        "name": "Fade Into Nothing",
-        "url": "https://open.spotify.com/album/7HAyJCI8bHpvY9MxcXViRk"
-      },
-      "artists": [
-        {
-          "name": "it's murph",
-          "url": "https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC"
-        },
-        {
-          "name": "Arlo",
-          "url": "https://open.spotify.com/artist/2Ur1MpOU6IZEVyPvs2IBUW"
-        },
-        {
-          "name": "Lizzy Land",
-          "url": "https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux"
-        }
-      ],
-      "duration_ms": 209576,
-      "name": "Fade Into Nothing",
-      "url": "https://open.spotify.com/track/3PmAydfzjWQoLFpSQDYehP"
-    },
-    {
-      "added_at": "2026-08-21 04:02:27",
-      "album": {
         "name": "Don\u2019t Leave Me on the Dance Floor",
         "url": "https://open.spotify.com/album/2S2Jq28zIqLoil378gLtfI"
       },
@@ -1811,26 +1831,6 @@
       "duration_ms": 192520,
       "name": "Don\u2019t Leave Me on the Dance Floor",
       "url": "https://open.spotify.com/track/2CG3lX8ddjTEQL4kwBHkw3"
-    },
-    {
-      "added_at": "2026-08-21 04:02:27",
-      "album": {
-        "name": "SYW (feat. Cecile Believe)",
-        "url": "https://open.spotify.com/album/2pBYL0yevZTBhCRG1L4mk9"
-      },
-      "artists": [
-        {
-          "name": "Empress Of",
-          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
-        },
-        {
-          "name": "Cecile Believe",
-          "url": "https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU"
-        }
-      ],
-      "duration_ms": 166840,
-      "name": "SYW (feat. Cecile Believe)",
-      "url": "https://open.spotify.com/track/1EDkkMHuzz1Fx4Wxrcbt0V"
     },
     {
       "added_at": "2026-08-21 04:02:27",

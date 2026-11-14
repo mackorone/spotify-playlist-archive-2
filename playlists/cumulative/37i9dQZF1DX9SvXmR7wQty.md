@@ -4,7 +4,7 @@
 
 > Du neuf, du bon, du  <a href="https://open.spotify.com/genre/0JQ5DAqbMKFAH7OEQjCEex">franco</a> !  avec Arpin Lépine, Lost, Les Louanges, Katrine Sansregret, King Melrose, Souldia, Cupidon et plus!
 
-5,517 songs - 12 day 0 hr 17 min
+5,518 songs - 12 day 0 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,6 +219,7 @@
 | [Alpha](https://open.spotify.com/track/2nhP1Zj2GAgI4soDnv2QZT) | [Gvmou](https://open.spotify.com/artist/4Mqgicafn9MsPWA3xgdYig) | [Alpha](https://open.spotify.com/album/12RK143NLorY7kt7L5m6lq) | 2:29 | 2025-11-28 | 2026-01-15 |
 | [Alphonso Davies \- AD19](https://open.spotify.com/track/1q1vBpj72zGnQilD40XWls) | [T.K](https://open.spotify.com/artist/2oIv5lNNTIBLXRDV3eSzDp), [Striky](https://open.spotify.com/artist/2z9aSOsIU7HPmrtQRcRQx0), [Misa](https://open.spotify.com/artist/3KMRfMxNGZlob5zfIwwnMT), [Frank'emcy](https://open.spotify.com/artist/1U08mG4rKbGFB6kLMg1J0G) | [Rap buffet](https://open.spotify.com/album/4vH2DJ41I0fCBb2yYo9OJM) | 3:00 | 2022-05-13 | 2022-05-28 |
 | [Aléatoire](https://open.spotify.com/track/4WnPcLYxgBuJvDUnYKFC5K) | [Rmax](https://open.spotify.com/artist/1T3SPxUzMi2bt89Ux9A8U9), [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV) | [Back 2 Back](https://open.spotify.com/album/3wpjTc9qVKp3m9BOn9Pc0A) | 2:42 | 2022-03-11 | 2022-03-26 |
+| [AMA](https://open.spotify.com/track/1CoxL7VHuwSOK9zLDWX04n) | [Ultra Stellaire](https://open.spotify.com/artist/4424fsO0szH3eRd2CYcDiI), [AÏSSS](https://open.spotify.com/artist/4nlOI773uzutrPjm8IRoe4), [10.10](https://open.spotify.com/artist/2ENHtWWAdo7yayG5MOCxKX) | [AMA](https://open.spotify.com/album/4n4V2UU2hQf2ObphZsHdX0) | 2:17 | 2026-11-13 |  |
 | [Amadoue\-moi](https://open.spotify.com/track/4zhlPl0KsKqDdzCoXDaKjp) | [Simon Lachance](https://open.spotify.com/artist/63GdLJehnoZLOXOjw9ntim) | [Le chemin des pots cassés](https://open.spotify.com/album/0sR2WXnjNcLalUxXvwl4kW) | 2:30 | 2023-02-24 | 2023-03-11 |
 | [Amaro](https://open.spotify.com/track/1xDCZdai0FdCFXCB5pZXLL) | [Bibi Club](https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD) | [Amaro](https://open.spotify.com/album/3lkzJlZGyPUmLeirGwKuVR) | 3:08 | 2025-10-24 | 2025-11-15 |
 | [AMARU](https://open.spotify.com/track/5ymYY65E7II6wmpDlE8162) | [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2) | [Sea Dweller](https://open.spotify.com/album/2SHIDLpCnMQZSoD56EV6Ec) | 2:34 | 2022-05-27 | 2022-06-11 |

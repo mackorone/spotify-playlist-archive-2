@@ -1,12 +1,12 @@
 {
   "description": "This is Rise Against. The essential tracks, all in one playlist.",
-  "num_followers": 180072,
+  "num_followers": 180081,
   "original_name": "This Is Rise Against",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avOwAAAAAAD5eXnsDUrI+KmLNgvPOmVs",
+  "snapshot_id": "avUBgAAAAADmHmzbxbsOpfhsX/b8cXCn",
   "tracks": [
     {
       "added_at": null,
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
         }
       ],
-      "duration_ms": 181453,
-      "name": "The Good Left Undone",
-      "url": "https://open.spotify.com/track/7eWuwGCowJAlHAGiHuH8UI"
+      "duration_ms": 199213,
+      "name": "Injection",
+      "url": "https://open.spotify.com/track/75rAjnPV6h0RgSORx2dUPi"
     },
     {
       "added_at": null,
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
         }
       ],
-      "duration_ms": 199213,
-      "name": "Injection",
-      "url": "https://open.spotify.com/track/75rAjnPV6h0RgSORx2dUPi"
+      "duration_ms": 181453,
+      "name": "The Good Left Undone",
+      "url": "https://open.spotify.com/track/7eWuwGCowJAlHAGiHuH8UI"
     },
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nowhere Generation",
-        "url": "https://open.spotify.com/album/4t8eylrNR3Z5kYc7VEENLW"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 204160,
-      "name": "Talking To Ourselves",
-      "url": "https://open.spotify.com/track/6glcMk6zo6lPifFJOMueLw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Black Market",
         "url": "https://open.spotify.com/album/65jmbHYm42IEATHEJCbKgC"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 255960,
       "name": "The Black Market",
       "url": "https://open.spotify.com/track/5skwAU0N1ijXEJ5HFDphXP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nowhere Generation",
+        "url": "https://open.spotify.com/album/4t8eylrNR3Z5kYc7VEENLW"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 204160,
+      "name": "Talking To Ourselves",
+      "url": "https://open.spotify.com/track/6glcMk6zo6lPifFJOMueLw"
     },
     {
       "added_at": null,

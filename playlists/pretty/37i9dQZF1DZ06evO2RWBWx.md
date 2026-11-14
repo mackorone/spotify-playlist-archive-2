@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2RWBWx.md) - [plain]
 
 > This is imase\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,144 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,143 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2RWBWx.md) - [plain]
 | 10 | [NIGHT DANCER \- BIG Naughty Remix](https://open.spotify.com/track/2QS8VmtgJ40DBQbOfK4W9U) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [NIGHT DANCER \(BIG Naughty Remix\)](https://open.spotify.com/album/2UoG0NEAur16GFwAY1kZGu) | 3:30 |
 | 11 | [逃避行](https://open.spotify.com/track/05qprPlYZoqBvtVKmSAXHT) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [POP CUBE](https://open.spotify.com/album/3mlVZ7OTZgKJJAr275tHZX) | 3:12 |
 | 12 | [It's a Beautiful Life](https://open.spotify.com/track/6MDybif93uNBUDPlcSFl2E) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [はてな](https://open.spotify.com/album/0RzVcnkmiMuYDN0z1qsdvS) | 3:10 |
-| 13 | [風になれるはず](https://open.spotify.com/track/3zjOOTnR1kFcS1OYVDjhob) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [風になれるはず](https://open.spotify.com/album/7aZZDsYbHBvOuDXjxEB8QU) | 3:56 |
-| 14 | [アウトライン](https://open.spotify.com/track/1rrI0xYaXYTyWtgf5ZtGPg) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [アウトライン](https://open.spotify.com/album/1eYYfunGohknNjEJxwBsej) | 3:59 |
+| 13 | [アウトライン](https://open.spotify.com/track/1rrI0xYaXYTyWtgf5ZtGPg) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [アウトライン](https://open.spotify.com/album/1eYYfunGohknNjEJxwBsej) | 3:59 |
+| 14 | [風になれるはず](https://open.spotify.com/track/3zjOOTnR1kFcS1OYVDjhob) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [風になれるはず](https://open.spotify.com/album/7aZZDsYbHBvOuDXjxEB8QU) | 3:56 |
 | 15 | [でもね、たまには](https://open.spotify.com/track/6xxFBc6UtaHbAfHJ2SpfpV) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [POP CUBE](https://open.spotify.com/album/3mlVZ7OTZgKJJAr275tHZX) | 3:06 |
 | 16 | [名前のない日々](https://open.spotify.com/track/78rUMtPs1p2zFebeMcmCZB) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [名前のない日々](https://open.spotify.com/album/7hI2wmVbRhjWRRRGcjwyR1) | 4:14 |
 | 17 | [迷いは光](https://open.spotify.com/track/2p9RmLC4AiXPyst8gg6LTI) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [はてな](https://open.spotify.com/album/0RzVcnkmiMuYDN0z1qsdvS) | 3:54 |
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2RWBWx.md) - [plain]
 | 32 | [BONSAI](https://open.spotify.com/track/4gv9id0HvLVhaQWp4jtfH7) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [凡才](https://open.spotify.com/album/2wKpub8y8xRkPboyfBvsEM) | 2:08 |
 | 33 | [ココロウチュウ](https://open.spotify.com/track/0NEAt1CzccdplwulH7IvTu) | [ニャンちゅうオールスターズ](https://open.spotify.com/artist/4rHAi3k9q5g3pmlmM0JDEf), [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27), [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj) | [ココロウチュウ](https://open.spotify.com/album/1NWysueydKyRT3RoEgEjBb) | 3:16 |
 | 34 | [あべこべ](https://open.spotify.com/track/0q45T1ketsZRdCSwGOqgyW) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [POP CUBE](https://open.spotify.com/album/3mlVZ7OTZgKJJAr275tHZX) | 3:20 |
-| 35 | [boy \- feat\. asmi & imase](https://open.spotify.com/track/5ZpYanxEoJRJjfWJORq2Jf) | [KERENMI](https://open.spotify.com/artist/2vieV6ozoaMtYS6QsuScfn), [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza), [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [boy \(feat\. asmi & imase\)](https://open.spotify.com/album/3hAkBmRP4YFi2wappHJ4ps) | 3:14 |
-| 36 | [うたう](https://open.spotify.com/track/2Rvjw1HcE8rbxZmQludTCf) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [うたう](https://open.spotify.com/album/7Lj0NrOpaDin2lrIhHRRiu) | 3:07 |
-| 37 | [恋衣](https://open.spotify.com/track/3ky5XuA51Lz48YfCCcPsZg) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [恋衣](https://open.spotify.com/album/1jbhSPkyBeQwhNfTamimKu) | 3:32 |
+| 35 | [恋衣](https://open.spotify.com/track/3ky5XuA51Lz48YfCCcPsZg) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [恋衣](https://open.spotify.com/album/1jbhSPkyBeQwhNfTamimKu) | 3:32 |
+| 36 | [boy \- feat\. asmi & imase](https://open.spotify.com/track/5ZpYanxEoJRJjfWJORq2Jf) | [KERENMI](https://open.spotify.com/artist/2vieV6ozoaMtYS6QsuScfn), [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza), [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [boy \(feat\. asmi & imase\)](https://open.spotify.com/album/3hAkBmRP4YFi2wappHJ4ps) | 3:14 |
+| 37 | [うたう](https://open.spotify.com/track/2Rvjw1HcE8rbxZmQludTCf) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [うたう](https://open.spotify.com/album/7Lj0NrOpaDin2lrIhHRRiu) | 3:07 |
 | 38 | [18](https://open.spotify.com/track/20bxks5amfv7rVf8D6a1r7) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [18](https://open.spotify.com/album/4pyHUmAJzl9dZUvFwVzLe7) | 3:35 |
 | 39 | [渦](https://open.spotify.com/track/5J1xalv6l7lze1AvFeLstR) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [渦](https://open.spotify.com/album/7kYLEXVhvTilbDM67hrBub) | 3:09 |
 | 40 | [FRIENDS!!!](https://open.spotify.com/track/74w6Blyx8EeUHzCjJaynFx) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [FRIENDS!!!](https://open.spotify.com/album/2y6GPV0mKA4ARESWO4vTBc) | 3:52 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2RWBWx.md) - [plain]
 | 44 | [文通](https://open.spotify.com/track/7cZswqhGUHmoi7fsjstVQ7) | [Yumi Matsutoya](https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU), [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [Wormhole / Yumi AraI](https://open.spotify.com/album/2BJD3fJ7bkUkGlkH0H0Yuv) | 3:52 |
 | 45 | [一日花 feat.imase & 習志野高校吹奏楽部](https://open.spotify.com/track/1iclTsAT16fR9MkzBn59PZ) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27), [習志野高校吹奏楽部](https://open.spotify.com/artist/5xbDPS7E7ywnv4av18XEd6) | [一日花 feat.imase & 習志野高校吹奏楽部](https://open.spotify.com/album/0c4UljWfYwTkhDbrnlpcQG) | 4:46 |
 | 46 | [Shine Out](https://open.spotify.com/track/2FgLVjctguMwUcYURQUOYA) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [Shine Out](https://open.spotify.com/album/2rO5QkM3BmZw0NLbQe7LJB) | 3:30 |
-| 47 | [文通](https://open.spotify.com/track/1MhkgWuOIiwYaKbTnOgtBW) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27), [Yumi Matsutoya](https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU) | [文通](https://open.spotify.com/album/72AKPZX0qZbQGvulknFOpo) | 3:46 |
-| 48 | [LIT](https://open.spotify.com/track/3c4qpbU1K8l4ZJbpo15TNH) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [凡才](https://open.spotify.com/album/2wKpub8y8xRkPboyfBvsEM) | 2:50 |
+| 47 | [LIT](https://open.spotify.com/track/3c4qpbU1K8l4ZJbpo15TNH) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [凡才](https://open.spotify.com/album/2wKpub8y8xRkPboyfBvsEM) | 2:50 |
+| 48 | [文通](https://open.spotify.com/track/1MhkgWuOIiwYaKbTnOgtBW) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27), [Yumi Matsutoya](https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU) | [文通](https://open.spotify.com/album/72AKPZX0qZbQGvulknFOpo) | 3:46 |
 | 49 | [プリズム](https://open.spotify.com/track/3GIu1zfZLJVCLgSMSDnb7r) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [プリズム](https://open.spotify.com/album/2w0tnpsFPf0Ynq88etjSga) | 3:30 |
 | 50 | [ツナガルウチュウ！](https://open.spotify.com/track/2ZM2H6KsI5pFJaa9O6PT9P) | [ニャンちゅうオールスターズ](https://open.spotify.com/artist/4rHAi3k9q5g3pmlmM0JDEf), [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27), [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza) | [ツナガルウチュウ！](https://open.spotify.com/album/39TMwItqzO5ze6rmqGKPuz) | 2:40 |
 
-Snapshot ID: `avOwAAAAAABhW5LgktDpnMH5uH3EAxzP`
+Snapshot ID: `avUBgAAAAABL4FM5LFooTeWZI+QPLo2e`

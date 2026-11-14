@@ -4,7 +4,7 @@
 
 > Girls groups/solo artists shining beyond borders\. グローバルに活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Cover: UNCHILD
 
-1,864 songs - 4 day 1 hr 49 min
+1,867 songs - 4 day 1 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -292,7 +292,7 @@
 | [Changed Man](https://open.spotify.com/track/63iWifTpRd4odAeDsw8du5) | [J.Y\. Park](https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B) | [Changed Man](https://open.spotify.com/album/6jFqKZRGCD555oRRotQ0nK) | 3:09 | 2023-11-20 | 2023-12-15 |
 | [Chase](https://open.spotify.com/track/2BAlBVu2OLWEfFsd4Irqwt) | [MINHO](https://open.spotify.com/artist/08uRwDeNv1d7FSwlOUZdSn) | [CHASE \- The 1st Mini Album](https://open.spotify.com/album/0rhJHOLAXHJpkwYdiAb07S) | 3:26 | 2022-12-06 | 2023-02-03 |
 | [Chasing That Feeling](https://open.spotify.com/track/0ZPjVmof45INEERgYfadtv) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Name Chapter: FREEFALL](https://open.spotify.com/album/63fWdGyeBj8VDjvHSUROx3) | 3:02 | 2023-10-12 | 2024-04-27 |
-| [CHAT](https://open.spotify.com/track/1hNixpTJ3KtIQGYIdGWLoz) | [GIRLSET](https://open.spotify.com/artist/3D2TVeexyIXOtc8F4qEZ6P) | [CHAT](https://open.spotify.com/album/0PclhANYWtETZ53KYoEGo0) | 2:51 | 2026-07-21 |  |
+| [CHAT](https://open.spotify.com/track/1hNixpTJ3KtIQGYIdGWLoz) | [GIRLSET](https://open.spotify.com/artist/3D2TVeexyIXOtc8F4qEZ6P) | [CHAT](https://open.spotify.com/album/0PclhANYWtETZ53KYoEGo0) | 2:51 | 2026-07-21 | 2026-11-14 |
 | [ChecK](https://open.spotify.com/track/03OWSvT8tWcUSpUlke4buk) | [HYOLYN](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) | [OriginaLyn](https://open.spotify.com/album/6jV8UkMbnfG7vU9yKl3n60) | 2:38 | 2026-07-28 |  |
 | [Checkmate \(Prod\. Czaer\)](https://open.spotify.com/track/2CvP09dI7LvW1CMy2Lus76) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [STAGE FIGHTER\(STF\) Original, Vol\. 6](https://open.spotify.com/album/3Um5z06z6WnOLXq6XS79Tb) | 3:14 | 2024-11-29 | 2025-01-18 |
 | [Cheeky Icy Thang](https://open.spotify.com/track/3BhyxulZ13uWZS6LqiYiCj) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Metamorphic](https://open.spotify.com/album/6eTCq3XOz0rVJnelXro3Vk) | 2:30 | 2024-07-02 | 2024-08-21 |
@@ -829,6 +829,7 @@
 | [Killin′ Me Good](https://open.spotify.com/track/0YlS16W4HY6CJVk7Q750Yu) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL) | [ZONE](https://open.spotify.com/album/4g2dB5xOOVWWyYpaPn77pZ) | 3:05 | 2024-04-18 | 2024-06-20 |
 | [KING KONG](https://open.spotify.com/track/0gZenxCArrqlFm4lLXevTq) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [KING KONG](https://open.spotify.com/album/43R91w6pa9rmQVPVjcPFTT) | 3:16 | 2024-05-28 | 2024-07-24 |
 | [KING KONG \- JP Ver.](https://open.spotify.com/track/6Q96nfYOcmF1ORjAn9uIhW) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [KING KONG / REVERSE](https://open.spotify.com/album/6gncf79WtnIJNpWKtJRgUh) | 3:16 | 2024-08-20 | 2024-10-11 |
+| [KIRAKIRA](https://open.spotify.com/track/5QzseyIcpstE9FcxGdElb9) | [kiOra](https://open.spotify.com/artist/4KlNJ2885MAzt6tcpW7G4j) | [KIRAKIRA](https://open.spotify.com/album/0yYdlDXZCWm5W7KWJbRefv) | 2:52 | 2026-11-13 |  |
 | [KISS](https://open.spotify.com/track/7MONmJafc7senaIZE3ulWv) | [TRI.BE](https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a) | [LEVIOSA](https://open.spotify.com/album/6ORQnWLnQLERhWhA3ON2Z5) | 3:05 | 2022-08-09 | 2022-10-19 |
 | [Kiss me Baby](https://open.spotify.com/track/4j9oSggZykTGFCNqJ3PNRm) | [E'LAST](https://open.spotify.com/artist/0NztgA9b1KEJLjLVqMwd9y) | [iDENTIFICATION](https://open.spotify.com/album/0gnFa9WBs7N50tOtNMRi5Z) | 3:19 | 2023-10-17 | 2023-11-23 |
 | [KISS N TELL](https://open.spotify.com/track/3Fse9qXqMNey4TL5mLy8IF) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [KISS N TELL](https://open.spotify.com/album/5pwhf4kv2qX10i6k2uJsFp) | 2:46 | 2026-07-23 |  |
@@ -1404,7 +1405,7 @@
 | [Soap \(feat\. PinkPantheress\)](https://open.spotify.com/track/02gYTLDCIGVM9Y9r4vDb2a) | [Yves](https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Soft Error](https://open.spotify.com/album/1FKp8rzndJTPygzxV8rq98) | 2:27 | 2025-08-06 | 2026-04-18 |
 | [Social Path](https://open.spotify.com/track/0fkL0fOhEzRK8WFe2ixt2d) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE), [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [Social Path](https://open.spotify.com/album/69mwX2uyO8FKCc8KkRMHw7) | 3:18 | 2023-08-29 | 2024-04-27 |
 | [Solitary](https://open.spotify.com/track/1HlZyNtc0IhqsoIeu0ExKE) | [KRYSTAL](https://open.spotify.com/artist/253YRxmnmB0BcRhFtj1tBI) | [Solitary](https://open.spotify.com/album/6332xxEEpdU7af0Cxv31YQ) | 2:18 | 2025-11-27 | 2026-05-16 |
-| [Someone to Hold \(from the Netflix Film "Steps"\)](https://open.spotify.com/track/41GdHxKlxBzXZde4io6tbz) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Someone to Hold \(from the Netflix Film "Steps"\)](https://open.spotify.com/album/6vPqty50dtT0gZeB1oEUfX) | 3:32 | 2026-11-06 |  |
+| [Someone to Hold \(from the Netflix Film "Steps"\)](https://open.spotify.com/track/41GdHxKlxBzXZde4io6tbz) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Someone to Hold \(from the Netflix Film "Steps"\)](https://open.spotify.com/album/6vPqty50dtT0gZeB1oEUfX) | 3:32 | 2026-11-06 | 2026-11-14 |
 | [SOMETHING AIN'T RIGHT](https://open.spotify.com/track/3RxL9p66oXKuSdXYeFcJeT) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [AWE](https://open.spotify.com/album/1eS784kXLyL0YpDz5E7AuV) | 3:10 | 2025-03-06 | 2025-04-12 |
 | [SOMETHING AIN'T RIGHT](https://open.spotify.com/track/4xzrnTQ0CVRj6LBisVyTum) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [SOMETHING AIN'T RIGHT](https://open.spotify.com/album/1reE28qY4WnZLHJ6gTh5Rh) | 3:10 | 2024-07-25 | 2024-10-11 |
 | [Songbird \- Japanese Ver.](https://open.spotify.com/track/3SCRXReEFR5yhw5jnMA0zE) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [Songbird](https://open.spotify.com/album/19BPGMIrtPZlPx4LMLQmb2) | 3:01 | 2024-06-25 | 2024-07-31 |
@@ -1442,7 +1443,7 @@
 | [Starstruck](https://open.spotify.com/track/1w9BOhEgghk4gcbsFT1Meh) | [IS:SUE](https://open.spotify.com/artist/4lhRqhIMRnKrmZkEAlxkCw) | [EXTREME DIAMOND](https://open.spotify.com/album/3Auh0B0oqJaWAllf8OrztY) | 2:42 | 2025-05-19 | 2025-07-16 |
 | [STATIC](https://open.spotify.com/track/7AB3Zg6ouelZtUpWjtZYRv) | [IS:SUE](https://open.spotify.com/artist/4lhRqhIMRnKrmZkEAlxkCw) | [1st IS:SUE](https://open.spotify.com/album/1mquhoCsn34ti8aQjbMlgS) | 3:08 | 2024-06-19 | 2024-08-16 |
 | [Stay](https://open.spotify.com/track/1osAGR6bvsjgHjRp3XacCW) | [MATZ](https://open.spotify.com/artist/55vjGKmlvpOxuYjwGjBKrD), [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [Stay](https://open.spotify.com/album/5HvtKqkHmrQITKvap0leZ4) | 3:11 | 2022-07-26 | 2022-09-21 |
-| [Stay](https://open.spotify.com/track/11pFJwiCvHfVy38GXl1V2P) | [YUQI](https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6) | [二十七 \(27\)](https://open.spotify.com/album/4QdhWNtQ3ZXtRbHt5ouSz4) | 3:33 | 2026-10-13 |  |
+| [Stay](https://open.spotify.com/track/11pFJwiCvHfVy38GXl1V2P) | [YUQI](https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6) | [二十七 \(27\)](https://open.spotify.com/album/4QdhWNtQ3ZXtRbHt5ouSz4) | 3:33 | 2026-10-13 | 2026-11-14 |
 | [Stay Alive](https://open.spotify.com/track/7tFMIW3L1j45svSqonbIDo) | [cosmosy](https://open.spotify.com/artist/2tWtaN38sQRfSWij1d43tn) | [Stay Alive](https://open.spotify.com/album/6YOXc6K1ewXTNNI6hKJnh8) | 3:12 | 2026-07-23 | 2026-09-30 |
 | [Stay Alive \(Prod\. SUGA of BTS\)](https://open.spotify.com/track/7CAdT0HdiQNlt1C7xk2hep) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [Stay Alive \(Prod\. SUGA of BTS\)](https://open.spotify.com/album/6nvSZLAsbg56fGSCVm8fL9) | 3:30 | 2022-02-11 | 2022-05-18 |
 | [Stay This Way](https://open.spotify.com/track/3pqgVtpnQbBAZoWT4AEm1B) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [from our Memento Box](https://open.spotify.com/album/5HpgQwHm9jI5JcnmJqcCYo) | 3:15 | 2022-06-28 | 2022-09-07 |
@@ -1637,6 +1638,7 @@
 | [UFO \(ATTENT!ON\)](https://open.spotify.com/track/0u5b93C2mDGVfCsMGCdH6T) | [SAY MY NAME](https://open.spotify.com/artist/1YPfjEiECyLURKu09GfilS) | [&Our Vibe](https://open.spotify.com/album/52f4wYBg1SDSaMMwZ5u3OF) | 2:39 | 2026-04-28 | 2026-09-16 |
 | [UGLY](https://open.spotify.com/track/3p5SJW1Jb4EvSEXrpShQzm) | [EVNNE](https://open.spotify.com/artist/6SYJFHPxXkr4SZJR8aLEml) | [Un: SEEN](https://open.spotify.com/album/6lPOFQarc48hDHdFYcVdzQ) | 3:21 | 2024-01-23 | 2024-03-28 |
 | [Umbrella](https://open.spotify.com/track/4p25h8uVkSoSsq5Vl5NeJ3) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [Umbrella](https://open.spotify.com/album/6m3fEmldriKRNaxcCooP7T) | 3:38 | 2022-08-09 | 2022-10-01 |
+| [Unbelievable](https://open.spotify.com/track/3mQvDIywvnoxpR7Ku4vKDa) | [H1\-KEY](https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU) | [Unbelievable](https://open.spotify.com/album/5hC8iswgGrujXveWMoD9rj) | 2:15 | 2026-11-13 |  |
 | [UNCHILD](https://open.spotify.com/track/4wElGORjS56XtTvOJTPHVb) | [UNCHILD](https://open.spotify.com/artist/6TKweJiG4KC62YFs5KKUqu) | [We Are UNCHILD](https://open.spotify.com/album/4NVBboBjuyeBp0qIojiDbP) | 2:28 | 2026-04-21 | 2026-11-06 |
 | [Unconditional](https://open.spotify.com/track/4j0W96NZvBFqwIyhCb9uGX) | [JAEHYUN](https://open.spotify.com/artist/0qQI2kmsvSe2ex9k94T5vu) | [Unconditional](https://open.spotify.com/album/4Q6W1RKslZCLWZPmagDEy9) | 3:04 | 2024-10-24 | 2024-12-25 |
 | [UNDEFEATED](https://open.spotify.com/track/0NrObqc8nK1XcDNPJNBKRV) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA), [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t) | [UNDEFEATED](https://open.spotify.com/album/7kHjcTey5ZAewZLWtuCqzK) | 2:53 | 2024-04-12 | 2024-07-10 |
@@ -1788,6 +1790,7 @@
 | [You Light Up My Life](https://open.spotify.com/track/5l1iyZe8GGrea4jUV2wCrp) | [Gyubin](https://open.spotify.com/artist/7nScMbyBG94XsSpe7yrImS) | [You Light Up My Life](https://open.spotify.com/album/3DV7tI90A2gPUgkBidcowK) | 3:27 | 2026-06-12 | 2026-08-21 |
 | [You Problem](https://open.spotify.com/track/2rCPeuzBY9NEX9VNshkjmH) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [The Dreaming](https://open.spotify.com/album/1pctMC2cumYE0wskONKlJm) | 3:19 | 2021-12-23 | 2022-03-02 |
 | [YOU+ME=7942](https://open.spotify.com/track/5E2aYgi77oSMJ5dGzAbLpc) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [TWS 2nd Mini Album 'SUMMER BEAT!'](https://open.spotify.com/album/03QRqvvQFLDaJM711Gkn03) | 2:22 | 2024-06-28 | 2024-08-21 |
+| [young & dumb](https://open.spotify.com/track/3LAsfRkeWzKUmVQT1wElPr) | [GIRLSET](https://open.spotify.com/artist/3D2TVeexyIXOtc8F4qEZ6P) | [young & dumb](https://open.spotify.com/album/4NYe4gTTihWZ0jBTKJkg37) | 2:50 | 2026-11-13 |  |
 | [Young, Dumb, Stupid](https://open.spotify.com/track/09BWOhiJUaYufcOiKCA973) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Young, Dumb, Stupid](https://open.spotify.com/album/4OEXCY70MiuMJaenbxxRb2) | 3:10 | 2023-06-06 | 2023-08-01 |
 | [Young, Dumb, Stupid](https://open.spotify.com/track/2s2PGt2yeQly8auhPuHGIn) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Young, Dumb, Stupid](https://open.spotify.com/album/5JdSdoglRlxgJDWiprRtY0) | 3:10 | 2023-03-13 | 2023-06-08 |
 | [Your Eyes](https://open.spotify.com/track/25nbyqD4oqWU0RaXuAc74t) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Your Eyes](https://open.spotify.com/album/6bzE9nsQ1rXWUCsRQ18toq) | 3:16 | 2022-05-31 | 2022-08-20 |

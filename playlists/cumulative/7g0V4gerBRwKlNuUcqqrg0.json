@@ -521,6 +521,24 @@
     },
     {
       "album": {
+        "name": "Boys",
+        "url": "https://open.spotify.com/album/4k0kJvdKs7WzyVkbItks8C"
+      },
+      "artists": [
+        {
+          "name": "Josua Peter",
+          "url": "https://open.spotify.com/artist/1cOAQlxoO4hLqaCHeJEDFt"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191376,
+      "name": "Boys",
+      "url": "https://open.spotify.com/track/2yhJUgl9HczS3gLAYStMbt"
+    },
+    {
+      "album": {
         "name": "bridesmaid",
         "url": "https://open.spotify.com/album/26KBwbUyMsbzjiAXyrOKP8"
       },
@@ -678,7 +696,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 254969,
       "name": "Can\u00e7\u00e3o Pra Dois",
       "url": "https://open.spotify.com/track/0RVRvmYO2IBv96Y9Qf3JrC"
@@ -1685,6 +1703,28 @@
     },
     {
       "album": {
+        "name": "Here Then We're Gone",
+        "url": "https://open.spotify.com/album/2U94N59iUPCBcaeFFPO1e6"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        },
+        {
+          "name": "The Hunger Games",
+          "url": "https://open.spotify.com/artist/6UdECsev3yuXe2rfLrdDiF"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246054,
+      "name": "Here Then We're Gone - From The Hunger Games: Sunrise on the Reaping - The Album",
+      "url": "https://open.spotify.com/track/6xNzyD86vjr7FFaW7uk83G"
+    },
+    {
+      "album": {
         "name": "Hit the Wall",
         "url": "https://open.spotify.com/album/1jvG5wNg83Bm7ykfjwPHbZ"
       },
@@ -2276,7 +2316,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 193066,
       "name": "MISS ME",
       "url": "https://open.spotify.com/track/6btmjh1p327BMAJAczq9Lf"
@@ -2432,6 +2472,24 @@
       "duration_ms": 238930,
       "name": "My Life Story Of Love",
       "url": "https://open.spotify.com/track/3fcek9ONujbKm7piCwDBMN"
+    },
+    {
+      "album": {
+        "name": "my way",
+        "url": "https://open.spotify.com/album/5pjEx3WX4Oncc6slRwBIbc"
+      },
+      "artists": [
+        {
+          "name": "Sparklmami",
+          "url": "https://open.spotify.com/artist/50NGgQQCV0QLrOefzyuNh0"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160717,
+      "name": "my way",
+      "url": "https://open.spotify.com/track/5Vjs0P53pvEEgW2UZrPPB3"
     },
     {
       "album": {
@@ -3825,6 +3883,28 @@
     },
     {
       "album": {
+        "name": "Torn (feat. Dolly Parton)",
+        "url": "https://open.spotify.com/album/1L5AoeTTV260aoOotq9btW"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270285,
+      "name": "Torn (feat. Dolly Parton)",
+      "url": "https://open.spotify.com/track/1fAgQxNa31NtikQz7L91Rr"
+    },
+    {
+      "album": {
         "name": "Toveren",
         "url": "https://open.spotify.com/album/3Rsdgs47XvTFYO5hS86J5Z"
       },
@@ -4396,7 +4476,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 279163,
       "name": "Zomaar Zomer Zondag",
       "url": "https://open.spotify.com/track/2a3t3e0byyQBziC5UsABzi"

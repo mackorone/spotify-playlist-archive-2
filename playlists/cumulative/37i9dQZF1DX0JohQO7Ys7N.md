@@ -2,9 +2,9 @@
 
 ### [NairoBae](https://open.spotify.com/playlist/37i9dQZF1DX0JohQO7Ys7N)
 
-> Kickback, Relax to some smooth R&B from Nairobi \-The city under the Sun\. Cover: Kethan, Kinoti & Ochiko
+> Kickback, Relax to some smooth R&B from Nairobi \-The city under the Sun\. Cover: Xenia Manasseh
 
-385 songs - 21 hr 43 min
+387 songs - 21 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Beg For It](https://open.spotify.com/track/46QXFPj4a8Pc0bgTHJKw0i) | [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [Four Letter Word \(Deluxe\)](https://open.spotify.com/album/2q6wjA7JZIKvEAFRzmhBuW) | 2:53 | 2026-07-22 | 2026-07-31 |
 | [Beg For It](https://open.spotify.com/track/62toM9v7NsspHYCfaudxHZ) | [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [Beg For It](https://open.spotify.com/album/1BinKRne8TTTTp8PHojN8l) | 2:53 | 2025-01-17 |  |
 | [Beta](https://open.spotify.com/track/7xO9Xzb6UqP2bFmCUYTAI2) | [Mutoriah](https://open.spotify.com/artist/23fYD3tClohzF1Afng7tPJ) | [Beta](https://open.spotify.com/album/4gsFVC2N6mrMo5Q5lmBHIz) | 3:13 | 2025-02-13 | 2025-02-21 |
+| [Bitter Sweet](https://open.spotify.com/track/1qDz5NiUD1smerTp0bg6hA) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86), [Maali](https://open.spotify.com/artist/0Bw2d3PrLLqnor0Y9tt9vk), [Hendrick Sam](https://open.spotify.com/artist/3JCq2a0rntSwS9gtnhfNO9) | [NBO ‘X’ PRESS](https://open.spotify.com/album/6czwEju8FIEBB8PMMuzpl8) | 3:48 | 2026-11-13 |  |
 | [Bloom](https://open.spotify.com/track/4sDQhJISnGJtydLmhrHMEy) | [TY1NE](https://open.spotify.com/artist/4Cc5wSjyKdtkmQjuBLAo5B), [Bosire](https://open.spotify.com/artist/3RZuOCEI4xdVG81shJPVG9) | [Bloom](https://open.spotify.com/album/3zWISwsDNQcI3mDojttm6H) | 3:40 | 2025-02-13 | 2025-02-21 |
 | [Built for You](https://open.spotify.com/track/46TDKUYWxWeDrbWWsntEu6) | [Wanja Wohoro](https://open.spotify.com/artist/6x42DjzrK28UZZzKsKGvVE) | [Built for You](https://open.spotify.com/album/3RV5Ev9KtvyEzkhzJb3OIT) | 3:35 | 2021-12-28 | 2022-09-09 |
 | [Buy Me Love](https://open.spotify.com/track/0HtzaW1nXWHygysm2ZNAnW) | [STACY KAMATU](https://open.spotify.com/artist/6l0EZy2duhAIJ97BaqRb6Y) | [Buy Me Love](https://open.spotify.com/album/3ONBzZLFS0hXpV4EsD5U7H) | 3:22 | 2024-05-10 | 2026-02-27 |
@@ -197,6 +198,7 @@
 | [Loving](https://open.spotify.com/track/0Abd1XZ93bQlvYWuF2lINl) | [Dj Mura K.E](https://open.spotify.com/artist/2QQDQ1r4skfMjgwSA1C3kP), [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [Múrastar Vol\. 2](https://open.spotify.com/album/16ekfixG0xvVi5dhopbx0L) | 5:44 | 2025-02-13 | 2025-02-21 |
 | [Lowkey](https://open.spotify.com/track/5vftqVHNTFUEYTpqszZi5e) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Lowkey](https://open.spotify.com/album/5SgR3uwNfIzqRhULqPQAAr) | 2:50 | 2021-12-28 | 2022-06-17 |
 | [Maisha](https://open.spotify.com/track/5ZkpQo8ETp8Vei3eiv3oM7) | [Mike Mungu](https://open.spotify.com/artist/0dFrQZdLlx53kCCQ9ITBm4), [Andyah](https://open.spotify.com/artist/0TEFK09eFLqYTE2fj7xUtX) | [Maisha](https://open.spotify.com/album/65o3bGR1inlQ6qqSQqu3c2) | 3:16 | 2024-09-26 | 2024-11-08 |
+| [Majaliwa](https://open.spotify.com/track/2remaXfInGXbHcT9LhogaY) | [Enoque Wambua](https://open.spotify.com/artist/0T33GNzEO7oaF3HHWrBbF9) | [Majaliwa](https://open.spotify.com/album/1X0KPBJwtLlACmIUyT6lCd) | 3:23 | 2026-11-13 |  |
 | [Malaika](https://open.spotify.com/track/73HnH8p7dahNXGFIaDoMTz) | [Kahuti](https://open.spotify.com/artist/38bmHQVnxfWk7eEez4dYJg) | [Malaika](https://open.spotify.com/album/1s8CbG03GlsaUCWHKzjHds) | 3:10 | 2026-08-28 |  |
 | [Malaika](https://open.spotify.com/track/1JxCzcKgdKeGITvisTRzLh) | [Nyashinski](https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6) | [Malaika](https://open.spotify.com/album/7rSVI8tFIwuSbwmTkO3x8N) | 3:39 | 2026-07-15 | 2026-07-31 |
 | [Malaika](https://open.spotify.com/track/5J4SDAQfgnAE90ErS4dO4u) | [Nyashinski](https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6) | [Malaika](https://open.spotify.com/album/4jmj60YuyEMwANIOck2jFV) | 3:42 | 2021-12-28 | 2022-07-15 |
@@ -242,7 +244,7 @@
 | [Nimetii](https://open.spotify.com/track/2lyMgRJfJ26k4ib4exYO10) | [KALI](https://open.spotify.com/artist/5uzHXxPGMAnDqKnBLLO0AI), [Nviiri The Storyteller](https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p) | [Nimetii](https://open.spotify.com/album/1KvLQ3dEjgP89oIbZfp4bx) | 2:55 | 2021-12-28 | 2026-07-24 |
 | [Nimetii](https://open.spotify.com/track/6FrFrkBIvOW6nZo6pheljP) | [KALI](https://open.spotify.com/artist/5uzHXxPGMAnDqKnBLLO0AI), [Nviiri The Storyteller](https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p) | [Nimetii](https://open.spotify.com/album/2abzq9AqCgqpDB8YPh557R) | 2:55 | 2021-12-28 | 2023-07-28 |
 | [Ningelijua](https://open.spotify.com/track/7oJ6TkhB5VZyBUFmtBy9p2) | [J blessing](https://open.spotify.com/artist/63aaHMQvSM2mORk2LWPLdr), [Bridget Blue](https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw) | [Ningelijua](https://open.spotify.com/album/7cKE7KRDy0vnhaaCap630H) | 3:57 | 2025-12-11 | 2026-05-08 |
-| [Nipe Nafasi](https://open.spotify.com/track/4SJmdLCNCosA57w2ebCoBo) | [Joy Njokey](https://open.spotify.com/artist/3x7LsqjnxJg6m2hjarASBF) | [Take Two: Grey](https://open.spotify.com/album/51PKSPJAK8O2X853o2t9nP) | 4:34 | 2026-02-05 |  |
+| [Nipe Nafasi](https://open.spotify.com/track/4SJmdLCNCosA57w2ebCoBo) | [Joy Njokey](https://open.spotify.com/artist/3x7LsqjnxJg6m2hjarASBF) | [Take Two: Grey](https://open.spotify.com/album/51PKSPJAK8O2X853o2t9nP) | 4:34 | 2026-02-05 | 2026-11-14 |
 | [Nipende](https://open.spotify.com/track/1E7zvR5rjAQ8iXUzusdjZl) | [Zaituni](https://open.spotify.com/artist/3HDy7kXvN8bcez9yh6wu3R) | [Labor Of Love](https://open.spotify.com/album/3qpsd3313heP97lFUi5klk) | 5:15 | 2026-07-25 | 2026-07-27 |
 | [Nipende](https://open.spotify.com/track/6DgMQzle107AN4oBX5Uhcz) | [Zaituni](https://open.spotify.com/artist/3HDy7kXvN8bcez9yh6wu3R) | [Nipende](https://open.spotify.com/album/06DbgiBmUM7eSQiAk2cx55) | 5:15 | 2023-11-30 | 2026-07-31 |
 | [NIRVANA LOVE](https://open.spotify.com/track/5pppSeKzMPgA7EvdmK50XA) | [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520), [Darklorde](https://open.spotify.com/artist/2Bv5o0cYa1CQKrf2E72omo), [Mbithi](https://open.spotify.com/artist/3M8x29mEaZklQcMDwHMgKH) | [NIRVANA LOVE](https://open.spotify.com/album/7ijkHEy1BOqjt7i0jBFjiG) | 3:21 | 2024-03-22 | 2025-08-15 |
@@ -330,7 +332,7 @@
 | [Sunset](https://open.spotify.com/track/54EH4aks1rG4WL8HiG3szm) | [Okello Max](https://open.spotify.com/artist/4AIr4Ly0nJMjtcRg46naSp) | [Cuffed in Love](https://open.spotify.com/album/2VTrwsi53HGL2yYsEYTMgH) | 3:23 | 2025-02-13 | 2025-02-21 |
 | [Sunshine](https://open.spotify.com/track/47jeYgNLyaN1pBLQrVE6x0) | [Muthaka](https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ) | [Sunshine](https://open.spotify.com/album/3abCYOOplfgQSvt5vrOF29) | 3:28 | 2021-12-28 | 2025-02-21 |
 | [Sunshine State of Mind](https://open.spotify.com/track/2er73rABGL9TYoAkhyupMk) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Lia April](https://open.spotify.com/artist/4zduBC59YxJ3rRjz2E9x6F) | [Sunshine State of Mind](https://open.spotify.com/album/7oENnLSMaD5MLj1TG4bJh3) | 3:16 | 2023-05-18 | 2023-07-08 |
-| [Sweetest Time](https://open.spotify.com/track/2p0Gy479pqaL7GToLiLDhW) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H), [Ywaya Tajiri](https://open.spotify.com/artist/6wf9RfrBquBd6Galoe5oQE) | [Sweetest Time](https://open.spotify.com/album/1hsqYq7l4qAkEUEbzl1qtW) | 2:34 | 2025-03-28 |  |
+| [Sweetest Time](https://open.spotify.com/track/2p0Gy479pqaL7GToLiLDhW) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H), [Ywaya Tajiri](https://open.spotify.com/artist/6wf9RfrBquBd6Galoe5oQE) | [Sweetest Time](https://open.spotify.com/album/1hsqYq7l4qAkEUEbzl1qtW) | 2:34 | 2025-03-28 | 2026-11-14 |
 | [Sweetest Time](https://open.spotify.com/track/5EKT11l4kApfRagifREq5M) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H), [Ywaya Tajiri](https://open.spotify.com/artist/6wf9RfrBquBd6Galoe5oQE) | [The Sweetest Time](https://open.spotify.com/album/0kHP5lmMGgaPNS4tI8mwxX) | 2:34 | 2026-07-15 | 2026-07-31 |
 | [Swim](https://open.spotify.com/track/0IgoWhyc7cNawpafMJpQ0u) | [STACY KAMATU](https://open.spotify.com/artist/6l0EZy2duhAIJ97BaqRb6Y) | [Swim](https://open.spotify.com/album/4y4ziiOeTnCtd8ysaJ6ABH) | 5:35 | 2025-01-09 | 2026-04-03 |
 | [Switch It Up](https://open.spotify.com/track/4SWMtMtaLoC2jpi5NWHr0y) | [Antoneosoul](https://open.spotify.com/artist/7fsXIEztGNSh4QUaP9mp4T) | [Welcome 2 My Soul](https://open.spotify.com/album/4wVpKqI9vE8ce64g1lCukJ) | 4:32 | 2022-06-16 | 2023-02-24 |

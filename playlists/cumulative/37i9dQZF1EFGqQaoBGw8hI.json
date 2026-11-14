@@ -347,6 +347,24 @@
     },
     {
       "album": {
+        "name": "La Disco & Sus Instrumentales",
+        "url": "https://open.spotify.com/album/1EqVh5Q8n60ODScI5F9DE5"
+      },
+      "artists": [
+        {
+          "name": "Imagining Sound Orchestra",
+          "url": "https://open.spotify.com/artist/6bXdwJmjTfOZmcMxFBQlHL"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195813,
+      "name": "Adios Calles De Ladrillo",
+      "url": "https://open.spotify.com/track/6IYxsx92j4cU0msabRmge3"
+    },
+    {
+      "album": {
         "name": "Harmonious: Globally Inspired Music from the EPCOT Nighttime Spectacular (Original Soundtrack)",
         "url": "https://open.spotify.com/album/6EL24CvOJteuYgnNG7xuJs"
       },
@@ -1402,7 +1420,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-11",
+      "date_removed": null,
       "duration_ms": 206266,
       "name": "Blue Eyes - Remastered 2003",
       "url": "https://open.spotify.com/track/4PFhHd7DsNg0ke9Nmlxms5"
@@ -1808,10 +1826,28 @@
       ],
       "date_added": "2026-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 250750,
       "name": "Cage The Songbird",
       "url": "https://open.spotify.com/track/0rAuGlPPw2Y8sDKW1dXqdH"
+    },
+    {
+      "album": {
+        "name": "Cage the Songbird",
+        "url": "https://open.spotify.com/album/7dXUUgn6jfG7ouXiFwBJf4"
+      },
+      "artists": [
+        {
+          "name": "Crystal Gayle",
+          "url": "https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250750,
+      "name": "Cage The Songbird",
+      "url": "https://open.spotify.com/track/7C2a02VhI2I2DJmlAEfyEL"
     },
     {
       "album": {
@@ -8550,7 +8586,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-13",
+      "date_removed": null,
       "duration_ms": 343240,
       "name": "Nikita",
       "url": "https://open.spotify.com/track/3G0ENKW9vzV0SuYKaWFflI"

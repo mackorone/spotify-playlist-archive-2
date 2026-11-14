@@ -1,6 +1,6 @@
 {
   "description": "Cozy Christmas jazz tunes for your shopping, wrapping, cooking, studying or relaxing.",
-  "num_followers": 39234,
+  "num_followers": 39285,
   "original_name": "Jazzy Christmas Chill\ud83c\udf84\u2728",
   "owner": {
     "name": "Spotify",
@@ -139,22 +139,6 @@
     {
       "added_at": "2026-11-06 15:56:35",
       "album": {
-        "name": "When Christmas Comes To Town",
-        "url": "https://open.spotify.com/album/3qGQQNK6A22LBRUmiO74fO"
-      },
-      "artists": [
-        {
-          "name": "Taylor Owen Trio",
-          "url": "https://open.spotify.com/artist/5pCUMgtJ7hUMrCDeYm96Ca"
-        }
-      ],
-      "duration_ms": 209259,
-      "name": "When Christmas Comes To Town",
-      "url": "https://open.spotify.com/track/5Z3ieIAxQzR7pMx8p9QLfV"
-    },
-    {
-      "added_at": "2026-11-06 15:56:35",
-      "album": {
         "name": "Here Comes Santa Claus",
         "url": "https://open.spotify.com/album/6ENVnAPjnAitIUGlyS72Jj"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 140124,
       "name": "Here Comes Santa Claus",
       "url": "https://open.spotify.com/track/5J47ZMg53bfHMH1xChF7Go"
+    },
+    {
+      "added_at": "2026-11-06 15:56:35",
+      "album": {
+        "name": "When Christmas Comes To Town",
+        "url": "https://open.spotify.com/album/3qGQQNK6A22LBRUmiO74fO"
+      },
+      "artists": [
+        {
+          "name": "Taylor Owen Trio",
+          "url": "https://open.spotify.com/artist/5pCUMgtJ7hUMrCDeYm96Ca"
+        }
+      ],
+      "duration_ms": 209259,
+      "name": "When Christmas Comes To Town",
+      "url": "https://open.spotify.com/track/5Z3ieIAxQzR7pMx8p9QLfV"
     },
     {
       "added_at": "2026-11-06 15:56:35",
@@ -235,22 +235,6 @@
     {
       "added_at": "2026-11-06 15:56:35",
       "album": {
-        "name": "Happy Christmas, Little Friend",
-        "url": "https://open.spotify.com/album/66xxXSW7xjV4bLQwj3FXtF"
-      },
-      "artists": [
-        {
-          "name": "Smoke & Mirrors Trio",
-          "url": "https://open.spotify.com/artist/2l8hGNs8QG9fAf8baaZPhV"
-        }
-      ],
-      "duration_ms": 151999,
-      "name": "Happy Christmas, Little Friend",
-      "url": "https://open.spotify.com/track/4k9rdBjThAkWE6dkGRT3a2"
-    },
-    {
-      "added_at": "2026-11-06 15:56:35",
-      "album": {
         "name": "Christmas Kiss",
         "url": "https://open.spotify.com/album/1ZGCxC05Xyfe9PW1ZQkEPc"
       },
@@ -267,82 +251,18 @@
     {
       "added_at": "2026-11-06 15:56:35",
       "album": {
-        "name": "Please come home for christmas",
-        "url": "https://open.spotify.com/album/5r2ZzaDZhyqzORtTWnbYPM"
+        "name": "Happy Christmas, Little Friend",
+        "url": "https://open.spotify.com/album/66xxXSW7xjV4bLQwj3FXtF"
       },
       "artists": [
         {
-          "name": "Jeff Laine & Co",
-          "url": "https://open.spotify.com/artist/4i2Ps9G6SHd16reEGA5xva"
+          "name": "Smoke & Mirrors Trio",
+          "url": "https://open.spotify.com/artist/2l8hGNs8QG9fAf8baaZPhV"
         }
       ],
-      "duration_ms": 153892,
-      "name": "Please come home for christmas",
-      "url": "https://open.spotify.com/track/4CjsInvWGmHOxxVQ2sS9F4"
-    },
-    {
-      "added_at": "2026-11-06 15:56:35",
-      "album": {
-        "name": "Silver Bells",
-        "url": "https://open.spotify.com/album/5hTWeCX4XFKNB34Ch6W6oq"
-      },
-      "artists": [
-        {
-          "name": "Luke Marantz Trio",
-          "url": "https://open.spotify.com/artist/6skWyJ0S6yQ2bKBQb1klxo"
-        }
-      ],
-      "duration_ms": 165685,
-      "name": "The Most Wonderful Day of The Year",
-      "url": "https://open.spotify.com/track/6rnbHty5DmSiKwpLqOaZqK"
-    },
-    {
-      "added_at": "2026-11-06 15:56:35",
-      "album": {
-        "name": "Christmas Is Coming",
-        "url": "https://open.spotify.com/album/6wilsjE6jfGO0ggnBV5QUU"
-      },
-      "artists": [
-        {
-          "name": "Isac Solo Trio",
-          "url": "https://open.spotify.com/artist/0PQJ8CW64ZpCQTXIWvpkUN"
-        }
-      ],
-      "duration_ms": 184167,
-      "name": "Christmas Is Coming",
-      "url": "https://open.spotify.com/track/149nYuNSxKF3rPGpReOjtv"
-    },
-    {
-      "added_at": "2026-11-06 15:56:35",
-      "album": {
-        "name": "I Saw Three Ships",
-        "url": "https://open.spotify.com/album/72Eg5ywjro4gFFqgG8ewqS"
-      },
-      "artists": [
-        {
-          "name": "Charlie James-Walker",
-          "url": "https://open.spotify.com/artist/7apm9TJQ66v5ykLahf9B3U"
-        }
-      ],
-      "duration_ms": 168846,
-      "name": "I Saw Three Ships",
-      "url": "https://open.spotify.com/track/1OfkfkZeJVO0hB26HTP1o2"
-    },
-    {
-      "added_at": "2026-11-06 15:56:35",
-      "album": {
-        "name": "A Christmas Love Song",
-        "url": "https://open.spotify.com/album/3KBCBLVGamNAwM1pPY65rJ"
-      },
-      "artists": [
-        {
-          "name": "Francis Graden",
-          "url": "https://open.spotify.com/artist/2oImW6t3VIxRmM8DdwEH4w"
-        }
-      ],
-      "duration_ms": 158066,
-      "name": "A Christmas Love Song",
-      "url": "https://open.spotify.com/track/3srmpEPRcrE5FAGJcsHk55"
+      "duration_ms": 151999,
+      "name": "Happy Christmas, Little Friend",
+      "url": "https://open.spotify.com/track/4k9rdBjThAkWE6dkGRT3a2"
     },
     {
       "added_at": "2026-11-06 15:56:35",
@@ -363,6 +283,102 @@
     {
       "added_at": "2026-11-06 15:56:35",
       "album": {
+        "name": "Please come home for christmas",
+        "url": "https://open.spotify.com/album/5r2ZzaDZhyqzORtTWnbYPM"
+      },
+      "artists": [
+        {
+          "name": "Jeff Laine & Co",
+          "url": "https://open.spotify.com/artist/4i2Ps9G6SHd16reEGA5xva"
+        }
+      ],
+      "duration_ms": 153892,
+      "name": "Please come home for christmas",
+      "url": "https://open.spotify.com/track/4CjsInvWGmHOxxVQ2sS9F4"
+    },
+    {
+      "added_at": "2026-11-06 15:56:35",
+      "album": {
+        "name": "Christmas Is Coming",
+        "url": "https://open.spotify.com/album/6wilsjE6jfGO0ggnBV5QUU"
+      },
+      "artists": [
+        {
+          "name": "Isac Solo Trio",
+          "url": "https://open.spotify.com/artist/0PQJ8CW64ZpCQTXIWvpkUN"
+        }
+      ],
+      "duration_ms": 184167,
+      "name": "Christmas Is Coming",
+      "url": "https://open.spotify.com/track/149nYuNSxKF3rPGpReOjtv"
+    },
+    {
+      "added_at": "2026-11-06 15:56:35",
+      "album": {
+        "name": "Silver Bells",
+        "url": "https://open.spotify.com/album/5hTWeCX4XFKNB34Ch6W6oq"
+      },
+      "artists": [
+        {
+          "name": "Luke Marantz Trio",
+          "url": "https://open.spotify.com/artist/6skWyJ0S6yQ2bKBQb1klxo"
+        }
+      ],
+      "duration_ms": 165685,
+      "name": "The Most Wonderful Day of The Year",
+      "url": "https://open.spotify.com/track/6rnbHty5DmSiKwpLqOaZqK"
+    },
+    {
+      "added_at": "2026-11-06 15:56:35",
+      "album": {
+        "name": "I Saw Three Ships",
+        "url": "https://open.spotify.com/album/72Eg5ywjro4gFFqgG8ewqS"
+      },
+      "artists": [
+        {
+          "name": "Charlie James-Walker",
+          "url": "https://open.spotify.com/artist/7apm9TJQ66v5ykLahf9B3U"
+        }
+      ],
+      "duration_ms": 168846,
+      "name": "I Saw Three Ships",
+      "url": "https://open.spotify.com/track/1OfkfkZeJVO0hB26HTP1o2"
+    },
+    {
+      "added_at": "2026-11-06 15:56:35",
+      "album": {
+        "name": "This Time of Year",
+        "url": "https://open.spotify.com/album/0UPpgjXaveyo92FO0zdIIL"
+      },
+      "artists": [
+        {
+          "name": "Jeroen Granneman",
+          "url": "https://open.spotify.com/artist/1R0UpoenE1gqapaTNm9d0f"
+        }
+      ],
+      "duration_ms": 108959,
+      "name": "Let it Snow",
+      "url": "https://open.spotify.com/track/7fdouZD8z3H05NzuqHNKvz"
+    },
+    {
+      "added_at": "2026-11-06 15:56:35",
+      "album": {
+        "name": "A Christmas Love Song",
+        "url": "https://open.spotify.com/album/3KBCBLVGamNAwM1pPY65rJ"
+      },
+      "artists": [
+        {
+          "name": "Francis Graden",
+          "url": "https://open.spotify.com/artist/2oImW6t3VIxRmM8DdwEH4w"
+        }
+      ],
+      "duration_ms": 158066,
+      "name": "A Christmas Love Song",
+      "url": "https://open.spotify.com/track/3srmpEPRcrE5FAGJcsHk55"
+    },
+    {
+      "added_at": "2026-11-06 15:56:35",
+      "album": {
         "name": "My Favourite Time of Year",
         "url": "https://open.spotify.com/album/5erwrkAgvvtsofeB64etXw"
       },
@@ -375,6 +391,38 @@
       "duration_ms": 242786,
       "name": "My Favourite Time of Year",
       "url": "https://open.spotify.com/track/61IXkIVYvfpKdjzEQeMU54"
+    },
+    {
+      "added_at": "2026-11-06 15:56:35",
+      "album": {
+        "name": "Winter Wonderland",
+        "url": "https://open.spotify.com/album/00mDfkOOwU5Z9k09Btz0DN"
+      },
+      "artists": [
+        {
+          "name": "Meadow Park",
+          "url": "https://open.spotify.com/artist/3xgSoGgPQpQvOK5XOyoOAm"
+        }
+      ],
+      "duration_ms": 173934,
+      "name": "Winter Wonderland",
+      "url": "https://open.spotify.com/track/4VmA5KpWZO0UVcagpcoUde"
+    },
+    {
+      "added_at": "2026-11-06 15:56:35",
+      "album": {
+        "name": "Sleigh Ride",
+        "url": "https://open.spotify.com/album/6hbTuHeuAM0yemXJ1mmqQO"
+      },
+      "artists": [
+        {
+          "name": "Glass Trio",
+          "url": "https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm"
+        }
+      ],
+      "duration_ms": 379437,
+      "name": "Sleigh Ride",
+      "url": "https://open.spotify.com/track/3R52G5gjn3i2Gv91lvY4iL"
     },
     {
       "added_at": "2026-11-06 15:56:35",
@@ -395,22 +443,6 @@
     {
       "added_at": "2026-11-06 15:56:35",
       "album": {
-        "name": "A Child Is Born",
-        "url": "https://open.spotify.com/album/5i3P1z4tgoe8qMFnsFG9Bb"
-      },
-      "artists": [
-        {
-          "name": "Hudson Harris & Haim",
-          "url": "https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV"
-        }
-      ],
-      "duration_ms": 154096,
-      "name": "A Child Is Born",
-      "url": "https://open.spotify.com/track/6jhdzfTDrFAHeK54v3T3JW"
-    },
-    {
-      "added_at": "2026-11-06 15:56:35",
-      "album": {
         "name": "Rudolph the Red Nosed Rain Deer",
         "url": "https://open.spotify.com/album/1hMXOVW1GQ7qRqyZ4ffxFN"
       },
@@ -423,6 +455,22 @@
       "duration_ms": 145884,
       "name": "Rudolph the Red Nosed Rain Deer",
       "url": "https://open.spotify.com/track/00zEutyWPkwIbwl50L1fop"
+    },
+    {
+      "added_at": "2026-11-06 15:56:35",
+      "album": {
+        "name": "A Child Is Born",
+        "url": "https://open.spotify.com/album/5i3P1z4tgoe8qMFnsFG9Bb"
+      },
+      "artists": [
+        {
+          "name": "Hudson Harris & Haim",
+          "url": "https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV"
+        }
+      ],
+      "duration_ms": 154096,
+      "name": "A Child Is Born",
+      "url": "https://open.spotify.com/track/6jhdzfTDrFAHeK54v3T3JW"
     },
     {
       "added_at": "2026-11-06 15:56:35",
@@ -455,22 +503,6 @@
       "duration_ms": 175217,
       "name": "Hard Candy Christmas",
       "url": "https://open.spotify.com/track/3VHpv7iHs0PHfXns1ZfpNA"
-    },
-    {
-      "added_at": "2026-11-06 15:56:35",
-      "album": {
-        "name": "This Time of Year",
-        "url": "https://open.spotify.com/album/0UPpgjXaveyo92FO0zdIIL"
-      },
-      "artists": [
-        {
-          "name": "Jeroen Granneman",
-          "url": "https://open.spotify.com/artist/1R0UpoenE1gqapaTNm9d0f"
-        }
-      ],
-      "duration_ms": 108959,
-      "name": "Let it Snow",
-      "url": "https://open.spotify.com/track/7fdouZD8z3H05NzuqHNKvz"
     },
     {
       "added_at": "2026-11-06 15:56:35",
@@ -523,34 +555,18 @@
     {
       "added_at": "2026-11-06 15:56:35",
       "album": {
-        "name": "Sleigh Ride",
-        "url": "https://open.spotify.com/album/6hbTuHeuAM0yemXJ1mmqQO"
+        "name": "O come all ye faithful",
+        "url": "https://open.spotify.com/album/5RYjwFs6SoHvS4XzobAAD1"
       },
       "artists": [
         {
-          "name": "Glass Trio",
-          "url": "https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm"
+          "name": "Jeff Laine & Co",
+          "url": "https://open.spotify.com/artist/4i2Ps9G6SHd16reEGA5xva"
         }
       ],
-      "duration_ms": 379437,
-      "name": "Sleigh Ride",
-      "url": "https://open.spotify.com/track/3R52G5gjn3i2Gv91lvY4iL"
-    },
-    {
-      "added_at": "2026-11-06 15:56:35",
-      "album": {
-        "name": "Winter Wonderland",
-        "url": "https://open.spotify.com/album/00mDfkOOwU5Z9k09Btz0DN"
-      },
-      "artists": [
-        {
-          "name": "Meadow Park",
-          "url": "https://open.spotify.com/artist/3xgSoGgPQpQvOK5XOyoOAm"
-        }
-      ],
-      "duration_ms": 173934,
-      "name": "Winter Wonderland",
-      "url": "https://open.spotify.com/track/4VmA5KpWZO0UVcagpcoUde"
+      "duration_ms": 186590,
+      "name": "O come all ye faithful",
+      "url": "https://open.spotify.com/track/4UgEfUpPFhMAQKbH9ewEog"
     },
     {
       "added_at": "2026-11-06 15:56:35",
@@ -571,22 +587,6 @@
     {
       "added_at": "2026-11-06 15:56:35",
       "album": {
-        "name": "Away in a manger",
-        "url": "https://open.spotify.com/album/5aO0KpQkTRPpVKErKhE3Wz"
-      },
-      "artists": [
-        {
-          "name": "The Mill Basin Band",
-          "url": "https://open.spotify.com/artist/4lMgo5IwaCdF1fRSdubcUU"
-        }
-      ],
-      "duration_ms": 126007,
-      "name": "Away in a manger",
-      "url": "https://open.spotify.com/track/0E6J6VqH8KDsWoRW9uwNBY"
-    },
-    {
-      "added_at": "2026-11-06 15:56:35",
-      "album": {
         "name": "Meet Me Under the Mistletoe",
         "url": "https://open.spotify.com/album/7eWMP5eQSUrOKivRDD9rHc"
       },
@@ -599,6 +599,22 @@
       "duration_ms": 204187,
       "name": "Meet Me Under the Mistletoe",
       "url": "https://open.spotify.com/track/39kbAYlQI8I9WA6j3YxKSD"
+    },
+    {
+      "added_at": "2026-11-06 15:56:35",
+      "album": {
+        "name": "Away in a manger",
+        "url": "https://open.spotify.com/album/5aO0KpQkTRPpVKErKhE3Wz"
+      },
+      "artists": [
+        {
+          "name": "The Mill Basin Band",
+          "url": "https://open.spotify.com/artist/4lMgo5IwaCdF1fRSdubcUU"
+        }
+      ],
+      "duration_ms": 126007,
+      "name": "Away in a manger",
+      "url": "https://open.spotify.com/track/0E6J6VqH8KDsWoRW9uwNBY"
     },
     {
       "added_at": "2026-11-06 15:56:35",
@@ -635,6 +651,22 @@
     {
       "added_at": "2026-11-06 15:56:35",
       "album": {
+        "name": "Maybe This Christmas",
+        "url": "https://open.spotify.com/album/2swCYtIv012xM6YSXBPA6r"
+      },
+      "artists": [
+        {
+          "name": "Anthony Hide Trio",
+          "url": "https://open.spotify.com/artist/0vF49H73xGuKS1vRSNN3av"
+        }
+      ],
+      "duration_ms": 176750,
+      "name": "Maybe This Christmas",
+      "url": "https://open.spotify.com/track/6nmOU90Z6Palq65FEn2mog"
+    },
+    {
+      "added_at": "2026-11-06 15:56:35",
+      "album": {
         "name": "We Three Kings",
         "url": "https://open.spotify.com/album/1Q2yEQkTcFH0O7wp5tA1bH"
       },
@@ -647,22 +679,6 @@
       "duration_ms": 179183,
       "name": "We Three Kings",
       "url": "https://open.spotify.com/track/220q8pjM8CL42cIGT1jSBj"
-    },
-    {
-      "added_at": "2026-11-06 15:56:35",
-      "album": {
-        "name": "O come all ye faithful",
-        "url": "https://open.spotify.com/album/5RYjwFs6SoHvS4XzobAAD1"
-      },
-      "artists": [
-        {
-          "name": "Jeff Laine & Co",
-          "url": "https://open.spotify.com/artist/4i2Ps9G6SHd16reEGA5xva"
-        }
-      ],
-      "duration_ms": 186590,
-      "name": "O come all ye faithful",
-      "url": "https://open.spotify.com/track/4UgEfUpPFhMAQKbH9ewEog"
     },
     {
       "added_at": "2026-11-06 15:56:35",
@@ -699,6 +715,22 @@
     {
       "added_at": "2026-11-06 15:56:35",
       "album": {
+        "name": "The First Noel",
+        "url": "https://open.spotify.com/album/6niAhccZNGPJoi3vkQwqQ2"
+      },
+      "artists": [
+        {
+          "name": "Plethora Trio",
+          "url": "https://open.spotify.com/artist/2H3fT1t2R1w5U2wjfUIFh2"
+        }
+      ],
+      "duration_ms": 117756,
+      "name": "The First Noel",
+      "url": "https://open.spotify.com/track/2yvU9bLNb4Tv7PMEnKzMYn"
+    },
+    {
+      "added_at": "2026-11-06 15:56:35",
+      "album": {
         "name": "O Tannenbaum",
         "url": "https://open.spotify.com/album/0bUeT7ZJYJgnulpvq30EHN"
       },
@@ -711,6 +743,22 @@
       "duration_ms": 123173,
       "name": "O Tannenbaum",
       "url": "https://open.spotify.com/track/0Qh82xyuVeCP8TU9LHZOk7"
+    },
+    {
+      "added_at": "2026-11-06 15:56:35",
+      "album": {
+        "name": "The Christmas I Fell For You",
+        "url": "https://open.spotify.com/album/6sgyWLAhf8JAUT7nC7KquK"
+      },
+      "artists": [
+        {
+          "name": "Gail Cameron",
+          "url": "https://open.spotify.com/artist/3xmDjA6LY5tG4L7AmNPTXg"
+        }
+      ],
+      "duration_ms": 184303,
+      "name": "The Christmas I Fell For You",
+      "url": "https://open.spotify.com/track/5lYCdABg8ji35l57OWyTej"
     },
     {
       "added_at": "2026-11-06 15:56:35",
@@ -763,22 +811,6 @@
     {
       "added_at": "2026-11-06 15:56:35",
       "album": {
-        "name": "Maybe This Christmas",
-        "url": "https://open.spotify.com/album/2swCYtIv012xM6YSXBPA6r"
-      },
-      "artists": [
-        {
-          "name": "Anthony Hide Trio",
-          "url": "https://open.spotify.com/artist/0vF49H73xGuKS1vRSNN3av"
-        }
-      ],
-      "duration_ms": 176750,
-      "name": "Maybe This Christmas",
-      "url": "https://open.spotify.com/track/6nmOU90Z6Palq65FEn2mog"
-    },
-    {
-      "added_at": "2026-11-06 15:56:35",
-      "album": {
         "name": "Mistletoe And Holly",
         "url": "https://open.spotify.com/album/16erh4O46uaVuPocbpDBIE"
       },
@@ -795,38 +827,6 @@
     {
       "added_at": "2026-11-06 15:56:35",
       "album": {
-        "name": "The First Noel",
-        "url": "https://open.spotify.com/album/6niAhccZNGPJoi3vkQwqQ2"
-      },
-      "artists": [
-        {
-          "name": "Plethora Trio",
-          "url": "https://open.spotify.com/artist/2H3fT1t2R1w5U2wjfUIFh2"
-        }
-      ],
-      "duration_ms": 117756,
-      "name": "The First Noel",
-      "url": "https://open.spotify.com/track/2yvU9bLNb4Tv7PMEnKzMYn"
-    },
-    {
-      "added_at": "2026-11-06 15:56:35",
-      "album": {
-        "name": "The Christmas I Fell For You",
-        "url": "https://open.spotify.com/album/6sgyWLAhf8JAUT7nC7KquK"
-      },
-      "artists": [
-        {
-          "name": "Gail Cameron",
-          "url": "https://open.spotify.com/artist/3xmDjA6LY5tG4L7AmNPTXg"
-        }
-      ],
-      "duration_ms": 184303,
-      "name": "The Christmas I Fell For You",
-      "url": "https://open.spotify.com/track/5lYCdABg8ji35l57OWyTej"
-    },
-    {
-      "added_at": "2026-11-06 15:56:35",
-      "album": {
         "name": "Christmas With You",
         "url": "https://open.spotify.com/album/4lQpDClGVN8GRg1T0XjjHt"
       },
@@ -839,22 +839,6 @@
       "duration_ms": 196063,
       "name": "Christmas With You",
       "url": "https://open.spotify.com/track/3UWfENxJLZmqYwipTZrkdI"
-    },
-    {
-      "added_at": "2026-11-06 15:56:35",
-      "album": {
-        "name": "The Christmas Waltz",
-        "url": "https://open.spotify.com/album/0YWxRVcTBfo7xBzgs2dwDX"
-      },
-      "artists": [
-        {
-          "name": "Milad Greenland",
-          "url": "https://open.spotify.com/artist/72SSLPJ7pQvCRIGGscVrnr"
-        }
-      ],
-      "duration_ms": 100015,
-      "name": "The Christmas Waltz",
-      "url": "https://open.spotify.com/track/30gbCa8Zx6dioHEj9LwIaw"
     },
     {
       "added_at": "2026-11-06 15:56:35",
@@ -891,38 +875,6 @@
     {
       "added_at": "2026-11-06 15:56:35",
       "album": {
-        "name": "What Are You Doing New Years Eve?",
-        "url": "https://open.spotify.com/album/0gGaWw6lmiwuuItDRd697c"
-      },
-      "artists": [
-        {
-          "name": "Carl Bagge Trio",
-          "url": "https://open.spotify.com/artist/1hyKcLTz5pzxyla8DxNTcs"
-        }
-      ],
-      "duration_ms": 281500,
-      "name": "What Are You Doing New Years Eve?",
-      "url": "https://open.spotify.com/track/5V2xjX43Qg2wTdhX6xhIK1"
-    },
-    {
-      "added_at": "2026-11-06 15:56:35",
-      "album": {
-        "name": "Feliz navidad",
-        "url": "https://open.spotify.com/album/3gmuUZ1smESdC9G30KXUBU"
-      },
-      "artists": [
-        {
-          "name": "Norberg",
-          "url": "https://open.spotify.com/artist/4clALHmaxBpsJ0aWHb3Rdy"
-        }
-      ],
-      "duration_ms": 123786,
-      "name": "Feliz navidad",
-      "url": "https://open.spotify.com/track/465nAxOI5pErqke80RoQTF"
-    },
-    {
-      "added_at": "2026-11-06 15:56:35",
-      "album": {
         "name": "We Wish You a Merry Christmas",
         "url": "https://open.spotify.com/album/7q3eVyorarJ5tAyevuMesk"
       },
@@ -935,6 +887,22 @@
       "duration_ms": 166281,
       "name": "We Wish You a Merry Christmas",
       "url": "https://open.spotify.com/track/7B8SS0aj4uWcJwohbYVLyt"
+    },
+    {
+      "added_at": "2026-11-06 15:56:35",
+      "album": {
+        "name": "The Christmas Waltz",
+        "url": "https://open.spotify.com/album/0YWxRVcTBfo7xBzgs2dwDX"
+      },
+      "artists": [
+        {
+          "name": "Milad Greenland",
+          "url": "https://open.spotify.com/artist/72SSLPJ7pQvCRIGGscVrnr"
+        }
+      ],
+      "duration_ms": 100015,
+      "name": "The Christmas Waltz",
+      "url": "https://open.spotify.com/track/30gbCa8Zx6dioHEj9LwIaw"
     },
     {
       "added_at": "2026-11-06 15:56:35",
@@ -971,6 +939,22 @@
     {
       "added_at": "2026-11-06 15:56:35",
       "album": {
+        "name": "Feliz navidad",
+        "url": "https://open.spotify.com/album/3gmuUZ1smESdC9G30KXUBU"
+      },
+      "artists": [
+        {
+          "name": "Norberg",
+          "url": "https://open.spotify.com/artist/4clALHmaxBpsJ0aWHb3Rdy"
+        }
+      ],
+      "duration_ms": 123786,
+      "name": "Feliz navidad",
+      "url": "https://open.spotify.com/track/465nAxOI5pErqke80RoQTF"
+    },
+    {
+      "added_at": "2026-11-06 15:56:35",
+      "album": {
         "name": "The Christmas Waltz",
         "url": "https://open.spotify.com/album/2NUdN3lW2hk36jWM29TV3f"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 153739,
       "name": "The Christmas Waltz",
       "url": "https://open.spotify.com/track/1q2XwPvKpt7ujJ9LoC1cbo"
+    },
+    {
+      "added_at": "2026-11-06 15:56:35",
+      "album": {
+        "name": "What Are You Doing New Years Eve?",
+        "url": "https://open.spotify.com/album/0gGaWw6lmiwuuItDRd697c"
+      },
+      "artists": [
+        {
+          "name": "Carl Bagge Trio",
+          "url": "https://open.spotify.com/artist/1hyKcLTz5pzxyla8DxNTcs"
+        }
+      ],
+      "duration_ms": 281500,
+      "name": "What Are You Doing New Years Eve?",
+      "url": "https://open.spotify.com/track/5V2xjX43Qg2wTdhX6xhIK1"
     },
     {
       "added_at": "2026-11-06 15:56:35",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2026-11-06 15:56:35",
       "album": {
-        "name": "A Wishful Night",
-        "url": "https://open.spotify.com/album/3YOAvLdHA3542tlY3VwUtA"
-      },
-      "artists": [
-        {
-          "name": "Martin Landstr\u00f6m",
-          "url": "https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN"
-        }
-      ],
-      "duration_ms": 147450,
-      "name": "A Wishful Night",
-      "url": "https://open.spotify.com/track/3jWmXtJ3wsEeT7irjvhSWD"
-    },
-    {
-      "added_at": "2026-11-06 15:56:35",
-      "album": {
         "name": "This year christmas is mine",
         "url": "https://open.spotify.com/album/3Nj82ORNyD2N4JTFUXl0vU"
       },
@@ -1083,6 +1067,22 @@
     {
       "added_at": "2026-11-06 15:56:35",
       "album": {
+        "name": "A Wishful Night",
+        "url": "https://open.spotify.com/album/3YOAvLdHA3542tlY3VwUtA"
+      },
+      "artists": [
+        {
+          "name": "Martin Landstr\u00f6m",
+          "url": "https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN"
+        }
+      ],
+      "duration_ms": 147450,
+      "name": "A Wishful Night",
+      "url": "https://open.spotify.com/track/3jWmXtJ3wsEeT7irjvhSWD"
+    },
+    {
+      "added_at": "2026-11-06 15:56:35",
+      "album": {
         "name": "When Christmas Falls Silent",
         "url": "https://open.spotify.com/album/4L32lmO7v5wyTxVNkxDU3t"
       },
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2026-11-06 15:56:35",
       "album": {
-        "name": "The First Noel",
-        "url": "https://open.spotify.com/album/0UykYUfd6JfL0WXXqbKGiX"
-      },
-      "artists": [
-        {
-          "name": "Flatland Park",
-          "url": "https://open.spotify.com/artist/6xOql32xqR0X46QkNLCzPd"
-        }
-      ],
-      "duration_ms": 90964,
-      "name": "The Holly and the Ivy",
-      "url": "https://open.spotify.com/track/6kp3aicXY4wM8GtKjhT7jk"
-    },
-    {
-      "added_at": "2026-11-06 15:56:35",
-      "album": {
         "name": "The Christmas Song",
         "url": "https://open.spotify.com/album/6TxctcVc4GMhjXPGP8pWyt"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 216493,
       "name": "The Christmas Song",
       "url": "https://open.spotify.com/track/0J1HBjPpOOpB9iKSbvFi6n"
+    },
+    {
+      "added_at": "2026-11-06 15:56:35",
+      "album": {
+        "name": "The First Noel",
+        "url": "https://open.spotify.com/album/0UykYUfd6JfL0WXXqbKGiX"
+      },
+      "artists": [
+        {
+          "name": "Flatland Park",
+          "url": "https://open.spotify.com/artist/6xOql32xqR0X46QkNLCzPd"
+        }
+      ],
+      "duration_ms": 90964,
+      "name": "The Holly and the Ivy",
+      "url": "https://open.spotify.com/track/6kp3aicXY4wM8GtKjhT7jk"
     },
     {
       "added_at": "2026-11-06 15:56:35",

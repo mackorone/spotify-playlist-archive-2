@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 ### [New Music Friday Switzerland](https://open.spotify.com/playlist/37i9dQZF1DX3crNbt46mRU)
 
-> This week's top new releases, including Domiziana, DJ Heartstring, SDM, LEA & many more!
+> This week's top new releases, including Domiziana, DJ HEARTSTRING, SDM, LEA & many more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,250 likes - 97 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,344 likes - 97 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Bacio Bacio](https://open.spotify.com/track/5bQEsZlo8aHiwbLrVVwzUf) | [Domiziana](https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN) | [VELINA](https://open.spotify.com/album/2wdQGUfo18GUQvU9PmAsiF) | 2:58 |
-| 2 | [BLACK](https://open.spotify.com/track/4zd9RlMM0M43UE0ZoRFH6h) | [Bantu Nation](https://open.spotify.com/artist/0gue1dxQtQ28unbf9Z0x2f), [Nu51](https://open.spotify.com/artist/1lAMEytqWfuvgQ8jyz8TWH), [G\-Mac](https://open.spotify.com/artist/3anm80VRRBU2mYBKvGQfoL), [Des](https://open.spotify.com/artist/74rrdc9h8enZI0681hjxeJ), [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q), [THIZZY52](https://open.spotify.com/artist/1dVKBw8iMPpS1almxwIVI3) | [BLACK](https://open.spotify.com/album/0znAfPvrcIevD306b2QHkr) | 2:53 |
+| 2 | [BLACK \(feat\. Jazeek, Luciano, THIZZY52, reezy\)](https://open.spotify.com/track/4zd9RlMM0M43UE0ZoRFH6h) | [Bantu Nation](https://open.spotify.com/artist/0gue1dxQtQ28unbf9Z0x2f), [Nu51](https://open.spotify.com/artist/1lAMEytqWfuvgQ8jyz8TWH), [G\-Mac](https://open.spotify.com/artist/3anm80VRRBU2mYBKvGQfoL), [Des](https://open.spotify.com/artist/74rrdc9h8enZI0681hjxeJ), [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q), [THIZZY52](https://open.spotify.com/artist/1dVKBw8iMPpS1almxwIVI3) | [BLACK \(feat\. Jazeek, Luciano, THIZZY52, reezy\)](https://open.spotify.com/album/0znAfPvrcIevD306b2QHkr) | 2:53 |
 | 3 | [Now We Are Strangers](https://open.spotify.com/track/1Uda389AsyXdaWZx9GdBi8) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7), [secret act](https://open.spotify.com/artist/7jIHu08WUlCeiRBWOS6USU) | [Sentimental Ultra](https://open.spotify.com/album/7tUzKKPjySar5eIOUoounQ) | 4:26 |
 | 4 | [ÇA CHAUFFE](https://open.spotify.com/track/5zj2b4dFoGXkpsxV2BkN5x) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [IN INFINITUM](https://open.spotify.com/album/0TTw79ACe1zYcMGZxuFhM0) | 3:07 |
 | 5 | [Was denkst du wer du bist](https://open.spotify.com/track/1FScZlemEy7mamlhEbsvRl) | [LEA](https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1) | [Was denkst du wer du bist](https://open.spotify.com/album/4r1tEtbH2M90CiKG3ZBozX) | 3:10 |
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 38 | [casa](https://open.spotify.com/track/1Ofgimg2K2iF8ziQyzuGaW) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [TUTTO BENE GRAZIE](https://open.spotify.com/album/2epZi9msVLcyAaoVVzexzv) | 2:50 |
 | 39 | [tie me d^wn](https://open.spotify.com/track/5H2sF8TtiDMYKQyWz7uu4l) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [REBECCA](https://open.spotify.com/album/4hCwXvKTdnhUUsoSgVA6Ia) | 2:45 |
 | 40 | [Ya Hit \(feat\. Drake, Travis Scott & Loe Shimmy\)](https://open.spotify.com/track/76jR5C9oKb1DJR3rab6dGV) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax) | [Ya Hit \(feat\. Drake, Travis Scott & Loe Shimmy\)](https://open.spotify.com/album/5KXRJdjRBZMPrmvt4EgXAd) | 3:34 |
-| 41 | [Why Not \(feat\. Quavo & Loe Shimmy\)](https://open.spotify.com/track/3ag3REuwHRHF8kYQffQ8pn) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax) | [GMFU](https://open.spotify.com/album/0sjhU3kzHU2dfd6SVrzLIp) | 2:49 |
+| 41 | [Why Not? \(feat\. Quavo & Loe Shimmy\)](https://open.spotify.com/track/3ag3REuwHRHF8kYQffQ8pn) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax) | [GMFU](https://open.spotify.com/album/0sjhU3kzHU2dfd6SVrzLIp) | 2:49 |
 | 42 | [crash](https://open.spotify.com/track/31pVIAzSraGD26uL4bhj3H) | [Loïc Nottet](https://open.spotify.com/artist/5nAiCPenjjdpUJAmElxmuu) | [crash](https://open.spotify.com/album/4qsEflcoeLFpdV65tl5hpF) | 2:27 |
 | 43 | [GRÊLE](https://open.spotify.com/track/2dCMzspIOVddP3es9nyDB0) | [ZZ](https://open.spotify.com/artist/51loVlVgRomkJwd04A6B1e) | [GRÊLE](https://open.spotify.com/album/4mhzPvnNkJuGQdq4Sc13nt) | 1:54 |
 | 44 | [Aggro MTV](https://open.spotify.com/track/3HggfJmckzUReTHnGxxYC5) | [Khrome](https://open.spotify.com/artist/4GoCdmGGYtijLZlgTMyhwe), [Takt32](https://open.spotify.com/artist/1G7TGDJ01So6i6XNirnVS7), [Lina Maly](https://open.spotify.com/artist/0VVKg6krYM45eGuevSlcRk) | [Aggro MTV](https://open.spotify.com/album/4A8d9v937PLbxi79xpHpKf) | 2:52 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 96 | [UP](https://open.spotify.com/track/2DpMn9r9LPpa5PaR4XGFBP) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [GOLDEN HOUR : Part.6](https://open.spotify.com/album/5UKj0Dge5ik5jw3JVjoxof) | 3:26 |
 | 97 | [u&me \(like always\)](https://open.spotify.com/track/3SVaWt6zGb4FjT2bsjJAZg) | [Ray Lozano](https://open.spotify.com/artist/1lqO9zpSZ9iEkgEgJqc443) | [\#4a79b1](https://open.spotify.com/album/2ssGzNxnsZ9ZIpAEBT2nUz) | 2:15 |
 
-Snapshot ID: `AAAAAONRVcDI2bIEdxiKTeNuo1zAgGy7`
+Snapshot ID: `AAAAAGTmV93pR/o7XpkS4IoAvevmLj/8`

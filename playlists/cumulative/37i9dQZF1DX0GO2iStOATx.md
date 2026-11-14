@@ -4,7 +4,7 @@
 
 > Punjabi aa gaye oye!
 
-138 songs - 7 hr 8 min
+139 songs - 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Future](https://open.spotify.com/track/34izTWG2OZPbmCUzwqosgt) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Snappy](https://open.spotify.com/artist/4HYqQGd6sHdPhq6qwikEix), [Rav Hanjra](https://open.spotify.com/artist/2iWspbujhMADVaxwZAwrmd) | [Con.Fi.Den.Tial](https://open.spotify.com/album/5XrmpQEvCaqW8jRA1pwtwD) | 2:53 | 2021-12-02 |  |
 | [G.O.A.T.](https://open.spotify.com/track/46QbY78ha62aiu6gBgC7lS) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [G.O.A.T.](https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE) | 3:43 | 2021-12-02 |  |
 | [Ghost](https://open.spotify.com/track/33prbytYlicGFOMinBYN5U) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Ghost](https://open.spotify.com/album/4kWZIqo8LpvJxE7pDcOeQH) | 2:45 | 2023-10-09 | 2023-11-17 |
-| [Ghost](https://open.spotify.com/track/5VlQvNMpZF3wXrXLfr89Xa) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [thiarajxtt](https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD) | [Ghost](https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd) | 2:45 | 2023-10-03 |  |
+| [Ghost](https://open.spotify.com/track/5VlQvNMpZF3wXrXLfr89Xa) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [thiarajxtt](https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD) | [Ghost](https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd) | 2:45 | 2023-10-03 | 2026-11-14 |
 | [God Bless](https://open.spotify.com/track/1lP0yP0eN5Btj0zjFX72r6) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Sunny Malton](https://open.spotify.com/artist/2ScEhgArBEdKyU4vNHSyiY), [Offgrid](https://open.spotify.com/artist/7F8zSmymsU25wRm0x7R05Y), [Ranbir Singh](https://open.spotify.com/artist/4tLqy17NOYpoJKW8Tdpwtl) | [AURA](https://open.spotify.com/album/1qP2ICZGtjDGBayZ7JuQcT) | 3:05 | 2025-10-15 | 2026-05-26 |
 | [Gulabi Pagg](https://open.spotify.com/track/35CTzZi7rJLBHvfVZZBrVr) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Roar](https://open.spotify.com/album/1pcsPt7079EJi5u9OzHYqa) | 2:50 | 2021-12-02 |  |
 | [Gunda](https://open.spotify.com/track/16fuug2g2M9fJfThGHkXsV) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN), [Raj Ranjodh](https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF), [604Blizzy](https://open.spotify.com/artist/14e2TXNDt3rjiDqa0p8Wsj) | [AURA](https://open.spotify.com/album/1qP2ICZGtjDGBayZ7JuQcT) | 3:14 | 2025-10-15 |  |
@@ -108,6 +108,7 @@
 | [Peaches](https://open.spotify.com/track/3mZLiEDAHIjZ8ms5Lxq33F) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Drive Thru](https://open.spotify.com/album/6KgPhunJItRDOhJFh6Sy78) | 3:09 | 2022-10-07 | 2025-05-28 |
 | [Peed](https://open.spotify.com/track/2Ny0SqN4HHB7nfdre6YlDb) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [G.O.A.T.](https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE) | 4:24 | 2021-12-02 | 2025-05-28 |
 | [Poh Di Raat](https://open.spotify.com/track/6kqTzI4FCVdot2cVP1Zcqe) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Tee L](https://open.spotify.com/artist/6TsJMutd2Oq9jQRdlFeGUv) | [Back to Basics](https://open.spotify.com/album/2DJqmHoYQ5uS5Vhg8GVC1d) | 3:44 | 2021-12-02 |  |
+| [POKITO](https://open.spotify.com/track/0mOmaf2ZmkCyE5D8HBq52S) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [LA POSTAL](https://open.spotify.com/album/3mfhO7yPczONj4ymNVWoG1) | 3:01 | 2026-11-13 |  |
 | [Poppin'](https://open.spotify.com/track/4FdTSLXTrsXZh4qRkR6R6u) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Ghost](https://open.spotify.com/album/4kWZIqo8LpvJxE7pDcOeQH) | 2:34 | 2023-10-09 | 2023-11-17 |
 | [Poppin'](https://open.spotify.com/track/6jEpoHPMVryUcmLOJr5H2l) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [thiarajxtt](https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD) | [Ghost](https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd) | 2:34 | 2023-10-03 | 2025-05-28 |
 | [Proper Patola](https://open.spotify.com/track/39ujbBjTwwqUFySaCYDMMT) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Aastha Gill](https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ) | [Namaste England \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6qokplIH6RyEbm9Q2DiBQB) | 2:58 | 2021-12-02 |  |

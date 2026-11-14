@@ -1426,7 +1426,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 258342,
       "name": "Can't Hold Us (feat. Ray Dalton)",
       "url": "https://open.spotify.com/track/3bidbhpOYeV4knp8AIu8Xn"
@@ -2900,6 +2900,24 @@
       "duration_ms": 199541,
       "name": "Gold",
       "url": "https://open.spotify.com/track/17dNewo0r2wcw4B94KtOeB"
+    },
+    {
+      "album": {
+        "name": "Gold Dust",
+        "url": "https://open.spotify.com/album/59MD5jhsN1bIpiKDfvFTa7"
+      },
+      "artists": [
+        {
+          "name": "Friendly Fires",
+          "url": "https://open.spotify.com/artist/3mZqziCJj4pq3P2VBpmK6p"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216826,
+      "name": "Gold Dust",
+      "url": "https://open.spotify.com/track/2E3DKXFLClONjv5v5XqdjP"
     },
     {
       "album": {

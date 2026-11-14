@@ -1,13 +1,45 @@
 {
-  "description": "The best in folk & acoustic today featuring music from Sylvie",
-  "num_followers": 1676970,
+  "description": "The best in folk & acoustic today featuring music from Buffalo Traffic Jam",
+  "num_followers": 1676823,
   "original_name": "Roots Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMhMVbsyMymP5uTgBc1XTMoL78lx",
+  "snapshot_id": "AAAAAOtTrpVy2WaxXInbJ+v7daudq1do",
   "tracks": [
+    {
+      "added_at": "2026-11-08 16:54:57",
+      "album": {
+        "name": "Born Again",
+        "url": "https://open.spotify.com/album/4SO487HCmaih1yGhFfi48v"
+      },
+      "artists": [
+        {
+          "name": "Star Moles",
+          "url": "https://open.spotify.com/artist/2E5hF0ef37SEkbFT7JItSf"
+        }
+      ],
+      "duration_ms": 217865,
+      "name": "Born Again",
+      "url": "https://open.spotify.com/track/4l1qY5SuMnNExzQCVtS6OS"
+    },
+    {
+      "added_at": "2026-11-11 14:17:41",
+      "album": {
+        "name": "Barely Holding On",
+        "url": "https://open.spotify.com/album/3D1Oaq7DHlYcGYclJJJeMh"
+      },
+      "artists": [
+        {
+          "name": "Buffalo Traffic Jam",
+          "url": "https://open.spotify.com/artist/22LEPYRDhoThnbpShy6fV7"
+        }
+      ],
+      "duration_ms": 210626,
+      "name": "Barely Holding On",
+      "url": "https://open.spotify.com/track/2uSgEGeb0j2xQiqj7wA2xm"
+    },
     {
       "added_at": "2026-11-06 05:00:56",
       "album": {
@@ -27,22 +59,6 @@
       "duration_ms": 233613,
       "name": "California Hills",
       "url": "https://open.spotify.com/track/79Yf8Z0lLWKFs4lUI3oA9Q"
-    },
-    {
-      "added_at": "2026-11-08 16:54:57",
-      "album": {
-        "name": "Born Again",
-        "url": "https://open.spotify.com/album/4SO487HCmaih1yGhFfi48v"
-      },
-      "artists": [
-        {
-          "name": "Star Moles",
-          "url": "https://open.spotify.com/artist/2E5hF0ef37SEkbFT7JItSf"
-        }
-      ],
-      "duration_ms": 217865,
-      "name": "Born Again",
-      "url": "https://open.spotify.com/track/4l1qY5SuMnNExzQCVtS6OS"
     },
     {
       "added_at": "2026-11-06 05:00:56",
@@ -77,6 +93,22 @@
       "url": "https://open.spotify.com/track/0FknOu4D8csA7MLxBE7L9K"
     },
     {
+      "added_at": "2026-11-13 05:01:31",
+      "album": {
+        "name": "Fly 1111",
+        "url": "https://open.spotify.com/album/6tq0sS8PvlJMBWEXGn70fM"
+      },
+      "artists": [
+        {
+          "name": "Emma Ogier",
+          "url": "https://open.spotify.com/artist/7lVBH2nQlHcpcU4RiY7izm"
+        }
+      ],
+      "duration_ms": 205704,
+      "name": "Land",
+      "url": "https://open.spotify.com/track/7MB1tKZya7KsesEn5F1XkD"
+    },
+    {
       "added_at": "2026-10-09 04:02:47",
       "album": {
         "name": "Goodbye to All That",
@@ -109,22 +141,6 @@
       "url": "https://open.spotify.com/track/42leQt2fs7BBNkpntuMkAM"
     },
     {
-      "added_at": "2026-11-11 14:17:41",
-      "album": {
-        "name": "Barely Holding On",
-        "url": "https://open.spotify.com/album/3D1Oaq7DHlYcGYclJJJeMh"
-      },
-      "artists": [
-        {
-          "name": "Buffalo Traffic Jam",
-          "url": "https://open.spotify.com/artist/22LEPYRDhoThnbpShy6fV7"
-        }
-      ],
-      "duration_ms": 210626,
-      "name": "Barely Holding On",
-      "url": "https://open.spotify.com/track/2uSgEGeb0j2xQiqj7wA2xm"
-    },
-    {
       "added_at": "2026-10-23 04:01:14",
       "album": {
         "name": "Scarlett",
@@ -139,6 +155,26 @@
       "duration_ms": 184000,
       "name": "Scarlett",
       "url": "https://open.spotify.com/track/0VkA3rug1fdlSPGw1rMnos"
+    },
+    {
+      "added_at": "2026-11-13 05:01:31",
+      "album": {
+        "name": "The Wheel",
+        "url": "https://open.spotify.com/album/63skES6QZCyxqmMy1c9QtZ"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        },
+        {
+          "name": "The Hunger Games",
+          "url": "https://open.spotify.com/artist/6UdECsev3yuXe2rfLrdDiF"
+        }
+      ],
+      "duration_ms": 187592,
+      "name": "The Wheel - From The Hunger Games: Sunrise on the Reaping - The Album",
+      "url": "https://open.spotify.com/track/2CogABm63uPyd2qAo259RW"
     },
     {
       "added_at": "2026-10-23 04:01:14",

@@ -2,9 +2,9 @@
 
 ### [Fresh Flows](https://open.spotify.com/playlist/37i9dQZF1DX3TZP21TXsN6)
 
-> Dubbel R, Oomto, JR, Moony11 en meer..
+> Dubbel R, Oomto, PB, Moony11 en meer..
 
-847 songs - 1 day 12 hr 10 min
+848 songs - 1 day 12 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Begrafenis](https://open.spotify.com/track/1tOwpG5OVkVfemP7v6R53f) | [Sidney Shane](https://open.spotify.com/artist/32tHxdDs7eCpgjYPzWHyXA), [Sepa](https://open.spotify.com/artist/5oBUDu4SFA4clHOLCrh2b7) | [88](https://open.spotify.com/album/3UqophSkJ9MIEPdGIucF20) | 3:53 | 2025-09-18 | 2025-11-01 |
 | [BEKIJK HET](https://open.spotify.com/track/7ww8ambKhWX4d5YZ7KtdS3) | [Ysavv](https://open.spotify.com/artist/1mloPWSzK1ktjXszZhg6Jn) | [BEKIJK HET](https://open.spotify.com/album/7zolsjYC9kPgXPwPOcyv5y) | 2:14 | 2026-11-12 |  |
 | [Bellingham](https://open.spotify.com/track/3dZNrH75WqhNc2YwWGQ0mi) | [Maycash](https://open.spotify.com/artist/3XuZ73r4HTBo0C8rlGSCmD) | [Bellingham](https://open.spotify.com/album/4ANIT2uoiWAHLb8Zm1ibNq) | 1:52 | 2026-04-30 | 2026-06-19 |
+| [Beloof Dat Het Lukt](https://open.spotify.com/track/67acrd0cdTpKjagHB1S2OR) | [Yannish](https://open.spotify.com/artist/19nsK6rkGX7Qu6u9Uc3LgQ), [Marou](https://open.spotify.com/artist/787K0Q2xGqiAL0jcoo5kb5), [Massin](https://open.spotify.com/artist/7g8HFGXym7WNVPMsuAINQE) | [Beloof Dat Het Lukt](https://open.spotify.com/album/3sasKDtNeUtGSxHmqpcuD1) | 2:58 | 2026-11-13 |  |
 | [Beseffen](https://open.spotify.com/track/6COOV7LnmZCWsLTyHEynRj) | [Ysavv](https://open.spotify.com/artist/1mloPWSzK1ktjXszZhg6Jn) | [Beseffen](https://open.spotify.com/album/0riyZIEq6DgVzFxlGGn9wK) | 2:26 | 2026-01-08 | 2026-02-13 |
 | [Beste Voor Jou](https://open.spotify.com/track/5B4hazJXJX68tYLO0aDItc) | [B4RKIE](https://open.spotify.com/artist/2MQ6TLWN9FQ5OqnsB9HNXs), [TB](https://open.spotify.com/artist/32dyZVtIJgvvGCLvCKD87s) | [Beste Voor Jou](https://open.spotify.com/album/6RcRiiZRb774Zi5erJi1SE) | 3:04 | 2025-07-17 | 2025-08-15 |
 | [Beter Zo](https://open.spotify.com/track/2ypLSnSq5by0JvEXvadgX2) | [Cappie](https://open.spotify.com/artist/0PC5oDSpWdRVQI9E6h2uhX) | [Beter Zo](https://open.spotify.com/album/7xKzouEH5bu5SN4E7QOxJF) | 2:05 | 2025-07-17 | 2025-08-15 |
@@ -650,7 +651,7 @@
 | [Ren & Stimpy](https://open.spotify.com/track/0f4ebxJoebCa0CUfSB8UJ0) | [Dada 7x](https://open.spotify.com/artist/3tsm4RW17sqEVfUPjIGb6K) | [Ren & Stimpy](https://open.spotify.com/album/6CWS6wVOHWqbZA1vCi5a6z) | 3:19 | 2026-08-20 | 2026-10-23 |
 | [Rennen](https://open.spotify.com/track/0tyHIFigPatIM80OubyrNA) | [WV](https://open.spotify.com/artist/2xWvtE4mK5ZQTT86pB99Mh) | [Rennen](https://open.spotify.com/album/3buDq4TxAV5SD0CxnxFCII) | 2:23 | 2025-11-13 | 2025-12-12 |
 | [Reputatie](https://open.spotify.com/track/6GswjjMeNBVHpk57bw6lLq) | [YS](https://open.spotify.com/artist/0tJ0McP1fjNvSzlGAVtMfc), [HB The Plug](https://open.spotify.com/artist/17fsAjYzpvI7C5M1D8T34T) | [Reputatie](https://open.spotify.com/album/3G8ZsWOkfxEWkxSqvLq5Cp) | 2:11 | 2025-08-07 | 2025-09-05 |
-| [Rest](https://open.spotify.com/track/4BImskzTxVoHmruNNGVekd) | [JR](https://open.spotify.com/artist/1uBVAOArtDJV3NOliZbEyN) | [REST](https://open.spotify.com/album/3YKGounU4dfyFonglKYYJa) | 2:06 | 2026-11-12 |  |
+| [Rest](https://open.spotify.com/track/4BImskzTxVoHmruNNGVekd) | [JR](https://open.spotify.com/artist/1uBVAOArtDJV3NOliZbEyN) | [REST](https://open.spotify.com/album/3YKGounU4dfyFonglKYYJa) | 2:06 | 2026-11-12 | 2026-11-14 |
 | [Richard](https://open.spotify.com/track/3h4kL7dZVHZyU1Cb4IPQ0j) | [Johnny Sellah](https://open.spotify.com/artist/0INETKNJYPVfrzAnOuo9H4) | [Richard](https://open.spotify.com/album/2UatcdPXHsmDzv46YmNCEV) | 4:15 | 2026-09-17 | 2026-11-13 |
 | [Richting BE](https://open.spotify.com/track/0eJXUFHGlWd8vOcmfBTKY5) | [fbizzy](https://open.spotify.com/artist/63sWIruFZprBajHYnJzUN5), [Boufi](https://open.spotify.com/artist/2MdgZ3w54OVxWs8C0wdBFK) | [Richting BE](https://open.spotify.com/album/0QMMVtKMvQmazSnXJ2iWer) | 2:28 | 2026-07-02 | 2026-09-11 |
 | [Robin van Persie](https://open.spotify.com/track/2Q1DdhOiqd8jCdjUxdqTka) | [Brunzyn](https://open.spotify.com/artist/34zjBncq7MEAoNwsM1DMU9) | [Robin van Persie](https://open.spotify.com/album/1l4PTuHMIrTSDgHShraGk5) | 2:12 | 2026-04-23 | 2026-05-22 |

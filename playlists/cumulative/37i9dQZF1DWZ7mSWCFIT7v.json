@@ -7584,7 +7584,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 160263,
       "name": "Pink Bape Lighter",
       "url": "https://open.spotify.com/track/4N9U71O0mWNEDRKVVrQwBi"
@@ -10471,6 +10471,24 @@
     },
     {
       "album": {
+        "name": "Smog Magic",
+        "url": "https://open.spotify.com/album/4QQ1FpRkHAUVPiUHhwhNId"
+      },
+      "artists": [
+        {
+          "name": "Next To Blue",
+          "url": "https://open.spotify.com/artist/651bTRrM7AWeYldvSxdHco"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360000,
+      "name": "Transdermal Nicotine Patch",
+      "url": "https://open.spotify.com/track/6bWLKheJlxNGsauZhYakHF"
+    },
+    {
+      "album": {
         "name": "Canone Infinito Xtended",
         "url": "https://open.spotify.com/album/0e4LkbjCZ3pEEjFSpXQGn1"
       },
@@ -10898,6 +10916,24 @@
       "duration_ms": 320933,
       "name": "Underwater Lament",
       "url": "https://open.spotify.com/track/6XGampcg3mqZPlDAUdJzlg"
+    },
+    {
+      "album": {
+        "name": "Unemployment for the Afternoon",
+        "url": "https://open.spotify.com/album/14KIgCPW7fQ4QuzJFWuHpM"
+      },
+      "artists": [
+        {
+          "name": "amr*",
+          "url": "https://open.spotify.com/artist/0kF6bJSd6U5gn9jgl7rPdI"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281000,
+      "name": "Unemployment for the Afternoon",
+      "url": "https://open.spotify.com/track/24P8fj5xGG5wo8TtWKvses"
     },
     {
       "album": {
@@ -11354,7 +11390,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 340000,
       "name": "Wave Jumper",
       "url": "https://open.spotify.com/track/6EF3wIV1qpRYgPXlXbyAxl"

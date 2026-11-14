@@ -4,7 +4,7 @@
 
 > Get cozy met deze playlist vol herfst hits! Met muziek van Sienna Spiro , Ilse DeLange,  Noah Kahan en meer...
 
-478 songs - 1 day 2 hr 23 min
+483 songs - 1 day 2 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Body](https://open.spotify.com/track/3hH3ypxqE0JwYq4mfyYmlD) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Body](https://open.spotify.com/album/77lRJx359HvAd8fcFqbbO8) | 3:14 | 2025-08-29 | 2025-09-23 |
 | [Bones](https://open.spotify.com/track/2iy3Qsydsu8slAoZV2BGOu) | [Josua Peter](https://open.spotify.com/artist/1cOAQlxoO4hLqaCHeJEDFt) | [Bones](https://open.spotify.com/album/3IMp2eLKnPqzMkE2P6IIOu) | 2:51 | 2025-11-07 | 2026-03-25 |
 | [Born For You](https://open.spotify.com/track/6P4KOxSNS12SAa0zYExbwZ) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Born For You](https://open.spotify.com/album/5mCXq7JbA0KKtXNJXe5I5r) | 2:35 | 2026-10-02 |  |
+| [Boys](https://open.spotify.com/track/2yhJUgl9HczS3gLAYStMbt) | [Josua Peter](https://open.spotify.com/artist/1cOAQlxoO4hLqaCHeJEDFt) | [Boys](https://open.spotify.com/album/4k0kJvdKs7WzyVkbItks8C) | 3:11 | 2026-11-13 |  |
 | [Brazilian Walk](https://open.spotify.com/track/4i55bEPbGZSWt3r2zZ7Mbp) | [Lewis OfMan](https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg) | [Summer Walk](https://open.spotify.com/album/6sYA2m1M0NNXMoHzHXu2f3) | 5:12 | 2026-07-27 | 2026-09-03 |
 | [Brother](https://open.spotify.com/track/3JSNvRfLyEk2JzJgira7rP) | [DI\-RECT](https://open.spotify.com/artist/0d1nFNO90pwRmCeeqjOx2Q) | [I: Keep The Fire On](https://open.spotify.com/album/73PTFhVbYlekS974F7GmSG) | 6:23 | 2026-10-09 |  |
 | [Busy Woman](https://open.spotify.com/track/0b0Dz0Gi86SVdBxYeiQcCP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet \(Deluxe\)](https://open.spotify.com/album/3WzBIQmn2hrulLeTY9smkk) | 3:06 | 2025-07-17 | 2026-09-10 |
@@ -116,6 +117,7 @@
 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 | 2025-07-17 | 2025-09-23 |
 | [Evergreen](https://open.spotify.com/track/55z3ChHdosGm28ieptmg7E) | [Ilse DeLange](https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx) | [Evergreen](https://open.spotify.com/album/50bF97TPPv2zeUecGGEkZg) | 3:12 | 2026-03-13 | 2026-03-25 |
 | [Everybody Scream](https://open.spotify.com/track/5I7zhiRLOa8VqBwyuVtfJW) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Everybody Scream](https://open.spotify.com/album/5u1NqZCwMNykkWMrCaR4bu) | 4:04 | 2025-09-22 | 2025-10-11 |
+| [Everyone's Invited](https://open.spotify.com/track/2haRBhKu8xM9fpV9CboS0w) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [East Houston Tapes](https://open.spotify.com/album/0mDy6JlxU2s7hImnrXtnj0) | 2:30 | 2026-11-13 |  |
 | [Everyone’s A Star!](https://open.spotify.com/track/1A1PKRd7QNAuZTVFVowK5G) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [EVERYONE'S A STAR!](https://open.spotify.com/album/0zkgIyTdpvOpV5z4oK7c2j) | 3:15 | 2026-01-23 | 2026-02-13 |
 | [Everywhere](https://open.spotify.com/track/4DCyrNG1ES4OgSTVKqV1ry) | [Max Allais](https://open.spotify.com/artist/1q6Erwlg8yTeH3XgngViVn) | [Everywhere](https://open.spotify.com/album/7uLIghq9RLxslNEKNNlpOh) | 3:19 | 2025-11-03 | 2026-01-15 |
 | [expectations \(feat\. Chappell Roan\)](https://open.spotify.com/track/3XmwAZpIMNpTJy8faw3ajD) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG), [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [expectations \(feat\. Chappell Roan\)](https://open.spotify.com/album/1q9LM9xC5ebSY216u31FOx) | 3:43 | 2026-10-16 |  |
@@ -165,6 +167,7 @@
 | [Heart of Gold](https://open.spotify.com/track/39AfsBXaRa8JZhl46bKGGN) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Heart of Gold](https://open.spotify.com/album/5OFrWDpHvOkYyllO3AKPtS) | 2:51 | 2025-09-22 | 2026-06-12 |
 | [Henry, come on](https://open.spotify.com/track/6CYldrsUPBsiPtfLW4xZCl) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Henry, come on](https://open.spotify.com/album/0oCEyDEDeBFKxbwEmE9f5e) | 5:11 | 2026-01-23 | 2026-04-11 |
 | [Here All Night](https://open.spotify.com/track/1MnYnayoEmTfZTM7GoPJGM) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Here All Night](https://open.spotify.com/album/0caOziV0fbBR8OuU9SDiSS) | 2:56 | 2025-09-12 | 2025-09-23 |
+| [Here Then We're Gone \- From The Hunger Games: Sunrise on the Reaping \- The Album](https://open.spotify.com/track/6xNzyD86vjr7FFaW7uk83G) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8), [The Hunger Games](https://open.spotify.com/artist/6UdECsev3yuXe2rfLrdDiF) | [Here Then We're Gone](https://open.spotify.com/album/2U94N59iUPCBcaeFFPO1e6) | 4:06 | 2026-11-13 |  |
 | [Here You Come, There You Go](https://open.spotify.com/track/2zUjgk6YpHn78MCzkj4R5B) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Here You Come, There You Go](https://open.spotify.com/album/2Qj0IRHX4YllH22PNlmaBQ) | 2:50 | 2026-10-30 |  |
 | [Heya](https://open.spotify.com/track/1phV9t2iyMfjXxGygcQ75k) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Palace for the People](https://open.spotify.com/album/1qog58rW47hLVPpG63TLyS) | 4:39 | 2026-10-12 | 2026-10-23 |
 | [High Hopes 3000](https://open.spotify.com/track/1dKUibfoGwiApjEYJhB9R2) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [High Hopes 3000](https://open.spotify.com/album/1wNw84HV2GGAhuf6ROgRgu) | 4:05 | 2026-06-11 |  |
@@ -270,6 +273,7 @@
 | [My Madonna](https://open.spotify.com/track/12NNsOzaZNU8JO5VdKZ56m) | [Charlie Jeer](https://open.spotify.com/artist/3h9jrx2NF7x7EkNDZAn2De) | [My Madonna](https://open.spotify.com/album/5qZCV0KCzY0lUd38FafCYJ) | 3:13 | 2026-04-29 | 2026-09-03 |
 | [My Moon My Man](https://open.spotify.com/track/4fQVQKIiidREPI0MhFEuDn) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [The Reminder](https://open.spotify.com/album/27Y2wm3WcFThQocgjLI5wF) | 3:48 | 2026-02-05 | 2026-07-28 |
 | [My Muse](https://open.spotify.com/track/22c6Yop5YVEAhw8UG6O1W1) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [PHOLKS](https://open.spotify.com/album/6ph5zbGAudn0EKyw3vXbXM) | 2:45 | 2026-01-23 | 2026-02-21 |
+| [my way](https://open.spotify.com/track/5Vjs0P53pvEEgW2UZrPPB3) | [Sparklmami](https://open.spotify.com/artist/50NGgQQCV0QLrOefzyuNh0) | [my way](https://open.spotify.com/album/5pjEx3WX4Oncc6slRwBIbc) | 2:40 | 2026-11-13 |  |
 | [Natural Disaster](https://open.spotify.com/track/1GzENjFiUZL7O6jreawkQE) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Natural Disaster](https://open.spotify.com/album/1SqQrfSJRJZKRFi2gSoYDK) | 3:02 | 2026-02-02 | 2026-03-25 |
 | [Never Been Better](https://open.spotify.com/track/5D6qQXww5siYkd2YyJpLEf) | [RONDÉ](https://open.spotify.com/artist/4hj9dun9KpnBukLv7Hgfkr) | [Never Been Better](https://open.spotify.com/album/5Bzfi69AAAg0v7o6IIDWGb) | 2:59 | 2025-11-07 | 2026-03-25 |
 | [Never Forget You](https://open.spotify.com/track/2j5qmVNEUwsdOWeSIAYWUT) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Never Forget You](https://open.spotify.com/album/5AI1a7reUwdeJZRS5h9LcR) | 3:04 | 2025-08-11 | 2025-10-11 |
@@ -430,6 +434,7 @@
 | [Tom and Jerry](https://open.spotify.com/track/071WCTT7JXeHRFjMMX5MaT) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Tom and Jerry](https://open.spotify.com/album/5PflBP4GjYSCtb54nCdra0) | 3:51 | 2026-10-23 |  |
 | [Tonight](https://open.spotify.com/track/3v2dHPoXhfVVZ6HQBfjQOh) | [Son Mieux](https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc) | [Tonight](https://open.spotify.com/album/6z8SVwxBPHJMEI6jv95m8X) | 4:32 | 2025-09-22 | 2026-03-25 |
 | [Too Far](https://open.spotify.com/track/6JbakVstWcT88jIg5kUyXg) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [Too Far](https://open.spotify.com/album/7yjifx3MT8tVacaPBd7rY4) | 3:00 | 2025-11-21 | 2026-02-03 |
+| [Torn \(feat\. Dolly Parton\)](https://open.spotify.com/track/1fAgQxNa31NtikQz7L91Rr) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Torn \(feat\. Dolly Parton\)](https://open.spotify.com/album/1L5AoeTTV260aoOotq9btW) | 4:30 | 2026-11-13 |  |
 | [Tornado](https://open.spotify.com/track/5c2ns82nxF2pg59M5DkuSM) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Tornado](https://open.spotify.com/album/2zQhdFu3XNlJe6hvZwKQ6U) | 2:54 | 2026-06-12 | 2026-09-10 |
 | [Tot Sluit](https://open.spotify.com/track/5F20cnv9WGzTQeFVp4BGGU) | [Nachtdienst](https://open.spotify.com/artist/3064mDVay7KaKF8TyuD8kw), [Amelie](https://open.spotify.com/artist/34R5rx4TvQmpxz3fyRfiKu) | [Tot Sluit](https://open.spotify.com/album/3ofGWWX6sA0lzGhoIJa0Kg) | 2:22 | 2026-08-21 |  |
 | [Toveren](https://open.spotify.com/track/0cvdKcx2P7hi508TQGgfHe) | [Herman van Veen](https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh), [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Toveren](https://open.spotify.com/album/3Rsdgs47XvTFYO5hS86J5Z) | 2:58 | 2025-09-26 | 2026-02-03 |

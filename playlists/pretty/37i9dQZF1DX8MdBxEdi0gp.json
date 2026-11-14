@@ -1,6 +1,6 @@
 {
   "description": "Con el mismo saz\u00f3n y amor que una sopita de fideo.",
-  "num_followers": 180106,
+  "num_followers": 180131,
   "original_name": "La Cocina de la Abuela",
   "owner": {
     "name": "Spotify",
@@ -239,22 +239,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Sus 16 Grandes Exitos",
-        "url": "https://open.spotify.com/album/1QXxmsxolhkqiFtI1mpX4i"
-      },
-      "artists": [
-        {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
-        }
-      ],
-      "duration_ms": 219106,
-      "name": "La Gata Bajo la Lluvia",
-      "url": "https://open.spotify.com/track/2kfSFdq2h0xLXq01em1zc7"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "iCollection",
         "url": "https://open.spotify.com/album/0vFB9bkeOurUUvOvIwUbnW"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 201160,
       "name": "Porque te vas",
       "url": "https://open.spotify.com/track/7vQZSwm9WRCHoPwUUuwkvv"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "Sus 16 Grandes Exitos",
+        "url": "https://open.spotify.com/album/1QXxmsxolhkqiFtI1mpX4i"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+        }
+      ],
+      "duration_ms": 219106,
+      "name": "La Gata Bajo la Lluvia",
+      "url": "https://open.spotify.com/track/2kfSFdq2h0xLXq01em1zc7"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -319,22 +319,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Tiempo de oto\u00f1o",
-        "url": "https://open.spotify.com/album/4VBcX1U9nmizKpTSlcrXua"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Luis Perales",
-          "url": "https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP"
-        }
-      ],
-      "duration_ms": 222600,
-      "name": "Un Velero Llamado Libertad",
-      "url": "https://open.spotify.com/track/2eKBLX1uF9PgvJ6qqGwmRZ"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "Amor Libre",
         "url": "https://open.spotify.com/album/2EKOijjOeD2UQ9gXAp1xF8"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 170800,
       "name": "Melina",
       "url": "https://open.spotify.com/track/3utK0tH0YhlB5fIjdy3em7"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "Tiempo de oto\u00f1o",
+        "url": "https://open.spotify.com/album/4VBcX1U9nmizKpTSlcrXua"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Luis Perales",
+          "url": "https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP"
+        }
+      ],
+      "duration_ms": 222600,
+      "name": "Un Velero Llamado Libertad",
+      "url": "https://open.spotify.com/track/2eKBLX1uF9PgvJ6qqGwmRZ"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -403,22 +403,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Un Gato En La Oscuridad",
-        "url": "https://open.spotify.com/album/6QehPjFB3Q8uH2btA35cQm"
-      },
-      "artists": [
-        {
-          "name": "Roberto Carlos",
-          "url": "https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65"
-        }
-      ],
-      "duration_ms": 308133,
-      "name": "Detalles (Detalhes)",
-      "url": "https://open.spotify.com/track/4tAwP9QKeLEQJ2fgd1RWcY"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "Sentimientos",
         "url": "https://open.spotify.com/album/4jaAmmz5L8AlfaLpZJ7Mf3"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 210133,
       "name": "Vivir As\u00ed Es Morir de Amor",
       "url": "https://open.spotify.com/track/3yzHIAzk3zVE1WgspS8W21"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "Un Gato En La Oscuridad",
+        "url": "https://open.spotify.com/album/6QehPjFB3Q8uH2btA35cQm"
+      },
+      "artists": [
+        {
+          "name": "Roberto Carlos",
+          "url": "https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65"
+        }
+      ],
+      "duration_ms": 308133,
+      "name": "Detalles (Detalhes)",
+      "url": "https://open.spotify.com/track/4tAwP9QKeLEQJ2fgd1RWcY"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -483,22 +483,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Serie Diamante (USA)",
-        "url": "https://open.spotify.com/album/2fgUn3x6HujXAP2AXxMoer"
-      },
-      "artists": [
-        {
-          "name": "Los Solitarios",
-          "url": "https://open.spotify.com/artist/5oXtNxxScsHb1cRjqqfcMj"
-        }
-      ],
-      "duration_ms": 173506,
-      "name": "Mi amor es para ti",
-      "url": "https://open.spotify.com/track/7pVViW51vp66dqaBRkmAv7"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "Peerless 80 Aniversario - 24 Exitos Vol. 2",
         "url": "https://open.spotify.com/album/4r7lKZlexihhW6tGY89UoO"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 190613,
       "name": "Fue en un caf\u00e9 - Under the Boardwalk",
       "url": "https://open.spotify.com/track/6xzsOx1wiwlzFMbBSHPndb"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "Serie Diamante (USA)",
+        "url": "https://open.spotify.com/album/2fgUn3x6HujXAP2AXxMoer"
+      },
+      "artists": [
+        {
+          "name": "Los Solitarios",
+          "url": "https://open.spotify.com/artist/5oXtNxxScsHb1cRjqqfcMj"
+        }
+      ],
+      "duration_ms": 173506,
+      "name": "Mi amor es para ti",
+      "url": "https://open.spotify.com/track/7pVViW51vp66dqaBRkmAv7"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -855,22 +855,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Todo... Vol. 1 (Remastered)",
-        "url": "https://open.spotify.com/album/0DhSrqef804U8ZoAT7Hqiz"
-      },
-      "artists": [
-        {
-          "name": "Organizaci\u00f3n Genesis",
-          "url": "https://open.spotify.com/artist/3ODA1BEMLHdea29BorDZ9H"
-        }
-      ],
-      "duration_ms": 182666,
-      "name": "Juguete Caro - Remastered",
-      "url": "https://open.spotify.com/track/4ip5GH0VwU9TiBtJTxFAcT"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "S\u00f3lo para enamorados",
         "url": "https://open.spotify.com/album/0aKX7SIu3MGX01ST8NANy8"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 190840,
       "name": "Tri\u00e1ngulo",
       "url": "https://open.spotify.com/track/24VnFu3wCGaUYsR8LyBgIi"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "Todo... Vol. 1 (Remastered)",
+        "url": "https://open.spotify.com/album/0DhSrqef804U8ZoAT7Hqiz"
+      },
+      "artists": [
+        {
+          "name": "Organizaci\u00f3n Genesis",
+          "url": "https://open.spotify.com/artist/3ODA1BEMLHdea29BorDZ9H"
+        }
+      ],
+      "duration_ms": 182666,
+      "name": "Juguete Caro - Remastered",
+      "url": "https://open.spotify.com/track/4ip5GH0VwU9TiBtJTxFAcT"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
+        "name": "Rocio Banquells",
+        "url": "https://open.spotify.com/album/2XWgQoX6V3MDSm9dGZGkGz"
+      },
+      "artists": [
+        {
+          "name": "Rocio Banquells",
+          "url": "https://open.spotify.com/artist/0WaPMyYYZZ7yxzG1qhZ5kz"
+        }
+      ],
+      "duration_ms": 251306,
+      "name": "Abr\u00e1zame",
+      "url": "https://open.spotify.com/track/1SGYSOwGX3PPkJc5ihY2zp"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
         "name": "Querido Pablo",
         "url": "https://open.spotify.com/album/6TRGz0g8v91FdG5Re8y7yh"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 242960,
       "name": "El Breve Espacio en Que No Estas",
       "url": "https://open.spotify.com/track/0ZKHCt987c5ili0AegnZbb"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
-        "name": "Rocio Banquells",
-        "url": "https://open.spotify.com/album/2XWgQoX6V3MDSm9dGZGkGz"
-      },
-      "artists": [
-        {
-          "name": "Rocio Banquells",
-          "url": "https://open.spotify.com/artist/0WaPMyYYZZ7yxzG1qhZ5kz"
-        }
-      ],
-      "duration_ms": 251306,
-      "name": "Abr\u00e1zame",
-      "url": "https://open.spotify.com/track/1SGYSOwGX3PPkJc5ihY2zp"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
+        "name": "Peerless 80 Aniversario - 24 Inolvidables",
+        "url": "https://open.spotify.com/album/0Cnpcp3SN5a70u53QF8HHh"
+      },
+      "artists": [
+        {
+          "name": "Los Freddy's",
+          "url": "https://open.spotify.com/artist/6Pg8M1zA3uDn0h5IOFc3pe"
+        }
+      ],
+      "duration_ms": 206226,
+      "name": "El cari\u00f1o que perd\u00ed",
+      "url": "https://open.spotify.com/track/0xLGntT2SAng3TPNYS9RVw"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
         "name": "La M\u00e1s Completa Colecci\u00f3n (Disc 2 - Mexico)",
         "url": "https://open.spotify.com/album/3BiU9Rlr6rLAAUPoaCMt8n"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 198106,
       "name": "Castillos en el aire",
       "url": "https://open.spotify.com/track/39tN3TRbpPvm4rqdMn7hZ9"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
-        "name": "Peerless 80 Aniversario - 24 Inolvidables",
-        "url": "https://open.spotify.com/album/0Cnpcp3SN5a70u53QF8HHh"
-      },
-      "artists": [
-        {
-          "name": "Los Freddy's",
-          "url": "https://open.spotify.com/artist/6Pg8M1zA3uDn0h5IOFc3pe"
-        }
-      ],
-      "duration_ms": 206226,
-      "name": "El cari\u00f1o que perd\u00ed",
-      "url": "https://open.spotify.com/track/0xLGntT2SAng3TPNYS9RVw"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Coleccion Original",
-        "url": "https://open.spotify.com/album/28wthJnyrnWWG8UkwJ2LiK"
-      },
-      "artists": [
-        {
-          "name": "Jorge Negrete",
-          "url": "https://open.spotify.com/artist/4W5RbLZybsLfAzE7QqdibE"
-        }
-      ],
-      "duration_ms": 186346,
-      "name": "Flor de Azalea",
-      "url": "https://open.spotify.com/track/7EccAiD4tFrEx5gEmKGS55"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "RCA 100 A\u00f1os De Musica",
         "url": "https://open.spotify.com/album/6kmo9ICrHMtTWTr6AghTa2"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 182626,
       "name": "A D\u00f3nde Va Nuestro Amor?",
       "url": "https://open.spotify.com/track/4y5SzY2HuX5UM4cFJTkaxS"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "Coleccion Original",
+        "url": "https://open.spotify.com/album/28wthJnyrnWWG8UkwJ2LiK"
+      },
+      "artists": [
+        {
+          "name": "Jorge Negrete",
+          "url": "https://open.spotify.com/artist/4W5RbLZybsLfAzE7QqdibE"
+        }
+      ],
+      "duration_ms": 186346,
+      "name": "Flor de Azalea",
+      "url": "https://open.spotify.com/track/7EccAiD4tFrEx5gEmKGS55"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -1779,22 +1779,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Album de Platino... 20 Super Exitos",
-        "url": "https://open.spotify.com/album/0ft9IayGb8o8Ix79tG6vNq"
-      },
-      "artists": [
-        {
-          "name": "Grupo Miramar",
-          "url": "https://open.spotify.com/artist/4QGAXPnVeZWcJ82CgUsgcK"
-        }
-      ],
-      "duration_ms": 174853,
-      "name": "Una Lagrima y un Recuerdo",
-      "url": "https://open.spotify.com/track/3PqXGMO8t9lpGN6g8YBUuV"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "Personalidad",
         "url": "https://open.spotify.com/album/2Z3yiPCELhCreq4tgPqK9O"
       },
@@ -1807,6 +1791,22 @@
       "duration_ms": 237946,
       "name": "D\u00f3nde Est\u00e1s Coraz\u00f3n?",
       "url": "https://open.spotify.com/track/6mIqd7D0OQZn1Fn3UoBdRW"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "Album de Platino... 20 Super Exitos",
+        "url": "https://open.spotify.com/album/0ft9IayGb8o8Ix79tG6vNq"
+      },
+      "artists": [
+        {
+          "name": "Grupo Miramar",
+          "url": "https://open.spotify.com/artist/4QGAXPnVeZWcJ82CgUsgcK"
+        }
+      ],
+      "duration_ms": 174853,
+      "name": "Una Lagrima y un Recuerdo",
+      "url": "https://open.spotify.com/track/3PqXGMO8t9lpGN6g8YBUuV"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -1891,22 +1891,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "La M\u00e1s Completa Colecci\u00f3n",
-        "url": "https://open.spotify.com/album/67aE1BSpSmbkOsfyea2rMT"
-      },
-      "artists": [
-        {
-          "name": "Los Terricolas",
-          "url": "https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m"
-        }
-      ],
-      "duration_ms": 229306,
-      "name": "Hoy Te Confieso",
-      "url": "https://open.spotify.com/track/3JKIPPWFQALCZj7TOagabC"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "15 Canciones Favoritas",
         "url": "https://open.spotify.com/album/1lDKPKdPnDIAiNw5T3Lp8C"
       },
@@ -1923,50 +1907,18 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "2 en 1 (Amigo Mio, Cuenta Conmigo)",
-        "url": "https://open.spotify.com/album/6WEYYj4KpgQEvkPMIomeih"
+        "name": "La M\u00e1s Completa Colecci\u00f3n",
+        "url": "https://open.spotify.com/album/67aE1BSpSmbkOsfyea2rMT"
       },
       "artists": [
         {
-          "name": "Angela Carrasco",
-          "url": "https://open.spotify.com/artist/1MtgoOhWrRaiNm4d3y3W3W"
+          "name": "Los Terricolas",
+          "url": "https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m"
         }
       ],
-      "duration_ms": 331400,
-      "name": "Callados",
-      "url": "https://open.spotify.com/track/7afLIGLOQUhXMruh8XByhL"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
-        "name": "Las Rancheras De Juan Gabriel",
-        "url": "https://open.spotify.com/album/7D3jvm4H4nCIY9Fq7ERRUU"
-      },
-      "artists": [
-        {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
-        }
-      ],
-      "duration_ms": 180320,
-      "name": "Fue un Placer Conocerte",
-      "url": "https://open.spotify.com/track/6lDo6f5jT5b4lBRu8HAhQ9"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
-        "name": "Las 5 mejores",
-        "url": "https://open.spotify.com/album/2EJAzMWleSFIeRfi6CuPlf"
-      },
-      "artists": [
-        {
-          "name": "Karina",
-          "url": "https://open.spotify.com/artist/7kL7lbaqaHIUB3Ol5YU69a"
-        }
-      ],
-      "duration_ms": 139680,
-      "name": "\u00a1Oh! Carol",
-      "url": "https://open.spotify.com/track/0kdio5dhabYhLtzK1H5srr"
+      "duration_ms": 229306,
+      "name": "Hoy Te Confieso",
+      "url": "https://open.spotify.com/track/3JKIPPWFQALCZj7TOagabC"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -1987,6 +1939,38 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
+        "name": "2 en 1 (Amigo Mio, Cuenta Conmigo)",
+        "url": "https://open.spotify.com/album/6WEYYj4KpgQEvkPMIomeih"
+      },
+      "artists": [
+        {
+          "name": "Angela Carrasco",
+          "url": "https://open.spotify.com/artist/1MtgoOhWrRaiNm4d3y3W3W"
+        }
+      ],
+      "duration_ms": 331400,
+      "name": "Callados",
+      "url": "https://open.spotify.com/track/7afLIGLOQUhXMruh8XByhL"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "Las 5 mejores",
+        "url": "https://open.spotify.com/album/2EJAzMWleSFIeRfi6CuPlf"
+      },
+      "artists": [
+        {
+          "name": "Karina",
+          "url": "https://open.spotify.com/artist/7kL7lbaqaHIUB3Ol5YU69a"
+        }
+      ],
+      "duration_ms": 139680,
+      "name": "\u00a1Oh! Carol",
+      "url": "https://open.spotify.com/track/0kdio5dhabYhLtzK1H5srr"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
         "name": "15 Canciones Favoritas",
         "url": "https://open.spotify.com/album/1lDKPKdPnDIAiNw5T3Lp8C"
       },
@@ -1999,6 +1983,22 @@
       "duration_ms": 208333,
       "name": "El Muchacho de los Ojos Tristes",
       "url": "https://open.spotify.com/track/3DWkS3HT9Z0kE4z1tMGxaJ"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "Las Rancheras De Juan Gabriel",
+        "url": "https://open.spotify.com/album/7D3jvm4H4nCIY9Fq7ERRUU"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+        }
+      ],
+      "duration_ms": 180320,
+      "name": "Fue un Placer Conocerte",
+      "url": "https://open.spotify.com/track/6lDo6f5jT5b4lBRu8HAhQ9"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -2067,18 +2067,18 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Para Ti",
-        "url": "https://open.spotify.com/album/0qhnQyxYMnPvldjR0x0Ofe"
+        "name": "Leo Dan",
+        "url": "https://open.spotify.com/album/2mIvaxQyw5981NkX8EsiSY"
       },
       "artists": [
         {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+          "name": "Leo Dan",
+          "url": "https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2"
         }
       ],
-      "duration_ms": 258666,
-      "name": "El Noa Noa",
-      "url": "https://open.spotify.com/track/1wCddPsdYzh8fBUuxgE7UD"
+      "duration_ms": 183133,
+      "name": "Esa Pared",
+      "url": "https://open.spotify.com/track/5YrA2ybLaKSQmfvnVTCz16"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -2099,34 +2099,18 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Leo Dan",
-        "url": "https://open.spotify.com/album/2mIvaxQyw5981NkX8EsiSY"
+        "name": "Para Ti",
+        "url": "https://open.spotify.com/album/0qhnQyxYMnPvldjR0x0Ofe"
       },
       "artists": [
         {
-          "name": "Leo Dan",
-          "url": "https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2"
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
         }
       ],
-      "duration_ms": 183133,
-      "name": "Esa Pared",
-      "url": "https://open.spotify.com/track/5YrA2ybLaKSQmfvnVTCz16"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
-        "name": "Las Estrellas Del Fonografo RCA Victor",
-        "url": "https://open.spotify.com/album/057uMF0PBt1w7hg04v5lJy"
-      },
-      "artists": [
-        {
-          "name": "Joselito",
-          "url": "https://open.spotify.com/artist/2ptIxlKIEvy7k7qhPy4Khq"
-        }
-      ],
-      "duration_ms": 155786,
-      "name": "Ego\u00edsmo",
-      "url": "https://open.spotify.com/track/2rKv1hF2MDjSkukvh26dID"
+      "duration_ms": 258666,
+      "name": "El Noa Noa",
+      "url": "https://open.spotify.com/track/1wCddPsdYzh8fBUuxgE7UD"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -2147,18 +2131,34 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Lorenzo Antonio",
-        "url": "https://open.spotify.com/album/73csnZhr57qLy2DH5bTXbk"
+        "name": "Las Estrellas Del Fonografo RCA Victor",
+        "url": "https://open.spotify.com/album/057uMF0PBt1w7hg04v5lJy"
       },
       "artists": [
         {
-          "name": "Lorenzo Antonio",
-          "url": "https://open.spotify.com/artist/4oYvz8seCf2B2JEyB0GIX4"
+          "name": "Joselito",
+          "url": "https://open.spotify.com/artist/2ptIxlKIEvy7k7qhPy4Khq"
         }
       ],
-      "duration_ms": 157988,
-      "name": "L\u00e1grimas De Juventud",
-      "url": "https://open.spotify.com/track/2wubrsC4bvOZ0ZbQ8y931c"
+      "duration_ms": 155786,
+      "name": "Ego\u00edsmo",
+      "url": "https://open.spotify.com/track/2rKv1hF2MDjSkukvh26dID"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "Canci\u00f3n para una esposa triste",
+        "url": "https://open.spotify.com/album/0L5mZ1bD6QWx3Fx2wZgai7"
+      },
+      "artists": [
+        {
+          "name": "Clemencia Torres",
+          "url": "https://open.spotify.com/artist/0c1FTsFR3DaD71wT3Ax4F7"
+        }
+      ],
+      "duration_ms": 223746,
+      "name": "Canci\u00f3n para una esposa triste",
+      "url": "https://open.spotify.com/track/4ko8FYjfliwHI1GrjY5YjE"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -2179,18 +2179,18 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Canci\u00f3n para una esposa triste",
-        "url": "https://open.spotify.com/album/0L5mZ1bD6QWx3Fx2wZgai7"
+        "name": "Lorenzo Antonio",
+        "url": "https://open.spotify.com/album/73csnZhr57qLy2DH5bTXbk"
       },
       "artists": [
         {
-          "name": "Clemencia Torres",
-          "url": "https://open.spotify.com/artist/0c1FTsFR3DaD71wT3Ax4F7"
+          "name": "Lorenzo Antonio",
+          "url": "https://open.spotify.com/artist/4oYvz8seCf2B2JEyB0GIX4"
         }
       ],
-      "duration_ms": 223746,
-      "name": "Canci\u00f3n para una esposa triste",
-      "url": "https://open.spotify.com/track/4ko8FYjfliwHI1GrjY5YjE"
+      "duration_ms": 157988,
+      "name": "L\u00e1grimas De Juventud",
+      "url": "https://open.spotify.com/track/2wubrsC4bvOZ0ZbQ8y931c"
     },
     {
       "added_at": "2024-07-11 01:42:53",

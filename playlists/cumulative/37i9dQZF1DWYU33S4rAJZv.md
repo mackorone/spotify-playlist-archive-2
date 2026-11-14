@@ -4,7 +4,7 @@
 
 > Warm and cozy Christmas Jazz to your hot cup of coffee.
 
-145 songs - 7 hr 33 min
+146 songs - 7 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,6 +149,7 @@
 | [What Are You Doing New Year's Eve?](https://open.spotify.com/track/7pWugR5b4HPXAsDgQ8Kk2A) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb), [Malcolm Addey](https://open.spotify.com/artist/4v0dBZBhhgZctlUGPFOGyH) | [Yesterday's Love Songs, Today's Blues \(Expanded Edition\)](https://open.spotify.com/album/6bcu2oDxVxGNI17MT3pCkw) | 2:26 | 2023-11-28 | 2025-11-04 |
 | [When Snow Starts Falling](https://open.spotify.com/track/5rSRJ8kjOdlT19bnB7JYFR) | [Matt Marantz Quartet](https://open.spotify.com/artist/0UaQ3qnMEuBWsPnbKWJo8V) | [When Snow Starts Falling](https://open.spotify.com/album/3NCuOYt65xPx902T8fPeey) | 3:32 | 2025-10-17 |  |
 | [White Christmas](https://open.spotify.com/track/293XOnIP2OpWLzGC4dmLfE) | [Katharine McPhee](https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre) | [Christmas Is The Time To Say I Love You](https://open.spotify.com/album/3kMWXBaZ2veV8WZDL272DB) | 3:03 | 2023-11-28 |  |
+| [Winter Romance](https://open.spotify.com/track/2ZZ4sobk5gWWHJgAMIXt7A) | [Stella Cole](https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR) | [Winter Romance](https://open.spotify.com/album/1szFel7JNQRqtY3oFeTltQ) | 2:30 | 2026-11-13 |  |
 | [Winter Wonderland](https://open.spotify.com/track/3Z5g0II4PtIdyhLLSRXERg) | [Armel Dupas Trio](https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU) | [Winter Wonderland](https://open.spotify.com/album/1fJInYY8L0zWFIIzpoeVgx) | 2:58 | 2024-11-11 | 2026-11-07 |
 | [Winter Wonderland \- Spotify Singles Holiday](https://open.spotify.com/track/1LmkdWSxjCV7wKTPsCvYWN) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Spotify Singles Holiday](https://open.spotify.com/album/1Ph9nV8cNv7Gq7yHOlmbgh) | 2:12 | 2023-11-28 |  |
 | [With or Without Snow](https://open.spotify.com/track/5VWS9ZodFhonOzebqUsmlR) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa), [Mark Limacher](https://open.spotify.com/artist/2FyolspKay4voViiywFNFs) | [With or Without Snow](https://open.spotify.com/album/3RdAu5tVKAVZjPylF6CRUv) | 2:58 | 2026-11-06 |  |

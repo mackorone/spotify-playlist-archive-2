@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > Frisse Nederlandse pop\. Cover: Adriaan Persons
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,978 likes - 80 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,010 likes - 80 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 3 | [Kleine onmacht](https://open.spotify.com/track/4JzWl4iUetvYWbCZpduX2B) | [Paskal Jakobsen](https://open.spotify.com/artist/22shUi37uDfZmZQ8H6YuWr) | [Kleine onmacht](https://open.spotify.com/album/1hYapLcwriUcWcbwocDxbT) | 3:56 |
 | 4 | [Je hebt me](https://open.spotify.com/track/32LxKBhSYH47khNom8oJ86) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e), [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y) | [DWARS](https://open.spotify.com/album/3D89VeRqTfJzaFXRxnNT3S) | 2:05 |
 | 5 | [Ik Hoop Dat Je Huilt](https://open.spotify.com/track/2DnBJyg8Ta31f3z64tPKX4) | [LUNA](https://open.spotify.com/artist/7eBiPPZezCgV5rrO5x47qf) | [Ik Hoop Dat Je Huilt](https://open.spotify.com/album/4osclViPcBznV8Me9vJ9lq) | 2:53 |
-| 6 | [Track 2](https://open.spotify.com/track/18ic5yHNhwhB15ez95EtkJ) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [Niemands Meisje](https://open.spotify.com/album/2MVb3OLPmLzhGXnfIjunua) | 0:00 |
+| 6 | [Niemands Meisje](https://open.spotify.com/track/18ic5yHNhwhB15ez95EtkJ) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [Niemands Meisje](https://open.spotify.com/album/2MVb3OLPmLzhGXnfIjunua) | 3:02 |
 | 7 | [Onomatopee](https://open.spotify.com/track/3p0A7P4I51QZLubwxv8nzb) | [Pommelien Thijs](https://open.spotify.com/artist/3zGV7t4BDmYZBLVA24487b) | [Onomatopee](https://open.spotify.com/album/5QFY6N5NZf7vWCHHEc2Xmr) | 2:51 |
 | 8 | [Is Dit Nu Later](https://open.spotify.com/track/1nfZ1uJ4SgXlv1arqragMX) | [Thijs Pot](https://open.spotify.com/artist/3nxJAqo44XhsDnBZBXeuvP), [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F), [Nick Schilder](https://open.spotify.com/artist/4pbY2GIsT2jDoVxKqNQcpu) | [Sing With Me \(Aflevering 1\)](https://open.spotify.com/album/1BrpGunw8hzjbp6cRQzRSB) | 2:31 |
 | 9 | [Spijt Komt Later](https://open.spotify.com/track/4vAhRwKWmeAXaoRuoyz9GX) | [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC), [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q) | [Meisje Van Het Noorden](https://open.spotify.com/album/59Htiw60K0NE276cUSguCw) | 2:49 |
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 14 | [Als De Wereld Tegen Ons Is](https://open.spotify.com/track/74j4iu6nWjg91mQYn5MjeB) | [Jasmijn Torrico](https://open.spotify.com/artist/5SIrXx5lWESWersjGYRywZ) | [Als De Wereld Tegen Ons Is](https://open.spotify.com/album/18z7wVRfSypc0Vt3QMdOdv) | 2:46 |
 | 15 | [Roze](https://open.spotify.com/track/5qwIUc2vAc4uub3Iut7iaQ) | [Flaire](https://open.spotify.com/artist/24prX5FxY9YygEvM0AkXOH) | [Roze](https://open.spotify.com/album/3lGXWWtE3mzjuvkBHDS09k) | 2:33 |
 | 16 | [Alleen](https://open.spotify.com/track/1wUDxkCx1zJZLYz71Z5k9g) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Pijnstiller](https://open.spotify.com/album/5QM6B3t3Efdnq2X3vde6ml) | 2:10 |
-| 17 | [Track 4](https://open.spotify.com/track/3I7DwpzJv4Rlh9tUCeWHjO) | [FAY](https://open.spotify.com/artist/2rYvyXWazKzVHanTL5GyCE) | [Plannen Gewijzigd](https://open.spotify.com/album/7y7Q2FR23iHqEUvQlVkzzd) | 0:00 |
+| 17 | [Als Je Wil !](https://open.spotify.com/track/3I7DwpzJv4Rlh9tUCeWHjO) | [FAY](https://open.spotify.com/artist/2rYvyXWazKzVHanTL5GyCE) | [Plannen Gewijzigd](https://open.spotify.com/album/7y7Q2FR23iHqEUvQlVkzzd) | 2:24 |
 | 18 | [Kom Naar Huis](https://open.spotify.com/track/0AiV3GOzUgApmygZJNbw3z) | [The Opposites](https://open.spotify.com/artist/23951Pg9PiLB8Uza3k12g6) | [Kom Naar Huis](https://open.spotify.com/album/6FHcWEqkMZf3sGWyB6YvMl) | 2:47 |
 | 19 | [Pépé Chand](https://open.spotify.com/track/5GalJ2yP97tcdyXjkooBgH) | [Joël Domingos](https://open.spotify.com/artist/5LzkF8ZUuxdSg8BCEwrosb) | [Pépé Chand](https://open.spotify.com/album/1aYE3fwe9XIFuc0Znp4AVL) | 3:25 |
 | 20 | [Wees Voorzichtig Met Mijn Hart](https://open.spotify.com/track/7gKc80RPemdMXkjvMW6bUc) | [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F) | [Wees Voorzichtig Met Mijn Hart](https://open.spotify.com/album/7n2kmd04Cvy0v5fW3K7gAW) | 3:08 |

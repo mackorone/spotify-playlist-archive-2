@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\. Foto: Vaes
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,440 likes - 100 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,529 likes - 100 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 40 | [Para Mi Familia 357](https://open.spotify.com/track/0OgjCJyKXyRKkZ3rci9Hc9) | [Lenny357](https://open.spotify.com/artist/5mJr77O0o0QHkcD24dwCse), [Frank Miami](https://open.spotify.com/artist/036v4kwZy1i0z79JX4or5K), [Andrez Babii](https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8) | [ALÁBALO](https://open.spotify.com/album/47jxIx9cXiqga6pO3ts4ez) | 2:59 |
 | 41 | [Bailar](https://open.spotify.com/track/5kyxhs1o58zZhV8lNCeABT) | [Itala & Juanjo](https://open.spotify.com/artist/3sSYhB0dqTSQoe76KnAgvK), [Itala Rodriguez](https://open.spotify.com/artist/75e1ThT3wnK7zWhUi7vY3w), [Riosquad](https://open.spotify.com/artist/7HPnhzsxsJjACFgz84sUtS) | [Bailar](https://open.spotify.com/album/4CHZ3dBUl0xfzzAE9RjiUs) | 3:36 |
 | 42 | [Cristo Y Nada Más](https://open.spotify.com/track/17IFQbsQ7Z5YrszdGVH7Nx) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo), [Daniel Calveti](https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h) | [Mil Gracias](https://open.spotify.com/album/6zuqReM6uLCSenRfwUrxZT) | 9:21 |
-| 43 | [Cordero Redentor](https://open.spotify.com/track/2h69SKKQRKLmGSekYRTduU) | [Enoc Parra](https://open.spotify.com/artist/2dXm6Fjb3OP6YKDyaF09jM), [APR MUSIC](https://open.spotify.com/artist/2ThXbUNvE0NTnuEgKFI0Oj) | [Fuego en el Altar Vol.2](https://open.spotify.com/album/1kvyDTioHzNZvoiR1dRmd2) | 7:55 |
+| 43 | [Cordero Redentor](https://open.spotify.com/track/2h69SKKQRKLmGSekYRTduU) | [Enoc Parra](https://open.spotify.com/artist/2dXm6Fjb3OP6YKDyaF09jM), [APR MUSIC](https://open.spotify.com/artist/2ThXbUNvE0NTnuEgKFI0Oj) | [Fuego en el Altar Vol\. 2](https://open.spotify.com/album/1kvyDTioHzNZvoiR1dRmd2) | 7:55 |
 | 44 | [Muéstrame \- Live](https://open.spotify.com/track/1eMdusSd1IkcIClhhlpiVc) | [Averly Morillo](https://open.spotify.com/artist/40oCnQkoBkpfTohVnTf40S) | [Muéstrame \(Live\)](https://open.spotify.com/album/5w1yJMGnWGN54gO9PlNvRN) | 8:56 |
 | 45 | [Gloria A Dios Aleluya Amén](https://open.spotify.com/track/3T8ZYvtXYvUgIz37y41DHP) | [Hillsong en Español](https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq) | [Santo Es Su Nombre](https://open.spotify.com/album/27X0U0GsZ7d4dqouOnFesh) | 5:11 |
 | 46 | [Llama de Amor](https://open.spotify.com/track/62wjAskajfnVz6ff2nzMBg) | [Alma Misas](https://open.spotify.com/artist/6Pk2MWzl3iMgIOYxD2yLhy) | [Llama de Amor](https://open.spotify.com/album/0oTzZ8zIhcth6jePIPtjEj) | 4:37 |

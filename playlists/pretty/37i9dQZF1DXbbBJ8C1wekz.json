@@ -1,6 +1,6 @@
 {
   "description": "O trap nacional pra qualquer hora, daquele jeit\u00e3o",
-  "num_followers": 197486,
+  "num_followers": 197555,
   "original_name": "Trap Classe",
   "owner": {
     "name": "Spotify",
@@ -663,18 +663,34 @@
     {
       "added_at": "2026-08-07 14:27:34",
       "album": {
-        "name": "Vagabundo de Luxo",
-        "url": "https://open.spotify.com/album/4xemDx7QFi5hUSETm5auUv"
+        "name": "THE BOX MEDLEY 6",
+        "url": "https://open.spotify.com/album/2PmiISLrQtoayEgazfOEXQ"
       },
       "artists": [
         {
-          "name": "WIU",
-          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+          "name": "THE BOX",
+          "url": "https://open.spotify.com/artist/7gHzR22tDNSWGS4HkvvPgw"
+        },
+        {
+          "name": "Raff\u00e9",
+          "url": "https://open.spotify.com/artist/0BMccF4OSgl180EzdVFY9m"
+        },
+        {
+          "name": "Tchelo",
+          "url": "https://open.spotify.com/artist/77JxPSGO8x7rYEWNZMSSIY"
+        },
+        {
+          "name": "TOKIODK",
+          "url": "https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2"
+        },
+        {
+          "name": "Lipinho Oficial",
+          "url": "https://open.spotify.com/artist/3tgFm4QrXC1zIicYXUqi5q"
         }
       ],
-      "duration_ms": 166153,
-      "name": "Rainha da Finesse",
-      "url": "https://open.spotify.com/track/0w7vodPWFEcuEYvWpbNbOu"
+      "duration_ms": 241799,
+      "name": "THE BOX MEDLEY 6",
+      "url": "https://open.spotify.com/track/507tluWzOtxx58Kb13L9qu"
     },
     {
       "added_at": "2026-08-07 14:27:34",
@@ -739,34 +755,18 @@
     {
       "added_at": "2026-08-07 14:27:34",
       "album": {
-        "name": "THE BOX MEDLEY 6",
-        "url": "https://open.spotify.com/album/2PmiISLrQtoayEgazfOEXQ"
+        "name": "Vagabundo de Luxo",
+        "url": "https://open.spotify.com/album/4xemDx7QFi5hUSETm5auUv"
       },
       "artists": [
         {
-          "name": "THE BOX",
-          "url": "https://open.spotify.com/artist/7gHzR22tDNSWGS4HkvvPgw"
-        },
-        {
-          "name": "Raff\u00e9",
-          "url": "https://open.spotify.com/artist/0BMccF4OSgl180EzdVFY9m"
-        },
-        {
-          "name": "Tchelo",
-          "url": "https://open.spotify.com/artist/77JxPSGO8x7rYEWNZMSSIY"
-        },
-        {
-          "name": "TOKIODK",
-          "url": "https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2"
-        },
-        {
-          "name": "Lipinho Oficial",
-          "url": "https://open.spotify.com/artist/3tgFm4QrXC1zIicYXUqi5q"
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
         }
       ],
-      "duration_ms": 241799,
-      "name": "THE BOX MEDLEY 6",
-      "url": "https://open.spotify.com/track/507tluWzOtxx58Kb13L9qu"
+      "duration_ms": 166153,
+      "name": "Rainha da Finesse",
+      "url": "https://open.spotify.com/track/0w7vodPWFEcuEYvWpbNbOu"
     },
     {
       "added_at": "2026-08-07 14:27:34",
@@ -1127,22 +1127,30 @@
     {
       "added_at": "2026-08-07 14:27:34",
       "album": {
-        "name": "Nois \u00e9 Nois",
-        "url": "https://open.spotify.com/album/42I7nPQNGF5TxZiP8Esk2X"
+        "name": "INEF\u00c1VEL",
+        "url": "https://open.spotify.com/album/1zztQHsfyK0hYA8debeM6X"
       },
       "artists": [
         {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+          "name": "Long beatz",
+          "url": "https://open.spotify.com/artist/1oBkccDqIDMTntIIHKlJBp"
         },
         {
-          "name": "Supernova Ent",
-          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "Leviano",
+          "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
         }
       ],
-      "duration_ms": 120000,
-      "name": "Nois \u00e9 Nois",
-      "url": "https://open.spotify.com/track/1k1egPmIPWQ0J44PWgMDwA"
+      "duration_ms": 245987,
+      "name": "INEF\u00c1VEL (feat. Leviano)",
+      "url": "https://open.spotify.com/track/6a6UEfhgIKfzrZu1hqRYup"
     },
     {
       "added_at": "2026-08-07 14:27:34",
@@ -1175,30 +1183,22 @@
     {
       "added_at": "2026-08-07 14:27:34",
       "album": {
-        "name": "INEF\u00c1VEL",
-        "url": "https://open.spotify.com/album/1zztQHsfyK0hYA8debeM6X"
+        "name": "Nois \u00e9 Nois",
+        "url": "https://open.spotify.com/album/42I7nPQNGF5TxZiP8Esk2X"
       },
       "artists": [
         {
-          "name": "Long beatz",
-          "url": "https://open.spotify.com/artist/1oBkccDqIDMTntIIHKlJBp"
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
         },
         {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        },
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        },
-        {
-          "name": "Leviano",
-          "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
         }
       ],
-      "duration_ms": 245987,
-      "name": "INEF\u00c1VEL (feat. Leviano)",
-      "url": "https://open.spotify.com/track/6a6UEfhgIKfzrZu1hqRYup"
+      "duration_ms": 120000,
+      "name": "Nois \u00e9 Nois",
+      "url": "https://open.spotify.com/track/1k1egPmIPWQ0J44PWgMDwA"
     },
     {
       "added_at": "2026-08-07 14:27:34",
@@ -1823,6 +1823,38 @@
     {
       "added_at": "2026-08-07 14:27:34",
       "album": {
+        "name": "Empate T\u00e9cnico",
+        "url": "https://open.spotify.com/album/60PEgr3BmEjcGvM7u7cDF8"
+      },
+      "artists": [
+        {
+          "name": "Leviano",
+          "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
+        },
+        {
+          "name": "TOKIODK",
+          "url": "https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2"
+        },
+        {
+          "name": "GVMBO",
+          "url": "https://open.spotify.com/artist/2zIJRyv3KqdcMbaTEiiRtr"
+        },
+        {
+          "name": "saboya",
+          "url": "https://open.spotify.com/artist/7LmOCHdwrnGpDho9EdrwVJ"
+        },
+        {
+          "name": "Qualywav1",
+          "url": "https://open.spotify.com/artist/7MbiFVDZ7SKyG18Im8WGLn"
+        }
+      ],
+      "duration_ms": 157297,
+      "name": "Queridinho Do Chefe",
+      "url": "https://open.spotify.com/track/5VRt7meHLJRwvpejHbXJA4"
+    },
+    {
+      "added_at": "2026-08-07 14:27:34",
+      "album": {
         "name": "CHTC?",
         "url": "https://open.spotify.com/album/1vEV2f6XN0j4hhDHIXf5I4"
       },
@@ -1863,34 +1895,22 @@
     {
       "added_at": "2026-08-07 14:27:34",
       "album": {
-        "name": "Empate T\u00e9cnico",
-        "url": "https://open.spotify.com/album/60PEgr3BmEjcGvM7u7cDF8"
+        "name": "Brutas Amam, Choram e Sentem Raiva",
+        "url": "https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj"
       },
       "artists": [
         {
-          "name": "Leviano",
-          "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
+          "name": "AJULLIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
         },
         {
-          "name": "TOKIODK",
-          "url": "https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2"
-        },
-        {
-          "name": "GVMBO",
-          "url": "https://open.spotify.com/artist/2zIJRyv3KqdcMbaTEiiRtr"
-        },
-        {
-          "name": "saboya",
-          "url": "https://open.spotify.com/artist/7LmOCHdwrnGpDho9EdrwVJ"
-        },
-        {
-          "name": "Qualywav1",
-          "url": "https://open.spotify.com/artist/7MbiFVDZ7SKyG18Im8WGLn"
+          "name": "MAT",
+          "url": "https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U"
         }
       ],
-      "duration_ms": 157297,
-      "name": "Queridinho Do Chefe",
-      "url": "https://open.spotify.com/track/5VRt7meHLJRwvpejHbXJA4"
+      "duration_ms": 160000,
+      "name": "Queen Chavosa",
+      "url": "https://open.spotify.com/track/1qDfZrxU4JFbJpb6u4ojCQ"
     },
     {
       "added_at": "2026-08-07 14:27:34",
@@ -1923,26 +1943,6 @@
       "duration_ms": 171219,
       "name": "a noite chega",
       "url": "https://open.spotify.com/track/5dO1AzjYhd8gdC0nzojaYd"
-    },
-    {
-      "added_at": "2026-08-07 14:27:34",
-      "album": {
-        "name": "Brutas Amam, Choram e Sentem Raiva",
-        "url": "https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj"
-      },
-      "artists": [
-        {
-          "name": "AJULLIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "MAT",
-          "url": "https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Queen Chavosa",
-      "url": "https://open.spotify.com/track/1qDfZrxU4JFbJpb6u4ojCQ"
     },
     {
       "added_at": "2026-08-07 14:27:34",
@@ -2371,26 +2371,6 @@
     {
       "added_at": "2026-08-07 14:27:34",
       "album": {
-        "name": "Turma da Duq",
-        "url": "https://open.spotify.com/album/2ScZ4RsKsuQ0mgYObUuHMb"
-      },
-      "artists": [
-        {
-          "name": "Duquesa",
-          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
-        },
-        {
-          "name": "Go Dassisti",
-          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
-        }
-      ],
-      "duration_ms": 143202,
-      "name": "Turma da Duq",
-      "url": "https://open.spotify.com/track/7EUPOI7uEQU7AxKRtoZs3g"
-    },
-    {
-      "added_at": "2026-08-07 14:27:34",
-      "album": {
         "name": "Franco, The Sir! On The Radar Freestyle",
         "url": "https://open.spotify.com/album/1n1VqHx9HS0ty0QnbhXBv4"
       },
@@ -2411,6 +2391,26 @@
     {
       "added_at": "2026-08-07 14:27:34",
       "album": {
+        "name": "Turma da Duq",
+        "url": "https://open.spotify.com/album/2ScZ4RsKsuQ0mgYObUuHMb"
+      },
+      "artists": [
+        {
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+        },
+        {
+          "name": "Go Dassisti",
+          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
+        }
+      ],
+      "duration_ms": 143202,
+      "name": "Turma da Duq",
+      "url": "https://open.spotify.com/track/7EUPOI7uEQU7AxKRtoZs3g"
+    },
+    {
+      "added_at": "2026-08-07 14:27:34",
+      "album": {
         "name": "Animais Traidores 2",
         "url": "https://open.spotify.com/album/5B2QEtzBGfRRBYcuCeszur"
       },
@@ -2427,26 +2427,26 @@
     {
       "added_at": "2026-08-07 14:27:34",
       "album": {
-        "name": "Lista De Contato",
-        "url": "https://open.spotify.com/album/03uQr7q1MyOiW7qOQ1atNG"
+        "name": "Empate T\u00e9cnico",
+        "url": "https://open.spotify.com/album/60PEgr3BmEjcGvM7u7cDF8"
       },
       "artists": [
         {
-          "name": "Dudu",
-          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
+          "name": "Leviano",
+          "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
         },
         {
-          "name": "Ryu, The Runner",
-          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
+          "name": "TOKIODK",
+          "url": "https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2"
         },
         {
-          "name": "Ecologyk",
-          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
+          "name": "Markin Avel",
+          "url": "https://open.spotify.com/artist/5u8ejmm6QtrNPZkCPF4DXl"
         }
       ],
-      "duration_ms": 122826,
-      "name": "Lista De Contato",
-      "url": "https://open.spotify.com/track/6HQG4Qek65p5TwbMalqN1M"
+      "duration_ms": 188601,
+      "name": "A Comitiva",
+      "url": "https://open.spotify.com/track/4rqdcTkE0cVq2Xilp5wqeX"
     },
     {
       "added_at": "2026-08-07 14:27:34",
@@ -2483,26 +2483,26 @@
     {
       "added_at": "2026-08-07 14:27:34",
       "album": {
-        "name": "Empate T\u00e9cnico",
-        "url": "https://open.spotify.com/album/60PEgr3BmEjcGvM7u7cDF8"
+        "name": "Lista De Contato",
+        "url": "https://open.spotify.com/album/03uQr7q1MyOiW7qOQ1atNG"
       },
       "artists": [
         {
-          "name": "Leviano",
-          "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
+          "name": "Dudu",
+          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
         },
         {
-          "name": "TOKIODK",
-          "url": "https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2"
+          "name": "Ryu, The Runner",
+          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
         },
         {
-          "name": "Markin Avel",
-          "url": "https://open.spotify.com/artist/5u8ejmm6QtrNPZkCPF4DXl"
+          "name": "Ecologyk",
+          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
         }
       ],
-      "duration_ms": 188601,
-      "name": "A Comitiva",
-      "url": "https://open.spotify.com/track/4rqdcTkE0cVq2Xilp5wqeX"
+      "duration_ms": 122826,
+      "name": "Lista De Contato",
+      "url": "https://open.spotify.com/track/6HQG4Qek65p5TwbMalqN1M"
     },
     {
       "added_at": "2026-08-07 14:27:34",
@@ -2531,30 +2531,26 @@
     {
       "added_at": "2026-08-07 14:27:34",
       "album": {
-        "name": "Ordem do Mano",
-        "url": "https://open.spotify.com/album/7A6mhzGxqp111NGQ5q1fGF"
+        "name": "Tropa do Flamengo",
+        "url": "https://open.spotify.com/album/4oxAkEOGF9T1efL7LTqRkd"
       },
       "artists": [
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
         {
           "name": "Chefin",
           "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
         },
         {
-          "name": "Portugal No Beat",
-          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
         },
         {
           "name": "LB \u00danico",
           "url": "https://open.spotify.com/artist/7w1eimo0NMZhuwNZTf4MHY"
         }
       ],
-      "duration_ms": 195553,
-      "name": "Ordem do Mano",
-      "url": "https://open.spotify.com/track/5dq5AD4ijms2xZTP6a71ho"
+      "duration_ms": 161136,
+      "name": "Tropa do Flamengo",
+      "url": "https://open.spotify.com/track/6hSs4NAiWub47nULLBtUj1"
     }
   ],
   "unique_name": "Trap Classe",

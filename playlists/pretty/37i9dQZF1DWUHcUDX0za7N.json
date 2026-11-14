@@ -1,6 +1,6 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover: 6uff",
-  "num_followers": 87347,
+  "num_followers": 87371,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
@@ -455,26 +455,6 @@
     {
       "added_at": "2026-11-13 00:02:17",
       "album": {
-        "name": "Different Wave",
-        "url": "https://open.spotify.com/album/0qfIlhKvGdveRpIpS5mKsb"
-      },
-      "artists": [
-        {
-          "name": "Jeriq",
-          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
-        },
-        {
-          "name": "TUFF KING",
-          "url": "https://open.spotify.com/artist/6U6qcXdFyk0B5PxHM7JYmw"
-        }
-      ],
-      "duration_ms": 195963,
-      "name": "Different Wave",
-      "url": "https://open.spotify.com/track/09rEMK856dCFKa4Jg3XEkE"
-    },
-    {
-      "added_at": "2026-11-13 00:02:17",
-      "album": {
         "name": "Top Swag",
         "url": "https://open.spotify.com/album/7kmtp8xQRcKiHEdNWelgCW"
       },
@@ -495,6 +475,26 @@
       "duration_ms": 197777,
       "name": "Top Swag",
       "url": "https://open.spotify.com/track/7Dj8uoNSgsnJiNvCfN2jdy"
+    },
+    {
+      "added_at": "2026-11-13 00:02:17",
+      "album": {
+        "name": "Different Wave",
+        "url": "https://open.spotify.com/album/0qfIlhKvGdveRpIpS5mKsb"
+      },
+      "artists": [
+        {
+          "name": "Jeriq",
+          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
+        },
+        {
+          "name": "TUFF KING",
+          "url": "https://open.spotify.com/artist/6U6qcXdFyk0B5PxHM7JYmw"
+        }
+      ],
+      "duration_ms": 195963,
+      "name": "Different Wave",
+      "url": "https://open.spotify.com/track/09rEMK856dCFKa4Jg3XEkE"
     },
     {
       "added_at": "2026-11-13 00:02:17",
@@ -771,22 +771,6 @@
     {
       "added_at": "2026-11-13 00:02:17",
       "album": {
-        "name": "A Street Kid's Diary (Disk 2)",
-        "url": "https://open.spotify.com/album/5XvdrswbICcbJ0sM03NaGz"
-      },
-      "artists": [
-        {
-          "name": "Tml Vibez",
-          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
-        }
-      ],
-      "duration_ms": 167527,
-      "name": "Eyes On Me",
-      "url": "https://open.spotify.com/track/0kKqtxBzAdIsGYctrvKLXD"
-    },
-    {
-      "added_at": "2026-11-13 00:02:17",
-      "album": {
         "name": "NOMADINHO: 4TH PRIME",
         "url": "https://open.spotify.com/album/4S0TXxId60knMPsHNHgUt3"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 144044,
       "name": "I LOVE THIS (feat. Igwe Aka)",
       "url": "https://open.spotify.com/track/6sS4CHgGx63QMYmxdxd06n"
+    },
+    {
+      "added_at": "2026-11-13 00:02:17",
+      "album": {
+        "name": "A Street Kid's Diary (Disk 2)",
+        "url": "https://open.spotify.com/album/5XvdrswbICcbJ0sM03NaGz"
+      },
+      "artists": [
+        {
+          "name": "Tml Vibez",
+          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
+        }
+      ],
+      "duration_ms": 167527,
+      "name": "Eyes On Me",
+      "url": "https://open.spotify.com/track/0kKqtxBzAdIsGYctrvKLXD"
     },
     {
       "added_at": "2026-11-13 00:02:17",
@@ -895,6 +895,22 @@
     {
       "added_at": "2026-11-13 00:02:17",
       "album": {
+        "name": "Hat-Trick",
+        "url": "https://open.spotify.com/album/3jSB9yCl5M97zQTNeR8DNo"
+      },
+      "artists": [
+        {
+          "name": "Muyeez",
+          "url": "https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS"
+        }
+      ],
+      "duration_ms": 137892,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/5jEEHhGcHpAbzqQuQPylOT"
+    },
+    {
+      "added_at": "2026-11-13 00:02:17",
+      "album": {
         "name": "then 1t g0t crazier",
         "url": "https://open.spotify.com/album/6mtVRC0YNXKqsB7g7aWaU5"
       },
@@ -951,62 +967,6 @@
     {
       "added_at": "2026-11-13 00:02:17",
       "album": {
-        "name": "Hat-Trick",
-        "url": "https://open.spotify.com/album/3jSB9yCl5M97zQTNeR8DNo"
-      },
-      "artists": [
-        {
-          "name": "Muyeez",
-          "url": "https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS"
-        }
-      ],
-      "duration_ms": 137892,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/5jEEHhGcHpAbzqQuQPylOT"
-    },
-    {
-      "added_at": "2026-11-13 00:02:17",
-      "album": {
-        "name": "Life is Slo II",
-        "url": "https://open.spotify.com/album/0rCi3TpqhknIXahZYImAGy"
-      },
-      "artists": [
-        {
-          "name": "EF Moon",
-          "url": "https://open.spotify.com/artist/0fFQ89LOIU2Bc8bRacEyv9"
-        },
-        {
-          "name": "Ayo Maff",
-          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Life is Slo II",
-      "url": "https://open.spotify.com/track/3xCPXDqOccN4MtnXWX3qPy"
-    },
-    {
-      "added_at": "2026-11-13 00:02:17",
-      "album": {
-        "name": "Uzo Ano",
-        "url": "https://open.spotify.com/album/5ZxsefAXL0pCtv9E0pkXYL"
-      },
-      "artists": [
-        {
-          "name": "Phyno",
-          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
-        },
-        {
-          "name": "Flavour",
-          "url": "https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo"
-        }
-      ],
-      "duration_ms": 218181,
-      "name": "Uzo Ano",
-      "url": "https://open.spotify.com/track/70Y5c9SimCfgEiO4koOPIo"
-    },
-    {
-      "added_at": "2026-11-13 00:02:17",
-      "album": {
         "name": "HOW FAR (Remix)",
         "url": "https://open.spotify.com/album/00aqaC3YVmy74D0kak1GuC"
       },
@@ -1035,6 +995,46 @@
       "duration_ms": 200617,
       "name": "HOW FAR - Remix",
       "url": "https://open.spotify.com/track/4X4cghVmisiTbcu59iLLZ8"
+    },
+    {
+      "added_at": "2026-11-13 00:02:17",
+      "album": {
+        "name": "Uzo Ano",
+        "url": "https://open.spotify.com/album/5ZxsefAXL0pCtv9E0pkXYL"
+      },
+      "artists": [
+        {
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+        },
+        {
+          "name": "Flavour",
+          "url": "https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo"
+        }
+      ],
+      "duration_ms": 218181,
+      "name": "Uzo Ano",
+      "url": "https://open.spotify.com/track/70Y5c9SimCfgEiO4koOPIo"
+    },
+    {
+      "added_at": "2026-11-13 00:02:17",
+      "album": {
+        "name": "Life is Slo II",
+        "url": "https://open.spotify.com/album/0rCi3TpqhknIXahZYImAGy"
+      },
+      "artists": [
+        {
+          "name": "EF Moon",
+          "url": "https://open.spotify.com/artist/0fFQ89LOIU2Bc8bRacEyv9"
+        },
+        {
+          "name": "Ayo Maff",
+          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Life is Slo II",
+      "url": "https://open.spotify.com/track/3xCPXDqOccN4MtnXWX3qPy"
     },
     {
       "added_at": "2026-11-13 00:02:17",
@@ -1223,26 +1223,6 @@
     {
       "added_at": "2026-11-13 00:02:17",
       "album": {
-        "name": "GAOU LA (feat. 6uff)",
-        "url": "https://open.spotify.com/album/3jIgXwF5wIe2GhF3NBSsrp"
-      },
-      "artists": [
-        {
-          "name": "Didi B",
-          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
-        },
-        {
-          "name": "6uff",
-          "url": "https://open.spotify.com/artist/5SKsdtrrheAS3h6qCYZYzG"
-        }
-      ],
-      "duration_ms": 147169,
-      "name": "GAOU LA (feat. 6uff)",
-      "url": "https://open.spotify.com/track/0TVPbrQyDW6Rhi7hJa024K"
-    },
-    {
-      "added_at": "2026-11-13 00:02:17",
-      "album": {
         "name": "THE RETURN (Eze Ony\u1ecbk\u1ecd)",
         "url": "https://open.spotify.com/album/7FPpLQbBQbsd8WW45xMllH"
       },
@@ -1303,6 +1283,26 @@
     {
       "added_at": "2026-11-13 00:02:17",
       "album": {
+        "name": "GAOU LA (feat. 6uff)",
+        "url": "https://open.spotify.com/album/3jIgXwF5wIe2GhF3NBSsrp"
+      },
+      "artists": [
+        {
+          "name": "Didi B",
+          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
+        },
+        {
+          "name": "6uff",
+          "url": "https://open.spotify.com/artist/5SKsdtrrheAS3h6qCYZYzG"
+        }
+      ],
+      "duration_ms": 147169,
+      "name": "GAOU LA (feat. 6uff)",
+      "url": "https://open.spotify.com/track/0TVPbrQyDW6Rhi7hJa024K"
+    },
+    {
+      "added_at": "2026-11-13 00:02:17",
+      "album": {
         "name": "PITY THIS BOY",
         "url": "https://open.spotify.com/album/60XSboTgnZCbxyMfje4CPk"
       },
@@ -1323,18 +1323,22 @@
     {
       "added_at": "2026-11-13 00:02:17",
       "album": {
-        "name": "Healing",
-        "url": "https://open.spotify.com/album/6NR3x6Epq5M7f07qkzaOMr"
+        "name": "FLAKO",
+        "url": "https://open.spotify.com/album/0JPDGiGSSfjSw0VPFXKHjX"
       },
       "artists": [
         {
-          "name": "Phyno",
-          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+          "name": "Wizard Chan",
+          "url": "https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
         }
       ],
-      "duration_ms": 155454,
-      "name": "Healing",
-      "url": "https://open.spotify.com/track/4qp6UT9ZozI9JAtI5sAC13"
+      "duration_ms": 174117,
+      "name": "FLAKO",
+      "url": "https://open.spotify.com/track/4gNOP9BGhyl2apkm8Xy7Eg"
     }
   ],
   "unique_name": "Naija Bars ",

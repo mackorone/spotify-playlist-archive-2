@@ -1,8 +1,30 @@
 {
   "date_first_scraped": "2022-07-24",
-  "description": "La tierra del Rap de oro puro. Victor Mendivil, Omar Camacho y $HUPE.",
+  "description": "La tierra del Rap de oro puro. Russo en portada.",
   "name": "Hip-Hop MX 24k",
   "tracks": [
+    {
+      "album": {
+        "name": "0 Detallista",
+        "url": "https://open.spotify.com/album/7cuyhIhzehITLNlJL0AJ0e"
+      },
+      "artists": [
+        {
+          "name": "Casta",
+          "url": "https://open.spotify.com/artist/4nN5iq2iVJ331Z788e5K0H"
+        },
+        {
+          "name": "Angel Cervantes",
+          "url": "https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206117,
+      "name": "0 Detallista",
+      "url": "https://open.spotify.com/track/0ArEuLqUKvwlTpnHTXHUnG"
+    },
     {
       "album": {
         "name": "2+2",
@@ -232,7 +254,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 225621,
       "name": "Ahi voy",
       "url": "https://open.spotify.com/track/0ceKCaT9XNZJzkzEBO2zTy"
@@ -1145,6 +1167,24 @@
     },
     {
       "album": {
+        "name": "Dreamer Hats",
+        "url": "https://open.spotify.com/album/3fyvfbMSBjVFB5jHq5Dvqb"
+      },
+      "artists": [
+        {
+          "name": "Omar Camacho",
+          "url": "https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138701,
+      "name": "Dreamer Hats",
+      "url": "https://open.spotify.com/track/1ZTBkD8l4rsiZUfsxDjMRI"
+    },
+    {
+      "album": {
         "name": "El Vicio y la Fama",
         "url": "https://open.spotify.com/album/1jY2gqdDwbRbtwIIwmcxqI"
       },
@@ -1576,6 +1616,24 @@
       "duration_ms": 251990,
       "name": "La Calle Sonr\u00ede",
       "url": "https://open.spotify.com/track/69WvBBAL7hhyydMnUWjHvg"
+    },
+    {
+      "album": {
+        "name": "La Corta",
+        "url": "https://open.spotify.com/album/1AkklzKKNEFDYAftZDkBV0"
+      },
+      "artists": [
+        {
+          "name": "Ganggy",
+          "url": "https://open.spotify.com/artist/5DyLJzaY28nfyYFYu5a7Py"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118709,
+      "name": "La Corta",
+      "url": "https://open.spotify.com/track/4bVqr9ojXrytCErpINani5"
     },
     {
       "album": {
@@ -2468,7 +2526,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 278181,
       "name": "Ni Miedo Ni Piedad",
       "url": "https://open.spotify.com/track/2hs4FEIVUESVnnRw6xXdq8"
@@ -2526,6 +2584,24 @@
       "duration_ms": 308506,
       "name": "Ni Muy Muy Ni Tan Tan",
       "url": "https://open.spotify.com/track/083IcGzprHpWcVhJHa3uo3"
+    },
+    {
+      "album": {
+        "name": "No Me Apendejes",
+        "url": "https://open.spotify.com/album/0u2VE1neWBNI4We2373SCv"
+      },
+      "artists": [
+        {
+          "name": "Emilio Morales",
+          "url": "https://open.spotify.com/artist/7niPvia8jlPaciHzQrDoYd"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152873,
+      "name": "No Me Apendejes",
+      "url": "https://open.spotify.com/track/2dHp7SI4tRfcz7qrjIaqR5"
     },
     {
       "album": {
@@ -3792,7 +3868,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 201045,
       "name": "TE ALEJASTE",
       "url": "https://open.spotify.com/track/2drn04PdLw7Ivym9GQBsZX"
@@ -3996,7 +4072,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 194360,
       "name": "Toma 1",
       "url": "https://open.spotify.com/track/6tzvSqAhZ0PbvCGcGG8mqu"
@@ -4098,7 +4174,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 177230,
       "name": "Una Ruedita",
       "url": "https://open.spotify.com/track/2D9WyuykuMo5MvU5grpXpI"
@@ -4182,6 +4258,24 @@
       "duration_ms": 149866,
       "name": "Wacha Trucha",
       "url": "https://open.spotify.com/track/5eRIQwGFRD7NfdIanG6GNB"
+    },
+    {
+      "album": {
+        "name": "SS",
+        "url": "https://open.spotify.com/album/5FBoo7pM6iGIYWnAjlnGqA"
+      },
+      "artists": [
+        {
+          "name": "Russo",
+          "url": "https://open.spotify.com/artist/4yzuWxT9FcCZUuzdKh1Fc4"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170666,
+      "name": "Wash Con Perfume",
+      "url": "https://open.spotify.com/track/47rjyNFANGwKCX17cNRpLC"
     },
     {
       "album": {

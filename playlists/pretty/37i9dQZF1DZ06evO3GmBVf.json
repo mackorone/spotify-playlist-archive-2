@@ -1,12 +1,12 @@
 {
   "description": "This is Lefty Sm. The essential tracks, all in one playlist.",
-  "num_followers": 219679,
+  "num_followers": 219690,
   "original_name": "This Is Lefty Sm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avOwAAAAAABfGOyEr6xUJ0kcdyGG2Su0",
+  "snapshot_id": "avUBgAAAAABewzp0wp4tAsqEzEPI8eyH",
   "tracks": [
     {
       "added_at": null,
@@ -455,22 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Volvi\u00f3 A Amanecer",
-        "url": "https://open.spotify.com/album/4djLVh799E7iDt4qyKG7Cr"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 222066,
-      "name": "Volvi\u00f3 A Amanecer",
-      "url": "https://open.spotify.com/track/0dcVgVt6fPoJnZl52xUG4a"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi Jale Vale",
         "url": "https://open.spotify.com/album/6yhtC7PRmrYg3idBB7I3sx"
       },
@@ -491,8 +475,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nada Es Perfecto",
-        "url": "https://open.spotify.com/album/0KjxP6TB25u8qxDLfnEiJq"
+        "name": "Volvi\u00f3 A Amanecer",
+        "url": "https://open.spotify.com/album/4djLVh799E7iDt4qyKG7Cr"
       },
       "artists": [
         {
@@ -500,9 +484,9 @@
           "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
         }
       ],
-      "duration_ms": 188125,
-      "name": "Nada Es Perfecto",
-      "url": "https://open.spotify.com/track/0qn3qZwkLKB6zelSSdUUX9"
+      "duration_ms": 222066,
+      "name": "Volvi\u00f3 A Amanecer",
+      "url": "https://open.spotify.com/track/0dcVgVt6fPoJnZl52xUG4a"
     },
     {
       "added_at": null,
@@ -519,6 +503,22 @@
       "duration_ms": 194899,
       "name": "Quien Te Viera",
       "url": "https://open.spotify.com/track/7bNh1GMNO05HFyOiFqVqIw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nada Es Perfecto",
+        "url": "https://open.spotify.com/album/0KjxP6TB25u8qxDLfnEiJq"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 188125,
+      "name": "Nada Es Perfecto",
+      "url": "https://open.spotify.com/track/0qn3qZwkLKB6zelSSdUUX9"
     },
     {
       "added_at": null,
@@ -983,6 +983,22 @@
       "duration_ms": 374571,
       "name": "Todo x Nada",
       "url": "https://open.spotify.com/track/2VHgL82Mtbso1VoMikWkS7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fe",
+        "url": "https://open.spotify.com/album/0Roxdafecg5p3VQXUBfNkP"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 254000,
+      "name": "Fe",
+      "url": "https://open.spotify.com/track/5E3DUwke6Or4h5rosrn5Z1"
     }
   ],
   "unique_name": "This Is Lefty Sm",

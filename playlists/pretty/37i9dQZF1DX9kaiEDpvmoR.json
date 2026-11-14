@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 93730,
+  "num_followers": 93737,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -335,18 +335,18 @@
     {
       "added_at": "2026-11-12 23:00:37",
       "album": {
-        "name": "The Best",
-        "url": "https://open.spotify.com/album/5wjfDqEmIWfst84JhCDqbk"
+        "name": "Lonely by Another Name",
+        "url": "https://open.spotify.com/album/7zGuV7WxIznZ5dxithXlvN"
       },
       "artists": [
         {
-          "name": "Smash Into Pieces",
-          "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
+          "name": "Albin Lee Meldau",
+          "url": "https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK"
         }
       ],
-      "duration_ms": 181415,
-      "name": "The Best",
-      "url": "https://open.spotify.com/track/6F5ZmNzsrApPjgoGQnnQs4"
+      "duration_ms": 184436,
+      "name": "Lonely by Another Name",
+      "url": "https://open.spotify.com/track/2QXjZJP4MBo3EnM8HK8lOP"
     },
     {
       "added_at": "2026-11-12 23:00:37",
@@ -367,34 +367,18 @@
     {
       "added_at": "2026-11-12 23:00:37",
       "album": {
-        "name": "Lonely by Another Name",
-        "url": "https://open.spotify.com/album/7zGuV7WxIznZ5dxithXlvN"
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/5wjfDqEmIWfst84JhCDqbk"
       },
       "artists": [
         {
-          "name": "Albin Lee Meldau",
-          "url": "https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK"
+          "name": "Smash Into Pieces",
+          "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
         }
       ],
-      "duration_ms": 184436,
-      "name": "Lonely by Another Name",
-      "url": "https://open.spotify.com/track/2QXjZJP4MBo3EnM8HK8lOP"
-    },
-    {
-      "added_at": "2026-11-12 23:00:37",
-      "album": {
-        "name": "Iconic",
-        "url": "https://open.spotify.com/album/0HgLE4fEcT5oFPbMRF4Ej3"
-      },
-      "artists": [
-        {
-          "name": "A*Teens",
-          "url": "https://open.spotify.com/artist/5zMgvYBz4AW0gFyPtg7fR9"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Iconic",
-      "url": "https://open.spotify.com/track/5FjvINvxiM03aNN7o1nUVc"
+      "duration_ms": 181415,
+      "name": "The Best",
+      "url": "https://open.spotify.com/track/6F5ZmNzsrApPjgoGQnnQs4"
     },
     {
       "added_at": "2026-11-12 23:00:37",
@@ -415,18 +399,18 @@
     {
       "added_at": "2026-11-12 23:00:37",
       "album": {
-        "name": "Miracle",
-        "url": "https://open.spotify.com/album/5WFkoeD18MlAtIPCPWULZa"
+        "name": "Iconic",
+        "url": "https://open.spotify.com/album/0HgLE4fEcT5oFPbMRF4Ej3"
       },
       "artists": [
         {
-          "name": "Smash Into Pieces",
-          "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
+          "name": "A*Teens",
+          "url": "https://open.spotify.com/artist/5zMgvYBz4AW0gFyPtg7fR9"
         }
       ],
-      "duration_ms": 185787,
-      "name": "Miracle",
-      "url": "https://open.spotify.com/track/6wTYe0HC4MIpNpjuxX9R5E"
+      "duration_ms": 178000,
+      "name": "Iconic",
+      "url": "https://open.spotify.com/track/5FjvINvxiM03aNN7o1nUVc"
     },
     {
       "added_at": "2026-11-12 23:00:37",
@@ -463,18 +447,18 @@
     {
       "added_at": "2026-11-12 23:00:37",
       "album": {
-        "name": "Days We Left Behind",
-        "url": "https://open.spotify.com/album/2OoaCsbD9saV4x6LRh73gY"
+        "name": "Miracle",
+        "url": "https://open.spotify.com/album/5WFkoeD18MlAtIPCPWULZa"
       },
       "artists": [
         {
-          "name": "Paul McCartney",
-          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+          "name": "Smash Into Pieces",
+          "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
         }
       ],
-      "duration_ms": 198235,
-      "name": "Days We Left Behind",
-      "url": "https://open.spotify.com/track/3kiOcEPP4WyssVslhHSL7A"
+      "duration_ms": 185787,
+      "name": "Miracle",
+      "url": "https://open.spotify.com/track/6wTYe0HC4MIpNpjuxX9R5E"
     },
     {
       "added_at": "2026-11-12 23:00:37",
@@ -499,6 +483,22 @@
     {
       "added_at": "2026-11-12 23:00:37",
       "album": {
+        "name": "Days We Left Behind",
+        "url": "https://open.spotify.com/album/2OoaCsbD9saV4x6LRh73gY"
+      },
+      "artists": [
+        {
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        }
+      ],
+      "duration_ms": 198235,
+      "name": "Days We Left Behind",
+      "url": "https://open.spotify.com/track/3kiOcEPP4WyssVslhHSL7A"
+    },
+    {
+      "added_at": "2026-11-12 23:00:37",
+      "album": {
         "name": "Bar N\u00eemes - Primi",
         "url": "https://open.spotify.com/album/06AGXEqbJ1UENdFc72MHwt"
       },
@@ -515,22 +515,6 @@
     {
       "added_at": "2026-11-12 23:00:37",
       "album": {
-        "name": "Ain't Built For Leaving",
-        "url": "https://open.spotify.com/album/0PKcL6pMkHUV8SxxcefHL9"
-      },
-      "artists": [
-        {
-          "name": "Chris Kl\u00e4fford",
-          "url": "https://open.spotify.com/artist/5dSnbLNmUdguVNTAV5Ctk1"
-        }
-      ],
-      "duration_ms": 212442,
-      "name": "Ain't Built For Leaving",
-      "url": "https://open.spotify.com/track/0ENM2AleJ8dzdYrYar0jPA"
-    },
-    {
-      "added_at": "2026-11-12 23:00:37",
-      "album": {
         "name": "Framtiden som aldrig blev av",
         "url": "https://open.spotify.com/album/2ydJbEdyPq7pPoJhBUcHC0"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 226466,
       "name": "Land",
       "url": "https://open.spotify.com/track/2qf4HEGKdkQzrUK0jAgxnV"
+    },
+    {
+      "added_at": "2026-11-12 23:00:37",
+      "album": {
+        "name": "Ain't Built For Leaving",
+        "url": "https://open.spotify.com/album/0PKcL6pMkHUV8SxxcefHL9"
+      },
+      "artists": [
+        {
+          "name": "Chris Kl\u00e4fford",
+          "url": "https://open.spotify.com/artist/5dSnbLNmUdguVNTAV5Ctk1"
+        }
+      ],
+      "duration_ms": 212442,
+      "name": "Ain't Built For Leaving",
+      "url": "https://open.spotify.com/track/0ENM2AleJ8dzdYrYar0jPA"
     },
     {
       "added_at": "2026-11-12 23:00:37",
@@ -595,22 +595,6 @@
     {
       "added_at": "2026-11-12 23:00:37",
       "album": {
-        "name": "What Love Is",
-        "url": "https://open.spotify.com/album/3iKB1YRZqrO6YVeEnNGaAm"
-      },
-      "artists": [
-        {
-          "name": "Sanna Nielsen",
-          "url": "https://open.spotify.com/artist/3PvEhkL4pgu9glR6yOlYKK"
-        }
-      ],
-      "duration_ms": 188550,
-      "name": "What Love Is",
-      "url": "https://open.spotify.com/track/6nliQtmwAzeEXnynfX6TNf"
-    },
-    {
-      "added_at": "2026-11-12 23:00:37",
-      "album": {
         "name": "Moderna tider",
         "url": "https://open.spotify.com/album/1d3a5sjYx3iiaDffKC1BJl"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 273253,
       "name": "Moderna tider",
       "url": "https://open.spotify.com/track/1TR2P4Q2GeMdQd3EBQL9zZ"
+    },
+    {
+      "added_at": "2026-11-12 23:00:37",
+      "album": {
+        "name": "What Love Is",
+        "url": "https://open.spotify.com/album/3iKB1YRZqrO6YVeEnNGaAm"
+      },
+      "artists": [
+        {
+          "name": "Sanna Nielsen",
+          "url": "https://open.spotify.com/artist/3PvEhkL4pgu9glR6yOlYKK"
+        }
+      ],
+      "duration_ms": 188550,
+      "name": "What Love Is",
+      "url": "https://open.spotify.com/track/6nliQtmwAzeEXnynfX6TNf"
     },
     {
       "added_at": "2026-11-12 23:00:37",
@@ -703,22 +703,6 @@
     {
       "added_at": "2026-11-12 23:00:37",
       "album": {
-        "name": "MITT HJ\u00c4RTA EN REBELL",
-        "url": "https://open.spotify.com/album/2wSAeBhPk56MwhfaXhfePx"
-      },
-      "artists": [
-        {
-          "name": "Petra Marklund",
-          "url": "https://open.spotify.com/artist/2ZX1rncu0C7WOuSFC1aEbh"
-        }
-      ],
-      "duration_ms": 191635,
-      "name": "MITT HJ\u00c4RTA EN REBELL",
-      "url": "https://open.spotify.com/track/5vWwVISfokXhL3ZAK7Y5yj"
-    },
-    {
-      "added_at": "2026-11-12 23:00:37",
-      "album": {
         "name": "V\u00e4lkommen hem",
         "url": "https://open.spotify.com/album/5xa9ItPBGEmhciNBLU9Vyp"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 198796,
       "name": "Sagolik",
       "url": "https://open.spotify.com/track/24oAjahzc5cQkZV6k22qvZ"
+    },
+    {
+      "added_at": "2026-11-12 23:00:37",
+      "album": {
+        "name": "MITT HJ\u00c4RTA EN REBELL",
+        "url": "https://open.spotify.com/album/2wSAeBhPk56MwhfaXhfePx"
+      },
+      "artists": [
+        {
+          "name": "Petra Marklund",
+          "url": "https://open.spotify.com/artist/2ZX1rncu0C7WOuSFC1aEbh"
+        }
+      ],
+      "duration_ms": 191635,
+      "name": "MITT HJ\u00c4RTA EN REBELL",
+      "url": "https://open.spotify.com/track/5vWwVISfokXhL3ZAK7Y5yj"
     },
     {
       "added_at": "2026-11-12 23:00:37",
@@ -755,6 +755,22 @@
     {
       "added_at": "2026-11-12 23:00:37",
       "album": {
+        "name": "Arg och frustrerad",
+        "url": "https://open.spotify.com/album/0kEE2525KmF0rxNuAsaaDn"
+      },
+      "artists": [
+        {
+          "name": "Miss Li",
+          "url": "https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7"
+        }
+      ],
+      "duration_ms": 209125,
+      "name": "Arg och frustrerad",
+      "url": "https://open.spotify.com/track/3AJTFCvjpsMSk0XB85dUp0"
+    },
+    {
+      "added_at": "2026-11-12 23:00:37",
+      "album": {
         "name": "Alien",
         "url": "https://open.spotify.com/album/1WeMx6SIhFCKkjSG2kVxVR"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 156357,
       "name": "Alien",
       "url": "https://open.spotify.com/track/1Tsr6x9gUkkggXgLRtnO0f"
-    },
-    {
-      "added_at": "2026-11-12 23:00:37",
-      "album": {
-        "name": "Arg och frustrerad",
-        "url": "https://open.spotify.com/album/0kEE2525KmF0rxNuAsaaDn"
-      },
-      "artists": [
-        {
-          "name": "Miss Li",
-          "url": "https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7"
-        }
-      ],
-      "duration_ms": 209125,
-      "name": "Arg och frustrerad",
-      "url": "https://open.spotify.com/track/3AJTFCvjpsMSk0XB85dUp0"
     },
     {
       "added_at": "2026-11-12 23:00:37",
@@ -843,8 +843,8 @@
     {
       "added_at": "2026-11-12 23:00:37",
       "album": {
-        "name": "Det h\u00f6gsta ljud jag h\u00f6rt",
-        "url": "https://open.spotify.com/album/3WYtGbzsy5rUpYKf7u9tlY"
+        "name": "Himlen \u00e4r oskyldigt bl\u00e5",
+        "url": "https://open.spotify.com/album/2YeDXQKCSMPg9H1j244Wwl"
       },
       "artists": [
         {
@@ -852,9 +852,9 @@
           "url": "https://open.spotify.com/artist/3E8Mx37sikkaFoX5DRecLi"
         }
       ],
-      "duration_ms": 190013,
-      "name": "Pappa kommer inte hem",
-      "url": "https://open.spotify.com/track/5r2KPAo67ayJ5CyDH6uhql"
+      "duration_ms": 262644,
+      "name": "Himlen \u00e4r oskyldigt bl\u00e5",
+      "url": "https://open.spotify.com/track/1hYwe6tTSED5oiZoUaH0b6"
     },
     {
       "added_at": "2026-11-12 23:00:37",
@@ -907,6 +907,38 @@
     {
       "added_at": "2026-11-12 23:00:37",
       "album": {
+        "name": "Blau Hajmel",
+        "url": "https://open.spotify.com/album/3DIvFNXorFGjJEJ4A0aTDL"
+      },
+      "artists": [
+        {
+          "name": "Moonica Mac",
+          "url": "https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n"
+        }
+      ],
+      "duration_ms": 250725,
+      "name": "Blau hajmel",
+      "url": "https://open.spotify.com/track/2ReNW98lO8s37jZvETSlMA"
+    },
+    {
+      "added_at": "2026-11-12 23:00:37",
+      "album": {
+        "name": "Det h\u00f6gsta ljud jag h\u00f6rt",
+        "url": "https://open.spotify.com/album/3WYtGbzsy5rUpYKf7u9tlY"
+      },
+      "artists": [
+        {
+          "name": "Oskar Linnros",
+          "url": "https://open.spotify.com/artist/3E8Mx37sikkaFoX5DRecLi"
+        }
+      ],
+      "duration_ms": 190013,
+      "name": "Pappa kommer inte hem",
+      "url": "https://open.spotify.com/track/5r2KPAo67ayJ5CyDH6uhql"
+    },
+    {
+      "added_at": "2026-11-12 23:00:37",
+      "album": {
         "name": "Just n\u00e4r du trodde allt var \u00f6ver",
         "url": "https://open.spotify.com/album/6BFhRkDiD2KnD8Iv6N4yC2"
       },
@@ -923,34 +955,18 @@
     {
       "added_at": "2026-11-12 23:00:37",
       "album": {
-        "name": "Himlen \u00e4r oskyldigt bl\u00e5",
-        "url": "https://open.spotify.com/album/2YeDXQKCSMPg9H1j244Wwl"
+        "name": "S\u00e5 l\u00e4tt",
+        "url": "https://open.spotify.com/album/69xPHVyPT1C0V6kvB00K9g"
       },
       "artists": [
         {
-          "name": "Oskar Linnros",
-          "url": "https://open.spotify.com/artist/3E8Mx37sikkaFoX5DRecLi"
+          "name": "Genom Natten",
+          "url": "https://open.spotify.com/artist/5UkGksYXrb5tn3IEjgVFb9"
         }
       ],
-      "duration_ms": 262644,
-      "name": "Himlen \u00e4r oskyldigt bl\u00e5",
-      "url": "https://open.spotify.com/track/1hYwe6tTSED5oiZoUaH0b6"
-    },
-    {
-      "added_at": "2026-11-12 23:00:37",
-      "album": {
-        "name": "Blau Hajmel",
-        "url": "https://open.spotify.com/album/3DIvFNXorFGjJEJ4A0aTDL"
-      },
-      "artists": [
-        {
-          "name": "Moonica Mac",
-          "url": "https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n"
-        }
-      ],
-      "duration_ms": 250725,
-      "name": "Blau hajmel",
-      "url": "https://open.spotify.com/track/2ReNW98lO8s37jZvETSlMA"
+      "duration_ms": 188448,
+      "name": "S\u00e5 l\u00e4tt",
+      "url": "https://open.spotify.com/track/0FTLZJk8x9qJrI7Dgwotr9"
     },
     {
       "added_at": "2026-11-12 23:00:37",
@@ -1007,22 +1023,6 @@
     {
       "added_at": "2026-11-12 23:00:37",
       "album": {
-        "name": "S\u00e5 l\u00e4tt",
-        "url": "https://open.spotify.com/album/69xPHVyPT1C0V6kvB00K9g"
-      },
-      "artists": [
-        {
-          "name": "Genom Natten",
-          "url": "https://open.spotify.com/artist/5UkGksYXrb5tn3IEjgVFb9"
-        }
-      ],
-      "duration_ms": 188448,
-      "name": "S\u00e5 l\u00e4tt",
-      "url": "https://open.spotify.com/track/0FTLZJk8x9qJrI7Dgwotr9"
-    },
-    {
-      "added_at": "2026-11-12 23:00:37",
-      "album": {
         "name": "F\u00f6rbannad",
         "url": "https://open.spotify.com/album/56JsPGMWUICFmcAgtUTQAF"
       },
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2026-11-12 23:00:37",
       "album": {
-        "name": "Dansa p\u00e5 min grav (2026 version)",
-        "url": "https://open.spotify.com/album/4cYbbUpyWqmU8LD72qXqQO"
-      },
-      "artists": [
-        {
-          "name": "Bo Kaspers Orkester",
-          "url": "https://open.spotify.com/artist/2VE6Ge0qFHrqDC6KG6ECJn"
-        }
-      ],
-      "duration_ms": 227068,
-      "name": "Dansa p\u00e5 min grav - (2026 version)",
-      "url": "https://open.spotify.com/track/4tVmwNcAHYvVDj5BUrxyrb"
-    },
-    {
-      "added_at": "2026-11-12 23:00:37",
-      "album": {
         "name": "Can't Frame the Moonlight",
         "url": "https://open.spotify.com/album/6D3Pzr2mWkMoMVSBf0RUWP"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 205896,
       "name": "Can't Frame the Moonlight",
       "url": "https://open.spotify.com/track/0o7TU4ysA7q39FChpwVv0G"
+    },
+    {
+      "added_at": "2026-11-12 23:00:37",
+      "album": {
+        "name": "Dansa p\u00e5 min grav (2026 version)",
+        "url": "https://open.spotify.com/album/4cYbbUpyWqmU8LD72qXqQO"
+      },
+      "artists": [
+        {
+          "name": "Bo Kaspers Orkester",
+          "url": "https://open.spotify.com/artist/2VE6Ge0qFHrqDC6KG6ECJn"
+        }
+      ],
+      "duration_ms": 227068,
+      "name": "Dansa p\u00e5 min grav - (2026 version)",
+      "url": "https://open.spotify.com/track/4tVmwNcAHYvVDj5BUrxyrb"
     },
     {
       "added_at": "2026-11-12 23:00:37",
@@ -1163,38 +1163,6 @@
     {
       "added_at": "2026-11-12 23:00:37",
       "album": {
-        "name": "Mirakel",
-        "url": "https://open.spotify.com/album/3vYNeWBvpRGwyTDdBjVy4I"
-      },
-      "artists": [
-        {
-          "name": "Lars Winnerb\u00e4ck",
-          "url": "https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI"
-        }
-      ],
-      "duration_ms": 278240,
-      "name": "Mirakel",
-      "url": "https://open.spotify.com/track/4KtrEuk2Trxdyn2NmgTMTN"
-    },
-    {
-      "added_at": "2026-11-12 23:00:37",
-      "album": {
-        "name": "Liten o stor",
-        "url": "https://open.spotify.com/album/2FMRH9FpnWQMAup3ERZjS4"
-      },
-      "artists": [
-        {
-          "name": "Moonica Mac",
-          "url": "https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n"
-        }
-      ],
-      "duration_ms": 312103,
-      "name": "Liten o stor",
-      "url": "https://open.spotify.com/track/7qxO2lAWbo8OPNkONgK3YF"
-    },
-    {
-      "added_at": "2026-11-12 23:00:37",
-      "album": {
         "name": "jaywalking",
         "url": "https://open.spotify.com/album/2HLlLIQ0ix7wufudTXUV4x"
       },
@@ -1227,6 +1195,22 @@
     {
       "added_at": "2026-11-12 23:00:37",
       "album": {
+        "name": "Liten o stor",
+        "url": "https://open.spotify.com/album/2FMRH9FpnWQMAup3ERZjS4"
+      },
+      "artists": [
+        {
+          "name": "Moonica Mac",
+          "url": "https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n"
+        }
+      ],
+      "duration_ms": 312103,
+      "name": "Liten o stor",
+      "url": "https://open.spotify.com/track/7qxO2lAWbo8OPNkONgK3YF"
+    },
+    {
+      "added_at": "2026-11-12 23:00:37",
+      "album": {
         "name": "Tiden",
         "url": "https://open.spotify.com/album/16q6FX0WuHi5RhtwGhf5Gc"
       },
@@ -1239,6 +1223,38 @@
       "duration_ms": 242641,
       "name": "Tiden",
       "url": "https://open.spotify.com/track/4FJ0spbrJdbUTuD4bior44"
+    },
+    {
+      "added_at": "2026-11-12 23:00:37",
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/1jYPzM2CSlHcKuf5OOGqbG"
+      },
+      "artists": [
+        {
+          "name": "Shout Out Louds",
+          "url": "https://open.spotify.com/artist/0UOrN3LNaKApiOSdvJiETl"
+        }
+      ],
+      "duration_ms": 246241,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/0RWObFtXnP27I1XHL7pc2a"
+    },
+    {
+      "added_at": "2026-11-12 23:00:37",
+      "album": {
+        "name": "Mirakel",
+        "url": "https://open.spotify.com/album/3vYNeWBvpRGwyTDdBjVy4I"
+      },
+      "artists": [
+        {
+          "name": "Lars Winnerb\u00e4ck",
+          "url": "https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI"
+        }
+      ],
+      "duration_ms": 278240,
+      "name": "Mirakel",
+      "url": "https://open.spotify.com/track/4KtrEuk2Trxdyn2NmgTMTN"
     },
     {
       "added_at": "2026-11-12 23:00:37",
@@ -1259,22 +1275,6 @@
     {
       "added_at": "2026-11-12 23:00:37",
       "album": {
-        "name": "Borderline",
-        "url": "https://open.spotify.com/album/6f5Tud1MiF43PSymYrnBsW"
-      },
-      "artists": [
-        {
-          "name": "HOFFMAESTRO",
-          "url": "https://open.spotify.com/artist/6hL8IlB7tKuRiqChLyEJGr"
-        }
-      ],
-      "duration_ms": 166733,
-      "name": "Borderline",
-      "url": "https://open.spotify.com/track/5EQHQ0F7pcog3RKgu38IIp"
-    },
-    {
-      "added_at": "2026-11-12 23:00:37",
-      "album": {
         "name": "Fast Lane",
         "url": "https://open.spotify.com/album/2vMgit0PMLiycYbYeu1Zas"
       },
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2026-11-12 23:00:37",
       "album": {
+        "name": "Borderline",
+        "url": "https://open.spotify.com/album/6f5Tud1MiF43PSymYrnBsW"
+      },
+      "artists": [
+        {
+          "name": "HOFFMAESTRO",
+          "url": "https://open.spotify.com/artist/6hL8IlB7tKuRiqChLyEJGr"
+        }
+      ],
+      "duration_ms": 166733,
+      "name": "Borderline",
+      "url": "https://open.spotify.com/track/5EQHQ0F7pcog3RKgu38IIp"
+    },
+    {
+      "added_at": "2026-11-12 23:00:37",
+      "album": {
         "name": "Revalution Club",
         "url": "https://open.spotify.com/album/6VrlawQweOnhs94WOGWl4D"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 269250,
       "name": "Musiken som h\u00f6rs fr\u00e5n Rival",
       "url": "https://open.spotify.com/track/0799iI2UqqtWpf2TUjR8aM"
-    },
-    {
-      "added_at": "2026-11-12 23:00:37",
-      "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/1jYPzM2CSlHcKuf5OOGqbG"
-      },
-      "artists": [
-        {
-          "name": "Shout Out Louds",
-          "url": "https://open.spotify.com/artist/0UOrN3LNaKApiOSdvJiETl"
-        }
-      ],
-      "duration_ms": 246241,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/0RWObFtXnP27I1XHL7pc2a"
     },
     {
       "added_at": "2026-11-12 23:00:37",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2026-11-12 23:00:37",
       "album": {
+        "name": "More!",
+        "url": "https://open.spotify.com/album/0AAhCDNL26bSYXcLnMjcaf"
+      },
+      "artists": [
+        {
+          "name": "Robin Bengtsson",
+          "url": "https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS"
+        }
+      ],
+      "duration_ms": 178499,
+      "name": "More!",
+      "url": "https://open.spotify.com/track/0Q3xlAwtGbNhqrDvHrozHk"
+    },
+    {
+      "added_at": "2026-11-12 23:00:37",
+      "album": {
         "name": "Den f\u00f6rsta sn\u00f6n",
         "url": "https://open.spotify.com/album/32rYhvujtR6bclJDSzzfRL"
       },
@@ -1423,22 +1439,6 @@
       "duration_ms": 248506,
       "name": "H\u00e4lsningar",
       "url": "https://open.spotify.com/track/1aSOb7BoCz0ZHrbbA4vLla"
-    },
-    {
-      "added_at": "2026-11-12 23:00:37",
-      "album": {
-        "name": "More!",
-        "url": "https://open.spotify.com/album/0AAhCDNL26bSYXcLnMjcaf"
-      },
-      "artists": [
-        {
-          "name": "Robin Bengtsson",
-          "url": "https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS"
-        }
-      ],
-      "duration_ms": 178499,
-      "name": "More!",
-      "url": "https://open.spotify.com/track/0Q3xlAwtGbNhqrDvHrozHk"
     },
     {
       "added_at": "2026-11-12 23:00:37",

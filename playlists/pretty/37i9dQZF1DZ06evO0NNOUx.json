@@ -1,12 +1,12 @@
 {
   "description": "This is Forrest Frank. The essential tracks, all in one playlist.",
-  "num_followers": 221159,
+  "num_followers": 221239,
   "original_name": "This Is Forrest Frank",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avOwAAAAAAD94S+Dmh/QkBqIbAgJWVQp",
+  "snapshot_id": "avUBgAAAAAD/vSAahomjnkCmaW62RuhA",
   "tracks": [
     {
       "added_at": null,
@@ -635,6 +635,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "No Longer Bound (I'm Free)",
+        "url": "https://open.spotify.com/album/7o2PA6yCeen44YsR1KuVWP"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        }
+      ],
+      "duration_ms": 175188,
+      "name": "No Longer Bound (I'm Free)",
+      "url": "https://open.spotify.com/track/2GGvmXF70zQ13NS86nOw7k"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jesus Paid It All",
         "url": "https://open.spotify.com/album/5xBcP6Mfjo9NX3eWYO3xS7"
       },
@@ -663,30 +687,6 @@
       "duration_ms": 146613,
       "name": "It Is Well",
       "url": "https://open.spotify.com/track/5x2mhn1pPWj0IGn3iTSXBm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Longer Bound (I'm Free)",
-        "url": "https://open.spotify.com/album/7o2PA6yCeen44YsR1KuVWP"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        },
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        }
-      ],
-      "duration_ms": 175188,
-      "name": "No Longer Bound (I'm Free)",
-      "url": "https://open.spotify.com/track/2GGvmXF70zQ13NS86nOw7k"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 
 > A new world of alternative electronic music\. Cover: CC:DISCO!
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,433 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,424 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 20 | [RALLY FUNK](https://open.spotify.com/track/4NX1TmWyGuTCTPguqd4KAK) | [prod\. DTM](https://open.spotify.com/artist/661DKnfZy9RMb8FcbUZboE) | [RALLY FUNK](https://open.spotify.com/album/46zifhmnByKMPQaZSjw9oh) | 1:34 |
 | 21 | [Two Months Off](https://open.spotify.com/track/4zI0wuANmj9DNkBOgXU5Wh) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [A Hundred Days Off](https://open.spotify.com/album/5n192ghquuwEFORZEtNyLg) | 9:08 |
 | 22 | [Old' On](https://open.spotify.com/track/38zrbBzmIUC4OPL2NUBx4n) | [JACK MARLOW](https://open.spotify.com/artist/5qIDbjJ9VyV3eogXzEA6H3) | [Tastes Like The 90s](https://open.spotify.com/album/0IZhc4XwdP5S3HADTrddV1) | 3:21 |
-| 23 | [Alyse](https://open.spotify.com/track/3KJ9LSGMl7vTZ1lHIP2CBZ) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Alyse](https://open.spotify.com/album/3S4XqwT4tjFW1f6R1kmlo3) | 3:51 |
-| 24 | [Make a Wish](https://open.spotify.com/track/0G2cq0o0vlcb0qHbjouDFf) | [Headache](https://open.spotify.com/artist/1iX0eIvL5iHnaDny7BBtWH), [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o) | [Make a Wish](https://open.spotify.com/album/1lg0RjkuYXjmVrJuG6EUJl) | 3:18 |
+| 23 | [Make a Wish](https://open.spotify.com/track/0G2cq0o0vlcb0qHbjouDFf) | [Headache](https://open.spotify.com/artist/1iX0eIvL5iHnaDny7BBtWH), [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o) | [Make a Wish](https://open.spotify.com/album/1lg0RjkuYXjmVrJuG6EUJl) | 3:18 |
+| 24 | [Alyse](https://open.spotify.com/track/3KJ9LSGMl7vTZ1lHIP2CBZ) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Alyse](https://open.spotify.com/album/3S4XqwT4tjFW1f6R1kmlo3) | 3:51 |
 | 25 | [78 To Stanley Bay](https://open.spotify.com/track/74LRqSi9vqy4vnxCLInNAw) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy), [Isaac Aesili](https://open.spotify.com/artist/3zEfsUok55Gll9L0YN2YOE) | [816 To Nunhead](https://open.spotify.com/album/1OKJNHif5s5NzcScX4ac44) | 5:07 |
 | 26 | [Your Shadow at Morning \- Four Tet Rework](https://open.spotify.com/track/4Y4U1NdAExAYEqYALEgWU2) | [The Durutti Column](https://open.spotify.com/artist/7fh7bwX9qV60tLxxsp9bTe), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Your Shadow at Morning \(Four Tet Rework\)](https://open.spotify.com/album/1JZdNabvsqLfrMcOYRlybS) | 9:37 |
 | 27 | [you're a star](https://open.spotify.com/track/017erFbOyCrdz0yburnVGZ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [you're a star](https://open.spotify.com/album/3dmu97DsoFpSptXPtJEzCJ) | 3:39 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 46 | [Mi Fai Sorridere](https://open.spotify.com/track/1KJyysoVBls4pz3IBmReT4) | [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl), [EDEN](https://open.spotify.com/artist/1t20wYnTiAT0Bs7H1hv9Wt) | [Mi Fai Sorridere](https://open.spotify.com/album/23AcCbbce5DaZ3t7Rqsw7c) | 3:13 |
 | 47 | [Back 2 Back](https://open.spotify.com/track/13DIg33b655IuPHHdnlimm) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Back 2 Back](https://open.spotify.com/album/4lnsaWcuoXUzDINVbyG9ak) | 3:07 |
 | 48 | [The Right](https://open.spotify.com/track/6Rs9a5wCEYHviyHVIMa0Eb) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [The Right](https://open.spotify.com/album/4CyulwPn7kwxzAuVfKIGIE) | 3:54 |
-| 49 | [Back to Basics \(feat\. Skepta\) \(Floating Points Remix\)](https://open.spotify.com/track/7JvuiP16UTKCnieS9E2Bg3) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Back to Basics \(feat\. Skepta\) \(Floating Points Remix\)](https://open.spotify.com/album/5AqA9sP5nWY0Q4ysvpJOdo) | 3:49 |
-| 50 | [Maybe](https://open.spotify.com/track/0Od0JSjrcDmahzUiB5QepD) | [KH](https://open.spotify.com/artist/7nwdEDnfgNpPhWQCXX3KSx) | [Maybe](https://open.spotify.com/album/3EmDGlGCYEWrs05H0JJ4gO) | 5:17 |
+| 49 | [Maybe](https://open.spotify.com/track/0Od0JSjrcDmahzUiB5QepD) | [KH](https://open.spotify.com/artist/7nwdEDnfgNpPhWQCXX3KSx) | [Maybe](https://open.spotify.com/album/3EmDGlGCYEWrs05H0JJ4gO) | 5:17 |
+| 50 | [Back to Basics \(feat\. Skepta\) \(Floating Points Remix\)](https://open.spotify.com/track/7JvuiP16UTKCnieS9E2Bg3) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Back to Basics \(feat\. Skepta\) \(Floating Points Remix\)](https://open.spotify.com/album/5AqA9sP5nWY0Q4ysvpJOdo) | 3:49 |
 
 Snapshot ID: `AAAAAGGs/ln7jGVaXVe7/g5p+PyuljLC`

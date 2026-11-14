@@ -1,6 +1,6 @@
 {
   "description": "Deep electronic and organic house sounds, inspired by the folk music of Africa, Latin America and the Middle East.",
-  "num_followers": 924065,
+  "num_followers": 924140,
   "original_name": "Org\u00e1nica",
   "owner": {
     "name": "Spotify",
@@ -343,6 +343,22 @@
     {
       "added_at": "2026-09-16 06:42:09",
       "album": {
+        "name": "Rummen",
+        "url": "https://open.spotify.com/album/12FPrXQxaxUUvhMFUEZpM3"
+      },
+      "artists": [
+        {
+          "name": "Pulli & Chomba",
+          "url": "https://open.spotify.com/artist/2GAK48Z5uQqNg6aOe2b5yQ"
+        }
+      ],
+      "duration_ms": 466750,
+      "name": "Rummen",
+      "url": "https://open.spotify.com/track/6SAhql2LjyxheYXSRfNTNz"
+    },
+    {
+      "added_at": "2026-09-16 06:42:09",
+      "album": {
         "name": "Salaam",
         "url": "https://open.spotify.com/album/5vygAJ5hmJWEhwQjMMRhGX"
       },
@@ -391,18 +407,18 @@
     {
       "added_at": "2026-09-16 06:42:09",
       "album": {
-        "name": "Rummen",
-        "url": "https://open.spotify.com/album/12FPrXQxaxUUvhMFUEZpM3"
+        "name": "Fata Morgana",
+        "url": "https://open.spotify.com/album/2rLEqB3NEHclyYWEAjHdlz"
       },
       "artists": [
         {
-          "name": "Pulli & Chomba",
-          "url": "https://open.spotify.com/artist/2GAK48Z5uQqNg6aOe2b5yQ"
+          "name": "Lassjo",
+          "url": "https://open.spotify.com/artist/2g504CS5Du2Mtuffv3ALth"
         }
       ],
-      "duration_ms": 466750,
-      "name": "Rummen",
-      "url": "https://open.spotify.com/track/6SAhql2LjyxheYXSRfNTNz"
+      "duration_ms": 309680,
+      "name": "Fata Morgana",
+      "url": "https://open.spotify.com/track/7walQouy5fsUKIOLfvnGOJ"
     },
     {
       "added_at": "2026-09-16 06:42:09",
@@ -423,22 +439,6 @@
       "duration_ms": 292000,
       "name": "Experiencing a Significant Gravitas Shortfall - TACHES Remix",
       "url": "https://open.spotify.com/track/6CVzxgkKa7TEBsnj9TgVoL"
-    },
-    {
-      "added_at": "2026-09-16 06:42:09",
-      "album": {
-        "name": "Fata Morgana",
-        "url": "https://open.spotify.com/album/2rLEqB3NEHclyYWEAjHdlz"
-      },
-      "artists": [
-        {
-          "name": "Lassjo",
-          "url": "https://open.spotify.com/artist/2g504CS5Du2Mtuffv3ALth"
-        }
-      ],
-      "duration_ms": 309680,
-      "name": "Fata Morgana",
-      "url": "https://open.spotify.com/track/7walQouy5fsUKIOLfvnGOJ"
     },
     {
       "added_at": "2026-09-16 06:42:09",
@@ -551,22 +551,6 @@
     {
       "added_at": "2026-09-16 06:42:09",
       "album": {
-        "name": "Se Va, Se Va",
-        "url": "https://open.spotify.com/album/2g5wS2owEKwdMLEhovzAba"
-      },
-      "artists": [
-        {
-          "name": "Santi & Tu\u011f\u00e7e",
-          "url": "https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC"
-        }
-      ],
-      "duration_ms": 449509,
-      "name": "Se Va, Se Va",
-      "url": "https://open.spotify.com/track/3xfeZrc1eCICCFahDQFaWO"
-    },
-    {
-      "added_at": "2026-09-16 06:42:09",
-      "album": {
         "name": "6 Years of Underyourskin Records",
         "url": "https://open.spotify.com/album/0lzBCZ4jYzWAnprP4UidiJ"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 418364,
       "name": "Worak",
       "url": "https://open.spotify.com/track/4bBT53FvvtFqHJm9iq7G7L"
+    },
+    {
+      "added_at": "2026-09-16 06:42:09",
+      "album": {
+        "name": "Se Va, Se Va",
+        "url": "https://open.spotify.com/album/2g5wS2owEKwdMLEhovzAba"
+      },
+      "artists": [
+        {
+          "name": "Santi & Tu\u011f\u00e7e",
+          "url": "https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC"
+        }
+      ],
+      "duration_ms": 449509,
+      "name": "Se Va, Se Va",
+      "url": "https://open.spotify.com/track/3xfeZrc1eCICCFahDQFaWO"
     },
     {
       "added_at": "2026-09-16 06:42:09",
@@ -647,6 +647,22 @@
     {
       "added_at": "2026-09-16 06:42:09",
       "album": {
+        "name": "Dromomania",
+        "url": "https://open.spotify.com/album/0slf4uR5PXW7wWSfFOnOEx"
+      },
+      "artists": [
+        {
+          "name": "Cemento Atlantico",
+          "url": "https://open.spotify.com/artist/75mLxfyKPeBkmXEEAM3NlT"
+        }
+      ],
+      "duration_ms": 293253,
+      "name": "Garawek khaos",
+      "url": "https://open.spotify.com/track/09uRAja2jE8e0HwBFmPdqn"
+    },
+    {
+      "added_at": "2026-09-16 06:42:09",
+      "album": {
         "name": "Forlorn Hope",
         "url": "https://open.spotify.com/album/4HsVqD7Kd3nWAmeXFDHWTx"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 263731,
       "name": "La China",
       "url": "https://open.spotify.com/track/6bWqpA7ytZzTdPZcmJmYzn"
-    },
-    {
-      "added_at": "2026-09-16 06:42:09",
-      "album": {
-        "name": "Dromomania",
-        "url": "https://open.spotify.com/album/0slf4uR5PXW7wWSfFOnOEx"
-      },
-      "artists": [
-        {
-          "name": "Cemento Atlantico",
-          "url": "https://open.spotify.com/artist/75mLxfyKPeBkmXEEAM3NlT"
-        }
-      ],
-      "duration_ms": 293253,
-      "name": "Garawek khaos",
-      "url": "https://open.spotify.com/track/09uRAja2jE8e0HwBFmPdqn"
     },
     {
       "added_at": "2026-09-16 06:42:09",
@@ -791,6 +791,22 @@
     {
       "added_at": "2026-09-16 06:42:09",
       "album": {
+        "name": "Magic Workout",
+        "url": "https://open.spotify.com/album/3Pxw0B2kNOVpHs4A0xaIY7"
+      },
+      "artists": [
+        {
+          "name": "islandman",
+          "url": "https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4"
+        }
+      ],
+      "duration_ms": 335877,
+      "name": "Magic Workout",
+      "url": "https://open.spotify.com/track/0TnHMErhQe43aDAVWEuS71"
+    },
+    {
+      "added_at": "2026-09-16 06:42:09",
+      "album": {
         "name": "Impatient / You Never Know",
         "url": "https://open.spotify.com/album/1kxva46pNeTihCqGPVsZAG"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 213196,
       "name": "Impatient",
       "url": "https://open.spotify.com/track/7hRFu8gdtmYz0zX19fRRK9"
-    },
-    {
-      "added_at": "2026-09-16 06:42:09",
-      "album": {
-        "name": "Magic Workout",
-        "url": "https://open.spotify.com/album/3Pxw0B2kNOVpHs4A0xaIY7"
-      },
-      "artists": [
-        {
-          "name": "islandman",
-          "url": "https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4"
-        }
-      ],
-      "duration_ms": 335877,
-      "name": "Magic Workout",
-      "url": "https://open.spotify.com/track/0TnHMErhQe43aDAVWEuS71"
     },
     {
       "added_at": "2026-09-16 06:42:09",
@@ -947,22 +947,6 @@
     {
       "added_at": "2026-09-16 06:42:09",
       "album": {
-        "name": "Oasis",
-        "url": "https://open.spotify.com/album/7c03ElAhoOu0EorNLA2chE"
-      },
-      "artists": [
-        {
-          "name": "Monkey Safari",
-          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
-        }
-      ],
-      "duration_ms": 243934,
-      "name": "Oasis",
-      "url": "https://open.spotify.com/track/3Al39i3wHuZ2fH1dKgHmYG"
-    },
-    {
-      "added_at": "2026-09-16 06:42:09",
-      "album": {
         "name": "Into Your Tribe (Bedouin Remix)",
         "url": "https://open.spotify.com/album/6TPJ9cK3kjACehsD2Yu9GR"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 454680,
       "name": "Into Your Tribe - Bedouin Remix",
       "url": "https://open.spotify.com/track/4WtH6JyDF4OlQXglvX7oCV"
+    },
+    {
+      "added_at": "2026-09-16 06:42:09",
+      "album": {
+        "name": "Oasis",
+        "url": "https://open.spotify.com/album/7c03ElAhoOu0EorNLA2chE"
+      },
+      "artists": [
+        {
+          "name": "Monkey Safari",
+          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
+        }
+      ],
+      "duration_ms": 243934,
+      "name": "Oasis",
+      "url": "https://open.spotify.com/track/3Al39i3wHuZ2fH1dKgHmYG"
     },
     {
       "added_at": "2026-09-16 06:42:09",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2026-09-16 06:42:09",
       "album": {
+        "name": "With You",
+        "url": "https://open.spotify.com/album/0w5X1y8atCbmQrm2F6Ffil"
+      },
+      "artists": [
+        {
+          "name": "Palo Canto",
+          "url": "https://open.spotify.com/artist/5RfrPNIPXTpOEr7wVHotRP"
+        }
+      ],
+      "duration_ms": 187722,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/2Z9HF5ap9bcBf0jvn02ioY"
+    },
+    {
+      "added_at": "2026-09-16 06:42:09",
+      "album": {
         "name": "Savage",
         "url": "https://open.spotify.com/album/0m7ddoZFRqhiT6uktqefny"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 478764,
       "name": "Savage",
       "url": "https://open.spotify.com/track/6UQP9MgBPN1X7GiOomaBkO"
-    },
-    {
-      "added_at": "2026-09-16 06:42:09",
-      "album": {
-        "name": "With You",
-        "url": "https://open.spotify.com/album/0w5X1y8atCbmQrm2F6Ffil"
-      },
-      "artists": [
-        {
-          "name": "Palo Canto",
-          "url": "https://open.spotify.com/artist/5RfrPNIPXTpOEr7wVHotRP"
-        }
-      ],
-      "duration_ms": 187722,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/2Z9HF5ap9bcBf0jvn02ioY"
     },
     {
       "added_at": "2026-09-16 06:42:09",
@@ -1359,30 +1359,6 @@
     {
       "added_at": "2026-09-16 06:42:09",
       "album": {
-        "name": "Miss That (Major League DJz & Piero Farho Remix)",
-        "url": "https://open.spotify.com/album/3ZfqTXWUvQNlVCXhmVdOlv"
-      },
-      "artists": [
-        {
-          "name": "Naomi Sharon",
-          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
-        },
-        {
-          "name": "Major League Djz",
-          "url": "https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb"
-        },
-        {
-          "name": "Piero Farho",
-          "url": "https://open.spotify.com/artist/52LDi8vYmgfoiEaTBWCWSh"
-        }
-      ],
-      "duration_ms": 358000,
-      "name": "Miss That (Major League DJz & Piero Farho Remix)",
-      "url": "https://open.spotify.com/track/34IHtqjGPDBTpkR8Qq90LK"
-    },
-    {
-      "added_at": "2026-09-16 06:42:09",
-      "album": {
         "name": "Sagas of Iziki | Chapter 2",
         "url": "https://open.spotify.com/album/32Ojr7lP5QCCSKp3uXdKES"
       },
@@ -1403,6 +1379,30 @@
       "duration_ms": 544250,
       "name": "Osuga",
       "url": "https://open.spotify.com/track/2IiYV4muGj5HVGPRASTRpJ"
+    },
+    {
+      "added_at": "2026-09-16 06:42:09",
+      "album": {
+        "name": "Miss That (Major League DJz & Piero Farho Remix)",
+        "url": "https://open.spotify.com/album/3ZfqTXWUvQNlVCXhmVdOlv"
+      },
+      "artists": [
+        {
+          "name": "Naomi Sharon",
+          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
+        },
+        {
+          "name": "Major League Djz",
+          "url": "https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb"
+        },
+        {
+          "name": "Piero Farho",
+          "url": "https://open.spotify.com/artist/52LDi8vYmgfoiEaTBWCWSh"
+        }
+      ],
+      "duration_ms": 358000,
+      "name": "Miss That (Major League DJz & Piero Farho Remix)",
+      "url": "https://open.spotify.com/track/34IHtqjGPDBTpkR8Qq90LK"
     },
     {
       "added_at": "2026-09-16 06:42:09",

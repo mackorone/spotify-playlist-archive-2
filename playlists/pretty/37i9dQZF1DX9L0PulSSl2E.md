@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9L0PulSSl2E.md) - [plain]
 
 > Sit back, thand rakho te Chill Karlo with Parmish Verma
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,479 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,516 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Busy](https://open.spotify.com/track/707dVK7TR7V5aZCIOZUAfv) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [Victory Lap](https://open.spotify.com/album/15lQCBUQm0PeQdFnRDVDZn) | 2:07 |
 | 2 | [ANTIDOTE](https://open.spotify.com/track/7KmCQLSSde0UX5OqCgvGN9) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Four Me](https://open.spotify.com/album/09LRfKybx7mDRlMtysHrcX) | 3:07 |
 | 3 | [Time Zone](https://open.spotify.com/track/7BYUk5oobYwgPmA3AI0Cfk) | [Kaka](https://open.spotify.com/artist/1Oh5bPXjw5jreVFhKc4jux) | [Time Zone](https://open.spotify.com/album/6Abzn75tCTcYpYAIwiT8qR) | 2:50 |
-| 4 | [BADASS](https://open.spotify.com/track/6nIRQecf0Wpfbm078oZTsr) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G), [RUMANE](https://open.spotify.com/artist/30Y5MpTLQy10jZ96324lV7) | [BADASS](https://open.spotify.com/album/4G5OaPKi65aIfyY0vR1C1V) | 2:41 |
+| 4 | [Phantom Ferrari](https://open.spotify.com/track/0dnt38asO3oUxL04np42Ir) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN) | [Phantom Ferrari](https://open.spotify.com/album/5nLvz4ICyKXppqj0zvpq3a) | 4:48 |
 | 5 | [Heater](https://open.spotify.com/track/0FI43BWpVXYhuAI2IO9pNH) | [Supreme Sidhu](https://open.spotify.com/artist/1ZepPUbPtyDgmq1ktCLqcN), [Shiiv](https://open.spotify.com/artist/1QNNJQV9fWB0o73y3fZAnj) | [Better Late Than Never](https://open.spotify.com/album/7LZj19MRlz22g0fdtzHspn) | 2:27 |
 | 6 | [Tension](https://open.spotify.com/track/0BlESrrPor7TRRpRz3nRZ5) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Advisory](https://open.spotify.com/album/6iVdKO5iCIgmovlO6VP2oj) | 2:48 |
 | 7 | [Mangda Wapis Kyun](https://open.spotify.com/track/0uxLzgP3Y2SgLOyWDDUc6f) | [Talwiinder](https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN), [Kidjaywest](https://open.spotify.com/artist/2S34cREqbQ10LEU0hvvpCF), [NDS](https://open.spotify.com/artist/5xh6szshoZ0UfZD1x6QzZG) | [Mangda Wapis Kyun](https://open.spotify.com/album/06gZ62SyRZF80Ty5RxMvWL) | 3:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9L0PulSSl2E.md) - [plain]
 | 49 | [VOGUE](https://open.spotify.com/track/1JdCyAEy9YLNj5LDDpz73F) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Gill Machhrai](https://open.spotify.com/artist/4r4r2gGaA74pul0n6FiRsE), [Rony Ajnali](https://open.spotify.com/artist/0N2lT1m7rG0klYHZrkyMPw), [Dilmaan](https://open.spotify.com/artist/5iRP5VM9JGkM6aMQbbfkBK) | [VOGUE](https://open.spotify.com/album/1PawA1kXPiDO3BHKow7VzH) | 2:22 |
 | 50 | [WEEKEND](https://open.spotify.com/track/48etPdlHxXdmOEVB7xf334) | [Gminxr](https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS), [Tegi Pannu](https://open.spotify.com/artist/78sIlhMniFgXlOrNWnPtIl), [Zehr Vibe](https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm) | [WEEKEND](https://open.spotify.com/album/5CbFlQymrBrU41FMAhMhrR) | 1:58 |
 
-Snapshot ID: `AAAAAHiZgdi6xdjf/zpGWBD4D0AdniLn`
+Snapshot ID: `AAAAAK0L2RyY9e7GTbmlpF8w5j10Di6D`

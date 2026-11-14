@@ -1,6 +1,6 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 517880,
+  "num_followers": 518074,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
@@ -415,22 +415,6 @@
     {
       "added_at": "2026-11-13 05:00:54",
       "album": {
-        "name": "GIRLBOSS",
-        "url": "https://open.spotify.com/album/1HwOJ1JhdBS5msya2Xvb6v"
-      },
-      "artists": [
-        {
-          "name": "Sara Landry",
-          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
-        }
-      ],
-      "duration_ms": 193500,
-      "name": "GIRLBOSS",
-      "url": "https://open.spotify.com/track/20X3JnZ5J6eNGXpypFQNxa"
-    },
-    {
-      "added_at": "2026-11-13 05:00:54",
-      "album": {
         "name": "SCANDAL ANTHEM",
         "url": "https://open.spotify.com/album/1KGIRYw9xdet38N9JKZp7l"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 244500,
       "name": "SCANDAL ANTHEM",
       "url": "https://open.spotify.com/track/08DchrgnFXBD6H142l4tvY"
+    },
+    {
+      "added_at": "2026-11-13 05:00:54",
+      "album": {
+        "name": "GIRLBOSS",
+        "url": "https://open.spotify.com/album/1HwOJ1JhdBS5msya2Xvb6v"
+      },
+      "artists": [
+        {
+          "name": "Sara Landry",
+          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
+        }
+      ],
+      "duration_ms": 193500,
+      "name": "GIRLBOSS",
+      "url": "https://open.spotify.com/track/20X3JnZ5J6eNGXpypFQNxa"
     },
     {
       "added_at": "2026-11-13 05:00:54",
@@ -611,22 +611,6 @@
     {
       "added_at": "2026-11-13 05:00:54",
       "album": {
-        "name": "La Vida Loca",
-        "url": "https://open.spotify.com/album/1aFM7DwLHZEsqTTyBF0aaj"
-      },
-      "artists": [
-        {
-          "name": "Karla Blum",
-          "url": "https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO"
-        }
-      ],
-      "duration_ms": 182608,
-      "name": "La Vida Loca",
-      "url": "https://open.spotify.com/track/7G3YyjDSgzQ5qETgyyn2s9"
-    },
-    {
-      "added_at": "2026-11-13 05:00:54",
-      "album": {
         "name": "One Mind EP",
         "url": "https://open.spotify.com/album/6vEeCQvbjq8gK5IlhLOmkm"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 345605,
       "name": "One Mind",
       "url": "https://open.spotify.com/track/2Y2Ydnk6XPTe4IpOTNs5Xh"
+    },
+    {
+      "added_at": "2026-11-13 05:00:54",
+      "album": {
+        "name": "La Vida Loca",
+        "url": "https://open.spotify.com/album/1aFM7DwLHZEsqTTyBF0aaj"
+      },
+      "artists": [
+        {
+          "name": "Karla Blum",
+          "url": "https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO"
+        }
+      ],
+      "duration_ms": 182608,
+      "name": "La Vida Loca",
+      "url": "https://open.spotify.com/track/7G3YyjDSgzQ5qETgyyn2s9"
     },
     {
       "added_at": "2026-11-13 05:00:54",
@@ -791,26 +791,6 @@
     {
       "added_at": "2026-11-13 05:00:54",
       "album": {
-        "name": "run",
-        "url": "https://open.spotify.com/album/0rbA7c9RUVkHiNWMJ04Usk"
-      },
-      "artists": [
-        {
-          "name": "Amelie Lens",
-          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
-        },
-        {
-          "name": "Ang\u00e8le",
-          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
-        }
-      ],
-      "duration_ms": 262297,
-      "name": "run",
-      "url": "https://open.spotify.com/track/1aUbgHRbxhm5lMpyM6Pyeb"
-    },
-    {
-      "added_at": "2026-11-13 05:00:54",
-      "album": {
         "name": "We Come 1",
         "url": "https://open.spotify.com/album/6JvalnlQnGWAXtZi8YPg7x"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 183694,
       "name": "We Come 1",
       "url": "https://open.spotify.com/track/67AoFkT611zuwNP8CRjyvx"
+    },
+    {
+      "added_at": "2026-11-13 05:00:54",
+      "album": {
+        "name": "run",
+        "url": "https://open.spotify.com/album/0rbA7c9RUVkHiNWMJ04Usk"
+      },
+      "artists": [
+        {
+          "name": "Amelie Lens",
+          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
+        },
+        {
+          "name": "Ang\u00e8le",
+          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
+        }
+      ],
+      "duration_ms": 262297,
+      "name": "run",
+      "url": "https://open.spotify.com/track/1aUbgHRbxhm5lMpyM6Pyeb"
     },
     {
       "added_at": "2026-11-13 05:00:54",
@@ -851,6 +851,26 @@
       "duration_ms": 202500,
       "name": "Where I'm From",
       "url": "https://open.spotify.com/track/0JFNTfRWLqQ09z9ZHldX8d"
+    },
+    {
+      "added_at": "2026-11-13 05:00:54",
+      "album": {
+        "name": "Coming In Heavy",
+        "url": "https://open.spotify.com/album/723kV64ne2P2nR3PLXHNyY"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        },
+        {
+          "name": "Pan-Pot",
+          "url": "https://open.spotify.com/artist/6OQOvP7RAdmAKVXXQqD0Se"
+        }
+      ],
+      "duration_ms": 231521,
+      "name": "Coming In Heavy",
+      "url": "https://open.spotify.com/track/6VTiQz9Er68Nn8DywsO2v3"
     },
     {
       "added_at": "2026-11-13 05:00:54",
@@ -899,26 +919,6 @@
       "duration_ms": 419154,
       "name": "How You Move - Age of Acid Remix",
       "url": "https://open.spotify.com/track/5sNwFhrJfNsAZIL0JhX76h"
-    },
-    {
-      "added_at": "2026-11-13 05:00:54",
-      "album": {
-        "name": "Coming In Heavy",
-        "url": "https://open.spotify.com/album/723kV64ne2P2nR3PLXHNyY"
-      },
-      "artists": [
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        },
-        {
-          "name": "Pan-Pot",
-          "url": "https://open.spotify.com/artist/6OQOvP7RAdmAKVXXQqD0Se"
-        }
-      ],
-      "duration_ms": 231521,
-      "name": "Coming In Heavy",
-      "url": "https://open.spotify.com/track/6VTiQz9Er68Nn8DywsO2v3"
     },
     {
       "added_at": "2026-11-13 05:00:54",

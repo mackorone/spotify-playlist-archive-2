@@ -4,7 +4,7 @@
 
 > Fcukers on the cover bby
 
-310 songs - 19 hr 6 min
+311 songs - 19 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Digital Versicolor](https://open.spotify.com/track/5WQwLtyRifa7JQdaYHBHBO) | [Glass Candy](https://open.spotify.com/artist/7atGlyFY5574ph1tGMs6gD) | [B/E/A/T/B/O/X](https://open.spotify.com/album/34HdlwbafaANIXhwqNTnlb) | 5:58 | 2023-09-05 | 2025-07-05 |
 | [Dip](https://open.spotify.com/track/29Zj1r8cek15xe08vNUOLy) | [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [Old](https://open.spotify.com/album/5SC0415RIGVX9ZfL0tfbAl) | 3:31 | 2023-04-14 | 2023-04-27 |
 | [Disparate Youth](https://open.spotify.com/track/0t2QiRkpag0fAgs9zuCPlH) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [Master of My Make\-Believe](https://open.spotify.com/album/58ZjpgafuBeQ0JVxIt0hdr) | 4:44 | 2022-11-10 |  |
+| [Dizzy](https://open.spotify.com/track/4mYcrBVBKX6xmWOLDlFOnJ) | [Matthew Dear](https://open.spotify.com/artist/2GLf7iaOOujAem5R87xwto) | [Dizzy](https://open.spotify.com/album/4DM3OmYpY56MyYR5cdb75F) | 3:04 | 2026-11-13 |  |
 | [Don't Look Back into the Sun](https://open.spotify.com/track/4KspXoCVJXGY1VrvEe1Hdm) | [The Libertines](https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7) | [Don't Look Back into the Sun](https://open.spotify.com/album/4p8bvIgDBZ7eLvuflo6YhI) | 3:00 | 2022-11-10 | 2026-11-04 |
 | [Down the Drain](https://open.spotify.com/track/76ST8TBf6W54nnn8CZaecj) | [Julia Fox](https://open.spotify.com/artist/5fspZkvc27zQHB6PjbPoGK) | [Down the Drain](https://open.spotify.com/album/4VKv3mXNAsH0SLPTHiMfYd) | 2:46 | 2024-05-03 | 2025-03-20 |
 | [Drunk & Loud](https://open.spotify.com/track/69WiLaNQxDcf4yjAWcDruZ) | [Bloom Twins](https://open.spotify.com/artist/4ae1CMoZOjwIOUmhJlA9Tt) | [Drunk & Loud](https://open.spotify.com/album/5v9ShaPCZn1arjR9BmkUNy) | 1:54 | 2023-08-10 | 2024-11-23 |
@@ -180,7 +181,7 @@
 | [Mardy Bum](https://open.spotify.com/track/3geFzA6VBSNZUTmV3bCry6) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Whatever People Say I Am, That's What I'm Not](https://open.spotify.com/album/0ndGMh4twJNzPpr5XtHTR2) | 2:55 | 2022-11-10 | 2023-08-18 |
 | [Midnight City](https://open.spotify.com/track/1eyzqe2QqGZUmfcPZtrIyt) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Hurry Up, We're Dreaming](https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR) | 4:01 | 2023-01-10 |  |
 | [Mind Mischief](https://open.spotify.com/track/6ewQE1dNPv9qqlnB1CxrvM) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism](https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7) | 4:31 | 2022-11-10 | 2023-09-06 |
-| [monkey disco brain](https://open.spotify.com/track/1h5KIQzrSqoWwXy5kcdDDI) | [Almost Heaven](https://open.spotify.com/artist/25M75SztfGLmmWJK09R1dN) | [RAW CRANIUM \(8 Month Anniversary Edition\)](https://open.spotify.com/album/47usfreydA0AeYe75FT4dP) | 3:16 | 2026-10-02 |  |
+| [monkey disco brain](https://open.spotify.com/track/1h5KIQzrSqoWwXy5kcdDDI) | [Almost Heaven](https://open.spotify.com/artist/25M75SztfGLmmWJK09R1dN) | [RAW CRANIUM \(8 Month Anniversary Edition\)](https://open.spotify.com/album/47usfreydA0AeYe75FT4dP) | 3:16 | 2026-10-02 | 2026-11-14 |
 | [Mosquito](https://open.spotify.com/track/2aIEqZvD0MNvXVPamBkbif) | [Model/Actriz](https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC) | [Dogsbody](https://open.spotify.com/album/1DWLFwBZxTSBWw7G9uhpok) | 3:12 | 2023-04-14 | 2023-04-27 |
 | [Mothers](https://open.spotify.com/track/7HwsHnOYth2MsW25gDEGWV) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [Mothers](https://open.spotify.com/album/2gRso3E2lJR6xOBFuJqVH6) | 3:12 | 2023-04-14 | 2023-04-27 |
 | [Motor](https://open.spotify.com/track/155t0i7MddhDV4l1KzXgdj) | [SebastiAn](https://open.spotify.com/artist/5tOWIviwLM1EIqGAbF8VSU) | [Total](https://open.spotify.com/album/5WXzljd68vlJL83jHUFcCo) | 4:03 | 2023-04-14 | 2023-04-27 |

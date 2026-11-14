@@ -1,12 +1,12 @@
 {
   "description": "The best pop songs from new, independent artists as chosen by our editors.  Cover: Magdalene. Artwork by Paola Saliby",
-  "num_followers": 245610,
+  "num_followers": 245647,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPVopw9gdVNap5OoVnzr6KICQEUA",
+  "snapshot_id": "AAAAAOh7X6Y/QiTU7cp4tvGlzV099Dk4",
   "tracks": [
     {
       "added_at": "2026-11-11 05:00:20",
@@ -105,6 +105,22 @@
       "url": "https://open.spotify.com/track/0BxQnrSYH2kqwkyjfPmRo0"
     },
     {
+      "added_at": "2026-11-04 08:15:00",
+      "album": {
+        "name": "Union Square",
+        "url": "https://open.spotify.com/album/2j5q0Eh7Kzje63puRKjyFr"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Hightower",
+          "url": "https://open.spotify.com/artist/70A1X73rk0NI2d6A8pENYN"
+        }
+      ],
+      "duration_ms": 214856,
+      "name": "Union Square",
+      "url": "https://open.spotify.com/track/7FfEz5HwiUKjW2r5pp29u5"
+    },
+    {
       "added_at": "2026-11-11 05:00:20",
       "album": {
         "name": "still love",
@@ -185,20 +201,20 @@
       "url": "https://open.spotify.com/track/0UmEboBfvL6nm9m281Ajan"
     },
     {
-      "added_at": "2026-11-04 08:15:00",
+      "added_at": "2026-11-13 05:45:05",
       "album": {
-        "name": "Union Square",
-        "url": "https://open.spotify.com/album/2j5q0Eh7Kzje63puRKjyFr"
+        "name": "give it up",
+        "url": "https://open.spotify.com/album/1DkwXw3hkbka3RtfIwjJKM"
       },
       "artists": [
         {
-          "name": "Benjamin Hightower",
-          "url": "https://open.spotify.com/artist/70A1X73rk0NI2d6A8pENYN"
+          "name": "love, brandon",
+          "url": "https://open.spotify.com/artist/6waghryvFV0joFY6o70fYC"
         }
       ],
-      "duration_ms": 214856,
-      "name": "Union Square",
-      "url": "https://open.spotify.com/track/7FfEz5HwiUKjW2r5pp29u5"
+      "duration_ms": 198391,
+      "name": "give it up",
+      "url": "https://open.spotify.com/track/6YhXYZYBhG6hMC2CgaLR2s"
     },
     {
       "added_at": "2026-11-04 08:15:00",
@@ -263,6 +279,22 @@
       "duration_ms": 189376,
       "name": "I'm losing you",
       "url": "https://open.spotify.com/track/7IgwLaFZtyU78jW13d8qvL"
+    },
+    {
+      "added_at": "2026-11-13 15:22:37",
+      "album": {
+        "name": "Back To Back",
+        "url": "https://open.spotify.com/album/4WwNQD3PYCtdIQeu5yb2Rx"
+      },
+      "artists": [
+        {
+          "name": "Alya",
+          "url": "https://open.spotify.com/artist/6xcJFzdGwkQBTtA59Bkckg"
+        }
+      ],
+      "duration_ms": 158703,
+      "name": "Back To Back",
+      "url": "https://open.spotify.com/track/47mM2WXnn8ju70p4LY1lT3"
     },
     {
       "added_at": "2026-11-04 08:15:00",
@@ -953,22 +985,6 @@
       "url": "https://open.spotify.com/track/072EYLKY3RnrcSssCX55gq"
     },
     {
-      "added_at": "2026-09-25 04:03:25",
-      "album": {
-        "name": "Lemonade",
-        "url": "https://open.spotify.com/album/1FPTrSxtlfZvTcGE7n23DX"
-      },
-      "artists": [
-        {
-          "name": "Alya",
-          "url": "https://open.spotify.com/artist/6xcJFzdGwkQBTtA59Bkckg"
-        }
-      ],
-      "duration_ms": 169907,
-      "name": "Lemonade",
-      "url": "https://open.spotify.com/track/3Cof51IjtIRLXf9kE2rJWf"
-    },
-    {
       "added_at": "2026-09-09 04:00:32",
       "album": {
         "name": "Ghost Train",
@@ -1175,22 +1191,6 @@
       "duration_ms": 152014,
       "name": "aries baby",
       "url": "https://open.spotify.com/track/6j6NzyRcYOQBHl4ZXNEYyP"
-    },
-    {
-      "added_at": "2026-08-12 04:00:21",
-      "album": {
-        "name": "feelers",
-        "url": "https://open.spotify.com/album/00lY3S9VQS87lbDYv8xZkx"
-      },
-      "artists": [
-        {
-          "name": "favourite daughter",
-          "url": "https://open.spotify.com/artist/5adUhor66Yv7p08ReRM8Nk"
-        }
-      ],
-      "duration_ms": 215713,
-      "name": "feelers",
-      "url": "https://open.spotify.com/track/5FtEr2o68yV6ylYE4Mf4fZ"
     },
     {
       "added_at": "2026-08-05 04:00:03",

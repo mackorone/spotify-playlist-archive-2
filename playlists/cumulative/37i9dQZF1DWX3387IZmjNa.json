@@ -2269,6 +2269,32 @@
     },
     {
       "album": {
+        "name": "Bonnet (feat. Summer Walker & Wale)",
+        "url": "https://open.spotify.com/album/6ojxltpSA1OpKRZfBQMUfh"
+      },
+      "artists": [
+        {
+          "name": "Belly Gang Kushington",
+          "url": "https://open.spotify.com/artist/7oHPIc7BYAIUhYFF6hSggI"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216011,
+      "name": "Bonnet (feat. Summer Walker & Wale)",
+      "url": "https://open.spotify.com/track/6nWs4Y03MpFsXFMl0yKyLK"
+    },
+    {
+      "album": {
         "name": "Bonnie & Clyde (feat. Fivio Foreign)",
         "url": "https://open.spotify.com/album/5OZdwjaDcephU36JxKj4PH"
       },
@@ -3719,6 +3745,28 @@
     },
     {
       "album": {
+        "name": "DAM BABY",
+        "url": "https://open.spotify.com/album/5JaAmWleCIJ6p6a1CjQjqF"
+      },
+      "artists": [
+        {
+          "name": "Mark Lux",
+          "url": "https://open.spotify.com/artist/29fuOxHZkxmYqLIpBjE7V5"
+        },
+        {
+          "name": "Michael Sneed",
+          "url": "https://open.spotify.com/artist/42KWzHkbr6Q6BV7gSfYkpl"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212884,
+      "name": "DAM BABY",
+      "url": "https://open.spotify.com/track/19PlPvG6QkwPU6r6iLSOo6"
+    },
+    {
+      "album": {
         "name": "Dancing With The Devil",
         "url": "https://open.spotify.com/album/3GQZZxIdXi7ZLr63tdhDxM"
       },
@@ -4862,10 +4910,40 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 158976,
       "name": "Face Card (with Chris Brown & Bryson Tiller)",
       "url": "https://open.spotify.com/track/5N3p9YjU6WGfU0y4jrgEGc"
+    },
+    {
+      "album": {
+        "name": "Face Card (with Chris Brown, Bryson Tiller & Summer Walker) [Remix]",
+        "url": "https://open.spotify.com/album/2VSKmSStjfMUC8kPECoqlm"
+      },
+      "artists": [
+        {
+          "name": "Skilla Baby",
+          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186379,
+      "name": "Face Card (with Chris Brown, Bryson Tiller & Summer Walker) - Remix",
+      "url": "https://open.spotify.com/track/5iNMN3dgHtEwixszbq6fBC"
     },
     {
       "album": {
@@ -10552,7 +10630,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 187614,
       "name": "MONDAY TO SUNDAY",
       "url": "https://open.spotify.com/track/6SLgQQSONZBJcRJj2NU01D"
@@ -14712,7 +14790,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 260629,
       "name": "SIMON SAYS feat isaiah falls, odeal & sasha keable",
       "url": "https://open.spotify.com/track/5IeZUCk0iexBelsswgPjFz"

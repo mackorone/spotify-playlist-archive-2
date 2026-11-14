@@ -1,6 +1,6 @@
 {
   "description": "Historias y versos que tocan la piel. ",
-  "num_followers": 296393,
+  "num_followers": 296371,
   "original_name": "Esenciales Trova",
   "owner": {
     "name": "Spotify",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
+        "name": "Escarlata",
+        "url": "https://open.spotify.com/album/3TWcdcy2vPnaIXmDYfCpj0"
+      },
+      "artists": [
+        {
+          "name": "Edgar Oceransky",
+          "url": "https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl"
+        }
+      ],
+      "duration_ms": 216035,
+      "name": "Ella es un Volc\u00e1n",
+      "url": "https://open.spotify.com/track/7jXYvUbqMQHLBDn12Yruxp"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
         "name": "A mi lado",
         "url": "https://open.spotify.com/album/0rOqxGx0SPI8ZYnToq7HoE"
       },
@@ -1423,22 +1439,6 @@
       "duration_ms": 239717,
       "name": "A mi lado",
       "url": "https://open.spotify.com/track/6B1t254FqrOgPxmLTmRvxR"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
-        "name": "Escarlata",
-        "url": "https://open.spotify.com/album/3TWcdcy2vPnaIXmDYfCpj0"
-      },
-      "artists": [
-        {
-          "name": "Edgar Oceransky",
-          "url": "https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl"
-        }
-      ],
-      "duration_ms": 216035,
-      "name": "Ella es un Volc\u00e1n",
-      "url": "https://open.spotify.com/track/7jXYvUbqMQHLBDn12Yruxp"
     },
     {
       "added_at": "2021-10-26 03:29:04",
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
+        "name": "Juro",
+        "url": "https://open.spotify.com/album/34eOeoTPpnB8xQMKCv6dN8"
+      },
+      "artists": [
+        {
+          "name": "Edgar Oceransky",
+          "url": "https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl"
+        }
+      ],
+      "duration_ms": 222783,
+      "name": "Juro",
+      "url": "https://open.spotify.com/track/3uGbe1nJQcC8nWoQ03Ebuf"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
         "name": "Todos los ojos te miran",
         "url": "https://open.spotify.com/album/1GPzyUlurqWS0KjG8g2J4n"
       },
@@ -1507,22 +1523,6 @@
       "duration_ms": 253323,
       "name": "Todos los ojos te miran (feat. Chico Buarque)",
       "url": "https://open.spotify.com/track/4DW7Ve6nklGVl1Stswkya6"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
-        "name": "Juro",
-        "url": "https://open.spotify.com/album/34eOeoTPpnB8xQMKCv6dN8"
-      },
-      "artists": [
-        {
-          "name": "Edgar Oceransky",
-          "url": "https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl"
-        }
-      ],
-      "duration_ms": 222783,
-      "name": "Juro",
-      "url": "https://open.spotify.com/track/3uGbe1nJQcC8nWoQ03Ebuf"
     },
     {
       "added_at": "2021-07-29 16:46:05",

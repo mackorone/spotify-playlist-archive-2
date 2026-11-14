@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KKclrVPfDr.md) - [plain]
 
 > गाँव\-घर की शादियों का असली संगीत 'भोजपुरी विवाह गीत'.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,533 likes - 50 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,536 likes - 50 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KKclrVPfDr.md) - [plain]
 | 22 | [Sone Ke Sinhorwa \- From "Mehaan"](https://open.spotify.com/track/0NahhEHM4OiXZ3m8a7Vcef) | [Khushi Kakkar](https://open.spotify.com/artist/0BJNNzQGYD82tPvp5ziJiu), [RR Pankaj](https://open.spotify.com/artist/2lfDVEQdxB082sSkJFqfb7) | [Sone Ke Sinhorwa \(From "Mehaan"\)](https://open.spotify.com/album/451b2pGI9EXSSncT0aYLeu) | 2:43 |
 | 23 | [Jehne Kishori Mori](https://open.spotify.com/track/5NAhU7NpZHDVTY9xUmkiYr) | [Indu Sonali](https://open.spotify.com/artist/0PTzUYVfb8g1RhML4H0sho) | [Jehne Kishori Mori](https://open.spotify.com/album/3vQJ42HlP9D2MK9rOrpEvF) | 4:41 |
 | 24 | [Banal Rahe Amar Suhag](https://open.spotify.com/track/0SyhsuQ8PGJRt52qFV4oTK) | [Alka Singh Pahadiya](https://open.spotify.com/artist/7AwxuWU9ebCFwBl7cltEPH) | [Banal Rahe Amar Suhag](https://open.spotify.com/album/1nWL4bSG5mk2Ut8eSAbGrh) | 4:28 |
-| 25 | [Doli Leke Aihein Dulhiniya](https://open.spotify.com/track/58rf0fEiolEKlQjUnSWGT5) | [Alka Singh](https://open.spotify.com/artist/7rOPbV4rxVRfNvwrfeEKU7) | [Dulha Hindustani \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5d8ugrxneHuJBxahIBEA8P) | 3:41 |
+| 25 | [Aaja Balam Leke Doli](https://open.spotify.com/track/6sUq0TupQApUTQySwfBWR2) | [Kalpana Patowary](https://open.spotify.com/artist/1RMmK2dEtVEbhSV7qvSXJ1) | [Mahua Tapke Chunariya Mein](https://open.spotify.com/album/2VWRUMn67nilfhkyIu02nQ) | 7:29 |
 | 26 | [Saanwar \- Sawar Suratiya Tohaar Dulha](https://open.spotify.com/track/5oXdYgaXizNKsLoATHxnPq) | [Sharda Sinha](https://open.spotify.com/artist/0us5gjkn3JwkrYuvCK6gJ2) | [Dulhin](https://open.spotify.com/album/6NM2PNbNHlENPjstKMqZHP) | 8:30 |
-| 27 | [Aaja Balam Leke Doli](https://open.spotify.com/track/6sUq0TupQApUTQySwfBWR2) | [Kalpana Patowary](https://open.spotify.com/artist/1RMmK2dEtVEbhSV7qvSXJ1) | [Mahua Tapke Chunariya Mein](https://open.spotify.com/album/2VWRUMn67nilfhkyIu02nQ) | 7:29 |
+| 27 | [Doli Leke Aihein Dulhiniya](https://open.spotify.com/track/58rf0fEiolEKlQjUnSWGT5) | [Alka Singh](https://open.spotify.com/artist/7rOPbV4rxVRfNvwrfeEKU7) | [Dulha Hindustani \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5d8ugrxneHuJBxahIBEA8P) | 3:41 |
 | 28 | [Vivah Geet \(From "Hawa Mein Udta Jaye Mera Lal Dupatta Malmal Ka"\)](https://open.spotify.com/track/3CR3vrJDFpikRoEitIxOCB) | [Indu Sonali](https://open.spotify.com/artist/0PTzUYVfb8g1RhML4H0sho) | [Bhojpuri Vivah Geet](https://open.spotify.com/album/1Wi0n2gC2filR7gxvsRlBV) | 15:17 |
 | 29 | [Senurwa Singar Hokhela](https://open.spotify.com/track/4Jb0GGYQfpTEV788TibfET) | [Ankush Raja](https://open.spotify.com/artist/4vctPMlkya4meCAAKBHqmu) | [Senurwa Singar Hokhela](https://open.spotify.com/album/2Uv0m4e5AlAZH5TZnvoDy5) | 3:40 |
 | 30 | [Aaju Mithila Nagariya Nihal Sakhiya](https://open.spotify.com/track/51x8NJOUidVvDbCLNZ7AgN) | [Sakshi Singh](https://open.spotify.com/artist/0UJWFdORLnHitbhhps6TKX) | [Aaju Mithila Nagariya Nihal Sakhiya](https://open.spotify.com/album/6aqVG83R2RghR1RlyJP3om) | 3:54 |
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KKclrVPfDr.md) - [plain]
 | 45 | [CHUTKI BHAR SENURA](https://open.spotify.com/track/4LQ8sY86aDpaVOYLhlRNs6) | [Mohini Dwivedi](https://open.spotify.com/artist/4cRYiIKUvFsRMeAnuPSdIO) | [CHUTKI BHAR SENURA](https://open.spotify.com/album/0aBZzUEo03oyAzfbThE5xy) | 4:50 |
 | 46 | [Angna Ke Namwa Haswala Ho](https://open.spotify.com/track/5J7zaSnySIRsjE1msEFuSw) | [KUMARI SONAL](https://open.spotify.com/artist/06TPwrMe1ZOjyYBeuPD3o1), [Ananyya Singhh](https://open.spotify.com/artist/6PZBSvecJzYBo85YKKo2nA) | [Angna Ke Namwa Haswala Ho](https://open.spotify.com/album/3GflOnKP9A3g4y0HRjU7jL) | 3:12 |
 | 47 | [Shri Ganeshay Namah](https://open.spotify.com/track/5WoSQKlucY7p6W4laXFGLd) | [Anuradha Paudwal](https://open.spotify.com/artist/4hkB2bR5ek6lJChj6aunCn) | [Beti Ke Biaah](https://open.spotify.com/album/5biXtMXgPKuqCs4UWbAowR) | 5:43 |
-| 48 | [Hare\-Hare Hare Dada](https://open.spotify.com/track/1atl5wZPYRVqYotOzmiWiL) | [Devi](https://open.spotify.com/artist/5w9vr3Fiv8Up0KCOz6fgAk) | [Mangal Geet](https://open.spotify.com/album/5LRXr1pKz4moRJ8bH6afmh) | 6:44 |
+| 48 | [Swagat Mein Gaari Sunava](https://open.spotify.com/track/5RFY6BRxPIrkL63WOrAhD5) | [Devi](https://open.spotify.com/artist/5w9vr3Fiv8Up0KCOz6fgAk) | [Mangal Geet](https://open.spotify.com/album/5LRXr1pKz4moRJ8bH6afmh) | 3:36 |
 | 49 | [Chutki Bhar Senura](https://open.spotify.com/track/0ERPhyi69zPIsDSbFlQTZo) | [Sushant Asthana](https://open.spotify.com/artist/70DPuZFzmT4KpKWukOS45q) | [Chutki Bhar Senura](https://open.spotify.com/album/1UKdtZNcnZ4pYTCgQC7S1w) | 6:52 |
 | 50 | [Mangal Gariya He](https://open.spotify.com/track/4ThM0yxqeDrWK0RBMfwg64) | [Adarsh Aadee](https://open.spotify.com/artist/0vZTfW7WeDGzgeim5bDJKt) | [Mangal Gariya He](https://open.spotify.com/album/74IL4qtE7Zo3qn6CRQqpdy) | 5:55 |
 

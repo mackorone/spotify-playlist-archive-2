@@ -4,7 +4,7 @@
 
 > De stærkeste nye sange fra de seneste par måneder\. Så er du opdateret!
 
-1,368 songs - 2 day 23 hr 15 min
+1,369 songs - 2 day 23 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Ain't No Love In Oklahoma \(From Twisters: The Album\)](https://open.spotify.com/track/6GG4yyk3UATdBfTHVgI8PB) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Ain't No Love In Oklahoma \(From Twisters: The Album\)](https://open.spotify.com/album/7x1eLsPizad7dHnqCGQODx) | 3:30 | 2024-07-01 | 2024-09-11 |
 | [Air Maxes](https://open.spotify.com/track/1Lqe8uCWPfAjjuztMplsYA) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4), [Shady Nasty](https://open.spotify.com/artist/5fEdUhbIAf9JlPhlc3swPx), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Air Maxes](https://open.spotify.com/album/3uJi79dqEa5suZaCg5DTGK) | 3:01 | 2025-07-03 | 2025-07-20 |
 | [Airbender](https://open.spotify.com/track/4xBSR1MvDskoAGOwQERjX8) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [Heavy Is The Crown](https://open.spotify.com/album/1pbMoqpMgCyjPefcJ9PKdq) | 1:28 | 2026-10-22 |  |
+| [Aldrig Igen](https://open.spotify.com/track/5Z5PgRZIUu8NjovVUODxEI) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [Aldrig Igen](https://open.spotify.com/album/44y6ANts5tOrHbMfLRPMZD) | 3:04 | 2026-11-13 |  |
 | [aldrig lært at elske.](https://open.spotify.com/track/1XDnyQ39GBHH1rC4OQVsfw) | [JONATHAN](https://open.spotify.com/artist/5v96GtI5k2NSfheYWSMNTZ) | [ALDRIG LÆRT AT ELSKE](https://open.spotify.com/album/6X3mh1aqNrfiudZxvuIhH2) | 2:40 | 2026-02-12 | 2026-02-15 |
 | [alene](https://open.spotify.com/track/7C73kg9kyp2yhzUMeF65rS) | [Caroline Dubois](https://open.spotify.com/artist/1l7Qv31AZtPOBuIF7xezqJ) | [alene](https://open.spotify.com/album/6h2MGHtbbpTPAfGuvU9ZS6) | 2:34 | 2025-07-10 | 2025-08-01 |
 | [All At Once](https://open.spotify.com/track/3Jd3aTezMFWeuDcUkANdQQ) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [F1 The Album \(Cinematic Edition\)](https://open.spotify.com/album/5TNQ53hp55WtBA1H8LYtMw) | 2:34 | 2025-07-03 | 2025-08-04 |
@@ -139,7 +140,7 @@
 | [Blink Twice](https://open.spotify.com/track/3f3ujFD6YndqRRVYuBcq7T) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Blink Twice](https://open.spotify.com/album/33EhLLKE9Bo2v3ITgAxvuW) | 2:36 | 2025-04-10 | 2025-07-11 |
 | [BLISS](https://open.spotify.com/track/4dnjLEblR5XKUMJ5ELQceh) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [BLISS](https://open.spotify.com/album/1JlS4zbYH4rRrUuwC80Cqa) | 2:40 | 2025-05-08 | 2025-08-08 |
 | [Bliv hvor du er \(feat\. Artigeardit\)](https://open.spotify.com/track/4A4pwyrf1YrIfTGsmt5D7k) | [Rosa](https://open.spotify.com/artist/5RacSDArd3wuqKnWx46sTM), [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [Bliv hvor du er \(feat\. Artigeardit\)](https://open.spotify.com/album/4H8e7bzAPEr6vnRwriodid) | 2:52 | 2026-03-26 | 2026-05-30 |
-| [Blod](https://open.spotify.com/track/75pme3Ywol4lQNgV1h4kLZ) | [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp) | [Noahs Ark II](https://open.spotify.com/album/6HWkoZ6FCzS84LBcJaKLlo) | 2:42 | 2026-10-08 |  |
+| [Blod](https://open.spotify.com/track/75pme3Ywol4lQNgV1h4kLZ) | [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp) | [Noahs Ark II](https://open.spotify.com/album/6HWkoZ6FCzS84LBcJaKLlo) | 2:42 | 2026-10-08 | 2026-11-14 |
 | [Blodigt \(feat\. Annika\)](https://open.spotify.com/track/2EVJSQTl0bqHISNlJbhNIc) | [Anton Westerlin](https://open.spotify.com/artist/5NYUb39ntjgN7cRtN4y25T), [Annika](https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg) | [Blodigt \(feat\. Annika\)](https://open.spotify.com/album/2a4DFqBDsOnLkeyJWQtNtI) | 3:02 | 2025-01-24 | 2025-04-11 |
 | [Blood In Your Eyes \(from GTAVI: The Album\)](https://open.spotify.com/track/4h3tY2zV4easaHEAbHVmgj) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [Grand Theft Auto VI](https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1) | [Blood In Your Eyes \(from GTAVI: The Album\)](https://open.spotify.com/album/2J5ttiLhgBPxcLyHlhQVKO) | 2:41 | 2026-11-12 |  |
 | [Bloodline \(with Jelly Roll\)](https://open.spotify.com/track/0qmhTHMVxnXRmT5N92wTD9) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Bloodline \(with Jelly Roll\)](https://open.spotify.com/album/2KoAn4MyptQWG1qBx7mu01) | 3:02 | 2025-05-22 | 2025-08-22 |

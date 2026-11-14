@@ -4,7 +4,7 @@
 
 > Get ready to dance with the best House Music! Pulsating beats, groovy rhythms &amp; uplifting vocals from David Guetta, Fisher, Peggy Gou, Oskar, Fred Again.\. and more\. Soulful house, soulful deep house, electronic dance, garage, minimal and sounds\. Updated weekly!
 
-776 songs - 1 day 16 hr 29 min
+777 songs - 1 day 16 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,6 +217,7 @@
 | [Everynight](https://open.spotify.com/track/06EWUJBiD16WAyhJdv6PHu) | [Joe Stone](https://open.spotify.com/artist/4kwEd1P9j15ZqUVP5zK7Pv), [Brad Pearce](https://open.spotify.com/artist/0oU5QHDNNfNucziBwyFtH2) | [Everynight](https://open.spotify.com/album/4E4wqnCX6mPC4PHYiTKwMQ) | 2:45 | 2023-11-03 | 2023-12-02 |
 | [Everything \(feat\. ALLKNIGHT\)](https://open.spotify.com/track/2N6ybgZJj33vh6Xx4dpLYj) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp), [ALLKNIGHT](https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c) | [Everything \(feat\. ALLKNIGHT\)](https://open.spotify.com/album/1axRvitwEm1DYSLcllzyh2) | 3:25 | 2023-11-03 | 2024-08-24 |
 | [Everything Changes \(feat\. Frýnn\)](https://open.spotify.com/track/3irieFgecxwlmogTqnvmBs) | [Tommy Farrow](https://open.spotify.com/artist/48PJbNNOaXy5gbHGHlar5T), [Frýnn](https://open.spotify.com/artist/7qKTe67KmBqhVbkCwrO3Av) | [Everything Changes \(feat\. Frýnn\)](https://open.spotify.com/album/0r9cMhphd6VpzwagBz1FCx) | 3:53 | 2026-10-16 | 2026-10-23 |
+| [Everything Started Changing \(feat\. CLOVES\)](https://open.spotify.com/track/4ZRvdi2lE8YHtkOuIL9doO) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [CLOVES](https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c) | [Aether](https://open.spotify.com/album/24jwW4VYmuqawdcBOG6qY4) | 4:12 | 2026-11-13 |  |
 | [Everything You Have Done](https://open.spotify.com/track/44lgAk4wJN8ObrFSglxui5) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [GENESI](https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7) | [MEDUZA](https://open.spotify.com/album/1ipPj2xEiVWibPm6V1LqEc) | 2:36 | 2025-11-21 | 2026-03-07 |
 | [Exhale](https://open.spotify.com/track/2L5RY6eVB5PYmNsrnchGW1) | [T\. Matthias](https://open.spotify.com/artist/2R7k2SovVWGhTcvPx1JbQv), [Alimish](https://open.spotify.com/artist/2gbXRkygfEuz0WIjtN2vpR) | [Exhale](https://open.spotify.com/album/1JREEnrYGc7Df2GZt2am3v) | 2:30 | 2023-11-03 | 2024-04-10 |
 | [EYES ON ME](https://open.spotify.com/track/6H2esvireFczczagJ4ZoLF) | [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [EYES ON ME](https://open.spotify.com/album/3iL4CabgPMSFybsApWQ7dx) | 3:43 | 2024-11-22 | 2025-10-04 |
@@ -457,7 +458,7 @@
 | [My Place](https://open.spotify.com/track/06PtUjF9NsdCYLaYag104S) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [My Place](https://open.spotify.com/album/1eewW3KA4KOK2GgA8El31C) | 2:39 | 2026-07-03 |  |
 | [Myself \- Radio Edit](https://open.spotify.com/track/0S2gw9QOjaiMV7juCvYjDC) | [Cris Taylor](https://open.spotify.com/artist/35IHRUK5Kx426lQ2KeIB0o) | [Myself](https://open.spotify.com/album/3j9rXaxO48mtpkMy3yappf) | 3:31 | 2026-06-12 |  |
 | [Namerakana 2.0](https://open.spotify.com/track/4SclnywxVnNy94jNauNvPt) | [Omar+](https://open.spotify.com/artist/06HO1b1nd4kQzRakdZBTSc), [Lemtom](https://open.spotify.com/artist/2B9xp0rpwFz5TON2ZSSKEF) | [Namerakana 2.0](https://open.spotify.com/album/6qbMp7L6X6AiLt7VITVx2V) | 2:26 | 2024-08-09 | 2024-08-24 |
-| [NAUGHTY](https://open.spotify.com/track/5dvHXhF7lICfzdPWk2RGuq) | [Amè](https://open.spotify.com/artist/4ZDy00OJc2hPCB4D5hrvFD), [Mckay](https://open.spotify.com/artist/25HwdWPhsQyAgTcOy4IW71) | [NAUGHTY](https://open.spotify.com/album/7wtjh4VUDYLojij0fSB99D) | 2:28 | 2026-10-30 |  |
+| [NAUGHTY](https://open.spotify.com/track/5dvHXhF7lICfzdPWk2RGuq) | [Amè](https://open.spotify.com/artist/4ZDy00OJc2hPCB4D5hrvFD), [Mckay](https://open.spotify.com/artist/25HwdWPhsQyAgTcOy4IW71) | [NAUGHTY](https://open.spotify.com/album/7wtjh4VUDYLojij0fSB99D) | 2:28 | 2026-10-30 | 2026-11-14 |
 | [Need U](https://open.spotify.com/track/7cYABSxx5iBZuNIOy2cVKc) | [BURNS](https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7) | [Need U](https://open.spotify.com/album/05LUDlwglnmLsQVPuXGMJX) | 2:54 | 2025-11-21 | 2026-08-01 |
 | [Need U Bad](https://open.spotify.com/track/0xznAh8jnXYrrr6bqbjLyp) | [Omar Gaxiola](https://open.spotify.com/artist/4rI8wnMMdoziGNURF6Bz9K) | [Grown Love](https://open.spotify.com/album/66cSJhdhEGf61Cb8BAMeiO) | 3:22 | 2026-10-30 | 2026-11-07 |
 | [Need You The Most](https://open.spotify.com/track/6AXCd4zhFP0DokZUxRzMif) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw) | [Need You The Most](https://open.spotify.com/album/42ABRkB43c52nIBFROZJU7) | 2:10 | 2025-03-21 | 2025-04-26 |

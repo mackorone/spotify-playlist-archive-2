@@ -1,6 +1,6 @@
 {
   "description": "The world series of Ska. Cover: Massendefekt\n",
-  "num_followers": 74012,
+  "num_followers": 74028,
   "original_name": "Ska Around The Globe",
   "owner": {
     "name": "Spotify",
@@ -947,22 +947,6 @@
     {
       "added_at": "2026-08-21 06:00:30",
       "album": {
-        "name": "Contra-Revolucion Avenue",
-        "url": "https://open.spotify.com/album/72O6QDXsk2ZkNgZYY2PPF2"
-      },
-      "artists": [
-        {
-          "name": "Tijuana No!",
-          "url": "https://open.spotify.com/artist/2mkMNs2mphrkggZ7me38j1"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "Spanish Bombs",
-      "url": "https://open.spotify.com/track/5hRXh6FJLgjzERxIWbvm2M"
-    },
-    {
-      "added_at": "2026-08-21 06:00:30",
-      "album": {
         "name": "Action (VS. \u7a32\u8449\u6d69\u5fd7)",
         "url": "https://open.spotify.com/album/6JqWeJGes6UDLV5kAgWNIs"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 123000,
       "name": "STAY YOUNG STAY PUNK",
       "url": "https://open.spotify.com/track/1vkAooo0F2HolXGWOnu31C"
+    },
+    {
+      "added_at": "2026-08-21 06:00:30",
+      "album": {
+        "name": "Contra-Revolucion Avenue",
+        "url": "https://open.spotify.com/album/72O6QDXsk2ZkNgZYY2PPF2"
+      },
+      "artists": [
+        {
+          "name": "Tijuana No!",
+          "url": "https://open.spotify.com/artist/2mkMNs2mphrkggZ7me38j1"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "Spanish Bombs",
+      "url": "https://open.spotify.com/track/5hRXh6FJLgjzERxIWbvm2M"
     },
     {
       "added_at": "2026-08-21 06:00:30",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2026-08-21 06:00:30",
       "album": {
-        "name": "Mudik",
-        "url": "https://open.spotify.com/album/3x0dxk1UNE1cAk2jmLrAUQ"
-      },
-      "artists": [
-        {
-          "name": "Shaggydog",
-          "url": "https://open.spotify.com/artist/0AjuoWaVVGH41iEhASaj2r"
-        }
-      ],
-      "duration_ms": 255500,
-      "name": "Mudik",
-      "url": "https://open.spotify.com/track/3u7pq1wcyrms1poAnD5HuR"
-    },
-    {
-      "added_at": "2026-08-21 06:00:30",
-      "album": {
         "name": "Paz y Baile",
         "url": "https://open.spotify.com/album/3QInNg3IGdnIn8NaSwuUOr"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 218750,
       "name": "Paz y Baile",
       "url": "https://open.spotify.com/track/2eSYkbxRBkfJTm8ILlnB9P"
+    },
+    {
+      "added_at": "2026-08-21 06:00:30",
+      "album": {
+        "name": "Mudik",
+        "url": "https://open.spotify.com/album/3x0dxk1UNE1cAk2jmLrAUQ"
+      },
+      "artists": [
+        {
+          "name": "Shaggydog",
+          "url": "https://open.spotify.com/artist/0AjuoWaVVGH41iEhASaj2r"
+        }
+      ],
+      "duration_ms": 255500,
+      "name": "Mudik",
+      "url": "https://open.spotify.com/track/3u7pq1wcyrms1poAnD5HuR"
     },
     {
       "added_at": "2026-08-21 06:00:30",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2026-08-21 06:00:30",
       "album": {
-        "name": "Estoy en Paz",
-        "url": "https://open.spotify.com/album/2rAz4h0MvhaX1dScUuBGmM"
-      },
-      "artists": [
-        {
-          "name": "Los Estramboticos",
-          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
-        }
-      ],
-      "duration_ms": 172285,
-      "name": "Estoy en Paz",
-      "url": "https://open.spotify.com/track/0VXeUMWXIGIE6uOtPzlk7Z"
-    },
-    {
-      "added_at": "2026-08-21 06:00:30",
-      "album": {
         "name": "Landslide",
         "url": "https://open.spotify.com/album/048fR8LNv0By4skCQYeDyG"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 164333,
       "name": "Landslide",
       "url": "https://open.spotify.com/track/5YY4YVwf4pOfqARgCRVviB"
+    },
+    {
+      "added_at": "2026-08-21 06:00:30",
+      "album": {
+        "name": "Estoy en Paz",
+        "url": "https://open.spotify.com/album/2rAz4h0MvhaX1dScUuBGmM"
+      },
+      "artists": [
+        {
+          "name": "Los Estramboticos",
+          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
+        }
+      ],
+      "duration_ms": 172285,
+      "name": "Estoy en Paz",
+      "url": "https://open.spotify.com/track/0VXeUMWXIGIE6uOtPzlk7Z"
     },
     {
       "added_at": "2026-08-21 06:00:30",
@@ -1407,26 +1407,6 @@
     {
       "added_at": "2026-08-21 06:00:30",
       "album": {
-        "name": "Don't Speak",
-        "url": "https://open.spotify.com/album/7b7AM8NvWaj5A8iyEAvjTw"
-      },
-      "artists": [
-        {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        },
-        {
-          "name": "The Skints",
-          "url": "https://open.spotify.com/artist/39k4UDTgsWe6NCi6hgnfc1"
-        }
-      ],
-      "duration_ms": 280293,
-      "name": "Don't Speak",
-      "url": "https://open.spotify.com/track/7D823Ok1jHreqNkVwic81R"
-    },
-    {
-      "added_at": "2026-08-21 06:00:30",
-      "album": {
         "name": "BAALBEK",
         "url": "https://open.spotify.com/album/1qJp7wv0a4SqCO0BANGjC4"
       },
@@ -1459,6 +1439,26 @@
     {
       "added_at": "2026-08-21 06:00:30",
       "album": {
+        "name": "Don't Speak",
+        "url": "https://open.spotify.com/album/7b7AM8NvWaj5A8iyEAvjTw"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        },
+        {
+          "name": "The Skints",
+          "url": "https://open.spotify.com/artist/39k4UDTgsWe6NCi6hgnfc1"
+        }
+      ],
+      "duration_ms": 280293,
+      "name": "Don't Speak",
+      "url": "https://open.spotify.com/track/7D823Ok1jHreqNkVwic81R"
+    },
+    {
+      "added_at": "2026-08-21 06:00:30",
+      "album": {
         "name": "Return Of The Ugly",
         "url": "https://open.spotify.com/album/6HOvTf2kejA6S1lh0rCTCD"
       },
@@ -1487,22 +1487,6 @@
       "duration_ms": 199565,
       "name": "Juntos",
       "url": "https://open.spotify.com/track/3zJizV0VAlItx99aOKEtLo"
-    },
-    {
-      "added_at": "2026-08-21 06:00:30",
-      "album": {
-        "name": "Dead Man's Party",
-        "url": "https://open.spotify.com/album/38oI82wRnQPtqzrnKvPFWO"
-      },
-      "artists": [
-        {
-          "name": "Ludo",
-          "url": "https://open.spotify.com/artist/6ok7bEDf9CZ0448D59AaNL"
-        }
-      ],
-      "duration_ms": 258019,
-      "name": "Dead Man's Party",
-      "url": "https://open.spotify.com/track/3rRpozx2ZA7M3wFpA46BX6"
     },
     {
       "added_at": "2026-08-21 06:00:30",
@@ -1543,6 +1527,22 @@
       "duration_ms": 150553,
       "name": "Looking Out For #1 - Ska Version",
       "url": "https://open.spotify.com/track/4ZBg1K6FoRm9UeOgREONMm"
+    },
+    {
+      "added_at": "2026-08-21 06:00:30",
+      "album": {
+        "name": "Dead Man's Party",
+        "url": "https://open.spotify.com/album/38oI82wRnQPtqzrnKvPFWO"
+      },
+      "artists": [
+        {
+          "name": "Ludo",
+          "url": "https://open.spotify.com/artist/6ok7bEDf9CZ0448D59AaNL"
+        }
+      ],
+      "duration_ms": 258019,
+      "name": "Dead Man's Party",
+      "url": "https://open.spotify.com/track/3rRpozx2ZA7M3wFpA46BX6"
     },
     {
       "added_at": "2026-08-21 06:00:30",

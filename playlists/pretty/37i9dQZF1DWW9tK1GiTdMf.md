@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > musica per un autunno non proprio felice \(gianmaria in cover\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,098 likes - 105 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,144 likes - 105 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 23 | [CHAOS PERFETTO](https://open.spotify.com/track/5tnxoaFOYSmGEaNVQDbyCF) | [rob](https://open.spotify.com/artist/3l27L67Ia3t46fkOZ7B7o7) | [CHAOS PERFETTO](https://open.spotify.com/album/0s8Lqd1REuYNENvLrlIbQQ) | 2:45 |
 | 24 | [ANCORA](https://open.spotify.com/track/0wpHfNrcHhorXg5hAShozc) | [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc) | [ANCORA](https://open.spotify.com/album/0UVmCwuninL78hS7RUYq5L) | 2:33 |
 | 25 | [I BAFFI](https://open.spotify.com/track/7oJyLYCKlZeC6f4ygsakUy) | [ALBE.x](https://open.spotify.com/artist/20pY261He7JCdV1FbbGZQb) | [I BAFFI](https://open.spotify.com/album/33JlIF1AQ7th0szEcvsSFc) | 2:06 |
-| 26 | [Rimorsi \(feat\. Ozone Dehumanaizer\) \- remix](https://open.spotify.com/track/6uQn1s2piQ24J9eLzBHyuX) | [Emilio Paranoico](https://open.spotify.com/artist/2xdOdEbFRAeoFbKMSBu3sL), [Ozone Dehumanaizer](https://open.spotify.com/artist/1GrYASDCx98fVAzR5XBPcS) | [Rimorsi \(feat\. Ozone Dehumanaizer\) \[remix\]](https://open.spotify.com/album/1Rh5lex9UBSM7tc3xcB85x) | 2:56 |
+| 26 | [Rimorsi \(feat\. Ozone Dehumanizer\) \- remix](https://open.spotify.com/track/6uQn1s2piQ24J9eLzBHyuX) | [Emilio Paranoico](https://open.spotify.com/artist/2xdOdEbFRAeoFbKMSBu3sL), [Ozone Dehumanizer](https://open.spotify.com/artist/2T7ZaWYc2rjC2q3egoJmh0) | [Rimorsi \(feat\. Ozone Dehumanizer\) \[remix\]](https://open.spotify.com/album/1Rh5lex9UBSM7tc3xcB85x) | 2:56 |
 | 27 | [FOGLIE DI TABACCO \(feat\. Shama24k\)](https://open.spotify.com/track/6779Vm2PYeM1gXoPeiMxBk) | [ArtiKo](https://open.spotify.com/artist/1XJWVZguwF8VOyMyYQwpRk), [Shama24k](https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm) | [FOGLIE DI TABACCO \(feat\. Shama24k\)](https://open.spotify.com/album/1r0rQMv3OwqJgm3lDLsKuU) | 2:47 |
 | 28 | [Palla di neve](https://open.spotify.com/track/1ZcRDEpIuhkz2pcEbdiDre) | [ALLERTA!](https://open.spotify.com/artist/0hKvP3aJhzfrFwABgGJHUI) | [Palla di neve](https://open.spotify.com/album/4YkYisSQyYAF3UIkp8FwBs) | 4:08 |
 | 29 | [Invisibile](https://open.spotify.com/track/5G5CZZuZzHTJEYgTwdk63E) | [5070](https://open.spotify.com/artist/3A2anH3bHUnq50s2EZZVMt) | [Invisibile](https://open.spotify.com/album/5Bj6IlvvFT7C6l1eiZ5Dvd) | 2:35 |

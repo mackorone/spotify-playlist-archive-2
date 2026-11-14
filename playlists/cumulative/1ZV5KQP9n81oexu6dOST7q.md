@@ -4,7 +4,7 @@
 
 > Get ready to party met deze ultieme DANCE Party Mix Playlist!
 
-190 songs - 9 hr 39 min
+191 songs - 9 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [dream about u](https://open.spotify.com/track/3M2GqbZhACjU0cGZGBdIxs) | [bbyclose](https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH) | [dream about u](https://open.spotify.com/album/0xNICx56CgafxDR8sV6wiq) | 2:50 | 2026-02-13 | 2026-03-28 |
 | [ego](https://open.spotify.com/track/5PBTKRzy7645Er3nPxTWWK) | [bbyclose](https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH) | [ego](https://open.spotify.com/album/3EQlX84VGFJcYuV4g9frFm) | 2:42 | 2025-10-24 |  |
 | [Electric High](https://open.spotify.com/track/1MEiXJK91I7by4os5CxKpH) | [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO) | [Electric High](https://open.spotify.com/album/676PjzaourdD3l6Nb3HpwO) | 2:24 | 2025-07-04 | 2026-08-25 |
+| [Elektriciteit](https://open.spotify.com/track/4ZMDZcg57yKNlg5OtCfmFs) | [Nachtdienst](https://open.spotify.com/artist/3064mDVay7KaKF8TyuD8kw) | [Elektriciteit](https://open.spotify.com/album/703VUnkGIXzidBngOP2P5q) | 2:33 | 2026-11-13 |  |
 | [End Of Summer](https://open.spotify.com/track/5R4P7dPtVQalJ7DrRwLVXv) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Dracula](https://open.spotify.com/album/2kCjkEVRnLdEV5UOaQSAG4) | 7:12 | 2025-10-10 |  |
 | [Exhilaration](https://open.spotify.com/track/7B8MbvpzBhbhYf3xvzHbba) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [Freakquencies: Volume 1](https://open.spotify.com/album/4gaNqy701TUFmsUtIFLfeD) | 3:27 | 2025-08-22 | 2025-09-13 |
 | [FADE](https://open.spotify.com/track/1ZpzOXJwRbvKgYK2XBVRfi) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B) | [FADE](https://open.spotify.com/album/5n4l9QpvnozMdhrdxRQIHU) | 2:58 | 2026-02-09 |  |

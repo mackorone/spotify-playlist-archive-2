@@ -4,7 +4,7 @@
 
 > 新進気鋭の邦ロックサウンドをひとつのプレイリストに。cover: セブンス・ベガ
 
-2,052 songs - 5 day 4 hr 5 min
+2,053 songs - 5 day 4 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1479,6 +1479,7 @@
 | [三日月](https://open.spotify.com/track/2OySFMcSp7sQme28OZrm0B) | [suiheisen](https://open.spotify.com/artist/2JDltXALEgRIAukd403crv) | [希望の匂い](https://open.spotify.com/album/0nuQNH81AYkyvXharmEYzN) | 3:44 | 2026-02-24 | 2026-03-30 |
 | [三月の風](https://open.spotify.com/track/6fPnOHHrctWsNa6F9smlxP) | [バウンダリー](https://open.spotify.com/artist/3WrFAQo5JpE89ynQIvouXC) | [三月の風](https://open.spotify.com/album/30x3lidNArVmRqki2C0b4y) | 3:52 | 2024-03-05 | 2024-03-07 |
 | [不器用な人](https://open.spotify.com/track/38aycIM2nzIE9mqz6qFLM1) | [AHUB](https://open.spotify.com/artist/3PlNRhsKLFl3TFw5IJIGTs) | [不器用な人](https://open.spotify.com/album/14lLrjZU79YZoZLaFoxfTi) | 3:16 | 2025-04-01 | 2025-04-21 |
+| [不安鏡人](https://open.spotify.com/track/5s07RQzNslJ9IbpVDtrGFS) | [NAME.O](https://open.spotify.com/artist/3MTuaPQH5wgzIGkPQMBqRL) | [不安鏡人](https://open.spotify.com/album/35yCkfrQJg6Mo0FMihWxRn) | 3:30 | 2026-11-10 |  |
 | [不完ロマンス](https://open.spotify.com/track/6GeiPhDFSxzta6J1YCjaIB) | [bokula.](https://open.spotify.com/artist/03d8apfHOy2uV3oLL9lsFG) | [不完ロマンス](https://open.spotify.com/album/3cDwYqsC8SXdDQ6zeFvAd0) | 3:30 | 2024-03-19 | 2024-04-24 |
 | [不完全に恋](https://open.spotify.com/track/5qpLjmnEDcGM1Zw6LZ5WOC) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [sanagi](https://open.spotify.com/album/6F0LtXo7VovXaEINPeFRob) | 3:15 | 2024-11-12 | 2025-05-02 |
 | [不思議](https://open.spotify.com/track/1U8MjhqHnX10XGa2Zdvnr4) | [new you](https://open.spotify.com/artist/1bPfRggcRoyHttO7uVlcHR) | [不思議](https://open.spotify.com/album/1mQUkDSwMXn306zCazYUva) | 3:19 | 2024-03-12 | 2024-03-20 |
@@ -2050,7 +2051,7 @@
 | [風船](https://open.spotify.com/track/4S6WOlZQdqCY9jV6zNvodB) | [らそんぶる](https://open.spotify.com/artist/7b5qmQwKzZMoSDpRDvpU6j) | [風船](https://open.spotify.com/album/3MBtrFhoiAGJnEq0g0WEVd) | 3:27 | 2024-12-17 | 2025-02-19 |
 | [飢え鴉](https://open.spotify.com/track/1O9qkENRrv4HNvQFBOrVuI) | [まおた](https://open.spotify.com/artist/6IhcIUsBfU3iBMB87ShNTT) | [飢え鴉](https://open.spotify.com/album/4ZFnHcOQML11p2VImQALem) | 3:33 | 2026-10-20 | 2026-11-04 |
 | [飴と鞭](https://open.spotify.com/track/7hfNGFlfHLbe4h7xTrbjfu) | [MOSHIMO](https://open.spotify.com/artist/2wfyx0p7LKFYZh2SaM9pXy) | [飴と鞭](https://open.spotify.com/album/141H237A7IvCyCG0x4ekhF) | 3:28 | 2025-01-14 | 2025-01-22 |
-| [骸](https://open.spotify.com/track/3DRxJmLpOKjKyJFLBy8j1J) | [Laughing Hick](https://open.spotify.com/artist/17DWzzd6Ap8umcfYBYHJ3W) | [骸](https://open.spotify.com/album/0Aaswmx6RDe12irgUVw0mt) | 3:48 | 2026-10-20 |  |
+| [骸](https://open.spotify.com/track/3DRxJmLpOKjKyJFLBy8j1J) | [Laughing Hick](https://open.spotify.com/artist/17DWzzd6Ap8umcfYBYHJ3W) | [骸](https://open.spotify.com/album/0Aaswmx6RDe12irgUVw0mt) | 3:48 | 2026-10-20 | 2026-11-14 |
 | [高槻](https://open.spotify.com/track/1Z1Kfw6ZDzyJKMctio1QVl) | [grating hunny](https://open.spotify.com/artist/2eW8gcgFVJCQ1DixDrVF52) | [あの娘の春を想う](https://open.spotify.com/album/0Kzres1NymuEfctIVZF8JS) | 3:33 | 2024-01-09 | 2024-02-01 |
 | [魔女と狩人](https://open.spotify.com/track/2ATrGyhc14jtrd3M7yjU80) | [藍空と月](https://open.spotify.com/artist/04gPMXDpwndachrxXFNcwg) | [魔女と狩人](https://open.spotify.com/album/4XdyUZuE6mFTCtvlaUVSbQ) | 2:38 | 2026-06-30 | 2026-07-18 |
 | [魔法がとける前に](https://open.spotify.com/track/5ENeQ4fXWw9dUFgiiplipH) | [セブンス・ベガ](https://open.spotify.com/artist/4vTpw8jh1edDWj0ATZYgd7) | [魔法がとける前に](https://open.spotify.com/album/5D6WVPU9JL8dpWj7NyHYiE) | 4:01 | 2026-04-07 | 2026-09-12 |

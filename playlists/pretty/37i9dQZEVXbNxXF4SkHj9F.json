@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - South Korea.",
-  "num_followers": 183366,
+  "num_followers": 183446,
   "original_name": "Top 50 - South Korea",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MolMcAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "Moqd8AAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2026-11-12 14:31:47",
+      "added_at": "2026-11-13 14:31:15",
       "album": {
         "name": "NEON",
         "url": "https://open.spotify.com/album/4LcuVwt8mIj0SIoWQqnDkd"
@@ -29,23 +29,7 @@
       "url": "https://open.spotify.com/track/5PvLNQRNRj61y3CU4SFIY4"
     },
     {
-      "added_at": "2026-11-12 14:31:47",
-      "album": {
-        "name": "PULSE",
-        "url": "https://open.spotify.com/album/0OttvVI4SPZ9DbvEmlDceI"
-      },
-      "artists": [
-        {
-          "name": "RESCENE",
-          "url": "https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "With",
-      "url": "https://open.spotify.com/track/6GNvsmhrkdPp5skYLq42nY"
-    },
-    {
-      "added_at": "2026-11-12 14:31:47",
+      "added_at": "2026-11-13 14:31:15",
       "album": {
         "name": "You're Under Arrest (Remixes)",
         "url": "https://open.spotify.com/album/1IZrGMJn3CEUr9N3DoewFd"
@@ -61,7 +45,7 @@
       "url": "https://open.spotify.com/track/7IY0j2xsQqaWtVqb17xpJG"
     },
     {
-      "added_at": "2026-11-12 14:31:47",
+      "added_at": "2026-11-13 14:31:15",
       "album": {
         "name": "PULSE",
         "url": "https://open.spotify.com/album/0OttvVI4SPZ9DbvEmlDceI"
@@ -72,12 +56,12 @@
           "url": "https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S"
         }
       ],
-      "duration_ms": 211000,
-      "name": "Inside Out",
-      "url": "https://open.spotify.com/track/6t45ZC1w8QADl5HpeyJ3Rr"
+      "duration_ms": 191000,
+      "name": "With",
+      "url": "https://open.spotify.com/track/6GNvsmhrkdPp5skYLq42nY"
     },
     {
-      "added_at": "2026-11-12 14:31:47",
+      "added_at": "2026-11-13 14:31:15",
       "album": {
         "name": "The Adult I Dreamed Of",
         "url": "https://open.spotify.com/album/6vs89WCj0Cr5YAAqQhwlWs"
@@ -93,7 +77,23 @@
       "url": "https://open.spotify.com/track/67bXdWqZFre6lPaBIaZHlO"
     },
     {
-      "added_at": "2026-11-12 14:31:47",
+      "added_at": "2026-11-13 14:31:15",
+      "album": {
+        "name": "PULSE",
+        "url": "https://open.spotify.com/album/0OttvVI4SPZ9DbvEmlDceI"
+      },
+      "artists": [
+        {
+          "name": "RESCENE",
+          "url": "https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Inside Out",
+      "url": "https://open.spotify.com/track/6t45ZC1w8QADl5HpeyJ3Rr"
+    },
+    {
+      "added_at": "2026-11-13 14:31:15",
       "album": {
         "name": "Love Options",
         "url": "https://open.spotify.com/album/48aNxerOupoy4EbC0el0l8"
@@ -109,7 +109,7 @@
       "url": "https://open.spotify.com/track/63gCdrDtZlt1PMIGrzYEqt"
     },
     {
-      "added_at": "2026-11-12 14:31:47",
+      "added_at": "2026-11-13 14:31:15",
       "album": {
         "name": "MUSE",
         "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
@@ -125,23 +125,7 @@
       "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"
     },
     {
-      "added_at": "2026-11-12 14:31:47",
-      "album": {
-        "name": "SCENEDROME",
-        "url": "https://open.spotify.com/album/0msC9kyzmtznRwIxwafISH"
-      },
-      "artists": [
-        {
-          "name": "RESCENE",
-          "url": "https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S"
-        }
-      ],
-      "duration_ms": 181560,
-      "name": "LOVE ATTACK",
-      "url": "https://open.spotify.com/track/6uosenLUNFZtOIih5T0qfV"
-    },
-    {
-      "added_at": "2026-11-12 14:31:47",
+      "added_at": "2026-11-13 14:31:15",
       "album": {
         "name": "Looks Can Kill",
         "url": "https://open.spotify.com/album/6DStYRq1Xvia2jXG2XQv6g"
@@ -157,7 +141,23 @@
       "url": "https://open.spotify.com/track/79kqYxIkS29va2I9AeL9ak"
     },
     {
-      "added_at": "2026-11-12 14:31:47",
+      "added_at": "2026-11-13 14:31:15",
+      "album": {
+        "name": "SCENEDROME",
+        "url": "https://open.spotify.com/album/0msC9kyzmtznRwIxwafISH"
+      },
+      "artists": [
+        {
+          "name": "RESCENE",
+          "url": "https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S"
+        }
+      ],
+      "duration_ms": 181560,
+      "name": "LOVE ATTACK",
+      "url": "https://open.spotify.com/track/6uosenLUNFZtOIih5T0qfV"
+    },
+    {
+      "added_at": "2026-11-13 14:31:15",
       "album": {
         "name": "GREENGREEN_playextended",
         "url": "https://open.spotify.com/album/26w4RoexAyiXRogASNJDZj"
@@ -173,43 +173,7 @@
       "url": "https://open.spotify.com/track/34YVCoqIm08nbsxFSPL0Uh"
     },
     {
-      "added_at": "2026-11-12 14:31:47",
-      "album": {
-        "name": "Forever Has Always Been",
-        "url": "https://open.spotify.com/album/4zbGo5oU2rocTxouxbt6Df"
-      },
-      "artists": [
-        {
-          "name": "Redoor",
-          "url": "https://open.spotify.com/artist/5xhi1KB7WkPiTYb5Fm3YvS"
-        }
-      ],
-      "duration_ms": 237160,
-      "name": "Forever Has Always Been",
-      "url": "https://open.spotify.com/track/3tbHqU6PKS2bIGWx9cn082"
-    },
-    {
-      "added_at": "2026-11-12 14:31:47",
-      "album": {
-        "name": "What a Wonderful Life",
-        "url": "https://open.spotify.com/album/67SjfNUpuN9TqanFth4ZRP"
-      },
-      "artists": [
-        {
-          "name": "SOYEON",
-          "url": "https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH"
-        },
-        {
-          "name": "Kian84",
-          "url": "https://open.spotify.com/artist/6k7QlVYJwMX0zFpjV467B0"
-        }
-      ],
-      "duration_ms": 211574,
-      "name": "I\u2019m gonna TOESA (feat. Kian84)",
-      "url": "https://open.spotify.com/track/3Vqe75qMPQP62qE3zr9WLg"
-    },
-    {
-      "added_at": "2026-11-12 14:31:47",
+      "added_at": "2026-11-13 14:31:15",
       "album": {
         "name": "If I have you only (My love X Nerd Connection)",
         "url": "https://open.spotify.com/album/2UleuA3LPZK5gynTHcma1b"
@@ -225,139 +189,23 @@
       "url": "https://open.spotify.com/track/3TQHPUEVdvdq8ejwEcHUlL"
     },
     {
-      "added_at": "2026-11-12 14:31:47",
+      "added_at": "2026-11-13 14:31:15",
       "album": {
-        "name": "Dearest",
-        "url": "https://open.spotify.com/album/2oXZPVj5JczGoUR82tc28h"
+        "name": "Forever Has Always Been",
+        "url": "https://open.spotify.com/album/4zbGo5oU2rocTxouxbt6Df"
       },
       "artists": [
         {
-          "name": "RESCENE",
-          "url": "https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S"
+          "name": "Redoor",
+          "url": "https://open.spotify.com/artist/5xhi1KB7WkPiTYb5Fm3YvS"
         }
       ],
-      "duration_ms": 184000,
-      "name": "Deja Vu",
-      "url": "https://open.spotify.com/track/1pBUzZE9PoKLoPxo6QxsG6"
+      "duration_ms": 237160,
+      "name": "Forever Has Always Been",
+      "url": "https://open.spotify.com/track/3tbHqU6PKS2bIGWx9cn082"
     },
     {
-      "added_at": "2026-11-12 14:31:47",
-      "album": {
-        "name": "\uc624\ubcf4",
-        "url": "https://open.spotify.com/album/2S0zBMINP4YGKT2qHYMBZ4"
-      },
-      "artists": [
-        {
-          "name": "Panda Gomm",
-          "url": "https://open.spotify.com/artist/6GghubkP0c1FPGeffPxTWZ"
-        },
-        {
-          "name": "YANGHONGWON",
-          "url": "https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "\ud654",
-      "url": "https://open.spotify.com/track/11JJhyIJqYqZkSQkhNmiZS"
-    },
-    {
-      "added_at": "2026-11-12 14:31:47",
-      "album": {
-        "name": "GOLDEN HOUR : Part.5",
-        "url": "https://open.spotify.com/album/6Eg6B1mgGj2dGLBajzsVpV"
-      },
-      "artists": [
-        {
-          "name": "ATEEZ",
-          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
-        }
-      ],
-      "duration_ms": 156034,
-      "name": "BAD",
-      "url": "https://open.spotify.com/track/55UDXtbNJBAdTdUdbRu8T3"
-    },
-    {
-      "added_at": "2026-11-12 14:31:47",
-      "album": {
-        "name": "JAMONG SALGU CLUB",
-        "url": "https://open.spotify.com/album/2DV7iVJ7L5DRQijgjyqLyQ"
-      },
-      "artists": [
-        {
-          "name": "HANRORO",
-          "url": "https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "0+0",
-      "url": "https://open.spotify.com/track/3sOAwRg5esaxDcWnUigWPv"
-    },
-    {
-      "added_at": "2026-11-12 14:31:47",
-      "album": {
-        "name": "Pretty Girl - Special Single",
-        "url": "https://open.spotify.com/album/5fooRwtJmNvt64WhLN5Chy"
-      },
-      "artists": [
-        {
-          "name": "RESCENE",
-          "url": "https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Pretty Girl",
-      "url": "https://open.spotify.com/track/26GehcyfHwgzfS0ok9yDYk"
-    },
-    {
-      "added_at": "2026-11-12 14:31:47",
-      "album": {
-        "name": "Take-off",
-        "url": "https://open.spotify.com/album/5NUuj9AlcNI1khPYJJAVtV"
-      },
-      "artists": [
-        {
-          "name": "HANRORO",
-          "url": "https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Landing in Love",
-      "url": "https://open.spotify.com/track/3WvM2dIR9iIxMGNMP7WsNw"
-    },
-    {
-      "added_at": "2026-11-12 14:31:47",
-      "album": {
-        "name": "SAILING",
-        "url": "https://open.spotify.com/album/7C0Ci0alKWwwXPIFYEdVcn"
-      },
-      "artists": [
-        {
-          "name": "AKMU",
-          "url": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
-        }
-      ],
-      "duration_ms": 290095,
-      "name": "How can I love the heartbreak, you're the one I love",
-      "url": "https://open.spotify.com/track/0hqj5JBnFt1BHEz2UCFwrl"
-    },
-    {
-      "added_at": "2026-11-12 14:31:47",
-      "album": {
-        "name": "When I stop thinking",
-        "url": "https://open.spotify.com/album/5fYmB8cdgKh3GBzhXoDaLw"
-      },
-      "artists": [
-        {
-          "name": "Choi Yu Ree",
-          "url": "https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v"
-        }
-      ],
-      "duration_ms": 196093,
-      "name": "When I stop thinking",
-      "url": "https://open.spotify.com/track/2lC9w6JGMzBkiQrx8Wy6uM"
-    },
-    {
-      "added_at": "2026-11-12 14:31:47",
+      "added_at": "2026-11-13 14:31:15",
       "album": {
         "name": "seesaw (Feat. IU)",
         "url": "https://open.spotify.com/album/6KbCtAZeKS65sKR6ElxnRs"
@@ -377,7 +225,139 @@
       "url": "https://open.spotify.com/track/3lTdjfpGVeYLeHfrczXw1a"
     },
     {
-      "added_at": "2026-11-12 14:31:47",
+      "added_at": "2026-11-13 14:31:15",
+      "album": {
+        "name": "What a Wonderful Life",
+        "url": "https://open.spotify.com/album/67SjfNUpuN9TqanFth4ZRP"
+      },
+      "artists": [
+        {
+          "name": "SOYEON",
+          "url": "https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH"
+        },
+        {
+          "name": "Kian84",
+          "url": "https://open.spotify.com/artist/6k7QlVYJwMX0zFpjV467B0"
+        }
+      ],
+      "duration_ms": 211574,
+      "name": "I\u2019m gonna TOESA (feat. Kian84)",
+      "url": "https://open.spotify.com/track/3Vqe75qMPQP62qE3zr9WLg"
+    },
+    {
+      "added_at": "2026-11-13 14:31:15",
+      "album": {
+        "name": "Dearest",
+        "url": "https://open.spotify.com/album/2oXZPVj5JczGoUR82tc28h"
+      },
+      "artists": [
+        {
+          "name": "RESCENE",
+          "url": "https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/1pBUzZE9PoKLoPxo6QxsG6"
+    },
+    {
+      "added_at": "2026-11-13 14:31:15",
+      "album": {
+        "name": "GOLDEN HOUR : Part.5",
+        "url": "https://open.spotify.com/album/6Eg6B1mgGj2dGLBajzsVpV"
+      },
+      "artists": [
+        {
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+        }
+      ],
+      "duration_ms": 156034,
+      "name": "BAD",
+      "url": "https://open.spotify.com/track/55UDXtbNJBAdTdUdbRu8T3"
+    },
+    {
+      "added_at": "2026-11-13 14:31:15",
+      "album": {
+        "name": "JAMONG SALGU CLUB",
+        "url": "https://open.spotify.com/album/2DV7iVJ7L5DRQijgjyqLyQ"
+      },
+      "artists": [
+        {
+          "name": "HANRORO",
+          "url": "https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "0+0",
+      "url": "https://open.spotify.com/track/3sOAwRg5esaxDcWnUigWPv"
+    },
+    {
+      "added_at": "2026-11-13 14:31:15",
+      "album": {
+        "name": "SAILING",
+        "url": "https://open.spotify.com/album/7C0Ci0alKWwwXPIFYEdVcn"
+      },
+      "artists": [
+        {
+          "name": "AKMU",
+          "url": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
+        }
+      ],
+      "duration_ms": 290095,
+      "name": "How can I love the heartbreak, you're the one I love",
+      "url": "https://open.spotify.com/track/0hqj5JBnFt1BHEz2UCFwrl"
+    },
+    {
+      "added_at": "2026-11-13 14:31:15",
+      "album": {
+        "name": "Pretty Girl - Special Single",
+        "url": "https://open.spotify.com/album/5fooRwtJmNvt64WhLN5Chy"
+      },
+      "artists": [
+        {
+          "name": "RESCENE",
+          "url": "https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Pretty Girl",
+      "url": "https://open.spotify.com/track/26GehcyfHwgzfS0ok9yDYk"
+    },
+    {
+      "added_at": "2026-11-13 14:31:15",
+      "album": {
+        "name": "Take-off",
+        "url": "https://open.spotify.com/album/5NUuj9AlcNI1khPYJJAVtV"
+      },
+      "artists": [
+        {
+          "name": "HANRORO",
+          "url": "https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Landing in Love",
+      "url": "https://open.spotify.com/track/3WvM2dIR9iIxMGNMP7WsNw"
+    },
+    {
+      "added_at": "2026-11-13 14:31:15",
+      "album": {
+        "name": "When I stop thinking",
+        "url": "https://open.spotify.com/album/5fYmB8cdgKh3GBzhXoDaLw"
+      },
+      "artists": [
+        {
+          "name": "Choi Yu Ree",
+          "url": "https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v"
+        }
+      ],
+      "duration_ms": 196093,
+      "name": "When I stop thinking",
+      "url": "https://open.spotify.com/track/2lC9w6JGMzBkiQrx8Wy6uM"
+    },
+    {
+      "added_at": "2026-11-13 14:31:15",
       "album": {
         "name": "RUDE!",
         "url": "https://open.spotify.com/album/3053E9tumiU5rqbAPWF06s"
@@ -393,7 +373,7 @@
       "url": "https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl"
     },
     {
-      "added_at": "2026-11-12 14:31:47",
+      "added_at": "2026-11-13 14:31:15",
       "album": {
         "name": "LEMONADE - The 2nd Album (NINGNING Special Version)",
         "url": "https://open.spotify.com/album/437o5FFGCf3CszTjO3wVAi"
@@ -409,75 +389,7 @@
       "url": "https://open.spotify.com/track/1Hv8KIKhK6Dz02ROKT63lV"
     },
     {
-      "added_at": "2026-11-12 14:31:47",
-      "album": {
-        "name": "\uc624\ubcf4",
-        "url": "https://open.spotify.com/album/2S0zBMINP4YGKT2qHYMBZ4"
-      },
-      "artists": [
-        {
-          "name": "Panda Gomm",
-          "url": "https://open.spotify.com/artist/6GghubkP0c1FPGeffPxTWZ"
-        },
-        {
-          "name": "YANGHONGWON",
-          "url": "https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "MOONWALK",
-      "url": "https://open.spotify.com/track/1v2Mu0KVqTb583sAdHD7XU"
-    },
-    {
-      "added_at": "2026-11-12 14:31:47",
-      "album": {
-        "name": "PULSE",
-        "url": "https://open.spotify.com/album/0OttvVI4SPZ9DbvEmlDceI"
-      },
-      "artists": [
-        {
-          "name": "RESCENE",
-          "url": "https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Finest Thing",
-      "url": "https://open.spotify.com/track/4sBBMO44urIJI5QN7pNo7Q"
-    },
-    {
-      "added_at": "2026-11-12 14:31:47",
-      "album": {
-        "name": "PULSE",
-        "url": "https://open.spotify.com/album/0OttvVI4SPZ9DbvEmlDceI"
-      },
-      "artists": [
-        {
-          "name": "RESCENE",
-          "url": "https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "MEME",
-      "url": "https://open.spotify.com/track/4IShSHFVumlyS3jICnOFw2"
-    },
-    {
-      "added_at": "2026-11-12 14:31:47",
-      "album": {
-        "name": "PULSE",
-        "url": "https://open.spotify.com/album/0OttvVI4SPZ9DbvEmlDceI"
-      },
-      "artists": [
-        {
-          "name": "RESCENE",
-          "url": "https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Dragon",
-      "url": "https://open.spotify.com/track/0sxpyjVJivQJUB1dvlm4lG"
-    },
-    {
-      "added_at": "2026-11-12 14:31:47",
+      "added_at": "2026-11-13 14:31:15",
       "album": {
         "name": "MAMIHLAPINATAPAI",
         "url": "https://open.spotify.com/album/5VIt2dA2StboE900mllWdJ"
@@ -493,55 +405,7 @@
       "url": "https://open.spotify.com/track/1D5L58KLBbceOynTP4DQnY"
     },
     {
-      "added_at": "2026-11-12 14:31:47",
-      "album": {
-        "name": "OO-LI",
-        "url": "https://open.spotify.com/album/06isIi4cIfsaH8ot5UoRD4"
-      },
-      "artists": [
-        {
-          "name": "WOODZ",
-          "url": "https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy"
-        }
-      ],
-      "duration_ms": 244986,
-      "name": "Drowning",
-      "url": "https://open.spotify.com/track/4xeugB5MqWh0jwvXZPxahq"
-    },
-    {
-      "added_at": "2026-11-12 14:31:47",
-      "album": {
-        "name": "WhyKiiiKiii",
-        "url": "https://open.spotify.com/album/6RrIZArw9cEz8gbpiylYFz"
-      },
-      "artists": [
-        {
-          "name": "KiiiKiii",
-          "url": "https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP"
-        }
-      ],
-      "duration_ms": 141285,
-      "name": "Pop Off Pop Off",
-      "url": "https://open.spotify.com/track/3iHzvU39BS03PD0zpNa19b"
-    },
-    {
-      "added_at": "2026-11-12 14:31:47",
-      "album": {
-        "name": "FOCUS (Remixes)",
-        "url": "https://open.spotify.com/album/1yGMnRXU8uehPFHHZTXQZZ"
-      },
-      "artists": [
-        {
-          "name": "Hearts2Hearts",
-          "url": "https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ"
-        }
-      ],
-      "duration_ms": 177052,
-      "name": "FOCUS",
-      "url": "https://open.spotify.com/track/1G4fSgc6Id5nTIKo55XRop"
-    },
-    {
-      "added_at": "2026-11-12 14:31:47",
+      "added_at": "2026-11-13 14:31:15",
       "album": {
         "name": "LEGEND",
         "url": "https://open.spotify.com/album/28GiIRNu9nEugqnUci3aIC"
@@ -557,7 +421,23 @@
       "url": "https://open.spotify.com/track/5BqwC9kOBbqYkzdOKeXFFk"
     },
     {
-      "added_at": "2026-11-12 14:31:47",
+      "added_at": "2026-11-13 14:31:15",
+      "album": {
+        "name": "OO-LI",
+        "url": "https://open.spotify.com/album/06isIi4cIfsaH8ot5UoRD4"
+      },
+      "artists": [
+        {
+          "name": "WOODZ",
+          "url": "https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy"
+        }
+      ],
+      "duration_ms": 244986,
+      "name": "Drowning",
+      "url": "https://open.spotify.com/track/4xeugB5MqWh0jwvXZPxahq"
+    },
+    {
+      "added_at": "2026-11-13 14:31:15",
       "album": {
         "name": "\u200eGood Night Good Dream",
         "url": "https://open.spotify.com/album/4VLZnvJ9dnuEnF57Pbashc"
@@ -573,7 +453,7 @@
       "url": "https://open.spotify.com/track/3s761CQaziQ0GEN1yUkIsG"
     },
     {
-      "added_at": "2026-11-12 14:31:47",
+      "added_at": "2026-11-13 14:31:15",
       "album": {
         "name": "Nostalgia",
         "url": "https://open.spotify.com/album/0XBdrJcgVNBkZ8MpTAO6ML"
@@ -589,23 +469,55 @@
       "url": "https://open.spotify.com/track/776vLcNy6mHNmPisdejR0I"
     },
     {
-      "added_at": "2026-11-12 14:31:47",
+      "added_at": "2026-11-13 14:31:15",
       "album": {
-        "name": "HYPERDRIVE",
-        "url": "https://open.spotify.com/album/20IvODSlsPVWXhlxnvgR1q"
+        "name": "PULSE",
+        "url": "https://open.spotify.com/album/0OttvVI4SPZ9DbvEmlDceI"
       },
       "artists": [
         {
-          "name": "PLAVE",
-          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
+          "name": "RESCENE",
+          "url": "https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S"
         }
       ],
-      "duration_ms": 179000,
-      "name": "Star Trace",
-      "url": "https://open.spotify.com/track/1uH8RqO7kx4je1VS91Oe02"
+      "duration_ms": 181000,
+      "name": "MEME",
+      "url": "https://open.spotify.com/track/4IShSHFVumlyS3jICnOFw2"
     },
     {
-      "added_at": "2026-11-12 14:31:47",
+      "added_at": "2026-11-13 14:31:15",
+      "album": {
+        "name": "WhyKiiiKiii",
+        "url": "https://open.spotify.com/album/6RrIZArw9cEz8gbpiylYFz"
+      },
+      "artists": [
+        {
+          "name": "KiiiKiii",
+          "url": "https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP"
+        }
+      ],
+      "duration_ms": 141285,
+      "name": "Pop Off Pop Off",
+      "url": "https://open.spotify.com/track/3iHzvU39BS03PD0zpNa19b"
+    },
+    {
+      "added_at": "2026-11-13 14:31:15",
+      "album": {
+        "name": "PULSE",
+        "url": "https://open.spotify.com/album/0OttvVI4SPZ9DbvEmlDceI"
+      },
+      "artists": [
+        {
+          "name": "RESCENE",
+          "url": "https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Finest Thing",
+      "url": "https://open.spotify.com/track/4sBBMO44urIJI5QN7pNo7Q"
+    },
+    {
+      "added_at": "2026-11-13 14:31:15",
       "album": {
         "name": "Let Me Love My Youth",
         "url": "https://open.spotify.com/album/7bRI9NhWadLpdKCWvzsuWJ"
@@ -621,39 +533,7 @@
       "url": "https://open.spotify.com/track/4KA9VMFIKUUMjEcnwiylr1"
     },
     {
-      "added_at": "2026-11-12 14:31:47",
-      "album": {
-        "name": "TEEN TROUBLES",
-        "url": "https://open.spotify.com/album/0lO1MX7qJaA3NejSbPoxU8"
-      },
-      "artists": [
-        {
-          "name": "The Black Skirts",
-          "url": "https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8"
-        }
-      ],
-      "duration_ms": 229999,
-      "name": "Ling Ling",
-      "url": "https://open.spotify.com/track/5BGxDtIEw8zxoP29Fid69a"
-    },
-    {
-      "added_at": "2026-11-12 14:31:47",
-      "album": {
-        "name": "Runaway",
-        "url": "https://open.spotify.com/album/6wL6HetMdQwsTqZzCBpGGJ"
-      },
-      "artists": [
-        {
-          "name": "RESCENE",
-          "url": "https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Runaway",
-      "url": "https://open.spotify.com/track/1x0mG2CyQW5mjBX17ZfTUG"
-    },
-    {
-      "added_at": "2026-11-12 14:31:47",
+      "added_at": "2026-11-13 14:31:15",
       "album": {
         "name": "CRASH",
         "url": "https://open.spotify.com/album/7IwdRxcKXuVOCRJmtTGb7S"
@@ -669,7 +549,139 @@
       "url": "https://open.spotify.com/track/1hXVB56zx5oM7KUJsFRTxy"
     },
     {
-      "added_at": "2026-11-12 14:31:47",
+      "added_at": "2026-11-13 14:31:15",
+      "album": {
+        "name": "TEEN TROUBLES",
+        "url": "https://open.spotify.com/album/0lO1MX7qJaA3NejSbPoxU8"
+      },
+      "artists": [
+        {
+          "name": "The Black Skirts",
+          "url": "https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8"
+        }
+      ],
+      "duration_ms": 229999,
+      "name": "Ling Ling",
+      "url": "https://open.spotify.com/track/5BGxDtIEw8zxoP29Fid69a"
+    },
+    {
+      "added_at": "2026-11-13 14:31:15",
+      "album": {
+        "name": "\uc624\ubcf4",
+        "url": "https://open.spotify.com/album/2S0zBMINP4YGKT2qHYMBZ4"
+      },
+      "artists": [
+        {
+          "name": "Panda Gomm",
+          "url": "https://open.spotify.com/artist/6GghubkP0c1FPGeffPxTWZ"
+        },
+        {
+          "name": "YANGHONGWON",
+          "url": "https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "\ud654",
+      "url": "https://open.spotify.com/track/11JJhyIJqYqZkSQkhNmiZS"
+    },
+    {
+      "added_at": "2026-11-13 14:31:15",
+      "album": {
+        "name": "Runaway",
+        "url": "https://open.spotify.com/album/6wL6HetMdQwsTqZzCBpGGJ"
+      },
+      "artists": [
+        {
+          "name": "RESCENE",
+          "url": "https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/1x0mG2CyQW5mjBX17ZfTUG"
+    },
+    {
+      "added_at": "2026-11-13 14:31:15",
+      "album": {
+        "name": "HYPERDRIVE",
+        "url": "https://open.spotify.com/album/20IvODSlsPVWXhlxnvgR1q"
+      },
+      "artists": [
+        {
+          "name": "PLAVE",
+          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "Star Trace",
+      "url": "https://open.spotify.com/track/1uH8RqO7kx4je1VS91Oe02"
+    },
+    {
+      "added_at": "2026-11-13 14:31:15",
+      "album": {
+        "name": "yours",
+        "url": "https://open.spotify.com/album/7mvY0s2fwo5aaRw4zCyCA6"
+      },
+      "artists": [
+        {
+          "name": "\ub370\uc774\uba3c\uc2a4 \uc774\uc5b4 Damons year",
+          "url": "https://open.spotify.com/artist/2T5KKZuEEudb7alCJ1pCus"
+        }
+      ],
+      "duration_ms": 165229,
+      "name": "yours",
+      "url": "https://open.spotify.com/track/7JQH2lBMZ10ztDnpoeq6Ki"
+    },
+    {
+      "added_at": "2026-11-13 14:31:15",
+      "album": {
+        "name": "I.O.I 3rd MINI ALBUM [I.O.I : LOOP]",
+        "url": "https://open.spotify.com/album/09oicnXd9BtWOqgzgCi6gp"
+      },
+      "artists": [
+        {
+          "name": "I.O.I",
+          "url": "https://open.spotify.com/artist/6RKnXXyprPjhBdCvL802Ku"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Suddenly",
+      "url": "https://open.spotify.com/track/7u0yW2XPSJozIGdUSRET19"
+    },
+    {
+      "added_at": "2026-11-13 14:31:15",
+      "album": {
+        "name": "PULSE",
+        "url": "https://open.spotify.com/album/0OttvVI4SPZ9DbvEmlDceI"
+      },
+      "artists": [
+        {
+          "name": "RESCENE",
+          "url": "https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Dragon",
+      "url": "https://open.spotify.com/track/0sxpyjVJivQJUB1dvlm4lG"
+    },
+    {
+      "added_at": "2026-11-13 14:31:15",
+      "album": {
+        "name": "Delulu Pack",
+        "url": "https://open.spotify.com/album/0a8NPzV3WclFa2IliStNK8"
+      },
+      "artists": [
+        {
+          "name": "KiiiKiii",
+          "url": "https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP"
+        }
+      ],
+      "duration_ms": 179586,
+      "name": "404 (New Era)",
+      "url": "https://open.spotify.com/track/24rDDbSlFY9OHrlJb48CRh"
+    },
+    {
+      "added_at": "2026-11-13 14:31:15",
       "album": {
         "name": "GOLDEN",
         "url": "https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU"
@@ -689,7 +701,7 @@
       "url": "https://open.spotify.com/track/2HRgqmZQC0MC7GeNuDIXHN"
     },
     {
-      "added_at": "2026-11-12 14:31:47",
+      "added_at": "2026-11-13 14:31:15",
       "album": {
         "name": "SCENEDROME",
         "url": "https://open.spotify.com/album/0msC9kyzmtznRwIxwafISH"
@@ -705,7 +717,7 @@
       "url": "https://open.spotify.com/track/7FzDMnwPhj6qdTT2PRaSYi"
     },
     {
-      "added_at": "2026-11-12 14:31:47",
+      "added_at": "2026-11-13 14:31:15",
       "album": {
         "name": "Lovey Dovey",
         "url": "https://open.spotify.com/album/3TqLzwIwkkIqAoSISGip4k"
@@ -721,39 +733,7 @@
       "url": "https://open.spotify.com/track/4p4yxplNCSmt9xfaAMpcd5"
     },
     {
-      "added_at": "2026-11-12 14:31:47",
-      "album": {
-        "name": "Delulu Pack",
-        "url": "https://open.spotify.com/album/0a8NPzV3WclFa2IliStNK8"
-      },
-      "artists": [
-        {
-          "name": "KiiiKiii",
-          "url": "https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP"
-        }
-      ],
-      "duration_ms": 179586,
-      "name": "404 (New Era)",
-      "url": "https://open.spotify.com/track/24rDDbSlFY9OHrlJb48CRh"
-    },
-    {
-      "added_at": "2026-11-12 14:31:47",
-      "album": {
-        "name": "yours",
-        "url": "https://open.spotify.com/album/7mvY0s2fwo5aaRw4zCyCA6"
-      },
-      "artists": [
-        {
-          "name": "\ub370\uc774\uba3c\uc2a4 \uc774\uc5b4 Damons year",
-          "url": "https://open.spotify.com/artist/2T5KKZuEEudb7alCJ1pCus"
-        }
-      ],
-      "duration_ms": 165229,
-      "name": "yours",
-      "url": "https://open.spotify.com/track/7JQH2lBMZ10ztDnpoeq6Ki"
-    },
-    {
-      "added_at": "2026-11-12 14:31:47",
+      "added_at": "2026-11-13 14:31:15",
       "album": {
         "name": "A Letter For You",
         "url": "https://open.spotify.com/album/7DZOVeIyrwKSpkzzbjWzoJ"
@@ -769,7 +749,7 @@
       "url": "https://open.spotify.com/track/4vfO4uu5VObHhGSrdV6TC5"
     },
     {
-      "added_at": "2026-11-12 14:31:47",
+      "added_at": "2026-11-13 14:31:15",
       "album": {
         "name": "IM HERO 10",
         "url": "https://open.spotify.com/album/2TUvT4qiM53MI8ErBpiG3D"
@@ -785,23 +765,7 @@
       "url": "https://open.spotify.com/track/0sRcVXli6eqbPASpVXTWB2"
     },
     {
-      "added_at": "2026-11-12 14:31:47",
-      "album": {
-        "name": "I.O.I 3rd MINI ALBUM [I.O.I : LOOP]",
-        "url": "https://open.spotify.com/album/09oicnXd9BtWOqgzgCi6gp"
-      },
-      "artists": [
-        {
-          "name": "I.O.I",
-          "url": "https://open.spotify.com/artist/6RKnXXyprPjhBdCvL802Ku"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Suddenly",
-      "url": "https://open.spotify.com/track/7u0yW2XPSJozIGdUSRET19"
-    },
-    {
-      "added_at": "2026-11-12 14:31:47",
+      "added_at": "2026-11-13 14:31:15",
       "album": {
         "name": "Hollywood's Bleeding",
         "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
@@ -821,7 +785,27 @@
       "url": "https://open.spotify.com/track/0RiRZpuVRbi7oqRdSMwhQY"
     },
     {
-      "added_at": "2026-11-12 14:31:47",
+      "added_at": "2026-11-13 14:31:15",
+      "album": {
+        "name": "\uc624\ubcf4",
+        "url": "https://open.spotify.com/album/2S0zBMINP4YGKT2qHYMBZ4"
+      },
+      "artists": [
+        {
+          "name": "Panda Gomm",
+          "url": "https://open.spotify.com/artist/6GghubkP0c1FPGeffPxTWZ"
+        },
+        {
+          "name": "YANGHONGWON",
+          "url": "https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "MOONWALK",
+      "url": "https://open.spotify.com/track/1v2Mu0KVqTb583sAdHD7XU"
+    },
+    {
+      "added_at": "2026-11-13 14:31:15",
       "album": {
         "name": "HYPERDRIVE",
         "url": "https://open.spotify.com/album/20IvODSlsPVWXhlxnvgR1q"
@@ -835,6 +819,22 @@
       "duration_ms": 218000,
       "name": "Sweet Rain",
       "url": "https://open.spotify.com/track/4EYRsQWjtGmiqS2jUAsLsa"
+    },
+    {
+      "added_at": "2026-11-13 14:31:15",
+      "album": {
+        "name": "FLOWERING",
+        "url": "https://open.spotify.com/album/0e4X6KNw1He0mlZ2BK9Loz"
+      },
+      "artists": [
+        {
+          "name": "AKMU",
+          "url": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
+        }
+      ],
+      "duration_ms": 276920,
+      "name": "Joy, Sorrow, A Beautiful Heart",
+      "url": "https://open.spotify.com/track/3yKUJbZjAWlteUSjnNv3UK"
     }
   ],
   "unique_name": "Top 50 - South Korea",

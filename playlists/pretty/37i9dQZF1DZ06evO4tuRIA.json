@@ -1,12 +1,12 @@
 {
   "description": "This is LEGADO 7. The essential tracks, all in one playlist.",
-  "num_followers": 108915,
+  "num_followers": 108941,
   "original_name": "This Is LEGADO 7",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avOwAAAAAAAGmOhUq86jH7R9nkh9ceWO",
+  "snapshot_id": "avUBgAAAAABpqWMUTziDSphrItc5Zzmq",
   "tracks": [
     {
       "added_at": null,
@@ -245,11 +245,11 @@
         },
         {
           "name": "Hijos de Garcia",
-          "url": "https://open.spotify.com/artist/2kxD3bWlLEPzkqvBJkuoAZ"
+          "url": "https://open.spotify.com/artist/1lYlOgX5oUuOokYQvmGDnC"
         }
       ],
       "duration_ms": 176965,
-      "name": "18 Libras (feat. Hijos de Garcia)",
+      "name": "18 Libras",
       "url": "https://open.spotify.com/track/0ah4bfpe69UbE8AeoTtVNn"
     },
     {
@@ -325,8 +325,24 @@
         }
       ],
       "duration_ms": 181800,
-      "name": "Vida Peligrosa El Solecito (En Vivo)",
+      "name": "Vida Peligrosa El Solecito",
       "url": "https://open.spotify.com/track/3dTeCvgPkIvQPP9U4RqrMd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LEGENDARIO",
+        "url": "https://open.spotify.com/album/5epM8kylXYTFEm1ZyK180p"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 207750,
+      "name": "ARROGANGSTER",
+      "url": "https://open.spotify.com/track/1XfOIJfe94VagEsI8xjj0t"
     },
     {
       "added_at": null,
@@ -347,22 +363,6 @@
       "duration_ms": 174205,
       "name": "Plata",
       "url": "https://open.spotify.com/track/1nmmWHhizEQ742gaAgnTjB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LEGENDARIO",
-        "url": "https://open.spotify.com/album/5epM8kylXYTFEm1ZyK180p"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 207750,
-      "name": "ARROGANGSTER",
-      "url": "https://open.spotify.com/track/1XfOIJfe94VagEsI8xjj0t"
     },
     {
       "added_at": null,
@@ -403,6 +403,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "LEGENDARIO",
+        "url": "https://open.spotify.com/album/5epM8kylXYTFEm1ZyK180p"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 130250,
+      "name": "RANCHO MC",
+      "url": "https://open.spotify.com/track/1zK8d2a9L8pBQ8dgvarae1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pura Lumbre",
         "url": "https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz"
       },
@@ -421,24 +437,8 @@
         }
       ],
       "duration_ms": 172316,
-      "name": "Vida Peligrosa (feat. Arsenal Efectivo & Omar Ruiz)",
+      "name": "Vida Peligrosa",
       "url": "https://open.spotify.com/track/7k7r1GvHZQ06n7fFFLrxCn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LEGENDARIO",
-        "url": "https://open.spotify.com/album/5epM8kylXYTFEm1ZyK180p"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 130250,
-      "name": "RANCHO MC",
-      "url": "https://open.spotify.com/track/1zK8d2a9L8pBQ8dgvarae1"
     },
     {
       "added_at": null,
@@ -559,6 +559,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "En Vivo con Tololoche Vol. 1",
+        "url": "https://open.spotify.com/album/6qUgwVEuv48l4qe2ZQrvOg"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        },
+        {
+          "name": "Tito Torbellino Jr.",
+          "url": "https://open.spotify.com/artist/6Ye7eLauOTGfK8Vx9TWwKR"
+        }
+      ],
+      "duration_ms": 169877,
+      "name": "Barba Negra",
+      "url": "https://open.spotify.com/track/1RhGQa1M4GbUuon7dbgUgU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "4-20-20",
         "url": "https://open.spotify.com/album/2kdiYl2mgBwY3cvEmIeSgD"
       },
@@ -579,26 +599,6 @@
       "duration_ms": 180082,
       "name": "Soy Lo Que Soy",
       "url": "https://open.spotify.com/track/1l3pEeeJygmbS1yVnrd7Cq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En Vivo con Tololoche Vol. 1",
-        "url": "https://open.spotify.com/album/6qUgwVEuv48l4qe2ZQrvOg"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        },
-        {
-          "name": "Tito Torbellino Jr.",
-          "url": "https://open.spotify.com/artist/6Ye7eLauOTGfK8Vx9TWwKR"
-        }
-      ],
-      "duration_ms": 169877,
-      "name": "Barba Negra (feat. Tito Torbellino Jr.)",
-      "url": "https://open.spotify.com/track/1RhGQa1M4GbUuon7dbgUgU"
     },
     {
       "added_at": null,
@@ -709,7 +709,7 @@
         }
       ],
       "duration_ms": 170672,
-      "name": "En La Bola (feat. El De La Guitarra)",
+      "name": "En La Bola",
       "url": "https://open.spotify.com/track/1MKSWLFVyxgdLKE8YUby50"
     },
     {
@@ -861,7 +861,7 @@
         }
       ],
       "duration_ms": 191688,
-      "name": "La Pantera (En Vivo)",
+      "name": "La Pantera",
       "url": "https://open.spotify.com/track/2vSDe7NmcUKevlHqhz59EX"
     },
     {

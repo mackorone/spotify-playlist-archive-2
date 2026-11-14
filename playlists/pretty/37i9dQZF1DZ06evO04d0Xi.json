@@ -1,12 +1,12 @@
 {
   "description": "This is Fernanda Brum. The essential tracks, all in one playlist.",
-  "num_followers": 73772,
+  "num_followers": 73774,
   "original_name": "This Is Fernanda Brum",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avOwAAAAAADP4tlKFT4w0tOx6+r6feAA",
+  "snapshot_id": "avUBgAAAAAAOvIkoqPDErgauoP7mNG6H",
   "tracks": [
     {
       "added_at": null,
@@ -247,38 +247,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Onde o Fogo N\u00e3o Apaga (Deluxe)",
-        "url": "https://open.spotify.com/album/2g5xYfM6zkLWBhWn4C44dN"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 265565,
-      "name": "Romanos 8:26",
-      "url": "https://open.spotify.com/track/7297XfxiTDouaiWlGTsjX0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Apenas um Toque",
-        "url": "https://open.spotify.com/album/2a9dxd5z61o4if1fI16vel"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 420234,
-      "name": "Apenas um Toque",
-      "url": "https://open.spotify.com/track/0edfc3t992Gzwlpk4AFGKY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rastros de Amor (Ao Vivo)",
         "url": "https://open.spotify.com/album/3KbgZ0JFK8dILy3jaZripS"
       },
@@ -299,6 +267,38 @@
       "duration_ms": 262053,
       "name": "Alto Pre\u00e7o - Ao Vivo",
       "url": "https://open.spotify.com/track/1pwwhwUNlY1EMTNdBfAXIg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Apenas um Toque",
+        "url": "https://open.spotify.com/album/2a9dxd5z61o4if1fI16vel"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 420234,
+      "name": "Apenas um Toque",
+      "url": "https://open.spotify.com/track/0edfc3t992Gzwlpk4AFGKY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Onde o Fogo N\u00e3o Apaga (Deluxe)",
+        "url": "https://open.spotify.com/album/2g5xYfM6zkLWBhWn4C44dN"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 265565,
+      "name": "Romanos 8:26",
+      "url": "https://open.spotify.com/track/7297XfxiTDouaiWlGTsjX0"
     },
     {
       "added_at": null,
@@ -791,58 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Onde o Fogo N\u00e3o Apaga (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7kBqgrErxLl6crYHNwauFY"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        },
-        {
-          "name": "Pedro Henrique",
-          "url": "https://open.spotify.com/artist/5z5z7mb9JYMVdmi4Lfnu0t"
-        }
-      ],
-      "duration_ms": 231230,
-      "name": "Toca-me (Ao Vivo)",
-      "url": "https://open.spotify.com/track/2QGt42CpPjWz3YBgArrhXD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cura-me",
-        "url": "https://open.spotify.com/album/63of1PwXSdXGg8V5JZkJt3"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 273670,
-      "name": "Como Se Cura a Ferida",
-      "url": "https://open.spotify.com/track/1MGocqM5nUccHth3CL3y79"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Da Eternidade",
-        "url": "https://open.spotify.com/album/0Djnza7Nqw27F8YqJL0R64"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 284026,
-      "name": "Santo (Holy)",
-      "url": "https://open.spotify.com/track/4l90mbIMuolQaY84Y07Y2G"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ou\u00e7o Deus Me Chamar",
         "url": "https://open.spotify.com/album/06qcwXnweJvNixBPekCcSd"
       },
@@ -863,6 +811,58 @@
       "duration_ms": 298000,
       "name": "Ou\u00e7o Deus Me Chamar",
       "url": "https://open.spotify.com/track/78jlmri0xPa63LDt3g4h2E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cura-me",
+        "url": "https://open.spotify.com/album/63of1PwXSdXGg8V5JZkJt3"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 273670,
+      "name": "Como Se Cura a Ferida",
+      "url": "https://open.spotify.com/track/1MGocqM5nUccHth3CL3y79"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Onde o Fogo N\u00e3o Apaga (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7kBqgrErxLl6crYHNwauFY"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        },
+        {
+          "name": "Pedro Henrique",
+          "url": "https://open.spotify.com/artist/5z5z7mb9JYMVdmi4Lfnu0t"
+        }
+      ],
+      "duration_ms": 231230,
+      "name": "Toca-me (Ao Vivo)",
+      "url": "https://open.spotify.com/track/2QGt42CpPjWz3YBgArrhXD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Da Eternidade",
+        "url": "https://open.spotify.com/album/0Djnza7Nqw27F8YqJL0R64"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 284026,
+      "name": "Santo (Holy)",
+      "url": "https://open.spotify.com/track/4l90mbIMuolQaY84Y07Y2G"
     },
     {
       "added_at": null,
@@ -899,8 +899,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sonhos",
-        "url": "https://open.spotify.com/album/1sUvDkBy5POHFyvSuuKmBC"
+        "name": "Gl\u00f3ria",
+        "url": "https://open.spotify.com/album/5CUs5dQYJ3TpPBWVuvh5vZ"
       },
       "artists": [
         {
@@ -908,9 +908,9 @@
           "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
         }
       ],
-      "duration_ms": 331766,
-      "name": "Sonhos",
-      "url": "https://open.spotify.com/track/1VIheUgrhc6Xe0ZRz0GulJ"
+      "duration_ms": 279614,
+      "name": "Enquanto Eu Chorava",
+      "url": "https://open.spotify.com/track/2dlSQSCnYr2gejkAG4HPOJ"
     },
     {
       "added_at": null,
@@ -931,8 +931,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gl\u00f3ria",
-        "url": "https://open.spotify.com/album/5CUs5dQYJ3TpPBWVuvh5vZ"
+        "name": "Sonhos",
+        "url": "https://open.spotify.com/album/1sUvDkBy5POHFyvSuuKmBC"
       },
       "artists": [
         {
@@ -940,9 +940,9 @@
           "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
         }
       ],
-      "duration_ms": 279614,
-      "name": "Enquanto Eu Chorava",
-      "url": "https://open.spotify.com/track/2dlSQSCnYr2gejkAG4HPOJ"
+      "duration_ms": 331766,
+      "name": "Sonhos",
+      "url": "https://open.spotify.com/track/1VIheUgrhc6Xe0ZRz0GulJ"
     },
     {
       "added_at": null,

@@ -3372,7 +3372,7 @@
       ],
       "date_added": "2026-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 158494,
       "name": "Animal",
       "url": "https://open.spotify.com/track/3ouNEk0tv5TTi8VWMe1xbX"
@@ -24078,6 +24078,32 @@
       "duration_ms": 148965,
       "name": "Is Dat Nou Echt?",
       "url": "https://open.spotify.com/track/1TksL7PBmYxefJYTBrnSE6"
+    },
+    {
+      "album": {
+        "name": "Sing With Me (Aflevering 1)",
+        "url": "https://open.spotify.com/album/1BrpGunw8hzjbp6cRQzRSB"
+      },
+      "artists": [
+        {
+          "name": "Thijs Pot",
+          "url": "https://open.spotify.com/artist/3nxJAqo44XhsDnBZBXeuvP"
+        },
+        {
+          "name": "Yves Berendse",
+          "url": "https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F"
+        },
+        {
+          "name": "Nick Schilder",
+          "url": "https://open.spotify.com/artist/4pbY2GIsT2jDoVxKqNQcpu"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151420,
+      "name": "Is Dit Nu Later",
+      "url": "https://open.spotify.com/track/1nfZ1uJ4SgXlv1arqragMX"
     },
     {
       "album": {

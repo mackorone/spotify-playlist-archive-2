@@ -1,6 +1,6 @@
 {
   "description": "A softer space.",
-  "num_followers": 606448,
+  "num_followers": 606405,
   "original_name": "Gentle",
   "owner": {
     "name": "Spotify",
@@ -299,22 +299,6 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
-        "name": "Slipping Through My Fingers",
-        "url": "https://open.spotify.com/album/0koTZdaOlOsITAVODhjAAp"
-      },
-      "artists": [
-        {
-          "name": "Declan McKenna",
-          "url": "https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c"
-        }
-      ],
-      "duration_ms": 263500,
-      "name": "Slipping Through My Fingers",
-      "url": "https://open.spotify.com/track/5GRarkYarOgejsLCxLprQD"
-    },
-    {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
         "name": "Total Life Forever",
         "url": "https://open.spotify.com/album/670h50t8E3LwP2bGqxGi6E"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 409560,
       "name": "Spanish Sahara",
       "url": "https://open.spotify.com/track/3SJWVMRwk5z4Uaff7kGs0d"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
+        "name": "Slipping Through My Fingers",
+        "url": "https://open.spotify.com/album/0koTZdaOlOsITAVODhjAAp"
+      },
+      "artists": [
+        {
+          "name": "Declan McKenna",
+          "url": "https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c"
+        }
+      ],
+      "duration_ms": 263500,
+      "name": "Slipping Through My Fingers",
+      "url": "https://open.spotify.com/track/5GRarkYarOgejsLCxLprQD"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -527,22 +527,6 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
-        "name": "Dance Fever",
-        "url": "https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 164566,
-      "name": "The Bomb",
-      "url": "https://open.spotify.com/track/6QAztdj5jtr41PL56WcgvP"
-    },
-    {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
         "name": "Nostalgia",
         "url": "https://open.spotify.com/album/6WgmH9NEYyWBbPaHYlpVlD"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 237316,
       "name": "Nostalgia",
       "url": "https://open.spotify.com/track/3gV7y7IwafryNLEnhh9gKb"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
+        "name": "Dance Fever",
+        "url": "https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 164566,
+      "name": "The Bomb",
+      "url": "https://open.spotify.com/track/6QAztdj5jtr41PL56WcgvP"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -623,22 +623,6 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
-        "name": "Blue Weekend",
-        "url": "https://open.spotify.com/album/1zt521PK0lam6J79DNMIJi"
-      },
-      "artists": [
-        {
-          "name": "Wolf Alice",
-          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
-        }
-      ],
-      "duration_ms": 155007,
-      "name": "No Hard Feelings",
-      "url": "https://open.spotify.com/track/6eJaTm3sfYirbFpibBhnRO"
-    },
-    {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
         "name": "Is It?",
         "url": "https://open.spotify.com/album/11ROhDfHSfUYDlqdPbL5v8"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 315040,
       "name": "Days Of Lantana",
       "url": "https://open.spotify.com/track/52MkFwdFmpPHCAbSgtaGgB"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
+        "name": "Blue Weekend",
+        "url": "https://open.spotify.com/album/1zt521PK0lam6J79DNMIJi"
+      },
+      "artists": [
+        {
+          "name": "Wolf Alice",
+          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
+        }
+      ],
+      "duration_ms": 155007,
+      "name": "No Hard Feelings",
+      "url": "https://open.spotify.com/track/6eJaTm3sfYirbFpibBhnRO"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -979,22 +979,6 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
-        "name": "Process",
-        "url": "https://open.spotify.com/album/4fRcYn1zNOHY5LJXuRmJHI"
-      },
-      "artists": [
-        {
-          "name": "Sampha",
-          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
-        }
-      ],
-      "duration_ms": 218160,
-      "name": "(No One Knows Me) Like the Piano",
-      "url": "https://open.spotify.com/track/3D1VUmjj0IlhdHqGConc7C"
-    },
-    {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
         "name": "Jubilee",
         "url": "https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 398783,
       "name": "Posing For Cars",
       "url": "https://open.spotify.com/track/525BSr4N8jG8MpWbFTd6A9"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
+        "name": "Process",
+        "url": "https://open.spotify.com/album/4fRcYn1zNOHY5LJXuRmJHI"
+      },
+      "artists": [
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        }
+      ],
+      "duration_ms": 218160,
+      "name": "(No One Knows Me) Like the Piano",
+      "url": "https://open.spotify.com/track/3D1VUmjj0IlhdHqGConc7C"
     },
     {
       "added_at": "2024-10-10 23:35:59",
@@ -1089,6 +1089,22 @@
       "url": "https://open.spotify.com/track/7lMrIFrNAwSSdOrsk4glWa"
     },
     {
+      "added_at": "2024-08-29 19:59:48",
+      "album": {
+        "name": "Just Like North",
+        "url": "https://open.spotify.com/album/7dy3rpDg0KQRR9Eee7Zgld"
+      },
+      "artists": [
+        {
+          "name": "Angie McMahon",
+          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
+        }
+      ],
+      "duration_ms": 184334,
+      "name": "Just Like North",
+      "url": "https://open.spotify.com/track/1AWsIwO7b5LqJ9vyVfIX2X"
+    },
+    {
       "added_at": "2024-05-31 15:25:10",
       "album": {
         "name": "New Heart Designs",
@@ -1123,22 +1139,6 @@
       "duration_ms": 153241,
       "name": "Spiderwebs",
       "url": "https://open.spotify.com/track/4oISmbyFTnq3VqpSBL6sjJ"
-    },
-    {
-      "added_at": "2024-08-29 19:59:48",
-      "album": {
-        "name": "Just Like North",
-        "url": "https://open.spotify.com/album/7dy3rpDg0KQRR9Eee7Zgld"
-      },
-      "artists": [
-        {
-          "name": "Angie McMahon",
-          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
-        }
-      ],
-      "duration_ms": 184334,
-      "name": "Just Like North",
-      "url": "https://open.spotify.com/track/1AWsIwO7b5LqJ9vyVfIX2X"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -1269,22 +1269,6 @@
       "url": "https://open.spotify.com/track/3X3cftpXwcSXQM4fC5ihdo"
     },
     {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
-        "name": "Wide Eyed",
-        "url": "https://open.spotify.com/album/7n6rB3pvqkFzXeyBOeBPEh"
-      },
-      "artists": [
-        {
-          "name": "Billy Lockett",
-          "url": "https://open.spotify.com/artist/2lKeiALM1T2TZrOiTYlLNA"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Wide Eyed",
-      "url": "https://open.spotify.com/track/6Nl8gY9HumJMQrC3qwtc3r"
-    },
-    {
       "added_at": "2024-08-29 19:59:48",
       "album": {
         "name": "Oblivion",
@@ -1299,6 +1283,22 @@
       "duration_ms": 184571,
       "name": "Oblivion",
       "url": "https://open.spotify.com/track/0R39eXyJMfdAQZ3Eac3DQG"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
+        "name": "Wide Eyed",
+        "url": "https://open.spotify.com/album/7n6rB3pvqkFzXeyBOeBPEh"
+      },
+      "artists": [
+        {
+          "name": "Billy Lockett",
+          "url": "https://open.spotify.com/artist/2lKeiALM1T2TZrOiTYlLNA"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Wide Eyed",
+      "url": "https://open.spotify.com/track/6Nl8gY9HumJMQrC3qwtc3r"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
-        "name": "Anthems For A Seventeen Year-Old Girl (From \"I Saw the TV Glow\")",
-        "url": "https://open.spotify.com/album/3vnboMJaGw6fLJ0B82OkvT"
-      },
-      "artists": [
-        {
-          "name": "yeule",
-          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
-        }
-      ],
-      "duration_ms": 212750,
-      "name": "Anthems For A Seventeen Year-Old Girl - From \"I Saw the TV Glow\"",
-      "url": "https://open.spotify.com/track/15kuqWifv5GzGq3A2P6EbC"
-    },
-    {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
         "name": "Dark Corners and Alchemy",
         "url": "https://open.spotify.com/album/3pcb6cs5ZquBAOiZXuQQRA"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 153915,
       "name": "princes of melancholia",
       "url": "https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
+        "name": "Anthems For A Seventeen Year-Old Girl (From \"I Saw the TV Glow\")",
+        "url": "https://open.spotify.com/album/3vnboMJaGw6fLJ0B82OkvT"
+      },
+      "artists": [
+        {
+          "name": "yeule",
+          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
+        }
+      ],
+      "duration_ms": 212750,
+      "name": "Anthems For A Seventeen Year-Old Girl - From \"I Saw the TV Glow\"",
+      "url": "https://open.spotify.com/track/15kuqWifv5GzGq3A2P6EbC"
     },
     {
       "added_at": "2024-10-10 23:35:59",
@@ -1529,22 +1529,6 @@
       "url": "https://open.spotify.com/track/1Mq6UisCNxfqN9wxiV8NCj"
     },
     {
-      "added_at": "2026-07-23 17:10:49",
-      "album": {
-        "name": "Not for Nothing",
-        "url": "https://open.spotify.com/album/6h7Q4NvBdCagiNOCSz6rjy"
-      },
-      "artists": [
-        {
-          "name": "Slow Pulp",
-          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
-        }
-      ],
-      "duration_ms": 189290,
-      "name": "Not for Nothing",
-      "url": "https://open.spotify.com/track/71LE6SBGVcXdIhHxJ6Nb8c"
-    },
-    {
       "added_at": "2024-05-31 15:25:10",
       "album": {
         "name": "Love Me In Chapters",
@@ -1575,6 +1559,22 @@
       "duration_ms": 219333,
       "name": "Loneliness on the run",
       "url": "https://open.spotify.com/track/73yYzvKQM3cXUKyWO5Ynwr"
+    },
+    {
+      "added_at": "2026-07-23 17:10:49",
+      "album": {
+        "name": "Not for Nothing",
+        "url": "https://open.spotify.com/album/6h7Q4NvBdCagiNOCSz6rjy"
+      },
+      "artists": [
+        {
+          "name": "Slow Pulp",
+          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
+        }
+      ],
+      "duration_ms": 189290,
+      "name": "Not for Nothing",
+      "url": "https://open.spotify.com/track/71LE6SBGVcXdIhHxJ6Nb8c"
     },
     {
       "added_at": "2024-10-10 23:35:59",

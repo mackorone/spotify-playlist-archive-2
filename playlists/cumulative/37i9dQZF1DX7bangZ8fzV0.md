@@ -2,9 +2,9 @@
 
 ### [Afrikaanse Hits](https://open.spotify.com/playlist/37i9dQZF1DX7bangZ8fzV0)
 
-> Net die beste Afrikaanse musiek! Omslag: ONS
+> Net die beste Afrikaanse musiek! Omslag: Brendan Peyper
 
-421 songs - 23 hr 11 min
+422 songs - 23 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -386,7 +386,7 @@
 | [Toer Om Die Vloer](https://open.spotify.com/track/5oMumOpP2Bavh3JyjbOqP5) | [Brendan Peyper](https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v) | [Insomnia](https://open.spotify.com/album/0b8YXBab3WjJJWimv8HgBB) | 3:11 | 2022-10-28 |  |
 | [Trek Hom Plat](https://open.spotify.com/track/0wuhtOH1S7wjjx8HWqN5Md) | [Ricus Nel](https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg), [Chris Steyn](https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q) | [Trek Hom Plat](https://open.spotify.com/album/3PGqATRN5CbIoDlwp2XbLd) | 2:52 | 2024-11-07 | 2026-09-25 |
 | [Troumateriaal](https://open.spotify.com/track/2bxBLbKyJWd0406RLKr6wK) | [Brendan Peyper](https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v) | [Troumateriaal](https://open.spotify.com/album/7qWT35R3KlS5cNQegnYAEt) | 3:21 | 2025-11-14 | 2026-02-16 |
-| [Vanaand](https://open.spotify.com/track/4ElPtyisAGJsV1C2xUxhKn) | [Die Beste Band In Die Wêreld ...Ooit, Ek Sweer](https://open.spotify.com/artist/1LCk8t8lJx1S9aJt6RajMd) | [Vanaand](https://open.spotify.com/album/2PFEJJopy6TM7UmsE3JIF6) | 2:57 | 2025-12-11 |  |
+| [Vanaand](https://open.spotify.com/track/4ElPtyisAGJsV1C2xUxhKn) | [Die Beste Band In Die Wêreld ...Ooit, Ek Sweer](https://open.spotify.com/artist/1LCk8t8lJx1S9aJt6RajMd) | [Vanaand](https://open.spotify.com/album/2PFEJJopy6TM7UmsE3JIF6) | 2:57 | 2025-12-11 | 2026-11-14 |
 | [Vat 'n Bietjie](https://open.spotify.com/track/181RlW4FYWSzaV9xt8xUPQ) | [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [Spontaan](https://open.spotify.com/album/25pTHMFYTDNLVnEqRKIVQl) | 3:12 | 2021-04-19 | 2025-11-15 |
 | [Vat 'n Bietjie](https://open.spotify.com/track/1u69vEZpvkC9eV9bv6kxm5) | [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [Spontaan](https://open.spotify.com/album/03ZN1Le5d94yg39ijW9cBO) | 3:12 | 2024-02-15 |  |
 | [Vat 'n Bietjie](https://open.spotify.com/track/4PhA0GhiJi3KTCURQBCYEW) | [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [Afrikaans is Groot Vol\. 14](https://open.spotify.com/album/3wMyH1M60asVYjnhQVJc6h) | 3:12 | 2021-04-19 | 2022-11-13 |
@@ -417,6 +417,7 @@
 | [Wat Kan 'n Man Dan Doen](https://open.spotify.com/track/7LkWQdDSF1h7pcikce3CSs) | [Eloff](https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR) | [Wat Kan 'n Man Dan Doen](https://open.spotify.com/album/7ouDwXKPZZ4YNf93lP4eHR) | 2:44 | 2025-04-24 |  |
 | [Wat my Pa sou sê](https://open.spotify.com/track/05VXiNCJM3KMDekmOtquOq) | [Kurt Darren](https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd) | [Wat my Pa sou sê](https://open.spotify.com/album/5FP9ioRvPrNL2LavCBjU70) | 2:56 | 2022-09-22 | 2022-11-04 |
 | [Wat nou?](https://open.spotify.com/track/736z0fpLePveyPW7cdzCDJ) | [Riana Nel](https://open.spotify.com/artist/6Skl2RueCJYKBBm1Yr6BBQ) | [Wat nou?](https://open.spotify.com/album/1Jj5WCIH5SQXLKTfJ3VLwM) | 2:38 | 2023-07-13 | 2023-12-15 |
+| [Wens Jy Was Bier](https://open.spotify.com/track/4gbKAh0jrldoHsivP44twC) | [Brendan Peyper](https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v) | [Nostalgie](https://open.spotify.com/album/6T2YdkFryff92m421KLypj) | 3:15 | 2026-11-13 |  |
 | [Wes Kaap](https://open.spotify.com/track/3vdDLTqgBb9ro7p3K0h6MI) | [Jan Bloukaas](https://open.spotify.com/artist/78BYwFUCGOHFIC54M4Rnic), [Hunter Kennedy](https://open.spotify.com/artist/1ZMCOQhfU6y2jzMHXooyKi) | [God Kan](https://open.spotify.com/album/26qfyYjiOZDdHj2c5uR20y) | 2:35 | 2024-12-12 | 2025-02-21 |
 | [Wie Anders](https://open.spotify.com/track/32wQgPOPIwmoRW2HulnKFT) | [Rooksein](https://open.spotify.com/artist/0TX0T9VkzOTEjsdzi1a4nT) | [Wie Anders](https://open.spotify.com/album/5zLV9nKIJHlp2N9CAzXwsZ) | 3:25 | 2026-03-19 | 2026-06-20 |
 | [Wie's Jou Kat?](https://open.spotify.com/track/1cpPxUeohprGjsQInKBggX) | [Danny Smoke](https://open.spotify.com/artist/2w5KXwbkeiYOaxT3Wq9iwj) | [Wie's Jou Kat?](https://open.spotify.com/album/1eQFe82cj7zrCeh3R0XizG) | 3:25 | 2022-10-28 | 2022-12-02 |

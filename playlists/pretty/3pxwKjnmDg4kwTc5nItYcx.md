@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3pxwKjnmDg4kwTc5nItYcx.md) - [plain]
 
 > Down\-tempo and easy listening music\. Cover: Maisie Peters
 
-[Topsify Australia](https://open.spotify.com/user/popmob) - 5,521 likes - 104 songs - 5 hr 34 min
+[Topsify Australia](https://open.spotify.com/user/popmob) - 5,520 likes - 104 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

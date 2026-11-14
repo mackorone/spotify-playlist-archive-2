@@ -1,12 +1,12 @@
 {
   "description": "Svenska punkklassiker och hardcore.",
-  "num_followers": 205724,
+  "num_followers": 205660,
   "original_name": "Svensk Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOemLMljzTw97dRdRDYFkim0W1sp",
+  "snapshot_id": "AAAAAC7O1BkUtaiFi940F7vDEDMsOfxQ",
   "tracks": [
     {
       "added_at": "2024-08-29 22:00:00",
@@ -371,22 +371,6 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Splitter",
-        "url": "https://open.spotify.com/album/7iP2d6T1gMjhQ9VcAYRgT5"
-      },
-      "artists": [
-        {
-          "name": "Mimikry",
-          "url": "https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv"
-        }
-      ],
-      "duration_ms": 180186,
-      "name": "Samma bur som ig\u00e5r",
-      "url": "https://open.spotify.com/track/2djpq3lTkRFBDELes0c8Ob"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
         "name": "[emo]",
         "url": "https://open.spotify.com/album/57RyBvC6QTcd13XRfo9MDP"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 192362,
       "name": "Simpel Matematik",
       "url": "https://open.spotify.com/track/3v0YqaZ4UG78gzaQDiPbAQ"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Splitter",
+        "url": "https://open.spotify.com/album/7iP2d6T1gMjhQ9VcAYRgT5"
+      },
+      "artists": [
+        {
+          "name": "Mimikry",
+          "url": "https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv"
+        }
+      ],
+      "duration_ms": 180186,
+      "name": "Samma bur som ig\u00e5r",
+      "url": "https://open.spotify.com/track/2djpq3lTkRFBDELes0c8Ob"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Punkfestival",
-        "url": "https://open.spotify.com/album/2dHXmO7yLflqWRsE1O0b5A"
-      },
-      "artists": [
-        {
-          "name": "Attentat",
-          "url": "https://open.spotify.com/artist/78GFaTPk9W1HfaWvmoRO8n"
-        }
-      ],
-      "duration_ms": 142184,
-      "name": "Punkfestival",
-      "url": "https://open.spotify.com/track/2HsOYlJSGyrQoMU5ju4YJ9"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
         "name": "Vi \u00c4ger Natten",
         "url": "https://open.spotify.com/album/6PE6UFsbSCTXP96nCaUPHi"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 135493,
       "name": "V\u00e5ga!",
       "url": "https://open.spotify.com/track/5UVYZ4sGc0myt98mSs9xy7"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Punkfestival",
+        "url": "https://open.spotify.com/album/2dHXmO7yLflqWRsE1O0b5A"
+      },
+      "artists": [
+        {
+          "name": "Attentat",
+          "url": "https://open.spotify.com/artist/78GFaTPk9W1HfaWvmoRO8n"
+        }
+      ],
+      "duration_ms": 142184,
+      "name": "Punkfestival",
+      "url": "https://open.spotify.com/track/2HsOYlJSGyrQoMU5ju4YJ9"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Bryter ihop f\u00f6r idag",
-        "url": "https://open.spotify.com/album/5MWVgUzeKPg3dcY8u1t8o7"
-      },
-      "artists": [
-        {
-          "name": "Skithuvve",
-          "url": "https://open.spotify.com/artist/74aaVl8iprrvSfvYUsyHIB"
-        }
-      ],
-      "duration_ms": 133836,
-      "name": "Den h\u00e4r stan",
-      "url": "https://open.spotify.com/track/7yHpuyqiWdljDEF855hMgC"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
         "name": "Berlin",
         "url": "https://open.spotify.com/album/2Se4lK8pvTHK3AmGyskrUU"
       },
@@ -1071,18 +1055,34 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Innan du f\u00f6rsvinner",
-        "url": "https://open.spotify.com/album/5vzyrifDDM1ZfYSkVVPJSW"
+        "name": "Bryter ihop f\u00f6r idag",
+        "url": "https://open.spotify.com/album/5MWVgUzeKPg3dcY8u1t8o7"
       },
       "artists": [
         {
-          "name": "Attentat",
-          "url": "https://open.spotify.com/artist/78GFaTPk9W1HfaWvmoRO8n"
+          "name": "Skithuvve",
+          "url": "https://open.spotify.com/artist/74aaVl8iprrvSfvYUsyHIB"
         }
       ],
-      "duration_ms": 200168,
-      "name": "Innan du f\u00f6rsvinner",
-      "url": "https://open.spotify.com/track/38n2koCjpSxcGm5kiun02Q"
+      "duration_ms": 133836,
+      "name": "Den h\u00e4r stan",
+      "url": "https://open.spotify.com/track/7yHpuyqiWdljDEF855hMgC"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Sex Noll Tv\u00e5",
+        "url": "https://open.spotify.com/album/1RQDWa5oI0JVu5WUq9mxnw"
+      },
+      "artists": [
+        {
+          "name": "Shuvit",
+          "url": "https://open.spotify.com/artist/1ydU8JWvSYgDkNetiiWxgM"
+        }
+      ],
+      "duration_ms": 209308,
+      "name": "Sex Noll Tv\u00e5",
+      "url": "https://open.spotify.com/track/2cDhN8iMlxEQPpjkcqCgQP"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Sex Noll Tv\u00e5",
-        "url": "https://open.spotify.com/album/1RQDWa5oI0JVu5WUq9mxnw"
+        "name": "Innan du f\u00f6rsvinner",
+        "url": "https://open.spotify.com/album/5vzyrifDDM1ZfYSkVVPJSW"
       },
       "artists": [
         {
-          "name": "Shuvit",
-          "url": "https://open.spotify.com/artist/1ydU8JWvSYgDkNetiiWxgM"
+          "name": "Attentat",
+          "url": "https://open.spotify.com/artist/78GFaTPk9W1HfaWvmoRO8n"
         }
       ],
-      "duration_ms": 209308,
-      "name": "Sex Noll Tv\u00e5",
-      "url": "https://open.spotify.com/track/2cDhN8iMlxEQPpjkcqCgQP"
+      "duration_ms": 200168,
+      "name": "Innan du f\u00f6rsvinner",
+      "url": "https://open.spotify.com/track/38n2koCjpSxcGm5kiun02Q"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
+        "name": "V\u00e4lkommen till avr\u00e4ttningen",
+        "url": "https://open.spotify.com/album/5hHmpAQgoVUHeSpymWnWGK"
+      },
+      "artists": [
+        {
+          "name": "B\u00f6del",
+          "url": "https://open.spotify.com/artist/5iy1KtaKm2jnxU9V1lWENa"
+        }
+      ],
+      "duration_ms": 108621,
+      "name": "Grisarna och snuten",
+      "url": "https://open.spotify.com/track/0mYtygCVUIGTRuPT7F3NEJ"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
         "name": "Du E Plast",
         "url": "https://open.spotify.com/album/6Wp0WRKdyr5osrASK5A0r4"
       },
@@ -1347,22 +1363,6 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "V\u00e4lkommen till avr\u00e4ttningen",
-        "url": "https://open.spotify.com/album/5hHmpAQgoVUHeSpymWnWGK"
-      },
-      "artists": [
-        {
-          "name": "B\u00f6del",
-          "url": "https://open.spotify.com/artist/5iy1KtaKm2jnxU9V1lWENa"
-        }
-      ],
-      "duration_ms": 108621,
-      "name": "Grisarna och snuten",
-      "url": "https://open.spotify.com/track/0mYtygCVUIGTRuPT7F3NEJ"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
         "name": "F\u00e4rgblind",
         "url": "https://open.spotify.com/album/44xX7pJ4mlnZ3V87CULPtO"
       },
@@ -1375,22 +1375,6 @@
       "duration_ms": 157000,
       "name": "F\u00e4rgblind",
       "url": "https://open.spotify.com/track/2P5RmWQ1D4U05M0GsAlBVA"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
-        "name": "Kollektivt sj\u00e4lvmord",
-        "url": "https://open.spotify.com/album/4LlnSAm75vQ0hD1PSPLY6L"
-      },
-      "artists": [
-        {
-          "name": "Civil Olydnad",
-          "url": "https://open.spotify.com/artist/1Ec2RuosR3mXrq6Q6egvUK"
-        }
-      ],
-      "duration_ms": 103973,
-      "name": "Kollektivt sj\u00e4lvmord",
-      "url": "https://open.spotify.com/track/3SYUN0J0uFPMNT0kRwqGjT"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -1411,18 +1395,18 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "L\u00f6rdag kan bli farlig",
-        "url": "https://open.spotify.com/album/7t5iA3DK0JCoZ1ZZaHQOJs"
+        "name": "Kollektivt sj\u00e4lvmord",
+        "url": "https://open.spotify.com/album/4LlnSAm75vQ0hD1PSPLY6L"
       },
       "artists": [
         {
-          "name": "D\u00d6DS\u00d6GONBLICKET",
-          "url": "https://open.spotify.com/artist/67xMBkNcA99pxBHDJqfZkU"
+          "name": "Civil Olydnad",
+          "url": "https://open.spotify.com/artist/1Ec2RuosR3mXrq6Q6egvUK"
         }
       ],
-      "duration_ms": 96000,
-      "name": "L\u00f6rdag kan bli farlig",
-      "url": "https://open.spotify.com/track/6lAmB5k8Hjrl5k77f99v3L"
+      "duration_ms": 103973,
+      "name": "Kollektivt sj\u00e4lvmord",
+      "url": "https://open.spotify.com/track/3SYUN0J0uFPMNT0kRwqGjT"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -1443,6 +1427,22 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
+        "name": "L\u00f6rdag kan bli farlig",
+        "url": "https://open.spotify.com/album/7t5iA3DK0JCoZ1ZZaHQOJs"
+      },
+      "artists": [
+        {
+          "name": "D\u00d6DS\u00d6GONBLICKET",
+          "url": "https://open.spotify.com/artist/67xMBkNcA99pxBHDJqfZkU"
+        }
+      ],
+      "duration_ms": 96000,
+      "name": "L\u00f6rdag kan bli farlig",
+      "url": "https://open.spotify.com/track/6lAmB5k8Hjrl5k77f99v3L"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
         "name": "Andra platsen",
         "url": "https://open.spotify.com/album/3nzplr9marTkqVih8v7yR7"
       },
@@ -1455,22 +1455,6 @@
       "duration_ms": 168513,
       "name": "Andra platsen",
       "url": "https://open.spotify.com/track/4B4pTAFGAKoVRnPmhoZBFb"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
-        "name": "Crippas bar",
-        "url": "https://open.spotify.com/album/6R96Kks61SVVG48J2mblAl"
-      },
-      "artists": [
-        {
-          "name": "Siken f\u00f6r Helvete",
-          "url": "https://open.spotify.com/artist/02S9xjQRvXIyEUkmtIfHIw"
-        }
-      ],
-      "duration_ms": 133804,
-      "name": "Crippas bar",
-      "url": "https://open.spotify.com/track/11qwxRce5MXRgbJMepF8d6"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -1491,34 +1475,18 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Pop & V\u00e5ld",
-        "url": "https://open.spotify.com/album/39wTLSo15d9G8bi3getVhI"
+        "name": "Crippas bar",
+        "url": "https://open.spotify.com/album/6R96Kks61SVVG48J2mblAl"
       },
       "artists": [
         {
-          "name": "D\u00d6DS\u00d6GONBLICKET",
-          "url": "https://open.spotify.com/artist/67xMBkNcA99pxBHDJqfZkU"
+          "name": "Siken f\u00f6r Helvete",
+          "url": "https://open.spotify.com/artist/02S9xjQRvXIyEUkmtIfHIw"
         }
       ],
-      "duration_ms": 96000,
-      "name": "Pop & V\u00e5ld",
-      "url": "https://open.spotify.com/track/1PDEjC3h2SPCkYHasBAnda"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
-        "name": "B\u00e4st f\u00f6re 16-10-2014",
-        "url": "https://open.spotify.com/album/33RtuRWy4kXhzg6tsqGy7E"
-      },
-      "artists": [
-        {
-          "name": "Headons",
-          "url": "https://open.spotify.com/artist/5ILHTFZeVJHlBFC2MkbPe8"
-        }
-      ],
-      "duration_ms": 68893,
-      "name": "Lamotten is n\u00e5dd",
-      "url": "https://open.spotify.com/track/0Ne2ltkBiEHWx2CqBj9t09"
+      "duration_ms": 133804,
+      "name": "Crippas bar",
+      "url": "https://open.spotify.com/track/11qwxRce5MXRgbJMepF8d6"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -1539,18 +1507,18 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "R\u00f6sta p\u00e5 idioter",
-        "url": "https://open.spotify.com/album/19L94PymfQ5cxCXUze5wS6"
+        "name": "Pop & V\u00e5ld",
+        "url": "https://open.spotify.com/album/39wTLSo15d9G8bi3getVhI"
       },
       "artists": [
         {
-          "name": "J\u00f6nzzonligan",
-          "url": "https://open.spotify.com/artist/24sBUpWpLgfDzwJq03Ph8S"
+          "name": "D\u00d6DS\u00d6GONBLICKET",
+          "url": "https://open.spotify.com/artist/67xMBkNcA99pxBHDJqfZkU"
         }
       ],
-      "duration_ms": 141040,
-      "name": "Fattigdom suger!",
-      "url": "https://open.spotify.com/track/3N95fYz6Eca4qx70rhudiq"
+      "duration_ms": 96000,
+      "name": "Pop & V\u00e5ld",
+      "url": "https://open.spotify.com/track/1PDEjC3h2SPCkYHasBAnda"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -1571,18 +1539,34 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Perfektion",
-        "url": "https://open.spotify.com/album/4j9ASlDUrwhNnDU9LVXWXR"
+        "name": "B\u00e4st f\u00f6re 16-10-2014",
+        "url": "https://open.spotify.com/album/33RtuRWy4kXhzg6tsqGy7E"
       },
       "artists": [
         {
-          "name": "Siken f\u00f6r Helvete",
-          "url": "https://open.spotify.com/artist/02S9xjQRvXIyEUkmtIfHIw"
+          "name": "Headons",
+          "url": "https://open.spotify.com/artist/5ILHTFZeVJHlBFC2MkbPe8"
         }
       ],
-      "duration_ms": 101006,
-      "name": "Perfektion",
-      "url": "https://open.spotify.com/track/2BC87opiqN4nkYnzUdEwzR"
+      "duration_ms": 68893,
+      "name": "Lamotten is n\u00e5dd",
+      "url": "https://open.spotify.com/track/0Ne2ltkBiEHWx2CqBj9t09"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "R\u00f6sta p\u00e5 idioter",
+        "url": "https://open.spotify.com/album/19L94PymfQ5cxCXUze5wS6"
+      },
+      "artists": [
+        {
+          "name": "J\u00f6nzzonligan",
+          "url": "https://open.spotify.com/artist/24sBUpWpLgfDzwJq03Ph8S"
+        }
+      ],
+      "duration_ms": 141040,
+      "name": "Fattigdom suger!",
+      "url": "https://open.spotify.com/track/3N95fYz6Eca4qx70rhudiq"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -1599,6 +1583,22 @@
       "duration_ms": 168061,
       "name": "Tid-\u00f6vertid",
       "url": "https://open.spotify.com/track/3bYTorXoefvnMoVpFLYMHn"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Perfektion",
+        "url": "https://open.spotify.com/album/4j9ASlDUrwhNnDU9LVXWXR"
+      },
+      "artists": [
+        {
+          "name": "Siken f\u00f6r Helvete",
+          "url": "https://open.spotify.com/artist/02S9xjQRvXIyEUkmtIfHIw"
+        }
+      ],
+      "duration_ms": 101006,
+      "name": "Perfektion",
+      "url": "https://open.spotify.com/track/2BC87opiqN4nkYnzUdEwzR"
     },
     {
       "added_at": "2024-08-29 22:00:00",

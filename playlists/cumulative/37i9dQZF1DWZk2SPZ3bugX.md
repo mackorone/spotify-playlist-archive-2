@@ -4,7 +4,7 @@
 
 > 🍾
 
-308 songs - 17 hr 32 min
+309 songs - 17 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,7 @@
 | [Free Ride](https://open.spotify.com/track/4L67ZFASgypD9BTlb7VRpv) | [Mykki Blanco](https://open.spotify.com/artist/2tSv9mEQSuNVMGr9qjYfkr) | [Free Ride](https://open.spotify.com/album/4fqMkar9XEPIL18zmrNxXc) | 3:34 | 2022-12-08 | 2023-06-10 |
 | [Freedom](https://open.spotify.com/track/2dNpDvdfOWoldOOaXzMVVm) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Freedom](https://open.spotify.com/album/77UHK9hcSBhAoeteVrN0Ox) | 3:25 | 2023-01-27 | 2024-12-07 |
 | [french kids](https://open.spotify.com/track/3rDsK4LPkbISdXr7gBCkor) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [THANK GOD IT'S ALMOST MONDAY](https://open.spotify.com/album/6Kbrdx4BGQ41cmkJZw1yBM) | 3:34 | 2026-09-10 |  |
-| [Future Heat feat\. Keagan Raphael](https://open.spotify.com/track/1FLOo634zcxH7GM3yG1DpT) | [Nenashi](https://open.spotify.com/artist/675S7vvHTkabWlPQinidmX), [Keagan Raphael](https://open.spotify.com/artist/707OmZTNJHXFBvUXnc4XUo) | [MOMENT](https://open.spotify.com/album/2jligRxWSH9u3Sh5foJWTS) | 3:40 | 2026-07-31 |  |
+| [Future Heat feat\. Keagan Raphael](https://open.spotify.com/track/1FLOo634zcxH7GM3yG1DpT) | [Nenashi](https://open.spotify.com/artist/675S7vvHTkabWlPQinidmX), [Keagan Raphael](https://open.spotify.com/artist/707OmZTNJHXFBvUXnc4XUo) | [MOMENT](https://open.spotify.com/album/2jligRxWSH9u3Sh5foJWTS) | 3:40 | 2026-07-31 | 2026-11-14 |
 | [Galaxie](https://open.spotify.com/track/4cE3YZpsggEkLKmZshbbk6) | [Valère](https://open.spotify.com/artist/0V78ret9j8rEFKVB480Rcs) | [Miroirs](https://open.spotify.com/album/6IudBeRgkljRDt532xTYdN) | 2:59 | 2025-10-16 | 2025-11-29 |
 | [Get Away](https://open.spotify.com/track/5wozBVcDxpyTODUktYmhmq) | [Pony Pony Run Run](https://open.spotify.com/artist/6RXZaVIbZfdngXJOSGrVH3) | [Get Away](https://open.spotify.com/album/6R5y4IG0M1xiHJNBAwxO7n) | 3:05 | 2026-06-12 | 2026-07-11 |
 | [Get Fly \(I Wanna\)](https://open.spotify.com/track/1VmbST2OSjglP9kbMk90dN) | [Lewis OfMan](https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg), [Gabriela Richardson](https://open.spotify.com/artist/69YKwunlA0xl2yMS12cyMu) | [Cristal Medium Blue](https://open.spotify.com/album/5wOsAojJKCvanW8gkgjVxC) | 4:46 | 2024-02-09 |  |
@@ -193,6 +193,7 @@
 | [My Type](https://open.spotify.com/track/2Iq6HhIquO7JKr0KfTNLzU) | [Saint Motel](https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV) | [My Type EP](https://open.spotify.com/album/2r69WsAMyjbgLf8c4woaUr) | 3:24 | 2022-12-08 | 2023-09-23 |
 | [Nanaman](https://open.spotify.com/track/60x9cVQ3agMY2tNtzisgVK) | [IV OF SPADES](https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG) | [Nanaman](https://open.spotify.com/album/4ytEbWBXLTrrgfu9plJhr8) | 3:11 | 2025-08-14 | 2025-09-19 |
 | [Never Forget You](https://open.spotify.com/track/3xxmjMvJsSR3L7mUOxP9QA) | [Noisettes](https://open.spotify.com/artist/6oX4tx055oEFYM3ahDTyOD) | [Wild Young Hearts](https://open.spotify.com/album/0xobW2Yg1TBQ53ybxYAlyA) | 3:12 | 2022-12-08 | 2023-09-23 |
+| [Never Know](https://open.spotify.com/track/1pXeK3o8RP79QrsEHlsdCQ) | [Barley Passable](https://open.spotify.com/artist/0k2101hTwxewxXtAOuqToM), [DENNIS.](https://open.spotify.com/artist/1rnhbIE4GzdmkCKnfG15nM) | [Never Know](https://open.spotify.com/album/66OFyh6yyN98eBuQqGXzCy) | 3:45 | 2026-11-13 |  |
 | [Nihilist](https://open.spotify.com/track/6CmiNk8xgFGonzQYr6dPFU) | [Beforefrances](https://open.spotify.com/artist/0Sx1GmPY18HuO1ZrzyCnVj) | [Nihilist](https://open.spotify.com/album/3ZzdbQk3LgpxvsAQ7Fhz5c) | 2:30 | 2025-05-30 | 2025-07-11 |
 | [No More Lies](https://open.spotify.com/track/62tGzw9OJOwDcjPBnMPCuj) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [No More Lies](https://open.spotify.com/album/2M0NVS1dhyis57BJp7REZt) | 5:27 | 2023-04-28 | 2025-04-11 |
 | [no more regrets](https://open.spotify.com/track/7lgx7t5ZLkdOjiOAjSx9d6) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [no more regrets](https://open.spotify.com/album/5cdZLcELt79qq6zxd0oFkA) | 2:58 | 2026-04-30 |  |

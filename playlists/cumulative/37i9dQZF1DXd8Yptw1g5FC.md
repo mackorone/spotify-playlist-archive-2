@@ -4,7 +4,7 @@
 
 > Canozan x M Lisa ve haftanın en iyi çıkışları!
 
-10,979 songs - 23 day 10 hr 48 min
+10,980 songs - 23 day 10 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3856,7 +3856,7 @@
 | [Gitme Kal](https://open.spotify.com/track/5DI2VWLdAwMHFBYlST4fP3) | [Eskitilmiş Yaz](https://open.spotify.com/artist/5jqUKWt4bZ92tx05YkDyou) | [Gitme Kal](https://open.spotify.com/album/5hRj98RmqJeXTdmvLOZA2S) | 3:44 | 2025-11-27 | 2025-12-05 |
 | [Gitme Kal](https://open.spotify.com/track/5GFv5MGLn62W5KSgAtiQfT) | [Kerem Keskin](https://open.spotify.com/artist/3arLmUZFNojh7xyCLwrzAb) | [Gitme Kal](https://open.spotify.com/album/5aRgNXZn83qChYfRs0QRtN) | 2:09 | 2026-05-21 | 2026-05-29 |
 | [Gitme Kal](https://open.spotify.com/track/0PGz2twIfKQY9ToIqVQrz2) | [Mentra](https://open.spotify.com/artist/1HWXCqZWPw3od0gpFoLXpe) | [Gitme Kal](https://open.spotify.com/album/3jtFpkl7h2IhaRFzylzU3A) | 2:36 | 2025-10-02 | 2025-10-10 |
-| [Gitme Sen Yanımdan](https://open.spotify.com/track/2LOAHYbpiOqeHvySl5y2QD) | [NOORA](https://open.spotify.com/artist/3Lx4UmrXfOxEc6oL5T5psx), [Mert Tunç](https://open.spotify.com/artist/79jytfsUwKuHY0GKpRCgcX) | [Gitme Sen Yanımdan](https://open.spotify.com/album/3jS1YBLAdWZ4a0OC1W7AWA) | 3:14 | 2026-11-13 |  |
+| [Gitme Sen Yanımdan](https://open.spotify.com/track/2LOAHYbpiOqeHvySl5y2QD) | [NOORA](https://open.spotify.com/artist/3Lx4UmrXfOxEc6oL5T5psx), [Mert Tunç](https://open.spotify.com/artist/79jytfsUwKuHY0GKpRCgcX) | [Gitme Sen Yanımdan](https://open.spotify.com/album/3jS1YBLAdWZ4a0OC1W7AWA) | 3:14 | 2026-11-13 | 2026-11-14 |
 | [Gitme Yolcu Gitme](https://open.spotify.com/track/49f9wUO0SR0CGwuB1pCSmR) | [Binali İlgün](https://open.spotify.com/artist/4ioTE5o8ciXvFKf6NAg1zS), [Cihan Cengiz](https://open.spotify.com/artist/0ywGnVqyBF3L8uRKGNhvjh) | [Gitme Yolcu Gitme](https://open.spotify.com/album/2CpwVlAFY9HsQHAROq7p4h) | 3:47 | 2026-11-13 |  |
 | [Gitmek için mi sarıldın?](https://open.spotify.com/track/0ER7eRwtPIM5PHIQbEVxsR) | [Orhan Söğüt](https://open.spotify.com/artist/3Uqx7NQLInmr7wDywMebB4), [Arda Başargan](https://open.spotify.com/artist/2RMhF8yrrmnns19zi2n3Zo) | [Gitmek için mi sarıldın?](https://open.spotify.com/album/1p7jGoxigwVqsDNXBIq7Vv) | 2:44 | 2026-06-04 | 2026-06-12 |
 | [Gitmek Zorundayım](https://open.spotify.com/track/0yEbIlAuKocp8oywMKPVyo) | [Sidd](https://open.spotify.com/artist/3gkjM4TiQ76hVlUAhE1PNj) | [Gitmek Zorundayım](https://open.spotify.com/album/3owvpHDqxrQPusRbiagZsa) | 2:24 | 2026-02-26 | 2026-03-06 |
@@ -3923,6 +3923,7 @@
 | [GRAFİTİ](https://open.spotify.com/track/0DOzv9Bjlw7cQ8YgixG38V) | [Zen\-G](https://open.spotify.com/artist/4HSiNCPhdU2snKaVJytlUM) | [GRAFİTİ](https://open.spotify.com/album/1FSUfZo58NxG46GRoAg3QX) | 2:34 | 2025-05-01 | 2025-05-09 |
 | [Gramofon Sokağı](https://open.spotify.com/track/1u807To97X9fNt6ptyMTi6) | [Vedat Sakman](https://open.spotify.com/artist/6dyj8hW2rSZ30SHlj2KHrT) | [Gramofon Sokağı](https://open.spotify.com/album/0lSELTtsldkmjlQyW2D5v4) | 3:09 | 2026-10-22 | 2026-10-30 |
 | [Grand Bazaar](https://open.spotify.com/track/2ZmbjLl2zlSTAw52PLEYg2) | [Büşra Kayıkçı](https://open.spotify.com/artist/0iOvtl1pydfRgGpJWOOP8E) | [Grand Bazaar](https://open.spotify.com/album/4U5DWmeKAeLv9KeGjxIiI2) | 3:33 | 2026-05-14 | 2026-05-22 |
+| [Gravity](https://open.spotify.com/track/51TzuKWZUQtDW9GgEuGwsR) | [Maskova](https://open.spotify.com/artist/2SqhDrmodgaRMsc58dozhb) | [Gravity](https://open.spotify.com/album/43Ffp5azsFCuND7WspnJ6M) | 3:09 | 2026-11-13 |  |
 | [Great Expectation](https://open.spotify.com/track/7ujApz6iFP3PmKIDGcaGbe) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Visitor](https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF) | 2:53 | 2026-07-02 | 2026-07-10 |
 | [Great Pretender](https://open.spotify.com/track/1pNEdS8LS4TKZgTSvfvl5C) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Rocket](https://open.spotify.com/album/3KKqjBV0QBcgfTErzdkEd3) | 2:51 | 2025-08-22 | 2025-08-29 |
 | [GREAT PRETENDER](https://open.spotify.com/track/6okpS7XupEUMrB4sGv7Xjf) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [GREAT PRETENDER](https://open.spotify.com/album/7K23bPTCyceBsC7lFufoLO) | 2:38 | 2026-04-02 | 2026-04-10 |

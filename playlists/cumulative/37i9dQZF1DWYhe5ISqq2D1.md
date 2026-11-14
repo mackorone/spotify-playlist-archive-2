@@ -4,7 +4,7 @@
 
 > 日本のシンガーソングライターを特集。Featuring Japanese Singer\-Songwriters\. Cover: LANA
 
-1,824 songs - 4 day 18 hr 9 min
+1,825 songs - 4 day 18 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -613,6 +613,7 @@
 | [quiet games](https://open.spotify.com/track/3Q2xzeRelIZr3U4ErkVTUw) | [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb) | [quiet games](https://open.spotify.com/album/0eEU0hRhtJqcE2zCvo3kKW) | 4:33 | 2026-09-29 | 2026-10-07 |
 | [Rain Man](https://open.spotify.com/track/0ezsCGZVy7Z0ILVSWx3sYE) | [Vuat](https://open.spotify.com/artist/6h9BmNBKahaCmcSYFnJn2Y) | [Rain Man](https://open.spotify.com/album/4gu1R6dosXbiSoBJarDEGh) | 3:30 | 2025-11-04 | 2025-11-12 |
 | [Rain Song](https://open.spotify.com/track/2RDHDpLMNnd6jtMJujLWb9) | [Leo Ieiri](https://open.spotify.com/artist/1XErHyc10VN8bfGKma1Yyc) | [31](https://open.spotify.com/album/4lbDFA1xxTXWSAExmb9dOy) | 3:52 | 2026-08-25 | 2026-09-02 |
+| [Rainbow Squat?](https://open.spotify.com/track/0T1qzPHuWtwzbAAXypRPF2) | [sanetii](https://open.spotify.com/artist/109bnAEaRhXbAKv7rlP1yy), [suisoh](https://open.spotify.com/artist/67dtSHfEqrggSaOaicpaXq) | [アンリアルズ](https://open.spotify.com/album/2RXj78kH4LU4sKPr822Mqv) | 2:18 | 2026-11-10 |  |
 | [Rainy Day](https://open.spotify.com/track/03ocnxF4VNgyhefKy6NOVP) | [Sui≒Kanzaki](https://open.spotify.com/artist/29JFmTAN97wzwMXnnl46fT) | [Rainy Day](https://open.spotify.com/album/4LwCy6mxRSK0IawpdyuumS) | 3:41 | 2026-06-23 | 2026-07-01 |
 | [Rainy Driver](https://open.spotify.com/track/7svKQMA0pJZmeYejScMa3G) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [凡才](https://open.spotify.com/album/2wKpub8y8xRkPboyfBvsEM) | 2:48 | 2024-07-02 | 2024-12-25 |
 | [Ray](https://open.spotify.com/track/7yx5pbQGDEXtpPifMy8u5d) | [YU\-KA](https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX) | [Ray](https://open.spotify.com/album/0bs97BumdpbyYhcfHWE9hg) | 4:36 | 2026-03-24 | 2026-06-24 |
@@ -1309,7 +1310,7 @@
 | [レンズ](https://open.spotify.com/track/7tpqFaSHJV0pKD9pOyTWtc) | [BILLY BOO](https://open.spotify.com/artist/22RzKvEl3GXukiDDKub9Ey) | [レンズ](https://open.spotify.com/album/6FzDCkVE0t0VsqdKhyGP4c) | 3:58 | 2024-12-24 | 2025-04-23 |
 | [レンズ](https://open.spotify.com/track/7ylpphbW8jf5bh7NKJnO8s) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [レンズ](https://open.spotify.com/album/1FQoGibRW7xEZXnq1EJIX2) | 3:58 | 2024-07-02 | 2024-07-10 |
 | [レンズ](https://open.spotify.com/track/71HguLdW670hpDJR9f5l8K) | [がらり](https://open.spotify.com/artist/0JLttnOJnnXSyy8xRFiCPp) | [螺旋の街](https://open.spotify.com/album/78qeryjC8dhgyIVgyKFJEx) | 3:17 | 2026-06-02 | 2026-09-16 |
-| [レンダローグ](https://open.spotify.com/track/6LG5RZFhnSEIGw0w7e7N8w) | [sanetii](https://open.spotify.com/artist/109bnAEaRhXbAKv7rlP1yy) | [レンダローグ](https://open.spotify.com/album/0my7T4mmRpxlRtkdtNu10l) | 2:39 | 2026-09-22 |  |
+| [レンダローグ](https://open.spotify.com/track/6LG5RZFhnSEIGw0w7e7N8w) | [sanetii](https://open.spotify.com/artist/109bnAEaRhXbAKv7rlP1yy) | [レンダローグ](https://open.spotify.com/album/0my7T4mmRpxlRtkdtNu10l) | 2:39 | 2026-09-22 | 2026-11-14 |
 | [ロストライン](https://open.spotify.com/track/3qpUfBCfMzPvkAEiamCP2W) | [茉ひる](https://open.spotify.com/artist/5bWP5BvE7omi0VcYqs2S5R), [Billy Choi](https://open.spotify.com/artist/1tHLv9kMiqAZhpMEGZ4rFw) | [Cinema](https://open.spotify.com/album/6iKGgIPWAHykuvGWAU7nj3) | 3:18 | 2026-06-23 | 2026-09-30 |
 | [ロックスター](https://open.spotify.com/track/52G3NGUareSbVOKplhjTeF) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [ロックスター](https://open.spotify.com/album/3fR1I5UaWbiYzqNdSuEz3w) | 3:59 | 2024-07-02 | 2024-12-25 |
 | [ロードムービー](https://open.spotify.com/track/0cSEhZ1qr33WU7p30wHGzn) | [小野雄大](https://open.spotify.com/artist/0e20MJY2rEAHyJN6CNBkzr) | [ロードムービー](https://open.spotify.com/album/4eYgY9o3mKhiWb6AKkife2) | 4:20 | 2026-06-09 | 2026-06-17 |

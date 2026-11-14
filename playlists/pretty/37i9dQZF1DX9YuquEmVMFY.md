@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YuquEmVMFY.md) - [plain]
 
 > Nov 7th \(Sat\) @ Paradise City Culture Park, Incheon
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,328 likes - 25 songs - 1 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,363 likes - 25 songs - 1 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

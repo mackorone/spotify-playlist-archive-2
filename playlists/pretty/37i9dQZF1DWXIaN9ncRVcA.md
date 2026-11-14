@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIaN9ncRVcA.md) - [plain]
 
 > Some initiations can’t be undone\. The official soundtrack and score of The Body, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,624 likes - 43 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,739 likes - 43 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

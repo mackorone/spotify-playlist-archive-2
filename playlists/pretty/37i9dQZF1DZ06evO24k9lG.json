@@ -1,12 +1,12 @@
 {
   "description": "This is Binomio de Oro de Am\u00e9rica. The essential tracks, all in one playlist.",
-  "num_followers": 65442,
+  "num_followers": 65448,
   "original_name": "This Is Binomio de Oro de Am\u00e9rica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avOwAAAAAADERaOrsveenFKn8sAN80St",
+  "snapshot_id": "avUBgAAAAAA7ycPgA4iCLGiP/mTeUCmo",
   "tracks": [
     {
       "added_at": null,
@@ -127,22 +127,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Haciendo Historia",
-        "url": "https://open.spotify.com/album/4KHJDRsqmmLBODEC4ajvmr"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro de Am\u00e9rica",
-          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
-        }
-      ],
-      "duration_ms": 289293,
-      "name": "Dime Como Te Olvido",
-      "url": "https://open.spotify.com/track/3rlwfFCQsq5GYr2XlKRltD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dif\u00edcil De Igualar",
         "url": "https://open.spotify.com/album/0v85GaHLPiTp66iZli8qGE"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 300786,
       "name": "Me Ilusion\u00e9",
       "url": "https://open.spotify.com/track/20jSoyCuEIjuq9eKCYHpLK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Haciendo Historia",
+        "url": "https://open.spotify.com/album/4KHJDRsqmmLBODEC4ajvmr"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "duration_ms": 289293,
+      "name": "Dime Como Te Olvido",
+      "url": "https://open.spotify.com/track/3rlwfFCQsq5GYr2XlKRltD"
     },
     {
       "added_at": null,
@@ -431,8 +431,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dif\u00edcil De Igualar",
-        "url": "https://open.spotify.com/album/0v85GaHLPiTp66iZli8qGE"
+        "name": "30 Mejores: Binomio de Oro de Am\u00e9rica",
+        "url": "https://open.spotify.com/album/1ciVNBJTfEynm4k1cjQluh"
       },
       "artists": [
         {
@@ -440,9 +440,9 @@
           "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
         }
       ],
-      "duration_ms": 292333,
-      "name": "Dejate Atrapar",
-      "url": "https://open.spotify.com/track/55FtrIkYrKHAhQsCzPdn3e"
+      "duration_ms": 297372,
+      "name": "Lejos De Ti",
+      "url": "https://open.spotify.com/track/48Uz5ex7JzTUnDgQo1sSEE"
     },
     {
       "added_at": null,
@@ -479,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "30 Mejores: Binomio de Oro de Am\u00e9rica",
-        "url": "https://open.spotify.com/album/1ciVNBJTfEynm4k1cjQluh"
+        "name": "Dif\u00edcil De Igualar",
+        "url": "https://open.spotify.com/album/0v85GaHLPiTp66iZli8qGE"
       },
       "artists": [
         {
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
         }
       ],
-      "duration_ms": 297372,
-      "name": "Lejos De Ti",
-      "url": "https://open.spotify.com/track/48Uz5ex7JzTUnDgQo1sSEE"
+      "duration_ms": 292333,
+      "name": "Dejate Atrapar",
+      "url": "https://open.spotify.com/track/55FtrIkYrKHAhQsCzPdn3e"
     },
     {
       "added_at": null,

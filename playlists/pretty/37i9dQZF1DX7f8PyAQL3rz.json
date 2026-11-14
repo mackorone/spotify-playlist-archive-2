@@ -1,6 +1,6 @@
 {
   "description": "mesmos bairros, mesmos pr\u00e9dios - e boa\u00b2",
-  "num_followers": 1425984,
+  "num_followers": 1425843,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -607,6 +607,34 @@
     {
       "added_at": "2026-11-09 19:53:26",
       "album": {
+        "name": "ALIBABA",
+        "url": "https://open.spotify.com/album/5ywMgbQT80KisuEC6zJ9GS"
+      },
+      "artists": [
+        {
+          "name": "WES",
+          "url": "https://open.spotify.com/artist/6424uJS5kZLTGL0pAW7e3J"
+        },
+        {
+          "name": "Vita",
+          "url": "https://open.spotify.com/artist/6dfQmJiIvW1OedMalPDMnO"
+        },
+        {
+          "name": "Yure IDD",
+          "url": "https://open.spotify.com/artist/3g1NhInk2OwAa1UNhBgWiS"
+        },
+        {
+          "name": "CARLO",
+          "url": "https://open.spotify.com/artist/0J4DHkFbIhACgOkPFvWl9Y"
+        }
+      ],
+      "duration_ms": 160203,
+      "name": "ALIBABA",
+      "url": "https://open.spotify.com/track/2y2X7bFfybOrYCODFX6Ub6"
+    },
+    {
+      "added_at": "2026-11-09 19:53:26",
+      "album": {
         "name": "EU TE BUSCO \u00c0S 6",
         "url": "https://open.spotify.com/album/5fnWHCNRiUMvTEIx8ByJYC"
       },
@@ -675,34 +703,6 @@
       "duration_ms": 215433,
       "name": "F\u00f3rmula Perfeita",
       "url": "https://open.spotify.com/track/0bdIp6sr80CK63171GHoeD"
-    },
-    {
-      "added_at": "2026-11-09 19:53:26",
-      "album": {
-        "name": "ALIBABA",
-        "url": "https://open.spotify.com/album/5ywMgbQT80KisuEC6zJ9GS"
-      },
-      "artists": [
-        {
-          "name": "WES",
-          "url": "https://open.spotify.com/artist/6424uJS5kZLTGL0pAW7e3J"
-        },
-        {
-          "name": "Vita",
-          "url": "https://open.spotify.com/artist/6dfQmJiIvW1OedMalPDMnO"
-        },
-        {
-          "name": "Yure IDD",
-          "url": "https://open.spotify.com/artist/3g1NhInk2OwAa1UNhBgWiS"
-        },
-        {
-          "name": "CARLO",
-          "url": "https://open.spotify.com/artist/0J4DHkFbIhACgOkPFvWl9Y"
-        }
-      ],
-      "duration_ms": 160203,
-      "name": "ALIBABA",
-      "url": "https://open.spotify.com/track/2y2X7bFfybOrYCODFX6Ub6"
     },
     {
       "added_at": "2026-11-09 19:53:26",
@@ -831,6 +831,26 @@
     {
       "added_at": "2026-11-09 19:53:26",
       "album": {
+        "name": "Kyan Ao Vivo no SALA",
+        "url": "https://open.spotify.com/album/6yUcI0K6YY37m1Tgs6Nuq6"
+      },
+      "artists": [
+        {
+          "name": "Podpah Records",
+          "url": "https://open.spotify.com/artist/2T7D6AqqCy0OIZyx3m8829"
+        },
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        }
+      ],
+      "duration_ms": 155500,
+      "name": "Neguin 171 - Ao Vivo no SALA",
+      "url": "https://open.spotify.com/track/1ViLU4wvRhfB497pHAqZxV"
+    },
+    {
+      "added_at": "2026-11-09 19:53:26",
+      "album": {
         "name": "Quebrando as Regras",
         "url": "https://open.spotify.com/album/7r9F7849Lhb82n8GBQ1iMI"
       },
@@ -851,26 +871,6 @@
       "duration_ms": 162535,
       "name": "Quebrando as Regras",
       "url": "https://open.spotify.com/track/3QFjFQAm6t944ntU7lE2ZW"
-    },
-    {
-      "added_at": "2026-11-09 19:53:26",
-      "album": {
-        "name": "Kyan Ao Vivo no SALA",
-        "url": "https://open.spotify.com/album/6yUcI0K6YY37m1Tgs6Nuq6"
-      },
-      "artists": [
-        {
-          "name": "Podpah Records",
-          "url": "https://open.spotify.com/artist/2T7D6AqqCy0OIZyx3m8829"
-        },
-        {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
-        }
-      ],
-      "duration_ms": 155500,
-      "name": "Neguin 171 - Ao Vivo no SALA",
-      "url": "https://open.spotify.com/track/1ViLU4wvRhfB497pHAqZxV"
     },
     {
       "added_at": "2026-11-09 19:53:26",
@@ -903,26 +903,6 @@
     {
       "added_at": "2026-11-09 19:53:26",
       "album": {
-        "name": "Muito Rom\u00e2ntico",
-        "url": "https://open.spotify.com/album/12huOOShCMRppercsnKCdS"
-      },
-      "artists": [
-        {
-          "name": "Maui",
-          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
-        },
-        {
-          "name": "Meio Feel",
-          "url": "https://open.spotify.com/artist/1Fm4cFyLxFxY3nIIMCmxO3"
-        }
-      ],
-      "duration_ms": 148965,
-      "name": "Perigos&Macetes",
-      "url": "https://open.spotify.com/track/35WTDGdqXQjwQBhQgtBAbh"
-    },
-    {
-      "added_at": "2026-11-09 19:53:26",
-      "album": {
         "name": "Cicatrizes, Vol. 1",
         "url": "https://open.spotify.com/album/45zIzL6soJ5yT8jv3CIXpl"
       },
@@ -943,6 +923,26 @@
       "duration_ms": 142677,
       "name": "VAI TOMANDO",
       "url": "https://open.spotify.com/track/6Cissij4MMX6vApChJEZgp"
+    },
+    {
+      "added_at": "2026-11-09 19:53:26",
+      "album": {
+        "name": "Muito Rom\u00e2ntico",
+        "url": "https://open.spotify.com/album/12huOOShCMRppercsnKCdS"
+      },
+      "artists": [
+        {
+          "name": "Maui",
+          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
+        },
+        {
+          "name": "Meio Feel",
+          "url": "https://open.spotify.com/artist/1Fm4cFyLxFxY3nIIMCmxO3"
+        }
+      ],
+      "duration_ms": 148965,
+      "name": "Perigos&Macetes",
+      "url": "https://open.spotify.com/track/35WTDGdqXQjwQBhQgtBAbh"
     },
     {
       "added_at": "2026-11-09 19:53:26",
@@ -1195,38 +1195,6 @@
     {
       "added_at": "2026-11-09 19:53:26",
       "album": {
-        "name": "67 Igual Mola",
-        "url": "https://open.spotify.com/album/4d97zHbUcr24M1zHqYbcuG"
-      },
-      "artists": [
-        {
-          "name": "Mc Anjim",
-          "url": "https://open.spotify.com/artist/0DjQFfVxBipTFTXRCwImMP"
-        },
-        {
-          "name": "COMINI",
-          "url": "https://open.spotify.com/artist/5orwiUiEd6sbMsHFMG1KeG"
-        },
-        {
-          "name": "Dops",
-          "url": "https://open.spotify.com/artist/4JgMMefIAAr4nQVHUaWGbQ"
-        },
-        {
-          "name": "Bra\u00e3o",
-          "url": "https://open.spotify.com/artist/0GGDntDaQgJVknzJlXD1Nd"
-        },
-        {
-          "name": "DogDu",
-          "url": "https://open.spotify.com/artist/4wnqUgEQn7lVE0C1pXfuev"
-        }
-      ],
-      "duration_ms": 175237,
-      "name": "67 Igual Mola",
-      "url": "https://open.spotify.com/track/3hsiqSLwUG1LUrpW1L0J6a"
-    },
-    {
-      "added_at": "2026-11-09 19:53:26",
-      "album": {
         "name": "BASE: Baile do Crocodilo",
         "url": "https://open.spotify.com/album/2ltEMEULKtwcnSjgMo2UZZ"
       },
@@ -1255,6 +1223,38 @@
       "duration_ms": 221802,
       "name": "Tun Tun Tropa do 01",
       "url": "https://open.spotify.com/track/5UTGKrvyfS3Lzp6OcwjEDH"
+    },
+    {
+      "added_at": "2026-11-09 19:53:26",
+      "album": {
+        "name": "67 Igual Mola",
+        "url": "https://open.spotify.com/album/4d97zHbUcr24M1zHqYbcuG"
+      },
+      "artists": [
+        {
+          "name": "Mc Anjim",
+          "url": "https://open.spotify.com/artist/0DjQFfVxBipTFTXRCwImMP"
+        },
+        {
+          "name": "COMINI",
+          "url": "https://open.spotify.com/artist/5orwiUiEd6sbMsHFMG1KeG"
+        },
+        {
+          "name": "Dops",
+          "url": "https://open.spotify.com/artist/4JgMMefIAAr4nQVHUaWGbQ"
+        },
+        {
+          "name": "Bra\u00e3o",
+          "url": "https://open.spotify.com/artist/0GGDntDaQgJVknzJlXD1Nd"
+        },
+        {
+          "name": "DogDu",
+          "url": "https://open.spotify.com/artist/4wnqUgEQn7lVE0C1pXfuev"
+        }
+      ],
+      "duration_ms": 175237,
+      "name": "67 Igual Mola",
+      "url": "https://open.spotify.com/track/3hsiqSLwUG1LUrpW1L0J6a"
     },
     {
       "added_at": "2026-11-09 19:53:26",
@@ -1363,6 +1363,26 @@
     {
       "added_at": "2026-11-09 19:53:26",
       "album": {
+        "name": "Amor \u00c9 F*Da",
+        "url": "https://open.spotify.com/album/4aMSzbiq9wIcn47n0xCkwU"
+      },
+      "artists": [
+        {
+          "name": "Oklin",
+          "url": "https://open.spotify.com/artist/4Mi4PoP5thS6fGcdirgh0A"
+        },
+        {
+          "name": "Prod. 2t'",
+          "url": "https://open.spotify.com/artist/2odDxuVA7vqMK2Mrrf7uRN"
+        }
+      ],
+      "duration_ms": 151058,
+      "name": "Amor \u00c9 F*Da",
+      "url": "https://open.spotify.com/track/44cucY54ZnzHEiujvB60LZ"
+    },
+    {
+      "added_at": "2026-11-09 19:53:26",
+      "album": {
         "name": "DIXAVANDO",
         "url": "https://open.spotify.com/album/30x1jnVXq7O1hZm13CssCA"
       },
@@ -1387,26 +1407,6 @@
       "duration_ms": 118153,
       "name": "DIXAVANDO",
       "url": "https://open.spotify.com/track/6slTSnYginVYk9Ubi90K3H"
-    },
-    {
-      "added_at": "2026-11-09 19:53:26",
-      "album": {
-        "name": "Amor \u00c9 F*Da",
-        "url": "https://open.spotify.com/album/4aMSzbiq9wIcn47n0xCkwU"
-      },
-      "artists": [
-        {
-          "name": "Oklin",
-          "url": "https://open.spotify.com/artist/4Mi4PoP5thS6fGcdirgh0A"
-        },
-        {
-          "name": "Prod. 2t'",
-          "url": "https://open.spotify.com/artist/2odDxuVA7vqMK2Mrrf7uRN"
-        }
-      ],
-      "duration_ms": 151058,
-      "name": "Amor \u00c9 F*Da",
-      "url": "https://open.spotify.com/track/44cucY54ZnzHEiujvB60LZ"
     },
     {
       "added_at": "2026-11-09 19:53:26",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 
 > To everything there is a season so let these faith\-filled songs be the soundtrack to your Fall!
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,562 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,575 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 16 | [No One Knows](https://open.spotify.com/track/2DSQa62M7ek9NGMrzmniaU) | [Samantha Ebert](https://open.spotify.com/artist/0ETOPq7bpPG7rxYsV0MEzu) | [No One Knows](https://open.spotify.com/album/67R1xZixrtROiZ1J6mBDlu) | 3:46 |
 | 17 | [stuck in these clouds](https://open.spotify.com/track/4GbQJWf4dMDgAvTAPft96X) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [stuck in these clouds](https://open.spotify.com/album/3837grpUl9bPxIzU9IRixe) | 3:33 |
 | 18 | [Higher Places](https://open.spotify.com/track/2NncdfXTfnluYyhaep7AXI) | [Consumed By Fire](https://open.spotify.com/artist/7nuXXKpffW4YAaXrJP6IH5) | [Higher Places](https://open.spotify.com/album/2XhsRXdwWT7qPW6WtJGUXf) | 2:33 |
-| 19 | [Don't Let The Darkness](https://open.spotify.com/track/2KtroNFk42zBcvHjmAMZQF) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Don't Let The Darkness](https://open.spotify.com/album/7q9FrrEjg9wGyrspaY8i6s) | 3:16 |
+| 19 | [Static & Lightning](https://open.spotify.com/track/24jzOjaBMBtA8XjPquxztK) | [gavn!](https://open.spotify.com/artist/2pQzh5cuuqpDErGZNaOULd) | [Static & Lightning](https://open.spotify.com/album/68QtjJsCt8NF4dntVq5Cr5) | 3:22 |
 | 20 | [Splinters](https://open.spotify.com/track/5Avn8pagmCvgk9mlO2FxPh) | [Hailey Hutcheson](https://open.spotify.com/artist/3AffCW7hqf6m5tx0cE2G1i) | [Splinters](https://open.spotify.com/album/0F7V0lPrggeiRzURF6sQLg) | 2:35 |
-| 21 | [Static & Lightning](https://open.spotify.com/track/24jzOjaBMBtA8XjPquxztK) | [gavn!](https://open.spotify.com/artist/2pQzh5cuuqpDErGZNaOULd) | [Static & Lightning](https://open.spotify.com/album/68QtjJsCt8NF4dntVq5Cr5) | 3:22 |
+| 21 | [Don't Let The Darkness](https://open.spotify.com/track/2KtroNFk42zBcvHjmAMZQF) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Don't Let The Darkness](https://open.spotify.com/album/7q9FrrEjg9wGyrspaY8i6s) | 3:16 |
 | 22 | [good grief!](https://open.spotify.com/track/1Uj1wrgaz5Lt5yejefdxI7) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [good grief!](https://open.spotify.com/album/0SECyjYPCwwkKWRw1pEMdp) | 3:07 |
 | 23 | [Come Back To Me \(Father's Song\)](https://open.spotify.com/track/2gLXY5Hrqik8eZo5cNliur) | [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT) | [Come Back To Me \(Father's Song\)](https://open.spotify.com/album/0Hhn9qin0XYC4ExuVaGMmn) | 3:58 |
 | 24 | [Cling To The Cross](https://open.spotify.com/track/0lHFEiEZRINPS3y8xXHkkn) | [Seph Schlueter](https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Cling To The Cross](https://open.spotify.com/album/74iDwShIeRexXTCcU1QCtY) | 4:08 |

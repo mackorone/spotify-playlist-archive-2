@@ -2,7 +2,7 @@
 
 ### [Marvel Music](https://open.spotify.com/playlist/37i9dQZF1DX5pOp62IUR81)
 
-> Earth's mightiest themes assemble on the Marvel Music Playlist\. Stream Marvel’s The Avengers on Disney+.
+> Doomsday is coming\. Listen to your favorite Marvel themes and get ready for Avengers: Doomsday in theaters soon.
 
 260 songs - 11 hr 31 min
 

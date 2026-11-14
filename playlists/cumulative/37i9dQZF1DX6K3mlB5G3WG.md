@@ -4,7 +4,7 @@
 
 > sangio in cover  + le migliori nuove uscite 🇮🇹 e 🌎!
 
-4,042 songs - 8 day 17 hr 13 min
+4,043 songs - 8 day 17 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3104,7 +3104,7 @@
 | [SENZA STRESS](https://open.spotify.com/track/3ONmINBv2yH3xAIvLDm2ep) | [Deddè](https://open.spotify.com/artist/2OmKywuhryo2wruvLjcocI), [Ciccio Merolla](https://open.spotify.com/artist/0aEGIwEOdAGXZ3lyWdyRs7) | [SENZA STRESS](https://open.spotify.com/album/0NCOGELc84dNOXyQDVghnV) | 2:40 | 2026-04-16 | 2026-05-15 |
 | [SENZA TE](https://open.spotify.com/track/3vdsSwNEzzNMNDL4KnmW8H) | [Lortex](https://open.spotify.com/artist/0ItmqfCN0IYX9N8LcDHj45) | [SENZA TE](https://open.spotify.com/album/3wXqsE1ZWySSlKT9MzYl34) | 2:48 | 2026-01-29 | 2026-02-20 |
 | [senza te](https://open.spotify.com/track/6A4D5wJNi4NB2w2FTezJfh) | [Valerio Mazzei](https://open.spotify.com/artist/2gjd7UN8wYnqF8ZBKqxffi) | [senza te](https://open.spotify.com/album/54g19qvrqead1XxhNpujsV) | 2:19 | 2024-11-28 | 2025-01-03 |
-| [Senza tregua](https://open.spotify.com/track/4Puo8pyv152VIsyFrkT0pq) | [ANTONIA](https://open.spotify.com/artist/7FHXOCS4B6dXsf5x3KmRr0) | [Senza tregua](https://open.spotify.com/album/2OIyM7cAW9NwO0RiJg3bDy) | 2:24 | 2026-11-12 |  |
+| [Senza Tregua](https://open.spotify.com/track/4Puo8pyv152VIsyFrkT0pq) | [ANTONIA](https://open.spotify.com/artist/7FHXOCS4B6dXsf5x3KmRr0) | [Senza Tregua](https://open.spotify.com/album/2OIyM7cAW9NwO0RiJg3bDy) | 2:24 | 2026-11-12 |  |
 | [senza un addio](https://open.spotify.com/track/3xx773p0E7H1FtCP39okPf) | [Anelie](https://open.spotify.com/artist/58oZhOpjpxETOI5AORvQUF), [Kr1](https://open.spotify.com/artist/4vsRoPHf54OF5D85j8jKej) | [senza un addio](https://open.spotify.com/album/1LNBuILWncyZVmODbBmqLI) | 2:35 | 2026-10-22 | 2026-11-13 |
 | [Senza Una Stupida Storia](https://open.spotify.com/track/0603pYalC545IuB3RgWXPf) | [Achille Lauro](https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv) | [Senza Una Stupida Storia](https://open.spotify.com/album/11kvJ6rZcdyq1RNJXiKWVJ) | 2:59 | 2025-09-12 | 2025-10-10 |
 | [Senza vestiti](https://open.spotify.com/track/5PnpH0YgeOQ7m1Yn3B17CI) | [Maria Antonietta](https://open.spotify.com/artist/6anaeWEVZRRTdhWVMp1wnb), [Colombre](https://open.spotify.com/artist/6pVyScwe03hSEWuNs0qeJ1) | [Senza vestiti](https://open.spotify.com/album/0dxz0GxUcYXloy0ClIvz9h) | 3:00 | 2026-05-28 | 2026-06-12 |
@@ -3237,6 +3237,7 @@
 | [Solo per salvarmi](https://open.spotify.com/track/1OXu1ZmSDK6EGBlK6BVFZu) | [ORLANDO](https://open.spotify.com/artist/3Bmu3aOG2LZCHs0Isd3w5v) | [Solo per salvarmi](https://open.spotify.com/album/1Xh5PVCsMw1NqBtIo2MuGJ) | 3:26 | 2026-05-07 | 2026-05-29 |
 | [Solo se sbagli \(feat\. Tiziano Ferro\)](https://open.spotify.com/track/2ihva8k3wxg1gg1kKFTq92) | [Negramaro](https://open.spotify.com/artist/1X9iZlQXfAAx4Vvmlqeao7), [Tiziano Ferro](https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m) | [FREE LOVE](https://open.spotify.com/album/0Cq38Zz480QZY50o7XwSJS) | 3:54 | 2024-11-21 | 2025-01-03 |
 | [Solo tu](https://open.spotify.com/track/5zSrFCj8rSimcPwdtqNg28) | [Yoseba](https://open.spotify.com/artist/09wR8DODGr8W0rGghlkVli) | [Solo tu](https://open.spotify.com/album/2NHV71NuYYN11XOIRIG1yV) | 2:41 | 2025-12-11 | 2026-01-23 |
+| [SOLO UN GIOCO](https://open.spotify.com/track/55MvE3BOrCtS6Qldsazkbw) | [Fares](https://open.spotify.com/artist/0bmKJDoc5Nu9by7Us2WRGo) | [SOLO UN GIOCO](https://open.spotify.com/album/20EnOgxEEHSkGZOiUY7vze) | 3:24 | 2026-11-13 |  |
 | [solo un uomo](https://open.spotify.com/track/1fCl4CsvGV6PqPG9Y7hGqe) | [icaro](https://open.spotify.com/artist/7KSeB7JWqSs50h47yIPzfC) | [solo un uomo](https://open.spotify.com/album/5QPVLyAN2j6g1lliuvuaz4) | 3:37 | 2026-06-11 | 2026-07-03 |
 | [SOLO UN'ORA \(feat\. Sayf, Gregory Porter\)](https://open.spotify.com/track/0YbJz7BqoBSGSLLj4NPu0d) | [Serena Brancale](https://open.spotify.com/artist/7108jelN43seqWILMvJwKi), [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB), [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [SACRO](https://open.spotify.com/album/5fjacR3hNh14bYgoAyyEIS) | 2:37 | 2026-04-09 | 2026-05-08 |
 | [Solo una volta \(feat\. Clementino\)](https://open.spotify.com/track/14VDaKumFgIBENUmj83T7v) | [Alex Britti](https://open.spotify.com/artist/2cNC9hjjdsMKLv0m2m9p1D), [Clementino](https://open.spotify.com/artist/0ba6wsfB7G2rhdHMebCdO3) | [Solo una volta \(feat\. Clementino\)](https://open.spotify.com/album/5vAFKseONaq2Meyh62eQOo) | 2:58 | 2025-06-12 | 2025-07-11 |

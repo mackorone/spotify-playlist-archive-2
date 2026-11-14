@@ -1,6 +1,6 @@
 {
   "description": "Future & melodic bass  \ud83d\udef8  featuring San Holo",
-  "num_followers": 473488,
+  "num_followers": 473476,
   "original_name": "Bass Lounge",
   "owner": {
     "name": "Spotify",
@@ -1575,6 +1575,26 @@
     {
       "added_at": "2026-10-30 04:01:25",
       "album": {
+        "name": "Darkest Days (feat. Sandra Yvette)",
+        "url": "https://open.spotify.com/album/0L9qUzPx8fbPP9IaAoUTq5"
+      },
+      "artists": [
+        {
+          "name": "FLOTE",
+          "url": "https://open.spotify.com/artist/5GlpEfsBmDxKXL5Sr3ZTMO"
+        },
+        {
+          "name": "Sandra Yvette",
+          "url": "https://open.spotify.com/artist/5oogJiIMNvcoAIiyFk3NTe"
+        }
+      ],
+      "duration_ms": 170400,
+      "name": "Darkest Days (feat. Sandra Yvette)",
+      "url": "https://open.spotify.com/track/6meFLb7oAeZEZ9FWWyTJul"
+    },
+    {
+      "added_at": "2026-10-30 04:01:25",
+      "album": {
         "name": "Wish I Knew",
         "url": "https://open.spotify.com/album/0Bes7F5BY6HDso4gwRNzjP"
       },
@@ -1623,50 +1643,6 @@
     {
       "added_at": "2026-10-30 04:01:25",
       "album": {
-        "name": "Darkest Days (feat. Sandra Yvette)",
-        "url": "https://open.spotify.com/album/0L9qUzPx8fbPP9IaAoUTq5"
-      },
-      "artists": [
-        {
-          "name": "FLOTE",
-          "url": "https://open.spotify.com/artist/5GlpEfsBmDxKXL5Sr3ZTMO"
-        },
-        {
-          "name": "Sandra Yvette",
-          "url": "https://open.spotify.com/artist/5oogJiIMNvcoAIiyFk3NTe"
-        }
-      ],
-      "duration_ms": 170400,
-      "name": "Darkest Days (feat. Sandra Yvette)",
-      "url": "https://open.spotify.com/track/6meFLb7oAeZEZ9FWWyTJul"
-    },
-    {
-      "added_at": "2026-10-30 04:01:25",
-      "album": {
-        "name": "New Home",
-        "url": "https://open.spotify.com/album/5MvTO7p2JuX9TP7xOaVRWa"
-      },
-      "artists": [
-        {
-          "name": "ARAYA",
-          "url": "https://open.spotify.com/artist/1ckTqkZpqdla9J677XAstB"
-        },
-        {
-          "name": "She Was Silver",
-          "url": "https://open.spotify.com/artist/5SdiaMr2awZyAZJsIuo7jg"
-        },
-        {
-          "name": "Jaki Nelson",
-          "url": "https://open.spotify.com/artist/7oz4dlYyj9jadcbGJq1jwx"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "New Home",
-      "url": "https://open.spotify.com/track/3uPFySAkcHJY3CxCFGNWd8"
-    },
-    {
-      "added_at": "2026-10-30 04:01:25",
-      "album": {
         "name": "Just A Mirage",
         "url": "https://open.spotify.com/album/2tx9zO7VpnCZy2mO4vbcNr"
       },
@@ -1707,6 +1683,30 @@
       "duration_ms": 196500,
       "name": "Everything (feat. Cate Downey)",
       "url": "https://open.spotify.com/track/6A7PA5sT5SpUHyt0PIekHP"
+    },
+    {
+      "added_at": "2026-10-30 04:01:25",
+      "album": {
+        "name": "New Home",
+        "url": "https://open.spotify.com/album/5MvTO7p2JuX9TP7xOaVRWa"
+      },
+      "artists": [
+        {
+          "name": "ARAYA",
+          "url": "https://open.spotify.com/artist/1ckTqkZpqdla9J677XAstB"
+        },
+        {
+          "name": "She Was Silver",
+          "url": "https://open.spotify.com/artist/5SdiaMr2awZyAZJsIuo7jg"
+        },
+        {
+          "name": "Jaki Nelson",
+          "url": "https://open.spotify.com/artist/7oz4dlYyj9jadcbGJq1jwx"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "New Home",
+      "url": "https://open.spotify.com/track/3uPFySAkcHJY3CxCFGNWd8"
     },
     {
       "added_at": "2026-10-30 04:01:25",
@@ -1799,6 +1799,26 @@
     {
       "added_at": "2026-10-30 04:01:25",
       "album": {
+        "name": "Something Bout You",
+        "url": "https://open.spotify.com/album/4vNs2UzUz5w5gB78mIlkyg"
+      },
+      "artists": [
+        {
+          "name": "LOCKBOX",
+          "url": "https://open.spotify.com/artist/4yqp9NiO7zJLy1eHzb54Ro"
+        },
+        {
+          "name": "EYLA",
+          "url": "https://open.spotify.com/artist/33psDUfH523L3oZxfpoPW1"
+        }
+      ],
+      "duration_ms": 217600,
+      "name": "Something Bout You",
+      "url": "https://open.spotify.com/track/3AL2QjShP9KzTvikzJz289"
+    },
+    {
+      "added_at": "2026-10-30 04:01:25",
+      "album": {
         "name": "Burning Out",
         "url": "https://open.spotify.com/album/1BwP4KYs256iX37FEXSoQM"
       },
@@ -1819,26 +1839,6 @@
       "duration_ms": 236400,
       "name": "Yellow Lights",
       "url": "https://open.spotify.com/track/546ZxQIwM0E9ywsAlBgc13"
-    },
-    {
-      "added_at": "2026-10-30 04:01:25",
-      "album": {
-        "name": "Something Bout You",
-        "url": "https://open.spotify.com/album/4vNs2UzUz5w5gB78mIlkyg"
-      },
-      "artists": [
-        {
-          "name": "LOCKBOX",
-          "url": "https://open.spotify.com/artist/4yqp9NiO7zJLy1eHzb54Ro"
-        },
-        {
-          "name": "EYLA",
-          "url": "https://open.spotify.com/artist/33psDUfH523L3oZxfpoPW1"
-        }
-      ],
-      "duration_ms": 217600,
-      "name": "Something Bout You",
-      "url": "https://open.spotify.com/track/3AL2QjShP9KzTvikzJz289"
     },
     {
       "added_at": "2026-10-30 04:01:25",
@@ -2071,22 +2071,6 @@
     {
       "added_at": "2026-10-30 04:01:25",
       "album": {
-        "name": "Eclipsed",
-        "url": "https://open.spotify.com/album/1ymCsnKOLmilJfTH6OsdTq"
-      },
-      "artists": [
-        {
-          "name": "HALIENE",
-          "url": "https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj"
-        }
-      ],
-      "duration_ms": 241200,
-      "name": "My Reverie",
-      "url": "https://open.spotify.com/track/5du7U0k9qvgNHBk9uX3enI"
-    },
-    {
-      "added_at": "2026-10-30 04:01:25",
-      "album": {
         "name": "Free",
         "url": "https://open.spotify.com/album/7sVd8b6lVLOWfshRtXqvTX"
       },
@@ -2135,22 +2119,18 @@
     {
       "added_at": "2026-10-30 04:01:25",
       "album": {
-        "name": "Help Me",
-        "url": "https://open.spotify.com/album/6KBUEVEIUgW9RiEzL8bNB9"
+        "name": "Eclipsed",
+        "url": "https://open.spotify.com/album/1ymCsnKOLmilJfTH6OsdTq"
       },
       "artists": [
         {
-          "name": "ARAYA",
-          "url": "https://open.spotify.com/artist/1ckTqkZpqdla9J677XAstB"
-        },
-        {
-          "name": "Fazzi",
-          "url": "https://open.spotify.com/artist/3OTNYknB5MLQThZnE8XbOI"
+          "name": "HALIENE",
+          "url": "https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj"
         }
       ],
-      "duration_ms": 195775,
-      "name": "Help Me",
-      "url": "https://open.spotify.com/track/33dJ18Itb7N0WRABXJh2bH"
+      "duration_ms": 241200,
+      "name": "My Reverie",
+      "url": "https://open.spotify.com/track/5du7U0k9qvgNHBk9uX3enI"
     },
     {
       "added_at": "2026-10-30 04:01:25",
@@ -2175,6 +2155,26 @@
       "duration_ms": 274909,
       "name": "LOST",
       "url": "https://open.spotify.com/track/2bgFEoaY6r4CqDPjllvKsl"
+    },
+    {
+      "added_at": "2026-10-30 04:01:25",
+      "album": {
+        "name": "Help Me",
+        "url": "https://open.spotify.com/album/6KBUEVEIUgW9RiEzL8bNB9"
+      },
+      "artists": [
+        {
+          "name": "ARAYA",
+          "url": "https://open.spotify.com/artist/1ckTqkZpqdla9J677XAstB"
+        },
+        {
+          "name": "Fazzi",
+          "url": "https://open.spotify.com/artist/3OTNYknB5MLQThZnE8XbOI"
+        }
+      ],
+      "duration_ms": 195775,
+      "name": "Help Me",
+      "url": "https://open.spotify.com/track/33dJ18Itb7N0WRABXJh2bH"
     },
     {
       "added_at": "2026-10-30 04:01:25",
@@ -2235,6 +2235,26 @@
     {
       "added_at": "2026-10-30 04:01:25",
       "album": {
+        "name": "Shark (ILLENIUM 2014 Remix)",
+        "url": "https://open.spotify.com/album/3YtfxpDQVIdWyjLCilq1Q1"
+      },
+      "artists": [
+        {
+          "name": "Oh Wonder",
+          "url": "https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9"
+        },
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        }
+      ],
+      "duration_ms": 307200,
+      "name": "Shark - ILLENIUM 2014 Remix",
+      "url": "https://open.spotify.com/track/4ogWtNQ8YN3NEhLzx9eqnq"
+    },
+    {
+      "added_at": "2026-10-30 04:01:25",
+      "album": {
         "name": "Miles From Home",
         "url": "https://open.spotify.com/album/4LmrGemhT0eR5LusWomTMk"
       },
@@ -2255,26 +2275,6 @@
       "duration_ms": 241548,
       "name": "Miles From Home",
       "url": "https://open.spotify.com/track/6lU6cq5kJc81K2quLJ8mtp"
-    },
-    {
-      "added_at": "2026-10-30 04:01:25",
-      "album": {
-        "name": "Shark (ILLENIUM 2014 Remix)",
-        "url": "https://open.spotify.com/album/3YtfxpDQVIdWyjLCilq1Q1"
-      },
-      "artists": [
-        {
-          "name": "Oh Wonder",
-          "url": "https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9"
-        },
-        {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
-        }
-      ],
-      "duration_ms": 307200,
-      "name": "Shark - ILLENIUM 2014 Remix",
-      "url": "https://open.spotify.com/track/4ogWtNQ8YN3NEhLzx9eqnq"
     },
     {
       "added_at": "2026-10-30 04:01:25",
@@ -2447,26 +2447,6 @@
     {
       "added_at": "2026-10-30 04:01:25",
       "album": {
-        "name": "Not Enough",
-        "url": "https://open.spotify.com/album/4EyjrQZHAoHovJOvFqn7BN"
-      },
-      "artists": [
-        {
-          "name": "Dabin",
-          "url": "https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv"
-        },
-        {
-          "name": "Stephanie Poetri",
-          "url": "https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO"
-        }
-      ],
-      "duration_ms": 206047,
-      "name": "Not Enough",
-      "url": "https://open.spotify.com/track/7q3vuEjw42Q1hdGQVqRKkx"
-    },
-    {
-      "added_at": "2026-10-30 04:01:25",
-      "album": {
         "name": "Who Am I Now",
         "url": "https://open.spotify.com/album/2POM1L7zMqtNorwBow3iAY"
       },
@@ -2483,6 +2463,26 @@
       "duration_ms": 261333,
       "name": "Who Am I Now",
       "url": "https://open.spotify.com/track/1ojE0p2PApAkCkRYaPlK5Q"
+    },
+    {
+      "added_at": "2026-10-30 04:01:25",
+      "album": {
+        "name": "Not Enough",
+        "url": "https://open.spotify.com/album/4EyjrQZHAoHovJOvFqn7BN"
+      },
+      "artists": [
+        {
+          "name": "Dabin",
+          "url": "https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv"
+        },
+        {
+          "name": "Stephanie Poetri",
+          "url": "https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO"
+        }
+      ],
+      "duration_ms": 206047,
+      "name": "Not Enough",
+      "url": "https://open.spotify.com/track/7q3vuEjw42Q1hdGQVqRKkx"
     },
     {
       "added_at": "2026-10-30 04:01:25",
@@ -2531,26 +2531,6 @@
     {
       "added_at": "2026-10-30 04:01:25",
       "album": {
-        "name": "WE OWN THE NIGHT",
-        "url": "https://open.spotify.com/album/52eS9SkKegHeE359V5x6Cu"
-      },
-      "artists": [
-        {
-          "name": "AVELLO",
-          "url": "https://open.spotify.com/artist/1ZR5GnPw0Jkb5M4hnBwzuZ"
-        },
-        {
-          "name": "Jordin Sparks",
-          "url": "https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz"
-        }
-      ],
-      "duration_ms": 202857,
-      "name": "WE OWN THE NIGHT",
-      "url": "https://open.spotify.com/track/33RvjTscrSfiRVOJyTcraq"
-    },
-    {
-      "added_at": "2026-10-30 04:01:25",
-      "album": {
         "name": "Say It To Me",
         "url": "https://open.spotify.com/album/0IW0P8EwWWs0SoYP8apyK3"
       },
@@ -2571,6 +2551,26 @@
       "duration_ms": 271298,
       "name": "Say It To Me",
       "url": "https://open.spotify.com/track/1YeNK6CZfTOjphogqF6ois"
+    },
+    {
+      "added_at": "2026-10-30 04:01:25",
+      "album": {
+        "name": "WE OWN THE NIGHT",
+        "url": "https://open.spotify.com/album/52eS9SkKegHeE359V5x6Cu"
+      },
+      "artists": [
+        {
+          "name": "AVELLO",
+          "url": "https://open.spotify.com/artist/1ZR5GnPw0Jkb5M4hnBwzuZ"
+        },
+        {
+          "name": "Jordin Sparks",
+          "url": "https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz"
+        }
+      ],
+      "duration_ms": 202857,
+      "name": "WE OWN THE NIGHT",
+      "url": "https://open.spotify.com/track/33RvjTscrSfiRVOJyTcraq"
     },
     {
       "added_at": "2026-10-30 04:01:25",
@@ -2615,26 +2615,6 @@
     {
       "added_at": "2026-10-30 04:01:25",
       "album": {
-        "name": "Are You With Me",
-        "url": "https://open.spotify.com/album/0y2BBGWLGFycNWWi69O400"
-      },
-      "artists": [
-        {
-          "name": "Said The Sky",
-          "url": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
-        },
-        {
-          "name": "Justin Jesso",
-          "url": "https://open.spotify.com/artist/1QDrz3DMMaz3TB1cm0PGDu"
-        }
-      ],
-      "duration_ms": 183066,
-      "name": "Are You With Me",
-      "url": "https://open.spotify.com/track/5AQUoPHBy8jbmg5f5jmq6t"
-    },
-    {
-      "added_at": "2026-10-30 04:01:25",
-      "album": {
         "name": "Hold Onto Me",
         "url": "https://open.spotify.com/album/4vkuDbVU5e3XZPFB2Ax873"
       },
@@ -2651,6 +2631,26 @@
       "duration_ms": 160000,
       "name": "Hold Onto Me",
       "url": "https://open.spotify.com/track/4b6wQ8l2RvL6NklH6GDN8o"
+    },
+    {
+      "added_at": "2026-10-30 04:01:25",
+      "album": {
+        "name": "Are You With Me",
+        "url": "https://open.spotify.com/album/0y2BBGWLGFycNWWi69O400"
+      },
+      "artists": [
+        {
+          "name": "Said The Sky",
+          "url": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
+        },
+        {
+          "name": "Justin Jesso",
+          "url": "https://open.spotify.com/artist/1QDrz3DMMaz3TB1cm0PGDu"
+        }
+      ],
+      "duration_ms": 183066,
+      "name": "Are You With Me",
+      "url": "https://open.spotify.com/track/5AQUoPHBy8jbmg5f5jmq6t"
     },
     {
       "added_at": "2026-10-30 04:01:25",
@@ -2775,30 +2775,6 @@
     {
       "added_at": "2026-10-30 04:01:25",
       "album": {
-        "name": "Heights",
-        "url": "https://open.spotify.com/album/46iz7c2Kbajwru4zJKbURk"
-      },
-      "artists": [
-        {
-          "name": "Amidy",
-          "url": "https://open.spotify.com/artist/685c4a84PTRlygc8EUE7tV"
-        },
-        {
-          "name": "Dead Rose",
-          "url": "https://open.spotify.com/artist/3rNr1eW0hok7zumZYUqyCM"
-        },
-        {
-          "name": "Dia Frampton",
-          "url": "https://open.spotify.com/artist/3ppkM4QtM781APpaX7H9t7"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Heights",
-      "url": "https://open.spotify.com/track/20L9STvRrBk6ywxJ7fexJO"
-    },
-    {
-      "added_at": "2026-10-30 04:01:25",
-      "album": {
         "name": "Made For",
         "url": "https://open.spotify.com/album/6YEB4gTyYiACoJsBkYCRiS"
       },
@@ -2835,6 +2811,30 @@
       "duration_ms": 222000,
       "name": "Autopilot",
       "url": "https://open.spotify.com/track/6RJ7ZHxCljiASnsGAIo6Aj"
+    },
+    {
+      "added_at": "2026-10-30 04:01:25",
+      "album": {
+        "name": "Heights",
+        "url": "https://open.spotify.com/album/46iz7c2Kbajwru4zJKbURk"
+      },
+      "artists": [
+        {
+          "name": "Amidy",
+          "url": "https://open.spotify.com/artist/685c4a84PTRlygc8EUE7tV"
+        },
+        {
+          "name": "Dead Rose",
+          "url": "https://open.spotify.com/artist/3rNr1eW0hok7zumZYUqyCM"
+        },
+        {
+          "name": "Dia Frampton",
+          "url": "https://open.spotify.com/artist/3ppkM4QtM781APpaX7H9t7"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Heights",
+      "url": "https://open.spotify.com/track/20L9STvRrBk6ywxJ7fexJO"
     },
     {
       "added_at": "2026-10-30 04:01:25",
@@ -3019,26 +3019,6 @@
     {
       "added_at": "2026-10-30 04:01:25",
       "album": {
-        "name": "Begin Again (feat. Mokita)",
-        "url": "https://open.spotify.com/album/1zDTTyqP5iEHTKTjI1kI0R"
-      },
-      "artists": [
-        {
-          "name": "Slushii",
-          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
-        },
-        {
-          "name": "Mokita",
-          "url": "https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE"
-        }
-      ],
-      "duration_ms": 218482,
-      "name": "Begin Again (feat. Mokita)",
-      "url": "https://open.spotify.com/track/4W7h2WuFuCPDXey0LclFM1"
-    },
-    {
-      "added_at": "2026-10-30 04:01:25",
-      "album": {
         "name": "Trust Fall",
         "url": "https://open.spotify.com/album/2266P3Bfcr0RykZX5IW0RW"
       },
@@ -3063,22 +3043,38 @@
     {
       "added_at": "2026-10-30 04:01:25",
       "album": {
-        "name": "COPE",
-        "url": "https://open.spotify.com/album/5ft63ve9l4E71Bxm4IKw3R"
+        "name": "Begin Again (feat. Mokita)",
+        "url": "https://open.spotify.com/album/1zDTTyqP5iEHTKTjI1kI0R"
       },
       "artists": [
         {
-          "name": "Elephante",
-          "url": "https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G"
+          "name": "Slushii",
+          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
         },
         {
-          "name": "babyidontlikeyou",
-          "url": "https://open.spotify.com/artist/0vvLUDvumHN2BRVL0ks8Uq"
+          "name": "Mokita",
+          "url": "https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE"
         }
       ],
-      "duration_ms": 218557,
-      "name": "Taste of Your Tongue",
-      "url": "https://open.spotify.com/track/2FutQIWvLmm9BG55Hmr4cR"
+      "duration_ms": 218482,
+      "name": "Begin Again (feat. Mokita)",
+      "url": "https://open.spotify.com/track/4W7h2WuFuCPDXey0LclFM1"
+    },
+    {
+      "added_at": "2026-10-30 04:01:25",
+      "album": {
+        "name": "Always You",
+        "url": "https://open.spotify.com/album/0eNJ0Tga1dRDWuq1W8hiZx"
+      },
+      "artists": [
+        {
+          "name": "Monika Santucci",
+          "url": "https://open.spotify.com/artist/5E1FAGKopxyWqEREQblCDA"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "Always You",
+      "url": "https://open.spotify.com/track/4iQbxMbipWaFiATBZOwH0H"
     },
     {
       "added_at": "2026-10-30 04:01:25",
@@ -3107,18 +3103,22 @@
     {
       "added_at": "2026-10-30 04:01:25",
       "album": {
-        "name": "Always You",
-        "url": "https://open.spotify.com/album/0eNJ0Tga1dRDWuq1W8hiZx"
+        "name": "COPE",
+        "url": "https://open.spotify.com/album/5ft63ve9l4E71Bxm4IKw3R"
       },
       "artists": [
         {
-          "name": "Monika Santucci",
-          "url": "https://open.spotify.com/artist/5E1FAGKopxyWqEREQblCDA"
+          "name": "Elephante",
+          "url": "https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G"
+        },
+        {
+          "name": "babyidontlikeyou",
+          "url": "https://open.spotify.com/artist/0vvLUDvumHN2BRVL0ks8Uq"
         }
       ],
-      "duration_ms": 211200,
-      "name": "Always You",
-      "url": "https://open.spotify.com/track/4iQbxMbipWaFiATBZOwH0H"
+      "duration_ms": 218557,
+      "name": "Taste of Your Tongue",
+      "url": "https://open.spotify.com/track/2FutQIWvLmm9BG55Hmr4cR"
     },
     {
       "added_at": "2026-10-30 04:01:25",

@@ -2,9 +2,9 @@
 
 ### [Acoustic Soul](https://open.spotify.com/playlist/37i9dQZF1DX5lDysu4GbKR)
 
-> Stripped back vibes\. Cover:  Alex Isley
+> Stripped back vibes\. Cover:  EJ Ross
 
-324 songs - 18 hr 44 min
+325 songs - 18 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -281,6 +281,7 @@
 | [SULA \(Paperback\)](https://open.spotify.com/track/1RwK5al4DKxgHQ234mKbwB) | [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [SULA \(Paperback\)](https://open.spotify.com/album/54gPc2awVOFQyZjJi6dB3s) | 4:15 | 2022-06-16 | 2023-07-09 |
 | [SULA \(Paperback\)](https://open.spotify.com/track/1vTfSWBXwH0Aih8vpTu0xi) | [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [SULA \(Paperback\)](https://open.spotify.com/album/01JhAnnK43SleFCNaVeJXK) | 4:15 | 2021-12-09 | 2022-07-29 |
 | [SULA \(Paperback\)](https://open.spotify.com/track/26kFP6TwarrLpmXO86PH5k) | [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [SULA](https://open.spotify.com/album/1u6YYtjNLMP87kjDH33V3K) | 4:15 | 2022-11-03 | 2023-11-10 |
+| [SUNRISE & SUNSETS](https://open.spotify.com/track/6J5p839wuK7HVilHTmbpMO) | [EJ Ross](https://open.spotify.com/artist/3yZJfp37SK7V6yHh3oAGoB) | [SUNRISE & SUNSETS](https://open.spotify.com/album/4C2CtLMLk3x2KCTzY7b9by) | 3:14 | 2026-11-13 |  |
 | [Talk In The Morning \- Acoustic](https://open.spotify.com/track/4E9xdYBKevFHZVfX91w3tP) | [Sam Wills](https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo) | [Talk In The Morning \(Acoustic\)](https://open.spotify.com/album/1ZboNHs3k8AGSjAOgCNYLC) | 3:24 | 2021-12-09 | 2023-11-10 |
 | [Tangled \- Stripped](https://open.spotify.com/track/0ryUcnLIcccWlNZlxaL7wV) | [John Splithoff](https://open.spotify.com/artist/7A2x4Urpc4VKF1pb7qnNqD) | [Tangled \(Stripped\)](https://open.spotify.com/album/6UqaMkDSEbEFObUpxDsrPp) | 2:52 | 2025-12-12 |  |
 | [Thank You For A Lovely Time \- Raphael Saadiq Version](https://open.spotify.com/track/29XwzOrnfKvIPjr22T1slO) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [Thank You For A Lovely Time \(Raphael Saadiq Version\)](https://open.spotify.com/album/5YuVvhYV5JfP3ThFLSnHeH) | 3:55 | 2025-08-01 |  |

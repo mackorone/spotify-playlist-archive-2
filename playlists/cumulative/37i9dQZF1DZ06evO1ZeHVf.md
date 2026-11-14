@@ -4,7 +4,7 @@
 
 > This is CeCe Winans\. The essential tracks, all in one playlist.
 
-120 songs - 9 hr 22 min
+121 songs - 9 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Oh The Blood Of Jesus](https://open.spotify.com/track/13FlWWsk7VyhZVG33D2rT4) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [More Than This](https://open.spotify.com/album/2lsb6BmwfbVswn64kaLgcy) | 1:23 | 2024-07-06 | 2025-04-13 |
 | [Oh The Blood Of Jesus](https://open.spotify.com/track/6omRhMoKDTQT0o2NOg0M8V) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [More Than This](https://open.spotify.com/album/0zvZ25UkgLXQDZLQDxpwPw) | 1:23 | 2024-05-01 | 2025-04-18 |
 | [Peace From God](https://open.spotify.com/track/6ZLthgSfzHPRIIVhkMeIhW) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Let Them Fall In Love](https://open.spotify.com/album/6QGnENkJFVu2QBRCCdKpcz) | 3:46 | 2025-04-10 | 2025-06-26 |
+| [Peace On Earth](https://open.spotify.com/track/5GQ2cYa2yV3BRcTIX4opGl) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu), [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Peace On Earth](https://open.spotify.com/album/4EI2Y6wMp73xLk1JH9VIuV) | 4:36 | 2026-11-14 |  |
 | [Pray](https://open.spotify.com/track/0gbglUQi9q4cQmaNu8N3t9) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Purified](https://open.spotify.com/album/6FfAauX1EP2zHgPoOnwWZ8) | 3:30 | 2024-05-19 |  |
 | [Pray](https://open.spotify.com/track/0Q04tlIgmRYHgvKNceIsAn) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [For Always: The Best Of CeCe Winans](https://open.spotify.com/album/5iQZGEROiqR4wlhHhCC6hv) | 3:31 | 2022-09-14 | 2024-05-14 |
 | [Sanctuary](https://open.spotify.com/track/0DmZniSKzuFKN9Qn3eFaMJ) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [More Than This](https://open.spotify.com/album/2lsb6BmwfbVswn64kaLgcy) | 1:19 | 2024-06-09 | 2026-09-28 |
@@ -113,7 +114,7 @@
 | [Too Late To Lose](https://open.spotify.com/track/7tsiPgtkCIGXCXkdxml7OH) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [More Than This](https://open.spotify.com/album/0zvZ25UkgLXQDZLQDxpwPw) | 6:33 | 2024-05-10 | 2024-05-27 |
 | [Waging War](https://open.spotify.com/track/1TKNkFNRWL5YcefJeIkfKz) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Thy Kingdom Come](https://open.spotify.com/album/4wmO83yKXBEaAKME5PGOaF) | 5:20 | 2022-09-14 |  |
 | [We Pray](https://open.spotify.com/track/1pEOwIwQP3GoONiFfpCoSS) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [More Than This \(Deluxe Edition\)](https://open.spotify.com/album/0RuwuHO9xhkquxXhG5HXpM) | 6:02 | 2026-04-26 | 2026-05-24 |
-| [We Pray](https://open.spotify.com/track/2sy5wBrwnEDlOyYgL8SdTm) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [More Than This \(Deluxe Edition\)](https://open.spotify.com/album/69WCyVxbWHRWxWcTZmDhlP) | 6:02 | 2026-05-24 |  |
+| [We Pray](https://open.spotify.com/track/2sy5wBrwnEDlOyYgL8SdTm) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [More Than This \(Deluxe Edition\)](https://open.spotify.com/album/69WCyVxbWHRWxWcTZmDhlP) | 6:02 | 2026-05-24 | 2026-11-14 |
 | [We Welcome You \(Holy Father\)](https://open.spotify.com/track/5ZbYTCik99Yqk2CZRI6Xqk) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Thy Kingdom Come](https://open.spotify.com/album/4wmO83yKXBEaAKME5PGOaF) | 4:57 | 2022-09-14 | 2025-08-24 |
 | [Well, Alright](https://open.spotify.com/track/22zZfNtNFd46tAAC4rsyRa) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Everlasting Love](https://open.spotify.com/album/3MHub5tyWVwztqFLoKQWjd) | 4:18 | 2022-09-14 | 2023-12-18 |
 | [What A Friend We Have In Jesus](https://open.spotify.com/track/0Fq81TTff8DwKcN5dkeGTe) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [What A Friend We Have In Jesus](https://open.spotify.com/album/7mXZKbbunvodWaMIEsFNsP) | 3:30 | 2026-06-05 | 2026-06-12 |

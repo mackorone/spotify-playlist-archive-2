@@ -6,8 +6,212 @@
     "name": "dreamscape",
     "url": "https://open.spotify.com/user/9rn7brfa1vc5yomz3r115w8kf"
   },
-  "snapshot_id": "AAACtp/sfcUFIxoehpRBRnYEM4mJM23F",
+  "snapshot_id": "AAACtx6iXcfZoGRNvNdlSYUOiU+/BOnE",
   "tracks": [
+    {
+      "added_at": "2026-11-14 00:44:42",
+      "album": {
+        "name": "reflections of the past",
+        "url": "https://open.spotify.com/album/0U2Fp4pSeNcckyAkLgCO38"
+      },
+      "artists": [
+        {
+          "name": "still surface",
+          "url": "https://open.spotify.com/artist/2uRI6ZNZLsmNnc7qRoyOcs"
+        },
+        {
+          "name": "hir\u00e6th",
+          "url": "https://open.spotify.com/artist/3eeveX1dMtylueBGenVFDf"
+        }
+      ],
+      "duration_ms": 177230,
+      "name": "never give up",
+      "url": "https://open.spotify.com/track/2Hq8NN1yvbPjxvILbqck3a"
+    },
+    {
+      "added_at": "2026-11-14 00:44:42",
+      "album": {
+        "name": "sentiment",
+        "url": "https://open.spotify.com/album/0gmHtHnc5Iqmz4cMYGRimT"
+      },
+      "artists": [
+        {
+          "name": "wairua",
+          "url": "https://open.spotify.com/artist/7x0lIBdNsjGYpP372dTIhq"
+        },
+        {
+          "name": "\u00e9nouement",
+          "url": "https://open.spotify.com/artist/4Si65uDCzmOuXSLocLHiaU"
+        }
+      ],
+      "duration_ms": 86616,
+      "name": "sentiment",
+      "url": "https://open.spotify.com/track/4SmBbw9RDoiKkGbGnYwh1b"
+    },
+    {
+      "added_at": "2026-11-14 00:44:42",
+      "album": {
+        "name": "reflections of the past",
+        "url": "https://open.spotify.com/album/0U2Fp4pSeNcckyAkLgCO38"
+      },
+      "artists": [
+        {
+          "name": "still surface",
+          "url": "https://open.spotify.com/artist/2uRI6ZNZLsmNnc7qRoyOcs"
+        },
+        {
+          "name": "hir\u00e6th",
+          "url": "https://open.spotify.com/artist/3eeveX1dMtylueBGenVFDf"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "space between",
+      "url": "https://open.spotify.com/track/0LrdASigQ21djfrA5ReMOg"
+    },
+    {
+      "added_at": "2026-11-14 00:44:42",
+      "album": {
+        "name": "cycles",
+        "url": "https://open.spotify.com/album/1GP3WFSskoifnXJIRymQtn"
+      },
+      "artists": [
+        {
+          "name": "remind me",
+          "url": "https://open.spotify.com/artist/60xAlF5GiiiIY7uvQL9NxI"
+        }
+      ],
+      "duration_ms": 118611,
+      "name": "cycles",
+      "url": "https://open.spotify.com/track/7pfAhhNbQD8EeZTKe0UlDQ"
+    },
+    {
+      "added_at": "2026-11-14 00:44:42",
+      "album": {
+        "name": "reflections of the past",
+        "url": "https://open.spotify.com/album/0U2Fp4pSeNcckyAkLgCO38"
+      },
+      "artists": [
+        {
+          "name": "still surface",
+          "url": "https://open.spotify.com/artist/2uRI6ZNZLsmNnc7qRoyOcs"
+        },
+        {
+          "name": "hir\u00e6th",
+          "url": "https://open.spotify.com/artist/3eeveX1dMtylueBGenVFDf"
+        }
+      ],
+      "duration_ms": 125538,
+      "name": "rebirth",
+      "url": "https://open.spotify.com/track/5LZ13lwxZEj0TfTlW5I4Th"
+    },
+    {
+      "added_at": "2026-11-14 00:44:42",
+      "album": {
+        "name": "until next time",
+        "url": "https://open.spotify.com/album/0RG9A4QG9aUf2AqECEC5EI"
+      },
+      "artists": [
+        {
+          "name": "am i enough?",
+          "url": "https://open.spotify.com/artist/3M0I86wB1L5uM8YW2T6gHz"
+        },
+        {
+          "name": "nohssiwi",
+          "url": "https://open.spotify.com/artist/4CVCzMtPgCV07un7s3Ehbt"
+        }
+      ],
+      "duration_ms": 132187,
+      "name": "until next time",
+      "url": "https://open.spotify.com/track/2HFRD9owd4d18aq0evWsMl"
+    },
+    {
+      "added_at": "2026-11-14 00:44:42",
+      "album": {
+        "name": "reflections of the past",
+        "url": "https://open.spotify.com/album/0U2Fp4pSeNcckyAkLgCO38"
+      },
+      "artists": [
+        {
+          "name": "still surface",
+          "url": "https://open.spotify.com/artist/2uRI6ZNZLsmNnc7qRoyOcs"
+        },
+        {
+          "name": "hir\u00e6th",
+          "url": "https://open.spotify.com/artist/3eeveX1dMtylueBGenVFDf"
+        }
+      ],
+      "duration_ms": 165818,
+      "name": "passing by strangers",
+      "url": "https://open.spotify.com/track/4PxUiqaATNk2EK3fvZ5k3e"
+    },
+    {
+      "added_at": "2026-11-14 00:44:42",
+      "album": {
+        "name": "nothing stays forever",
+        "url": "https://open.spotify.com/album/0eDKioFfABJYZZVZOB6uUj"
+      },
+      "artists": [
+        {
+          "name": "Ambersive",
+          "url": "https://open.spotify.com/artist/4Y1GrnXpMPgEfGqEBiW9NP"
+        }
+      ],
+      "duration_ms": 102927,
+      "name": "nothing stays forever",
+      "url": "https://open.spotify.com/track/15z2Bv3pw7lnOb8UuYQoCC"
+    },
+    {
+      "added_at": "2026-11-14 00:44:42",
+      "album": {
+        "name": "reflections of the past",
+        "url": "https://open.spotify.com/album/0U2Fp4pSeNcckyAkLgCO38"
+      },
+      "artists": [
+        {
+          "name": "still surface",
+          "url": "https://open.spotify.com/artist/2uRI6ZNZLsmNnc7qRoyOcs"
+        },
+        {
+          "name": "hir\u00e6th",
+          "url": "https://open.spotify.com/artist/3eeveX1dMtylueBGenVFDf"
+        }
+      ],
+      "duration_ms": 123870,
+      "name": "reflections of the past",
+      "url": "https://open.spotify.com/track/6S4c00MiVahvMFIvLMAEFX"
+    },
+    {
+      "added_at": "2026-11-14 00:44:42",
+      "album": {
+        "name": "Mistframe",
+        "url": "https://open.spotify.com/album/2qDq1XzfLyazcynOpEOuW9"
+      },
+      "artists": [
+        {
+          "name": "HidaSane",
+          "url": "https://open.spotify.com/artist/7rrv1XykNxX9VXnetOVKhv"
+        }
+      ],
+      "duration_ms": 98732,
+      "name": "Mistframe",
+      "url": "https://open.spotify.com/track/5DfvHIuvtGXCE9CemYfkol"
+    },
+    {
+      "added_at": "2026-11-14 00:44:42",
+      "album": {
+        "name": "behid the dreams",
+        "url": "https://open.spotify.com/album/2GQWM55ocpG5GcbTUX9uqa"
+      },
+      "artists": [
+        {
+          "name": "final.realism",
+          "url": "https://open.spotify.com/artist/4ntXfbgjG0xilO6ZiD3Phw"
+        }
+      ],
+      "duration_ms": 76923,
+      "name": "behid the dreams",
+      "url": "https://open.spotify.com/track/5ym39G6gGzyDmg6dolVilX"
+    },
     {
       "added_at": "2026-11-07 09:54:37",
       "album": {

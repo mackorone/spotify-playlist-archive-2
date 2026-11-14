@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avOwAAAAAAAAyWBER65RqRkyPYiXhvTb",
+  "snapshot_id": "avUBgAAAAABRv2q00PR3ekZuVRdGKL/c",
   "tracks": [
     {
       "added_at": null,
@@ -67,6 +67,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "Solo para entendidos",
+        "url": "https://open.spotify.com/album/7LxnCL5EHjTSXLjXnIk5GA"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        },
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        },
+        {
+          "name": "Masta Ace",
+          "url": "https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv"
+        }
+      ],
+      "duration_ms": 203000,
+      "name": "Feliz",
+      "url": "https://open.spotify.com/track/6F96Id5jfazR47isaGh1OK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Port Authority: Instrumentals",
+        "url": "https://open.spotify.com/album/1lcRcpO52ZmsfWhtn6USOx"
+      },
+      "artists": [
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        }
+      ],
+      "duration_ms": 241837,
+      "name": "Relax",
+      "url": "https://open.spotify.com/track/5e8wwhtHBs0WXmZTgRl4ub"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A-F-R-O Polo",
         "url": "https://open.spotify.com/album/31UBDei39FVTvh7rug1IO9"
       },
@@ -91,46 +131,6 @@
       "duration_ms": 158434,
       "name": "Long Time Coming",
       "url": "https://open.spotify.com/track/5PUmy6K4uXcr2F3Xu0lp83"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Port Authority: Instrumentals",
-        "url": "https://open.spotify.com/album/1lcRcpO52ZmsfWhtn6USOx"
-      },
-      "artists": [
-        {
-          "name": "Marco Polo",
-          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
-        }
-      ],
-      "duration_ms": 241837,
-      "name": "Relax",
-      "url": "https://open.spotify.com/track/5e8wwhtHBs0WXmZTgRl4ub"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Solo para entendidos",
-        "url": "https://open.spotify.com/album/7LxnCL5EHjTSXLjXnIk5GA"
-      },
-      "artists": [
-        {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        },
-        {
-          "name": "Marco Polo",
-          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
-        },
-        {
-          "name": "Masta Ace",
-          "url": "https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv"
-        }
-      ],
-      "duration_ms": 203000,
-      "name": "Feliz",
-      "url": "https://open.spotify.com/track/6F96Id5jfazR47isaGh1OK"
     },
     {
       "added_at": null,
@@ -380,7 +380,7 @@
       "added_at": null,
       "album": {
         "name": "A Breukelen Story",
-        "url": "https://open.spotify.com/album/4U2DYS7b5eNmrISIHHEpSi"
+        "url": "https://open.spotify.com/album/2Zk2KeX758fBtnRD5Of5i2"
       },
       "artists": [
         {
@@ -392,17 +392,13 @@
           "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
         },
         {
-          "name": "DJ Premier",
-          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
-        },
-        {
-          "name": "Evidence",
-          "url": "https://open.spotify.com/artist/6VfeYClQyVUCPJdXb9jl3O"
+          "name": "Trini Boy",
+          "url": "https://open.spotify.com/artist/3W1Kpy9jPz9QRKN9ECtVab"
         }
       ],
-      "duration_ms": 227498,
-      "name": "E.A.T.",
-      "url": "https://open.spotify.com/track/192y0RyLZC7BcFtgtUgKnJ"
+      "duration_ms": 186728,
+      "name": "God Bodies",
+      "url": "https://open.spotify.com/track/0YcHwGKYzGBflnUi7ZQi6O"
     },
     {
       "added_at": null,
@@ -476,7 +472,7 @@
       "added_at": null,
       "album": {
         "name": "A Breukelen Story",
-        "url": "https://open.spotify.com/album/2Zk2KeX758fBtnRD5Of5i2"
+        "url": "https://open.spotify.com/album/4U2DYS7b5eNmrISIHHEpSi"
       },
       "artists": [
         {
@@ -488,13 +484,17 @@
           "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
         },
         {
-          "name": "Trini Boy",
-          "url": "https://open.spotify.com/artist/3W1Kpy9jPz9QRKN9ECtVab"
+          "name": "DJ Premier",
+          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
+        },
+        {
+          "name": "Evidence",
+          "url": "https://open.spotify.com/artist/6VfeYClQyVUCPJdXb9jl3O"
         }
       ],
-      "duration_ms": 186728,
-      "name": "God Bodies",
-      "url": "https://open.spotify.com/track/0YcHwGKYzGBflnUi7ZQi6O"
+      "duration_ms": 227498,
+      "name": "E.A.T.",
+      "url": "https://open.spotify.com/track/192y0RyLZC7BcFtgtUgKnJ"
     },
     {
       "added_at": null,
@@ -711,6 +711,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "A-F-R-O Polo",
+        "url": "https://open.spotify.com/album/31UBDei39FVTvh7rug1IO9"
+      },
+      "artists": [
+        {
+          "name": "A-F-R-O",
+          "url": "https://open.spotify.com/artist/1zxOrBQ8znO6qNSdVXNYJY"
+        },
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        }
+      ],
+      "duration_ms": 184083,
+      "name": "Sunshine and Flowers",
+      "url": "https://open.spotify.com/track/66S6z2ipM0PwKtYtx9DjGR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Port Authority: Instrumentals",
         "url": "https://open.spotify.com/album/1lcRcpO52ZmsfWhtn6USOx"
       },
@@ -751,26 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A-F-R-O Polo",
-        "url": "https://open.spotify.com/album/31UBDei39FVTvh7rug1IO9"
-      },
-      "artists": [
-        {
-          "name": "A-F-R-O",
-          "url": "https://open.spotify.com/artist/1zxOrBQ8znO6qNSdVXNYJY"
-        },
-        {
-          "name": "Marco Polo",
-          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
-        }
-      ],
-      "duration_ms": 184083,
-      "name": "Sunshine and Flowers",
-      "url": "https://open.spotify.com/track/66S6z2ipM0PwKtYtx9DjGR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Richmond Hill (Instrumentals)",
         "url": "https://open.spotify.com/album/3uLKCsb0ArKgZU0gNR5LvZ"
       },
@@ -791,26 +791,6 @@
       "duration_ms": 194579,
       "name": "Money Problems - Instrumental",
       "url": "https://open.spotify.com/track/0PktrDnxjrrtXH9RKUyqmK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Port Authority",
-        "url": "https://open.spotify.com/album/2XQ6iUt1Guqgyqg9hNfJzc"
-      },
-      "artists": [
-        {
-          "name": "Marco Polo",
-          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
-        },
-        {
-          "name": "Kardinal Offishall",
-          "url": "https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA"
-        }
-      ],
-      "duration_ms": 236626,
-      "name": "War",
-      "url": "https://open.spotify.com/track/6V6M93Ape70kdvUl28xGW1"
     },
     {
       "added_at": null,
@@ -855,6 +835,26 @@
       "duration_ms": 180506,
       "name": "Danger",
       "url": "https://open.spotify.com/track/7lRvPKj9HX2vyiolG2uP48"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Port Authority",
+        "url": "https://open.spotify.com/album/2XQ6iUt1Guqgyqg9hNfJzc"
+      },
+      "artists": [
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        },
+        {
+          "name": "Kardinal Offishall",
+          "url": "https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA"
+        }
+      ],
+      "duration_ms": 236626,
+      "name": "War",
+      "url": "https://open.spotify.com/track/6V6M93Ape70kdvUl28xGW1"
     },
     {
       "added_at": null,
@@ -927,6 +927,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Double Barrel",
+        "url": "https://open.spotify.com/album/7uXm1HHw3rQZMCoGQadLSY"
+      },
+      "artists": [
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        },
+        {
+          "name": "Torae",
+          "url": "https://open.spotify.com/artist/5RraBpQrZzJaNk22LfTBi0"
+        },
+        {
+          "name": "Sean Price",
+          "url": "https://open.spotify.com/artist/2x6jz70u3sZq75tW10akUW"
+        },
+        {
+          "name": "Masta Ace",
+          "url": "https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv"
+        }
+      ],
+      "duration_ms": 187800,
+      "name": "Hold Up",
+      "url": "https://open.spotify.com/track/31OZegULDzG3uE33Nl8iSw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Port Authority",
         "url": "https://open.spotify.com/album/2XQ6iUt1Guqgyqg9hNfJzc"
       },
@@ -963,34 +991,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Double Barrel",
-        "url": "https://open.spotify.com/album/7uXm1HHw3rQZMCoGQadLSY"
-      },
-      "artists": [
-        {
-          "name": "Marco Polo",
-          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
-        },
-        {
-          "name": "Torae",
-          "url": "https://open.spotify.com/artist/5RraBpQrZzJaNk22LfTBi0"
-        },
-        {
-          "name": "Sean Price",
-          "url": "https://open.spotify.com/artist/2x6jz70u3sZq75tW10akUW"
-        },
-        {
-          "name": "Masta Ace",
-          "url": "https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv"
-        }
-      ],
-      "duration_ms": 187800,
-      "name": "Hold Up",
-      "url": "https://open.spotify.com/track/31OZegULDzG3uE33Nl8iSw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kartagina",
         "url": "https://open.spotify.com/album/4wIe5GXBI0sYcraJCbckdz"
       },
@@ -1007,26 +1007,6 @@
       "duration_ms": 150786,
       "name": "What Is The Question",
       "url": "https://open.spotify.com/track/4aBGO8mF1pJhdmzvy7S7ro"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Midnight Run",
-        "url": "https://open.spotify.com/album/3MOyKYta76y1tLWEzxszcK"
-      },
-      "artists": [
-        {
-          "name": "Torae",
-          "url": "https://open.spotify.com/artist/5RraBpQrZzJaNk22LfTBi0"
-        },
-        {
-          "name": "Marco Polo",
-          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
-        }
-      ],
-      "duration_ms": 162951,
-      "name": "Makin' Up",
-      "url": "https://open.spotify.com/track/2WUUwYV7SmKgFXgKlgGPYJ"
     },
     {
       "added_at": null,
@@ -1079,6 +1059,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "A-F-R-O Polo",
+        "url": "https://open.spotify.com/album/31UBDei39FVTvh7rug1IO9"
+      },
+      "artists": [
+        {
+          "name": "A-F-R-O",
+          "url": "https://open.spotify.com/artist/1zxOrBQ8znO6qNSdVXNYJY"
+        },
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        }
+      ],
+      "duration_ms": 102000,
+      "name": "Keep It Moving - Sprite Anthem",
+      "url": "https://open.spotify.com/track/4f6MpUEFDQL3zteExKKDx1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Kartagina",
         "url": "https://open.spotify.com/album/4wIe5GXBI0sYcraJCbckdz"
       },
@@ -1099,22 +1099,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "A-F-R-O Polo",
-        "url": "https://open.spotify.com/album/31UBDei39FVTvh7rug1IO9"
+        "name": "Midnight Run",
+        "url": "https://open.spotify.com/album/3MOyKYta76y1tLWEzxszcK"
       },
       "artists": [
         {
-          "name": "A-F-R-O",
-          "url": "https://open.spotify.com/artist/1zxOrBQ8znO6qNSdVXNYJY"
+          "name": "Torae",
+          "url": "https://open.spotify.com/artist/5RraBpQrZzJaNk22LfTBi0"
         },
         {
           "name": "Marco Polo",
           "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
         }
       ],
-      "duration_ms": 102000,
-      "name": "Keep It Moving - Sprite Anthem",
-      "url": "https://open.spotify.com/track/4f6MpUEFDQL3zteExKKDx1"
+      "duration_ms": 162951,
+      "name": "Makin' Up",
+      "url": "https://open.spotify.com/track/2WUUwYV7SmKgFXgKlgGPYJ"
     },
     {
       "added_at": null,

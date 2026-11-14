@@ -1,12 +1,12 @@
 {
   "description": "This is Siouxsie and the Banshees. The essential tracks, all in one playlist.",
-  "num_followers": 52230,
+  "num_followers": 52239,
   "original_name": "This Is Siouxsie and the Banshees",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avOwAAAAAAAUA9eCeW8A8MUyCWHLnieC",
+  "snapshot_id": "avUBgAAAAACnZ4/yF5ulZ8sPK/6NELdI",
   "tracks": [
     {
       "added_at": null,
@@ -539,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Scream",
-        "url": "https://open.spotify.com/album/3uMr78kOScjc6eLHMYcVl4"
+        "name": "Join Hands",
+        "url": "https://open.spotify.com/album/4FnKGH6piIJse7MUiYtQfj"
       },
       "artists": [
         {
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
         }
       ],
-      "duration_ms": 170973,
-      "name": "Mirage",
-      "url": "https://open.spotify.com/track/48dL6SIUIqTS4XIUYIQBSI"
+      "duration_ms": 154066,
+      "name": "Love In A Void",
+      "url": "https://open.spotify.com/track/3iDWWZIkshPqItx3wBCiFf"
     },
     {
       "added_at": null,
@@ -571,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Join Hands",
-        "url": "https://open.spotify.com/album/4FnKGH6piIJse7MUiYtQfj"
+        "name": "The Scream",
+        "url": "https://open.spotify.com/album/3uMr78kOScjc6eLHMYcVl4"
       },
       "artists": [
         {
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
         }
       ],
-      "duration_ms": 154066,
-      "name": "Love In A Void",
-      "url": "https://open.spotify.com/track/3iDWWZIkshPqItx3wBCiFf"
+      "duration_ms": 170973,
+      "name": "Mirage",
+      "url": "https://open.spotify.com/track/48dL6SIUIqTS4XIUYIQBSI"
     },
     {
       "added_at": null,

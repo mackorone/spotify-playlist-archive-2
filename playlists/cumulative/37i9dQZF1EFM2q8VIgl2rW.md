@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4sOuCZZM60YHkWWZVqZPXn">Robert Lopez</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-223 songs - 10 hr 10 min
+224 songs - 10 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Do Not Pass Go](https://open.spotify.com/track/1a9TzgabcobLdQfFVK9LxE) | [Christophe Beck](https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw), [Michael Paraskevas](https://open.spotify.com/artist/4fIXHW5d4kdlUQq5NWqi84) | [Agatha All Along: Vol\. 2 \(Episodes 6\-9\) \[Original Soundtrack\]](https://open.spotify.com/album/4CTFlBZWLxB4qjG0RTAbTQ) | 1:51 | 2024-11-08 |  |
 | [Do You Want to Build a Snowman? \- From "Frozen"/Soundtrack Version](https://open.spotify.com/track/2yi7HZrBOC4bMUSTcs4VK6) | [Kristen Bell](https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI), [Agatha Lee Monn](https://open.spotify.com/artist/6kHu5ICQRBZdsAHjAjQlmp), [Katie Lopez](https://open.spotify.com/artist/5Kkhk21siwbW3BfZUwpykJ) | [Frozen \(Original Motion Picture Soundtrack / Deluxe Edition\)](https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0) | 3:26 | 2024-07-26 | 2024-11-21 |
 | [Do You Want to Build a Snowman? \- From "Frozen"/Soundtrack Version](https://open.spotify.com/track/7gllW0vIqYgo4ubmRmrhZS) | [Kristen Bell](https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI), [Agatha Lee Monn](https://open.spotify.com/artist/6kHu5ICQRBZdsAHjAjQlmp), [Katie Lopez](https://open.spotify.com/artist/5Kkhk21siwbW3BfZUwpykJ) | [Disney Christmas](https://open.spotify.com/album/0ufkrp1opwOH6K1Pj0EOM1) | 3:28 | 2024-11-20 |  |
+| [Don't Kill the World](https://open.spotify.com/track/0FkcelMv7ldTbfzTWuaEZC) | [Jonathan Coulton](https://open.spotify.com/artist/292sg99iIOc93zcd30r4Oz) | [VisionQuest \- Vol\. 2 \(Episodes 5\-8\) \[Original Soundtrack\]](https://open.spotify.com/album/3FKEvswLO5qN3jU0EY2ikv) | 2:13 | 2026-11-13 |  |
 | [Dory and Marlin \- Spoken Word Version](https://open.spotify.com/track/3Il1kKnsOInlcnBC3We8wl) | [Marlin](https://open.spotify.com/artist/3bNuWq0M8RfS3YzVOWcgWY), [Dory](https://open.spotify.com/artist/1IQVpBd8xRLcprKrByAgHN) | [Finding Nemo: The Musical](https://open.spotify.com/album/6Jlc1ESl3gRnF4u4M7OKVC) | 0:25 | 2024-07-26 |  |
 | [Dory's Ditty \- Soundtrack](https://open.spotify.com/track/2YwNmYeg9SD85oQd75orYE) | [Marlin](https://open.spotify.com/artist/3bNuWq0M8RfS3YzVOWcgWY), [Dory](https://open.spotify.com/artist/1IQVpBd8xRLcprKrByAgHN) | [Finding Nemo: The Musical](https://open.spotify.com/album/6Jlc1ESl3gRnF4u4M7OKVC) | 0:55 | 2024-07-26 |  |
 | [Duistere Zee](https://open.spotify.com/track/6X04J2glZyqvLE7jq3Ptzw) | [Christophe Beck](https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw) | [Frozen 2 \(Originele Nederlandstalige Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/3kL8E8BhaivWmyOjnms0gl) | 2:47 | 2024-07-26 | 2025-01-19 |

@@ -1,12 +1,12 @@
 {
   "description": "This is N.I.N.A. The essential tracks, all in one playlist.",
-  "num_followers": 3705,
+  "num_followers": 3707,
   "original_name": "This Is N.I.N.A",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avOwAAAAAABUtWpA+QR0B3z9711E3xgg",
+  "snapshot_id": "avUBgAAAAABMimpwu6zLcva3q7BXd3gf",
   "tracks": [
     {
       "added_at": null,
@@ -223,30 +223,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PELE",
-        "url": "https://open.spotify.com/album/1m0uPOECD4L4XIF127wXfh"
-      },
-      "artists": [
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "Zarashi",
-          "url": "https://open.spotify.com/artist/3lCUTSwNW2iz8tFRnKLsYE"
-        },
-        {
-          "name": "Terra",
-          "url": "https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW"
-        }
-      ],
-      "duration_ms": 246875,
-      "name": "Oi, Sumido",
-      "url": "https://open.spotify.com/track/05qGBQeKLqssKzG99PhZah"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Duas Vezes",
         "url": "https://open.spotify.com/album/65zrJvV4qdmXSr18NeIEJ3"
       },
@@ -271,6 +247,30 @@
       "duration_ms": 160784,
       "name": "Duas Vezes",
       "url": "https://open.spotify.com/track/29jtks0Ub0Ngt5K9WuF8uz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PELE",
+        "url": "https://open.spotify.com/album/1m0uPOECD4L4XIF127wXfh"
+      },
+      "artists": [
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "Zarashi",
+          "url": "https://open.spotify.com/artist/3lCUTSwNW2iz8tFRnKLsYE"
+        },
+        {
+          "name": "Terra",
+          "url": "https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW"
+        }
+      ],
+      "duration_ms": 246875,
+      "name": "Oi, Sumido",
+      "url": "https://open.spotify.com/track/05qGBQeKLqssKzG99PhZah"
     },
     {
       "added_at": null,
@@ -451,22 +451,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Estrela",
-        "url": "https://open.spotify.com/album/7rqbuDl2LJx0ebJUWDKjsJ"
+        "name": "Bom Mesmo \u00e9 Estar Debaixo D'\u00c1gua Deluxe",
+        "url": "https://open.spotify.com/album/1ygSTGeglAKt0UwfnZhfdm"
       },
       "artists": [
         {
-          "name": "UANA",
-          "url": "https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO"
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
         },
         {
           "name": "N.I.N.A",
           "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
         }
       ],
-      "duration_ms": 244000,
-      "name": "Coisa de Acender",
-      "url": "https://open.spotify.com/track/6uwu2ccApOhVVCSSIRl3rq"
+      "duration_ms": 301182,
+      "name": "Met\u00e1fora",
+      "url": "https://open.spotify.com/track/3ROiMsqkU7jbW29l2e8SEX"
     },
     {
       "added_at": null,
@@ -495,22 +495,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bom Mesmo \u00e9 Estar Debaixo D'\u00c1gua Deluxe",
-        "url": "https://open.spotify.com/album/1ygSTGeglAKt0UwfnZhfdm"
+        "name": "Estrela",
+        "url": "https://open.spotify.com/album/7rqbuDl2LJx0ebJUWDKjsJ"
       },
       "artists": [
         {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+          "name": "UANA",
+          "url": "https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO"
         },
         {
           "name": "N.I.N.A",
           "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
         }
       ],
-      "duration_ms": 301182,
-      "name": "Met\u00e1fora",
-      "url": "https://open.spotify.com/track/3ROiMsqkU7jbW29l2e8SEX"
+      "duration_ms": 244000,
+      "name": "Coisa de Acender",
+      "url": "https://open.spotify.com/track/6uwu2ccApOhVVCSSIRl3rq"
     },
     {
       "added_at": null,

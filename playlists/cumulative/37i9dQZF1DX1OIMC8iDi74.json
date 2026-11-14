@@ -354,7 +354,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 145655,
       "name": "AHORA",
       "url": "https://open.spotify.com/track/1Re81w8xdZjUNuRu1AUSoL"
@@ -1256,7 +1256,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 200650,
       "name": "BACKAGAIN",
       "url": "https://open.spotify.com/track/3TUEqABWnziFI7lEupRvyK"
@@ -5040,7 +5040,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 144000,
       "name": "EGOTRIP",
       "url": "https://open.spotify.com/track/1mftC5sqZIwvwzfFWdjgCg"
@@ -6453,6 +6453,24 @@
     },
     {
       "album": {
+        "name": "FUCKOUTMYFACE!",
+        "url": "https://open.spotify.com/album/7a0tM3ZzhrVxVkPYwHyTJ6"
+      },
+      "artists": [
+        {
+          "name": "Moore Kismet",
+          "url": "https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251718,
+      "name": "FUCKOUTMYFACE!",
+      "url": "https://open.spotify.com/track/4rLMKhSiVqAlyvcOCiiJrB"
+    },
+    {
+      "album": {
         "name": "Westcoast G-House Compilation",
         "url": "https://open.spotify.com/album/1gAz4AJT5hAhSM86RruUn8"
       },
@@ -7287,6 +7305,28 @@
     },
     {
       "album": {
+        "name": "HIGH IMPACT MATERIAL (H.I.M.)",
+        "url": "https://open.spotify.com/album/7rz3YHPoC1TG5iXEQVKksA"
+      },
+      "artists": [
+        {
+          "name": "HIGHSOCIETY",
+          "url": "https://open.spotify.com/artist/32MQN2sITkJGNQN40QLPEa"
+        },
+        {
+          "name": "Trippz Michaud",
+          "url": "https://open.spotify.com/artist/7aZkfILPe29ylBS64DCGds"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145655,
+      "name": "H.I.M.",
+      "url": "https://open.spotify.com/track/0cS1M0GcQqWBa2uB21wgFR"
+    },
+    {
+      "album": {
         "name": "ADRENOCHROME",
         "url": "https://open.spotify.com/album/4H2abOEiBXEQpNibmwu4Li"
       },
@@ -8000,7 +8040,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 168017,
       "name": "Hitz",
       "url": "https://open.spotify.com/track/7mCDRMWEok4y7NHgKSfD2K"
@@ -13773,6 +13813,32 @@
     },
     {
       "album": {
+        "name": "PIGDEM",
+        "url": "https://open.spotify.com/album/416IG56VuoTZeoa3hnTQcQ"
+      },
+      "artists": [
+        {
+          "name": "LAZERFLIP OVER HUMANS",
+          "url": "https://open.spotify.com/artist/5OK2cDJG061NH3p6lrxdkS"
+        },
+        {
+          "name": "shnd\u014d",
+          "url": "https://open.spotify.com/artist/2AGKq9TDZ4m5cuSvFEShjH"
+        },
+        {
+          "name": "Calaysie",
+          "url": "https://open.spotify.com/artist/3wPweBGmTTKQxaLTjbpjDr"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165633,
+      "name": "PIGDEM",
+      "url": "https://open.spotify.com/track/4Zq3HXh5Or0oTdD2GEq5E5"
+    },
+    {
+      "album": {
         "name": "PISTON",
         "url": "https://open.spotify.com/album/0vqNlq2Y6wWNyctY5tw6HO"
       },
@@ -13934,7 +14000,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 144545,
       "name": "POWER",
       "url": "https://open.spotify.com/track/0P5KTcGLQludTZtkKoUOjK"
@@ -16789,6 +16855,32 @@
     },
     {
       "album": {
+        "name": "STFU",
+        "url": "https://open.spotify.com/album/78Ah2H8nFHI8xoUkm4JuVQ"
+      },
+      "artists": [
+        {
+          "name": "HerShe",
+          "url": "https://open.spotify.com/artist/572W2DIMj2JYViwkIpae6J"
+        },
+        {
+          "name": "Bass Ventura",
+          "url": "https://open.spotify.com/artist/3IrnsrWAiZZpf4yAJhpIjj"
+        },
+        {
+          "name": "Feel Suite",
+          "url": "https://open.spotify.com/artist/3ZntMOLv6WfoECBtffzGvV"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219428,
+      "name": "STFU",
+      "url": "https://open.spotify.com/track/0ORl1LSkjtc89HsATWnQhe"
+    },
+    {
+      "album": {
         "name": "Still In Love",
         "url": "https://open.spotify.com/album/6hQeO7qGSyDTcI1mBbqSqy"
       },
@@ -18102,6 +18194,32 @@
       "duration_ms": 184800,
       "name": "THROW YA HANDZ UP",
       "url": "https://open.spotify.com/track/6VRVCE4ITO0rneyfC5CIEA"
+    },
+    {
+      "album": {
+        "name": "THROWIN BOWS",
+        "url": "https://open.spotify.com/album/5NOQDYCdbZS5sJy1HqzIgI"
+      },
+      "artists": [
+        {
+          "name": "Flosstradamus",
+          "url": "https://open.spotify.com/artist/2FmzVitXZjIkFolH8HXd4j"
+        },
+        {
+          "name": "4B",
+          "url": "https://open.spotify.com/artist/0LIl9fjMPEZp8UDiL8Yuo4"
+        },
+        {
+          "name": "4URA",
+          "url": "https://open.spotify.com/artist/3EG6B7xCYrCokW2HJiwpPd"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140785,
+      "name": "THROWIN BOWS",
+      "url": "https://open.spotify.com/track/41Lfd112LLqumLwlaHxOLW"
     },
     {
       "album": {

@@ -3079,6 +3079,28 @@
     },
     {
       "album": {
+        "name": "Cloud 9",
+        "url": "https://open.spotify.com/album/3Au2PMGFjQ4Q5J6Amm3dk7"
+      },
+      "artists": [
+        {
+          "name": "Narvent",
+          "url": "https://open.spotify.com/artist/3QZtwiUoyaXbl1JssMPIQ7"
+        },
+        {
+          "name": "Axstin",
+          "url": "https://open.spotify.com/artist/2zqctZv5CadQEC6TSSk0ys"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119834,
+      "name": "Cloud 9",
+      "url": "https://open.spotify.com/track/7f2tmpbf0auMx8s34kTtIL"
+    },
+    {
+      "album": {
         "name": "Clown Around",
         "url": "https://open.spotify.com/album/4B9AKvwbLZajHo7eQAJF47"
       },

@@ -142,7 +142,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 278416,
       "name": "Afraid Of The Dark",
       "url": "https://open.spotify.com/track/46odPfzMypgxCBMUPmdKxr"
@@ -900,6 +900,24 @@
       "duration_ms": 251488,
       "name": "Everybody Wants To Rule The World",
       "url": "https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE"
+    },
+    {
+      "album": {
+        "name": "Fig Tree",
+        "url": "https://open.spotify.com/album/5QeWE7EQufnbmrf9d9dwRy"
+      },
+      "artists": [
+        {
+          "name": "Chloe Slater",
+          "url": "https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221394,
+      "name": "Fig Tree",
+      "url": "https://open.spotify.com/track/1brJfz0AAt0N9frwnN4z2y"
     },
     {
       "album": {

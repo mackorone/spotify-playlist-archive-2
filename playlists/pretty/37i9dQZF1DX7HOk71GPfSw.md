@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > do not ever doubt mr\. 2hollis
 
-[Spotify](https://open.spotify.com/user/spotify) - 529,292 likes - 120 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 529,452 likes - 120 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,7 +102,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 92 | [GET UP! GET DOWN! \(EVERYBODYYY\)](https://open.spotify.com/track/2nqn5XsYk0gsCGSAWbBFsR) | [kimj](https://open.spotify.com/artist/2DwWHe8gOHsUzMn1saNYjw), [Syzy](https://open.spotify.com/artist/4Uu7oYMJmwNxi1qTXaeRDL) | [GET UP! GET DOWN! \(EVERYBODYYY\)](https://open.spotify.com/album/6CAkmTyIPUDpos74QpYEUb) | 2:28 |
 | 93 | [Let's Link Up and Die](https://open.spotify.com/track/1fbipsUw493ucwKBj1e0VN) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565), [kurtains](https://open.spotify.com/artist/7b2FbxYmnpGMPqDe04QmyP) | [God Save The Three](https://open.spotify.com/album/0lwdzU4UMx8ISISDqrYDvA) | 2:33 |
 | 94 | [Nihilist](https://open.spotify.com/track/2ntIcnwQWWLkrRH7vAGO3W) | [Ennaria](https://open.spotify.com/artist/0vKadOdp1SPc45oHfkZd4U) | [MANIFESTO](https://open.spotify.com/album/6nfrEqw9KmVUWTZkSIKpnJ) | 3:33 |
-| 95 | [notime…](https://open.spotify.com/track/6qL1c0iuEhxV8a1Rt1l3ww) | [finnjävel](https://open.spotify.com/artist/5YQtvxTvGSShjMTOMyCuPT), [GRANT](https://open.spotify.com/artist/6SkVKlAmIWVD0LQvCGQqSj) | [notime…youshouldbeaskingmeout](https://open.spotify.com/album/3thIn4T4XksDxTHEU1rExU) | 2:19 |
+| 95 | [notime…](https://open.spotify.com/track/6qL1c0iuEhxV8a1Rt1l3ww) | [finnjävel](https://open.spotify.com/artist/5YQtvxTvGSShjMTOMyCuPT), [Grant](https://open.spotify.com/artist/6SkVKlAmIWVD0LQvCGQqSj) | [notime…youshouldbeaskingmeout](https://open.spotify.com/album/3thIn4T4XksDxTHEU1rExU) | 2:19 |
 | 96 | [Hanging On A Minute](https://open.spotify.com/track/0jAYJeZbG2atnZA0Y609HW) | [Tommy Fleece](https://open.spotify.com/artist/4vv1Y8dwByLcOJ8Wdsxrfg) | [Hanging On A Minute](https://open.spotify.com/album/5h19LQsvDPKO2vOkPvNpfK) | 2:24 |
 | 97 | [PQC](https://open.spotify.com/track/0bP1I4aL8vehpEkXQ3dmgO) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [PQC](https://open.spotify.com/album/35hsDC9B2utVC66cjrJ1GY) | 3:32 |
 | 98 | [Almost Forever](https://open.spotify.com/track/7qRmZMqzUtv6oUsKuU24Pb) | [Babyteeth](https://open.spotify.com/artist/5G4r8ljlfEd8oFcI2Fneax) | [Almost Forever](https://open.spotify.com/album/6pP8WjW6n4T9ip3rHEmNW9) | 2:09 |

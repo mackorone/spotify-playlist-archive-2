@@ -4,7 +4,7 @@
 
 > Experience the lastest and the greatest Worship music right here, right now\. Cover: 7 Hills Worship
 
-1,131 songs - 4 day 10 hr 22 min
+1,132 songs - 4 day 10 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -221,6 +221,7 @@
 | [Desperate for Jesus](https://open.spotify.com/track/67XISn3LHSTEyKd87Q0gWR) | [Karen Espinosa](https://open.spotify.com/artist/6XNVOebbeiowkj9FJwvc7m), [Tiffany Hudson](https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV) | [Desperate for Jesus](https://open.spotify.com/album/0QcmTFn9Ps3ZYkGWZZUQz8) | 9:56 | 2026-10-02 |  |
 | [Doesn't He \(Deserve It All\)](https://open.spotify.com/track/037Q5ln2i35q79Ugfz9R5v) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Doesn't He \(Deserve It All\)](https://open.spotify.com/album/0lH7WX51nhQ7zf6c6vFt6y) | 3:32 | 2026-08-14 |  |
 | [Don't Fight Alone](https://open.spotify.com/track/1nBs6CyPsd9THOxqsuLt0M) | [Jon Reddick](https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2) | [Don't Fight Alone](https://open.spotify.com/album/5ssaO7LgEOgKuuKRpm548L) | 4:00 | 2023-11-10 | 2024-08-31 |
+| [Doxology \(All Praise\)](https://open.spotify.com/track/1DzcXks7Lsa4Zc6wuB2yt4) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0), [Kari Jobe Carnes](https://open.spotify.com/artist/3VTWrobRnI633EBuUSfyw3) | [Doxology \(All Praise\)](https://open.spotify.com/album/0u87RNAoGcLHPxpmJljLWm) | 6:59 | 2026-11-13 |  |
 | [Dream \- Live](https://open.spotify.com/track/2aY1HUnXPir4OESAaw2Pae) | [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Joel Figueroa](https://open.spotify.com/artist/3QRS0RlYKcQFdr7X4pcE4V), [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5) | [Dream \(Live\)](https://open.spotify.com/album/0FV8Zn9lpGqumPzh1ycO4q) | 9:41 | 2025-01-24 | 2025-03-15 |
 | [Drink Offering \(Deluxe Version\) \- Live](https://open.spotify.com/track/2IGP8edi8VNcop2t7ouQMy) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Cover The Earth: Live In New York \(Deluxe\)](https://open.spotify.com/album/2ODgj7jaZbBWcskolm7iCK) | 9:12 | 2024-06-21 | 2025-03-15 |
 | [Dry Ground](https://open.spotify.com/track/2rN3VHilUMtGh7CVmCVUqs) | [Church of the City](https://open.spotify.com/artist/0JEaOx0otT35qgkj1w4oBw) | [Dry Ground](https://open.spotify.com/album/5jyQwvIZSQozXT1GHEMhZo) | 5:05 | 2024-11-08 | 2025-01-25 |
@@ -976,7 +977,7 @@
 | [The Sweetest Sound](https://open.spotify.com/track/4TyYqM4EoFG7KtEGmUgH2r) | [Village Lights](https://open.spotify.com/artist/63Hnq5ylvVEXWaw07FWrp1), [Ike Ndolo](https://open.spotify.com/artist/7GybhnbNqgYBkIIU7zE90W) | [Kingdom](https://open.spotify.com/album/1JJslYNSkyMUSm05DA548D) | 3:20 | 2022-02-25 | 2022-09-10 |
 | [The Table](https://open.spotify.com/track/6YkYoeZXZUK5SP8EReOOQI) | [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo) | [The Table](https://open.spotify.com/album/5V23DdCgKh1j2fNP340qdB) | 4:20 | 2022-02-25 | 2022-07-23 |
 | [The Worthy One \- Live](https://open.spotify.com/track/08p3ubgxrY3Kks1lraTlLd) | [New Life Worship](https://open.spotify.com/artist/0wCMw81dQdNPMRB4zadq5g), [Lauren Smith](https://open.spotify.com/artist/7lM3omHCUZWwKpMK867IGu) | [God Is \(Live\)](https://open.spotify.com/album/0KDeewz19A4gwXCFNM6cTm) | 7:39 | 2024-04-12 | 2024-12-07 |
-| [There Goes That Man \- Live From LA](https://open.spotify.com/track/7k925ZA0zngjoMslHLYo8a) | [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5) | [There Goes That Man \(Live From LA\)](https://open.spotify.com/album/0ll8vWWFOJtbTUEDbhhQ4C) | 6:31 | 2026-05-08 |  |
+| [There Goes That Man \- Live From LA](https://open.spotify.com/track/7k925ZA0zngjoMslHLYo8a) | [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5) | [There Goes That Man \(Live From LA\)](https://open.spotify.com/album/0ll8vWWFOJtbTUEDbhhQ4C) | 6:31 | 2026-05-08 | 2026-11-14 |
 | [There Is Freedom](https://open.spotify.com/track/1p3ozrPkurjwHYmKBeftLs) | [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [There Is Freedom](https://open.spotify.com/album/3BtwEvDpbV59BWaApYfAjT) | 3:58 | 2022-04-01 | 2022-08-09 |
 | [There Is Freedom](https://open.spotify.com/track/2Ae6WmxlGEIH7m4lOCrUyN) | [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [Where The Glory Is](https://open.spotify.com/album/5cot0YnDeFz0VyuLcquuP9) | 3:58 | 2022-09-30 | 2022-10-22 |
 | [There Is Freedom](https://open.spotify.com/track/5BeiVuqW90hsSTHnOCgKXK) | [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [I See The Light](https://open.spotify.com/album/2dHaMmJsjwdJeWx1M356ER) | 3:58 | 2022-09-02 | 2022-10-01 |

@@ -462,6 +462,24 @@
           "url": "https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg"
         }
       ],
+      "date_added": "2026-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114461,
+      "name": "Into the Wild Wood",
+      "url": "https://open.spotify.com/track/14rsaixIilF15uRIA5zMZR"
+    },
+    {
+      "album": {
+        "name": "Wildwood: Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/4QEB0kfFzFgXUX8AxH39De"
+      },
+      "artists": [
+        {
+          "name": "Dario Marianelli",
+          "url": "https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg"
+        }
+      ],
       "date_added": "2026-11-03",
       "date_added_asterisk": false,
       "date_removed": null,
@@ -742,7 +760,7 @@
       ],
       "date_added": "2026-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 56585,
       "name": "The Coyotes",
       "url": "https://open.spotify.com/track/0wfR9v0nTnjj8K99ApMnMW"

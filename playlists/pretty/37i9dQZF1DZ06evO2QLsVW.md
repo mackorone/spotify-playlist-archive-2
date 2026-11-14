@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QLsVW.md) - [plain]
 
 > This is Papa Roach\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 261,067 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 261,096 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QLsVW.md) - [plain]
 | 21 | [Liar](https://open.spotify.com/track/09Z8JUFWPyjOuTziXbr0DJ) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Ego Trip](https://open.spotify.com/album/5OSVAtytFqdJwIJpD3gGEJ) | 2:57 |
 | 22 | [BRAINDEAD \(feat\. Toby Morse\)](https://open.spotify.com/track/4lSXxf1buHPHRqz4otuxde) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X), [Toby Morse](https://open.spotify.com/artist/3bUT7vUCfASm9rKV19DAjd) | [BRAINDEAD \(feat\. Toby Morse\)](https://open.spotify.com/album/6K484LDhrNh4mzq95WMPbv) | 3:11 |
 | 23 | [Leader of the Broken Hearts](https://open.spotify.com/track/21ESBRYWFZmiZAM9iBIjtn) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [The Connection](https://open.spotify.com/album/6x5bHblLrGWaQlH6xLB38V) | 4:12 |
-| 24 | [The Ending](https://open.spotify.com/track/37mumJ1yHydHQK7mDnzk4W) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Who Do You Trust? \(Deluxe Version\)](https://open.spotify.com/album/0VJRBtnkvdxYK1UvXnLdUb) | 3:29 |
-| 25 | [Take Me](https://open.spotify.com/track/6Mzc0iOvIHgPiiY6M5vVoN) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Getting Away With Murder](https://open.spotify.com/album/1OO7kdJ4OzWbjcroJEpfTH) | 3:26 |
+| 24 | [Take Me](https://open.spotify.com/track/6Mzc0iOvIHgPiiY6M5vVoN) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Getting Away With Murder](https://open.spotify.com/album/1OO7kdJ4OzWbjcroJEpfTH) | 3:26 |
+| 25 | [The Ending](https://open.spotify.com/track/37mumJ1yHydHQK7mDnzk4W) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Who Do You Trust? \(Deluxe Version\)](https://open.spotify.com/album/0VJRBtnkvdxYK1UvXnLdUb) | 3:29 |
 | 26 | [No Apologies](https://open.spotify.com/track/3tOsMX89CIiuf2x2n5EQyb) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Ego Trip](https://open.spotify.com/album/5OSVAtytFqdJwIJpD3gGEJ) | 3:08 |
 | 27 | [Hollywood Whore](https://open.spotify.com/track/2nAUcVNxXpOTohdYdONend) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Metamorphosis](https://open.spotify.com/album/24LFCYvhIN7abbS12Ijg9x) | 3:54 |
 | 28 | [Broken Home](https://open.spotify.com/track/1s4BLQm5rznGLrNZd0GlwM) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Infest](https://open.spotify.com/album/4T1iDqGZflgQdzTPSV7mBa) | 3:42 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QLsVW.md) - [plain]
 | 41 | [Infest](https://open.spotify.com/track/0ijEkXhF6IVN4qUjDkciTm) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Infest](https://open.spotify.com/album/0BHa0ePkvGAVKymB4FU58m) | 4:09 |
 | 42 | [Lifeline](https://open.spotify.com/track/04hf4vWXR2ObRoxz9FR4a4) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Metamorphosis](https://open.spotify.com/album/24LFCYvhIN7abbS12Ijg9x) | 4:17 |
 | 43 | [Kick In The Teeth](https://open.spotify.com/track/5sMlJASQgm0hgJSY4oWoI3) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Time For Annihilation: On the Record & On the Road](https://open.spotify.com/album/3d50lh0NuJJwtMj8NV0Tsr) | 3:11 |
-| 44 | [Warriors](https://open.spotify.com/track/6GguMeyxT0Os3GwcEcF6qA) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [F.E.A.R\. \(Deluxe Edition\)](https://open.spotify.com/album/0iyr32afjbf1cm82P1yi3T) | 2:55 |
-| 45 | [Cut The Line \(feat\. Beartooth\)](https://open.spotify.com/track/15kMBHLBO0WeQJmnuSWJYN) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X), [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Ego Trip \(Deluxe\)](https://open.spotify.com/album/0cjCJprou4GNLdDAWlJ2fc) | 3:18 |
+| 44 | [Cut The Line \(feat\. Beartooth\)](https://open.spotify.com/track/15kMBHLBO0WeQJmnuSWJYN) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X), [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Ego Trip \(Deluxe\)](https://open.spotify.com/album/0cjCJprou4GNLdDAWlJ2fc) | 3:18 |
+| 45 | [Warriors](https://open.spotify.com/track/6GguMeyxT0Os3GwcEcF6qA) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [F.E.A.R\. \(Deluxe Edition\)](https://open.spotify.com/album/0iyr32afjbf1cm82P1yi3T) | 2:55 |
 | 46 | [Before I Die](https://open.spotify.com/track/4SILwHAUf4ERYgJmrySHNi) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [The Connection](https://open.spotify.com/album/6x5bHblLrGWaQlH6xLB38V) | 4:25 |
 | 47 | [Time And Time Again](https://open.spotify.com/track/2OAOAtuDWWfzhbgdkZ24sw) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [lovehatetragedy](https://open.spotify.com/album/2bsemtYlVfVAQODavrDkS4) | 2:58 |
 | 48 | [Feel Like Home](https://open.spotify.com/track/3pNrzf8AlfdEyOVFMObhoK) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Who Do You Trust? \(Deluxe Version\)](https://open.spotify.com/album/0VJRBtnkvdxYK1UvXnLdUb) | 3:07 |
 | 49 | [Dying To Believe](https://open.spotify.com/track/1ZjwhGQSDINyRhYHjK1JQq) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Ego Trip](https://open.spotify.com/album/5OSVAtytFqdJwIJpD3gGEJ) | 3:01 |
 | 50 | [I Almost Told You That I Loved You](https://open.spotify.com/track/2pWhizMrzd6cdbWqKsOCPQ) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Metamorphosis](https://open.spotify.com/album/24LFCYvhIN7abbS12Ijg9x) | 3:11 |
 
-Snapshot ID: `avOwAAAAAADFXlR4eN+58eqK5JFVSmuJ`
+Snapshot ID: `avUBgAAAAAD/222rQ3LOLtmstH32tCsy`

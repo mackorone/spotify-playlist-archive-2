@@ -1,6 +1,6 @@
 {
   "description": "r\u00f8lp og s\u00e5nt",
-  "num_followers": 118401,
+  "num_followers": 118406,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
@@ -647,22 +647,6 @@
     {
       "added_at": "2026-11-12 23:01:12",
       "album": {
-        "name": "H\u00f8gt over landet",
-        "url": "https://open.spotify.com/album/368HJ9cQicPem36DDzM5Zn"
-      },
-      "artists": [
-        {
-          "name": "Rotlaus",
-          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
-        }
-      ],
-      "duration_ms": 203722,
-      "name": "H\u00f8gt over landet",
-      "url": "https://open.spotify.com/track/235ShnKeeQKXAP7GBpSEjW"
-    },
-    {
-      "added_at": "2026-11-12 23:01:12",
-      "album": {
         "name": "Banens beste p\u00e5 bar",
         "url": "https://open.spotify.com/album/2uJchvbZlmKU8e51AUImfM"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 203254,
       "name": "Banens beste p\u00e5 bar (Fast inventar)",
       "url": "https://open.spotify.com/track/472VPrN6RadFuQhuYHC0zW"
+    },
+    {
+      "added_at": "2026-11-12 23:01:12",
+      "album": {
+        "name": "H\u00f8gt over landet",
+        "url": "https://open.spotify.com/album/368HJ9cQicPem36DDzM5Zn"
+      },
+      "artists": [
+        {
+          "name": "Rotlaus",
+          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
+        }
+      ],
+      "duration_ms": 203722,
+      "name": "H\u00f8gt over landet",
+      "url": "https://open.spotify.com/track/235ShnKeeQKXAP7GBpSEjW"
     },
     {
       "added_at": "2026-11-12 23:01:12",
@@ -751,6 +751,22 @@
     {
       "added_at": "2026-11-12 23:01:12",
       "album": {
+        "name": "Langt igjen \u00e5 g\u00e5",
+        "url": "https://open.spotify.com/album/0cHxs6tHUNshJrzAg4M867"
+      },
+      "artists": [
+        {
+          "name": "Rotlaus",
+          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
+        }
+      ],
+      "duration_ms": 182824,
+      "name": "Langt igjen \u00e5 g\u00e5",
+      "url": "https://open.spotify.com/track/4sSG00XcjhgtSMbeCMIKsn"
+    },
+    {
+      "added_at": "2026-11-12 23:01:12",
+      "album": {
         "name": "Livet Slik Det Var (feat. Madel\u00e9ne)",
         "url": "https://open.spotify.com/album/3CtVuAavZZ0w3xcQgTaiKd"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 160000,
       "name": "Livet Slik Det Var (feat. Madel\u00e9ne)",
       "url": "https://open.spotify.com/track/2UX3g1DDHIx13BmxCs6SN1"
-    },
-    {
-      "added_at": "2026-11-12 23:01:12",
-      "album": {
-        "name": "Langt igjen \u00e5 g\u00e5",
-        "url": "https://open.spotify.com/album/0cHxs6tHUNshJrzAg4M867"
-      },
-      "artists": [
-        {
-          "name": "Rotlaus",
-          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
-        }
-      ],
-      "duration_ms": 182824,
-      "name": "Langt igjen \u00e5 g\u00e5",
-      "url": "https://open.spotify.com/track/4sSG00XcjhgtSMbeCMIKsn"
     },
     {
       "added_at": "2026-11-12 23:01:12",
@@ -1023,6 +1023,26 @@
     {
       "added_at": "2026-11-12 23:01:12",
       "album": {
+        "name": "CAT 374",
+        "url": "https://open.spotify.com/album/1ATJPu9U3mxwZ180vKpdWs"
+      },
+      "artists": [
+        {
+          "name": "Crashville",
+          "url": "https://open.spotify.com/artist/3OzXAMfPfwenAot8z2NPpL"
+        },
+        {
+          "name": "JONE",
+          "url": "https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN"
+        }
+      ],
+      "duration_ms": 176117,
+      "name": "CAT 374",
+      "url": "https://open.spotify.com/track/1x1VCdqlxuR0SVWdYYXPlC"
+    },
+    {
+      "added_at": "2026-11-12 23:01:12",
+      "album": {
         "name": "Nei tel ja",
         "url": "https://open.spotify.com/album/0GGxhDOjEBMHGIcJLe4wUi"
       },
@@ -1035,26 +1055,6 @@
       "duration_ms": 210626,
       "name": "Nei tel ja",
       "url": "https://open.spotify.com/track/0PTbhrR4uqUhIWcgG4lJZA"
-    },
-    {
-      "added_at": "2026-11-12 23:01:12",
-      "album": {
-        "name": "Rypejakt",
-        "url": "https://open.spotify.com/album/2WVbRn5uvs0aGIcpoz25Sm"
-      },
-      "artists": [
-        {
-          "name": "Crashville",
-          "url": "https://open.spotify.com/artist/3OzXAMfPfwenAot8z2NPpL"
-        },
-        {
-          "name": "Tomgang",
-          "url": "https://open.spotify.com/artist/3Qj3nUfSYOKCaDqcvIdgYe"
-        }
-      ],
-      "duration_ms": 149651,
-      "name": "Rypejakt",
-      "url": "https://open.spotify.com/track/6OmvqBoQlEG3rpEgIC7HIW"
     },
     {
       "added_at": "2026-11-12 23:01:12",
@@ -1111,6 +1111,26 @@
     {
       "added_at": "2026-11-12 23:01:12",
       "album": {
+        "name": "Rypejakt",
+        "url": "https://open.spotify.com/album/2WVbRn5uvs0aGIcpoz25Sm"
+      },
+      "artists": [
+        {
+          "name": "Crashville",
+          "url": "https://open.spotify.com/artist/3OzXAMfPfwenAot8z2NPpL"
+        },
+        {
+          "name": "Tomgang",
+          "url": "https://open.spotify.com/artist/3Qj3nUfSYOKCaDqcvIdgYe"
+        }
+      ],
+      "duration_ms": 149651,
+      "name": "Rypejakt",
+      "url": "https://open.spotify.com/track/6OmvqBoQlEG3rpEgIC7HIW"
+    },
+    {
+      "added_at": "2026-11-12 23:01:12",
+      "album": {
         "name": "De g\u00e6rne har det godt",
         "url": "https://open.spotify.com/album/517ciheoZHAntktdQcBaxx"
       },
@@ -1127,46 +1147,6 @@
       "duration_ms": 128653,
       "name": "De g\u00e6rne har det godt",
       "url": "https://open.spotify.com/track/2uWzRb60LK37cremgoTxJd"
-    },
-    {
-      "added_at": "2026-11-12 23:01:12",
-      "album": {
-        "name": "CAT 374",
-        "url": "https://open.spotify.com/album/1ATJPu9U3mxwZ180vKpdWs"
-      },
-      "artists": [
-        {
-          "name": "Crashville",
-          "url": "https://open.spotify.com/artist/3OzXAMfPfwenAot8z2NPpL"
-        },
-        {
-          "name": "JONE",
-          "url": "https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN"
-        }
-      ],
-      "duration_ms": 176117,
-      "name": "CAT 374",
-      "url": "https://open.spotify.com/track/1x1VCdqlxuR0SVWdYYXPlC"
-    },
-    {
-      "added_at": "2026-11-12 23:01:12",
-      "album": {
-        "name": "Eg held handa di (med Kristian Kristensen) (feat. Kristian Kristensen)",
-        "url": "https://open.spotify.com/album/4UgORfoMflr43nCBL2cOTf"
-      },
-      "artists": [
-        {
-          "name": "Ingebj\u00f8rg Bratland",
-          "url": "https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C"
-        },
-        {
-          "name": "Kristian Kristensen",
-          "url": "https://open.spotify.com/artist/75ZTlOo6olxm9thcXVh6Ta"
-        }
-      ],
-      "duration_ms": 233520,
-      "name": "Eg held handa di (med Kristian Kristensen) (feat. Kristian Kristensen)",
-      "url": "https://open.spotify.com/track/2IpyJbkGIdIvy8dzj7JTyX"
     },
     {
       "added_at": "2026-11-12 23:01:12",
@@ -1191,18 +1171,22 @@
     {
       "added_at": "2026-11-12 23:01:12",
       "album": {
-        "name": "Ein song som finst",
-        "url": "https://open.spotify.com/album/193cVUqldOQIoSFxsEJe0L"
+        "name": "Eg held handa di (med Kristian Kristensen) (feat. Kristian Kristensen)",
+        "url": "https://open.spotify.com/album/4UgORfoMflr43nCBL2cOTf"
       },
       "artists": [
         {
-          "name": "Odd Nordstoga",
-          "url": "https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv"
+          "name": "Ingebj\u00f8rg Bratland",
+          "url": "https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C"
+        },
+        {
+          "name": "Kristian Kristensen",
+          "url": "https://open.spotify.com/artist/75ZTlOo6olxm9thcXVh6Ta"
         }
       ],
-      "duration_ms": 210226,
-      "name": "Ein song som finst",
-      "url": "https://open.spotify.com/track/3VUA4aLcTe0hIibzbzZ26z"
+      "duration_ms": 233520,
+      "name": "Eg held handa di (med Kristian Kristensen) (feat. Kristian Kristensen)",
+      "url": "https://open.spotify.com/track/2IpyJbkGIdIvy8dzj7JTyX"
     },
     {
       "added_at": "2026-11-12 23:01:12",
@@ -1223,6 +1207,22 @@
       "duration_ms": 194624,
       "name": "Russisk rulett",
       "url": "https://open.spotify.com/track/3kXzU4aXWSoBMQar1Qgzjs"
+    },
+    {
+      "added_at": "2026-11-12 23:01:12",
+      "album": {
+        "name": "Ein song som finst",
+        "url": "https://open.spotify.com/album/193cVUqldOQIoSFxsEJe0L"
+      },
+      "artists": [
+        {
+          "name": "Odd Nordstoga",
+          "url": "https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv"
+        }
+      ],
+      "duration_ms": 210226,
+      "name": "Ein song som finst",
+      "url": "https://open.spotify.com/track/3VUA4aLcTe0hIibzbzZ26z"
     },
     {
       "added_at": "2026-11-12 23:01:12",

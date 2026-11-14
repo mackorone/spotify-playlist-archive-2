@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0orKRi.md) - [plain]
 
 > This is Slim Dusty\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,974 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,977 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0orKRi.md) - [plain]
 | 41 | [The Man From Snowy River](https://open.spotify.com/track/2xv0IvUYv7vkhKstp46RXg) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [The Slim Dusty Heritage Album](https://open.spotify.com/album/00I7NIZRiiCpzH5BWn3PSC) | 7:43 |
 | 42 | [Abalinga Mail](https://open.spotify.com/track/24FVM4cb3qAIiCzblZqjQA) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | ['99](https://open.spotify.com/album/6PQ7WiRt56ugNzUiqVG7kr) | 3:03 |
 | 43 | [The Biggest Disappointment](https://open.spotify.com/track/4CzNjmXvCS9v9EqyeQ8lGd) | [Troy Cassar\-Daley](https://open.spotify.com/artist/3RIsSUoG3tw0S19WabHxiM), [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Lost and Found](https://open.spotify.com/album/4tAfpE4IepSl8JL7Jyv54z) | 3:13 |
-| 44 | [Bent\-Axle Bob](https://open.spotify.com/track/42t66blDEyqv6M6EDt9FWb) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5), [The Travelling Country Band](https://open.spotify.com/artist/34wyMtIMapUICxpdi5hkjf) | [Lights On The Hill \(Remastered\)](https://open.spotify.com/album/7x201Ntvhwic5InkKSNRZa) | 2:45 |
-| 45 | [I'm Going Back Again To Yarrawonga \- Live](https://open.spotify.com/track/58nl5MF8brCEqggrFbv9nL) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Slim Dusty..\. Live Into The 90's](https://open.spotify.com/album/65OyUkNXHW2BncXXQ4AqeB) | 1:32 |
+| 44 | [I'm Going Back Again To Yarrawonga \- Live](https://open.spotify.com/track/58nl5MF8brCEqggrFbv9nL) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Slim Dusty..\. Live Into The 90's](https://open.spotify.com/album/65OyUkNXHW2BncXXQ4AqeB) | 1:32 |
+| 45 | [Bent\-Axle Bob](https://open.spotify.com/track/42t66blDEyqv6M6EDt9FWb) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5), [The Travelling Country Band](https://open.spotify.com/artist/34wyMtIMapUICxpdi5hkjf) | [Lights On The Hill \(Remastered\)](https://open.spotify.com/album/7x201Ntvhwic5InkKSNRZa) | 2:45 |
 | 46 | [No Man's Land \- 1992 \- Remaster](https://open.spotify.com/track/1zSGvOUGqinD4UqWFjBfTy) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [The Man Who Steadies The Lead](https://open.spotify.com/album/3l30CI7o8O4TSFv1crsabH) | 4:27 |
 | 47 | [Haulin' For The Double 'T'](https://open.spotify.com/track/2VHfWJ34HWsSGQ7pLKlJEu) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Sittin' On 80 \(Remastered\)](https://open.spotify.com/album/444une4Wfn6IvXEOrpqi6T) | 2:42 |
 | 48 | [No Good Truckin' Man](https://open.spotify.com/track/3wOZmnApmX1c7ytbvjYelE) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Makin' A Mile](https://open.spotify.com/album/5rsWjmX5VlaSbK723S3E3v) | 2:31 |
 | 49 | [By A Fire Of Gidgee Coal \- 1996 Digital Remaster](https://open.spotify.com/track/0aKuCV7yqNjojxyvXQ9wlE) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Slim Dusty Sings Stan Coster](https://open.spotify.com/album/6epVcXWfT9yGCoOW0bJdLp) | 2:58 |
 | 50 | [Old Time Country Halls](https://open.spotify.com/track/6ZxMX4kyWDX7TqrlbyNi1L) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [The Slim Dusty Heritage Album](https://open.spotify.com/album/00I7NIZRiiCpzH5BWn3PSC) | 2:54 |
 
-Snapshot ID: `avOwAAAAAAD6fm1oeQDamwZFXuYhzr+I`
+Snapshot ID: `avUBgAAAAAAIkvRXmc4bgCimblqUpSbX`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cXGtVmblSB.md) - [plain]
 
 > Soft music to calm down cats, kittens and their humans.
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,152 likes - 273 songs - 12 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,279 likes - 273 songs - 12 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

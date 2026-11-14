@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2fEpJ8cYYNOZXDpwysSpHg">Natania</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-159 songs - 7 hr 27 min
+160 songs - 7 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,8 @@
 | [Mess Me Up](https://open.spotify.com/track/5NKbhVPp2CMGD8pV3qi93b) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Mess Me Up](https://open.spotify.com/album/1HatZa4vV4vSWROa1fwgEB) | 3:21 | 2025-11-26 |  |
 | [Midnight Black](https://open.spotify.com/track/7HDg0pVM0VODtA9oX5lFtg) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [I understand you sometimes](https://open.spotify.com/album/7zZ19yOpQtttHW3EbP5j6R) | 2:36 | 2026-07-13 |  |
 | [Milenge \- from the Smurfs Movie Soundtrack](https://open.spotify.com/track/2aDplTXNq4j2M7SQBnp8KC) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Smurfs Movie Soundtrack \(Music From & Inspired By\)](https://open.spotify.com/album/1WWC30whzWg114IF0EEcRx) | 2:51 | 2025-07-17 |  |
-| [Mirror Mirror](https://open.spotify.com/track/0PvZzgz2IjYR3rRDhS4Wxu) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Looks Can Kill \(Alawn Remix Edition\)](https://open.spotify.com/album/0v50ktncrrqM0Cjrgxzb6i) | 3:20 | 2026-11-02 |  |
+| [Mirror Mirror](https://open.spotify.com/track/0PvZzgz2IjYR3rRDhS4Wxu) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Looks Can Kill \(Alawn Remix Edition\)](https://open.spotify.com/album/0v50ktncrrqM0Cjrgxzb6i) | 3:20 | 2026-11-02 | 2026-11-14 |
+| [Mirror Mirror](https://open.spotify.com/track/33FZpwabWJAhBS1huhKwNA) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Looks Can Kill](https://open.spotify.com/album/29iylYBoI7taTmNyvfYygd) | 3:20 | 2026-11-13 |  |
 | [Mumbai Magic \(feat\. Natania, Subhi & Shalmali Kholgade\)](https://open.spotify.com/track/07jwBjAFkTaUz4FMwoQISV) | [DESI TRILL](https://open.spotify.com/artist/22FwGMhBDU8drx91GTxkxJ), [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX), [Shalmali Kholgade](https://open.spotify.com/artist/6uskWv5K2FA0YOAYr7JOUz), [Subhi](https://open.spotify.com/artist/2n4qix48iT07tbyBdxAjM2) | [Mumbai Magic \(feat\. Natania, Subhi & Shalmali Kholgade\)](https://open.spotify.com/album/7IbdA8FbaxVlJWdbttU4kE) | 2:34 | 2025-07-03 |  |
 | [Nautanki](https://open.spotify.com/track/7Fvcb6tJ3SDyi8KNCa9cRC) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Nautanki](https://open.spotify.com/album/2K5wWX8prJG98gdA5fgITA) | 2:41 | 2025-07-03 |  |
 | [next 2 me](https://open.spotify.com/track/3MsTJ3uwQAWBAHkh0qQ4Rq) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs) | [next 2 me](https://open.spotify.com/album/2PKCGPLVxa4iIysVUHUCIn) | 2:32 | 2025-07-03 |  |

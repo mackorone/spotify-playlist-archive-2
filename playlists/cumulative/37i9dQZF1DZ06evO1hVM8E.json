@@ -883,6 +883,24 @@
     },
     {
       "album": {
+        "name": "En Evoluci\u00f3n",
+        "url": "https://open.spotify.com/album/1XkCIWR7rn91m8bYJqwrlI"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2026-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215558,
+      "name": "El Otro",
+      "url": "https://open.spotify.com/track/1DbR3NvjZEDyVymtIDEVsN"
+    },
+    {
+      "album": {
         "name": "El Pobre M\u00e1s Rico",
         "url": "https://open.spotify.com/album/5tygqHF9BjHXy6GaSY5k0W"
       },
@@ -1356,7 +1374,7 @@
       ],
       "date_added": "2026-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 180293,
       "name": "La Ley de la Vida",
       "url": "https://open.spotify.com/track/0JUHwWaS0g71evaUEqh1N3"

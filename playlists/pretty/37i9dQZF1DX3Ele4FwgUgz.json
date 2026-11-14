@@ -1,6 +1,6 @@
 {
   "description": "Enjoy music from \"Nijigasaki High School Idol Club\". \u00a92022 \u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u30e9\u30d6\u30e9\u30a4\u30d6\uff01\u8679\u30f6\u54b2\u5b66\u5712\u30b9\u30af\u30fc\u30eb\u30a2\u30a4\u30c9\u30eb\u540c\u597d\u4f1a\n",
-  "num_followers": 19217,
+  "num_followers": 19223,
   "original_name": "Love Live! Nijigasaki High School Idol Club",
   "owner": {
     "name": "Spotify",
@@ -411,18 +411,18 @@
     {
       "added_at": "2026-11-10 10:54:12",
       "album": {
-        "name": "Fly with You!!",
-        "url": "https://open.spotify.com/album/2cXKyTqIVyCOCtbEFNU0OA"
+        "name": "Dream with You / Poppin' Up! / DIVE!\u3010\u4e0a\u539f\u6b69\u5922\u76e4\u3011",
+        "url": "https://open.spotify.com/album/5azLupKAc7jhnLpGV6n2O1"
       },
       "artists": [
         {
-          "name": "\u685c\u5742\u3057\u305a\u304f (CV.\u524d\u7530\u4f73\u7e54\u91cc)",
-          "url": "https://open.spotify.com/artist/6csqZOVRUvmw9RnBjb0daq"
+          "name": "\u4e0a\u539f\u6b69\u5922 (CV.\u5927\u897f\u4e9c\u7396\u7483)",
+          "url": "https://open.spotify.com/artist/7it8CXxJEe5Rn1fSl34ugQ"
         }
       ],
-      "duration_ms": 242933,
-      "name": "\u5c0f\u60aa\u9b54LOVE\u2661",
-      "url": "https://open.spotify.com/track/6gnQVlXaS4yB1D4VC1owLP"
+      "duration_ms": 258106,
+      "name": "Dream with You",
+      "url": "https://open.spotify.com/track/2pOgQuNCRUmDvAKjqwmGR9"
     },
     {
       "added_at": "2026-11-10 10:54:12",
@@ -443,6 +443,22 @@
     {
       "added_at": "2026-11-10 10:54:12",
       "album": {
+        "name": "Fly with You!!",
+        "url": "https://open.spotify.com/album/2cXKyTqIVyCOCtbEFNU0OA"
+      },
+      "artists": [
+        {
+          "name": "\u685c\u5742\u3057\u305a\u304f (CV.\u524d\u7530\u4f73\u7e54\u91cc)",
+          "url": "https://open.spotify.com/artist/6csqZOVRUvmw9RnBjb0daq"
+        }
+      ],
+      "duration_ms": 242933,
+      "name": "\u5c0f\u60aa\u9b54LOVE\u2661",
+      "url": "https://open.spotify.com/track/6gnQVlXaS4yB1D4VC1owLP"
+    },
+    {
+      "added_at": "2026-11-10 10:54:12",
+      "album": {
         "name": "Butterfly / Solitude Rain / VIVID WORLD\u3010\u8fd1\u6c5f\u5f7c\u65b9\u76e4\u3011",
         "url": "https://open.spotify.com/album/5FT50eiC2wHEFWfTU1DxYR"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 216306,
       "name": "Butterfly",
       "url": "https://open.spotify.com/track/0CmpgRM57Uq8KOQAzKOxrq"
-    },
-    {
-      "added_at": "2026-11-10 10:54:12",
-      "album": {
-        "name": "Eutopia / EMOTION / stars we chase (\u9418 \u5d50\u73e0\u76e4)",
-        "url": "https://open.spotify.com/album/1tsmsUTGcov0XtiNksxxIi"
-      },
-      "artists": [
-        {
-          "name": "\u9418 \u5d50\u73e0 (CV.\u6cd5\u5143\u660e\u83dc)",
-          "url": "https://open.spotify.com/artist/1btXM114txUV2HtiylRvoK"
-        }
-      ],
-      "duration_ms": 249720,
-      "name": "Eutopia",
-      "url": "https://open.spotify.com/track/2Y7ojSbAWEH1mls9OBP8RQ"
     },
     {
       "added_at": "2026-11-10 10:54:12",
@@ -491,18 +491,18 @@
     {
       "added_at": "2026-11-10 10:54:12",
       "album": {
-        "name": "Vroom Vroom",
-        "url": "https://open.spotify.com/album/4luDm6B6w59F3oJzTbAzfX"
+        "name": "Eutopia / EMOTION / stars we chase (\u9418 \u5d50\u73e0\u76e4)",
+        "url": "https://open.spotify.com/album/1tsmsUTGcov0XtiNksxxIi"
       },
       "artists": [
         {
-          "name": "R3BIRTH",
-          "url": "https://open.spotify.com/artist/2xg4mnz8QOKejta6NzNCeG"
+          "name": "\u9418 \u5d50\u73e0 (CV.\u6cd5\u5143\u660e\u83dc)",
+          "url": "https://open.spotify.com/artist/1btXM114txUV2HtiylRvoK"
         }
       ],
-      "duration_ms": 216733,
-      "name": "Vroom Vroom",
-      "url": "https://open.spotify.com/track/3UXdd27VYUWIBW6cUvTjl9"
+      "duration_ms": 249720,
+      "name": "Eutopia",
+      "url": "https://open.spotify.com/track/2Y7ojSbAWEH1mls9OBP8RQ"
     },
     {
       "added_at": "2026-11-10 10:54:12",
@@ -519,6 +519,22 @@
       "duration_ms": 261013,
       "name": "LIKE IT!LOVE IT!",
       "url": "https://open.spotify.com/track/4PeeXkEdUeIucB7kbcp2u9"
+    },
+    {
+      "added_at": "2026-11-10 10:54:12",
+      "album": {
+        "name": "Vroom Vroom",
+        "url": "https://open.spotify.com/album/4luDm6B6w59F3oJzTbAzfX"
+      },
+      "artists": [
+        {
+          "name": "R3BIRTH",
+          "url": "https://open.spotify.com/artist/2xg4mnz8QOKejta6NzNCeG"
+        }
+      ],
+      "duration_ms": 216733,
+      "name": "Vroom Vroom",
+      "url": "https://open.spotify.com/track/3UXdd27VYUWIBW6cUvTjl9"
     },
     {
       "added_at": "2026-11-10 10:54:12",
@@ -555,38 +571,6 @@
     {
       "added_at": "2026-11-10 10:54:12",
       "album": {
-        "name": "Dream with You / Poppin' Up! / DIVE!\u3010\u4e0a\u539f\u6b69\u5922\u76e4\u3011",
-        "url": "https://open.spotify.com/album/5azLupKAc7jhnLpGV6n2O1"
-      },
-      "artists": [
-        {
-          "name": "\u4e0a\u539f\u6b69\u5922 (CV.\u5927\u897f\u4e9c\u7396\u7483)",
-          "url": "https://open.spotify.com/artist/7it8CXxJEe5Rn1fSl34ugQ"
-        }
-      ],
-      "duration_ms": 258106,
-      "name": "Dream with You",
-      "url": "https://open.spotify.com/track/2pOgQuNCRUmDvAKjqwmGR9"
-    },
-    {
-      "added_at": "2026-11-10 10:54:12",
-      "album": {
-        "name": "MONSTER GIRLS",
-        "url": "https://open.spotify.com/album/4v7l44G9d8Xls4O0gEYvyi"
-      },
-      "artists": [
-        {
-          "name": "R3BIRTH",
-          "url": "https://open.spotify.com/artist/2xg4mnz8QOKejta6NzNCeG"
-        }
-      ],
-      "duration_ms": 236746,
-      "name": "MONSTER GIRLS",
-      "url": "https://open.spotify.com/track/1l3c3YMXOpvXes5Vc3YsUs"
-    },
-    {
-      "added_at": "2026-11-10 10:54:12",
-      "album": {
         "name": "Just Believe!!!",
         "url": "https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 237640,
       "name": "\u30c4\u30ca\u30ac\u30eb\u30b3\u30cd\u30af\u30c8",
       "url": "https://open.spotify.com/track/5STRLlJ8d8O8cImBgyxvNv"
+    },
+    {
+      "added_at": "2026-11-10 10:54:12",
+      "album": {
+        "name": "MONSTER GIRLS",
+        "url": "https://open.spotify.com/album/4v7l44G9d8Xls4O0gEYvyi"
+      },
+      "artists": [
+        {
+          "name": "R3BIRTH",
+          "url": "https://open.spotify.com/artist/2xg4mnz8QOKejta6NzNCeG"
+        }
+      ],
+      "duration_ms": 236746,
+      "name": "MONSTER GIRLS",
+      "url": "https://open.spotify.com/track/1l3c3YMXOpvXes5Vc3YsUs"
     },
     {
       "added_at": "2026-11-10 10:54:12",
@@ -651,22 +651,6 @@
     {
       "added_at": "2026-11-10 10:54:12",
       "album": {
-        "name": "Just Believe!!!",
-        "url": "https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA"
-      },
-      "artists": [
-        {
-          "name": "\u5bae\u4e0b \u611b (CV.\u6751\u4e0a\u5948\u6d25\u5b9f)",
-          "url": "https://open.spotify.com/artist/19W707ZUq5jEr0NBWCaS01"
-        }
-      ],
-      "duration_ms": 241306,
-      "name": "\u697d\u3057\u3044\u306e\u5929\u624d",
-      "url": "https://open.spotify.com/track/6BR9SPM7tKuD7wGOkx4CYd"
-    },
-    {
-      "added_at": "2026-11-10 10:54:12",
-      "album": {
         "name": "MONSTER GIRLS",
         "url": "https://open.spotify.com/album/4v7l44G9d8Xls4O0gEYvyi"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 229333,
       "name": "\u7fe0\u3044\u30ab\u30ca\u30ea\u30a2",
       "url": "https://open.spotify.com/track/0pcnND4RErXrefEfytdlr8"
+    },
+    {
+      "added_at": "2026-11-10 10:54:12",
+      "album": {
+        "name": "Just Believe!!!",
+        "url": "https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA"
+      },
+      "artists": [
+        {
+          "name": "\u5bae\u4e0b \u611b (CV.\u6751\u4e0a\u5948\u6d25\u5b9f)",
+          "url": "https://open.spotify.com/artist/19W707ZUq5jEr0NBWCaS01"
+        }
+      ],
+      "duration_ms": 241306,
+      "name": "\u697d\u3057\u3044\u306e\u5929\u624d",
+      "url": "https://open.spotify.com/track/6BR9SPM7tKuD7wGOkx4CYd"
     },
     {
       "added_at": "2026-11-10 10:54:12",

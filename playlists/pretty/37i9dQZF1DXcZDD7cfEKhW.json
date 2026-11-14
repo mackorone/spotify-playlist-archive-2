@@ -1,6 +1,6 @@
 {
   "description": "Remixed pop and <a href=\"spotify:genre:edm_dance\">dance</a> collabs. Cover: AD\u00c9LA",
-  "num_followers": 4322878,
+  "num_followers": 4322565,
   "original_name": "Pop Remix",
   "owner": {
     "name": "Spotify",
@@ -265,26 +265,6 @@
       "url": "https://open.spotify.com/track/4Et6tUEO7biKxZEfJXpNj1"
     },
     {
-      "added_at": "2026-08-21 04:02:19",
-      "album": {
-        "name": "Bulletproof (This Time Baby) [feat. La Roux]",
-        "url": "https://open.spotify.com/album/6BlDeDwHOmkE6PerQJE1yV"
-      },
-      "artists": [
-        {
-          "name": "Ian Asher",
-          "url": "https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km"
-        },
-        {
-          "name": "La Roux",
-          "url": "https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA"
-        }
-      ],
-      "duration_ms": 158207,
-      "name": "Bulletproof (This Time Baby) [feat. La Roux]",
-      "url": "https://open.spotify.com/track/5jXj96xdtF03bTwkSYj2rT"
-    },
-    {
       "added_at": "2026-08-14 13:13:41",
       "album": {
         "name": "More Than A Woman (SG's Paradise Edit)",
@@ -303,6 +283,26 @@
       "duration_ms": 357936,
       "name": "More Than A Woman - SG's Paradise Edit",
       "url": "https://open.spotify.com/track/0L3XCv9i9IHs8cJEVhsJ3J"
+    },
+    {
+      "added_at": "2026-08-21 04:02:19",
+      "album": {
+        "name": "Bulletproof (This Time Baby) [feat. La Roux]",
+        "url": "https://open.spotify.com/album/6BlDeDwHOmkE6PerQJE1yV"
+      },
+      "artists": [
+        {
+          "name": "Ian Asher",
+          "url": "https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km"
+        },
+        {
+          "name": "La Roux",
+          "url": "https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA"
+        }
+      ],
+      "duration_ms": 158207,
+      "name": "Bulletproof (This Time Baby) [feat. La Roux]",
+      "url": "https://open.spotify.com/track/5jXj96xdtF03bTwkSYj2rT"
     },
     {
       "added_at": "2026-08-14 13:13:41",
@@ -371,26 +371,6 @@
     {
       "added_at": "2026-08-14 13:13:41",
       "album": {
-        "name": "Boston",
-        "url": "https://open.spotify.com/album/0YyIp1K8x6Mu0uFPcirwMf"
-      },
-      "artists": [
-        {
-          "name": "Ian Asher",
-          "url": "https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km"
-        },
-        {
-          "name": "STELLA LEFTY",
-          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
-        }
-      ],
-      "duration_ms": 165407,
-      "name": "Boston",
-      "url": "https://open.spotify.com/track/7fvuJP8GXsloNyoQ0iLUzv"
-    },
-    {
-      "added_at": "2026-08-14 13:13:41",
-      "album": {
         "name": "WHERE IS MY HUSBAND! (Remix)",
         "url": "https://open.spotify.com/album/0v51IyQgTnzyfKP4yBg0AC"
       },
@@ -411,6 +391,26 @@
       "duration_ms": 153768,
       "name": "WHERE IS MY HUSBAND! - Remix",
       "url": "https://open.spotify.com/track/0vYSTV1Lye2Z2zktF6P39C"
+    },
+    {
+      "added_at": "2026-08-14 13:13:41",
+      "album": {
+        "name": "Boston",
+        "url": "https://open.spotify.com/album/0YyIp1K8x6Mu0uFPcirwMf"
+      },
+      "artists": [
+        {
+          "name": "Ian Asher",
+          "url": "https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km"
+        },
+        {
+          "name": "STELLA LEFTY",
+          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
+        }
+      ],
+      "duration_ms": 165407,
+      "name": "Boston",
+      "url": "https://open.spotify.com/track/7fvuJP8GXsloNyoQ0iLUzv"
     },
     {
       "added_at": "2026-08-14 13:13:41",
@@ -811,6 +811,26 @@
     {
       "added_at": "2026-08-14 13:13:41",
       "album": {
+        "name": "Bittersweet Goodbye (Ti\u00ebsto\u2019s Hardcore Remix)",
+        "url": "https://open.spotify.com/album/3PELjYBsaayCNLTWJARJ4P"
+      },
+      "artists": [
+        {
+          "name": "Issey Cross",
+          "url": "https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 158723,
+      "name": "Bittersweet Goodbye - Ti\u00ebsto\u2019s Hardcore Remix",
+      "url": "https://open.spotify.com/track/4UWDgSvethiugRKFdbaiik"
+    },
+    {
+      "added_at": "2026-08-14 13:13:41",
+      "album": {
         "name": "Ferrari (Oliver Heldens Remix)",
         "url": "https://open.spotify.com/album/2vqDUyzavoaVR8gbe59JwY"
       },
@@ -831,26 +851,6 @@
       "duration_ms": 188640,
       "name": "Ferrari - Oliver Heldens Remix",
       "url": "https://open.spotify.com/track/0oCNRAmwLo4zHDpCKpjQtI"
-    },
-    {
-      "added_at": "2026-08-14 13:13:41",
-      "album": {
-        "name": "Bittersweet Goodbye (Ti\u00ebsto\u2019s Hardcore Remix)",
-        "url": "https://open.spotify.com/album/3PELjYBsaayCNLTWJARJ4P"
-      },
-      "artists": [
-        {
-          "name": "Issey Cross",
-          "url": "https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U"
-        },
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 158723,
-      "name": "Bittersweet Goodbye - Ti\u00ebsto\u2019s Hardcore Remix",
-      "url": "https://open.spotify.com/track/4UWDgSvethiugRKFdbaiik"
     },
     {
       "added_at": "2026-08-14 13:13:41",
@@ -1147,26 +1147,6 @@
     {
       "added_at": "2026-08-14 13:13:41",
       "album": {
-        "name": "I Just Might (Austin Millz Remix)",
-        "url": "https://open.spotify.com/album/0Nskh9VqoqUMDvyEPyuyJR"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        },
-        {
-          "name": "Austin Millz",
-          "url": "https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k"
-        }
-      ],
-      "duration_ms": 196551,
-      "name": "I Just Might - Austin Millz Remix",
-      "url": "https://open.spotify.com/track/3NFyvuSE0PnDoXgpjBEAyh"
-    },
-    {
-      "added_at": "2026-08-14 13:13:41",
-      "album": {
         "name": "Stay High",
         "url": "https://open.spotify.com/album/3E3JRB0gGzHuc56GB3hUPJ"
       },
@@ -1187,6 +1167,26 @@
       "duration_ms": 188320,
       "name": "Stay High",
       "url": "https://open.spotify.com/track/7LXimIqTYO76Utly8VFABu"
+    },
+    {
+      "added_at": "2026-08-14 13:13:41",
+      "album": {
+        "name": "I Just Might (Austin Millz Remix)",
+        "url": "https://open.spotify.com/album/0Nskh9VqoqUMDvyEPyuyJR"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        },
+        {
+          "name": "Austin Millz",
+          "url": "https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k"
+        }
+      ],
+      "duration_ms": 196551,
+      "name": "I Just Might - Austin Millz Remix",
+      "url": "https://open.spotify.com/track/3NFyvuSE0PnDoXgpjBEAyh"
     },
     {
       "added_at": "2026-08-14 13:13:41",
@@ -1497,6 +1497,26 @@
       "url": "https://open.spotify.com/track/41JiYRL2Ahnbjy0WRExDge"
     },
     {
+      "added_at": "2026-10-30 04:00:42",
+      "album": {
+        "name": "Blue Moon (The Remixes)",
+        "url": "https://open.spotify.com/album/2odXmoKfI3FRaWeX3XFQOD"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        },
+        {
+          "name": "swedm\u00ae",
+          "url": "https://open.spotify.com/artist/0JoFtJei4JUZYBqN0dk8UK"
+        }
+      ],
+      "duration_ms": 310760,
+      "name": "Blue Moon - swedm\u00ae Remix",
+      "url": "https://open.spotify.com/track/0BwrGH8nnTpBsjpPzs0ree"
+    },
+    {
       "added_at": "2026-08-14 13:13:41",
       "album": {
         "name": "Dior (with Chrystal) [David Guetta Remix]",
@@ -1519,26 +1539,6 @@
       "duration_ms": 146703,
       "name": "Dior (with Chrystal) - David Guetta Remix",
       "url": "https://open.spotify.com/track/5CboUpvvZdZRApvEVJppB3"
-    },
-    {
-      "added_at": "2026-10-30 04:00:42",
-      "album": {
-        "name": "Blue Moon (The Remixes)",
-        "url": "https://open.spotify.com/album/2odXmoKfI3FRaWeX3XFQOD"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        },
-        {
-          "name": "swedm\u00ae",
-          "url": "https://open.spotify.com/artist/0JoFtJei4JUZYBqN0dk8UK"
-        }
-      ],
-      "duration_ms": 310760,
-      "name": "Blue Moon - swedm\u00ae Remix",
-      "url": "https://open.spotify.com/track/0BwrGH8nnTpBsjpPzs0ree"
     },
     {
       "added_at": "2026-08-14 13:13:41",

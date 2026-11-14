@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Faith](https://open.spotify.com/playlist/37i9dQZF1DX82qPOvdCxxq)
 
-> The best new music from independent faith\-based artists every Wednesday! Cover: Church Friends
+> The best new music from independent faith\-based artists every Wednesday! Cover: Henry Roe
 
 1,360 songs - 3 day 3 hr 21 min
 

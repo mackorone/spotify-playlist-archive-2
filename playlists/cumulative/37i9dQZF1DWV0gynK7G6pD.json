@@ -151465,6 +151465,36 @@
     },
     {
       "album": {
+        "name": "Handel: Giulio Cesare in Egitto, HWV 17",
+        "url": "https://open.spotify.com/album/1qirXhqFkMZ5LSNh4Osfe2"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Francesco Corti",
+          "url": "https://open.spotify.com/artist/0UqPgVQCLfkuRbaqXWPkY2"
+        },
+        {
+          "name": "Il Pomo D'oro",
+          "url": "https://open.spotify.com/artist/5a3D9f58cCv9klOc1cAG9z"
+        },
+        {
+          "name": "Jakub J\u00f3zef Orli\u0144ski",
+          "url": "https://open.spotify.com/artist/5YLKYYoMNiA0VoOsSeA0Yy"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347426,
+      "name": "Handel: Giulio Cesare in Egitto, HWV 17, Act 3: Aria. \"Aure, deh, per piet\u00e0\" (Cesare)",
+      "url": "https://open.spotify.com/track/2DwfzgGDVQ3tORrcrRtZDz"
+    },
+    {
+      "album": {
         "name": "Handel: Caro! Bella! (From Giulio Cesare in Egitto, HWV 17)",
         "url": "https://open.spotify.com/album/2MsaBpl96fInkbBDXY9cec"
       },
@@ -247686,6 +247716,24 @@
       "duration_ms": 325046,
       "name": "Oiseau lunaire",
       "url": "https://open.spotify.com/track/24Pu3fyBOslvfjfZCDRz2N"
+    },
+    {
+      "album": {
+        "name": "OK by Me - A Life in Encores",
+        "url": "https://open.spotify.com/album/3wIzyVeIS8pJX21HO9CuuX"
+      },
+      "artists": [
+        {
+          "name": "Steven Osborne",
+          "url": "https://open.spotify.com/artist/23G1DjI5kQBbjOaLbUONgK"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225333,
+      "name": "OK by Me",
+      "url": "https://open.spotify.com/track/3LKGoa0m39wKbFaquVFvcD"
     },
     {
       "album": {
@@ -410181,42 +410229,6 @@
     },
     {
       "album": {
-        "name": "OK by Me - A Life in Encores",
-        "url": "https://open.spotify.com/album/3wIzyVeIS8pJX21HO9CuuX"
-      },
-      "artists": [
-        {
-          "name": "Steven Osborne",
-          "url": "https://open.spotify.com/artist/23G1DjI5kQBbjOaLbUONgK"
-        }
-      ],
-      "date_added": "2026-11-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/3LKGoa0m39wKbFaquVFvcD"
-    },
-    {
-      "album": {
-        "name": "Handel: Giulio Cesare in Egitto, HWV 17",
-        "url": "https://open.spotify.com/album/1qirXhqFkMZ5LSNh4Osfe2"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        }
-      ],
-      "date_added": "2026-11-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 67",
-      "url": "https://open.spotify.com/track/2DwfzgGDVQ3tORrcrRtZDz"
-    },
-    {
-      "album": {
         "name": "J\u00f3zsef S\u00e1ri: Piano Works",
         "url": "https://open.spotify.com/album/10z18nh3esmVCqFwb98CMS"
       },
@@ -448580,10 +448592,6 @@
         {
           "name": "Howard Shore",
           "url": "https://open.spotify.com/artist/0OcclcP5o8VKH2TRqSY2A7"
-        },
-        {
-          "name": "J.R.R. Tolkien",
-          "url": "https://open.spotify.com/artist/0miyG7OJUrfgfDi9VAqCB4"
         },
         {
           "name": "Anna Lapwood",

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 
 ### [Fresh Finds Faith](https://open.spotify.com/playlist/37i9dQZF1DX82qPOvdCxxq)
 
-> The best new music from independent faith\-based artists every Wednesday! Cover: Church Friends
+> The best new music from independent faith\-based artists every Wednesday! Cover: Henry Roe
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,806 likes - 79 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,822 likes - 79 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 | 78 | [Help Me Breathe](https://open.spotify.com/track/5kM2MqKF3qypSy4baFt7WC) | [J Arias](https://open.spotify.com/artist/12KoDb9Ns560M5AAm6gsym) | [Help Me Breathe](https://open.spotify.com/album/18tVLDx1acrcJHbHCWTZAi) | 3:33 |
 | 79 | [ALL OF IT](https://open.spotify.com/track/7G7rtpL2WIoNj7RcJnICE5) | [Kai Uriah](https://open.spotify.com/artist/6IdKInshEI8ywJ99v6gVKM) | [ALL OF IT](https://open.spotify.com/album/1KoIqzGhWplOtxgwYpkcK2) | 3:19 |
 
-Snapshot ID: `AAAAAAi179Uqp5ZD5cv5n1ssNaSqMkRI`
+Snapshot ID: `AAAAAD1wPKzlgjHzRgaZ7N3GCd5RdeRX`

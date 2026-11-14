@@ -1005,6 +1005,24 @@
     },
     {
       "album": {
+        "name": "Honeymoon",
+        "url": "https://open.spotify.com/album/5HZocqevwnLexkjpNCmG1l"
+      },
+      "artists": [
+        {
+          "name": "54 Ultra",
+          "url": "https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188229,
+      "name": "Honeymoon",
+      "url": "https://open.spotify.com/track/160wVfS6OgXxhyPkDYOhLi"
+    },
+    {
+      "album": {
         "name": "Human",
         "url": "https://open.spotify.com/album/1CG4EjCxgzgQgadPN0piBA"
       },
@@ -2256,6 +2274,24 @@
       "duration_ms": 396157,
       "name": "Thinking About You",
       "url": "https://open.spotify.com/track/7aX39T4YHNZ03NAmjc3DLr"
+    },
+    {
+      "album": {
+        "name": "Shed",
+        "url": "https://open.spotify.com/album/2MQUjLFOoYPxfcggOQPSFG"
+      },
+      "artists": [
+        {
+          "name": "Orca",
+          "url": "https://open.spotify.com/artist/3c2nSvBJwDuvmxFBKlc854"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166974,
+      "name": "Tillamook",
+      "url": "https://open.spotify.com/track/0UzMjaqRdm5SSEtPkH6dPz"
     },
     {
       "album": {

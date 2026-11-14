@@ -5436,7 +5436,7 @@
       ],
       "date_added": "2026-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 181790,
       "name": "Drip",
       "url": "https://open.spotify.com/track/5JaMKAodzzLdFM2ARRTXb9"
@@ -9024,7 +9024,7 @@
       ],
       "date_added": "2026-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-13",
+      "date_removed": null,
       "duration_ms": 216993,
       "name": "Hong Kong (feat. \u738b\u83f2\u5b63\u5019\u98a8)",
       "url": "https://open.spotify.com/track/1824ElVTa8XiWOjOlujl81"
@@ -22890,7 +22890,7 @@
       ],
       "date_added": "2026-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-13",
+      "date_removed": null,
       "duration_ms": 242733,
       "name": "\u4e0b\u8f29\u5b50",
       "url": "https://open.spotify.com/track/73Ijz3vN9KP1W5qrfNeWMI"
@@ -24058,6 +24058,24 @@
       "duration_ms": 245666,
       "name": "\u503c\u5f97\u7d00\u5ff5\u7684\u5783\u573e",
       "url": "https://open.spotify.com/track/1MnYLohwiffUWfwpnMi3m1"
+    },
+    {
+      "album": {
+        "name": "\u5357\u5317\u4e8c\u8def",
+        "url": "https://open.spotify.com/album/084VhLU9xSrfVwdxnzQAMv"
+      },
+      "artists": [
+        {
+          "name": "\u7396\u58f9\u58f9",
+          "url": "https://open.spotify.com/artist/3w8fdvgPp2aKgy125EBgVg"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180624,
+      "name": "\u505a\u4f60\u7684\u683c",
+      "url": "https://open.spotify.com/track/1aThnS8mr3Oc5fFkjBLfTR"
     },
     {
       "album": {
@@ -25454,7 +25472,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 289400,
       "name": "\u5929\u540e",
       "url": "https://open.spotify.com/track/4D0KlK4Fl8lotvsoys1bYQ"
@@ -26546,7 +26564,7 @@
       ],
       "date_added": "2026-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 197386,
       "name": "\u5de6\u8f49\u71c8 (1000 Times+1)",
       "url": "https://open.spotify.com/track/6KX7sIYgW6bk2hwlcYm6fO"
@@ -27502,7 +27520,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-06",
+      "date_removed": null,
       "duration_ms": 284466,
       "name": "\u611b\u6211\u5225\u8d70",
       "url": "https://open.spotify.com/track/2fc2vUA5H3mTAr9rQoBDKt"
@@ -27542,7 +27560,7 @@
       ],
       "date_added": "2024-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 292666,
       "name": "\u611b\u6211\u9084\u662f\u4ed6",
       "url": "https://open.spotify.com/track/13bw75oRjvxMv9VGIeM32i"
@@ -28722,7 +28740,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 238133,
       "name": "\u64f1\u6dfa",
       "url": "https://open.spotify.com/track/0cOMncRq4cmDLO4tPQnkBF"
@@ -28740,7 +28758,7 @@
       ],
       "date_added": "2024-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-10",
+      "date_removed": null,
       "duration_ms": 238133,
       "name": "\u64f1\u6dfa",
       "url": "https://open.spotify.com/track/56mzU03ZesV0iRroHR2K04"
@@ -28992,7 +29010,7 @@
       ],
       "date_added": "2024-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-10",
+      "date_removed": null,
       "duration_ms": 269746,
       "name": "\u6674\u5929",
       "url": "https://open.spotify.com/track/2zjo2j5j3S0Nk21LKCgc8L"
@@ -29010,7 +29028,7 @@
       ],
       "date_added": "2024-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 269746,
       "name": "\u6674\u5929",
       "url": "https://open.spotify.com/track/5pIcwtJYNJx93l420oR2Vm"

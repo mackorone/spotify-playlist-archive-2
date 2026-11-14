@@ -133,8 +133,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFM8W7LTsCrZx.md) - [plain]
 | 123 | [Neugeboren](https://open.spotify.com/track/5dEyNcW0ZpuczLSsge7KDo) | [Boondawg](https://open.spotify.com/artist/46RrxZVxLkgEbraenPAmbz) | [Say Less \(Bonus\)](https://open.spotify.com/album/14S5zqF3K8R0XX15aKEXoV) | 3:33 |
 | 124 | [$horty skit](https://open.spotify.com/track/76rR9qYDP4URqNADQMR0Pg) | [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF) | [44 ME](https://open.spotify.com/album/0zKLi0wo0t1F2jWJ3fgQsm) | 0:40 |
 | 125 | [prelude rich bitch](https://open.spotify.com/track/3du0roc5SYpqGzxMJCzxUE) | [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF) | [44 ME](https://open.spotify.com/album/0zKLi0wo0t1F2jWJ3fgQsm) | 0:31 |
-| 126 | [DU BIST](https://open.spotify.com/track/4YIHEP52AVXgzxpDzwaQqT) | [Mathea](https://open.spotify.com/artist/3r5Kc95Oz8lDc8BL9ChO7n) | [DU BIST](https://open.spotify.com/album/3aUs4NkHYXsMUP5i0eqOW8) | 2:37 |
-| 127 | [premium outro](https://open.spotify.com/track/71sUd2pvKNxpDteulxtgcC) | [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF) | [44 ME](https://open.spotify.com/album/0zKLi0wo0t1F2jWJ3fgQsm) | 0:45 |
+| 126 | [premium outro](https://open.spotify.com/track/71sUd2pvKNxpDteulxtgcC) | [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF) | [44 ME](https://open.spotify.com/album/0zKLi0wo0t1F2jWJ3fgQsm) | 0:45 |
+| 127 | [DU BIST](https://open.spotify.com/track/4YIHEP52AVXgzxpDzwaQqT) | [Mathea](https://open.spotify.com/artist/3r5Kc95Oz8lDc8BL9ChO7n) | [DU BIST](https://open.spotify.com/album/3aUs4NkHYXsMUP5i0eqOW8) | 2:37 |
 | 128 | [prelude komm näher](https://open.spotify.com/track/2NjDjsLx26IeQWZtXbmT7L) | [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF) | [44 ME](https://open.spotify.com/album/0zKLi0wo0t1F2jWJ3fgQsm) | 0:53 |
 | 129 | [INTERLUDE](https://open.spotify.com/track/0b5pVfha6s9naqBeZUJnjB) | [Boondawg](https://open.spotify.com/artist/46RrxZVxLkgEbraenPAmbz) | [DONT TRY THIS AT HOME](https://open.spotify.com/album/34Px3Z7ut9gBJhCsDsasJE) | 2:25 |
 | 130 | [so ist life](https://open.spotify.com/track/1H8gdQpKDFHvJNS4kw9U20) | [Stoopid Lou](https://open.spotify.com/artist/3Cz2lOY9tNQ4hEraVbTFXi), [SWEETBOYBLONDEY](https://open.spotify.com/artist/5PKNAQEEXyfYEmteXrSCGI) | [so ist life](https://open.spotify.com/album/38WeIcCo0Mrde5y3dVgyMk) | 1:57 |
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFM8W7LTsCrZx.md) - [plain]
 | 144 | [prelude german dream](https://open.spotify.com/track/01evqoqXak7CRQfusYyKff) | [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF) | [44 ME](https://open.spotify.com/album/0zKLi0wo0t1F2jWJ3fgQsm) | 0:28 |
 | 145 | [prelude girls night](https://open.spotify.com/track/5ee8yJCvuureS0rSQDJywm) | [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF) | [44 ME](https://open.spotify.com/album/0zKLi0wo0t1F2jWJ3fgQsm) | 0:14 |
 
-Snapshot ID: `AchggAAAAAAZtIbxnobsFEg3O4qgFXCP`
+Snapshot ID: `AchmDAAAAADR30UBzlyIZfsRiIJci5P8`

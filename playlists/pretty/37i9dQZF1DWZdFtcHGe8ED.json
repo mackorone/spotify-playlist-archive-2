@@ -1,6 +1,6 @@
 {
   "description": "All the greatest Thrash tunes - from classics to the best new tracks. Cover: Anthrax",
-  "num_followers": 586808,
+  "num_followers": 586820,
   "original_name": "Thrashers",
   "owner": {
     "name": "Spotify",
@@ -523,18 +523,22 @@
     {
       "added_at": "2026-10-19 21:52:45",
       "album": {
-        "name": "Among The Living",
-        "url": "https://open.spotify.com/album/4Y2jEzU70sLpTCMCl6JE0t"
+        "name": "Attack Of The Killer B's",
+        "url": "https://open.spotify.com/album/6Ic0P6UAAHeyAsnvri4qXS"
       },
       "artists": [
         {
           "name": "Anthrax",
           "url": "https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP"
+        },
+        {
+          "name": "Public Enemy",
+          "url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
         }
       ],
-      "duration_ms": 341333,
-      "name": "Indians",
-      "url": "https://open.spotify.com/track/1fcyfC1KLSWVCIvALR5AxS"
+      "duration_ms": 211786,
+      "name": "Bring The Noise",
+      "url": "https://open.spotify.com/track/1p50Ir1Hm6Sa1urjaLGi7L"
     },
     {
       "added_at": "2026-10-19 21:52:45",
@@ -603,22 +607,18 @@
     {
       "added_at": "2026-10-19 21:52:45",
       "album": {
-        "name": "Attack Of The Killer B's",
-        "url": "https://open.spotify.com/album/6Ic0P6UAAHeyAsnvri4qXS"
+        "name": "Among The Living",
+        "url": "https://open.spotify.com/album/4Y2jEzU70sLpTCMCl6JE0t"
       },
       "artists": [
         {
           "name": "Anthrax",
           "url": "https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP"
-        },
-        {
-          "name": "Public Enemy",
-          "url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
         }
       ],
-      "duration_ms": 211786,
-      "name": "Bring The Noise",
-      "url": "https://open.spotify.com/track/1p50Ir1Hm6Sa1urjaLGi7L"
+      "duration_ms": 341333,
+      "name": "Indians",
+      "url": "https://open.spotify.com/track/1fcyfC1KLSWVCIvALR5AxS"
     },
     {
       "added_at": "2026-10-19 21:52:45",
@@ -895,6 +895,22 @@
     {
       "added_at": "2026-10-19 21:52:45",
       "album": {
+        "name": "Handle With Care",
+        "url": "https://open.spotify.com/album/79vmBrXaUaPS7LleUgP7HY"
+      },
+      "artists": [
+        {
+          "name": "Nuclear Assault",
+          "url": "https://open.spotify.com/artist/2iu7W76DMacXn6hzAqmJJU"
+        }
+      ],
+      "duration_ms": 198960,
+      "name": "Critical Mass",
+      "url": "https://open.spotify.com/track/4uOq76srFzt94o98QrCVRO"
+    },
+    {
+      "added_at": "2026-10-19 21:52:45",
+      "album": {
         "name": "The New Order",
         "url": "https://open.spotify.com/album/1i0xUSNR8hWBIeaDSnN569"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 271373,
       "name": "Trip at the Brain",
       "url": "https://open.spotify.com/track/4nbkJukvqC7ae4kIICjEPi"
-    },
-    {
-      "added_at": "2026-10-19 21:52:45",
-      "album": {
-        "name": "Handle With Care",
-        "url": "https://open.spotify.com/album/79vmBrXaUaPS7LleUgP7HY"
-      },
-      "artists": [
-        {
-          "name": "Nuclear Assault",
-          "url": "https://open.spotify.com/artist/2iu7W76DMacXn6hzAqmJJU"
-        }
-      ],
-      "duration_ms": 198960,
-      "name": "Critical Mass",
-      "url": "https://open.spotify.com/track/4uOq76srFzt94o98QrCVRO"
     },
     {
       "added_at": "2026-10-19 21:52:45",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2026-10-19 21:52:45",
       "album": {
-        "name": "Chemical Exposure",
-        "url": "https://open.spotify.com/album/7pWX1741ZblBq93ZAEPLQT"
-      },
-      "artists": [
-        {
-          "name": "Sadus",
-          "url": "https://open.spotify.com/artist/2J1GmSL3D47TR4TdFYs2hu"
-        }
-      ],
-      "duration_ms": 254826,
-      "name": "Certain Death",
-      "url": "https://open.spotify.com/track/6K6bdBIpKj3pL0IrA4b1Kt"
-    },
-    {
-      "added_at": "2026-10-19 21:52:45",
-      "album": {
         "name": "Game Over",
         "url": "https://open.spotify.com/album/0isrNd8l4UqHhtPDhCKsId"
       },
@@ -1279,6 +1263,22 @@
     {
       "added_at": "2026-10-19 21:52:45",
       "album": {
+        "name": "Chemical Exposure",
+        "url": "https://open.spotify.com/album/7pWX1741ZblBq93ZAEPLQT"
+      },
+      "artists": [
+        {
+          "name": "Sadus",
+          "url": "https://open.spotify.com/artist/2J1GmSL3D47TR4TdFYs2hu"
+        }
+      ],
+      "duration_ms": 254826,
+      "name": "Certain Death",
+      "url": "https://open.spotify.com/track/6K6bdBIpKj3pL0IrA4b1Kt"
+    },
+    {
+      "added_at": "2026-10-19 21:52:45",
+      "album": {
         "name": "Forbidden Evil",
         "url": "https://open.spotify.com/album/5yjZpCAc80twY03yRI0hce"
       },
@@ -1288,9 +1288,9 @@
           "url": "https://open.spotify.com/artist/5MhPZVXE28sD9rXE3GU1uN"
         }
       ],
-      "duration_ms": 272853,
-      "name": "Chalice of Blood",
-      "url": "https://open.spotify.com/track/2NnbfST2iUUUQ0ZJJWtcY0"
+      "duration_ms": 384853,
+      "name": "Through Eyes of Glass",
+      "url": "https://open.spotify.com/track/5Xwn7YmF5BRCWyBYHXqZGL"
     },
     {
       "added_at": "2026-10-19 21:52:45",
@@ -1368,9 +1368,9 @@
           "url": "https://open.spotify.com/artist/5MhPZVXE28sD9rXE3GU1uN"
         }
       ],
-      "duration_ms": 384853,
-      "name": "Through Eyes of Glass",
-      "url": "https://open.spotify.com/track/5Xwn7YmF5BRCWyBYHXqZGL"
+      "duration_ms": 272853,
+      "name": "Chalice of Blood",
+      "url": "https://open.spotify.com/track/2NnbfST2iUUUQ0ZJJWtcY0"
     },
     {
       "added_at": "2026-10-19 21:52:45",
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2026-10-19 21:52:45",
       "album": {
-        "name": "Slave Machine",
-        "url": "https://open.spotify.com/album/4dCDFxVCXddE7CCAO7RAEv"
-      },
-      "artists": [
-        {
-          "name": "Nervosa",
-          "url": "https://open.spotify.com/artist/5D9d9xyLNQu32QVD9t4YqH"
-        }
-      ],
-      "duration_ms": 233886,
-      "name": "Slave Machine",
-      "url": "https://open.spotify.com/track/5cyRVCVkVl4hU3HHF2yCVU"
-    },
-    {
-      "added_at": "2026-10-19 21:52:45",
-      "album": {
         "name": "Activate",
         "url": "https://open.spotify.com/album/0rfHDsz52JsOhrqHSosKRs"
       },
@@ -1787,6 +1771,22 @@
       "duration_ms": 210288,
       "name": "Activate",
       "url": "https://open.spotify.com/track/6K4sl3JE7oeuUhDJvy9ku3"
+    },
+    {
+      "added_at": "2026-10-19 21:52:45",
+      "album": {
+        "name": "Slave Machine",
+        "url": "https://open.spotify.com/album/4dCDFxVCXddE7CCAO7RAEv"
+      },
+      "artists": [
+        {
+          "name": "Nervosa",
+          "url": "https://open.spotify.com/artist/5D9d9xyLNQu32QVD9t4YqH"
+        }
+      ],
+      "duration_ms": 233886,
+      "name": "Slave Machine",
+      "url": "https://open.spotify.com/track/5cyRVCVkVl4hU3HHF2yCVU"
     },
     {
       "added_at": "2026-10-19 21:52:45",
@@ -2203,22 +2203,6 @@
     {
       "added_at": "2026-10-19 21:52:45",
       "album": {
-        "name": "Diabolical",
-        "url": "https://open.spotify.com/album/13bxe7kV1ThWrgULOtBOAx"
-      },
-      "artists": [
-        {
-          "name": "Destruction",
-          "url": "https://open.spotify.com/artist/5d6KI8frPEo3qGsIL8Sak2"
-        }
-      ],
-      "duration_ms": 249159,
-      "name": "Diabolical",
-      "url": "https://open.spotify.com/track/1NMJOg7jOnXkXlKUKSETtZ"
-    },
-    {
-      "added_at": "2026-10-19 21:52:45",
-      "album": {
         "name": "Ascension",
         "url": "https://open.spotify.com/album/3HkxiSSIxRaT5HaIFR9NDN"
       },
@@ -2231,6 +2215,22 @@
       "duration_ms": 341804,
       "name": "Awakening",
       "url": "https://open.spotify.com/track/1VJDR7IYmHkHpgiw6txEFI"
+    },
+    {
+      "added_at": "2026-10-19 21:52:45",
+      "album": {
+        "name": "Diabolical",
+        "url": "https://open.spotify.com/album/13bxe7kV1ThWrgULOtBOAx"
+      },
+      "artists": [
+        {
+          "name": "Destruction",
+          "url": "https://open.spotify.com/artist/5d6KI8frPEo3qGsIL8Sak2"
+        }
+      ],
+      "duration_ms": 249159,
+      "name": "Diabolical",
+      "url": "https://open.spotify.com/track/1NMJOg7jOnXkXlKUKSETtZ"
     },
     {
       "added_at": "2026-10-19 21:52:45",
@@ -2411,22 +2411,6 @@
     {
       "added_at": "2026-10-19 21:52:45",
       "album": {
-        "name": "Renewal",
-        "url": "https://open.spotify.com/album/7erRumRzCic3S7fkI8IiMP"
-      },
-      "artists": [
-        {
-          "name": "Coroner",
-          "url": "https://open.spotify.com/artist/7lfdXL6PuTM5iWJNvI7PPV"
-        }
-      ],
-      "duration_ms": 321706,
-      "name": "Renewal",
-      "url": "https://open.spotify.com/track/1S0AbOPzmLwUXtyv2Czq3z"
-    },
-    {
-      "added_at": "2026-10-19 21:52:45",
-      "album": {
         "name": "Dear Diary",
         "url": "https://open.spotify.com/album/1TyE20y8uKLbd6cPPjaeZj"
       },
@@ -2439,6 +2423,22 @@
       "duration_ms": 156702,
       "name": "Dear Diary",
       "url": "https://open.spotify.com/track/21zfxfNLaNqQuGX0MSwvh7"
+    },
+    {
+      "added_at": "2026-10-19 21:52:45",
+      "album": {
+        "name": "Renewal",
+        "url": "https://open.spotify.com/album/7erRumRzCic3S7fkI8IiMP"
+      },
+      "artists": [
+        {
+          "name": "Coroner",
+          "url": "https://open.spotify.com/artist/7lfdXL6PuTM5iWJNvI7PPV"
+        }
+      ],
+      "duration_ms": 321706,
+      "name": "Renewal",
+      "url": "https://open.spotify.com/track/1S0AbOPzmLwUXtyv2Czq3z"
     },
     {
       "added_at": "2026-10-19 21:52:45",
@@ -2555,6 +2555,22 @@
     {
       "added_at": "2026-10-19 21:52:45",
       "album": {
+        "name": "Witchhunter",
+        "url": "https://open.spotify.com/album/3q5rsWlCgNVijvttFxyVS2"
+      },
+      "artists": [
+        {
+          "name": "Sodom",
+          "url": "https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM"
+        }
+      ],
+      "duration_ms": 193345,
+      "name": "Witchhunter",
+      "url": "https://open.spotify.com/track/3TwPSVjOCFJaYKAjY433NX"
+    },
+    {
+      "added_at": "2026-10-19 21:52:45",
+      "album": {
         "name": "Freedom",
         "url": "https://open.spotify.com/album/5A1PP7qT0HqxEFAl97mrEM"
       },
@@ -2583,22 +2599,6 @@
       "duration_ms": 183208,
       "name": "Non-Existent",
       "url": "https://open.spotify.com/track/4sMGh1NvsGiJs2yfYLbI2d"
-    },
-    {
-      "added_at": "2026-10-19 21:52:45",
-      "album": {
-        "name": "Witchhunter",
-        "url": "https://open.spotify.com/album/3q5rsWlCgNVijvttFxyVS2"
-      },
-      "artists": [
-        {
-          "name": "Sodom",
-          "url": "https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM"
-        }
-      ],
-      "duration_ms": 193345,
-      "name": "Witchhunter",
-      "url": "https://open.spotify.com/track/3TwPSVjOCFJaYKAjY433NX"
     },
     {
       "added_at": "2026-10-19 21:52:45",
@@ -2635,18 +2635,18 @@
     {
       "added_at": "2026-10-19 21:52:45",
       "album": {
-        "name": "Bow Down To the Clowns",
-        "url": "https://open.spotify.com/album/3CeajsMj209XmQSWgdzPJ1"
+        "name": "Sodom & Gomorrah",
+        "url": "https://open.spotify.com/album/4C1zs0n33qMNPMiXN8Fy70"
       },
       "artists": [
         {
-          "name": "Onslaught",
-          "url": "https://open.spotify.com/artist/71lhIVHJ24x9hEcwFSWuOf"
+          "name": "Sodom",
+          "url": "https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM"
         }
       ],
-      "duration_ms": 290600,
-      "name": "Bow Down To the Clowns",
-      "url": "https://open.spotify.com/track/5kpeEEIRD13CzU8ZSTdJPy"
+      "duration_ms": 246226,
+      "name": "Sodom & Gomorrah",
+      "url": "https://open.spotify.com/track/3uPYITcnVb9RZ7d8aKMV3r"
     },
     {
       "added_at": "2026-10-19 21:52:45",
@@ -2667,18 +2667,18 @@
     {
       "added_at": "2026-10-19 21:52:45",
       "album": {
-        "name": "Sodom & Gomorrah",
-        "url": "https://open.spotify.com/album/4C1zs0n33qMNPMiXN8Fy70"
+        "name": "Bow Down To the Clowns",
+        "url": "https://open.spotify.com/album/3CeajsMj209XmQSWgdzPJ1"
       },
       "artists": [
         {
-          "name": "Sodom",
-          "url": "https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM"
+          "name": "Onslaught",
+          "url": "https://open.spotify.com/artist/71lhIVHJ24x9hEcwFSWuOf"
         }
       ],
-      "duration_ms": 246226,
-      "name": "Sodom & Gomorrah",
-      "url": "https://open.spotify.com/track/3uPYITcnVb9RZ7d8aKMV3r"
+      "duration_ms": 290600,
+      "name": "Bow Down To the Clowns",
+      "url": "https://open.spotify.com/track/5kpeEEIRD13CzU8ZSTdJPy"
     },
     {
       "added_at": "2026-10-19 21:52:45",
@@ -2731,22 +2731,6 @@
     {
       "added_at": "2026-10-19 21:52:45",
       "album": {
-        "name": "Seven Serpents",
-        "url": "https://open.spotify.com/album/5Fa32KpztTDuW2wuq30LRX"
-      },
-      "artists": [
-        {
-          "name": "Kreator",
-          "url": "https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv"
-        }
-      ],
-      "duration_ms": 279533,
-      "name": "Seven Serpents",
-      "url": "https://open.spotify.com/track/0Ymzr5Fo4i10IaUQz5R0eO"
-    },
-    {
-      "added_at": "2026-10-19 21:52:45",
-      "album": {
         "name": "BATS",
         "url": "https://open.spotify.com/album/2AChbUajQYVEq5lntoghx3"
       },
@@ -2783,6 +2767,22 @@
     {
       "added_at": "2026-10-19 21:52:45",
       "album": {
+        "name": "Seven Serpents",
+        "url": "https://open.spotify.com/album/5Fa32KpztTDuW2wuq30LRX"
+      },
+      "artists": [
+        {
+          "name": "Kreator",
+          "url": "https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv"
+        }
+      ],
+      "duration_ms": 279533,
+      "name": "Seven Serpents",
+      "url": "https://open.spotify.com/track/0Ymzr5Fo4i10IaUQz5R0eO"
+    },
+    {
+      "added_at": "2026-10-19 21:52:45",
+      "album": {
         "name": "Bleeding Out",
         "url": "https://open.spotify.com/album/5t1gUgN4mYBojZTxRQyCEO"
       },
@@ -2795,22 +2795,6 @@
       "duration_ms": 273989,
       "name": "Bleeding Out",
       "url": "https://open.spotify.com/track/43leqVDeli1HgybvpX93GG"
-    },
-    {
-      "added_at": "2026-10-19 21:52:45",
-      "album": {
-        "name": "The Great Circus Train Disaster",
-        "url": "https://open.spotify.com/album/3bJLcSlhljE9IXFrL07omY"
-      },
-      "artists": [
-        {
-          "name": "Gwar",
-          "url": "https://open.spotify.com/artist/3dnH7fdVm2X07MK6Fkbhbt"
-        }
-      ],
-      "duration_ms": 223287,
-      "name": "The Great Circus Train Disaster",
-      "url": "https://open.spotify.com/track/5J9D4u13vrQldUYmbZInY3"
     },
     {
       "added_at": "2026-10-19 21:52:45",
@@ -2831,6 +2815,22 @@
     {
       "added_at": "2026-10-19 21:52:45",
       "album": {
+        "name": "The Great Circus Train Disaster",
+        "url": "https://open.spotify.com/album/3bJLcSlhljE9IXFrL07omY"
+      },
+      "artists": [
+        {
+          "name": "Gwar",
+          "url": "https://open.spotify.com/artist/3dnH7fdVm2X07MK6Fkbhbt"
+        }
+      ],
+      "duration_ms": 223287,
+      "name": "The Great Circus Train Disaster",
+      "url": "https://open.spotify.com/track/5J9D4u13vrQldUYmbZInY3"
+    },
+    {
+      "added_at": "2026-10-19 21:52:45",
+      "album": {
         "name": "The Force (Remastered 2011)",
         "url": "https://open.spotify.com/album/2Nmnn3tJN1icXiWGiAc6KZ"
       },
@@ -2843,6 +2843,22 @@
       "duration_ms": 396813,
       "name": "Metal Forces - Remastered 2011",
       "url": "https://open.spotify.com/track/4Y7jDyDnl0xJHHhFNXUFgB"
+    },
+    {
+      "added_at": "2026-10-19 21:52:45",
+      "album": {
+        "name": "Recycled Hate",
+        "url": "https://open.spotify.com/album/4i8j5yuwU0ytacVJnUujp7"
+      },
+      "artists": [
+        {
+          "name": "Inhuman Condition",
+          "url": "https://open.spotify.com/artist/3unugXDIgyLGDkorSoRTfm"
+        }
+      ],
+      "duration_ms": 205541,
+      "name": "Recycled Hate",
+      "url": "https://open.spotify.com/track/35a7t2h5N2ewK9r18l8S0k"
     },
     {
       "added_at": "2026-10-19 21:52:45",
@@ -2895,22 +2911,6 @@
     {
       "added_at": "2026-10-19 21:52:45",
       "album": {
-        "name": "Recycled Hate",
-        "url": "https://open.spotify.com/album/4i8j5yuwU0ytacVJnUujp7"
-      },
-      "artists": [
-        {
-          "name": "Inhuman Condition",
-          "url": "https://open.spotify.com/artist/3unugXDIgyLGDkorSoRTfm"
-        }
-      ],
-      "duration_ms": 205541,
-      "name": "Recycled Hate",
-      "url": "https://open.spotify.com/track/35a7t2h5N2ewK9r18l8S0k"
-    },
-    {
-      "added_at": "2026-10-19 21:52:45",
-      "album": {
         "name": "Prove Them Wrong",
         "url": "https://open.spotify.com/album/7rqwoZ4g2cBEAnAyEYUbE7"
       },
@@ -2927,22 +2927,6 @@
     {
       "added_at": "2026-10-19 21:52:45",
       "album": {
-        "name": "A Bitter Pill",
-        "url": "https://open.spotify.com/album/3DUNliOEQRkUeoqqt0Ccsr"
-      },
-      "artists": [
-        {
-          "name": "Razor",
-          "url": "https://open.spotify.com/artist/4jvgoG685KIVaPYwqVF60B"
-        }
-      ],
-      "duration_ms": 167191,
-      "name": "A Bitter Pill",
-      "url": "https://open.spotify.com/track/1g5ld3pVVYEdBVre03vdRb"
-    },
-    {
-      "added_at": "2026-10-19 21:52:45",
-      "album": {
         "name": "Casket",
         "url": "https://open.spotify.com/album/2LxTOI2LPiX0wvhwbbVNyS"
       },
@@ -2955,6 +2939,22 @@
       "duration_ms": 113870,
       "name": "Casket",
       "url": "https://open.spotify.com/track/70sPsaQWdRZGbSyaOkkDIo"
+    },
+    {
+      "added_at": "2026-10-19 21:52:45",
+      "album": {
+        "name": "A Bitter Pill",
+        "url": "https://open.spotify.com/album/3DUNliOEQRkUeoqqt0Ccsr"
+      },
+      "artists": [
+        {
+          "name": "Razor",
+          "url": "https://open.spotify.com/artist/4jvgoG685KIVaPYwqVF60B"
+        }
+      ],
+      "duration_ms": 167191,
+      "name": "A Bitter Pill",
+      "url": "https://open.spotify.com/track/1g5ld3pVVYEdBVre03vdRb"
     },
     {
       "added_at": "2026-10-19 21:52:45",
@@ -3123,22 +3123,6 @@
     {
       "added_at": "2026-10-19 21:52:45",
       "album": {
-        "name": "Satanic Anarchy",
-        "url": "https://open.spotify.com/album/28JXUCxtf9uAdkponjtqC3"
-      },
-      "artists": [
-        {
-          "name": "Kreator",
-          "url": "https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv"
-        }
-      ],
-      "duration_ms": 213253,
-      "name": "Satanic Anarchy",
-      "url": "https://open.spotify.com/track/5DBq7GYcLnQLkNQMzKb5mN"
-    },
-    {
-      "added_at": "2026-10-19 21:52:45",
-      "album": {
         "name": "Fuel the Fire",
         "url": "https://open.spotify.com/album/2S93hqoq2uVn0yfihm5NIi"
       },
@@ -3159,6 +3143,22 @@
       "duration_ms": 296157,
       "name": "Fuel the Fire",
       "url": "https://open.spotify.com/track/0buwvmO1V7DoStjJF9KJbI"
+    },
+    {
+      "added_at": "2026-10-19 21:52:45",
+      "album": {
+        "name": "Satanic Anarchy",
+        "url": "https://open.spotify.com/album/28JXUCxtf9uAdkponjtqC3"
+      },
+      "artists": [
+        {
+          "name": "Kreator",
+          "url": "https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv"
+        }
+      ],
+      "duration_ms": 213253,
+      "name": "Satanic Anarchy",
+      "url": "https://open.spotify.com/track/5DBq7GYcLnQLkNQMzKb5mN"
     },
     {
       "added_at": "2026-10-19 21:52:45",
@@ -3219,22 +3219,6 @@
     {
       "added_at": "2026-10-19 21:52:45",
       "album": {
-        "name": "Lower Form Resistance",
-        "url": "https://open.spotify.com/album/5yQ864wWm1U7CsVbULs6KJ"
-      },
-      "artists": [
-        {
-          "name": "Dissimulator",
-          "url": "https://open.spotify.com/artist/3xT1argeiTgkrMAtznyaAf"
-        }
-      ],
-      "duration_ms": 216653,
-      "name": "Neural Hack",
-      "url": "https://open.spotify.com/track/3FiOkmDcuCdi6UPzpHklRF"
-    },
-    {
-      "added_at": "2026-10-19 21:52:45",
-      "album": {
         "name": "Under No Illusions",
         "url": "https://open.spotify.com/album/7fZzlt7IIm4EHWWOorQ3Im"
       },
@@ -3263,6 +3247,22 @@
       "duration_ms": 314613,
       "name": "Implosion of the Sun",
       "url": "https://open.spotify.com/track/60Ywfl0cCvIK4fMoSl0Wci"
+    },
+    {
+      "added_at": "2026-10-19 21:52:45",
+      "album": {
+        "name": "Malicious Souls",
+        "url": "https://open.spotify.com/album/6AIAuIzz1IidgUVMPHOsmS"
+      },
+      "artists": [
+        {
+          "name": "Vulture",
+          "url": "https://open.spotify.com/artist/1CT8OXcMKm9zlFcSX74tFF"
+        }
+      ],
+      "duration_ms": 197933,
+      "name": "Malicious Souls",
+      "url": "https://open.spotify.com/track/5mipERxPGdO9j46zfghXB4"
     }
   ],
   "unique_name": "Thrashers",

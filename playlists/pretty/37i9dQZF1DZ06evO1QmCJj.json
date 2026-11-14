@@ -1,12 +1,12 @@
 {
   "description": "This is Lola Indigo. The essential tracks, all in one playlist.",
-  "num_followers": 49010,
+  "num_followers": 49015,
   "original_name": "This Is Lola Indigo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avOwAAAAAAAnREmNCVFk2yJLbFIUG18b",
+  "snapshot_id": "avUBgAAAAAD+xrhzMNOhpznC4K9SDi8Y",
   "tracks": [
     {
       "added_at": null,
@@ -51,26 +51,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "K de Karma",
-        "url": "https://open.spotify.com/album/67Amfz9H8W7fi35u8Cn7zc"
-      },
-      "artists": [
-        {
-          "name": "Kenia Os",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        },
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        }
-      ],
-      "duration_ms": 181933,
-      "name": "Fifty Fifty",
-      "url": "https://open.spotify.com/track/1gMrWve44Y9plqq2i0aK18"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Ni\u00f1a",
         "url": "https://open.spotify.com/album/1hFRQRNjiMSWgH5xyEiVme"
       },
@@ -95,30 +75,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "M.A (Remix)",
-        "url": "https://open.spotify.com/album/3iggaiQChBAIIfQP8ZH2bR"
+        "name": "K de Karma",
+        "url": "https://open.spotify.com/album/67Amfz9H8W7fi35u8Cn7zc"
       },
       "artists": [
         {
-          "name": "BM",
-          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
-        },
-        {
-          "name": "Callejero Fino",
-          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
-        },
-        {
-          "name": "La Joaqui",
-          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
         },
         {
           "name": "Lola Indigo",
           "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
         }
       ],
-      "duration_ms": 272727,
-      "name": "M.A - Remix",
-      "url": "https://open.spotify.com/track/7JB29gnUowzSGRdIpeVqRQ"
+      "duration_ms": 181933,
+      "name": "Fifty Fifty",
+      "url": "https://open.spotify.com/track/1gMrWve44Y9plqq2i0aK18"
     },
     {
       "added_at": null,
@@ -147,6 +119,34 @@
       "duration_ms": 235150,
       "name": "TUS INICIALES",
       "url": "https://open.spotify.com/track/3odYzp9kA4Iai3eEuLi0v3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "M.A (Remix)",
+        "url": "https://open.spotify.com/album/3iggaiQChBAIIfQP8ZH2bR"
+      },
+      "artists": [
+        {
+          "name": "BM",
+          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
+        },
+        {
+          "name": "Callejero Fino",
+          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
+        },
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        },
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        }
+      ],
+      "duration_ms": 272727,
+      "name": "M.A - Remix",
+      "url": "https://open.spotify.com/track/7JB29gnUowzSGRdIpeVqRQ"
     },
     {
       "added_at": null,
@@ -467,26 +467,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Caramello",
-        "url": "https://open.spotify.com/album/3b1ZGAlTG0Dn81o1D4I8Fn"
+        "name": "SUPERPOP",
+        "url": "https://open.spotify.com/album/4Qdq0j2UNhLId7hHVBPgSH"
       },
       "artists": [
         {
-          "name": "Rocco Hunt",
-          "url": "https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG"
-        },
-        {
-          "name": "Elettra Lamborghini",
-          "url": "https://open.spotify.com/artist/3o7fC2O4nraaicpID6bBZW"
+          "name": "Bel\u00e9n Aguilera",
+          "url": "https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp"
         },
         {
           "name": "Lola Indigo",
           "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
         }
       ],
-      "duration_ms": 197760,
-      "name": "Caramello",
-      "url": "https://open.spotify.com/track/6O1rGDWqL1pgp7H59G2q80"
+      "duration_ms": 172632,
+      "name": "LA TIRITA",
+      "url": "https://open.spotify.com/track/63sYEorZidLgvYjQFpmDxL"
     },
     {
       "added_at": null,
@@ -511,22 +507,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "SUPERPOP",
-        "url": "https://open.spotify.com/album/4Qdq0j2UNhLId7hHVBPgSH"
+        "name": "Caramello",
+        "url": "https://open.spotify.com/album/3b1ZGAlTG0Dn81o1D4I8Fn"
       },
       "artists": [
         {
-          "name": "Bel\u00e9n Aguilera",
-          "url": "https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp"
+          "name": "Rocco Hunt",
+          "url": "https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG"
+        },
+        {
+          "name": "Elettra Lamborghini",
+          "url": "https://open.spotify.com/artist/3o7fC2O4nraaicpID6bBZW"
         },
         {
           "name": "Lola Indigo",
           "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
         }
       ],
-      "duration_ms": 172632,
-      "name": "LA TIRITA",
-      "url": "https://open.spotify.com/track/63sYEorZidLgvYjQFpmDxL"
+      "duration_ms": 197760,
+      "name": "Caramello",
+      "url": "https://open.spotify.com/track/6O1rGDWqL1pgp7H59G2q80"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Whitney Houston. The essential tracks, all in one playlist.",
-  "num_followers": 645570,
+  "num_followers": 645593,
   "original_name": "This Is Whitney Houston",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avOwAAAAAACh1DJdozZBulA2u0rrSSaD",
+  "snapshot_id": "avUBgAAAAABJ74gaFf9zg/dVJRenFKWy",
   "tracks": [
     {
       "added_at": null,
@@ -59,18 +59,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "WH1TNEY (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5oZSy2zZib2jGqJ8mQuzrv"
+        "name": "Golden Hour",
+        "url": "https://open.spotify.com/album/7tcs1X9pzFvcLOPuhCstQJ"
       },
       "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
         {
           "name": "Whitney Houston",
           "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
         }
       ],
-      "duration_ms": 285068,
-      "name": "One Moment in Time",
-      "url": "https://open.spotify.com/track/6d30d0YLOCD36t9Jrdcy0S"
+      "duration_ms": 228267,
+      "name": "Higher Love",
+      "url": "https://open.spotify.com/track/1kKYjjfNYxE0YYgLa7vgVY"
     },
     {
       "added_at": null,
@@ -123,22 +127,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Golden Hour",
-        "url": "https://open.spotify.com/album/7tcs1X9pzFvcLOPuhCstQJ"
+        "name": "WH1TNEY (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5oZSy2zZib2jGqJ8mQuzrv"
       },
       "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
         {
           "name": "Whitney Houston",
           "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
         }
       ],
-      "duration_ms": 228267,
-      "name": "Higher Love",
-      "url": "https://open.spotify.com/track/1kKYjjfNYxE0YYgLa7vgVY"
+      "duration_ms": 285068,
+      "name": "One Moment in Time",
+      "url": "https://open.spotify.com/track/6d30d0YLOCD36t9Jrdcy0S"
     },
     {
       "added_at": null,

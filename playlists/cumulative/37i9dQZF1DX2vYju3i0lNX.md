@@ -4,7 +4,7 @@
 
 > Mellow jazz for focus or unwinding.
 
-1,413 songs - 3 day 10 hr 59 min
+1,415 songs - 3 day 11 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1010,6 +1010,7 @@
 | [Shadows](https://open.spotify.com/track/08WnE2pJN9r7WirMgSFlJf) | [Herman Fred Trio](https://open.spotify.com/artist/1sTe1YB89lKzCmOju2ipvk) | [Shadows](https://open.spotify.com/album/6F1iyLE5hOfOxYLBP0PUmZ) | 3:36 | 2023-01-19 | 2023-04-21 |
 | [Shadows of Yesterday's Love](https://open.spotify.com/track/7C8S8C0QkRz4uxDsQILZU1) | [Eltingvilles](https://open.spotify.com/artist/7qYYtUCPSVXspwRs4wiQ9R) | [Shadows of Yesterday's Love](https://open.spotify.com/album/28305LMSGEhjhJahNqWJc7) | 3:42 | 2024-07-01 | 2025-11-19 |
 | [Shadows of You](https://open.spotify.com/track/75iWzL2HCo4ckYySYIhkar) | [Sverrir Audland](https://open.spotify.com/artist/62pUUDqEOmiAntBGGKLs6T) | [Shadows of You](https://open.spotify.com/album/2Zk67mWiPQQQiXqhTA95i5) | 3:22 | 2024-02-02 | 2025-11-19 |
+| [Shared Distance](https://open.spotify.com/track/3D8wrRXQdI1EafUs3aw8aY) | [Stillmark Trio](https://open.spotify.com/artist/1YsrG0cZariUSSIKLUrKGL) | [Shared Distance](https://open.spotify.com/album/1z6qURf2Ogjo7Lbu3ak6lQ) | 2:31 | 2026-11-13 |  |
 | [She Skirts Away](https://open.spotify.com/track/3i9V8CjDubH1ZFDKWJFzYP) | [The Uptown Players](https://open.spotify.com/artist/1S2Mr3FmzAs8p9Wl0xHEe2) | [She Skirts Away](https://open.spotify.com/album/3C88Osqdhy7MjzcUsM5bW8) | 3:19 | 2023-06-15 | 2025-02-04 |
 | [She's A Class Act](https://open.spotify.com/track/7L8qE08pnMxr4JvvtYJxis) | [Odo Lefebvre](https://open.spotify.com/artist/7lLtsVLpDbuhSvr5UE6HIU) | [She's A Class Act](https://open.spotify.com/album/0MpvWeiSTn4OERhT97V4sw) | 3:37 | 2023-02-02 | 2024-05-11 |
 | [She's Funny That Way](https://open.spotify.com/track/4fn0kfdUbc5LlAjTwG4RX4) | [Tonic and their Time](https://open.spotify.com/artist/4f9dZJd9mswxGvKKoTJSZT) | [She's Funny That Way](https://open.spotify.com/album/0BSvGhV8CykM0MenOFaZtA) | 3:46 | 2023-04-13 | 2026-01-27 |
@@ -1363,6 +1364,7 @@
 | [Where the light remains](https://open.spotify.com/track/2uKb3Q2OfbfHMI8dtVXWnP) | [Tannenbaum Trio](https://open.spotify.com/artist/5o0nK5sGCqA1E4MTOCgpSn) | [Where the light remains](https://open.spotify.com/album/3buNHdihVOzlNHjR1ahl95) | 2:54 | 2026-10-05 |  |
 | [Where Two Oceans Meet](https://open.spotify.com/track/6zYKe47ZWgbHRdwUUr52TJ) | [North West Trio](https://open.spotify.com/artist/6xEHf5bkAwi6XDbFwRwUpa) | [Where Two Oceans Meet](https://open.spotify.com/album/3EMRqLCAtf4AviavLTrQlw) | 3:13 | 2023-08-10 | 2024-12-04 |
 | [Whereabouts](https://open.spotify.com/track/3Rdu91Lo2IV8DGtRxDGLUW) | [Carlton Maison Quartet](https://open.spotify.com/artist/0Tq1tUZV3Vw3CUvNwIjxpm) | [Whereabouts](https://open.spotify.com/album/741MymriPlO7PoJwbbjQ57) | 4:19 | 2023-04-27 | 2025-05-06 |
+| [Wherever You Go](https://open.spotify.com/track/0i1L8rBJ9xqENH4rrkUT1E) | [Stefan Scholz](https://open.spotify.com/artist/4VmbEmPe7idiK1hjtCODVy) | [Wherever You Go](https://open.spotify.com/album/65nMxsygt02wcuDI0CQdWo) | 3:18 | 2026-11-13 |  |
 | [Whispered Longing](https://open.spotify.com/track/6lvJHY1xHZNkbEYMvpYoOp) | [Shay Walsh](https://open.spotify.com/artist/3k192xFg0O2XEadJQZJ10N) | [Whispered Longing](https://open.spotify.com/album/6ftoPFE6hqUw9fVRbmB6TF) | 3:12 | 2024-02-02 | 2026-05-09 |
 | [Whispering Skies](https://open.spotify.com/track/1paocj4BrXXNPAuCBXUYwB) | [Douglas Ruby Trio](https://open.spotify.com/artist/1viVBXkZrTMnLT6hsFhiMM) | [Whispering Skies](https://open.spotify.com/album/2y9gWuPjoSrvNrWDOFb3aH) | 3:26 | 2023-08-24 | 2025-11-19 |
 | [Whispers in the Wind](https://open.spotify.com/track/0hTDk7Iv9ippGuYXrPF1Q3) | [The Velvet Chords](https://open.spotify.com/artist/5vQv6osGja4opdIuGMTguW) | [Whispers in the Wind](https://open.spotify.com/album/1ad3mnNxGDgigt8qMTcyfX) | 2:29 | 2025-10-07 |  |

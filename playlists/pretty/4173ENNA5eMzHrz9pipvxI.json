@@ -1,12 +1,12 @@
 {
-  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Mode\u0101 ",
-  "num_followers": 117504,
+  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Lavern",
+  "num_followers": 117499,
   "original_name": "Spinnin' Records Brand New",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAiL8iVvgYUVEsX0GIbkFB3dDmxZWsk",
+  "snapshot_id": "AAAiNPbhliQ4a0IM+YLDyl1AL+MzRieb",
   "tracks": [
     {
       "added_at": "2026-11-12 23:00:08",
@@ -31,6 +31,26 @@
       "duration_ms": 176387,
       "name": "Smoke & Lazers",
       "url": "https://open.spotify.com/track/0FRhp8czW9og1Y4hs2AMkx"
+    },
+    {
+      "added_at": "2026-11-13 08:40:32",
+      "album": {
+        "name": "Street Player (ESSED Remix)",
+        "url": "https://open.spotify.com/album/37CzrYJyaaz8fX7na5kyVo"
+      },
+      "artists": [
+        {
+          "name": "Chicago",
+          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
+        },
+        {
+          "name": "ESSED",
+          "url": "https://open.spotify.com/artist/2OIFoELOhUQ0FJF4H2Qrlo"
+        }
+      ],
+      "duration_ms": 164332,
+      "name": "Street Player (ESSED Remix)",
+      "url": "https://open.spotify.com/track/6TtVu3UO75uS0V9r2D1wgq"
     },
     {
       "added_at": "2026-10-29 23:00:09",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Hits e novidades do pop experimental no mesmo palco! Foto: Bia Soull, Vita",
+  "description": "Hits e novidades do pop experimental no mesmo palco! Foto: GIANA",
   "name": "Palco POP",
   "tracks": [
     {
@@ -3047,6 +3047,24 @@
     },
     {
       "album": {
+        "name": "Barrastar",
+        "url": "https://open.spotify.com/album/1OcaUgzPpjjRzxZ6VgUx5E"
+      },
+      "artists": [
+        {
+          "name": "Camaleoa",
+          "url": "https://open.spotify.com/artist/5LijwxkcAViVr8bMwdYHwk"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158406,
+      "name": "Barrastar",
+      "url": "https://open.spotify.com/track/4Jx1jOwgcTtJkVj1bd1ZuQ"
+    },
+    {
+      "album": {
         "name": "Matchola - Spotify Sessions",
         "url": "https://open.spotify.com/album/4hafpkCGRkySUlu1GuBpqL"
       },
@@ -3812,7 +3830,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 171130,
       "name": "Brisa Boa",
       "url": "https://open.spotify.com/track/2kYACuBTEu9iRZvCs7NWpC"
@@ -7624,6 +7642,24 @@
       "duration_ms": 138457,
       "name": "EGOISTA",
       "url": "https://open.spotify.com/track/1snag2t9jUxPBrMuVGvQWo"
+    },
+    {
+      "album": {
+        "name": "Egotrip",
+        "url": "https://open.spotify.com/album/7fLMXjK5jqwkxUy5a0m4yp"
+      },
+      "artists": [
+        {
+          "name": "TINN",
+          "url": "https://open.spotify.com/artist/36I80iG1HUNzgtpM34yJlq"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212613,
+      "name": "Egotrip",
+      "url": "https://open.spotify.com/track/2ZFTBmQMuuojn3M3hObWf0"
     },
     {
       "album": {
@@ -12652,6 +12688,24 @@
       "duration_ms": 228000,
       "name": "Mais Que Isso",
       "url": "https://open.spotify.com/track/6ImvrQ07hWMqaWzIC4Drm0"
+    },
+    {
+      "album": {
+        "name": "MAIS UM VER\u00c3O SEM VOC\u00ca",
+        "url": "https://open.spotify.com/album/670bjpsTWBCDbymYfvk6aN"
+      },
+      "artists": [
+        {
+          "name": "GIANA",
+          "url": "https://open.spotify.com/artist/4qB4n69ENaMdCb37AYd6wk"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174188,
+      "name": "Mais Um Ver\u00e3o Sem Voc\u00ea",
+      "url": "https://open.spotify.com/track/1NytioHZ8nm6cq1rVBfWzj"
     },
     {
       "album": {
@@ -21558,7 +21612,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 194407,
       "name": "Sem foto, sem v\u00eddeo",
       "url": "https://open.spotify.com/track/1qYD1qpRCi53yAfXrez1r8"
@@ -25678,7 +25732,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 136089,
       "name": "Vira-Lata",
       "url": "https://open.spotify.com/track/5WdudMiWgSdl9w6T9Icb7N"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEt8B7a1H1M.md) - [plain]
 
 > Bird sounds in the background
 
-[Spotify](https://open.spotify.com/user/spotify) - 345,418 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 345,455 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,11 +19,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEt8B7a1H1M.md) - [plain]
 | 9 | [Afternoon in Usun Apau](https://open.spotify.com/track/684UbavxSKVbmzh53AfrAr) | [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [Chill Palm](https://open.spotify.com/artist/5bUGPaWS2tccpbiid4MSNE) | [Sounds of the Borneo Rainforest](https://open.spotify.com/album/03hSEx9PHgBPAP2XEkq4pO) | 3:10 |
 | 10 | [A Song of the Wild](https://open.spotify.com/track/3ta4hndWzkHWKJedkjhrFb) | [Outdoor Sound Makers](https://open.spotify.com/artist/1ZvH1asTCMDD0RgCUNOpVM) | [A Song of the Wild](https://open.spotify.com/album/1kuqYcePXJxsmzTZ7ODtkM) | 2:14 |
 | 11 | [Night Forest](https://open.spotify.com/track/3OrDEsaqIYNaXMjtoNTmGn) | [Nature's Essence](https://open.spotify.com/artist/0JklQwIpSXSIxaSP1IbT8j) | [Night Forest](https://open.spotify.com/album/4XrhapfKtOHM8vM9oRAkCi) | 3:14 |
-| 12 | [Rain Streams](https://open.spotify.com/track/20QS2IhUNQj7kmljqpVjcN) | [Outdoor Field Recorders](https://open.spotify.com/artist/71ep4LtjRagWcfM1rZ6lUr) | [Relaxing Sounds of Nature](https://open.spotify.com/album/2QGcmnsvluOe2W71WSfTyG) | 2:43 |
-| 13 | [Natural Forest Quiet](https://open.spotify.com/track/7pY9vYk2s9VTggqqPQ9kI2) | [Nicolas Gutierrez G.](https://open.spotify.com/artist/5blyFWCmmsbLdxQVRARv6x) | [Natural Forest Quiet](https://open.spotify.com/album/4vGRrXTak44ULC7tS2v25Q) | 2:28 |
+| 12 | [Natural Forest Quiet](https://open.spotify.com/track/7pY9vYk2s9VTggqqPQ9kI2) | [Nicolas Gutierrez G.](https://open.spotify.com/artist/5blyFWCmmsbLdxQVRARv6x) | [Natural Forest Quiet](https://open.spotify.com/album/4vGRrXTak44ULC7tS2v25Q) | 2:28 |
+| 13 | [Rain Streams](https://open.spotify.com/track/20QS2IhUNQj7kmljqpVjcN) | [Outdoor Field Recorders](https://open.spotify.com/artist/71ep4LtjRagWcfM1rZ6lUr) | [Relaxing Sounds of Nature](https://open.spotify.com/album/2QGcmnsvluOe2W71WSfTyG) | 2:43 |
 | 14 | [Rain in the Andorran Forest](https://open.spotify.com/track/7BOmtKLiQX5yqk2Qji1X03) | [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [Chill Palm](https://open.spotify.com/artist/5bUGPaWS2tccpbiid4MSNE) | [Soothing Rain Songs](https://open.spotify.com/album/15CC9woREqBQPmVNOIfoQg) | 3:07 |
-| 15 | [Songbirds at Dawn](https://open.spotify.com/track/6fdR2xhj9S7xZ46U8cw9H1) | [Brontology](https://open.spotify.com/artist/2wV6tmD1aCH03G6uBqVOMp) | [Songbirds at Dawn](https://open.spotify.com/album/6Lx76KJ6upyFHgFGgumCgq) | 2:49 |
-| 16 | [Flying South \(Nature\)](https://open.spotify.com/track/5j49xdRfVVXfrH0oi6UkKv) | [Nature Neighbors](https://open.spotify.com/artist/4rIFzNdfjbxs0PB2XWda3z) | [Flying South \(Nature\)](https://open.spotify.com/album/1vhivmFoFcs1WRHLwWA70R) | 3:00 |
+| 15 | [Flying South \(Nature\)](https://open.spotify.com/track/5j49xdRfVVXfrH0oi6UkKv) | [Nature Neighbors](https://open.spotify.com/artist/4rIFzNdfjbxs0PB2XWda3z) | [Flying South \(Nature\)](https://open.spotify.com/album/1vhivmFoFcs1WRHLwWA70R) | 3:00 |
+| 16 | [Songbirds at Dawn](https://open.spotify.com/track/6fdR2xhj9S7xZ46U8cw9H1) | [Brontology](https://open.spotify.com/artist/2wV6tmD1aCH03G6uBqVOMp) | [Songbirds at Dawn](https://open.spotify.com/album/6Lx76KJ6upyFHgFGgumCgq) | 2:49 |
 | 17 | [Steady Rain](https://open.spotify.com/track/07sMMvZeZ0AExRWF2UX8Wf) | [Mindful Measures](https://open.spotify.com/artist/4DYgl2qzOphoG3p9gZNluF) | [Nature Rain Relaxation](https://open.spotify.com/album/6l6y3ned8RViGuo8Jy07gq) | 2:32 |
 | 18 | [Tropic Rain](https://open.spotify.com/track/5gIOLEi9WsMudy3tfGfJNH) | [Sea Bow](https://open.spotify.com/artist/5BuaJPqFbFn7g4sLocFcyo) | [It's Raining Everywhere](https://open.spotify.com/album/4EZAPSadNgbhz6akdhN5vA) | 2:38 |
 | 19 | [Small River Stream in the Jungle](https://open.spotify.com/track/48iKn7tBRTh1iE0HSd9kSJ) | [Nicolas Gutierrez G.](https://open.spotify.com/artist/5blyFWCmmsbLdxQVRARv6x) | [Small River Stream in the Jungle](https://open.spotify.com/album/0S5qW479HpIwdekAYTFbcj) | 4:41 |
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEt8B7a1H1M.md) - [plain]
 | 26 | [Lastovo Island Summer Bird Song](https://open.spotify.com/track/3j8Sl52J5JhGx8k7WpIJiI) | [Natural Song](https://open.spotify.com/artist/3ztSSZCBD8e03TBMqPTQF3) | [Lastovo Island Summer Bird Song](https://open.spotify.com/album/6VyiGolVtAZvMam8UgxOwt) | 3:14 |
 | 27 | [Birds near the river in Columbia](https://open.spotify.com/track/4YjV6QkrEGCIq66DBeO4Ky) | [Nicoguga](https://open.spotify.com/artist/7h3EBgqROmytU7UE4UwFoS) | [Birds near the river in Columbia](https://open.spotify.com/album/0zUtoR2O9ZiM8uoiVKAOuP) | 1:59 |
 | 28 | [Bird\-watching](https://open.spotify.com/track/3dxPEV0XTNkhvAqx790nmo) | [Swedish Forest Birds](https://open.spotify.com/artist/0aW02sXtwKH8TEaJDPvg9N) | [Morning Forest Birds](https://open.spotify.com/album/1g53d39LNzKfa8p1aJhN5B) | 2:58 |
-| 29 | [Birds at the River Mouth](https://open.spotify.com/track/6OgaXzdlt8fOkiXUpytRCc) | [Solmer](https://open.spotify.com/artist/7eqdkq0HQG1Q53nCfjCIE4) | [Birds at the River Mouth](https://open.spotify.com/album/7LCP7Q9dZSJdgRBagA5tfj) | 2:02 |
-| 30 | [Happy Birds](https://open.spotify.com/track/2x2NrTYeKoNmiC6uEcXyuJ) | [Nature Lab](https://open.spotify.com/artist/2EBjHUWeiiLMOz9A22c4he) | [Birds by the Creek](https://open.spotify.com/album/5tk2REf1nK7U5eqr01YFbg) | 1:44 |
+| 29 | [Happy Birds](https://open.spotify.com/track/2x2NrTYeKoNmiC6uEcXyuJ) | [Nature Lab](https://open.spotify.com/artist/2EBjHUWeiiLMOz9A22c4he) | [Birds by the Creek](https://open.spotify.com/album/5tk2REf1nK7U5eqr01YFbg) | 1:44 |
+| 30 | [Birds at the River Mouth](https://open.spotify.com/track/6OgaXzdlt8fOkiXUpytRCc) | [Solmer](https://open.spotify.com/artist/7eqdkq0HQG1Q53nCfjCIE4) | [Birds at the River Mouth](https://open.spotify.com/album/7LCP7Q9dZSJdgRBagA5tfj) | 2:02 |
 | 31 | [River Birds \(Green Noise 220Hz HP\)](https://open.spotify.com/track/3Lr6j4FjEiaZAEjp6yUyRY) | [MKG Sound Library](https://open.spotify.com/artist/4w6WFLprJAqxXhKCWfxnHN) | [Soothing Green Noise](https://open.spotify.com/album/214myHKaTaC0qjXa2VDLpW) | 2:22 |
 | 32 | [Nature Sounds](https://open.spotify.com/track/0aiIxhhNwCZcUF4foUSpNa) | [When Doves Cry \(FX\)](https://open.spotify.com/artist/3lPRLDLxH0H7EhjakuDNgP) | [Bird Sounds Vol\. 1](https://open.spotify.com/album/7e7U3d9Ip6aMKP2PFTlOej) | 2:08 |
 | 33 | [Moment Of Peace \(Forest Birds\)](https://open.spotify.com/track/1jkmpUX6l6X2irM8oADsYk) | [KEI NATURE](https://open.spotify.com/artist/7vf8OYI2mqT5j58B6dK8my) | [Forest Bird Sounds Vol\. 1](https://open.spotify.com/album/3OH2XKBaROrXZ4h8DoCE1q) | 2:34 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEt8B7a1H1M.md) - [plain]
 | 46 | [Birds in the Spring Rain](https://open.spotify.com/track/74HzxCRcYQLHC1CoBwc3gF) | [Jane Quin](https://open.spotify.com/artist/5LByymUnsM8FuuYIEUhI8o) | [Birds in the Spring Rain](https://open.spotify.com/album/0FJndSgck0RqNeMZAzxvmB) | 2:06 |
 | 47 | [Morning Forest Bird Calls](https://open.spotify.com/track/6ISuISPeuhegLGrs2uDYN3) | [Lakoustiks](https://open.spotify.com/artist/3D8fqVzEmlJnUq50MV3aJl) | [Morning Forest Bird Calls](https://open.spotify.com/album/7JjPaGUESw3nPrSHqCJMI3) | 3:06 |
 | 48 | [Calm Summer Dusk at the Farm](https://open.spotify.com/track/5NQf4rqKwhCAjxybZZnxvM) | [Jan Berliner](https://open.spotify.com/artist/0iWEhQN4crcKwSpJsVDWz0) | [Calm Summer Dusk at the Farm](https://open.spotify.com/album/3SGRixB5ozgLvZgstXHdk1) | 2:30 |
-| 49 | [Northern Birds](https://open.spotify.com/track/7pmoGrDQTWH0PHgRvJcHAm) | [Creatress](https://open.spotify.com/artist/6wwfROG3fnqz3jyGV3ngPQ) | [Spring Birds](https://open.spotify.com/album/1V9jTmnMPdFCPEyLQuy5ZQ) | 2:51 |
-| 50 | [Birds song forest rain](https://open.spotify.com/track/0NNomsoZvS34EyTZ8ph1xz) | [Sound Of The Woods](https://open.spotify.com/artist/3fRd8qPNSLClRFaxvFFLPL) | [Birds song forest rain](https://open.spotify.com/album/0rIdJAjdSjd8cePzPzrUOk) | 3:20 |
+| 49 | [Calming Morning Birds](https://open.spotify.com/track/1hJO6JW80wv1DNMZq7djtw) | [Leonard Poole](https://open.spotify.com/artist/4GKxXMgOwnbnvJN797HsDO) | [Relaxing Morning in Hawaii](https://open.spotify.com/album/0sz8qDddys4gX8vt7ZCYfz) | 2:00 |
+| 50 | [Northern Birds](https://open.spotify.com/track/7pmoGrDQTWH0PHgRvJcHAm) | [Creatress](https://open.spotify.com/artist/6wwfROG3fnqz3jyGV3ngPQ) | [Spring Birds](https://open.spotify.com/album/1V9jTmnMPdFCPEyLQuy5ZQ) | 2:51 |
 
 Snapshot ID: `AAAAAM5PVrWv9vxPAVXeLEab/ydJ14Wy`

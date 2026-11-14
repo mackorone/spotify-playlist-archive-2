@@ -4,7 +4,7 @@
 
 > afrobeats: best served chill
 
-868 songs - 1 day 17 hr 47 min
+869 songs - 1 day 17 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [Body Language](https://open.spotify.com/track/0O5ZbaNWha50PwklOprDgy) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl), [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [Body Language](https://open.spotify.com/album/52NNbFus4RMbeBzdYmNmx5) | 2:27 | 2022-06-09 | 2022-10-01 |
 | [Body Language](https://open.spotify.com/track/1ieYfbaettY1CCT4uu28Sx) | [Pawzz](https://open.spotify.com/artist/0SvA7XnKtaEkfIn7CVjTMU) | [Prezz Play](https://open.spotify.com/album/18u8kTxT4UzQQ97waiW23l) | 2:40 | 2023-01-20 | 2023-03-04 |
 | [Bodycon](https://open.spotify.com/track/7ouRkgZUc2OOrsdf1hQUDx) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb) | [Bodycon](https://open.spotify.com/album/0HdNiCaRBvvwtruMCKsHJY) | 2:39 | 2025-03-28 | 2025-08-06 |
+| [Bolonese](https://open.spotify.com/track/7DBSJmoCTvuUEO5V1FngrD) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [The Only Lover Boy Left \(TOLBL\)](https://open.spotify.com/album/7fVMBx3ZTAZViAFSInMGJ0) | 2:44 | 2026-11-13 |  |
 | [Bordeaux](https://open.spotify.com/track/0eAudWJz6SUYPA2CGE0Z8H) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp), [Muthoni](https://open.spotify.com/artist/5iCw2Vm3dX5y14ZPTwrbgj), [Edwvn](https://open.spotify.com/artist/2pXAmAzTJfBMMzGXKVWAxn), [Narah](https://open.spotify.com/artist/0hcG5f9K9mREVnVMV3yCZh), [Tronomie](https://open.spotify.com/artist/34BrK0231uzn1SZfNPsaWA) | [Bordeaux](https://open.spotify.com/album/0SSXQj05tsfbHFY29CTeOq) | 3:18 | 2022-06-09 | 2023-05-20 |
 | [Bother Me \(feat\. Victony\)](https://open.spotify.com/track/2JpcOAR1EGQSxFOVnYCMl0) | [Osé](https://open.spotify.com/artist/31iLIUM0MeqrkbswnUpUaj), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Bother Me \(feat\. Victony\)](https://open.spotify.com/album/7svkXljH25hpPavMawyyb2) | 3:00 | 2026-04-10 | 2026-04-17 |
 | [Boujee](https://open.spotify.com/track/3UgVuTqgQTO8u3m9Zuqotq) | [Keeya Keys](https://open.spotify.com/artist/61HaePhaH2YbG9Rd5zXbL6), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [Boujee](https://open.spotify.com/album/7sjFxdJ9g5uPLNCxwfO2Sk) | 3:27 | 2023-03-30 | 2023-05-23 |
@@ -583,7 +584,7 @@
 | [Permission \- A COLORS SHOW](https://open.spotify.com/track/2aCSffIsSsS0e7y4CVLPiS) | [Theecember](https://open.spotify.com/artist/0rzJVsg2Vmtvh9yBrPB2fs) | [Permission \- A COLORS SHOW](https://open.spotify.com/album/1hUr66rPGJ5efTaN4qWLWC) | 3:19 | 2023-12-15 | 2024-02-19 |
 | [Personal](https://open.spotify.com/track/0EMXklypGROwo70DKaDZYY) | [Juno](https://open.spotify.com/artist/1K8EfKCk74fvBfCFiyK8is) | [Personal](https://open.spotify.com/album/1EwRPcScU1xa4YLlwn2ntA) | 3:03 | 2026-03-06 | 2026-04-02 |
 | [Personally](https://open.spotify.com/track/4hOlSIK8uwDyzBZEf1mAKI) | [Straffitti](https://open.spotify.com/artist/4mCGYkTmNnEsnTrIr3atNB) | [Personally](https://open.spotify.com/album/05lg7B0tibQX5v89l4I7ej) | 2:09 | 2024-03-01 | 2024-03-22 |
-| [Perspe](https://open.spotify.com/track/5pVFf9ldLYN9cf7v7Swgax) | [Young Legend](https://open.spotify.com/artist/4xlH0w88CE65Qi7jE0PLYd), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Fxrtune](https://open.spotify.com/artist/5FWZoWPhJAzysoaslzFaZF) | [Perspe](https://open.spotify.com/album/39q1Diw7kiA322DpcOLOBF) | 3:21 | 2026-08-28 |  |
+| [Perspe](https://open.spotify.com/track/5pVFf9ldLYN9cf7v7Swgax) | [Young Legend](https://open.spotify.com/artist/4xlH0w88CE65Qi7jE0PLYd), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Fxrtune](https://open.spotify.com/artist/5FWZoWPhJAzysoaslzFaZF) | [Perspe](https://open.spotify.com/album/39q1Diw7kiA322DpcOLOBF) | 3:21 | 2026-08-28 | 2026-11-14 |
 | [Phenomena](https://open.spotify.com/track/7jDMQi5XZooBgF5i7m3DBo) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Phenomena](https://open.spotify.com/album/7d1uJdESkLI3mrGgBXkkr7) | 3:22 | 2024-08-29 | 2026-07-31 |
 | [Piano](https://open.spotify.com/track/2R6eV26pSgLz2yV5dfgzLL) | [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62), [Lekaa Beats](https://open.spotify.com/artist/3HzmmNkD0FRr2pBSwyUBBY) | [Piano](https://open.spotify.com/album/6hM1d9cytmykFu0qpQ7JpV) | 2:36 | 2024-02-23 | 2024-08-30 |
 | [Piece of My Heart \(feat\. Brent Faiyaz\)](https://open.spotify.com/track/2nYeyMeqYDiFSYYtl2BWD6) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Piece of My Heart \(feat\. Brent Faiyaz\)](https://open.spotify.com/album/2aM3higgzzkjpJf4EDJ8Gq) | 4:19 | 2024-10-18 | 2026-04-17 |

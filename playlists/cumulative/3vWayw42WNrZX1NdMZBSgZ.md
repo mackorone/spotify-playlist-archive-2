@@ -4,7 +4,7 @@
 
 > The perfect mix of current Latin Pop hits! Enjoy Shakira, TINI, Camilo, Milo J, Emilia, Manuel Turizo, Maluma, Rauw Alejandro, Mon Laferte and more!!! Cover: Emilia
 
-1,069 songs - 2 day 8 hr 54 min
+1,070 songs - 2 day 8 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -569,7 +569,7 @@
 | [Madrid \(feat\. Myke Towers\)](https://open.spotify.com/track/19OXtYzrJyCrQvTbfukt4H) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [PAPI JUANCHO](https://open.spotify.com/album/0p2yf6DucEgvj8Uk8KXJJv) | 3:18 | 2023-06-02 | 2023-06-08 |
 | [Madrugada](https://open.spotify.com/track/0d7YksKT1n6QzfHzGv4pMs) | [Poloo](https://open.spotify.com/artist/3YkiWrlonFPswrvoietLc7) | [Madrugada](https://open.spotify.com/album/4VvBDHBjBhPqDvT9ZXfgFz) | 3:01 | 2022-12-16 | 2023-06-03 |
 | [MAFIOSA](https://open.spotify.com/track/1X1vW0xDpkOS35ZxcPqLv6) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [MAFIOSA](https://open.spotify.com/album/2UViwTgvnwO2aKYLFrQ9RH) | 4:26 | 2022-02-02 | 2023-05-26 |
-| [Magnolias](https://open.spotify.com/track/7GF92haKwJg9WUdnkTxRtr) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [LUX](https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY) | 3:14 | 2026-11-10 |  |
+| [Magnolias](https://open.spotify.com/track/7GF92haKwJg9WUdnkTxRtr) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [LUX](https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY) | 3:14 | 2026-11-10 | 2026-11-14 |
 | [Mago](https://open.spotify.com/track/0Q4oppQ566CUYqfPhbkQB9) | [DARUMAS](https://open.spotify.com/artist/3BtncWAC6RrQFca3UnvsS9) | [DARUMAS](https://open.spotify.com/album/0sUg9ENEYuVX1LLci90JxS) | 3:06 | 2024-05-17 | 2025-09-12 |
 | [Mal Acostumbrao \- con Maria Becerra](https://open.spotify.com/track/1wcE84DVQUF16xudVFzezL) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Mal Acostumbrao \(con Maria Becerra\)](https://open.spotify.com/album/1UEzLJ7ykAt3pwIznJrI8Q) | 3:10 | 2022-02-02 | 2023-05-26 |
 | [Mala Costumbre](https://open.spotify.com/track/70uX4beGHc1nQikXveOknp) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Mala Costumbre](https://open.spotify.com/album/1YJjyV8YutIhzL4MWAB1LY) | 3:50 | 2022-02-02 | 2023-05-26 |
@@ -899,6 +899,7 @@
 | [Somos Nada](https://open.spotify.com/track/1kqpo5oFmTYTuHyofHToQ3) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Somos Nada](https://open.spotify.com/album/32pblDS1zwL5VxhQRlEzsO) | 3:01 | 2022-02-02 | 2023-05-26 |
 | [Soñarte](https://open.spotify.com/track/1UJbPo4QxQPrteYZdNY00H) | [Mariangela](https://open.spotify.com/artist/6rbhHufoSGkldXNhOtb6Mf) | [Soñarte](https://open.spotify.com/album/7DvbHY38S9h6wUfQftT2E6) | 3:05 | 2022-07-01 | 2023-05-26 |
 | [Space in My Heart](https://open.spotify.com/track/4vMI6s3uwWcxcAqVoXkATn) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Space in My Heart](https://open.spotify.com/album/7CATUcNzHCmx3vsOETqKM9) | 2:58 | 2024-02-23 | 2024-07-03 |
+| [Suave](https://open.spotify.com/track/7e1PsfiJBmPIkQnmSmtxkS) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Suave](https://open.spotify.com/album/6CbvN0W8149N5wQEcblpp6) | 3:33 | 2026-11-13 |  |
 | [SUAVEMENTE](https://open.spotify.com/track/1MErjQ93iYHCjayOT1hl9N) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [SUAVEMENTE](https://open.spotify.com/album/2y4sJWV7huA9vPYUCesZwT) | 2:22 | 2024-12-20 |  |
 | [Suegra](https://open.spotify.com/track/3DGvNJcyicD4gHoVEvH86P) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Fórmula, Vol\. 3](https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF) | 3:44 | 2023-02-24 | 2023-06-02 |
 | [Suerte \(Whenever, Wherever\)](https://open.spotify.com/track/3TY1PFZXmYeiLcXygB74My) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Laundry Service](https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV) | 3:14 | 2022-02-02 | 2023-05-26 |

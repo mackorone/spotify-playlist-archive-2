@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXddFXwrHAcsz.md) - [plain]
 
 > Beste Nederlandstalige songs uit de 80's! Cover: André Hazes
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,439 likes - 60 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,458 likes - 60 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,18 +32,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXddFXwrHAcsz.md) - [plain]
 | 22 | [Smoorverliefd](https://open.spotify.com/track/0OFLK8St1n4C9smb4s7CKX) | [Doe Maar](https://open.spotify.com/artist/58hFVpwYRp8sQdtANcMpiE) | [De Jonge Jaren van Doe Maar \- 50 jaar Nederpop](https://open.spotify.com/album/2B9dyhwM3qcaQZJc1xKnXu) | 3:17 |
 | 23 | [Een Kopje Koffie](https://open.spotify.com/track/7oIj1naWSVgDmruBrkT3Cw) | [V.O.F\. De Kunst](https://open.spotify.com/artist/3iAS2g4qFW5aHDv4fOtXGl) | [Monsterhits](https://open.spotify.com/album/5qmW8BY18VtDOBhYDSFwY5) | 4:06 |
 | 24 | [Ik Weet Niet Hoe](https://open.spotify.com/track/17tJLDBm76LdZoHG2t587G) | [Benny Neyman](https://open.spotify.com/artist/31QaP8ttyZpVIXabCmWKc2) | [Ik Weet Niet Hoe](https://open.spotify.com/album/6Emyi23IU3uRiPajFYyZG4) | 3:26 |
-| 25 | [Mag Het Licht Uit](https://open.spotify.com/track/7KTLDWQXfA1DBPE98c9JDj) | [De Dijk](https://open.spotify.com/artist/4jFkB3Lzjku9SFKUTP33WV) | [100 x De Dijk](https://open.spotify.com/album/4gmTornHQCspqj9RKqKgBL) | 4:19 |
-| 26 | [Linda](https://open.spotify.com/track/37sOxkeHNES53xCk6mAK8h) | [Frank Boeijen Groep](https://open.spotify.com/artist/1HoWbJFK5RdH4OAtpoxbgR) | [Onderweg](https://open.spotify.com/album/6BXuGfr12xjWvfQoCnW2ej) | 3:36 |
+| 25 | [Linda](https://open.spotify.com/track/37sOxkeHNES53xCk6mAK8h) | [Frank Boeijen Groep](https://open.spotify.com/artist/1HoWbJFK5RdH4OAtpoxbgR) | [Onderweg](https://open.spotify.com/album/6BXuGfr12xjWvfQoCnW2ej) | 3:36 |
+| 26 | [Mag Het Licht Uit](https://open.spotify.com/track/7KTLDWQXfA1DBPE98c9JDj) | [De Dijk](https://open.spotify.com/artist/4jFkB3Lzjku9SFKUTP33WV) | [100 x De Dijk](https://open.spotify.com/album/4gmTornHQCspqj9RKqKgBL) | 4:19 |
 | 27 | [Visite](https://open.spotify.com/track/6NJ6k5hUKG6WHHyaqtUHm1) | [Lenny Kuhr](https://open.spotify.com/artist/42SCqZAVnFo3ocAyO0tDTj), [Les Poppys](https://open.spotify.com/artist/0YIBkkq5ML1WP0jtkrKiIC) | [Dromentrein](https://open.spotify.com/album/16WwtrQLrcb7NpnPZvfAgD) | 3:18 |
 | 28 | [Adios Amor](https://open.spotify.com/track/3jhG03tiVOuWS65z5yppK9) | [Corry Konings](https://open.spotify.com/artist/3pqfZ3xfayx6qJWcsVcXnS) | [25 Jaar Mooi Was Die Tijd](https://open.spotify.com/album/1AcHJHnJ0qEDN4D0Ww9Vw8) | 3:28 |
 | 29 | [Net\-as gisteren \- Live](https://open.spotify.com/track/4IwUhu03sPNuuPD2MZa2KA) | [Normaal](https://open.spotify.com/artist/2QU0ew2k2IZJifa8VWevSv) | [Springlèavend](https://open.spotify.com/album/4XP7ugRszl1yG6QbTFiTTw) | 3:51 |
-| 30 | [Ik Kan Het Niet Alleen](https://open.spotify.com/track/6ZdbwRhaM8H1PfyoyxVMNy) | [De Dijk](https://open.spotify.com/artist/4jFkB3Lzjku9SFKUTP33WV) | [100 x De Dijk](https://open.spotify.com/album/4gmTornHQCspqj9RKqKgBL) | 3:59 |
-| 31 | [Winter in Hamburg](https://open.spotify.com/track/3WTD1NqmlaxaI00K2Q1B0Z) | [Frank Boeijen Groep](https://open.spotify.com/artist/1HoWbJFK5RdH4OAtpoxbgR) | [Welkom In Utopia](https://open.spotify.com/album/5OeSXqF6Cp7qr7exlCiiAi) | 5:18 |
+| 30 | [Winter in Hamburg](https://open.spotify.com/track/3WTD1NqmlaxaI00K2Q1B0Z) | [Frank Boeijen Groep](https://open.spotify.com/artist/1HoWbJFK5RdH4OAtpoxbgR) | [Welkom In Utopia](https://open.spotify.com/album/5OeSXqF6Cp7qr7exlCiiAi) | 5:18 |
+| 31 | [Ik Kan Het Niet Alleen](https://open.spotify.com/track/6ZdbwRhaM8H1PfyoyxVMNy) | [De Dijk](https://open.spotify.com/artist/4jFkB3Lzjku9SFKUTP33WV) | [100 x De Dijk](https://open.spotify.com/album/4gmTornHQCspqj9RKqKgBL) | 3:59 |
 | 32 | [Waarom Fluister Ik Je Naam Nog](https://open.spotify.com/track/1Mf4CXEX26bmzrr9n3nZ3W) | [Benny Neyman](https://open.spotify.com/artist/31QaP8ttyZpVIXabCmWKc2) | [Allermooiste](https://open.spotify.com/album/6OJ5TevDAiuIwWw2c6xF89) | 3:45 |
 | 33 | [Kleine Jodeljongen](https://open.spotify.com/track/4aR8eGB5hisGkaK4kxGjvK) | [Manke Nelis](https://open.spotify.com/artist/7jGonUtfSFZgtQ6hKbqyBr) | [Hollands Glorie](https://open.spotify.com/album/7fLZFuAvpvpuuOfvDrdwY2) | 2:54 |
 | 34 | [Anne](https://open.spotify.com/track/073xKaUAkGFxOZ1aHWXel7) | [Herman van Veen](https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh) | [Anne \(Deutsche Version\)](https://open.spotify.com/album/3TAwCzDg088pPwykWFOK3D) | 3:44 |
-| 35 | [Eenmaal Kom Jij Terug](https://open.spotify.com/track/1YhbDfUG3ydrwvFBHHdsJ6) | [Koos Alberts](https://open.spotify.com/artist/2x8IIf3l8n2kJgLOxcYP29) | [De Top 10 Van](https://open.spotify.com/album/1ia0hACzZyGqzYEuIX9uLP) | 4:20 |
-| 36 | [Zwart Wit](https://open.spotify.com/track/2NjUjtsJ7rs40IiQk48j3J) | [Frank Boeijen Groep](https://open.spotify.com/artist/1HoWbJFK5RdH4OAtpoxbgR) | [Het Mooiste & Het Beste](https://open.spotify.com/album/3XiJiFN96NyaWs728epe59) | 3:05 |
+| 35 | [Zwart Wit](https://open.spotify.com/track/2NjUjtsJ7rs40IiQk48j3J) | [Frank Boeijen Groep](https://open.spotify.com/artist/1HoWbJFK5RdH4OAtpoxbgR) | [Het Mooiste & Het Beste](https://open.spotify.com/album/3XiJiFN96NyaWs728epe59) | 3:05 |
+| 36 | [Eenmaal Kom Jij Terug](https://open.spotify.com/track/1YhbDfUG3ydrwvFBHHdsJ6) | [Koos Alberts](https://open.spotify.com/artist/2x8IIf3l8n2kJgLOxcYP29) | [De Top 10 Van](https://open.spotify.com/album/1ia0hACzZyGqzYEuIX9uLP) | 4:20 |
 | 37 | [Een Tip Van De Sluier](https://open.spotify.com/track/2akTFtrsRuzFtdpDt4ItJz) | [Boudewijn de Groot](https://open.spotify.com/artist/3h6rezLYXc5QU08SCKZtyO) | [Collected \(1964 \- 2016\)](https://open.spotify.com/album/5bPH5FC8gRqCsVSgoUm5lD) | 4:55 |
 | 38 | [Bloedend Hart](https://open.spotify.com/track/21UjnG4SVJlOO4WDrUBaTJ) | [De Dijk](https://open.spotify.com/artist/4jFkB3Lzjku9SFKUTP33WV) | [Het Beste Van](https://open.spotify.com/album/0OBrc6S3HOR26jYN2CqUcc) | 3:46 |
 | 39 | [Stiekem Gedanst](https://open.spotify.com/track/3EWjSWS4t4VKsOn6ASlmZx) | [Toontje Lager](https://open.spotify.com/artist/7isSKzkNHe3Tsmht2ar6Ai) | [Het Allerbeste Van Toontje Lager \(Top 20\)](https://open.spotify.com/album/2QCZ4pO343CgpVyvUNgYNf) | 3:37 |
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXddFXwrHAcsz.md) - [plain]
 | 47 | [Oude Maasweg](https://open.spotify.com/track/02utYejOAb0Pw7r4tkbfOu) | [The Amazing Stroopwafels](https://open.spotify.com/artist/4j32y3UVJaypInH9lOKcZ4) | [Hard Voor Weinig \(20 singles\)](https://open.spotify.com/album/7wvQAqYh8vDvXRscEuxjVt) | 3:28 |
 | 48 | [Joke Stop Toch Met Koken](https://open.spotify.com/track/7DL2hb41CIMNyCsA51euTZ) | [De Leidse Sleutelgaten](https://open.spotify.com/artist/0EzfzcSiRKGHXSJIQFECEN) | [De Beste Carnaval Hits Ooit](https://open.spotify.com/album/4xKGHN5JhHuaKsEN77g25r) | 2:45 |
 | 49 | [Binnen Zonder Kloppen](https://open.spotify.com/track/3MclndtcndEVz0gKOXdM71) | [De Dijk](https://open.spotify.com/artist/4jFkB3Lzjku9SFKUTP33WV) | [Zullen We Dansen \- Het Beste Van De Dijk 1981 \- 2006](https://open.spotify.com/album/6rH1vmQTFjbXmCRYYtD2Q3) | 4:45 |
-| 50 | [Ik Meen 'T](https://open.spotify.com/track/49EPxidDCfWYg0cIKmTxHB) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Hazes 100](https://open.spotify.com/album/0gCT4Y1EUY4XrlWvCE462K) | 3:33 |
+| 50 | [Diep In Mijn Hart](https://open.spotify.com/track/4naWA5coCt4fpzD8K6dSuw) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Hazes 100](https://open.spotify.com/album/0gCT4Y1EUY4XrlWvCE462K) | 3:49 |
 | 51 | [Niemand Laat Zijn Eigen Kind Alleen](https://open.spotify.com/track/4cj2rF9TMmxYAVTNSAQ9P0) | [Willeke Alberti](https://open.spotify.com/artist/7monj8DXxygyUqgx7ncylV), [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Hollandse Sterren Collectie](https://open.spotify.com/album/1FJhxTagODYnKjA4PJakmk) | 3:08 |
 | 52 | [Even Aan Mijn Moeder Vragen](https://open.spotify.com/track/1PAbS4i2Kezbb5V34nvR1c) | [Bloem](https://open.spotify.com/artist/4Q7PRWyZrpaEWFd8I0gdtB) | [Het Beste Uit 5 Jaar Het Foute Uur](https://open.spotify.com/album/0ds8asjvMISV1gqWlvmTUC) | 2:56 |
 | 53 | [Open Einde](https://open.spotify.com/track/54CctrS6IHUuIxi5vLgW5i) | [Rob De Nijs](https://open.spotify.com/artist/3u84EkSPrJYO4n5cipED9K) | [Rob 100](https://open.spotify.com/album/314xNPZisq3G6ZLlBU938T) | 4:51 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXddFXwrHAcsz.md) - [plain]
 | 55 | [Hilversum 3](https://open.spotify.com/track/1Aw2QYdH6zcG3tVHStPL4C) | [Herman van Veen](https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh) | [Het Beste Van De Evergreen Top 1000](https://open.spotify.com/album/1I5RfVCzWQV8RbpaShEhr6) | 3:54 |
 | 56 | [De Verzonken Stad](https://open.spotify.com/track/67ic5KKc4Q8zPyfuu11VYn) | [Frank](https://open.spotify.com/artist/6FZRvArR9oNmZWraG4rXyI), [Mirella](https://open.spotify.com/artist/35iXe0ysO9vDK2vCESHAbz) | [De Verzonken Stad & Andere Hits](https://open.spotify.com/album/2KDci5Jcw5iP7UEVud2nLV) | 3:49 |
 | 57 | [Pa](https://open.spotify.com/track/3WuphonBW94Yecg9jEsRTE) | [Doe Maar](https://open.spotify.com/artist/58hFVpwYRp8sQdtANcMpiE) | [Doe Maar \- De Singles \(Het Complete Singles Overzicht\)](https://open.spotify.com/album/5dEuc3PFwHlw3OR2IwCX4S) | 3:39 |
-| 58 | [Diep In Mijn Hart](https://open.spotify.com/track/4naWA5coCt4fpzD8K6dSuw) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Hazes 100](https://open.spotify.com/album/0gCT4Y1EUY4XrlWvCE462K) | 3:49 |
+| 58 | [Ik Meen 'T](https://open.spotify.com/track/49EPxidDCfWYg0cIKmTxHB) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Hazes 100](https://open.spotify.com/album/0gCT4Y1EUY4XrlWvCE462K) | 3:33 |
 | 59 | [Mijn Stad](https://open.spotify.com/track/3NytgJzTuo28YJXP82ys1y) | [Danny De Munk](https://open.spotify.com/artist/5Mww2P8ni50lmfOTsBmGHn) | [Mijn Levenslied](https://open.spotify.com/album/1ZsiKqXJH3U7qN6pX3nHme) | 3:11 |
 | 60 | [Pierrot](https://open.spotify.com/track/3vgw77I33tT8m2T0MYbsM2) | [Bonnie St\. Claire](https://open.spotify.com/artist/4241gEqmLtq8iCZybFquzK) | [Favorieten Expres](https://open.spotify.com/album/0tozdNweUVwfbGuQwywE2Q) | 3:14 |
 
-Snapshot ID: `AAAAAERPVEyc7fe7MUHbET21Qx5RodD/`
+Snapshot ID: `AAAAAEtzZQYI6kovRtyFnipGn6QsfzQv`

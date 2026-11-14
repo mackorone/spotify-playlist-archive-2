@@ -4,7 +4,7 @@
 
 > Playlist
 
-664 songs - 1 day 15 hr 17 min
+665 songs - 1 day 15 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -493,6 +493,7 @@
 | [Rusty](https://open.spotify.com/track/2omeFA0HaifrkSp3ZteTBj) | [Yasmine Hosseini](https://open.spotify.com/artist/1IMII2dPbIx4u6fvDHSmIN) | [Rusty](https://open.spotify.com/album/2y5zKrs7wdvB9BGwnk2Iro) | 4:09 | 2023-10-25 |  |
 | [Ruta](https://open.spotify.com/track/0exnAa5EPWduqdnvmzQS5e) | [Tati Falco](https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6) | [El Año del Syncro](https://open.spotify.com/album/56HNxmVTlf80TtHyTSv4bf) | 4:08 | 2024-11-15 |  |
 | [Salted Caramel Ice Cream](https://open.spotify.com/track/13QZb2ua0JY2VJU9wG4PmQ) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [Metronomy Forever](https://open.spotify.com/album/7IzNAyOsxeWhKPyNNz1urS) | 3:30 | 2023-10-25 |  |
+| [Same Old Patterns](https://open.spotify.com/track/1qdKJAo21Ow9WfaRctnR07) | [Marcoca](https://open.spotify.com/artist/4gGuwY7KzJNNyA0JMlMvt4) | [Same Old Patterns](https://open.spotify.com/album/3UrArOAvajzUang0DzEkpo) | 3:33 | 2026-11-13 |  |
 | [Sangrecita](https://open.spotify.com/track/3FagzxR9T2GGhRnh5vQ0ok) | [Tati Falco](https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6) | [Cámara Azul](https://open.spotify.com/album/4Fl0NkfIwsRUO4WnvI3fW9) | 3:47 | 2023-10-25 |  |
 | [Sap in my Teeth](https://open.spotify.com/track/4mw9wqfElHSmqoMDQFbma6) | [Boy Deco](https://open.spotify.com/artist/2ToFHcW8xlcnx73z5Jzzu7), [Quantum Keys](https://open.spotify.com/artist/5lw9kgX2il5YmYfqoSh3ve) | [Sap in my Teeth](https://open.spotify.com/album/6QFTkUsfKW3gmc51rXE4Us) | 3:50 | 2026-01-29 |  |
 | [Saturday](https://open.spotify.com/track/5BO6CIQL2YILogjtejYmTy) | [Atomic Blue](https://open.spotify.com/artist/4rcAeGnWUBRTTLlh2DauQJ) | [However Many Days](https://open.spotify.com/album/05pAn3ThAYRWz7wonOwbzy) | 5:43 | 2023-10-25 |  |

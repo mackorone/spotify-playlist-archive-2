@@ -8280,7 +8280,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 145000,
       "name": "Eye Contact",
       "url": "https://open.spotify.com/track/7rcHITRqcj8qjDtYy5uQ3b"
@@ -10304,7 +10304,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 126750,
       "name": "Hawayien",
       "url": "https://open.spotify.com/track/6WaAN57RhalalulMYzC0QA"
@@ -14094,6 +14094,28 @@
       "duration_ms": 227817,
       "name": "Khuwaab (Ab Tu Aa)",
       "url": "https://open.spotify.com/track/2nbXs9YYecCKDs35bUE9KE"
+    },
+    {
+      "album": {
+        "name": "Khwaab",
+        "url": "https://open.spotify.com/album/5ExVQqbskWYvNrMbDgCXIR"
+      },
+      "artists": [
+        {
+          "name": "FANDI",
+          "url": "https://open.spotify.com/artist/50R70y0qWZ8LDHgGiSRk9f"
+        },
+        {
+          "name": "Hasaan Khurshid",
+          "url": "https://open.spotify.com/artist/3mQv6xUOhQbLiwai68qLDc"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268000,
+      "name": "Khwaab",
+      "url": "https://open.spotify.com/track/1iYCA308RPUxBtzQMhblG0"
     },
     {
       "album": {
@@ -22446,6 +22468,32 @@
       "duration_ms": 144400,
       "name": "Sabar",
       "url": "https://open.spotify.com/track/0iS8bWM8xB18Dv8gWgM8yQ"
+    },
+    {
+      "album": {
+        "name": "sadaa",
+        "url": "https://open.spotify.com/album/6biMB0Eru8pb9ovWanpuzZ"
+      },
+      "artists": [
+        {
+          "name": "Maliha J. Khan",
+          "url": "https://open.spotify.com/artist/63RTNEI59osbMZHgd9FUTl"
+        },
+        {
+          "name": "Haider Afzal",
+          "url": "https://open.spotify.com/artist/6QnDe2fRcWtXuEqp6wEjyM"
+        },
+        {
+          "name": "Shameer",
+          "url": "https://open.spotify.com/artist/2YOWil5rDregv3GVz4BFwi"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176843,
+      "name": "sadaa",
+      "url": "https://open.spotify.com/track/1t78bD6qPfHsunFP0AH86i"
     },
     {
       "album": {

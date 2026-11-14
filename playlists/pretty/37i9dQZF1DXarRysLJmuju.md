@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 
 > Today’s pop, plugged into the culture w/ renforshort
 
-[Spotify](https://open.spotify.com/user/spotify) - 534,359 likes - 105 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 534,265 likes - 105 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

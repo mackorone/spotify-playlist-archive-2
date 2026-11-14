@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-11",
-  "description": "L\u2019alternatif qu\u00e9b\u00e9cois \u00e0 plein volume. Photo: Laura Niquay",
+  "description": "L\u2019alternatif qu\u00e9b\u00e9cois \u00e0 plein volume. Photo: Yuki B",
   "name": "ALT_QC",
   "tracks": [
     {
@@ -324,6 +324,24 @@
       "duration_ms": 100833,
       "name": "Aalto B Side",
       "url": "https://open.spotify.com/track/5Bwt7WzKBg2LiY3W5ltGut"
+    },
+    {
+      "album": {
+        "name": "Romance",
+        "url": "https://open.spotify.com/album/355hrVSmpRBMP0PJRso5u6"
+      },
+      "artists": [
+        {
+          "name": "Yuki B",
+          "url": "https://open.spotify.com/artist/1Ag1DdfWNtnGdm83G5iYXr"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212773,
+      "name": "Access Denied",
+      "url": "https://open.spotify.com/track/1v4lNngx8BSkg1J4ZGndse"
     },
     {
       "album": {
@@ -1726,6 +1744,24 @@
       "duration_ms": 402645,
       "name": "Blue as the Rain",
       "url": "https://open.spotify.com/track/6ie8KdzMFEZxKUpDmD2pSD"
+    },
+    {
+      "album": {
+        "name": "Bonne chance",
+        "url": "https://open.spotify.com/album/2l2bEnj03uOm9ZHq99CKgt"
+      },
+      "artists": [
+        {
+          "name": "Les Louanges",
+          "url": "https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186839,
+      "name": "Bonne chance",
+      "url": "https://open.spotify.com/track/5gKruxPZBwfM9H3zn5Uh04"
     },
     {
       "album": {
@@ -5114,7 +5150,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 257359,
       "name": "Hook IV",
       "url": "https://open.spotify.com/track/1eiiIwFz5JyRzlCaUnbHLP"
@@ -6454,7 +6490,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 252720,
       "name": "LA CHUTE",
       "url": "https://open.spotify.com/track/1hfBP6R3C5ZjuWXs0tKqP6"
@@ -8837,6 +8873,24 @@
     },
     {
       "album": {
+        "name": "Empress",
+        "url": "https://open.spotify.com/album/1MOxaB9cJV6vq4wHu4ZeWi"
+      },
+      "artists": [
+        {
+          "name": "Love Altar",
+          "url": "https://open.spotify.com/artist/1BPR2Z8VZCLQLefEXGVIjv"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225414,
+      "name": "Out Of Time",
+      "url": "https://open.spotify.com/track/7fEw1bP7Um7XOumh3Zz1gM"
+    },
+    {
+      "album": {
         "name": "over/over",
         "url": "https://open.spotify.com/album/1PJCDRAh0xcCDoKtwUjvWP"
       },
@@ -9210,7 +9264,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 192723,
       "name": "Peine perdue",
       "url": "https://open.spotify.com/track/29O7jNWJvYpJYuCmsmEQ4E"
@@ -9908,7 +9962,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 214741,
       "name": "Promesse",
       "url": "https://open.spotify.com/track/2vt6l1dsKhKchk0AxMjHiX"
@@ -10038,6 +10092,24 @@
       "duration_ms": 289959,
       "name": "R.B.",
       "url": "https://open.spotify.com/track/6YMG5XbVgKUdVIrMaFr8J5"
+    },
+    {
+      "album": {
+        "name": "Radio",
+        "url": "https://open.spotify.com/album/1uxkF2SgNcdeOYfLwh9OQc"
+      },
+      "artists": [
+        {
+          "name": "Planet Chlo\u00e9",
+          "url": "https://open.spotify.com/artist/6nvLTll83bPbaAvemxQ13S"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178954,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/1PS45iWkOspjpeXQjzDhPl"
     },
     {
       "album": {
@@ -10268,7 +10340,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 176338,
       "name": "Rien faire",
       "url": "https://open.spotify.com/track/7EpmolM1clWFserjKlmXSv"
@@ -10456,6 +10528,24 @@
       "duration_ms": 206259,
       "name": "Rouge \u00e0 l\u00e8vres",
       "url": "https://open.spotify.com/track/0HgHk6fXRi0CuYnhahRtxH"
+    },
+    {
+      "album": {
+        "name": "Running!",
+        "url": "https://open.spotify.com/album/5hGn3fZsMtW0YHuIGtg7ci"
+      },
+      "artists": [
+        {
+          "name": "The Underground",
+          "url": "https://open.spotify.com/artist/4KxmVtsw5BaapUeKf3ywxi"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176145,
+      "name": "Running!",
+      "url": "https://open.spotify.com/track/7FrkoihMuxUlXNvZLYYeGn"
     },
     {
       "album": {
@@ -10968,6 +11058,24 @@
       "duration_ms": 213011,
       "name": "Shrala",
       "url": "https://open.spotify.com/track/1C97sB0JL8ANe6tczFSEvz"
+    },
+    {
+      "album": {
+        "name": "Shura",
+        "url": "https://open.spotify.com/album/6aa0g0tsRhD5xOt8QvWYib"
+      },
+      "artists": [
+        {
+          "name": "TEKE::TEKE",
+          "url": "https://open.spotify.com/artist/2muMdTToIY0P9819HvSYyu"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282108,
+      "name": "Shura",
+      "url": "https://open.spotify.com/track/3uEfuZ2zdYEARmL6hG9pKM"
     },
     {
       "album": {
@@ -11934,7 +12042,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 145848,
       "name": "The Man Upstairs",
       "url": "https://open.spotify.com/track/12bj997E5AMRjKHk8ILFKP"
@@ -13048,7 +13156,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 327893,
       "name": "Who Am I",
       "url": "https://open.spotify.com/track/2CzBHpemQrtHCNfX10qwYy"
@@ -13290,6 +13398,24 @@
       "duration_ms": 236260,
       "name": "\u00c0 quoi tu penses",
       "url": "https://open.spotify.com/track/7tS2TnBWC05xJ0GXLZ9kTD"
+    },
+    {
+      "album": {
+        "name": "\u00c0 sec",
+        "url": "https://open.spotify.com/album/3IpZMfLg9PBjvIBXHssLZ7"
+      },
+      "artists": [
+        {
+          "name": "zouz",
+          "url": "https://open.spotify.com/artist/7mjxrO1Me1ANeNOeAFXxzi"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208550,
+      "name": "\u00c0 sec",
+      "url": "https://open.spotify.com/track/4WgNsQdtEEmhwuWZgjDMo2"
     },
     {
       "album": {

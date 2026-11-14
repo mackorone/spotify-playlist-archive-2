@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover: yeule
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,180 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,225 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Lovepill](https://open.spotify.com/track/3g7vij2FqegH0CE1PAJvfo) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Lovepill](https://open.spotify.com/album/1B0Zmve2Tbg6fJEcr6TtSy) | 3:10 |
 | 2 | [Eyelashes](https://open.spotify.com/track/03mp9qYHub1QBPDI6sMxU1) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu), [Pearly Drops](https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL) | [Eyelashes](https://open.spotify.com/album/23fzzQ48cb2anU41Ipa1RW) | 4:15 |
-| 3 | [Track 3](https://open.spotify.com/track/735s7kB0oA5PXgXtiSZLMG) | [NEW LORE](https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E) | [Very Ancient Way of Crying](https://open.spotify.com/album/3xbauaiHd7Ah6wzGjfmoYo) | 0:00 |
+| 3 | [Sad Girl \(feat\. Ichika Nito & Gabba\)](https://open.spotify.com/track/735s7kB0oA5PXgXtiSZLMG) | [NEW LORE](https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E), [Ichika Nito](https://open.spotify.com/artist/1v7B6ZWa7QRQS3knn3Jvf4), [Gabba](https://open.spotify.com/artist/6tvCQZS4d1wJ9cA9Gl0ZqP) | [Very Ancient Way of Crying](https://open.spotify.com/album/3xbauaiHd7Ah6wzGjfmoYo) | 3:22 |
 | 4 | [Elvis \(feat\. Brendan Yates\)](https://open.spotify.com/track/3K9BQAQcMQRClXvuHsuuwO) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL), [Brendan Yates](https://open.spotify.com/artist/4AJe4qjJG5DrDEN7Ijz6Ar) | [Dream Fatigue](https://open.spotify.com/album/3eHX7aYtV7VxxSZmWBEKPA) | 3:11 |
 | 5 | [Poison Pop](https://open.spotify.com/track/1UqlK0fTOd4a5ocm27n6OF) | [Everything Everything](https://open.spotify.com/artist/1HOeqtP7tHkKNJNLzQ2tnr) | [Poison Pop](https://open.spotify.com/album/2asmAWJ8fzrkZ1glyR3Nc9) | 3:34 |
 | 6 | [YES](https://open.spotify.com/track/00AOxFmaoLC1ZCVm3GGx9z) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL) | [YES](https://open.spotify.com/album/0FiarOgpwaZ18ZvTy7dlXc) | 3:10 |
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 29 | [Life In The Dark](https://open.spotify.com/track/3nPe8kguVhPkgApTQrxC71) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Felice County Fair](https://open.spotify.com/artist/7JRfo5LndFUxvOZzE41JIL) | [Felice County Fair \(A Celebration of The Felice Brothers\)](https://open.spotify.com/album/3KzKglgUmogktIg1YLo82f) | 3:55 |
 | 30 | [i won't see you anymore](https://open.spotify.com/track/6bPW43IkOiUyToxHaNXVWT) | [Rol3ert](https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E) | [meet me in my head](https://open.spotify.com/album/7tgjti5eg3r6gOrwHbG89M) | 4:02 |
 | 31 | [waiting for me](https://open.spotify.com/track/7o34qMgjMGWjadKNH1cBvc) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Ambiguous Desire \(Deluxe\)](https://open.spotify.com/album/7rbyJmp77Xj3utqDm71rWO) | 3:14 |
-| 32 | [C'mon Caroline](https://open.spotify.com/track/04KeNT4krk7FCBoGV1j1jh) | [GRANT](https://open.spotify.com/artist/6SkVKlAmIWVD0LQvCGQqSj) | [C'mon Caroline](https://open.spotify.com/album/7ocOBer43mULvqsTrET2Ng) | 3:15 |
+| 32 | [C'mon Caroline](https://open.spotify.com/track/04KeNT4krk7FCBoGV1j1jh) | [Grant](https://open.spotify.com/artist/6SkVKlAmIWVD0LQvCGQqSj) | [C'mon Caroline](https://open.spotify.com/album/7ocOBer43mULvqsTrET2Ng) | 3:15 |
 | 33 | [Gamut](https://open.spotify.com/track/5sk7J329w6TKBZ7onE0SaB) | [Fog Lake](https://open.spotify.com/artist/04GCjO1r1hPelibCUq9S8H) | [Gamut / Styrofoam](https://open.spotify.com/album/1A2Eu2ifS8qALrj6PiV5KF) | 4:04 |
 | 34 | [Wish Upon You](https://open.spotify.com/track/5S6Lu1hiwmipUZZV4g9n1Z) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Wish Upon You](https://open.spotify.com/album/1jB0LeWCN64fYmjJe2cW1V) | 4:37 |
 | 35 | [bed \(Prod\. hinata miyake from luv\) \- English ver.](https://open.spotify.com/track/1hA0JUxG9EEhmGlacEVVaV) | [REJAY](https://open.spotify.com/artist/4eepZmdBOvo2dDxaifOphe), [hinata miyake](https://open.spotify.com/artist/7xuVwXvurcXpbiAt38b6r9) | [bed \(Prod\. hinata miyake from luv\)](https://open.spotify.com/album/74GtCFtVE80hqI9X0EyVG0) | 3:14 |

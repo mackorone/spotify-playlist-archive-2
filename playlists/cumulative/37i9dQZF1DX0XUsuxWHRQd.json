@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "New music from Lil Baby, GloRilla and Jack Harlow.",
+  "description": "New music from Offset, Don Toliver and Lil Baby.",
   "name": "RapCaviar",
   "tracks": [
     {
@@ -11820,7 +11820,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 275946,
       "name": "Crush on You (feat. Lil' Cease) - Remix",
       "url": "https://open.spotify.com/track/2LP2uDQQ7eLMcUVE4aOpAV"
@@ -12290,7 +12290,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 157020,
       "name": "Dead Fresh",
       "url": "https://open.spotify.com/track/5ZAMlvo6ZUjVRZOGu2bJib"
@@ -13566,6 +13566,24 @@
       "duration_ms": 183515,
       "name": "Don Diva",
       "url": "https://open.spotify.com/track/07hzPXzmVs98M0eRsCINt1"
+    },
+    {
+      "album": {
+        "name": "HEELMATIC",
+        "url": "https://open.spotify.com/album/6xpcVVjSc8kUuddtdJtiY0"
+      },
+      "artists": [
+        {
+          "name": "Westside Gunn",
+          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204126,
+      "name": "DON PISTOLA",
+      "url": "https://open.spotify.com/track/00sREMzYzD6EUJ7HfF4EFP"
     },
     {
       "album": {
@@ -18341,6 +18359,28 @@
     },
     {
       "album": {
+        "name": "FRESH (Bonus Track)",
+        "url": "https://open.spotify.com/album/5ugElze10L91CDKxyI47l2"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209083,
+      "name": "From The Back (Remix)(feat. Chris Brown)",
+      "url": "https://open.spotify.com/track/1CwME5YfThbxTwajGsoxUg"
+    },
+    {
+      "album": {
         "name": "I Hope You're Happy (Deluxe)",
         "url": "https://open.spotify.com/album/7xXWOU9SOmwwPBDBdCdlIX"
       },
@@ -19780,7 +19820,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 178285,
       "name": "Ghetto Love Story",
       "url": "https://open.spotify.com/track/6g8cuDwreIt5rLEBlkukQa"
@@ -25084,7 +25124,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 183070,
       "name": "I See Why",
       "url": "https://open.spotify.com/track/3lsOd2UXiKRZalwRVqvQsD"
@@ -35344,7 +35384,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 194473,
       "name": "Nightmares To Dreams",
       "url": "https://open.spotify.com/track/55t0oslolWtghfZX5VAJ9X"
@@ -39394,6 +39434,24 @@
       "duration_ms": 155912,
       "name": "PARTy T1M3",
       "url": "https://open.spotify.com/track/5h6eWFlGK7NVcliVsmsV4L"
+    },
+    {
+      "album": {
+        "name": "Party With The Boys",
+        "url": "https://open.spotify.com/album/5Ei8O7C8Fa5oXZTNB166Sf"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155492,
+      "name": "Party With The Boys",
+      "url": "https://open.spotify.com/track/5d2Sj3lMKJFefwU26GInQu"
     },
     {
       "album": {
@@ -59876,6 +59934,32 @@
       "duration_ms": 123480,
       "name": "Whoopty",
       "url": "https://open.spotify.com/track/1RSzyxqtIO4yX3EyiV4zT5"
+    },
+    {
+      "album": {
+        "name": "GMFU",
+        "url": "https://open.spotify.com/album/0sjhU3kzHU2dfd6SVrzLIp"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Loe Shimmy",
+          "url": "https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169759,
+      "name": "Why Not? (feat. Quavo & Loe Shimmy)",
+      "url": "https://open.spotify.com/track/3ag3REuwHRHF8kYQffQ8pn"
     },
     {
       "album": {

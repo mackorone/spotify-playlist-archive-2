@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SHrJsyCVuc.md) - [plain]
 
 > A new world of alternative noise\. Cover: Materazi Future Club
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,398 likes - 75 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,411 likes - 75 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SHrJsyCVuc.md) - [plain]
 | 74 | [Good Enough](https://open.spotify.com/track/1B1By24uRkI2EH3UNrcBK8) | [Ultra Lights](https://open.spotify.com/artist/6T7xnpZAOPf4XwrYZclzTA) | [Good Enough](https://open.spotify.com/album/1V3sZlCa2uP1npYlh83fLJ) | 2:07 |
 | 75 | [better](https://open.spotify.com/track/684aK3J9TN158J2DTPJwok) | [REDD.](https://open.spotify.com/artist/57P5LrPq0ndI2MXkwVeDa9) | [better](https://open.spotify.com/album/4dBRpAjGdaspvQ6w2EIW3T) | 3:02 |
 
-Snapshot ID: `AAAAAHBlJLIuHSVpqUBlBv6IOu4vf6Dq`
+Snapshot ID: `AAAAAJG3xFLUYOWcyP6b0gFokrGrCk5M`

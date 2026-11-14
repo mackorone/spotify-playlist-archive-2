@@ -4,7 +4,7 @@
 
 > The best pop songs from new, independent artists as chosen by our editors\.  Cover: Magdalene\. Artwork by Paola Saliby
 
-4,689 songs - 9 day 22 hr 53 min
+4,691 songs - 9 day 22 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -316,6 +316,7 @@
 | [Back Burner](https://open.spotify.com/track/2q8sDj1BHD6zROEHJxM1up) | [Kenna](https://open.spotify.com/artist/2URTargaciP1SelrUSd5oW) | [Back Burner](https://open.spotify.com/album/1NHNvQejqUeBhocwK3yhPF) | 3:31 | 2021-04-15 | 2021-05-13 |
 | [Back For More](https://open.spotify.com/track/3KdJanvjyMJLfEM2m9r6xM) | [Nia Hendricks](https://open.spotify.com/artist/0EptVj895GIreKBh9IA93J) | [Back For More](https://open.spotify.com/album/491kALmann32kQRAZi1VYi) | 3:12 | 2023-03-01 | 2023-04-20 |
 | [Back On Track](https://open.spotify.com/track/2aQb70IwOPZTpUGSi5hT18) | [Jessica Doolan](https://open.spotify.com/artist/5oq3FJxK1ZwmaSJsz0jcwW) | [Back On Track](https://open.spotify.com/album/0A0dISTUPg5aLcW6MHejLn) | 2:37 | 2025-06-11 | 2025-08-14 |
+| [Back To Back](https://open.spotify.com/track/47mM2WXnn8ju70p4LY1lT3) | [Alya](https://open.spotify.com/artist/6xcJFzdGwkQBTtA59Bkckg) | [Back To Back](https://open.spotify.com/album/4WwNQD3PYCtdIQeu5yb2Rx) | 2:38 | 2026-11-13 |  |
 | [Back To Hell](https://open.spotify.com/track/0argBvpz23uO6hbnS0Z3Rc) | [Virgin Miri](https://open.spotify.com/artist/4b9493bfuOM9WoRZU6X3Sm) | [Live a Little Die a Lot](https://open.spotify.com/album/777Seg8Mc1blsN0SwnWu9l) | 4:07 | 2025-01-29 | 2025-04-03 |
 | [Back To Me \(Me Ma Moop\)](https://open.spotify.com/track/0kDXr6VmGWxTVL7CnJw71T) | [Bava](https://open.spotify.com/artist/7lOLWr9bmaivFDeoLYzD1U) | [Back To Me \(Me Ma Moop\)](https://open.spotify.com/album/2SaKz8EkJUeo3UI3pOOtmp) | 2:50 | 2023-05-03 | 2024-01-11 |
 | [Back to You](https://open.spotify.com/track/7zjif2RAeR0LuzlW7OqPoo) | [Adriana](https://open.spotify.com/artist/2h7JR7HbfDuNKibkk9GkDq) | [Back to You](https://open.spotify.com/album/58jIg843UC5iN5sGLoJWIp) | 2:36 | 2022-03-23 | 2022-04-28 |
@@ -1353,7 +1354,7 @@
 | [Feel Something](https://open.spotify.com/track/4Vz0i5HbKRXJPArNWupocT) | [Fraser Churchill](https://open.spotify.com/artist/07Y56gwdkeIu8RZpGy7tSZ), [Alyssa Bonagura](https://open.spotify.com/artist/31P1IMaJH0mI1pvB9jATHB) | [Feel Something](https://open.spotify.com/album/0d8uUGeWpytdTdQeZNHMHq) | 3:30 | 2025-01-08 | 2025-03-06 |
 | [Feel This Way](https://open.spotify.com/track/5wVf9EUmHAecdEtbW6gymV) | [Gustav Boje](https://open.spotify.com/artist/48w6PvCd1MWYSegVsjJ2SA) | [Feel This Way](https://open.spotify.com/album/2Bx7wzmjfECE3WezmwypjN) | 3:09 | 2020-11-12 | 2020-12-08 |
 | [Feel What I'm Feeling](https://open.spotify.com/track/0SJmLC2S4RN2AbYcJWo0oK) | [LEX](https://open.spotify.com/artist/73R7pkwL1kz9gqVScbbjab) | [Feel What I'm Feeling](https://open.spotify.com/album/38GheDPkEHqvq7U20WkwwX) | 2:54 | 2022-10-05 | 2022-12-01 |
-| [feelers](https://open.spotify.com/track/5FtEr2o68yV6ylYE4Mf4fZ) | [favourite daughter](https://open.spotify.com/artist/5adUhor66Yv7p08ReRM8Nk) | [feelers](https://open.spotify.com/album/00lY3S9VQS87lbDYv8xZkx) | 3:35 | 2026-08-12 |  |
+| [feelers](https://open.spotify.com/track/5FtEr2o68yV6ylYE4Mf4fZ) | [favourite daughter](https://open.spotify.com/artist/5adUhor66Yv7p08ReRM8Nk) | [feelers](https://open.spotify.com/album/00lY3S9VQS87lbDYv8xZkx) | 3:35 | 2026-08-12 | 2026-11-14 |
 | [feeling bad about calling](https://open.spotify.com/track/1DUo00h79qftqha6CZsSKs) | [Ari Rivera](https://open.spotify.com/artist/4Vnn6VxzWl4xuVIpkxKRK7) | [leaving flowers out ↶\*ೃ.•° ✿ ✧˚\. ❃ ↷ ˊ\-](https://open.spotify.com/album/0PvmDjbqsglHed3v4tA3UQ) | 2:35 | 2023-01-18 | 2023-02-23 |
 | [Feeling Everything, Holding on to Nothing](https://open.spotify.com/track/3sxJqKD5ytklzROyWqfLCb) | [the Glass Child](https://open.spotify.com/artist/6RzyY9jw5gyIPJ7UhEu05Q) | [Feeling Everything, Holding on to Nothing](https://open.spotify.com/album/27KruQTqklodUHIP302tYb) | 2:00 | 2021-04-01 | 2021-05-13 |
 | [Feeling Fine](https://open.spotify.com/track/7q4Xhregezm9V5EHGUJVt2) | [SKIA](https://open.spotify.com/artist/4l6PJOYB5DTv4fFqYPdYSs) | [Feeling Fine](https://open.spotify.com/album/0k3Z9JIf9VZtC8brBQhEK9) | 2:33 | 2020-12-03 | 2020-12-08 |
@@ -1567,6 +1568,7 @@
 | [Give](https://open.spotify.com/track/3yIx7p0dlbFrXdchaLhQoE) | [Hadi](https://open.spotify.com/artist/6IoMp72EAMD3JogASNYTLa), [Melissa Lamm](https://open.spotify.com/artist/334LO02AucGEYUBb4Rhx4K), [Kerfo](https://open.spotify.com/artist/1JeTdcoPRh3A4KOJtnQyJ3) | [Give](https://open.spotify.com/album/2JoASvtr8fOgSKk5nevhdS) | 3:53 | 2020-10-29 | 2020-11-18 |
 | [Give a Little](https://open.spotify.com/track/4MjXZqLHPOHefLJ1CGgBqc) | [Ronia](https://open.spotify.com/artist/4L4QpdKFBYczH54017Zh3Z) | [Give a Little](https://open.spotify.com/album/39juknpd3rYUQSBRFxklcM) | 3:11 | 2026-10-14 |  |
 | [Give It To Me](https://open.spotify.com/track/1S4HPRUxROzKH5fVenmN9t) | [MATCHA](https://open.spotify.com/artist/0GZbuy9UUeALxPTa5GpRrf) | [Give It To Me](https://open.spotify.com/album/46xzbUFY7h7vDG4ZdLHaqx) | 2:52 | 2023-08-30 | 2023-10-12 |
+| [give it up](https://open.spotify.com/track/6YhXYZYBhG6hMC2CgaLR2s) | [love, brandon](https://open.spotify.com/artist/6waghryvFV0joFY6o70fYC) | [give it up](https://open.spotify.com/album/1DkwXw3hkbka3RtfIwjJKM) | 3:18 | 2026-11-13 |  |
 | [Give Me A Sign \(feat\. Caroline Kingsbury\)](https://open.spotify.com/track/3DrbSP3GR8cEqWcR6jf9yJ) | [MARIS](https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE), [Caroline Kingsbury](https://open.spotify.com/artist/0uE0bzpIfuZ9XVduu0byzg) | [Give Me A Sign \(feat\. Caroline Kingsbury\)](https://open.spotify.com/album/5xbuVE2oApu5EVIbJhLpEc) | 2:59 | 2025-03-19 | 2026-01-15 |
 | [give me back](https://open.spotify.com/track/1if48fiASdlxNzdQYHIzqm) | [Matt Hall](https://open.spotify.com/artist/0T7K16td62laqeZKtTyv4e) | [give me back](https://open.spotify.com/album/47umtZyyEuGpngw0h5a5o1) | 2:17 | 2022-07-27 | 2022-09-15 |
 | [Give Me The Moon](https://open.spotify.com/track/7a8Rfevy7Fdkhg3bvZpIYJ) | [Siena Bella](https://open.spotify.com/artist/2YLY2wTMVd6FwFqFLWwP7C) | [Give Me The Moon](https://open.spotify.com/album/4NZX2Dq1VdgIduJ4jXVgFN) | 3:08 | 2023-03-15 | 2023-04-06 |
@@ -2357,7 +2359,7 @@
 | [Left My Lover](https://open.spotify.com/track/4CiUCRZjWRqFvZkz7xnbk0) | [Mariam Kubursi](https://open.spotify.com/artist/619doDBQCaDpnvpRc14gMJ) | [Left My Lover](https://open.spotify.com/album/76ycC6aJQwyeimn1fX8ulL) | 1:03 | 2026-08-26 |  |
 | [Left Unsaid](https://open.spotify.com/track/1yrGI6TsSmBs7Gs0AkXkxG) | [Somitelle](https://open.spotify.com/artist/2om8Z9DT6kNzHd9x6vdmgf) | [Left Unsaid](https://open.spotify.com/album/0YjxfgttYy9Sw8anKKzJcR) | 3:06 | 2022-05-11 | 2022-06-30 |
 | [Lego Blocks](https://open.spotify.com/track/01RJQlTi0aR0syDcSFLzTv) | [NERIAH](https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG) | [Lego Blocks](https://open.spotify.com/album/1z6yLxp8En102543kFdidP) | 2:39 | 2022-06-08 | 2023-01-12 |
-| [Lemonade](https://open.spotify.com/track/3Cof51IjtIRLXf9kE2rJWf) | [Alya](https://open.spotify.com/artist/6xcJFzdGwkQBTtA59Bkckg) | [Lemonade](https://open.spotify.com/album/1FPTrSxtlfZvTcGE7n23DX) | 2:49 | 2026-09-25 |  |
+| [Lemonade](https://open.spotify.com/track/3Cof51IjtIRLXf9kE2rJWf) | [Alya](https://open.spotify.com/artist/6xcJFzdGwkQBTtA59Bkckg) | [Lemonade](https://open.spotify.com/album/1FPTrSxtlfZvTcGE7n23DX) | 2:49 | 2026-09-25 | 2026-11-14 |
 | [Lemonade](https://open.spotify.com/track/0q6BSDsaOryg8o396XTC8g) | [Dutchkid](https://open.spotify.com/artist/2mgl6HmStFhjJciWKpStup) | [Lemonade](https://open.spotify.com/album/6HueWBXlOgr22O2ZLdnDOB) | 3:16 | 2021-02-04 | 2021-03-06 |
 | [Lemonade](https://open.spotify.com/track/2eeufUoiKPhFGFhy3rLRGR) | [J.O.Y](https://open.spotify.com/artist/1oB65aeaC4Cql0h6VvX0mm) | [Lemonade](https://open.spotify.com/album/4ryZIaGwGRzAO9MOXwsujX) | 2:26 | 2021-11-11 | 2021-12-01 |
 | [Lemonade](https://open.spotify.com/track/5gK0bv6DMbmfne9ktJ4ZJL) | [Lone Waves](https://open.spotify.com/artist/45EpHuWKvRCZZSVininBeS) | [Lemonade](https://open.spotify.com/album/3YFYT5aq1rYO05EdZ4Q7Fd) | 4:04 | 2022-09-14 | 2022-11-10 |

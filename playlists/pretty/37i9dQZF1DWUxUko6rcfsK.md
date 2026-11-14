@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUxUko6rcfsK.md) - [plain]
 
 > Het leven is 'beautiful' en dat verdient fijne muziek!
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,240 likes - 80 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,230 likes - 80 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUxUko6rcfsK.md) - [plain]
 | 79 | [Truth](https://open.spotify.com/track/5PIVsmRNAY3Jm4rjiZF4Wy) | [Gildor](https://open.spotify.com/artist/2DyS2mSsaFkj5nFB3P6KqU) | [Truth](https://open.spotify.com/album/1boryF8Znj8KXWvXbTlO8k) | 4:21 |
 | 80 | [The City](https://open.spotify.com/track/1l3h3VMG7JTXJkketTj3cJ) | [Iskander Moon](https://open.spotify.com/artist/4DHxzuCSdrTZgeNMEYg7u0) | [The City](https://open.spotify.com/album/4AGhuWCKdBxE7fmZnyF1Zm) | 3:59 |
 
-Snapshot ID: `AAAAANirjJ70yMjjetLKwzIZddls4LXV`
+Snapshot ID: `AAAAALNj9PCoAC989EleZ3nwugiS5wO8`

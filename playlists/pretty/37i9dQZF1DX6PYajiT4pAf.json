@@ -1,12 +1,12 @@
 {
   "description": "Ralphie Choo, Hijos de la Ruina con Morad, SFDK, MARLENA y m\u00e1s novedades de la semana.",
-  "num_followers": 418533,
+  "num_followers": 419010,
   "original_name": "Novedades Viernes Espa\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIDv56jYa6z03aNd30Cn4ZHtL7rc",
+  "snapshot_id": "AAAAADzJmXiLfhowITU/RzBaPHmdgHOc",
   "tracks": [
     {
       "added_at": "2026-11-12 23:01:33",
@@ -219,6 +219,30 @@
       "duration_ms": 155171,
       "name": "Migajas",
       "url": "https://open.spotify.com/track/6X0xjArooU3ErLHpJAhx7w"
+    },
+    {
+      "added_at": "2026-11-13 09:18:20",
+      "album": {
+        "name": "Bello Love",
+        "url": "https://open.spotify.com/album/6ycs34x4CApaQ6ctfb4smL"
+      },
+      "artists": [
+        {
+          "name": "DJ Premier",
+          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Lil Supa",
+          "url": "https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K"
+        }
+      ],
+      "duration_ms": 233256,
+      "name": "Bello Love",
+      "url": "https://open.spotify.com/track/6DUJpDcQrJ3N8r9MuWZA3a"
     },
     {
       "added_at": "2026-11-12 23:01:33",

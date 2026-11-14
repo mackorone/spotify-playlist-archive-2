@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: 5Leaf
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,970 likes - 116 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,973 likes - 116 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

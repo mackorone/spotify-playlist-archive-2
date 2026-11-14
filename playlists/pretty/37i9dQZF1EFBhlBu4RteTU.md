@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBhlBu4RteTU.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2TvuFmg5Ep8sodlGHVo1DI">Daniel Nigro</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,702 likes - 200 songs - 11 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,703 likes - 200 songs - 11 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,10 +113,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBhlBu4RteTU.md) - [plain]
 | 103 | [Bed Rest](https://open.spotify.com/track/7fnrjy0Sd6Lj1IBalr424v) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow, Decomposed \(5 Year Anniversary\)](https://open.spotify.com/album/0NIuyJBQRvPaIjnyvTMBIe) | 4:08 |
 | 104 | [Habitual Love](https://open.spotify.com/track/5JOnQCQ9OGn7hY23aCkdlL) | [Okay Kaya](https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb) | [Both](https://open.spotify.com/album/0hox2EUyClXESGW5BupW8F) | 3:18 |
 | 105 | [That’s So Funny](https://open.spotify.com/track/58GzB1Ag0nyo2kjuGgmLax) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [BITE ME](https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN) | 2:49 |
-| 106 | [Roots](https://open.spotify.com/track/6OGA6Cq649xxKxP3c4F7xi) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Deadpan Love](https://open.spotify.com/album/4UEIfM6VbbjiSVUwPFXWxO) | 2:50 |
-| 107 | [Look At Me Now](https://open.spotify.com/track/1z7Pc2fpIffOtXQh1XHMn9) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Pang](https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD) | 3:03 |
-| 108 | [Divide](https://open.spotify.com/track/56gDMsPfzD6UNG318InjIU) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sonder \(2023\)](https://open.spotify.com/album/0uEpKcZU1hGooddCjct4j2) | 3:23 |
-| 109 | [take me home \(4 christmas\)](https://open.spotify.com/track/4UjYZS6Jbt3lee27qmiNOu) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [take me home \(4 christmas\)](https://open.spotify.com/album/50o3Wm98DQENFLiiX3zd5B) | 2:57 |
+| 106 | [take me home \(4 christmas\)](https://open.spotify.com/track/4UjYZS6Jbt3lee27qmiNOu) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [take me home \(4 christmas\)](https://open.spotify.com/album/50o3Wm98DQENFLiiX3zd5B) | 2:57 |
+| 107 | [Roots](https://open.spotify.com/track/6OGA6Cq649xxKxP3c4F7xi) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Deadpan Love](https://open.spotify.com/album/4UEIfM6VbbjiSVUwPFXWxO) | 2:50 |
+| 108 | [Look At Me Now](https://open.spotify.com/track/1z7Pc2fpIffOtXQh1XHMn9) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Pang](https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD) | 3:03 |
+| 109 | [Divide](https://open.spotify.com/track/56gDMsPfzD6UNG318InjIU) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sonder \(2023\)](https://open.spotify.com/album/0uEpKcZU1hGooddCjct4j2) | 3:23 |
 | 110 | [Love In Stereo](https://open.spotify.com/track/1EuOJLjHYZCEPcGJqAC3wZ) | [Sky Ferreira](https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q) | [Night Time, My Time](https://open.spotify.com/album/1bvCVYPVl445mO690M2dOr) | 3:17 |
 | 111 | [Sabotage](https://open.spotify.com/track/1eQZUmC4ZBYHvOOyl1JkN5) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [For Abby](https://open.spotify.com/album/7KHTE99FaDr8r7V8BZG7WN) | 2:44 |
 | 112 | [I Will](https://open.spotify.com/track/5HEeBCUDho3uQVNu98CvsS) | [Sky Ferreira](https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q) | [Night Time, My Time](https://open.spotify.com/album/1bvCVYPVl445mO690M2dOr) | 3:18 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBhlBu4RteTU.md) - [plain]
 | 199 | [True Colors](https://open.spotify.com/track/47ICNqdMooisXYDY9063pY) | [Emi Secrest](https://open.spotify.com/artist/1bDakkWepyTf2HyB4ePueW) | [Blue](https://open.spotify.com/album/1WP3BlwTyHkhTCgEiTrrWt) | 2:38 |
 | 200 | [Room Full of Mirrors](https://open.spotify.com/track/575owOjbSHWq3uMcDNGGWa) | [Erick Serna and The Killing Floor](https://open.spotify.com/artist/2JfFx5R68c7Sv8d0DE3tpZ) | [Room Full of Mirrors](https://open.spotify.com/album/0glMPgDt0hUuMU3pE042BN) | 2:59 |
 
-Snapshot ID: `AchgbAAAAABhdp9HD/D5GmDjNxeDUuVv`
+Snapshot ID: `AchmDAAAAAB1/B1iXqLpfsYRUpEOMKqW`

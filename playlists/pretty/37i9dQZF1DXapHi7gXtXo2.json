@@ -1,6 +1,6 @@
 {
   "description": "Dale play y d\u00e9jate llevar por estas finas melod\u00edas Indie.",
-  "num_followers": 94780,
+  "num_followers": 94786,
   "original_name": "Radio Indie",
   "owner": {
     "name": "Spotify",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "Delorean",
-        "url": "https://open.spotify.com/album/5fajWt99WhQeqwdcLaLi6t"
-      },
-      "artists": [
-        {
-          "name": "Mi$HNRZ",
-          "url": "https://open.spotify.com/artist/1pnscOsCDX2GTRnmxT1l1C"
-        }
-      ],
-      "duration_ms": 188400,
-      "name": "Delorean",
-      "url": "https://open.spotify.com/track/2jiVXTu5brRC5HWo47obWP"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
         "name": "Joderlo Todo",
         "url": "https://open.spotify.com/album/3a5u1dS9MeqrQtSLqrXxrs"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 197508,
       "name": "pensando en ti",
       "url": "https://open.spotify.com/track/3G6Mo5GUWdzPZdsmdU4juo"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
+        "name": "Delorean",
+        "url": "https://open.spotify.com/album/5fajWt99WhQeqwdcLaLi6t"
+      },
+      "artists": [
+        {
+          "name": "Mi$HNRZ",
+          "url": "https://open.spotify.com/artist/1pnscOsCDX2GTRnmxT1l1C"
+        }
+      ],
+      "duration_ms": 188400,
+      "name": "Delorean",
+      "url": "https://open.spotify.com/track/2jiVXTu5brRC5HWo47obWP"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
+        "name": "Quemarropa",
+        "url": "https://open.spotify.com/album/5EOlfoHmwgfn6N5Vz74ss9"
+      },
+      "artists": [
+        {
+          "name": "Juku Ares",
+          "url": "https://open.spotify.com/artist/02WiMWJUw1eRS0d2tEJauw"
+        }
+      ],
+      "duration_ms": 180891,
+      "name": "Porque",
+      "url": "https://open.spotify.com/track/50mMnSKjwWAvkL3OwUiVhS"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
         "name": "C\u00f3mo Te Extra\u00f1o Mi Amor",
         "url": "https://open.spotify.com/album/4BmqOdFP8fsrpVMe3LcHp9"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 164433,
       "name": "Brillas en la Pista",
       "url": "https://open.spotify.com/track/07VHlK0Hmov13F7b6cEKMt"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
-        "name": "Quemarropa",
-        "url": "https://open.spotify.com/album/5EOlfoHmwgfn6N5Vz74ss9"
-      },
-      "artists": [
-        {
-          "name": "Juku Ares",
-          "url": "https://open.spotify.com/artist/02WiMWJUw1eRS0d2tEJauw"
-        }
-      ],
-      "duration_ms": 180891,
-      "name": "Porque",
-      "url": "https://open.spotify.com/track/50mMnSKjwWAvkL3OwUiVhS"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -1455,18 +1455,18 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "Good Fortune",
-        "url": "https://open.spotify.com/album/6zVkGOcuB0tTe7g37nhRci"
+        "name": "Ya ni mis amigos me contestan",
+        "url": "https://open.spotify.com/album/4cRlAWKFa1WSqZ2JDcvP8b"
       },
       "artists": [
         {
-          "name": "CVMILLE",
-          "url": "https://open.spotify.com/artist/5Lz2Klao37ArvAt73yMqNv"
+          "name": "Santi Celli",
+          "url": "https://open.spotify.com/artist/3zoMlg6gx6K4NcGE15qtCF"
         }
       ],
-      "duration_ms": 164815,
-      "name": "Good Fortune",
-      "url": "https://open.spotify.com/track/4D1NdEyO3B9dJsLDybQnX9"
+      "duration_ms": 195119,
+      "name": "Ya ni mis amigos me contestan",
+      "url": "https://open.spotify.com/track/0P9nPSZTrFXB5vvVBqEC6n"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -1487,18 +1487,34 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "Ya ni mis amigos me contestan",
-        "url": "https://open.spotify.com/album/4cRlAWKFa1WSqZ2JDcvP8b"
+        "name": "Good Fortune",
+        "url": "https://open.spotify.com/album/6zVkGOcuB0tTe7g37nhRci"
       },
       "artists": [
         {
-          "name": "Santi Celli",
-          "url": "https://open.spotify.com/artist/3zoMlg6gx6K4NcGE15qtCF"
+          "name": "CVMILLE",
+          "url": "https://open.spotify.com/artist/5Lz2Klao37ArvAt73yMqNv"
         }
       ],
-      "duration_ms": 195119,
-      "name": "Ya ni mis amigos me contestan",
-      "url": "https://open.spotify.com/track/0P9nPSZTrFXB5vvVBqEC6n"
+      "duration_ms": 164815,
+      "name": "Good Fortune",
+      "url": "https://open.spotify.com/track/4D1NdEyO3B9dJsLDybQnX9"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
+        "name": "T\u00fa",
+        "url": "https://open.spotify.com/album/0CFy2tIg0L4rGxZ5NbgtFe"
+      },
+      "artists": [
+        {
+          "name": "Fernando Milagros",
+          "url": "https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN"
+        }
+      ],
+      "duration_ms": 224893,
+      "name": "T\u00fa",
+      "url": "https://open.spotify.com/track/7e6vvTnOICR7sY6MKkmh20"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -1519,22 +1535,6 @@
       "duration_ms": 213956,
       "name": "Te odio",
       "url": "https://open.spotify.com/track/1vzlHuHG3faKy8B0eM1qkz"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
-        "name": "T\u00fa",
-        "url": "https://open.spotify.com/album/0CFy2tIg0L4rGxZ5NbgtFe"
-      },
-      "artists": [
-        {
-          "name": "Fernando Milagros",
-          "url": "https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN"
-        }
-      ],
-      "duration_ms": 224893,
-      "name": "T\u00fa",
-      "url": "https://open.spotify.com/track/7e6vvTnOICR7sY6MKkmh20"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -1711,6 +1711,22 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
+        "name": "Change Your Mind",
+        "url": "https://open.spotify.com/album/4DmQXKj0chk1Prwe0rbkhe"
+      },
+      "artists": [
+        {
+          "name": "Pacifica",
+          "url": "https://open.spotify.com/artist/4YcQuAswXPWdO2WAxTRXse"
+        }
+      ],
+      "duration_ms": 147772,
+      "name": "Change Your Mind",
+      "url": "https://open.spotify.com/track/5yqgKyX1TOG41LBSosE1X8"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
         "name": "Portales",
         "url": "https://open.spotify.com/album/6UtZXhgIDo8ydcMCo2zZWd"
       },
@@ -1727,22 +1743,6 @@
       "duration_ms": 197506,
       "name": "Cuando Estamos los Dos",
       "url": "https://open.spotify.com/track/0qbYbugP6J7esmnRJpDThd"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
-        "name": "Change Your Mind",
-        "url": "https://open.spotify.com/album/4DmQXKj0chk1Prwe0rbkhe"
-      },
-      "artists": [
-        {
-          "name": "Pacifica",
-          "url": "https://open.spotify.com/artist/4YcQuAswXPWdO2WAxTRXse"
-        }
-      ],
-      "duration_ms": 147772,
-      "name": "Change Your Mind",
-      "url": "https://open.spotify.com/track/5yqgKyX1TOG41LBSosE1X8"
     }
   ],
   "unique_name": "Radio Indie",

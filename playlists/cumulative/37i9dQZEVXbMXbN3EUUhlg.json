@@ -1284,7 +1284,7 @@
       ],
       "date_added": "2026-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-13",
+      "date_removed": null,
       "duration_ms": 170858,
       "name": "A Mais Amada Do Brasil",
       "url": "https://open.spotify.com/track/4wCKcA0EqDPHRvWJUGLk22"
@@ -10266,7 +10266,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 213191,
       "name": "Deixe Me Ir (feat. Pablo Martins) - Ac\u00fastico 1Kilo",
       "url": "https://open.spotify.com/track/6JKkP9ABQzYZUFSKSVDKIc"
@@ -28757,6 +28757,24 @@
     },
     {
       "album": {
+        "name": "AL\u00c9M DO REGISTRO (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2ASWQHJFKO2fRk1mwHurwr"
+      },
+      "artists": [
+        {
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159444,
+      "name": "OLHA A MORAL - Ao Vivo",
+      "url": "https://open.spotify.com/track/5pf1m4jd25Z23seuTewHv3"
+    },
+    {
+      "album": {
         "name": "Let's Go Rodeo",
         "url": "https://open.spotify.com/album/4NqeEHz29Ime2EZV8AUHkh"
       },
@@ -34086,7 +34104,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 255758,
       "name": "Resenha dos Amigos 2.0",
       "url": "https://open.spotify.com/track/3uZpICdc5ScOYV6xNCMNJr"

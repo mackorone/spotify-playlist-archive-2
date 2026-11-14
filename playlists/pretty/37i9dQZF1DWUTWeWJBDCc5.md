@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTWeWJBDCc5.md) - [plain]
 
 > 스포티파이 코리아 에디터가 고른 한국의 장소와 일상, 그리고 그곳에 남은 기억을 담은 노래들.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,997 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,025 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTWeWJBDCc5.md) - [plain]
 | 49 | [Hongdae R&B](https://open.spotify.com/track/5TIwTvdD7OpJBt0tqIWLH3) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Hongdae R&B](https://open.spotify.com/album/7v7uC2wkD1Jh95G9Y5gbJb) | 3:02 |
 | 50 | [Gugidong With Firefly](https://open.spotify.com/track/5976Dn1rX1Emxx6SquxinZ) | [OWALLOIL](https://open.spotify.com/artist/59THIwTnvgT7SeGFzocky2) | [Campo](https://open.spotify.com/album/5MaRg0ckIJaCk5KXypJGxJ) | 3:25 |
 
-Snapshot ID: `AAAAANQYuFc4BWTOcEExzH/erJrbX2yA`
+Snapshot ID: `AAAAAKEGGBvKKOYMM2wyoJLTAj8HvqOx`

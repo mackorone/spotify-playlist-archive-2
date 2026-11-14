@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5tDsz1WqJv1ZFSXeC453wy">Teddy Geiger</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-250 songs - 13 hr 53 min
+251 songs - 13 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,7 @@
 | [Hurt Me Now](https://open.spotify.com/track/6tDrZQQhEWrHsYafpziiwg) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [Beach House](https://open.spotify.com/album/5shnElSTugZ2ITzWUmDS5L) | 3:41 | 2022-09-08 | 2022-10-21 |
 | [Hurt Me Now](https://open.spotify.com/track/6vrdhvVQXyg7Rji0tFN1Gv) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [Beach House](https://open.spotify.com/album/34CM6goLL2v6OYsYpVtV80) | 3:41 | 2022-10-20 |  |
 | [hurts 2b human](https://open.spotify.com/track/7vxuG6iLWwvFtqjg9uMK6x) | [Ni/Co's Covers](https://open.spotify.com/artist/14nRu7BBWmBVENgfwi1YjY), [Ni/Co](https://open.spotify.com/artist/2IR0GSCHsTo7gSw8HHLBnr) | [feel good!!](https://open.spotify.com/album/6ZTKQ5iWAf3hSxZ2iiDimM) | 2:01 | 2026-11-12 |  |
-| [Hurts 2B Human \(feat\. Khalid\)](https://open.spotify.com/track/2BM7nF0pMIpLQOT04o691Z) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Hurts 2B Human](https://open.spotify.com/album/0hgt3tZlHEGukN56ueTGcL) | 3:22 | 2022-09-08 |  |
+| [Hurts 2B Human \(feat\. Khalid\)](https://open.spotify.com/track/2BM7nF0pMIpLQOT04o691Z) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Hurts 2B Human](https://open.spotify.com/album/0hgt3tZlHEGukN56ueTGcL) | 3:22 | 2022-09-08 | 2026-11-14 |
 | [i belong here](https://open.spotify.com/track/3dX1DRDdGTy3Y3cDmD0Bf0) | [teddy<3](https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW), [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC) | [TERESA](https://open.spotify.com/album/6sejR4CikY0DijxTf7vBd5) | 3:38 | 2023-12-14 |  |
 | [I Don't Wanna Dance](https://open.spotify.com/track/5eLpZ8zv4yncE0RFZlRpD2) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [How Will You Know If You Never Try](https://open.spotify.com/album/4TJUrdwbeKC9qcouPlBuLe) | 3:00 | 2022-09-08 |  |
 | [I Feel Good](https://open.spotify.com/track/4vLRCGOBz4zIS8nEHk5v9j) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [LunchMoney Lewis](https://open.spotify.com/artist/2iUbk5KhZYZt4CRvWbwb7S) | [Tangled Up](https://open.spotify.com/album/4ykbJPI8MPscFzROE8dqLy) | 3:15 | 2022-09-08 |  |
@@ -137,6 +137,7 @@
 | [Mercy](https://open.spotify.com/track/6EKvI1Beyh29HJoLJOdfw2) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Illuminate](https://open.spotify.com/album/1ne2D0NxoGyZd31gAM4HNd) | 3:28 | 2026-02-12 | 2026-02-14 |
 | [Modern](https://open.spotify.com/track/3bC6bHyz5nRWqGZwWlrrNc) | [Julianna Joy](https://open.spotify.com/artist/0USR2QFOObXNb4xQxDeLjs) | [Garden of Eden](https://open.spotify.com/album/5qXrV4ZkxKeHtXhfApE7ge) | 4:19 | 2022-09-08 |  |
 | [more than that](https://open.spotify.com/track/3YsxS7SqZkCWwatfmJkISE) | [teddy<3](https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW), [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC) | [TERESA](https://open.spotify.com/album/6sejR4CikY0DijxTf7vBd5) | 3:28 | 2023-12-14 |  |
+| [Mutual](https://open.spotify.com/track/5gW3kI83886nVV9apaFLWu) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn Mendes](https://open.spotify.com/album/2VP96XdMOKTXefI8Nui23s) | 2:28 | 2026-11-13 |  |
 | [My Whole Life](https://open.spotify.com/track/3oo8W1b5umFaPXQELkhe3I) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 2:14 | 2022-09-08 |  |
 | [never enough](https://open.spotify.com/track/0QsjAwnyBfwxL5OTXajUDj) | [teddy<3](https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW), [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC) | [TERESA](https://open.spotify.com/album/6sejR4CikY0DijxTf7vBd5) | 3:42 | 2023-12-13 |  |
 | [Never Enough](https://open.spotify.com/track/5K7j29Hm2I7t2XNdOnlgdb) | [teddy<3](https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW), [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC) | [Never Enough](https://open.spotify.com/album/21o8pGHk8rShMPdI4ZNnoa) | 3:42 | 2023-08-10 | 2023-12-14 |

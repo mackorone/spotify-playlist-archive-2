@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF9vcF2v630V.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1ZwPZeXfWTcEVLQRCOBcvc">Chelcee Grimes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 577 likes - 77 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 577 likes - 78 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,13 +77,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF9vcF2v630V.md) - [plain]
 | 67 | [Girl](https://open.spotify.com/track/3wHuC5pKk7TpvoupuTeZzj) | [Krystal Roxx](https://open.spotify.com/artist/79Znj8lVVpXXJ4KHDfCVk0), [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [Girl](https://open.spotify.com/album/0pafIzlF5MDBTpZEPjZpBL) | 3:06 |
 | 68 | [Playground](https://open.spotify.com/track/4XOt0iwNTXhIRY7pEwCrkx) | [Alexa Curtis](https://open.spotify.com/artist/3LT9ZwcBwm9dNIXnReLknF) | [Playground](https://open.spotify.com/album/2TQrRtp7JxUtRun0Z5U3Z9) | 3:59 |
 | 69 | [Vabank](https://open.spotify.com/track/7mlveqBsHCR5a9SEDVo7lS) | [Honorata Skarbek](https://open.spotify.com/artist/05Fgqq7GfWeNol1TR5H3og) | [Puzzle](https://open.spotify.com/album/1Vdso29GjI3NKulPRhGSeX) | 3:33 |
-| 70 | [Cry Baby](https://open.spotify.com/track/6CUhst2FN306kgbPZRDMlX) | [Vize Verza](https://open.spotify.com/artist/7866WqAIb0XvXRlRPTUCir) | [Cry Baby](https://open.spotify.com/album/3qw9vLNZSZVp0nspvfnYMQ) | 2:54 |
-| 71 | [All My People \- 中文版](https://open.spotify.com/track/3Ta0Hnlvfbxnem4IIppvGf) | [许馨文](https://open.spotify.com/artist/0Jvi0y59ruUoFx588uY6SV) | [ALL MY PEOPLE](https://open.spotify.com/album/1fJ3CHMlfIi7x52GoS08pV) | 3:46 |
-| 72 | [Mother](https://open.spotify.com/track/6w0UT19dw0IRWtLMQyn1Sq) | [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [Mother](https://open.spotify.com/album/3PzaUA5NnjrDsDECx5tcSe) | 3:19 |
-| 73 | [Better&Better](https://open.spotify.com/track/66pMYpqQfrPHUN2a2i2Xmk) | [JustHooks](https://open.spotify.com/artist/6QC9azwBR7Yqujod4hNV2l) | [Better&Better](https://open.spotify.com/album/4TuCKQHAUQEIChrCJ0QEcD) | 2:24 |
-| 74 | [But I Do](https://open.spotify.com/track/16lvGxW2cgIJAxBBSGFgBU) | [Temmpo](https://open.spotify.com/artist/0o8NoczMZj9htxom4VU0Jj) | [Summer EDM Pop](https://open.spotify.com/album/7w2wgSDixtsRQuEEFkzTKy) | 2:25 |
-| 75 | [Lose Your Love](https://open.spotify.com/track/1ZcoivP306CXMsTrraieyl) | [G.E.N](https://open.spotify.com/artist/4Y3tXdzJcL5QK0xtwzZ6bH) | [Lose Your Love](https://open.spotify.com/album/36h0O23tuHkodL6puWYbII) | 2:39 |
-| 76 | [Forever](https://open.spotify.com/track/1s6D3PQHOlpmylZqT0NjQi) | [dreamhouse](https://open.spotify.com/artist/4RfivXSc4tPlg4avnBN5PJ) | [Sha La La](https://open.spotify.com/album/4cEGZCz6TdHTqhQkSdonoD) | 3:22 |
-| 77 | [Yours](https://open.spotify.com/track/2z7duIciqreJ2TgxgA4Hr6) | [G.E.N](https://open.spotify.com/artist/4Y3tXdzJcL5QK0xtwzZ6bH) | [Yours](https://open.spotify.com/album/3Biv04oSSRa7hpjqGSOhmP) | 2:50 |
+| 70 | [Out Of Control](https://open.spotify.com/track/4sB48VYROXFtKbuRTreGma) | [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r), [JustHooks](https://open.spotify.com/artist/6QC9azwBR7Yqujod4hNV2l) | [Out Of Control](https://open.spotify.com/album/7MTldAIUcnpLhNjFZpCHDb) | 3:13 |
+| 71 | [Cry Baby](https://open.spotify.com/track/6CUhst2FN306kgbPZRDMlX) | [Vize Verza](https://open.spotify.com/artist/7866WqAIb0XvXRlRPTUCir) | [Cry Baby](https://open.spotify.com/album/3qw9vLNZSZVp0nspvfnYMQ) | 2:54 |
+| 72 | [All My People \- 中文版](https://open.spotify.com/track/3Ta0Hnlvfbxnem4IIppvGf) | [许馨文](https://open.spotify.com/artist/0Jvi0y59ruUoFx588uY6SV) | [ALL MY PEOPLE](https://open.spotify.com/album/1fJ3CHMlfIi7x52GoS08pV) | 3:46 |
+| 73 | [Mother](https://open.spotify.com/track/6w0UT19dw0IRWtLMQyn1Sq) | [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [Mother](https://open.spotify.com/album/3PzaUA5NnjrDsDECx5tcSe) | 3:19 |
+| 74 | [Better&Better](https://open.spotify.com/track/66pMYpqQfrPHUN2a2i2Xmk) | [JustHooks](https://open.spotify.com/artist/6QC9azwBR7Yqujod4hNV2l) | [Better&Better](https://open.spotify.com/album/4TuCKQHAUQEIChrCJ0QEcD) | 2:24 |
+| 75 | [But I Do](https://open.spotify.com/track/16lvGxW2cgIJAxBBSGFgBU) | [Temmpo](https://open.spotify.com/artist/0o8NoczMZj9htxom4VU0Jj) | [Summer EDM Pop](https://open.spotify.com/album/7w2wgSDixtsRQuEEFkzTKy) | 2:25 |
+| 76 | [Lose Your Love](https://open.spotify.com/track/1ZcoivP306CXMsTrraieyl) | [G.E.N](https://open.spotify.com/artist/4Y3tXdzJcL5QK0xtwzZ6bH) | [Lose Your Love](https://open.spotify.com/album/36h0O23tuHkodL6puWYbII) | 2:39 |
+| 77 | [Forever](https://open.spotify.com/track/1s6D3PQHOlpmylZqT0NjQi) | [dreamhouse](https://open.spotify.com/artist/4RfivXSc4tPlg4avnBN5PJ) | [Sha La La](https://open.spotify.com/album/4cEGZCz6TdHTqhQkSdonoD) | 3:22 |
+| 78 | [Yours](https://open.spotify.com/track/2z7duIciqreJ2TgxgA4Hr6) | [G.E.N](https://open.spotify.com/artist/4Y3tXdzJcL5QK0xtwzZ6bH) | [Yours](https://open.spotify.com/album/3Biv04oSSRa7hpjqGSOhmP) | 2:50 |
 
-Snapshot ID: `AchgbAAAAADribo7M4+Db0rxxlf5VjdC`
+Snapshot ID: `AchmDAAAAACcqUwZO+TUQ67kFWKpKUbW`

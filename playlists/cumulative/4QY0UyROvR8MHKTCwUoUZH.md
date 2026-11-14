@@ -4,7 +4,7 @@
 
 > De perfecte Koffie Playlist voor jouw ochtendritueel ☕️ Geniet van de beste acoustic pop, chilled indie en ontspannende singer\-songwriter muziek\. Met o.a\. Fleetwood Mac, Olivia Dean en Alyssa Grace\. Ideaal voor in een café, tijdens het lezen of bij de perfecte cappuccino! 📖✨ Klaar voor de herfst!
 
-336 songs - 18 hr 53 min
+339 songs - 19 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Audrey Hepburn](https://open.spotify.com/track/7hoPbfGuOZe6FKBlwB2d21) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [You You You / Audrey Hepburn](https://open.spotify.com/album/2IHW6rf6xGNhT1HuMEG5Pu) | 3:06 | 2025-10-10 |  |
 | [Azizam \- Acoustic](https://open.spotify.com/track/2IQz2JtlZ4GjMuXcusYF2i) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Azizam \(Acoustic\)](https://open.spotify.com/album/4vsBt7vutpoO2ebjuTinkn) | 2:40 | 2025-07-18 | 2026-02-07 |
 | [Baby steps](https://open.spotify.com/track/7AqTaMPfAGBtAqtcTvbAtl) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [I think I spoke too soon](https://open.spotify.com/album/354hclDfb4GX3gIXwYknTL) | 2:53 | 2026-10-16 |  |
+| [Babydoll](https://open.spotify.com/track/1o9mAOmNm3wT2NdyGV1Ard) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Babydoll](https://open.spotify.com/album/2FRSDXehsQLDy2rYnZ9Drq) | 2:58 | 2026-11-13 |  |
 | [back to friends](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [back to friends](https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E) | 3:19 | 2025-07-18 |  |
 | [Bad Dreams](https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Bad Dreams](https://open.spotify.com/album/2VxQFEEnhwiV5LpMuHKViR) | 3:04 | 2025-07-18 | 2026-02-07 |
 | [Basis](https://open.spotify.com/track/5F6dMIDa3Q4VOSzYqkhJOv) | [Amina](https://open.spotify.com/artist/3xCILTJGZGNKQt4vaYUAAc) | [Basis](https://open.spotify.com/album/3FlNNW7jjryAR5uTeGi19R) | 2:54 | 2025-10-10 | 2026-02-07 |
@@ -104,6 +105,7 @@
 | [Funeral](https://open.spotify.com/track/6LdPN8UPj0Ne9Reg6XkDyO) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Funeral](https://open.spotify.com/album/2VHfWdrPP2EgETjiaGBIY6) | 3:32 | 2026-09-04 |  |
 | [Game Over Jazz](https://open.spotify.com/track/1bWEoUlX1fogQ4xy0TveOT) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Beat Tape III](https://open.spotify.com/album/6bhdbUuEQ9GEmnFrtwmO9w) | 1:30 | 2025-09-19 | 2025-09-27 |
 | [Girl](https://open.spotify.com/track/3ayq1aFbXb5kmQrBGLOmjG) | [Stevie Bill](https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv) | [Girl](https://open.spotify.com/album/6YwzYbCe05hqVAI6KrX1c1) | 3:12 | 2025-07-18 | 2025-09-06 |
+| [Girl of the moment](https://open.spotify.com/track/1F7xMt8gQywT4aJ2Vi8eZj) | [Say Now](https://open.spotify.com/artist/1p6HheoJqfYMiMC62yQIWn) | [Say what you see](https://open.spotify.com/album/2H9148vrCwSS9qB0SIv5xp) | 3:35 | 2026-11-13 |  |
 | [Gloria](https://open.spotify.com/track/2Yk73K05ZGxI6pZBOG6lS4) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Gloria](https://open.spotify.com/album/3JHsuuNJM52oePgcXvbdhw) | 3:38 | 2025-07-18 | 2025-08-30 |
 | [God Went Crazy](https://open.spotify.com/track/1E5HKRzDzeeC7vQGjlLpUr) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [God Went Crazy](https://open.spotify.com/album/43mGt3jmmeOnJE4bC0Ulls) | 3:03 | 2025-07-18 |  |
 | [Going to Mars](https://open.spotify.com/track/1nTFwSGY1ygMC2DmLa1CsM) | [Stevie Bill](https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv) | [Going to Mars](https://open.spotify.com/album/5PrSHfxpwJDKC91aPYnftY) | 3:05 | 2025-07-18 |  |
@@ -310,6 +312,7 @@
 | [Train](https://open.spotify.com/track/2nyWIu3B4lAVQhXSQ9GEmb) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Train](https://open.spotify.com/album/52ylpmL4LaBIJnbQJUXrSj) | 3:57 | 2025-09-19 | 2026-10-03 |
 | [traitor](https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:49 | 2026-05-27 |  |
 | [Treehouse Wings](https://open.spotify.com/track/4iiiQSCFi5y1B1agejyqg3) | [Amble](https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI) | [Treehouse Wings](https://open.spotify.com/album/22KFaK3JsMm2FTCN0SpRoF) | 3:19 | 2025-07-18 |  |
+| [Trophy](https://open.spotify.com/track/1I2QdqvSz7AeMPVZJheUcj) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Trophy](https://open.spotify.com/album/3GKB75ijlo1b33UVr809hQ) | 4:05 | 2026-11-13 |  |
 | [Trouble Is Me](https://open.spotify.com/track/4LJdc3NTNFugi2pWkjZZmr) | [Tangarine](https://open.spotify.com/artist/6M1HAXD9PmL4w7uB5aP659) | [Trouble Is Me](https://open.spotify.com/album/2haCvHHeluKqvojJPKzJpN) | 3:12 | 2025-09-12 | 2025-10-11 |
 | [Trying to Prove](https://open.spotify.com/track/2RyCiQ95pANJvcCaZhmxlQ) | [Sven Ross](https://open.spotify.com/artist/2WiTb3ZPchkTg0JjH6MlBJ) | [Trying to Prove](https://open.spotify.com/album/0FYNW3XKDpiXG9LEr6zIgu) | 2:57 | 2026-05-22 | 2026-05-28 |
 | [two hundred thousand words](https://open.spotify.com/track/3XGG4OhIYtghkava46qo4o) | [DEHAZE](https://open.spotify.com/artist/3lFS8jJTgqYqETcnc8rpF4) | [two hundred thousand words](https://open.spotify.com/album/1PTphEMl40gfNj2vHJ6JPO) | 3:13 | 2026-03-20 |  |

@@ -4,7 +4,7 @@
 
 > Listen to women at full volume with mindfreakk! from Thailand.
 
-3,152 songs - 7 day 6 hr 35 min
+3,154 songs - 7 day 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -536,6 +536,7 @@
 | [Colours Of You](https://open.spotify.com/track/0fgb9XN0RUp5phN8UADvsP) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Colours Of You](https://open.spotify.com/album/41YkwGJXDZy4nVAoCipCY7) | 3:38 | 2022-09-07 | 2022-10-05 |
 | [Come Apart](https://open.spotify.com/track/7uDPHQ8ZRfeqwmYGDGYAio) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Come Apart](https://open.spotify.com/album/7HFKrcFsBxZTbDd6kTYowF) | 3:04 | 2022-08-03 | 2022-09-09 |
 | [come around](https://open.spotify.com/track/5aS72tjLvmMreeR0khCjcE) | [wadfah](https://open.spotify.com/artist/4VLJF0kk8HDMK7VPDctSzo) | [come around](https://open.spotify.com/album/3JYJhlexDFk0pM5pESRgKc) | 3:02 | 2023-08-02 | 2023-09-07 |
+| [COME CATCH ME](https://open.spotify.com/track/0P1CfYQA72AOnMZD32qAuM) | [Elise Tran Hoang](https://open.spotify.com/artist/626t3Zyzw3NLzYZ3VH902n) | [COME CATCH ME](https://open.spotify.com/album/2NLrkca5gVYZShKgRG7nOF) | 3:12 | 2026-11-13 |  |
 | [Come Get Dis](https://open.spotify.com/track/4iF65xGx3R3WJLAwr2HGrQ) | [Girls Don't Sync](https://open.spotify.com/artist/4SluGaQhJuMDsRRMf1PWKT) | [Come Get Dis](https://open.spotify.com/album/3HZwaISTcIUB8WFaRVZSfG) | 2:25 | 2025-09-03 | 2025-12-04 |
 | [Commas](https://open.spotify.com/track/4GXW3Ne1jzdORKHvHjK31V) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [The Year I Turned 21](https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms) | 2:37 | 2024-12-04 | 2025-01-09 |
 | [Commas](https://open.spotify.com/track/3JozQbIWMHBTKIghXKehVy) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Commas](https://open.spotify.com/album/5UX3Gr5uFrtvRvIScps1gA) | 2:37 | 2024-02-07 | 2024-06-06 |
@@ -723,6 +724,7 @@
 | [Doobey \(From "Gehraiyaan"\)](https://open.spotify.com/track/7MBqVOzb8C3f0FXr2LBLiq) | [OAFF](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR), [Savera](https://open.spotify.com/artist/3CVXA5TAWpmfGPqyMqXpPb), [Lothika](https://open.spotify.com/artist/7yZDrVInKssNCaZkAkQGTX), [Kausar Munir](https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA) | [Doobey \(From "Gehraiyaan"\)](https://open.spotify.com/album/48VomBCSqAsYmxI3C3TNSC) | 3:39 | 2022-03-08 | 2023-01-05 |
 | [Doppio nodo \(feat\. Fred De Palma & Emis Killa\)](https://open.spotify.com/track/3INOCg3ju4OhKWRYd2BxT9) | [Federica Abbate](https://open.spotify.com/artist/05brE7yGJDmIYlMirfSi0B), [Fred De Palma](https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q), [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G) | [Doppio nodo](https://open.spotify.com/album/2PoUtrAkX4j8gOgvajY2Ww) | 3:02 | 2023-07-05 | 2023-08-03 |
 | [Doru' ca Pădurea](https://open.spotify.com/track/4rfdzFCHH1xVWVZRYh04U2) | [IOANA](https://open.spotify.com/artist/3qklIH2njhPzgNGZVIUeeX) | [I Mare De La Ioana](https://open.spotify.com/album/2WX5cgTAaFX6itwTg71ERB) | 3:03 | 2025-08-06 | 2025-10-02 |
+| [Douter](https://open.spotify.com/track/005qFe7U4oVqJteXYYEWLQ) | [Wamen](https://open.spotify.com/artist/3IrNp8pf0ugwmIEiGJCRse) | [Vie d'Adulte](https://open.spotify.com/album/6UV0hiYkNMcqLKITtj6JIP) | 2:47 | 2026-11-13 |  |
 | [Doué](https://open.spotify.com/track/5RA8lfUpypk40aqp1CIYSQ) | [Chilla](https://open.spotify.com/artist/1ywkNtrO3WGuwaehqxyjAO) | [EGO](https://open.spotify.com/album/451uEKAXSbMJ5Pry6mIANM) | 2:47 | 2022-11-02 | 2022-12-01 |
 | [Dove sei](https://open.spotify.com/track/0Czudqo4LIAy2AfZ4uK6a0) | [Sissi](https://open.spotify.com/artist/6P7jNZ4DCs766yu5td601i) | [Dove sei](https://open.spotify.com/album/2HmKrbe6XvrJcIqBQQQvB3) | 2:35 | 2022-05-04 | 2022-06-01 |
 | [Down Down Down Down](https://open.spotify.com/track/2N0P1fCYL7tnxq4RiPAz2l) | [Blackbird](https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL) | [Down Down Down Down](https://open.spotify.com/album/4dggVrjDYcUArNkVpqdHKU) | 3:11 | 2023-02-01 | 2023-03-02 |
@@ -788,7 +790,7 @@
 | [ember NEM élhet törött lábbal](https://open.spotify.com/track/04sFAUis6DGmAR1rSOHILF) | [cserihanna](https://open.spotify.com/artist/7MHRzj7k1gqYcJ2P7V8mwl) | [Hirtelen mélyül](https://open.spotify.com/album/1JpVOO3Ncy4yNWk8yawm0R) | 2:07 | 2025-07-16 | 2025-10-02 |
 | [Emésztőenzim \- Live at Nyúl](https://open.spotify.com/track/46i4ODEr4JNvmxkKqKSF7A) | [Noémo](https://open.spotify.com/artist/7bqH8KR1veILd32ZGJkbwC) | [Live at Nyúl](https://open.spotify.com/album/7506JqqAzsGJfza0Ottvka) | 3:27 | 2025-07-16 | 2025-08-14 |
 | [En el Túnel de Lavado](https://open.spotify.com/track/3BWzuRqg7c9pIP0YannCIm) | [Maren](https://open.spotify.com/artist/1dQFUUeoS0srP2hNrmzj5L) | [En el Túnel de Lavado](https://open.spotify.com/album/5VScXeCIYm8HYJ0XuVEkKZ) | 2:53 | 2022-05-04 | 2022-06-01 |
-| [end credits](https://open.spotify.com/track/4IEGZYUSKkgWMy8vpp1Z7H) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj) | [end credits](https://open.spotify.com/album/6ZgbXMymYOnmGTTgFcnmy2) | 4:08 | 2022-11-02 |  |
+| [end credits](https://open.spotify.com/track/4IEGZYUSKkgWMy8vpp1Z7H) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj) | [end credits](https://open.spotify.com/album/6ZgbXMymYOnmGTTgFcnmy2) | 4:08 | 2022-11-02 | 2026-11-14 |
 | [End of the World](https://open.spotify.com/track/5SxahezRlC0saXbCALfB7c) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [End of the World](https://open.spotify.com/album/3ApGUtCbEwErvJ8AOs3kOW) | 4:10 | 2025-08-06 | 2025-12-04 |
 | [End of You](https://open.spotify.com/track/0PsFsv5xUyX06ZhIEtFkeA) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv), [Amy Lee](https://open.spotify.com/artist/0fGVuq5ed21pM7iWwTcMyk), [Courtney LaPlante](https://open.spotify.com/artist/1g9j6GF1jyjrhixt3Vurzs) | [End of You](https://open.spotify.com/album/7heJiiZpgQXmqVIoz2Fra1) | 3:12 | 2025-12-03 | 2026-02-06 |
 | [Energy](https://open.spotify.com/track/60NWySy9UQUs0uhkW8KG3L) | [Mystic Marley](https://open.spotify.com/artist/5WhXMSMSiOyEhXBNI6Lf2h) | [Energy](https://open.spotify.com/album/1ugvgS5zZC3YizYlhJ8TBf) | 2:37 | 2023-09-06 | 2023-10-20 |
@@ -1324,7 +1326,7 @@
 | [JANAINDAYO](https://open.spotify.com/track/2Ee7RTET4ZrfKJl6gXZTup) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [JANAINDAYO](https://open.spotify.com/album/7zLiRSoGuRjO4d5Ebmkqy0) | 3:00 | 2023-04-05 | 2023-05-04 |
 | [Jani Door Gaye](https://open.spotify.com/track/4aNM6oZi4q6tVNTIcznXsl) | [Mehak Ali](https://open.spotify.com/artist/6XnTAfn0rCJ6hrABktaOIW) | [Tribute](https://open.spotify.com/album/01ieKFE0xWiaQkokB9sWn6) | 5:03 | 2022-04-06 | 2022-05-05 |
 | [Janjiku](https://open.spotify.com/track/1NNBPTYrhlJpdTkwCCKQyo) | [Kaka Azraff](https://open.spotify.com/artist/4a6rcjvQs6YOwK5sVlybKV) | [Janjiku](https://open.spotify.com/album/4DCtgYL14od0FaSwsUFc22) | 3:20 | 2022-09-07 | 2022-10-05 |
-| [Je M'appelle Tété](https://open.spotify.com/track/58aI1ZhTgyOh9pHU0Bgd8l) | [B0YG1RL](https://open.spotify.com/artist/0qhwdD2NFfJ8eCK1hKlAiq) | [777](https://open.spotify.com/album/0PLgkwpOBriwfUzvXs7m2m) | 2:01 | 2026-10-21 |  |
+| [Je M'appelle Tété](https://open.spotify.com/track/58aI1ZhTgyOh9pHU0Bgd8l) | [B0YG1RL](https://open.spotify.com/artist/0qhwdD2NFfJ8eCK1hKlAiq) | [777](https://open.spotify.com/album/0PLgkwpOBriwfUzvXs7m2m) | 2:01 | 2026-10-21 | 2026-11-14 |
 | [Je t’aime n’est pas assez fort](https://open.spotify.com/track/4hkDLIDklIRQiJEHQouKJu) | [Lynda](https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb), [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E) | [L'album du mâle](https://open.spotify.com/album/5m9F4xOwjKxbTx3c1RRwhH) | 3:25 | 2025-06-04 | 2025-07-03 |
 | [Jealous Type](https://open.spotify.com/track/1IfGOnXoMBkiKC9xljlSfa) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Jealous Type](https://open.spotify.com/album/5faw0b6BBJiTHGNl9aaoc5) | 2:43 | 2025-09-17 | 2025-12-04 |
 | [jealousy \(feat\. rema\)](https://open.spotify.com/track/3V4mfh90OLdVEJQfo6decv) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [CAPRISONGS](https://open.spotify.com/album/5IubZbuFhSwJyCJrdRFgkJ) | 2:39 | 2022-02-02 | 2022-03-09 |

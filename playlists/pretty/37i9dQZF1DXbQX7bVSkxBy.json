@@ -1,6 +1,6 @@
 {
   "description": "Raise a voice and testify the goodness of God.  Cover: Malcolm Rue",
-  "num_followers": 63924,
+  "num_followers": 63963,
   "original_name": "Testify",
   "owner": {
     "name": "Spotify",
@@ -793,24 +793,20 @@
       "url": "https://open.spotify.com/track/6WjfbwsyCYAO4ukmityPSY"
     },
     {
-      "added_at": "2024-04-12 00:01:00",
+      "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "GOD IS GOOD",
-        "url": "https://open.spotify.com/album/3HPIOCWtwZIaRsf3EnOdIC"
+        "name": "The Hill",
+        "url": "https://open.spotify.com/album/2RJxSCEQJGBeJHej3IM2cV"
       },
       "artists": [
         {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        },
-        {
-          "name": "Caleb Gordon",
-          "url": "https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41"
+          "name": "Travis Greene",
+          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
         }
       ],
-      "duration_ms": 207529,
-      "name": "GOD IS GOOD",
-      "url": "https://open.spotify.com/track/2gmqnkY0jrfz3vnO4FVS4p"
+      "duration_ms": 591333,
+      "name": "Made A Way",
+      "url": "https://open.spotify.com/track/7gricPHxqsVEq1Lml7BFVu"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -853,20 +849,24 @@
       "url": "https://open.spotify.com/track/7BvQTLZXj9XDG9BZnGLZtO"
     },
     {
-      "added_at": "2023-12-15 00:01:00",
+      "added_at": "2024-04-12 00:01:00",
       "album": {
-        "name": "The Hill",
-        "url": "https://open.spotify.com/album/2RJxSCEQJGBeJHej3IM2cV"
+        "name": "GOD IS GOOD",
+        "url": "https://open.spotify.com/album/3HPIOCWtwZIaRsf3EnOdIC"
       },
       "artists": [
         {
-          "name": "Travis Greene",
-          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        },
+        {
+          "name": "Caleb Gordon",
+          "url": "https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41"
         }
       ],
-      "duration_ms": 591333,
-      "name": "Made A Way",
-      "url": "https://open.spotify.com/track/7gricPHxqsVEq1Lml7BFVu"
+      "duration_ms": 207529,
+      "name": "GOD IS GOOD",
+      "url": "https://open.spotify.com/track/2gmqnkY0jrfz3vnO4FVS4p"
     },
     {
       "added_at": "2023-12-15 00:01:00",

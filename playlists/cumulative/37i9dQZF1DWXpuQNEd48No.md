@@ -4,7 +4,7 @@
 
 > Best of Haryanvi Hip\-Hop! Cover: MC SQUARE
 
-731 songs - 1 day 12 hr 1 min
+732 songs - 1 day 12 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Charche](https://open.spotify.com/track/6XE7hS0f3A59xRPZQf4nol) | [Cloud](https://open.spotify.com/artist/5fbF88nlbT3z2qH9dlei5j), [Signature By OG](https://open.spotify.com/artist/4WIUMr7y0ew27aNAWna1hu) | [Charche](https://open.spotify.com/album/2Ko1EaStAY3qbBALmqdl7T) | 2:22 | 2026-02-17 | 2026-03-14 |
 | [Charche](https://open.spotify.com/track/7a3QGSVDPG5NHTXKuZVurS) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb), [Xvir Grewal](https://open.spotify.com/artist/6kGxwXzhQX2OfUcGNi5Rh6) | [Charche](https://open.spotify.com/album/3KfTyw54dM8fKsPbvPlncW) | 3:05 | 2025-01-18 | 2025-08-02 |
 | [Chaudhary](https://open.spotify.com/track/4V8mJuCVt52dILR5Xas6eQ) | [DONNI£](https://open.spotify.com/artist/4pT4uhS01avUmbvVTJzybq), [LAKSH](https://open.spotify.com/artist/4EGa6ia0ocaQEZpSwJyqOV), [Nyn Music](https://open.spotify.com/artist/1mdpuEMzGFix1xdvjOma0t) | [Chaudhary](https://open.spotify.com/album/0aldySWo4iHNf4Zbfih2hG) | 3:12 | 2025-02-28 | 2025-04-05 |
+| [CHD](https://open.spotify.com/track/7CuacvHKXS8zJnNMSqJQFm) | [The VIJU](https://open.spotify.com/artist/10ho8uAPRKlVcDDSHu1AZv), [Music Mistree](https://open.spotify.com/artist/4ayVLtQibu9BwTF7LQF4xi) | [CHD](https://open.spotify.com/album/0WiR0MGmDuhMj3pDOTi1M3) | 2:16 | 2026-11-13 |  |
 | [Check Check](https://open.spotify.com/track/6w0zaLV4DGQk66bDWc3dWs) | [CHIEF](https://open.spotify.com/artist/0t1gnA1eTYSS8YBUKigWPh), [ANGAD](https://open.spotify.com/artist/3ojizZ99bJhmsO9zvsQktj) | [Racks & Bars](https://open.spotify.com/album/3wdLWNPf2ZNLyhF4aSQ3p7) | 3:13 | 2026-03-27 | 2026-04-18 |
 | [CHECKMATE](https://open.spotify.com/track/3vBGhjnRUX7NnTHp6jxu8w) | [Kuhad](https://open.spotify.com/artist/2YusRqnuLAKGIS4IwFUqin), [T\-Raj](https://open.spotify.com/artist/1uLfLI0SaOga2AjuaC6tQW) | [TRIATHLON](https://open.spotify.com/album/3U0jiC6n6QOHYYS1tk3Uvk) | 2:56 | 2026-11-06 |  |
 | [Chelli](https://open.spotify.com/track/1Of0F7MwJUpXlRp4hDAJ1q) | [Duryodhan Rana](https://open.spotify.com/artist/0nwH3VdpmJakhuISQ0i9jX), [Kinshu](https://open.spotify.com/artist/5Oj4H8S2ojlZrCXxxWFj6n), [Prodbysoundscape](https://open.spotify.com/artist/43ttS6rFRzusm2okv9LDqX) | [Chelli](https://open.spotify.com/album/5hqJnFlNuGQE8gGuN3KIAR) | 2:49 | 2026-05-01 | 2026-05-16 |
@@ -343,7 +344,7 @@
 | [Intro](https://open.spotify.com/track/1MTjEUkdb0mRWG3bNly5JJ) | [Aric](https://open.spotify.com/artist/2OrpZkU0ta565ZiULAfRWa), [Andaaz](https://open.spotify.com/artist/6VQ4ucvbtHJvMhULucL4G2), [S4LT](https://open.spotify.com/artist/6CmtxPcuVbrEhMJQei5kvb) | [Intro](https://open.spotify.com/album/2K1ciMtSOruUobAuvueNIi) | 2:18 | 2026-10-16 | 2026-10-24 |
 | [Intro](https://open.spotify.com/track/4doPskLCTEmR9az9gwiQKj) | [Happie](https://open.spotify.com/artist/1eGqvRKEMYXmbXzOLPVnB8), [Sihag Muzik](https://open.spotify.com/artist/04XbdTO8fkae4s1ExLeYyC) | [Intro](https://open.spotify.com/album/51YgKSHDHcjJIIsA3eUOn9) | 2:42 | 2025-04-15 | 2025-04-30 |
 | [It's Me](https://open.spotify.com/track/7maO75wgp37ChpIbnEH9Zz) | [Anny Kathwar](https://open.spotify.com/artist/2REe2hnd6p23EwBY41U0YX), [Fakeer Music](https://open.spotify.com/artist/3JRA310czJn79acuTTDetA) | [It's Me](https://open.spotify.com/album/6c96xPns0J5u2PZ8tWW3kb) | 3:06 | 2026-08-21 |  |
-| [Jaane Ja](https://open.spotify.com/track/4MRygrTCxmU8DrL89tv9zO) | [Lv94](https://open.spotify.com/artist/2WJBAL3GFX2OeSKd59xhur), [Mt 35](https://open.spotify.com/artist/09Sl1J8H0dBQVeUxUCHHP6) | [Jaane Ja](https://open.spotify.com/album/114RsZ06jcYiIDwuuAOWIM) | 3:12 | 2026-11-06 |  |
+| [Jaane Ja](https://open.spotify.com/track/4MRygrTCxmU8DrL89tv9zO) | [Lv94](https://open.spotify.com/artist/2WJBAL3GFX2OeSKd59xhur), [Mt 35](https://open.spotify.com/artist/09Sl1J8H0dBQVeUxUCHHP6) | [Jaane Ja](https://open.spotify.com/album/114RsZ06jcYiIDwuuAOWIM) | 3:12 | 2026-11-06 | 2026-11-14 |
 | [JAAR](https://open.spotify.com/track/7tuFtjhuRvAxxGjOPTlGXH) | [Prince Jamba](https://open.spotify.com/artist/6RDhaAavmBlrZKUqJ8YvJy), [Sameer](https://open.spotify.com/artist/6GITDzZHqhL9AuVVjHQFG7) | [JAAR](https://open.spotify.com/album/5yWtTNtYhqngQhrjx0vHCQ) | 2:29 | 2026-05-01 | 2026-07-18 |
 | [Jaat](https://open.spotify.com/track/2yDrzP2riEk9nj0z94cJ4h) | [Sumit Parta](https://open.spotify.com/artist/3b3PfZsOrb3cPzSCZjawbr), [Fakeer Music](https://open.spotify.com/artist/3JRA310czJn79acuTTDetA) | [Boon](https://open.spotify.com/album/5SpdwWStrbkgR4WLedB7ih) | 2:12 | 2024-05-07 | 2025-01-11 |
 | [Jaat Anthem](https://open.spotify.com/track/2WXcnhd7EkgBhuMj8yzmVZ) | [Anni Malik](https://open.spotify.com/artist/2lsIV9kf9Pdop0JjfSAfSW), [The Skyy Productions](https://open.spotify.com/artist/2jNbAc5jGD9Zu10vdMecN5) | [Jaat Anthem](https://open.spotify.com/album/36UbKzJOZRbtTc26Iz5sbr) | 3:01 | 2026-05-22 | 2026-06-27 |

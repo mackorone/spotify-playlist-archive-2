@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSyOfQ9LA1uF.md) - [plain]
 
 > Bedroom bootlegs and electroclash gems\. Cover: MGMT
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,819 likes - 75 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,837 likes - 75 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,12 +74,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSyOfQ9LA1uF.md) - [plain]
 | 64 | [To the Bobmobile](https://open.spotify.com/track/5RtHhF7VOGimztBk2NFXUx) | [Bobmo](https://open.spotify.com/artist/67zjOa1s3aBqLx9ffbranq) | [Let's Go Bobmo ! \- EP](https://open.spotify.com/album/0iGyMe8t2opNPCeergmsgO) | 3:43 |
 | 65 | [Brenda](https://open.spotify.com/track/792NaHTl4bJqdxMXSdhNij) | [Pablo J](https://open.spotify.com/artist/2L4145zftGoC6kL337sTIS), [The Lobsterettes](https://open.spotify.com/artist/1r8rok8grW3DHojFnylc62) | [Dance Till Dawn](https://open.spotify.com/album/7hbbhPthcCqbv5YG6MDDm5) | 3:40 |
 | 66 | [Are You The One? \- Simian Mobile Disco Remix](https://open.spotify.com/track/1AWb20qRRJ5R2d25qcm16z) | [The Presets](https://open.spotify.com/artist/1zTAQ6zkGz2L2i6lfR30EX), [Simian Mobile Disco](https://open.spotify.com/artist/31DXlldabwPHwu6dYevuzK) | [Re\-Sets](https://open.spotify.com/album/2ozdqRxqlbblhJVzCtPyaf) | 5:20 |
-| 67 | [Krack](https://open.spotify.com/track/6QKfQbFqvUwzOHpwFwCaJ6) | [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [Nite Versions](https://open.spotify.com/album/5d36tohU6hNW0AK5sdmbZI) | 5:23 |
-| 68 | [Disco Shoes \- Electrixx Mix](https://open.spotify.com/track/43BRvTH97W9jPjJYTjV1bo) | [Acid Jacks](https://open.spotify.com/artist/3Gcp6oFkW9YAQxE6XgWU1w) | [Disco Shoes](https://open.spotify.com/album/2eLBlmbqw2mkYYGP7a76aT) | 5:41 |
+| 67 | [Disco Shoes \- Electrixx Mix](https://open.spotify.com/track/43BRvTH97W9jPjJYTjV1bo) | [Acid Jacks](https://open.spotify.com/artist/3Gcp6oFkW9YAQxE6XgWU1w) | [Disco Shoes](https://open.spotify.com/album/2eLBlmbqw2mkYYGP7a76aT) | 5:41 |
+| 68 | [Krack](https://open.spotify.com/track/6QKfQbFqvUwzOHpwFwCaJ6) | [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [Nite Versions](https://open.spotify.com/album/5d36tohU6hNW0AK5sdmbZI) | 5:23 |
 | 69 | [We Are Your Friends \- Justice Vs Simian](https://open.spotify.com/track/49ErwcBYfYRPNBdRuPvpYA) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Simian](https://open.spotify.com/artist/19rgRqYVP3LJf9tGmMWLjP) | [We Are Your Friends](https://open.spotify.com/album/1M9rUTZKBvDhKIqK9rNxLi) | 4:22 |
 | 70 | [Intro](https://open.spotify.com/track/3EXPdW0NGGkPlyDMcScfgu) | [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [Fred Falke](https://open.spotify.com/artist/0AfNNw1LS2i9KW4icd7inD) | [Running \- Single](https://open.spotify.com/album/6Ps0YLiG5zpgsqx5kBPIul) | 4:54 |
-| 71 | [Crimewave](https://open.spotify.com/track/4xymOOdANFwko4RpeR961e) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO), [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth) | [Crystal Castles](https://open.spotify.com/album/75olNPlDKi2XQhTD9IPlVC) | 4:18 |
-| 72 | [Happiness \- The Magician Remix](https://open.spotify.com/track/1pnBLmKOqhKcLUV4aFubgi) | [Sam Sparro](https://open.spotify.com/artist/0H0rBbf7vHXO3qh50Wap7y) | [Happiness Remixes \- EP](https://open.spotify.com/album/35QnXyqia1Cc6aLckE1ehl) | 3:38 |
+| 71 | [Happiness \- The Magician Remix](https://open.spotify.com/track/1pnBLmKOqhKcLUV4aFubgi) | [Sam Sparro](https://open.spotify.com/artist/0H0rBbf7vHXO3qh50Wap7y) | [Happiness Remixes \- EP](https://open.spotify.com/album/35QnXyqia1Cc6aLckE1ehl) | 3:38 |
+| 72 | [Crimewave](https://open.spotify.com/track/4xymOOdANFwko4RpeR961e) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO), [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth) | [Crystal Castles](https://open.spotify.com/album/75olNPlDKi2XQhTD9IPlVC) | 4:18 |
 | 73 | [Paris \(Aeroplane Remix\)](https://open.spotify.com/track/4OSEE9iEHADmTSCpxl87GJ) | [Friendly Fires](https://open.spotify.com/artist/3mZqziCJj4pq3P2VBpmK6p) | [Friendly Fires](https://open.spotify.com/album/6o5Da716CH8m1im2XiaeE1) | 7:45 |
 | 74 | [Genesis](https://open.spotify.com/track/2W29TNaSCiolWbPfQNgNOW) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [Cross](https://open.spotify.com/album/5P4Wx3YhpsD4zFTvmPskWd) | 3:54 |
 | 75 | [Bounce \(feat\. N.O.R.E\. & ISIS\) \- The Bloody Beetroots Remix](https://open.spotify.com/track/0nowT1VNjGH7bCn9KVVpm6) | [MSTRKRFT](https://open.spotify.com/artist/2squZ8HjM4AzR0j6jsPn4a), [ISIS](https://open.spotify.com/artist/2vsXeWGC8rILp3rpSN2Fyk), [N.O.R.E.](https://open.spotify.com/artist/4GMgdB3vwbBOc42hbXEi9p) | [Best Of...Remixes](https://open.spotify.com/album/24EE93iPWyODZTEtoSOpx3) | 4:43 |

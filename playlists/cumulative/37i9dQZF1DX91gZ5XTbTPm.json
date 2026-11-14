@@ -8055,6 +8055,24 @@
     },
     {
       "album": {
+        "name": "Dope Spot",
+        "url": "https://open.spotify.com/album/2lZSmkXb5aiuuXNE8D3C8Q"
+      },
+      "artists": [
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181589,
+      "name": "Dope Spot",
+      "url": "https://open.spotify.com/track/0BZssZJPEfc8TQNEM13eH1"
+    },
+    {
+      "album": {
         "name": "DOTTED LINE (feat. Veeze)",
         "url": "https://open.spotify.com/album/7CHqJ2bXlU3RAEKOcRLVk4"
       },
@@ -19566,7 +19584,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 139807,
       "name": "Move Wrong (feat. VonOff1700)",
       "url": "https://open.spotify.com/track/2SMF2u7O3EWWQOGOWV0saV"
@@ -35047,7 +35065,7 @@
     },
     {
       "album": {
-        "name": "Yaxel",
+        "name": "YAXEL",
         "url": "https://open.spotify.com/album/4HrIse1J5s07y83K3eIEQO"
       },
       "artists": [
@@ -35060,7 +35078,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 138161,
-      "name": "Yaxel",
+      "name": "YAXEL",
       "url": "https://open.spotify.com/track/62RMA69LLfBMPDfrEhxvsf"
     },
     {

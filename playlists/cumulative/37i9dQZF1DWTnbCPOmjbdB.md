@@ -4,7 +4,7 @@
 
 > Najlepsze polskie piosenki na czasie\. Cover: GENZIE
 
-1,097 songs - 2 day 5 hr 17 min
+1,097 songs - 2 day 5 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -924,7 +924,6 @@
 | [Tortury](https://open.spotify.com/track/171JR2rZMLiIALNAKOWcSu) | [Julia Rocka](https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN) | [Tortury](https://open.spotify.com/album/4sZgeQIX8gM4DT2vJUxrPp) | 2:59 | 2024-11-14 | 2025-01-17 |
 | [Toskania](https://open.spotify.com/track/019YTP6v9YSy1CjEkizSAm) | [Julia Przybylska](https://open.spotify.com/artist/3OSpVIczY7n8Mhz02orZTP) | [Toskania](https://open.spotify.com/album/2AX0qNiRGEtVeQiL9EHZ4W) | 2:19 | 2025-08-14 | 2025-08-22 |
 | [Tracimy tylko czas](https://open.spotify.com/track/3A9S5Pvld6KupTf9YNvB0n) | [Martyna Baranowska](https://open.spotify.com/artist/5qMLMV4Czbb9puv6O8Rd9b) | [Tracimy tylko czas](https://open.spotify.com/album/1Ylb0IznSHkbTANRKeiJXk) | 3:01 | 2026-07-16 | 2026-08-21 |
-| [Track 5](https://open.spotify.com/track/5yf7vL8AMfmtimpDhDzoBo) | [GENZIE](https://open.spotify.com/artist/66NiiFgb74HLBN1A5ylO5t) | [404](https://open.spotify.com/album/0dudXKOmgR8SXodyHEPgQE) | 0:00 | 2026-11-12 |  |
 | [TRESURA](https://open.spotify.com/track/0IDekqxi83vyPooXWQa0Al) | [Julia Rocka](https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN) | [TRESURA](https://open.spotify.com/album/6HwqXMTzRzcEFHBY1kk8wJ) | 3:10 | 2026-07-23 | 2026-08-21 |
 | [Trochę Za Blisko](https://open.spotify.com/track/6SpeBDnkgYdkFYy5AEW2Oz) | [MODELKI](https://open.spotify.com/artist/3cBLJizprytrMpuFbnRnaE), [Vłodarski](https://open.spotify.com/artist/75wMNgYkzacOI08FN7BaG0) | [Trochę Za Blisko](https://open.spotify.com/album/5LTCu9xRaCbYcmKYWlBEI1) | 2:29 | 2024-10-03 | 2025-02-14 |
 | [Trzy razy bardziej](https://open.spotify.com/track/0eR77P8QY3qAH9JCidfHxf) | [Hania Kuzimowicz](https://open.spotify.com/artist/2z0LDef08JN0VpXdzrZIvJ), [The Voice of Poland](https://open.spotify.com/artist/0tu7LpFeEMuCPewcudUKG4) | [Trzy razy bardziej](https://open.spotify.com/album/0k6r6cVmXykoawcweiKtpv) | 2:29 | 2026-02-05 | 2026-11-06 |
@@ -1089,6 +1088,7 @@
 | [Čyrvone Nebo](https://open.spotify.com/track/3cGQ3b4enpPUGJsPLvcN7v) | [Sw@da](https://open.spotify.com/artist/5gRF8qKtqjvQJZ38pCsJfj), [Niczos](https://open.spotify.com/artist/4YZ4ez3imuoabYA9WyrRIk) | [Čyrvone Nebo](https://open.spotify.com/album/5KuvlS6wxp4QK4sKWXpflb) | 3:06 | 2025-06-05 | 2025-06-17 |
 | [Ładny Chłopiec](https://open.spotify.com/track/2RD7lUyks4JK8ZtRW3ZBJA) | [Diiya](https://open.spotify.com/artist/7cpXJIW3DMvOlUTHyIm4wx) | [Ładny Chłopiec](https://open.spotify.com/album/1vFfg6CejZ5DBsQ6ycF9i7) | 2:14 | 2024-11-14 | 2024-11-22 |
 | [Łapię się na myślach](https://open.spotify.com/track/5NbwPBOEFXAYHRZ4GIFYgb) | [Marcelina](https://open.spotify.com/artist/4kKbItPBdKcK8wQ8A9LXMt) | [Łapię się na myślach](https://open.spotify.com/album/656f6gOTWmdjW65Xy7KPHE) | 3:48 | 2024-07-01 | 2024-07-12 |
+| [ŁASKI BEZ](https://open.spotify.com/track/5yf7vL8AMfmtimpDhDzoBo) | [GENZIE](https://open.spotify.com/artist/66NiiFgb74HLBN1A5ylO5t), [Diiya](https://open.spotify.com/artist/7cpXJIW3DMvOlUTHyIm4wx) | [404](https://open.spotify.com/album/0dudXKOmgR8SXodyHEPgQE) | 2:58 | 2026-11-12 |  |
 | [Łatwopalny](https://open.spotify.com/track/0shIWz0RsvFsxe7FGx1RtB) | [B.R.O](https://open.spotify.com/artist/1JsnraXeS2KK3dgwNR9ARf) | [Łatwopalny](https://open.spotify.com/album/1MTrqaxNGafJ04nbXAC92F) | 2:28 | 2024-10-17 | 2024-11-08 |
 | [Łez](https://open.spotify.com/track/3XwbXBdDfmpjlwpyuTPzv3) | [Effy](https://open.spotify.com/artist/662m0WrjxDl2ZrWAghojh2) | [Łez](https://open.spotify.com/album/5ei7THv6SDlyGburhlR8Qf) | 2:37 | 2025-03-20 | 2025-04-18 |
 | [Łza na rzęsie \(Mi się trzęsie\) \- Skytech Remix](https://open.spotify.com/track/7tm3PHrCH56jbzq9XsZdng) | [Maryla Rodowicz](https://open.spotify.com/artist/1IYFJPQcbXYjgkyebYs1w6), [bryska](https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh), [Skytech](https://open.spotify.com/artist/4CrDEHL7ysNabeYvL3xjUX) | [Łza na rzęsie \(Mi się trzęsie\) \[Skytech Remix\]](https://open.spotify.com/album/4lZo5Eb2OLokjgELl152vt) | 3:00 | 2025-04-17 | 2025-05-02 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > ⁺‧₊˚⋆a curated space for the avant\-garde⋆˚₊‧⁺ cover: Jashim
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,974 likes - 106 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,008 likes - 106 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 45 | [My Head Hurts](https://open.spotify.com/track/63RtHpFtNxF82ngXiF1HPp) | [Sterling Grove](https://open.spotify.com/artist/1O7R4iOxefdwFUaWb7kNLJ), [Stabbed by Angels](https://open.spotify.com/artist/3MkLYAjuS3QuMCXISrztXH) | [My Head Hurts](https://open.spotify.com/album/4gT7hNqlsWVkyB3gGoTo3t) | 3:36 |
 | 46 | [Follow](https://open.spotify.com/track/0ux2EioEe5Fw07rXYRUSTz) | [Crystal Fighters](https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC) | [Star Of Love](https://open.spotify.com/album/00v21bgN2da5KonMWEAMec) | 3:14 |
 | 47 | [Somehow](https://open.spotify.com/track/0o0xDQvMqZUMu4LbuRsck6) | [Madrid Exit](https://open.spotify.com/artist/3WFmXJyXjp3MEf97eT0uzO) | [Somehow](https://open.spotify.com/album/4qFSrzg96dR3w8KAnfpFW2) | 3:03 |
-| 48 | [C'mon Caroline](https://open.spotify.com/track/04KeNT4krk7FCBoGV1j1jh) | [GRANT](https://open.spotify.com/artist/6SkVKlAmIWVD0LQvCGQqSj) | [C'mon Caroline](https://open.spotify.com/album/7ocOBer43mULvqsTrET2Ng) | 3:15 |
+| 48 | [C'mon Caroline](https://open.spotify.com/track/04KeNT4krk7FCBoGV1j1jh) | [Grant](https://open.spotify.com/artist/6SkVKlAmIWVD0LQvCGQqSj) | [C'mon Caroline](https://open.spotify.com/album/7ocOBer43mULvqsTrET2Ng) | 3:15 |
 | 49 | [Heal](https://open.spotify.com/track/3KQTQH0i2uQtqFP7lS7ebU) | [ATTLAS](https://open.spotify.com/artist/0jM4IKp6YlTxq8tNDH9fX3) | [SWAN](https://open.spotify.com/album/0vGZ8gizuYKtNO55HKkNLs) | 4:00 |
 | 50 | [It goes like this](https://open.spotify.com/track/0Z1hvbWG6GJNfra89uS5Gx) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [Life 1](https://open.spotify.com/album/1QFbsd56xkkvG1WE51O1bD) | 3:41 |
 | 51 | [29](https://open.spotify.com/track/0KWEkdgat6KgL7P64D1Z0Y) | [Peypo](https://open.spotify.com/artist/7D7yN2p2MviPXKWhem5dNc), [.ape](https://open.spotify.com/artist/5JV3xObYYjVkzqttWPv3ju) | [infinite money glitch](https://open.spotify.com/album/49mZnQbpDD6NM58ZVG8gIa) | 1:47 |

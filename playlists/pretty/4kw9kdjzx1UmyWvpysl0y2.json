@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 122139,
+  "num_followers": 122128,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAV6e9MGQQGoD8HShheGmyJ1eO0E391",
+  "snapshot_id": "AAAV6rX+jpUbUkj13AXQVgRIdRl0lC0c",
   "tracks": [
+    {
+      "added_at": "2026-11-13 14:56:40",
+      "album": {
+        "name": "Euphoria",
+        "url": "https://open.spotify.com/album/0a8aICi3QOfsOBqx7wNBaj"
+      },
+      "artists": [
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "Bipolar Sunshine",
+          "url": "https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H"
+        }
+      ],
+      "duration_ms": 171923,
+      "name": "Euphoria",
+      "url": "https://open.spotify.com/track/2zP5hJzCCtzK7ebOdn8UyD"
+    },
     {
       "added_at": "2026-11-12 15:11:28",
       "album": {

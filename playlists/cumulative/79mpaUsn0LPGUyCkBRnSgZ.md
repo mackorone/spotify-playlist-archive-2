@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-1,267 songs - 3 day 9 hr 54 min
+1,268 songs - 3 day 9 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [1/1 \- Remastered 2004](https://open.spotify.com/track/3bCmDqflFBHijgJfvtqev5) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 1: Music For Airports \(Remastered 2004\)](https://open.spotify.com/album/063f8Ej8rLVTz9KkjQKEMa) | 17:21 | 2024-01-12 | 2024-02-17 |
 | [100](https://open.spotify.com/track/6e6zTZH1PIyXRI6PTByfW6) | [Lute](https://open.spotify.com/artist/75WcpJKWXBV3o3cfluWapK) | [Gold Mouf \(Deluxe\)](https://open.spotify.com/album/5O5tzddmtxljqz3WOwFK00) | 3:50 | 2022-09-06 |  |
 | [100 Degrees](https://open.spotify.com/track/1DPIqXc2BfJWWgCy0Tc2lr) | [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49) | [Live on Ice](https://open.spotify.com/album/6K7SjlIebufubxXGf4uA7a) | 4:25 | 2023-05-18 |  |
-| [100% Legal Intro](https://open.spotify.com/track/6dFVY4JKZLMsAsxE7bCwyf) | [300SkullsAndCounting](https://open.spotify.com/artist/7hGgwyIQYX5u1XU8asjH63), [Jenny Sparks](https://open.spotify.com/artist/0S8h1aYM60QtOHIKqWfNvf) | [THIS IS SPA TOWN!](https://open.spotify.com/album/621WlWIqOod29HG6km5Olf) | 3:25 | 2026-11-13 |  |
+| [100% Legal Intro](https://open.spotify.com/track/6dFVY4JKZLMsAsxE7bCwyf) | [300SkullsAndCounting](https://open.spotify.com/artist/7hGgwyIQYX5u1XU8asjH63), [Jenny Sparks](https://open.spotify.com/artist/0S8h1aYM60QtOHIKqWfNvf) | [THIS IS SPA TOWN!](https://open.spotify.com/album/621WlWIqOod29HG6km5Olf) | 3:25 | 2026-11-13 | 2026-11-14 |
 | [100,000 Voices](https://open.spotify.com/track/4RenR9s7VhyzHVHMdTmjx2) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) | [Djesse Vol\. 4](https://open.spotify.com/album/13r6eqjYlKELFQlNvVCBz1) | 4:44 | 2024-03-01 | 2024-03-09 |
 | [123](https://open.spotify.com/track/2QrMuaZUACwUpmIzmqRE9l) | [Girlpool](https://open.spotify.com/artist/3BYXi96LqI8TwNljFKE0DZ) | [Powerplant](https://open.spotify.com/album/120bhi2kgHiYc2FwI7nghO) | 2:50 | 2022-08-25 | 2023-07-29 |
 | [15 Step](https://open.spotify.com/track/4oXg7xT4ksBxHTx8PcmSXw) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [In Rainbows](https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK) | 3:57 | 2023-01-19 | 2024-01-18 |
@@ -365,7 +365,7 @@
 | [Feel The Love](https://open.spotify.com/track/6h9iDNJ7dGChTOSyJqbzAU) | [Cut Copy](https://open.spotify.com/artist/4EENT7N7rCBwrddM3s0vFS) | [In Ghost Colours](https://open.spotify.com/album/2Lq7benweaez2kNFKHMape) | 4:29 | 2025-08-08 |  |
 | [Femininomenon](https://open.spotify.com/track/53IRnAWx13PYmoVYtemUBS) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:39 | 2024-02-07 | 2024-04-05 |
 | [Femme Fatale](https://open.spotify.com/track/2T5ELHiRW8pGcWyJaurFgJ) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [FEMME FATALE](https://open.spotify.com/album/7q2GxttTFDWOihvnSWdwWw) | 4:10 | 2026-01-01 |  |
-| [Fidelity](https://open.spotify.com/track/2M3zJ1qV61X149Oobd5di1) | [Regina Spektor](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) | [Begin to Hope](https://open.spotify.com/album/0n4cWtI6rdtN1IftVfp1oh) | 3:46 | 2026-10-26 |  |
+| [Fidelity](https://open.spotify.com/track/2M3zJ1qV61X149Oobd5di1) | [Regina Spektor](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) | [Begin to Hope](https://open.spotify.com/album/0n4cWtI6rdtN1IftVfp1oh) | 3:46 | 2026-10-26 | 2026-11-14 |
 | [Fierce Resource Allocation](https://open.spotify.com/track/7iTYbcuDNMnhR0fstPHAp7) | [Emperor X](https://open.spotify.com/artist/7taxbHlqWyBiQEc38vNT9z) | [The Orlando Sentinel](https://open.spotify.com/album/3fN9ksNkNQcYcwXFuyVe6i) | 3:36 | 2026-05-06 | 2026-05-08 |
 | [fighting back](https://open.spotify.com/track/5YgIbbLLJxRw9BG21C4Ioe) | [R.A.P\. Ferreira](https://open.spotify.com/artist/2U1vwQRYQmG7ypKJF1JTEb) | [5 to the Eye with Stars](https://open.spotify.com/album/2JdEpcC6E0KsWfft0dwrxf) | 2:15 | 2024-01-03 |  |
 | [Fine Line](https://open.spotify.com/track/4PyGMMfh9MiiFOPVyAikar) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Chaos And Creation In The Backyard](https://open.spotify.com/album/0XcNHzWiVE1RAQrQ4tvtOZ) | 3:05 | 2025-11-17 | 2026-03-20 |
@@ -1031,6 +1031,7 @@
 | [Surrounded](https://open.spotify.com/track/66dcthbkYBL1JGB0NvZfFM) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5), [John Vanderslice](https://open.spotify.com/artist/2GOfAZEwmCpwPhX7kjMJYN) | [Moon Colony Bloodbath](https://open.spotify.com/album/5XIpuHp3NzoQQQFH5PUvyj) | 2:24 | 2026-07-18 |  |
 | [Suspended From Class](https://open.spotify.com/track/2YDmCSVs46QrhD2sqYGGqx) | [Camera Obscura](https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt) | [Underachievers Please Try Harder](https://open.spotify.com/album/5d9FNx7UMLgfiGQGXU19jh) | 3:46 | 2023-06-08 | 2024-01-07 |
 | [Suzanne](https://open.spotify.com/track/2L93TdW2GMue1H2zlkt30F) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [Songs Of Leonard Cohen](https://open.spotify.com/album/2Aiv0ThDpFa7lqHphR6MN5) | 3:49 | 2024-01-08 |  |
+| [Swedish Death Cleaning](https://open.spotify.com/track/3Fkh5lCPxZ0n7ojKApo7Zv) | [Aesop Rock](https://open.spotify.com/artist/2fSaE6BXtQy0x7R7v9IOmZ), [Blockhead](https://open.spotify.com/artist/7bHm3B3jJju0q9FUdOgp3b) | [Trouble Mountain](https://open.spotify.com/album/0Fta5KudJiX6HpDWApUu8y) | 2:19 | 2026-11-14 |  |
 | [Sweet Adeline](https://open.spotify.com/track/5KmMMmc1pXL5lL4HlR9Srz) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [XO](https://open.spotify.com/album/1zOxlHQGGV6EH7n4OIFTyh) | 3:15 | 2023-09-29 |  |
 | [Sweet Mickey](https://open.spotify.com/track/7LYPaZ2vyJBN6i99MJLqOS) | [Armand Hammer](https://open.spotify.com/artist/3SCI7sXHUZIeDKMWC5NT9C), [billy woods](https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc), [E L U C I D](https://open.spotify.com/artist/6F5n3bvrBgoyicdFT6L8IB) | [Paraffin](https://open.spotify.com/album/1LkgalktPs3mJMbcD9dhY8) | 2:29 | 2021-08-26 |  |
 | [Swing \(In A Dream\)](https://open.spotify.com/track/3L7aQYaKfELkdsoMUAv8zN) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [O Monolith](https://open.spotify.com/album/6El4L0QbF7grZlJmpv7KPI) | 4:29 | 2023-09-17 |  |

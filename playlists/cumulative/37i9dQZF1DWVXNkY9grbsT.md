@@ -4,7 +4,7 @@
 
 > Genre\-defying artists pushing boundaries in electronic ambient music\. Curated by human Spotify editors.
 
-669 songs - 2 day 6 hr 35 min
+670 songs - 2 day 6 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Automat](https://open.spotify.com/track/5s0QV9wD1BdWaroVgLDiKo) | [Recent Arts](https://open.spotify.com/artist/6YTikqXTOc9mvsgv2wOiYc), [Tobias Freund](https://open.spotify.com/artist/2IMuk5pFLxBMzcEAZcfleX), [Valentina Berthelon](https://open.spotify.com/artist/2r6y7E3nFNHvxmIoIlenzW) | [Hypertext](https://open.spotify.com/album/5BVwbpPSALHaFKEDL7LEdi) | 6:10 | 2022-11-22 | 2023-09-22 |
 | [AVI \- Joseph Shabason + Vibrant Matter Remix](https://open.spotify.com/track/5jDMfbG58TUZxTobCpYCBU) | [Ralph Heidel](https://open.spotify.com/artist/0bMg0IViAwAYQ5WUenR92H), [Joseph Shabason](https://open.spotify.com/artist/7xoTSPGUr9u8FWR4G8AWoS), [Vibrant Matter](https://open.spotify.com/artist/55q7xAm5t2bTlhtSw8N2UY) | [AVI \(Joseph Shabason + Vibrant Matter Remix\)](https://open.spotify.com/album/0HJypKWzMjEfqfqwARGvBl) | 3:56 | 2022-04-01 | 2022-07-29 |
 | [AVI \- Joseph Shabason + Vibrant Matter Remix](https://open.spotify.com/track/6ACrwGYBc9Zxq4xLhKqulg) | [Ralph Heidel](https://open.spotify.com/artist/0bMg0IViAwAYQ5WUenR92H), [Joseph Shabason](https://open.spotify.com/artist/7xoTSPGUr9u8FWR4G8AWoS), [Vibrant Matter](https://open.spotify.com/artist/55q7xAm5t2bTlhtSw8N2UY) | [AVI REMIX EP](https://open.spotify.com/album/2kPAby0flE4TQGyZvoV8Fc) | 3:56 | 2022-11-22 | 2023-08-21 |
+| [avril 14th half speed alternative version \[re\-recorded 2009 Nagra\]](https://open.spotify.com/track/3M59CLOVhqMihLISDjJyJI) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Drukqs \(Expanded Edition\)](https://open.spotify.com/album/0KFEayVJto9FySIVo4ODUn) | 5:07 | 2026-11-13 |  |
 | [Bangalter: Mirage: Part II](https://open.spotify.com/track/68u2wDJlrYnSCAUzTAlHej) | [Thomas Bangalter](https://open.spotify.com/artist/41vv2Tj1knysv6MuFUmdwi) | [Mirage: Part II](https://open.spotify.com/album/5zUnA8EBTVSP8hGsQ0ADyj) | 9:56 | 2026-05-01 |  |
 | [Baresi](https://open.spotify.com/track/3X0GKQRNLjVjNs3E5z695C) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Baresi](https://open.spotify.com/album/0sBNgCtkmhq1eC7RR3UQ1y) | 4:54 | 2021-12-26 | 2022-07-27 |
 | [Bathtime Bliss](https://open.spotify.com/track/1LD5W8tbNtj4h3jrqgdT3X) | [Peach](https://open.spotify.com/artist/5e6DBZg0HJywmjj9BX9iIN) | [Bathtime Bliss](https://open.spotify.com/album/3CcZZbU1h9lsicLtjY0VDp) | 4:26 | 2026-05-08 |  |
@@ -453,7 +454,7 @@
 | [Phaedra](https://open.spotify.com/track/3GG5A7ugKwKqtxAOvSwuF8) | [Amon Tobin](https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO) | [How Do You Live](https://open.spotify.com/album/0a48X39VME2QhWVEASztpm) | 3:33 | 2021-12-26 | 2023-06-28 |
 | [Phaedra](https://open.spotify.com/track/7trmMwOb7JW4xQlUVFPoZy) | [Amon Tobin](https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO) | [How Do You Live](https://open.spotify.com/album/6X3Csq02B7dRFU1yaa7GVV) | 3:33 | 2023-06-29 | 2023-08-12 |
 | [Plants](https://open.spotify.com/track/249vaomDI0QnrJlT5oqAtp) | [DOVS](https://open.spotify.com/artist/4dTrYioJXOgFCIglYGbXQm) | [Psychic Geography](https://open.spotify.com/album/5M2wfJvURaKTP1CA6CUMGt) | 3:38 | 2025-01-24 | 2026-04-25 |
-| [Plastic Glacier](https://open.spotify.com/track/7gvKRnMCQUpZ0fLPWKUutw) | [Qasim Naqvi](https://open.spotify.com/artist/3HMjcIM1vwBifTgdYZlv6D) | [Plastic Glacier](https://open.spotify.com/album/1AxJ90rnRYJTWhVqbDmFae) | 7:13 | 2025-04-04 |  |
+| [Plastic Glacier](https://open.spotify.com/track/7gvKRnMCQUpZ0fLPWKUutw) | [Qasim Naqvi](https://open.spotify.com/artist/3HMjcIM1vwBifTgdYZlv6D) | [Plastic Glacier](https://open.spotify.com/album/1AxJ90rnRYJTWhVqbDmFae) | 7:13 | 2025-04-04 | 2026-11-14 |
 | [Plonk III](https://open.spotify.com/track/3kilgBTpr97Ef1v3x6rTeJ) | [Huerco S.](https://open.spotify.com/artist/0Wy3xgOTkgtDlT9wJsOQjy) | [Plonk](https://open.spotify.com/album/0URcDAZuAvHu1pNFPekiL5) | 6:22 | 2022-02-25 | 2022-03-04 |
 | [Plonk VI](https://open.spotify.com/track/0Jae6ZMQ6BTe0FjdFA3lwJ) | [Huerco S.](https://open.spotify.com/artist/0Wy3xgOTkgtDlT9wJsOQjy) | [Plonk VI](https://open.spotify.com/album/54mRSjdlk3TO9xQpcMDCok) | 9:24 | 2021-12-26 | 2022-07-29 |
 | [Plonk VI](https://open.spotify.com/track/6r5vGrYSklN6D9QGwfCxii) | [Huerco S.](https://open.spotify.com/artist/0Wy3xgOTkgtDlT9wJsOQjy) | [Plonk](https://open.spotify.com/album/1NLglnqr3MZju3F0upWXzU) | 9:24 | 2022-09-20 | 2023-08-12 |

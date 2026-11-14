@@ -1,12 +1,12 @@
 {
   "description": "This is Jai Wolf. The essential tracks, all in one playlist.",
-  "num_followers": 11492,
+  "num_followers": 11490,
   "original_name": "This Is Jai Wolf",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avOwAAAAAAAFJ1Ud2iWcDu2n6CfeMVh6",
+  "snapshot_id": "avUBgAAAAADfKLtSrQzTM76ioCcXhheX",
   "tracks": [
     {
       "added_at": null,
@@ -471,8 +471,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Weekend",
-        "url": "https://open.spotify.com/album/5RW5fQHscTw8urPl8pTsuS"
+        "name": "Afterlife",
+        "url": "https://open.spotify.com/album/5FvZBcWlokND0Y5fKcf85c"
       },
       "artists": [
         {
@@ -480,13 +480,13 @@
           "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
         },
         {
-          "name": "Simona Shao",
-          "url": "https://open.spotify.com/artist/4iF8VQ9Avxe5RM3A4ddlvF"
+          "name": "Linney",
+          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
         }
       ],
-      "duration_ms": 168821,
-      "name": "Weekend",
-      "url": "https://open.spotify.com/track/5QbbJFoN3rLoMAuE6TaLad"
+      "duration_ms": 184163,
+      "name": "Afterlife",
+      "url": "https://open.spotify.com/track/1IATy9AtXQ96BqOAncqaal"
     },
     {
       "added_at": null,
@@ -507,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Afterlife",
-        "url": "https://open.spotify.com/album/5FvZBcWlokND0Y5fKcf85c"
+        "name": "Weekend",
+        "url": "https://open.spotify.com/album/5RW5fQHscTw8urPl8pTsuS"
       },
       "artists": [
         {
@@ -516,13 +516,13 @@
           "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
         },
         {
-          "name": "Linney",
-          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
+          "name": "Simona Shao",
+          "url": "https://open.spotify.com/artist/4iF8VQ9Avxe5RM3A4ddlvF"
         }
       ],
-      "duration_ms": 184163,
-      "name": "Afterlife",
-      "url": "https://open.spotify.com/track/1IATy9AtXQ96BqOAncqaal"
+      "duration_ms": 168821,
+      "name": "Weekend",
+      "url": "https://open.spotify.com/track/5QbbJFoN3rLoMAuE6TaLad"
     },
     {
       "added_at": null,
@@ -739,18 +739,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Cure To Loneliness (5 Year Anniversary Deluxe)",
-        "url": "https://open.spotify.com/album/33grfTaPLm4SqiDAavBFFv"
+        "name": "We Rise (Jai Wolf Remix)",
+        "url": "https://open.spotify.com/album/7IsUiiiwpbZ94J1CMAFNXW"
       },
       "artists": [
+        {
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+        },
         {
           "name": "Jai Wolf",
           "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
         }
       ],
-      "duration_ms": 294034,
-      "name": "Half Hearted - Demo",
-      "url": "https://open.spotify.com/track/6gJE6XB52DP0TefBjpO3fh"
+      "duration_ms": 188616,
+      "name": "We Rise - Jai Wolf Remix",
+      "url": "https://open.spotify.com/track/3t9m6BZTPVw7ClRSJBQpGs"
     },
     {
       "added_at": null,
@@ -775,22 +779,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "We Rise (Jai Wolf Remix)",
-        "url": "https://open.spotify.com/album/7IsUiiiwpbZ94J1CMAFNXW"
+        "name": "The Cure To Loneliness (5 Year Anniversary Deluxe)",
+        "url": "https://open.spotify.com/album/33grfTaPLm4SqiDAavBFFv"
       },
       "artists": [
-        {
-          "name": "San Holo",
-          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
-        },
         {
           "name": "Jai Wolf",
           "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
         }
       ],
-      "duration_ms": 188616,
-      "name": "We Rise - Jai Wolf Remix",
-      "url": "https://open.spotify.com/track/3t9m6BZTPVw7ClRSJBQpGs"
+      "duration_ms": 294034,
+      "name": "Half Hearted - Demo",
+      "url": "https://open.spotify.com/track/6gJE6XB52DP0TefBjpO3fh"
     },
     {
       "added_at": null,

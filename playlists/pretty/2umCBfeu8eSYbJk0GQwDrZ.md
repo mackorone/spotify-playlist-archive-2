@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2umCBfeu8eSYbJk0GQwDrZ.md) - [plain]
 
 > Stay current with the latest indie\-alt tracks\. Cover: Tame Impala.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 25,961 likes - 52 songs - 2 hr 53 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 25,958 likes - 52 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

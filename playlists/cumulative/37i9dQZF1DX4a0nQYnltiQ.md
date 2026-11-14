@@ -4,7 +4,7 @@
 
 > The \#1 Destination for the best melodies in the world\. Cover: Chxrry
 
-169 songs - 8 hr 30 min
+170 songs - 8 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Don't Give Up](https://open.spotify.com/track/3VLC9OBGZr4aRSJFbZpPHg) | [LDYA](https://open.spotify.com/artist/7LvlgYvN2krtIsRQK7vs1c) | [Home](https://open.spotify.com/album/7EyCL21T1fqLhWNxMzSzXD) | 2:58 | 2025-07-10 | 2025-11-21 |
 | [Don't Play The Fool](https://open.spotify.com/track/2a3FBmnHFLJ3dxB7QUHlgh) | [Demae](https://open.spotify.com/artist/1HkWfjmOohAg7lS9bv1QcL) | [Don't Play The Fool](https://open.spotify.com/album/6eDHUSZ3qKX6vwDxWYSC9z) | 3:39 | 2025-07-24 | 2026-05-22 |
 | [Don't Remind Me \(with Anderson .Paak\)](https://open.spotify.com/track/7zptU3OZqdXe6qsRcpNWiS) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Don't Remind Me \(with Anderson .Paak\)](https://open.spotify.com/album/1Z1L15G68wBQU7gG57QXl9) | 3:38 | 2025-10-09 |  |
+| [Don't Want](https://open.spotify.com/track/1a4kuAuM9rMX49yalPL3at) | [Solana](https://open.spotify.com/artist/3l476od4bTSjScrR20hpjR) | [Girl From The West](https://open.spotify.com/album/4frT3p7rhaAyLgtRSIO2U2) | 2:37 | 2026-11-13 |  |
 | [DOWN BAD](https://open.spotify.com/track/6V2GsxdsoC7s81pD0ZMyi6) | [SAILORR](https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci) | [DOWN BAD](https://open.spotify.com/album/7vACZGvCij77fUPfSi54TC) | 2:12 | 2025-07-10 | 2025-10-17 |
 | [downward spiral](https://open.spotify.com/track/41NLDchtPOKKkSCKtoygBI) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4) | [downward spiral](https://open.spotify.com/album/6B4BCGkmYIQwEjWkV8TybZ) | 2:25 | 2025-07-10 | 2026-02-27 |
 | [Easy](https://open.spotify.com/track/0y97dz8upW8GtUMzRACY5o) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I), [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [Easy](https://open.spotify.com/album/775f99vvSk9KnPqFmyxhuB) | 2:27 | 2025-09-25 | 2026-07-24 |
@@ -146,7 +147,7 @@
 | [Sugar Sweet \(feat\. Shenseea & Kehlani\)](https://open.spotify.com/track/1zt37kKFum6wDVFrtOF4vx) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Sugar Sweet \(feat\. Shenseea & Kehlani\)](https://open.spotify.com/album/72t7JqM9EqzjNuyx5QffY0) | 3:39 | 2025-07-24 | 2026-10-16 |
 | [Sun Don't Leave Me](https://open.spotify.com/track/7jwTfYyL6YFp0IUMUoHx5m) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Sun Don't Leave Me](https://open.spotify.com/album/0ETZgZqH23NT9Y8tstL8B8) | 3:26 | 2025-07-10 | 2025-09-12 |
 | [Sundown](https://open.spotify.com/track/4K2yfod2Ac7igAeVjks1a4) | [Tora\-i](https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z), [Louis Culture](https://open.spotify.com/artist/7k6jdEkR8FoKdOi0iW4VkR) | [Sundown](https://open.spotify.com/album/2bXofjekwT9zn3Z7tWtuzd) | 3:12 | 2026-11-13 |  |
-| [Supermarket](https://open.spotify.com/track/5TQq3QfG2tXGZum3GvBmkm) | [Say Now](https://open.spotify.com/artist/1p6HheoJqfYMiMC62yQIWn) | [Supermarket](https://open.spotify.com/album/2DdMFIN9ixfj0egXGlcfPy) | 3:04 | 2025-10-09 |  |
+| [Supermarket](https://open.spotify.com/track/5TQq3QfG2tXGZum3GvBmkm) | [Say Now](https://open.spotify.com/artist/1p6HheoJqfYMiMC62yQIWn) | [Supermarket](https://open.spotify.com/album/2DdMFIN9ixfj0egXGlcfPy) | 3:04 | 2025-10-09 | 2026-11-14 |
 | [Supernova](https://open.spotify.com/track/5UQPo4DofgIrrSZfliJYKR) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Legendary Love](https://open.spotify.com/album/74ExA1UleSA3kSC0TyNObv) | 2:51 | 2026-11-13 |  |
 | [Suzanne](https://open.spotify.com/track/3EL4YcUAmGkfTKXhS49Y3w) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Suzanne](https://open.spotify.com/album/3abFlHRlGCejxVmW9sndHG) | 3:55 | 2025-07-10 | 2026-04-17 |
 | [Sweet Rose](https://open.spotify.com/track/07XM0G5OUgiiG0rtRkhdcv) | [Ella More](https://open.spotify.com/artist/727Q7I2a8uB63eFKd4N38p) | [Sweet Rose](https://open.spotify.com/album/4E16pSvvDRQUUgA1rmsROL) | 3:15 | 2026-04-16 |  |

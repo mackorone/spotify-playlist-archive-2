@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "Naya Hindi Hip-Hop! Cover: Sammohit",
+  "description": "Naya Hindi Hip-Hop! Cover: Saniya MQ ",
   "name": "New Rap Hindi",
   "tracks": [
     {
@@ -5588,7 +5588,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 138181,
       "name": "Bewafa",
       "url": "https://open.spotify.com/track/3j2Nvqau8VubS8aX8FBcpk"
@@ -9970,6 +9970,32 @@
       "duration_ms": 132000,
       "name": "Company",
       "url": "https://open.spotify.com/track/6x2kBaxYOGC8mdPMDtYCbD"
+    },
+    {
+      "album": {
+        "name": "MAYANAGRI",
+        "url": "https://open.spotify.com/album/02ZVe2vzEs9VLJhf6evtZ9"
+      },
+      "artists": [
+        {
+          "name": "Yashraj",
+          "url": "https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST"
+        },
+        {
+          "name": "Dropped Out",
+          "url": "https://open.spotify.com/artist/7zN7ZzgJdUZdEcbecViK4N"
+        },
+        {
+          "name": "Pratika Gopinath",
+          "url": "https://open.spotify.com/artist/5Nplh3QJ20U7FzWB490wyo"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167999,
+      "name": "CON HAI TU?",
+      "url": "https://open.spotify.com/track/21UbZfNRUFirxuoZsCYyjn"
     },
     {
       "album": {
@@ -15488,6 +15514,28 @@
       "duration_ms": 160035,
       "name": "Galeeech Nagar",
       "url": "https://open.spotify.com/track/5gUPG9pOP3peUYUJnF7W9B"
+    },
+    {
+      "album": {
+        "name": "Galiyo Ki Baate",
+        "url": "https://open.spotify.com/album/5g1NfAcLfhdl0aKKIh365k"
+      },
+      "artists": [
+        {
+          "name": "Suyash Parasher",
+          "url": "https://open.spotify.com/artist/7mL47j0V6LmUeERZjNQOth"
+        },
+        {
+          "name": "Premium",
+          "url": "https://open.spotify.com/artist/7wYUJJRfwIDE6RghioaRk3"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139268,
+      "name": "Galiyo Ki Baate",
+      "url": "https://open.spotify.com/track/0RzOxDizAbkS0sAJVy22CF"
     },
     {
       "album": {
@@ -22640,7 +22688,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 177577,
       "name": "khasaara",
       "url": "https://open.spotify.com/track/5Kuh6MUrEQBvMStRIx9sIZ"
@@ -24028,7 +24076,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 188400,
       "name": "Laal Carpet (feat. Bellicose)",
       "url": "https://open.spotify.com/track/5UvauQcEwBb0ALEhkH0CJ0"
@@ -34708,7 +34756,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 148571,
       "name": "Sadabahar Flow",
       "url": "https://open.spotify.com/track/3iMMlSfIlRuSFBkmluqp8X"
@@ -36275,6 +36323,36 @@
     },
     {
       "album": {
+        "name": "UBBAD KHABBAD",
+        "url": "https://open.spotify.com/album/4McqJI6VwfFKZWCUtmQXNj"
+      },
+      "artists": [
+        {
+          "name": "Onnu",
+          "url": "https://open.spotify.com/artist/2FmtB6TNy7e86Zb2mLFnhV"
+        },
+        {
+          "name": "Baajewala",
+          "url": "https://open.spotify.com/artist/43Xkqbz8Q2y8XG95VqpxqF"
+        },
+        {
+          "name": "FAZEE-B",
+          "url": "https://open.spotify.com/artist/2myfRQyZjvRkdoz9YWMy4x"
+        },
+        {
+          "name": "Syric Bawa",
+          "url": "https://open.spotify.com/artist/6f1Oa2qHzGsr0fyAe8tbXO"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173892,
+      "name": "Side Bete Sarak",
+      "url": "https://open.spotify.com/track/2go5umvxw8y6STFhz3zLH4"
+    },
+    {
+      "album": {
         "name": "Side Hatt",
         "url": "https://open.spotify.com/album/5YF3JXgTME3Db1Ae9az7tr"
       },
@@ -37240,6 +37318,24 @@
       "duration_ms": 169959,
       "name": "Sticky Situations",
       "url": "https://open.spotify.com/track/2FwXqTlDkG40ggRPNmja8W"
+    },
+    {
+      "album": {
+        "name": "Still Bombay",
+        "url": "https://open.spotify.com/album/2aw74ZqtMfRGjGD9hlqvM5"
+      },
+      "artists": [
+        {
+          "name": "Saemy",
+          "url": "https://open.spotify.com/artist/4u5irqeYAcUg0pKBES0RQs"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142652,
+      "name": "Still Bombay",
+      "url": "https://open.spotify.com/track/2wJTazPTXpwveveLGTrmaf"
     },
     {
       "album": {

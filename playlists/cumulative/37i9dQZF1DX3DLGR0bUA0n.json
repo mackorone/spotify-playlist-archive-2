@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-19",
-  "description": "Con todo el sentimiento ranchero desde el coraz\u00f3n de la Tierra Caliente. GERARDO D\u00cdAZ Y SU GERARQU\u00cdA en portada. ",
+  "description": "Con todo el sentimiento ranchero desde el coraz\u00f3n de la Tierra Caliente. La Dinast\u00eda de Tuzantla Michoac\u00e1n en portada. ",
   "name": "Tierra Caliente",
   "tracks": [
     {
@@ -276,7 +276,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 219985,
       "name": "Amor Limosnero",
       "url": "https://open.spotify.com/track/0SLdgfVlFaf0vv9HUFAXgx"
@@ -468,7 +468,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 170812,
       "name": "Canci\u00f3n a mi Pap\u00e1",
       "url": "https://open.spotify.com/track/5SgNpLaVzP1r2oewqS5DIk"
@@ -588,7 +588,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 196266,
       "name": "Como Lo Hice Yo",
       "url": "https://open.spotify.com/track/4RgnIVqKYEuGot3yDrtikf"
@@ -1039,6 +1039,24 @@
     },
     {
       "album": {
+        "name": "Especialmente Para Ti",
+        "url": "https://open.spotify.com/album/0Z8wgPzDI9UbMjCqmMH4vn"
+      },
+      "artists": [
+        {
+          "name": "Los Pajaritos De Tacupa",
+          "url": "https://open.spotify.com/artist/7KrWKbEhGHojuod8j3CDNT"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196829,
+      "name": "El Amor No Se Vende",
+      "url": "https://open.spotify.com/track/3V70eHylxLOGIbEj2Fzgbm"
+    },
+    {
+      "album": {
         "name": "El Baile de la Iguana (En Vivo)",
         "url": "https://open.spotify.com/album/0XCIsMhMKAVnmTZfN8RV8o"
       },
@@ -1162,6 +1180,24 @@
       "duration_ms": 181552,
       "name": "El Diablo en una Botella",
       "url": "https://open.spotify.com/track/6UeFg2AN97BDm5GkD7vrpd"
+    },
+    {
+      "album": {
+        "name": "Mi Raz\u00f3n de Vivir",
+        "url": "https://open.spotify.com/album/7mC5BkLVt3LgBzcId3oCY3"
+      },
+      "artists": [
+        {
+          "name": "Los Player's de Tuzantla",
+          "url": "https://open.spotify.com/artist/77UR8eXyohRSAMyLhYfdxW"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173479,
+      "name": "El Disgusto",
+      "url": "https://open.spotify.com/track/13YaSkMqsCXlZYkq6eM5zW"
     },
     {
       "album": {
@@ -1328,7 +1364,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-13",
+      "date_removed": null,
       "duration_ms": 302282,
       "name": "El Oro Verde",
       "url": "https://open.spotify.com/track/7m3QSjfXFbYZzndQCJBwDR"
@@ -1516,7 +1552,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 165225,
       "name": "En C\u00e1mara Lenta",
       "url": "https://open.spotify.com/track/7zwpqUQKWIYQetrh8E3T5g"
@@ -1649,6 +1685,24 @@
     },
     {
       "album": {
+        "name": "Estas perras ganas",
+        "url": "https://open.spotify.com/album/53YMb9JctIbIgzfPchKEQS"
+      },
+      "artists": [
+        {
+          "name": "La Dinast\u00eda de Tuzantla Michoac\u00e1n",
+          "url": "https://open.spotify.com/artist/2u7j1pjcNuLlfgiNrByi0R"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161031,
+      "name": "Estas perras ganas",
+      "url": "https://open.spotify.com/track/0O4hdtgDID9GV1qzXO9FoP"
+    },
+    {
+      "album": {
         "name": "Los De Tierra Caliente (En Vivo)",
         "url": "https://open.spotify.com/album/0o72ypAIEh2XtM7SYzrNfL"
       },
@@ -1682,7 +1736,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 148329,
       "name": "Flor Hermosa",
       "url": "https://open.spotify.com/track/557jO0VSx5Y0VgeA4BOwdO"
@@ -1818,7 +1872,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 192991,
       "name": "Hasta La Perra Te Extra\u00f1a",
       "url": "https://open.spotify.com/track/7r71DCe6Tq120haZVL3gVO"
@@ -1861,6 +1915,28 @@
     },
     {
       "album": {
+        "name": "Humilde Por Herencia",
+        "url": "https://open.spotify.com/album/2cUL5fnvg40mUC6zQjI7NL"
+      },
+      "artists": [
+        {
+          "name": "La Leyenda De Servando Montalva",
+          "url": "https://open.spotify.com/artist/3Nm9w1hNH8quV9rzZ30hvn"
+        },
+        {
+          "name": "Arkangel Musical de Tierra Caliente",
+          "url": "https://open.spotify.com/artist/2iIOVaa7w74YFsntwrKk1k"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160955,
+      "name": "Humilde Por Herencia",
+      "url": "https://open.spotify.com/track/68nHWa6gJ3kmWtqCq44XSM"
+    },
+    {
+      "album": {
         "name": "Inolvidable",
         "url": "https://open.spotify.com/album/0fvLPJdXSU7YonBQNWNL4M"
       },
@@ -1872,7 +1948,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 202083,
       "name": "Inolvidables",
       "url": "https://open.spotify.com/track/3wQ0hlPa8QibAudvFpmhOU"
@@ -2064,6 +2140,42 @@
       "duration_ms": 234000,
       "name": "La Mas Bella Mujer",
       "url": "https://open.spotify.com/track/6yfH6f9o90ccQxkcbBTM7S"
+    },
+    {
+      "album": {
+        "name": "Especialmente Para Ti",
+        "url": "https://open.spotify.com/album/0Z8wgPzDI9UbMjCqmMH4vn"
+      },
+      "artists": [
+        {
+          "name": "Los Pajaritos De Tacupa",
+          "url": "https://open.spotify.com/artist/7KrWKbEhGHojuod8j3CDNT"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152380,
+      "name": "La Novia Del Pajarillo",
+      "url": "https://open.spotify.com/track/5UnIKCY1nZDjKBC6hgclrE"
+    },
+    {
+      "album": {
+        "name": "La Ruleta",
+        "url": "https://open.spotify.com/album/5iNWv5MgbQkLGnOQgEGJiQ"
+      },
+      "artists": [
+        {
+          "name": "Arkangel Musical de Tierra Caliente",
+          "url": "https://open.spotify.com/artist/2iIOVaa7w74YFsntwrKk1k"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143743,
+      "name": "La Ruleta",
+      "url": "https://open.spotify.com/track/7kezF7ImWJWGasPCS8O7zI"
     },
     {
       "album": {
@@ -2476,7 +2588,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 148122,
       "name": "Mi Presencia Cuenta",
       "url": "https://open.spotify.com/track/3odi5ZTRPlXuSH9cOIV4lb"
@@ -2498,6 +2610,24 @@
       "duration_ms": 158906,
       "name": "Mi Ranchito",
       "url": "https://open.spotify.com/track/7aknjZ3qE9iMLzx7pDvpMJ"
+    },
+    {
+      "album": {
+        "name": "Mi Reina",
+        "url": "https://open.spotify.com/album/2bWS4f4fpvZo8xQoepMuxw"
+      },
+      "artists": [
+        {
+          "name": "Arkangel Musical de Tierra Caliente",
+          "url": "https://open.spotify.com/artist/2iIOVaa7w74YFsntwrKk1k"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210336,
+      "name": "Mi Reina",
+      "url": "https://open.spotify.com/track/7nV6AcTIZjhd7P2226CTLP"
     },
     {
       "album": {
@@ -2840,7 +2970,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 176160,
       "name": "No Volvere",
       "url": "https://open.spotify.com/track/0D0ji05klGhTc63FeyXDsU"
@@ -2920,6 +3050,24 @@
       "duration_ms": 192130,
       "name": "Ojos Negros Nunca Enga\u00f1an",
       "url": "https://open.spotify.com/track/76SbTjQL9nn1fGSR8yXq6F"
+    },
+    {
+      "album": {
+        "name": "Siempre Contigo",
+        "url": "https://open.spotify.com/album/6HEAF4lEhCQzC0XR3hKowJ"
+      },
+      "artists": [
+        {
+          "name": "Los Player's de Tuzantla",
+          "url": "https://open.spotify.com/artist/77UR8eXyohRSAMyLhYfdxW"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207533,
+      "name": "Pa' Que Son Pasiones",
+      "url": "https://open.spotify.com/track/0ETuqKUidXiI2Xb6NpJVFb"
     },
     {
       "album": {
@@ -3212,7 +3360,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 200942,
       "name": "Qui\u00e9reme Como Te Quiero",
       "url": "https://open.spotify.com/track/7BOrTfOzfBxdXyOMW5NOVW"
@@ -3296,7 +3444,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-24",
+      "date_removed": null,
       "duration_ms": 198716,
       "name": "Serious",
       "url": "https://open.spotify.com/track/0G0U4hpQoZ66kaHMxi1eJk"
@@ -3574,7 +3722,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 220589,
       "name": "Te Ves Fatal",
       "url": "https://open.spotify.com/track/55FXnod2nhT9cRG2dF85gO"
@@ -3874,6 +4022,24 @@
       "duration_ms": 218581,
       "name": "Y Que Se Te Olvid\u00f3 (En Vivo)",
       "url": "https://open.spotify.com/track/5t069YuclolDCJXQQSWUZ7"
+    },
+    {
+      "album": {
+        "name": "Vuelve Conmigo",
+        "url": "https://open.spotify.com/album/6WDmElvEfnT80DuZVqwXkB"
+      },
+      "artists": [
+        {
+          "name": "Los Player's de Tuzantla",
+          "url": "https://open.spotify.com/artist/77UR8eXyohRSAMyLhYfdxW"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143933,
+      "name": "Y \u00c1ndale",
+      "url": "https://open.spotify.com/track/4f74sBKYIhJl0HI0JsAsj9"
     },
     {
       "album": {

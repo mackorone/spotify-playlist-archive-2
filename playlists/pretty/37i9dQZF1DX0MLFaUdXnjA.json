@@ -1,28 +1,44 @@
 {
-  "description": "Sit back and relax to the chillest pop.  Cover: keshi",
-  "num_followers": 1754604,
+  "description": "Sit back and relax to the chillest pop.  Cover: Say Now",
+  "num_followers": 1754314,
   "original_name": "Chill Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAiZ7Ax/Ek8nlQ3cCa6+TsulKoJ",
+  "snapshot_id": "AAAAALDMc10yC0P59G1+oKSZMJ32oLw5",
   "tracks": [
     {
-      "added_at": "2026-10-23 04:02:23",
+      "added_at": "2026-11-13 05:00:09",
       "album": {
-        "name": "MISS ME",
-        "url": "https://open.spotify.com/album/18QfFnvtg9l6VlBpgU5vkb"
+        "name": "Say what you see",
+        "url": "https://open.spotify.com/album/2H9148vrCwSS9qB0SIv5xp"
       },
       "artists": [
         {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+          "name": "Say Now",
+          "url": "https://open.spotify.com/artist/1p6HheoJqfYMiMC62yQIWn"
         }
       ],
-      "duration_ms": 193066,
-      "name": "MISS ME",
-      "url": "https://open.spotify.com/track/6btmjh1p327BMAJAczq9Lf"
+      "duration_ms": 215766,
+      "name": "Girl of the moment",
+      "url": "https://open.spotify.com/track/1F7xMt8gQywT4aJ2Vi8eZj"
+    },
+    {
+      "added_at": "2026-10-16 04:01:35",
+      "album": {
+        "name": "The Girl Of Your Dreams",
+        "url": "https://open.spotify.com/album/03HD0ohJOvejRoesXWKZFl"
+      },
+      "artists": [
+        {
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+        }
+      ],
+      "duration_ms": 226131,
+      "name": "Blue Hour",
+      "url": "https://open.spotify.com/track/5160pPOgK5vibNMtePxA3R"
     },
     {
       "added_at": "2026-10-16 04:01:35",
@@ -41,20 +57,100 @@
       "url": "https://open.spotify.com/track/51jUUdOdGqf0VeGtFOTbRe"
     },
     {
-      "added_at": "2026-10-16 04:01:35",
+      "added_at": "2026-11-13 05:00:09",
       "album": {
-        "name": "The Girl Of Your Dreams",
-        "url": "https://open.spotify.com/album/03HD0ohJOvejRoesXWKZFl"
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/2iIbQxBJG9cX0HCtfVDXQt"
       },
       "artists": [
         {
-          "name": "Ashe",
-          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+          "name": "Quiet Light",
+          "url": "https://open.spotify.com/artist/6Uy2IwBjxdF0MxQVIN18n9"
         }
       ],
-      "duration_ms": 226131,
-      "name": "Blue Hour",
-      "url": "https://open.spotify.com/track/5160pPOgK5vibNMtePxA3R"
+      "duration_ms": 245993,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/37GUzBOW6gbF68KIAFnjh6"
+    },
+    {
+      "added_at": "2026-11-13 05:00:09",
+      "album": {
+        "name": "Without My Strings",
+        "url": "https://open.spotify.com/album/75ICiuYySDUpwRAU6I9h3E"
+      },
+      "artists": [
+        {
+          "name": "Alec Benjamin",
+          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
+        }
+      ],
+      "duration_ms": 190947,
+      "name": "Without My Strings",
+      "url": "https://open.spotify.com/track/32oNxFi2dBftVTPKsMJcpc"
+    },
+    {
+      "added_at": "2026-10-02 04:00:41",
+      "album": {
+        "name": "worst case",
+        "url": "https://open.spotify.com/album/1AhPEMq3UKAxsOzzC58SD4"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Jordan",
+          "url": "https://open.spotify.com/artist/6AO3in7TlN2ab2o5Cq5lrs"
+        }
+      ],
+      "duration_ms": 193301,
+      "name": "worst case",
+      "url": "https://open.spotify.com/track/7Ma1yFac4us8oeH9dUFcRe"
+    },
+    {
+      "added_at": "2026-10-23 04:02:23",
+      "album": {
+        "name": "MISS ME",
+        "url": "https://open.spotify.com/album/18QfFnvtg9l6VlBpgU5vkb"
+      },
+      "artists": [
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        }
+      ],
+      "duration_ms": 193066,
+      "name": "MISS ME",
+      "url": "https://open.spotify.com/track/6btmjh1p327BMAJAczq9Lf"
+    },
+    {
+      "added_at": "2026-11-13 05:00:09",
+      "album": {
+        "name": "HERE NOW / FRANK",
+        "url": "https://open.spotify.com/album/1VHLQVhoFUUT8b8nRF1RG5"
+      },
+      "artists": [
+        {
+          "name": "KatzPascale",
+          "url": "https://open.spotify.com/artist/23vJAg53gio3DsY5jJof5H"
+        }
+      ],
+      "duration_ms": 167269,
+      "name": "HERE NOW",
+      "url": "https://open.spotify.com/track/2DKudvFN7v0ppq0nFPZb8i"
+    },
+    {
+      "added_at": "2026-11-13 05:00:09",
+      "album": {
+        "name": "Sweet",
+        "url": "https://open.spotify.com/album/0Ti3FBh9STE0SZ42QXNb8l"
+      },
+      "artists": [
+        {
+          "name": "Clara Le Bouar",
+          "url": "https://open.spotify.com/artist/5d4Z9gtKIo66PT6hMbmevx"
+        }
+      ],
+      "duration_ms": 243488,
+      "name": "Sweet",
+      "url": "https://open.spotify.com/track/3D3409tT7P1S5AYzYKy3fA"
     },
     {
       "added_at": "2026-10-30 04:01:40",
@@ -119,22 +215,6 @@
       "duration_ms": 177270,
       "name": "your hand in mine",
       "url": "https://open.spotify.com/track/77MB8bA6c2fUHVgUD2SeI5"
-    },
-    {
-      "added_at": "2026-10-02 04:00:41",
-      "album": {
-        "name": "worst case",
-        "url": "https://open.spotify.com/album/1AhPEMq3UKAxsOzzC58SD4"
-      },
-      "artists": [
-        {
-          "name": "Chelsea Jordan",
-          "url": "https://open.spotify.com/artist/6AO3in7TlN2ab2o5Cq5lrs"
-        }
-      ],
-      "duration_ms": 193301,
-      "name": "worst case",
-      "url": "https://open.spotify.com/track/7Ma1yFac4us8oeH9dUFcRe"
     },
     {
       "added_at": "2026-10-30 04:01:40",

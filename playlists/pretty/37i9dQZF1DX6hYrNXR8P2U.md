@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6hYrNXR8P2U.md) - [plain]
 
 > Fiah en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 347,432 likes - 116 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 347,398 likes - 116 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6hYrNXR8P2U.md) - [plain]
 | 115 | [El futuro del amor](https://open.spotify.com/track/2GD1YAHjcRr1PpIZWIySjk) | [Julieta Laso](https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk) | [Fabriquera](https://open.spotify.com/album/4gWTJ57SuXHbnEOC5ftAJk) | 1:30 |
 | 116 | [La Finitud de las Cosas](https://open.spotify.com/track/2DgW0xLlRqhuwW81GYGGPY) | [Tati Falco](https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6) | [La Lista](https://open.spotify.com/album/7i18zxTnzHqmGjs7P0edKQ) | 2:49 |
 
-Snapshot ID: `AAAAAKM02VUOlfQTxXlUPV0UijkBIJ2M`
+Snapshot ID: `AAAAAHOY66rUD0QcxpLG+uzIrqcCnR6S`

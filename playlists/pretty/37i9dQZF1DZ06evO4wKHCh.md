@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wKHCh.md) - [plain]
 
 > This is Emei\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,637 likes - 39 songs - 1 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,643 likes - 39 songs - 1 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wKHCh.md) - [plain]
 | 12 | [Backtrack](https://open.spotify.com/track/6XFtHhrlPKL4qEVDVMOcd6) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Backtrack](https://open.spotify.com/album/0X3WVWpooMcgdYUCGQDzJy) | 2:38 |
 | 13 | [Cynical](https://open.spotify.com/track/0HoXKvtfGFB2CCQvOfNjcd) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Scatterbrain](https://open.spotify.com/album/7nMsq0A9k3KjCNBPu2RN3v) | 2:14 |
 | 14 | [Ferris Bueller](https://open.spotify.com/track/14YzvOvrATzkS7f5sJOw2k) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [End of an Era](https://open.spotify.com/album/4I0vC4wtvUmowO4rMM3eOV) | 1:57 |
-| 15 | [What's the Point!](https://open.spotify.com/track/5yYGr8R31sQLOMVIgNCnrN) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [What's the Point!](https://open.spotify.com/album/0QFm3m1Wa8IMkUe1s8YLeS) | 2:43 |
-| 16 | [Crazy Stupid Love](https://open.spotify.com/track/5ChgblPPPwyuGhga3msdns) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Crazy Stupid Love](https://open.spotify.com/album/0058kPDT6f9sJzVj6m7MhY) | 2:36 |
+| 15 | [Crazy Stupid Love](https://open.spotify.com/track/5ChgblPPPwyuGhga3msdns) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Crazy Stupid Love](https://open.spotify.com/album/0058kPDT6f9sJzVj6m7MhY) | 2:36 |
+| 16 | [What's the Point!](https://open.spotify.com/track/5yYGr8R31sQLOMVIgNCnrN) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [What's the Point!](https://open.spotify.com/album/0QFm3m1Wa8IMkUe1s8YLeS) | 2:43 |
 | 17 | [Noah](https://open.spotify.com/track/1Ez185Inp2jiQWtcvtAQXl) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Night at the Opera](https://open.spotify.com/album/30XL7bANBr0cBA9nVCq8CN) | 2:39 |
 | 18 | [RABBITHOLE](https://open.spotify.com/track/5NVnK2Ct25u1enmwdWAdkR) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [RABBITHOLE](https://open.spotify.com/album/0OptWsRKyw5TsNeiEshGfr) | 2:21 |
 | 19 | [711](https://open.spotify.com/track/0DRJILxCmuHsrJpYYqXMed) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Scatterbrain](https://open.spotify.com/album/7nMsq0A9k3KjCNBPu2RN3v) | 2:29 |
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wKHCh.md) - [plain]
 | 38 | [Simple Request](https://open.spotify.com/track/2qMXHqR78AghFekIyXExCC) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Night at the Opera](https://open.spotify.com/album/30XL7bANBr0cBA9nVCq8CN) | 3:49 |
 | 39 | [SUNNYD](https://open.spotify.com/track/4vnauoJf6OYYU73jPUJbZa) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU), [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP) | [SUNNYD](https://open.spotify.com/album/1D8kmnJy5pX2oxTsydOEYZ) | 2:06 |
 
-Snapshot ID: `avOwAAAAAAA6ys1Xl/2TEbxhhih2sM1X`
+Snapshot ID: `avUBgAAAAAAzDAZzx5kT7IgBDWonOB5T`

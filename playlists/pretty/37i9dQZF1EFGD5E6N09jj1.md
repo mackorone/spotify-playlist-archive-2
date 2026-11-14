@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGD5E6N09jj1.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2YMfVMHfyhZ8nNwKmfbrZi">Charli XCX</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,021 likes - 229 songs - 12 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,022 likes - 229 songs - 12 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -223,8 +223,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGD5E6N09jj1.md) - [plain]
 | 213 | [Live Forever](https://open.spotify.com/track/5Y2P2hnVzU0qIOD3xcv1Ve) | [Nasty Cherry](https://open.spotify.com/artist/3a4OHGZwsqHc3eRChiDkS9) | [Live Forever](https://open.spotify.com/album/6eRl6WSUNdl2bM5ywn1FGV) | 2:46 |
 | 214 | [My Sex](https://open.spotify.com/track/6owoifqMA61WEpm6i2IivB) | [Brooke Candy](https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m), [Pussy Riot](https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9), [MNDR](https://open.spotify.com/artist/7gQNLR8mykA1KjGClbPYHe), [Mykki Blanco](https://open.spotify.com/artist/2tSv9mEQSuNVMGr9qjYfkr) | [My Sex](https://open.spotify.com/album/2boD2HxLljj0KtuTB23OFb) | 4:21 |
 | 215 | [Kingdom](https://open.spotify.com/track/1FXhEOBuZJKBuudphlExeE) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Simon Le Bon](https://open.spotify.com/artist/4GNaWOK6CLMQOVajyjTJfj) | [Die Tribute von Panem \- Mockingjay Teil 1](https://open.spotify.com/album/5LMEQlR7haOHh8qGAzzPbO) | 4:05 |
-| 216 | [Pillow Fight](https://open.spotify.com/track/13wsMvFl0r263J1EGq0JuT) | [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL) | [The End of an Era](https://open.spotify.com/album/7lpONbbHTKDFk5nDpOgdFD) | 2:47 |
-| 217 | [Heavy](https://open.spotify.com/track/1x6irsZMkJAQBYSUJYG74G) | [Thy Slaughter](https://open.spotify.com/artist/4tXmMY3u0qbzec7aocHPPt), [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8), [Finn Keane](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW) | [Soft Rock](https://open.spotify.com/album/5lgqJ8vLfDGbL1AFHgj2o1) | 3:21 |
+| 216 | [Heavy](https://open.spotify.com/track/1x6irsZMkJAQBYSUJYG74G) | [Thy Slaughter](https://open.spotify.com/artist/4tXmMY3u0qbzec7aocHPPt), [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8), [Finn Keane](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW) | [Soft Rock](https://open.spotify.com/album/5lgqJ8vLfDGbL1AFHgj2o1) | 3:21 |
+| 217 | [Pillow Fight](https://open.spotify.com/track/13wsMvFl0r263J1EGq0JuT) | [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL) | [The End of an Era](https://open.spotify.com/album/7lpONbbHTKDFk5nDpOgdFD) | 2:47 |
 | 218 | [Joan of Arc](https://open.spotify.com/track/0WV4nwEWOsQy0vkyK9uGxq) | [Ricky Reed](https://open.spotify.com/artist/5Q7Fmn2aPAdijQIUzobRdZ) | [Joan of Arc](https://open.spotify.com/album/1UKS69HsGgT0ELOTdqrLWm) | 3:55 |
 | 219 | [Gravity](https://open.spotify.com/track/2KlqtN25qB3zXsSEclZgo0) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Pollinator](https://open.spotify.com/album/4i4apRNcRz0LhEQy4lbA3U) | 3:47 |
 | 220 | [Deadstream \- Rostam Version](https://open.spotify.com/track/7ntAb3KnQscHU3beKUI012) | [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh), [Rostam](https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Deadstream \(Rostam Version\)](https://open.spotify.com/album/1uRWSPrJvL0tS1BBuuFnvK) | 3:16 |
@@ -238,4 +238,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGD5E6N09jj1.md) - [plain]
 | 228 | [Friss meine Shorts](https://open.spotify.com/track/52sdkW14TkAL1lURxnPsgW) | [Bart](https://open.spotify.com/artist/27T8KFq2GCENrgbvjioqIb) | [The Voices of Springfield](https://open.spotify.com/album/2geQRLxx4XzNZHwGYVHVVl) | 2:40 |
 | 229 | [playboy bunny](https://open.spotify.com/track/4pz15cPJROGYmCP5HEydWT) | [xcx99](https://open.spotify.com/artist/1uHE1EMxtLxUDy8AYvKmEK) | [playboy bunny](https://open.spotify.com/album/0ZzzD4O5K8C9uFZjScR3yB) | 1:55 |
 
-Snapshot ID: `AchgdgAAAAAxAEjfNwJp28HTkq2AbsYL`
+Snapshot ID: `AchmFgAAAACD9eQhL9Lt5y3X3JdZqbRE`

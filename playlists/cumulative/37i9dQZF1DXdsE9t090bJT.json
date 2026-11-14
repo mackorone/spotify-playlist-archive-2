@@ -2617,6 +2617,24 @@
     },
     {
       "album": {
+        "name": "FRANCIA",
+        "url": "https://open.spotify.com/album/0tm1saZfhOkgkyNXJoGpTg"
+      },
+      "artists": [
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206817,
+      "name": "FRANCIA",
+      "url": "https://open.spotify.com/track/0oPun2a1Vi1QWJRiQC6Ass"
+    },
+    {
+      "album": {
         "name": "Fuiste T\u00fa",
         "url": "https://open.spotify.com/album/10m6cz7u4TNWrUg94Du4q5"
       },
@@ -4132,10 +4150,28 @@
       ],
       "date_added": "2026-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 192319,
       "name": "mirame",
       "url": "https://open.spotify.com/track/1XbVdkIAQ8zE4OFDtShn1Q"
+    },
+    {
+      "album": {
+        "name": "Mirar La Luna",
+        "url": "https://open.spotify.com/album/5LyIL8ZVFNfJMReUfVgCNS"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186744,
+      "name": "Mirar La Luna",
+      "url": "https://open.spotify.com/track/09fQPypTWpF3lsNj6zp74o"
     },
     {
       "album": {
@@ -5461,6 +5497,24 @@
     },
     {
       "album": {
+        "name": "Por antig\u00fcedad",
+        "url": "https://open.spotify.com/album/4oWGlvnBUJ0SDlmMC2t5tn"
+      },
+      "artists": [
+        {
+          "name": "Angel Trino",
+          "url": "https://open.spotify.com/artist/6G9e3oARcq4ThyH91ye38W"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149971,
+      "name": "Por antig\u00fcedad",
+      "url": "https://open.spotify.com/track/29R9iMsijuHJMhrwyS42Ho"
+    },
+    {
+      "album": {
         "name": "Por Esos Ojitos",
         "url": "https://open.spotify.com/album/4v0vLoOguAsrh6Sq5Q6a32"
       },
@@ -5736,7 +5790,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 254973,
       "name": "Que Nadie Sepa Mi Sufrir",
       "url": "https://open.spotify.com/track/1eAgunk8m2L5OCujomTDfj"
@@ -5766,6 +5820,28 @@
       "duration_ms": 191466,
       "name": "Que Onda",
       "url": "https://open.spotify.com/track/6uIIdjYTxxpWOyWuVXrKQO"
+    },
+    {
+      "album": {
+        "name": "Que Se Siente",
+        "url": "https://open.spotify.com/album/45XvFLRB93yz21YcXAB29L"
+      },
+      "artists": [
+        {
+          "name": "Eley Romero",
+          "url": "https://open.spotify.com/artist/59LngyBMq7f3sseWJKSLdl"
+        },
+        {
+          "name": "Adrian L Santos",
+          "url": "https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138512,
+      "name": "Que Se Siente",
+      "url": "https://open.spotify.com/track/2vTorS5pBxHr4LNrbbJk8K"
     },
     {
       "album": {
@@ -6404,7 +6480,7 @@
       ],
       "date_added": "2026-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 168981,
       "name": "TAKIKARDIAS",
       "url": "https://open.spotify.com/track/39f0BY8JsMSWrVsJZdS8eR"
@@ -6752,7 +6828,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 172166,
       "name": "Todo El A\u00f1o",
       "url": "https://open.spotify.com/track/1GytzpMnPGFXdZgUL1XAEq"

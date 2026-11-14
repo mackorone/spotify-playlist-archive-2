@@ -4,7 +4,7 @@
 
 > All your favourite holiday jazz classics for your christmas dinner party.
 
-242 songs - 12 hr 52 min
+243 songs - 12 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,12 +243,13 @@
 | [White Christmas](https://open.spotify.com/track/23h0hc48PBgpbfkDVuxzzx) | [James Bradshaw](https://open.spotify.com/artist/7sk728qlOvcqjDkAe7oEum) | [White Christmas](https://open.spotify.com/album/10Yrm96ndp0CpVEd1m4wuI) | 2:47 | 2025-10-17 |  |
 | [White Christmas](https://open.spotify.com/track/6uVCqvznAx7pOYHTNlxulb) | [Lyla Lee Band](https://open.spotify.com/artist/44QGQt033sUjbeecDPn791) | [Winter Wonderland](https://open.spotify.com/album/74pI1XqEAgFfo1T2UGDEZs) | 2:33 | 2022-11-17 | 2025-09-05 |
 | [Winter Blessings](https://open.spotify.com/track/06jYhkarVbcRsKcQaTZXJz) | [The Three Queens](https://open.spotify.com/artist/0Rk4ZISv9eXs3Thg7rco7h) | [Winter Blessings](https://open.spotify.com/album/32JOvhQnz5jSywHgKYgRGb) | 4:10 | 2023-11-17 |  |
+| [Winter Romance](https://open.spotify.com/track/2ZZ4sobk5gWWHJgAMIXt7A) | [Stella Cole](https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR) | [Winter Romance](https://open.spotify.com/album/1szFel7JNQRqtY3oFeTltQ) | 2:30 | 2026-11-13 |  |
 | [Winter Serenade](https://open.spotify.com/track/0RjianjAK0XaKKeKzFKDIJ) | [Andy Goodman](https://open.spotify.com/artist/2zsZdG7rQdh5YDhxCSeVJi) | [Winter Serenade](https://open.spotify.com/album/6xvffKzCHUeklqySxTdK7V) | 3:07 | 2023-11-17 |  |
 | [Winter Wonderland](https://open.spotify.com/track/7cbaFyvM1Cbl8xr4YT0qWw) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL), [Clayton\-Hamilton Jazz Orchestra](https://open.spotify.com/artist/3BDNDjVtAxrIqFDIO5cUgy) | [Christmas Songs](https://open.spotify.com/album/3ZHBI81GwgJyEfkbj3ueAr) | 3:13 | 2021-12-21 |  |
 | [Winter Wonderland](https://open.spotify.com/track/6fdJPqS50ZnxNnGk7O4wee) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL), [Clayton\-Hamilton Jazz Orchestra](https://open.spotify.com/artist/3BDNDjVtAxrIqFDIO5cUgy) | [Christmas Songs](https://open.spotify.com/album/6jo4NImjVrEduySw2QJ2cO) | 3:14 | 2022-01-03 | 2024-04-19 |
 | [With or Without Snow](https://open.spotify.com/track/5VWS9ZodFhonOzebqUsmlR) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa), [Mark Limacher](https://open.spotify.com/artist/2FyolspKay4voViiywFNFs) | [With or Without Snow](https://open.spotify.com/album/3RdAu5tVKAVZjPylF6CRUv) | 2:58 | 2026-11-06 |  |
 | [You Don't Have To Be A Santa Claus \(When Christmas Comes Around\)](https://open.spotify.com/track/4lsCXRfZRJYuD9zCHZhFav) | [The Mills Brothers](https://open.spotify.com/artist/5v8bwWRbu7AI3YFhzoM6Ha) | [Merry Christmas](https://open.spotify.com/album/4v2byuh7XMZGBrYjH3XnBx) | 2:46 | 2022-01-03 | 2024-04-19 |
-| [You Don't Have To Be A Santa Claus \(When Christmas Comes Around\)](https://open.spotify.com/track/2ruEhydzvd72btuYoXX1oV) | [The Mills Brothers](https://open.spotify.com/artist/5v8bwWRbu7AI3YFhzoM6Ha) | [Christmas With Ella & Friends](https://open.spotify.com/album/0wEWuRUrwhSlDyqUZGgHqI) | 2:48 | 2021-12-21 |  |
+| [You Don't Have To Be A Santa Claus \(When Christmas Comes Around\)](https://open.spotify.com/track/2ruEhydzvd72btuYoXX1oV) | [The Mills Brothers](https://open.spotify.com/artist/5v8bwWRbu7AI3YFhzoM6Ha) | [Christmas With Ella & Friends](https://open.spotify.com/album/0wEWuRUrwhSlDyqUZGgHqI) | 2:48 | 2021-12-21 | 2026-11-14 |
 | [You're All I Want For Christmas](https://open.spotify.com/track/3TKli016N6D1XnU0Jz8xVx) | [Smoke & Mirrors Trio](https://open.spotify.com/artist/2l8hGNs8QG9fAf8baaZPhV) | [Happy Christmas, Little Friend](https://open.spotify.com/album/66xxXSW7xjV4bLQwj3FXtF) | 5:20 | 2022-11-17 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

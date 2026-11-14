@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-19",
-  "description": "Naye Indie gaano ka khazana, featuring NAALAYAK, Mary Ann Alexander, Mali and other exciting artists.\n",
+  "description": "Naye Indie gaano ka khazana, featuring Bombay the Artist, Accha Insaan, Sarodi and other exciting artists.\n",
   "name": "Naya Indiestan",
   "tracks": [
     {
@@ -1526,7 +1526,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-09",
+      "date_removed": null,
       "duration_ms": 190866,
       "name": "Ab Toh Tu",
       "url": "https://open.spotify.com/track/4UgZwamyyUCv5Gzl4xliSf"
@@ -3104,7 +3104,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 200000,
       "name": "Back 2 U",
       "url": "https://open.spotify.com/track/6sEVxXlAcot28Q8JZRqLv4"
@@ -3820,7 +3820,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 158033,
       "name": "Barkha Pukaare",
       "url": "https://open.spotify.com/track/5GTP6COs9ljeMnzpB7BCia"
@@ -6121,6 +6121,28 @@
     },
     {
       "album": {
+        "name": "chehra tera",
+        "url": "https://open.spotify.com/album/6fA0gkOGIAroos7FnY2GsX"
+      },
+      "artists": [
+        {
+          "name": "Accha Insaan",
+          "url": "https://open.spotify.com/artist/5kTO2lNG7ub2Bed7CF8zpH"
+        },
+        {
+          "name": "sarodi",
+          "url": "https://open.spotify.com/artist/45HAYOjbKINWz84gKmptHb"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197119,
+      "name": "chehra tera",
+      "url": "https://open.spotify.com/track/3bgQz4ZRYjjzdvdxaIoLQj"
+    },
+    {
+      "album": {
         "name": "Ibtida",
         "url": "https://open.spotify.com/album/2SjIj866OuIv8qB0fPXGYW"
       },
@@ -7724,7 +7746,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 252792,
       "name": "Dil Ki Aawaaz",
       "url": "https://open.spotify.com/track/5VwkrvpiS1NlffoQ3PtPo4"
@@ -11455,6 +11477,28 @@
     },
     {
       "album": {
+        "name": "Hold",
+        "url": "https://open.spotify.com/album/2s3o6dj34n6LVQjhrRzMvI"
+      },
+      "artists": [
+        {
+          "name": "Dhruv Visvanath",
+          "url": "https://open.spotify.com/artist/5npIe0yBbHoAwQ5XYVVEwn"
+        },
+        {
+          "name": "Shalmali Kholgade",
+          "url": "https://open.spotify.com/artist/6uskWv5K2FA0YOAYr7JOUz"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184352,
+      "name": "Hold",
+      "url": "https://open.spotify.com/track/3a0Avt7EwY6gPXz7Ag4qvf"
+    },
+    {
+      "album": {
         "name": "Hold Me",
         "url": "https://open.spotify.com/album/0Eg6kYUGniNTOb59oTofPO"
       },
@@ -13482,7 +13526,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 140869,
       "name": "Jab Se Tu",
       "url": "https://open.spotify.com/track/3yOmEnXO8Orz2DrHe729v3"
@@ -13748,6 +13792,24 @@
       "duration_ms": 213724,
       "name": "Jee Le",
       "url": "https://open.spotify.com/track/1lnqjp37JJOHsrjCCJ3UJy"
+    },
+    {
+      "album": {
+        "name": "Jee Lein De",
+        "url": "https://open.spotify.com/album/1x76EgIah8k3qW5TNV5ycP"
+      },
+      "artists": [
+        {
+          "name": "Bombay the Artist",
+          "url": "https://open.spotify.com/artist/2Qa5HYyDrPrArARMDJfDbJ"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158720,
+      "name": "Jee Lein De",
+      "url": "https://open.spotify.com/track/15h8Lx54z7WBut3eqDQZkS"
     },
     {
       "album": {
@@ -22401,6 +22463,28 @@
     },
     {
       "album": {
+        "name": "Naina Saavan - Reprise",
+        "url": "https://open.spotify.com/album/7dDWVIsPi87MBQ8IJtXQIk"
+      },
+      "artists": [
+        {
+          "name": "KhoslaRaghu",
+          "url": "https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS"
+        },
+        {
+          "name": "Kavita Seth",
+          "url": "https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262500,
+      "name": "Naina Saavan - Reprise",
+      "url": "https://open.spotify.com/track/60E6ahAL4ANvC4lvbOjUFP"
+    },
+    {
+      "album": {
         "name": "Naina...",
         "url": "https://open.spotify.com/album/3ZpYlxFROd2zUtWunLwu1J"
       },
@@ -24332,7 +24416,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 198837,
       "name": "Piya Bina",
       "url": "https://open.spotify.com/track/5ZzyOL637Vkvp2K6nIjYrp"
@@ -24996,7 +25080,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 182160,
       "name": "Raahi",
       "url": "https://open.spotify.com/track/3vj7bcTWMJavAdvgZ2Od0I"
@@ -27694,7 +27778,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-08",
+      "date_removed": null,
       "duration_ms": 198000,
       "name": "Sansein Kaha",
       "url": "https://open.spotify.com/track/04O5wfhFGsbYhywJN1TS2r"

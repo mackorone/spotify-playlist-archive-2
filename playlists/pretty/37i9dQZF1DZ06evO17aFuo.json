@@ -1,12 +1,12 @@
 {
   "description": "This is Megadeth. The essential tracks, all in one playlist.",
-  "num_followers": 325264,
+  "num_followers": 325292,
   "original_name": "This Is Megadeth",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avOwAAAAAAAmokYwDa//A3ogtqrtyjBB",
+  "snapshot_id": "avUBgAAAAACwp3AOLjnnC3X1tdyWcKqP",
   "tracks": [
     {
       "added_at": null,
@@ -651,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cryptic Writings (Expanded Edition - Remastered)",
-        "url": "https://open.spotify.com/album/208z3e7R5PgavBMdEZQcvL"
+        "name": "Peace Sells...But Who's Buying? (Expanded Edition - Remastered)",
+        "url": "https://open.spotify.com/album/4U8ZF5zDIRy4lBnnXBN2uO"
       },
       "artists": [
         {
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
         }
       ],
-      "duration_ms": 248560,
-      "name": "Almost Honest - Remastered 2004 / Remixed",
-      "url": "https://open.spotify.com/track/2uw3kbepHeeeLTykdUeOtI"
+      "duration_ms": 302333,
+      "name": "The Conjuring - Remastered",
+      "url": "https://open.spotify.com/track/0pv49erP5wxMZMnprRCqXT"
     },
     {
       "added_at": null,
@@ -683,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peace Sells...But Who's Buying? (Expanded Edition - Remastered)",
-        "url": "https://open.spotify.com/album/4U8ZF5zDIRy4lBnnXBN2uO"
+        "name": "Cryptic Writings (Expanded Edition - Remastered)",
+        "url": "https://open.spotify.com/album/208z3e7R5PgavBMdEZQcvL"
       },
       "artists": [
         {
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
         }
       ],
-      "duration_ms": 302333,
-      "name": "The Conjuring - Remastered",
-      "url": "https://open.spotify.com/track/0pv49erP5wxMZMnprRCqXT"
+      "duration_ms": 248560,
+      "name": "Almost Honest - Remastered 2004 / Remixed",
+      "url": "https://open.spotify.com/track/2uw3kbepHeeeLTykdUeOtI"
     },
     {
       "added_at": null,
@@ -715,8 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dystopia",
-        "url": "https://open.spotify.com/album/4sP7CAPrmdBD1ojBBrPxiV"
+        "name": "Peace Sells...But Who's Buying? (Expanded Edition - Remastered)",
+        "url": "https://open.spotify.com/album/4U8ZF5zDIRy4lBnnXBN2uO"
       },
       "artists": [
         {
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
         }
       ],
-      "duration_ms": 262026,
-      "name": "The Threat Is Real",
-      "url": "https://open.spotify.com/track/5qrlMOwqunICbaOZaKAoBN"
+      "duration_ms": 305200,
+      "name": "Devils Island - 2004 Remaster",
+      "url": "https://open.spotify.com/track/009aJqwtazpcpmOW3YbwDx"
     },
     {
       "added_at": null,
@@ -747,8 +747,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peace Sells...But Who's Buying? (Expanded Edition - Remastered)",
-        "url": "https://open.spotify.com/album/4U8ZF5zDIRy4lBnnXBN2uO"
+        "name": "Dystopia",
+        "url": "https://open.spotify.com/album/4sP7CAPrmdBD1ojBBrPxiV"
       },
       "artists": [
         {
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
         }
       ],
-      "duration_ms": 305200,
-      "name": "Devils Island - 2004 Remaster",
-      "url": "https://open.spotify.com/track/009aJqwtazpcpmOW3YbwDx"
+      "duration_ms": 262026,
+      "name": "The Threat Is Real",
+      "url": "https://open.spotify.com/track/5qrlMOwqunICbaOZaKAoBN"
     },
     {
       "added_at": null,
@@ -779,6 +779,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Peace Sells...But Who's Buying? (Expanded Edition - Remastered)",
+        "url": "https://open.spotify.com/album/4U8ZF5zDIRy4lBnnXBN2uO"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 295333,
+      "name": "My Last Words - Remastered",
+      "url": "https://open.spotify.com/track/6VdoivAOy8oRR6Pmpw4Ux4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "So Far, So Good...So What! (Expanded Edition - Remastered)",
         "url": "https://open.spotify.com/album/5f4vbRLrRmoDH0zpdQnyrE"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 288933,
       "name": "Hook In Mouth - Remastered",
       "url": "https://open.spotify.com/track/3DCrXcdOW9iWUPtcEFH2er"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Killing Is My Business...And Business Is Good!",
-        "url": "https://open.spotify.com/album/0TFQuO4m3XR5pTJCFS88Qk"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 223040,
-      "name": "Rattlehead",
-      "url": "https://open.spotify.com/track/0a87tfuBhOFmYMgPjyR53R"
     }
   ],
   "unique_name": "This Is Megadeth",

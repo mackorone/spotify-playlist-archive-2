@@ -515,6 +515,24 @@
     },
     {
       "album": {
+        "name": "Aldrig Igen",
+        "url": "https://open.spotify.com/album/44y6ANts5tOrHbMfLRPMZD"
+      },
+      "artists": [
+        {
+          "name": "Christopher",
+          "url": "https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184906,
+      "name": "Aldrig Igen",
+      "url": "https://open.spotify.com/track/5Z5PgRZIUu8NjovVUODxEI"
+    },
+    {
+      "album": {
         "name": "Alene Og In Love",
         "url": "https://open.spotify.com/album/7EPoKpsSdGQrw1kEQaM99m"
       },
@@ -4478,6 +4496,24 @@
       "duration_ms": 169846,
       "name": "Du Ved Det (feat. Gunge)",
       "url": "https://open.spotify.com/track/7cxaUKtOG7xYvSTskhEgwm"
+    },
+    {
+      "album": {
+        "name": "Du Ved Jeg Forst\u00e5r Det",
+        "url": "https://open.spotify.com/album/22oRvJRejjw4VH8mqOncWB"
+      },
+      "artists": [
+        {
+          "name": "Albert",
+          "url": "https://open.spotify.com/artist/3Sog3Abr94ggodkNxdvKRD"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152273,
+      "name": "Du Ved Jeg Forst\u00e5r Det",
+      "url": "https://open.spotify.com/track/3Vp9YoclG72m2wq9zIj4lo"
     },
     {
       "album": {

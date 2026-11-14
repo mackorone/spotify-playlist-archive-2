@@ -4,7 +4,7 @@
 
 > crisp air & fall foliage 🍂
 
-138 songs - 8 hr 39 min
+140 songs - 8 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Hold](https://open.spotify.com/track/0sLgdA4a3ReEK5xoBJAndM) | [Ali Angel](https://open.spotify.com/artist/0RPW9rpDMyVD4wEMzvd1RG), [Tyler Ballgame](https://open.spotify.com/artist/1pQ0Axx7UF8LDDOqSgdVmK) | [Hold](https://open.spotify.com/album/6TvnRqPEqYn938EHeBWvyh) | 4:21 | 2025-06-27 |  |
 | [Hold On](https://open.spotify.com/track/2SdpxZ4gq0vst59dkjwml6) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Hold On](https://open.spotify.com/album/0LLTYOCYG7GVrGQIrsaf1v) | 3:17 | 2025-06-27 |  |
 | [Home](https://open.spotify.com/track/6e1LCVpjkOXQ65iZ7RRRyC) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Home](https://open.spotify.com/album/5mPkilFOM7WabqNcBkN8ZI) | 2:11 | 2025-06-27 | 2026-06-06 |
+| [Honeymoon](https://open.spotify.com/track/160wVfS6OgXxhyPkDYOhLi) | [54 Ultra](https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ) | [Honeymoon](https://open.spotify.com/album/5HZocqevwnLexkjpNCmG1l) | 3:08 | 2026-11-13 |  |
 | [Human](https://open.spotify.com/track/4uBiUTHSuuRT4CtEoZHz2f) | [Molly Sarlé](https://open.spotify.com/artist/4XLoKwIIoARkhaKuZocq5d) | [Human](https://open.spotify.com/album/1CG4EjCxgzgQgadPN0piBA) | 3:54 | 2025-06-27 |  |
 | [I Can See](https://open.spotify.com/track/1adWjZU3hbIjzG1Ir58LuX) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [I Can See](https://open.spotify.com/album/1rMOXraKzL6qY0Ig1KOMvX) | 5:44 | 2026-10-19 |  |
 | [I Keep Changing](https://open.spotify.com/track/01nbZnTz6leaP0wPFTxWsn) | [h\. pruz](https://open.spotify.com/artist/3WWEKLW1zn4gtBSljQ8HQN) | [No Glory](https://open.spotify.com/album/78RUUDGvddkndnrYevXAAo) | 2:57 | 2025-06-27 |  |
@@ -127,6 +128,7 @@
 | [These Are The Good Old Days](https://open.spotify.com/track/35YtSEn3vCIf17wDXNaFp6) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [Loose Future](https://open.spotify.com/album/7CungZ9S54si6eKBOqhnF6) | 2:35 | 2025-06-27 |  |
 | [Think I Pass](https://open.spotify.com/track/4AF7eHPmlwYK7KrEZ8hsJg) | [BRONCHO](https://open.spotify.com/artist/6Lll1MPPak4m4vZKuJB264) | [Natural Pleasure](https://open.spotify.com/album/5tJQnCPddwUupM2qXrpVUK) | 3:12 | 2025-07-18 |  |
 | [Thinking About You](https://open.spotify.com/track/7aX39T4YHNZ03NAmjc3DLr) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Underdressed at the Symphony](https://open.spotify.com/album/0FDkRPm9cIRJ8qBkxj2Qny) | 6:36 | 2025-06-27 |  |
+| [Tillamook](https://open.spotify.com/track/0UzMjaqRdm5SSEtPkH6dPz) | [Orca](https://open.spotify.com/artist/3c2nSvBJwDuvmxFBKlc854) | [Shed](https://open.spotify.com/album/2MQUjLFOoYPxfcggOQPSFG) | 2:46 | 2026-11-13 |  |
 | [Time](https://open.spotify.com/track/0FjTazWaBSHBVWm2PAGghQ) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Tomb](https://open.spotify.com/album/4bUHu3F1zbCbKKcwvCmAXj) | 3:56 | 2025-06-27 | 2025-07-01 |
 | [Trampoline](https://open.spotify.com/track/1xMOdQOD7bDhkRHG04FHDX) | [Ruby Roberts](https://open.spotify.com/artist/1NBOzhyeQS5kLMtiQiZkFD) | [Trampoline](https://open.spotify.com/album/3zydVUwHpv30kPKdJd4SfK) | 4:34 | 2025-06-27 | 2026-09-19 |
 | [Tree Among Shrubs](https://open.spotify.com/track/2JKtCvtxP47fOMYi0BjMoY) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Untourable Album](https://open.spotify.com/album/1vYB8mYSGiKxE5C2RGjfDP) | 3:08 | 2025-06-27 | 2026-09-19 |

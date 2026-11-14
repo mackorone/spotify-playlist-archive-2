@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2RgxsA.md) - [plain]
 
 > This is NOFX\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,139 likes - 48 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,145 likes - 48 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2RgxsA.md) - [plain]
 | 43 | [First Call](https://open.spotify.com/track/35bdtaqZPi3GayLcpZ5498) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Coaster](https://open.spotify.com/album/7deus9DeM8knVT2IrUdUcg) | 2:33 |
 | 44 | [Mattersville](https://open.spotify.com/track/2NnnVb5986T5L0qyLdMqmT) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [The War on Errorism](https://open.spotify.com/album/37cQZsmKwCUyTozX2HHgnQ) | 2:28 |
 | 45 | [What Are We Doing This For \(feat\. Codefendants\)](https://open.spotify.com/track/3gqq3eT4HQX7nIxCf2qFTa) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ), [Codefendants](https://open.spotify.com/artist/6HBfXt98QpP7QVDPLHjHTe) | [What Are We Doing This For \(feat\. Codefendants\)](https://open.spotify.com/album/2p1N83Rk1luMeQ2Ml99u6y) | 1:40 |
-| 46 | [40 Years Of Fuckin' Up](https://open.spotify.com/track/43WOMPYWDy6QLy2gQMzZC7) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [40 Years Of Fuckin' Up: Soundtrack + Score](https://open.spotify.com/album/5hM0luqn90CkruMS90At60) | 3:35 |
-| 47 | [Thank God It's Monday](https://open.spotify.com/track/1eX2rmSdoUWX2XcvHKHHpu) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Pump Up The Valuum](https://open.spotify.com/album/37hvw6OVfRLktCmFcU9zHE) | 1:39 |
+| 46 | [Thank God It's Monday](https://open.spotify.com/track/1eX2rmSdoUWX2XcvHKHHpu) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Pump Up The Valuum](https://open.spotify.com/album/37hvw6OVfRLktCmFcU9zHE) | 1:39 |
+| 47 | [40 Years Of Fuckin' Up](https://open.spotify.com/track/43WOMPYWDy6QLy2gQMzZC7) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [40 Years Of Fuckin' Up: Soundtrack + Score](https://open.spotify.com/album/5hM0luqn90CkruMS90At60) | 3:35 |
 | 48 | [Minnesota Nazis](https://open.spotify.com/track/29wgPMWqXQcezTMVBVV21X) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Minnesota Nazis](https://open.spotify.com/album/5zqJjEsvOX077dfZnfG2cy) | 3:39 |
 
-Snapshot ID: `avOwAAAAAADB5hWu3b1OS5BtjOzPVg5c`
+Snapshot ID: `avUBgAAAAADoSccEkVT6qU+7U7nVdO/u`

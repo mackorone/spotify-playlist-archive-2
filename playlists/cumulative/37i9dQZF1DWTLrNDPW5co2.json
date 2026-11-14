@@ -4354,7 +4354,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 228175,
       "name": "I Drove All Night",
       "url": "https://open.spotify.com/track/2shk0j6nfPz3V4PDswXNNe"
@@ -7654,6 +7654,28 @@
       "duration_ms": 182666,
       "name": "Rave Generator (feat. DJ Flapjack)",
       "url": "https://open.spotify.com/track/2wohA4HoBQCpmRSXNIrLbr"
+    },
+    {
+      "album": {
+        "name": "Mass Appeal",
+        "url": "https://open.spotify.com/album/5WoaWKOtFW1N4tPIi1JIvO"
+      },
+      "artists": [
+        {
+          "name": "UNIIQU3",
+          "url": "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx"
+        },
+        {
+          "name": "Samurai Breaks",
+          "url": "https://open.spotify.com/artist/5X8xxAPGx1ouTGDlgE5ray"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211701,
+      "name": "Raving All Night Long",
+      "url": "https://open.spotify.com/track/5Lc3NzSdfZr6MwCoHHUGIl"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Toro. The essential tracks, all in one playlist.",
-  "num_followers": 6688,
+  "num_followers": 6689,
   "original_name": "This Is Banda Toro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avOwAAAAAABqQaJ0tij8O8rHXHKc31M+",
+  "snapshot_id": "avUBgAAAAACGBza61f+1W1prysbIkWOb",
   "tracks": [
     {
       "added_at": null,
@@ -155,22 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mano a Mano y Quebrando",
-        "url": "https://open.spotify.com/album/4MjTnuBtgySGCo530kj4QH"
-      },
-      "artists": [
-        {
-          "name": "Banda Toro",
-          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
-        }
-      ],
-      "duration_ms": 221733,
-      "name": "El Meneito",
-      "url": "https://open.spotify.com/track/2pDqG6OH20cX1vUmNINqvy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tamborazos Zacatecanos , Vol. 1",
         "url": "https://open.spotify.com/album/307mS3CHQ0B8qfaagb63aX"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 150080,
       "name": "La Cama de Piedra",
       "url": "https://open.spotify.com/track/3sxQyZR9rVqOk8mDgUmgky"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mano a Mano y Quebrando",
+        "url": "https://open.spotify.com/album/4MjTnuBtgySGCo530kj4QH"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "duration_ms": 221733,
+      "name": "El Meneito",
+      "url": "https://open.spotify.com/track/2pDqG6OH20cX1vUmNINqvy"
     },
     {
       "added_at": null,
@@ -451,22 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con Mucho Ritmo",
-        "url": "https://open.spotify.com/album/3PdjnkfBMShSNnDqi23Xjp"
-      },
-      "artists": [
-        {
-          "name": "Banda Toro",
-          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
-        }
-      ],
-      "duration_ms": 184413,
-      "name": "Ritmo Que Jala",
-      "url": "https://open.spotify.com/track/6pSAatB6pkbqVqvfLkuQ8d"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Exitos de Rigo Tovar Con Banda",
         "url": "https://open.spotify.com/album/3quqBXdeUeP0pSQ5hz4Kra"
       },
@@ -487,8 +471,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ando Que Me Lleva \"Recordando los Exitos,\" Vol. 4",
-        "url": "https://open.spotify.com/album/5cWHhLz7o2mjajjJegxUWj"
+        "name": "Con Mucho Ritmo",
+        "url": "https://open.spotify.com/album/3PdjnkfBMShSNnDqi23Xjp"
       },
       "artists": [
         {
@@ -496,25 +480,9 @@
           "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
         }
       ],
-      "duration_ms": 200400,
-      "name": "Ando Que Me Lleva",
-      "url": "https://open.spotify.com/track/5mZguGqaMDXVUN27KuctSS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Hijo Desobediente \"Recordando los Exitos\", Vol. 2",
-        "url": "https://open.spotify.com/album/7I8olJc50BacLXAYIjSYIk"
-      },
-      "artists": [
-        {
-          "name": "Banda Toro",
-          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
-        }
-      ],
-      "duration_ms": 215093,
-      "name": "La Muerta",
-      "url": "https://open.spotify.com/track/1kH7t2zepTvq9zvOleNzlB"
+      "duration_ms": 184413,
+      "name": "Ritmo Que Jala",
+      "url": "https://open.spotify.com/track/6pSAatB6pkbqVqvfLkuQ8d"
     },
     {
       "added_at": null,
@@ -535,8 +503,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Primeras Canciones",
-        "url": "https://open.spotify.com/album/1O25aIOV3EXt2faP4ilwvs"
+        "name": "El Hijo Desobediente \"Recordando los Exitos\", Vol. 2",
+        "url": "https://open.spotify.com/album/7I8olJc50BacLXAYIjSYIk"
       },
       "artists": [
         {
@@ -544,9 +512,9 @@
           "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
         }
       ],
-      "duration_ms": 121400,
-      "name": "Libro Abierto - Con Mariachi",
-      "url": "https://open.spotify.com/track/0ITWZNW8i7RtOj5Wg7LMwP"
+      "duration_ms": 215093,
+      "name": "La Muerta",
+      "url": "https://open.spotify.com/track/1kH7t2zepTvq9zvOleNzlB"
     },
     {
       "added_at": null,
@@ -567,22 +535,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Exitos de Rigo Tovar Con Banda",
-        "url": "https://open.spotify.com/album/3quqBXdeUeP0pSQ5hz4Kra"
+        "name": "Ando Que Me Lleva \"Recordando los Exitos,\" Vol. 4",
+        "url": "https://open.spotify.com/album/5cWHhLz7o2mjajjJegxUWj"
       },
       "artists": [
         {
           "name": "Banda Toro",
           "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
-        },
-        {
-          "name": "Rigo Tovar",
-          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
         }
       ],
-      "duration_ms": 188426,
-      "name": "Lamento de Amor",
-      "url": "https://open.spotify.com/track/5ohsnDhQ6NmFmkcvv90Gdc"
+      "duration_ms": 200400,
+      "name": "Ando Que Me Lleva",
+      "url": "https://open.spotify.com/track/5mZguGqaMDXVUN27KuctSS"
     },
     {
       "added_at": null,
@@ -599,6 +563,42 @@
       "duration_ms": 147013,
       "name": "El Toro Zacatecano",
       "url": "https://open.spotify.com/track/59XFCPqQNINxQgpbEXPo5R"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mis Primeras Canciones",
+        "url": "https://open.spotify.com/album/1O25aIOV3EXt2faP4ilwvs"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "duration_ms": 121400,
+      "name": "Libro Abierto - Con Mariachi",
+      "url": "https://open.spotify.com/track/0ITWZNW8i7RtOj5Wg7LMwP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Exitos de Rigo Tovar Con Banda",
+        "url": "https://open.spotify.com/album/3quqBXdeUeP0pSQ5hz4Kra"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        },
+        {
+          "name": "Rigo Tovar",
+          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
+        }
+      ],
+      "duration_ms": 163000,
+      "name": "El Pajaro Chogui",
+      "url": "https://open.spotify.com/track/3erRFQimltb5P71eCYrlh6"
     },
     {
       "added_at": null,
@@ -635,6 +635,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Caminante Recordando los Exitos, Vol. 1",
+        "url": "https://open.spotify.com/album/29NdNvEG0HVFUIjrPieSFf"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "duration_ms": 151720,
+      "name": "Ya Llego la Banda Toro",
+      "url": "https://open.spotify.com/track/12xoofQV0GsQGBRo8dgr9f"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Exitos de Rigo Tovar Con Banda",
         "url": "https://open.spotify.com/album/3quqBXdeUeP0pSQ5hz4Kra"
       },
@@ -648,25 +664,9 @@
           "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
         }
       ],
-      "duration_ms": 163000,
-      "name": "El Pajaro Chogui",
-      "url": "https://open.spotify.com/track/3erRFQimltb5P71eCYrlh6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Caminante Recordando los Exitos, Vol. 1",
-        "url": "https://open.spotify.com/album/29NdNvEG0HVFUIjrPieSFf"
-      },
-      "artists": [
-        {
-          "name": "Banda Toro",
-          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
-        }
-      ],
-      "duration_ms": 151720,
-      "name": "Ya Llego la Banda Toro",
-      "url": "https://open.spotify.com/track/12xoofQV0GsQGBRo8dgr9f"
+      "duration_ms": 188426,
+      "name": "Lamento de Amor",
+      "url": "https://open.spotify.com/track/5ohsnDhQ6NmFmkcvv90Gdc"
     },
     {
       "added_at": null,
@@ -703,6 +703,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Caminante Recordando los Exitos, Vol. 1",
+        "url": "https://open.spotify.com/album/29NdNvEG0HVFUIjrPieSFf"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "duration_ms": 196653,
+      "name": "Ahora Puedo Mirar Claro",
+      "url": "https://open.spotify.com/track/5Kgo6IQPF6g3ioAiSQIvZq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Exitos de Rigo Tovar Con Banda",
         "url": "https://open.spotify.com/album/3quqBXdeUeP0pSQ5hz4Kra"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 155040,
       "name": "No Que No",
       "url": "https://open.spotify.com/track/0UEUwCarcQk88KX1zxrwx6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Caminante Recordando los Exitos, Vol. 1",
-        "url": "https://open.spotify.com/album/29NdNvEG0HVFUIjrPieSFf"
-      },
-      "artists": [
-        {
-          "name": "Banda Toro",
-          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
-        }
-      ],
-      "duration_ms": 196653,
-      "name": "Ahora Puedo Mirar Claro",
-      "url": "https://open.spotify.com/track/5Kgo6IQPF6g3ioAiSQIvZq"
     },
     {
       "added_at": null,

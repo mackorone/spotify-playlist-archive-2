@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 
 > Explore Pakistan's thriving independent scene 🔥 Cover: Bilal Ali
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,850 likes - 95 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,854 likes - 95 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -5936,7 +5936,7 @@
       ],
       "date_added": "2026-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 239613,
       "name": "mononoke",
       "url": "https://open.spotify.com/track/53oxxT1yPpRlGiF6svD17o"
@@ -6954,7 +6954,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 199833,
       "name": "Paris-Madrid",
       "url": "https://open.spotify.com/track/0GMy6l9kM3Ll0ZMmnGjqFR"
@@ -7314,7 +7314,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-21",
+      "date_removed": null,
       "duration_ms": 187440,
       "name": "Rabbit Hole",
       "url": "https://open.spotify.com/track/5FlMiiDcXmWB2VQRb9oJV3"
@@ -9089,6 +9089,28 @@
     },
     {
       "album": {
+        "name": "the swirl ahead",
+        "url": "https://open.spotify.com/album/4i2fObVc3bdNkfXSRye4DY"
+      },
+      "artists": [
+        {
+          "name": "Oklou",
+          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
+        },
+        {
+          "name": "Rob",
+          "url": "https://open.spotify.com/artist/08MbVpIfR68DibfHcDYaUe"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196146,
+      "name": "the swirl ahead",
+      "url": "https://open.spotify.com/track/0eBskPYrLquDh9TlLVVBgN"
+    },
+    {
+      "album": {
         "name": "valley of my prime",
         "url": "https://open.spotify.com/album/1UnbjUKJUVDSnRkaf2rnnc"
       },
@@ -9310,7 +9332,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-08",
+      "date_removed": null,
       "duration_ms": 193177,
       "name": "tired",
       "url": "https://open.spotify.com/track/6Su2NSVqxgb8MPn9nj7YBg"
@@ -9714,7 +9736,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 194473,
       "name": "waiting for me",
       "url": "https://open.spotify.com/track/7o34qMgjMGWjadKNH1cBvc"

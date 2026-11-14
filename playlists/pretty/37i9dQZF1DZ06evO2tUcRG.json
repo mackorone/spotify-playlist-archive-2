@@ -1,12 +1,12 @@
 {
   "description": "This is Gabriela Rocha. The essential tracks, all in one playlist.",
-  "num_followers": 269079,
+  "num_followers": 269073,
   "original_name": "This Is Gabriela Rocha",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avOwAAAAAADRJEzDC+ryCaE3Qh3x2RmG",
+  "snapshot_id": "avUBgAAAAADmegxe514q/eHgJUDQ/Vcn",
   "tracks": [
     {
       "added_at": null,
@@ -124,9 +124,9 @@
           "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
         }
       ],
-      "duration_ms": 437928,
-      "name": "A Ele a Gl\u00f3ria - Ao Vivo",
-      "url": "https://open.spotify.com/track/5MG9H2i8Y1JusQ3SxE7Daf"
+      "duration_ms": 275306,
+      "name": "Diz",
+      "url": "https://open.spotify.com/track/1vqtc9aS3VMRLBmcii8q5R"
     },
     {
       "added_at": null,
@@ -192,9 +192,9 @@
           "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
         }
       ],
-      "duration_ms": 275306,
-      "name": "Diz",
-      "url": "https://open.spotify.com/track/1vqtc9aS3VMRLBmcii8q5R"
+      "duration_ms": 437928,
+      "name": "A Ele a Gl\u00f3ria - Ao Vivo",
+      "url": "https://open.spotify.com/track/5MG9H2i8Y1JusQ3SxE7Daf"
     },
     {
       "added_at": null,
@@ -463,18 +463,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ecoar 3",
-        "url": "https://open.spotify.com/album/4qINaNhLhhkXFrMrk0qFDH"
+        "name": "YAHWEH",
+        "url": "https://open.spotify.com/album/3PkDUefjL36K6qtlMvtm0h"
       },
       "artists": [
+        {
+          "name": "Lukas Agustinho",
+          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
+        },
         {
           "name": "Gabriela Rocha",
           "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
         }
       ],
-      "duration_ms": 317043,
-      "name": "Palavras",
-      "url": "https://open.spotify.com/track/79go0SZiPfEcMUIx1qJDK7"
+      "duration_ms": 508733,
+      "name": "Si\u00e3o / Derrama - Ao Vivo",
+      "url": "https://open.spotify.com/track/2dWV0f7708Jy9f61VxjH6j"
     },
     {
       "added_at": null,
@@ -495,22 +499,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "YAHWEH",
-        "url": "https://open.spotify.com/album/3PkDUefjL36K6qtlMvtm0h"
+        "name": "Ecoar 3",
+        "url": "https://open.spotify.com/album/4qINaNhLhhkXFrMrk0qFDH"
       },
       "artists": [
-        {
-          "name": "Lukas Agustinho",
-          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
-        },
         {
           "name": "Gabriela Rocha",
           "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
         }
       ],
-      "duration_ms": 508733,
-      "name": "Si\u00e3o / Derrama - Ao Vivo",
-      "url": "https://open.spotify.com/track/2dWV0f7708Jy9f61VxjH6j"
+      "duration_ms": 317043,
+      "name": "Palavras",
+      "url": "https://open.spotify.com/track/79go0SZiPfEcMUIx1qJDK7"
     },
     {
       "added_at": null,
@@ -663,22 +663,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "At\u00e9 Transbordar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3HjpM1erx8nlbEgmNKpIj0"
+        "name": "A Presen\u00e7a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1gJRrBTFtZn4gSbFzyOezh"
       },
       "artists": [
         {
           "name": "Gabriela Rocha",
           "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        },
-        {
-          "name": "Felippe Valad\u00e3o",
-          "url": "https://open.spotify.com/artist/0KegzT9izcAVRGF2k3mJ05"
         }
       ],
-      "duration_ms": 271866,
-      "name": "Pra Onde Iremos? (feat. Felippe Valad\u00e3o) - Ao Vivo",
-      "url": "https://open.spotify.com/track/3eL1SOAEopSLzdzzlHaJ18"
+      "duration_ms": 520936,
+      "name": "Meu Jesus - Ao Vivo",
+      "url": "https://open.spotify.com/track/2yD7EU4QTTEoRHnwvqu1vV"
     },
     {
       "added_at": null,
@@ -699,18 +695,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Presen\u00e7a (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1gJRrBTFtZn4gSbFzyOezh"
+        "name": "At\u00e9 Transbordar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3HjpM1erx8nlbEgmNKpIj0"
       },
       "artists": [
         {
           "name": "Gabriela Rocha",
           "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        },
+        {
+          "name": "Felippe Valad\u00e3o",
+          "url": "https://open.spotify.com/artist/0KegzT9izcAVRGF2k3mJ05"
         }
       ],
-      "duration_ms": 520936,
-      "name": "Meu Jesus - Ao Vivo",
-      "url": "https://open.spotify.com/track/2yD7EU4QTTEoRHnwvqu1vV"
+      "duration_ms": 271866,
+      "name": "Pra Onde Iremos? (feat. Felippe Valad\u00e3o) - Ao Vivo",
+      "url": "https://open.spotify.com/track/3eL1SOAEopSLzdzzlHaJ18"
     },
     {
       "added_at": null,

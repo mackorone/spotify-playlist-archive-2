@@ -4,7 +4,7 @@
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: Silent Planet
 
-12,933 songs - 35 day 16 hr 52 min
+12,934 songs - 35 day 16 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3215,7 +3215,7 @@
 | [Don't Stop](https://open.spotify.com/track/1Lnfd2Tckcl68nhmb2J6Z7) | [Mors Subita](https://open.spotify.com/artist/6OTqwzePF081l2Oz9PEku8) | [Don't Stop](https://open.spotify.com/album/2YNGh06TPSOMxj2AhHC1vR) | 4:04 | 2023-06-09 | 2023-06-17 |
 | [Don't Talk](https://open.spotify.com/track/5KWVqP6ooLAgmbwJnVol9D) | [Our Mirage](https://open.spotify.com/artist/1QpYiCxy3p5Wz7HtomBqHU), [Christopher Kristensen](https://open.spotify.com/artist/4teR8K3TE71fbNw61zAoSu) | [Don't Talk](https://open.spotify.com/album/7HmiykmvDz2ezPinwYoMqv) | 3:21 | 2025-03-14 | 2025-03-22 |
 | [Don't Talk to Strangers](https://open.spotify.com/track/4TXXYNUhEcEzZVOBF9DDQP) | [Paul Gilbert](https://open.spotify.com/artist/19sJfp2FK2evlsw46WVhPG) | [The Dio Album](https://open.spotify.com/album/6z8exOI6HX7AsMIDwN8OsC) | 5:07 | 2023-04-07 | 2023-04-15 |
-| [Don't Tread On Me](https://open.spotify.com/track/7EKzLAOqUn7Qi2xD3yUvqf) | [Cro\-Mags](https://open.spotify.com/artist/5WCrzTQZ6S6EgebqI57Ilg) | [Age of Quarrel: 40 Years of Quarrel](https://open.spotify.com/album/3QtZZFcMtyGpjHklw2DdVT) | 1:19 | 2026-11-13 |  |
+| [Don't Tread On Me](https://open.spotify.com/track/7EKzLAOqUn7Qi2xD3yUvqf) | [Cro\-Mags](https://open.spotify.com/artist/5WCrzTQZ6S6EgebqI57Ilg), [Zach Blair](https://open.spotify.com/artist/0sylheuAxYDOdkQmn2t5m7) | [Age of Quarrel: 40 Years of Quarrel](https://open.spotify.com/album/3QtZZFcMtyGpjHklw2DdVT) | 1:19 | 2026-11-13 |  |
 | [Don't Try To Stop Me](https://open.spotify.com/track/7ehuj7IMSTCEJCzqVi2Xhv) | [M.A.S.K.](https://open.spotify.com/artist/4BbXWPIfy8mGhcdzvNQV3f) | [Don't Try To Stop Me](https://open.spotify.com/album/6WCDCQxqe7P2ebRqyIWBS7) | 3:51 | 2026-08-21 | 2026-09-12 |
 | [Don't Wait](https://open.spotify.com/track/4oOCcO06KEM6a8gEEBOh8x) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE), [MUPP](https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG) | [Don't Wait](https://open.spotify.com/album/6kw0XsjkS9XYTmNtxrb9eO) | 2:08 | 2023-02-03 | 2023-02-11 |
 | [Don't Wake The Dead](https://open.spotify.com/track/1AxTJaBxuMzdXFhRHQfUMz) | [PAIN](https://open.spotify.com/artist/0hGpZy6ws8FofByMkt0CV1) | [I Am](https://open.spotify.com/album/7sJ0AkZceIdAKYiYYjKlwp) | 4:07 | 2024-05-17 | 2024-05-25 |
@@ -11283,6 +11283,7 @@
 | [The Vultures Circle](https://open.spotify.com/track/1uJM1VHnXP49WR1ZdZOglF) | [Dead Icarus](https://open.spotify.com/artist/3YqHFmMKPYLoZ0dEZOVIkS) | [The Vultures Circle](https://open.spotify.com/album/29zQOIylwCcmQgQWABVuRA) | 4:12 | 2023-09-22 | 2023-09-30 |
 | [The Wailing](https://open.spotify.com/track/7FFUGtw2J0hl2pW08iFV0T) | [Forlorn](https://open.spotify.com/artist/4aOGVF2gQb9TY4raTPjLWf) | [Aether](https://open.spotify.com/album/4VC2MlL0DWlcgVVCLC3sbt) | 5:17 | 2025-03-28 | 2025-04-05 |
 | [The Wall](https://open.spotify.com/track/1WawIFyXJhxthsfFujjYez) | [Windwaker](https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS) | [Enter The Wall](https://open.spotify.com/album/7KLuUqhjYU088Q0Xt1WCfU) | 2:23 | 2024-03-15 | 2024-03-23 |
+| [The Wandering Star Prion](https://open.spotify.com/track/6SYo8XCfnHII9XGtamgUEE) | [Artificial Brain](https://open.spotify.com/artist/0FJTTwSyFG3TnPYs0Gwuwr) | [Antillia](https://open.spotify.com/album/6Z9z8yQXuE1z4rYYyxGQyJ) | 3:57 | 2026-11-13 |  |
 | [The War That You Are](https://open.spotify.com/track/6KzuyCtKN3D8tkGV5HhO8T) | [Born Of Osiris](https://open.spotify.com/artist/4HgqjpBaWctBWVHafQIpRt) | [Through Shadows](https://open.spotify.com/album/1hfxVrfgu8XsAwCOKDXPEk) | 3:39 | 2025-07-10 | 2025-07-26 |
 | [The Warden](https://open.spotify.com/track/6BuHNegabSh6XBBt25iC2a) | [I Am Your God](https://open.spotify.com/artist/5jmZYC9vzvvJnN0QHExUsn) | [SINister](https://open.spotify.com/album/0TmWxEADhKuw8j8N02lMUk) | 3:51 | 2023-05-05 | 2023-05-13 |
 | [The Watcher](https://open.spotify.com/track/7wwFeAgaC2pGqJaTuCVFAw) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Deceivers](https://open.spotify.com/album/0UWT0SwOzXkR9IVbz0GNuo) | 4:58 | 2022-08-12 | 2022-08-20 |

@@ -4503,6 +4503,28 @@
     },
     {
       "album": {
+        "name": "Doxology (All Praise)",
+        "url": "https://open.spotify.com/album/0u87RNAoGcLHPxpmJljLWm"
+      },
+      "artists": [
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        },
+        {
+          "name": "Kari Jobe Carnes",
+          "url": "https://open.spotify.com/artist/3VTWrobRnI633EBuUSfyw3"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 419513,
+      "name": "Doxology (All Praise)",
+      "url": "https://open.spotify.com/track/1DzcXks7Lsa4Zc6wuB2yt4"
+    },
+    {
+      "album": {
         "name": "Dream (Live)",
         "url": "https://open.spotify.com/album/0FV8Zn9lpGqumPzh1ycO4q"
       },
@@ -20544,7 +20566,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 391434,
       "name": "There Goes That Man - Live From LA",
       "url": "https://open.spotify.com/track/7k925ZA0zngjoMslHLYo8a"

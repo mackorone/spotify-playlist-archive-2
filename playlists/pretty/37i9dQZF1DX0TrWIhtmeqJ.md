@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TrWIhtmeqJ.md) - [plain]
 
 > For the new generation of trendsetters coming through, we move\. Cover: KTmelodies
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,570 likes - 70 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,575 likes - 70 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [i really liike u](https://open.spotify.com/track/7KOccEv2Scm9W5WaPXPzbC) | [KTmelodies](https://open.spotify.com/artist/10IVkptwI3f1wi8XYDl2hd) | [i really liike u](https://open.spotify.com/album/3rrkwIwuhIlUBaoPo8viGD) | 2:04 |
 | 2 | [Manny Made](https://open.spotify.com/track/5ABg64jiSnFeuzDkKmCZPX) | [Suggz](https://open.spotify.com/artist/02ZY7mXbBycRP7fW3PszQT), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [Manny Made](https://open.spotify.com/album/2ipfr8s0EsG4ggwR9Ettek) | 2:16 |
 | 3 | [NOT YOUR MAN](https://open.spotify.com/track/2KBA6zqKnyaTDpke7KJ1h7) | [JEDSOUL](https://open.spotify.com/artist/1d31pvQ23phSKJISEqXQLO) | [NOT YOUR MAN](https://open.spotify.com/album/30hcmWeb1Y40hbN1A8YWN5) | 3:01 |
-| 4 | [Track 12](https://open.spotify.com/track/519GxthZryPOXvAdL28iyr) | [earfzilla](https://open.spotify.com/artist/65SDZetBIC5qK27DoJUx0f) | [the after glow](https://open.spotify.com/album/2OYqbmOlEATNjnA9OVC18F) | 0:00 |
+| 4 | [dressing gown](https://open.spotify.com/track/519GxthZryPOXvAdL28iyr) | [earfzilla](https://open.spotify.com/artist/65SDZetBIC5qK27DoJUx0f), [Rejjie Snow](https://open.spotify.com/artist/3lLHpTOJ11tWiUNGYN14gt) | [the after glow](https://open.spotify.com/album/2OYqbmOlEATNjnA9OVC18F) | 2:41 |
 | 5 | [the\_1](https://open.spotify.com/track/64iel2O7teRFOmC4VVoSf6) | [Nori](https://open.spotify.com/artist/7slFzVc5aRrBk0U69aQiXJ), [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki) | [file\_1](https://open.spotify.com/album/1YQ1FXjnLHLYSFkq4XYm10) | 2:21 |
 | 6 | [Edge of the World](https://open.spotify.com/track/4AoImzpO7KR5WPG1sKKoXF) | [dexter in the newsagent](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Edge of the World](https://open.spotify.com/album/0hvPBpoZaslvJG92YZRO8H) | 2:51 |
 | 7 | [the dom perignons](https://open.spotify.com/track/723kL08biqEd6nvGIV3CMH) | [Bricknasty](https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd) | [the dom perignons](https://open.spotify.com/album/5bNB8R4vPrGPPTy0cRvj6c) | 2:16 |

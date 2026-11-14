@@ -2,7 +2,7 @@
 
 ### [AfroGospel](https://open.spotify.com/playlist/37i9dQZF1DX2LoKKKetKEw)
 
-> Jesus Music but make it pon pon\.  Get your fill of Afrobeats and Bible right here!  Cover: Anendlessocean
+> Jesus Music but make it pon pon\.  Get your fill of Afrobeats and Bible right here!  Cover: Limoblaze
 
 779 songs - 1 day 15 hr 44 min
 

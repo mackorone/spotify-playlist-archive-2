@@ -1,13 +1,33 @@
 {
   "description": "This is Wale. The essential tracks, all in one playlist.",
-  "num_followers": 41370,
+  "num_followers": 41376,
   "original_name": "This Is Wale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avOwAAAAAACPOM5nyhSZaoMV3CYLHw4m",
+  "snapshot_id": "avUBgAAAAADdy1P5kjX1yI2JMT/kFXW8",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Gifted",
+        "url": "https://open.spotify.com/album/2m1DkB7oqaZu8BzAAUfwlq"
+      },
+      "artists": [
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        },
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 238826,
+      "name": "Bad (feat. Rihanna) - Remix",
+      "url": "https://open.spotify.com/track/5yhKaacMZGRo4s6evJx9vk"
+    },
     {
       "added_at": null,
       "album": {
@@ -31,26 +51,6 @@
       "duration_ms": 263773,
       "name": "No Hands (feat. Roscoe Dash & Wale)",
       "url": "https://open.spotify.com/track/03tqyYWC9Um2ZqU0ZN849H"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Gifted",
-        "url": "https://open.spotify.com/album/2m1DkB7oqaZu8BzAAUfwlq"
-      },
-      "artists": [
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        },
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 238826,
-      "name": "Bad (feat. Rihanna) - Remix",
-      "url": "https://open.spotify.com/track/5yhKaacMZGRo4s6evJx9vk"
     },
     {
       "added_at": null,
@@ -627,26 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spirit (feat. Wale)",
-        "url": "https://open.spotify.com/album/62HROJu6iE9DXc7EJjlmvv"
-      },
-      "artists": [
-        {
-          "name": "Kwesta",
-          "url": "https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr"
-        },
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 253178,
-      "name": "Spirit (feat. Wale)",
-      "url": "https://open.spotify.com/track/6Gqzr5DpN48FESo5uHGsJ7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stay Trippy",
         "url": "https://open.spotify.com/album/7h1ut6IUbndKY7QrqcbAND"
       },
@@ -667,6 +647,26 @@
       "duration_ms": 260560,
       "name": "Bounce It (feat. Wale & Trey Songz)",
       "url": "https://open.spotify.com/track/3N5oiETJEStSB71TjTFkWV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Spirit (feat. Wale)",
+        "url": "https://open.spotify.com/album/62HROJu6iE9DXc7EJjlmvv"
+      },
+      "artists": [
+        {
+          "name": "Kwesta",
+          "url": "https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 253178,
+      "name": "Spirit (feat. Wale)",
+      "url": "https://open.spotify.com/track/6Gqzr5DpN48FESo5uHGsJ7"
     },
     {
       "added_at": null,

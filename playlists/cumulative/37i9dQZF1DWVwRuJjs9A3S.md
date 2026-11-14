@@ -4,7 +4,7 @@
 
 > Det senaste och bästa från världen av indie\. Cover: Niki & The Dove
 
-1,480 songs - 3 day 12 hr 58 min
+1,480 songs - 3 day 13 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@
 | [Avgiftas](https://open.spotify.com/track/3Ch0CSOlPGbkmKhMnrGhbb) | [Lancelot](https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap) | [Avgiftas](https://open.spotify.com/album/2q07LYv1y04R0xq6bN8U8k) | 3:02 | 2026-01-15 | 2026-09-11 |
 | [Away It Goes](https://open.spotify.com/track/3nLCGZPS7WBxMR8GEAtMjj) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45), [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK) | [Away It Goes](https://open.spotify.com/album/3U1XSkVwVd7hTH6hKWGqCH) | 3:36 | 2024-10-31 | 2025-01-17 |
 | [Aéroport](https://open.spotify.com/track/25cm5QSiCaqKbeP7MODFhv) | [Gintė Preisaitė](https://open.spotify.com/artist/5D33eNZh5iFRm3tIJf3Zit) | [Instruments of Forgetting and the Singing Bone](https://open.spotify.com/album/0oeXO3SDptQL2dYIpSOeB9) | 2:28 | 2026-05-28 |  |
-| [Baby](https://open.spotify.com/track/2j5OVXMkRA0E3w27HHJN1A) | [GRANT](https://open.spotify.com/artist/6SkVKlAmIWVD0LQvCGQqSj) | [Baby / Baby Pt\. 2](https://open.spotify.com/album/3L6eKwIWVOxRaLOIuQTsxp) | 3:29 | 2026-11-05 |  |
+| [Baby](https://open.spotify.com/track/2j5OVXMkRA0E3w27HHJN1A) | [Grant](https://open.spotify.com/artist/6SkVKlAmIWVD0LQvCGQqSj) | [Baby / Baby Pt\. 2](https://open.spotify.com/album/3L6eKwIWVOxRaLOIuQTsxp) | 3:29 | 2026-11-05 |  |
 | [Baby Blue Movie](https://open.spotify.com/track/6kgn7bCEXk0A5ZrPqrRZwc) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Baby Blue Movie](https://open.spotify.com/album/3T7i2gfwdTmMOUD5wiuoAj) | 4:04 | 2024-06-27 | 2024-08-16 |
 | [Babycake](https://open.spotify.com/track/51wGa9a97WhBQZxMGRnnlm) | [Dottie Andersson](https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM) | [Babycake](https://open.spotify.com/album/40vt0NOKvzkoFMXZRcnuX3) | 2:28 | 2026-05-07 |  |
 | [Babydoll](https://open.spotify.com/track/46YtvsW5mJyp3slPgOhBKD) | [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [Babydoll](https://open.spotify.com/album/3Hdh9SVJcFwTxYNnkwsD3f) | 4:11 | 2024-11-14 | 2025-01-24 |
@@ -325,6 +325,7 @@
 | [Do You Haunt Me](https://open.spotify.com/track/2ADlSEarDUKjsnuMMPgnak) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Do You Haunt Me](https://open.spotify.com/album/2TxFjmhQQpz4WQRkNgoYl3) | 3:13 | 2024-08-22 | 2024-09-27 |
 | [Do you wanna \- Fine + Molina EDIT](https://open.spotify.com/track/6xTOSlWaiBRiVj3Xh265FL) | [Astrid Sonne](https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689), [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5), [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF) | [Great Doubt EDITS](https://open.spotify.com/album/3Q4ckErENVJA9V1nx3pMS4) | 2:25 | 2024-09-19 | 2025-03-08 |
 | [doing my best](https://open.spotify.com/track/2jEK6rkAJ82GjVSoIkxxyr) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [doing my best](https://open.spotify.com/album/1igte7adJCqP9ayDlbBCdC) | 3:02 | 2025-02-13 | 2025-04-18 |
+| [Dom följer efter](https://open.spotify.com/track/4rsh80Az3F2kMyzePCwOan) | [the name Will](https://open.spotify.com/artist/7KKPJD0WpOGj9bdmjQNmDB) | [FULL, FUL & KÄNSLIG](https://open.spotify.com/album/2opeK2NgpjHAs6kNCXY2F7) | 3:18 | 2026-11-12 |  |
 | [Don't Get Me Started](https://open.spotify.com/track/7i5M9mb2gF9VvuNSlUsAaz) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Don't Get Me Started](https://open.spotify.com/album/477uxPlEAq7OPmwF4zS1Wi) | 5:55 | 2024-08-08 | 2024-09-19 |
 | [Don't know why](https://open.spotify.com/track/7eteH0lFTshZkvc1rsSafQ) | [Teddy Failure](https://open.spotify.com/artist/6nmR8KccL37IGwr2uMxpR2) | [Don't know why](https://open.spotify.com/album/2glDzsRZrRLZmSR2TKVoWD) | 2:36 | 2025-06-12 | 2026-01-16 |
 | [Don't Let Me Know](https://open.spotify.com/track/1y20MYzuhK3SEOqJ5GObzx) | [SI EVOL](https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2) | [Don't Let Me Know](https://open.spotify.com/album/5iL06qpB3LICUF1S6LKhUo) | 2:48 | 2024-11-07 | 2024-12-06 |
@@ -1337,7 +1338,6 @@
 | [Too Sweet](https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6) | 4:11 | 2024-06-27 | 2024-08-16 |
 | [Took the Train 'til the End](https://open.spotify.com/track/0JhqyLHTwuFbl34Z2nQZWL) | [Arny Margret](https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW) | [I Miss You, I Do](https://open.spotify.com/album/0T0s1ct3KmVkQg5dAd8ILU) | 3:59 | 2025-03-07 | 2025-05-16 |
 | [Totally](https://open.spotify.com/track/5xoo7xfolFQGmRyDYtzXNp) | [Baba Stiltz](https://open.spotify.com/artist/1xaQSClXcsc1JvxZ2qnwBF) | [Totally](https://open.spotify.com/album/68bAvtCNnayCdY7cQbz1Mh) | 2:42 | 2026-08-20 |  |
-| [Track 5](https://open.spotify.com/track/4rsh80Az3F2kMyzePCwOan) | [the name Will](https://open.spotify.com/artist/7KKPJD0WpOGj9bdmjQNmDB) | [FULL, FUL & KÄNSLIG](https://open.spotify.com/album/2opeK2NgpjHAs6kNCXY2F7) | 0:00 | 2026-11-12 |  |
 | [Track and Field](https://open.spotify.com/track/49pUZuG2dMJATu4Hc82QyE) | [JJerome87](https://open.spotify.com/artist/2UzQILybhlgKlKSiBikOio), [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [Track and Field](https://open.spotify.com/album/7lJIJZp0dR8I5dfLACSYKA) | 3:15 | 2026-04-16 | 2026-09-11 |
 | [Trailers after dark](https://open.spotify.com/track/2Tr7s79xvkh70uA1pW2z1a) | [Finn Wolfhard](https://open.spotify.com/artist/2nmWcAqQtfgNp8Kpixa2CG) | [Trailers after dark](https://open.spotify.com/album/46s1sq3nEJiTRq3okup3N4) | 3:18 | 2025-04-10 | 2025-07-04 |
 | [Trappa till himlen](https://open.spotify.com/track/140hfWLjtZQyRlYY7j2auV) | [Terra ](https://open.spotify.com/artist/38KJOj7CCAHBDSLkjczak1), [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [Trappa till himlen](https://open.spotify.com/album/1VNQheQ9ALB6PU7Y3cr6M8) | 3:56 | 2025-04-24 | 2025-10-10 |

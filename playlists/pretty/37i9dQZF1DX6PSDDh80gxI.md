@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PSDDh80gxI.md) - [plain]
 
 > bro, che dire: quanto ti capiamo..\. \(in cover: Tommaso Ottomano aka Topo Nero Rock 🐀\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 453,331 likes - 82 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 453,328 likes - 82 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

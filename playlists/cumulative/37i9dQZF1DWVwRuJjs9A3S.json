@@ -1768,7 +1768,7 @@
       },
       "artists": [
         {
-          "name": "GRANT",
+          "name": "Grant",
           "url": "https://open.spotify.com/artist/6SkVKlAmIWVD0LQvCGQqSj"
         }
       ],
@@ -5992,6 +5992,24 @@
       "duration_ms": 182733,
       "name": "doing my best",
       "url": "https://open.spotify.com/track/2jEK6rkAJ82GjVSoIkxxyr"
+    },
+    {
+      "album": {
+        "name": "FULL, FUL & K\u00c4NSLIG",
+        "url": "https://open.spotify.com/album/2opeK2NgpjHAs6kNCXY2F7"
+      },
+      "artists": [
+        {
+          "name": "the name Will",
+          "url": "https://open.spotify.com/artist/7KKPJD0WpOGj9bdmjQNmDB"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198464,
+      "name": "Dom f\u00f6ljer efter",
+      "url": "https://open.spotify.com/track/4rsh80Az3F2kMyzePCwOan"
     },
     {
       "album": {
@@ -24852,24 +24870,6 @@
       "duration_ms": 162224,
       "name": "Totally",
       "url": "https://open.spotify.com/track/5xoo7xfolFQGmRyDYtzXNp"
-    },
-    {
-      "album": {
-        "name": "FULL, FUL & K\u00c4NSLIG",
-        "url": "https://open.spotify.com/album/2opeK2NgpjHAs6kNCXY2F7"
-      },
-      "artists": [
-        {
-          "name": "the name Will",
-          "url": "https://open.spotify.com/artist/7KKPJD0WpOGj9bdmjQNmDB"
-        }
-      ],
-      "date_added": "2026-11-12",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 5",
-      "url": "https://open.spotify.com/track/4rsh80Az3F2kMyzePCwOan"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9T8P88bzbxH.md) - [plain]
 
 > One night only\. Cover: izna
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,043 likes - 16 songs - 43 min 56 sec
+[Spotify](https://open.spotify.com/user/spotify) - 53,034 likes - 16 songs - 43 min 56 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfwy0qpZrKJ.md) - [plain]
 
 > Yes, the Judas video is the most important music video of all time.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,045 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,163 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfwy0qpZrKJ.md) - [plain]
 | 53 | [100% Pure Love](https://open.spotify.com/track/0dfQwyoZoS9LgQiU6AJO7f) | [Crystal Waters](https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43) | [The Best Of Crystal Waters](https://open.spotify.com/album/3u9FnafwttOYXAz9fznSAg) | 4:38 |
 | 54 | [Commander](https://open.spotify.com/track/31zeLcKH2x3UCMHT75Gk5C) | [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Here I Am \(Deluxe Version\)](https://open.spotify.com/album/6bC54Ww0MIXovvpLWlXrWa) | 3:38 |
 | 55 | [Rush](https://open.spotify.com/track/4ZnkygoWLzcGbQYCm3lkae) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E) | 2:36 |
-| 56 | [Crying At The Discoteque](https://open.spotify.com/track/26nsISfAcsJlv8vgeCWdJB) | [Alcazar](https://open.spotify.com/artist/5HnkAAaf0MCIxMWzsJNrdg) | [Crying At The Discoteque](https://open.spotify.com/album/2VeMQ1VMnmQ06rRurhzwFz) | 3:54 |
+| 56 | [Crying At The Discoteque \- Video](https://open.spotify.com/track/26nsISfAcsJlv8vgeCWdJB) | [Alcazar](https://open.spotify.com/artist/5HnkAAaf0MCIxMWzsJNrdg) | [Crying At The Discoteque \(Video\)](https://open.spotify.com/album/2VeMQ1VMnmQ06rRurhzwFz) | 3:54 |
 | 57 | [yes, and?](https://open.spotify.com/track/5D34wRmbFS29AjtTOP2QJe) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 3:34 |
 | 58 | [Telephone](https://open.spotify.com/track/7rl7ao5pb9BhvAzPdWStxi) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [The Fame Monster \(Deluxe Edition\)](https://open.spotify.com/album/6DGZdMi124iOOih9GMlhN2) | 3:40 |
 | 59 | [I'll Do It](https://open.spotify.com/track/3RpCFxfsccNPDTWd3ALMaB) | [Heidi Montag](https://open.spotify.com/artist/5XLBtYR2VrpkqXdlvNnFHG) | [Superficial](https://open.spotify.com/album/0MHyAAVcnhmU76kko43Cax) | 3:30 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The soulful tunes to ease you into your day. Cover: John Legend",
+  "description": "The soulful tunes to ease you into your day. Cover: Danielle Ponder",
   "name": "Soul Coffee",
   "tracks": [
     {
@@ -3540,7 +3540,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 163516,
       "name": "D'ANGELO'S JOINT",
       "url": "https://open.spotify.com/track/5nuNdm8A47fAfUPoN9AMJQ"
@@ -5019,6 +5019,24 @@
     },
     {
       "album": {
+        "name": "Fight For This Love",
+        "url": "https://open.spotify.com/album/443PogehD7eaxsfoaLq4tg"
+      },
+      "artists": [
+        {
+          "name": "Lizzie Berchie",
+          "url": "https://open.spotify.com/artist/4ZdG27oG6K31RhN9XKHt7m"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204480,
+      "name": "Fight For This Love",
+      "url": "https://open.spotify.com/track/1HtKGqTOqJ7T0gWfuY6v0J"
+    },
+    {
+      "album": {
         "name": "Find My Love",
         "url": "https://open.spotify.com/album/5y5BaqS5OvqYO1nXWEVd8m"
       },
@@ -5262,7 +5280,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 205500,
       "name": "Follow",
       "url": "https://open.spotify.com/track/6cBP7BZg8nZ5fZtmRMsuRw"
@@ -5761,6 +5779,24 @@
     },
     {
       "album": {
+        "name": "Everything Has Changed",
+        "url": "https://open.spotify.com/album/4oYqwTbEodi9DVme0ngg18"
+      },
+      "artists": [
+        {
+          "name": "Danielle Ponder",
+          "url": "https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202046,
+      "name": "Garden",
+      "url": "https://open.spotify.com/track/03FIyG9FBrEjP5AzoNdwG4"
+    },
+    {
+      "album": {
         "name": "Gas Station Love",
         "url": "https://open.spotify.com/album/6B1jPIaWfQ2UuHXy814c3W"
       },
@@ -6196,7 +6232,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 220428,
       "name": "God of You",
       "url": "https://open.spotify.com/track/6O9V8wvuDf5JiniQ6YGov5"
@@ -8232,7 +8268,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 117985,
       "name": "IDK",
       "url": "https://open.spotify.com/track/5cjiM95QJwPxGxSWtLqZ8k"
@@ -10042,6 +10078,24 @@
       "duration_ms": 181706,
       "name": "Love Bomb",
       "url": "https://open.spotify.com/track/0WOlNsXvaVJsD2X5dE65HJ"
+    },
+    {
+      "album": {
+        "name": "Love Calls (The Alkemy Session)",
+        "url": "https://open.spotify.com/album/2niY2FjTAdaq3AjP8CNQig"
+      },
+      "artists": [
+        {
+          "name": "Kem",
+          "url": "https://open.spotify.com/artist/1f2e3RQf7LHOum8NU61q0R"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 457097,
+      "name": "Love Calls - The Alkemy Session",
+      "url": "https://open.spotify.com/track/60dfZfxdxMC4D0430JIM8N"
     },
     {
       "album": {
@@ -14026,7 +14080,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 268216,
       "name": "Puppet",
       "url": "https://open.spotify.com/track/6DapvVlj6hgjjp4HWO1ZHg"
@@ -14312,6 +14366,24 @@
       "duration_ms": 195515,
       "name": "Rent Free",
       "url": "https://open.spotify.com/track/4nqmjJRPy28DAM7URfrR4K"
+    },
+    {
+      "album": {
+        "name": "Legendary Love",
+        "url": "https://open.spotify.com/album/74ExA1UleSA3kSC0TyNObv"
+      },
+      "artists": [
+        {
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222746,
+      "name": "Repair",
+      "url": "https://open.spotify.com/track/0s2WT5LXzTqsEaoORmouzy"
     },
     {
       "album": {
@@ -17620,6 +17692,24 @@
       "duration_ms": 205032,
       "name": "Timeless",
       "url": "https://open.spotify.com/track/3EkBW1RjjYnjDl1DJKTT7m"
+    },
+    {
+      "album": {
+        "name": "Legendary Love",
+        "url": "https://open.spotify.com/album/74ExA1UleSA3kSC0TyNObv"
+      },
+      "artists": [
+        {
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220080,
+      "name": "Timeless",
+      "url": "https://open.spotify.com/track/3BQes6FigrqLHU08KNtdG0"
     },
     {
       "album": {

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > Latest music from Madhubanti Bagchi, Nikhita Gandhi, KhoslaRaghu and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,844 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,925 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Mudd Na Sajna](https://open.spotify.com/track/4feeZH5iAQjvKhWyoXNVLT) | [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h), [Siddharth Amit Bhavsar](https://open.spotify.com/artist/2DQZm7ErqpqiT4nxF9i4a2) | [Mudd Na Sajna](https://open.spotify.com/album/5oNufrn0Td0leLDHIWw6w7) | 3:52 |
-| 2 | [Toddy](https://open.spotify.com/track/1Vok23JnLm6I0VLkF7Bf0w) | [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH), [Karan Kanchan](https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs) | [Niki G](https://open.spotify.com/album/6hcKDorzP4sFk9iaTd85Wu) | 2:39 |
+| 2 | [Toddy](https://open.spotify.com/track/1Vok23JnLm6I0VLkF7Bf0w) | [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH), [Karan Kanchan](https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs) | [Niki G](https://open.spotify.com/album/6hcKDorzP4sFk9iaTd85Wu) | 2:38 |
 | 3 | [Naina Saavan \- Reprise](https://open.spotify.com/track/60E6ahAL4ANvC4lvbOjUFP) | [KhoslaRaghu](https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS), [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv) | [Naina Saavan \- Reprise](https://open.spotify.com/album/7dDWVIsPi87MBQ8IJtXQIk) | 4:22 |
 | 4 | [Jhalak](https://open.spotify.com/track/23fZaeHn6gxiJGYY2nXOjn) | [Naam Sujal](https://open.spotify.com/artist/6NTcSISlIHPvDleyAkOTqP), [Aanchal Tyagi](https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Jhalak](https://open.spotify.com/album/10BBb28qFnAAkkZPKjp4Pd) | 2:14 |
 | 5 | [Mahiya](https://open.spotify.com/track/3RPCyZLAJXh14LThX16Zs5) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Mahiya](https://open.spotify.com/album/4VvgtNAafQWryMF9K6ZkWk) | 2:29 |

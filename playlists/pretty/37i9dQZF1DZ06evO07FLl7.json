@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avOwAAAAAABhygyxFv9iI7ZEN1zMc2R8",
+  "snapshot_id": "avUBgAAAAAA2CPTAhuQbUIYW9rd1qmdn",
   "tracks": [
     {
       "added_at": null,
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
         }
       ],
-      "duration_ms": 223829,
-      "name": "N\u00f3s Vestimos Branco",
-      "url": "https://open.spotify.com/track/3EcpXkOmdEVoBVl7ZwRHBt"
+      "duration_ms": 279466,
+      "name": "Of\u00edcio de Cantante",
+      "url": "https://open.spotify.com/track/6JsN5A4fxdX6lohZV4CdCD"
     },
     {
       "added_at": null,
@@ -476,9 +476,9 @@
           "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
         }
       ],
-      "duration_ms": 279466,
-      "name": "Of\u00edcio de Cantante",
-      "url": "https://open.spotify.com/track/6JsN5A4fxdX6lohZV4CdCD"
+      "duration_ms": 223829,
+      "name": "N\u00f3s Vestimos Branco",
+      "url": "https://open.spotify.com/track/3EcpXkOmdEVoBVl7ZwRHBt"
     },
     {
       "added_at": null,
@@ -959,26 +959,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Patr\u00e3o",
-        "url": "https://open.spotify.com/album/6NKfGwJVwcC6X0vcuzuIf7"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "Tassia Reis",
-          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
-        }
-      ],
-      "duration_ms": 218592,
-      "name": "Patr\u00e3o",
-      "url": "https://open.spotify.com/track/6qvJIyQ7VyA04jrIXEUarf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mango02",
         "url": "https://open.spotify.com/album/7FJ2UdIC4mXIRlmoyERVxk"
       },
@@ -1003,6 +983,26 @@
       "duration_ms": 191460,
       "name": "Magenta",
       "url": "https://open.spotify.com/track/20jar3jBKUq0ojEgHDOD5A"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Patr\u00e3o",
+        "url": "https://open.spotify.com/album/6NKfGwJVwcC6X0vcuzuIf7"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Tassia Reis",
+          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
+        }
+      ],
+      "duration_ms": 218592,
+      "name": "Patr\u00e3o",
+      "url": "https://open.spotify.com/track/6qvJIyQ7VyA04jrIXEUarf"
     },
     {
       "added_at": null,

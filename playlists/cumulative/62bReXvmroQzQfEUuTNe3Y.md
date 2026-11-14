@@ -4,7 +4,7 @@
 
 > Chill tracks to vibe or relax to in 2026\. Updated weekly!
 
-609 songs - 1 day 9 hr 12 min
+611 songs - 1 day 9 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -274,6 +274,7 @@
 | [Inside Out](https://open.spotify.com/track/2yiNArujhNe6pDG2GSZ3HE) | [Astrality](https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ), [Tailor](https://open.spotify.com/artist/2Qf8oz2NeIs8FVCJSsXkWH) | [Inside Out](https://open.spotify.com/album/0zY0NnHouQOIqdf6uJjNiD) | 4:00 | 2024-10-11 |  |
 | [Into You](https://open.spotify.com/track/6mSvPv99eglwMQB0gypeGI) | [Sylow](https://open.spotify.com/artist/4EviTlMaY400FfDijNqzaK), [Steve RGA](https://open.spotify.com/artist/1moCa3rEpOn2cNzv3GdKBN) | [Into You](https://open.spotify.com/album/04uw8O9c0uxp2yy6b9UJp9) | 3:00 | 2021-09-04 | 2021-10-16 |
 | [Isla \- Radio Edit](https://open.spotify.com/track/1s6Ur2LBUGzbAHd935MUw9) | [Felon](https://open.spotify.com/artist/4mRHCOgJQT3Pe6zV89tfYC) | [Isla \(Radio Edit\)](https://open.spotify.com/album/5clwJtMkeaSIRGYYoMhnaN) | 3:12 | 2020-09-13\* | 2021-03-06 |
+| [It Goes On & On](https://open.spotify.com/track/0a0v86R8XEJC4b516EMdKM) | [FLOREL](https://open.spotify.com/artist/1OskqUmgp7ro1aIxZbNEhk), [Always Kura](https://open.spotify.com/artist/6UQIGyYs4qP10XxKD9rh4h) | [It Goes On & On](https://open.spotify.com/album/3KLlRdfVbenRddY5OeLDVu) | 2:34 | 2026-11-13 |  |
 | [I’ll Find My Way To You](https://open.spotify.com/track/2R2haDSmphwkn4kANdHU5P) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [I’ll Find My Way To You](https://open.spotify.com/album/21DMxcktIoXJynH4cUBz1F) | 4:24 | 2021-09-18 | 2024-05-18 |
 | [Jump](https://open.spotify.com/track/1JKo6V7VgO6MM2uj7iVkHh) | [Levi](https://open.spotify.com/artist/1M4OBXDWyLtubqa3SBLxwC) | [Jump](https://open.spotify.com/album/6RyWbtser6LYefUpnemhIO) | 2:33 | 2024-07-29 | 2026-01-06 |
 | [Jump](https://open.spotify.com/track/06fqBUtCFsSomwcG1Mvgzr) | [MIND](https://open.spotify.com/artist/0HWNrAbt6scbsPPgcIgrZ5) | [Jump](https://open.spotify.com/album/556UTItUBqXnwhnRq56JpB) | 4:44 | 2026-03-06 | 2026-07-18 |
@@ -314,6 +315,7 @@
 | [Love Like That](https://open.spotify.com/track/5WliYG94HXFCo7RmYZ7bLE) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Dani Poppitt](https://open.spotify.com/artist/2fSGqh4BJpl0T1LHtd9TQ8) | [Love Like That](https://open.spotify.com/album/5nu0DOF0xqGEuXEiYeHhHi) | 3:36 | 2020-09-13\* | 2021-03-06 |
 | [Love Me \- Felix Cartal's Chill Mix](https://open.spotify.com/track/7yaMJeDKiDCGC35LrP6EYU) | [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v), [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Love Me \(Remixes\)](https://open.spotify.com/album/3D4DNUNdCascgr0VRYUib9) | 3:41 | 2021-03-06 | 2021-11-11 |
 | [Love Me The Same](https://open.spotify.com/track/4RDgkhNm5TJKW2Qe24OOYW) | [Astrality](https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ), [Krysta Youngs](https://open.spotify.com/artist/6R44YeR0cv8sCeCi2GUWAf) | [Love Me The Same](https://open.spotify.com/album/0cvgtqHxieeN6OgxVvGAOo) | 3:44 | 2024-08-02 |  |
+| [Love Somebody](https://open.spotify.com/track/09djcF8F7xYEcHBILI7xhH) | [Astrality](https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ), [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Love Somebody](https://open.spotify.com/album/5WCPkOPjp33pGzwh8dKfE0) | 2:50 | 2026-11-13 |  |
 | [Love's Not Over \- Dawn Edit](https://open.spotify.com/track/4igakSDtom2NQ54wYfPSOx) | [AN21](https://open.spotify.com/artist/3wPBMtzFP84b7UN786Sxhn), [Silhouette](https://open.spotify.com/artist/0mD76jJsxQwaZLhqgt6XRu), [Kuaigon](https://open.spotify.com/artist/4bgLx8IahWxzxBKpZ1W5Kx) | [Love's Not Over](https://open.spotify.com/album/5uS5FNN9QqSh0OCWdbOGU7) | 3:30 | 2023-04-21 | 2023-08-20 |
 | [Lovesick](https://open.spotify.com/track/6VzJ202FqcnPcxaUXUeY1t) | [MAGNUS](https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w), [Hanne Mjøen](https://open.spotify.com/artist/2xDZ8qyyE2Ti4wL1Ob1T7V) | [Lovesick](https://open.spotify.com/album/3W988ylVkS5vw3I5nq0MTn) | 2:33 | 2022-07-22 |  |
 | [Lullaby](https://open.spotify.com/track/2yZH82CumlAogNd4UqkFE6) | [P.A.V](https://open.spotify.com/artist/4pqyg42kTh4xrULdghsTGV) | [Lullaby](https://open.spotify.com/album/6SOSCpuewAjwFrbRNEPluK) | 2:26 | 2022-02-25 | 2022-06-11 |

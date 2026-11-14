@@ -1,6 +1,6 @@
 {
   "description": "the beat of your drift",
-  "num_followers": 11987877,
+  "num_followers": 11989079,
   "original_name": "phonk",
   "owner": {
     "name": "Spotify",
@@ -1492,12 +1492,16 @@
       },
       "artists": [
         {
+          "name": "notdjfake",
+          "url": "https://open.spotify.com/artist/3QwztEgQF5edXYpOYsA6fM"
+        },
+        {
           "name": "DJ SXD",
           "url": "https://open.spotify.com/artist/5TYgy94EkTAyehVxZa3uYx"
         },
         {
-          "name": "notdjfake",
-          "url": "https://open.spotify.com/artist/3QwztEgQF5edXYpOYsA6fM"
+          "name": "drexxst",
+          "url": "https://open.spotify.com/artist/33JRNwH0tpfYFxXToaJQGa"
         }
       ],
       "duration_ms": 102250,

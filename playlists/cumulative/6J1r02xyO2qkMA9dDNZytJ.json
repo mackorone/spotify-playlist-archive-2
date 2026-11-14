@@ -4497,6 +4497,24 @@
     },
     {
       "album": {
+        "name": "Marido Dansa EP",
+        "url": "https://open.spotify.com/album/02sORmDFuuqhc9JLzUJT6p"
+      },
+      "artists": [
+        {
+          "name": "Franky Rizardo",
+          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154153,
+      "name": "Marido Dansa",
+      "url": "https://open.spotify.com/track/1wceODcNiRPq4kwo9vh3oE"
+    },
+    {
+      "album": {
         "name": "Miami Vice",
         "url": "https://open.spotify.com/album/0DvrSM1pqByeKLS9UiiMP1"
       },
@@ -4840,7 +4858,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 163846,
       "name": "No Stress",
       "url": "https://open.spotify.com/track/4Rm4KQmb8kzub9hZgiZvtn"
@@ -4902,6 +4920,24 @@
       "duration_ms": 168750,
       "name": "On My Body",
       "url": "https://open.spotify.com/track/0vQ4YFifqvMn2GNqOfmpGl"
+    },
+    {
+      "album": {
+        "name": "On My Mind",
+        "url": "https://open.spotify.com/album/2jtBCVbaz6UOnkbrDoRHc0"
+      },
+      "artists": [
+        {
+          "name": "ACID HARRY",
+          "url": "https://open.spotify.com/artist/0Xv8xXnOJ9v8qOIiqyR7FW"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191929,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/1u5N1jYrw06tZHs6tFpHCp"
     },
     {
       "album": {
@@ -5116,7 +5152,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 157846,
       "name": "Party Girl",
       "url": "https://open.spotify.com/track/0gxJCeAibDirwlBiFaZXhe"
@@ -5954,7 +5990,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 186562,
       "name": "Rude Boi",
       "url": "https://open.spotify.com/track/5U0r6jbUXigdXFHMRfU9dD"
@@ -6028,6 +6064,28 @@
       "duration_ms": 144475,
       "name": "Say My Name",
       "url": "https://open.spotify.com/track/6Oci650ciQ0xLoUmjUwKNK"
+    },
+    {
+      "album": {
+        "name": "Say What?",
+        "url": "https://open.spotify.com/album/7x7Xqk7a9bCNnVMju3zXtZ"
+      },
+      "artists": [
+        {
+          "name": "ESSEL",
+          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
+        },
+        {
+          "name": "SHERA",
+          "url": "https://open.spotify.com/artist/1qy8GNvgsJVfexemiipfOf"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191428,
+      "name": "Say What?",
+      "url": "https://open.spotify.com/track/4oB5UYIYHhVHchxQLO0fPv"
     },
     {
       "album": {
@@ -6330,6 +6388,32 @@
       "duration_ms": 211355,
       "name": "Snakebite Boogie",
       "url": "https://open.spotify.com/track/3Tokd2H9xxDzkvKVahm6tc"
+    },
+    {
+      "album": {
+        "name": "So Fly (feat. Riton)",
+        "url": "https://open.spotify.com/album/4COMINLzCjHza7ZoC1xn1A"
+      },
+      "artists": [
+        {
+          "name": "RUZE",
+          "url": "https://open.spotify.com/artist/4UDibtvT2aaea2hEB3O3PP"
+        },
+        {
+          "name": "Kid Enigma",
+          "url": "https://open.spotify.com/artist/6xh20mDGCfR9jH2tYotdBE"
+        },
+        {
+          "name": "Riton",
+          "url": "https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126412,
+      "name": "So Fly (feat. Riton)",
+      "url": "https://open.spotify.com/track/6IQ6Ybxf0hzzcmGpmfhDS7"
     },
     {
       "album": {

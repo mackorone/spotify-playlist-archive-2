@@ -1,12 +1,12 @@
 {
   "description": "Fly 1111 out now \ud83d\udd4a\ufe0f",
-  "num_followers": 153364,
+  "num_followers": 153378,
   "original_name": "juniper",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMa8h19xu3ajiEhFwervTaiBJFYj",
+  "snapshot_id": "AAAAAOtkM8UM+CxSg1tUQCYPZpnlZLuF",
   "tracks": [
     {
       "added_at": "2026-11-11 14:30:28",
@@ -23,6 +23,38 @@
       "duration_ms": 247489,
       "name": "All These Dreams",
       "url": "https://open.spotify.com/track/1g0Rrc2FjsyhEDGQIKO0Va"
+    },
+    {
+      "added_at": "2026-11-13 05:01:30",
+      "album": {
+        "name": "Highway to Hell",
+        "url": "https://open.spotify.com/album/1zRzmOFaTP1xz8HuYFQPwY"
+      },
+      "artists": [
+        {
+          "name": "Star Moles",
+          "url": "https://open.spotify.com/artist/2E5hF0ef37SEkbFT7JItSf"
+        }
+      ],
+      "duration_ms": 217865,
+      "name": "Born Again - Bonus Track",
+      "url": "https://open.spotify.com/track/1WwPlmneXG71vStRDHf6m5"
+    },
+    {
+      "added_at": "2026-11-13 22:40:00",
+      "album": {
+        "name": "Olivia Newton-John",
+        "url": "https://open.spotify.com/album/7rDD2fn53NRhcBax5utsUy"
+      },
+      "artists": [
+        {
+          "name": "Sydney Ross Mitchell",
+          "url": "https://open.spotify.com/artist/6ehbjKYJwaDdHpiw52vdGr"
+        }
+      ],
+      "duration_ms": 174920,
+      "name": "Olivia Newton-John",
+      "url": "https://open.spotify.com/track/7jbYrvGxNKl5F4UgQCSNiq"
     },
     {
       "added_at": "2026-10-16 04:01:41",
@@ -139,6 +171,22 @@
       "duration_ms": 271391,
       "name": "George Clanton",
       "url": "https://open.spotify.com/track/6HlKT4QTzvqpoSdrLCoU9L"
+    },
+    {
+      "added_at": "2026-11-13 05:01:30",
+      "album": {
+        "name": "Songs for the Neighbors",
+        "url": "https://open.spotify.com/album/6drgGahgE4NaaS0Keermyj"
+      },
+      "artists": [
+        {
+          "name": "Hans Williams",
+          "url": "https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj"
+        }
+      ],
+      "duration_ms": 301722,
+      "name": "Marie\u2019s Moon",
+      "url": "https://open.spotify.com/track/4OwzXLDrnKABHXh7xPxGFS"
     },
     {
       "added_at": "2026-10-23 04:02:10",

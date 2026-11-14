@@ -1,6 +1,6 @@
 {
   "description": "Where afrobeats meets amapiano.\nCover:  Didi B",
-  "num_followers": 103890,
+  "num_followers": 103940,
   "original_name": "afro-piano",
   "owner": {
     "name": "Spotify",
@@ -395,22 +395,6 @@
     {
       "added_at": "2026-11-13 00:02:06",
       "album": {
-        "name": "MOVE",
-        "url": "https://open.spotify.com/album/72Blq4pbnoc6togBVawf3K"
-      },
-      "artists": [
-        {
-          "name": "Shoday",
-          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
-        }
-      ],
-      "duration_ms": 116410,
-      "name": "MOVE",
-      "url": "https://open.spotify.com/track/7CaTezgzShsRBV7dnxZVWa"
-    },
-    {
-      "added_at": "2026-11-13 00:02:06",
-      "album": {
         "name": "M$NEY",
         "url": "https://open.spotify.com/album/07iqzVICrgPFOpXem6MEpU"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 205674,
       "name": "Amen",
       "url": "https://open.spotify.com/track/5xFnqGLySijRJ2q6som381"
+    },
+    {
+      "added_at": "2026-11-13 00:02:06",
+      "album": {
+        "name": "MOVE",
+        "url": "https://open.spotify.com/album/72Blq4pbnoc6togBVawf3K"
+      },
+      "artists": [
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+        }
+      ],
+      "duration_ms": 116410,
+      "name": "MOVE",
+      "url": "https://open.spotify.com/track/7CaTezgzShsRBV7dnxZVWa"
     },
     {
       "added_at": "2026-11-13 00:02:06",
@@ -739,6 +739,38 @@
     {
       "added_at": "2026-11-13 00:02:06",
       "album": {
+        "name": "HOW FAR (Remix)",
+        "url": "https://open.spotify.com/album/00aqaC3YVmy74D0kak1GuC"
+      },
+      "artists": [
+        {
+          "name": "NO11",
+          "url": "https://open.spotify.com/artist/1bu3a0AAJbZazQJV0tbywD"
+        },
+        {
+          "name": "Focalistic",
+          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
+        },
+        {
+          "name": "CIZA",
+          "url": "https://open.spotify.com/artist/71hPkbyih5bdlHVPBgav33"
+        },
+        {
+          "name": "Famous Pluto",
+          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
+        },
+        {
+          "name": "Ayjay bobo",
+          "url": "https://open.spotify.com/artist/5L1Xcdtf6MxLmEvpGMw3g4"
+        }
+      ],
+      "duration_ms": 200617,
+      "name": "HOW FAR - Remix",
+      "url": "https://open.spotify.com/track/4X4cghVmisiTbcu59iLLZ8"
+    },
+    {
+      "added_at": "2026-11-13 00:02:06",
+      "album": {
         "name": "Escaladizzy",
         "url": "https://open.spotify.com/album/12X7eTRII9XQr1ZRDPfx5k"
       },
@@ -791,38 +823,6 @@
     {
       "added_at": "2026-11-13 00:02:06",
       "album": {
-        "name": "HOW FAR (Remix)",
-        "url": "https://open.spotify.com/album/00aqaC3YVmy74D0kak1GuC"
-      },
-      "artists": [
-        {
-          "name": "NO11",
-          "url": "https://open.spotify.com/artist/1bu3a0AAJbZazQJV0tbywD"
-        },
-        {
-          "name": "Focalistic",
-          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
-        },
-        {
-          "name": "CIZA",
-          "url": "https://open.spotify.com/artist/71hPkbyih5bdlHVPBgav33"
-        },
-        {
-          "name": "Famous Pluto",
-          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
-        },
-        {
-          "name": "Ayjay bobo",
-          "url": "https://open.spotify.com/artist/5L1Xcdtf6MxLmEvpGMw3g4"
-        }
-      ],
-      "duration_ms": 200617,
-      "name": "HOW FAR - Remix",
-      "url": "https://open.spotify.com/track/4X4cghVmisiTbcu59iLLZ8"
-    },
-    {
-      "added_at": "2026-11-13 00:02:06",
-      "album": {
         "name": "ON MY BIRTHDAY",
         "url": "https://open.spotify.com/album/2VPFXrVDrzxxcLaIP2Gpvf"
       },
@@ -871,26 +871,6 @@
     {
       "added_at": "2026-11-13 00:02:06",
       "album": {
-        "name": "Gimme Dat Ting",
-        "url": "https://open.spotify.com/album/3Ps3UIOBR65ycJclGQF6Nc"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "NO11",
-          "url": "https://open.spotify.com/artist/1bu3a0AAJbZazQJV0tbywD"
-        }
-      ],
-      "duration_ms": 243755,
-      "name": "Gimme Dat Ting (with NO11)",
-      "url": "https://open.spotify.com/track/5RVZ1kfkbUkZ2s3BsRss18"
-    },
-    {
-      "added_at": "2026-11-13 00:02:06",
-      "album": {
         "name": "PARTY",
         "url": "https://open.spotify.com/album/2H5Lo5fKfJgenaMW2YVj6J"
       },
@@ -907,6 +887,26 @@
       "duration_ms": 165663,
       "name": "PARTY",
       "url": "https://open.spotify.com/track/7CpyeFIWBB4ym9A8jhsD5b"
+    },
+    {
+      "added_at": "2026-11-13 00:02:06",
+      "album": {
+        "name": "Gimme Dat Ting",
+        "url": "https://open.spotify.com/album/3Ps3UIOBR65ycJclGQF6Nc"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "NO11",
+          "url": "https://open.spotify.com/artist/1bu3a0AAJbZazQJV0tbywD"
+        }
+      ],
+      "duration_ms": 243755,
+      "name": "Gimme Dat Ting (with NO11)",
+      "url": "https://open.spotify.com/track/5RVZ1kfkbUkZ2s3BsRss18"
     },
     {
       "added_at": "2026-11-13 00:02:06",
@@ -1135,34 +1135,6 @@
     {
       "added_at": "2026-11-13 00:02:06",
       "album": {
-        "name": "Bank Alert",
-        "url": "https://open.spotify.com/album/6gbIE8I2TYRVU23PoIltaS"
-      },
-      "artists": [
-        {
-          "name": "Muyeez",
-          "url": "https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS"
-        },
-        {
-          "name": "Zerrydl",
-          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
-        },
-        {
-          "name": "Ayo Maff",
-          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
-        },
-        {
-          "name": "Famous Pluto",
-          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
-        }
-      ],
-      "duration_ms": 142487,
-      "name": "Bank Alert",
-      "url": "https://open.spotify.com/track/4wEpSkZ9V6CNZu8gwiOw1a"
-    },
-    {
-      "added_at": "2026-11-13 00:02:06",
-      "album": {
         "name": "Cinderella",
         "url": "https://open.spotify.com/album/1wh2tpER5kDqXXF3qjIo5y"
       },
@@ -1187,6 +1159,34 @@
       "duration_ms": 180528,
       "name": "Cinderella",
       "url": "https://open.spotify.com/track/4oMLmQyX1VubCpDGSZJhhr"
+    },
+    {
+      "added_at": "2026-11-13 00:02:06",
+      "album": {
+        "name": "Bank Alert",
+        "url": "https://open.spotify.com/album/6gbIE8I2TYRVU23PoIltaS"
+      },
+      "artists": [
+        {
+          "name": "Muyeez",
+          "url": "https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS"
+        },
+        {
+          "name": "Zerrydl",
+          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
+        },
+        {
+          "name": "Ayo Maff",
+          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
+        },
+        {
+          "name": "Famous Pluto",
+          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
+        }
+      ],
+      "duration_ms": 142487,
+      "name": "Bank Alert",
+      "url": "https://open.spotify.com/track/4wEpSkZ9V6CNZu8gwiOw1a"
     },
     {
       "added_at": "2026-11-13 00:02:06",
@@ -1503,38 +1503,18 @@
     {
       "added_at": "2026-11-13 00:02:06",
       "album": {
-        "name": "Fire in your Eyes",
-        "url": "https://open.spotify.com/album/4DB72Q0aDAkUy3Jljnp1Ly"
+        "name": "Life of the Party",
+        "url": "https://open.spotify.com/album/54WQMWMNFT7hNF5ksvU1iR"
       },
       "artists": [
         {
-          "name": "Didi B",
-          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
-        },
-        {
-          "name": "Mavo",
-          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+          "name": "oSHAMO",
+          "url": "https://open.spotify.com/artist/6T8LsW0wEmWLi2IriLoQgA"
         }
       ],
-      "duration_ms": 215384,
-      "name": "Fire in your Eyes",
-      "url": "https://open.spotify.com/track/0GiBsDZ5sZRVM9cH68Yj0d"
-    },
-    {
-      "added_at": "2026-11-13 00:02:06",
-      "album": {
-        "name": "Salama",
-        "url": "https://open.spotify.com/album/08oRda9UCVm9yvGzj7pbpA"
-      },
-      "artists": [
-        {
-          "name": "FirstKlaz",
-          "url": "https://open.spotify.com/artist/6VPpDxzOXTPNsdxfJ5cAR5"
-        }
-      ],
-      "duration_ms": 281025,
-      "name": "Salama",
-      "url": "https://open.spotify.com/track/6sbALB7lMJ1HNg2XAy6kUL"
+      "duration_ms": 192477,
+      "name": "Life of the Party",
+      "url": "https://open.spotify.com/track/2GuOhFHd7qBWeLAvfIfGsS"
     },
     {
       "added_at": "2026-11-13 00:02:06",
@@ -1563,18 +1543,38 @@
     {
       "added_at": "2026-11-13 00:02:06",
       "album": {
-        "name": "eko",
-        "url": "https://open.spotify.com/album/2yNYbEiNrxzsVsOecP689N"
+        "name": "Salama",
+        "url": "https://open.spotify.com/album/08oRda9UCVm9yvGzj7pbpA"
       },
       "artists": [
         {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+          "name": "FirstKlaz",
+          "url": "https://open.spotify.com/artist/6VPpDxzOXTPNsdxfJ5cAR5"
         }
       ],
-      "duration_ms": 174857,
-      "name": "eko",
-      "url": "https://open.spotify.com/track/3UjlL5RS2cd3p7CT8kvfuq"
+      "duration_ms": 281025,
+      "name": "Salama",
+      "url": "https://open.spotify.com/track/6sbALB7lMJ1HNg2XAy6kUL"
+    },
+    {
+      "added_at": "2026-11-13 00:02:06",
+      "album": {
+        "name": "Fire in your Eyes",
+        "url": "https://open.spotify.com/album/4DB72Q0aDAkUy3Jljnp1Ly"
+      },
+      "artists": [
+        {
+          "name": "Didi B",
+          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
+        },
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        }
+      ],
+      "duration_ms": 215384,
+      "name": "Fire in your Eyes",
+      "url": "https://open.spotify.com/track/0GiBsDZ5sZRVM9cH68Yj0d"
     }
   ],
   "unique_name": "afro-piano",

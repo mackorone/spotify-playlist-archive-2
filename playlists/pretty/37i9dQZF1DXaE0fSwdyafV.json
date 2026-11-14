@@ -1,6 +1,6 @@
 {
   "description": "So mote it be. Cover: Phoebe Bridgers",
-  "num_followers": 158192,
+  "num_followers": 158182,
   "original_name": "Witchy",
   "owner": {
     "name": "Spotify",
@@ -431,22 +431,6 @@
     {
       "added_at": "2026-09-11 04:01:16",
       "album": {
-        "name": "Among My Swan",
-        "url": "https://open.spotify.com/album/4mhpbf7jYc0L1nBceoebIE"
-      },
-      "artists": [
-        {
-          "name": "Mazzy Star",
-          "url": "https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W"
-        }
-      ],
-      "duration_ms": 291040,
-      "name": "Roseblood",
-      "url": "https://open.spotify.com/track/2qV5Ce0sMlFsrseRO5CTMU"
-    },
-    {
-      "added_at": "2026-09-11 04:01:16",
-      "album": {
         "name": "Ego Death At A Bachelorette Party",
         "url": "https://open.spotify.com/album/3MROTtttK946gHaTkXeP8b"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 167973,
       "name": "Kill Me",
       "url": "https://open.spotify.com/track/3yiWkaQvp8cYt64M1bSVb9"
+    },
+    {
+      "added_at": "2026-09-11 04:01:16",
+      "album": {
+        "name": "Among My Swan",
+        "url": "https://open.spotify.com/album/4mhpbf7jYc0L1nBceoebIE"
+      },
+      "artists": [
+        {
+          "name": "Mazzy Star",
+          "url": "https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W"
+        }
+      ],
+      "duration_ms": 291040,
+      "name": "Roseblood",
+      "url": "https://open.spotify.com/track/2qV5Ce0sMlFsrseRO5CTMU"
     },
     {
       "added_at": "2026-09-11 04:01:16",
@@ -611,22 +611,6 @@
     {
       "added_at": "2026-09-11 04:01:16",
       "album": {
-        "name": "Rituals On The Bank Of A Familiar River",
-        "url": "https://open.spotify.com/album/0sxjVtCBiHWdZLWyndytPJ"
-      },
-      "artists": [
-        {
-          "name": "Kiki Rockwell",
-          "url": "https://open.spotify.com/artist/5HuKMWteBRI09tWyKeQE1F"
-        }
-      ],
-      "duration_ms": 244584,
-      "name": "Burn Your Village",
-      "url": "https://open.spotify.com/track/16Ggpcwd7ZxTveNBNN4GWT"
-    },
-    {
-      "added_at": "2026-09-11 04:01:16",
-      "album": {
         "name": "City to City",
         "url": "https://open.spotify.com/album/0ZD5b1lLNLZH8rMq1bOhkh"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 267773,
       "name": "Right Down the Line",
       "url": "https://open.spotify.com/track/5wnIDrgujfOoHAHXVRpUMF"
+    },
+    {
+      "added_at": "2026-09-11 04:01:16",
+      "album": {
+        "name": "Rituals On The Bank Of A Familiar River",
+        "url": "https://open.spotify.com/album/0sxjVtCBiHWdZLWyndytPJ"
+      },
+      "artists": [
+        {
+          "name": "Kiki Rockwell",
+          "url": "https://open.spotify.com/artist/5HuKMWteBRI09tWyKeQE1F"
+        }
+      ],
+      "duration_ms": 244584,
+      "name": "Burn Your Village",
+      "url": "https://open.spotify.com/track/16Ggpcwd7ZxTveNBNN4GWT"
     },
     {
       "added_at": "2026-09-11 04:01:16",
@@ -723,6 +723,22 @@
     {
       "added_at": "2026-09-11 04:01:16",
       "album": {
+        "name": "From The Pyre",
+        "url": "https://open.spotify.com/album/0EAXMn91yQml5xvO6LtVhk"
+      },
+      "artists": [
+        {
+          "name": "The Last Dinner Party",
+          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+        }
+      ],
+      "duration_ms": 238930,
+      "name": "Count The Ways",
+      "url": "https://open.spotify.com/track/1GLpxKAMh0NvdfFD6F8uXs"
+    },
+    {
+      "added_at": "2026-09-11 04:01:16",
+      "album": {
         "name": "Practical Magic (Music From The Motion Picture)",
         "url": "https://open.spotify.com/album/2N7TdBow0ClqvPIdmuOgtw"
       },
@@ -739,18 +755,18 @@
     {
       "added_at": "2026-09-11 04:01:16",
       "album": {
-        "name": "From The Pyre",
-        "url": "https://open.spotify.com/album/0EAXMn91yQml5xvO6LtVhk"
+        "name": "Depression Cherry",
+        "url": "https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr"
       },
       "artists": [
         {
-          "name": "The Last Dinner Party",
-          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+          "name": "Beach House",
+          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
         }
       ],
-      "duration_ms": 238930,
-      "name": "Count The Ways",
-      "url": "https://open.spotify.com/track/1GLpxKAMh0NvdfFD6F8uXs"
+      "duration_ms": 354600,
+      "name": "Levitation",
+      "url": "https://open.spotify.com/track/7EWDXdu3BzLLCuAGrAx4RT"
     },
     {
       "added_at": "2026-09-11 04:01:16",
@@ -783,22 +799,6 @@
       "duration_ms": 303173,
       "name": "Seven Devils",
       "url": "https://open.spotify.com/track/5qaLfqAUiqvsoL0l4T05Yx"
-    },
-    {
-      "added_at": "2026-09-11 04:01:16",
-      "album": {
-        "name": "Depression Cherry",
-        "url": "https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr"
-      },
-      "artists": [
-        {
-          "name": "Beach House",
-          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
-        }
-      ],
-      "duration_ms": 354600,
-      "name": "Levitation",
-      "url": "https://open.spotify.com/track/7EWDXdu3BzLLCuAGrAx4RT"
     },
     {
       "added_at": "2026-09-11 04:01:16",
@@ -967,18 +967,18 @@
     {
       "added_at": "2026-09-11 04:01:16",
       "album": {
-        "name": "Blessings",
-        "url": "https://open.spotify.com/album/2DsCVzaFJ8N5VXZwkOsk5e"
+        "name": "Dissociate",
+        "url": "https://open.spotify.com/album/66BVG7qVrETXlleUUcqEBK"
       },
       "artists": [
         {
-          "name": "S. J. Tucker",
-          "url": "https://open.spotify.com/artist/2kfFvaclobAe56G43yOAbS"
+          "name": "Luisa Marion",
+          "url": "https://open.spotify.com/artist/3m2JMbwYgxHsgGHo3Ifdie"
         }
       ],
-      "duration_ms": 263840,
-      "name": "Witch's Rune",
-      "url": "https://open.spotify.com/track/05SBYEaOoRBtrAAveD4Lph"
+      "duration_ms": 194018,
+      "name": "Dissociate",
+      "url": "https://open.spotify.com/track/5phzTzZYuWstrCTZI56Nzo"
     },
     {
       "added_at": "2026-09-11 04:01:16",
@@ -999,18 +999,18 @@
     {
       "added_at": "2026-09-11 04:01:16",
       "album": {
-        "name": "Dissociate",
-        "url": "https://open.spotify.com/album/66BVG7qVrETXlleUUcqEBK"
+        "name": "Blessings",
+        "url": "https://open.spotify.com/album/2DsCVzaFJ8N5VXZwkOsk5e"
       },
       "artists": [
         {
-          "name": "Luisa Marion",
-          "url": "https://open.spotify.com/artist/3m2JMbwYgxHsgGHo3Ifdie"
+          "name": "S. J. Tucker",
+          "url": "https://open.spotify.com/artist/2kfFvaclobAe56G43yOAbS"
         }
       ],
-      "duration_ms": 194018,
-      "name": "Dissociate",
-      "url": "https://open.spotify.com/track/5phzTzZYuWstrCTZI56Nzo"
+      "duration_ms": 263840,
+      "name": "Witch's Rune",
+      "url": "https://open.spotify.com/track/05SBYEaOoRBtrAAveD4Lph"
     },
     {
       "added_at": "2026-09-11 04:01:16",

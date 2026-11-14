@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1rZf8gLhyz.md) - [plain]
 
 > Let these calm Jazz tracks lull you to sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,679,875 likes - 172 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,679,911 likes - 172 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -181,4 +181,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1rZf8gLhyz.md) - [plain]
 | 171 | [The Long Way Home](https://open.spotify.com/track/1rz29fI7F9hwCuXFGDT9hd) | [Wes Ivory](https://open.spotify.com/artist/5CBG76eSqNpXwV6ZlOgnHU) | [The Long Way Home](https://open.spotify.com/album/5pSEQWT3skSHS6JW12MMrG) | 2:15 |
 | 172 | [Remember Yesterday](https://open.spotify.com/track/15d24D9UC7eDsKD5MeJ0U6) | [Elliot Keys](https://open.spotify.com/artist/1dVm5TvkX4Ow94LJhr8uD3) | [Remember Yesterday](https://open.spotify.com/album/0sia92hSPoaTCaNJEC55ZI) | 2:42 |
 
-Snapshot ID: `AAAAAG9Or9qm3Qld4b1Mr+HDBBy6Tyrq`
+Snapshot ID: `AAAAAFqIw7kthys5LslOt4bS2kBnNNI7`

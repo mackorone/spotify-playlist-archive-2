@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-20",
-  "description": "Dubbel R, Oomto, JR, Moony11 en meer..",
+  "description": "Dubbel R, Oomto, PB, Moony11 en meer..",
   "name": "Fresh Flows",
   "tracks": [
     {
@@ -2182,6 +2182,32 @@
       "duration_ms": 112405,
       "name": "Bellingham",
       "url": "https://open.spotify.com/track/3dZNrH75WqhNc2YwWGQ0mi"
+    },
+    {
+      "album": {
+        "name": "Beloof Dat Het Lukt",
+        "url": "https://open.spotify.com/album/3sasKDtNeUtGSxHmqpcuD1"
+      },
+      "artists": [
+        {
+          "name": "Yannish",
+          "url": "https://open.spotify.com/artist/19nsK6rkGX7Qu6u9Uc3LgQ"
+        },
+        {
+          "name": "Marou",
+          "url": "https://open.spotify.com/artist/787K0Q2xGqiAL0jcoo5kb5"
+        },
+        {
+          "name": "Massin",
+          "url": "https://open.spotify.com/artist/7g8HFGXym7WNVPMsuAINQE"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178823,
+      "name": "Beloof Dat Het Lukt",
+      "url": "https://open.spotify.com/track/67acrd0cdTpKjagHB1S2OR"
     },
     {
       "album": {
@@ -13480,7 +13506,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 126735,
       "name": "Rest",
       "url": "https://open.spotify.com/track/4BImskzTxVoHmruNNGVekd"

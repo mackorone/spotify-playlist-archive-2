@@ -1,6 +1,6 @@
 {
   "description": "Music paying tribute to the Heartland of America. Cover: Drew Baldridge",
-  "num_followers": 308732,
+  "num_followers": 308720,
   "original_name": "Heartland Country",
   "owner": {
     "name": "Spotify",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2026-09-18 04:02:42",
       "album": {
+        "name": "Girl Going Nowhere",
+        "url": "https://open.spotify.com/album/2FeaUU9jFydTIsVO5F8rNU"
+      },
+      "artists": [
+        {
+          "name": "Ashley McBryde",
+          "url": "https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV"
+        }
+      ],
+      "duration_ms": 209080,
+      "name": "A Little Dive Bar in Dahlonega",
+      "url": "https://open.spotify.com/track/7qcRDEpmDWS0bLHaZRYE8c"
+    },
+    {
+      "added_at": "2026-09-18 04:02:42",
+      "album": {
         "name": "#1s ... and then some",
         "url": "https://open.spotify.com/album/1ZXM9jY3Bsg12KXgwftBrO"
       },
@@ -1383,18 +1399,18 @@
     {
       "added_at": "2026-09-18 04:02:42",
       "album": {
-        "name": "Girl Going Nowhere",
-        "url": "https://open.spotify.com/album/2FeaUU9jFydTIsVO5F8rNU"
+        "name": "Save Me The Trouble, Heartbreak On The Map, Bigger Houses",
+        "url": "https://open.spotify.com/album/0k3Twwed7AzLrgaKywvQWF"
       },
       "artists": [
         {
-          "name": "Ashley McBryde",
-          "url": "https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV"
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
         }
       ],
-      "duration_ms": 209080,
-      "name": "A Little Dive Bar in Dahlonega",
-      "url": "https://open.spotify.com/track/7qcRDEpmDWS0bLHaZRYE8c"
+      "duration_ms": 197066,
+      "name": "Bigger Houses",
+      "url": "https://open.spotify.com/track/021oE3KXSweagIO0HsgzcI"
     },
     {
       "added_at": "2026-09-18 04:02:42",
@@ -1415,22 +1431,6 @@
       "duration_ms": 180962,
       "name": "Time\u2019s Ticking",
       "url": "https://open.spotify.com/track/1lcsXjEeKLhYbnvmmqYY3l"
-    },
-    {
-      "added_at": "2026-09-18 04:02:42",
-      "album": {
-        "name": "Save Me The Trouble, Heartbreak On The Map, Bigger Houses",
-        "url": "https://open.spotify.com/album/0k3Twwed7AzLrgaKywvQWF"
-      },
-      "artists": [
-        {
-          "name": "Dan + Shay",
-          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
-        }
-      ],
-      "duration_ms": 197066,
-      "name": "Bigger Houses",
-      "url": "https://open.spotify.com/track/021oE3KXSweagIO0HsgzcI"
     },
     {
       "added_at": "2026-09-18 04:02:42",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2026-09-18 04:02:42",
       "album": {
+        "name": "#1s ... and then some",
+        "url": "https://open.spotify.com/album/1ZXM9jY3Bsg12KXgwftBrO"
+      },
+      "artists": [
+        {
+          "name": "Brooks & Dunn",
+          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
+        }
+      ],
+      "duration_ms": 268613,
+      "name": "Only In America",
+      "url": "https://open.spotify.com/track/3e41nkMyqcAwaQCXJVj87G"
+    },
+    {
+      "added_at": "2026-09-18 04:02:42",
+      "album": {
         "name": "Out in the Middle",
         "url": "https://open.spotify.com/album/3MVvgTvhFQrHXE6coxwl6I"
       },
@@ -1627,22 +1643,6 @@
       "duration_ms": 166300,
       "name": "Out In The Middle",
       "url": "https://open.spotify.com/track/1pbUfl4W9KtQ5hNkT6RiXp"
-    },
-    {
-      "added_at": "2026-09-18 04:02:42",
-      "album": {
-        "name": "#1s ... and then some",
-        "url": "https://open.spotify.com/album/1ZXM9jY3Bsg12KXgwftBrO"
-      },
-      "artists": [
-        {
-          "name": "Brooks & Dunn",
-          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
-        }
-      ],
-      "duration_ms": 268613,
-      "name": "Only In America",
-      "url": "https://open.spotify.com/track/3e41nkMyqcAwaQCXJVj87G"
     },
     {
       "added_at": "2026-09-18 04:02:42",

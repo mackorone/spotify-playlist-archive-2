@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 
 > ❗️Nieuwe tracks van Dopebwoy, Cor & Lijpe, Rits en meer..
 
-[Spotify](https://open.spotify.com/user/spotify) - 700,658 likes - 60 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 700,596 likes - 60 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 | 28 | [Mama Sorry](https://open.spotify.com/track/34vZDzFg8kMSmJr3WbSh85) | [Harun B](https://open.spotify.com/artist/4NHcKVmjob2Cb4Wtw7gJZF), [Kempi](https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7), [Pierrii](https://open.spotify.com/artist/2Muef9e20frSc14ocV9TQU), [DODO](https://open.spotify.com/artist/0Q73wiY36HDHHvxE9fAI95) | [Mama Sorry](https://open.spotify.com/album/1iBFr0TmjuiuPsSd3gOE2u) | 3:00 |
 | 29 | [Ambtenaar](https://open.spotify.com/track/2L4Wvkk9gwX6zpXtFr0jSx) | [KLEPPER](https://open.spotify.com/artist/76iMU8XC2lppYq8q05j8I6) | [Ambtenaar](https://open.spotify.com/album/3fljTm2csQRHjARDIIurRl) | 2:28 |
 | 30 | [HVB](https://open.spotify.com/track/1rmyXcwRGKDpKG9EzjmlQQ) | [Mula](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi), [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd) | [HVB](https://open.spotify.com/album/2J0nVKpUaEfK1HfH2mDST1) | 2:30 |
-| 31 | [Track 4](https://open.spotify.com/track/1MZqk6nX0olmzsbMCO5r0F) | [Sepa](https://open.spotify.com/artist/5oBUDu4SFA4clHOLCrh2b7) | [Praat van de Straat II, Vol\. 4](https://open.spotify.com/album/2PmwN1pFkXGTCEsHisWR2b) | 0:00 |
+| 31 | [Geen Stress II](https://open.spotify.com/track/1MZqk6nX0olmzsbMCO5r0F) | [Sepa](https://open.spotify.com/artist/5oBUDu4SFA4clHOLCrh2b7), [Sjaak](https://open.spotify.com/artist/2YjydjpJfm9VAtiV0XRmkm) | [Praat van de Straat II](https://open.spotify.com/album/2PmwN1pFkXGTCEsHisWR2b) | 3:01 |
 | 32 | [ATM](https://open.spotify.com/track/4IIaPr6b4MUdUwa46RcJ7M) | [Orco](https://open.spotify.com/artist/0fu2mSZ27dPE5OElHvgQP7), [Bartofso](https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI), [Rockywhereyoubeen](https://open.spotify.com/artist/5pieMKHiTXhVZEmlMT0ij7) | [ATM](https://open.spotify.com/album/7zLj1F7ChWitBk1pfuOaC8) | 1:47 |
 | 33 | [100 Tranen](https://open.spotify.com/track/6FaX2maP1l59M01SomlB5M) | [Qlas](https://open.spotify.com/artist/4bB3nz947QqaXQ5DZFcZgS), [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG), [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1) | [100 Tranen](https://open.spotify.com/album/15wwwOopO0kOZrgHNwOX7F) | 2:36 |
 | 34 | [TOKYO](https://open.spotify.com/track/1bDOSa2VxFDMOTd2tEsuNE) | [Yade Lauren](https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT) | [Ms\. Lauren](https://open.spotify.com/album/1V1B6QOOeJexGmKbgHDIWL) | 2:23 |

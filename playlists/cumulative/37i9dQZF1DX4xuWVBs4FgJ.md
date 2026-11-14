@@ -4,7 +4,7 @@
 
 > The perfect soundtrack to those long nights over dinner
 
-512 songs - 1 day 5 hr 58 min
+513 songs - 1 day 6 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -343,7 +343,7 @@
 | [Ordinary People](https://open.spotify.com/track/0FrHyYxj92dg4qIu8BO30l) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [Ordinary People](https://open.spotify.com/album/5ofUV5bkz4T0rWWwJdhoOR) | 4:13 | 2021-06-22 | 2022-05-18 |
 | [Overtime \(feat\. Kacey Musgraves\)](https://open.spotify.com/track/5P8EHRl1ANXNPEqiy0JoH1) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Overtime \(feat\. Kacey Musgraves\)](https://open.spotify.com/album/5KVwmGWboSCfHiJM6IuDue) | 2:53 | 2024-04-19 | 2024-05-25 |
 | [Perfectly Imperfect](https://open.spotify.com/track/6TbkMxKZudkP6Sty7rkLU9) | [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Perfectly Imperfect](https://open.spotify.com/album/6YYdaF74fciAagw5BpJ6Qy) | 3:24 | 2021-06-22 | 2025-10-08 |
-| [Personal Attack](https://open.spotify.com/track/5d5YR87TA2KNR5MR6A0LIQ) | [Mychelle](https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71) | [Personal Attack](https://open.spotify.com/album/7L98NY5FMgbWulnhUuNN6j) | 2:35 | 2026-03-27 |  |
+| [Personal Attack](https://open.spotify.com/track/5d5YR87TA2KNR5MR6A0LIQ) | [Mychelle](https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71) | [Personal Attack](https://open.spotify.com/album/7L98NY5FMgbWulnhUuNN6j) | 2:35 | 2026-03-27 | 2026-11-14 |
 | [Picking Flowers](https://open.spotify.com/track/25DhGXCrAoGppWiU8beWqX) | [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP) | [FRONTYARD EP](https://open.spotify.com/album/340CX8mw2SrcHE67JwonOB) | 3:00 | 2021-06-22 | 2022-07-23 |
 | [Pinetrees](https://open.spotify.com/track/6VmKRiq18SDfzCfV2nXOSs) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai), [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [Pinetrees](https://open.spotify.com/album/2hXdszF3JmErfOInSMV3hQ) | 3:24 | 2021-06-22 | 2022-05-14 |
 | [Please Keep Loving Me](https://open.spotify.com/track/1rp1lRbL41qnlw354j8iTp) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Please Keep Loving Me](https://open.spotify.com/album/57nyAsOzQc642JTGwioDli) | 3:15 | 2021-06-22 | 2022-07-29 |
@@ -359,6 +359,7 @@
 | [Real?](https://open.spotify.com/track/1r0bORzz4Ooi8EpFGC6rxe) | [Benjamin Gustafsson](https://open.spotify.com/artist/01H1M5VvnktKBqpU0TX8Rl) | [Dear Earth, I'm Lost](https://open.spotify.com/album/0JRlJXlfXSdUknklZQjTv2) | 4:36 | 2021-06-22 | 2022-05-18 |
 | [Redemption Song \- Bob Marley: One Love \- Music Inspired By The Film](https://open.spotify.com/track/07zD3s1Xu3fmeV1J8mfVlA) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Redemption Song \(Bob Marley: One Love \- Music Inspired By The Film\)](https://open.spotify.com/album/3tKfzRSjAhQQvbdmI37KQh) | 3:40 | 2024-02-12 | 2024-02-19 |
 | [Risk It All](https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [The Romantic](https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1) | 3:24 | 2026-03-20 |  |
+| [Rodeo](https://open.spotify.com/track/4Y3Bv9FEcC472F2uh0Gskr) | [Pale Jay](https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM) | [Rodeo](https://open.spotify.com/album/52y3TL7eXNsdcdffjY6Uu3) | 3:30 | 2026-11-13 |  |
 | [Run Your Mouth](https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Run Your Mouth](https://open.spotify.com/album/1CffBsDXjxsZH53y29UuiP) | 2:40 | 2024-03-15 | 2024-05-25 |
 | [Running](https://open.spotify.com/track/1TX83ZAjBcPPch8iy0aNve) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Running](https://open.spotify.com/album/3O5wnk4n2Zxw7DxkJdldi7) | 3:28 | 2024-01-19 | 2024-02-24 |
 | [Running Out Of Time](https://open.spotify.com/track/3H5cGzWfaWla53nt7Craeh) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Running Out Of Time](https://open.spotify.com/album/4c24YVXh460XLcuAcro3Z0) | 3:34 | 2024-06-28 | 2024-09-24 |

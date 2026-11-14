@@ -4,7 +4,7 @@
 
 > Soul to brighten up your day\. Cover: NAO
 
-306 songs - 18 hr 58 min
+308 songs - 19 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,7 @@
 | [Guilty](https://open.spotify.com/track/0YfwVbEYw31UiVCllyoTaG) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Queen Alone](https://open.spotify.com/album/5QVrsV0URTnFNv4nfRN5BR) | 3:34 | 2022-01-05 | 2024-08-31 |
 | [Guilty](https://open.spotify.com/track/3MLwKelG4PQ7rXkd8Qjz4g) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Queen Alone](https://open.spotify.com/album/6k2kl7wWK57baFDPkpN9It) | 3:34 | 2022-01-05 | 2024-04-19 |
 | [Hair Down](https://open.spotify.com/track/2tP73L31LHxJAZs3L8HMnp) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Hair Down](https://open.spotify.com/album/63k0s6k9wWu2QMutLrocu4) | 3:11 | 2026-01-09 | 2026-01-24 |
-| [Hash Browns](https://open.spotify.com/track/3EcFVXOhKYKwGswzeWPGo7) | [Aaron Childs](https://open.spotify.com/artist/2iAyNq1LgQlXcmtM7SzkdV) | [The Hash Brown Demos](https://open.spotify.com/album/2R6pJlvxvvnUHlqvF5d5Fg) | 1:59 | 2025-03-07 |  |
+| [Hash Browns](https://open.spotify.com/track/3EcFVXOhKYKwGswzeWPGo7) | [Aaron Childs](https://open.spotify.com/artist/2iAyNq1LgQlXcmtM7SzkdV) | [The Hash Brown Demos](https://open.spotify.com/album/2R6pJlvxvvnUHlqvF5d5Fg) | 1:59 | 2025-03-07 | 2026-11-14 |
 | [Head Over Heels](https://open.spotify.com/track/6scAxpEPBWSJAEs8DGhW9x) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [CRYSALIS](https://open.spotify.com/album/18OM4kStC0UfGiJZcqePgX) | 3:48 | 2025-08-08 |  |
 | [HELPLESS](https://open.spotify.com/track/13aID3wSGPETSoEImDArK9) | [greek](https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY) | [CEDAR'S TAPE](https://open.spotify.com/album/6Tu3Qz3GgYtPeZgVFpBYSJ) | 2:46 | 2025-08-01 |  |
 | [Hold Me](https://open.spotify.com/track/3Rhfga08pNnhLMQVb2nRXp) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/2VXeD0hKkY9i8TyGb0chVi) | 3:07 | 2022-01-05 | 2025-09-14 |
@@ -128,6 +128,7 @@
 | [I Found Love \(On A Lonely Highway\)](https://open.spotify.com/track/0k7kfdefyPCDVHtHzgaq6t) | [Jeff Floyd](https://open.spotify.com/artist/4daynj4qj7K17EbBzEhtDe) | [Powerhouse](https://open.spotify.com/album/7jge7It8TJ7XVSjcKFRFfE) | 7:33 | 2022-01-05 | 2023-07-11 |
 | [I Got Sunshine](https://open.spotify.com/track/1UXQhuCOj5ksuFbceRAdPo) | [Avery\*Sunshine](https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf) | [Avery\*Sunshine](https://open.spotify.com/album/3MqlTEkRsAntG8xBSeNcuB) | 3:14 | 2022-01-05 |  |
 | [I Just Might](https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [I Just Might](https://open.spotify.com/album/2YOfpbW6kCd2XHW2Ln2Uih) | 3:32 | 2026-01-09 |  |
+| [I Love You](https://open.spotify.com/track/31P54A2UCu7hWuPHOIIbj9) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Legendary Love](https://open.spotify.com/album/74ExA1UleSA3kSC0TyNObv) | 3:17 | 2026-11-13 |  |
 | [I Want](https://open.spotify.com/track/5z5mgD0gIZ5KBCQgyIUR3j) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [The Woman I Am](https://open.spotify.com/album/0xUs1n2GTs34q1JeFfZsDz) | 5:52 | 2022-01-05 | 2024-10-28 |
 | [I've Got A Right](https://open.spotify.com/track/79oVaKQxheWhtZqtVqqiJS) | [Oleta Adams](https://open.spotify.com/artist/1BMb6sQJVkmUyCuodmRs2g) | [Circle Of One](https://open.spotify.com/album/0AXqyNdhstfyZyVjjJMszO) | 3:58 | 2022-01-05 | 2025-04-08 |
 | [If I Let You](https://open.spotify.com/track/2VR0LfCTo1wydVWvhseMSM) | [The Womack Sisters](https://open.spotify.com/artist/6BjLHAiun9TeqC55KB3L6s) | [The Womack Sisters](https://open.spotify.com/album/7DM9ZgCLCWorHqBB1GsjRh) | 3:58 | 2026-08-14 |  |
@@ -208,7 +209,7 @@
 | [Overqualified](https://open.spotify.com/track/3lHwn0uVcDUXusIKOoBVHp) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [BLOOM](https://open.spotify.com/album/756LreEk5nDrKn0FyiVJNH) | 5:18 | 2026-02-02 |  |
 | [Passion](https://open.spotify.com/track/6IvKGL3DMPRPjJi8pz059W) | [Dionne Farris](https://open.spotify.com/artist/7HO1DbzU86pWWp1vBN7l6k) | [Wild Seed \- Wild Flower](https://open.spotify.com/album/2BUHZXylf9zzMmNOUo0JBW) | 5:42 | 2022-01-05 | 2025-01-20 |
 | [Pencil Me In](https://open.spotify.com/track/10MihkYSp6Ewx6s5lsAynC) | [October London](https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t) | [Love Me For Me](https://open.spotify.com/album/6WIBVagljKy0v4vDvmXd6Y) | 3:21 | 2026-08-14 |  |
-| [PerfectImperfections](https://open.spotify.com/track/6Qpe0I7IyfOxXCYTEYHjym) | [Flwr Chyld](https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ), [Mack Keane](https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO) | [InsydeOut](https://open.spotify.com/album/0RvLRv0pkd9SA08q31J4jH) | 1:43 | 2025-12-12 |  |
+| [PerfectImperfections](https://open.spotify.com/track/6Qpe0I7IyfOxXCYTEYHjym) | [Flwr Chyld](https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ), [Mack Keane](https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO) | [InsydeOut](https://open.spotify.com/album/0RvLRv0pkd9SA08q31J4jH) | 1:43 | 2025-12-12 | 2026-11-14 |
 | [Positivity](https://open.spotify.com/track/0wo02vddAWnvU6nJAwv4Wz) | [Steffen Morrison](https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r) | [Soul Revolution](https://open.spotify.com/album/4qF4sSfF0dHMUdTkqF5yn8) | 3:19 | 2022-01-05 | 2024-04-19 |
 | [Positivity](https://open.spotify.com/track/2agIeYLyjyxLwQV09f2NCA) | [Steffen Morrison](https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r) | [Positivity](https://open.spotify.com/album/3q2UpV35Krzbcf7Wqk2uyv) | 3:20 | 2022-01-05 | 2024-08-19 |
 | [Positivity](https://open.spotify.com/track/5q4TL6ECBParrNsA9oUjjz) | [Steffen Morrison](https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r) | [Soul Revolution](https://open.spotify.com/album/04Jkig1VBtJLGssHJHsWDN) | 3:20 | 2022-01-05 | 2022-09-06 |
@@ -237,6 +238,7 @@
 | [Seven Nation Army \- Remasterisée](https://open.spotify.com/track/78fJOZkbhtIdFvIvvO8Mu0) | [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK) | [Ben L'Oncle Soul](https://open.spotify.com/album/6XbYsGvaSrNPOrY9E5jRd7) | 2:57 | 2022-01-05 | 2025-09-14 |
 | [SHARP!](https://open.spotify.com/track/03uiW6i8PvidJ8zTHrIKKn) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [BERNARR.](https://open.spotify.com/album/3mwj7hNvVWw3wKcJzZZEVm) | 4:47 | 2026-05-01 | 2026-07-11 |
 | [She Keeps Calling](https://open.spotify.com/track/1hG55qzxbHuGaPfAhCPgoF) | [October London](https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t) | [She Keeps Calling](https://open.spotify.com/album/04pWdxoC5371dvrDgzDIBO) | 2:23 | 2024-08-30 | 2026-05-02 |
+| [She’s Got It](https://open.spotify.com/track/1ALsyJOVZyrsDSZBMxSmXH) | [EJ Jones](https://open.spotify.com/artist/1Ub0AUonKoIZuFvy1WZbIC) | [Luh Mo’ Love](https://open.spotify.com/album/1xiZuYFl2ZVHkH8ElnU54h) | 2:55 | 2026-11-13 |  |
 | [Shine](https://open.spotify.com/track/7iEKaA9Kkn9JfqyKb9HEvR) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Shine](https://open.spotify.com/album/3OPE2L2uPwzQlmmndQHLxb) | 3:46 | 2025-04-05 |  |
 | [Silver Lining](https://open.spotify.com/track/0DkjaDx0bP6vFrIbeROUot) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Silver Lining](https://open.spotify.com/album/4Mrqm0SLoMDGBbHNKAxJbz) | 3:20 | 2025-09-12 | 2026-10-04 |
 | [Smile](https://open.spotify.com/track/0Rliuj2FRErOzjvSSKTGLd) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP) | [Durand Jones & The Indications \(Deluxe Edition\)](https://open.spotify.com/album/0CzFk2RSGJjhXLEGhk6K1E) | 3:49 | 2022-01-05 | 2024-08-31 |

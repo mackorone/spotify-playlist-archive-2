@@ -1,6 +1,6 @@
 {
   "description": "Bhangra is our pride, Bhangra is our culture. Cover: Inderpal Moga, Intense, Jazzy B & Chani Nattan",
-  "num_followers": 249812,
+  "num_followers": 249808,
   "original_name": "Bhangra Bangers",
   "owner": {
     "name": "Spotify",
@@ -327,30 +327,6 @@
     {
       "added_at": "2026-11-04 08:11:16",
       "album": {
-        "name": "Bloodline",
-        "url": "https://open.spotify.com/album/3SaQfROfIvcuN2rsLUgnxW"
-      },
-      "artists": [
-        {
-          "name": "K.S Makhan",
-          "url": "https://open.spotify.com/artist/0O35NR0LgBXsui6L5VOOq3"
-        },
-        {
-          "name": "Divrose",
-          "url": "https://open.spotify.com/artist/2vozhmDOGI7uIqNM1v7GHE"
-        },
-        {
-          "name": "Shevv",
-          "url": "https://open.spotify.com/artist/2EQoFz6owAP4ATr5hGFRok"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Bloodline",
-      "url": "https://open.spotify.com/track/1CkjmpV5HjJFfaV43euCla"
-    },
-    {
-      "added_at": "2026-11-04 08:11:16",
-      "album": {
         "name": "By Any Means",
         "url": "https://open.spotify.com/album/4Gn0Jhsoq3Q0a5TtoSb35D"
       },
@@ -371,6 +347,30 @@
       "duration_ms": 177286,
       "name": "Punjaban",
       "url": "https://open.spotify.com/track/1IP2G9KlWwT9xw1OlGf6Pd"
+    },
+    {
+      "added_at": "2026-11-04 08:11:16",
+      "album": {
+        "name": "Bloodline",
+        "url": "https://open.spotify.com/album/3SaQfROfIvcuN2rsLUgnxW"
+      },
+      "artists": [
+        {
+          "name": "K.S Makhan",
+          "url": "https://open.spotify.com/artist/0O35NR0LgBXsui6L5VOOq3"
+        },
+        {
+          "name": "Divrose",
+          "url": "https://open.spotify.com/artist/2vozhmDOGI7uIqNM1v7GHE"
+        },
+        {
+          "name": "Shevv",
+          "url": "https://open.spotify.com/artist/2EQoFz6owAP4ATr5hGFRok"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Bloodline",
+      "url": "https://open.spotify.com/track/1CkjmpV5HjJFfaV43euCla"
     },
     {
       "added_at": "2026-11-04 08:11:16",
@@ -623,26 +623,6 @@
     {
       "added_at": "2026-11-04 08:11:16",
       "album": {
-        "name": "Mirza",
-        "url": "https://open.spotify.com/album/5HeBs2T5VVqgVEHa53oZ01"
-      },
-      "artists": [
-        {
-          "name": "Pardeep Sran",
-          "url": "https://open.spotify.com/artist/4LUGmBDuNtbBZp5naOMEnC"
-        },
-        {
-          "name": "Sargi Maan",
-          "url": "https://open.spotify.com/artist/2WcrD17Io276ir3miEHCrc"
-        }
-      ],
-      "duration_ms": 158312,
-      "name": "Mirza",
-      "url": "https://open.spotify.com/track/1h0ts09H1zEQFccguhMYR2"
-    },
-    {
-      "added_at": "2026-11-04 08:11:16",
-      "album": {
         "name": "Renaissance",
         "url": "https://open.spotify.com/album/2KvGFSmZajbcsUm5uVyx53"
       },
@@ -659,6 +639,26 @@
       "duration_ms": 200897,
       "name": "Morni",
       "url": "https://open.spotify.com/track/4lUh8Xvfn8RHquoEHTK1U3"
+    },
+    {
+      "added_at": "2026-11-04 08:11:16",
+      "album": {
+        "name": "Mirza",
+        "url": "https://open.spotify.com/album/5HeBs2T5VVqgVEHa53oZ01"
+      },
+      "artists": [
+        {
+          "name": "Pardeep Sran",
+          "url": "https://open.spotify.com/artist/4LUGmBDuNtbBZp5naOMEnC"
+        },
+        {
+          "name": "Sargi Maan",
+          "url": "https://open.spotify.com/artist/2WcrD17Io276ir3miEHCrc"
+        }
+      ],
+      "duration_ms": 158312,
+      "name": "Mirza",
+      "url": "https://open.spotify.com/track/1h0ts09H1zEQFccguhMYR2"
     },
     {
       "added_at": "2026-11-04 08:11:16",
@@ -727,6 +727,22 @@
     {
       "added_at": "2026-11-04 08:11:16",
       "album": {
+        "name": "Kamli (Original)",
+        "url": "https://open.spotify.com/album/69MQPN9orEyUl6lzre4Bms"
+      },
+      "artists": [
+        {
+          "name": "Mankirt Aulakh",
+          "url": "https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr"
+        }
+      ],
+      "duration_ms": 201258,
+      "name": "Kamli",
+      "url": "https://open.spotify.com/track/15fmoePTSxMrZCskvyXSac"
+    },
+    {
+      "added_at": "2026-11-04 08:11:16",
+      "album": {
         "name": "31,10",
         "url": "https://open.spotify.com/album/64DXvZLQn47dURuggDCeA5"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 164210,
       "name": "31,10",
       "url": "https://open.spotify.com/track/6hCJYYohjT9FqR6WZh2ToL"
-    },
-    {
-      "added_at": "2026-11-04 08:11:16",
-      "album": {
-        "name": "Kamli (Original)",
-        "url": "https://open.spotify.com/album/69MQPN9orEyUl6lzre4Bms"
-      },
-      "artists": [
-        {
-          "name": "Mankirt Aulakh",
-          "url": "https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr"
-        }
-      ],
-      "duration_ms": 201258,
-      "name": "Kamli",
-      "url": "https://open.spotify.com/track/15fmoePTSxMrZCskvyXSac"
     },
     {
       "added_at": "2026-11-04 08:11:16",
@@ -807,26 +807,6 @@
     {
       "added_at": "2026-11-04 08:11:16",
       "album": {
-        "name": "Bipolar",
-        "url": "https://open.spotify.com/album/6IZrIfElEDQWpR9B6yYjhp"
-      },
-      "artists": [
-        {
-          "name": "Navaan Sandhu",
-          "url": "https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1"
-        },
-        {
-          "name": "Haakam",
-          "url": "https://open.spotify.com/artist/1gPdNRLkL8J1nZrck72moJ"
-        }
-      ],
-      "duration_ms": 167872,
-      "name": "Boozed Up",
-      "url": "https://open.spotify.com/track/1xDf9yVUKJ9P6OeEHvqAR2"
-    },
-    {
-      "added_at": "2026-11-04 08:11:16",
-      "album": {
         "name": "Prapti",
         "url": "https://open.spotify.com/album/59sOvHVkj2wJi2BTVhNkqK"
       },
@@ -851,6 +831,26 @@
       "duration_ms": 154666,
       "name": "Prapti",
       "url": "https://open.spotify.com/track/0gEhZ4ulZhj0hd5FuFxokw"
+    },
+    {
+      "added_at": "2026-11-04 08:11:16",
+      "album": {
+        "name": "Bipolar",
+        "url": "https://open.spotify.com/album/6IZrIfElEDQWpR9B6yYjhp"
+      },
+      "artists": [
+        {
+          "name": "Navaan Sandhu",
+          "url": "https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1"
+        },
+        {
+          "name": "Haakam",
+          "url": "https://open.spotify.com/artist/1gPdNRLkL8J1nZrck72moJ"
+        }
+      ],
+      "duration_ms": 167872,
+      "name": "Boozed Up",
+      "url": "https://open.spotify.com/track/1xDf9yVUKJ9P6OeEHvqAR2"
     },
     {
       "added_at": "2026-11-04 08:11:16",
@@ -923,6 +923,26 @@
     {
       "added_at": "2026-11-04 08:11:16",
       "album": {
+        "name": "Munda Inj Da Nahi",
+        "url": "https://open.spotify.com/album/64hOWWXcdDmcknzrlgH59u"
+      },
+      "artists": [
+        {
+          "name": "Surjit Bhullar",
+          "url": "https://open.spotify.com/artist/5NA7O4JSNzYDkpMyneLWiD"
+        },
+        {
+          "name": "Mista Baaz",
+          "url": "https://open.spotify.com/artist/4WfXu0xIHhthU5Jb5x3hRq"
+        }
+      ],
+      "duration_ms": 168888,
+      "name": "Munda Inj Da Nahi",
+      "url": "https://open.spotify.com/track/2tcqtUZtO8ObxtTVMP5hqf"
+    },
+    {
+      "added_at": "2026-11-04 08:11:16",
+      "album": {
         "name": "Young & Real",
         "url": "https://open.spotify.com/album/2777qaYFxZOhbBrF4qrl9R"
       },
@@ -943,26 +963,6 @@
       "duration_ms": 201818,
       "name": "Nabhe Di Bottal",
       "url": "https://open.spotify.com/track/5L02UgAKdA0icWvFs3WXVI"
-    },
-    {
-      "added_at": "2026-11-04 08:11:16",
-      "album": {
-        "name": "Munda Inj Da Nahi",
-        "url": "https://open.spotify.com/album/64hOWWXcdDmcknzrlgH59u"
-      },
-      "artists": [
-        {
-          "name": "Surjit Bhullar",
-          "url": "https://open.spotify.com/artist/5NA7O4JSNzYDkpMyneLWiD"
-        },
-        {
-          "name": "Mista Baaz",
-          "url": "https://open.spotify.com/artist/4WfXu0xIHhthU5Jb5x3hRq"
-        }
-      ],
-      "duration_ms": 168888,
-      "name": "Munda Inj Da Nahi",
-      "url": "https://open.spotify.com/track/2tcqtUZtO8ObxtTVMP5hqf"
     },
     {
       "added_at": "2026-11-04 08:11:16",
@@ -1007,26 +1007,6 @@
     {
       "added_at": "2026-11-04 08:11:16",
       "album": {
-        "name": "Medicine",
-        "url": "https://open.spotify.com/album/5bxIO37XtNj4k4PW5vMlUJ"
-      },
-      "artists": [
-        {
-          "name": "R Nait",
-          "url": "https://open.spotify.com/artist/4buk1Dwc5ynSnOGVeMJOON"
-        },
-        {
-          "name": "Deepak Dhillon",
-          "url": "https://open.spotify.com/artist/647Ivke8w05hNzKHs68ZSY"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Medicine",
-      "url": "https://open.spotify.com/track/2QbFuHbPKNWgpqIFQYsUwS"
-    },
-    {
-      "added_at": "2026-11-04 08:11:16",
-      "album": {
         "name": "Graph",
         "url": "https://open.spotify.com/album/5ahdDmuYBvzCYI2kCo2cS0"
       },
@@ -1047,6 +1027,26 @@
       "duration_ms": 155121,
       "name": "Graph",
       "url": "https://open.spotify.com/track/6GcHqqvdC7W9j46h78hAgg"
+    },
+    {
+      "added_at": "2026-11-04 08:11:16",
+      "album": {
+        "name": "Medicine",
+        "url": "https://open.spotify.com/album/5bxIO37XtNj4k4PW5vMlUJ"
+      },
+      "artists": [
+        {
+          "name": "R Nait",
+          "url": "https://open.spotify.com/artist/4buk1Dwc5ynSnOGVeMJOON"
+        },
+        {
+          "name": "Deepak Dhillon",
+          "url": "https://open.spotify.com/artist/647Ivke8w05hNzKHs68ZSY"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Medicine",
+      "url": "https://open.spotify.com/track/2QbFuHbPKNWgpqIFQYsUwS"
     },
     {
       "added_at": "2026-11-04 08:11:16",
@@ -1411,30 +1411,6 @@
     {
       "added_at": "2026-11-04 08:11:16",
       "album": {
-        "name": "Mishri Di Dalli",
-        "url": "https://open.spotify.com/album/1N2u2NtCexUJ1yRsK1Sv8t"
-      },
-      "artists": [
-        {
-          "name": "Deep Bajwa",
-          "url": "https://open.spotify.com/artist/13U2oRt6izgyRfuSBbeMTo"
-        },
-        {
-          "name": "Gurlez Akhtar",
-          "url": "https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ"
-        },
-        {
-          "name": "Maahi Sharma",
-          "url": "https://open.spotify.com/artist/3u8IH8WOkyRPMiB07jZknQ"
-        }
-      ],
-      "duration_ms": 227782,
-      "name": "Mishri Di Dalli",
-      "url": "https://open.spotify.com/track/1rUhUE6pjSPCGH6Izy6me2"
-    },
-    {
-      "added_at": "2026-11-04 08:11:16",
-      "album": {
         "name": "Let's Go",
         "url": "https://open.spotify.com/album/327jAkV50zyTcMVyKbKlvu"
       },
@@ -1475,6 +1451,30 @@
       "duration_ms": 233313,
       "name": "Jitt Da Swad",
       "url": "https://open.spotify.com/track/2QvDGjDnWnqPT3Yetnpr7v"
+    },
+    {
+      "added_at": "2026-11-04 08:11:16",
+      "album": {
+        "name": "Mishri Di Dalli",
+        "url": "https://open.spotify.com/album/1N2u2NtCexUJ1yRsK1Sv8t"
+      },
+      "artists": [
+        {
+          "name": "Deep Bajwa",
+          "url": "https://open.spotify.com/artist/13U2oRt6izgyRfuSBbeMTo"
+        },
+        {
+          "name": "Gurlez Akhtar",
+          "url": "https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ"
+        },
+        {
+          "name": "Maahi Sharma",
+          "url": "https://open.spotify.com/artist/3u8IH8WOkyRPMiB07jZknQ"
+        }
+      ],
+      "duration_ms": 227782,
+      "name": "Mishri Di Dalli",
+      "url": "https://open.spotify.com/track/1rUhUE6pjSPCGH6Izy6me2"
     },
     {
       "added_at": "2026-11-04 08:11:16",
@@ -1595,26 +1595,6 @@
     {
       "added_at": "2026-11-04 08:11:16",
       "album": {
-        "name": "Jail (From \"Gangland\")",
-        "url": "https://open.spotify.com/album/1YpVPyz2gOi8IyALPVOLxY"
-      },
-      "artists": [
-        {
-          "name": "Labh Heera",
-          "url": "https://open.spotify.com/artist/4ezwpwbRQF6wEWji17s3Bc"
-        },
-        {
-          "name": "Happy Raikoti",
-          "url": "https://open.spotify.com/artist/6q71Xu33Q9DBhLFSUCLMUM"
-        }
-      ],
-      "duration_ms": 130813,
-      "name": "Jail - From \"Gangland\"",
-      "url": "https://open.spotify.com/track/7eRQ4SHrz44JujBVwrosgw"
-    },
-    {
-      "added_at": "2026-11-04 08:11:16",
-      "album": {
         "name": "Time Chakkna (feat. Jas Grewal)",
         "url": "https://open.spotify.com/album/3sTy5xdFZFQk61K1ZZtUBP"
       },
@@ -1639,6 +1619,26 @@
       "duration_ms": 267918,
       "name": "Time Chakkna (feat. Jas Grewal)",
       "url": "https://open.spotify.com/track/4GCkVArcjqqgg5agaWn4xQ"
+    },
+    {
+      "added_at": "2026-11-04 08:11:16",
+      "album": {
+        "name": "Jail (From \"Gangland\")",
+        "url": "https://open.spotify.com/album/1YpVPyz2gOi8IyALPVOLxY"
+      },
+      "artists": [
+        {
+          "name": "Labh Heera",
+          "url": "https://open.spotify.com/artist/4ezwpwbRQF6wEWji17s3Bc"
+        },
+        {
+          "name": "Happy Raikoti",
+          "url": "https://open.spotify.com/artist/6q71Xu33Q9DBhLFSUCLMUM"
+        }
+      ],
+      "duration_ms": 130813,
+      "name": "Jail - From \"Gangland\"",
+      "url": "https://open.spotify.com/track/7eRQ4SHrz44JujBVwrosgw"
     },
     {
       "added_at": "2026-11-04 08:11:16",
@@ -1691,26 +1691,6 @@
     {
       "added_at": "2026-11-04 08:11:16",
       "album": {
-        "name": "Mada V Nai",
-        "url": "https://open.spotify.com/album/4PNK0EtoPgbaGKEkKV9n6z"
-      },
-      "artists": [
-        {
-          "name": "Korala Maan",
-          "url": "https://open.spotify.com/artist/6WZ8WCYWROs8IyMJOPeJ4G"
-        },
-        {
-          "name": "Gurlez Akhtar",
-          "url": "https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ"
-        }
-      ],
-      "duration_ms": 227159,
-      "name": "Mada V Nai",
-      "url": "https://open.spotify.com/track/4UE4ytRMvq2GOPbcWJLh6u"
-    },
-    {
-      "added_at": "2026-11-04 08:11:16",
-      "album": {
         "name": "KAREEB",
         "url": "https://open.spotify.com/album/0QAgFyTDc54qWQcnRsSyap"
       },
@@ -1727,6 +1707,26 @@
       "duration_ms": 180970,
       "name": "KAREEB",
       "url": "https://open.spotify.com/track/684pfVLmrVEaDhdvLGvXK5"
+    },
+    {
+      "added_at": "2026-11-04 08:11:16",
+      "album": {
+        "name": "Mada V Nai",
+        "url": "https://open.spotify.com/album/4PNK0EtoPgbaGKEkKV9n6z"
+      },
+      "artists": [
+        {
+          "name": "Korala Maan",
+          "url": "https://open.spotify.com/artist/6WZ8WCYWROs8IyMJOPeJ4G"
+        },
+        {
+          "name": "Gurlez Akhtar",
+          "url": "https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ"
+        }
+      ],
+      "duration_ms": 227159,
+      "name": "Mada V Nai",
+      "url": "https://open.spotify.com/track/4UE4ytRMvq2GOPbcWJLh6u"
     },
     {
       "added_at": "2026-11-04 08:11:16",
@@ -1775,6 +1775,22 @@
     {
       "added_at": "2026-11-04 08:11:16",
       "album": {
+        "name": "Pindaan Wale Jatt (Ninja)",
+        "url": "https://open.spotify.com/album/3YlOKBrrHYhHpONpygnHV9"
+      },
+      "artists": [
+        {
+          "name": "Ninja",
+          "url": "https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT"
+        }
+      ],
+      "duration_ms": 244870,
+      "name": "Pindaan Wale Jatt - Ninja",
+      "url": "https://open.spotify.com/track/5cSmrLHBMsEOo6aIkLbjKT"
+    },
+    {
+      "added_at": "2026-11-04 08:11:16",
+      "album": {
         "name": "Main Viyah Nahi Karona Tere Naal ( From \"Main Viyah Nahi Karona Tere Naal\")",
         "url": "https://open.spotify.com/album/6zXWozfozYjPp38rv20Ood"
       },
@@ -1791,22 +1807,6 @@
       "duration_ms": 155908,
       "name": "Main Viyah Nahi Karona Tere Naal ( From \"Main Viyah Nahi Karona Tere Naal\")",
       "url": "https://open.spotify.com/track/3yrfPnfs9hnxGVZk6DOmNn"
-    },
-    {
-      "added_at": "2026-11-04 08:11:16",
-      "album": {
-        "name": "Pindaan Wale Jatt (Ninja)",
-        "url": "https://open.spotify.com/album/3YlOKBrrHYhHpONpygnHV9"
-      },
-      "artists": [
-        {
-          "name": "Ninja",
-          "url": "https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT"
-        }
-      ],
-      "duration_ms": 244870,
-      "name": "Pindaan Wale Jatt - Ninja",
-      "url": "https://open.spotify.com/track/5cSmrLHBMsEOo6aIkLbjKT"
     },
     {
       "added_at": "2026-11-04 08:11:16",
@@ -2043,6 +2043,26 @@
     {
       "added_at": "2026-11-04 08:11:16",
       "album": {
+        "name": "Red Eyes",
+        "url": "https://open.spotify.com/album/1dEfQJHIyCDrgPOC1LitIu"
+      },
+      "artists": [
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        },
+        {
+          "name": "Gurlez Akhtar",
+          "url": "https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ"
+        }
+      ],
+      "duration_ms": 163124,
+      "name": "Red Eyes",
+      "url": "https://open.spotify.com/track/5GZ85mz2Xp6aWuly0RXVTM"
+    },
+    {
+      "added_at": "2026-11-04 08:11:16",
+      "album": {
         "name": "Risk",
         "url": "https://open.spotify.com/album/0t5pMUgOK5i9p2dOdMjtJB"
       },
@@ -2091,50 +2111,6 @@
     {
       "added_at": "2026-11-04 08:11:16",
       "album": {
-        "name": "Lalkare",
-        "url": "https://open.spotify.com/album/1SuDMLLTFub80ckOnlAV1N"
-      },
-      "artists": [
-        {
-          "name": "Ekam Sudhar",
-          "url": "https://open.spotify.com/artist/30QXHMkDM1bkVffpzvrZEy"
-        },
-        {
-          "name": "Desi Trap Music",
-          "url": "https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge"
-        },
-        {
-          "name": "Gavy Dhindsa",
-          "url": "https://open.spotify.com/artist/0XysuA3jRpyGqO8FLXJyz6"
-        }
-      ],
-      "duration_ms": 185217,
-      "name": "Lalkare",
-      "url": "https://open.spotify.com/track/3dzT9yucqZBfOxOVi6hZx4"
-    },
-    {
-      "added_at": "2026-11-04 08:11:16",
-      "album": {
-        "name": "Red Eyes",
-        "url": "https://open.spotify.com/album/1dEfQJHIyCDrgPOC1LitIu"
-      },
-      "artists": [
-        {
-          "name": "Karan Aujla",
-          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
-        },
-        {
-          "name": "Gurlez Akhtar",
-          "url": "https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ"
-        }
-      ],
-      "duration_ms": 163124,
-      "name": "Red Eyes",
-      "url": "https://open.spotify.com/track/5GZ85mz2Xp6aWuly0RXVTM"
-    },
-    {
-      "added_at": "2026-11-04 08:11:16",
-      "album": {
         "name": "Putt Jatt Da",
         "url": "https://open.spotify.com/album/31QB3ZorozmP0wrh62LHMU"
       },
@@ -2155,6 +2131,26 @@
       "duration_ms": 134693,
       "name": "Putt Jatt Da",
       "url": "https://open.spotify.com/track/6x4Y94EQyusi3mcCnUEwjm"
+    },
+    {
+      "added_at": "2026-11-04 08:11:16",
+      "album": {
+        "name": "Prithvi Missile",
+        "url": "https://open.spotify.com/album/2OS2Tw88npn817gUub8Qxx"
+      },
+      "artists": [
+        {
+          "name": "Deep Bajwa",
+          "url": "https://open.spotify.com/artist/13U2oRt6izgyRfuSBbeMTo"
+        },
+        {
+          "name": "Gurlez Akhtar",
+          "url": "https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ"
+        }
+      ],
+      "duration_ms": 183453,
+      "name": "MALAYI WARGI",
+      "url": "https://open.spotify.com/track/04f2KFYjBARqShVTvG4htv"
     }
   ],
   "unique_name": "Bhangra Bangers",

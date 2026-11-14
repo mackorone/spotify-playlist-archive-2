@@ -1,6 +1,6 @@
 {
   "description": "\u0639\u064a\u0634 \u0623\u062c\u0645\u0644 \u062d\u0627\u0644\u0629 \u062d\u0628 \ud83e\udef6\u2764\ufe0f\n ",
-  "num_followers": 207111,
+  "num_followers": 207145,
   "original_name": "\u062d\u0628 \u0648\u063a\u0631\u0627\u0645",
   "owner": {
     "name": "Spotify",
@@ -251,6 +251,38 @@
     {
       "added_at": "2026-11-11 11:17:07",
       "album": {
+        "name": "\u0643\u0627\u064a\u0631\u0648\u0643\u064a \u0645\u0646 \u0627\u0644\u0627\u0633\u062a\u0648\u062f\u064a\u0648",
+        "url": "https://open.spotify.com/album/7h5YXGDPG5nC2yNfRe5lLp"
+      },
+      "artists": [
+        {
+          "name": "Cairokee",
+          "url": "https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "\u0644\u064a\u0644\u0649 - \u0643\u0627\u064a\u0631\u0648\u0643\u064a \u0645\u0646 \u0627\u0644\u0627\u0633\u062a\u0648\u062f\u064a\u0648",
+      "url": "https://open.spotify.com/track/5JtRiVuQRKqoEfueP1FVvU"
+    },
+    {
+      "added_at": "2026-11-11 11:17:07",
+      "album": {
+        "name": "\u0643\u0648\u0643\u062a\u064a\u0644 \u063a\u0646\u0627\u0626\u064a \u0644\u0644\u0641\u0646\u0627\u0646 \u062a\u0648\u0648\u0644\u064a\u062a \u062d\u0635\u0631\u064a\u0627\u064b \u0644\u062d\u0628\u0627\u064a\u0628 \u0642\u0644\u0628\u064a",
+        "url": "https://open.spotify.com/album/42aXaZ9YPO28BbWlTLXVXV"
+      },
+      "artists": [
+        {
+          "name": "TUL8TE",
+          "url": "https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf"
+        }
+      ],
+      "duration_ms": 145454,
+      "name": "\u0645\u0627\u062a\u064a\u062c\u064a \u0627\u0639\u062f\u064a \u0639\u0644\u064a\u0643\u064a",
+      "url": "https://open.spotify.com/track/5ks7fVLJY4QRlAALIqJfMR"
+    },
+    {
+      "added_at": "2026-11-11 11:17:07",
+      "album": {
         "name": "Kan 3ala 3eny (Red Bull Mazzika Salonat)",
         "url": "https://open.spotify.com/album/7HLh6PGIFjgHlLxNCKEK6l"
       },
@@ -275,38 +307,6 @@
       "duration_ms": 127329,
       "name": "Kan 3ala 3eny - Red Bull Mazzika Salonat",
       "url": "https://open.spotify.com/track/48tGSTYyKXZiHgwPDObPe1"
-    },
-    {
-      "added_at": "2026-11-11 11:17:07",
-      "album": {
-        "name": "\u0643\u0648\u0643\u062a\u064a\u0644 \u063a\u0646\u0627\u0626\u064a \u0644\u0644\u0641\u0646\u0627\u0646 \u062a\u0648\u0648\u0644\u064a\u062a \u062d\u0635\u0631\u064a\u0627\u064b \u0644\u062d\u0628\u0627\u064a\u0628 \u0642\u0644\u0628\u064a",
-        "url": "https://open.spotify.com/album/42aXaZ9YPO28BbWlTLXVXV"
-      },
-      "artists": [
-        {
-          "name": "TUL8TE",
-          "url": "https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf"
-        }
-      ],
-      "duration_ms": 145454,
-      "name": "\u0645\u0627\u062a\u064a\u062c\u064a \u0627\u0639\u062f\u064a \u0639\u0644\u064a\u0643\u064a",
-      "url": "https://open.spotify.com/track/5ks7fVLJY4QRlAALIqJfMR"
-    },
-    {
-      "added_at": "2026-11-11 11:17:07",
-      "album": {
-        "name": "\u0643\u0627\u064a\u0631\u0648\u0643\u064a \u0645\u0646 \u0627\u0644\u0627\u0633\u062a\u0648\u062f\u064a\u0648",
-        "url": "https://open.spotify.com/album/7h5YXGDPG5nC2yNfRe5lLp"
-      },
-      "artists": [
-        {
-          "name": "Cairokee",
-          "url": "https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "\u0644\u064a\u0644\u0649 - \u0643\u0627\u064a\u0631\u0648\u0643\u064a \u0645\u0646 \u0627\u0644\u0627\u0633\u062a\u0648\u062f\u064a\u0648",
-      "url": "https://open.spotify.com/track/5JtRiVuQRKqoEfueP1FVvU"
     },
     {
       "added_at": "2026-11-11 11:17:07",
@@ -375,18 +375,18 @@
     {
       "added_at": "2026-11-11 11:17:07",
       "album": {
-        "name": "Tegy Ntrahn",
-        "url": "https://open.spotify.com/album/45VciPIELkkQgWSkS2QLlq"
+        "name": "\u062e\u0644\u064a\u0646\u064a \u0634\u0648\u064a\u0629 \u0645\u0639\u0627\u0643",
+        "url": "https://open.spotify.com/album/7CltOkKejw4x6BoD3aWOZc"
       },
       "artists": [
         {
-          "name": "Tamer Ashour",
-          "url": "https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F"
+          "name": "Angham",
+          "url": "https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg"
         }
       ],
-      "duration_ms": 196650,
-      "name": "Khaleny Fe Hodnak",
-      "url": "https://open.spotify.com/track/6yVGUtmHwDsqqXs1Lak423"
+      "duration_ms": 252065,
+      "name": "\u062e\u0644\u064a\u0646\u064a \u0634\u0648\u064a\u0629 \u0645\u0639\u0627\u0643",
+      "url": "https://open.spotify.com/track/72MgKDXeRf7NRQ2kMUmags"
     },
     {
       "added_at": "2026-11-11 11:17:07",
@@ -423,18 +423,18 @@
     {
       "added_at": "2026-11-11 11:17:07",
       "album": {
-        "name": "\u062e\u0644\u064a\u0646\u064a \u0634\u0648\u064a\u0629 \u0645\u0639\u0627\u0643",
-        "url": "https://open.spotify.com/album/7CltOkKejw4x6BoD3aWOZc"
+        "name": "Tegy Ntrahn",
+        "url": "https://open.spotify.com/album/45VciPIELkkQgWSkS2QLlq"
       },
       "artists": [
         {
-          "name": "Angham",
-          "url": "https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg"
+          "name": "Tamer Ashour",
+          "url": "https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F"
         }
       ],
-      "duration_ms": 252065,
-      "name": "\u062e\u0644\u064a\u0646\u064a \u0634\u0648\u064a\u0629 \u0645\u0639\u0627\u0643",
-      "url": "https://open.spotify.com/track/72MgKDXeRf7NRQ2kMUmags"
+      "duration_ms": 196650,
+      "name": "Khaleny Fe Hodnak",
+      "url": "https://open.spotify.com/track/6yVGUtmHwDsqqXs1Lak423"
     },
     {
       "added_at": "2026-11-11 11:17:07",
@@ -475,22 +475,6 @@
     {
       "added_at": "2026-11-11 11:17:07",
       "album": {
-        "name": "\u062d\u0643\u0627\u064a\u062a\u0646\u0627 \u0643\u0645\u0644\u062a",
-        "url": "https://open.spotify.com/album/0Su6W3vrDEQcltG8oaAotv"
-      },
-      "artists": [
-        {
-          "name": "Haytham Shaker",
-          "url": "https://open.spotify.com/artist/6qRALpme6YIgJ8jWM2D0G2"
-        }
-      ],
-      "duration_ms": 294428,
-      "name": "\u062d\u0643\u0627\u064a\u062a\u0646\u0627 \u0643\u0645\u0644\u062a",
-      "url": "https://open.spotify.com/track/61y67cugb9V3cJPhS7IY91"
-    },
-    {
-      "added_at": "2026-11-11 11:17:07",
-      "album": {
         "name": "\u0646\u0633\u0627\u0649",
         "url": "https://open.spotify.com/album/1aCq7XjXXVc3WxPYYUrbeP"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 197302,
       "name": "\u0646\u0633\u0627\u0649",
       "url": "https://open.spotify.com/track/2AVA6NJZXA7UERS5nnsTzz"
+    },
+    {
+      "added_at": "2026-11-11 11:17:07",
+      "album": {
+        "name": "\u062d\u0643\u0627\u064a\u062a\u0646\u0627 \u0643\u0645\u0644\u062a",
+        "url": "https://open.spotify.com/album/0Su6W3vrDEQcltG8oaAotv"
+      },
+      "artists": [
+        {
+          "name": "Haytham Shaker",
+          "url": "https://open.spotify.com/artist/6qRALpme6YIgJ8jWM2D0G2"
+        }
+      ],
+      "duration_ms": 294428,
+      "name": "\u062d\u0643\u0627\u064a\u062a\u0646\u0627 \u0643\u0645\u0644\u062a",
+      "url": "https://open.spotify.com/track/61y67cugb9V3cJPhS7IY91"
     },
     {
       "added_at": "2026-11-11 11:17:07",
@@ -636,9 +636,9 @@
           "url": "https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy"
         }
       ],
-      "duration_ms": 209706,
-      "name": "Ya Waheshny",
-      "url": "https://open.spotify.com/track/4GJKGy6B1G1G4g7fRkKfEh"
+      "duration_ms": 316880,
+      "name": "Etamen",
+      "url": "https://open.spotify.com/track/5ti8xf2EXHvNFipCq7MzNa"
     },
     {
       "added_at": "2026-11-11 11:17:07",
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy"
         }
       ],
-      "duration_ms": 316880,
-      "name": "Etamen",
-      "url": "https://open.spotify.com/track/5ti8xf2EXHvNFipCq7MzNa"
+      "duration_ms": 209706,
+      "name": "Ya Waheshny",
+      "url": "https://open.spotify.com/track/4GJKGy6B1G1G4g7fRkKfEh"
     },
     {
       "added_at": "2026-11-11 11:17:07",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2026-11-11 11:17:07",
       "album": {
-        "name": "\u0645\u062e\u0632\u0648\u0646 \u0627\u0644\u0633\u0639\u0627\u062f\u0629",
-        "url": "https://open.spotify.com/album/2HosZ208SfTstQtPXfccAC"
-      },
-      "artists": [
-        {
-          "name": "Saber Rebai",
-          "url": "https://open.spotify.com/artist/7Fqe0QpkJOM26wbeHGEKbD"
-        }
-      ],
-      "duration_ms": 232371,
-      "name": "\u0645\u062e\u0632\u0648\u0646 \u0627\u0644\u0633\u0639\u0627\u062f\u0629",
-      "url": "https://open.spotify.com/track/2hUeDTrPK1CoYt954u4TQF"
-    },
-    {
-      "added_at": "2026-11-11 11:17:07",
-      "album": {
         "name": "\u062f\u0647 \u0642\u0644\u0628\u064a \u062f\u0647",
         "url": "https://open.spotify.com/album/5Bojtv4l3gbG6ZsZ6WbDNl"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 178751,
       "name": "\u062f\u0647 \u0642\u0644\u0628\u064a \u062f\u0647",
       "url": "https://open.spotify.com/track/4r7wv4TkFq2yu2R3B294Gt"
+    },
+    {
+      "added_at": "2026-11-11 11:17:07",
+      "album": {
+        "name": "\u0645\u062e\u0632\u0648\u0646 \u0627\u0644\u0633\u0639\u0627\u062f\u0629",
+        "url": "https://open.spotify.com/album/2HosZ208SfTstQtPXfccAC"
+      },
+      "artists": [
+        {
+          "name": "Saber Rebai",
+          "url": "https://open.spotify.com/artist/7Fqe0QpkJOM26wbeHGEKbD"
+        }
+      ],
+      "duration_ms": 232371,
+      "name": "\u0645\u062e\u0632\u0648\u0646 \u0627\u0644\u0633\u0639\u0627\u062f\u0629",
+      "url": "https://open.spotify.com/track/2hUeDTrPK1CoYt954u4TQF"
     },
     {
       "added_at": "2026-11-11 11:17:07",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bKKZsnMo7c.md) - [plain]
 
 > Dramatic, theatrical pop: PEGGY it's your moment!
 
-[Spotify](https://open.spotify.com/user/spotify) - 572,202 likes - 78 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 572,233 likes - 78 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

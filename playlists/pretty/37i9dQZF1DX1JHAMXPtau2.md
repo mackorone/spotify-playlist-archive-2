@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1JHAMXPtau2.md) - [plain]
 
 > Soft and cozy piano versions of all your favourite Christmas songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,027 likes - 40 songs - 1 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,038 likes - 40 songs - 1 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1JHAMXPtau2.md) - [plain]
 | 39 | [Light of the World](https://open.spotify.com/track/5HmHdOfFEGyrFihRHtx8jv) | [Faye Mosley](https://open.spotify.com/artist/50JVQBWkJTwvTOAvhgcBhv) | [Light of the World](https://open.spotify.com/album/2yNYgL3DzPYgnChLSAS5h7) | 1:45 |
 | 40 | [Holly Jolly Christmas](https://open.spotify.com/track/0quJINxC2EJafaaAFYA2sE) | [Mauro Meira](https://open.spotify.com/artist/5P3e6ZdtW6wdkTG7Fu7WBr) | [Holly Jolly Christmas](https://open.spotify.com/album/0AdbsAnET4JV9zsd9LTHDd) | 2:03 |
 
-Snapshot ID: `AAAAAGWxHK/guua9Rl3CxkyJc8oQOPJP`
+Snapshot ID: `AAAAAD0ducmRkBEyo9PeLsxagA5jWE+S`

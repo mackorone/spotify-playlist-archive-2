@@ -1,12 +1,12 @@
 {
   "description": "This is Tex Tex. The essential tracks, all in one playlist.",
-  "num_followers": 10418,
+  "num_followers": 10422,
   "original_name": "This Is Tex Tex",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avOwAAAAAAA4QEKDhSz8TZIJtkSPSIIr",
+  "snapshot_id": "avUBgAAAAAB5md78IQvZfoXS3x6wcgIh",
   "tracks": [
     {
       "added_at": null,
@@ -391,22 +391,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Un Toque M\u00e1gico",
-        "url": "https://open.spotify.com/album/3zzCO3IF6stGacEWhcQch4"
-      },
-      "artists": [
-        {
-          "name": "Tex Tex",
-          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
-        }
-      ],
-      "duration_ms": 167706,
-      "name": "Ahora Ya No Te Quiero",
-      "url": "https://open.spotify.com/track/5yAxyJy2Q94AJM2NKlsYZK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Srita Martinez Punk",
         "url": "https://open.spotify.com/album/7zUKgICWPou4BmMc0cYNGV"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 198240,
       "name": "Srita Martinez Punk",
       "url": "https://open.spotify.com/track/5xtJYEAXKpBNFQZisiS9sr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Un Toque M\u00e1gico",
+        "url": "https://open.spotify.com/album/3zzCO3IF6stGacEWhcQch4"
+      },
+      "artists": [
+        {
+          "name": "Tex Tex",
+          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
+        }
+      ],
+      "duration_ms": 167706,
+      "name": "Ahora Ya No Te Quiero",
+      "url": "https://open.spotify.com/track/5yAxyJy2Q94AJM2NKlsYZK"
     },
     {
       "added_at": null,
@@ -567,6 +567,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tex Tex 3",
+        "url": "https://open.spotify.com/album/5BuYyEm2Snig5UeVJZpX0H"
+      },
+      "artists": [
+        {
+          "name": "Tex Tex",
+          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
+        }
+      ],
+      "duration_ms": 229381,
+      "name": "Martin Rocka",
+      "url": "https://open.spotify.com/track/5xL2vEGWsqCX6xW6iHwdWB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Fiesta",
         "url": "https://open.spotify.com/album/5NMDR1l1QRdzUgOQNlFNN8"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 243760,
       "name": "4to y 5to Paso",
       "url": "https://open.spotify.com/track/5xO5xjE7V5W5RwyCeksSlS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tex Tex 3",
-        "url": "https://open.spotify.com/album/5BuYyEm2Snig5UeVJZpX0H"
-      },
-      "artists": [
-        {
-          "name": "Tex Tex",
-          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
-        }
-      ],
-      "duration_ms": 194246,
-      "name": "Ya Te Rogue",
-      "url": "https://open.spotify.com/track/3lBWJL1zvWsmLml9uiBjmp"
     },
     {
       "added_at": null,
@@ -631,6 +631,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tex Tex 3",
+        "url": "https://open.spotify.com/album/5BuYyEm2Snig5UeVJZpX0H"
+      },
+      "artists": [
+        {
+          "name": "Tex Tex",
+          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
+        }
+      ],
+      "duration_ms": 194246,
+      "name": "Ya Te Rogue",
+      "url": "https://open.spotify.com/track/3lBWJL1zvWsmLml9uiBjmp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Me Haces Volar",
         "url": "https://open.spotify.com/album/258YrXJW3cZPhinJpiCKef"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 320733,
       "name": "Teor\u00eda de Caos",
       "url": "https://open.spotify.com/track/7HQCXa85x99iHBezrwowDY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tex Tex 3",
-        "url": "https://open.spotify.com/album/5BuYyEm2Snig5UeVJZpX0H"
-      },
-      "artists": [
-        {
-          "name": "Tex Tex",
-          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
-        }
-      ],
-      "duration_ms": 229381,
-      "name": "Martin Rocka",
-      "url": "https://open.spotify.com/track/5xL2vEGWsqCX6xW6iHwdWB"
     },
     {
       "added_at": null,
@@ -727,8 +727,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Mu\u00f1ecos Desenchufados (En Vivo) [Serie Alive]",
-        "url": "https://open.spotify.com/album/7pixSb8mEYaDg1Nk6oak9I"
+        "name": "*86",
+        "url": "https://open.spotify.com/album/2A8yt2oR5jQKQusczF0jyA"
       },
       "artists": [
         {
@@ -736,9 +736,9 @@
           "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
         }
       ],
-      "duration_ms": 311760,
-      "name": "Funky, Pt. 1 - En Vivo",
-      "url": "https://open.spotify.com/track/5gYOs5IL03sXdbsYT58xeI"
+      "duration_ms": 228920,
+      "name": "La Culpa",
+      "url": "https://open.spotify.com/track/6xzN2GeFUEzrCobeGICtFz"
     },
     {
       "added_at": null,
@@ -759,8 +759,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "*86",
-        "url": "https://open.spotify.com/album/2A8yt2oR5jQKQusczF0jyA"
+        "name": "Los Mu\u00f1ecos Desenchufados (En Vivo) [Serie Alive]",
+        "url": "https://open.spotify.com/album/7pixSb8mEYaDg1Nk6oak9I"
       },
       "artists": [
         {
@@ -768,9 +768,9 @@
           "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
         }
       ],
-      "duration_ms": 228920,
-      "name": "La Culpa",
-      "url": "https://open.spotify.com/track/6xzN2GeFUEzrCobeGICtFz"
+      "duration_ms": 311760,
+      "name": "Funky, Pt. 1 - En Vivo",
+      "url": "https://open.spotify.com/track/5gYOs5IL03sXdbsYT58xeI"
     },
     {
       "added_at": null,
@@ -791,22 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hombre Afortunado",
-        "url": "https://open.spotify.com/album/2TDsxyCXFpUuMYgIWdtriW"
-      },
-      "artists": [
-        {
-          "name": "Tex Tex",
-          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
-        }
-      ],
-      "duration_ms": 277556,
-      "name": "Tex Tex Boogie",
-      "url": "https://open.spotify.com/track/6DQGq9NknX23NMBIgQs83m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Fiesta",
         "url": "https://open.spotify.com/album/5NMDR1l1QRdzUgOQNlFNN8"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 191746,
       "name": "Octubre 68",
       "url": "https://open.spotify.com/track/1gbPPseEPr7MqjBDL4ckx8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hombre Afortunado",
+        "url": "https://open.spotify.com/album/2TDsxyCXFpUuMYgIWdtriW"
+      },
+      "artists": [
+        {
+          "name": "Tex Tex",
+          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
+        }
+      ],
+      "duration_ms": 277556,
+      "name": "Tex Tex Boogie",
+      "url": "https://open.spotify.com/track/6DQGq9NknX23NMBIgQs83m"
     }
   ],
   "unique_name": "This Is Tex Tex",

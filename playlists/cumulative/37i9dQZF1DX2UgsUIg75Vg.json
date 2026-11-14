@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-07-10",
-  "description": "Chill r&b. Cover: nomi.",
+  "description": "Chill r&b. Cover: LAYA",
   "name": "Chilled R&B",
   "tracks": [
     {
@@ -2176,7 +2176,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 158677,
       "name": "Are You Ok? (feat. Pharrell Williams)",
       "url": "https://open.spotify.com/track/4h4eZMcBrKu9NcS3KoWzqP"
@@ -4218,7 +4218,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 151951,
       "name": "Body So Tea",
       "url": "https://open.spotify.com/track/2V1ne5a2MBngWduIph5pqg"
@@ -5256,7 +5256,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 216247,
       "name": "CAN I WATCH YOU (feat. Pharrell Williams)",
       "url": "https://open.spotify.com/track/25kqjl0To6q08zgnRkKqE1"
@@ -8084,7 +8084,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 195279,
       "name": "DIAMOND GOLD",
       "url": "https://open.spotify.com/track/1HDemO62blrYXP4IuZv0Ta"
@@ -9850,7 +9850,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 262968,
       "name": "fade",
       "url": "https://open.spotify.com/track/2ryhtkGQue7aDgW6yvd3IY"
@@ -11012,10 +11012,32 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 186716,
       "name": "FLY",
       "url": "https://open.spotify.com/track/2AaDINmyHvzElSXWQ0tmrb"
+    },
+    {
+      "album": {
+        "name": "Fly (feat. Muni Long)",
+        "url": "https://open.spotify.com/album/28VfI5mxbTg8T1VQcjpIwJ"
+      },
+      "artists": [
+        {
+          "name": "Tone Stith",
+          "url": "https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44"
+        },
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214522,
+      "name": "Fly (feat. Muni Long)",
+      "url": "https://open.spotify.com/track/6LelmrJwN9peV60f3KNI6N"
     },
     {
       "album": {
@@ -14638,7 +14660,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 171333,
       "name": "HONEYMOON",
       "url": "https://open.spotify.com/track/3MGuSdChxG0ejAS6Erbshd"
@@ -14660,6 +14682,28 @@
       "duration_ms": 171333,
       "name": "HONEYMOON",
       "url": "https://open.spotify.com/track/6mRsXDGxxL6jGhyunWK6xu"
+    },
+    {
+      "album": {
+        "name": "HONEYMOON Remix (with Craig David)",
+        "url": "https://open.spotify.com/album/737OIezy5ApYIKSsl9zlpA"
+      },
+      "artists": [
+        {
+          "name": "Parisalexa",
+          "url": "https://open.spotify.com/artist/7CZXfBcIhQ2dPEqk3N74vV"
+        },
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171333,
+      "name": "HONEYMOON Remix (with Craig David)",
+      "url": "https://open.spotify.com/track/5GpN4aH67xZ28HvpvmD1LI"
     },
     {
       "album": {
@@ -15380,10 +15424,28 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 197760,
       "name": "I Love You",
       "url": "https://open.spotify.com/track/0yXMe310dgpquMTa7OmHKk"
+    },
+    {
+      "album": {
+        "name": "Legendary Love",
+        "url": "https://open.spotify.com/album/74ExA1UleSA3kSC0TyNObv"
+      },
+      "artists": [
+        {
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197760,
+      "name": "I Love You",
+      "url": "https://open.spotify.com/track/31P54A2UCu7hWuPHOIIbj9"
     },
     {
       "album": {
@@ -18617,6 +18679,28 @@
     },
     {
       "album": {
+        "name": "Lo Life",
+        "url": "https://open.spotify.com/album/5f6nHSXSMH6LpDY6om6zdH"
+      },
+      "artists": [
+        {
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        },
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234665,
+      "name": "Lo Life",
+      "url": "https://open.spotify.com/track/7sCpLpIQ11hhAPwEXgyAwM"
+    },
+    {
+      "album": {
         "name": "PHOLKS",
         "url": "https://open.spotify.com/album/6ph5zbGAudn0EKyw3vXbXM"
       },
@@ -19770,6 +19854,28 @@
       "duration_ms": 284893,
       "name": "Magic",
       "url": "https://open.spotify.com/track/3WCVRAaJUfXg6Cxf4FhfvQ"
+    },
+    {
+      "album": {
+        "name": "Simulation Blue",
+        "url": "https://open.spotify.com/album/7zBQKkz4PN69UgRPEoolGV"
+      },
+      "artists": [
+        {
+          "name": "Taner\u00e9lle",
+          "url": "https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH"
+        },
+        {
+          "name": "Ambr\u00e9",
+          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152426,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/7o0Nw1ab2ZqHYNUatC4IdR"
     },
     {
       "album": {
@@ -28437,6 +28543,36 @@
     },
     {
       "album": {
+        "name": "Simple Things",
+        "url": "https://open.spotify.com/album/3R2nfobAgdLBHURt1ARtgz"
+      },
+      "artists": [
+        {
+          "name": "DJ Tunez",
+          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
+        },
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        },
+        {
+          "name": "Mannywellz",
+          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
+        },
+        {
+          "name": "Kemuel",
+          "url": "https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255937,
+      "name": "Simple Things",
+      "url": "https://open.spotify.com/track/3E7NkEAoKr2wbvB1gi4Zn6"
+    },
+    {
+      "album": {
         "name": "SAFE FLIGHT",
         "url": "https://open.spotify.com/album/37FUdgp35njUxws7l0WCep"
       },
@@ -30704,7 +30840,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 168279,
       "name": "Summer Nights",
       "url": "https://open.spotify.com/track/2c1JvWrJI8vQN89BcnKVtg"
@@ -30904,6 +31040,24 @@
       "duration_ms": 153596,
       "name": "Superstar",
       "url": "https://open.spotify.com/track/55q1k6Ewwy1CWdHT4niANb"
+    },
+    {
+      "album": {
+        "name": "Superstar",
+        "url": "https://open.spotify.com/album/4sKsFOnc9e3niSU2oSBr84"
+      },
+      "artists": [
+        {
+          "name": "Maeta",
+          "url": "https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175972,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/0pwsSPpKWAkvJZsNI3Btu4"
     },
     {
       "album": {
@@ -32467,6 +32621,24 @@
     },
     {
       "album": {
+        "name": "Me My Songs & I",
+        "url": "https://open.spotify.com/album/2GziuyAce7KXng6HquCtJu"
+      },
+      "artists": [
+        {
+          "name": "JayDon",
+          "url": "https://open.spotify.com/artist/2wrxoZjEVKfJZhxCiqK0ju"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170769,
+      "name": "The Way You Move",
+      "url": "https://open.spotify.com/track/1mnuai6bn7yNwQ6IhxT4AC"
+    },
+    {
+      "album": {
         "name": "Don't Get Too Cozy",
         "url": "https://open.spotify.com/album/3fGURvjAC7mZz3nMfPRRBI"
       },
@@ -32942,6 +33114,24 @@
       "duration_ms": 199622,
       "name": "Time Today - Remix",
       "url": "https://open.spotify.com/track/6xQObuonHYg7NbuHngLlcg"
+    },
+    {
+      "album": {
+        "name": "Legendary Love",
+        "url": "https://open.spotify.com/album/74ExA1UleSA3kSC0TyNObv"
+      },
+      "artists": [
+        {
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220080,
+      "name": "Timeless",
+      "url": "https://open.spotify.com/track/3BQes6FigrqLHU08KNtdG0"
     },
     {
       "album": {
@@ -33534,6 +33724,24 @@
       "duration_ms": 208133,
       "name": "Trip",
       "url": "https://open.spotify.com/track/3MPh6fCxLilH9ZJ1sTLBlN"
+    },
+    {
+      "album": {
+        "name": "Trophy",
+        "url": "https://open.spotify.com/album/3GKB75ijlo1b33UVr809hQ"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245815,
+      "name": "Trophy",
+      "url": "https://open.spotify.com/track/1I2QdqvSz7AeMPVZJheUcj"
     },
     {
       "album": {
@@ -35154,6 +35362,28 @@
     {
       "album": {
         "name": "Westside",
+        "url": "https://open.spotify.com/album/4ZOaUTaLlFUjXX7YLl8TYL"
+      },
+      "artists": [
+        {
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Westside",
+      "url": "https://open.spotify.com/track/5oI9TTtpWU1bxS7COtNy9r"
+    },
+    {
+      "album": {
+        "name": "Westside",
         "url": "https://open.spotify.com/album/3QJg2RbY18wsOOvOVG0GPo"
       },
       "artists": [
@@ -35182,7 +35412,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 198352,
       "name": "Westside - Stripped",
       "url": "https://open.spotify.com/track/72AbuBAmAw25LzCJvBbFbi"
@@ -36160,7 +36390,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 120000,
       "name": "Wrapped Around",
       "url": "https://open.spotify.com/track/2GJoaZtUC01huAEcKuxtTF"

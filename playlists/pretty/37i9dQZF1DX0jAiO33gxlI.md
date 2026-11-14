@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap nacional\. Foto: Mc Luanna
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,073 likes - 75 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,120 likes - 75 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 17 | [EM SEGUNDOS](https://open.spotify.com/track/5tjLCamHQZg3moKHQLHaUG) | [Gabriel Maré](https://open.spotify.com/artist/1biHMI6ghANuhdOWKRcwJL), [Mozart Mz](https://open.spotify.com/artist/5IpCG7K8h5YfPavIWLf2ne), [Knust](https://open.spotify.com/artist/7Ceg1mJmu4lAzuhQU9hQFJ), [ProdGalician](https://open.spotify.com/artist/0yefXKWBoHatvo2VqK3GXF) | [EM SEGUNDOS](https://open.spotify.com/album/3qCqHQxiBL3S3HygezVqQB) | 2:18 |
 | 18 | [Lenda Urbana](https://open.spotify.com/track/3Id4YKOgH2LIXRopBNrC4O) | [Bob do Contra](https://open.spotify.com/artist/4DITWCDQL8b3VZTBYpNDR9), [MV Bill](https://open.spotify.com/artist/4oE4ASN8auDhoW9vsXp3VJ), [Erik Scratch](https://open.spotify.com/artist/3Iu0mvYNyfknDYEwyBEQ1p), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Ian Zin](https://open.spotify.com/artist/0U0itLMcqObDNyHmf8Zjbv), [Medeirin](https://open.spotify.com/artist/5tcxdFeTo2jbqv7b2TqIMz) | [A Sombra & a Escuridão Vol 1](https://open.spotify.com/album/75zmViXPUMLVnj6TgGFjM0) | 3:08 |
 | 19 | [Odisséia](https://open.spotify.com/track/2kqtCXFvh5YWS0ERRBn0zX) | [ZAPPAZ](https://open.spotify.com/artist/5Su7OQKea4SE3BEkca7PLB) | [POLÍMNIA](https://open.spotify.com/album/4PhvwjqyrasZQwZJx1K65D) | 3:32 |
-| 20 | [Jóia Quente](https://open.spotify.com/track/74Qtpepoyxb1rvV4d9ZOlj) | [SAMPAIO](https://open.spotify.com/artist/3eOttDX2VIJ2j4AyVmyZsS), [MC KTRINE](https://open.spotify.com/artist/5OYUyB5akCjyfKq9TDn283) | [Jóia Quente](https://open.spotify.com/album/0kxkn4ikzJPCdhqUZAvCyB) | 2:36 |
+| 20 | [Jóia Quente](https://open.spotify.com/track/74Qtpepoyxb1rvV4d9ZOlj) | [SAMPAIO](https://open.spotify.com/artist/3eOttDX2VIJ2j4AyVmyZsS), [MC KTRINE](https://open.spotify.com/artist/5OYUyB5akCjyfKq9TDn283), [ATLXTA](https://open.spotify.com/artist/00S1IX5nK8vgnVvWkqamIL) | [Jóia Quente](https://open.spotify.com/album/0kxkn4ikzJPCdhqUZAvCyB) | 2:36 |
 | 21 | [Vendido](https://open.spotify.com/track/6Xp4eEL1nvCRzvFCAyE2a4) | [AR Baby](https://open.spotify.com/artist/2AT3153fquK7QLZYfOLi9K), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Vendido](https://open.spotify.com/album/6AePBZSfi8QvTQMx42XFYW) | 3:06 |
 | 22 | [É preciso dar um jeito](https://open.spotify.com/track/57qpVUY4YgYtstOurp1q43) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Erasmo Carlos](https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz), [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv), [HHR](https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu) | [DE VOLTA AO PODIUM](https://open.spotify.com/album/5m3VPfm3LmqDMgdNTjDXrn) | 3:13 |
 | 23 | [Profecias Profanas](https://open.spotify.com/track/3DOrShD5N4UlbIjyT06f8j) | [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55), [Matchola](https://open.spotify.com/artist/5FK5T4mGxkfedPwBdFnw1X), [Mvzza](https://open.spotify.com/artist/2fkE2uxHML1rUsTu0h5LJf) | [Última Mesa da Lapa](https://open.spotify.com/album/2kAUuUekQJv6ysJsEL4nHl) | 2:53 |

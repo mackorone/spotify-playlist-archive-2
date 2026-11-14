@@ -4,7 +4,7 @@
 
 > The cinnamon\-infused, crisp\-air\-breathing, crunchy\-leaves\-walking, chunky\-knit\-wearing, seasonal\-latte\-drinking playlist.
 
-414 songs - 1 day 2 hr 11 min
+415 songs - 1 day 2 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Arcadia](https://open.spotify.com/track/1vLmc6JVzSGVnUT3BMfKXZ) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Arcadia](https://open.spotify.com/album/6KpJMQZAI4thJHoBzawHnZ) | 3:30 | 2022-08-15 | 2024-08-20 |
 | [Arm's Length](https://open.spotify.com/track/6ty3uMPCIEGVgGbrvHfeoU) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [People Watching](https://open.spotify.com/album/6Abecbed8BYAdHy9RaVoY7) | 3:59 | 2025-09-23 |  |
 | [Artwork](https://open.spotify.com/track/0Kr6LvnbS1WtYIMk373tY7) | [Will Troy](https://open.spotify.com/artist/2D9TZalGr1SmjkGguD6Jy1) | [All Our Ceiling Sees](https://open.spotify.com/album/7dSE4DyqCxVW95ALh5ORna) | 4:19 | 2023-08-08 | 2024-08-19 |
-| [As Good As It Gets](https://open.spotify.com/track/5O67j68tABBNPnVWrS9TWN) | [Katie Gavin](https://open.spotify.com/artist/0DpJl9MRib7qywJOoYqEZg), [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [What A Relief](https://open.spotify.com/album/63ZainyDDxb0MQ73Q8IyXZ) | 3:02 | 2024-10-28 |  |
+| [As Good As It Gets](https://open.spotify.com/track/5O67j68tABBNPnVWrS9TWN) | [Katie Gavin](https://open.spotify.com/artist/0DpJl9MRib7qywJOoYqEZg), [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [What A Relief](https://open.spotify.com/album/63ZainyDDxb0MQ73Q8IyXZ) | 3:02 | 2024-10-28 | 2026-11-14 |
 | [Astrovan](https://open.spotify.com/track/14e46mURUUwB3i2vTe1gFz) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Mt\. Joy](https://open.spotify.com/album/5h9FO7QRZMcrcnSYvihQ01) | 3:06 | 2021-12-03 | 2022-09-17 |
 | [Atlas Hands](https://open.spotify.com/track/3mmfvZSZTTMSE8GTuS7rGH) | [Benjamin Francis Leftwich](https://open.spotify.com/artist/7D5oTJSXSHf51auG0106CQ) | [Last Smoke Before the Snowstorm \(Deluxe Version\)](https://open.spotify.com/album/1eS5FLI6q24t4wONeOzrj5) | 2:53 | 2023-09-21 | 2023-11-09 |
 | [Atlas Hands](https://open.spotify.com/track/4gSYPXqENGdaJiwm6W0hkQ) | [Benjamin Francis Leftwich](https://open.spotify.com/artist/7D5oTJSXSHf51auG0106CQ) | [Last Smoke Before the Snowstorm](https://open.spotify.com/album/2V5uxReEmjn0j5tAG6oHI0) | 2:53 | 2021-12-03 | 2024-08-19 |
@@ -290,6 +290,7 @@
 | [racetrack](https://open.spotify.com/track/48yA757PIMqJsXhP1snqso) | [carwash](https://open.spotify.com/artist/53k2km8u55n9YaJJB7scjX) | [racetrack](https://open.spotify.com/album/0RuT3dmCkAsXkurFEXAjfV) | 4:12 | 2021-12-03 | 2022-07-29 |
 | [racetrack](https://open.spotify.com/track/6mYLzPdDcGMMRLSPf1tXh6) | [carwash](https://open.spotify.com/artist/53k2km8u55n9YaJJB7scjX) | [racetrack](https://open.spotify.com/album/7JfaQkDno43r69vsZ3OPYo) | 4:12 | 2022-06-22 | 2022-08-27 |
 | [Red Eyes](https://open.spotify.com/track/0rUIff1QHd5zlOBtlHVqd9) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [Lost In The Dream](https://open.spotify.com/album/51VxHZphGLsI7aUPqIkJaz) | 4:58 | 2023-08-08 |  |
+| [Rent](https://open.spotify.com/track/79z9ZX39sTIk4H6qC0jinU) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Crazymad, For Me](https://open.spotify.com/album/27E56zhC7dIPjOapQ1tc3O) | 4:42 | 2026-09-17 |  |
 | [Right Back to It](https://open.spotify.com/track/17Zzi8qsn8mdm0t0JTGeQo) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF), [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Tigers Blood](https://open.spotify.com/album/2n3HUMLmNl0Cm2atVwWSK6) | 4:33 | 2024-08-18 |  |
 | [Rivers and Roads](https://open.spotify.com/track/3nzXs8ynjIwQvmxjogvCYx) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head And The Heart](https://open.spotify.com/album/0HOYbncHll4TcojWXrfYfV) | 4:44 | 2023-09-21 | 2024-08-19 |
 | [Rivers and Roads](https://open.spotify.com/track/3z7kvwJVRfA4HCOfm9ngog) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head And The Heart](https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu) | 4:44 | 2023-08-08 | 2024-04-19 |

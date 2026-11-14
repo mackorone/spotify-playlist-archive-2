@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 
 > ur on the list bb 🪐 featuring Ammara
 
-[Spotify](https://open.spotify.com/user/spotify) - 479,272 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 479,276 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 | 15 | [idk where u are](https://open.spotify.com/track/2G1x72qXXV5zqNG8QhcRzx) | [Old Jim](https://open.spotify.com/artist/6v2YWK8EvCyut0QtBcAypu), [Cepaque](https://open.spotify.com/artist/57YkypoehOhGYrxAS1QAhc) | [idk where u are](https://open.spotify.com/album/5sMiUB1IDl1LUlu34AAWJm) | 2:29 |
 | 16 | [Messiah](https://open.spotify.com/track/64kjfyxkOqWr2Q1AGjw3tR) | [Clouds](https://open.spotify.com/artist/3f0kobRhjLIHJna3UsEqim) | [Messiah](https://open.spotify.com/album/4IrUlcy1s62rWQBvm0klCm) | 3:30 |
 | 17 | [Get Me High](https://open.spotify.com/track/6rjCW32IFoyw2B5EmWPhHV) | [Y U QT](https://open.spotify.com/artist/0tpkcjoMduNpT0FnpNYZiV) | [Get Me High](https://open.spotify.com/album/0dGbkkdFoPwMq9adOY3OX4) | 3:11 |
-| 18 | [can u](https://open.spotify.com/track/7jCb5WnXPQN981yRkGlxDN) | [u.r.trax](https://open.spotify.com/artist/5bGQtNvk4LrSUTZGzBiZq5), [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [I8U!!](https://open.spotify.com/album/4rRIcYdUEo7l0yK1yBQv4G) | 3:08 |
+| 18 | [I8U!!](https://open.spotify.com/track/5Y9xZHa40mq7k6xLl1zYO4) | [u.r.trax](https://open.spotify.com/artist/5bGQtNvk4LrSUTZGzBiZq5) | [I8U!!](https://open.spotify.com/album/4rRIcYdUEo7l0yK1yBQv4G) | 3:15 |
 | 19 | [Goodbye](https://open.spotify.com/track/4DB3WKwPy7POy94JYZ5Jrs) | [Jersey](https://open.spotify.com/artist/7C4JBZtbD3cLEOufhgSHzQ) | [Goodbye](https://open.spotify.com/album/0reCuoSpZMDrx2LX87wsXS) | 2:35 |
 | 20 | [Sentimental Ultra](https://open.spotify.com/track/0wYPKYQolCnObH3WJ3Pzmk) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7), [Spriitzz](https://open.spotify.com/artist/3miuS25cOBju4yfVUmOj6D) | [Sentimental Ultra](https://open.spotify.com/album/3mwrUezSGWpXz75S49oIqT) | 3:12 |
 | 21 | [Crazy](https://open.spotify.com/track/7aYBPp0VIdidTQr7H77pio) | [TWOFACED](https://open.spotify.com/artist/4di9XZXeIgxV4a9rt11392), [EWAN CARTER](https://open.spotify.com/artist/1wjHMUncSf4Iq5APKUGmAI) | [Crazy](https://open.spotify.com/album/5JjO5PjxA1tm3PD6z7tXiZ) | 3:38 |
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 | 70 | [pAPi wiTH tOKisCha](https://open.spotify.com/track/5j2NMCTCQ5R4yV6CUwR1nG) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [pAPi wiTH tOKisCha](https://open.spotify.com/album/2RcRUBfoS0jugdKTTHAF48) | 2:42 |
 | 71 | [Party People](https://open.spotify.com/track/4Rbj7CS2UJq6ehpZgiY7Kw) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [Party People](https://open.spotify.com/album/6Q7IXlfNjrI7S3oyc6lcLD) | 3:13 |
 | 72 | [Elevator Eternal](https://open.spotify.com/track/1wfdZ93rPnOycsFZOnlovx) | [Orchid](https://open.spotify.com/artist/6QOxGQVxMhHHeljjU5dIvV) | [Elevator Eternal](https://open.spotify.com/album/3TyngYZkdAiMqmljJasEf7) | 3:36 |
-| 73 | [notime…](https://open.spotify.com/track/6qL1c0iuEhxV8a1Rt1l3ww) | [finnjävel](https://open.spotify.com/artist/5YQtvxTvGSShjMTOMyCuPT), [GRANT](https://open.spotify.com/artist/6SkVKlAmIWVD0LQvCGQqSj) | [notime…youshouldbeaskingmeout](https://open.spotify.com/album/3thIn4T4XksDxTHEU1rExU) | 2:19 |
+| 73 | [notime…](https://open.spotify.com/track/6qL1c0iuEhxV8a1Rt1l3ww) | [finnjävel](https://open.spotify.com/artist/5YQtvxTvGSShjMTOMyCuPT), [Grant](https://open.spotify.com/artist/6SkVKlAmIWVD0LQvCGQqSj) | [notime…youshouldbeaskingmeout](https://open.spotify.com/album/3thIn4T4XksDxTHEU1rExU) | 2:19 |
 | 74 | [PRESS ON ME \(feat\. Miss Bashful\)](https://open.spotify.com/track/0nfUSkKozC4zohiPwkbDok) | [deBasement](https://open.spotify.com/artist/76Hqz0xVLDA9UwwqKR1JVl), [Miss Bashful](https://open.spotify.com/artist/5skHU2PrWHKFfSTpq9y56C) | [HARDBODY](https://open.spotify.com/album/3gN53UUAk7AalZAlEq29yS) | 2:45 |
 | 75 | [KISSING U](https://open.spotify.com/track/0QWU3z7Sbwenguy2LfCq2v) | [Sam Day](https://open.spotify.com/artist/2PY7Tnti22LPC3beiiqN1U), [Conni](https://open.spotify.com/artist/3V0uGOh5VeIp99phDIgWqU) | [KISSING U](https://open.spotify.com/album/0b5eMQ05cVS9kuZyPoZfNu) | 2:33 |
 | 76 | [Paradiso Nights](https://open.spotify.com/track/18UFEQ1MviWquW8oWqwMmx) | [AMARA ctk100](https://open.spotify.com/artist/6g40AmE4t6z5wPuFbytdsy) | [Paradiso Nights](https://open.spotify.com/album/4l7gMCLBudiBhun0IGnPWu) | 2:55 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 | 99 | [Sexy Hot Beat](https://open.spotify.com/track/3vTpAmszXz4Wbi1NdQs9kC) | [Circo](https://open.spotify.com/artist/3b2FXqU7J0jyTnKrG70Bpo) | [Sexy Hot Beat](https://open.spotify.com/album/5aQdLkcNiVmsLRaRg75YFN) | 3:10 |
 | 100 | [By My Side](https://open.spotify.com/track/1PWAw51Sy0IKpdBDW8RxP7) | [D4N](https://open.spotify.com/artist/5FQzNWtS11lpF0WIDiQ5HO) | [By My Side](https://open.spotify.com/album/27RRGf1M0oQ0i3leUDlTcM) | 4:31 |
 
-Snapshot ID: `AAAAAI9WDJe7DxU4iqyAddwyAaVOb6ef`
+Snapshot ID: `AAAAAALBW358kPAMFUoZufQmq/sPiUyQ`

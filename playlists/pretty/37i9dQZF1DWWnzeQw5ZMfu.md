@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnzeQw5ZMfu.md) - [plain]
 
 > Some of the biggest artists, recorded live\. It’s \(almost\) like you were there\.  Cover: ADÉLA
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,699 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,698 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnzeQw5ZMfu.md) - [plain]
 | 49 | [Slow Dancing in a Burning Room \- Live at the Nokia Theatre, Los Angeles, CA \- December 2007](https://open.spotify.com/track/4OT8GH9u9Gx7ydJ49ULunN) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Where the Light Is: John Mayer Live In Los Angeles](https://open.spotify.com/album/4Dgxy95K9BWkDUvQPTaYBb) | 5:19 |
 | 50 | [Make You Feel My Love \(Live at Hotel Cafe\)](https://open.spotify.com/track/16nQF9mLw4qMKnz9cJ2cpn) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [19](https://open.spotify.com/album/2YO1F9DHVEzXPriA1JHoOQ) | 3:52 |
 
-Snapshot ID: `AAAAALuTYcbSH3P5sn4C+sFznwRGvQQO`
+Snapshot ID: `AAAAABhFHQ23nekZGEwfaT8CrQJ+OMdV`

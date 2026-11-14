@@ -1,12 +1,12 @@
 {
   "description": "Plutonio entra na zona. ",
-  "num_followers": 192509,
+  "num_followers": 192567,
   "original_name": "Na Zona",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPtTx6Q2c78Teb8Hj5bYRUlXJ92X",
+  "snapshot_id": "AAAAAKf2HUc8OknL3ROJV8FWuxsjcGCa",
   "tracks": [
     {
       "added_at": "2026-11-13 00:01:57",
@@ -91,6 +91,30 @@
       "duration_ms": 211809,
       "name": "Eu Pr\u00f3prio Contra Mim",
       "url": "https://open.spotify.com/track/15HjKW0ZWZ8D7PetkMJ9KV"
+    },
+    {
+      "added_at": "2026-11-13 10:31:16",
+      "album": {
+        "name": "C'est La Vie Remix (feat. Headie One & Plutonio)",
+        "url": "https://open.spotify.com/album/2rBdu0DhCw7T2DYHH5uYL9"
+      },
+      "artists": [
+        {
+          "name": "Richie Campbell",
+          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
+        },
+        {
+          "name": "Headie One",
+          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
+        },
+        {
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+        }
+      ],
+      "duration_ms": 188745,
+      "name": "C'est La Vie Remix (feat. Headie One & Plutonio)",
+      "url": "https://open.spotify.com/track/6rnp7oQTtrs7JakpNVqV9H"
     },
     {
       "added_at": "2026-11-13 00:01:57",
@@ -233,6 +257,26 @@
       "url": "https://open.spotify.com/track/1WzYJoPHtavG3VNEmQgexA"
     },
     {
+      "added_at": "2026-11-13 10:31:16",
+      "album": {
+        "name": "Novo Kuduro",
+        "url": "https://open.spotify.com/album/0wnq2PIIQ2nqnKqdC6D8jW"
+      },
+      "artists": [
+        {
+          "name": "bapcat",
+          "url": "https://open.spotify.com/artist/02Qg3L9GCPXeVQFxZ1b4ou"
+        },
+        {
+          "name": "HeyRicoo",
+          "url": "https://open.spotify.com/artist/7gv9htyT9jMdsEPLcan5SI"
+        }
+      ],
+      "duration_ms": 154160,
+      "name": "Novo Kuduro",
+      "url": "https://open.spotify.com/track/7cKb25RvLs20tBDFacivDq"
+    },
+    {
       "added_at": "2026-11-13 00:01:57",
       "album": {
         "name": "Elephant In The Room",
@@ -267,6 +311,22 @@
       "duration_ms": 268075,
       "name": "N\u00e3o Me Fales (feat. Wet Bed Gang)",
       "url": "https://open.spotify.com/track/0cyZxCagQAFRtykDcbsjqS"
+    },
+    {
+      "added_at": "2026-11-13 10:31:16",
+      "album": {
+        "name": "bin laden",
+        "url": "https://open.spotify.com/album/6IExqufz1Y9Ve0bv4fViTZ"
+      },
+      "artists": [
+        {
+          "name": "Yuri NR5",
+          "url": "https://open.spotify.com/artist/0Dx6HmR7Rhi8G1osUOxAew"
+        }
+      ],
+      "duration_ms": 155359,
+      "name": "bin laden",
+      "url": "https://open.spotify.com/track/6U0PTrJ4vXiDEbE1dgMLJf"
     },
     {
       "added_at": "2026-11-13 00:01:57",
@@ -987,6 +1047,26 @@
     {
       "added_at": "2026-11-13 00:01:57",
       "album": {
+        "name": "CALA A BOCA",
+        "url": "https://open.spotify.com/album/7LpenptowipBgRY6C8WU0i"
+      },
+      "artists": [
+        {
+          "name": "MAR",
+          "url": "https://open.spotify.com/artist/1eD8ms4LtG3jrXqamSifPY"
+        },
+        {
+          "name": "Dama Bete",
+          "url": "https://open.spotify.com/artist/0cFnYwwUg1OWV2AksuN22j"
+        }
+      ],
+      "duration_ms": 128659,
+      "name": "CALA A BOCA",
+      "url": "https://open.spotify.com/track/7KUwgcT6zCZsPsWTdPeaet"
+    },
+    {
+      "added_at": "2026-11-13 00:01:57",
+      "album": {
         "name": "PERIGO",
         "url": "https://open.spotify.com/album/1y8HVbxlVAC9cpAg5NSi5E"
       },
@@ -1263,82 +1343,6 @@
       "duration_ms": 250797,
       "name": "\u00c9 Verdade",
       "url": "https://open.spotify.com/track/192Tpc8jyka8lhukETX50O"
-    },
-    {
-      "added_at": "2026-11-13 00:01:57",
-      "album": {
-        "name": "SAKELE",
-        "url": "https://open.spotify.com/album/6jeWSPrD80a1krwqiTacfB"
-      },
-      "artists": [
-        {
-          "name": "Harley KSD",
-          "url": "https://open.spotify.com/artist/0AyoY8RFId4AqueSJvE99D"
-        }
-      ],
-      "duration_ms": 136084,
-      "name": "SAKELE",
-      "url": "https://open.spotify.com/track/7G1wpRIZCTYNAx5ZnmGEH3"
-    },
-    {
-      "added_at": "2026-11-13 00:01:57",
-      "album": {
-        "name": "Party",
-        "url": "https://open.spotify.com/album/0IzTvHL8cjNLfUNnYZaeT7"
-      },
-      "artists": [
-        {
-          "name": "ROCHA.SNJ",
-          "url": "https://open.spotify.com/artist/1uuOueXqHji2ugV1Ky1TF8"
-        },
-        {
-          "name": "Orato",
-          "url": "https://open.spotify.com/artist/7xFEPysMgkcm5nVrIthJsQ"
-        }
-      ],
-      "duration_ms": 151576,
-      "name": "Party",
-      "url": "https://open.spotify.com/track/4P4Or7sobvSweZsTIGolt7"
-    },
-    {
-      "added_at": "2026-11-13 00:01:57",
-      "album": {
-        "name": "CALA A BOCA",
-        "url": "https://open.spotify.com/album/7LpenptowipBgRY6C8WU0i"
-      },
-      "artists": [
-        {
-          "name": "MAR",
-          "url": "https://open.spotify.com/artist/1eD8ms4LtG3jrXqamSifPY"
-        },
-        {
-          "name": "Dama Bete",
-          "url": "https://open.spotify.com/artist/0cFnYwwUg1OWV2AksuN22j"
-        }
-      ],
-      "duration_ms": 128659,
-      "name": "CALA A BOCA",
-      "url": "https://open.spotify.com/track/7KUwgcT6zCZsPsWTdPeaet"
-    },
-    {
-      "added_at": "2026-11-13 00:01:57",
-      "album": {
-        "name": "M\u00e1s",
-        "url": "https://open.spotify.com/album/1a38aTaBKubozCopGm5nWA"
-      },
-      "artists": [
-        {
-          "name": "X-Tense",
-          "url": "https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF"
-        },
-        {
-          "name": "Uzzy",
-          "url": "https://open.spotify.com/artist/2Ia5AqFe2PZmGirbLc7zMi"
-        }
-      ],
-      "duration_ms": 207432,
-      "name": "M\u00e1s",
-      "url": "https://open.spotify.com/track/2JoACjEp4JJRCYqcRwXkRs"
     }
   ],
   "unique_name": "Na Zona",

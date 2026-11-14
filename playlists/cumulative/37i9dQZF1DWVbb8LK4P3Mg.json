@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Enjoy the wonderful holiday season with K-Pop! (Cover: DAY6(\ub370\uc774\uc2dd\uc2a4))",
+  "description": "Enjoy the wonderful holiday season with K-Pop! (Cover: aespa, Eartha Kitt)",
   "name": "Christmas K-Pop (\ud06c\ub9ac\uc2a4\ub9c8\uc2a4 \ucf00\uc774\ud31d)",
   "tracks": [
     {
@@ -724,6 +724,24 @@
       "duration_ms": 239653,
       "name": "Christmas in July",
       "url": "https://open.spotify.com/track/1XbMklm5bn9DRpRyvePwow"
+    },
+    {
+      "album": {
+        "name": "Christmas in New York",
+        "url": "https://open.spotify.com/album/3Arw97tnQUGQ3zBkWrEORn"
+      },
+      "artists": [
+        {
+          "name": "EJAE",
+          "url": "https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178013,
+      "name": "Christmas in New York",
+      "url": "https://open.spotify.com/track/02AkOM9aadzbRmOuLvVh3A"
     },
     {
       "album": {
@@ -3143,6 +3161,28 @@
     },
     {
       "album": {
+        "name": "Santa Baby",
+        "url": "https://open.spotify.com/album/5VVQMofUHoRZrlidCn99NK"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        },
+        {
+          "name": "Eartha Kitt",
+          "url": "https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174794,
+      "name": "Santa Baby",
+      "url": "https://open.spotify.com/track/5bwxKxLPeSxGy38JSYBeXk"
+    },
+    {
+      "album": {
         "name": "Santa For You",
         "url": "https://open.spotify.com/album/7zmo5Zl70iQSjpgJ2jnJSI"
       },
@@ -3154,7 +3194,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 197480,
       "name": "Santa For You",
       "url": "https://open.spotify.com/track/5cobUAr9sTFH1zJ51r7D76"
@@ -4216,7 +4256,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 185240,
       "name": "When It Snows mmm (feat. Wheein)",
       "url": "https://open.spotify.com/track/5p4nVbbKRDASNjHNI5HvOV"

@@ -4,7 +4,7 @@
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: Jolianne
 
-1,156 songs - 2 day 23 hr 26 min
+1,156 songs - 2 day 23 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -893,6 +893,7 @@
 | [Sabihin Lang \(Kung Ayaw Mo\)](https://open.spotify.com/track/56SW6kPw7xMoFt7kBoegP5) | [Kenaniah](https://open.spotify.com/artist/2owtRYReKCG1n2AAS5AcpS) | [Sabihin Lang \(Kung Ayaw Mo\)](https://open.spotify.com/album/1qkSx3ukJSeCnHqQlnLVsa) | 3:31 | 2025-08-01 | 2025-11-22 |
 | [Sabihin Mo Lang](https://open.spotify.com/track/7JGChCgGGxVdPMxopSTzzN) | [HEY JUNE!](https://open.spotify.com/artist/4Bxk4PebmsWgvjMrtQqBvq) | [Sabihin Mo Lang](https://open.spotify.com/album/2PgrN7s5f9iQ5cMGVFbYXE) | 3:00 | 2026-01-08 | 2026-03-10 |
 | [Sabihin Na](https://open.spotify.com/track/4wV2NZuRVLqjoWW2ehmNrP) | [Dear Dahlia](https://open.spotify.com/artist/5PstZ2n9tsytowjzUQJc2g) | [Sabihin Na](https://open.spotify.com/album/4VLPnVy3Tpjx5VD95ODCpg) | 3:42 | 2025-07-21 | 2025-11-22 |
+| [Sad Girl \(feat\. Ichika Nito & Gabba\)](https://open.spotify.com/track/735s7kB0oA5PXgXtiSZLMG) | [NEW LORE](https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E), [Ichika Nito](https://open.spotify.com/artist/1v7B6ZWa7QRQS3knn3Jvf4), [Gabba](https://open.spotify.com/artist/6tvCQZS4d1wJ9cA9Gl0ZqP) | [Very Ancient Way of Crying](https://open.spotify.com/album/3xbauaiHd7Ah6wzGjfmoYo) | 3:22 | 2026-11-13 |  |
 | [Safe Ka Sa’kin](https://open.spotify.com/track/6TVJFTnZH39hC0aOlYf0J4) | [PLAYERTWO](https://open.spotify.com/artist/4wjgqUtfS9TNfMHhjEqAb7) | [Safe Ka Sa’kin](https://open.spotify.com/album/7t5inER3X1tBfYpTDSINTc) | 2:34 | 2024-09-24 | 2024-12-05 |
 | [Sagad](https://open.spotify.com/track/4hLALWdKykfWQDuIrWBXF3) | [Silent Sanctuary](https://open.spotify.com/artist/4nGp682WMiKS4X217kPw8C) | [Sagad](https://open.spotify.com/album/0i01wbyJ9iiq3d65dVKP5l) | 4:25 | 2025-04-25 | 2025-07-13 |
 | [Sagip](https://open.spotify.com/track/0hC02vQEEYV2T3MHkbcNSY) | [Jan Roberts](https://open.spotify.com/artist/0wuB9WlzVMNvwRJHope3ge) | [Sagip](https://open.spotify.com/album/1awEJdrevX9kTQDbG7ATmO) | 3:52 | 2024-07-02 | 2024-07-09 |
@@ -1083,7 +1084,6 @@
 | [TORPE](https://open.spotify.com/track/2nlD5OnCCotJVhOY2gGkEw) | [JAO](https://open.spotify.com/artist/6Bc3V3kVnWpY5kqQN6nio5) | [TORPE](https://open.spotify.com/album/5OPsL7uBEZtbHg0ZV2eUti) | 2:53 | 2025-02-25 | 2025-05-31 |
 | [Totoong tayo](https://open.spotify.com/track/3Fu4WzdH4SpUUPLroN4qyS) | [Jin DC](https://open.spotify.com/artist/4aYM8Vij7I9a2VLcAPJ6Y2) | [Totoong tayo](https://open.spotify.com/album/5Ftd3Rg6FB7A0cvmDMyShR) | 3:47 | 2026-08-21 |  |
 | [Toyo](https://open.spotify.com/track/1PxsXBSYcsO86i3RZZEwd5) | [KZ Tandingan](https://open.spotify.com/artist/1mcqfNCReSFxun2vIWvC28) | [Toyo](https://open.spotify.com/album/2m4TsjHM0SnencJriOXEMM) | 4:12 | 2024-09-27 | 2025-02-13 |
-| [Track 3](https://open.spotify.com/track/735s7kB0oA5PXgXtiSZLMG) | [NEW LORE](https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E) | [Very Ancient Way of Crying](https://open.spotify.com/album/3xbauaiHd7Ah6wzGjfmoYo) | 0:00 | 2026-11-13 |  |
 | [Traffic](https://open.spotify.com/track/1yiO7S3ipTzVOdEdG5j56k) | [James Reid](https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH) | [Traffic](https://open.spotify.com/album/7us9nYgkLeGMK5ZuKaSc3F) | 3:04 | 2026-03-06 | 2026-05-09 |
 | [Trip Lang \(feat\. Raymund Marasigan\)](https://open.spotify.com/track/0dYTBFF7vWGJYIJrewg3Lp) | [ONE CLICK STRAIGHT](https://open.spotify.com/artist/457BGAQIRpxlvY5gcbDjUQ), [Raymund Marasigan](https://open.spotify.com/artist/3AOsKiYWhFK9hJJBM0MciQ) | [Trip Lang \(feat\. Raymund Marasigan\)](https://open.spotify.com/album/2gjMaepNTRNatUWlmcaSeH) | 3:26 | 2026-03-20 | 2026-05-30 |
 | [Triumph](https://open.spotify.com/track/3JU64RR6S7P3y4ne7V5OMG) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Triumph](https://open.spotify.com/album/6jvr0yp0tK9JHnoXLqMDbG) | 2:53 | 2024-10-18 | 2025-02-01 |

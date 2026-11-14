@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 
 > a little indie, a little pop, soda featuring OK MICKEY
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,897 likes - 54 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,887 likes - 54 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > ¡Mujeres de los Andes, a todo volumen! Con una selección de Shonny.
 
-789 songs - 1 day 18 hr 46 min
+791 songs - 1 day 18 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -524,6 +524,7 @@
 | [no llames lo mío nuestro](https://open.spotify.com/track/56lEVxNmR6NYSSa4nZtEBU) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [no llames lo mío nuestro](https://open.spotify.com/album/2r8XKWioH1ActVuWTXePGu) | 3:39 | 2024-09-04 | 2026-03-20 |
 | [No Me Dan Las Cuentas](https://open.spotify.com/track/3aM3ZFLOCK5bEbUINa4VNH) | [Ceci Juno](https://open.spotify.com/artist/1ej99EpQv6okGltIakeNFu), [Pilar Cabrera](https://open.spotify.com/artist/5gutZJ2QQFov3bjvQftsva) | [Quince por Dos](https://open.spotify.com/album/0ypcNXEH0ZXPvNeWbDrBow) | 3:55 | 2026-03-19 | 2026-04-09 |
 | [No Me Hablen de Él](https://open.spotify.com/track/0evFiUFMG6KNXTnXlthNRT) | [Arelys Henao](https://open.spotify.com/artist/7G2AGQxjKPwIfraPoQvkDC) | [No Me Hablen de Él](https://open.spotify.com/album/70RI4gxiCzSrYmWsnChiIz) | 3:11 | 2023-02-24 | 2023-03-02 |
+| [No me pasa el tiempo](https://open.spotify.com/track/1JKZLkAopq2TMNMBvtH4YO) | [Shonny](https://open.spotify.com/artist/70axD2kGUWcyWjZAGAtgft) | [AVE DEL PARAÍSO](https://open.spotify.com/album/5I9Rza1ph1avrDLfcuz5SS) | 3:37 | 2026-11-13 |  |
 | [No Puedo Vivir Sin Él](https://open.spotify.com/track/6zRVWT0bZaBfe9H5z4naf4) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | 3:38 | 2026-06-11 | 2026-08-15 |
 | [no quiero olvidarte](https://open.spotify.com/track/23o6PatI0hYzKoQIOOAD3d) | [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP) | [no quiero olvidarte](https://open.spotify.com/album/4fVokzcFNJnOUjGposnKeb) | 3:50 | 2024-03-06 | 2025-03-06 |
 | [no quiero olvidarte](https://open.spotify.com/track/56wZ8gY0SD9dkJzNKgKAqi) | [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP) | [escrita](https://open.spotify.com/album/41DOXn1SuBBmm57gPTyb5E) | 3:50 | 2025-05-07 | 2025-07-03 |
@@ -538,6 +539,7 @@
 | [No Te Pido Flores](https://open.spotify.com/track/2ctc9nwRgXeeIFaFWTRrRl) | [Fanny Lu](https://open.spotify.com/artist/6GRC8segVAr34gm6pjfSoQ) | [Lágrimas Cálidas](https://open.spotify.com/album/49o3kre7XVq6eandibHyQj) | 4:04 | 2026-06-11 | 2026-08-15 |
 | [No Te Pido Más](https://open.spotify.com/track/71tVAHlntYm49TTYwhe8uG) | [Marbelle](https://open.spotify.com/artist/3UMc63PbdGvuOzUk0Gd1Fg) | [No Te Pido Más](https://open.spotify.com/album/0yE1wk2NYPTO47P1Tozbz1) | 3:19 | 2022-01-05 | 2022-02-03 |
 | [No te preocupes por mí](https://open.spotify.com/track/1E3DXXzD4jFpd03DS25av8) | [Corazón Serrano](https://open.spotify.com/artist/4UuICMmKQKNyCJfBg6lFFD), [Dilbert Aguilar y su Orquesta La Tribu](https://open.spotify.com/artist/0xMwRvaK2YWX4SqYfeAD7Y) | [No te preocupes por mí](https://open.spotify.com/album/2qMQjgzT40VJEjhcLZ1VV9) | 4:02 | 2026-04-08 | 2026-08-15 |
+| [No Veo la Hora](https://open.spotify.com/track/36Y7IuGJS6AKCYSKTornq4) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [No Veo la Hora](https://open.spotify.com/album/60WjhSulSkPsI9FmI7iMWK) | 3:23 | 2026-11-13 |  |
 | [No Volverán](https://open.spotify.com/track/2mSgPRNlj4jSm3sntpj7Co) | [Hanna Hasen](https://open.spotify.com/artist/2cibAK6OyCLD0OizSSB9TT) | [AMA](https://open.spotify.com/album/0NLTqWcrUGrRvcmoi4AyMl) | 3:26 | 2024-06-05 | 2024-07-04 |
 | [NOCHE DE SATEO](https://open.spotify.com/track/0OkrRSwJYVXQi7EKtjVO5m) | [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [RAWR](https://open.spotify.com/album/4D6TE4cuDOaIHQJlEmARR6) | 2:53 | 2025-11-05 | 2026-02-05 |
 | [Noche Humana](https://open.spotify.com/track/4wIHtjnkzcbH7LzdiOJOza) | [Paula Pera y el fin de los Tiempos](https://open.spotify.com/artist/5zuGV6u9UobNW3KPGXui6o) | [Noche Humana](https://open.spotify.com/album/1nvhPWn8HYsiOmeJ8OTniK) | 3:20 | 2022-04-06 | 2023-11-22 |
@@ -571,7 +573,7 @@
 | [Para Verte](https://open.spotify.com/track/1ck68b7U7AUPEefAfQBWiO) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Línea Recta](https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL) | 3:02 | 2024-05-01 | 2024-08-17 |
 | [Paracas Cavernas](https://open.spotify.com/track/5iEzYvaLSLUU7pU4miiVE5) | [La Lá](https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H), [Tessa Ia](https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg) | [Paracas Cavernas](https://open.spotify.com/album/0rYpO9guHXOLfNeuNPTqgk) | 4:28 | 2023-03-01 | 2023-04-06 |
 | [Pasa el tiempo volando](https://open.spotify.com/track/54nqQGbqMpvXEhZAAGhgAb) | [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM) | [Pasa el Tiempo Volando](https://open.spotify.com/album/7KaQkaHgyiU7ZszNnfetdB) | 2:06 | 2025-02-06 | 2025-03-06 |
-| [Pausa](https://open.spotify.com/track/7cGOuIve6Qj5vrVndpwwYL) | [Shonny](https://open.spotify.com/artist/70axD2kGUWcyWjZAGAtgft) | [Pausa](https://open.spotify.com/album/1SZxLTRiHzsfJdQhQMvjcr) | 3:01 | 2026-08-15 |  |
+| [Pausa](https://open.spotify.com/track/7cGOuIve6Qj5vrVndpwwYL) | [Shonny](https://open.spotify.com/artist/70axD2kGUWcyWjZAGAtgft) | [Pausa](https://open.spotify.com/album/1SZxLTRiHzsfJdQhQMvjcr) | 3:01 | 2026-08-15 | 2026-11-14 |
 | [pelinegra](https://open.spotify.com/track/1L2cHRExPDjaUpMaHa4j5x) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [pelinegra](https://open.spotify.com/album/0t0PGwqz6FYhyRDBVoFsnA) | 3:31 | 2026-02-04 | 2026-03-20 |
 | [Perdonarte, ¿Para Qué?](https://open.spotify.com/track/4dLLdfiniBhDP9dlJQIOi4) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Perdonarte, ¿Para Qué?](https://open.spotify.com/album/1fXZxmn9aUIo5Zjx8zQFol) | 3:13 | 2026-06-11 | 2026-08-15 |
 | [Perdón\-amé](https://open.spotify.com/track/2Unv2jkpb7YtD928RGABBq) | [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59) | [Perdón\-amé](https://open.spotify.com/album/5NOp0mO4WPqsVG6uCEunSn) | 2:53 | 2026-03-19 | 2026-04-09 |

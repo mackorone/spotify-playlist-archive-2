@@ -4600,7 +4600,7 @@
       ],
       "date_added": "2023-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 245893,
       "name": "Signs of Love Makin'",
       "url": "https://open.spotify.com/track/6RYynPLHZLnpwjejfGWpQl"
@@ -5510,6 +5510,24 @@
       "duration_ms": 166716,
       "name": "Treat",
       "url": "https://open.spotify.com/track/0BKjosTqxAhWzOUfpwI1X0"
+    },
+    {
+      "album": {
+        "name": "Trophy",
+        "url": "https://open.spotify.com/album/3GKB75ijlo1b33UVr809hQ"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245815,
+      "name": "Trophy",
+      "url": "https://open.spotify.com/track/1I2QdqvSz7AeMPVZJheUcj"
     },
     {
       "album": {

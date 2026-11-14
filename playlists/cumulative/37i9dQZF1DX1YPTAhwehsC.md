@@ -2,7 +2,7 @@
 
 ### [State of Mind](https://open.spotify.com/playlist/37i9dQZF1DX1YPTAhwehsC)
 
-> Up and down I\-95\. Cover: Coi Leray
+> Up and down I\-95\. Cover: Westside Gunn
 
 2,232 songs - 4 day 5 hr 31 min
 

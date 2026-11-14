@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2sbvTa.md) - [plain]
 
 > This is Young Scooter\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,633 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,634 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,13 +42,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2sbvTa.md) - [plain]
 | 32 | [Imma Ball Forever](https://open.spotify.com/track/5heBkfjqYt14ah0pFbBEYg) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [I Pledge Allegiance to the Trap, Vol\. 5](https://open.spotify.com/album/093j7UenxRyQ27vrlZrJ6d) | 3:05 |
 | 33 | [Cook Up](https://open.spotify.com/track/6eW26wwMEGFDomE7uMyLYf) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Jugg King](https://open.spotify.com/album/2HdY21WQYtn5KYO2GyDjgk) | 3:39 |
 | 34 | [Made It](https://open.spotify.com/track/3dE6SF7whFk5FzbhNgqaeV) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Fast Lane Juugin](https://open.spotify.com/album/2Xt54zrcPX0QoWOSI0maoX) | 4:26 |
-| 35 | [U Ain't No Hustla](https://open.spotify.com/track/7k4cs9RYFOdOUZx2rqsAfV) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Streetz Krazy](https://open.spotify.com/album/0C7TkavM9yq1OZlwqnRPD9) | 3:12 |
+| 35 | [Middle Of The Hood](https://open.spotify.com/track/66KafkpdRjbRevYn2V1B77) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes), [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [Streetz Krazy](https://open.spotify.com/album/0C7TkavM9yq1OZlwqnRPD9) | 2:52 |
 | 36 | [Pressure](https://open.spotify.com/track/75Wu6zaSb1QUolSm70RSwo) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes), [Zaytoven](https://open.spotify.com/artist/1mceaxtjWdEmwoDVAlkC41), [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g) | [Zaystreet](https://open.spotify.com/album/4SflERwxTOuSS2VqKEJizf) | 3:24 |
 | 37 | [How Can I Not \(feat\. Young Scooter\)](https://open.spotify.com/track/3LRdrJky4qhRp8HiyY9mWL) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Honest](https://open.spotify.com/album/5rbqupVSYwvEmXBUnFtUf7) | 3:58 |
 | 38 | [Birds Take a Bath](https://open.spotify.com/track/2ODUZ33XvLYGn2wMem2zEJ) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Astronaut Status](https://open.spotify.com/album/56P7aZkTGJGsYGe0DH7mqA) | 4:24 |
-| 39 | [Middle Of The Hood](https://open.spotify.com/track/66KafkpdRjbRevYn2V1B77) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes), [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [Streetz Krazy](https://open.spotify.com/album/0C7TkavM9yq1OZlwqnRPD9) | 2:52 |
-| 40 | [Grind Dont Stop](https://open.spotify.com/track/41QEAMvVuZNabhwvICttLn) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Trap's Last Hope](https://open.spotify.com/album/20UGfoQBYKeVrcph3ti0OI) | 2:55 |
-| 41 | [Big Guwap \(feat\. Young Scooter\)](https://open.spotify.com/track/66szIKCdNwvZ9lY4j8t1kO) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Trap God 2](https://open.spotify.com/album/327qRhLMXOOwsx3IXxZZxM) | 3:04 |
+| 39 | [U Ain't No Hustla](https://open.spotify.com/track/7k4cs9RYFOdOUZx2rqsAfV) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Streetz Krazy](https://open.spotify.com/album/0C7TkavM9yq1OZlwqnRPD9) | 3:12 |
+| 40 | [Big Guwap \(feat\. Young Scooter\)](https://open.spotify.com/track/66szIKCdNwvZ9lY4j8t1kO) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Trap God 2](https://open.spotify.com/album/327qRhLMXOOwsx3IXxZZxM) | 3:04 |
+| 41 | [Grind Dont Stop](https://open.spotify.com/track/41QEAMvVuZNabhwvICttLn) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Trap's Last Hope](https://open.spotify.com/album/20UGfoQBYKeVrcph3ti0OI) | 2:55 |
 | 42 | [SLAM DUNK \(FEAT\. YOUNG SCOOTER\)](https://open.spotify.com/track/5BEIWP5orph1cJBuylbGK8) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [MAD](https://open.spotify.com/album/47uIW0hqDyqeO9Qrzq4b8k) | 2:22 |
 | 43 | [Esse \(feat\. Future\)](https://open.spotify.com/track/4wnMzgP1vaDoFBCJP72RLJ) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Married to the Streets](https://open.spotify.com/album/61amjvWzRVayd7aG19tfrj) | 4:25 |
 | 44 | [Drug Deals](https://open.spotify.com/track/14LUV1NU3UiumYiuGD5949) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Trippple Cross](https://open.spotify.com/album/49Nzzm0upje7KGQaVTxc0C) | 3:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2sbvTa.md) - [plain]
 | 49 | [Number Game](https://open.spotify.com/track/4mmmxpXJVKKEJxDr0umiOJ) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes), [Money Man](https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7) | [Streetz Krazy](https://open.spotify.com/album/0C7TkavM9yq1OZlwqnRPD9) | 3:12 |
 | 50 | [Medellin \(feat\. Young Scooter\)](https://open.spotify.com/track/4KBVpMSGoVjTQf87RVwQZL) | [Shy Glizzy](https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Young Jefe](https://open.spotify.com/album/2m9oGYZ0xz12fqSGv0Ux3Q) | 3:33 |
 
-Snapshot ID: `avOwAAAAAAA3SJbjHWhoJzDUs6uWb7XC`
+Snapshot ID: `avUBgAAAAADDKiM91SoLWD2m2r1gR5oq`

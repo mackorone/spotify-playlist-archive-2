@@ -2,20 +2,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 
 ### [Fresh Flows](https://open.spotify.com/playlist/37i9dQZF1DX3TZP21TXsN6)
 
-> Dubbel R, Oomto, JR, Moony11 en meer..
+> Dubbel R, Oomto, PB, Moony11 en meer..
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,190 likes - 71 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,188 likes - 71 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [GTA 6](https://open.spotify.com/track/2PEQxHiF9vWwH9W1gkvI2t) | [Dubbel R](https://open.spotify.com/artist/2k7e8KVpfI8vSlhhC2quhR) | [GTA 6](https://open.spotify.com/album/4eUMLmH0GpUeyXZcEUZgfj) | 1:28 |
-| 2 | [Y](https://open.spotify.com/track/6ZfRa9vVjqJRXUqaXG1cQk) | [Oomto](https://open.spotify.com/artist/10Tmpcwo1bS6hnYOBI1Gip) | [Y](https://open.spotify.com/album/2RdMjztxVrd8m6SgEtzREn) | 2:27 |
-| 3 | [Rest](https://open.spotify.com/track/4BImskzTxVoHmruNNGVekd) | [JR](https://open.spotify.com/artist/1uBVAOArtDJV3NOliZbEyN) | [REST](https://open.spotify.com/album/3YKGounU4dfyFonglKYYJa) | 2:06 |
-| 4 | [Oude medailles](https://open.spotify.com/track/15bJbzLsRmwC4xrZsAySd4) | [DIKKE](https://open.spotify.com/artist/6lZ9MW0eEVePXdpa87Wag4), [Mathieu Terryn](https://open.spotify.com/artist/49lHyCtrgMgmijZw2FqPHK) | [Oude medailles](https://open.spotify.com/album/0FcnkwOhcLYdMxWiPMyaU5) | 2:44 |
-| 5 | [Tattooboyz](https://open.spotify.com/track/5MwpOJwen6YCQBYPARPAbV) | [Sluwe Ollie](https://open.spotify.com/artist/7zRN086UvocMbINAumZ8kx) | [Tattooboyz](https://open.spotify.com/album/4XFBcYDZo0IRfBUPq48pqF) | 1:32 |
-| 6 | [11 uur](https://open.spotify.com/track/1OFVpWKewoqTdxv7MXKuUj) | [Moony11](https://open.spotify.com/artist/37FMKePANjyQqSJK36WpWN) | [11 uur](https://open.spotify.com/album/1CWzKecoqZcqJq4gDsaOKG) | 2:27 |
-| 7 | [NIKE TN](https://open.spotify.com/track/16rzssUY0XXK6FmDOxc2LZ) | [Dario Santana](https://open.spotify.com/artist/0y14WanKsCSjfqVk18HoFk) | [NIKE TN](https://open.spotify.com/album/2lcezmN7Gfv7gzA2gMatqW) | 1:58 |
-| 8 | [Wat Gaat](https://open.spotify.com/track/3zVYfCzJ7PPvshOl1Lt0vi) | [PB](https://open.spotify.com/artist/6az4M83MZIelLYgaCKe6Rq) | [Wat Gaat](https://open.spotify.com/album/2aaK8lpaj2jLzU0RQ9CQD1) | 2:05 |
+| 2 | [Wat Gaat](https://open.spotify.com/track/3zVYfCzJ7PPvshOl1Lt0vi) | [PB](https://open.spotify.com/artist/6az4M83MZIelLYgaCKe6Rq) | [Wat Gaat](https://open.spotify.com/album/2aaK8lpaj2jLzU0RQ9CQD1) | 2:05 |
+| 3 | [Y](https://open.spotify.com/track/6ZfRa9vVjqJRXUqaXG1cQk) | [Oomto](https://open.spotify.com/artist/10Tmpcwo1bS6hnYOBI1Gip) | [Y](https://open.spotify.com/album/2RdMjztxVrd8m6SgEtzREn) | 2:27 |
+| 4 | [Beloof Dat Het Lukt](https://open.spotify.com/track/67acrd0cdTpKjagHB1S2OR) | [Yannish](https://open.spotify.com/artist/19nsK6rkGX7Qu6u9Uc3LgQ), [Marou](https://open.spotify.com/artist/787K0Q2xGqiAL0jcoo5kb5), [Massin](https://open.spotify.com/artist/7g8HFGXym7WNVPMsuAINQE) | [Beloof Dat Het Lukt](https://open.spotify.com/album/3sasKDtNeUtGSxHmqpcuD1) | 2:58 |
+| 5 | [Oude medailles](https://open.spotify.com/track/15bJbzLsRmwC4xrZsAySd4) | [DIKKE](https://open.spotify.com/artist/6lZ9MW0eEVePXdpa87Wag4), [Mathieu Terryn](https://open.spotify.com/artist/49lHyCtrgMgmijZw2FqPHK) | [Oude medailles](https://open.spotify.com/album/0FcnkwOhcLYdMxWiPMyaU5) | 2:44 |
+| 6 | [Tattooboyz](https://open.spotify.com/track/5MwpOJwen6YCQBYPARPAbV) | [Sluwe Ollie](https://open.spotify.com/artist/7zRN086UvocMbINAumZ8kx) | [Tattooboyz](https://open.spotify.com/album/4XFBcYDZo0IRfBUPq48pqF) | 1:32 |
+| 7 | [11 uur](https://open.spotify.com/track/1OFVpWKewoqTdxv7MXKuUj) | [Moony11](https://open.spotify.com/artist/37FMKePANjyQqSJK36WpWN) | [11 uur](https://open.spotify.com/album/1CWzKecoqZcqJq4gDsaOKG) | 2:27 |
+| 8 | [NIKE TN](https://open.spotify.com/track/16rzssUY0XXK6FmDOxc2LZ) | [Dario Santana](https://open.spotify.com/artist/0y14WanKsCSjfqVk18HoFk) | [NIKE TN](https://open.spotify.com/album/2lcezmN7Gfv7gzA2gMatqW) | 1:58 |
 | 9 | [BEKIJK HET](https://open.spotify.com/track/7ww8ambKhWX4d5YZ7KtdS3) | [Ysavv](https://open.spotify.com/artist/1mloPWSzK1ktjXszZhg6Jn) | [BEKIJK HET](https://open.spotify.com/album/7zolsjYC9kPgXPwPOcyv5y) | 2:14 |
 | 10 | [08:00 \- 00:00](https://open.spotify.com/track/5xTgSCa3Ep15ABsUinKLPo) | [Rio](https://open.spotify.com/artist/4A8VE333gb6WphLTzWhw4e) | [08:00 \- 00:00](https://open.spotify.com/album/56p1yt6MoL2ImlpnObh6Pj) | 3:15 |
 | 11 | [krokodillentranen](https://open.spotify.com/track/3pVaCqMrxdDS4dph15lK7i) | [Mxxdy](https://open.spotify.com/artist/6xP9NJZcCjv4mbWMbyHQ8s), [Stinna](https://open.spotify.com/artist/7cVX4C8IFwjuzgKXd9W4e7) | [krokodillentranen](https://open.spotify.com/album/129AtpCsrSkwfOy2Ec4kf5) | 3:03 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 | 70 | [TOPFIT](https://open.spotify.com/track/6FLujRTgsyT07W57DzfziG) | [C7EVN](https://open.spotify.com/artist/1x3tuAfcbsouIU4tcaSKFw) | [TOPFIT](https://open.spotify.com/album/51IDT6haSxJgdBw0Ncp4ZV) | 1:17 |
 | 71 | [Bij Ons Hangen](https://open.spotify.com/track/0M71h6PMr1iIBcEX8iyPI9) | [Doordior](https://open.spotify.com/artist/6BQZRRT4mgthGsvqrs8a2h), [Jeice](https://open.spotify.com/artist/6M1mcZnPWXdpiUKkAS61EI), [Nintendo](https://open.spotify.com/artist/3f2ybby7eIj5JWpG3IO0KZ), [HB The Plug](https://open.spotify.com/artist/17fsAjYzpvI7C5M1D8T34T) | [Bij Ons Hangen](https://open.spotify.com/album/1uBSV3Ehc7pBKk3mH2xdHg) | 3:05 |
 
-Snapshot ID: `AAAAAJLOSiJ00BDjgymVuaIG0lGIqiHA`
+Snapshot ID: `AAAAADwDPXfPW8darR4CR4y6yx9N3+u3`

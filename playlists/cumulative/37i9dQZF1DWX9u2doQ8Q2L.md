@@ -4,7 +4,7 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-1,791 songs - 4 day 12 hr 19 min
+1,792 songs - 4 day 12 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [A24](https://open.spotify.com/track/291KmmFPIHGNZvekhqRTMC) | [BANNY BUGS](https://open.spotify.com/artist/2yttiOh6BTB10iOYtH0Fyq), [3House](https://open.spotify.com/artist/5hnSOpUeldFZV2lzs8TP1w) | [A24](https://open.spotify.com/album/2syB6hxQPvHrkILVlCffzJ) | 3:00 | 2024-05-28 | 2025-10-15 |
 | [abyss in the world](https://open.spotify.com/track/7g0px70vi7BKiSyZcBre2Y) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [abyss in the world](https://open.spotify.com/album/6p5nuvaCsrspKOkDsn3yPw) | 3:55 | 2026-07-10 | 2026-11-11 |
 | [After Party](https://open.spotify.com/track/6ZmTUJTej1ObruiiUsrnrc) | [yonawo](https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ) | [After Party](https://open.spotify.com/album/4EKE55nhtFpoxHdOJXKb1i) | 4:32 | 2022-06-16 | 2022-07-20 |
-| [After Rain](https://open.spotify.com/track/4FXsMYjDAPSTzhMfanWku8) | [3House](https://open.spotify.com/artist/5hnSOpUeldFZV2lzs8TP1w) | [After Rain](https://open.spotify.com/album/1CAomhM0hQtJsGz2vz1Q1e) | 2:54 | 2024-05-01 |  |
+| [After Rain](https://open.spotify.com/track/4FXsMYjDAPSTzhMfanWku8) | [3House](https://open.spotify.com/artist/5hnSOpUeldFZV2lzs8TP1w) | [After Rain](https://open.spotify.com/album/1CAomhM0hQtJsGz2vz1Q1e) | 2:54 | 2024-05-01 | 2026-11-14 |
 | [After that...](https://open.spotify.com/track/3h4VFjkuKs70dIXBCb5CcS) | [mei ehara](https://open.spotify.com/artist/7501C4PyvqS1BWbmrYq3LF) | [All About McGuffin](https://open.spotify.com/album/2G5FsWdPfY3zQKRUncRIa4) | 3:29 | 2025-09-12 | 2025-09-20 |
 | [Afterglow \- feat\. Nenashi](https://open.spotify.com/track/39I8cLedkfBP8YJp93JOxU) | [RiE MORRiS](https://open.spotify.com/artist/6MjrwCzODvPrFK6grutJB0), [Nenashi](https://open.spotify.com/artist/675S7vvHTkabWlPQinidmX) | [Afterglow \(feat\. Nenashi\)](https://open.spotify.com/album/613jaD5wJ0ggN19H0ly3QB) | 2:57 | 2023-06-13 | 2023-06-21 |
 | [AfterImages](https://open.spotify.com/track/1zkKWsLDrTKG5ToByKe0E6) | [CRCK/LCKS](https://open.spotify.com/artist/1iCsnjNikUpDDGDAxBalTs) | [総総](https://open.spotify.com/album/0ukIrlzz1XcfnCooUfWT43) | 4:14 | 2023-04-04 | 2023-04-26 |
@@ -322,6 +322,7 @@
 | [Drivin'](https://open.spotify.com/track/5dTFgyqxUJENFQgT3WpYDQ) | [LAGHEADS](https://open.spotify.com/artist/4ByaRqzQAftsd7bdCS3hqN), [kiki vivi lily](https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE) | [Drivin'](https://open.spotify.com/album/7hFgHs48yLBm8Q5WOLBSCJ) | 2:51 | 2022-07-19 | 2022-10-05 |
 | [Drowning \(feat\. J.O.Y\)](https://open.spotify.com/track/1cRUDjkjbNzIgmWvr7I7Ku) | [Snowk](https://open.spotify.com/artist/2IEDOKhzkk1EKk93fZ759r), [J.O.Y](https://open.spotify.com/artist/1oB65aeaC4Cql0h6VvX0mm) | [Drowning \(feat\. J.O.Y\)](https://open.spotify.com/album/04dAftkDJfXYsM9GF3tnXN) | 4:39 | 2022-12-13 | 2023-02-09 |
 | [Dude on horse \(feat\. ZOMBIE\-CHANG\)](https://open.spotify.com/track/34xqCjBT5u9p03QqRU5GsB) | [Agar Agar](https://open.spotify.com/artist/5TkylUv5ysSbNoawmn3PBj), [ZOMBIE\-CHANG](https://open.spotify.com/artist/3Wsg07elLUSq6AdkUw1W9U) | [Player Non Player](https://open.spotify.com/album/2j2pVa9Bw4UcXeWMFkq13K) | 2:31 | 2023-01-20 | 2023-03-08 |
+| [easy, no way!!](https://open.spotify.com/track/3qS6XGXooGQac24zVRDOrj) | [luv](https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB) | [wabi\-sabi](https://open.spotify.com/album/2ERfRPPmi9njWO7J2EfWib) | 3:23 | 2026-11-04 |  |
 | [eclipse](https://open.spotify.com/track/0V6KjZQAx4Jt3nOlFsBKu4) | [Fuki Kitamura](https://open.spotify.com/artist/0fOvbTCWRCSvYnOIFMiiX9) | [500mm](https://open.spotify.com/album/0v0QtZVYTmVuJ2MoYP44oz) | 3:54 | 2024-06-04 | 2024-07-03 |
 | [eden](https://open.spotify.com/track/2INM5qrVFHkFpfGWQ5FxLB) | [ひかりとだいち love SOIL&"PIMP"SESSIONS](https://open.spotify.com/artist/5kEUSsToZBCBfFr68aT7f9), [Hikari Mitsushima](https://open.spotify.com/artist/4ZX8Wr8KHHrW7radu6IwYG), [Daichi Miura](https://open.spotify.com/artist/4UTEZqrPqLDOhBfraPNciJ), [SOIL & “PIMP” SESSIONS](https://open.spotify.com/artist/5COMNbVWoe1Kb5UTFAaUwF) | [eden](https://open.spotify.com/album/317j5AzcY1fL9NgKAMZIcD) | 3:57 | 2023-02-28 | 2023-06-30 |
 | [EGO](https://open.spotify.com/track/63aYm38PRy9rEGt5j5Xney) | [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK), [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u) | [EGO](https://open.spotify.com/album/2hDx79gIhKj0TrHJ56pyP8) | 2:51 | 2024-02-27 | 2024-04-17 |

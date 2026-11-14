@@ -1,12 +1,12 @@
 {
   "description": "This is Zlatan. The essential tracks, all in one playlist.",
-  "num_followers": 9775,
+  "num_followers": 9782,
   "original_name": "This Is Zlatan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avOwAAAAAAAwsNfzGm9RHc0va7zyfVpY",
+  "snapshot_id": "avUBgAAAAADCrTU2arEEy/VTCnxct1rJ",
   "tracks": [
     {
       "added_at": null,
@@ -531,26 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Symbol of Hope",
-        "url": "https://open.spotify.com/album/27V1Jv5291nkV7CVFvQSwK"
-      },
-      "artists": [
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 139695,
-      "name": "Hip Hop Messiah",
-      "url": "https://open.spotify.com/track/3TOmsQ0PrHgM6WMYKpj0nO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Grind (Remix)",
         "url": "https://open.spotify.com/album/39gLwu2Xy7NTnCVGbAjH51"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 204000,
       "name": "Grind - Remix",
       "url": "https://open.spotify.com/track/2irYlw9LMULXI1E8qnnpl7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Symbol of Hope",
+        "url": "https://open.spotify.com/album/27V1Jv5291nkV7CVFvQSwK"
+      },
+      "artists": [
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 139695,
+      "name": "Hip Hop Messiah",
+      "url": "https://open.spotify.com/track/3TOmsQ0PrHgM6WMYKpj0nO"
     },
     {
       "added_at": null,
@@ -599,26 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "22",
-        "url": "https://open.spotify.com/album/2wRyRUAyi7cr8XITcisnKb"
-      },
-      "artists": [
-        {
-          "name": "Kunmie",
-          "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 169787,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/6EHjqiRgBtgzrlAKgC43bQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blessed",
         "url": "https://open.spotify.com/album/0X0hFVPZ4GfWlY9Gr6tSst"
       },
@@ -635,6 +615,26 @@
       "duration_ms": 153174,
       "name": "Account Balance",
       "url": "https://open.spotify.com/track/5C6r3u5SjqyBcE4ex7WqrS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "22",
+        "url": "https://open.spotify.com/album/2wRyRUAyi7cr8XITcisnKb"
+      },
+      "artists": [
+        {
+          "name": "Kunmie",
+          "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 169787,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/6EHjqiRgBtgzrlAKgC43bQ"
     },
     {
       "added_at": null,
@@ -659,6 +659,30 @@
       "duration_ms": 208561,
       "name": "PAY ME (feat. Stormzy and Zlatan)",
       "url": "https://open.spotify.com/track/48olFFX6QTTXB47q4qfPFU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hallelu",
+        "url": "https://open.spotify.com/album/61WdROyGDMJQDI91kpMVLM"
+      },
+      "artists": [
+        {
+          "name": "Masterkraft",
+          "url": "https://open.spotify.com/artist/0lEUtJddtvvDlxtEmF9j0m"
+        },
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 213492,
+      "name": "Hallelu",
+      "url": "https://open.spotify.com/track/0C8RxBixBaXYc5enAXIm28"
     },
     {
       "added_at": null,
@@ -703,30 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hallelu",
-        "url": "https://open.spotify.com/album/61WdROyGDMJQDI91kpMVLM"
-      },
-      "artists": [
-        {
-          "name": "Masterkraft",
-          "url": "https://open.spotify.com/artist/0lEUtJddtvvDlxtEmF9j0m"
-        },
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 213492,
-      "name": "Hallelu",
-      "url": "https://open.spotify.com/track/0C8RxBixBaXYc5enAXIm28"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Symbol of Hope",
         "url": "https://open.spotify.com/album/27V1Jv5291nkV7CVFvQSwK"
       },
@@ -739,6 +739,30 @@
       "duration_ms": 149743,
       "name": "Till Thy Kingdom Come",
       "url": "https://open.spotify.com/track/0CvjanYDvyFEb4qT91Mr8c"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SHOGUN IN LAGOS",
+        "url": "https://open.spotify.com/album/0Uq4u4UvnkLtofhMy4TOwe"
+      },
+      "artists": [
+        {
+          "name": "Didi B",
+          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "Chl\u00e9",
+          "url": "https://open.spotify.com/artist/78ExiA2p1L7zHf0qh3gvyv"
+        }
+      ],
+      "duration_ms": 243253,
+      "name": "JE M'APPELLE",
+      "url": "https://open.spotify.com/track/5v3mdFr8pPLv1BlVuXCRnT"
     },
     {
       "added_at": null,
@@ -783,30 +807,6 @@
       "duration_ms": 173712,
       "name": "Bolanle",
       "url": "https://open.spotify.com/track/7gSlSNvxiHC9HrKKbgKzYd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SHOGUN IN LAGOS",
-        "url": "https://open.spotify.com/album/0Uq4u4UvnkLtofhMy4TOwe"
-      },
-      "artists": [
-        {
-          "name": "Didi B",
-          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        },
-        {
-          "name": "Chl\u00e9",
-          "url": "https://open.spotify.com/artist/78ExiA2p1L7zHf0qh3gvyv"
-        }
-      ],
-      "duration_ms": 243253,
-      "name": "JE M'APPELLE",
-      "url": "https://open.spotify.com/track/5v3mdFr8pPLv1BlVuXCRnT"
     },
     {
       "added_at": null,
@@ -859,26 +859,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "STREET THERAPIST",
-        "url": "https://open.spotify.com/album/6uFxGbJq6pxF7TUVufFC4i"
-      },
-      "artists": [
-        {
-          "name": "Famous Pluto",
-          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 167657,
-      "name": "14DRoad",
-      "url": "https://open.spotify.com/track/6ttgo09Dm9yZfVUhQ4flbC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Uncle K: Lemon Chase",
         "url": "https://open.spotify.com/album/0nydN3qx0FP0T241UBQZPF"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 139666,
       "name": "Secure",
       "url": "https://open.spotify.com/track/0esYF9xrVgLdKPVAN0mrN4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "STREET THERAPIST",
+        "url": "https://open.spotify.com/album/6uFxGbJq6pxF7TUVufFC4i"
+      },
+      "artists": [
+        {
+          "name": "Famous Pluto",
+          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 167657,
+      "name": "14DRoad",
+      "url": "https://open.spotify.com/track/6ttgo09Dm9yZfVUhQ4flbC"
     },
     {
       "added_at": null,

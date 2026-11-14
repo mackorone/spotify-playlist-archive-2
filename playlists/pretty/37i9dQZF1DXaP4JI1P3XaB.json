@@ -1,13 +1,29 @@
 {
   "description": "A warm glittering glow of ambient jazz.",
-  "num_followers": 14822,
+  "num_followers": 14869,
   "original_name": "Twinkly",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAD9fibtEFtb2XuW9PzViJdD4rwpC",
+  "snapshot_id": "AAAAAAX/pO0rUZ2geFY5HUjLAavU04Gh",
   "tracks": [
+    {
+      "added_at": "2026-11-13 12:08:02",
+      "album": {
+        "name": "Animative",
+        "url": "https://open.spotify.com/album/2Dky1fEIKf5zyUVI6ISRlx"
+      },
+      "artists": [
+        {
+          "name": "Josh Johnson",
+          "url": "https://open.spotify.com/artist/6E2QUbsHDVzmrf1TVfGdwf"
+        }
+      ],
+      "duration_ms": 109660,
+      "name": "Aughts Hymnal",
+      "url": "https://open.spotify.com/track/6XQg1HLLx1rCJR12WnOPQb"
+    },
     {
       "added_at": "2026-10-09 12:29:07",
       "album": {
@@ -75,22 +91,6 @@
       "duration_ms": 519850,
       "name": "Miniature 8",
       "url": "https://open.spotify.com/track/6YT8DkYYeMdxWU3rFGp07p"
-    },
-    {
-      "added_at": "2026-10-23 13:05:59",
-      "album": {
-        "name": "It Can Be Everywhere",
-        "url": "https://open.spotify.com/album/7svvnEq4QxgxNYa3G04JVS"
-      },
-      "artists": [
-        {
-          "name": "Josh Johnson",
-          "url": "https://open.spotify.com/artist/6E2QUbsHDVzmrf1TVfGdwf"
-        }
-      ],
-      "duration_ms": 330490,
-      "name": "It Can Be Everywhere",
-      "url": "https://open.spotify.com/track/0glBCins7Uh2Ca5NtRaj7O"
     },
     {
       "added_at": "2026-10-09 12:29:07",

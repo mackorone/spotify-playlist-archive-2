@@ -2650,7 +2650,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 131291,
       "name": "Boogieman",
       "url": "https://open.spotify.com/track/7Mg5CBO37Rifk2RyDJ8fzd"
@@ -5456,7 +5456,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 128566,
       "name": "F You",
       "url": "https://open.spotify.com/track/5GJNSOZzuQ6mFYu4a2E54O"
@@ -8435,6 +8435,24 @@
     },
     {
       "album": {
+        "name": "GMFU",
+        "url": "https://open.spotify.com/album/0sjhU3kzHU2dfd6SVrzLIp"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146400,
+      "name": "I Did",
+      "url": "https://open.spotify.com/track/2LEMAgY1p14F1cwKu6mqaY"
+    },
+    {
+      "album": {
         "name": "Mr. Davis",
         "url": "https://open.spotify.com/album/2aTOwGU66ocsf8IQpOI0XZ"
       },
@@ -10562,7 +10580,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 144651,
       "name": "Low Down",
       "url": "https://open.spotify.com/track/5m0yZ33oOy0yYBtdTXuxQe"
@@ -15499,6 +15517,24 @@
     },
     {
       "album": {
+        "name": "GMFU",
+        "url": "https://open.spotify.com/album/0sjhU3kzHU2dfd6SVrzLIp"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142609,
+      "name": "She Da Baddest",
+      "url": "https://open.spotify.com/track/7n7iGAdVxjwFRbXG1Gv5b4"
+    },
+    {
+      "album": {
         "name": "She Make It Clap",
         "url": "https://open.spotify.com/album/1l5ZuwSAlGfOrHRmoNNoL3"
       },
@@ -17118,6 +17154,24 @@
       "duration_ms": 146666,
       "name": "Tell Me Why",
       "url": "https://open.spotify.com/track/11S1sUabJj7rArvWDFb491"
+    },
+    {
+      "album": {
+        "name": "GOOD DOPE SELL ITSELF",
+        "url": "https://open.spotify.com/album/1klnZYqw7rMDLendqpetLm"
+      },
+      "artists": [
+        {
+          "name": "Belly Gang Kushington",
+          "url": "https://open.spotify.com/artist/7oHPIc7BYAIUhYFF6hSggI"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152098,
+      "name": "Tellin Ya",
+      "url": "https://open.spotify.com/track/6MRyg0OtEAjrPFjpiZAljb"
     },
     {
       "album": {

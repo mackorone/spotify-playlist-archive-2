@@ -4,7 +4,7 @@
 
 > Discover new christian and gospel music\. Cover: Joe Mettle
 
-9,540 songs - 30 day 3 hr 58 min
+9,542 songs - 30 day 4 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -688,6 +688,7 @@
 | [Awesome God](https://open.spotify.com/track/5BqKP02QvTluDrs1S26MEx) | [Vicaxey Worship](https://open.spotify.com/artist/5xtV9pPMQ31Co6PK0oIUlV) | [Awesome God](https://open.spotify.com/album/6sOoPZRljTxUswDZyQ9BQW) | 21:10 | 2026-10-09 | 2026-10-16 |
 | [Awesome God \- Live](https://open.spotify.com/track/7atVKkIumpnTupDi91zxVe) | [Watoto](https://open.spotify.com/artist/35BkVhqEOG2cTuTQ4GiVbB) | [Love Never Fails \(Live\)](https://open.spotify.com/album/5hsHDimUMrEyHL8trpdooh) | 4:19 | 2026-09-04 | 2026-09-18 |
 | [Awesome God Mighty God](https://open.spotify.com/track/6A5U7gQ645bnwsimPMMnih) | [I\-fee Sound](https://open.spotify.com/artist/2KksbUKNi1zlUA3f2YEilP) | [Awesome God Mighty God](https://open.spotify.com/album/3UIUwBvz5Ned0De6yoKPch) | 4:19 | 2026-07-03 | 2026-07-11 |
+| [Awesome God, Mighty God](https://open.spotify.com/track/3hSqlq9jokfihi6aisqHgJ) | [TEHGAH](https://open.spotify.com/artist/4scHETu7kmTovJLCQq8Rla) | [Awesome God, Mighty God](https://open.spotify.com/album/7vN7vNWTCQ6B32qLYQejH1) | 8:37 | 2026-11-13 |  |
 | [Awesome Odogwu](https://open.spotify.com/track/2NEeaRmgR4mLNO3lKJNY1Y) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [Awesome Odogwu](https://open.spotify.com/album/3Q0g7cpzO4rvebRQISXvlj) | 3:50 | 2026-11-06 |  |
 | [AWIMAYEHUN](https://open.spotify.com/track/01D4dtI8TcIGvrVMbusgnN) | [I\-fee Sound](https://open.spotify.com/artist/2KksbUKNi1zlUA3f2YEilP) | [EVIDENCE](https://open.spotify.com/album/4Mf9uLxJ14ZB2ydNaOGfO9) | 3:17 | 2026-06-12 | 2026-06-26 |
 | [Awimayehun](https://open.spotify.com/track/5Y5ngVo5FFyb1vF4MQWVLn) | [Israel the creator](https://open.spotify.com/artist/5SATwYWqLzEg84BWHdQjmX) | [Awimayehun](https://open.spotify.com/album/4wZmEQkWtxvOb5iTAwkN55) | 2:25 | 2024-05-24 | 2024-06-07 |
@@ -6450,6 +6451,7 @@
 | [Open up \(Make Room\)](https://open.spotify.com/track/6EX3wYHpk2patE6fpxPKsI) | [Iryne Rock](https://open.spotify.com/artist/0lZBllAgaDbRiaQnNJJFLe) | [Open up \(Make Room\)](https://open.spotify.com/album/61UrYZ0mhPbBbAnITnq9l6) | 4:22 | 2023-06-30 | 2023-07-14 |
 | [OPEN UP YOUR BIBLE](https://open.spotify.com/track/3gWma2IFJpjBc2oqpImOIO) | [H4ZE](https://open.spotify.com/artist/7KTj22FQCwGE0ZtVhRmRsK) | [OPEN UP YOUR BIBLE](https://open.spotify.com/album/1F0lo78MSrihv4M48GBfWY) | 2:22 | 2023-05-26 | 2023-06-09 |
 | [Open Your Eyes](https://open.spotify.com/track/4CNe6cdSc2dJLczB9UQDAd) | [TESTIMONY JAGA](https://open.spotify.com/artist/0RuEx08C8sVTmomMsW9N3h) | [Open Your Eyes](https://open.spotify.com/album/1UNbBrt3OS9zRM1DWCyVge) | 2:59 | 2026-10-23 | 2026-11-06 |
+| [Opening \- Ivangeli \- Live](https://open.spotify.com/track/5T5hF7TJrKEd2xB2MlYZ3a) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Spirit of Praise Choir](https://open.spotify.com/artist/598iFL4vIXJNBPQHcB8jDG), [Nhlanhla Sibisi](https://open.spotify.com/artist/0IVAeXQr9He3cUd2QTdsHK) | [Spirit Of Praise 12 \(Live\)](https://open.spotify.com/album/6xddYB6RyT68q0yavezJ0d) | 5:25 | 2026-11-13 |  |
 | [Opeyemi](https://open.spotify.com/track/0jczaE1hXG4DA2BFGvqpqj) | [Yemim](https://open.spotify.com/artist/4Niki6GWIsgmiDk8bYLXiy) | [Opeyemi](https://open.spotify.com/album/0fgZCkMf4FRh6l0FW8A6h4) | 2:01 | 2025-05-09 | 2025-05-23 |
 | [Opinions](https://open.spotify.com/track/15VxsRNr42N3IgJCLkGMQR) | [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Opinions](https://open.spotify.com/album/0AVpXpicxq7cl81eZtJahB) | 2:20 | 2025-03-07 | 2025-03-21 |
 | [Opoor](https://open.spotify.com/track/4x8FvaKlTNG3xqH2FFIEMh) | [John Cohen](https://open.spotify.com/artist/2FtfAArq8K0ErCdNtzwK4T) | [Opoor](https://open.spotify.com/album/1Bn7ykazgGUp0jbygng6uw) | 2:29 | 2026-10-23 | 2026-11-06 |
@@ -8341,7 +8343,6 @@
 | [Toxic](https://open.spotify.com/track/1aTAnmQGXqz82RXhoLBSsQ) | [FOEVA](https://open.spotify.com/artist/2heAYgLQ8mW1NBwAIWYDfI) | [Toxic](https://open.spotify.com/album/2WGaiKFPFEat303TwLbuUt) | 2:40 | 2024-01-19 | 2024-02-02 |
 | [TOXIC \(Racing Thoughts\)](https://open.spotify.com/track/5U4Ovjih4AkPzm6qKgRSHs) | [XLVI K](https://open.spotify.com/artist/25gWj8pjTtslFIsLHx31IT) | [TOXIC \(Racing Thoughts\)](https://open.spotify.com/album/4rMQD6m79Z10fLzHwWUaKs) | 3:22 | 2024-03-08 | 2024-03-16 |
 | [TPC](https://open.spotify.com/track/4NeAVZAhCl8c2AX7Cwr5zL) | [Da Voice](https://open.spotify.com/artist/5Dc9tfmomwFNnBY10xj0kj) | [TPC](https://open.spotify.com/album/3s7VHDyi99q9iFlxY1slbq) | 3:48 | 2024-09-27 | 2024-10-11 |
-| [Track 1](https://open.spotify.com/track/5T5hF7TJrKEd2xB2MlYZ3a) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa) | [Spirit Of Praise 12 \(Live\)](https://open.spotify.com/album/6xddYB6RyT68q0yavezJ0d) | 0:00 | 2026-11-13 |  |
 | [Transitions](https://open.spotify.com/track/6Hz9LQZ6Ojoa3a5DmVVP4N) | [Rohi Shaapera](https://open.spotify.com/artist/10C5zzyN7mS8BBJLqyTYUr) | [Transitions](https://open.spotify.com/album/7Gz5EoGHx4kRNzkTSelrF9) | 2:42 | 2025-07-04 | 2025-07-18 |
 | [Traumatized](https://open.spotify.com/track/4IuztXrOUvnDUONYGT5pc3) | [2Larni](https://open.spotify.com/artist/0OEREBZdg9v3W9w1L5xY4d) | [Traumatized](https://open.spotify.com/album/5dhM2pMbxRKCn65QwKccw9) | 1:28 | 2024-02-09 | 2024-02-16 |
 | [Traveller](https://open.spotify.com/track/0mCxma7UENksj35Hxm1k88) | [Father Ankrah Music](https://open.spotify.com/artist/0yt8H7q2YCQi8kUi1KeK6N) | [Traveller](https://open.spotify.com/album/19Xf6cvv5NKVkMDuZiesH2) | 3:13 | 2025-03-28 | 2025-04-11 |
@@ -8391,6 +8392,7 @@
 | [Tshanda Tshau Yehova \- Live](https://open.spotify.com/track/4G7dubWC6XmwMrnLVt7WRT) | [ROFHIWA MANYAGA](https://open.spotify.com/artist/6hYQnls4RShBxrh47cd6i5) | [IssaYearEndFunction](https://open.spotify.com/album/4rMh1SylOQvME1lYNsQwQP) | 4:31 | 2025-04-18 | 2025-04-25 |
 | [Tshepo Ya Lefatshe](https://open.spotify.com/track/0r9SsIPTibFOQ6r6tPfcte) | [Lebo Elle Tisane](https://open.spotify.com/artist/5OjmAYpmIb99cv5HC7Rwkt) | [In Season](https://open.spotify.com/album/1yax3wDYJRlKUgOZhDGJZZ) | 5:07 | 2025-10-10 | 2025-10-24 |
 | [Tshin Fondini](https://open.spotify.com/track/4KKWQDYstoGC3sp6BlTt3F) | [Lxndi](https://open.spotify.com/artist/4I1JNccl1ieCh2TDOcSbnA), [Loux Bvnks](https://open.spotify.com/artist/0WI0E47t7NuZzJvwLlNULm), [Slate The Great](https://open.spotify.com/artist/55WQVcCsqZKslvdFtZYTXp) | [Tshin Fondini](https://open.spotify.com/album/5ZfbhBtabUpn4ZTtFffHrn) | 3:14 | 2025-05-30 | 2025-06-06 |
+| [Tso Wulu\(Great Tree\)](https://open.spotify.com/track/21XV4JoPj0hTafp9Uk6QOI) | [Perez Musik](https://open.spotify.com/artist/0aoCkJnz41cyF84JmMISzI) | [Tso Wulu\(Great Tree\)](https://open.spotify.com/album/6yUQM6CI1h5k5EsqIVXi9j) | 4:24 | 2026-11-13 |  |
 | [Tu agis encore \(live acoustique\)](https://open.spotify.com/track/474uJbq91Ph9TQiYhdWEdF) | [Ennerick Abaga](https://open.spotify.com/artist/39rlMM2VIH4DTZJ3dxrHnp) | [Tu agis encore \(live acoustique\)](https://open.spotify.com/album/0MMaOYrosVb31SiROLyBRz) | 2:27 | 2024-01-12 | 2024-01-26 |
 | [Tu Armour \- Sped Up](https://open.spotify.com/track/4bOrpxq6mtjV7NLkqW79D8) | [Dj Penny](https://open.spotify.com/artist/0m8Pugts84dRwQV3sYSJuY), [Gracelife Ent.](https://open.spotify.com/artist/48pe2OsBzyglZRSH8Izs6E) | [Tu Armour \(Sped Up\)](https://open.spotify.com/album/35hrDarwHgkM2dCCXMumBY) | 2:05 | 2023-11-24 | 2023-12-01 |
 | [Tu crois pas?](https://open.spotify.com/track/7JsrMd2B2XfTWuDIcFl98I) | [M I L O](https://open.spotify.com/artist/3h8ysJX4brfjOTz1GmlhLa) | [Tu crois pas?](https://open.spotify.com/album/4ejHFax0cPgG3JKTYkYvav) | 2:41 | 2024-04-12 | 2024-04-26 |

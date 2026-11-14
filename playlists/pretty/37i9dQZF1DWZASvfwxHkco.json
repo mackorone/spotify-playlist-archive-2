@@ -1,12 +1,12 @@
 {
   "description": "\u4e16\u754c\u4e2d\u3067\u8a71\u984c\u306e\u30a8\u30ec\u30af\u30c8\u30ed\u30cb\u30c3\u30af\u30fb\u30c0\u30f3\u30b9\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u3092\u4e00\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\uff01Cover: BAMBII",
-  "num_followers": 68489,
+  "num_followers": 68493,
   "original_name": "mint Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGi5SOSW7nzbXkYDuLwpoSPZZlMV",
+  "snapshot_id": "AAAAADK7Qms8VLd4tfKvHdgCqkjgprCL",
   "tracks": [
     {
       "added_at": "2026-11-05 15:00:42",
@@ -111,6 +111,26 @@
     {
       "added_at": "2026-11-05 15:00:42",
       "album": {
+        "name": "I Don't Wanna Wait",
+        "url": "https://open.spotify.com/album/0wCLHkBRKcndhMQQpeo8Ji"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 149667,
+      "name": "I Don't Wanna Wait",
+      "url": "https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq"
+    },
+    {
+      "added_at": "2026-11-05 15:00:42",
+      "album": {
         "name": "Free Your Mind",
         "url": "https://open.spotify.com/album/0uo2O3BcYrZJzCnHk0I0BU"
       },
@@ -131,26 +151,6 @@
       "duration_ms": 201700,
       "name": "Free Your Mind",
       "url": "https://open.spotify.com/track/6TWbY1dq8eYtFiMiGdBlOa"
-    },
-    {
-      "added_at": "2026-11-05 15:00:42",
-      "album": {
-        "name": "I Don't Wanna Wait",
-        "url": "https://open.spotify.com/album/0wCLHkBRKcndhMQQpeo8Ji"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 149667,
-      "name": "I Don't Wanna Wait",
-      "url": "https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq"
     },
     {
       "added_at": "2026-11-05 15:00:42",
@@ -283,46 +283,6 @@
     {
       "added_at": "2026-11-05 15:00:42",
       "album": {
-        "name": "Let's Go",
-        "url": "https://open.spotify.com/album/44KFMrvFfUfkcBeKjJLjN6"
-      },
-      "artists": [
-        {
-          "name": "Jaden Bojsen",
-          "url": "https://open.spotify.com/artist/1eUSEIGd3eCEUOeLFgJACg"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Sami Brielle",
-          "url": "https://open.spotify.com/artist/6V6BALByk0ltXfNPJPvwSK"
-        }
-      ],
-      "duration_ms": 159577,
-      "name": "Let's Go",
-      "url": "https://open.spotify.com/track/6Qr4ufjYXdEd0KNFd7sJxx"
-    },
-    {
-      "added_at": "2026-11-05 15:00:42",
-      "album": {
-        "name": "iDANCE2MUSIC",
-        "url": "https://open.spotify.com/album/4HTKhKBjRuyypTWXRFte9H"
-      },
-      "artists": [
-        {
-          "name": "N \u00b2",
-          "url": "https://open.spotify.com/artist/1bxbwc6HlS2I3eoZGheDyU"
-        }
-      ],
-      "duration_ms": 213169,
-      "name": "iPHONE5",
-      "url": "https://open.spotify.com/track/7xRVSLTpJYwUZQAl7PR64T"
-    },
-    {
-      "added_at": "2026-11-05 15:00:42",
-      "album": {
         "name": "Think of You",
         "url": "https://open.spotify.com/album/4hcegnEOFKkp8qKlgDzirk"
       },
@@ -343,6 +303,46 @@
       "duration_ms": 204884,
       "name": "Think of You",
       "url": "https://open.spotify.com/track/0sPP9TW0xSgke7EKBW6Gui"
+    },
+    {
+      "added_at": "2026-11-05 15:00:42",
+      "album": {
+        "name": "iDANCE2MUSIC",
+        "url": "https://open.spotify.com/album/4HTKhKBjRuyypTWXRFte9H"
+      },
+      "artists": [
+        {
+          "name": "N \u00b2",
+          "url": "https://open.spotify.com/artist/1bxbwc6HlS2I3eoZGheDyU"
+        }
+      ],
+      "duration_ms": 213169,
+      "name": "iPHONE5",
+      "url": "https://open.spotify.com/track/7xRVSLTpJYwUZQAl7PR64T"
+    },
+    {
+      "added_at": "2026-11-05 15:00:42",
+      "album": {
+        "name": "Let's Go",
+        "url": "https://open.spotify.com/album/44KFMrvFfUfkcBeKjJLjN6"
+      },
+      "artists": [
+        {
+          "name": "Jaden Bojsen",
+          "url": "https://open.spotify.com/artist/1eUSEIGd3eCEUOeLFgJACg"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Sami Brielle",
+          "url": "https://open.spotify.com/artist/6V6BALByk0ltXfNPJPvwSK"
+        }
+      ],
+      "duration_ms": 159577,
+      "name": "Let's Go",
+      "url": "https://open.spotify.com/track/6Qr4ufjYXdEd0KNFd7sJxx"
     },
     {
       "added_at": "2026-11-05 15:00:42",
@@ -495,22 +495,18 @@
     {
       "added_at": "2026-11-05 15:00:42",
       "album": {
-        "name": "Satisfy",
-        "url": "https://open.spotify.com/album/55aZFGWITREqVoI2iy45Bd"
+        "name": "Wait So Long (Why Do I Have To)",
+        "url": "https://open.spotify.com/album/4iJYUempAYp2xtPrUX5qKl"
       },
       "artists": [
         {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Jazzy",
-          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
         }
       ],
-      "duration_ms": 186500,
-      "name": "Satisfy",
-      "url": "https://open.spotify.com/track/3AsOa3cNh8bqF4q1temSHE"
+      "duration_ms": 199479,
+      "name": "Wait So Long (Why Do I Have To)",
+      "url": "https://open.spotify.com/track/1UlkpIKiVchDMB03AN6LmT"
     },
     {
       "added_at": "2026-11-05 15:00:42",
@@ -535,6 +531,26 @@
     {
       "added_at": "2026-11-05 15:00:42",
       "album": {
+        "name": "Satisfy",
+        "url": "https://open.spotify.com/album/55aZFGWITREqVoI2iy45Bd"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        }
+      ],
+      "duration_ms": 186500,
+      "name": "Satisfy",
+      "url": "https://open.spotify.com/track/3AsOa3cNh8bqF4q1temSHE"
+    },
+    {
+      "added_at": "2026-11-05 15:00:42",
+      "album": {
         "name": "Save Me Tonight",
         "url": "https://open.spotify.com/album/4ha2YPiAGZrV5OIIKJkt9Z"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 196003,
       "name": "Save Me Tonight",
       "url": "https://open.spotify.com/track/4WuAr5SE1ZfXxu6OWtykkG"
-    },
-    {
-      "added_at": "2026-11-05 15:00:42",
-      "album": {
-        "name": "Wait So Long (Why Do I Have To)",
-        "url": "https://open.spotify.com/album/4iJYUempAYp2xtPrUX5qKl"
-      },
-      "artists": [
-        {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        }
-      ],
-      "duration_ms": 199479,
-      "name": "Wait So Long (Why Do I Have To)",
-      "url": "https://open.spotify.com/track/1UlkpIKiVchDMB03AN6LmT"
     },
     {
       "added_at": "2026-11-05 15:00:42",
@@ -735,22 +735,6 @@
     {
       "added_at": "2026-11-05 15:00:42",
       "album": {
-        "name": "Baby",
-        "url": "https://open.spotify.com/album/61Sce8yicPSTcvGnBQAKgb"
-      },
-      "artists": [
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        }
-      ],
-      "duration_ms": 228855,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/2JfbXVeuhArnP3ASJfIT7d"
-    },
-    {
-      "added_at": "2026-11-05 15:00:42",
-      "album": {
         "name": "HIGHJACK (right back)",
         "url": "https://open.spotify.com/album/6CkVgejgX1Oypxu8rGI1VQ"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 161982,
       "name": "HIGHJACK (right back)",
       "url": "https://open.spotify.com/track/1Eqdkt6DfGNWElHpeujHGJ"
+    },
+    {
+      "added_at": "2026-11-05 15:00:42",
+      "album": {
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/61Sce8yicPSTcvGnBQAKgb"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        }
+      ],
+      "duration_ms": 228855,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/2JfbXVeuhArnP3ASJfIT7d"
     },
     {
       "added_at": "2026-11-05 15:00:42",
@@ -943,6 +943,30 @@
     {
       "added_at": "2026-11-05 15:00:42",
       "album": {
+        "name": "Never Going Home Tonight (feat. Madison Love)",
+        "url": "https://open.spotify.com/album/0tn39dXCidefjSr5PqXbcX"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Madison Love",
+          "url": "https://open.spotify.com/artist/3BkE65DVH2NZSDQa6ZszcJ"
+        }
+      ],
+      "duration_ms": 164285,
+      "name": "Never Going Home Tonight (feat. Madison Love)",
+      "url": "https://open.spotify.com/track/7K1BLb6MpvKuGEPpHw35mO"
+    },
+    {
+      "added_at": "2026-11-05 15:00:42",
+      "album": {
         "name": "Say Something",
         "url": "https://open.spotify.com/album/7G8gqx5GoTSdTJ41gU0d6i"
       },
@@ -959,30 +983,6 @@
       "duration_ms": 228947,
       "name": "Say Something",
       "url": "https://open.spotify.com/track/4yJBJNrl3chEz7DqAaWe7y"
-    },
-    {
-      "added_at": "2026-11-05 15:00:42",
-      "album": {
-        "name": "Together",
-        "url": "https://open.spotify.com/album/0mKkxxckoZDTcB1JhlCpcH"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Hypaton",
-          "url": "https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7"
-        },
-        {
-          "name": "Bonnie Tyler",
-          "url": "https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2"
-        }
-      ],
-      "duration_ms": 153750,
-      "name": "Together",
-      "url": "https://open.spotify.com/track/3XJQz97R6A7bXn8awvFknM"
     },
     {
       "added_at": "2026-11-05 15:00:42",
@@ -1047,6 +1047,30 @@
     {
       "added_at": "2026-11-05 15:00:42",
       "album": {
+        "name": "Together",
+        "url": "https://open.spotify.com/album/0mKkxxckoZDTcB1JhlCpcH"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Hypaton",
+          "url": "https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7"
+        },
+        {
+          "name": "Bonnie Tyler",
+          "url": "https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2"
+        }
+      ],
+      "duration_ms": 153750,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/3XJQz97R6A7bXn8awvFknM"
+    },
+    {
+      "added_at": "2026-11-05 15:00:42",
+      "album": {
         "name": "Generic Everything",
         "url": "https://open.spotify.com/album/2cu3mSocMVwnSnV9Ge69Do"
       },
@@ -1063,30 +1087,6 @@
       "duration_ms": 188624,
       "name": "Carnage (feat. Little Simz)",
       "url": "https://open.spotify.com/track/2DNHy7NQNQO40EkGlrgtkY"
-    },
-    {
-      "added_at": "2026-11-05 15:00:42",
-      "album": {
-        "name": "Never Going Home Tonight (feat. Madison Love)",
-        "url": "https://open.spotify.com/album/0tn39dXCidefjSr5PqXbcX"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Madison Love",
-          "url": "https://open.spotify.com/artist/3BkE65DVH2NZSDQa6ZszcJ"
-        }
-      ],
-      "duration_ms": 164285,
-      "name": "Never Going Home Tonight (feat. Madison Love)",
-      "url": "https://open.spotify.com/track/7K1BLb6MpvKuGEPpHw35mO"
     },
     {
       "added_at": "2026-11-05 15:00:42",
@@ -1131,22 +1131,6 @@
       "duration_ms": 234366,
       "name": "Stars Will Align",
       "url": "https://open.spotify.com/track/5REMa10O4aA2mLtYyflWxs"
-    },
-    {
-      "added_at": "2026-11-05 15:00:42",
-      "album": {
-        "name": "Party",
-        "url": "https://open.spotify.com/album/674Qcc5Gc2YpyGE7oDMpiQ"
-      },
-      "artists": [
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        }
-      ],
-      "duration_ms": 201331,
-      "name": "Party",
-      "url": "https://open.spotify.com/track/0zbf6dj8GkCdYRRRph7ELk"
     },
     {
       "added_at": "2026-11-05 15:00:42",
@@ -1235,6 +1219,22 @@
     {
       "added_at": "2026-11-05 15:00:42",
       "album": {
+        "name": "Party",
+        "url": "https://open.spotify.com/album/674Qcc5Gc2YpyGE7oDMpiQ"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 201331,
+      "name": "Party",
+      "url": "https://open.spotify.com/track/0zbf6dj8GkCdYRRRph7ELk"
+    },
+    {
+      "added_at": "2026-11-05 15:00:42",
+      "album": {
         "name": "Dive Into Me",
         "url": "https://open.spotify.com/album/4wXWmSfJIQerp2UJ2K0wEa"
       },
@@ -1291,6 +1291,26 @@
     {
       "added_at": "2026-11-05 15:00:42",
       "album": {
+        "name": "Focus (feat. CLOVES)",
+        "url": "https://open.spotify.com/album/4hwsD3b6V8962BDX5nCiFF"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "CLOVES",
+          "url": "https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c"
+        }
+      ],
+      "duration_ms": 238242,
+      "name": "Focus (feat. CLOVES)",
+      "url": "https://open.spotify.com/track/0xaXwvcjq7aAKwMKe22Bw7"
+    },
+    {
+      "added_at": "2026-11-05 15:00:42",
+      "album": {
         "name": "Recollect",
         "url": "https://open.spotify.com/album/6IdC8Pr6SJL3lzeZXSBmKn"
       },
@@ -1311,26 +1331,6 @@
       "duration_ms": 190965,
       "name": "Recollect",
       "url": "https://open.spotify.com/track/3Ltu1EsS0IiHNJcJYwfTkL"
-    },
-    {
-      "added_at": "2026-11-05 15:00:42",
-      "album": {
-        "name": "Focus (feat. CLOVES)",
-        "url": "https://open.spotify.com/album/4hwsD3b6V8962BDX5nCiFF"
-      },
-      "artists": [
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        },
-        {
-          "name": "CLOVES",
-          "url": "https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c"
-        }
-      ],
-      "duration_ms": 238242,
-      "name": "Focus (feat. CLOVES)",
-      "url": "https://open.spotify.com/track/0xaXwvcjq7aAKwMKe22Bw7"
     },
     {
       "added_at": "2026-11-05 15:00:42",
@@ -1523,30 +1523,6 @@
     {
       "added_at": "2026-11-05 15:00:42",
       "album": {
-        "name": "Love Triangle",
-        "url": "https://open.spotify.com/album/2pMOWlF8r0xfUkrloQEO49"
-      },
-      "artists": [
-        {
-          "name": "Ang\u00e8le",
-          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
-        },
-        {
-          "name": "Caroline Polachek",
-          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
-        },
-        {
-          "name": "SebastiAn",
-          "url": "https://open.spotify.com/artist/5tOWIviwLM1EIqGAbF8VSU"
-        }
-      ],
-      "duration_ms": 224206,
-      "name": "Love Triangle",
-      "url": "https://open.spotify.com/track/5AdL0XU6R5bN6RweaQsCHr"
-    },
-    {
-      "added_at": "2026-11-05 15:00:42",
-      "album": {
         "name": "Another World",
         "url": "https://open.spotify.com/album/72ArwEgG0egqM3vmQKxWVZ"
       },
@@ -1583,6 +1559,30 @@
       "duration_ms": 199741,
       "name": "Iris",
       "url": "https://open.spotify.com/track/3zlLhEnV9yMRRSE3bFS0Xe"
+    },
+    {
+      "added_at": "2026-11-05 15:00:42",
+      "album": {
+        "name": "Love Triangle",
+        "url": "https://open.spotify.com/album/2pMOWlF8r0xfUkrloQEO49"
+      },
+      "artists": [
+        {
+          "name": "Ang\u00e8le",
+          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
+        },
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        },
+        {
+          "name": "SebastiAn",
+          "url": "https://open.spotify.com/artist/5tOWIviwLM1EIqGAbF8VSU"
+        }
+      ],
+      "duration_ms": 224206,
+      "name": "Love Triangle",
+      "url": "https://open.spotify.com/track/5AdL0XU6R5bN6RweaQsCHr"
     },
     {
       "added_at": "2026-11-05 15:00:42",

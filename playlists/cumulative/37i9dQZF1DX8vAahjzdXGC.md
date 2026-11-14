@@ -4,7 +4,7 @@
 
 > Rilisan baru pekan ini dari MALIQ & D'Essentials, Bernadya, Bunga Citra Lestari, NCT Dream dan masih banyak lagi dari dalam dan mancanegara.
 
-34,106 songs - 80 day 19 hr 26 min
+34,107 songs - 80 day 19 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30614,6 +30614,7 @@
 | [Tracy](https://open.spotify.com/track/2Irs8tqS6DELbaFlwlwRTC) | [Pash](https://open.spotify.com/artist/3jEgbW70PXxv993symSK35) | [Tracy](https://open.spotify.com/album/6KOs8bG57zs3LK9i3rydM0) | 2:20 | 2025-11-13 | 2025-11-21 |
 | [trade my heart](https://open.spotify.com/track/6mJlNpwE6l3t6ywhH0XaxZ) | [Charlie Lim](https://open.spotify.com/artist/3FodFdWfVWIiER6Cv6YVVQ), [The Great Wave](https://open.spotify.com/artist/412jpyHI88qzMVLyDRe3VB), [KEYANA](https://open.spotify.com/artist/55xVPquXFuGsZjvx4i68GZ) | [trade my heart](https://open.spotify.com/album/2kSl0HqEZds3JgqB56RMa5) | 3:53 | 2022-06-30 | 2022-07-08 |
 | [Trade Places](https://open.spotify.com/track/3yBI1IVune0k7Tsmcy8BVh) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Monica](https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES) | 3:02 | 2026-03-13 | 2026-03-20 |
+| [TRAFFIC JAMM](https://open.spotify.com/track/1oIL5AgeAO9r3dMQSuwyHX) | [Bunkface](https://open.spotify.com/artist/70B8WzgEFajrIE820yi08H) | [TRAFFIC JAMM](https://open.spotify.com/album/4srwCTaXmihITPaSRPIgtQ) | 2:00 | 2026-11-13 |  |
 | [Tragedy](https://open.spotify.com/track/22RbBpcpvW5sZwnSyXesUh) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [Tragedy](https://open.spotify.com/album/1M9ewERGU0rDrYdS1yz4RF) | 3:49 | 2024-01-18 | 2024-01-26 |
 | [TRAGIC \(feat\. Youngboy Never Broke Again & Internet Money\)](https://open.spotify.com/track/13EW51DKru044OJDJ9Bm8o) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0) | [F\*CK LOVE \(SAVAGE\)](https://open.spotify.com/album/3YjfdLdpQcVI72uKhooZst) | 2:33 | 2020-11-06 | 2020-11-13 |
 | [Tragic Love](https://open.spotify.com/track/1UBwp5S204qFsVS0enwAEo) | [H I N A N O](https://open.spotify.com/artist/6tO81LUACIiheJWoVBJ5PY) | [Tragic Love](https://open.spotify.com/album/4YxfdqBl4tSYgERe54AWPS) | 3:23 | 2023-12-14 | 2023-12-22 |

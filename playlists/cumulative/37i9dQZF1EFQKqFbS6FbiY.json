@@ -13252,6 +13252,24 @@
     {
       "album": {
         "name": "Tr\u00eas Vidas",
+        "url": "https://open.spotify.com/album/27oYsg8thAUOs4BelNOpXK"
+      },
+      "artists": [
+        {
+          "name": "Edy Britto & Samuel",
+          "url": "https://open.spotify.com/artist/6UWCS7TrQo1V96jomn1k8U"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217544,
+      "name": "Tr\u00eas Vidas",
+      "url": "https://open.spotify.com/track/33bIJYreoid0DFvvqAFcpD"
+    },
+    {
+      "album": {
+        "name": "Tr\u00eas Vidas",
         "url": "https://open.spotify.com/album/2cWv59k8rlvmEY4XBNwPTA"
       },
       "artists": [
@@ -13262,7 +13280,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 217544,
       "name": "Tr\u00eas Vidas",
       "url": "https://open.spotify.com/track/6i2HdoE2A4K2ENyJ4oRjmY"

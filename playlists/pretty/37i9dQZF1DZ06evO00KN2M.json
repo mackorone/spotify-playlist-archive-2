@@ -1,12 +1,12 @@
 {
   "description": "This is Fleetwood Mac. The essential tracks, all in one playlist.",
-  "num_followers": 1191423,
+  "num_followers": 1191551,
   "original_name": "This Is Fleetwood Mac",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avOwAAAAAAC7P9knu3WsaQ0Exs3JgJQd",
+  "snapshot_id": "avUBgAAAAACo5ie4qtLH1vud/HY1MNnc",
   "tracks": [
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Pious Bird of Good Omen",
-        "url": "https://open.spotify.com/album/2KOI69X6VG66offffHQvjg"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 172693,
-      "name": "Black Magic Woman - 2018 Master",
-      "url": "https://open.spotify.com/track/6y5eBHh57iYViDkK4Hn6R7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fleetwood Mac",
         "url": "https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo"
       },
@@ -635,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bare Trees",
-        "url": "https://open.spotify.com/album/4yjFzAgg5VcidLwoZiQmbi"
+        "name": "The Pious Bird of Good Omen",
+        "url": "https://open.spotify.com/album/2KOI69X6VG66offffHQvjg"
       },
       "artists": [
         {
@@ -644,9 +628,25 @@
           "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
         }
       ],
-      "duration_ms": 190666,
-      "name": "Sunny Side of Heaven",
-      "url": "https://open.spotify.com/track/3kpH1izy0QrjIDBFbz83YD"
+      "duration_ms": 172693,
+      "name": "Black Magic Woman - 2018 Master",
+      "url": "https://open.spotify.com/track/6y5eBHh57iYViDkK4Hn6R7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tusk (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1d075yQcykHjerQ2BN0ABn"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 164333,
+      "name": "Think About Me - 2015 Remaster",
+      "url": "https://open.spotify.com/track/1Q5kDGREVR7mcTjhvuFLm1"
     },
     {
       "added_at": null,
@@ -667,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tusk (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1d075yQcykHjerQ2BN0ABn"
+        "name": "Bare Trees",
+        "url": "https://open.spotify.com/album/4yjFzAgg5VcidLwoZiQmbi"
       },
       "artists": [
         {
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
         }
       ],
-      "duration_ms": 164333,
-      "name": "Think About Me - 2015 Remaster",
-      "url": "https://open.spotify.com/track/1Q5kDGREVR7mcTjhvuFLm1"
+      "duration_ms": 190666,
+      "name": "Sunny Side of Heaven",
+      "url": "https://open.spotify.com/track/3kpH1izy0QrjIDBFbz83YD"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Valerie June. The essential tracks, all in one playlist.",
-  "num_followers": 16938,
+  "num_followers": 16937,
   "original_name": "This Is Valerie June",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avOwAAAAAAB9duDzNgM+FCREt9gLLT99",
+  "snapshot_id": "avUBgAAAAAA1iFmOGQqSpZNNbUYwdHM7",
   "tracks": [
     {
       "added_at": null,
@@ -651,26 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tyrannosaur",
-        "url": "https://open.spotify.com/album/4tOWMzJgaAw6wg8BgbyUpB"
-      },
-      "artists": [
-        {
-          "name": "Sachal Vasandani",
-          "url": "https://open.spotify.com/artist/4sctitB70tTmziCPMwYJJr"
-        },
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 199642,
-      "name": "Tyrannosaur",
-      "url": "https://open.spotify.com/track/4ZdFgFJ4nsXneiT5QeLVM3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "JPEG RAW",
         "url": "https://open.spotify.com/album/09XurHGqbBgvj7SH96UbPV"
       },
@@ -687,26 +667,6 @@
       "duration_ms": 183634,
       "name": "Don't Start (feat. Valerie June)",
       "url": "https://open.spotify.com/track/1NAyk3RK82m5M1IKki0caf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Owls, Omens, and Oracles",
-        "url": "https://open.spotify.com/album/5K6SF5pgdnfHRnuC4gaC0Q"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        },
-        {
-          "name": "The Blind Boys Of Alabama",
-          "url": "https://open.spotify.com/artist/5TVL4FXEntBYZb3ujyt6fH"
-        }
-      ],
-      "duration_ms": 125613,
-      "name": "Changed (Feat. The Blind Boys Of Alabama)",
-      "url": "https://open.spotify.com/track/6YVZvK9SVUQSJg3RB2Cjkf"
     },
     {
       "added_at": null,
@@ -735,6 +695,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Owls, Omens, and Oracles",
+        "url": "https://open.spotify.com/album/5K6SF5pgdnfHRnuC4gaC0Q"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        },
+        {
+          "name": "The Blind Boys Of Alabama",
+          "url": "https://open.spotify.com/artist/5TVL4FXEntBYZb3ujyt6fH"
+        }
+      ],
+      "duration_ms": 125613,
+      "name": "Changed (Feat. The Blind Boys Of Alabama)",
+      "url": "https://open.spotify.com/track/6YVZvK9SVUQSJg3RB2Cjkf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Use Me",
         "url": "https://open.spotify.com/album/6MCzIFRAFlSQeXn7JrhXI0"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 245066,
       "name": "Use Me",
       "url": "https://open.spotify.com/track/6dqJ50r54N2CrddT8XEtgc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tyrannosaur",
+        "url": "https://open.spotify.com/album/4tOWMzJgaAw6wg8BgbyUpB"
+      },
+      "artists": [
+        {
+          "name": "Sachal Vasandani",
+          "url": "https://open.spotify.com/artist/4sctitB70tTmziCPMwYJJr"
+        },
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 199642,
+      "name": "Tyrannosaur",
+      "url": "https://open.spotify.com/track/4ZdFgFJ4nsXneiT5QeLVM3"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sHsd4.md) - [plain]
 
 > This is Jasiel Nuñez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,093 likes - 35 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,114 likes - 35 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sHsd4.md) - [plain]
 | 34 | [Se Enfiestó El Carnal](https://open.spotify.com/track/64HKf9jN6Un0wsZ6FpdkjK) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Se Enfiestó El Carnal](https://open.spotify.com/album/4SBT3my679xNKekRzXfzef) | 3:29 |
 | 35 | [Jalados](https://open.spotify.com/track/45zTxOZyCSV7G7N1cWRZwa) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Lo Aprendí En La Lleca](https://open.spotify.com/album/3HBxwtKVmVAoaeQBzDumZI) | 2:21 |
 
-Snapshot ID: `avOwAAAAAACO2MnlenkNS7rqkiscWHXB`
+Snapshot ID: `avUBgAAAAABiThV9cp/6HASxxxsfntnh`

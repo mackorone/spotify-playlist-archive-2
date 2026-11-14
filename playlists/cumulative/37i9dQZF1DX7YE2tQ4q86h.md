@@ -4,7 +4,7 @@
 
 > Slayyyter is THE main pop girl emergency✨
 
-1,859 songs - 3 day 21 hr 32 min
+1,860 songs - 3 day 21 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -440,7 +440,7 @@
 | [DON'T FEED THE DEMONS](https://open.spotify.com/track/0JY9U1FAw2fK7J40xLMbz2) | [EMM](https://open.spotify.com/artist/1pYPWJEmCbWjcqnxw3qcyo) | [DON'T FEED THE DEMONS](https://open.spotify.com/album/6RwkEue0ljdy5WLE8lfNBA) | 3:23 | 2024-10-04 | 2025-01-25 |
 | [Don't Leave Me Lonely](https://open.spotify.com/track/4uZKz3TLaSEY4vVb86jyAp) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [Don't Leave Me Lonely](https://open.spotify.com/album/3f0b6DdDRkMTVAPs8WHpDW) | 2:53 | 2022-10-21 | 2023-01-28 |
 | [Don't Let Go](https://open.spotify.com/track/5bMdfSrxswyycOunsnHX9s) | [NERIAH](https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG) | [Don't Let Go](https://open.spotify.com/album/1SDQYjiB3TT1hEw78WwQGQ) | 3:00 | 2024-09-20 | 2025-02-08 |
-| [DON'T LET ME GO \- again](https://open.spotify.com/track/1Im47iJp9aRbeM0A9YMI5f) | [Raissa](https://open.spotify.com/artist/1C9U2fqP6cYCEwb73uv2LS), [Wacomo](https://open.spotify.com/artist/3QCB7sHyeE8BM8G5JqA1Z4) | [DON'T LET ME GO \(again\)](https://open.spotify.com/album/0wZlPvzzSxaCznKcymoHde) | 2:54 | 2026-06-05 |  |
+| [DON'T LET ME GO \- again](https://open.spotify.com/track/1Im47iJp9aRbeM0A9YMI5f) | [Raissa](https://open.spotify.com/artist/1C9U2fqP6cYCEwb73uv2LS), [Wacomo](https://open.spotify.com/artist/3QCB7sHyeE8BM8G5JqA1Z4) | [DON'T LET ME GO \(again\)](https://open.spotify.com/album/0wZlPvzzSxaCznKcymoHde) | 2:54 | 2026-06-05 | 2026-11-14 |
 | [Don't Let My Boyfriend Get In Your Way](https://open.spotify.com/track/3DOZgqdpYCfjmAP2eR7H98) | [Alice Chater](https://open.spotify.com/artist/6MwwUAN4kN0umzSH7w6y93) | [Don't Let My Boyfriend Get In Your Way](https://open.spotify.com/album/3ByjB5KzxOJs40RywOOvsI) | 2:58 | 2024-07-19 | 2024-08-10 |
 | [Don't Look Down \(feat\. BANKS\)](https://open.spotify.com/track/0NUsMgXjITsbxk5WC4aleu) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Don't Look Down \(feat\. BANKS\)](https://open.spotify.com/album/1tBi2zMsVkQYk8VBkdCNnu) | 3:25 | 2023-08-04 | 2024-02-10 |
 | [Don't Pray For Me](https://open.spotify.com/track/224OSwGKSUAKEH730rmLg2) | [Eline Noelia](https://open.spotify.com/artist/2SS1QCUXo3gFSnJwF8D4Vl) | [Don't Pray For Me](https://open.spotify.com/album/5HLYMV9AApImlATNqKbNlY) | 3:25 | 2022-07-31 | 2023-09-09 |
@@ -1029,6 +1029,7 @@
 | [Love Who You Love](https://open.spotify.com/track/2uvcftCCrCr2pprXUJ6Vjr) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Love Who You Love](https://open.spotify.com/album/6RdhCbS2KuedWjsjuecMuY) | 3:59 | 2025-11-07 | 2026-03-28 |
 | [Love You When You’re Gone](https://open.spotify.com/track/4a5a4NpPcsp8lKLjsGqks2) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Love You When You’re Gone](https://open.spotify.com/album/79tNM6qA2pbRsx7fXfXAG2) | 3:04 | 2022-07-01 | 2022-09-17 |
 | [Love4Life](https://open.spotify.com/track/26guYLFX9jh5vNpHuhfiIp) | [Willa Ford](https://open.spotify.com/artist/0kuEP1E9k3WBEwMKwEmp9u) | [Love4Life](https://open.spotify.com/album/2kFAnmsfslBSfxxOfWo1Ju) | 3:28 | 2026-01-09 | 2026-03-21 |
+| [Lovepill](https://open.spotify.com/track/3g7vij2FqegH0CE1PAJvfo) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Lovepill](https://open.spotify.com/album/1B0Zmve2Tbg6fJEcr6TtSy) | 3:10 | 2026-11-13 |  |
 | [Lover Online](https://open.spotify.com/track/0o5wusLgOl9yWjXzUF1SEJ) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Maia Wright](https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk) | [Lover Online](https://open.spotify.com/album/3jkEIKa3J9CI09JLsAl7Qs) | 2:47 | 2024-09-20 | 2024-10-12 |
 | [Lovesick](https://open.spotify.com/track/5rtdjMt1W8eYgrvHnYaCZB) | [Miss Madeline](https://open.spotify.com/artist/697XzB9DackcbNfKz4Ry7v) | [Lovesick](https://open.spotify.com/album/57FiXP5MECC5vtGTC3JuWC) | 2:57 | 2022-05-20 | 2022-07-02 |
 | [Lovesick](https://open.spotify.com/track/2bsygdSQc5XZfvRm1BA0H5) | [Nonô](https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO) | [Lovesick](https://open.spotify.com/album/7aGIguck0AadCRMNP5fEZX) | 2:31 | 2022-10-08 | 2023-02-18 |

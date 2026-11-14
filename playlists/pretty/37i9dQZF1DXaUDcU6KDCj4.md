@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Hans Williams
 
-[Spotify](https://open.spotify.com/user/spotify) - 885,762 likes - 180 songs - 10 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 886,020 likes - 180 songs - 10 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

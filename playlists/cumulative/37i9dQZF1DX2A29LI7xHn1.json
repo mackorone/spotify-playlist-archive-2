@@ -2316,7 +2316,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 180705,
       "name": "ATM",
       "url": "https://open.spotify.com/track/0FrESd7LNffZyGZ37VuSmH"
@@ -23385,6 +23385,24 @@
     },
     {
       "album": {
+        "name": "Party With The Boys",
+        "url": "https://open.spotify.com/album/5Ei8O7C8Fa5oXZTNB166Sf"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155492,
+      "name": "Party With The Boys",
+      "url": "https://open.spotify.com/track/5d2Sj3lMKJFefwU26GInQu"
+    },
+    {
+      "album": {
         "name": "Just For Clarity 2",
         "url": "https://open.spotify.com/album/4nw05bSkWU3oVxK5dBcSQE"
       },
@@ -26490,7 +26508,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 180703,
       "name": "Roundtripski",
       "url": "https://open.spotify.com/track/2BPjxkBhFjP2sp1SW6MyhU"
@@ -29198,6 +29216,28 @@
       "duration_ms": 162253,
       "name": "Spinnin (feat. Nemzzz) - Segway Remix",
       "url": "https://open.spotify.com/track/5H7JrQsT47tMwNFiPLSnEi"
+    },
+    {
+      "album": {
+        "name": "GMFU",
+        "url": "https://open.spotify.com/album/0sjhU3kzHU2dfd6SVrzLIp"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196437,
+      "name": "Spit Propane (feat. Gunna)",
+      "url": "https://open.spotify.com/track/0Gwfb3N7Le6CyiY5rSs4Ty"
     },
     {
       "album": {

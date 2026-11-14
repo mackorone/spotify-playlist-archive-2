@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Get revived with some of the best Deep House South Africa has to offer. Cover: Earful Soul",
+  "description": "Get revived with some of the best Deep House South Africa has to offer. Cover: !Sooks",
   "name": "Deep House Session",
   "tracks": [
     {
@@ -952,7 +952,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 446646,
       "name": "Can't Give Up Now (feat. EarfulSoul)",
       "url": "https://open.spotify.com/track/37cOwwinIiuZBzpLdjxstR"
@@ -1939,6 +1939,32 @@
     },
     {
       "album": {
+        "name": "ALPHA",
+        "url": "https://open.spotify.com/album/6PuFJ5jpPkZ7jPono8Vrwi"
+      },
+      "artists": [
+        {
+          "name": "!Sooks",
+          "url": "https://open.spotify.com/artist/4JbbqXJHtza12SQPxlzuVI"
+        },
+        {
+          "name": "Ralf GUM",
+          "url": "https://open.spotify.com/artist/2dmEw7jkvPAZ2PXm3j7SV2"
+        },
+        {
+          "name": "Ayanda Jiya",
+          "url": "https://open.spotify.com/artist/3fHajGrVzPPPfrsY6OJ3Nl"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 502373,
+      "name": "Find Yourself",
+      "url": "https://open.spotify.com/track/18fz5xmAjCAmvjyEdrIwfJ"
+    },
+    {
+      "album": {
         "name": "Artform",
         "url": "https://open.spotify.com/album/0rLy843gi8BhO75dqJvIq5"
       },
@@ -2380,7 +2406,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 412648,
       "name": "Goodness Of God",
       "url": "https://open.spotify.com/track/02zekH3bvOcaGVAx77IzLL"
@@ -2446,6 +2472,28 @@
       "duration_ms": 402782,
       "name": "Gotsom",
       "url": "https://open.spotify.com/track/0cKE9DCM1q6Z2izaDTDRee"
+    },
+    {
+      "album": {
+        "name": "Grace",
+        "url": "https://open.spotify.com/album/1DxG7et0kLQpMmvfbkWQa2"
+      },
+      "artists": [
+        {
+          "name": "Solo Thato",
+          "url": "https://open.spotify.com/artist/0XSVSgptGal1HdijoQl5H4"
+        },
+        {
+          "name": "Artwork Sounds",
+          "url": "https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 453907,
+      "name": "Grace (Holding on)",
+      "url": "https://open.spotify.com/track/0rDp6ZYa6HEotynjLzAyGJ"
     },
     {
       "album": {
@@ -3028,6 +3076,32 @@
       "duration_ms": 436201,
       "name": "I Wonder - Idyllic Android Mix",
       "url": "https://open.spotify.com/track/4wSC6zZlVDnI7Qz8ZzlnYX"
+    },
+    {
+      "album": {
+        "name": "I'm Scared of My Fears",
+        "url": "https://open.spotify.com/album/7mUwEok6dcMceM2jNXVynu"
+      },
+      "artists": [
+        {
+          "name": "Buddynice",
+          "url": "https://open.spotify.com/artist/2xjvb56AjGc8c8WwkPfJgp"
+        },
+        {
+          "name": "Tumie G",
+          "url": "https://open.spotify.com/artist/7pLHhPdhw4ltm1TntLPgsY"
+        },
+        {
+          "name": "Nkosinathi Phakathi",
+          "url": "https://open.spotify.com/artist/5OeyTWO0h7wCirhNcPLU2y"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 470298,
+      "name": "I'm Scared of My Fears",
+      "url": "https://open.spotify.com/track/4ibDlKXErwiF2eVjVEsj9M"
     },
     {
       "album": {
@@ -7484,7 +7558,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 428723,
       "name": "This Life",
       "url": "https://open.spotify.com/track/5cb1AF2oqnS9YdydYYBYcm"

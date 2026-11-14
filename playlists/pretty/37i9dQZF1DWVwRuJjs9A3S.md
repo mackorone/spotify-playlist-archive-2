@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > Det senaste och bästa från världen av indie\. Cover: Niki & The Dove
 
-[Spotify](https://open.spotify.com/user/spotify) - 240 likes - 199 songs - 11 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,867 likes - 199 songs - 11 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Kiss](https://open.spotify.com/track/4C9hsJRqrkTn1BO8rAZJv9) | [Niki & The Dove](https://open.spotify.com/artist/4hiLNlqr4vQdiuo1aQKSXS) | [The Kiss](https://open.spotify.com/album/7iRKKi7ffTXgwb94K3qBze) | 4:08 |
 | 2 | [Så lätt](https://open.spotify.com/track/0FTLZJk8x9qJrI7Dgwotr9) | [Genom Natten](https://open.spotify.com/artist/5UkGksYXrb5tn3IEjgVFb9) | [Så lätt](https://open.spotify.com/album/69xPHVyPT1C0V6kvB00K9g) | 3:08 |
-| 3 | [Baby](https://open.spotify.com/track/2j5OVXMkRA0E3w27HHJN1A) | [GRANT](https://open.spotify.com/artist/6SkVKlAmIWVD0LQvCGQqSj) | [Baby / Baby Pt\. 2](https://open.spotify.com/album/3L6eKwIWVOxRaLOIuQTsxp) | 3:29 |
+| 3 | [Baby](https://open.spotify.com/track/2j5OVXMkRA0E3w27HHJN1A) | [Grant](https://open.spotify.com/artist/6SkVKlAmIWVD0LQvCGQqSj) | [Baby / Baby Pt\. 2](https://open.spotify.com/album/3L6eKwIWVOxRaLOIuQTsxp) | 3:29 |
 | 4 | [Goblin's Head](https://open.spotify.com/track/7kbU1ezWOaeREc2kgvlS3J) | [Horse Vision](https://open.spotify.com/artist/28gAkTGnjn8QZllb4EU4OM) | [Goblin's Head](https://open.spotify.com/album/5mYTPYJcY2yuuHDejfJ8Fq) | 2:53 |
 | 5 | [I like to be disappointed by you](https://open.spotify.com/track/76E1JjXTpcpEfkBNpPpITW) | [JÁNA](https://open.spotify.com/artist/4Ny2ysC72ccnLmUgauWy7F) | [I like to be disappointed by you](https://open.spotify.com/album/1pIlsWA83vCXotxgLCv9d7) | 2:35 |
 | 6 | [You Go I Go](https://open.spotify.com/track/16nSP8KOfyEOv2nbJJkhwp) | [ViVii](https://open.spotify.com/artist/21m5PZPUgSF0k76W1MMCAa) | [You Go I Go](https://open.spotify.com/album/0qtY0ECJ0vA10NaO3e3pIk) | 3:42 |
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 | 31 | [Himmel helvete](https://open.spotify.com/track/2HaAG5udHa2CJdit4MDWU3) | [Genom Natten](https://open.spotify.com/artist/5UkGksYXrb5tn3IEjgVFb9) | [Himmel helvete](https://open.spotify.com/album/0ddsTPi7LV7rfVC01CCZc5) | 3:29 |
 | 32 | [PIG!!](https://open.spotify.com/track/4d9xUor9LZdf7uHU7gbeSH) | [Gone Future](https://open.spotify.com/artist/4qlD6ohmoQ4jbj8Bu27Ci5), [ShitKid](https://open.spotify.com/artist/6TnRsbEEAkxaOYJLcEWd5m) | [PIG!!](https://open.spotify.com/album/51SrKsfHDdVkvmWjBIlP6F) | 3:37 |
 | 33 | [Honest](https://open.spotify.com/track/2yUVMHKF3azj3uqfoLOWdc) | [Tomode](https://open.spotify.com/artist/5Q5iKvamaJt7Gz1Bz1JRGA), [Amanda Bergman](https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80) | [Honest](https://open.spotify.com/album/0HXn3c0xZ8PiixDmzAQKks) | 2:41 |
-| 34 | [Track 5](https://open.spotify.com/track/4rsh80Az3F2kMyzePCwOan) | [the name Will](https://open.spotify.com/artist/7KKPJD0WpOGj9bdmjQNmDB) | [FULL, FUL & KÄNSLIG](https://open.spotify.com/album/2opeK2NgpjHAs6kNCXY2F7) | 0:00 |
+| 34 | [Dom följer efter](https://open.spotify.com/track/4rsh80Az3F2kMyzePCwOan) | [the name Will](https://open.spotify.com/artist/7KKPJD0WpOGj9bdmjQNmDB) | [FULL, FUL & KÄNSLIG](https://open.spotify.com/album/2opeK2NgpjHAs6kNCXY2F7) | 3:18 |
 | 35 | [KOKO](https://open.spotify.com/track/0b95Am6J1IFfHmsEu1xlbt) | [Josef Slunge](https://open.spotify.com/artist/1CcUIkJudKxfk8SZMLL1sd) | [Din horisont](https://open.spotify.com/album/1EPCOQ22UxPUd5r5a4lhao) | 2:37 |
 | 36 | [wonderland](https://open.spotify.com/track/6Tgj0FJppACsnkFRL9Jw8V) | [miaw](https://open.spotify.com/artist/5KW0bWRTHpvoJbpgCCbSt8) | [Ciao](https://open.spotify.com/album/0kC8sNeEIpu1rsKUscUAmC) | 3:24 |
 | 37 | [Sten, sax, påse sten](https://open.spotify.com/track/0CmOjLIwPdMqS5VELlU45j) | [Valter Nilsson](https://open.spotify.com/artist/2MFXMIAlMW2pAyybxRNMln) | [Sten, sax, påse sten](https://open.spotify.com/album/03XVftzV3qgtzOzJfgnTGC) | 3:17 |
@@ -208,4 +208,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 | 198 | [Famine](https://open.spotify.com/track/7tpNSjh41h0krqaPgx2Ex1) | [Morabeza Tobacco](https://open.spotify.com/artist/0zce27eTR25aKpjQ7CvOA7) | [Famine](https://open.spotify.com/album/5jb9ppekYck87iA16d8JAn) | 3:08 |
 | 199 | [Venus in the Zinnia](https://open.spotify.com/track/6X5ARfLepGTGntuFbc2Hpo) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG), [H\. Hawkline](https://open.spotify.com/artist/7FmM0XgimRvS48CfObh2ht) | [Venus in the Zinnia](https://open.spotify.com/album/1g8xMfOWEPfIuxHory8Pg9) | 3:17 |
 
-Snapshot ID: `AAAAAAx0G2xF7o2ayZVEeqnnTOEgbEoU`
+Snapshot ID: `AAAAAPZV08onofVZ6rY2eCc+aDRM5EGC`

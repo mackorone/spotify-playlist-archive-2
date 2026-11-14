@@ -1,12 +1,12 @@
 {
   "description": "This is Emei. The essential tracks, all in one playlist.",
-  "num_followers": 13637,
+  "num_followers": 13643,
   "original_name": "This Is Emei",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avOwAAAAAAA6ys1Xl/2TEbxhhih2sM1X",
+  "snapshot_id": "avUBgAAAAAAzDAZzx5kT7IgBDWonOB5T",
   "tracks": [
     {
       "added_at": null,
@@ -235,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "What's the Point!",
-        "url": "https://open.spotify.com/album/0QFm3m1Wa8IMkUe1s8YLeS"
-      },
-      "artists": [
-        {
-          "name": "Emei",
-          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
-        }
-      ],
-      "duration_ms": 163754,
-      "name": "What's the Point!",
-      "url": "https://open.spotify.com/track/5yYGr8R31sQLOMVIgNCnrN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Crazy Stupid Love",
         "url": "https://open.spotify.com/album/0058kPDT6f9sJzVj6m7MhY"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 156333,
       "name": "Crazy Stupid Love",
       "url": "https://open.spotify.com/track/5ChgblPPPwyuGhga3msdns"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "What's the Point!",
+        "url": "https://open.spotify.com/album/0QFm3m1Wa8IMkUe1s8YLeS"
+      },
+      "artists": [
+        {
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+        }
+      ],
+      "duration_ms": 163754,
+      "name": "What's the Point!",
+      "url": "https://open.spotify.com/track/5yYGr8R31sQLOMVIgNCnrN"
     },
     {
       "added_at": null,

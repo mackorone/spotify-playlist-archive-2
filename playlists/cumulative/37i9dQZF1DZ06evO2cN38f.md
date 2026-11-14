@@ -4,7 +4,7 @@
 
 > This is Rochelle Jordan\. The essential tracks, all in one playlist.
 
-49 songs - 3 hr 9 min
+50 songs - 3 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Love You Good](https://open.spotify.com/track/78UZHyUlhP71OhATPMFqZo) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Play With The Changes](https://open.spotify.com/album/7DF9gG0kP3noP30oOkErQW) | 3:53 | 2026-06-16 |  |
 | [Lover/Friend](https://open.spotify.com/track/5ahq8vkzMznGmfN2EVOukP) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Lover/Friend](https://open.spotify.com/album/1CS8eBSCVXMwYJytG5aYfX) | 3:32 | 2026-06-16 |  |
 | [Lowkey](https://open.spotify.com/track/4M10NvfwzXoBjGTT7DXyK6) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [1021](https://open.spotify.com/album/478zqPLfhIqeaB91EEnHLa) | 3:43 | 2026-06-16 |  |
+| [Make Me Wanna](https://open.spotify.com/track/3pYWxckQ013fSdj20NmBye) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Pressure](https://open.spotify.com/album/2eo6WfC2A5ePHLpNQN7dRB) | 3:37 | 2026-11-14 |  |
 | [Never Enough](https://open.spotify.com/track/2lmBzqE0LWxlzfazwJxggj) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Through The Wall](https://open.spotify.com/album/1vTquD47VNHtfuc5tVLI98) | 4:00 | 2026-06-16 |  |
 | [Never Enough \- Chad Hugo Remix](https://open.spotify.com/track/3Mg7BwwtjTwS5ScqZ98Tcb) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3), [Chad Hugo](https://open.spotify.com/artist/6HObKCGcJkXr84jyo0ZzPp) | [Never Enough \(Chad Hugo Remix\)](https://open.spotify.com/album/2hMJtwvV3pu6ciDuzLUgPz) | 2:59 | 2026-08-30 | 2026-09-27 |
 | [New Wave Groove](https://open.spotify.com/track/5VtnOTbLAysyQAq8qzLTSp) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [The Nightlife](https://open.spotify.com/album/4wTgu0ne0ihggsMbAOGX8x) | 3:32 | 2026-06-16 |  |

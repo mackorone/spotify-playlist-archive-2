@@ -4,7 +4,7 @@
 
 > Rock out while you work out! Follow for updates!
 
-343 songs - 21 hr 16 min
+344 songs - 21 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [A Warrior's Call](https://open.spotify.com/track/0hTiTU0yqthnByyZDD3bcc) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Beyond Hell / Above Heaven](https://open.spotify.com/album/2BqLW9LGoxfwRCn1hP5vOq) | 4:23 | 2021-08-20 |  |
 | [Absolute Zero](https://open.spotify.com/track/14EORgkbXqIx5K4Haucmnb) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [House of Gold & Bones, Part 1](https://open.spotify.com/album/2nCHgPLLyIgxFKUBYuMKPn) | 3:49 | 2022-01-24 |  |
 | [Adrenaline](https://open.spotify.com/track/7e1x3ozyFOOe77bdYuNg3k) | [Finger Eleven](https://open.spotify.com/artist/0niJkG4tKkne3zwr7I8n9n) | [Adrenaline](https://open.spotify.com/album/3WBDEQI5gMkdueEQqeQ2hn) | 3:24 | 2024-08-02 |  |
+| [After Death](https://open.spotify.com/track/6Jfa3hoyqX19Iriw3zVYiH) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [Reflections \(Deluxe\)](https://open.spotify.com/album/7s0wnxn8Ts1NIY4bxtpb2Z) | 3:35 | 2026-11-13 |  |
 | [AfterLife](https://open.spotify.com/track/51lcM37Li2HOhk8F8kPwUv) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [AfterLife](https://open.spotify.com/album/4iFOMGs1kbc2SJoFRBEBCJ) | 4:03 | 2022-04-13 |  |
 | [AI](https://open.spotify.com/track/0IdJ2fQSlQTeNuuA3Xznfm) | [Ghostemane](https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW) | [ANTI\-ICON](https://open.spotify.com/album/3gEv1vpsDgaEo4TLuu0Lwz) | 2:54 | 2022-07-25 | 2023-01-04 |
 | [Alien](https://open.spotify.com/track/4ka9ZXISzjnajUbwMvzJVw) | [The Funeral Portrait](https://open.spotify.com/artist/4iGsihTcyZ80RQFZhC8bf8) | [Alien](https://open.spotify.com/album/0sQ5k3aJQi5W24yKVhUFjz) | 4:09 | 2023-04-03 |  |

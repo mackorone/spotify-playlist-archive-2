@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-927 songs - 1 day 22 hr 7 min
+928 songs - 1 day 22 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [Circle](https://open.spotify.com/track/37QbBWAlIYTmm1v23MNLGW) | [Netrum](https://open.spotify.com/artist/4X76fYx1a6EmEvCqDudesG), [Halvorsen](https://open.spotify.com/artist/4jbh1BeqqFVqqH7GACcWdH) | [Circle](https://open.spotify.com/album/5NchOgnEho2Pd3TX6RNVrR) | 3:58 | 2022-08-31 | 2023-08-10 |
 | [Citadel](https://open.spotify.com/track/0EXrVB7WHXOnVjegjcgIPu) | [Boom Kitty](https://open.spotify.com/artist/3h4xRI8zK3aZygXhxNFjoR), [Waterflame](https://open.spotify.com/artist/7biIlpW0y5KqYIehTQz1wz) | [Citadel](https://open.spotify.com/album/29xwUf0mStw4SKxxKxSxcG) | 3:27 | 2024-11-22 |  |
 | [Clockwork](https://open.spotify.com/track/4zczcRcIdlg0YLFzQjdmPR) | [Jnathyn](https://open.spotify.com/artist/1zThDYJbVAPulAkfGTkcLk), [Bryan Andrew Medina](https://open.spotify.com/artist/1AXCXAe9tTUVCTxgZzaYfI) | [Clockwork](https://open.spotify.com/album/0M9vqRe4AV89rYORJcmAbp) | 4:21 | 2023-12-13 | 2024-07-19 |
+| [Cloud 9](https://open.spotify.com/track/7f2tmpbf0auMx8s34kTtIL) | [Narvent](https://open.spotify.com/artist/3QZtwiUoyaXbl1JssMPIQ7), [Axstin](https://open.spotify.com/artist/2zqctZv5CadQEC6TSSk0ys) | [Cloud 9](https://open.spotify.com/album/3Au2PMGFjQ4Q5J6Amm3dk7) | 1:59 | 2026-11-13 |  |
 | [Clown Around](https://open.spotify.com/track/6qpjU00lJs5rCGyh6mFar2) | [Daniel Levi](https://open.spotify.com/artist/0cA0C4yBNRaN2EZsE2wT3Y) | [Clown Around](https://open.spotify.com/album/4B9AKvwbLZajHo7eQAJF47) | 2:43 | 2023-06-16 | 2023-08-20 |
 | [Code](https://open.spotify.com/track/1hg8pF09mkmaLzVWKiyhvw) | [MANSHN](https://open.spotify.com/artist/1vskw9iPgYi9HvXcK2rNLG) | [Code](https://open.spotify.com/album/21VWyeXDxoL9up6VuCLshi) | 2:29 | 2024-04-02 | 2024-09-29 |
 | [colors](https://open.spotify.com/track/6qytEhkkIEnxlLv6nopItr) | [HXPETRAIN](https://open.spotify.com/artist/58Kb5i2Bxw4XM6Cj8a5hbi) | [colors](https://open.spotify.com/album/0wMttc6KFjiIPRn8xMOHOm) | 2:19 | 2026-04-02 |  |

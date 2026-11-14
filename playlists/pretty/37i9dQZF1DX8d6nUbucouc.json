@@ -1,6 +1,6 @@
 {
   "description": "De grondleggers van de Nederlandse Hip-hop game",
-  "num_followers": 68104,
+  "num_followers": 68120,
   "original_name": "Grondleggers",
   "owner": {
     "name": "Spotify",
@@ -659,6 +659,22 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
+        "name": "Succes/Ik Ben Twan",
+        "url": "https://open.spotify.com/album/7vUGdwNbWKQcSXWX3LLQzp"
+      },
+      "artists": [
+        {
+          "name": "Willem",
+          "url": "https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds"
+        }
+      ],
+      "duration_ms": 211226,
+      "name": "Succes",
+      "url": "https://open.spotify.com/track/07sdoNTz7WFJAL9nlsQ8Y5"
+    },
+    {
+      "added_at": "2024-09-09 11:56:35",
+      "album": {
         "name": "Great Minds",
         "url": "https://open.spotify.com/album/7nNkmATAymmK1WZ4zes95Z"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 252173,
       "name": "Doag",
       "url": "https://open.spotify.com/track/0YUwC8n3xid9r0udhAhMNV"
-    },
-    {
-      "added_at": "2024-09-09 11:56:35",
-      "album": {
-        "name": "Succes/Ik Ben Twan",
-        "url": "https://open.spotify.com/album/7vUGdwNbWKQcSXWX3LLQzp"
-      },
-      "artists": [
-        {
-          "name": "Willem",
-          "url": "https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds"
-        }
-      ],
-      "duration_ms": 211226,
-      "name": "Succes",
-      "url": "https://open.spotify.com/track/07sdoNTz7WFJAL9nlsQ8Y5"
     },
     {
       "added_at": "2024-09-09 11:56:35",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
-        "name": "Great Minds",
-        "url": "https://open.spotify.com/album/7nNkmATAymmK1WZ4zes95Z"
-      },
-      "artists": [
-        {
-          "name": "Great Minds",
-          "url": "https://open.spotify.com/artist/1FRYercTve9gszoIb619JS"
-        }
-      ],
-      "duration_ms": 315826,
-      "name": "Nog 1 Keer",
-      "url": "https://open.spotify.com/track/0gF2cKwrCf5qziB7raaLRq"
-    },
-    {
-      "added_at": "2024-09-09 11:56:35",
-      "album": {
         "name": "Jayh.nl",
         "url": "https://open.spotify.com/album/3piHncMB0TEczcyL2w39w8"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 257120,
       "name": "Mijn Hossel",
       "url": "https://open.spotify.com/track/3yIqk7jtR7frUAMhterXDN"
+    },
+    {
+      "added_at": "2024-09-09 11:56:35",
+      "album": {
+        "name": "Great Minds",
+        "url": "https://open.spotify.com/album/7nNkmATAymmK1WZ4zes95Z"
+      },
+      "artists": [
+        {
+          "name": "Great Minds",
+          "url": "https://open.spotify.com/artist/1FRYercTve9gszoIb619JS"
+        }
+      ],
+      "duration_ms": 315826,
+      "name": "Nog 1 Keer",
+      "url": "https://open.spotify.com/track/0gF2cKwrCf5qziB7raaLRq"
     },
     {
       "added_at": "2024-09-09 11:56:35",
@@ -851,22 +851,6 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
-        "name": "Great Minds",
-        "url": "https://open.spotify.com/album/7nNkmATAymmK1WZ4zes95Z"
-      },
-      "artists": [
-        {
-          "name": "Great Minds",
-          "url": "https://open.spotify.com/artist/1FRYercTve9gszoIb619JS"
-        }
-      ],
-      "duration_ms": 242040,
-      "name": "De Flexte",
-      "url": "https://open.spotify.com/track/5S4pjllkGkBKuZ9ElJcgXL"
-    },
-    {
-      "added_at": "2024-09-09 11:56:35",
-      "album": {
         "name": "Tussen Licht En Lucht",
         "url": "https://open.spotify.com/album/3aG1Mxyg15uksW77hASpvu"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 314080,
       "name": "Wind Waait",
       "url": "https://open.spotify.com/track/0csgY0KzPTHJeZJJhQdIk1"
+    },
+    {
+      "added_at": "2024-09-09 11:56:35",
+      "album": {
+        "name": "Great Minds",
+        "url": "https://open.spotify.com/album/7nNkmATAymmK1WZ4zes95Z"
+      },
+      "artists": [
+        {
+          "name": "Great Minds",
+          "url": "https://open.spotify.com/artist/1FRYercTve9gszoIb619JS"
+        }
+      ],
+      "duration_ms": 242040,
+      "name": "De Flexte",
+      "url": "https://open.spotify.com/track/5S4pjllkGkBKuZ9ElJcgXL"
     },
     {
       "added_at": "2024-09-09 11:56:35",
@@ -987,6 +987,22 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
+        "name": "Aap-O-Theek",
+        "url": "https://open.spotify.com/album/2XzjpxK9vTlfjhWCAkaskT"
+      },
+      "artists": [
+        {
+          "name": "DuvelDuvel",
+          "url": "https://open.spotify.com/artist/4u6gMJfErd9CjF0IyNdhjF"
+        }
+      ],
+      "duration_ms": 224346,
+      "name": "Iemand Moet Het Doen",
+      "url": "https://open.spotify.com/track/3DA1wJqjecOmc5ciyKZbjJ"
+    },
+    {
+      "added_at": "2024-09-09 11:56:35",
+      "album": {
         "name": "Rock & Roll",
         "url": "https://open.spotify.com/album/2f03YFO7qQi18V1juyt5zS"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 315826,
       "name": "Duivelszoon",
       "url": "https://open.spotify.com/track/11Vj2tq58GOIOdML7Tp7Kh"
-    },
-    {
-      "added_at": "2024-09-09 11:56:35",
-      "album": {
-        "name": "Aap-O-Theek",
-        "url": "https://open.spotify.com/album/2XzjpxK9vTlfjhWCAkaskT"
-      },
-      "artists": [
-        {
-          "name": "DuvelDuvel",
-          "url": "https://open.spotify.com/artist/4u6gMJfErd9CjF0IyNdhjF"
-        }
-      ],
-      "duration_ms": 224346,
-      "name": "Iemand Moet Het Doen",
-      "url": "https://open.spotify.com/track/3DA1wJqjecOmc5ciyKZbjJ"
     },
     {
       "added_at": "2024-09-09 11:56:35",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
-        "name": "Professioneel Chillen",
-        "url": "https://open.spotify.com/album/0b8uErqyyk7vY1KgtX3Veg"
-      },
-      "artists": [
-        {
-          "name": "D.A.C.",
-          "url": "https://open.spotify.com/artist/50NcB2kii1VKEbtZcHg0q1"
-        }
-      ],
-      "duration_ms": 348093,
-      "name": "Doorhalen",
-      "url": "https://open.spotify.com/track/4KxNh4U7UFEIzmzwvpZxUe"
-    },
-    {
-      "added_at": "2024-09-09 11:56:35",
-      "album": {
         "name": "Bliksemschicht",
         "url": "https://open.spotify.com/album/3kJhgVpVWpAEneIvKGTOLp"
       },
@@ -1295,18 +1279,18 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
-        "name": "Tussen Licht En Lucht",
-        "url": "https://open.spotify.com/album/3aG1Mxyg15uksW77hASpvu"
+        "name": "Professioneel Chillen",
+        "url": "https://open.spotify.com/album/0b8uErqyyk7vY1KgtX3Veg"
       },
       "artists": [
         {
-          "name": "Typhoon",
-          "url": "https://open.spotify.com/artist/6kBlEsdNeNW2qnmW56xDhx"
+          "name": "D.A.C.",
+          "url": "https://open.spotify.com/artist/50NcB2kii1VKEbtZcHg0q1"
         }
       ],
-      "duration_ms": 188533,
-      "name": "Hotel Beschaving",
-      "url": "https://open.spotify.com/track/5FVstDdvVcNcj3tguuFo1Z"
+      "duration_ms": 348093,
+      "name": "Doorhalen",
+      "url": "https://open.spotify.com/track/4KxNh4U7UFEIzmzwvpZxUe"
     },
     {
       "added_at": "2024-09-09 11:56:35",
@@ -1327,6 +1311,22 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
+        "name": "Tussen Licht En Lucht",
+        "url": "https://open.spotify.com/album/3aG1Mxyg15uksW77hASpvu"
+      },
+      "artists": [
+        {
+          "name": "Typhoon",
+          "url": "https://open.spotify.com/artist/6kBlEsdNeNW2qnmW56xDhx"
+        }
+      ],
+      "duration_ms": 188533,
+      "name": "Hotel Beschaving",
+      "url": "https://open.spotify.com/track/5FVstDdvVcNcj3tguuFo1Z"
+    },
+    {
+      "added_at": "2024-09-09 11:56:35",
+      "album": {
         "name": "Ut Zwarte Aap",
         "url": "https://open.spotify.com/album/4tbhduZVDvdN0WmqvIrBJI"
       },
@@ -1339,6 +1339,26 @@
       "duration_ms": 137426,
       "name": "Plakka",
       "url": "https://open.spotify.com/track/1bPQ0PV4DWY2rnYjXs5bek"
+    },
+    {
+      "added_at": "2024-09-09 11:56:35",
+      "album": {
+        "name": "Bliksemschicht",
+        "url": "https://open.spotify.com/album/3kJhgVpVWpAEneIvKGTOLp"
+      },
+      "artists": [
+        {
+          "name": "Zwart Licht",
+          "url": "https://open.spotify.com/artist/0w8HhtFVgF0tqeiFGFRaiZ"
+        },
+        {
+          "name": "Leeroy",
+          "url": "https://open.spotify.com/artist/5XOot0LfXGuSWgTmolsDzn"
+        }
+      ],
+      "duration_ms": 201013,
+      "name": "Back Up Staat Klaar",
+      "url": "https://open.spotify.com/track/3njjwzzYrCrjDkOOv1udM3"
     },
     {
       "added_at": "2024-09-09 11:56:35",
@@ -1363,26 +1383,6 @@
       "duration_ms": 260213,
       "name": "Time Flies",
       "url": "https://open.spotify.com/track/5qJJKhaHibXUk4XsdyPHuL"
-    },
-    {
-      "added_at": "2024-09-09 11:56:35",
-      "album": {
-        "name": "Bliksemschicht",
-        "url": "https://open.spotify.com/album/3kJhgVpVWpAEneIvKGTOLp"
-      },
-      "artists": [
-        {
-          "name": "Zwart Licht",
-          "url": "https://open.spotify.com/artist/0w8HhtFVgF0tqeiFGFRaiZ"
-        },
-        {
-          "name": "Leeroy",
-          "url": "https://open.spotify.com/artist/5XOot0LfXGuSWgTmolsDzn"
-        }
-      ],
-      "duration_ms": 201013,
-      "name": "Back Up Staat Klaar",
-      "url": "https://open.spotify.com/track/3njjwzzYrCrjDkOOv1udM3"
     },
     {
       "added_at": "2024-09-09 11:56:35",
@@ -1579,18 +1579,18 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
-        "name": "Mijn Manier",
-        "url": "https://open.spotify.com/album/0hBGB9cgria5UdV15puxAJ"
+        "name": "Klokkenluiders Van Amsterdam",
+        "url": "https://open.spotify.com/album/7i5hQILZYjem9EZ0IlbZZB"
       },
       "artists": [
         {
-          "name": "Brainpower",
-          "url": "https://open.spotify.com/artist/6LfIVTnSSc9zNqjpfVPs1w"
+          "name": "Spookrijders",
+          "url": "https://open.spotify.com/artist/07SOZ79F75jaqJ4MEpjzPA"
         }
       ],
-      "duration_ms": 258146,
-      "name": "Mijn Manier",
-      "url": "https://open.spotify.com/track/6YmDH07CvDvrJPQC68OeK2"
+      "duration_ms": 289200,
+      "name": "Ik Ben De Man",
+      "url": "https://open.spotify.com/track/5bLa3DBGxcOIQEQYnt5NFz"
     },
     {
       "added_at": "2024-09-09 11:56:35",
@@ -1619,18 +1619,18 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
-        "name": "Klokkenluiders Van Amsterdam",
-        "url": "https://open.spotify.com/album/7i5hQILZYjem9EZ0IlbZZB"
+        "name": "Mijn Manier",
+        "url": "https://open.spotify.com/album/0hBGB9cgria5UdV15puxAJ"
       },
       "artists": [
         {
-          "name": "Spookrijders",
-          "url": "https://open.spotify.com/artist/07SOZ79F75jaqJ4MEpjzPA"
+          "name": "Brainpower",
+          "url": "https://open.spotify.com/artist/6LfIVTnSSc9zNqjpfVPs1w"
         }
       ],
-      "duration_ms": 289200,
-      "name": "Ik Ben De Man",
-      "url": "https://open.spotify.com/track/5bLa3DBGxcOIQEQYnt5NFz"
+      "duration_ms": 258146,
+      "name": "Mijn Manier",
+      "url": "https://open.spotify.com/track/6YmDH07CvDvrJPQC68OeK2"
     },
     {
       "added_at": "2024-09-09 11:56:35",

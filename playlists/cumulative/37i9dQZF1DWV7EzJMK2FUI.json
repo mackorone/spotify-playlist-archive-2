@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "20 minutes away",
+        "url": "https://open.spotify.com/album/5jBIIodtH7WoLiIJJrNkAb"
+      },
+      "artists": [
+        {
+          "name": "The Uptown Players",
+          "url": "https://open.spotify.com/artist/1S2Mr3FmzAs8p9Wl0xHEe2"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183827,
+      "name": "20 minutes away",
+      "url": "https://open.spotify.com/track/3IppLwY7JOAf8vPVy6gzpa"
+    },
+    {
+      "album": {
         "name": "24 hour stopover",
         "url": "https://open.spotify.com/album/69bmlnzNWsVBzfuNPrxjLB"
       },
@@ -1126,6 +1144,24 @@
       "duration_ms": 177007,
       "name": "A walk in this city",
       "url": "https://open.spotify.com/track/1hK4dKJTloOuZN599alzMP"
+    },
+    {
+      "album": {
+        "name": "A Warm Embrace",
+        "url": "https://open.spotify.com/album/3rJ6KPKDN91Bcr9YOKwCT7"
+      },
+      "artists": [
+        {
+          "name": "UWS Jazz Trio",
+          "url": "https://open.spotify.com/artist/2hWsHcobGML6Rr9HAdY44K"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170475,
+      "name": "A Warm Embrace",
+      "url": "https://open.spotify.com/track/56QES11wtfhUJqClN2YLmW"
     },
     {
       "album": {
@@ -6014,7 +6050,7 @@
       ],
       "date_added": "2026-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 306400,
       "name": "Count The Stars",
       "url": "https://open.spotify.com/track/3V22MzDWZAYNlaykXgmxdz"
@@ -10401,6 +10437,24 @@
     },
     {
       "album": {
+        "name": "Halfway interlude",
+        "url": "https://open.spotify.com/album/24y6bOllYMXoDk0BiRFKws"
+      },
+      "artists": [
+        {
+          "name": "Clifford Randall Sextet",
+          "url": "https://open.spotify.com/artist/5b4vsyo5ULucBMPOU1Khlm"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201448,
+      "name": "Halfway interlude",
+      "url": "https://open.spotify.com/track/7vwf8NEIN5t54hnvfCFSJo"
+    },
+    {
+      "album": {
         "name": "Halfway To Light",
         "url": "https://open.spotify.com/album/4ErGgFNLWtuvfZurDqQhKy"
       },
@@ -11334,6 +11388,24 @@
       "duration_ms": 264834,
       "name": "I Can\u2019t Get Started",
       "url": "https://open.spotify.com/track/3lHeTorlEnYb3icowpiDiR"
+    },
+    {
+      "album": {
+        "name": "I close my eyes",
+        "url": "https://open.spotify.com/album/0VoNAmlZX8ZPo1lETuGDvM"
+      },
+      "artists": [
+        {
+          "name": "The Grace Smith Gang",
+          "url": "https://open.spotify.com/artist/3wyD1yWbuRCI7JevgoI5Cv"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233436,
+      "name": "I close my eyes",
+      "url": "https://open.spotify.com/track/4qD7ma71fhuPTUVUeqq5B7"
     },
     {
       "album": {

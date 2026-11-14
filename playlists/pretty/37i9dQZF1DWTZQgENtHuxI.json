@@ -1,6 +1,6 @@
 {
   "description": "Sortez les pantalons pattes d\u2018eph et les chemises en satin !",
-  "num_followers": 140597,
+  "num_followers": 140603,
   "original_name": "Disco Club",
   "owner": {
     "name": "Spotify",
@@ -191,22 +191,6 @@
     {
       "added_at": "2025-08-29 16:41:35",
       "album": {
-        "name": "Disco Inferno",
-        "url": "https://open.spotify.com/album/4MgYPs5CBEwzmekSVNOiL3"
-      },
-      "artists": [
-        {
-          "name": "The Trammps",
-          "url": "https://open.spotify.com/artist/1zgNpeHQe8GulzfVkYP2VK"
-        }
-      ],
-      "duration_ms": 659000,
-      "name": "Disco Inferno",
-      "url": "https://open.spotify.com/track/5jUA1njy3h6ynHLvPdEVHt"
-    },
-    {
-      "added_at": "2025-08-29 16:41:35",
-      "album": {
         "name": "We Are Family (1995 Remaster)",
         "url": "https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 375400,
       "name": "He's the Greatest Dancer - 1995 Remaster",
       "url": "https://open.spotify.com/track/5WwRKYnVy9dekqXAGPbAvU"
+    },
+    {
+      "added_at": "2025-08-29 16:41:35",
+      "album": {
+        "name": "Disco Inferno",
+        "url": "https://open.spotify.com/album/4MgYPs5CBEwzmekSVNOiL3"
+      },
+      "artists": [
+        {
+          "name": "The Trammps",
+          "url": "https://open.spotify.com/artist/1zgNpeHQe8GulzfVkYP2VK"
+        }
+      ],
+      "duration_ms": 659000,
+      "name": "Disco Inferno",
+      "url": "https://open.spotify.com/track/5jUA1njy3h6ynHLvPdEVHt"
     },
     {
       "added_at": "2025-08-29 16:41:35",
@@ -511,22 +511,6 @@
     {
       "added_at": "2025-08-29 16:41:35",
       "album": {
-        "name": "Best Of",
-        "url": "https://open.spotify.com/album/5UnV3CeKQ4r3uoW0koFS08"
-      },
-      "artists": [
-        {
-          "name": "Claude Fran\u00e7ois",
-          "url": "https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ"
-        }
-      ],
-      "duration_ms": 262186,
-      "name": "Alexandrie Alexandra",
-      "url": "https://open.spotify.com/track/19DVBvNrJMl9jRHjVZHk38"
-    },
-    {
-      "added_at": "2025-08-29 16:41:35",
-      "album": {
         "name": "Time Is Slipping Away",
         "url": "https://open.spotify.com/album/636NtK3yPJ395a6nyXJ1ft"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 274226,
       "name": "I'll Never Forget (My Favorite Disco)",
       "url": "https://open.spotify.com/track/7KOS9ptdLAdy3hJxuvpHfc"
+    },
+    {
+      "added_at": "2025-08-29 16:41:35",
+      "album": {
+        "name": "Best Of",
+        "url": "https://open.spotify.com/album/5UnV3CeKQ4r3uoW0koFS08"
+      },
+      "artists": [
+        {
+          "name": "Claude Fran\u00e7ois",
+          "url": "https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ"
+        }
+      ],
+      "duration_ms": 262186,
+      "name": "Alexandrie Alexandra",
+      "url": "https://open.spotify.com/track/19DVBvNrJMl9jRHjVZHk38"
     },
     {
       "added_at": "2025-08-29 16:41:35",
@@ -595,22 +595,6 @@
     {
       "added_at": "2025-08-29 16:41:35",
       "album": {
-        "name": "Best Of",
-        "url": "https://open.spotify.com/album/5UnV3CeKQ4r3uoW0koFS08"
-      },
-      "artists": [
-        {
-          "name": "Claude Fran\u00e7ois",
-          "url": "https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ"
-        }
-      ],
-      "duration_ms": 192506,
-      "name": "Cette ann\u00e9e-l\u00e0",
-      "url": "https://open.spotify.com/track/1nZMyRPYCe4ElwXggr9FJo"
-    },
-    {
-      "added_at": "2025-08-29 16:41:35",
-      "album": {
         "name": "Silver Collection",
         "url": "https://open.spotify.com/album/3t4vQKksE3hxfsYS8Nr6cP"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 476986,
       "name": "I Will Survive - Extended Version",
       "url": "https://open.spotify.com/track/619REdZwzaCVSkSueKqPS1"
+    },
+    {
+      "added_at": "2025-08-29 16:41:35",
+      "album": {
+        "name": "Best Of",
+        "url": "https://open.spotify.com/album/5UnV3CeKQ4r3uoW0koFS08"
+      },
+      "artists": [
+        {
+          "name": "Claude Fran\u00e7ois",
+          "url": "https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ"
+        }
+      ],
+      "duration_ms": 192506,
+      "name": "Cette ann\u00e9e-l\u00e0",
+      "url": "https://open.spotify.com/track/1nZMyRPYCe4ElwXggr9FJo"
     },
     {
       "added_at": "2025-08-29 16:41:35",
@@ -803,18 +803,18 @@
     {
       "added_at": "2025-08-29 16:41:35",
       "album": {
-        "name": "Fame: The Original Soundtrack from the Motion Picture",
-        "url": "https://open.spotify.com/album/2nE5WmbSq3qbyDrOpSTlnq"
+        "name": "Diana",
+        "url": "https://open.spotify.com/album/0Gy4phN6Xwx4uyskE7Wkls"
       },
       "artists": [
         {
-          "name": "Irene Cara",
-          "url": "https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G"
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
         }
       ],
-      "duration_ms": 316066,
-      "name": "Fame",
-      "url": "https://open.spotify.com/track/7yBl8YmvcgwwYlazJcvowE"
+      "duration_ms": 244826,
+      "name": "Upside Down",
+      "url": "https://open.spotify.com/track/57Y3UccJEJqT8w8RWkUAz0"
     }
   ],
   "unique_name": "Disco Club",

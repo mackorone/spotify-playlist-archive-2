@@ -1,12 +1,12 @@
 {
   "description": "This is Timaya. The essential tracks, all in one playlist.",
-  "num_followers": 10060,
+  "num_followers": 10064,
   "original_name": "This Is Timaya",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avOwAAAAAAD4OXvxefIYwUoJSYDbyisI",
+  "snapshot_id": "avUBgAAAAAB9T1bkvOx1BlNMgSgxsriW",
   "tracks": [
     {
       "added_at": null,
@@ -187,6 +187,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Chulo Vibes",
+        "url": "https://open.spotify.com/album/1JlzIGbFMWsyL5WBEADj6Q"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "I Can't Kill Myself",
+      "url": "https://open.spotify.com/track/20MyQk60qEzkGVML0VMaCq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Kontrol",
         "url": "https://open.spotify.com/album/1ryXvaEgZBJEkmV6b7SW9U"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 178064,
       "name": "Kontrol",
       "url": "https://open.spotify.com/track/47sSLxvk49OmJf1TYzwAPq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chulo Vibes",
-        "url": "https://open.spotify.com/album/1JlzIGbFMWsyL5WBEADj6Q"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "I Can't Kill Myself",
-      "url": "https://open.spotify.com/track/20MyQk60qEzkGVML0VMaCq"
     },
     {
       "added_at": null,
@@ -255,6 +255,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Chulo Vibes",
+        "url": "https://open.spotify.com/album/1JlzIGbFMWsyL5WBEADj6Q"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 196800,
+      "name": "Pull Up",
+      "url": "https://open.spotify.com/track/3qF8DcoQpQ1IXlMbTKHylP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Telli Person",
         "url": "https://open.spotify.com/album/2S8IqygjfGKH7jMAac2vhS"
       },
@@ -275,26 +295,6 @@
       "duration_ms": 224754,
       "name": "Telli Person",
       "url": "https://open.spotify.com/track/2yiZjiwZq3pdfCdrbp87b4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chulo Vibes",
-        "url": "https://open.spotify.com/album/1JlzIGbFMWsyL5WBEADj6Q"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 196800,
-      "name": "Pull Up",
-      "url": "https://open.spotify.com/track/3qF8DcoQpQ1IXlMbTKHylP"
     },
     {
       "added_at": null,
@@ -619,26 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Samankwe",
-        "url": "https://open.spotify.com/album/0kFolnvDYsBzn9QlzeJprS"
-      },
-      "artists": [
-        {
-          "name": "HarrySong",
-          "url": "https://open.spotify.com/artist/3hflm7FUsWEKbI0fRnaW20"
-        },
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 212554,
-      "name": "Samankwe",
-      "url": "https://open.spotify.com/track/0O7hr1gLAktDObqnoUnjSE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Epiphany",
         "url": "https://open.spotify.com/album/5Ez1K4VqsS6Vt2sh5Se1qL"
       },
@@ -671,6 +651,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Samankwe",
+        "url": "https://open.spotify.com/album/0kFolnvDYsBzn9QlzeJprS"
+      },
+      "artists": [
+        {
+          "name": "HarrySong",
+          "url": "https://open.spotify.com/artist/3hflm7FUsWEKbI0fRnaW20"
+        },
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 212554,
+      "name": "Samankwe",
+      "url": "https://open.spotify.com/track/0O7hr1gLAktDObqnoUnjSE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Zero Panic, Vol. 2",
         "url": "https://open.spotify.com/album/2eX6rXJEXd2Gs8kD0nDkC4"
       },
@@ -691,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GLADIATOR",
-        "url": "https://open.spotify.com/album/79o1dxPTxk0QJhXjFoQlsE"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 157500,
-      "name": "SWEET US",
-      "url": "https://open.spotify.com/track/56lY57uPh4k8yw8TkQgwNZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Win",
         "url": "https://open.spotify.com/album/0yGdqWIgFuRxC9Kw6F1H2C"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 223080,
       "name": "Win",
       "url": "https://open.spotify.com/track/4tsOVwq32CJnEMfNUkqCcA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GLADIATOR",
+        "url": "https://open.spotify.com/album/79o1dxPTxk0QJhXjFoQlsE"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "SWEET US",
+      "url": "https://open.spotify.com/track/56lY57uPh4k8yw8TkQgwNZ"
     },
     {
       "added_at": null,

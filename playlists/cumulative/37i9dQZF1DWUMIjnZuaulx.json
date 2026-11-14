@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Spread the Good News with the best Gospel songs of the moment. Cover: John P. Kee",
+  "description": "Spread the Good News with the best Gospel songs of the moment. Cover: Tye Tribbett",
   "name": "Spread the Gospel",
   "tracks": [
     {
@@ -1722,6 +1722,24 @@
       "duration_ms": 272348,
       "name": "Bless Me",
       "url": "https://open.spotify.com/track/7lc2czeQDUCODiwbGQOA2o"
+    },
+    {
+      "album": {
+        "name": "V20 First Semester",
+        "url": "https://open.spotify.com/album/0mFQHLHAn4JISTyPlYvIG4"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380859,
+      "name": "Bless The Lord",
+      "url": "https://open.spotify.com/track/0y7A5Hz9HyMKXQ6xiDERUt"
     },
     {
       "album": {
@@ -4028,6 +4046,32 @@
       "duration_ms": 392258,
       "name": "Garment Of Praise - Live",
       "url": "https://open.spotify.com/track/4ekXmMuGkRpjvf0EdyYYtL"
+    },
+    {
+      "album": {
+        "name": "Get The Glory",
+        "url": "https://open.spotify.com/album/7vCcAaE7exidHlGAvxrWJd"
+      },
+      "artists": [
+        {
+          "name": "Jason Clayborn",
+          "url": "https://open.spotify.com/artist/0ml3hRZcRv7vHeIPGke7hW"
+        },
+        {
+          "name": "Susan Carol",
+          "url": "https://open.spotify.com/artist/7lkBIPB2g6tiQos6UF9plP"
+        },
+        {
+          "name": "Darrel Walls",
+          "url": "https://open.spotify.com/artist/0yg32lKXa3MKNPxiue46WJ"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264893,
+      "name": "Get The Glory",
+      "url": "https://open.spotify.com/track/0mSeuMyKVnaqa971Yzw0KG"
     },
     {
       "album": {
@@ -7366,7 +7410,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 273440,
       "name": "I Want It All Back",
       "url": "https://open.spotify.com/track/46D6FVbX3BQcTN9Fb6B781"
@@ -12320,7 +12364,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 888860,
       "name": "Praise The Lord - Live",
       "url": "https://open.spotify.com/track/5k9ILrXNbOOaaJUQkVtYSd"

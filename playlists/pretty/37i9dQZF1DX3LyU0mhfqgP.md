@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 > Celebrate and honor Pride with songs from LGBTQIA+ artists\. Cover: daine
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,065,066 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,065,081 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 47 | [M A M I](https://open.spotify.com/track/4kNKhrMcTemETjYXtvVYiM) | [Groove Delight](https://open.spotify.com/artist/1DX1cbeKQkRJClf4TMmXIn) | [M A M I](https://open.spotify.com/album/0vzPOMvyveOXKIbCZ2lBoz) | 3:10 |
 | 48 | [I'll Believe in Anything \- Trixie Mattel Remix](https://open.spotify.com/track/1ICEINq3RphlzosXrPYY6c) | [Wolf Parade](https://open.spotify.com/artist/0XSqX2PB3C5dTMv7SZaxSm), [Trixie Mattel](https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc) | [I'll Believe in Anything \(Trixie Mattel Remix\)](https://open.spotify.com/album/5fGn54KBzvZYF0IMbQUHJH) | 2:39 |
 | 49 | [Call Me Babe](https://open.spotify.com/track/2st8BBJ0YcYi6eA5xOBv5U) | [Priyanka](https://open.spotify.com/artist/1RSalo3q49NotNwKB2jtjO), [Lemon](https://open.spotify.com/artist/6vNrD9n6lmYcHQ9269HH2B) | [Call Me Babe](https://open.spotify.com/album/5UXzmRcanpxe6r8mVEcokz) | 2:41 |
-| 50 | [notime…](https://open.spotify.com/track/6qL1c0iuEhxV8a1Rt1l3ww) | [finnjävel](https://open.spotify.com/artist/5YQtvxTvGSShjMTOMyCuPT), [GRANT](https://open.spotify.com/artist/6SkVKlAmIWVD0LQvCGQqSj) | [notime…youshouldbeaskingmeout](https://open.spotify.com/album/3thIn4T4XksDxTHEU1rExU) | 2:19 |
+| 50 | [notime…](https://open.spotify.com/track/6qL1c0iuEhxV8a1Rt1l3ww) | [finnjävel](https://open.spotify.com/artist/5YQtvxTvGSShjMTOMyCuPT), [Grant](https://open.spotify.com/artist/6SkVKlAmIWVD0LQvCGQqSj) | [notime…youshouldbeaskingmeout](https://open.spotify.com/album/3thIn4T4XksDxTHEU1rExU) | 2:19 |
 
 Snapshot ID: `AAAAAHd9By72ckFYxDqofZdpwGtHL6ey`

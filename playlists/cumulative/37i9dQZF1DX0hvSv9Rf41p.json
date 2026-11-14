@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "All things <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">bass</a> \ud83d\ude80\ud83d\ude80 featuring SLANDER, Excision, & Blanke",
+  "description": "All things <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">bass</a> \ud83d\ude80\ud83d\ude80 featuring Levity",
   "name": "Bass Arcade",
   "tracks": [
     {
@@ -3070,7 +3070,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 139166,
       "name": "BAD LINE",
       "url": "https://open.spotify.com/track/4U8Cb7HJSR0VmsR8icbcHW"
@@ -5282,6 +5282,28 @@
       "duration_ms": 143355,
       "name": "Bounce",
       "url": "https://open.spotify.com/track/6vHfUI3h2F3PLc359w6Lwv"
+    },
+    {
+      "album": {
+        "name": "Bounce FM",
+        "url": "https://open.spotify.com/album/0d7nVKGRfBSdXeW4TAMQ6Y"
+      },
+      "artists": [
+        {
+          "name": "Moody Good",
+          "url": "https://open.spotify.com/artist/3EN8pUGJtYWutzf2fUxrDH"
+        },
+        {
+          "name": "Dr. Ush\u016bu",
+          "url": "https://open.spotify.com/artist/5UCxi2O9gdyXj7fNgQE9xR"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265714,
+      "name": "Bounce FM",
+      "url": "https://open.spotify.com/track/3TCkKDvs4C2ZFhZ9bu6b5K"
     },
     {
       "album": {
@@ -12477,6 +12499,28 @@
     },
     {
       "album": {
+        "name": "Escapism Vol. II",
+        "url": "https://open.spotify.com/album/4aqUvBOO4ieaXIuXDrvAW2"
+      },
+      "artists": [
+        {
+          "name": "Levity",
+          "url": "https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C"
+        },
+        {
+          "name": "Emi Grace",
+          "url": "https://open.spotify.com/artist/0U6MHJ9KRB5A1M7iHN06sS"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205241,
+      "name": "Eternity (feat. Emi Grace)",
+      "url": "https://open.spotify.com/track/6CwEB6vhbFxiX5JaOzpWM5"
+    },
+    {
+      "album": {
         "name": "Ether",
         "url": "https://open.spotify.com/album/3Jjv48mh0X8KKxg7amKor2"
       },
@@ -12522,6 +12566,32 @@
       "duration_ms": 158896,
       "name": "Euphoria",
       "url": "https://open.spotify.com/track/6i3DFYvbMIfPnljlyXkR0N"
+    },
+    {
+      "album": {
+        "name": "A Certain Ambiguity",
+        "url": "https://open.spotify.com/album/41NfEYKtPZOXraAnYDaEhL"
+      },
+      "artists": [
+        {
+          "name": "Quackson",
+          "url": "https://open.spotify.com/artist/1srU7GzSGHwG1ewjSv6ztq"
+        },
+        {
+          "name": "STAR SEED",
+          "url": "https://open.spotify.com/artist/5xR2U3IJuuJP89isSMnxtd"
+        },
+        {
+          "name": "AKASHAH",
+          "url": "https://open.spotify.com/artist/5DH0hUzAt90kqTvynnN1Sw"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183882,
+      "name": "Euphoria",
+      "url": "https://open.spotify.com/track/4KZaLTZmcJYeqIrRRuyuVn"
     },
     {
       "album": {
@@ -15293,6 +15363,24 @@
     },
     {
       "album": {
+        "name": "FUCKOUTMYFACE!",
+        "url": "https://open.spotify.com/album/7a0tM3ZzhrVxVkPYwHyTJ6"
+      },
+      "artists": [
+        {
+          "name": "Moore Kismet",
+          "url": "https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251718,
+      "name": "FUCKOUTMYFACE!",
+      "url": "https://open.spotify.com/track/4rLMKhSiVqAlyvcOCiiJrB"
+    },
+    {
+      "album": {
         "name": "Full Circle",
         "url": "https://open.spotify.com/album/5gPc52ohFMwjEGcV3sQu4N"
       },
@@ -15974,7 +16062,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 204137,
       "name": "Ghost Town",
       "url": "https://open.spotify.com/track/0vHfY43h0GV1lRv5wPpbJR"
@@ -18200,6 +18288,28 @@
       "duration_ms": 134125,
       "name": "HIGHER",
       "url": "https://open.spotify.com/track/7bzlFabE42gI3jTP5Wtc9u"
+    },
+    {
+      "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/4qILcP1JmixdFdcqZ3oIx3"
+      },
+      "artists": [
+        {
+          "name": "Hydraulix",
+          "url": "https://open.spotify.com/artist/0v6pkn5nWfqK3vgeg0gl0W"
+        },
+        {
+          "name": "SubDocta",
+          "url": "https://open.spotify.com/artist/2fRdiG5FNFFs4OjG7p6yxk"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250285,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/6JYyglUOoup8V1Nyzq2URt"
     },
     {
       "album": {
@@ -22028,7 +22138,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 209828,
       "name": "Lately (feat. Jex)",
       "url": "https://open.spotify.com/track/3WSDoGL8yrK4xq0bBJQgbp"
@@ -24488,7 +24598,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 181714,
       "name": "Matrix",
       "url": "https://open.spotify.com/track/1wYgYBJvA13mMVHpYesTAt"
@@ -25734,7 +25844,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 192000,
       "name": "Move Your Body",
       "url": "https://open.spotify.com/track/0MMiSyWQmucI2fVAof9Tgg"
@@ -29760,7 +29870,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 179049,
       "name": "play with it",
       "url": "https://open.spotify.com/track/4T0RLGcVQV62SR51Qx38KS"
@@ -29840,7 +29950,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 257959,
       "name": "Plus One",
       "url": "https://open.spotify.com/track/3ObX6pmBdD6xfyX0ba7PD3"
@@ -33661,6 +33771,32 @@
     },
     {
       "album": {
+        "name": "SANCTUARY",
+        "url": "https://open.spotify.com/album/3pna4izltUzZe477nEKBxx"
+      },
+      "artists": [
+        {
+          "name": "Ravenscoon",
+          "url": "https://open.spotify.com/artist/7vfvYuEyJbh1Tf3QlOTAmZ"
+        },
+        {
+          "name": "Emurse",
+          "url": "https://open.spotify.com/artist/3tpz0jU6HSLJH7IxrAb9T4"
+        },
+        {
+          "name": "Devilish Trio",
+          "url": "https://open.spotify.com/artist/45brkGrBxvV5pxj8eiImiF"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248888,
+      "name": "SEE ME AGAIN",
+      "url": "https://open.spotify.com/track/0Ji7c9DcSDN6fbZQ4tBYoP"
+    },
+    {
+      "album": {
         "name": "See You Again EP",
         "url": "https://open.spotify.com/album/4rmeoGTOMbpZ8WBzfWEKzC"
       },
@@ -36513,6 +36649,28 @@
     },
     {
       "album": {
+        "name": "Stars Align",
+        "url": "https://open.spotify.com/album/3RlsefkAjlaJxYKxEPCng0"
+      },
+      "artists": [
+        {
+          "name": "1991",
+          "url": "https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy"
+        },
+        {
+          "name": "Grace Barton",
+          "url": "https://open.spotify.com/artist/6sliIMvgGGdk8GRPD2FwMx"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190344,
+      "name": "Stars Align",
+      "url": "https://open.spotify.com/track/30XyoSeZQXJiP6y0fCeUWx"
+    },
+    {
+      "album": {
         "name": "KGM(irl)*",
         "url": "https://open.spotify.com/album/69HD49w55iopcQVFsjSrBX"
       },
@@ -36792,6 +36950,32 @@
       "duration_ms": 156924,
       "name": "STFU",
       "url": "https://open.spotify.com/track/0v1nobrUSVLIXrYaI4zwkw"
+    },
+    {
+      "album": {
+        "name": "STFU",
+        "url": "https://open.spotify.com/album/78Ah2H8nFHI8xoUkm4JuVQ"
+      },
+      "artists": [
+        {
+          "name": "HerShe",
+          "url": "https://open.spotify.com/artist/572W2DIMj2JYViwkIpae6J"
+        },
+        {
+          "name": "Bass Ventura",
+          "url": "https://open.spotify.com/artist/3IrnsrWAiZZpf4yAJhpIjj"
+        },
+        {
+          "name": "Feel Suite",
+          "url": "https://open.spotify.com/artist/3ZntMOLv6WfoECBtffzGvV"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219428,
+      "name": "STFU",
+      "url": "https://open.spotify.com/track/0ORl1LSkjtc89HsATWnQhe"
     },
     {
       "album": {
@@ -39658,10 +39842,40 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 201069,
       "name": "Throw It Up",
       "url": "https://open.spotify.com/track/0fLLrfJ4sikNitD6sDg2ne"
+    },
+    {
+      "album": {
+        "name": "Throw Sum Mo'",
+        "url": "https://open.spotify.com/album/1dYFGT38SjbouwcX5zAfl9"
+      },
+      "artists": [
+        {
+          "name": "YDG",
+          "url": "https://open.spotify.com/artist/286Ranmy5NZOVyIwNwAUE4"
+        },
+        {
+          "name": "Flozone",
+          "url": "https://open.spotify.com/artist/3SoFUkULAf5goHkXVeppoh"
+        },
+        {
+          "name": "CREG",
+          "url": "https://open.spotify.com/artist/3BoSgaNGMiAiEyRxECZgc9"
+        },
+        {
+          "name": "Karra",
+          "url": "https://open.spotify.com/artist/24CzPFC4y3bM4AkUnZfuAU"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198857,
+      "name": "Throw Sum Mo'",
+      "url": "https://open.spotify.com/track/7Kb0qkoko5Yn8s4ZviI1hx"
     },
     {
       "album": {
@@ -39684,7 +39898,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 171428,
       "name": "Throw Ya Body",
       "url": "https://open.spotify.com/track/5f3KMJbhhUJl1S3deq0P6C"

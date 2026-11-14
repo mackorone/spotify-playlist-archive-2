@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 
 > Cele mai noi hituri pop românești\. Cover: Lazy Ed
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,386 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,398 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Cu cine mai vorbesti](https://open.spotify.com/track/4XUAZZct08SUyefWyN18g0) | [Lazy Ed](https://open.spotify.com/artist/23l5vFzRRC5iUKVCH2eb4T) | [Cu cine mai vorbesti](https://open.spotify.com/album/16jRFADHfrisi2GnEpejQV) | 2:56 |
+| 1 | [Cu cine mai vorbești?](https://open.spotify.com/track/4XUAZZct08SUyefWyN18g0) | [Lazy Ed](https://open.spotify.com/artist/23l5vFzRRC5iUKVCH2eb4T) | [Cu cine mai vorbești?](https://open.spotify.com/album/16jRFADHfrisi2GnEpejQV) | 2:56 |
 | 2 | [Umbrela Mea](https://open.spotify.com/track/1r5zizCK7qVsyhdHa8IVYf) | [Juno](https://open.spotify.com/artist/2oCQSda6vA1t27B5RWXYwb), [AMI](https://open.spotify.com/artist/6ZQhxROkDyYGsijIBDBrhF) | [Umbrela Mea](https://open.spotify.com/album/6qpfuV1g61Qk6pbSzNvaR5) | 2:41 |
 | 3 | [Femeia](https://open.spotify.com/track/7tXDy5OyjGvVxH5uPBuREq) | [Delia](https://open.spotify.com/artist/6YomcUxZXNftP5OyuHoVmB) | [Femeia](https://open.spotify.com/album/2ZPcjHzJlwk5o5JIKeHx99) | 2:46 |
 | 4 | [Picătura chinezească](https://open.spotify.com/track/0fGFLZiZq254TEntlRzHLf) | [Irina Rimes](https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj) | [Picătura chinezească](https://open.spotify.com/album/1eM9CGb5d8ymqhMtZ5Nyor) | 4:51 |

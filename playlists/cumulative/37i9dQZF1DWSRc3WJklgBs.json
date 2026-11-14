@@ -2311,6 +2311,24 @@
     },
     {
       "album": {
+        "name": "Around You",
+        "url": "https://open.spotify.com/album/2eGHwaamCReFCTP9iL5F0y"
+      },
+      "artists": [
+        {
+          "name": "WizTheMc",
+          "url": "https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124207,
+      "name": "Around You",
+      "url": "https://open.spotify.com/track/3tTGaPYwzirwlwjmUgQP34"
+    },
+    {
+      "album": {
         "name": "Futurist",
         "url": "https://open.spotify.com/album/0N6wNVcGYMUcGpgomjMQj9"
       },
@@ -4429,6 +4447,24 @@
     },
     {
       "album": {
+        "name": "Trust EP",
+        "url": "https://open.spotify.com/album/2xKS6ZzrQvWQ9aE1ykZwZa"
+      },
+      "artists": [
+        {
+          "name": "Clementine Douglas",
+          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213161,
+      "name": "Butterflies",
+      "url": "https://open.spotify.com/track/5Rt6sNo8sARFYCUQSgflPm"
+    },
+    {
+      "album": {
         "name": "butterflies (with ellie d.)",
         "url": "https://open.spotify.com/album/2X1X9CnCYTq07bnXXdg12E"
       },
@@ -5958,7 +5994,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 227102,
       "name": "Comes Back Around",
       "url": "https://open.spotify.com/track/23axNcNwz5HwYauDa6Njy7"
@@ -8460,6 +8496,28 @@
       "duration_ms": 217258,
       "name": "Eternity (feat. Lena Leon)",
       "url": "https://open.spotify.com/track/7DDIVNWlbGJpQjVDDg8rXR"
+    },
+    {
+      "album": {
+        "name": "Euphoria",
+        "url": "https://open.spotify.com/album/0a8aICi3QOfsOBqx7wNBaj"
+      },
+      "artists": [
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "Bipolar Sunshine",
+          "url": "https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171923,
+      "name": "Euphoria",
+      "url": "https://open.spotify.com/track/2zP5hJzCCtzK7ebOdn8UyD"
     },
     {
       "album": {
@@ -14468,7 +14526,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 225017,
       "name": "i need u",
       "url": "https://open.spotify.com/track/6b86AhZ0bwJrjLaRqFnB7L"
@@ -14804,7 +14862,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 199666,
       "name": "I Will Find You",
       "url": "https://open.spotify.com/track/3rhrqnBTJVocOAOFFPsYYf"
@@ -18872,7 +18930,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 210909,
       "name": "Love Tonight",
       "url": "https://open.spotify.com/track/68jlqOAOllV9eGCkl1g2Rf"
@@ -18912,6 +18970,24 @@
       "duration_ms": 184226,
       "name": "Love With You",
       "url": "https://open.spotify.com/track/6j5KqspWky4FruOBCowDRe"
+    },
+    {
+      "album": {
+        "name": "Love You All Over",
+        "url": "https://open.spotify.com/album/3kfLFFQWRyugkTnsmOiyOe"
+      },
+      "artists": [
+        {
+          "name": "Caius",
+          "url": "https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186141,
+      "name": "Love You All Over",
+      "url": "https://open.spotify.com/track/60xmKBhLhBLmuD4RBo72oO"
     },
     {
       "album": {
@@ -30652,7 +30728,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 268979,
       "name": "To The Moon",
       "url": "https://open.spotify.com/track/1UqrEdmUZallXzeHpUyAkY"

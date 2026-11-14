@@ -4,7 +4,7 @@
 
 > 【サイファー音源を公開！】ABEMA「RAPSTAR 2026」公式プレイリスト。審査員や番組内で活躍したアーティスト、昨年活躍したアーティストの楽曲を毎週水曜日に更新。 マイライブラリに保存して毎週チェックしよう。
 
-449 songs - 21 hr 49 min
+450 songs - 21 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -297,6 +297,7 @@
 | [RAPSTAR DIS 2](https://open.spotify.com/track/09BTu6GaVwzfOUCzWxOtC9) | [Tee Shyne](https://open.spotify.com/artist/6JoFDtRf2E5KztrcF2tTiZ) | [RAPSTAR DIS 2](https://open.spotify.com/album/1Z05NDPzimzz8DlMb899yT) | 2:16 | 2026-10-06 | 2026-11-04 |
 | [RAPSTAR DISらない](https://open.spotify.com/track/0tniD8rL4qF6IUEsXVekhZ) | [Filix王](https://open.spotify.com/artist/2a58G4RDpD2sloCYWYkMXC) | [RAPSTAR DISらない](https://open.spotify.com/album/795wwfxUq6wl2tcyCQtgaE) | 2:03 | 2026-10-28 |  |
 | [RAPSTARシーズン](https://open.spotify.com/track/44NgPPHtibTmqFQqAzxlXk) | [ShowyRENZO](https://open.spotify.com/artist/1MLMBTcgBXus7IgbvLaoP4) | [RAPSTAR くやしッ](https://open.spotify.com/album/6U78ReCiNAWCLQpRt7eFT3) | 1:37 | 2026-10-28 |  |
+| [REAL LOVE \(feat\. Kaneee\)](https://open.spotify.com/track/4b6QVDiOfgIwsZF5qjkD1L) | [Pxrge Trxxxper](https://open.spotify.com/artist/4IxdeBhAksJLxEMRzvdWie), [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09) | [REAL LOVE \(feat\. Kaneee\)](https://open.spotify.com/album/1xqlrOcRxEkaEsIsxzQAZq) | 2:53 | 2026-11-13 |  |
 | [REMEMBER](https://open.spotify.com/track/6BENxiVRwDYnr8KlX5w1bB) | [ShowyVICTOR](https://open.spotify.com/artist/7wBFVrT9qEIi4FRjgqgPXA) | [REMEMBER](https://open.spotify.com/album/55eCIsQ6HPgugMaEmQbBbV) | 2:22 | 2023-10-24 | 2023-11-29 |
 | [REQUIEM](https://open.spotify.com/track/5UkYHReg1CJ0L60BMh3QDp) | [SANTAWORLDVIEW](https://open.spotify.com/artist/1Vf1H37mPCwbwQXf4NI14R) | [I'M THE ONE](https://open.spotify.com/album/3aU7EApdoG34SXjWuE2OZr) | 3:13 | 2024-02-27 | 2024-07-04 |
 | [REQUIEM](https://open.spotify.com/track/5oRnRhXnyBAdBcqpji2U2o) | [SANTAWORLDVIEW](https://open.spotify.com/artist/1Vf1H37mPCwbwQXf4NI14R) | [I'M THE ONE](https://open.spotify.com/album/76DsDJp2KJHjDiJ8y5QjgX) | 3:13 | 2023-10-24 | 2024-04-19 |

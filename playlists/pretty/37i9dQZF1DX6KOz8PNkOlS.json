@@ -1,6 +1,6 @@
 {
   "description": "Transform your workspace into a cozy retreat with gentle tunes and warm vibes",
-  "num_followers": 595467,
+  "num_followers": 595485,
   "original_name": "Soft Office",
   "owner": {
     "name": "Spotify",
@@ -451,22 +451,6 @@
     {
       "added_at": "2026-11-06 06:00:07",
       "album": {
-        "name": "Cocktail",
-        "url": "https://open.spotify.com/album/6L2qELGG144WItEUaAwVme"
-      },
-      "artists": [
-        {
-          "name": "Belanova",
-          "url": "https://open.spotify.com/artist/3oNy8cjBtJzLC07I70sklp"
-        }
-      ],
-      "duration_ms": 428226,
-      "name": "Arena",
-      "url": "https://open.spotify.com/track/6JvqohTklqGnbmHg7t4e6u"
-    },
-    {
-      "added_at": "2026-11-06 06:00:07",
-      "album": {
         "name": "Honora",
         "url": "https://open.spotify.com/album/4RsSlnwkUAvEtg0Tk86HnM"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 458053,
       "name": "A Plea",
       "url": "https://open.spotify.com/track/6l8bVvHC6p235oK1IIef03"
+    },
+    {
+      "added_at": "2026-11-06 06:00:07",
+      "album": {
+        "name": "Cocktail",
+        "url": "https://open.spotify.com/album/6L2qELGG144WItEUaAwVme"
+      },
+      "artists": [
+        {
+          "name": "Belanova",
+          "url": "https://open.spotify.com/artist/3oNy8cjBtJzLC07I70sklp"
+        }
+      ],
+      "duration_ms": 428226,
+      "name": "Arena",
+      "url": "https://open.spotify.com/track/6JvqohTklqGnbmHg7t4e6u"
     },
     {
       "added_at": "2026-11-06 06:00:07",
@@ -803,18 +803,18 @@
     {
       "added_at": "2026-11-06 06:00:07",
       "album": {
-        "name": "XV A\u00d1OS DE REGGAE GORDO",
-        "url": "https://open.spotify.com/album/3at4JSF08mUQ9Pz8DznvWF"
+        "name": "Pulsar",
+        "url": "https://open.spotify.com/album/1I2vgUWhcovQKIgQK0jHPB"
       },
       "artists": [
         {
-          "name": "Travelers All Stars",
-          "url": "https://open.spotify.com/artist/648TQGLrKzZRl8sxfcM6QH"
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
         }
       ],
-      "duration_ms": 170083,
-      "name": "Don\u00b4t Give Up",
-      "url": "https://open.spotify.com/track/3POhiweG6b0AEb07j2uiE2"
+      "duration_ms": 253733,
+      "name": "Pulsar",
+      "url": "https://open.spotify.com/track/3K7nejs3TJyyAbgf2RqHAo"
     },
     {
       "added_at": "2026-11-06 06:00:07",
@@ -835,18 +835,18 @@
     {
       "added_at": "2026-11-06 06:00:07",
       "album": {
-        "name": "Pulsar",
-        "url": "https://open.spotify.com/album/1I2vgUWhcovQKIgQK0jHPB"
+        "name": "XV A\u00d1OS DE REGGAE GORDO",
+        "url": "https://open.spotify.com/album/3at4JSF08mUQ9Pz8DznvWF"
       },
       "artists": [
         {
-          "name": "L'Imp\u00e9ratrice",
-          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+          "name": "Travelers All Stars",
+          "url": "https://open.spotify.com/artist/648TQGLrKzZRl8sxfcM6QH"
         }
       ],
-      "duration_ms": 253733,
-      "name": "Pulsar",
-      "url": "https://open.spotify.com/track/3K7nejs3TJyyAbgf2RqHAo"
+      "duration_ms": 170083,
+      "name": "Don\u00b4t Give Up",
+      "url": "https://open.spotify.com/track/3POhiweG6b0AEb07j2uiE2"
     },
     {
       "added_at": "2026-11-06 06:00:07",
@@ -899,22 +899,6 @@
     {
       "added_at": "2026-11-06 06:00:07",
       "album": {
-        "name": "Notes from a Quiet Life",
-        "url": "https://open.spotify.com/album/4HYukOf0RGN2YotkEsMCue"
-      },
-      "artists": [
-        {
-          "name": "Washed Out",
-          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
-        }
-      ],
-      "duration_ms": 176049,
-      "name": "Wait on You",
-      "url": "https://open.spotify.com/track/5LxSIqwKj8HAFsn2yZVm8O"
-    },
-    {
-      "added_at": "2026-11-06 06:00:07",
-      "album": {
         "name": "Love from the Other Side",
         "url": "https://open.spotify.com/album/7Fbph706oR8vaTPcYYvp9n"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 249405,
       "name": "Love from the Other Side",
       "url": "https://open.spotify.com/track/49uLH3xvQLd4I4pCQacGH8"
+    },
+    {
+      "added_at": "2026-11-06 06:00:07",
+      "album": {
+        "name": "Notes from a Quiet Life",
+        "url": "https://open.spotify.com/album/4HYukOf0RGN2YotkEsMCue"
+      },
+      "artists": [
+        {
+          "name": "Washed Out",
+          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
+        }
+      ],
+      "duration_ms": 176049,
+      "name": "Wait on You",
+      "url": "https://open.spotify.com/track/5LxSIqwKj8HAFsn2yZVm8O"
     },
     {
       "added_at": "2026-11-06 06:00:07",
@@ -995,22 +995,6 @@
     {
       "added_at": "2026-11-06 06:00:07",
       "album": {
-        "name": "Renacer",
-        "url": "https://open.spotify.com/album/7qKcHXbgt8Jy7Rc4tZv1b5"
-      },
-      "artists": [
-        {
-          "name": "Los \u00c1rboles Mentirosos",
-          "url": "https://open.spotify.com/artist/5lV4P5M7zfo78N6IBB67nK"
-        }
-      ],
-      "duration_ms": 316576,
-      "name": "Renacer",
-      "url": "https://open.spotify.com/track/7FmCz9t1VBcDgqBqXlh2M5"
-    },
-    {
-      "added_at": "2026-11-06 06:00:07",
-      "album": {
         "name": "head down",
         "url": "https://open.spotify.com/album/4nZeUiOozi6RueFN38jIyJ"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 148304,
       "name": "head down",
       "url": "https://open.spotify.com/track/39WOd2Pd0gaffvs6q347Xy"
+    },
+    {
+      "added_at": "2026-11-06 06:00:07",
+      "album": {
+        "name": "Renacer",
+        "url": "https://open.spotify.com/album/7qKcHXbgt8Jy7Rc4tZv1b5"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1rboles Mentirosos",
+          "url": "https://open.spotify.com/artist/5lV4P5M7zfo78N6IBB67nK"
+        }
+      ],
+      "duration_ms": 316576,
+      "name": "Renacer",
+      "url": "https://open.spotify.com/track/7FmCz9t1VBcDgqBqXlh2M5"
     },
     {
       "added_at": "2026-11-06 06:00:07",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2026-11-06 06:00:07",
       "album": {
-        "name": "SMT",
-        "url": "https://open.spotify.com/album/03D2z5rFjWwL1menJGfcmQ"
-      },
-      "artists": [
-        {
-          "name": "Pierre Kwenders",
-          "url": "https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP"
-        }
-      ],
-      "duration_ms": 197600,
-      "name": "SMT",
-      "url": "https://open.spotify.com/track/01j2SBoRQWzrcHmsycw415"
-    },
-    {
-      "added_at": "2026-11-06 06:00:07",
-      "album": {
         "name": "Santiago",
         "url": "https://open.spotify.com/album/5CqEEjDulphHq8zgJcko21"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 142516,
       "name": "Santiago",
       "url": "https://open.spotify.com/track/58r843NDpyDVVvd6In95g3"
+    },
+    {
+      "added_at": "2026-11-06 06:00:07",
+      "album": {
+        "name": "SMT",
+        "url": "https://open.spotify.com/album/03D2z5rFjWwL1menJGfcmQ"
+      },
+      "artists": [
+        {
+          "name": "Pierre Kwenders",
+          "url": "https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP"
+        }
+      ],
+      "duration_ms": 197600,
+      "name": "SMT",
+      "url": "https://open.spotify.com/track/01j2SBoRQWzrcHmsycw415"
     },
     {
       "added_at": "2026-11-06 06:00:07",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2026-11-06 06:00:07",
       "album": {
-        "name": "Dolores y compa\u00f1\u00eda",
-        "url": "https://open.spotify.com/album/7pX5LQHRwvOISJAChz2tqx"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Alatorre",
-          "url": "https://open.spotify.com/artist/5nx2QzX7iOhTv3L5eQOFG5"
-        }
-      ],
-      "duration_ms": 218024,
-      "name": "Socorro",
-      "url": "https://open.spotify.com/track/7aOCTIavuPBXbnsw0SUbrV"
-    },
-    {
-      "added_at": "2026-11-06 06:00:07",
-      "album": {
         "name": "PHASOR",
         "url": "https://open.spotify.com/album/0iIfsqcMuRwzmseYvSZw9S"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 235136,
       "name": "Camas Separadas - ft. Disco Bah\u00eda",
       "url": "https://open.spotify.com/track/22gaXio7PCkNc8ODKW9v2p"
+    },
+    {
+      "added_at": "2026-11-06 06:00:07",
+      "album": {
+        "name": "Dolores y compa\u00f1\u00eda",
+        "url": "https://open.spotify.com/album/7pX5LQHRwvOISJAChz2tqx"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Alatorre",
+          "url": "https://open.spotify.com/artist/5nx2QzX7iOhTv3L5eQOFG5"
+        }
+      ],
+      "duration_ms": 218024,
+      "name": "Socorro",
+      "url": "https://open.spotify.com/track/7aOCTIavuPBXbnsw0SUbrV"
     },
     {
       "added_at": "2026-11-06 06:00:07",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2026-11-06 06:00:07",
       "album": {
-        "name": "Love Potion",
-        "url": "https://open.spotify.com/album/04LlcT4cTidlpzQc3rHxOH"
-      },
-      "artists": [
-        {
-          "name": "Thee Marloes",
-          "url": "https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Love Potion",
-      "url": "https://open.spotify.com/track/0V0wKd905Y3zUHbvYAt5nU"
-    },
-    {
-      "added_at": "2026-11-06 06:00:07",
-      "album": {
         "name": "Between Us",
         "url": "https://open.spotify.com/album/2n3AdEZI379D0sAAWvTHEa"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 363791,
       "name": "Monsters",
       "url": "https://open.spotify.com/track/1443h65ZxXtPgl4t2c9ijS"
+    },
+    {
+      "added_at": "2026-11-06 06:00:07",
+      "album": {
+        "name": "Love Potion",
+        "url": "https://open.spotify.com/album/04LlcT4cTidlpzQc3rHxOH"
+      },
+      "artists": [
+        {
+          "name": "Thee Marloes",
+          "url": "https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Love Potion",
+      "url": "https://open.spotify.com/track/0V0wKd905Y3zUHbvYAt5nU"
     },
     {
       "added_at": "2026-11-06 06:00:07",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2026-11-06 06:00:07",
       "album": {
+        "name": "Musas en Mi",
+        "url": "https://open.spotify.com/album/4DpsoTA4hQJ3C92jvokX1s"
+      },
+      "artists": [
+        {
+          "name": "Arath Herce",
+          "url": "https://open.spotify.com/artist/4ZhGmNXaVf4Ki1YJDwxvVs"
+        }
+      ],
+      "duration_ms": 334893,
+      "name": "Musas en Mi",
+      "url": "https://open.spotify.com/track/2z5Lw3cfLUpfXJymwKH6An"
+    },
+    {
+      "added_at": "2026-11-06 06:00:07",
+      "album": {
         "name": "41 Longfield Street Late \u201880s",
         "url": "https://open.spotify.com/album/6FirtsYEzCW5rLvX4Da6kJ"
       },
@@ -1527,22 +1543,6 @@
       "duration_ms": 474358,
       "name": "Secret City",
       "url": "https://open.spotify.com/track/4H512sUGwagrnMGNoO6wmN"
-    },
-    {
-      "added_at": "2026-11-06 06:00:07",
-      "album": {
-        "name": "Musas en Mi",
-        "url": "https://open.spotify.com/album/4DpsoTA4hQJ3C92jvokX1s"
-      },
-      "artists": [
-        {
-          "name": "Arath Herce",
-          "url": "https://open.spotify.com/artist/4ZhGmNXaVf4Ki1YJDwxvVs"
-        }
-      ],
-      "duration_ms": 334893,
-      "name": "Musas en Mi",
-      "url": "https://open.spotify.com/track/2z5Lw3cfLUpfXJymwKH6An"
     },
     {
       "added_at": "2026-11-06 06:00:07",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2026-11-06 06:00:07",
       "album": {
-        "name": "Tru Love",
-        "url": "https://open.spotify.com/album/1mIwtmu3DzvkF0reJ90Pe8"
-      },
-      "artists": [
-        {
-          "name": "James Vincent McMorrow",
-          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
-        }
-      ],
-      "duration_ms": 198084,
-      "name": "Tru Love",
-      "url": "https://open.spotify.com/track/3HkIHa7ajjxgCB2Ag25els"
-    },
-    {
-      "added_at": "2026-11-06 06:00:07",
-      "album": {
         "name": "Dallas",
         "url": "https://open.spotify.com/album/2yd8sDDHD9Rzdefr3ZY8Nh"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 251583,
       "name": "Dallas",
       "url": "https://open.spotify.com/track/4DyV9fhLFynASWndwms2fz"
+    },
+    {
+      "added_at": "2026-11-06 06:00:07",
+      "album": {
+        "name": "Tru Love",
+        "url": "https://open.spotify.com/album/1mIwtmu3DzvkF0reJ90Pe8"
+      },
+      "artists": [
+        {
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+        }
+      ],
+      "duration_ms": 198084,
+      "name": "Tru Love",
+      "url": "https://open.spotify.com/track/3HkIHa7ajjxgCB2Ag25els"
     },
     {
       "added_at": "2026-11-06 06:00:07",

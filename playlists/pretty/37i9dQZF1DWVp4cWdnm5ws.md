@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVp4cWdnm5ws.md) - [plain]
 
 > Introducing RADAR Philippines Cast of 2026\. Cover: NEW LORE
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,779 likes - 68 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,779 likes - 68 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Track 3](https://open.spotify.com/track/735s7kB0oA5PXgXtiSZLMG) | [NEW LORE](https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E) | [Very Ancient Way of Crying](https://open.spotify.com/album/3xbauaiHd7Ah6wzGjfmoYo) | 0:00 |
+| 1 | [Sad Girl \(feat\. Ichika Nito & Gabba\)](https://open.spotify.com/track/735s7kB0oA5PXgXtiSZLMG) | [NEW LORE](https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E), [Ichika Nito](https://open.spotify.com/artist/1v7B6ZWa7QRQS3knn3Jvf4), [Gabba](https://open.spotify.com/artist/6tvCQZS4d1wJ9cA9Gl0ZqP) | [Very Ancient Way of Crying](https://open.spotify.com/album/3xbauaiHd7Ah6wzGjfmoYo) | 3:22 |
 | 2 | [Mic Check Mic Check \(Alam Mo Na Yan\)](https://open.spotify.com/track/3xx7dPdiYyDwb10aWV1uqc) | [VVINK](https://open.spotify.com/artist/4RYaFaZPwHFQpNUr6mW6OW) | [Mic Check Mic Check \(Alam Mo Na Yan\)](https://open.spotify.com/album/0IsvrMU14IDRyD0Qeju5Il) | 3:26 |
 | 3 | [YEAH WASAK](https://open.spotify.com/track/2CBYEX3DUR1Jd7tGassVas) | [Paul N Ballin](https://open.spotify.com/artist/0Hd8r7OHPwGn4ao1e0PYAu), [Uncle Dags](https://open.spotify.com/artist/3RM6NEfGA58GBtXSUs3G5l), [Mark Beats](https://open.spotify.com/artist/5wWx9uftlyPdzXtkKkurVM) | [YEAH WASAK](https://open.spotify.com/album/089XGDPLXogK5BTlE5NjZ5) | 3:10 |
 | 4 | [No Angry Man](https://open.spotify.com/track/1AxZo7iecL3hpXj5HgRUaB) | [NEW LORE](https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E) | [No Angry Man](https://open.spotify.com/album/6q9Krp2XyjtOlPf9FtOQ64) | 4:02 |

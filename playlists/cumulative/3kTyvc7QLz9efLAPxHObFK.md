@@ -4,7 +4,7 @@
 
 > 
 
-3,260 songs - 6 day 23 hr 31 min
+3,261 songs - 6 day 23 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2698,6 +2698,7 @@
 | [System Addict](https://open.spotify.com/track/5ZUnpAUmjIT4GBBAdSHnRj) | [Dazzler B](https://open.spotify.com/artist/7bkMJ94BLbq1BkxMYyYKRL) | [System Addict](https://open.spotify.com/album/1rArpudP86ZJqzMPLf5vpq) | 4:37 | 2023-10-20 |  |
 | [System Glitch](https://open.spotify.com/track/1OrXGdOzYWX3MJUtsEKehT) | [RAYZEN](https://open.spotify.com/artist/2x7wHChcawAYikCTKfhjId), [UNVIZION](https://open.spotify.com/artist/2mAd3aPOk5XiAt75mJWUDT) | [System Glitch](https://open.spotify.com/album/0f71mFI3V71FST3imWyph8) | 2:08 | 2025-10-26 |  |
 | [System Overload](https://open.spotify.com/track/08txmtm2EKTH713bRQZIyj) | [XTRM.](https://open.spotify.com/artist/4knTuZu8YdsmjBNFkOsPGJ) | [System Overload](https://open.spotify.com/album/2yrdlyYbKF9Ha9u5W3OeNA) | 3:50 | 2026-06-06 |  |
+| [Tainted Love \- Extended Mix](https://open.spotify.com/track/6eenkpAuYD1zjAJnpnveVB) | [Darren Styles](https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm), [Dougal](https://open.spotify.com/artist/4Dn8TwLoOeWtznIg0LLWFL) | [Tainted Love](https://open.spotify.com/album/5JyJ1D03s6nOukcA73eeJ6) | 2:46 | 2026-11-14 |  |
 | [Take A Ride](https://open.spotify.com/track/7EHbXDGgmMRIqQsZiMKKTv) | [Irradiate](https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I) | [Take A Ride](https://open.spotify.com/album/0GaU783CD7TVU4pZHX2y2w) | 2:46 | 2024-04-09 |  |
 | [Take Control](https://open.spotify.com/track/0I3kM8rfTWYdRx3vGSWjBf) | [RAV3ART](https://open.spotify.com/artist/5HmYVmjJ20MH8rYysXCsOf), [Aleq Baker](https://open.spotify.com/artist/1HQZlUBZe9IiDRmtToCjKY) | [Take Control](https://open.spotify.com/album/7gEAuDsjzS2L0AgnvmYuvT) | 1:41 | 2025-03-09 |  |
 | [TAKE CONTROL \- DEEZL Remix](https://open.spotify.com/track/2n7K5wAkx7uxMHngN4xZJw) | [Anderex](https://open.spotify.com/artist/7wXBtpPB5GFddtz9OeBlPW), [So Juice](https://open.spotify.com/artist/7MBMIGBbRcIAn4zZPOMNKR), [DEEZL](https://open.spotify.com/artist/5Gmt205UikGABaRkBaTX5L) | [TAKE CONTROL \(DEEZL Remix\)](https://open.spotify.com/album/6eC8gKSoacToJHkpuc4NKd) | 2:51 | 2023-11-20 |  |

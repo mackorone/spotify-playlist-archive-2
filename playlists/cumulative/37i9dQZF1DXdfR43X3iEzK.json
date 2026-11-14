@@ -9517,6 +9517,24 @@
     },
     {
       "album": {
+        "name": "Only",
+        "url": "https://open.spotify.com/album/55pwZaTThIlP1mKBBYKNiy"
+      },
+      "artists": [
+        {
+          "name": "Mayvi",
+          "url": "https://open.spotify.com/artist/40OnC1gducPfu1ZvA0pwa8"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159146,
+      "name": "Only",
+      "url": "https://open.spotify.com/track/3Ow8GcJHCH705o9RDDg6Be"
+    },
+    {
+      "album": {
         "name": "othello",
         "url": "https://open.spotify.com/album/7C4tEL9g4Vb2Dsn9Q1H52h"
       },

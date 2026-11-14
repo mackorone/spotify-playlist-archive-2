@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4zhZAI.md) - [plain]
 
 > This is Erykah Badu\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,370 likes - 42 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,394 likes - 42 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4zhZAI.md) - [plain]
 | 41 | [Honey](https://open.spotify.com/track/2z4ypE6YI1mybsczNx4eRU) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [New Amerykah Part One \(4th World War\)](https://open.spotify.com/album/2cimRuhfNJk2k8dmnwnh2d) | 5:20 |
 | 42 | [Lowkey \(feat\. Erykah Badu\)](https://open.spotify.com/track/6PMb77Py549WyGEDJNAacT) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a), [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [The Album](https://open.spotify.com/album/0BwUN4oXLzs95nE8GO1vrI) | 4:17 |
 
-Snapshot ID: `avOwAAAAAACUOvx2fcIcEHO9QEGscq6v`
+Snapshot ID: `avUBgAAAAADc3nCco7VIdC1K5bGvPMH/`

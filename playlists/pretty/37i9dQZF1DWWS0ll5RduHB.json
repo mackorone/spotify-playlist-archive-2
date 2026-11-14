@@ -1,12 +1,12 @@
 {
   "description": "\u97f3\u697d\u3092\u30dd\u30b1\u30c3\u30c8\u306b\u8a70\u3081\u3066\u6563\u6b69\u306b\u51fa\u304b\u3051\u3088\u3046\u3002\u304d\u3063\u3068\u65b0\u3057\u3044\u666f\u8272\u304c\u898b\u3048\u3066\u304f\u308b\u306f\u305a\u3002",
-  "num_followers": 51245,
+  "num_followers": 51249,
   "original_name": "Happy Stroll - \u97f3\u697d\u3068\u6563\u6b69 - ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAICK6i7DvYbRBcC9wAomIlTPoqxV",
+  "snapshot_id": "AAAAAN+O0cIWl6RmFchHOuWX0g5IWY47",
   "tracks": [
     {
       "added_at": "2026-06-25 15:19:37",
@@ -209,20 +209,20 @@
       "url": "https://open.spotify.com/track/77tzOaMILSpfk1zvnBDrZ1"
     },
     {
-      "added_at": "2026-10-20 15:00:08",
+      "added_at": "2026-04-17 03:49:21",
       "album": {
-        "name": "Grandma Song",
-        "url": "https://open.spotify.com/album/48eCxWORHd5e5rKLtU5b7I"
+        "name": "Prema",
+        "url": "https://open.spotify.com/album/6ELurkxQnAif7u5Vv6Wly9"
       },
       "artists": [
         {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
         }
       ],
-      "duration_ms": 183000,
-      "name": "Grandma Song",
-      "url": "https://open.spotify.com/track/7ELw4A1MnqcOMVndn9R86G"
+      "duration_ms": 281766,
+      "name": "You",
+      "url": "https://open.spotify.com/track/2vQhYhGSBBamRhhJeWprr1"
     },
     {
       "added_at": "2026-10-20 15:00:08",
@@ -241,20 +241,36 @@
       "url": "https://open.spotify.com/track/0IeBxP5BlIH2BDhQYVsRq3"
     },
     {
-      "added_at": "2026-04-17 03:49:21",
+      "added_at": "2026-10-20 15:00:08",
       "album": {
-        "name": "Prema",
-        "url": "https://open.spotify.com/album/6ELurkxQnAif7u5Vv6Wly9"
+        "name": "Grandma Song",
+        "url": "https://open.spotify.com/album/48eCxWORHd5e5rKLtU5b7I"
       },
       "artists": [
         {
-          "name": "Fujii Kaze",
-          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
         }
       ],
-      "duration_ms": 281766,
-      "name": "You",
-      "url": "https://open.spotify.com/track/2vQhYhGSBBamRhhJeWprr1"
+      "duration_ms": 183000,
+      "name": "Grandma Song",
+      "url": "https://open.spotify.com/track/7ELw4A1MnqcOMVndn9R86G"
+    },
+    {
+      "added_at": "2026-11-06 09:34:56",
+      "album": {
+        "name": "Airplane Mode",
+        "url": "https://open.spotify.com/album/379McNO5sSbweTq3tZi68P"
+      },
+      "artists": [
+        {
+          "name": "James Blunt",
+          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
+        }
+      ],
+      "duration_ms": 220032,
+      "name": "Hey, People",
+      "url": "https://open.spotify.com/track/0dQbsj0KMwoaa5xzzx4nwK"
     },
     {
       "added_at": "2026-10-20 15:00:08",
@@ -289,22 +305,6 @@
       "url": "https://open.spotify.com/track/7Ma1yFac4us8oeH9dUFcRe"
     },
     {
-      "added_at": "2026-11-06 09:34:56",
-      "album": {
-        "name": "Airplane Mode",
-        "url": "https://open.spotify.com/album/379McNO5sSbweTq3tZi68P"
-      },
-      "artists": [
-        {
-          "name": "James Blunt",
-          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
-        }
-      ],
-      "duration_ms": 220032,
-      "name": "Hey, People",
-      "url": "https://open.spotify.com/track/0dQbsj0KMwoaa5xzzx4nwK"
-    },
-    {
       "added_at": "2026-10-20 15:00:08",
       "album": {
         "name": "Plein Soleil",
@@ -319,6 +319,22 @@
       "duration_ms": 205746,
       "name": "Plein Soleil",
       "url": "https://open.spotify.com/track/2jYoHERAJLmbPEzgEq3q81"
+    },
+    {
+      "added_at": "2026-11-06 09:34:56",
+      "album": {
+        "name": "\u3044\u3044\u3093\u3058\u3083\u306a\u3044",
+        "url": "https://open.spotify.com/album/71eZv4CCScNApcSYATHObm"
+      },
+      "artists": [
+        {
+          "name": "muque",
+          "url": "https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t"
+        }
+      ],
+      "duration_ms": 176594,
+      "name": "\u3044\u3044\u3093\u3058\u3083\u306a\u3044",
+      "url": "https://open.spotify.com/track/6hJAJZixE6D1rjreTfBxNm"
     },
     {
       "added_at": "2026-10-20 15:00:08",
@@ -339,22 +355,6 @@
       "duration_ms": 129045,
       "name": "I Love a Rainbow",
       "url": "https://open.spotify.com/track/3bblDd2pNGaTSWGOT6lf3y"
-    },
-    {
-      "added_at": "2026-11-06 09:34:56",
-      "album": {
-        "name": "\u3044\u3044\u3093\u3058\u3083\u306a\u3044",
-        "url": "https://open.spotify.com/album/71eZv4CCScNApcSYATHObm"
-      },
-      "artists": [
-        {
-          "name": "muque",
-          "url": "https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t"
-        }
-      ],
-      "duration_ms": 176594,
-      "name": "\u3044\u3044\u3093\u3058\u3083\u306a\u3044",
-      "url": "https://open.spotify.com/track/6hJAJZixE6D1rjreTfBxNm"
     },
     {
       "added_at": "2026-11-06 09:34:56",
@@ -629,22 +629,6 @@
       "url": "https://open.spotify.com/track/7iOXb777qN8aqu8ulgZd6l"
     },
     {
-      "added_at": "2026-11-06 09:34:56",
-      "album": {
-        "name": "BRUJA",
-        "url": "https://open.spotify.com/album/1xG4xAWcvM38Mk69z9gFtH"
-      },
-      "artists": [
-        {
-          "name": "Irepelusa",
-          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
-        }
-      ],
-      "duration_ms": 171296,
-      "name": "BRUJA",
-      "url": "https://open.spotify.com/track/4Sqi6eRWwR6TcaEGS0IEvd"
-    },
-    {
       "added_at": "2026-10-20 15:00:08",
       "album": {
         "name": "Big Strong Man",
@@ -659,6 +643,22 @@
       "duration_ms": 229682,
       "name": "Big Strong Man",
       "url": "https://open.spotify.com/track/0dIqX63wlCNs47iwUOq0G3"
+    },
+    {
+      "added_at": "2026-11-06 09:34:56",
+      "album": {
+        "name": "BRUJA",
+        "url": "https://open.spotify.com/album/1xG4xAWcvM38Mk69z9gFtH"
+      },
+      "artists": [
+        {
+          "name": "Irepelusa",
+          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
+        }
+      ],
+      "duration_ms": 171296,
+      "name": "BRUJA",
+      "url": "https://open.spotify.com/track/4Sqi6eRWwR6TcaEGS0IEvd"
     },
     {
       "added_at": "2026-11-06 09:34:56",
@@ -695,22 +695,6 @@
     {
       "added_at": "2026-10-20 15:00:08",
       "album": {
-        "name": "I Roll My Eyes",
-        "url": "https://open.spotify.com/album/0B9aMMr8XBcTwyyKGVNXeG"
-      },
-      "artists": [
-        {
-          "name": "Ellen Krauss",
-          "url": "https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh"
-        }
-      ],
-      "duration_ms": 171625,
-      "name": "I Roll My Eyes",
-      "url": "https://open.spotify.com/track/3MgmGCYPqMIh8RVhlHmYRf"
-    },
-    {
-      "added_at": "2026-10-20 15:00:08",
-      "album": {
         "name": "Waiting For You",
         "url": "https://open.spotify.com/album/56iFNpX7kiX5Gv3jPVHpwi"
       },
@@ -731,18 +715,34 @@
     {
       "added_at": "2026-10-20 15:00:08",
       "album": {
-        "name": "Mr. Peaked In High School",
-        "url": "https://open.spotify.com/album/26cfMohVrXKMfKZcbARmTw"
+        "name": "I Roll My Eyes",
+        "url": "https://open.spotify.com/album/0B9aMMr8XBcTwyyKGVNXeG"
       },
       "artists": [
         {
-          "name": "Bea Miller",
-          "url": "https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x"
+          "name": "Ellen Krauss",
+          "url": "https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh"
         }
       ],
-      "duration_ms": 210683,
-      "name": "summer of \u201916",
-      "url": "https://open.spotify.com/track/48xY7Jn018AjLntqEaQCJB"
+      "duration_ms": 171625,
+      "name": "I Roll My Eyes",
+      "url": "https://open.spotify.com/track/3MgmGCYPqMIh8RVhlHmYRf"
+    },
+    {
+      "added_at": "2026-04-17 03:49:21",
+      "album": {
+        "name": "Sisters With Me",
+        "url": "https://open.spotify.com/album/74sxWShKdwDJAFyID1XaaP"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "duration_ms": 244591,
+      "name": "Sisters With Me",
+      "url": "https://open.spotify.com/track/2ewg31VuWBIamb8f8APqw7"
     },
     {
       "added_at": "2026-10-20 15:00:08",
@@ -769,20 +769,20 @@
       "url": "https://open.spotify.com/track/4faHxt98lvOrv4InWwgR6U"
     },
     {
-      "added_at": "2026-04-17 03:49:21",
+      "added_at": "2026-10-20 15:00:08",
       "album": {
-        "name": "Sisters With Me",
-        "url": "https://open.spotify.com/album/74sxWShKdwDJAFyID1XaaP"
+        "name": "Mr. Peaked In High School",
+        "url": "https://open.spotify.com/album/26cfMohVrXKMfKZcbARmTw"
       },
       "artists": [
         {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+          "name": "Bea Miller",
+          "url": "https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x"
         }
       ],
-      "duration_ms": 244591,
-      "name": "Sisters With Me",
-      "url": "https://open.spotify.com/track/2ewg31VuWBIamb8f8APqw7"
+      "duration_ms": 210683,
+      "name": "summer of \u201916",
+      "url": "https://open.spotify.com/track/48xY7Jn018AjLntqEaQCJB"
     },
     {
       "added_at": "2026-11-06 09:34:56",
@@ -805,22 +805,6 @@
       "url": "https://open.spotify.com/track/3BzrCJ28G6TWzfV5e1pixo"
     },
     {
-      "added_at": "2026-10-20 15:00:08",
-      "album": {
-        "name": "Someday",
-        "url": "https://open.spotify.com/album/6eVxuJTo3x3Fa9BmsPMMEt"
-      },
-      "artists": [
-        {
-          "name": "JP Saxe",
-          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
-        }
-      ],
-      "duration_ms": 182356,
-      "name": "Someday",
-      "url": "https://open.spotify.com/track/5L8rxFzRbcFshJ0e8pmAIB"
-    },
-    {
       "added_at": "2026-11-06 09:34:56",
       "album": {
         "name": "TRUE",
@@ -839,22 +823,34 @@
     {
       "added_at": "2026-10-20 15:00:08",
       "album": {
-        "name": "The World Keeps Spinning",
-        "url": "https://open.spotify.com/album/32ZClhFaEcuum0aEvXbDwo"
+        "name": "Someday",
+        "url": "https://open.spotify.com/album/6eVxuJTo3x3Fa9BmsPMMEt"
       },
       "artists": [
         {
-          "name": "Alemeda",
-          "url": "https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8"
-        },
-        {
-          "name": "Foushe\u00e9",
-          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
+          "name": "JP Saxe",
+          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
         }
       ],
-      "duration_ms": 135306,
-      "name": "The World Keeps Spinning",
-      "url": "https://open.spotify.com/track/3kjo18jDL7MvyRO8sMCVgO"
+      "duration_ms": 182356,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/5L8rxFzRbcFshJ0e8pmAIB"
+    },
+    {
+      "added_at": "2026-11-06 09:34:56",
+      "album": {
+        "name": "What the Body Remembers",
+        "url": "https://open.spotify.com/album/6BVhF8p2cVM0X8f1K7mbHb"
+      },
+      "artists": [
+        {
+          "name": "Chezka",
+          "url": "https://open.spotify.com/artist/09aWOipSJalkgLg7vOOUlY"
+        }
+      ],
+      "duration_ms": 254081,
+      "name": "Still a body",
+      "url": "https://open.spotify.com/track/5tv0vXUn1l1zjc1mgwmmKh"
     }
   ],
   "unique_name": "Happy Stroll - \u97f3\u697d\u3068\u6563\u6b69 - ",

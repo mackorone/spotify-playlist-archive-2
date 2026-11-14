@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78uJlEkinPI.md) - [plain]
 
 > THE David Byrne shares his biking soundtrack of familiar and obscure tunes for pedaling through the city.
 
-[Spotify](https://open.spotify.com/user/spotify) - 143 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 164 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

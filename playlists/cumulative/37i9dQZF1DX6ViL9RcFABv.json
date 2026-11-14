@@ -10596,7 +10596,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 188128,
       "name": "STRAVA",
       "url": "https://open.spotify.com/track/7gCkbZuIPAmAmRIT2lQ3Ny"
@@ -10952,6 +10952,28 @@
       "duration_ms": 194724,
       "name": "Temos Pena!",
       "url": "https://open.spotify.com/track/1i2t55Ls2wNthz6QDUUfDC"
+    },
+    {
+      "album": {
+        "name": "O Rom\u00e2ntico",
+        "url": "https://open.spotify.com/album/1vVKDGGlInRLp8zuQZKSS6"
+      },
+      "artists": [
+        {
+          "name": "Matias Dam\u00e1sio",
+          "url": "https://open.spotify.com/artist/0E0XPqa6BzxSkhmhvzA3k2"
+        },
+        {
+          "name": "Cuca Roseta",
+          "url": "https://open.spotify.com/artist/5JfkzRrPKWcMQenALP3UKL"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223680,
+      "name": "Temporal do Amor (feat. Cuca Roseta)",
+      "url": "https://open.spotify.com/track/2agihdHHKGTy4uURAW4icX"
     },
     {
       "album": {

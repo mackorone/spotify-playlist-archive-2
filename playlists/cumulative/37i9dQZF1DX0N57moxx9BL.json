@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Listen to the recent hits of Christian Rock.  Cover: Stryper",
+  "description": "Listen to the recent hits of Christian Rock.  Cover: Adelitas Way",
   "name": "Top Christian Rock",
   "tracks": [
     {
@@ -70,7 +70,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 247431,
       "name": "Acts of Piety",
       "url": "https://open.spotify.com/track/0a5ecbwi5na0yP5dhF1VVJ"
@@ -694,6 +694,24 @@
       "duration_ms": 196294,
       "name": "Boom (The Crystal Method Remix) - 2021 Remaster",
       "url": "https://open.spotify.com/track/5E10Tq93lSG3gP6usfKAT6"
+    },
+    {
+      "album": {
+        "name": "conflictions of affliction II",
+        "url": "https://open.spotify.com/album/0AXxdPSMAOX2biMsH35ssb"
+      },
+      "artists": [
+        {
+          "name": "aftrthght",
+          "url": "https://open.spotify.com/artist/0m4Lfr9tvsHyYOUWhsbSKY"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249606,
+      "name": "Break This Cycle",
+      "url": "https://open.spotify.com/track/5DRoPCGoFKlbahOfiZTjqp"
     },
     {
       "album": {
@@ -2906,7 +2924,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 152978,
       "name": "KINGDOM COME",
       "url": "https://open.spotify.com/track/4V0XVB84bt1Dhu8kcJXvy5"
@@ -3210,6 +3228,24 @@
       "duration_ms": 175007,
       "name": "Look At God",
       "url": "https://open.spotify.com/track/5xqU5TupZhjHTbz6NgVvo6"
+    },
+    {
+      "album": {
+        "name": "Lord of Hosts",
+        "url": "https://open.spotify.com/album/0sG7mGbb2Mk5GDADSpxlOM"
+      },
+      "artists": [
+        {
+          "name": "amen",
+          "url": "https://open.spotify.com/artist/4oYfyBavNX48RqJIPLbIsP"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246397,
+      "name": "Lord of Hosts",
+      "url": "https://open.spotify.com/track/6F67UGnOkD1CKsGyARc9lK"
     },
     {
       "album": {
@@ -3994,6 +4030,24 @@
       "duration_ms": 217197,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/4MwDtHxtQw3IW1luonVIs0"
+    },
+    {
+      "album": {
+        "name": "Prison of One",
+        "url": "https://open.spotify.com/album/3bnhlN2ZdpoKmpGZK5MU7E"
+      },
+      "artists": [
+        {
+          "name": "Adelitas Way",
+          "url": "https://open.spotify.com/artist/1ZjAT2nTrzDIXFfsQ2hWJk"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228873,
+      "name": "Prison of One",
+      "url": "https://open.spotify.com/track/6d8FAak29nu0pSizXs4u5i"
     },
     {
       "album": {
@@ -5256,6 +5310,24 @@
       "duration_ms": 287237,
       "name": "The Lord Is My Shepherd (Psalm 23)",
       "url": "https://open.spotify.com/track/4GprQ46Y7PBtiTkequEhM3"
+    },
+    {
+      "album": {
+        "name": "The Man I Killed",
+        "url": "https://open.spotify.com/album/1tq9onhhufkmtyDaxQXogv"
+      },
+      "artists": [
+        {
+          "name": "Nathan Wagner",
+          "url": "https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281851,
+      "name": "The Man I Killed",
+      "url": "https://open.spotify.com/track/7nQsBdNq9gIQB6lzC9Z12W"
     },
     {
       "album": {

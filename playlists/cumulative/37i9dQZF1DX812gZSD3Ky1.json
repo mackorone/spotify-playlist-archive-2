@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e27\u0e23\u0e31\u0e25\u0e41\u0e25\u0e30\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e19\u0e01\u0e23\u0e30\u0e41\u0e2a\u0e15\u0e2d\u0e19\u0e19\u0e35\u0e49. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: the ge",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e27\u0e23\u0e31\u0e25\u0e41\u0e25\u0e30\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e19\u0e01\u0e23\u0e30\u0e41\u0e2a\u0e15\u0e2d\u0e19\u0e19\u0e35\u0e49. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Z9",
   "name": "Viral Hits Thailand",
   "tracks": [
     {
@@ -602,7 +602,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 179062,
       "name": "ADDICTED",
       "url": "https://open.spotify.com/track/0SqDNsDiJyvrbXGsIvt0hN"
@@ -22748,7 +22748,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 199799,
       "name": "\u0e02\u0e49\u0e32\u0e07\u0e40\u0e18\u0e2d (feat. Pod)",
       "url": "https://open.spotify.com/track/4a5e7IKljxiQju1kamtexp"
@@ -22850,7 +22850,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 291557,
       "name": "\u0e04\u0e27\u0e32\u0e21\u0e23\u0e31\u0e01",
       "url": "https://open.spotify.com/track/5djtarcayWp2DK6DQ1Z9P6"
@@ -22872,7 +22872,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 285000,
       "name": "\u0e04\u0e32\u0e15\u0e32 (KATA)",
       "url": "https://open.spotify.com/track/59g67XSLvrQG4AXDGjylK8"
@@ -23198,6 +23198,50 @@
       "duration_ms": 188000,
       "name": "\u0e0a\u0e2d\u0e1a\u0e08\u0e31\u0e07\u0e27\u0e48\u0e30 (Ricky Latin)",
       "url": "https://open.spotify.com/track/5su7so7GIrRcGXaVfgJYAa"
+    },
+    {
+      "album": {
+        "name": "\u0e0a\u0e31\u0e48\u0e27 (SURE)",
+        "url": "https://open.spotify.com/album/0fVYbBaVCDBC6qi7mI5oa7"
+      },
+      "artists": [
+        {
+          "name": "2Ectasy",
+          "url": "https://open.spotify.com/artist/4WXkCBHyUCfIPPZrZFcP5m"
+        },
+        {
+          "name": "jeffy",
+          "url": "https://open.spotify.com/artist/1hQpgqfnQgLZcyRaEOlEtT"
+        },
+        {
+          "name": "Kakagoesbackhome",
+          "url": "https://open.spotify.com/artist/3FmE7HqD23T9KKQmiu94M1"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200333,
+      "name": "\u0e0a\u0e31\u0e48\u0e27 (SURE)",
+      "url": "https://open.spotify.com/track/5RQdNyuZMWfmZKIBJrpP7Q"
+    },
+    {
+      "album": {
+        "name": "\u0e0a\u0e35\u0e27\u0e34\u0e15\u0e04\u0e37\u0e2d\u0e2d\u0e30\u0e44\u0e23? (Winter Is Coming)",
+        "url": "https://open.spotify.com/album/23TjisvxxfW8EHT7w9U8m0"
+      },
+      "artists": [
+        {
+          "name": "THE TOYS",
+          "url": "https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177362,
+      "name": "\u0e0a\u0e35\u0e27\u0e34\u0e15\u0e04\u0e37\u0e2d\u0e2d\u0e30\u0e44\u0e23? (Winter Is Coming)",
+      "url": "https://open.spotify.com/track/7wm5UZWumOYMcynaX5R2M7"
     },
     {
       "album": {
@@ -23906,7 +23950,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 292862,
       "name": "\u0e21\u0e32\u0e40\u0e1f\u0e35\u0e22\u0e1a\u0e49\u0e32\u0e19\u0e19\u0e2d\u0e01",
       "url": "https://open.spotify.com/track/4dd6gy6OI2WRGHl8MERcJb"
@@ -24008,6 +24052,24 @@
       "duration_ms": 240461,
       "name": "\u0e23\u0e2d SIS (TER)",
       "url": "https://open.spotify.com/track/0jJ4i5wVYz6ENRrJqDWfz6"
+    },
+    {
+      "album": {
+        "name": "\u0e23\u0e30\u0e1a\u0e1a\u0e02\u0e31\u0e14\u0e02\u0e49\u0e2d\u0e07 (SOS)",
+        "url": "https://open.spotify.com/album/32XwNOmfBKvV9VWMtLPRaX"
+      },
+      "artists": [
+        {
+          "name": "BILLKIN",
+          "url": "https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193404,
+      "name": "\u0e23\u0e30\u0e1a\u0e1a\u0e02\u0e31\u0e14\u0e02\u0e49\u0e2d\u0e07 (SOS)",
+      "url": "https://open.spotify.com/track/6TcM9UKDc12Kus4bMBQaJU"
     },
     {
       "album": {
@@ -25037,6 +25099,24 @@
     },
     {
       "album": {
+        "name": "\u0e40\u0e14\u0e4b\u0e2d",
+        "url": "https://open.spotify.com/album/68o70uKuUqEPwfFyWw4NxY"
+      },
+      "artists": [
+        {
+          "name": "JOEY PHUWASIT",
+          "url": "https://open.spotify.com/artist/5RQZVhw9dwZYc10QQfNMf1"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268000,
+      "name": "\u0e40\u0e14\u0e4b\u0e2d",
+      "url": "https://open.spotify.com/track/4e3NZ5xdfssiWxyUxLD8zh"
+    },
+    {
+      "album": {
         "name": "\u0e40\u0e17\u0e2a\u0e14\u0e35 (Tasty)",
         "url": "https://open.spotify.com/album/7vMHghWuemkXqitqCAhiE8"
       },
@@ -25146,7 +25226,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 244000,
       "name": "\u0e40\u0e1e\u0e35\u0e22\u0e07\u0e41\u0e04\u0e48\u0e42\u0e17\u0e23",
       "url": "https://open.spotify.com/track/48xU6P45EupODmFSIGZbWj"
@@ -25513,6 +25593,24 @@
     },
     {
       "album": {
+        "name": "\u0e43\u0e08\u0e25\u0e2d\u0e22 (Join a line)",
+        "url": "https://open.spotify.com/album/0krMujtk1IHKmwbd9AZbUM"
+      },
+      "artists": [
+        {
+          "name": "NONT TANONT",
+          "url": "https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240374,
+      "name": "\u0e43\u0e08\u0e25\u0e2d\u0e22 (Join a line)",
+      "url": "https://open.spotify.com/track/7gEbFk8tNECKN2ioXrcEQS"
+    },
+    {
+      "album": {
         "name": "ROOM101",
         "url": "https://open.spotify.com/album/5KyBfveZb2nGL3Hl4qlwz3"
       },
@@ -25724,6 +25822,24 @@
       "duration_ms": 206222,
       "name": "\u0e44\u0e21\u0e48\u0e23\u0e31\u0e01\u0e14\u0e35\u0e01\u0e27\u0e48\u0e32",
       "url": "https://open.spotify.com/track/5F6Zfgz34H4UtJkCcDUlPs"
+    },
+    {
+      "album": {
+        "name": "\u0e44\u0e21\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e08\u0e30\u0e40\u0e25\u0e27 (Not Bad)",
+        "url": "https://open.spotify.com/album/6JWyZ4DxRGDjcHoLf0K45B"
+      },
+      "artists": [
+        {
+          "name": "Z9",
+          "url": "https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200439,
+      "name": "\u0e44\u0e21\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e08\u0e30\u0e40\u0e25\u0e27 (Not Bad)",
+      "url": "https://open.spotify.com/track/35twBI2bQPkDTRvmkKgyGb"
     },
     {
       "album": {

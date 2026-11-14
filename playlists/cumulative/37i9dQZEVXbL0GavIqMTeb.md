@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Chile.
 
-1,812 songs - 4 day 4 hr 14 min
+1,813 songs - 4 day 4 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -569,7 +569,7 @@
 | [EoO](https://open.spotify.com/track/6J5kc12BW5HuP3d7C3vvx8) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:24 | 2025-01-06 |  |
 | [Es el Amor](https://open.spotify.com/track/4OaUwXCBL5V452WC81Kw8b) | [La Noche](https://open.spotify.com/artist/74RYbbIHke18VFvcsP2iD9) | [Amor Entre Sábanas](https://open.spotify.com/album/0TKpSJvxQTxePOFcN9Tj50) | 3:34 | 2026-09-27 | 2026-09-29 |
 | [Es Por Ti](https://open.spotify.com/track/2b4fX8Vl1i5tedaBYkiP6W) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Un Día Normal](https://open.spotify.com/album/4lekjTG98U3jSYovJJji30) | 4:10 | 2026-10-17 | 2026-10-28 |
-| [Es Por Ti](https://open.spotify.com/track/3b1IQflSLrgzYQPGFzI9cl) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Un Día Normal](https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1) | 4:10 | 2026-09-25 |  |
+| [Es Por Ti](https://open.spotify.com/track/3b1IQflSLrgzYQPGFzI9cl) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Un Día Normal](https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1) | 4:10 | 2026-09-25 | 2026-11-14 |
 | [Es un Secreto](https://open.spotify.com/track/3Btqti3QpzZZr6uz5mlNzz) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House Of Pleasure](https://open.spotify.com/album/6sP9EP1NyetOJxmuw2ErZi) | 3:10 | 2025-06-14 | 2026-11-04 |
 | [Es un Secreto](https://open.spotify.com/track/7JwdbqIpiuWvGbRryKSuBz) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House Of Pleasure](https://open.spotify.com/album/0qmyud8qe8LqaVQ1YQ7S5G) | 3:10 | 2023-07-09 | 2024-12-29 |
 | [Es un Secreto](https://open.spotify.com/track/3KZCP2StVGdWkOKyRZNWA4) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House of Pleasure](https://open.spotify.com/album/4s9iYsrtBIvkZn5AEbUbl0) | 3:12 | 2024-05-01 | 2026-01-31 |
@@ -1657,6 +1657,7 @@
 | [TUS LÁGRIMAS](https://open.spotify.com/track/30W8VKHrAZmHzObnwAoc1u) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [MICRODOSIS](https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC) | 2:54 | 2022-04-19 | 2022-06-06 |
 | [Tuss](https://open.spotify.com/track/0qd7ACCc9z2mlTYgPRcnUJ) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Tuss](https://open.spotify.com/album/4l7IpfEVv21t2gxYnrRPKA) | 3:41 | 2024-07-13 | 2025-01-02 |
 | [Tussi Code Mari](https://open.spotify.com/track/72NnJdEsAgTlnguInmxveg) | [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy), [Crismj](https://open.spotify.com/artist/73085QUq0HermcHl8fg65T) | [Tussi Code Mari](https://open.spotify.com/album/0Oxmal9ZatxevhbkU9eZ3S) | 2:52 | 2021-07-04 | 2021-11-17 |
+| [UH LA LÁ!](https://open.spotify.com/track/5Svty9KY9ZEdo05JONI4ir) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Corredor](https://open.spotify.com/artist/1YPxccz4sOCJoVRExWRSsZ), [Space Records](https://open.spotify.com/artist/1yMj6p5a1Qfawl5KVeRH5i) | [UH LA LÁ!](https://open.spotify.com/album/6DET7Y1u6ghoWfv7MnfIBs) | 2:13 | 2026-11-13 |  |
 | [ULTRA SOLO](https://open.spotify.com/track/0OTNHGKcqQbk51bOYe462Y) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb) | [ULTRA SOLO](https://open.spotify.com/album/1HeGenNhHCIMcnFsSlvprd) | 3:47 | 2022-02-16 | 2022-10-13 |
 | [ULTRA SOLO REMIX](https://open.spotify.com/track/6wtZPYBIXUvCpXwVjMCJBf) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb), [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [ULTRA SOLO REMIX](https://open.spotify.com/album/7JsxzI8o2TI71jHBOIsgqm) | 5:22 | 2022-06-17 | 2023-02-22 |
 | [Un Año Más](https://open.spotify.com/track/43bOY95rvUyWmbMz0gBFoJ) | [La Sonora De Tommy Rey](https://open.spotify.com/artist/0gOdu2BvlfycjQlrtk0CQv) | [Ya Llegó La Navidad](https://open.spotify.com/album/3hBjR7OgyFUUTUHvGllc0m) | 3:53 | 2023-01-02 | 2025-01-04 |

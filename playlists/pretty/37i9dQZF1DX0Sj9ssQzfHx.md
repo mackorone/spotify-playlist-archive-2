@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Sj9ssQzfHx.md) - [plain]
 
 > Take a step\-back and listen to Heat Check
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,419 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,187 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

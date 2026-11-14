@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > pearl of the week ✨Ecco2k✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,506 likes - 200 songs - 10 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,822 likes - 200 songs - 10 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 4 | [Way back to You](https://open.spotify.com/track/5VxGvEGKHDw8AfoRqdfmcR) | [Becky and the Birds](https://open.spotify.com/artist/52MMXmgPC7kDNIYUxCeh8d) | [Way back to You](https://open.spotify.com/album/70wK07yeUWeQiH9OnsjyTP) | 2:01 |
 | 5 | [Creek](https://open.spotify.com/track/6pahtfyWIYs5qYHNrx9Yjv) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Creek](https://open.spotify.com/album/4ZHCgrvfu9ayQNQ0agDrVO) | 1:53 |
 | 6 | [agora sii](https://open.spotify.com/track/29FeMQD1iBUXZ7ZpmLSRXM) | [Dinamarca](https://open.spotify.com/artist/4YFGNIynoM4Kq6f4VcZ7SX), [emmi](https://open.spotify.com/artist/4uKazpOzJICJZ1MU1wwLfC) | [agora sii](https://open.spotify.com/album/3pKXD2pQijx2ZKeVVXRfQ3) | 1:32 |
-| 7 | [Baby](https://open.spotify.com/track/2j5OVXMkRA0E3w27HHJN1A) | [GRANT](https://open.spotify.com/artist/6SkVKlAmIWVD0LQvCGQqSj) | [Baby / Baby Pt\. 2](https://open.spotify.com/album/3L6eKwIWVOxRaLOIuQTsxp) | 3:29 |
+| 7 | [Baby](https://open.spotify.com/track/2j5OVXMkRA0E3w27HHJN1A) | [Grant](https://open.spotify.com/artist/6SkVKlAmIWVD0LQvCGQqSj) | [Baby / Baby Pt\. 2](https://open.spotify.com/album/3L6eKwIWVOxRaLOIuQTsxp) | 3:29 |
 | 8 | [dream](https://open.spotify.com/track/4Xjw8z313o5PuU1qXTn4Bq) | [DJ Suzy](https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc) | [Kira Krash](https://open.spotify.com/album/0KjWCA2RXBWeD7X2GU370p) | 3:55 |
 | 9 | [Say Less](https://open.spotify.com/track/1T3rqTJmUAqEb3zevVY8Fr) | [Joshua Idehen](https://open.spotify.com/artist/3PubLnxnO5N2Avr3UvG1Vc) | [Say Less](https://open.spotify.com/album/1n7pWE38qp1u1XHUgcnONo) | 3:12 |
 | 10 | [What I'll Become](https://open.spotify.com/track/0ODx0QdRtujSDPaFZpb4SG) | [NATHALIA](https://open.spotify.com/artist/5NTS78KR2R1X37eRqtuEDE) | [Powder / What I’ll Become](https://open.spotify.com/album/4OneD9e7aZZktGvKPmdosa) | 2:07 |
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 16 | [Let It Go](https://open.spotify.com/track/4aHZTxqb7HZuCNJJXdnVBb) | [Yangze](https://open.spotify.com/artist/41ZgBrHYJcdi3LEiZX1RMt) | [Heartbreak Stew](https://open.spotify.com/album/71JbANfvjiWqdhCb83IrMA) | 3:15 |
 | 17 | [Drop](https://open.spotify.com/track/39PO3g3EGCMfMroUXSK8gD) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95) | [Drop](https://open.spotify.com/album/6fGNKbBeR1kAm4M3GcJ2Ag) | 2:24 |
 | 18 | [ddr](https://open.spotify.com/track/6D3RkpuqTO4DyFvrN4VfPO) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [ddr](https://open.spotify.com/album/3k8LisWWjdypicBd3MVzqi) | 4:37 |
-| 19 | [C'mon Caroline](https://open.spotify.com/track/04KeNT4krk7FCBoGV1j1jh) | [GRANT](https://open.spotify.com/artist/6SkVKlAmIWVD0LQvCGQqSj) | [C'mon Caroline](https://open.spotify.com/album/7ocOBer43mULvqsTrET2Ng) | 3:15 |
+| 19 | [C'mon Caroline](https://open.spotify.com/track/04KeNT4krk7FCBoGV1j1jh) | [Grant](https://open.spotify.com/artist/6SkVKlAmIWVD0LQvCGQqSj) | [C'mon Caroline](https://open.spotify.com/album/7ocOBer43mULvqsTrET2Ng) | 3:15 |
 | 20 | [Rolen \(feat\. Helena Gao\)](https://open.spotify.com/track/3SRPlp6MkmEE2rmaaIP0S9) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Helena Gao](https://open.spotify.com/artist/2s2ztYpVGqV3BWDbAcd35h) | [Rolen \(feat\. Helena Gao\)](https://open.spotify.com/album/03sQfNMxrsumXgYu3GSCll) | 2:27 |
 | 21 | [Puddle](https://open.spotify.com/track/60mjdFiBFsUenV1XYT0yTL) | [Murex](https://open.spotify.com/artist/3v73yV0xtIge5cSlUF0Dby) | [Puddle](https://open.spotify.com/album/4jlBjrMWKu1EapkaLUno4X) | 1:57 |
 | 22 | [lavender \(feat\. 1tbsp\)](https://open.spotify.com/track/3iY1JE5aaysnP3h1BNB9n0) | [Mietze Conte](https://open.spotify.com/artist/3ETvRzzQK7ppB28GcAE8rN), [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [\(L\)ove\(I\)s\(F\)or\(E\)veryone](https://open.spotify.com/album/6OlizAuU1NhbdlRJF6JPr0) | 2:42 |
@@ -163,7 +163,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 153 | [Needja](https://open.spotify.com/track/4nSZNVMfBzkLOQva33OLJJ) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Ledbyher](https://open.spotify.com/artist/4UDkTxtdr3HpZrDRu9727s) | [Needja](https://open.spotify.com/album/3ELRc5dM7WtbN2OSawC2tD) | 3:10 |
 | 154 | [No Fear](https://open.spotify.com/track/2LQhEn8usQ8va0aPdLRnWX) | [Iceage](https://open.spotify.com/artist/03hlOXqRyyXO3ectp3eEbU) | [For Love of Grace & the Hereafter](https://open.spotify.com/album/1oU9h86D6qcuHNDoGvzpwV) | 3:38 |
 | 155 | [Versailles Flow](https://open.spotify.com/track/2T1utvioehcgYAtQ6hjPOd) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Sulfur Surfer](https://open.spotify.com/album/0ZegzmzVWw6wVsSeXK3OQE) | 3:37 |
-| 156 | [notime…](https://open.spotify.com/track/6qL1c0iuEhxV8a1Rt1l3ww) | [finnjävel](https://open.spotify.com/artist/5YQtvxTvGSShjMTOMyCuPT), [GRANT](https://open.spotify.com/artist/6SkVKlAmIWVD0LQvCGQqSj) | [notime…youshouldbeaskingmeout](https://open.spotify.com/album/3thIn4T4XksDxTHEU1rExU) | 2:19 |
+| 156 | [notime…](https://open.spotify.com/track/6qL1c0iuEhxV8a1Rt1l3ww) | [finnjävel](https://open.spotify.com/artist/5YQtvxTvGSShjMTOMyCuPT), [Grant](https://open.spotify.com/artist/6SkVKlAmIWVD0LQvCGQqSj) | [notime…youshouldbeaskingmeout](https://open.spotify.com/album/3thIn4T4XksDxTHEU1rExU) | 2:19 |
 | 157 | [CPR \- horsegiirL remix](https://open.spotify.com/track/7zqKqQAH2UNmlmMTxBFlvo) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ), [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [CPR \(horsegiirL remix\)](https://open.spotify.com/album/4lrANjEunaeYNOQDiUYgvC) | 3:21 |
 | 158 | [Heart](https://open.spotify.com/track/0p7xa6EfNLHiwcf130aQRT) | [Dogs I Know](https://open.spotify.com/artist/659NKYZdNCCOnkKwedxXcQ) | [Heart](https://open.spotify.com/album/6fWscyRXz4JJ58c3E2Xhpe) | 4:08 |
 | 159 | [Bubble](https://open.spotify.com/track/3vOYhr9Krj2KnFyQ0hGa84) | [Peder Mannerfelt](https://open.spotify.com/artist/3IuyAl5gMAvYhn0VjRzC1g) | [Bubble](https://open.spotify.com/album/3LfV3pbtKG7qYp5OlccE1v) | 5:30 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 199 | [Echo From The Flames](https://open.spotify.com/track/6aqNOnHzXhnDVCY7pDZBD7) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Full Circle](https://open.spotify.com/album/3y9ho86K2n12FPdMV4pU7U) | 4:11 |
 | 200 | [Low Again \(miss my dog\)](https://open.spotify.com/track/1e5SBnMu0FdtQ6PGXmRDE8) | [Kape Yeel](https://open.spotify.com/artist/4FKoVIKo6n8CqYJ9SlTmsH) | [Low Again \(miss my dog\)](https://open.spotify.com/album/4hoTPpQU43DVwmt8WgaOyl) | 3:00 |
 
-Snapshot ID: `AAAAAE1f1C5dezyrFtfWTe2E2RYhDD2c`
+Snapshot ID: `AAAAAE5cJcR4j0o4LpnXn+3DynNfiZmw`

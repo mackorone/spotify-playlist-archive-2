@@ -4,7 +4,7 @@
 
 > Discover the classical side of anime with these orchestral soundtracks and classical masterpieces\.  Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-109 songs - 6 hr 1 min
+111 songs - 6 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Suzume](https://open.spotify.com/track/2PP2JHhu02ATqc54cmtFn9) | [Hayato Sumino](https://open.spotify.com/artist/1jVpYW7JYxh4mWzrFVjipz) | [Suzume](https://open.spotify.com/album/5UJFhq3j1eJXE4KS5lFD3h) | 3:42 | 2025-11-18 |  |
 | [The Four Seasons / Violin Concerto in E Major, RV 269 "Spring": I\. Allegro](https://open.spotify.com/track/1vPYvku7fpwbz1k6vYtw0p) | [Antonio Vivaldi](https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR), [María Dueñas](https://open.spotify.com/artist/3tzzRz6WvbIF021Ak4l2PE), [“青のオーケストラ” スペシャル弦楽合奏団](https://open.spotify.com/artist/7LrAZtywC6kUoYX2My4z4T) | [Blue Orchestra \- Premium Classic](https://open.spotify.com/album/2JHvqY7w2xaLqPSKUQNbi9) | 3:40 | 2023-10-10 | 2026-08-08 |
 | [The Last Smile](https://open.spotify.com/track/3upwv1DPliAh0ACVYBGNIg) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [The Boy and the Heron \- Original Soundtrack](https://open.spotify.com/album/6oXCKKghd9Shmz2iU7ebbW) | 2:54 | 2023-12-01 | 2024-04-19 |
+| [The Last Smile](https://open.spotify.com/track/162Nwflqsrb2vpMsUZwp6Y) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [Symphonic Suite The Boy and the Heron for piano and orchestra](https://open.spotify.com/album/74DsWZ2wqaBoJIK3EUzkgL) | 2:19 | 2026-11-13 |  |
 | [The Legend of Ashitaka \(Ending\)](https://open.spotify.com/track/3CLgIwptrXVh7oYmuexqVD) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [Princess Mononoke Soundtrack](https://open.spotify.com/album/2ZHxPDTCRU5STetdmXeW6p) | 5:01 | 2022-03-25 | 2023-07-01 |
 | [The Legend of Ashitaka \- from 'Princess Mononoke'](https://open.spotify.com/track/3ytMGJUOv7KvVpOSAow62b) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [A Symphonic Celebration \- Music from the Studio Ghibli Films of Hayao Miyazaki](https://open.spotify.com/album/561qUZZO6f2sILHUMlXmlM) | 1:57 | 2023-06-30 |  |
 | [The One Year War](https://open.spotify.com/track/58pX5xnZYcqAE8mwTxeNMM) | [Wilbert Roget, II](https://open.spotify.com/artist/4b6Khs68thyzQrWRISZFrT) | ["Gundam Requiem for Vengeance" Original Motion Picture Soundtrack](https://open.spotify.com/album/6GCQtGdfNNqyZePqX2juOV) | 2:15 | 2024-10-18 |  |
@@ -114,6 +115,7 @@
 | [流れ星](https://open.spotify.com/track/0W7i2mlLUM3SdVa8urLt8e) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [風立ちぬ サウンドトラック](https://open.spotify.com/album/22CabmJSWNFJqzzvgYw3JD) | 1:37 | 2022-03-25 |  |
 | [海の見える街](https://open.spotify.com/track/15X1ksqhe8cY1NlEZMl7X8) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [魔女の宅急便 サントラ音楽集](https://open.spotify.com/album/4lbEQJMTPRqABuBCDkhetC) | 3:00 | 2022-03-25 |  |
 | [王様ランキング \-メインテーマ\-](https://open.spotify.com/track/1FrE0MDUawjQGqV4rTeOUj) | [MAYUKO](https://open.spotify.com/artist/0DaPPhbajdbIWfFVC8G1OL) | [王様ランキング オリジナルサウンドトラック](https://open.spotify.com/album/5uQAOc824R8ukjh6T1H4R6) | 2:06 | 2022-03-25 |  |
+| [短剣](https://open.spotify.com/track/3t2ow4H66IY0zECtn7G3Qf) | [Yutaka Yamada](https://open.spotify.com/artist/0G8iubd5gKv5vdPnmHRaxT) | [「ヴィンランド・サガ」オリジナル・サウンドトラック](https://open.spotify.com/album/2OTjy0OveEEJkcf0sSbhkX) | 5:15 | 2026-11-13 |  |
 | [砂の星](https://open.spotify.com/track/7gz7GnLjMSKImEJBFPj8Ie) | [Tsuneo Imahori](https://open.spotify.com/artist/5pfYZjQ34Czl0aQcWxQSmp) | [トライガン　THE 2nd Donut HAPPY PACK](https://open.spotify.com/album/0ySwOzWYkqaGrXQp8vJgId) | 3:23 | 2022-03-25 |  |
 | [緋色の瞳の哀歌](https://open.spotify.com/track/1irWWLOWtVG3c4GkB0lO4Q) | [Yoshihisa Hirano](https://open.spotify.com/artist/496DwthDgbHUwWycngajrJ) | [TVアニメ「HUNTER×HUNTER」オリジナル・サウンドトラック](https://open.spotify.com/album/2Dw87Ob66XprXiHKbhifJB) | 1:29 | 2022-03-25 |  |
 | [風は飛んだ](https://open.spotify.com/track/4tR8zDf56C8S4Mp8tTVTIj) | [Masakatsu Takagi](https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N) | [バケモノの子 オリジナル・サウンドトラック](https://open.spotify.com/album/22bf6oNIJqyM0FbfDLPN9q) | 2:53 | 2022-03-25 |  |

@@ -4,7 +4,7 @@
 
 > Bold and pioneering\. LGBTQIA+ artists and allies at the center of dance music culture\. Featuring Pabllo Vittar.
 
-514 songs - 1 day 7 hr 12 min
+515 songs - 1 day 7 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,7 +225,7 @@
 | [Hypnosis](https://open.spotify.com/track/03JGl2Yz9dBE2XSUuVgAgk) | [Fiorious](https://open.spotify.com/artist/3pKgTa7RsVMksNX7ikwmor), [Joe Goddard](https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5) | [Hypnosis](https://open.spotify.com/album/6ubqFqjORrgU1hLvhRwecV) | 3:54 | 2025-11-07 | 2026-03-21 |
 | [I C](https://open.spotify.com/track/4anzIJUtrHtpB6Hgcz4x6Q) | [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC) | [I C](https://open.spotify.com/album/5UtgbE2nTAV9jV0gadUr3x) | 2:22 | 2024-10-25 | 2025-04-05 |
 | [I Didn't Come Here For Art](https://open.spotify.com/track/0xui9XlNaWU6ePDkrcnwuQ) | [Lynks](https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD) | [I Didn't Come Here For Art](https://open.spotify.com/album/5P3jF1Hz28g8cffjvZeeIy) | 4:01 | 2025-11-14 | 2026-09-19 |
-| [I Drove All Night](https://open.spotify.com/track/2shk0j6nfPz3V4PDswXNNe) | [Frankie Grande](https://open.spotify.com/artist/31hoObE1mECmBt2P64uqLK) | [I Drove All Night](https://open.spotify.com/album/1oNdE0RsZ8IyzaKSjXO6VW) | 3:48 | 2026-05-15 |  |
+| [I Drove All Night](https://open.spotify.com/track/2shk0j6nfPz3V4PDswXNNe) | [Frankie Grande](https://open.spotify.com/artist/31hoObE1mECmBt2P64uqLK) | [I Drove All Night](https://open.spotify.com/album/1oNdE0RsZ8IyzaKSjXO6VW) | 3:48 | 2026-05-15 | 2026-11-14 |
 | [I Get High](https://open.spotify.com/track/2caYWqOHqQlxhJzL4P2kpm) | [Hercules & Love Affair](https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W), [Hips & Lips](https://open.spotify.com/artist/2xaQZsblWFPXPtlsNGgO3Q) | [I Get High](https://open.spotify.com/album/3Mb0vT7Y9tkVgD7NvPsf73) | 6:10 | 2026-06-12 | 2026-08-15 |
 | [I Like Ur Look](https://open.spotify.com/track/4FNFhDMEj39Tf6is8RvZ4A) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [I Like Ur Look](https://open.spotify.com/album/4fG8zkWcN388e0nM0wRaj2) | 2:51 | 2025-10-17 | 2026-05-02 |
 | [I Need A Man](https://open.spotify.com/track/4gjsrFJjlvtOyuXjLbwIF0) | [Grace Jones](https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd) | [Portfolio](https://open.spotify.com/album/5c3fYz9x3QTHGfIyVcBivd) | 3:25 | 2024-06-14 | 2024-07-02 |
@@ -390,6 +390,7 @@
 | [QUICK LICK \(TEQUILA Remix\)](https://open.spotify.com/track/0j3gAEzdaNCiv6cXzdY5gZ) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne), [Ayesha Erotica](https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco) | [SUCCUBUS XXXTENDED](https://open.spotify.com/album/6pbWoujpcmXhbyn2HU2UET) | 3:19 | 2024-07-26 | 2025-07-12 |
 | [RADIO \(feat\. Kim Petras\)](https://open.spotify.com/track/06kFuqzhMk4E6IYeO0sTfx) | [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [SISTER](https://open.spotify.com/album/6U7EWP2htJIkZny2Iv7mHG) | 3:10 | 2025-09-12 | 2026-05-16 |
 | [Rave Generator \(feat\. DJ Flapjack\)](https://open.spotify.com/track/2wohA4HoBQCpmRSXNIrLbr) | [LVL1](https://open.spotify.com/artist/5cIVFxPSiXer2MuaoEATkJ), [DJ Final Boss](https://open.spotify.com/artist/5f1h4iaYmHu0ApZ5jGCldR), [DJ Flapjack](https://open.spotify.com/artist/33mtMf9Cwueem8a7VpLxy6) | [Rave Generator \(feat\. DJ Flapjack\)](https://open.spotify.com/album/6enIuErd03wGWN1e7SthZX) | 3:02 | 2024-07-12 | 2025-02-01 |
+| [Raving All Night Long](https://open.spotify.com/track/5Lc3NzSdfZr6MwCoHHUGIl) | [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx), [Samurai Breaks](https://open.spotify.com/artist/5X8xxAPGx1ouTGDlgE5ray) | [Mass Appeal](https://open.spotify.com/album/5WoaWKOtFW1N4tPIi1JIvO) | 3:31 | 2026-11-13 |  |
 | [Raw Silk Uncut Wood](https://open.spotify.com/track/5wVB3rkTxCGLV9xBj0GGAl) | [Laurel Halo](https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl) | [Raw Silk Uncut Wood](https://open.spotify.com/album/2dsRjDCYTJeqoQXuc8ZRjY) | 10:00 | 2021-10-15 | 2024-05-01 |
 | [RAWWWWWW \(feat\. Jozzy\)](https://open.spotify.com/track/14HlZbpTKZ0OSve8OMrHYf) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [SOPHIE](https://open.spotify.com/album/2kX3enxQiHLTtuNwIXZMXU) | 2:53 | 2024-09-30 | 2025-01-18 |
 | [Real Groove \- Studio 2054 Remix](https://open.spotify.com/track/3MySeyJCAKyPkTRvlvq7gm) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Real Groove \(Studio 2054 Remix\)](https://open.spotify.com/album/0z0lPmTXhkoyF1RyIAkGHm) | 4:22 | 2021-10-15 | 2023-08-31 |

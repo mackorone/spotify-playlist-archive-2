@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves right now\.  Cover: Shakes & Les
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,295,554 likes - 56 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,296,022 likes - 56 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

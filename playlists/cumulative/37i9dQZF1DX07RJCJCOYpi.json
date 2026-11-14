@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The wave of Latin Electronic music. Cover: DannyLux, Ckdageneral",
+  "description": "The wave of Latin Electronic music. Cover: KAROL G, John Summit",
   "name": "mint Latin",
   "tracks": [
     {
@@ -712,6 +712,36 @@
       "duration_ms": 167555,
       "name": "BAMBOLE - TAAO REMIX",
       "url": "https://open.spotify.com/track/5b2alA5jFTuaGs0aSjqvcV"
+    },
+    {
+      "album": {
+        "name": "BbY WOW - John Summit Remix",
+        "url": "https://open.spotify.com/album/7cATL7247RiXbe4yL7KdNv"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Judeline",
+          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
+        },
+        {
+          "name": "rusowsky",
+          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218826,
+      "name": "BbY WOW - John Summit Remix",
+      "url": "https://open.spotify.com/track/6i0mauyUtfJ6Wb3QLVxKc6"
     },
     {
       "album": {
@@ -3235,6 +3265,24 @@
     },
     {
       "album": {
+        "name": "Francisca",
+        "url": "https://open.spotify.com/album/3TgSbUXRYdblQfu4OyJMlA"
+      },
+      "artists": [
+        {
+          "name": "Ateriko",
+          "url": "https://open.spotify.com/artist/0hN1eVzVSkZMBMW1DpQQcC"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188307,
+      "name": "Francisca",
+      "url": "https://open.spotify.com/track/0YJsNe2rYjuhNHVJH0QVCd"
+    },
+    {
+      "album": {
         "name": "Fria (Felix Jaehn Remix)",
         "url": "https://open.spotify.com/album/71PHfxas0RxjsP7REVxbQa"
       },
@@ -5356,6 +5404,24 @@
       "duration_ms": 218500,
       "name": "L\u00e1grimas",
       "url": "https://open.spotify.com/track/38W8WO3xGxwWnQkJcrvHX9"
+    },
+    {
+      "album": {
+        "name": "MADRID (EDM Remixes Bundle)",
+        "url": "https://open.spotify.com/album/4ZhV0tlowK6TiszahrSTrU"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184918,
+      "name": "MADRID",
+      "url": "https://open.spotify.com/track/0aQbdYxGUOWE03jwnkFBWp"
     },
     {
       "album": {

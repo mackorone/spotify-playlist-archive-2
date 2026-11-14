@@ -4,7 +4,7 @@
 
 > For the new generation of trendsetters coming through, we move\. Cover: KTmelodies
 
-293 songs - 12 hr 48 min
+293 songs - 12 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [DON'T TOUCH THE CDJ](https://open.spotify.com/track/7H5qoxsQ0nzAgF1bHi1Qoq) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp), [Aki Oke](https://open.spotify.com/artist/7d76hQbV3M2NOwec3e16bv) | [DON'T TOUCH THE CDJ](https://open.spotify.com/album/6AtBMCTUBlu8w8NPqpe8xz) | 2:48 | 2025-10-23 | 2026-02-06 |
 | [Double face](https://open.spotify.com/track/3oNiGykgeauc44UGPaXmIV) | [TEZZ](https://open.spotify.com/artist/5WHEWmX2mtWPpTudevPTzp) | [Double face](https://open.spotify.com/album/57jScL4OqvUDCnTU3ImwtP) | 1:26 | 2025-12-12 | 2026-03-20 |
 | [Down 4 \(feat\. Osquello\)](https://open.spotify.com/track/2nKlFEzbCrDTgHqledJn06) | [IZCO](https://open.spotify.com/artist/4uqqEE1NaQBAa4wnDug9c1), [Osquello](https://open.spotify.com/artist/6ScAPpYnDsH3Cu3TKmhUJr) | [POWERSCROFT](https://open.spotify.com/album/4vRMGZDyQrJfRxkIwlnPsR) | 4:41 | 2026-04-30 | 2026-11-06 |
+| [dressing gown](https://open.spotify.com/track/519GxthZryPOXvAdL28iyr) | [earfzilla](https://open.spotify.com/artist/65SDZetBIC5qK27DoJUx0f), [Rejjie Snow](https://open.spotify.com/artist/3lLHpTOJ11tWiUNGYN14gt) | [the after glow](https://open.spotify.com/album/2OYqbmOlEATNjnA9OVC18F) | 2:41 | 2026-11-13 |  |
 | [Dripkid](https://open.spotify.com/track/1QmRkbvG3b4DNhzKiET5EV) | [0RACL3](https://open.spotify.com/artist/5ngejTpnC2HYvbgLwXSmNc), [faldwight](https://open.spotify.com/artist/1ZuMy2aXQ7tzw2uzfH5x9u) | [Dripkid](https://open.spotify.com/album/7mXlw7bMEiG6j4NR1mJ2a4) | 2:49 | 2026-07-17 |  |
 | [E.V.O.L](https://open.spotify.com/track/3QFe7h2cN5WkkNeKxs1T10) | [bib sama.](https://open.spotify.com/artist/5CSb8UNFfwDv80vbAIPEtu), [TayoLoxs](https://open.spotify.com/artist/4D1gckOVE54GdYpS7J4noB) | [GAIAAAAAAAAAA˚](https://open.spotify.com/album/2ADlAbG9esTnNb7ygXGsTe) | 3:02 | 2026-04-02 | 2026-08-15 |
 | [Edge of the World](https://open.spotify.com/track/4AoImzpO7KR5WPG1sKKoXF) | [dexter in the newsagent](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Edge of the World](https://open.spotify.com/album/0hvPBpoZaslvJG92YZRO8H) | 2:51 | 2026-11-13 |  |
@@ -266,7 +267,6 @@
 | [Touch bby](https://open.spotify.com/track/4Ksyqz0rioYK0DJnuXp888) | [Essosa](https://open.spotify.com/artist/6fn7JM8daBvCxpTkYyqtGY) | [Touch bby](https://open.spotify.com/album/1vSKPb1LckjSJSGKVeQ5gd) | 2:05 | 2026-02-20 | 2026-05-16 |
 | [Touch me \(feat\. Ya Levis\)](https://open.spotify.com/track/2mYS9GGRZANA3SyzKDtRGk) | [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5), [Ya Levis](https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu) | [9PM IN PARIS](https://open.spotify.com/album/4bgCdzu5K57RiKxvMM1om9) | 2:39 | 2025-10-23 | 2025-11-07 |
 | [Tough](https://open.spotify.com/track/5TmpaPaxP6DjvoGyets9sO) | [Nia Smith](https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [Tough](https://open.spotify.com/album/7kAuTCG3RtuNsILTvuMGms) | 3:15 | 2026-03-06 | 2026-06-19 |
-| [Track 12](https://open.spotify.com/track/519GxthZryPOXvAdL28iyr) | [earfzilla](https://open.spotify.com/artist/65SDZetBIC5qK27DoJUx0f) | [the after glow](https://open.spotify.com/album/2OYqbmOlEATNjnA9OVC18F) | 0:00 | 2026-11-13 |  |
 | [TREASON](https://open.spotify.com/track/2mGMvxq2oVALHZHPGgMi1e) | [KIRBS](https://open.spotify.com/artist/1ZzoRMK01oIoH21Rim84Rf) | [TREASON](https://open.spotify.com/album/5tUus2ON9GAfqn4o9hpKG0) | 2:00 | 2026-09-10 |  |
 | [Trippin'](https://open.spotify.com/track/22sUkuhndJu54imupWXb6p) | [Taifunds](https://open.spotify.com/artist/1C76b7OjUUW3Jqqk4PMkMr) | [Trippin'](https://open.spotify.com/album/42HmHOPTR9tLzYm5pM7Uib) | 2:53 | 2025-10-23 | 2026-02-06 |
 | [trust in u](https://open.spotify.com/track/6zytMRFFNCcXR1P5SYBXhn) | [Trtl](https://open.spotify.com/artist/5hl4Ds8m0VaToEbZOQDE32) | [trust in u](https://open.spotify.com/album/6FLmKsftSYNQgK3B1FUIr5) | 2:50 | 2026-07-09 | 2026-11-13 |

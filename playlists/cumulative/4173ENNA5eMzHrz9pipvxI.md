@@ -2,9 +2,9 @@
 
 ### [Spinnin' Records Brand New](https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI)
 
-> New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: Modeā
+> New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: Lavern
 
-2,103 songs - 4 day 5 hr 17 min
+2,104 songs - 4 day 5 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1711,6 +1711,7 @@
 | [Stompin' \(Friendly Fire Remix\)](https://open.spotify.com/track/1KrqHhPJFuN9RNqNycwUdx) | [Pickle](https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt), [Friendly Fire](https://open.spotify.com/artist/1JtDSmvj4bVA8pBszG43fK) | [Stompin' \(Friendly Fire Remix\)](https://open.spotify.com/album/1lQk3JKq0iz3u8PO8ckF5l) | 2:42 | 2024-02-23 | 2024-03-09 |
 | [Stop](https://open.spotify.com/track/5yyeiEZfWlDN6baL4RWpck) | [Sam Collins](https://open.spotify.com/artist/60OCVcCxsNKT3VgR0hnDKx), [Jake Tarry](https://open.spotify.com/artist/7qIllFUqzpSFXfdcwQlP7r) | [Stop](https://open.spotify.com/album/2ly2gMYkdPRP3CUrydtkDo) | 2:41 | 2024-03-11 | 2024-03-16 |
 | [Strangers \(Do You Remember\) \[feat\. Yas Cepeda & EURI\]](https://open.spotify.com/track/5OcKFs8X1MDhK6IT3mMIbo) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [David Tort](https://open.spotify.com/artist/7Mlrzwh665lRUOEV1ZWyWu), [Markem](https://open.spotify.com/artist/3VvZPymXIq8iBqakRqsTfE), [Yas Cepeda](https://open.spotify.com/artist/0QJLIqgHuWkj89BqRArjRP), [EURI](https://open.spotify.com/artist/0veabgheMC6NnyTEbFUI5u) | [Strangers \(Do You Remember\) \[feat\. Yas Cepeda & EURI\]](https://open.spotify.com/album/07q9L0C9VnsMoiS4V0TZxc) | 3:11 | 2023-07-07 | 2023-07-21 |
+| [Street Player \(ESSED Remix\)](https://open.spotify.com/track/6TtVu3UO75uS0V9r2D1wgq) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0), [ESSED](https://open.spotify.com/artist/2OIFoELOhUQ0FJF4H2Qrlo) | [Street Player \(ESSED Remix\)](https://open.spotify.com/album/37CzrYJyaaz8fX7na5kyVo) | 2:44 | 2026-11-13 |  |
 | [Strike A Pose \(feat\. Barefoot\)](https://open.spotify.com/track/3lRTdBw2SOlJq3r9wdK5pw) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [Barefoot](https://open.spotify.com/artist/3WV4dHxZVMz7HtZN3N36mr) | [Strike A Pose \(feat\. Barefoot\)](https://open.spotify.com/album/3XCB41prpHm5a8eiolc6St) | 3:40 | 2025-04-24 | 2025-05-23 |
 | [Stronger](https://open.spotify.com/track/5ZxVHtvlKhU3HCl0jDR8sG) | [Luca\-Dante Spadafora](https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB), [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [Justin Jesso](https://open.spotify.com/artist/1QDrz3DMMaz3TB1cm0PGDu) | [Stronger](https://open.spotify.com/album/7tDXoIZIu8N6WqjuK9jqGC) | 2:29 | 2025-06-19 |  |
 | [Stronger Than Before](https://open.spotify.com/track/4vAXBzm7TeUFZAUCo29qJn) | [Supafly](https://open.spotify.com/artist/2uBSo6TqjuddKVUp5MVqfV), [Luvstruck](https://open.spotify.com/artist/6fm5VHP6gIiZZsOhphNpXy), [Shayan](https://open.spotify.com/artist/5pOyB5GTPmBekPeDXbAuac) | [Stronger Than Before](https://open.spotify.com/album/56qczUmYPQ8GpX8utbnRi0) | 3:08 | 2026-02-27 |  |

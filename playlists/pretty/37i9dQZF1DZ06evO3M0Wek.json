@@ -1,12 +1,12 @@
 {
   "description": "This is Halestorm. The essential tracks, all in one playlist.",
-  "num_followers": 117597,
+  "num_followers": 117604,
   "original_name": "This Is Halestorm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avOwAAAAAAB8Xvj1a54JJxADNVr7enK/",
+  "snapshot_id": "avUBgAAAAACMy90wHEC5t3QHabmILvTA",
   "tracks": [
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Everest",
-        "url": "https://open.spotify.com/album/5i8fhyMoVuH1O3pofbxywv"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 230903,
-      "name": "Shiver",
-      "url": "https://open.spotify.com/track/5PoYmKGOgfakgnYkc85TVG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Into the Wild Life (Deluxe)",
         "url": "https://open.spotify.com/album/6jPjpEJBxT0HN71TAEohZ0"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 216760,
       "name": "Mayhem",
       "url": "https://open.spotify.com/track/6ubqrTIJwspBSqx8XQHN2K"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Everest",
+        "url": "https://open.spotify.com/album/5i8fhyMoVuH1O3pofbxywv"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 230903,
+      "name": "Shiver",
+      "url": "https://open.spotify.com/track/5PoYmKGOgfakgnYkc85TVG"
     },
     {
       "added_at": null,
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Everest",
-        "url": "https://open.spotify.com/album/5i8fhyMoVuH1O3pofbxywv"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 273399,
-      "name": "Fallen Star",
-      "url": "https://open.spotify.com/track/5uIbZFaGgc8aYcXaIhPASi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Into the Wild Life (Deluxe)",
         "url": "https://open.spotify.com/album/6jPjpEJBxT0HN71TAEohZ0"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 207666,
       "name": "Sick Individual",
       "url": "https://open.spotify.com/track/5dPRMnwZ7CeQF4oolO8lYo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Everest",
+        "url": "https://open.spotify.com/album/5i8fhyMoVuH1O3pofbxywv"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 273399,
+      "name": "Fallen Star",
+      "url": "https://open.spotify.com/track/5uIbZFaGgc8aYcXaIhPASi"
     },
     {
       "added_at": null,
@@ -751,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Everest",
-        "url": "https://open.spotify.com/album/5i8fhyMoVuH1O3pofbxywv"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 254838,
-      "name": "Rain Your Blood On Me",
-      "url": "https://open.spotify.com/track/7dIuRuZCs8MeF8BjOsGW3l"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Into the Wild Life (Deluxe)",
         "url": "https://open.spotify.com/album/6jPjpEJBxT0HN71TAEohZ0"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 212973,
       "name": "What Sober Couldn't Say",
       "url": "https://open.spotify.com/track/3ONPIg5DWB6V0QFUwKq8jQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Everest",
+        "url": "https://open.spotify.com/album/5i8fhyMoVuH1O3pofbxywv"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 254838,
+      "name": "Rain Your Blood On Me",
+      "url": "https://open.spotify.com/track/7dIuRuZCs8MeF8BjOsGW3l"
     },
     {
       "added_at": null,

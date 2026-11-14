@@ -2,9 +2,9 @@
 
 ### [PRIDE France](https://open.spotify.com/playlist/37i9dQZF1DX2D4YSkCZ0rP)
 
-> La playlist des artistes LGBTQIA+\. Photo : Suzane
+> La playlist des artistes LGBTQIA+\. Photo : Marius
 
-145 songs - 7 hr 35 min
+146 songs - 7 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,11 +77,12 @@
 | [Je fais de mon mieux](https://open.spotify.com/track/2Vfodj5BAW4hvGdBCSm5zQ) | [Victor Aupecle](https://open.spotify.com/artist/0mHcsoJwqKXHePZRpzssvk) | [Je fais de mon mieux](https://open.spotify.com/album/3C2sUgiKo8PXIzlOLaOQm6) | 2:49 | 2026-07-13 | 2026-11-06 |
 | [Je pense à vous](https://open.spotify.com/track/0IBFKh0F3jumRYg5nIwsCa) | [Pierre de Maere](https://open.spotify.com/artist/13mm5rU1jvWfWG6uQ46ypd) | [Je pense à vous](https://open.spotify.com/album/7nYETPT6MTJ1UcIn1x4MFF) | 2:52 | 2026-06-07 |  |
 | [Je t'accuse](https://open.spotify.com/track/4QPBfQaSKEw56Vvo0i2XsL) | [Suzane](https://open.spotify.com/artist/00CTomLgA78xvwEwL0woWx) | [Je t'accuse](https://open.spotify.com/album/5AV57sv3V86WhdZhUTrdEh) | 2:49 | 2025-05-26 | 2026-06-08 |
-| [k.o\. \(sale atterrissage\)](https://open.spotify.com/track/4wR2ueWgpEzprelpKiX1ib) | [Aloïse Sauvage](https://open.spotify.com/artist/5LYSuLVsB6OVxkDY107AyQ) | [LA FOUDRE](https://open.spotify.com/album/2VvPIsb2nd1cZuK9qnAdU5) | 3:05 | 2026-10-22 |  |
+| [k.o\. \(sale atterrissage\)](https://open.spotify.com/track/4wR2ueWgpEzprelpKiX1ib) | [Aloïse Sauvage](https://open.spotify.com/artist/5LYSuLVsB6OVxkDY107AyQ) | [LA FOUDRE](https://open.spotify.com/album/2VvPIsb2nd1cZuK9qnAdU5) | 3:05 | 2026-10-22 | 2026-11-14 |
 | [LA FÊTE](https://open.spotify.com/track/18xjZqxbgxxhQTqhUTAlYT) | [Barbara Butch](https://open.spotify.com/artist/2XCkEQ4EJWc27RHEr6pONs) | [LA FÊTE](https://open.spotify.com/album/5ZAtFP3eAW3s1UKZlcSS2Y) | 3:03 | 2026-06-07 | 2026-06-22 |
 | [La question](https://open.spotify.com/track/2aCsRORqGZawWKz6wop7uX) | [Bilal Hassani](https://open.spotify.com/artist/1eoyu9uAivE7Jwak40J1MW) | [La question](https://open.spotify.com/album/6Tbm0pq7D5wJn0fAtSouZv) | 2:48 | 2025-05-26 | 2026-06-08 |
 | [Le temps fera les choses](https://open.spotify.com/track/3VnkGuyau3qb04MVxSNjnl) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Nonante\-Cinq La Suite](https://open.spotify.com/album/2hQ9QcZ4VkoeBdBo1JNG64) | 2:58 | 2024-06-04 | 2025-05-27 |
 | [le village](https://open.spotify.com/track/4BUkHw3lvnY8fuOgu9kRAN) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [le village](https://open.spotify.com/album/2PvCytDBc6cEY10ZFDBRAG) | 3:37 | 2026-06-21 |  |
+| [Les autres](https://open.spotify.com/track/0xR29IkRFljuRum44kSygJ) | [Marius](https://open.spotify.com/artist/2ovkVhnrSdDvpIvsVWgnMP) | [Les autres](https://open.spotify.com/album/4ICwKhXYeAhMN6xdZm1yMW) | 3:27 | 2026-11-13 |  |
 | [LES DEUX](https://open.spotify.com/track/6TApshryHQoa8jPVugndQZ) | [AYMCE](https://open.spotify.com/artist/1ovoVBIGwzatbn4eJuyJcv), [PINKY](https://open.spotify.com/artist/6TF8edpxRiFN2W8ohVzN3U) | [LES DEUX](https://open.spotify.com/album/3QeHWnOgpFddSZze6eSK9i) | 2:27 | 2026-06-07 | 2026-07-27 |
 | [les filles, les meufs](https://open.spotify.com/track/1aLHvqPB5CxGYzhJB7Hzo1) | [marguerite](https://open.spotify.com/artist/4jF2P66DtNEficnixuIhKQ) | [les filles, les meufs](https://open.spotify.com/album/5g6WWG1UboeBuaPXP4g9sY) | 2:59 | 2025-05-26 | 2026-06-08 |
 | [Lipstick Lover](https://open.spotify.com/track/6IhkXHtj7tJg5waF4utfX0) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [Lipstick Lover](https://open.spotify.com/album/6eg7CJ9fJAeLJ5PGB1Vf7T) | 2:49 | 2024-06-04 | 2025-05-27 |

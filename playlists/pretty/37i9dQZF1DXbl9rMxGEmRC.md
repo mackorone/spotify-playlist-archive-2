@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl9rMxGEmRC.md) - [plain]
 
 > Black, death, thrash and beyond\. Recent tracks only\. Updated monthly\. Cover: Wolves in the Throne Room
 
-[Spotify](https://open.spotify.com/user/spotify) - 461,167 likes - 100 songs - 8 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 461,151 likes - 100 songs - 8 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl9rMxGEmRC.md) - [plain]
 | 99 | [Satanic Chaos Legions](https://open.spotify.com/track/48WIlYz4MioysiQFhSUORj) | [Nunslaughter](https://open.spotify.com/artist/1RRRmpSvStg4uN6uAZRyGQ) | [Satanic Chaos Legions](https://open.spotify.com/album/4DtzlwWpfl5KKPXMd62VD9) | 3:07 |
 | 100 | [Washington State Charm](https://open.spotify.com/track/7DAWuSHyfFBEVuStLlcdBK) | [Monument Of Misanthropy](https://open.spotify.com/artist/3V8oZE9ZWM6L0CPWry9CCv) | [Washington State Charm](https://open.spotify.com/album/4Qn7bUMOQTBuOgdAbwzEvx) | 3:54 |
 
-Snapshot ID: `AAAAAK/SetOW0AYw9XJz5TzV8p9HFGfy`
+Snapshot ID: `AAAAAMoJf/QpgYYmsAsDJ0qrNghMVemQ`

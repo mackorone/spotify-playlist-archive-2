@@ -4,7 +4,7 @@
 
 > Celebrate the great female artists from anime culture\. アニメシーンを彩る女性アーティスト達を特集！ Cover: 東山奈央 Nao Toyama
 
-923 songs - 2 day 12 hr 25 min
+924 songs - 2 day 12 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,6 +205,7 @@
 | [Ii n da yo](https://open.spotify.com/track/0w04F8vPlUCEwmvJ4Ix843) | [熊田茜音](https://open.spotify.com/artist/6atbj1ekQT3aHVY551wxqb) | [Sekai ga Haretara](https://open.spotify.com/album/5JAaO4GOtFc0tMJ41El23S) | 3:12 | 2022-06-14 | 2022-07-20 |
 | [Ijigen BIGBANG](https://open.spotify.com/track/3QRii5A35ZfsGGiPrv9k0j) | [Uzuki Shimamura \(CV: Ayaka Ohashi\)](https://open.spotify.com/artist/3xoyWve1jtl6V6v5vJ0jzj), [Shizuka Mogami \(CV: Azusa Tadokoro\)](https://open.spotify.com/artist/4O0cUPcEXzU6U510RtnM8l), [KOGANE TSUKIOKA \(CV: Karin Isobe\)](https://open.spotify.com/artist/4r40eoNekBoDSFuPtMaZf1), [Chika Takami \(CV: Anju Inami\)](https://open.spotify.com/artist/1j1qyF4vDxo871CSuHzgY5), [Ayumu Uehara \(CV: Aguri Onishi\)](https://open.spotify.com/artist/0qBW9nTHObmROrT0n1rYFF), [Kanon Shibuya \(CV: Sayuri Date\)](https://open.spotify.com/artist/0d6TVcK3Wq84iMZ3T1kHHR), [Kaho Hinoshita \(CV: Nozomi Nirei\)](https://open.spotify.com/artist/5VnkGk25NC41GkZEEZzQXy) | [Ijigen BIGBANG](https://open.spotify.com/album/5viWiiX3YocnLLAz9kICRH) | 5:16 | 2023-11-07 | 2023-12-20 |
 | [Ikkenrakutyakugoyoujin](https://open.spotify.com/track/0w5PyjsZrrEetlpafZckxE) | [Earphones](https://open.spotify.com/artist/6nH1MaNtYwXEuwdOZ1R75p) | [Some Dreams](https://open.spotify.com/album/5ERqlJU3tAYgFLSat0tUUV) | 4:42 | 2022-06-14 | 2022-06-18 |
+| [In Love With Myself](https://open.spotify.com/track/2iyaHQlYrR8Eyr4wOmOT5D) | [Petite Meller](https://open.spotify.com/artist/2gUVyV9z7T6cielHCMSpvb), [Kalman Chodakiewitz](https://open.spotify.com/artist/04CWg0uT79a10dBoyRu4ft), [Eli Shiffman](https://open.spotify.com/artist/49TPnY519EQ4n5pRuWlCgb) | [Cyberpunk: Edgerunners 2 \(Original Series Soundtrack\)](https://open.spotify.com/album/4GzPICfeGh5OqKjhUtpRQA) | 2:52 | 2026-11-13 |  |
 | [In the Core of My Heart](https://open.spotify.com/track/0DLr3MyMwfW30PTlhnXbqj) | [中島みゆき](https://open.spotify.com/artist/0caDIM0rTovLDe5UdFvK1t) | [「アリスとテレスのまぼろし工場」オリジナルサウンドトラック](https://open.spotify.com/album/2uz6oICkcSVEE0QQaboneg) | 5:28 | 2023-09-26 | 2023-10-04 |
 | [Independence day](https://open.spotify.com/track/0pRUE43e12a9XynWSV0ox7) | [ヒプノシスマイク \-D.R.B\- \(中王区 言の葉党\)](https://open.spotify.com/artist/50a4H3hGs6sNLYCsLUsKgV), [ヒプノシスマイク \-D.R.B\- \(碧棺合歓\)](https://open.spotify.com/artist/1CSHxeBu5h05TF7rx3aTqa) | [Verbal Justice](https://open.spotify.com/album/7wTviqCrJbdg7lxKClUJtf) | 3:22 | 2023-04-13 | 2023-06-09 |
 | [Infinity!Our wings!!](https://open.spotify.com/track/0Ozd2HHjz6HZEbmttB6bMO) | [A・ZU・NA](https://open.spotify.com/artist/6J6RrsIzXnWKqcFu7ri9Pd) | [Infinity! Our wings!!](https://open.spotify.com/album/2QVpsejvYq0As5FLW3BFoo) | 4:31 | 2022-06-09 | 2022-07-25 |
@@ -883,7 +884,7 @@
 | [花のように](https://open.spotify.com/track/5DvmqgXR9UOK6YyOqpIFce) | [Anna](https://open.spotify.com/artist/2qxX52n1AFzz6SnF76260y) | [花のように](https://open.spotify.com/album/4jzZEVYr06aWFxkfjnT83u) | 4:08 | 2023-01-12 | 2023-02-08 |
 | [花咲み](https://open.spotify.com/track/0iL43uP0m7L7sxNR98b8nv) | [シルフィエット\(CV:茅野愛衣\)](https://open.spotify.com/artist/5qwOxDQBdp2fnlw7vME5EV) | [花咲み](https://open.spotify.com/album/6sRuu9wQIxxmBkcCVJM9rW) | 5:09 | 2023-09-26 | 2023-10-18 |
 | [花無双](https://open.spotify.com/track/2sJyR6ekoLAHUBHuKO3J1d) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [花無双](https://open.spotify.com/album/0Vx6D5yGvkNYGbrDYhQTwA) | 3:43 | 2025-04-15 | 2025-04-23 |
-| [花蔭](https://open.spotify.com/track/3ggbBGIGIjY8B5mJATYFpF) | [Superfly](https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ) | [花蔭](https://open.spotify.com/album/1Vp0UrwO7vpuLDpk1uJg75) | 3:48 | 2026-09-29 |  |
+| [花蔭](https://open.spotify.com/track/3ggbBGIGIjY8B5mJATYFpF) | [Superfly](https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ) | [花蔭](https://open.spotify.com/album/1Vp0UrwO7vpuLDpk1uJg75) | 3:48 | 2026-09-29 | 2026-11-14 |
 | [茜](https://open.spotify.com/track/2TSJ1d6cLgHqrrCIRN3bn2) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [茜](https://open.spotify.com/album/3vTDr5tbMieEQZhxKTGMvL) | 3:45 | 2026-02-05 |  |
 | [菫](https://open.spotify.com/track/6AGNrkx4zIxmr9mhtps0J6) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [菫 / 言葉にできない](https://open.spotify.com/album/4Tv3U17WdyaTIPrCtFtt1d) | 3:57 | 2022-06-14 | 2022-07-15 |
 | [蝶に結いた赤い糸](https://open.spotify.com/track/2FIuKRBk8ypEKUnrstY34j) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [棘ナシ](https://open.spotify.com/album/1UXJbRMzjtwyw4HKIASREU) | 3:29 | 2024-09-12 | 2024-09-28 |

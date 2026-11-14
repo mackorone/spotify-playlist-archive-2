@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 
 > FREE SUBMISSIONS \- Got unreleased music in 2026 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 6,170 likes - 225 songs - 11 hr 41 min
+[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 6,177 likes - 237 songs - 12 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -233,5 +233,17 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 | 223 | [Never Said When](https://open.spotify.com/track/4NsqRsSC60540QfzzEaK90) | [The Last Verena](https://open.spotify.com/artist/218ezUr1oZPPoKjMTCay3o) | [Never Said When](https://open.spotify.com/album/23Evd3PYiV01XhAJL0aihg) | 2:48 |
 | 224 | [PRETTY](https://open.spotify.com/track/1hD5FXYxdfF5CqzYkflh9O) | [Nicki graff](https://open.spotify.com/artist/4tehxpb8N9V2ctWdWFNIDj) | [PRETTY](https://open.spotify.com/album/42w97Ulmt49LzEcO0XQ7ry) | 2:15 |
 | 225 | [Ocean's breath](https://open.spotify.com/track/2Sics1WCil8T8dtSjhq6kJ) | [ROBERTO ANDREOLI](https://open.spotify.com/artist/2njD5URlCc3rQMX9FhvWJ7), [Christian Alsemgeest](https://open.spotify.com/artist/55V8oqLC2ECgm1ADbQFfcV) | [Ocean's breath](https://open.spotify.com/album/6y9bR4JwewCxX1ikbEtnPM) | 2:42 |
+| 226 | [Tell Me](https://open.spotify.com/track/46iRCmwT5EbfOfVTKPnRAk) | [Jack Orlove](https://open.spotify.com/artist/3joFlWQL5OnvRLncjWShKm), [Yvette](https://open.spotify.com/artist/0pESM28NqbC5BMmrvNwo67) | [Tell Me](https://open.spotify.com/album/7hBrVDvUDdjkThYghySo8K) | 3:18 |
+| 227 | [RIDE OR DIE](https://open.spotify.com/track/510csKt3IrnbktTWaLV7k4) | [ZAYN REX](https://open.spotify.com/artist/6XYUi1Vy6fTFtpbFPMJ5ud) | [JOURNEY](https://open.spotify.com/album/2wFW9o79LZ9Rffu1HnLVhg) | 3:11 |
+| 228 | [I don’t stop when it hurts](https://open.spotify.com/track/6SoTBcZRURbg1OaTyRoOXG) | [ZAYN REX](https://open.spotify.com/artist/6XYUi1Vy6fTFtpbFPMJ5ud) | [I don’t stop when it hurts](https://open.spotify.com/album/0txNKVNHrKT4hzsMGSi8B8) | 2:49 |
+| 229 | [Doll's House](https://open.spotify.com/track/1LhPtRQ1DTC4z47dLlOhVy) | [Dinah](https://open.spotify.com/artist/5bDpMySE7gbk1Kdtoq6414) | [Doll's House](https://open.spotify.com/album/6zzgxZSYgpiVLWsINXTopF) | 3:03 |
+| 230 | [teeth](https://open.spotify.com/track/5rfT4SUhiDRW2pF1YViGN4) | [Justin Meyer](https://open.spotify.com/artist/6aahbbRi6BfClbeuZScz2R) | [teeth](https://open.spotify.com/album/2WkxhkqzYb46lrf9DDCzzz) | 3:22 |
+| 231 | [Underwater](https://open.spotify.com/track/04dyzRIVzUH9glOrYoi4d4) | [FabofaWo](https://open.spotify.com/artist/7miAoTJuBk3eAe2HOSWFju) | [Underwater](https://open.spotify.com/album/2nVFwG3mroshNcHUqmG4Mh) | 2:44 |
+| 232 | [I Hope It Rains Soon](https://open.spotify.com/track/0f8BZbpXbGY7K7aV0UF0lO) | [UMIDA](https://open.spotify.com/artist/5yVzuNgV0irDWOphxt0R0b) | [I Hope It Rains Soon](https://open.spotify.com/album/09IXdQzh8DJGoBvZmWfLZ3) | 3:06 |
+| 233 | [Dr3am 0f Y0u](https://open.spotify.com/track/5f2pY2XtvLQ5OavJkXDq2b) | [Adil Diamond](https://open.spotify.com/artist/7disYdg5mq01jUjwC90S5Z) | [Dr3am 0f Y0u](https://open.spotify.com/album/5SOEu12IJF0N1YHM2UogLL) | 2:01 |
+| 234 | [Adio Amore](https://open.spotify.com/track/75ICKWDSDThP0WQGMX5LCg) | [ALTSOUND SRB](https://open.spotify.com/artist/4OZruhUi24VNQTmHMkU2lA) | [Adio Amore](https://open.spotify.com/album/2DMmxDHXArOti3jOQK5rpx) | 3:11 |
+| 235 | [sol](https://open.spotify.com/track/6bPKTTgoNrpSXO9d1HxIEh) | [ferric dust](https://open.spotify.com/artist/3cXeLNuw7EvxZsgvVrmpHh) | [sol](https://open.spotify.com/album/3BNS1U3MrLyJV2k2YOk8XD) | 2:35 |
+| 236 | [The Upper Room](https://open.spotify.com/track/6YvRVpPRq2PFeTnZRS0aGd) | [Mikey Adebayo](https://open.spotify.com/artist/1GptE9XYu5F8kdLM0VRf2a) | [The Upper Room](https://open.spotify.com/album/4JeIIbuRXQnzqMlS4gw4sD) | 4:16 |
+| 237 | [Homesick](https://open.spotify.com/track/069PMxYrqPr2Z6ygJ3ZsNf) | [Nightmile](https://open.spotify.com/artist/6qRM3GAekdbbNTJAKUpYwH) | [Homesick](https://open.spotify.com/album/6TejLtON7VqE4kFJuTVuES) | 3:30 |
 
-Snapshot ID: `AAA9+rHTNGjQI1J4mXbLwjC0CSBztxM3`
+Snapshot ID: `AAA+BmPh0FvR2lGAypyj27hTbwV+ywbn`

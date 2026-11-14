@@ -4,7 +4,7 @@
 
 > This is Dario Marianelli\. The essential tracks, all in one playlist.
 
-46 songs - 2 hr 10 min
+47 songs - 2 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Healing](https://open.spotify.com/track/7soN8ms88WTcJCpXO3G7Oq) | [Dario Marianelli](https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg) | [The Secret Garden \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/03XlNLfzDj3wjAc4iQlTK3) | 5:28 | 2026-11-03 | 2026-11-07 |
 | [Here’s the Thing](https://open.spotify.com/track/1U6YfrDGIFte8rZYTJflzz) | [Dario Marianelli](https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg) | [Wildwood: Original Motion Picture Soundtrack](https://open.spotify.com/album/4QEB0kfFzFgXUX8AxH39De) | 2:13 | 2026-11-03 | 2026-11-06 |
 | [I Understood Something](https://open.spotify.com/track/7xfz3AV1BBySRTRdFMYnl8) | [Dario Marianelli](https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg) | [Anna Karenina \(Original Music From The Motion Picture\)](https://open.spotify.com/album/3Cfjb8PWFgaQsqzM2MFvB5) | 3:18 | 2026-11-03 | 2026-11-06 |
+| [Into the Wild Wood](https://open.spotify.com/track/14rsaixIilF15uRIA5zMZR) | [Dario Marianelli](https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg) | [Wildwood: Original Motion Picture Soundtrack](https://open.spotify.com/album/4QEB0kfFzFgXUX8AxH39De) | 1:54 | 2026-11-14 |  |
 | [Journey to South Wood](https://open.spotify.com/track/7cXnjlZmoje13Ort5W0uFp) | [Dario Marianelli](https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg) | [Wildwood: Original Motion Picture Soundtrack](https://open.spotify.com/album/4QEB0kfFzFgXUX8AxH39De) | 1:48 | 2026-11-03 |  |
 | [Last Words](https://open.spotify.com/track/4St6fcntR7xnt010lLUnnA) | [Dario Marianelli](https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg) | [Everest \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0QjHgymCkjqHShm0iSyrEP) | 2:58 | 2026-11-03 |  |
 | [Leaving Home, Coming Home](https://open.spotify.com/track/3WkeWrn8Tmr03c0BSJb2BA) | [Dario Marianelli](https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg) | [Anna Karenina \(Original Music From The Motion Picture\)](https://open.spotify.com/album/3Cfjb8PWFgaQsqzM2MFvB5) | 2:04 | 2026-11-03 | 2026-11-07 |
@@ -43,7 +44,7 @@
 | [Someone Loves Us](https://open.spotify.com/track/0owIthsU5nNNPLK6MjdVOe) | [Dario Marianelli](https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg) | [Everest \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0QjHgymCkjqHShm0iSyrEP) | 1:56 | 2026-11-03 |  |
 | [The Call](https://open.spotify.com/track/0tJBLJACxbvkyfG6pVqu9y) | [Dario Marianelli](https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg) | [Everest \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0QjHgymCkjqHShm0iSyrEP) | 3:11 | 2026-11-03 |  |
 | [The Cottage On The Beach](https://open.spotify.com/track/4RucPE8g2neo6onDXLEjQr) | [Dario Marianelli](https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg), [Jean\-Yves Thibaudet](https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6), [Benjamin Wallfisch](https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY), [English Chamber Orchestra](https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF) | [Atonement OST](https://open.spotify.com/album/08LLwEtgyMST8wRsKaZiLZ) | 3:24 | 2026-11-03 |  |
-| [The Coyotes](https://open.spotify.com/track/0wfR9v0nTnjj8K99ApMnMW) | [Dario Marianelli](https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg) | [Wildwood: Original Motion Picture Soundtrack](https://open.spotify.com/album/4QEB0kfFzFgXUX8AxH39De) | 0:56 | 2026-11-03 |  |
+| [The Coyotes](https://open.spotify.com/track/0wfR9v0nTnjj8K99ApMnMW) | [Dario Marianelli](https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg) | [Wildwood: Original Motion Picture Soundtrack](https://open.spotify.com/album/4QEB0kfFzFgXUX8AxH39De) | 0:56 | 2026-11-03 | 2026-11-14 |
 | [The End of Childhood \(feat\. Jack Liebeck\)](https://open.spotify.com/track/4acmzQsAeMJa5sGFSog7fu) | [Dario Marianelli](https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg), [Jack Liebeck](https://open.spotify.com/artist/4PwrerouUXvowe3ynAOWSP), [Benjamin Wallfisch](https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY) | [Jane Eyre \- Original Motion Picture Soundtrack](https://open.spotify.com/album/4EHO6nIhB0OCyOY2vQ8yqX) | 1:13 | 2026-11-03 |  |
 | [The Impassable Wilderness](https://open.spotify.com/track/2TigcD0r541URMdxuGc4fQ) | [Dario Marianelli](https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg) | [Wildwood: Original Motion Picture Soundtrack](https://open.spotify.com/album/4QEB0kfFzFgXUX8AxH39De) | 2:37 | 2026-11-03 |  |
 | [The Pop\-Up Book](https://open.spotify.com/track/6CLncfsxo0cZWhy2nONFlH) | [Dario Marianelli](https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg) | [Paddington 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0I02Py2xStavRaa5vG0KmS) | 1:29 | 2026-11-03 |  |

@@ -2,9 +2,9 @@
 
 ### [Bipolar Superstar Radio](https://open.spotify.com/playlist/37i9dQZF1E4tfR7pI5SYMM)
 
-> With Sanguine, Bad Scullianz, Autoimmune and more
+> With Autoimmune, Bad Scullianz, Moonvale and more
 
-1,222 songs - 3 day 10 hr 5 min
+1,223 songs - 3 day 10 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Angels and Demons](https://open.spotify.com/track/3YdXRS9Mecl4G97R11yTkl) | [Call Me T](https://open.spotify.com/artist/23H6nhAuaXfnfLg2JHzXpF) | [Angels and Demons](https://open.spotify.com/album/63PRsEWbpxZS4MJxBNhkCw) | 3:36 | 2026-07-11 | 2026-07-28 |
 | [Another Child of the Cross](https://open.spotify.com/track/1j2STlOO3gHxnroYPNqhXW) | [The Dogs](https://open.spotify.com/artist/42LXKkD9d7JJlL7sy5ImDC) | [Trauma Junkie](https://open.spotify.com/album/7rhjjRgPwWAXJ3G0nWSnzW) | 4:06 | 2026-09-22 | 2026-10-18 |
 | [Another Life](https://open.spotify.com/track/1XkFICmCusitYkiiAFREeG) | [David Von Beahm](https://open.spotify.com/artist/2h4kMB513n1Tkk7ww91p1E) | [Half Life](https://open.spotify.com/album/3NP5vSAhnYpwYlzZvXJuyV) | 4:38 | 2026-09-02 | 2026-09-18 |
+| [Antidote](https://open.spotify.com/track/11wMjyRYNVGz55auPIbpnC) | [The Whisky Flowers](https://open.spotify.com/artist/7LChO1WvnEeRe3oQSyINgw) | [Antidote](https://open.spotify.com/album/2a2hCHz5P1Y5bn1sz6yetW) | 4:05 | 2026-11-14 |  |
 | [Apache](https://open.spotify.com/track/4IgoUMRncx2KtiaZy9Iv4w) | [Svigermors Drøm](https://open.spotify.com/artist/6Px0ZNCG7EM5HjLWXsijKP) | [Apache](https://open.spotify.com/album/2Fobe2ESxbhOXXS7Khz1hu) | 3:40 | 2026-07-12 | 2026-11-10 |
 | [Appsolution](https://open.spotify.com/track/3BhMNE3Z0xIIOg1VP5A5mu) | [Parnham](https://open.spotify.com/artist/16JA6LYjG1uiMLbSfRaBFs) | [Appsolution](https://open.spotify.com/album/2zC2wmBVFSBXhUavezinYx) | 3:04 | 2025-11-22 | 2026-10-18 |
 | [Are "Friends" Electric?](https://open.spotify.com/track/6AR99vxZMkN6aDPTSau5aR) | [Chris Brind](https://open.spotify.com/artist/4fSLCXpfsE4mOx1sjKhTX4), [Rob Doom of Gunpoint X](https://open.spotify.com/artist/2opjcnwE3oOUx9Qg7rmvK1) | [Are "Friends" Electric?](https://open.spotify.com/album/1AJmqaG5bRPrxlnYt5iDAb) | 3:35 | 2026-09-05 | 2026-09-11 |
@@ -431,7 +432,7 @@
 | [Here's your Reaper](https://open.spotify.com/track/2NWCtv0HbrbQXVFu3qwriE) | [Die Oberherren](https://open.spotify.com/artist/5W8kg2FcTaUXscRnsgsQAz) | [To Die Like a God](https://open.spotify.com/album/6hB6fly1rhQr8SPsfwM1jo) | 2:41 | 2026-02-05 | 2026-04-15 |
 | [Heretic Eyes](https://open.spotify.com/track/5HV7tmmkSzlmjKMqWZQ274) | [Müntrails](https://open.spotify.com/artist/7d5qJ3NGo2lDo1IJ3t4klF) | [The Cenobite Tapes](https://open.spotify.com/album/0p1fkB1ZJuc6GX0RW4qhve) | 4:44 | 2026-08-23 | 2026-09-01 |
 | [Hexameter](https://open.spotify.com/track/3S89Lm829W4CPBXKB10wxK) | [David Eugene Edwards](https://open.spotify.com/artist/4T8Z2MuOWpnhGzTTSOz0Rj) | [Mercurial Silence](https://open.spotify.com/album/4sVIqIZj2IFiC5JsH0dTOP) | 3:36 | 2026-05-29 | 2026-06-02 |
-| [Hey Now Honey \- 2023 Remaster](https://open.spotify.com/track/1pD0KTRkta1feOk3tuDnNL) | [Sanguine](https://open.spotify.com/artist/5dmRKgmUlHVMoaR3rDDd8f) | [Last Chance To Refill \(2023 Remaster\)](https://open.spotify.com/album/3seCqj6Z6cccrAGQubK0eb) | 2:06 | 2026-10-17 |  |
+| [Hey Now Honey \- 2023 Remaster](https://open.spotify.com/track/1pD0KTRkta1feOk3tuDnNL) | [Sanguine](https://open.spotify.com/artist/5dmRKgmUlHVMoaR3rDDd8f) | [Last Chance To Refill \(2023 Remaster\)](https://open.spotify.com/album/3seCqj6Z6cccrAGQubK0eb) | 2:06 | 2026-10-17 | 2026-11-14 |
 | [Hey You](https://open.spotify.com/track/1ERFNNSMT2iYjIExnQ4TXu) | [Why Amnesia](https://open.spotify.com/artist/7IIIjTERR0EU2Az3ohOHT0) | [Angels' Share](https://open.spotify.com/album/6MFv9U0kt3UtGedhzpi6Yv) | 3:13 | 2025-11-28 | 2025-12-13 |
 | [Hierarchy Error](https://open.spotify.com/track/385v2ocXmuMJFsNj3xvHsV) | [Sacricore](https://open.spotify.com/artist/3vS1k8tBn99nNvgs7yfrdo) | [The Algorithm](https://open.spotify.com/album/5ykoqzg0MLkH1Rjp3ddCWx) | 4:45 | 2025-12-09 | 2025-12-20 |
 | [Hierro y cristal](https://open.spotify.com/track/4mqrGQa5devAGwCCfGDJpI) | [Soghima&David Xai](https://open.spotify.com/artist/3ub4MQfCXme2gXsTJVraSe) | [\_Vol.6\_](https://open.spotify.com/album/0NqAawzeBpfgAjIZI3gJde) | 2:52 | 2026-08-24 | 2026-08-31 |
@@ -618,7 +619,7 @@
 | [Mancave](https://open.spotify.com/track/0MKA9fLN5P3tzTFgQqQ4Wf) | [Jyri Kannisto](https://open.spotify.com/artist/6zNNpQSJzvPo7lXjhl4Pmp) | [Mancave](https://open.spotify.com/album/5eewM5dB0eHp1SkbSsYbNJ) | 3:12 | 2025-11-19 | 2026-02-05 |
 | [Maniac](https://open.spotify.com/track/53Z9FvFUa8ILsPgNi2QFng) | [Asko Argillander & The Blue Flame](https://open.spotify.com/artist/3tnuuSXM2GE4H9yiC6Ah2k) | [Maniac](https://open.spotify.com/album/4lPM37tkEacxp6tFqmoS21) | 6:44 | 2025-12-20 | 2026-01-26 |
 | [Manneklem](https://open.spotify.com/track/1Lq7eIHMXAe7mBalme6A9Q) | [Bipolar Superstar](https://open.spotify.com/artist/2luOsV8r2I0lzdTLpgSG0H) | [Manneklem](https://open.spotify.com/album/36erD8rvt5RqfDale07HIe) | 3:10 | 2025-11-19 |  |
-| [Mannen i speilet](https://open.spotify.com/track/2XMkSnJrJwg7NbkJaiYFXY) | [Autoimmune](https://open.spotify.com/artist/5SUSfFv6OjcSdt6lWX0YZc) | [Mannen i speilet](https://open.spotify.com/album/5OO1obcf6ECp0yIVliRLMl) | 3:47 | 2026-08-22 |  |
+| [Mannen i speilet](https://open.spotify.com/track/2XMkSnJrJwg7NbkJaiYFXY) | [Autoimmune](https://open.spotify.com/artist/5SUSfFv6OjcSdt6lWX0YZc) | [Mannen i speilet](https://open.spotify.com/album/5OO1obcf6ECp0yIVliRLMl) | 3:47 | 2026-08-22 | 2026-11-14 |
 | [Mariaan \(akoesties\)](https://open.spotify.com/track/3GsIqsVb9naIsL7IGls5Fe) | [Ashton Nyte](https://open.spotify.com/artist/7J66VKvTZxYiFeI2n0PWed) | [Mariaan \(akoesties\)](https://open.spotify.com/album/4fOgz3fbQOihgo2B8dMkfz) | 2:42 | 2025-11-21 | 2025-11-22 |
 | [Marionette](https://open.spotify.com/track/5v0Z6sZqMwp6AS4G0GNW7K) | [Chiffon Magnifique](https://open.spotify.com/artist/0UnonJP7amw8MQ4Anp4m3z) | [Marionette](https://open.spotify.com/album/6iHbHRCjrI2oa2sHzhI6zL) | 2:03 | 2026-09-04 | 2026-09-05 |
 | [Marry the Night](https://open.spotify.com/track/5OBYQAk9xwkkh8dzN1XzPo) | [Locus Noir](https://open.spotify.com/artist/5GIs4nDpgb7WCCDqzTn8US) | [Shadow Sun](https://open.spotify.com/album/7F2lyeX0ypmTDsSdT9cKmR) | 4:15 | 2026-03-04 | 2026-03-05 |
@@ -887,7 +888,7 @@
 | [Slowly Goes The Night](https://open.spotify.com/track/3s3YAcAClDrZChvOVk8REW) | [Hotel Hunger](https://open.spotify.com/artist/0nVjySczakVfLmvhNYzLiD) | [No Means No](https://open.spotify.com/album/74rb0zn3vPoov87NHvP4sI) | 2:50 | 2025-11-24 | 2025-12-05 |
 | [Smile, Smile, Smile](https://open.spotify.com/track/1nlhgVRaJJl1tWqXpLtuTf) | [Hats Off Gentlemen It's Adequate](https://open.spotify.com/artist/0oomA1zS33GYRNuiuevzAw) | [Smile, Smile, Smile](https://open.spotify.com/album/5x46ysFFiRln88dE3AB7FQ) | 4:37 | 2026-07-06 | 2026-07-18 |
 | [Snijeg](https://open.spotify.com/track/5hN7JhizAin1GqUfT8vWGH) | [Kultur Shock](https://open.spotify.com/artist/375M0kA14wq7ILBObdszNf) | [House of Kultur](https://open.spotify.com/album/3bKORhxfXzl4XIBJwKTCBf) | 4:58 | 2026-01-22 | 2026-01-23 |
-| [Snør i Helvete](https://open.spotify.com/track/38ehb2DHLwwVAPr0rD0IjR) | [Autoimmune](https://open.spotify.com/artist/5SUSfFv6OjcSdt6lWX0YZc) | [Snør i Helvete](https://open.spotify.com/album/7206ZPU72lQzRTkqgSlWbl) | 4:11 | 2026-05-25 | 2026-11-11 |
+| [Snør i Helvete](https://open.spotify.com/track/38ehb2DHLwwVAPr0rD0IjR) | [Autoimmune](https://open.spotify.com/artist/5SUSfFv6OjcSdt6lWX0YZc) | [Snør i Helvete](https://open.spotify.com/album/7206ZPU72lQzRTkqgSlWbl) | 4:11 | 2026-05-25 |  |
 | [So Many Dreams](https://open.spotify.com/track/1dBra8NQyJ0x2qBi2nnCHx) | [Avoiding Caution](https://open.spotify.com/artist/1wlNFHeQGG5RtR6mE22xDA) | [So Many Dreams](https://open.spotify.com/album/61L1j1Oq5zoeCdcuTTPwMy) | 4:08 | 2026-04-30 | 2026-06-28 |
 | [Softer](https://open.spotify.com/track/4pFR9eR7CDWcT8QR6NCRhG) | [BLACKLIGHT](https://open.spotify.com/artist/3V0M6bENFpgi3K1Iv3F4Vh) | [Lost Signals DEMO](https://open.spotify.com/album/7HwOrfw7TsrSqM3Pj2zEmT) | 3:17 | 2025-12-26 | 2025-12-27 |
 | [Sol](https://open.spotify.com/track/7KFUjMCPZ8YsoZOm3j0wWs) | [Skogskult](https://open.spotify.com/artist/3VWm4Dtt9TGWNT8OKVDbXy) | [Skogskult](https://open.spotify.com/album/6OVBdQuLNwZ91SXopkqiO2) | 7:53 | 2025-12-23 | 2026-01-15 |

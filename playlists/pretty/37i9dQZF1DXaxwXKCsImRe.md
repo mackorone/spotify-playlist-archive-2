@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxwXKCsImRe.md) - [plain]
 
 > De toekomst van de Benelux volgens onze muziekredactie\. Cover: <a href="spotify:artist:4oMzH6lIWPhCdx7KADXLJZ">Senna</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,304 likes - 21 songs - 1 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,305 likes - 21 songs - 1 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

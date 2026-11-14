@@ -1,6 +1,6 @@
 {
   "description": "\u00a1M\u00fasica que representa a Cuba! Cover: Wampi",
-  "num_followers": 169185,
+  "num_followers": 169204,
   "original_name": "Hecho en Cuba",
   "owner": {
     "name": "Spotify",
@@ -479,26 +479,6 @@
     {
       "added_at": "2026-10-01 23:46:58",
       "album": {
-        "name": "Todos Los D\u00edas Son Iguales",
-        "url": "https://open.spotify.com/album/1pcciV0T9o0fxVGXiD8Wo9"
-      },
-      "artists": [
-        {
-          "name": "Charly & Johayron",
-          "url": "https://open.spotify.com/artist/2QFzaQjpqjQBtvwZLVMdMG"
-        },
-        {
-          "name": "El Bandolero",
-          "url": "https://open.spotify.com/artist/5bSI7DmMQFvDRkV8RMe2wB"
-        }
-      ],
-      "duration_ms": 151086,
-      "name": "Sellito y Foto - Prod. by El Bandolero",
-      "url": "https://open.spotify.com/track/2rUc0kMhOMWxCdH1PaTVVr"
-    },
-    {
-      "added_at": "2026-10-01 23:46:58",
-      "album": {
         "name": "Te Echo de Menos",
         "url": "https://open.spotify.com/album/5ncfVlBpF1SnUr4dpC6p6G"
       },
@@ -519,6 +499,26 @@
       "duration_ms": 161725,
       "name": "Te Echo de Menos",
       "url": "https://open.spotify.com/track/1aQCtqOkz7UQDvGignacjA"
+    },
+    {
+      "added_at": "2026-10-01 23:46:58",
+      "album": {
+        "name": "Todos Los D\u00edas Son Iguales",
+        "url": "https://open.spotify.com/album/1pcciV0T9o0fxVGXiD8Wo9"
+      },
+      "artists": [
+        {
+          "name": "Charly & Johayron",
+          "url": "https://open.spotify.com/artist/2QFzaQjpqjQBtvwZLVMdMG"
+        },
+        {
+          "name": "El Bandolero",
+          "url": "https://open.spotify.com/artist/5bSI7DmMQFvDRkV8RMe2wB"
+        }
+      ],
+      "duration_ms": 151086,
+      "name": "Sellito y Foto - Prod. by El Bandolero",
+      "url": "https://open.spotify.com/track/2rUc0kMhOMWxCdH1PaTVVr"
     },
     {
       "added_at": "2026-10-01 23:46:58",
@@ -607,30 +607,6 @@
     {
       "added_at": "2026-10-01 23:46:58",
       "album": {
-        "name": "Mi Lugar Favorito (Prod. by Ernesto Losa, Roberto Ferrante)",
-        "url": "https://open.spotify.com/album/7DV49wDTaPb2EQHV7Vtc0d"
-      },
-      "artists": [
-        {
-          "name": "Charly & Johayron",
-          "url": "https://open.spotify.com/artist/2QFzaQjpqjQBtvwZLVMdMG"
-        },
-        {
-          "name": "Ernesto Losa",
-          "url": "https://open.spotify.com/artist/74nlOfeYl09FVGJdX396zS"
-        },
-        {
-          "name": "Roberto Ferrante",
-          "url": "https://open.spotify.com/artist/2aiM1OfMODFLUXaQgEVPK1"
-        }
-      ],
-      "duration_ms": 158484,
-      "name": "Mi Lugar Favorito - Prod. by Ernesto Losa, Roberto Ferrante",
-      "url": "https://open.spotify.com/track/1s1HC6pWnAnD71q7jNVw7w"
-    },
-    {
-      "added_at": "2026-10-01 23:46:58",
-      "album": {
         "name": "Hace tiempo que no s\u00e9 de t\u00ed",
         "url": "https://open.spotify.com/album/3uoaYIfJlv7PkBayh9rkiF"
       },
@@ -655,6 +631,30 @@
       "duration_ms": 153200,
       "name": "Hace tiempo que no s\u00e9 de t\u00ed",
       "url": "https://open.spotify.com/track/2QaX4WMwJNIxwio16tuxxI"
+    },
+    {
+      "added_at": "2026-10-01 23:46:58",
+      "album": {
+        "name": "Mi Lugar Favorito (Prod. by Ernesto Losa, Roberto Ferrante)",
+        "url": "https://open.spotify.com/album/7DV49wDTaPb2EQHV7Vtc0d"
+      },
+      "artists": [
+        {
+          "name": "Charly & Johayron",
+          "url": "https://open.spotify.com/artist/2QFzaQjpqjQBtvwZLVMdMG"
+        },
+        {
+          "name": "Ernesto Losa",
+          "url": "https://open.spotify.com/artist/74nlOfeYl09FVGJdX396zS"
+        },
+        {
+          "name": "Roberto Ferrante",
+          "url": "https://open.spotify.com/artist/2aiM1OfMODFLUXaQgEVPK1"
+        }
+      ],
+      "duration_ms": 158484,
+      "name": "Mi Lugar Favorito - Prod. by Ernesto Losa, Roberto Ferrante",
+      "url": "https://open.spotify.com/track/1s1HC6pWnAnD71q7jNVw7w"
     },
     {
       "added_at": "2026-10-01 23:46:58",
@@ -823,6 +823,34 @@
     {
       "added_at": "2026-10-01 23:46:58",
       "album": {
+        "name": "Un Tiempo (Remix)",
+        "url": "https://open.spotify.com/album/2FDk8opYaD456Vo5BVp6aG"
+      },
+      "artists": [
+        {
+          "name": "Velito el Buf\u00f3n",
+          "url": "https://open.spotify.com/artist/6cGZCBTS162TDm8xUImWfB"
+        },
+        {
+          "name": "Yorshi & Yosan",
+          "url": "https://open.spotify.com/artist/6P1Br4Y7er2VNYiozFC1GO"
+        },
+        {
+          "name": "Charaway",
+          "url": "https://open.spotify.com/artist/2vjXRf6qBN4ckt5Tbt4lvy"
+        },
+        {
+          "name": "Fernando Produce",
+          "url": "https://open.spotify.com/artist/3pO5f5tMMj8HHkimZXszMJ"
+        }
+      ],
+      "duration_ms": 163467,
+      "name": "Un Tiempo - Remix",
+      "url": "https://open.spotify.com/track/4GQ9GqaJgxpoYQdT9XDmys"
+    },
+    {
+      "added_at": "2026-10-01 23:46:58",
+      "album": {
         "name": "10 \u00c9xitos Duros",
         "url": "https://open.spotify.com/album/1AQFotaUbgyNHEg7BzgGPo"
       },
@@ -851,34 +879,6 @@
       "duration_ms": 201000,
       "name": "Washypupa",
       "url": "https://open.spotify.com/track/2hjFPnrrbOk13flhIo2LuN"
-    },
-    {
-      "added_at": "2026-10-01 23:46:58",
-      "album": {
-        "name": "Un Tiempo (Remix)",
-        "url": "https://open.spotify.com/album/2FDk8opYaD456Vo5BVp6aG"
-      },
-      "artists": [
-        {
-          "name": "Velito el Buf\u00f3n",
-          "url": "https://open.spotify.com/artist/6cGZCBTS162TDm8xUImWfB"
-        },
-        {
-          "name": "Yorshi & Yosan",
-          "url": "https://open.spotify.com/artist/6P1Br4Y7er2VNYiozFC1GO"
-        },
-        {
-          "name": "Charaway",
-          "url": "https://open.spotify.com/artist/2vjXRf6qBN4ckt5Tbt4lvy"
-        },
-        {
-          "name": "Fernando Produce",
-          "url": "https://open.spotify.com/artist/3pO5f5tMMj8HHkimZXszMJ"
-        }
-      ],
-      "duration_ms": 163467,
-      "name": "Un Tiempo - Remix",
-      "url": "https://open.spotify.com/track/4GQ9GqaJgxpoYQdT9XDmys"
     },
     {
       "added_at": "2026-10-01 23:46:58",

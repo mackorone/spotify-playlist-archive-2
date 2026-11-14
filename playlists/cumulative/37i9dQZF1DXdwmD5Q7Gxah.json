@@ -7422,7 +7422,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 160616,
       "name": "Better Angels",
       "url": "https://open.spotify.com/track/4dVmB6Y60E2U5tK79G2dhK"
@@ -7686,7 +7686,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 170196,
       "name": "Billboard Style",
       "url": "https://open.spotify.com/track/35ve61xDrQy5Q4U20CCttN"
@@ -15604,7 +15604,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 175597,
       "name": "Crybaby",
       "url": "https://open.spotify.com/track/1etY8R5Z0rXhBKlqkUkkwN"
@@ -19334,7 +19334,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 179026,
       "name": "Drive",
       "url": "https://open.spotify.com/track/6zARylhJ2oHDw0x7V6W32N"
@@ -24622,7 +24622,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 149126,
       "name": "FU : ILY",
       "url": "https://open.spotify.com/track/6bJYxgGcvR9tqpGQLApNO0"
@@ -30193,6 +30193,24 @@
     },
     {
       "album": {
+        "name": "Honeymoon",
+        "url": "https://open.spotify.com/album/5HZocqevwnLexkjpNCmG1l"
+      },
+      "artists": [
+        {
+          "name": "54 Ultra",
+          "url": "https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188229,
+      "name": "Honeymoon",
+      "url": "https://open.spotify.com/track/160wVfS6OgXxhyPkDYOhLi"
+    },
+    {
+      "album": {
         "name": "Honeypie",
         "url": "https://open.spotify.com/album/1zxpPFfohSafh4mcYGdaQ4"
       },
@@ -31788,7 +31806,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 235429,
       "name": "I got god",
       "url": "https://open.spotify.com/track/19LhmxhZyk5LrMWCMMMF0I"
@@ -34208,7 +34226,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 256271,
       "name": "Imitation (how to become you)",
       "url": "https://open.spotify.com/track/5c9mIk9tWe0QVM3HtoXlvk"
@@ -48554,7 +48572,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 146738,
       "name": "Oops",
       "url": "https://open.spotify.com/track/5HUqlNEKgLwBiPfpK9wBaX"
@@ -51530,7 +51548,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 141864,
       "name": "Postinternetfame",
       "url": "https://open.spotify.com/track/1EiHTft00amQg7z5TX2lLh"
@@ -60870,7 +60888,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 205274,
       "name": "Star",
       "url": "https://open.spotify.com/track/3PdE19PCcon8iVW9KXtRWl"
@@ -62262,7 +62280,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 211893,
       "name": "Stupid Bitches",
       "url": "https://open.spotify.com/track/4KELpaK3sQ5vEZX9nuK9lg"
@@ -72930,7 +72948,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 264837,
       "name": "White Lightning",
       "url": "https://open.spotify.com/track/3K6GgBsxAcSc9bG1kWoaRh"
@@ -75534,7 +75552,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 221826,
       "name": "You're My",
       "url": "https://open.spotify.com/track/2TeNHfb3Xb8aWWESW1QCkl"

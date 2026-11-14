@@ -2,7 +2,7 @@
 
 ### [LoveLive! Series　ラブライブ！シリーズ](https://open.spotify.com/playlist/37i9dQZF1DX4O9Rrfx5EO3)
 
-> Music from "LoveLive! Series"「ラブライブ！シリーズ」の楽曲をプレイリストで。©2013 PL! ©2017 PL!S ©2024 PL!NM ©2024 PL!SP ©2026 PL!HS ©IKZL ©PL!SIM
+> Music from "LoveLive! Series"「ラブライブ！シリーズ」の楽曲をプレイリストで。©2013 PL! ©2017 PL!S ©2024 PL!NM ©2024 PL!SP ©2026 PL!HS ©PL!SIM ©IKZL
 
 68 songs - 4 hr 46 min
 

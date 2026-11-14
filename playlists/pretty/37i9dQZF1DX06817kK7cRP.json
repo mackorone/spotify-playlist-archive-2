@@ -1,6 +1,6 @@
 {
   "description": "Soft Jazz beats in the background while you're focusing, studying or relaxing.",
-  "num_followers": 204222,
+  "num_followers": 204210,
   "original_name": "Smooth Jazz Beats",
   "owner": {
     "name": "Spotify",
@@ -251,22 +251,6 @@
     {
       "added_at": "2026-10-16 07:28:54",
       "album": {
-        "name": "Good Life",
-        "url": "https://open.spotify.com/album/1ICaCOfTCfaa6lIImFCKx4"
-      },
-      "artists": [
-        {
-          "name": "Harry Hawaii",
-          "url": "https://open.spotify.com/artist/7fQVHvcP2LSpPU3pNU7wKA"
-        }
-      ],
-      "duration_ms": 126005,
-      "name": "Good Life",
-      "url": "https://open.spotify.com/track/2Ud7OQ3gvBuKOhMrzX1SVe"
-    },
-    {
-      "added_at": "2026-10-16 07:28:54",
-      "album": {
         "name": "Drip",
         "url": "https://open.spotify.com/album/0a6U7OW9YxAX9SklG6X976"
       },
@@ -287,22 +271,6 @@
     {
       "added_at": "2026-10-16 07:28:54",
       "album": {
-        "name": "Your Vibe",
-        "url": "https://open.spotify.com/album/1eD9lTW6CovQPyM1bZGxDJ"
-      },
-      "artists": [
-        {
-          "name": "Screen Jazzmaster",
-          "url": "https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt"
-        }
-      ],
-      "duration_ms": 122926,
-      "name": "Your Vibe",
-      "url": "https://open.spotify.com/track/6j28jY5MmBEnokS9i3irIr"
-    },
-    {
-      "added_at": "2026-10-16 07:28:54",
-      "album": {
         "name": "See You, Space Cowboy",
         "url": "https://open.spotify.com/album/5cYKSdW2gvvEIGkkvALVdh"
       },
@@ -319,6 +287,22 @@
     {
       "added_at": "2026-10-16 07:28:54",
       "album": {
+        "name": "Your Vibe",
+        "url": "https://open.spotify.com/album/1eD9lTW6CovQPyM1bZGxDJ"
+      },
+      "artists": [
+        {
+          "name": "Screen Jazzmaster",
+          "url": "https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt"
+        }
+      ],
+      "duration_ms": 122926,
+      "name": "Your Vibe",
+      "url": "https://open.spotify.com/track/6j28jY5MmBEnokS9i3irIr"
+    },
+    {
+      "added_at": "2026-10-16 07:28:54",
+      "album": {
         "name": "solid",
         "url": "https://open.spotify.com/album/3dZj6KE3zyR68GLyybP9vn"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 137647,
       "name": "solid",
       "url": "https://open.spotify.com/track/3OTTrRBwf6h7Inr8bs6bxV"
+    },
+    {
+      "added_at": "2026-10-16 07:28:54",
+      "album": {
+        "name": "Good Life",
+        "url": "https://open.spotify.com/album/1ICaCOfTCfaa6lIImFCKx4"
+      },
+      "artists": [
+        {
+          "name": "Harry Hawaii",
+          "url": "https://open.spotify.com/artist/7fQVHvcP2LSpPU3pNU7wKA"
+        }
+      ],
+      "duration_ms": 126005,
+      "name": "Good Life",
+      "url": "https://open.spotify.com/track/2Ud7OQ3gvBuKOhMrzX1SVe"
     },
     {
       "added_at": "2026-10-16 07:28:54",
@@ -355,38 +355,6 @@
     {
       "added_at": "2026-10-16 07:28:54",
       "album": {
-        "name": "Boulevards",
-        "url": "https://open.spotify.com/album/50eD6pn2SSYlsI8kjT2txQ"
-      },
-      "artists": [
-        {
-          "name": "Dusty Decks",
-          "url": "https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR"
-        }
-      ],
-      "duration_ms": 159130,
-      "name": "Counterbalanced",
-      "url": "https://open.spotify.com/track/6Q7Ns2ewVUakx6xtwxmpOD"
-    },
-    {
-      "added_at": "2026-10-16 07:28:54",
-      "album": {
-        "name": "Echoes",
-        "url": "https://open.spotify.com/album/2qFwsab3wTD4GWJbgqUxsX"
-      },
-      "artists": [
-        {
-          "name": "Screen Jazzmaster",
-          "url": "https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Echoes",
-      "url": "https://open.spotify.com/track/4j1sfsi46jR7k9VQhX1ca9"
-    },
-    {
-      "added_at": "2026-10-16 07:28:54",
-      "album": {
         "name": "Green Soju",
         "url": "https://open.spotify.com/album/0bhdYL3ErDclyErpII52fu"
       },
@@ -407,6 +375,38 @@
       "duration_ms": 124235,
       "name": "Green Soju",
       "url": "https://open.spotify.com/track/0KFQ697GYrwEscuMJ8oO9V"
+    },
+    {
+      "added_at": "2026-10-16 07:28:54",
+      "album": {
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/2qFwsab3wTD4GWJbgqUxsX"
+      },
+      "artists": [
+        {
+          "name": "Screen Jazzmaster",
+          "url": "https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Echoes",
+      "url": "https://open.spotify.com/track/4j1sfsi46jR7k9VQhX1ca9"
+    },
+    {
+      "added_at": "2026-10-16 07:28:54",
+      "album": {
+        "name": "Boulevards",
+        "url": "https://open.spotify.com/album/50eD6pn2SSYlsI8kjT2txQ"
+      },
+      "artists": [
+        {
+          "name": "Dusty Decks",
+          "url": "https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR"
+        }
+      ],
+      "duration_ms": 159130,
+      "name": "Counterbalanced",
+      "url": "https://open.spotify.com/track/6Q7Ns2ewVUakx6xtwxmpOD"
     },
     {
       "added_at": "2026-10-16 07:28:54",
@@ -655,18 +655,18 @@
     {
       "added_at": "2026-10-16 07:28:54",
       "album": {
-        "name": "Nowhere",
-        "url": "https://open.spotify.com/album/1RlL8p44tMSOtqF7oJyuZi"
+        "name": "chrome",
+        "url": "https://open.spotify.com/album/20bHalKNFZ5BsVPR7kSYJL"
       },
       "artists": [
         {
-          "name": "Nuncc",
-          "url": "https://open.spotify.com/artist/2boLOio6iQ5rnScySM67q8"
+          "name": "Mozzie",
+          "url": "https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4"
         }
       ],
-      "duration_ms": 114146,
-      "name": "Nowhere",
-      "url": "https://open.spotify.com/track/27ptY9nQRlAZmz6r7bmzqO"
+      "duration_ms": 135384,
+      "name": "chrome",
+      "url": "https://open.spotify.com/track/71hsXyvmjTahqj1eqP6tBw"
     },
     {
       "added_at": "2026-10-16 07:28:54",
@@ -691,18 +691,18 @@
     {
       "added_at": "2026-10-16 07:28:54",
       "album": {
-        "name": "chrome",
-        "url": "https://open.spotify.com/album/20bHalKNFZ5BsVPR7kSYJL"
+        "name": "Nowhere",
+        "url": "https://open.spotify.com/album/1RlL8p44tMSOtqF7oJyuZi"
       },
       "artists": [
         {
-          "name": "Mozzie",
-          "url": "https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4"
+          "name": "Nuncc",
+          "url": "https://open.spotify.com/artist/2boLOio6iQ5rnScySM67q8"
         }
       ],
-      "duration_ms": 135384,
-      "name": "chrome",
-      "url": "https://open.spotify.com/track/71hsXyvmjTahqj1eqP6tBw"
+      "duration_ms": 114146,
+      "name": "Nowhere",
+      "url": "https://open.spotify.com/track/27ptY9nQRlAZmz6r7bmzqO"
     },
     {
       "added_at": "2026-10-16 07:28:54",
@@ -795,6 +795,22 @@
     {
       "added_at": "2026-10-16 07:28:54",
       "album": {
+        "name": "Cloudscape",
+        "url": "https://open.spotify.com/album/1fN2VRfRVaRSJCn6hS4bgo"
+      },
+      "artists": [
+        {
+          "name": "baegel",
+          "url": "https://open.spotify.com/artist/5NaaHKhCjBsIbSRh96NuzA"
+        }
+      ],
+      "duration_ms": 146328,
+      "name": "Jetlag",
+      "url": "https://open.spotify.com/track/0HFPMPIPGy0o9ocbHMNz2P"
+    },
+    {
+      "added_at": "2026-10-16 07:28:54",
+      "album": {
         "name": "Till Sunrise",
         "url": "https://open.spotify.com/album/5brQ6cGS3mgodD59x8j3Es"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 104179,
       "name": "Till Sunrise",
       "url": "https://open.spotify.com/track/2sQNJjF28K6xCexW8vmZ0s"
-    },
-    {
-      "added_at": "2026-10-16 07:28:54",
-      "album": {
-        "name": "Cloudscape",
-        "url": "https://open.spotify.com/album/1fN2VRfRVaRSJCn6hS4bgo"
-      },
-      "artists": [
-        {
-          "name": "baegel",
-          "url": "https://open.spotify.com/artist/5NaaHKhCjBsIbSRh96NuzA"
-        }
-      ],
-      "duration_ms": 146328,
-      "name": "Jetlag",
-      "url": "https://open.spotify.com/track/0HFPMPIPGy0o9ocbHMNz2P"
     },
     {
       "added_at": "2026-10-16 07:28:54",
@@ -883,22 +883,6 @@
     {
       "added_at": "2026-10-16 07:28:54",
       "album": {
-        "name": "Home Cottage",
-        "url": "https://open.spotify.com/album/76o4eRw1lGY1NCXMWHyV4i"
-      },
-      "artists": [
-        {
-          "name": "Mr. K\u00e4fer",
-          "url": "https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ"
-        }
-      ],
-      "duration_ms": 142222,
-      "name": "Home Cottage",
-      "url": "https://open.spotify.com/track/1FrZUAZ9liovAuOw6kJsSU"
-    },
-    {
-      "added_at": "2026-10-16 07:28:54",
-      "album": {
         "name": "Flow",
         "url": "https://open.spotify.com/album/28gbpdO6RA0mSBzDiafG2l"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 109367,
       "name": "My Home",
       "url": "https://open.spotify.com/track/7MiFG1eup2CPNq5JOkrQhl"
+    },
+    {
+      "added_at": "2026-10-16 07:28:54",
+      "album": {
+        "name": "Home Cottage",
+        "url": "https://open.spotify.com/album/76o4eRw1lGY1NCXMWHyV4i"
+      },
+      "artists": [
+        {
+          "name": "Mr. K\u00e4fer",
+          "url": "https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ"
+        }
+      ],
+      "duration_ms": 142222,
+      "name": "Home Cottage",
+      "url": "https://open.spotify.com/track/1FrZUAZ9liovAuOw6kJsSU"
     },
     {
       "added_at": "2026-10-16 07:28:54",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2026-10-16 07:28:54",
       "album": {
-        "name": "pearls",
-        "url": "https://open.spotify.com/album/3YYdtz7Jg3r2oKW7cq37Et"
-      },
-      "artists": [
-        {
-          "name": "skrn",
-          "url": "https://open.spotify.com/artist/1k29Ytv2zKdGrYGadr9etJ"
-        }
-      ],
-      "duration_ms": 108000,
-      "name": "pearls",
-      "url": "https://open.spotify.com/track/2nLLeDCCmy27w6v405VVZT"
-    },
-    {
-      "added_at": "2026-10-16 07:28:54",
-      "album": {
         "name": "High Expectations",
         "url": "https://open.spotify.com/album/6Or8HJNSBISRJNgukN5tyd"
       },
@@ -1471,6 +1455,22 @@
     {
       "added_at": "2026-10-16 07:28:54",
       "album": {
+        "name": "pearls",
+        "url": "https://open.spotify.com/album/3YYdtz7Jg3r2oKW7cq37Et"
+      },
+      "artists": [
+        {
+          "name": "skrn",
+          "url": "https://open.spotify.com/artist/1k29Ytv2zKdGrYGadr9etJ"
+        }
+      ],
+      "duration_ms": 108000,
+      "name": "pearls",
+      "url": "https://open.spotify.com/track/2nLLeDCCmy27w6v405VVZT"
+    },
+    {
+      "added_at": "2026-10-16 07:28:54",
+      "album": {
         "name": "Sthlm Night",
         "url": "https://open.spotify.com/album/1GgvBY2L1UVmlysJu45aWS"
       },
@@ -1483,22 +1483,6 @@
       "duration_ms": 170500,
       "name": "Sthlm Night",
       "url": "https://open.spotify.com/track/7eMXZGWOAL7clS5ki24HDO"
-    },
-    {
-      "added_at": "2026-10-16 07:28:54",
-      "album": {
-        "name": "Melting Away",
-        "url": "https://open.spotify.com/album/6Fcny8zpQ9huychcq3kHsJ"
-      },
-      "artists": [
-        {
-          "name": "Josie Mehlin",
-          "url": "https://open.spotify.com/artist/3VkUsVhRvP02IX46EWGzQz"
-        }
-      ],
-      "duration_ms": 186874,
-      "name": "Melting Away",
-      "url": "https://open.spotify.com/track/1dOSLiAiqzqH4fek2zyogm"
     },
     {
       "added_at": "2026-10-16 07:28:54",
@@ -1519,18 +1503,18 @@
     {
       "added_at": "2026-10-16 07:28:54",
       "album": {
-        "name": "Good feeling",
-        "url": "https://open.spotify.com/album/76RG25ONG8UTxEoQgNKF1s"
+        "name": "Melting Away",
+        "url": "https://open.spotify.com/album/6Fcny8zpQ9huychcq3kHsJ"
       },
       "artists": [
         {
-          "name": "Moox",
-          "url": "https://open.spotify.com/artist/0ujZnGAenOcihPvgnnY2qq"
+          "name": "Josie Mehlin",
+          "url": "https://open.spotify.com/artist/3VkUsVhRvP02IX46EWGzQz"
         }
       ],
-      "duration_ms": 136246,
-      "name": "little lies",
-      "url": "https://open.spotify.com/track/3x8mCjdAaPtXtAPUkFX5wn"
+      "duration_ms": 186874,
+      "name": "Melting Away",
+      "url": "https://open.spotify.com/track/1dOSLiAiqzqH4fek2zyogm"
     },
     {
       "added_at": "2026-10-16 07:28:54",
@@ -1547,6 +1531,22 @@
       "duration_ms": 162978,
       "name": "Moonwalker",
       "url": "https://open.spotify.com/track/4YdD9UItuRNEXII4n7kNQB"
+    },
+    {
+      "added_at": "2026-10-16 07:28:54",
+      "album": {
+        "name": "Good feeling",
+        "url": "https://open.spotify.com/album/76RG25ONG8UTxEoQgNKF1s"
+      },
+      "artists": [
+        {
+          "name": "Moox",
+          "url": "https://open.spotify.com/artist/0ujZnGAenOcihPvgnnY2qq"
+        }
+      ],
+      "duration_ms": 136246,
+      "name": "little lies",
+      "url": "https://open.spotify.com/track/3x8mCjdAaPtXtAPUkFX5wn"
     },
     {
       "added_at": "2026-10-16 07:28:54",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2026-10-16 07:28:54",
       "album": {
-        "name": "drop top",
-        "url": "https://open.spotify.com/album/5gvHSInmVc8QP4xRzfJi0u"
-      },
-      "artists": [
-        {
-          "name": "Harry G's Beats",
-          "url": "https://open.spotify.com/artist/59fTGxMpUBkID2RojOnA8V"
-        }
-      ],
-      "duration_ms": 152958,
-      "name": "drop top",
-      "url": "https://open.spotify.com/track/1dMAKSyWc90DhQY8zix6gp"
-    },
-    {
-      "added_at": "2026-10-16 07:28:54",
-      "album": {
         "name": "Flat Out",
         "url": "https://open.spotify.com/album/1obXVW12h6lb33uWGKUksN"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 139677,
       "name": "Flat Out",
       "url": "https://open.spotify.com/track/055fovAr3EQTHeSIgre4ZE"
+    },
+    {
+      "added_at": "2026-10-16 07:28:54",
+      "album": {
+        "name": "drop top",
+        "url": "https://open.spotify.com/album/5gvHSInmVc8QP4xRzfJi0u"
+      },
+      "artists": [
+        {
+          "name": "Harry G's Beats",
+          "url": "https://open.spotify.com/artist/59fTGxMpUBkID2RojOnA8V"
+        }
+      ],
+      "duration_ms": 152958,
+      "name": "drop top",
+      "url": "https://open.spotify.com/track/1dMAKSyWc90DhQY8zix6gp"
     },
     {
       "added_at": "2026-10-16 07:28:54",
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2026-10-16 07:28:54",
       "album": {
-        "name": "Somewhere",
-        "url": "https://open.spotify.com/album/2tH0WniQaD92x1JpTxzyEO"
-      },
-      "artists": [
-        {
-          "name": "Screen Jazzmaster",
-          "url": "https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt"
-        }
-      ],
-      "duration_ms": 121481,
-      "name": "Somewhere",
-      "url": "https://open.spotify.com/track/03W7SAX0oTXQqWkeO1Eoql"
-    },
-    {
-      "added_at": "2026-10-16 07:28:54",
-      "album": {
         "name": "Lush Life",
         "url": "https://open.spotify.com/album/6emeWUHnD2Sro9YwBlsblI"
       },
@@ -1787,6 +1771,22 @@
       "duration_ms": 114000,
       "name": "Lush Life",
       "url": "https://open.spotify.com/track/7asjWIkKWVDRz6hy6O6uaC"
+    },
+    {
+      "added_at": "2026-10-16 07:28:54",
+      "album": {
+        "name": "Somewhere",
+        "url": "https://open.spotify.com/album/2tH0WniQaD92x1JpTxzyEO"
+      },
+      "artists": [
+        {
+          "name": "Screen Jazzmaster",
+          "url": "https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt"
+        }
+      ],
+      "duration_ms": 121481,
+      "name": "Somewhere",
+      "url": "https://open.spotify.com/track/03W7SAX0oTXQqWkeO1Eoql"
     }
   ],
   "unique_name": "Smooth Jazz Beats",

@@ -26717,6 +26717,24 @@
     },
     {
       "album": {
+        "name": "Club Jade Monet",
+        "url": "https://open.spotify.com/album/0G9n8yzgBgLZf1iIySIatk"
+      },
+      "artists": [
+        {
+          "name": "Jade Monet",
+          "url": "https://open.spotify.com/artist/5AE7MlHMoaaPI9VhtYubmT"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287365,
+      "name": "June on Your Skin",
+      "url": "https://open.spotify.com/track/6zrxzGTyCr751V0RBQ0TYb"
+    },
+    {
+      "album": {
         "name": "Junkie",
         "url": "https://open.spotify.com/album/631UAdqHsa97P0VOFxxybP"
       },
@@ -55104,24 +55122,6 @@
       "duration_ms": 189510,
       "name": "Tracer des lignes",
       "url": "https://open.spotify.com/track/19G5LnSJ7Gc3fuww6Q7oET"
-    },
-    {
-      "album": {
-        "name": "Club Jade Monet",
-        "url": "https://open.spotify.com/album/0G9n8yzgBgLZf1iIySIatk"
-      },
-      "artists": [
-        {
-          "name": "Jade Monet",
-          "url": "https://open.spotify.com/artist/5AE7MlHMoaaPI9VhtYubmT"
-        }
-      ],
-      "date_added": "2026-11-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 3",
-      "url": "https://open.spotify.com/track/6zrxzGTyCr751V0RBQ0TYb"
     },
     {
       "album": {

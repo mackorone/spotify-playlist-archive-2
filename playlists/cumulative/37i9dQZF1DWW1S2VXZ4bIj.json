@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e21\u0e32\u0e41\u0e23\u0e07 \u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: atom chanakan",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e21\u0e32\u0e41\u0e23\u0e07 \u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: THE TOYS",
   "name": "\u0e2e\u0e34\u0e15\u0e15\u0e34\u0e14\u0e01\u0e23\u0e30\u0e41\u0e2a",
   "tracks": [
     {
@@ -220,7 +220,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 179062,
       "name": "ADDICTED",
       "url": "https://open.spotify.com/track/0SqDNsDiJyvrbXGsIvt0hN"
@@ -2500,7 +2500,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 216993,
       "name": "Hong Kong (feat. \u738b\u83f2\u5b63\u5019\u98a8)",
       "url": "https://open.spotify.com/track/1824ElVTa8XiWOjOlujl81"
@@ -2540,7 +2540,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 163879,
       "name": "Hurry up!",
       "url": "https://open.spotify.com/track/4qe1nS4WjshQs40dosG8Nq"
@@ -2594,7 +2594,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 233103,
       "name": "I love you a latte",
       "url": "https://open.spotify.com/track/59wHlNG8GyEBWlXKGCOnuV"
@@ -8216,7 +8216,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 213920,
       "name": "\u0e08\u0e31\u0e01\u0e23\u0e27\u0e32\u0e25\u0e44\u0e2b\u0e19 (feat. MONICA)",
       "url": "https://open.spotify.com/track/6kUGR3mPqLwcnobMQA557r"
@@ -8515,6 +8515,28 @@
     },
     {
       "album": {
+        "name": "GEN SAD",
+        "url": "https://open.spotify.com/album/3oIIsCTPPlK1WllOid73mL"
+      },
+      "artists": [
+        {
+          "name": "Lipta",
+          "url": "https://open.spotify.com/artist/2DaMrZndfGgM3yd9ivadRC"
+        },
+        {
+          "name": "fellow fellow",
+          "url": "https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232307,
+      "name": "\u0e09\u0e31\u0e19\u0e40\u0e25\u0e37\u0e2d\u0e01\u0e40\u0e0a\u0e37\u0e48\u0e2d\u0e41\u0e1a\u0e1a\u0e19\u0e35\u0e49",
+      "url": "https://open.spotify.com/track/3FAyqoma1zQMIYtVusYHtW"
+    },
+    {
+      "album": {
         "name": "\u0e09\u0e31\u0e19\u0e41\u0e2d\u0e1a\u0e0b\u0e48\u0e2d\u0e19\u0e19\u0e49\u0e33\u0e15\u0e32\u0e43\u0e15\u0e49\u0e2b\u0e19\u0e49\u0e32\u0e17\u0e35\u0e48\u0e21\u0e35\u0e23\u0e2d\u0e22\u0e22\u0e34\u0e49\u0e21",
         "url": "https://open.spotify.com/album/13ENp47hLKvUPDaJLbNxWA"
       },
@@ -8628,6 +8650,24 @@
       "duration_ms": 231473,
       "name": "\u0e0a\u0e32\u0e15\u0e34\u0e2b\u0e19\u0e49\u0e32\u0e0a\u0e49\u0e32\u0e44\u0e1b (K.O.)",
       "url": "https://open.spotify.com/track/0lQPdxfV1So2QbRrOLz0ft"
+    },
+    {
+      "album": {
+        "name": "\u0e0a\u0e35\u0e27\u0e34\u0e15\u0e04\u0e37\u0e2d\u0e2d\u0e30\u0e44\u0e23? (Winter Is Coming)",
+        "url": "https://open.spotify.com/album/23TjisvxxfW8EHT7w9U8m0"
+      },
+      "artists": [
+        {
+          "name": "THE TOYS",
+          "url": "https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177362,
+      "name": "\u0e0a\u0e35\u0e27\u0e34\u0e15\u0e04\u0e37\u0e2d\u0e2d\u0e30\u0e44\u0e23? (Winter Is Coming)",
+      "url": "https://open.spotify.com/track/7wm5UZWumOYMcynaX5R2M7"
     },
     {
       "album": {
@@ -9282,7 +9322,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 206466,
       "name": "\u0e15\u0e34\u0e14\u0e40\u0e18\u0e2d\u0e0b\u0e30\u0e01\u0e48\u0e2d\u0e19 (Sweet Baby)",
       "url": "https://open.spotify.com/track/5q2xUSTyggCisITlHEvtB1"
@@ -11397,6 +11437,24 @@
     },
     {
       "album": {
+        "name": "\u0e23\u0e30\u0e1a\u0e1a\u0e02\u0e31\u0e14\u0e02\u0e49\u0e2d\u0e07 (SOS)",
+        "url": "https://open.spotify.com/album/32XwNOmfBKvV9VWMtLPRaX"
+      },
+      "artists": [
+        {
+          "name": "BILLKIN",
+          "url": "https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193404,
+      "name": "\u0e23\u0e30\u0e1a\u0e1a\u0e02\u0e31\u0e14\u0e02\u0e49\u0e2d\u0e07 (SOS)",
+      "url": "https://open.spotify.com/track/6TcM9UKDc12Kus4bMBQaJU"
+    },
+    {
+      "album": {
         "name": "\u0e23\u0e31\u0e01 \u0e40\u0e28\u0e23\u0e49\u0e32 \u0e40\u0e2b\u0e07\u0e32 \u0e0b\u0e36\u0e21",
         "url": "https://open.spotify.com/album/5AhXNqOUnwEDQ8IBAOAOs0"
       },
@@ -13152,7 +13210,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 229400,
       "name": "\u0e2b\u0e49\u0e2d\u0e07\u0e2a\u0e35\u0e48\u0e21\u0e38\u0e21\u0e0b\u0e49\u0e32\u0e22",
       "url": "https://open.spotify.com/track/6iKeFZjXrC4Up3z460iARH"
@@ -13973,6 +14031,24 @@
     },
     {
       "album": {
+        "name": "\u0e40\u0e14\u0e4b\u0e2d",
+        "url": "https://open.spotify.com/album/68o70uKuUqEPwfFyWw4NxY"
+      },
+      "artists": [
+        {
+          "name": "JOEY PHUWASIT",
+          "url": "https://open.spotify.com/artist/5RQZVhw9dwZYc10QQfNMf1"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268000,
+      "name": "\u0e40\u0e14\u0e4b\u0e2d",
+      "url": "https://open.spotify.com/track/4e3NZ5xdfssiWxyUxLD8zh"
+    },
+    {
+      "album": {
         "name": "\u0e40\u0e15\u0e34\u0e1a\u0e42\u0e15\u0e42\u0e14\u0e22\u0e44\u0e21\u0e48\u0e21\u0e35\u0e09\u0e31\u0e19 (End Of My Turn)",
         "url": "https://open.spotify.com/album/1sLZJuUH0pNb6tf6gXTZV2"
       },
@@ -14298,7 +14374,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 244000,
       "name": "\u0e40\u0e1e\u0e35\u0e22\u0e07\u0e41\u0e04\u0e48\u0e42\u0e17\u0e23",
       "url": "https://open.spotify.com/track/48xU6P45EupODmFSIGZbWj"
@@ -14939,6 +15015,28 @@
     },
     {
       "album": {
+        "name": "\u0e40\u0e2b\u0e27\u0e35\u0e48\u0e22\u0e07 (Across The Worlds)",
+        "url": "https://open.spotify.com/album/7ETkKMdEkc66huTrJ1b9ym"
+      },
+      "artists": [
+        {
+          "name": "Tilly Birds",
+          "url": "https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH"
+        },
+        {
+          "name": "Safeplanet",
+          "url": "https://open.spotify.com/artist/1DsSoeOUg0YS2hl2czNcbw"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277531,
+      "name": "\u0e40\u0e2b\u0e27\u0e35\u0e48\u0e22\u0e07 (Across The Worlds)",
+      "url": "https://open.spotify.com/track/5RejQT5793lULsEvZWBXox"
+    },
+    {
+      "album": {
         "name": "\u0e40\u0e2d\u0e40\u0e23\u0e19\u0e40\u0e14\u0e25 (EARENDEL)",
         "url": "https://open.spotify.com/album/5xjy0OQeE3AhKyov5snKIM"
       },
@@ -15164,6 +15262,28 @@
       "duration_ms": 171262,
       "name": "\u0e41\u0e1f\u0e19\u0e43\u0e04\u0e23\u0e1b\u0e30\u0e04\u0e30 (Final Call)",
       "url": "https://open.spotify.com/track/3NoLOb2z1kWZCNNQDO9eE3"
+    },
+    {
+      "album": {
+        "name": "\u0e41\u0e1f\u0e19\u0e43\u0e2b\u0e21\u0e48...\u0e43\u0e01\u0e25\u0e49\u0e40\u0e18\u0e2d",
+        "url": "https://open.spotify.com/album/7rmkbtWWrJGnBUoaHVhP45"
+      },
+      "artists": [
+        {
+          "name": "The Parkinson",
+          "url": "https://open.spotify.com/artist/25vaRIUlu5PahDqAWeYdxR"
+        },
+        {
+          "name": "MANG",
+          "url": "https://open.spotify.com/artist/5WD4f7gUknSxaDM4JI7ETV"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219000,
+      "name": "\u0e41\u0e1f\u0e19\u0e43\u0e2b\u0e21\u0e48...\u0e43\u0e01\u0e25\u0e49\u0e40\u0e18\u0e2d",
+      "url": "https://open.spotify.com/track/0MMMiMNKp98U39LSw6KZ4B"
     },
     {
       "album": {
@@ -15664,6 +15784,24 @@
       "duration_ms": 197432,
       "name": "\u0e43\u0e08\u0e25\u0e2d\u0e22",
       "url": "https://open.spotify.com/track/3MIVadmVbWGZR0VzNceGt1"
+    },
+    {
+      "album": {
+        "name": "\u0e43\u0e08\u0e25\u0e2d\u0e22 (Join a line)",
+        "url": "https://open.spotify.com/album/0krMujtk1IHKmwbd9AZbUM"
+      },
+      "artists": [
+        {
+          "name": "NONT TANONT",
+          "url": "https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240374,
+      "name": "\u0e43\u0e08\u0e25\u0e2d\u0e22 (Join a line)",
+      "url": "https://open.spotify.com/track/7gEbFk8tNECKN2ioXrcEQS"
     },
     {
       "album": {
@@ -16170,6 +16308,24 @@
       "duration_ms": 238412,
       "name": "\u0e44\u0e21\u0e48\u0e2a\u0e19\u0e34\u0e17\u0e1a\u0e34\u0e14\u0e2b\u0e21\u0e14",
       "url": "https://open.spotify.com/track/6ywcmAqGVW2BYtDflTJB86"
+    },
+    {
+      "album": {
+        "name": "\u0e44\u0e21\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e08\u0e30\u0e40\u0e25\u0e27 (Not Bad)",
+        "url": "https://open.spotify.com/album/6JWyZ4DxRGDjcHoLf0K45B"
+      },
+      "artists": [
+        {
+          "name": "Z9",
+          "url": "https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200439,
+      "name": "\u0e44\u0e21\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e08\u0e30\u0e40\u0e25\u0e27 (Not Bad)",
+      "url": "https://open.spotify.com/track/35twBI2bQPkDTRvmkKgyGb"
     },
     {
       "album": {

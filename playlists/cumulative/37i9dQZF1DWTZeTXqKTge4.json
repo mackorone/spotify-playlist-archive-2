@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Le rap qu\u00e9b\u00e9cois, servi tout frais tout chaud. Photo: Rymz",
+  "description": "Le rap qu\u00e9b\u00e9cois, servi tout frais tout chaud. Photo: Souldia, Cupidon",
   "name": "Rap qu\u00e9b",
   "tracks": [
     {
@@ -1210,6 +1210,24 @@
       "duration_ms": 153600,
       "name": "ADN D'ANGE",
       "url": "https://open.spotify.com/track/5Qm5K4JiezLKYRg6DYINbK"
+    },
+    {
+      "album": {
+        "name": "ADVIENNE QUE POURRA",
+        "url": "https://open.spotify.com/album/6Hb1cDr8f0QhixPK6FHQLF"
+      },
+      "artists": [
+        {
+          "name": "Slim Tony",
+          "url": "https://open.spotify.com/artist/3IkO9xp9IuK0iQhMjuPf0J"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180777,
+      "name": "ADVIENNE QUE POURRA",
+      "url": "https://open.spotify.com/track/1YW51VEV6FlzxNPmpN0lnR"
     },
     {
       "album": {
@@ -3418,7 +3436,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 107979,
       "name": "BITCHBOYJCONNAISLECODE",
       "url": "https://open.spotify.com/track/076bEvi8q0TxZYXwOgnoI3"
@@ -4268,7 +4286,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 147688,
       "name": "BUS DE NUIT",
       "url": "https://open.spotify.com/track/2hkxolcS7vFyCbUK9IiMyZ"
@@ -10796,7 +10814,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 162463,
       "name": "GO!",
       "url": "https://open.spotify.com/track/42sI53SPPbSRl2CsmmuNFG"
@@ -13191,6 +13209,28 @@
     },
     {
       "album": {
+        "name": "Jusqu'\u00e0 la fin",
+        "url": "https://open.spotify.com/album/0CrDF44c8Ey2nWA1IgraZH"
+      },
+      "artists": [
+        {
+          "name": "Souldia",
+          "url": "https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1"
+        },
+        {
+          "name": "Cupidon",
+          "url": "https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229166,
+      "name": "Jusqu'\u00e0 la fin",
+      "url": "https://open.spotify.com/track/3IbDdbg3b1VpuibC9Aj753"
+    },
+    {
+      "album": {
         "name": "Mountain's Music",
         "url": "https://open.spotify.com/album/0s3vZkWjtFsa7t3FQfacPk"
       },
@@ -14334,6 +14374,32 @@
       "duration_ms": 163076,
       "name": "LARA CROFT",
       "url": "https://open.spotify.com/track/6ttWnL330KbC0ZsoidcjNO"
+    },
+    {
+      "album": {
+        "name": "Les maux de la faim",
+        "url": "https://open.spotify.com/album/3l65WfdPz7K4XXJDzfk7QV"
+      },
+      "artists": [
+        {
+          "name": "Monk.E",
+          "url": "https://open.spotify.com/artist/0iA2L1Fbkwp3PxiSD22Uou"
+        },
+        {
+          "name": "SeinsSucrer",
+          "url": "https://open.spotify.com/artist/6AFFCSzexIvA2fBeEpe0nP"
+        },
+        {
+          "name": "Swift Guad",
+          "url": "https://open.spotify.com/artist/7MqaRBgnaFIndVIYwC43AP"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "Larme noire p\u00e9trole",
+      "url": "https://open.spotify.com/track/2hcceb7DpHBBBJypSSHGag"
     },
     {
       "album": {
@@ -16630,7 +16696,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 146666,
       "name": "MILLYTAIRE",
       "url": "https://open.spotify.com/track/7eLx3e21I74md5P9JLsvC8"
@@ -22918,7 +22984,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 153039,
       "name": "R\u00e9unir",
       "url": "https://open.spotify.com/track/53ZWTMIpYchWU6WIw5qK6R"
@@ -23700,7 +23766,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-07",
+      "date_removed": null,
       "duration_ms": 245950,
       "name": "SEPT ANS DE MALHEUR (titre permanent)",
       "url": "https://open.spotify.com/track/3Eu93yOFSnRVWLWhOgOn1z"
@@ -23740,7 +23806,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 177687,
       "name": "SEUL AU MONDE",
       "url": "https://open.spotify.com/track/1j7g9EtBDgtfF4aEgMMcCs"
@@ -26165,6 +26231,24 @@
     },
     {
       "album": {
+        "name": "Trop cher",
+        "url": "https://open.spotify.com/album/5jMCsH6hG3ku90q4wDQhpm"
+      },
+      "artists": [
+        {
+          "name": "Gnino",
+          "url": "https://open.spotify.com/artist/03sPkUqjLbCXdxu3e46T3H"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118153,
+      "name": "Trop cher",
+      "url": "https://open.spotify.com/track/5xY3jwHwFm18fYNQlnw6tf"
+    },
+    {
+      "album": {
         "name": "Mon boy",
         "url": "https://open.spotify.com/album/3GrwegDfPCjoMqUIRhzuOc"
       },
@@ -26486,6 +26570,24 @@
       "duration_ms": 133548,
       "name": "Un dollar",
       "url": "https://open.spotify.com/track/1cnF641QNII6fR1Tm32oIR"
+    },
+    {
+      "album": {
+        "name": "Un jour \u00e0 la fois",
+        "url": "https://open.spotify.com/album/5KrFA22BwoniTYyI4ozy8e"
+      },
+      "artists": [
+        {
+          "name": "Farfadet",
+          "url": "https://open.spotify.com/artist/3n6sDQ5wLfb9GpJaKcEaPB"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150324,
+      "name": "Un jour \u00e0 la fois",
+      "url": "https://open.spotify.com/track/2HDgOIFnASPMXt0VQNk0u1"
     },
     {
       "album": {

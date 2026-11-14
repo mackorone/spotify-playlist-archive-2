@@ -5605,6 +5605,28 @@
     },
     {
       "album": {
+        "name": "It Goes On & On",
+        "url": "https://open.spotify.com/album/3KLlRdfVbenRddY5OeLDVu"
+      },
+      "artists": [
+        {
+          "name": "FLOREL",
+          "url": "https://open.spotify.com/artist/1OskqUmgp7ro1aIxZbNEhk"
+        },
+        {
+          "name": "Always Kura",
+          "url": "https://open.spotify.com/artist/6UQIGyYs4qP10XxKD9rh4h"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154196,
+      "name": "It Goes On & On",
+      "url": "https://open.spotify.com/track/0a0v86R8XEJC4b516EMdKM"
+    },
+    {
+      "album": {
         "name": "I\u2019ll Find My Way To You",
         "url": "https://open.spotify.com/album/21DMxcktIoXJynH4cUBz1F"
       },
@@ -6466,6 +6488,28 @@
       "duration_ms": 224000,
       "name": "Love Me The Same",
       "url": "https://open.spotify.com/track/4RDgkhNm5TJKW2Qe24OOYW"
+    },
+    {
+      "album": {
+        "name": "Love Somebody",
+        "url": "https://open.spotify.com/album/5WCPkOPjp33pGzwh8dKfE0"
+      },
+      "artists": [
+        {
+          "name": "Astrality",
+          "url": "https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ"
+        },
+        {
+          "name": "Jasmine Thompson",
+          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170357,
+      "name": "Love Somebody",
+      "url": "https://open.spotify.com/track/09djcF8F7xYEcHBILI7xhH"
     },
     {
       "album": {

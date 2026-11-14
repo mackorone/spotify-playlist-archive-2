@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume. Cover: The Womack Sisters",
-  "num_followers": 65651,
+  "num_followers": 65652,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
@@ -411,22 +411,6 @@
     {
       "added_at": "2026-11-08 19:40:25",
       "album": {
-        "name": "Get Hit",
-        "url": "https://open.spotify.com/album/7sSFmJP0EC5o4HqYwYSBch"
-      },
-      "artists": [
-        {
-          "name": "Trim",
-          "url": "https://open.spotify.com/artist/1xkEwol8vsfO4m2WP8Dyk9"
-        }
-      ],
-      "duration_ms": 114928,
-      "name": "Get Hit",
-      "url": "https://open.spotify.com/track/1yH6JkYm9GvAEYysxrcrE3"
-    },
-    {
-      "added_at": "2026-11-08 19:40:25",
-      "album": {
         "name": "A Girl Is A Gun",
         "url": "https://open.spotify.com/album/7BfoT6cWpsK6Qs4udIVuUB"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 125142,
       "name": "Throw That Money",
       "url": "https://open.spotify.com/track/4QYMDDTvN9aSYAeXjmCv29"
+    },
+    {
+      "added_at": "2026-11-08 19:40:25",
+      "album": {
+        "name": "Get Hit",
+        "url": "https://open.spotify.com/album/7sSFmJP0EC5o4HqYwYSBch"
+      },
+      "artists": [
+        {
+          "name": "Trim",
+          "url": "https://open.spotify.com/artist/1xkEwol8vsfO4m2WP8Dyk9"
+        }
+      ],
+      "duration_ms": 114928,
+      "name": "Get Hit",
+      "url": "https://open.spotify.com/track/1yH6JkYm9GvAEYysxrcrE3"
     },
     {
       "added_at": "2026-11-08 19:40:25",
@@ -591,22 +591,6 @@
     {
       "added_at": "2026-11-08 19:40:25",
       "album": {
-        "name": "I Love You, or Whatever",
-        "url": "https://open.spotify.com/album/5HPRb2tueCP2qFJFbRLHPc"
-      },
-      "artists": [
-        {
-          "name": "Katherine Li",
-          "url": "https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI"
-        }
-      ],
-      "duration_ms": 173253,
-      "name": "Hate Her Enough",
-      "url": "https://open.spotify.com/track/0oHC9pm1PuEglAIuSByBFD"
-    },
-    {
-      "added_at": "2026-11-08 19:40:25",
-      "album": {
         "name": "Crucified",
         "url": "https://open.spotify.com/album/3tIOkJNW020tMZq0zq7D8A"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 190680,
       "name": "Crucified",
       "url": "https://open.spotify.com/track/1nXjpHh6L97kyDHsQPhdO1"
+    },
+    {
+      "added_at": "2026-11-08 19:40:25",
+      "album": {
+        "name": "I Love You, or Whatever",
+        "url": "https://open.spotify.com/album/5HPRb2tueCP2qFJFbRLHPc"
+      },
+      "artists": [
+        {
+          "name": "Katherine Li",
+          "url": "https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI"
+        }
+      ],
+      "duration_ms": 173253,
+      "name": "Hate Her Enough",
+      "url": "https://open.spotify.com/track/0oHC9pm1PuEglAIuSByBFD"
     },
     {
       "added_at": "2026-11-08 19:40:25",
@@ -639,18 +639,18 @@
     {
       "added_at": "2026-11-08 19:40:25",
       "album": {
-        "name": "Shipwrecked",
-        "url": "https://open.spotify.com/album/64kuUoeQLBnDHWjxUFEwdh"
+        "name": "Spin Back",
+        "url": "https://open.spotify.com/album/2hIV6f9VUhYaKf26ZTuXQH"
       },
       "artists": [
         {
-          "name": "Izzy Escobar",
-          "url": "https://open.spotify.com/artist/63iuP8EumHpqaaMKyi0pxO"
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
         }
       ],
-      "duration_ms": 192200,
-      "name": "Shipwrecked",
-      "url": "https://open.spotify.com/track/5geDH5qB7P6lT5VJwkcJLa"
+      "duration_ms": 192396,
+      "name": "Spin Back",
+      "url": "https://open.spotify.com/track/7ufI8oEpE9ScdibU1OMAtK"
     },
     {
       "added_at": "2026-11-08 19:40:25",
@@ -675,18 +675,18 @@
     {
       "added_at": "2026-11-08 19:40:25",
       "album": {
-        "name": "Spin Back",
-        "url": "https://open.spotify.com/album/2hIV6f9VUhYaKf26ZTuXQH"
+        "name": "Shipwrecked",
+        "url": "https://open.spotify.com/album/64kuUoeQLBnDHWjxUFEwdh"
       },
       "artists": [
         {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+          "name": "Izzy Escobar",
+          "url": "https://open.spotify.com/artist/63iuP8EumHpqaaMKyi0pxO"
         }
       ],
-      "duration_ms": 192396,
-      "name": "Spin Back",
-      "url": "https://open.spotify.com/track/7ufI8oEpE9ScdibU1OMAtK"
+      "duration_ms": 192200,
+      "name": "Shipwrecked",
+      "url": "https://open.spotify.com/track/5geDH5qB7P6lT5VJwkcJLa"
     },
     {
       "added_at": "2026-11-08 19:40:25",
@@ -739,22 +739,6 @@
     {
       "added_at": "2026-11-08 19:40:25",
       "album": {
-        "name": "Isn't That Sweet?",
-        "url": "https://open.spotify.com/album/3wqrUSyblqilEKanMoRpWw"
-      },
-      "artists": [
-        {
-          "name": "OSTON",
-          "url": "https://open.spotify.com/artist/4PR77KtW5drJXCsqcyfuzJ"
-        }
-      ],
-      "duration_ms": 236400,
-      "name": "Sorta, kinda",
-      "url": "https://open.spotify.com/track/3Upct5fD1ec5RSOqEvJJut"
-    },
-    {
-      "added_at": "2026-11-08 19:40:25",
-      "album": {
         "name": "Lovers",
         "url": "https://open.spotify.com/album/3WilUQCyrwSCmiZ0mLZ9yi"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 262401,
       "name": "Lovers",
       "url": "https://open.spotify.com/track/1RNQC5wa8N94Go2DUcOzvx"
+    },
+    {
+      "added_at": "2026-11-08 19:40:25",
+      "album": {
+        "name": "Isn't That Sweet?",
+        "url": "https://open.spotify.com/album/3wqrUSyblqilEKanMoRpWw"
+      },
+      "artists": [
+        {
+          "name": "OSTON",
+          "url": "https://open.spotify.com/artist/4PR77KtW5drJXCsqcyfuzJ"
+        }
+      ],
+      "duration_ms": 236400,
+      "name": "Sorta, kinda",
+      "url": "https://open.spotify.com/track/3Upct5fD1ec5RSOqEvJJut"
     },
     {
       "added_at": "2026-11-08 19:40:25",
@@ -823,22 +823,6 @@
     {
       "added_at": "2026-11-08 19:40:25",
       "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/5K2vTpujgKWvx4qJNYpxYW"
-      },
-      "artists": [
-        {
-          "name": "Leslie Perez",
-          "url": "https://open.spotify.com/artist/2NUERBKvU6ghDuqmLReybs"
-        }
-      ],
-      "duration_ms": 196026,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/18fGxP6u7Nz8IGI2fdcD1D"
-    },
-    {
-      "added_at": "2026-11-08 19:40:25",
-      "album": {
         "name": "Accelerator",
         "url": "https://open.spotify.com/album/5ewq7Et7TBRwMpfe8isABW"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 179008,
       "name": "Accelerator",
       "url": "https://open.spotify.com/track/7gDi0QqxumuoiZDvjtX4et"
+    },
+    {
+      "added_at": "2026-11-08 19:40:25",
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/5K2vTpujgKWvx4qJNYpxYW"
+      },
+      "artists": [
+        {
+          "name": "Leslie Perez",
+          "url": "https://open.spotify.com/artist/2NUERBKvU6ghDuqmLReybs"
+        }
+      ],
+      "duration_ms": 196026,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/18fGxP6u7Nz8IGI2fdcD1D"
     },
     {
       "added_at": "2026-11-08 19:40:25",
@@ -875,22 +875,6 @@
     {
       "added_at": "2026-11-08 19:40:25",
       "album": {
-        "name": "Next to U",
-        "url": "https://open.spotify.com/album/6SYQg3WfLlnZujAcxV0eC4"
-      },
-      "artists": [
-        {
-          "name": "DJ_Dave",
-          "url": "https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme"
-        }
-      ],
-      "duration_ms": 176028,
-      "name": "Next to U",
-      "url": "https://open.spotify.com/track/5BHJmo8PQScGQA8QygEIfm"
-    },
-    {
-      "added_at": "2026-11-08 19:40:25",
-      "album": {
         "name": "You're So Vain - Spotify Singles",
         "url": "https://open.spotify.com/album/1kKcUBgm2zIAirXfgOGzml"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 288707,
       "name": "You're So Vain - Spotify Singles",
       "url": "https://open.spotify.com/track/7sSha1h81udZIjKJgnShkJ"
+    },
+    {
+      "added_at": "2026-11-08 19:40:25",
+      "album": {
+        "name": "Next to U",
+        "url": "https://open.spotify.com/album/6SYQg3WfLlnZujAcxV0eC4"
+      },
+      "artists": [
+        {
+          "name": "DJ_Dave",
+          "url": "https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme"
+        }
+      ],
+      "duration_ms": 176028,
+      "name": "Next to U",
+      "url": "https://open.spotify.com/track/5BHJmo8PQScGQA8QygEIfm"
     }
   ],
   "unique_name": "EQUAL US",

@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 32059,
+  "num_followers": 32060,
   "original_name": "Ninja Tune // New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "AAASa+i+o2S2WffiFSgMi17WPmxmUta1",
+  "snapshot_id": "AAASdXRbRLP6pMqDEstYE/AV+MQfPNN8",
   "tracks": [
     {
       "added_at": "2026-10-20 19:13:48",
@@ -141,6 +141,26 @@
       "url": "https://open.spotify.com/track/1OGSuaHoXuG38NI37n6dli"
     },
     {
+      "added_at": "2026-11-13 11:10:56",
+      "album": {
+        "name": "Corner",
+        "url": "https://open.spotify.com/album/4CtBGjkZQCToiL7hl5Auq2"
+      },
+      "artists": [
+        {
+          "name": "nimino",
+          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
+        },
+        {
+          "name": "Manta",
+          "url": "https://open.spotify.com/artist/6AGlSGZh0z7CwUXEnFYXyJ"
+        }
+      ],
+      "duration_ms": 269538,
+      "name": "I Should Say It More",
+      "url": "https://open.spotify.com/track/1LT0NUK3VIQrJIuHiqYPi4"
+    },
+    {
       "added_at": "2026-09-11 11:31:51",
       "album": {
         "name": "Distance in Static",
@@ -213,6 +233,62 @@
       "url": "https://open.spotify.com/track/1T649fr2klZ11hjPH5MZfC"
     },
     {
+      "added_at": "2026-11-13 11:11:12",
+      "album": {
+        "name": "The Sun",
+        "url": "https://open.spotify.com/album/78XbGK7E58bZuKdG30UlYQ"
+      },
+      "artists": [
+        {
+          "name": "Nohr",
+          "url": "https://open.spotify.com/artist/5ksOqe4QEaUjadayPHNX82"
+        }
+      ],
+      "duration_ms": 147840,
+      "name": "The Sun",
+      "url": "https://open.spotify.com/track/5NQMv0smXYCkzRAY1IbzIN"
+    },
+    {
+      "added_at": "2026-11-13 11:10:56",
+      "album": {
+        "name": "Corner",
+        "url": "https://open.spotify.com/album/4CtBGjkZQCToiL7hl5Auq2"
+      },
+      "artists": [
+        {
+          "name": "nimino",
+          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
+        },
+        {
+          "name": "Mike Kota",
+          "url": "https://open.spotify.com/artist/4XQTByA2uvyebfXRZFseV6"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Corner",
+      "url": "https://open.spotify.com/track/0jhteVaVClH9nCq2l7VIrD"
+    },
+    {
+      "added_at": "2026-10-20 19:13:48",
+      "album": {
+        "name": "Gas / Ultra / Equarium",
+        "url": "https://open.spotify.com/album/1Ur1wF6EXdDnUw2mpIWTJL"
+      },
+      "artists": [
+        {
+          "name": "BICEP",
+          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
+        },
+        {
+          "name": "Kehina",
+          "url": "https://open.spotify.com/artist/3vdW9X7Us4XMYguRhcoiIx"
+        }
+      ],
+      "duration_ms": 250920,
+      "name": "Equarium",
+      "url": "https://open.spotify.com/track/1bv7LMT6oeJUwIcLh3xJ5p"
+    },
+    {
       "added_at": "2026-07-29 14:05:56",
       "album": {
         "name": "K-Bar",
@@ -243,26 +319,6 @@
       "duration_ms": 229484,
       "name": "Dreamers",
       "url": "https://open.spotify.com/track/0Ct9VBzh0DOFM33b1QNbsb"
-    },
-    {
-      "added_at": "2026-10-20 19:13:48",
-      "album": {
-        "name": "Gas / Ultra / Equarium",
-        "url": "https://open.spotify.com/album/1Ur1wF6EXdDnUw2mpIWTJL"
-      },
-      "artists": [
-        {
-          "name": "BICEP",
-          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
-        },
-        {
-          "name": "Kehina",
-          "url": "https://open.spotify.com/artist/3vdW9X7Us4XMYguRhcoiIx"
-        }
-      ],
-      "duration_ms": 250920,
-      "name": "Equarium",
-      "url": "https://open.spotify.com/track/1bv7LMT6oeJUwIcLh3xJ5p"
     },
     {
       "added_at": "2026-10-22 15:37:38",

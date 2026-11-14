@@ -4,7 +4,7 @@
 
 > håll det 100.
 
-2,486 songs - 4 day 9 hr 23 min
+2,487 songs - 4 day 9 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -688,6 +688,7 @@
 | [En kvinna](https://open.spotify.com/track/1EMIIKoPYKELjVp1gVO4Uf) | [Nisch](https://open.spotify.com/artist/7smlmmfx2RNvzQIebdSpVU) | [En kvinna](https://open.spotify.com/album/1kczuZfv0VNtT5EwD8wUcj) | 2:45 | 2026-03-12 | 2026-05-08 |
 | [En kväll i en gränd](https://open.spotify.com/track/3nlDhlBQiXO9XZjQKYD8Yh) | [STOR](https://open.spotify.com/artist/4XLISC9SzRTcR34fosyMtw), [Adam Aden](https://open.spotify.com/artist/3tEZ6bzTrFzApPwyyUlADz) | [En kväll i en gränd](https://open.spotify.com/album/4ufjdT9uaUphHRsWlPwgMa) | 2:19 | 2023-05-03 | 2023-05-26 |
 | [En Ny Dörr](https://open.spotify.com/track/5ewQmQ5UkBiV4g6O2NhP0m) | [Nisch](https://open.spotify.com/artist/7smlmmfx2RNvzQIebdSpVU) | [En Ny Dörr](https://open.spotify.com/album/3K7pVp1R2Ql80Q2fNB0Y1K) | 2:38 | 2022-07-28 | 2022-08-19 |
+| [EN OCH EN](https://open.spotify.com/track/75h6kK6Z18IAipT2L53n2F) | [P.J](https://open.spotify.com/artist/26SfC2rUkcGiSpZfLtla29), [SH1](https://open.spotify.com/artist/6Vvqvx0OeiN43dllxyk4fB) | [PARKEN OCH HUSBY](https://open.spotify.com/album/0WCpUZuKppgxxH39nAVqJl) | 2:05 | 2026-11-13 |  |
 | [En På Miljonen](https://open.spotify.com/track/15AvJAUWbPQZP6kpkJHphK) | [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5) | [En På Miljonen](https://open.spotify.com/album/14BAC0uzNxdxuJhmHVSR0u) | 2:08 | 2024-03-07 | 2024-05-03 |
 | [En sista gång](https://open.spotify.com/track/57vMYC7CSTajC4yporDijh) | [Montana](https://open.spotify.com/artist/4klH9sjw1BjPGzibWyZaIj) | [En sista gång](https://open.spotify.com/album/3a2uEbGhl4uBifg1rdBAbe) | 2:06 | 2025-11-27 | 2026-03-20 |
 | [En sista gång](https://open.spotify.com/track/59gjiR00mvfLrGRwFLhxCo) | [Zius](https://open.spotify.com/artist/2fuavXGFyYPgM3UrbCnBKA) | [En sista gång](https://open.spotify.com/album/68oSNCwaTxD7Sarr9dXblG) | 2:25 | 2025-05-22 | 2025-08-08 |
@@ -704,7 +705,7 @@
 | [Ett Glas](https://open.spotify.com/track/7gwuSvvrzy6icRYDg8tWwh) | [Mohelá](https://open.spotify.com/artist/4EukF0aMNL8Cc5kUSNsXPZ) | [Ett Glas](https://open.spotify.com/album/4gsuOvu33iLBs2VzMRkIJo) | 1:50 | 2025-10-30 | 2026-03-13 |
 | [Ett sånt liv](https://open.spotify.com/track/66BWBr4Tom5UfE9unLrgq7) | [Jacco](https://open.spotify.com/artist/1U8lN2i4lHmZqDerkVNKWk), [Masse](https://open.spotify.com/artist/4YZ9Me6cB52GpYwzaC2MQN) | [Ett sånt liv](https://open.spotify.com/album/1EoIAOHohKj46AQgzHRb39) | 4:16 | 2022-04-21 | 2022-06-03 |
 | [Eu Te Amo](https://open.spotify.com/track/0QH0UeDEAhRpRqgD1e7cqU) | [JIREEL](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [Eyes Don't Lie](https://open.spotify.com/album/1xsEi04labtfeYTv7D6uAZ) | 3:27 | 2026-05-21 | 2026-09-04 |
-| [euro](https://open.spotify.com/track/5FDOtJIwTqcxRHngR0uNR9) | [INOMI](https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2) | [euro](https://open.spotify.com/album/4E5ALh3loZ5XTJzTwX9pZX) | 5:04 | 2026-08-27 |  |
+| [euro](https://open.spotify.com/track/5FDOtJIwTqcxRHngR0uNR9) | [INOMI](https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2) | [euro](https://open.spotify.com/album/4E5ALh3loZ5XTJzTwX9pZX) | 5:04 | 2026-08-27 | 2026-11-14 |
 | [Euro](https://open.spotify.com/track/4ryCepwC2gA7Tbhq2LRmvI) | [LaStreet](https://open.spotify.com/artist/3mtBkhDY1zfMwTeUJxLRZj) | [Vägen in](https://open.spotify.com/album/0smEsXiVAXkvD59HHKpMxh) | 2:24 | 2025-01-09 | 2025-04-11 |
 | [EURO & KRONOR](https://open.spotify.com/track/0L37clseWYmcdXsAvuCAb1) | [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU), [NBLNATION](https://open.spotify.com/artist/6n1wmwNagseQaWrmAkpcE6) | [EURO & KRONOR](https://open.spotify.com/album/4dTsPKpxGRtnkuOAdSenfe) | 2:05 | 2025-10-09 | 2026-02-13 |
 | [EUROSTAR](https://open.spotify.com/track/46gf5ClsKEE6P2B7Kd7vCi) | [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5), [Deno](https://open.spotify.com/artist/58ICshZ0AgBMNJiLHK3U8l), [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [EUROSTAR](https://open.spotify.com/album/6eJDqX0k8DbyYQHqeai3uT) | 2:36 | 2025-01-09 | 2025-04-11 |

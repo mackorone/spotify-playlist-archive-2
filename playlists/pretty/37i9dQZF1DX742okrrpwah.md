@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > SDM, Joseph Kamel, U2 x Dolly Parton et Marine x Danyl au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 417,768 likes - 112 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 418,230 likes - 112 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 26 | [Brûlant](https://open.spotify.com/track/4hxjndXQqzi7EuwDHL6HrS) | [Kyo](https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok) | [Dark City Part 1](https://open.spotify.com/album/44My1buzFPUn1JFfA47Z9f) | 2:31 |
 | 27 | [Love and War](https://open.spotify.com/track/0jUbxpqqfO3VilQX7Mf793) | [Seyi Shay](https://open.spotify.com/artist/0WgwOS7j1CB5tIRa4QM50K), [Vegedream](https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd) | [Love and War](https://open.spotify.com/album/3yAQk1Ya8LStTPStSi3n3p) | 4:08 |
 | 28 | [Without My Strings](https://open.spotify.com/track/32oNxFi2dBftVTPKsMJcpc) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Without My Strings](https://open.spotify.com/album/75ICiuYySDUpwRAU6I9h3E) | 3:10 |
-| 29 | [Why Not \(feat\. Quavo & Loe Shimmy\)](https://open.spotify.com/track/3ag3REuwHRHF8kYQffQ8pn) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax) | [GMFU](https://open.spotify.com/album/0sjhU3kzHU2dfd6SVrzLIp) | 2:49 |
+| 29 | [Why Not? \(feat\. Quavo & Loe Shimmy\)](https://open.spotify.com/track/3ag3REuwHRHF8kYQffQ8pn) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax) | [GMFU](https://open.spotify.com/album/0sjhU3kzHU2dfd6SVrzLIp) | 2:49 |
 | 30 | [AVEC TOI <3](https://open.spotify.com/track/6ay0TPimoYbapVuEz04uBS) | [sheng](https://open.spotify.com/artist/0mAIVu2rtpW9TYcbp88wqn), [lou.is.dancing](https://open.spotify.com/artist/4gbREU4Hwqaky88SkaZ1hY) | [cry\_baby](https://open.spotify.com/album/6rnxZLBYUNEsyCMsoWXehp) | 2:53 |
 | 31 | [In My Aura](https://open.spotify.com/track/6WSMienBYa0oo8ZtUyhQOa) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ) | [In My Aura](https://open.spotify.com/album/16Lq6XsyZNjkMEIgkiQieX) | 3:22 |
 | 32 | [Tu resteras mon plus beau souvenir](https://open.spotify.com/track/4anBGMPgszd7Ddt2Qk7bPH) | [Julien Clerc](https://open.spotify.com/artist/7gVzeNvBbUpj6PXX5ekCMs) | [Une vie \(Édition collector\)](https://open.spotify.com/album/1glQCJIVnqFRHQtfkLg8td) | 3:06 |

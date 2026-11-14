@@ -4,7 +4,7 @@
 
 > Current indie tunes from Asia and around the world\. Cover: yeule
 
-2,835 songs - 7 day 2 hr 16 min
+2,835 songs - 7 day 2 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -366,7 +366,7 @@
 | [Butterfly](https://open.spotify.com/track/4chq9VXft5AQy5ytIjh9jE) | [Numcha](https://open.spotify.com/artist/6bguntfj9ZnX1lFvSYl72d) | [Butterfly](https://open.spotify.com/album/59aMdKZVNkLZzYHkg9YIwU) | 3:32 | 2021-12-16 | 2022-01-14 |
 | [Butterfly Net \(feat\. Weyes Blood\)](https://open.spotify.com/track/0NL61fJiDf07EAd2HzsNCW) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a), [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [Butterfly Net \(feat\. Weyes Blood\)](https://open.spotify.com/album/3rxjw1Di3SRicz2Z4eE4Pb) | 5:33 | 2024-02-15 | 2024-04-13 |
 | [bye<3](https://open.spotify.com/track/6LrOegJFrpML859y73HkpS) | [luv](https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB) | [bye<3](https://open.spotify.com/album/62l6WIYBl2b17KWP3H4qZd) | 3:35 | 2026-04-23 | 2026-05-22 |
-| [C'mon Caroline](https://open.spotify.com/track/04KeNT4krk7FCBoGV1j1jh) | [GRANT](https://open.spotify.com/artist/6SkVKlAmIWVD0LQvCGQqSj) | [C'mon Caroline](https://open.spotify.com/album/7ocOBer43mULvqsTrET2Ng) | 3:15 | 2026-10-08 |  |
+| [C'mon Caroline](https://open.spotify.com/track/04KeNT4krk7FCBoGV1j1jh) | [Grant](https://open.spotify.com/artist/6SkVKlAmIWVD0LQvCGQqSj) | [C'mon Caroline](https://open.spotify.com/album/7ocOBer43mULvqsTrET2Ng) | 3:15 | 2026-10-08 |  |
 | [Cadillac](https://open.spotify.com/track/1UfBoOR19ZMYASHCu60yfl) | [Patinda](https://open.spotify.com/artist/0phlhzC4Oi9uh5yJCFQtdH) | [Cadillac](https://open.spotify.com/album/4fhBoDPPc6EXjQvKuMfHbm) | 2:27 | 2022-07-01 | 2022-08-05 |
 | [Caesar on a TV Screen](https://open.spotify.com/track/1Eysrn2oD2cIuuFQD1Iu2G) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Caesar on a TV Screen](https://open.spotify.com/album/5NWTTPxklDD8ed31edYo5V) | 3:49 | 2024-01-16 | 2024-02-16 |
 | [Cain Said To Abel](https://open.spotify.com/track/2Tjp4JjVewJ4TpRGWHhnsB) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [A Weekend In The City B\-Sides](https://open.spotify.com/album/1tQaGcppkaitKo9xTE3WQy) | 3:23 | 2024-11-22 | 2025-02-15 |
@@ -2033,6 +2033,7 @@
 | [Sacred Soil](https://open.spotify.com/track/2qHHlaoTV2yLEzHYFB9LWy) | [SCALLER](https://open.spotify.com/artist/6IjWOreXe5zdIiRpDD4stM), [IKLIM](https://open.spotify.com/artist/13RkP9NAGg67uIHcFWsdSS) | [Sacred Soil](https://open.spotify.com/album/2GtHXXH1DOMA9bgUs81WoF) | 5:00 | 2025-10-16 | 2026-02-10 |
 | [sad disco](https://open.spotify.com/track/2AuvCgODcdFVPHdErDoQuY) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [sad disco](https://open.spotify.com/album/6b8x1yW2fvpElEYMnJzkGl) | 3:03 | 2022-03-24 | 2022-04-08 |
 | [sad girl](https://open.spotify.com/track/1C4qmPFkEXh7jfJYZG4KjM) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [sad girl](https://open.spotify.com/album/38q4VehB1wdiNUPOoO7JfN) | 2:28 | 2023-07-21 | 2023-10-21 |
+| [Sad Girl \(feat\. Ichika Nito & Gabba\)](https://open.spotify.com/track/735s7kB0oA5PXgXtiSZLMG) | [NEW LORE](https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E), [Ichika Nito](https://open.spotify.com/artist/1v7B6ZWa7QRQS3knn3Jvf4), [Gabba](https://open.spotify.com/artist/6tvCQZS4d1wJ9cA9Gl0ZqP) | [Very Ancient Way of Crying](https://open.spotify.com/album/3xbauaiHd7Ah6wzGjfmoYo) | 3:22 | 2026-11-12 |  |
 | [Sad Love Song](https://open.spotify.com/track/15qWHBkl93PoaHpGWrQnbG) | [Peej](https://open.spotify.com/artist/1fERpjPPt0AJDpT3p7NbiP) | [Sad Love Song](https://open.spotify.com/album/4OxlcjQEvYpuz135kKMhiZ) | 4:26 | 2023-08-18 | 2023-09-01 |
 | [Sad to Breathe](https://open.spotify.com/track/1NtoOI83OIXz4NXPj2VaKV) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Sad to Breathe](https://open.spotify.com/album/0sGBhfoO2V3a2gJejL2Li6) | 3:34 | 2023-04-21 | 2023-06-17 |
 | [Sadie Hawkins Prom](https://open.spotify.com/track/4pcACeh4E6y7UraJbukR5h) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Sadie Hawkins Prom](https://open.spotify.com/album/4wzK5q2gMTURbtmG7mnK0g) | 2:14 | 2023-12-06 | 2024-02-09 |
@@ -2551,7 +2552,6 @@
 | [Touching Yourself](https://open.spotify.com/track/1HfsmNlg8xxhOr9N2i4Q0n) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [In the End It Always Does](https://open.spotify.com/album/1pflleeGIJGEAillSnSetf) | 3:01 | 2023-06-30 | 2023-09-01 |
 | [Towers](https://open.spotify.com/track/4rMzUBEVw3YaU7xelkCgYR) | [Hundred Waters](https://open.spotify.com/artist/108ugtkRFQzP9nGgNiyERO) | [Towers](https://open.spotify.com/album/7gW79aYrfQFx0eAyh8Ag1e) | 4:59 | 2024-06-14 | 2024-07-12 |
 | [Townies](https://open.spotify.com/track/2deA4WXDrTa7jAZuaIAeqo) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Bleeds](https://open.spotify.com/album/29HKbQ2pgXgElTnH66mFXK) | 3:15 | 2025-09-19 | 2025-11-15 |
-| [Track 3](https://open.spotify.com/track/735s7kB0oA5PXgXtiSZLMG) | [NEW LORE](https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E) | [Very Ancient Way of Crying](https://open.spotify.com/album/3xbauaiHd7Ah6wzGjfmoYo) | 0:00 | 2026-11-12 |  |
 | [Trance State](https://open.spotify.com/track/29gYlp6J0JdpainJfejuge) | [Suede](https://open.spotify.com/artist/6PHIK3kjWggLtVygsOtpqS) | [Trance State](https://open.spotify.com/album/6jA72KxmV3zGZ54umCGzc6) | 4:23 | 2025-06-13 | 2025-09-05 |
 | [Transmuted Matter](https://open.spotify.com/track/5uC8IfgKCq9RJucC3hNkOM) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Instant Holograms On Metal Film](https://open.spotify.com/album/5nS7jRCPubnZF0OsXEM0D7) | 4:16 | 2025-05-29 | 2025-06-06 |
 | [Transmuted Matter](https://open.spotify.com/track/7zURyQnzkBzFygOxIDdyTf) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Transmuted Matter](https://open.spotify.com/album/6QkrEzypKMm9yt90JpeY6U) | 4:16 | 2025-05-23 | 2025-06-06 |

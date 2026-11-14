@@ -1,6 +1,6 @@
 {
   "description": "Jazzy love songs. Cover: Lady Gaga & Tony Bennett",
-  "num_followers": 1300266,
+  "num_followers": 1300272,
   "original_name": "Jazzy Romance",
   "owner": {
     "name": "Spotify",
@@ -347,22 +347,6 @@
     {
       "added_at": "2026-09-25 08:21:10",
       "album": {
-        "name": "The Complete Great American Songbook",
-        "url": "https://open.spotify.com/album/3xUOObdRU9f2wblHafYx0j"
-      },
-      "artists": [
-        {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
-        }
-      ],
-      "duration_ms": 186880,
-      "name": "I'm In The Mood For Love",
-      "url": "https://open.spotify.com/track/7s5Xd6BLaZfkr6C3tgR4Ow"
-    },
-    {
-      "added_at": "2026-09-25 08:21:10",
-      "album": {
         "name": "French Fries & Champagne",
         "url": "https://open.spotify.com/album/3heL0BxCl4Ts7IhS0NRYSv"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 141640,
       "name": "Sweet Pea",
       "url": "https://open.spotify.com/track/5QyNvhoW9N0xzrzc5uNZKc"
+    },
+    {
+      "added_at": "2026-09-25 08:21:10",
+      "album": {
+        "name": "The Complete Great American Songbook",
+        "url": "https://open.spotify.com/album/3xUOObdRU9f2wblHafYx0j"
+      },
+      "artists": [
+        {
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+        }
+      ],
+      "duration_ms": 186880,
+      "name": "I'm In The Mood For Love",
+      "url": "https://open.spotify.com/track/7s5Xd6BLaZfkr6C3tgR4Ow"
     },
     {
       "added_at": "2026-09-25 08:21:10",
@@ -935,38 +935,6 @@
     {
       "added_at": "2026-09-25 08:21:10",
       "album": {
-        "name": "An Evening with/ Andy James & John Patitucci",
-        "url": "https://open.spotify.com/album/3wmErkWqIMYJiQhplNUPhl"
-      },
-      "artists": [
-        {
-          "name": "Andy James",
-          "url": "https://open.spotify.com/artist/1MXvoR1huidjc1GRRcAs1F"
-        },
-        {
-          "name": "John Patitucci",
-          "url": "https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH"
-        },
-        {
-          "name": "Chris Potter",
-          "url": "https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB"
-        },
-        {
-          "name": "Bill Cunliffe",
-          "url": "https://open.spotify.com/artist/2FfWqpDJg7emSdQljKfwHM"
-        },
-        {
-          "name": "Vinnie Colaiuta",
-          "url": "https://open.spotify.com/artist/3JE0rhvpwUB5mK2OgUnWlO"
-        }
-      ],
-      "duration_ms": 263282,
-      "name": "Autumn In New York (feat. Chris Potter, Bill Cunliffe & Vinnie Colaiuta)",
-      "url": "https://open.spotify.com/track/6DwflQH9R5Y4hpJrGPeNsC"
-    },
-    {
-      "added_at": "2026-09-25 08:21:10",
-      "album": {
         "name": "Loving You",
         "url": "https://open.spotify.com/album/3XSf8Unnnx22syZW9ILEtR"
       },
@@ -995,6 +963,38 @@
       "duration_ms": 207733,
       "name": "Moonlight Becomes You",
       "url": "https://open.spotify.com/track/0p5hnLhOSlRpn8BMYEed4Q"
+    },
+    {
+      "added_at": "2026-09-25 08:21:10",
+      "album": {
+        "name": "An Evening with/ Andy James & John Patitucci",
+        "url": "https://open.spotify.com/album/3wmErkWqIMYJiQhplNUPhl"
+      },
+      "artists": [
+        {
+          "name": "Andy James",
+          "url": "https://open.spotify.com/artist/1MXvoR1huidjc1GRRcAs1F"
+        },
+        {
+          "name": "John Patitucci",
+          "url": "https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH"
+        },
+        {
+          "name": "Chris Potter",
+          "url": "https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB"
+        },
+        {
+          "name": "Bill Cunliffe",
+          "url": "https://open.spotify.com/artist/2FfWqpDJg7emSdQljKfwHM"
+        },
+        {
+          "name": "Vinnie Colaiuta",
+          "url": "https://open.spotify.com/artist/3JE0rhvpwUB5mK2OgUnWlO"
+        }
+      ],
+      "duration_ms": 263282,
+      "name": "Autumn In New York (feat. Chris Potter, Bill Cunliffe & Vinnie Colaiuta)",
+      "url": "https://open.spotify.com/track/6DwflQH9R5Y4hpJrGPeNsC"
     },
     {
       "added_at": "2026-09-25 08:21:10",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2026-09-25 08:21:10",
       "album": {
-        "name": "I'll Be Seeing You",
-        "url": "https://open.spotify.com/album/7bEA5jGqt2KYhjCa73OWpL"
-      },
-      "artists": [
-        {
-          "name": "Ellen Andersson",
-          "url": "https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog"
-        }
-      ],
-      "duration_ms": 367453,
-      "name": "I'll Be Seeing You",
-      "url": "https://open.spotify.com/track/4fT0kbU0e5AxBgCt84qOzC"
-    },
-    {
-      "added_at": "2026-09-25 08:21:10",
-      "album": {
         "name": "Standards",
         "url": "https://open.spotify.com/album/2Fd1KIL5aUNTl40H3OkOQi"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 272085,
       "name": "My Funny Valentine",
       "url": "https://open.spotify.com/track/0ULm3rFCZSbIZcdFUOrgSm"
+    },
+    {
+      "added_at": "2026-09-25 08:21:10",
+      "album": {
+        "name": "I'll Be Seeing You",
+        "url": "https://open.spotify.com/album/7bEA5jGqt2KYhjCa73OWpL"
+      },
+      "artists": [
+        {
+          "name": "Ellen Andersson",
+          "url": "https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog"
+        }
+      ],
+      "duration_ms": 367453,
+      "name": "I'll Be Seeing You",
+      "url": "https://open.spotify.com/track/4fT0kbU0e5AxBgCt84qOzC"
     },
     {
       "added_at": "2026-09-25 08:21:10",

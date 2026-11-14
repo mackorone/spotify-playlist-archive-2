@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6Yyn4ntHauNSEpS4cnQALP">Alysa Vanderheym</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-120 songs - 6 hr 15 min
+121 songs - 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Reasons Why We Broke Up](https://open.spotify.com/track/3NzR8tsF7ZoaQnEOfxwwaT) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [Reasons Why We Broke Up](https://open.spotify.com/album/6l0WShcnTrdTWl8CFF4tXb) | 3:56 | 2026-03-15 |  |
 | [Red Wine + White Couch](https://open.spotify.com/track/53VQYdLcJSMZcv1ZXcDp5b) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [I Don't Believe We've Met](https://open.spotify.com/album/1JmemBgPDsNQd1gbqKDUzM) | 3:09 | 2025-01-09 | 2025-04-12 |
 | [See Her Around](https://open.spotify.com/track/53EbKGWXglVTpMZbYC165K) | [After Midtown](https://open.spotify.com/artist/59Idogc5QIefeRoxcro5fs) | [Don't Give Away The Ending](https://open.spotify.com/album/44zy1dzJbG7A0HMlrk4PZa) | 3:36 | 2024-04-03 |  |
+| [Shut Up & Ride](https://open.spotify.com/track/1SDGjWhZlW3hcv6XY5bwxd) | [Heartland Cast](https://open.spotify.com/artist/4Y45fGW9ShnqqJiKltapow), [Heart Sisters](https://open.spotify.com/artist/2nC9b7wRpXYykitNPnWSdI) | [Heartland \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/0Tt6NOXCCk16UP4Yqj0GiL) | 3:02 | 2026-11-13 |  |
 | [Small Town Heart](https://open.spotify.com/track/6JkTj4Wuu8fsLdHprXB7fB) | [Macy Martin](https://open.spotify.com/artist/3jtrkW7BFCTcFA6HXPv0O9) | [Small Town Heart](https://open.spotify.com/album/2Yp3tzB7e2LYqv4w1b4Hty) | 3:25 | 2025-01-09 | 2025-04-12 |
 | [Sorry Mom](https://open.spotify.com/track/0IfDwgb4tyUyQcahEAnyeW) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [PATTERNS Commentary Album](https://open.spotify.com/album/0Py8hbFZ9QhI2gPEqzbla1) | 3:35 | 2024-10-29 |  |
 | [Sorry Mom](https://open.spotify.com/track/3zftDSl1HdBPJek75cQwDE) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Sorry Mom](https://open.spotify.com/album/0rxM61BYIAoyY2KvMOUwjo) | 3:35 | 2024-09-21 | 2024-10-28 |

@@ -4,7 +4,7 @@
 
 > A festive mix of Christmas carols and classical crossover favorites, perfect for spending time with family this holiday season\. Cover: The Bocellis
 
-63 songs - 3 hr 37 min
+64 songs - 3 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Once Upon A December](https://open.spotify.com/track/2lJy16Du9G5fzhlmR3IAoT) | [Michael Ball](https://open.spotify.com/artist/2MISUlPFrBMRlIcazbEOUI), [Alfie Boe](https://open.spotify.com/artist/3g5gwhWAPLq8MyUcUIsA8j) | [Together At Christmas](https://open.spotify.com/album/1iVkt1eJVa6QnMVvVgn6al) | 2:50 | 2023-12-08 |  |
 | [Santa Claus Is Coming To Town](https://open.spotify.com/track/53kn0b0mZNuA6pYf6526Jk) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo) | [My Christmas \(Remastered\)](https://open.spotify.com/album/37QhqwG2GFkVdlyRjvgKme) | 3:32 | 2023-12-08 |  |
 | [Santa la noche \(Cantique De Noel\)](https://open.spotify.com/track/2tmDbnWLieDLXHdLKk5m7K) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo) | [Mi Navidad \(Edición Especial En Español\)](https://open.spotify.com/album/5cHGo1b8Ubhl6HGZw6RIkN) | 4:33 | 2023-12-08 |  |
+| [Shchedryk \- Live in Maastricht](https://open.spotify.com/track/0ePb6ggBzsGQCuRJv3X9DB) | [Mykola Leontovych](https://open.spotify.com/artist/7vdH45G4aZD0tIf3A74R7n), [André Rieu](https://open.spotify.com/artist/3hJv5p2HwekJysNB2NDnEC), [Johann Strauss Orchestra](https://open.spotify.com/artist/51HxUAjeZIOv4aniusaDkT), [Anna Reker](https://open.spotify.com/artist/6nxKYPiKxKhmz29CmOYwiI) | [Dreaming of a White Christmas \(Live in Maastricht\)](https://open.spotify.com/album/5tZ26I4Vy4eFat6y4GZV1K) | 5:31 | 2026-11-13 |  |
 | [Silent Night](https://open.spotify.com/track/0ewMt74C5qfl5SpXrxFp3h) | [Lea Michele](https://open.spotify.com/artist/16rJDrSGCHMXjPUuKwQcvp) | [Christmas in The City](https://open.spotify.com/album/2Fj2qfm8s99jksE5aTuyaC) | 3:13 | 2023-12-08 |  |
 | [Sleigh Ride](https://open.spotify.com/track/3G6FCZpvoYtHW10NVdxKUt) | [Hayley Westenra](https://open.spotify.com/artist/7Jotu5LupekFt00kZZZ7C6), [The Pavao Quartet](https://open.spotify.com/artist/0IDCYTiXoyA9Qh5fpiWTGT) | [Winter Magic \(International Version\)](https://open.spotify.com/album/18sVMzXtBh24lXpj7rQ3Pz) | 3:12 | 2023-12-08 | 2024-01-31 |
 | [Sleigh Ride](https://open.spotify.com/track/6Ad94Tru5ElPq7ElBJyDb3) | [Hayley Westenra](https://open.spotify.com/artist/7Jotu5LupekFt00kZZZ7C6), [The Pavao Quartet](https://open.spotify.com/artist/0IDCYTiXoyA9Qh5fpiWTGT) | [Christmas Hits](https://open.spotify.com/album/1LHFGp5q7na0R9kaFTWAhD) | 3:12 | 2023-12-15 |  |

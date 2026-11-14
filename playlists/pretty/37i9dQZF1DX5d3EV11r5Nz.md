@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5d3EV11r5Nz.md) - [plain]
 
 > Lord, have mercy\. ☦️
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,018 likes - 75 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,096 likes - 75 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

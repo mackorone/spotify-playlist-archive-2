@@ -4,7 +4,7 @@
 
 > 音楽をポケットに詰めて散歩に出かけよう。きっと新しい景色が見えてくるはず。
 
-274 songs - 15 hr 37 min
+275 songs - 15 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,6 +186,7 @@
 | [sou](https://open.spotify.com/track/0umAUNIad7XeqVWRBmSurY) | [森田 美勇人](https://open.spotify.com/artist/4nvioAHLRMJQ5N9NGmROVQ) | [29](https://open.spotify.com/album/0reRYB6Jdat0UMAtvrfkSl) | 3:27 | 2025-12-12 | 2026-02-19 |
 | [Spare](https://open.spotify.com/track/4UGnHDTmNYHSYpF8uKfu5d) | [luv](https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB) | [Already](https://open.spotify.com/album/2IybN7u5SBV4yTORBHhrFb) | 3:09 | 2025-02-28 | 2025-06-06 |
 | [Spring Rush \(a hot platonic subatomic crush\)](https://open.spotify.com/track/19luLEZUisg9MQtfLz489o) | [Iris Caltwait](https://open.spotify.com/artist/5jOiYJPp5e84cnK2KO1aNz) | [Spring Rush \(a hot platonic subatomic crush\)](https://open.spotify.com/album/38giCJV9UkDE9U3059Ev4e) | 2:49 | 2025-06-05 | 2025-09-06 |
+| [Still a body](https://open.spotify.com/track/5tv0vXUn1l1zjc1mgwmmKh) | [Chezka](https://open.spotify.com/artist/09aWOipSJalkgLg7vOOUlY) | [What the Body Remembers](https://open.spotify.com/album/6BVhF8p2cVM0X8f1K7mbHb) | 4:14 | 2026-11-06 |  |
 | [summer of ’16](https://open.spotify.com/track/48xY7Jn018AjLntqEaQCJB) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [Mr\. Peaked In High School](https://open.spotify.com/album/26cfMohVrXKMfKZcbARmTw) | 3:30 | 2026-10-20 |  |
 | [Summer You Were Mine](https://open.spotify.com/track/6B9XMxOKopfYkBKwA8cPtb) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2) | [Long Way Home](https://open.spotify.com/album/0inYFsNCyffdWte267wXRW) | 3:07 | 2026-10-20 |  |
 | [Sunshine](https://open.spotify.com/track/07lwMZLo0Nxc01nMXuiVL8) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Sunshine](https://open.spotify.com/album/6xvFXJsIgOC70xQMwho7do) | 3:11 | 2026-10-20 | 2026-11-07 |
@@ -209,7 +210,7 @@
 | [The Kardashians](https://open.spotify.com/track/7JlbrqQVlHh8rnaTlAzy9j) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Songs From The Wedding Cake](https://open.spotify.com/album/50t0TEz7Owjimd7bakSpkg) | 4:05 | 2026-10-20 |  |
 | [The Time Of My Life](https://open.spotify.com/track/08JkZRttDnq5SkZ9vCPSjJ) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [The Time Of My Life](https://open.spotify.com/album/5QFHiTkr2OHLAPRWvaD0Hw) | 3:35 | 2026-06-25 | 2026-11-07 |
 | [the van](https://open.spotify.com/track/4C2o68XUoLpjvncsNsgwjA) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [the van](https://open.spotify.com/album/70zrCL7WfIPJQcXqzhRAho) | 2:58 | 2026-05-19 | 2026-06-11 |
-| [The World Keeps Spinning](https://open.spotify.com/track/3kjo18jDL7MvyRO8sMCVgO) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [The World Keeps Spinning](https://open.spotify.com/album/32ZClhFaEcuum0aEvXbDwo) | 2:15 | 2026-10-20 |  |
+| [The World Keeps Spinning](https://open.spotify.com/track/3kjo18jDL7MvyRO8sMCVgO) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [The World Keeps Spinning](https://open.spotify.com/album/32ZClhFaEcuum0aEvXbDwo) | 2:15 | 2026-10-20 | 2026-11-14 |
 | [This and That](https://open.spotify.com/track/13c64od8WGLypIJIlTivOM) | [WIM](https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz) | [This and That](https://open.spotify.com/album/2GHpkTjWIlzkHSOE8HnzIZ) | 3:22 | 2026-10-20 |  |
 | [THRIFTED](https://open.spotify.com/track/3c2cj9EqxPVMNEKdEexCX0) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [THRIFTED](https://open.spotify.com/album/5OM7oXECyQH2QM6YQcnpMq) | 2:41 | 2025-02-28 | 2025-07-18 |
 | [Tip Toe](https://open.spotify.com/track/0MJ5wKsPEeihONNfugHGy7) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Tip Toe](https://open.spotify.com/album/2uNZ0G4uxGlzuqULW6lQnF) | 3:44 | 2024-06-20 | 2026-04-03 |

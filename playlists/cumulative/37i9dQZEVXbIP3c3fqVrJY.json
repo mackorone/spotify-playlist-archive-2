@@ -3327,6 +3327,28 @@
     },
     {
       "album": {
+        "name": "CHECKPOINT",
+        "url": "https://open.spotify.com/album/24RbQ5JPQ8BBVjuFArJrTw"
+      },
+      "artists": [
+        {
+          "name": "Lboy Bsc",
+          "url": "https://open.spotify.com/artist/7HjHXYRxGom5mjP1lHKHW2"
+        },
+        {
+          "name": "Dorian",
+          "url": "https://open.spotify.com/artist/2vMxLcwqHKxvVdBtKRpyUY"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171425,
+      "name": "BACKSEAT",
+      "url": "https://open.spotify.com/track/01w3dcqYpyB6wibYEjUjhE"
+    },
+    {
+      "album": {
         "name": "SWAG SIDE STORY",
         "url": "https://open.spotify.com/album/5u0q9Bie9brMl3dCdehhnt"
       },
@@ -18850,7 +18872,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 289558,
       "name": "Iris",
       "url": "https://open.spotify.com/track/3zslQ5Mhpez7nivcOs3dXn"
@@ -37442,7 +37464,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 180740,
       "name": "Self Aware",
       "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
@@ -42890,7 +42912,7 @@
       ],
       "date_added": "2026-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-11",
+      "date_removed": null,
       "duration_ms": 227333,
       "name": "The One That Got Away",
       "url": "https://open.spotify.com/track/2009X8GyWTqyxIdzAEYW6N"

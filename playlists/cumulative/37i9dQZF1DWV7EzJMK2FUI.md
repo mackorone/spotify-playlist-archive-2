@@ -4,11 +4,12 @@
 
 > Calm jazz instrumentals for working, reading, focusing, or simply winding down.
 
-1,840 songs - 4 day 13 hr 19 min
+1,844 songs - 4 day 13 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ['Round Midnight](https://open.spotify.com/track/5rVp4lUeVnreDokWtWJ08a) | [Nick Osman Trio](https://open.spotify.com/artist/2Al01GKqZ47q0irdqBXMQr) | ['Round Midnight](https://open.spotify.com/album/21hu6rdw1Tj3lake6poRGg) | 3:34 | 2023-05-25 | 2025-12-03 |
+| [20 minutes away](https://open.spotify.com/track/3IppLwY7JOAf8vPVy6gzpa) | [The Uptown Players](https://open.spotify.com/artist/1S2Mr3FmzAs8p9Wl0xHEe2) | [20 minutes away](https://open.spotify.com/album/5jBIIodtH7WoLiIJJrNkAb) | 3:03 | 2026-11-13 |  |
 | [24 hour stopover](https://open.spotify.com/track/5CBaikcT4Gx8iO8jQvmyDU) | [Brandon's Three](https://open.spotify.com/artist/2YPncTc0Vj6Ofh2DDooAbM) | [24 hour stopover](https://open.spotify.com/album/69bmlnzNWsVBzfuNPrxjLB) | 3:25 | 2023-09-08 | 2024-08-07 |
 | [A Better Place](https://open.spotify.com/track/6ZDLHi8UtQeT203JjiQU6N) | [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx) | [A Better Place](https://open.spotify.com/album/5kIBKvyTDfkVFeL3INbvBZ) | 2:13 | 2022-06-28 | 2023-03-31 |
 | [A Better Place](https://open.spotify.com/track/7JfORZg3Tvn0YyDZCiGhMU) | [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx) | [A Better Place](https://open.spotify.com/album/0BIRayldwphnBlwreGKihM) | 2:13 | 2022-11-10 | 2022-11-14 |
@@ -70,6 +71,7 @@
 | [A Time For Love](https://open.spotify.com/track/5hlXjAmHmvbLNR169UW394) | [Hermie](https://open.spotify.com/artist/79egg74LRIcDzIxYb0XVSK) | [A Time For Love](https://open.spotify.com/album/5VQ209Y2ATo0ehJJbwpSi5) | 3:48 | 2022-09-29 | 2023-03-18 |
 | [A Two Way Love](https://open.spotify.com/track/4vboPyW29H2sAjUWUrOvnh) | [David Parks & Silver](https://open.spotify.com/artist/5lh0cmklkqiNcuFsXOyl1D) | [A Two Way Love](https://open.spotify.com/album/44c79EtvhNbxonkt0CKdKo) | 2:50 | 2023-03-02 | 2025-07-16 |
 | [A walk in this city](https://open.spotify.com/track/1hK4dKJTloOuZN599alzMP) | [Soft Brush Touches](https://open.spotify.com/artist/7LMuoHwZv9P0PPSO1DWaLZ) | [A walk in this city](https://open.spotify.com/album/569QAz29UdrYcJl9CXgR5w) | 2:57 | 2026-06-30 | 2026-08-29 |
+| [A Warm Embrace](https://open.spotify.com/track/56QES11wtfhUJqClN2YLmW) | [UWS Jazz Trio](https://open.spotify.com/artist/2hWsHcobGML6Rr9HAdY44K) | [A Warm Embrace](https://open.spotify.com/album/3rJ6KPKDN91Bcr9YOKwCT7) | 2:50 | 2026-11-13 |  |
 | [A Wayfarer's Tale](https://open.spotify.com/track/0RrvMxwdAX6qBQHjR3EEPZ) | [Ray Love Trio](https://open.spotify.com/artist/5So2roBHkoYi3wWy1pehXZ) | [A Wayfarer's Tale](https://open.spotify.com/album/3E7581DaCGTtHOi5KvwYpN) | 3:34 | 2023-10-27 | 2024-09-10 |
 | [A Winter Without You](https://open.spotify.com/track/6sCnTUzPysxnfKhj6WkEMF) | [Stewart Park Quartet](https://open.spotify.com/artist/6WM9U52WDUrqLdjVDJRT1d) | [A Winter Without You](https://open.spotify.com/album/7viLZOgyib7cngbKXSRDI1) | 2:47 | 2026-10-05 |  |
 | [A Wondrous Day at Sea](https://open.spotify.com/track/1qe1tA11dGRosaBxbKutUr) | [Nelly Vernon](https://open.spotify.com/artist/2QTDEcFCA6jvoJwQsm3TpS) | [A Wondrous Day at Sea](https://open.spotify.com/album/5pgUveuZNbekDjIK3DXx3k) | 3:22 | 2024-03-22 | 2024-07-23 |
@@ -339,7 +341,7 @@
 | [Could It Be You](https://open.spotify.com/track/0g27tgo8UmdZBECgdglKi6) | [Benjamine Leroy Quartet](https://open.spotify.com/artist/0HsfmmG8LqKOxS2LBIO9bM) | [Could It Be You](https://open.spotify.com/album/4KBJDdFu6PY1z0pOHWv9WT) | 3:42 | 2022-10-27 | 2025-05-20 |
 | [Could You Be That Someone](https://open.spotify.com/track/4E0uvpJK8cezGjocZYmztl) | [Tritone Trio](https://open.spotify.com/artist/2CiZxBwiRIvtH5n0Nrps1b) | [Could You Be That Someone](https://open.spotify.com/album/1C0e5NaIE2lrWd71oNsWGZ) | 4:04 | 2026-10-16 |  |
 | [Count Me In](https://open.spotify.com/track/76rD8liEuU0louCpIXDSKv) | [Taylor Owen Trio](https://open.spotify.com/artist/5pCUMgtJ7hUMrCDeYm96Ca) | [Count Me In](https://open.spotify.com/album/4J7FQxTSNaZTGx9oppZbk4) | 3:37 | 2024-06-17 | 2025-12-17 |
-| [Count The Stars](https://open.spotify.com/track/3V22MzDWZAYNlaykXgmxdz) | [South Bay Trio](https://open.spotify.com/artist/5maW2tLmsrDDs1NmizQmX9) | [Count The Stars](https://open.spotify.com/album/1L85mqHT3imQpnilOKzYLR) | 5:06 | 2026-10-05 |  |
+| [Count The Stars](https://open.spotify.com/track/3V22MzDWZAYNlaykXgmxdz) | [South Bay Trio](https://open.spotify.com/artist/5maW2tLmsrDDs1NmizQmX9) | [Count The Stars](https://open.spotify.com/album/1L85mqHT3imQpnilOKzYLR) | 5:06 | 2026-10-05 | 2026-11-14 |
 | [Counting Stars](https://open.spotify.com/track/7FK06LQqeqciv3xJAu4pmg) | [Rainy Days Trio](https://open.spotify.com/artist/0ZiJ1fWX1eDMn7PA74GdLN) | [Lonesome Road](https://open.spotify.com/album/7hNrGtYQcUXkuBw4KPWu5C) | 4:14 | 2022-05-31 | 2024-08-07 |
 | [Countless Times](https://open.spotify.com/track/2AfCR0990ZfJaR126CuRg0) | [Meadowpoints](https://open.spotify.com/artist/3EJ5w7wMNM0ZVOKFBaRp4J) | [Countless Times](https://open.spotify.com/album/2oejVDbhVvSgx3uU4Ip4kC) | 3:41 | 2024-07-12 | 2025-02-04 |
 | [Country house](https://open.spotify.com/track/3UZL035zZvEx7DbZbwB1ti) | [Cole Peers trio](https://open.spotify.com/artist/3HwmLSofJhnA1bdPIREqAj) | [Country house](https://open.spotify.com/album/2Ukym7x4DKIMAXCHVLqkfU) | 2:55 | 2023-12-08 | 2024-08-20 |
@@ -582,6 +584,7 @@
 | [Guess the difference?](https://open.spotify.com/track/2tqQyujiRxEHUwRF9uNZCf) | [Lia Riggs Trio](https://open.spotify.com/artist/2CYlWsH8q2kD5tMQUE6Z5U) | [Guess the difference?](https://open.spotify.com/album/1nVwsbQZUhWpFcgunecXfh) | 3:19 | 2023-04-20 | 2025-04-24 |
 | [Guidance](https://open.spotify.com/track/4z8F22xJyVwiuflJV0UW5f) | [Newington Green](https://open.spotify.com/artist/33hLFARszQC3uxE93PiNeE) | [Guidance](https://open.spotify.com/album/6L416spNnfqDkQADYwejmg) | 4:00 | 2022-01-17 | 2025-01-21 |
 | [Half\-Asleep](https://open.spotify.com/track/4KL9c9n1gsFxTb1mjkqkqk) | [Urskogen Jazz](https://open.spotify.com/artist/7gaN9W8fBI9obJ9tMK1x0A) | [Half\-Asleep](https://open.spotify.com/album/1Nih0jTBS2dYrZ7DMB1T2Q) | 3:43 | 2026-04-03 |  |
+| [Halfway interlude](https://open.spotify.com/track/7vwf8NEIN5t54hnvfCFSJo) | [Clifford Randall Sextet](https://open.spotify.com/artist/5b4vsyo5ULucBMPOU1Khlm) | [Halfway interlude](https://open.spotify.com/album/24y6bOllYMXoDk0BiRFKws) | 3:21 | 2026-11-13 |  |
 | [Halfway To Light](https://open.spotify.com/track/6BngJIrjrdnk6EEc0lPkBn) | [The Small Hours](https://open.spotify.com/artist/6725YBvkvjUa1jHvygHPk9) | [Halfway To Light](https://open.spotify.com/album/4ErGgFNLWtuvfZurDqQhKy) | 3:40 | 2026-07-26 | 2026-09-19 |
 | [Hand over your pocket](https://open.spotify.com/track/5CIkeKeE8beIkEnHeoSzMw) | [Samuel Greene](https://open.spotify.com/artist/43cWWTPvyFL74DlpEVyl1A) | [Hand over your pocket](https://open.spotify.com/album/3SapH8K9cfr8z3tdJAIuxk) | 2:54 | 2026-04-24 |  |
 | [Hard and lonely road](https://open.spotify.com/track/2MbAdOCekIB8VJfH8b4zye) | [Grayville Trio](https://open.spotify.com/artist/6ll13Y20dnndy8mAuF9tgk) | [Hard and lonely road](https://open.spotify.com/album/3gaUFY7kqSIM3SqY1OIefh) | 2:55 | 2023-03-30 | 2025-07-16 |
@@ -634,6 +637,7 @@
 | [Hum Sweet Serenades](https://open.spotify.com/track/4HCsxaiFhQ5J6JZbsv9TUm) | [Motor City Trio](https://open.spotify.com/artist/3hu0bCz2XTFEEL3WYjo0fs) | [Hum Sweet Serenades](https://open.spotify.com/album/0XrvNpJzc7mLeoHBiuzbzF) | 3:03 | 2023-03-02 | 2025-07-16 |
 | [I awake](https://open.spotify.com/track/6AianoPQwgFLarNY5s3ntc) | [Ikigai](https://open.spotify.com/artist/0bNWgPLuFJzQ3IXoDfydPv) | [I awake](https://open.spotify.com/album/1H478Tq3lKuqWtTdzhLa8q) | 4:05 | 2023-02-02 | 2024-04-24 |
 | [I Can’t Get Started](https://open.spotify.com/track/3lHeTorlEnYb3icowpiDiR) | [Elton Willis Trio](https://open.spotify.com/artist/3dnm59R1zLsrNl8wXA9Aui) | [I Can’t Get Started](https://open.spotify.com/album/4biFCrWFx9nlHAauPuKUGv) | 4:24 | 2022-01-17 | 2024-06-12 |
+| [I close my eyes](https://open.spotify.com/track/4qD7ma71fhuPTUVUeqq5B7) | [The Grace Smith Gang](https://open.spotify.com/artist/3wyD1yWbuRCI7JevgoI5Cv) | [I close my eyes](https://open.spotify.com/album/0VoNAmlZX8ZPo1lETuGDvM) | 3:53 | 2026-11-13 |  |
 | [I Concentrate On You](https://open.spotify.com/track/2EAg1quHmyj5wGPEONM5KL) | [The Blue Green](https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80) | [I Concentrate On You](https://open.spotify.com/album/5R8IVGtCRIxv5KWwpjTiFL) | 4:40 | 2022-11-24 | 2024-09-10 |
 | [I Cover the Waterfront](https://open.spotify.com/track/2gGerDB2Wi5BgPTUQiwYUJ) | [Charles Daisey & Friends](https://open.spotify.com/artist/3w2I7PA6Gx8aD6IZMBJP20) | [I Cover the Waterfront](https://open.spotify.com/album/2Xot33Eg7gVwDGGv7BS7Bz) | 2:28 | 2022-01-17 | 2024-08-07 |
 | [I Didn't Know What Time It Was](https://open.spotify.com/track/3GuKMibYz7gzFTkSoxjQob) | [Bernstein Square](https://open.spotify.com/artist/0RdMRIhMDTQEpMcALRyQTK) | [I Didn't Know What Time It Was](https://open.spotify.com/album/4NpsxaHznzfn1pJpEM4bjR) | 2:51 | 2024-05-23 | 2025-12-03 |

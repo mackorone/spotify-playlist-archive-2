@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WbnZpHWMaI.md) - [plain]
 
 > Celebrating women at the center of innovation in electronic music\. Featuring Shygirl.
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,542 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,546 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,13 +70,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WbnZpHWMaI.md) - [plain]
 | 60 | [wdym you don‘t like hardgroove? \- Radio Edit](https://open.spotify.com/track/7uyHeUCGHtlKeZ5IJ1G7yI) | [VIVI909](https://open.spotify.com/artist/0Oo01WMz8SsWQdSFpkchoL) | [wdym you don‘t like hardgroove?](https://open.spotify.com/album/5KAvS8DDDvMPhYOsMw2u80) | 2:41 |
 | 61 | [DREAM \(feat\. El Karima\)](https://open.spotify.com/track/6dgHNOvKFuxwkRaY7MEP9Q) | [Indira Paganotto](https://open.spotify.com/artist/0JXc5G7ZImFTwPg3y8MTfR), [El Karima](https://open.spotify.com/artist/61L0mD1C0rDMPjB2mcnGLY) | [DREAM \(feat\. El Karima\)](https://open.spotify.com/album/6Xxi84DMqqWqqRw74GIIAt) | 3:32 |
 | 62 | [Kick Back](https://open.spotify.com/track/3PLXh3XJRYXmKRsbmONqDd) | [MARTA](https://open.spotify.com/artist/1Qa6ZBZZK7Z1Zx7MiDTJQS), [Eve Lauren](https://open.spotify.com/artist/0VGRIovFmOFenDy7hnwr7g) | [Kick Back](https://open.spotify.com/album/1RbjW60PLyLqNaslqBPMvR) | 3:18 |
-| 63 | [...youshouldbeaskingmeout](https://open.spotify.com/track/3SLWXJ4FmWvRWBehHSQYHA) | [finnjävel](https://open.spotify.com/artist/5YQtvxTvGSShjMTOMyCuPT), [GRANT](https://open.spotify.com/artist/6SkVKlAmIWVD0LQvCGQqSj) | [notime…youshouldbeaskingmeout](https://open.spotify.com/album/3thIn4T4XksDxTHEU1rExU) | 2:54 |
+| 63 | [...youshouldbeaskingmeout](https://open.spotify.com/track/3SLWXJ4FmWvRWBehHSQYHA) | [finnjävel](https://open.spotify.com/artist/5YQtvxTvGSShjMTOMyCuPT), [Grant](https://open.spotify.com/artist/6SkVKlAmIWVD0LQvCGQqSj) | [notime…youshouldbeaskingmeout](https://open.spotify.com/album/3thIn4T4XksDxTHEU1rExU) | 2:54 |
 | 64 | [LaLaLo](https://open.spotify.com/track/1bZNXnAUa5lhXrh1cGnR9F) | [Novah](https://open.spotify.com/artist/7qvjUtp2ccRD9AiDnukyFF) | [Rave Kid EP](https://open.spotify.com/album/62kW3kk96aliqD1B9bpWJ1) | 2:49 |
 | 65 | [Panda](https://open.spotify.com/track/7pa1a7s1TRHBI01cllS5j2) | [Sel](https://open.spotify.com/artist/0IHp9IbFZ9x8YFdDi2oriS) | [Panda](https://open.spotify.com/album/6wbhTQJ8dzn90wvd6puPuO) | 4:00 |
 | 66 | [Peepin'](https://open.spotify.com/track/05PPn5rFEiAXgn3fYgl7HC) | [Reysha Rami](https://open.spotify.com/artist/3V3EAJjX9EmvSsjm79J32j) | [Peepin'](https://open.spotify.com/album/6nnKlVsfkKVgOBSIdEKkz5) | 2:10 |
 | 67 | [Journey](https://open.spotify.com/track/7KRVqlUR7iejxjIu11GI19) | [Delilah](https://open.spotify.com/artist/0vUOZYWihxoF2IQ2VOckKh) | [Journey EP](https://open.spotify.com/album/7svQALRGkDNMzDF7TRbWcs) | 3:01 |
 | 68 | [takeme2](https://open.spotify.com/track/5lF0OMA2GNEDe1OVuaM0tb) | [Saidah](https://open.spotify.com/artist/18ddrVSTx9Y6FZIiXFG7IU) | [takeme2](https://open.spotify.com/album/0WIRi1STaiGqv2vxF35y32) | 3:35 |
-| 69 | [mind be so numb](https://open.spotify.com/track/77or3GdYRr8n0Vzmupf02n) | [u.r.trax](https://open.spotify.com/artist/5bGQtNvk4LrSUTZGzBiZq5), [BEA1991](https://open.spotify.com/artist/6F93aFbWjhUtjRKXYmtr1Z) | [the party is where u.r.](https://open.spotify.com/album/38eEn74m041DEzCWT3eTDf) | 3:15 |
+| 69 | [mind be so numb \(feat\. BEA1991\)](https://open.spotify.com/track/77or3GdYRr8n0Vzmupf02n) | [u.r.trax](https://open.spotify.com/artist/5bGQtNvk4LrSUTZGzBiZq5), [BEA1991](https://open.spotify.com/artist/6F93aFbWjhUtjRKXYmtr1Z) | [the party is where u.r.](https://open.spotify.com/album/38eEn74m041DEzCWT3eTDf) | 3:15 |
 | 70 | [Kids](https://open.spotify.com/track/3uWuQ4TyNDY63aQbppYcyc) | [Luna Morgenstern](https://open.spotify.com/artist/3Ei4Zm5sKiLabWKEd8hfRh) | [Kids](https://open.spotify.com/album/0xrQGzEnAjzDt55xG4L56w) | 2:08 |
 | 71 | [midnight moon](https://open.spotify.com/track/5fu8pfEsXXA9mY0F9grAce) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [HOME WAS ALWAYS ME](https://open.spotify.com/album/3LjjkS2s2b2RdluM00NWLD) | 2:17 |
 | 72 | [Bitches Talk Shit](https://open.spotify.com/track/2zeOTTt5w7lSwKtbUXcnTQ) | [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex) | [Bitches Talk Shit](https://open.spotify.com/album/7qpKgKDoZQhrvnZIeIaRKq) | 3:39 |

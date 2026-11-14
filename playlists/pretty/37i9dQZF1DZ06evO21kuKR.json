@@ -1,12 +1,12 @@
 {
   "description": "This is Moneybagg Yo. The essential tracks, all in one playlist.",
-  "num_followers": 99634,
+  "num_followers": 99640,
   "original_name": "This Is Moneybagg Yo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avOwAAAAAAAdnp7Y+fuRfbuPA23OVxwi",
+  "snapshot_id": "avUBgAAAAAA8MU1AvtfIMTIkA2S0n3jM",
   "tracks": [
     {
       "added_at": null,
@@ -607,6 +607,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hard To Love",
+        "url": "https://open.spotify.com/album/12QMwxaBwtZWp7BKBwzaol"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 186845,
+      "name": "Where Ya Bih @",
+      "url": "https://open.spotify.com/track/0p6sfWcC7BxC8Pj2DP8Vfr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Gangsta\u2019s Pain: Reloaded",
         "url": "https://open.spotify.com/album/527JxbrqUTevhf0mgQlMWB"
       },
@@ -631,22 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hard To Love",
-        "url": "https://open.spotify.com/album/12QMwxaBwtZWp7BKBwzaol"
-      },
-      "artists": [
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        }
-      ],
-      "duration_ms": 186845,
-      "name": "Where Ya Bih @",
-      "url": "https://open.spotify.com/track/0p6sfWcC7BxC8Pj2DP8Vfr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blockchain",
         "url": "https://open.spotify.com/album/7gVVCqQnGgybY3OTdkJuKY"
       },
@@ -667,6 +667,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Time Served",
+        "url": "https://open.spotify.com/album/6Wq84YPRzpAIY8CEeluUlv"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 119939,
+      "name": "Pistol By Da Bed",
+      "url": "https://open.spotify.com/track/5QOQTuR9vSDQdhz3Bo2FTs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "What It Means To Be King",
         "url": "https://open.spotify.com/album/3nrdCjP7QGBqMEutGTtT1B"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 185213,
       "name": "Trust Nothing (feat. Moneybagg Yo)",
       "url": "https://open.spotify.com/track/41jxlPqpPqiky977DkJrpY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Time Served",
-        "url": "https://open.spotify.com/album/6Wq84YPRzpAIY8CEeluUlv"
-      },
-      "artists": [
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        }
-      ],
-      "duration_ms": 119939,
-      "name": "Pistol By Da Bed",
-      "url": "https://open.spotify.com/track/5QOQTuR9vSDQdhz3Bo2FTs"
     },
     {
       "added_at": null,
@@ -947,26 +947,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "RESET",
-        "url": "https://open.spotify.com/album/547DJFUYOl2SBYJbo2jZX1"
+        "name": "I'm The One",
+        "url": "https://open.spotify.com/album/7p4hzEV95XFXAvZh7kJo25"
       },
       "artists": [
         {
+          "name": "LPB Poody",
+          "url": "https://open.spotify.com/artist/0wHeZY93Ede0g1jXaWsiFS"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
           "name": "Moneybagg Yo",
           "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        },
-        {
-          "name": "Kevin Gates",
-          "url": "https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe"
-        },
-        {
-          "name": "Rvssian",
-          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
         }
       ],
-      "duration_ms": 181773,
-      "name": "Fall Down (feat. Kevin Gates & Rvssian)",
-      "url": "https://open.spotify.com/track/4z7OagqDCwZjkZBedfA0OG"
+      "duration_ms": 215504,
+      "name": "Batman (with Lil Wayne feat. Moneybagg Yo) - Remix",
+      "url": "https://open.spotify.com/track/0elEjBWGVXPnMcDkHuUQlW"
     }
   ],
   "unique_name": "This Is Moneybagg Yo",

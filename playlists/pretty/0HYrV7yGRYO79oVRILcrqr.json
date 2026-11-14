@@ -6,7 +6,7 @@
     "name": "Audiartist",
     "url": "https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24"
   },
-  "snapshot_id": "AAANCiJ0GdUHuLHkTkRavPPSI1iemOZG",
+  "snapshot_id": "AAANDcvv6xubTN6OmDgxydQ63auTW0gX",
   "tracks": [
     {
       "added_at": "2026-08-25 19:38:02",
@@ -3635,6 +3635,54 @@
       "duration_ms": 195029,
       "name": "The Fury",
       "url": "https://open.spotify.com/track/5Nz9osPWntRijFqYXSYlGX"
+    },
+    {
+      "added_at": "2026-11-13 08:21:52",
+      "album": {
+        "name": "cocain",
+        "url": "https://open.spotify.com/album/6YdjIiYpIdjjCmlBLO8NSz"
+      },
+      "artists": [
+        {
+          "name": "MINIMO.EXE",
+          "url": "https://open.spotify.com/artist/5K8CdOb3qPFei7n1KWn2B5"
+        }
+      ],
+      "duration_ms": 105350,
+      "name": "cocain",
+      "url": "https://open.spotify.com/track/2uw1o70hPtbyJ9aOEux2TW"
+    },
+    {
+      "added_at": "2026-11-13 14:59:32",
+      "album": {
+        "name": "If OnlyYesterday",
+        "url": "https://open.spotify.com/album/38ilHQ9tI9apNnEiN6NAfF"
+      },
+      "artists": [
+        {
+          "name": "Chuck Idol",
+          "url": "https://open.spotify.com/artist/7tRZLgsr5C5jvrhZD3NSAV"
+        }
+      ],
+      "duration_ms": 196680,
+      "name": "If OnlyYesterday",
+      "url": "https://open.spotify.com/track/5k5Y3JQ5JJnOcD7lKCKUvN"
+    },
+    {
+      "added_at": "2026-11-13 15:33:32",
+      "album": {
+        "name": "Central Park",
+        "url": "https://open.spotify.com/album/090XzHeLD5gzIJVVMBz0z8"
+      },
+      "artists": [
+        {
+          "name": "FADED",
+          "url": "https://open.spotify.com/artist/60g0Lh476VUxWoXsLexU9W"
+        }
+      ],
+      "duration_ms": 243500,
+      "name": "Central Park",
+      "url": "https://open.spotify.com/track/2fBodXDJPkxHUFm1sJpVYZ"
     }
   ],
   "unique_name": "\ud83c\udfb8 Rock Music Hits   Blues Rock, Classic Rock, Southern Rock, Hard Rock, Rhythm and Blues (R&B), So",

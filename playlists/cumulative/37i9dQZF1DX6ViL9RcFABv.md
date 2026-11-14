@@ -4,7 +4,7 @@
 
 > Uma playlist de pura alma pop! Foto: João Só, Tiago Nogueira
 
-619 songs - 1 day 8 hr 36 min
+620 songs - 1 day 8 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -548,7 +548,7 @@
 | [Sozinha](https://open.spotify.com/track/3DxsDewHU2lJsRJpryb4qz) | [Gama WNTD](https://open.spotify.com/artist/0T49oz78JYl4FkVJPGlJiD) | [Sozinha](https://open.spotify.com/album/0tj7VYqZYsDeJxuDSaDa1B) | 2:16 | 2026-10-30 |  |
 | [Sozinha](https://open.spotify.com/track/5YPp2OpITgckNXF71jBdW9) | [Ágata](https://open.spotify.com/artist/4hjRolqjkmfAWhjkUPFJiI), [D.A.M.A](https://open.spotify.com/artist/4h5zTnUibCdGWia43hOo5y) | [Sozinha](https://open.spotify.com/album/6ctUih3rczyZp9INZyUQjZ) | 2:58 | 2025-06-12 | 2025-10-03 |
 | [Sozinho](https://open.spotify.com/track/6FRjQPBZ4pEdKWGSCSgeh8) | [No Maka](https://open.spotify.com/artist/35dFX8XteNIxKbFW6VmdW3), [Mike Flowers](https://open.spotify.com/artist/4fwKbNGSZ5NNI7Tc6DAuOE) | [Sozinho](https://open.spotify.com/album/3RYhMw7mbqMFHEGyo3nkOf) | 2:28 | 2024-06-27 | 2024-07-05 |
-| [STRAVA](https://open.spotify.com/track/7gCkbZuIPAmAmRIT2lQ3Ny) | [pikika](https://open.spotify.com/artist/2l9cXS6ljQtg4wOGYR94WN) | [STRAVA](https://open.spotify.com/album/4jtsQphofZNwTbFaA1TdL8) | 3:08 | 2026-10-22 |  |
+| [STRAVA](https://open.spotify.com/track/7gCkbZuIPAmAmRIT2lQ3Ny) | [pikika](https://open.spotify.com/artist/2l9cXS6ljQtg4wOGYR94WN) | [STRAVA](https://open.spotify.com/album/4jtsQphofZNwTbFaA1TdL8) | 3:08 | 2026-10-22 | 2026-11-14 |
 | [Superação](https://open.spotify.com/track/0WYwgdwCr4fdNADvinbWBX) | [Mariana Pereira](https://open.spotify.com/artist/6OFJLqSjsWsigPp8MTcNHm) | [Superação](https://open.spotify.com/album/3siFdTrUNLxFNkRV2ksiwQ) | 2:39 | 2024-10-17 | 2026-01-30 |
 | [Só](https://open.spotify.com/track/4Qw5x0FlRuZLEnCNBAzVXg) | [Luís Trigacheiro](https://open.spotify.com/artist/3Q8P5JGiCwBz7IFDoL3HcH) | [Florbela](https://open.spotify.com/album/7opTU4anLmK9jfRrPeee1p) | 2:36 | 2026-03-20 | 2026-04-17 |
 | [Só a Mim](https://open.spotify.com/track/1rwG1b0OtIueN6Qt5hA1ev) | [Margarida](https://open.spotify.com/artist/34EGQNhE0BSQJhRw4lEDo1) | [Só a Mim](https://open.spotify.com/album/5tKKGgckLPHJgeAMmff4pG) | 3:22 | 2026-05-21 | 2026-05-29 |
@@ -567,6 +567,7 @@
 | [Telefone Estragado](https://open.spotify.com/track/6jbj7rIgPoimjgB9SXlP81) | [Nena](https://open.spotify.com/artist/561qBVd91ZPE9yCURXt7BB) | [Telefone Estragado](https://open.spotify.com/album/5a8Yvj8bqm5h6FsLe9SmJ7) | 3:01 | 2025-05-08 | 2025-05-23 |
 | [Tem lá uma tristeza](https://open.spotify.com/track/3QjkUHKTlsbiKsROCPYZF2) | [Bárbara Tinoco](https://open.spotify.com/artist/10okQWuBo3LEA8HSZ1VUMT), [Mari Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S) | [Tem lá uma tristeza](https://open.spotify.com/album/3rwON1RikuIdaY40Di9CzY) | 2:40 | 2025-12-05 | 2026-06-19 |
 | [Temos Pena!](https://open.spotify.com/track/1i2t55Ls2wNthz6QDUUfDC) | [Nena](https://open.spotify.com/artist/561qBVd91ZPE9yCURXt7BB) | [Temos Pena!](https://open.spotify.com/album/3Y8NyBrhqvvHAu5ZEeLMML) | 3:14 | 2024-11-15 | 2025-05-09 |
+| [Temporal do Amor \(feat\. Cuca Roseta\)](https://open.spotify.com/track/2agihdHHKGTy4uURAW4icX) | [Matias Damásio](https://open.spotify.com/artist/0E0XPqa6BzxSkhmhvzA3k2), [Cuca Roseta](https://open.spotify.com/artist/5JfkzRrPKWcMQenALP3UKL) | [O Romântico](https://open.spotify.com/album/1vVKDGGlInRLp8zuQZKSS6) | 3:43 | 2026-11-13 |  |
 | [tenho saudades de casa](https://open.spotify.com/track/6jEiqzJHHz7TpooAPr6bFg) | [Nena](https://open.spotify.com/artist/561qBVd91ZPE9yCURXt7BB) | [tenho saudades de casa](https://open.spotify.com/album/6YUOHV3URPQPfUMFI68t3d) | 3:08 | 2026-09-03 |  |
 | [Tentar \(outra vez\)](https://open.spotify.com/track/5WUEmlPYQQ2dMmSR7vJFA0) | [Catarina Filipe](https://open.spotify.com/artist/4OhowqCgfvzq9Fc2qcSbc8), [LEO2745](https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx) | [Tentar \(outra vez\)](https://open.spotify.com/album/3kB71aZrSpAFafaof9jPA1) | 2:36 | 2025-04-24 | 2025-10-24 |
 | [Tento Na Língua](https://open.spotify.com/track/38ujKy5Qyv2s4mEW9JmqIG) | [Carolina Deslandes](https://open.spotify.com/artist/6xolQjWFT24ykWke55u9fU), [IOLANDA](https://open.spotify.com/artist/37VYsW0OfWchi5qpCDOv1b) | [Tento Na Língua](https://open.spotify.com/album/0JZzrTOlEMIsUV5lGXgtOx) | 3:15 | 2025-03-21 | 2025-10-24 |

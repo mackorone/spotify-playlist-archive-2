@@ -1,13 +1,29 @@
 {
-  "description": "Strictly the freshest and finest hip-hop heats. No skips. Cover: A$AP Rocky.",
-  "num_followers": 28093,
+  "description": "Strictly the freshest and finest hip-hop heats. No skips. Cover: Snotty Nose Rez Kids.",
+  "num_followers": 28089,
   "original_name": "Fresh Hip Hop",
   "owner": {
     "name": "Filtr Canada\t",
     "url": "https://open.spotify.com/user/filtr.ca"
   },
-  "snapshot_id": "AAAoJ05tmMa0tNYhZ4f+hG7EPbkChOYy",
+  "snapshot_id": "AAAoLL9viw72VM4aLrzus0CLmMqHjgVJ",
   "tracks": [
+    {
+      "added_at": "2026-11-13 15:16:08",
+      "album": {
+        "name": "Bombshell",
+        "url": "https://open.spotify.com/album/3YN9pb7xbignsmawVbSo0n"
+      },
+      "artists": [
+        {
+          "name": "Snotty Nose Rez Kids",
+          "url": "https://open.spotify.com/artist/16T3el1CEjX49qFA7UT2n5"
+        }
+      ],
+      "duration_ms": 121125,
+      "name": "Bombshell",
+      "url": "https://open.spotify.com/track/2VeN1n4V4e1MQuxsbz1cHe"
+    },
     {
       "added_at": "2026-11-09 19:06:42",
       "album": {

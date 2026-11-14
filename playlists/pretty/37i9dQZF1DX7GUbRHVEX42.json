@@ -1,6 +1,6 @@
 {
   "description": "The best of current & contemporary Reggae.  Cover: Kelissa",
-  "num_followers": 1091499,
+  "num_followers": 1091440,
   "original_name": "Irie",
   "owner": {
     "name": "Spotify",
@@ -507,26 +507,6 @@
     {
       "added_at": "2026-07-29 10:12:11",
       "album": {
-        "name": "Love That Don't Change",
-        "url": "https://open.spotify.com/album/63kwJPFzIUVO0uulgw7tFe"
-      },
-      "artists": [
-        {
-          "name": "Jesse Royal",
-          "url": "https://open.spotify.com/artist/4aXUVIuNCDbLoRAYfuVDi1"
-        },
-        {
-          "name": "Zion I Kings",
-          "url": "https://open.spotify.com/artist/3fvdJGrr5hUYtqoYJkhvCj"
-        }
-      ],
-      "duration_ms": 196801,
-      "name": "Love That Don't Change",
-      "url": "https://open.spotify.com/track/5Grg0T6Warm8nAXeD1LE5d"
-    },
-    {
-      "added_at": "2026-07-29 10:12:11",
-      "album": {
         "name": "The Kalling",
         "url": "https://open.spotify.com/album/2IL0ko13l6DhK4gUebZXd9"
       },
@@ -551,6 +531,26 @@
       "duration_ms": 213977,
       "name": "The Kalling",
       "url": "https://open.spotify.com/track/7sWHIFWauKqIXFPvVA4UTa"
+    },
+    {
+      "added_at": "2026-07-29 10:12:11",
+      "album": {
+        "name": "Love That Don't Change",
+        "url": "https://open.spotify.com/album/63kwJPFzIUVO0uulgw7tFe"
+      },
+      "artists": [
+        {
+          "name": "Jesse Royal",
+          "url": "https://open.spotify.com/artist/4aXUVIuNCDbLoRAYfuVDi1"
+        },
+        {
+          "name": "Zion I Kings",
+          "url": "https://open.spotify.com/artist/3fvdJGrr5hUYtqoYJkhvCj"
+        }
+      ],
+      "duration_ms": 196801,
+      "name": "Love That Don't Change",
+      "url": "https://open.spotify.com/track/5Grg0T6Warm8nAXeD1LE5d"
     },
     {
       "added_at": "2026-07-29 10:12:11",
@@ -687,6 +687,22 @@
     {
       "added_at": "2026-07-29 10:12:11",
       "album": {
+        "name": "Dinero",
+        "url": "https://open.spotify.com/album/7HhFor3YfnUxzOkNIjVGxj"
+      },
+      "artists": [
+        {
+          "name": "Lila Ik\u00e9",
+          "url": "https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO"
+        }
+      ],
+      "duration_ms": 173251,
+      "name": "Dinero",
+      "url": "https://open.spotify.com/track/0QSpm9D61ncQtoDjKNemBK"
+    },
+    {
+      "added_at": "2026-07-29 10:12:11",
+      "album": {
         "name": "Hustling In My Blood",
         "url": "https://open.spotify.com/album/2RBVosWbf5PCDS0b44NiaK"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 255221,
       "name": "Hustling In My Blood",
       "url": "https://open.spotify.com/track/4frqa3VmTDu8uPiflqdmoQ"
-    },
-    {
-      "added_at": "2026-07-29 10:12:11",
-      "album": {
-        "name": "Dinero",
-        "url": "https://open.spotify.com/album/7HhFor3YfnUxzOkNIjVGxj"
-      },
-      "artists": [
-        {
-          "name": "Lila Ik\u00e9",
-          "url": "https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO"
-        }
-      ],
-      "duration_ms": 173251,
-      "name": "Dinero",
-      "url": "https://open.spotify.com/track/0QSpm9D61ncQtoDjKNemBK"
     },
     {
       "added_at": "2026-07-29 10:12:11",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2026-07-29 10:12:11",
       "album": {
-        "name": "Pilates",
-        "url": "https://open.spotify.com/album/6ux6oPZPf2WlDa6lZqxDMs"
-      },
-      "artists": [
-        {
-          "name": "Cashh",
-          "url": "https://open.spotify.com/artist/1CTdJErNqnCWNwtxJmleua"
-        }
-      ],
-      "duration_ms": 145979,
-      "name": "Pilates",
-      "url": "https://open.spotify.com/track/0XnhHtjdEQwhDwQzWVJ3k6"
-    },
-    {
-      "added_at": "2026-07-29 10:12:11",
-      "album": {
         "name": "Safe N Sound",
         "url": "https://open.spotify.com/album/4KkSe9skfC5aFwD2J3WzFN"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 186564,
       "name": "Safe N Sound",
       "url": "https://open.spotify.com/track/0wLcHCDYmsKURWg1dGZUie"
+    },
+    {
+      "added_at": "2026-07-29 10:12:11",
+      "album": {
+        "name": "Pilates",
+        "url": "https://open.spotify.com/album/6ux6oPZPf2WlDa6lZqxDMs"
+      },
+      "artists": [
+        {
+          "name": "Cashh",
+          "url": "https://open.spotify.com/artist/1CTdJErNqnCWNwtxJmleua"
+        }
+      ],
+      "duration_ms": 145979,
+      "name": "Pilates",
+      "url": "https://open.spotify.com/track/0XnhHtjdEQwhDwQzWVJ3k6"
     },
     {
       "added_at": "2026-07-29 10:12:11",

@@ -4,7 +4,7 @@
 
 > New pop releases from the UK & Ireland 🌟 cover: AMMA
 
-1,515 songs - 3 day 6 hr 23 min
+1,516 songs - 3 day 6 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -254,7 +254,7 @@
 | [Cathedrals](https://open.spotify.com/track/5ojrfwZOtKhvoGPoXBZ3Sg) | [Dani Sylvia](https://open.spotify.com/artist/4loap7SYpi11OpsZKnynZj) | [Cathedrals](https://open.spotify.com/album/6ew6nmFkqOLV69IIBXaXCm) | 4:01 | 2026-01-30 | 2026-03-13 |
 | [Cats & Dogs](https://open.spotify.com/track/4QZMcoAggngJc5qSbUqnin) | [Mackenzy Mackay](https://open.spotify.com/artist/28WNtilgFPn1mdz3h0FjHl) | [Cats & Dogs](https://open.spotify.com/album/3BNsRryF2TQlOp9V367aP8) | 2:45 | 2025-10-23 | 2025-12-05 |
 | [cats can surf](https://open.spotify.com/track/3WUBOD1vDawuuHFlnUXjmV) | [Kayla Grace](https://open.spotify.com/artist/12dfSc1rVtEea2qMe38v3T) | [cats can surf](https://open.spotify.com/album/4PWFmTNCil8STXVDlLXNsu) | 2:44 | 2025-03-21 | 2025-04-04 |
-| [CAUGHT IN THE MIDDLE](https://open.spotify.com/track/3rZ8MPU2GY4Vfv3mRnxUP9) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [ARE WE GONNA SING?](https://open.spotify.com/album/0p886Wigw8LQsk1Dq0i0st) | 2:53 | 2026-09-03 |  |
+| [CAUGHT IN THE MIDDLE](https://open.spotify.com/track/3rZ8MPU2GY4Vfv3mRnxUP9) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [ARE WE GONNA SING?](https://open.spotify.com/album/0p886Wigw8LQsk1Dq0i0st) | 2:53 | 2026-09-03 | 2026-11-14 |
 | [Caught Up](https://open.spotify.com/track/4XmQYIwiP6wveSj9bBGCyQ) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Caught Up](https://open.spotify.com/album/4rG8urpRqy180HcCWO1mML) | 3:50 | 2024-06-04 | 2024-10-05 |
 | [Certified](https://open.spotify.com/track/0exagy6KgTwlFakT27iWmC) | [Miso Extra](https://open.spotify.com/artist/0Vv0Cc8LAnIhUsYI4d5wBg) | [Certified](https://open.spotify.com/album/4ehOtM0PYKNnHNbiOwOyn2) | 3:05 | 2025-01-24 | 2025-02-28 |
 | [Chameleon](https://open.spotify.com/track/0UoXbt3i1BiUmtFn8KbDFE) | [Shamiya Battles](https://open.spotify.com/artist/3NTdPQSh0JSz5c5AGngQyE) | [Chameleon](https://open.spotify.com/album/3ouEtmk7OjIapqVqmPLKeg) | 3:03 | 2024-06-04 | 2024-09-13 |
@@ -1020,7 +1020,7 @@
 | [PARADISE](https://open.spotify.com/track/2RM0f0UWF7JumJR9gCxnhI) | [P0STERGIRL](https://open.spotify.com/artist/15fVnaXjS7S2ECEtWDjnG0) | [PARADISE](https://open.spotify.com/album/1WF6yEU5hQyGcb81rPNDzQ) | 4:03 | 2025-03-07 | 2025-03-28 |
 | [Paris](https://open.spotify.com/track/07Ub5Xr2d5UjKAKJXNMP52) | [Just For Fun](https://open.spotify.com/artist/5jCHlaCfuvJlyn5a4yap3t) | [Paris](https://open.spotify.com/album/1JAD1lnNb3shHDqzMQpljy) | 2:22 | 2025-11-07 | 2026-01-03 |
 | [Paris Was Ours](https://open.spotify.com/track/1503XfCZ24QxPhOetCanrr) | [Tamzene](https://open.spotify.com/artist/77YCAroJisD7uOECsiPcAL) | [Paris Was Ours](https://open.spotify.com/album/3udKpRk1g7RnEr68WERzDc) | 3:26 | 2025-04-24 | 2025-05-16 |
-| [Part Time Pop Star](https://open.spotify.com/track/3KKqZvfveQ55uGePVr1Cht) | [Liam C](https://open.spotify.com/artist/5MPz6I6u7lDh2Cy1vPWfkd) | [Part Time Pop Star](https://open.spotify.com/album/4Ai3960D5TUMPbyjET37NU) | 2:38 | 2026-11-13 |  |
+| [Part Time Pop Star](https://open.spotify.com/track/3KKqZvfveQ55uGePVr1Cht) | [Liam C](https://open.spotify.com/artist/5MPz6I6u7lDh2Cy1vPWfkd) | [Part Time Pop Star](https://open.spotify.com/album/4Ai3960D5TUMPbyjET37NU) | 2:33 | 2026-11-13 |  |
 | [Party Baby](https://open.spotify.com/track/3ofTFwIvSlTDud7CFajaNm) | [Grace Carter](https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC) | [Party Baby](https://open.spotify.com/album/4mH1aqzu5zUAi150aeLbI3) | 2:57 | 2026-08-20 | 2026-09-26 |
 | [Passenger Seat](https://open.spotify.com/track/1d0fuygCq7natWK8kelMoY) | [Aimée](https://open.spotify.com/artist/6kiGJNxa3SvcQWfCrqL1sb) | [Passenger Seat](https://open.spotify.com/album/3NFGSk4DZw8ne96ApAJyqY) | 3:44 | 2024-06-04 | 2024-09-20 |
 | [Passenger Seat](https://open.spotify.com/track/76y2Qmpwzak6JhnE8g6gkI) | [Sabyna](https://open.spotify.com/artist/4Pke6JkdRNWAHttfVvnvP6) | [Passenger Seat](https://open.spotify.com/album/53zMYi35j06qijPOjXMZ4d) | 2:45 | 2025-07-24 | 2025-08-22 |
@@ -1134,6 +1134,7 @@
 | [Rose & Jack](https://open.spotify.com/track/5yBfucdNBLpLvbNkdcS3Hl) | [Lo Lauren](https://open.spotify.com/artist/027P708CsXT3Nu0kQ3m3aq) | [Rose & Jack](https://open.spotify.com/album/08WeN6tS6ZNX7XKe08Ynz1) | 2:45 | 2025-03-14 | 2025-04-11 |
 | [Roses In The Dark](https://open.spotify.com/track/7jWryoFLkDR1jeht78uUeQ) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [Roses In The Dark](https://open.spotify.com/album/6xpgyjIqQRJiNQ55Fd5XBx) | 3:13 | 2026-06-26 | 2026-08-07 |
 | [Rosey](https://open.spotify.com/track/2iSSIqqolRbcT6VctUKo59) | [Precious Pepala](https://open.spotify.com/artist/2i6GoBzXmwxdD44bUM26M1) | [Rosey](https://open.spotify.com/album/6hWYemYptiMeYXSV71h5fj) | 3:17 | 2026-04-16 | 2026-06-06 |
+| [route 74](https://open.spotify.com/track/55wkScMCsNFuDzvQyzUh8l) | [fliss](https://open.spotify.com/artist/7r0tZaKpCOZ9oA0LQGKZyX) | [route 74](https://open.spotify.com/album/4GAat7knxMIkTAfOqHxibJ) | 3:27 | 2026-11-13 |  |
 | [Rum Makes Me Cry](https://open.spotify.com/track/5EsoPSwx71W5afdRUZ6Ati) | [Róise](https://open.spotify.com/artist/7ANwWQmuhIV8KmIOoZFjqq) | [Rum Makes Me Cry](https://open.spotify.com/album/5ISHcZUuvwMFxE4l6dFMEv) | 3:32 | 2025-10-09 | 2025-11-28 |
 | [RUMOURS](https://open.spotify.com/track/1i75EU9PVdgpbGHduHclqd) | [Elle Coves](https://open.spotify.com/artist/3Hey7RF0bxnjPP8IEXmPRa) | [RUMOURS](https://open.spotify.com/album/6RPTzdGooT79n9Bsbt3egq) | 3:16 | 2026-07-23 | 2026-09-04 |
 | [Rumours](https://open.spotify.com/track/2SP48oEOJV61lzCjPro2Kb) | [Jack Dean](https://open.spotify.com/artist/4Qqd73y2C4EJsGkM1HfElZ) | [Rumours](https://open.spotify.com/album/6b7lS5cn1wYNr8am6gXahr) | 2:52 | 2025-05-29 | 2025-07-11 |

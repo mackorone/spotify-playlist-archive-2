@@ -1,6 +1,6 @@
 {
   "description": "Recordando a los \u00eddolos de la m\u00fasica de banda. COSME TADEO en portada.",
-  "num_followers": 449504,
+  "num_followers": 449568,
   "original_name": "Banda: Viejitas Pero Bonitas",
   "owner": {
     "name": "Spotify",
@@ -735,18 +735,18 @@
     {
       "added_at": "2026-02-09 16:44:15",
       "album": {
-        "name": "Al Ataque",
-        "url": "https://open.spotify.com/album/3CEKMRCbGdxOnCohDapTcv"
+        "name": "Banda Cuisillos",
+        "url": "https://open.spotify.com/album/38q7dgG8vDm5FGaC1HC6Ww"
       },
       "artists": [
         {
-          "name": "Banda Rafaga",
-          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+          "name": "Cuisillos De Arturo Macias",
+          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
         }
       ],
-      "duration_ms": 201108,
-      "name": "Mil Cartas",
-      "url": "https://open.spotify.com/track/43X0I9YHv8Nxkq5fJ1CD1K"
+      "duration_ms": 182218,
+      "name": "Batelo Morena",
+      "url": "https://open.spotify.com/track/0AI7onDE7WBxDRjuFLX6iQ"
     },
     {
       "added_at": "2026-02-09 16:44:15",
@@ -767,18 +767,18 @@
     {
       "added_at": "2026-02-09 16:44:15",
       "album": {
-        "name": "Banda Cuisillos",
-        "url": "https://open.spotify.com/album/38q7dgG8vDm5FGaC1HC6Ww"
+        "name": "Al Ataque",
+        "url": "https://open.spotify.com/album/3CEKMRCbGdxOnCohDapTcv"
       },
       "artists": [
         {
-          "name": "Cuisillos De Arturo Macias",
-          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
         }
       ],
-      "duration_ms": 182218,
-      "name": "Batelo Morena",
-      "url": "https://open.spotify.com/track/0AI7onDE7WBxDRjuFLX6iQ"
+      "duration_ms": 201108,
+      "name": "Mil Cartas",
+      "url": "https://open.spotify.com/track/43X0I9YHv8Nxkq5fJ1CD1K"
     },
     {
       "added_at": "2026-02-09 16:44:15",
@@ -847,22 +847,6 @@
     {
       "added_at": "2026-02-09 16:44:15",
       "album": {
-        "name": "A Mover el Guayin",
-        "url": "https://open.spotify.com/album/7faetDuF4VoGbqlstgpjct"
-      },
-      "artists": [
-        {
-          "name": "Banda Pelillos",
-          "url": "https://open.spotify.com/artist/4BLePIKRIxR45iGnam62DE"
-        }
-      ],
-      "duration_ms": 196800,
-      "name": "Las mujeres quieren bailar",
-      "url": "https://open.spotify.com/track/5wJOv7x0ObqV024IhCruVF"
-    },
-    {
-      "added_at": "2026-02-09 16:44:15",
-      "album": {
         "name": "Chiquitita",
         "url": "https://open.spotify.com/album/6TpXaOqDOfQgvItf3Fe0v5"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 231375,
       "name": "Y Nos Dieron Las Diez",
       "url": "https://open.spotify.com/track/5VkxZvqAG7uJNWB9ZuP2ok"
+    },
+    {
+      "added_at": "2026-02-09 16:44:15",
+      "album": {
+        "name": "A Mover el Guayin",
+        "url": "https://open.spotify.com/album/7faetDuF4VoGbqlstgpjct"
+      },
+      "artists": [
+        {
+          "name": "Banda Pelillos",
+          "url": "https://open.spotify.com/artist/4BLePIKRIxR45iGnam62DE"
+        }
+      ],
+      "duration_ms": 196800,
+      "name": "Las mujeres quieren bailar",
+      "url": "https://open.spotify.com/track/5wJOv7x0ObqV024IhCruVF"
     },
     {
       "added_at": "2026-02-09 16:44:15",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2026-02-09 16:44:15",
       "album": {
-        "name": "Me Gustan Las Viejas Buenas",
-        "url": "https://open.spotify.com/album/70xlTaBOwwuHqnJ2aqiiLD"
-      },
-      "artists": [
-        {
-          "name": "La Numero 1 Banda Jerez De Marco A. Flores",
-          "url": "https://open.spotify.com/artist/5KMVb0Y20BTIrobzI2YZUi"
-        }
-      ],
-      "duration_ms": 171160,
-      "name": "El Penal De La Loma",
-      "url": "https://open.spotify.com/track/3umpEnkOEPTdbCELamakQF"
-    },
-    {
-      "added_at": "2026-02-09 16:44:15",
-      "album": {
         "name": "Tesoros De Coleccion",
         "url": "https://open.spotify.com/album/3COLgk4Sk5EwFVXm4P6Mo3"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 142253,
       "name": "Al Mismo Nivel",
       "url": "https://open.spotify.com/track/3j4JOeXU20JrrYGHXCr1EY"
+    },
+    {
+      "added_at": "2026-02-09 16:44:15",
+      "album": {
+        "name": "Me Gustan Las Viejas Buenas",
+        "url": "https://open.spotify.com/album/70xlTaBOwwuHqnJ2aqiiLD"
+      },
+      "artists": [
+        {
+          "name": "La Numero 1 Banda Jerez De Marco A. Flores",
+          "url": "https://open.spotify.com/artist/5KMVb0Y20BTIrobzI2YZUi"
+        }
+      ],
+      "duration_ms": 171160,
+      "name": "El Penal De La Loma",
+      "url": "https://open.spotify.com/track/3umpEnkOEPTdbCELamakQF"
     },
     {
       "added_at": "2026-02-09 16:44:15",
@@ -1511,22 +1511,18 @@
     {
       "added_at": "2026-02-09 16:44:15",
       "album": {
-        "name": "Bandido De Amores",
-        "url": "https://open.spotify.com/album/3G7KElUeUivI9GZEPvxKpR"
+        "name": "Grupo El Mexicano",
+        "url": "https://open.spotify.com/album/06QIUFuTgAr4DNUeuu9sX8"
       },
       "artists": [
         {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        },
-        {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
         }
       ],
-      "duration_ms": 178932,
-      "name": "Bandido De Amores",
-      "url": "https://open.spotify.com/track/51oukvakolz61ebuXR3iIh"
+      "duration_ms": 218267,
+      "name": "Feliz, Feliz",
+      "url": "https://open.spotify.com/track/6hFek9A3Xz4g1vgSYJBnzV"
     },
     {
       "added_at": "2026-02-09 16:44:15",
@@ -1563,22 +1559,6 @@
     {
       "added_at": "2026-02-09 16:44:15",
       "album": {
-        "name": "Grupo El Mexicano",
-        "url": "https://open.spotify.com/album/06QIUFuTgAr4DNUeuu9sX8"
-      },
-      "artists": [
-        {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
-        }
-      ],
-      "duration_ms": 212746,
-      "name": "Ramito De Violetas",
-      "url": "https://open.spotify.com/track/5SiAusJizzxkKXy0oowWyK"
-    },
-    {
-      "added_at": "2026-02-09 16:44:15",
-      "album": {
         "name": "Tu Eterno Enamorado",
         "url": "https://open.spotify.com/album/1yVWFex6NKNjEpYzwbKkui"
       },
@@ -1596,17 +1576,53 @@
       "added_at": "2026-02-09 16:44:15",
       "album": {
         "name": "Bandido De Amores",
-        "url": "https://open.spotify.com/album/3aKOLaYOnr8JpjuF73WDAu"
+        "url": "https://open.spotify.com/album/3G7KElUeUivI9GZEPvxKpR"
       },
       "artists": [
         {
           "name": "Joan Sebastian",
           "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        },
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
         }
       ],
-      "duration_ms": 156827,
-      "name": "Viejo Joven El",
-      "url": "https://open.spotify.com/track/18TFdHZoNVXHE5M75xGVc7"
+      "duration_ms": 178932,
+      "name": "Bandido De Amores",
+      "url": "https://open.spotify.com/track/51oukvakolz61ebuXR3iIh"
+    },
+    {
+      "added_at": "2026-02-09 16:44:15",
+      "album": {
+        "name": "Grupo El Mexicano",
+        "url": "https://open.spotify.com/album/06QIUFuTgAr4DNUeuu9sX8"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "duration_ms": 212746,
+      "name": "Ramito De Violetas",
+      "url": "https://open.spotify.com/track/5SiAusJizzxkKXy0oowWyK"
+    },
+    {
+      "added_at": "2026-02-09 16:44:15",
+      "album": {
+        "name": "Exitos De Banda M-1",
+        "url": "https://open.spotify.com/album/57Zhx2ZJv8easioH23qnAZ"
+      },
+      "artists": [
+        {
+          "name": "Banda M-1",
+          "url": "https://open.spotify.com/artist/6OpYbyvig6UrpACbDGSfsT"
+        }
+      ],
+      "duration_ms": 210047,
+      "name": "Que Bonita Te Vez",
+      "url": "https://open.spotify.com/track/0WPcxm4Q68rjTnljKv7tzh"
     },
     {
       "added_at": "2026-02-09 16:44:15",
@@ -1627,38 +1643,6 @@
     {
       "added_at": "2026-02-09 16:44:15",
       "album": {
-        "name": "Exitos De Banda M-1",
-        "url": "https://open.spotify.com/album/57Zhx2ZJv8easioH23qnAZ"
-      },
-      "artists": [
-        {
-          "name": "Banda M-1",
-          "url": "https://open.spotify.com/artist/6OpYbyvig6UrpACbDGSfsT"
-        }
-      ],
-      "duration_ms": 205055,
-      "name": "No Podras",
-      "url": "https://open.spotify.com/track/2MUeIzWFJAkgVGrKVtWKzf"
-    },
-    {
-      "added_at": "2026-02-09 16:44:15",
-      "album": {
-        "name": "Grupo El Mexicano",
-        "url": "https://open.spotify.com/album/06QIUFuTgAr4DNUeuu9sX8"
-      },
-      "artists": [
-        {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
-        }
-      ],
-      "duration_ms": 218267,
-      "name": "Feliz, Feliz",
-      "url": "https://open.spotify.com/track/6hFek9A3Xz4g1vgSYJBnzV"
-    },
-    {
-      "added_at": "2026-02-09 16:44:15",
-      "album": {
         "name": "La Gran Historia Vol. 1",
         "url": "https://open.spotify.com/album/3AjDSQHKqkrHMgv44Esfen"
       },
@@ -1675,8 +1659,8 @@
     {
       "added_at": "2026-02-09 16:44:15",
       "album": {
-        "name": "Joan Sebastian",
-        "url": "https://open.spotify.com/album/0DU0130isqF7wOR0LbDtCA"
+        "name": "Bandido De Amores",
+        "url": "https://open.spotify.com/album/3aKOLaYOnr8JpjuF73WDAu"
       },
       "artists": [
         {
@@ -1684,9 +1668,9 @@
           "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
         }
       ],
-      "duration_ms": 182090,
-      "name": "Torera",
-      "url": "https://open.spotify.com/track/3MNo6kYOYyNpeALfNX9v2L"
+      "duration_ms": 156827,
+      "name": "Viejo Joven El",
+      "url": "https://open.spotify.com/track/18TFdHZoNVXHE5M75xGVc7"
     },
     {
       "added_at": "2026-02-09 16:44:15",
@@ -1716,9 +1700,9 @@
           "url": "https://open.spotify.com/artist/6OpYbyvig6UrpACbDGSfsT"
         }
       ],
-      "duration_ms": 210047,
-      "name": "Que Bonita Te Vez",
-      "url": "https://open.spotify.com/track/0WPcxm4Q68rjTnljKv7tzh"
+      "duration_ms": 205055,
+      "name": "No Podras",
+      "url": "https://open.spotify.com/track/2MUeIzWFJAkgVGrKVtWKzf"
     },
     {
       "added_at": "2026-02-09 16:44:15",
@@ -1755,22 +1739,18 @@
     {
       "added_at": "2026-02-09 16:44:15",
       "album": {
-        "name": "Andan Diciendo",
-        "url": "https://open.spotify.com/album/2lFstwgDxa3CAU0pLiA1Iw"
+        "name": "Joan Sebastian",
+        "url": "https://open.spotify.com/album/0DU0130isqF7wOR0LbDtCA"
       },
       "artists": [
         {
-          "name": "Ra\u00fal Ortega",
-          "url": "https://open.spotify.com/artist/4V7oup5mOTPuBUuZZs3Snb"
-        },
-        {
-          "name": "Banda Arre",
-          "url": "https://open.spotify.com/artist/79M78gAcJWpErxfb380YMP"
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
         }
       ],
-      "duration_ms": 172199,
-      "name": "Esta Cobardia",
-      "url": "https://open.spotify.com/track/2BMWP4MEcaxK7WDRkNeEvn"
+      "duration_ms": 182090,
+      "name": "Torera",
+      "url": "https://open.spotify.com/track/3MNo6kYOYyNpeALfNX9v2L"
     },
     {
       "added_at": "2026-02-09 16:44:15",
@@ -1807,18 +1787,22 @@
     {
       "added_at": "2026-02-09 16:44:15",
       "album": {
-        "name": "Los 20 para Coleccionar",
-        "url": "https://open.spotify.com/album/61L7qffqpjWVCTbxjFS9QF"
+        "name": "Andan Diciendo",
+        "url": "https://open.spotify.com/album/2lFstwgDxa3CAU0pLiA1Iw"
       },
       "artists": [
         {
-          "name": "Banda El Pueblito",
-          "url": "https://open.spotify.com/artist/15myS3NDS2iwVo2gyCl2rm"
+          "name": "Ra\u00fal Ortega",
+          "url": "https://open.spotify.com/artist/4V7oup5mOTPuBUuZZs3Snb"
+        },
+        {
+          "name": "Banda Arre",
+          "url": "https://open.spotify.com/artist/79M78gAcJWpErxfb380YMP"
         }
       ],
-      "duration_ms": 157520,
-      "name": "El Papalotito",
-      "url": "https://open.spotify.com/track/39TNrfFgNsQlSaVkMCW3Uv"
+      "duration_ms": 172199,
+      "name": "Esta Cobardia",
+      "url": "https://open.spotify.com/track/2BMWP4MEcaxK7WDRkNeEvn"
     },
     {
       "added_at": "2026-02-09 16:44:15",
@@ -1839,18 +1823,18 @@
     {
       "added_at": "2026-02-09 16:44:15",
       "album": {
-        "name": "Ranchero y Mucho M\u00e1s",
-        "url": "https://open.spotify.com/album/22V4Ns9jAEuymbDB6hGrFD"
+        "name": "Los 20 para Coleccionar",
+        "url": "https://open.spotify.com/album/61L7qffqpjWVCTbxjFS9QF"
       },
       "artists": [
         {
-          "name": "Jessie Morales El Original De La Sierra",
-          "url": "https://open.spotify.com/artist/268KnHQWmmgiX2O8bxoknW"
+          "name": "Banda El Pueblito",
+          "url": "https://open.spotify.com/artist/15myS3NDS2iwVo2gyCl2rm"
         }
       ],
-      "duration_ms": 163066,
-      "name": "Creo Estar Sona\u00f1do",
-      "url": "https://open.spotify.com/track/27PgKTLK5fZovvx4qR43MS"
+      "duration_ms": 157520,
+      "name": "El Papalotito",
+      "url": "https://open.spotify.com/track/39TNrfFgNsQlSaVkMCW3Uv"
     },
     {
       "added_at": "2026-02-09 16:44:15",
@@ -1887,6 +1871,22 @@
     {
       "added_at": "2026-02-09 16:44:15",
       "album": {
+        "name": "Ranchero y Mucho M\u00e1s",
+        "url": "https://open.spotify.com/album/22V4Ns9jAEuymbDB6hGrFD"
+      },
+      "artists": [
+        {
+          "name": "Jessie Morales El Original De La Sierra",
+          "url": "https://open.spotify.com/artist/268KnHQWmmgiX2O8bxoknW"
+        }
+      ],
+      "duration_ms": 163066,
+      "name": "Creo Estar Sona\u00f1do",
+      "url": "https://open.spotify.com/track/27PgKTLK5fZovvx4qR43MS"
+    },
+    {
+      "added_at": "2026-02-09 16:44:15",
+      "album": {
         "name": "Bandido De Amores",
         "url": "https://open.spotify.com/album/3aKOLaYOnr8JpjuF73WDAu"
       },
@@ -1919,22 +1919,6 @@
     {
       "added_at": "2026-02-09 16:44:15",
       "album": {
-        "name": "Prov\u00f3came",
-        "url": "https://open.spotify.com/album/2hKjSZ3fbwKYWpYr5xTuTN"
-      },
-      "artists": [
-        {
-          "name": "Banda Vallarta Show",
-          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
-        }
-      ],
-      "duration_ms": 180626,
-      "name": "Prov\u00f3came",
-      "url": "https://open.spotify.com/track/6NoG8gvg44g2IWaWt3bBfE"
-    },
-    {
-      "added_at": "2026-02-09 16:44:15",
-      "album": {
         "name": "Despertando Una Leyenda",
         "url": "https://open.spotify.com/album/43eKmwrZeVdMXaePAIHpj8"
       },
@@ -1963,6 +1947,22 @@
       "duration_ms": 155062,
       "name": "Oye Como Va",
       "url": "https://open.spotify.com/track/5dbZ0arhOVDAELk6pDBucF"
+    },
+    {
+      "added_at": "2026-02-09 16:44:15",
+      "album": {
+        "name": "Prov\u00f3came",
+        "url": "https://open.spotify.com/album/2hKjSZ3fbwKYWpYr5xTuTN"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "duration_ms": 180626,
+      "name": "Prov\u00f3came",
+      "url": "https://open.spotify.com/track/6NoG8gvg44g2IWaWt3bBfE"
     },
     {
       "added_at": "2026-02-09 16:44:15",
@@ -2015,22 +2015,6 @@
     {
       "added_at": "2026-02-09 16:44:15",
       "album": {
-        "name": "Esa Chica Me Vacila",
-        "url": "https://open.spotify.com/album/2kJCLd9dNdizlf0n8ATxOs"
-      },
-      "artists": [
-        {
-          "name": "Banda Vallarta Show",
-          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
-        }
-      ],
-      "duration_ms": 220666,
-      "name": "Esa Chica Me Vacila",
-      "url": "https://open.spotify.com/track/0g5JLFIK31liC82k4m2hEs"
-    },
-    {
-      "added_at": "2026-02-09 16:44:15",
-      "album": {
         "name": "Lo Dejar\u00eda Todo",
         "url": "https://open.spotify.com/album/0slFxxE8mELjY6pg5My39R"
       },
@@ -2043,6 +2027,22 @@
       "duration_ms": 182386,
       "name": "No Me Dejes Tan Solo",
       "url": "https://open.spotify.com/track/7kDmpsxLjsExnH0PF7E2oU"
+    },
+    {
+      "added_at": "2026-02-09 16:44:15",
+      "album": {
+        "name": "Esa Chica Me Vacila",
+        "url": "https://open.spotify.com/album/2kJCLd9dNdizlf0n8ATxOs"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "duration_ms": 220666,
+      "name": "Esa Chica Me Vacila",
+      "url": "https://open.spotify.com/track/0g5JLFIK31liC82k4m2hEs"
     },
     {
       "added_at": "2026-02-09 16:44:15",
@@ -2095,22 +2095,6 @@
     {
       "added_at": "2026-02-09 16:44:15",
       "album": {
-        "name": "25 Bandazos de Machos (Vol. 1) [USA]",
-        "url": "https://open.spotify.com/album/641IjGwd385qV3RVouieUv"
-      },
-      "artists": [
-        {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
-        }
-      ],
-      "duration_ms": 188693,
-      "name": "La culebra",
-      "url": "https://open.spotify.com/track/6bJlR3XVNgAOIkKdiKkZz4"
-    },
-    {
-      "added_at": "2026-02-09 16:44:15",
-      "album": {
         "name": "Colecci\u00f3n Privada",
         "url": "https://open.spotify.com/album/6mg7bTIJ4o8E82bstvMAFq"
       },
@@ -2123,6 +2107,22 @@
       "duration_ms": 203280,
       "name": "Borracho Morire",
       "url": "https://open.spotify.com/track/4b6ImioSLFFQeweQFzx69h"
+    },
+    {
+      "added_at": "2026-02-09 16:44:15",
+      "album": {
+        "name": "25 Bandazos de Machos (Vol. 1) [USA]",
+        "url": "https://open.spotify.com/album/641IjGwd385qV3RVouieUv"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "duration_ms": 188693,
+      "name": "La culebra",
+      "url": "https://open.spotify.com/track/6bJlR3XVNgAOIkKdiKkZz4"
     },
     {
       "added_at": "2026-02-09 16:44:15",

@@ -4,7 +4,7 @@
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Kayla Shyx, panicbaby
 
-2,059 songs - 4 day 0 hr 51 min
+2,060 songs - 4 day 0 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,7 +245,7 @@
 | [bikini body](https://open.spotify.com/track/2twXnIDIRD4XIx4OEMx80z) | [MELE](https://open.spotify.com/artist/6Lk699bosWcOqCMFLJFrPp), [zuender](https://open.spotify.com/artist/4lCQMLf3GIOuDzrhVsd2FW) | [bikini body](https://open.spotify.com/album/7KvCv2HwQyAuV8xqPtkcGc) | 2:17 | 2026-07-09 | 2026-08-28 |
 | [Bin nicht verantwortlich für dich](https://open.spotify.com/track/3akDRulHPpIlDseXxUxdWr) | [Paula Engels](https://open.spotify.com/artist/1tO0z6nFsDt5mHYNrSPC0b) | [Kommt von Herzen](https://open.spotify.com/album/3iSXIrFDaqs0bokKlAVX1X) | 3:06 | 2025-09-25 | 2025-10-17 |
 | [BIS EINER WEINT](https://open.spotify.com/track/1iMuG0PaAK5ORbHuIJ54Ah) | [siovo](https://open.spotify.com/artist/00ektSs4zWX7aBQqs5cgST) | [BIS EINER WEINT](https://open.spotify.com/album/2Rtyne5TEgOHq7PCAG4fIy) | 2:53 | 2025-11-27 | 2025-12-12 |
-| [bis zur sehne](https://open.spotify.com/track/6kHiiT7SsGf8YSVjP91HvJ) | [emi x](https://open.spotify.com/artist/5kDJnYkE7Xm5zgEsJHb23u) | [bis zur sehne](https://open.spotify.com/album/72P1oJgcqPHWBLrcKQi8be) | 2:48 | 2026-11-12 |  |
+| [bis zur sehne](https://open.spotify.com/track/6kHiiT7SsGf8YSVjP91HvJ) | [emi x](https://open.spotify.com/artist/5kDJnYkE7Xm5zgEsJHb23u) | [bis zur sehne](https://open.spotify.com/album/72P1oJgcqPHWBLrcKQi8be) | 2:50 | 2026-11-12 |  |
 | [Bist du noch da](https://open.spotify.com/track/4Sxg5naRGtlmeTE4NLQUzk) | [FREDRIK](https://open.spotify.com/artist/4q6dFbIncP8SWxdy18XhPT) | [Bist du noch da](https://open.spotify.com/album/2AXhD4rk0JIkt3rYReK6rm) | 3:41 | 2026-06-18 | 2026-09-04 |
 | [Bitte Bitte](https://open.spotify.com/track/1jeFAGnFiB961m9IrLhnLg) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [Bitte Bitte](https://open.spotify.com/album/0ZjjSQNPUwuzbxGv7VOiQf) | 3:42 | 2023-05-04 | 2023-07-21 |
 | [Bitte bitte](https://open.spotify.com/track/2HFJTmLp6c5IMqke5i67w7) | [RAUM27](https://open.spotify.com/artist/4XYLofF5uTuAHIcuEBdNdr) | [Bitte bitte](https://open.spotify.com/album/4dQm9pDGpfFW3p4KwMhk24) | 2:29 | 2025-01-30 | 2025-05-30 |
@@ -425,6 +425,7 @@
 | [Diese Nacht](https://open.spotify.com/track/6CWr033ZS8JwfKfhuMavWp) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [Zorn & Liebe](https://open.spotify.com/album/6p84H53CGnoPvszkjRWllB) | 2:34 | 2023-02-02 | 2023-02-17 |
 | [Dieser Sommer](https://open.spotify.com/track/1mNZy3V8CrvH3MolrOuhjA) | [Rowli](https://open.spotify.com/artist/062qvlhIYOrATqRTHet3D3) | [Dieser Sommer](https://open.spotify.com/album/3he4eOv3L7dCAF0ree527e) | 2:06 | 2025-04-24 | 2025-07-25 |
 | [Dieses eine Lied](https://open.spotify.com/track/4eqjuxCylVKJykllp83972) | [Jassin](https://open.spotify.com/artist/2hRKaY76bYHW5uCvHqbeMh) | [Dieses eine Lied](https://open.spotify.com/album/3DaMy2PmEpWtfry9aFsg2r) | 2:22 | 2025-02-06 | 2025-04-11 |
+| [Dieses Jahr](https://open.spotify.com/track/0UgFcDkE0UrfKcNSh8VMIo) | [HEADJET](https://open.spotify.com/artist/3nd26anufTmTLliNgafe32) | [CAPPUCCINO PUNKS](https://open.spotify.com/album/5isge6xhBr9Zuc62qbOCZR) | 1:42 | 2026-11-13 |  |
 | [Digitales Wunder](https://open.spotify.com/track/6Ojmg6tZzUgcXmfQA10cvj) | [Bilderbuch](https://open.spotify.com/artist/2ErWLckuGFl84nGmg5fwyG) | [Softpower](https://open.spotify.com/album/74wcjKN0BHP2FTsF89HSGJ) | 2:01 | 2023-08-10 | 2023-08-25 |
 | [dior sauvage](https://open.spotify.com/track/3a2r3BiCyrIJrjQ48GYXvH) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [dior sauvage](https://open.spotify.com/album/6mglQLvNF6toJrkOQId9zs) | 2:27 | 2025-08-21 | 2025-11-20 |
 | [discothèque with u](https://open.spotify.com/track/4H8R6xItwwlB8YrrDTrBbt) | [Tiavo](https://open.spotify.com/artist/13XOdftLPuWTn5iH2bUq2B) | [discothèque with u](https://open.spotify.com/album/3WLuZvcX1N5iyzwU0R2EJW) | 3:06 | 2025-07-10 | 2025-10-10 |
@@ -813,6 +814,7 @@
 | [Herzerwärmend](https://open.spotify.com/track/05GvJcVS8Opytkl0jhu3uu) | [elia](https://open.spotify.com/artist/1UjKYskUYIgAunG722zG3I) | [Herzerwärmend](https://open.spotify.com/album/1TVhg8z7fzwxfr2x1RDpvr) | 2:18 | 2026-01-22 | 2026-03-06 |
 | [Herzschmerz](https://open.spotify.com/track/0tHq02GUfRMlTIHI0HO8SS) | [luisa schweig](https://open.spotify.com/artist/0xh4h2jM3Iv58jGpeTGj5I) | [Herzschmerz](https://open.spotify.com/album/7KBL6jNJaUw78Ps60rtClW) | 3:13 | 2026-05-14 | 2026-06-05 |
 | [Herzschmerz](https://open.spotify.com/track/5ughhzwtQmEKvVAqTTAUJr) | [schening](https://open.spotify.com/artist/47HUWGy57swZz90kjqlytd) | [Herzschmerz](https://open.spotify.com/album/4xjyophkBdEI37WTrt0sVE) | 2:16 | 2026-04-16 | 2026-06-12 |
+| [Hey Gott](https://open.spotify.com/track/3lUbjwTTaHkb7KfP0K8qkY) | [Yu](https://open.spotify.com/artist/3fePw6n7ygV222wnREArp6) | [Please Hold The Line II](https://open.spotify.com/album/4Z5oHM6S51waGwhIuZPte0) | 2:45 | 2026-11-12 |  |
 | [hey hallo \(schräg\)](https://open.spotify.com/track/3n6X2EmrG1W13n02q6lHIW) | [linusjonathan](https://open.spotify.com/artist/3D3Q9LASaJvXo7VxZaJdsP) | [hey hallo \(schräg\)](https://open.spotify.com/album/2mXUyNvFs5KLhsT1dZJYB3) | 2:26 | 2026-07-16 | 2026-08-01 |
 | [Hier](https://open.spotify.com/track/4pixX8XnfVkmLWQDMANjG9) | [Elias](https://open.spotify.com/artist/16YzSnyXMElA8gW0unulku) | [Verlieren/Gefunden](https://open.spotify.com/album/5sHrdD7S86kT85JsOtxOgi) | 2:26 | 2024-07-25 | 2024-09-06 |
 | [Hilferuf](https://open.spotify.com/track/08QqmrxcfV58x8f1o6JxKe) | [Mayberg](https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23) | [Hilferuf](https://open.spotify.com/album/2pV2IQwHfErIcdjNxznMqs) | 2:37 | 2023-02-02 | 2023-03-03 |
@@ -1533,7 +1535,7 @@
 | [schwarze SUVs](https://open.spotify.com/track/5hYfbAxovSsKWYRSelsAhz) | [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic) | [kleine Feuer](https://open.spotify.com/album/672lt6au46TYlrsYLLvTTa) | 2:50 | 2025-02-13 | 2025-02-15 |
 | [schwarzes wasser](https://open.spotify.com/track/4deX0Genki7bcPoxU8rNj6) | [jolle](https://open.spotify.com/artist/6iBB08eTj4dxsbpaXIUJdQ) | [schwarzes wasser](https://open.spotify.com/album/7FVEhgLcyFLQ9PpsFJSGZe) | 2:37 | 2023-08-17 | 2023-09-15 |
 | [schweigen uns an\_v3](https://open.spotify.com/track/3kmlBigDU4d3y9AgYghh70) | [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw), [antonius](https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi) | [schweigen uns an\_v3](https://open.spotify.com/album/58AmJ7bYjpsTZD0JqI0vvc) | 2:21 | 2024-09-12 | 2024-10-18 |
-| [Schwere Zeiten](https://open.spotify.com/track/39P0DriLS9uhRqH99JHv33) | [FREDRIK](https://open.spotify.com/artist/4q6dFbIncP8SWxdy18XhPT) | [Schwere Zeiten](https://open.spotify.com/album/6IFQInMDm8HTlvQFlpX662) | 3:28 | 2026-10-01 |  |
+| [Schwere Zeiten](https://open.spotify.com/track/39P0DriLS9uhRqH99JHv33) | [FREDRIK](https://open.spotify.com/artist/4q6dFbIncP8SWxdy18XhPT) | [Schwere Zeiten](https://open.spotify.com/album/6IFQInMDm8HTlvQFlpX662) | 3:28 | 2026-10-01 | 2026-11-14 |
 | [Schwerelos](https://open.spotify.com/track/2RM8WPg6KhG3SIxtzpYyr3) | [Dominik Hartz](https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI), [Paula Engels](https://open.spotify.com/artist/1tO0z6nFsDt5mHYNrSPC0b) | [Schwerelos](https://open.spotify.com/album/4B2cqjCgqcDdripE2e574R) | 2:06 | 2026-07-02 | 2026-10-30 |
 | [schwerelos](https://open.spotify.com/track/6CCyFCFmXLuPms82BeZJUB) | [taal](https://open.spotify.com/artist/7njUAoCB1JJsEGHc7UoHKs) | [schwerelos](https://open.spotify.com/album/4Vrt92Pk03lHUqG3spK7Pp) | 2:30 | 2025-06-13 | 2025-09-13 |
 | [Schwerkraft](https://open.spotify.com/track/3TltWI1lSnko4Iv1z39NRT) | [Yukno](https://open.spotify.com/artist/01JZtu3hMY7lmY36RCqzIl), [RAHEL](https://open.spotify.com/artist/0WdihSMgLzyjcNcKsdvJCv) | [Schwerkraft](https://open.spotify.com/album/1N61M4kkQw7z2ZlpA2ExgY) | 3:10 | 2023-02-16 | 2023-03-03 |
@@ -1700,6 +1702,7 @@
 | [Sweetlove](https://open.spotify.com/track/0dPQeNbDOYCUlrEbJlxytV) | [Bilderbuch](https://open.spotify.com/artist/2ErWLckuGFl84nGmg5fwyG) | [Magic Life](https://open.spotify.com/album/4umed49HvB2X8x3Kkjf1HO) | 2:46 | 2026-02-12 | 2026-02-15 |
 | [Swimming Circles \(edit\)](https://open.spotify.com/track/5VPxrumSn6DiLX2VfJ5Kfj) | [FRISO](https://open.spotify.com/artist/4xAMTJFCMfH1AZNQexkYEt) | [Swimming Circles \(edit\)](https://open.spotify.com/album/5w7aQAGOUpRC0pQOLB7OYa) | 3:57 | 2025-05-08 | 2025-07-18 |
 | [Swipes](https://open.spotify.com/track/0IfOmijmDKrfEltjOEzUVy) | [herbst](https://open.spotify.com/artist/4LK69bEJ58eoQBb6Vyzz3T) | [wieder verliebt](https://open.spotify.com/album/5XRPudErhTfvAcaAkdcy0x) | 3:04 | 2025-09-25 | 2026-01-15 |
+| [Synergie](https://open.spotify.com/track/594ax4nEGWzdtfzznqNvfj) | [Ivo Martin](https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg) | [Mittendrin Tape](https://open.spotify.com/album/5iCSzftYkin35G0Enk4TzM) | 2:58 | 2026-11-12 |  |
 | [Tango](https://open.spotify.com/track/1XbP4kn5CSYvv1if1rQGbF) | [PaulWetz](https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb) | [Tango](https://open.spotify.com/album/3lEXcCAZXNRYYkgyZIaio2) | 2:09 | 2025-06-05 | 2025-09-05 |
 | [Tanktop in weiß](https://open.spotify.com/track/1QO6A6YsufugovuDMGnJPf) | [herbst](https://open.spotify.com/artist/4LK69bEJ58eoQBb6Vyzz3T) | [Tanktop in weiß](https://open.spotify.com/album/1buE1NXVYqsOhf7tHivWqT) | 2:48 | 2025-05-01 | 2025-08-01 |
 | [Tanz](https://open.spotify.com/track/5XwP6iVIosNHDJpjGCALcW) | [Ivo Martin](https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg) | [Tanz](https://open.spotify.com/album/4KuFPRX0QIIDDkAhr2J2nr) | 2:44 | 2024-05-23 | 2024-09-20 |
@@ -1743,8 +1746,6 @@
 | [Tommy Coconut](https://open.spotify.com/track/1KvOCjy58FvriaXSiksZt8) | [Kobrakasino](https://open.spotify.com/artist/2MG7B6nkAdghlcsmSs5DNb) | [Tommy Coconut](https://open.spotify.com/album/6C05tWBeO5QXisbDXuRD0e) | 3:30 | 2024-06-20 | 2024-06-28 |
 | [Toskana](https://open.spotify.com/track/5NOoDGg7oeM9MS7nTyM4Yf) | [Ottolien](https://open.spotify.com/artist/6tzzvlOZtxLiD4OkowLXDA) | [Toskana](https://open.spotify.com/album/0BmFwlbQWwHuW8E3w2sXCj) | 3:32 | 2023-05-04 | 2023-06-16 |
 | [Tourrettes](https://open.spotify.com/track/5jADtrXb3KgF9zqt4tuZqO) | [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1) | [Tourrettes](https://open.spotify.com/album/1idtQekpXjddMFkPnjKyhk) | 2:48 | 2023-09-14 | 2023-11-03 |
-| [Track 12](https://open.spotify.com/track/3lUbjwTTaHkb7KfP0K8qkY) | [Yu](https://open.spotify.com/artist/3fePw6n7ygV222wnREArp6) | [Please Hold The Line II](https://open.spotify.com/album/4Z5oHM6S51waGwhIuZPte0) | 0:00 | 2026-11-12 |  |
-| [Track 2](https://open.spotify.com/track/594ax4nEGWzdtfzznqNvfj) | [Ivo Martin](https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg) | [Mittendrin Tape](https://open.spotify.com/album/5iCSzftYkin35G0Enk4TzM) | 0:00 | 2026-11-12 |  |
 | [trauen](https://open.spotify.com/track/15v71BkQIpxgW5vY2ernwh) | [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q) | [trauen](https://open.spotify.com/album/1chQKL06AdfzCwZBCX68Po) | 2:44 | 2024-08-08 | 2024-09-27 |
 | [traum](https://open.spotify.com/track/4rJ7Mu1pTf7XGyvX08VBmM) | [Hank](https://open.spotify.com/artist/1OZz0inGRhM1MojienwKeN) | [traum](https://open.spotify.com/album/510TUxmx6oG5bd3MUwN4an) | 2:10 | 2026-09-24 |  |
 | [Traum ist aus](https://open.spotify.com/track/71ZsOjTSC8MK9pitl0qIxC) | [Soeckers](https://open.spotify.com/artist/4j0b9F7NBQoDhqmJ39Se12) | [Bis nach Tokio](https://open.spotify.com/album/7D06xfmZigrbyaCKQOq56v) | 2:48 | 2024-05-23 | 2024-06-07 |

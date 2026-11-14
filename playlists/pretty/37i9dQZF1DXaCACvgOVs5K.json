@@ -1,6 +1,6 @@
 {
   "description": "Get ready for Ibiza season 2026. See you on the dancefloor.",
-  "num_followers": 915031,
+  "num_followers": 915037,
   "original_name": "Ibiza 2026",
   "owner": {
     "name": "Spotify",
@@ -239,6 +239,22 @@
     {
       "added_at": "2026-10-01 23:00:26",
       "album": {
+        "name": "How Ya Feelin\u2019",
+        "url": "https://open.spotify.com/album/0XdbLaKmYsKg0AmDLWo2yV"
+      },
+      "artists": [
+        {
+          "name": "L.P. Rhythm",
+          "url": "https://open.spotify.com/artist/3K5qBiy5EHwb270817Cy6e"
+        }
+      ],
+      "duration_ms": 156792,
+      "name": "How Ya Feelin\u2019",
+      "url": "https://open.spotify.com/track/6HTDX4qgjY6usYjtx18eWf"
+    },
+    {
+      "added_at": "2026-10-01 23:00:26",
+      "album": {
         "name": "Silver Lines (feat. Emily Warren)",
         "url": "https://open.spotify.com/album/0cDWfAk9fRIvcdeITJmUF1"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 201296,
       "name": "Silver Lines (feat. Emily Warren)",
       "url": "https://open.spotify.com/track/2qpkcHxt9Kc5RLf4f7HokU"
-    },
-    {
-      "added_at": "2026-10-01 23:00:26",
-      "album": {
-        "name": "How Ya Feelin\u2019",
-        "url": "https://open.spotify.com/album/0XdbLaKmYsKg0AmDLWo2yV"
-      },
-      "artists": [
-        {
-          "name": "L.P. Rhythm",
-          "url": "https://open.spotify.com/artist/3K5qBiy5EHwb270817Cy6e"
-        }
-      ],
-      "duration_ms": 156792,
-      "name": "How Ya Feelin\u2019",
-      "url": "https://open.spotify.com/track/6HTDX4qgjY6usYjtx18eWf"
     },
     {
       "added_at": "2026-10-01 23:00:26",
@@ -647,6 +647,22 @@
     {
       "added_at": "2026-10-01 23:00:26",
       "album": {
+        "name": "Patigo",
+        "url": "https://open.spotify.com/album/2tos295ovD9NdTx99fCPCf"
+      },
+      "artists": [
+        {
+          "name": "Stryv",
+          "url": "https://open.spotify.com/artist/6XjgqvaVLUib6lCerbZrYD"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Patigo",
+      "url": "https://open.spotify.com/track/6RONUICnXH5jCcHEwX8Lu7"
+    },
+    {
+      "added_at": "2026-10-01 23:00:26",
+      "album": {
         "name": "Unique Moment",
         "url": "https://open.spotify.com/album/0iPrARRc7TA86CBN0dAvBq"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 180000,
       "name": "Unique Moment",
       "url": "https://open.spotify.com/track/2fJFjRgFpfdkbSoyRKUuf7"
-    },
-    {
-      "added_at": "2026-10-01 23:00:26",
-      "album": {
-        "name": "Patigo",
-        "url": "https://open.spotify.com/album/2tos295ovD9NdTx99fCPCf"
-      },
-      "artists": [
-        {
-          "name": "Stryv",
-          "url": "https://open.spotify.com/artist/6XjgqvaVLUib6lCerbZrYD"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Patigo",
-      "url": "https://open.spotify.com/track/6RONUICnXH5jCcHEwX8Lu7"
     },
     {
       "added_at": "2026-10-01 23:00:26",
@@ -787,6 +787,26 @@
     {
       "added_at": "2026-10-01 23:00:26",
       "album": {
+        "name": "HOTS 4 U",
+        "url": "https://open.spotify.com/album/3zib9bQNuFbaBs1hsOAfY9"
+      },
+      "artists": [
+        {
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+        },
+        {
+          "name": "aMo (um)",
+          "url": "https://open.spotify.com/artist/4XVAZbKq64Z3Q0LPpCmoo0"
+        }
+      ],
+      "duration_ms": 214269,
+      "name": "HOTS 4 U",
+      "url": "https://open.spotify.com/track/5nMrR3Ed99WcQ4Vv0wy8Bf"
+    },
+    {
+      "added_at": "2026-10-01 23:00:26",
+      "album": {
         "name": "Mi Casa",
         "url": "https://open.spotify.com/album/2zSH8i7T0nR7jMvV17dnjO"
       },
@@ -815,26 +835,6 @@
       "duration_ms": 231774,
       "name": "Gotta Be Cool",
       "url": "https://open.spotify.com/track/0BYTKcBcRU9w9S8QqbTIUR"
-    },
-    {
-      "added_at": "2026-10-01 23:00:26",
-      "album": {
-        "name": "HOTS 4 U",
-        "url": "https://open.spotify.com/album/3zib9bQNuFbaBs1hsOAfY9"
-      },
-      "artists": [
-        {
-          "name": "Chris Lorenzo",
-          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
-        },
-        {
-          "name": "aMo (um)",
-          "url": "https://open.spotify.com/artist/4XVAZbKq64Z3Q0LPpCmoo0"
-        }
-      ],
-      "duration_ms": 214269,
-      "name": "HOTS 4 U",
-      "url": "https://open.spotify.com/track/5nMrR3Ed99WcQ4Vv0wy8Bf"
     },
     {
       "added_at": "2026-10-01 23:00:26",
@@ -1239,26 +1239,6 @@
     {
       "added_at": "2026-10-01 23:00:26",
       "album": {
-        "name": "Down To The Bone",
-        "url": "https://open.spotify.com/album/6RvCMgBqGhHSdvGlP7SNBa"
-      },
-      "artists": [
-        {
-          "name": "Josh Baker",
-          "url": "https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6"
-        },
-        {
-          "name": "Eliza Rose",
-          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
-        }
-      ],
-      "duration_ms": 171964,
-      "name": "Down To The Bone",
-      "url": "https://open.spotify.com/track/0d2Ad8j1DftVrZENtEA0fj"
-    },
-    {
-      "added_at": "2026-10-01 23:00:26",
-      "album": {
         "name": "Too Bright",
         "url": "https://open.spotify.com/album/6PjvdJpbSe7iBxkN3bNm6m"
       },
@@ -1275,6 +1255,26 @@
       "duration_ms": 213977,
       "name": "Too Bright",
       "url": "https://open.spotify.com/track/3nP5ePIrZh1AUQ1mj6Thxd"
+    },
+    {
+      "added_at": "2026-10-01 23:00:26",
+      "album": {
+        "name": "Down To The Bone",
+        "url": "https://open.spotify.com/album/6RvCMgBqGhHSdvGlP7SNBa"
+      },
+      "artists": [
+        {
+          "name": "Josh Baker",
+          "url": "https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6"
+        },
+        {
+          "name": "Eliza Rose",
+          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
+        }
+      ],
+      "duration_ms": 171964,
+      "name": "Down To The Bone",
+      "url": "https://open.spotify.com/track/0d2Ad8j1DftVrZENtEA0fj"
     },
     {
       "added_at": "2026-10-01 23:00:26",
@@ -1347,22 +1347,22 @@
     {
       "added_at": "2026-10-01 23:00:26",
       "album": {
-        "name": "How Far (Chal\u00e9)",
-        "url": "https://open.spotify.com/album/4kFpGXCVkxWf6ZSMZEzNtF"
+        "name": "Watch Out Now",
+        "url": "https://open.spotify.com/album/36UhpTxYgQTTZS4usewuKY"
       },
       "artists": [
         {
-          "name": "SOLTO (FR)",
-          "url": "https://open.spotify.com/artist/0F3tUZeb9dLNEpxCpzEBQt"
+          "name": "Tim Sanders",
+          "url": "https://open.spotify.com/artist/1E3ho9kLdNdFz1L1JISV82"
         },
         {
-          "name": "BELLIL BROTHERS",
-          "url": "https://open.spotify.com/artist/1AZ8Bec1bBwMdPGwU2ZuiN"
+          "name": "Marshall Jefferson",
+          "url": "https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz"
         }
       ],
-      "duration_ms": 167603,
-      "name": "How Far (Chal\u00e9)",
-      "url": "https://open.spotify.com/track/37HPZFrrfZQypCa639cMO5"
+      "duration_ms": 163890,
+      "name": "Watch Out Now",
+      "url": "https://open.spotify.com/track/5kLXDttdWGI7ERlQHwULX0"
     },
     {
       "added_at": "2026-10-01 23:00:26",
@@ -1383,22 +1383,22 @@
     {
       "added_at": "2026-10-01 23:00:26",
       "album": {
-        "name": "Watch Out Now",
-        "url": "https://open.spotify.com/album/36UhpTxYgQTTZS4usewuKY"
+        "name": "How Far (Chal\u00e9)",
+        "url": "https://open.spotify.com/album/4kFpGXCVkxWf6ZSMZEzNtF"
       },
       "artists": [
         {
-          "name": "Tim Sanders",
-          "url": "https://open.spotify.com/artist/1E3ho9kLdNdFz1L1JISV82"
+          "name": "SOLTO (FR)",
+          "url": "https://open.spotify.com/artist/0F3tUZeb9dLNEpxCpzEBQt"
         },
         {
-          "name": "Marshall Jefferson",
-          "url": "https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz"
+          "name": "BELLIL BROTHERS",
+          "url": "https://open.spotify.com/artist/1AZ8Bec1bBwMdPGwU2ZuiN"
         }
       ],
-      "duration_ms": 163890,
-      "name": "Watch Out Now",
-      "url": "https://open.spotify.com/track/5kLXDttdWGI7ERlQHwULX0"
+      "duration_ms": 167603,
+      "name": "How Far (Chal\u00e9)",
+      "url": "https://open.spotify.com/track/37HPZFrrfZQypCa639cMO5"
     },
     {
       "added_at": "2026-10-01 23:00:26",
@@ -1443,42 +1443,6 @@
     {
       "added_at": "2026-10-01 23:00:26",
       "album": {
-        "name": "Fool Proof",
-        "url": "https://open.spotify.com/album/7kDqMUWxjViqAv5USZa8ig"
-      },
-      "artists": [
-        {
-          "name": "Lee Foss",
-          "url": "https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip"
-        },
-        {
-          "name": "Kosmo Kint",
-          "url": "https://open.spotify.com/artist/5xPHGeNecDlCoEezCF2bWn"
-        }
-      ],
-      "duration_ms": 236307,
-      "name": "Fool Proof",
-      "url": "https://open.spotify.com/track/6jk5SRxOPmWX2Qgf6tVMWb"
-    },
-    {
-      "added_at": "2026-10-01 23:00:26",
-      "album": {
-        "name": "Salam",
-        "url": "https://open.spotify.com/album/5MflkuFCNL0Uye0uy4OrrH"
-      },
-      "artists": [
-        {
-          "name": "MESTIZA",
-          "url": "https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n"
-        }
-      ],
-      "duration_ms": 173637,
-      "name": "Salam",
-      "url": "https://open.spotify.com/track/2Q0Ulx1pR8gTJoCfxOOVCZ"
-    },
-    {
-      "added_at": "2026-10-01 23:00:26",
-      "album": {
         "name": "Sun Goes Down",
         "url": "https://open.spotify.com/album/7ieJv1Atprqvc1UQb58j6l"
       },
@@ -1499,6 +1463,42 @@
       "duration_ms": 189374,
       "name": "Sun Goes Down",
       "url": "https://open.spotify.com/track/1MGf9t1hGyC99eSLbHXFtY"
+    },
+    {
+      "added_at": "2026-10-01 23:00:26",
+      "album": {
+        "name": "Salam",
+        "url": "https://open.spotify.com/album/5MflkuFCNL0Uye0uy4OrrH"
+      },
+      "artists": [
+        {
+          "name": "MESTIZA",
+          "url": "https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n"
+        }
+      ],
+      "duration_ms": 173637,
+      "name": "Salam",
+      "url": "https://open.spotify.com/track/2Q0Ulx1pR8gTJoCfxOOVCZ"
+    },
+    {
+      "added_at": "2026-10-01 23:00:26",
+      "album": {
+        "name": "Fool Proof",
+        "url": "https://open.spotify.com/album/7kDqMUWxjViqAv5USZa8ig"
+      },
+      "artists": [
+        {
+          "name": "Lee Foss",
+          "url": "https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip"
+        },
+        {
+          "name": "Kosmo Kint",
+          "url": "https://open.spotify.com/artist/5xPHGeNecDlCoEezCF2bWn"
+        }
+      ],
+      "duration_ms": 236307,
+      "name": "Fool Proof",
+      "url": "https://open.spotify.com/track/6jk5SRxOPmWX2Qgf6tVMWb"
     },
     {
       "added_at": "2026-10-01 23:00:26",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2026-10-01 23:00:26",
       "album": {
-        "name": "Groovin'",
-        "url": "https://open.spotify.com/album/5M3dYjmtgbeumqwFL4SYvX"
-      },
-      "artists": [
-        {
-          "name": "Disciples",
-          "url": "https://open.spotify.com/artist/5EehXjjMktLuJmbRsM7YfB"
-        }
-      ],
-      "duration_ms": 198931,
-      "name": "Groovin'",
-      "url": "https://open.spotify.com/track/23qCezcrWon6acl0CiLqoK"
-    },
-    {
-      "added_at": "2026-10-01 23:00:26",
-      "album": {
         "name": "Sing It Back",
         "url": "https://open.spotify.com/album/3n5saDIM60fJfhIeZmWZqx"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 220312,
       "name": "Sing It Back",
       "url": "https://open.spotify.com/track/6emZmP4oGTMxFveqpp67vM"
+    },
+    {
+      "added_at": "2026-10-01 23:00:26",
+      "album": {
+        "name": "Groovin'",
+        "url": "https://open.spotify.com/album/5M3dYjmtgbeumqwFL4SYvX"
+      },
+      "artists": [
+        {
+          "name": "Disciples",
+          "url": "https://open.spotify.com/artist/5EehXjjMktLuJmbRsM7YfB"
+        }
+      ],
+      "duration_ms": 198931,
+      "name": "Groovin'",
+      "url": "https://open.spotify.com/track/23qCezcrWon6acl0CiLqoK"
     },
     {
       "added_at": "2026-10-01 23:00:26",
@@ -1795,22 +1795,22 @@
     {
       "added_at": "2026-10-01 23:00:26",
       "album": {
-        "name": "Inside The Brain",
-        "url": "https://open.spotify.com/album/2XNkhgyBfkvbTLtsG3bZEM"
+        "name": "Bubbling",
+        "url": "https://open.spotify.com/album/7oFs9LZzoW0DD3eaitu1Jz"
       },
       "artists": [
         {
-          "name": "SCRIPT",
-          "url": "https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz"
+          "name": "Dennis Cruz",
+          "url": "https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu"
         },
         {
-          "name": "Franksy",
-          "url": "https://open.spotify.com/artist/2OGxLXrhZnYt8X8qL1i1fi"
+          "name": "Patrick Luna",
+          "url": "https://open.spotify.com/artist/7KEMfmb4M0f0H9vOwqzgAy"
         }
       ],
-      "duration_ms": 210461,
-      "name": "Inside The Brain",
-      "url": "https://open.spotify.com/track/1R351V4RX3SRomPcdEV54B"
+      "duration_ms": 209092,
+      "name": "Bubbling",
+      "url": "https://open.spotify.com/track/6GvfH6m9biXR8bL6WW8YX7"
     },
     {
       "added_at": "2026-10-01 23:00:26",
@@ -1831,22 +1831,22 @@
     {
       "added_at": "2026-10-01 23:00:26",
       "album": {
-        "name": "Bubbling",
-        "url": "https://open.spotify.com/album/7oFs9LZzoW0DD3eaitu1Jz"
+        "name": "Inside The Brain",
+        "url": "https://open.spotify.com/album/2XNkhgyBfkvbTLtsG3bZEM"
       },
       "artists": [
         {
-          "name": "Dennis Cruz",
-          "url": "https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu"
+          "name": "SCRIPT",
+          "url": "https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz"
         },
         {
-          "name": "Patrick Luna",
-          "url": "https://open.spotify.com/artist/7KEMfmb4M0f0H9vOwqzgAy"
+          "name": "Franksy",
+          "url": "https://open.spotify.com/artist/2OGxLXrhZnYt8X8qL1i1fi"
         }
       ],
-      "duration_ms": 209092,
-      "name": "Bubbling",
-      "url": "https://open.spotify.com/track/6GvfH6m9biXR8bL6WW8YX7"
+      "duration_ms": 210461,
+      "name": "Inside The Brain",
+      "url": "https://open.spotify.com/track/1R351V4RX3SRomPcdEV54B"
     },
     {
       "added_at": "2026-10-01 23:00:26",

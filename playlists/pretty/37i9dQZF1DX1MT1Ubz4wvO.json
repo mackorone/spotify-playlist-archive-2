@@ -1,15 +1,275 @@
 {
-  "description": "Todas las semanas los nuevos lanzamientos de rock en espa\u00f1ol \ud83d\udcf8 Catalina Ammaturo",
-  "num_followers": 463190,
+  "description": "Todas las semanas los nuevos lanzamientos de rock en espa\u00f1ol \ud83d\udcf8 Prayers",
+  "num_followers": 463198,
   "original_name": "el nuevo rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABFTMXgUtWlUMPHpvBct/VORJ8pK",
+  "snapshot_id": "AAAAAJ36jNfSwCns4mSC8jMPO/wM966Q",
   "tracks": [
     {
-      "added_at": "2026-11-06 06:00:12",
+      "added_at": "2026-11-13 06:01:01",
+      "album": {
+        "name": "Noche de Guerra",
+        "url": "https://open.spotify.com/album/0bAvf4pjosR9qzHMbUA1kK"
+      },
+      "artists": [
+        {
+          "name": "Prayers",
+          "url": "https://open.spotify.com/artist/7a0G4CC3dZdKAAzVRnaRGu"
+        }
+      ],
+      "duration_ms": 267976,
+      "name": "Noche de Guerra",
+      "url": "https://open.spotify.com/track/1P1WwXRbOPF8e99Fd3K4bd"
+    },
+    {
+      "added_at": "2026-11-13 06:01:01",
+      "album": {
+        "name": "Dulce condena (feat. Dani Mart\u00edn)",
+        "url": "https://open.spotify.com/album/774YSTpwYJdLJ8FN1EMuFN"
+      },
+      "artists": [
+        {
+          "name": "Ariel Rot",
+          "url": "https://open.spotify.com/artist/5kXK8waG1JeBQ8b5leWNSu"
+        },
+        {
+          "name": "Dani Mart\u00edn",
+          "url": "https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW"
+        }
+      ],
+      "duration_ms": 276387,
+      "name": "Dulce condena (feat. Dani Mart\u00edn)",
+      "url": "https://open.spotify.com/track/3hH9kOk7CEIC2dUBHs4K68"
+    },
+    {
+      "added_at": "2026-11-13 06:01:01",
+      "album": {
+        "name": "Arjona ten\u00eda raz\u00f3n",
+        "url": "https://open.spotify.com/album/41L3ZOUorI2Yp56MNSZiic"
+      },
+      "artists": [
+        {
+          "name": "Pol",
+          "url": "https://open.spotify.com/artist/0di3IdbM04Sd886p1steuf"
+        }
+      ],
+      "duration_ms": 242898,
+      "name": "Arjona ten\u00eda raz\u00f3n",
+      "url": "https://open.spotify.com/track/1VQhliz9HXeM9dS0rz0wHX"
+    },
+    {
+      "added_at": "2026-11-13 06:01:01",
+      "album": {
+        "name": "Renunciar",
+        "url": "https://open.spotify.com/album/2hF7iz84Be0PQTQGjzeGUv"
+      },
+      "artists": [
+        {
+          "name": "La Tremenda Korte",
+          "url": "https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt"
+        }
+      ],
+      "duration_ms": 198678,
+      "name": "Renunciar",
+      "url": "https://open.spotify.com/track/1gfFhZMbDhGRW41AZXDx9j"
+    },
+    {
+      "added_at": "2026-11-13 06:01:01",
+      "album": {
+        "name": "Ansiedad",
+        "url": "https://open.spotify.com/album/1WwO7enQ6OvLqucTkzsJJV"
+      },
+      "artists": [
+        {
+          "name": "La Texana",
+          "url": "https://open.spotify.com/artist/7KXPjNDl2wveAmMIEZHQhB"
+        }
+      ],
+      "duration_ms": 171196,
+      "name": "Ansiedad",
+      "url": "https://open.spotify.com/track/5brAkFvqxarFc0Rl7JDjlS"
+    },
+    {
+      "added_at": "2026-11-13 06:01:01",
+      "album": {
+        "name": "Robar de recuerdo",
+        "url": "https://open.spotify.com/album/2WFMyZXgRDWdEF9yBizRy4"
+      },
+      "artists": [
+        {
+          "name": "Caballo Prieto Azabache",
+          "url": "https://open.spotify.com/artist/3lldEYxABJZKVPL9NRWcq3"
+        }
+      ],
+      "duration_ms": 199800,
+      "name": "Temporal, todo",
+      "url": "https://open.spotify.com/track/5l4XKPfUP2I2qrVwybOoDS"
+    },
+    {
+      "added_at": "2026-11-13 06:01:01",
+      "album": {
+        "name": "Mala Prensa (Con M-Clan)",
+        "url": "https://open.spotify.com/album/7kuKuCEXlXyh1dgpLBtvuv"
+      },
+      "artists": [
+        {
+          "name": "Viva Suecia",
+          "url": "https://open.spotify.com/artist/57s0ep3eNSg81D7ZxiuHbC"
+        },
+        {
+          "name": "M-Clan",
+          "url": "https://open.spotify.com/artist/4oVqMVHC03xnYJ7fyb1dh6"
+        }
+      ],
+      "duration_ms": 195054,
+      "name": "Mala Prensa (Con M-Clan)",
+      "url": "https://open.spotify.com/track/15wn8XLTP35SqoSRkGrxAa"
+    },
+    {
+      "added_at": "2026-11-13 06:01:01",
+      "album": {
+        "name": "Quererte Es Involuntario",
+        "url": "https://open.spotify.com/album/2dwKNTMA27EJzdxPM38Fsh"
+      },
+      "artists": [
+        {
+          "name": "The Mills",
+          "url": "https://open.spotify.com/artist/7fcGiQtR6dTLwpQzrWsiJn"
+        }
+      ],
+      "duration_ms": 193143,
+      "name": "Quererte Es Involuntario",
+      "url": "https://open.spotify.com/track/7BBatKAueCHF534WNUs51k"
+    },
+    {
+      "added_at": "2026-11-13 06:01:01",
+      "album": {
+        "name": "OBSESI\u00d3N",
+        "url": "https://open.spotify.com/album/4z86ZLyb6cPxIenegcXnjk"
+      },
+      "artists": [
+        {
+          "name": "Una Noche en Bogot\u00e1",
+          "url": "https://open.spotify.com/artist/7oWMrZIuTLI7j0ea7Rx8S8"
+        },
+        {
+          "name": "Catalina",
+          "url": "https://open.spotify.com/artist/5e89WNYIDZlwyI4opb2kCK"
+        }
+      ],
+      "duration_ms": 208200,
+      "name": "OBSESI\u00d3N",
+      "url": "https://open.spotify.com/track/3cA0UZuUYtQuRs9SSWd65R"
+    },
+    {
+      "added_at": "2026-11-13 06:01:01",
+      "album": {
+        "name": "Loco",
+        "url": "https://open.spotify.com/album/07ANRyfMiLzZEtvqhjxsPZ"
+      },
+      "artists": [
+        {
+          "name": "Out Of Control Army",
+          "url": "https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy"
+        },
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 264880,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/3ozEDl1OWdHe08eGoHS8xB"
+    },
+    {
+      "added_at": "2026-11-13 06:01:01",
+      "album": {
+        "name": "ENTVAQ",
+        "url": "https://open.spotify.com/album/1lLvepVqnkwygzroXGHbTv"
+      },
+      "artists": [
+        {
+          "name": "MIKI",
+          "url": "https://open.spotify.com/artist/5ngVZyrFVySdOrvwhYmuss"
+        }
+      ],
+      "duration_ms": 163235,
+      "name": "ENTVAQ",
+      "url": "https://open.spotify.com/track/6vtYB98hLRqDqCQEqfUBa0"
+    },
+    {
+      "added_at": "2026-11-13 06:01:01",
+      "album": {
+        "name": "AMAPOLA",
+        "url": "https://open.spotify.com/album/3ucLkukA4FzCHbGqYjhclC"
+      },
+      "artists": [
+        {
+          "name": "San Venus",
+          "url": "https://open.spotify.com/artist/0I1DNEdOBX3s6eL8UlaskZ"
+        }
+      ],
+      "duration_ms": 174651,
+      "name": "De Mi Para Mi",
+      "url": "https://open.spotify.com/track/1Q2nWEe0jYOeqC5runWIL5"
+    },
+    {
+      "added_at": "2026-11-13 06:01:01",
+      "album": {
+        "name": "Un espejo",
+        "url": "https://open.spotify.com/album/3B0NgrEgkPD31ipqHEj5Ob"
+      },
+      "artists": [
+        {
+          "name": "Luisa Almaguer",
+          "url": "https://open.spotify.com/artist/2EIoOPYbB27xL2XuvKmNEq"
+        },
+        {
+          "name": "Nick Zinner",
+          "url": "https://open.spotify.com/artist/2skDtpQeOI6zjRWIT3iFkO"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "Un espejo",
+      "url": "https://open.spotify.com/track/4r0QGwkkp39xswFfb39Wek"
+    },
+    {
+      "added_at": "2026-11-13 06:01:01",
+      "album": {
+        "name": "Yo no era nadie",
+        "url": "https://open.spotify.com/album/6MiHKljPs4S6AJn3Ths9al"
+      },
+      "artists": [
+        {
+          "name": "Los Secretos",
+          "url": "https://open.spotify.com/artist/2KEDbpUlz9nwtGywHT4gyf"
+        }
+      ],
+      "duration_ms": 222458,
+      "name": "Yo no era nadie",
+      "url": "https://open.spotify.com/track/2KdWGLNkbAeNqTfLf45V5V"
+    },
+    {
+      "added_at": "2026-11-13 06:01:01",
+      "album": {
+        "name": "UN R\u00cdO DE ANGUSTIA DESBOCADA",
+        "url": "https://open.spotify.com/album/3QZXNy7iiMvbyAEHPbKPpg"
+      },
+      "artists": [
+        {
+          "name": "Los Punsetes",
+          "url": "https://open.spotify.com/artist/1jr0mAgIhKtTeKTZwk0HjF"
+        }
+      ],
+      "duration_ms": 187826,
+      "name": "EST\u00c1N LAS TUMBAS LLENAS",
+      "url": "https://open.spotify.com/track/706v22CxkbY5ygxHolUN8b"
+    },
+    {
+      "added_at": "2026-11-13 06:01:01",
       "album": {
         "name": "I Just Wanna Make My Daddy Proud",
         "url": "https://open.spotify.com/album/0NL0Tl9jSVm6pO5cm8GsYX"
@@ -25,7 +285,7 @@
       "url": "https://open.spotify.com/track/6x7xm0nu8KbyeBLz9JgI3T"
     },
     {
-      "added_at": "2026-11-06 06:00:12",
+      "added_at": "2026-11-13 06:01:01",
       "album": {
         "name": "SAHUARO",
         "url": "https://open.spotify.com/album/29lpRI9e86cYqrBxiDRzlD"
@@ -45,7 +305,7 @@
       "url": "https://open.spotify.com/track/3Hsq2yl5dAAs8Rq1Y2JNM4"
     },
     {
-      "added_at": "2026-11-06 06:00:12",
+      "added_at": "2026-11-13 06:01:01",
       "album": {
         "name": "\u00bfQu\u00e9 tan rom\u00e1ntica ser\u00e1 la muerte?",
         "url": "https://open.spotify.com/album/4NDUtUv69zoHBJ4iusBzzD"
@@ -61,7 +321,7 @@
       "url": "https://open.spotify.com/track/1Kujat540VXHBRX2vT7vlB"
     },
     {
-      "added_at": "2026-11-06 06:00:12",
+      "added_at": "2026-11-13 06:01:01",
       "album": {
         "name": "Memoria",
         "url": "https://open.spotify.com/album/678FTHMnoKJOwVE1JH56Jw"
@@ -77,7 +337,7 @@
       "url": "https://open.spotify.com/track/10K0kDK6vrxIfaButo3K2s"
     },
     {
-      "added_at": "2026-11-06 06:00:12",
+      "added_at": "2026-11-13 06:01:01",
       "album": {
         "name": "Gogo House",
         "url": "https://open.spotify.com/album/6q3SOdYyyGtVx3lwremyVr"
@@ -93,7 +353,7 @@
       "url": "https://open.spotify.com/track/1dV46YRFkhP8gGrKzsurJ1"
     },
     {
-      "added_at": "2026-11-06 06:00:12",
+      "added_at": "2026-11-13 06:01:01",
       "album": {
         "name": "Cruzando",
         "url": "https://open.spotify.com/album/5SyTqverrK2T3Iv71DN0Ft"
@@ -113,7 +373,7 @@
       "url": "https://open.spotify.com/track/2JFQVYx1NKefyyrunYICGf"
     },
     {
-      "added_at": "2026-11-06 06:00:12",
+      "added_at": "2026-11-13 06:01:01",
       "album": {
         "name": "ANTES DE MORIRME VOL. 2",
         "url": "https://open.spotify.com/album/4eFShz4bCNUNCnssw2qENi"
@@ -129,7 +389,7 @@
       "url": "https://open.spotify.com/track/1NzlS5lozb9pGtnjXz3hAI"
     },
     {
-      "added_at": "2026-11-06 06:00:12",
+      "added_at": "2026-11-13 06:01:01",
       "album": {
         "name": "Dej\u00e9moslo Como Estaba",
         "url": "https://open.spotify.com/album/5DdqS1tEM2HzExhj0fXK1G"
@@ -145,7 +405,7 @@
       "url": "https://open.spotify.com/track/2POzBe7i64yZF0ngCST3MG"
     },
     {
-      "added_at": "2026-11-06 06:00:12",
+      "added_at": "2026-11-13 06:01:01",
       "album": {
         "name": "Nunca Quise",
         "url": "https://open.spotify.com/album/6KoFjnSO09GemPs4l7KBOK"
@@ -161,7 +421,7 @@
       "url": "https://open.spotify.com/track/2BhwCJbyd6CyEECopyCVrv"
     },
     {
-      "added_at": "2026-11-06 06:00:12",
+      "added_at": "2026-11-13 06:01:01",
       "album": {
         "name": "Era yo la que apuntaba",
         "url": "https://open.spotify.com/album/6HjeY3Gi8xIUKSAVUk6osn"
@@ -177,7 +437,7 @@
       "url": "https://open.spotify.com/track/0Dbcv5NW0ZkBVxfJ8vRSvx"
     },
     {
-      "added_at": "2026-11-06 06:00:12",
+      "added_at": "2026-11-13 06:01:01",
       "album": {
         "name": "Sistem\u00e1tico",
         "url": "https://open.spotify.com/album/5kJAYufFtMzWBxmSIzhINB"
@@ -193,7 +453,7 @@
       "url": "https://open.spotify.com/track/1X8kJyBGdAIy1DAeRg0KrZ"
     },
     {
-      "added_at": "2026-11-06 06:00:12",
+      "added_at": "2026-11-13 06:01:01",
       "album": {
         "name": "Un Precioso Misterio",
         "url": "https://open.spotify.com/album/20hBB2istbaMKJbs5DrvUP"
@@ -209,7 +469,7 @@
       "url": "https://open.spotify.com/track/7HwfzFnUz6GvQSAykCBVYL"
     },
     {
-      "added_at": "2026-11-06 06:00:12",
+      "added_at": "2026-11-13 06:01:01",
       "album": {
         "name": "Ha vuelto a llover",
         "url": "https://open.spotify.com/album/2CNMioex9rzfDAlAAf5D3a"
@@ -225,7 +485,7 @@
       "url": "https://open.spotify.com/track/1O3p4K5uKes2BZNssS21UA"
     },
     {
-      "added_at": "2026-11-06 06:00:12",
+      "added_at": "2026-11-13 06:01:01",
       "album": {
         "name": "\u00c9l te puede esperar (yo te puedo esperar)",
         "url": "https://open.spotify.com/album/5TklKyatdDtoJxK8v9zXse"
@@ -245,7 +505,7 @@
       "url": "https://open.spotify.com/track/1jOuW9d5vaKoOSiB6DkswQ"
     },
     {
-      "added_at": "2026-11-06 06:00:12",
+      "added_at": "2026-11-13 06:01:01",
       "album": {
         "name": "Refugio",
         "url": "https://open.spotify.com/album/4pbtawMzdmHKmaVg85Dgzv"
@@ -261,7 +521,7 @@
       "url": "https://open.spotify.com/track/442wIqwy0fd1yRkOA28QL0"
     },
     {
-      "added_at": "2026-11-06 06:00:12",
+      "added_at": "2026-11-13 06:01:01",
       "album": {
         "name": "Loba",
         "url": "https://open.spotify.com/album/6UQz9dVDv2jt6qWkmYdyvI"
@@ -277,23 +537,7 @@
       "url": "https://open.spotify.com/track/2z6IkKOVT8iCfrJDKHxckB"
     },
     {
-      "added_at": "2026-11-06 06:00:12",
-      "album": {
-        "name": "DERIVA SANTA",
-        "url": "https://open.spotify.com/album/66lhDUh4BCWoZegBXr2yJC"
-      },
-      "artists": [
-        {
-          "name": "O Tortuga",
-          "url": "https://open.spotify.com/artist/3mcduWnWZYTdZm0w2fuvhK"
-        }
-      ],
-      "duration_ms": 185096,
-      "name": "SAICOYOGA",
-      "url": "https://open.spotify.com/track/73fieAhwop4Jcc3ZJzIvqO"
-    },
-    {
-      "added_at": "2026-11-06 06:00:12",
+      "added_at": "2026-11-13 06:01:01",
       "album": {
         "name": "La tragedia, Vol. 1",
         "url": "https://open.spotify.com/album/3fR15MIfGkt0bbhfrEuq2B"
@@ -309,7 +553,7 @@
       "url": "https://open.spotify.com/track/43jSWlu67Cm5TQPK9tzAug"
     },
     {
-      "added_at": "2026-11-06 06:00:12",
+      "added_at": "2026-11-13 06:01:01",
       "album": {
         "name": "Bravos",
         "url": "https://open.spotify.com/album/37K3rhTIsQPwbysEt5CVjQ"
@@ -325,7 +569,7 @@
       "url": "https://open.spotify.com/track/4W888odW6QE2LK3iI1J5ZQ"
     },
     {
-      "added_at": "2026-11-06 06:00:12",
+      "added_at": "2026-11-13 06:01:01",
       "album": {
         "name": "Los Mala Influencia",
         "url": "https://open.spotify.com/album/3fPAfpItlRSSJGOPzNCHUZ"
@@ -341,7 +585,7 @@
       "url": "https://open.spotify.com/track/2Jh6qBSeZrF2prMT8S4OMO"
     },
     {
-      "added_at": "2026-11-06 06:00:12",
+      "added_at": "2026-11-13 06:01:01",
       "album": {
         "name": "Pinta Dormir",
         "url": "https://open.spotify.com/album/6sXaCwgib8zRXGo4JytVfE"
@@ -357,7 +601,7 @@
       "url": "https://open.spotify.com/track/5J45zUa10WwNBSFtXv02Gp"
     },
     {
-      "added_at": "2026-11-06 06:00:12",
+      "added_at": "2026-11-13 06:01:01",
       "album": {
         "name": "Polim\u00f3rfiko",
         "url": "https://open.spotify.com/album/4TJ2Ky6OmeoMwAmNpqqTS9"
@@ -373,7 +617,7 @@
       "url": "https://open.spotify.com/track/3i0dT422FmRaKaK75C3cOI"
     },
     {
-      "added_at": "2026-11-06 06:00:12",
+      "added_at": "2026-11-13 06:01:01",
       "album": {
         "name": "Ni\u00f1os Bomba",
         "url": "https://open.spotify.com/album/1xBOlR7OG6L01Y5MdzjvBW"
@@ -389,7 +633,7 @@
       "url": "https://open.spotify.com/track/0TwnggGArA0zKxnQB7w7i3"
     },
     {
-      "added_at": "2026-11-06 06:00:12",
+      "added_at": "2026-11-13 06:01:01",
       "album": {
         "name": "Mientras el Guadalquivir fluye y fluye y fluye",
         "url": "https://open.spotify.com/album/1K33sAPS3Ss1IA0M2bjVLL"
@@ -405,7 +649,7 @@
       "url": "https://open.spotify.com/track/2Q4YOglXjeGWZvHTMvV0pg"
     },
     {
-      "added_at": "2026-11-06 06:00:12",
+      "added_at": "2026-11-13 06:01:01",
       "album": {
         "name": "So\u00f1ar en grande",
         "url": "https://open.spotify.com/album/5yKewAh8mpFG4A74UzrvJX"
@@ -421,7 +665,7 @@
       "url": "https://open.spotify.com/track/43c9vLjT1d2gn8LkvSyc5t"
     },
     {
-      "added_at": "2026-11-06 06:00:12",
+      "added_at": "2026-11-13 06:01:01",
       "album": {
         "name": "esta maldita ciudad",
         "url": "https://open.spotify.com/album/53U2U4Ll4OCmFnQjxuJCy0"
@@ -437,7 +681,7 @@
       "url": "https://open.spotify.com/track/5PCATZ7sSo2pSEgZUv44xJ"
     },
     {
-      "added_at": "2026-11-06 06:00:12",
+      "added_at": "2026-11-13 06:01:01",
       "album": {
         "name": "En Off",
         "url": "https://open.spotify.com/album/0CfV9h0WnGdLbrcYRpuGMm"
@@ -457,7 +701,7 @@
       "url": "https://open.spotify.com/track/50HgnaM8mKFXhlR0z2Vxt9"
     },
     {
-      "added_at": "2026-11-06 06:00:12",
+      "added_at": "2026-11-13 06:01:01",
       "album": {
         "name": "Mi peor enemigo",
         "url": "https://open.spotify.com/album/45QGNZvqtsbpAtUSQ3jNeV"
@@ -477,7 +721,7 @@
       "url": "https://open.spotify.com/track/3yHuRpypYB3Rg2JIE8kp35"
     },
     {
-      "added_at": "2026-11-06 06:00:12",
+      "added_at": "2026-11-13 06:01:01",
       "album": {
         "name": "c\u00f3mo conoc\u00ed a Poster Boy",
         "url": "https://open.spotify.com/album/5rBmbb0PHxKpO5mr7FhX0M"
@@ -493,7 +737,7 @@
       "url": "https://open.spotify.com/track/4NbVVxfYYRsgULc4ZSfVEh"
     },
     {
-      "added_at": "2026-11-06 06:00:12",
+      "added_at": "2026-11-13 06:01:01",
       "album": {
         "name": "El rey que rabi\u00f3 (Introducci\u00f3n)",
         "url": "https://open.spotify.com/album/43VAmaup3v2VnxXvkDwx05"
@@ -513,7 +757,7 @@
       "url": "https://open.spotify.com/track/2Ntx2CLUFKQ3VKDhYaBbiw"
     },
     {
-      "added_at": "2026-11-06 06:00:12",
+      "added_at": "2026-11-13 06:01:01",
       "album": {
         "name": "Carne con patatas",
         "url": "https://open.spotify.com/album/5pzOeB0WHon4aswxCs0srO"
@@ -533,7 +777,7 @@
       "url": "https://open.spotify.com/track/1twpRMpEbfhVd5KUQPx9Z0"
     },
     {
-      "added_at": "2026-11-06 06:00:12",
+      "added_at": "2026-11-13 06:01:01",
       "album": {
         "name": "MOSQUITO",
         "url": "https://open.spotify.com/album/44WGd1h2MnCkO1Sa3mzKwB"
@@ -549,7 +793,7 @@
       "url": "https://open.spotify.com/track/1so0w64iWBDvUDqjinTXAl"
     },
     {
-      "added_at": "2026-11-06 06:00:12",
+      "added_at": "2026-11-13 06:01:01",
       "album": {
         "name": "Hombre Ficci\u00f3n",
         "url": "https://open.spotify.com/album/23AaXiCU6oJGYkQJYHTw8a"
@@ -565,7 +809,7 @@
       "url": "https://open.spotify.com/track/1x9sg1RzYxXJF9NzbNGRMl"
     },
     {
-      "added_at": "2026-11-06 06:00:12",
+      "added_at": "2026-11-13 06:01:01",
       "album": {
         "name": "Un recuerdo soleado",
         "url": "https://open.spotify.com/album/17XpjW3Mtx6HecNdMHIR6P"
@@ -581,7 +825,7 @@
       "url": "https://open.spotify.com/track/70afF8hq5OMAMKBMXQyFxl"
     },
     {
-      "added_at": "2026-11-06 06:00:12",
+      "added_at": "2026-11-13 06:01:01",
       "album": {
         "name": "Mi \u00faltimo aliento",
         "url": "https://open.spotify.com/album/2LgpZlmJop1vj8E7ZxH8uQ"
@@ -597,7 +841,7 @@
       "url": "https://open.spotify.com/track/6pG4j9nFCpNyxTO4KIXhmN"
     },
     {
-      "added_at": "2026-11-06 06:00:12",
+      "added_at": "2026-11-13 06:01:01",
       "album": {
         "name": "Malir Sal",
         "url": "https://open.spotify.com/album/06EIfZ4zyjlD3WUnlVR3JR"
@@ -611,246 +855,6 @@
       "duration_ms": 200000,
       "name": "Malir Sal",
       "url": "https://open.spotify.com/track/3GGVeXIqGFqcZ3zYkmFu9z"
-    },
-    {
-      "added_at": "2026-11-06 06:00:12",
-      "album": {
-        "name": "Amalgama",
-        "url": "https://open.spotify.com/album/5dUgQxv2SDI8lh66rFQbDg"
-      },
-      "artists": [
-        {
-          "name": "Kidchen",
-          "url": "https://open.spotify.com/artist/0rssDtHql43sHidf6XgMz8"
-        }
-      ],
-      "duration_ms": 130738,
-      "name": "Tapin",
-      "url": "https://open.spotify.com/track/3mssXaNyjc2ANAKywGcare"
-    },
-    {
-      "added_at": "2026-11-06 06:00:12",
-      "album": {
-        "name": "Sistemas",
-        "url": "https://open.spotify.com/album/5S6yk2egMeJDVuptTYHZO4"
-      },
-      "artists": [
-        {
-          "name": "Rubytates",
-          "url": "https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj"
-        }
-      ],
-      "duration_ms": 242419,
-      "name": "Sombras",
-      "url": "https://open.spotify.com/track/2Htqlqa3v0goHLZMDCsPXl"
-    },
-    {
-      "added_at": "2026-11-06 06:00:12",
-      "album": {
-        "name": "Dientes De Fierro",
-        "url": "https://open.spotify.com/album/0CIFeXjeCPwCL2fvydBmtd"
-      },
-      "artists": [
-        {
-          "name": "Nsqk",
-          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
-        },
-        {
-          "name": "Jean Dawson",
-          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
-        }
-      ],
-      "duration_ms": 222580,
-      "name": "Dientes De Fierro",
-      "url": "https://open.spotify.com/track/4dAjV0Fmr0NfBjR09KpiFj"
-    },
-    {
-      "added_at": "2026-11-06 06:00:12",
-      "album": {
-        "name": "De Tripas Corazon",
-        "url": "https://open.spotify.com/album/6Wmf35PuB45Hd0H3ab9Au6"
-      },
-      "artists": [
-        {
-          "name": "Foco De Atelier",
-          "url": "https://open.spotify.com/artist/5GZzO9MK60ZEQ5iiErfs2A"
-        },
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        },
-        {
-          "name": "Alex Lora",
-          "url": "https://open.spotify.com/artist/65jeNkVjlDdEUkPGSFyyNh"
-        },
-        {
-          "name": "Chela Lora",
-          "url": "https://open.spotify.com/artist/5qh2vmAPXtLgMQTq2t1vC7"
-        }
-      ],
-      "duration_ms": 181654,
-      "name": "De Tripas Corazon",
-      "url": "https://open.spotify.com/track/7IhxmLSsaeCBxhbPGcuNox"
-    },
-    {
-      "added_at": "2026-11-06 06:00:12",
-      "album": {
-        "name": "Decena Tr\u00e1gica",
-        "url": "https://open.spotify.com/album/4V8Ey2RfGO7Na9dd0b9Tdn"
-      },
-      "artists": [
-        {
-          "name": "Odisseo",
-          "url": "https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "Campo de Aceleraci\u00f3n",
-      "url": "https://open.spotify.com/track/188TecoYYwv4SHkc6KvRMg"
-    },
-    {
-      "added_at": "2026-11-06 06:00:12",
-      "album": {
-        "name": "ACEPTO MI CONDICI\u00d3N",
-        "url": "https://open.spotify.com/album/2QZ1E41wZjka5VsCRutSie"
-      },
-      "artists": [
-        {
-          "name": "Los Punsetes",
-          "url": "https://open.spotify.com/artist/1jr0mAgIhKtTeKTZwk0HjF"
-        }
-      ],
-      "duration_ms": 164480,
-      "name": "ACEPTO MI CONDICI\u00d3N",
-      "url": "https://open.spotify.com/track/2VWewWgiuNQQrpilHExPq4"
-    },
-    {
-      "added_at": "2026-11-06 06:00:12",
-      "album": {
-        "name": "Bicho raro",
-        "url": "https://open.spotify.com/album/3xwbi277jWTg8qxQiUytnq"
-      },
-      "artists": [
-        {
-          "name": "Estopa",
-          "url": "https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai"
-        }
-      ],
-      "duration_ms": 174265,
-      "name": "Bicho raro",
-      "url": "https://open.spotify.com/track/4Gzh5W9A7FAcFzoUkmg9mL"
-    },
-    {
-      "added_at": "2026-11-06 06:00:12",
-      "album": {
-        "name": "Desvanecer",
-        "url": "https://open.spotify.com/album/0hgExYdCezbqVC52kG9pxN"
-      },
-      "artists": [
-        {
-          "name": "Desierto Drive",
-          "url": "https://open.spotify.com/artist/7yRpXimBBuifq5IwlbVfSY"
-        }
-      ],
-      "duration_ms": 283466,
-      "name": "Desvanecer",
-      "url": "https://open.spotify.com/track/68K8AUI0psagxordDpcuCN"
-    },
-    {
-      "added_at": "2026-11-06 06:00:12",
-      "album": {
-        "name": "No Vale La Pena",
-        "url": "https://open.spotify.com/album/4XasAEjAtS8ALgyb1uwTtg"
-      },
-      "artists": [
-        {
-          "name": "Blnko",
-          "url": "https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d"
-        }
-      ],
-      "duration_ms": 154285,
-      "name": "No Vale La Pena",
-      "url": "https://open.spotify.com/track/4ns496WALkYAfIPiRZrUzz"
-    },
-    {
-      "added_at": "2026-11-06 06:00:12",
-      "album": {
-        "name": "Caras Largas",
-        "url": "https://open.spotify.com/album/6U7YP4tBO7V4WemTMmzlWx"
-      },
-      "artists": [
-        {
-          "name": "Interferencias",
-          "url": "https://open.spotify.com/artist/5FfMaucNsbPciI1kCmVQIN"
-        }
-      ],
-      "duration_ms": 169130,
-      "name": "Caras Largas",
-      "url": "https://open.spotify.com/track/4CA9IaYwMN5W9noZaav3u5"
-    },
-    {
-      "added_at": "2026-11-06 06:00:12",
-      "album": {
-        "name": "D\u00e9jalo",
-        "url": "https://open.spotify.com/album/2mPACzhM2swQWu2yjEimQA"
-      },
-      "artists": [
-        {
-          "name": "San Tosielo",
-          "url": "https://open.spotify.com/artist/1Vp0zKCF6r1aut8Emx7CHH"
-        }
-      ],
-      "duration_ms": 243490,
-      "name": "D\u00e9jalo",
-      "url": "https://open.spotify.com/track/0rSMq0gQW1hgNVHark2pKO"
-    },
-    {
-      "added_at": "2026-11-06 06:00:12",
-      "album": {
-        "name": "Corolla Del 96",
-        "url": "https://open.spotify.com/album/2IGmu7SaHgxydC2n7eHzFE"
-      },
-      "artists": [
-        {
-          "name": "Los Mesoneros",
-          "url": "https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517"
-        }
-      ],
-      "duration_ms": 190023,
-      "name": "Corolla Del 96",
-      "url": "https://open.spotify.com/track/1oO8aFnTnlLO85ryc0K6tx"
-    },
-    {
-      "added_at": "2026-11-06 06:00:12",
-      "album": {
-        "name": "Somos El Poder",
-        "url": "https://open.spotify.com/album/2csKKgxknYialip62wT5Tr"
-      },
-      "artists": [
-        {
-          "name": "La Sant\u00edsima Voladora",
-          "url": "https://open.spotify.com/artist/4gRK50jqC4k8yGS2aEG2F0"
-        }
-      ],
-      "duration_ms": 177015,
-      "name": "Somos El Poder",
-      "url": "https://open.spotify.com/track/2scMbcsixVtq2FExIxXAMp"
-    },
-    {
-      "added_at": "2026-11-06 06:00:12",
-      "album": {
-        "name": "Cuando Vas al Trabajo",
-        "url": "https://open.spotify.com/album/4ZIcax9d1AXwPRoua42q94"
-      },
-      "artists": [
-        {
-          "name": "Ni\u00f1os Del Cerro",
-          "url": "https://open.spotify.com/artist/1RpIuXeUsxfYBdQIg19QSy"
-        }
-      ],
-      "duration_ms": 160554,
-      "name": "Cuando Vas al Trabajo",
-      "url": "https://open.spotify.com/track/5dQvh98O4WO4PLiUNPrCE1"
     }
   ],
   "unique_name": "el nuevo rock",

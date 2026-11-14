@@ -1,12 +1,12 @@
 {
   "description": "Det b\u00e4sta fr\u00e5n den svenska reggaescenen.",
-  "num_followers": 385877,
+  "num_followers": 385850,
   "original_name": "Svensk Reggae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAO25NGpBGHAnnx2OQkiTluHftXkl",
+  "snapshot_id": "AAAAAJvOQK2RhX945LXLB6DTh2MqJ2eF",
   "tracks": [
     {
       "added_at": "2024-06-24 11:19:01",
@@ -99,18 +99,22 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
-        "name": "Natural",
-        "url": "https://open.spotify.com/album/22giI2UbV7ETeAyTis7jmM"
+        "name": "Jag hade en g\u00e5ng en b\u00e5t",
+        "url": "https://open.spotify.com/album/7bCBdPT2hSbaWhIBqyYgqd"
       },
       "artists": [
         {
-          "name": "Kalle Baah",
-          "url": "https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI"
+          "name": "Allyawan",
+          "url": "https://open.spotify.com/artist/5Pcez7u1H2Po6e2LmMdF3f"
+        },
+        {
+          "name": "N\u00e4\u00e4\u00e4k",
+          "url": "https://open.spotify.com/artist/4zJlp9X6E6IpfUrIzwrg7S"
         }
       ],
-      "duration_ms": 260399,
-      "name": "You Are My Angel",
-      "url": "https://open.spotify.com/track/6GSKEnNSqP8e1jXlJw9LXW"
+      "duration_ms": 231333,
+      "name": "Jag hade en g\u00e5ng en b\u00e5t",
+      "url": "https://open.spotify.com/track/5szr4bzNGqGkLeYgSMMHso"
     },
     {
       "added_at": "2024-06-24 11:19:01",
@@ -147,22 +151,18 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
-        "name": "Jag hade en g\u00e5ng en b\u00e5t",
-        "url": "https://open.spotify.com/album/7bCBdPT2hSbaWhIBqyYgqd"
+        "name": "Natural",
+        "url": "https://open.spotify.com/album/22giI2UbV7ETeAyTis7jmM"
       },
       "artists": [
         {
-          "name": "Allyawan",
-          "url": "https://open.spotify.com/artist/5Pcez7u1H2Po6e2LmMdF3f"
-        },
-        {
-          "name": "N\u00e4\u00e4\u00e4k",
-          "url": "https://open.spotify.com/artist/4zJlp9X6E6IpfUrIzwrg7S"
+          "name": "Kalle Baah",
+          "url": "https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI"
         }
       ],
-      "duration_ms": 231333,
-      "name": "Jag hade en g\u00e5ng en b\u00e5t",
-      "url": "https://open.spotify.com/track/5szr4bzNGqGkLeYgSMMHso"
+      "duration_ms": 260399,
+      "name": "You Are My Angel",
+      "url": "https://open.spotify.com/track/6GSKEnNSqP8e1jXlJw9LXW"
     },
     {
       "added_at": "2024-06-24 11:19:01",
@@ -183,22 +183,6 @@
       "duration_ms": 229960,
       "name": "Babylonsjukan",
       "url": "https://open.spotify.com/track/4xd2Qn78AeaA9FLnAS3J6S"
-    },
-    {
-      "added_at": "2024-06-24 11:19:01",
-      "album": {
-        "name": "Natural",
-        "url": "https://open.spotify.com/album/22giI2UbV7ETeAyTis7jmM"
-      },
-      "artists": [
-        {
-          "name": "Kalle Baah",
-          "url": "https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI"
-        }
-      ],
-      "duration_ms": 275800,
-      "name": "Ugly Girls",
-      "url": "https://open.spotify.com/track/5J9hKcW0JYDXZR93h3ZI9s"
     },
     {
       "added_at": "2024-06-24 11:19:01",
@@ -227,6 +211,22 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
+        "name": "H\u00f6g standard",
+        "url": "https://open.spotify.com/album/1ZYTcyOohNFetwUzj8t1bi"
+      },
+      "artists": [
+        {
+          "name": "Peps Blodsband",
+          "url": "https://open.spotify.com/artist/16qbt9c47JP8oKWOSAycMD"
+        }
+      ],
+      "duration_ms": 316000,
+      "name": "H\u00f6g standard",
+      "url": "https://open.spotify.com/track/14cGnZZ9Cg3y8VLhVtavXe"
+    },
+    {
+      "added_at": "2024-06-24 11:19:01",
+      "album": {
         "name": "Fri",
         "url": "https://open.spotify.com/album/5f8H1KwJEnHUdJESdUdkqF"
       },
@@ -247,18 +247,18 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
-        "name": "H\u00f6g standard",
-        "url": "https://open.spotify.com/album/1ZYTcyOohNFetwUzj8t1bi"
+        "name": "Natural",
+        "url": "https://open.spotify.com/album/22giI2UbV7ETeAyTis7jmM"
       },
       "artists": [
         {
-          "name": "Peps Blodsband",
-          "url": "https://open.spotify.com/artist/16qbt9c47JP8oKWOSAycMD"
+          "name": "Kalle Baah",
+          "url": "https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI"
         }
       ],
-      "duration_ms": 316000,
-      "name": "H\u00f6g standard",
-      "url": "https://open.spotify.com/track/14cGnZZ9Cg3y8VLhVtavXe"
+      "duration_ms": 275800,
+      "name": "Ugly Girls",
+      "url": "https://open.spotify.com/track/5J9hKcW0JYDXZR93h3ZI9s"
     },
     {
       "added_at": "2024-06-24 11:19:01",
@@ -275,22 +275,6 @@
       "duration_ms": 217142,
       "name": "Dimman",
       "url": "https://open.spotify.com/track/1Cn1uxLBMOF4GKnJeooLMN"
-    },
-    {
-      "added_at": "2024-06-24 11:19:01",
-      "album": {
-        "name": "Under samma himmel",
-        "url": "https://open.spotify.com/album/7j3kCLy8PHT9kaXR6bBnIA"
-      },
-      "artists": [
-        {
-          "name": "Kalle Baah",
-          "url": "https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI"
-        }
-      ],
-      "duration_ms": 253977,
-      "name": "Under samma himmel",
-      "url": "https://open.spotify.com/track/5i1gw38Lf3EkOueDEbhwzO"
     },
     {
       "added_at": "2024-06-24 11:19:01",
@@ -351,6 +335,22 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
+        "name": "Under samma himmel",
+        "url": "https://open.spotify.com/album/7j3kCLy8PHT9kaXR6bBnIA"
+      },
+      "artists": [
+        {
+          "name": "Kalle Baah",
+          "url": "https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI"
+        }
+      ],
+      "duration_ms": 253977,
+      "name": "Under samma himmel",
+      "url": "https://open.spotify.com/track/5i1gw38Lf3EkOueDEbhwzO"
+    },
+    {
+      "added_at": "2024-06-24 11:19:01",
+      "album": {
         "name": "RONGO",
         "url": "https://open.spotify.com/album/5i0g968zy2kYVry7u9Vt8I"
       },
@@ -367,22 +367,6 @@
       "duration_ms": 214000,
       "name": "Vassaste kniven i l\u00e5dan",
       "url": "https://open.spotify.com/track/52LxPEtzRRHr2OwDvv8ZNK"
-    },
-    {
-      "added_at": "2024-06-24 11:19:01",
-      "album": {
-        "name": "Blacka Rasta",
-        "url": "https://open.spotify.com/album/6a8pZmRJxeCPG7XUFGiCYG"
-      },
-      "artists": [
-        {
-          "name": "Kalle Baah",
-          "url": "https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI"
-        }
-      ],
-      "duration_ms": 211573,
-      "name": "Sm\u00e5 svarta \u00e4nglar",
-      "url": "https://open.spotify.com/track/4XzlEOyf4X1pHCujvUlYN7"
     },
     {
       "added_at": "2024-06-24 11:19:01",
@@ -439,6 +423,22 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
+        "name": "Blacka Rasta",
+        "url": "https://open.spotify.com/album/6a8pZmRJxeCPG7XUFGiCYG"
+      },
+      "artists": [
+        {
+          "name": "Kalle Baah",
+          "url": "https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI"
+        }
+      ],
+      "duration_ms": 211573,
+      "name": "Sm\u00e5 svarta \u00e4nglar",
+      "url": "https://open.spotify.com/track/4XzlEOyf4X1pHCujvUlYN7"
+    },
+    {
+      "added_at": "2024-06-24 11:19:01",
+      "album": {
         "name": "Leva",
         "url": "https://open.spotify.com/album/2gJ3K86IBOXtF8nBeOGEKh"
       },
@@ -451,22 +451,6 @@
       "duration_ms": 176613,
       "name": "Leva",
       "url": "https://open.spotify.com/track/1sAPHDjzEslM7YL6tFgRds"
-    },
-    {
-      "added_at": "2024-06-24 11:19:01",
-      "album": {
-        "name": "Br\u00e5da dagar",
-        "url": "https://open.spotify.com/album/2fYUrWZt0JQ3Ny0YdM53WR"
-      },
-      "artists": [
-        {
-          "name": "Kalle Baah",
-          "url": "https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI"
-        }
-      ],
-      "duration_ms": 254293,
-      "name": "Bulleribock",
-      "url": "https://open.spotify.com/track/5IKbSU96n46JOVu75evnPs"
     },
     {
       "added_at": "2024-06-24 11:19:01",
@@ -527,22 +511,18 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
-        "name": "Fr\u00e5n och med Du",
-        "url": "https://open.spotify.com/album/4roiBkmOkDwfZHpI6spw6G"
+        "name": "Br\u00e5da dagar",
+        "url": "https://open.spotify.com/album/2fYUrWZt0JQ3Ny0YdM53WR"
       },
       "artists": [
         {
-          "name": "Antonio D",
-          "url": "https://open.spotify.com/artist/4nhVPRChv24WG40x4H0eaG"
-        },
-        {
-          "name": "Wha Gwaan Band",
-          "url": "https://open.spotify.com/artist/519ozfPMom8eTzU0xjRPbG"
+          "name": "Kalle Baah",
+          "url": "https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI"
         }
       ],
-      "duration_ms": 260000,
-      "name": "Fr\u00e5n och med Du",
-      "url": "https://open.spotify.com/track/2wStsM878RWyPXv0yMfpca"
+      "duration_ms": 254293,
+      "name": "Bulleribock",
+      "url": "https://open.spotify.com/track/5IKbSU96n46JOVu75evnPs"
     },
     {
       "added_at": "2024-06-24 11:19:01",
@@ -567,6 +547,26 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
+        "name": "Fr\u00e5n och med Du",
+        "url": "https://open.spotify.com/album/4roiBkmOkDwfZHpI6spw6G"
+      },
+      "artists": [
+        {
+          "name": "Antonio D",
+          "url": "https://open.spotify.com/artist/4nhVPRChv24WG40x4H0eaG"
+        },
+        {
+          "name": "Wha Gwaan Band",
+          "url": "https://open.spotify.com/artist/519ozfPMom8eTzU0xjRPbG"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Fr\u00e5n och med Du",
+      "url": "https://open.spotify.com/track/2wStsM878RWyPXv0yMfpca"
+    },
+    {
+      "added_at": "2024-06-24 11:19:01",
+      "album": {
         "name": "H\u00e5ll i dig",
         "url": "https://open.spotify.com/album/17xGFARAsqJOvJrETeHtiM"
       },
@@ -587,22 +587,6 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
-        "name": "Min Zina",
-        "url": "https://open.spotify.com/album/3drmlPE7bYAfLkxSnO2otb"
-      },
-      "artists": [
-        {
-          "name": "Alibrorsh",
-          "url": "https://open.spotify.com/artist/2jVINorjiDk0mkd5WZA6Tw"
-        }
-      ],
-      "duration_ms": 196459,
-      "name": "Min Zina",
-      "url": "https://open.spotify.com/track/0JpkJkAD2li7buwV9dL9gu"
-    },
-    {
-      "added_at": "2024-06-24 11:19:01",
-      "album": {
         "name": "K\u00e4r Och Galen",
         "url": "https://open.spotify.com/album/6yzMLFDLgqVkH488i7X2UN"
       },
@@ -619,22 +603,18 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
-        "name": "Baluns",
-        "url": "https://open.spotify.com/album/71rcv1SUcbmo6CB6vo0NxN"
+        "name": "Min Zina",
+        "url": "https://open.spotify.com/album/3drmlPE7bYAfLkxSnO2otb"
       },
       "artists": [
         {
-          "name": "Antonio D",
-          "url": "https://open.spotify.com/artist/4nhVPRChv24WG40x4H0eaG"
-        },
-        {
-          "name": "Dirty Jens",
-          "url": "https://open.spotify.com/artist/1re0NOBZGoyheVxR4tLev7"
+          "name": "Alibrorsh",
+          "url": "https://open.spotify.com/artist/2jVINorjiDk0mkd5WZA6Tw"
         }
       ],
-      "duration_ms": 155294,
-      "name": "Baluns",
-      "url": "https://open.spotify.com/track/6CGJTlDyAIqUAjnHTlP2O3"
+      "duration_ms": 196459,
+      "name": "Min Zina",
+      "url": "https://open.spotify.com/track/0JpkJkAD2li7buwV9dL9gu"
     },
     {
       "added_at": "2024-06-24 11:19:01",
@@ -659,6 +639,26 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
+        "name": "Baluns",
+        "url": "https://open.spotify.com/album/71rcv1SUcbmo6CB6vo0NxN"
+      },
+      "artists": [
+        {
+          "name": "Antonio D",
+          "url": "https://open.spotify.com/artist/4nhVPRChv24WG40x4H0eaG"
+        },
+        {
+          "name": "Dirty Jens",
+          "url": "https://open.spotify.com/artist/1re0NOBZGoyheVxR4tLev7"
+        }
+      ],
+      "duration_ms": 155294,
+      "name": "Baluns",
+      "url": "https://open.spotify.com/track/6CGJTlDyAIqUAjnHTlP2O3"
+    },
+    {
+      "added_at": "2024-06-24 11:19:01",
+      "album": {
         "name": "Sverigefiende (Fest mot v\u00e5ldsgrupp)",
         "url": "https://open.spotify.com/album/1jFdSfYFWx0qE3OsZ4iPjG"
       },
@@ -671,22 +671,6 @@
       "duration_ms": 206853,
       "name": "Sverigefiende (Fest mot v\u00e5ldsgrupp)",
       "url": "https://open.spotify.com/track/14MW91DLP58duFYEGP8q7b"
-    },
-    {
-      "added_at": "2024-06-24 11:19:01",
-      "album": {
-        "name": "S\u00e5 nice",
-        "url": "https://open.spotify.com/album/35gUoDZjN5C7yK6czZnp7y"
-      },
-      "artists": [
-        {
-          "name": "Syster Sol",
-          "url": "https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5"
-        }
-      ],
-      "duration_ms": 169500,
-      "name": "S\u00e5 nice",
-      "url": "https://open.spotify.com/track/7ydwM6jH4kqbr7MOXp11NO"
     },
     {
       "added_at": "2024-06-24 11:19:01",
@@ -707,18 +691,18 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
-        "name": "Pirret",
-        "url": "https://open.spotify.com/album/5zvIrBTquTxatX4YerGuzM"
+        "name": "S\u00e5 nice",
+        "url": "https://open.spotify.com/album/35gUoDZjN5C7yK6czZnp7y"
       },
       "artists": [
         {
-          "name": "Antonio D",
-          "url": "https://open.spotify.com/artist/4nhVPRChv24WG40x4H0eaG"
+          "name": "Syster Sol",
+          "url": "https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5"
         }
       ],
-      "duration_ms": 260079,
-      "name": "Pirret",
-      "url": "https://open.spotify.com/track/5ign6ygkGPmRsfJiRnU84g"
+      "duration_ms": 169500,
+      "name": "S\u00e5 nice",
+      "url": "https://open.spotify.com/track/7ydwM6jH4kqbr7MOXp11NO"
     },
     {
       "added_at": "2024-06-24 11:19:01",
@@ -743,18 +727,18 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
-        "name": "S\u00e5 fakking fin",
-        "url": "https://open.spotify.com/album/3YvgJQ8Tp2pDZWX7iBjdKA"
+        "name": "Pirret",
+        "url": "https://open.spotify.com/album/5zvIrBTquTxatX4YerGuzM"
       },
       "artists": [
         {
-          "name": "Robinholta",
-          "url": "https://open.spotify.com/artist/0xsZpPENdV56KIViR6yFDc"
+          "name": "Antonio D",
+          "url": "https://open.spotify.com/artist/4nhVPRChv24WG40x4H0eaG"
         }
       ],
-      "duration_ms": 160000,
-      "name": "S\u00e5 fakking fin",
-      "url": "https://open.spotify.com/track/4fmeEPi8QtqhvEBHtedhSQ"
+      "duration_ms": 260079,
+      "name": "Pirret",
+      "url": "https://open.spotify.com/track/5ign6ygkGPmRsfJiRnU84g"
     },
     {
       "added_at": "2024-06-24 11:19:01",
@@ -779,6 +763,22 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
+        "name": "S\u00e5 fakking fin",
+        "url": "https://open.spotify.com/album/3YvgJQ8Tp2pDZWX7iBjdKA"
+      },
+      "artists": [
+        {
+          "name": "Robinholta",
+          "url": "https://open.spotify.com/artist/0xsZpPENdV56KIViR6yFDc"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "S\u00e5 fakking fin",
+      "url": "https://open.spotify.com/track/4fmeEPi8QtqhvEBHtedhSQ"
+    },
+    {
+      "added_at": "2024-06-24 11:19:01",
+      "album": {
         "name": "Orginalo",
         "url": "https://open.spotify.com/album/0a1g53YRYvik2nmVEKqBZq"
       },
@@ -791,22 +791,6 @@
       "duration_ms": 186666,
       "name": "Orginalo",
       "url": "https://open.spotify.com/track/5EsssUXKQWbRPSZ7M1i9kN"
-    },
-    {
-      "added_at": "2024-06-24 11:19:01",
-      "album": {
-        "name": "S\u00e4g Till Mig",
-        "url": "https://open.spotify.com/album/36p7buidQlnzHhmXWnkGLW"
-      },
-      "artists": [
-        {
-          "name": "Antonio D",
-          "url": "https://open.spotify.com/artist/4nhVPRChv24WG40x4H0eaG"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "S\u00e4g Till Mig",
-      "url": "https://open.spotify.com/track/2hwH19DHE3ZUY0mFamo9wL"
     },
     {
       "added_at": "2024-06-24 11:19:01",
@@ -827,6 +811,22 @@
       "duration_ms": 220527,
       "name": "L\u00e5t oss leva",
       "url": "https://open.spotify.com/track/30rJhrVMHZtStKYxWoJfZf"
+    },
+    {
+      "added_at": "2024-06-24 11:19:01",
+      "album": {
+        "name": "S\u00e4g Till Mig",
+        "url": "https://open.spotify.com/album/36p7buidQlnzHhmXWnkGLW"
+      },
+      "artists": [
+        {
+          "name": "Antonio D",
+          "url": "https://open.spotify.com/artist/4nhVPRChv24WG40x4H0eaG"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "S\u00e4g Till Mig",
+      "url": "https://open.spotify.com/track/2hwH19DHE3ZUY0mFamo9wL"
     },
     {
       "added_at": "2024-06-24 11:19:01",
@@ -887,22 +887,18 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
-        "name": "V\u00e5r Dans",
-        "url": "https://open.spotify.com/album/2BVFkcAdtAu3vAQZ3jLUS6"
+        "name": "Fet Krokodil",
+        "url": "https://open.spotify.com/album/5at64z4ZwtkZGSX98y1WtB"
       },
       "artists": [
         {
-          "name": "Antonio D",
-          "url": "https://open.spotify.com/artist/4nhVPRChv24WG40x4H0eaG"
-        },
-        {
-          "name": "Admiral P",
-          "url": "https://open.spotify.com/artist/2P87oRX5tCFl1PYQRbPCPD"
+          "name": "P-Danjelsa",
+          "url": "https://open.spotify.com/artist/1aRGrIf66qGIeHgLJJm3mk"
         }
       ],
-      "duration_ms": 181115,
-      "name": "V\u00e5r Dans",
-      "url": "https://open.spotify.com/track/0akrglttILrVEe2ncifHsH"
+      "duration_ms": 194563,
+      "name": "Fet Krokodil",
+      "url": "https://open.spotify.com/track/5ee0DD0aIFVdLAmiQPPwtM"
     }
   ],
   "unique_name": "Svensk Reggae",

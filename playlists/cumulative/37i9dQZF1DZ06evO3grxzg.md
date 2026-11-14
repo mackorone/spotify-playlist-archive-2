@@ -4,7 +4,7 @@
 
 > This is Danna Paola\. The essential tracks, all in one playlist.
 
-153 songs - 8 hr 9 min
+154 songs - 8 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Ladrones](https://open.spotify.com/track/23R6LNvr5YGUw4iJiPhXOb) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Cuatro Estaciones](https://open.spotify.com/album/6Ur6AsWdJDIdihiDWqNz7m) | 3:03 | 2023-03-19 | 2026-05-15 |
 | [Late Mi Corazón \- Version Pop](https://open.spotify.com/track/1445hOsDuFX6aVKfvBtWgi) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [A Romper La Piñata](https://open.spotify.com/album/3GNl89v4dDBIoH91sXvazf) | 4:02 | 2026-05-17 |  |
 | [Lo Que No Sabes](https://open.spotify.com/track/0N0AD9mvFdUn4eEpLskdzV) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [SIE7E +](https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE) | 3:54 | 2025-01-16 | 2025-06-26 |
+| [Lo Que No Sabes](https://open.spotify.com/track/0WMeFfdrLoRjDoVX0vTFnG) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [SIE7E](https://open.spotify.com/album/4J7EXFsYW1SmRWmYAjwhEo) | 3:54 | 2026-11-14 |  |
 | [Mala Fama](https://open.spotify.com/track/2LVWDR1oEthhLIOtT4hHih) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [SIE7E](https://open.spotify.com/album/4J7EXFsYW1SmRWmYAjwhEo) | 3:02 | 2026-10-18 |  |
 | [Mala Fama](https://open.spotify.com/track/2D9itdl85AQVNpTfrxvUGj) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [SIE7E +](https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE) | 3:02 | 2023-03-19 | 2026-04-02 |
 | [Mariposa Y Sol](https://open.spotify.com/track/5laCdDysZ44czBosf4F10W) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Atrévete A Soñar](https://open.spotify.com/album/571Z1f9GtauZi0OmKUyPu6) | 3:26 | 2026-04-02 |  |
@@ -130,7 +131,7 @@
 | [Subtítulos](https://open.spotify.com/track/3GXLEtcY0SsmpRoiGWGuZM) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Cuatro Estaciones](https://open.spotify.com/album/6Ur6AsWdJDIdihiDWqNz7m) | 3:12 | 2023-03-19 | 2026-05-15 |
 | [Sugar Mami](https://open.spotify.com/track/2cBDzxzjkytWGRggDJbn3g) | [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Sugar Mami](https://open.spotify.com/album/4CokgfnlUd2OdTB00DKtOV) | 2:11 | 2023-06-17 | 2026-05-17 |
 | [Sólo Quédate En Silencio](https://open.spotify.com/track/1xnxZtx5pcXC6UpPZydZr3) | [Moderatto](https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Rockea Bien Duro](https://open.spotify.com/album/34vemP8xTFy8VhTvwCDcLN) | 3:54 | 2025-02-17 | 2026-03-27 |
-| [Sólo Quédate En Silencio](https://open.spotify.com/track/4FRPlHTb9rhzMBlBgr25hg) | [Moderatto](https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Pop Posesión Vol\. 3](https://open.spotify.com/album/7pnbazVEcFl7y2tRKrLmFc) | 3:54 | 2026-11-07 |  |
+| [Sólo Quédate En Silencio](https://open.spotify.com/track/4FRPlHTb9rhzMBlBgr25hg) | [Moderatto](https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Pop Posesión Vol\. 3](https://open.spotify.com/album/7pnbazVEcFl7y2tRKrLmFc) | 3:54 | 2026-11-07 | 2026-11-14 |
 | [Sólo Quédate En Silencio](https://open.spotify.com/track/2yqqGDKsgqw27XvnBCgXwD) | [Moderatto](https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Sólo Quédate En Silencio](https://open.spotify.com/album/6GIZBF6pkjNmBGgSCeLrPB) | 3:55 | 2023-03-19 | 2026-04-02 |
 | [T.A.C.O.](https://open.spotify.com/track/3BtvZuzvNbN7OIaUsWIM5M) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [K.O.](https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK) | 3:00 | 2023-03-19 | 2026-04-02 |
 | [Take A Chance On Me](https://open.spotify.com/track/1ue2fObPbPA8idw4OKawZU) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Dancing Queens Un Tributo Para ABBA](https://open.spotify.com/album/05UDkHg10FACnRaSKpsMwL) | 3:29 | 2026-08-29 |  |

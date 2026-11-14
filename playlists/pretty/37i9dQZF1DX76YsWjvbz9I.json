@@ -1,6 +1,6 @@
 {
   "description": "The unforgettable romantic Jazz songs.",
-  "num_followers": 344790,
+  "num_followers": 344839,
   "original_name": "Jazz for Lovers",
   "owner": {
     "name": "Spotify",
@@ -235,22 +235,6 @@
     {
       "added_at": "2026-02-09 08:07:44",
       "album": {
-        "name": "Winners",
-        "url": "https://open.spotify.com/album/5t0NxBH6oTG4ycs7l7Qtgr"
-      },
-      "artists": [
-        {
-          "name": "Bobby Darin",
-          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
-        }
-      ],
-      "duration_ms": 216626,
-      "name": "What a Difference a Day Makes",
-      "url": "https://open.spotify.com/track/1qJZMKfspF92mDSeQtkjb6"
-    },
-    {
-      "added_at": "2026-02-09 08:07:44",
-      "album": {
         "name": "Sings Sweet Songs For Swingers",
         "url": "https://open.spotify.com/album/6SESAIqP8sQTVp0ZRVcdOq"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 184720,
       "name": "Let's Fall In Love",
       "url": "https://open.spotify.com/track/2RnJD2mTBxqvHcqmXk1n9c"
+    },
+    {
+      "added_at": "2026-02-09 08:07:44",
+      "album": {
+        "name": "Winners",
+        "url": "https://open.spotify.com/album/5t0NxBH6oTG4ycs7l7Qtgr"
+      },
+      "artists": [
+        {
+          "name": "Bobby Darin",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+        }
+      ],
+      "duration_ms": 216626,
+      "name": "What a Difference a Day Makes",
+      "url": "https://open.spotify.com/track/1qJZMKfspF92mDSeQtkjb6"
     },
     {
       "added_at": "2026-02-09 08:07:44",
@@ -315,22 +315,6 @@
     {
       "added_at": "2026-02-09 08:07:44",
       "album": {
-        "name": "Love Swings",
-        "url": "https://open.spotify.com/album/5Jny59DZHuswsttq0zJE65"
-      },
-      "artists": [
-        {
-          "name": "Bobby Darin",
-          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
-        }
-      ],
-      "duration_ms": 133213,
-      "name": "It Had to Be You",
-      "url": "https://open.spotify.com/track/3qTYzMkbzxqRtA2hlSz4Ba"
-    },
-    {
-      "added_at": "2026-02-09 08:07:44",
-      "album": {
         "name": "Ella Fitzgerald Sings The Jerome Kern Song Book",
         "url": "https://open.spotify.com/album/5h4aTZVRSMxo9JzQojpUSx"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 195666,
       "name": "All The Things You Are",
       "url": "https://open.spotify.com/track/5gPetRvxQKyOjjwZX1dzbt"
+    },
+    {
+      "added_at": "2026-02-09 08:07:44",
+      "album": {
+        "name": "Love Swings",
+        "url": "https://open.spotify.com/album/5Jny59DZHuswsttq0zJE65"
+      },
+      "artists": [
+        {
+          "name": "Bobby Darin",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+        }
+      ],
+      "duration_ms": 133213,
+      "name": "It Had to Be You",
+      "url": "https://open.spotify.com/track/3qTYzMkbzxqRtA2hlSz4Ba"
     },
     {
       "added_at": "2026-02-09 08:07:44",
@@ -399,22 +399,6 @@
     {
       "added_at": "2026-02-09 08:07:44",
       "album": {
-        "name": "Ultimate Peggy Lee",
-        "url": "https://open.spotify.com/album/1bXDfEwCLg5gl3M1orv1WX"
-      },
-      "artists": [
-        {
-          "name": "Peggy Lee",
-          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
-        }
-      ],
-      "duration_ms": 150053,
-      "name": "Hallelujah, I Love Him So",
-      "url": "https://open.spotify.com/track/499GXjmRXzKrZLmiWrhvuY"
-    },
-    {
-      "added_at": "2026-02-09 08:07:44",
-      "album": {
         "name": "The Complete Ella And Louis On Verve",
         "url": "https://open.spotify.com/album/2uqlkJu6vckJahCsp6Hfcn"
       },
@@ -435,22 +419,18 @@
     {
       "added_at": "2026-02-09 08:07:44",
       "album": {
-        "name": "Nancy Wilson/Cannonball Adderley",
-        "url": "https://open.spotify.com/album/6yyNgCQNsJ3VJ9PP7CmvLJ"
+        "name": "Ultimate Peggy Lee",
+        "url": "https://open.spotify.com/album/1bXDfEwCLg5gl3M1orv1WX"
       },
       "artists": [
         {
-          "name": "Nancy Wilson",
-          "url": "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
-        },
-        {
-          "name": "Cannonball Adderley",
-          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
+          "name": "Peggy Lee",
+          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
         }
       ],
-      "duration_ms": 164866,
-      "name": "Save Your Love For Me",
-      "url": "https://open.spotify.com/track/4ur0Fd4coSwWtP8MWpkjR9"
+      "duration_ms": 150053,
+      "name": "Hallelujah, I Love Him So",
+      "url": "https://open.spotify.com/track/499GXjmRXzKrZLmiWrhvuY"
     },
     {
       "added_at": "2026-02-09 08:07:44",
@@ -471,6 +451,26 @@
       "duration_ms": 170546,
       "name": "Cheek To Cheek",
       "url": "https://open.spotify.com/track/0UuRIovHyU6KeTzY4gS0L2"
+    },
+    {
+      "added_at": "2026-02-09 08:07:44",
+      "album": {
+        "name": "Nancy Wilson/Cannonball Adderley",
+        "url": "https://open.spotify.com/album/6yyNgCQNsJ3VJ9PP7CmvLJ"
+      },
+      "artists": [
+        {
+          "name": "Nancy Wilson",
+          "url": "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
+        },
+        {
+          "name": "Cannonball Adderley",
+          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
+        }
+      ],
+      "duration_ms": 164866,
+      "name": "Save Your Love For Me",
+      "url": "https://open.spotify.com/track/4ur0Fd4coSwWtP8MWpkjR9"
     },
     {
       "added_at": "2026-02-09 08:07:44",
@@ -523,22 +523,6 @@
     {
       "added_at": "2026-02-09 08:07:44",
       "album": {
-        "name": "Mystery Lady: Songs of Billie Holiday",
-        "url": "https://open.spotify.com/album/73XbGVMidbd8XpuNmTVkOW"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 266733,
-      "name": "The Man I Love",
-      "url": "https://open.spotify.com/track/0rXZu998CXslEpwhxdHzeu"
-    },
-    {
-      "added_at": "2026-02-09 08:07:44",
-      "album": {
         "name": "Hello, Dolly! (Remastered)",
         "url": "https://open.spotify.com/album/213k6pbTGOHxlMpz5lb7zC"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 271333,
       "name": "A Kiss To Build A Dream On",
       "url": "https://open.spotify.com/track/6GtJqo0vr7DqWOHQtp77cV"
+    },
+    {
+      "added_at": "2026-02-09 08:07:44",
+      "album": {
+        "name": "Mystery Lady: Songs of Billie Holiday",
+        "url": "https://open.spotify.com/album/73XbGVMidbd8XpuNmTVkOW"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 266733,
+      "name": "The Man I Love",
+      "url": "https://open.spotify.com/track/0rXZu998CXslEpwhxdHzeu"
     },
     {
       "added_at": "2026-02-09 08:07:44",
@@ -675,22 +675,6 @@
     {
       "added_at": "2026-02-09 08:07:44",
       "album": {
-        "name": "The Touch Of Your Lips",
-        "url": "https://open.spotify.com/album/6c2YK2NhQfnN1eyVqxF5bm"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 499533,
-      "name": "The touch of your lips",
-      "url": "https://open.spotify.com/track/4QwzVlAJSkcLeCNQ6Ug30P"
-    },
-    {
-      "added_at": "2026-02-09 08:07:44",
-      "album": {
         "name": "Sings The Jerome Kern Song Book, Vol.1 & 2",
         "url": "https://open.spotify.com/album/7lK3JDdKHJGdKZcTFodGcd"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 122800,
       "name": "You Couldn't Be Cuter",
       "url": "https://open.spotify.com/track/5wK0I2nGDosuttrhkVHZnO"
+    },
+    {
+      "added_at": "2026-02-09 08:07:44",
+      "album": {
+        "name": "The Touch Of Your Lips",
+        "url": "https://open.spotify.com/album/6c2YK2NhQfnN1eyVqxF5bm"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 499533,
+      "name": "The touch of your lips",
+      "url": "https://open.spotify.com/track/4QwzVlAJSkcLeCNQ6Ug30P"
     },
     {
       "added_at": "2026-02-09 08:07:44",
@@ -723,8 +723,8 @@
     {
       "added_at": "2026-02-09 08:07:44",
       "album": {
-        "name": "What A Diff'rence A Day Makes! (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0w8YD8Wz1hEkwXdsAMzzFe"
+        "name": "September In The Rain",
+        "url": "https://open.spotify.com/album/1UMCHEE4nXBN2JLOgk7rQV"
       },
       "artists": [
         {
@@ -732,9 +732,9 @@
           "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
         }
       ],
-      "duration_ms": 161173,
-      "name": "It's Magic",
-      "url": "https://open.spotify.com/track/3Dwj9k9GC0Tm8nDvE9U5Pg"
+      "duration_ms": 118000,
+      "name": "As Long As I'm In Your Arms",
+      "url": "https://open.spotify.com/track/77fsTNViSLqcwuSMQhSwB0"
     },
     {
       "added_at": "2026-02-09 08:07:44",
@@ -807,8 +807,8 @@
     {
       "added_at": "2026-02-09 08:07:44",
       "album": {
-        "name": "September In The Rain",
-        "url": "https://open.spotify.com/album/1UMCHEE4nXBN2JLOgk7rQV"
+        "name": "What A Diff'rence A Day Makes! (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0w8YD8Wz1hEkwXdsAMzzFe"
       },
       "artists": [
         {
@@ -816,9 +816,9 @@
           "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
         }
       ],
-      "duration_ms": 118000,
-      "name": "As Long As I'm In Your Arms",
-      "url": "https://open.spotify.com/track/77fsTNViSLqcwuSMQhSwB0"
+      "duration_ms": 161173,
+      "name": "It's Magic",
+      "url": "https://open.spotify.com/track/3Dwj9k9GC0Tm8nDvE9U5Pg"
     },
     {
       "added_at": "2026-02-09 08:07:44",
@@ -963,18 +963,22 @@
     {
       "added_at": "2026-02-09 08:07:44",
       "album": {
-        "name": "Some Nice Things I've Missed",
-        "url": "https://open.spotify.com/album/4ZSUkTw8BgdedIYtmteKsV"
+        "name": "L.A. Is My Lady",
+        "url": "https://open.spotify.com/album/4zvku3SSgsUaVRsvcCZ1aU"
       },
       "artists": [
         {
           "name": "Frank Sinatra",
           "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        },
+        {
+          "name": "Quincy Jones",
+          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
         }
       ],
-      "duration_ms": 241733,
-      "name": "What Are You Doing The Rest Of Your Life?",
-      "url": "https://open.spotify.com/track/0q4svepUwk6ZDLZEQlhKQn"
+      "duration_ms": 225933,
+      "name": "Teach Me Tonight",
+      "url": "https://open.spotify.com/track/4waAobn5tpdqVoH9R8oDqc"
     },
     {
       "added_at": "2026-02-09 08:07:44",
@@ -1027,38 +1031,34 @@
     {
       "added_at": "2026-02-09 08:07:44",
       "album": {
-        "name": "Love Swings",
-        "url": "https://open.spotify.com/album/5Jny59DZHuswsttq0zJE65"
+        "name": "Things Are Swingin'",
+        "url": "https://open.spotify.com/album/0puYTmfXiL5UZLyl33nXKT"
       },
       "artists": [
         {
-          "name": "Bobby Darin",
-          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+          "name": "Peggy Lee",
+          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
         }
       ],
-      "duration_ms": 104773,
-      "name": "The More I See You",
-      "url": "https://open.spotify.com/track/5Vtq6dHdwbjHqifCeSL4d3"
+      "duration_ms": 162000,
+      "name": "You're Getting To Be A Habit With Me",
+      "url": "https://open.spotify.com/track/3JrECZZVBiWeL9GJMMfzdj"
     },
     {
       "added_at": "2026-02-09 08:07:44",
       "album": {
-        "name": "L.A. Is My Lady",
-        "url": "https://open.spotify.com/album/4zvku3SSgsUaVRsvcCZ1aU"
+        "name": "Some Nice Things I've Missed",
+        "url": "https://open.spotify.com/album/4ZSUkTw8BgdedIYtmteKsV"
       },
       "artists": [
         {
           "name": "Frank Sinatra",
           "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        },
-        {
-          "name": "Quincy Jones",
-          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
         }
       ],
-      "duration_ms": 225933,
-      "name": "Teach Me Tonight",
-      "url": "https://open.spotify.com/track/4waAobn5tpdqVoH9R8oDqc"
+      "duration_ms": 241733,
+      "name": "What Are You Doing The Rest Of Your Life?",
+      "url": "https://open.spotify.com/track/0q4svepUwk6ZDLZEQlhKQn"
     },
     {
       "added_at": "2026-02-09 08:07:44",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2026-02-09 08:07:44",
       "album": {
+        "name": "Love Swings",
+        "url": "https://open.spotify.com/album/5Jny59DZHuswsttq0zJE65"
+      },
+      "artists": [
+        {
+          "name": "Bobby Darin",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+        }
+      ],
+      "duration_ms": 104773,
+      "name": "The More I See You",
+      "url": "https://open.spotify.com/track/5Vtq6dHdwbjHqifCeSL4d3"
+    },
+    {
+      "added_at": "2026-02-09 08:07:44",
+      "album": {
         "name": "Waiter, Make Mine The Blues",
         "url": "https://open.spotify.com/album/77FW8dZ0Jrg54fKNl8fxA7"
       },
@@ -1091,38 +1107,6 @@
       "duration_ms": 219506,
       "name": "Angel Eyes",
       "url": "https://open.spotify.com/track/3JByavtrnBqKpNzl18SGNI"
-    },
-    {
-      "added_at": "2026-02-09 08:07:44",
-      "album": {
-        "name": "Things Are Swingin'",
-        "url": "https://open.spotify.com/album/0puYTmfXiL5UZLyl33nXKT"
-      },
-      "artists": [
-        {
-          "name": "Peggy Lee",
-          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "You're Getting To Be A Habit With Me",
-      "url": "https://open.spotify.com/track/3JrECZZVBiWeL9GJMMfzdj"
-    },
-    {
-      "added_at": "2026-02-09 08:07:44",
-      "album": {
-        "name": "Sings The Rodgers & Hart Songbook",
-        "url": "https://open.spotify.com/album/7Jqbp0XnGbsBjpPPcwSzcN"
-      },
-      "artists": [
-        {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        }
-      ],
-      "duration_ms": 201546,
-      "name": "Isn't It Romantic",
-      "url": "https://open.spotify.com/track/1ueC3LYUbZKlzkGf7rtnMb"
     },
     {
       "added_at": "2026-02-09 08:07:44",
@@ -1143,6 +1127,22 @@
     {
       "added_at": "2026-02-09 08:07:44",
       "album": {
+        "name": "Sings The Rodgers & Hart Songbook",
+        "url": "https://open.spotify.com/album/7Jqbp0XnGbsBjpPPcwSzcN"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        }
+      ],
+      "duration_ms": 201546,
+      "name": "Isn't It Romantic",
+      "url": "https://open.spotify.com/track/1ueC3LYUbZKlzkGf7rtnMb"
+    },
+    {
+      "added_at": "2026-02-09 08:07:44",
+      "album": {
         "name": "The Complete Great American Songbook",
         "url": "https://open.spotify.com/album/3xUOObdRU9f2wblHafYx0j"
       },
@@ -1155,6 +1155,22 @@
       "duration_ms": 186133,
       "name": "Night And Day",
       "url": "https://open.spotify.com/track/6MbV4d7n6EGqq7wuGazsUw"
+    },
+    {
+      "added_at": "2026-02-09 08:07:44",
+      "album": {
+        "name": "Meet Me Around Midnight",
+        "url": "https://open.spotify.com/album/62haqQCNJuhlujx5lqsYaO"
+      },
+      "artists": [
+        {
+          "name": "Ida Sand",
+          "url": "https://open.spotify.com/artist/2xlu6WzVa7WHwHhRptqq7c"
+        }
+      ],
+      "duration_ms": 229613,
+      "name": "One for My Baby",
+      "url": "https://open.spotify.com/track/7K0B3d8hgj9cAhku48eGwN"
     },
     {
       "added_at": "2026-02-09 08:07:44",
@@ -1175,22 +1191,6 @@
       "duration_ms": 144466,
       "name": "Taking A Chance On Love",
       "url": "https://open.spotify.com/track/6gaYlANvT72vnO0cGACx2A"
-    },
-    {
-      "added_at": "2026-02-09 08:07:44",
-      "album": {
-        "name": "Meet Me Around Midnight",
-        "url": "https://open.spotify.com/album/62haqQCNJuhlujx5lqsYaO"
-      },
-      "artists": [
-        {
-          "name": "Ida Sand",
-          "url": "https://open.spotify.com/artist/2xlu6WzVa7WHwHhRptqq7c"
-        }
-      ],
-      "duration_ms": 229613,
-      "name": "One for My Baby",
-      "url": "https://open.spotify.com/track/7K0B3d8hgj9cAhku48eGwN"
     },
     {
       "added_at": "2026-02-09 08:07:44",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2026-02-09 08:07:44",
       "album": {
-        "name": "On the Sunny Side of the Street",
-        "url": "https://open.spotify.com/album/3W8oUfusucA1Ri5N5tV6Eq"
-      },
-      "artists": [
-        {
-          "name": "Helen Forrest",
-          "url": "https://open.spotify.com/artist/5SguMzNsojVk03s64Ggzad"
-        }
-      ],
-      "duration_ms": 142866,
-      "name": "Come Rain or Come Shine",
-      "url": "https://open.spotify.com/track/15MObStooR3cTaXIf1fQCX"
-    },
-    {
-      "added_at": "2026-02-09 08:07:44",
-      "album": {
         "name": "Dinah Sings, Previn Plays",
         "url": "https://open.spotify.com/album/0WfnKepXKonBazvtxWVdLe"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 199560,
       "name": "Then I'll Be Tired Of You",
       "url": "https://open.spotify.com/track/5OTjnQB7ZtlT6LtSSgfIqN"
+    },
+    {
+      "added_at": "2026-02-09 08:07:44",
+      "album": {
+        "name": "On the Sunny Side of the Street",
+        "url": "https://open.spotify.com/album/3W8oUfusucA1Ri5N5tV6Eq"
+      },
+      "artists": [
+        {
+          "name": "Helen Forrest",
+          "url": "https://open.spotify.com/artist/5SguMzNsojVk03s64Ggzad"
+        }
+      ],
+      "duration_ms": 142866,
+      "name": "Come Rain or Come Shine",
+      "url": "https://open.spotify.com/track/15MObStooR3cTaXIf1fQCX"
     },
     {
       "added_at": "2026-02-09 08:07:44",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2026-02-09 08:07:44",
       "album": {
-        "name": "All Or Nothing At All",
-        "url": "https://open.spotify.com/album/4euFXiaCTmBkwh9HXjagp9"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 226680,
-      "name": "Love Is Here To Stay",
-      "url": "https://open.spotify.com/track/4x4gE6oHHuZ2y7yUsGuOO1"
-    },
-    {
-      "added_at": "2026-02-09 08:07:44",
-      "album": {
         "name": "John Coltrane & Johnny Hartman",
         "url": "https://open.spotify.com/album/3nmLPoLaRsN7cj9XkkDq2r"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 294306,
       "name": "My One And Only Love",
       "url": "https://open.spotify.com/track/1HEGcv63IZ7TPncpVKdVdN"
+    },
+    {
+      "added_at": "2026-02-09 08:07:44",
+      "album": {
+        "name": "All Or Nothing At All",
+        "url": "https://open.spotify.com/album/4euFXiaCTmBkwh9HXjagp9"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 226680,
+      "name": "Love Is Here To Stay",
+      "url": "https://open.spotify.com/track/4x4gE6oHHuZ2y7yUsGuOO1"
     },
     {
       "added_at": "2026-02-09 08:07:44",

@@ -2,9 +2,9 @@
 
 ### [Roots Rising](https://open.spotify.com/playlist/37i9dQZF1DWYV7OOaGhoH0)
 
-> The best in folk & acoustic today featuring music from Sylvie
+> The best in folk & acoustic today featuring music from Buffalo Traffic Jam
 
-911 songs - 2 day 8 hr 7 min
+913 songs - 2 day 8 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -456,6 +456,7 @@
 | [labour](https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [labour](https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn) | 3:57 | 2023-03-31 | 2024-06-01 |
 | [Ladybird](https://open.spotify.com/track/6RYa2mxf1AnAx03OHeroMy) | [Jasmine Jethwa](https://open.spotify.com/artist/6FLqwgd1Ks0JvEmqpewIpv) | [Ladybird](https://open.spotify.com/album/7DJDMQUmgusYIKoWEv2L4K) | 3:09 | 2025-12-05 |  |
 | [Lake Missoula \(feat\. Mt\. Joy\)](https://open.spotify.com/track/1sfDyeBfzNeABw4afi4e5A) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau), [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Lake Missoula \(feat\. Mt\. Joy\)](https://open.spotify.com/album/6TmjKa40zMkgLDvePjukuZ) | 3:24 | 2023-06-16 | 2023-09-23 |
+| [Land](https://open.spotify.com/track/7MB1tKZya7KsesEn5F1XkD) | [Emma Ogier](https://open.spotify.com/artist/7lVBH2nQlHcpcU4RiY7izm) | [Fly 1111](https://open.spotify.com/album/6tq0sS8PvlJMBWEXGn70fM) | 3:25 | 2026-11-13 |  |
 | [Laramee](https://open.spotify.com/track/0Ho55XknDOdL8IK2ghGjB2) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau) | [Laramee](https://open.spotify.com/album/0bUuPxAp0NaBOF8PXwG0z7) | 4:01 | 2022-12-02 | 2023-03-10 |
 | [Laramee](https://open.spotify.com/track/2ZTehU7cgpjz3euyQoNzdh) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau) | [Laramee](https://open.spotify.com/album/2f2dHhOUOppGeWGzcLBlCj) | 4:01 | 2023-03-03 | 2023-09-23 |
 | [Lemon Tree](https://open.spotify.com/track/0SnCZci0wyVj0RZXknNaWq) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Lemon Tree](https://open.spotify.com/album/4ibM2rJfsOdr0d72AlOI2G) | 4:08 | 2022-03-18 | 2023-07-22 |
@@ -786,6 +787,7 @@
 | [The Way Back Home](https://open.spotify.com/track/3PTsvzTENG4jREGGQz9xpb) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [The Way Back Home](https://open.spotify.com/album/1UpWcCKM40cIfTaDY38eFY) | 3:34 | 2022-07-22 | 2022-12-17 |
 | [The Way Back Home](https://open.spotify.com/track/52Xwn8r3KLcwgHO0wyDNbC) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [The Way Back Home](https://open.spotify.com/album/0Hx4AIsLgkYCDZgsdb4pdi) | 3:34 | 2021-12-10 | 2022-07-29 |
 | [The Wheel](https://open.spotify.com/track/4o1TQtYz86JdaqhIphYERp) | [Eddie Berman](https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql) | [The Wheel](https://open.spotify.com/album/6PjayJuxonpj3BNIhL1YFK) | 3:31 | 2022-01-07 | 2022-07-09 |
+| [The Wheel \- From The Hunger Games: Sunrise on the Reaping \- The Album](https://open.spotify.com/track/2CogABm63uPyd2qAo259RW) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [The Hunger Games](https://open.spotify.com/artist/6UdECsev3yuXe2rfLrdDiF) | [The Wheel](https://open.spotify.com/album/63skES6QZCyxqmMy1c9QtZ) | 3:07 | 2026-11-13 |  |
 | [The Wire](https://open.spotify.com/track/2fvgn1xCyf0VQ5o33ZCoc6) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [The Wire](https://open.spotify.com/album/0HpxT1VFSvCSNXrk3976Qc) | 3:00 | 2021-12-10 | 2022-05-07 |
 | [There's A Fire](https://open.spotify.com/track/3H9oqxaMJYeGzfRgfq6Y1C) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [There's A Fire](https://open.spotify.com/album/4ae2wNZHG00VSa5nz7ZKv1) | 3:58 | 2026-01-23 |  |
 | [There's A Rhythmn](https://open.spotify.com/track/7uWS4zoWMNU9fUPojMYilC) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [SABLE, fABLE](https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T) | 5:16 | 2025-04-11 | 2025-11-22 |

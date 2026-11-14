@@ -1,12 +1,12 @@
 {
   "description": "Cover: ONZY",
-  "num_followers": 448275,
+  "num_followers": 448974,
   "original_name": "ABAT\u2211RA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANc5cq4+EwwRyfLd96ajI5BjGgdO",
+  "snapshot_id": "AAAAAMZiak4VGeDNiwoXVQzSf/vWiSmg",
   "tracks": [
     {
       "added_at": "2026-11-13 00:01:59",
@@ -387,22 +387,6 @@
     {
       "added_at": "2026-11-13 00:01:59",
       "album": {
-        "name": "MOWSEBA",
-        "url": "https://open.spotify.com/album/4AEid32Pc11t4ESIZbjnh5"
-      },
-      "artists": [
-        {
-          "name": "Moovd",
-          "url": "https://open.spotify.com/artist/4WnGLrDSdRM7jnJjSVdBeR"
-        }
-      ],
-      "duration_ms": 127492,
-      "name": "MOWSEBA",
-      "url": "https://open.spotify.com/track/1PTyqUycMW8ysyUrliyWIa"
-    },
-    {
-      "added_at": "2026-11-13 00:01:59",
-      "album": {
         "name": "Casanightmare",
         "url": "https://open.spotify.com/album/4LhaAJDLMifJOgHjwFMVf8"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 189677,
       "name": "Casanightmare",
       "url": "https://open.spotify.com/track/65dVh1R2J7aoKTSJtIqzQV"
+    },
+    {
+      "added_at": "2026-11-13 08:18:34",
+      "album": {
+        "name": "XACTEMENT",
+        "url": "https://open.spotify.com/album/5qHxgZIRM7QrChk7bl8JYH"
+      },
+      "artists": [
+        {
+          "name": "Moovd",
+          "url": "https://open.spotify.com/artist/4WnGLrDSdRM7jnJjSVdBeR"
+        }
+      ],
+      "duration_ms": 149098,
+      "name": "XACTEMENT",
+      "url": "https://open.spotify.com/track/2wKLviQzTUVihGpjFVpwXQ"
     },
     {
       "added_at": "2026-11-13 00:01:59",
@@ -477,10 +477,10 @@
       "url": "https://open.spotify.com/track/3YqxmbZW7LLyt7ZG0WlMCK"
     },
     {
-      "added_at": "2026-11-13 00:01:59",
+      "added_at": "2026-11-13 08:18:34",
       "album": {
-        "name": "RLX",
-        "url": "https://open.spotify.com/album/72xOrxM6KZaVIwLDUHgDkz"
+        "name": "Me vs Me",
+        "url": "https://open.spotify.com/album/155Q6KeC5LqtwdFTFYKVUa"
       },
       "artists": [
         {
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/5SPuVApDsQW9TH1UyFWtWu"
         }
       ],
-      "duration_ms": 173191,
-      "name": "RLX",
-      "url": "https://open.spotify.com/track/6QOW7pugKU5qa1Z08LUxKC"
+      "duration_ms": 117816,
+      "name": "Me vs Me",
+      "url": "https://open.spotify.com/track/5CMUepX7SK54Qcu9Izwbyr"
     },
     {
       "added_at": "2026-11-13 00:01:59",

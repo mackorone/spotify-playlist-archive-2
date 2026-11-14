@@ -1,13 +1,49 @@
 {
   "description": "FurryRadio.com, furry music for furs, by furs.",
-  "num_followers": 1264,
+  "num_followers": 1265,
   "original_name": "FURRY RADIO",
   "owner": {
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAAGGRHmtNy1iNfmeD6d7XhHG+60SqH9",
+  "snapshot_id": "AAAGIWLRDMUQp8U0uo1BApPjh/1tuz4I",
   "tracks": [
+    {
+      "added_at": "2026-11-14 02:33:33",
+      "album": {
+        "name": "FEELGUD!",
+        "url": "https://open.spotify.com/album/1gsbdrJGc6eDtHi3NspUJm"
+      },
+      "artists": [
+        {
+          "name": "Biscuit",
+          "url": "https://open.spotify.com/artist/75RaPp7xp9Czh1CpzWyUUR"
+        },
+        {
+          "name": "ghostsocial",
+          "url": "https://open.spotify.com/artist/6ex1miCpb3Krg4TYoG4yAN"
+        }
+      ],
+      "duration_ms": 232551,
+      "name": "FEELGUD!",
+      "url": "https://open.spotify.com/track/1wbhtuiPPuS9KBzV9pbBYa"
+    },
+    {
+      "added_at": "2026-11-14 02:30:12",
+      "album": {
+        "name": "sighthound",
+        "url": "https://open.spotify.com/album/5D80bD4DHnF3x1lK5LaNCO"
+      },
+      "artists": [
+        {
+          "name": "snazzyvaka",
+          "url": "https://open.spotify.com/artist/3hHniqLXSqhRZeR3xUvlr2"
+        }
+      ],
+      "duration_ms": 123870,
+      "name": "tell u sum",
+      "url": "https://open.spotify.com/track/2krkj5Wali172QzLcM8x1z"
+    },
     {
       "added_at": "2026-11-11 23:29:03",
       "album": {
@@ -29,24 +65,40 @@
       "url": "https://open.spotify.com/track/6rl6Deyy8Utz8HEWEVs07k"
     },
     {
-      "added_at": "2026-11-11 23:27:53",
+      "added_at": "2026-11-14 02:22:16",
       "album": {
-        "name": "off a jet",
-        "url": "https://open.spotify.com/album/4R5bR4kPNQ9TRYRR1hXayD"
+        "name": "Popstar",
+        "url": "https://open.spotify.com/album/5ECVhTwzDKWVYwCT9RYUno"
       },
       "artists": [
         {
-          "name": "batt",
-          "url": "https://open.spotify.com/artist/1BmWFfU9euusBSd9eo0oG2"
+          "name": "fearozzles",
+          "url": "https://open.spotify.com/artist/4XgmepqLvHMHSFgHbTKWns"
         },
         {
-          "name": "snazzyvaka",
-          "url": "https://open.spotify.com/artist/3hHniqLXSqhRZeR3xUvlr2"
+          "name": "nujioh",
+          "url": "https://open.spotify.com/artist/5wFvWlaLZKRqoAwDJAuBBZ"
         }
       ],
-      "duration_ms": 137476,
-      "name": "MFL",
-      "url": "https://open.spotify.com/track/6MohdiaR3AfffciBdwZVlm"
+      "duration_ms": 142285,
+      "name": "Popstar",
+      "url": "https://open.spotify.com/track/2aDRZnE6GB8C1a1U2280Gt"
+    },
+    {
+      "added_at": "2026-11-13 07:38:00",
+      "album": {
+        "name": "Sugar",
+        "url": "https://open.spotify.com/album/1anAtWCinMCtCQ8u28Jtpd"
+      },
+      "artists": [
+        {
+          "name": "Vylet Pony",
+          "url": "https://open.spotify.com/artist/1kM5BZXs7FFN8Dj1WpgH2j"
+        }
+      ],
+      "duration_ms": 207804,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/226Qb8cRQY6oPPkepfeng6"
     },
     {
       "added_at": "2026-11-11 21:44:54",

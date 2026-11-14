@@ -1,12 +1,12 @@
 {
   "description": "New music from Mlindo The Vocalist, Internet Girl, Solana, Shakes & Les,  Ggoldie & Chl\u00e9 and more.",
-  "num_followers": 197486,
+  "num_followers": 198113,
   "original_name": "New Music Friday South Africa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALliMub9uoL4jgWyF/g9DLouaF1P",
+  "snapshot_id": "AAAAAChNyLjc4+nJfXpp1wLWy9kZyPJr",
   "tracks": [
     {
       "added_at": "2026-11-12 22:00:31",
@@ -385,7 +385,7 @@
         }
       ],
       "duration_ms": 169759,
-      "name": "Why Not (feat. Quavo & Loe Shimmy)",
+      "name": "Why Not? (feat. Quavo & Loe Shimmy)",
       "url": "https://open.spotify.com/track/3ag3REuwHRHF8kYQffQ8pn"
     },
     {
@@ -550,6 +550,10 @@
         {
           "name": "Nomfundo Yekani",
           "url": "https://open.spotify.com/artist/0djohoWvQY0SyNvKwqqfKy"
+        },
+        {
+          "name": "Thekidsnextdoor",
+          "url": "https://open.spotify.com/artist/3RShIcV5kdBbcpH1XN5im0"
         }
       ],
       "duration_ms": 204631,
@@ -1113,6 +1117,22 @@
       "url": "https://open.spotify.com/track/4d0ndOCNJVDanM593ywDBs"
     },
     {
+      "added_at": "2026-11-13 05:56:27",
+      "album": {
+        "name": "meaning in the madness",
+        "url": "https://open.spotify.com/album/7lwI0b8z7O80G0ZOVCWFm6"
+      },
+      "artists": [
+        {
+          "name": "Tessi Nandi",
+          "url": "https://open.spotify.com/artist/7LDVOmpX6bj3BYkD0O5jWZ"
+        }
+      ],
+      "duration_ms": 221255,
+      "name": "meaning in the madness",
+      "url": "https://open.spotify.com/track/3TX9gdGhsaDM77nGIbYRcx"
+    },
+    {
       "added_at": "2026-11-12 22:00:31",
       "album": {
         "name": "Sand",
@@ -1453,6 +1473,98 @@
       "url": "https://open.spotify.com/track/6niQASRfIPC3a32WH3qkkc"
     },
     {
+      "added_at": "2026-11-13 06:07:31",
+      "album": {
+        "name": "No Veo la Hora",
+        "url": "https://open.spotify.com/album/60WjhSulSkPsI9FmI7iMWK"
+      },
+      "artists": [
+        {
+          "name": "Valentina Rico",
+          "url": "https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d"
+        }
+      ],
+      "duration_ms": 203376,
+      "name": "No Veo la Hora",
+      "url": "https://open.spotify.com/track/36Y7IuGJS6AKCYSKTornq4"
+    },
+    {
+      "added_at": "2026-11-13 06:07:31",
+      "album": {
+        "name": "Hamba Nathi",
+        "url": "https://open.spotify.com/album/3TbDPwsexQqwcN6Z5VQqFC"
+      },
+      "artists": [
+        {
+          "name": "Mthandeni SK",
+          "url": "https://open.spotify.com/artist/2tqMDvoyXVbN7uF4ObOeJX"
+        },
+        {
+          "name": "Herman Kleinhans",
+          "url": "https://open.spotify.com/artist/3kTnA09Ebx0rFBTPAlsLFC"
+        }
+      ],
+      "duration_ms": 241885,
+      "name": "Hamba Nathi",
+      "url": "https://open.spotify.com/track/0kaq4opJONFaTnfMcnH2s2"
+    },
+    {
+      "added_at": "2026-11-13 07:18:54",
+      "album": {
+        "name": "Tied Up",
+        "url": "https://open.spotify.com/album/7r9hW36kVB8CkZw9KtKH1Z"
+      },
+      "artists": [
+        {
+          "name": "Eva Marie",
+          "url": "https://open.spotify.com/artist/0bOs18nlVdF3kKIpWnewzo"
+        }
+      ],
+      "duration_ms": 145920,
+      "name": "Tied Up",
+      "url": "https://open.spotify.com/track/6SRS8c0s9FvWj9nynM3bD7"
+    },
+    {
+      "added_at": "2026-11-13 06:07:31",
+      "album": {
+        "name": "Very Ancient Way of Crying",
+        "url": "https://open.spotify.com/album/3xbauaiHd7Ah6wzGjfmoYo"
+      },
+      "artists": [
+        {
+          "name": "NEW LORE",
+          "url": "https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E"
+        },
+        {
+          "name": "Ichika Nito",
+          "url": "https://open.spotify.com/artist/1v7B6ZWa7QRQS3knn3Jvf4"
+        },
+        {
+          "name": "Gabba",
+          "url": "https://open.spotify.com/artist/6tvCQZS4d1wJ9cA9Gl0ZqP"
+        }
+      ],
+      "duration_ms": 202500,
+      "name": "Sad Girl (feat. Ichika Nito & Gabba)",
+      "url": "https://open.spotify.com/track/735s7kB0oA5PXgXtiSZLMG"
+    },
+    {
+      "added_at": "2026-11-13 06:07:31",
+      "album": {
+        "name": "Silver Springs (Spotify Singles)",
+        "url": "https://open.spotify.com/album/0fW7syaAcr6p7MpMnyq49k"
+      },
+      "artists": [
+        {
+          "name": "Sarah Julia",
+          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
+        }
+      ],
+      "duration_ms": 200399,
+      "name": "Silver Springs - Spotify Singles",
+      "url": "https://open.spotify.com/track/171L1i9B8JSR234FJbKDPi"
+    },
+    {
       "added_at": "2026-11-12 22:00:31",
       "album": {
         "name": "Rekere Fc",
@@ -1603,7 +1715,7 @@
     {
       "added_at": "2026-11-12 22:00:31",
       "album": {
-        "name": "Chocolate Chaos",
+        "name": "Gqom Is High Fashion",
         "url": "https://open.spotify.com/album/2QJlF73W3RPypzPqpXCsD0"
       },
       "artists": [
@@ -1648,7 +1760,7 @@
           "url": "https://open.spotify.com/artist/5leRfaQ4NxaX9frufTW7mI"
         }
       ],
-      "duration_ms": 276741,
+      "duration_ms": 264980,
       "name": "Groove Prayer",
       "url": "https://open.spotify.com/track/4l3VuBrgSOSeQwfWHmeBWY"
     },

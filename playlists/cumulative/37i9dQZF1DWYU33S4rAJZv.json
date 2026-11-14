@@ -2711,6 +2711,24 @@
     },
     {
       "album": {
+        "name": "Winter Romance",
+        "url": "https://open.spotify.com/album/1szFel7JNQRqtY3oFeTltQ"
+      },
+      "artists": [
+        {
+          "name": "Stella Cole",
+          "url": "https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150574,
+      "name": "Winter Romance",
+      "url": "https://open.spotify.com/track/2ZZ4sobk5gWWHJgAMIXt7A"
+    },
+    {
+      "album": {
         "name": "Winter Wonderland",
         "url": "https://open.spotify.com/album/1fJInYY8L0zWFIIzpoeVgx"
       },

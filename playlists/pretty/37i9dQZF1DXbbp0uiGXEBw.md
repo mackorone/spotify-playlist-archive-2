@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbp0uiGXEBw.md) - [plain]
 
 > Thưởng thức và tôn vinh tài năng các nghệ sĩ nữ Việt Nam\. Ảnh bìa: Bảo Anh
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,175 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,178 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

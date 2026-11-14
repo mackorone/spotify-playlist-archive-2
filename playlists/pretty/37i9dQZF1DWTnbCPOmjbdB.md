@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnbCPOmjbdB.md) - [plain]
 
 > Najlepsze polskie piosenki na czasie\. Cover: GENZIE
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,493 likes - 65 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 269,506 likes - 65 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Track 5](https://open.spotify.com/track/5yf7vL8AMfmtimpDhDzoBo) | [GENZIE](https://open.spotify.com/artist/66NiiFgb74HLBN1A5ylO5t) | [404](https://open.spotify.com/album/0dudXKOmgR8SXodyHEPgQE) | 0:00 |
+| 1 | [ŁASKI BEZ](https://open.spotify.com/track/5yf7vL8AMfmtimpDhDzoBo) | [GENZIE](https://open.spotify.com/artist/66NiiFgb74HLBN1A5ylO5t), [Diiya](https://open.spotify.com/artist/7cpXJIW3DMvOlUTHyIm4wx) | [404](https://open.spotify.com/album/0dudXKOmgR8SXodyHEPgQE) | 2:58 |
 | 2 | [Mimo najlepszych chęci](https://open.spotify.com/track/0qqOZcLqriEbeUPYWyIaRO) | [Vito Bambino](https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o) | [Mimo najlepszych chęci](https://open.spotify.com/album/51a9Vx7LSsQ43Q4fyiSueg) | 3:57 |
 | 3 | [Chwila zapomnienia](https://open.spotify.com/track/20CGzZk4p1bmcWF27GMa2A) | [Julia Wieniawa](https://open.spotify.com/artist/1HX9uYVwH6HHGyE8xSgtUD), [Malik Montana](https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E) | [Chwila zapomnienia](https://open.spotify.com/album/4RDSIFT3whDQjMvzOgbZBQ) | 2:39 |
 | 4 | [Serce z wosku](https://open.spotify.com/track/6rgF0ql0Gg200aoW0vp5X6) | [Sarsa](https://open.spotify.com/artist/0lKCO7SCRiTCS4ZEU6l1zx) | [Serce z wosku](https://open.spotify.com/album/2Boo6XvXersbCc8Cgry0aX) | 2:32 |

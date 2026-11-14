@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lo nuevo de toda Iberoamérica\. Foto: Latin Mafia
 
-[Spotify](https://open.spotify.com/user/spotify) - 826,741 likes - 63 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 826,725 likes - 63 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

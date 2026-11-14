@@ -4,7 +4,7 @@
 
 > Dip your feet in the pool and enjoy this perfect summer house mix ☀️
 
-538 songs - 1 day 4 hr 36 min
+539 songs - 1 day 4 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Ain't With That \(Late Night Callin'\)](https://open.spotify.com/track/6P7sJUzkFeLq9VOqJQSBFH) | [Julian Fijma](https://open.spotify.com/artist/3KEvY1XBn7ZqQcHhUoGeqy) | [Ain't With That \(Late Night Callin'\)](https://open.spotify.com/album/1ADJNvsMekByZTH7ZcP0uh) | 3:27 | 2026-04-17 | 2026-07-13 |
 | [All I Need](https://open.spotify.com/track/5uMCXikeX6Z8p10rtYgop8) | [COLIN](https://open.spotify.com/artist/65Uy8U5VKTrqB70p39OLsH) | [All I Need](https://open.spotify.com/album/3eGLkWKJMU6PFxE6eEq6W5) | 2:18 | 2021-10-29 | 2022-03-19 |
 | [All Over Again \- Radio\-Edit](https://open.spotify.com/track/49MzBQ3UnIZNrF3fvcWOCm) | [Steve Norton](https://open.spotify.com/artist/3PCnJPxTg6LT4q4vWXrxsL) | [All Over Again \(Radio\-Edit\)](https://open.spotify.com/album/3WrsHgA8e0LpvXplzVYKKU) | 2:26 | 2022-02-28 | 2022-07-03 |
+| [All The People](https://open.spotify.com/track/4lYmmth0qGELlYGE5LPzkx) | [Shimza](https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [SOMETHING ELSE](https://open.spotify.com/artist/5EhAPIpyTfmhdfh6vWsLqM) | [All The People](https://open.spotify.com/album/21BkH2O10433QoWLGs6pZN) | 2:37 | 2026-11-13 |  |
 | [All This Time](https://open.spotify.com/track/0xV1SugUe8sTfoscbx4sp8) | [Y.V.E\. 48](https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz) | [All This Time](https://open.spotify.com/album/0lEqL5mhY7PN3WWpb6mHXx) | 2:20 | 2023-03-31 | 2024-06-09 |
 | [Angel of Mine](https://open.spotify.com/track/2lFg6N5CQ1lh3kJUHmtEf4) | [Tobiahs](https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs) | [Angel of Mine](https://open.spotify.com/album/1izDlrauAzvtBvSDn83NKf) | 2:42 | 2025-02-14 |  |
 | [Ani Kuni \- Edit](https://open.spotify.com/track/6BhwbBtaXivvPHmHCZmxkT) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Ani Kuni](https://open.spotify.com/album/225g0HM8FJAep14tN7H7aA) | 2:49 | 2022-03-25 | 2023-03-11 |
@@ -195,7 +196,7 @@
 | [Green Green Grass \- Majestic Remix](https://open.spotify.com/track/5HQrESmLNtomQpoVALIVuJ) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j), [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI) | [Green Green Grass \(Majestic Remix\)](https://open.spotify.com/album/3kWWCohWkatO0uyYxXTQas) | 3:11 | 2022-06-17 | 2022-11-14 |
 | [Halfway \(feat\. Twan Ray\)](https://open.spotify.com/track/1BAupWJ7hkJFJuOL0eHb45) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Twan Ray](https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr) | [Halfway \(feat\. Twan Ray\)](https://open.spotify.com/album/3Ql67TcOvEK8VOSML3UEv1) | 2:38 | 2021-10-29 | 2022-03-22 |
 | [Hallelujah](https://open.spotify.com/track/3ZzqeiucaYmpAE1EZw6Rje) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Hallelujah](https://open.spotify.com/album/7sC4cRLjEclDq7PXBW1nW5) | 2:13 | 2022-07-08 | 2022-08-03 |
-| [Happier \(feat\. Clementine Douglas\)](https://open.spotify.com/track/1TcF5F10EN17vraisG1gQv) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Happier \(feat\. Clementine Douglas\)](https://open.spotify.com/album/5Tuzxg7Wwhx4ydYsxFsd7o) | 2:50 | 2024-03-15 |  |
+| [Happier \(feat\. Clementine Douglas\)](https://open.spotify.com/track/1TcF5F10EN17vraisG1gQv) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Happier \(feat\. Clementine Douglas\)](https://open.spotify.com/album/5Tuzxg7Wwhx4ydYsxFsd7o) | 2:50 | 2024-03-15 | 2026-11-14 |
 | [Happy Music](https://open.spotify.com/track/0LbZxI8FZU1E48EqF9XgC0) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Happy Music](https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0) | 3:52 | 2023-09-01 | 2024-04-19 |
 | [Happy Music](https://open.spotify.com/track/3rh495Z2rIRwD316blea4f) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Happy Music / Something on My Mind](https://open.spotify.com/album/4D78IEl2Nl3ywiu254VOVn) | 3:52 | 2022-04-08 | 2022-10-19 |
 | [Happy Music](https://open.spotify.com/track/7uGpUhy4uf2UrHH7TyhM6C) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Happy Music / Something on My Mind](https://open.spotify.com/album/3UgxrgP8q9U0Zjz4t7PPGR) | 3:52 | 2022-09-30 | 2023-08-21 |

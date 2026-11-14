@@ -4,7 +4,7 @@
 
 > Dance remixes of popular songs!
 
-223 songs - 9 hr 56 min
+224 songs - 9 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,6 +186,7 @@
 | [Space Pump \(Space Jam\)](https://open.spotify.com/track/4vqZk6EL4i4lSYHMViNnuV) | [Vinter](https://open.spotify.com/artist/7kxIJLoHe2W8GFXSN17KWz) | [Space Pump \(Space Jam\)](https://open.spotify.com/album/73MaHOfZf2Dh5fTCwBfXMA) | 2:45 | 2025-10-08 | 2026-07-10 |
 | [Stay \- Ely Oaks Version](https://open.spotify.com/track/0nwP2efwenVG0C59bA8cOL) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my), [Misdemeanor](https://open.spotify.com/artist/6ohc4257tcIwK3UDZEQZeu) | [Stay \(Ely Oaks Version\)](https://open.spotify.com/album/2BDrI3p3xu92cKY2YpTOGl) | 2:39 | 2025-07-10 |  |
 | [Stolen Dance \- Hypertechno Mix](https://open.spotify.com/track/2NjmUTwNBWJ2KKQj1LejWP) | [R\-vid](https://open.spotify.com/artist/0wtuCkEUVHopTcvQK8Lnok) | [Stolen Dance](https://open.spotify.com/album/6K4gn7YAUGHAvuXafXMUGL) | 2:24 | 2025-07-10 | 2025-11-01 |
+| [Street Player \(ESSED Remix\)](https://open.spotify.com/track/6TtVu3UO75uS0V9r2D1wgq) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0), [ESSED](https://open.spotify.com/artist/2OIFoELOhUQ0FJF4H2Qrlo) | [Street Player \(ESSED Remix\)](https://open.spotify.com/album/37CzrYJyaaz8fX7na5kyVo) | 2:44 | 2026-11-13 |  |
 | [Sugar Sugar](https://open.spotify.com/track/7tAUGhcjcBKTFMMY9uWC7x) | [Alphajack](https://open.spotify.com/artist/16QqxKys1labZDMzVuZ8D9) | [Sugar Sugar](https://open.spotify.com/album/7rDuDJoFU7PZKQvBaCCzMR) | 2:36 | 2025-07-10 |  |
 | [Superstar](https://open.spotify.com/track/79DFRI318iJU1hvZnPzA4K) | [Stefy De Cicco](https://open.spotify.com/artist/5v3JgLiZtNnw6ablRjjNKK), [Shibui](https://open.spotify.com/artist/3DgZk9TPxWee4QgbRpKGF4), [Andrea Zelletta](https://open.spotify.com/artist/2sSVegHvvHIOT1gVsqw8EW) | [Superstar](https://open.spotify.com/album/2VmclQK1Fsr8uhrtcrL7pl) | 2:52 | 2025-07-10 |  |
 | [Sweet Dreams](https://open.spotify.com/track/5ZUB0BNuzPR9xC1r5VcLrl) | [Perfect Pitch](https://open.spotify.com/artist/5dCHZZCETvtgvg88AYg13g), [Rocco](https://open.spotify.com/artist/4Gd2OByIIOatknO6CqlUnP) | [Sweet Dreams](https://open.spotify.com/album/0xvLMGLEn1M4htJcFKXbpE) | 2:40 | 2025-07-10 |  |

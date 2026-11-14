@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1ZwPZeXfWTcEVLQRCOBcvc">Chelcee Grimes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-115 songs - 6 hr 26 min
+116 songs - 6 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Now You're Gone \(feat\. Zara Larsson\)](https://open.spotify.com/track/2oVoSgGAlog02WQ2pLCxcT) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [What a Time To Be Alive](https://open.spotify.com/album/3Qa0qW4ged1J4HGeLXbFsC) | 3:32 | 2022-09-08 |  |
 | [Ocean](https://open.spotify.com/track/2bHxKHKbxE3EqooAFKdeeZ) | [Vize Verza](https://open.spotify.com/artist/7866WqAIb0XvXRlRPTUCir) | [Ocean](https://open.spotify.com/album/72HIHxLnpFuAUWkBK81gyi) | 3:00 | 2022-09-08 | 2023-12-14 |
 | [Ocean](https://open.spotify.com/track/7LKsAuk6QUbh92y2bX6Nel) | [Vize Verza](https://open.spotify.com/artist/7866WqAIb0XvXRlRPTUCir) | [Ocean](https://open.spotify.com/album/0g2AIhkbIqZez1FE5xSUGh) | 3:00 | 2023-12-13 |  |
+| [Out Of Control](https://open.spotify.com/track/4sB48VYROXFtKbuRTreGma) | [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r), [JustHooks](https://open.spotify.com/artist/6QC9azwBR7Yqujod4hNV2l) | [Out Of Control](https://open.spotify.com/album/7MTldAIUcnpLhNjFZpCHDb) | 3:13 | 2026-11-13 |  |
 | [Paint Me](https://open.spotify.com/track/0UjE0j9KOcI3aZbivMRE3K) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [Yellow Flower](https://open.spotify.com/album/00A1XYsx9tgJGnIHVn1X9u) | 3:38 | 2022-09-08 |  |
 | [Playground](https://open.spotify.com/track/4XOt0iwNTXhIRY7pEwCrkx) | [Alexa Curtis](https://open.spotify.com/artist/3LT9ZwcBwm9dNIXnReLknF) | [Playground](https://open.spotify.com/album/2TQrRtp7JxUtRun0Z5U3Z9) | 3:59 | 2022-09-08 |  |
 | [Riotka](https://open.spotify.com/track/0qz3ec9XhWJgMNddMlgoD6) | [Doda](https://open.spotify.com/artist/3Gln8Jmda3Nb94qAMPyn4A) | [Aquaria](https://open.spotify.com/album/3FaKZInkisRAjTCc6nKyrv) | 3:05 | 2022-12-01 |  |

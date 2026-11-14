@@ -1698,7 +1698,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 178289,
       "name": "FREEDOM",
       "url": "https://open.spotify.com/track/2QOB5UiRKggr2j9uMD3GYK"
@@ -4984,7 +4984,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 224690,
       "name": "SO MUCH, SO MUCH",
       "url": "https://open.spotify.com/track/0MfFIfcySy8KR3Zqi2QHgT"
@@ -5239,6 +5239,24 @@
     },
     {
       "album": {
+        "name": "Legendary Love",
+        "url": "https://open.spotify.com/album/74ExA1UleSA3kSC0TyNObv"
+      },
+      "artists": [
+        {
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171813,
+      "name": "Supernova",
+      "url": "https://open.spotify.com/track/5UQPo4DofgIrrSZfliJYKR"
+    },
+    {
+      "album": {
         "name": "Voices",
         "url": "https://open.spotify.com/album/1ujr3fqZMLSgsrR8vuv5LV"
       },
@@ -5450,6 +5468,28 @@
       "duration_ms": 170769,
       "name": "The Way You Move",
       "url": "https://open.spotify.com/track/3Eu9tmJEAEMmnD2WxUbHHi"
+    },
+    {
+      "album": {
+        "name": "The Way You Move (with BossMan Dlow)",
+        "url": "https://open.spotify.com/album/3XpQqTLw3wZboF8VLJAwEN"
+      },
+      "artists": [
+        {
+          "name": "JayDon",
+          "url": "https://open.spotify.com/artist/2wrxoZjEVKfJZhxCiqK0ju"
+        },
+        {
+          "name": "BossMan Dlow",
+          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196160,
+      "name": "The Way You Move (with BossMan Dlow)",
+      "url": "https://open.spotify.com/track/3fOsyoXuLdTBVbN8jcuMPx"
     },
     {
       "album": {

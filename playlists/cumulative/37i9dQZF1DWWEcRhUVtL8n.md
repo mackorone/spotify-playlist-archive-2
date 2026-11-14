@@ -2,9 +2,9 @@
 
 ### [Indie Pop](https://open.spotify.com/playlist/37i9dQZF1DWWEcRhUVtL8n)
 
-> New and approved indie pop\. Cover: Sydney Ross Mitchell
+> New and approved indie pop\. Cover: Quiet Light
 
-2,572 songs - 5 day 17 hr 15 min
+2,574 songs - 5 day 17 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -825,6 +825,7 @@
 | [For the Sky](https://open.spotify.com/track/4pXWThGTaysD4EDM4LwER2) | [HAERTS](https://open.spotify.com/artist/7pww8JMPMj1SxUfJ8wN5Kt), [Ed Droste](https://open.spotify.com/artist/0XF81i7F5hTlfNMHlTNptl) | [For the Sky](https://open.spotify.com/album/06F3RHeM96DfO1G1MWpaMB) | 4:25 | 2020-10-13\* | 2020-11-15 |
 | [Force Of Nature](https://open.spotify.com/track/2KLdtj4sLZNa2XGr4DcXDE) | [Soleima](https://open.spotify.com/artist/71le7jtjw9hq389Fnvi6XM) | [Force Of Nature](https://open.spotify.com/album/5bj8ajEl9QOTpTBu9ot0mM) | 2:52 | 2020-11-03 | 2020-11-15 |
 | [foreigner](https://open.spotify.com/track/5lnGbJscVIS51agvkwT4xw) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [stories from new york](https://open.spotify.com/album/1BphhBvVnrQBxrihloWbdR) | 2:37 | 2021-09-10 | 2022-01-05 |
+| [Forever](https://open.spotify.com/track/37GUzBOW6gbF68KIAFnjh6) | [Quiet Light](https://open.spotify.com/artist/6Uy2IwBjxdF0MxQVIN18n9) | [Forever](https://open.spotify.com/album/2iIbQxBJG9cX0HCtfVDXQt) | 4:05 | 2026-11-13 |  |
 | [Forever Is A Charm](https://open.spotify.com/track/6TlRcJOQR1vXemRRfTcFw7) | [Princess Chelsea](https://open.spotify.com/artist/6SrA4711bML5NvPO13Tr6t) | [Forever Is A Charm](https://open.spotify.com/album/2tu1YFttjNiRIsCICSMyEl) | 3:11 | 2022-09-09 | 2022-10-08 |
 | [Forget You](https://open.spotify.com/track/54xA4D0ZXwHUNwqxNUa5MW) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [Forget You](https://open.spotify.com/album/0zWaiBUml8QNLZrblzmscs) | 2:55 | 2022-03-04 | 2022-03-31 |
 | [Forgetter](https://open.spotify.com/track/6gPjp4u5YfmNDzoZ2Rbo5P) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [Forgetter](https://open.spotify.com/album/3vtD2JOVHzjORagu6gSw2m) | 3:21 | 2020-10-16 | 2020-11-03 |
@@ -1339,7 +1340,7 @@
 | [LEZ GO!](https://open.spotify.com/track/74UbZ0pZNzws8aaOc455kC) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU), [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [LEZ GO!](https://open.spotify.com/album/6Yp3oQKOeNNGTkp3fKj8yv) | 2:44 | 2026-03-06 | 2026-04-25 |
 | [Liar](https://open.spotify.com/track/5ya0gIGrhh1NdFoWPaBAhN) | [DYLYN](https://open.spotify.com/artist/3hOdLrtKdSs3AEuwcR7ses) | [Liar](https://open.spotify.com/album/40NNI9LICPtbYSNH4n7ArU) | 3:33 | 2022-04-15 | 2022-04-21 |
 | [liar](https://open.spotify.com/track/1FMO8gVoSFQdduxxulJUCF) | [sundial](https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9) | [liar](https://open.spotify.com/album/4OUEKQPbkU9XW93yKgcGfE) | 2:14 | 2022-07-22 | 2023-07-01 |
-| [Liar Liar](https://open.spotify.com/track/0WzxYGZi9lr3UQLMjbVUdI) | [LIA LIA](https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Armor](https://open.spotify.com/album/6PV9UuqMA3mB9acdDj06DX) | 2:45 | 2026-10-09 |  |
+| [Liar Liar](https://open.spotify.com/track/0WzxYGZi9lr3UQLMjbVUdI) | [LIA LIA](https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Armor](https://open.spotify.com/album/6PV9UuqMA3mB9acdDj06DX) | 2:45 | 2026-10-09 | 2026-11-14 |
 | [lie alone](https://open.spotify.com/track/2VzOhFDUMzY5FFjZe2uBpf) | [ALINA](https://open.spotify.com/artist/5dMqTi9pBymJAVzH9V7N86) | [lie alone](https://open.spotify.com/album/4ftfORA5fYEtqNAjT94d2U) | 3:49 | 2026-06-12 | 2026-11-13 |
 | [LIE DOWN..](https://open.spotify.com/track/68XQUzPx5J3irT3WzUpJRp) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [LIE DOWN..](https://open.spotify.com/album/1DnDYhwZ7K6gejLVulLNZf) | 5:09 | 2025-01-17 | 2025-03-12 |
 | [Lifestyle](https://open.spotify.com/track/52E0w9olHISDiYZdPBS4TS) | [girli](https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP) | [it's just my opinion](https://open.spotify.com/album/2rzEI7LluM2fWaE2an24eC) | 3:13 | 2026-05-15 | 2026-05-26 |
@@ -2018,6 +2019,7 @@
 | [Slow It Down](https://open.spotify.com/track/3BCA5KOKE7RRcrx0tK7kDK) | [BILBAO](https://open.spotify.com/artist/6MJ5mobLenB7bCPKPIRoRH), [THALA](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU) | [Slow It Down](https://open.spotify.com/album/5xeGFga33wKgIuTcef2wKn) | 3:38 | 2022-03-18 | 2022-07-06 |
 | [Slow Tonight](https://open.spotify.com/track/4euJCjgfNymsvUFMJ6W8jd) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Days Of Us](https://open.spotify.com/album/2nSItiBROm1O9jl8FtNvIj) | 3:12 | 2026-03-20 | 2026-06-13 |
 | [Slowly](https://open.spotify.com/track/3GJTkh9w9IBLS0vszvekyL) | [Weston Estate](https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa) | [Slowly](https://open.spotify.com/album/4rZXOJhiSMy1iwwUCwBBum) | 2:53 | 2023-08-25 | 2024-04-06 |
+| [slug](https://open.spotify.com/track/2vgeAlfyqNyikQfVYa6BS4) | [Devon Again](https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t) | [slug](https://open.spotify.com/album/7Hy5GsTBkvTCndGqVLOrQR) | 3:56 | 2026-11-13 |  |
 | [Slugger](https://open.spotify.com/track/3NMXHkEhxF2ijm2KC0wHKU) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Slugger](https://open.spotify.com/album/3vq1m0WbgBEgTsG18SN62z) | 3:00 | 2024-09-27 | 2024-12-07 |
 | [Slush Puppy](https://open.spotify.com/track/5esPnS3J0c0x94yZuCxukj) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Slush Puppy](https://open.spotify.com/album/6lik4v0FwZyEZ0VPKui5z0) | 2:46 | 2026-07-03 | 2026-08-15 |
 | [Small Town Joan of Arc](https://open.spotify.com/track/3xffKXnwzuAsio7sJgYECf) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Chasing The Chimera](https://open.spotify.com/album/0H4QxLnUPk1GlEkUtLuTww) | 3:51 | 2025-11-07 | 2026-04-21 |
@@ -2457,7 +2459,7 @@
 | [Weightless](https://open.spotify.com/track/4syzriQO4gEZR61pU5FBFd) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Weightless](https://open.spotify.com/album/6XscVw482npx8U4x0aXXyp) | 4:02 | 2023-06-16 | 2023-09-30 |
 | [Weirdo](https://open.spotify.com/track/2bXZrZbhRU6IQha9s5I2X2) | [More Fatter](https://open.spotify.com/artist/2pM3a5lWWUSNOPRGYcmGqT) | [Weirdo](https://open.spotify.com/album/2vmFFnnKahsKFQ4xeQhf9N) | 3:01 | 2020-11-03 | 2022-04-16 |
 | [Welcome To My Island](https://open.spotify.com/track/4bp2wYweUPvsBrQfntdYcr) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Desire, I Want To Turn Into You](https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q) | 3:52 | 2023-02-21 | 2024-10-26 |
-| [Well I Might Just Die](https://open.spotify.com/track/5SPLSJfoxLmVeXtFbMSR9h) | [Déyyess](https://open.spotify.com/artist/59bzGvKWNwalsyer84z5HK) | [Well I Might Just Die](https://open.spotify.com/album/0az7K3RkMFEmvSkxomICTF) | 3:09 | 2026-11-06 |  |
+| [Well I Might Just Die](https://open.spotify.com/track/5SPLSJfoxLmVeXtFbMSR9h) | [Déyyess](https://open.spotify.com/artist/59bzGvKWNwalsyer84z5HK) | [Well I Might Just Die](https://open.spotify.com/album/0az7K3RkMFEmvSkxomICTF) | 3:09 | 2026-11-06 | 2026-11-14 |
 | [Wet Hair](https://open.spotify.com/track/28g2ptfHl9P6VJrIwPDHKn) | [Audrey Hobert](https://open.spotify.com/artist/4N0TAwz9vhnQtjCqS65aKS) | [Wet Hair](https://open.spotify.com/album/25Y5fgIAftGWw3W0ghPNTK) | 3:07 | 2025-07-25 | 2025-08-27 |
 | [We’re So In Tune](https://open.spotify.com/track/7wjusjmjeqGJmuoGFYnMeM) | [Kississippi](https://open.spotify.com/artist/6t0a2t1BXxTQvAkxReClPm) | [Mood Ring](https://open.spotify.com/album/2HkSVEfE1lpIE616W2tWB5) | 4:00 | 2021-10-11 | 2021-10-16 |
 | [What A Life](https://open.spotify.com/track/66xmLhmV816GIJxq9mjUl5) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Little House](https://open.spotify.com/album/0AK4t5Hu653u7ipxbKBL0y) | 4:06 | 2025-12-12 | 2026-03-21 |

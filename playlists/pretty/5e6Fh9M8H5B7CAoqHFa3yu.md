@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 358 likes - 2,858 songs - 6 day 22 hr 25 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 358 likes - 2,863 songs - 6 day 22 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2866,5 +2866,10 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2856 | [put the apple on](https://open.spotify.com/track/1bzMy2lXlvvhbvbtsCUaEB) | [Blake Cunningham](https://open.spotify.com/artist/7lDqMXbyfDk8fPXZAWgZDS) | [put the apple on](https://open.spotify.com/album/5GOX3gTi8is88glEvzVUEw) | 4:01 |
 | 2857 | [It Shows](https://open.spotify.com/track/18y9Fwa2JeQlu9DnLaGbxN) | [Joynes](https://open.spotify.com/artist/2ttk1u6cLmHeTaBrqw56QF) | [Chancers Paradise](https://open.spotify.com/album/5ssnGImBA97l3w1z2Ii7Hw) | 2:57 |
 | 2858 | [Squalo Balena](https://open.spotify.com/track/20kQD4HWEL80RTHx1NWrB6) | [Jack Vultur](https://open.spotify.com/artist/4UIDVuQxTCzkVVNP2YAMf8) | [Spaziotempo](https://open.spotify.com/album/1aZCwn3hiBwpgYhHiZCqRb) | 5:00 |
+| 2859 | [Quédate Aquí](https://open.spotify.com/track/0YqfR9ql9HR1haDeCBpPAT) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Quédate Aquí](https://open.spotify.com/album/4zuDtBc9ypFjpPXPiWYZHC) | 3:12 |
+| 2860 | [Nane Tsokha – Fuli Tschai](https://open.spotify.com/track/6azHkK9MkHvZ2KeCRxElxP) | [Barcelona Gipsy balKan Orchestra](https://open.spotify.com/artist/6iASQf0WvN8Ci5oZ2O2Z9b) | [Nova Era](https://open.spotify.com/album/6FWIWzfc6j3XwujamBze1h) | 3:58 |
+| 2861 | [Huutava Luuta](https://open.spotify.com/track/5D9I7s6qwjlhi5krXDVxhL) | [Muupe B\. Horto](https://open.spotify.com/artist/6Dq8fIdjjfW20AXixOxyKa) | [Tuntosarvi](https://open.spotify.com/album/4WsdrEzof5vYTjPi6fXoQX) | 0:29 |
+| 2862 | [Neiti Aika](https://open.spotify.com/track/10J7yVdtIg95ERZYDC5lFb) | [Muupe B\. Horto](https://open.spotify.com/artist/6Dq8fIdjjfW20AXixOxyKa) | [Potero](https://open.spotify.com/album/5nz3Ups0ZNHkjhGSXHWwJD) | 0:34 |
+| 2863 | [Tie](https://open.spotify.com/track/4AhjtuVhfpm6sISXT7cGkk) | [Muupe B\. Horto](https://open.spotify.com/artist/6Dq8fIdjjfW20AXixOxyKa) | [Tuntosarvi](https://open.spotify.com/album/4WsdrEzof5vYTjPi6fXoQX) | 0:50 |
 
-Snapshot ID: `AAAMHphj/l0ny8wUxY1SIU137LH1Sgfg`
+Snapshot ID: `AAAMIyrVMLP8vfa7LJFEQVJvi7OYBBlW`

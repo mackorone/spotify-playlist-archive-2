@@ -5590,7 +5590,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 161070,
       "name": "Guele",
       "url": "https://open.spotify.com/track/4fbtdVb5F7BgN1n4avUMqx"
@@ -6086,7 +6086,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 217658,
       "name": "Humilde no Pendejo",
       "url": "https://open.spotify.com/track/7LEqGHifYLUZqsyaUIzOgY"
@@ -6784,6 +6784,36 @@
       "duration_ms": 276933,
       "name": "KILOS X UBER",
       "url": "https://open.spotify.com/track/4tfe2AWDf1Bv0ifmAMTpT4"
+    },
+    {
+      "album": {
+        "name": "King Kong",
+        "url": "https://open.spotify.com/album/7qdEhA8pTwLqP1OID0q5tZ"
+      },
+      "artists": [
+        {
+          "name": "Agorazein",
+          "url": "https://open.spotify.com/artist/7s6ca8qq2BOyKb5FRkKupP"
+        },
+        {
+          "name": "C. Tangana",
+          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
+        },
+        {
+          "name": "Sticky M.A.",
+          "url": "https://open.spotify.com/artist/5o7fmoqHl79fzoCzeApdxm"
+        },
+        {
+          "name": "Jerv.AGZ",
+          "url": "https://open.spotify.com/artist/3GDjG6fBhAAB0leAL0aESf"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208249,
+      "name": "King Kong",
+      "url": "https://open.spotify.com/track/64URabBpwbFq6UG1NtFylA"
     },
     {
       "album": {
@@ -9342,6 +9372,28 @@
       "duration_ms": 264057,
       "name": "Na Onda do Gin",
       "url": "https://open.spotify.com/track/3J2dWPo6aN0mwJFcg1aW4e"
+    },
+    {
+      "album": {
+        "name": "LAS PIRATIA 2.0",
+        "url": "https://open.spotify.com/album/4jSPwznLbj9qC49kjiDmjl"
+      },
+      "artists": [
+        {
+          "name": "El Americano 4KT",
+          "url": "https://open.spotify.com/artist/7JGdIwHe5RyFZvLEuRdR7N"
+        },
+        {
+          "name": "THE FAVORITES",
+          "url": "https://open.spotify.com/artist/7xCeAo7w31Gmz29052qZ5I"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151764,
+      "name": "NAH 4 REAL",
+      "url": "https://open.spotify.com/track/1nu5RWGJ9YLM7fsApy0uBW"
     },
     {
       "album": {
@@ -12798,6 +12850,28 @@
       "duration_ms": 259310,
       "name": "Sicaria",
       "url": "https://open.spotify.com/track/54LJrBDBnR0ey6ggMFQycr"
+    },
+    {
+      "album": {
+        "name": "EL TRAP DE TU PA\u00cdS",
+        "url": "https://open.spotify.com/album/1qRpp0HwiLsTGnIWqtias5"
+      },
+      "artists": [
+        {
+          "name": "YSY A",
+          "url": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
+        },
+        {
+          "name": "CLUB HATS",
+          "url": "https://open.spotify.com/artist/3Nk2mAv4k4ZOzrP5tpXL2G"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132481,
+      "name": "SIEMPRE ES VIERNES",
+      "url": "https://open.spotify.com/track/22w4SzpB1DIB6NsQKkudGM"
     },
     {
       "album": {

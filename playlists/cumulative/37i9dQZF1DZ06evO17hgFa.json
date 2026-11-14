@@ -482,7 +482,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 190480,
       "name": "He's Funny That Way",
       "url": "https://open.spotify.com/track/3jG6okC06hzdqzIRcEzs7H"
@@ -558,6 +558,24 @@
       "duration_ms": 173920,
       "name": "I Only Have Eyes For You",
       "url": "https://open.spotify.com/track/6Y8QG1S14e2o0Tx0rppi0V"
+    },
+    {
+      "album": {
+        "name": "I Only Have Eyes For You",
+        "url": "https://open.spotify.com/album/2V66YProO6dJVqUXOAKDm3"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "date_added": "2026-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174333,
+      "name": "I Only Have Eyes For You",
+      "url": "https://open.spotify.com/track/6G48GrqVR0ySo7F0BdUJ9u"
     },
     {
       "album": {

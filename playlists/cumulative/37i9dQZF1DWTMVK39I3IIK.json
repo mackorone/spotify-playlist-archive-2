@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "unge kniv \ud83d\udd2a @\u00d8sten",
+  "description": "unge kniv \ud83d\udd2a @Albert",
   "name": "ung kniv ",
   "tracks": [
     {
@@ -1780,6 +1780,24 @@
       "duration_ms": 179312,
       "name": "du forst\u00e5r det, jeg forst\u00e5r det ik",
       "url": "https://open.spotify.com/track/7DbJqU0Tj5Ti0kuUYuAJPp"
+    },
+    {
+      "album": {
+        "name": "Du Ved Jeg Forst\u00e5r Det",
+        "url": "https://open.spotify.com/album/22oRvJRejjw4VH8mqOncWB"
+      },
+      "artists": [
+        {
+          "name": "Albert",
+          "url": "https://open.spotify.com/artist/3Sog3Abr94ggodkNxdvKRD"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152273,
+      "name": "Du Ved Jeg Forst\u00e5r Det",
+      "url": "https://open.spotify.com/track/3Vp9YoclG72m2wq9zIj4lo"
     },
     {
       "album": {
@@ -4205,6 +4223,24 @@
     },
     {
       "album": {
+        "name": "Jetlag",
+        "url": "https://open.spotify.com/album/5rNJuFVUU2CwTBWB8Zw5fk"
+      },
+      "artists": [
+        {
+          "name": "Kn\u00e6gt",
+          "url": "https://open.spotify.com/artist/2ma469IFw27u95sH9V72l6"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241587,
+      "name": "Jetlag",
+      "url": "https://open.spotify.com/track/6HtKaapCZGhHKvuWatfaLk"
+    },
+    {
+      "album": {
         "name": "jukeboxx",
         "url": "https://open.spotify.com/album/0gTPDdSTfpxGjQkoj0YxD7"
       },
@@ -5184,7 +5220,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 196836,
       "name": "Mouthful of Sand",
       "url": "https://open.spotify.com/track/3A53Ci6ZNo4E98GR2FGz4C"
@@ -6338,7 +6374,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 260314,
       "name": "R\u00f8sn\u00e6s, 2017 (havet lyste dig op)",
       "url": "https://open.spotify.com/track/3VkWtyzvvGphm7Yhp5HMiP"

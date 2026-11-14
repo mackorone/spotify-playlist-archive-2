@@ -1295,6 +1295,28 @@
     },
     {
       "album": {
+        "name": "BUBBLE GUM BITCH",
+        "url": "https://open.spotify.com/album/66TjCNPG8FuyJ1Wu7125Qf"
+      },
+      "artists": [
+        {
+          "name": "Fantasm",
+          "url": "https://open.spotify.com/artist/0copVQkrcbfv5CzOyXuLKy"
+        },
+        {
+          "name": "Nvns",
+          "url": "https://open.spotify.com/artist/7jCaQmifvu4W50tN07fj3P"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189090,
+      "name": "BUBBLE GUM BITCH",
+      "url": "https://open.spotify.com/track/16FkTOHaqo2NV4bWh0bieQ"
+    },
+    {
+      "album": {
         "name": "Bumpin",
         "url": "https://open.spotify.com/album/43Bw4HDVogVZKCmfNbbtS4"
       },
@@ -3862,7 +3884,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 141390,
       "name": "HIT IT BOY",
       "url": "https://open.spotify.com/track/1q9Ds8nsZqNYUAzlsNo7t2"
@@ -6504,7 +6526,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-12",
+      "date_removed": null,
       "duration_ms": 127241,
       "name": "Renegade Master",
       "url": "https://open.spotify.com/track/57oprc6Ilu0qJdidmTKCDg"
@@ -6700,7 +6722,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 244500,
       "name": "SCANDAL ANTHEM",
       "url": "https://open.spotify.com/track/08DchrgnFXBD6H142l4tvY"

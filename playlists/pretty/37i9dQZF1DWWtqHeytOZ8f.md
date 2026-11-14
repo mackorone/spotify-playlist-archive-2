@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtqHeytOZ8f.md) - [plain]
 
 > Contemplate the universe in a bottle of friendly colored magma.
 
-[Spotify](https://open.spotify.com/user/spotify) - 384,857 likes - 100 songs - 8 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 384,895 likes - 100 songs - 8 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtqHeytOZ8f.md) - [plain]
 | 99 | [Holding Space for the Unimaginable](https://open.spotify.com/track/6ZZpIIxyanSmCpwfqGDtnX) | [Kira Kira](https://open.spotify.com/artist/0uEBuRtogWFv2HzYYgx175) | [UNA](https://open.spotify.com/album/6bXa2YcVBewTCWeqXNwfwz) | 7:02 |
 | 100 | [Music For Psychedelic Therapy \- Excerpt](https://open.spotify.com/track/4xT0BmSuDNp2vkK5v07yba) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Music For Psychedelic Therapy \(Excerpt\)](https://open.spotify.com/album/0gO5MR5zzkhqplcMbpYTQv) | 7:07 |
 
-Snapshot ID: `AAAAAEGRdycegaWqzmV3BuPVywoAUGfS`
+Snapshot ID: `AAAAAGTBwwmE5G60ApNkk8FYgsmHV+6L`

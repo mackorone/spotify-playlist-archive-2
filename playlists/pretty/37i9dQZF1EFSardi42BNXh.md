@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSardi42BNXh.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5Ukl34WbJXmU9VM3WeAYMS">Tessa Violet</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 731 likes - 52 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 731 likes - 53 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSardi42BNXh.md) - [plain]
 | 48 | [Easy As Pie](https://open.spotify.com/track/3jNHVejMUqdi3kRcNHJLs2) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Easy As Pie](https://open.spotify.com/album/5a3jaoVV1yMQObEXlwhNvO) | 1:59 |
 | 49 | [Clean Up Song](https://open.spotify.com/track/4gty1wMlAX8aerA5fIOxll) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Clean Up Song](https://open.spotify.com/album/30fawzaKexjGIXj9AdR96O) | 2:45 |
 | 50 | [Something to Lose](https://open.spotify.com/track/2o3zplckwvV9EkG3b1IQv7) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Something to Lose](https://open.spotify.com/album/6RIbr9d7RF12xrmB5CUlFs) | 3:25 |
-| 51 | [Grow](https://open.spotify.com/track/531cqVAvnZvwHk6EMbsjPR) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Grow](https://open.spotify.com/album/2E3kLPOrCJXhfEAOHicVyY) | 3:11 |
-| 52 | [My Body's My Buddy \- Instrumental](https://open.spotify.com/track/73VlYqBADyfgjTe5FLcKcL) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ), [Brye](https://open.spotify.com/artist/6Z5uMO0V6jlOuZ7LUDrSsC) | [My Body's My Buddy \(gender neutral version\)](https://open.spotify.com/album/6OwLW6P6lv129aXbvRmCZr) | 3:28 |
+| 51 | [Sing Big](https://open.spotify.com/track/2dTrRWDUzEnAXg1ksJo8Pe) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Sing Big](https://open.spotify.com/album/4yucTpIyfasr8q8kLACiZ7) | 3:23 |
+| 52 | [Grow](https://open.spotify.com/track/531cqVAvnZvwHk6EMbsjPR) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Grow](https://open.spotify.com/album/2E3kLPOrCJXhfEAOHicVyY) | 3:11 |
+| 53 | [My Body's My Buddy \- Instrumental](https://open.spotify.com/track/73VlYqBADyfgjTe5FLcKcL) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ), [Brye](https://open.spotify.com/artist/6Z5uMO0V6jlOuZ7LUDrSsC) | [My Body's My Buddy \(gender neutral version\)](https://open.spotify.com/album/6OwLW6P6lv129aXbvRmCZr) | 3:28 |
 
-Snapshot ID: `AchgigAAAACzgnYSwJyjsQ+lCcrooNm0`
+Snapshot ID: `AchmKgAAAAAAwJdSuAOzXo7JarjTjdwu`

@@ -7788,6 +7788,28 @@
     {
       "album": {
         "name": "Euphoria",
+        "url": "https://open.spotify.com/album/0a8aICi3QOfsOBqx7wNBaj"
+      },
+      "artists": [
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "Bipolar Sunshine",
+          "url": "https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171923,
+      "name": "Euphoria",
+      "url": "https://open.spotify.com/track/2zP5hJzCCtzK7ebOdn8UyD"
+    },
+    {
+      "album": {
+        "name": "Euphoria",
         "url": "https://open.spotify.com/album/4SfmVWUmmRcNYUUYckepDQ"
       },
       "artists": [

@@ -2,9 +2,9 @@
 
 ### [Christmas K\-Pop \(크리스마스 케이팝\)](https://open.spotify.com/playlist/37i9dQZF1DWVbb8LK4P3Mg)
 
-> Enjoy the wonderful holiday season with K\-Pop! \(Cover: DAY6\(데이식스\)\)
+> Enjoy the wonderful holiday season with K\-Pop! \(Cover: aespa, Eartha Kitt\)
 
-249 songs - 14 hr 30 min
+251 songs - 14 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Christmas For You \(feat\. Bennyway, SaeYeon, SeongJin\)](https://open.spotify.com/track/2Cu1PfHyxkoc7RDkNRLVSu) | [Euirim](https://open.spotify.com/artist/6sy9bdHbyliFJi91YwwUCq), [Bennyway](https://open.spotify.com/artist/5B2J6qRlxHFJYDlIkq4xO6), [Saeyeon 새연](https://open.spotify.com/artist/3SkQP3WI8DfgV8vJWEOna4), [Sung Jin 성진](https://open.spotify.com/artist/3gUUGVGoiK23AuzkmCVFMu) | [Christmas For You](https://open.spotify.com/album/4lvKvWJ3cjA8mpluskguGb) | 4:28 | 2021-12-21 | 2022-12-21 |
 | [Christmas Gift \(feat\. Ashley Alisha & Sonny Zero\)](https://open.spotify.com/track/3c1Dp25RwHWmTuqx5jHMW4) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Ashley Alisha](https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk), [Sonny Zero](https://open.spotify.com/artist/40X7tXw4Tk4m5WFDfGJnZe) | [Christmas Gift](https://open.spotify.com/album/48DteS8oPnYiwJsA0aM9Dv) | 2:45 | 2021-12-21 |  |
 | [Christmas in July](https://open.spotify.com/track/1XbMklm5bn9DRpRyvePwow) | [KANGTA](https://open.spotify.com/artist/5Bm6d9Fbsmln3CpXv8VrMG) | [Christmas in July](https://open.spotify.com/album/0euAPwcmvqbw78ptNqYxN2) | 3:59 | 2021-12-21 | 2024-12-25 |
+| [Christmas in New York](https://open.spotify.com/track/02AkOM9aadzbRmOuLvVh3A) | [EJAE](https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY) | [Christmas in New York](https://open.spotify.com/album/3Arw97tnQUGQ3zBkWrEORn) | 2:58 | 2026-11-13 |  |
 | [Christmas is Coming \(feat\. Kelsey Kuan & prettyhappy\)](https://open.spotify.com/track/2CiRzMXe6uk1RmDHLADsOx) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Kelsey Kuan](https://open.spotify.com/artist/4aWzckAj2ZOeSBbLyYXtR9), [prettyhappy](https://open.spotify.com/artist/3doCkojWogBLg7PlYwaiG5) | [Christmas is Coming](https://open.spotify.com/album/02vzxxDPtbNmqeQx2XHWlH) | 3:26 | 2025-11-06 |  |
 | [Christmas Love](https://open.spotify.com/track/07RqTH1eogXDP6lvfkpTgr) | [A.C.E](https://open.spotify.com/artist/25KT93FeotUTHC1dbLasxi) | [Christmas Love](https://open.spotify.com/album/7iTnFSQCuTl8j5XenUsOu3) | 3:12 | 2024-01-05 |  |
 | [Christmas Love](https://open.spotify.com/track/1bSqmWIWw4AHevbOXBtBwm) | [Kim Tae Woo](https://open.spotify.com/artist/5OFQZvle7HH55LvauNmUIi) | [KIM TAE WOO with Friends](https://open.spotify.com/album/0fj62kxyGEzyB1xYVNvaef) | 3:04 | 2021-12-21 | 2022-12-13 |
@@ -165,7 +166,8 @@
 | [Perfect Night \- Holiday Remix](https://open.spotify.com/track/40CJrEAyXS8qe0BBFbYbJO) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Perfect Night \(Holiday Remix\)](https://open.spotify.com/album/0YaaIvxu7OH0OxUSnM9WFH) | 2:42 | 2023-11-23 |  |
 | [PINK CHRISTMAS](https://open.spotify.com/track/4BU2J7VTrm2TvzaYUX7GXb) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [PINK CHRISTMAS](https://open.spotify.com/album/2dKFIjEOW7xpBbr7DUtn6Z) | 3:14 | 2023-12-11 |  |
 | [PRESENT](https://open.spotify.com/track/4aHFpcusnNCEfwZLiItfrt) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [The Present](https://open.spotify.com/album/5ZHr2d9elKGljFZiKN5H9j) | 3:42 | 2022-12-23 |  |
-| [Santa For You](https://open.spotify.com/track/5cobUAr9sTFH1zJ51r7D76) | [TRI.BE](https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a) | [Santa For You](https://open.spotify.com/album/7zmo5Zl70iQSjpgJ2jnJSI) | 3:17 | 2021-12-21 |  |
+| [Santa Baby](https://open.spotify.com/track/5bwxKxLPeSxGy38JSYBeXk) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [Eartha Kitt](https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC) | [Santa Baby](https://open.spotify.com/album/5VVQMofUHoRZrlidCn99NK) | 2:54 | 2026-11-13 |  |
+| [Santa For You](https://open.spotify.com/track/5cobUAr9sTFH1zJ51r7D76) | [TRI.BE](https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a) | [Santa For You](https://open.spotify.com/album/7zmo5Zl70iQSjpgJ2jnJSI) | 3:17 | 2021-12-21 | 2026-11-14 |
 | [Santa is Busy](https://open.spotify.com/track/36WLp4oVkESgTBCaR3eiaz) | [The Barberettes](https://open.spotify.com/artist/6dZBjKEpZkglz4Xq5ni0eZ), [Kang Seungwon](https://open.spotify.com/artist/48DsjCcpYJQWi5fulzyuBm) | [Santa is Busy](https://open.spotify.com/album/3Klxv71LYDsMhQ7wiAbzJF) | 3:34 | 2021-12-21 | 2022-07-29 |
 | [Santa, Give Me What I Need](https://open.spotify.com/track/2vj3Iau5rMHiNMgQB1LTcl) | [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B) | [Letters to Santa](https://open.spotify.com/album/509eN4HXKIS6EfxUwBQ8S0) | 1:58 | 2023-11-15 | 2025-12-13 |
 | [Santa,I have a Wish…](https://open.spotify.com/track/2ZAF7QSsI5xTMo8kAH79BU) | [Jueun](https://open.spotify.com/artist/7n9JiWW3jLlSm7WGaIrD8U) | [Santa,I have a Wish…](https://open.spotify.com/album/7u38QbYaTHAnXXFVqdEKTl) | 3:34 | 2024-12-06 | 2025-12-09 |
@@ -216,7 +218,7 @@
 | [welove Christmas](https://open.spotify.com/track/4e7G7lhG4j0C6g0UX00Rej) | [Grass](https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi), [WELOVE](https://open.spotify.com/artist/0NBHZ2ja7ejAMkL77afYGI) | [welove Christmas](https://open.spotify.com/album/0VmQEAqP4FlTZRRWDO4KlN) | 2:45 | 2023-12-22 | 2024-02-13 |
 | [What I Want For Christmas](https://open.spotify.com/track/1f8y9dfpCSBW7BJRfOjop7) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [For Life \- Winter Special Album, 2016](https://open.spotify.com/album/2c0FB7FpgF1ORH5k5w32Ft) | 3:22 | 2021-12-21 | 2022-07-29 |
 | [What I Want For Christmas](https://open.spotify.com/track/6LYw9XyG9AQSQF178FKjIO) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [For Life](https://open.spotify.com/album/3bMotSQLWVaBRY8VpBI3eM) | 3:22 | 2021-12-21 | 2024-04-19 |
-| [When It Snows mmm \(feat\. Wheein\)](https://open.spotify.com/track/5p4nVbbKRDASNjHNI5HvOV) | [Basick](https://open.spotify.com/artist/7pXKdkQsYFCMG2omRxheJ2), [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [When It Snows mmm \(feat\. Wheein\)](https://open.spotify.com/album/5z8FBqt7BCXR6MB5fzy7L3) | 3:05 | 2021-12-21 |  |
+| [When It Snows mmm \(feat\. Wheein\)](https://open.spotify.com/track/5p4nVbbKRDASNjHNI5HvOV) | [Basick](https://open.spotify.com/artist/7pXKdkQsYFCMG2omRxheJ2), [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [When It Snows mmm \(feat\. Wheein\)](https://open.spotify.com/album/5z8FBqt7BCXR6MB5fzy7L3) | 3:05 | 2021-12-21 | 2026-11-14 |
 | [When it snows\(Feat.Heize\)](https://open.spotify.com/track/2vA5M8uXee4amGQajyUMFR) | [LEE MU JIN](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC), [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [When it snows\(Feat.Heize\)](https://open.spotify.com/album/1d2YKQ02RQA97EyrB55ZcK) | 3:52 | 2021-12-21 |  |
 | [When You Say My Name](https://open.spotify.com/track/1LFFqnGA8n1QHlNcobioF8) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Winter Glow](https://open.spotify.com/album/6ZnV6RIYCZdozre4yDzIOu) | 3:31 | 2024-12-10 |  |
 | [White](https://open.spotify.com/track/3x2WPJdU4Rl2UOgYZyTJje) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [White](https://open.spotify.com/album/2kHbfJSatQE5KAglEKS4dA) | 3:56 | 2023-12-27 |  |

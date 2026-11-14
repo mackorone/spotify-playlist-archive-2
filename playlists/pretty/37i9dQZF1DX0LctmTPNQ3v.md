@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0LctmTPNQ3v.md) - [plain]
 
 > Your soundtrack for a not\-so\-silent night\. Cover: Ice Nine Kills
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,842 likes - 73 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,935 likes - 73 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0LctmTPNQ3v.md) - [plain]
 | 50 | [Merry Blah Blah Blah](https://open.spotify.com/track/1OOPUbMuiP64MSWZUNWNJd) | [Lordi](https://open.spotify.com/artist/14SgKNlOCKAI0PfRD1HnWh) | [Merry Blah Blah Blah](https://open.spotify.com/album/3uSQOTSTrxjzdCHjwQnDAw) | 4:04 |
 | 51 | [A Monster Only You Can't See](https://open.spotify.com/track/6hJLh8rxEM2BfJmkYd4MtR) | [Sonata Arctica](https://open.spotify.com/artist/5YeoQ1L71cXDMpSpqxOjfH) | [A Monster Only You Can't See](https://open.spotify.com/album/3gObgFliVNVCROweTRHIZE) | 5:56 |
 | 52 | [Christmas Time \(Don't Let the Bells End\)](https://open.spotify.com/track/6CFaXCTcip2BhzKetDKR6b) | [The Darkness](https://open.spotify.com/artist/5r1bdqzhgRoHC3YcCV6N5a) | [Permission To Land..\. Again \(20th Anniversary Edition\)](https://open.spotify.com/album/1C2yA2sLXxjbytmYxvbDN0) | 3:31 |
-| 53 | [Merry Metal Xmas](https://open.spotify.com/track/7BeLosnDpGmm4QDcfHmcKw) | [Doro feat\. Onkel Tom Angelripper](https://open.spotify.com/artist/7mxDyvnquKnHDV45LilCwU) | [Merry Metal Xmas](https://open.spotify.com/album/03nFyBaEvt1q5ZPpDoERY0) | 3:05 |
+| 53 | [Merry Metal Xmas](https://open.spotify.com/track/3oQVHS7EC6AzfqSmlRUwse) | [Doro](https://open.spotify.com/artist/5GLeyUhj8B8f5pJxqZllKl), [Onkel Tom Angelripper](https://open.spotify.com/artist/3w0xdka8OjocXhLRP4YucU) | [Merry Metal Xmas](https://open.spotify.com/album/15n2Te5hsJUpQ0Iuv2Deig) | 3:05 |
 | 54 | [Darkest Carols, Faithful Sing](https://open.spotify.com/track/0lhR0OLCzlIVrmZMyPwIzC) | [Christopher Lee](https://open.spotify.com/artist/7ziAy2bJOgjFO50ThstObl) | [Darkest Carols, Faithful Sing](https://open.spotify.com/album/0VASsBwZ1UmIeeLxCDnc52) | 3:52 |
 | 55 | [Jingle Hell](https://open.spotify.com/track/1fcGgiCOV9lTUMUic1Mv52) | [Christopher Lee](https://open.spotify.com/artist/7ziAy2bJOgjFO50ThstObl) | [A Heavy Metal Christmas Too](https://open.spotify.com/album/4ysttGZvebt1PBAo7bXzKL) | 3:42 |
 | 56 | [Mary Did You Know](https://open.spotify.com/track/5mvByjQpP60Peg80DURkXa) | [Lionheart](https://open.spotify.com/artist/1ei3UyhCTygt5lNCVFItam) | [Mary Did You Know](https://open.spotify.com/album/6RvqLASS8YpPUuF41STGR1) | 3:03 |
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0LctmTPNQ3v.md) - [plain]
 | 72 | [It's The Most Wonderful Time Of The Year](https://open.spotify.com/track/3vSogSk1GgB0D1V7r8nkEP) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu) | [Winter Wilderness EP](https://open.spotify.com/album/1iNaHBJANUPl2U84kSjogc) | 3:07 |
 | 73 | [All I Want For Christmas Is You](https://open.spotify.com/track/2KpS37udVvcVTP8lkKyYjG) | [Until I Wake](https://open.spotify.com/artist/4XYFjTd83FIwArFrWEYhd5) | [All I Want For Christmas Is You](https://open.spotify.com/album/4yYRCfrUG8Ck6nkqOEJDtQ) | 3:27 |
 
-Snapshot ID: `AAAAACcDB645TMR+QjpUTb+IIGonNhLG`
+Snapshot ID: `AAAAAL2sDIoy1g7Af88FF+B8KwFGQm3O`

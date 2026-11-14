@@ -1,13 +1,29 @@
 {
   "description": "next gen pop\nCover: Romy Mars",
-  "num_followers": 1252442,
+  "num_followers": 1252411,
   "original_name": "Pop Sauce",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAitBMD2dNDQu0wbiNBX6uOdSq8k",
+  "snapshot_id": "AAAAALnfAnnItpSjrhjRhaM9H+jqCBgy",
   "tracks": [
+    {
+      "added_at": "2026-11-13 07:29:30",
+      "album": {
+        "name": "Tell Him",
+        "url": "https://open.spotify.com/album/4xBplgdBasQJe7XBEaFhmH"
+      },
+      "artists": [
+        {
+          "name": "Romy Mars",
+          "url": "https://open.spotify.com/artist/6cJxlOHcaXLNUUKYkSecTd"
+        }
+      ],
+      "duration_ms": 157082,
+      "name": "Tell Him",
+      "url": "https://open.spotify.com/track/48OQwFBixhT1hfocKYRDOW"
+    },
     {
       "added_at": "2026-11-13 05:02:15",
       "album": {

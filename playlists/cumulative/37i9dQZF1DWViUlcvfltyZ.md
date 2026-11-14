@@ -4,7 +4,7 @@
 
 > Rock, indie e punk dall'Italia 🎸 La Rivoluzione Industriale e le sue Conseguenze in cover
 
-2,134 songs - 4 day 23 hr 36 min
+2,135 songs - 4 day 23 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -468,6 +468,7 @@
 | [Dear ghost](https://open.spotify.com/track/5bxXaEuekDbPoAMv8MWfgW) | [Moustache Prawn](https://open.spotify.com/artist/5hj7vX3pcKC5Gofxadg2mI) | [Dear ghost](https://open.spotify.com/album/1lOfTE8AaWOHAGqGZM8Mdh) | 4:29 | 2026-11-12 |  |
 | [December First](https://open.spotify.com/track/3qVsE1LimmEWecna7Q91A3) | [Baseball Gregg](https://open.spotify.com/artist/7MXsu694gc1X8K6s7XPmw4) | [December First](https://open.spotify.com/album/1Is0ZnET3HAroC7ee6z3j8) | 3:17 | 2024-01-04 | 2024-01-26 |
 | [Defective Supersight](https://open.spotify.com/track/75edXIj9lMn82jTlzOwUf3) | [Nobody Cried For Dinosaurs](https://open.spotify.com/artist/2RQE2lqMvFUFA5u0znpkvo) | [Defective Supersight](https://open.spotify.com/album/1cbY5ev5FxZPHP3grGgMau) | 3:36 | 2022-10-06 | 2022-12-02 |
+| [Deicidio](https://open.spotify.com/track/4zOiwu6pKQLx2hNyGZCV1k) | [Put Pùrana](https://open.spotify.com/artist/6zzXymmHvcDSZoKtiUKivc) | [Put Pùrana](https://open.spotify.com/album/13bLKK1aDNpr0a2Mr2fjb7) | 2:04 | 2026-11-12 |  |
 | [DEJAVU](https://open.spotify.com/track/053gl71zIZtFkG4liMKSOH) | [VAEVA](https://open.spotify.com/artist/2xP0ZgiHfJOP8dzz3ij10b) | [DEJAVU](https://open.spotify.com/album/4OPD15l7VWt44Zd4VeTr45) | 2:20 | 2026-07-16 |  |
 | [del mio meglio](https://open.spotify.com/track/1d9kl56oVB63Vg6sjg4nnI) | [konoha 木ノ葉](https://open.spotify.com/artist/2OXUpM91Q0lSSYBCCSmVqH) | [komorebi](https://open.spotify.com/album/0y6wNr3C5Stu2bGmdufJnJ) | 2:27 | 2024-09-12 | 2024-10-25 |
 | [del tempo perso](https://open.spotify.com/track/2vzXreP8j2jfFJIzCBIJ5H) | [Jesse the Faccio](https://open.spotify.com/artist/0SbYhjfJTmuDE1ltoEUv67) | [dei giorni liberi, del tempo perso](https://open.spotify.com/album/4Hzl9E1G9HecX4GLxeoChA) | 2:33 | 2024-11-07 | 2025-03-12 |

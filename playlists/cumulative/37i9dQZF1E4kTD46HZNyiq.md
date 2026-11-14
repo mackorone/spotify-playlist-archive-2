@@ -2,7 +2,7 @@
 
 ### [NIGHT TRAVELER Radio](https://open.spotify.com/playlist/37i9dQZF1E4kTD46HZNyiq)
 
-> With Rhineland, The Wild Wind, VICTORS and more
+> With Rhineland, The Wild Wind, Laureline and more
 
 1,467 songs - 3 day 22 hr 1 min
 
@@ -330,7 +330,7 @@
 | [Dissonance](https://open.spotify.com/track/5T6HL1eFT1CG27YQpiNWsQ) | [LAVE](https://open.spotify.com/artist/5MahcP4Ovco9oORrQRaUqp) | [Dissonance](https://open.spotify.com/album/3cEKSeXdmw4sOgRGcSrWWU) | 2:35 | 2023-02-16 | 2025-08-28 |
 | [Dive Deep \(Hushed\)](https://open.spotify.com/track/4VbDTk82rqWqVgoQC93CkC) | [Andrew Belle](https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY) | [Dive Deep \(Hushed\)](https://open.spotify.com/album/4wXzmsXCXVn3REyPK2Z4M3) | 3:38 | 2022-06-24 | 2023-06-05 |
 | [Do You Mind?](https://open.spotify.com/track/5rQ4hEzxEjdJdmNcvJ16Sp) | [The Chain Gang Of 1974](https://open.spotify.com/artist/3Qy1IxDSU8SLpUUOfbOpxM) | [Honey Moon Drips](https://open.spotify.com/album/6un5FfnoaLOjSBc6uB3ta6) | 3:08 | 2022-10-07 | 2024-01-25 |
-| [Do You Really](https://open.spotify.com/track/1UWHiGcPIyNjaq7UOPFz00) | [The Palais](https://open.spotify.com/artist/7xGcHNf8LzTGReAUsJNaI9) | [Do You Really](https://open.spotify.com/album/5A2vf5xeaCfjW2omcNezL1) | 4:04 | 2026-08-09 |  |
+| [Do You Really](https://open.spotify.com/track/1UWHiGcPIyNjaq7UOPFz00) | [The Palais](https://open.spotify.com/artist/7xGcHNf8LzTGReAUsJNaI9) | [Do You Really](https://open.spotify.com/album/5A2vf5xeaCfjW2omcNezL1) | 4:04 | 2026-08-09 | 2026-11-14 |
 | [Do You Think About Us?](https://open.spotify.com/track/5qWfbqQUmQGS0fy15emahR) | [The Night Game](https://open.spotify.com/artist/79QO0Xmn1dZhvaLicS2Yrs), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [The Night Game](https://open.spotify.com/album/09Ft4FmAcy8CnuNoy9JbJN) | 4:05 | 2021-12-01\* | 2024-04-09 |
 | [Does Somebody Love You](https://open.spotify.com/track/23HSq3CeULIkmgITs8s2z8) | [Hardcastle](https://open.spotify.com/artist/6L95H90mXRQPcFar4Q7tAm) | [This Side Or The Other](https://open.spotify.com/album/5S96MU2rrbvSlLsak2ThZa) | 3:17 | 2022-10-10 | 2023-08-06 |
 | [Dolly](https://open.spotify.com/track/5fd2oi0YqMpcq4gavScIGd) | [Jon Bryant](https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L) | [Dolly](https://open.spotify.com/album/4GR51rkjAo4fXy9sXoMIVL) | 3:19 | 2024-08-26 | 2024-08-27 |
@@ -614,7 +614,7 @@
 | [I Don’t Want To Let You Go \- Acoustic](https://open.spotify.com/track/0c5Rh4yZNdH6DRswIe3T6G) | [Jordan Hart](https://open.spotify.com/artist/2NuHJNDBd9Vq4k09qrXibo) | [Only Pieces \(Acoustic\)](https://open.spotify.com/album/2cyxaAzrH7qsjhUi6rjQr3) | 3:33 | 2022-03-28 | 2022-03-30 |
 | [I Feel Better](https://open.spotify.com/track/04KkoQzL9rMw4jjDzCbET7) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Cannot Be, Whatsoever](https://open.spotify.com/album/1KkBDNtkZDW8COUNKAWRPw) | 2:48 | 2022-12-06 | 2024-04-11 |
 | [I Got It](https://open.spotify.com/track/2hfoVrTEJFOf4U0WctEcJI) | [The Wild Wind](https://open.spotify.com/artist/377Knb6HRXkcDKafzqtt5y) | [Cutting Edge Stuff](https://open.spotify.com/album/1CwW0jNyO2eLdu7Udf6M8D) | 3:48 | 2022-04-24 |  |
-| [i hope you know](https://open.spotify.com/track/3J32FbwHUIfjEWmIg31u76) | [Troy Ogletree](https://open.spotify.com/artist/4bfmahiXCtliOatKTQe0Vt) | [i hope you know](https://open.spotify.com/album/33zCP1Z4UuDnqkYBwSOmY3) | 3:13 | 2026-08-19 | 2026-11-10 |
+| [i hope you know](https://open.spotify.com/track/3J32FbwHUIfjEWmIg31u76) | [Troy Ogletree](https://open.spotify.com/artist/4bfmahiXCtliOatKTQe0Vt) | [i hope you know](https://open.spotify.com/album/33zCP1Z4UuDnqkYBwSOmY3) | 3:13 | 2026-08-19 |  |
 | [I Knew It Was You](https://open.spotify.com/track/4uFlq3DtiymqUnCEnrL2Rl) | [Krystin Hernandez](https://open.spotify.com/artist/1ZD4fT10bwczZ0mHeyHqRd), [Benjamin Jusino](https://open.spotify.com/artist/5B3BOcTLuWETeLAIWaiOEF) | [Hope Remains](https://open.spotify.com/album/2RsHjV0jyTDU8TYt03cCRU) | 4:18 | 2022-07-09 | 2022-08-09 |
 | [I Love You](https://open.spotify.com/track/1JWUUSoVpMjz1Sgy56kFUg) | [Laureline](https://open.spotify.com/artist/6NLvlpFHjAedoPwWoPfGgK) | [Wash](https://open.spotify.com/album/3X4oLQ5APFlwryQnOeNtYJ) | 3:22 | 2022-03-15 | 2022-09-09 |
 | [I Love You](https://open.spotify.com/track/2asYogTvOCEZe9LGIjzMA4) | [Laureline](https://open.spotify.com/artist/6NLvlpFHjAedoPwWoPfGgK) | [Wash](https://open.spotify.com/album/13PivTjVtAlNX45TRXKqB4) | 3:22 | 2022-09-18 | 2022-10-08 |
@@ -829,7 +829,7 @@
 | [Man On The Moon](https://open.spotify.com/track/2gElmGH1iNyxCVgLFnrZ6z) | [Mark Diamond](https://open.spotify.com/artist/7Il2FrLyoQt0JlyhJRDL1c) | [Butterflies In My Head](https://open.spotify.com/album/0pFKev5oqpQe7aAT4EVLml) | 2:48 | 2022-07-17 | 2023-04-18 |
 | [Man On The Moon](https://open.spotify.com/track/62G3yZ8zjK2tBBTBejh6Ss) | [Mark Diamond](https://open.spotify.com/artist/7Il2FrLyoQt0JlyhJRDL1c) | [Butterflies In My Head](https://open.spotify.com/album/1lO8SArbhIeGhr2MrnnLzy) | 2:48 | 2023-12-14 | 2024-04-04 |
 | [Man Overboard](https://open.spotify.com/track/2WMF5i6ClS9GEeM34MHEji) | [Ed Patrick](https://open.spotify.com/artist/3LE4OOntA2Yq3x1TTuQURx) | [Mexico](https://open.spotify.com/album/7heBUz2kwgoidiFcaplSqF) | 3:35 | 2021-12-03 | 2022-10-13 |
-| [Many Worlds](https://open.spotify.com/track/3B0FgKP9VnPYal3FSLe002) | [Laureline](https://open.spotify.com/artist/6NLvlpFHjAedoPwWoPfGgK) | [Everything Ends Up Ending](https://open.spotify.com/album/1HVXjoZFj8r8KA6pNw4FjB) | 3:54 | 2023-12-21 |  |
+| [Many Worlds](https://open.spotify.com/track/3B0FgKP9VnPYal3FSLe002) | [Laureline](https://open.spotify.com/artist/6NLvlpFHjAedoPwWoPfGgK) | [Everything Ends Up Ending](https://open.spotify.com/album/1HVXjoZFj8r8KA6pNw4FjB) | 3:54 | 2023-12-21 | 2026-11-14 |
 | [Many Worlds](https://open.spotify.com/track/5Cya5sfmErj19QMv8r8Sdz) | [Laureline](https://open.spotify.com/artist/6NLvlpFHjAedoPwWoPfGgK) | [Everything Ends Up Ending](https://open.spotify.com/album/2dsxWOvOPWcVg0rIBSOo1n) | 3:54 | 2022-06-07 | 2022-08-05 |
 | [Marigolds](https://open.spotify.com/track/07oIgOa6p1MZZqD8XelNq2) | [Boundary Run](https://open.spotify.com/artist/1hJO0ngj5eZT0uNzuZpXi8) | [Marigolds](https://open.spotify.com/album/030qA9oqqINVeTJNS9mZKO) | 3:07 | 2022-06-24 | 2023-05-18 |
 | [Marigolds](https://open.spotify.com/track/2x8yPQN2sJwEYzyNmKYmeB) | [Boundary Run](https://open.spotify.com/artist/1hJO0ngj5eZT0uNzuZpXi8) | [Ruminations](https://open.spotify.com/album/3ywsSe0AcPuKJQCVxEmX8P) | 3:07 | 2023-12-19 | 2024-04-19 |
@@ -1028,7 +1028,7 @@
 | [Portland](https://open.spotify.com/track/4GLcUCGCWBv6lupurSGEsK) | [NIGHT TRAVELER](https://open.spotify.com/artist/1Yybte8g5co6ZQaFZdhMQH) | [Night Traveler, Vol\. 1](https://open.spotify.com/album/3vUaX4cWihJEy1WxjLMQL6) | 5:16 | 2021-12-02 | 2024-04-26 |
 | [Porto Cristo](https://open.spotify.com/track/7rdHK9Y4soN4bNOGQxxICz) | [BROTHER](https://open.spotify.com/artist/2gJtsSRIUscYcbwFHUFInV), [Zerbin](https://open.spotify.com/artist/0dlr1FsAcalNnpq1q2RIoT), [Peter Mol](https://open.spotify.com/artist/2huny4063R3FQOtrm9rbOo) | [Porto Cristo](https://open.spotify.com/album/6wl5rcO1ijuDJlzv6j99qW) | 3:40 | 2022-03-11 | 2022-08-08 |
 | [Present Tense](https://open.spotify.com/track/0C0X6RRfsfWWrOuI2AKBQb) | [Laureline](https://open.spotify.com/artist/6NLvlpFHjAedoPwWoPfGgK) | [Everything Ends Up Ending](https://open.spotify.com/album/2dsxWOvOPWcVg0rIBSOo1n) | 3:54 | 2022-03-10 | 2022-07-29 |
-| [Present Tense](https://open.spotify.com/track/2ZzQw84swNCgc4IEHS7leB) | [Laureline](https://open.spotify.com/artist/6NLvlpFHjAedoPwWoPfGgK) | [Everything Ends Up Ending](https://open.spotify.com/album/1HVXjoZFj8r8KA6pNw4FjB) | 3:54 | 2023-12-17 | 2026-11-13 |
+| [Present Tense](https://open.spotify.com/track/2ZzQw84swNCgc4IEHS7leB) | [Laureline](https://open.spotify.com/artist/6NLvlpFHjAedoPwWoPfGgK) | [Everything Ends Up Ending](https://open.spotify.com/album/1HVXjoZFj8r8KA6pNw4FjB) | 3:54 | 2023-12-17 |  |
 | [Pretty in Pink](https://open.spotify.com/track/2mPHKY5YB066Wq475KmDAJ) | [The Catalina](https://open.spotify.com/artist/28QCTLI7HSNPNm6b217Pjj) | [Pretty in Pink](https://open.spotify.com/album/5y7NkMl85FDCFHcAyiX57y) | 3:11 | 2022-07-27 | 2022-07-28 |
 | [Prom Night](https://open.spotify.com/track/5pOuutOhdUKIR9eruBTLD4) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Monsters](https://open.spotify.com/album/1WKMbxcldmwnXaCIGgEpUW) | 5:02 | 2023-06-11 | 2024-04-13 |
 | [Psycho \(When I Wake Up\)](https://open.spotify.com/track/2WW9X7mc7lE8DbE4WbTNwI) | [The Wldlfe](https://open.spotify.com/artist/2Vvj76fff5uAw10W1sW54W) | [Psycho \(When I Wake Up\)](https://open.spotify.com/album/0Dy3T55bzxYvsND1rpYuLa) | 3:15 | 2022-02-16 | 2022-02-17 |

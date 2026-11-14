@@ -2,9 +2,9 @@
 
 ### [Women of Música Mexicana](https://open.spotify.com/playlist/37i9dQZF1DX2QYsoI8NDDe)
 
-> ¡Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la Música Mexicana\. Cover: Ms\. Ambar
+> ¡Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la Música Mexicana\. Cover: Las Marias
 
-757 songs - 1 day 16 hr 45 min
+761 songs - 1 day 16 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Amor Prohibido](https://open.spotify.com/track/7ii1YH0rOmpoRfH9HyY8To) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [La Leyenda \(Version Super Deluxe\)](https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03) | 2:44 | 2022-01-07 | 2023-03-04 |
 | [Amor Propio](https://open.spotify.com/track/5WCl1F8tCPDECysU3yrwQ9) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [DIAMANTES VVS1](https://open.spotify.com/album/3GdwNPqgw9mhKbHT0PLEYf) | 3:25 | 2024-10-25 | 2025-05-31 |
 | [Amor, Amor de Mis Amores](https://open.spotify.com/track/4TETxb4ElOE3AtrNgQO6PO) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Que No Se Apague La Música](https://open.spotify.com/album/11TUtenhdCYRiv1xEQxaZl) | 1:53 | 2022-01-21 | 2022-07-20 |
+| [Amé](https://open.spotify.com/track/5WTAD3Nu2qvR0iFvXN0xYc) | [Fatima Campo](https://open.spotify.com/artist/02rwaHFS6g69zSkS3kh1jn) | [Amé](https://open.spotify.com/album/6TwkB1k1UG5wn8X1kS06UD) | 3:15 | 2026-11-13 |  |
 | [Amé](https://open.spotify.com/track/5fWOE0l5UDeNo2TkNOMpFL) | [Ximena Ocampo](https://open.spotify.com/artist/3NWb6W7xGBAxFUGp2e21ho) | [Noche Bohemia](https://open.spotify.com/album/7FbLBvk0oXvWPPEsNYduH4) | 4:11 | 2026-02-27 |  |
 | [Andar Conmigo](https://open.spotify.com/track/3Wnl55R6ugwDNEGYnTnAHz) | [Fatima Campo](https://open.spotify.com/artist/02rwaHFS6g69zSkS3kh1jn) | [Andar Conmigo](https://open.spotify.com/album/0S8Kpysk5NR2tAGDzBSWFp) | 3:36 | 2024-10-18 | 2026-02-14 |
 | [Anitta "Fresita"](https://open.spotify.com/track/2WX1remNuBAAqQCYwzxhbC) | [Designo Celestial](https://open.spotify.com/artist/7ApLnBw5BDaqVN1gYM9pAb) | [Anitta "Fresita"](https://open.spotify.com/album/3JhEthd5rwcNeLO903tPH5) | 2:48 | 2024-05-24 | 2025-10-25 |
@@ -449,6 +450,7 @@
 | [Ni Una Sola Palabra](https://open.spotify.com/track/4oCqda0opcaXQPjoAhhcfg) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [Ananda](https://open.spotify.com/album/0F2H68l0GgokiCljA6w1aT) | 3:44 | 2022-01-07 | 2023-03-04 |
 | [Ningún Color Tiene Dueño](https://open.spotify.com/track/54NEmG1rbxPHeNnX9JawCu) | [Majo Cornejo](https://open.spotify.com/artist/1gWIf8YFQcDLJWvbPFdoYn) | [Ningún Color Tiene Dueño](https://open.spotify.com/album/4ZvbRsterGIXqMCZ9Rhbcu) | 3:25 | 2025-10-03 | 2026-04-18 |
 | [No ando llorando](https://open.spotify.com/track/3hXskakIHPNQ7LpGXFBRBk) | [Chanela Clicka](https://open.spotify.com/artist/2RQCJUGP83CMLYttGm2Ypy), [India Martinez](https://open.spotify.com/artist/6FOpWOxsjQxKEbLiJpU1xV), [Sofi Saar](https://open.spotify.com/artist/3r05yoej4zrrPsMA64bZzp) | [No ando llorando](https://open.spotify.com/album/6499zFMyRIwrREHhCBXxkC) | 2:32 | 2025-12-05 | 2026-01-17 |
+| [NO CUADRA](https://open.spotify.com/track/0gd1z9qr8p5u9Q01HIhiJI) | [Siboney Luján](https://open.spotify.com/artist/2IUjYF9OmpwkVK0owketRs) | [NO CUADRA](https://open.spotify.com/album/5YRyQ48sE5d9y6YSVzaSw6) | 2:35 | 2026-11-13 |  |
 | [No Cualquiera](https://open.spotify.com/track/0W8IV6tyIu5vUonMKdkd7I) | [Marián Oviedo](https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci), [Victor Eduardo](https://open.spotify.com/artist/3l6Z0fKebCCFlLyajThPMh) | [No Cualquiera](https://open.spotify.com/album/5t9ewPYspdQkzRhJVbTRGz) | 2:44 | 2024-04-26 | 2025-10-25 |
 | [No Es Cierto](https://open.spotify.com/track/24a8NMs0KzN0wF0WLlW25B) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [No Es Cierto](https://open.spotify.com/album/2w4KFlhTGrlXzj7GE0wvh0) | 2:31 | 2024-12-06 | 2026-01-17 |
 | [No Fuimos](https://open.spotify.com/track/4kGkxso0MzCbSYvVjZmCAx) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [No Fuimos](https://open.spotify.com/album/6rh0MIedi2ywwZ1HpVGCYE) | 2:46 | 2024-10-18 | 2025-02-10 |
@@ -470,6 +472,7 @@
 | [No Me Queda Más](https://open.spotify.com/track/1r28ZDlVxz24Rmy8Sq9REY) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Amor Prohibido](https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E) | 3:20 | 2022-01-07 | 2023-03-04 |
 | [No Me Queda Más](https://open.spotify.com/track/4CWNGOfdt0hBP5hBkQUX85) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Baila Esta Cumbia](https://open.spotify.com/album/6MpiAS4mk0S7WRTX0l98z3) | 3:20 | 2022-01-07 | 2023-03-04 |
 | [No Me Queda Más \- En Vivo](https://open.spotify.com/track/4Zj0D44I1YGp4AKlaLSxB9) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [No Me Queda Más \(En Vivo\)](https://open.spotify.com/album/3hIJDpOqh6zItKT6qSRXao) | 3:21 | 2026-05-22 |  |
+| [No Me Queda Más \- En Vivo Desde el Estudio](https://open.spotify.com/track/444JIEoF1HR1DtOdKa4bNq) | [Las Marías](https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w) | [No Me Queda Más \(En Vivo Desde el Estudio\)](https://open.spotify.com/album/2Z1yOV5FFLJcNf1D3HYlW6) | 3:34 | 2026-11-13 |  |
 | [No Me Vengas A Decir](https://open.spotify.com/track/1kSBEtTMavEQsJuN9zoLgx) | [América Sierra](https://open.spotify.com/artist/6iK7hlQHfupGjQHrxQIMly) | [No Me Vengas A Decir](https://open.spotify.com/album/5QeSWUvRuC1V7yUrLw3p4r) | 3:07 | 2026-04-17 |  |
 | [No Molestar](https://open.spotify.com/track/2anEYGSetLZpadRjFEcBV2) | [Sabine](https://open.spotify.com/artist/7yYwMLyDomWvLopr8vsJZK) | [No Molestar](https://open.spotify.com/album/6QfHgoQP9ffJeXSxN5yCjJ) | 2:30 | 2025-10-03 | 2026-01-15 |
 | [No Pasa Nada](https://open.spotify.com/track/7dz7NLIMO7es3GfCpf6Mdt) | [Grace Guillén](https://open.spotify.com/artist/04K92Tg6ryvoyNj1Xju6rD) | [No Pasa Nada](https://open.spotify.com/album/3SLyTJrmcrrhj2qqLx2sW3) | 3:51 | 2022-08-03 | 2023-01-21 |
@@ -482,7 +485,7 @@
 | [No Regreses](https://open.spotify.com/track/7FL0je0WadxJ8uPrY7UaR4) | [Las Fenix](https://open.spotify.com/artist/2ZNrWgSrqOlD6uF54Hx4ZY) | [Diosas en Texas](https://open.spotify.com/album/5x1bnHtL5zNcukQDnV7Kpk) | 2:33 | 2024-06-28 | 2026-02-14 |
 | [No Se Lo Digas A Ella](https://open.spotify.com/track/32eOUym8jszwzTiFjq9L7K) | [Loreto](https://open.spotify.com/artist/3CIaj6zebZCp6FUdl4SBHh) | [A Mi Modo, Pt\. 2](https://open.spotify.com/album/6q0euDuKUZCjKvRgwB5sKs) | 3:03 | 2026-05-22 |  |
 | [No Se Puede Decir Adiós](https://open.spotify.com/track/1B9Y0b1XIyw6jci2C7oTJc) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [No Se Puede Decir Adiós / Nuestra Canción](https://open.spotify.com/album/2hajlGHDWlqIzHh1bvST29) | 2:44 | 2023-03-31 | 2025-10-18 |
-| [No soy para ti](https://open.spotify.com/track/5ZDdNrpUuCZfbSbkHYpmWi) | [Ivanna](https://open.spotify.com/artist/0KR7rS2uTkP6Ct1a7YCnx4) | [No soy para ti](https://open.spotify.com/album/1IrCd6P6dHbnSJdFa3ndoT) | 2:05 | 2026-02-20 |  |
+| [No soy para ti](https://open.spotify.com/track/5ZDdNrpUuCZfbSbkHYpmWi) | [Ivanna](https://open.spotify.com/artist/0KR7rS2uTkP6Ct1a7YCnx4) | [No soy para ti](https://open.spotify.com/album/1IrCd6P6dHbnSJdFa3ndoT) | 2:05 | 2026-02-20 | 2026-11-14 |
 | [No Soy una Señora \(Non Sono una Signora\)](https://open.spotify.com/track/34WeTeI9A1yXNVAb4rUx88) | [María José](https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs) | [Amante de Lo Ajeno](https://open.spotify.com/album/5y3sfjDQClfzkBH9V9OlQX) | 3:28 | 2022-01-07 | 2022-07-29 |
 | [No Soy una Señora \(Non Sono una Signora\)](https://open.spotify.com/track/6NUh68V6ikd96sTiUCH6ID) | [María José](https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs) | [Amante de Lo Ajeno](https://open.spotify.com/album/25dP4uxWWNVpBN5M5DDWAJ) | 3:28 | 2022-05-20 | 2023-03-04 |
 | [No Te Pelaron](https://open.spotify.com/track/3sgaoFfnKnfzXixWNFlibV) | [NXNNI](https://open.spotify.com/artist/7c3WfapyPAyyBvchugCGvK) | [No Te Pelaron](https://open.spotify.com/album/200yOFkkLOKoX1xbHRrYeV) | 2:26 | 2025-05-30 | 2025-11-22 |
@@ -708,6 +711,7 @@
 | [Una Vida](https://open.spotify.com/track/2sHfiuExXmc795qyMtKFlE) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Una Vida](https://open.spotify.com/album/4yIE4FFAh7Agudj7nC5EX2) | 4:29 | 2022-04-01 | 2022-04-21 |
 | [Uno de los Buenos](https://open.spotify.com/track/4WNCgc6d0GZa18KjQSB81b) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Uno de los Buenos](https://open.spotify.com/album/2AvHahqBPECo32t4COxfak) | 2:56 | 2023-03-03 | 2025-09-27 |
 | [Vanessa Guillen](https://open.spotify.com/track/6nvpeJpxKOp2XtDTiTP2KB) | [Ivonne Galaz](https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G) | [Vanessa Guillen](https://open.spotify.com/album/7LdX5t2i8wNlXlixStYkiq) | 3:27 | 2023-03-03 | 2025-09-27 |
+| [Vas A Recordarme](https://open.spotify.com/track/0cLJrYmBe0yDueNn0b8UcE) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Caprichos](https://open.spotify.com/album/6RpwoyuXUyyfZq9YxHoSxb) | 3:51 | 2026-11-13 |  |
 | [Vas De Salida](https://open.spotify.com/track/3D6Hf0GVInskiVwZ7e37eK) | [Laraim](https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt), [Johanna Cota](https://open.spotify.com/artist/6bm7uU9sg4Fm6MVQ6Rovi2) | [Vas De Salida](https://open.spotify.com/album/4xp1xzruof6D5oPPDTvcyU) | 3:31 | 2026-05-29 |  |
 | [Vatos](https://open.spotify.com/track/4YOY1oa1UvoAxEaWX9fi9n) | [Vanita Leo](https://open.spotify.com/artist/1ygRaSoCU4Ph22Y4b7UfB9) | [Vatos](https://open.spotify.com/album/1fkFUzh9CvwIHntVF0YVWB) | 2:26 | 2026-09-04 |  |
 | [Ven Devórame Otra Vez](https://open.spotify.com/track/7pndz0K5oyVUb3n9N5r14i) | [DiDi R](https://open.spotify.com/artist/5DYr71gMagoWXuYCrWexQM) | [Ven Devórame Otra Vez](https://open.spotify.com/album/3wM4VgceWvRdeRCrwRVjtj) | 3:12 | 2026-09-04 |  |

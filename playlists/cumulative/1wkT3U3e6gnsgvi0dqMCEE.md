@@ -4,7 +4,7 @@
 
 > All of your favourites, new favourites, live favourites and unearthed soon to be favourites\.  <a href="https://www.umusic.ca/collections/rediscover">here</a>
 
-535 songs - 1 day 11 hr 42 min
+537 songs - 1 day 11 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,6 +195,7 @@
 | [Here It Goes Again](https://open.spotify.com/track/1pHP4JeQV9wDx87D6qH9hD) | [OK Go](https://open.spotify.com/artist/3hozsZ9hqNq7CoBGYNlFTz) | [Oh No](https://open.spotify.com/album/1qN6qh1gwgrYTCdSq21gov) | 2:59 | 2023-10-16 | 2024-05-24 |
 | [Here You Are](https://open.spotify.com/track/7c8J51gkc76prV8VPyU9Tc) | [Anne Murray](https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E) | [Here You Are](https://open.spotify.com/album/2eQvntbJxbvyJDUEHiVumA) | 3:43 | 2025-09-08 |  |
 | [Heresy \- Nine Inch Noize Version](https://open.spotify.com/track/4paDQCBB9KvSFlvMWUclFV) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [Nine Inch Noize](https://open.spotify.com/album/7lcpCG4RBy3njzxHXlhOnp) | 3:57 | 2026-04-17 |  |
+| [Heroes \- 2026 Mix](https://open.spotify.com/track/4RGOPVMazlGxuzepFhAWr7) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Volume Four: The Rarities](https://open.spotify.com/album/2ZWj5afx0QcTgkTN7vSH7V) | 3:33 | 2026-11-13 |  |
 | [Heya](https://open.spotify.com/track/1phV9t2iyMfjXxGygcQ75k) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Palace for the People](https://open.spotify.com/album/1qog58rW47hLVPpG63TLyS) | 4:39 | 2026-10-09 |  |
 | [Higher Ground](https://open.spotify.com/track/0dMd4rilfd6gPbXaLpNYhu) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Innervisions](https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8) | 3:42 | 2024-05-31 |  |
 | [Ho Hey](https://open.spotify.com/track/1K3LRUEcUz5FMtPYyg0F45) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [The Lumineers \(Deluxe Edition\)](https://open.spotify.com/album/0nRgsLe1she16l3pclpyy7) | 2:43 | 2023-10-16 | 2024-05-24 |
@@ -475,6 +476,7 @@
 | [Tom and Jerry](https://open.spotify.com/track/071WCTT7JXeHRFjMMX5MaT) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Tom and Jerry](https://open.spotify.com/album/5PflBP4GjYSCtb54nCdra0) | 3:51 | 2026-10-23 |  |
 | [Tom Sawyer](https://open.spotify.com/track/1MkoCFGbhPQIDI5lRdAheQ) | [Rush](https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq) | [Moving Pictures \(2011 Remaster\)](https://open.spotify.com/album/3yBAvj1wgPEFbnUdgihqlR) | 4:36 | 2024-05-23 |  |
 | [TOMBSTONE TOWN \(feat\. Slash\)](https://open.spotify.com/track/5tAiaUVkYL86ZOaWwv0zLO) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up), [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE) | [THE WAY](https://open.spotify.com/album/358tJVvVgfUhwcjpLDnZPk) | 3:14 | 2025-03-14 |  |
+| [Torn \(feat\. Dolly Parton\)](https://open.spotify.com/track/1fAgQxNa31NtikQz7L91Rr) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Torn \(feat\. Dolly Parton\)](https://open.spotify.com/album/1L5AoeTTV260aoOotq9btW) | 4:30 | 2026-11-13 |  |
 | [Town Called Malice](https://open.spotify.com/track/0gdmDP6xy3ZV7JNoHWAN9k) | [The Jam](https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR) | [The Gift](https://open.spotify.com/album/71OyKSCFX7DGsJc6qAhhQG) | 2:53 | 2024-05-23 |  |
 | [Train Kept A Rollin' \- Session Take](https://open.spotify.com/track/4hMkM62LFczYVUkZPa26Yh) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Aerosmith \(Legendary Expanded Edition\)](https://open.spotify.com/album/3wzh9sJLntyUgXBtLcjT20) | 3:36 | 2026-03-20 |  |
 | [Trenchtown Rock \- Live At The Roxy Theatre](https://open.spotify.com/track/6AN6ciH6HnEc9DviPYabny) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Live At The Roxy \- The Complete Concert](https://open.spotify.com/album/4N3FRWAVeD4mWSgIpitOVw) | 4:55 | 2026-08-28 |  |

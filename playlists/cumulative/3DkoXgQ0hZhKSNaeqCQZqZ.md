@@ -4,7 +4,7 @@
 
 > FurryRadio.com, furry music for furs, by furs.
 
-630 songs - 1 day 9 hr 19 min
+634 songs - 1 day 9 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,6 +189,7 @@
 | [Fall End Sea](https://open.spotify.com/track/2V2pkbGY0qZhprUaeQtdAb) | [snuffles](https://open.spotify.com/artist/0Ac3GAeNAnVxWGsSrrNob6) | [Forgive Me Please](https://open.spotify.com/album/1XH0VUiya3bbunW4KiLpo7) | 2:18 | 2023-06-14 |  |
 | [Fallacy](https://open.spotify.com/track/6MfjWLBkGRCybOT4mxU67y) | [YonKaGor](https://open.spotify.com/artist/2M1EOE4J6tnaLCfMhE3eFq) | [Fallacy](https://open.spotify.com/album/1PRH0TklfCDJSrzgUF4KbH) | 3:41 | 2023-06-14 |  |
 | [Falling For Americans \- Loprov Remix](https://open.spotify.com/track/4WVpHBt6diUUQ7BLIZcRhq) | [Whsprs](https://open.spotify.com/artist/6Eu37PvzuV9ylWqU9G5z3h), [Loprov](https://open.spotify.com/artist/3Zv31lkrOJ7HPBWmXOjiwJ) | [remixes \(may 2025\)](https://open.spotify.com/album/4x64o9ETDcrFAxTml8dtj2) | 3:54 | 2025-10-29 |  |
+| [FEELGUD!](https://open.spotify.com/track/1wbhtuiPPuS9KBzV9pbBYa) | [Biscuit](https://open.spotify.com/artist/75RaPp7xp9Czh1CpzWyUUR), [ghostsocial](https://open.spotify.com/artist/6ex1miCpb3Krg4TYoG4yAN) | [FEELGUD!](https://open.spotify.com/album/1gsbdrJGc6eDtHi3NspUJm) | 3:52 | 2026-11-14 |  |
 | [femboifoxxx](https://open.spotify.com/track/72vTaHJmwwd3SBMgB4hOY6) | [621 gecs](https://open.spotify.com/artist/3NjokjblTaaMSU0aI74QfG) | [femboifoxxx](https://open.spotify.com/album/2aGCTjo2kg1Xj3TGCYu029) | 2:46 | 2023-10-26 |  |
 | [FERAL](https://open.spotify.com/track/6Ladd0JIHbBKDqH6jRj1XP) | [Mek\-9](https://open.spotify.com/artist/1hwHio6WU1HAhrevPbEqTQ) | [MAW OFF](https://open.spotify.com/album/3xiaksDxR2jk6ztHhrSTJI) | 4:21 | 2024-07-22 |  |
 | [Fetch.](https://open.spotify.com/track/7bOUBE0BeEXUpuztG62y0X) | [delcarmen](https://open.spotify.com/artist/0HTHt3sXvPqKnV9KfPzOgU) | [Fetch.](https://open.spotify.com/album/35Ap3et5kzcEUwHmd8b8sg) | 2:30 | 2024-07-22 | 2026-03-01 |
@@ -355,7 +356,7 @@
 | [MEDICINE](https://open.spotify.com/track/6O6DxmtNsR2c52oJkqyfOo) | [BASSDOG](https://open.spotify.com/artist/12nm0BL6ld04PNgVi1UwwU) | [TRANQUIL](https://open.spotify.com/album/1rbdkQxI6hqQ2x3vfdEEEC) | 2:58 | 2025-04-17 |  |
 | [memories i can't replace](https://open.spotify.com/track/30Rb5WwyJESVTg0GwA7FQ0) | [Ivory Rasmus](https://open.spotify.com/artist/01mSRpKFT1xUPcIWCMnVwo) | [memories i can't replace](https://open.spotify.com/album/7yQiKXTTXJyVIgfTfIr1QY) | 2:26 | 2024-08-15 |  |
 | [Memory Merge](https://open.spotify.com/track/5usdxPXJmVeqwheEYreUoo) | [YonKaGor](https://open.spotify.com/artist/2M1EOE4J6tnaLCfMhE3eFq) | [Memory Merge](https://open.spotify.com/album/10TkVdtVrvg5Pcm4jsnRPg) | 4:32 | 2024-05-20 |  |
-| [MFL](https://open.spotify.com/track/6MohdiaR3AfffciBdwZVlm) | [batt](https://open.spotify.com/artist/1BmWFfU9euusBSd9eo0oG2), [snazzyvaka](https://open.spotify.com/artist/3hHniqLXSqhRZeR3xUvlr2) | [off a jet](https://open.spotify.com/album/4R5bR4kPNQ9TRYRR1hXayD) | 2:17 | 2026-11-11 |  |
+| [MFL](https://open.spotify.com/track/6MohdiaR3AfffciBdwZVlm) | [batt](https://open.spotify.com/artist/1BmWFfU9euusBSd9eo0oG2), [snazzyvaka](https://open.spotify.com/artist/3hHniqLXSqhRZeR3xUvlr2) | [off a jet](https://open.spotify.com/album/4R5bR4kPNQ9TRYRR1hXayD) | 2:17 | 2026-11-11 | 2026-11-14 |
 | [mind trying?](https://open.spotify.com/track/0eT0jqUFBZDKIeZjyEqxkv) | [phimtown](https://open.spotify.com/artist/6vdmfIild6uUDUbmw3y53X), [fauxx](https://open.spotify.com/artist/4smmSBpafc7gjOz5qIB8mU), [deers](https://open.spotify.com/artist/5RSAKrQ87ivLRrXMd5u8tJ) | [mind trying?](https://open.spotify.com/album/2t48vt1B4nTxo58ts0GVdU) | 2:21 | 2025-08-01 |  |
 | [Minimal Spaces](https://open.spotify.com/track/5JYguXWKAtNXM1OnmsAFs4) | [Zunkz](https://open.spotify.com/artist/0UOXglBL2dBoKtIH5Uk1KB) | [Minimal Spaces](https://open.spotify.com/album/0Sd8oItMgiNIn83XEWn9Vi) | 2:08 | 2024-05-08 | 2025-04-25 |
 | [Mint Chewing Gum, etc](https://open.spotify.com/track/0jEhzWUdib0oA0lMSkNRCB) | [Floral Tattoo](https://open.spotify.com/artist/5A9WRVGRY9QQf7RVJxVnSS) | [The Circus Egotistica or, How I Spent Most of my Life as a Lost Cause](https://open.spotify.com/album/4pdMwzzJhyhv2LkGitCEj3) | 3:44 | 2024-11-18 |  |
@@ -438,6 +439,7 @@
 | [Pop Rocks](https://open.spotify.com/track/2s7CHkCAkTKVPhRWiPcOa6) | [Cherry Hencefox](https://open.spotify.com/artist/75vbeFCGdoCdbK6M8aBVta) | [Pop Rocks](https://open.spotify.com/album/2FEABvDtGdO5nhUVFQGbiE) | 3:12 | 2024-10-11 | 2026-03-01 |
 | [POP! THAT! POOLTOY! \- WONDER MIX](https://open.spotify.com/track/4x4tUMqjPl8UHS13pMybbm) | [theSpackster](https://open.spotify.com/artist/7lxDzdUasFvfuMwNGU55Sg), [r u s s e l b u c k](https://open.spotify.com/artist/3Si34xQXMZlrics4njesF2) | [camelCase](https://open.spotify.com/album/7FVvGt3r2POOmQDdNbBv3n) | 1:33 | 2026-01-19 |  |
 | [poppers](https://open.spotify.com/track/2vDBSXOoJ5mvpwlyZH6YgK) | [Ashley Ninelives](https://open.spotify.com/artist/75f7kE3UP14RoDP8tEAPnE) | [cheshire days](https://open.spotify.com/album/1hLHnPf5helwdhFCOgGjSi) | 3:13 | 2024-08-15 |  |
+| [Popstar](https://open.spotify.com/track/2aDRZnE6GB8C1a1U2280Gt) | [fearozzles](https://open.spotify.com/artist/4XgmepqLvHMHSFgHbTKWns), [nujioh](https://open.spotify.com/artist/5wFvWlaLZKRqoAwDJAuBBZ) | [Popstar](https://open.spotify.com/album/5ECVhTwzDKWVYwCT9RYUno) | 2:22 | 2026-11-14 |  |
 | [PORTALS](https://open.spotify.com/track/00qDZLnqTA6OYeOgzQk8Ov) | [Whsprs](https://open.spotify.com/artist/6Eu37PvzuV9ylWqU9G5z3h) | [PORTALS](https://open.spotify.com/album/6ZZnDwBtObfjv3duWG8oi7) | 2:42 | 2026-06-06 |  |
 | [Post Con Depression](https://open.spotify.com/track/792HtdR735wSrdaAUTQDRB) | [Reivan](https://open.spotify.com/artist/0lzsri3l2WQEnAi9o7JEe0) | [Post Con Depression](https://open.spotify.com/album/0xlIXbuTc89uJiu9hqEVrW) | 3:04 | 2025-05-09 | 2026-11-09 |
 | [post con obsession](https://open.spotify.com/track/2oPuDRsK3pujbRTHwZjqP2) | [snazzyvaka](https://open.spotify.com/artist/3hHniqLXSqhRZeR3xUvlr2) | [post con obsession](https://open.spotify.com/album/6EOzJWPNRqT9AvnAngqhP4) | 2:05 | 2026-09-06 | 2026-09-14 |
@@ -536,6 +538,7 @@
 | [STEREO](https://open.spotify.com/track/6zv74Wofa6MjtFb6g0LSy1) | [BASSDOG](https://open.spotify.com/artist/12nm0BL6ld04PNgVi1UwwU) | [STEREO](https://open.spotify.com/album/3t6AnLqqJPmjHG905DSciR) | 2:29 | 2024-07-14 | 2026-03-01 |
 | [Stranded](https://open.spotify.com/track/2Fp950faiPewSg3cyRSk8u) | [Multi Fox](https://open.spotify.com/artist/1YPaCMVNOqU6ZTICZPgsTs) | [Stranded](https://open.spotify.com/album/7sByh9eDixb9KBnzhcx9oh) | 3:24 | 2024-11-25 |  |
 | [Streetlight By Streetlight](https://open.spotify.com/track/7nns2Zg9w0wuFbnYZiFEHC) | [This Is The Glasshouse](https://open.spotify.com/artist/090FV8x5cK3p3WwKnQXyFk) | [867](https://open.spotify.com/album/58Llb22QYZsh84c79agEnc) | 5:36 | 2024-11-18 |  |
+| [Sugar](https://open.spotify.com/track/226Qb8cRQY6oPPkepfeng6) | [Vylet Pony](https://open.spotify.com/artist/1kM5BZXs7FFN8Dj1WpgH2j) | [Sugar](https://open.spotify.com/album/1anAtWCinMCtCQ8u28Jtpd) | 3:27 | 2026-11-13 |  |
 | [Suicider](https://open.spotify.com/track/2MuM98vRKQZYd0ktRXiQ82) | [Kennyoung](https://open.spotify.com/artist/1b6ywCGaEtyV4JUfGYKmk8) | [Suicider](https://open.spotify.com/album/5EU2NsknWKLhEVlmrtTw8D) | 3:31 | 2023-09-02 |  |
 | [Suit Up](https://open.spotify.com/track/6kPDlvZumydH3olPfOEQ0s) | [Foxes and Peppers](https://open.spotify.com/artist/4cfifmTcqEAYSTjNAbIjzg) | [Hashtag](https://open.spotify.com/album/0x801nLyzQxGEAgvw4MriO) | 3:47 | 2023-06-14 | 2025-06-28 |
 | [suitetalk!](https://open.spotify.com/track/0YtthJQGl0amJb1snucEYm) | [RSKO](https://open.spotify.com/artist/7lNGd5TEYiVK5aIJQalVEv) | [garaje.v.2](https://open.spotify.com/album/4MJcxzMKLHo9TksxbwA2gj) | 3:08 | 2025-04-28 |  |
@@ -553,6 +556,7 @@
 | [Taste of Summer](https://open.spotify.com/track/4LcMhGh3IgnJxE3mtwDjqs) | [Kennyoung](https://open.spotify.com/artist/1b6ywCGaEtyV4JUfGYKmk8) | [Our Summer Dreams](https://open.spotify.com/album/1lBRF308MyR8tggVA9Qw6M) | 3:08 | 2026-07-17 |  |
 | [TBH](https://open.spotify.com/track/63UApHP3z3JkF5uuG3A7U4) | [UrvTek](https://open.spotify.com/artist/3YRcEMe1SRTPBGYbiRtBGh) | [TBH](https://open.spotify.com/album/1RzgX5MqrIA6IqYSkVDeWG) | 1:58 | 2024-11-03 | 2026-03-01 |
 | [telephone](https://open.spotify.com/track/14lMI3AfvtQVvJoOvmb9tZ) | [Vylet Pony](https://open.spotify.com/artist/1kM5BZXs7FFN8Dj1WpgH2j) | [can opener's notebook: fish whisperer](https://open.spotify.com/album/7F81VnxiHp0jDJtQLcsZWo) | 2:55 | 2024-11-29 |  |
+| [tell u sum](https://open.spotify.com/track/2krkj5Wali172QzLcM8x1z) | [snazzyvaka](https://open.spotify.com/artist/3hHniqLXSqhRZeR3xUvlr2) | [sighthound](https://open.spotify.com/album/5D80bD4DHnF3x1lK5LaNCO) | 2:03 | 2026-11-14 |  |
 | [Temporary](https://open.spotify.com/track/2XEPsPmhOxYxzUgvMUxZIM) | [Everender](https://open.spotify.com/artist/3YTAFkZ1pX1wi9L9ppSLh6), [Aural Alliance](https://open.spotify.com/artist/5w8crpjE8OAqon6Z0brpRu) | [Temporary](https://open.spotify.com/album/2gRCgkj2i609uNzHEtj5bn) | 3:00 | 2024-03-06 | 2026-02-06 |
 | [Tension](https://open.spotify.com/track/3j6EwWAqg0e0tit4zCV03D) | [SubCorv](https://open.spotify.com/artist/4bgP9dOf4yyE1fehFa4UaJ), [Tygre](https://open.spotify.com/artist/4we0HjU8pyJbI5IE3BHLIP) | [Le Vide](https://open.spotify.com/album/6Z7X2WHdRhSq4Qq2OXCY8I) | 4:07 | 2024-04-08 | 2025-09-22 |
 | [tether](https://open.spotify.com/track/4mSyDYm6dYl5Qx6rNUIp2r) | [ghostsocial](https://open.spotify.com/artist/6ex1miCpb3Krg4TYoG4yAN) | [tether](https://open.spotify.com/album/5VDFtcYSBVLuuyF126Nh92) | 1:46 | 2025-06-08 |  |

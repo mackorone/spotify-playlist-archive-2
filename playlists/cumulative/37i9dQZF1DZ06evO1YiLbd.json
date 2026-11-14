@@ -3039,6 +3039,24 @@
     },
     {
       "album": {
+        "name": "NHK\u30c9\u30ad\u30e5\u30e1\u30f3\u30bf\u30ea\u30fc\u300c\u4eac\u90fd\u3000\u3088\u307f\u304c\u3048\u308b\u9ec4\u91d1\u7a7a\u9593\uff5e\u5999\u5fc3\u5bfa\u5929\u7403\u9662\u969c\u58c1\u753b\uff5e\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/1c8HbjkilOvBXL0FEaVtet"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "date_added": "2026-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179760,
+      "name": "\u4f4f\u8077\u306e\u6c7a\u65ad",
+      "url": "https://open.spotify.com/track/11qcdbqDMGLzul3hwPMARL"
+    },
+    {
+      "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u50d5\u306e\u30d2\u30fc\u30ed\u30fc\u30a2\u30ab\u30c7\u30df\u30a2\u300f4th \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/3fP7fyirRDwFu9NhR4GSnE"
       },
@@ -3104,7 +3122,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 164000,
       "name": "\u5316\u5b66\u5909\u5316",
       "url": "https://open.spotify.com/track/4Hgr3afG2PcXmIIsEIaBJ3"
@@ -3824,7 +3842,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 120160,
       "name": "\u71b1(\u3072\u3060\u308a)\u306f\u7d76\u5bfe\u4f7f\u308f\u306d\u3048",
       "url": "https://open.spotify.com/track/4SAnyLkFJUhq3YPdELqv0j"
@@ -4242,7 +4260,7 @@
       ],
       "date_added": "2024-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-19",
+      "date_removed": null,
       "duration_ms": 91973,
       "name": "\u9802\u306e\u666f\u8272",
       "url": "https://open.spotify.com/track/3TQq78O1tjqaAvEusTDh4s"

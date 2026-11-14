@@ -1,6 +1,6 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Maui",
-  "num_followers": 192291,
+  "num_followers": 192298,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
@@ -311,26 +311,30 @@
     {
       "added_at": "2026-11-06 16:01:03",
       "album": {
-        "name": "meu particular (remix)",
-        "url": "https://open.spotify.com/album/0Ui2F0SvLi7qEqj6UqyJpo"
+        "name": "Duas Vezes",
+        "url": "https://open.spotify.com/album/65zrJvV4qdmXSr18NeIEJ3"
       },
       "artists": [
         {
-          "name": "Nina",
-          "url": "https://open.spotify.com/artist/7fA6EAOeE7G5HmvBgbwND5"
+          "name": "UCHA",
+          "url": "https://open.spotify.com/artist/589IsjyJaYkZyhNIJRNK3c"
         },
         {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+          "name": "Niina",
+          "url": "https://open.spotify.com/artist/45YF7LLMa3GpWSHYifDJDa"
         },
         {
-          "name": "FELL",
-          "url": "https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB"
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "Sonora Sessions",
+          "url": "https://open.spotify.com/artist/2SmVpn0TqIghCNuc4lDeqb"
         }
       ],
-      "duration_ms": 204210,
-      "name": "meu particular (remix)",
-      "url": "https://open.spotify.com/track/1PEWA9tWsSlFUsv0GG9IzA"
+      "duration_ms": 160784,
+      "name": "Duas Vezes",
+      "url": "https://open.spotify.com/track/29jtks0Ub0Ngt5K9WuF8uz"
     },
     {
       "added_at": "2026-11-06 16:01:03",
@@ -383,30 +387,26 @@
     {
       "added_at": "2026-11-06 16:01:03",
       "album": {
-        "name": "Duas Vezes",
-        "url": "https://open.spotify.com/album/65zrJvV4qdmXSr18NeIEJ3"
+        "name": "meu particular (remix)",
+        "url": "https://open.spotify.com/album/0Ui2F0SvLi7qEqj6UqyJpo"
       },
       "artists": [
         {
-          "name": "UCHA",
-          "url": "https://open.spotify.com/artist/589IsjyJaYkZyhNIJRNK3c"
+          "name": "Nina",
+          "url": "https://open.spotify.com/artist/7fA6EAOeE7G5HmvBgbwND5"
         },
         {
-          "name": "Niina",
-          "url": "https://open.spotify.com/artist/45YF7LLMa3GpWSHYifDJDa"
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
         },
         {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "Sonora Sessions",
-          "url": "https://open.spotify.com/artist/2SmVpn0TqIghCNuc4lDeqb"
+          "name": "FELL",
+          "url": "https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB"
         }
       ],
-      "duration_ms": 160784,
-      "name": "Duas Vezes",
-      "url": "https://open.spotify.com/track/29jtks0Ub0Ngt5K9WuF8uz"
+      "duration_ms": 204210,
+      "name": "meu particular (remix)",
+      "url": "https://open.spotify.com/track/1PEWA9tWsSlFUsv0GG9IzA"
     },
     {
       "added_at": "2026-11-06 16:01:03",
@@ -647,26 +647,6 @@
     {
       "added_at": "2026-11-06 16:01:03",
       "album": {
-        "name": "off",
-        "url": "https://open.spotify.com/album/3t4oSLCqgNCCU2VAE3DTn5"
-      },
-      "artists": [
-        {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
-        },
-        {
-          "name": "Gustavvo",
-          "url": "https://open.spotify.com/artist/1g7ecQxDIGyHBz8lGGexH8"
-        }
-      ],
-      "duration_ms": 202106,
-      "name": "off",
-      "url": "https://open.spotify.com/track/3tnnX1Y2wtBaLbc5q6tDMi"
-    },
-    {
-      "added_at": "2026-11-06 16:01:03",
-      "album": {
         "name": "Sem Ponto e Sem V\u00edrgula",
         "url": "https://open.spotify.com/album/0KZyWSZV39Lv7VMcopSyuU"
       },
@@ -683,6 +663,26 @@
       "duration_ms": 201532,
       "name": "Sem Ponto e Sem V\u00edrgula",
       "url": "https://open.spotify.com/track/6meqR7kOgsmVnkTXkfcl63"
+    },
+    {
+      "added_at": "2026-11-06 16:01:03",
+      "album": {
+        "name": "off",
+        "url": "https://open.spotify.com/album/3t4oSLCqgNCCU2VAE3DTn5"
+      },
+      "artists": [
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        },
+        {
+          "name": "Gustavvo",
+          "url": "https://open.spotify.com/artist/1g7ecQxDIGyHBz8lGGexH8"
+        }
+      ],
+      "duration_ms": 202106,
+      "name": "off",
+      "url": "https://open.spotify.com/track/3tnnX1Y2wtBaLbc5q6tDMi"
     },
     {
       "added_at": "2026-11-06 16:01:03",
@@ -739,26 +739,6 @@
     {
       "added_at": "2026-11-06 16:01:03",
       "album": {
-        "name": "Busco Romance Love Show (Deluxe)",
-        "url": "https://open.spotify.com/album/2MuKbqIe2pEwetQGBMUgkT"
-      },
-      "artists": [
-        {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
-        },
-        {
-          "name": "Nave",
-          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
-        }
-      ],
-      "duration_ms": 159616,
-      "name": "NEON",
-      "url": "https://open.spotify.com/track/74kTrpeeUOLOclJfZLub4n"
-    },
-    {
-      "added_at": "2026-11-06 16:01:03",
-      "album": {
         "name": "Muito Rom\u00e2ntico",
         "url": "https://open.spotify.com/album/10T1r3MGtdcwrJXtMUzhxv"
       },
@@ -787,6 +767,26 @@
     {
       "added_at": "2026-11-06 16:01:03",
       "album": {
+        "name": "Busco Romance Love Show (Deluxe)",
+        "url": "https://open.spotify.com/album/2MuKbqIe2pEwetQGBMUgkT"
+      },
+      "artists": [
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        },
+        {
+          "name": "Nave",
+          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
+        }
+      ],
+      "duration_ms": 159616,
+      "name": "NEON",
+      "url": "https://open.spotify.com/track/74kTrpeeUOLOclJfZLub4n"
+    },
+    {
+      "added_at": "2026-11-06 16:01:03",
+      "album": {
         "name": "Cansei De Chorar Seu Nome",
         "url": "https://open.spotify.com/album/4wksx2nXU8WF5Mmhmi1mmf"
       },
@@ -811,6 +811,22 @@
     {
       "added_at": "2026-11-06 16:01:03",
       "album": {
+        "name": "Poema Sujo",
+        "url": "https://open.spotify.com/album/0YMVamkJjw75KFVgqJVYUy"
+      },
+      "artists": [
+        {
+          "name": "Bela Maria",
+          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Poema Sujo",
+      "url": "https://open.spotify.com/track/6O3MrX78qrxznXjufyjHct"
+    },
+    {
+      "added_at": "2026-11-06 16:01:03",
+      "album": {
         "name": "Dubl\u00ea",
         "url": "https://open.spotify.com/album/792fMLb4bXAmhS9pQMcEBh"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 158105,
       "name": "Rude",
       "url": "https://open.spotify.com/track/739VBGTCWvOJ0zxCtWkX9W"
-    },
-    {
-      "added_at": "2026-11-06 16:01:03",
-      "album": {
-        "name": "Poema Sujo",
-        "url": "https://open.spotify.com/album/0YMVamkJjw75KFVgqJVYUy"
-      },
-      "artists": [
-        {
-          "name": "Bela Maria",
-          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Poema Sujo",
-      "url": "https://open.spotify.com/track/6O3MrX78qrxznXjufyjHct"
     },
     {
       "added_at": "2026-11-06 16:01:03",
@@ -999,26 +999,6 @@
     {
       "added_at": "2026-11-06 16:01:03",
       "album": {
-        "name": "Desalinho",
-        "url": "https://open.spotify.com/album/06bc6mkcNAZxT1XxzHjrWR"
-      },
-      "artists": [
-        {
-          "name": "Juy\u00e8",
-          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
-        },
-        {
-          "name": "DAY LIMNS",
-          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
-        }
-      ],
-      "duration_ms": 205357,
-      "name": "Desalinho",
-      "url": "https://open.spotify.com/track/63gdjaFptxqaqCIwSI3xV9"
-    },
-    {
-      "added_at": "2026-11-06 16:01:03",
-      "album": {
         "name": "Novehoras",
         "url": "https://open.spotify.com/album/3YAOfa21Gfl5g2cdX4uogw"
       },
@@ -1039,6 +1019,26 @@
       "duration_ms": 211003,
       "name": "Novehoras",
       "url": "https://open.spotify.com/track/5blBfJbeLYetNHCmYIEzMu"
+    },
+    {
+      "added_at": "2026-11-06 16:01:03",
+      "album": {
+        "name": "Desalinho",
+        "url": "https://open.spotify.com/album/06bc6mkcNAZxT1XxzHjrWR"
+      },
+      "artists": [
+        {
+          "name": "Juy\u00e8",
+          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
+        },
+        {
+          "name": "DAY LIMNS",
+          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
+        }
+      ],
+      "duration_ms": 205357,
+      "name": "Desalinho",
+      "url": "https://open.spotify.com/track/63gdjaFptxqaqCIwSI3xV9"
     },
     {
       "added_at": "2026-11-06 16:01:03",
@@ -1099,26 +1099,6 @@
     {
       "added_at": "2026-11-06 16:01:03",
       "album": {
-        "name": "Jeito Certo",
-        "url": "https://open.spotify.com/album/58Srk85ymbUhZU2ePm0Vcx"
-      },
-      "artists": [
-        {
-          "name": "Juy\u00e8",
-          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
-        },
-        {
-          "name": "Jorge Vercillo",
-          "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
-        }
-      ],
-      "duration_ms": 190993,
-      "name": "Jeito Certo",
-      "url": "https://open.spotify.com/track/271UeLAttA5JHMV0uJoral"
-    },
-    {
-      "added_at": "2026-11-06 16:01:03",
-      "album": {
         "name": "Al-Kimiya, Ato I",
         "url": "https://open.spotify.com/album/4JDMKjOO4UvoOof9WhJx5s"
       },
@@ -1139,18 +1119,22 @@
     {
       "added_at": "2026-11-06 16:01:03",
       "album": {
-        "name": "FORA DA LEI",
-        "url": "https://open.spotify.com/album/2cV1oGBot85ZGwuTqOVz2E"
+        "name": "Jeito Certo",
+        "url": "https://open.spotify.com/album/58Srk85ymbUhZU2ePm0Vcx"
       },
       "artists": [
         {
-          "name": "BIAB",
-          "url": "https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF"
+          "name": "Juy\u00e8",
+          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
+        },
+        {
+          "name": "Jorge Vercillo",
+          "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
         }
       ],
-      "duration_ms": 186396,
-      "name": "FORA DA LEI",
-      "url": "https://open.spotify.com/track/5icVJ94721IikUq0hEDvnv"
+      "duration_ms": 190993,
+      "name": "Jeito Certo",
+      "url": "https://open.spotify.com/track/271UeLAttA5JHMV0uJoral"
     },
     {
       "added_at": "2026-11-06 16:01:03",
@@ -1167,6 +1151,22 @@
       "duration_ms": 119440,
       "name": "Sem ter que me explicar",
       "url": "https://open.spotify.com/track/4l3PInS0V5wgzbkoI3Ofcu"
+    },
+    {
+      "added_at": "2026-11-06 16:01:03",
+      "album": {
+        "name": "FORA DA LEI",
+        "url": "https://open.spotify.com/album/2cV1oGBot85ZGwuTqOVz2E"
+      },
+      "artists": [
+        {
+          "name": "BIAB",
+          "url": "https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF"
+        }
+      ],
+      "duration_ms": 186396,
+      "name": "FORA DA LEI",
+      "url": "https://open.spotify.com/track/5icVJ94721IikUq0hEDvnv"
     },
     {
       "added_at": "2026-11-06 16:01:03",

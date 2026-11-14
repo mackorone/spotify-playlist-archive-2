@@ -4,7 +4,7 @@
 
 > Uma seleção sertaneja para você curtir a sua paixão sem limites.
 
-147 songs - 7 hr 32 min
+148 songs - 7 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,7 @@
 | [Quem É Seu Favorito \- Ao Vivo](https://open.spotify.com/track/7h4XA0Kz2YCKAJNYSdJVdd) | [Zé Ricardo & Thiago](https://open.spotify.com/artist/4ZUahcHoVxr4lsrfdmhjhV), [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Ter Amigos É Melhor Que Ter Dinheiro, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/3R8CMeFQ1xbdFDCCIblgqn) | 2:42 | 2024-12-13 |  |
 | [Regime Fechado \- Ao Vivo](https://open.spotify.com/track/3laDGpbCmdrGOhjrcYIBYB) | [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE) | [Simone & Simaria \(Ao Vivo\)](https://open.spotify.com/album/3bPPe3v10wYVuUw10f8uUM) | 3:52 | 2023-04-07 | 2026-05-08 |
 | [Rindo Pra Mim \- Ao Vivo](https://open.spotify.com/track/0CkB7A4NFTzs8weUSVSV6q) | [Naessa](https://open.spotify.com/artist/4yeGmRY9a2vswZ47DGqKJH), [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Rindo Pra Mim \(Ao Vivo\)](https://open.spotify.com/album/2VWc0jFhQSFZkhSKvHgWV8) | 2:48 | 2024-03-14 | 2024-06-13 |
-| [S de Saudade](https://open.spotify.com/track/3J5Pu25BODMex4Jpy4l6FL) | [Luíza & Maurílio](https://open.spotify.com/artist/0UbJJayomun8CvZKCPH9j3), [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [S de Saudade](https://open.spotify.com/album/07Dh4IqK31xeV1jetfPWvL) | 2:54 | 2023-02-10 |  |
+| [S de Saudade](https://open.spotify.com/track/3J5Pu25BODMex4Jpy4l6FL) | [Luíza & Maurílio](https://open.spotify.com/artist/0UbJJayomun8CvZKCPH9j3), [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [S de Saudade](https://open.spotify.com/album/07Dh4IqK31xeV1jetfPWvL) | 2:54 | 2023-02-10 | 2026-11-14 |
 | [Saudade Nível Hard](https://open.spotify.com/track/2dmGj5Nf01FcR6N4HPzAbL) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz) | [Saudade Nível Hard](https://open.spotify.com/album/3IcSLQztms4Fu55HXI7Tye) | 3:01 | 2023-04-07 | 2024-12-30 |
 | [Se Eu Fosse Você \- Ao Vivo](https://open.spotify.com/track/245bLKhB09weh0K0XE0AHm) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Ao Vivo No Ibirapuera](https://open.spotify.com/album/5ExfGmxdqydd3vgdLdRR8f) | 3:30 | 2023-02-10 | 2023-04-25 |
 | [Seja Louco](https://open.spotify.com/track/2xtzAzvXznNX03U9wk3s5S) | [Mariana & Mateus](https://open.spotify.com/artist/2YCkwNYGevLmmLsbad5lsl), [Ícaro e Gilmar](https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC) | [Seja Louco](https://open.spotify.com/album/5Gr3jsmL0Jb291VTdFiqsE) | 2:39 | 2023-12-22 | 2024-02-15 |
@@ -139,6 +139,7 @@
 | [Surto De Amor \- Ao Vivo Em Uberlândia / 2018](https://open.spotify.com/track/4N0I8lmbLPmH8qdlFIjuOU) | [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV), [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Surto De Amor \(Ao Vivo\)](https://open.spotify.com/album/6ylhMJnWhwgus36dtMEGWi) | 2:37 | 2024-03-14 | 2025-10-09 |
 | [Tailândia \- Ao Vivo](https://open.spotify.com/track/3e5sfAnEtKRn0Uhi5uHbVv) | [Luiza Martins](https://open.spotify.com/artist/5Ywgqsa6t5yNiD1wgQuw43) | [Nostalgia Pura, Vol 1 \(Ao Vivo\)](https://open.spotify.com/album/5U8S1aMPemzdBpm2gjwI8l) | 3:12 | 2025-08-23 |  |
 | [Tchau Brigado \- Ao Vivo](https://open.spotify.com/track/2TR917wkDeRvwTE5cSfZFf) | [Humberto & Ronaldo](https://open.spotify.com/artist/1zEo6Fk1iaaOYFlFPBHCFn), [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Tchau Brigado \(Ao Vivo\)](https://open.spotify.com/album/0vXz93Fhy0UDxgdwygSZdy) | 2:43 | 2024-07-09 |  |
+| [Te Amo Silencioso \- Ao Vivo](https://open.spotify.com/track/5BNl7dTXKlj7Vi0cFOtpmu) | [Thácio](https://open.spotify.com/artist/1Xy5zqgQE5sPvtYgeaskB5), [Clayton & Romário](https://open.spotify.com/artist/1tKrZaph4cLsnEdqC5BNEQ) | [Obrigado, Deus, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/2rlQzrq3JJyMPC4WDMIWJM) | 3:18 | 2026-11-13 |  |
 | [tem sentimento](https://open.spotify.com/track/6xYzvSt8htoqxDI8yFeorV) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP), [Mariana Fagundes](https://open.spotify.com/artist/63yBOaK3N1kG2g1M5ZxBox) | [PENSAMENTOS INTRUSIVOS](https://open.spotify.com/album/2Iqe5EdCaswtGkjy5R7Web) | 2:29 | 2026-11-06 |  |
 | [Tijolão \- Ao Vivo](https://open.spotify.com/track/6QwFUcPc5nhsqZuhXUYtV7) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Tijolão \(ao Vivo\)](https://open.spotify.com/album/5DE5SfB2vmYatVH6tpAb49) | 2:55 | 2024-01-05 | 2024-11-01 |
 | [Todo Mundo Vai Sofrer \- Ao Vivo](https://open.spotify.com/track/4E6RdcCWMiHTu7zy1VTNDo) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Todos Os Cantos, Vol\. 2 \(ao Vivo\)](https://open.spotify.com/album/3mTbv6MyAR4KEDh0w8s9Nk) | 2:34 | 2023-02-17 | 2026-05-08 |

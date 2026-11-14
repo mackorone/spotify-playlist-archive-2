@@ -1,18 +1,34 @@
 {
-  "description": "Con todo el sentimiento ranchero desde el coraz\u00f3n de la Tierra Caliente. GERARDO D\u00cdAZ Y SU GERARQU\u00cdA en portada. ",
-  "num_followers": 99262,
+  "description": "Con todo el sentimiento ranchero desde el coraz\u00f3n de la Tierra Caliente. La Dinast\u00eda de Tuzantla Michoac\u00e1n en portada. ",
+  "num_followers": 99304,
   "original_name": "Tierra Caliente",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAF5xB23UM+kWGpIl0ByW0BwVgjPB",
+  "snapshot_id": "AAAAAFQ9lBUIKgyKSKZvWcM6TbwG+B18",
   "tracks": [
     {
-      "added_at": "2026-10-16 06:00:39",
+      "added_at": "2026-11-13 06:00:52",
       "album": {
-        "name": "Qui\u00e9reme Como Te Quiero",
-        "url": "https://open.spotify.com/album/1MILELpMLEwAPlhV9duo74"
+        "name": "Estas perras ganas",
+        "url": "https://open.spotify.com/album/53YMb9JctIbIgzfPchKEQS"
+      },
+      "artists": [
+        {
+          "name": "La Dinast\u00eda de Tuzantla Michoac\u00e1n",
+          "url": "https://open.spotify.com/artist/2u7j1pjcNuLlfgiNrByi0R"
+        }
+      ],
+      "duration_ms": 161031,
+      "name": "Estas perras ganas",
+      "url": "https://open.spotify.com/track/0O4hdtgDID9GV1qzXO9FoP"
+    },
+    {
+      "added_at": "2026-11-13 06:00:52",
+      "album": {
+        "name": "Amistad y Pesos",
+        "url": "https://open.spotify.com/album/2dp0TRYQW761GeOOMtqPv1"
       },
       "artists": [
         {
@@ -20,12 +36,28 @@
           "url": "https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp"
         }
       ],
-      "duration_ms": 200942,
-      "name": "Qui\u00e9reme Como Te Quiero",
-      "url": "https://open.spotify.com/track/7BOrTfOzfBxdXyOMW5NOVW"
+      "duration_ms": 338901,
+      "name": "Mi \u00daltima Caravana",
+      "url": "https://open.spotify.com/track/0TLYlmmcovm6qxIjg7aDb3"
     },
     {
-      "added_at": "2026-10-16 06:00:39",
+      "added_at": "2026-11-13 06:00:52",
+      "album": {
+        "name": "Vuelve Conmigo",
+        "url": "https://open.spotify.com/album/6WDmElvEfnT80DuZVqwXkB"
+      },
+      "artists": [
+        {
+          "name": "Los Player's de Tuzantla",
+          "url": "https://open.spotify.com/artist/77UR8eXyohRSAMyLhYfdxW"
+        }
+      ],
+      "duration_ms": 143933,
+      "name": "Y \u00c1ndale",
+      "url": "https://open.spotify.com/track/4f74sBKYIhJl0HI0JsAsj9"
+    },
+    {
+      "added_at": "2026-11-13 06:00:52",
       "album": {
         "name": "Enamorado de Ti... (Los creadores del Sacadito)",
         "url": "https://open.spotify.com/album/4913geA8ahnB651ej4zI8g"
@@ -41,7 +73,563 @@
       "url": "https://open.spotify.com/track/1YwdJ7TVMa5uLt7JgCD9IK"
     },
     {
-      "added_at": "2026-10-16 06:00:39",
+      "added_at": "2026-11-13 06:00:52",
+      "album": {
+        "name": "La Ruleta",
+        "url": "https://open.spotify.com/album/5iNWv5MgbQkLGnOQgEGJiQ"
+      },
+      "artists": [
+        {
+          "name": "Arkangel Musical de Tierra Caliente",
+          "url": "https://open.spotify.com/artist/2iIOVaa7w74YFsntwrKk1k"
+        }
+      ],
+      "duration_ms": 143743,
+      "name": "La Ruleta",
+      "url": "https://open.spotify.com/track/7kezF7ImWJWGasPCS8O7zI"
+    },
+    {
+      "added_at": "2026-11-13 06:00:52",
+      "album": {
+        "name": "Nuestra Historia",
+        "url": "https://open.spotify.com/album/2aRhJtFFfvHtPv9EUegbVd"
+      },
+      "artists": [
+        {
+          "name": "La Dinast\u00eda de Tuzantla Michoac\u00e1n",
+          "url": "https://open.spotify.com/artist/2u7j1pjcNuLlfgiNrByi0R"
+        }
+      ],
+      "duration_ms": 241386,
+      "name": "El Caminante",
+      "url": "https://open.spotify.com/track/4Mfepu07REoaF3fxJBtpzi"
+    },
+    {
+      "added_at": "2026-11-13 06:00:52",
+      "album": {
+        "name": "Que Chulada!",
+        "url": "https://open.spotify.com/album/5HbkR6gBd0qRHIu1aHiH0R"
+      },
+      "artists": [
+        {
+          "name": "La Dinast\u00eda de Tuzantla Michoac\u00e1n",
+          "url": "https://open.spotify.com/artist/2u7j1pjcNuLlfgiNrByi0R"
+        }
+      ],
+      "duration_ms": 163506,
+      "name": "Que Chulos Ojos",
+      "url": "https://open.spotify.com/track/7llQO7QxIJ2C9H02w4Dwjv"
+    },
+    {
+      "added_at": "2026-11-13 06:00:52",
+      "album": {
+        "name": "La Birria de Estela",
+        "url": "https://open.spotify.com/album/0d2fAxdVEZRSEOJ4J6ZHbq"
+      },
+      "artists": [
+        {
+          "name": "GERARDO DIAZ Y SU GERARQUIA",
+          "url": "https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp"
+        }
+      ],
+      "duration_ms": 176722,
+      "name": "La Birria de Estela",
+      "url": "https://open.spotify.com/track/6JHJY5geN9qhsHP7otLWfL"
+    },
+    {
+      "added_at": "2026-11-13 06:00:52",
+      "album": {
+        "name": "Enamorado de Ti... (Los creadores del Sacadito)",
+        "url": "https://open.spotify.com/album/4913geA8ahnB651ej4zI8g"
+      },
+      "artists": [
+        {
+          "name": "Tierra Cali",
+          "url": "https://open.spotify.com/artist/4JqzwqRUOCEHeIVRDWG5Jv"
+        }
+      ],
+      "duration_ms": 207807,
+      "name": "Donde Quiera Que Est\u00e9s",
+      "url": "https://open.spotify.com/track/4lYHKPAAwwQlQF6anqMRH6"
+    },
+    {
+      "added_at": "2026-11-13 06:00:52",
+      "album": {
+        "name": "Ardientes (US Version)",
+        "url": "https://open.spotify.com/album/2GmL58I7N3g4Hg5ZZ8Udwv"
+      },
+      "artists": [
+        {
+          "name": "Beto Y Sus Canarios",
+          "url": "https://open.spotify.com/artist/1Y4RbL9WTMzu0TTobNbNSv"
+        }
+      ],
+      "duration_ms": 158693,
+      "name": "No Puedo Olvidarte",
+      "url": "https://open.spotify.com/track/5OwgBk0ZRD3N7XMyLhyGW6"
+    },
+    {
+      "added_at": "2026-11-13 06:00:52",
+      "album": {
+        "name": "El Mejor De Todos",
+        "url": "https://open.spotify.com/album/1AUXylDUCOVotYuD4vvTpy"
+      },
+      "artists": [
+        {
+          "name": "Los Player's de Tuzantla",
+          "url": "https://open.spotify.com/artist/77UR8eXyohRSAMyLhYfdxW"
+        }
+      ],
+      "duration_ms": 153077,
+      "name": "Tu Nuevo Cari\u00f1ito",
+      "url": "https://open.spotify.com/track/5mp6HHshKmDN9Sy1CanJOo"
+    },
+    {
+      "added_at": "2026-11-13 06:00:52",
+      "album": {
+        "name": "Nuestra Historia",
+        "url": "https://open.spotify.com/album/2aRhJtFFfvHtPv9EUegbVd"
+      },
+      "artists": [
+        {
+          "name": "La Dinast\u00eda de Tuzantla Michoac\u00e1n",
+          "url": "https://open.spotify.com/artist/2u7j1pjcNuLlfgiNrByi0R"
+        }
+      ],
+      "duration_ms": 195586,
+      "name": "Te Quiero para Mi",
+      "url": "https://open.spotify.com/track/5m35eZzbh9hy7mGQHuPdHW"
+    },
+    {
+      "added_at": "2026-11-13 06:00:52",
+      "album": {
+        "name": "Amistad y Pesos",
+        "url": "https://open.spotify.com/album/2dp0TRYQW761GeOOMtqPv1"
+      },
+      "artists": [
+        {
+          "name": "GERARDO DIAZ Y SU GERARQUIA",
+          "url": "https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp"
+        }
+      ],
+      "duration_ms": 253648,
+      "name": "No Quise Decirle",
+      "url": "https://open.spotify.com/track/2EoXCwwAxee2Ky3Y0nIBfI"
+    },
+    {
+      "added_at": "2026-11-13 06:00:52",
+      "album": {
+        "name": "20 Exitos de Ley",
+        "url": "https://open.spotify.com/album/5vneQUtrAtGXvKsoGyGxa1"
+      },
+      "artists": [
+        {
+          "name": "Tierra Cali",
+          "url": "https://open.spotify.com/artist/4JqzwqRUOCEHeIVRDWG5Jv"
+        }
+      ],
+      "duration_ms": 219280,
+      "name": "No Pares",
+      "url": "https://open.spotify.com/track/1vI0GTOoY5VC9azFTlvoEg"
+    },
+    {
+      "added_at": "2026-11-13 06:00:52",
+      "album": {
+        "name": "Esperando Tu Llamada",
+        "url": "https://open.spotify.com/album/3oDGzlvfKUsJ0NQpV8cAXj"
+      },
+      "artists": [
+        {
+          "name": "To\u00f1o Y Freddy",
+          "url": "https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw"
+        }
+      ],
+      "duration_ms": 174066,
+      "name": "Brebaje",
+      "url": "https://open.spotify.com/track/3w3xwSJe6GhgqTfbVGhBbv"
+    },
+    {
+      "added_at": "2026-11-13 06:00:52",
+      "album": {
+        "name": "Siempre Contigo",
+        "url": "https://open.spotify.com/album/6HEAF4lEhCQzC0XR3hKowJ"
+      },
+      "artists": [
+        {
+          "name": "Los Player's de Tuzantla",
+          "url": "https://open.spotify.com/artist/77UR8eXyohRSAMyLhYfdxW"
+        }
+      ],
+      "duration_ms": 207533,
+      "name": "Pa' Que Son Pasiones",
+      "url": "https://open.spotify.com/track/0ETuqKUidXiI2Xb6NpJVFb"
+    },
+    {
+      "added_at": "2026-11-13 06:00:52",
+      "album": {
+        "name": "Mi Despedida",
+        "url": "https://open.spotify.com/album/14iB8WCfhOBf2QrHaxN5jt"
+      },
+      "artists": [
+        {
+          "name": "Beto Y Sus Canarios",
+          "url": "https://open.spotify.com/artist/1Y4RbL9WTMzu0TTobNbNSv"
+        }
+      ],
+      "duration_ms": 169906,
+      "name": "Palomita De Alas Blancas",
+      "url": "https://open.spotify.com/track/0Vx8j4stjp6Mycjqyc7eRO"
+    },
+    {
+      "added_at": "2026-11-13 06:00:52",
+      "album": {
+        "name": "El Alba\u00f1il",
+        "url": "https://open.spotify.com/album/3E7KG2YrZfnOCaMAV1UShV"
+      },
+      "artists": [
+        {
+          "name": "GERARDO DIAZ Y SU GERARQUIA",
+          "url": "https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp"
+        }
+      ],
+      "duration_ms": 235701,
+      "name": "El Alba\u00f1il",
+      "url": "https://open.spotify.com/track/6Cp7mxrHFobJvo7YSv0zEb"
+    },
+    {
+      "added_at": "2026-11-13 06:00:52",
+      "album": {
+        "name": "20 Exitos de Ley",
+        "url": "https://open.spotify.com/album/5vneQUtrAtGXvKsoGyGxa1"
+      },
+      "artists": [
+        {
+          "name": "Tierra Cali",
+          "url": "https://open.spotify.com/artist/4JqzwqRUOCEHeIVRDWG5Jv"
+        }
+      ],
+      "duration_ms": 216013,
+      "name": "El Baile del Sacadito",
+      "url": "https://open.spotify.com/track/5hk73dL1v4ZX2deqiFiBW5"
+    },
+    {
+      "added_at": "2026-11-13 06:00:52",
+      "album": {
+        "name": "Especialmente Para Ti",
+        "url": "https://open.spotify.com/album/0Z8wgPzDI9UbMjCqmMH4vn"
+      },
+      "artists": [
+        {
+          "name": "Los Pajaritos De Tacupa",
+          "url": "https://open.spotify.com/artist/7KrWKbEhGHojuod8j3CDNT"
+        }
+      ],
+      "duration_ms": 196829,
+      "name": "El Amor No Se Vende",
+      "url": "https://open.spotify.com/track/3V70eHylxLOGIbEj2Fzgbm"
+    },
+    {
+      "added_at": "2026-11-13 06:00:52",
+      "album": {
+        "name": "Mi M\u00e1s Grande Tesoro",
+        "url": "https://open.spotify.com/album/2KHVmLTI8nibE0jJ4qFO2H"
+      },
+      "artists": [
+        {
+          "name": "Los Player's de Tuzantla",
+          "url": "https://open.spotify.com/artist/77UR8eXyohRSAMyLhYfdxW"
+        }
+      ],
+      "duration_ms": 243426,
+      "name": "Destino",
+      "url": "https://open.spotify.com/track/788MJUGdfIQXUuLwiDw7NC"
+    },
+    {
+      "added_at": "2026-11-13 06:00:52",
+      "album": {
+        "name": "20 \u00c9xitos de Ley (Serie de Colecci\u00f3n)",
+        "url": "https://open.spotify.com/album/7wrf7tzBFiEyJwgX4R6cf3"
+      },
+      "artists": [
+        {
+          "name": "Beto Y Sus Canarios",
+          "url": "https://open.spotify.com/artist/1Y4RbL9WTMzu0TTobNbNSv"
+        }
+      ],
+      "duration_ms": 143871,
+      "name": "A Qui\u00e9n Esperas",
+      "url": "https://open.spotify.com/track/3eCY6AUZVvKuFQYVpvMEMV"
+    },
+    {
+      "added_at": "2026-11-13 06:00:52",
+      "album": {
+        "name": "Recordando A Mi Pueblo",
+        "url": "https://open.spotify.com/album/27J8ZgI5nKZ6Qvlfw59y0R"
+      },
+      "artists": [
+        {
+          "name": "GERARDO DIAZ Y SU GERARQUIA",
+          "url": "https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp"
+        }
+      ],
+      "duration_ms": 295765,
+      "name": "Recordando A Mi Pueblo",
+      "url": "https://open.spotify.com/track/1vQJbzRxUhQMbcOtTiApy0"
+    },
+    {
+      "added_at": "2026-11-13 06:00:52",
+      "album": {
+        "name": "Morenita Labios Rojos",
+        "url": "https://open.spotify.com/album/0wCFa5JUVU3Bh9kKgawvjR"
+      },
+      "artists": [
+        {
+          "name": "To\u00f1o Y Freddy",
+          "url": "https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw"
+        }
+      ],
+      "duration_ms": 179146,
+      "name": "Soy Para Ti",
+      "url": "https://open.spotify.com/track/2heuUbIlUGo61dgA4rqXy7"
+    },
+    {
+      "added_at": "2026-11-13 06:00:52",
+      "album": {
+        "name": "Guiados por el Cielo",
+        "url": "https://open.spotify.com/album/5se7VnLff9owqtOW1usbhN"
+      },
+      "artists": [
+        {
+          "name": "La Dinastia de Tuzantla, Mich.",
+          "url": "https://open.spotify.com/artist/2Ft11oBGQg7YDAB3N4RRxf"
+        }
+      ],
+      "duration_ms": 241173,
+      "name": "No Te Olvidare",
+      "url": "https://open.spotify.com/track/0g8IOSkOPv8JUxbTojv6vI"
+    },
+    {
+      "added_at": "2026-11-13 06:00:52",
+      "album": {
+        "name": "Mi Raz\u00f3n de Vivir",
+        "url": "https://open.spotify.com/album/7mC5BkLVt3LgBzcId3oCY3"
+      },
+      "artists": [
+        {
+          "name": "Los Player's de Tuzantla",
+          "url": "https://open.spotify.com/artist/77UR8eXyohRSAMyLhYfdxW"
+        }
+      ],
+      "duration_ms": 173479,
+      "name": "El Disgusto",
+      "url": "https://open.spotify.com/track/13YaSkMqsCXlZYkq6eM5zW"
+    },
+    {
+      "added_at": "2026-11-13 06:00:52",
+      "album": {
+        "name": "100% Tierra Caliente",
+        "url": "https://open.spotify.com/album/69glkS6UJhCt2mNGlzqnL0"
+      },
+      "artists": [
+        {
+          "name": "Beto Y Sus Canarios",
+          "url": "https://open.spotify.com/artist/1Y4RbL9WTMzu0TTobNbNSv"
+        }
+      ],
+      "duration_ms": 174693,
+      "name": "Esta Llorando Mi Corazon - En Vivo En Cd. Altamirano M\u00e9xico / 2006",
+      "url": "https://open.spotify.com/track/0iNDW91QOyq2n2WHNuufEo"
+    },
+    {
+      "added_at": "2026-11-13 06:00:52",
+      "album": {
+        "name": "18 Kilates",
+        "url": "https://open.spotify.com/album/42JRfQBP8DhodYhlN1396h"
+      },
+      "artists": [
+        {
+          "name": "Los Pajaritos De Tacupa",
+          "url": "https://open.spotify.com/artist/7KrWKbEhGHojuod8j3CDNT"
+        }
+      ],
+      "duration_ms": 190544,
+      "name": "Veinte Mujeres de Negro",
+      "url": "https://open.spotify.com/track/0UP5BDqgYBhsSK8ZndGMM6"
+    },
+    {
+      "added_at": "2026-11-13 06:00:52",
+      "album": {
+        "name": "Morenita Labios Rojos",
+        "url": "https://open.spotify.com/album/0wCFa5JUVU3Bh9kKgawvjR"
+      },
+      "artists": [
+        {
+          "name": "To\u00f1o Y Freddy",
+          "url": "https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw"
+        }
+      ],
+      "duration_ms": 128333,
+      "name": "Morenita Labios Rojos",
+      "url": "https://open.spotify.com/track/25gGaMURpL6xXOKTuyrYj6"
+    },
+    {
+      "added_at": "2026-11-13 06:00:52",
+      "album": {
+        "name": "Guachita Hermosa (En Vivo)",
+        "url": "https://open.spotify.com/album/3OtYQGkengSgGkXaFVhvl8"
+      },
+      "artists": [
+        {
+          "name": "Arkangel Musical de Tierra Caliente",
+          "url": "https://open.spotify.com/artist/2iIOVaa7w74YFsntwrKk1k"
+        },
+        {
+          "name": "Los Player's de Tuzantla",
+          "url": "https://open.spotify.com/artist/77UR8eXyohRSAMyLhYfdxW"
+        }
+      ],
+      "duration_ms": 209126,
+      "name": "Guachita Hermosa - En Vivo",
+      "url": "https://open.spotify.com/track/5tZCmrLpUk6qYp8YQawXsB"
+    },
+    {
+      "added_at": "2026-11-13 06:00:52",
+      "album": {
+        "name": "Serious",
+        "url": "https://open.spotify.com/album/3GO6iy0Nbuf388ZHxuqZxV"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Garcia",
+          "url": "https://open.spotify.com/artist/6lT5Srr5Jw3bVDyEeCMaaD"
+        },
+        {
+          "name": "GERARDO DIAZ Y SU GERARQUIA",
+          "url": "https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp"
+        }
+      ],
+      "duration_ms": 198716,
+      "name": "Serious",
+      "url": "https://open.spotify.com/track/0G0U4hpQoZ66kaHMxi1eJk"
+    },
+    {
+      "added_at": "2026-11-13 06:00:52",
+      "album": {
+        "name": "20 Exitos de Ley",
+        "url": "https://open.spotify.com/album/6JtWMgUrSR6W2hsWZetzph"
+      },
+      "artists": [
+        {
+          "name": "La Dinast\u00eda de Tuzantla Michoac\u00e1n",
+          "url": "https://open.spotify.com/artist/2u7j1pjcNuLlfgiNrByi0R"
+        }
+      ],
+      "duration_ms": 164337,
+      "name": "Son las Dos de la Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/4CYshjNzVTWOs6mEbvSFk0"
+    },
+    {
+      "added_at": "2026-11-13 06:00:52",
+      "album": {
+        "name": "Especialmente Para Ti",
+        "url": "https://open.spotify.com/album/0Z8wgPzDI9UbMjCqmMH4vn"
+      },
+      "artists": [
+        {
+          "name": "Los Pajaritos De Tacupa",
+          "url": "https://open.spotify.com/artist/7KrWKbEhGHojuod8j3CDNT"
+        }
+      ],
+      "duration_ms": 152380,
+      "name": "La Novia Del Pajarillo",
+      "url": "https://open.spotify.com/track/5UnIKCY1nZDjKBC6hgclrE"
+    },
+    {
+      "added_at": "2026-11-13 06:00:52",
+      "album": {
+        "name": "Siguiendo Tu Corazon",
+        "url": "https://open.spotify.com/album/4xm0swDqYdBmcmB9tatjVB"
+      },
+      "artists": [
+        {
+          "name": "La Mar-K De Tierra Caliente",
+          "url": "https://open.spotify.com/artist/1rjI82QFF2g7ZN3LiCZQ1x"
+        }
+      ],
+      "duration_ms": 227448,
+      "name": "Arrancame La Piel",
+      "url": "https://open.spotify.com/track/46MkmJsnwA7XtvGihc6kWa"
+    },
+    {
+      "added_at": "2026-11-13 06:00:52",
+      "album": {
+        "name": "Por Ti Me Mato",
+        "url": "https://open.spotify.com/album/6HVw5b6iTjMEGvjohuIHSF"
+      },
+      "artists": [
+        {
+          "name": "Grupo El Bueno",
+          "url": "https://open.spotify.com/artist/2MdBGTkBZjy9Oa0JbxhJ9f"
+        }
+      ],
+      "duration_ms": 179626,
+      "name": "Cien Vidas",
+      "url": "https://open.spotify.com/track/0D79ID7bLGiIeFRwIRj9O9"
+    },
+    {
+      "added_at": "2026-11-13 06:00:52",
+      "album": {
+        "name": "Los De Tierra Caliente (En Vivo)",
+        "url": "https://open.spotify.com/album/0o72ypAIEh2XtM7SYzrNfL"
+      },
+      "artists": [
+        {
+          "name": "El Mimoso Luis Antonio L\u00f3pez",
+          "url": "https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g"
+        },
+        {
+          "name": "To\u00f1o Y Freddy",
+          "url": "https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw"
+        }
+      ],
+      "duration_ms": 394587,
+      "name": "Libro Abierto / Qu\u00e9 Se Te Olvid\u00f3 - En Vivo",
+      "url": "https://open.spotify.com/track/34NAjxnPJNAH05H6FvA39S"
+    },
+    {
+      "added_at": "2026-11-13 06:00:52",
+      "album": {
+        "name": "Corazon Michoacano",
+        "url": "https://open.spotify.com/album/56dGWZj0MsID0YPwuXkdhS"
+      },
+      "artists": [
+        {
+          "name": "La Nobleza De Aguililla",
+          "url": "https://open.spotify.com/artist/5cNCUu9R7rlzsDPHQFKCdg"
+        }
+      ],
+      "duration_ms": 183413,
+      "name": "Con Mentiras No",
+      "url": "https://open.spotify.com/track/0iGA2tFV2f5yjiHRijk9cL"
+    },
+    {
+      "added_at": "2026-11-13 06:00:52",
+      "album": {
+        "name": "Eres Mi \u00c1ngel",
+        "url": "https://open.spotify.com/album/1PDfdwiMGcGbsZqxd48tKo"
+      },
+      "artists": [
+        {
+          "name": "Los Pajaritos De Tacupa",
+          "url": "https://open.spotify.com/artist/7KrWKbEhGHojuod8j3CDNT"
+        }
+      ],
+      "duration_ms": 207666,
+      "name": "Hermosa Tierra Caliente",
+      "url": "https://open.spotify.com/track/6EDF54JATyoMUNbBJIETAe"
+    },
+    {
+      "added_at": "2026-11-13 06:00:52",
       "album": {
         "name": "Gente de Rancho",
         "url": "https://open.spotify.com/album/7u7SM8hdzFWNs2vhdoEQFG"
@@ -77,495 +665,7 @@
       "url": "https://open.spotify.com/track/2d0jmxWeeqL4ywfgCZalmf"
     },
     {
-      "added_at": "2026-10-16 06:00:39",
-      "album": {
-        "name": "Nuestra Historia",
-        "url": "https://open.spotify.com/album/2aRhJtFFfvHtPv9EUegbVd"
-      },
-      "artists": [
-        {
-          "name": "La Dinast\u00eda de Tuzantla Michoac\u00e1n",
-          "url": "https://open.spotify.com/artist/2u7j1pjcNuLlfgiNrByi0R"
-        }
-      ],
-      "duration_ms": 241386,
-      "name": "El Caminante",
-      "url": "https://open.spotify.com/track/4Mfepu07REoaF3fxJBtpzi"
-    },
-    {
-      "added_at": "2026-10-16 06:00:39",
-      "album": {
-        "name": "Amar De Verdad",
-        "url": "https://open.spotify.com/album/05C1CBbMRLU8hIIWEiu4W7"
-      },
-      "artists": [
-        {
-          "name": "To\u00f1o Y Freddy",
-          "url": "https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw"
-        }
-      ],
-      "duration_ms": 210329,
-      "name": "Amar De Verdad",
-      "url": "https://open.spotify.com/track/2kTW2PeUKkC5N6d57RlOdm"
-    },
-    {
-      "added_at": "2026-10-16 06:00:39",
-      "album": {
-        "name": "Amistad y Pesos",
-        "url": "https://open.spotify.com/album/2dp0TRYQW761GeOOMtqPv1"
-      },
-      "artists": [
-        {
-          "name": "GERARDO DIAZ Y SU GERARQUIA",
-          "url": "https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp"
-        }
-      ],
-      "duration_ms": 338901,
-      "name": "Mi \u00daltima Caravana",
-      "url": "https://open.spotify.com/track/0TLYlmmcovm6qxIjg7aDb3"
-    },
-    {
-      "added_at": "2026-10-16 06:00:39",
-      "album": {
-        "name": "La Birria de Estela",
-        "url": "https://open.spotify.com/album/0d2fAxdVEZRSEOJ4J6ZHbq"
-      },
-      "artists": [
-        {
-          "name": "GERARDO DIAZ Y SU GERARQUIA",
-          "url": "https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp"
-        }
-      ],
-      "duration_ms": 176722,
-      "name": "La Birria de Estela",
-      "url": "https://open.spotify.com/track/6JHJY5geN9qhsHP7otLWfL"
-    },
-    {
-      "added_at": "2026-10-16 06:00:39",
-      "album": {
-        "name": "Enamorado de Ti... (Los creadores del Sacadito)",
-        "url": "https://open.spotify.com/album/4913geA8ahnB651ej4zI8g"
-      },
-      "artists": [
-        {
-          "name": "Tierra Cali",
-          "url": "https://open.spotify.com/artist/4JqzwqRUOCEHeIVRDWG5Jv"
-        }
-      ],
-      "duration_ms": 207807,
-      "name": "Donde Quiera Que Est\u00e9s",
-      "url": "https://open.spotify.com/track/4lYHKPAAwwQlQF6anqMRH6"
-    },
-    {
-      "added_at": "2026-10-16 06:00:39",
-      "album": {
-        "name": "Nuestra Historia",
-        "url": "https://open.spotify.com/album/2aRhJtFFfvHtPv9EUegbVd"
-      },
-      "artists": [
-        {
-          "name": "La Dinast\u00eda de Tuzantla Michoac\u00e1n",
-          "url": "https://open.spotify.com/artist/2u7j1pjcNuLlfgiNrByi0R"
-        }
-      ],
-      "duration_ms": 195586,
-      "name": "Te Quiero para Mi",
-      "url": "https://open.spotify.com/track/5m35eZzbh9hy7mGQHuPdHW"
-    },
-    {
-      "added_at": "2026-10-16 06:00:39",
-      "album": {
-        "name": "Ardientes (US Version)",
-        "url": "https://open.spotify.com/album/2GmL58I7N3g4Hg5ZZ8Udwv"
-      },
-      "artists": [
-        {
-          "name": "Beto Y Sus Canarios",
-          "url": "https://open.spotify.com/artist/1Y4RbL9WTMzu0TTobNbNSv"
-        }
-      ],
-      "duration_ms": 158693,
-      "name": "No Puedo Olvidarte",
-      "url": "https://open.spotify.com/track/5OwgBk0ZRD3N7XMyLhyGW6"
-    },
-    {
-      "added_at": "2026-10-16 06:00:39",
-      "album": {
-        "name": "El Mejor De Todos",
-        "url": "https://open.spotify.com/album/1AUXylDUCOVotYuD4vvTpy"
-      },
-      "artists": [
-        {
-          "name": "Los Player's de Tuzantla",
-          "url": "https://open.spotify.com/artist/77UR8eXyohRSAMyLhYfdxW"
-        }
-      ],
-      "duration_ms": 153077,
-      "name": "Tu Nuevo Cari\u00f1ito",
-      "url": "https://open.spotify.com/track/5mp6HHshKmDN9Sy1CanJOo"
-    },
-    {
-      "added_at": "2026-10-16 06:00:39",
-      "album": {
-        "name": "Amistad y Pesos",
-        "url": "https://open.spotify.com/album/2dp0TRYQW761GeOOMtqPv1"
-      },
-      "artists": [
-        {
-          "name": "GERARDO DIAZ Y SU GERARQUIA",
-          "url": "https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp"
-        }
-      ],
-      "duration_ms": 253648,
-      "name": "No Quise Decirle",
-      "url": "https://open.spotify.com/track/2EoXCwwAxee2Ky3Y0nIBfI"
-    },
-    {
-      "added_at": "2026-10-16 06:00:39",
-      "album": {
-        "name": "20 Exitos de Ley",
-        "url": "https://open.spotify.com/album/5vneQUtrAtGXvKsoGyGxa1"
-      },
-      "artists": [
-        {
-          "name": "Tierra Cali",
-          "url": "https://open.spotify.com/artist/4JqzwqRUOCEHeIVRDWG5Jv"
-        }
-      ],
-      "duration_ms": 219280,
-      "name": "No Pares",
-      "url": "https://open.spotify.com/track/1vI0GTOoY5VC9azFTlvoEg"
-    },
-    {
-      "added_at": "2026-10-16 06:00:39",
-      "album": {
-        "name": "Esperando Tu Llamada",
-        "url": "https://open.spotify.com/album/3oDGzlvfKUsJ0NQpV8cAXj"
-      },
-      "artists": [
-        {
-          "name": "To\u00f1o Y Freddy",
-          "url": "https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw"
-        }
-      ],
-      "duration_ms": 174066,
-      "name": "Brebaje",
-      "url": "https://open.spotify.com/track/3w3xwSJe6GhgqTfbVGhBbv"
-    },
-    {
-      "added_at": "2026-10-16 06:00:39",
-      "album": {
-        "name": "Que Chulada!",
-        "url": "https://open.spotify.com/album/5HbkR6gBd0qRHIu1aHiH0R"
-      },
-      "artists": [
-        {
-          "name": "La Dinast\u00eda de Tuzantla Michoac\u00e1n",
-          "url": "https://open.spotify.com/artist/2u7j1pjcNuLlfgiNrByi0R"
-        }
-      ],
-      "duration_ms": 163506,
-      "name": "Que Chulos Ojos",
-      "url": "https://open.spotify.com/track/7llQO7QxIJ2C9H02w4Dwjv"
-    },
-    {
-      "added_at": "2026-10-16 06:00:39",
-      "album": {
-        "name": "Mi M\u00e1s Grande Tesoro",
-        "url": "https://open.spotify.com/album/2KHVmLTI8nibE0jJ4qFO2H"
-      },
-      "artists": [
-        {
-          "name": "Los Player's de Tuzantla",
-          "url": "https://open.spotify.com/artist/77UR8eXyohRSAMyLhYfdxW"
-        }
-      ],
-      "duration_ms": 243426,
-      "name": "Destino",
-      "url": "https://open.spotify.com/track/788MJUGdfIQXUuLwiDw7NC"
-    },
-    {
-      "added_at": "2026-10-16 06:00:39",
-      "album": {
-        "name": "El Alba\u00f1il",
-        "url": "https://open.spotify.com/album/3E7KG2YrZfnOCaMAV1UShV"
-      },
-      "artists": [
-        {
-          "name": "GERARDO DIAZ Y SU GERARQUIA",
-          "url": "https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp"
-        }
-      ],
-      "duration_ms": 235701,
-      "name": "El Alba\u00f1il",
-      "url": "https://open.spotify.com/track/6Cp7mxrHFobJvo7YSv0zEb"
-    },
-    {
-      "added_at": "2026-10-16 06:00:39",
-      "album": {
-        "name": "20 Exitos de Ley",
-        "url": "https://open.spotify.com/album/5vneQUtrAtGXvKsoGyGxa1"
-      },
-      "artists": [
-        {
-          "name": "Tierra Cali",
-          "url": "https://open.spotify.com/artist/4JqzwqRUOCEHeIVRDWG5Jv"
-        }
-      ],
-      "duration_ms": 216013,
-      "name": "El Baile del Sacadito",
-      "url": "https://open.spotify.com/track/5hk73dL1v4ZX2deqiFiBW5"
-    },
-    {
-      "added_at": "2026-10-16 06:00:39",
-      "album": {
-        "name": "Mi Despedida",
-        "url": "https://open.spotify.com/album/14iB8WCfhOBf2QrHaxN5jt"
-      },
-      "artists": [
-        {
-          "name": "Beto Y Sus Canarios",
-          "url": "https://open.spotify.com/artist/1Y4RbL9WTMzu0TTobNbNSv"
-        }
-      ],
-      "duration_ms": 169906,
-      "name": "Palomita De Alas Blancas",
-      "url": "https://open.spotify.com/track/0Vx8j4stjp6Mycjqyc7eRO"
-    },
-    {
-      "added_at": "2026-10-16 06:00:39",
-      "album": {
-        "name": "Morenita Labios Rojos",
-        "url": "https://open.spotify.com/album/0wCFa5JUVU3Bh9kKgawvjR"
-      },
-      "artists": [
-        {
-          "name": "To\u00f1o Y Freddy",
-          "url": "https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw"
-        }
-      ],
-      "duration_ms": 179146,
-      "name": "Soy Para Ti",
-      "url": "https://open.spotify.com/track/2heuUbIlUGo61dgA4rqXy7"
-    },
-    {
-      "added_at": "2026-10-16 06:00:39",
-      "album": {
-        "name": "Guiados por el Cielo",
-        "url": "https://open.spotify.com/album/5se7VnLff9owqtOW1usbhN"
-      },
-      "artists": [
-        {
-          "name": "La Dinastia de Tuzantla, Mich.",
-          "url": "https://open.spotify.com/artist/2Ft11oBGQg7YDAB3N4RRxf"
-        }
-      ],
-      "duration_ms": 241173,
-      "name": "No Te Olvidare",
-      "url": "https://open.spotify.com/track/0g8IOSkOPv8JUxbTojv6vI"
-    },
-    {
-      "added_at": "2026-10-16 06:00:39",
-      "album": {
-        "name": "18 Kilates",
-        "url": "https://open.spotify.com/album/42JRfQBP8DhodYhlN1396h"
-      },
-      "artists": [
-        {
-          "name": "Los Pajaritos De Tacupa",
-          "url": "https://open.spotify.com/artist/7KrWKbEhGHojuod8j3CDNT"
-        }
-      ],
-      "duration_ms": 190544,
-      "name": "Veinte Mujeres de Negro",
-      "url": "https://open.spotify.com/track/0UP5BDqgYBhsSK8ZndGMM6"
-    },
-    {
-      "added_at": "2026-10-16 06:00:39",
-      "album": {
-        "name": "Guachita Hermosa (En Vivo)",
-        "url": "https://open.spotify.com/album/3OtYQGkengSgGkXaFVhvl8"
-      },
-      "artists": [
-        {
-          "name": "Arkangel Musical de Tierra Caliente",
-          "url": "https://open.spotify.com/artist/2iIOVaa7w74YFsntwrKk1k"
-        },
-        {
-          "name": "Los Player's de Tuzantla",
-          "url": "https://open.spotify.com/artist/77UR8eXyohRSAMyLhYfdxW"
-        }
-      ],
-      "duration_ms": 209126,
-      "name": "Guachita Hermosa - En Vivo",
-      "url": "https://open.spotify.com/track/5tZCmrLpUk6qYp8YQawXsB"
-    },
-    {
-      "added_at": "2026-10-16 06:00:39",
-      "album": {
-        "name": "20 \u00c9xitos de Ley (Serie de Colecci\u00f3n)",
-        "url": "https://open.spotify.com/album/7wrf7tzBFiEyJwgX4R6cf3"
-      },
-      "artists": [
-        {
-          "name": "Beto Y Sus Canarios",
-          "url": "https://open.spotify.com/artist/1Y4RbL9WTMzu0TTobNbNSv"
-        }
-      ],
-      "duration_ms": 143871,
-      "name": "A Qui\u00e9n Esperas",
-      "url": "https://open.spotify.com/track/3eCY6AUZVvKuFQYVpvMEMV"
-    },
-    {
-      "added_at": "2026-10-16 06:00:39",
-      "album": {
-        "name": "Morenita Labios Rojos",
-        "url": "https://open.spotify.com/album/0wCFa5JUVU3Bh9kKgawvjR"
-      },
-      "artists": [
-        {
-          "name": "To\u00f1o Y Freddy",
-          "url": "https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw"
-        }
-      ],
-      "duration_ms": 128333,
-      "name": "Morenita Labios Rojos",
-      "url": "https://open.spotify.com/track/25gGaMURpL6xXOKTuyrYj6"
-    },
-    {
-      "added_at": "2026-10-16 06:00:39",
-      "album": {
-        "name": "De Parranda Con Jorge Garcia",
-        "url": "https://open.spotify.com/album/2lVwzYj3fyF1VrIZSmSgLa"
-      },
-      "artists": [
-        {
-          "name": "Los Player's de Tuzantla",
-          "url": "https://open.spotify.com/artist/77UR8eXyohRSAMyLhYfdxW"
-        }
-      ],
-      "duration_ms": 155318,
-      "name": "Pu\u00f1o de Tierra",
-      "url": "https://open.spotify.com/track/0AHoNKqYZdcvffUWkmwPcR"
-    },
-    {
-      "added_at": "2026-10-16 06:00:39",
-      "album": {
-        "name": "20 Exitos de Ley",
-        "url": "https://open.spotify.com/album/6JtWMgUrSR6W2hsWZetzph"
-      },
-      "artists": [
-        {
-          "name": "La Dinast\u00eda de Tuzantla Michoac\u00e1n",
-          "url": "https://open.spotify.com/artist/2u7j1pjcNuLlfgiNrByi0R"
-        }
-      ],
-      "duration_ms": 164337,
-      "name": "Son las Dos de la Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/4CYshjNzVTWOs6mEbvSFk0"
-    },
-    {
-      "added_at": "2026-10-16 06:00:39",
-      "album": {
-        "name": "Siguiendo Tu Corazon",
-        "url": "https://open.spotify.com/album/4xm0swDqYdBmcmB9tatjVB"
-      },
-      "artists": [
-        {
-          "name": "La Mar-K De Tierra Caliente",
-          "url": "https://open.spotify.com/artist/1rjI82QFF2g7ZN3LiCZQ1x"
-        }
-      ],
-      "duration_ms": 227448,
-      "name": "Arrancame La Piel",
-      "url": "https://open.spotify.com/track/46MkmJsnwA7XtvGihc6kWa"
-    },
-    {
-      "added_at": "2026-10-16 06:00:39",
-      "album": {
-        "name": "100% Tierra Caliente",
-        "url": "https://open.spotify.com/album/69glkS6UJhCt2mNGlzqnL0"
-      },
-      "artists": [
-        {
-          "name": "Beto Y Sus Canarios",
-          "url": "https://open.spotify.com/artist/1Y4RbL9WTMzu0TTobNbNSv"
-        }
-      ],
-      "duration_ms": 174693,
-      "name": "Esta Llorando Mi Corazon - En Vivo En Cd. Altamirano M\u00e9xico / 2006",
-      "url": "https://open.spotify.com/track/0iNDW91QOyq2n2WHNuufEo"
-    },
-    {
-      "added_at": "2026-10-16 06:00:39",
-      "album": {
-        "name": "Eres Mi \u00c1ngel",
-        "url": "https://open.spotify.com/album/1PDfdwiMGcGbsZqxd48tKo"
-      },
-      "artists": [
-        {
-          "name": "Los Pajaritos De Tacupa",
-          "url": "https://open.spotify.com/artist/7KrWKbEhGHojuod8j3CDNT"
-        }
-      ],
-      "duration_ms": 207666,
-      "name": "Hermosa Tierra Caliente",
-      "url": "https://open.spotify.com/track/6EDF54JATyoMUNbBJIETAe"
-    },
-    {
-      "added_at": "2026-10-16 06:00:39",
-      "album": {
-        "name": "Por Ti Me Mato",
-        "url": "https://open.spotify.com/album/6HVw5b6iTjMEGvjohuIHSF"
-      },
-      "artists": [
-        {
-          "name": "Grupo El Bueno",
-          "url": "https://open.spotify.com/artist/2MdBGTkBZjy9Oa0JbxhJ9f"
-        }
-      ],
-      "duration_ms": 179626,
-      "name": "Cien Vidas",
-      "url": "https://open.spotify.com/track/0D79ID7bLGiIeFRwIRj9O9"
-    },
-    {
-      "added_at": "2026-10-16 06:00:39",
-      "album": {
-        "name": "Corazon Michoacano",
-        "url": "https://open.spotify.com/album/56dGWZj0MsID0YPwuXkdhS"
-      },
-      "artists": [
-        {
-          "name": "La Nobleza De Aguililla",
-          "url": "https://open.spotify.com/artist/5cNCUu9R7rlzsDPHQFKCdg"
-        }
-      ],
-      "duration_ms": 183413,
-      "name": "Con Mentiras No",
-      "url": "https://open.spotify.com/track/0iGA2tFV2f5yjiHRijk9cL"
-    },
-    {
-      "added_at": "2026-10-16 06:00:39",
-      "album": {
-        "name": "Los De Tierra Caliente (En Vivo)",
-        "url": "https://open.spotify.com/album/0o72ypAIEh2XtM7SYzrNfL"
-      },
-      "artists": [
-        {
-          "name": "El Mimoso Luis Antonio L\u00f3pez",
-          "url": "https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g"
-        },
-        {
-          "name": "To\u00f1o Y Freddy",
-          "url": "https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw"
-        }
-      ],
-      "duration_ms": 394587,
-      "name": "Libro Abierto / Qu\u00e9 Se Te Olvid\u00f3 - En Vivo",
-      "url": "https://open.spotify.com/track/34NAjxnPJNAH05H6FvA39S"
-    },
-    {
-      "added_at": "2026-10-16 06:00:39",
+      "added_at": "2026-11-13 06:00:52",
       "album": {
         "name": "No Traigo 45",
         "url": "https://open.spotify.com/album/2mk0NunPByPvLKOppGX6Ut"
@@ -581,23 +681,7 @@
       "url": "https://open.spotify.com/track/49s3cWrgxpuH3gLPi8Pnrl"
     },
     {
-      "added_at": "2026-10-16 06:00:39",
-      "album": {
-        "name": "Eres Mi \u00c1ngel",
-        "url": "https://open.spotify.com/album/1PDfdwiMGcGbsZqxd48tKo"
-      },
-      "artists": [
-        {
-          "name": "Los Pajaritos De Tacupa",
-          "url": "https://open.spotify.com/artist/7KrWKbEhGHojuod8j3CDNT"
-        }
-      ],
-      "duration_ms": 181813,
-      "name": "Todo Por Servir Se Acaba",
-      "url": "https://open.spotify.com/track/33aFzGxZYAkCx2RxqfN06U"
-    },
-    {
-      "added_at": "2026-10-16 06:00:39",
+      "added_at": "2026-11-13 06:00:52",
       "album": {
         "name": "El Campesino y el Sol",
         "url": "https://open.spotify.com/album/1zz9palZav43PsEJGeIijB"
@@ -613,7 +697,7 @@
       "url": "https://open.spotify.com/track/3UAQI1mzzIxOW7aM2NPiUv"
     },
     {
-      "added_at": "2026-10-16 06:00:39",
+      "added_at": "2026-11-13 06:00:52",
       "album": {
         "name": "Estoy Aqu\u00ed",
         "url": "https://open.spotify.com/album/4a2Q0M9B2DGneblANoPtEQ"
@@ -629,7 +713,23 @@
       "url": "https://open.spotify.com/track/5qYEfd1C9P6CmBEHKkzfKA"
     },
     {
-      "added_at": "2026-10-16 06:00:39",
+      "added_at": "2026-11-13 06:00:52",
+      "album": {
+        "name": "Eres Mi \u00c1ngel",
+        "url": "https://open.spotify.com/album/1PDfdwiMGcGbsZqxd48tKo"
+      },
+      "artists": [
+        {
+          "name": "Los Pajaritos De Tacupa",
+          "url": "https://open.spotify.com/artist/7KrWKbEhGHojuod8j3CDNT"
+        }
+      ],
+      "duration_ms": 181813,
+      "name": "Todo Por Servir Se Acaba",
+      "url": "https://open.spotify.com/track/33aFzGxZYAkCx2RxqfN06U"
+    },
+    {
+      "added_at": "2026-11-13 06:00:52",
       "album": {
         "name": "Porque Te Quiero Amor",
         "url": "https://open.spotify.com/album/0Mys0SoE9tjsqoI4viRcw5"
@@ -645,23 +745,7 @@
       "url": "https://open.spotify.com/track/2xYmyXiRZC5kw3p34ZZN05"
     },
     {
-      "added_at": "2026-10-16 06:00:39",
-      "album": {
-        "name": "De Parranda Con Jorge Garcia",
-        "url": "https://open.spotify.com/album/2lVwzYj3fyF1VrIZSmSgLa"
-      },
-      "artists": [
-        {
-          "name": "Los Player's de Tuzantla",
-          "url": "https://open.spotify.com/artist/77UR8eXyohRSAMyLhYfdxW"
-        }
-      ],
-      "duration_ms": 219985,
-      "name": "Amor Limosnero",
-      "url": "https://open.spotify.com/track/0SLdgfVlFaf0vv9HUFAXgx"
-    },
-    {
-      "added_at": "2026-10-16 06:00:39",
+      "added_at": "2026-11-13 06:00:52",
       "album": {
         "name": "Eres Mi Sexto Sentido",
         "url": "https://open.spotify.com/album/4ixLghGMb69nGfkirXyGe6"
@@ -681,7 +765,7 @@
       "url": "https://open.spotify.com/track/5I7VMy1ueLlh8HBDN1DM4h"
     },
     {
-      "added_at": "2026-10-16 06:00:39",
+      "added_at": "2026-11-13 06:00:52",
       "album": {
         "name": "Al 100 y Pasadito",
         "url": "https://open.spotify.com/album/5Yt4zVJRzpF1p48uCA930b"
@@ -697,7 +781,7 @@
       "url": "https://open.spotify.com/track/3mVT1MmEoJdLadOmCnX6hn"
     },
     {
-      "added_at": "2026-10-16 06:00:39",
+      "added_at": "2026-11-13 06:00:52",
       "album": {
         "name": "Soy Cukin",
         "url": "https://open.spotify.com/album/1eVP7WUjq7xfFEroePZ0yT"
@@ -713,23 +797,7 @@
       "url": "https://open.spotify.com/track/6PYAdvhQGjuqoP4I9YBON5"
     },
     {
-      "added_at": "2026-10-16 06:00:39",
-      "album": {
-        "name": "Kilos de Polvo",
-        "url": "https://open.spotify.com/album/26qV7yOOuaAe48fNIOl4yk"
-      },
-      "artists": [
-        {
-          "name": "Grupo Alfa 7",
-          "url": "https://open.spotify.com/artist/03TBR2ffZqsm38E9bXhSuZ"
-        }
-      ],
-      "duration_ms": 329160,
-      "name": "As\u00ed Fue",
-      "url": "https://open.spotify.com/track/5LYv9sE58vpWj5vmBT9WsF"
-    },
-    {
-      "added_at": "2026-10-16 06:00:39",
+      "added_at": "2026-11-13 06:00:52",
       "album": {
         "name": "Arpacumbiando: Caliente, Caliente",
         "url": "https://open.spotify.com/album/6zOnwXDxxOHik1jT3IIukc"
@@ -745,55 +813,7 @@
       "url": "https://open.spotify.com/track/00KobkfwcyPkxUY73Y2J8T"
     },
     {
-      "added_at": "2026-10-16 06:00:39",
-      "album": {
-        "name": "Adicto a Ti",
-        "url": "https://open.spotify.com/album/7cJOsVE6qWAviyw5jl350L"
-      },
-      "artists": [
-        {
-          "name": "Los Player's de Tuzantla",
-          "url": "https://open.spotify.com/artist/77UR8eXyohRSAMyLhYfdxW"
-        }
-      ],
-      "duration_ms": 148329,
-      "name": "Flor Hermosa",
-      "url": "https://open.spotify.com/track/557jO0VSx5Y0VgeA4BOwdO"
-    },
-    {
-      "added_at": "2026-10-16 06:00:39",
-      "album": {
-        "name": "Quisiera Ser Una L\u00e1grima",
-        "url": "https://open.spotify.com/album/1RqBeee5es5MmTvDbqwwfu"
-      },
-      "artists": [
-        {
-          "name": "La Leyenda De Servando Montalva",
-          "url": "https://open.spotify.com/artist/3Nm9w1hNH8quV9rzZ30hvn"
-        }
-      ],
-      "duration_ms": 199053,
-      "name": "Quisiera Ser Una L\u00e1grima",
-      "url": "https://open.spotify.com/track/5NTuZKFaiYlyYZdj0fvbWn"
-    },
-    {
-      "added_at": "2026-10-16 06:00:39",
-      "album": {
-        "name": "Por Qu\u00e9 Me Gustas",
-        "url": "https://open.spotify.com/album/2yKTWWEt3PCKTAbqCxTxAP"
-      },
-      "artists": [
-        {
-          "name": "Arkangel Musical de Tierra Caliente",
-          "url": "https://open.spotify.com/artist/2iIOVaa7w74YFsntwrKk1k"
-        }
-      ],
-      "duration_ms": 221354,
-      "name": "5 Minutos",
-      "url": "https://open.spotify.com/track/6t97cNUEjx4TafoovNr8tb"
-    },
-    {
-      "added_at": "2026-10-16 06:00:39",
+      "added_at": "2026-11-13 06:00:52",
       "album": {
         "name": "Quiero Que Seas para M\u00ed",
         "url": "https://open.spotify.com/album/7bxTdmbur0frxgcb4CoYIv"
@@ -809,23 +829,55 @@
       "url": "https://open.spotify.com/track/6nlVWZzuQxJ4jsVH4JeJG4"
     },
     {
-      "added_at": "2026-10-16 06:00:39",
+      "added_at": "2026-11-13 06:00:52",
       "album": {
-        "name": "Solo para Ti",
-        "url": "https://open.spotify.com/album/7FXd0tPldGUf192hdcHf0X"
+        "name": "Amar De Verdad",
+        "url": "https://open.spotify.com/album/05C1CBbMRLU8hIIWEiu4W7"
       },
       "artists": [
         {
-          "name": "La Nobleza De Aguililla",
-          "url": "https://open.spotify.com/artist/5cNCUu9R7rlzsDPHQFKCdg"
+          "name": "To\u00f1o Y Freddy",
+          "url": "https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw"
         }
       ],
-      "duration_ms": 157573,
-      "name": "Me Va a Extra\u00f1ar",
-      "url": "https://open.spotify.com/track/6EJSQb8fuC9HjZG0IC7KvY"
+      "duration_ms": 210329,
+      "name": "Amar De Verdad",
+      "url": "https://open.spotify.com/track/2kTW2PeUKkC5N6d57RlOdm"
     },
     {
-      "added_at": "2026-10-16 06:00:39",
+      "added_at": "2026-11-13 06:00:52",
+      "album": {
+        "name": "Quisiera Ser Una L\u00e1grima",
+        "url": "https://open.spotify.com/album/1RqBeee5es5MmTvDbqwwfu"
+      },
+      "artists": [
+        {
+          "name": "La Leyenda De Servando Montalva",
+          "url": "https://open.spotify.com/artist/3Nm9w1hNH8quV9rzZ30hvn"
+        }
+      ],
+      "duration_ms": 199053,
+      "name": "Quisiera Ser Una L\u00e1grima",
+      "url": "https://open.spotify.com/track/5NTuZKFaiYlyYZdj0fvbWn"
+    },
+    {
+      "added_at": "2026-11-13 06:00:52",
+      "album": {
+        "name": "Por Qu\u00e9 Me Gustas",
+        "url": "https://open.spotify.com/album/2yKTWWEt3PCKTAbqCxTxAP"
+      },
+      "artists": [
+        {
+          "name": "Arkangel Musical de Tierra Caliente",
+          "url": "https://open.spotify.com/artist/2iIOVaa7w74YFsntwrKk1k"
+        }
+      ],
+      "duration_ms": 221354,
+      "name": "5 Minutos",
+      "url": "https://open.spotify.com/track/6t97cNUEjx4TafoovNr8tb"
+    },
+    {
+      "added_at": "2026-11-13 06:00:52",
       "album": {
         "name": "El Nike",
         "url": "https://open.spotify.com/album/3eHn8E3n9ndGI2Zs3qiEWq"
@@ -841,7 +893,39 @@
       "url": "https://open.spotify.com/track/4IFSVko2iMxAVvRAPVSWuu"
     },
     {
-      "added_at": "2026-10-16 06:00:39",
+      "added_at": "2026-11-13 06:00:52",
+      "album": {
+        "name": "Kilos de Polvo",
+        "url": "https://open.spotify.com/album/26qV7yOOuaAe48fNIOl4yk"
+      },
+      "artists": [
+        {
+          "name": "Grupo Alfa 7",
+          "url": "https://open.spotify.com/artist/03TBR2ffZqsm38E9bXhSuZ"
+        }
+      ],
+      "duration_ms": 329160,
+      "name": "As\u00ed Fue",
+      "url": "https://open.spotify.com/track/5LYv9sE58vpWj5vmBT9WsF"
+    },
+    {
+      "added_at": "2026-11-13 06:00:52",
+      "album": {
+        "name": "Solo para Ti",
+        "url": "https://open.spotify.com/album/7FXd0tPldGUf192hdcHf0X"
+      },
+      "artists": [
+        {
+          "name": "La Nobleza De Aguililla",
+          "url": "https://open.spotify.com/artist/5cNCUu9R7rlzsDPHQFKCdg"
+        }
+      ],
+      "duration_ms": 157573,
+      "name": "Me Va a Extra\u00f1ar",
+      "url": "https://open.spotify.com/track/6EJSQb8fuC9HjZG0IC7KvY"
+    },
+    {
+      "added_at": "2026-11-13 06:00:52",
       "album": {
         "name": "Gracias a la Vida",
         "url": "https://open.spotify.com/album/0lxZLO5fvS50fl8m08K6PW"
@@ -857,7 +941,7 @@
       "url": "https://open.spotify.com/track/2ZrZG9dmYJsDgSLvlMHnCh"
     },
     {
-      "added_at": "2026-10-16 06:00:39",
+      "added_at": "2026-11-13 06:00:52",
       "album": {
         "name": "Inspirados por Ti",
         "url": "https://open.spotify.com/album/2ry1zWDPSGTlIXUavbiDSb"
@@ -873,43 +957,7 @@
       "url": "https://open.spotify.com/track/1ayYCul1JRvWG1AhUzFFGU"
     },
     {
-      "added_at": "2026-10-16 06:00:39",
-      "album": {
-        "name": "Los De Tierra Caliente (En Vivo)",
-        "url": "https://open.spotify.com/album/0o72ypAIEh2XtM7SYzrNfL"
-      },
-      "artists": [
-        {
-          "name": "El Mimoso Luis Antonio L\u00f3pez",
-          "url": "https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g"
-        },
-        {
-          "name": "To\u00f1o Y Freddy",
-          "url": "https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw"
-        }
-      ],
-      "duration_ms": 1191237,
-      "name": "Flor De Lim\u00f3n / Te Llegar\u00e1 Mi Olvido / Pobre Bohemio / Beso A Beso / Tierra Mala / El Caminante - En Vivo",
-      "url": "https://open.spotify.com/track/0rvBiev8PnkB3lwnFLmRuI"
-    },
-    {
-      "added_at": "2026-10-16 06:00:39",
-      "album": {
-        "name": "Exitos de La Nobleza de Aguililla",
-        "url": "https://open.spotify.com/album/6ROhyA4PWN6oocX4pzwz9h"
-      },
-      "artists": [
-        {
-          "name": "La Nobleza De Aguililla",
-          "url": "https://open.spotify.com/artist/5cNCUu9R7rlzsDPHQFKCdg"
-        }
-      ],
-      "duration_ms": 247386,
-      "name": "Las Joyas De Mi Vida",
-      "url": "https://open.spotify.com/track/5920sskaak2DMq8An3I5Jz"
-    },
-    {
-      "added_at": "2026-10-16 06:00:39",
+      "added_at": "2026-11-13 06:00:52",
       "album": {
         "name": "Homenaje al Rey Pobre",
         "url": "https://open.spotify.com/album/17YAHxM19DfTGzJHJzfcST"
@@ -929,7 +977,43 @@
       "url": "https://open.spotify.com/track/6fIWxlRswxsuhBtEE8SpI8"
     },
     {
-      "added_at": "2026-10-16 06:00:39",
+      "added_at": "2026-11-13 06:00:52",
+      "album": {
+        "name": "Los De Tierra Caliente (En Vivo)",
+        "url": "https://open.spotify.com/album/0o72ypAIEh2XtM7SYzrNfL"
+      },
+      "artists": [
+        {
+          "name": "El Mimoso Luis Antonio L\u00f3pez",
+          "url": "https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g"
+        },
+        {
+          "name": "To\u00f1o Y Freddy",
+          "url": "https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw"
+        }
+      ],
+      "duration_ms": 1191237,
+      "name": "Flor De Lim\u00f3n / Te Llegar\u00e1 Mi Olvido / Pobre Bohemio / Beso A Beso / Tierra Mala / El Caminante - En Vivo",
+      "url": "https://open.spotify.com/track/0rvBiev8PnkB3lwnFLmRuI"
+    },
+    {
+      "added_at": "2026-11-13 06:00:52",
+      "album": {
+        "name": "Exitos de La Nobleza de Aguililla",
+        "url": "https://open.spotify.com/album/6ROhyA4PWN6oocX4pzwz9h"
+      },
+      "artists": [
+        {
+          "name": "La Nobleza De Aguililla",
+          "url": "https://open.spotify.com/artist/5cNCUu9R7rlzsDPHQFKCdg"
+        }
+      ],
+      "duration_ms": 247386,
+      "name": "Las Joyas De Mi Vida",
+      "url": "https://open.spotify.com/track/5920sskaak2DMq8An3I5Jz"
+    },
+    {
+      "added_at": "2026-11-13 06:00:52",
       "album": {
         "name": "Los Huaches En Vivo 2013",
         "url": "https://open.spotify.com/album/09I9lyDDUBsPK4v2R9qIix"
@@ -945,7 +1029,7 @@
       "url": "https://open.spotify.com/track/4XN4tK27BhX6cA7IYFdJtx"
     },
     {
-      "added_at": "2026-10-16 06:00:39",
+      "added_at": "2026-11-13 06:00:52",
       "album": {
         "name": "Como Diablos Te Olvido",
         "url": "https://open.spotify.com/album/0keII9QeGIds6oqoZ4bfDy"
@@ -961,27 +1045,7 @@
       "url": "https://open.spotify.com/track/6iA2NhjrCdEjj55qOh15cU"
     },
     {
-      "added_at": "2026-10-16 06:00:39",
-      "album": {
-        "name": "Los De Tierra Caliente (En Vivo)",
-        "url": "https://open.spotify.com/album/0o72ypAIEh2XtM7SYzrNfL"
-      },
-      "artists": [
-        {
-          "name": "El Mimoso Luis Antonio L\u00f3pez",
-          "url": "https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g"
-        },
-        {
-          "name": "To\u00f1o Y Freddy",
-          "url": "https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw"
-        }
-      ],
-      "duration_ms": 500235,
-      "name": "Brebaje / Recuerdos De Una Noche - En Vivo",
-      "url": "https://open.spotify.com/track/3b5H0MyNMs7wtijEgnBl1M"
-    },
-    {
-      "added_at": "2026-10-16 06:00:39",
+      "added_at": "2026-11-13 06:00:52",
       "album": {
         "name": "La Luz de Tus Ojos / Cuesti\u00f3n Olvidada",
         "url": "https://open.spotify.com/album/4j3MTUsDymuLJGsJpuOXMK"
@@ -1001,7 +1065,27 @@
       "url": "https://open.spotify.com/track/2vLPZ5KsckjEa4EuYyHy5t"
     },
     {
-      "added_at": "2026-10-16 06:00:39",
+      "added_at": "2026-11-13 06:00:52",
+      "album": {
+        "name": "Los De Tierra Caliente (En Vivo)",
+        "url": "https://open.spotify.com/album/0o72ypAIEh2XtM7SYzrNfL"
+      },
+      "artists": [
+        {
+          "name": "El Mimoso Luis Antonio L\u00f3pez",
+          "url": "https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g"
+        },
+        {
+          "name": "To\u00f1o Y Freddy",
+          "url": "https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw"
+        }
+      ],
+      "duration_ms": 500235,
+      "name": "Brebaje / Recuerdos De Una Noche - En Vivo",
+      "url": "https://open.spotify.com/track/3b5H0MyNMs7wtijEgnBl1M"
+    },
+    {
+      "added_at": "2026-11-13 06:00:52",
       "album": {
         "name": "El Amor de Tu Vida",
         "url": "https://open.spotify.com/album/6hy1Ztwrn8rmzlyKPauTtf"
@@ -1017,7 +1101,7 @@
       "url": "https://open.spotify.com/track/0RZ352rB5tBZ0Oepsu7ubJ"
     },
     {
-      "added_at": "2026-10-16 06:00:39",
+      "added_at": "2026-11-13 06:00:52",
       "album": {
         "name": "Le\u00f1a De Pirul",
         "url": "https://open.spotify.com/album/5Yr2KAdhp8yfmqk6PvPq3f"
@@ -1033,7 +1117,7 @@
       "url": "https://open.spotify.com/track/7wj70qg5GF8jj2bpZiNC2Y"
     },
     {
-      "added_at": "2026-10-16 06:00:39",
+      "added_at": "2026-11-13 06:00:52",
       "album": {
         "name": "Somos Mas Americanos",
         "url": "https://open.spotify.com/album/21HMMgxvURhNvsJiQYX5yT"
@@ -1049,7 +1133,23 @@
       "url": "https://open.spotify.com/track/1ehEgDAKGx25rDixKp6G7T"
     },
     {
-      "added_at": "2026-10-16 06:00:39",
+      "added_at": "2026-11-13 06:00:52",
+      "album": {
+        "name": "Casita de Adobe",
+        "url": "https://open.spotify.com/album/6BktzVPKB4mDmTQfageAWk"
+      },
+      "artists": [
+        {
+          "name": "Estrellas De Tuzantla",
+          "url": "https://open.spotify.com/artist/0B52rdLCXnTtqfzt3Xy2IN"
+        }
+      ],
+      "duration_ms": 239737,
+      "name": "Casita de Adobe",
+      "url": "https://open.spotify.com/track/330yVUacfUU84UKG5yX6EK"
+    },
+    {
+      "added_at": "2026-11-13 06:00:52",
       "album": {
         "name": "Los De Tierra Caliente (En Vivo)",
         "url": "https://open.spotify.com/album/0o72ypAIEh2XtM7SYzrNfL"
@@ -1069,23 +1169,7 @@
       "url": "https://open.spotify.com/track/3cOKczNlW5tZp8BfDnsInE"
     },
     {
-      "added_at": "2026-10-16 06:00:39",
-      "album": {
-        "name": "Casita de Adobe",
-        "url": "https://open.spotify.com/album/6BktzVPKB4mDmTQfageAWk"
-      },
-      "artists": [
-        {
-          "name": "Estrellas De Tuzantla",
-          "url": "https://open.spotify.com/artist/0B52rdLCXnTtqfzt3Xy2IN"
-        }
-      ],
-      "duration_ms": 239737,
-      "name": "Casita de Adobe",
-      "url": "https://open.spotify.com/track/330yVUacfUU84UKG5yX6EK"
-    },
-    {
-      "added_at": "2026-10-16 06:00:39",
+      "added_at": "2026-11-13 06:00:52",
       "album": {
         "name": "De California Te Escribo",
         "url": "https://open.spotify.com/album/5p5YGUu3u6gzDzkGxEO6wX"
@@ -1101,7 +1185,7 @@
       "url": "https://open.spotify.com/track/2b8N1NQbfGd0SykCgFEvCt"
     },
     {
-      "added_at": "2026-10-16 06:00:39",
+      "added_at": "2026-11-13 06:00:52",
       "album": {
         "name": "Estoy Aqu\u00ed",
         "url": "https://open.spotify.com/album/4a2Q0M9B2DGneblANoPtEQ"
@@ -1117,7 +1201,7 @@
       "url": "https://open.spotify.com/track/3Xjwh0XMIg4u8V2RjjZEVP"
     },
     {
-      "added_at": "2026-10-16 06:00:39",
+      "added_at": "2026-11-13 06:00:52",
       "album": {
         "name": "Made in Michoacan",
         "url": "https://open.spotify.com/album/3NGXvBSjSVrXNVCk60HyCf"
@@ -1133,7 +1217,7 @@
       "url": "https://open.spotify.com/track/7IpLTkFPJlvKUkX58faG0E"
     },
     {
-      "added_at": "2026-10-16 06:00:39",
+      "added_at": "2026-11-13 06:00:52",
       "album": {
         "name": "El Amor de Tu Vida",
         "url": "https://open.spotify.com/album/6hy1Ztwrn8rmzlyKPauTtf"
@@ -1149,7 +1233,7 @@
       "url": "https://open.spotify.com/track/3GYv8wK6A1ANtG62oNm1Tl"
     },
     {
-      "added_at": "2026-10-16 06:00:39",
+      "added_at": "2026-11-13 06:00:52",
       "album": {
         "name": "Mal Amor",
         "url": "https://open.spotify.com/album/68SwveWQ8tqtqrPW85wkmn"
@@ -1165,7 +1249,7 @@
       "url": "https://open.spotify.com/track/5BmUMTv5l6pIOath6BcMpV"
     },
     {
-      "added_at": "2026-10-16 06:00:39",
+      "added_at": "2026-11-13 06:00:52",
       "album": {
         "name": "El Potosino y El Cocho",
         "url": "https://open.spotify.com/album/6Fmej7TWDGwwtQG3fFHYg5"
@@ -1181,7 +1265,7 @@
       "url": "https://open.spotify.com/track/627QWPTPkNwbOwso8RnBem"
     },
     {
-      "added_at": "2026-10-16 06:00:39",
+      "added_at": "2026-11-13 06:00:52",
       "album": {
         "name": "Lloviendo Estrellas",
         "url": "https://open.spotify.com/album/5dUVNQMzAHIn6z5I7Wv3zA"
@@ -1197,7 +1281,7 @@
       "url": "https://open.spotify.com/track/7aknjZ3qE9iMLzx7pDvpMJ"
     },
     {
-      "added_at": "2026-10-16 06:00:39",
+      "added_at": "2026-11-13 06:00:52",
       "album": {
         "name": "Rolonononas Pa la Raza",
         "url": "https://open.spotify.com/album/09RNUBHp17bcp3bWvMeyCy"
@@ -1213,7 +1297,7 @@
       "url": "https://open.spotify.com/track/5Ubv1KI0TUpD5fedw1kagG"
     },
     {
-      "added_at": "2026-10-16 06:00:39",
+      "added_at": "2026-11-13 06:00:52",
       "album": {
         "name": "A Donde Vas Chiquilla",
         "url": "https://open.spotify.com/album/2f0ggDU5arXZosxybBui6y"
@@ -1229,7 +1313,7 @@
       "url": "https://open.spotify.com/track/5nQBW3jrmIm7XTAvRkXDbw"
     },
     {
-      "added_at": "2026-10-16 06:00:39",
+      "added_at": "2026-11-13 06:00:52",
       "album": {
         "name": "Para Que Vuelves",
         "url": "https://open.spotify.com/album/5eYDEDlyShOWTNqIPZ2AIY"
@@ -1245,23 +1329,7 @@
       "url": "https://open.spotify.com/track/71xcrHytfm93vH4ZsoWUUj"
     },
     {
-      "added_at": "2026-10-16 06:00:39",
-      "album": {
-        "name": "La Reyna de Tierra Caliente",
-        "url": "https://open.spotify.com/album/3l8s4sN6TQGhin5azC0DEi"
-      },
-      "artists": [
-        {
-          "name": "La Dinast\u00eda de Tuzantla Michoac\u00e1n",
-          "url": "https://open.spotify.com/artist/2u7j1pjcNuLlfgiNrByi0R"
-        }
-      ],
-      "duration_ms": 165225,
-      "name": "En C\u00e1mara Lenta",
-      "url": "https://open.spotify.com/track/7zwpqUQKWIYQetrh8E3T5g"
-    },
-    {
-      "added_at": "2026-10-16 06:00:39",
+      "added_at": "2026-11-13 06:00:52",
       "album": {
         "name": "20 Exitos de Ley (Serie de Colecci\u00f3n)",
         "url": "https://open.spotify.com/album/6wPe9ExueR7aA2eUdegYNA"
@@ -1277,7 +1345,7 @@
       "url": "https://open.spotify.com/track/2YTdSooHn3xAZAOIuUpQrm"
     },
     {
-      "added_at": "2026-10-16 06:00:39",
+      "added_at": "2026-11-13 06:00:52",
       "album": {
         "name": "Exitos de La Victoria de Mexico: Volume 1",
         "url": "https://open.spotify.com/album/7dSZTQ9RG7Ytk7h08A6Tgf"
@@ -1293,7 +1361,7 @@
       "url": "https://open.spotify.com/track/11vaLp8ocblznMKhpEMBbu"
     },
     {
-      "added_at": "2026-10-16 06:00:39",
+      "added_at": "2026-11-13 06:00:52",
       "album": {
         "name": "Como Diablos Te Olvido",
         "url": "https://open.spotify.com/album/0keII9QeGIds6oqoZ4bfDy"
@@ -1309,7 +1377,7 @@
       "url": "https://open.spotify.com/track/55uFAzIYdRCFGnNeHny2Xm"
     },
     {
-      "added_at": "2026-10-16 06:00:39",
+      "added_at": "2026-11-13 06:00:52",
       "album": {
         "name": "Quisiera Ser Una L\u00e1grima",
         "url": "https://open.spotify.com/album/1RqBeee5es5MmTvDbqwwfu"
@@ -1325,7 +1393,7 @@
       "url": "https://open.spotify.com/track/5Bl6vhECx1VXl7sJqcbWV2"
     },
     {
-      "added_at": "2026-10-16 06:00:39",
+      "added_at": "2026-11-13 06:00:52",
       "album": {
         "name": "Camionero",
         "url": "https://open.spotify.com/album/13rCTjAIt0kI9uECD2lILP"
@@ -1341,7 +1409,23 @@
       "url": "https://open.spotify.com/track/4ICia47iPxrmI1NPY75tDc"
     },
     {
-      "added_at": "2026-10-16 06:00:39",
+      "added_at": "2026-11-13 06:00:52",
+      "album": {
+        "name": "Mi Reina",
+        "url": "https://open.spotify.com/album/2bWS4f4fpvZo8xQoepMuxw"
+      },
+      "artists": [
+        {
+          "name": "Arkangel Musical de Tierra Caliente",
+          "url": "https://open.spotify.com/artist/2iIOVaa7w74YFsntwrKk1k"
+        }
+      ],
+      "duration_ms": 210336,
+      "name": "Mi Reina",
+      "url": "https://open.spotify.com/track/7nV6AcTIZjhd7P2226CTLP"
+    },
+    {
+      "added_at": "2026-11-13 06:00:52",
       "album": {
         "name": "Con Cartitas y Palabras",
         "url": "https://open.spotify.com/album/1apdrvUnCsIiDCmvcmK8RM"
@@ -1357,7 +1441,7 @@
       "url": "https://open.spotify.com/track/024Nm8inQ2UIzLnBRfQoMR"
     },
     {
-      "added_at": "2026-10-16 06:00:39",
+      "added_at": "2026-11-13 06:00:52",
       "album": {
         "name": "Mi Gusto Es (En vivo)",
         "url": "https://open.spotify.com/album/2NLQqrzTiHA5B07CrOaNoM"
@@ -1373,7 +1457,27 @@
       "url": "https://open.spotify.com/track/6DDRf6VXjE3u1vyAifmwTL"
     },
     {
-      "added_at": "2026-10-16 06:00:39",
+      "added_at": "2026-11-13 06:00:52",
+      "album": {
+        "name": "Humilde Por Herencia",
+        "url": "https://open.spotify.com/album/2cUL5fnvg40mUC6zQjI7NL"
+      },
+      "artists": [
+        {
+          "name": "La Leyenda De Servando Montalva",
+          "url": "https://open.spotify.com/artist/3Nm9w1hNH8quV9rzZ30hvn"
+        },
+        {
+          "name": "Arkangel Musical de Tierra Caliente",
+          "url": "https://open.spotify.com/artist/2iIOVaa7w74YFsntwrKk1k"
+        }
+      ],
+      "duration_ms": 160955,
+      "name": "Humilde Por Herencia",
+      "url": "https://open.spotify.com/track/68nHWa6gJ3kmWtqCq44XSM"
+    },
+    {
+      "added_at": "2026-11-13 06:00:52",
       "album": {
         "name": "El Arroyito (Los Creadores del Sacadito)",
         "url": "https://open.spotify.com/album/6Q3bJy46JBVYrcXet5oFf5"
@@ -1389,7 +1493,7 @@
       "url": "https://open.spotify.com/track/4MfGO5KzcrF1wCEj8jwOSg"
     },
     {
-      "added_at": "2026-10-16 06:00:39",
+      "added_at": "2026-11-13 06:00:52",
       "album": {
         "name": "Guerra De Corridos",
         "url": "https://open.spotify.com/album/1R8RBzaqLFU7DGSbJwgqOG"
@@ -1405,23 +1509,7 @@
       "url": "https://open.spotify.com/track/5RBst3Kt94kZApvvK2ecuS"
     },
     {
-      "added_at": "2026-10-16 06:00:39",
-      "album": {
-        "name": "Siempre Contigo",
-        "url": "https://open.spotify.com/album/4txMTXItugpA7vz6sGK8SV"
-      },
-      "artists": [
-        {
-          "name": "Arkangel Musical de Tierra Caliente",
-          "url": "https://open.spotify.com/artist/2iIOVaa7w74YFsntwrKk1k"
-        }
-      ],
-      "duration_ms": 192991,
-      "name": "Hasta La Perra Te Extra\u00f1a",
-      "url": "https://open.spotify.com/track/7r71DCe6Tq120haZVL3gVO"
-    },
-    {
-      "added_at": "2026-10-16 06:00:39",
+      "added_at": "2026-11-13 06:00:52",
       "album": {
         "name": "Tercia de Reyes",
         "url": "https://open.spotify.com/album/7v4dH5m0lTN5ywngANBPJd"
@@ -1437,7 +1525,7 @@
       "url": "https://open.spotify.com/track/2ueAJJVe4Lwjh4hXfdcsMh"
     },
     {
-      "added_at": "2026-10-16 06:00:39",
+      "added_at": "2026-11-13 06:00:52",
       "album": {
         "name": "Cuando Los Hombres Lloran",
         "url": "https://open.spotify.com/album/5YIASXVs6Ps86VhKtihANo"
@@ -1453,7 +1541,7 @@
       "url": "https://open.spotify.com/track/2ZfamCU9nLYxUa9dxIpd14"
     },
     {
-      "added_at": "2026-10-16 06:00:39",
+      "added_at": "2026-11-13 06:00:52",
       "album": {
         "name": "Se Equivoco Tu Corazon",
         "url": "https://open.spotify.com/album/0L9ukApFrYj9w8eMODlVEb"
@@ -1469,7 +1557,7 @@
       "url": "https://open.spotify.com/track/5MzjN7ydAXnv7odUfl0xV7"
     },
     {
-      "added_at": "2026-10-16 06:00:39",
+      "added_at": "2026-11-13 06:00:52",
       "album": {
         "name": "Cu\u00e9ntale a la Gente (feat. La Leyenda De Servando Montalva)",
         "url": "https://open.spotify.com/album/0gJoiSwS7poTKJJSDUQwEC"
@@ -1489,7 +1577,7 @@
       "url": "https://open.spotify.com/track/1zhSUSXjhxlJ8WTVnnD8yj"
     },
     {
-      "added_at": "2026-10-16 06:00:39",
+      "added_at": "2026-11-13 06:00:52",
       "album": {
         "name": "Para Toda La Vida",
         "url": "https://open.spotify.com/album/02jK2HoW0zuWrZIhnfdNUC"
@@ -1505,7 +1593,7 @@
       "url": "https://open.spotify.com/track/2m4EVVm3PzUQX8L3GviCeH"
     },
     {
-      "added_at": "2026-10-16 06:00:39",
+      "added_at": "2026-11-13 06:00:52",
       "album": {
         "name": "Lloviendo Estrellas",
         "url": "https://open.spotify.com/album/5dUVNQMzAHIn6z5I7Wv3zA"
@@ -1521,7 +1609,7 @@
       "url": "https://open.spotify.com/track/49KTGketU9XTzO4I6I2kck"
     },
     {
-      "added_at": "2026-10-16 06:00:39",
+      "added_at": "2026-11-13 06:00:52",
       "album": {
         "name": "2 Cruces",
         "url": "https://open.spotify.com/album/6UKgOa6D1RQMs1mDec2ZqL"
@@ -1537,23 +1625,7 @@
       "url": "https://open.spotify.com/track/5BLvkvcMVRMxEXbuRocGeb"
     },
     {
-      "added_at": "2026-10-16 06:00:39",
-      "album": {
-        "name": "Inolvidable",
-        "url": "https://open.spotify.com/album/0fvLPJdXSU7YonBQNWNL4M"
-      },
-      "artists": [
-        {
-          "name": "La Leyenda De Servando Montalva",
-          "url": "https://open.spotify.com/artist/3Nm9w1hNH8quV9rzZ30hvn"
-        }
-      ],
-      "duration_ms": 202083,
-      "name": "Inolvidables",
-      "url": "https://open.spotify.com/track/3wQ0hlPa8QibAudvFpmhOU"
-    },
-    {
-      "added_at": "2026-10-16 06:00:39",
+      "added_at": "2026-11-13 06:00:52",
       "album": {
         "name": "Lupe Reyes (En Vivo)",
         "url": "https://open.spotify.com/album/6PVMtefRXmt5aTjS8Iopnc"
@@ -1573,7 +1645,7 @@
       "url": "https://open.spotify.com/track/6ggjc8JFAxy0jiKgQmhU3i"
     },
     {
-      "added_at": "2026-10-16 06:00:39",
+      "added_at": "2026-11-13 06:00:52",
       "album": {
         "name": "Al Mismo Nivel",
         "url": "https://open.spotify.com/album/0K5Jy0WQG14kGAyJfL5dBD"
@@ -1589,39 +1661,7 @@
       "url": "https://open.spotify.com/track/4N2x61jKoau8lW7OnkICf2"
     },
     {
-      "added_at": "2026-10-16 06:00:39",
-      "album": {
-        "name": "Mi Presencia Cuenta",
-        "url": "https://open.spotify.com/album/6mCasm869JkpS9luUZbKJL"
-      },
-      "artists": [
-        {
-          "name": "Nicolas Garcia",
-          "url": "https://open.spotify.com/artist/6lT5Srr5Jw3bVDyEeCMaaD"
-        }
-      ],
-      "duration_ms": 148122,
-      "name": "Mi Presencia Cuenta",
-      "url": "https://open.spotify.com/track/3odi5ZTRPlXuSH9cOIV4lb"
-    },
-    {
-      "added_at": "2026-10-16 06:00:39",
-      "album": {
-        "name": "Es Demasiado Tarde",
-        "url": "https://open.spotify.com/album/1EYswPzL2vFLD4a19b6mNr"
-      },
-      "artists": [
-        {
-          "name": "Estrellas De Tuzantla",
-          "url": "https://open.spotify.com/artist/0B52rdLCXnTtqfzt3Xy2IN"
-        }
-      ],
-      "duration_ms": 165305,
-      "name": "Es Demasiado Tarde",
-      "url": "https://open.spotify.com/track/1Nl9TaswZRISPw5YQIKHDM"
-    },
-    {
-      "added_at": "2026-10-16 06:00:39",
+      "added_at": "2026-11-13 06:00:52",
       "album": {
         "name": "Viva Tierra Caliente",
         "url": "https://open.spotify.com/album/1YkjA1dE7DsIlbmA46mCfx"
@@ -1637,23 +1677,23 @@
       "url": "https://open.spotify.com/track/1hijcF9lqX1Vwh9jxrWM8k"
     },
     {
-      "added_at": "2026-10-16 06:00:39",
+      "added_at": "2026-11-13 06:00:52",
       "album": {
-        "name": "Como Lo Hice Yo",
-        "url": "https://open.spotify.com/album/26CM1WtFNPMMIMKlTou43y"
+        "name": "Es Demasiado Tarde",
+        "url": "https://open.spotify.com/album/1EYswPzL2vFLD4a19b6mNr"
       },
       "artists": [
         {
-          "name": "Arkangel Musical de Tierra Caliente",
-          "url": "https://open.spotify.com/artist/2iIOVaa7w74YFsntwrKk1k"
+          "name": "Estrellas De Tuzantla",
+          "url": "https://open.spotify.com/artist/0B52rdLCXnTtqfzt3Xy2IN"
         }
       ],
-      "duration_ms": 196266,
-      "name": "Como Lo Hice Yo",
-      "url": "https://open.spotify.com/track/4RgnIVqKYEuGot3yDrtikf"
+      "duration_ms": 165305,
+      "name": "Es Demasiado Tarde",
+      "url": "https://open.spotify.com/track/1Nl9TaswZRISPw5YQIKHDM"
     },
     {
-      "added_at": "2026-10-16 06:00:39",
+      "added_at": "2026-11-13 06:00:52",
       "album": {
         "name": "Exitos en Vivo (En Vivo)",
         "url": "https://open.spotify.com/album/1NmTQFtD2GDx2zxexJ5sTO"
@@ -1669,7 +1709,7 @@
       "url": "https://open.spotify.com/track/25EhRhmxIm8jCiYzxRbd0D"
     },
     {
-      "added_at": "2026-10-16 06:00:39",
+      "added_at": "2026-11-13 06:00:52",
       "album": {
         "name": "El Nudo (Parangaricutirimicuaro)",
         "url": "https://open.spotify.com/album/5QoHmNxGNcMupzGDqm1lKR"
@@ -1689,23 +1729,7 @@
       "url": "https://open.spotify.com/track/49QRiQXYwX2x9cwcdcx5rM"
     },
     {
-      "added_at": "2026-10-16 06:00:39",
-      "album": {
-        "name": "La Telara\u00f1a",
-        "url": "https://open.spotify.com/album/66QnGeJvuQJKArpOUwpmra"
-      },
-      "artists": [
-        {
-          "name": "La Nobleza De Aguililla",
-          "url": "https://open.spotify.com/artist/5cNCUu9R7rlzsDPHQFKCdg"
-        }
-      ],
-      "duration_ms": 184945,
-      "name": "La Telara\u00f1a",
-      "url": "https://open.spotify.com/track/0EMRMjjvLgsWtVdo3LES9A"
-    },
-    {
-      "added_at": "2026-10-16 06:00:39",
+      "added_at": "2026-11-13 06:00:52",
       "album": {
         "name": "Al\u00e9jate",
         "url": "https://open.spotify.com/album/0j5CtCEF5m3SI6rzkHVRvZ"
@@ -1721,7 +1745,23 @@
       "url": "https://open.spotify.com/track/2EnsWGWtOUonOxo1DKdO9a"
     },
     {
-      "added_at": "2026-10-16 06:00:39",
+      "added_at": "2026-11-13 06:00:52",
+      "album": {
+        "name": "La Telara\u00f1a",
+        "url": "https://open.spotify.com/album/66QnGeJvuQJKArpOUwpmra"
+      },
+      "artists": [
+        {
+          "name": "La Nobleza De Aguililla",
+          "url": "https://open.spotify.com/artist/5cNCUu9R7rlzsDPHQFKCdg"
+        }
+      ],
+      "duration_ms": 184945,
+      "name": "La Telara\u00f1a",
+      "url": "https://open.spotify.com/track/0EMRMjjvLgsWtVdo3LES9A"
+    },
+    {
+      "added_at": "2026-11-13 06:00:52",
       "album": {
         "name": "Los Huaches Vip 2015",
         "url": "https://open.spotify.com/album/58LE63ynfEACZoYkKruFrF"
@@ -1737,7 +1777,7 @@
       "url": "https://open.spotify.com/track/0WLCgFQL1zGrHrCVnAjNXB"
     },
     {
-      "added_at": "2026-10-16 06:00:39",
+      "added_at": "2026-11-13 06:00:52",
       "album": {
         "name": "De Mil Amores",
         "url": "https://open.spotify.com/album/1NUjRahZFHwCLUl6EOhY1r"
@@ -1753,7 +1793,7 @@
       "url": "https://open.spotify.com/track/28Wlm1FRS2KoflPR2kJn2M"
     },
     {
-      "added_at": "2026-10-16 06:00:39",
+      "added_at": "2026-11-13 06:00:52",
       "album": {
         "name": "Cuesti\u00f3n De Tiempo",
         "url": "https://open.spotify.com/album/47D8bgL135qYk3Jp8fmlrA"
@@ -1769,7 +1809,7 @@
       "url": "https://open.spotify.com/track/1z7i3Ijju21wfapSwi98My"
     },
     {
-      "added_at": "2026-10-16 06:00:39",
+      "added_at": "2026-11-13 06:00:52",
       "album": {
         "name": "Ojos Negros Nunca Enganan",
         "url": "https://open.spotify.com/album/2IwUQdK1tFGSpYvol4FxgJ"
@@ -1785,7 +1825,7 @@
       "url": "https://open.spotify.com/track/3z28OInYw3qTEIcglH7OOX"
     },
     {
-      "added_at": "2026-10-16 06:00:39",
+      "added_at": "2026-11-13 06:00:52",
       "album": {
         "name": "Aceptalo Ya !",
         "url": "https://open.spotify.com/album/5NrYXAeq8EqovAyrb9JWNf"
@@ -1801,7 +1841,7 @@
       "url": "https://open.spotify.com/track/2juNjmS81xsJUOFJFop3QX"
     },
     {
-      "added_at": "2026-10-16 06:00:39",
+      "added_at": "2026-11-13 06:00:52",
       "album": {
         "name": "Ni cari\u00f1o ni rencor",
         "url": "https://open.spotify.com/album/0Bc7IgJAQv1lJ8gcpx1Ddm"
@@ -1817,7 +1857,7 @@
       "url": "https://open.spotify.com/track/1Qpg5hC3FbO66SOzhEiLr2"
     },
     {
-      "added_at": "2026-10-16 06:00:39",
+      "added_at": "2026-11-13 06:00:52",
       "album": {
         "name": "Era Casada",
         "url": "https://open.spotify.com/album/4QZzs9QW50sVyXsBymf0Rv"
@@ -1833,7 +1873,7 @@
       "url": "https://open.spotify.com/track/1XOdCS8q1GGjOJR90Kxz3c"
     },
     {
-      "added_at": "2026-10-16 06:00:39",
+      "added_at": "2026-11-13 06:00:52",
       "album": {
         "name": "Cuesti\u00f3n De Tiempo",
         "url": "https://open.spotify.com/album/47D8bgL135qYk3Jp8fmlrA"
@@ -1849,7 +1889,7 @@
       "url": "https://open.spotify.com/track/7AluH6DilKrQvTIOyFdcLD"
     },
     {
-      "added_at": "2026-10-16 06:00:39",
+      "added_at": "2026-11-13 06:00:52",
       "album": {
         "name": "Si la Vida Me Pidieras",
         "url": "https://open.spotify.com/album/4br3jM3JVBakBL2ZdOEoJ2"
@@ -1865,7 +1905,7 @@
       "url": "https://open.spotify.com/track/2mxrQW3HMnLz7eOmvo1lf6"
     },
     {
-      "added_at": "2026-10-16 06:00:39",
+      "added_at": "2026-11-13 06:00:52",
       "album": {
         "name": "Canciones Tristes Canciones",
         "url": "https://open.spotify.com/album/4JJk27eqo5Rh21g8E4uxJn"
@@ -1881,7 +1921,7 @@
       "url": "https://open.spotify.com/track/6UeFg2AN97BDm5GkD7vrpd"
     },
     {
-      "added_at": "2026-10-16 06:00:39",
+      "added_at": "2026-11-13 06:00:52",
       "album": {
         "name": "Monarcas 2018",
         "url": "https://open.spotify.com/album/6T7bhldD2jlBePRIaHh8n2"
@@ -1897,7 +1937,7 @@
       "url": "https://open.spotify.com/track/1XgvlEvmIfyenmpYdlZ0J4"
     },
     {
-      "added_at": "2026-10-16 06:00:39",
+      "added_at": "2026-11-13 06:00:52",
       "album": {
         "name": "Reyes Empresarios",
         "url": "https://open.spotify.com/album/1Uybd97C7Fm2Cc6Fay2iKJ"
@@ -1913,7 +1953,7 @@
       "url": "https://open.spotify.com/track/1ivDyhFw1sorpxXUzbgFvX"
     },
     {
-      "added_at": "2026-10-16 06:00:39",
+      "added_at": "2026-11-13 06:00:52",
       "album": {
         "name": "20 Exitos de Ley",
         "url": "https://open.spotify.com/album/1bIyAB9u52Xv1yRtKdq11z"
@@ -1929,7 +1969,7 @@
       "url": "https://open.spotify.com/track/7bYWyrdpAwymguxF6aDUHL"
     },
     {
-      "added_at": "2026-10-16 06:00:39",
+      "added_at": "2026-11-13 06:00:52",
       "album": {
         "name": "No Traigo 45",
         "url": "https://open.spotify.com/album/1k5H0rnSdBvZ5RhqsfcmB1"
@@ -1949,7 +1989,7 @@
       "url": "https://open.spotify.com/track/1KoRFIQxCMEnzqlFQB2jmA"
     },
     {
-      "added_at": "2026-10-16 06:00:39",
+      "added_at": "2026-11-13 06:00:52",
       "album": {
         "name": "Puros Corridos Y No Cochadas (En Vivo)",
         "url": "https://open.spotify.com/album/407lhjUhLBjWKwJK4UXXI3"
@@ -1965,7 +2005,7 @@
       "url": "https://open.spotify.com/track/0iCEhc2I1mlVIbRSA1Cif8"
     },
     {
-      "added_at": "2026-10-16 06:00:39",
+      "added_at": "2026-11-13 06:00:52",
       "album": {
         "name": "\u00bfComo Le Hiciste?",
         "url": "https://open.spotify.com/album/37WUMQlxFObygrsZAjwvg6"
@@ -1981,7 +2021,7 @@
       "url": "https://open.spotify.com/track/294gOGmqpmv4u0L9myG9Er"
     },
     {
-      "added_at": "2026-10-16 06:00:39",
+      "added_at": "2026-11-13 06:00:52",
       "album": {
         "name": "Para el Amor de Mi Vida",
         "url": "https://open.spotify.com/album/7nH83Kx8uM3trA7hALSMOa"
@@ -1997,26 +2037,30 @@
       "url": "https://open.spotify.com/track/75q5N3S2tQX4A2hzQwIst2"
     },
     {
-      "added_at": "2026-10-16 06:00:39",
+      "added_at": "2026-11-13 06:00:52",
       "album": {
-        "name": "Recordando A Mi Pueblo",
-        "url": "https://open.spotify.com/album/27J8ZgI5nKZ6Qvlfw59y0R"
+        "name": "El Oro Verde",
+        "url": "https://open.spotify.com/album/4WKy8eNXEaCNI6UCWaOtaa"
       },
       "artists": [
         {
           "name": "GERARDO DIAZ Y SU GERARQUIA",
           "url": "https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp"
+        },
+        {
+          "name": "Alemi Bustos",
+          "url": "https://open.spotify.com/artist/0llOGBcrHCKcZrw8mmdDkF"
         }
       ],
-      "duration_ms": 295765,
-      "name": "Recordando A Mi Pueblo",
-      "url": "https://open.spotify.com/track/1vQJbzRxUhQMbcOtTiApy0"
+      "duration_ms": 302282,
+      "name": "El Oro Verde",
+      "url": "https://open.spotify.com/track/7m3QSjfXFbYZzndQCJBwDR"
     },
     {
-      "added_at": "2026-10-16 06:00:39",
+      "added_at": "2026-11-13 06:00:52",
       "album": {
-        "name": "No Volvere",
-        "url": "https://open.spotify.com/album/74ALNbkjAkpXDuuOERdVAV"
+        "name": "De Parranda Con Jorge Garcia",
+        "url": "https://open.spotify.com/album/2lVwzYj3fyF1VrIZSmSgLa"
       },
       "artists": [
         {
@@ -2024,12 +2068,12 @@
           "url": "https://open.spotify.com/artist/77UR8eXyohRSAMyLhYfdxW"
         }
       ],
-      "duration_ms": 176160,
-      "name": "No Volvere",
-      "url": "https://open.spotify.com/track/0D0ji05klGhTc63FeyXDsU"
+      "duration_ms": 155318,
+      "name": "Pu\u00f1o de Tierra",
+      "url": "https://open.spotify.com/track/0AHoNKqYZdcvffUWkmwPcR"
     },
     {
-      "added_at": "2026-10-16 06:00:39",
+      "added_at": "2026-11-13 06:00:52",
       "album": {
         "name": "Puros Corridos Y No Cochadas (En Vivo)",
         "url": "https://open.spotify.com/album/407lhjUhLBjWKwJK4UXXI3"
@@ -2043,42 +2087,6 @@
       "duration_ms": 169226,
       "name": "Yo Ya Sab\u00eda Pa'D\u00f3nde Iba (En Vivo)",
       "url": "https://open.spotify.com/track/6UvzYxfJeEd1cKdYI9w7Gm"
-    },
-    {
-      "added_at": "2026-10-16 06:00:39",
-      "album": {
-        "name": "Te Ves Fatal",
-        "url": "https://open.spotify.com/album/3MDmfTzP6IwC8utr9LKLXH"
-      },
-      "artists": [
-        {
-          "name": "To\u00f1o Y Freddy",
-          "url": "https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw"
-        }
-      ],
-      "duration_ms": 220589,
-      "name": "Te Ves Fatal",
-      "url": "https://open.spotify.com/track/55FXnod2nhT9cRG2dF85gO"
-    },
-    {
-      "added_at": "2026-10-16 06:00:39",
-      "album": {
-        "name": "Canci\u00f3n a mi Pap\u00e1",
-        "url": "https://open.spotify.com/album/2848T5rwOKJwxPElYm1Xls"
-      },
-      "artists": [
-        {
-          "name": "La Dinast\u00eda de Tuzantla Michoac\u00e1n",
-          "url": "https://open.spotify.com/artist/2u7j1pjcNuLlfgiNrByi0R"
-        },
-        {
-          "name": "Los Numero 1",
-          "url": "https://open.spotify.com/artist/5NguftlrG2vteEZ6WVgugW"
-        }
-      ],
-      "duration_ms": 170812,
-      "name": "Canci\u00f3n a mi Pap\u00e1",
-      "url": "https://open.spotify.com/track/5SgNpLaVzP1r2oewqS5DIk"
     }
   ],
   "unique_name": "Tierra Caliente",

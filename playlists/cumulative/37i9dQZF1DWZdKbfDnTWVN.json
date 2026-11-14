@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "The best of bars, beats & rhymes from the 254. Cover: <a href=\"https://open.spotify.com/artist/53nMUZwbwGd2cdY8P8EsHD?si=27c0f2a941944451\"> Toxic Lyrikali</a> ",
+  "description": "The best of bars, beats & rhymes from the 254. Cover: <a href=\"https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az?si=8592444554804216\"> Khaligraph Jones</a> ",
   "name": "254 Flow",
   "tracks": [
     {
@@ -522,6 +522,24 @@
       "duration_ms": 162461,
       "name": "Audio Ngori",
       "url": "https://open.spotify.com/track/3JP47gebAg19MBjI1c2nU5"
+    },
+    {
+      "album": {
+        "name": "Aura Farm",
+        "url": "https://open.spotify.com/album/42SVEFXuzJYqsWIc7AlFQA"
+      },
+      "artists": [
+        {
+          "name": "Khaligraph Jones",
+          "url": "https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194351,
+      "name": "Aura Farm",
+      "url": "https://open.spotify.com/track/1OIn3sQR66QbBQJ7zmR9oq"
     },
     {
       "album": {
@@ -11190,6 +11208,28 @@
       "duration_ms": 198400,
       "name": "Wassup",
       "url": "https://open.spotify.com/track/5yJZO7Hrkpw0dYmmfwKJUm"
+    },
+    {
+      "album": {
+        "name": "Weka Down",
+        "url": "https://open.spotify.com/album/0dlomqnn0SbykVwwmWs9lu"
+      },
+      "artists": [
+        {
+          "name": "Boutross",
+          "url": "https://open.spotify.com/artist/60llzVzPwr1pfNy7qerr7y"
+        },
+        {
+          "name": "Dyana Cods",
+          "url": "https://open.spotify.com/artist/1TMFrPAmqxTK5rVS8ujqMR"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194666,
+      "name": "Weka Down",
+      "url": "https://open.spotify.com/track/4uwiFL4rNy3eQW4l18HikO"
     },
     {
       "album": {

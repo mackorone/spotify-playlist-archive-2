@@ -4120,7 +4120,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 190990,
       "name": "DFAA",
       "url": "https://open.spotify.com/track/6SNtmjAiXXwrmZtPImGWQh"
@@ -7184,6 +7184,24 @@
       "duration_ms": 217760,
       "name": "I Can't Get Started",
       "url": "https://open.spotify.com/track/0kC4Rrdb4B4hAgt3PMoARe"
+    },
+    {
+      "album": {
+        "name": "I close my eyes",
+        "url": "https://open.spotify.com/album/0VoNAmlZX8ZPo1lETuGDvM"
+      },
+      "artists": [
+        {
+          "name": "The Grace Smith Gang",
+          "url": "https://open.spotify.com/artist/3wyD1yWbuRCI7JevgoI5Cv"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233436,
+      "name": "I close my eyes",
+      "url": "https://open.spotify.com/track/4qD7ma71fhuPTUVUeqq5B7"
     },
     {
       "album": {

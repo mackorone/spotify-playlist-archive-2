@@ -4,7 +4,7 @@
 
 > This is Hildur Guðnadóttir\. The essential tracks, all in one playlist.
 
-166 songs - 9 hr 5 min
+167 songs - 9 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Bær \(Version for Orchestra\)](https://open.spotify.com/track/2lztgwnDU4VcRDGbtqUen3) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y), [Deutsches Symphonie\-Orchester Berlin](https://open.spotify.com/artist/49TgMBH68KIFiOmLMoUOWY), [Robert Ames](https://open.spotify.com/artist/0TArUQakaqRxFMynA8vA7q) | [Guðnadóttir: Bær \(Version for Orchestra\)](https://open.spotify.com/album/5VYOH4IDYDNpU8fIdqN2bK) | 3:40 | 2026-06-07 | 2026-07-05 |
 | [Call Me Joker](https://open.spotify.com/track/257SoE95qEweGItCB9Q5rE) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [Joker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/16bF6lLLeVcBNgYNreGjYZ) | 4:48 | 2023-02-01 |  |
 | [Cana](https://open.spotify.com/track/31HQUaMVQCOCLCJhjpHFBX) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y), [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF) | [Mary Magdalene \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5WqyklnAAPQqTO7NmX7XD0) | 1:39 | 2023-02-01 |  |
+| [Casting](https://open.spotify.com/track/0YmcJruYfxDElSA2rMEKRS) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [Origins](https://open.spotify.com/album/1qJWVw8hFQK3z9sg9v2EGE) | 6:30 | 2026-11-14 |  |
 | [Circular](https://open.spotify.com/track/1ekxxoBhV425qGF4x4CFEG) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [Without Sinking](https://open.spotify.com/album/3dhlZW2eiFogQaCNXDaYQQ) | 4:18 | 2026-10-30 | 2026-11-11 |
 | [Clean Up](https://open.spotify.com/track/6dXQxlyj1fMPhX8i7LfP4d) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [Chernobyl \(Music from the Original TV Series\)](https://open.spotify.com/album/5q53mBxAsq77kK9aCHcAtZ) | 1:41 | 2023-10-01 | 2026-01-28 |
 | [Confession](https://open.spotify.com/track/4RaUe35V0kMLeGNtxzuKRz) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [A Haunting in Venice \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/70hJ7Bu9rmyEsHfiuvvBDw) | 8:14 | 2023-09-18 | 2024-11-14 |
@@ -86,7 +87,7 @@
 | [Knock Knock](https://open.spotify.com/track/6UucxLzsAuGqxI9QgLUZMM) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [Joker: Folie à Deux \(Score from the Original Motion Picture Soundtrack\)](https://open.spotify.com/album/33L0JGh1BfqeMJW4vmYWiB) | 1:38 | 2024-11-24 | 2026-02-19 |
 | [Learning How to Act Normal](https://open.spotify.com/track/0voDqz72ORk3JETp1OUZiz) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [Joker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/16bF6lLLeVcBNgYNreGjYZ) | 1:17 | 2023-04-24 | 2024-04-02 |
 | [Leaving](https://open.spotify.com/track/0gcpkg1jdlIbNIwDPrpkiU) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [Women Talking \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2szCjAfILlWcqeExhJcMLX) | 3:41 | 2023-03-09 |  |
-| [Leaving Home](https://open.spotify.com/track/40D2vS5fPUfudDmYp95Bv8) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y), [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF) | [Mary Magdalene \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5WqyklnAAPQqTO7NmX7XD0) | 4:58 | 2023-12-13 |  |
+| [Leaving Home](https://open.spotify.com/track/40D2vS5fPUfudDmYp95Bv8) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y), [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF) | [Mary Magdalene \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5WqyklnAAPQqTO7NmX7XD0) | 4:58 | 2023-12-13 | 2026-11-14 |
 | [Looking for Answers](https://open.spotify.com/track/6CYwk3fy8OPIy4ibjNlNv6) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [Joker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/16bF6lLLeVcBNgYNreGjYZ) | 0:51 | 2025-01-02 | 2025-05-31 |
 | [Love Theme \#1 / You Have an Amazing Vocabulary](https://open.spotify.com/track/50urucdTEs0Fi3038dscuo) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [The Bride! \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5XjFdeM4VwDiSGxSXvs95S) | 1:03 | 2026-03-15 | 2026-04-05 |
 | [Love Theme \#2 / I Don’t Know Where I Live](https://open.spotify.com/track/2z1sa91UooeXW2VIYwVonp) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [The Bride! \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5XjFdeM4VwDiSGxSXvs95S) | 1:25 | 2026-03-14 | 2026-03-25 |

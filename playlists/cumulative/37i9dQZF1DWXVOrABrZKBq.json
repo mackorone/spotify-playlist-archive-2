@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-09",
-  "description": "Les nouveaut\u00e9s rap franco sans fronti\u00e8res. Photo: L2B",
+  "description": "Les nouveaut\u00e9s rap franco sans fronti\u00e8res. Photo: SDM",
   "name": "Rap francophone",
   "tracks": [
     {
@@ -835,6 +835,28 @@
     },
     {
       "album": {
+        "name": "90 JOURS...",
+        "url": "https://open.spotify.com/album/0rY03iI53cUcdEKbc2Jksf"
+      },
+      "artists": [
+        {
+          "name": "La Rumeur",
+          "url": "https://open.spotify.com/artist/0sX9shkpi9yYK65nZCeeiW"
+        },
+        {
+          "name": "Chilly Gonzales",
+          "url": "https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191773,
+      "name": "90 JOURS...",
+      "url": "https://open.spotify.com/track/7jI6DxyjLjOYZgLVc5hfDW"
+    },
+    {
+      "album": {
         "name": "911",
         "url": "https://open.spotify.com/album/67f3PjH1D4jG9wNHaVi7vv"
       },
@@ -1092,6 +1114,32 @@
       "duration_ms": 168000,
       "name": "Alpha",
       "url": "https://open.spotify.com/track/1y7dY7Xu4nWM4SK2dEnoAT"
+    },
+    {
+      "album": {
+        "name": "AMA",
+        "url": "https://open.spotify.com/album/4n4V2UU2hQf2ObphZsHdX0"
+      },
+      "artists": [
+        {
+          "name": "Ultra Stellaire",
+          "url": "https://open.spotify.com/artist/4424fsO0szH3eRd2CYcDiI"
+        },
+        {
+          "name": "A\u00cfSSS",
+          "url": "https://open.spotify.com/artist/4nlOI773uzutrPjm8IRoe4"
+        },
+        {
+          "name": "10.10",
+          "url": "https://open.spotify.com/artist/2ENHtWWAdo7yayG5MOCxKX"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137739,
+      "name": "AMA",
+      "url": "https://open.spotify.com/track/1CoxL7VHuwSOK9zLDWX04n"
     },
     {
       "album": {
@@ -1782,6 +1830,24 @@
       "duration_ms": 227211,
       "name": "Bang",
       "url": "https://open.spotify.com/track/1Cam8hAddVp0uNaUMhUxXD"
+    },
+    {
+      "album": {
+        "name": "Bara (Freestyle)",
+        "url": "https://open.spotify.com/album/1Bd9qZ7Geg4wXDD6W5URhT"
+      },
+      "artists": [
+        {
+          "name": "Guy2Bezbar",
+          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143173,
+      "name": "Bara - Freestyle",
+      "url": "https://open.spotify.com/track/2AOXJs5CMW8ojiwhg3h3Xo"
     },
     {
       "album": {
@@ -2586,7 +2652,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 221617,
       "name": "Bo\u00eete de Pandore",
       "url": "https://open.spotify.com/track/6hWUaB56igWtrjhMUphE5b"
@@ -2728,7 +2794,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 134752,
       "name": "Brokie",
       "url": "https://open.spotify.com/track/2IuiVOploNTYCiJI30PJdw"
@@ -5986,7 +6052,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 182933,
       "name": "Fran\u00e7ois Besse",
       "url": "https://open.spotify.com/track/5U5FsHmXubZJsot12ebXlA"
@@ -6896,7 +6962,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 157808,
       "name": "Houdini",
       "url": "https://open.spotify.com/track/36eROynYI50GOFz71eNi4f"
@@ -7286,6 +7352,24 @@
       "duration_ms": 161690,
       "name": "Invincible",
       "url": "https://open.spotify.com/track/4OzXMWmpGN62KLfdy6jAxF"
+    },
+    {
+      "album": {
+        "name": "KOUL",
+        "url": "https://open.spotify.com/album/5X9CeM2KOYzQS5rdQsNfx0"
+      },
+      "artists": [
+        {
+          "name": "JeanJass",
+          "url": "https://open.spotify.com/artist/11jTIrOwxFOLvhJIdb4FYo"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183320,
+      "name": "J'ai perdu mes AirPods",
+      "url": "https://open.spotify.com/track/4ec2xTgZJXGi4is3z839Yp"
     },
     {
       "album": {
@@ -7714,6 +7798,28 @@
       "duration_ms": 197403,
       "name": "JOYSTICK",
       "url": "https://open.spotify.com/track/30TNVFdZWLIiLHEk0crSoI"
+    },
+    {
+      "album": {
+        "name": "Mentalit\u00e9",
+        "url": "https://open.spotify.com/album/3WpVaLBZAoU1Jh54oCukM5"
+      },
+      "artists": [
+        {
+          "name": "Niro",
+          "url": "https://open.spotify.com/artist/1wAtSe79kItIb9nf5EhI2Q"
+        },
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194080,
+      "name": "JSUIS PLUS DANS \u00c7A (feat. Tiakola)",
+      "url": "https://open.spotify.com/track/07QZlyWuUyYiTx1KOtGqZy"
     },
     {
       "album": {
@@ -8216,7 +8322,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 130169,
       "name": "LA MIF DE LA MIF",
       "url": "https://open.spotify.com/track/0GorhXHgwykKIn0HgYlPdZ"
@@ -10470,7 +10576,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 109714,
       "name": "MTV",
       "url": "https://open.spotify.com/track/1oW5nJWdFUchCuuIG6Tdsi"
@@ -11056,7 +11162,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 216053,
       "name": "Noir pour demain",
       "url": "https://open.spotify.com/track/0qSFgDDJp1SjU2F5QM96wZ"
@@ -13146,6 +13252,24 @@
       "duration_ms": 180107,
       "name": "Quill\u00e9",
       "url": "https://open.spotify.com/track/05tF2Drqpc0hbHyh071354"
+    },
+    {
+      "album": {
+        "name": "Quotidien du bendo",
+        "url": "https://open.spotify.com/album/1Jm6CZ5knUVtsRUWVrQtsK"
+      },
+      "artists": [
+        {
+          "name": "Leto",
+          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195692,
+      "name": "Quotidien du bendo",
+      "url": "https://open.spotify.com/track/610azyMA9SLUG0xk6cy5cR"
     },
     {
       "album": {
@@ -16854,6 +16978,24 @@
       "duration_ms": 147462,
       "name": "\u00c0 tes c\u00f4t\u00e9s",
       "url": "https://open.spotify.com/track/27MfyUGrOwMG6BIofE63N3"
+    },
+    {
+      "album": {
+        "name": "IN INFINITUM",
+        "url": "https://open.spotify.com/album/0TTw79ACe1zYcMGZxuFhM0"
+      },
+      "artists": [
+        {
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187880,
+      "name": "\u00c7A CHAUFFE",
+      "url": "https://open.spotify.com/track/5zj2b4dFoGXkpsxV2BkN5x"
     },
     {
       "album": {

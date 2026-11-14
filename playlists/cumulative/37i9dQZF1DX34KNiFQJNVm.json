@@ -166536,14 +166536,6 @@
         {
           "name": "Danzo",
           "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
-        },
-        {
-          "name": "Canosa",
-          "url": "https://open.spotify.com/artist/66Ybc7VR12qg2BXR0sNEEP"
-        },
-        {
-          "name": "A F\u00d3RMULA",
-          "url": "https://open.spotify.com/artist/2JjWIXlfhneMS1fsx4KW3W"
         }
       ],
       "date_added": "2026-11-13",
@@ -293194,6 +293186,10 @@
         {
           "name": "G Khaliq",
           "url": "https://open.spotify.com/artist/6OBikEKnTRvqmfIgpvZcRP"
+        },
+        {
+          "name": "Ayo Th",
+          "url": "https://open.spotify.com/artist/5peXkFS2EUmRp7Llv7yDty"
         }
       ],
       "date_added": "2026-11-13",
@@ -309194,6 +309190,32 @@
       "duration_ms": 139750,
       "name": "Pescador",
       "url": "https://open.spotify.com/track/7lh8U509mrZauecpXD2wxN"
+    },
+    {
+      "album": {
+        "name": "Pescaria",
+        "url": "https://open.spotify.com/album/78YvrgQ6BgCrv1lXsU7rCp"
+      },
+      "artists": [
+        {
+          "name": "Oreia",
+          "url": "https://open.spotify.com/artist/0473TlzNowswPtN7v5U4Pb"
+        },
+        {
+          "name": "Samantha Machado",
+          "url": "https://open.spotify.com/artist/5qQdzyIlYfzICKOVdb7XvY"
+        },
+        {
+          "name": "Faew",
+          "url": "https://open.spotify.com/artist/2wc2o0xe5pjBkzgMMt3Py9"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "Pescaria",
+      "url": "https://open.spotify.com/track/0c71jg0RxHvw65pwWngrLJ"
     },
     {
       "album": {
@@ -405801,6 +405823,24 @@
     },
     {
       "album": {
+        "name": "Teu Ch\u00e1",
+        "url": "https://open.spotify.com/album/4y04DQl0SP2h9dXW2tr3TT"
+      },
+      "artists": [
+        {
+          "name": "Maneva",
+          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220970,
+      "name": "Teu Ch\u00e1",
+      "url": "https://open.spotify.com/track/43bP9NzEVvkwAN7Kyckkkp"
+    },
+    {
+      "album": {
         "name": "Teu Dom",
         "url": "https://open.spotify.com/album/6aG7HuvZAvgEk8SwonOQBd"
       },
@@ -429108,12 +429148,12 @@
       },
       "artists": [
         {
-          "name": "Carla Sol",
-          "url": "https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN"
-        },
-        {
           "name": "RDO Don Furlani",
           "url": "https://open.spotify.com/artist/6OmLMK8jRyLzHmcO02DPBH"
+        },
+        {
+          "name": "Carla Sol",
+          "url": "https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN"
         },
         {
           "name": "Nill",

@@ -1,12 +1,12 @@
 {
   "description": "This is Teddy Swims. The essential tracks, all in one playlist.",
-  "num_followers": 499225,
+  "num_followers": 499336,
   "original_name": "This Is Teddy Swims",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avOwAAAAAAD89Wn3FtIPMaXy9xcYEew7",
+  "snapshot_id": "avUBgAAAAACYhyRV0yMGjCF8tCBDTpJ4",
   "tracks": [
     {
       "added_at": null,
@@ -335,22 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blinding Lights",
-        "url": "https://open.spotify.com/album/4vh9LW3igRT6NayBnmb8fZ"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 214874,
-      "name": "Blinding Lights",
-      "url": "https://open.spotify.com/track/66aMnwdhkEc1V0AAnyYchX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Break Up in Reverse",
         "url": "https://open.spotify.com/album/1fvk2zesgMji3Izn69EiBg"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 205523,
       "name": "Break Up in Reverse",
       "url": "https://open.spotify.com/track/6XdycV0dqSLTk6oZmKVTL6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blinding Lights",
+        "url": "https://open.spotify.com/album/4vh9LW3igRT6NayBnmb8fZ"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 214874,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/66aMnwdhkEc1V0AAnyYchX"
     },
     {
       "added_at": null,
@@ -555,6 +555,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bed on Fire",
+        "url": "https://open.spotify.com/album/6wSN7NkylN8rRm6Z4QqFTg"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 228507,
+      "name": "Bed on Fire",
+      "url": "https://open.spotify.com/track/5O5ExR5u69CclV8lb24WmV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Broke (feat. Thomas Rhett)",
         "url": "https://open.spotify.com/album/6G1IliLfJTzCkHBvj5idiS"
       },
@@ -591,8 +607,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bed on Fire",
-        "url": "https://open.spotify.com/album/6wSN7NkylN8rRm6Z4QqFTg"
+        "name": "Tough Love",
+        "url": "https://open.spotify.com/album/5DAnXvsWlrq2zTPrjb8rjB"
       },
       "artists": [
         {
@@ -600,9 +616,9 @@
           "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
         }
       ],
-      "duration_ms": 228507,
-      "name": "Bed on Fire",
-      "url": "https://open.spotify.com/track/5O5ExR5u69CclV8lb24WmV"
+      "duration_ms": 175017,
+      "name": "Amazing",
+      "url": "https://open.spotify.com/track/1UlaB17A3XYcsObZaXqUjF"
     },
     {
       "added_at": null,
@@ -619,22 +635,6 @@
       "duration_ms": 206426,
       "name": "Lose Control - Piano Version",
       "url": "https://open.spotify.com/track/7b0fpuq2aRMB9RfcSOWjNW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tough Love",
-        "url": "https://open.spotify.com/album/5DAnXvsWlrq2zTPrjb8rjB"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 175017,
-      "name": "Amazing",
-      "url": "https://open.spotify.com/track/1UlaB17A3XYcsObZaXqUjF"
     },
     {
       "added_at": null,

@@ -2,7 +2,7 @@
 
 ### [Bedroom Pop](https://open.spotify.com/playlist/37i9dQZF1DXcxvFzl58uP7)
 
-> Dreamy melodies and hushed vocals\. Cover: Gabriella Bee
+> Dreamy melodies and hushed vocals\. Cover: Gabriela Bee
 
 1,065 songs - 2 day 7 hr 17 min
 

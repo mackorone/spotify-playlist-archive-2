@@ -3681,6 +3681,24 @@
     },
     {
       "album": {
+        "name": "Campo de Girasoles",
+        "url": "https://open.spotify.com/album/2QQA97xrPYvKz568nb5yZl"
+      },
+      "artists": [
+        {
+          "name": "Sucia elegancia",
+          "url": "https://open.spotify.com/artist/7JgowUBmgLV9RMiICQrS7m"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114944,
+      "name": "Campo de Girasoles",
+      "url": "https://open.spotify.com/track/43FRaLMeHhoyhODDuqIcx4"
+    },
+    {
+      "album": {
         "name": "Candela",
         "url": "https://open.spotify.com/album/1iUBAs3SCKHSI3n5tnTq7j"
       },
@@ -3730,7 +3748,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 302337,
       "name": "Capibara",
       "url": "https://open.spotify.com/track/3G2yOj3za8nfBJxgV0BvNK"
@@ -4182,6 +4200,28 @@
       "duration_ms": 167968,
       "name": "Cham\u00e1n",
       "url": "https://open.spotify.com/track/3bfLsmZWYctP2j2ZrPRGHA"
+    },
+    {
+      "album": {
+        "name": "Check Check",
+        "url": "https://open.spotify.com/album/4mlNcpOUSOFVM74sEHDei5"
+      },
+      "artists": [
+        {
+          "name": "Geassassin",
+          "url": "https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ"
+        },
+        {
+          "name": "Mr. Noviembre",
+          "url": "https://open.spotify.com/artist/5RrvmmDT0DE145hjJ8fQ2L"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228450,
+      "name": "Check Check",
+      "url": "https://open.spotify.com/track/33PqSheIpjTrnbqwg70S4d"
     },
     {
       "album": {
@@ -7415,6 +7455,48 @@
     },
     {
       "album": {
+        "name": "En el 653",
+        "url": "https://open.spotify.com/album/5UH9AI7GMmlYffhOYC5S4T"
+      },
+      "artists": [
+        {
+          "name": "BL Music",
+          "url": "https://open.spotify.com/artist/0G6bTyxYfS79OLbLLApd4L"
+        },
+        {
+          "name": "Jayrick",
+          "url": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
+        },
+        {
+          "name": "EL PM",
+          "url": "https://open.spotify.com/artist/1hIECm6aiJRdSfkrcZsF5j"
+        },
+        {
+          "name": "AMAYUUU",
+          "url": "https://open.spotify.com/artist/40SFO1UiUXnVJ9Zh5xNjnr"
+        },
+        {
+          "name": "Martin PD",
+          "url": "https://open.spotify.com/artist/337Zu8zihSmk9lb5XgKOFw"
+        },
+        {
+          "name": "Chava Leon",
+          "url": "https://open.spotify.com/artist/3TdlDAghvrPCOfkfqo965A"
+        },
+        {
+          "name": "Blont",
+          "url": "https://open.spotify.com/artist/36ZVAEd1lS84PrCtcJICtY"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267586,
+      "name": "En el 653",
+      "url": "https://open.spotify.com/track/1axqRecCt7KbpRWyNXsHiK"
+    },
+    {
+      "album": {
         "name": "En El Alcohol",
         "url": "https://open.spotify.com/album/4mHn5hvQAeW26D7cuE5c1D"
       },
@@ -8150,6 +8232,36 @@
       "duration_ms": 177272,
       "name": "Exceso y Travesuras",
       "url": "https://open.spotify.com/track/1tEujCD2RmP3k7UVJvi0q9"
+    },
+    {
+      "album": {
+        "name": "Exc\u00e9ntrico",
+        "url": "https://open.spotify.com/album/0Pk1o52BO4XSNv7BMOBXyA"
+      },
+      "artists": [
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        },
+        {
+          "name": "Clumsybeatz",
+          "url": "https://open.spotify.com/artist/7rxsnYqEYab8ANeijAGUKy"
+        },
+        {
+          "name": "Cash",
+          "url": "https://open.spotify.com/artist/1zADdEUAvH0EHGiwdhwEtd"
+        },
+        {
+          "name": "Casa Nova",
+          "url": "https://open.spotify.com/artist/6bWviPqPBkwu4FcY2I5C0P"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145396,
+      "name": "Exc\u00e9ntrico",
+      "url": "https://open.spotify.com/track/2RmPfx2YgcHdFUXyqJLXKl"
     },
     {
       "album": {
@@ -9600,7 +9712,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 170842,
       "name": "Hit Me",
       "url": "https://open.spotify.com/track/7Gv2fmKZSXez2miYjE0bp2"
@@ -11390,7 +11502,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 170454,
       "name": "Las Cuentas",
       "url": "https://open.spotify.com/track/0eFzp1ymrkEmYi7seDlaPZ"
@@ -11632,6 +11744,36 @@
       "duration_ms": 252467,
       "name": "Ley del Calent\u00f3n",
       "url": "https://open.spotify.com/track/0hMKglvWw42WIuh75fQ3o6"
+    },
+    {
+      "album": {
+        "name": "Una Sor Juana",
+        "url": "https://open.spotify.com/album/1JDJvbZGyVACBeF8kL7cPE"
+      },
+      "artists": [
+        {
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+        },
+        {
+          "name": "Maniako",
+          "url": "https://open.spotify.com/artist/4XVWGb0bUVdiBhmWbSKSF3"
+        },
+        {
+          "name": "Nuco",
+          "url": "https://open.spotify.com/artist/2FCR4hKgXtEmNCRH8pyENS"
+        },
+        {
+          "name": "Tm Zaiko",
+          "url": "https://open.spotify.com/artist/6rRCboLhCMJPvte1IRHwsl"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252467,
+      "name": "Ley del Calent\u00f3n",
+      "url": "https://open.spotify.com/track/58AFgZWmEyod2ass4g4lHR"
     },
     {
       "album": {
@@ -13482,7 +13624,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 221583,
       "name": "Mi Clero",
       "url": "https://open.spotify.com/track/7LdLq9qpjRDksIQlO5EyAQ"
@@ -15290,7 +15432,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 172826,
       "name": "On My Block",
       "url": "https://open.spotify.com/track/4MX9iY7YCssdz3Zm4YF7lP"
@@ -18268,7 +18410,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 287480,
       "name": "Rudosz (feat. Under Side 821 & Draw)",
       "url": "https://open.spotify.com/track/4bBT7KUr1b4lUCgqDWBdvP"
@@ -21546,6 +21688,28 @@
       "duration_ms": 195000,
       "name": "Uva",
       "url": "https://open.spotify.com/track/191erWRt5RwsJBbFMNjRrw"
+    },
+    {
+      "album": {
+        "name": "Iceweed-Man 2",
+        "url": "https://open.spotify.com/album/6PUxYXHn7Xstnk7qrDmmmh"
+      },
+      "artists": [
+        {
+          "name": "Remik Gonzalez",
+          "url": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
+        },
+        {
+          "name": "Millonario",
+          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171891,
+      "name": "Uy Uy Uy",
+      "url": "https://open.spotify.com/track/5Qq2ohPO3pIs0oWzkQHNTV"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The biggest house bangers popping off in the UK, let's go! Cover: CHRIS STASSY, Interplanetary Criminal
 
-1,614 songs - 3 day 18 hr 41 min
+1,614 songs - 3 day 18 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -314,6 +314,7 @@
 | [Dancing Shoes \(Take Me Higher\)](https://open.spotify.com/track/4RAgh3iVmXwaeNpnOTkoXU) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Dancing Shoes \(Take Me Higher\)](https://open.spotify.com/album/4HlaHUFAikPsEE3VvWIyyK) | 2:34 | 2023-05-18 | 2023-09-22 |
 | [Dancing Together](https://open.spotify.com/track/3s2pe025NN7oLtuRQjr5xO) | [Edd](https://open.spotify.com/artist/2yATHzEnQZ0nO5NCokVTmX) | [Dancing Together](https://open.spotify.com/album/2PTsplTiUl18Z7A9FfVBa2) | 3:45 | 2025-10-02 | 2026-02-06 |
 | [DANGER DANGER \(feat\. Skepta\)](https://open.spotify.com/track/4PyDd3GxUijMVOdJA2IQEG) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [DANGER DANGER \(feat\. Skepta\)](https://open.spotify.com/album/7MUTu0zrGAnszw4SbT8pHx) | 3:00 | 2026-10-01 |  |
+| [Dangerous](https://open.spotify.com/track/15tGq1xOOer8QZ268uBNxG) | [CHRIS STASSY](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [Dangerous](https://open.spotify.com/album/4xM6LyAQYiLa73XcJuD0kU) | 4:46 | 2026-11-13 |  |
 | [Dark & Light](https://open.spotify.com/track/1B0MxvOyEX7xX2zbu9Tiet) | [Fleur Shore](https://open.spotify.com/artist/7GyRA9n7JVslQGcbo72Dil), [FinnUK](https://open.spotify.com/artist/2TA7hWXLBI2huUJnzzNGEn) | [Dark & Light](https://open.spotify.com/album/6TbZihsqWNjwVRr6ITeeKw) | 2:55 | 2026-02-27 | 2026-05-22 |
 | [Darkness](https://open.spotify.com/track/3ERZzeq6sUaKuXy99pfPqL) | [Chris Stussy](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So) | [Darkness](https://open.spotify.com/album/2jkGCQeWIR915WFunR8nDc) | 3:54 | 2026-03-13 | 2026-06-05 |
 | [Daydreamer](https://open.spotify.com/track/3660k2kZKOFOFS8Cv6DkJy) | [KC Lights](https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ), [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0) | [Daydreamer](https://open.spotify.com/album/6B9sxNotNmncxGEPcFzjrF) | 2:40 | 2022-05-13 | 2022-08-26 |
@@ -1469,7 +1470,6 @@
 | [Touch Down \(Feel The Rush\)](https://open.spotify.com/track/7KH2YG1vKtZurTuRg3n19l) | [Mella Dee](https://open.spotify.com/artist/2iT8KIetokMHRjhj8dJuNn), [Storm Mollison](https://open.spotify.com/artist/6GOV6moAmOS8qzIEvjKoVC) | [Touch Down \(Feel The Rush\)](https://open.spotify.com/album/6NbkKbATuGjI6E5vKtYCHI) | 3:16 | 2024-06-14 | 2025-01-31 |
 | [Touching My Body](https://open.spotify.com/track/57PvBFABJ1F5mX69oUt8Yh) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Jammer](https://open.spotify.com/artist/4xgV1UcvsrLM4rQrjTjwNw), [Etta Bond](https://open.spotify.com/artist/0zanHkxN0P38oWegA8iSQA) | [Touching My Body / Down Shovel](https://open.spotify.com/album/6WqDlSi0CRDZWTFjPNxtrI) | 7:10 | 2023-07-06 | 2023-11-10 |
 | [Toxic](https://open.spotify.com/track/6bavRPbVF9voNZ4r6hTgVO) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Ragie Ban](https://open.spotify.com/artist/7lz52Oe1rAo5DwfSRwFsQL) | [Toxic](https://open.spotify.com/album/1dHYU7DWo9jAW6gphowkRn) | 2:44 | 2025-03-28 | 2025-07-25 |
-| [Track 4](https://open.spotify.com/track/15tGq1xOOer8QZ268uBNxG) | [CHRIS STASSY](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So) | [Dangerous](https://open.spotify.com/album/4xM6LyAQYiLa73XcJuD0kU) | 0:00 | 2026-11-13 |  |
 | [Trapped \- Radio\-Edit](https://open.spotify.com/track/7LhaYxesZoZQ8b9WJGuLDx) | [Kolter](https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry) | [What Did You Come For ?](https://open.spotify.com/album/3HK2AgbyXwcMfYBjG2A71e) | 3:41 | 2026-07-09 | 2026-10-23 |
 | [Tremble \(ft\. Kim English\)](https://open.spotify.com/track/4EPlJnDi3cE0V3H5iYjs6M) | [Yolanda Be Cool](https://open.spotify.com/artist/4KkHjCe8ouh8C2P9LPoD4F) | [Tremble \(ft\. Kim English\)](https://open.spotify.com/album/2Fji8FWMOMhF1mLiH5taPF) | 2:42 | 2025-02-21 | 2025-06-27 |
 | [Tribal Badman](https://open.spotify.com/track/6Fvzozbq17iFwej6D0vuOE) | [Ben Sterling](https://open.spotify.com/artist/79uJoLQkQ621xZy7MyH4uL) | [Tribal Badman](https://open.spotify.com/album/6RhN7hwwVezdN1tlOz7sZs) | 3:32 | 2024-07-25 | 2025-03-07 |

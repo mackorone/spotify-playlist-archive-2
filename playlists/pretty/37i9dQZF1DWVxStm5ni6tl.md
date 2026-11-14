@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 
 > The best new music by independent artists and labels in Canada\. Updates every Wednesday\. Cover: Brat Star, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,578 likes - 45 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,580 likes - 45 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 7 | [San Antonio](https://open.spotify.com/track/6XldxnLLshzCBGZp9uLUII) | [Natek](https://open.spotify.com/artist/7fkpO0QrLpyYAhCr7jKpSh) | [In search of ocean](https://open.spotify.com/album/6AUU4IBSYYS4Sx2TcY8tJd) | 2:46 |
 | 8 | [Obinna](https://open.spotify.com/track/2nBl9oYFSaKLz9WOBE8LgS) | [KOTO?](https://open.spotify.com/artist/1N7v8ztld41DN69kQvp0We), [Soft Eyez](https://open.spotify.com/artist/6ojMQVQeJuZ8PGwHoIO4fT) | [SouthSideKnottyHead](https://open.spotify.com/album/5jnQK10gjDDxGQAJEOzMkK) | 2:10 |
 | 9 | [On My Worst Day](https://open.spotify.com/track/2abVA5BzsPcmDVp96NSzPt) | [Kai Banks](https://open.spotify.com/artist/1oshkDo0mvTYNAPKaY9qiP) | [On My Worst Day](https://open.spotify.com/album/1x8ivq83drPuDYbCJRY5dW) | 3:32 |
-| 10 | [Track 3](https://open.spotify.com/track/6zrxzGTyCr751V0RBQ0TYb) | [Jade Monet](https://open.spotify.com/artist/5AE7MlHMoaaPI9VhtYubmT) | [Club Jade Monet](https://open.spotify.com/album/0G9n8yzgBgLZf1iIySIatk) | 0:00 |
+| 10 | [June on Your Skin](https://open.spotify.com/track/6zrxzGTyCr751V0RBQ0TYb) | [Jade Monet](https://open.spotify.com/artist/5AE7MlHMoaaPI9VhtYubmT) | [Club Jade Monet](https://open.spotify.com/album/0G9n8yzgBgLZf1iIySIatk) | 4:47 |
 | 11 | [Saisons](https://open.spotify.com/track/5kMrK5lhPuOrUwnjtgIiLg) | [Aswell](https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc) | [Saisons](https://open.spotify.com/album/09IwKg2UvRi20lV67LKtlk) | 3:11 |
 | 12 | [redstar](https://open.spotify.com/track/7iswvp4cEuvT7C9593N0hE) | [Hockitay](https://open.spotify.com/artist/7bOmAhV9TyYNu90JKLiVGI) | [redstar](https://open.spotify.com/album/0Urk10HzyKwZz3ziPj3dlf) | 4:16 |
 | 13 | [405](https://open.spotify.com/track/2vIPNCjH3Mr9GYSj3Hq5kE) | [Cherrykim](https://open.spotify.com/artist/2oOKucHCVvvG0s9F2AdG8l), [TAKES A VILLAGE](https://open.spotify.com/artist/23nBDuK91u8T5Es8May1Ih) | [cherrytapes, Vol\. 1](https://open.spotify.com/album/5EjpV3LKJdIK9n5cTWOWBD) | 4:45 |

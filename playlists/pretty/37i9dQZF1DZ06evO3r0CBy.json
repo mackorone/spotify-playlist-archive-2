@@ -1,12 +1,12 @@
 {
   "description": "This is Rodr\u00edguez. The essential tracks, all in one playlist.",
-  "num_followers": 44299,
+  "num_followers": 44303,
   "original_name": "This Is Rodr\u00edguez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avOwAAAAAABQiJTr9/90GM7TgV8AiJD6",
+  "snapshot_id": "avUBgAAAAAB6Qno9KuEtb+xY+hUVVHZK",
   "tracks": [
     {
       "added_at": null,
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX"
         }
       ],
-      "duration_ms": 241348,
-      "name": "Somebody to Love",
-      "url": "https://open.spotify.com/track/4Fn8wZW99xxM9SJuKNWvJe"
+      "duration_ms": 152444,
+      "name": "Learnin' the Blues",
+      "url": "https://open.spotify.com/track/29bfyiutyuxsWxoq4h6eN2"
     },
     {
       "added_at": null,
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX"
         }
       ],
-      "duration_ms": 152444,
-      "name": "Learnin' the Blues",
-      "url": "https://open.spotify.com/track/29bfyiutyuxsWxoq4h6eN2"
+      "duration_ms": 241348,
+      "name": "Somebody to Love",
+      "url": "https://open.spotify.com/track/4Fn8wZW99xxM9SJuKNWvJe"
     },
     {
       "added_at": null,

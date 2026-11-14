@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/1pMB5VwjH6fzf8ldHch1IG.md) - [plain]
 
 ### [Trending Now](https://open.spotify.com/playlist/1pMB5VwjH6fzf8ldHch1IG)
 
-> Stream your favourite trending tracks and discover new jams along the way! Cover: Harry Styles.
+> Stream your favourite trending tracks and discover new jams along the way! Cover: Tate McRae.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 41,391 likes - 96 songs - 5 hr 16 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 41,384 likes - 96 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/1pMB5VwjH6fzf8ldHch1IG.md) - [plain]
 | 95 | [Higher](https://open.spotify.com/track/2QdSb68BzZGMgCbsrFmSLc) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [For Broken Ears](https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV) | 3:16 |
 | 96 | [there's no easy way to put this...](https://open.spotify.com/track/6OCCNtYX4xH5CHe3ey2jsB) | [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31) | [there's no easy way to put this...](https://open.spotify.com/album/6rlGBIOV37DbGtL3Ijvx5J) | 3:46 |
 
-Snapshot ID: `AABPyd+yvV2fwMwf4uiA8e5d0lRyzWwy`
+Snapshot ID: `AABPy+txWW34yWBvpUIIJdMxFWqKhQgK`

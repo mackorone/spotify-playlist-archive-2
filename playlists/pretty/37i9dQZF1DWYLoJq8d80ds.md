@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLoJq8d80ds.md) - [plain]
 
 > El campo suena fuerte\. Sumate a la fiesta\. Foto: Angelo Aranda
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,223 likes - 42 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,246 likes - 42 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLoJq8d80ds.md) - [plain]
 | 41 | [Esta Noche Contigo](https://open.spotify.com/track/33ODbW4i7C79jap5HmjaIa) | [Amantes Inocentes](https://open.spotify.com/artist/6R4bupWR3q13uugfJoAojF), [Sergio Galleguillo](https://open.spotify.com/artist/4gQOceTfcyC3AQHUE2gmVt) | [Esta Noche Contigo](https://open.spotify.com/album/6ngwGtxMlW9HNm74OJtQNu) | 3:20 |
 | 42 | [León Herido](https://open.spotify.com/track/1NozLbd1xBSHigq4yWbrJi) | [Grupo Ternura](https://open.spotify.com/artist/1f8KqVQNiSJ95tiWLjTevq), [Chaqueño Palavecino](https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3) | [TERNURA FOLK](https://open.spotify.com/album/6JltHrY2RjHdorEy3bFwye) | 3:56 |
 
-Snapshot ID: `AAAAAALUXMJf0q5xOW55dCUa+BNQv8lT`
+Snapshot ID: `AAAAABB7YOKfMo2/x6X3y+T/PoxG2s5k`

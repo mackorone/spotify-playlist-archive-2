@@ -4,7 +4,7 @@
 
 > This is Linked Horizon\. The essential tracks, all in one playlist.
 
-49 songs - 3 hr 57 min
+50 songs - 4 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [Nikagetsugo no Kimi e](https://open.spotify.com/track/7IMuezAZparajKkgkCMalN) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [Shingeki no Kiseki](https://open.spotify.com/album/24pr7CLiiJk8rUsXcocSA4) | 5:27 | 2022-12-23 | 2026-11-10 |
 | [Nisennen..\. Moshiku wa..\. Nimannen Go no Kimi e](https://open.spotify.com/track/5seGEgJaETjGClu9VAzaUL) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [Shingeki no Kioku](https://open.spotify.com/album/6zWhLRGx9cQ67CQqAKOXKd) | 4:39 | 2026-11-13 |  |
 | [Nisennen..\. Moshiku wa..\. Nimannen Go no Kimi e](https://open.spotify.com/track/4KYO2hnz2vWH0JHJuWypAf) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [Nisennen..\. Moshiku wa..\. Nimannen Go no Kimi e](https://open.spotify.com/album/1jx7pZycE5duql9z0qJNDv) | 4:44 | 2023-12-13 | 2026-11-13 |
-| [Saigo no Kyojin](https://open.spotify.com/track/1iwxWteWfmWb1LekPweXnY) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [Saigo no Kyojin](https://open.spotify.com/album/0aski4Pd2GvDmA6l90Mepg) | 4:00 | 2023-11-10 |  |
+| [Saigo no Kyojin](https://open.spotify.com/track/0xrFv2ZCGupIkrwx4qgbXg) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [Shingeki no Kioku](https://open.spotify.com/album/6zWhLRGx9cQ67CQqAKOXKd) | 3:57 | 2026-11-14 |  |
+| [Saigo no Kyojin](https://open.spotify.com/track/1iwxWteWfmWb1LekPweXnY) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [Saigo no Kyojin](https://open.spotify.com/album/0aski4Pd2GvDmA6l90Mepg) | 4:00 | 2023-11-10 | 2026-11-14 |
 | [Saigo no Senka](https://open.spotify.com/track/6s1vr66o45wiygolreLIfz) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [Shingeki no Kioku](https://open.spotify.com/album/1n7P2hvRS2ntEAhEUj2Peg) | 5:24 | 2024-08-22 | 2024-09-06 |
 | [Seishun wa Hanabi no Youni](https://open.spotify.com/track/7rNCnPglDEZn7pboEo24gC) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [Seishun wa Hanabi no Youni](https://open.spotify.com/album/6LyBed3rgD3tqdWnPUyacK) | 1:33 | 2022-12-23 |  |
 | [Shinzo wo Sasageyo !](https://open.spotify.com/track/5uraJqtCBvLpwt3VeomZdq) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [Shingeki no Kiseki](https://open.spotify.com/album/24pr7CLiiJk8rUsXcocSA4) | 5:41 | 2022-12-23 |  |

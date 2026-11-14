@@ -975,6 +975,24 @@
     },
     {
       "album": {
+        "name": "Reflections (Deluxe)",
+        "url": "https://open.spotify.com/album/7s0wnxn8Ts1NIY4bxtpb2Z"
+      },
+      "artists": [
+        {
+          "name": "From Ashes to New",
+          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215140,
+      "name": "After Death",
+      "url": "https://open.spotify.com/track/6Jfa3hoyqX19Iriw3zVYiH"
+    },
+    {
+      "album": {
         "name": "I Want Blood",
         "url": "https://open.spotify.com/album/1clodpcGPsGi0DAwIUHh8L"
       },
@@ -8155,6 +8173,24 @@
     },
     {
       "album": {
+        "name": "CURRENCY",
+        "url": "https://open.spotify.com/album/2CrI9dZuW8ROrQvfTfqTbA"
+      },
+      "artists": [
+        {
+          "name": "Anberlin",
+          "url": "https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174909,
+      "name": "DISPLACE",
+      "url": "https://open.spotify.com/track/3t3KrvtJoLsC8KSsdaloDg"
+    },
+    {
+      "album": {
         "name": "dissolve",
         "url": "https://open.spotify.com/album/2JtgJbW5X55UrcnNpRnuqE"
       },
@@ -8802,7 +8838,7 @@
       ],
       "date_added": "2026-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 129355,
       "name": "DROP IN",
       "url": "https://open.spotify.com/track/7bymGHODTygJRIgociKouh"
@@ -11748,6 +11784,24 @@
       "duration_ms": 174952,
       "name": "Full Of Emptiness",
       "url": "https://open.spotify.com/track/3FXm6xBVfTY6LQHZQGImpo"
+    },
+    {
+      "album": {
+        "name": "It was only a dream",
+        "url": "https://open.spotify.com/album/22DbAhXhwLN1Q4xkA047OC"
+      },
+      "artists": [
+        {
+          "name": "Amira Elfeky",
+          "url": "https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198093,
+      "name": "Funeral",
+      "url": "https://open.spotify.com/track/35qlLHdXJ60WKwKIryhL0U"
     },
     {
       "album": {
@@ -19342,7 +19396,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 219618,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/2fxVTedZUETGQy0Kcyugil"
@@ -21102,7 +21156,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 182030,
       "name": "MT",
       "url": "https://open.spotify.com/track/4cB1mAoihjW0pp330WKPjE"
@@ -21222,6 +21276,24 @@
       "duration_ms": 301470,
       "name": "My Alibi",
       "url": "https://open.spotify.com/track/3aoeW62XYA7RF45rwyjHE0"
+    },
+    {
+      "album": {
+        "name": "My Confession",
+        "url": "https://open.spotify.com/album/16gYpFpBFyxehLFAMLJCoz"
+      },
+      "artists": [
+        {
+          "name": "MOTHICA",
+          "url": "https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217837,
+      "name": "My Confession",
+      "url": "https://open.spotify.com/track/1Aj1LDKnOrcuI3YmKZ74pf"
     },
     {
       "album": {
@@ -25034,7 +25106,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 172733,
       "name": "Pulling Apart",
       "url": "https://open.spotify.com/track/5uTArNdJCqN7dAw8zyXeY0"
@@ -25146,6 +25218,24 @@
       "duration_ms": 295444,
       "name": "Pure Leaf",
       "url": "https://open.spotify.com/track/0vfvc3X2xjHDMMbjbWQnqo"
+    },
+    {
+      "album": {
+        "name": "Push the River",
+        "url": "https://open.spotify.com/album/3vhapgOEEpYTHTitvs2Nsx"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287325,
+      "name": "Push the River",
+      "url": "https://open.spotify.com/track/0HffjoYID4kfTPHwPcVNvR"
     },
     {
       "album": {
@@ -27122,7 +27212,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 167259,
       "name": "Save Your Roses",
       "url": "https://open.spotify.com/track/7qWKbKxjWIh6Yq0jcba8s2"
@@ -28008,7 +28098,7 @@
       ],
       "date_added": "2026-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 150093,
       "name": "Shedding Season (feat. Courtney LaPlante)",
       "url": "https://open.spotify.com/track/2RO6D7molMZBEdGrnhCK0J"
@@ -28448,7 +28538,7 @@
       ],
       "date_added": "2026-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 278710,
       "name": "Sit With",
       "url": "https://open.spotify.com/track/7gAaTedliEH4NFFjvqpA5H"
@@ -34475,6 +34565,24 @@
     },
     {
       "album": {
+        "name": "v 0 y a g e r",
+        "url": "https://open.spotify.com/album/4hGYBaBnbXjVqJEI9J35xB"
+      },
+      "artists": [
+        {
+          "name": "STARSET",
+          "url": "https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286842,
+      "name": "v 0 y a g e r",
+      "url": "https://open.spotify.com/track/3TwEwFAEwWsNszs1KyygNg"
+    },
+    {
+      "album": {
         "name": "V.A.N",
         "url": "https://open.spotify.com/album/6MjPsfdd67Pm1CIi36YvJM"
       },
@@ -35486,6 +35594,24 @@
       "duration_ms": 195533,
       "name": "WASTED!",
       "url": "https://open.spotify.com/track/6sUmP0L4mbeCBikEzuC078"
+    },
+    {
+      "album": {
+        "name": "Watch Me Break",
+        "url": "https://open.spotify.com/album/42SD0Ruq8nFCzt9aVc4Vv0"
+      },
+      "artists": [
+        {
+          "name": "Staind",
+          "url": "https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211738,
+      "name": "Watch Me Break",
+      "url": "https://open.spotify.com/track/0QXyp4ZuQQDRdnd9TC6PQx"
     },
     {
       "album": {

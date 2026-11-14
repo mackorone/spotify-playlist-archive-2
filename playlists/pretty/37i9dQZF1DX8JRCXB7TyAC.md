@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 
 > Workout with Haryanvi Songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,448 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,503 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 | 38 | [Lath](https://open.spotify.com/track/5qiqDTdWfqwOX4pyPxPmSy) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck), [Addy Nagar](https://open.spotify.com/artist/1DctKQQOA4GfV6Pc9WngX5) | [Lath](https://open.spotify.com/album/1ywwM0y7s8IAhSuePlvvqf) | 3:12 |
 | 39 | [Negative Kirdar](https://open.spotify.com/track/0WIOdDPuuOvEPrQ0loUUEN) | [The LeKhak](https://open.spotify.com/artist/4mXXjQa72yzGxqboQMSqiT), [BAD Junkie](https://open.spotify.com/artist/67PszvnwyV2SVgLAaVqOER) | [Negative Kirdar](https://open.spotify.com/album/1eHRry5jnz4UYymadaCMsm) | 2:44 |
 | 40 | [Pistal Te Mehnga Lehnga](https://open.spotify.com/track/3C1uC6FCTvftY4H9nyFEYB) | [Vinod Sorkhi](https://open.spotify.com/artist/5XseceQa0u43rtE8s2DIoV), [Kay D](https://open.spotify.com/artist/7xThNFckeyb6roLYdLmyEm), [Anjali Raghav](https://open.spotify.com/artist/4tnyxnjCVBlkqaefQ6fgbv) | [Pistal Te Mehnga Lehnga](https://open.spotify.com/album/4KGnfHLFoZ7ZlIT7P5Aa29) | 2:42 |
-| 41 | [BROTHERHOOD](https://open.spotify.com/track/3wFvPbq2unoV7EaQUHMQZ4) | [Naveen Chaudhary](https://open.spotify.com/artist/7mG5Kqg1c8YqOjzxwbmdxB), [OG Sandhu](https://open.spotify.com/artist/6BWgZpr1zVC2EYLpTv8ZVE) | [BROTHERHOOD](https://open.spotify.com/album/7FbUkl3XwYstd8g2xI9tQy) | 2:32 |
-| 42 | [Gym De Shokeen](https://open.spotify.com/track/2Nns0ymEJbIYVrihppq73O) | [Bhallwaan](https://open.spotify.com/artist/3FxW0tkjSNrYa2RvxqNKMG) | [Gym De Shokeen](https://open.spotify.com/album/4NXiyOVXNQ6HwGBpNGDF8b) | 3:45 |
+| 41 | [Gym De Shokeen](https://open.spotify.com/track/2Nns0ymEJbIYVrihppq73O) | [Bhallwaan](https://open.spotify.com/artist/3FxW0tkjSNrYa2RvxqNKMG) | [Gym De Shokeen](https://open.spotify.com/album/4NXiyOVXNQ6HwGBpNGDF8b) | 3:45 |
+| 42 | [BROTHERHOOD](https://open.spotify.com/track/3wFvPbq2unoV7EaQUHMQZ4) | [Naveen Chaudhary](https://open.spotify.com/artist/7mG5Kqg1c8YqOjzxwbmdxB), [OG Sandhu](https://open.spotify.com/artist/6BWgZpr1zVC2EYLpTv8ZVE) | [BROTHERHOOD](https://open.spotify.com/album/7FbUkl3XwYstd8g2xI9tQy) | 2:32 |
 | 43 | [SYSTEM PAAD](https://open.spotify.com/track/5T0zX3YBzgxknRs74X50YM) | [Virat](https://open.spotify.com/artist/3uHCE9eimH5dJx7TLslsmE), [Masoom Sharma](https://open.spotify.com/artist/36iDrP3UnCxsSH9LuSdkDj), [Ashu Twinkle](https://open.spotify.com/artist/5J23fam8Qq5thmzmk91qob), [Vaishali Chaudhary](https://open.spotify.com/artist/1IAz1o1bWqWHYzx0qKoarq) | [SYSTEM PAAD](https://open.spotify.com/album/3mqaU3yGoA1XQXV7dj5t4Z) | 2:35 |
 | 44 | [Kah Diye](https://open.spotify.com/track/1DX4Pj3IGtk7LvcVPC6Eoo) | [Manisha Sharma](https://open.spotify.com/artist/0zVGGSBVti6Dx67hJstvSf), [Bintu Pabra](https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe) | [Kah Diye](https://open.spotify.com/album/0kJS7CuXrnhACry2ULRFhu) | 2:39 |
 | 45 | [Chore Haryane Aale](https://open.spotify.com/track/2YTKohkHJHXgRCut4Ew0HS) | [Elvish Yadav](https://open.spotify.com/artist/7IBZqnYGLR2eOTP3YJ1asp), [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy), [VIRTUAL\_AF](https://open.spotify.com/artist/1Ik6g05IoSfFmpqi4Jg7Kc), [PINNOCIO](https://open.spotify.com/artist/6iNOTxWm3HgwNKL3MhFvzY), [Ankit Baiyanpuria](https://open.spotify.com/artist/1tYgxFs8KyYSXCfQGFsnsu) | [Chore Haryane Aale](https://open.spotify.com/album/7fd96zMwZ0cbsMCmxHyhLf) | 3:27 |

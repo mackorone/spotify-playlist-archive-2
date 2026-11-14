@@ -1,12 +1,12 @@
 {
   "description": "All the New Joints featuring Belly Gang Kushington, Offset, Don Toliver and more!",
-  "num_followers": 397516,
+  "num_followers": 397775,
   "original_name": "New Joints",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAtUbvk8+eN5cxSOdIrAuzI3jLz9",
+  "snapshot_id": "AAAAAIt4ZX3CzYFxRi8o3MUur7S7QS00",
   "tracks": [
     {
       "added_at": "2026-11-13 05:02:06",
@@ -45,7 +45,7 @@
         }
       ],
       "duration_ms": 169759,
-      "name": "Why Not (feat. Quavo & Loe Shimmy)",
+      "name": "Why Not? (feat. Quavo & Loe Shimmy)",
       "url": "https://open.spotify.com/track/3ag3REuwHRHF8kYQffQ8pn"
     },
     {
@@ -117,7 +117,7 @@
         },
         {
           "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         }
       ],
       "duration_ms": 209083,
@@ -191,6 +191,22 @@
       "duration_ms": 204126,
       "name": "DON PISTOLA",
       "url": "https://open.spotify.com/track/00sREMzYzD6EUJ7HfF4EFP"
+    },
+    {
+      "added_at": "2026-11-13 06:54:32",
+      "album": {
+        "name": "Dope Spot",
+        "url": "https://open.spotify.com/album/2lZSmkXb5aiuuXNE8D3C8Q"
+      },
+      "artists": [
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "duration_ms": 181589,
+      "name": "Dope Spot",
+      "url": "https://open.spotify.com/track/0BZssZJPEfc8TQNEM13eH1"
     },
     {
       "added_at": "2026-11-13 05:02:06",
@@ -495,22 +511,6 @@
     {
       "added_at": "2026-11-13 05:02:06",
       "album": {
-        "name": "BROKEN DREAMS",
-        "url": "https://open.spotify.com/album/6UfKFzCTJAb6a5Jn4YLbwG"
-      },
-      "artists": [
-        {
-          "name": "Mozzy",
-          "url": "https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "BROKEN DREAMS",
-      "url": "https://open.spotify.com/track/5FeZbuJbTrv0RaZmXB7IrL"
-    },
-    {
-      "added_at": "2026-11-13 05:02:06",
-      "album": {
         "name": "Envy",
         "url": "https://open.spotify.com/album/1el559uOCtAmvRBLRzPZ3b"
       },
@@ -619,7 +619,7 @@
     {
       "added_at": "2026-11-13 05:02:06",
       "album": {
-        "name": "Yaxel",
+        "name": "YAXEL",
         "url": "https://open.spotify.com/album/4HrIse1J5s07y83K3eIEQO"
       },
       "artists": [
@@ -629,7 +629,7 @@
         }
       ],
       "duration_ms": 138161,
-      "name": "Yaxel",
+      "name": "YAXEL",
       "url": "https://open.spotify.com/track/62RMA69LLfBMPDfrEhxvsf"
     },
     {
@@ -696,12 +696,12 @@
           "url": "https://open.spotify.com/artist/3E7pt4BEY5iDLYFRd6kMXX"
         },
         {
-          "name": "Veeze",
-          "url": "https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7"
-        },
-        {
           "name": "Jorjiana",
           "url": "https://open.spotify.com/artist/3tIDgNCk7FQmTHl7hEj1rF"
+        },
+        {
+          "name": "Veeze",
+          "url": "https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7"
         }
       ],
       "duration_ms": 138698,
@@ -728,7 +728,7 @@
           "url": "https://open.spotify.com/artist/6hrOM3yfx3SEtARzDWMikb"
         }
       ],
-      "duration_ms": 136553,
+      "duration_ms": 167694,
       "name": "Fly Away (with DENM)",
       "url": "https://open.spotify.com/track/09GStEUhuJP4ULcpPlToIa"
     },

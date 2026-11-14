@@ -1,6 +1,6 @@
 {
   "description": "Popronde is een jaarlijks reizend festival in NL met de grootste talenten. Cover: Wilson A.",
-  "num_followers": 2183,
+  "num_followers": 2184,
   "original_name": "Popronde 2026",
   "owner": {
     "name": "Spotify",
@@ -267,18 +267,18 @@
     {
       "added_at": "2026-10-20 11:45:56",
       "album": {
-        "name": "Overdosis",
-        "url": "https://open.spotify.com/album/4sD9uN4l8XvN8NKP56KQn7"
+        "name": "Himel Iepen",
+        "url": "https://open.spotify.com/album/3fyDtT3rsMkqUUh8vr3GY3"
       },
       "artists": [
         {
-          "name": "Marieke Schenk",
-          "url": "https://open.spotify.com/artist/0SYFuJ8cP1yG4Xp88SjEcb"
+          "name": "MAYTE",
+          "url": "https://open.spotify.com/artist/0qSW0N5julVXfIQ3Ql4tHj"
         }
       ],
-      "duration_ms": 160440,
-      "name": "Overdosis",
-      "url": "https://open.spotify.com/track/2mJYFELDxg8soMNjagghDC"
+      "duration_ms": 267840,
+      "name": "Himel Iepen",
+      "url": "https://open.spotify.com/track/6ZPzooqdQ9gddNnor1pGx5"
     },
     {
       "added_at": "2026-10-20 11:45:56",
@@ -299,18 +299,18 @@
     {
       "added_at": "2026-10-20 11:45:56",
       "album": {
-        "name": "Himel Iepen",
-        "url": "https://open.spotify.com/album/3fyDtT3rsMkqUUh8vr3GY3"
+        "name": "Overdosis",
+        "url": "https://open.spotify.com/album/4sD9uN4l8XvN8NKP56KQn7"
       },
       "artists": [
         {
-          "name": "MAYTE",
-          "url": "https://open.spotify.com/artist/0qSW0N5julVXfIQ3Ql4tHj"
+          "name": "Marieke Schenk",
+          "url": "https://open.spotify.com/artist/0SYFuJ8cP1yG4Xp88SjEcb"
         }
       ],
-      "duration_ms": 267840,
-      "name": "Himel Iepen",
-      "url": "https://open.spotify.com/track/6ZPzooqdQ9gddNnor1pGx5"
+      "duration_ms": 160440,
+      "name": "Overdosis",
+      "url": "https://open.spotify.com/track/2mJYFELDxg8soMNjagghDC"
     },
     {
       "added_at": "2026-10-20 11:45:56",
@@ -331,22 +331,6 @@
     {
       "added_at": "2026-10-20 11:45:56",
       "album": {
-        "name": "droook",
-        "url": "https://open.spotify.com/album/5Im5wTrQjU6AN9WkicfSQE"
-      },
-      "artists": [
-        {
-          "name": "theo artz",
-          "url": "https://open.spotify.com/artist/3eiT9L7vDW31nH9ufEL7Nb"
-        }
-      ],
-      "duration_ms": 187075,
-      "name": "droook",
-      "url": "https://open.spotify.com/track/60yHE7YrMcdDqpASoRsVCB"
-    },
-    {
-      "added_at": "2026-10-20 11:45:56",
-      "album": {
         "name": "Holes",
         "url": "https://open.spotify.com/album/0MzBPDnz6TRkL6TqmD68QS"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 231000,
       "name": "Holes",
       "url": "https://open.spotify.com/track/2uJr0wiHkkMYUkesFLkHFT"
+    },
+    {
+      "added_at": "2026-10-20 11:45:56",
+      "album": {
+        "name": "droook",
+        "url": "https://open.spotify.com/album/5Im5wTrQjU6AN9WkicfSQE"
+      },
+      "artists": [
+        {
+          "name": "theo artz",
+          "url": "https://open.spotify.com/artist/3eiT9L7vDW31nH9ufEL7Nb"
+        }
+      ],
+      "duration_ms": 187075,
+      "name": "droook",
+      "url": "https://open.spotify.com/track/60yHE7YrMcdDqpASoRsVCB"
     },
     {
       "added_at": "2026-10-20 11:45:56",
@@ -379,22 +379,6 @@
     {
       "added_at": "2026-10-20 11:45:56",
       "album": {
-        "name": "Sanguine",
-        "url": "https://open.spotify.com/album/1OSX4V98LKS4thRVoBGQ8H"
-      },
-      "artists": [
-        {
-          "name": "Doris Vosters",
-          "url": "https://open.spotify.com/artist/4g4WlP6okyN27pzkAOaT3b"
-        }
-      ],
-      "duration_ms": 226117,
-      "name": "Sanguine",
-      "url": "https://open.spotify.com/track/2jTWvh2TAhkT3eJqH7IuNT"
-    },
-    {
-      "added_at": "2026-10-20 11:45:56",
-      "album": {
         "name": "Kermis",
         "url": "https://open.spotify.com/album/43lAZ9WsCUHPozo3EWo04j"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 179200,
       "name": "Kermis",
       "url": "https://open.spotify.com/track/5vhsP08xaieLY2GFHPS7CT"
+    },
+    {
+      "added_at": "2026-10-20 11:45:56",
+      "album": {
+        "name": "Sanguine",
+        "url": "https://open.spotify.com/album/1OSX4V98LKS4thRVoBGQ8H"
+      },
+      "artists": [
+        {
+          "name": "Doris Vosters",
+          "url": "https://open.spotify.com/artist/4g4WlP6okyN27pzkAOaT3b"
+        }
+      ],
+      "duration_ms": 226117,
+      "name": "Sanguine",
+      "url": "https://open.spotify.com/track/2jTWvh2TAhkT3eJqH7IuNT"
     },
     {
       "added_at": "2026-10-20 11:45:56",
@@ -427,22 +427,6 @@
     {
       "added_at": "2026-10-20 11:45:56",
       "album": {
-        "name": "Into pieces",
-        "url": "https://open.spotify.com/album/78K1eel50Zt0YEqLbGM17J"
-      },
-      "artists": [
-        {
-          "name": "Imme",
-          "url": "https://open.spotify.com/artist/4ifBb8XfcOFkRxVe1FwhtV"
-        }
-      ],
-      "duration_ms": 203190,
-      "name": "Into pieces",
-      "url": "https://open.spotify.com/track/1TpKy1lTWddfoiUqx5LYiZ"
-    },
-    {
-      "added_at": "2026-10-20 11:45:56",
-      "album": {
         "name": "Jongens van het Dorp",
         "url": "https://open.spotify.com/album/2HdI3nwl7qMtOj4XD0SP1c"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 125419,
       "name": "Jongens van het Dorp",
       "url": "https://open.spotify.com/track/7KOKjftx3ceSxiK9mVzIdH"
+    },
+    {
+      "added_at": "2026-10-20 11:45:56",
+      "album": {
+        "name": "Into pieces",
+        "url": "https://open.spotify.com/album/78K1eel50Zt0YEqLbGM17J"
+      },
+      "artists": [
+        {
+          "name": "Imme",
+          "url": "https://open.spotify.com/artist/4ifBb8XfcOFkRxVe1FwhtV"
+        }
+      ],
+      "duration_ms": 203190,
+      "name": "Into pieces",
+      "url": "https://open.spotify.com/track/1TpKy1lTWddfoiUqx5LYiZ"
     },
     {
       "added_at": "2026-10-20 11:45:56",
@@ -587,22 +587,6 @@
     {
       "added_at": "2026-10-20 11:45:56",
       "album": {
-        "name": "Half As Cool",
-        "url": "https://open.spotify.com/album/1fxacv1634svqjhx940BGv"
-      },
-      "artists": [
-        {
-          "name": "SUUS",
-          "url": "https://open.spotify.com/artist/3WjZbDDJa9OtjOVFDhUJJu"
-        }
-      ],
-      "duration_ms": 163147,
-      "name": "Half As Cool",
-      "url": "https://open.spotify.com/track/7qX6xSLgM2MiuxZsBZ7q3M"
-    },
-    {
-      "added_at": "2026-10-20 11:45:56",
-      "album": {
         "name": "In My Head Today",
         "url": "https://open.spotify.com/album/5ApOG5o1JKyDreecmUYIdL"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 148000,
       "name": "In My Head Today",
       "url": "https://open.spotify.com/track/6LvwKP5nY8ESrLTn6TvnkL"
+    },
+    {
+      "added_at": "2026-10-20 11:45:56",
+      "album": {
+        "name": "Half As Cool",
+        "url": "https://open.spotify.com/album/1fxacv1634svqjhx940BGv"
+      },
+      "artists": [
+        {
+          "name": "SUUS",
+          "url": "https://open.spotify.com/artist/3WjZbDDJa9OtjOVFDhUJJu"
+        }
+      ],
+      "duration_ms": 163147,
+      "name": "Half As Cool",
+      "url": "https://open.spotify.com/track/7qX6xSLgM2MiuxZsBZ7q3M"
     },
     {
       "added_at": "2026-10-20 11:45:56",
@@ -691,22 +691,6 @@
     {
       "added_at": "2026-10-20 11:45:56",
       "album": {
-        "name": "Hoofd In De Wolken",
-        "url": "https://open.spotify.com/album/3KXk59vPwSpuXEXd1kXMu0"
-      },
-      "artists": [
-        {
-          "name": "Mees",
-          "url": "https://open.spotify.com/artist/69JBEM02xkpzdC6nuafOiI"
-        }
-      ],
-      "duration_ms": 135374,
-      "name": "Hoofd In De Wolken",
-      "url": "https://open.spotify.com/track/2g8RVR3sdW8tLPI9xJpVdD"
-    },
-    {
-      "added_at": "2026-10-20 11:45:56",
-      "album": {
         "name": "Red Car",
         "url": "https://open.spotify.com/album/0a2L8sKFL6M1bRMAFUVjRo"
       },
@@ -723,6 +707,22 @@
     {
       "added_at": "2026-10-20 11:45:56",
       "album": {
+        "name": "Hoofd In De Wolken",
+        "url": "https://open.spotify.com/album/3KXk59vPwSpuXEXd1kXMu0"
+      },
+      "artists": [
+        {
+          "name": "Mees",
+          "url": "https://open.spotify.com/artist/69JBEM02xkpzdC6nuafOiI"
+        }
+      ],
+      "duration_ms": 135374,
+      "name": "Hoofd In De Wolken",
+      "url": "https://open.spotify.com/track/2g8RVR3sdW8tLPI9xJpVdD"
+    },
+    {
+      "added_at": "2026-10-20 11:45:56",
+      "album": {
         "name": "TWISTED",
         "url": "https://open.spotify.com/album/5sQyC0NPgDoYpR4XcY5dLZ"
       },
@@ -735,22 +735,6 @@
       "duration_ms": 122000,
       "name": "TWISTED",
       "url": "https://open.spotify.com/track/0rxyllC57EkK6YO8iJAv4O"
-    },
-    {
-      "added_at": "2026-10-20 11:45:56",
-      "album": {
-        "name": "Elusive",
-        "url": "https://open.spotify.com/album/3UgScVytbOnforkl8HT2x5"
-      },
-      "artists": [
-        {
-          "name": "Lucy Fabienne",
-          "url": "https://open.spotify.com/artist/2N8YfPuSR8FkNYGoz5mqVv"
-        }
-      ],
-      "duration_ms": 187787,
-      "name": "Elusive",
-      "url": "https://open.spotify.com/track/5vF3crzWldigIceAdkpcNo"
     },
     {
       "added_at": "2026-10-20 11:45:56",
@@ -783,6 +767,22 @@
       "duration_ms": 165899,
       "name": "Ben Het Even Kwijt",
       "url": "https://open.spotify.com/track/2Rj2dPQqQXCYW5GSBDe7zt"
+    },
+    {
+      "added_at": "2026-10-20 11:45:56",
+      "album": {
+        "name": "Elusive",
+        "url": "https://open.spotify.com/album/3UgScVytbOnforkl8HT2x5"
+      },
+      "artists": [
+        {
+          "name": "Lucy Fabienne",
+          "url": "https://open.spotify.com/artist/2N8YfPuSR8FkNYGoz5mqVv"
+        }
+      ],
+      "duration_ms": 187787,
+      "name": "Elusive",
+      "url": "https://open.spotify.com/track/5vF3crzWldigIceAdkpcNo"
     },
     {
       "added_at": "2026-10-20 11:45:56",
@@ -839,22 +839,6 @@
     {
       "added_at": "2026-10-20 11:45:56",
       "album": {
-        "name": "GYL",
-        "url": "https://open.spotify.com/album/6DtUI3NTKbVfwtIE8qkiE5"
-      },
-      "artists": [
-        {
-          "name": "Amazone",
-          "url": "https://open.spotify.com/artist/5G0ANZaJzsikgGl5nZdm46"
-        }
-      ],
-      "duration_ms": 171023,
-      "name": "GYL",
-      "url": "https://open.spotify.com/track/3kExYLXJZm994hkWmQ9TXD"
-    },
-    {
-      "added_at": "2026-10-20 11:45:56",
-      "album": {
         "name": "Crane",
         "url": "https://open.spotify.com/album/4TC16w0nLS3pKMJLJ95oQ7"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 164333,
       "name": "Crane",
       "url": "https://open.spotify.com/track/5eICNslaj4U86WXF1g0fHa"
+    },
+    {
+      "added_at": "2026-10-20 11:45:56",
+      "album": {
+        "name": "GYL",
+        "url": "https://open.spotify.com/album/6DtUI3NTKbVfwtIE8qkiE5"
+      },
+      "artists": [
+        {
+          "name": "Amazone",
+          "url": "https://open.spotify.com/artist/5G0ANZaJzsikgGl5nZdm46"
+        }
+      ],
+      "duration_ms": 171023,
+      "name": "GYL",
+      "url": "https://open.spotify.com/track/3kExYLXJZm994hkWmQ9TXD"
     },
     {
       "added_at": "2026-10-20 11:45:56",
@@ -935,22 +935,6 @@
     {
       "added_at": "2026-10-20 11:45:56",
       "album": {
-        "name": "Odesa Twilight Session (live)",
-        "url": "https://open.spotify.com/album/5xmu7myL5LTNLiSXew1QG2"
-      },
-      "artists": [
-        {
-          "name": "INOYSON",
-          "url": "https://open.spotify.com/artist/5nyFpiqAnifsvfFH199bz5"
-        }
-      ],
-      "duration_ms": 190083,
-      "name": "In My Arms - live",
-      "url": "https://open.spotify.com/track/23Vi9AluCdFYjACTJE4aF5"
-    },
-    {
-      "added_at": "2026-10-20 11:45:56",
-      "album": {
         "name": "Kan Ik Zoveel? / Dingen Mis Met De Auto",
         "url": "https://open.spotify.com/album/5KqpYFAhXnE7EjX9C3yjDC"
       },
@@ -967,18 +951,18 @@
     {
       "added_at": "2026-10-20 11:45:56",
       "album": {
-        "name": "Emotionally Unavailable",
-        "url": "https://open.spotify.com/album/3Yv6jgUjCRCXZU6RPalhw4"
+        "name": "Odesa Twilight Session (live)",
+        "url": "https://open.spotify.com/album/5xmu7myL5LTNLiSXew1QG2"
       },
       "artists": [
         {
-          "name": "L\u00d6NA",
-          "url": "https://open.spotify.com/artist/2mqIDiIehLqZgGyv7JwQA9"
+          "name": "INOYSON",
+          "url": "https://open.spotify.com/artist/5nyFpiqAnifsvfFH199bz5"
         }
       ],
-      "duration_ms": 140275,
-      "name": "Emotionally Unavailable",
-      "url": "https://open.spotify.com/track/2H4law33sBd1HQBNaGkccB"
+      "duration_ms": 190083,
+      "name": "In My Arms - live",
+      "url": "https://open.spotify.com/track/23Vi9AluCdFYjACTJE4aF5"
     },
     {
       "added_at": "2026-10-20 11:45:56",
@@ -995,6 +979,22 @@
       "duration_ms": 201434,
       "name": "leave the party . \u0741\u208a \u22b9 .",
       "url": "https://open.spotify.com/track/3LcQCbXUE7v49SnCRHfEvh"
+    },
+    {
+      "added_at": "2026-10-20 11:45:56",
+      "album": {
+        "name": "Emotionally Unavailable",
+        "url": "https://open.spotify.com/album/3Yv6jgUjCRCXZU6RPalhw4"
+      },
+      "artists": [
+        {
+          "name": "L\u00d6NA",
+          "url": "https://open.spotify.com/artist/2mqIDiIehLqZgGyv7JwQA9"
+        }
+      ],
+      "duration_ms": 140275,
+      "name": "Emotionally Unavailable",
+      "url": "https://open.spotify.com/track/2H4law33sBd1HQBNaGkccB"
     },
     {
       "added_at": "2026-10-20 11:45:56",
@@ -1259,38 +1259,6 @@
     {
       "added_at": "2026-10-20 11:45:56",
       "album": {
-        "name": "dislocated .",
-        "url": "https://open.spotify.com/album/1DMOdYyyqKmSOXgGCnzivT"
-      },
-      "artists": [
-        {
-          "name": "MOR\u00c8L",
-          "url": "https://open.spotify.com/artist/1zDUKnc1MRGN96zvLsHyqq"
-        }
-      ],
-      "duration_ms": 255120,
-      "name": "ozempic tears",
-      "url": "https://open.spotify.com/track/1M7ZH1ENMYja2I40xKDisY"
-    },
-    {
-      "added_at": "2026-10-20 11:45:56",
-      "album": {
-        "name": "Love Thief",
-        "url": "https://open.spotify.com/album/3xMZ7wz3PhInVNCC1eMw0T"
-      },
-      "artists": [
-        {
-          "name": "Nyarko",
-          "url": "https://open.spotify.com/artist/72s7X3AeRHBhWdziRzAZFM"
-        }
-      ],
-      "duration_ms": 135884,
-      "name": "Love Thief",
-      "url": "https://open.spotify.com/track/76qQ0F6b54MnL4FszPMeXk"
-    },
-    {
-      "added_at": "2026-10-20 11:45:56",
-      "album": {
         "name": "CAH",
         "url": "https://open.spotify.com/album/39xFSYTYNTFyoRips5vQTu"
       },
@@ -1307,6 +1275,22 @@
     {
       "added_at": "2026-10-20 11:45:56",
       "album": {
+        "name": "dislocated .",
+        "url": "https://open.spotify.com/album/1DMOdYyyqKmSOXgGCnzivT"
+      },
+      "artists": [
+        {
+          "name": "MOR\u00c8L",
+          "url": "https://open.spotify.com/artist/1zDUKnc1MRGN96zvLsHyqq"
+        }
+      ],
+      "duration_ms": 255120,
+      "name": "ozempic tears",
+      "url": "https://open.spotify.com/track/1M7ZH1ENMYja2I40xKDisY"
+    },
+    {
+      "added_at": "2026-10-20 11:45:56",
+      "album": {
         "name": "paths of sand",
         "url": "https://open.spotify.com/album/2DeJRuaRJcXgbhOF14wbiJ"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 303526,
       "name": "chaos oasis",
       "url": "https://open.spotify.com/track/6nebKidwaw9loPQXtXrg49"
+    },
+    {
+      "added_at": "2026-10-20 11:45:56",
+      "album": {
+        "name": "Love Thief",
+        "url": "https://open.spotify.com/album/3xMZ7wz3PhInVNCC1eMw0T"
+      },
+      "artists": [
+        {
+          "name": "Nyarko",
+          "url": "https://open.spotify.com/artist/72s7X3AeRHBhWdziRzAZFM"
+        }
+      ],
+      "duration_ms": 135884,
+      "name": "Love Thief",
+      "url": "https://open.spotify.com/track/76qQ0F6b54MnL4FszPMeXk"
     },
     {
       "added_at": "2026-10-20 11:45:56",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2026-10-20 11:45:56",
       "album": {
+        "name": "ep1",
+        "url": "https://open.spotify.com/album/6iBPEwVuaVaFOHMbSSCjq0"
+      },
+      "artists": [
+        {
+          "name": "tenderblom",
+          "url": "https://open.spotify.com/artist/4dMNV1VtL3ST2YgEJhzxKl"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "fornow",
+      "url": "https://open.spotify.com/track/480gKBqtmTwVhwexz1how7"
+    },
+    {
+      "added_at": "2026-10-20 11:45:56",
+      "album": {
         "name": "Snakes and Heartbreak(er)s",
         "url": "https://open.spotify.com/album/5xDpr5R9HyJMRqTlwgn2mC"
       },
@@ -1407,34 +1423,18 @@
     {
       "added_at": "2026-10-20 11:45:56",
       "album": {
-        "name": "ep1",
-        "url": "https://open.spotify.com/album/6iBPEwVuaVaFOHMbSSCjq0"
+        "name": "Way You Care (Studio RE:VIVE Session)",
+        "url": "https://open.spotify.com/album/2kN1fblA61FjBvqT6LPnbY"
       },
       "artists": [
         {
-          "name": "tenderblom",
-          "url": "https://open.spotify.com/artist/4dMNV1VtL3ST2YgEJhzxKl"
+          "name": "Brian Murphy",
+          "url": "https://open.spotify.com/artist/3NAh0eiBO8uR6RIz4fGErF"
         }
       ],
-      "duration_ms": 144000,
-      "name": "fornow",
-      "url": "https://open.spotify.com/track/480gKBqtmTwVhwexz1how7"
-    },
-    {
-      "added_at": "2026-10-20 11:45:56",
-      "album": {
-        "name": "Agony",
-        "url": "https://open.spotify.com/album/12p4xTqx8l9wkYQgVFkEJ7"
-      },
-      "artists": [
-        {
-          "name": "Vonder",
-          "url": "https://open.spotify.com/artist/3VTQ7sDwZFlZbr8dccQoI5"
-        }
-      ],
-      "duration_ms": 310015,
-      "name": "Agony",
-      "url": "https://open.spotify.com/track/2YmfhBWkABF1fQURVfPAbH"
+      "duration_ms": 236400,
+      "name": "Way You Care - (Studio RE:VIVE Session)",
+      "url": "https://open.spotify.com/track/0XqryCcUnYRikqxF329RQs"
     },
     {
       "added_at": "2026-10-20 11:45:56",
@@ -1455,18 +1455,18 @@
     {
       "added_at": "2026-10-20 11:45:56",
       "album": {
-        "name": "Way You Care (Studio RE:VIVE Session)",
-        "url": "https://open.spotify.com/album/2kN1fblA61FjBvqT6LPnbY"
+        "name": "Agony",
+        "url": "https://open.spotify.com/album/12p4xTqx8l9wkYQgVFkEJ7"
       },
       "artists": [
         {
-          "name": "Brian Murphy",
-          "url": "https://open.spotify.com/artist/3NAh0eiBO8uR6RIz4fGErF"
+          "name": "Vonder",
+          "url": "https://open.spotify.com/artist/3VTQ7sDwZFlZbr8dccQoI5"
         }
       ],
-      "duration_ms": 236400,
-      "name": "Way You Care - (Studio RE:VIVE Session)",
-      "url": "https://open.spotify.com/track/0XqryCcUnYRikqxF329RQs"
+      "duration_ms": 310015,
+      "name": "Agony",
+      "url": "https://open.spotify.com/track/2YmfhBWkABF1fQURVfPAbH"
     },
     {
       "added_at": "2026-10-20 11:45:56",

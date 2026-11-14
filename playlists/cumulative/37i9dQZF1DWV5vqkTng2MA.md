@@ -4,7 +4,7 @@
 
 > Make it new\. Fresh takes on vintage soul, folk, blues, and roots rock\. Cover: Marfa
 
-373 songs - 22 hr 10 min
+374 songs - 22 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -218,7 +218,7 @@
 | [No Sugar In My Coffee](https://open.spotify.com/track/7KbVuShFCBsTKZQd5RIwYE) | [Caught A Ghost](https://open.spotify.com/artist/2e898fil1F5umrc2LBtV93) | [Human Nature](https://open.spotify.com/album/4qEAS3yOfHikRMdRiPI4Dg) | 3:28 | 2023-09-15 | 2024-04-19 |
 | [No Tengo Valor](https://open.spotify.com/track/16Eou1I5su9dxDKCYAVkmH) | [54 Ultra](https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ) | [No Tengo Valor](https://open.spotify.com/album/7JvcNuFQT1h2e2IcyQUXhL) | 3:02 | 2025-05-09 |  |
 | [Noam Chomsky Is A Soft Revolution](https://open.spotify.com/track/5Hmqw5n7eAG3AOjegIOZF8) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Noam Chomsky Is A Soft Revolution](https://open.spotify.com/album/2vlXUWE82bX5MwmANg6eIO) | 2:28 | 2021-10-01 | 2022-07-28 |
-| [Nobody Sweeter](https://open.spotify.com/track/2f6gJU89sk9FT1ESUpxPG4) | [Grace Love and the True Loves](https://open.spotify.com/artist/2mhd8TVpexvBY0tVkiRiXB) | [Grace Love and the True Loves](https://open.spotify.com/album/30LpiaV6x2Jv89Y2pQrFaK) | 3:03 | 2021-10-01 |  |
+| [Nobody Sweeter](https://open.spotify.com/track/2f6gJU89sk9FT1ESUpxPG4) | [Grace Love and the True Loves](https://open.spotify.com/artist/2mhd8TVpexvBY0tVkiRiXB) | [Grace Love and the True Loves](https://open.spotify.com/album/30LpiaV6x2Jv89Y2pQrFaK) | 3:03 | 2021-10-01 | 2026-11-14 |
 | [Not Yet](https://open.spotify.com/track/3kVWSiAW7f42Lk7csxJ1VN) | [Izaak Opatz](https://open.spotify.com/artist/0ISWBim1mBiZ7bw6tXad3G) | [Mariachi Static](https://open.spotify.com/album/1f7tVn8Ff2Nr3PesnIi9HE) | 3:58 | 2021-10-01 |  |
 | [Numb](https://open.spotify.com/track/7DM3hMeOT4yFdzzLJZiafD) | [Max Jury](https://open.spotify.com/artist/3MuPVbFDynbq9zRTAqjRxi) | [Me Before You \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3WT1mEcabGFCvUWpeN5dtq) | 4:05 | 2022-08-02 | 2022-11-14 |
 | [Numb](https://open.spotify.com/track/70HTUTCkfEgNDvKCzTNnV4) | [Max Jury](https://open.spotify.com/artist/3MuPVbFDynbq9zRTAqjRxi) | [Max Jury](https://open.spotify.com/album/3sGSTThYpx4Udjl0IeuJhZ) | 4:10 | 2022-08-02 | 2024-04-19 |
@@ -264,6 +264,7 @@
 | [River](https://open.spotify.com/track/4B7iMBGmm5woNqs6Oj3GpT) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Mellow Summer](https://open.spotify.com/album/7rdNrR0gVmevOWDO0CO6Xl) | 3:58 | 2022-08-02 | 2022-11-13 |
 | [River](https://open.spotify.com/track/4Lpt72os5stnbqajI8tZz2) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [River](https://open.spotify.com/album/5kw1sYIun4OLLTbgeeDsRz) | 3:58 | 2021-10-01 | 2022-07-29 |
 | [River](https://open.spotify.com/track/3hhbDnFUb2bicI2df6VurK) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Coming Home \(Deluxe\)](https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv) | 4:00 | 2022-06-01 | 2024-04-19 |
+| [Rodeo](https://open.spotify.com/track/4Y3Bv9FEcC472F2uh0Gskr) | [Pale Jay](https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM) | [Rodeo](https://open.spotify.com/album/52y3TL7eXNsdcdffjY6Uu3) | 3:30 | 2026-11-13 |  |
 | [Rolling Over Me](https://open.spotify.com/track/4EEsdIs0QGcO5Dc8QQH3Mm) | [Eddie Berman](https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql) | [Rolling Over Me](https://open.spotify.com/album/63oxuPBkp987wX1y353urb) | 4:49 | 2024-03-01 | 2026-02-09 |
 | [Roses](https://open.spotify.com/track/07g6cdMi6c7gqS3G0mCx4t) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a), [The Marcus King Band](https://open.spotify.com/artist/0tgaHqkU1p7QhBUIzKXVU9) | [Darling Blue / No Room For Blue](https://open.spotify.com/album/735YFXBeIjsdhLzOBwftt4) | 2:43 | 2026-05-01 | 2026-06-06 |
 | [Rotterdam](https://open.spotify.com/track/7JqQ6NFbM6LhOl7OK1XV8X) | [Pokey LaFarge](https://open.spotify.com/artist/6hAUCkzZpoYGObd8qFW5TT) | [Rotterdam](https://open.spotify.com/album/4JJS843bH73FFzM5WHXXrc) | 3:25 | 2021-10-01 | 2022-08-03 |

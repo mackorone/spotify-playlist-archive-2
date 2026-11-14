@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xyAZr9s5Pd.md) - [plain]
 
 > ¡Estos son los nombres que amplifican el sonido indie de los Andes! Foto: Greccia y Sotomonte
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,641 likes - 58 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,650 likes - 58 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

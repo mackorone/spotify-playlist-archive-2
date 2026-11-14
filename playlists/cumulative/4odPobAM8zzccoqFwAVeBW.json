@@ -574,7 +574,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 336809,
       "name": "Actual",
       "url": "https://open.spotify.com/track/40MgGF1lcmSXOXrhJYCLRy"
@@ -848,7 +848,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 380076,
       "name": "Almost A Structure",
       "url": "https://open.spotify.com/track/35m5aGvJv1vZElmwkOFwLg"
@@ -942,7 +942,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 433933,
       "name": "Amalgamate",
       "url": "https://open.spotify.com/track/35RBX89Vhq0KhiJ8JtxWcj"
@@ -1658,7 +1658,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 167946,
       "name": "Beef Down. Fuck Face!",
       "url": "https://open.spotify.com/track/543cI7AIEmbimEmTFtqGUM"
@@ -2376,7 +2376,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 132000,
       "name": "BOWIE",
       "url": "https://open.spotify.com/track/2IlmcajrKigsFzy2Xur1Ay"
@@ -3946,7 +3946,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 246868,
       "name": "Cycle - James Adrian Brown Remix",
       "url": "https://open.spotify.com/track/0NJdkW3lUrbCDVAyswYZU3"
@@ -5268,7 +5268,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 183428,
       "name": "Dropkick",
       "url": "https://open.spotify.com/track/3AAgU8wIU2BWaWvP8Uh8wY"
@@ -5420,6 +5420,24 @@
       "duration_ms": 95975,
       "name": "Eat, Sleep, Repeat",
       "url": "https://open.spotify.com/track/3ToKxExjn3Grsmey7Fd5rd"
+    },
+    {
+      "album": {
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/0eW6LUoWW7TnO40ePwAr00"
+      },
+      "artists": [
+        {
+          "name": "RVLVR",
+          "url": "https://open.spotify.com/artist/2pJjSbBHYs8qr7YHQ5bpHW"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193972,
+      "name": "Echo",
+      "url": "https://open.spotify.com/track/3eLqMUoTdKZlz8Qk2HwvSO"
     },
     {
       "album": {
@@ -5931,6 +5949,24 @@
     },
     {
       "album": {
+        "name": "Phases II: Further Moons",
+        "url": "https://open.spotify.com/album/4112Dw31pvsOXEpqHJoqBr"
+      },
+      "artists": [
+        {
+          "name": "Field Lines Cartographer",
+          "url": "https://open.spotify.com/artist/5DrN1ISL1mmX76CJe5CuZB"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226386,
+      "name": "Exomoon",
+      "url": "https://open.spotify.com/track/5gD0bygDUnPfgHs5GPUpie"
+    },
+    {
+      "album": {
         "name": "EXPECTATIONS",
         "url": "https://open.spotify.com/album/2jqKbELDxzUGyDYCaXKBmi"
       },
@@ -6339,6 +6375,24 @@
     },
     {
       "album": {
+        "name": "Live at ArcTanGent",
+        "url": "https://open.spotify.com/album/47EaqAnqtAp934n8szM7Ek"
+      },
+      "artists": [
+        {
+          "name": "Jo Quail",
+          "url": "https://open.spotify.com/artist/6GvPPPN2Ph0WrBndU8dNWh"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197649,
+      "name": "First Rain - Live at ArcTanGent 2026",
+      "url": "https://open.spotify.com/track/6HaL9X5pzcAkHlOhUVXH2S"
+    },
+    {
+      "album": {
         "name": "Hoarses",
         "url": "https://open.spotify.com/album/1BshDDNBNjDew7LNRm33fZ"
       },
@@ -6535,6 +6589,24 @@
     },
     {
       "album": {
+        "name": "53-74 Music",
+        "url": "https://open.spotify.com/album/5XShOXPMhsFwxV3xojGXVj"
+      },
+      "artists": [
+        {
+          "name": "XAM Duo",
+          "url": "https://open.spotify.com/artist/4gkMjhOHSgudaN161imvTQ"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281668,
+      "name": "Flora & Fauna",
+      "url": "https://open.spotify.com/track/6rBDC7DEkbdYgTsw03U4ah"
+    },
+    {
+      "album": {
         "name": "Fluxstrata",
         "url": "https://open.spotify.com/album/27OMrpVIC6T0DUuo60QwVW"
       },
@@ -6724,6 +6796,24 @@
       "duration_ms": 204901,
       "name": "Forest Mountain Forest",
       "url": "https://open.spotify.com/track/2ZwX6fQVdn8sYhsCavJ4kx"
+    },
+    {
+      "album": {
+        "name": "Forewarning",
+        "url": "https://open.spotify.com/album/4Sj2jqQx7L0fTpagVS90eb"
+      },
+      "artists": [
+        {
+          "name": "Bonnacons Of Doom",
+          "url": "https://open.spotify.com/artist/03FJwfM6N6Z1I20aTb2GAY"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 503428,
+      "name": "Forewarning",
+      "url": "https://open.spotify.com/track/1ZMVJkmahzIBMIxiAGonJK"
     },
     {
       "album": {
@@ -7500,6 +7590,24 @@
       "duration_ms": 208933,
       "name": "Going Through",
       "url": "https://open.spotify.com/track/36OYegU6DfijLaihqxxvfM"
+    },
+    {
+      "album": {
+        "name": "Going To Heaven In A Handcart",
+        "url": "https://open.spotify.com/album/6uvOt9uf2J2chQOrE0YP4m"
+      },
+      "artists": [
+        {
+          "name": "The Blue Aeroplanes",
+          "url": "https://open.spotify.com/artist/4MTSrVgHNfGtYV9pek8vY5"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179680,
+      "name": "Going To Heaven In A Handcart",
+      "url": "https://open.spotify.com/track/31nYgRzYq7Eesy2XKjGMXS"
     },
     {
       "album": {
@@ -8979,6 +9087,24 @@
     },
     {
       "album": {
+        "name": "Yolk",
+        "url": "https://open.spotify.com/album/5u8JBBoCUn1YZS42aE4uKR"
+      },
+      "artists": [
+        {
+          "name": "Mother Church",
+          "url": "https://open.spotify.com/artist/0ZZQNWjQEkwjYJALd5veZ7"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206239,
+      "name": "I'll Not Wander",
+      "url": "https://open.spotify.com/track/3M4s95nYY1MTBqQcAAKI1M"
+    },
+    {
+      "album": {
         "name": "TEKVISION Volume 4",
         "url": "https://open.spotify.com/album/5bRCTKCiFbqfLoQyFyhOe5"
       },
@@ -9086,6 +9212,28 @@
       "duration_ms": 216541,
       "name": "Identity Crisis, Pt. 2",
       "url": "https://open.spotify.com/track/3Jnaaodvv91XhgFaEAVSoc"
+    },
+    {
+      "album": {
+        "name": "Ladybug 3",
+        "url": "https://open.spotify.com/album/2tVgZknK6h7QPiE3ShuIgO"
+      },
+      "artists": [
+        {
+          "name": "The Bug",
+          "url": "https://open.spotify.com/artist/213i4NKah1DX9q0FNiKsuw"
+        },
+        {
+          "name": "Friday Night Plans",
+          "url": "https://open.spotify.com/artist/71YfYiTx6KAZFJfKaNYueQ"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270996,
+      "name": "If - What If Dub",
+      "url": "https://open.spotify.com/track/6NbyAkJm02QeMVx3Rel3jz"
     },
     {
       "album": {
@@ -13740,7 +13888,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 356506,
       "name": "Phi_1700 [u/v]",
       "url": "https://open.spotify.com/track/7lgEdsbbGFAaVua1Z4Xa4Q"
@@ -14607,6 +14755,24 @@
     },
     {
       "album": {
+        "name": "Rebel With A Cause",
+        "url": "https://open.spotify.com/album/0SqWBhefM93VFgzBuSu38P"
+      },
+      "artists": [
+        {
+          "name": "Energy",
+          "url": "https://open.spotify.com/artist/6W2Nkv5UUyRE09iRKijOyH"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284920,
+      "name": "Rebel With A Cause",
+      "url": "https://open.spotify.com/track/5xgTCMYQKWXzwdyLLNWtcD"
+    },
+    {
+      "album": {
         "name": "Red Sulphur",
         "url": "https://open.spotify.com/album/34WuQ3HR45VyfJtknqWpJz"
       },
@@ -14710,6 +14876,24 @@
       "duration_ms": 229350,
       "name": "Relay",
       "url": "https://open.spotify.com/track/3PL4dUCR9RlAPpZ26xTtdr"
+    },
+    {
+      "album": {
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/2KcMQ05O1tG3yVJA7Ls9jj"
+      },
+      "artists": [
+        {
+          "name": "Xicada",
+          "url": "https://open.spotify.com/artist/1PUVM6nPcfd5TELAHJoKA2"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360773,
+      "name": "Remember",
+      "url": "https://open.spotify.com/track/0desiySZoSLi2sRRbdS7Ht"
     },
     {
       "album": {
@@ -15756,7 +15940,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 218362,
       "name": "Severn Flood Plain",
       "url": "https://open.spotify.com/track/7581l4ChlzSAdybje2MPiH"
@@ -15846,7 +16030,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 114548,
       "name": "Shake Sum Action",
       "url": "https://open.spotify.com/track/6b7JWrkwrMfizZo5sc59N0"
@@ -17271,6 +17455,24 @@
     },
     {
       "album": {
+        "name": "Structured Decay",
+        "url": "https://open.spotify.com/album/73B23xTSP4PDmDYFyyVLfG"
+      },
+      "artists": [
+        {
+          "name": "Cellmod",
+          "url": "https://open.spotify.com/artist/0zj0dK1iLwoXHoXecM7Hvr"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392470,
+      "name": "Structured Decay",
+      "url": "https://open.spotify.com/track/79ZNvnHq4NqVmXarCff6cf"
+    },
+    {
+      "album": {
         "name": "Stuck In A Room",
         "url": "https://open.spotify.com/album/58vlwi4l0BJOtsxdRLUdHi"
       },
@@ -17842,6 +18044,24 @@
       "duration_ms": 225360,
       "name": "Tamoo Trance",
       "url": "https://open.spotify.com/track/7rpABUbb0v7xf6wVAkINxE"
+    },
+    {
+      "album": {
+        "name": "Tango N\u2019Vectif (The Complete Sessions)",
+        "url": "https://open.spotify.com/album/1Crq8bAZ114wuFNKyYScKT"
+      },
+      "artists": [
+        {
+          "name": "\u00b5-Ziq",
+          "url": "https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 443426,
+      "name": "Tango N'Vectif - Plib Mix",
+      "url": "https://open.spotify.com/track/52ZgEv1tcOEME4MaiFedLF"
     },
     {
       "album": {
@@ -19910,7 +20130,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 172037,
       "name": "Tranquility",
       "url": "https://open.spotify.com/track/1PnZraIxGSTY4co9GTtdaD"
@@ -20679,6 +20899,24 @@
     },
     {
       "album": {
+        "name": "Winter In A&E",
+        "url": "https://open.spotify.com/album/0qCL231dDTtFG3sAgYXmrX"
+      },
+      "artists": [
+        {
+          "name": "Secrecy",
+          "url": "https://open.spotify.com/artist/0h3r37zrc6ySyVepztxGEC"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215991,
+      "name": "Virgins",
+      "url": "https://open.spotify.com/track/5WeYIha8Qvj7UMfjAetbIU"
+    },
+    {
+      "album": {
         "name": "THE SUB DUB PROTOCOLS",
         "url": "https://open.spotify.com/album/0HHKBkOODJVEoVTn1JKJv1"
       },
@@ -20914,7 +21152,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 204197,
       "name": "Walk Ya Down",
       "url": "https://open.spotify.com/track/5eXH9wkt5cvhwKSqXWFEUX"
@@ -21044,6 +21282,24 @@
       "duration_ms": 178973,
       "name": "Way Home",
       "url": "https://open.spotify.com/track/0bo1qMoClBw91lvfL7JJGQ"
+    },
+    {
+      "album": {
+        "name": "We Are All Pretty Much The Same",
+        "url": "https://open.spotify.com/album/39IuPTJMyPWxTP7yPLmV40"
+      },
+      "artists": [
+        {
+          "name": "Si Begg",
+          "url": "https://open.spotify.com/artist/7nhc8jNe7dTkmv3UIF5iII"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248000,
+      "name": "We Are All Pretty Much The Same",
+      "url": "https://open.spotify.com/track/5iwemUVd1cc7vK0AETl1Mf"
     },
     {
       "album": {
@@ -21507,6 +21763,28 @@
     },
     {
       "album": {
+        "name": "Unreliable Witness (A Straunge And Terrible Wunder Reimagined)",
+        "url": "https://open.spotify.com/album/0OyAU6z7PCnWkzVxsPwqXN"
+      },
+      "artists": [
+        {
+          "name": "The Breedling",
+          "url": "https://open.spotify.com/artist/0NldlxCOpbroIKLIAzfWG2"
+        },
+        {
+          "name": "Feld",
+          "url": "https://open.spotify.com/artist/2vDVJHCnMNJUcFoYO0dY5d"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162332,
+      "name": "Within Teeth - Salthouse Sighting",
+      "url": "https://open.spotify.com/track/7BPAnTYYQPIVXgbN7Z6L5G"
+    },
+    {
+      "album": {
         "name": "Witness Tree",
         "url": "https://open.spotify.com/album/2NwJ6f3hg2xUuzHlSkLPwF"
       },
@@ -21820,7 +22098,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 228986,
       "name": "Young Forever - Sunshine Mix",
       "url": "https://open.spotify.com/track/2mKzyiBPFzwcNRHjmY7yuL"
@@ -21874,7 +22152,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 189346,
       "name": "Zelda",
       "url": "https://open.spotify.com/track/2Kb7V7B1jH5T8uMQmZ8c4z"

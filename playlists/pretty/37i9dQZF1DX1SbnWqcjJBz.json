@@ -1,6 +1,6 @@
 {
   "description": "this should have been her espresso\n\nSee also: <a href=\"spotify:playlist:37i9dQZF1DX7YE2tQ4q86h\">OBSESSED</a>",
-  "num_followers": 139714,
+  "num_followers": 139729,
   "original_name": "Deserved",
   "owner": {
     "name": "Spotify",
@@ -143,22 +143,6 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "Ghost",
-        "url": "https://open.spotify.com/album/0ktookQxpwDrShMBr1U4Sf"
-      },
-      "artists": [
-        {
-          "name": "Sky Ferreira",
-          "url": "https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q"
-        }
-      ],
-      "duration_ms": 249906,
-      "name": "Everything Is Embarrassing",
-      "url": "https://open.spotify.com/track/70v5mCvyPRquTyU7qTIU81"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
         "name": "In Blue",
         "url": "https://open.spotify.com/album/3F8v4omWXxDHrqntA83WJY"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 207506,
       "name": "Breathless",
       "url": "https://open.spotify.com/track/5OQGeJ1ceykovrykZsGhqL"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/0ktookQxpwDrShMBr1U4Sf"
+      },
+      "artists": [
+        {
+          "name": "Sky Ferreira",
+          "url": "https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q"
+        }
+      ],
+      "duration_ms": 249906,
+      "name": "Everything Is Embarrassing",
+      "url": "https://open.spotify.com/track/70v5mCvyPRquTyU7qTIU81"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -1527,6 +1527,26 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
+        "name": "D\u00e9j\u00e0 vu",
+        "url": "https://open.spotify.com/album/09IChrkzmFo9ZZroCRYujr"
+      },
+      "artists": [
+        {
+          "name": "Giorgio Moroder",
+          "url": "https://open.spotify.com/artist/6jU2Tt13MmXYk0ZBv1KmfO"
+        },
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "duration_ms": 212413,
+      "name": "Tom's Diner (feat. Britney Spears)",
+      "url": "https://open.spotify.com/track/73Iz0ppjXiDwgXqXaMd9Xp"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
         "name": "Glorious (Deluxe)",
         "url": "https://open.spotify.com/album/5AQ7uKRSpAv7SNUl4j24ru"
       },
@@ -1555,26 +1575,6 @@
       "duration_ms": 202640,
       "name": "Hair Body Face",
       "url": "https://open.spotify.com/track/16VQqrD8XTaIiJDCMStjxK"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
-        "name": "D\u00e9j\u00e0 vu",
-        "url": "https://open.spotify.com/album/09IChrkzmFo9ZZroCRYujr"
-      },
-      "artists": [
-        {
-          "name": "Giorgio Moroder",
-          "url": "https://open.spotify.com/artist/6jU2Tt13MmXYk0ZBv1KmfO"
-        },
-        {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
-        }
-      ],
-      "duration_ms": 212413,
-      "name": "Tom's Diner (feat. Britney Spears)",
-      "url": "https://open.spotify.com/track/73Iz0ppjXiDwgXqXaMd9Xp"
     },
     {
       "added_at": "2024-06-02 21:23:10",

@@ -1,12 +1,12 @@
 {
   "description": "This is Jordan Davis. The essential tracks, all in one playlist.",
-  "num_followers": 61295,
+  "num_followers": 61298,
   "original_name": "This Is Jordan Davis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avOwAAAAAADZ9grUfenzh9qZLAxNFsZw",
+  "snapshot_id": "avUBgAAAAADRZjjV8UUE+RxE5F/M0igG",
   "tracks": [
     {
       "added_at": null,
@@ -211,22 +211,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bluebird Days",
-        "url": "https://open.spotify.com/album/6izHNYgyKzGdRpYwtYFaaG"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 172853,
-      "name": "Tucson Too Late",
-      "url": "https://open.spotify.com/track/2hNQDbZcN3vqRAuwiz7poI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Home State",
         "url": "https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 193929,
       "name": "Slow Dance In A Parking Lot",
       "url": "https://open.spotify.com/track/6MBUUSIWCzaXW4q58Ktrv9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bluebird Days",
+        "url": "https://open.spotify.com/album/6izHNYgyKzGdRpYwtYFaaG"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 172853,
+      "name": "Tucson Too Late",
+      "url": "https://open.spotify.com/track/2hNQDbZcN3vqRAuwiz7poI"
     },
     {
       "added_at": null,
@@ -699,6 +699,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Trouble Town",
+        "url": "https://open.spotify.com/album/09cYxat6XWP2nb3o1EFNYF"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 184174,
+      "name": "Trouble Town",
+      "url": "https://open.spotify.com/track/7wmCQ3tYnjfk03VuVrsgzr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Among Friends",
         "url": "https://open.spotify.com/album/0hxfUE2sJIElmXKdihbpnT"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 166066,
       "name": "Buy Dirt",
       "url": "https://open.spotify.com/track/0pvwG3L9KMrWFQItEnimaa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Trouble Town",
-        "url": "https://open.spotify.com/album/09cYxat6XWP2nb3o1EFNYF"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 184174,
-      "name": "Trouble Town",
-      "url": "https://open.spotify.com/track/7wmCQ3tYnjfk03VuVrsgzr"
     },
     {
       "added_at": null,

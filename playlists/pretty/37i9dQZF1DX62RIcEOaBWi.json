@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica alegre para que el trabajo se te pase volando.",
-  "num_followers": 569289,
+  "num_followers": 569273,
   "original_name": "En el Trabajo",
   "owner": {
     "name": "Spotify",
@@ -395,22 +395,6 @@
     {
       "added_at": "2026-09-17 16:51:37",
       "album": {
-        "name": "Aretha Now",
-        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 216773,
-      "name": "I Say a Little Prayer",
-      "url": "https://open.spotify.com/track/3NfxSdJnVdon1axzloJgba"
-    },
-    {
-      "added_at": "2026-09-17 16:51:37",
-      "album": {
         "name": "Sleeping With The Past (Remastered with bonus tracks)",
         "url": "https://open.spotify.com/album/0j12QW17dkUCCI7eOAiT1r"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 304133,
       "name": "Sacrifice",
       "url": "https://open.spotify.com/track/0e3yhVeNaTfKIWQRw9U9sY"
+    },
+    {
+      "added_at": "2026-09-17 16:51:37",
+      "album": {
+        "name": "Aretha Now",
+        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 216773,
+      "name": "I Say a Little Prayer",
+      "url": "https://open.spotify.com/track/3NfxSdJnVdon1axzloJgba"
     },
     {
       "added_at": "2026-09-17 16:51:37",
@@ -675,22 +675,6 @@
     {
       "added_at": "2026-09-17 16:51:37",
       "album": {
-        "name": "Donde Hay M\u00fasica (Spanish Version)",
-        "url": "https://open.spotify.com/album/49oNMRzQcMBCqiz03JOQqq"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 265626,
-      "name": "La Cosa Mas Bella",
-      "url": "https://open.spotify.com/track/1EZypwk0xcj64ZLAglhLs2"
-    },
-    {
-      "added_at": "2026-09-17 16:51:37",
-      "album": {
         "name": "Para Cuando Sean Mayores",
         "url": "https://open.spotify.com/album/4ObpOQskrI1sAUEysNy4FG"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 148720,
       "name": "Chiquita",
       "url": "https://open.spotify.com/track/33NgMBpGrhqLcsmWcpSYot"
+    },
+    {
+      "added_at": "2026-09-17 16:51:37",
+      "album": {
+        "name": "Donde Hay M\u00fasica (Spanish Version)",
+        "url": "https://open.spotify.com/album/49oNMRzQcMBCqiz03JOQqq"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 265626,
+      "name": "La Cosa Mas Bella",
+      "url": "https://open.spotify.com/track/1EZypwk0xcj64ZLAglhLs2"
     },
     {
       "added_at": "2026-09-17 16:51:37",
@@ -779,22 +779,6 @@
     {
       "added_at": "2026-09-17 16:51:37",
       "album": {
-        "name": "Depende",
-        "url": "https://open.spotify.com/album/5aLIm5xrN5UxUZOXbjyrrx"
-      },
-      "artists": [
-        {
-          "name": "Jarabe De Palo",
-          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
-        }
-      ],
-      "duration_ms": 254266,
-      "name": "Agua",
-      "url": "https://open.spotify.com/track/5omgFpiMt1CGHjQGfkwzvz"
-    },
-    {
-      "added_at": "2026-09-17 16:51:37",
-      "album": {
         "name": "Tacones Rojos",
         "url": "https://open.spotify.com/album/4mdWMx4VouAqsIqgLt3R6S"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 189320,
       "name": "Tacones Rojos",
       "url": "https://open.spotify.com/track/0Be7sopyKMv8Y8npsUkax2"
+    },
+    {
+      "added_at": "2026-09-17 16:51:37",
+      "album": {
+        "name": "Depende",
+        "url": "https://open.spotify.com/album/5aLIm5xrN5UxUZOXbjyrrx"
+      },
+      "artists": [
+        {
+          "name": "Jarabe De Palo",
+          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
+        }
+      ],
+      "duration_ms": 254266,
+      "name": "Agua",
+      "url": "https://open.spotify.com/track/5omgFpiMt1CGHjQGfkwzvz"
     },
     {
       "added_at": "2026-09-17 16:51:37",
@@ -899,18 +899,22 @@
     {
       "added_at": "2026-09-17 16:51:37",
       "album": {
-        "name": "Lo mas lejos a tu lado",
-        "url": "https://open.spotify.com/album/5ARI6MI0J9CnAqT9vfhd4n"
+        "name": "M\u00e1s De Lo Que Apost\u00e9",
+        "url": "https://open.spotify.com/album/4DAiwXZWP397meKmAG7xaS"
       },
       "artists": [
         {
-          "name": "Fito y Fitipaldis",
-          "url": "https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo"
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        },
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
         }
       ],
-      "duration_ms": 254373,
-      "name": "Soldadito marinero",
-      "url": "https://open.spotify.com/track/0eVborSuxUeSg0meWYd9dZ"
+      "duration_ms": 205031,
+      "name": "M\u00e1s De Lo Que Apost\u00e9",
+      "url": "https://open.spotify.com/track/00QBHaaP4KUcjlmxWriMbC"
     },
     {
       "added_at": "2026-09-17 16:51:37",
@@ -939,22 +943,18 @@
     {
       "added_at": "2026-09-17 16:51:37",
       "album": {
-        "name": "M\u00e1s De Lo Que Apost\u00e9",
-        "url": "https://open.spotify.com/album/4DAiwXZWP397meKmAG7xaS"
+        "name": "Lo mas lejos a tu lado",
+        "url": "https://open.spotify.com/album/5ARI6MI0J9CnAqT9vfhd4n"
       },
       "artists": [
         {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        },
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+          "name": "Fito y Fitipaldis",
+          "url": "https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo"
         }
       ],
-      "duration_ms": 205031,
-      "name": "M\u00e1s De Lo Que Apost\u00e9",
-      "url": "https://open.spotify.com/track/00QBHaaP4KUcjlmxWriMbC"
+      "duration_ms": 254373,
+      "name": "Soldadito marinero",
+      "url": "https://open.spotify.com/track/0eVborSuxUeSg0meWYd9dZ"
     },
     {
       "added_at": "2026-09-17 16:51:37",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2026-09-17 16:51:37",
       "album": {
-        "name": "NI BORRACHO",
-        "url": "https://open.spotify.com/album/56abbxkslQf53jbbIInCD3"
-      },
-      "artists": [
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        }
-      ],
-      "duration_ms": 248440,
-      "name": "NI BORRACHO",
-      "url": "https://open.spotify.com/track/3ltpc2goYCfKT8AbWwqQvc"
-    },
-    {
-      "added_at": "2026-09-17 16:51:37",
-      "album": {
         "name": "Sobrio",
         "url": "https://open.spotify.com/album/0R1Ygba9KBj95maQnUvZm5"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 256320,
       "name": "Si t\u00fa no estas",
       "url": "https://open.spotify.com/track/7CX6W4Mf98wMgX0izqRpAl"
+    },
+    {
+      "added_at": "2026-09-17 16:51:37",
+      "album": {
+        "name": "NI BORRACHO",
+        "url": "https://open.spotify.com/album/56abbxkslQf53jbbIInCD3"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "duration_ms": 248440,
+      "name": "NI BORRACHO",
+      "url": "https://open.spotify.com/track/3ltpc2goYCfKT8AbWwqQvc"
     },
     {
       "added_at": "2026-09-17 16:51:37",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2026-09-17 16:51:37",
       "album": {
-        "name": "Por un Pendejo no se llora",
-        "url": "https://open.spotify.com/album/2EruLTvow64kevFfTRKP6f"
-      },
-      "artists": [
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 151146,
-      "name": "Por un Pendejo no se llora",
-      "url": "https://open.spotify.com/track/4VPl3WGYKxQG8EVis7uLDt"
-    },
-    {
-      "added_at": "2026-09-17 16:51:37",
-      "album": {
         "name": "Tengo",
         "url": "https://open.spotify.com/album/36p7j71sxtF196iOkkAeM0"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 166231,
       "name": "Tengo",
       "url": "https://open.spotify.com/track/71zDsjmPR5XyMcjsl9JpWV"
+    },
+    {
+      "added_at": "2026-09-17 16:51:37",
+      "album": {
+        "name": "Por un Pendejo no se llora",
+        "url": "https://open.spotify.com/album/2EruLTvow64kevFfTRKP6f"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 151146,
+      "name": "Por un Pendejo no se llora",
+      "url": "https://open.spotify.com/track/4VPl3WGYKxQG8EVis7uLDt"
     },
     {
       "added_at": "2026-09-17 16:51:37",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2026-09-17 16:51:37",
       "album": {
-        "name": "Incendios",
-        "url": "https://open.spotify.com/album/2jis8I5ZUWtDqV1E0S0NgR"
-      },
-      "artists": [
-        {
-          "name": "Dani Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC"
-        }
-      ],
-      "duration_ms": 210468,
-      "name": "Bailemos",
-      "url": "https://open.spotify.com/track/5EnaxC9amhXY55ezw87SL8"
-    },
-    {
-      "added_at": "2026-09-17 16:51:37",
-      "album": {
         "name": "La Bella y la Bestia",
         "url": "https://open.spotify.com/album/71i8oV332P87FwYsKeoAsR"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 186359,
       "name": "La Bella y la Bestia",
       "url": "https://open.spotify.com/track/0G0p7mc4wEaQTsUpzEmkEs"
+    },
+    {
+      "added_at": "2026-09-17 16:51:37",
+      "album": {
+        "name": "Incendios",
+        "url": "https://open.spotify.com/album/2jis8I5ZUWtDqV1E0S0NgR"
+      },
+      "artists": [
+        {
+          "name": "Dani Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC"
+        }
+      ],
+      "duration_ms": 210468,
+      "name": "Bailemos",
+      "url": "https://open.spotify.com/track/5EnaxC9amhXY55ezw87SL8"
     },
     {
       "added_at": "2026-09-17 16:51:37",
@@ -1795,22 +1795,18 @@
     {
       "added_at": "2026-09-17 16:51:37",
       "album": {
-        "name": "La Jaur\u00eda",
-        "url": "https://open.spotify.com/album/4cAjvCWbcfaDhuiJxew1Sw"
+        "name": "Desde Mi Azotea",
+        "url": "https://open.spotify.com/album/79Le8lGTHNh1tB8RaY7xPH"
       },
       "artists": [
         {
-          "name": "Dani Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC"
-        },
-        {
-          "name": "Valeria Castro",
-          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+          "name": "Navajita Platea",
+          "url": "https://open.spotify.com/artist/14QPRrwRDAiUhdGC6D3VpE"
         }
       ],
-      "duration_ms": 275848,
-      "name": "\u00bfY si lo hacemos? (feat. Valeria Castro)",
-      "url": "https://open.spotify.com/track/1VamVCJejLZh212lNhygVw"
+      "duration_ms": 247906,
+      "name": "Noches de bohemia - Radio Edit",
+      "url": "https://open.spotify.com/track/1JpZMDDAkfhnrO6nXIQZ2g"
     },
     {
       "added_at": "2026-09-17 16:51:37",
@@ -1831,18 +1827,22 @@
     {
       "added_at": "2026-09-17 16:51:37",
       "album": {
-        "name": "Desde Mi Azotea",
-        "url": "https://open.spotify.com/album/79Le8lGTHNh1tB8RaY7xPH"
+        "name": "La Jaur\u00eda",
+        "url": "https://open.spotify.com/album/4cAjvCWbcfaDhuiJxew1Sw"
       },
       "artists": [
         {
-          "name": "Navajita Platea",
-          "url": "https://open.spotify.com/artist/14QPRrwRDAiUhdGC6D3VpE"
+          "name": "Dani Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC"
+        },
+        {
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
         }
       ],
-      "duration_ms": 247906,
-      "name": "Noches de bohemia - Radio Edit",
-      "url": "https://open.spotify.com/track/1JpZMDDAkfhnrO6nXIQZ2g"
+      "duration_ms": 275848,
+      "name": "\u00bfY si lo hacemos? (feat. Valeria Castro)",
+      "url": "https://open.spotify.com/track/1VamVCJejLZh212lNhygVw"
     },
     {
       "added_at": "2026-09-17 16:51:37",
@@ -1979,22 +1979,6 @@
     {
       "added_at": "2026-09-17 16:51:37",
       "album": {
-        "name": "Follow You / Cutthroat",
-        "url": "https://open.spotify.com/album/1nz0PWfAcTQVbFtpU6u1UY"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 175643,
-      "name": "Follow You",
-      "url": "https://open.spotify.com/track/7FdUvDkaE24o3FPIWTvzv2"
-    },
-    {
-      "added_at": "2026-09-17 16:51:37",
-      "album": {
         "name": "Let's Love",
         "url": "https://open.spotify.com/album/4t9C75dy0UtR4JE7vNYQRr"
       },
@@ -2011,6 +1995,22 @@
       "duration_ms": 200645,
       "name": "Let's Love",
       "url": "https://open.spotify.com/track/6lhZLbb0czULpjb2kFryPS"
+    },
+    {
+      "added_at": "2026-09-17 16:51:37",
+      "album": {
+        "name": "Follow You / Cutthroat",
+        "url": "https://open.spotify.com/album/1nz0PWfAcTQVbFtpU6u1UY"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 175643,
+      "name": "Follow You",
+      "url": "https://open.spotify.com/track/7FdUvDkaE24o3FPIWTvzv2"
     },
     {
       "added_at": "2026-09-17 16:51:37",
@@ -2079,22 +2079,6 @@
     {
       "added_at": "2026-09-17 16:51:37",
       "album": {
-        "name": "Canciones",
-        "url": "https://open.spotify.com/album/42Gjhf7f1h2dKvWTKDHd90"
-      },
-      "artists": [
-        {
-          "name": "Duncan Dhu",
-          "url": "https://open.spotify.com/artist/2MLHBMApNE5h8wIufiTPs7"
-        }
-      ],
-      "duration_ms": 169773,
-      "name": "Cien gaviotas",
-      "url": "https://open.spotify.com/track/020Gj87SqDRvzGHELzcCEc"
-    },
-    {
-      "added_at": "2026-09-17 16:51:37",
-      "album": {
         "name": "Canciones para el tiempo y la distancia",
         "url": "https://open.spotify.com/album/6684lqRy7QCfQCNVc4Ohxp"
       },
@@ -2107,6 +2091,22 @@
       "duration_ms": 278333,
       "name": "Turnedo",
       "url": "https://open.spotify.com/track/541hgOF71B92Jpg4IU6kyx"
+    },
+    {
+      "added_at": "2026-09-17 16:51:37",
+      "album": {
+        "name": "Canciones",
+        "url": "https://open.spotify.com/album/42Gjhf7f1h2dKvWTKDHd90"
+      },
+      "artists": [
+        {
+          "name": "Duncan Dhu",
+          "url": "https://open.spotify.com/artist/2MLHBMApNE5h8wIufiTPs7"
+        }
+      ],
+      "duration_ms": 169773,
+      "name": "Cien gaviotas",
+      "url": "https://open.spotify.com/track/020Gj87SqDRvzGHELzcCEc"
     },
     {
       "added_at": "2026-09-17 16:51:37",
@@ -2211,6 +2211,22 @@
     {
       "added_at": "2026-09-17 16:51:37",
       "album": {
+        "name": "Sintiendonos La Piel",
+        "url": "https://open.spotify.com/album/4Zq9UhyMTcrEhvQx0Gm2TX"
+      },
+      "artists": [
+        {
+          "name": "Sergio Dalma",
+          "url": "https://open.spotify.com/artist/7x6XYw3yCC67Pizi4o0wvZ"
+        }
+      ],
+      "duration_ms": 276640,
+      "name": "Bailar Pegados",
+      "url": "https://open.spotify.com/track/4QkQmdvFjEVvjc1ONi6t6N"
+    },
+    {
+      "added_at": "2026-09-17 16:51:37",
+      "album": {
         "name": "Resistir\u00e9",
         "url": "https://open.spotify.com/album/1j7umFpzCWkkjLFJVQBObO"
       },
@@ -2303,18 +2319,18 @@
     {
       "added_at": "2026-09-17 16:51:37",
       "album": {
-        "name": "Sintiendonos La Piel",
-        "url": "https://open.spotify.com/album/4Zq9UhyMTcrEhvQx0Gm2TX"
+        "name": "Amiga Date Cuenta",
+        "url": "https://open.spotify.com/album/33N7FXx1MlXodnPkCoNDNn"
       },
       "artists": [
         {
-          "name": "Sergio Dalma",
-          "url": "https://open.spotify.com/artist/7x6XYw3yCC67Pizi4o0wvZ"
+          "name": "MARLENA",
+          "url": "https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y"
         }
       ],
-      "duration_ms": 276640,
-      "name": "Bailar Pegados",
-      "url": "https://open.spotify.com/track/4QkQmdvFjEVvjc1ONi6t6N"
+      "duration_ms": 142516,
+      "name": "Amiga Date Cuenta",
+      "url": "https://open.spotify.com/track/4ydC91kRqtm2ZVVcC77cWz"
     },
     {
       "added_at": "2026-09-17 16:51:37",
@@ -2335,22 +2351,6 @@
       "duration_ms": 165230,
       "name": "LAS 12",
       "url": "https://open.spotify.com/track/0EpdLuptraYGFZ6J7HNSLc"
-    },
-    {
-      "added_at": "2026-09-17 16:51:37",
-      "album": {
-        "name": "Amiga Date Cuenta",
-        "url": "https://open.spotify.com/album/33N7FXx1MlXodnPkCoNDNn"
-      },
-      "artists": [
-        {
-          "name": "MARLENA",
-          "url": "https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y"
-        }
-      ],
-      "duration_ms": 142516,
-      "name": "Amiga Date Cuenta",
-      "url": "https://open.spotify.com/track/4ydC91kRqtm2ZVVcC77cWz"
     },
     {
       "added_at": "2026-09-17 16:51:37",
@@ -2411,6 +2411,26 @@
     {
       "added_at": "2026-09-17 16:51:37",
       "album": {
+        "name": "Vestidos De Domingo",
+        "url": "https://open.spotify.com/album/3ASW0wki9GC0PB5CTyOaLA"
+      },
+      "artists": [
+        {
+          "name": "La Cabra Mecanica",
+          "url": "https://open.spotify.com/artist/1g2kmC27Pg8fcsT3O9ecje"
+        },
+        {
+          "name": "Mar\u00eda Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/3xg8yTZPuoRF0uFGl1O0FS"
+        }
+      ],
+      "duration_ms": 221373,
+      "name": "La lista de la compra (feat. Mar\u00eda Jim\u00e9nez)",
+      "url": "https://open.spotify.com/track/6htAV9HKCmoDdyyvDNX9DQ"
+    },
+    {
+      "added_at": "2026-09-17 16:51:37",
+      "album": {
         "name": "L\u00e1rgate",
         "url": "https://open.spotify.com/album/4ae7YIU9iWRBCCV7I23Nit"
       },
@@ -2443,26 +2463,6 @@
     {
       "added_at": "2026-09-17 16:51:37",
       "album": {
-        "name": "Vestidos De Domingo",
-        "url": "https://open.spotify.com/album/3ASW0wki9GC0PB5CTyOaLA"
-      },
-      "artists": [
-        {
-          "name": "La Cabra Mecanica",
-          "url": "https://open.spotify.com/artist/1g2kmC27Pg8fcsT3O9ecje"
-        },
-        {
-          "name": "Mar\u00eda Jim\u00e9nez",
-          "url": "https://open.spotify.com/artist/3xg8yTZPuoRF0uFGl1O0FS"
-        }
-      ],
-      "duration_ms": 221373,
-      "name": "La lista de la compra (feat. Mar\u00eda Jim\u00e9nez)",
-      "url": "https://open.spotify.com/track/6htAV9HKCmoDdyyvDNX9DQ"
-    },
-    {
-      "added_at": "2026-09-17 16:51:37",
-      "album": {
         "name": "B\u00e9same",
         "url": "https://open.spotify.com/album/0jmILM3yDH04Forg1iU1Kl"
       },
@@ -2483,22 +2483,6 @@
     {
       "added_at": "2026-09-17 16:51:37",
       "album": {
-        "name": "El Bien",
-        "url": "https://open.spotify.com/album/2N4aZQEcXjpkZFfHoQAVA4"
-      },
-      "artists": [
-        {
-          "name": "Viva Suecia",
-          "url": "https://open.spotify.com/artist/57s0ep3eNSg81D7ZxiuHbC"
-        }
-      ],
-      "duration_ms": 206226,
-      "name": "El Bien",
-      "url": "https://open.spotify.com/track/2y7b6A4hhl3ysYlU2kztGD"
-    },
-    {
-      "added_at": "2026-09-17 16:51:37",
-      "album": {
         "name": "Nuclear",
         "url": "https://open.spotify.com/album/1T2uKSyUf7DBWOABtsmYLM"
       },
@@ -2511,6 +2495,22 @@
       "duration_ms": 229406,
       "name": "No Te Preocupes por Mi",
       "url": "https://open.spotify.com/track/7hv7synVPhVu30Ex2amJQc"
+    },
+    {
+      "added_at": "2026-09-17 16:51:37",
+      "album": {
+        "name": "El Bien",
+        "url": "https://open.spotify.com/album/2N4aZQEcXjpkZFfHoQAVA4"
+      },
+      "artists": [
+        {
+          "name": "Viva Suecia",
+          "url": "https://open.spotify.com/artist/57s0ep3eNSg81D7ZxiuHbC"
+        }
+      ],
+      "duration_ms": 206226,
+      "name": "El Bien",
+      "url": "https://open.spotify.com/track/2y7b6A4hhl3ysYlU2kztGD"
     },
     {
       "added_at": "2026-09-17 16:51:37",

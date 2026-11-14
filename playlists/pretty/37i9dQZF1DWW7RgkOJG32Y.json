@@ -1,15 +1,31 @@
 {
-  "description": "Trending for a reason - the home of country's future monster hits. Cover: Brandon Lake",
-  "num_followers": 679895,
+  "description": "Trending for a reason - the home of country's future monster hits. Cover: Megan Moroney",
+  "num_followers": 680008,
   "original_name": "Breakout Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAO0Ts78VQnmXh7/vXnSyJhYEDW0P",
+  "snapshot_id": "AAAAAGzqqwyARxIhOAF5FomhO8jm2W4P",
   "tracks": [
     {
-      "added_at": "2026-10-16 04:01:06",
+      "added_at": "2026-11-13 05:01:59",
+      "album": {
+        "name": "You for Me (Smoky Mountain Demo)",
+        "url": "https://open.spotify.com/album/0ApKQYf6MjrLI4WN5Wf7iY"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "duration_ms": 198675,
+      "name": "You for Me - Smoky Mountain Demo",
+      "url": "https://open.spotify.com/track/4dxPIzzrYDqrfAlaiCFaVI"
+    },
+    {
+      "added_at": "2026-11-13 05:01:59",
       "album": {
         "name": "Take Me Back (Leave Me There)",
         "url": "https://open.spotify.com/album/0RpCm1c0cVxRZ8C6wrKho3"
@@ -25,7 +41,23 @@
       "url": "https://open.spotify.com/track/5hb2X5SnGfVnNQyqAWJCch"
     },
     {
-      "added_at": "2026-10-16 04:01:06",
+      "added_at": "2026-11-13 05:01:59",
+      "album": {
+        "name": "Dying In This House",
+        "url": "https://open.spotify.com/album/2RnDoWbeBUohjqVR8CZzQw"
+      },
+      "artists": [
+        {
+          "name": "Mack Geiger",
+          "url": "https://open.spotify.com/artist/1ylRveckaItA2kOhQh8rnQ"
+        }
+      ],
+      "duration_ms": 247480,
+      "name": "Dying In This House",
+      "url": "https://open.spotify.com/track/3K33BYes6bVzZAsCiavBVT"
+    },
+    {
+      "added_at": "2026-11-13 05:01:59",
       "album": {
         "name": "Imagine That",
         "url": "https://open.spotify.com/album/68ZuaQ3UjPkEfaSNBhwjKX"
@@ -41,7 +73,7 @@
       "url": "https://open.spotify.com/track/6ENZYKXPoqa5qOcb24pnR7"
     },
     {
-      "added_at": "2026-10-23 04:01:36",
+      "added_at": "2026-11-13 05:01:59",
       "album": {
         "name": "Changing",
         "url": "https://open.spotify.com/album/6cyVRxzCRWl1RJoEILIM7A"
@@ -57,7 +89,7 @@
       "url": "https://open.spotify.com/track/4uqhnuKU2p6iFCXQwzNJox"
     },
     {
-      "added_at": "2026-10-16 04:01:06",
+      "added_at": "2026-11-13 05:01:59",
       "album": {
         "name": "Kinda Love It",
         "url": "https://open.spotify.com/album/1m3Jun2PjCQAOL72bBExnT"
@@ -73,7 +105,7 @@
       "url": "https://open.spotify.com/track/49uiGJL2F4Nj56cCLCQG4W"
     },
     {
-      "added_at": "2026-10-16 04:01:06",
+      "added_at": "2026-11-13 05:01:59",
       "album": {
         "name": "Been By Now",
         "url": "https://open.spotify.com/album/2CW0gIlEO8iQBUdtRyxnb4"
@@ -89,7 +121,7 @@
       "url": "https://open.spotify.com/track/3xwMjQriBVW0OGEvNKo9c0"
     },
     {
-      "added_at": "2026-10-16 04:01:06",
+      "added_at": "2026-11-13 05:01:59",
       "album": {
         "name": "Bet On That",
         "url": "https://open.spotify.com/album/3FHP2epbEekzQgGe3jHegf"
@@ -105,7 +137,7 @@
       "url": "https://open.spotify.com/track/7DOqRPa9Z5jEHRdo3zyLPo"
     },
     {
-      "added_at": "2026-10-16 04:01:06",
+      "added_at": "2026-11-13 05:01:59",
       "album": {
         "name": "The Day I Hang It Up",
         "url": "https://open.spotify.com/album/73CYSEv0ceeSLgJ8vyqKHi"
@@ -125,7 +157,7 @@
       "url": "https://open.spotify.com/track/2AcF4plsR1Fz1JUMygpVPM"
     },
     {
-      "added_at": "2026-10-16 04:01:06",
+      "added_at": "2026-11-13 05:01:59",
       "album": {
         "name": "Last Thing You Need (from GTAVI: The Album)",
         "url": "https://open.spotify.com/album/3yYy3Vpqpxz2WxRIjMtuls"
@@ -145,7 +177,23 @@
       "url": "https://open.spotify.com/track/5qGziX9216V8hKJjGg8RtH"
     },
     {
-      "added_at": "2026-10-16 04:01:06",
+      "added_at": "2026-11-13 05:01:59",
+      "album": {
+        "name": "Chrome Pony",
+        "url": "https://open.spotify.com/album/0NhxATfJ9luYFiQ8xzy0S4"
+      },
+      "artists": [
+        {
+          "name": "Kassi Ashton",
+          "url": "https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg"
+        }
+      ],
+      "duration_ms": 204444,
+      "name": "Chrome Pony",
+      "url": "https://open.spotify.com/track/3W4TmuyzcMWz3iyVhCMmm2"
+    },
+    {
+      "added_at": "2026-11-13 05:01:59",
       "album": {
         "name": "That's Just Me",
         "url": "https://open.spotify.com/album/0r9Hj4BldU2MjInQLgOPH6"
@@ -161,7 +209,7 @@
       "url": "https://open.spotify.com/track/072iLfHsfsEeGAgJY72Y8S"
     },
     {
-      "added_at": "2026-10-23 04:01:36",
+      "added_at": "2026-11-13 05:01:59",
       "album": {
         "name": "Young Manhood and Other Donatable Organs",
         "url": "https://open.spotify.com/album/22sKPJ4HaJbLghwRQXac1u"
@@ -177,7 +225,23 @@
       "url": "https://open.spotify.com/track/1mzJsnHWXIthrJQKwe8Yci"
     },
     {
-      "added_at": "2026-10-16 04:01:06",
+      "added_at": "2026-11-13 05:01:59",
+      "album": {
+        "name": "Outlier",
+        "url": "https://open.spotify.com/album/79zGm562qzMTvoxJtoHRn5"
+      },
+      "artists": [
+        {
+          "name": "Sam Barber",
+          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
+        }
+      ],
+      "duration_ms": 224601,
+      "name": "Good Faith",
+      "url": "https://open.spotify.com/track/57QLRAvrHOIkoU8yAU5WnZ"
+    },
+    {
+      "added_at": "2026-11-13 05:01:59",
       "album": {
         "name": "Long Life Living for a Lover Boy",
         "url": "https://open.spotify.com/album/4lIiHjzHxg70JRERaRIqu8"
@@ -193,7 +257,7 @@
       "url": "https://open.spotify.com/track/1aHyyc7V0M3CdkVeaWSAkP"
     },
     {
-      "added_at": "2026-10-16 04:01:06",
+      "added_at": "2026-11-13 05:01:59",
       "album": {
         "name": "What Do I Do If You Don't",
         "url": "https://open.spotify.com/album/1rfUYX7kRfZQ9nxCAX87ZQ"
@@ -209,7 +273,7 @@
       "url": "https://open.spotify.com/track/6ZZKX4n0HvL7PRYXAeEFSC"
     },
     {
-      "added_at": "2026-10-16 04:01:06",
+      "added_at": "2026-11-13 05:01:59",
       "album": {
         "name": "Closing Time",
         "url": "https://open.spotify.com/album/4M14ePO4UooHzwWZNh2XPl"
@@ -229,7 +293,7 @@
       "url": "https://open.spotify.com/track/2ROIH7TfO1dpBX6O3PPjBw"
     },
     {
-      "added_at": "2026-10-16 04:01:06",
+      "added_at": "2026-11-13 05:01:59",
       "album": {
         "name": "Overrated",
         "url": "https://open.spotify.com/album/4rZXNKlNmP7tdTRJXt4PSe"
@@ -249,7 +313,7 @@
       "url": "https://open.spotify.com/track/6B0SRCqeUHWQW9iqoglcpR"
     },
     {
-      "added_at": "2026-10-16 04:01:06",
+      "added_at": "2026-11-13 05:01:59",
       "album": {
         "name": "Man In The Box",
         "url": "https://open.spotify.com/album/2CQFvTG8XLK4G4tdJn3uLx"
@@ -265,71 +329,7 @@
       "url": "https://open.spotify.com/track/3PQkKNk8QSMfi4C6i14Xeh"
     },
     {
-      "added_at": "2026-10-16 04:01:06",
-      "album": {
-        "name": "Chrome Pony",
-        "url": "https://open.spotify.com/album/0NhxATfJ9luYFiQ8xzy0S4"
-      },
-      "artists": [
-        {
-          "name": "Kassi Ashton",
-          "url": "https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg"
-        }
-      ],
-      "duration_ms": 204444,
-      "name": "Chrome Pony",
-      "url": "https://open.spotify.com/track/3W4TmuyzcMWz3iyVhCMmm2"
-    },
-    {
-      "added_at": "2026-10-16 04:01:06",
-      "album": {
-        "name": "Take You Down With Me",
-        "url": "https://open.spotify.com/album/5i58ud7BnWtfzw3MbR3Bv5"
-      },
-      "artists": [
-        {
-          "name": "Kameron Marlowe",
-          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
-        }
-      ],
-      "duration_ms": 203933,
-      "name": "Take You Down With Me",
-      "url": "https://open.spotify.com/track/6UFZedxBM4L7kP6wUdCAyd"
-    },
-    {
-      "added_at": "2026-10-16 04:01:06",
-      "album": {
-        "name": "Something To Say",
-        "url": "https://open.spotify.com/album/50Z4FLvq1q2E5qs7073VqZ"
-      },
-      "artists": [
-        {
-          "name": "Blake Whiten",
-          "url": "https://open.spotify.com/artist/1BjlNhp6EsDG0UMroeJbRM"
-        }
-      ],
-      "duration_ms": 198128,
-      "name": "Boots By The Wrong Bed",
-      "url": "https://open.spotify.com/track/6n5HwI078jMbfUKivOZLtk"
-    },
-    {
-      "added_at": "2026-10-16 04:01:06",
-      "album": {
-        "name": "On The Road",
-        "url": "https://open.spotify.com/album/4tqa9YThom4gRa6y2PhQ39"
-      },
-      "artists": [
-        {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
-        }
-      ],
-      "duration_ms": 310986,
-      "name": "On The Road",
-      "url": "https://open.spotify.com/track/0JNkydMC9KcUNG73DBIbZK"
-    },
-    {
-      "added_at": "2026-10-16 04:01:06",
+      "added_at": "2026-11-13 05:01:59",
       "album": {
         "name": "Lean In, Kiss Me",
         "url": "https://open.spotify.com/album/3FbC4QiZOBbpKENEnk1Wj6"
@@ -345,7 +345,55 @@
       "url": "https://open.spotify.com/track/4W5TwNu9mgYlIltWW6FnEE"
     },
     {
-      "added_at": "2026-10-16 04:01:06",
+      "added_at": "2026-11-13 05:01:59",
+      "album": {
+        "name": "Take You Down With Me",
+        "url": "https://open.spotify.com/album/5i58ud7BnWtfzw3MbR3Bv5"
+      },
+      "artists": [
+        {
+          "name": "Kameron Marlowe",
+          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
+        }
+      ],
+      "duration_ms": 203933,
+      "name": "Take You Down With Me",
+      "url": "https://open.spotify.com/track/6UFZedxBM4L7kP6wUdCAyd"
+    },
+    {
+      "added_at": "2026-11-13 05:01:59",
+      "album": {
+        "name": "Something To Say",
+        "url": "https://open.spotify.com/album/50Z4FLvq1q2E5qs7073VqZ"
+      },
+      "artists": [
+        {
+          "name": "Blake Whiten",
+          "url": "https://open.spotify.com/artist/1BjlNhp6EsDG0UMroeJbRM"
+        }
+      ],
+      "duration_ms": 198128,
+      "name": "Boots By The Wrong Bed",
+      "url": "https://open.spotify.com/track/6n5HwI078jMbfUKivOZLtk"
+    },
+    {
+      "added_at": "2026-11-13 05:01:59",
+      "album": {
+        "name": "On The Road",
+        "url": "https://open.spotify.com/album/4tqa9YThom4gRa6y2PhQ39"
+      },
+      "artists": [
+        {
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+        }
+      ],
+      "duration_ms": 310986,
+      "name": "On The Road",
+      "url": "https://open.spotify.com/track/0JNkydMC9KcUNG73DBIbZK"
+    },
+    {
+      "added_at": "2026-11-13 05:01:59",
       "album": {
         "name": "Signs",
         "url": "https://open.spotify.com/album/2WSyZvOGDRjPvhY6xUNZ71"
@@ -365,7 +413,7 @@
       "url": "https://open.spotify.com/track/2h7n0HIRYmOvE5MvI9GzSz"
     },
     {
-      "added_at": "2026-10-16 04:01:06",
+      "added_at": "2026-11-13 05:01:59",
       "album": {
         "name": "Let 'Em Know",
         "url": "https://open.spotify.com/album/1fgiofWg6yMYvIXeTHfUZc"
@@ -381,7 +429,7 @@
       "url": "https://open.spotify.com/track/3oxVbPoTwXbN2Pl4HWLINy"
     },
     {
-      "added_at": "2026-10-16 04:01:06",
+      "added_at": "2026-11-13 05:01:59",
       "album": {
         "name": "Long Way Home",
         "url": "https://open.spotify.com/album/0inYFsNCyffdWte267wXRW"
@@ -397,7 +445,7 @@
       "url": "https://open.spotify.com/track/6B9XMxOKopfYkBKwA8cPtb"
     },
     {
-      "added_at": "2026-10-16 04:01:06",
+      "added_at": "2026-11-13 05:01:59",
       "album": {
         "name": "Leave On A Light",
         "url": "https://open.spotify.com/album/1FOgMp0gqpG3UGcFxxgyhG"
@@ -413,7 +461,7 @@
       "url": "https://open.spotify.com/track/6oivtFX28rYGXmritxchYv"
     },
     {
-      "added_at": "2026-10-16 04:01:06",
+      "added_at": "2026-11-13 05:01:59",
       "album": {
         "name": "Can of Worms",
         "url": "https://open.spotify.com/album/30LMtgFfBNLziQmAgSZOCd"
@@ -433,7 +481,7 @@
       "url": "https://open.spotify.com/track/18m5aSDgzYu18fWAGdQIRD"
     },
     {
-      "added_at": "2026-10-16 04:01:06",
+      "added_at": "2026-11-13 05:01:59",
       "album": {
         "name": "Boots (feat. Shania Twain)",
         "url": "https://open.spotify.com/album/4uwwxmoZWDLb5lbM8aDnGf"
@@ -453,7 +501,7 @@
       "url": "https://open.spotify.com/track/01250QTCDYXoXq6ikHoc4R"
     },
     {
-      "added_at": "2026-10-16 04:01:06",
+      "added_at": "2026-11-13 05:01:59",
       "album": {
         "name": "I'm What You Get",
         "url": "https://open.spotify.com/album/7FwqgiTS3tXBQg573FBOeX"
@@ -469,7 +517,7 @@
       "url": "https://open.spotify.com/track/4qM74q1U8CbFzogg7b14X1"
     },
     {
-      "added_at": "2026-10-16 04:01:06",
+      "added_at": "2026-11-13 05:01:59",
       "album": {
         "name": "Young",
         "url": "https://open.spotify.com/album/14kBYIGOgQRJaUpeTUFupX"
@@ -485,7 +533,7 @@
       "url": "https://open.spotify.com/track/3DDuRF9KnNbLOVB2l5WgIb"
     },
     {
-      "added_at": "2026-10-16 04:01:06",
+      "added_at": "2026-11-13 05:01:59",
       "album": {
         "name": "Sunburn Mixtape",
         "url": "https://open.spotify.com/album/4sXvPhfap6905lHTMJB4gw"
@@ -501,7 +549,7 @@
       "url": "https://open.spotify.com/track/7FrvRHtpJM9ApODPbLx5F8"
     },
     {
-      "added_at": "2026-10-16 04:01:06",
+      "added_at": "2026-11-13 05:01:59",
       "album": {
         "name": "Memo",
         "url": "https://open.spotify.com/album/0AEULDFYipP4rXzgSQyz1H"
@@ -517,7 +565,7 @@
       "url": "https://open.spotify.com/track/74ULkLG9L8FiqL8PyxbsFG"
     },
     {
-      "added_at": "2026-10-16 04:01:06",
+      "added_at": "2026-11-13 05:01:59",
       "album": {
         "name": "Dustpiles",
         "url": "https://open.spotify.com/album/7wLlEZobDhLqAYs7slQGBo"
@@ -533,7 +581,7 @@
       "url": "https://open.spotify.com/track/6cxaI4HZgh9JpDKnzX8qQd"
     },
     {
-      "added_at": "2026-10-16 04:01:06",
+      "added_at": "2026-11-13 05:01:59",
       "album": {
         "name": "Pouring",
         "url": "https://open.spotify.com/album/4QQmW6sae4Zc48VoDFObQ5"
@@ -549,7 +597,7 @@
       "url": "https://open.spotify.com/track/6x1RfhNMyXuopmGSCPcT4q"
     },
     {
-      "added_at": "2026-10-16 04:01:06",
+      "added_at": "2026-11-13 05:01:59",
       "album": {
         "name": "Loving You Like That",
         "url": "https://open.spotify.com/album/14mWqWNWb41eUWAHFiryiH"
@@ -565,7 +613,7 @@
       "url": "https://open.spotify.com/track/3LBOyssekEWeHA7TaGEksG"
     },
     {
-      "added_at": "2026-10-16 04:01:06",
+      "added_at": "2026-11-13 05:01:59",
       "album": {
         "name": "Burn It Down (feat. Leon Bridges)",
         "url": "https://open.spotify.com/album/6paZ1REm9f4KE75egyuNGM"
@@ -585,7 +633,7 @@
       "url": "https://open.spotify.com/track/4xej9vaOrovFRzZVKr8KlF"
     },
     {
-      "added_at": "2026-10-16 04:01:06",
+      "added_at": "2026-11-13 05:01:59",
       "album": {
         "name": "I Won't",
         "url": "https://open.spotify.com/album/6IvxNs36zhE5UFSNC1Sxl5"
@@ -601,7 +649,7 @@
       "url": "https://open.spotify.com/track/3fovAdkpa74BGQCHBRse0u"
     },
     {
-      "added_at": "2026-10-16 04:01:06",
+      "added_at": "2026-11-13 05:01:59",
       "album": {
         "name": "First Born Daughter",
         "url": "https://open.spotify.com/album/0zPw8blGABiNHxDLfyLZ6J"
@@ -617,7 +665,7 @@
       "url": "https://open.spotify.com/track/6y7KE9QqQfSaYsA3YqRt5c"
     },
     {
-      "added_at": "2026-10-16 04:01:06",
+      "added_at": "2026-11-13 05:01:59",
       "album": {
         "name": "ashley cooke",
         "url": "https://open.spotify.com/album/5vNtvppAHCSsUdI9dBvqEy"
@@ -633,7 +681,7 @@
       "url": "https://open.spotify.com/track/29BOij3pNtniyS00CiQeq3"
     },
     {
-      "added_at": "2026-10-16 04:01:06",
+      "added_at": "2026-11-13 05:01:59",
       "album": {
         "name": "Who Told You That",
         "url": "https://open.spotify.com/album/7MHzrc64ZU0SvegIKDSFzQ"
@@ -649,7 +697,7 @@
       "url": "https://open.spotify.com/track/2DZKhX2k3XZqQ5h5jwJyGh"
     },
     {
-      "added_at": "2026-10-16 04:01:06",
+      "added_at": "2026-11-13 05:01:59",
       "album": {
         "name": "Loving Life Again",
         "url": "https://open.spotify.com/album/2QMHxhhWF1hicphwlSAtJC"
@@ -665,7 +713,7 @@
       "url": "https://open.spotify.com/track/0n09hxqzKFxW1MBxIjctny"
     },
     {
-      "added_at": "2026-10-16 04:01:06",
+      "added_at": "2026-11-13 05:01:59",
       "album": {
         "name": "Hardwired",
         "url": "https://open.spotify.com/album/7fDNpo4jPuAmeSN7j8OYPB"
@@ -685,7 +733,7 @@
       "url": "https://open.spotify.com/track/6A297r5nVjE6eXGI6h00SL"
     },
     {
-      "added_at": "2026-10-16 04:01:06",
+      "added_at": "2026-11-13 05:01:59",
       "album": {
         "name": "Way To Go (feat. Brooks & Dunn)",
         "url": "https://open.spotify.com/album/2EQVkWT5hD5K26KAxM94lX"
@@ -705,7 +753,7 @@
       "url": "https://open.spotify.com/track/3PB9kzyXlw9lvdsJsx0y25"
     },
     {
-      "added_at": "2026-10-16 04:01:06",
+      "added_at": "2026-11-13 05:01:59",
       "album": {
         "name": "Cherry Valley Forever",
         "url": "https://open.spotify.com/album/3CSN4KvS0G5KmDXLK8swXU"
@@ -729,7 +777,7 @@
       "url": "https://open.spotify.com/track/41GhpkO9gNs5qtNahVhmhk"
     },
     {
-      "added_at": "2026-10-16 04:01:06",
+      "added_at": "2026-11-13 05:01:59",
       "album": {
         "name": "Better That Way",
         "url": "https://open.spotify.com/album/0ymtg4pXliLjHMMGCcCoSt"
@@ -749,7 +797,7 @@
       "url": "https://open.spotify.com/track/0x7lC40oyrC7FVTdgQhSPl"
     },
     {
-      "added_at": "2026-10-16 04:01:06",
+      "added_at": "2026-11-13 05:01:59",
       "album": {
         "name": "Think About Me",
         "url": "https://open.spotify.com/album/2nQaXdzjSp7ZkNapPxIZiA"
@@ -769,7 +817,7 @@
       "url": "https://open.spotify.com/track/4rGkUNqOZ6Yf7VXAc1xHor"
     },
     {
-      "added_at": "2026-10-16 04:01:06",
+      "added_at": "2026-11-13 05:01:59",
       "album": {
         "name": "Horseshoes & Hand Grenades",
         "url": "https://open.spotify.com/album/2M1HiPa2U58hAL7ExrxPmR"
@@ -785,7 +833,7 @@
       "url": "https://open.spotify.com/track/650qT68rpwWkYNRz9I8KaM"
     },
     {
-      "added_at": "2026-10-16 04:01:06",
+      "added_at": "2026-11-13 05:01:59",
       "album": {
         "name": "Another Drink",
         "url": "https://open.spotify.com/album/7nkQzEUbEhiLWXdXBjtqt2"
@@ -805,7 +853,7 @@
       "url": "https://open.spotify.com/track/3OeZBIb1CsV2rrNNVeiglf"
     },
     {
-      "added_at": "2026-10-16 04:01:06",
+      "added_at": "2026-11-13 05:01:59",
       "album": {
         "name": "Cloud 9",
         "url": "https://open.spotify.com/album/5jcUel1E0hvk7kay5f3eh1"
@@ -821,7 +869,7 @@
       "url": "https://open.spotify.com/track/69gC4UlxaDlNopZ0uBCuIj"
     },
     {
-      "added_at": "2026-10-16 04:01:06",
+      "added_at": "2026-11-13 05:01:59",
       "album": {
         "name": "forgive, forget.",
         "url": "https://open.spotify.com/album/2VdjF3nvUQCrpmxbsd9fNp"
@@ -837,7 +885,7 @@
       "url": "https://open.spotify.com/track/1ZzMmeMv0O9Unpd6Fn1uZm"
     },
     {
-      "added_at": "2026-10-16 04:01:06",
+      "added_at": "2026-11-13 05:01:59",
       "album": {
         "name": "Middle of Nowhere",
         "url": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
@@ -853,7 +901,7 @@
       "url": "https://open.spotify.com/track/7xKr077iMufVJwge6aO9xJ"
     },
     {
-      "added_at": "2026-10-16 04:01:06",
+      "added_at": "2026-11-13 05:01:59",
       "album": {
         "name": "Rather Be Here (feat. Jason Aldean)",
         "url": "https://open.spotify.com/album/05ZehfKPl9DM7r29HDn3ra"

@@ -581,6 +581,24 @@
     },
     {
       "album": {
+        "name": "After Snow",
+        "url": "https://open.spotify.com/album/5ipKBbyGcZBKDPabhOpxp2"
+      },
+      "artists": [
+        {
+          "name": "Christopher T. Gaius",
+          "url": "https://open.spotify.com/artist/47NWKPZdH6is4KvirYJbxk"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128374,
+      "name": "After Snow",
+      "url": "https://open.spotify.com/track/2T91JEaLRxJjSFKhJPa46x"
+    },
+    {
+      "album": {
         "name": "All I Want For Christmas (Is My Two Front Teeth)",
         "url": "https://open.spotify.com/album/1NwSAwzqZ2YMCCg0HTrUJ8"
       },
@@ -1114,10 +1132,28 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 152000,
       "name": "Blue Christmas",
       "url": "https://open.spotify.com/track/3du2vdssfRZmtXvajt4zBH"
+    },
+    {
+      "album": {
+        "name": "Blue Christmas",
+        "url": "https://open.spotify.com/album/4zXFslMK2AJJMA4omtY2Ju"
+      },
+      "artists": [
+        {
+          "name": "The Heights Above",
+          "url": "https://open.spotify.com/artist/5aRyNZ2TaxfmHkkfOZvQPS"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134400,
+      "name": "Blue Christmas",
+      "url": "https://open.spotify.com/track/0Tg1jVqFo9H9cCuVJS2sx5"
     },
     {
       "album": {
@@ -2034,6 +2070,24 @@
       "duration_ms": 122000,
       "name": "Good King Wenceslas",
       "url": "https://open.spotify.com/track/25vdlTYdZPJssQbXU8qUsg"
+    },
+    {
+      "album": {
+        "name": "Good King Wenceslas",
+        "url": "https://open.spotify.com/album/2WUR2RdVFXjpkgDAdqhIn5"
+      },
+      "artists": [
+        {
+          "name": "Francis Monet",
+          "url": "https://open.spotify.com/artist/6zeT4iShOpxjaTsKTda1Uu"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140538,
+      "name": "Good King Wenceslas",
+      "url": "https://open.spotify.com/track/7quAiw3rQDWU9Qif3iIjoQ"
     },
     {
       "album": {
@@ -3121,6 +3175,24 @@
     },
     {
       "album": {
+        "name": "Mary's Boy Child",
+        "url": "https://open.spotify.com/album/5sy8tpkb0Pph0EiWvW2opr"
+      },
+      "artists": [
+        {
+          "name": "Christian Max",
+          "url": "https://open.spotify.com/artist/1fK6kFpvQYpKoJyHGm1fD0"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129428,
+      "name": "Mary's Boy Child",
+      "url": "https://open.spotify.com/track/715vEOrWx99WzoxCPeY6KZ"
+    },
+    {
+      "album": {
         "name": "Mary, Did You Know?",
         "url": "https://open.spotify.com/album/7rgdBOf7jFMiqGXDjxoa7T"
       },
@@ -3229,6 +3301,24 @@
     },
     {
       "album": {
+        "name": "O Come All Ye Faithful",
+        "url": "https://open.spotify.com/album/4KC9jXdVkKK6QqtQhSx8Dn"
+      },
+      "artists": [
+        {
+          "name": "Laszlo Teofil",
+          "url": "https://open.spotify.com/artist/2b9trXzxgbOKfsHAJoZo9a"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "O Come All Ye Faithful",
+      "url": "https://open.spotify.com/track/4e4TagihJyEcqm9HuKh3C0"
+    },
+    {
+      "album": {
         "name": "O Come, All Ye Faithful",
         "url": "https://open.spotify.com/album/6jAZnvcbyBJPHmpbxr4wGg"
       },
@@ -3240,7 +3330,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 131069,
       "name": "O Come, All Ye Faithful",
       "url": "https://open.spotify.com/track/0TtPfPGcVawHTlLI8ckF3f"
@@ -3298,6 +3388,24 @@
       "duration_ms": 133395,
       "name": "O Holy Night",
       "url": "https://open.spotify.com/track/2ClC0UkO46ZOGLk9R6M8c2"
+    },
+    {
+      "album": {
+        "name": "O Holy Night",
+        "url": "https://open.spotify.com/album/0tUw8UHVVJ099kVd62D3dd"
+      },
+      "artists": [
+        {
+          "name": "Jacques Ferrandi",
+          "url": "https://open.spotify.com/artist/5ZHteW1wcQ0lo61nAFQPV7"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183790,
+      "name": "O Holy Night",
+      "url": "https://open.spotify.com/track/6QyV9asVzAKVteqXU7oKIT"
     },
     {
       "album": {
@@ -3427,6 +3535,42 @@
     },
     {
       "album": {
+        "name": "On Christmas Morn",
+        "url": "https://open.spotify.com/album/3zWdT1Q5ai6WkybVxyb7n1"
+      },
+      "artists": [
+        {
+          "name": "Emile Frost",
+          "url": "https://open.spotify.com/artist/7po4TJ1QMZKbyDo7iJZ84B"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128276,
+      "name": "On Christmas Morn",
+      "url": "https://open.spotify.com/track/6LGytRuuW3idrPnDmTk5Bo"
+    },
+    {
+      "album": {
+        "name": "Once in Royal David's City",
+        "url": "https://open.spotify.com/album/0fYXD2AybUXHt2bzH0E7zo"
+      },
+      "artists": [
+        {
+          "name": "Goldana",
+          "url": "https://open.spotify.com/artist/5qxFrVV26X1IFNzeaDl9Cw"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122790,
+      "name": "Once in Royal David's City",
+      "url": "https://open.spotify.com/track/4kaMUH8dicxfQJh9a3TVkx"
+    },
+    {
+      "album": {
         "name": "Once In Royal David's City (Cover)",
         "url": "https://open.spotify.com/album/6TYn9cCxYAO4POz6wNfzAx"
       },
@@ -3438,7 +3582,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 102220,
       "name": "Once In Royal David's City - Cover",
       "url": "https://open.spotify.com/track/03L6Nsi30mkQCV4J8NIKOa"
@@ -3460,6 +3604,24 @@
       "duration_ms": 79133,
       "name": "Peaceful Midnight Vignette",
       "url": "https://open.spotify.com/track/5lu9eIMZWM5jhwezjP9VAt"
+    },
+    {
+      "album": {
+        "name": "Peaceful Snowfall",
+        "url": "https://open.spotify.com/album/2XSoRrem7DPYTBnCjKs9K8"
+      },
+      "artists": [
+        {
+          "name": "Axel Bennett",
+          "url": "https://open.spotify.com/artist/3cbNP4ir2UsDvVi8kbd1qz"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131145,
+      "name": "Peaceful Snowfall",
+      "url": "https://open.spotify.com/track/4v7TGdIdbyr4gUY5TTM9S5"
     },
     {
       "album": {
@@ -3701,6 +3863,24 @@
     },
     {
       "album": {
+        "name": "See amid the Winter's Snow",
+        "url": "https://open.spotify.com/album/53NS1aoZATHBfKCccDEwGr"
+      },
+      "artists": [
+        {
+          "name": "Emil Weber",
+          "url": "https://open.spotify.com/artist/0rdRMUSbxULvNOcWG7UJhi"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136245,
+      "name": "See amid the Winter's Snow",
+      "url": "https://open.spotify.com/track/7jcV2HsqcdbwTlbAtyq2UU"
+    },
+    {
+      "album": {
         "name": "Joy Of Christmas",
         "url": "https://open.spotify.com/album/0ZqKApps6FNEiOGYhZ2MKZ"
       },
@@ -3889,6 +4069,24 @@
     },
     {
       "album": {
+        "name": "Someday At Christmas",
+        "url": "https://open.spotify.com/album/586HCaSY27nuFvivydoPru"
+      },
+      "artists": [
+        {
+          "name": "Ludwig Bern",
+          "url": "https://open.spotify.com/artist/3CTqF5KWRHPvxA8SMgxHNA"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226520,
+      "name": "Someday At Christmas",
+      "url": "https://open.spotify.com/track/7A3LCLvxMkwxUc32BmFnfN"
+    },
+    {
+      "album": {
         "name": "Somewhere In My Memory",
         "url": "https://open.spotify.com/album/1cR6hkvpDDGIkdxikJgQGO"
       },
@@ -4052,6 +4250,24 @@
       "duration_ms": 215557,
       "name": "That's What Christmas Means to Me",
       "url": "https://open.spotify.com/track/789xr10ZwnEighCCC6GSgk"
+    },
+    {
+      "album": {
+        "name": "Christmas Night Light",
+        "url": "https://open.spotify.com/album/4JjXVd6LF7jMPflOFg1slK"
+      },
+      "artists": [
+        {
+          "name": "Petit Lilou",
+          "url": "https://open.spotify.com/artist/6TjSQf8b2FKQ0iLI9F1l1v"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142025,
+      "name": "The Christmas Porch Light",
+      "url": "https://open.spotify.com/track/2lIYR0O29LSN4ZHCXaJUbL"
     },
     {
       "album": {
@@ -4615,6 +4831,24 @@
     },
     {
       "album": {
+        "name": "We shall be festive too",
+        "url": "https://open.spotify.com/album/59XcJv4aaA7tmjAWIOQChc"
+      },
+      "artists": [
+        {
+          "name": "Yasuo Zen",
+          "url": "https://open.spotify.com/artist/4Gew7TmeuvKFbHl0PttGaz"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145656,
+      "name": "We shall be festive too",
+      "url": "https://open.spotify.com/track/2PqG4ZITeC3ExNWQJXfkeU"
+    },
+    {
+      "album": {
         "name": "We Three Kings",
         "url": "https://open.spotify.com/album/2FM695LGS0NUZYD8OrmGDf"
       },
@@ -4662,10 +4896,28 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 132271,
       "name": "We Wish You A Merry Christmas",
       "url": "https://open.spotify.com/track/33oWrOSdm08XaAUAjexoQB"
+    },
+    {
+      "album": {
+        "name": "We Wish You A Merry Christmas",
+        "url": "https://open.spotify.com/album/0JyhtByVAl1kJdzduefwCl"
+      },
+      "artists": [
+        {
+          "name": "Spring Bunny",
+          "url": "https://open.spotify.com/artist/20rxFHW77lE0R1AlYzMIXl"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122553,
+      "name": "We Wish You A Merry Christmas",
+      "url": "https://open.spotify.com/track/7vsyZsyzipbgLT6L2hh3pz"
     },
     {
       "album": {
@@ -4720,6 +4972,24 @@
       "duration_ms": 172293,
       "name": "What Child Is This (arr. piano)",
       "url": "https://open.spotify.com/track/3LTwW4H05C3VeuxxQr4mh6"
+    },
+    {
+      "album": {
+        "name": "What If I Call (Merry Christmas, I miss you)",
+        "url": "https://open.spotify.com/album/5bG40LvYDHudlWz0unJ2EI"
+      },
+      "artists": [
+        {
+          "name": "Jonah Thorne",
+          "url": "https://open.spotify.com/artist/23pmsLpKKrDU3RS2sSjJr5"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "What If I Call (Merry Christmas, I miss you)",
+      "url": "https://open.spotify.com/track/0qa5Z366N5WHgMbKx3xs8w"
     },
     {
       "album": {

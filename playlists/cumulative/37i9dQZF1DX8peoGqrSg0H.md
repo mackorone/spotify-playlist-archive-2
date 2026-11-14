@@ -4,7 +4,7 @@
 
 > T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว\. ศิลปิน: BILLKIN
 
-1,022 songs - 2 day 11 hr 49 min
+1,023 songs - 2 day 11 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -381,6 +381,7 @@
 | [ข้างกัน \(City\)](https://open.spotify.com/track/2XDCs8vAubxRe8mO1A0eTa) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P), [feat\. ออม TELExTELEXs](https://open.spotify.com/artist/205wJyIv1vglYP2l428PAJ) | [ข้างกัน \(City\) \[feat\. ออม TELExTELEXs\]](https://open.spotify.com/album/61V9QCyJm3LPEUHrm84AIj) | 4:56 | 2022-05-26 | 2022-09-30 |
 | [คงคา](https://open.spotify.com/track/5umkeJySqBIhm2uYGjidMT) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr) | [คงคา](https://open.spotify.com/album/4pAuZ51mvoBeEIVSL1tI5n) | 4:17 | 2022-05-26 | 2022-08-26 |
 | [คงต้องบอกลาแล้ว](https://open.spotify.com/track/2EPMa8Jm1h5XRH4jwf8yK9) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [คงต้องบอกลาแล้ว](https://open.spotify.com/album/0tLEOYTiDJYMLam1orBK0B) | 4:30 | 2022-07-23 | 2022-07-29 |
+| [คงต้องเป็นคนนี้ \(Always Been\)](https://open.spotify.com/track/5n6lPfBgh2T5WwLbrNCQfB) | [LYKN](https://open.spotify.com/artist/16JoSyjAZcwB1b8SvkTSXj) | [คงต้องเป็นคนนี้ \(Always Been\)](https://open.spotify.com/album/2UfPdNytK0DfI3EidGk8nV) | 3:09 | 2026-11-12 |  |
 | [คนขี้น้อยใจ \(My Fault\)](https://open.spotify.com/track/4HrrcUbJrVsI5dkmDTNc1R) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p), [PP KRIT](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [คนขี้น้อยใจ \(My Fault\)](https://open.spotify.com/album/38wk9eBZQTsIF456u4iYdQ) | 3:23 | 2026-08-20 |  |
 | [คนขี้อาย](https://open.spotify.com/track/1lFgYqokQDMsMbMef1prKh) | [DOM](https://open.spotify.com/artist/6ZnhVXjHWYNQakkNpO1fcL) | [คนขี้อาย](https://open.spotify.com/album/043jxqPXEmDEnHPH7HgO2y) | 3:04 | 2023-10-05 | 2023-10-13 |
 | [คนคุย \(Call Me!\)](https://open.spotify.com/track/4GpMoL5ylwYGqgf7gjUVzd) | [BowImm](https://open.spotify.com/artist/7aISVZ8grtQxn3MQjCq3E0) | [คนคุย \(Call Me!\)](https://open.spotify.com/album/5SvjNQNdL3bzUtU6EDfGA5) | 3:23 | 2022-08-18 | 2022-08-26 |

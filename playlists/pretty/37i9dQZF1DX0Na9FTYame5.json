@@ -1,6 +1,6 @@
 {
   "description": "Deutschrap f\u00fcr die emotions. Cover: Mucco",
-  "num_followers": 569095,
+  "num_followers": 569079,
   "original_name": "Rap in deep",
   "owner": {
     "name": "Spotify",
@@ -243,6 +243,26 @@
     {
       "added_at": "2026-10-23 07:12:11",
       "album": {
+        "name": "LOV",
+        "url": "https://open.spotify.com/album/3aOZ4sGXZapx6QYXauLOAr"
+      },
+      "artists": [
+        {
+          "name": "LACAZETTE",
+          "url": "https://open.spotify.com/artist/7rBed6Ya7Hwa2fXbh5btJE"
+        },
+        {
+          "name": "GWENDO",
+          "url": "https://open.spotify.com/artist/3jiUj8e5dI5ByS6v5Car7I"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "LOV",
+      "url": "https://open.spotify.com/track/3cjrqwPadzqCV7WgQ8oWep"
+    },
+    {
+      "added_at": "2026-10-23 07:12:11",
+      "album": {
         "name": "WAR NIE WEG (feat. Souly & Blumengarten)",
         "url": "https://open.spotify.com/album/1IBOzaUvnqZHPc5CrAo5lT"
       },
@@ -263,26 +283,6 @@
       "duration_ms": 160056,
       "name": "WAR NIE WEG (feat. Souly & Blumengarten)",
       "url": "https://open.spotify.com/track/3O9DrxFz8i0B5aykNQy5le"
-    },
-    {
-      "added_at": "2026-10-23 07:12:11",
-      "album": {
-        "name": "LOV",
-        "url": "https://open.spotify.com/album/3aOZ4sGXZapx6QYXauLOAr"
-      },
-      "artists": [
-        {
-          "name": "LACAZETTE",
-          "url": "https://open.spotify.com/artist/7rBed6Ya7Hwa2fXbh5btJE"
-        },
-        {
-          "name": "GWENDO",
-          "url": "https://open.spotify.com/artist/3jiUj8e5dI5ByS6v5Car7I"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "LOV",
-      "url": "https://open.spotify.com/track/3cjrqwPadzqCV7WgQ8oWep"
     },
     {
       "added_at": "2026-10-23 07:12:11",
@@ -443,26 +443,6 @@
     {
       "added_at": "2026-10-23 07:12:11",
       "album": {
-        "name": "Sera",
-        "url": "https://open.spotify.com/album/2kWyLXF7bVqnbVGWGQBKha"
-      },
-      "artists": [
-        {
-          "name": "Monet192",
-          "url": "https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw"
-        },
-        {
-          "name": "Morpheuz",
-          "url": "https://open.spotify.com/artist/6mFNhGWIA0SYoGMFXi2cgf"
-        }
-      ],
-      "duration_ms": 149553,
-      "name": "Sera",
-      "url": "https://open.spotify.com/track/3C24jbcbotdNpyDUqNIJEi"
-    },
-    {
-      "added_at": "2026-10-23 07:12:11",
-      "album": {
         "name": "6 Kugeln",
         "url": "https://open.spotify.com/album/1oUIROs1hGFj45271O2h0T"
       },
@@ -499,6 +479,26 @@
       "duration_ms": 210418,
       "name": "Seite an Seite",
       "url": "https://open.spotify.com/track/7FwiW63H6Ului0e2nDhlkc"
+    },
+    {
+      "added_at": "2026-10-23 07:12:11",
+      "album": {
+        "name": "Sera",
+        "url": "https://open.spotify.com/album/2kWyLXF7bVqnbVGWGQBKha"
+      },
+      "artists": [
+        {
+          "name": "Monet192",
+          "url": "https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw"
+        },
+        {
+          "name": "Morpheuz",
+          "url": "https://open.spotify.com/artist/6mFNhGWIA0SYoGMFXi2cgf"
+        }
+      ],
+      "duration_ms": 149553,
+      "name": "Sera",
+      "url": "https://open.spotify.com/track/3C24jbcbotdNpyDUqNIJEi"
     },
     {
       "added_at": "2026-10-23 07:12:11",
@@ -611,18 +611,22 @@
     {
       "added_at": "2026-10-23 07:12:11",
       "album": {
-        "name": "ich brauch dich",
-        "url": "https://open.spotify.com/album/1tpnNdKuNwIIL3AlTGWo6Q"
+        "name": "Die Hoffnung klaut mir Niemand",
+        "url": "https://open.spotify.com/album/1VLKFGaQoKLvxzIWQxLKZI"
       },
       "artists": [
         {
-          "name": "IBRA",
-          "url": "https://open.spotify.com/artist/7cuo0m2sTg2Pc65nc6vZTb"
+          "name": "Kontra K",
+          "url": "https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK"
+        },
+        {
+          "name": "SANTOS",
+          "url": "https://open.spotify.com/artist/4hK7sEnm0se5bqoI3Yb5o1"
         }
       ],
-      "duration_ms": 155357,
-      "name": "ich brauch dich",
-      "url": "https://open.spotify.com/track/5B7FCEtCFOyFK9OPSWilmd"
+      "duration_ms": 174026,
+      "name": "Die Sonne",
+      "url": "https://open.spotify.com/track/1TqC60H8LMZc4Gi4M56t6m"
     },
     {
       "added_at": "2026-10-23 07:12:11",
@@ -643,22 +647,18 @@
     {
       "added_at": "2026-10-23 07:12:11",
       "album": {
-        "name": "Die Hoffnung klaut mir Niemand",
-        "url": "https://open.spotify.com/album/1VLKFGaQoKLvxzIWQxLKZI"
+        "name": "ich brauch dich",
+        "url": "https://open.spotify.com/album/1tpnNdKuNwIIL3AlTGWo6Q"
       },
       "artists": [
         {
-          "name": "Kontra K",
-          "url": "https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK"
-        },
-        {
-          "name": "SANTOS",
-          "url": "https://open.spotify.com/artist/4hK7sEnm0se5bqoI3Yb5o1"
+          "name": "IBRA",
+          "url": "https://open.spotify.com/artist/7cuo0m2sTg2Pc65nc6vZTb"
         }
       ],
-      "duration_ms": 174026,
-      "name": "Die Sonne",
-      "url": "https://open.spotify.com/track/1TqC60H8LMZc4Gi4M56t6m"
+      "duration_ms": 155357,
+      "name": "ich brauch dich",
+      "url": "https://open.spotify.com/track/5B7FCEtCFOyFK9OPSWilmd"
     },
     {
       "added_at": "2026-10-23 07:12:11",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2026-10-23 07:12:11",
       "album": {
-        "name": "Weisse Orchideen",
-        "url": "https://open.spotify.com/album/0dQq7rjlKZbkK2bPGfiZT2"
-      },
-      "artists": [
-        {
-          "name": "Samra",
-          "url": "https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0"
-        }
-      ],
-      "duration_ms": 177208,
-      "name": "Weisse Orchideen",
-      "url": "https://open.spotify.com/track/0fNYJMvRcSBEC4zK3SClpK"
-    },
-    {
-      "added_at": "2026-10-23 07:12:11",
-      "album": {
         "name": "Sch\u00f6n, dass du da warst",
         "url": "https://open.spotify.com/album/2CvzWoK3kqqymwMHNL6A30"
       },
@@ -1043,6 +1027,38 @@
     {
       "added_at": "2026-10-23 07:12:11",
       "album": {
+        "name": "Weisse Orchideen",
+        "url": "https://open.spotify.com/album/0dQq7rjlKZbkK2bPGfiZT2"
+      },
+      "artists": [
+        {
+          "name": "Samra",
+          "url": "https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0"
+        }
+      ],
+      "duration_ms": 177208,
+      "name": "Weisse Orchideen",
+      "url": "https://open.spotify.com/track/0fNYJMvRcSBEC4zK3SClpK"
+    },
+    {
+      "added_at": "2026-10-23 07:12:11",
+      "album": {
+        "name": "Mach die Augen auf",
+        "url": "https://open.spotify.com/album/6LUAQItFCJarUpFHnzMjtH"
+      },
+      "artists": [
+        {
+          "name": "CIVO",
+          "url": "https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8"
+        }
+      ],
+      "duration_ms": 111206,
+      "name": "Mach die Augen auf",
+      "url": "https://open.spotify.com/track/74EasdbNav1osDCwRCFwrS"
+    },
+    {
+      "added_at": "2026-10-23 07:12:11",
+      "album": {
         "name": "Brauch nur dich",
         "url": "https://open.spotify.com/album/72BKfRKueMPQ4QBYLNhtiq"
       },
@@ -1055,6 +1071,22 @@
       "duration_ms": 144926,
       "name": "Brauch nur dich",
       "url": "https://open.spotify.com/track/5LNWlJBv0K98uz22LwkHY5"
+    },
+    {
+      "added_at": "2026-10-23 07:12:11",
+      "album": {
+        "name": "Alle Risse heilen",
+        "url": "https://open.spotify.com/album/6R9KVt9WZlG4GogbmYShTk"
+      },
+      "artists": [
+        {
+          "name": "Olson",
+          "url": "https://open.spotify.com/artist/3JtuxOs4xRaE4r0S50WcSI"
+        }
+      ],
+      "duration_ms": 150640,
+      "name": "Alle Risse heilen",
+      "url": "https://open.spotify.com/track/3Q3Infgim4rgSUslJojSED"
     },
     {
       "added_at": "2026-10-23 07:12:11",
@@ -1079,34 +1111,18 @@
     {
       "added_at": "2026-10-23 07:12:11",
       "album": {
-        "name": "Alle Risse heilen",
-        "url": "https://open.spotify.com/album/6R9KVt9WZlG4GogbmYShTk"
+        "name": "Meilen",
+        "url": "https://open.spotify.com/album/04I4jarsRUw4i2yM1dFIR0"
       },
       "artists": [
         {
-          "name": "Olson",
-          "url": "https://open.spotify.com/artist/3JtuxOs4xRaE4r0S50WcSI"
+          "name": "Kane",
+          "url": "https://open.spotify.com/artist/7g8mQetiw4nzFyy0i9RTvf"
         }
       ],
-      "duration_ms": 150640,
-      "name": "Alle Risse heilen",
-      "url": "https://open.spotify.com/track/3Q3Infgim4rgSUslJojSED"
-    },
-    {
-      "added_at": "2026-10-23 07:12:11",
-      "album": {
-        "name": "Mach die Augen auf",
-        "url": "https://open.spotify.com/album/6LUAQItFCJarUpFHnzMjtH"
-      },
-      "artists": [
-        {
-          "name": "CIVO",
-          "url": "https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8"
-        }
-      ],
-      "duration_ms": 111206,
-      "name": "Mach die Augen auf",
-      "url": "https://open.spotify.com/track/74EasdbNav1osDCwRCFwrS"
+      "duration_ms": 139920,
+      "name": "Meilen",
+      "url": "https://open.spotify.com/track/5pfCq9M2nEztdSLpEwhgwC"
     },
     {
       "added_at": "2026-10-23 07:12:11",
@@ -1131,22 +1147,6 @@
     {
       "added_at": "2026-10-23 07:12:11",
       "album": {
-        "name": "Meilen",
-        "url": "https://open.spotify.com/album/04I4jarsRUw4i2yM1dFIR0"
-      },
-      "artists": [
-        {
-          "name": "Kane",
-          "url": "https://open.spotify.com/artist/7g8mQetiw4nzFyy0i9RTvf"
-        }
-      ],
-      "duration_ms": 139920,
-      "name": "Meilen",
-      "url": "https://open.spotify.com/track/5pfCq9M2nEztdSLpEwhgwC"
-    },
-    {
-      "added_at": "2026-10-23 07:12:11",
-      "album": {
         "name": "Universum regelt",
         "url": "https://open.spotify.com/album/7fZRhnOouYC7iDsIP4XCWh"
       },
@@ -1159,6 +1159,22 @@
       "duration_ms": 147852,
       "name": "H\u00f6henangst",
       "url": "https://open.spotify.com/track/1esUHh1CO18DH1gZlrr4BO"
+    },
+    {
+      "added_at": "2026-10-23 07:12:11",
+      "album": {
+        "name": "Dieses eine Lied",
+        "url": "https://open.spotify.com/album/3DaMy2PmEpWtfry9aFsg2r"
+      },
+      "artists": [
+        {
+          "name": "Jassin",
+          "url": "https://open.spotify.com/artist/2hRKaY76bYHW5uCvHqbeMh"
+        }
+      ],
+      "duration_ms": 142502,
+      "name": "Dieses eine Lied",
+      "url": "https://open.spotify.com/track/4eqjuxCylVKJykllp83972"
     },
     {
       "added_at": "2026-10-23 07:12:11",
@@ -1179,18 +1195,18 @@
     {
       "added_at": "2026-10-23 07:12:11",
       "album": {
-        "name": "Dieses eine Lied",
-        "url": "https://open.spotify.com/album/3DaMy2PmEpWtfry9aFsg2r"
+        "name": "Mein Type",
+        "url": "https://open.spotify.com/album/7gOI3Tzkyi6cytldUFot2J"
       },
       "artists": [
         {
-          "name": "Jassin",
-          "url": "https://open.spotify.com/artist/2hRKaY76bYHW5uCvHqbeMh"
+          "name": "Matterz",
+          "url": "https://open.spotify.com/artist/1y4sg1ayAaE5pCGeOvqhLP"
         }
       ],
-      "duration_ms": 142502,
-      "name": "Dieses eine Lied",
-      "url": "https://open.spotify.com/track/4eqjuxCylVKJykllp83972"
+      "duration_ms": 154601,
+      "name": "Mein Type",
+      "url": "https://open.spotify.com/track/6SOxRyOgCHD8K0tskkrs9M"
     },
     {
       "added_at": "2026-10-23 07:12:11",
@@ -1231,22 +1247,6 @@
       "duration_ms": 156000,
       "name": "Nur Mailbox",
       "url": "https://open.spotify.com/track/5InwXfb7WnudjoHEdmRLVy"
-    },
-    {
-      "added_at": "2026-10-23 07:12:11",
-      "album": {
-        "name": "Mein Type",
-        "url": "https://open.spotify.com/album/7gOI3Tzkyi6cytldUFot2J"
-      },
-      "artists": [
-        {
-          "name": "Matterz",
-          "url": "https://open.spotify.com/artist/1y4sg1ayAaE5pCGeOvqhLP"
-        }
-      ],
-      "duration_ms": 154601,
-      "name": "Mein Type",
-      "url": "https://open.spotify.com/track/6SOxRyOgCHD8K0tskkrs9M"
     },
     {
       "added_at": "2026-10-23 07:12:11",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2026-10-23 07:12:11",
       "album": {
-        "name": "LIDSCHATTEN",
-        "url": "https://open.spotify.com/album/08oKnVAQR676illfZgpYW0"
-      },
-      "artists": [
-        {
-          "name": "Cave",
-          "url": "https://open.spotify.com/artist/2LAMcjEMXfL8mWohcAkCF9"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "LIDSCHATTEN",
-      "url": "https://open.spotify.com/track/5JQBSO3RsHgGeViD9skxgu"
-    },
-    {
-      "added_at": "2026-10-23 07:12:11",
-      "album": {
         "name": "King",
         "url": "https://open.spotify.com/album/6DTa2fvtiupcS2fBzPfpo1"
       },
@@ -1351,22 +1335,18 @@
     {
       "added_at": "2026-10-23 07:12:11",
       "album": {
-        "name": "Mitten in der Nacht",
-        "url": "https://open.spotify.com/album/4EA2EVD7Qdd5ynXvY4viXs"
+        "name": "LIDSCHATTEN",
+        "url": "https://open.spotify.com/album/08oKnVAQR676illfZgpYW0"
       },
       "artists": [
         {
-          "name": "Dardan",
-          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
-        },
-        {
-          "name": "Azet",
-          "url": "https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh"
+          "name": "Cave",
+          "url": "https://open.spotify.com/artist/2LAMcjEMXfL8mWohcAkCF9"
         }
       ],
-      "duration_ms": 166906,
-      "name": "Mitten in der Nacht",
-      "url": "https://open.spotify.com/track/4MxKZPqKG1YIKkloGt82Pv"
+      "duration_ms": 168000,
+      "name": "LIDSCHATTEN",
+      "url": "https://open.spotify.com/track/5JQBSO3RsHgGeViD9skxgu"
     },
     {
       "added_at": "2026-10-23 07:12:11",
@@ -1391,6 +1371,26 @@
     {
       "added_at": "2026-10-23 07:12:11",
       "album": {
+        "name": "Mitten in der Nacht",
+        "url": "https://open.spotify.com/album/4EA2EVD7Qdd5ynXvY4viXs"
+      },
+      "artists": [
+        {
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+        },
+        {
+          "name": "Azet",
+          "url": "https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh"
+        }
+      ],
+      "duration_ms": 166906,
+      "name": "Mitten in der Nacht",
+      "url": "https://open.spotify.com/track/4MxKZPqKG1YIKkloGt82Pv"
+    },
+    {
+      "added_at": "2026-10-23 07:12:11",
+      "album": {
         "name": "nie wieder normal",
         "url": "https://open.spotify.com/album/6VUg6frxqTVbVlIn4oFoav"
       },
@@ -1411,26 +1411,6 @@
     {
       "added_at": "2026-10-23 07:12:11",
       "album": {
-        "name": "wie du liebst",
-        "url": "https://open.spotify.com/album/3351R1TgdmIoBJlWqeQVgK"
-      },
-      "artists": [
-        {
-          "name": "Erda",
-          "url": "https://open.spotify.com/artist/0Zd813hYpR0qlSmJt5T8E7"
-        },
-        {
-          "name": "Sampagne",
-          "url": "https://open.spotify.com/artist/7vohy1W7YNLxHynG44UFjS"
-        }
-      ],
-      "duration_ms": 172436,
-      "name": "wie du liebst",
-      "url": "https://open.spotify.com/track/4bydS9c1vpLXjyg79TOyb4"
-    },
-    {
-      "added_at": "2026-10-23 07:12:11",
-      "album": {
         "name": "Garten vorm Haus",
         "url": "https://open.spotify.com/album/68ia6GzIsyt8c432HeagAn"
       },
@@ -1447,6 +1427,26 @@
       "duration_ms": 114705,
       "name": "Garten vorm Haus",
       "url": "https://open.spotify.com/track/6NOtUjLWOJdXLqB08t62uI"
+    },
+    {
+      "added_at": "2026-10-23 07:12:11",
+      "album": {
+        "name": "wie du liebst",
+        "url": "https://open.spotify.com/album/3351R1TgdmIoBJlWqeQVgK"
+      },
+      "artists": [
+        {
+          "name": "Erda",
+          "url": "https://open.spotify.com/artist/0Zd813hYpR0qlSmJt5T8E7"
+        },
+        {
+          "name": "Sampagne",
+          "url": "https://open.spotify.com/artist/7vohy1W7YNLxHynG44UFjS"
+        }
+      ],
+      "duration_ms": 172436,
+      "name": "wie du liebst",
+      "url": "https://open.spotify.com/track/4bydS9c1vpLXjyg79TOyb4"
     },
     {
       "added_at": "2026-10-23 07:12:11",
@@ -1587,26 +1587,6 @@
     {
       "added_at": "2026-10-23 07:12:11",
       "album": {
-        "name": "Nie",
-        "url": "https://open.spotify.com/album/6KurEcolD2okUE6NWoNt7o"
-      },
-      "artists": [
-        {
-          "name": "Tom Hengst",
-          "url": "https://open.spotify.com/artist/1KGwASmnB2xhGcJGt9epDc"
-        },
-        {
-          "name": "Disarstar",
-          "url": "https://open.spotify.com/artist/7BSNHln0lSqyDHdQ3sv0Q5"
-        }
-      ],
-      "duration_ms": 169795,
-      "name": "Nie",
-      "url": "https://open.spotify.com/track/1U6z6GfdQDnRrnI6LpjARI"
-    },
-    {
-      "added_at": "2026-10-23 07:12:11",
-      "album": {
         "name": "Simpel",
         "url": "https://open.spotify.com/album/6wDfuAJ9aaOhaATIhnsQpL"
       },
@@ -1619,26 +1599,6 @@
       "duration_ms": 163306,
       "name": "Simpel",
       "url": "https://open.spotify.com/track/1pE1hkxS5CWxcSgayoBXK8"
-    },
-    {
-      "added_at": "2026-10-23 07:12:11",
-      "album": {
-        "name": "Ich hass dich",
-        "url": "https://open.spotify.com/album/5Jv2VE7PyyoDR8G1qUV5Uw"
-      },
-      "artists": [
-        {
-          "name": "Nina Chuba",
-          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
-        },
-        {
-          "name": "Chapo102",
-          "url": "https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr"
-        }
-      ],
-      "duration_ms": 192964,
-      "name": "Ich hass dich",
-      "url": "https://open.spotify.com/track/5CGPOGyyF3XvyQwyqlJH0P"
     },
     {
       "added_at": "2026-10-23 07:12:11",
@@ -1659,6 +1619,46 @@
       "duration_ms": 178217,
       "name": "Regentage",
       "url": "https://open.spotify.com/track/2wsshURx5YlfXcUpJETi5T"
+    },
+    {
+      "added_at": "2026-10-23 07:12:11",
+      "album": {
+        "name": "Nie",
+        "url": "https://open.spotify.com/album/6KurEcolD2okUE6NWoNt7o"
+      },
+      "artists": [
+        {
+          "name": "Tom Hengst",
+          "url": "https://open.spotify.com/artist/1KGwASmnB2xhGcJGt9epDc"
+        },
+        {
+          "name": "Disarstar",
+          "url": "https://open.spotify.com/artist/7BSNHln0lSqyDHdQ3sv0Q5"
+        }
+      ],
+      "duration_ms": 169795,
+      "name": "Nie",
+      "url": "https://open.spotify.com/track/1U6z6GfdQDnRrnI6LpjARI"
+    },
+    {
+      "added_at": "2026-10-23 07:12:11",
+      "album": {
+        "name": "Ich hass dich",
+        "url": "https://open.spotify.com/album/5Jv2VE7PyyoDR8G1qUV5Uw"
+      },
+      "artists": [
+        {
+          "name": "Nina Chuba",
+          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
+        },
+        {
+          "name": "Chapo102",
+          "url": "https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr"
+        }
+      ],
+      "duration_ms": 192964,
+      "name": "Ich hass dich",
+      "url": "https://open.spotify.com/track/5CGPOGyyF3XvyQwyqlJH0P"
     },
     {
       "added_at": "2026-10-23 07:12:11",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2026-10-23 07:12:11",
       "album": {
-        "name": "MOST VALUABLE PLAYA",
-        "url": "https://open.spotify.com/album/0zgrSUOZl6OdK4pwGBrY8v"
-      },
-      "artists": [
-        {
-          "name": "Jazeek",
-          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
-        }
-      ],
-      "duration_ms": 149752,
-      "name": "Leben",
-      "url": "https://open.spotify.com/track/4vPdRUiMn1LpVGfpoa6TiH"
-    },
-    {
-      "added_at": "2026-10-23 07:12:11",
-      "album": {
         "name": "Ok ich check",
         "url": "https://open.spotify.com/album/4ExpueLMrJsWQ7QYTxRG8X"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 138506,
       "name": "Ok ich check",
       "url": "https://open.spotify.com/track/6C0ru05AIHvARhbQ4TdTNc"
+    },
+    {
+      "added_at": "2026-10-23 07:12:11",
+      "album": {
+        "name": "MOST VALUABLE PLAYA",
+        "url": "https://open.spotify.com/album/0zgrSUOZl6OdK4pwGBrY8v"
+      },
+      "artists": [
+        {
+          "name": "Jazeek",
+          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
+        }
+      ],
+      "duration_ms": 149752,
+      "name": "Leben",
+      "url": "https://open.spotify.com/track/4vPdRUiMn1LpVGfpoa6TiH"
     },
     {
       "added_at": "2026-10-23 07:12:11",
@@ -1831,22 +1831,6 @@
     {
       "added_at": "2026-10-23 07:12:11",
       "album": {
-        "name": "Blessed",
-        "url": "https://open.spotify.com/album/1fu1KcaqGJUP8BjVLtQtC7"
-      },
-      "artists": [
-        {
-          "name": "Jazeek",
-          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
-        }
-      ],
-      "duration_ms": 154776,
-      "name": "Blessed",
-      "url": "https://open.spotify.com/track/32bZCHZS1dx4Tab16TVy2B"
-    },
-    {
-      "added_at": "2026-10-23 07:12:11",
-      "album": {
         "name": "Wegen dir",
         "url": "https://open.spotify.com/album/3blfKL2lsNGEgrfQIWKKJ8"
       },
@@ -1863,18 +1847,18 @@
     {
       "added_at": "2026-10-23 07:12:11",
       "album": {
-        "name": "nur f\u00fcr dich",
-        "url": "https://open.spotify.com/album/2AD0WLaFPO5ZPS8fq2MjYT"
+        "name": "Blessed",
+        "url": "https://open.spotify.com/album/1fu1KcaqGJUP8BjVLtQtC7"
       },
       "artists": [
         {
-          "name": "IBRA",
-          "url": "https://open.spotify.com/artist/7cuo0m2sTg2Pc65nc6vZTb"
+          "name": "Jazeek",
+          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
         }
       ],
-      "duration_ms": 147692,
-      "name": "nur f\u00fcr dich",
-      "url": "https://open.spotify.com/track/30taITFSL0X3dTL1UePK5a"
+      "duration_ms": 154776,
+      "name": "Blessed",
+      "url": "https://open.spotify.com/track/32bZCHZS1dx4Tab16TVy2B"
     },
     {
       "added_at": "2026-10-23 07:12:11",
@@ -1891,6 +1875,22 @@
       "duration_ms": 163149,
       "name": "Denkst du an mich",
       "url": "https://open.spotify.com/track/1og1WUJtEFCnC7FxxHe0C0"
+    },
+    {
+      "added_at": "2026-10-23 07:12:11",
+      "album": {
+        "name": "nur f\u00fcr dich",
+        "url": "https://open.spotify.com/album/2AD0WLaFPO5ZPS8fq2MjYT"
+      },
+      "artists": [
+        {
+          "name": "IBRA",
+          "url": "https://open.spotify.com/artist/7cuo0m2sTg2Pc65nc6vZTb"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "nur f\u00fcr dich",
+      "url": "https://open.spotify.com/track/30taITFSL0X3dTL1UePK5a"
     }
   ],
   "unique_name": "Rap in deep",

@@ -1,12 +1,12 @@
 {
   "description": "only the best tech house &amp; house music",
-  "num_followers": 16266,
+  "num_followers": 16268,
   "original_name": "tech house heaters",
   "owner": {
     "name": "tech house heaters",
     "url": "https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv"
   },
-  "snapshot_id": "AAAo5QXohf1cMJPn1vVVlvruwPEmyDJr",
+  "snapshot_id": "AAAo6HWuPLCIuWvZXNh12K0TnJDsV4Ia",
   "tracks": [
     {
       "added_at": "2026-10-23 10:27:24",
@@ -1039,6 +1039,58 @@
       "duration_ms": 227076,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/4OgX35ylh4OayekGxE1PkE"
+    },
+    {
+      "added_at": "2026-11-13 11:28:22",
+      "album": {
+        "name": "The Beat Don't Stop EP",
+        "url": "https://open.spotify.com/album/5EwtOlOmpOuGp54Q84UfXG"
+      },
+      "artists": [
+        {
+          "name": "KiRKie",
+          "url": "https://open.spotify.com/artist/0nPy8OKs5hIlbMQi07euiB"
+        }
+      ],
+      "duration_ms": 162461,
+      "name": "The Beat Don't Stop",
+      "url": "https://open.spotify.com/track/23GmTTl94yWGjQ62xrji9k"
+    },
+    {
+      "added_at": "2026-11-13 11:28:29",
+      "album": {
+        "name": "Shout It Out",
+        "url": "https://open.spotify.com/album/0RoKRDm1nc3W9TptvtSLuQ"
+      },
+      "artists": [
+        {
+          "name": "Funk Cartel",
+          "url": "https://open.spotify.com/artist/5CTZ9x42i9fZmlzm3AEyX0"
+        },
+        {
+          "name": "Sorley",
+          "url": "https://open.spotify.com/artist/3apneou0OdagGBkXZxmpaj"
+        }
+      ],
+      "duration_ms": 167716,
+      "name": "Shout It Out (Sorley Remix)",
+      "url": "https://open.spotify.com/track/5HYuav6UtoUoOUQGJcseK6"
+    },
+    {
+      "added_at": "2026-11-13 11:28:40",
+      "album": {
+        "name": "Losing Control",
+        "url": "https://open.spotify.com/album/6TgJyl1PdQ5EqxkqZgBf9F"
+      },
+      "artists": [
+        {
+          "name": "Louden",
+          "url": "https://open.spotify.com/artist/0dh6ekhgvAz7Kr8ayRuYlr"
+        }
+      ],
+      "duration_ms": 200044,
+      "name": "Losing Control",
+      "url": "https://open.spotify.com/track/54AprjCZfZlrOOVYVGFjdO"
     }
   ],
   "unique_name": "tech house heaters",

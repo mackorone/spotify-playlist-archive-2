@@ -9473,6 +9473,24 @@
     },
     {
       "album": {
+        "name": "Richesse et Sacrifice",
+        "url": "https://open.spotify.com/album/5hyo6rwMbLuPxRCVu3EVtM"
+      },
+      "artists": [
+        {
+          "name": "Graya",
+          "url": "https://open.spotify.com/artist/6AmKZ6kQdFR64iIiUsRMHT"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161874,
+      "name": "Pas satisfait",
+      "url": "https://open.spotify.com/track/6V8Cjmmy7p1snZecFu4s7V"
+    },
+    {
+      "album": {
         "name": "Gringa",
         "url": "https://open.spotify.com/album/1FoTgNV9Gcim0DEPVoQBlX"
       },
@@ -12576,24 +12594,6 @@
       "duration_ms": 178266,
       "name": "TP",
       "url": "https://open.spotify.com/track/4aslqUfhnz7lYd8mEMIToq"
-    },
-    {
-      "album": {
-        "name": "Richesse et Sacrifice",
-        "url": "https://open.spotify.com/album/5hyo6rwMbLuPxRCVu3EVtM"
-      },
-      "artists": [
-        {
-          "name": "Graya",
-          "url": "https://open.spotify.com/artist/6AmKZ6kQdFR64iIiUsRMHT"
-        }
-      ],
-      "date_added": "2026-11-12",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 10",
-      "url": "https://open.spotify.com/track/6V8Cjmmy7p1snZecFu4s7V"
     },
     {
       "album": {

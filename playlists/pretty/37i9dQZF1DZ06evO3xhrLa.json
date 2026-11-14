@@ -1,12 +1,12 @@
 {
   "description": "This is Jhen\u00e9 Aiko. The essential tracks, all in one playlist.",
-  "num_followers": 249694,
+  "num_followers": 249711,
   "original_name": "This Is Jhen\u00e9 Aiko",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avOwAAAAAADQG6zk50DXXfQGuvFOs/Bq",
+  "snapshot_id": "avUBgAAAAADPNNXVP19LSSDsCSbRT+z3",
   "tracks": [
     {
       "added_at": null,
@@ -751,6 +751,22 @@
       "duration_ms": 276400,
       "name": "Wading",
       "url": "https://open.spotify.com/track/1kQbkd67wUkTka6RmyiFL7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chilombo (Deluxe)",
+        "url": "https://open.spotify.com/album/1JsySWOa2RchsBB2N4313v"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 206013,
+      "name": "Above And Beyond",
+      "url": "https://open.spotify.com/track/2p5QtNGyfnT5MhQex3WOte"
     }
   ],
   "unique_name": "This Is Jhen\u00e9 Aiko",

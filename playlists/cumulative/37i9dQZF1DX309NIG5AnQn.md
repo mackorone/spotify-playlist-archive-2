@@ -4,12 +4,13 @@
 
 > rock alternativo y sudamericano\. <br/>📷 No Me Toques
 
-428 songs - 1 day 0 hr 15 min
+429 songs - 1 day 0 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(te advertí que no me dejaras pisar\) las flores](https://open.spotify.com/track/3fvqXC7IXSI1TJ8oVv4iDk) | [reybruja](https://open.spotify.com/artist/1w9Zl7p0JQAYAf9lmDGMYz) | [GUSTAR Y OFENDER](https://open.spotify.com/album/1ZhJsTyimzQOzBz6X2XJbd) | 3:45 | 2026-09-25 |  |
 | [02:51](https://open.spotify.com/track/6ZxMFRBxRW0jLWiVs9RKFB) | [Catalina Ammaturo](https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a) | [02:51](https://open.spotify.com/album/38Uuksmr3lpYuUQGbH2YIl) | 4:11 | 2023-05-12 | 2023-09-16 |
+| [100 Años](https://open.spotify.com/track/29LbnjGVnc4Tt3rooYfoTs) | [Clamor](https://open.spotify.com/artist/4LbaOuP0EEYLfOLQczfBLV) | [Colisiones](https://open.spotify.com/album/6hwhbiC8kypxmMkCiNdVfm) | 3:38 | 2026-11-13 |  |
 | [2 y diagonal](https://open.spotify.com/track/5xUACDPbDPvPg1HimpwyBK) | [Autos Robados](https://open.spotify.com/artist/5mTDazgxgE8HYpzPckCwV0) | [Estrés y alucinaciones](https://open.spotify.com/album/56QO5e29vGQoeZts6U2Ivf) | 2:43 | 2025-11-14 | 2026-03-28 |
 | [3 Flores Blancas](https://open.spotify.com/track/3Ol0bCJH6zoGsLsQq4Bl49) | [Candelabro](https://open.spotify.com/artist/1vcHRdox9r4UWUTWLHZ7Au) | [Deseo, Carne y Voluntad](https://open.spotify.com/album/4XqjkJmo5IHFQEOm8PsGut) | 4:00 | 2026-09-25 |  |
 | [31 de Diciembre](https://open.spotify.com/track/3EobeZqwjZbOf7jl6C1Vpz) | [Ok Pirámides](https://open.spotify.com/artist/0I9v5sjA1GZPSCQ5sXJ5hX) | [Bueno Todo El Día](https://open.spotify.com/album/7HI8Llk6hjEp4ihxXfhxZS) | 5:12 | 2024-05-09 | 2024-09-14 |

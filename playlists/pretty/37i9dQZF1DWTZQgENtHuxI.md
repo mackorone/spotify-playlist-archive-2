@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZQgENtHuxI.md) - [plain]
 
 > Sortez les pantalons pattes d‘eph et les chemises en satin !
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,597 likes - 50 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,603 likes - 50 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZQgENtHuxI.md) - [plain]
 | 9 | [Best of My Love](https://open.spotify.com/track/2M2WJ7gBlcKNxdhyfPp9zY) | [The Emotions](https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr) | [Rejoice](https://open.spotify.com/album/7iJCy3T66FJmXT7LGVd3QA) | 3:40 |
 | 10 | [It's Raining Men](https://open.spotify.com/track/2IvetNzSZMH5gwjInoyr18) | [The Weather Girls](https://open.spotify.com/artist/19xz1vcuKNjniGEftTOSSH) | [Success](https://open.spotify.com/album/04tDE69ZArhHkFaZzRNOrt) | 5:25 |
 | 11 | [Just an Illusion](https://open.spotify.com/track/4QT3YKobBj4BI7xCYRLr9u) | [Imagination](https://open.spotify.com/artist/2CkhxuagMCG9uvlbKm5G3m) | [In the Heat of the Night](https://open.spotify.com/album/7FbF8LUVnfmJWkzYfBrvt6) | 6:27 |
-| 12 | [Disco Inferno](https://open.spotify.com/track/5jUA1njy3h6ynHLvPdEVHt) | [The Trammps](https://open.spotify.com/artist/1zgNpeHQe8GulzfVkYP2VK) | [Disco Inferno](https://open.spotify.com/album/4MgYPs5CBEwzmekSVNOiL3) | 10:59 |
-| 13 | [He's the Greatest Dancer \- 1995 Remaster](https://open.spotify.com/track/5WwRKYnVy9dekqXAGPbAvU) | [Sister Sledge](https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays) | [We Are Family \(1995 Remaster\)](https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT) | 6:15 |
+| 12 | [He's the Greatest Dancer \- 1995 Remaster](https://open.spotify.com/track/5WwRKYnVy9dekqXAGPbAvU) | [Sister Sledge](https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays) | [We Are Family \(1995 Remaster\)](https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT) | 6:15 |
+| 13 | [Disco Inferno](https://open.spotify.com/track/5jUA1njy3h6ynHLvPdEVHt) | [The Trammps](https://open.spotify.com/artist/1zgNpeHQe8GulzfVkYP2VK) | [Disco Inferno](https://open.spotify.com/album/4MgYPs5CBEwzmekSVNOiL3) | 10:59 |
 | 14 | [Give Me the Night](https://open.spotify.com/track/62GYoGszQfROZswLee6W3O) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [The George Benson Collection](https://open.spotify.com/album/1IcNxT9zu74BfNhuHD9MBN) | 3:42 |
 | 15 | [Le Freak \- Edit](https://open.spotify.com/track/6Lphpr9Z6H282Sguw0dUWa) | [CHIC](https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV) | [Les Plus Grands Success De Chic \- Chic's Greatest Hits](https://open.spotify.com/album/0VpPfXytCLshrjZFHKQHyc) | 3:35 |
 | 16 | [I'm So Excited](https://open.spotify.com/track/2u8MGAiS2hBVE7GZzTZLQI) | [The Pointer Sisters](https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N) | [Best Of](https://open.spotify.com/album/4ZcnXch8ZI9zlizDVTea1X) | 3:49 |
@@ -39,13 +39,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZQgENtHuxI.md) - [plain]
 | 29 | [You Make Me Feel \(Mighty Real\)](https://open.spotify.com/track/68oPWciPnkCZBNbq0HfFJE) | [Sylvester](https://open.spotify.com/artist/5TGTpu4g8siFOIctZuQO7y) | [The Original Hits](https://open.spotify.com/album/4Ls1kWhm4Lqgdteck35U7r) | 6:34 |
 | 30 | [You Got What It Takes](https://open.spotify.com/track/7gLflLqsZlOeLSlkx6XHrW) | [Bobby Thurston](https://open.spotify.com/artist/3iPWVg3McWlor6EUf9Jc7l) | [You Got What It Takes](https://open.spotify.com/album/0uw28qwpfGCHCV4SDCOO7c) | 9:33 |
 | 31 | [Why \- 12" Version](https://open.spotify.com/track/3hI05NM8JnJvQLZMUnRvMa) | [Carly Simon](https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm) | [Soup for One \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1rC8ILJkAi4b0p3uqaxZrK) | 8:13 |
-| 32 | [Alexandrie Alexandra](https://open.spotify.com/track/19DVBvNrJMl9jRHjVZHk38) | [Claude François](https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ) | [Best Of](https://open.spotify.com/album/5UnV3CeKQ4r3uoW0koFS08) | 4:22 |
-| 33 | [I'll Never Forget \(My Favorite Disco\)](https://open.spotify.com/track/7KOS9ptdLAdy3hJxuvpHfc) | [Dexter Wansel](https://open.spotify.com/artist/7azp9wRyXcxIq5vZnJgYvt), [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Time Is Slipping Away](https://open.spotify.com/album/636NtK3yPJ395a6nyXJ1ft) | 4:34 |
+| 32 | [I'll Never Forget \(My Favorite Disco\)](https://open.spotify.com/track/7KOS9ptdLAdy3hJxuvpHfc) | [Dexter Wansel](https://open.spotify.com/artist/7azp9wRyXcxIq5vZnJgYvt), [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Time Is Slipping Away](https://open.spotify.com/album/636NtK3yPJ395a6nyXJ1ft) | 4:34 |
+| 33 | [Alexandrie Alexandra](https://open.spotify.com/track/19DVBvNrJMl9jRHjVZHk38) | [Claude François](https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ) | [Best Of](https://open.spotify.com/album/5UnV3CeKQ4r3uoW0koFS08) | 4:22 |
 | 34 | [Searching to Find the One \- Remix](https://open.spotify.com/track/2yzNqrykiRq4pwAlpe0bvL) | [Unlimited Touch](https://open.spotify.com/artist/4VaFWblR1Rv24L8kAfhtxm) | [Searching to Find the One](https://open.spotify.com/album/31fKBqNpIIRDSiBoTv408q) | 7:24 |
 | 35 | [She Can't Love You](https://open.spotify.com/track/5m2tbFHvChBEIRGBObZTVz) | [Chemise](https://open.spotify.com/artist/38yRIy4CLmtrEEedZzjNoS) | [Star Funk, Vol\. 1](https://open.spotify.com/album/69MSI2BPQ0bUCOwI8xgC69) | 5:09 |
 | 36 | [Où sont les femmes](https://open.spotify.com/track/1QhmS32Uo9BZCznhbYBRyY) | [Patrick Juvet](https://open.spotify.com/artist/7c5wlQVkajxJG0X13D0Fpc) | [Best Of](https://open.spotify.com/album/0AOw7IUisWy0h8VjcP6CGp) | 6:16 |
-| 37 | [Cette année\-là](https://open.spotify.com/track/1nZMyRPYCe4ElwXggr9FJo) | [Claude François](https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ) | [Best Of](https://open.spotify.com/album/5UnV3CeKQ4r3uoW0koFS08) | 3:12 |
-| 38 | [I Will Survive \- Extended Version](https://open.spotify.com/track/619REdZwzaCVSkSueKqPS1) | [Gloria Gaynor](https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5) | [Silver Collection](https://open.spotify.com/album/3t4vQKksE3hxfsYS8Nr6cP) | 7:56 |
+| 37 | [I Will Survive \- Extended Version](https://open.spotify.com/track/619REdZwzaCVSkSueKqPS1) | [Gloria Gaynor](https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5) | [Silver Collection](https://open.spotify.com/album/3t4vQKksE3hxfsYS8Nr6cP) | 7:56 |
+| 38 | [Cette année\-là](https://open.spotify.com/track/1nZMyRPYCe4ElwXggr9FJo) | [Claude François](https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ) | [Best Of](https://open.spotify.com/album/5UnV3CeKQ4r3uoW0koFS08) | 3:12 |
 | 39 | [Disco Nights \(Rock Freak\) \- 12" Disco Remix](https://open.spotify.com/track/21NEoaczQ5G1aEhJAgz0JQ) | [G.Q.](https://open.spotify.com/artist/18YelxQioKKPXK1PE5hh1n) | [Disco Nights \(Expanded Edition\)](https://open.spotify.com/album/5hgGl3cmYdzcPedJs47Jum) | 8:50 |
 | 40 | [Do What You Wanna Do](https://open.spotify.com/track/4ADW3HBraqvlFcxRlcRyoK) | [T\-Connection](https://open.spotify.com/artist/4zLYrCC0iBYDV8QmEYzUFS) | [Something For The Weekend](https://open.spotify.com/album/4dnOon8AzLu1CyBUjXErI5) | 7:17 |
 | 41 | [Spacer](https://open.spotify.com/track/3gzFESmUSfoFWeehf2rNOl) | [Sheila](https://open.spotify.com/artist/5fhRcv2KU96vbXqNE2FEdu) | [Intégrale \(exclus À 17 ans "At Seventeen", En duo avec Claude François\)](https://open.spotify.com/album/6wzJnPvJwYOzW5LMjAdfNc) | 5:54 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZQgENtHuxI.md) - [plain]
 | 47 | [Funky Town](https://open.spotify.com/track/7723JnKU2R15Iv4T7OJrly) | [Lipps Inc.](https://open.spotify.com/artist/0lwRI7lvmlRY5DiA5Xa6wQ) | [Paradas Continuas](https://open.spotify.com/album/3r4KvV3xbEN0VAHthWYnAE) | 3:59 |
 | 48 | [Dancing Queen](https://open.spotify.com/track/01iyCAUm8EvOFqVWYJ3dVX) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Arrival](https://open.spotify.com/album/79ZX48114T8NH36MnOTtl7) | 3:50 |
 | 49 | [Stayin' Alive \- Remastered Version](https://open.spotify.com/track/3LmpQiFNgFCnvAnhhvKUyI) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Number Ones](https://open.spotify.com/album/79F4jBcsI4qg66Xax1u4U8) | 4:45 |
-| 50 | [Fame](https://open.spotify.com/track/7yBl8YmvcgwwYlazJcvowE) | [Irene Cara](https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G) | [Fame: The Original Soundtrack from the Motion Picture](https://open.spotify.com/album/2nE5WmbSq3qbyDrOpSTlnq) | 5:16 |
+| 50 | [Upside Down](https://open.spotify.com/track/57Y3UccJEJqT8w8RWkUAz0) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Diana](https://open.spotify.com/album/0Gy4phN6Xwx4uyskE7Wkls) | 4:04 |
 
 Snapshot ID: `AAAAAG4naG97AkGyH3dMBJ0jvwBTAs0/`

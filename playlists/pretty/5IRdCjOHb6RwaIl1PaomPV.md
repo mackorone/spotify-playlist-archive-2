@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 
 > The latest tracks from Mad Decent and friends\. Featuring new cuts from Major Lazer,  the sound that chalk makes, Jam City, Sofii, &amp; more.
 
-[Mad Decent](https://open.spotify.com/user/maddecent) - 50,047 likes - 100 songs - 5 hr 24 min
+[Mad Decent](https://open.spotify.com/user/maddecent) - 50,046 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 | 20 | [CSM for bullshit](https://open.spotify.com/track/4UGzIUDcabJcatRVXzozJt) | [the sound chalk makes](https://open.spotify.com/artist/4uiFRdH1ESOicHwBuTbsY5), [Seven Blair Angels](https://open.spotify.com/artist/4q68y687T1f5iGToWOTrnQ), [pato6p](https://open.spotify.com/artist/1T7amPqWVfFBlntdPtflSm) | [CSM for bullshit](https://open.spotify.com/album/4dlec4sTKWyTcTX81GZvlL) | 1:42 |
 | 21 | [RAGE & RAVE](https://open.spotify.com/track/4D8ESLapW3rf4T0qZojFwR) | [B0YG1RL](https://open.spotify.com/artist/0qhwdD2NFfJ8eCK1hKlAiq), [NOVAGANG](https://open.spotify.com/artist/2jKpyH0q7d85BevWLtdKGB), [KAY NIVE$](https://open.spotify.com/artist/6YQgtVqlL7emLLiAloN501) | [RAGE & RAVE](https://open.spotify.com/album/2ZCwDwNFmsRwzbBjZvX8UI) | 2:28 |
 | 22 | [Sad But So Funny](https://open.spotify.com/track/4z82AjKmLtVzxmShgNCgkp) | [Eera](https://open.spotify.com/artist/2pEvCYGB3kxgoesDK5kt2P), [Mechatok](https://open.spotify.com/artist/4poYOxVqlpDTelhhiJcSrW) | [Sad But So Funny](https://open.spotify.com/album/2sZNACN1OtfS387IGeyJi9) | 3:43 |
-| 23 | [notime…](https://open.spotify.com/track/6qL1c0iuEhxV8a1Rt1l3ww) | [finnjävel](https://open.spotify.com/artist/5YQtvxTvGSShjMTOMyCuPT), [GRANT](https://open.spotify.com/artist/6SkVKlAmIWVD0LQvCGQqSj) | [notime…youshouldbeaskingmeout](https://open.spotify.com/album/3thIn4T4XksDxTHEU1rExU) | 2:19 |
+| 23 | [notime…](https://open.spotify.com/track/6qL1c0iuEhxV8a1Rt1l3ww) | [finnjävel](https://open.spotify.com/artist/5YQtvxTvGSShjMTOMyCuPT), [Grant](https://open.spotify.com/artist/6SkVKlAmIWVD0LQvCGQqSj) | [notime…youshouldbeaskingmeout](https://open.spotify.com/album/3thIn4T4XksDxTHEU1rExU) | 2:19 |
 | 24 | [Falling Out of Grace](https://open.spotify.com/track/1nPkAtpKnqemShhkfxcFcT) | [Pearly Drops](https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL), [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX), [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme) | [Falling Out of Grace](https://open.spotify.com/album/0wP2oZeEwU29BUodHFav7r) | 3:00 |
 | 25 | [Coil](https://open.spotify.com/track/0Bo7hqEUT49zxY4bZXRX55) | [ear](https://open.spotify.com/artist/3bABCGLkFvjnNIKHvPVHDG) | [Rumspringa](https://open.spotify.com/album/1EHtMAqAB6GSnw8IbuXFLn) | 3:54 |
 | 26 | [Fail\-safe](https://open.spotify.com/track/6xD86PPhXcZQrgiTyhNAzW) | [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme) | [Fail\-safe](https://open.spotify.com/album/3D2s2eiAPhTFCJGVj5ZbEt) | 3:27 |

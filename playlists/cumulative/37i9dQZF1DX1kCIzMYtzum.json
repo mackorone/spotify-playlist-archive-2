@@ -3180,7 +3180,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 182225,
       "name": "Cash Out",
       "url": "https://open.spotify.com/track/7qHSfKzilTsXJuuWcjX1vZ"
@@ -5884,7 +5884,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 215625,
       "name": "Everyday",
       "url": "https://open.spotify.com/track/4sWFDF6Nn3x66r16Ugf0HX"
@@ -7652,7 +7652,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 202500,
       "name": "Ghost Town",
       "url": "https://open.spotify.com/track/6NKky2204YZNxUXO1F0X8h"
@@ -10285,6 +10285,32 @@
     },
     {
       "album": {
+        "name": "In Your Eyes",
+        "url": "https://open.spotify.com/album/3DaHmHCX3pK6BQG6APC5a5"
+      },
+      "artists": [
+        {
+          "name": "DJ Kuba",
+          "url": "https://open.spotify.com/artist/1dhLLX9IY5DD8uElJwjZFX"
+        },
+        {
+          "name": "Neitan",
+          "url": "https://open.spotify.com/artist/0zKD9ej0a7KR2evA0Hu0KG"
+        },
+        {
+          "name": "Sarah de Warren",
+          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191142,
+      "name": "In Your Eyes",
+      "url": "https://open.spotify.com/track/1OcBIJcAKApGEtJ45XsPnX"
+    },
+    {
+      "album": {
         "name": "Incoming!",
         "url": "https://open.spotify.com/album/1YzrmUjG3wpXd2bH0TvYIO"
       },
@@ -10842,7 +10868,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-12",
+      "date_removed": null,
       "duration_ms": 158181,
       "name": "Keep Up",
       "url": "https://open.spotify.com/track/61hNFGvYnfrlEVdQ6xNN8a"
@@ -14580,6 +14606,44 @@
       "duration_ms": 220221,
       "name": "Nova",
       "url": "https://open.spotify.com/track/5d6jheZrGY0xNFNDeIGDrY"
+    },
+    {
+      "album": {
+        "name": "Now Until Forever",
+        "url": "https://open.spotify.com/album/36Rd0V6qIYKIYBogd5e8k1"
+      },
+      "artists": [
+        {
+          "name": "HAL\u014c",
+          "url": "https://open.spotify.com/artist/2CHhgdnkUPWHyFseMue70n"
+        },
+        {
+          "name": "DubVision",
+          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
+        },
+        {
+          "name": "Matisse & Sadko",
+          "url": "https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88"
+        },
+        {
+          "name": "Third Party",
+          "url": "https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V"
+        },
+        {
+          "name": "Bonn",
+          "url": "https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2"
+        },
+        {
+          "name": "FORS",
+          "url": "https://open.spotify.com/artist/3IG2AmQqnXTje1NHlIQViX"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182815,
+      "name": "Now Until Forever",
+      "url": "https://open.spotify.com/track/42t7ZmVF7fuUKsySyQAJcR"
     },
     {
       "album": {
@@ -21480,7 +21544,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 202248,
       "name": "Torture of the Heart",
       "url": "https://open.spotify.com/track/0NutjkZZwOyZKLViHN6BY5"
@@ -22920,6 +22984,32 @@
       "duration_ms": 135652,
       "name": "Wild",
       "url": "https://open.spotify.com/track/6HziIqUKIzfSAHOpVtALrL"
+    },
+    {
+      "album": {
+        "name": "Wildfire",
+        "url": "https://open.spotify.com/album/6jeE5vtviufpGBqV4tb994"
+      },
+      "artists": [
+        {
+          "name": "MitiS",
+          "url": "https://open.spotify.com/artist/16yUpGkBRgc2eDMd3bB3Uw"
+        },
+        {
+          "name": "FLOTE",
+          "url": "https://open.spotify.com/artist/5GlpEfsBmDxKXL5Sr3ZTMO"
+        },
+        {
+          "name": "Violyt",
+          "url": "https://open.spotify.com/artist/58dODJDrNq8DHvx5CJDJgd"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191811,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/4qTWnYehSsQRKM29JfSYCF"
     },
     {
       "album": {

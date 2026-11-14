@@ -3884,7 +3884,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 183266,
       "name": "Nobody Sweeter",
       "url": "https://open.spotify.com/track/2f6gJU89sk9FT1ESUpxPG4"
@@ -4702,6 +4702,24 @@
       "duration_ms": 240200,
       "name": "River",
       "url": "https://open.spotify.com/track/3hhbDnFUb2bicI2df6VurK"
+    },
+    {
+      "album": {
+        "name": "Rodeo",
+        "url": "https://open.spotify.com/album/52y3TL7eXNsdcdffjY6Uu3"
+      },
+      "artists": [
+        {
+          "name": "Pale Jay",
+          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210591,
+      "name": "Rodeo",
+      "url": "https://open.spotify.com/track/4Y3Bv9FEcC472F2uh0Gskr"
     },
     {
       "album": {

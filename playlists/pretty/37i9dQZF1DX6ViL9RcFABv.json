@@ -1,12 +1,12 @@
 {
   "description": "Uma playlist de pura alma pop! Foto: Jo\u00e3o S\u00f3, Tiago Nogueira",
-  "num_followers": 124598,
+  "num_followers": 124626,
   "original_name": "Pop PT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADdtPXlzddjKks9T/SIA7EhiVtRz",
+  "snapshot_id": "AAAAABRjjoxnf0yLyHbCOUqG0japO+GE",
   "tracks": [
     {
       "added_at": "2026-11-13 00:01:58",
@@ -175,6 +175,26 @@
       "duration_ms": 160943,
       "name": "X\u00ea Dama",
       "url": "https://open.spotify.com/track/45P31dabxkY0NzFGo4Y5Us"
+    },
+    {
+      "added_at": "2026-11-13 10:30:27",
+      "album": {
+        "name": "O Rom\u00e2ntico",
+        "url": "https://open.spotify.com/album/1vVKDGGlInRLp8zuQZKSS6"
+      },
+      "artists": [
+        {
+          "name": "Matias Dam\u00e1sio",
+          "url": "https://open.spotify.com/artist/0E0XPqa6BzxSkhmhvzA3k2"
+        },
+        {
+          "name": "Cuca Roseta",
+          "url": "https://open.spotify.com/artist/5JfkzRrPKWcMQenALP3UKL"
+        }
+      ],
+      "duration_ms": 223680,
+      "name": "Temporal do Amor (feat. Cuca Roseta)",
+      "url": "https://open.spotify.com/track/2agihdHHKGTy4uURAW4icX"
     },
     {
       "added_at": "2026-11-13 00:01:58",
@@ -1315,22 +1335,6 @@
       "duration_ms": 157633,
       "name": "Luz Acesa",
       "url": "https://open.spotify.com/track/7GElIJqRUf48bkl9FsECcW"
-    },
-    {
-      "added_at": "2026-11-13 00:01:58",
-      "album": {
-        "name": "STRAVA",
-        "url": "https://open.spotify.com/album/4jtsQphofZNwTbFaA1TdL8"
-      },
-      "artists": [
-        {
-          "name": "pikika",
-          "url": "https://open.spotify.com/artist/2l9cXS6ljQtg4wOGYR94WN"
-        }
-      ],
-      "duration_ms": 188128,
-      "name": "STRAVA",
-      "url": "https://open.spotify.com/track/7gCkbZuIPAmAmRIT2lQ3Ny"
     }
   ],
   "unique_name": "Pop PT",

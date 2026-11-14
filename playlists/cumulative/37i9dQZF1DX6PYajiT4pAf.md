@@ -4,7 +4,7 @@
 
 > Ralphie Choo, Hijos de la Ruina con Morad, SFDK, MARLENA y más novedades de la semana.
 
-7,340 songs - 15 day 16 hr 8 min
+7,341 songs - 15 day 16 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -775,6 +775,7 @@
 | [BELLAKEO SUCIO](https://open.spotify.com/track/5HdaluCMEcjgULPetLjJ3n) | [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar), [Midnvght](https://open.spotify.com/artist/2f0j8IhXgOli2Ub2amAiUZ) | [BELLAKEO SUCIO](https://open.spotify.com/album/5rHqjm7ik12qcInXa7uVRN) | 3:01 | 2025-08-28 | 2025-09-05 |
 | [Bellakissi](https://open.spotify.com/track/7CwzTUt4i2zPPy1sRSPEMi) | [Keen Levy](https://open.spotify.com/artist/4MU4rC7z6JpqxqbHDqtz7H) | [Bellakissi](https://open.spotify.com/album/5y7CvXIsoz8e9zWBWmupPV) | 2:25 | 2026-06-25 | 2026-07-03 |
 | [Belle Époque](https://open.spotify.com/track/2DiehNUu5GjuwM1DbuJmsY) | [PANTERA BLUE](https://open.spotify.com/artist/6zAncQFGD8BV8q5PUOTjp8) | [Belle Époque](https://open.spotify.com/album/6ziiRJZbDBrFfeXpBdjUtJ) | 2:10 | 2026-01-23 | 2026-01-30 |
+| [Bello Love](https://open.spotify.com/track/6DUJpDcQrJ3N8r9MuWZA3a) | [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Lil Supa](https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K) | [Bello Love](https://open.spotify.com/album/6ycs34x4CApaQ6ctfb4smL) | 3:53 | 2026-11-13 |  |
 | [Ben poca cosa tens](https://open.spotify.com/track/6bjEfCnfH1aTkDVxmXkptn) | [Salvador Sobral](https://open.spotify.com/artist/0GfYO21pue5u0sVEYk9HZO), [Sílvia Pérez Cruz](https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw) | [Ben poca cosa tens](https://open.spotify.com/album/4eBnmtZBcmN8eGCALV5SdL) | 5:10 | 2025-04-18 | 2025-04-25 |
 | [BEND OVA](https://open.spotify.com/track/0M0hP41DYnrcSQeKOIiMlK) | [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km), [Kiko](https://open.spotify.com/artist/0fgcliZH1oc0WI3Agbo4d4) | [BEND OVA](https://open.spotify.com/album/7L7fdn59wxNVMezANIqRU7) | 2:34 | 2026-07-02 | 2026-07-10 |
 | [Bendiciones](https://open.spotify.com/track/0ydpjvnRgU5k7xA1twp7iC) | [Cyril Kamer](https://open.spotify.com/artist/3J1MhhyXLJRNRZVrx11Lbf) | [Bendiciones](https://open.spotify.com/album/17ICxyLG1Vifbr2MvTPMPr) | 2:42 | 2026-02-05 | 2026-02-13 |

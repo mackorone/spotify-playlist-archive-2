@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO28R8KD.md) - [plain]
 
 > This is Emily A\. Sprague\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 201 likes - 33 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 202 likes - 33 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,11 +26,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO28R8KD.md) - [plain]
 | 16 | [Star Gazing](https://open.spotify.com/track/06DeoRfplLugqP2Soi6No2) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Hill, Flower, Fog](https://open.spotify.com/album/4kUoHjxVlyhhTnmSwM47ol) | 6:53 |
 | 17 | [Huckleberry](https://open.spotify.com/track/0jzmcBUTN9SqVrFed0NKFV) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Mount Vision](https://open.spotify.com/album/5Er0d89UQnCYtTBoQLZsSr) | 3:03 |
 | 18 | [Dock](https://open.spotify.com/track/3EQdsc6j5U3jV2iQ0CITNW) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Water Memory](https://open.spotify.com/album/7GFnprDHbH3BkxjCiOH0k6) | 3:15 |
-| 19 | [Harmony in Your Hands](https://open.spotify.com/track/3nLubqcwcvP54KkjAven8Y) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Cyano](https://open.spotify.com/album/3Pj62N3JtqsSgYs6ejCHYu) | 2:23 |
+| 19 | [Rising](https://open.spotify.com/track/4HYX9F5lh33yKbIc5Ie42G) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Cyano](https://open.spotify.com/album/3Pj62N3JtqsSgYs6ejCHYu) | 3:43 |
 | 20 | [Nagoya](https://open.spotify.com/track/5VfCcjwti5OSQrq37CE9xT) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Cloud Time](https://open.spotify.com/album/5iy3l3dbcmJUDgwLcb1I9D) | 7:26 |
 | 21 | [Piano 2 \(Mount Vision\)](https://open.spotify.com/track/3EVe6aUZJOeLDNSVYv60pS) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Mount Vision](https://open.spotify.com/album/5Er0d89UQnCYtTBoQLZsSr) | 3:41 |
 | 22 | [Mirror](https://open.spotify.com/track/2S4TjDCuFEqewoBxzW2VYd) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Hill, Flower, Fog](https://open.spotify.com/album/4kUoHjxVlyhhTnmSwM47ol) | 9:35 |
-| 23 | [Rising](https://open.spotify.com/track/4HYX9F5lh33yKbIc5Ie42G) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Cyano](https://open.spotify.com/album/3Pj62N3JtqsSgYs6ejCHYu) | 3:43 |
+| 23 | [Harmony in Your Hands](https://open.spotify.com/track/3nLubqcwcvP54KkjAven8Y) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Cyano](https://open.spotify.com/album/3Pj62N3JtqsSgYs6ejCHYu) | 2:23 |
 | 24 | [Osaka](https://open.spotify.com/track/6AE8juZVAZWNBGPNgSPAHB) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Cloud Time](https://open.spotify.com/album/5iy3l3dbcmJUDgwLcb1I9D) | 6:26 |
 | 25 | [Piano 1](https://open.spotify.com/track/5lSEJkubu5mdi1NnYkEiLC) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Mount Vision](https://open.spotify.com/album/5Er0d89UQnCYtTBoQLZsSr) | 7:23 |
 | 26 | [Woven](https://open.spotify.com/track/70kQ67AxENqAghLsofvC8c) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Hill, Flower, Fog](https://open.spotify.com/album/4kUoHjxVlyhhTnmSwM47ol) | 5:51 |
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO28R8KD.md) - [plain]
 | 32 | [Each Story](https://open.spotify.com/track/2lsGq0qsufQcmIM30Xfy2J) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Cloud Time](https://open.spotify.com/album/5iy3l3dbcmJUDgwLcb1I9D) | 7:15 |
 | 33 | [Horizon](https://open.spotify.com/track/28GQO7qa54ouDsWDjKtl0n) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Hill, Flower, Fog](https://open.spotify.com/album/4kUoHjxVlyhhTnmSwM47ol) | 6:24 |
 
-Snapshot ID: `avOwAAAAAAD1z1jEE5FACGjEax7BBRQc`
+Snapshot ID: `avUBgAAAAACcLL/JHzuooYBoU0YkcFq6`

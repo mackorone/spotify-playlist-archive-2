@@ -4,7 +4,7 @@
 
 > la nuova scena pop 🇮🇹 Cate Lumina in cover
 
-1,649 songs - 3 day 6 hr 56 min
+1,650 songs - 3 day 7 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1336,7 +1336,7 @@
 | [Senza di te](https://open.spotify.com/track/5Wdrly4BRmqgsUQOy7XadG) | [GUSA](https://open.spotify.com/artist/14Vlzht8zPQPQNHDCnNshZ) | [Senza di te](https://open.spotify.com/album/7fCaJObcr9YwqO10GBphUf) | 3:35 | 2025-02-27 | 2025-04-04 |
 | [Senza la tua mano in tasca](https://open.spotify.com/track/2R0caWLPF6FjmlGqUrrSKk) | [gIANMARIA](https://open.spotify.com/artist/3lxINiPO2Mtk6VqtUSd5t1) | [Senza la tua mano in tasca](https://open.spotify.com/album/0BhWHniHDXogwZX3jdvlB0) | 2:54 | 2026-11-05 |  |
 | [SENZA REGOLE](https://open.spotify.com/track/48457TAso8iLsuGweSjXLm) | [Carla Hero](https://open.spotify.com/artist/75zVVFZrepdsKuXaKDvJWu) | [SENZA REGOLE](https://open.spotify.com/album/1nXWQA1u94SLP0FJHyIhOj) | 2:10 | 2025-05-22 | 2025-08-08 |
-| [Senza tregua](https://open.spotify.com/track/4Puo8pyv152VIsyFrkT0pq) | [ANTONIA](https://open.spotify.com/artist/7FHXOCS4B6dXsf5x3KmRr0) | [Senza tregua](https://open.spotify.com/album/2OIyM7cAW9NwO0RiJg3bDy) | 2:24 | 2026-11-12 |  |
+| [Senza Tregua](https://open.spotify.com/track/4Puo8pyv152VIsyFrkT0pq) | [ANTONIA](https://open.spotify.com/artist/7FHXOCS4B6dXsf5x3KmRr0) | [Senza Tregua](https://open.spotify.com/album/2OIyM7cAW9NwO0RiJg3bDy) | 2:24 | 2026-11-12 |  |
 | [Senza vestiti](https://open.spotify.com/track/5PnpH0YgeOQ7m1Yn3B17CI) | [Maria Antonietta](https://open.spotify.com/artist/6anaeWEVZRRTdhWVMp1wnb), [Colombre](https://open.spotify.com/artist/6pVyScwe03hSEWuNs0qeJ1) | [Senza vestiti](https://open.spotify.com/album/0dxz0GxUcYXloy0ClIvz9h) | 3:00 | 2026-05-28 | 2026-06-26 |
 | [SENZ’ E TE \(feat\. Voga\)](https://open.spotify.com/track/7InVObVA8xZbgouwuGk5IY) | [ALE](https://open.spotify.com/artist/7svBLRa8JtDnUuY3B6GGGj), [Voga](https://open.spotify.com/artist/6adzJ1E1UUrcSid2CsDZ6i) | [COME FANNO I GRANDI](https://open.spotify.com/album/5bfenUGD6cIc86l9Cbpd9H) | 3:20 | 2025-02-27 | 2025-04-18 |
 | [separi](https://open.spotify.com/track/3jQ0VHtxq8iV7Tzz1vWnGW) | [Martina Di Nardo](https://open.spotify.com/artist/2ZK8BeEdf8NpZQXG23iIdx) | [separi](https://open.spotify.com/album/7p5W1pnnR39CND3N5G7S6L) | 3:09 | 2026-02-05 | 2026-03-06 |
@@ -1394,6 +1394,7 @@
 | [solo io](https://open.spotify.com/track/3IJk3wfWun5HbyvLHemxjt) | [iako](https://open.spotify.com/artist/5vb5OxjAG4MT01pnXSzOoX) | [solo io](https://open.spotify.com/album/0PM5K90CfOU6MShiaR8VIk) | 2:36 | 2026-02-05 | 2026-03-06 |
 | [Solo per salvarmi](https://open.spotify.com/track/1OXu1ZmSDK6EGBlK6BVFZu) | [ORLANDO](https://open.spotify.com/artist/3Bmu3aOG2LZCHs0Isd3w5v) | [Solo per salvarmi](https://open.spotify.com/album/1Xh5PVCsMw1NqBtIo2MuGJ) | 3:26 | 2026-05-07 | 2026-05-29 |
 | [solo solissimo](https://open.spotify.com/track/2KqKsaXttrkC7Qbc493cH9) | [tellynonpiangere](https://open.spotify.com/artist/2n8rCH14DAnaBWMdkfj9hv) | [solo solissimo](https://open.spotify.com/album/6MeFwwWwuXzMjoh12g0wF2) | 3:19 | 2026-02-05 | 2026-03-20 |
+| [SOLO UN GIOCO](https://open.spotify.com/track/55MvE3BOrCtS6Qldsazkbw) | [Fares](https://open.spotify.com/artist/0bmKJDoc5Nu9by7Us2WRGo) | [SOLO UN GIOCO](https://open.spotify.com/album/20EnOgxEEHSkGZOiUY7vze) | 3:24 | 2026-11-13 |  |
 | [solo un uomo](https://open.spotify.com/track/1fCl4CsvGV6PqPG9Y7hGqe) | [icaro](https://open.spotify.com/artist/7KSeB7JWqSs50h47yIPzfC) | [solo un uomo](https://open.spotify.com/album/5QPVLyAN2j6g1lliuvuaz4) | 3:37 | 2026-06-11 | 2026-07-10 |
 | [SOLO UN UOMO ᕕ \(con Altea\)](https://open.spotify.com/track/47yUuMTLeVSwgfcfFf7dYm) | [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1), [Altea](https://open.spotify.com/artist/1yGCY2abK83JZlenHcgdws) | [MĀYĀ](https://open.spotify.com/album/4ZiKOxhnDrMo4RlD5WHxKg) | 4:48 | 2024-06-27 | 2024-11-13 |
 | [SOMBRAS](https://open.spotify.com/track/6DALNGK0SneZHSbp9Wj3r5) | [ETT](https://open.spotify.com/artist/4ZYO3loQ3PgnwXe3hUVPrS), [dNoise](https://open.spotify.com/artist/410eOpymx2am8CnIi1TfRe) | [SOMBRAS](https://open.spotify.com/album/7lXHaDj9dBxaFFSyRZIIth) | 2:07 | 2025-04-17 | 2025-05-23 |

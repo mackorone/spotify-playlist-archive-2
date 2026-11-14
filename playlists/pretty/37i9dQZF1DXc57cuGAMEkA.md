@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。Tohji, Tove Lo, U2, Ella Langley, Fall Out Boy and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,340 likes - 82 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,560 likes - 82 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 20 | [Never Said Goodbye \(feat\. Lil Yachty\)](https://open.spotify.com/track/02A4v0xP7mt78UdPtypvcp) | [josh conway](https://open.spotify.com/artist/7Fg3bk6FxiFhFnrtXxJNR7), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Never Said Goodbye \(feat\. Lil Yachty\)](https://open.spotify.com/album/3J1YFYlZ2LZkTTxgzW44n6) | 3:57 |
 | 21 | [Trophy](https://open.spotify.com/track/1I2QdqvSz7AeMPVZJheUcj) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Trophy](https://open.spotify.com/album/3GKB75ijlo1b33UVr809hQ) | 4:05 |
 | 22 | [Bonnet \(feat\. Summer Walker & Wale\)](https://open.spotify.com/track/3KAeHmiuKefi0wkeTBVr3l) | [Belly Gang Kushington](https://open.spotify.com/artist/7oHPIc7BYAIUhYFF6hSggI), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [GOOD DOPE SELL ITSELF](https://open.spotify.com/album/1klnZYqw7rMDLendqpetLm) | 3:36 |
-| 23 | [Why Not \(feat\. Quavo & Loe Shimmy\)](https://open.spotify.com/track/3ag3REuwHRHF8kYQffQ8pn) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax) | [GMFU](https://open.spotify.com/album/0sjhU3kzHU2dfd6SVrzLIp) | 2:49 |
+| 23 | [Why Not? \(feat\. Quavo & Loe Shimmy\)](https://open.spotify.com/track/3ag3REuwHRHF8kYQffQ8pn) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax) | [GMFU](https://open.spotify.com/album/0sjhU3kzHU2dfd6SVrzLIp) | 2:49 |
 | 24 | [WELCOME \(feat\. Eminem\)](https://open.spotify.com/track/5xYS6MQKWWdMYg63hrwIiM) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp) | [WELCOME \(feat\. Eminem\)](https://open.spotify.com/album/0SIpXn5R4mqILiDJjWpbQd) | 2:42 |
 | 25 | [REAL LOVE \(feat\. Kaneee\)](https://open.spotify.com/track/4b6QVDiOfgIwsZF5qjkD1L) | [Pxrge Trxxxper](https://open.spotify.com/artist/4IxdeBhAksJLxEMRzvdWie), [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09) | [REAL LOVE \(feat\. Kaneee\)](https://open.spotify.com/album/1xqlrOcRxEkaEsIsxzQAZq) | 2:53 |
 | 26 | [Up Down](https://open.spotify.com/track/2nQSBKOSVIpdfJfU1EvIsK) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [On Hope](https://open.spotify.com/album/4YWeud1oNipxFoTCRKDbVI) | 3:17 |

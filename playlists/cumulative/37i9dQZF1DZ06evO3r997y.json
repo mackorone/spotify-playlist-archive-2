@@ -34,7 +34,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-05",
+      "date_removed": null,
       "duration_ms": 258252,
       "name": "23\u6642\u306e\u6625\u96f7\u5c11\u5973 Live at \u540d\u53e4\u5c4b\u5e02\u516c\u4f1a\u5802 2020/10/3",
       "url": "https://open.spotify.com/track/6UlS8qU6OyXMHI7LkiwyhR"
@@ -401,6 +401,24 @@
     },
     {
       "album": {
+        "name": "Journey",
+        "url": "https://open.spotify.com/album/42V5bMew9rzNjiFWFlOjQf"
+      },
+      "artists": [
+        {
+          "name": "Akari Kito",
+          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
+        }
+      ],
+      "date_added": "2026-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260906,
+      "name": "Dear Doze Days",
+      "url": "https://open.spotify.com/track/7CqlLEZpUu2cZRo8I9Aywz"
+    },
+    {
+      "album": {
         "name": "Dear Doze Days",
         "url": "https://open.spotify.com/album/13qVL16kWobXvuJjRYLJf2"
       },
@@ -430,10 +448,28 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 261306,
       "name": "Dear Doze Days",
       "url": "https://open.spotify.com/track/5yBKXF9lRmyispie9cWrrB"
+    },
+    {
+      "album": {
+        "name": "Style",
+        "url": "https://open.spotify.com/album/58lqvH4ZSvaj84l1XX6v3T"
+      },
+      "artists": [
+        {
+          "name": "Akari Kito",
+          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
+        }
+      ],
+      "date_added": "2026-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245200,
+      "name": "Dear My Distance",
+      "url": "https://open.spotify.com/track/1rRDhwBhZCRBILLtCsSeG6"
     },
     {
       "album": {
@@ -448,10 +484,28 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 245200,
       "name": "Dear My Distance",
       "url": "https://open.spotify.com/track/2Hskil6dTjYz6bHF0WUIw9"
+    },
+    {
+      "album": {
+        "name": "Desire Again",
+        "url": "https://open.spotify.com/album/3fxrUdvYmXVYcDrdmsj2m8"
+      },
+      "artists": [
+        {
+          "name": "Akari Kito",
+          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
+        }
+      ],
+      "date_added": "2026-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240493,
+      "name": "Desire Again",
+      "url": "https://open.spotify.com/track/3xbeGzh2ZlTYIbCsUULV2b"
     },
     {
       "album": {
@@ -466,7 +520,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 240493,
       "name": "Desire Again",
       "url": "https://open.spotify.com/track/54a0azbxaptJ2rHofB7OzD"
@@ -754,7 +808,7 @@
       ],
       "date_added": "2025-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 256106,
       "name": "Eternally",
       "url": "https://open.spotify.com/track/3jsCKT0l7XSXjRjJel9QzC"

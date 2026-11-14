@@ -2,9 +2,9 @@
 
 ### [254 Flow](https://open.spotify.com/playlist/37i9dQZF1DWZdKbfDnTWVN)
 
-> The best of bars, beats & rhymes from the 254\. Cover: <a href="https://open.spotify.com/artist/53nMUZwbwGd2cdY8P8EsHD?si=27c0f2a941944451"> Toxic Lyrikali</a>
+> The best of bars, beats & rhymes from the 254\. Cover: <a href="https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az?si=8592444554804216"> Khaligraph Jones</a>
 
-546 songs - 1 day 5 hr 13 min
+548 songs - 1 day 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [ATTENTION](https://open.spotify.com/track/6ez0JhtiRFzmBej1FBiU2S) | [Boeyylee](https://open.spotify.com/artist/4qMKT1IgMKpk9fnv6FYXLN), [The Renaissance Man](https://open.spotify.com/artist/6nszgkJNXu8EhZdEzaYqWi) | [ATTENTION](https://open.spotify.com/album/4n52Tqi6oeQ6ernLccrz2D) | 2:08 | 2023-04-20 | 2023-09-02 |
 | [Au Revoir](https://open.spotify.com/track/4FvQmCYubtpfKo5Dhbmf0f) | [Sheaffèr Hez](https://open.spotify.com/artist/0qULQvjFwJoYTjwAMQQFc7) | [SUPREME](https://open.spotify.com/album/3fXiFOgUIgjXK7XndFWN3I) | 2:26 | 2022-06-02 | 2022-10-22 |
 | [Audio Ngori](https://open.spotify.com/track/3JP47gebAg19MBjI1c2nU5) | [KiliHippie](https://open.spotify.com/artist/64AUkgXTxHJCmPnE44m8wX), [The Swamiii](https://open.spotify.com/artist/41s5UgViwfxoeKBxuJjtVh) | [Audio Ngori](https://open.spotify.com/album/2StZdKps7oakxQ01yofgfp) | 2:42 | 2024-06-13 | 2024-08-09 |
+| [Aura Farm](https://open.spotify.com/track/1OIn3sQR66QbBQJ7zmR9oq) | [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az) | [Aura Farm](https://open.spotify.com/album/42SVEFXuzJYqsWIc7AlFQA) | 3:14 | 2026-11-13 |  |
 | [Backbencher](https://open.spotify.com/track/040zksag8ezHjbAN6aSAQY) | [Toxic Lyrikali](https://open.spotify.com/artist/53nMUZwbwGd2cdY8P8EsHD), [Countree Hype](https://open.spotify.com/artist/4trjztkEHNUqYhnW3XTG8C) | [Backbencher](https://open.spotify.com/album/7lydZgu9oglnh5EDYEbG6z) | 2:53 | 2025-06-19 | 2026-02-27 |
 | [Bad Everyday](https://open.spotify.com/track/3WL6zAHhNf0vfdIhRv8O61) | [Toxic Lyrikali](https://open.spotify.com/artist/53nMUZwbwGd2cdY8P8EsHD) | [Bad Everyday](https://open.spotify.com/album/5kPrLWslg79OTdErJO5wfe) | 2:49 | 2026-02-20 |  |
 | [Bad Gyal](https://open.spotify.com/track/7CTNLehVKLNLXLthemIe1J) | [Maandy](https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP) | [Bad Gyal](https://open.spotify.com/album/6YFg7APzLlwPiCDnRnmVNF) | 3:41 | 2025-08-07 | 2025-08-15 |
@@ -534,6 +535,7 @@
 | [Wasp](https://open.spotify.com/track/76TeUkPnBIKQuj3aNgSvNn) | [Big yasa](https://open.spotify.com/artist/4irem3YwBjOoB8CoYIPwRc) | [Biggs](https://open.spotify.com/album/5jSHZN2vS2gvYySlQfUQBD) | 3:22 | 2022-07-07 | 2022-11-14 |
 | [Wasp](https://open.spotify.com/track/79hqcl7Dniw9I7WXxXMnCr) | [Big yasa](https://open.spotify.com/artist/4irem3YwBjOoB8CoYIPwRc) | [Biggs \(Deluxe\)](https://open.spotify.com/album/4XCPADLezjGTILjmlgL4Kg) | 3:22 | 2022-07-07 | 2023-06-12 |
 | [Wassup](https://open.spotify.com/track/5yJZO7Hrkpw0dYmmfwKJUm) | [Qwiss](https://open.spotify.com/artist/5dX9LFDFHBsiS5D6534nMX) | [Wassup](https://open.spotify.com/album/0Y9ziPIthD1I7YXqYGuHe2) | 3:18 | 2024-05-16 | 2024-06-28 |
+| [Weka Down](https://open.spotify.com/track/4uwiFL4rNy3eQW4l18HikO) | [Boutross](https://open.spotify.com/artist/60llzVzPwr1pfNy7qerr7y), [Dyana Cods](https://open.spotify.com/artist/1TMFrPAmqxTK5rVS8ujqMR) | [Weka Down](https://open.spotify.com/album/0dlomqnn0SbykVwwmWs9lu) | 3:14 | 2026-11-13 |  |
 | [Welcome to Kanairo](https://open.spotify.com/track/5JZzQIx71SDZ4YtWXVCru5) | [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU) | [Welcome to Kanairo](https://open.spotify.com/album/0Nf9aTwU6dpqhzVs0Sa3yp) | 3:56 | 2026-10-23 |  |
 | [Well Known Bandit](https://open.spotify.com/track/0AU5alukDdk2Z8pWKPzTUV) | [Alwyne Thuggerson](https://open.spotify.com/artist/5xSHBh0uOb00QCAPURnBnm) | [Well Known Bandit](https://open.spotify.com/album/1E2vfyRJjMEawuf6TByJFa) | 2:58 | 2023-10-26 | 2024-04-06 |
 | [Weyuat](https://open.spotify.com/track/0lQrV1lpPriQmwdwxPcQkg) | [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az) | [Weyuat](https://open.spotify.com/album/6LUXYt1QMVGt38H1fLWARr) | 3:21 | 2025-11-13 | 2026-06-20 |

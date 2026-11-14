@@ -1,6 +1,6 @@
 {
   "description": "Songs to celebrate the life, death, and resurrection of our Lord Jesus all in one collection.",
-  "num_followers": 87085,
+  "num_followers": 87081,
   "original_name": "Easter",
   "owner": {
     "name": "Spotify",
@@ -931,6 +931,22 @@
     {
       "added_at": "2026-04-04 06:04:53",
       "album": {
+        "name": "Greater Things",
+        "url": "https://open.spotify.com/album/6zCU9zG1tIfA9V1UEfSPsz"
+      },
+      "artists": [
+        {
+          "name": "Mack Brock",
+          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
+        }
+      ],
+      "duration_ms": 307026,
+      "name": "Christ Is Risen",
+      "url": "https://open.spotify.com/track/1GQsaKKI0ZJJPI5Zsop20u"
+    },
+    {
+      "added_at": "2026-04-04 06:04:53",
+      "album": {
         "name": "Be One (Deluxe Version)",
         "url": "https://open.spotify.com/album/1BA61ZwyerWAKW9hsPMAlt"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 294813,
       "name": "Christ Is Risen",
       "url": "https://open.spotify.com/track/27q0d0DgZrcnUNr2K0kMPC"
-    },
-    {
-      "added_at": "2026-04-04 06:04:53",
-      "album": {
-        "name": "Greater Things",
-        "url": "https://open.spotify.com/album/6zCU9zG1tIfA9V1UEfSPsz"
-      },
-      "artists": [
-        {
-          "name": "Mack Brock",
-          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
-        }
-      ],
-      "duration_ms": 307026,
-      "name": "Christ Is Risen",
-      "url": "https://open.spotify.com/track/1GQsaKKI0ZJJPI5Zsop20u"
     },
     {
       "added_at": "2026-04-04 06:04:53",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2026-04-04 06:04:53",
       "album": {
-        "name": "When The Light Comes",
-        "url": "https://open.spotify.com/album/0pUmeRHfEG13Y63F3n3o1R"
-      },
-      "artists": [
-        {
-          "name": "Big Daddy Weave",
-          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
-        }
-      ],
-      "duration_ms": 292289,
-      "name": "All Things New",
-      "url": "https://open.spotify.com/track/2D1F0ukjJniQCgO1ex5KJi"
-    },
-    {
-      "added_at": "2026-04-04 06:04:53",
-      "album": {
         "name": "God I'm Just Grateful (Radio Version)",
         "url": "https://open.spotify.com/album/7tuFbno5P8tgY8dQ8KjIpB"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 234844,
       "name": "God I'm Just Grateful - Radio Version",
       "url": "https://open.spotify.com/track/1PVWmMVBJ8RrHMsvL1c15o"
+    },
+    {
+      "added_at": "2026-04-04 06:04:53",
+      "album": {
+        "name": "When The Light Comes",
+        "url": "https://open.spotify.com/album/0pUmeRHfEG13Y63F3n3o1R"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "duration_ms": 292289,
+      "name": "All Things New",
+      "url": "https://open.spotify.com/track/2D1F0ukjJniQCgO1ex5KJi"
     },
     {
       "added_at": "2026-04-04 06:04:53",
@@ -1579,18 +1579,18 @@
     {
       "added_at": "2026-04-04 06:04:53",
       "album": {
-        "name": "Christ to Every Nation",
-        "url": "https://open.spotify.com/album/6mXnYUrT77iI7vygpw5yAL"
+        "name": "Everlasting God",
+        "url": "https://open.spotify.com/album/740ShfwTNA7tb8fXRDlenD"
       },
       "artists": [
         {
-          "name": "Stillcreek",
-          "url": "https://open.spotify.com/artist/11gEoW9B8Wb6GjflubNjOW"
+          "name": "Brenton Brown",
+          "url": "https://open.spotify.com/artist/3oZR0tAkfIn1YmLe1faQST"
         }
       ],
-      "duration_ms": 251408,
-      "name": "Christ to Every Nation",
-      "url": "https://open.spotify.com/track/6bpr23ZKuduCEPMyYtxFqz"
+      "duration_ms": 285800,
+      "name": "Everlasting God",
+      "url": "https://open.spotify.com/track/3HpJPfFLXSiTBjYCi5medt"
     },
     {
       "added_at": "2026-04-04 06:04:53",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2026-04-04 06:04:53",
       "album": {
+        "name": "Christ to Every Nation",
+        "url": "https://open.spotify.com/album/6mXnYUrT77iI7vygpw5yAL"
+      },
+      "artists": [
+        {
+          "name": "Stillcreek",
+          "url": "https://open.spotify.com/artist/11gEoW9B8Wb6GjflubNjOW"
+        }
+      ],
+      "duration_ms": 251408,
+      "name": "Christ to Every Nation",
+      "url": "https://open.spotify.com/track/6bpr23ZKuduCEPMyYtxFqz"
+    },
+    {
+      "added_at": "2026-04-04 06:04:53",
+      "album": {
         "name": "Alive In You (Studio Version)",
         "url": "https://open.spotify.com/album/6VEoSGKqDqAPkhu5ctXxHH"
       },
@@ -1627,22 +1643,6 @@
       "duration_ms": 239999,
       "name": "Alive In You - Studio Version",
       "url": "https://open.spotify.com/track/09iE9CebgTgFDEluHH1ept"
-    },
-    {
-      "added_at": "2026-04-04 06:04:53",
-      "album": {
-        "name": "Everlasting God",
-        "url": "https://open.spotify.com/album/740ShfwTNA7tb8fXRDlenD"
-      },
-      "artists": [
-        {
-          "name": "Brenton Brown",
-          "url": "https://open.spotify.com/artist/3oZR0tAkfIn1YmLe1faQST"
-        }
-      ],
-      "duration_ms": 285800,
-      "name": "Everlasting God",
-      "url": "https://open.spotify.com/track/3HpJPfFLXSiTBjYCi5medt"
     },
     {
       "added_at": "2026-04-04 06:04:53",
@@ -2195,26 +2195,6 @@
     {
       "added_at": "2026-04-04 06:04:53",
       "album": {
-        "name": "Fidelity",
-        "url": "https://open.spotify.com/album/4VEedDAjIFSLYbSNLNHcfX"
-      },
-      "artists": [
-        {
-          "name": "Jonny Henninger",
-          "url": "https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4"
-        },
-        {
-          "name": "Mattea Bret",
-          "url": "https://open.spotify.com/artist/6fNpEj8qIBOiH0UpkdlaWK"
-        }
-      ],
-      "duration_ms": 205479,
-      "name": "Resurrect (John 20)",
-      "url": "https://open.spotify.com/track/7kMLw2enk84NNp001TSfTw"
-    },
-    {
-      "added_at": "2026-04-04 06:04:53",
-      "album": {
         "name": "Human Emergency",
         "url": "https://open.spotify.com/album/0L1qTUGKBZjnTDGnxFZiHk"
       },
@@ -2235,22 +2215,22 @@
     {
       "added_at": "2026-04-04 06:04:53",
       "album": {
-        "name": "The Lamb Slain (Live)",
-        "url": "https://open.spotify.com/album/4hCC720mFetw7yfbwIjGEn"
+        "name": "Fidelity",
+        "url": "https://open.spotify.com/album/4VEedDAjIFSLYbSNLNHcfX"
       },
       "artists": [
         {
-          "name": "Jesus Culture",
-          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
+          "name": "Jonny Henninger",
+          "url": "https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4"
         },
         {
-          "name": "Brett Lee Miller",
-          "url": "https://open.spotify.com/artist/4yPKSKUdN0ah5213zrmEKF"
+          "name": "Mattea Bret",
+          "url": "https://open.spotify.com/artist/6fNpEj8qIBOiH0UpkdlaWK"
         }
       ],
-      "duration_ms": 449474,
-      "name": "The Lamb Slain - Live",
-      "url": "https://open.spotify.com/track/3EZoFCVRhsSQxFT0k2hGAW"
+      "duration_ms": 205479,
+      "name": "Resurrect (John 20)",
+      "url": "https://open.spotify.com/track/7kMLw2enk84NNp001TSfTw"
     },
     {
       "added_at": "2026-04-04 06:04:53",
@@ -2275,6 +2255,26 @@
     {
       "added_at": "2026-04-04 06:04:53",
       "album": {
+        "name": "The Lamb Slain (Live)",
+        "url": "https://open.spotify.com/album/4hCC720mFetw7yfbwIjGEn"
+      },
+      "artists": [
+        {
+          "name": "Jesus Culture",
+          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
+        },
+        {
+          "name": "Brett Lee Miller",
+          "url": "https://open.spotify.com/artist/4yPKSKUdN0ah5213zrmEKF"
+        }
+      ],
+      "duration_ms": 449474,
+      "name": "The Lamb Slain - Live",
+      "url": "https://open.spotify.com/track/3EZoFCVRhsSQxFT0k2hGAW"
+    },
+    {
+      "added_at": "2026-04-04 06:04:53",
+      "album": {
         "name": "Long Live The King (Live At The Grove)",
         "url": "https://open.spotify.com/album/0agzLXWxrapOwNXsGXx9nn"
       },
@@ -2295,22 +2295,6 @@
     {
       "added_at": "2026-04-04 06:04:53",
       "album": {
-        "name": "hallelujah",
-        "url": "https://open.spotify.com/album/0igxQaN8iQNIwDvZBSKKRA"
-      },
-      "artists": [
-        {
-          "name": "Matt Crocker",
-          "url": "https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec"
-        }
-      ],
-      "duration_ms": 328607,
-      "name": "hallelujah",
-      "url": "https://open.spotify.com/track/7jwDkuFY3aHdVo42eesrnI"
-    },
-    {
-      "added_at": "2026-04-04 06:04:53",
-      "album": {
         "name": "Crown Him With Many Crowns",
         "url": "https://open.spotify.com/album/1sMZWJzCiTL5NpONUbg6LU"
       },
@@ -2323,6 +2307,22 @@
       "duration_ms": 254479,
       "name": "Crown Him With Many Crowns",
       "url": "https://open.spotify.com/track/0h6plgwOJE1u4kcm7eh0hd"
+    },
+    {
+      "added_at": "2026-04-04 06:04:53",
+      "album": {
+        "name": "hallelujah",
+        "url": "https://open.spotify.com/album/0igxQaN8iQNIwDvZBSKKRA"
+      },
+      "artists": [
+        {
+          "name": "Matt Crocker",
+          "url": "https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec"
+        }
+      ],
+      "duration_ms": 328607,
+      "name": "hallelujah",
+      "url": "https://open.spotify.com/track/7jwDkuFY3aHdVo42eesrnI"
     },
     {
       "added_at": "2026-04-04 06:04:53",
@@ -2343,22 +2343,6 @@
     {
       "added_at": "2026-04-04 06:04:53",
       "album": {
-        "name": "Raise Up The Crown",
-        "url": "https://open.spotify.com/album/1ebHV0sV9fbjhQ9jw2bFsu"
-      },
-      "artists": [
-        {
-          "name": "Phillips, Craig & Dean",
-          "url": "https://open.spotify.com/artist/0g5OkLnQogzLrT9s5vw6kl"
-        }
-      ],
-      "duration_ms": 286546,
-      "name": "The Wonderful Cross",
-      "url": "https://open.spotify.com/track/023AkI7rxNRoAc75druPXP"
-    },
-    {
-      "added_at": "2026-04-04 06:04:53",
-      "album": {
         "name": "RESURRECTION HERE",
         "url": "https://open.spotify.com/album/4QfZ0A7R1ciDP8ZucNZYfb"
       },
@@ -2371,6 +2355,22 @@
       "duration_ms": 256892,
       "name": "RESURRECTION HERE",
       "url": "https://open.spotify.com/track/4vdHySGP8UmHbkf4JXqhUB"
+    },
+    {
+      "added_at": "2026-04-04 06:04:53",
+      "album": {
+        "name": "Raise Up The Crown",
+        "url": "https://open.spotify.com/album/1ebHV0sV9fbjhQ9jw2bFsu"
+      },
+      "artists": [
+        {
+          "name": "Phillips, Craig & Dean",
+          "url": "https://open.spotify.com/artist/0g5OkLnQogzLrT9s5vw6kl"
+        }
+      ],
+      "duration_ms": 286546,
+      "name": "The Wonderful Cross",
+      "url": "https://open.spotify.com/track/023AkI7rxNRoAc75druPXP"
     },
     {
       "added_at": "2026-04-04 06:04:53",

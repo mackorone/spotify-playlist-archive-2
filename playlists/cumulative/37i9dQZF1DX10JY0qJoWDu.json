@@ -977,6 +977,28 @@
     },
     {
       "album": {
+        "name": "Disney Jr. Music: Mickey's Home Alone",
+        "url": "https://open.spotify.com/album/2gvP77twMWRk4vmpIauwog"
+      },
+      "artists": [
+        {
+          "name": "Mickey Mouse Clubhouse+ - Cast",
+          "url": "https://open.spotify.com/artist/2tUJ9RmG3zSwctpikuzuzq"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129467,
+      "name": "Ho-Ho-Home for Christmas",
+      "url": "https://open.spotify.com/track/20dc3QEtGxxmrTIeI21I9k"
+    },
+    {
+      "album": {
         "name": "Princess Christmas",
         "url": "https://open.spotify.com/album/1WJHhN69hjNuQPG2iJ36BY"
       },

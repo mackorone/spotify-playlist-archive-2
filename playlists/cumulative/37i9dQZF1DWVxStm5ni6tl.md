@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels in Canada\. Updates every Wednesday\. Cover: Brat Star, Artwork: Isu Kim
 
-3,249 songs - 6 day 22 hr 57 min
+3,249 songs - 6 day 23 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1432,6 +1432,7 @@
 | [Jump](https://open.spotify.com/track/4vOcBkPhljHbMKor8qTQ5M) | [Isaiah Peck](https://open.spotify.com/artist/67014IFK655tFf5wjpb3v7) | [Jump](https://open.spotify.com/album/0aIwDUnvbZW8zFwrcSEKcI) | 2:53 | 2026-09-02 | 2026-09-24 |
 | [Jump Off](https://open.spotify.com/track/6on03Tw14NWeIjumedTL71) | [TOME](https://open.spotify.com/artist/2aRiWRO2A7xUI2sqZyJJmX), [Wave Montega](https://open.spotify.com/artist/5cJigbet3Qaxt5rH4qDuQs), [Godflow](https://open.spotify.com/artist/0QsEQ9wcaW5ruKmXNWxUJC) | [Jump Off](https://open.spotify.com/album/2MNQyEcTDvGJ0qXQ975dhK) | 2:09 | 2024-01-31 | 2024-03-07 |
 | [Jump The Fences](https://open.spotify.com/track/6ijYdp16OS5L6SIQ7D9hmO) | [Julyan](https://open.spotify.com/artist/10ifu6MiIcrhdrUEWJsACG) | [Jump The Fences](https://open.spotify.com/album/36Fr7LONw4pmUoalQen5Ua) | 3:29 | 2023-10-25 | 2023-11-16 |
+| [June on Your Skin](https://open.spotify.com/track/6zrxzGTyCr751V0RBQ0TYb) | [Jade Monet](https://open.spotify.com/artist/5AE7MlHMoaaPI9VhtYubmT) | [Club Jade Monet](https://open.spotify.com/album/0G9n8yzgBgLZf1iIySIatk) | 4:47 | 2026-11-13 |  |
 | [Junkie](https://open.spotify.com/track/23Dsu8mCYoVTFBe4IOZSzQ) | [Ezekyel & Lionex](https://open.spotify.com/artist/08PIQfmkSBWd53Pjdp9nZo), [Nueva Vista](https://open.spotify.com/artist/2OP62XgfFu4Ye4ng4X2e9e) | [Junkie](https://open.spotify.com/album/631UAdqHsa97P0VOFxxybP) | 2:49 | 2024-04-10 | 2024-04-24 |
 | [Juntos](https://open.spotify.com/track/7lN2reGdTtgJjQkPoTqsEo) | [Odious Love](https://open.spotify.com/artist/5sDKcynpYYB2jXx8NEXQN3) | [Juntos](https://open.spotify.com/album/6hm5k9tEBNkflkYP927kMZ) | 3:26 | 2025-03-12 | 2025-04-03 |
 | [Jusqu'au Lendemain](https://open.spotify.com/track/7CHTA19Vm7f9gDBV9zybn8) | [Greezy](https://open.spotify.com/artist/1zZ9nySaVJp9srjS4Cd1hr) | [Jusqu'au Lendemain](https://open.spotify.com/album/3ARRS3JxPfbMCjzixtxsuC) | 4:11 | 2025-11-19 | 2025-12-04 |
@@ -2945,7 +2946,6 @@
 | [Toxic \(to Me\)](https://open.spotify.com/track/3brWDMDsaHSfgrCSV7k3Go) | [Josiane](https://open.spotify.com/artist/20D5XV4MYVeOl23idQan4B) | [Toxic \(to Me\)](https://open.spotify.com/album/3WTNiGtLU1R6KHEGBhl4EN) | 3:17 | 2025-07-10 | 2025-07-31 |
 | [Toxic Temptress](https://open.spotify.com/track/4u1zWGPAu89gOiaMFLrqBG) | [Beauty in the Riot](https://open.spotify.com/artist/7owr28kbA6x7F5sCuzeh3m) | [To Do](https://open.spotify.com/album/2iY9PAEn46R9nLkfUmmmj4) | 1:54 | 2025-10-10 | 2025-10-23 |
 | [Tracer des lignes](https://open.spotify.com/track/19G5LnSJ7Gc3fuww6Q7oET) | [oui merci](https://open.spotify.com/artist/6XUr1bWIBVkLmXHySucgyr) | [ok bebye](https://open.spotify.com/album/3o4TZjqq0E3DTyvkAzKHSi) | 3:09 | 2023-10-04 | 2023-10-26 |
-| [Track 3](https://open.spotify.com/track/6zrxzGTyCr751V0RBQ0TYb) | [Jade Monet](https://open.spotify.com/artist/5AE7MlHMoaaPI9VhtYubmT) | [Club Jade Monet](https://open.spotify.com/album/0G9n8yzgBgLZf1iIySIatk) | 0:00 | 2026-11-13 |  |
 | [Trankilows](https://open.spotify.com/track/5DHLfS8t0iKMCcvQVzbvBn) | [Racasse](https://open.spotify.com/artist/0GwP2VFRGAt7RaZwjDQHN6), [Boogát](https://open.spotify.com/artist/2y2bEk3zCBVBMDkrXgA29R) | [Trankilows](https://open.spotify.com/album/30xGiEytoewp92tTovjmIz) | 3:12 | 2024-08-07 | 2024-08-22 |
 | [Trembler](https://open.spotify.com/track/34dD2ftfurB927MOQsT5Uu) | [Salome](https://open.spotify.com/artist/5DxbeMKmMhAE6j80lDhUxq) | [Trembler](https://open.spotify.com/album/6iUitzMM04PySHV9Ez6M5W) | 2:38 | 2024-11-20 | 2024-12-05 |
 | [Tremors](https://open.spotify.com/track/4Z58ggf4sJnDfgfmfwGaBg) | [Celleste](https://open.spotify.com/artist/3tM3LCbkwu6JuDgLyPzMiE) | [Tremors](https://open.spotify.com/album/3KITPrwwqjZY9YcohoxsNP) | 2:51 | 2024-07-24 | 2024-08-22 |

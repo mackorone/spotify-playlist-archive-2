@@ -4,7 +4,7 @@
 
 > start your day right ☕️ wake up with some warm and slow Jazz
 
-770 songs - 1 day 21 hr 28 min
+773 songs - 1 day 21 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [All That's Left Is A Song](https://open.spotify.com/track/5TDRgPEY4sMWQsMuR6Yj6K) | [Ryder Quartet](https://open.spotify.com/artist/03feorh2ud2VxCrgRcsaLx) | [All That's Left Is A Song](https://open.spotify.com/album/2FBgIfyayKTGoQijjiKW0N) | 2:45 | 2024-01-05 | 2024-07-13 |
 | [All the Time](https://open.spotify.com/track/0XxT9BefucZG5PNIMNCgEM) | [The Central Park North](https://open.spotify.com/artist/5puwAFDyA8ztu2yucgdWKY) | [All the Time](https://open.spotify.com/album/1I0vmtYXaxsa5sBE2CJlTK) | 2:55 | 2022-05-17 | 2023-03-31 |
 | [All Your Love](https://open.spotify.com/track/5yeAueY8i94ZgDhYrrtqAy) | [Joe Wilson Trio](https://open.spotify.com/artist/3K1jFkuCruS7nx1GbWvH8E) | [All Your Love](https://open.spotify.com/album/1ue4TwX3fJ4SoaD9BuXaID) | 2:44 | 2024-03-08 | 2024-12-10 |
+| [Along Kingsley Road](https://open.spotify.com/track/79atobMt0bJm8EBvpH7oUa) | [Sam Creese](https://open.spotify.com/artist/4clo4DnnChvymuKlxBeg7q) | [Along Kingsley Road](https://open.spotify.com/album/2I4cOP2yXQ6USyHvlB4JbR) | 3:37 | 2026-11-13 |  |
 | [Ambiance](https://open.spotify.com/track/4Ws3qsowDjLZUkuC0SXYs1) | [Black Door Band](https://open.spotify.com/artist/5HwT1pXVlbHMRiuOWJhcni) | [Ambiance](https://open.spotify.com/album/1EVoAtvMrWdNbDQwsqo1kP) | 3:15 | 2025-04-23 | 2025-08-20 |
 | [Amenity](https://open.spotify.com/track/22ST1wR1gV2twZd5Ylr8Ln) | [Most Iverson](https://open.spotify.com/artist/7b4IdPtHjtIptOsszfiSy2) | [Amenity](https://open.spotify.com/album/25AGC7Jl9JmsBzDILQUbaP) | 3:56 | 2025-05-19 | 2025-09-18 |
 | [Amnesia](https://open.spotify.com/track/1louoVYSYYP4FwOBz2KlxR) | [Andreas Gidlund](https://open.spotify.com/artist/1i1prvKQoU8d7eTrRHIMtO) | [Amnesia](https://open.spotify.com/album/5nJI9LH0cyPEMVqxfc1m07) | 4:47 | 2022-05-31 | 2022-09-07 |
@@ -297,7 +298,7 @@
 | [In Bloom](https://open.spotify.com/track/1vHdsEJac4TZE9xycHHcdj) | [High North Trio](https://open.spotify.com/artist/4ecpTLtCqe62hwHasUcfUY) | [A Sunday Kind Of Love](https://open.spotify.com/album/6AuNg5Zym7yfX7rgdy6BAW) | 2:54 | 2022-05-31 | 2025-07-16 |
 | [In every direction](https://open.spotify.com/track/0C5Hg2muMEICk0APRsFh44) | [Jacky Bonnet Group](https://open.spotify.com/artist/6raCh9DUKDTErUk5QmRYzX) | [In every direction](https://open.spotify.com/album/7cnrPaAQq9d24Zwp5fQQq5) | 3:19 | 2024-08-06 | 2024-12-04 |
 | [In Every Way](https://open.spotify.com/track/1YlfyVONpiMygsqGI6dfDt) | [Trio Serena](https://open.spotify.com/artist/0rdaxUS2UanmnFN66x4Y8Z) | [In Every Way](https://open.spotify.com/album/1iE7mKXtPuIPlDyJHmMpgD) | 4:54 | 2024-06-24 | 2024-12-04 |
-| [In the Morning Sun](https://open.spotify.com/track/5mp8boY305gGcGxP4HVRq3) | [Carl Bagge Trio](https://open.spotify.com/artist/1hyKcLTz5pzxyla8DxNTcs) | [In the Morning Sun](https://open.spotify.com/album/2VpwJFw6eCxKIlpRRrTcvw) | 3:04 | 2024-10-01 |  |
+| [In the Morning Sun](https://open.spotify.com/track/5mp8boY305gGcGxP4HVRq3) | [Carl Bagge Trio](https://open.spotify.com/artist/1hyKcLTz5pzxyla8DxNTcs) | [In the Morning Sun](https://open.spotify.com/album/2VpwJFw6eCxKIlpRRrTcvw) | 3:04 | 2024-10-01 | 2026-11-14 |
 | [In The Old Fashioned Way](https://open.spotify.com/track/2ExRtsNPSx1XupyPBq7Wtr) | [Mornington](https://open.spotify.com/artist/1oC6eOjjixPdeV0HvUAviS) | [In The Old Fashioned Way](https://open.spotify.com/album/7hZ0nH506LaGxcYLxlb0ms) | 3:48 | 2023-01-12 | 2024-06-01 |
 | [In The Wee Small Hours Of The Morning](https://open.spotify.com/track/2UPYanBCFUE1XeJUxFrMFP) | [Greydon Park Band](https://open.spotify.com/artist/6pZIC4vzuNxdwy8hJSq29S) | [In The Wee Small Hours Of The Morning](https://open.spotify.com/album/1n2ZwnIo8yDU6T64f2ARiK) | 3:54 | 2023-01-26 | 2025-04-16 |
 | [In Your Arms](https://open.spotify.com/track/3mTsbs8DiR6OoLCz2KlzZI) | [Emily Green Trio](https://open.spotify.com/artist/1x15bUK0BRnIevwSpYxMjg) | [In Your Arms](https://open.spotify.com/album/7vkvgxXf1y12Y3eejsMU49) | 3:33 | 2023-12-08 | 2024-11-26 |
@@ -340,7 +341,7 @@
 | [Land Between the Lakes](https://open.spotify.com/track/6lFwLd1nlzrdVIAlB5goJo) | [Jaden Berry](https://open.spotify.com/artist/1PjLk33ZP5fgTFpbgN5kJL) | [Land Between the Lakes](https://open.spotify.com/album/1TZMHVgskfAiGskycdSipZ) | 2:43 | 2023-04-13 | 2024-07-13 |
 | [Last Call](https://open.spotify.com/track/2nUhKiUfVdLcGmcdYHdjBw) | [Glass Trio](https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm) | [Nightcaps](https://open.spotify.com/album/2LkaBy0R9FbEBd6xqsT0ja) | 2:49 | 2023-02-16 | 2024-05-24 |
 | [Last Time I Saw You](https://open.spotify.com/track/2Qyrr1fiYwV3bShAZqiivZ) | [West Village Trio](https://open.spotify.com/artist/6cIFYOs23Aowktaez0d6ew) | [Rue Saint\-Rustique](https://open.spotify.com/album/1IJrePjVbCWRK31hmKa3jB) | 3:55 | 2022-12-08 | 2023-03-03 |
-| [Late Afternoon](https://open.spotify.com/track/3hKHxleKykJCYiW4u3EoWM) | [Erik Moreau](https://open.spotify.com/artist/1S08oiBCDKPErHKaJ42YAG) | [Late Afternoon](https://open.spotify.com/album/1ET6CT4IwTDAFzkEoYAVAe) | 3:38 | 2026-04-24 |  |
+| [Late Afternoon](https://open.spotify.com/track/3hKHxleKykJCYiW4u3EoWM) | [Erik Moreau](https://open.spotify.com/artist/1S08oiBCDKPErHKaJ42YAG) | [Late Afternoon](https://open.spotify.com/album/1ET6CT4IwTDAFzkEoYAVAe) | 3:38 | 2026-04-24 | 2026-11-14 |
 | [Late Afternoon](https://open.spotify.com/track/4ySYI3lRedo9iXbrraPsQN) | [The Central Park North](https://open.spotify.com/artist/5puwAFDyA8ztu2yucgdWKY) | [Late Afternoon](https://open.spotify.com/album/4xHxAFDudO7yvkMVf0kiVB) | 3:36 | 2024-09-02 | 2025-04-16 |
 | [Late Bagatelle](https://open.spotify.com/track/7BfOE71MK4usBrYmArJt5M) | [Nouvelle Marée](https://open.spotify.com/artist/53xh7BAl56yKW1LrqaLqdq) | [Late Bagatelle](https://open.spotify.com/album/1rn3qFrQqF1w4uKBU0mnhW) | 3:59 | 2023-08-17 | 2024-09-10 |
 | [Late Train Home](https://open.spotify.com/track/6ZEFPvqmmOHIlFcctqKkz3) | [Andy Luma Trio](https://open.spotify.com/artist/3vnHJt1VixhKHJ0b8IhwIy) | [Late Train Home](https://open.spotify.com/album/2QAlvO6AqAYdSwjshvGE8h) | 3:21 | 2026-04-24 |  |
@@ -406,7 +407,7 @@
 | [Mellow Moments](https://open.spotify.com/track/3YGVTfSxTCuDykWrENqmGp) | [Leeluck & Co](https://open.spotify.com/artist/5IZZX2p6pyi2VqFUBKEDHL) | [Mellow Moments](https://open.spotify.com/album/1ewVy7oBv5CLUM7htj4oFk) | 3:08 | 2023-04-27 |  |
 | [Merry Monday](https://open.spotify.com/track/4jZOeSzfXYIBJszABDdba0) | [Lennie Weston](https://open.spotify.com/artist/2i25BOgCBeXtPKKpj3I0NJ) | [Merry Monday](https://open.spotify.com/album/4jE1tDbdj3RgvlxGGiT72y) | 3:10 | 2022-12-01 | 2026-03-19 |
 | [Midnight Kiss](https://open.spotify.com/track/24cotmQXHqpfCQ7Z5eJxyd) | [Neil Chapman Green](https://open.spotify.com/artist/5iyGZWUlM8wxizjjtBLGFZ) | [Midnight Kiss](https://open.spotify.com/album/7qIZh1SsBiFq5djjkz2aFo) | 3:00 | 2025-07-23 |  |
-| [Midnight Sun](https://open.spotify.com/track/6HATVFMZcPhegPvtbCgein) | [Sam Creese](https://open.spotify.com/artist/4clo4DnnChvymuKlxBeg7q) | [Midnight Sun](https://open.spotify.com/album/4HiKCprDCtoLD6D9fvsxZc) | 3:02 | 2026-06-12 |  |
+| [Midnight Sun](https://open.spotify.com/track/6HATVFMZcPhegPvtbCgein) | [Sam Creese](https://open.spotify.com/artist/4clo4DnnChvymuKlxBeg7q) | [Midnight Sun](https://open.spotify.com/album/4HiKCprDCtoLD6D9fvsxZc) | 3:02 | 2026-06-12 | 2026-11-14 |
 | [Milford Sound](https://open.spotify.com/track/1x0FdcEh7F8h1u8Zl9wdcc) | [Alec Taylor Trio](https://open.spotify.com/artist/67UMypld1JroGkopxoDP9J) | [Milford Sound](https://open.spotify.com/album/0VgwZU5kHyc6i3A0WPqApx) | 4:19 | 2024-05-23 | 2025-06-06 |
 | [Mindtricks](https://open.spotify.com/track/7iiaBzL2JWTDMphCxAHyF1) | [Newington Green](https://open.spotify.com/artist/33hLFARszQC3uxE93PiNeE) | [Mindtricks](https://open.spotify.com/album/5HHtmh3GHkQcoXomNJcO6N) | 3:32 | 2025-08-19 | 2025-09-24 |
 | [Mirabelle](https://open.spotify.com/track/5ZZUajubKFkpNW9eI8pedD) | [Isac Solo Trio](https://open.spotify.com/artist/0PQJ8CW64ZpCQTXIWvpkUN) | [Mirabelle](https://open.spotify.com/album/6svrhdbZqSWr6lUuoF16nV) | 3:42 | 2025-04-23 |  |
@@ -440,6 +441,7 @@
 | [My Ideal](https://open.spotify.com/track/74JcbkYE5pCo2aDwfvSZK0) | [Mandevilla](https://open.spotify.com/artist/4Na5KNSDTg543P1FMbaAMk) | [My Ideal](https://open.spotify.com/album/24UkLtCJQy7LB4BMYpmszg) | 3:12 | 2025-01-07 | 2025-04-16 |
 | [My Ideal](https://open.spotify.com/track/6G0UnjCnn674okDwLhYR6W) | [The Bob Davis Group](https://open.spotify.com/artist/1lfkgC6uwLGN8qsvoaRgzT) | [My Ideal](https://open.spotify.com/album/1VPyA2gRCqIEGIXf2wtOQ9) | 3:27 | 2022-05-17 | 2022-09-30 |
 | [My Love](https://open.spotify.com/track/7IVYcE5ah4f7VJBzkAgGo3) | [Arta Porting](https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg) | [My Love](https://open.spotify.com/album/6eEL5AuHX7UYB7594wNaVD) | 4:55 | 2025-07-23 | 2026-01-24 |
+| [My Old House](https://open.spotify.com/track/3gwGdZNVI1MkNqFjYOCh9O) | [Erik Moreau](https://open.spotify.com/artist/1S08oiBCDKPErHKaJ42YAG) | [My Old House](https://open.spotify.com/album/1ARVVmsaj8I8aXbtEZ3jQb) | 3:42 | 2026-11-13 |  |
 | [My One And Only Love](https://open.spotify.com/track/4HhnBJDoi9eLFxvnUh6ZLj) | [Wonder Eve](https://open.spotify.com/artist/2UWIuNSfLubqitB2Kf0rAa) | [My One And Only Love](https://open.spotify.com/album/1sJwVUOrxhTYEqPwlJrpht) | 3:42 | 2022-12-22 | 2023-05-04 |
 | [My Romance](https://open.spotify.com/track/4kjKUNTgMPWnzAD00cpd91) | [Ballroom Jazz Collective](https://open.spotify.com/artist/0i7Yh2vJ2r5pMEMUjgntGL) | [My Romance](https://open.spotify.com/album/0qoXES4Bc1uLeVjahn6ypA) | 3:48 | 2022-05-17 | 2023-01-27 |
 | [My Shining Hour](https://open.spotify.com/track/0IBOhB35u9pJLdNSWFuCpM) | [Avery Miller](https://open.spotify.com/artist/01o77igJ4oxA6MnykrzHNN) | [My Shining Hour](https://open.spotify.com/album/7uqCrcgqBpD40AI8MrAxh1) | 2:23 | 2023-08-10 | 2025-07-24 |
@@ -738,6 +740,7 @@
 | [When You Come To Town](https://open.spotify.com/track/5MdCZ4A0EyEJ33f5TtTbPl) | [The Soft Geometry](https://open.spotify.com/artist/3ojL8MCi3IC8GMZA55ncLr) | [When You Come To Town](https://open.spotify.com/album/5wci7GmgMj2q21hw7EqZOe) | 2:39 | 2026-04-24 |  |
 | [Where I Live](https://open.spotify.com/track/76uHBO15FZLTUjiwAJ1Wg4) | [Tom Francis](https://open.spotify.com/artist/6uaneVpX351id57reqAEff) | [Where I Live](https://open.spotify.com/album/4ZydYtbj0uhKgzLe2kP5fn) | 3:37 | 2024-09-02 |  |
 | [Where Two Oceans Meet](https://open.spotify.com/track/6zYKe47ZWgbHRdwUUr52TJ) | [North West Trio](https://open.spotify.com/artist/6xEHf5bkAwi6XDbFwRwUpa) | [Where Two Oceans Meet](https://open.spotify.com/album/3EMRqLCAtf4AviavLTrQlw) | 3:13 | 2023-08-10 | 2026-03-19 |
+| [Wherever You Go](https://open.spotify.com/track/0i1L8rBJ9xqENH4rrkUT1E) | [Stefan Scholz](https://open.spotify.com/artist/4VmbEmPe7idiK1hjtCODVy) | [Wherever You Go](https://open.spotify.com/album/65nMxsygt02wcuDI0CQdWo) | 3:18 | 2026-11-13 |  |
 | [Whispering Skies](https://open.spotify.com/track/1paocj4BrXXNPAuCBXUYwB) | [Douglas Ruby Trio](https://open.spotify.com/artist/1viVBXkZrTMnLT6hsFhiMM) | [Whispering Skies](https://open.spotify.com/album/2y9gWuPjoSrvNrWDOFb3aH) | 3:26 | 2023-08-24 | 2025-07-16 |
 | [Whispers In Velvet](https://open.spotify.com/track/3N4u1pOBRedwtXjTob7Pku) | [Ryder Quartet](https://open.spotify.com/artist/03feorh2ud2VxCrgRcsaLx) | [Whispers In Velvet](https://open.spotify.com/album/5lYQQpMUEwIDu3BN2jcZad) | 2:53 | 2024-07-12 | 2025-04-05 |
 | [Whispers of the Forest](https://open.spotify.com/track/5SJm0GUkKjN3GzJQdwY8RS) | [Arthur Taylor Trio](https://open.spotify.com/artist/5jwt0e3bddxJFS0qGhvv9n) | [Whispers of the Forest](https://open.spotify.com/album/6j4y9U6qH8AiJPOudBRWLR) | 3:27 | 2024-02-02 | 2025-08-20 |

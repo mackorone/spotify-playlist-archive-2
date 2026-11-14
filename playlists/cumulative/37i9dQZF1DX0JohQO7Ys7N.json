@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "Kickback, Relax to some smooth R&B from Nairobi -The city under the Sun. Cover: Kethan, Kinoti & Ochiko",
+  "description": "Kickback, Relax to some smooth R&B from Nairobi -The city under the Sun. Cover: Xenia Manasseh",
   "name": "NairoBae",
   "tracks": [
     {
@@ -514,6 +514,32 @@
       "duration_ms": 193666,
       "name": "Beta",
       "url": "https://open.spotify.com/track/7xO9Xzb6UqP2bFmCUYTAI2"
+    },
+    {
+      "album": {
+        "name": "NBO \u2018X\u2019 PRESS",
+        "url": "https://open.spotify.com/album/6czwEju8FIEBB8PMMuzpl8"
+      },
+      "artists": [
+        {
+          "name": "Xenia Manasseh",
+          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
+        },
+        {
+          "name": "Maali",
+          "url": "https://open.spotify.com/artist/0Bw2d3PrLLqnor0Y9tt9vk"
+        },
+        {
+          "name": "Hendrick Sam",
+          "url": "https://open.spotify.com/artist/3JCq2a0rntSwS9gtnhfNO9"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Bitter Sweet",
+      "url": "https://open.spotify.com/track/1qDz5NiUD1smerTp0bg6hA"
     },
     {
       "album": {
@@ -3747,6 +3773,24 @@
     },
     {
       "album": {
+        "name": "Majaliwa",
+        "url": "https://open.spotify.com/album/1X0KPBJwtLlACmIUyT6lCd"
+      },
+      "artists": [
+        {
+          "name": "Enoque Wambua",
+          "url": "https://open.spotify.com/artist/0T33GNzEO7oaF3HHWrBbF9"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203592,
+      "name": "Majaliwa",
+      "url": "https://open.spotify.com/track/2remaXfInGXbHcT9LhogaY"
+    },
+    {
+      "album": {
         "name": "Malaika",
         "url": "https://open.spotify.com/album/1s8CbG03GlsaUCWHKzjHds"
       },
@@ -4660,7 +4704,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 274838,
       "name": "Nipe Nafasi",
       "url": "https://open.spotify.com/track/4SJmdLCNCosA57w2ebCoBo"
@@ -6392,7 +6436,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 154074,
       "name": "Sweetest Time",
       "url": "https://open.spotify.com/track/2p0Gy479pqaL7GToLiLDhW"

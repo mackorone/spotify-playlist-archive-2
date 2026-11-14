@@ -8256,7 +8256,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 174823,
       "name": "DON'T LET ME GO - again",
       "url": "https://open.spotify.com/track/1Im47iJp9aRbeM0A9YMI5f"
@@ -19428,6 +19428,24 @@
       "duration_ms": 208149,
       "name": "Love4Life",
       "url": "https://open.spotify.com/track/26guYLFX9jh5vNpHuhfiIp"
+    },
+    {
+      "album": {
+        "name": "Lovepill",
+        "url": "https://open.spotify.com/album/1B0Zmve2Tbg6fJEcr6TtSy"
+      },
+      "artists": [
+        {
+          "name": "yeule",
+          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190662,
+      "name": "Lovepill",
+      "url": "https://open.spotify.com/track/3g7vij2FqegH0CE1PAJvfo"
     },
     {
       "album": {

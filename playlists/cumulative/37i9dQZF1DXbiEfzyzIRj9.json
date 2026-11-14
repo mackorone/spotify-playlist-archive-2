@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-19",
-  "description": "\u56fd\u5185\u5916\u306e\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u30c0\u30f3\u30b9\u30df\u30e5\u30fc\u30b8\u30c3\u30af  Cover: Genick *\u91d1\u66dc\u66f4\u65b0\u3002\u30de\u30a4\u30e9\u30a4\u30d6\u30e9\u30ea\u306b\u4fdd\u5b58\u3057\u3066\u6bce\u9031\u30c1\u30a7\u30c3\u30af\u3057\u3088\u3046",
+  "description": "\u56fd\u5185\u5916\u306e\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u30c0\u30f3\u30b9\u30df\u30e5\u30fc\u30b8\u30c3\u30af  Cover: Bonobo *\u91d1\u66dc\u66f4\u65b0\u3002\u30de\u30a4\u30e9\u30a4\u30d6\u30e9\u30ea\u306b\u4fdd\u5b58\u3057\u3066\u6bce\u9031\u30c1\u30a7\u30c3\u30af\u3057\u3088\u3046",
   "name": "Altar JP: \u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u30fb\u30c0\u30f3\u30b9\u30df\u30e5\u30fc\u30b8\u30c3\u30af",
   "tracks": [
     {
@@ -1728,7 +1728,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 218507,
       "name": "All I Ever",
       "url": "https://open.spotify.com/track/7qMeYF3lyeNPWWXH99Inzq"
@@ -3356,7 +3356,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 220343,
       "name": "Baba Calling",
       "url": "https://open.spotify.com/track/42KXlhjwcrXTM0HEOSgwiA"
@@ -4310,7 +4310,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 323000,
       "name": "BBT",
       "url": "https://open.spotify.com/track/6nL8HrnFY23c0iEPyx6WnC"
@@ -4968,7 +4968,7 @@
       ],
       "date_added": "2026-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 214072,
       "name": "Better For My Heart",
       "url": "https://open.spotify.com/track/4fEHpSHZZwOhcEZv2bzuMJ"
@@ -5652,6 +5652,28 @@
       "duration_ms": 157000,
       "name": "Blue Planet - Qrion Remix",
       "url": "https://open.spotify.com/track/4X3pXPqpLT0h36L0aIjPyy"
+    },
+    {
+      "album": {
+        "name": "Blue Yugen (feat. Asei Muraguchi)",
+        "url": "https://open.spotify.com/album/5PzPlt4gP248mekP7Kybwb"
+      },
+      "artists": [
+        {
+          "name": "Ryuw",
+          "url": "https://open.spotify.com/artist/08lMI3IEUcqQ8sbuaReqKc"
+        },
+        {
+          "name": "Asei Muraguchi",
+          "url": "https://open.spotify.com/artist/5I9W3IUqT4KpbTHFa0y0Zx"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167538,
+      "name": "Blue Yugen (feat. Asei Muraguchi)",
+      "url": "https://open.spotify.com/track/0Is4r4P5S553VIwlc7TjN3"
     },
     {
       "album": {
@@ -9316,7 +9338,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 244463,
       "name": "Confirmation!",
       "url": "https://open.spotify.com/track/3SdVtpYwLrVIp99vxkvYET"
@@ -11372,7 +11394,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 173483,
       "name": "Diamanti",
       "url": "https://open.spotify.com/track/6zfxjkpJZNloKSCE7EfB50"
@@ -17178,7 +17200,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 157914,
       "name": "Forever Now - Mellizos Remix",
       "url": "https://open.spotify.com/track/4nJxah6XFMwsnDaGF593r5"
@@ -17570,7 +17592,7 @@
       ],
       "date_added": "2026-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 257280,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/2d09P8kvbBgv9AjdZaDqmp"
@@ -19352,7 +19374,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 188976,
       "name": "Good Measure (I Like It)",
       "url": "https://open.spotify.com/track/54TBRKz1k1CfGTYvxCREWw"
@@ -22629,6 +22651,24 @@
     },
     {
       "album": {
+        "name": "Secrets",
+        "url": "https://open.spotify.com/album/3orGPasOBNUAGcxO6def9S"
+      },
+      "artists": [
+        {
+          "name": "Wallace",
+          "url": "https://open.spotify.com/artist/2VosWday4AoFOXDJgYoDjm"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345953,
+      "name": "I Need to Freak",
+      "url": "https://open.spotify.com/track/6uOwU9Bonu4FKaTWMF1nQ2"
+    },
+    {
+      "album": {
         "name": "I Need U (feat. Ellie Maxwell)",
         "url": "https://open.spotify.com/album/6UClC9nN6aQddmQ3dRKyPS"
       },
@@ -24640,7 +24680,7 @@
       ],
       "date_added": "2026-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 182793,
       "name": "It's Time",
       "url": "https://open.spotify.com/track/7DG8JNiVFcBj5cxBw1fUjR"
@@ -30703,6 +30743,24 @@
     },
     {
       "album": {
+        "name": "Memory Signal / Vakata",
+        "url": "https://open.spotify.com/album/5IMzfD9uFN6RUOIhnYzS4h"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285825,
+      "name": "Memory Signal",
+      "url": "https://open.spotify.com/track/4M6Yq5V4EFhqq12KDpRqAX"
+    },
+    {
+      "album": {
         "name": "Merchants (Sofia Kourtesis Remix)",
         "url": "https://open.spotify.com/album/33RTfD7VivJU7thDW1w9qj"
       },
@@ -31310,6 +31368,28 @@
       "duration_ms": 332950,
       "name": "Mizukami",
       "url": "https://open.spotify.com/track/1SNUUPgkHHOAnMsyCUbPCu"
+    },
+    {
+      "album": {
+        "name": "Modern Dystopia",
+        "url": "https://open.spotify.com/album/3rVmNlXzEkRlsXa8l4jAU1"
+      },
+      "artists": [
+        {
+          "name": "DJ Seinfeld",
+          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
+        },
+        {
+          "name": "Peter Xan",
+          "url": "https://open.spotify.com/artist/2szFgPvkzJHtlrmuVdhSBP"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203637,
+      "name": "Modern Dystopia",
+      "url": "https://open.spotify.com/track/6IqHpduxivldFZLl346XkU"
     },
     {
       "album": {
@@ -33891,6 +33971,28 @@
     },
     {
       "album": {
+        "name": "Sentimental Ultra",
+        "url": "https://open.spotify.com/album/7tUzKKPjySar5eIOUoounQ"
+      },
+      "artists": [
+        {
+          "name": "DJ HEARTSTRING",
+          "url": "https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7"
+        },
+        {
+          "name": "secret act",
+          "url": "https://open.spotify.com/artist/7jIHu08WUlCeiRBWOS6USU"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266000,
+      "name": "Now We Are Strangers",
+      "url": "https://open.spotify.com/track/1Uda389AsyXdaWZx9GdBi8"
+    },
+    {
+      "album": {
         "name": "Numb.13",
         "url": "https://open.spotify.com/album/6eux5u9BTjVWE4g67xvIi0"
       },
@@ -34156,7 +34258,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 379058,
       "name": "Off-Axis",
       "url": "https://open.spotify.com/track/0iL3MjlUAFhMkJwGawy2f5"
@@ -34738,7 +34840,7 @@
       ],
       "date_added": "2026-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 197500,
       "name": "ONE",
       "url": "https://open.spotify.com/track/2ujLUEPE9OqzjfV23UI5wB"
@@ -35104,7 +35206,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 301487,
       "name": "Open Water",
       "url": "https://open.spotify.com/track/1qYCdUSNYhMa7fbTVZkCmE"
@@ -41086,7 +41188,7 @@
       ],
       "date_added": "2025-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 337761,
       "name": "Scanners",
       "url": "https://open.spotify.com/track/5p9JMOuMlYLDtfWtzW23v6"
@@ -42556,7 +42658,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 312787,
       "name": "Silhouette",
       "url": "https://open.spotify.com/track/1TSb79srXJ8U2OlHmcFhIA"
@@ -45137,6 +45239,24 @@
     },
     {
       "album": {
+        "name": "Sunlight EP",
+        "url": "https://open.spotify.com/album/4SPHZTOlXAWegOAAxFkzje"
+      },
+      "artists": [
+        {
+          "name": "Fort Romeau",
+          "url": "https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364616,
+      "name": "Sunlight - Original Mix",
+      "url": "https://open.spotify.com/track/3GuIRE42f7bElU5ord7Z8C"
+    },
+    {
+      "album": {
         "name": "Sunrise",
         "url": "https://open.spotify.com/album/4uKJcsKD6n7eanNPWeUE33"
       },
@@ -45264,7 +45384,7 @@
       ],
       "date_added": "2026-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 195692,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/4LNNDH29X4ks2mxrFGfDFz"
@@ -46426,7 +46546,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 247826,
       "name": "techwav_1",
       "url": "https://open.spotify.com/track/4Hz35kw6JW0X1CgRekqZya"
@@ -49436,7 +49556,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 219935,
       "name": "Turn It Up",
       "url": "https://open.spotify.com/track/4B1CVNUj7yZ9wLnwglZs15"
@@ -50939,6 +51059,24 @@
     },
     {
       "album": {
+        "name": "Luminous Alluvium",
+        "url": "https://open.spotify.com/album/4k2hvItPqB4GDRV5ulFwde"
+      },
+      "artists": [
+        {
+          "name": "Stones Taro",
+          "url": "https://open.spotify.com/artist/2lVqmVhV77js7wdmzUVdyB"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345000,
+      "name": "Verdant Rush",
+      "url": "https://open.spotify.com/track/1XgXsobCO4aKMOpFtNwPcK"
+    },
+    {
+      "album": {
         "name": "Verses on the Passage of Time \u5149\u9634\u5048",
         "url": "https://open.spotify.com/album/3TfPjDFmMix526xOFYMjU6"
       },
@@ -51204,6 +51342,32 @@
       "duration_ms": 341076,
       "name": "vrabon -\u76c2\u862d\u76c6-",
       "url": "https://open.spotify.com/track/20669bop6Yn78oTjfAkb8o"
+    },
+    {
+      "album": {
+        "name": "W1000",
+        "url": "https://open.spotify.com/album/3rAIzaGkMIWpZxd1wefSm6"
+      },
+      "artists": [
+        {
+          "name": "Tohji",
+          "url": "https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Mechatok",
+          "url": "https://open.spotify.com/artist/4poYOxVqlpDTelhhiJcSrW"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150810,
+      "name": "W1000",
+      "url": "https://open.spotify.com/track/4iTB4pj1Q0IAJ0kjiOyaXU"
     },
     {
       "album": {
@@ -51678,6 +51842,28 @@
       "duration_ms": 304848,
       "name": "Warp Zone",
       "url": "https://open.spotify.com/track/5jMcMH8IRnbSlsE45kTBtM"
+    },
+    {
+      "album": {
+        "name": "Waste Another Day (feat. Miso Extra)",
+        "url": "https://open.spotify.com/album/4kfBOOTbq3RTgetCueNmQi"
+      },
+      "artists": [
+        {
+          "name": "DJ BORING",
+          "url": "https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p"
+        },
+        {
+          "name": "Miso Extra",
+          "url": "https://open.spotify.com/artist/0Vv0Cc8LAnIhUsYI4d5wBg"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220952,
+      "name": "Waste Another Day (feat. Miso Extra)",
+      "url": "https://open.spotify.com/track/1L4ulSYMsK7fNEVL5lpYB3"
     },
     {
       "album": {
@@ -53436,7 +53622,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 218076,
       "name": "WOW WOW",
       "url": "https://open.spotify.com/track/5jyb9abtiLzq0QacoIQSo5"

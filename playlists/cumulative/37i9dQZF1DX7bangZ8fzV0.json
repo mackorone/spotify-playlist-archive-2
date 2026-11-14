@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Net die beste Afrikaanse musiek! Omslag: ONS",
+  "description": "Net die beste Afrikaanse musiek! Omslag: Brendan Peyper",
   "name": "Afrikaanse Hits",
   "tracks": [
     {
@@ -7132,7 +7132,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 177820,
       "name": "Vanaand",
       "url": "https://open.spotify.com/track/4ElPtyisAGJsV1C2xUxhKn"
@@ -7688,6 +7688,24 @@
       "duration_ms": 158750,
       "name": "Wat nou?",
       "url": "https://open.spotify.com/track/736z0fpLePveyPW7cdzCDJ"
+    },
+    {
+      "album": {
+        "name": "Nostalgie",
+        "url": "https://open.spotify.com/album/6T2YdkFryff92m421KLypj"
+      },
+      "artists": [
+        {
+          "name": "Brendan Peyper",
+          "url": "https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Wens Jy Was Bier",
+      "url": "https://open.spotify.com/track/4gbKAh0jrldoHsivP44twC"
     },
     {
       "album": {

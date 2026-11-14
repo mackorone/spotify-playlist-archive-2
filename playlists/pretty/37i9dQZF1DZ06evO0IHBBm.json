@@ -1,12 +1,12 @@
 {
   "description": "This is Damares. The essential tracks, all in one playlist.",
-  "num_followers": 31406,
+  "num_followers": 31409,
   "original_name": "This Is Damares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avOwAAAAAACzIVNJJQmbgzV8wAohHVMT",
+  "snapshot_id": "avUBgAAAAADImWH5puyiKB8I6JU3V/Gn",
   "tracks": [
     {
       "added_at": null,
@@ -455,6 +455,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Terceiro C\u00e9u",
+        "url": "https://open.spotify.com/album/1JigGg92iRz3mBFXe3Weyb"
+      },
+      "artists": [
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        },
+        {
+          "name": "Can\u00e7\u00e3o e Louvor",
+          "url": "https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu"
+        }
+      ],
+      "duration_ms": 267398,
+      "name": "O Le\u00e3o",
+      "url": "https://open.spotify.com/track/3xMzTie4gkSwKbI7YhBi9d"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "100 Anos do Movimento Pentecostal",
         "url": "https://open.spotify.com/album/4Wo3iXk6J7vQ9PUYxpf2VU"
       },
@@ -479,26 +499,6 @@
       "duration_ms": 835400,
       "name": "Sabor de Mel / Terremoto Santo / Deus dos Deuses / Minha Ben\u00e7\u00e3o / A Mensagem da Cruz - Ao vivo",
       "url": "https://open.spotify.com/track/1NwKNiyfbuCaMS3IZBcrCI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Terceiro C\u00e9u",
-        "url": "https://open.spotify.com/album/1JigGg92iRz3mBFXe3Weyb"
-      },
-      "artists": [
-        {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        },
-        {
-          "name": "Can\u00e7\u00e3o e Louvor",
-          "url": "https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu"
-        }
-      ],
-      "duration_ms": 267398,
-      "name": "O Le\u00e3o",
-      "url": "https://open.spotify.com/track/3xMzTie4gkSwKbI7YhBi9d"
     },
     {
       "added_at": null,

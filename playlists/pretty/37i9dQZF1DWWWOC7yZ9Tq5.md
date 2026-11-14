@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWOC7yZ9Tq5.md) - [plain]
 
 > A selection of anime tracks perfect for listening to during your gaming time\. ゲームの時間にぴったりなアニメ楽曲をセレクト。 Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 968 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,011 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWOC7yZ9Tq5.md) - [plain]
 | 13 | [Contre Les Agressions \(EM04\_A\)](https://open.spotify.com/track/6h2aOn20jbzx0HCFtfl3gA) | [Shiro SAGISU](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [Shiro SAGISU Music from "EVANGELION 1.0" YOU ARE\(NOT\)ALONE.](https://open.spotify.com/album/05icPAiE1jH4d0tjjrtE0k) | 2:01 |
 | 14 | [イザベラの唄](https://open.spotify.com/track/6qzTbAFDX82BxJIBbdKPH8) | [小畑貴裕](https://open.spotify.com/artist/1ts9YsGOQHW0vzUrhG4ZpH) | [約束のネバーランド Season1 Original Soundtrack](https://open.spotify.com/album/6yN3OuEpq0YkHK21VDQJKb) | 2:29 |
 | 15 | [Fly Away](https://open.spotify.com/track/7olMFQZhjN2EHf7ra2PjE7) | [TeddyLoid](https://open.spotify.com/artist/3GfNJrDTZY7voXPDx8gH9I) | [Panty & Stocking with Garterbelt　The Original Soundtrack](https://open.spotify.com/album/1OcPnTk7T4fgB8nkl4AOh6) | 4:23 |
-| 16 | [あの夏へ](https://open.spotify.com/track/6RxsExIM2y163Iy1Qst36S) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [千と千尋の神隠し サウンドトラック](https://open.spotify.com/album/3nok62UEPi0gHJsIrHbhMY) | 3:09 |
-| 17 | [Never Coming Back](https://open.spotify.com/track/3Ah4c5PA249AR1QOyVCsc4) | [Evan Call](https://open.spotify.com/artist/0nMGbTpPx4b3h5fMG9CpWJ) | [Violet Evergarden: Automemories](https://open.spotify.com/album/72gCyV73fW93aTkOM8C4W2) | 2:24 |
+| 16 | [Never Coming Back](https://open.spotify.com/track/3Ah4c5PA249AR1QOyVCsc4) | [Evan Call](https://open.spotify.com/artist/0nMGbTpPx4b3h5fMG9CpWJ) | [Violet Evergarden: Automemories](https://open.spotify.com/album/72gCyV73fW93aTkOM8C4W2) | 2:24 |
+| 17 | [あの夏へ](https://open.spotify.com/track/6RxsExIM2y163Iy1Qst36S) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [千と千尋の神隠し サウンドトラック](https://open.spotify.com/album/3nok62UEPi0gHJsIrHbhMY) | 3:09 |
 | 18 | [The Summer Wars](https://open.spotify.com/track/1NCbQvYFzq0psd6mdpxPbY) | [Akihiko Matsumoto](https://open.spotify.com/artist/7npYxeGYDN9qZmbxYuzunM) | [サマーウォーズ オリジナル・サウンドトラック](https://open.spotify.com/album/6wBgo2pf7e2HxsBUQA7BuV) | 1:52 |
 | 19 | [Treachery](https://open.spotify.com/track/6a7su3dkJJXidSuFiowJC2) | [Shiro SAGISU](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [劇場版BLEACH The DiamondDust Rebellion Original Soundtrack](https://open.spotify.com/album/4meZrOeVxoej2MOhVo1suB) | 3:22 |
 | 20 | [euro nerv](https://open.spotify.com/track/2z9ROEYQ33EcPrLVLFi0ZD) | [Shiro SAGISU](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [Shiro SAGISU Music from "SHIN EVANGELION"](https://open.spotify.com/album/6TkXOnmDsPk0Z1ALvzChfG) | 1:22 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWOC7yZ9Tq5.md) - [plain]
 | 33 | [人生のメリーゴーランド－オープニング－](https://open.spotify.com/track/6pIirGODmVMu57AlyzXC2R) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [ハウルの動く城 サウンドトラック](https://open.spotify.com/album/5Xw7PhqdMRhdtd1UVFSxoF) | 2:33 |
 | 34 | [煉獄と猗窩座の戦い](https://open.spotify.com/track/19XwEQeVwyeXrNsaETN0bx) | [椎名豪](https://open.spotify.com/artist/5SwtzFnHzuWGai6tPOHBeH) | [「鬼滅の刃」無限列車編 オリジナルサウンドトラック](https://open.spotify.com/album/319uh4R4DZ2oEIEaGSFyAF) | 3:19 |
 | 35 | [Lullaby of Resembool](https://open.spotify.com/track/3GVVHFeGI8VgbJ9y27KreF) | [Akira Senju](https://open.spotify.com/artist/0OkFVhBMPKQtmBj2YRy3Vu) | [鋼の錬金術師 FULLMETAL ALCHEMIST Original Soundtrack 1](https://open.spotify.com/album/5AyohASGLv7HW6vZuYjYxT) | 2:13 |
-| 36 | [lit\(var\)](https://open.spotify.com/track/6bTCdqB1PN5J93hiiZvQzW) | [kensuke ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [A Shape of Light "A Silent Voice the Movie" Original Soundtrack](https://open.spotify.com/album/3WlmFFtmePwfhN9pQdVJ5v) | 2:14 |
-| 37 | [名探偵コナン メイン・テーマ \- 暗殺者ヴァージョン](https://open.spotify.com/track/4ELXBKQHnfWiNt6OUcSo15) | [Katsuo Ohno](https://open.spotify.com/artist/3qqjOqSKN1IKax9C8VmFmZ) | [名探偵コナン 瞳の中の暗殺者 \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/0fAhvb5Ir2kHM2DREhn45a) | 2:32 |
+| 36 | [名探偵コナン メイン・テーマ \- 暗殺者ヴァージョン](https://open.spotify.com/track/4ELXBKQHnfWiNt6OUcSo15) | [Katsuo Ohno](https://open.spotify.com/artist/3qqjOqSKN1IKax9C8VmFmZ) | [名探偵コナン 瞳の中の暗殺者 \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/0fAhvb5Ir2kHM2DREhn45a) | 2:32 |
+| 37 | [lit\(var\)](https://open.spotify.com/track/6bTCdqB1PN5J93hiiZvQzW) | [kensuke ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [A Shape of Light "A Silent Voice the Movie" Original Soundtrack](https://open.spotify.com/album/3WlmFFtmePwfhN9pQdVJ5v) | 2:14 |
 | 38 | [The Legend of Ashitaka](https://open.spotify.com/track/6JqEDCqvAQx4F1D8TuQMw1) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [Princess Mononoke Soundtrack](https://open.spotify.com/album/2ZHxPDTCRU5STetdmXeW6p) | 1:39 |
 | 39 | [Blue Bird](https://open.spotify.com/track/0aeHNyiNeggD428PIcR4j0) | [Shinichi Osawa Works](https://open.spotify.com/artist/4d3dSSG92Bywc1qwtKVOrb) | [BANANA FISH Original Soundtrack](https://open.spotify.com/album/27BMpZqsazAK3R0y1vZFLQ) | 2:24 |
 | 40 | [Main Theme ～The Fullmetal Alchemist～](https://open.spotify.com/track/7c9OHViTralZa26DFOSTs2) | [Akira Senju](https://open.spotify.com/artist/0OkFVhBMPKQtmBj2YRy3Vu) | [鋼の錬金術師 FULLMETAL ALCHEMIST Original Soundtrack 1](https://open.spotify.com/album/5AyohASGLv7HW6vZuYjYxT) | 3:42 |

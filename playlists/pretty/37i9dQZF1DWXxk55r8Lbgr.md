@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxk55r8Lbgr.md) - [plain]
 
 > 蘑菇濃湯來了！快點快點快點呦！和寶貝一起快樂唱唱跳跳吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,349 likes - 50 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,352 likes - 50 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxk55r8Lbgr.md) - [plain]
 | 34 | [最棒的就是你](https://open.spotify.com/track/46T4upehAIRuJeB0FDkeel) | [謝欣芷](https://open.spotify.com/artist/4f2iKhkX8mIKNK4G4Ba5iJ) | [最棒的就是你](https://open.spotify.com/album/0BsQkQcBtwaa3iew8MiKY0) | 4:09 |
 | 35 | [當你的小孩真好](https://open.spotify.com/track/6a4aDZvBYXCpMAETRrHW52) | [愛好好聽](https://open.spotify.com/artist/0mNR0QVE8U7DI4pZsEGlhC) | [當你的小孩真好](https://open.spotify.com/album/1tjOPWcpAljQeKh8kiMN7N) | 3:12 |
 | 36 | [星星月亮太陽](https://open.spotify.com/track/63y4V8wXf0DdSqIs532VEW) | [miki施孟琪](https://open.spotify.com/artist/6TuF5P2WJtAqlJy0Wim7jt) | [miki's JOY](https://open.spotify.com/album/6n8Pr4vVDI7YfzM137UcGS) | 1:20 |
-| 37 | [小星星 \- 哄睡版](https://open.spotify.com/track/68DvCeNDCrVOaq4g7YR9Lm) | [貝樂虎](https://open.spotify.com/artist/5ZdmFRkxym0oPSDwIBoYoQ) | [贝乐虎哄睡儿歌（一）](https://open.spotify.com/album/71WImmK4E8hPPF8UtHOEIF) | 0:57 |
+| 37 | [嗶嗶哩巴嗶哩布 \- 小公視愛唱歌系列\_\_為寶貝唱一首歌](https://open.spotify.com/track/15UPCpdfAwpYKx4NWj7Tqa) | [Lulu Huang Lu Zi Yin](https://open.spotify.com/artist/1Qx9W9TY2vPox7BS9urTlK) | [嗶嗶哩巴嗶哩布](https://open.spotify.com/album/5zjraf8Q01eqa8OsqWa1MJ) | 2:59 |
 | 38 | [拍拍手](https://open.spotify.com/track/38hqL719iAugPd7FRRCsLM) | [圈圈寶貝](https://open.spotify.com/artist/1Giu7rHJqraf75o6fAOHEw) | [寶貝 我的家](https://open.spotify.com/album/0dvVDfgDRxhZESdpdqVAIR) | 2:50 |
-| 39 | [嗶嗶哩巴嗶哩布 \- 小公視愛唱歌系列\_\_為寶貝唱一首歌](https://open.spotify.com/track/15UPCpdfAwpYKx4NWj7Tqa) | [Lulu Huang Lu Zi Yin](https://open.spotify.com/artist/1Qx9W9TY2vPox7BS9urTlK) | [嗶嗶哩巴嗶哩布](https://open.spotify.com/album/5zjraf8Q01eqa8OsqWa1MJ) | 2:59 |
+| 39 | [小星星 \- 哄睡版](https://open.spotify.com/track/68DvCeNDCrVOaq4g7YR9Lm) | [貝樂虎](https://open.spotify.com/artist/5ZdmFRkxym0oPSDwIBoYoQ) | [贝乐虎哄睡儿歌（一）](https://open.spotify.com/album/71WImmK4E8hPPF8UtHOEIF) | 0:57 |
 | 40 | [我愛洗澡洗刷刷](https://open.spotify.com/track/2hXCzF6xBN70VPX5Df1H0J) | [香蕉人](https://open.spotify.com/artist/3A4EykJG22um1n4h9iYWBk) | [香蕉人](https://open.spotify.com/album/6MC4t6Sz0EtOh5YbMRLoqJ) | 3:45 |
 | 41 | [青蛙王子](https://open.spotify.com/track/5a7nfqWLnwdhmpPeDrszTm) | [幼福姊姊說故事](https://open.spotify.com/artist/3SyuLvZ0aQmyYmrb8ownWo) | [Kid's童話屋: 格林童話](https://open.spotify.com/album/59hu6MVIipdfQN91XxMabL) | 6:59 |
 | 42 | [英雄爸爸](https://open.spotify.com/track/7aJijQbBOr4MOMvAuaKkdd) | [愛好好聽](https://open.spotify.com/artist/0mNR0QVE8U7DI4pZsEGlhC) | [英雄爸爸](https://open.spotify.com/album/5hlZCLbYMyPG8NNXHzb0b8) | 3:43 |

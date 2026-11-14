@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 
 > Música brasileira fora da curva\. Foto: Janeiro Industrial
 
-[Spotify](https://open.spotify.com/user/spotify) - 741,971 likes - 75 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 741,870 likes - 75 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 | 74 | [Desculpa](https://open.spotify.com/track/0eYhsqk8WYzwjI5EEiKHL8) | [Jambu](https://open.spotify.com/artist/5cKYzOJ8HSM7eKSP3FkvVX) | [Desculpa](https://open.spotify.com/album/7bypvt3AG7P0zibqWQzudA) | 3:27 |
 | 75 | [No Lugar](https://open.spotify.com/track/1vhNRQZLL0PtdpkzLucwK0) | [Maia](https://open.spotify.com/artist/4lU6ZXW6wDgV02U4aPMU9u) | [No Lugar](https://open.spotify.com/album/1k6CBaapU4uoa4f1RgARjz) | 3:07 |
 
-Snapshot ID: `AAAAALqBwKzXMCbXT4hbyXtmDHANehby`
+Snapshot ID: `AAAAAEPEyY5evn+3AcY/GgMK57v2mCRs`

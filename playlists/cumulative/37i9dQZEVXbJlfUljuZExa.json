@@ -5218,7 +5218,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 243623,
       "name": "Cinta Ini Membunuhku",
       "url": "https://open.spotify.com/track/3jqOKTYh4XH9khpOXQp89Y"
@@ -11360,7 +11360,7 @@
       ],
       "date_added": "2026-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 208810,
       "name": "Housewife",
       "url": "https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0"
@@ -13888,10 +13888,28 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 239629,
       "name": "Kita Lewati Berdua",
       "url": "https://open.spotify.com/track/5Enpui55il1ZW0HgwRTSds"
+    },
+    {
+      "album": {
+        "name": "Kita Lewati Berdua",
+        "url": "https://open.spotify.com/album/0lYEF5z8mWMiGTdMLT1DYY"
+      },
+      "artists": [
+        {
+          "name": "Overnight",
+          "url": "https://open.spotify.com/artist/0ZkNSRvBK767bNOCdXKeYK"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239629,
+      "name": "Kita Lewati Berdua",
+      "url": "https://open.spotify.com/track/704I5f8yKt0ekmwl0Od8vc"
     },
     {
       "album": {
@@ -15446,6 +15464,28 @@
       "duration_ms": 182293,
       "name": "Love Me Again",
       "url": "https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5"
+    },
+    {
+      "album": {
+        "name": "My Everything (Deluxe)",
+        "url": "https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236133,
+      "name": "Love Me Harder",
+      "url": "https://open.spotify.com/track/5J4ZkQpzMUFojo1CtAZYpn"
     },
     {
       "album": {
@@ -21631,6 +21671,24 @@
     },
     {
       "album": {
+        "name": "Sementara, Selamanya",
+        "url": "https://open.spotify.com/album/47wF2oUGXvb44j1Wo1aLfD"
+      },
+      "artists": [
+        {
+          "name": "Fajar Noor",
+          "url": "https://open.spotify.com/artist/3JQketpX6wbJUNAlOIigJc"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227908,
+      "name": "Salah Apa Aku",
+      "url": "https://open.spotify.com/track/7vokkLgTYkd15cWSZ0lTp5"
+    },
+    {
+      "album": {
         "name": "Salahkan Aku",
         "url": "https://open.spotify.com/album/7vLyFl8C95jJD3u9Df4lhm"
       },
@@ -26102,7 +26160,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-31",
+      "date_removed": null,
       "duration_ms": 255000,
       "name": "Terbelah Jadi Dua",
       "url": "https://open.spotify.com/track/0euhFPZ2tlFElQzppQCzCw"
@@ -26124,7 +26182,7 @@
       ],
       "date_added": "2026-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 255000,
       "name": "Terbelah Jadi Dua",
       "url": "https://open.spotify.com/track/2wAa43qM16H0PWAwiHTk5S"
@@ -26778,7 +26836,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 227333,
       "name": "The One That Got Away",
       "url": "https://open.spotify.com/track/2009X8GyWTqyxIdzAEYW6N"
@@ -26796,7 +26854,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-12",
+      "date_removed": null,
       "duration_ms": 227333,
       "name": "The One That Got Away",
       "url": "https://open.spotify.com/track/6hkOqJ5mE093AQf2lbZnsG"

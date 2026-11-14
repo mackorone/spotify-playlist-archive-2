@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sounds from Asia\. Cover: NEW LORE \(Philippines\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,236 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,250 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Track 3](https://open.spotify.com/track/735s7kB0oA5PXgXtiSZLMG) | [NEW LORE](https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E) | [Very Ancient Way of Crying](https://open.spotify.com/album/3xbauaiHd7Ah6wzGjfmoYo) | 0:00 |
-| 2 | [Track 14](https://open.spotify.com/track/14s78c4slO6emND3QTUaZq) | [PRYVT](https://open.spotify.com/artist/2EoyTW14yqnbqmk90NjbLT) | [BACK TO REALITY \(DELUXE\)](https://open.spotify.com/album/300M5kQP8R9NMjVuVR66qI) | 0:00 |
+| 1 | [Sad Girl \(feat\. Ichika Nito & Gabba\)](https://open.spotify.com/track/735s7kB0oA5PXgXtiSZLMG) | [NEW LORE](https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E), [Ichika Nito](https://open.spotify.com/artist/1v7B6ZWa7QRQS3knn3Jvf4), [Gabba](https://open.spotify.com/artist/6tvCQZS4d1wJ9cA9Gl0ZqP) | [Very Ancient Way of Crying](https://open.spotify.com/album/3xbauaiHd7Ah6wzGjfmoYo) | 3:22 |
+| 2 | [RUN FROM ME](https://open.spotify.com/track/14s78c4slO6emND3QTUaZq) | [PRYVT](https://open.spotify.com/artist/2EoyTW14yqnbqmk90NjbLT) | [BACK TO REALITY \(DELUXE\)](https://open.spotify.com/album/300M5kQP8R9NMjVuVR66qI) | 2:46 |
 | 3 | [You Really Got Punk!](https://open.spotify.com/track/1rqafMS3Tj67054JkGSr49) | [GYMV](https://open.spotify.com/artist/5xOJz1R1Gcm16mg0V8iukc) | [Tropic of Capricorn](https://open.spotify.com/album/6A8d8PHmD2NqscBHuIp7N9) | 2:33 |
 | 4 | [anything](https://open.spotify.com/track/62Gq7cP0tDuxu6Wx0gadPt) | [Leaveourtears](https://open.spotify.com/artist/0E63v3KOP4swkAztObrOBX) | [anything](https://open.spotify.com/album/6CjCj0X7esZQHNMtG40f9U) | 5:15 |
 | 5 | [In Love \(feat\. 劉戀\)](https://open.spotify.com/track/2jjtptPQq63JeLQnqpIKyx) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT), [劉戀](https://open.spotify.com/artist/0dwO6ofuTjl6F0pm7X9zub) | [In Love \(feat\. 劉戀\)](https://open.spotify.com/album/6H5aQlXEx1lohueLJ13FF8) | 2:43 |

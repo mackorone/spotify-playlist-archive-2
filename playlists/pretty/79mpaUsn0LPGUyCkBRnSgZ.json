@@ -6,7 +6,7 @@
     "name": "Zack Amiton",
     "url": "https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt"
   },
-  "snapshot_id": "AAAJ7hVOKI8JGv06z2Y64hlFxdApUuLR",
+  "snapshot_id": "AAAJ8YlMDSvtyhLQbXnH4IP7MiQRTtqg",
   "tracks": [
     {
       "added_at": "2021-08-26 23:11:19",
@@ -13261,22 +13261,6 @@
       "url": "https://open.spotify.com/track/7M5u29tvNh3MjbL2EFhjXn"
     },
     {
-      "added_at": "2026-10-26 21:00:16",
-      "album": {
-        "name": "Begin to Hope",
-        "url": "https://open.spotify.com/album/0n4cWtI6rdtN1IftVfp1oh"
-      },
-      "artists": [
-        {
-          "name": "Regina Spektor",
-          "url": "https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i"
-        }
-      ],
-      "duration_ms": 226680,
-      "name": "Fidelity",
-      "url": "https://open.spotify.com/track/2M3zJ1qV61X149Oobd5di1"
-    },
-    {
       "added_at": "2026-10-26 21:19:04",
       "album": {
         "name": "Cannonball",
@@ -13361,26 +13345,6 @@
       "url": "https://open.spotify.com/track/2D2ForDZ3hTmpvVawDDjxX"
     },
     {
-      "added_at": "2026-11-13 04:36:46",
-      "album": {
-        "name": "THIS IS SPA TOWN!",
-        "url": "https://open.spotify.com/album/621WlWIqOod29HG6km5Olf"
-      },
-      "artists": [
-        {
-          "name": "300SkullsAndCounting",
-          "url": "https://open.spotify.com/artist/7hGgwyIQYX5u1XU8asjH63"
-        },
-        {
-          "name": "Jenny Sparks",
-          "url": "https://open.spotify.com/artist/0S8h1aYM60QtOHIKqWfNvf"
-        }
-      ],
-      "duration_ms": 205546,
-      "name": "100% Legal Intro",
-      "url": "https://open.spotify.com/track/6dFVY4JKZLMsAsxE7bCwyf"
-    },
-    {
       "added_at": "2026-11-13 04:37:00",
       "album": {
         "name": "Ninety",
@@ -13395,6 +13359,26 @@
       "duration_ms": 232906,
       "name": "Magical Dream",
       "url": "https://open.spotify.com/track/3UteqPisakwAwZ1xKjERqf"
+    },
+    {
+      "added_at": "2026-11-14 01:07:13",
+      "album": {
+        "name": "Trouble Mountain",
+        "url": "https://open.spotify.com/album/0Fta5KudJiX6HpDWApUu8y"
+      },
+      "artists": [
+        {
+          "name": "Aesop Rock",
+          "url": "https://open.spotify.com/artist/2fSaE6BXtQy0x7R7v9IOmZ"
+        },
+        {
+          "name": "Blockhead",
+          "url": "https://open.spotify.com/artist/7bHm3B3jJju0q9FUdOgp3b"
+        }
+      ],
+      "duration_ms": 139920,
+      "name": "Swedish Death Cleaning",
+      "url": "https://open.spotify.com/track/3Fkh5lCPxZ0n7ojKApo7Zv"
     }
   ],
   "unique_name": "Zacklog",

@@ -1059,6 +1059,28 @@
     },
     {
       "album": {
+        "name": "Doxology (All Praise)",
+        "url": "https://open.spotify.com/album/0u87RNAoGcLHPxpmJljLWm"
+      },
+      "artists": [
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        },
+        {
+          "name": "Kari Jobe Carnes",
+          "url": "https://open.spotify.com/artist/3VTWrobRnI633EBuUSfyw3"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 419513,
+      "name": "Doxology (All Praise)",
+      "url": "https://open.spotify.com/track/1DzcXks7Lsa4Zc6wuB2yt4"
+    },
+    {
+      "album": {
         "name": "Mt. Zion",
         "url": "https://open.spotify.com/album/0AF1OmlS1oYlymcUNCmmKd"
       },

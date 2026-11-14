@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b\u0e02\u0e2d\u0e07\u0e08\u0e23\u0e34\u0e07 \u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: 2Ectasy, jeffy, Kakagoesbackhome",
+  "description": "\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b\u0e02\u0e2d\u0e07\u0e08\u0e23\u0e34\u0e07 \u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: ZENTYARB",
   "name": "\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. ",
   "tracks": [
     {
@@ -866,7 +866,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 149400,
       "name": "Baddie",
       "url": "https://open.spotify.com/track/4jn8qhYieA36a0fiyBqWFC"
@@ -4134,6 +4134,28 @@
       "duration_ms": 134206,
       "name": "Kiss for luv",
       "url": "https://open.spotify.com/track/4N0LiJT8lMajHnLv5F5Iho"
+    },
+    {
+      "album": {
+        "name": "KNOW SOMEBODY",
+        "url": "https://open.spotify.com/album/7rLFIzcAOw5zqW80WIiJ9W"
+      },
+      "artists": [
+        {
+          "name": "maximus!",
+          "url": "https://open.spotify.com/artist/7gyplLHktx4eHRFokfbMS5"
+        },
+        {
+          "name": "toni rei",
+          "url": "https://open.spotify.com/artist/1fysn3L4MyzGLyfSQSAFED"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163298,
+      "name": "KNOW SOMEBODY",
+      "url": "https://open.spotify.com/track/60oB3JYvZ6SQ1Rv7ZwCazp"
     },
     {
       "album": {
@@ -7652,7 +7674,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 210000,
       "name": "STORY",
       "url": "https://open.spotify.com/track/5I34mmT2bCukrXK2EwkfC1"
@@ -8232,7 +8254,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 328673,
       "name": "TURN OFF THE LIGHT",
       "url": "https://open.spotify.com/track/7lhdgpOzWYVMhJ9TtZWT8J"
@@ -11375,6 +11397,24 @@
     },
     {
       "album": {
+        "name": "\u0e14\u0e2d\u0e01\u0e1f\u0e49\u0e32\u0e2b\u0e21\u0e32\u0e44\u0e1b\u0e23\u0e17\u0e4c",
+        "url": "https://open.spotify.com/album/63fAWBbv5PrAa4CVGEH7rd"
+      },
+      "artists": [
+        {
+          "name": "SPRITE",
+          "url": "https://open.spotify.com/artist/0sfCNfNJnqVgcPHcO9htcy"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231272,
+      "name": "\u0e0a\u0e48\u0e27\u0e07\u0e40\u0e27\u0e25\u0e32\u0e2b\u0e19\u0e36\u0e48\u0e07",
+      "url": "https://open.spotify.com/track/675c3UrFZfUbbqFsWcfBTA"
+    },
+    {
+      "album": {
         "name": "\u0e0a\u0e48\u0e27\u0e22\u0e40\u0e25\u0e34\u0e01\u0e19\u0e48\u0e32\u0e23\u0e31\u0e01\u0e2a\u0e31\u0e01\u0e27\u0e34\u0e19\u0e32\u0e17\u0e35",
         "url": "https://open.spotify.com/album/41zEIogW1DIxad2Qbeq5Rd"
       },
@@ -12488,7 +12528,7 @@
       ],
       "date_added": "2025-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 196187,
       "name": "\u0e19\u0e04\u0e23\u0e14\u0e32\u0e23\u0e32",
       "url": "https://open.spotify.com/track/2wyjOiDh07ISNq0oq69G4e"
@@ -12942,6 +12982,24 @@
       "duration_ms": 193695,
       "name": "\u0e1b\u0e34\u0e14\u0e01\u0e32\u0e23\u0e21\u0e2d\u0e07\u0e40\u0e2b\u0e47\u0e19 ( mute )",
       "url": "https://open.spotify.com/track/3Hm4US0LWWPha36RSMMxDO"
+    },
+    {
+      "album": {
+        "name": "\u0e1b\u0e34\u0e14\u0e1b\u0e23\u0e31\u0e1a\u0e1b\u0e23\u0e38\u0e07",
+        "url": "https://open.spotify.com/album/0fmW1wt7D2wzp9Vb8YrMof"
+      },
+      "artists": [
+        {
+          "name": "ZENTYARB",
+          "url": "https://open.spotify.com/artist/4Wv4SEO2ZQAOBl4yJcjdxi"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227027,
+      "name": "\u0e1b\u0e34\u0e14\u0e1b\u0e23\u0e31\u0e1a\u0e1b\u0e23\u0e38\u0e07",
+      "url": "https://open.spotify.com/track/2la1fpDVStXTBfbCeA6U2n"
     },
     {
       "album": {
@@ -15174,6 +15232,28 @@
       "duration_ms": 246300,
       "name": "\u0e25\u0e31\u0e49\u0e25\u0e25\u0e32 (Party)",
       "url": "https://open.spotify.com/track/2aB4Y54x3xaLixFfQEG2Wo"
+    },
+    {
+      "album": {
+        "name": "WOLFCUB ll",
+        "url": "https://open.spotify.com/album/6KfrcRpXgcx2kRCRRMFmtl"
+      },
+      "artists": [
+        {
+          "name": "1ST",
+          "url": "https://open.spotify.com/artist/5p5YOMEbKadO6P7e4YxwKC"
+        },
+        {
+          "name": "2TFLOW",
+          "url": "https://open.spotify.com/artist/61zakME6v4dZUsrYBaoZ8A"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202653,
+      "name": "\u0e25\u0e32\u0e44\u0e1b\u0e01\u0e48\u0e2d\u0e19",
+      "url": "https://open.spotify.com/track/6pstkDoMpB5PV17bCpCh6r"
     },
     {
       "album": {
@@ -18172,7 +18252,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 244000,
       "name": "\u0e40\u0e1e\u0e35\u0e22\u0e07\u0e41\u0e04\u0e48\u0e42\u0e17\u0e23",
       "url": "https://open.spotify.com/track/48xU6P45EupODmFSIGZbWj"
@@ -19271,6 +19351,28 @@
     },
     {
       "album": {
+        "name": "\u0e42\u0e14\u0e48\u0e27\u0e44\u0e21\u0e48\u0e23\u0e39\u0e49\u0e25\u0e49\u0e21",
+        "url": "https://open.spotify.com/album/5m0zBDLfJmUSxrxIBiGHBl"
+      },
+      "artists": [
+        {
+          "name": "JV.JARVIS",
+          "url": "https://open.spotify.com/artist/3RukKIu27TAGLJ4VT5mNRz"
+        },
+        {
+          "name": "P-Hot",
+          "url": "https://open.spotify.com/artist/7cDMujRxnEJ0wPd5XwP24G"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155121,
+      "name": "\u0e42\u0e14\u0e48\u0e27\u0e44\u0e21\u0e48\u0e23\u0e39\u0e49\u0e25\u0e49\u0e21",
+      "url": "https://open.spotify.com/track/2OVdY5FKl9SrirGJSBvln2"
+    },
+    {
+      "album": {
         "name": "\u0e42\u0e15\u0e49\u0e23\u0e38\u0e48\u0e07",
         "url": "https://open.spotify.com/album/2ayPgFvRfnKFAZmKfz2XZ7"
       },
@@ -20090,7 +20192,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 215433,
       "name": "\u0e44\u0e21\u0e48\u0e21\u0e35\u0e27\u0e31\u0e19\u0e08\u0e1a\u0e25\u0e07",
       "url": "https://open.spotify.com/track/6V7GxMakhJl94OiNhgcAbl"
@@ -20288,6 +20390,24 @@
       "duration_ms": 183237,
       "name": "\u0e44\u0e21\u0e48\u0e25\u0e37\u0e21",
       "url": "https://open.spotify.com/track/23jVsC8VrbWCrHewHXI2yt"
+    },
+    {
+      "album": {
+        "name": "\u0e44\u0e21\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e08\u0e30\u0e40\u0e25\u0e27 (Not Bad)",
+        "url": "https://open.spotify.com/album/6JWyZ4DxRGDjcHoLf0K45B"
+      },
+      "artists": [
+        {
+          "name": "Z9",
+          "url": "https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200439,
+      "name": "\u0e44\u0e21\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e08\u0e30\u0e40\u0e25\u0e27 (Not Bad)",
+      "url": "https://open.spotify.com/track/35twBI2bQPkDTRvmkKgyGb"
     },
     {
       "album": {

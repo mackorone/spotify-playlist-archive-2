@@ -4,7 +4,7 @@
 
 > Big rooms and big sounds\. Cover: AFROJACK
 
-758 songs - 1 day 14 hr 9 min
+759 songs - 1 day 14 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -262,6 +262,7 @@
 | [Give It Hard](https://open.spotify.com/track/10mjSdutu3iksuAnCsidhN) | [THOMM](https://open.spotify.com/artist/5dYTI0a9mTwRdRD4IWZh7L), [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD) | [Give It Hard](https://open.spotify.com/album/19cN3lwuZ9Yjlaav4qEnc9) | 4:10 | 2026-01-22 | 2026-02-28 |
 | [Give Me](https://open.spotify.com/track/5kbFc1QbGvCRJmQTldYod4) | [AVAO](https://open.spotify.com/artist/6bdAgX0KYeVKzqNhnARYBw) | [Give Me](https://open.spotify.com/album/1yMWuEo9Za8Jodpd8C7GdZ) | 2:36 | 2023-10-05 | 2024-03-08 |
 | [Glowing](https://open.spotify.com/track/5OLZ7WonFykDncQp500SHf) | [Agus Zack](https://open.spotify.com/artist/5lgGTdDt54gaRQqbbOsnwK), [Maikko](https://open.spotify.com/artist/45xKUKqIer47CE8Ms4ahkJ) | [Glowing](https://open.spotify.com/album/3JQtq080WNvBNEvQZqfRXx) | 2:09 | 2025-01-06 | 2025-01-31 |
+| [Go Insane \- Fatboy Acid Mix](https://open.spotify.com/track/75D7xlGfSNIXGjfGXmnCgS) | [Kai Tracid](https://open.spotify.com/artist/0frSMmZSEdr8pVRi8PBSwF), [Lostly](https://open.spotify.com/artist/39YXQGcflynecg2L3APfqf) | [Go Insane \(Fatboy Acid Mix\)](https://open.spotify.com/album/1vRz51wJdqr8vPuxryqstW) | 3:21 | 2026-11-05 |  |
 | [Go Stupid](https://open.spotify.com/track/34vzBrkuAZ0rLnNQyvwHXa) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n), [Plastik Funk](https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v) | [Go Stupid](https://open.spotify.com/album/0OWesUsZENcbp2rabvV9aD) | 2:50 | 2023-08-31 | 2023-11-17 |
 | [God is A DJ](https://open.spotify.com/track/4exGSaz6lVTxxZVF1xVD4k) | [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [God Is a DJ](https://open.spotify.com/album/5hoygc74uvTK3cNAK7DAkE) | 2:35 | 2022-04-14 | 2024-03-15 |
 | [GODD](https://open.spotify.com/track/6lg50M13aPGe5HXhdrYWqN) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [GODD](https://open.spotify.com/album/01dSHt7ldTooyeM0KZ3Kb1) | 4:31 | 2022-12-27 | 2023-01-03 |
@@ -286,7 +287,7 @@
 | [He's A Pirate](https://open.spotify.com/track/45kPbDRRY5kWe8p6OO2YvM) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD) | [He's A Pirate](https://open.spotify.com/album/7wWM2IHx54paNs60XQe1zo) | 3:03 | 2022-10-27 | 2024-07-05 |
 | [Heal My World](https://open.spotify.com/track/49o3UHSf3W5wRtxT6dDQpd) | [Dirty Signal](https://open.spotify.com/artist/5RI5dWAuSTNZy8GiWN3pzZ), [2ACES](https://open.spotify.com/artist/5dHy2mDWei8fmwzE3fsrC3) | [Heal My World](https://open.spotify.com/album/6GVVOTigTsoUKr1iE4lMVl) | 2:41 | 2026-04-02 | 2026-04-05 |
 | [Heater](https://open.spotify.com/track/3lyVvkO4yOZx36laPSFrLh) | [Tazi](https://open.spotify.com/artist/60Yvub9178MthC7zIgX3rF) | [Heater](https://open.spotify.com/album/0op4ZEAtJjPWSS1yH9S9sg) | 2:59 | 2022-12-27 | 2023-01-03 |
-| [Heaven](https://open.spotify.com/track/4Un1dBih9aFD4pTZwRk9ZM) | [Rave Republic](https://open.spotify.com/artist/751qvO4d3fNm3WkLvOS5Wa), [AKI\-HIRO](https://open.spotify.com/artist/532rNbzwQMk20W1yTmmj3L) | [Heaven](https://open.spotify.com/album/2fBY8khpyyFfGVe0xfvATz) | 3:23 | 2025-09-11 |  |
+| [Heaven](https://open.spotify.com/track/4Un1dBih9aFD4pTZwRk9ZM) | [Rave Republic](https://open.spotify.com/artist/751qvO4d3fNm3WkLvOS5Wa), [AKI\-HIRO](https://open.spotify.com/artist/532rNbzwQMk20W1yTmmj3L) | [Heaven](https://open.spotify.com/album/2fBY8khpyyFfGVe0xfvATz) | 3:23 | 2025-09-11 | 2026-11-14 |
 | [Heaven \(feat\. Sofia Quinn\) \- Club Mix](https://open.spotify.com/track/6uTCim4OGFZOauCqHWIpu9) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE), [Robert Falcon](https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk), [Sofia Quinn](https://open.spotify.com/artist/7aa9NIJCeJoYtpUL56UH6Q) | [Heaven \(feat\. Sofia Quinn\) \[Club Mix\]](https://open.spotify.com/album/3Vw0qrLB2KLYTXEPRFVK9b) | 2:55 | 2022-04-14 | 2024-03-15 |
 | [Heaven Is A Place On Earth](https://open.spotify.com/track/6FAmtZoa7jq6bH9GBjCRkM) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [AXMO](https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc) | [Heaven Is A Place On Earth](https://open.spotify.com/album/12aiQyL5DQ1lPNwOqfiiFM) | 2:45 | 2022-12-16 | 2024-07-05 |
 | [Heavy](https://open.spotify.com/track/00kTtwFuoRVfFiH8wJabBu) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [JOA](https://open.spotify.com/artist/3rOSOkPQ5PHYOiR7mvLTMA) | [Heavy](https://open.spotify.com/album/5U6bJLke6HXBUp6Q40caJN) | 2:51 | 2025-08-07 | 2026-11-03 |

@@ -5167,6 +5167,24 @@
     },
     {
       "album": {
+        "name": "Keeping It Real",
+        "url": "https://open.spotify.com/album/01MGIEh7Ka4L0OKBLYyTWI"
+      },
+      "artists": [
+        {
+          "name": "Nathan Allen",
+          "url": "https://open.spotify.com/artist/6IRnIHHQ6Fj5bEsGkHH2Ce"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257239,
+      "name": "Keeping It Real",
+      "url": "https://open.spotify.com/track/4dCDEgPDnX0livGKEXSOL4"
+    },
+    {
+      "album": {
         "name": "Key West",
         "url": "https://open.spotify.com/album/1p8KkemoJTihAJ1mz1a2yG"
       },
@@ -10308,7 +10326,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 225184,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/4gYkaBgTNeAHKEvUok58ls"

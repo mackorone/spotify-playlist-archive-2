@@ -365,6 +365,24 @@
     },
     {
       "album": {
+        "name": "Shingeki no Kioku",
+        "url": "https://open.spotify.com/album/6zWhLRGx9cQ67CQqAKOXKd"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "date_added": "2026-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237795,
+      "name": "Saigo no Kyojin",
+      "url": "https://open.spotify.com/track/0xrFv2ZCGupIkrwx4qgbXg"
+    },
+    {
+      "album": {
         "name": "Saigo no Kyojin",
         "url": "https://open.spotify.com/album/0aski4Pd2GvDmA6l90Mepg"
       },
@@ -376,7 +394,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 240740,
       "name": "Saigo no Kyojin",
       "url": "https://open.spotify.com/track/1iwxWteWfmWb1LekPweXnY"

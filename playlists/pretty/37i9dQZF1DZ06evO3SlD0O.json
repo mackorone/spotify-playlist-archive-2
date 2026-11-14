@@ -1,12 +1,12 @@
 {
   "description": "This is Los Traileros Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 29400,
+  "num_followers": 29403,
   "original_name": "This Is Los Traileros Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avOwAAAAAACqiplOxZbCIXXzZC24G5va",
+  "snapshot_id": "avUBgAAAAACVRmFy7qsdnVeTyl5aqDq+",
   "tracks": [
     {
       "added_at": null,
@@ -27,22 +27,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Palabras Tristes",
-        "url": "https://open.spotify.com/album/5AZuEf75Kcau9PQOR88PLo"
-      },
-      "artists": [
-        {
-          "name": "Los Traileros Del Norte",
-          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
-        }
-      ],
-      "duration_ms": 190813,
-      "name": "Mary Lee",
-      "url": "https://open.spotify.com/track/7FGMeXrwpKVFcoCHnslE4J"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Abeja Reina (Cl\u00e1sicos Digitalizados)",
         "url": "https://open.spotify.com/album/6BnRsg4J1Y3HQsJlcrwEZi"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 174426,
       "name": "Abeja Re\u00edna",
       "url": "https://open.spotify.com/track/2m5ePayanrtB3LWWiKxVEg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Palabras Tristes",
+        "url": "https://open.spotify.com/album/5AZuEf75Kcau9PQOR88PLo"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "duration_ms": 190813,
+      "name": "Mary Lee",
+      "url": "https://open.spotify.com/track/7FGMeXrwpKVFcoCHnslE4J"
     },
     {
       "added_at": null,
@@ -479,6 +479,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Las M\u00e1s Pedidas, Vol. 1",
+        "url": "https://open.spotify.com/album/1mCM2OJg5uXplzjs9cDTGK"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "duration_ms": 161625,
+      "name": "No Le Hace Que Le Aunque",
+      "url": "https://open.spotify.com/track/0ve58bCVhU6a1BDwsJOEvg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Apartamento Tres",
+        "url": "https://open.spotify.com/album/1axHtpxjBiwMIxjm6AyzRR"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "duration_ms": 179373,
+      "name": "El Caim\u00e1n",
+      "url": "https://open.spotify.com/track/7BUwG4d7sn6APUhyIYVUAl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Intrusso 100% Norte\u00f1o",
         "url": "https://open.spotify.com/album/1xEsaUAnhzOvfGwPC8dDJX"
       },
@@ -495,38 +527,6 @@
       "duration_ms": 600050,
       "name": "Popurr\u00ed Norte\u00f1o",
       "url": "https://open.spotify.com/track/4k17wS8n011hu8i4uM4xaO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Apartamento Tres",
-        "url": "https://open.spotify.com/album/1axHtpxjBiwMIxjm6AyzRR"
-      },
-      "artists": [
-        {
-          "name": "Los Traileros Del Norte",
-          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
-        }
-      ],
-      "duration_ms": 149386,
-      "name": "Soy Yo",
-      "url": "https://open.spotify.com/track/3oPJCw88AtWLFRtFoEsoza"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Las M\u00e1s Pedidas, Vol. 1",
-        "url": "https://open.spotify.com/album/1mCM2OJg5uXplzjs9cDTGK"
-      },
-      "artists": [
-        {
-          "name": "Los Traileros Del Norte",
-          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
-        }
-      ],
-      "duration_ms": 161625,
-      "name": "No Le Hace Que Le Aunque",
-      "url": "https://open.spotify.com/track/0ve58bCVhU6a1BDwsJOEvg"
     },
     {
       "added_at": null,
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
         }
       ],
-      "duration_ms": 179373,
-      "name": "El Caim\u00e1n",
-      "url": "https://open.spotify.com/track/7BUwG4d7sn6APUhyIYVUAl"
+      "duration_ms": 149386,
+      "name": "Soy Yo",
+      "url": "https://open.spotify.com/track/3oPJCw88AtWLFRtFoEsoza"
     },
     {
       "added_at": null,
@@ -691,6 +691,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rosas Blancas",
+        "url": "https://open.spotify.com/album/6K3skX1EmX7Dn56MjhnuC8"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "duration_ms": 158573,
+      "name": "Trigue\u00f1ita De Ojos Negros",
+      "url": "https://open.spotify.com/track/7hrTjTBC0xfBBmeepiTyng"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ni Amores Ni Deudas",
         "url": "https://open.spotify.com/album/5fS4LxjG24Bqes41kyq7XY"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 184000,
       "name": "Tres Por Una",
       "url": "https://open.spotify.com/track/7961JijxsrpZXUzWkquseT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rosas Blancas",
-        "url": "https://open.spotify.com/album/6K3skX1EmX7Dn56MjhnuC8"
-      },
-      "artists": [
-        {
-          "name": "Los Traileros Del Norte",
-          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
-        }
-      ],
-      "duration_ms": 158573,
-      "name": "Trigue\u00f1ita De Ojos Negros",
-      "url": "https://open.spotify.com/track/7hrTjTBC0xfBBmeepiTyng"
     },
     {
       "added_at": null,

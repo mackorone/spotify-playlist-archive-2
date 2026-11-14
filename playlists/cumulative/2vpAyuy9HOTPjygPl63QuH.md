@@ -4,7 +4,7 @@
 
 > only the best tech house &amp; house music
 
-2,534 songs - 5 day 22 hr 24 min
+2,537 songs - 5 day 22 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1309,6 +1309,7 @@
 | [Lose Myself](https://open.spotify.com/track/4VERVB0J7bnXu6Xr4SvM2g) | [Nautik](https://open.spotify.com/artist/4cXLx50kaRAc7B0ZQFP1Qa) | [Lose Myself](https://open.spotify.com/album/4bBXzAlKKfuliLmLYVzJyT) | 2:48 | 2023-08-04 | 2023-08-12 |
 | [Lose Your Mind](https://open.spotify.com/track/3iYtuDkCKvQ3Yq9XUv8ukJ) | [James Haskell](https://open.spotify.com/artist/5ry5gHsT7l1X84yGPZeVIj), [David LeSal](https://open.spotify.com/artist/1KB7YVSkBmXdNoOJEMkDAa) | [Lose Your Mind](https://open.spotify.com/album/5kc8xMJfROUZ6KBeacb3px) | 2:52 | 2024-05-01 | 2024-05-21 |
 | [Lose Your Mind](https://open.spotify.com/track/5jB62qIIcAiAMCHVVesHmK) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Lose Your Mind](https://open.spotify.com/album/3iMsvpw9IZcDjMyFMg4nY1) | 3:22 | 2023-06-24 | 2023-07-01 |
+| [Losing Control](https://open.spotify.com/track/54AprjCZfZlrOOVYVGFjdO) | [Louden](https://open.spotify.com/artist/0dh6ekhgvAz7Kr8ayRuYlr) | [Losing Control](https://open.spotify.com/album/6TgJyl1PdQ5EqxkqZgBf9F) | 3:20 | 2026-11-13 |  |
 | [Losing Control](https://open.spotify.com/track/4LwxeWSBu0LQtEyGLb6FVP) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [OMNOM](https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy) | [Losing Control](https://open.spotify.com/album/3eKGADmjALWfFIXHDak5DB) | 2:45 | 2023-09-15 | 2023-09-23 |
 | [Losing Control](https://open.spotify.com/track/267gN7cFVleInY2IuDYCEb) | [We Like Beef](https://open.spotify.com/artist/2kzK2nNPe6e42p9fgAIxF3) | [Losing Control](https://open.spotify.com/album/2EzF33SKsWWZ4dCpricX0s) | 3:40 | 2022-05-29 | 2022-06-04 |
 | [Losing My Head](https://open.spotify.com/track/0t1RKCzVvtzc3DPjQ3hXFN) | [Black V Neck](https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a), [GAWP](https://open.spotify.com/artist/7nRbEJhGU1wq3sEuQelrzb), [Juush](https://open.spotify.com/artist/4E3LoXmQVgt6uWJvAw9Olo), [Gaby G](https://open.spotify.com/artist/5lfKSWvnayeG2Q16tPM9Rh) | [Losing My Head](https://open.spotify.com/album/0aeUSR4UuucnxyFVvUGi3k) | 3:37 | 2025-04-25 | 2025-05-24 |
@@ -1932,6 +1933,7 @@
 | [Shiver](https://open.spotify.com/track/1ls2PNiOHOxmSfHRyslgAl) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Shiver](https://open.spotify.com/album/1mJnSN0jQDklAu7SoSF8Vs) | 3:54 | 2024-02-17 | 2024-03-16 |
 | [Shiver \- Cassian Remix](https://open.spotify.com/track/2F7SSzMbICn522yxy6JZt7) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc), [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD) | [Shiver \(Cassian Remix\)](https://open.spotify.com/album/1CrX8LvopfetcSOwlLwhni) | 4:05 | 2024-05-24 | 2024-06-22 |
 | [Shoot Your Shot](https://open.spotify.com/track/58YpWzPSkQNQCKazcNmhjx) | [Spin Off](https://open.spotify.com/artist/04z6nGdieOEA89MgeY6ngD), [Emily Stiles](https://open.spotify.com/artist/3PmIYYpYp4KcM7bc51JffC) | [Worst She Can Say is No](https://open.spotify.com/album/25xm5qXYvkWa4QIn50Mmgm) | 2:31 | 2025-01-10 | 2025-02-08 |
+| [Shout It Out \(Sorley Remix\)](https://open.spotify.com/track/5HYuav6UtoUoOUQGJcseK6) | [Funk Cartel](https://open.spotify.com/artist/5CTZ9x42i9fZmlzm3AEyX0), [Sorley](https://open.spotify.com/artist/3apneou0OdagGBkXZxmpaj) | [Shout It Out](https://open.spotify.com/album/0RoKRDm1nc3W9TptvtSLuQ) | 2:47 | 2026-11-13 |  |
 | [Show Me](https://open.spotify.com/track/3j701CnXp7gWgHfa03dtA1) | [Louis Millne](https://open.spotify.com/artist/6oVWsUniV39LusFsC7axlb), [ALLKNIGHT](https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c) | [Show Me](https://open.spotify.com/album/2wOSJI1gSAvjLAPOUz8zGx) | 2:59 | 2023-11-10 | 2023-11-18 |
 | [Show Me](https://open.spotify.com/track/4QeFjSaniL6fVNV4YGNtJw) | [Zurra](https://open.spotify.com/artist/2NqTMxpFwTe8BQlCCeiZPW) | [Show Me](https://open.spotify.com/album/6En5iBKG9L14uJEilTrM1P) | 3:08 | 2023-08-04 | 2023-08-12 |
 | [Show Me \(feat\. Hannah Boleyn\)](https://open.spotify.com/track/5U5Q3MbGlEc6q9NK9lMiPD) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Hannah Boleyn](https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR) | [Show Me \(feat\. Hannah Boleyn\)](https://open.spotify.com/album/21aMLKMyG5sZZPTBswkYuQ) | 2:57 | 2022-11-05 | 2022-11-12 |
@@ -2161,6 +2163,7 @@
 | [The Bag](https://open.spotify.com/track/2JziedUAGgLemOqv7bKD43) | [Kide \(IT\)](https://open.spotify.com/artist/3clh5nUUfRr2oB9FCBP8CU) | [The Bag](https://open.spotify.com/album/5mfDTgotnrLdRQIyHwMHmn) | 2:38 | 2024-02-17 | 2024-02-25 |
 | [The Base \- Radio Edit](https://open.spotify.com/track/5JBUwkrEma37Wo9BbDV0pY) | [Rello](https://open.spotify.com/artist/23v0zhecqk3FLUfvMrWy48) | [The Base \(Radio Edit\)](https://open.spotify.com/album/1nzLrPKWYNJygts9DbngwR) | 3:12 | 2024-11-08 | 2025-01-18 |
 | [The Bass](https://open.spotify.com/track/6XZtX8nmRPKEVVl0sZ9BWX) | [Trace](https://open.spotify.com/artist/4T0QPJFV83O1j9w8y5apQX), [Draxx \(ITA\)](https://open.spotify.com/artist/57QKWHmmY0jb44T2w7ln73) | [The Bass](https://open.spotify.com/album/4rfTiL9lgmVD7nU0XuXudx) | 3:07 | 2025-06-06 | 2025-08-09 |
+| [The Beat Don't Stop](https://open.spotify.com/track/23GmTTl94yWGjQ62xrji9k) | [KiRKie](https://open.spotify.com/artist/0nPy8OKs5hIlbMQi07euiB) | [The Beat Don't Stop EP](https://open.spotify.com/album/5EwtOlOmpOuGp54Q84UfXG) | 2:42 | 2026-11-13 |  |
 | [The Beat Goes On](https://open.spotify.com/track/7drYnxXfD7VWps3Oc3947i) | [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t) | [The Beat Goes On](https://open.spotify.com/album/5OAFfGqhqFbU0cVfEDB8hg) | 3:21 | 2022-10-07 | 2022-10-15 |
 | [The Big Easy](https://open.spotify.com/track/3Q4DJp31Dat8RoPN3KwpJy) | [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry) | [The Big Easy](https://open.spotify.com/album/3zfEQld2beOeYmEU9uQONf) | 3:05 | 2023-08-11 | 2023-08-26 |
 | [The Button](https://open.spotify.com/track/4B2GQVogNcFOat66WA0uMh) | [VOLAC](https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE) | [The Button](https://open.spotify.com/album/1FwjdsZ02U5eNpUsMMGWgA) | 2:45 | 2026-02-06 | 2026-03-21 |

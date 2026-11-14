@@ -1,12 +1,12 @@
 {
   "description": "This is DESTIN CONRAD. The essential tracks, all in one playlist.",
-  "num_followers": 3644,
+  "num_followers": 3646,
   "original_name": "This Is DESTIN CONRAD",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avOwAAAAAAAVwfToEtkz8y4Rrr3iFrfa",
+  "snapshot_id": "avUBgAAAAABMxSwmRdYNMdaKKbMoQ884",
   "tracks": [
     {
       "added_at": null,
@@ -51,6 +51,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "COLORWAY",
+        "url": "https://open.spotify.com/album/4cGY0jqWYTCIPwQRXHgKvy"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "duration_ms": 136695,
+      "name": "IN THE AIR",
+      "url": "https://open.spotify.com/track/4TLJNON6mZLpfZX3g4Oh8B"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Do Not Disturb: Late Checkout",
         "url": "https://open.spotify.com/album/2h5VwiZ1SsUrPd04Zfd1jO"
       },
@@ -67,22 +83,6 @@
       "duration_ms": 184773,
       "name": "\u2060\u2060no debo :(",
       "url": "https://open.spotify.com/track/5XycIQWzD3ofaE3BVklJh4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "COLORWAY",
-        "url": "https://open.spotify.com/album/4cGY0jqWYTCIPwQRXHgKvy"
-      },
-      "artists": [
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        }
-      ],
-      "duration_ms": 136695,
-      "name": "IN THE AIR",
-      "url": "https://open.spotify.com/track/4TLJNON6mZLpfZX3g4Oh8B"
     },
     {
       "added_at": null,
@@ -455,6 +455,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "wHIMSY",
+        "url": "https://open.spotify.com/album/4JbxuyZJlpIyvXhVCRoq9E"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "duration_ms": 167111,
+      "name": "HARD!",
+      "url": "https://open.spotify.com/track/0DFCew2KI6dzd8FKoGWWph"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MAKE IT UP - A COLORS SHOW",
         "url": "https://open.spotify.com/album/2UEQ0AO6afLtXm4URqzl1m"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 172931,
       "name": "MAKE IT UP - A COLORS SHOW",
       "url": "https://open.spotify.com/track/5w7epjCisok9TojZEtU4CG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "wHIMSY",
-        "url": "https://open.spotify.com/album/4JbxuyZJlpIyvXhVCRoq9E"
-      },
-      "artists": [
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        }
-      ],
-      "duration_ms": 167111,
-      "name": "HARD!",
-      "url": "https://open.spotify.com/track/0DFCew2KI6dzd8FKoGWWph"
     },
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "COLORWAY",
-        "url": "https://open.spotify.com/album/4cGY0jqWYTCIPwQRXHgKvy"
-      },
-      "artists": [
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        }
-      ],
-      "duration_ms": 143092,
-      "name": "BILL$",
-      "url": "https://open.spotify.com/track/0H6CZCG2F1N3XZWNZAVqE7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "wHIMSY",
         "url": "https://open.spotify.com/album/4JbxuyZJlpIyvXhVCRoq9E"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 100122,
       "name": "LOVE!",
       "url": "https://open.spotify.com/track/5YdRkQBGqufdSK1pRLZ5Tm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "COLORWAY",
+        "url": "https://open.spotify.com/album/4cGY0jqWYTCIPwQRXHgKvy"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "duration_ms": 143092,
+      "name": "BILL$",
+      "url": "https://open.spotify.com/track/0H6CZCG2F1N3XZWNZAVqE7"
     },
     {
       "added_at": null,
@@ -591,6 +591,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "wHIMSY!",
+        "url": "https://open.spotify.com/album/1Qx04kMMQn0mCWljoV7loF"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        },
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        }
+      ],
+      "duration_ms": 186285,
+      "name": "NOTHING IS REAL",
+      "url": "https://open.spotify.com/track/5jttofWxJX0pp7B6jB4HMO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "O.M.L. (feat. DESTIN CONRAD)",
         "url": "https://open.spotify.com/album/6nKwjfkh8zFW2JQo1FYjq0"
       },
@@ -611,26 +631,6 @@
       "duration_ms": 165132,
       "name": "O.M.L. (feat. DESTIN CONRAD)",
       "url": "https://open.spotify.com/track/6ntO3pnXicVNsAhW67BW0S"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "wHIMSY!",
-        "url": "https://open.spotify.com/album/1Qx04kMMQn0mCWljoV7loF"
-      },
-      "artists": [
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        },
-        {
-          "name": "Terrace Martin",
-          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
-        }
-      ],
-      "duration_ms": 186285,
-      "name": "NOTHING IS REAL",
-      "url": "https://open.spotify.com/track/5jttofWxJX0pp7B6jB4HMO"
     },
     {
       "added_at": null,

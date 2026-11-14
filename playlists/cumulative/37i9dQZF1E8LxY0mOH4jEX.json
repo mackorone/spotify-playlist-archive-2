@@ -599,6 +599,24 @@
     },
     {
       "album": {
+        "name": "A Head Full of Dreams Tour Edition",
+        "url": "https://open.spotify.com/album/3OQ83AaDoeiPsbSU7DSSl8"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "date_added": "2026-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263786,
+      "name": "Adventure of a Lifetime",
+      "url": "https://open.spotify.com/track/1KMv5lt9b8vGtO408QM8tr"
+    },
+    {
+      "album": {
         "name": "A Head Full of Dreams",
         "url": "https://open.spotify.com/album/2I6Sv410RFwJYKN5lFhLsQ"
       },
@@ -610,7 +628,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 263786,
       "name": "Adventure of a Lifetime",
       "url": "https://open.spotify.com/track/2gS6LJHhMDn5FPARE1LVtG"

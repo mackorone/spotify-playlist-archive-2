@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaP4JI1P3XaB.md) - [plain]
 
 > A warm glittering glow of ambient jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,822 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,869 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Stratus](https://open.spotify.com/track/7l4d9qUYwO1nXcMDME0WQV) | [Resavoir](https://open.spotify.com/artist/4Sl3fpSDeo9cMb3ouKm0rV) | [Above the Clouds](https://open.spotify.com/album/6IT3XFem0qpEue9Q6kXOP3) | 2:13 |
-| 2 | [as it tilts](https://open.spotify.com/track/2BAqRjeyNCzsUtVptGDX0n) | [al.so](https://open.spotify.com/artist/2UzGCNmaCAKmITtDdjUBdL), [Moses Yoofee](https://open.spotify.com/artist/63xdxZes5VBaGdAWhMbgdZ), [Robi](https://open.spotify.com/artist/6w4kDiIXFWEtuLHLbd9zSC), [Marius Max](https://open.spotify.com/artist/7ygCBdW9Lv5ujtijgMhUCs), [Miriam Adefris](https://open.spotify.com/artist/6BgP6cMSLzjiRKwT098mev) | [as it tilts](https://open.spotify.com/album/0nBB9kRqeOxucPEgOwuGin) | 2:56 |
-| 3 | [Miniature 8](https://open.spotify.com/track/6YT8DkYYeMdxWU3rFGp07p) | [Sha](https://open.spotify.com/artist/4F4kkO0k46EEIFD0m5AnxS), [Stuart Bogie](https://open.spotify.com/artist/06RpmuneHfIPx5N70n4cPf) | [Moraines](https://open.spotify.com/album/2767TnYKqoXJwVe5vL7Xz8) | 8:39 |
-| 4 | [It Can Be Everywhere](https://open.spotify.com/track/0glBCins7Uh2Ca5NtRaj7O) | [Josh Johnson](https://open.spotify.com/artist/6E2QUbsHDVzmrf1TVfGdwf) | [It Can Be Everywhere](https://open.spotify.com/album/7svvnEq4QxgxNYa3G04JVS) | 5:30 |
+| 1 | [Aughts Hymnal](https://open.spotify.com/track/6XQg1HLLx1rCJR12WnOPQb) | [Josh Johnson](https://open.spotify.com/artist/6E2QUbsHDVzmrf1TVfGdwf) | [Animative](https://open.spotify.com/album/2Dky1fEIKf5zyUVI6ISRlx) | 1:49 |
+| 2 | [Stratus](https://open.spotify.com/track/7l4d9qUYwO1nXcMDME0WQV) | [Resavoir](https://open.spotify.com/artist/4Sl3fpSDeo9cMb3ouKm0rV) | [Above the Clouds](https://open.spotify.com/album/6IT3XFem0qpEue9Q6kXOP3) | 2:13 |
+| 3 | [as it tilts](https://open.spotify.com/track/2BAqRjeyNCzsUtVptGDX0n) | [al.so](https://open.spotify.com/artist/2UzGCNmaCAKmITtDdjUBdL), [Moses Yoofee](https://open.spotify.com/artist/63xdxZes5VBaGdAWhMbgdZ), [Robi](https://open.spotify.com/artist/6w4kDiIXFWEtuLHLbd9zSC), [Marius Max](https://open.spotify.com/artist/7ygCBdW9Lv5ujtijgMhUCs), [Miriam Adefris](https://open.spotify.com/artist/6BgP6cMSLzjiRKwT098mev) | [as it tilts](https://open.spotify.com/album/0nBB9kRqeOxucPEgOwuGin) | 2:56 |
+| 4 | [Miniature 8](https://open.spotify.com/track/6YT8DkYYeMdxWU3rFGp07p) | [Sha](https://open.spotify.com/artist/4F4kkO0k46EEIFD0m5AnxS), [Stuart Bogie](https://open.spotify.com/artist/06RpmuneHfIPx5N70n4cPf) | [Moraines](https://open.spotify.com/album/2767TnYKqoXJwVe5vL7Xz8) | 8:39 |
 | 5 | [Unspoken](https://open.spotify.com/track/7alWiD8ILInzc7RcmGztnw) | [Nathan Haines](https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy) | [Nathan Haines presents The Soft Chaos](https://open.spotify.com/album/2y23SBdQQTfOfHd1N8J143) | 2:55 |
 | 6 | [Azurit](https://open.spotify.com/track/13CmQg0AH6TSLez3OpCQFg) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [Bivabippabualukka](https://open.spotify.com/album/1mgxS3noI2nBHvEyMG1ute) | 2:58 |
 | 7 | [Mirage No.5](https://open.spotify.com/track/6yNoraLnrCJbUMZVVSZncT) | [Muriel Grossmann](https://open.spotify.com/artist/1r212Pvjn3jYwvHUNej9FP), [Tõnu Naissoo](https://open.spotify.com/artist/20zfjm7Y1RvBhEcf1lDrW5), [Radomir Milojkovic](https://open.spotify.com/artist/1lFfVz8JXRYM0UXV3kbeUY), [Uroš Stamenković](https://open.spotify.com/artist/3nzfyPrsbBvFVPcGRIQ2EB), [Kristjan Jõemägi](https://open.spotify.com/artist/6xQPQtO2MBTwt1XpN8Mfqh), [Abel Boquera](https://open.spotify.com/artist/4fg0xf3LtqQW4uXaC2Qzbz) | [Muriel Grossmann, Tõnu Naissoo](https://open.spotify.com/album/4uWtJHZ9Ypyny7gFqVy6Kg) | 5:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaP4JI1P3XaB.md) - [plain]
 | 49 | [Maybe Life](https://open.spotify.com/track/6DX4o6iwsiJaAxOvf94cw5) | [Piotr Kurek](https://open.spotify.com/artist/0mneo6UHjcOtZBm1Tw8t67) | [Smartwoods](https://open.spotify.com/album/6glgu7cwgVkrIpdcYUT0xF) | 5:28 |
 | 50 | [Slow 30's Room](https://open.spotify.com/track/03IBiVgBzhNrZSwES3Hyjf) | [David Lynch](https://open.spotify.com/artist/2Gu6Q05ExIGwHTF43kqLBI), [Dean Hurley](https://open.spotify.com/artist/4gfOoXI9MWCyREzvqNv38D) | [Twin Peaks \(Limited Event Series Soundtrack\)](https://open.spotify.com/album/4dN8VmiUt9WVPDSReLWBvJ) | 2:06 |
 
-Snapshot ID: `AAAAAD9fibtEFtb2XuW9PzViJdD4rwpC`
+Snapshot ID: `AAAAAAX/pO0rUZ2geFY5HUjLAavU04Gh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 
 > ¡Sube el volumen y disfruta del pop más fresh! Alleh en portada ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,772 likes - 70 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,775 likes - 70 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 | 17 | [pido X ti](https://open.spotify.com/track/1FuxCZaIJJgkvrXpK6pLRC) | [Zhamira ](https://open.spotify.com/artist/2IdDxiUkjLI0WfypRO1Rh3) | [pido X ti](https://open.spotify.com/album/1l9j7o5Nw0SGLEXnOljOTO) | 2:37 |
 | 18 | [ella brilla](https://open.spotify.com/track/4xadguhD6ztFKReVXwLTEt) | [RIZA](https://open.spotify.com/artist/710CMv31X4B1WF2nruibK1), [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ella brilla](https://open.spotify.com/album/4SUUGxQ9wjP323SAc6VAuD) | 4:23 |
 | 19 | [Sálvame Otra Vez](https://open.spotify.com/track/6WUxiNHMldVSzFhbTZRruA) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [Sálvame Otra Vez](https://open.spotify.com/album/16JvWibqyTqxaz7eeGZXjT) | 2:24 |
-| 20 | [superpoder](https://open.spotify.com/track/10SXiR9AtTFANGX45NJeSL) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [superpoder](https://open.spotify.com/album/6s3I8KSBKb6xUoD1iXPUVT) | 3:10 |
-| 21 | [Si Te Vas](https://open.spotify.com/track/1qRWRxr2FTJjAfqxf99Bdm) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Mixteip](https://open.spotify.com/album/5ZhcTmzBym8cwsVkNNrHgS) | 3:18 |
+| 20 | [Si Te Vas](https://open.spotify.com/track/1qRWRxr2FTJjAfqxf99Bdm) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Mixteip](https://open.spotify.com/album/5ZhcTmzBym8cwsVkNNrHgS) | 3:18 |
+| 21 | [superpoder](https://open.spotify.com/track/10SXiR9AtTFANGX45NJeSL) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [superpoder](https://open.spotify.com/album/6s3I8KSBKb6xUoD1iXPUVT) | 3:10 |
 | 22 | [Quiero +](https://open.spotify.com/track/3qwEwtnOb6TyJkSGYEm02h) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Quiero +](https://open.spotify.com/album/3eF6EiinfXf9fXbyLTxFDv) | 2:08 |
 | 23 | [pongo remix](https://open.spotify.com/track/1Z02pAigkKXgTfy3GMiQ6x) | [RØZ](https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [pAL\_veranito.mp3](https://open.spotify.com/album/2FAyVjETQ3RSG1vrNtf87z) | 2:49 |
 | 24 | [Jet](https://open.spotify.com/track/48k8Aqk90ytRKbhaRCPcc5) | [Elenco de Soy Luna](https://open.spotify.com/artist/2mvVgc0UMgFwXGktcNmA6l), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [Karol Sevilla](https://open.spotify.com/artist/6aBoKzSTjuIi0sY69XHLk3), [Ruggero Pasquarelli](https://open.spotify.com/artist/7uMsrJMSZWhL8IXO6YArQL), [Michael Ronda](https://open.spotify.com/artist/0TRtXrrdp0uEmcdg5amrLt) | [Soy Luna: Volver a rodar \(Banda Sonora Original\)](https://open.spotify.com/album/6glYGr5mPdY0m1vt9mzNuO) | 2:45 |
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 | 64 | [Cuando Estamos Solas](https://open.spotify.com/track/36E5cnvLlDtNJTvfhDi5ZX) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Cuando Estamos Solas](https://open.spotify.com/album/6yljdwX9QDrD97sdLnD5Rv) | 2:40 |
 | 65 | [Te Juro No Te Miento](https://open.spotify.com/track/0QVjAc46sFSl5iVJ33CotU) | [Sofia Castro](https://open.spotify.com/artist/54Dm36Il3hbJON4caC9ofw) | [Te Juro No Te Miento](https://open.spotify.com/album/5VHeM1MvIgu1vYBHFKK4pT) | 2:35 |
 | 66 | [Paisajes](https://open.spotify.com/track/11IRh2oN3EOPkoIVaWN1r9) | [CD9](https://open.spotify.com/artist/3mOd9j63D2DAPnOzQBJhQJ) | [Otra Vez \(Vol\. 1\)](https://open.spotify.com/album/0b4VElQYfmR48jOBIcsNeo) | 2:52 |
-| 67 | [ya no estoy](https://open.spotify.com/track/0tuhaH4P3jVSCTdV070tig) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [ya no estoy](https://open.spotify.com/album/2CTAPQs0Md2J7Q9zkMmJSz) | 2:58 |
-| 68 | [Tu Corazón \(Your Heart\)](https://open.spotify.com/track/64PXpstU2BDJ1iMcPNLJyS) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Tu Corazón \(Your Heart\)](https://open.spotify.com/album/18b9Dj6RtCqtorAu7l9PKX) | 3:00 |
+| 67 | [Tu Corazón \(Your Heart\)](https://open.spotify.com/track/64PXpstU2BDJ1iMcPNLJyS) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Tu Corazón \(Your Heart\)](https://open.spotify.com/album/18b9Dj6RtCqtorAu7l9PKX) | 3:00 |
+| 68 | [ya no estoy](https://open.spotify.com/track/0tuhaH4P3jVSCTdV070tig) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [ya no estoy](https://open.spotify.com/album/2CTAPQs0Md2J7Q9zkMmJSz) | 2:58 |
 | 69 | [Ironía](https://open.spotify.com/track/7i9wOqXAvvzjvKH0NPdJWR) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [RRRomeo](https://open.spotify.com/album/2tKRKPfHSnY9gXUbO7dO2F) | 5:15 |
 | 70 | [Tulum Sin Ti](https://open.spotify.com/track/4RuYga5Aoo1veuznTsrnxW) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia), [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [Las Cosas Que Solo Se Hacen En La Noche](https://open.spotify.com/album/0bThS1beZOzlV7HrfrmL4C) | 3:01 |
 
-Snapshot ID: `AAAAAGneX2sxKnZVQCeicHcDmWLh4CfJ`
+Snapshot ID: `AAAAAHG1sg5mOoLRUh34vIHROCrBHV/5`

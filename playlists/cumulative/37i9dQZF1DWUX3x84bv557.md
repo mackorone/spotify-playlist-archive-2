@@ -4,7 +4,7 @@
 
 > Frisse Nederlandse pop\. Cover: Adriaan Persons
 
-1,538 songs - 3 day 1 hr 27 min
+1,538 songs - 3 day 1 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [Als Je Niet Opneemt](https://open.spotify.com/track/0McDOKwHK9U7p7B1b1Swb6) | [Tomson](https://open.spotify.com/artist/4OcAOYzLAiGREe0stWTGXp) | [Als Je Niet Opneemt](https://open.spotify.com/album/1g5WAOARqJ6jdhvIl3Phou) | 2:53 | 2023-12-08 | 2024-01-05 |
 | [Als Je Nog Wil](https://open.spotify.com/track/0Ead0P4QxEndPROj1rNrGT) | [Aarde aan Daan](https://open.spotify.com/artist/2vgN5rrQjTeLcQqoZcEQDf) | [Als Je Nog Wil](https://open.spotify.com/album/7cqBNb3K8Uexr8KfEDyM6d) | 3:23 | 2025-02-27 | 2025-03-21 |
 | [Als Je Voor Me Staat](https://open.spotify.com/track/2hAiXNgfYXyMmIB1KPRv7W) | [Jaap Reesema](https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4) | [Als Je Voor Me Staat](https://open.spotify.com/album/3dd2TJiNinnH58uCo6etNP) | 3:20 | 2023-02-23 | 2023-04-07 |
+| [Als Je Wil !](https://open.spotify.com/track/3I7DwpzJv4Rlh9tUCeWHjO) | [FAY](https://open.spotify.com/artist/2rYvyXWazKzVHanTL5GyCE) | [Plannen Gewijzigd](https://open.spotify.com/album/7y7Q2FR23iHqEUvQlVkzzd) | 2:24 | 2026-11-12 |  |
 | [Als jij het wil](https://open.spotify.com/track/5aJgRrGYzBF4YO05IX3S5R) | [Maxime](https://open.spotify.com/artist/67ijcDBwFthXo6WRpEl6kR) | [Als jij het wil](https://open.spotify.com/album/08smch6KDBUeSZ0lqU4kfW) | 3:26 | 2025-08-07 | 2025-11-05 |
 | [Als Thuis](https://open.spotify.com/track/6hoWEwirlkqSV3oZ4qEzWV) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Als Thuis](https://open.spotify.com/album/31p5uf3ZYI7baJgMyvGz7l) | 2:59 | 2023-04-06 | 2023-05-26 |
 | [Als We Vallen](https://open.spotify.com/track/1bz0zQFZGNVEVSarOUAv53) | [Kiya](https://open.spotify.com/artist/5AmyUXItyIVvSaIMO4seW9) | [Als We Vallen](https://open.spotify.com/album/5Qf92KQ3yRb5s6f9KKkCzM) | 3:29 | 2025-11-27 | 2026-01-16 |
@@ -957,6 +958,7 @@
 | [Niemand voor Elkaar](https://open.spotify.com/track/5M4k2zgIC4lO7W94GD0nWv) | [Nobu](https://open.spotify.com/artist/5yuxqGyvuCkRY8X53yVy5u) | [Sereen \(Deluxe\)](https://open.spotify.com/album/3tj7xLvpZRJ7AoEHv6GAAz) | 2:00 | 2024-07-11 | 2024-11-05 |
 | [Niemand Wil Een Popster](https://open.spotify.com/track/4ylzEL9Fiz17Wh9ojfG0cL) | [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC) | [Niemand Wil Een Popster](https://open.spotify.com/album/33rXtwNcRKwvEM8w0vqVPQ) | 2:58 | 2026-09-10 | 2026-11-06 |
 | [Niemand Zijn](https://open.spotify.com/track/13yhctWhqjE3HHWGnlXIkc) | [Amina](https://open.spotify.com/artist/3xCILTJGZGNKQt4vaYUAAc) | [Niemand Zijn](https://open.spotify.com/album/0wxdbS9KKnDCh9HncVMUJg) | 2:47 | 2025-04-03 | 2025-06-13 |
+| [Niemands Meisje](https://open.spotify.com/track/18ic5yHNhwhB15ez95EtkJ) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [Niemands Meisje](https://open.spotify.com/album/2MVb3OLPmLzhGXnfIjunua) | 3:02 | 2026-11-12 |  |
 | [Niet Alleen](https://open.spotify.com/track/6yzyosFCPny55uVpzvYJZD) | [Pjotr](https://open.spotify.com/artist/0gRFVzEkjFmFifMlqVlTta) | [Niet Alleen](https://open.spotify.com/album/4JYgA4oW437SVYr6k6f8eX) | 2:54 | 2024-01-04 | 2024-04-03 |
 | [Niet Als Vroeger](https://open.spotify.com/track/6uQ7YRkBxvQF6nRjLK3DhW) | [Hiigo](https://open.spotify.com/artist/49wmW9ZxLK5Fg0grFZl0iX) | [Niet Als Vroeger](https://open.spotify.com/album/0gHTDh7gNJHudGNDR4UcfQ) | 4:24 | 2026-07-09 | 2026-08-21 |
 | [Niet Breken](https://open.spotify.com/track/4iv7QWrytOLIRIECHBJkqP) | [FLEUR](https://open.spotify.com/artist/5jE7YqOC3yRqDh0QsOmTV0) | [Niet Breken](https://open.spotify.com/album/0uXGmsQzYBGfNPpsfP3vos) | 2:41 | 2023-09-14 | 2024-02-09 |
@@ -1277,8 +1279,6 @@
 | [Toverdrank](https://open.spotify.com/track/4qidbujyhAzF3C3GdxjeN5) | [BIBI](https://open.spotify.com/artist/6vT2DqeCXrQd10M8xSyfoi) | [Toverdrank](https://open.spotify.com/album/1vPQRObyL3AFozBuHiUggb) | 2:20 | 2023-09-04 | 2023-09-22 |
 | [Toveren](https://open.spotify.com/track/0cvdKcx2P7hi508TQGgfHe) | [Herman van Veen](https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh), [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Toveren](https://open.spotify.com/album/3Rsdgs47XvTFYO5hS86J5Z) | 2:58 | 2025-09-30 | 2025-12-19 |
 | [Toxisch](https://open.spotify.com/track/3O4Uzb4REHZFaywzeWB65g) | [Maxime](https://open.spotify.com/artist/67ijcDBwFthXo6WRpEl6kR) | [Toxisch](https://open.spotify.com/album/38nHPtWUaI6m5E52I8CDFC) | 2:42 | 2025-05-29 | 2025-07-11 |
-| [Track 2](https://open.spotify.com/track/18ic5yHNhwhB15ez95EtkJ) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [Niemands Meisje](https://open.spotify.com/album/2MVb3OLPmLzhGXnfIjunua) | 0:00 | 2026-11-12 |  |
-| [Track 4](https://open.spotify.com/track/3I7DwpzJv4Rlh9tUCeWHjO) | [FAY](https://open.spotify.com/artist/2rYvyXWazKzVHanTL5GyCE) | [Plannen Gewijzigd](https://open.spotify.com/album/7y7Q2FR23iHqEUvQlVkzzd) | 0:00 | 2026-11-12 |  |
 | [Tranen In De Giftshop](https://open.spotify.com/track/6TOOdDpUpkx30Om2AGAbiF) | [Roxeanne Hazes](https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6) | [Tranen In De Giftshop](https://open.spotify.com/album/1OQVA5LvlqTTebTLRHub9f) | 3:06 | 2026-05-21 | 2026-08-21 |
 | [Tranen Om Te Lachen](https://open.spotify.com/track/0gdQfQM4aROhIG7YRt2yKr) | [Van Den Hil](https://open.spotify.com/artist/5P5E6jVSNpreJUSWRJNjcl) | [Tranen Om Te Lachen](https://open.spotify.com/album/5R02cPbl64j93pxizcmrTp) | 2:44 | 2023-03-16 | 2023-04-21 |
 | [Tranen Op Papier](https://open.spotify.com/track/3iphWgm8BldXfWkj7q6b0Y) | [Phillis](https://open.spotify.com/artist/0N9WidPPwB2dGm2q8umfFp) | [Tranen Op Papier](https://open.spotify.com/album/2Ig57EddQLFhqGTAx656F2) | 2:48 | 2023-09-14 | 2023-10-06 |

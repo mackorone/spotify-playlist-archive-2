@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: SVM!R, OKI
 
-[Spotify](https://open.spotify.com/user/spotify) - 573,010 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 573,050 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 17 | [Nie zrozumiesz](https://open.spotify.com/track/0CtOT3PpJjAkBJ6JoonOZm) | [Malik Montana](https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq) | [Nie zrozumiesz](https://open.spotify.com/album/4nLGCHpWIFrH0ZF365Cmkx) | 2:28 |
 | 18 | [KOSZT BYCIA BOSS](https://open.spotify.com/track/3otQrfJgd2ncNj3s36XzTX) | [Kubi Producent](https://open.spotify.com/artist/0WDJa0qnagyOnMaiD26wht), [Sapi Tha King](https://open.spotify.com/artist/2qsaCzPED3iK3HIRLOtRMW), [kuqe 2115](https://open.spotify.com/artist/2FtYzWBUVhZ2vfy8S207Zf), [Bedoes 2115](https://open.spotify.com/artist/0LX2VNf5w4iOHW1yyIqb74), [Szpaku](https://open.spotify.com/artist/0Wi2fADbhwXlPUWxBmzo99) | [JEZU CHRYSTE KUBI](https://open.spotify.com/album/7zL2CHSVPxPpviqfJaL8wu) | 3:10 |
 | 19 | [Morocco](https://open.spotify.com/track/3Udm2Datfq4MrblAqjQseZ) | [JONNI HERMAN](https://open.spotify.com/artist/2Kzxgli57GcRx0v6NJfsiL), [Kronkel Dom](https://open.spotify.com/artist/1dkyORGHN0TOmjzu5qCO45), [Polski](https://open.spotify.com/artist/6uz8zc2txDqWvPfzm5SXNW) | [Morocco](https://open.spotify.com/album/5RKfMnsQJYRSGMGNHl6Uj6) | 2:25 |
-| 20 | [Pesele](https://open.spotify.com/track/74qcYXvhFLfkKpQGZ0H3BW) | [Liber](https://open.spotify.com/artist/2CiMCmeBorjSa1ppz6wY6s), [Young Leosia](https://open.spotify.com/artist/0iBTVnJ1Sff92zCDujfvyJ) | [Pesele](https://open.spotify.com/album/0VVrLwOJ9Lgaeiu7qGnUvK) | 2:24 |
+| 20 | [Pesele](https://open.spotify.com/track/74qcYXvhFLfkKpQGZ0H3BW) | [Liber](https://open.spotify.com/artist/2CiMCmeBorjSa1ppz6wY6s), [Young Leosia](https://open.spotify.com/artist/0iBTVnJ1Sff92zCDujfvyJ), [Adash](https://open.spotify.com/artist/61OiK85G3liQ764VKRLJPk), [Mycy](https://open.spotify.com/artist/7Jn6SmsJAsIoXpzVMTE5me) | [Pesele](https://open.spotify.com/album/0VVrLwOJ9Lgaeiu7qGnUvK) | 2:24 |
 | 21 | [SERIO](https://open.spotify.com/track/78bAUUxyLxhBQDCVfXb8Ov) | [Bary](https://open.spotify.com/artist/4JBmVZET2xstezrgS5PsXw), [White Widow](https://open.spotify.com/artist/1KyVviwmYP83FyOApt86K0) | [SERIO](https://open.spotify.com/album/6Xgtuy59R6aLCcF4JpxVBV) | 2:40 |
 | 22 | [Architekci Stylu](https://open.spotify.com/track/3YsTzVZ6cw5eX454rj18Oz) | [Bonus RPK](https://open.spotify.com/artist/070tdNOiP3pIsGlqNfVkG3), [TEDE](https://open.spotify.com/artist/38iqZSGa2pvToKrMISU8g1), [VBS](https://open.spotify.com/artist/6dLmkDJ0rahtzUgcpUyxGQ), [DJ HWR](https://open.spotify.com/artist/6255yim4X30IpIWY3UBgKW) | [Architekci Stylu](https://open.spotify.com/album/6Wc1CTvVnVdBHbTh2TPKLT) | 2:34 |
 | 23 | [VIS A VIS](https://open.spotify.com/track/5H14LmvnU3fuNrOj0hoELt) | [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk) | [VIS A VIS](https://open.spotify.com/album/2LFMVZbXfCNRF40azOwXIG) | 2:19 |

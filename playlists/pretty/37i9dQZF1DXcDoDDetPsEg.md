@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDoDDetPsEg.md) - [plain]
 
 > The Biggest Hip Hop, UK Rap, R&B, Dancehall, Reggae, Soca & Afrobeats playlist\. Cover: Chip
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,053,023 likes - 70 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,053,000 likes - 70 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDoDDetPsEg.md) - [plain]
 | 9 | [Currency](https://open.spotify.com/track/2nVP6HXSfFSD5ISwQmaQ8w) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [The Fork and Knife](https://open.spotify.com/album/5cld8q9clkWf6DtcUy9STc) | 3:37 |
 | 10 | [2am in toronto](https://open.spotify.com/track/6Y4gGndf0AXpLGXi1P0HTE) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [9](https://open.spotify.com/album/1fHRY61FCATcIMjN0DPtdm) | 3:04 |
 | 11 | [the 5 stages of heartbreak](https://open.spotify.com/track/0eFNKgtxSByzY9fDkP5ZWs) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [the 5 stages of heartbreak](https://open.spotify.com/album/6ZWJDaWxNzh7bxrPEWrH9K) | 3:01 |
-| 12 | [Why Not \(feat\. Quavo & Loe Shimmy\)](https://open.spotify.com/track/3ag3REuwHRHF8kYQffQ8pn) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax) | [GMFU](https://open.spotify.com/album/0sjhU3kzHU2dfd6SVrzLIp) | 2:49 |
+| 12 | [Why Not? \(feat\. Quavo & Loe Shimmy\)](https://open.spotify.com/track/3ag3REuwHRHF8kYQffQ8pn) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax) | [GMFU](https://open.spotify.com/album/0sjhU3kzHU2dfd6SVrzLIp) | 2:49 |
 | 13 | [BBBBBOOTER](https://open.spotify.com/track/68ywfZcVz9Hft1TDpMFtHV) | [Booter Bee](https://open.spotify.com/artist/4UqCESpZKvidid87gOWQyU) | [The Buzz](https://open.spotify.com/album/0SV0P0JXQPAoplBVBIoAfs) | 1:57 |
 | 14 | [DRTY](https://open.spotify.com/track/4v908d71nMHw4sRRx5YTZQ) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [DRTY](https://open.spotify.com/album/1aao8FuXkxeH7xLcGlSmx8) | 3:20 |
 | 15 | [Shotta's.](https://open.spotify.com/track/0M4R6G6junOgTJDccOEGHo) | [Season 25](https://open.spotify.com/artist/1WtceoonufhxRc6AnUSbat) | [Shotta's.](https://open.spotify.com/album/6z49RFUy6MNYlhMShZ6h4p) | 2:22 |

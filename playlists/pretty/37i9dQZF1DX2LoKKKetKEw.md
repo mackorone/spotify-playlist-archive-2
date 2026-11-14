@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoKKKetKEw.md) - [plain]
 
 ### [AfroGospel](https://open.spotify.com/playlist/37i9dQZF1DX2LoKKKetKEw)
 
-> Jesus Music but make it pon pon\.  Get your fill of Afrobeats and Bible right here!  Cover: Anendlessocean
+> Jesus Music but make it pon pon\.  Get your fill of Afrobeats and Bible right here!  Cover: Limoblaze
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,785 likes - 75 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,831 likes - 75 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

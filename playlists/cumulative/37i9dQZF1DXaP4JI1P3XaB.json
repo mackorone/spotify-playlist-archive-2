@@ -225,6 +225,24 @@
     },
     {
       "album": {
+        "name": "Animative",
+        "url": "https://open.spotify.com/album/2Dky1fEIKf5zyUVI6ISRlx"
+      },
+      "artists": [
+        {
+          "name": "Josh Johnson",
+          "url": "https://open.spotify.com/artist/6E2QUbsHDVzmrf1TVfGdwf"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109660,
+      "name": "Aughts Hymnal",
+      "url": "https://open.spotify.com/track/6XQg1HLLx1rCJR12WnOPQb"
+    },
+    {
+      "album": {
         "name": "Last Night The Moon Came Dropping Its Clothes In The Street",
         "url": "https://open.spotify.com/album/6p97ys8xZeV60gh427TwMz"
       },
@@ -944,7 +962,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 330490,
       "name": "It Can Be Everywhere",
       "url": "https://open.spotify.com/track/0glBCins7Uh2Ca5NtRaj7O"

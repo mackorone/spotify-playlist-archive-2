@@ -1,12 +1,12 @@
 {
   "description": "This is AWOLNATION. The essential tracks, all in one playlist.",
-  "num_followers": 37865,
+  "num_followers": 37864,
   "original_name": "This Is AWOLNATION",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avOwAAAAAACmWWHLoYoSHCTEOFUWpBEj",
+  "snapshot_id": "avUBgAAAAADWrWPUd4mBQ+B6mwNchkHx",
   "tracks": [
     {
       "added_at": null,
@@ -351,6 +351,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Angel Miners & The Lightning Riders",
+        "url": "https://open.spotify.com/album/1rS0FYRCKha4gPkFCVY56j"
+      },
+      "artists": [
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        }
+      ],
+      "duration_ms": 288080,
+      "name": "Slam (Angel Miners)",
+      "url": "https://open.spotify.com/track/3KdzzDeRqASjUuRkvft7Db"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Material Girl (feat. Taylor Hanson of Hanson)",
         "url": "https://open.spotify.com/album/5nfPvmgxIqQnGR8J9n8WUh"
       },
@@ -371,8 +387,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Angel Miners & The Lightning Riders",
-        "url": "https://open.spotify.com/album/1rS0FYRCKha4gPkFCVY56j"
+        "name": "Megalithic Symphony",
+        "url": "https://open.spotify.com/album/1fag8cnc5p4Umu4tRMAsLv"
       },
       "artists": [
         {
@@ -380,29 +396,9 @@
           "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
         }
       ],
-      "duration_ms": 288080,
-      "name": "Slam (Angel Miners)",
-      "url": "https://open.spotify.com/track/3KdzzDeRqASjUuRkvft7Db"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Phantom Five",
-        "url": "https://open.spotify.com/album/13rCwtfBHmNlPBYyFFU0u5"
-      },
-      "artists": [
-        {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        },
-        {
-          "name": "Emily Armstrong",
-          "url": "https://open.spotify.com/artist/2j5MUrKK6wSLdUxy2ijqHC"
-        }
-      ],
-      "duration_ms": 231960,
-      "name": "Jump Sit Stand March",
-      "url": "https://open.spotify.com/track/4oUMZpUbTRTO1FzNgVeq8s"
+      "duration_ms": 182786,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/1G6veZVvJjrSwCytFAKVkb"
     },
     {
       "added_at": null,
@@ -423,18 +419,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Megalithic Symphony",
-        "url": "https://open.spotify.com/album/1fag8cnc5p4Umu4tRMAsLv"
+        "name": "The Phantom Five",
+        "url": "https://open.spotify.com/album/13rCwtfBHmNlPBYyFFU0u5"
       },
       "artists": [
         {
           "name": "AWOLNATION",
           "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        },
+        {
+          "name": "Emily Armstrong",
+          "url": "https://open.spotify.com/artist/2j5MUrKK6wSLdUxy2ijqHC"
         }
       ],
-      "duration_ms": 182786,
-      "name": "Wake Up",
-      "url": "https://open.spotify.com/track/1G6veZVvJjrSwCytFAKVkb"
+      "duration_ms": 231960,
+      "name": "Jump Sit Stand March",
+      "url": "https://open.spotify.com/track/4oUMZpUbTRTO1FzNgVeq8s"
     },
     {
       "added_at": null,
@@ -567,30 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "And Now I'm Just Gnashing My Teeth",
-        "url": "https://open.spotify.com/album/6YLHjXokWtPT8ADt6F9bn4"
-      },
-      "artists": [
-        {
-          "name": "The Barbarians of California",
-          "url": "https://open.spotify.com/artist/4ssLjypWLLQ2kP9aHRMraO"
-        },
-        {
-          "name": "Tim McIlrath",
-          "url": "https://open.spotify.com/artist/1ha9OccsctLTOMCFWTpC9Z"
-        },
-        {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        }
-      ],
-      "duration_ms": 215093,
-      "name": "Three Letters",
-      "url": "https://open.spotify.com/track/6s0l1IVuV120GoqteaEOod"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Run (10th Anniversary Deluxe Edition)",
         "url": "https://open.spotify.com/album/27mRZk6YZ4yVLXXRmKkQFK"
       },
@@ -619,6 +595,30 @@
       "duration_ms": 241693,
       "name": "A Letter To No One",
       "url": "https://open.spotify.com/track/1aE8HVgaRZGqFY6sF0utyR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "And Now I'm Just Gnashing My Teeth",
+        "url": "https://open.spotify.com/album/6YLHjXokWtPT8ADt6F9bn4"
+      },
+      "artists": [
+        {
+          "name": "The Barbarians of California",
+          "url": "https://open.spotify.com/artist/4ssLjypWLLQ2kP9aHRMraO"
+        },
+        {
+          "name": "Tim McIlrath",
+          "url": "https://open.spotify.com/artist/1ha9OccsctLTOMCFWTpC9Z"
+        },
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        }
+      ],
+      "duration_ms": 215093,
+      "name": "Three Letters",
+      "url": "https://open.spotify.com/track/6s0l1IVuV120GoqteaEOod"
     },
     {
       "added_at": null,
@@ -659,26 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Echo, My Shadow, My Covers & Me",
-        "url": "https://open.spotify.com/album/7AERvdOdM3KBn5XaCs42dW"
-      },
-      "artists": [
-        {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        },
-        {
-          "name": "Jewel",
-          "url": "https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP"
-        }
-      ],
-      "duration_ms": 241499,
-      "name": "Take A Chance On Me (feat. Jewel)",
-      "url": "https://open.spotify.com/track/2QZpV3KZnDfqrvOfJNcvCY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Phantom Five",
         "url": "https://open.spotify.com/album/13rCwtfBHmNlPBYyFFU0u5"
       },
@@ -695,6 +675,26 @@
       "duration_ms": 182893,
       "name": "I Am Happy",
       "url": "https://open.spotify.com/track/7hlS8OyiuxxNI8aoQM9hCf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Echo, My Shadow, My Covers & Me",
+        "url": "https://open.spotify.com/album/7AERvdOdM3KBn5XaCs42dW"
+      },
+      "artists": [
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        },
+        {
+          "name": "Jewel",
+          "url": "https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP"
+        }
+      ],
+      "duration_ms": 241499,
+      "name": "Take A Chance On Me (feat. Jewel)",
+      "url": "https://open.spotify.com/track/2QZpV3KZnDfqrvOfJNcvCY"
     },
     {
       "added_at": null,
@@ -731,26 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Echo, My Shadow, My Covers & Me",
-        "url": "https://open.spotify.com/album/7AERvdOdM3KBn5XaCs42dW"
-      },
-      "artists": [
-        {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        },
-        {
-          "name": "Elohim",
-          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
-        }
-      ],
-      "duration_ms": 249212,
-      "name": "Flagpole Sitta (feat. Elohim)",
-      "url": "https://open.spotify.com/track/5KcdcUuL8YI3PqeQIvJj2H"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Table for One (feat. Elohim)",
         "url": "https://open.spotify.com/album/6Vh3fdmfzij1qT1KVHapZQ"
       },
@@ -767,6 +747,26 @@
       "duration_ms": 278867,
       "name": "Table for One (feat. Elohim)",
       "url": "https://open.spotify.com/track/7fE5PFt7j1aNGdCEM89qxN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Echo, My Shadow, My Covers & Me",
+        "url": "https://open.spotify.com/album/7AERvdOdM3KBn5XaCs42dW"
+      },
+      "artists": [
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        },
+        {
+          "name": "Elohim",
+          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
+        }
+      ],
+      "duration_ms": 249212,
+      "name": "Flagpole Sitta (feat. Elohim)",
+      "url": "https://open.spotify.com/track/5KcdcUuL8YI3PqeQIvJj2H"
     },
     {
       "added_at": null,

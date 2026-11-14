@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Ia2xt6mrG.md) - [plain]
 
 > Descubre lo más fresco de la electrónica mexicana\. Pato Shoucair, BELCAST y Vela Beats en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,258 likes - 90 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,275 likes - 90 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Ia2xt6mrG.md) - [plain]
 | 83 | [RAYBEN CAP 6: EL DANZÓN](https://open.spotify.com/track/4n6JiKIrQ6ORMMYurmU2mr) | [RAYBEN](https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47), [El HueyCoyote](https://open.spotify.com/artist/3FP0UgKEa2aprodn6KboaK) | [RAYBEN CAP 6: EL DANZÓN](https://open.spotify.com/album/2Z7qHRKHMTKTV5cX0juLnh) | 2:22 |
 | 84 | [999 \(Goer\)](https://open.spotify.com/track/17naw7wiDD3bL2ePAIrIVk) | [Remp](https://open.spotify.com/artist/1xOk6ncnlNdMeSnLLLoMSa) | [999 \(Goer\)](https://open.spotify.com/album/1OVXU74d1lygEMbdTxEuBb) | 2:40 |
 | 85 | [SOL](https://open.spotify.com/track/3B3pEf0eLDDmMjGDFtyNu5) | [The Wookies](https://open.spotify.com/artist/6IPSnlQfZiEJxFG4oFAz7a), [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975) | [SOL](https://open.spotify.com/album/0PxFydCKbJSPaLG8ouOMYA) | 3:15 |
-| 86 | [ESTAMOS READY](https://open.spotify.com/track/6CjUXBFn8rqt11iIgxroIE) | [Ele A El Dominio](https://open.spotify.com/artist/4SzD0wClEg9NKVJZbCRFqS), [Nfasis](https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM), [Dj Human Star](https://open.spotify.com/artist/0g5a7nTAbwPPMzJi4KvaYW) | [ESTAMOS READY](https://open.spotify.com/album/030z0CjAA6B2JJ6nxvOcZ9) | 3:34 |
-| 87 | [Bandidas](https://open.spotify.com/track/7nOe5YtRc78d1vFGt1zi1V) | [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [D\-Sides](https://open.spotify.com/artist/5vakO9fG4OZarrMqZlXbcl) | [Bandidas](https://open.spotify.com/album/2ADVnJXAX6V7NQoerdXPmD) | 2:22 |
+| 86 | [Bandidas](https://open.spotify.com/track/7nOe5YtRc78d1vFGt1zi1V) | [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [D\-Sides](https://open.spotify.com/artist/5vakO9fG4OZarrMqZlXbcl) | [Bandidas](https://open.spotify.com/album/2ADVnJXAX6V7NQoerdXPmD) | 2:22 |
+| 87 | [ESTAMOS READY](https://open.spotify.com/track/6CjUXBFn8rqt11iIgxroIE) | [Ele A El Dominio](https://open.spotify.com/artist/4SzD0wClEg9NKVJZbCRFqS), [Nfasis](https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM), [Dj Human Star](https://open.spotify.com/artist/0g5a7nTAbwPPMzJi4KvaYW) | [ESTAMOS READY](https://open.spotify.com/album/030z0CjAA6B2JJ6nxvOcZ9) | 3:34 |
 | 88 | [Chupa \(Feat\. Ms Nina\)](https://open.spotify.com/track/5IxkKy1BCUc4ysc1sZc3ck) | [MichaelBM](https://open.spotify.com/artist/6RY7vqzR938x0DE0Eh6srl), [Ms Nina](https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ) | [Chupa \(Feat\. Ms Nina\)](https://open.spotify.com/album/5adOkuXGCliZ1boMgjuA5Y) | 2:56 |
 | 89 | [\#Ruta Technomami](https://open.spotify.com/track/6IMA7nOI3i2tpf37IRNIjQ) | [RAYBEN](https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47) | [\#Ruta Technomami](https://open.spotify.com/album/2CS2FuwMMLVvaQGMyVWsS5) | 2:21 |
 | 90 | [Midnight Replay](https://open.spotify.com/track/7rMiNWxXuxUIv93te7Mrnl) | [HAJJ](https://open.spotify.com/artist/5u8V8ixzEKcIjWxNbNOHvI) | [Midnight Replay](https://open.spotify.com/album/6rWXLBj7nllYP31NrzZwa7) | 3:09 |

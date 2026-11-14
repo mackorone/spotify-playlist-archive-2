@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Qt5e1zZYbU.md) - [plain]
 
 > These are the songs that have shaped <a href="spotify:artist:5ObBtv5VunwwhQaXXnUrsM">KennyHoopla's</a> alternative spirit\. Check out the latest COUNTER//CULTURE mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX9n1dvGkpvfI"> here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,167 likes - 31 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,169 likes - 31 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Qt5e1zZYbU.md) - [plain]
 | 11 | [Just Me Before We Met](https://open.spotify.com/track/1gdwrQBPtaA8aIGLdKMGt5) | [Noah And The Whale](https://open.spotify.com/artist/0aeLcja6hKzb7Uz2ou7ulP) | [Last Night On Earth](https://open.spotify.com/album/2BAYuyT9kP620VgwpowIQK) | 3:37 |
 | 12 | [Parks 'n' Recreation](https://open.spotify.com/track/3OsKTBizjyA0WG72nJtsFH) | [Saint Wellesley](https://open.spotify.com/artist/7LVfRRoVa6KgK7nOwYaUho) | [You Don't Know Shit 'Bout](https://open.spotify.com/album/1ySu6uBo7PMgKvGmeuNvVO) | 1:18 |
 | 13 | [Sorry](https://open.spotify.com/track/4XcXatNtRIItJ08jPiI5XQ) | [Crooks & Nannies](https://open.spotify.com/artist/2v081HF22KJUbNXmXPKTdk) | [Sorry](https://open.spotify.com/album/2egP41bBu2qTOBjNmVDETZ) | 2:44 |
-| 14 | [Eau D' Bedroom Dancing](https://open.spotify.com/track/0MRylncmeKOjDF14R8r6eK) | [Le Tigre](https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM) | [Le Tigre](https://open.spotify.com/album/0dSSZGzoukzrFBnG07J45i) | 2:55 |
+| 14 | [Eau D' bedroom Dancing](https://open.spotify.com/track/0MRylncmeKOjDF14R8r6eK) | [Le Tigre](https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM) | [Le Tigre](https://open.spotify.com/album/0dSSZGzoukzrFBnG07J45i) | 2:55 |
 | 15 | [The Fall](https://open.spotify.com/track/7pCZMHPwd5Xn8IzDEVITUU) | [Julia Brown](https://open.spotify.com/artist/2oKlKNG9YDt3YCbPbXS2vH) | [An Abundance of B\-sides](https://open.spotify.com/album/2o87h8JS2O1GGhVWmeGsc7) | 1:46 |
 | 16 | [Blue Stripes](https://open.spotify.com/track/6kwyBdROdcbTn5EcLNG77j) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu) | [MOMMY DON'T SPANK ME](https://open.spotify.com/album/07QtExfk8X4bPC1fnDi3hx) | 4:08 |
 | 17 | [Good Arms vs Bad Arms](https://open.spotify.com/track/1Bh2ux25tWguirNVzlQNEC) | [Frightened Rabbit](https://open.spotify.com/artist/6fVcDUckTwxqg56qNsEvUr) | [The Midnight Organ Fight](https://open.spotify.com/album/42UPwzHW8rhA13t5JJxp09) | 5:06 |

@@ -2,9 +2,9 @@
 
 ### [ung kniv ](https://open.spotify.com/playlist/37i9dQZF1DWTMVK39I3IIK)
 
-> unge kniv 🔪 @Østen
+> unge kniv 🔪 @Albert
 
-484 songs - 1 day 0 hr 51 min
+486 songs - 1 day 0 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Driving me crazy](https://open.spotify.com/track/37nR6LHLMBErNHTBdIIZmG) | [snuggle](https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa) | [Goodbyehouse](https://open.spotify.com/album/2UHXU5yDMaB5281r3ZMhNu) | 2:30 | 2025-09-11 | 2026-02-27 |
 | [Drømmer](https://open.spotify.com/track/0LygyTQgwgub7hlSnxniKJ) | [Mathias Ranch](https://open.spotify.com/artist/1mWocDhzyzvNZJD0T2poQ8) | [Drømmer / Helt](https://open.spotify.com/album/6hX2wyH7niZIByb0OFKdC5) | 2:32 | 2025-03-20 | 2025-03-22 |
 | [du forstår det, jeg forstår det ik](https://open.spotify.com/track/7DbJqU0Tj5Ti0kuUYuAJPp) | [milo](https://open.spotify.com/artist/0ySh6QBLEyARk5Nfuxu3gF) | [du forstår det, jeg forstår det ik](https://open.spotify.com/album/4TOYrvfkdwuEBAeK0KHv0y) | 2:59 | 2026-06-26 |  |
+| [Du Ved Jeg Forstår Det](https://open.spotify.com/track/3Vp9YoclG72m2wq9zIj4lo) | [Albert](https://open.spotify.com/artist/3Sog3Abr94ggodkNxdvKRD) | [Du Ved Jeg Forstår Det](https://open.spotify.com/album/22oRvJRejjw4VH8mqOncWB) | 2:32 | 2026-11-13 |  |
 | [Dust](https://open.spotify.com/track/6xq2ewiAEbFJt0PT8uharC) | [snuggle](https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa) | [Dust](https://open.spotify.com/album/5NfORohjlF3kjZJ2GaUtgD) | 3:27 | 2025-03-07 | 2025-05-30 |
 | [Dårligste Bedste Idé](https://open.spotify.com/track/3MMQxJeAw1A9jjqyGHz8DF) | [LUCY](https://open.spotify.com/artist/3YYCYfeypDt0g0kwgNYIWw) | [Dårligste Bedste Idé](https://open.spotify.com/album/0fsi7iQLNKjjs2zsWjNzyl) | 3:16 | 2024-06-27 | 2025-04-09 |
 | [Dér \(feat\. Wads\)](https://open.spotify.com/track/1CHopLIbq57daqmMzdZW1k) | [Pil](https://open.spotify.com/artist/3vSX14E4YqHrx8nyXeOVen), [Wads](https://open.spotify.com/artist/6MrX2ndZBm5xqWGTX26X2M) | [Dér \(feat\. Wads\)](https://open.spotify.com/album/4DVroCTqltqCUJdOcKaG9E) | 3:20 | 2024-06-27 | 2025-09-21 |
@@ -234,6 +235,7 @@
 | [Jeg Ved At Jeg Intet Ved](https://open.spotify.com/track/5ej57afM7PwDRYyZNWGuFu) | [PATINA](https://open.spotify.com/artist/6SQ0yQG7sRlasn0yrSz7Gh) | [Uvejr](https://open.spotify.com/album/4fm0NWoZsWk7lbK4ohGas2) | 3:53 | 2025-09-04 | 2026-06-14 |
 | [Jeg ved det godt](https://open.spotify.com/track/48Y0NLXdCU0FgHhqBohkSL) | [Marcus.wav](https://open.spotify.com/artist/2IwoU1JvxmNCdD1i69FmKr) | [En sød lille én](https://open.spotify.com/album/2TJgZqKPl7zCYZNwM5Ca1A) | 2:51 | 2024-06-27 | 2024-09-07 |
 | [JEG VIL HØRE ALTING](https://open.spotify.com/track/38e4vqyumqZVXUB2jU1lkR) | [AFSKUM](https://open.spotify.com/artist/3m1cXoRVAFIYiQ1I3blbEM) | [JEG VIL HØRE ALTING / GLEMMER ALDRIG](https://open.spotify.com/album/0FOQGq5MzCH6HJpJO56kdA) | 4:18 | 2025-08-14 | 2025-08-22 |
+| [Jetlag](https://open.spotify.com/track/6HtKaapCZGhHKvuWatfaLk) | [Knægt](https://open.spotify.com/artist/2ma469IFw27u95sH9V72l6) | [Jetlag](https://open.spotify.com/album/5rNJuFVUU2CwTBWB8Zw5fk) | 4:01 | 2026-11-13 |  |
 | [jukeboxx](https://open.spotify.com/track/5WmldVhCY250SK8gn9EwUg) | [Wads](https://open.spotify.com/artist/6MrX2ndZBm5xqWGTX26X2M) | [jukeboxx](https://open.spotify.com/album/0gTPDdSTfpxGjQkoj0YxD7) | 2:36 | 2025-05-22 | 2025-05-30 |
 | [Kaster Mig Ud I](https://open.spotify.com/track/37Z0AVOT6JIQssoNth5J0f) | [August Høyen](https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm) | [Kaster Mig Ud I](https://open.spotify.com/album/74kVeuJxuJsrANODEwI8VL) | 2:48 | 2026-03-27 |  |
 | [Keep Forgetting](https://open.spotify.com/track/1rc1butXPjPJnAR2LVJWvv) | [GUZO](https://open.spotify.com/artist/5kYNsgbRhmiRs9FZxwaFwV) | [Keep Forgetting](https://open.spotify.com/album/5HBhsnBwHddgj9ookdBhDj) | 2:53 | 2024-08-29 | 2024-12-17 |
@@ -286,7 +288,7 @@
 | [Mig Og Min Mund](https://open.spotify.com/track/6zJFMDkfoTGtCW9mUZurqn) | [APHACA](https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9) | [Mig Og Min Mund](https://open.spotify.com/album/08AZxKNYc8cCbqYpBDqi3Q) | 2:39 | 2024-06-27 |  |
 | [Minder Om Dig](https://open.spotify.com/track/1553ldzhZQvrhS5fgWWve5) | [Dos Santos](https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn) | [Minder Om Dig](https://open.spotify.com/album/22evEz1GRHMoFBh57DrHkA) | 2:57 | 2025-04-10 | 2025-09-05 |
 | [Mouse Tag](https://open.spotify.com/track/1QVgtD9wGjGQdLLdrQ1dI4) | [haloplus+](https://open.spotify.com/artist/224oiUpyCYmxo3WJQW3EPB) | [Musicality](https://open.spotify.com/album/6rcnlJU0yDzWJf59i4SP6X) | 1:46 | 2025-09-18 | 2025-10-10 |
-| [Mouthful of Sand](https://open.spotify.com/track/3A53Ci6ZNo4E98GR2FGz4C) | [BÆNCH](https://open.spotify.com/artist/32hyEyn0a2d4Uco2TBciRm) | [Mouthful of Sand](https://open.spotify.com/album/0iSHH0aLohR311TCqIFL61) | 3:16 | 2026-10-08 |  |
+| [Mouthful of Sand](https://open.spotify.com/track/3A53Ci6ZNo4E98GR2FGz4C) | [BÆNCH](https://open.spotify.com/artist/32hyEyn0a2d4Uco2TBciRm) | [Mouthful of Sand](https://open.spotify.com/album/0iSHH0aLohR311TCqIFL61) | 3:16 | 2026-10-08 | 2026-11-14 |
 | [moving in](https://open.spotify.com/track/6V68DOoiw4Z8iPPDIxtgWY) | [miaw](https://open.spotify.com/artist/5KW0bWRTHpvoJbpgCCbSt8) | [moving in](https://open.spotify.com/album/1E6E9b6Do9vazfKNHzJnpk) | 4:05 | 2026-01-22 | 2026-02-27 |
 | [Møntvask](https://open.spotify.com/track/03KN1dxRNaI5A1X0JXKvpP) | [Magnus Ø](https://open.spotify.com/artist/6Nnv81bjs2w1KkRv4eTTnM) | [Møntvask](https://open.spotify.com/album/08bOXvVbQVvTeKEx5Wk1Ts) | 3:06 | 2025-09-11 | 2026-06-21 |
 | [Nak Og Æd](https://open.spotify.com/track/0niH1XyGXvtIxa77UvHO53) | [Godt Gået Frej](https://open.spotify.com/artist/2nPa8GSEhLI81oFZA06k7H) | [Nak Og Æd](https://open.spotify.com/album/5CKWRghpo2RXMJegmbvQ7L) | 3:06 | 2025-06-12 | 2025-06-20 |
@@ -347,7 +349,7 @@
 | [Ring, når du har tid](https://open.spotify.com/track/5Ptfc4dFINCiNvxh8gbGI4) | [Guldimund](https://open.spotify.com/artist/5269oiQ5yjMDcgXoJr6zkw), [Kristoffer Jessen](https://open.spotify.com/artist/5Y5GcPvX5dQ3mSE8LGxQLC), [Pernille Rosendahl](https://open.spotify.com/artist/17ytgaxAbm2QUG4rvzO6CE), [Pia Raug](https://open.spotify.com/artist/3MijIIZW05AY9gC0rpdPbm), [Søren Huss](https://open.spotify.com/artist/4c5YsU2iQX3LvAKdPa0A8P) | [Ring, når du har tid](https://open.spotify.com/album/4YkLjRt3x0ppUXeI9yIWyy) | 6:34 | 2026-02-26 |  |
 | [Run](https://open.spotify.com/track/29YCXYGQo3YU7lx3g2EgLI) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [Run](https://open.spotify.com/album/5IUgE3F3cSm9JWAWZVTiHM) | 3:36 | 2025-06-26 | 2025-09-05 |
 | [Rødt Flag](https://open.spotify.com/track/1VjZ7NI007heu9eEIJmSpC) | [Zira](https://open.spotify.com/artist/4pJAB4vr5CJYRINQQ8WtfB) | [Rødt Flag](https://open.spotify.com/album/53PoYW0S0j9fmhcMiRixwP) | 2:27 | 2025-09-04 | 2025-10-16 |
-| [Røsnæs, 2017 \(havet lyste dig op\)](https://open.spotify.com/track/3VkWtyzvvGphm7Yhp5HMiP) | [Karoline Funder](https://open.spotify.com/artist/05YpD8zp3oH1xrBIncrTwV) | [Røsnæs, 2017 \(havet lyste dig op\)](https://open.spotify.com/album/1hThaH0ITjPLDfc6ojR69q) | 4:20 | 2026-10-08 |  |
+| [Røsnæs, 2017 \(havet lyste dig op\)](https://open.spotify.com/track/3VkWtyzvvGphm7Yhp5HMiP) | [Karoline Funder](https://open.spotify.com/artist/05YpD8zp3oH1xrBIncrTwV) | [Røsnæs, 2017 \(havet lyste dig op\)](https://open.spotify.com/album/1hThaH0ITjPLDfc6ojR69q) | 4:20 | 2026-10-08 | 2026-11-14 |
 | [sad song](https://open.spotify.com/track/550U3xKjOwcHU36I47JX5P) | [miaw](https://open.spotify.com/artist/5KW0bWRTHpvoJbpgCCbSt8) | [sad song](https://open.spotify.com/album/3M4kVE1218U6n9Qh6JQ03I) | 3:03 | 2026-04-16 | 2026-08-07 |
 | [Same Thing](https://open.spotify.com/track/3zVEaAiVKKqo6JC9bhhQMx) | [KOPS](https://open.spotify.com/artist/10GRqg0xzOzJI8yOgs5DbS) | [Same Thing](https://open.spotify.com/album/5qHDM4ltRazpBL3pdVcAMi) | 5:08 | 2025-11-06 | 2025-11-09 |
 | [Samme side](https://open.spotify.com/track/5lZny8ZmRtXueq7D3LTgb5) | [ozzy](https://open.spotify.com/artist/1RJznM4DOSV69NWbkq3RA9) | [Samme side](https://open.spotify.com/album/4JvKstwK5cNoLJtqVnhp0P) | 2:34 | 2025-01-23 | 2025-05-30 |

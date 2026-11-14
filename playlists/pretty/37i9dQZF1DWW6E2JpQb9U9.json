@@ -1,6 +1,6 @@
 {
   "description": "Rock en vivo de la A a la Z, de ayer, de hoy y de siempre... Foto: Charly Garc\u00eda",
-  "num_followers": 127868,
+  "num_followers": 127872,
   "original_name": "Vivo de Rock",
   "owner": {
     "name": "Spotify",
@@ -643,22 +643,6 @@
     {
       "added_at": "2026-10-23 03:00:39",
       "album": {
-        "name": "En Vivo Obras",
-        "url": "https://open.spotify.com/album/2l7x79wrLp28jt7qRjErxT"
-      },
-      "artists": [
-        {
-          "name": "Almafuerte",
-          "url": "https://open.spotify.com/artist/6qYd7xlmeeeDkPfx6mZ9PV"
-        }
-      ],
-      "duration_ms": 228144,
-      "name": "Toro y Pampa - En Vivo",
-      "url": "https://open.spotify.com/track/43c4oelxnp0cVeFZZ4L4QL"
-    },
-    {
-      "added_at": "2026-10-23 03:00:39",
-      "album": {
         "name": "El Charro Chino (En Vivo, S\u00e1bado 12 de Marzo de 2016 / Hip\u00f3dromo de Tandil)",
         "url": "https://open.spotify.com/album/2OZE8Npt2GEVmM6WftWd0U"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 294334,
       "name": "El Charro Chino - En Vivo, S\u00e1bado 12 de Marzo de 2016 / Hip\u00f3dromo de Tandil",
       "url": "https://open.spotify.com/track/7zSzpBTIDG5aHJCmTJptTx"
+    },
+    {
+      "added_at": "2026-10-23 03:00:39",
+      "album": {
+        "name": "En Vivo Obras",
+        "url": "https://open.spotify.com/album/2l7x79wrLp28jt7qRjErxT"
+      },
+      "artists": [
+        {
+          "name": "Almafuerte",
+          "url": "https://open.spotify.com/artist/6qYd7xlmeeeDkPfx6mZ9PV"
+        }
+      ],
+      "duration_ms": 228144,
+      "name": "Toro y Pampa - En Vivo",
+      "url": "https://open.spotify.com/track/43c4oelxnp0cVeFZZ4L4QL"
     },
     {
       "added_at": "2026-10-23 03:00:39",
@@ -847,22 +847,6 @@
     {
       "added_at": "2026-10-23 03:00:39",
       "album": {
-        "name": "Ac\u00fastico Gran Rex, Vol. 2",
-        "url": "https://open.spotify.com/album/5FhGXJP1oaVkRnjoloyz4u"
-      },
-      "artists": [
-        {
-          "name": "Guasones",
-          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
-        }
-      ],
-      "duration_ms": 278137,
-      "name": "My Love - Ac\u00fastico Gran Rex Vol. 2",
-      "url": "https://open.spotify.com/track/3YmSjzUch6kPXI8gAc16Ug"
-    },
-    {
-      "added_at": "2026-10-23 03:00:39",
-      "album": {
         "name": "C\u00f3mo Me Gusta Verte Re\u00edr",
         "url": "https://open.spotify.com/album/4lTU97kK1BZn8CM64e0qHK"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 251651,
       "name": "De Nada Sirve - En Vivo En Argentina",
       "url": "https://open.spotify.com/track/4xGfcgTkXzHDqEmBh2rWHS"
+    },
+    {
+      "added_at": "2026-10-23 03:00:39",
+      "album": {
+        "name": "Ac\u00fastico Gran Rex, Vol. 2",
+        "url": "https://open.spotify.com/album/5FhGXJP1oaVkRnjoloyz4u"
+      },
+      "artists": [
+        {
+          "name": "Guasones",
+          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
+        }
+      ],
+      "duration_ms": 278137,
+      "name": "My Love - Ac\u00fastico Gran Rex Vol. 2",
+      "url": "https://open.spotify.com/track/3YmSjzUch6kPXI8gAc16Ug"
     },
     {
       "added_at": "2026-10-23 03:00:39",
@@ -935,22 +935,6 @@
     {
       "added_at": "2026-10-23 03:00:39",
       "album": {
-        "name": "Vivo",
-        "url": "https://open.spotify.com/album/7byqd7hsiFnu2cd4LQPlBm"
-      },
-      "artists": [
-        {
-          "name": "Virus",
-          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
-        }
-      ],
-      "duration_ms": 263373,
-      "name": "Pronta Entrega - En Vivo",
-      "url": "https://open.spotify.com/track/4R924NQoTVx3BJxgghtDSm"
-    },
-    {
-      "added_at": "2026-10-23 03:00:39",
-      "album": {
         "name": "MVD/05/03/05 (En Vivo)",
         "url": "https://open.spotify.com/album/3fV0us97rc1lbhjWVWQO2U"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 398705,
       "name": "Cosa Linda/Clara - En Vivo",
       "url": "https://open.spotify.com/track/48JNsIQ07dqVwpOdjjN8yu"
+    },
+    {
+      "added_at": "2026-10-23 03:00:39",
+      "album": {
+        "name": "Vivo",
+        "url": "https://open.spotify.com/album/7byqd7hsiFnu2cd4LQPlBm"
+      },
+      "artists": [
+        {
+          "name": "Virus",
+          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
+        }
+      ],
+      "duration_ms": 263373,
+      "name": "Pronta Entrega - En Vivo",
+      "url": "https://open.spotify.com/track/4R924NQoTVx3BJxgghtDSm"
     },
     {
       "added_at": "2026-10-23 03:00:39",
@@ -1299,18 +1299,18 @@
     {
       "added_at": "2026-10-23 03:00:39",
       "album": {
-        "name": "Puertas (En Vivo)",
-        "url": "https://open.spotify.com/album/6QbsbadOKcLDb5Ae1V1XYM"
+        "name": "Vivo Paranoico",
+        "url": "https://open.spotify.com/album/5CHgzhgDsOlwS1jPjRxe07"
       },
       "artists": [
         {
-          "name": "El Cuarteto De Nos",
-          "url": "https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH"
+          "name": "Ratones Paranoicos",
+          "url": "https://open.spotify.com/artist/5fVtUielMhdztOA34ArB6c"
         }
       ],
-      "duration_ms": 230755,
-      "name": "Puertas - En Vivo",
-      "url": "https://open.spotify.com/track/4jT39zQESqzAR8VJJkNl0Y"
+      "duration_ms": 205080,
+      "name": "Carol - Vivo",
+      "url": "https://open.spotify.com/track/4V7EMmfiohP17t5ulxDCQF"
     },
     {
       "added_at": "2026-10-23 03:00:39",
@@ -1331,18 +1331,18 @@
     {
       "added_at": "2026-10-23 03:00:39",
       "album": {
-        "name": "Vivo Paranoico",
-        "url": "https://open.spotify.com/album/5CHgzhgDsOlwS1jPjRxe07"
+        "name": "Puertas (En Vivo)",
+        "url": "https://open.spotify.com/album/6QbsbadOKcLDb5Ae1V1XYM"
       },
       "artists": [
         {
-          "name": "Ratones Paranoicos",
-          "url": "https://open.spotify.com/artist/5fVtUielMhdztOA34ArB6c"
+          "name": "El Cuarteto De Nos",
+          "url": "https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH"
         }
       ],
-      "duration_ms": 205080,
-      "name": "Carol - Vivo",
-      "url": "https://open.spotify.com/track/4V7EMmfiohP17t5ulxDCQF"
+      "duration_ms": 230755,
+      "name": "Puertas - En Vivo",
+      "url": "https://open.spotify.com/track/4jT39zQESqzAR8VJJkNl0Y"
     },
     {
       "added_at": "2026-10-23 03:00:39",

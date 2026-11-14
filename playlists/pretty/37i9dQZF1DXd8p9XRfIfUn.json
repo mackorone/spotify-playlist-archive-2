@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor de la nueva. Foto: fedesttar",
-  "num_followers": 3376,
+  "num_followers": 767,
   "original_name": "Academia Reggaet\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -967,30 +967,6 @@
     {
       "added_at": "2025-09-18 23:00:14",
       "album": {
-        "name": "Cada Vez",
-        "url": "https://open.spotify.com/album/31SngBc9PCn2qDix3g745R"
-      },
-      "artists": [
-        {
-          "name": "Young Martino",
-          "url": "https://open.spotify.com/artist/7Kh6SBEGtFtqjYo5bN0ACG"
-        },
-        {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
-        },
-        {
-          "name": "Brray",
-          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
-        }
-      ],
-      "duration_ms": 217021,
-      "name": "Cada Vez",
-      "url": "https://open.spotify.com/track/3x7Xpx7MG91amARyT0wmZ3"
-    },
-    {
-      "added_at": "2025-09-18 23:00:14",
-      "album": {
         "name": "Q-Lito",
         "url": "https://open.spotify.com/album/7vy05msyjhqtzv6wgemce7"
       },
@@ -1023,6 +999,30 @@
       "duration_ms": 191323,
       "name": "X Ti Lo Digo",
       "url": "https://open.spotify.com/track/1nT6epkjhga9uBDKrHIWVe"
+    },
+    {
+      "added_at": "2025-09-18 23:00:14",
+      "album": {
+        "name": "Cada Vez",
+        "url": "https://open.spotify.com/album/31SngBc9PCn2qDix3g745R"
+      },
+      "artists": [
+        {
+          "name": "Young Martino",
+          "url": "https://open.spotify.com/artist/7Kh6SBEGtFtqjYo5bN0ACG"
+        },
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        },
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        }
+      ],
+      "duration_ms": 217021,
+      "name": "Cada Vez",
+      "url": "https://open.spotify.com/track/3x7Xpx7MG91amARyT0wmZ3"
     },
     {
       "added_at": "2025-09-18 23:00:14",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2025-09-18 23:00:14",
       "album": {
+        "name": "Pal' Otro A\u00f1o",
+        "url": "https://open.spotify.com/album/3mMjUoysR3SkxtKieFVmf9"
+      },
+      "artists": [
+        {
+          "name": "Juan Duque",
+          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
+        }
+      ],
+      "duration_ms": 150894,
+      "name": "Pal' Otro A\u00f1o",
+      "url": "https://open.spotify.com/track/68IONBceV20r5OOr6961PQ"
+    },
+    {
+      "added_at": "2025-09-18 23:00:14",
+      "album": {
         "name": "Que a Pasao",
         "url": "https://open.spotify.com/album/00LnZnMQqMsYFIhnTjGAEo"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 125923,
       "name": "Que a Pasao",
       "url": "https://open.spotify.com/track/5s2SRpPmDiYFf0Qu17r9Uk"
-    },
-    {
-      "added_at": "2025-09-18 23:00:14",
-      "album": {
-        "name": "Pal' Otro A\u00f1o",
-        "url": "https://open.spotify.com/album/3mMjUoysR3SkxtKieFVmf9"
-      },
-      "artists": [
-        {
-          "name": "Juan Duque",
-          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
-        }
-      ],
-      "duration_ms": 150894,
-      "name": "Pal' Otro A\u00f1o",
-      "url": "https://open.spotify.com/track/68IONBceV20r5OOr6961PQ"
     },
     {
       "added_at": "2025-09-18 23:00:14",

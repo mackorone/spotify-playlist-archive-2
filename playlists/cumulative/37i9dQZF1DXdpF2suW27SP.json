@@ -3161,6 +3161,24 @@
     },
     {
       "album": {
+        "name": "bin laden",
+        "url": "https://open.spotify.com/album/6IExqufz1Y9Ve0bv4fViTZ"
+      },
+      "artists": [
+        {
+          "name": "Yuri NR5",
+          "url": "https://open.spotify.com/artist/0Dx6HmR7Rhi8G1osUOxAew"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155359,
+      "name": "bin laden",
+      "url": "https://open.spotify.com/track/6U0PTrJ4vXiDEbE1dgMLJf"
+    },
+    {
+      "album": {
         "name": "Bipolar",
         "url": "https://open.spotify.com/album/7b6rw53PTJcF16F5xbwZ24"
       },
@@ -3564,6 +3582,32 @@
       "duration_ms": 205934,
       "name": "B\u00ean\u00e7\u00e3o (with Van Zee & Bispo)",
       "url": "https://open.spotify.com/track/1hdWqiFAy5hNRxyVpDy81P"
+    },
+    {
+      "album": {
+        "name": "C'est La Vie Remix (feat. Headie One & Plutonio)",
+        "url": "https://open.spotify.com/album/2rBdu0DhCw7T2DYHH5uYL9"
+      },
+      "artists": [
+        {
+          "name": "Richie Campbell",
+          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
+        },
+        {
+          "name": "Headie One",
+          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
+        },
+        {
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188745,
+      "name": "C'est La Vie Remix (feat. Headie One & Plutonio)",
+      "url": "https://open.spotify.com/track/6rnp7oQTtrs7JakpNVqV9H"
     },
     {
       "album": {
@@ -13302,7 +13346,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 207432,
       "name": "M\u00e1s",
       "url": "https://open.spotify.com/track/2JoACjEp4JJRCYqcRwXkRs"
@@ -14250,6 +14294,28 @@
       "duration_ms": 180800,
       "name": "Novinha Grandona",
       "url": "https://open.spotify.com/track/5VhV7UaJv6HTt6lbr9oxPx"
+    },
+    {
+      "album": {
+        "name": "Novo Kuduro",
+        "url": "https://open.spotify.com/album/0wnq2PIIQ2nqnKqdC6D8jW"
+      },
+      "artists": [
+        {
+          "name": "bapcat",
+          "url": "https://open.spotify.com/artist/02Qg3L9GCPXeVQFxZ1b4ou"
+        },
+        {
+          "name": "HeyRicoo",
+          "url": "https://open.spotify.com/artist/7gv9htyT9jMdsEPLcan5SI"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154160,
+      "name": "Novo Kuduro",
+      "url": "https://open.spotify.com/track/7cKb25RvLs20tBDFacivDq"
     },
     {
       "album": {
@@ -15918,7 +15984,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 151576,
       "name": "Party",
       "url": "https://open.spotify.com/track/4P4Or7sobvSweZsTIGolt7"
@@ -18380,7 +18446,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 136084,
       "name": "SAKELE",
       "url": "https://open.spotify.com/track/7G1wpRIZCTYNAx5ZnmGEH3"

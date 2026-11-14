@@ -1,6 +1,6 @@
 {
   "description": "Guembri, rhythmic krakebs and soulful chants.",
-  "num_followers": 90729,
+  "num_followers": 90781,
   "original_name": "Gnawa Music",
   "owner": {
     "name": "Spotify",
@@ -699,6 +699,22 @@
     {
       "added_at": "2026-05-08 00:01:18",
       "album": {
+        "name": "Gnawa Njoum Experience",
+        "url": "https://open.spotify.com/album/7Cm96QYMUYWs0naMBeqpPh"
+      },
+      "artists": [
+        {
+          "name": "Gnawa Njoum Experience",
+          "url": "https://open.spotify.com/artist/2UbA6BI8ObVOPX5g3jiM4l"
+        }
+      ],
+      "duration_ms": 292520,
+      "name": "Marhaba",
+      "url": "https://open.spotify.com/track/2EcbOCnEBlOivIBWZcS0Cp"
+    },
+    {
+      "added_at": "2026-05-08 00:01:18",
+      "album": {
         "name": "Lila",
         "url": "https://open.spotify.com/album/5XlcfpWHHRfDRBFi2AbBPq"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 550106,
       "name": "Marhba / Gnawa Sidi Mimoun",
       "url": "https://open.spotify.com/track/75eTOivMFcLFmyIKtQrN98"
-    },
-    {
-      "added_at": "2026-05-08 00:01:18",
-      "album": {
-        "name": "Gnawa Njoum Experience",
-        "url": "https://open.spotify.com/album/7Cm96QYMUYWs0naMBeqpPh"
-      },
-      "artists": [
-        {
-          "name": "Gnawa Njoum Experience",
-          "url": "https://open.spotify.com/artist/2UbA6BI8ObVOPX5g3jiM4l"
-        }
-      ],
-      "duration_ms": 292520,
-      "name": "Marhaba",
-      "url": "https://open.spotify.com/track/2EcbOCnEBlOivIBWZcS0Cp"
     },
     {
       "added_at": "2026-05-08 00:01:18",

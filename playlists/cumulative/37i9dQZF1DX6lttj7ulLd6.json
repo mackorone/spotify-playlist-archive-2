@@ -526,7 +526,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 143498,
       "name": "Cat and Mouse",
       "url": "https://open.spotify.com/track/1SHbIUQu4hIv15BIZW6IkK"
@@ -742,7 +742,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 318053,
       "name": "Costa del Soul",
       "url": "https://open.spotify.com/track/4XdaRAkPSYQFaYA7UE6uAU"
@@ -2971,6 +2971,24 @@
     },
     {
       "album": {
+        "name": "Sips and Stares",
+        "url": "https://open.spotify.com/album/1JJax98Ub9PBlKt04xkk8k"
+      },
+      "artists": [
+        {
+          "name": "Rosello Blue",
+          "url": "https://open.spotify.com/artist/25oZlFal7MonBvnIataENe"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198271,
+      "name": "Sips and Stares",
+      "url": "https://open.spotify.com/track/0DygxdVeJdrrymYYOi9DVA"
+    },
+    {
+      "album": {
         "name": "Out Of A Dream",
         "url": "https://open.spotify.com/album/3e1fT9twS7LjpTQdtqGNDN"
       },
@@ -3411,6 +3429,24 @@
     },
     {
       "album": {
+        "name": "A Simple Man",
+        "url": "https://open.spotify.com/album/0hcD1R6aZDW8IpSb909GwG"
+      },
+      "artists": [
+        {
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237400,
+      "name": "Things Are Looking Up",
+      "url": "https://open.spotify.com/track/45WnqgBEa96VNsQEktGnM0"
+    },
+    {
+      "album": {
         "name": "Stay Awhile",
         "url": "https://open.spotify.com/album/0BnQMPzjGWbmoAOPFs5Nsn"
       },
@@ -3512,7 +3548,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-14",
       "duration_ms": 226173,
       "name": "Touch",
       "url": "https://open.spotify.com/track/09mcJo5V6ZODKYybdYzgaW"
@@ -3646,6 +3682,28 @@
       "duration_ms": 269573,
       "name": "Vinyl",
       "url": "https://open.spotify.com/track/2q2kwEh9flpSMwwqpPYCC3"
+    },
+    {
+      "album": {
+        "name": "Walkin' on Love",
+        "url": "https://open.spotify.com/album/4jCeiHoBCBJtI0pct1V31P"
+      },
+      "artists": [
+        {
+          "name": "Jobii",
+          "url": "https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE"
+        },
+        {
+          "name": "Loyae",
+          "url": "https://open.spotify.com/artist/4Euj21Xnjoe3pGCcXPAo4I"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192500,
+      "name": "Walkin' on Love",
+      "url": "https://open.spotify.com/track/5F5WQngHQRoHM5DnLEuOLW"
     },
     {
       "album": {

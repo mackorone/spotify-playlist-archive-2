@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eS6Eu8zMZN.md) - [plain]
 
 > Rock tranqui para concentrarse.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,010 likes - 107 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,012 likes - 107 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,7 +104,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eS6Eu8zMZN.md) - [plain]
 | 94 | [Celofán](https://open.spotify.com/track/1sNz5k4POwNzx9AZUdyjNK) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Romantisísmico](https://open.spotify.com/album/1x93LZe2PKKrgePH2GZjCP) | 3:15 |
 | 95 | [Lobo Hombre En París](https://open.spotify.com/track/2TA3fiM7ZQc0HWo1ncG02e) | [Fran](https://open.spotify.com/artist/2x4BKdc1ILXpNV1xg60gSV) | [Lobo Hombre En París](https://open.spotify.com/album/2EVTpcVPnTzqM4tglyPiA5) | 3:05 |
 | 96 | [Rayando El Sol](https://open.spotify.com/track/0eh9gAGvtaLI8cIzKsdCgn) | [Jenny Beaujean y Benjamin Garcia](https://open.spotify.com/artist/06izVjPOksdkMjJ3NUDfky) | [Rayando El Sol](https://open.spotify.com/album/7Hbcex3ZqA8hk0kcTq4PLe) | 3:59 |
-| 97 | [La flaca](https://open.spotify.com/track/5Q5cOc0UpDGYYaFoaQ99Dg) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [Grandes Exitos?](https://open.spotify.com/album/2i8ffcsBSZNDI5whavrBaU) | 4:21 |
+| 97 | [La flaca](https://open.spotify.com/track/5Q5cOc0UpDGYYaFoaQ99Dg) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [¿Grandes Éxitos?](https://open.spotify.com/album/2i8ffcsBSZNDI5whavrBaU) | 4:21 |
 | 98 | [Té para Tres](https://open.spotify.com/track/6b0scCYeLBGT3zyWoZUqJY) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Otras Canciones en Vivo en Latinoamérica](https://open.spotify.com/album/4UGpnKpfb814RkAWPUtSVP) | 2:23 |
 | 99 | [Afuera](https://open.spotify.com/track/1k7qwrtL7ZTaZsUwj7KjXJ) | [Jenny Beaujean y Benjamin Garcia](https://open.spotify.com/artist/06izVjPOksdkMjJ3NUDfky) | [Afuera](https://open.spotify.com/album/073Ba74ZF7WrtuzZHmoQRw) | 3:38 |
 | 100 | [Háblame \- Versión Acústica](https://open.spotify.com/track/1kHMWedCQgnOk8CKNlq3PQ) | [Beto Cuevas](https://open.spotify.com/artist/0kUZTk2JLPEAUyCWoN6eoL) | [Miedo Escénico](https://open.spotify.com/album/5xcCfpy6FkNrMEVTiOhuom) | 5:16 |

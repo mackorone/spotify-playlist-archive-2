@@ -4,7 +4,7 @@
 
 > This is Alexisonfire\. The essential tracks, all in one playlist.
 
-78 songs - 5 hr 30 min
+79 songs - 5 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Old Crows](https://open.spotify.com/track/0cevQODp2daA7IySqHWwhd) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Old Crows / Young Cardinals](https://open.spotify.com/album/3vpl6HmqxL7hrwTRUv5zon) | 4:17 | 2022-10-25 | 2025-03-23 |
 | [Polaroids of Polar Bears](https://open.spotify.com/track/6PXHIf7p7t4BaTD1j5jy1U) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Alexisonfire](https://open.spotify.com/album/49lCvR6PcufVwZtJJVu5uC) | 5:08 | 2022-10-25 | 2023-10-11 |
 | [Pulmonary Archery](https://open.spotify.com/track/3OqHyWQTYL7qqni8eqbghB) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Alexisonfire](https://open.spotify.com/album/49lCvR6PcufVwZtJJVu5uC) | 3:22 | 2022-10-25 |  |
+| [Push the River](https://open.spotify.com/track/0HffjoYID4kfTPHwPcVNvR) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Push the River](https://open.spotify.com/album/3vhapgOEEpYTHTitvs2Nsx) | 4:47 | 2026-11-14 |  |
 | [Reverse the Curse](https://open.spotify.com/track/1scT2ygrMOMDXBVAiYaxte) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Otherness](https://open.spotify.com/album/0mgXa4Wapb1oanh0KgVyPr) | 3:54 | 2022-10-25 |  |
 | [Reverse the Curse](https://open.spotify.com/track/5quzpeYK7lXAYpcioucm6d) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Sans Soleil \(LIVE in London, UK 2025\)](https://open.spotify.com/album/5E1UnuDMTYTIhtTt57Q36b) | 3:54 | 2025-10-03 | 2025-10-05 |
 | [Rough Hands](https://open.spotify.com/track/1qWWnRhkr50brRpXpThodc) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Crisis](https://open.spotify.com/album/1707YW8weHIje0KhkNogkg) | 5:30 | 2025-03-18 | 2026-01-30 |
