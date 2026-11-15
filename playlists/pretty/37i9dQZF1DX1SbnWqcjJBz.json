@@ -1,6 +1,6 @@
 {
   "description": "this should have been her espresso\n\nSee also: <a href=\"spotify:playlist:37i9dQZF1DX7YE2tQ4q86h\">OBSESSED</a>",
-  "num_followers": 139729,
+  "num_followers": 139757,
   "original_name": "Deserved",
   "owner": {
     "name": "Spotify",
@@ -111,22 +111,6 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "ARTPOP",
-        "url": "https://open.spotify.com/album/2eRJUtI7nXrQ5uYQ7tzTo9"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 212333,
-      "name": "Applause",
-      "url": "https://open.spotify.com/track/5ka2ajep9OAvU5Sgduhiex"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
         "name": "Smile",
         "url": "https://open.spotify.com/album/47zMF6LrXQ8odi6Xv1unC0"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 185480,
       "name": "Harleys In Hawaii",
       "url": "https://open.spotify.com/track/3B4etxytImrRKQgV3XHjnR"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "ARTPOP",
+        "url": "https://open.spotify.com/album/2eRJUtI7nXrQ5uYQ7tzTo9"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 212333,
+      "name": "Applause",
+      "url": "https://open.spotify.com/track/5ka2ajep9OAvU5Sgduhiex"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -191,22 +191,6 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "The Fame Monster (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6rePArBMb5nLWEaY9aQqL4"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 274213,
-      "name": "Alejandro",
-      "url": "https://open.spotify.com/track/1HHeOs6zRdF8Ck58easiAY"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
         "name": "Gourmandises",
         "url": "https://open.spotify.com/album/27GazU6l1uTiP8WW4sw5vy"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 264282,
       "name": "Moi... Lolita",
       "url": "https://open.spotify.com/track/6e0LjNPkRqxIAlmmdjWSV8"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "The Fame Monster (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6rePArBMb5nLWEaY9aQqL4"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 274213,
+      "name": "Alejandro",
+      "url": "https://open.spotify.com/track/1HHeOs6zRdF8Ck58easiAY"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -411,22 +411,6 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "Warrior (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5ZQB1ZQ2Yx9YT3nZlR2Pgu"
-      },
-      "artists": [
-        {
-          "name": "Kesha",
-          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
-        }
-      ],
-      "duration_ms": 214306,
-      "name": "C'Mon",
-      "url": "https://open.spotify.com/track/4bO6IzKXMWhmncfIO9GBq2"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
         "name": "Never Really Over",
         "url": "https://open.spotify.com/album/3KjXg0MDej2pG9fv6I22lT"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 223523,
       "name": "Never Really Over",
       "url": "https://open.spotify.com/track/5PYQUBXc7NYeI1obMKSJK0"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "Warrior (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5ZQB1ZQ2Yx9YT3nZlR2Pgu"
+      },
+      "artists": [
+        {
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+        }
+      ],
+      "duration_ms": 214306,
+      "name": "C'Mon",
+      "url": "https://open.spotify.com/track/4bO6IzKXMWhmncfIO9GBq2"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -591,22 +591,6 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "Heartthrob",
-        "url": "https://open.spotify.com/album/5IUJ6v408Z7pECC3BXUJxX"
-      },
-      "artists": [
-        {
-          "name": "Tegan and Sara",
-          "url": "https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH"
-        }
-      ],
-      "duration_ms": 210213,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/4dTVgHZFPlaq9nPbLVVLSG"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
         "name": "LM5 (Deluxe)",
         "url": "https://open.spotify.com/album/7Ho8gAx4haSxv1eFLQwvTj"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 154786,
       "name": "Wasabi",
       "url": "https://open.spotify.com/track/7IOuCLt770D8v0u3SVaDeI"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "Heartthrob",
+        "url": "https://open.spotify.com/album/5IUJ6v408Z7pECC3BXUJxX"
+      },
+      "artists": [
+        {
+          "name": "Tegan and Sara",
+          "url": "https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH"
+        }
+      ],
+      "duration_ms": 210213,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/4dTVgHZFPlaq9nPbLVVLSG"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "Speak",
-        "url": "https://open.spotify.com/album/3ZxcXB6JtLDAEUDLVkiIRe"
-      },
-      "artists": [
-        {
-          "name": "Lindsay Lohan",
-          "url": "https://open.spotify.com/artist/4vRSocKbGh7PsQrYRDVMEF"
-        }
-      ],
-      "duration_ms": 196306,
-      "name": "Rumors",
-      "url": "https://open.spotify.com/track/3KnjerEPMolLapVo2wdgz6"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
         "name": "Can't Do Better",
         "url": "https://open.spotify.com/album/4XovGKPffxorW8SRdo5Mwc"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 188616,
       "name": "Can't Do Better",
       "url": "https://open.spotify.com/track/7t9gDWqX10tbhtriPR1Cnd"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "Speak",
+        "url": "https://open.spotify.com/album/3ZxcXB6JtLDAEUDLVkiIRe"
+      },
+      "artists": [
+        {
+          "name": "Lindsay Lohan",
+          "url": "https://open.spotify.com/artist/4vRSocKbGh7PsQrYRDVMEF"
+        }
+      ],
+      "duration_ms": 196306,
+      "name": "Rumors",
+      "url": "https://open.spotify.com/track/3KnjerEPMolLapVo2wdgz6"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -867,22 +867,6 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "Battlefield",
-        "url": "https://open.spotify.com/album/1ji0b2gTyx4VYtkrbc3XJt"
-      },
-      "artists": [
-        {
-          "name": "Jordin Sparks",
-          "url": "https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz"
-        }
-      ],
-      "duration_ms": 241920,
-      "name": "Battlefield",
-      "url": "https://open.spotify.com/track/1Nme6K1PYAh7p7uygyuRdf"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
         "name": "A Joyful Noise",
         "url": "https://open.spotify.com/album/6AKGyIfiwcptAUUzLDB0Gd"
       },
@@ -899,18 +883,18 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "Teen Spirit",
-        "url": "https://open.spotify.com/album/4Puwtzbl10V90RTsk8XzWF"
+        "name": "Battlefield",
+        "url": "https://open.spotify.com/album/1ji0b2gTyx4VYtkrbc3XJt"
       },
       "artists": [
         {
-          "name": "A*Teens",
-          "url": "https://open.spotify.com/artist/5zMgvYBz4AW0gFyPtg7fR9"
+          "name": "Jordin Sparks",
+          "url": "https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz"
         }
       ],
-      "duration_ms": 197386,
-      "name": "Upside Down",
-      "url": "https://open.spotify.com/track/3lfLAToNl2Ibcuo9U6UTSd"
+      "duration_ms": 241920,
+      "name": "Battlefield",
+      "url": "https://open.spotify.com/track/1Nme6K1PYAh7p7uygyuRdf"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -927,6 +911,22 @@
       "duration_ms": 203907,
       "name": "Break the Rules",
       "url": "https://open.spotify.com/track/38tKqQuqodiUYOsw6HWyeQ"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "Teen Spirit",
+        "url": "https://open.spotify.com/album/4Puwtzbl10V90RTsk8XzWF"
+      },
+      "artists": [
+        {
+          "name": "A*Teens",
+          "url": "https://open.spotify.com/artist/5zMgvYBz4AW0gFyPtg7fR9"
+        }
+      ],
+      "duration_ms": 197386,
+      "name": "Upside Down",
+      "url": "https://open.spotify.com/track/3lfLAToNl2Ibcuo9U6UTSd"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -1579,26 +1579,6 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "Somebody To Love",
-        "url": "https://open.spotify.com/album/1eb3ioGBDBkLiIWPFYzMK9"
-      },
-      "artists": [
-        {
-          "name": "Leighton Meester",
-          "url": "https://open.spotify.com/artist/481VlDdXZAIRxnHyywNbXn"
-        },
-        {
-          "name": "Robin Thicke",
-          "url": "https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP"
-        }
-      ],
-      "duration_ms": 212933,
-      "name": "Somebody To Love",
-      "url": "https://open.spotify.com/track/1fPp89nbZQiRar1f3a8lPe"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
         "name": "Real Girl",
         "url": "https://open.spotify.com/album/18EjOWuILmihCbwNbx6w44"
       },
@@ -1615,6 +1595,26 @@
       "duration_ms": 210133,
       "name": "Song 4 Mutya (Out Of Control)",
       "url": "https://open.spotify.com/track/08oDoZiAYgEqh7Tzr5wRVV"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "Somebody To Love",
+        "url": "https://open.spotify.com/album/1eb3ioGBDBkLiIWPFYzMK9"
+      },
+      "artists": [
+        {
+          "name": "Leighton Meester",
+          "url": "https://open.spotify.com/artist/481VlDdXZAIRxnHyywNbXn"
+        },
+        {
+          "name": "Robin Thicke",
+          "url": "https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP"
+        }
+      ],
+      "duration_ms": 212933,
+      "name": "Somebody To Love",
+      "url": "https://open.spotify.com/track/1fPp89nbZQiRar1f3a8lPe"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -1687,26 +1687,18 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "Don't Cry For Me Argentina",
-        "url": "https://open.spotify.com/album/6Eaw4TN2fuJ3WVicI7Rme1"
+        "name": "Dying to Say This to You (Premium Download Version)",
+        "url": "https://open.spotify.com/album/2wMzDXOaSQnRJQ3PcuTSGG"
       },
       "artists": [
         {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        },
-        {
-          "name": "Javier Garza",
-          "url": "https://open.spotify.com/artist/7d6UVb1wJfBBglIebDp5Cz"
-        },
-        {
-          "name": "Pablo Flores",
-          "url": "https://open.spotify.com/artist/1zTUYXZHltJuaK4ONIzKDu"
+          "name": "The Sounds",
+          "url": "https://open.spotify.com/artist/0W2XAE5AnBWqcGNhfupEOU"
         }
       ],
-      "duration_ms": 270851,
-      "name": "Don't Cry for Me Argentina - Miami Mix Edit",
-      "url": "https://open.spotify.com/track/6rpPOIl2uqjBVJD9TxY2K9"
+      "duration_ms": 192066,
+      "name": "Tony the Beat",
+      "url": "https://open.spotify.com/track/6QxQz4h8vdcVb9NZq2x8RO"
     }
   ],
   "unique_name": "Deserved",

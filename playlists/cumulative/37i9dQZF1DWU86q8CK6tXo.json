@@ -26740,7 +26740,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 176028,
       "name": "Next to U",
       "url": "https://open.spotify.com/track/5BHJmo8PQScGQA8QygEIfm"
@@ -34746,6 +34746,24 @@
       "duration_ms": 191026,
       "name": "Smoking Weed Alone",
       "url": "https://open.spotify.com/track/6P4SXtGwb04qA2gaUosaRK"
+    },
+    {
+      "album": {
+        "name": "Smooth talker",
+        "url": "https://open.spotify.com/album/7gjVEpS02LAsFP8qczi4jg"
+      },
+      "artists": [
+        {
+          "name": "Lauren Juzang",
+          "url": "https://open.spotify.com/artist/2HCsMc18MHvpDACmNhbpQ5"
+        }
+      ],
+      "date_added": "2026-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193846,
+      "name": "Smooth talker",
+      "url": "https://open.spotify.com/track/5dqaNRYpVC3y5rlf1UauQH"
     },
     {
       "album": {

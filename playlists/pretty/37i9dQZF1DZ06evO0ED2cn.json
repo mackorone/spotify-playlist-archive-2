@@ -1,12 +1,12 @@
 {
   "description": "This is Ho - Kago Tea Time. The essential tracks, all in one playlist.",
-  "num_followers": 20824,
+  "num_followers": 20826,
   "original_name": "This Is Ho - Kago Tea Time",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avUBgAAAAABFE5MYEGIiUufn0m05Mx6J",
+  "snapshot_id": "avZTAAAAAAAIBGGFx49/clvchnQlioCC",
   "tracks": [
     {
       "added_at": null,
@@ -155,8 +155,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Singing!(\u901a\u5e38\u76e4)",
-        "url": "https://open.spotify.com/album/7vKfQj5ruSo8YXWx3Lhu8F"
+        "name": "Singing ! (Standard Edition)",
+        "url": "https://open.spotify.com/album/5iquB2OdwoxklXGmbv0LIv"
       },
       "artists": [
         {
@@ -165,8 +165,8 @@
         }
       ],
       "duration_ms": 234560,
-      "name": "Singing!",
-      "url": "https://open.spotify.com/track/5FX7TJwGrNFasrv5D6ldz0"
+      "name": "Singing !",
+      "url": "https://open.spotify.com/track/0KY5u0to6yfXcKVmpPekYe"
     },
     {
       "added_at": null,
@@ -299,6 +299,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Singing ! (Standard Edition)",
+        "url": "https://open.spotify.com/album/5iquB2OdwoxklXGmbv0LIv"
+      },
+      "artists": [
+        {
+          "name": "Ho - Kago Tea Time",
+          "url": "https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm"
+        }
+      ],
+      "duration_ms": 295320,
+      "name": "Ohayo, Mata Ashita",
+      "url": "https://open.spotify.com/track/3ihQ79HKfH6WjekXjn95bf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "GO! GO! MANIAC",
         "url": "https://open.spotify.com/album/0t5SvO8PbUct9yZLE38Fbl"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 269106,
       "name": "Genius\u2026!?",
       "url": "https://open.spotify.com/track/4y0nUHDbNeLFFlvOcNBLhV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Listen!!",
-        "url": "https://open.spotify.com/album/6T1lz7BuuqQLntnnjAbAT8"
-      },
-      "artists": [
-        {
-          "name": "Ho - Kago Tea Time",
-          "url": "https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm"
-        }
-      ],
-      "duration_ms": 251973,
-      "name": "Our MAGIC",
-      "url": "https://open.spotify.com/track/4DciuSUF1bihdDilux3vrl"
     },
     {
       "added_at": null,
@@ -347,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Singing!(\u901a\u5e38\u76e4)",
-        "url": "https://open.spotify.com/album/7vKfQj5ruSo8YXWx3Lhu8F"
+        "name": "Listen!!",
+        "url": "https://open.spotify.com/album/6T1lz7BuuqQLntnnjAbAT8"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm"
         }
       ],
-      "duration_ms": 295320,
-      "name": "\u304a\u306f\u3088\u3046\u3001\u307e\u305f\u3042\u3057\u305f",
-      "url": "https://open.spotify.com/track/7muCHjqFypRcRiZhtZziV3"
+      "duration_ms": 251973,
+      "name": "Our MAGIC",
+      "url": "https://open.spotify.com/track/4DciuSUF1bihdDilux3vrl"
     },
     {
       "added_at": null,

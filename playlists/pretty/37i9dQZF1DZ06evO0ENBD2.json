@@ -1,12 +1,12 @@
 {
   "description": "This is Queen. The essential tracks, all in one playlist.",
-  "num_followers": 4991119,
+  "num_followers": 4991139,
   "original_name": "This Is Queen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avUBgAAAAAD+WnKgEd9X4AH1aa3QD+NL",
+  "snapshot_id": "avZTAAAAAAB8mHnBY2ZZ7Y35kVOgciw0",
   "tracks": [
     {
       "added_at": null,
@@ -207,22 +207,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hot Space (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5MJwdeBTZ5V4PZtFh4gaQ6"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 209533,
-      "name": "Cool Cat",
-      "url": "https://open.spotify.com/track/1IC79gic67NsxLC4Ddb14W"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Night At The Opera (Deluxe Edition)",
         "url": "https://open.spotify.com/album/28ZLOn6tPfDTPGIqvwiWvC"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 275648,
       "name": "The Show Must Go On",
       "url": "https://open.spotify.com/track/4GHk8YtewHGbk6HsVJ0mcT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hot Space (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5MJwdeBTZ5V4PZtFh4gaQ6"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 209533,
+      "name": "Cool Cat",
+      "url": "https://open.spotify.com/track/1IC79gic67NsxLC4Ddb14W"
     },
     {
       "added_at": null,
@@ -563,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Made In Heaven (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4WHZOrekAUoBMQaajTIglO"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 324853,
-      "name": "You Don't Fool Me",
-      "url": "https://open.spotify.com/track/0qPrc7E2FLpG0IAm9TghKg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Kind Of Magic (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3gAVJcYGZD5Jm8YaWOkSrZ"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 248386,
       "name": "Breakthru",
       "url": "https://open.spotify.com/track/1ndfs8LA7ss6kNNQ8itvUt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Made In Heaven (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4WHZOrekAUoBMQaajTIglO"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 324853,
+      "name": "You Don't Fool Me",
+      "url": "https://open.spotify.com/track/0qPrc7E2FLpG0IAm9TghKg"
     },
     {
       "added_at": null,

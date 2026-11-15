@@ -4,7 +4,7 @@
 
 > This is Osunlade\. The essential tracks, all in one playlist.
 
-95 songs - 8 hr 39 min
+96 songs - 8 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [April](https://open.spotify.com/track/1eBNdAyCFuYbYy0TKRDd8A) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Elements Beyond](https://open.spotify.com/album/79pDy8vTsmo53S0hojCVDw) | 7:50 | 2025-06-28 |  |
 | [Auto Machine](https://open.spotify.com/track/5BOTahRcfhhdSllCVVWYnc) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Basic Sketches For Beginners](https://open.spotify.com/album/52jbKRpd9w9aw47fKQckOF) | 9:50 | 2025-06-28 |  |
 | [Bag Of Filters](https://open.spotify.com/track/7cLAZXxyRgQRGv4l2GOKfu) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [INvite ONly](https://open.spotify.com/album/7ILkptkE77YgKwCq7Gkhxa) | 5:46 | 2025-06-28 | 2026-02-23 |
-| [Barking Tree's \(Lucan's Song\)](https://open.spotify.com/track/01uMGZ2zVBTUQ0vj1DY76f) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Peacock](https://open.spotify.com/album/0RIV2W7BAw6pswlV30MpAs) | 1:38 | 2026-10-30 |  |
+| [Barking Tree's \(Lucan's Song\)](https://open.spotify.com/track/01uMGZ2zVBTUQ0vj1DY76f) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Peacock](https://open.spotify.com/album/0RIV2W7BAw6pswlV30MpAs) | 1:38 | 2026-10-30 | 2026-11-15 |
 | [Black Woman Cry](https://open.spotify.com/track/29Sx0bBroYHeykh7xSNdmD) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Spectrum](https://open.spotify.com/album/4AlX0Yp66zFqstaHqFfJb5) | 8:34 | 2025-08-24 |  |
 | [Booty Call](https://open.spotify.com/track/1y6b8HsrCsdUDmoMcnggfU) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Spectrum](https://open.spotify.com/album/4AlX0Yp66zFqstaHqFfJb5) | 4:35 | 2025-06-28 | 2026-11-04 |
 | [Brand New Feeling \- Yoruba Soul Mix Part 1](https://open.spotify.com/track/5udRnyoTYZRr44pXCOCo7p) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj), [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY), [Merry Clayton](https://open.spotify.com/artist/71cyZ6pH0KrM2MdtO8RGmy), [Sylvia Cox](https://open.spotify.com/artist/1oEFoNbrqTYuHrmBVaKSSl) | [Brand New Feeling \- Yoruba Soul Remixes](https://open.spotify.com/album/470ou8bSscstQ53wB8gVYE) | 7:27 | 2025-09-16 | 2026-08-30 |
@@ -36,6 +36,7 @@
 | [Dance Circle](https://open.spotify.com/track/04R8GPa3nH28LIDTVSL7bA) | [Mr\. Flip](https://open.spotify.com/artist/1yODnwYRnOM87gsZKi31Xl), [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Osunlade Presents Mr\. Flip](https://open.spotify.com/album/3bSqGNEv3hgYePAtBPdukQ) | 5:07 | 2025-10-19 | 2026-09-13 |
 | [Dating Game](https://open.spotify.com/track/4gorL6Fj07RhhB5utjNkB0) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [The Dating Game](https://open.spotify.com/album/4orENSlBaaazYeV7RY7yHI) | 6:06 | 2026-02-15 | 2026-07-08 |
 | [Deep Musique \- Rampa Remix](https://open.spotify.com/track/2TPymcTIlvJKpPWnqAiqxL) | [Pastaboys](https://open.spotify.com/artist/3e2yTUnzQ3S3lITAt0Er1l), [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8) | [Rebirth 10 Remixed, Vol\. 1](https://open.spotify.com/album/1bfVFEQMolOYkQhPj5uaNE) | 8:00 | 2025-06-28 |  |
+| [Deepw!de \- Yoruba Soul Mix](https://open.spotify.com/track/0HuMG0HpFz0yV0dDcQyERV) | [Karizma](https://open.spotify.com/artist/0HPOumWRIYOhcJ8FRraEsb), [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Call !t A Rem!x](https://open.spotify.com/album/40bSdbr3GIfFkmJS9E8yre) | 7:00 | 2026-11-15 |  |
 | [Dionne](https://open.spotify.com/track/3SocpdBxeWEwfvXrMrP9is) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Dionne / What Gets You High?](https://open.spotify.com/album/1YZPa1oZN6tpuPCt26V15H) | 4:16 | 2025-06-28 |  |
 | [Don’t Ever Look Back](https://open.spotify.com/track/0GcwozvQwoXOcCbIyrW9zC) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [INvite ONly](https://open.spotify.com/album/7ILkptkE77YgKwCq7Gkhxa) | 5:23 | 2025-06-28 |  |
 | [El Musica](https://open.spotify.com/track/0uQCWboTxB1naUgov2z2qx) | [KB Motsilanyane](https://open.spotify.com/artist/3YUVEiN2CJ1isgAQv1AzNi), [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [El Musica](https://open.spotify.com/album/6ZZjfUI6h2nWvl6bo3vc3k) | 6:47 | 2026-11-13 |  |

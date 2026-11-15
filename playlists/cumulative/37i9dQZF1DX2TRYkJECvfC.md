@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-722 songs - 2 day 10 hr 57 min
+723 songs - 2 day 11 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [Eivissa 2001 \- ssimo Dub Mix](https://open.spotify.com/track/1NdhMldCL0tdnjQwUBJ3BQ) | [Thomas Asselman](https://open.spotify.com/artist/7vHr6L8xUxkObnyHhjqfzU), [Ralph Felix](https://open.spotify.com/artist/3i8emYvhsa8PmLH4zTAvjV), [ssimo](https://open.spotify.com/artist/4dvyzd69RNQBcalUM0BVnB) | [Eivissa 2001 \(ssimo Dub Mix\)](https://open.spotify.com/album/5dIQOyj31Bbp01PIllOjOk) | 3:40 | 2026-08-21 |  |
 | [Electric Birds](https://open.spotify.com/track/0B8eWg1gdVO3ctAK392FYz) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [For Real](https://open.spotify.com/album/706xtFNjk7TMRnHGzNrOHR) | 5:16 | 2025-03-21 |  |
 | [Eleuthera \(Catching Flies Remix\)](https://open.spotify.com/track/5EM9H0b9vbwPAkl7CWlEmS) | [Tor](https://open.spotify.com/artist/4dktzc5hWsQPqmovObGZIG), [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Oasis Sky \(Remixes\)](https://open.spotify.com/album/0SPKzHlhMuoAeQoRwJWCgb) | 4:23 | 2022-02-21 | 2025-01-18 |
+| [Elysian](https://open.spotify.com/track/4ZFx1dQvU4uBEX6czXL6AI) | [Because of Art](https://open.spotify.com/artist/4Cmrx83CCgN8X1hkyhkUkq), [Fourth Daughter](https://open.spotify.com/artist/39tnRWNqVYGhzm1SipX6cA) | [Because of Art](https://open.spotify.com/album/0EgpGxu8e6fNB6fCAfaVpv) | 3:34 | 2026-11-13 |  |
 | [Embrace \- Black Coffee + Aquatone Remix](https://open.spotify.com/track/26wBcR6Damyd7l4xGI6DNg) | [Agoria](https://open.spotify.com/artist/4lu50np3LdTkRL09T7x8UP), [Phoebe Killdeer](https://open.spotify.com/artist/318VpIRUWele6jD0k3ldkT), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Embrace \(Black Coffee + Aquatone Remix\)](https://open.spotify.com/album/3vFWCPubU6GiPuJm2wJXHv) | 6:56 | 2022-01-14 | 2022-11-17 |
 | [Embre](https://open.spotify.com/track/770lpPPoDrrdb67bTKSnGe) | [Sébastien Léger](https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp), [Tim Green](https://open.spotify.com/artist/68vO4fkFxLbWPxTSHosxsB) | [Moho EP](https://open.spotify.com/album/32qvWoJh8qTJ8hrD6snjwx) | 8:56 | 2023-11-17 | 2024-04-13 |
 | [Embre](https://open.spotify.com/track/3wbUuzRdemeNJuqnMNBC9m) | [Tim Green](https://open.spotify.com/artist/68vO4fkFxLbWPxTSHosxsB), [Sébastien Léger](https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp) | [Moho EP](https://open.spotify.com/album/5UFFlblxN3PC2hYcNT4i9t) | 8:56 | 2021-12-08 | 2023-11-05 |
@@ -371,7 +372,7 @@
 | [malo okoma \- Radio Edit](https://open.spotify.com/track/7tdviypkABEstu9z7gSB27) | [dj poolboi](https://open.spotify.com/artist/3uL9a8QRwQ6J8Sc7NYK7oJ), [Theresa Ng'ambi](https://open.spotify.com/artist/1HhaUK3JlqgSpQ4noxzCHI) | [malo okoma](https://open.spotify.com/album/7LMiwsl0kMpnzRyQjzowCV) | 4:05 | 2022-02-21 | 2026-05-16 |
 | [Mamafaka](https://open.spotify.com/track/7z3RKkPmLeskg7NE5SkueF) | [Sindres](https://open.spotify.com/artist/4jpZ2BeIvoV2L6KDoul2W5) | [Mamafaka](https://open.spotify.com/album/2DzUzsMHRBxQ7TZ5Ajy307) | 6:25 | 2021-12-08 | 2023-11-16 |
 | [Mancora](https://open.spotify.com/track/2pmbbUP1lTKZ7voVz0zwmP) | [Sinca](https://open.spotify.com/artist/5TjfRHDPGSphgwJaiGauqT) | [Anjunadeep Explorations 19](https://open.spotify.com/album/3nKb70XsqiQwCQQuLxZWpg) | 3:59 | 2023-01-06 | 2025-08-30 |
-| [Many Faces](https://open.spotify.com/track/79GGufpaLpwRPNkcGVNs1s) | [Beat Soul](https://open.spotify.com/artist/3bVRDtwde3d7VBUM2rwEoV) | [A Million Dreams](https://open.spotify.com/album/5v0usD8Am87oCQjETKzirI) | 7:22 | 2025-06-19 |  |
+| [Many Faces](https://open.spotify.com/track/79GGufpaLpwRPNkcGVNs1s) | [Beat Soul](https://open.spotify.com/artist/3bVRDtwde3d7VBUM2rwEoV) | [A Million Dreams](https://open.spotify.com/album/5v0usD8Am87oCQjETKzirI) | 7:22 | 2025-06-19 | 2026-11-15 |
 | [Maria](https://open.spotify.com/track/4y7moiPcmh1naRAZVwLjEL) | [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo) | [From The Stars EP](https://open.spotify.com/album/5epS4PC6kWpMDiLP7KWsPK) | 4:37 | 2025-02-21 |  |
 | [Marimba](https://open.spotify.com/track/3ihksvcKbnm01jQXMY5XYi) | [GHEIST](https://open.spotify.com/artist/60pOigPjgmU7AzmZmWEQZU) | [Marimba](https://open.spotify.com/album/3i2oCggOTBqY30JWJTkqgU) | 3:46 | 2023-06-09 | 2026-05-16 |
 | [Marlboro Sounds](https://open.spotify.com/track/1HujkaN1Tl4uceZqsHUv6w) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy) | [Marlboro Sounds](https://open.spotify.com/album/1IRVXzi2j3pP5Ic18P0oDM) | 6:03 | 2025-03-28 |  |

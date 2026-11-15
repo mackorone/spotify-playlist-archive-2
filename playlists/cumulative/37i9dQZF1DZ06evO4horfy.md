@@ -4,7 +4,7 @@
 
 > This is Kinderen voor Kinderen\. The essential tracks, all in one playlist.
 
-81 songs - 3 hr 55 min
+82 songs - 3 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,11 +46,11 @@
 | [Help de walvis](https://open.spotify.com/track/72LGcDHqjYxoYhVF41jyYV) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [Help de walvis](https://open.spotify.com/album/4ACxkMGFKFJLeWaJRuzi3l) | 2:44 | 2025-08-19 | 2026-07-07 |
 | [Hoogbegaafd](https://open.spotify.com/track/7kMU6QAAOl8VwAnelWkXOV) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [44 \- Bij mij thuis](https://open.spotify.com/album/4NhFo1kpTnSg3KMi8B2hFV) | 3:08 | 2025-08-19 | 2025-10-12 |
 | [Hupsakee!](https://open.spotify.com/track/7pXiqvF1YAmAGohFzpqXbM) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [37 \- Voor altijd jong!](https://open.spotify.com/album/3hE8s3hbQbD6eY9LQQyBMK) | 2:55 | 2025-08-19 |  |
-| [Ik Heb Zo Waanzinnig Gedroomd](https://open.spotify.com/track/4A7tc8ZBC1fsJaNErPnWCo) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [1 \- Kinderen voor Kinderen](https://open.spotify.com/album/1xLhUCW6dYpKezCIt1FR5L) | 2:29 | 2026-01-21 | 2026-03-28 |
+| [Ik Heb Zo Waanzinnig Gedroomd](https://open.spotify.com/track/4A7tc8ZBC1fsJaNErPnWCo) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [1 \- Kinderen voor Kinderen](https://open.spotify.com/album/1xLhUCW6dYpKezCIt1FR5L) | 2:29 | 2026-01-21 |  |
 | [Ik voel het](https://open.spotify.com/track/2C6SmlgpOEgGolSw0ue4HE) | [NXT](https://open.spotify.com/artist/34sWc9MlQzSCbETxXPzYch), [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [47 \- Spot aan](https://open.spotify.com/album/4TuM9TSDGhc1XgAZZynKl5) | 2:26 | 2026-10-19 |  |
 | [Jodeladihee](https://open.spotify.com/track/0iptFvC3oCIivRvKpGe6bq) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [47 \- Spot aan](https://open.spotify.com/album/4TuM9TSDGhc1XgAZZynKl5) | 2:32 | 2026-10-13 |  |
 | [Klaar Voor De Start](https://open.spotify.com/track/55n2cy2VZxceL5kcsBqwqf) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [Klaar Voor De Start \(Deel 34\)](https://open.spotify.com/album/2JN272oH25vLaaK57Grk6p) | 3:03 | 2025-08-19 |  |
-| [Kleur de wereld groen](https://open.spotify.com/track/5MppH5OIxJKacTcpdfZws4) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [46 \- Vol avontuur](https://open.spotify.com/album/1YGnCuWsBhzrFBBWwEeBku) | 2:42 | 2025-10-14 |  |
+| [Kleur de wereld groen](https://open.spotify.com/track/5MppH5OIxJKacTcpdfZws4) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [46 \- Vol avontuur](https://open.spotify.com/album/1YGnCuWsBhzrFBBWwEeBku) | 2:42 | 2025-10-14 | 2026-11-15 |
 | [Kliekjesdag](https://open.spotify.com/track/3ZBAWASFvAOBsPTC6UeLQj) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [41 \- En toen?](https://open.spotify.com/album/70eAbvTqUjOBCQqEN6rlUJ) | 3:09 | 2025-08-19 | 2025-11-12 |
 | [Kom maar bij mij](https://open.spotify.com/track/6QLCoTKr0tIZn0WLiRIHJI) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [44 \- Bij mij thuis](https://open.spotify.com/album/4NhFo1kpTnSg3KMi8B2hFV) | 2:39 | 2026-04-29 | 2026-06-10 |
 | [Koningsspelen Medley](https://open.spotify.com/track/7MgU1mP8wFxVmsaU5tfgvf) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [Koningsspelen Medley](https://open.spotify.com/album/5knAsgQouqSYjVD3Qdl0Rs) | 4:57 | 2026-04-26 | 2026-05-18 |
@@ -76,7 +76,8 @@
 | [Tijdmachine](https://open.spotify.com/track/2kUdMQdFU76gzPJK4EBe8d) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [46 \- Vol avontuur](https://open.spotify.com/album/1YGnCuWsBhzrFBBWwEeBku) | 2:42 | 2025-10-14 | 2026-09-14 |
 | [Twee minuten stilte](https://open.spotify.com/track/7etqkP8tZod4ffgxA0Jv6k) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN), [Metropole Orkest](https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI) | [Twee minuten stilte](https://open.spotify.com/album/5x7NYtsI4DAzYyLPiWMXS1) | 3:13 | 2025-08-19 | 2026-04-04 |
 | [Vakantie in de tuin](https://open.spotify.com/track/2auDClMxhLFb9A5zv6wuVt) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [Vakantie in de tuin](https://open.spotify.com/album/4rRVf4VkJ0q1pW9rRXPxtN) | 2:54 | 2025-08-19 |  |
-| [Vol avontuur](https://open.spotify.com/track/38ZJJMPnIX7gHzNJGueGMJ) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [Vol avontuur](https://open.spotify.com/album/1txxR6AhJym8skXydiLFci) | 2:30 | 2025-09-16 |  |
+| [Vol avontuur](https://open.spotify.com/track/1dWVNtxHec9l4iHg2YsymB) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [46 \- Vol avontuur](https://open.spotify.com/album/1YGnCuWsBhzrFBBWwEeBku) | 2:30 | 2026-11-15 |  |
+| [Vol avontuur](https://open.spotify.com/track/38ZJJMPnIX7gHzNJGueGMJ) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [Vol avontuur](https://open.spotify.com/album/1txxR6AhJym8skXydiLFci) | 2:30 | 2025-09-16 | 2026-11-15 |
 | [Voor Altijd Jong!](https://open.spotify.com/track/5CUyjQKT6G2yexTrboINLe) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [37 \- Voor altijd jong!](https://open.spotify.com/album/3hE8s3hbQbD6eY9LQQyBMK) | 2:50 | 2025-08-19 | 2025-10-13 |
 | [Vreemde dingen](https://open.spotify.com/track/54zHNZbgxJeO30k6ppFoFl) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [45 \- Lekker eigenwijs](https://open.spotify.com/album/26Fp5Uw7UDheeFVXlu1HAr) | 2:47 | 2025-08-19 |  |
 | [Vrienden met de monsters](https://open.spotify.com/track/7fTn6zBh9gJHTcltdXff3j) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [43 \- Gi\-ga\-groen](https://open.spotify.com/album/64NvoYlzgfUwUpzMiteFBA) | 2:35 | 2025-08-19 | 2026-10-11 |

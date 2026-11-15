@@ -155,8 +155,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDSNCLbSH3WI.md) - [plain]
 | 145 | [DECEIVED](https://open.spotify.com/track/7Lzaeenk97uEdQltVzGPm6) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [Viceroy](https://open.spotify.com/album/6qQPlbeJBHwJd0iAzpmdoU) | 2:40 |
 | 146 | [Stay for a While](https://open.spotify.com/track/04cnZuf2GVxH3NGW2DuPEV) | [J Warner](https://open.spotify.com/artist/2qFIyqgMSxeb3rb9UDnOuo) | [Figure 8](https://open.spotify.com/album/2J0AovsavMduSxHHLNB5Fu) | 3:32 |
 | 147 | [YKWYA](https://open.spotify.com/track/6yZSaVJuUaTSk07dJsyA7I) | [Ama](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L) | [I Came Home Late](https://open.spotify.com/album/2Py2P92ndsLK4oQnbhhRud) | 4:24 |
-| 148 | [Colonize](https://open.spotify.com/track/2dsnRzDX6BprwJSeml0FqY) | [Amanda Reifer](https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp) | [Colonize](https://open.spotify.com/album/5VXcZnepZ0dpLCWFundnrW) | 3:03 |
-| 149 | [Love Sick \(from the Netflix Series "Nobody Wants This" Season 3\)](https://open.spotify.com/track/760I6OX8k9KkzleuigUcc2) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Love Sick \(from the Netflix Series "Nobody Wants This" Season 3\)](https://open.spotify.com/album/2l7dOY9oiOln2Ln4osavpP) | 3:07 |
+| 148 | [Love Sick \(from the Netflix Series "Nobody Wants This" Season 3\)](https://open.spotify.com/track/760I6OX8k9KkzleuigUcc2) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Love Sick \(from the Netflix Series "Nobody Wants This" Season 3\)](https://open.spotify.com/album/2l7dOY9oiOln2Ln4osavpP) | 3:07 |
+| 149 | [Colonize](https://open.spotify.com/track/2dsnRzDX6BprwJSeml0FqY) | [Amanda Reifer](https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp) | [Colonize](https://open.spotify.com/album/5VXcZnepZ0dpLCWFundnrW) | 3:03 |
 | 150 | [Sincerely Casey](https://open.spotify.com/track/53Zq4HtiPffqCyGbTtifge) | [Casey Veggies](https://open.spotify.com/artist/0uFc6StTmJBvdHPZFDkdJy) | [Live & Grow](https://open.spotify.com/album/4YsS6HUCoyntWFTReZD1GU) | 3:00 |
 | 151 | [Let Us In](https://open.spotify.com/track/10JJgpWFPMJsxfZ50qTfhj) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Blue Island](https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG) | 3:02 |
 | 152 | [Bad Attitude](https://open.spotify.com/track/446zGDLKKEDELRQDvmoEtD) | [Rico Love](https://open.spotify.com/artist/2GEcMpeGIad5O23WxDRFMn) | [Turn The Lights On](https://open.spotify.com/album/5enHYKdCZgw3oetOUqIibl) | 4:08 |
@@ -179,4 +179,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDSNCLbSH3WI.md) - [plain]
 | 169 | [YAH](https://open.spotify.com/track/56huEpZCBEm8qx1bWSeRf9) | [Bethel Adekogbe](https://open.spotify.com/artist/5QThtzr4WbyYjp1QMr66Gz) | [House of God](https://open.spotify.com/album/3x7I5wa60q82pPeVTxr3w8) | 2:23 |
 | 170 | [Mamacita](https://open.spotify.com/track/5FhcbG04J2xE4Yl89tU0tJ) | [TUAWKI](https://open.spotify.com/artist/5qcbpph3M3q5LKCD7TH6RZ) | [Slopped + Chewed Vol\. 4](https://open.spotify.com/album/2H7pgyDHTtaee6AL6je1xZ) | 3:40 |
 
-Snapshot ID: `AchmNAAAAADFpHOAvx17RVr9HcQNcfFO`
+Snapshot ID: `Achr1AAAAAAR5kdpUTcDNpWr6u/Y0faS`

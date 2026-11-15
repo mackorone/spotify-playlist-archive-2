@@ -4,7 +4,7 @@
 
 > NEW  POPULAR MUSIC BY  INDIE AND ESTABLISHED ARTISTS .\. Free submission  \- 1 week on the list  NO EXPLICITS \- NO RAP Active supporters who play and share the list will get more time  \-so please play and share \- Thank you &lt;3  https:&\#x2F;&\#x2F;www.instagram.com&\#x2F;enilsounds&\#x2F;
 
-200 songs - 11 hr 47 min
+201 songs - 11 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [HALLOWEEN CANDY TRICKS](https://open.spotify.com/track/3Xh8fpDnP89rnRXfMdol3R) | [Dolly Demeli](https://open.spotify.com/artist/62iOQq0JgS45GsWjuUtVZU) | [HALLOWEEN CANDY TRICKS](https://open.spotify.com/album/0h0PodJwJuYQAcTPzHLVYO) | 2:00 | 2026-11-01 |  |
 | [HALLOWEEN JOY](https://open.spotify.com/track/4cZoBYsTW6faSSpV7Vq0sz) | [Dolly Demeli](https://open.spotify.com/artist/62iOQq0JgS45GsWjuUtVZU) | [HALLOWEEN JOY](https://open.spotify.com/album/0vwWikrr0eTyXFP3FYnfLO) | 1:36 | 2025-01-11 | 2026-11-02 |
 | [Harmony](https://open.spotify.com/track/24r9Y2d6BSed4bLj1FaFW2) | [JONGRA](https://open.spotify.com/artist/0751WlaYMHElFPfbzmlCZK) | [Harmony](https://open.spotify.com/album/5PtvboKjFNYaDN1PUGRBJM) | 3:11 | 2023-12-04 |  |
+| [Here and Now](https://open.spotify.com/track/2xgbjVjeuGD2Bbi37F0Vds) | [Sheridan Coldstream](https://open.spotify.com/artist/7ACXX1W4FLdJq6jIdeMBq2) | [Here and Now](https://open.spotify.com/album/5neuPVQuaFMHKnil5XbSDp) | 4:25 | 2026-11-14 |  |
 | [Heroes Get Hurt](https://open.spotify.com/track/6b7WpA3GgmjyNoKcIdUSfk) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0), [Terry Lupton](https://open.spotify.com/artist/5AnahQXYD6pptWAhpsuU9i) | [Heroes Get Hurt](https://open.spotify.com/album/3UxqFJUxb39E7sSFR4K9Kl) | 3:42 | 2026-09-02 | 2026-09-24 |
 | [Hold It](https://open.spotify.com/track/4cwHnEyUIhunVkmFNQhvLr) | [RCKYLNDN](https://open.spotify.com/artist/5WSiPMaJ4FK3v4v7mqXewG) | [Hold It](https://open.spotify.com/album/62H7ur3rSL5Wwe0GW8FTqH) | 4:58 | 2026-01-04 | 2026-02-02 |
 | [Hold On Tight](https://open.spotify.com/track/2fai22CuZJOjSDfQI4vLvS) | [TEXNES](https://open.spotify.com/artist/1bDQGkc4P3UDRvENDr6pde), [Eva Martinsen Nilsen](https://open.spotify.com/artist/2MjuKNKwT1RaXi6HtFy898) | [Hold On Tight](https://open.spotify.com/album/0tmPBxqax2T8Lq8Mnv2NcP) | 3:00 | 2024-06-19 |  |

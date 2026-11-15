@@ -1,12 +1,12 @@
 {
   "description": "This is Los Jaivas. The essential tracks, all in one playlist.",
-  "num_followers": 37194,
+  "num_followers": 37199,
   "original_name": "This Is Los Jaivas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avUBgAAAAAB+jGFC6pLdbVFWX6X/B9Lm",
+  "snapshot_id": "avZTAAAAAACAUVpu04nDpnE+xTi1G5+Y",
   "tracks": [
     {
       "added_at": null,
@@ -355,8 +355,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Canci\u00f3n del Sur",
-        "url": "https://open.spotify.com/album/3557OjI79LJJ52kVeCxhgA"
+        "name": "Mamalluca: Obras Sinf\u00f3nicas, Vol. 1",
+        "url": "https://open.spotify.com/album/0ZPChiwu8RZKzNfCDSvku2"
       },
       "artists": [
         {
@@ -364,9 +364,9 @@
           "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
         }
       ],
-      "duration_ms": 192672,
-      "name": "Frescura Antigua",
-      "url": "https://open.spotify.com/track/1Jy9T9TKNbUcJCFnCTnG2V"
+      "duration_ms": 944040,
+      "name": "Mamalluca",
+      "url": "https://open.spotify.com/track/6HhGrqxEJHOPdOiPLSBFIE"
     },
     {
       "added_at": null,
@@ -387,8 +387,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mamalluca: Obras Sinf\u00f3nicas, Vol. 1",
-        "url": "https://open.spotify.com/album/0ZPChiwu8RZKzNfCDSvku2"
+        "name": "Canci\u00f3n del Sur",
+        "url": "https://open.spotify.com/album/3557OjI79LJJ52kVeCxhgA"
       },
       "artists": [
         {
@@ -396,9 +396,9 @@
           "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
         }
       ],
-      "duration_ms": 944040,
-      "name": "Mamalluca",
-      "url": "https://open.spotify.com/track/6HhGrqxEJHOPdOiPLSBFIE"
+      "duration_ms": 192672,
+      "name": "Frescura Antigua",
+      "url": "https://open.spotify.com/track/1Jy9T9TKNbUcJCFnCTnG2V"
     },
     {
       "added_at": null,

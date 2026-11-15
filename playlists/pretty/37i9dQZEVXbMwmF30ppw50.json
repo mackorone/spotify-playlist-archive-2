@@ -1,12 +1,12 @@
 {
   "description": "Your weekly update of the most played tracks right now - United Kingdom.",
-  "num_followers": 155529,
+  "num_followers": 155561,
   "original_name": "Top Songs - United Kingdom",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Moqd8AAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MovqwAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
       "added_at": "2026-11-13 15:04:42",
@@ -556,7 +556,7 @@
       "added_at": "2026-11-13 15:04:42",
       "album": {
         "name": "I Love You.",
-        "url": "https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI"
+        "url": "https://open.spotify.com/album/6iu2XwoDlKg0VYte9qAbnr"
       },
       "artists": [
         {
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
         }
       ],
-      "duration_ms": 240400,
+      "duration_ms": 240426,
       "name": "Sweater Weather",
-      "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
+      "url": "https://open.spotify.com/track/0cQVqPuHQP4KEwc7ZUQmj6"
     },
     {
       "added_at": "2026-11-13 15:04:42",
@@ -819,8 +819,8 @@
     {
       "added_at": "2026-11-13 15:04:42",
       "album": {
-        "name": "Lungs (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
+        "name": "Lungs (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1rLLyY5p6HXNl2lKzINWp5"
       },
       "artists": [
         {
@@ -828,9 +828,9 @@
           "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
         }
       ],
-      "duration_ms": 251840,
+      "duration_ms": 252818,
       "name": "Dog Days Are Over",
-      "url": "https://open.spotify.com/track/1YLJVmuzeM2YSUkCCaTNUB"
+      "url": "https://open.spotify.com/track/456WNXWhDwYOSf5SpTuqxd"
     }
   ],
   "unique_name": "Top Songs - United Kingdom",

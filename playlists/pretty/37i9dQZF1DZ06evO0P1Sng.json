@@ -1,12 +1,12 @@
 {
   "description": "This is Azzy. The essential tracks, all in one playlist.",
-  "num_followers": 8176,
+  "num_followers": 8177,
   "original_name": "This Is Azzy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avUBgAAAAABfaSpkUSXzEgmuVa36LFo8",
+  "snapshot_id": "avZTAAAAAACWrS6kHMGoYhcqsqUjq5h+",
   "tracks": [
     {
       "added_at": null,
@@ -759,30 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corpo Quente",
-        "url": "https://open.spotify.com/album/5kRUXL80sJ8ToO1YqbruoN"
-      },
-      "artists": [
-        {
-          "name": "Ryan Realcria",
-          "url": "https://open.spotify.com/artist/24km46riM1Ch9H1eNDQcuX"
-        },
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "Bi$",
-          "url": "https://open.spotify.com/artist/3PLe9jQKKCodC1Q6kB5MdA"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Corpo Quente",
-      "url": "https://open.spotify.com/track/6RRVJ39Nu1GfiWhxBvixMg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FZND DNV",
         "url": "https://open.spotify.com/album/3S3VnaT3xvdGP0srKVt8v5"
       },
@@ -803,6 +779,30 @@
       "duration_ms": 134400,
       "name": "FZND DNV",
       "url": "https://open.spotify.com/track/5dGixeOdNWTMXvmIu64DRg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corpo Quente",
+        "url": "https://open.spotify.com/album/5kRUXL80sJ8ToO1YqbruoN"
+      },
+      "artists": [
+        {
+          "name": "Ryan Realcria",
+          "url": "https://open.spotify.com/artist/24km46riM1Ch9H1eNDQcuX"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Bi$",
+          "url": "https://open.spotify.com/artist/3PLe9jQKKCodC1Q6kB5MdA"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Corpo Quente",
+      "url": "https://open.spotify.com/track/6RRVJ39Nu1GfiWhxBvixMg"
     },
     {
       "added_at": null,
@@ -1143,6 +1143,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Agi Igual Homem",
+        "url": "https://open.spotify.com/album/29MrpgI8GveiJUjAukWqkk"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "WEY",
+          "url": "https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        },
+        {
+          "name": "Gustah",
+          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
+        }
+      ],
+      "duration_ms": 164204,
+      "name": "Agi Igual Homem",
+      "url": "https://open.spotify.com/track/2IMxXEWjQFS4Ae8u5dE0lh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Eles N\u00e3o Ligam Pra Gente",
         "url": "https://open.spotify.com/album/0uWq40BZUNbaZqpjGyVCPn"
       },
@@ -1175,34 +1203,6 @@
       "duration_ms": 360000,
       "name": "Eles N\u00e3o Ligam Pra Gente",
       "url": "https://open.spotify.com/track/0QTcx4DhVrU7jcYRBVDVvW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Agi Igual Homem",
-        "url": "https://open.spotify.com/album/29MrpgI8GveiJUjAukWqkk"
-      },
-      "artists": [
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "WEY",
-          "url": "https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR"
-        },
-        {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
-        },
-        {
-          "name": "Gustah",
-          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
-        }
-      ],
-      "duration_ms": 164204,
-      "name": "Agi Igual Homem",
-      "url": "https://open.spotify.com/track/2IMxXEWjQFS4Ae8u5dE0lh"
     },
     {
       "added_at": null,
@@ -1307,30 +1307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Paparazzi",
-        "url": "https://open.spotify.com/album/6aBsUc53IC27CJYQqDzKoS"
-      },
-      "artists": [
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "DEGE",
-          "url": "https://open.spotify.com/artist/3lrVtMWQakf49Evasc4FFW"
-        },
-        {
-          "name": "BG_Rj",
-          "url": "https://open.spotify.com/artist/6gBsXhCXFoE1iT1KoVHOSa"
-        }
-      ],
-      "duration_ms": 116200,
-      "name": "Paparazzi",
-      "url": "https://open.spotify.com/track/6lbpJZhtmtJgUdLFeME5q0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "V\u00cdBORA",
         "url": "https://open.spotify.com/album/07ZvorgEhaclWT0lAbUucU"
       },
@@ -1387,6 +1363,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Paparazzi",
+        "url": "https://open.spotify.com/album/6aBsUc53IC27CJYQqDzKoS"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "DEGE",
+          "url": "https://open.spotify.com/artist/3lrVtMWQakf49Evasc4FFW"
+        },
+        {
+          "name": "BG_Rj",
+          "url": "https://open.spotify.com/artist/6gBsXhCXFoE1iT1KoVHOSa"
+        }
+      ],
+      "duration_ms": 116200,
+      "name": "Paparazzi",
+      "url": "https://open.spotify.com/track/6lbpJZhtmtJgUdLFeME5q0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Diva Pop",
         "url": "https://open.spotify.com/album/22F3kRQ6X5pKSfHe1WM207"
       },
@@ -1403,30 +1403,6 @@
       "duration_ms": 152275,
       "name": "Diva Pop",
       "url": "https://open.spotify.com/track/6Ry9PISedNt3UF8g6oYiP3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "INEF\u00c1VEL",
-        "url": "https://open.spotify.com/album/1zztQHsfyK0hYA8debeM6X"
-      },
-      "artists": [
-        {
-          "name": "Long beatz",
-          "url": "https://open.spotify.com/artist/1oBkccDqIDMTntIIHKlJBp"
-        },
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "Romano",
-          "url": "https://open.spotify.com/artist/4WOmrdbsuZMutpAiX56Jp6"
-        }
-      ],
-      "duration_ms": 136750,
-      "name": "Dolce",
-      "url": "https://open.spotify.com/track/5pzkXOVH7FgEDu6RuqngQL"
     },
     {
       "added_at": null,
@@ -1467,6 +1443,30 @@
       "duration_ms": 176562,
       "name": "Coisa Fina",
       "url": "https://open.spotify.com/track/3Ywd83pjNBh3qVnWLFqk6s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "INEF\u00c1VEL",
+        "url": "https://open.spotify.com/album/1zztQHsfyK0hYA8debeM6X"
+      },
+      "artists": [
+        {
+          "name": "Long beatz",
+          "url": "https://open.spotify.com/artist/1oBkccDqIDMTntIIHKlJBp"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Romano",
+          "url": "https://open.spotify.com/artist/4WOmrdbsuZMutpAiX56Jp6"
+        }
+      ],
+      "duration_ms": 136750,
+      "name": "Dolce",
+      "url": "https://open.spotify.com/track/5pzkXOVH7FgEDu6RuqngQL"
     }
   ],
   "unique_name": "This Is Azzy",

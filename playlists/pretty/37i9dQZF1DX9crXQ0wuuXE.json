@@ -1,6 +1,6 @@
 {
   "description": "A blend of the best from years past\u2014from indie folk and pop grass to roots rock and Americana. Cover: The Lumineers",
-  "num_followers": 600080,
+  "num_followers": 600072,
   "original_name": "Roots Revival",
   "owner": {
     "name": "Spotify",
@@ -803,6 +803,22 @@
     {
       "added_at": "2024-08-28 14:08:37",
       "album": {
+        "name": "You Are Not Alone",
+        "url": "https://open.spotify.com/album/5o5TBMTI6OUnM6aDSWOFxV"
+      },
+      "artists": [
+        {
+          "name": "Mavis Staples",
+          "url": "https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0"
+        }
+      ],
+      "duration_ms": 237120,
+      "name": "You Are Not Alone",
+      "url": "https://open.spotify.com/track/2REeTHmiO6kbkNTwkolGwC"
+    },
+    {
+      "added_at": "2024-08-28 14:08:37",
+      "album": {
         "name": "Utah",
         "url": "https://open.spotify.com/album/6ampZidxH8AtXdxEFoZVv7"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 251746,
       "name": "Sugar in the Creek",
       "url": "https://open.spotify.com/track/0Ppp8AhUasTiQxp4RHwyj5"
-    },
-    {
-      "added_at": "2024-08-28 14:08:37",
-      "album": {
-        "name": "You Are Not Alone",
-        "url": "https://open.spotify.com/album/5o5TBMTI6OUnM6aDSWOFxV"
-      },
-      "artists": [
-        {
-          "name": "Mavis Staples",
-          "url": "https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0"
-        }
-      ],
-      "duration_ms": 237120,
-      "name": "You Are Not Alone",
-      "url": "https://open.spotify.com/track/2REeTHmiO6kbkNTwkolGwC"
     },
     {
       "added_at": "2024-08-28 14:08:37",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2024-08-28 14:08:37",
       "album": {
+        "name": "Ignorance",
+        "url": "https://open.spotify.com/album/3KeR5BDM2giFr8zoSXBrgE"
+      },
+      "artists": [
+        {
+          "name": "The Weather Station",
+          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
+        }
+      ],
+      "duration_ms": 218602,
+      "name": "Tried to Tell You",
+      "url": "https://open.spotify.com/track/7DPKumvNXs9YFK9u5HvH0u"
+    },
+    {
+      "added_at": "2024-08-28 14:08:37",
+      "album": {
         "name": "Love Has Come For You",
         "url": "https://open.spotify.com/album/3EI8YIXlPsYfyDXaAh3O7P"
       },
@@ -1411,22 +1427,6 @@
       "duration_ms": 188213,
       "name": "Love Has Come For You",
       "url": "https://open.spotify.com/track/6TI4HKSi6GpMeq2vpkInSk"
-    },
-    {
-      "added_at": "2024-08-28 14:08:37",
-      "album": {
-        "name": "Ignorance",
-        "url": "https://open.spotify.com/album/3KeR5BDM2giFr8zoSXBrgE"
-      },
-      "artists": [
-        {
-          "name": "The Weather Station",
-          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
-        }
-      ],
-      "duration_ms": 218602,
-      "name": "Tried to Tell You",
-      "url": "https://open.spotify.com/track/7DPKumvNXs9YFK9u5HvH0u"
     },
     {
       "added_at": "2024-08-28 14:08:37",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2024-08-28 14:08:37",
       "album": {
-        "name": "Bright Sunny South",
-        "url": "https://open.spotify.com/album/6HahUp9v0Hb4Aj1U07n8hC"
-      },
-      "artists": [
-        {
-          "name": "Sam Amidon",
-          "url": "https://open.spotify.com/artist/6TTJ0xLPPNDyv4bXyukzU4"
-        }
-      ],
-      "duration_ms": 167026,
-      "name": "I Wish I Wish",
-      "url": "https://open.spotify.com/track/02d7m51SjPVO2RU8i1sgwN"
-    },
-    {
-      "added_at": "2024-08-28 14:08:37",
-      "album": {
         "name": "Dream Your Life Away (Special Edition)",
         "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 204280,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd"
+    },
+    {
+      "added_at": "2024-08-28 14:08:37",
+      "album": {
+        "name": "Bright Sunny South",
+        "url": "https://open.spotify.com/album/6HahUp9v0Hb4Aj1U07n8hC"
+      },
+      "artists": [
+        {
+          "name": "Sam Amidon",
+          "url": "https://open.spotify.com/artist/6TTJ0xLPPNDyv4bXyukzU4"
+        }
+      ],
+      "duration_ms": 167026,
+      "name": "I Wish I Wish",
+      "url": "https://open.spotify.com/track/02d7m51SjPVO2RU8i1sgwN"
     },
     {
       "added_at": "2024-08-28 14:08:37",

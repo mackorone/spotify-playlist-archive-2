@@ -301,6 +301,28 @@
     },
     {
       "album": {
+        "name": "Have Yourself a Merry Little Christmas (From \"Snoopy Presents: 12 Days of Snoopy\")",
+        "url": "https://open.spotify.com/album/76tS12f6S9QDPc9x6OxiWG"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        },
+        {
+          "name": "Peanuts",
+          "url": "https://open.spotify.com/artist/58JT424axIaKJNvUgVonOY"
+        }
+      ],
+      "date_added": "2026-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194733,
+      "name": "Have Yourself a Merry Little Christmas (From \"Snoopy Presents: 12 Days of Snoopy\")",
+      "url": "https://open.spotify.com/track/06tOzNfqvoD38Fo5lfg459"
+    },
+    {
+      "album": {
         "name": "How I Get",
         "url": "https://open.spotify.com/album/70NOPNFs2y4lZMrowJzPuY"
       },

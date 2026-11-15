@@ -1,6 +1,6 @@
 {
   "description": "Las\u0103-te inspirat pe ritmuri de hip-hop & R'n'B. Cover: Serotone, IRAIDA",
-  "num_followers": 23785,
+  "num_followers": 23782,
   "original_name": "Suflet + Sunet",
   "owner": {
     "name": "Spotify",
@@ -455,22 +455,6 @@
     {
       "added_at": "2026-11-12 22:00:50",
       "album": {
-        "name": "Direct din Tei",
-        "url": "https://open.spotify.com/album/4ugCVHF2BNK6Aj7W9RKCWr"
-      },
-      "artists": [
-        {
-          "name": "Petre Stefan",
-          "url": "https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh"
-        }
-      ],
-      "duration_ms": 159244,
-      "name": "Sunt fratii tai",
-      "url": "https://open.spotify.com/track/20OzxqFiZbojkPskuxZb5a"
-    },
-    {
-      "added_at": "2026-11-12 22:00:50",
-      "album": {
         "name": "Reggaeton",
         "url": "https://open.spotify.com/album/5mJbP3TyeakQSrKgaQiFp9"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 157021,
       "name": "Reggaeton",
       "url": "https://open.spotify.com/track/5a2hQFJzWF8od76LnJHnPA"
+    },
+    {
+      "added_at": "2026-11-12 22:00:50",
+      "album": {
+        "name": "Direct din Tei",
+        "url": "https://open.spotify.com/album/4ugCVHF2BNK6Aj7W9RKCWr"
+      },
+      "artists": [
+        {
+          "name": "Petre Stefan",
+          "url": "https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh"
+        }
+      ],
+      "duration_ms": 159244,
+      "name": "Sunt fratii tai",
+      "url": "https://open.spotify.com/track/20OzxqFiZbojkPskuxZb5a"
     },
     {
       "added_at": "2026-11-12 22:00:50",
@@ -723,22 +723,6 @@
     {
       "added_at": "2026-11-12 22:00:50",
       "album": {
-        "name": "Toata lumea moare",
-        "url": "https://open.spotify.com/album/3HSN1uMfMOg2j7fCmVVAh2"
-      },
-      "artists": [
-        {
-          "name": "Mgk666",
-          "url": "https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Operatiunea GhostGun",
-      "url": "https://open.spotify.com/track/6ZvxHr1I4tofQp3WOh68j4"
-    },
-    {
-      "added_at": "2026-11-12 22:00:50",
-      "album": {
         "name": "\u00cemi pas\u0103 p\u00e2n\u0103 nu-mi mai pas\u0103",
         "url": "https://open.spotify.com/album/5UR6KeCOEX1cZBegHCdw2Y"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 132858,
       "name": "\u00cemi pas\u0103 p\u00e2n\u0103 nu-mi mai pas\u0103",
       "url": "https://open.spotify.com/track/7G8lU0MR2PW7co59XRC5VB"
+    },
+    {
+      "added_at": "2026-11-12 22:00:50",
+      "album": {
+        "name": "Toata lumea moare",
+        "url": "https://open.spotify.com/album/3HSN1uMfMOg2j7fCmVVAh2"
+      },
+      "artists": [
+        {
+          "name": "Mgk666",
+          "url": "https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Operatiunea GhostGun",
+      "url": "https://open.spotify.com/track/6ZvxHr1I4tofQp3WOh68j4"
     },
     {
       "added_at": "2026-11-12 22:00:50",

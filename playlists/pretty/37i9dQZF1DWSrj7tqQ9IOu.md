@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > Les meilleurs sons du mois d'Octobre sélectionnés par les éditos de Spotify\. Photo : Snoh Aalegra
 
-[Spotify](https://open.spotify.com/user/spotify) - 401,104 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 401,090 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 21 | [LESSTOMBÉ](https://open.spotify.com/track/2uF2XYjyn6hJSb79aa3mkf) | [Ino Casablanca](https://open.spotify.com/artist/5blvB6N3OACeH0gJL9BRqf) | [EXTASIAAAAA](https://open.spotify.com/album/3UgEqtgcM9rzK7wMmnwmTq) | 3:36 |
 | 22 | [Flor de canela](https://open.spotify.com/track/7LYgPSU65SUgWju5fsF6GG) | [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [Flor de canela](https://open.spotify.com/album/3kJbxVlwtM3VELeSFzeevg) | 3:49 |
 | 23 | [Slide](https://open.spotify.com/track/0qdpMXB0cspUizTeX9q4xJ) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Slide](https://open.spotify.com/album/7bi37xGQrC5LMl66UG3KvI) | 3:20 |
-| 24 | [Blackstar](https://open.spotify.com/track/3GbhZOGi7PIDNhtTlPHPk2) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu), [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Blackstar](https://open.spotify.com/album/0eZCS0HQphhj78HVDYEV0v) | 2:36 |
-| 25 | [APPELLE LA POLICE \(feat\. Theodora\)](https://open.spotify.com/track/4sN7Kg50VWeDEmRhBONe9i) | [La Fève](https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ), [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2) | [APPELLE LA POLICE \(feat\. Theodora\)](https://open.spotify.com/album/1K8INSckfNLaLTFkgQlTQs) | 2:34 |
-| 26 | [Mantra](https://open.spotify.com/track/2C03kn5yuBbreti2ZcO1og) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [SWALLOW!](https://open.spotify.com/album/3dQzmmWFcow0z84wGW6RpD) | 3:05 |
+| 24 | [Mantra](https://open.spotify.com/track/2C03kn5yuBbreti2ZcO1og) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [SWALLOW!](https://open.spotify.com/album/3dQzmmWFcow0z84wGW6RpD) | 3:05 |
+| 25 | [Blackstar](https://open.spotify.com/track/3GbhZOGi7PIDNhtTlPHPk2) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu), [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Blackstar](https://open.spotify.com/album/0eZCS0HQphhj78HVDYEV0v) | 2:36 |
+| 26 | [APPELLE LA POLICE \(feat\. Theodora\)](https://open.spotify.com/track/4sN7Kg50VWeDEmRhBONe9i) | [La Fève](https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ), [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2) | [APPELLE LA POLICE \(feat\. Theodora\)](https://open.spotify.com/album/1K8INSckfNLaLTFkgQlTQs) | 2:34 |
 | 27 | [PAS TOUS LES HOMMES](https://open.spotify.com/track/1yOPydtr6sv40lYLT7iMyC) | [Mauvaise Bouche](https://open.spotify.com/artist/5kmLM9mSvPHT8SxGS9DqCo) | [PAS TOUS LES HOMMES](https://open.spotify.com/album/4cfIv0HWRCtb89nU8HEJop) | 2:41 |
 | 28 | [Whole Room Dancing](https://open.spotify.com/track/4H7K86ED2CD527gllnpF0F) | [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [JRM](https://open.spotify.com/artist/1NbmG1Fj64qykEcJt1d43a) | [Whole Room Dancing](https://open.spotify.com/album/44wu5EOlqWT4yVUrAJ0qTC) | 2:56 |
 | 29 | [BRAINDEAD \(Okay!\)](https://open.spotify.com/track/7nDUi9KJQcxOXQl4g7lW7a) | [THÉA](https://open.spotify.com/artist/6GGkEuZHoNpJsKYNZml2gL) | [POPSTAR SPEEDRUN](https://open.spotify.com/album/1EwKqpFKt6xXSWLKSGVgFB) | 2:18 |

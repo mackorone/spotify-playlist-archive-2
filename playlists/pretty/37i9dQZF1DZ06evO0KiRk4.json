@@ -1,12 +1,12 @@
 {
   "description": "This is Florence + The Machine. The essential tracks, all in one playlist.",
-  "num_followers": 592876,
+  "num_followers": 592891,
   "original_name": "This Is Florence + The Machine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avUBgAAAAAAWd+N9J32shJgOZQNUU6L2",
+  "snapshot_id": "avZTAAAAAACx8Mg3HmWtxogVCCvY8ac5",
   "tracks": [
     {
       "added_at": null,
@@ -131,6 +131,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ceremonials (Original Deluxe Version)",
+        "url": "https://open.spotify.com/album/19J2iqK89BCrNG4El2FRi5"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 270973,
+      "name": "Never Let Me Go",
+      "url": "https://open.spotify.com/track/3HNTLCpAGnizbyJmk7466r"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ceremonials",
         "url": "https://open.spotify.com/album/3JODIzr9NLL7CMojdUR70g"
       },
@@ -147,22 +163,6 @@
       "duration_ms": 218190,
       "name": "Spectrum (Say My Name) - Calvin Harris Remix",
       "url": "https://open.spotify.com/track/57yeWyaoeTt26p0dlEZukQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ceremonials (Original Deluxe Version)",
-        "url": "https://open.spotify.com/album/19J2iqK89BCrNG4El2FRi5"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 270973,
-      "name": "Never Let Me Go",
-      "url": "https://open.spotify.com/track/3HNTLCpAGnizbyJmk7466r"
     },
     {
       "added_at": null,

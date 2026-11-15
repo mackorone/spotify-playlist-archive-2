@@ -4,7 +4,7 @@
 
 > Wyzwania, cele, zadania, spotkania, dedlajny… ale najpierw kawa.
 
-447 songs - 22 hr 28 min
+448 songs - 22 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [It's ok I'm ok](https://open.spotify.com/track/24XihnoVPWXlKJ4BgXqjVM) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [It's ok I'm ok](https://open.spotify.com/album/5qfivA7g2aAhAIPnSb0csp) | 2:36 | 2024-09-20 | 2025-01-25 |
 | [Jabłonie](https://open.spotify.com/track/6Og6qvFUolWrZy2jRjYHI2) | [Donatan](https://open.spotify.com/artist/1jWDblyJH2DelrPyt87yZV), [Cleo](https://open.spotify.com/artist/0ZXDvZqBzwZLsHRXhuTbpR), [Hinol Polska Wersja](https://open.spotify.com/artist/7jrtLe4eVfWhYWZn5vsopg) | [Jabłonie](https://open.spotify.com/album/5OttKKlgmFMDUbTLIERFrL) | 3:12 | 2024-11-08 | 2025-01-25 |
 | [Jak to jest](https://open.spotify.com/track/3b3XIBnhmU4zAt9vddjVvh) | [Zuza Jabłońska](https://open.spotify.com/artist/2obyllmx54A5zB0yZe5ikt), [Michał Szczygieł](https://open.spotify.com/artist/3LnV4Ef0wfc2ATFF4IAW5z) | [Jak to jest](https://open.spotify.com/album/0azwKn7dzVNHDTtc8P60uO) | 3:32 | 2026-03-27 | 2026-05-11 |
+| [jakby ok](https://open.spotify.com/track/4agwHBJr7jnvS9VHEJRJ0n) | [LALE](https://open.spotify.com/artist/1BaXV5IqUHk4V3QkLsSN05), [Dizzma](https://open.spotify.com/artist/7EaDsPGE5PcfbaqySXxzU1) | [jakby ok](https://open.spotify.com/album/2epRg7LZCWlzDT13OzMiAh) | 2:17 | 2026-11-13 |  |
 | [Jenga](https://open.spotify.com/track/4vIK2tyE73DXgvpJzdcMfI) | [Sophie Coal](https://open.spotify.com/artist/0caffJ4V83KuZaLoO4dpnp) | [Jenga](https://open.spotify.com/album/4BEoYXbfJ1EKtLWBi7Kxs2) | 4:03 | 2025-01-17 | 2025-01-25 |
 | [Jestem Dla Ciebie](https://open.spotify.com/track/2EPTAU9o1H0YCWSzTGXUPw) | [Anastazja](https://open.spotify.com/artist/7FUSTVgPrNPjB3I3QYPby3), [Dizzma](https://open.spotify.com/artist/7EaDsPGE5PcfbaqySXxzU1) | [Jestem Dla Ciebie](https://open.spotify.com/album/73N7avhK4kNLUbSUH1uKQp) | 2:30 | 2026-11-13 |  |
 | [JESZCZE RAZ](https://open.spotify.com/track/2kmAL60P7mgqNtK87FfB9T) | [Kinny Zimmer](https://open.spotify.com/artist/19zuiWthJYU6FCqnV4mJYC), [Kaptur](https://open.spotify.com/artist/4NJA8jbfxc4daVM2wi9ybd) | [JESZCZE RAZ](https://open.spotify.com/album/3jDSstZMLjYCVkrhBZ0COb) | 3:26 | 2025-10-03 | 2026-04-11 |
@@ -207,7 +208,7 @@
 | [LUBIMY](https://open.spotify.com/track/1oGFMmJsbgif8ZVxMREseR) | [Cleo](https://open.spotify.com/artist/0ZXDvZqBzwZLsHRXhuTbpR), [Skolim](https://open.spotify.com/artist/3RJrimoFyTK3SoTF4TaDSA), [Donatan](https://open.spotify.com/artist/1jWDblyJH2DelrPyt87yZV) | [LUBIMY](https://open.spotify.com/album/0qzTWFez1xu7JsZm8sqWqT) | 2:28 | 2026-06-26 |  |
 | [Lucky Secret](https://open.spotify.com/track/002moL8vrvcntzM73R4ath) | [LUNA](https://open.spotify.com/artist/0AZgkXW6n0zfyOhVAnIopA) | [Fairy Pop](https://open.spotify.com/album/3cPdL4VimfdCUNqkfvdArO) | 3:19 | 2026-06-26 | 2026-07-31 |
 | [Magnetic](https://open.spotify.com/track/4hFDFmMnSYZ32ssqNUOCjt) | [The Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg) | [Magnetic / Addicted To Your Love](https://open.spotify.com/album/5spP5OwikL076tVBuw7gb8) | 3:01 | 2026-06-18 |  |
-| [Maj](https://open.spotify.com/track/49nxyMFjZAk59XqxFsToG1) | [Michał Szpak](https://open.spotify.com/artist/4YT4KZPvKUyqgSgtXAJeS4) | [Maj](https://open.spotify.com/album/5t6RWqzhLlxAKSUNxnfDpi) | 3:31 | 2026-06-26 |  |
+| [Maj](https://open.spotify.com/track/49nxyMFjZAk59XqxFsToG1) | [Michał Szpak](https://open.spotify.com/artist/4YT4KZPvKUyqgSgtXAJeS4) | [Maj](https://open.spotify.com/album/5t6RWqzhLlxAKSUNxnfDpi) | 3:31 | 2026-06-26 | 2026-11-15 |
 | [MAM TALENT](https://open.spotify.com/track/5YfLne4OCkpYA2VWQ4w65P) | [Kacperczyk](https://open.spotify.com/artist/2XsHanVw1onfSpTECII15X), [Vito Bambino](https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o) | [WSZYSCY JESTEŚMY KACPERCZYK](https://open.spotify.com/album/0oGbjczLy7pO71s7lwLz8Q) | 3:28 | 2026-01-23 | 2026-09-19 |
 | [Mamy farta](https://open.spotify.com/track/5eKh0mf74UvFJQcO7fnTUa) | [Margaret](https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ), [Pezet](https://open.spotify.com/artist/4z93wkjfGntA0XFqnv4wj7) | [Mamy farta](https://open.spotify.com/album/1M8FSAGGqEtZrYKimZGsVS) | 3:09 | 2024-11-15 | 2025-01-01 |
 | [MANGO](https://open.spotify.com/track/5jVMVRFbk57ovUm15hl6zw) | [Sylwia Grzeszczak](https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS) | [MANGO](https://open.spotify.com/album/1OtN3XYMdhEds2mdEtu5ui) | 3:16 | 2026-08-14 |  |

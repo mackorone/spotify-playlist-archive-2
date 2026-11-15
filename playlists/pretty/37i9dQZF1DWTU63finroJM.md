@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 
 > Meet the future of music around the world\. Cover: JAS
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,572 likes - 25 songs - 1 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,571 likes - 25 songs - 1 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 14 | [Tiptoes](https://open.spotify.com/track/1qeLlMkDuVySs1febJY0fI) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Tiptoes](https://open.spotify.com/album/2ODOdUYUH0eIXmW1mdzYf3) | 3:28 |
 | 15 | [LY](https://open.spotify.com/track/7c9MmK1KocaSXLhsXCDnCq) | [Dressed Like Boys](https://open.spotify.com/artist/5qQLp6Xal6S6KXEHgvxmvp) | [LY](https://open.spotify.com/album/16nQg0IJ2lgJLXxg7bR77c) | 3:24 |
 | 16 | [Saisons](https://open.spotify.com/track/5kMrK5lhPuOrUwnjtgIiLg) | [Aswell](https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc) | [Saisons](https://open.spotify.com/album/09IwKg2UvRi20lV67LKtlk) | 3:11 |
-| 17 | [EL QUE COMPRÓ PERDIÓ](https://open.spotify.com/track/1QQ8zcJLMyO7ti83nM1d9g) | [Little Boogie](https://open.spotify.com/artist/51f3tNDq1t3W7OCtokDRb0), [STEREO](https://open.spotify.com/artist/6odI6L61c5EaXZnKWSJ7fj) | [EL QUE COMPRÓ PERDIÓ](https://open.spotify.com/album/2o3J7GZgL53V41Qy9TCsio) | 2:25 |
-| 18 | [Non sono lei](https://open.spotify.com/track/4pod9adi7EYyk2Asi8HcHf) | [Emili Kasa](https://open.spotify.com/artist/3RjZIfNhuaISMsbzISGxvA) | [Non sono lei](https://open.spotify.com/album/2QEGkfbqwSgY9h4X5hj57Q) | 2:45 |
+| 17 | [Non sono lei](https://open.spotify.com/track/4pod9adi7EYyk2Asi8HcHf) | [Emili Kasa](https://open.spotify.com/artist/3RjZIfNhuaISMsbzISGxvA) | [Non sono lei](https://open.spotify.com/album/2QEGkfbqwSgY9h4X5hj57Q) | 2:45 |
+| 18 | [EL QUE COMPRÓ PERDIÓ](https://open.spotify.com/track/1QQ8zcJLMyO7ti83nM1d9g) | [Little Boogie](https://open.spotify.com/artist/51f3tNDq1t3W7OCtokDRb0), [STEREO](https://open.spotify.com/artist/6odI6L61c5EaXZnKWSJ7fj) | [EL QUE COMPRÓ PERDIÓ](https://open.spotify.com/album/2o3J7GZgL53V41Qy9TCsio) | 2:25 |
 | 19 | [Ishaare](https://open.spotify.com/track/0cd2z6Lkm6Syj01l9bdEzq) | [Anubha Bajaj](https://open.spotify.com/artist/1jR0u53xF6iccwKAu9SD3H) | [Ishaare](https://open.spotify.com/album/2nCSlWTrkHdYaHn2D0xOi9) | 2:22 |
 | 20 | [คนเดิม \(stay with me\)](https://open.spotify.com/track/3XHZDEytvJUol6TqAaoI0W) | [the ge](https://open.spotify.com/artist/1h0iQlfKHiBlQsUsdzJ9l7) | [AFTERIMAGE](https://open.spotify.com/album/6kTDUHLS6OxhPd9L4Xy2OT) | 3:11 |
 | 21 | [Hard Rock](https://open.spotify.com/track/3vlHkohkAGM9BpisshPbrI) | [young friend](https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1) | [New Entertainment](https://open.spotify.com/album/1nNZEWRU7yPKzcspP9EWAL) | 3:20 |

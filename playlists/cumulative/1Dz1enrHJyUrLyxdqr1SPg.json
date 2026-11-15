@@ -1263,6 +1263,24 @@
     },
     {
       "album": {
+        "name": "Here and Now",
+        "url": "https://open.spotify.com/album/5neuPVQuaFMHKnil5XbSDp"
+      },
+      "artists": [
+        {
+          "name": "Sheridan Coldstream",
+          "url": "https://open.spotify.com/artist/7ACXX1W4FLdJq6jIdeMBq2"
+        }
+      ],
+      "date_added": "2026-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265893,
+      "name": "Here and Now",
+      "url": "https://open.spotify.com/track/2xgbjVjeuGD2Bbi37F0Vds"
+    },
+    {
+      "album": {
         "name": "Heroes Get Hurt",
         "url": "https://open.spotify.com/album/3UxqFJUxb39E7sSFR4K9Kl"
       },

@@ -5289,6 +5289,24 @@
     },
     {
       "album": {
+        "name": "Pulserita (Ay Mi Reina)",
+        "url": "https://open.spotify.com/album/4DPJBt3flFLlxKmotD9ael"
+      },
+      "artists": [
+        {
+          "name": "Zaider",
+          "url": "https://open.spotify.com/artist/5Wuz885csKSCJoBNsOSCxz"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161373,
+      "name": "Pulserita (Ay Mi Reina)",
+      "url": "https://open.spotify.com/track/4S7NRfucXN5fYigR21vJ4v"
+    },
+    {
+      "album": {
         "name": "Puntos Suspensivos",
         "url": "https://open.spotify.com/album/3oUsMQAhvY3PzAw6sT0y03"
       },
@@ -7386,7 +7404,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 178181,
       "name": "Volvamos",
       "url": "https://open.spotify.com/track/3ew2B1G5nw54y8kpGaMNbm"

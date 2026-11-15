@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With JUST LIZZY, David Von Beahm, post-punk'er and more",
+  "description": "With post-punk'er, Captain Margaret, David Von Beahm and more",
   "name": "DePitcha Radio",
   "tracks": [
     {
@@ -146,7 +146,7 @@
       ],
       "date_added": "2026-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-07",
+      "date_removed": null,
       "duration_ms": 446625,
       "name": "1985",
       "url": "https://open.spotify.com/track/1XUxsV1zC9hcpcu7irLyUr"
@@ -236,7 +236,7 @@
       ],
       "date_added": "2026-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 224253,
       "name": "A Capricorn Dog",
       "url": "https://open.spotify.com/track/0wREo90Y2efzFE0wCHXJMG"
@@ -593,6 +593,24 @@
     },
     {
       "album": {
+        "name": "Absence Of Ligth",
+        "url": "https://open.spotify.com/album/4WvG9o8m5nNFxeINLZ9Ijo"
+      },
+      "artists": [
+        {
+          "name": "RULE OF TWO",
+          "url": "https://open.spotify.com/artist/3AwfRAzk2JeC9w5xyTGawX"
+        }
+      ],
+      "date_added": "2026-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242993,
+      "name": "Absence Of Ligth",
+      "url": "https://open.spotify.com/track/59y49qm2IHGDhTYyQrOrLq"
+    },
+    {
+      "album": {
         "name": "Desirelessness",
         "url": "https://open.spotify.com/album/2WMI4ezqpbfYk793ZE8QD7"
       },
@@ -905,6 +923,24 @@
     },
     {
       "album": {
+        "name": "A Sense Of Danger",
+        "url": "https://open.spotify.com/album/1usfthrCCcIMuJ3LC90Dyi"
+      },
+      "artists": [
+        {
+          "name": "The Pixel Rain",
+          "url": "https://open.spotify.com/artist/4Q3qB7pXJYQ6Oo3GF55O4T"
+        }
+      ],
+      "date_added": "2026-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258235,
+      "name": "All Night Long",
+      "url": "https://open.spotify.com/track/1YMQT3sNntgjqFJQObtRre"
+    },
+    {
+      "album": {
         "name": "DRK|MODE",
         "url": "https://open.spotify.com/album/78e7a2tAgYu3niMwtbaQKl"
       },
@@ -920,6 +956,24 @@
       "duration_ms": 247178,
       "name": "All That Glitters",
       "url": "https://open.spotify.com/track/1BgO9Kv5gvlqUEKbN6NgDh"
+    },
+    {
+      "album": {
+        "name": "A Sense Of Danger",
+        "url": "https://open.spotify.com/album/1usfthrCCcIMuJ3LC90Dyi"
+      },
+      "artists": [
+        {
+          "name": "The Pixel Rain",
+          "url": "https://open.spotify.com/artist/4Q3qB7pXJYQ6Oo3GF55O4T"
+        }
+      ],
+      "date_added": "2026-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314210,
+      "name": "All The Lovers",
+      "url": "https://open.spotify.com/track/4WXNi3vDKyiOiuwz7JvkDf"
     },
     {
       "album": {
@@ -1324,7 +1378,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 278108,
       "name": "Another Life",
       "url": "https://open.spotify.com/track/1XkFICmCusitYkiiAFREeG"
@@ -1624,7 +1678,7 @@
       ],
       "date_added": "2026-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 157507,
       "name": "Autumn (\u79cb)",
       "url": "https://open.spotify.com/track/5K7fx7FewH7EnOXfpz1uKT"
@@ -2671,6 +2725,24 @@
     },
     {
       "album": {
+        "name": "Blood",
+        "url": "https://open.spotify.com/album/7jUG5UqjCa2w3mTLk238RM"
+      },
+      "artists": [
+        {
+          "name": "The Sweet Kill",
+          "url": "https://open.spotify.com/artist/445d0aCtpY1jmpLO87SfNu"
+        }
+      ],
+      "date_added": "2026-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171907,
+      "name": "Blood",
+      "url": "https://open.spotify.com/track/6eY15HTD4h77DwxvI2wmEO"
+    },
+    {
+      "album": {
         "name": "Blood + Wine",
         "url": "https://open.spotify.com/album/0TGVoNbpAlzVYIQNr7vJ3E"
       },
@@ -3462,7 +3534,7 @@
       ],
       "date_added": "2026-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 214000,
       "name": "Call Them After Me",
       "url": "https://open.spotify.com/track/0MgMnIK1wqQJc8L33LclDI"
@@ -4044,7 +4116,7 @@
       ],
       "date_added": "2026-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 244598,
       "name": "Cinematic World",
       "url": "https://open.spotify.com/track/6PISRCG0sR1qSKDCj3SgPV"
@@ -6032,7 +6104,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 259250,
       "name": "Desire",
       "url": "https://open.spotify.com/track/1U7zkwLHRzqtktC47X88Z8"
@@ -7022,7 +7094,7 @@
       ],
       "date_added": "2026-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 93409,
       "name": "El Guardi\u00e1n del Equilibrio",
       "url": "https://open.spotify.com/track/07IKnUvTgGULbfLJ6emblG"
@@ -7972,7 +8044,7 @@
       ],
       "date_added": "2025-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-19",
+      "date_removed": null,
       "duration_ms": 248956,
       "name": "Falling Stars",
       "url": "https://open.spotify.com/track/1h89xz80g5LZIvnteTPHpS"
@@ -10679,6 +10751,24 @@
     },
     {
       "album": {
+        "name": "I Don't Want Your Love",
+        "url": "https://open.spotify.com/album/1rIZWpQ1xNz7coev0qSFJR"
+      },
+      "artists": [
+        {
+          "name": "Chris Jacobson",
+          "url": "https://open.spotify.com/artist/29ZT0yuxi6PtfNLQw7s7nJ"
+        }
+      ],
+      "date_added": "2026-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216318,
+      "name": "I Don't Want Your Love",
+      "url": "https://open.spotify.com/track/06Dnvm34UTR57hwvb5fwMx"
+    },
+    {
+      "album": {
         "name": "DRK|MODE",
         "url": "https://open.spotify.com/album/78e7a2tAgYu3niMwtbaQKl"
       },
@@ -10950,6 +11040,24 @@
       "duration_ms": 260063,
       "name": "I Only See You When I'm Dancing",
       "url": "https://open.spotify.com/track/6DowLPrUvNw7sn6hLnJnH6"
+    },
+    {
+      "album": {
+        "name": "I really og",
+        "url": "https://open.spotify.com/album/0cVq8beGCDkOdLqvkhjXBk"
+      },
+      "artists": [
+        {
+          "name": "Serengeti",
+          "url": "https://open.spotify.com/artist/5F3fDx84RYnmx0FGZeRtSF"
+        }
+      ],
+      "date_added": "2026-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116934,
+      "name": "I really og",
+      "url": "https://open.spotify.com/track/4TBe9Dp1K5Ntv0biMw7nsX"
     },
     {
       "album": {
@@ -11564,7 +11672,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 249716,
       "name": "Indigo",
       "url": "https://open.spotify.com/track/0HuanearWSgH1HshtDDHZY"
@@ -11726,10 +11834,28 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-08",
+      "date_removed": null,
       "duration_ms": 206400,
       "name": "InstantFamous",
       "url": "https://open.spotify.com/track/1UWvvHX3bsjWvPek8odHae"
+    },
+    {
+      "album": {
+        "name": "Instruments of Joy",
+        "url": "https://open.spotify.com/album/3nMZXqFgEkLWDJCSg0oZFq"
+      },
+      "artists": [
+        {
+          "name": "Twice A Man",
+          "url": "https://open.spotify.com/artist/5f4QXUKgp11PrkYGztcfGy"
+        }
+      ],
+      "date_added": "2026-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358706,
+      "name": "Instruments of Joy",
+      "url": "https://open.spotify.com/track/0qA3waMueZJMvT3ztOpjyS"
     },
     {
       "album": {
@@ -13336,7 +13462,7 @@
       ],
       "date_added": "2026-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 262226,
       "name": "Life on a chain",
       "url": "https://open.spotify.com/track/5H0c1YApnVuiXwXxHPDQIO"
@@ -14032,7 +14158,7 @@
       ],
       "date_added": "2026-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 345230,
       "name": "Luvurgurl",
       "url": "https://open.spotify.com/track/05EXjL88NiXSOedFEWhBka"
@@ -14112,7 +14238,7 @@
       ],
       "date_added": "2026-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 307078,
       "name": "Man With The X-Ray Eyes",
       "url": "https://open.spotify.com/track/2wofyBPVUPUk0jvpZag9FG"
@@ -14430,7 +14556,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-07",
+      "date_removed": null,
       "duration_ms": 340409,
       "name": "Mental Health (MIK\u2019s Miasma)",
       "url": "https://open.spotify.com/track/1gNXkCxKqF3ZFveWOVpSX4"
@@ -15698,7 +15824,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 230537,
       "name": "Nightswimmer (Strange Ohio Bodies), Pt. 2",
       "url": "https://open.spotify.com/track/5omGB5UoXCatfzNe5BBlpv"
@@ -16362,6 +16488,24 @@
       "duration_ms": 248470,
       "name": "Only daughter",
       "url": "https://open.spotify.com/track/38Uli9oYCw1rQDkV8PH8RX"
+    },
+    {
+      "album": {
+        "name": "Opal Frequencies Driving Home",
+        "url": "https://open.spotify.com/album/4VZNzyx5Fk0Qan2XS4Ztj0"
+      },
+      "artists": [
+        {
+          "name": "S4YU",
+          "url": "https://open.spotify.com/artist/5RrB7ae8qvMCuI2YdtCNfH"
+        }
+      ],
+      "date_added": "2026-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154008,
+      "name": "Onyx Melange Stranded On The Coast",
+      "url": "https://open.spotify.com/track/7dkXudKfSok9rSmaKemLZA"
     },
     {
       "album": {
@@ -17146,7 +17290,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-16",
+      "date_removed": null,
       "duration_ms": 383323,
       "name": "Porcelain - White Remix",
       "url": "https://open.spotify.com/track/6cQ8vcaLnEeFSLEYQZU6xQ"
@@ -17258,7 +17402,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-13",
+      "date_removed": null,
       "duration_ms": 253978,
       "name": "pridefool",
       "url": "https://open.spotify.com/track/1fHnQvB8Hhz5hC7dzBqecu"
@@ -17374,7 +17518,7 @@
       ],
       "date_added": "2026-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 228000,
       "name": "Psycho",
       "url": "https://open.spotify.com/track/6Ir7tSe7EsjPKq6FdFZJyI"
@@ -17666,7 +17810,7 @@
       ],
       "date_added": "2026-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-05",
+      "date_removed": null,
       "duration_ms": 258249,
       "name": "Red Rock Sunshine",
       "url": "https://open.spotify.com/track/5QfmSPJ4oVCgUfST8VW5Qs"
@@ -18604,7 +18748,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 169176,
       "name": "Saudade",
       "url": "https://open.spotify.com/track/6qN7Qb4ilAhYjMFVrHsjNY"
@@ -19030,7 +19174,7 @@
       ],
       "date_added": "2026-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-11",
+      "date_removed": null,
       "duration_ms": 291000,
       "name": "Shadow Aspect",
       "url": "https://open.spotify.com/track/0j9FLQ7SQFZPaKbo44J17s"
@@ -19888,7 +20032,7 @@
       ],
       "date_added": "2026-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 248000,
       "name": "Slipping away",
       "url": "https://open.spotify.com/track/67iGteenwJZQbZJ4yTBb2m"
@@ -23734,7 +23878,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 253456,
       "name": "Time",
       "url": "https://open.spotify.com/track/6E2d2GMw6cAp9Tla3V9VRM"
@@ -24322,7 +24466,7 @@
       ],
       "date_added": "2026-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 204904,
       "name": "Twin Flame",
       "url": "https://open.spotify.com/track/3XxBrO10PWfyHVR7AbaypL"
@@ -24434,6 +24578,24 @@
       "duration_ms": 155637,
       "name": "two vampires",
       "url": "https://open.spotify.com/track/7i4gNccpFhJaT4yMHPsWN2"
+    },
+    {
+      "album": {
+        "name": "ulrika_adjacent_132.exe",
+        "url": "https://open.spotify.com/album/3Y6zJHiWnVc0tYHmxuz4PO"
+      },
+      "artists": [
+        {
+          "name": "Ulrika Spacek",
+          "url": "https://open.spotify.com/artist/07vC6cutbett8UknXnqxsu"
+        }
+      ],
+      "date_added": "2026-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240745,
+      "name": "ulrika_adjacent_132.exe",
+      "url": "https://open.spotify.com/track/4TG9Ovn6pIb3v3VLhqLRqN"
     },
     {
       "album": {
@@ -25778,7 +25940,7 @@
       ],
       "date_added": "2026-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 347000,
       "name": "What Do You See?",
       "url": "https://open.spotify.com/track/15oetushp1flIyQ6ctHzVE"
@@ -26436,7 +26598,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 196000,
       "name": "Wire Drums",
       "url": "https://open.spotify.com/track/7B1gHIY0OGm31o35D6mzEg"
@@ -26656,7 +26818,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-08",
+      "date_removed": null,
       "duration_ms": 199915,
       "name": "Yielding And Melting",
       "url": "https://open.spotify.com/track/1cOjn8QDRIDGxCb8H1q4vC"
@@ -26696,6 +26858,24 @@
       "duration_ms": 148558,
       "name": "You Look So Alive",
       "url": "https://open.spotify.com/track/3gMDGYhdq1W4SBUfM7QEj1"
+    },
+    {
+      "album": {
+        "name": "You Think I Care",
+        "url": "https://open.spotify.com/album/6fW2WvcLxb23SZQ82hhFFZ"
+      },
+      "artists": [
+        {
+          "name": "Seven Pound Halo",
+          "url": "https://open.spotify.com/artist/0glhLfayMZXHMZyV4nPmqL"
+        }
+      ],
+      "date_added": "2026-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230400,
+      "name": "You Think I Care",
+      "url": "https://open.spotify.com/track/1cIu80Ia1EBGAFT5QalKap"
     },
     {
       "album": {

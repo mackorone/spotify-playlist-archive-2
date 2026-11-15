@@ -1,6 +1,6 @@
 {
   "description": "Aggressive trap and bass for the <a href=\"spotify:genre:edm_dance\">gym</a> ",
-  "num_followers": 2563743,
+  "num_followers": 2563644,
   "original_name": "Hype",
   "owner": {
     "name": "Spotify",
@@ -659,22 +659,6 @@
     {
       "added_at": "2026-10-30 04:01:27",
       "album": {
-        "name": "TYNAN TIME",
-        "url": "https://open.spotify.com/album/6vKHfrw3se3Hq12A0cNvS5"
-      },
-      "artists": [
-        {
-          "name": "TYNAN",
-          "url": "https://open.spotify.com/artist/5oiSxivTCIoOk5UlMSwzWM"
-        }
-      ],
-      "duration_ms": 158095,
-      "name": "his name is",
-      "url": "https://open.spotify.com/track/5AMTt4QNINkJs1Hq48xD3m"
-    },
-    {
-      "added_at": "2026-10-30 04:01:27",
-      "album": {
         "name": "Fuck It Up",
         "url": "https://open.spotify.com/album/2ByC6BK9XEUuK043NpUGB3"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 132974,
       "name": "Fuck It Up",
       "url": "https://open.spotify.com/track/0PBQS0GycsYJ4yJJRjAIXU"
+    },
+    {
+      "added_at": "2026-10-30 04:01:27",
+      "album": {
+        "name": "TYNAN TIME",
+        "url": "https://open.spotify.com/album/6vKHfrw3se3Hq12A0cNvS5"
+      },
+      "artists": [
+        {
+          "name": "TYNAN",
+          "url": "https://open.spotify.com/artist/5oiSxivTCIoOk5UlMSwzWM"
+        }
+      ],
+      "duration_ms": 158095,
+      "name": "his name is",
+      "url": "https://open.spotify.com/track/5AMTt4QNINkJs1Hq48xD3m"
     },
     {
       "added_at": "2026-10-30 04:01:27",
@@ -847,18 +847,22 @@
     {
       "added_at": "2026-10-30 04:01:27",
       "album": {
-        "name": "Build Me Up",
-        "url": "https://open.spotify.com/album/6ydh1dWnNuXWFOclogs2wt"
+        "name": "Lock In",
+        "url": "https://open.spotify.com/album/3n1XJnPD5bMzskwPLtgAoY"
       },
       "artists": [
         {
-          "name": "Zomboy",
-          "url": "https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq"
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        },
+        {
+          "name": "Wooli",
+          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
         }
       ],
-      "duration_ms": 182068,
-      "name": "Build Me Up",
-      "url": "https://open.spotify.com/track/56YhQOAF0X8Ch4qT3blnZP"
+      "duration_ms": 215172,
+      "name": "Lock In",
+      "url": "https://open.spotify.com/track/0A6IKTxklEXg3GhSZrudG7"
     },
     {
       "added_at": "2026-10-30 04:01:27",
@@ -899,22 +903,18 @@
     {
       "added_at": "2026-10-30 04:01:27",
       "album": {
-        "name": "Lock In",
-        "url": "https://open.spotify.com/album/3n1XJnPD5bMzskwPLtgAoY"
+        "name": "Build Me Up",
+        "url": "https://open.spotify.com/album/6ydh1dWnNuXWFOclogs2wt"
       },
       "artists": [
         {
-          "name": "Subtronics",
-          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
-        },
-        {
-          "name": "Wooli",
-          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
+          "name": "Zomboy",
+          "url": "https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq"
         }
       ],
-      "duration_ms": 215172,
-      "name": "Lock In",
-      "url": "https://open.spotify.com/track/0A6IKTxklEXg3GhSZrudG7"
+      "duration_ms": 182068,
+      "name": "Build Me Up",
+      "url": "https://open.spotify.com/track/56YhQOAF0X8Ch4qT3blnZP"
     },
     {
       "added_at": "2026-10-30 04:01:27",
@@ -991,18 +991,26 @@
     {
       "added_at": "2026-10-30 04:01:27",
       "album": {
-        "name": "Sh*t's On F*re",
-        "url": "https://open.spotify.com/album/6jlXZqo4qk0Fge6efnXXfS"
+        "name": "Bass Down Low (feat. DEV) [Trap Version]",
+        "url": "https://open.spotify.com/album/3bi9DlUjl64Rcd6gMddtek"
       },
       "artists": [
         {
-          "name": "Virtual Riot",
-          "url": "https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1"
+          "name": "KSHMR",
+          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
+        },
+        {
+          "name": "MEMBA",
+          "url": "https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u"
+        },
+        {
+          "name": "DEV",
+          "url": "https://open.spotify.com/artist/7Ip2u3e5Nv6fFb5xyIHxEE"
         }
       ],
-      "duration_ms": 244800,
-      "name": "Sh*t's On F*re",
-      "url": "https://open.spotify.com/track/53VFQ23T8h7f4ECrih68nP"
+      "duration_ms": 166400,
+      "name": "Bass Down Low (feat. DEV) [Trap Version]",
+      "url": "https://open.spotify.com/track/6ww3QtV3wV0qBfgYCfFu3C"
     },
     {
       "added_at": "2026-10-30 04:01:27",
@@ -1027,26 +1035,18 @@
     {
       "added_at": "2026-10-30 04:01:27",
       "album": {
-        "name": "Bass Down Low (feat. DEV) [Trap Version]",
-        "url": "https://open.spotify.com/album/3bi9DlUjl64Rcd6gMddtek"
+        "name": "Sh*t's On F*re",
+        "url": "https://open.spotify.com/album/6jlXZqo4qk0Fge6efnXXfS"
       },
       "artists": [
         {
-          "name": "KSHMR",
-          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
-        },
-        {
-          "name": "MEMBA",
-          "url": "https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u"
-        },
-        {
-          "name": "DEV",
-          "url": "https://open.spotify.com/artist/7Ip2u3e5Nv6fFb5xyIHxEE"
+          "name": "Virtual Riot",
+          "url": "https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1"
         }
       ],
-      "duration_ms": 166400,
-      "name": "Bass Down Low (feat. DEV) [Trap Version]",
-      "url": "https://open.spotify.com/track/6ww3QtV3wV0qBfgYCfFu3C"
+      "duration_ms": 244800,
+      "name": "Sh*t's On F*re",
+      "url": "https://open.spotify.com/track/53VFQ23T8h7f4ECrih68nP"
     },
     {
       "added_at": "2026-10-30 04:01:27",
@@ -1299,30 +1299,6 @@
     {
       "added_at": "2026-10-30 04:01:27",
       "album": {
-        "name": "Bodybag",
-        "url": "https://open.spotify.com/album/2RTt2Rls9gk9Li1XRfKg6T"
-      },
-      "artists": [
-        {
-          "name": "Bou",
-          "url": "https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13"
-        },
-        {
-          "name": "SOTA",
-          "url": "https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP"
-        },
-        {
-          "name": "B Live",
-          "url": "https://open.spotify.com/artist/5Dyi0c3gAWXi520W10rX1U"
-        }
-      ],
-      "duration_ms": 170057,
-      "name": "Bodybag",
-      "url": "https://open.spotify.com/track/3z4PR5rouZvYh7QSOVflts"
-    },
-    {
-      "added_at": "2026-10-30 04:01:27",
-      "album": {
         "name": "Gyrate (ft. Wreckno)",
         "url": "https://open.spotify.com/album/2QYJoHbkmHuWUiRxxcOeEd"
       },
@@ -1347,22 +1323,26 @@
     {
       "added_at": "2026-10-30 04:01:27",
       "album": {
-        "name": "ACID",
-        "url": "https://open.spotify.com/album/3hObmnjaub2zwiSM73tQu9"
+        "name": "Bodybag",
+        "url": "https://open.spotify.com/album/2RTt2Rls9gk9Li1XRfKg6T"
       },
       "artists": [
         {
-          "name": "Wooli",
-          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
+          "name": "Bou",
+          "url": "https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13"
         },
         {
-          "name": "SampliFire",
-          "url": "https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa"
+          "name": "SOTA",
+          "url": "https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP"
+        },
+        {
+          "name": "B Live",
+          "url": "https://open.spotify.com/artist/5Dyi0c3gAWXi520W10rX1U"
         }
       ],
-      "duration_ms": 178285,
-      "name": "ACID",
-      "url": "https://open.spotify.com/track/24KFdeWtel3jLwZ399zwq2"
+      "duration_ms": 170057,
+      "name": "Bodybag",
+      "url": "https://open.spotify.com/track/3z4PR5rouZvYh7QSOVflts"
     },
     {
       "added_at": "2026-10-30 04:01:27",
@@ -1383,6 +1363,26 @@
       "duration_ms": 233600,
       "name": "Angels Landing",
       "url": "https://open.spotify.com/track/7z8zdcW66DyZ931P6BjnX7"
+    },
+    {
+      "added_at": "2026-10-30 04:01:27",
+      "album": {
+        "name": "ACID",
+        "url": "https://open.spotify.com/album/3hObmnjaub2zwiSM73tQu9"
+      },
+      "artists": [
+        {
+          "name": "Wooli",
+          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
+        },
+        {
+          "name": "SampliFire",
+          "url": "https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa"
+        }
+      ],
+      "duration_ms": 178285,
+      "name": "ACID",
+      "url": "https://open.spotify.com/track/24KFdeWtel3jLwZ399zwq2"
     },
     {
       "added_at": "2026-10-30 04:01:27",

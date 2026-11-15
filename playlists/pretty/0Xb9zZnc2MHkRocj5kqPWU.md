@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0Xb9zZnc2MHkRocj5kqPWU.md) - [plain]
 
 > Igor Levit, Alexis Ffrench, and other amazing artists help you take a moment, breathe, and relax with this playlist for reflection and calm.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 57,088 likes - 113 songs - 5 hr 49 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 57,080 likes - 113 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/0Xb9zZnc2MHkRocj5kqPWU.md) - [plain]
 | 31 | [Laura Marling: What He Wrote](https://open.spotify.com/track/28mrR89iMAn9mFGrpDUoEs) | [Rosie Bennet](https://open.spotify.com/artist/0kiQ1OKhXM3wmO6IGpJM7E) | [Laura Marling: What He Wrote](https://open.spotify.com/album/3Z9NFXMRlkDKLqmNwZ3gtu) | 4:08 |
 | 32 | [Pax Athanae \- Sleep Rework](https://open.spotify.com/track/2MTtwT4s6R5vYcpL5m5nAs) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Ithaca Flow](https://open.spotify.com/album/71JbSSSTIWTkDq5uGkNJJc) | 3:43 |
 | 33 | [Flow](https://open.spotify.com/track/5xAe6C5gdoZD0v8JHHpQSB) | [Eydís Evensen](https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx), [Esther Abrami](https://open.spotify.com/artist/5zCkKfOMcIx8ISU53JBPng) | [Flow](https://open.spotify.com/album/7xUH0H3d0V5NaEw86gpd0d) | 3:33 |
-| 34 | [Of Love](https://open.spotify.com/track/5nCXByE5w0fc2zwpcbNPL9) | [Alban Claudin](https://open.spotify.com/artist/6lhj65affyKVttGzdfUrJp) | [Of Love](https://open.spotify.com/album/25oLqEVvAKsitF8EM9le2q) | 3:39 |
+| 34 | [Of Love](https://open.spotify.com/track/5nCXByE5w0fc2zwpcbNPL9) | [Alban Claudin](https://open.spotify.com/artist/6lhj65affyKVttGzdfUrJp), [Pauline Klaus](https://open.spotify.com/artist/4Atr4dkTo7hzXuNEZxvM08) | [Of Love](https://open.spotify.com/album/25oLqEVvAKsitF8EM9le2q) | 3:39 |
 | 35 | [Ubi Caritas](https://open.spotify.com/track/3ZEY08AkCmwUqw71yblRxr) | [Ola Gjeilo](https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G), [Anna Lapwood](https://open.spotify.com/artist/0e2JUvil990IURjsq2PmqP), [The Chapel Choir of Pembroke College, Cambridge](https://open.spotify.com/artist/6DPxkITuYSrDAPdhISWO35) | [Ubi Caritas \(Duruflé\) & Ubi Caritas \(Gjeilo\)](https://open.spotify.com/album/2o0mTDeS1c0e52yFKe1WQe) | 3:26 |
 | 36 | [3 Mélodies, Op\. 4, No\. 2: Allegretto, H\-U 420](https://open.spotify.com/track/2sSBIFZTfju4XsTivVXmqs) | [Fanny Mendelssohn](https://open.spotify.com/artist/2Wj0NreQeOfrGxnPIaLcCi), [Louis Philippson](https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH) | [Mélodie, Op\. 4, No\. 2](https://open.spotify.com/album/2MDjS2kICHMw8brDzJczt2) | 1:47 |
 | 37 | [12 Romances, Op\. 21: V\. Lilacs \(Transcr\. Rachmaninoff for Solo Piano\)](https://open.spotify.com/track/50X1nyQm1C8wZyqtCr3WKy) | [Sergei Rachmaninoff](https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51), [Alexander Malofeev](https://open.spotify.com/artist/02QMwZF7kLqDVGDTZ5GoSw) | [12 Romances, Op\. 21: V\. Lilacs \(Transcr\. Rachmaninoff for Solo Piano\)](https://open.spotify.com/album/7iS9aKarntg9ayUf1QANzG) | 2:50 |

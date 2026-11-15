@@ -1,12 +1,12 @@
 {
   "description": "This is Def Leppard. The essential tracks, all in one playlist.",
-  "num_followers": 294667,
+  "num_followers": 294682,
   "original_name": "This Is Def Leppard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avUBgAAAAACQTRtqxtzu7+5bcSjd63bl",
+  "snapshot_id": "avZTAAAAAABR5IJwmtgOPu8P1WZrXq5i",
   "tracks": [
     {
       "added_at": null,
@@ -35,6 +35,26 @@
       "duration_ms": 243057,
       "name": "Animal",
       "url": "https://open.spotify.com/track/7G1Y5i1Hc4uUm57dqz7pAd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Volume Four: The Rarities",
+        "url": "https://open.spotify.com/album/2ZWj5afx0QcTgkTN7vSH7V"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        },
+        {
+          "name": "Sammy Hagar",
+          "url": "https://open.spotify.com/artist/1hXjTjJzZTXDZ75AclOo6N"
+        }
+      ],
+      "duration_ms": 229146,
+      "name": "Bad Motor Scooter",
+      "url": "https://open.spotify.com/track/3aEwxmr56bPIAFoymbyrxk"
     },
     {
       "added_at": null,
@@ -803,22 +823,6 @@
       "duration_ms": 222506,
       "name": "Kick",
       "url": "https://open.spotify.com/track/0sVq4exSBXyXP86svk8JBV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "X",
-        "url": "https://open.spotify.com/album/3if8cfZD6MuAc5UmwBd6By"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 240920,
-      "name": "Now",
-      "url": "https://open.spotify.com/track/71sHC5AHCow7uIka7RWztY"
     }
   ],
   "unique_name": "This Is Def Leppard",

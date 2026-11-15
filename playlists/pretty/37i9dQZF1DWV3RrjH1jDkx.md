@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag og ny musikk fra bl.a\. Ella Langley, Erlend Ropstad, Martin Hazy, og mange flere 🔎
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,849 likes - 106 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,837 likes - 106 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

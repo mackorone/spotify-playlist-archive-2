@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3S9miHGqiEuJftY8aaaBvm">Paul \(of Waterboutus\)</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-162 songs - 6 hr 44 min
+163 songs - 6 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [ECHTE LOVE](https://open.spotify.com/track/3F4WrtfP3UMC43bVPUDlMi) | [t\-low](https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD) | [ECHTE LOVE](https://open.spotify.com/album/7r2f85yuFrRSwLcWCW0Pb5) | 3:14 | 2026-06-09 |  |
 | [ECONOMY](https://open.spotify.com/track/3AyPxw53AtqLDMqohTvtGZ) | [makko](https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt) | [IM GLASHAUS MIT SCHEINEN WERFEN](https://open.spotify.com/album/3gGy4z9Pot5Khi7fLZhFqB) | 2:02 | 2026-06-09 | 2026-06-18 |
 | [ECONOMY](https://open.spotify.com/track/744E5g7AfGI5BUEqqPwFuF) | [makko](https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt) | [IM GLASHAUS MIT SCHEINEN WERFEN](https://open.spotify.com/album/3dRCzJDuGz31Br2sHSnHAb) | 2:02 | 2026-06-17 |  |
+| [fast schon frei](https://open.spotify.com/track/6MYE0gOvIj9PjJHdsCgRBw) | [Trettmann](https://open.spotify.com/artist/6QzzeKV0VcnT2vJMYDPuL4), [Lolito](https://open.spotify.com/artist/76LT1zhDz5oUDEwc8RQmBm) | [fast schon frei](https://open.spotify.com/album/4PXceGxLxyso7XLQw2oB3h) | 3:29 | 2026-11-14 |  |
 | [FRONTPAGE](https://open.spotify.com/track/7fb3D6aVEIU6P5L6J8oUxQ) | [Boondawg](https://open.spotify.com/artist/46RrxZVxLkgEbraenPAmbz), [idolinjo](https://open.spotify.com/artist/7slJ8mgbVwvyPEzQMJ5qYO) | [DONT TRY THIS AT HOME](https://open.spotify.com/album/34Px3Z7ut9gBJhCsDsasJE) | 2:55 | 2026-10-03 |  |
 | [Fussballer ⚽️](https://open.spotify.com/track/6FGPpwHlUBnl0TLGKyN4Nl) | [Bonez MC](https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6) | [Fussballer ⚽️](https://open.spotify.com/album/0vY4PEsfG24NoCi71jLpY7) | 1:23 | 2026-06-09 |  |
 | [GANGSIGNS](https://open.spotify.com/track/56RnsXj3ZH5VAElAo9H1ot) | [Boondawg](https://open.spotify.com/artist/46RrxZVxLkgEbraenPAmbz) | [GANGSIGNS](https://open.spotify.com/album/1nOnATUcB6S7E6AHqQzFH8) | 1:48 | 2026-06-09 |  |

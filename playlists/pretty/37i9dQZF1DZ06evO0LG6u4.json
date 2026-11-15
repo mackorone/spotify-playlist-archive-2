@@ -1,12 +1,12 @@
 {
   "description": "This is \u00c9liane Radigue. The essential tracks, all in one playlist.",
-  "num_followers": 430,
+  "num_followers": 431,
   "original_name": "This Is \u00c9liane Radigue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avUBgAAAAACVVbliezxtFD4QR7Xty33v",
+  "snapshot_id": "avZTAAAAAAD0Wqawx6E9JGS1nAwAd0CK",
   "tracks": [
     {
       "added_at": null,
@@ -91,22 +91,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Asymptote Versatile",
-        "url": "https://open.spotify.com/album/3OmZt9FrURjjgBE9Kxp82e"
-      },
-      "artists": [
-        {
-          "name": "\u00c9liane Radigue",
-          "url": "https://open.spotify.com/artist/1oG3G8tFIIseWu474ardvh"
-        }
-      ],
-      "duration_ms": 2623425,
-      "name": "Asymptote Versatile",
-      "url": "https://open.spotify.com/track/02lFTXyOjPtZEyHzppxYe1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Occam XIII, Occam River XI, Occam V",
         "url": "https://open.spotify.com/album/5sL7k1hBlY6ATkqnIHhxpq"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 824000,
       "name": "Occam V (for cello)",
       "url": "https://open.spotify.com/track/7tB6nmuL13EZTeqMWbYF2D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Asymptote Versatile",
+        "url": "https://open.spotify.com/album/3OmZt9FrURjjgBE9Kxp82e"
+      },
+      "artists": [
+        {
+          "name": "\u00c9liane Radigue",
+          "url": "https://open.spotify.com/artist/1oG3G8tFIIseWu474ardvh"
+        }
+      ],
+      "duration_ms": 2623425,
+      "name": "Asymptote Versatile",
+      "url": "https://open.spotify.com/track/02lFTXyOjPtZEyHzppxYe1"
     },
     {
       "added_at": null,
@@ -155,22 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Musique de notre temps (1976-1977)",
-        "url": "https://open.spotify.com/album/2T7mJ9ihJfmheoBWau3mpr"
-      },
-      "artists": [
-        {
-          "name": "\u00c9liane Radigue",
-          "url": "https://open.spotify.com/artist/1oG3G8tFIIseWu474ardvh"
-        }
-      ],
-      "duration_ms": 261799,
-      "name": "Devenir musicienne",
-      "url": "https://open.spotify.com/track/1OrlxOHSlotYdRyW9Rwvvn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Occam XIII, Occam River XI, Occam V",
         "url": "https://open.spotify.com/album/5sL7k1hBlY6ATkqnIHhxpq"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 1032000,
       "name": "Occam River XI (for bassoon and cello) - 17'12\"",
       "url": "https://open.spotify.com/track/3Ajdc2dxVamfaiXtGimWxF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Musique de notre temps (1976-1977)",
+        "url": "https://open.spotify.com/album/2T7mJ9ihJfmheoBWau3mpr"
+      },
+      "artists": [
+        {
+          "name": "\u00c9liane Radigue",
+          "url": "https://open.spotify.com/artist/1oG3G8tFIIseWu474ardvh"
+        }
+      ],
+      "duration_ms": 261799,
+      "name": "Devenir musicienne",
+      "url": "https://open.spotify.com/track/1OrlxOHSlotYdRyW9Rwvvn"
     },
     {
       "added_at": null,
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/1oG3G8tFIIseWu474ardvh"
         }
       ],
-      "duration_ms": 85626,
-      "name": "Labyrinthe sonore",
-      "url": "https://open.spotify.com/track/6dvMR0jYWpUezTSrHV7zoI"
+      "duration_ms": 58000,
+      "name": "Perception par l'auditeur",
+      "url": "https://open.spotify.com/track/5E215k1evgzekQVh0nCiBA"
     },
     {
       "added_at": null,
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/1oG3G8tFIIseWu474ardvh"
         }
       ],
-      "duration_ms": 58000,
-      "name": "Perception par l'auditeur",
-      "url": "https://open.spotify.com/track/5E215k1evgzekQVh0nCiBA"
+      "duration_ms": 123191,
+      "name": "Sur Adnos 2",
+      "url": "https://open.spotify.com/track/36ntgBvWdiYqbTWiqt0TX1"
     },
     {
       "added_at": null,
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/1oG3G8tFIIseWu474ardvh"
         }
       ],
-      "duration_ms": 105400,
-      "name": "Mutation de l'oeuvre",
-      "url": "https://open.spotify.com/track/1nedFmpJF1Cnqu1QsOqbzu"
+      "duration_ms": 85626,
+      "name": "Labyrinthe sonore",
+      "url": "https://open.spotify.com/track/6dvMR0jYWpUezTSrHV7zoI"
     },
     {
       "added_at": null,
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/1oG3G8tFIIseWu474ardvh"
         }
       ],
-      "duration_ms": 100019,
-      "name": "Le reflet",
-      "url": "https://open.spotify.com/track/6DxYjk3VnYEKOzNgyi7cXc"
+      "duration_ms": 86362,
+      "name": "Sur Adnos",
+      "url": "https://open.spotify.com/track/48E7jZljAcsGWf2UDKmTp3"
     }
   ],
   "unique_name": "This Is \u00c9liane Radigue",

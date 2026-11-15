@@ -1,6 +1,6 @@
 {
   "description": "Playlist Takeover by Bligg!",
-  "num_followers": 13835,
+  "num_followers": 13837,
   "original_name": "Alte Schule",
   "owner": {
     "name": "Spotify",
@@ -655,22 +655,18 @@
     {
       "added_at": "2026-10-08 22:00:12",
       "album": {
-        "name": "Dr einzig W\u00e4g",
-        "url": "https://open.spotify.com/album/6WMbMSXyaowPhQV5sXXAhE"
+        "name": "Introspektion",
+        "url": "https://open.spotify.com/album/21S84n0cOoQmfDVUyD8TrO"
       },
       "artists": [
         {
-          "name": "P-27",
-          "url": "https://open.spotify.com/artist/0iZYuDnS5bC4TkPV6qjfwZ"
-        },
-        {
-          "name": "MC Rony",
-          "url": "https://open.spotify.com/artist/56Kjn0hNGTllLfRC0YHqrq"
+          "name": "Taz",
+          "url": "https://open.spotify.com/artist/2aKdREOO8umyTjMapXmKbS"
         }
       ],
-      "duration_ms": 230960,
-      "name": "Geballte Hip Hop",
-      "url": "https://open.spotify.com/track/6LqQztJDvD5ogdiAaC7bGr"
+      "duration_ms": 251626,
+      "name": "Brugg",
+      "url": "https://open.spotify.com/track/1HjO1qlADcfS0B11LNMmww"
     },
     {
       "added_at": "2026-10-08 22:00:12",
@@ -699,18 +695,22 @@
     {
       "added_at": "2026-10-08 22:00:12",
       "album": {
-        "name": "Introspektion",
-        "url": "https://open.spotify.com/album/21S84n0cOoQmfDVUyD8TrO"
+        "name": "Dr einzig W\u00e4g",
+        "url": "https://open.spotify.com/album/6WMbMSXyaowPhQV5sXXAhE"
       },
       "artists": [
         {
-          "name": "Taz",
-          "url": "https://open.spotify.com/artist/2aKdREOO8umyTjMapXmKbS"
+          "name": "P-27",
+          "url": "https://open.spotify.com/artist/0iZYuDnS5bC4TkPV6qjfwZ"
+        },
+        {
+          "name": "MC Rony",
+          "url": "https://open.spotify.com/artist/56Kjn0hNGTllLfRC0YHqrq"
         }
       ],
-      "duration_ms": 251626,
-      "name": "Brugg",
-      "url": "https://open.spotify.com/track/1HjO1qlADcfS0B11LNMmww"
+      "duration_ms": 230960,
+      "name": "Geballte Hip Hop",
+      "url": "https://open.spotify.com/track/6LqQztJDvD5ogdiAaC7bGr"
     },
     {
       "added_at": "2026-10-08 22:00:12",

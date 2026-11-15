@@ -27271,6 +27271,28 @@
     },
     {
       "album": {
+        "name": "keegi2veel",
+        "url": "https://open.spotify.com/album/6GSSy0tWf8zxMUQsZZ9eZT"
+      },
+      "artists": [
+        {
+          "name": "villemdrillem",
+          "url": "https://open.spotify.com/artist/5nZADoZFWVB90dHpk5zvXy"
+        },
+        {
+          "name": "boipepperoni",
+          "url": "https://open.spotify.com/artist/0MjPNmazpZOmBH1nOMaeQY"
+        }
+      ],
+      "date_added": "2026-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195490,
+      "name": "keegi2veel",
+      "url": "https://open.spotify.com/track/7tegxwZdT7XDXqPxYmz4zH"
+    },
+    {
+      "album": {
         "name": "Harry's House",
         "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
       },
@@ -28148,7 +28170,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 267000,
       "name": "Kolmest soovist viimane",
       "url": "https://open.spotify.com/track/1L5mFtFhrOae6PCBoEOQUz"
@@ -31330,7 +31352,7 @@
       ],
       "date_added": "2025-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-09",
+      "date_removed": null,
       "duration_ms": 176000,
       "name": "LLC",
       "url": "https://open.spotify.com/track/5JhljRLzNxMRHho5AoQzAM"
@@ -37562,7 +37584,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 228360,
       "name": "My Moon My Man",
       "url": "https://open.spotify.com/track/4fQVQKIiidREPI0MhFEuDn"
@@ -40520,7 +40542,7 @@
       ],
       "date_added": "2026-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 131186,
       "name": "onsra",
       "url": "https://open.spotify.com/track/7wS6EAZast0FJGw79CXGND"
@@ -58930,7 +58952,7 @@
       ],
       "date_added": "2026-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-14",
+      "date_removed": null,
       "duration_ms": 169714,
       "name": "Vaadi hele (chug chug)",
       "url": "https://open.spotify.com/track/0neOGgUXx8onOu46hlXKNc"

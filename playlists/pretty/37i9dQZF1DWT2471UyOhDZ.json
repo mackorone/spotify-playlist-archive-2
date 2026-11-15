@@ -1,12 +1,12 @@
 {
   "description": "A hand-picked selection for an extraordinary palette. Cover: Kings of Leon",
-  "num_followers": 93537,
+  "num_followers": 93535,
   "original_name": "The Listening Post",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANuSUj+uqsXCS+AASbAji787d9Wk",
+  "snapshot_id": "AAAAALiFEeE8DKOqW2DNKjHs/Dn1isqI",
   "tracks": [
     {
       "added_at": "2026-11-06 00:01:13",
@@ -519,6 +519,22 @@
     {
       "added_at": "2026-11-06 00:01:13",
       "album": {
+        "name": "Doom Country",
+        "url": "https://open.spotify.com/album/5vSqwLudI1148yxdAD80uG"
+      },
+      "artists": [
+        {
+          "name": "Hudson Freeman",
+          "url": "https://open.spotify.com/artist/6k3W2iGuRZrhUnfVZOMQo8"
+        }
+      ],
+      "duration_ms": 243702,
+      "name": "Texas in Flaming Tongues",
+      "url": "https://open.spotify.com/track/6uE4NJuNswdm3DpVqXTCTG"
+    },
+    {
+      "added_at": "2026-11-06 00:01:13",
+      "album": {
         "name": "Anticipate",
         "url": "https://open.spotify.com/album/1hy99Geeqk41ERKiyLz0b1"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 266759,
       "name": "Puppet - Taken From Peaky Blinders: The Immortal Man (Soundtrack from the Netflix Film)",
       "url": "https://open.spotify.com/track/7dtX124bngqv8RPPccWYUC"
-    },
-    {
-      "added_at": "2026-11-06 00:01:13",
-      "album": {
-        "name": "Doom Country",
-        "url": "https://open.spotify.com/album/5vSqwLudI1148yxdAD80uG"
-      },
-      "artists": [
-        {
-          "name": "Hudson Freeman",
-          "url": "https://open.spotify.com/artist/6k3W2iGuRZrhUnfVZOMQo8"
-        }
-      ],
-      "duration_ms": 243702,
-      "name": "Texas in Flaming Tongues",
-      "url": "https://open.spotify.com/track/6uE4NJuNswdm3DpVqXTCTG"
     },
     {
       "added_at": "2026-11-06 00:01:13",
@@ -647,22 +647,6 @@
     {
       "added_at": "2026-11-06 00:01:13",
       "album": {
-        "name": "Moving Target",
-        "url": "https://open.spotify.com/album/4CBGWqdfWqIKs8WvfjWn8z"
-      },
-      "artists": [
-        {
-          "name": "Lime Garden",
-          "url": "https://open.spotify.com/artist/5GA6j57yIPCBrWk1lTvF9o"
-        }
-      ],
-      "duration_ms": 195811,
-      "name": "Moving Target",
-      "url": "https://open.spotify.com/track/4AE2XU5eDmnXzQGhO3IZDt"
-    },
-    {
-      "added_at": "2026-11-06 00:01:13",
-      "album": {
         "name": "Days We Left Behind",
         "url": "https://open.spotify.com/album/2OoaCsbD9saV4x6LRh73gY"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 198235,
       "name": "Days We Left Behind",
       "url": "https://open.spotify.com/track/3kiOcEPP4WyssVslhHSL7A"
+    },
+    {
+      "added_at": "2026-11-06 00:01:13",
+      "album": {
+        "name": "Moving Target",
+        "url": "https://open.spotify.com/album/4CBGWqdfWqIKs8WvfjWn8z"
+      },
+      "artists": [
+        {
+          "name": "Lime Garden",
+          "url": "https://open.spotify.com/artist/5GA6j57yIPCBrWk1lTvF9o"
+        }
+      ],
+      "duration_ms": 195811,
+      "name": "Moving Target",
+      "url": "https://open.spotify.com/track/4AE2XU5eDmnXzQGhO3IZDt"
     },
     {
       "added_at": "2026-11-06 00:01:13",
@@ -943,6 +943,22 @@
     {
       "added_at": "2026-11-06 00:01:13",
       "album": {
+        "name": "Pilots Licence / Cliffs Of Dooneen",
+        "url": "https://open.spotify.com/album/1qua0b2Z6gMiRPLyTBLGsu"
+      },
+      "artists": [
+        {
+          "name": "Dermot Henry",
+          "url": "https://open.spotify.com/artist/0RhsllRA8vVKWSiBxuF77H"
+        }
+      ],
+      "duration_ms": 219981,
+      "name": "Pilots Licence",
+      "url": "https://open.spotify.com/track/7czDMYoS1wy02sqmvI46mR"
+    },
+    {
+      "added_at": "2026-11-06 00:01:13",
+      "album": {
         "name": "The Hardest Thing",
         "url": "https://open.spotify.com/album/7LOVR9BqnzBE3fXoeq9XUi"
       },
@@ -975,22 +991,6 @@
     {
       "added_at": "2026-11-06 00:01:13",
       "album": {
-        "name": "Oh No Now My",
-        "url": "https://open.spotify.com/album/6Qex2dWIX0M5LPHLTJq4Sr"
-      },
-      "artists": [
-        {
-          "name": "This Is Lorelei",
-          "url": "https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun"
-        }
-      ],
-      "duration_ms": 188453,
-      "name": "Oh No Now My",
-      "url": "https://open.spotify.com/track/2MbLMnGeW92YVBbsyHM5WR"
-    },
-    {
-      "added_at": "2026-11-06 00:01:13",
-      "album": {
         "name": "So it goes",
         "url": "https://open.spotify.com/album/3DezGjyrh1Hwa6mdiqSPNb"
       },
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2026-11-06 00:01:13",
       "album": {
-        "name": "Pilots Licence / Cliffs Of Dooneen",
-        "url": "https://open.spotify.com/album/1qua0b2Z6gMiRPLyTBLGsu"
+        "name": "Oh No Now My",
+        "url": "https://open.spotify.com/album/6Qex2dWIX0M5LPHLTJq4Sr"
       },
       "artists": [
         {
-          "name": "Dermot Henry",
-          "url": "https://open.spotify.com/artist/0RhsllRA8vVKWSiBxuF77H"
+          "name": "This Is Lorelei",
+          "url": "https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun"
         }
       ],
-      "duration_ms": 219981,
-      "name": "Pilots Licence",
-      "url": "https://open.spotify.com/track/7czDMYoS1wy02sqmvI46mR"
+      "duration_ms": 188453,
+      "name": "Oh No Now My",
+      "url": "https://open.spotify.com/track/2MbLMnGeW92YVBbsyHM5WR"
     },
     {
       "added_at": "2026-11-06 00:01:13",
@@ -1247,18 +1247,18 @@
     {
       "added_at": "2026-11-06 00:01:13",
       "album": {
-        "name": "Chapter 4",
-        "url": "https://open.spotify.com/album/7iVISoawYt4py8izsqOdq7"
+        "name": "Lose All Your Friends",
+        "url": "https://open.spotify.com/album/6CNGYWi0QtwDh80KcIvnWS"
       },
       "artists": [
         {
-          "name": "Imogen Heap",
-          "url": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
+          "name": "Friendly Fires",
+          "url": "https://open.spotify.com/artist/3mZqziCJj4pq3P2VBpmK6p"
         }
       ],
-      "duration_ms": 197119,
-      "name": "Chapter 4",
-      "url": "https://open.spotify.com/track/7wsi6doEPUrUlFJYylmApv"
+      "duration_ms": 301893,
+      "name": "Lose All Your Friends",
+      "url": "https://open.spotify.com/track/0kvAaEfGZnzBQaUmqUJ2ct"
     },
     {
       "added_at": "2026-11-06 00:01:13",
@@ -1279,34 +1279,18 @@
     {
       "added_at": "2026-11-06 00:01:13",
       "album": {
-        "name": "L/C",
-        "url": "https://open.spotify.com/album/10mj7mGyCTMrbRgj0IE82i"
+        "name": "Chapter 4",
+        "url": "https://open.spotify.com/album/7iVISoawYt4py8izsqOdq7"
       },
       "artists": [
         {
-          "name": "Westerman",
-          "url": "https://open.spotify.com/artist/09s6bLEw45wioK9ytf3nsA"
+          "name": "Imogen Heap",
+          "url": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
         }
       ],
-      "duration_ms": 253484,
-      "name": "L/C",
-      "url": "https://open.spotify.com/track/5qtalyIqYJ8m2PxoNFywMy"
-    },
-    {
-      "added_at": "2026-11-06 00:01:13",
-      "album": {
-        "name": "Win Win",
-        "url": "https://open.spotify.com/album/1m7TJkQQIOxx7gfkvaKt6f"
-      },
-      "artists": [
-        {
-          "name": "Fenne Lily",
-          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
-        }
-      ],
-      "duration_ms": 163479,
-      "name": "Stranger Things",
-      "url": "https://open.spotify.com/track/1Jl5HcTkOOKKLQ4IiT7odi"
+      "duration_ms": 197119,
+      "name": "Chapter 4",
+      "url": "https://open.spotify.com/track/7wsi6doEPUrUlFJYylmApv"
     },
     {
       "added_at": "2026-11-06 00:01:13",
@@ -1327,18 +1311,34 @@
     {
       "added_at": "2026-11-06 00:01:13",
       "album": {
-        "name": "Lose All Your Friends",
-        "url": "https://open.spotify.com/album/6CNGYWi0QtwDh80KcIvnWS"
+        "name": "Win Win",
+        "url": "https://open.spotify.com/album/1m7TJkQQIOxx7gfkvaKt6f"
       },
       "artists": [
         {
-          "name": "Friendly Fires",
-          "url": "https://open.spotify.com/artist/3mZqziCJj4pq3P2VBpmK6p"
+          "name": "Fenne Lily",
+          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
         }
       ],
-      "duration_ms": 301893,
-      "name": "Lose All Your Friends",
-      "url": "https://open.spotify.com/track/0kvAaEfGZnzBQaUmqUJ2ct"
+      "duration_ms": 163479,
+      "name": "Stranger Things",
+      "url": "https://open.spotify.com/track/1Jl5HcTkOOKKLQ4IiT7odi"
+    },
+    {
+      "added_at": "2026-11-06 00:01:13",
+      "album": {
+        "name": "L/C",
+        "url": "https://open.spotify.com/album/10mj7mGyCTMrbRgj0IE82i"
+      },
+      "artists": [
+        {
+          "name": "Westerman",
+          "url": "https://open.spotify.com/artist/09s6bLEw45wioK9ytf3nsA"
+        }
+      ],
+      "duration_ms": 253484,
+      "name": "L/C",
+      "url": "https://open.spotify.com/track/5qtalyIqYJ8m2PxoNFywMy"
     },
     {
       "added_at": "2026-11-06 00:01:13",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2026-11-06 00:01:13",
       "album": {
-        "name": "Tiger's Blood",
-        "url": "https://open.spotify.com/album/6hwLrLcbPU936YeG0rTHah"
-      },
-      "artists": [
-        {
-          "name": "Brandon Flowers",
-          "url": "https://open.spotify.com/artist/18Zv2g2vUcEGqJf6WnjfXN"
-        }
-      ],
-      "duration_ms": 250928,
-      "name": "Tiger's Blood",
-      "url": "https://open.spotify.com/track/4RTF94P3ywTBCtcJ3Crw9k"
-    },
-    {
-      "added_at": "2026-11-06 00:01:13",
-      "album": {
         "name": "My New Band Believe",
         "url": "https://open.spotify.com/album/0FypCc1StF9mNiLemcuJ3J"
       },
@@ -1471,18 +1455,50 @@
     {
       "added_at": "2026-11-06 00:01:13",
       "album": {
-        "name": "Disappearing Act",
-        "url": "https://open.spotify.com/album/5MYLrD2ltm4LAJ2W02u7DV"
+        "name": "It Goes On",
+        "url": "https://open.spotify.com/album/3KA5QA2o7yMkCAbMQNq0oL"
       },
       "artists": [
         {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+          "name": "Westside Cowboy",
+          "url": "https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2"
         }
       ],
-      "duration_ms": 179328,
-      "name": "Disappearing Act",
-      "url": "https://open.spotify.com/track/5HzWItiJH85G6OSs9h81uY"
+      "duration_ms": 238563,
+      "name": "Worried Age",
+      "url": "https://open.spotify.com/track/3wlhh0YM7QZncZezRwEOh2"
+    },
+    {
+      "added_at": "2026-11-06 00:01:13",
+      "album": {
+        "name": "Tiger's Blood",
+        "url": "https://open.spotify.com/album/6hwLrLcbPU936YeG0rTHah"
+      },
+      "artists": [
+        {
+          "name": "Brandon Flowers",
+          "url": "https://open.spotify.com/artist/18Zv2g2vUcEGqJf6WnjfXN"
+        }
+      ],
+      "duration_ms": 250928,
+      "name": "Tiger's Blood",
+      "url": "https://open.spotify.com/track/4RTF94P3ywTBCtcJ3Crw9k"
+    },
+    {
+      "added_at": "2026-11-06 00:01:13",
+      "album": {
+        "name": "Maybe Not Tonight",
+        "url": "https://open.spotify.com/album/7EO4tVModdOi5Xh3m7uEzC"
+      },
+      "artists": [
+        {
+          "name": "Lime Garden",
+          "url": "https://open.spotify.com/artist/5GA6j57yIPCBrWk1lTvF9o"
+        }
+      ],
+      "duration_ms": 165121,
+      "name": "Maybe Not Tonight",
+      "url": "https://open.spotify.com/track/7bOyVnYY469Zavjtxcf47f"
     },
     {
       "added_at": "2026-11-06 00:01:13",
@@ -1507,54 +1523,6 @@
     {
       "added_at": "2026-11-06 00:01:13",
       "album": {
-        "name": "It Goes On",
-        "url": "https://open.spotify.com/album/3KA5QA2o7yMkCAbMQNq0oL"
-      },
-      "artists": [
-        {
-          "name": "Westside Cowboy",
-          "url": "https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2"
-        }
-      ],
-      "duration_ms": 238563,
-      "name": "Worried Age",
-      "url": "https://open.spotify.com/track/3wlhh0YM7QZncZezRwEOh2"
-    },
-    {
-      "added_at": "2026-11-06 00:01:13",
-      "album": {
-        "name": "Maybe Not Tonight",
-        "url": "https://open.spotify.com/album/7EO4tVModdOi5Xh3m7uEzC"
-      },
-      "artists": [
-        {
-          "name": "Lime Garden",
-          "url": "https://open.spotify.com/artist/5GA6j57yIPCBrWk1lTvF9o"
-        }
-      ],
-      "duration_ms": 165121,
-      "name": "Maybe Not Tonight",
-      "url": "https://open.spotify.com/track/7bOyVnYY469Zavjtxcf47f"
-    },
-    {
-      "added_at": "2026-11-06 00:01:13",
-      "album": {
-        "name": "Something Fragile",
-        "url": "https://open.spotify.com/album/1mxQ2nQlOEeXimggDOyFB2"
-      },
-      "artists": [
-        {
-          "name": "Cate Le Bon",
-          "url": "https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "Something Fragile",
-      "url": "https://open.spotify.com/track/7wLshhX7n4JkGTdxixHDa5"
-    },
-    {
-      "added_at": "2026-11-06 00:01:13",
-      "album": {
         "name": "Doveland",
         "url": "https://open.spotify.com/album/1xIhnCw6TnGf1wuCIjeofL"
       },
@@ -1575,18 +1543,34 @@
     {
       "added_at": "2026-11-06 00:01:13",
       "album": {
-        "name": "The Sweet Goodbye",
-        "url": "https://open.spotify.com/album/1BX2CLG8MBglhD83tVUJvL"
+        "name": "Disappearing Act",
+        "url": "https://open.spotify.com/album/5MYLrD2ltm4LAJ2W02u7DV"
       },
       "artists": [
         {
-          "name": "Opus Kink",
-          "url": "https://open.spotify.com/artist/1qDKbZJLaLlsaI7e6mHqm3"
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
         }
       ],
-      "duration_ms": 388781,
-      "name": "Crucify!",
-      "url": "https://open.spotify.com/track/7IVv7usio5jsGIK6lFRvAN"
+      "duration_ms": 179328,
+      "name": "Disappearing Act",
+      "url": "https://open.spotify.com/track/5HzWItiJH85G6OSs9h81uY"
+    },
+    {
+      "added_at": "2026-11-06 00:01:13",
+      "album": {
+        "name": "Something Fragile",
+        "url": "https://open.spotify.com/album/1mxQ2nQlOEeXimggDOyFB2"
+      },
+      "artists": [
+        {
+          "name": "Cate Le Bon",
+          "url": "https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "Something Fragile",
+      "url": "https://open.spotify.com/track/7wLshhX7n4JkGTdxixHDa5"
     },
     {
       "added_at": "2026-11-06 00:01:13",
@@ -1619,6 +1603,22 @@
       "duration_ms": 130785,
       "name": "But You Just Woke Me Up",
       "url": "https://open.spotify.com/track/3O3qS7OEH1cIFfDzzWO3ym"
+    },
+    {
+      "added_at": "2026-11-06 00:01:13",
+      "album": {
+        "name": "The Sweet Goodbye",
+        "url": "https://open.spotify.com/album/1BX2CLG8MBglhD83tVUJvL"
+      },
+      "artists": [
+        {
+          "name": "Opus Kink",
+          "url": "https://open.spotify.com/artist/1qDKbZJLaLlsaI7e6mHqm3"
+        }
+      ],
+      "duration_ms": 388781,
+      "name": "Crucify!",
+      "url": "https://open.spotify.com/track/7IVv7usio5jsGIK6lFRvAN"
     },
     {
       "added_at": "2026-11-06 00:01:13",

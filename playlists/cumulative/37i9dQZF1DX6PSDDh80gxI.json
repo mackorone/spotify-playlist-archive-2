@@ -10589,6 +10589,24 @@
     },
     {
       "album": {
+        "name": "sono IO!",
+        "url": "https://open.spotify.com/album/1Spw6vGuMLQMy9WpN3ra07"
+      },
+      "artists": [
+        {
+          "name": "@gabriele",
+          "url": "https://open.spotify.com/artist/6RyYnt3Q1ebcbLxYOtE9bb"
+        }
+      ],
+      "date_added": "2026-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119613,
+      "name": "sono IO!",
+      "url": "https://open.spotify.com/track/3HvGP28Oy5NyACfnWQs6aF"
+    },
+    {
+      "album": {
         "name": "Supernova",
         "url": "https://open.spotify.com/album/70ltpOxhlMHnAM6DSIerd5"
       },

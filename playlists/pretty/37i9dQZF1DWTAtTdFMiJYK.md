@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 
 > Most exciting artists from the Indian Indie scene\. Cover: Niyam
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,410 likes - 75 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,542 likes - 75 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 | 41 | [Bolo Bolo](https://open.spotify.com/track/4Aqd89LSf5OnqWGeKO9mP9) | [W.i.S.H.](https://open.spotify.com/artist/2vLEmJVZps65484RfPMM1k), [Panther](https://open.spotify.com/artist/1HnV8VaGdip3y1SpJPgft0) | [Bolo Bolo](https://open.spotify.com/album/6n1ZzFVuQoI2NZLxQTxRUD) | 3:57 |
 | 42 | [Uljhan](https://open.spotify.com/track/13nrujwIxpJl1xtoDpvxyY) | [Parth Srivastava](https://open.spotify.com/artist/5xioqWZGO4JrB9daKgcreI), [Sireesha Bhagavatula](https://open.spotify.com/artist/3ZiBHBeZ3OAKJEkDWzQFHS) | [Uljhan](https://open.spotify.com/album/1c8hEngE771KKKSEQKisN3) | 2:14 |
 | 43 | [Sukoon](https://open.spotify.com/track/1WXLlS4NR1Fzg44gF54ESK) | [gini](https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0) | [Sukoon](https://open.spotify.com/album/47WoZdif6vZZqDdgWCG4A1) | 3:06 |
-| 44 | [Woh](https://open.spotify.com/track/1bw0tYUf70kQaVeiPd2U7c) | [Khatth](https://open.spotify.com/artist/25z03NEKPCRRfHVBCsgOiY), [Sthiti](https://open.spotify.com/artist/61oEn9Hdu2SCqRWT8E8bVw), [Shruti Prakash Dash](https://open.spotify.com/artist/2FeA4uJpvcZ1uemmSaC1Qj) | [Woh](https://open.spotify.com/album/1reZwldnOqKL9BWwwrSH2x) | 3:14 |
-| 45 | [Paatha Edathila](https://open.spotify.com/track/1CaDbj95jdxRh0Tl0CXPDQ) | [808Krshna](https://open.spotify.com/artist/4BmMGRjcKQTnEaM2nCIaBE), [Sublahshini](https://open.spotify.com/artist/0nh5cRtt03SU6LhzhVC5fv), [Adesh Krishna](https://open.spotify.com/artist/30LwulQlfH8xE5Bf9P7QaK) | [Paatha Edathila](https://open.spotify.com/album/03VPIqFCLf2B3mCafybAya) | 3:12 |
+| 44 | [Paatha Edathila](https://open.spotify.com/track/1CaDbj95jdxRh0Tl0CXPDQ) | [808Krshna](https://open.spotify.com/artist/4BmMGRjcKQTnEaM2nCIaBE), [Sublahshini](https://open.spotify.com/artist/0nh5cRtt03SU6LhzhVC5fv), [Adesh Krishna](https://open.spotify.com/artist/30LwulQlfH8xE5Bf9P7QaK) | [Paatha Edathila](https://open.spotify.com/album/03VPIqFCLf2B3mCafybAya) | 3:12 |
+| 45 | [Woh](https://open.spotify.com/track/1bw0tYUf70kQaVeiPd2U7c) | [Khatth](https://open.spotify.com/artist/25z03NEKPCRRfHVBCsgOiY), [Sthiti](https://open.spotify.com/artist/61oEn9Hdu2SCqRWT8E8bVw), [Shruti Prakash Dash](https://open.spotify.com/artist/2FeA4uJpvcZ1uemmSaC1Qj) | [Woh](https://open.spotify.com/album/1reZwldnOqKL9BWwwrSH2x) | 3:14 |
 | 46 | [Main Khadya](https://open.spotify.com/track/0qcTfoV2aVjbajiDNzWkZJ) | [Naveen Chaudhary](https://open.spotify.com/artist/7mG5Kqg1c8YqOjzxwbmdxB), [Heer](https://open.spotify.com/artist/0Z9plG3hnIsXMiAukUIh1l) | [Main Khadya](https://open.spotify.com/album/2mzaueuvI1r4fRrwJEUdX4) | 2:42 |
 | 47 | [Aas](https://open.spotify.com/track/7MLSIlkM9B2NhKMlAFRQc7) | [Khwaab](https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx), [Divyam Sodhi](https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5), [Aaghaz](https://open.spotify.com/artist/6VblvHVLbQqdZvCeg9IcTA) | [Aas](https://open.spotify.com/album/3ouQsqA555hLFhrObzNezV) | 3:10 |
 | 48 | [Marham](https://open.spotify.com/track/4vgWEM1dc8S3JMjHrSdFTo) | [Divyam Sodhi](https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5), [Khwaab](https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx), [Aditi Raj](https://open.spotify.com/artist/2D793ikB8gkaPFFbFkMgS7) | [Marham](https://open.spotify.com/album/2RRA5YspTw3LRG10mKBjWa) | 2:50 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 | 72 | [Kya Kahein](https://open.spotify.com/track/1v6g0O3B9MmLPW8jNKPSQg) | [Divyam Sodhi](https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5), [Khwaab](https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx), [Tanmay Maheshwari](https://open.spotify.com/artist/5pEYLd9VildKNA7qUa6SEs) | [Kya Kahein](https://open.spotify.com/album/1uMj48Dc1VRH70MzQWqZIk) | 3:07 |
 | 73 | [Tu hi hai](https://open.spotify.com/track/36DwegUM4ExV8aNhB6jW5e) | [Twinkle Aggrwal](https://open.spotify.com/artist/6IFzEP3X3Iunldjoh3PnLG) | [Tu hi hai](https://open.spotify.com/album/4BhDcGwNs1g3zfcqoOEbIZ) | 3:07 |
 | 74 | [Thirinjin](https://open.spotify.com/track/7xks8vdAWuKzoh8xHJLntX) | [Haniya Nafisa](https://open.spotify.com/artist/2qE6XvN9lbEFGFfQOREsr0), [Zail](https://open.spotify.com/artist/125lP111pgnHz4moKO1C1R) | [Vaakkath](https://open.spotify.com/album/0z6HvSQ7XHrpcpZugjIugW) | 3:03 |
-| 75 | [Barsa](https://open.spotify.com/track/4Ylc8oP6UsoZqL3ubXYtoA) | [Achint](https://open.spotify.com/artist/4bvGDTEPFnllKiJaEZGuXk) | [Barsa](https://open.spotify.com/album/45JKe1xmPgQ91MZd2kf08f) | 3:26 |
+| 75 | [Maan Jao](https://open.spotify.com/track/5HzQLl5EyKpaE2dwgSaK4C) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX) | [Maan Jao](https://open.spotify.com/album/44wT6D3aZMj90IkzsftFRF) | 2:34 |
 
 Snapshot ID: `AAAAAH605wNX0H8Zh3ADTHprjMmanZOn`

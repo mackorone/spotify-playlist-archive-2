@@ -4,7 +4,7 @@
 
 > This is AJULLIACOSTA\. The essential tracks, all in one playlist.
 
-70 songs - 3 hr 44 min
+71 songs - 3 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Toc Toc Toc](https://open.spotify.com/track/2Oq3YDQMK6oFqOuuIzeeXO) | [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Nave](https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J) | [Novo Testamento](https://open.spotify.com/album/490tyTcKwuwqzxLu3ij7D5) | 2:10 | 2025-09-18 | 2025-11-26 |
 | [Tão Gostoso](https://open.spotify.com/track/0bgy7v2lKWmvaegE7JKF7m) | [AJULLIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [MAT](https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U) | [Brutas Amam, Choram e Sentem Raiva](https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj) | 4:22 | 2023-12-30 |  |
 | [Um Novo Tom](https://open.spotify.com/track/3uyXq1Y4zSy93mZI2iv8vL) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z), [AJULLIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd) | [Um Novo Tom](https://open.spotify.com/album/11hngtRtwhsb9KDuQB3Rf1) | 4:50 | 2025-10-24 |  |
+| [vai ser grande… \(interlúdio\)](https://open.spotify.com/track/3uS5kQosSlXTJ7ypy3SUT2) | [CAE](https://open.spotify.com/artist/2d8dvLwxR3APvLe0gcLaK0), [AJULLIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [winx](https://open.spotify.com/artist/7c8aL5TD7eVJbiifo1QVkY) | [rap de calcinha](https://open.spotify.com/album/4YgxA1mDTP5b9XRAuDaYSm) | 1:09 | 2026-11-15 |  |
 | [Você Não É Meu Homem](https://open.spotify.com/track/190EOlSE4zNoB0ZdliW0Qu) | [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [MAT](https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U) | [Brutas Amam, Choram e Sentem Raiva](https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj) | 2:30 | 2025-08-22 | 2025-09-30 |
 | [Você Parece Com Vergonha](https://open.spotify.com/track/5r4pDmk3fENDZCc06xrHsJ) | [AJULLIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd) | [Você Parece Com Vergonha](https://open.spotify.com/album/3dNBEUQg3uKKvpoCNEwicy) | 3:03 | 2024-07-12 |  |
 | [você vai gostar](https://open.spotify.com/track/6Tz1pVZASlwQAAEi7Rb9Ut) | [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o), [AJULLIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd) | [você vai gostar](https://open.spotify.com/album/3GSOqaNwIax15VWuAtwvls) | 3:24 | 2025-08-10 |  |

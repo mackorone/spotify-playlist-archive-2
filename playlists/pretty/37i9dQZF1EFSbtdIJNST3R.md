@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSbtdIJNST3R.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6oEa7f0DcvJhreGq1I3Zwe">Sigourney Korper</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101 likes - 57 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 101 likes - 58 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,9 +61,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSbtdIJNST3R.md) - [plain]
 | 51 | [Samen Blijven](https://open.spotify.com/track/05frc7EsEIMBrF7uK6CCxT) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [Samen Blijven](https://open.spotify.com/album/0n3idTgAnCgj84Szvmjc4o) | 2:38 |
 | 52 | [Casual](https://open.spotify.com/track/4smMMm61FwuTB3Rjp0ztBQ) | [Carla Fernandes](https://open.spotify.com/artist/2PowY1osU1K9Qa8d1fn0PF) | [18](https://open.spotify.com/album/6CEPSxPykn7KwvQBVlhX2N) | 2:41 |
 | 53 | [Izakaya](https://open.spotify.com/track/5KBiKj20CpdoV8gGGIUPj2) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [Izakaya](https://open.spotify.com/album/7yXBPRj57bW9fqLiO48Xdx) | 2:24 |
-| 54 | [Kingsize Bed](https://open.spotify.com/track/5kmTldFsjGCdK7ayMEfJUn) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [Echte Meisjes Huilen Niet](https://open.spotify.com/album/6iKySe95XhH8YNNwRlRFoN) | 2:42 |
-| 55 | [Huilen In De Club](https://open.spotify.com/track/66HvKF3G7mV98i6UxfhgCY) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [Echte Meisjes Huilen Niet](https://open.spotify.com/album/6iKySe95XhH8YNNwRlRFoN) | 2:55 |
-| 56 | [Blockparty](https://open.spotify.com/track/40sZ1V8JA1vxH4WdYewQax) | [Zirkus Zirkus](https://open.spotify.com/artist/746vTXKIR6HcTpyrdmQGPS) | [In De Tent](https://open.spotify.com/album/6ydoCDUdefP6cDRFzLQQWd) | 3:35 |
-| 57 | [Piet Pyama Party](https://open.spotify.com/track/199q0O0xyH6dkY2J1OetUV) | [De Club van Sinterklaas](https://open.spotify.com/artist/4GaAzGCRu6rYPmVDn3iEJ1), [KADO](https://open.spotify.com/artist/3Q00kkvihGYh7ym4vMdpdZ) | [De Leukste Liedjes 2021](https://open.spotify.com/album/4hpb4w333XIqa3GFsv41O8) | 2:05 |
+| 54 | [ma jolie](https://open.spotify.com/track/0M8BdXkBs0KXjAUHxTXFB2) | [KATNUF](https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo), [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [49](https://open.spotify.com/album/7k7sdwAHlpqWW9fmxmn6w6) | 2:32 |
+| 55 | [Kingsize Bed](https://open.spotify.com/track/5kmTldFsjGCdK7ayMEfJUn) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [Echte Meisjes Huilen Niet](https://open.spotify.com/album/6iKySe95XhH8YNNwRlRFoN) | 2:42 |
+| 56 | [Huilen In De Club](https://open.spotify.com/track/66HvKF3G7mV98i6UxfhgCY) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [Echte Meisjes Huilen Niet](https://open.spotify.com/album/6iKySe95XhH8YNNwRlRFoN) | 2:55 |
+| 57 | [Blockparty](https://open.spotify.com/track/40sZ1V8JA1vxH4WdYewQax) | [Zirkus Zirkus](https://open.spotify.com/artist/746vTXKIR6HcTpyrdmQGPS) | [In De Tent](https://open.spotify.com/album/6ydoCDUdefP6cDRFzLQQWd) | 3:35 |
+| 58 | [Piet Pyama Party](https://open.spotify.com/track/199q0O0xyH6dkY2J1OetUV) | [De Club van Sinterklaas](https://open.spotify.com/artist/4GaAzGCRu6rYPmVDn3iEJ1), [KADO](https://open.spotify.com/artist/3Q00kkvihGYh7ym4vMdpdZ) | [De Leukste Liedjes 2021](https://open.spotify.com/album/4hpb4w333XIqa3GFsv41O8) | 2:05 |
 
-Snapshot ID: `AchmDAAAAAAB7SY2qGEKzaxyigZd6rJt`
+Snapshot ID: `AchrrAAAAAD3CswgCA/dkZce64aYVfhv`

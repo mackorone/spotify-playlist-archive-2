@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 2 likes - 8,494 songs - 21 day 14 hr 7 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 2 likes - 8,496 songs - 21 day 14 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -8437,7 +8437,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 8427 | [おうちに帰りたい](https://open.spotify.com/track/1J1FcGiX43MnPpz2JhCamZ) | [アクア \(CV: 雨宮 天\)](https://open.spotify.com/artist/4And4cn8zCQdoLger3jVvZ), [めぐみん \(CV: 高橋李依\)](https://open.spotify.com/artist/2NqqJhzkf7grC79YHlgIkR), [ダクネス \(CV: 茅野愛衣\)](https://open.spotify.com/artist/1AOON88QJzyIW5diXcz8r7) | [アニメ『この素晴らしい世界に祝福を！』10周年記念 SONG\-BOX](https://open.spotify.com/album/1Y4zaNiHDZqNy9OTb8Qz1l) | 3:20 |
 | 8428 | [ちいさな冒険者](https://open.spotify.com/track/17JAtdJyq1XGU1fnsRUS2e) | [アクア \(CV: 雨宮 天\)](https://open.spotify.com/artist/4And4cn8zCQdoLger3jVvZ), [めぐみん \(CV: 高橋李依\)](https://open.spotify.com/artist/2NqqJhzkf7grC79YHlgIkR), [ダクネス \(CV: 茅野愛衣\)](https://open.spotify.com/artist/1AOON88QJzyIW5diXcz8r7) | [アニメ『この素晴らしい世界に祝福を！』10周年記念 SONG\-BOX](https://open.spotify.com/album/1Y4zaNiHDZqNy9OTb8Qz1l) | 3:19 |
 | 8429 | [She Will](https://open.spotify.com/track/0WPbCs75tnRVM1Wag5PLeW) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [She Will](https://open.spotify.com/album/4v2wkI8xYxp0gTtSMwbRoj) | 5:07 |
-| 8430 | [LEASE](https://open.spotify.com/track/7nA1pselza5GOlk2IVVjxw) | [阿保　剛](https://open.spotify.com/artist/1tlGMYIC16uiS2OFSkvpGT) | [阿保 剛KID作品集～My Merry May](https://open.spotify.com/album/7pCXJROsUJfJbTYAGoPdTn) | 1:43 |
+| 8430 | [LEASE](https://open.spotify.com/track/7nA1pselza5GOlk2IVVjxw) | [Takeshi Abo](https://open.spotify.com/artist/6Sn7YAvyrm7TzAM1lyaLqV) | [阿保 剛KID作品集～My Merry May](https://open.spotify.com/album/7pCXJROsUJfJbTYAGoPdTn) | 1:43 |
 | 8431 | [その着せ替え人形は恋をする](https://open.spotify.com/track/2ZRKBJNk5Ue5IdyCTO42mG) | [Takeshi Nakatsuka](https://open.spotify.com/artist/20NsQIQXOKSrclmLOeZLIF) | [その着せ替え人形は恋をする Original Soundtrack VOL.1](https://open.spotify.com/album/22WJ7yTFy5skROvKGWyddA) | 2:56 |
 | 8432 | [Mr\. Carter](https://open.spotify.com/track/1zigoX1Bxo39a9lIHPxFyR) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Tha Carter III \(MTV Bonus Version\)](https://open.spotify.com/album/4fRZNOawjx1uzGLN3VhAZ4) | 5:16 |
 | 8433 | [Kiss of Life](https://open.spotify.com/track/65krtHkaYLPr0mEbjL61UP) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [The Best of Sade](https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK) | 4:11 |
@@ -8502,5 +8502,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 8492 | [接吻](https://open.spotify.com/track/4Y1kikrwlBD0ESg9mdOfQp) | [Original Love](https://open.spotify.com/artist/76QaFuQNldIJkAkDmaMAck) | [TOKYO \- CITY POP \-](https://open.spotify.com/album/4xP3ejIHNS3OPGHfSIrevD) | 4:40 |
 | 8493 | [I'm Goin In](https://open.spotify.com/track/5aooThgj87ID0vgiyvcjPM) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH) | [I'm Goin In](https://open.spotify.com/album/645FRpimwu0b1isiY5M32J) | 3:45 |
 | 8494 | [Gold\-Triumph](https://open.spotify.com/track/1Oy5w51bmqgPdiMtXYdrks) | [ゴールドシップ \(CV\. 上田 瞳\)](https://open.spotify.com/artist/1tODxzD6whVt82RO4FgkFE), [ナカヤマフェスタ \(CV\. 下地紫野\)](https://open.spotify.com/artist/5ElmbJJz5azpUCGshekl0P), [オルフェーヴル \(CV\. 日笠陽子\)](https://open.spotify.com/artist/2YiY6vEoIiyVW3WyDnQNIM), [ドリームジャーニー \(CV\. 吉岡茉祐\)](https://open.spotify.com/artist/19YA4Q32cgKV9x8KNb1TmN), [フェノーメノ \(CV\. 日比優理香\)](https://open.spotify.com/artist/7LTAH878GVLq890fi9i9sS), [ステイゴールド \(CV\. 松田颯水\)](https://open.spotify.com/artist/1Sxd0rOFUWr9bXtiBNFEVe), [ウマ娘 プリティーダービー](https://open.spotify.com/artist/5pTLke5Yq8nN4yaPxLPzGd) | [『ウマ娘 プリティーダービー』WINNING LIVE 34](https://open.spotify.com/album/24OSekFqXQwxTNytF41cuo) | 3:37 |
+| 8495 | [Love Story](https://open.spotify.com/track/6nGeLlakfzlBcFdZXteDq7) | [Indila](https://open.spotify.com/artist/0FEJqmeLRzsXj8hgcZaAyB) | [Mini World](https://open.spotify.com/album/1r7XjAgjwlakmXC2GbPXjH) | 5:16 |
+| 8496 | [Dernière danse](https://open.spotify.com/track/65uoaqX5qcjXZRheAj1qQT) | [Indila](https://open.spotify.com/artist/0FEJqmeLRzsXj8hgcZaAyB) | [Mini World](https://open.spotify.com/album/1r7XjAgjwlakmXC2GbPXjH) | 3:33 |
 
-Snapshot ID: `AAAOITsVn8gZ3DiGnNK9+3IeKUC0qdmg`
+Snapshot ID: `AAAOI7w6BilQqd7h84XHH1n/l56MICzo`

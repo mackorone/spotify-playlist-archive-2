@@ -49,6 +49,36 @@
     },
     {
       "album": {
+        "name": "Alfaaz (Alan Walker Relight)",
+        "url": "https://open.spotify.com/album/2Dq9DuoVZB8eLsBygdBd7g"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Hamza Malik",
+          "url": "https://open.spotify.com/artist/1GE8jiWTAhX18vP7Wqxig9"
+        },
+        {
+          "name": "Zain Zohaib",
+          "url": "https://open.spotify.com/artist/0M4wzwZKh9SSHkOXYNvQlP"
+        },
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "date_added": "2026-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174025,
+      "name": "Alfaaz (Alan Walker Relight)",
+      "url": "https://open.spotify.com/track/0xf17o8wZ8sfpsojIMm1qn"
+    },
+    {
+      "album": {
         "name": "All Around The World (La La La) [Alan Walker Remix]",
         "url": "https://open.spotify.com/album/77ePyl2cHKlMqKd1ciW2Ju"
       },
@@ -3238,7 +3268,7 @@
       ],
       "date_added": "2026-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 257545,
       "name": "Wherever You Go (feat. John Martin) - Alan Walker Extended Remix",
       "url": "https://open.spotify.com/track/4zpXgqzxtBCABFfwzCXqHX"

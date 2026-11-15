@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Your ears on the ground in Music City\. Cover: Greylan James
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,884 likes - 199 songs - 10 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,938 likes - 199 songs - 10 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

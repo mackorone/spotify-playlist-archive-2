@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 
 > Workout with Haryanvi Songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,503 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,575 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 | 32 | [GYM \(feat\. Vaishali Chaudhary\)](https://open.spotify.com/track/2sLLBFHDmGVKfwt4zYKiKq) | [Himanshu Kaushik](https://open.spotify.com/artist/0hIrW1jncz4tDCnJTm7pfZ), [Ruchika Jangid](https://open.spotify.com/artist/5NgijFuMvkarmVkTpCnwjE), [Shrikant](https://open.spotify.com/artist/1GFXuGQMPwZjdjzwt7WdQe), [Vaishali Chaudhary](https://open.spotify.com/artist/1IAz1o1bWqWHYzx0qKoarq) | [GYM \(feat\. Vaishali Chaudhary\)](https://open.spotify.com/album/6xbQfYXB6QUfoVa4okMy8Z) | 2:14 |
 | 33 | [Convoy](https://open.spotify.com/track/70ouErfLUxUY2WQwcQI2fO) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck), [KD DESIROCK](https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0) | [Convoy](https://open.spotify.com/album/4ZcTQRJtPrN8azjI83NHNg) | 4:35 |
 | 34 | [Criminal](https://open.spotify.com/track/2EiAiiWhbTRPDusfWRsbBq) | [Gulzaar Chhaniwala](https://open.spotify.com/artist/1LOB46pDsJhtIXW1nbHYZo) | [Criminal](https://open.spotify.com/album/6bziQe6yuf5Ja5CCGX3Rhm) | 2:54 |
-| 35 | [Near By Me](https://open.spotify.com/track/5y8ROfzveFCMOSkkrG3WmU) | [Bintu Pabra](https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe), [Kp Kundu](https://open.spotify.com/artist/23l9mH9i8YE46BCdI6isQn) | [Near By Me](https://open.spotify.com/album/6N66GsbNmVVOEvCUWKw68f) | 3:04 |
-| 36 | [Robbery](https://open.spotify.com/track/1jDArshlg2jQyg5vfIh8Zq) | [Mohit Ladhotiya](https://open.spotify.com/artist/43XOucS8TK3tdDDqd2JJSh) | [Robbery](https://open.spotify.com/album/5pw4skILORYhb7LsMuhgOj) | 3:20 |
+| 35 | [Robbery](https://open.spotify.com/track/1jDArshlg2jQyg5vfIh8Zq) | [Mohit Ladhotiya](https://open.spotify.com/artist/43XOucS8TK3tdDDqd2JJSh) | [Robbery](https://open.spotify.com/album/5pw4skILORYhb7LsMuhgOj) | 3:20 |
+| 36 | [Near By Me](https://open.spotify.com/track/5y8ROfzveFCMOSkkrG3WmU) | [Bintu Pabra](https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe), [Kp Kundu](https://open.spotify.com/artist/23l9mH9i8YE46BCdI6isQn) | [Near By Me](https://open.spotify.com/album/6N66GsbNmVVOEvCUWKw68f) | 3:04 |
 | 37 | [Khappar Bharni](https://open.spotify.com/track/5ASiFCsFP4CxvaCeowGmqC) | [Amit Saini Rohtakiya](https://open.spotify.com/artist/4d8PlD50b5CG0eIBY6jm0b), [kanhoriaalashayar](https://open.spotify.com/artist/3bCwWvSKe3KxvKu32niGQP) | [Khappar Bharni](https://open.spotify.com/album/3nIA8Ef9lif6eBHiNA5ZWl) | 3:13 |
 | 38 | [Lath](https://open.spotify.com/track/5qiqDTdWfqwOX4pyPxPmSy) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck), [Addy Nagar](https://open.spotify.com/artist/1DctKQQOA4GfV6Pc9WngX5) | [Lath](https://open.spotify.com/album/1ywwM0y7s8IAhSuePlvvqf) | 3:12 |
 | 39 | [Negative Kirdar](https://open.spotify.com/track/0WIOdDPuuOvEPrQ0loUUEN) | [The LeKhak](https://open.spotify.com/artist/4mXXjQa72yzGxqboQMSqiT), [BAD Junkie](https://open.spotify.com/artist/67PszvnwyV2SVgLAaVqOER) | [Negative Kirdar](https://open.spotify.com/album/1eHRry5jnz4UYymadaCMsm) | 2:44 |

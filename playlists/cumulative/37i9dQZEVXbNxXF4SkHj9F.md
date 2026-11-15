@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- South Korea.
 
-2,239 songs - 5 day 2 hr 27 min
+2,240 songs - 5 day 2 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1297,7 +1297,7 @@
 | [MOONLIGHT SUNRISE](https://open.spotify.com/track/38DlSDrx9tgc5Gfq6y3aBa) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MOONLIGHT SUNRISE](https://open.spotify.com/album/5RB4SBhMgWr2S48npenObP) | 3:00 | 2023-01-22 | 2023-01-26 |
 | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb) | 2:35 | 2024-10-17 | 2024-11-04 |
 | [Moonride](https://open.spotify.com/track/318Irz9qyCcwS0teqsaNcg) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [Moonride](https://open.spotify.com/album/2XcMWakwxN4QrGiFcEIppG) | 2:56 | 2026-09-17 | 2026-10-03 |
-| [MOONWALK](https://open.spotify.com/track/1v2Mu0KVqTb583sAdHD7XU) | [Panda Gomm](https://open.spotify.com/artist/6GghubkP0c1FPGeffPxTWZ), [YANGHONGWON](https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM) | [오보](https://open.spotify.com/album/2S0zBMINP4YGKT2qHYMBZ4) | 4:12 | 2026-11-11 |  |
+| [MOONWALK](https://open.spotify.com/track/1v2Mu0KVqTb583sAdHD7XU) | [Panda Gomm](https://open.spotify.com/artist/6GghubkP0c1FPGeffPxTWZ), [YANGHONGWON](https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM) | [오보](https://open.spotify.com/album/2S0zBMINP4YGKT2qHYMBZ4) | 4:12 | 2026-11-11 | 2026-11-15 |
 | [Moonwalkin'](https://open.spotify.com/track/46V2ciN6F5bxjQWityNhkY) | [LNGSHOT](https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6) | [SHOT CALLERS](https://open.spotify.com/album/6M05ADW4mz2x07jIpIzCXR) | 3:28 | 2026-01-19 | 2026-02-08 |
 | [MORAESIGYE](https://open.spotify.com/track/63dt1BEeb05e452S14uTRB) | [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [UNDERGROUND ROCKSTAR](https://open.spotify.com/album/3zNOCJUMp0IOEREqInMhug) | 3:48 | 2021-11-13 | 2021-11-14 |
 | [MORE](https://open.spotify.com/track/4XKXphKH76W4zNpkgFS5o2) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [MORE](https://open.spotify.com/album/5Sk4Inca1WZhP7VLuD7DOi) | 3:00 | 2022-07-02 | 2022-07-17 |
@@ -2244,6 +2244,7 @@
 | [약속해](https://open.spotify.com/track/6O86YukB0xS89FMVi6NW9I) | [SYSTEM SEOUL](https://open.spotify.com/artist/1YBOO3E40cq9VVNUHeQGDm), [kira](https://open.spotify.com/artist/2WOLpHxnKUlKnEMk62SLuX), [sn7](https://open.spotify.com/artist/2uDWYOc4r1uGmlOhaFfR8x), [ycs](https://open.spotify.com/artist/15Wmgj7GkO1EPXq9hZPnh6), [hawks](https://open.spotify.com/artist/6r8dyOpcKwTCIgekGqgCsm) | [SS\-POP 3](https://open.spotify.com/album/3JYSv64ZaFK2qHEBZ3suUD) | 3:26 | 2026-07-16 | 2026-07-18 |
 | [예뻤어](https://open.spotify.com/track/3HAkoNmThZhyFejhpRXXYI) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [SUNRISE](https://open.spotify.com/album/0XAkvjvpmtHRaOtjKn60HS) | 4:43 | 2024-10-13 | 2024-10-15 |
 | [우산 \(feat\. 윤하\)](https://open.spotify.com/track/1VnjByC7TUx5A73A4qtgoo) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [Pieces, Part One](https://open.spotify.com/album/1xepnoe8Uet49Nh0nv20lO) | 5:01 | 2026-04-10 | 2026-04-12 |
+| [응급실](https://open.spotify.com/track/5XVEx1pTUR4T7ABtXoGGxx) | [Izi](https://open.spotify.com/artist/4PPkRMbw2jIs7flJkl4okf) | [izi 1집](https://open.spotify.com/album/1KTUBQHfKhX9F2X01sqEO8) | 3:46 | 2026-11-14 |  |
 | [작은 봄](https://open.spotify.com/track/6EIejWXtCAxXCPrxID1VFq) | [고추잠자리](https://open.spotify.com/artist/6P39ZC1SVRiunXwdJ0P11H) | [작은 봄](https://open.spotify.com/album/7xUqTrlB37TJbtVcBvrEOH) | 3:42 | 2025-04-07 | 2025-04-19 |
 | [한 페이지가 될 수 있게](https://open.spotify.com/track/0EhdXt3y460mTRsi97Pyk5) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : Gravity](https://open.spotify.com/album/6mAKMlMj09Vsdk05zkQ2MG) | 3:25 | 2024-10-13 | 2025-01-05 |
 | [화](https://open.spotify.com/track/11JJhyIJqYqZkSQkhNmiZS) | [Panda Gomm](https://open.spotify.com/artist/6GghubkP0c1FPGeffPxTWZ), [YANGHONGWON](https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM) | [오보](https://open.spotify.com/album/2S0zBMINP4YGKT2qHYMBZ4) | 3:05 | 2026-11-11 |  |

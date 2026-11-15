@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWOC7yZ9Tq5.md) - [plain]
 
 > A selection of anime tracks perfect for listening to during your gaming time\. ゲームの時間にぴったりなアニメ楽曲をセレクト。 Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,011 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,067 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWOC7yZ9Tq5.md) - [plain]
 | 44 | [livingroom](https://open.spotify.com/track/6XAEEforyl2ntmg6ZIeePj) | [kensuke ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [Chainsaw Man Original Soundtrack EP Vol.2 \(Episode 4\-7\)](https://open.spotify.com/album/4lvjSSzNcXLniTEyIrzaBX) | 2:42 |
 | 45 | [ルフィ復活](https://open.spotify.com/track/3pswsd1cgi2U5ninhgo31W) | [Kohei Tanaka](https://open.spotify.com/artist/74ov6NjGYL0LHHyDD2Dy2b) | [ONE PIECE Original Soundtrack"GEAR5"](https://open.spotify.com/album/1jmR8jrRGykXMhptwhyUY0) | 1:56 |
 | 46 | [ルパン三世のテーマ \- 「ルパン三世のテーマ'78」シングル・ヴァージョン](https://open.spotify.com/track/5VZn5Gsn2ckFJ2bmRo9GPe) | [Yuji Ohno](https://open.spotify.com/artist/7xIfi0ePXzLGlYO5lFjnvu), [ユー & ザ・エクスプロージョン・バンド](https://open.spotify.com/artist/3D3jcW12AeIw0FtXJGvilD) | [ルパン三世 オリジナル・サウンドトラック](https://open.spotify.com/album/4PZ92qFQ2dNB4MWpNE8PQl) | 3:24 |
-| 47 | [BLUELOCK](https://open.spotify.com/track/42Pf9Ox42Ye44dquMrCvk4) | [村山☆潤](https://open.spotify.com/artist/3lhpkn7TNzz8kqNE8PUOqm) | [TVアニメ『ブルーロック』オリジナルサウンドトラック](https://open.spotify.com/album/4wenjBpGw8Hh3tqTJHX23F) | 2:22 |
-| 48 | [BEASTARS](https://open.spotify.com/track/1Iiq3tVtUZF0y8TYRENOHv) | [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [TVアニメ「BEASTARS」オリジナルサウンドトラック](https://open.spotify.com/album/2rVmetH0Kki1VtcXuABSAH) | 1:18 |
+| 47 | [BEASTARS](https://open.spotify.com/track/1Iiq3tVtUZF0y8TYRENOHv) | [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [TVアニメ「BEASTARS」オリジナルサウンドトラック](https://open.spotify.com/album/2rVmetH0Kki1VtcXuABSAH) | 1:18 |
+| 48 | [BLUELOCK](https://open.spotify.com/track/42Pf9Ox42Ye44dquMrCvk4) | [村山☆潤](https://open.spotify.com/artist/3lhpkn7TNzz8kqNE8PUOqm) | [TVアニメ『ブルーロック』オリジナルサウンドトラック](https://open.spotify.com/album/4wenjBpGw8Hh3tqTJHX23F) | 2:22 |
 | 49 | [Theme of Stone Ocean](https://open.spotify.com/track/61mLwf16eBgltPVQ487rPT) | [Yugo Kanno](https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD) | [ジョジョの奇妙な冒険 ストーンオーシャン O.S.T.](https://open.spotify.com/album/0jkIDp65gHymoVhF62qUWw) | 4:43 |
 | 50 | [ワノ国 幕開け、幕引きのテーマ](https://open.spotify.com/track/15WLsibdUCBTyN6a9YUajB) | [Kohei Tanaka](https://open.spotify.com/artist/74ov6NjGYL0LHHyDD2Dy2b) | [ONE PIECE オリジナルサウンドトラック"WANOKUNI"](https://open.spotify.com/album/0DyIQWyWWthQ3f9xRP1hXa) | 3:39 |
 

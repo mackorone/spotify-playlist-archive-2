@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,464 likes - 75 songs - 4 hr 31 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,471 likes - 78 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,5 +83,8 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 73 | [Wallet Chain](https://open.spotify.com/track/6cX18mwaiDPccmmSCM7Ky7) | [Barnshed](https://open.spotify.com/artist/25NiXzEzQZXv5AXSUJ0QbP) | [Prison Baby](https://open.spotify.com/album/0dcG7zNlavpwpgPcdDWTAx) | 2:36 |
 | 74 | [Starting Over](https://open.spotify.com/track/6KfqvtL8mS8qG1c6oQMK7J) | [Early Exit](https://open.spotify.com/artist/2Ja88B9uPMQsjv6VtQiQt3) | [Last Sunsets](https://open.spotify.com/album/2TsKcXE3zKbwILorKocQkR) | 3:56 |
 | 75 | [Burn](https://open.spotify.com/track/1jpRRl1Z8zO4iFQQZuFQbG) | [Naghmeh](https://open.spotify.com/artist/3e5qBCtQ2njfzuO3bOTz0a) | [Burn](https://open.spotify.com/album/7GEH5gCu29zli4Vlcc0byl) | 3:48 |
+| 76 | [Break the Walls](https://open.spotify.com/track/5fM2U7gWzsjwNkGC8r1bS5) | [Eyewonder](https://open.spotify.com/artist/382fgUv3X5FVJYa4tlBHsu) | [Break the Walls](https://open.spotify.com/album/1r8zL7koKiba4nWkhZAOjW) | 3:09 |
+| 77 | [You Have To Know](https://open.spotify.com/track/1lPyg53yaQ0jtjIMPgwUUo) | [Mike Power](https://open.spotify.com/artist/6o38TL7BKpRI2FF4ohlo6b) | [You Have To Know](https://open.spotify.com/album/1U5AF1nIfxDw87PUIqsdyg) | 2:44 |
+| 78 | [Crumbling Castle](https://open.spotify.com/track/2MOAwTkYaxHc6rcY2QPYcm) | [Derek D'Acoustic](https://open.spotify.com/artist/5JdnqmtLVoIZy7X85Nxyin) | [Crumbling Castle](https://open.spotify.com/album/1XlzdDxCC7RXhBRHPyswyC) | 4:28 |
 
-Snapshot ID: `AAAHVUjhCXptJ61p287sKvy3Xt5/7UMm`
+Snapshot ID: `AAAHWBEKZ/Bvibez0LElpwvSx7b42M7t`

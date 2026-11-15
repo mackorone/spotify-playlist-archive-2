@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The BEST new music every Friday, by INDIE EDITORS Cover: KatzPascale
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,287,456 likes - 200 songs - 11 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,287,406 likes - 200 songs - 11 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 24 | [Winner](https://open.spotify.com/track/21GMGZQQ0MhG5mTe7cvs2Y) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Winner](https://open.spotify.com/album/52JHUm1Y7NIxLdKu0qGwjt) | 3:52 |
 | 25 | [Warm](https://open.spotify.com/track/24hSAnduGNCgoBrGd871xB) | [Teenage Priest](https://open.spotify.com/artist/4BzY7yI5iqNP7OmEtO0a34), [Pool Girl](https://open.spotify.com/artist/7t7suXYznGBtoP2uCT0Wv2) | [Warm](https://open.spotify.com/album/71VitLTI1WaIHdXQmhS6gZ) | 2:07 |
 | 26 | [Toil \(Reprise\)](https://open.spotify.com/track/7DVgAClud6TSY6Yl2bZSjY) | [Knifeplay](https://open.spotify.com/artist/7oT0M95uIX2aJGN4we092i) | [Toil \(Reprise\)](https://open.spotify.com/album/7JXYDvoEJ9534OUT9mRGDP) | 5:53 |
-| 27 | [I Knew You When](https://open.spotify.com/track/0TNNy97FX2OpacorIjSYKF) | [Diana Silvers](https://open.spotify.com/artist/4Uf4PfiZLdUfSEksP0ppEs) | [Daughter Of Sorts](https://open.spotify.com/album/35BZ4khbT8FyzNLQHLfyzI) | 2:54 |
+| 27 | [I Knew You When](https://open.spotify.com/track/0TNNy97FX2OpacorIjSYKF) | [Diana Silvers](https://open.spotify.com/artist/4Uf4PfiZLdUfSEksP0ppEs) | [Daughter of Sorts](https://open.spotify.com/album/35BZ4khbT8FyzNLQHLfyzI) | 2:54 |
 | 28 | [It's a Fever](https://open.spotify.com/track/4enhiMk65c2Ea7GFUSCvwv) | [The Sophs](https://open.spotify.com/artist/2zX0ROHqU3TEfFtKBtqOAE) | [It's a Fever](https://open.spotify.com/album/4Pn7gMcbToeyermtO3o5Zp) | 3:04 |
 | 29 | [You Are Mistaken](https://open.spotify.com/track/5FO51sTJlUfUmx5BTT4uG2) | [Loch Raven](https://open.spotify.com/artist/71SCoEHvwvLluq5KSyl5ia) | [You Are Mistaken](https://open.spotify.com/album/7sZdxP9xS6qCM56DvNu6Go) | 4:10 |
 | 30 | [Buzzing in My Head](https://open.spotify.com/track/0C0Ib7hrRjFYQWVFXVNGqV) | [Weird Nightmare](https://open.spotify.com/artist/2dRm7hmP96rgIGGGX1wiLc) | [Buzzing in My Head](https://open.spotify.com/album/7MLgPCn9PpVlQrOT3wHlgh) | 2:55 |

@@ -1,6 +1,6 @@
 {
   "description": "layan je",
-  "num_followers": 174387,
+  "num_followers": 174428,
   "original_name": "galau rabak",
   "owner": {
     "name": "Spotify",
@@ -179,18 +179,18 @@
     {
       "added_at": "2026-09-18 00:19:01",
       "album": {
-        "name": "Berdamai",
-        "url": "https://open.spotify.com/album/1RKSbvPUDUEeKPIhGdnzSD"
+        "name": "Sementara, Selamanya",
+        "url": "https://open.spotify.com/album/47wF2oUGXvb44j1Wo1aLfD"
       },
       "artists": [
         {
-          "name": "Ghea Indrawari",
-          "url": "https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX"
+          "name": "Fajar Noor",
+          "url": "https://open.spotify.com/artist/3JQketpX6wbJUNAlOIigJc"
         }
       ],
-      "duration_ms": 255599,
-      "name": "Terima Kasih Sudah Bertahan",
-      "url": "https://open.spotify.com/track/6A1VXwBrL7hpGXScZkGo8D"
+      "duration_ms": 227908,
+      "name": "Salah Apa Aku",
+      "url": "https://open.spotify.com/track/7vokkLgTYkd15cWSZ0lTp5"
     },
     {
       "added_at": "2026-09-18 00:19:01",
@@ -211,18 +211,18 @@
     {
       "added_at": "2026-09-18 00:19:01",
       "album": {
-        "name": "Sementara, Selamanya",
-        "url": "https://open.spotify.com/album/47wF2oUGXvb44j1Wo1aLfD"
+        "name": "Berdamai",
+        "url": "https://open.spotify.com/album/1RKSbvPUDUEeKPIhGdnzSD"
       },
       "artists": [
         {
-          "name": "Fajar Noor",
-          "url": "https://open.spotify.com/artist/3JQketpX6wbJUNAlOIigJc"
+          "name": "Ghea Indrawari",
+          "url": "https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX"
         }
       ],
-      "duration_ms": 227908,
-      "name": "Salah Apa Aku",
-      "url": "https://open.spotify.com/track/7vokkLgTYkd15cWSZ0lTp5"
+      "duration_ms": 255599,
+      "name": "Terima Kasih Sudah Bertahan",
+      "url": "https://open.spotify.com/track/6A1VXwBrL7hpGXScZkGo8D"
     },
     {
       "added_at": "2026-09-18 00:19:01",
@@ -675,38 +675,6 @@
     {
       "added_at": "2026-09-18 00:19:01",
       "album": {
-        "name": "Lumangad Oku Dika",
-        "url": "https://open.spotify.com/album/00K5iJB5y56JNiT8xnHYzK"
-      },
-      "artists": [
-        {
-          "name": "Ryenald Guntabid",
-          "url": "https://open.spotify.com/artist/2rPL0xwaV8y8Ks3cmsui9D"
-        }
-      ],
-      "duration_ms": 248685,
-      "name": "Lumangad Oku Dika",
-      "url": "https://open.spotify.com/track/1QOTN2V7aTLJApBq4e1C9z"
-    },
-    {
-      "added_at": "2026-09-18 00:19:01",
-      "album": {
-        "name": "Bodohnya Aku",
-        "url": "https://open.spotify.com/album/4vVOsn3g5jQup5Kc9FhiQI"
-      },
-      "artists": [
-        {
-          "name": "Lyodra",
-          "url": "https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG"
-        }
-      ],
-      "duration_ms": 240875,
-      "name": "Bodohnya Aku",
-      "url": "https://open.spotify.com/track/0u4FQAomxIzy56IEh3bhCy"
-    },
-    {
-      "added_at": "2026-09-18 00:19:01",
-      "album": {
         "name": "Symphony From The Heart",
         "url": "https://open.spotify.com/album/4JeqOC5WYg5h6dEOgD1dTL"
       },
@@ -727,6 +695,38 @@
       "duration_ms": 251091,
       "name": "Kau Selalu Di Hati",
       "url": "https://open.spotify.com/track/0rWP5ruLWqfARc6lOr0XXv"
+    },
+    {
+      "added_at": "2026-09-18 00:19:01",
+      "album": {
+        "name": "Bodohnya Aku",
+        "url": "https://open.spotify.com/album/4vVOsn3g5jQup5Kc9FhiQI"
+      },
+      "artists": [
+        {
+          "name": "Lyodra",
+          "url": "https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG"
+        }
+      ],
+      "duration_ms": 240875,
+      "name": "Bodohnya Aku",
+      "url": "https://open.spotify.com/track/0u4FQAomxIzy56IEh3bhCy"
+    },
+    {
+      "added_at": "2026-09-18 00:19:01",
+      "album": {
+        "name": "Lumangad Oku Dika",
+        "url": "https://open.spotify.com/album/00K5iJB5y56JNiT8xnHYzK"
+      },
+      "artists": [
+        {
+          "name": "Ryenald Guntabid",
+          "url": "https://open.spotify.com/artist/2rPL0xwaV8y8Ks3cmsui9D"
+        }
+      ],
+      "duration_ms": 248685,
+      "name": "Lumangad Oku Dika",
+      "url": "https://open.spotify.com/track/1QOTN2V7aTLJApBq4e1C9z"
     },
     {
       "added_at": "2026-09-18 00:19:01",
@@ -795,22 +795,6 @@
     {
       "added_at": "2026-09-18 00:19:01",
       "album": {
-        "name": "masih ada waktunya",
-        "url": "https://open.spotify.com/album/6s0GsQTvbGxhUw4YqN2LW4"
-      },
-      "artists": [
-        {
-          "name": "Nadhif Basalamah",
-          "url": "https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO"
-        }
-      ],
-      "duration_ms": 247463,
-      "name": "masih ada waktunya",
-      "url": "https://open.spotify.com/track/35ycHFidHC9uMvSfcQcUzg"
-    },
-    {
-      "added_at": "2026-09-18 00:19:01",
-      "album": {
         "name": "Salahkah Aku?",
         "url": "https://open.spotify.com/album/1vpe9NBN0SN5c0BoEPI8wJ"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 244759,
       "name": "Salahkah Aku?",
       "url": "https://open.spotify.com/track/4yiWEkos7y6kzqWTZGLF1l"
+    },
+    {
+      "added_at": "2026-09-18 00:19:01",
+      "album": {
+        "name": "masih ada waktunya",
+        "url": "https://open.spotify.com/album/6s0GsQTvbGxhUw4YqN2LW4"
+      },
+      "artists": [
+        {
+          "name": "Nadhif Basalamah",
+          "url": "https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO"
+        }
+      ],
+      "duration_ms": 247463,
+      "name": "masih ada waktunya",
+      "url": "https://open.spotify.com/track/35ycHFidHC9uMvSfcQcUzg"
     },
     {
       "added_at": "2026-09-18 00:19:01",

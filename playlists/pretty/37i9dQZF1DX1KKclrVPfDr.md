@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KKclrVPfDr.md) - [plain]
 
 > गाँव\-घर की शादियों का असली संगीत 'भोजपुरी विवाह गीत'.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,536 likes - 50 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,539 likes - 50 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KKclrVPfDr.md) - [plain]
 | 26 | [Saanwar \- Sawar Suratiya Tohaar Dulha](https://open.spotify.com/track/5oXdYgaXizNKsLoATHxnPq) | [Sharda Sinha](https://open.spotify.com/artist/0us5gjkn3JwkrYuvCK6gJ2) | [Dulhin](https://open.spotify.com/album/6NM2PNbNHlENPjstKMqZHP) | 8:30 |
 | 27 | [Doli Leke Aihein Dulhiniya](https://open.spotify.com/track/58rf0fEiolEKlQjUnSWGT5) | [Alka Singh](https://open.spotify.com/artist/7rOPbV4rxVRfNvwrfeEKU7) | [Dulha Hindustani \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5d8ugrxneHuJBxahIBEA8P) | 3:41 |
 | 28 | [Vivah Geet \(From "Hawa Mein Udta Jaye Mera Lal Dupatta Malmal Ka"\)](https://open.spotify.com/track/3CR3vrJDFpikRoEitIxOCB) | [Indu Sonali](https://open.spotify.com/artist/0PTzUYVfb8g1RhML4H0sho) | [Bhojpuri Vivah Geet](https://open.spotify.com/album/1Wi0n2gC2filR7gxvsRlBV) | 15:17 |
-| 29 | [Senurwa Singar Hokhela](https://open.spotify.com/track/4Jb0GGYQfpTEV788TibfET) | [Ankush Raja](https://open.spotify.com/artist/4vctPMlkya4meCAAKBHqmu) | [Senurwa Singar Hokhela](https://open.spotify.com/album/2Uv0m4e5AlAZH5TZnvoDy5) | 3:40 |
-| 30 | [Aaju Mithila Nagariya Nihal Sakhiya](https://open.spotify.com/track/51x8NJOUidVvDbCLNZ7AgN) | [Sakshi Singh](https://open.spotify.com/artist/0UJWFdORLnHitbhhps6TKX) | [Aaju Mithila Nagariya Nihal Sakhiya](https://open.spotify.com/album/6aqVG83R2RghR1RlyJP3om) | 3:54 |
+| 29 | [Aaju Mithila Nagariya Nihal Sakhiya](https://open.spotify.com/track/51x8NJOUidVvDbCLNZ7AgN) | [Sakshi Singh](https://open.spotify.com/artist/0UJWFdORLnHitbhhps6TKX) | [Aaju Mithila Nagariya Nihal Sakhiya](https://open.spotify.com/album/6aqVG83R2RghR1RlyJP3om) | 3:54 |
+| 30 | [Senurwa Singar Hokhela](https://open.spotify.com/track/4Jb0GGYQfpTEV788TibfET) | [Ankush Raja](https://open.spotify.com/artist/4vctPMlkya4meCAAKBHqmu) | [Senurwa Singar Hokhela](https://open.spotify.com/album/2Uv0m4e5AlAZH5TZnvoDy5) | 3:40 |
 | 31 | [Shubh Vivah](https://open.spotify.com/track/4P0iD4tryb0xaRJR9GKZDQ) | [Neelkamal Singh](https://open.spotify.com/artist/2pywmTkxO0H1CY8ZXSJTSC), [Amrita Dixit](https://open.spotify.com/artist/2u9ayLxzYVTazdBQmotAXH), [Antra Singh Priyanka](https://open.spotify.com/artist/1ddZZOn4qZRdqnmLuzPcKd) | [Shubh Vivah](https://open.spotify.com/album/42FFkrYRo42VtNFN1ClXEA) | 12:58 |
 | 32 | [Banno Ke Hardi Lagaav Re \(From "Ho Gayini Diwana Tohra Pyar Mein"\)](https://open.spotify.com/track/3VpNZCtxUFbIPkkAQ38oo0) | [Deepa Narayan Jha](https://open.spotify.com/artist/6SzXWOTikoakLyVORKpugx), [Khushboo Jain](https://open.spotify.com/artist/2M8ZZEQdxPXHTee5xxkC3M), [Supriya Joshi](https://open.spotify.com/artist/5DoEZi8HmGHT8FcBP2zpsB) | [Bhojpuri Vivah Geet](https://open.spotify.com/album/1Wi0n2gC2filR7gxvsRlBV) | 4:38 |
 | 33 | [Aaiye Swagat Barat Mein Sarkaar Raur \(From "Pyar Karela Himmat Chaahi"\)](https://open.spotify.com/track/2GeGEtoM8FlXTS5G1fuMU0) | [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Indu Sonali](https://open.spotify.com/artist/0PTzUYVfb8g1RhML4H0sho) | [Bhojpuri Vivah Geet](https://open.spotify.com/album/1Wi0n2gC2filR7gxvsRlBV) | 4:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KKclrVPfDr.md) - [plain]
 | 49 | [Chutki Bhar Senura](https://open.spotify.com/track/0ERPhyi69zPIsDSbFlQTZo) | [Sushant Asthana](https://open.spotify.com/artist/70DPuZFzmT4KpKWukOS45q) | [Chutki Bhar Senura](https://open.spotify.com/album/1UKdtZNcnZ4pYTCgQC7S1w) | 6:52 |
 | 50 | [Mangal Gariya He](https://open.spotify.com/track/4ThM0yxqeDrWK0RBMfwg64) | [Adarsh Aadee](https://open.spotify.com/artist/0vZTfW7WeDGzgeim5bDJKt) | [Mangal Gariya He](https://open.spotify.com/album/74IL4qtE7Zo3qn6CRQqpdy) | 5:55 |
 
-Snapshot ID: `AAAAAKPFISaxNWbj2DYUsaWSTkK5pU2N`
+Snapshot ID: `AAAAAA9xBkNhv4lLqpra0XPrzmab7auj`

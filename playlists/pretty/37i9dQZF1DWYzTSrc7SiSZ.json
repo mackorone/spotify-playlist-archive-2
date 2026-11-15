@@ -1,6 +1,6 @@
 {
   "description": "Get the chill vibes going and flowing \u2728 Las vibras tranqui que ocupas en tu vida.",
-  "num_followers": 881068,
+  "num_followers": 880975,
   "original_name": "chill latino",
   "owner": {
     "name": "Spotify",
@@ -427,6 +427,22 @@
     {
       "added_at": "2026-09-18 04:02:12",
       "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/3PofNKhlbZJcew6j3APkeL"
+      },
+      "artists": [
+        {
+          "name": "BORJA",
+          "url": "https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw"
+        }
+      ],
+      "duration_ms": 196546,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/0VE8s4QgvxcapGhaJfgPbS"
+    },
+    {
+      "added_at": "2026-09-18 04:02:12",
+      "album": {
         "name": "pa' que sue\u00f1es",
         "url": "https://open.spotify.com/album/1bGXKrzpyFq1TVzNOr6Fbq"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 170795,
       "name": "pa' que sue\u00f1es",
       "url": "https://open.spotify.com/track/4KuSic9vPLVLgB5lCfeFQy"
-    },
-    {
-      "added_at": "2026-09-18 04:02:12",
-      "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/3PofNKhlbZJcew6j3APkeL"
-      },
-      "artists": [
-        {
-          "name": "BORJA",
-          "url": "https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw"
-        }
-      ],
-      "duration_ms": 196546,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/0VE8s4QgvxcapGhaJfgPbS"
     },
     {
       "added_at": "2026-09-18 04:02:12",
@@ -651,30 +651,6 @@
     {
       "added_at": "2026-09-18 04:02:12",
       "album": {
-        "name": "fr\u00edo",
-        "url": "https://open.spotify.com/album/1KNTUzCpkgLV9v7lgHdPmT"
-      },
-      "artists": [
-        {
-          "name": "Gus",
-          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
-        },
-        {
-          "name": "Yorghaki",
-          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
-        },
-        {
-          "name": "Luisa",
-          "url": "https://open.spotify.com/artist/4pQdwpmOtVV6iLgWjoEr6z"
-        }
-      ],
-      "duration_ms": 278490,
-      "name": "fr\u00edo",
-      "url": "https://open.spotify.com/track/0V6H31xM6WbPL1Bjsiqplx"
-    },
-    {
-      "added_at": "2026-09-18 04:02:12",
-      "album": {
         "name": "Ya",
         "url": "https://open.spotify.com/album/1Kk33rOeAVRk4VP0PuLIpA"
       },
@@ -767,6 +743,30 @@
     {
       "added_at": "2026-09-18 04:02:12",
       "album": {
+        "name": "fr\u00edo",
+        "url": "https://open.spotify.com/album/1KNTUzCpkgLV9v7lgHdPmT"
+      },
+      "artists": [
+        {
+          "name": "Gus",
+          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
+        },
+        {
+          "name": "Yorghaki",
+          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
+        },
+        {
+          "name": "Luisa",
+          "url": "https://open.spotify.com/artist/4pQdwpmOtVV6iLgWjoEr6z"
+        }
+      ],
+      "duration_ms": 278490,
+      "name": "fr\u00edo",
+      "url": "https://open.spotify.com/track/0V6H31xM6WbPL1Bjsiqplx"
+    },
+    {
+      "added_at": "2026-09-18 04:02:12",
+      "album": {
         "name": "Lluvia (Man120)",
         "url": "https://open.spotify.com/album/7HpxvfyReSCZwrHSEe5tPA"
       },
@@ -835,30 +835,6 @@
     {
       "added_at": "2026-09-18 04:02:12",
       "album": {
-        "name": "cuarto pa' las doce",
-        "url": "https://open.spotify.com/album/2ReN9ssYYTNOW3irKf5XB1"
-      },
-      "artists": [
-        {
-          "name": "Yorghaki",
-          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
-        },
-        {
-          "name": "Gus",
-          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
-        },
-        {
-          "name": "Gonza Silva",
-          "url": "https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn"
-        }
-      ],
-      "duration_ms": 144255,
-      "name": "cuarto pa' las doce",
-      "url": "https://open.spotify.com/track/7ueobUrOSSrdjS8Jdjx5rx"
-    },
-    {
-      "added_at": "2026-09-18 04:02:12",
-      "album": {
         "name": "Hoy",
         "url": "https://open.spotify.com/album/5rHEepmaS9qXal1O1uLfrz"
       },
@@ -871,22 +847,6 @@
       "duration_ms": 235102,
       "name": "Hoy",
       "url": "https://open.spotify.com/track/1pvwboMTkqES8ExXx5JBag"
-    },
-    {
-      "added_at": "2026-09-18 04:02:12",
-      "album": {
-        "name": "Lipstick ;*",
-        "url": "https://open.spotify.com/album/20trmfQgWbTcyQl7beIfPb"
-      },
-      "artists": [
-        {
-          "name": "Esteesgarcia",
-          "url": "https://open.spotify.com/artist/0rpoBOaSqljEMecAxSw26j"
-        }
-      ],
-      "duration_ms": 201500,
-      "name": "Lipstick ;*",
-      "url": "https://open.spotify.com/track/1lkaSFy9fe9Ra9XUCQ43Rq"
     },
     {
       "added_at": "2026-09-18 04:02:12",
@@ -907,6 +867,46 @@
       "duration_ms": 162000,
       "name": "Olas y Arenas",
       "url": "https://open.spotify.com/track/3eb2CrhtM1yEp2GQM8Svxn"
+    },
+    {
+      "added_at": "2026-09-18 04:02:12",
+      "album": {
+        "name": "Lipstick ;*",
+        "url": "https://open.spotify.com/album/20trmfQgWbTcyQl7beIfPb"
+      },
+      "artists": [
+        {
+          "name": "Esteesgarcia",
+          "url": "https://open.spotify.com/artist/0rpoBOaSqljEMecAxSw26j"
+        }
+      ],
+      "duration_ms": 201500,
+      "name": "Lipstick ;*",
+      "url": "https://open.spotify.com/track/1lkaSFy9fe9Ra9XUCQ43Rq"
+    },
+    {
+      "added_at": "2026-09-18 04:02:12",
+      "album": {
+        "name": "cuarto pa' las doce",
+        "url": "https://open.spotify.com/album/2ReN9ssYYTNOW3irKf5XB1"
+      },
+      "artists": [
+        {
+          "name": "Yorghaki",
+          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
+        },
+        {
+          "name": "Gus",
+          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
+        },
+        {
+          "name": "Gonza Silva",
+          "url": "https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn"
+        }
+      ],
+      "duration_ms": 144255,
+      "name": "cuarto pa' las doce",
+      "url": "https://open.spotify.com/track/7ueobUrOSSrdjS8Jdjx5rx"
     },
     {
       "added_at": "2026-09-18 04:02:12",
@@ -1059,26 +1059,6 @@
     {
       "added_at": "2026-09-18 04:02:12",
       "album": {
-        "name": "Lento",
-        "url": "https://open.spotify.com/album/0clIAjaELdNGYWu89nemOB"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
-        },
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 183265,
-      "name": "Lento",
-      "url": "https://open.spotify.com/track/7Fzu22wAv7NTHUeT3CjdnG"
-    },
-    {
-      "added_at": "2026-09-18 04:02:12",
-      "album": {
         "name": "Qu\u00e9 Dulce",
         "url": "https://open.spotify.com/album/0ne8odvK5xWK613ruve7X5"
       },
@@ -1095,6 +1075,26 @@
       "duration_ms": 133666,
       "name": "Qu\u00e9 Dulce",
       "url": "https://open.spotify.com/track/6xrBdJISdw3WTMtJVxll7W"
+    },
+    {
+      "added_at": "2026-09-18 04:02:12",
+      "album": {
+        "name": "Lento",
+        "url": "https://open.spotify.com/album/0clIAjaELdNGYWu89nemOB"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
+        },
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 183265,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/7Fzu22wAv7NTHUeT3CjdnG"
     },
     {
       "added_at": "2026-09-18 04:02:12",
@@ -1283,26 +1283,6 @@
     {
       "added_at": "2026-09-18 04:02:12",
       "album": {
-        "name": "I know",
-        "url": "https://open.spotify.com/album/6GRPgTY3rk3dgxsG9ZOkCu"
-      },
-      "artists": [
-        {
-          "name": "Javypablo",
-          "url": "https://open.spotify.com/artist/6M3xYeqwhquYOjf96D2mYq"
-        },
-        {
-          "name": "henry semler",
-          "url": "https://open.spotify.com/artist/1wBVtrDrvjQ5LKctUm01pS"
-        }
-      ],
-      "duration_ms": 177867,
-      "name": "I know",
-      "url": "https://open.spotify.com/track/5xCUOxO46AyKy4x0W7dxeM"
-    },
-    {
-      "added_at": "2026-09-18 04:02:12",
-      "album": {
         "name": "Espera (feat. Carlos Sadness)",
         "url": "https://open.spotify.com/album/0AZHlKXAlrkRx6iPs3s2dX"
       },
@@ -1319,6 +1299,26 @@
       "duration_ms": 232594,
       "name": "Espera (feat. Carlos Sadness)",
       "url": "https://open.spotify.com/track/40q4bzLjO9zqBIZYP442af"
+    },
+    {
+      "added_at": "2026-09-18 04:02:12",
+      "album": {
+        "name": "I know",
+        "url": "https://open.spotify.com/album/6GRPgTY3rk3dgxsG9ZOkCu"
+      },
+      "artists": [
+        {
+          "name": "Javypablo",
+          "url": "https://open.spotify.com/artist/6M3xYeqwhquYOjf96D2mYq"
+        },
+        {
+          "name": "henry semler",
+          "url": "https://open.spotify.com/artist/1wBVtrDrvjQ5LKctUm01pS"
+        }
+      ],
+      "duration_ms": 177867,
+      "name": "I know",
+      "url": "https://open.spotify.com/track/5xCUOxO46AyKy4x0W7dxeM"
     },
     {
       "added_at": "2026-09-18 04:02:12",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2026-09-18 04:02:12",
       "album": {
-        "name": "Pajaritos",
-        "url": "https://open.spotify.com/album/25sQj4ycXmGdHFu1TNn1r5"
-      },
-      "artists": [
-        {
-          "name": "Danny Schiller",
-          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
-        }
-      ],
-      "duration_ms": 144300,
-      "name": "Pajaritos",
-      "url": "https://open.spotify.com/track/2wrXCzqFhTrUiLx1Xra1zN"
-    },
-    {
-      "added_at": "2026-09-18 04:02:12",
-      "album": {
         "name": "Nadie Nos Entiende",
         "url": "https://open.spotify.com/album/6Vbahwg4jyo7Z64F8z9Ky2"
       },
@@ -1427,18 +1411,18 @@
     {
       "added_at": "2026-09-18 04:02:12",
       "album": {
-        "name": "if you let me",
-        "url": "https://open.spotify.com/album/79LzULw2zrLg3KllgzkCOK"
+        "name": "Pajaritos",
+        "url": "https://open.spotify.com/album/25sQj4ycXmGdHFu1TNn1r5"
       },
       "artists": [
         {
-          "name": "riela",
-          "url": "https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A"
+          "name": "Danny Schiller",
+          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
         }
       ],
-      "duration_ms": 160909,
-      "name": "if you let me",
-      "url": "https://open.spotify.com/track/0R7XVSEzG89NLlwxhiNTPL"
+      "duration_ms": 144300,
+      "name": "Pajaritos",
+      "url": "https://open.spotify.com/track/2wrXCzqFhTrUiLx1Xra1zN"
     },
     {
       "added_at": "2026-09-18 04:02:12",
@@ -1455,6 +1439,22 @@
       "duration_ms": 200727,
       "name": "Indirecta",
       "url": "https://open.spotify.com/track/3LHFIfINcMHX7LmiaI9mn3"
+    },
+    {
+      "added_at": "2026-09-18 04:02:12",
+      "album": {
+        "name": "if you let me",
+        "url": "https://open.spotify.com/album/79LzULw2zrLg3KllgzkCOK"
+      },
+      "artists": [
+        {
+          "name": "riela",
+          "url": "https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A"
+        }
+      ],
+      "duration_ms": 160909,
+      "name": "if you let me",
+      "url": "https://open.spotify.com/track/0R7XVSEzG89NLlwxhiNTPL"
     },
     {
       "added_at": "2026-09-18 04:02:12",
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2026-09-18 04:02:12",
       "album": {
+        "name": "Lo que escrib\u00ed mientras no estabas :)",
+        "url": "https://open.spotify.com/album/4oJqkH55g9SByDb6H8vwZc"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Rubio",
+          "url": "https://open.spotify.com/artist/5Nk0ZytxbTmln7pHwEEVYG"
+        }
+      ],
+      "duration_ms": 152256,
+      "name": "5 letras, 2 palabras",
+      "url": "https://open.spotify.com/track/4s3nqWkbqSisNpdrAPIwn3"
+    },
+    {
+      "added_at": "2026-09-18 04:02:12",
+      "album": {
         "name": "Hace Mucho",
         "url": "https://open.spotify.com/album/4eyZx0Fk5OPx6HqhDupAkl"
       },
@@ -1495,22 +1511,6 @@
       "duration_ms": 196909,
       "name": "Hace Mucho",
       "url": "https://open.spotify.com/track/04gW4DqauMsrec4IJN6swN"
-    },
-    {
-      "added_at": "2026-09-18 04:02:12",
-      "album": {
-        "name": "Lo que escrib\u00ed mientras no estabas :)",
-        "url": "https://open.spotify.com/album/4oJqkH55g9SByDb6H8vwZc"
-      },
-      "artists": [
-        {
-          "name": "Marcelo Rubio",
-          "url": "https://open.spotify.com/artist/5Nk0ZytxbTmln7pHwEEVYG"
-        }
-      ],
-      "duration_ms": 152256,
-      "name": "5 letras, 2 palabras",
-      "url": "https://open.spotify.com/track/4s3nqWkbqSisNpdrAPIwn3"
     },
     {
       "added_at": "2026-09-18 04:02:12",
@@ -1551,18 +1551,18 @@
     {
       "added_at": "2026-09-18 04:02:12",
       "album": {
-        "name": "Luces",
-        "url": "https://open.spotify.com/album/7mhGFgIm9IZpU8AQX6anG3"
+        "name": "135",
+        "url": "https://open.spotify.com/album/3bjtksgbIeMDC4dbdCFPZR"
       },
       "artists": [
         {
-          "name": "Danny Schiller",
-          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
+          "name": "Kimberley Tell",
+          "url": "https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka"
         }
       ],
-      "duration_ms": 165300,
-      "name": "Siempre Tendr\u00e9 Mi Voz",
-      "url": "https://open.spotify.com/track/43N6tDRX6XBjP7OeEFc7NC"
+      "duration_ms": 228214,
+      "name": "Trihte",
+      "url": "https://open.spotify.com/track/74HszoDuZf9JzKqFDxailX"
     },
     {
       "added_at": "2026-09-18 04:02:12",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2026-09-18 04:02:12",
       "album": {
-        "name": "135",
-        "url": "https://open.spotify.com/album/3bjtksgbIeMDC4dbdCFPZR"
-      },
-      "artists": [
-        {
-          "name": "Kimberley Tell",
-          "url": "https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka"
-        }
-      ],
-      "duration_ms": 228214,
-      "name": "Trihte",
-      "url": "https://open.spotify.com/track/74HszoDuZf9JzKqFDxailX"
-    },
-    {
-      "added_at": "2026-09-18 04:02:12",
-      "album": {
         "name": "Verano, por siempre",
         "url": "https://open.spotify.com/album/5ix1sSSCWiQf8hZKaiV0Tc"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 164601,
       "name": "habl\u00e9 con ella ayer",
       "url": "https://open.spotify.com/track/5pdDyw9gLInQtEqCJDLMqx"
+    },
+    {
+      "added_at": "2026-09-18 04:02:12",
+      "album": {
+        "name": "Luces",
+        "url": "https://open.spotify.com/album/7mhGFgIm9IZpU8AQX6anG3"
+      },
+      "artists": [
+        {
+          "name": "Danny Schiller",
+          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
+        }
+      ],
+      "duration_ms": 165300,
+      "name": "Siempre Tendr\u00e9 Mi Voz",
+      "url": "https://open.spotify.com/track/43N6tDRX6XBjP7OeEFc7NC"
     },
     {
       "added_at": "2026-09-18 04:02:12",

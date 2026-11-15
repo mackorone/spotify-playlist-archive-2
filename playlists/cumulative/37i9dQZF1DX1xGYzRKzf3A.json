@@ -5718,7 +5718,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 181506,
       "name": "Mi Tesoro",
       "url": "https://open.spotify.com/track/1kMcQ5ovfzCgvdMONCOWNS"
@@ -6964,6 +6964,24 @@
       "duration_ms": 208266,
       "name": "Por Que Te Tengo Que Olvidar",
       "url": "https://open.spotify.com/track/4yV699yWj5OnboFsF2eHtR"
+    },
+    {
+      "album": {
+        "name": "Idolos Del Pueblo",
+        "url": "https://open.spotify.com/album/1NL9uEozaXDi9wET7qCXfG"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205026,
+      "name": "Porque Te Extra\u00f1o",
+      "url": "https://open.spotify.com/track/2At9kdZFhADjYiOwd46ypk"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "\ud83c\udf31\ud83c\udf38\ud83c\udf3e\ud83c\udf3c\n",
-  "num_followers": 157627,
+  "num_followers": 157616,
   "original_name": "v\u00e5r i lufta",
   "owner": {
     "name": "Spotify",
@@ -995,22 +995,6 @@
     {
       "added_at": "2026-05-22 07:11:08",
       "album": {
-        "name": "Potion",
-        "url": "https://open.spotify.com/album/1ip3kwOjeoIXzxVwpqfL17"
-      },
-      "artists": [
-        {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
-        }
-      ],
-      "duration_ms": 167823,
-      "name": "Potion",
-      "url": "https://open.spotify.com/track/2mEgBXBksVpGBotlB1yGZD"
-    },
-    {
-      "added_at": "2026-05-22 07:11:08",
-      "album": {
         "name": "Hva vi kunne bli",
         "url": "https://open.spotify.com/album/0UG3jUBKtxD87IoznNgrev"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 175360,
       "name": "Hva vi kunne bli",
       "url": "https://open.spotify.com/track/11A6wBoTeemgHHuCotUL3u"
+    },
+    {
+      "added_at": "2026-05-22 07:11:08",
+      "album": {
+        "name": "Potion",
+        "url": "https://open.spotify.com/album/1ip3kwOjeoIXzxVwpqfL17"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "duration_ms": 167823,
+      "name": "Potion",
+      "url": "https://open.spotify.com/track/2mEgBXBksVpGBotlB1yGZD"
     },
     {
       "added_at": "2026-05-22 07:11:08",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2026-05-22 07:11:08",
       "album": {
-        "name": "Love & Hyperbole (Deluxe)",
-        "url": "https://open.spotify.com/album/6rBEtMQZsYPe9xtPpP9QdC"
-      },
-      "artists": [
-        {
-          "name": "Alessia Cara",
-          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
-        }
-      ],
-      "duration_ms": 192355,
-      "name": "Clean",
-      "url": "https://open.spotify.com/track/0tBXqaYjAqaQp55uRdhgAt"
-    },
-    {
-      "added_at": "2026-05-22 07:11:08",
-      "album": {
         "name": "Again, for the first time",
         "url": "https://open.spotify.com/album/395n7Rh9sxYRP7n9ylsNVd"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 219130,
       "name": "Alchemy (Living Is Not For The Heart)",
       "url": "https://open.spotify.com/track/3kkoHaiT9qQkEyMBNkdDxQ"
+    },
+    {
+      "added_at": "2026-05-22 07:11:08",
+      "album": {
+        "name": "Love & Hyperbole (Deluxe)",
+        "url": "https://open.spotify.com/album/6rBEtMQZsYPe9xtPpP9QdC"
+      },
+      "artists": [
+        {
+          "name": "Alessia Cara",
+          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
+        }
+      ],
+      "duration_ms": 192355,
+      "name": "Clean",
+      "url": "https://open.spotify.com/track/0tBXqaYjAqaQp55uRdhgAt"
     },
     {
       "added_at": "2026-05-22 07:11:08",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2026-05-22 07:11:08",
       "album": {
-        "name": "Fargepalett",
-        "url": "https://open.spotify.com/album/7DDnAh6stiJh89pYttClM6"
-      },
-      "artists": [
-        {
-          "name": "Nessi",
-          "url": "https://open.spotify.com/artist/6BU3m4HABKbgt8jhyFuBdl"
-        }
-      ],
-      "duration_ms": 141335,
-      "name": "Fargepalett",
-      "url": "https://open.spotify.com/track/7r8FITLqf8562PHKShR9gc"
-    },
-    {
-      "added_at": "2026-05-22 07:11:08",
-      "album": {
         "name": "Oppe p\u00e5 m\u00e5nen",
         "url": "https://open.spotify.com/album/2D2Q25zXzCo9uu8OydjVyl"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 215991,
       "name": "Oppe p\u00e5 m\u00e5nen",
       "url": "https://open.spotify.com/track/4PtFehKH1ric4In2Mc5Asg"
+    },
+    {
+      "added_at": "2026-05-22 07:11:08",
+      "album": {
+        "name": "Fargepalett",
+        "url": "https://open.spotify.com/album/7DDnAh6stiJh89pYttClM6"
+      },
+      "artists": [
+        {
+          "name": "Nessi",
+          "url": "https://open.spotify.com/artist/6BU3m4HABKbgt8jhyFuBdl"
+        }
+      ],
+      "duration_ms": 141335,
+      "name": "Fargepalett",
+      "url": "https://open.spotify.com/track/7r8FITLqf8562PHKShR9gc"
     },
     {
       "added_at": "2026-05-22 07:11:08",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2026-05-22 07:11:08",
       "album": {
-        "name": "Oh Love (Acoustic)",
-        "url": "https://open.spotify.com/album/2LYicowoYBTLSr5vRw0zOZ"
-      },
-      "artists": [
-        {
-          "name": "Emilie Nicolas",
-          "url": "https://open.spotify.com/artist/4cXE1g28uYrIaUisUx5cJt"
-        }
-      ],
-      "duration_ms": 201774,
-      "name": "Oh Love - Acoustic",
-      "url": "https://open.spotify.com/track/1eJJfaTChNekT1pudPc2Ur"
-    },
-    {
-      "added_at": "2026-05-22 07:11:08",
-      "album": {
         "name": "Revolve",
         "url": "https://open.spotify.com/album/5gl0GYihYgfulQPOEZMKEH"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 209078,
       "name": "Revolve",
       "url": "https://open.spotify.com/track/4c4SBx9iL4E8qqxOCNBHLP"
+    },
+    {
+      "added_at": "2026-05-22 07:11:08",
+      "album": {
+        "name": "Oh Love (Acoustic)",
+        "url": "https://open.spotify.com/album/2LYicowoYBTLSr5vRw0zOZ"
+      },
+      "artists": [
+        {
+          "name": "Emilie Nicolas",
+          "url": "https://open.spotify.com/artist/4cXE1g28uYrIaUisUx5cJt"
+        }
+      ],
+      "duration_ms": 201774,
+      "name": "Oh Love - Acoustic",
+      "url": "https://open.spotify.com/track/1eJJfaTChNekT1pudPc2Ur"
     },
     {
       "added_at": "2026-05-22 07:11:08",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2026-05-22 07:11:08",
       "album": {
+        "name": "Kanskje det g\u00e5r te helvete",
+        "url": "https://open.spotify.com/album/0PEq6f5FdryrgjnQaZxJt8"
+      },
+      "artists": [
+        {
+          "name": "Synne Vo",
+          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
+        }
+      ],
+      "duration_ms": 146813,
+      "name": "Gjesten p\u00e5 festen",
+      "url": "https://open.spotify.com/track/4SzHLgDM3mRV8WAuZXbBRs"
+    },
+    {
+      "added_at": "2026-05-22 07:11:08",
+      "album": {
         "name": "Ta med deg d\u00f8ra",
         "url": "https://open.spotify.com/album/4VHqpvGnzLuNqkT5cEbE4K"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 211810,
       "name": "Ta med deg d\u00f8ra",
       "url": "https://open.spotify.com/track/1OAkvD5srk4M9AGZk0gSPQ"
-    },
-    {
-      "added_at": "2026-05-22 07:11:08",
-      "album": {
-        "name": "Finaste s\u00e5 finns",
-        "url": "https://open.spotify.com/album/3zhOvMVq1g3idvO6BnboI1"
-      },
-      "artists": [
-        {
-          "name": "Stavangerkameratene",
-          "url": "https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA"
-        }
-      ],
-      "duration_ms": 190405,
-      "name": "Finaste s\u00e5 finns",
-      "url": "https://open.spotify.com/track/7JBNrNLt5nncS9OYTBFA2F"
     }
   ],
   "unique_name": "v\u00e5r i lufta",

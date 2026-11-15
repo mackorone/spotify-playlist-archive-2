@@ -4,7 +4,7 @@
 
 > This is Los Desvelados\. The essential tracks, all in one playlist.
 
-110 songs - 5 hr 58 min
+111 songs - 6 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Esta Llorando Mi Corazón](https://open.spotify.com/track/0g6SWqcXWn4jytXqPd4VIu) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [LA Privada](https://open.spotify.com/album/0PNMxKlPkcdUXEwCf9pcPf) | 3:27 | 2025-05-27 | 2025-06-03 |
 | [Gato Del Infierno](https://open.spotify.com/track/1u5qaB4m4tA5iN6qPFKpGt) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9), [Kompa Marley](https://open.spotify.com/artist/1mBO23E1cp3ltS0Idp7aea) | [Gato Del Infierno](https://open.spotify.com/album/32lMPL2qsmUvNMZA0rYFdl) | 2:49 | 2026-05-10 |  |
 | [Gente De Accionar \(feat\. La Edicion De Culiacan\)](https://open.spotify.com/track/6IL0KT5ngyffCx9rXydIUs) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9), [La Edición de Culiacán](https://open.spotify.com/artist/14DIWXxTBoAzGJNsAFvNWU) | [Mexican Mafia Corridos](https://open.spotify.com/album/792fLNAl0z9jvw9q8OZljr) | 2:52 | 2024-10-28 | 2025-10-30 |
-| [Gucci](https://open.spotify.com/track/7kSRQrZzc36I1XYFFMiDlW) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Corridos Underground 3](https://open.spotify.com/album/6JB8Cl3UTvFUF5aM8Xrg11) | 3:47 | 2024-01-29 |  |
+| [Gucci](https://open.spotify.com/track/7kSRQrZzc36I1XYFFMiDlW) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Corridos Underground 3](https://open.spotify.com/album/6JB8Cl3UTvFUF5aM8Xrg11) | 3:47 | 2024-01-29 | 2026-11-15 |
 | [Hay Les Voy De Nuevo](https://open.spotify.com/track/72oyJ4ZmOWPuqyXw2d6I6m) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9), [Los Juniors de California](https://open.spotify.com/artist/3Eqt4YgWB1MBq9E692lhk1) | [A Los Angeles Hay Que Tenerle Cuidado](https://open.spotify.com/album/1y5k7rVaORgLzzlhrs4e8B) | 3:14 | 2024-01-29 |  |
 | [HUMILDE Y RANCHERO](https://open.spotify.com/track/1AfJbVYMxJpwy8VKmtViS5) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [CORRIDOS UNDERGROUND \(Vol\. 4\)](https://open.spotify.com/album/2Nqb3yTWqrq8IJ5hPMn9UY) | 4:09 | 2024-04-27 | 2024-08-22 |
 | [Humilde y Sencillo \(En Vivo\)](https://open.spotify.com/track/5w7W726cvmYEG4WUnNzjfT) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Corridos Underground Desde Culiacan Sin \(En Vivo\)](https://open.spotify.com/album/0h0VNlor4eGbnLPC71mRdp) | 1:49 | 2024-01-29 | 2025-01-05 |
@@ -97,6 +97,7 @@
 | [Porte De Malandro](https://open.spotify.com/track/7dgBR2KWzr3dfLWGVp9q4U) | [La Nueva Leyenda](https://open.spotify.com/artist/3o3A0S0ueru5iFkSKRwxxZ), [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Porte De Malandro](https://open.spotify.com/album/3Htm80BddP2bENKnvMcvKx) | 3:46 | 2024-03-28 | 2025-09-29 |
 | [Quien Es Quien](https://open.spotify.com/track/6LfcpjezozJFYAarlGYTs3) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9), [Los 2 Primos](https://open.spotify.com/artist/2fcdtCvdYIYSNM8ywXHOua) | [A Los Angeles Hay Que Tenerle Cuidado](https://open.spotify.com/album/1y5k7rVaORgLzzlhrs4e8B) | 3:31 | 2024-01-29 | 2024-05-22 |
 | [Quien Es Quien](https://open.spotify.com/track/7KXMg5P1prQfS3vtedemX9) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9), [Los Pistones De Uriel Valdez](https://open.spotify.com/artist/7k1FiT4LBe1fIkVSdI8Dmn) | [Quien Es Quien](https://open.spotify.com/album/0BkKVjZfHP0tAI4f7gHd2j) | 3:42 | 2024-05-22 |  |
+| [Quién Será](https://open.spotify.com/track/68SU3twVPfkMalr5jko3Yk) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Quién Será](https://open.spotify.com/album/2wbUWdOCXxdxycsqRZId6f) | 4:02 | 2026-11-15 |  |
 | [Recuérdame Bonito](https://open.spotify.com/track/70kH8OQkCgKExAg8oYGI9c) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Recuérdame Bonito](https://open.spotify.com/album/1u9IQOnTKMKXV4LpNqfVy7) | 3:30 | 2024-07-08 | 2025-02-09 |
 | [Richie Rich \- En Vivo](https://open.spotify.com/track/76riIUqicpsvEGQhMBRQcK) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Richie Rich \(En Vivo\)](https://open.spotify.com/album/4tDTE2gaLPGeIoN2QzW8zi) | 2:52 | 2024-01-29 |  |
 | [Rolex En Mano](https://open.spotify.com/track/0A5LFi7g3LHo1mY0HEHFQt) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Rolex En Mano](https://open.spotify.com/album/3ACfdX2U7qNHU08ZlBw8rH) | 3:20 | 2026-07-24 |  |

@@ -4,7 +4,7 @@
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-351 songs - 21 hr 52 min
+352 songs - 21 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Catch the Bunny](https://open.spotify.com/track/3ULtM3rM1C2eAsTOjhAkCL) | [On\-Off](https://open.spotify.com/artist/3Qb1E9hm1R0In79aIumUsR) | [Don't Forget the Roll](https://open.spotify.com/album/5wuEmaSZr4KX0WxiXCVyjk) | 3:32 | 2026-07-13 | 2026-08-08 |
 | [Chaos Brigade](https://open.spotify.com/track/1j2nbyRDm8jQInkIIVFfb2) | [Gradience](https://open.spotify.com/artist/6jgh7lYvPsSFJPa0OMkWH4) | [Come What May](https://open.spotify.com/album/71Dim5arhXCh24W6BP7oiB) | 4:25 | 2026-03-14 | 2026-05-19 |
 | [Chase the Feeling](https://open.spotify.com/track/5oFYQLAdS7YlQSMl6C2PzT) | [Station 301](https://open.spotify.com/artist/1ApohnXtENC8CFKfOmuoyx) | [Chase the Feeling](https://open.spotify.com/album/3QbZWdf9GH6lOH7wlc8qRa) | 2:35 | 2026-08-29 | 2026-10-11 |
+| [Chasing The Pain](https://open.spotify.com/track/1QTIeW4raevjoFoqCnpyJN) | [Eric Dover](https://open.spotify.com/artist/7gsPTHnMvjXV2j2yI5o7rA), [Devilfire](https://open.spotify.com/artist/4NzMsvQzasrFhegc5P5zLn) | [Black Soul Vendetta](https://open.spotify.com/album/3Q1t7CRjx91TZjWu15fpXn) | 3:57 | 2026-11-14 |  |
 | [Cherry Vice](https://open.spotify.com/track/4w8KqyKtWt2qEWYBaVeg6a) | [Dizzy Daffodils](https://open.spotify.com/artist/1d6SQiQelLAdAjeiKX9CTm) | [Cherry Vice](https://open.spotify.com/album/2GwrxKasqTphRbauTYFc3h) | 4:18 | 2026-03-28 | 2026-05-19 |
 | [Chicago](https://open.spotify.com/track/0uhM1mDQ9tsxPdV4oorvUv) | [Follow Deep](https://open.spotify.com/artist/0pi2JVymYDQ1helz6Z1AOg) | [Chicago](https://open.spotify.com/album/5V7ZgYI3RoHeLYNtiJoTLB) | 3:09 | 2026-07-13 | 2026-08-08 |
 | [Cigarette](https://open.spotify.com/track/56tdisH0RpjtEIxdTkCmny) | [sullivan grace band](https://open.spotify.com/artist/3ksrh2WkrKJmEeerKl2bpd) | [Cigarette](https://open.spotify.com/album/1V3mMM3bSlH3RYOvpQ4apt) | 2:23 | 2025-11-05 | 2026-03-21 |

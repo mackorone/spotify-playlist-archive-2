@@ -4,7 +4,7 @@
 
 > Your favorite artists, recorded live \- just like you were there! Cover: Eric Church
 
-235 songs - 16 hr 41 min
+236 songs - 16 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Cold Beer Calling My Name \- Live](https://open.spotify.com/track/1cAWVia2LjLD7F0ESODY8u) | [Jameson Rodgers](https://open.spotify.com/artist/5pyVHz7lcfqKoV9BflFYwN) | [Live from Oxford, MS](https://open.spotify.com/album/3Pe6oAFJJTCRxNEvNrxczL) | 3:42 | 2022-05-06 | 2024-05-05 |
 | [Colder Weather \(feat\. Little Big Town\) \- Live](https://open.spotify.com/track/6TUK6UJ3A0YbGsiyPgYzYV) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo), [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Pass the Jar \[Zac Brown Band and Friends from the Fabulous Fox Theatre in Atlanta \(Live\)\]](https://open.spotify.com/album/3ry9xiyNvOTqzI4wd74wKz) | 4:29 | 2022-07-22 | 2024-04-19 |
 | [Colder Weather \(feat\. Little Big Town\) \[Live\] \[Pass the Jar \- Zac Brown Band and Friends Live from the Fabulous Fox Theatre in Atlanta\]](https://open.spotify.com/track/6zshANE5F24ouL8THcKfxc) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo), [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Pass the Jar \- Zac Brown Band and Friends from the Fabulous Fox Theatre in Atlanta \(Live\)](https://open.spotify.com/album/0nrT2YzJC2dDiBajEb84Pb) | 4:29 | 2021-07-22 | 2024-05-05 |
+| [Copperhead Road \- Live from Cain's Ballroom](https://open.spotify.com/track/3pPM3VpY50EnlNn7Ktm5Kd) | [Waylon Wyatt](https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol) | [Arkansas Diamond/Copperhead Road \(Live from Cain's Ballroom\)](https://open.spotify.com/album/5jnUVBr7vgLnuz1DssPxcx) | 4:31 | 2026-11-13 |  |
 | [County Roads \(Live At The Basement East\)](https://open.spotify.com/track/4bvW4uSC2l8njWBBngBXRp) | [Elvie Shane](https://open.spotify.com/artist/2eIB6vFotL2su94z3pUC1j) | [County Roads \(Live At The Basement East\)](https://open.spotify.com/album/0830KT6sUx0dI84JECxfaH) | 3:30 | 2023-11-03 | 2024-04-19 |
 | [County Roads \- Live At The Basement East](https://open.spotify.com/track/3R9PwZfJT95NP9E2UuIcld) | [Elvie Shane](https://open.spotify.com/artist/2eIB6vFotL2su94z3pUC1j) | [County Roads \(Live At The Basement East\)](https://open.spotify.com/album/7wrvsCtkqd3jh8qAkR5773) | 3:30 | 2022-07-22 | 2024-05-05 |
 | [Cowboy Songs \- Live](https://open.spotify.com/track/3YiAJC9QQn1BepgcM2Rybt) | [George Birge](https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp) | [Cowboy Songs \(Live\)](https://open.spotify.com/album/1UoCRTiOP2hmyYZpabI4nG) | 4:29 | 2024-08-30 |  |
@@ -176,7 +177,7 @@
 | [She Thinks My Tractor's Sexy \- Live](https://open.spotify.com/track/2NePleuMNN4kNLihiFxaSn) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Kenny Chesney Live](https://open.spotify.com/album/21pC8GFru8M98MhMCWONk9) | 6:02 | 2021-07-22 | 2024-05-05 |
 | [She's Got You \- Live](https://open.spotify.com/track/6Gp7e0mLOFSI0AmV30E8fw) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK) | [On The Air: Her Best TV Performances](https://open.spotify.com/album/5iKpYBmAMsyGD5iTD3VjVf) | 2:46 | 2024-05-04 |  |
 | [She's in Love With the Boy \(Live\)](https://open.spotify.com/track/6ww19WNCddWn5QExASiph2) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Big Bang Concert Series: Trisha Yearwood \(Live\)](https://open.spotify.com/album/5nCzwPWbcXh561sRFqMndk) | 4:55 | 2021-07-22 | 2024-05-05 |
-| [Simple Man \- Live](https://open.spotify.com/track/0cASCmwoKomXJVSb7XSGrp) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0), [Brent Smith](https://open.spotify.com/artist/72WcGKyczmErhVnMOUi0aR) | [Simple Man \(Live\)](https://open.spotify.com/album/6ISYrJtuC4lFObXlXw4lm1) | 7:03 | 2025-06-13 |  |
+| [Simple Man \- Live](https://open.spotify.com/track/0cASCmwoKomXJVSb7XSGrp) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0), [Brent Smith](https://open.spotify.com/artist/72WcGKyczmErhVnMOUi0aR) | [Simple Man \(Live\)](https://open.spotify.com/album/6ISYrJtuC4lFObXlXw4lm1) | 7:03 | 2025-06-13 | 2026-11-15 |
 | [Slow Dancing In A Burning Room \(Circle Sessions\)](https://open.spotify.com/track/5lc6hhwOvfNJjZy5EyrbxG) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky) | [ERNEST & The Fellas Unplugged](https://open.spotify.com/album/0lxxrZlnRP8K7gIqspSDjU) | 3:54 | 2023-09-29 | 2023-10-06 |
 | [Small Town USA \- Live at the Ryman](https://open.spotify.com/track/3IlNQTAmA6HPbAmXQkjdhi) | [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk) | [Small Town USA \(Live at the Ryman\)](https://open.spotify.com/album/54i0bNcUszicenkyRY293M) | 4:07 | 2021-07-22 | 2024-05-05 |
 | [Small Town USA \- Live at the Ryman](https://open.spotify.com/track/78XFo6H6HLkHRZ6DtKeuMz) | [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk) | [Live at the Ryman](https://open.spotify.com/album/2whvNZuhYac09csrAN05CI) | 4:07 | 2022-07-22 | 2024-04-19 |

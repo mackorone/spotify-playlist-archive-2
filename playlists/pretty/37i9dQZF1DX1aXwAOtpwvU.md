@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aXwAOtpwvU.md) - [plain]
 
 > Odkryj nowych ulubionych artystów\. Cover:  <a href="spotify:artist:3KL9m4NwBRDjBEcybcgfyh">wane</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,121 likes - 131 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,120 likes - 131 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Dom](https://open.spotify.com/track/3Lxr86TMVB6os3baoF8cmL) | [wane](https://open.spotify.com/artist/3KL9m4NwBRDjBEcybcgfyh) | [Blueprint](https://open.spotify.com/album/3yicFMcjxT9VPawzGoDKhG) | 2:26 |
+| 1 | [Dom](https://open.spotify.com/track/3Lxr86TMVB6os3baoF8cmL) | [wane](https://open.spotify.com/artist/3KL9m4NwBRDjBEcybcgfyh) | [BLUEPRINT](https://open.spotify.com/album/3yicFMcjxT9VPawzGoDKhG) | 2:26 |
 | 2 | [Away](https://open.spotify.com/track/2v3Xu59V4lqBZvYvL5a8fb) | [Pola](https://open.spotify.com/artist/35TNTrLhxCXmfO4wL4IWUa), [SHDØW](https://open.spotify.com/artist/1k4FU2VP9e8I3yY9tz3Stt) | [Away](https://open.spotify.com/album/1Po0QBhBPS3stIPt6GylQ0) | 2:13 |
 | 3 | [kocham zabijać hoes](https://open.spotify.com/track/46qprjYO7ZUnjmKXBecGdM) | [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT) | [kocham zabijać hoes](https://open.spotify.com/album/2LKcXaxHS03bbARf6k7zQR) | 1:16 |
 | 4 | [ZAWÓD](https://open.spotify.com/track/10o24viOtzS9Zme7RgEbBX) | [Sad Smiles](https://open.spotify.com/artist/5LISNIIF2dVg8fxzZImkzo), [Krzysztof Zalewski](https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK) | [KOMERCJA](https://open.spotify.com/album/6Nqui0OzPxLAJ7eJtL0owu) | 3:20 |
 | 5 | [non stop](https://open.spotify.com/track/6tHKBq4Vb21lez5ielAVBo) | [Dominika Płonka](https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8) | [non stop](https://open.spotify.com/album/50fb1YtGDYx9Ak0VG6Bm6R) | 2:58 |
-| 6 | [NO LUV](https://open.spotify.com/track/6u6DCwbtN56Gj35AGVv46M) | [maja janowska](https://open.spotify.com/artist/7qAu2kYGjO28g0CJERiQhM) | [NO LUV](https://open.spotify.com/album/51xvWVptIEi1fE6i4VfyiW) | 2:05 |
+| 6 | [NO LUV](https://open.spotify.com/track/6u6DCwbtN56Gj35AGVv46M) | [maja janowska](https://open.spotify.com/artist/7qAu2kYGjO28g0CJERiQhM), [octoblxst](https://open.spotify.com/artist/1LGiix82lfaHRfzCVMlvrL), [nouserline](https://open.spotify.com/artist/4QN3xq0dDCfswGdQdZ1rwp) | [NO LUV](https://open.spotify.com/album/51xvWVptIEi1fE6i4VfyiW) | 2:05 |
 | 7 | [Żebro](https://open.spotify.com/track/5lkBxACWDaBkG91TtfGDUk) | [Natalia Marczuk](https://open.spotify.com/artist/5WQXxSI1Mw50K1bAo7rd62) | [Plamy](https://open.spotify.com/album/13XuGo1xqZV4gfrD7rB72P) | 3:31 |
 | 8 | [365 widoków na przyszłość](https://open.spotify.com/track/03ZOrxyNE9Bo9CVGCpNwDc) | [metro](https://open.spotify.com/artist/5TuV5KauTXLFX1ODD7mEb0) | [365 widoków na przyszłość](https://open.spotify.com/album/5Dxrh7sIALavUQhIyGHLjq) | 3:35 |
 | 9 | [chodzi o nas](https://open.spotify.com/track/0vdVLBqXoN49A1ojHoLMwn) | [Kajetan Wolas](https://open.spotify.com/artist/6tpxFh5TlBxnHzrAfFlCXj), [Qncicka](https://open.spotify.com/artist/5xnomfZ4gxl88B5hJixOHZ), [lessman](https://open.spotify.com/artist/7rECpmD47z8OpXvtQg6Mve) | [chodzi o nas](https://open.spotify.com/album/7LnqXRWxS6hWDUkTOMupx8) | 3:21 |
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aXwAOtpwvU.md) - [plain]
 | 35 | [BESOS](https://open.spotify.com/track/7xgb8DRD74b2UhUUkRtzqv) | [Jan Marczewski](https://open.spotify.com/artist/0JIgW2OFhm0hH8UdCMU5SU), [Hugo Tarres](https://open.spotify.com/artist/6VaYrjshHIPyNBnmVdLdgQ) | [BESOS](https://open.spotify.com/album/5iDoFpdKXCswpu35WTZMjg) | 2:38 |
 | 36 | [poza Tobą nic](https://open.spotify.com/track/4fxmxMlrViwVyolXZJUJ8Z) | [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [poza Tobą nic](https://open.spotify.com/album/6NLJMNdUdNY3Mv2jnlxKWv) | 2:53 |
 | 37 | [A2](https://open.spotify.com/track/2Rp3DxWW6buNBK55yJGlDa) | [Carla Fernandes](https://open.spotify.com/artist/2PowY1osU1K9Qa8d1fn0PF) | [A2](https://open.spotify.com/album/1j4NyStUaoif2pPqvC7NYB) | 3:15 |
-| 38 | [MAM TO](https://open.spotify.com/track/0QL7cweJhjP0JGNMgKrpwa) | [maja janowska](https://open.spotify.com/artist/7qAu2kYGjO28g0CJERiQhM) | [MAM TO](https://open.spotify.com/album/4bJQIeloOH45HRwjWvn7xn) | 2:24 |
+| 38 | [MAM TO](https://open.spotify.com/track/0QL7cweJhjP0JGNMgKrpwa) | [maja janowska](https://open.spotify.com/artist/7qAu2kYGjO28g0CJERiQhM), [Koder](https://open.spotify.com/artist/1qJPIWsxxzTulBOb5kFllO), [Deemz](https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt) | [MAM TO](https://open.spotify.com/album/4bJQIeloOH45HRwjWvn7xn) | 2:24 |
 | 39 | [daj mi znak](https://open.spotify.com/track/7qOAHK3XcMHz9YlSopJ107) | [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [daj mi znak](https://open.spotify.com/album/5crKBVQ9Tp0yMZJrgDCNG7) | 2:44 |
 | 40 | [Szklane oczy](https://open.spotify.com/track/34ZbBdoFqHbBG069yK9aiq) | [bryska](https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh) | [Szklane oczy](https://open.spotify.com/album/75foZ05gIGgmWm3aI57zjO) | 2:45 |
 | 41 | [SO BAD!](https://open.spotify.com/track/4y6B57dTltCg3HxMB8c0Ge) | [Marie](https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M) | [SO BAD!](https://open.spotify.com/album/0nG9De2yIW4XvXl7TBkZnt) | 2:30 |

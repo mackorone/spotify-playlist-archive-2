@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from  DJ Tunez, Solana, Patoranking, Wande Coal,  Sarkodie, Zlatan,  and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,241 likes - 75 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,342 likes - 75 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 52 | [Let Me Cook](https://open.spotify.com/track/6ZkrQjZc3PEqfHv6pOyRiN) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [Keep Your Head Up](https://open.spotify.com/album/7fclnqIs4EEWpCo2pK1VMI) | 2:08 |
 | 53 | [Torn \(feat\. Dolly Parton\)](https://open.spotify.com/track/28voksbZPIhS2dJV6iLS1h) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Carnaval De Luz](https://open.spotify.com/album/07Q9bUJarYrFjhxofoenM0) | 4:30 |
 | 54 | [Balcony](https://open.spotify.com/track/1JA0rEw4t0xKotSVJPTpBe) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Balcony](https://open.spotify.com/album/7um76kaVTA4001Soogzgyv) | 1:56 |
-| 55 | [Inhlawulo](https://open.spotify.com/track/2VIHMyKE1cyMG1jAH4qRH9) | [Mlindo The Vocalist](https://open.spotify.com/artist/09CY8fzqhZHR7rQAULoreI) | [INHLAWULO](https://open.spotify.com/album/2riuu9A3fmVezUYkvm6XMs) | 4:55 |
+| 55 | [Inhlawulo](https://open.spotify.com/track/2VIHMyKE1cyMG1jAH4qRH9) | [Mlindo The Vocalist](https://open.spotify.com/artist/09CY8fzqhZHR7rQAULoreI) | [INHLAWULO](https://open.spotify.com/album/2riuu9A3fmVezUYkvm6XMs) | 4:56 |
 | 56 | [Golide \(feat\. Smaki 08\)](https://open.spotify.com/track/4DeN5qXfo94NLLHGOVnNV5) | [Shakes & Les](https://open.spotify.com/artist/4bslbAAfObKnJI0G6FNcTp), [Mangoli](https://open.spotify.com/artist/1nRxeLH4E3xrXwEuaULvIn), [Smaki 08](https://open.spotify.com/artist/3UWe7UnbC6ZfUxJ6AoqBkQ) | [Groovinhos Kitchen 2](https://open.spotify.com/album/3dfGsaImuSGUgHfk7EBZ7k) | 6:22 |
 | 57 | [Around You](https://open.spotify.com/track/3tTGaPYwzirwlwjmUgQP34) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5) | [Around You](https://open.spotify.com/album/2eGHwaamCReFCTP9iL5F0y) | 2:04 |
 | 58 | [Ntariana](https://open.spotify.com/track/6SIsp9mIKzsNf8vVgp2vTB) | [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L), [Young Stunna](https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ) | [Ntariana](https://open.spotify.com/album/2P38PPBp6wBQkN1hslpuic) | 3:36 |

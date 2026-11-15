@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmZGpUXCq32.md) - [plain]
 | 63 | [Say Their Names](https://open.spotify.com/track/0lDrL93o8AOmL2OVRjc4Ki) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Something to Say](https://open.spotify.com/album/3Hz4JSR7mxab24T8K8jQOx) | 3:36 |
 | 64 | [In My Feelings](https://open.spotify.com/track/4coXD38RAf56jP4ZGIwQfP) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Best of Me](https://open.spotify.com/album/0SFLxkiRkdKuldGjLvlW7P) | 2:14 |
 | 65 | [Good Nature](https://open.spotify.com/track/2KYxuRu5NJfNlXiXVhFdtB) | [D'Sound](https://open.spotify.com/artist/2EyVzQKEoNoGCAWJYfoJRg), [Pher](https://open.spotify.com/artist/0nSqvdQSOrHHliAxtRrz7N), [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [25](https://open.spotify.com/album/359sbIX1FqGQ08ohs2z3on) | 3:22 |
-| 66 | [What a Pity](https://open.spotify.com/track/1SxWq956NaCVQsIN6ZupF6) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Operation Funk](https://open.spotify.com/album/5LOlSBya1sfbXDP53KK2A3) | 4:06 |
-| 67 | [The Line](https://open.spotify.com/track/1Ky1KwQc16K8TMFwvoa123) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Operation Funk](https://open.spotify.com/album/5LOlSBya1sfbXDP53KK2A3) | 5:46 |
+| 66 | [The Line](https://open.spotify.com/track/1Ky1KwQc16K8TMFwvoa123) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Operation Funk](https://open.spotify.com/album/5LOlSBya1sfbXDP53KK2A3) | 5:46 |
+| 67 | [What a Pity](https://open.spotify.com/track/1SxWq956NaCVQsIN6ZupF6) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Operation Funk](https://open.spotify.com/album/5LOlSBya1sfbXDP53KK2A3) | 4:06 |
 | 68 | [Black Man](https://open.spotify.com/track/5YeEoDVrHAMxkr415ZIGMx) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Something to Say](https://open.spotify.com/album/3Hz4JSR7mxab24T8K8jQOx) | 3:23 |
 | 69 | [Grey \(feat\. Jay White\)](https://open.spotify.com/track/7AP7Z0CgYWosOaAKdriNXt) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s), [Jay White](https://open.spotify.com/artist/69p9DNc1W1xZ4EzekPCSNf) | [Gotcha Now Doc](https://open.spotify.com/album/7pHAuTN3sOfBQyouX96uOd) | 8:39 |
 | 70 | [Dedicated](https://open.spotify.com/track/6d9300vLY1yGZg98A8YelW) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Something to Say](https://open.spotify.com/album/3Hz4JSR7mxab24T8K8jQOx) | 2:55 |
@@ -131,4 +131,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmZGpUXCq32.md) - [plain]
 | 121 | [Leap of Faith](https://open.spotify.com/track/4mwSkN12OpWi1Wp9k5Oesq) | [The PRVLG](https://open.spotify.com/artist/2BWNNDrfiAwUHbkihc16I4) | [Lover Girl's Playlist Pt\. 1](https://open.spotify.com/album/2AMZkJYM8t5bloohspD4y6) | 3:00 |
 | 122 | [Offering Song Address](https://open.spotify.com/track/4VotLKO4qyqCJqI75bAiFQ) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Church](https://open.spotify.com/album/5vqskMdlhybKNMes3uEAEn) | 0:18 |
 
-Snapshot ID: `AchmDAAAAAAnn+P/+/71n0H3V4QFsnIf`
+Snapshot ID: `AchrrAAAAABIR4T94mq7ucTQS/BoRLh3`

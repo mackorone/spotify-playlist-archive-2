@@ -4,7 +4,7 @@
 
 > This is Krewella\. The essential tracks, all in one playlist.
 
-94 songs - 5 hr 30 min
+95 songs - 5 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [No Control](https://open.spotify.com/track/5yFhOx23Dnz3h7hplodAgf) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr), [MADGRRL](https://open.spotify.com/artist/5kDQRbBoi2kxCHuR3YXzaX) | [No Control](https://open.spotify.com/album/4kfYq4PhFlLxL86Qv86jFK) | 2:43 | 2023-05-02 | 2024-03-18 |
 | [No Regrets \(feat\. Krewella\)](https://open.spotify.com/track/58hjBuGWj43LQ6WjN3ZQAK) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [No Regrets \(feat\. Krewella\)](https://open.spotify.com/album/15JbJKXrnx0PinFy7e5e7D) | 3:04 | 2023-05-02 |  |
 | [No Regrets \(feat\. Krewella\) \[YUSSI Remix\]](https://open.spotify.com/track/6EH33BG9UhIYrezYC7v2Mx) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [YUSSI](https://open.spotify.com/artist/1IwkSL4i4wIu40Cej0a997), [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [No Regrets \(feat\. Krewella\) \[YUSSI Remix\]](https://open.spotify.com/album/3dpwY24QK5adMTsTs6mmOI) | 3:57 | 2025-06-16 | 2025-09-24 |
+| [ONE LIFE](https://open.spotify.com/track/20Ng8SVSE2LJi9jfqgCJ88) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr), [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN) | [ONE LIFE](https://open.spotify.com/album/1KWmIGhbweDzk3R7RUlHBW) | 3:40 | 2026-11-15 |  |
 | [One Minute](https://open.spotify.com/track/2K54tYOF2c6CBO3ZNhKcmS) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [Play Hard EP](https://open.spotify.com/album/5EQQiOF2nQibGXo7a9vZ7m) | 4:13 | 2023-05-02 |  |
 | [One Minute \- DotEXE's Dopest Dope Remix](https://open.spotify.com/track/7otA8szJGViWVnvnPpPdPx) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [One Minute \(DotEXE's Dopest Dope Remix\)](https://open.spotify.com/album/7IVhs9pnZw5YeqOqnea3oh) | 4:46 | 2026-08-26 | 2026-08-28 |
 | [Overboard](https://open.spotify.com/track/3Vs2wRyT9dHmyiR5jLBcIC) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [zer0](https://open.spotify.com/album/5orXIakLkSIQAi9XsHOWEb) | 3:02 | 2025-05-07 | 2025-05-13 |
@@ -91,7 +92,7 @@
 | [Surrender The Throne](https://open.spotify.com/track/6609cCUb8ayZkTUvkJ03Rm) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [Ammunition](https://open.spotify.com/album/2F1dgnWAcVnBlX6Qp0MlBG) | 3:15 | 2023-05-02 |  |
 | [Team](https://open.spotify.com/track/3NRrvr3ctGwpV1wLRjgSSs) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [Team](https://open.spotify.com/album/4egttCfKypFMnO6eE3OT2R) | 3:06 | 2023-05-02 |  |
 | [TH2C](https://open.spotify.com/track/5vnxTBEsJQs090J05EQl7X) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [New World Pt\. 1](https://open.spotify.com/album/2Ar8jEA2FlEofQbzLZAcXz) | 3:11 | 2023-05-02 |  |
-| [the blueprint](https://open.spotify.com/track/5CpV2AyTNHN0HLb9tzLktS) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [the blueprint](https://open.spotify.com/album/2NET7sWOvYpiFKtrQwpWLc) | 3:10 | 2026-08-09 |  |
+| [the blueprint](https://open.spotify.com/track/5CpV2AyTNHN0HLb9tzLktS) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [the blueprint](https://open.spotify.com/album/2NET7sWOvYpiFKtrQwpWLc) | 3:10 | 2026-08-09 | 2026-11-15 |
 | [TILL IT HITS!](https://open.spotify.com/track/026QEX8MQKzD09OHn85HFO) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [PEAK](https://open.spotify.com/album/5OmsoAP1jXbXfDDKlMv1PM) | 3:07 | 2026-09-07 |  |
 | [Traces](https://open.spotify.com/track/7kOpxtjJU6cwm88LYpyHUY) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [The Body Never Lies](https://open.spotify.com/album/2xNgUtEGxaLSq5d9VGhhWy) | 3:46 | 2024-12-09 | 2025-06-29 |
 | [United Kids of the World \(feat\. Krewella\)](https://open.spotify.com/track/61Cx5cbYUgDTA2m4SuKJ37) | [Headhunterz](https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy), [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [United Kids of the World \(feat\. Krewella\)](https://open.spotify.com/album/2kMgZuBJTzKxOr4pJdyHk0) | 4:16 | 2023-07-12 |  |

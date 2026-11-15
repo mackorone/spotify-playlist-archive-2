@@ -1,12 +1,12 @@
 {
   "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo \u2728 en un vibe con ZUCO OMG.",
-  "num_followers": 731369,
+  "num_followers": 731280,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANqOnmpPKmcyRnbYeRk3TYv3R+HE",
+  "snapshot_id": "AAAAAClMINt1zohqDGWfvY+GBPhD3Ri7",
   "tracks": [
     {
       "added_at": "2026-11-06 05:00:26",
@@ -559,22 +559,6 @@
     {
       "added_at": "2026-11-06 05:00:26",
       "album": {
-        "name": "si",
-        "url": "https://open.spotify.com/album/4KZG1pHNQdUQlNNIm4mt6f"
-      },
-      "artists": [
-        {
-          "name": "Sparklmami",
-          "url": "https://open.spotify.com/artist/50NGgQQCV0QLrOefzyuNh0"
-        }
-      ],
-      "duration_ms": 151624,
-      "name": "si",
-      "url": "https://open.spotify.com/track/7bIHolmbqyiJ5lPtfoZfL4"
-    },
-    {
-      "added_at": "2026-11-06 05:00:26",
-      "album": {
         "name": "Pr\u00edncipe",
         "url": "https://open.spotify.com/album/7pgIrWQsslCCYVKvXSxcb9"
       },
@@ -591,22 +575,18 @@
     {
       "added_at": "2026-11-06 05:00:26",
       "album": {
-        "name": "Quiero",
-        "url": "https://open.spotify.com/album/5wNz8c67H9BpqJHyr5YOTq"
+        "name": "si",
+        "url": "https://open.spotify.com/album/4KZG1pHNQdUQlNNIm4mt6f"
       },
       "artists": [
         {
-          "name": "ZTVZ",
-          "url": "https://open.spotify.com/artist/6WCmoxe1uqfNMFPqHkwzfs"
-        },
-        {
-          "name": "Soultade",
-          "url": "https://open.spotify.com/artist/6W7QkdmLk3AtXkfrKH5ZDV"
+          "name": "Sparklmami",
+          "url": "https://open.spotify.com/artist/50NGgQQCV0QLrOefzyuNh0"
         }
       ],
-      "duration_ms": 160433,
-      "name": "Quiero",
-      "url": "https://open.spotify.com/track/6Jcyd0QpSDaRNSzAhro0WY"
+      "duration_ms": 151624,
+      "name": "si",
+      "url": "https://open.spotify.com/track/7bIHolmbqyiJ5lPtfoZfL4"
     },
     {
       "added_at": "2026-11-06 05:00:26",
@@ -651,6 +631,26 @@
     {
       "added_at": "2026-11-06 05:00:26",
       "album": {
+        "name": "Quiero",
+        "url": "https://open.spotify.com/album/5wNz8c67H9BpqJHyr5YOTq"
+      },
+      "artists": [
+        {
+          "name": "ZTVZ",
+          "url": "https://open.spotify.com/artist/6WCmoxe1uqfNMFPqHkwzfs"
+        },
+        {
+          "name": "Soultade",
+          "url": "https://open.spotify.com/artist/6W7QkdmLk3AtXkfrKH5ZDV"
+        }
+      ],
+      "duration_ms": 160433,
+      "name": "Quiero",
+      "url": "https://open.spotify.com/track/6Jcyd0QpSDaRNSzAhro0WY"
+    },
+    {
+      "added_at": "2026-11-06 05:00:26",
+      "album": {
         "name": "Cry about it! (feat. Ravyn Lenae)",
         "url": "https://open.spotify.com/album/4gbcThRmONElpN3nvdqBWd"
       },
@@ -671,26 +671,6 @@
     {
       "added_at": "2026-11-06 05:00:26",
       "album": {
-        "name": "PECADO",
-        "url": "https://open.spotify.com/album/6HdWXqAuMdCKcgmBfk5p7S"
-      },
-      "artists": [
-        {
-          "name": "Zulia",
-          "url": "https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp"
-        },
-        {
-          "name": "Leo Rizzi",
-          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
-        }
-      ],
-      "duration_ms": 185760,
-      "name": "PECADO",
-      "url": "https://open.spotify.com/track/5dp2V32B476hbdJGJZqZtu"
-    },
-    {
-      "added_at": "2026-11-06 05:00:26",
-      "album": {
         "name": "La gravedad y el tiempo.",
         "url": "https://open.spotify.com/album/5L95oJ4x1Lrj419blyzCZM"
       },
@@ -707,6 +687,26 @@
       "duration_ms": 162333,
       "name": "La gravedad y el tiempo.",
       "url": "https://open.spotify.com/track/2PSWcnLzIl0vSxEIzKfTYT"
+    },
+    {
+      "added_at": "2026-11-06 05:00:26",
+      "album": {
+        "name": "PECADO",
+        "url": "https://open.spotify.com/album/6HdWXqAuMdCKcgmBfk5p7S"
+      },
+      "artists": [
+        {
+          "name": "Zulia",
+          "url": "https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp"
+        },
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+        }
+      ],
+      "duration_ms": 185760,
+      "name": "PECADO",
+      "url": "https://open.spotify.com/track/5dp2V32B476hbdJGJZqZtu"
     },
     {
       "added_at": "2026-11-06 05:00:26",
@@ -767,22 +767,6 @@
     {
       "added_at": "2026-11-06 05:00:26",
       "album": {
-        "name": "T O M A !",
-        "url": "https://open.spotify.com/album/1YSjnTrxtytIj4OHDXzaWI"
-      },
-      "artists": [
-        {
-          "name": "Zulia",
-          "url": "https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp"
-        }
-      ],
-      "duration_ms": 160645,
-      "name": "T O M A !",
-      "url": "https://open.spotify.com/track/7IodjW5qSbvOpeIBIlVOwF"
-    },
-    {
-      "added_at": "2026-11-06 05:00:26",
-      "album": {
         "name": "feel trip.",
         "url": "https://open.spotify.com/album/0ulcvQush73hnL6XY3odm7"
       },
@@ -799,18 +783,18 @@
     {
       "added_at": "2026-11-06 05:00:26",
       "album": {
-        "name": "Desvelado",
-        "url": "https://open.spotify.com/album/6qqLIWRr9XpxuqZiWRM5Zr"
+        "name": "T O M A !",
+        "url": "https://open.spotify.com/album/1YSjnTrxtytIj4OHDXzaWI"
       },
       "artists": [
         {
-          "name": "Jesse Baez",
-          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
+          "name": "Zulia",
+          "url": "https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp"
         }
       ],
-      "duration_ms": 174150,
-      "name": "Desvelado",
-      "url": "https://open.spotify.com/track/7ocNC8jszuZKlwz7vvgI7R"
+      "duration_ms": 160645,
+      "name": "T O M A !",
+      "url": "https://open.spotify.com/track/7IodjW5qSbvOpeIBIlVOwF"
     },
     {
       "added_at": "2026-11-06 05:00:26",
@@ -831,22 +815,18 @@
     {
       "added_at": "2026-11-06 05:00:26",
       "album": {
-        "name": "cool",
-        "url": "https://open.spotify.com/album/6ZNxWPuBJUI0uWY5OQHUkJ"
+        "name": "Desvelado",
+        "url": "https://open.spotify.com/album/6qqLIWRr9XpxuqZiWRM5Zr"
       },
       "artists": [
         {
-          "name": "FaceBrooklyn",
-          "url": "https://open.spotify.com/artist/0HGYhpDqId26b8YElUubo8"
-        },
-        {
-          "name": "iza tkm",
-          "url": "https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3"
+          "name": "Jesse Baez",
+          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
         }
       ],
-      "duration_ms": 175760,
-      "name": "cool",
-      "url": "https://open.spotify.com/track/5SlNwpcVtrQMhuzl25q50u"
+      "duration_ms": 174150,
+      "name": "Desvelado",
+      "url": "https://open.spotify.com/track/7ocNC8jszuZKlwz7vvgI7R"
     },
     {
       "added_at": "2026-11-06 05:00:26",
@@ -863,6 +843,26 @@
       "duration_ms": 211611,
       "name": "Qui\u00e9reme as\u00ed",
       "url": "https://open.spotify.com/track/59ZGZeD9krTAmIiXZtoHGZ"
+    },
+    {
+      "added_at": "2026-11-06 05:00:26",
+      "album": {
+        "name": "cool",
+        "url": "https://open.spotify.com/album/6ZNxWPuBJUI0uWY5OQHUkJ"
+      },
+      "artists": [
+        {
+          "name": "FaceBrooklyn",
+          "url": "https://open.spotify.com/artist/0HGYhpDqId26b8YElUubo8"
+        },
+        {
+          "name": "iza tkm",
+          "url": "https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3"
+        }
+      ],
+      "duration_ms": 175760,
+      "name": "cool",
+      "url": "https://open.spotify.com/track/5SlNwpcVtrQMhuzl25q50u"
     },
     {
       "added_at": "2026-11-06 05:00:26",
@@ -891,26 +891,6 @@
     {
       "added_at": "2026-11-06 05:00:26",
       "album": {
-        "name": "Marcri\u00e1",
-        "url": "https://open.spotify.com/album/40x1qnn7kg9oovxvd6jwMI"
-      },
-      "artists": [
-        {
-          "name": "RaiNao",
-          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
-        },
-        {
-          "name": "Omara Portuondo",
-          "url": "https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy"
-        }
-      ],
-      "duration_ms": 203856,
-      "name": "dandovueltasdandovueltasdandovueltasdandovueltasdandovueltasdandovueltasdandovueltasdandovueltasdandovueltasdandovueltasdandovueltasdandovueltas",
-      "url": "https://open.spotify.com/track/0l21xkEnzkakePnAfPbJRq"
-    },
-    {
-      "added_at": "2026-11-06 05:00:26",
-      "album": {
         "name": "aunquetelopida",
         "url": "https://open.spotify.com/album/2HvFECGJfDZjGjCj4yUGsA"
       },
@@ -931,6 +911,26 @@
     {
       "added_at": "2026-11-06 05:00:26",
       "album": {
+        "name": "Marcri\u00e1",
+        "url": "https://open.spotify.com/album/40x1qnn7kg9oovxvd6jwMI"
+      },
+      "artists": [
+        {
+          "name": "RaiNao",
+          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
+        },
+        {
+          "name": "Omara Portuondo",
+          "url": "https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy"
+        }
+      ],
+      "duration_ms": 203856,
+      "name": "dandovueltasdandovueltasdandovueltasdandovueltasdandovueltasdandovueltasdandovueltasdandovueltasdandovueltasdandovueltasdandovueltasdandovueltas",
+      "url": "https://open.spotify.com/track/0l21xkEnzkakePnAfPbJRq"
+    },
+    {
+      "added_at": "2026-11-06 05:00:26",
+      "album": {
         "name": "clich\u00e9",
         "url": "https://open.spotify.com/album/11GETIu9HUmJlWKOjMkWce"
       },
@@ -943,22 +943,6 @@
       "duration_ms": 127616,
       "name": "2000",
       "url": "https://open.spotify.com/track/4pSR9KbbV3GUtg8Pissd36"
-    },
-    {
-      "added_at": "2026-11-06 05:00:26",
-      "album": {
-        "name": "Rom\u00e1ntico",
-        "url": "https://open.spotify.com/album/5m9KRPp1ghFcvtJMqf1HeT"
-      },
-      "artists": [
-        {
-          "name": "Cari\u00f1o",
-          "url": "https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh"
-        }
-      ],
-      "duration_ms": 170500,
-      "name": "Rom\u00e1ntico",
-      "url": "https://open.spotify.com/track/56NhDFVZD3GPUDikDtFkEU"
     },
     {
       "added_at": "2026-11-06 05:00:26",
@@ -983,6 +967,38 @@
       "duration_ms": 244125,
       "name": "poco+real",
       "url": "https://open.spotify.com/track/3eZd4uj9faJKV1GgsxViT2"
+    },
+    {
+      "added_at": "2026-11-06 05:00:26",
+      "album": {
+        "name": "Rom\u00e1ntico",
+        "url": "https://open.spotify.com/album/5m9KRPp1ghFcvtJMqf1HeT"
+      },
+      "artists": [
+        {
+          "name": "Cari\u00f1o",
+          "url": "https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh"
+        }
+      ],
+      "duration_ms": 170500,
+      "name": "Rom\u00e1ntico",
+      "url": "https://open.spotify.com/track/56NhDFVZD3GPUDikDtFkEU"
+    },
+    {
+      "added_at": "2026-11-06 05:00:26",
+      "album": {
+        "name": "ROCCO / TENTACION",
+        "url": "https://open.spotify.com/album/3rr98x5OTi71bp9NAfHZaS"
+      },
+      "artists": [
+        {
+          "name": "Ralphie Choo",
+          "url": "https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7"
+        }
+      ],
+      "duration_ms": 186616,
+      "name": "ROCCO",
+      "url": "https://open.spotify.com/track/1QAulqNUI1RBfBco1PxqXv"
     },
     {
       "added_at": "2026-11-06 05:00:26",
@@ -1027,22 +1043,6 @@
     {
       "added_at": "2026-11-06 05:00:26",
       "album": {
-        "name": "ROCCO / TENTACION",
-        "url": "https://open.spotify.com/album/3rr98x5OTi71bp9NAfHZaS"
-      },
-      "artists": [
-        {
-          "name": "Ralphie Choo",
-          "url": "https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7"
-        }
-      ],
-      "duration_ms": 186616,
-      "name": "ROCCO",
-      "url": "https://open.spotify.com/track/1QAulqNUI1RBfBco1PxqXv"
-    },
-    {
-      "added_at": "2026-11-06 05:00:26",
-      "album": {
         "name": "De Cero",
         "url": "https://open.spotify.com/album/0hskREe3oBksLnJHnawkk6"
       },
@@ -1055,6 +1055,22 @@
       "duration_ms": 170526,
       "name": "De Cero",
       "url": "https://open.spotify.com/track/3nr0sRIoRugpqeF1PUYt6k"
+    },
+    {
+      "added_at": "2026-11-06 05:00:26",
+      "album": {
+        "name": "EL ANILLO",
+        "url": "https://open.spotify.com/album/0HV3gafLxMQXyvqfydZ0bn"
+      },
+      "artists": [
+        {
+          "name": "Gus",
+          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
+        }
+      ],
+      "duration_ms": 142135,
+      "name": "EL ANILLO",
+      "url": "https://open.spotify.com/track/67wCgbdbkh1w40DhOQa5ag"
     },
     {
       "added_at": "2026-11-06 05:00:26",
@@ -1123,18 +1139,18 @@
     {
       "added_at": "2026-11-06 05:00:26",
       "album": {
-        "name": "EL ANILLO",
-        "url": "https://open.spotify.com/album/0HV3gafLxMQXyvqfydZ0bn"
+        "name": "Down",
+        "url": "https://open.spotify.com/album/1SWoztqnHAcvlYPP9bUQyI"
       },
       "artists": [
         {
-          "name": "Gus",
-          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
+          "name": "ZTVZ",
+          "url": "https://open.spotify.com/artist/6WCmoxe1uqfNMFPqHkwzfs"
         }
       ],
-      "duration_ms": 142135,
-      "name": "EL ANILLO",
-      "url": "https://open.spotify.com/track/67wCgbdbkh1w40DhOQa5ag"
+      "duration_ms": 155134,
+      "name": "Down",
+      "url": "https://open.spotify.com/track/5C2G9fJkUplRPY4aEOMgoI"
     },
     {
       "added_at": "2026-11-06 05:00:26",
@@ -1175,26 +1191,6 @@
     {
       "added_at": "2026-11-06 05:00:26",
       "album": {
-        "name": "PINK LEMONADE",
-        "url": "https://open.spotify.com/album/0Zv6IMPprJQeSqKsMpCVLq"
-      },
-      "artists": [
-        {
-          "name": "Pink Pablo",
-          "url": "https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ"
-        },
-        {
-          "name": "De La Ghetto",
-          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
-        }
-      ],
-      "duration_ms": 235906,
-      "name": "creiziiii",
-      "url": "https://open.spotify.com/track/7F37hWsqlVNux3dATtr4ls"
-    },
-    {
-      "added_at": "2026-11-06 05:00:26",
-      "album": {
         "name": "Pick Me",
         "url": "https://open.spotify.com/album/2YpbOugRMPqzmoTJW6F1J0"
       },
@@ -1215,6 +1211,26 @@
     {
       "added_at": "2026-11-06 05:00:26",
       "album": {
+        "name": "PINK LEMONADE",
+        "url": "https://open.spotify.com/album/0Zv6IMPprJQeSqKsMpCVLq"
+      },
+      "artists": [
+        {
+          "name": "Pink Pablo",
+          "url": "https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ"
+        },
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        }
+      ],
+      "duration_ms": 235906,
+      "name": "creiziiii",
+      "url": "https://open.spotify.com/track/7F37hWsqlVNux3dATtr4ls"
+    },
+    {
+      "added_at": "2026-11-06 05:00:26",
+      "album": {
         "name": "What Do You Want",
         "url": "https://open.spotify.com/album/6uJ3tYCQp2gcQS0Lw5t6Bp"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 166579,
       "name": "What Do You Want",
       "url": "https://open.spotify.com/track/6822K96wjJEyKelFeVvi1s"
-    },
-    {
-      "added_at": "2026-11-06 05:00:26",
-      "album": {
-        "name": "Down",
-        "url": "https://open.spotify.com/album/1SWoztqnHAcvlYPP9bUQyI"
-      },
-      "artists": [
-        {
-          "name": "ZTVZ",
-          "url": "https://open.spotify.com/artist/6WCmoxe1uqfNMFPqHkwzfs"
-        }
-      ],
-      "duration_ms": 155134,
-      "name": "Down",
-      "url": "https://open.spotify.com/track/5C2G9fJkUplRPY4aEOMgoI"
     },
     {
       "added_at": "2026-11-06 05:00:26",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2026-11-06 05:00:26",
       "album": {
-        "name": "por como me cuidas",
-        "url": "https://open.spotify.com/album/5JBd37KdO0T5rjZDN10WKG"
-      },
-      "artists": [
-        {
-          "name": "Andry Kiddos",
-          "url": "https://open.spotify.com/artist/3mXFyGsGwiXIybo2Sr4EG2"
-        }
-      ],
-      "duration_ms": 124525,
-      "name": "por como me cuidas",
-      "url": "https://open.spotify.com/track/1yvKopniXF1xWBCabuqLN9"
-    },
-    {
-      "added_at": "2026-11-06 05:00:26",
-      "album": {
         "name": "un mensaje de voz (feat. Elsa y Elmar)",
         "url": "https://open.spotify.com/album/4yxdgyxOzVIagRRZ5PT0XP"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 203481,
       "name": "un mensaje de voz (feat. Elsa y Elmar)",
       "url": "https://open.spotify.com/track/1HnI5cfbWXkyYxfRhCZPFv"
+    },
+    {
+      "added_at": "2026-11-06 05:00:26",
+      "album": {
+        "name": "por como me cuidas",
+        "url": "https://open.spotify.com/album/5JBd37KdO0T5rjZDN10WKG"
+      },
+      "artists": [
+        {
+          "name": "Andry Kiddos",
+          "url": "https://open.spotify.com/artist/3mXFyGsGwiXIybo2Sr4EG2"
+        }
+      ],
+      "duration_ms": 124525,
+      "name": "por como me cuidas",
+      "url": "https://open.spotify.com/track/1yvKopniXF1xWBCabuqLN9"
     },
     {
       "added_at": "2026-11-06 05:00:26",
@@ -1459,22 +1459,18 @@
     {
       "added_at": "2026-11-06 05:00:26",
       "album": {
-        "name": "Un Castigo",
-        "url": "https://open.spotify.com/album/73hHOb8aSNjaKjgxp2n57h"
+        "name": "HEELS",
+        "url": "https://open.spotify.com/album/71rtTy8h2jolJcjzvHw87S"
       },
       "artists": [
         {
-          "name": "Natalia Lacunza",
-          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
-        },
-        {
-          "name": "Jesse Baez",
-          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
+          "name": "fidoisblue",
+          "url": "https://open.spotify.com/artist/2IEpSetcwTdjlktsTRlBjI"
         }
       ],
-      "duration_ms": 189580,
-      "name": "Un Castigo",
-      "url": "https://open.spotify.com/track/7EmcbgQbWJhn06t8gHckgX"
+      "duration_ms": 151532,
+      "name": "HEELS",
+      "url": "https://open.spotify.com/track/6cpKM8UHziDY4mbOEZFTZ2"
     },
     {
       "added_at": "2026-11-06 05:00:26",
@@ -1491,6 +1487,26 @@
       "duration_ms": 164584,
       "name": "Mil Noches",
       "url": "https://open.spotify.com/track/5uVq7FwYvcXrE0nWfRYqxn"
+    },
+    {
+      "added_at": "2026-11-06 05:00:26",
+      "album": {
+        "name": "Un Castigo",
+        "url": "https://open.spotify.com/album/73hHOb8aSNjaKjgxp2n57h"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lacunza",
+          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
+        },
+        {
+          "name": "Jesse Baez",
+          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
+        }
+      ],
+      "duration_ms": 189580,
+      "name": "Un Castigo",
+      "url": "https://open.spotify.com/track/7EmcbgQbWJhn06t8gHckgX"
     },
     {
       "added_at": "2026-11-06 05:00:26",
@@ -1547,22 +1563,6 @@
       "duration_ms": 194890,
       "name": "no te vayas",
       "url": "https://open.spotify.com/track/6BEubkVfewFOsd0LUwtb0C"
-    },
-    {
-      "added_at": "2026-11-06 05:00:26",
-      "album": {
-        "name": "HEELS",
-        "url": "https://open.spotify.com/album/71rtTy8h2jolJcjzvHw87S"
-      },
-      "artists": [
-        {
-          "name": "fidoisblue",
-          "url": "https://open.spotify.com/artist/2IEpSetcwTdjlktsTRlBjI"
-        }
-      ],
-      "duration_ms": 151532,
-      "name": "HEELS",
-      "url": "https://open.spotify.com/track/6cpKM8UHziDY4mbOEZFTZ2"
     },
     {
       "added_at": "2026-11-06 05:00:26",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2026-11-06 05:00:26",
       "album": {
-        "name": "Creo En Ti",
-        "url": "https://open.spotify.com/album/30kc0EqIqIfkPYRG78M01v"
-      },
-      "artists": [
-        {
-          "name": "maye",
-          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
-        }
-      ],
-      "duration_ms": 202425,
-      "name": "Creo En Ti",
-      "url": "https://open.spotify.com/track/69vFMxC1GJZpwo5kgGuofZ"
-    },
-    {
-      "added_at": "2026-11-06 05:00:26",
-      "album": {
         "name": "BLANCOMEZCLILLA",
         "url": "https://open.spotify.com/album/51KnHsifhTBkSyhuRXexBQ"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 187903,
       "name": "a veces casi siempre",
       "url": "https://open.spotify.com/track/3IV0SbTSu2JhBIeGfesPeJ"
+    },
+    {
+      "added_at": "2026-11-06 05:00:26",
+      "album": {
+        "name": "Creo En Ti",
+        "url": "https://open.spotify.com/album/30kc0EqIqIfkPYRG78M01v"
+      },
+      "artists": [
+        {
+          "name": "maye",
+          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
+        }
+      ],
+      "duration_ms": 202425,
+      "name": "Creo En Ti",
+      "url": "https://open.spotify.com/track/69vFMxC1GJZpwo5kgGuofZ"
     },
     {
       "added_at": "2026-11-06 05:00:26",
@@ -1759,6 +1759,22 @@
     {
       "added_at": "2026-11-06 05:00:26",
       "album": {
+        "name": "Solo T\u00fa",
+        "url": "https://open.spotify.com/album/0fFuwgphyt1Kj6A2Smgnuo"
+      },
+      "artists": [
+        {
+          "name": "ZTVZ",
+          "url": "https://open.spotify.com/artist/6WCmoxe1uqfNMFPqHkwzfs"
+        }
+      ],
+      "duration_ms": 171989,
+      "name": "Solo T\u00fa",
+      "url": "https://open.spotify.com/track/2MeSqcYhs5C7UZnEeSLjrT"
+    },
+    {
+      "added_at": "2026-11-06 05:00:26",
+      "album": {
         "name": "Suiza",
         "url": "https://open.spotify.com/album/4Aj3BUUr8notfsXiwUJBpA"
       },
@@ -1771,22 +1787,6 @@
       "duration_ms": 140342,
       "name": "Suiza",
       "url": "https://open.spotify.com/track/0p0edvVy5tSbrh67pn5Rju"
-    },
-    {
-      "added_at": "2026-11-06 05:00:26",
-      "album": {
-        "name": "En Tercera Persona",
-        "url": "https://open.spotify.com/album/0MqVHSORj4pxurPL2VYuKT"
-      },
-      "artists": [
-        {
-          "name": "More",
-          "url": "https://open.spotify.com/artist/0vLXnXSAplgnptyE3jKnpi"
-        }
-      ],
-      "duration_ms": 211435,
-      "name": "En Tercera Persona",
-      "url": "https://open.spotify.com/track/3qCHZJdMbtIzyQiTqClp4n"
     }
   ],
   "unique_name": "Mixto",

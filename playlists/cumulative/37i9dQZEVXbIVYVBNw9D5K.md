@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-1,700 songs - 3 day 13 hr 31 min
+1,702 songs - 3 day 13 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -415,7 +415,7 @@
 | [Cümlenin Sonu](https://open.spotify.com/track/6EmI2OLfK6Q1rFOMLtt75T) | [Dedublüman](https://open.spotify.com/artist/5PRW6j58xEEWL4DDVEITKT), [Mavzer Tabancas](https://open.spotify.com/artist/7vyG44Uv5jGIwwm2Ha0nE0) | [Cümlenin Sonu](https://open.spotify.com/album/5WXqwMNjpZPqgz0NTH5JX9) | 2:24 | 2024-12-14 | 2024-12-30 |
 | [DACIA](https://open.spotify.com/track/0okYvXKPqzZpj3iZrJH6JK) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [DACIA](https://open.spotify.com/album/4nO3TIfUPnGSnryBvA9q1N) | 2:09 | 2023-01-15 | 2023-05-03 |
 | [DACIA X YATIYA \- Remix](https://open.spotify.com/track/4RC8B7vYRcM6Kkg5x80ezG) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [Melis Kar](https://open.spotify.com/artist/4hdeFgoe7zQEJWXVIAm2yj) | [DACIA X YATIYA \(Remix\)](https://open.spotify.com/album/2U6D1xZHeEoe7zmzPJmiVG) | 2:38 | 2024-02-27 | 2024-08-28 |
-| [Daha İyi](https://open.spotify.com/track/2AhfH5OG1o12XEqGZUgEPT) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf) | [Daha İyi](https://open.spotify.com/album/7rkBjeuLQ7UgSty5yAOLpx) | 3:18 | 2026-04-04 |  |
+| [Daha İyi](https://open.spotify.com/track/2AhfH5OG1o12XEqGZUgEPT) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf) | [Daha İyi](https://open.spotify.com/album/7rkBjeuLQ7UgSty5yAOLpx) | 3:18 | 2026-04-04 | 2026-11-15 |
 | [Daha Çok Var](https://open.spotify.com/track/2s84Hn5bjqzGHhX7Z7FttQ) | [Wegh](https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT) | [CURCUNA](https://open.spotify.com/album/5CQCXwMHs5IuOOKpCUqaDD) | 2:43 | 2026-02-21 | 2026-03-08 |
 | [Daima](https://open.spotify.com/track/1u61m2yf7AaeGjASOpOOqR) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Daima](https://open.spotify.com/album/4R1bXGAqz7bizLhnIaZm8p) | 3:24 | 2022-04-30 | 2022-08-01 |
 | [Dal](https://open.spotify.com/track/0cURwvT5iHZH6uNbZj0v4x) | [Adamlar](https://open.spotify.com/artist/1g4J8P1JWwanNyyXckRX5W) | [Harekete kimse mâni olamaz.](https://open.spotify.com/album/43HQQ1JRPf6BqgZalomLrV) | 4:28 | 2021-11-21 | 2021-11-28 |
@@ -819,7 +819,7 @@
 | [ITACHI](https://open.spotify.com/track/2Xp7H2XVr1xxrWISiSRaUl) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS) | [ITACHI](https://open.spotify.com/album/5XJ5D88oSg5VVjI4ANe2uW) | 2:12 | 2021-10-23 | 2021-10-26 |
 | [Italy Forma](https://open.spotify.com/track/7FfdTwI2i0b5PNeNvqtqCY) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Manifesto](https://open.spotify.com/album/5ABVGZE1Ykvy6n0MrWWWww) | 3:01 | 2024-10-12 | 2026-01-01 |
 | [IZOLE LIFE](https://open.spotify.com/track/4QsiJ5td5T5r201CaO359S) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [IZOLE LIFE](https://open.spotify.com/album/5JTOxclRe8i4rZaftOnkhT) | 2:59 | 2024-09-28 | 2024-10-03 |
-| [Işıklı Yol](https://open.spotify.com/track/2ZM3RY8gGKVMbfXMhx0wCJ) | [İzel](https://open.spotify.com/artist/0QSrUuv6y5Woazd3LAjbSH) | [Işıklı Yol](https://open.spotify.com/album/461qWSTjOrwoOCwfYvwkVV) | 4:24 | 2026-09-24 |  |
+| [Işıklı Yol](https://open.spotify.com/track/2ZM3RY8gGKVMbfXMhx0wCJ) | [İzel](https://open.spotify.com/artist/0QSrUuv6y5Woazd3LAjbSH) | [Işıklı Yol](https://open.spotify.com/album/461qWSTjOrwoOCwfYvwkVV) | 4:24 | 2026-09-24 | 2026-11-15 |
 | [İhtimal](https://open.spotify.com/track/3Pish4TJEZLRpXAovXHX0d) | [KARM6](https://open.spotify.com/artist/6NDMASsBLAUDX3QsJvki3r) | [Serotonin](https://open.spotify.com/album/4nYgiGWOldX0wcbDHTuhj8) | 2:26 | 2026-07-20 | 2026-08-17 |
 | [İHTİYAÇ YOK OTELE](https://open.spotify.com/track/1pwgLmoW8nB0kunWcOgiws) | [ERAY067](https://open.spotify.com/artist/7l1AEP7z8ERNZzknXqPUFT), [Mansur](https://open.spotify.com/artist/1nXS8JvKsTNSGw75Axv6rm) | [İHTİYAÇ YOK OTELE](https://open.spotify.com/album/0qKnF3hITeGYdXT6VSY81K) | 2:36 | 2025-08-30 | 2025-12-05 |
 | [İki Tas Çorba](https://open.spotify.com/track/5Ppj0GysGcSeKn2AznI6rT) | [Mela Bedel](https://open.spotify.com/artist/55WpZ8ig2SFNvQpDHPUrgY), [Mustafa Sandal](https://open.spotify.com/artist/0mkH5jj3goQ51JtPKVodTo) | [Mustafa Sandal Saygı 1](https://open.spotify.com/album/1yXAegiicPvKSc3vgy6kqq) | 3:11 | 2026-05-17 | 2026-05-19 |
@@ -1320,6 +1320,7 @@
 | [Sana Güvenmiyorum \- Dedub Sessions](https://open.spotify.com/track/1lNcnIU4jtqD69Qtfjh8EJ) | [Dedublüman](https://open.spotify.com/artist/5PRW6j58xEEWL4DDVEITKT), [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn) | [Sana Güvenmiyorum \(Dedub Sessions\)](https://open.spotify.com/album/5ZcHiC8fUSjtOSDw0JaJGv) | 3:24 | 2024-11-02 | 2026-02-21 |
 | [Sana Rağmen](https://open.spotify.com/track/6p17lQApoPFY2vBGccMzFH) | [Eypio](https://open.spotify.com/artist/6h5P3J0j1x2lhiDk9w4deZ) | [Sana Rağmen](https://open.spotify.com/album/1SG3xUjCDn7gndNJsIvIbv) | 3:30 | 2026-02-26 |  |
 | [sana söz yine baharlar gelecek](https://open.spotify.com/track/0gEo5eyqUlq7XkgPMTtUy1) | [nezexous](https://open.spotify.com/artist/2jFc0gwjzIe1klTCZF8BDH), [CASH INC.](https://open.spotify.com/artist/6SlwDPsViVqnsWqQerbZH8), [samet aka spud](https://open.spotify.com/artist/3qrVFzmsmq7upWkunEfrKc) | [sana söz yine baharlar gelecek](https://open.spotify.com/album/1N4J6AD7zAMnZlD6C1NfKV) | 3:29 | 2023-05-15 | 2023-05-17 |
+| [Sana Tutuluyorum](https://open.spotify.com/track/1Oy8bIB90XUbxRX91lbbvx) | [Hasan Gözetlik](https://open.spotify.com/artist/26goe4k3AmqQSVeGW0TEWe) | [Sana Tutuluyorum](https://open.spotify.com/album/4TAFQkdKmAYJod9WrcrPNY) | 3:09 | 2026-11-14 |  |
 | [Sana Vuruldum \(Ulubatlı Hasan\)](https://open.spotify.com/track/5oYRllIEUix5gkYaml9m5p) | [Wegh](https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT) | [Sana Vuruldum \(Ulubatlı Hasan\)](https://open.spotify.com/album/7wHTQvIXsj6ULlSv1QDM0k) | 3:48 | 2026-01-22 | 2026-04-02 |
 | [Sana Yıldızları Ödediğimden](https://open.spotify.com/track/0fu7d7LgXjClCkgBmnNlc0) | [Bengü Beker](https://open.spotify.com/artist/3D1JNJeLVPBmwhCbyqlTHW) | [Sana Yıldızları Ödediğimden](https://open.spotify.com/album/745xmwLY8UKgHtxDa9UMYU) | 4:18 | 2024-05-10 | 2024-08-11 |
 | [Sana Çıkıyor Yollar \- Kaderimin Oyunu Orijinal Dizi Müziği](https://open.spotify.com/track/7dvt5DT77W7neWuCfCUOYV) | [Derya Uluğ](https://open.spotify.com/artist/7A6T0nTpXnPXDUGM1yEjEj) | [Sana Çıkıyor Yollar \(Kaderimin Oyunu Orijinal Dizi Müziği\)](https://open.spotify.com/album/6GR9ERCXRTQ8edXsSuX7wi) | 3:49 | 2022-02-15 | 2023-06-18 |
@@ -1672,6 +1673,7 @@
 | [Ölümsüz Aşklar](https://open.spotify.com/track/07ZQcQlbituG3sDXGKu4p3) | [Ebru Gündeş](https://open.spotify.com/artist/5AboYJAlMb9FGadTTDKRoN) | [Evet](https://open.spotify.com/album/4qVhbJmTGKwexO8waGFXVv) | 4:50 | 2025-11-02 | 2025-11-21 |
 | [Ölürüm Daha İyi](https://open.spotify.com/track/7AZFyg2bqG4lcxCWpXYfup) | [Model](https://open.spotify.com/artist/23xJQJM7peht77DF6YNEoq) | [Ölürüm Daha İyi](https://open.spotify.com/album/2ZNObyR8dNJNyKYHH65LkT) | 4:08 | 2026-07-18 | 2026-07-20 |
 | [Ölüyorum Anla](https://open.spotify.com/track/7AxK6ojozGBLlxuRaXwQQ1) | [Mert Demir](https://open.spotify.com/artist/1Zj4GtouAnxHq4qw7ooLfm) | [Ölüyorum Anla](https://open.spotify.com/album/3uO5eTI7iFm0WCgRYRergy) | 3:03 | 2024-06-29 | 2024-10-31 |
+| [ÖMERHAYYAM](https://open.spotify.com/track/0MCEEI8LCEUJKi4apujvff) | [Wegh](https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT) | [ÖMERHAYYAM](https://open.spotify.com/album/6nS0Cf1kM2pubtgcwHVAi3) | 2:18 | 2026-11-14 |  |
 | [Ömrüm](https://open.spotify.com/track/4e54GhjU0PAXwbGvbwAPz6) | [Eypio](https://open.spotify.com/artist/6h5P3J0j1x2lhiDk9w4deZ) | [Ömrüm](https://open.spotify.com/album/6FQixEQWNUYSu7FPuKLCDN) | 2:54 | 2026-03-22 | 2026-09-25 |
 | [Ömrüm](https://open.spotify.com/track/0GwSSml9L21vNI7VGLz1ae) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [Murda](https://open.spotify.com/artist/09WqkYnqWKUQAYSlEvaf6s) | [Ömrüm](https://open.spotify.com/album/0Hnmp3HmLAReVVeCc4Bd9Y) | 4:00 | 2021-09-05 | 2022-01-30 |
 | [Ömrüm](https://open.spotify.com/track/37g065kUQYRuIEx3Kmv6Ge) | [Volkan Konak](https://open.spotify.com/artist/48CUA59SDed3IdCctKndud) | [Dalya](https://open.spotify.com/album/66ho776hWXzr4wJTnAh5tn) | 5:20 | 2025-04-03 | 2025-04-13 |

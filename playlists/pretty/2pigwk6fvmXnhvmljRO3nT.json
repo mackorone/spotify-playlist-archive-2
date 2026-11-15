@@ -6,7 +6,7 @@
     "name": "deet",
     "url": "https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh"
   },
-  "snapshot_id": "AAAOITsVn8gZ3DiGnNK9+3IeKUC0qdmg",
+  "snapshot_id": "AAAOI7w6BilQqd7h84XHH1n/l56MICzo",
   "tracks": [
     {
       "added_at": "2024-12-05 07:59:22",
@@ -149552,8 +149552,8 @@
       },
       "artists": [
         {
-          "name": "\u963f\u4fdd\u3000\u525b",
-          "url": "https://open.spotify.com/artist/1tlGMYIC16uiS2OFSkvpGT"
+          "name": "Takeshi Abo",
+          "url": "https://open.spotify.com/artist/6Sn7YAvyrm7TzAM1lyaLqV"
         }
       ],
       "duration_ms": 103468,
@@ -150679,6 +150679,38 @@
       "duration_ms": 217964,
       "name": "Gold-Triumph",
       "url": "https://open.spotify.com/track/1Oy5w51bmqgPdiMtXYdrks"
+    },
+    {
+      "added_at": "2026-11-14 23:29:55",
+      "album": {
+        "name": "Mini World",
+        "url": "https://open.spotify.com/album/1r7XjAgjwlakmXC2GbPXjH"
+      },
+      "artists": [
+        {
+          "name": "Indila",
+          "url": "https://open.spotify.com/artist/0FEJqmeLRzsXj8hgcZaAyB"
+        }
+      ],
+      "duration_ms": 316280,
+      "name": "Love Story",
+      "url": "https://open.spotify.com/track/6nGeLlakfzlBcFdZXteDq7"
+    },
+    {
+      "added_at": "2026-11-14 23:30:05",
+      "album": {
+        "name": "Mini World",
+        "url": "https://open.spotify.com/album/1r7XjAgjwlakmXC2GbPXjH"
+      },
+      "artists": [
+        {
+          "name": "Indila",
+          "url": "https://open.spotify.com/artist/0FEJqmeLRzsXj8hgcZaAyB"
+        }
+      ],
+      "duration_ms": 213493,
+      "name": "Derni\u00e8re danse",
+      "url": "https://open.spotify.com/track/65uoaqX5qcjXZRheAj1qQT"
     }
   ],
   "unique_name": "Purge",

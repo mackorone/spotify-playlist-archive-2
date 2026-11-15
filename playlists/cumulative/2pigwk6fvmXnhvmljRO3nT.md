@@ -4,7 +4,7 @@
 
 > 
 
-8,960 songs - 22 day 19 hr 9 min
+8,962 songs - 22 day 19 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1635,6 +1635,7 @@
 | [Departure!](https://open.spotify.com/track/5sjoJa0YmBCCPMrBPsBMge) | [Masatoshi Ono](https://open.spotify.com/artist/2R1ubdXY4sUiDqsCtoAVUE) | [HUNTER×HUNTER セレクト×ベスト×α](https://open.spotify.com/album/2a9NHZwSyE5SAt6Z0V0zHF) | 4:17 | 2025-01-04 |  |
 | [DEPARTURES \(Cover\)](https://open.spotify.com/track/4204uDVPpvyQfVngoHYBYt) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [バンドリ！ ガールズバンドパーティ！ カバーコレクションVol.6](https://open.spotify.com/album/7lvdkqmdSaYlovBrN7NEdR) | 5:32 | 2025-12-04 |  |
 | [Deplorable Capital](https://open.spotify.com/track/1HeadmeqOPJq6ogVycSNjz) | [HOYO\-MiX](https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg) | [Genshin Impact \- Cantus Aeternus \(Original Game Soundtrack\)](https://open.spotify.com/album/2n2LvBVabXSthRaLEDGGSe) | 1:04 | 2025-11-29 |  |
+| [Dernière danse](https://open.spotify.com/track/65uoaqX5qcjXZRheAj1qQT) | [Indila](https://open.spotify.com/artist/0FEJqmeLRzsXj8hgcZaAyB) | [Mini World](https://open.spotify.com/album/1r7XjAgjwlakmXC2GbPXjH) | 3:33 | 2026-11-14 |  |
 | [Desecrated Cathedral](https://open.spotify.com/track/3IXcM1MovXneZmFIPBTjWh) | [グローリー・コーラス・トウキョウ](https://open.spotify.com/artist/2fm3Vj9l9hVd2FQEURGvVV), [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN), [ATLUS GAME MUSIC](https://open.spotify.com/artist/7tUDDR0lAc9PLMPHPfzaqI) | [Metaphor: ReFantazio Special Soundtrack](https://open.spotify.com/album/4t0OSUQj2rwY3vQnWRYXVm) | 2:12 | 2026-07-12 |  |
 | [Desires \(with Future\)](https://open.spotify.com/track/7eYAHC0RbBF9eaqWzT34Aq) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Dark Lane Demo Tapes](https://open.spotify.com/album/6OQ9gBfg5EXeNAEwGSs6jK) | 3:57 | 2025-01-03 |  |
 | [Desperado](https://open.spotify.com/track/4mCf3vQf7z0Yseo0RxAi3V) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 3:06 | 2025-01-15 |  |
@@ -3787,7 +3788,7 @@
 | [Learn Truth](https://open.spotify.com/track/4m1TMr12eCTosrRY5VSiHm) | [R.A\. The Rugged Man](https://open.spotify.com/artist/3mUHAiDazZq75gh6If5zoD), [Talib Kweli](https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y) | [Legends Never Die](https://open.spotify.com/album/0St7NU1GmG0K0Y1NceGYwu) | 3:16 | 2025-01-15 |  |
 | [Learned From Texas](https://open.spotify.com/track/6YR2OEhWXVNhJxzOvJXUiJ) | [Big K.R.I.T.](https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP) | [TDT](https://open.spotify.com/album/28XI5LPW68IwMlcthS9gFo) | 3:12 | 2024-12-10 |  |
 | [LEASE](https://open.spotify.com/track/2PV4Xn0Jy9Z5uz7akQUhdg) | [Takeshi Abo](https://open.spotify.com/artist/6Sn7YAvyrm7TzAM1lyaLqV) | [Takeshi Abo KID Collection～My Merry May](https://open.spotify.com/album/4YRtRcjV41e3YaiFylzuY0) | 1:43 | 2025-01-23 |  |
-| [LEASE](https://open.spotify.com/track/7nA1pselza5GOlk2IVVjxw) | [阿保　剛](https://open.spotify.com/artist/1tlGMYIC16uiS2OFSkvpGT) | [阿保 剛KID作品集～My Merry May](https://open.spotify.com/album/7pCXJROsUJfJbTYAGoPdTn) | 1:43 | 2026-10-20 |  |
+| [LEASE](https://open.spotify.com/track/7nA1pselza5GOlk2IVVjxw) | [Takeshi Abo](https://open.spotify.com/artist/6Sn7YAvyrm7TzAM1lyaLqV) | [阿保 剛KID作品集～My Merry May](https://open.spotify.com/album/7pCXJROsUJfJbTYAGoPdTn) | 1:43 | 2026-10-20 |  |
 | [Leather So Soft](https://open.spotify.com/track/2QUVk7QscEdZiHi7zs4ycM) | [Birdman](https://open.spotify.com/artist/35sCXuy5gN6Or69rZ9vqBs), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Like Father Like Son](https://open.spotify.com/album/3DLSu5fxSIaG7Ph8G5YVBp) | 4:51 | 2024-12-10 |  |
 | [Leave](https://open.spotify.com/track/5dI1yHSqgmilFEqpGbqxHh) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Stoney \(Deluxe\)](https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC) | 5:24 | 2025-01-15 |  |
 | [Leave The Door Open](https://open.spotify.com/track/02VBYrHfVwfEWXk5DXyf0T) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk) | 4:02 | 2024-12-10 |  |
@@ -4106,6 +4107,7 @@
 | [Love Song](https://open.spotify.com/track/4E6cwWJWZw2zWf7VFbH7wf) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Little Voice](https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF) | 4:18 | 2025-01-15 |  |
 | [Love Songs](https://open.spotify.com/track/7wei8Hb9DxoVKUOIIAhDEQ) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Love Songs](https://open.spotify.com/album/4bPgrWgCXGtFkieGEJRioB) | 2:58 | 2025-01-29 |  |
 | [Love Sosa](https://open.spotify.com/track/01Lr5YepbgjXAWR9iOEyH1) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Finally Rich](https://open.spotify.com/album/2B4y3j02ho6XNF8BEzx3JF) | 4:06 | 2024-12-14 |  |
+| [Love Story](https://open.spotify.com/track/6nGeLlakfzlBcFdZXteDq7) | [Indila](https://open.spotify.com/artist/0FEJqmeLRzsXj8hgcZaAyB) | [Mini World](https://open.spotify.com/album/1r7XjAgjwlakmXC2GbPXjH) | 5:16 | 2026-11-14 |  |
 | [Love Story](https://open.spotify.com/track/1vrd6UOGamcKNGnSHJQlSt) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless](https://open.spotify.com/album/2dqn5yOQWdyGwOpOIi9O4x) | 3:55 | 2025-01-15 |  |
 | [Love the Subhuman Self](https://open.spotify.com/track/7gESuiigF7GFFYIApfUBk5) | [AISHA](https://open.spotify.com/artist/2CrQohuZKX4Kijnw1FX4tf), [Jamison Boaz](https://open.spotify.com/artist/1wGBkxY8jfldPFkN6Ov8d0), [Arc System Works](https://open.spotify.com/artist/7vlM4bn4gPubcmntK8UBp0) | [GUILTY GEAR \-STRIVE\- ORIGINAL SOUND TRACK VOL.1](https://open.spotify.com/album/3IaQ0DQMIXMShbMDNepeTK) | 5:08 | 2026-02-17 |  |
 | [Love The Way You Lie](https://open.spotify.com/track/15JINEqzVMv3SvJTAXAKED) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Recovery](https://open.spotify.com/album/47BiFcV59TQi2s9SkBo2pb) | 4:23 | 2025-01-03 |  |

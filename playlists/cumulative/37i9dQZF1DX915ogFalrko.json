@@ -683,6 +683,24 @@
     },
     {
       "album": {
+        "name": "Burn The Witch",
+        "url": "https://open.spotify.com/album/20KFcc2YxcqOAFsrWLfwmC"
+      },
+      "artists": [
+        {
+          "name": "Misfits Together",
+          "url": "https://open.spotify.com/artist/4y3Ml1Bz1HWbUpVvaMGR50"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199226,
+      "name": "Burn The Witch",
+      "url": "https://open.spotify.com/track/3JHTGkpRXwCGaW3Hh0crug"
+    },
+    {
+      "album": {
         "name": "Call Me",
         "url": "https://open.spotify.com/album/1MQRxIVZfu0T2UM5Z5x8Sz"
       },
@@ -3432,7 +3450,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 226534,
       "name": "Origami",
       "url": "https://open.spotify.com/track/2kbAnjDgC3pmHvhPMnPSsj"

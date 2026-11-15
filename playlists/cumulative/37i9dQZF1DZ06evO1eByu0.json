@@ -1001,6 +1001,24 @@
     },
     {
       "album": {
+        "name": "Em Meio a Tua Gl\u00f3ria",
+        "url": "https://open.spotify.com/album/3pGVDzXoAt8yRQYV1Ex17s"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "date_added": "2026-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256202,
+      "name": "Em Meio a Tua Gl\u00f3ria",
+      "url": "https://open.spotify.com/track/4cUldPw6AlaiU4uiPiXm5o"
+    },
+    {
+      "album": {
         "name": "Tudo Sobre Ele",
         "url": "https://open.spotify.com/album/4FYo2VRJYru3XbUySDd7tA"
       },
@@ -1356,7 +1374,7 @@
       ],
       "date_added": "2026-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 358281,
       "name": "Livro do Cordeiro",
       "url": "https://open.spotify.com/track/0U1nD45MDlon0Qnyr4xlQJ"

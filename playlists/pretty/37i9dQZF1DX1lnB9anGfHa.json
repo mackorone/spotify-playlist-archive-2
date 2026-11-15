@@ -1,6 +1,6 @@
 {
   "description": "\u26b8\u26b8\u26b8 a journey into the unknown, dark, and experimental \u26b8\u26b8\u26b8 featuring Marina Herlop",
-  "num_followers": 252772,
+  "num_followers": 252769,
   "original_name": "Terra Incognita",
   "owner": {
     "name": "Spotify",
@@ -1123,6 +1123,26 @@
     {
       "added_at": "2026-08-03 08:02:19",
       "album": {
+        "name": "Jard\u00edn de Planetas",
+        "url": "https://open.spotify.com/album/2pldZMO9zTtv2DLkMaIRa7"
+      },
+      "artists": [
+        {
+          "name": "Mercedes Nasta",
+          "url": "https://open.spotify.com/artist/0eHEhyv8iCI5pLiD5Eh3vH"
+        },
+        {
+          "name": "Rodrigo Blanco",
+          "url": "https://open.spotify.com/artist/21HbMlb9irHkIBRljFaoIK"
+        }
+      ],
+      "duration_ms": 374422,
+      "name": "Jard\u00edn de Planetas",
+      "url": "https://open.spotify.com/track/1BfNftMwrFFTcyAZbPLn9x"
+    },
+    {
+      "added_at": "2026-08-03 08:02:19",
+      "album": {
         "name": "EROS\u00c3O PERCUSSION TRIO",
         "url": "https://open.spotify.com/album/0Cz8hm5ZVAsmfXHNAi2mZ8"
       },
@@ -1147,26 +1167,6 @@
       "duration_ms": 344685,
       "name": "Tripa",
       "url": "https://open.spotify.com/track/2ZHOJDeaKVg5pjzUkeowg0"
-    },
-    {
-      "added_at": "2026-08-03 08:02:19",
-      "album": {
-        "name": "Jard\u00edn de Planetas",
-        "url": "https://open.spotify.com/album/2pldZMO9zTtv2DLkMaIRa7"
-      },
-      "artists": [
-        {
-          "name": "Mercedes Nasta",
-          "url": "https://open.spotify.com/artist/0eHEhyv8iCI5pLiD5Eh3vH"
-        },
-        {
-          "name": "Rodrigo Blanco",
-          "url": "https://open.spotify.com/artist/21HbMlb9irHkIBRljFaoIK"
-        }
-      ],
-      "duration_ms": 374422,
-      "name": "Jard\u00edn de Planetas",
-      "url": "https://open.spotify.com/track/1BfNftMwrFFTcyAZbPLn9x"
     },
     {
       "added_at": "2026-08-03 08:02:19",
@@ -1227,26 +1227,6 @@
     {
       "added_at": "2026-08-03 08:02:19",
       "album": {
-        "name": "OPVS NOVUM: A Requiem Reworked",
-        "url": "https://open.spotify.com/album/0BDOnuEIPCcya95B82Z3RY"
-      },
-      "artists": [
-        {
-          "name": "Penelope Trappes",
-          "url": "https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT"
-        },
-        {
-          "name": "Julia Holter",
-          "url": "https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E"
-        }
-      ],
-      "duration_ms": 266415,
-      "name": "Thou Art Mortal - Julia Holter Rework",
-      "url": "https://open.spotify.com/track/6wt6su6c5kE2igsgHPs4Sj"
-    },
-    {
-      "added_at": "2026-08-03 08:02:19",
-      "album": {
         "name": "Life of the Forbidden",
         "url": "https://open.spotify.com/album/2BMxhHwUGmuagtQWxIYw3R"
       },
@@ -1275,6 +1255,26 @@
       "duration_ms": 252000,
       "name": "Drum Jump",
       "url": "https://open.spotify.com/track/0mCZfrseEMpeQlCLf99UyG"
+    },
+    {
+      "added_at": "2026-08-03 08:02:19",
+      "album": {
+        "name": "OPVS NOVUM: A Requiem Reworked",
+        "url": "https://open.spotify.com/album/0BDOnuEIPCcya95B82Z3RY"
+      },
+      "artists": [
+        {
+          "name": "Penelope Trappes",
+          "url": "https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT"
+        },
+        {
+          "name": "Julia Holter",
+          "url": "https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E"
+        }
+      ],
+      "duration_ms": 266415,
+      "name": "Thou Art Mortal - Julia Holter Rework",
+      "url": "https://open.spotify.com/track/6wt6su6c5kE2igsgHPs4Sj"
     }
   ],
   "unique_name": "Terra Incognita",

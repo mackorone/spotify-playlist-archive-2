@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 
 > La  selección  musical de la inconmensurable tristeza latina bajo la mirada de un simple editor de Spotify
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,567 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,571 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 | 26 | [Guerra de Novios](https://open.spotify.com/track/7GT8hWzke6De6HFMjRjBhO) | [cacomixtle](https://open.spotify.com/artist/5BPV50KIHSSKCHuQwh30fP) | [Nada Bueno Termina Bien](https://open.spotify.com/album/7sDECyr819XLlKvhBHhqcb) | 2:33 |
 | 27 | [¿Quién Jugará Nintendo? \(25 Aniversario\)](https://open.spotify.com/track/17BBXV7LiZ0fXviquoHLkt) | [Taller para Niños](https://open.spotify.com/artist/4AHgsY0GJKLwzLa4xmIFDn), [Say Ocean](https://open.spotify.com/artist/2zRUJl2CGyWrg4wrh8KYe9) | [¿Quién Jugará Nintendo? \(25 Aniversario\)](https://open.spotify.com/album/5HgOFgLZXGvtD4ZrUR33vG) | 2:52 |
 | 28 | [Zaza](https://open.spotify.com/track/06hQBCCnTPdlDur3HGGgv9) | [Allanamiento Emocional](https://open.spotify.com/artist/7d6pOevWwMO1Oi46SxnQAz) | [Zaza](https://open.spotify.com/album/3E1sVU9dy5EkojxZAivmyQ) | 4:04 |
-| 29 | [Quebrada](https://open.spotify.com/track/22wjxoyspjoKR9qZ7xyGik) | [Estoy Bien](https://open.spotify.com/artist/3L2tBKYsn5RF3NM1NLQEda) | [Quebrada](https://open.spotify.com/album/6Kc856PWIMLeN9IjfOiOxG) | 3:30 |
-| 30 | [D'lorean](https://open.spotify.com/track/4V75KgotlsXYWuoBLBr19A) | [Hikikomori Club](https://open.spotify.com/artist/7aaAVtrEeoNmTZONrYa3Rm) | [Mi Mundo Yo Perdí](https://open.spotify.com/album/4j7QcYBm2Gk7VJWwIWtv9b) | 4:23 |
+| 29 | [D'lorean](https://open.spotify.com/track/4V75KgotlsXYWuoBLBr19A) | [Hikikomori Club](https://open.spotify.com/artist/7aaAVtrEeoNmTZONrYa3Rm) | [Mi Mundo Yo Perdí](https://open.spotify.com/album/4j7QcYBm2Gk7VJWwIWtv9b) | 4:23 |
+| 30 | [Quebrada](https://open.spotify.com/track/22wjxoyspjoKR9qZ7xyGik) | [Estoy Bien](https://open.spotify.com/artist/3L2tBKYsn5RF3NM1NLQEda) | [Quebrada](https://open.spotify.com/album/6Kc856PWIMLeN9IjfOiOxG) | 3:30 |
 | 31 | [Perfecto acuerdo para estar en desacuerdo](https://open.spotify.com/track/2lquh3pOdhnhmvtkIPjlV5) | [Almost Done](https://open.spotify.com/artist/19uFCH9vBe6F7cOZNK5DZ9) | [Perfecto acuerdo para estar en desacuerdo](https://open.spotify.com/album/4GituU8n4ox6vxg8fh2Wlm) | 3:31 |
 | 32 | [Santa Rosa](https://open.spotify.com/track/59pr4mXuQU6VbpXQjVoN5L) | [Procrastinación 1 Yo 0](https://open.spotify.com/artist/1MSazhd5p3dgnK1WBLduaT) | [El Mejor Regalo De Nuestras Vidas](https://open.spotify.com/album/4twfyKaFL5bFXEqUbeLx5q) | 2:56 |
 | 33 | [Miedo a Perder](https://open.spotify.com/track/3X6apLf8f7fD7qDFdOCj13) | [El Sueño de Alicia](https://open.spotify.com/artist/1Jdy7PQDJZPnCplQ3HxCbs) | [Sociedad De Socorro Mutuo](https://open.spotify.com/album/2kJMFGORcX2UM7lEBx4WAC) | 2:45 |

@@ -1,6 +1,6 @@
 {
   "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Alex Fernandez \ud83d\udcf8",
-  "num_followers": 368329,
+  "num_followers": 368335,
   "original_name": "Mariachi 2026",
   "owner": {
     "name": "Spotify",
@@ -399,18 +399,18 @@
     {
       "added_at": "2026-11-06 17:00:38",
       "album": {
-        "name": "Ya No Le Mientas",
-        "url": "https://open.spotify.com/album/5luT7UJl4D2vY5xL8M6mRf"
+        "name": "Serpiente De Cascabel",
+        "url": "https://open.spotify.com/album/72yA07337N8qSkSdpLgTAG"
       },
       "artists": [
         {
-          "name": "Alta Consigna",
-          "url": "https://open.spotify.com/artist/0DjAjUeZwSixK0dRwplBXb"
+          "name": "Camila Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
         }
       ],
-      "duration_ms": 159347,
-      "name": "Ya No Le Mientas",
-      "url": "https://open.spotify.com/track/7xdtRize93wp9Zi3HM3bqI"
+      "duration_ms": 189871,
+      "name": "Serpiente De Cascabel",
+      "url": "https://open.spotify.com/track/76zdoeqk70bWpUuaxtjEga"
     },
     {
       "added_at": "2026-11-06 17:00:38",
@@ -431,18 +431,18 @@
     {
       "added_at": "2026-11-06 17:00:38",
       "album": {
-        "name": "Serpiente De Cascabel",
-        "url": "https://open.spotify.com/album/72yA07337N8qSkSdpLgTAG"
+        "name": "Ya No Le Mientas",
+        "url": "https://open.spotify.com/album/5luT7UJl4D2vY5xL8M6mRf"
       },
       "artists": [
         {
-          "name": "Camila Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
+          "name": "Alta Consigna",
+          "url": "https://open.spotify.com/artist/0DjAjUeZwSixK0dRwplBXb"
         }
       ],
-      "duration_ms": 189871,
-      "name": "Serpiente De Cascabel",
-      "url": "https://open.spotify.com/track/76zdoeqk70bWpUuaxtjEga"
+      "duration_ms": 159347,
+      "name": "Ya No Le Mientas",
+      "url": "https://open.spotify.com/track/7xdtRize93wp9Zi3HM3bqI"
     },
     {
       "added_at": "2026-11-06 17:00:38",
@@ -551,26 +551,6 @@
     {
       "added_at": "2026-11-06 17:00:38",
       "album": {
-        "name": "Por Un Mal Amor",
-        "url": "https://open.spotify.com/album/01twnCwIBQr3rXrZZ7wqwU"
-      },
-      "artists": [
-        {
-          "name": "Mariana Seoane",
-          "url": "https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV"
-        },
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 193998,
-      "name": "Por Un Mal Amor",
-      "url": "https://open.spotify.com/track/4JGg4fltXFr17DmZWAtEv2"
-    },
-    {
-      "added_at": "2026-11-06 17:00:38",
-      "album": {
         "name": "Contigo Quiero (A Caballo)",
         "url": "https://open.spotify.com/album/4EsebZYxCbdKCa8HHGmpL5"
       },
@@ -615,6 +595,26 @@
       "duration_ms": 182064,
       "name": "Tu Eterno Enamorado",
       "url": "https://open.spotify.com/track/2Q5f4WrxWWdZgQybH6edxg"
+    },
+    {
+      "added_at": "2026-11-06 17:00:38",
+      "album": {
+        "name": "Por Un Mal Amor",
+        "url": "https://open.spotify.com/album/01twnCwIBQr3rXrZZ7wqwU"
+      },
+      "artists": [
+        {
+          "name": "Mariana Seoane",
+          "url": "https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV"
+        },
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 193998,
+      "name": "Por Un Mal Amor",
+      "url": "https://open.spotify.com/track/4JGg4fltXFr17DmZWAtEv2"
     },
     {
       "added_at": "2026-11-06 17:00:38",

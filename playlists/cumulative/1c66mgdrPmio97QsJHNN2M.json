@@ -1030,7 +1030,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 159449,
       "name": "ACCEPTANCE",
       "url": "https://open.spotify.com/track/1QuYHH4Rn4GQx1C8l4cLWj"
@@ -1474,7 +1474,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 178640,
       "name": "AIM HIGH",
       "url": "https://open.spotify.com/track/4vrJey2o4pZFJy0u9FQlZF"
@@ -3325,6 +3325,24 @@
     },
     {
       "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/7tjk4xoKNbpEWIEJcWmWD4"
+      },
+      "artists": [
+        {
+          "name": "M\u00e9li Jane",
+          "url": "https://open.spotify.com/artist/4rhX45KeFyM9UsR87y6014"
+        }
+      ],
+      "date_added": "2026-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204374,
+      "name": "Aura",
+      "url": "https://open.spotify.com/track/5bmvlvoNmoM2XMtbZMFehN"
+    },
+    {
+      "album": {
         "name": "The Edge",
         "url": "https://open.spotify.com/album/0B4GhE0pbBE7eVTUTCs52f"
       },
@@ -5010,7 +5028,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 167762,
       "name": "Believe Your Heart",
       "url": "https://open.spotify.com/track/2nn57dqyFl0BrT6NPsoJYY"
@@ -9466,7 +9484,7 @@
       ],
       "date_added": "2026-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 194720,
       "name": "Coffee Gone Cold",
       "url": "https://open.spotify.com/track/5FMPw11Z9exKJLvO2ZaYy5"
@@ -13289,6 +13307,24 @@
     },
     {
       "album": {
+        "name": "Door",
+        "url": "https://open.spotify.com/album/3iSKgJ5FQ88Zp7K7BTx9Rq"
+      },
+      "artists": [
+        {
+          "name": "At Baron Lane",
+          "url": "https://open.spotify.com/artist/7uMc0lZt0i1E0pO2zg7YYn"
+        }
+      ],
+      "date_added": "2026-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196849,
+      "name": "Door",
+      "url": "https://open.spotify.com/track/60oMq7rH2JOCRBtrOAmbjO"
+    },
+    {
+      "album": {
         "name": "Bullet To The Heart",
         "url": "https://open.spotify.com/album/76kscgTjAqbyXXTvlGO10H"
       },
@@ -14128,7 +14164,7 @@
       ],
       "date_added": "2026-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 192000,
       "name": "Easy & Catchy",
       "url": "https://open.spotify.com/track/4jIDgjX8ypvWsiW74RcVUU"
@@ -18510,7 +18546,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 198320,
       "name": "Freak",
       "url": "https://open.spotify.com/track/1zMkrij3OWaSKf6Nw4UIIT"
@@ -20448,7 +20484,7 @@
       ],
       "date_added": "2026-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 171022,
       "name": "Green",
       "url": "https://open.spotify.com/track/34g8h77nDOh6N46k9uz95G"
@@ -23330,7 +23366,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 209280,
       "name": "Hungry For You (CheeseBurger)",
       "url": "https://open.spotify.com/track/3zANb3j3x592uqN3lacizc"
@@ -23770,6 +23806,24 @@
       "duration_ms": 133953,
       "name": "I feel like cello",
       "url": "https://open.spotify.com/track/1ia5kO08ORZMJpByEXIATW"
+    },
+    {
+      "album": {
+        "name": "I feel like",
+        "url": "https://open.spotify.com/album/6iF61A7MukN95aNO9PTScm"
+      },
+      "artists": [
+        {
+          "name": "Vontiger",
+          "url": "https://open.spotify.com/artist/0Hm36zzJ7XBUjqlMoQqc64"
+        }
+      ],
+      "date_added": "2026-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156279,
+      "name": "I feel like pulse 1",
+      "url": "https://open.spotify.com/track/2C1BzBxzN3rhz6E6l3FZ9f"
     },
     {
       "album": {
@@ -28602,7 +28656,7 @@
       ],
       "date_added": "2026-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 138600,
       "name": "Learning The Game",
       "url": "https://open.spotify.com/track/2VYjV1AigCXvKNgRAT25ZD"
@@ -28902,7 +28956,7 @@
       ],
       "date_added": "2026-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 179383,
       "name": "Let Me Sin (Dimelo)",
       "url": "https://open.spotify.com/track/0xBM5JHarE8cxmyaPjutDg"
@@ -30074,6 +30128,24 @@
       "duration_ms": 201440,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/4N2ifxFCRXKHdXGf6mXjVb"
+    },
+    {
+      "album": {
+        "name": "Lonely Chapters",
+        "url": "https://open.spotify.com/album/6dmqwIazeb2kXUEEY6QFP5"
+      },
+      "artists": [
+        {
+          "name": "ALRIGHT",
+          "url": "https://open.spotify.com/artist/6wsLLtTC30cVoWIpjFX8xx"
+        }
+      ],
+      "date_added": "2026-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198602,
+      "name": "Lonely Chapters",
+      "url": "https://open.spotify.com/track/48yfiyAgvZ9dZ8uvop9Sw5"
     },
     {
       "album": {
@@ -32536,6 +32608,24 @@
       "duration_ms": 141818,
       "name": "Meantime",
       "url": "https://open.spotify.com/track/0dkceYu8VUCgVCdLIw6Lfc"
+    },
+    {
+      "album": {
+        "name": "Chili",
+        "url": "https://open.spotify.com/album/63UrzgOuYJyBv3pxIsL7WR"
+      },
+      "artists": [
+        {
+          "name": "Bones of Life",
+          "url": "https://open.spotify.com/artist/6VSYvLITiAlktrIglly7AO"
+        }
+      ],
+      "date_added": "2026-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140884,
+      "name": "Meats",
+      "url": "https://open.spotify.com/track/4ZA3rq723AjVOdszRCig6U"
     },
     {
       "album": {
@@ -35087,6 +35177,24 @@
     },
     {
       "album": {
+        "name": "neurodivergent",
+        "url": "https://open.spotify.com/album/2Yws6FSkiQSKkYQSGCLG1K"
+      },
+      "artists": [
+        {
+          "name": "Rainn Sherwood",
+          "url": "https://open.spotify.com/artist/3bRQfeS0kMVySI4KRDbeSP"
+        }
+      ],
+      "date_added": "2026-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173273,
+      "name": "neurodivergent",
+      "url": "https://open.spotify.com/track/2AB7innb8UKlifDkS10nPX"
+    },
+    {
+      "album": {
         "name": "Frank-N-Stein",
         "url": "https://open.spotify.com/album/6YFG6Cfws1ick1Mi7UOMNO"
       },
@@ -35300,7 +35408,7 @@
       ],
       "date_added": "2026-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 176571,
       "name": "Never Stay (Without me)",
       "url": "https://open.spotify.com/track/6yuTiz4y40PAmJTIbF5PGp"
@@ -36112,7 +36220,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 152833,
       "name": "Nocturnal",
       "url": "https://open.spotify.com/track/3FsjZxUite1emwfpv6wMz8"
@@ -36590,7 +36698,7 @@
       ],
       "date_added": "2026-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 209091,
       "name": "Nothing Is Forever",
       "url": "https://open.spotify.com/track/1g9xdWG7Yqet8LbOc3vEO4"
@@ -36792,7 +36900,7 @@
       ],
       "date_added": "2026-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 82500,
       "name": "OBSESSION",
       "url": "https://open.spotify.com/track/2wYrbjEEJ6Wt1yslt0yjc8"
@@ -43479,6 +43587,24 @@
     },
     {
       "album": {
+        "name": "Saturday Morning Cartoons",
+        "url": "https://open.spotify.com/album/2892PVRyEB2CPmiUQ7VZsj"
+      },
+      "artists": [
+        {
+          "name": "Stasis Core",
+          "url": "https://open.spotify.com/artist/7jGouNuqGNIPzU3TBguRPj"
+        }
+      ],
+      "date_added": "2026-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152400,
+      "name": "Saturday Morning Cartoons",
+      "url": "https://open.spotify.com/track/6deV8dNwiuCVM8BrlBqHe2"
+    },
+    {
+      "album": {
         "name": "Sat\u00e9n",
         "url": "https://open.spotify.com/album/6vVYkC5dArijaDwAt14M7J"
       },
@@ -43598,7 +43724,7 @@
       ],
       "date_added": "2026-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 170631,
       "name": "Save me",
       "url": "https://open.spotify.com/track/2pVYGX8i3rSUSCAuNcKyHM"
@@ -46356,7 +46482,7 @@
       ],
       "date_added": "2026-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 143804,
       "name": "Someone Like You",
       "url": "https://open.spotify.com/track/0luiGbmvzLFKcZQR3TwJRD"
@@ -47474,7 +47600,7 @@
       ],
       "date_added": "2026-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 130588,
       "name": "stop my pain",
       "url": "https://open.spotify.com/track/6SyUrOiOt4BouU7EOCsLf9"
@@ -48920,7 +49046,7 @@
       ],
       "date_added": "2026-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 186260,
       "name": "Take it Back",
       "url": "https://open.spotify.com/track/4zxWd5W21poQwB7nMenV5G"
@@ -49464,7 +49590,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 152678,
       "name": "Teenage Dirtbag",
       "url": "https://open.spotify.com/track/2ornoIPPFbS07AHHpWbmmB"
@@ -56064,7 +56190,7 @@
       ],
       "date_added": "2026-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 179417,
       "name": "WE ARE NUMBER 1",
       "url": "https://open.spotify.com/track/3WRjSsYsHs49pNaGBG9IW4"
@@ -56292,6 +56418,24 @@
       "duration_ms": 186319,
       "name": "Weather Forecast",
       "url": "https://open.spotify.com/track/6FA4mDvfI7v0xwnQjV04pC"
+    },
+    {
+      "album": {
+        "name": "Weather To Fly",
+        "url": "https://open.spotify.com/album/6x1oKR6mXm3WwaE8Byyhfh"
+      },
+      "artists": [
+        {
+          "name": "Matty Ram",
+          "url": "https://open.spotify.com/artist/7okMGHsN4e4C6EMzepEqHy"
+        }
+      ],
+      "date_added": "2026-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164913,
+      "name": "Weather To Fly",
+      "url": "https://open.spotify.com/track/4rBhncGAqOOoBHOMtqIxN7"
     },
     {
       "album": {
@@ -56862,7 +57006,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 200000,
       "name": "Whatever, Whatever",
       "url": "https://open.spotify.com/track/1RcRcXDyrTrYQRyUx7yM3y"
@@ -59570,7 +59714,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 148298,
       "name": "You will remember me",
       "url": "https://open.spotify.com/track/5slNOzKTbwJmL7axQStSbN"
@@ -60148,7 +60292,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 296000,
       "name": "ZoR!K",
       "url": "https://open.spotify.com/track/5uygvOlcy7jIcrrXDqNzrb"

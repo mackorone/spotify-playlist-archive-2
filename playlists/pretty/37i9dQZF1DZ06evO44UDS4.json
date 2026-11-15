@@ -1,12 +1,12 @@
 {
   "description": "This is Oliver Tree. The essential tracks, all in one playlist.",
-  "num_followers": 182126,
+  "num_followers": 182158,
   "original_name": "This Is Oliver Tree",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avUBgAAAAAAb4unz4oPfiLFDvK8i0dZh",
+  "snapshot_id": "avZTAAAAAABYAlaZHhQ/Vh4aIT0ncD0P",
   "tracks": [
     {
       "added_at": null,
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ugly is Beautiful: Shorter, Thicker & Uglier (Deluxe)",
-        "url": "https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        }
-      ],
-      "duration_ms": 136615,
-      "name": "All in All",
-      "url": "https://open.spotify.com/track/2fAfLaxE6fswBIFKdh8L89"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love You Madly Hate You Badly",
         "url": "https://open.spotify.com/album/4Ns0kKlkmOUNgEM3OHhmKt"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 150790,
       "name": "Joyride",
       "url": "https://open.spotify.com/track/5uQQOcohwdoXdYR60TlBsd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ugly is Beautiful: Shorter, Thicker & Uglier (Deluxe)",
+        "url": "https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "duration_ms": 136615,
+      "name": "All in All",
+      "url": "https://open.spotify.com/track/2fAfLaxE6fswBIFKdh8L89"
     },
     {
       "added_at": null,
@@ -691,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ugly is Beautiful: Shorter, Thicker & Uglier (Deluxe)",
-        "url": "https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        }
-      ],
-      "duration_ms": 132236,
-      "name": "When You're Around",
-      "url": "https://open.spotify.com/track/27RyeAlW8qufycdeSz2K2o"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love You Madly Hate You Badly",
         "url": "https://open.spotify.com/album/4Ns0kKlkmOUNgEM3OHhmKt"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 178492,
       "name": "Glow On",
       "url": "https://open.spotify.com/track/1iGx5ExhCxY0mgTaLqWyhn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ugly is Beautiful: Shorter, Thicker & Uglier (Deluxe)",
+        "url": "https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "duration_ms": 132236,
+      "name": "When You're Around",
+      "url": "https://open.spotify.com/track/27RyeAlW8qufycdeSz2K2o"
     },
     {
       "added_at": null,
@@ -759,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ugly is Beautiful: Shorter, Thicker & Uglier (Deluxe)",
-        "url": "https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        }
-      ],
-      "duration_ms": 193986,
-      "name": "Every Type of Friend",
-      "url": "https://open.spotify.com/track/4857wFBWpbuhm5caykSZSO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love You Madly Hate You Badly",
         "url": "https://open.spotify.com/album/4Ns0kKlkmOUNgEM3OHhmKt"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 190265,
       "name": "Death Ray",
       "url": "https://open.spotify.com/track/0YdG4zW1WUpKvWI9tVbnjO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ugly is Beautiful: Shorter, Thicker & Uglier (Deluxe)",
+        "url": "https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "duration_ms": 193986,
+      "name": "Every Type of Friend",
+      "url": "https://open.spotify.com/track/4857wFBWpbuhm5caykSZSO"
     },
     {
       "added_at": null,
@@ -831,22 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ugly is Beautiful: Shorter, Thicker & Uglier (Deluxe)",
-        "url": "https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        }
-      ],
-      "duration_ms": 180383,
-      "name": "Out of Ordinary",
-      "url": "https://open.spotify.com/track/7cXgeethsda8KnjsfT8kGE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Voices (feat. Oliver Tree)",
         "url": "https://open.spotify.com/album/3oFZmnzIemQRpB0JOLzXRe"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 188575,
       "name": "Voices (feat. Oliver Tree)",
       "url": "https://open.spotify.com/track/2LWJ0zNei0z2WjHHwSNUkx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ugly is Beautiful: Shorter, Thicker & Uglier (Deluxe)",
+        "url": "https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "duration_ms": 180383,
+      "name": "Out of Ordinary",
+      "url": "https://open.spotify.com/track/7cXgeethsda8KnjsfT8kGE"
     },
     {
       "added_at": null,

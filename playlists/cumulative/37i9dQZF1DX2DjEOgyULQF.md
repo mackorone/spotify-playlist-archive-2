@@ -4,7 +4,7 @@
 
 > Ambient with the soothing sounds of water, rain and birds.
 
-550 songs - 1 day 1 hr 57 min
+551 songs - 1 day 2 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -363,7 +363,7 @@
 | [Philosophy of Mind](https://open.spotify.com/track/7i0bw8dAa72b1fOe3mo070) | [Pure Purposes](https://open.spotify.com/artist/4kbLiTWkq9FIV3VHRS24EY) | [Philosophy of Mind](https://open.spotify.com/album/1JSa4EWk3EaFNyJMpc8wnG) | 3:17 | 2026-04-03 |  |
 | [Photosynthesis](https://open.spotify.com/track/33K1CabCTz04Ht8G67PTPD) | [Endless Voyager](https://open.spotify.com/artist/15TXDkpu2tSyiy77G5ckRa) | [Photosynthesis](https://open.spotify.com/album/2n2FsaAK3UHnPdgYNbcGhx) | 2:42 | 2025-05-21 | 2026-04-04 |
 | [Pines in the Morning Haze](https://open.spotify.com/track/1DyC1vurKh8kk0TatwwWI7) | [Ruttik Dhakate](https://open.spotify.com/artist/4vPlN4GEfqIPoiwwsCxZl3) | [Pines in the Morning Haze](https://open.spotify.com/album/6LyH5nHcrzjZsnTIuaii6F) | 2:51 | 2026-04-03 |  |
-| [Placid Drift](https://open.spotify.com/track/6yufy66mJGzYGcuCfz6BmY) | [Dylan Charbeneau](https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk) | [Placid Drift](https://open.spotify.com/album/6Yc8tnb5gxoPDoC76KAR86) | 3:00 | 2025-06-12 |  |
+| [Placid Drift](https://open.spotify.com/track/6yufy66mJGzYGcuCfz6BmY) | [Dylan Charbeneau](https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk) | [Placid Drift](https://open.spotify.com/album/6Yc8tnb5gxoPDoC76KAR86) | 3:00 | 2025-06-12 | 2026-11-15 |
 | [Plantae](https://open.spotify.com/track/77shZB4gVpO99vZyIbbu9B) | [Asteeõs](https://open.spotify.com/artist/59r2DpcsbqkntoA9Xfkw9K) | [Plantae](https://open.spotify.com/album/6eHLct0TKeqb43uzPeFuVL) | 2:37 | 2026-04-03 |  |
 | [Pompeiana Waters](https://open.spotify.com/track/3lwYGB4DxrEGE8uJ7JeKPx) | [Miriam van Steeg](https://open.spotify.com/artist/5w21WblmOUdUPdA4YgBAnu) | [Pompeiana Waters](https://open.spotify.com/album/0Xtq908YcEyx3mMgpLpHdZ) | 2:54 | 2023-04-28 | 2025-01-01 |
 | [Portraits \(Sound Bath\)](https://open.spotify.com/track/0RyfmZbX3IIJcv6QE8lHmH) | [For The Lost](https://open.spotify.com/artist/58WBGaTBnBHGIgn19HOnhZ) | [Portraits \(Sound Bath\)](https://open.spotify.com/album/7Eh16NCTsAbz4jtNoRWqh7) | 3:14 | 2023-04-28 | 2025-05-22 |
@@ -431,6 +431,7 @@
 | [Slowly Stream](https://open.spotify.com/track/3K5TE2OlvFLnXbRLarLlBd) | [Mystisse](https://open.spotify.com/artist/6IpbJpzWfnVDsdJG9fJHWp) | [Slowly](https://open.spotify.com/album/2zKxxUDZeLSpm6whXgcnGo) | 3:11 | 2023-11-24 | 2026-08-20 |
 | [Slumber](https://open.spotify.com/track/4zE3EZNDuoLabKLlvWcuBw) | [Nebuu](https://open.spotify.com/artist/4OHXOR1h0JhQBarufXpOtP) | [Slumber](https://open.spotify.com/album/6HwXGFUGqfDeaisYykNZGw) | 2:17 | 2024-08-23 | 2026-07-05 |
 | [Soft and Secluded](https://open.spotify.com/track/3pm88ndOSvKfDbC28FGb7E) | [Forest Gold](https://open.spotify.com/artist/12Lj4bvVL57SoslmmpalNU) | [Soft and Secluded](https://open.spotify.com/album/4EqmSSOmcAXzvtT18N3mUZ) | 3:00 | 2026-04-03 |  |
+| [Soft Embrace](https://open.spotify.com/track/7fdbp2sO9tishNMGSLn8aj) | [Luna's Garden](https://open.spotify.com/artist/3zrgUBWKbLbpOkrFqGZMqt) | [Soft Embrace](https://open.spotify.com/album/68JgLqQGjzoTN4CUmULF60) | 2:35 | 2026-11-12 |  |
 | [Soft Lights](https://open.spotify.com/track/5wCsBYlomdTdpCMYoguRCg) | [Astral Ocean](https://open.spotify.com/artist/3bV8AeagkRMuP7GwSrK4J6) | [Soft Lights](https://open.spotify.com/album/2Xj4CDF8lq5dYHZEPCsrUd) | 3:02 | 2025-06-12 | 2026-06-13 |
 | [Soft Terrain](https://open.spotify.com/track/1c3y19gfwFbpP4AeEanJTA) | [Terra Silva](https://open.spotify.com/artist/3QcRF5A3knoVN56ZQgcvWV) | [Soft Terrain](https://open.spotify.com/album/71QvOPd5Trz79tbK1JyXuQ) | 3:13 | 2026-11-03 |  |
 | [Solemn Echo](https://open.spotify.com/track/5NtSWnA98CIXpE6HloLurX) | [Stormfields](https://open.spotify.com/artist/1PlgaV9zKrbKabenfaMf0C) | [Solemn Echo](https://open.spotify.com/album/4b8EHzObZBqI6KXyU3DE2g) | 2:12 | 2023-04-28 | 2025-04-21 |

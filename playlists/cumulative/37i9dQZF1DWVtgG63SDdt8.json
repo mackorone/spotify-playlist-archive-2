@@ -71645,6 +71645,24 @@
     },
     {
       "album": {
+        "name": "For The Rest Of My Life",
+        "url": "https://open.spotify.com/album/4hlxJC4ADPgqNUynZYaQZ6"
+      },
+      "artists": [
+        {
+          "name": "Ethan Dufault",
+          "url": "https://open.spotify.com/artist/5c7oIOloT3runmK9YMayzJ"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226943,
+      "name": "For The Rest Of My Life",
+      "url": "https://open.spotify.com/track/6IesBVOJ4NtX4AD4oQk6Jz"
+    },
+    {
+      "album": {
         "name": "For the Rest of My Life",
         "url": "https://open.spotify.com/album/3CXM178LVqkOz9nPKBV7rN"
       },

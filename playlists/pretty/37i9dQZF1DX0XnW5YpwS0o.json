@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2016. Cover: AURORA",
-  "num_followers": 131026,
+  "num_followers": 131044,
   "original_name": "Best of Indie 2016",
   "owner": {
     "name": "Spotify",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2026-01-20 18:32:57",
       "album": {
+        "name": "WHERE THE HELL ARE MY FRIENDS",
+        "url": "https://open.spotify.com/album/64xUD4qC1fHeidCNlv2UGC"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "duration_ms": 216180,
+      "name": "WHERE THE HELL ARE MY FRIENDS",
+      "url": "https://open.spotify.com/track/0b8mGZFzNge8J9PsgGdudT"
+    },
+    {
+      "added_at": "2026-01-20 18:32:57",
+      "album": {
         "name": "The End Of Comedy",
         "url": "https://open.spotify.com/album/7sE5BL81qaw47AiiH9rV2H"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 187600,
       "name": "The Real World",
       "url": "https://open.spotify.com/track/3Rc94e3TOA1K4vHnWeFVrn"
-    },
-    {
-      "added_at": "2026-01-20 18:32:57",
-      "album": {
-        "name": "WHERE THE HELL ARE MY FRIENDS",
-        "url": "https://open.spotify.com/album/64xUD4qC1fHeidCNlv2UGC"
-      },
-      "artists": [
-        {
-          "name": "LANY",
-          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
-        }
-      ],
-      "duration_ms": 216180,
-      "name": "WHERE THE HELL ARE MY FRIENDS",
-      "url": "https://open.spotify.com/track/0b8mGZFzNge8J9PsgGdudT"
     },
     {
       "added_at": "2026-01-20 18:32:57",

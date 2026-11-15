@@ -1,12 +1,12 @@
 {
   "description": "This is RAYE. The essential tracks, all in one playlist.",
-  "num_followers": 197103,
+  "num_followers": 197156,
   "original_name": "This Is RAYE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avUBgAAAAABdJoeMqQVgvLDI9Ys5l3Ce",
+  "snapshot_id": "avZTAAAAAADOa5gn+hIq7AhHoiYy7nGf",
   "tracks": [
     {
       "added_at": null,
@@ -695,26 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stay (Don't Go Away) [feat. Raye]",
-        "url": "https://open.spotify.com/album/581MrXg5n979mmvZaC6AOE"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 185942,
-      "name": "Stay (Don't Go Away) [feat. Raye]",
-      "url": "https://open.spotify.com/track/4YhN72dRYL2Z3MsaKyT7rS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Feeling Good (triple j Like A Version)",
         "url": "https://open.spotify.com/album/6YQtpgkFSYr9sF8fTsHbMs"
       },
@@ -731,6 +711,26 @@
       "duration_ms": 239299,
       "name": "Feeling Good - triple j Like A Version",
       "url": "https://open.spotify.com/track/4kY3cAWzzKVn3ZmYfOOJul"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stay (Don't Go Away) [feat. Raye]",
+        "url": "https://open.spotify.com/album/581MrXg5n979mmvZaC6AOE"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 185942,
+      "name": "Stay (Don't Go Away) [feat. Raye]",
+      "url": "https://open.spotify.com/track/4YhN72dRYL2Z3MsaKyT7rS"
     },
     {
       "added_at": null,

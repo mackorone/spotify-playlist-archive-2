@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CxGuIDY1G8.md) - [plain]
 
 > sugar and spice but for the eyes\. MVs only available for Spotify premium subscribers\. Cover: LISA
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,819 likes - 80 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,829 likes - 80 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CxGuIDY1G8.md) - [plain]
 | 36 | [The Reason](https://open.spotify.com/track/2byNQPJUMOmyKdaQSw0k15) | [Yim Siwan](https://open.spotify.com/artist/182ecftEoWZSTXQgTEeqgj) | [The Reason](https://open.spotify.com/album/2XhgPDYlVpFwirVHaHubHw) | 3:08 |
 | 37 | [GALA](https://open.spotify.com/track/6laUIsJKwTQMXAAEKnCwES) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [GALA](https://open.spotify.com/album/3NRRlw17pH8AinthjFc2MT) | 3:47 |
 | 38 | [CEREMONY](https://open.spotify.com/track/02LgzDa6PoeQo1icoBczKd) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [CEREMONY \(Celebrate Remixes\)](https://open.spotify.com/album/7CUjPkGtDQxvrGPUKVjCiK) | 2:44 |
-| 39 | [EXPOSURE \(feat\. BEX, WONBI, LEON, DYLAN, lighT & PN\)](https://open.spotify.com/track/3YXhJ9tRO2MC0HLn9AN0vA) | [Show It All Vietnam \(Tân Binh Toàn Năng\)](https://open.spotify.com/artist/4SiNg3BrvdFycwTlO6HGKN), [BEX](https://open.spotify.com/artist/1OhNriuKN9X0SnrgfGz90R), [WONBI](https://open.spotify.com/artist/3hczxVRYbodiEksNCDOlXB), [LEON](https://open.spotify.com/artist/6DJL4qFcoiio3UcGDCytWl), [DYLAN](https://open.spotify.com/artist/7CRwRDU5XZyasG8rnNwCFG), [lighT](https://open.spotify.com/artist/0yPC26mvNqJMBjEl7qZbez), [PN](https://open.spotify.com/artist/0EfEWOpWEbf6WP8rsQMSDM) | [EXPOSURE \(feat\. BEX, WONBI, LEON, DYLAN, lighT & PN\)](https://open.spotify.com/album/5dZaYu5KLWKQJ3Cpc1oO55) | 3:31 |
+| 39 | [EXPOSURE \(feat\. BEX, WONBI, LEON, DYLAN, lighT & PN\) \- Official Performance Video](https://open.spotify.com/track/3YXhJ9tRO2MC0HLn9AN0vA) | [Show It All Vietnam \(Tân Binh Toàn Năng\)](https://open.spotify.com/artist/4SiNg3BrvdFycwTlO6HGKN), [BEX](https://open.spotify.com/artist/1OhNriuKN9X0SnrgfGz90R), [WONBI](https://open.spotify.com/artist/3hczxVRYbodiEksNCDOlXB), [LEON](https://open.spotify.com/artist/6DJL4qFcoiio3UcGDCytWl), [DYLAN](https://open.spotify.com/artist/7CRwRDU5XZyasG8rnNwCFG), [lighT](https://open.spotify.com/artist/0yPC26mvNqJMBjEl7qZbez), [PN](https://open.spotify.com/artist/0EfEWOpWEbf6WP8rsQMSDM) | [EXPOSURE \(feat\. BEX, WONBI, LEON, DYLAN, lighT & PN\) \[Official Performance Video\]](https://open.spotify.com/album/5dZaYu5KLWKQJ3Cpc1oO55) | 3:31 |
 | 40 | [like JENNIE](https://open.spotify.com/track/0fK7ie6XwGxQTIkpFoWkd1) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 2:03 |
 | 41 | [APT.](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [APT.](https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD) | 2:49 |
 | 42 | [Gameboy](https://open.spotify.com/track/2f1WulnyiYYnseSQWI8Oi9) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [BEAUTIFUL CHAOS](https://open.spotify.com/album/4llrXTk6u4QYI1j7KHIsCx) | 3:05 |

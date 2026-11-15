@@ -3135,6 +3135,28 @@
     },
     {
       "album": {
+        "name": "jakby ok",
+        "url": "https://open.spotify.com/album/2epRg7LZCWlzDT13OzMiAh"
+      },
+      "artists": [
+        {
+          "name": "LALE",
+          "url": "https://open.spotify.com/artist/1BaXV5IqUHk4V3QkLsSN05"
+        },
+        {
+          "name": "Dizzma",
+          "url": "https://open.spotify.com/artist/7EaDsPGE5PcfbaqySXxzU1"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137932,
+      "name": "jakby ok",
+      "url": "https://open.spotify.com/track/4agwHBJr7jnvS9VHEJRJ0n"
+    },
+    {
+      "album": {
         "name": "Jenga",
         "url": "https://open.spotify.com/album/4BEoYXbfJ1EKtLWBi7Kxs2"
       },
@@ -3858,7 +3880,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 211000,
       "name": "Maj",
       "url": "https://open.spotify.com/track/49nxyMFjZAk59XqxFsToG1"

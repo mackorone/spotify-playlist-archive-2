@@ -6,8 +6,32 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avUBgAAAAAA0I8qCIFDzuM7bSLyECxCY",
+  "snapshot_id": "avZTAAAAAABPbeBbi/dqDtpMTvwVBoAI",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Eyes of Ghana (Original Motion Picture Soundtrack) (feat. Dela Botri & Chineke! Orchestra)",
+        "url": "https://open.spotify.com/album/6srXikTsoDvZ1DGgkAznmx"
+      },
+      "artists": [
+        {
+          "name": "Kris Bowers",
+          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+        },
+        {
+          "name": "Dela Botri",
+          "url": "https://open.spotify.com/artist/62vt94pGfB3k1f309uvP5H"
+        },
+        {
+          "name": "Chineke! Orchestra",
+          "url": "https://open.spotify.com/artist/7FKUsKktgY7Zf8iAL6wOls"
+        }
+      ],
+      "duration_ms": 123436,
+      "name": "All Eyes on Ghana (feat. Dela Botri & Chineke! Orchestra)",
+      "url": "https://open.spotify.com/track/2VQ1Qj7JqIq4b9hPDLbG9a"
+    },
     {
       "added_at": null,
       "album": {

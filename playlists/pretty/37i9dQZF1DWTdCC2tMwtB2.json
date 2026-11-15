@@ -1,6 +1,6 @@
 {
   "description": "Your escape to the world of chill Indian pop. Cover - Jubin Nautiyal & Elnaaz Norouzi",
-  "num_followers": 137842,
+  "num_followers": 137855,
   "original_name": "I-Pop Chill",
   "owner": {
     "name": "Spotify",
@@ -239,6 +239,26 @@
     {
       "added_at": "2026-11-11 10:22:25",
       "album": {
+        "name": "Dilfek",
+        "url": "https://open.spotify.com/album/255lUMVCDU6Y9FtI7GmHMf"
+      },
+      "artists": [
+        {
+          "name": "Rito Riba",
+          "url": "https://open.spotify.com/artist/63QHbwCDdJ50C72D4ojeo1"
+        },
+        {
+          "name": "Siddhant Kaushal",
+          "url": "https://open.spotify.com/artist/18Y28RRuXPliKAa253retJ"
+        }
+      ],
+      "duration_ms": 173138,
+      "name": "Dilruba Dilnasheen",
+      "url": "https://open.spotify.com/track/3ZhV3K4tmdYofyLKPS5KqF"
+    },
+    {
+      "added_at": "2026-11-11 10:22:25",
+      "album": {
         "name": "Heeriye (feat. Arijit Singh)",
         "url": "https://open.spotify.com/album/1wt2WZBZZ9GhM0AC61l7SS"
       },
@@ -259,26 +279,6 @@
       "duration_ms": 194857,
       "name": "Heeriye (feat. Arijit Singh)",
       "url": "https://open.spotify.com/track/5PUXKVVVQ74C3gl5vKy9Li"
-    },
-    {
-      "added_at": "2026-11-11 10:22:25",
-      "album": {
-        "name": "Dilfek",
-        "url": "https://open.spotify.com/album/255lUMVCDU6Y9FtI7GmHMf"
-      },
-      "artists": [
-        {
-          "name": "Rito Riba",
-          "url": "https://open.spotify.com/artist/63QHbwCDdJ50C72D4ojeo1"
-        },
-        {
-          "name": "Siddhant Kaushal",
-          "url": "https://open.spotify.com/artist/18Y28RRuXPliKAa253retJ"
-        }
-      ],
-      "duration_ms": 173138,
-      "name": "Dilruba Dilnasheen",
-      "url": "https://open.spotify.com/track/3ZhV3K4tmdYofyLKPS5KqF"
     },
     {
       "added_at": "2026-11-11 10:22:25",

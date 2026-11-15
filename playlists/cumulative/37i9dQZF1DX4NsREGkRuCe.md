@@ -4,7 +4,7 @@
 
 > Turn traffic stops into jam sessions.
 
-1,309 songs - 2 day 15 hr 42 min
+1,310 songs - 2 day 15 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -511,7 +511,7 @@
 | [Happiness](https://open.spotify.com/track/0ASno3zrAbwRe4cVfH1c7K) | [Otega](https://open.spotify.com/artist/08Fcm7JKxT1qummaWUzavs), [DJ YK](https://open.spotify.com/artist/2VLe3q3Vp7R9aQQGip5oMe) | [Built Different](https://open.spotify.com/album/0eZrosDFkbClhRzEnoJD63) | 2:41 | 2026-06-25 | 2026-07-17 |
 | [Happy Day](https://open.spotify.com/track/6x1R2hxbuFu8SfwnfuEddZ) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Happy Day](https://open.spotify.com/album/7cxmSJpET0841ZDTBy1zVz) | 2:45 | 2025-07-04 | 2025-09-17 |
 | [Happy People](https://open.spotify.com/track/1qKJYnVtLg7pwT5JtOcB11) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50) | [Happy People](https://open.spotify.com/album/70TPFsb10L2Tya74jZdsl3) | 2:51 | 2024-10-04 | 2024-10-19 |
-| [Happy Song](https://open.spotify.com/track/2YA4T4tYZNtMvEF1bVYFSY) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Happy Song](https://open.spotify.com/album/5yBYWy0YJUo9Fut7Xa6XfO) | 2:09 | 2026-08-14 |  |
+| [Happy Song](https://open.spotify.com/track/2YA4T4tYZNtMvEF1bVYFSY) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Happy Song](https://open.spotify.com/album/5yBYWy0YJUo9Fut7Xa6XfO) | 2:09 | 2026-08-14 | 2026-11-15 |
 | [Hat\-trick](https://open.spotify.com/track/6kq3Twa8T9Rf9nxpf111hx) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Vibe Till Thy Kingdom Come](https://open.spotify.com/album/5sXH36sWuho5Xei85Ru5sj) | 2:40 | 2024-02-02 | 2024-02-09 |
 | [HAUSAPIANO](https://open.spotify.com/track/45eArmaTp7V4cN4CJvRV72) | [Kvng Vinci](https://open.spotify.com/artist/2toONwOXJt03vVKmJZs30X) | [HAUSAPIANO](https://open.spotify.com/album/3TeZuQ3I3cZyyZ6xITnYR5) | 1:43 | 2024-10-07 | 2024-11-03 |
 | [Head Start](https://open.spotify.com/track/4N7alCheeoFUxAAKkuTzU5) | [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K) | [Head Start](https://open.spotify.com/album/02OOD9WmhXOFZEUsZ7CYQb) | 2:14 | 2024-04-19 | 2024-05-10 |
@@ -910,6 +910,7 @@
 | [OMG](https://open.spotify.com/track/3gVJPWiCXebHMrpCMWyXZN) | [SKN The Divine](https://open.spotify.com/artist/02f7L2f2zIZ7TSP7WCQAJK) | [OMG](https://open.spotify.com/album/2met1gGQGPLB6BlD6vRreN) | 2:53 | 2023-12-15 | 2024-01-04 |
 | [Omo](https://open.spotify.com/track/2JePyTyj5nmjDe2ovgCChq) | [Priesst](https://open.spotify.com/artist/4Z3LLYwCpB9OKKaSttnapP) | [Omo](https://open.spotify.com/album/0Q4bqBS5jE3GpU0bOmnen6) | 2:36 | 2026-03-06 | 2026-03-13 |
 | [Omo Ologo](https://open.spotify.com/track/40rz3cXhhxGAVBb6nuwwTK) | [Pasuma](https://open.spotify.com/artist/2icl63UROfGjWheC4XkcnQ), [Qdot](https://open.spotify.com/artist/6PQqfJGRZzewMi6rBjK4Ev) | [Omo Ologo](https://open.spotify.com/album/5pQLRfF7JO1puAVWi6HO2w) | 3:12 | 2022-09-30 | 2022-10-14 |
+| [Omo Ologo](https://open.spotify.com/track/5UziHRcYKB8foeAnfqy8sC) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Omo Ologo](https://open.spotify.com/album/2j1BVbjLs3HSsRGN1LpihP) | 2:28 | 2026-11-13 |  |
 | [Omo Ologo](https://open.spotify.com/track/1XqSILGQNyilzYxXSmtcxR) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Omo Ologo](https://open.spotify.com/album/6WVOGN9cZXklfo0aLKaCjj) | 3:09 | 2023-03-10 | 2023-03-18 |
 | [Omo Ope \(feat\. Olamide\)](https://open.spotify.com/track/7d1aTQlsHMgWmkPywDi7h1) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Omo Ope](https://open.spotify.com/album/6PU3yx6qtcu2BKkRMGSbdG) | 2:46 | 2022-06-08 | 2023-09-29 |
 | [Omo To Sexy \(Remix\)](https://open.spotify.com/track/5OagKmQtxCE2CQXZBg0Mi3) | [BLNDE](https://open.spotify.com/artist/3ZA9FgX4nLjbfGgn7dOukU), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Omo To Sexy \(Remix\)](https://open.spotify.com/album/3QA24Xmdshql1Thj9gODGp) | 2:46 | 2025-12-19 | 2026-01-15 |

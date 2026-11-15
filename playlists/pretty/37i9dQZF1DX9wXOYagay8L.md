@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Proudly Southern African Afropop gems\. Cover: The Joy
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,362 likes - 95 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,403 likes - 95 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Inhlawulo](https://open.spotify.com/track/2VIHMyKE1cyMG1jAH4qRH9) | [Mlindo The Vocalist](https://open.spotify.com/artist/09CY8fzqhZHR7rQAULoreI) | [INHLAWULO](https://open.spotify.com/album/2riuu9A3fmVezUYkvm6XMs) | 4:55 |
+| 1 | [Inhlawulo](https://open.spotify.com/track/2VIHMyKE1cyMG1jAH4qRH9) | [Mlindo The Vocalist](https://open.spotify.com/artist/09CY8fzqhZHR7rQAULoreI) | [INHLAWULO](https://open.spotify.com/album/2riuu9A3fmVezUYkvm6XMs) | 4:56 |
 | 2 | [Last Chance](https://open.spotify.com/track/3x34MQpBaq5PccuVsxmUOn) | [The Joy](https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby) | [Home](https://open.spotify.com/album/0DzepLE2k4Z0jB6rvzusTS) | 3:43 |
 | 3 | [Ngiyaz'fela](https://open.spotify.com/track/3nCRclMVrtJI7dJuXuzRQW) | [Mawelele](https://open.spotify.com/artist/0RSqcZGU4Kf01zKcn4JhiE), [Kwesta](https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr), [Kinglee Beats](https://open.spotify.com/artist/0vbMPEuWEuSaetTmp50LZP) | [PGLTM](https://open.spotify.com/album/2Vnbb1XXDLuipQm7ETvr1m) | 3:48 |
 | 4 | [It's Not Easy \(Akukholula\)](https://open.spotify.com/track/7qq4oJ73neWXB20hpimNMH) | [Bongi & Collin](https://open.spotify.com/artist/265H45nZNLBgMv7guxQ2Jp) | [It's Not Easy \(Akukholula\)](https://open.spotify.com/album/5QL7JLTpuTcB2FkRplgUf7) | 4:01 |

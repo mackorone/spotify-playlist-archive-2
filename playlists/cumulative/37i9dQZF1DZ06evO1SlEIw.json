@@ -196,10 +196,28 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 331946,
       "name": "Jiyuu no Tsubasa",
       "url": "https://open.spotify.com/track/188vCXc4bAejLqGhpEVBGT"
+    },
+    {
+      "album": {
+        "name": "Shingeki no Kiseki",
+        "url": "https://open.spotify.com/album/4YsgCmHIRwFV6n0gT6vhGh"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "date_added": "2026-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331946,
+      "name": "Jiyuu no Tsubasa",
+      "url": "https://open.spotify.com/track/66dEMjbh1l8CN5uShkxxiw"
     },
     {
       "album": {
@@ -304,10 +322,28 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 252640,
       "name": "Moshi Kono Kabe No Naka Ga Ikken No Ie Datoshitara",
       "url": "https://open.spotify.com/track/2nHjd0aNkPjP5MnA6kMwFm"
+    },
+    {
+      "album": {
+        "name": "Jiyuu e no Shingeki",
+        "url": "https://open.spotify.com/album/1RKh3KNIyQDZyQiSk1sod8"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "date_added": "2026-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252640,
+      "name": "Moshi Kono Kabe no Naka ga Ikken no Ie Datoshitara",
+      "url": "https://open.spotify.com/track/6jxk8wh8wD0m8euatyo76k"
     },
     {
       "album": {
@@ -420,6 +456,24 @@
     {
       "album": {
         "name": "Seishun wa Hanabi no Youni",
+        "url": "https://open.spotify.com/album/76tpMWNeqUtVOLIh8K5IZH"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "date_added": "2026-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93791,
+      "name": "Seishun wa Hanabi no Yoni",
+      "url": "https://open.spotify.com/track/5Sr2I7jUSeH6lynNAqoLEu"
+    },
+    {
+      "album": {
+        "name": "Seishun wa Hanabi no Youni",
         "url": "https://open.spotify.com/album/6LyBed3rgD3tqdWnPUyacK"
       },
       "artists": [
@@ -430,7 +484,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 93791,
       "name": "Seishun wa Hanabi no Youni",
       "url": "https://open.spotify.com/track/7rNCnPglDEZn7pboEo24gC"
@@ -520,7 +574,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-02",
+      "date_removed": null,
       "duration_ms": 305386,
       "name": "Souyoku no Hikari",
       "url": "https://open.spotify.com/track/3ffPqlc1wy97Rl4pK0DKX6"
@@ -772,7 +826,7 @@
       ],
       "date_added": "2022-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 326693,
       "name": "\u7d14\u611b(\u30cf\u30fc\u30c8\u30de\u30fc\u30af) \u5341\u5b57\u7832\u706b - Long Version",
       "url": "https://open.spotify.com/track/46XjX7wpNSn1RTWTVQDitD"
@@ -808,7 +862,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-12",
+      "date_removed": null,
       "duration_ms": 277346,
       "name": "\u82b1\u304c\u6563\u308b\u4e16\u754c - Vocalized Version",
       "url": "https://open.spotify.com/track/75zWVtdvpl23vtRH4LnFS5"

@@ -1,6 +1,6 @@
 {
   "description": "The hottest music from the hottest desert. Cover: Tinariwen.",
-  "num_followers": 480157,
+  "num_followers": 480235,
   "original_name": "Sahara",
   "owner": {
     "name": "Spotify",
@@ -911,22 +911,18 @@
     {
       "added_at": "2026-03-12 18:21:09",
       "album": {
-        "name": "Imidiwan Takyadam",
-        "url": "https://open.spotify.com/album/1GRebforJ6lYt2aST9WKle"
+        "name": "Mariama",
+        "url": "https://open.spotify.com/album/2k0il4VCyt5vL0vbSp1XMb"
       },
       "artists": [
         {
-          "name": "Tinariwen",
-          "url": "https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb"
-        },
-        {
-          "name": "Jos\u00e9 Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+          "name": "Boubacar Traor\u00e9",
+          "url": "https://open.spotify.com/artist/63Bilw49Uv4s2wnovytDVU"
         }
       ],
-      "duration_ms": 256481,
-      "name": "Imidiwan Takyadam - feat. Jos\u00e9 Gonz\u00e1lez",
-      "url": "https://open.spotify.com/track/2b4fBioLLqcnL4reo9XtRu"
+      "duration_ms": 338933,
+      "name": "Mariama Kaba",
+      "url": "https://open.spotify.com/track/3c98vJqVg7Epkq8aBNTsNM"
     }
   ],
   "unique_name": "Sahara",

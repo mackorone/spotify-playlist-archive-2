@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s fresh! Alleh en portada \u2728",
-  "num_followers": 96775,
+  "num_followers": 96776,
   "original_name": "Oye Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHG1sg5mOoLRUh34vIHROCrBHV/5",
+  "snapshot_id": "AAAAAGneX2sxKnZVQCeicHcDmWLh4CfJ",
   "tracks": [
     {
       "added_at": "2026-11-06 06:00:28",
@@ -627,18 +627,22 @@
     {
       "added_at": "2026-11-06 06:00:28",
       "album": {
-        "name": "la del proceso",
-        "url": "https://open.spotify.com/album/5yvkLxj4WOM7PmG8p3cArY"
+        "name": "Amor\u00edo",
+        "url": "https://open.spotify.com/album/0OZ2DcvZOEnSufkLxvXumm"
       },
       "artists": [
         {
-          "name": "c\u00e9ro",
-          "url": "https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH"
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
         }
       ],
-      "duration_ms": 155454,
-      "name": "la del proceso",
-      "url": "https://open.spotify.com/track/2MgYu1rPCtpBvO4NRl0XuB"
+      "duration_ms": 206216,
+      "name": "Bar de corazones rotos",
+      "url": "https://open.spotify.com/track/5S5JoPBIF68V9R7Nkenqok"
     },
     {
       "added_at": "2026-11-06 06:00:28",
@@ -683,22 +687,18 @@
     {
       "added_at": "2026-11-06 06:00:28",
       "album": {
-        "name": "Amor\u00edo",
-        "url": "https://open.spotify.com/album/0OZ2DcvZOEnSufkLxvXumm"
+        "name": "la del proceso",
+        "url": "https://open.spotify.com/album/5yvkLxj4WOM7PmG8p3cArY"
       },
       "artists": [
         {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        },
-        {
-          "name": "Daniela Spalla",
-          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+          "name": "c\u00e9ro",
+          "url": "https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH"
         }
       ],
-      "duration_ms": 206216,
-      "name": "Bar de corazones rotos",
-      "url": "https://open.spotify.com/track/5S5JoPBIF68V9R7Nkenqok"
+      "duration_ms": 155454,
+      "name": "la del proceso",
+      "url": "https://open.spotify.com/track/2MgYu1rPCtpBvO4NRl0XuB"
     },
     {
       "added_at": "2026-11-06 06:00:28",
@@ -883,6 +883,26 @@
     {
       "added_at": "2026-11-06 06:00:28",
       "album": {
+        "name": "La Pista",
+        "url": "https://open.spotify.com/album/0vXg9Gnv5HPXLAKBF9ajil"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        },
+        {
+          "name": "LAGOS",
+          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
+        }
+      ],
+      "duration_ms": 170454,
+      "name": "Manhattan",
+      "url": "https://open.spotify.com/track/4JR4YPpC6Zcxf1bVy43mPD"
+    },
+    {
+      "added_at": "2026-11-06 06:00:28",
+      "album": {
         "name": "Intensamente",
         "url": "https://open.spotify.com/album/1AJwSW7Y6OpY1reCFqI6Dt"
       },
@@ -903,26 +923,6 @@
       "duration_ms": 209733,
       "name": "Intensamente",
       "url": "https://open.spotify.com/track/5OaP93ux2WhLGR2ElP6ga8"
-    },
-    {
-      "added_at": "2026-11-06 06:00:28",
-      "album": {
-        "name": "La Pista",
-        "url": "https://open.spotify.com/album/0vXg9Gnv5HPXLAKBF9ajil"
-      },
-      "artists": [
-        {
-          "name": "Juliana",
-          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
-        },
-        {
-          "name": "LAGOS",
-          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
-        }
-      ],
-      "duration_ms": 170454,
-      "name": "Manhattan",
-      "url": "https://open.spotify.com/track/4JR4YPpC6Zcxf1bVy43mPD"
     },
     {
       "added_at": "2026-11-06 06:00:28",
@@ -959,6 +959,22 @@
     {
       "added_at": "2026-11-06 06:00:28",
       "album": {
+        "name": "Estas Ganas",
+        "url": "https://open.spotify.com/album/1JyeUyl21sY9G60Clzk7vO"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 166998,
+      "name": "Estas Ganas",
+      "url": "https://open.spotify.com/track/6axFk0R5Fm7BmnAle3CJ2T"
+    },
+    {
+      "added_at": "2026-11-06 06:00:28",
+      "album": {
         "name": "Diamantes",
         "url": "https://open.spotify.com/album/6kn5ZIUlHA3NBsacObuBiU"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 250006,
       "name": "Diamantes",
       "url": "https://open.spotify.com/track/7IwG40uAh2A39GQtqANRNW"
-    },
-    {
-      "added_at": "2026-11-06 06:00:28",
-      "album": {
-        "name": "Estas Ganas",
-        "url": "https://open.spotify.com/album/1JyeUyl21sY9G60Clzk7vO"
-      },
-      "artists": [
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 166998,
-      "name": "Estas Ganas",
-      "url": "https://open.spotify.com/track/6axFk0R5Fm7BmnAle3CJ2T"
     },
     {
       "added_at": "2026-11-06 06:00:28",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2026-11-06 06:00:28",
       "album": {
-        "name": "ya no estoy",
-        "url": "https://open.spotify.com/album/2CTAPQs0Md2J7Q9zkMmJSz"
-      },
-      "artists": [
-        {
-          "name": "Joaquina",
-          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
-        }
-      ],
-      "duration_ms": 178874,
-      "name": "ya no estoy",
-      "url": "https://open.spotify.com/track/0tuhaH4P3jVSCTdV070tig"
-    },
-    {
-      "added_at": "2026-11-06 06:00:28",
-      "album": {
         "name": "RRRomeo",
         "url": "https://open.spotify.com/album/2tKRKPfHSnY9gXUbO7dO2F"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 315609,
       "name": "Iron\u00eda",
       "url": "https://open.spotify.com/track/7i9wOqXAvvzjvKH0NPdJWR"
+    },
+    {
+      "added_at": "2026-11-06 06:00:28",
+      "album": {
+        "name": "ya no estoy",
+        "url": "https://open.spotify.com/album/2CTAPQs0Md2J7Q9zkMmJSz"
+      },
+      "artists": [
+        {
+          "name": "Joaquina",
+          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
+        }
+      ],
+      "duration_ms": 178874,
+      "name": "ya no estoy",
+      "url": "https://open.spotify.com/track/0tuhaH4P3jVSCTdV070tig"
     },
     {
       "added_at": "2026-11-06 06:00:28",

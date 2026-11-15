@@ -719,10 +719,14 @@
     },
     {
       "album": {
-        "name": "Away in a Manger (Arr. Clements for Vocal Ensemble)",
+        "name": "Kirkpatrick: Away in a Manger (Arr. Clements for Vocal Ensemble)",
         "url": "https://open.spotify.com/album/43ATdrcvfXVh9RPTMRCAm5"
       },
       "artists": [
+        {
+          "name": "William J. Kirkpatrick",
+          "url": "https://open.spotify.com/artist/0IyFf7sJynolp1a7Ck79u9"
+        },
         {
           "name": "VOCES8",
           "url": "https://open.spotify.com/artist/32nW8kGbs65y8CSlIvREuc"
@@ -3967,10 +3971,14 @@
     },
     {
       "album": {
-        "name": "Silent Night (Arr. Burton for Vocal Ensemble)",
+        "name": "Gruber: Silent Night (Arr. Burton for Vocal Ensemble)",
         "url": "https://open.spotify.com/album/7BnDLCGrPHzmdlKlCWi9rS"
       },
       "artists": [
+        {
+          "name": "Franz Xaver Gruber",
+          "url": "https://open.spotify.com/artist/395Z91yDQ05pkMbRKik18y"
+        },
         {
           "name": "VOCES8",
           "url": "https://open.spotify.com/artist/32nW8kGbs65y8CSlIvREuc"

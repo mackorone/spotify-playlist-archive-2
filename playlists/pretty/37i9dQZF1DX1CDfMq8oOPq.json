@@ -1,6 +1,6 @@
 {
   "description": " d\u00edgitos subindo \ud83d\udd79\ufe0f // Cashley",
-  "num_followers": 104560,
+  "num_followers": 104559,
   "original_name": "Baby Hair",
   "owner": {
     "name": "Spotify",
@@ -411,6 +411,26 @@
     {
       "added_at": "2026-11-13 03:01:17",
       "album": {
+        "name": "T\u00c3OQUENTE - No Meu Club",
+        "url": "https://open.spotify.com/album/6rBy862OKIVHmQeMStkcUC"
+      },
+      "artists": [
+        {
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+        },
+        {
+          "name": "Go Dassisti",
+          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
+        }
+      ],
+      "duration_ms": 117954,
+      "name": "No Meu Club",
+      "url": "https://open.spotify.com/track/2TjDMxSmqruXuLyrD37ypZ"
+    },
+    {
+      "added_at": "2026-11-13 03:01:17",
+      "album": {
         "name": "Dedo no Gatilho",
         "url": "https://open.spotify.com/album/1n9OIA7ekfipAY4l8oR5lG"
       },
@@ -431,26 +451,6 @@
       "duration_ms": 163764,
       "name": "Dedo no Gatilho",
       "url": "https://open.spotify.com/track/3wZMF4qdGh3wQoPi4dFuGa"
-    },
-    {
-      "added_at": "2026-11-13 03:01:17",
-      "album": {
-        "name": "T\u00c3OQUENTE - No Meu Club",
-        "url": "https://open.spotify.com/album/6rBy862OKIVHmQeMStkcUC"
-      },
-      "artists": [
-        {
-          "name": "Duquesa",
-          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
-        },
-        {
-          "name": "Go Dassisti",
-          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
-        }
-      ],
-      "duration_ms": 117954,
-      "name": "No Meu Club",
-      "url": "https://open.spotify.com/track/2TjDMxSmqruXuLyrD37ypZ"
     },
     {
       "added_at": "2026-11-13 03:01:17",
@@ -771,26 +771,6 @@
     {
       "added_at": "2026-11-13 03:01:17",
       "album": {
-        "name": "DISStrato",
-        "url": "https://open.spotify.com/album/3CFXQYLTMqCng1dfLH2L9c"
-      },
-      "artists": [
-        {
-          "name": "Soh Lopez",
-          "url": "https://open.spotify.com/artist/3VXguqIIKhWn5pX4i7X12t"
-        },
-        {
-          "name": "Modern",
-          "url": "https://open.spotify.com/artist/383WIzhrVix9aQlLnLtSEk"
-        }
-      ],
-      "duration_ms": 151570,
-      "name": "DISStrato",
-      "url": "https://open.spotify.com/track/28iLSNeOLHxGdrTQ9GNeuG"
-    },
-    {
-      "added_at": "2026-11-13 03:01:17",
-      "album": {
         "name": "O OURO",
         "url": "https://open.spotify.com/album/6Z2zqrGvbVqHhQEKdUbUOs"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 152470,
       "name": "O OURO",
       "url": "https://open.spotify.com/track/0XiCLdW2aLwm6LcyHvirWq"
+    },
+    {
+      "added_at": "2026-11-13 03:01:17",
+      "album": {
+        "name": "DISStrato",
+        "url": "https://open.spotify.com/album/3CFXQYLTMqCng1dfLH2L9c"
+      },
+      "artists": [
+        {
+          "name": "Soh Lopez",
+          "url": "https://open.spotify.com/artist/3VXguqIIKhWn5pX4i7X12t"
+        },
+        {
+          "name": "Modern",
+          "url": "https://open.spotify.com/artist/383WIzhrVix9aQlLnLtSEk"
+        }
+      ],
+      "duration_ms": 151570,
+      "name": "DISStrato",
+      "url": "https://open.spotify.com/track/28iLSNeOLHxGdrTQ9GNeuG"
     },
     {
       "added_at": "2026-11-13 03:01:17",

@@ -4,7 +4,7 @@
 
 > These are some independent rock bands you need to hear.
 
-706 songs - 1 day 19 hr 26 min
+709 songs - 1 day 19 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Blue Route](https://open.spotify.com/track/0e9J7JmZjs45Dp8ByDq0uV) | [Liquid Monk](https://open.spotify.com/artist/680C1w0kjIC2LAf5xShvhJ) | [Blue Route](https://open.spotify.com/album/0ih8D9zBH0AI2tBC6Vl45v) | 3:01 | 2026-04-24 | 2026-06-13 |
 | [Bored & Jaded](https://open.spotify.com/track/1RW431i46vNeR0tqM1eZj7) | [Rocketmonkey Lovemachine](https://open.spotify.com/artist/2de9uHlJsqASrZoofVPQAh) | [Rmlm](https://open.spotify.com/album/3yTDjfwFEPYFaZbSuPLQQa) | 3:15 | 2025-12-01 | 2025-12-28 |
 | [Bowerbird](https://open.spotify.com/track/3bqgRiOCd9ymGlaNO4S9h6) | [Perfect Weather for Humans](https://open.spotify.com/artist/1f2FYrOXGLghWMIcjrBwFD) | [Bowerbird](https://open.spotify.com/album/52YSSNofyjjtLsZcPAdvEL) | 5:15 | 2026-01-07 | 2026-02-02 |
+| [Break the Walls](https://open.spotify.com/track/5fM2U7gWzsjwNkGC8r1bS5) | [Eyewonder](https://open.spotify.com/artist/382fgUv3X5FVJYa4tlBHsu) | [Break the Walls](https://open.spotify.com/album/1r8zL7koKiba4nWkhZAOjW) | 3:09 | 2026-11-14 |  |
 | [Break Up Bangs](https://open.spotify.com/track/4kVAjnV2duer0Sa81i6sX4) | [Lucia Dostal](https://open.spotify.com/artist/2Y5Zd5cSEdZ57lCr4lkGVr) | [Break Up Bangs](https://open.spotify.com/album/4NxSKL2Xd1unpYhN3ElgEQ) | 2:36 | 2025-10-18 | 2026-02-04 |
 | [Breakdown](https://open.spotify.com/track/7DTuKfDhFKQqCpP5lnU05g) | [Erik Knear](https://open.spotify.com/artist/4cqX5xi0OBk2rvpwhq8gLV) | [Votive Sound](https://open.spotify.com/album/2HsWsLYWGUEZdXPGIyT57R) | 3:28 | 2026-02-07 | 2026-03-04 |
 | [Breathe In Breathe Out](https://open.spotify.com/track/3du8pgzoJLZk7KYFNrNpFI) | [Crimson Brooks](https://open.spotify.com/artist/1bTbdLAGPbzW8TFvX7PzlL) | [Breathe In Breathe Out](https://open.spotify.com/album/005wg2iv5EcGFSpZVw9mhB) | 2:01 | 2026-02-19 |  |
@@ -148,6 +149,7 @@
 | [Coyote](https://open.spotify.com/track/1BvYQIRlgUbQLkxUeIwT1R) | [Ruster](https://open.spotify.com/artist/0MB2qTmFxuZkVdphbXgSeq) | [Coyote](https://open.spotify.com/album/7aRky0Alt4LNplY9NYbbW5) | 3:21 | 2026-03-18 | 2026-04-20 |
 | [Crazy Dance of Death](https://open.spotify.com/track/26AvmPorUJ4jLn9vZ0DowU) | [Ask The Dust](https://open.spotify.com/artist/7F3WOicrHPUVKyOhZUCrND) | [Crazy Dance of Death](https://open.spotify.com/album/1GYG0FvWCwAt5l32W37wrS) | 3:11 | 2025-11-11 | 2025-12-12 |
 | [Crazy Horse](https://open.spotify.com/track/638G4U3oabQAQHKi43XbUj) | [Automatic Kafka](https://open.spotify.com/artist/2MxUQ6VUpXfDov3Fyz7Wnm) | [Crazy Horse](https://open.spotify.com/album/5zgycbyhmN5ROkDD6CXMRZ) | 4:52 | 2026-01-19 | 2026-02-18 |
+| [Crumbling Castle](https://open.spotify.com/track/2MOAwTkYaxHc6rcY2QPYcm) | [Derek D'Acoustic](https://open.spotify.com/artist/5JdnqmtLVoIZy7X85Nxyin) | [Crumbling Castle](https://open.spotify.com/album/1XlzdDxCC7RXhBRHPyswyC) | 4:28 | 2026-11-14 |  |
 | [Crushwhore](https://open.spotify.com/track/3g9dkoiaCGaaAAX8WS88c5) | [moberod](https://open.spotify.com/artist/49lLlq5yOsfgHQnypG2Cdd) | [Learning It the Hard Way](https://open.spotify.com/album/6h3qBmbL2n3vFtfYF9G9uq) | 3:38 | 2026-04-08 | 2026-05-26 |
 | [Cut and Sell](https://open.spotify.com/track/0L6sh94exzCeYzP3s72a4v) | [The Homme](https://open.spotify.com/artist/4U836xTjRfFYfYctNxJFmm) | [Cut and Sell](https://open.spotify.com/album/11dGTJWrlOQMTOliQgi5vn) | 2:43 | 2026-03-14 | 2026-04-20 |
 | [Cut It Out!](https://open.spotify.com/track/2Hyalx0ms1xibr1QTZebGm) | [moberod](https://open.spotify.com/artist/49lLlq5yOsfgHQnypG2Cdd) | [Cut It Out!](https://open.spotify.com/album/5c0HNhPuGroOZnioWziNuk) | 2:57 | 2025-10-30 | 2026-02-04 |
@@ -704,6 +706,7 @@
 | [You and Your Friends](https://open.spotify.com/track/73W6OmloQlmC5y1mcuEcQT) | [Favourite Sidewalk Couch](https://open.spotify.com/artist/3OKKxACOJMrQgkBRJAtmDW) | [You and Your Friends](https://open.spotify.com/album/2hFLa0wWTltCDmUE68AuaK) | 2:45 | 2026-01-17 | 2026-02-18 |
 | [You Can't Drive a Prius Without Wheels](https://open.spotify.com/track/2bz3GfwWoGRLjvbcclozYg) | [Not Exact](https://open.spotify.com/artist/6J8F4udmCRNzDt5l1AckUG) | [On a Roll EP](https://open.spotify.com/album/64JIDZEvAnH2JFgKSLzYiy) | 3:03 | 2025-11-12 | 2025-12-12 |
 | [You cannot be serious](https://open.spotify.com/track/4k5pHEY7ar3lX8iS4vStqv) | [VIBE](https://open.spotify.com/artist/3JYPwdF2X6M7rv0AL9xGTo) | [YOU CANNOT BE SERIOUS](https://open.spotify.com/album/4AquZxIQcvhnbNUOESi7OO) | 4:42 | 2026-03-19 | 2026-04-20 |
+| [You Have To Know](https://open.spotify.com/track/1lPyg53yaQ0jtjIMPgwUUo) | [Mike Power](https://open.spotify.com/artist/6o38TL7BKpRI2FF4ohlo6b) | [You Have To Know](https://open.spotify.com/album/1U5AF1nIfxDw87PUIqsdyg) | 2:44 | 2026-11-14 |  |
 | [You Made Me Bad](https://open.spotify.com/track/62J0xJ2NX4JXj7IZLyDZSL) | [Rayka Blake](https://open.spotify.com/artist/3ZUceWi9BIfBu7bDaocYzc) | [You Made Me Bad](https://open.spotify.com/album/461TAonuSzvYSZ77SCdpbc) | 3:40 | 2026-06-09 | 2026-08-08 |
 | [You Make Me Feel](https://open.spotify.com/track/0bqIWe0gXVy222fYhUlsrd) | [Gary.D.Pearson and the Distance](https://open.spotify.com/artist/6OSDFdZOodz0A77i9QbSXd) | [You Make Me Feel](https://open.spotify.com/album/63wp42Wp0TYwyKtqACYONM) | 3:59 | 2025-12-31 | 2026-01-21 |
 | [You See Me as an Artist](https://open.spotify.com/track/2Ctm2lgIDtj7O1xwIvVZ9s) | [Sarah Hedger](https://open.spotify.com/artist/2CQDj93K4SEEYoQf96TjIy) | [You See Me as an Artist](https://open.spotify.com/album/0PjyoYmAqYGlL26PcijTeK) | 2:23 | 2025-12-01 | 2025-12-28 |

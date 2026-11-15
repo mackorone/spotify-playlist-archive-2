@@ -1,12 +1,12 @@
 {
   "description": "This is Stick Figure. The essential tracks, all in one playlist.",
-  "num_followers": 100723,
+  "num_followers": 100741,
   "original_name": "This Is Stick Figure",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avUBgAAAAABqDvtMJq8be7FiiRee37mz",
+  "snapshot_id": "avZTAAAAAADOiCk1LacQRARMyihe0kE7",
   "tracks": [
     {
       "added_at": null,
@@ -67,22 +67,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Meet Me by the Ocean",
-        "url": "https://open.spotify.com/album/4uC0Siq07QpZ1h5H7sTgK5"
-      },
-      "artists": [
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 236946,
-      "name": "Meet Me by the Ocean",
-      "url": "https://open.spotify.com/track/15u5ivcq3t32mDnId6LAXU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "World on Fire",
         "url": "https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB"
       },
@@ -95,6 +79,22 @@
       "duration_ms": 269500,
       "name": "Shine",
       "url": "https://open.spotify.com/track/1QhrlNjzqmqEFW5T5yMFhw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Meet Me by the Ocean",
+        "url": "https://open.spotify.com/album/4uC0Siq07QpZ1h5H7sTgK5"
+      },
+      "artists": [
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 236946,
+      "name": "Meet Me by the Ocean",
+      "url": "https://open.spotify.com/track/15u5ivcq3t32mDnId6LAXU"
     },
     {
       "added_at": null,
@@ -139,6 +139,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "World on Fire",
+        "url": "https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB"
+      },
+      "artists": [
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 266481,
+      "name": "All for You",
+      "url": "https://open.spotify.com/track/0nEUaCsD5tDZjbY7tMAaea"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Railroad Shelter (with Stick Figure)",
         "url": "https://open.spotify.com/album/3BNHMe5yqmK0dn332yDD6D"
       },
@@ -159,22 +175,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "World on Fire",
-        "url": "https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB"
-      },
-      "artists": [
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 266481,
-      "name": "All for You",
-      "url": "https://open.spotify.com/track/0nEUaCsD5tDZjbY7tMAaea"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wisdom",
         "url": "https://open.spotify.com/album/447C0uIwKJY0AXGkR6Bfa1"
       },
@@ -187,22 +187,6 @@
       "duration_ms": 250397,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/3iyMN5JhGnJXvKvFr8Mf7S"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "What a Feeling",
-        "url": "https://open.spotify.com/album/26zl5w4grdSyTmy2989Tov"
-      },
-      "artists": [
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 229616,
-      "name": "What a Feeling",
-      "url": "https://open.spotify.com/track/68kKTUw9HJOczE2CAsz73a"
     },
     {
       "added_at": null,
@@ -247,22 +231,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Visions",
-        "url": "https://open.spotify.com/album/4Suls86gUFWBN7rP3MKphB"
+        "name": "What a Feeling",
+        "url": "https://open.spotify.com/album/26zl5w4grdSyTmy2989Tov"
       },
       "artists": [
-        {
-          "name": "The Movement",
-          "url": "https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr"
-        },
         {
           "name": "Stick Figure",
           "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
         }
       ],
-      "duration_ms": 227266,
-      "name": "Visions (with Stick Figure)",
-      "url": "https://open.spotify.com/track/6VFrBdWj6BjGNeuX3VlmPl"
+      "duration_ms": 229616,
+      "name": "What a Feeling",
+      "url": "https://open.spotify.com/track/68kKTUw9HJOczE2CAsz73a"
     },
     {
       "added_at": null,
@@ -319,6 +299,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Visions",
+        "url": "https://open.spotify.com/album/4Suls86gUFWBN7rP3MKphB"
+      },
+      "artists": [
+        {
+          "name": "The Movement",
+          "url": "https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr"
+        },
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 227266,
+      "name": "Visions (with Stick Figure)",
+      "url": "https://open.spotify.com/track/6VFrBdWj6BjGNeuX3VlmPl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wisdom",
         "url": "https://open.spotify.com/album/447C0uIwKJY0AXGkR6Bfa1"
       },
@@ -355,6 +355,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "World on Fire",
+        "url": "https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB"
+      },
+      "artists": [
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 225195,
+      "name": "Easy Runaway",
+      "url": "https://open.spotify.com/track/7E0CCie7empmlbOH4Vh4BI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Easy to Love You",
         "url": "https://open.spotify.com/album/6Q7i2NPBvaoe0caVYIrm91"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 269090,
       "name": "Middle of the Ocean",
       "url": "https://open.spotify.com/track/6ol8eSBUh9GEEIzkGIPR2J"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "World on Fire",
-        "url": "https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB"
-      },
-      "artists": [
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 225195,
-      "name": "Easy Runaway",
-      "url": "https://open.spotify.com/track/7E0CCie7empmlbOH4Vh4BI"
     },
     {
       "added_at": null,
@@ -439,6 +439,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "World on Fire",
+        "url": "https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB"
+      },
+      "artists": [
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 294730,
+      "name": "Above the Storm",
+      "url": "https://open.spotify.com/track/1mOQwe1UcsuK3l3MGFtim6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Got Me On The Run (with Stick Figure and Pepper)",
         "url": "https://open.spotify.com/album/7utd2iqVDpBxA4BLfFVZtF"
       },
@@ -463,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "World on Fire",
-        "url": "https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB"
+        "name": "Burial Ground",
+        "url": "https://open.spotify.com/album/1bAQmWedFHr9gkf7iBlqAE"
       },
       "artists": [
         {
@@ -472,9 +488,9 @@
           "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
         }
       ],
-      "duration_ms": 294730,
-      "name": "Above the Storm",
-      "url": "https://open.spotify.com/track/1mOQwe1UcsuK3l3MGFtim6"
+      "duration_ms": 283793,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/05BJQUM4bATKGFheqrC6CW"
     },
     {
       "added_at": null,
@@ -495,22 +511,6 @@
       "duration_ms": 237756,
       "name": "Siren (with Stick Figure)",
       "url": "https://open.spotify.com/track/3jSlARN861elnfSuveZx8X"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Burial Ground",
-        "url": "https://open.spotify.com/album/1bAQmWedFHr9gkf7iBlqAE"
-      },
-      "artists": [
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 283793,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/05BJQUM4bATKGFheqrC6CW"
     },
     {
       "added_at": null,

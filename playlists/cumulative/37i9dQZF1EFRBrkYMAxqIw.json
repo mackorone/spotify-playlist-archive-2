@@ -3987,6 +3987,24 @@
     },
     {
       "album": {
+        "name": "Whole Again",
+        "url": "https://open.spotify.com/album/4T6WGOKNC5P8euk1cbiqJs"
+      },
+      "artists": [
+        {
+          "name": "Lavern",
+          "url": "https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO"
+        }
+      ],
+      "date_added": "2026-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168746,
+      "name": "Whole Again",
+      "url": "https://open.spotify.com/track/1WGPOivrkVZPQTYS7yagu0"
+    },
+    {
+      "album": {
         "name": "It's Nothing",
         "url": "https://open.spotify.com/album/26IXcJnpviztnonKfhaXkF"
       },

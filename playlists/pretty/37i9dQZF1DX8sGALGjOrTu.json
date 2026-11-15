@@ -1,6 +1,6 @@
 {
   "description": "Back to the golden age of the scene. Cover: Underoath",
-  "num_followers": 541054,
+  "num_followers": 541078,
   "original_name": "Chaos Anthems",
   "owner": {
     "name": "Spotify",
@@ -207,22 +207,6 @@
     {
       "added_at": "2025-11-24 12:49:27",
       "album": {
-        "name": "Good Apollo I'm Burning Star IV Volume One: From Fear Through The Eyes Of Madness",
-        "url": "https://open.spotify.com/album/4nYsnQpTAQaPzrPc6rOsBN"
-      },
-      "artists": [
-        {
-          "name": "Coheed and Cambria",
-          "url": "https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8"
-        }
-      ],
-      "duration_ms": 374973,
-      "name": "Welcome Home",
-      "url": "https://open.spotify.com/track/42GP0xKtkolBnmqQRvSllO"
-    },
-    {
-      "added_at": "2025-11-24 12:49:27",
-      "album": {
         "name": "Crisis",
         "url": "https://open.spotify.com/album/424kD6zJhvykdQsTXe9Zcl"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 243853,
       "name": "This Could Be Anywhere in the World",
       "url": "https://open.spotify.com/track/4TnPmXU7KVmHZ51hXXn5Hv"
+    },
+    {
+      "added_at": "2025-11-24 12:49:27",
+      "album": {
+        "name": "Good Apollo I'm Burning Star IV Volume One: From Fear Through The Eyes Of Madness",
+        "url": "https://open.spotify.com/album/4nYsnQpTAQaPzrPc6rOsBN"
+      },
+      "artists": [
+        {
+          "name": "Coheed and Cambria",
+          "url": "https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8"
+        }
+      ],
+      "duration_ms": 374973,
+      "name": "Welcome Home",
+      "url": "https://open.spotify.com/track/42GP0xKtkolBnmqQRvSllO"
     },
     {
       "added_at": "2025-11-24 12:49:27",
@@ -399,22 +399,6 @@
     {
       "added_at": "2025-11-24 12:49:27",
       "album": {
-        "name": "Page Avenue",
-        "url": "https://open.spotify.com/album/4juejyEeCKFskkDA6zhIBW"
-      },
-      "artists": [
-        {
-          "name": "Story Of The Year",
-          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
-        }
-      ],
-      "duration_ms": 215906,
-      "name": "Anthem of Our Dying Day",
-      "url": "https://open.spotify.com/track/4sPJgy0CksvmXp9jC0W4gv"
-    },
-    {
-      "added_at": "2025-11-24 12:49:27",
-      "album": {
         "name": "All's Well That Ends Well",
         "url": "https://open.spotify.com/album/0OEsBt4DiKAGACbzmhwbaS"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 280866,
       "name": "Baby, You Wouldn't Last A Minute On The Creek",
       "url": "https://open.spotify.com/track/6p4jnIWFWyLz0zUo2RD9iu"
+    },
+    {
+      "added_at": "2025-11-24 12:49:27",
+      "album": {
+        "name": "Page Avenue",
+        "url": "https://open.spotify.com/album/4juejyEeCKFskkDA6zhIBW"
+      },
+      "artists": [
+        {
+          "name": "Story Of The Year",
+          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
+        }
+      ],
+      "duration_ms": 215906,
+      "name": "Anthem of Our Dying Day",
+      "url": "https://open.spotify.com/track/4sPJgy0CksvmXp9jC0W4gv"
     },
     {
       "added_at": "2025-11-24 12:49:27",
@@ -463,22 +463,6 @@
     {
       "added_at": "2025-11-24 12:49:27",
       "album": {
-        "name": "The Artist In The Ambulance",
-        "url": "https://open.spotify.com/album/7yu7B1B8O07jAFAZEFSRXA"
-      },
-      "artists": [
-        {
-          "name": "Thrice",
-          "url": "https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE"
-        }
-      ],
-      "duration_ms": 219266,
-      "name": "The Artist In The Ambulance",
-      "url": "https://open.spotify.com/track/0arNrzPygksLY2pEbRgBjw"
-    },
-    {
-      "added_at": "2025-11-24 12:49:27",
-      "album": {
         "name": "Crisis",
         "url": "https://open.spotify.com/album/424kD6zJhvykdQsTXe9Zcl"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 237826,
       "name": "Boiled Frogs",
       "url": "https://open.spotify.com/track/344tr5lxfDxXdcvz67kvlO"
+    },
+    {
+      "added_at": "2025-11-24 12:49:27",
+      "album": {
+        "name": "The Artist In The Ambulance",
+        "url": "https://open.spotify.com/album/7yu7B1B8O07jAFAZEFSRXA"
+      },
+      "artists": [
+        {
+          "name": "Thrice",
+          "url": "https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE"
+        }
+      ],
+      "duration_ms": 219266,
+      "name": "The Artist In The Ambulance",
+      "url": "https://open.spotify.com/track/0arNrzPygksLY2pEbRgBjw"
     },
     {
       "added_at": "2025-11-24 12:49:27",
@@ -863,22 +863,6 @@
     {
       "added_at": "2025-11-24 12:49:27",
       "album": {
-        "name": "Dear Diary, My Teen Angst Has A Body Count",
-        "url": "https://open.spotify.com/album/0Q6C8p6g47jEOU6G7SoRrS"
-      },
-      "artists": [
-        {
-          "name": "From First To Last",
-          "url": "https://open.spotify.com/artist/5n71fmAB8Un2IfAPn64erN"
-        }
-      ],
-      "duration_ms": 267826,
-      "name": "Ride The Wings Of Pestilence",
-      "url": "https://open.spotify.com/track/5TljqB3tKMmYMRXUc95mjt"
-    },
-    {
-      "added_at": "2025-11-24 12:49:27",
-      "album": {
         "name": "Scary Kids Scaring Kids",
         "url": "https://open.spotify.com/album/3VrYxnxSDWTuJWxO3riGar"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 261240,
       "name": "Holding On",
       "url": "https://open.spotify.com/track/48H6uWuBYeeZUiXwb5f69K"
+    },
+    {
+      "added_at": "2025-11-24 12:49:27",
+      "album": {
+        "name": "Dear Diary, My Teen Angst Has A Body Count",
+        "url": "https://open.spotify.com/album/0Q6C8p6g47jEOU6G7SoRrS"
+      },
+      "artists": [
+        {
+          "name": "From First To Last",
+          "url": "https://open.spotify.com/artist/5n71fmAB8Un2IfAPn64erN"
+        }
+      ],
+      "duration_ms": 267826,
+      "name": "Ride The Wings Of Pestilence",
+      "url": "https://open.spotify.com/track/5TljqB3tKMmYMRXUc95mjt"
     },
     {
       "added_at": "2025-11-24 12:49:27",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2025-11-24 12:49:27",
       "album": {
-        "name": "From Them, Through Us, To You",
-        "url": "https://open.spotify.com/album/6yLkk9pNOfvAZ2EoUZlj7o"
-      },
-      "artists": [
-        {
-          "name": "Madina Lake",
-          "url": "https://open.spotify.com/artist/43QrUqvhiL71U9A9gJtAfA"
-        }
-      ],
-      "duration_ms": 203200,
-      "name": "Here I Stand",
-      "url": "https://open.spotify.com/track/2hSpvEjeA8y2yGcFBCgwHd"
-    },
-    {
-      "added_at": "2025-11-24 12:49:27",
-      "album": {
         "name": "Redeemer",
         "url": "https://open.spotify.com/album/7ju4BQgiknmVAQSb2V3vky"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 169066,
       "name": "Blueprints For Future Homes",
       "url": "https://open.spotify.com/track/0pQkFNB3Me4txM5jaKGwXh"
+    },
+    {
+      "added_at": "2025-11-24 12:49:27",
+      "album": {
+        "name": "From Them, Through Us, To You",
+        "url": "https://open.spotify.com/album/6yLkk9pNOfvAZ2EoUZlj7o"
+      },
+      "artists": [
+        {
+          "name": "Madina Lake",
+          "url": "https://open.spotify.com/artist/43QrUqvhiL71U9A9gJtAfA"
+        }
+      ],
+      "duration_ms": 203200,
+      "name": "Here I Stand",
+      "url": "https://open.spotify.com/track/2hSpvEjeA8y2yGcFBCgwHd"
     },
     {
       "added_at": "2025-11-24 12:49:27",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2025-11-24 12:49:27",
       "album": {
-        "name": "A City By The Light Divided",
-        "url": "https://open.spotify.com/album/2XkMFgR8qy32N8s1U1fL1B"
-      },
-      "artists": [
-        {
-          "name": "Thursday",
-          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
-        }
-      ],
-      "duration_ms": 199346,
-      "name": "Counting 5-4-3-2-1",
-      "url": "https://open.spotify.com/track/33xbEG22XelcyasHEq6mfw"
-    },
-    {
-      "added_at": "2025-11-24 12:49:27",
-      "album": {
         "name": "The Anti Mother",
         "url": "https://open.spotify.com/album/0GZJgWLGPiJi8TTp5hDnY4"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 280546,
       "name": "Surrender Your Sons",
       "url": "https://open.spotify.com/track/2fwjdgBSOCVt3QDpxU3G31"
+    },
+    {
+      "added_at": "2025-11-24 12:49:27",
+      "album": {
+        "name": "A City By The Light Divided",
+        "url": "https://open.spotify.com/album/2XkMFgR8qy32N8s1U1fL1B"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "duration_ms": 199346,
+      "name": "Counting 5-4-3-2-1",
+      "url": "https://open.spotify.com/track/33xbEG22XelcyasHEq6mfw"
     },
     {
       "added_at": "2025-11-24 12:49:27",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2025-11-24 12:49:27",
       "album": {
-        "name": "Wires...And The Concept Of Breathing",
-        "url": "https://open.spotify.com/album/6W5ldjWLvCJKpCmR9l3MQd"
-      },
-      "artists": [
-        {
-          "name": "A Skylit Drive",
-          "url": "https://open.spotify.com/artist/2HSp2S2KwxKE7sASl6bMR9"
-        }
-      ],
-      "duration_ms": 198693,
-      "name": "I'm Not A Thief, I'm A Treasure Hunter",
-      "url": "https://open.spotify.com/track/146UE7we0gOcTQ118xmR0A"
-    },
-    {
-      "added_at": "2025-11-24 12:49:27",
-      "album": {
         "name": "Say Hello To Sunshine",
         "url": "https://open.spotify.com/album/2sTszHEtxhh9GkHtl3SU9N"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 215320,
       "name": "Ink",
       "url": "https://open.spotify.com/track/2SJoURQgsD1BtdEjlAVeNE"
+    },
+    {
+      "added_at": "2025-11-24 12:49:27",
+      "album": {
+        "name": "Wires...And The Concept Of Breathing",
+        "url": "https://open.spotify.com/album/6W5ldjWLvCJKpCmR9l3MQd"
+      },
+      "artists": [
+        {
+          "name": "A Skylit Drive",
+          "url": "https://open.spotify.com/artist/2HSp2S2KwxKE7sASl6bMR9"
+        }
+      ],
+      "duration_ms": 198693,
+      "name": "I'm Not A Thief, I'm A Treasure Hunter",
+      "url": "https://open.spotify.com/track/146UE7we0gOcTQ118xmR0A"
     },
     {
       "added_at": "2025-11-24 12:49:27",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2025-11-24 12:49:27",
       "album": {
-        "name": "Wires...And The Concept Of Breathing",
-        "url": "https://open.spotify.com/album/6W5ldjWLvCJKpCmR9l3MQd"
-      },
-      "artists": [
-        {
-          "name": "A Skylit Drive",
-          "url": "https://open.spotify.com/artist/2HSp2S2KwxKE7sASl6bMR9"
-        }
-      ],
-      "duration_ms": 194906,
-      "name": "All It Takes For Your Dreams To Come True",
-      "url": "https://open.spotify.com/track/7DtwEwGYdcZDlXDoDmW0zo"
-    },
-    {
-      "added_at": "2025-11-24 12:49:27",
-      "album": {
         "name": "Between the Heart and the Synapse",
         "url": "https://open.spotify.com/album/1M5DYiubn2ko8OpUs0lhEt"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 318120,
       "name": "Planning a Prison Break",
       "url": "https://open.spotify.com/track/02bp2Aq5cFTUfDnOYJxuuL"
+    },
+    {
+      "added_at": "2025-11-24 12:49:27",
+      "album": {
+        "name": "Wires...And The Concept Of Breathing",
+        "url": "https://open.spotify.com/album/6W5ldjWLvCJKpCmR9l3MQd"
+      },
+      "artists": [
+        {
+          "name": "A Skylit Drive",
+          "url": "https://open.spotify.com/artist/2HSp2S2KwxKE7sASl6bMR9"
+        }
+      ],
+      "duration_ms": 194906,
+      "name": "All It Takes For Your Dreams To Come True",
+      "url": "https://open.spotify.com/track/7DtwEwGYdcZDlXDoDmW0zo"
     },
     {
       "added_at": "2025-11-24 12:49:27",

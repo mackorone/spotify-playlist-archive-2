@@ -4,7 +4,7 @@
 
 > 寒い冬は心を暖めるハートフルな楽曲をお供に。あなたの日々に音楽を。
 
-293 songs - 20 hr 33 min
+294 songs - 20 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,7 +198,7 @@
 | [クリスマスソング](https://open.spotify.com/track/5P8ZvBQoCrujjNcLAxO3Su) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [シャンデリア](https://open.spotify.com/album/6TrqbAJxtGl4HWK5SUbFLT) | 5:40 | 2025-12-11 | 2026-01-05 |
 | [グッバイバイ](https://open.spotify.com/track/6dujTu2FauOpI1bsHD093L) | [冨岡 愛](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [グッバイバイ](https://open.spotify.com/album/2qpbGbndqRvyxQp1qYiUnv) | 3:21 | 2024-02-20 | 2025-10-24 |
 | [サテライト](https://open.spotify.com/track/7HSvcRqLkfuPMnEYE94VSe) | [志摩陽立](https://open.spotify.com/artist/2XppGVZM0aitf8inKxorUG) | [サテライト](https://open.spotify.com/album/1rP1IeXCkGThqMLYsHW6xJ) | 5:19 | 2023-12-12 | 2023-12-20 |
-| [サボテンの花](https://open.spotify.com/track/6v8HlKdOs3oaQy0YZN2u7p) | [TULIP](https://open.spotify.com/artist/74krRxSUht1qLZ6tWT0u4M) | [無限軌道](https://open.spotify.com/album/7bxOLDogDiABPJUuMsjMd2) | 4:35 | 2025-10-24 |  |
+| [サボテンの花](https://open.spotify.com/track/6v8HlKdOs3oaQy0YZN2u7p) | [TULIP](https://open.spotify.com/artist/74krRxSUht1qLZ6tWT0u4M) | [無限軌道](https://open.spotify.com/album/7bxOLDogDiABPJUuMsjMd2) | 4:35 | 2025-10-24 | 2026-11-15 |
 | [シンデレラボーイ](https://open.spotify.com/track/1Vqs0lXeJafYZz2sxnfB3V) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [レイジーサンデー](https://open.spotify.com/album/39EU8gQm5E0vUDj9AvKUgr) | 3:54 | 2025-10-23 |  |
 | [スカーレット](https://open.spotify.com/track/5snNa3VGFhT80VzkVNPKTG) | [SPITZ](https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0) | [フェイクファー](https://open.spotify.com/album/5ZBM9scaALwFaVODbGmPMc) | 3:33 | 2023-12-12 |  |
 | [スターサイン](https://open.spotify.com/track/7LsVLiojCVPKSjb7n5uwMj) | [Aooo](https://open.spotify.com/artist/2Tz9q3iKdePddG0s46E9X2) | [スターサイン](https://open.spotify.com/album/740WJc46dcHEz0eVZDwj0b) | 4:26 | 2025-12-11 | 2026-11-11 |
@@ -293,6 +293,7 @@
 | [解氷](https://open.spotify.com/track/2dSrFR1iNipf8GUt3tp307) | [ナツノセ](https://open.spotify.com/artist/2oGGvMrukzgUrFNLxk2Mbe) | [解氷](https://open.spotify.com/album/1up2lZGnt5cfsKVf4BswJY) | 2:18 | 2024-02-20 | 2025-12-17 |
 | [軽トラでゆこう](https://open.spotify.com/track/6YYbDvwKAsDvz6EIrPVGEP) | [TAKASE TSUKAMOTO](https://open.spotify.com/artist/2SRMGpF3n6uDcxkgrdVor1) | [軽トラでゆこう](https://open.spotify.com/album/7w9vwQzSL3qEtUhWX8OCGl) | 3:51 | 2024-01-30 | 2024-02-21 |
 | [退屈](https://open.spotify.com/track/0Imp3yueaJNsOjrnY2zmB7) | [Ghost like girlfriend](https://open.spotify.com/artist/0FXJ7e5WRLaSMZvKhZDZx2) | [退屈](https://open.spotify.com/album/3EtQUrq1CpdPVxrFV5vUNu) | 4:07 | 2023-12-12 | 2024-12-14 |
+| [逢いたくていま](https://open.spotify.com/track/0cYED5os08J3tJ7UU3EV8w) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk) | [JUST BALLADE](https://open.spotify.com/album/6KWTAeuEN21EOWOy6IWuUZ) | 5:58 | 2025-10-23 |  |
 | [遠い街のどこかで…](https://open.spotify.com/track/15cyI9UoqIOBXtnb5fPkq3) | [Kumi Koda](https://open.spotify.com/artist/2mGYHril2LuZodRtTX06BC) | [遠い街のどこかで…](https://open.spotify.com/album/2heEQ0XdXnD4FHLi2mXLgf) | 5:32 | 2023-12-12 |  |
 | [銀河鉄道の夜](https://open.spotify.com/track/3gjTlJclAZCTa2IP2tn6wW) | [GOING STEADY](https://open.spotify.com/artist/7EyYmxeTBOeaZ09aaAAtCE) | [さくらの唄](https://open.spotify.com/album/48SXTUrfrvgKVPoVQjeur0) | 5:41 | 2025-10-23 | 2025-10-27 |
 | [雪の華](https://open.spotify.com/track/0SI0Te2JQTMe05NEmNbje6) | [Mika Nakashima](https://open.spotify.com/artist/3D73KNJRMbV45N59E8IN0F) | [雪の華](https://open.spotify.com/album/1RGkN7I8uWB4832MPaBzCy) | 5:41 | 2025-10-24 |  |

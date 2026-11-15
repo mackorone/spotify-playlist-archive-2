@@ -1481,6 +1481,24 @@
     },
     {
       "album": {
+        "name": "Akhiyan",
+        "url": "https://open.spotify.com/album/4g3Wem3mAETeYlLSPX2PYp"
+      },
+      "artists": [
+        {
+          "name": "Khwaab",
+          "url": "https://open.spotify.com/artist/2mnKZOV5u0fIV4UoRQfQrR"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191127,
+      "name": "Akhiyan",
+      "url": "https://open.spotify.com/track/0ao1tCvAsTnqriqA2So9Xd"
+    },
+    {
+      "album": {
         "name": "Akhri Baar",
         "url": "https://open.spotify.com/album/6WaYC52DAxJZ0JeoUNQgVg"
       },
@@ -8280,7 +8298,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-14",
+      "date_removed": null,
       "duration_ms": 145000,
       "name": "Eye Contact",
       "url": "https://open.spotify.com/track/7rcHITRqcj8qjDtYy5uQ3b"
@@ -14112,7 +14130,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 268000,
       "name": "Khwaab",
       "url": "https://open.spotify.com/track/1iYCA308RPUxBtzQMhblG0"
@@ -16220,7 +16238,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 237568,
       "name": "Main Tera Hoya",
       "url": "https://open.spotify.com/track/6Hq340E9ZBg3T28e7eAHar"

@@ -81,6 +81,32 @@
     },
     {
       "album": {
+        "name": "The Eyes of Ghana (Original Motion Picture Soundtrack) (feat. Dela Botri & Chineke! Orchestra)",
+        "url": "https://open.spotify.com/album/6srXikTsoDvZ1DGgkAznmx"
+      },
+      "artists": [
+        {
+          "name": "Kris Bowers",
+          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+        },
+        {
+          "name": "Dela Botri",
+          "url": "https://open.spotify.com/artist/62vt94pGfB3k1f309uvP5H"
+        },
+        {
+          "name": "Chineke! Orchestra",
+          "url": "https://open.spotify.com/artist/7FKUsKktgY7Zf8iAL6wOls"
+        }
+      ],
+      "date_added": "2026-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123436,
+      "name": "All Eyes on Ghana (feat. Dela Botri & Chineke! Orchestra)",
+      "url": "https://open.spotify.com/track/2VQ1Qj7JqIq4b9hPDLbG9a"
+    },
+    {
+      "album": {
         "name": "Queen Charlotte: A Bridgerton Story (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/0ypGVapqpAOTMmoT1oz6lo"
       },

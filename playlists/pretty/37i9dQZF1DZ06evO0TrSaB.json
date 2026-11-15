@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avUBgAAAAAAkq0P0xBLmZejGQf8cpqb9",
+  "snapshot_id": "avZTAAAAAABa1nUUqwZZRNLoPdxwql98",
   "tracks": [
     {
       "added_at": null,
@@ -332,9 +332,9 @@
           "url": "https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr"
         }
       ],
-      "duration_ms": 230635,
-      "name": "Pay For My Drink",
-      "url": "https://open.spotify.com/track/50AACYCHYrN9v3r2NmZ1Am"
+      "duration_ms": 123810,
+      "name": "Man In Your Bed",
+      "url": "https://open.spotify.com/track/2NNJpaJ8DRYJy5IY35MQWE"
     },
     {
       "added_at": null,
@@ -396,9 +396,9 @@
           "url": "https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr"
         }
       ],
-      "duration_ms": 123810,
-      "name": "Man In Your Bed",
-      "url": "https://open.spotify.com/track/2NNJpaJ8DRYJy5IY35MQWE"
+      "duration_ms": 230635,
+      "name": "Pay For My Drink",
+      "url": "https://open.spotify.com/track/50AACYCHYrN9v3r2NmZ1Am"
     },
     {
       "added_at": null,
@@ -503,6 +503,26 @@
       "duration_ms": 126146,
       "name": "Welcome Home",
       "url": "https://open.spotify.com/track/4d6v0CvPR7lnsE5P4djMYj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BLISS",
+        "url": "https://open.spotify.com/album/6nYuXUkFQTxkTZ1WT9kbz5"
+      },
+      "artists": [
+        {
+          "name": "Josh Waters",
+          "url": "https://open.spotify.com/artist/5jKjSpkbKc8CgNdrB4WEhZ"
+        },
+        {
+          "name": "Jai'Len Josey",
+          "url": "https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr"
+        }
+      ],
+      "duration_ms": 309024,
+      "name": "Insane (Jai'Len's Interlude)",
+      "url": "https://open.spotify.com/track/1moNXhbgdlIicUqGFpeCRS"
     }
   ],
   "unique_name": "This Is Jai'Len Josey",

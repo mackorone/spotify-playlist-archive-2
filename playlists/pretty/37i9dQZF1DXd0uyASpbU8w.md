@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from Mlindo The Vocalist, Internet Girl, Solana, Shakes & Les,  Ggoldie & Chlé and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,113 likes - 90 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,192 likes - 90 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Inhlawulo](https://open.spotify.com/track/2VIHMyKE1cyMG1jAH4qRH9) | [Mlindo The Vocalist](https://open.spotify.com/artist/09CY8fzqhZHR7rQAULoreI) | [INHLAWULO](https://open.spotify.com/album/2riuu9A3fmVezUYkvm6XMs) | 4:55 |
+| 1 | [Inhlawulo](https://open.spotify.com/track/2VIHMyKE1cyMG1jAH4qRH9) | [Mlindo The Vocalist](https://open.spotify.com/artist/09CY8fzqhZHR7rQAULoreI) | [INHLAWULO](https://open.spotify.com/album/2riuu9A3fmVezUYkvm6XMs) | 4:56 |
 | 2 | [Sorry Batswadi Baka \(feat\. Sia\_TheBee, BeeKayrsa28, Kay Tech, Zela Force, Terra Fontain & Tyler ICU\)](https://open.spotify.com/track/177p3g9OvZAJrvrVShnHaT) | [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Xduppy](https://open.spotify.com/artist/5QsdUm4JfKqNnFEplkhV1i), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Optimist Music ZA](https://open.spotify.com/artist/69FMBSIEqfCYBg5xqWdDQV), [Sia\_TheBee](https://open.spotify.com/artist/67251zPa3CwjUPl7tZAmtB), [BeeKayrsa28](https://open.spotify.com/artist/6rPyW4BH43YhOqtTNN7cwM), [Kay Tech](https://open.spotify.com/artist/51ZFDYiAgoj8CymlJtKEk5), [Zela Force](https://open.spotify.com/artist/3JLRHI8n2LSUBPeYYmaHoT), [Terra fontain](https://open.spotify.com/artist/3zsUaO3dQlLmjTfM8qgTkj), [Tyler ICU](https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4) | [The Lawd's Selection Vol \-1](https://open.spotify.com/album/0PnWFzCQnuVFjiwoPWrWSN) | 6:10 |
 | 3 | [Golide \(feat\. Smaki 08\)](https://open.spotify.com/track/4DeN5qXfo94NLLHGOVnNV5) | [Shakes & Les](https://open.spotify.com/artist/4bslbAAfObKnJI0G6FNcTp), [Mangoli](https://open.spotify.com/artist/1nRxeLH4E3xrXwEuaULvIn), [Smaki 08](https://open.spotify.com/artist/3UWe7UnbC6ZfUxJ6AoqBkQ) | [Groovinhos Kitchen 2](https://open.spotify.com/album/3dfGsaImuSGUgHfk7EBZ7k) | 6:22 |
 | 4 | [YES](https://open.spotify.com/track/00AOxFmaoLC1ZCVm3GGx9z) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL) | [YES](https://open.spotify.com/album/0FiarOgpwaZ18ZvTy7dlXc) | 3:10 |

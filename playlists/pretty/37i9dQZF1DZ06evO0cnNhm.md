@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0cnNhm.md) - [plain]
 
 > This is Dario Marianelli\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,110 likes - 30 songs - 1 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,110 likes - 31 songs - 1 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,5 +38,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0cnNhm.md) - [plain]
 | 28 | [As It \(Perhaps\) Was](https://open.spotify.com/track/47xKzrYgjq4v0gTCiokzq4) | [Dario Marianelli](https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg) | [I Capture The Castle \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3dcBaNl2OYtVHRzdfLVupD) | 3:27 |
 | 29 | [Setting Off From Kathmandu](https://open.spotify.com/track/7xlkdd1ZV7q8eEhc46dE2X) | [Dario Marianelli](https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg) | [Everest \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0QjHgymCkjqHShm0iSyrEP) | 1:16 |
 | 30 | [Ancestors](https://open.spotify.com/track/7Cfih44vlpcFAFzKdHmv0Y) | [Dario Marianelli](https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg) | [Kubo and the Two Strings \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7dOhWd2mzAxFogccMQWAg0) | 2:07 |
+| 31 | [Beck Gets Up](https://open.spotify.com/track/6cpsnTDrEvabTfK5wAiCbw) | [Dario Marianelli](https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg) | [Everest \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0QjHgymCkjqHShm0iSyrEP) | 2:55 |
 
-Snapshot ID: `avUBgAAAAAAoxyCWEyEwi6svZn1H68/d`
+Snapshot ID: `avZTAAAAAAB3ii8O+DCKqlliVl3iWZNt`

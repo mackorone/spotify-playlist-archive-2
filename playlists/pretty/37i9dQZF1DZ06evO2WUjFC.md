@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WUjFC.md) - [plain]
 
 > This is Danny Felix\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,416 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,418 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WUjFC.md) - [plain]
 | 18 | [30 Cartas \- En Vivo](https://open.spotify.com/track/0GVN5krhhtWiyBmZaUZpD5) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Fiesta Privada Desde El 602 \(En Vivo\)](https://open.spotify.com/album/2BMdhDB0AwzTxRoo8EQ2Te) | 4:07 |
 | 19 | [PLAKA](https://open.spotify.com/track/2guRQXwtWXSs2fdjqApG5N) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [LUCES ROJAS](https://open.spotify.com/album/3CI0ljFulRHYlDHBv4vV7O) | 2:54 |
 | 20 | [OFFICE](https://open.spotify.com/track/7qj6I5UlwhSVtrqBviCy8Q) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Christian Ortega](https://open.spotify.com/artist/528MXn4CmZm4mLZ9vutc1b) | [EL GATITO NEGRO](https://open.spotify.com/album/0GRygM9xpSSHn5odtIVQy3) | 2:25 |
-| 21 | [SEGUIR](https://open.spotify.com/track/15DYQlZ64lyccv5561p4Jv) | [Reynaldos de la Sierra](https://open.spotify.com/artist/13rTu0fmZMKFl0oB2JC1oe), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [CHULA ELLA 59](https://open.spotify.com/album/2hG9jA3GrO9myvWUmVfdty) | 3:15 |
-| 22 | [Morritas \- En Vivo](https://open.spotify.com/track/4FBCqhGaioQzi8MC8Z8IWa) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [CON LA COCHI \[VOL II \(EN VIVO\)\]](https://open.spotify.com/album/3WmaC3AjtOKrypdTmgOYqx) | 3:39 |
+| 21 | [Morritas \- En Vivo](https://open.spotify.com/track/4FBCqhGaioQzi8MC8Z8IWa) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [CON LA COCHI \[VOL II \(EN VIVO\)\]](https://open.spotify.com/album/3WmaC3AjtOKrypdTmgOYqx) | 3:39 |
+| 22 | [SEGUIR](https://open.spotify.com/track/15DYQlZ64lyccv5561p4Jv) | [Reynaldos de la Sierra](https://open.spotify.com/artist/13rTu0fmZMKFl0oB2JC1oe), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [CHULA ELLA 59](https://open.spotify.com/album/2hG9jA3GrO9myvWUmVfdty) | 3:15 |
 | 23 | [Godfather \- En Vivo](https://open.spotify.com/track/4B8Z4TwXkssIuLPMTlNIcD) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Fiesta Privada Desde El 602 \(En Vivo\)](https://open.spotify.com/album/2BMdhDB0AwzTxRoo8EQ2Te) | 3:20 |
 | 24 | [DELIRANTE](https://open.spotify.com/track/7riPtZ3t5eiUZRsdOGvM2Z) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [EL GATITO NEGRO](https://open.spotify.com/album/0GRygM9xpSSHn5odtIVQy3) | 2:27 |
 | 25 | [Y SI YA ESTÁS CON OTRO](https://open.spotify.com/track/0R7NoLfi7HQ8sveb5ucmVi) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei) | [LUCES ROJAS](https://open.spotify.com/album/3CI0ljFulRHYlDHBv4vV7O) | 3:13 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WUjFC.md) - [plain]
 | 44 | [Sueños De La Calle: La Del Proceso](https://open.spotify.com/track/7D3u7IOnBWocHCzcOtvTv4) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Octavio Cuadras](https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp), [Giovanny Ayala](https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j) | [Sueños De La Calle \(Vol\. 1\)](https://open.spotify.com/album/0jw8F2KGYttGhV5duwgmyx) | 3:03 |
 | 45 | [Fiesta En La Sierra \- En Vivo](https://open.spotify.com/track/0c3DUDq57IkEAx39hxbzul) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [CON LA COCHI \[VOL II \(EN VIVO\)\]](https://open.spotify.com/album/3WmaC3AjtOKrypdTmgOYqx) | 5:04 |
 | 46 | [Mi Ranchito \(En Vivo\)](https://open.spotify.com/track/5ILd4zLafaVVp4VtbAIMIB) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Los Llegadores](https://open.spotify.com/artist/2lhN8TPwOos3I4qeGuc9B2), [Conjunto Amenaza](https://open.spotify.com/artist/3uGV2MQUIGC13cRbP6oCJs) | [Mi Ranchito \(En Vivo\)](https://open.spotify.com/album/1CCEw0IApi1xVQ43G6ufvf) | 4:41 |
-| 47 | [Hora de Abordar](https://open.spotify.com/track/1obCocrWe79DkbP4LRvHoa) | [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Ahí Viene la Subida](https://open.spotify.com/album/00I04FlbiupCLlwbK7jELJ) | 4:15 |
-| 48 | [CATALOGADO](https://open.spotify.com/track/1uB0VyV5AfRIaBq6hJWeRM) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Juanchito](https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v) | [CATALOGADO](https://open.spotify.com/album/0dWmtSyvO2o7ytt5wURXUB) | 2:07 |
+| 47 | [CATALOGADO](https://open.spotify.com/track/1uB0VyV5AfRIaBq6hJWeRM) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Juanchito](https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v) | [CATALOGADO](https://open.spotify.com/album/0dWmtSyvO2o7ytt5wURXUB) | 2:07 |
+| 48 | [Hora de Abordar](https://open.spotify.com/track/1obCocrWe79DkbP4LRvHoa) | [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Ahí Viene la Subida](https://open.spotify.com/album/00I04FlbiupCLlwbK7jELJ) | 4:15 |
 | 49 | [LVR](https://open.spotify.com/track/1OLoQ9k8WRYc6zQ4mBWEqP) | [Tyan G](https://open.spotify.com/artist/4j1Usj1sKyLB9CDpSZSZ2C), [Chris Hermosillo](https://open.spotify.com/artist/49s6IQppCi57xqZqwLIT7B), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [LVR](https://open.spotify.com/album/55eQK3OCkiOuEWyKczz1xQ) | 2:52 |
 | 50 | [Ya Están Cantando Los Gallos \(Live\)](https://open.spotify.com/track/7M0ai5eJ5f301qH51XZcjp) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Live, Rancho Style](https://open.spotify.com/album/7qt84cnhuRfW5dbufqY2RA) | 6:02 |
 
-Snapshot ID: `avUBgAAAAAC5frku0CF7ITktvXkTRWOj`
+Snapshot ID: `avZTAAAAAACJT8w9N6O9xs1WIielL/HH`

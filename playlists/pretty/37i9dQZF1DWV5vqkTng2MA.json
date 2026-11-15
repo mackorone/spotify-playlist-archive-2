@@ -1,6 +1,6 @@
 {
   "description": "Make it new. Fresh takes on vintage soul, folk, blues, and roots rock. Cover: Marfa",
-  "num_followers": 429613,
+  "num_followers": 429623,
   "original_name": "the new retro",
   "owner": {
     "name": "Spotify",
@@ -423,22 +423,6 @@
     {
       "added_at": "2026-11-13 14:53:33",
       "album": {
-        "name": "Take It As It Is",
-        "url": "https://open.spotify.com/album/5qMBpitswasvtiUvKmBFW3"
-      },
-      "artists": [
-        {
-          "name": "Skinshape",
-          "url": "https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe"
-        }
-      ],
-      "duration_ms": 289313,
-      "name": "Take It As It Is",
-      "url": "https://open.spotify.com/track/1exBcwZfWI6lafCCDtauBp"
-    },
-    {
-      "added_at": "2026-11-13 14:53:33",
-      "album": {
         "name": "Supernova",
         "url": "https://open.spotify.com/album/0HtJKUCwLbioPhMPAlKONW"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 235427,
       "name": "Supernova",
       "url": "https://open.spotify.com/track/5grmNnhOTNSbcq3R1heVT1"
+    },
+    {
+      "added_at": "2026-11-13 14:53:33",
+      "album": {
+        "name": "Take It As It Is",
+        "url": "https://open.spotify.com/album/5qMBpitswasvtiUvKmBFW3"
+      },
+      "artists": [
+        {
+          "name": "Skinshape",
+          "url": "https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe"
+        }
+      ],
+      "duration_ms": 289313,
+      "name": "Take It As It Is",
+      "url": "https://open.spotify.com/track/1exBcwZfWI6lafCCDtauBp"
     },
     {
       "added_at": "2026-11-13 14:53:33",
@@ -471,6 +471,22 @@
     {
       "added_at": "2026-11-13 14:53:33",
       "album": {
+        "name": "Utah",
+        "url": "https://open.spotify.com/album/6ampZidxH8AtXdxEFoZVv7"
+      },
+      "artists": [
+        {
+          "name": "Jamestown Revival",
+          "url": "https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it"
+        }
+      ],
+      "duration_ms": 213800,
+      "name": "Revival",
+      "url": "https://open.spotify.com/track/1Q9BAEptV3nrj8sXBHU70M"
+    },
+    {
+      "added_at": "2026-11-13 14:53:33",
+      "album": {
         "name": "Rina",
         "url": "https://open.spotify.com/album/1WL3GoeS3sad2UrkUTAPXd"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 279066,
       "name": "Rina",
       "url": "https://open.spotify.com/track/6FCJOwTvlHzpFDWx82L6WF"
-    },
-    {
-      "added_at": "2026-11-13 14:53:33",
-      "album": {
-        "name": "Utah",
-        "url": "https://open.spotify.com/album/6ampZidxH8AtXdxEFoZVv7"
-      },
-      "artists": [
-        {
-          "name": "Jamestown Revival",
-          "url": "https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it"
-        }
-      ],
-      "duration_ms": 213800,
-      "name": "Revival",
-      "url": "https://open.spotify.com/track/1Q9BAEptV3nrj8sXBHU70M"
     },
     {
       "added_at": "2026-11-13 14:53:33",
@@ -699,22 +699,6 @@
     {
       "added_at": "2026-11-13 14:53:33",
       "album": {
-        "name": "The Siren's Song",
-        "url": "https://open.spotify.com/album/1VEgwkYG6oZqAjWoTDpUX2"
-      },
-      "artists": [
-        {
-          "name": "Kacy & Clayton",
-          "url": "https://open.spotify.com/artist/7oJ1EabmX7ejrie3NBzn0p"
-        }
-      ],
-      "duration_ms": 172440,
-      "name": "The Light Of Day",
-      "url": "https://open.spotify.com/track/3qtIvjBFZnXMoTqsxfoih5"
-    },
-    {
-      "added_at": "2026-11-13 14:53:33",
-      "album": {
         "name": "S.O.B.",
         "url": "https://open.spotify.com/album/1IJTTZwMPAgXApak2v9tWI"
       },
@@ -731,18 +715,18 @@
     {
       "added_at": "2026-11-13 14:53:33",
       "album": {
-        "name": "Songs About You",
-        "url": "https://open.spotify.com/album/4fjThpTcrlhAbO8o50vMFc"
+        "name": "The Siren's Song",
+        "url": "https://open.spotify.com/album/1VEgwkYG6oZqAjWoTDpUX2"
       },
       "artists": [
         {
-          "name": "Solon Holt",
-          "url": "https://open.spotify.com/artist/6gcXckLQicjC4KJQi00EMz"
+          "name": "Kacy & Clayton",
+          "url": "https://open.spotify.com/artist/7oJ1EabmX7ejrie3NBzn0p"
         }
       ],
-      "duration_ms": 217099,
-      "name": "Songs About You",
-      "url": "https://open.spotify.com/track/2Q2r9GPlQF6d9WdrPDKUtV"
+      "duration_ms": 172440,
+      "name": "The Light Of Day",
+      "url": "https://open.spotify.com/track/3qtIvjBFZnXMoTqsxfoih5"
     },
     {
       "added_at": "2026-11-13 14:53:33",
@@ -759,6 +743,22 @@
       "duration_ms": 183776,
       "name": "Reasons",
       "url": "https://open.spotify.com/track/6qp7oXl2E2DDwDMJPhb1xX"
+    },
+    {
+      "added_at": "2026-11-13 14:53:33",
+      "album": {
+        "name": "Songs About You",
+        "url": "https://open.spotify.com/album/4fjThpTcrlhAbO8o50vMFc"
+      },
+      "artists": [
+        {
+          "name": "Solon Holt",
+          "url": "https://open.spotify.com/artist/6gcXckLQicjC4KJQi00EMz"
+        }
+      ],
+      "duration_ms": 217099,
+      "name": "Songs About You",
+      "url": "https://open.spotify.com/track/2Q2r9GPlQF6d9WdrPDKUtV"
     },
     {
       "added_at": "2026-11-13 14:53:33",
@@ -831,22 +831,6 @@
     {
       "added_at": "2026-11-13 14:53:33",
       "album": {
-        "name": "Delilah",
-        "url": "https://open.spotify.com/album/2iOEBkiMCteCJExhYgVpXZ"
-      },
-      "artists": [
-        {
-          "name": "Anderson East",
-          "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
-        }
-      ],
-      "duration_ms": 166106,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/1WeEXE3w0FkgPLUEOeoG9J"
-    },
-    {
-      "added_at": "2026-11-13 14:53:33",
-      "album": {
         "name": "All My Shades Of Blue",
         "url": "https://open.spotify.com/album/5ZfLIL2IFjtgKAAxvW7WiJ"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 201000,
       "name": "Summer Sun",
       "url": "https://open.spotify.com/track/2YMIYzyip7FRqV1pasIGc9"
+    },
+    {
+      "added_at": "2026-11-13 14:53:33",
+      "album": {
+        "name": "Delilah",
+        "url": "https://open.spotify.com/album/2iOEBkiMCteCJExhYgVpXZ"
+      },
+      "artists": [
+        {
+          "name": "Anderson East",
+          "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
+        }
+      ],
+      "duration_ms": 166106,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/1WeEXE3w0FkgPLUEOeoG9J"
     },
     {
       "added_at": "2026-11-13 14:53:33",
@@ -895,22 +895,6 @@
     {
       "added_at": "2026-11-13 14:53:33",
       "album": {
-        "name": "Sideways",
-        "url": "https://open.spotify.com/album/1ikP6HnW0jO7ILAmmgBf4r"
-      },
-      "artists": [
-        {
-          "name": "Josh Gilligan",
-          "url": "https://open.spotify.com/artist/46g5hcuu0pLv0KYtk3m899"
-        }
-      ],
-      "duration_ms": 200160,
-      "name": "Sammy G's",
-      "url": "https://open.spotify.com/track/23xsBjHKk0SisnMHrJzemJ"
-    },
-    {
-      "added_at": "2026-11-13 14:53:33",
-      "album": {
         "name": "Beneath The Lilypad",
         "url": "https://open.spotify.com/album/3nuV6fPLQr62sQpBRBz1Pf"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 223164,
       "name": "Unforgivable",
       "url": "https://open.spotify.com/track/4YOrvi3CpPvX48symLER3H"
+    },
+    {
+      "added_at": "2026-11-13 14:53:33",
+      "album": {
+        "name": "Sideways",
+        "url": "https://open.spotify.com/album/1ikP6HnW0jO7ILAmmgBf4r"
+      },
+      "artists": [
+        {
+          "name": "Josh Gilligan",
+          "url": "https://open.spotify.com/artist/46g5hcuu0pLv0KYtk3m899"
+        }
+      ],
+      "duration_ms": 200160,
+      "name": "Sammy G's",
+      "url": "https://open.spotify.com/track/23xsBjHKk0SisnMHrJzemJ"
     },
     {
       "added_at": "2026-11-13 14:53:33",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2026-11-13 14:53:33",
       "album": {
-        "name": "The Very Last Day",
-        "url": "https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T"
-      },
-      "artists": [
-        {
-          "name": "Parker Millsap",
-          "url": "https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur"
-        }
-      ],
-      "duration_ms": 180013,
-      "name": "The Very Last Day",
-      "url": "https://open.spotify.com/track/76Fc9ApTagfE0DFLFdnMj1"
-    },
-    {
-      "added_at": "2026-11-13 14:53:33",
-      "album": {
         "name": "Logan Ledger",
         "url": "https://open.spotify.com/album/6unbrJ83ygRGVgd6VeBfQD"
       },
@@ -1179,22 +1163,18 @@
     {
       "added_at": "2026-11-13 14:53:33",
       "album": {
-        "name": "She Don't Love Me Now",
-        "url": "https://open.spotify.com/album/0UfnBL4bOIXKPsBGxeJNtn"
+        "name": "The Very Last Day",
+        "url": "https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T"
       },
       "artists": [
         {
-          "name": "Jesse Malin",
-          "url": "https://open.spotify.com/artist/6zKkaqMGGmaKLUSLTcsrls"
-        },
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+          "name": "Parker Millsap",
+          "url": "https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur"
         }
       ],
-      "duration_ms": 207160,
-      "name": "She Don't Love Me Now",
-      "url": "https://open.spotify.com/track/74srY0SjUrZMyjIB6sPQ4R"
+      "duration_ms": 180013,
+      "name": "The Very Last Day",
+      "url": "https://open.spotify.com/track/76Fc9ApTagfE0DFLFdnMj1"
     },
     {
       "added_at": "2026-11-13 14:53:33",
@@ -1215,22 +1195,22 @@
     {
       "added_at": "2026-11-13 14:53:33",
       "album": {
-        "name": "The Illusion Of Love (feat. Lukas Nelson)",
-        "url": "https://open.spotify.com/album/2ORyv79ovybfjEdkR4OM9A"
+        "name": "She Don't Love Me Now",
+        "url": "https://open.spotify.com/album/0UfnBL4bOIXKPsBGxeJNtn"
       },
       "artists": [
         {
-          "name": "Laci Kaye Booth",
-          "url": "https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4"
+          "name": "Jesse Malin",
+          "url": "https://open.spotify.com/artist/6zKkaqMGGmaKLUSLTcsrls"
         },
         {
-          "name": "Lukas Nelson",
-          "url": "https://open.spotify.com/artist/1oK57qVDixqM7no13U1mK9"
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 283427,
-      "name": "The Illusion Of Love (feat. Lukas Nelson)",
-      "url": "https://open.spotify.com/track/3wbTGRx1ggj8QKIdJXcgpl"
+      "duration_ms": 207160,
+      "name": "She Don't Love Me Now",
+      "url": "https://open.spotify.com/track/74srY0SjUrZMyjIB6sPQ4R"
     },
     {
       "added_at": "2026-11-13 14:53:33",
@@ -1251,6 +1231,26 @@
       "duration_ms": 221434,
       "name": "Can't Let Go",
       "url": "https://open.spotify.com/track/5SMb9DajcX67GuiL4urSjp"
+    },
+    {
+      "added_at": "2026-11-13 14:53:33",
+      "album": {
+        "name": "The Illusion Of Love (feat. Lukas Nelson)",
+        "url": "https://open.spotify.com/album/2ORyv79ovybfjEdkR4OM9A"
+      },
+      "artists": [
+        {
+          "name": "Laci Kaye Booth",
+          "url": "https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4"
+        },
+        {
+          "name": "Lukas Nelson",
+          "url": "https://open.spotify.com/artist/1oK57qVDixqM7no13U1mK9"
+        }
+      ],
+      "duration_ms": 283427,
+      "name": "The Illusion Of Love (feat. Lukas Nelson)",
+      "url": "https://open.spotify.com/track/3wbTGRx1ggj8QKIdJXcgpl"
     },
     {
       "added_at": "2026-11-13 14:53:33",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2026-11-13 14:53:33",
       "album": {
-        "name": "Hands on the Radio",
-        "url": "https://open.spotify.com/album/08noPcSJhhNl1KayiNivkS"
-      },
-      "artists": [
-        {
-          "name": "The Weeks",
-          "url": "https://open.spotify.com/artist/3zE5jV6Uw9hhdWCXM8hS3j"
-        }
-      ],
-      "duration_ms": 212333,
-      "name": "Hands on the Radio",
-      "url": "https://open.spotify.com/track/0S1NJoM1JHfd2x9Orm2j2G"
-    },
-    {
-      "added_at": "2026-11-13 14:53:33",
-      "album": {
         "name": "Bend",
         "url": "https://open.spotify.com/album/51Z9ct66DoRH7HrJnb0Qkq"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 246453,
       "name": "Bend",
       "url": "https://open.spotify.com/track/4E6lPUe9p3eq4pqfOLxMK4"
+    },
+    {
+      "added_at": "2026-11-13 14:53:33",
+      "album": {
+        "name": "Hands on the Radio",
+        "url": "https://open.spotify.com/album/08noPcSJhhNl1KayiNivkS"
+      },
+      "artists": [
+        {
+          "name": "The Weeks",
+          "url": "https://open.spotify.com/artist/3zE5jV6Uw9hhdWCXM8hS3j"
+        }
+      ],
+      "duration_ms": 212333,
+      "name": "Hands on the Radio",
+      "url": "https://open.spotify.com/track/0S1NJoM1JHfd2x9Orm2j2G"
     }
   ],
   "unique_name": "the new retro",

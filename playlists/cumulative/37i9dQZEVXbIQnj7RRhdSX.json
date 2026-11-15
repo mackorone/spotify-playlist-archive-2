@@ -8607,6 +8607,24 @@
     },
     {
       "album": {
+        "name": "SANTISSIMO",
+        "url": "https://open.spotify.com/album/1Ae6gXqLMBVZxaXvwuEUu2"
+      },
+      "artists": [
+        {
+          "name": "Sayf",
+          "url": "https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB"
+        }
+      ],
+      "date_added": "2026-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160594,
+      "name": "BOMBE",
+      "url": "https://open.spotify.com/track/5u8QIjKPLT5MFIMn1Z4ugG"
+    },
+    {
+      "album": {
         "name": "BON TON (feat. Lazza, BLANCO, Sfera Ebbasta & Michelangelo)",
         "url": "https://open.spotify.com/album/5sYpvvoDPM9LOrTgFkizQ8"
       },
@@ -9670,7 +9688,7 @@
       ],
       "date_added": "2026-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 210400,
       "name": "BUONANOTTE ANCHE STANOTTE",
       "url": "https://open.spotify.com/track/05cxuAZUr1KgLBP2wL2S6l"
@@ -14862,6 +14880,24 @@
       "duration_ms": 180997,
       "name": "Cosa Faremo Da Grandi?",
       "url": "https://open.spotify.com/track/1fi6WJYdiFQ7gEtAtJ8NH6"
+    },
+    {
+      "album": {
+        "name": "Cosa mi fai",
+        "url": "https://open.spotify.com/album/6DqSrBR8XZkbKbJVzpTx5W"
+      },
+      "artists": [
+        {
+          "name": "Will",
+          "url": "https://open.spotify.com/artist/7qIrqNF6i1kRLkGLgGXuZq"
+        }
+      ],
+      "date_added": "2026-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165600,
+      "name": "Cosa mi fai",
+      "url": "https://open.spotify.com/track/5KrBQxU4c768qoQp8sUbmp"
     },
     {
       "album": {
@@ -29724,7 +29760,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 289533,
       "name": "Iris",
       "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
@@ -31328,7 +31364,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 211453,
       "name": "L'Amore Non Mi Basta",
       "url": "https://open.spotify.com/track/01PuEcSSxP84CO9yaXtsyp"
@@ -31346,7 +31382,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-14",
+      "date_removed": null,
       "duration_ms": 211453,
       "name": "L'Amore Non Mi Basta",
       "url": "https://open.spotify.com/track/1YaSQXYPqhwtw35Wf3Z0nI"
@@ -31524,7 +31560,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-12",
+      "date_removed": null,
       "duration_ms": 249173,
       "name": "L'Emozione Non Ha Voce (Io Non So Parlar D'Amore)",
       "url": "https://open.spotify.com/track/6QDbrhZDKku58X7iv7cKKr"
@@ -33302,7 +33338,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 192040,
       "name": "La tua canzone",
       "url": "https://open.spotify.com/track/17ctLiAYSfZkL8ksjtSchO"
@@ -35068,7 +35104,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 193212,
       "name": "Livia",
       "url": "https://open.spotify.com/track/2VbW3QMaYI36FrWdg0IerY"
@@ -45182,6 +45218,24 @@
       "duration_ms": 180468,
       "name": "Ogni volta che non so volare",
       "url": "https://open.spotify.com/track/5COJWRcIcK8Wn2u5G18BA5"
+    },
+    {
+      "album": {
+        "name": "Ogni volta che sei qui",
+        "url": "https://open.spotify.com/album/2HRXpgU3gFAgWQJ3B3aecf"
+      },
+      "artists": [
+        {
+          "name": "Gazzelle",
+          "url": "https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN"
+        }
+      ],
+      "date_added": "2026-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193660,
+      "name": "Ogni volta che sei qui",
+      "url": "https://open.spotify.com/track/3QbXXz5oHwE8MYPhAQ2uy9"
     },
     {
       "album": {

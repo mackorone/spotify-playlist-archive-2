@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > The best in Black music! Cover: <a href="spotify:artist:0Lf9qKpKwy6fJtfM7UWLV0">Jackie Hill Perry</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,155,529 likes - 160 songs - 7 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,155,515 likes - 160 songs - 7 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

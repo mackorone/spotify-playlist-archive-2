@@ -1,6 +1,6 @@
 {
   "description": "India\u2019s biggest dance anthems, filling every dance floor right now. Cover: Dhurandhar",
-  "num_followers": 83942,
+  "num_followers": 83944,
   "original_name": "mint india",
   "owner": {
     "name": "Spotify",
@@ -767,30 +767,6 @@
     {
       "added_at": "2026-10-08 06:41:51",
       "album": {
-        "name": "Teri Baaton Mein Aisa Uljha Jiya Title Song (From \"Teri Baaton Mein Aisa Uljha Jiya\")",
-        "url": "https://open.spotify.com/album/0YCrtSmwjwU1tp5dXtasCJ"
-      },
-      "artists": [
-        {
-          "name": "Raghav",
-          "url": "https://open.spotify.com/artist/5PVSEFUT4Inqu3yEq56Ku9"
-        },
-        {
-          "name": "Tanishk Bagchi",
-          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
-        },
-        {
-          "name": "Asees Kaur",
-          "url": "https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES"
-        }
-      ],
-      "duration_ms": 153083,
-      "name": "Teri Baaton Mein Aisa Uljha Jiya Title Song (From \"Teri Baaton Mein Aisa Uljha Jiya\")",
-      "url": "https://open.spotify.com/track/6IR6mzRO60hnMjNoq8rCPE"
-    },
-    {
-      "added_at": "2026-10-08 06:41:51",
-      "album": {
         "name": "Kabhi Khushi Kabhie Gham (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5lExQTV6ELzqRgwsqahZoh"
       },
@@ -811,6 +787,30 @@
       "duration_ms": 343613,
       "name": "You Are My Soniya",
       "url": "https://open.spotify.com/track/6SDH3mp9sQCNJDfDDpQTTo"
+    },
+    {
+      "added_at": "2026-10-08 06:41:51",
+      "album": {
+        "name": "Teri Baaton Mein Aisa Uljha Jiya Title Song (From \"Teri Baaton Mein Aisa Uljha Jiya\")",
+        "url": "https://open.spotify.com/album/0YCrtSmwjwU1tp5dXtasCJ"
+      },
+      "artists": [
+        {
+          "name": "Raghav",
+          "url": "https://open.spotify.com/artist/5PVSEFUT4Inqu3yEq56Ku9"
+        },
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        },
+        {
+          "name": "Asees Kaur",
+          "url": "https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES"
+        }
+      ],
+      "duration_ms": 153083,
+      "name": "Teri Baaton Mein Aisa Uljha Jiya Title Song (From \"Teri Baaton Mein Aisa Uljha Jiya\")",
+      "url": "https://open.spotify.com/track/6IR6mzRO60hnMjNoq8rCPE"
     },
     {
       "added_at": "2026-10-08 06:41:51",

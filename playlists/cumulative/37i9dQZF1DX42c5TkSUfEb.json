@@ -7314,7 +7314,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 187440,
       "name": "Rabbit Hole",
       "url": "https://open.spotify.com/track/5FlMiiDcXmWB2VQRb9oJV3"
@@ -7922,6 +7922,24 @@
       "duration_ms": 232000,
       "name": "Silent Killer",
       "url": "https://open.spotify.com/track/30GeuZLcq4ORyG1mf5JeYT"
+    },
+    {
+      "album": {
+        "name": "Silver Springs (Spotify Singles)",
+        "url": "https://open.spotify.com/album/0fW7syaAcr6p7MpMnyq49k"
+      },
+      "artists": [
+        {
+          "name": "Sarah Julia",
+          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200399,
+      "name": "Silver Springs - Spotify Singles",
+      "url": "https://open.spotify.com/track/171L1i9B8JSR234FJbKDPi"
     },
     {
       "album": {

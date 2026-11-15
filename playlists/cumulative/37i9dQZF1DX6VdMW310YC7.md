@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,944 songs - 5 day 11 hr 51 min
+1,945 songs - 5 day 11 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -488,6 +488,7 @@
 | [Everything All At Once](https://open.spotify.com/track/6GVwBMdjAAgI59pyvxa1XR) | [Jack Willard](https://open.spotify.com/artist/0DIqQmQ7dKsuCPx6LDJWK7), [Coastlines](https://open.spotify.com/artist/561yODCc2ueVijuuVw6kUK), [MØØNE](https://open.spotify.com/artist/7kKL0Z6mypwMkgCevMfuQ6) | [Everything All At Once](https://open.spotify.com/album/79qIARkVmChtiG0yTcs9Zv) | 4:05 | 2025-08-29 | 2025-12-20 |
 | [Everything At Your Feet \(feat\. The Chamanas\)](https://open.spotify.com/track/5s4VITF7fn0msBtnS2Cw71) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [The Chamanas](https://open.spotify.com/artist/4QUnWR26plj0oHiQgRyhvk) | [A Moment Apart](https://open.spotify.com/album/1t5AUjmNrLRxVIQ9FcBw10) | 3:28 | 2020-05-18 | 2020-07-18 |
 | [EVERYTHING IN ITS RIGHT PLACE](https://open.spotify.com/track/03p9MCjq5ld1kRmqCGNXgs) | [jewels](https://open.spotify.com/artist/4C9H5Lat1NEZasl8MQHvtB), [YUMA](https://open.spotify.com/artist/5ynMbTlnZvBUxrxUrd6gs0), [SOMMA](https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3), [MAGNUS](https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w), [LE YORA](https://open.spotify.com/artist/0JguaqQNo1CgVjFqtIXyGR) | [EVERYTHING IN ITS RIGHT PLACE](https://open.spotify.com/album/3fQHrYU8bgPG5Gci6y6sjV) | 5:02 | 2026-01-30 |  |
+| [Everything Started Changing \(feat\. CLOVES\)](https://open.spotify.com/track/4ZRvdi2lE8YHtkOuIL9doO) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [CLOVES](https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c) | [Aether](https://open.spotify.com/album/24jwW4VYmuqawdcBOG6qY4) | 4:12 | 2026-11-13 |  |
 | [Exhale](https://open.spotify.com/track/3JVxMoCvTaEgnODlMxX378) | [Drinks On Me](https://open.spotify.com/artist/1cIz2h3ERs72r60yw78Deu) | [Exhale](https://open.spotify.com/album/0Dkj2r4S95C043ELdTDRjV) | 2:50 | 2021-01-08 | 2022-02-14 |
 | [Exodus Blue](https://open.spotify.com/track/3QmV65k5aAxUdxCBLQAtcW) | [CEAUS](https://open.spotify.com/artist/16312wc5ERKYDDBVwRSAi4) | [Purified Fragments XI](https://open.spotify.com/album/4SPUU9PnlD5AsrntVOgCjc) | 5:18 | 2022-12-28 | 2023-01-06 |
 | [Explorers \(Instrumental\)](https://open.spotify.com/track/3pCXg1LVxAQVPFKQrMJ66W) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Kids \(The Instrumentals\)](https://open.spotify.com/album/77StEacT5IhWZLdj0Rj2W2) | 4:16 | 2020-03-20 | 2022-01-08 |
@@ -1089,7 +1090,7 @@
 | [Meant to Be](https://open.spotify.com/track/6t1anT08ffzsVLVk61K6aM) | [Tep No](https://open.spotify.com/artist/7MlotYZhHjOlXcvmwrITj8) | [Meant to Be](https://open.spotify.com/album/0hO4bQ8BKcHtwG31NY2XWq) | 4:00 | 2020-05-18 | 2020-07-03 |
 | [Medicine](https://open.spotify.com/track/7sfpydlJrHpTi533idUuZV) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [PLANT](https://open.spotify.com/artist/2b2PRT5intoFoG9KPB3Nyq) | [Medicine](https://open.spotify.com/album/3CVaImUrMiIWsweWKRPeN0) | 2:38 | 2022-07-22 | 2023-07-08 |
 | [Meet Me](https://open.spotify.com/track/2B00MZNljOitCgetHiNcxf) | [Mickey Valen](https://open.spotify.com/artist/2tLI4kPsmsxQQv6zr2jbgt), [Noé](https://open.spotify.com/artist/6ATGuATiaPOyjNIc5AjP3R) | [Meet Me](https://open.spotify.com/album/4FzVIeOLfbl3pb5vPtawd1) | 3:13 | 2020-05-22 | 2020-07-03 |
-| [Melancholia](https://open.spotify.com/track/6zhY7CX2x0fMlpEYWVwHwa) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza) | [Melancholia](https://open.spotify.com/album/552EhYcIuLGbNHy8hc77Gb) | 3:29 | 2026-02-20 |  |
+| [Melancholia](https://open.spotify.com/track/6zhY7CX2x0fMlpEYWVwHwa) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza) | [Melancholia](https://open.spotify.com/album/552EhYcIuLGbNHy8hc77Gb) | 3:29 | 2026-02-20 | 2026-11-15 |
 | [Meliadi](https://open.spotify.com/track/7q0hKCMq8bSTB6z6BSXQ2a) | [il:lo](https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F) | [Meliadi](https://open.spotify.com/album/2uerceDrS1RHxnrpNq8Zz7) | 2:46 | 2021-10-01 | 2022-12-29 |
 | [Mellorinia](https://open.spotify.com/track/74evh7yr3rsJdLyYzNhyl1) | [Garlington](https://open.spotify.com/artist/0vpphNRtTdCcdrPShcqszB) | [Mellorinia](https://open.spotify.com/album/3LsEg36cLoDLx8dlyzm3v1) | 3:48 | 2022-12-09 | 2023-01-06 |
 | [Memories](https://open.spotify.com/track/6BiBQjBIl8ozwqRihm4hTV) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Memories](https://open.spotify.com/album/6FI3iFdhMbw1fwAsPH0Mz0) | 3:35 | 2025-04-11 | 2025-12-20 |

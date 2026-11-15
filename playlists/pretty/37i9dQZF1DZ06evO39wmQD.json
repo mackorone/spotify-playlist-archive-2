@@ -1,12 +1,12 @@
 {
   "description": "This is Auli'i Cravalho. The essential tracks, all in one playlist.",
-  "num_followers": 3433,
+  "num_followers": 3435,
   "original_name": "This Is Auli'i Cravalho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avUBgAAAAABRh0GSEBDs9a32fjWDltf/",
+  "snapshot_id": "avZTAAAAAADMwlsShhkYhGVMmHpZYM0K",
   "tracks": [
     {
       "added_at": null,
@@ -679,8 +679,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Guilty Ones (Rise Cast Version)",
-        "url": "https://open.spotify.com/album/1zU1HLS9kSGp9tzVRQDFLY"
+        "name": "Whispering (Rise Cast Version)",
+        "url": "https://open.spotify.com/album/3Y2tzDHGFKiEjgMJdB0eqA"
       },
       "artists": [
         {
@@ -690,15 +690,11 @@
         {
           "name": "Auli'i Cravalho",
           "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
-        },
-        {
-          "name": "Damon J. Gillespie",
-          "url": "https://open.spotify.com/artist/31XsoVTeHGOLgOtsv9nK8I"
         }
       ],
-      "duration_ms": 211956,
-      "name": "The Guilty Ones - Rise Cast Version",
-      "url": "https://open.spotify.com/track/0salYy0gJrLwAHZ73uYChV"
+      "duration_ms": 211013,
+      "name": "Whispering - Rise Cast Version",
+      "url": "https://open.spotify.com/track/2ccNGJuNDBjyUF1Hm2Rbv2"
     },
     {
       "added_at": null,
@@ -731,8 +727,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whispering (Rise Cast Version)",
-        "url": "https://open.spotify.com/album/3Y2tzDHGFKiEjgMJdB0eqA"
+        "name": "The Guilty Ones (Rise Cast Version)",
+        "url": "https://open.spotify.com/album/1zU1HLS9kSGp9tzVRQDFLY"
       },
       "artists": [
         {
@@ -742,11 +738,15 @@
         {
           "name": "Auli'i Cravalho",
           "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        },
+        {
+          "name": "Damon J. Gillespie",
+          "url": "https://open.spotify.com/artist/31XsoVTeHGOLgOtsv9nK8I"
         }
       ],
-      "duration_ms": 211013,
-      "name": "Whispering - Rise Cast Version",
-      "url": "https://open.spotify.com/track/2ccNGJuNDBjyUF1Hm2Rbv2"
+      "duration_ms": 211956,
+      "name": "The Guilty Ones - Rise Cast Version",
+      "url": "https://open.spotify.com/track/0salYy0gJrLwAHZ73uYChV"
     },
     {
       "added_at": null,

@@ -3519,6 +3519,24 @@
     },
     {
       "album": {
+        "name": "Magus",
+        "url": "https://open.spotify.com/album/4dViPrbDf2sIFrnL3tffsW"
+      },
+      "artists": [
+        {
+          "name": "Colossale",
+          "url": "https://open.spotify.com/artist/1eektsWsMeBWe0icYCQj2x"
+        }
+      ],
+      "date_added": "2026-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224397,
+      "name": "Perception spirituelle",
+      "url": "https://open.spotify.com/track/27mHz6qa3D5QugGToOToHV"
+    },
+    {
+      "album": {
         "name": "STARTING-BL\u00d8CK",
         "url": "https://open.spotify.com/album/243UJpkR8DD1Ma2OA0Kv0j"
       },

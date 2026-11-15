@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17QsVi.md) - [plain]
 
 > This is 2Pac\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,241,190 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,241,211 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,10 +15,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17QsVi.md) - [plain]
 | 5 | [Dear Mama](https://open.spotify.com/track/6tDxrq4FxEL2q15y37tXT9) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Me Against The World](https://open.spotify.com/album/3OrucS4sHv6Bl9GS4rafEk) | 4:40 |
 | 6 | [Ambitionz Az A Ridah](https://open.spotify.com/track/5g9lS8deSIxItFBmZRC4vN) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [All Eyez On Me](https://open.spotify.com/album/78iX7tMceN0FsnmabAtlOC) | 4:38 |
 | 7 | [Keep Ya Head Up](https://open.spotify.com/track/0XRbYXQUymj9SJkrr8YK5B) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Strictly 4 My N.I.G.G.A.Z...](https://open.spotify.com/album/7FK1855C3n1Q0RKbmvl7ll) | 4:22 |
-| 8 | [Lil' Homies](https://open.spotify.com/track/6vBMMa2erexusV4XrgXea9) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Until The End Of Time](https://open.spotify.com/album/0uT4bCZS9o5C1ThDa2VxpV) | 3:43 |
+| 8 | [Ghetto Gospel](https://open.spotify.com/track/7jLbTp3qZzah9kMIdW8e5M) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Loyal To The Game](https://open.spotify.com/album/33lk2GnP8cJzl7cd1OJrXn) | 3:58 |
 | 9 | [Changes](https://open.spotify.com/track/1ofhfV90EnYhEr7Un2fWiv) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Talent](https://open.spotify.com/artist/33JfM2NgTRFT9wMoQvcv6T) | [Greatest Hits](https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP) | 4:28 |
 | 10 | [2 Of Amerikaz Most Wanted \(ft\. Snoop Doggy Dogg\)](https://open.spotify.com/track/6LwrEZNkvFTOypNwSLjuaJ) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [All Eyez On Me](https://open.spotify.com/album/78iX7tMceN0FsnmabAtlOC) | 4:06 |
-| 11 | [Ghetto Gospel](https://open.spotify.com/track/7jLbTp3qZzah9kMIdW8e5M) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Loyal To The Game](https://open.spotify.com/album/33lk2GnP8cJzl7cd1OJrXn) | 3:58 |
+| 11 | [Lil' Homies](https://open.spotify.com/track/6vBMMa2erexusV4XrgXea9) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Until The End Of Time](https://open.spotify.com/album/0uT4bCZS9o5C1ThDa2VxpV) | 3:43 |
 | 12 | [So Many Tears](https://open.spotify.com/track/0NzNKU2MJ9LCetT2uZMJH2) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Me Against The World](https://open.spotify.com/album/3OrucS4sHv6Bl9GS4rafEk) | 3:59 |
 | 13 | [Hail Mary](https://open.spotify.com/track/2zoobJFEB9h15fjYjRd6oP) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Greatest Hits](https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP) | 5:12 |
 | 14 | [How Do U Want It \(ft\. K\-Ci & JoJo\)](https://open.spotify.com/track/2S2x5N5VJNn7vqYukvoFFC) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [K\-Ci & JoJo](https://open.spotify.com/artist/05RZIdfz59ZW2FvFuwnmNK) | [All Eyez On Me](https://open.spotify.com/album/78iX7tMceN0FsnmabAtlOC) | 4:47 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17QsVi.md) - [plain]
 | 39 | [Hellrazor](https://open.spotify.com/track/1zM8jy4HqgLD12XgHatfch) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [R U Still Down? \[Remember Me\]](https://open.spotify.com/album/7zURSbIVZ5vl3NIKkrVRvl) | 4:15 |
 | 40 | [Ballad Of A Dead Soulja](https://open.spotify.com/track/7tUw8Zf8a0OcCzU1MwZHOY) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Until The End Of Time](https://open.spotify.com/album/0uT4bCZS9o5C1ThDa2VxpV) | 4:15 |
 | 41 | [Still Ballin' \- Nitty Remix](https://open.spotify.com/track/5vU53TPzhzovjUL0oXoxZp) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Trick Daddy](https://open.spotify.com/artist/12FHARd9fY0Tu0ila4Ua25) | [Runnin' \(Dying To Live\)](https://open.spotify.com/album/0BwYq5h0gwbULEfhE10iA7) | 2:49 |
-| 42 | [Pac's Life](https://open.spotify.com/track/0kZnocAcgakb384KIJ9rZ9) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Pac's Life](https://open.spotify.com/album/5eVcXpQNaB4ILrocqaUdmT) | 3:37 |
-| 43 | [Soldier Like Me](https://open.spotify.com/track/36UjTTrSwaAqLkAlf2Ooc4) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Loyal To The Game](https://open.spotify.com/album/33lk2GnP8cJzl7cd1OJrXn) | 3:50 |
+| 42 | [Soldier Like Me](https://open.spotify.com/track/36UjTTrSwaAqLkAlf2Ooc4) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Loyal To The Game](https://open.spotify.com/album/33lk2GnP8cJzl7cd1OJrXn) | 3:50 |
+| 43 | [Pac's Life](https://open.spotify.com/track/0kZnocAcgakb384KIJ9rZ9) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Pac's Life](https://open.spotify.com/album/5eVcXpQNaB4ILrocqaUdmT) | 3:37 |
 | 44 | [Never Had A Friend Like Me](https://open.spotify.com/track/0CQGTqRcp8OS8wAO1BqWHU) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Gridlock'd \(The Soundtrack\)](https://open.spotify.com/album/5g7rRreBzEQmUP8wQTZTvl) | 4:26 |
 | 45 | [Pain](https://open.spotify.com/track/0YYLatZXRuNdjgu1Hduwry) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Stretch](https://open.spotify.com/artist/77dfG8syy9JTl5gA2l5ylj) | [Above The Rim \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/2mk5XOGtfuxx7ZqqjkwYVD) | 4:34 |
 | 46 | [Playa Cardz Right](https://open.spotify.com/track/0nJZDtAaqO7o9mb6YoBfqO) | [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3), [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [A Different Me](https://open.spotify.com/album/33e65SDeu5HhT5Iq7Gt2f4) | 4:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17QsVi.md) - [plain]
 | 49 | [Living in Pain \(feat\. 2Pac, Mary J\. Blige & Nas\)](https://open.spotify.com/track/37ZBmAekfkMcg6TQSo1fkL) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb), [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Duets: The Final Chapter](https://open.spotify.com/album/2M6rjUsC2T3KJ8Ku2uTTQG) | 4:01 |
 | 50 | [Unconditional Love](https://open.spotify.com/track/2boK2MX9CknrZyAQ8vlKHl) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Greatest Hits](https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP) | 3:58 |
 
-Snapshot ID: `avUBgAAAAAC/7Nt565OMgI82mzA5PCHU`
+Snapshot ID: `avZTAAAAAABm9mBBAr4rebsmiVT2Bz3h`

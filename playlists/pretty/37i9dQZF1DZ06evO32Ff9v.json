@@ -1,12 +1,12 @@
 {
   "description": "This is Los Farmerz. The essential tracks, all in one playlist.",
-  "num_followers": 60130,
+  "num_followers": 60148,
   "original_name": "This Is Los Farmerz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avUBgAAAAAD+10FPGqOx5iBYJrR+s876",
+  "snapshot_id": "avZTAAAAAAClzhfgQ9AlTq3kUeZHHBKu",
   "tracks": [
     {
       "added_at": null,
@@ -315,30 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Los Dientes Pa Fuera",
-        "url": "https://open.spotify.com/album/3rGviY23qfCvsHXiauzv19"
-      },
-      "artists": [
-        {
-          "name": "Los Alegres Del Barranco",
-          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        },
-        {
-          "name": "Los Farmerz",
-          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
-        }
-      ],
-      "duration_ms": 168664,
-      "name": "De Los Dientes Pa Fuera",
-      "url": "https://open.spotify.com/track/6U4MQb60Hkvv4ZS2Qwg3Lo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Buenas Tardes",
         "url": "https://open.spotify.com/album/32JOOGL0H1g27caRVFuuIE"
       },
@@ -359,6 +335,30 @@
       "duration_ms": 211051,
       "name": "El Buenas Tardes",
       "url": "https://open.spotify.com/track/1gb3SXBZ05dqxy7KD616m6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De Los Dientes Pa Fuera",
+        "url": "https://open.spotify.com/album/3rGviY23qfCvsHXiauzv19"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres Del Barranco",
+          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        },
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        }
+      ],
+      "duration_ms": 168664,
+      "name": "De Los Dientes Pa Fuera",
+      "url": "https://open.spotify.com/track/6U4MQb60Hkvv4ZS2Qwg3Lo"
     },
     {
       "added_at": null,
@@ -475,6 +475,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "De Que Puedo Puedo",
+        "url": "https://open.spotify.com/album/6is3m2C4CjKBQzjm36VPR0"
+      },
+      "artists": [
+        {
+          "name": "Los Inquietos Del Norte",
+          "url": "https://open.spotify.com/artist/0pgvlX0BkfmeirXTDiNmya"
+        },
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        }
+      ],
+      "duration_ms": 173789,
+      "name": "De Que Puedo Puedo",
+      "url": "https://open.spotify.com/track/3qnCn9WImrTRRaqIxC6WIN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Scrappy",
         "url": "https://open.spotify.com/album/2G32KZDrfUv4cpf4BJD959"
       },
@@ -495,26 +515,6 @@
       "duration_ms": 227551,
       "name": "El Scrappy",
       "url": "https://open.spotify.com/track/1AN1Jemy82iQlzbxMezAAG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "De Que Puedo Puedo",
-        "url": "https://open.spotify.com/album/6is3m2C4CjKBQzjm36VPR0"
-      },
-      "artists": [
-        {
-          "name": "Los Inquietos Del Norte",
-          "url": "https://open.spotify.com/artist/0pgvlX0BkfmeirXTDiNmya"
-        },
-        {
-          "name": "Los Farmerz",
-          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
-        }
-      ],
-      "duration_ms": 173789,
-      "name": "De Que Puedo Puedo",
-      "url": "https://open.spotify.com/track/3qnCn9WImrTRRaqIxC6WIN"
     },
     {
       "added_at": null,
@@ -575,18 +575,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se\u00f1or Miedo",
-        "url": "https://open.spotify.com/album/6erc20YBqIjgK1JaOaLnPb"
+        "name": "18 Segundos",
+        "url": "https://open.spotify.com/album/53Fh1PUaYyGf7FRHR3WPyt"
       },
       "artists": [
         {
           "name": "Los Farmerz",
           "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        },
+        {
+          "name": "Jes\u00fas Ojeda y Sus Parientes",
+          "url": "https://open.spotify.com/artist/3DVNivnmWy2nzzIneVr4Yk"
         }
       ],
-      "duration_ms": 232254,
-      "name": "Se\u00f1or Miedo",
-      "url": "https://open.spotify.com/track/3G5meYRoaJZ75cD1JUxUU6"
+      "duration_ms": 212377,
+      "name": "18 Segundos",
+      "url": "https://open.spotify.com/track/5rnUPCxcAO4m0nPrHqAloE"
     },
     {
       "added_at": null,
@@ -611,8 +615,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Puros de Encargo, Vol. 1",
-        "url": "https://open.spotify.com/album/7m6fUnC58u09gvmaaaAZTr"
+        "name": "Se\u00f1or Miedo",
+        "url": "https://open.spotify.com/album/6erc20YBqIjgK1JaOaLnPb"
       },
       "artists": [
         {
@@ -620,9 +624,9 @@
           "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
         }
       ],
-      "duration_ms": 247875,
-      "name": "Estratega de Guerra",
-      "url": "https://open.spotify.com/track/3npSHShqRhlhMSK1NuL3xm"
+      "duration_ms": 232254,
+      "name": "Se\u00f1or Miedo",
+      "url": "https://open.spotify.com/track/3G5meYRoaJZ75cD1JUxUU6"
     },
     {
       "added_at": null,
@@ -643,22 +647,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "18 Segundos",
-        "url": "https://open.spotify.com/album/53Fh1PUaYyGf7FRHR3WPyt"
+        "name": "Puros de Encargo, Vol. 1",
+        "url": "https://open.spotify.com/album/7m6fUnC58u09gvmaaaAZTr"
       },
       "artists": [
         {
           "name": "Los Farmerz",
           "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
-        },
-        {
-          "name": "Jes\u00fas Ojeda y Sus Parientes",
-          "url": "https://open.spotify.com/artist/3DVNivnmWy2nzzIneVr4Yk"
         }
       ],
-      "duration_ms": 212377,
-      "name": "18 Segundos",
-      "url": "https://open.spotify.com/track/5rnUPCxcAO4m0nPrHqAloE"
+      "duration_ms": 247875,
+      "name": "Estratega de Guerra",
+      "url": "https://open.spotify.com/track/3npSHShqRhlhMSK1NuL3xm"
     },
     {
       "added_at": null,
@@ -823,22 +823,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Caguamillo",
-        "url": "https://open.spotify.com/album/1Lsk54vHCJZFIzb0wsH0Em"
+        "name": "Puros de Encargo, Vol. 1",
+        "url": "https://open.spotify.com/album/7m6fUnC58u09gvmaaaAZTr"
       },
       "artists": [
         {
           "name": "Los Farmerz",
           "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
-        },
-        {
-          "name": "Alta Gama",
-          "url": "https://open.spotify.com/artist/1ZOQjTwtC0tXWf4FqCKA3m"
         }
       ],
-      "duration_ms": 191085,
-      "name": "El Caguamillo",
-      "url": "https://open.spotify.com/track/5iTCPbNS7QcfJzG8VToyMi"
+      "duration_ms": 166000,
+      "name": "Los Espino",
+      "url": "https://open.spotify.com/track/6udYryoxHPDExdMTpdF1lE"
     },
     {
       "added_at": null,
@@ -859,22 +855,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Puros de Encargo, Vol. 1",
-        "url": "https://open.spotify.com/album/7m6fUnC58u09gvmaaaAZTr"
-      },
-      "artists": [
-        {
-          "name": "Los Farmerz",
-          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Los Espino",
-      "url": "https://open.spotify.com/track/6udYryoxHPDExdMTpdF1lE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El De Las Plumas (En Vivo)",
         "url": "https://open.spotify.com/album/6BbEuFpMlAZVTnDwzHFg7k"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 179500,
       "name": "El De Las Plumas - En Vivo",
       "url": "https://open.spotify.com/track/2rhvsaKiqg0lZiLMv8h8zM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Caguamillo",
+        "url": "https://open.spotify.com/album/1Lsk54vHCJZFIzb0wsH0Em"
+      },
+      "artists": [
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        },
+        {
+          "name": "Alta Gama",
+          "url": "https://open.spotify.com/artist/1ZOQjTwtC0tXWf4FqCKA3m"
+        }
+      ],
+      "duration_ms": 191085,
+      "name": "El Caguamillo",
+      "url": "https://open.spotify.com/track/5iTCPbNS7QcfJzG8VToyMi"
     },
     {
       "added_at": null,

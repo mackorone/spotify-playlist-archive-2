@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 
 > These are some independent alternative rock bands you need to hear\. Updated weekly.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 933 likes - 65 songs - 3 hr 43 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 938 likes - 68 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,5 +73,8 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 | 63 | [Impossible Highs](https://open.spotify.com/track/3OVxd0CP3WqKZZcR5bv01Y) | [Seelenpein](https://open.spotify.com/artist/3zOFOdI46zJqqGMKYhUTDV), [Sonic Panda](https://open.spotify.com/artist/0b9czBoJTsWwxyjOdVK1RL) | [Impossible Highs](https://open.spotify.com/album/2iTVRC8XPaUn4bcsV7JP1q) | 3:30 |
 | 64 | [The Best I Ever Had](https://open.spotify.com/track/4kN0Ubypez9j3PwRsigim4) | [No Friends Left](https://open.spotify.com/artist/4SDEigdJCKwEnByUzQhgNj) | [The Best I Ever Had](https://open.spotify.com/album/1DoLpPzVKAP1rouoBVrgYU) | 4:05 |
 | 65 | [We Go High](https://open.spotify.com/track/400xZzpdwKLfcBpMMsxtfM) | [Sam Brace](https://open.spotify.com/artist/6aGaZJLvzxVCAcKV1nq0oH), [The Merciless Bronze](https://open.spotify.com/artist/7IVGe5SIp4zL7ORcomos5E) | [We Go High](https://open.spotify.com/album/06bJj8X2ci5w8lIBA1llYM) | 4:00 |
+| 66 | [Year Of Punk](https://open.spotify.com/track/37nDxc0a8SSorpRNFvQiYE) | [Sam Brace](https://open.spotify.com/artist/6aGaZJLvzxVCAcKV1nq0oH), [The Merciless Bronze](https://open.spotify.com/artist/3TWXXqRb1D85MC7HZAtvzK) | [Fever & Bones](https://open.spotify.com/album/1tkgilTKgANUhJuhw1SAhJ) | 3:29 |
+| 67 | [Reflection](https://open.spotify.com/track/4dX0OfG8roXvyO7PVfUwg7) | [AG Session](https://open.spotify.com/artist/2cG7L3KAgqNIDuR8Te8bGy) | [Guardians of the Phallicy](https://open.spotify.com/album/1onQnwCOdZxDvjoUS0YXJU) | 2:40 |
+| 68 | [Un Instant](https://open.spotify.com/track/4U4or2vzNiblQa6RX5pdn2) | [ToloV](https://open.spotify.com/artist/4t3awapuIDzb4fGOMWR35Q) | [Un Instant](https://open.spotify.com/album/61lbQnoTQLAPYH60zCC3Wv) | 2:58 |
 
-Snapshot ID: `AAAEI8aB9YgqgRRBxawlCXcwMr32zwTy`
+Snapshot ID: `AAAEJu/qAyNdZ7+0XN8nmXTnnKsQjpHz`

@@ -739,6 +739,28 @@
     },
     {
       "album": {
+        "name": "Mixing Colours",
+        "url": "https://open.spotify.com/album/20WDVLmfzGI6vlXNGoLyxf"
+      },
+      "artists": [
+        {
+          "name": "Roger Eno",
+          "url": "https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "date_added": "2026-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245466,
+      "name": "Cerulean Blue",
+      "url": "https://open.spotify.com/track/7IWrMlYzrsiM6IQoLh4gKm"
+    },
+    {
+      "album": {
         "name": "Chamber Lightness",
         "url": "https://open.spotify.com/album/2M6cIkpRhuCDhvAQIDUVGJ"
       },

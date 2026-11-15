@@ -4,7 +4,7 @@
 
 > This is Kris Bowers\. The essential tracks, all in one playlist.
 
-30 songs - 59 min 59 sec
+31 songs - 1 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [A Feeling I've Never Been](https://open.spotify.com/track/6GheQyWRdAQAtXa4PMNNNG) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ), [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Queen Charlotte: A Bridgerton Story \(Covers from the Netflix Series\)](https://open.spotify.com/album/7mNtOnVVRglXpqt7ksdjc8) | 3:44 | 2026-06-17 |  |
 | [A Gift For Edwina \- From the Netflix Series “Bridgerton Season Two”](https://open.spotify.com/track/6Lm25vtg4Z9RPyjzWwv5fz) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Bridgerton Season Two \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/4qhHu94GUvuG0WSxFilOte) | 1:01 | 2026-06-17 |  |
 | [A Grand Finish](https://open.spotify.com/track/3FbIz3EP8RtaYUyl5DvWwi) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Bridgerton \(Music from the Netflix Original Series\)](https://open.spotify.com/album/2bU8GVy0KNAzkONX5traPF) | 3:33 | 2026-06-17 |  |
+| [All Eyes on Ghana \(feat\. Dela Botri & Chineke! Orchestra\)](https://open.spotify.com/track/2VQ1Qj7JqIq4b9hPDLbG9a) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ), [Dela Botri](https://open.spotify.com/artist/62vt94pGfB3k1f309uvP5H), [Chineke! Orchestra](https://open.spotify.com/artist/7FKUsKktgY7Zf8iAL6wOls) | [The Eyes of Ghana \(Original Motion Picture Soundtrack\) \(feat\. Dela Botri & Chineke! Orchestra\)](https://open.spotify.com/album/6srXikTsoDvZ1DGgkAznmx) | 2:03 | 2026-11-15 |  |
 | [Almost Break Down \- from the Netflix Series "Queen Charlotte"](https://open.spotify.com/track/6LD9JOG2mCfJkFdBqoAf4Z) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Queen Charlotte: A Bridgerton Story \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0ypGVapqpAOTMmoT1oz6lo) | 1:37 | 2026-07-25 | 2026-07-26 |
 | [Almost Kiss \- from the Netflix Series "Queen Charlotte"](https://open.spotify.com/track/4clo8rW8pMDBKq6Ewz3APL) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Queen Charlotte: A Bridgerton Story \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0ypGVapqpAOTMmoT1oz6lo) | 1:23 | 2026-06-17 |  |
 | [Call Me Simon](https://open.spotify.com/track/5PytAiOdKz6I6omydllZjV) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Bridgerton \(Music from the Netflix Original Series\)](https://open.spotify.com/album/2bU8GVy0KNAzkONX5traPF) | 0:58 | 2026-06-17 |  |

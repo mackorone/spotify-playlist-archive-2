@@ -1,6 +1,6 @@
 {
   "description": "Distorted and rough around the edges.",
-  "num_followers": 553248,
+  "num_followers": 553341,
   "original_name": "Lo-Fi House",
   "owner": {
     "name": "Spotify",
@@ -523,22 +523,6 @@
     {
       "added_at": "2026-10-09 04:02:04",
       "album": {
-        "name": "VERTIGO",
-        "url": "https://open.spotify.com/album/6tmDmJFTJs5aegIe5OEB56"
-      },
-      "artists": [
-        {
-          "name": "Kronol",
-          "url": "https://open.spotify.com/artist/13Bm2FdMEKw4x8BJXCL1MI"
-        }
-      ],
-      "duration_ms": 233007,
-      "name": "VERTIGO",
-      "url": "https://open.spotify.com/track/0O7vGgLJBBVWiREZfm7GsX"
-    },
-    {
-      "added_at": "2026-10-09 04:02:04",
-      "album": {
         "name": "8",
         "url": "https://open.spotify.com/album/0VjEHFit3Jh83caJw3gvw0"
       },
@@ -575,6 +559,22 @@
     {
       "added_at": "2026-10-09 04:02:04",
       "album": {
+        "name": "VERTIGO",
+        "url": "https://open.spotify.com/album/6tmDmJFTJs5aegIe5OEB56"
+      },
+      "artists": [
+        {
+          "name": "Kronol",
+          "url": "https://open.spotify.com/artist/13Bm2FdMEKw4x8BJXCL1MI"
+        }
+      ],
+      "duration_ms": 233007,
+      "name": "VERTIGO",
+      "url": "https://open.spotify.com/track/0O7vGgLJBBVWiREZfm7GsX"
+    },
+    {
+      "added_at": "2026-10-09 04:02:04",
+      "album": {
         "name": "U Will Change My Mind",
         "url": "https://open.spotify.com/album/1jv5dzYHOkS3QniizFCaeV"
       },
@@ -607,30 +607,18 @@
     {
       "added_at": "2026-10-09 04:02:04",
       "album": {
-        "name": "Moon II Remixes Pt. II",
-        "url": "https://open.spotify.com/album/7xlT3P0bDwaphbAUhIYYpD"
+        "name": "Closer To The Essence",
+        "url": "https://open.spotify.com/album/0xwag0OCVGtybK0Y744oxX"
       },
       "artists": [
         {
-          "name": "Iron Curtis",
-          "url": "https://open.spotify.com/artist/3SxSMKGboN9d8DxDRIB7pH"
-        },
-        {
-          "name": "Johannes Albert",
-          "url": "https://open.spotify.com/artist/5FMcKm7A4LRwIJnkzuKZFt"
-        },
-        {
-          "name": "Lisa Toh",
-          "url": "https://open.spotify.com/artist/17oFlDwJ5mU3pfbUxArTCO"
-        },
-        {
-          "name": "Erdbeerschnitzel",
-          "url": "https://open.spotify.com/artist/36VqKnfwNzccEtS4eiFkMx"
+          "name": "Sweatson Klank",
+          "url": "https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT"
         }
       ],
-      "duration_ms": 277567,
-      "name": "Nektar Leftie MIX - Erdbeerschnitzel Remix",
-      "url": "https://open.spotify.com/track/5yHjIzK4HlP9pmnpTyKiyQ"
+      "duration_ms": 161152,
+      "name": "Closer To The Essence",
+      "url": "https://open.spotify.com/track/4s71CG9oYCvn9BUDL92X5J"
     },
     {
       "added_at": "2026-10-09 04:02:04",
@@ -655,18 +643,30 @@
     {
       "added_at": "2026-10-09 04:02:04",
       "album": {
-        "name": "Closer To The Essence",
-        "url": "https://open.spotify.com/album/0xwag0OCVGtybK0Y744oxX"
+        "name": "Moon II Remixes Pt. II",
+        "url": "https://open.spotify.com/album/7xlT3P0bDwaphbAUhIYYpD"
       },
       "artists": [
         {
-          "name": "Sweatson Klank",
-          "url": "https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT"
+          "name": "Iron Curtis",
+          "url": "https://open.spotify.com/artist/3SxSMKGboN9d8DxDRIB7pH"
+        },
+        {
+          "name": "Johannes Albert",
+          "url": "https://open.spotify.com/artist/5FMcKm7A4LRwIJnkzuKZFt"
+        },
+        {
+          "name": "Lisa Toh",
+          "url": "https://open.spotify.com/artist/17oFlDwJ5mU3pfbUxArTCO"
+        },
+        {
+          "name": "Erdbeerschnitzel",
+          "url": "https://open.spotify.com/artist/36VqKnfwNzccEtS4eiFkMx"
         }
       ],
-      "duration_ms": 161152,
-      "name": "Closer To The Essence",
-      "url": "https://open.spotify.com/track/4s71CG9oYCvn9BUDL92X5J"
+      "duration_ms": 277567,
+      "name": "Nektar Leftie MIX - Erdbeerschnitzel Remix",
+      "url": "https://open.spotify.com/track/5yHjIzK4HlP9pmnpTyKiyQ"
     },
     {
       "added_at": "2026-10-09 04:02:04",
@@ -847,6 +847,22 @@
     {
       "added_at": "2026-10-09 04:02:04",
       "album": {
+        "name": "Interlife",
+        "url": "https://open.spotify.com/album/6QIBDUk1b28H4aq45gaqT1"
+      },
+      "artists": [
+        {
+          "name": "Aroma Pitch",
+          "url": "https://open.spotify.com/artist/4ZZJe4oBObVPp44pPiwhdC"
+        }
+      ],
+      "duration_ms": 281531,
+      "name": "Lotus Bass",
+      "url": "https://open.spotify.com/track/6HZ2zvOAWZGhp9tT8CxPz4"
+    },
+    {
+      "added_at": "2026-10-09 04:02:04",
+      "album": {
         "name": "Polar Circle",
         "url": "https://open.spotify.com/album/4X5z40sunDktW8g0axnzdB"
       },
@@ -883,18 +899,18 @@
     {
       "added_at": "2026-10-09 04:02:04",
       "album": {
-        "name": "Interlife",
-        "url": "https://open.spotify.com/album/6QIBDUk1b28H4aq45gaqT1"
+        "name": "Celestial Bean",
+        "url": "https://open.spotify.com/album/3QCUXz4wngUboH05FtdduI"
       },
       "artists": [
         {
-          "name": "Aroma Pitch",
-          "url": "https://open.spotify.com/artist/4ZZJe4oBObVPp44pPiwhdC"
+          "name": "Half Dead Dave",
+          "url": "https://open.spotify.com/artist/7jnSEc8AP86RKGbWMkWnyR"
         }
       ],
-      "duration_ms": 281531,
-      "name": "Lotus Bass",
-      "url": "https://open.spotify.com/track/6HZ2zvOAWZGhp9tT8CxPz4"
+      "duration_ms": 281339,
+      "name": "Ursa Minor",
+      "url": "https://open.spotify.com/track/1fAE8kdcaCxyva7Ctqa7mm"
     },
     {
       "added_at": "2026-10-09 04:02:04",
@@ -911,22 +927,6 @@
       "duration_ms": 229368,
       "name": "Cool Because You Wear Carhartt",
       "url": "https://open.spotify.com/track/31mGLcbHzIklk8uTifS7dD"
-    },
-    {
-      "added_at": "2026-10-09 04:02:04",
-      "album": {
-        "name": "Celestial Bean",
-        "url": "https://open.spotify.com/album/3QCUXz4wngUboH05FtdduI"
-      },
-      "artists": [
-        {
-          "name": "Half Dead Dave",
-          "url": "https://open.spotify.com/artist/7jnSEc8AP86RKGbWMkWnyR"
-        }
-      ],
-      "duration_ms": 281339,
-      "name": "Ursa Minor",
-      "url": "https://open.spotify.com/track/1fAE8kdcaCxyva7Ctqa7mm"
     },
     {
       "added_at": "2026-10-09 04:02:04",
@@ -963,22 +963,6 @@
     {
       "added_at": "2026-10-09 04:02:04",
       "album": {
-        "name": "Alone Girl",
-        "url": "https://open.spotify.com/album/4v4E87v7TwXmwdgnceN6F8"
-      },
-      "artists": [
-        {
-          "name": "Grey Killer",
-          "url": "https://open.spotify.com/artist/7D8eeQLyAJQnmyoQ74MJnb"
-        }
-      ],
-      "duration_ms": 188852,
-      "name": "Alone Girl",
-      "url": "https://open.spotify.com/track/2j2clSPCLFbBqNVS6MPR8q"
-    },
-    {
-      "added_at": "2026-10-09 04:02:04",
-      "album": {
         "name": "Ocean Drift",
         "url": "https://open.spotify.com/album/4WX97pFfrHMvW1nORbpPF2"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 136666,
       "name": "Ocean Drift",
       "url": "https://open.spotify.com/track/1vBZaWEUbwo3bUfyrI5VRb"
+    },
+    {
+      "added_at": "2026-10-09 04:02:04",
+      "album": {
+        "name": "Alone Girl",
+        "url": "https://open.spotify.com/album/4v4E87v7TwXmwdgnceN6F8"
+      },
+      "artists": [
+        {
+          "name": "Grey Killer",
+          "url": "https://open.spotify.com/artist/7D8eeQLyAJQnmyoQ74MJnb"
+        }
+      ],
+      "duration_ms": 188852,
+      "name": "Alone Girl",
+      "url": "https://open.spotify.com/track/2j2clSPCLFbBqNVS6MPR8q"
     },
     {
       "added_at": "2026-10-09 04:02:04",

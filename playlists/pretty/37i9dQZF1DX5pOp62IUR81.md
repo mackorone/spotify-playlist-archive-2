@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pOp62IUR81.md) - [plain]
 
 > Doomsday is coming\. Listen to your favorite Marvel themes and get ready for Avengers: Doomsday in theaters soon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,671 likes - 80 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,691 likes - 80 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

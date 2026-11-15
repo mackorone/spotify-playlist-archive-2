@@ -1,12 +1,12 @@
 {
   "description": "It&#x27;s 5 o&#x27;clock somewhere and best believe there&#x27;s a local band there ready to rock when the sun goes down.",
-  "num_followers": 627,
+  "num_followers": 628,
   "original_name": "Local Rock Bands",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAACYyqknP+pODHEqwBQPjgn2ElXQqHL",
+  "snapshot_id": "AAACZArBWDgrSGmTctg9whxKpMCGLRVw",
   "tracks": [
     {
       "added_at": "2025-09-16 13:19:37",
@@ -1215,6 +1215,26 @@
       "duration_ms": 198693,
       "name": "Immortalized",
       "url": "https://open.spotify.com/track/4kk2VWSqNOb6vL7N0id4tn"
+    },
+    {
+      "added_at": "2026-11-14 18:03:04",
+      "album": {
+        "name": "Black Soul Vendetta",
+        "url": "https://open.spotify.com/album/3Q1t7CRjx91TZjWu15fpXn"
+      },
+      "artists": [
+        {
+          "name": "Eric Dover",
+          "url": "https://open.spotify.com/artist/7gsPTHnMvjXV2j2yI5o7rA"
+        },
+        {
+          "name": "Devilfire",
+          "url": "https://open.spotify.com/artist/4NzMsvQzasrFhegc5P5zLn"
+        }
+      ],
+      "duration_ms": 237893,
+      "name": "Chasing The Pain",
+      "url": "https://open.spotify.com/track/1QTIeW4raevjoFoqCnpyJN"
     }
   ],
   "unique_name": "Local Rock Bands",

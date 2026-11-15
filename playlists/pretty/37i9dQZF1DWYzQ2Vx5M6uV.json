@@ -1,6 +1,6 @@
 {
   "description": "Latin Afrobeats heat that will make you sweat \ud83e\udd75 Cover: Luister La Voz & Manuel Turizo",
-  "num_followers": 142920,
+  "num_followers": 142923,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2026-11-13 05:01:14",
       "album": {
+        "name": "MI ALGO",
+        "url": "https://open.spotify.com/album/02vBvKtAgM31xInDIxX6jh"
+      },
+      "artists": [
+        {
+          "name": "iZaak",
+          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
+        }
+      ],
+      "duration_ms": 176845,
+      "name": "MI ALGO",
+      "url": "https://open.spotify.com/track/05VmV2lcHrbu8rD2reWJLK"
+    },
+    {
+      "added_at": "2026-11-13 05:01:14",
+      "album": {
         "name": "Botecito",
         "url": "https://open.spotify.com/album/7HHY5Rr3nTYhQrmXBt1uTH"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 156000,
       "name": "Botecito",
       "url": "https://open.spotify.com/track/5nhB1ijVzD2PKCkPAHP8Qy"
-    },
-    {
-      "added_at": "2026-11-13 05:01:14",
-      "album": {
-        "name": "MI ALGO",
-        "url": "https://open.spotify.com/album/02vBvKtAgM31xInDIxX6jh"
-      },
-      "artists": [
-        {
-          "name": "iZaak",
-          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
-        }
-      ],
-      "duration_ms": 176845,
-      "name": "MI ALGO",
-      "url": "https://open.spotify.com/track/05VmV2lcHrbu8rD2reWJLK"
     },
     {
       "added_at": "2026-11-13 05:01:14",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2026-11-13 05:01:14",
       "album": {
+        "name": "Pulserita (Ay Mi Reina)",
+        "url": "https://open.spotify.com/album/4DPJBt3flFLlxKmotD9ael"
+      },
+      "artists": [
+        {
+          "name": "Zaider",
+          "url": "https://open.spotify.com/artist/5Wuz885csKSCJoBNsOSCxz"
+        }
+      ],
+      "duration_ms": 161373,
+      "name": "Pulserita (Ay Mi Reina)",
+      "url": "https://open.spotify.com/track/4S7NRfucXN5fYigR21vJ4v"
+    },
+    {
+      "added_at": "2026-11-13 05:01:14",
+      "album": {
         "name": "Loba",
         "url": "https://open.spotify.com/album/5bTpqqGwy5jbaKeOtan1f3"
       },
@@ -1751,22 +1767,22 @@
     {
       "added_at": "2026-11-13 05:01:14",
       "album": {
-        "name": "Normal",
-        "url": "https://open.spotify.com/album/1M9Zk1oRRV2ZWkszoa0Yt1"
+        "name": "No Esperes",
+        "url": "https://open.spotify.com/album/6PglUUr1rmg4MsS5icSGvW"
       },
       "artists": [
         {
-          "name": "Jeeiph",
-          "url": "https://open.spotify.com/artist/6ZtLRqHEkAXPWVw0eRbDac"
+          "name": "Venesti",
+          "url": "https://open.spotify.com/artist/50oHbeWPotfWlzdi4bojSU"
         },
         {
-          "name": "K\u00e9nsel Tell Them",
-          "url": "https://open.spotify.com/artist/0Zx2tpZDTuKR3qudWCNSH5"
+          "name": "Shine TTW",
+          "url": "https://open.spotify.com/artist/5MMagWgGKYleThIlmQp6wn"
         }
       ],
-      "duration_ms": 131022,
-      "name": "Normal",
-      "url": "https://open.spotify.com/track/61gjmSPSIADsbIMf5tAKk2"
+      "duration_ms": 194347,
+      "name": "No Esperes",
+      "url": "https://open.spotify.com/track/3f15uZz4sb219FssrK3E4i"
     },
     {
       "added_at": "2026-11-13 05:01:14",
@@ -1791,22 +1807,22 @@
     {
       "added_at": "2026-11-13 05:01:14",
       "album": {
-        "name": "No Esperes",
-        "url": "https://open.spotify.com/album/6PglUUr1rmg4MsS5icSGvW"
+        "name": "Normal",
+        "url": "https://open.spotify.com/album/1M9Zk1oRRV2ZWkszoa0Yt1"
       },
       "artists": [
         {
-          "name": "Venesti",
-          "url": "https://open.spotify.com/artist/50oHbeWPotfWlzdi4bojSU"
+          "name": "Jeeiph",
+          "url": "https://open.spotify.com/artist/6ZtLRqHEkAXPWVw0eRbDac"
         },
         {
-          "name": "Shine TTW",
-          "url": "https://open.spotify.com/artist/5MMagWgGKYleThIlmQp6wn"
+          "name": "K\u00e9nsel Tell Them",
+          "url": "https://open.spotify.com/artist/0Zx2tpZDTuKR3qudWCNSH5"
         }
       ],
-      "duration_ms": 194347,
-      "name": "No Esperes",
-      "url": "https://open.spotify.com/track/3f15uZz4sb219FssrK3E4i"
+      "duration_ms": 131022,
+      "name": "Normal",
+      "url": "https://open.spotify.com/track/61gjmSPSIADsbIMf5tAKk2"
     },
     {
       "added_at": "2026-11-13 05:01:14",
@@ -1823,6 +1839,22 @@
       "duration_ms": 192230,
       "name": "Ese Habladito",
       "url": "https://open.spotify.com/track/4GwlidJhEFaJ5wSryBFvrf"
+    },
+    {
+      "added_at": "2026-11-13 05:01:14",
+      "album": {
+        "name": "Cafecito",
+        "url": "https://open.spotify.com/album/3J8oDzy6ixnEzhoxbADylh"
+      },
+      "artists": [
+        {
+          "name": "Junior Zamora",
+          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
+        }
+      ],
+      "duration_ms": 163516,
+      "name": "Cafecito",
+      "url": "https://open.spotify.com/track/0GBXXZLa3z9BQTeSK5ZmW3"
     },
     {
       "added_at": "2026-11-13 05:01:14",
@@ -1847,22 +1879,6 @@
     {
       "added_at": "2026-11-13 05:01:14",
       "album": {
-        "name": "Cafecito",
-        "url": "https://open.spotify.com/album/3J8oDzy6ixnEzhoxbADylh"
-      },
-      "artists": [
-        {
-          "name": "Junior Zamora",
-          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
-        }
-      ],
-      "duration_ms": 163516,
-      "name": "Cafecito",
-      "url": "https://open.spotify.com/track/0GBXXZLa3z9BQTeSK5ZmW3"
-    },
-    {
-      "added_at": "2026-11-13 05:01:14",
-      "album": {
         "name": "Puntos Suspensivos",
         "url": "https://open.spotify.com/album/3oUsMQAhvY3PzAw6sT0y03"
       },
@@ -1875,30 +1891,6 @@
       "duration_ms": 138673,
       "name": "Puntos Suspensivos",
       "url": "https://open.spotify.com/track/158YjH4OfLhG3AuUalaFUE"
-    },
-    {
-      "added_at": "2026-11-13 05:01:14",
-      "album": {
-        "name": "Volvamos",
-        "url": "https://open.spotify.com/album/6Vatwc1dDUYJiDRWB7im4e"
-      },
-      "artists": [
-        {
-          "name": "Yarge",
-          "url": "https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4"
-        },
-        {
-          "name": "Lucauy",
-          "url": "https://open.spotify.com/artist/5bm3h7dBIpjofczY1v8jD4"
-        },
-        {
-          "name": "youngkinez",
-          "url": "https://open.spotify.com/artist/5JwmmFvakv0jxaM6mj4lsf"
-        }
-      ],
-      "duration_ms": 178181,
-      "name": "Volvamos",
-      "url": "https://open.spotify.com/track/3ew2B1G5nw54y8kpGaMNbm"
     }
   ],
   "unique_name": "Afro Ritmo",

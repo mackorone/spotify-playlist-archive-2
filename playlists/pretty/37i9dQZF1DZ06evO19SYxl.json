@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avUBgAAAAAB5md78IQvZfoXS3x6wcgIh",
+  "snapshot_id": "avZTAAAAAADwY7egDkbK0V2h6SGR6iOL",
   "tracks": [
     {
       "added_at": null,
@@ -375,22 +375,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tex Tex 3",
-        "url": "https://open.spotify.com/album/5BuYyEm2Snig5UeVJZpX0H"
-      },
-      "artists": [
-        {
-          "name": "Tex Tex",
-          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
-        }
-      ],
-      "duration_ms": 252055,
-      "name": "Despedazado",
-      "url": "https://open.spotify.com/track/1MjmLzB2iNhtGfGi7EhoGw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Srita Martinez Punk",
         "url": "https://open.spotify.com/album/7zUKgICWPou4BmMc0cYNGV"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 167706,
       "name": "Ahora Ya No Te Quiero",
       "url": "https://open.spotify.com/track/5yAxyJy2Q94AJM2NKlsYZK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tex Tex 3",
+        "url": "https://open.spotify.com/album/5BuYyEm2Snig5UeVJZpX0H"
+      },
+      "artists": [
+        {
+          "name": "Tex Tex",
+          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
+        }
+      ],
+      "duration_ms": 252055,
+      "name": "Despedazado",
+      "url": "https://open.spotify.com/track/1MjmLzB2iNhtGfGi7EhoGw"
     },
     {
       "added_at": null,
@@ -487,22 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Un Toque M\u00e1gico",
-        "url": "https://open.spotify.com/album/3zzCO3IF6stGacEWhcQch4"
-      },
-      "artists": [
-        {
-          "name": "Tex Tex",
-          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
-        }
-      ],
-      "duration_ms": 156395,
-      "name": "Devuelvelo",
-      "url": "https://open.spotify.com/track/1aDWrIwFmHwWV7yaf91f6r"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tex Tex 3",
         "url": "https://open.spotify.com/album/5BuYyEm2Snig5UeVJZpX0H"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 199862,
       "name": "Pancho Panchito",
       "url": "https://open.spotify.com/track/6C6d8o2Hh5wxaYPr76bhMC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Un Toque M\u00e1gico",
+        "url": "https://open.spotify.com/album/3zzCO3IF6stGacEWhcQch4"
+      },
+      "artists": [
+        {
+          "name": "Tex Tex",
+          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
+        }
+      ],
+      "duration_ms": 156395,
+      "name": "Devuelvelo",
+      "url": "https://open.spotify.com/track/1aDWrIwFmHwWV7yaf91f6r"
     },
     {
       "added_at": null,
@@ -535,22 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "*86",
-        "url": "https://open.spotify.com/album/2A8yt2oR5jQKQusczF0jyA"
-      },
-      "artists": [
-        {
-          "name": "Tex Tex",
-          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
-        }
-      ],
-      "duration_ms": 165480,
-      "name": "Esta en Su Mes",
-      "url": "https://open.spotify.com/track/1dDxW5wlaNO7GVLVgNsdwo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Te Vas a Acordar de Mi",
         "url": "https://open.spotify.com/album/3UWvD8vARmr4oXYLRfSXEP"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 239026,
       "name": "Vestido Blanco",
       "url": "https://open.spotify.com/track/3WVRoIs8UO1OV89G3ezp6O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "*86",
+        "url": "https://open.spotify.com/album/2A8yt2oR5jQKQusczF0jyA"
+      },
+      "artists": [
+        {
+          "name": "Tex Tex",
+          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
+        }
+      ],
+      "duration_ms": 165480,
+      "name": "Esta en Su Mes",
+      "url": "https://open.spotify.com/track/1dDxW5wlaNO7GVLVgNsdwo"
     },
     {
       "added_at": null,
@@ -599,22 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "*86",
-        "url": "https://open.spotify.com/album/2A8yt2oR5jQKQusczF0jyA"
-      },
-      "artists": [
-        {
-          "name": "Tex Tex",
-          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
-        }
-      ],
-      "duration_ms": 196186,
-      "name": "Se Fue Con Otro",
-      "url": "https://open.spotify.com/track/7qwhXFE0IF2c7nCnIyRggF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Un Toque M\u00e1gico",
         "url": "https://open.spotify.com/album/3zzCO3IF6stGacEWhcQch4"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 106344,
       "name": "San Francisco",
       "url": "https://open.spotify.com/track/0ZS7t81n7h6VByNbogOOIB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "*86",
+        "url": "https://open.spotify.com/album/2A8yt2oR5jQKQusczF0jyA"
+      },
+      "artists": [
+        {
+          "name": "Tex Tex",
+          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
+        }
+      ],
+      "duration_ms": 196186,
+      "name": "Se Fue Con Otro",
+      "url": "https://open.spotify.com/track/7qwhXFE0IF2c7nCnIyRggF"
     },
     {
       "added_at": null,
@@ -647,8 +647,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Haces Volar",
-        "url": "https://open.spotify.com/album/258YrXJW3cZPhinJpiCKef"
+        "name": "La Fiesta",
+        "url": "https://open.spotify.com/album/5NMDR1l1QRdzUgOQNlFNN8"
       },
       "artists": [
         {
@@ -656,25 +656,9 @@
           "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
         }
       ],
-      "duration_ms": 320733,
-      "name": "Teor\u00eda de Caos",
-      "url": "https://open.spotify.com/track/7HQCXa85x99iHBezrwowDY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Los Mu\u00f1ecos Desenchufados (En Vivo) [Serie Alive]",
-        "url": "https://open.spotify.com/album/7pixSb8mEYaDg1Nk6oak9I"
-      },
-      "artists": [
-        {
-          "name": "Tex Tex",
-          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
-        }
-      ],
-      "duration_ms": 264480,
-      "name": "Dinero - En Vivo",
-      "url": "https://open.spotify.com/track/5C82BHmoJImku3MZbDaITZ"
+      "duration_ms": 201133,
+      "name": "Asesinos del Rock",
+      "url": "https://open.spotify.com/track/5PrzzhjU0EiN2ryEdVnsDB"
     },
     {
       "added_at": null,
@@ -695,8 +679,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Fiesta",
-        "url": "https://open.spotify.com/album/5NMDR1l1QRdzUgOQNlFNN8"
+        "name": "Los Mu\u00f1ecos Desenchufados (En Vivo) [Serie Alive]",
+        "url": "https://open.spotify.com/album/7pixSb8mEYaDg1Nk6oak9I"
       },
       "artists": [
         {
@@ -704,9 +688,9 @@
           "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
         }
       ],
-      "duration_ms": 201133,
-      "name": "Asesinos del Rock",
-      "url": "https://open.spotify.com/track/5PrzzhjU0EiN2ryEdVnsDB"
+      "duration_ms": 264480,
+      "name": "Dinero - En Vivo",
+      "url": "https://open.spotify.com/track/5C82BHmoJImku3MZbDaITZ"
     },
     {
       "added_at": null,
@@ -720,9 +704,9 @@
           "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
         }
       ],
-      "duration_ms": 320960,
-      "name": "Vengador An\u00f3nimo",
-      "url": "https://open.spotify.com/track/4YmEl8T1rbGyNifdmB7tTp"
+      "duration_ms": 320733,
+      "name": "Teor\u00eda de Caos",
+      "url": "https://open.spotify.com/track/7HQCXa85x99iHBezrwowDY"
     },
     {
       "added_at": null,
@@ -771,6 +755,22 @@
       "duration_ms": 311760,
       "name": "Funky, Pt. 1 - En Vivo",
       "url": "https://open.spotify.com/track/5gYOs5IL03sXdbsYT58xeI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me Haces Volar",
+        "url": "https://open.spotify.com/album/258YrXJW3cZPhinJpiCKef"
+      },
+      "artists": [
+        {
+          "name": "Tex Tex",
+          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
+        }
+      ],
+      "duration_ms": 320960,
+      "name": "Vengador An\u00f3nimo",
+      "url": "https://open.spotify.com/track/4YmEl8T1rbGyNifdmB7tTp"
     },
     {
       "added_at": null,

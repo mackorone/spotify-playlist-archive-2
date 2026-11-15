@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Maguey. The essential tracks, all in one playlist.",
-  "num_followers": 42020,
+  "num_followers": 42027,
   "original_name": "This Is Banda Maguey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avUBgAAAAADeq/BNh2imwV1i7oPL589i",
+  "snapshot_id": "avZTAAAAAACnqGpO+ZJ3H2YbkXV5I+NF",
   "tracks": [
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Nueva Era de la Quebradita",
-        "url": "https://open.spotify.com/album/4eO0RJcjWhS6mEwObol6Bc"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 193593,
-      "name": "Un Rayo de Sol",
-      "url": "https://open.spotify.com/track/5TNDSVqgDuN5pYl251Tihk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Mundo Gira",
         "url": "https://open.spotify.com/album/1vimqXrW4MdMYpPeliSFF9"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 153866,
       "name": "Bikini Azul",
       "url": "https://open.spotify.com/track/3xH8Eco7vqjWYoitjK8cds"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Nueva Era de la Quebradita",
+        "url": "https://open.spotify.com/album/4eO0RJcjWhS6mEwObol6Bc"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 193593,
+      "name": "Un Rayo de Sol",
+      "url": "https://open.spotify.com/track/5TNDSVqgDuN5pYl251Tihk"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Nueva Era de la Quebradita",
-        "url": "https://open.spotify.com/album/4eO0RJcjWhS6mEwObol6Bc"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 195361,
-      "name": "El Caderazo",
-      "url": "https://open.spotify.com/track/0QXL1Y9KtEHoMonrMVLJtL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u00c9xitos de Oro",
         "url": "https://open.spotify.com/album/6IpONMMEs5dxZEhkA18Uyq"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 222820,
       "name": "Dulce Veneno",
       "url": "https://open.spotify.com/track/1rBVDXcKRhbk6LF1ymr9bE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Nueva Era de la Quebradita",
+        "url": "https://open.spotify.com/album/4eO0RJcjWhS6mEwObol6Bc"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 195361,
+      "name": "El Caderazo",
+      "url": "https://open.spotify.com/track/0QXL1Y9KtEHoMonrMVLJtL"
     },
     {
       "added_at": null,

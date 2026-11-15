@@ -1,12 +1,12 @@
 {
   "description": "This is Alfredo Olivas. The essential tracks, all in one playlist.",
-  "num_followers": 1106881,
+  "num_followers": 1107061,
   "original_name": "This Is Alfredo Olivas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avUBgAAAAAA7Hee2LDyk/Q0nAEppotZO",
+  "snapshot_id": "avZTAAAAAABDtAzHlmczOIP8UHN1jO/W",
   "tracks": [
     {
       "added_at": null,
@@ -839,18 +839,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "As\u00ed Es Esto",
-        "url": "https://open.spotify.com/album/5t3QwyKSV5oww8T0eB26mB"
+        "name": "Los Inadaptados",
+        "url": "https://open.spotify.com/album/0pqtN2NU3yn1ytONbzmyV2"
       },
       "artists": [
         {
           "name": "Alfredo Olivas",
           "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        },
+        {
+          "name": "La Ventaja",
+          "url": "https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD"
         }
       ],
-      "duration_ms": 221013,
-      "name": "El Cuestionario",
-      "url": "https://open.spotify.com/track/0BbBubEZhUbsJwpKJhMBgd"
+      "duration_ms": 175066,
+      "name": "Los Inadaptados",
+      "url": "https://open.spotify.com/track/6wSNlHD3erBXQFTlfYr6Jo"
     }
   ],
   "unique_name": "This Is Alfredo Olivas",

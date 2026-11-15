@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Belly Gang Kushington, Offset, Don Toliver and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 397,775 likes - 74 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 397,866 likes - 74 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

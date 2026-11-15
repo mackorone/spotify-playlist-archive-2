@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXj0W55phbFm.md) - [plain]
 
 > The classic trumpet players in Jazz\. Cover: Miles Davis
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,661 likes - 100 songs - 10 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,691 likes - 100 songs - 10 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXj0W55phbFm.md) - [plain]
 | 42 | [Easy To Remember](https://open.spotify.com/track/0QKbUoVUNbmxpOaURXiday) | [Roy Hargrove](https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs) | [Approaching Standards](https://open.spotify.com/album/1OGhqJimAFVAtyX7PKbakD) | 6:09 |
 | 43 | [Moten Swing \- Remastered](https://open.spotify.com/track/3sWqSY5y19xWDjjG58jtBS) | [Jonah Jones](https://open.spotify.com/artist/5u7FXbK7whWNTbgeicnbG9) | [Jumpin' With Jonah](https://open.spotify.com/album/7LUrssAM48grNDmYreSiXS) | 3:13 |
 | 44 | [Comin' Down](https://open.spotify.com/track/60EjvhLsxvgFbkQR6s4Jsx) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Baby Breeze \(Expanded Edition\)](https://open.spotify.com/album/4FwmVb94KamiFQNi2uslNM) | 4:28 |
-| 45 | [All Or Nothing At All \- Remastered 2002/Rudy Van Gelder Edition](https://open.spotify.com/track/7AA3gxoDwLN8NuVfZ5NEt9) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [Open Sesame \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/4WF3FMkvyd8Ogh2Hz76C9v) | 5:36 |
-| 46 | [I'll Close My Eyes](https://open.spotify.com/track/24RZ9XFnZ78RTtKld1s4Fq) | [Dizzy Reece](https://open.spotify.com/artist/748mYOdaWuFH4wXCvsvInR) | [Star Bright](https://open.spotify.com/album/3mVCxKC9Mco9NVcZYtOcn9) | 5:57 |
+| 45 | [I'll Close My Eyes](https://open.spotify.com/track/24RZ9XFnZ78RTtKld1s4Fq) | [Dizzy Reece](https://open.spotify.com/artist/748mYOdaWuFH4wXCvsvInR) | [Star Bright](https://open.spotify.com/album/3mVCxKC9Mco9NVcZYtOcn9) | 5:57 |
+| 46 | [All Or Nothing At All \- Remastered 2002/Rudy Van Gelder Edition](https://open.spotify.com/track/7AA3gxoDwLN8NuVfZ5NEt9) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [Open Sesame \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/4WF3FMkvyd8Ogh2Hz76C9v) | 5:36 |
 | 47 | [Con Alma](https://open.spotify.com/track/3cJZT2monFlaNCgXvuDQwZ) | [Dizzy Gillespie](https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn) | [Dizzy 100](https://open.spotify.com/album/5DGcQGe6AvE5LGdYyZlHfn) | 5:03 |
 | 48 | [What Reason Could I Give](https://open.spotify.com/track/0JRq65dblAmI3REEchAfF8) | [Don Cherry](https://open.spotify.com/artist/3uPWecBPNXAChysw1uOJwI), [Lennart Aberg](https://open.spotify.com/artist/3ZXO6RQeKC6PYzXqi7xe41), [Bobo Stenson](https://open.spotify.com/artist/4K2Ys4NwPXEYomQrKwAeZc), [Anders Jormin](https://open.spotify.com/artist/4GyvHXnvKDjmMjMQJmsOTy), [Anders Kjellberg](https://open.spotify.com/artist/0D3y6CpkVuUv11mosURP98), [Okay Temiz](https://open.spotify.com/artist/6yajM6C42NTolTtmV0q2cq) | [Dona Nostra](https://open.spotify.com/album/5ld8MkClrbCUoPIud5B80N) | 3:47 |
 | 49 | [Lady Bird](https://open.spotify.com/track/1vefcOBRQ83aE7tMO33njz) | [Fats Navarro](https://open.spotify.com/artist/0w2MvntXz3P5Ko3oslGJoG), [Tadd Dameron Sextet](https://open.spotify.com/artist/7kJFzwZwq2B88RzIY3rfJe) | [Fats Navarro Memorial Album](https://open.spotify.com/album/3clL5Ml3ZB7v4T4AYwRprQ) | 2:51 |

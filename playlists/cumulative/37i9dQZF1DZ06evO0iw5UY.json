@@ -1351,6 +1351,28 @@
     },
     {
       "album": {
+        "name": "ONE LIFE",
+        "url": "https://open.spotify.com/album/1KWmIGhbweDzk3R7RUlHBW"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        },
+        {
+          "name": "Manila Killa",
+          "url": "https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN"
+        }
+      ],
+      "date_added": "2026-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220689,
+      "name": "ONE LIFE",
+      "url": "https://open.spotify.com/track/20Ng8SVSE2LJi9jfqgCJ88"
+    },
+    {
+      "album": {
         "name": "Play Hard EP",
         "url": "https://open.spotify.com/album/5EQQiOF2nQibGXo7a9vZ7m"
       },
@@ -1782,7 +1804,7 @@
       ],
       "date_added": "2026-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 190603,
       "name": "the blueprint",
       "url": "https://open.spotify.com/track/5CpV2AyTNHN0HLb9tzLktS"

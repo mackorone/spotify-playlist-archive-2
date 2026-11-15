@@ -4,7 +4,7 @@
 
 > Tierra linda que siempre sueño, y que muy dentro llevo\. Ciudad de Monterrey ♥️
 
-481 songs - 1 day 3 hr 58 min
+482 songs - 1 day 4 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -297,7 +297,7 @@
 | [Mi Pasado y Mi Presente](https://open.spotify.com/track/588ROs3NuPqlPSYpIuitKS) | [Traviezoz de la Zierra](https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn) | [Plan B](https://open.spotify.com/album/24FPZ021AP83t8OSQHRaAx) | 3:40 | 2024-07-02 | 2025-11-10 |
 | [Mi Pregón](https://open.spotify.com/track/5EyZuJ9a2FAsgWxmjffl73) | [Los Chikos RK Ritmo Kumbiero](https://open.spotify.com/artist/0n7BQ1iMKUbfBP6QCxTqBt) | [Mi Pregón](https://open.spotify.com/album/6wiadyiTXY2DpfI6RMyXI2) | 3:21 | 2024-07-02 | 2025-06-18 |
 | [Mi Razón De Ser](https://open.spotify.com/track/03JbYQiWdbNU50NmmSU6q3) | [La Tropa Vallenata](https://open.spotify.com/artist/6ESzKdcEDKvhUek4ZaHruk) | [Los Caminos De La Vida](https://open.spotify.com/album/2I72wA4qxK4ur3biscv0hv) | 3:13 | 2023-06-16 | 2025-11-10 |
-| [Mi Tesoro](https://open.spotify.com/track/1kMcQ5ovfzCgvdMONCOWNS) | [Cornelio Reyna](https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx), [Ramón Ayala](https://open.spotify.com/artist/0fIdQWpwzU2oEtsoyArDOL) | [La Trayectoria 30 Exitos](https://open.spotify.com/album/7aYo3Fnbr79g0gSQS6xegH) | 3:01 | 2026-06-08 |  |
+| [Mi Tesoro](https://open.spotify.com/track/1kMcQ5ovfzCgvdMONCOWNS) | [Cornelio Reyna](https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx), [Ramón Ayala](https://open.spotify.com/artist/0fIdQWpwzU2oEtsoyArDOL) | [La Trayectoria 30 Exitos](https://open.spotify.com/album/7aYo3Fnbr79g0gSQS6xegH) | 3:01 | 2026-06-08 | 2026-11-15 |
 | [Mi Trokita Cumbia](https://open.spotify.com/track/0TwWnaZ6JGfVuN4iZq2BzJ) | [Obzesion](https://open.spotify.com/artist/38b0HYhJsCesXvtdCbRCRS) | [Mi Trokita Cumbia](https://open.spotify.com/album/0tMsvi0IzNyRZFqF9qeFCz) | 2:14 | 2023-06-16 | 2025-10-08 |
 | [Mi Unico Camino](https://open.spotify.com/track/0zD1NLTk9QkTj7CZFCGVpX) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Las Más Tocadas](https://open.spotify.com/album/20Bcfqp9GJ3UNL1mDlZepp) | 2:52 | 2024-07-15 | 2025-11-10 |
 | [MIATA ᕙ\(⇀‸↼‶\)ᕗ](https://open.spotify.com/track/1k15ZgRhn8OxFalYbeaZ1h) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu), [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly) | [ATP](https://open.spotify.com/album/5YAMa7LhSMdWOs1dF93g4V) | 3:00 | 2026-06-08 |  |
@@ -361,6 +361,7 @@
 | [Por Mi México \(Remix\)](https://open.spotify.com/track/2m3Fqmw1mfs39KklPmjq79) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Por Mi México \(Remix\)](https://open.spotify.com/album/3p22kEU3PqsIrYWJpa9Bko) | 6:45 | 2025-11-09 | 2026-06-09 |
 | [Por Que Te Has Ido](https://open.spotify.com/track/2SXw7Ilya1GRxAiNYGrjbl) | [La Dinastia Romero](https://open.spotify.com/artist/0BNtAnbw7qpWkfDYQ8DDvu) | [Por Que Te Has Ido](https://open.spotify.com/album/0WKkhPxnIwAIiwHxZyI28t) | 5:06 | 2023-11-08 | 2024-07-03 |
 | [Por Que Te Tengo Que Olvidar](https://open.spotify.com/track/4yV699yWj5OnboFsF2eHtR) | [Fievre Looka](https://open.spotify.com/artist/0CDFocAKVNgMrgKnQXW7Fd) | [Te Sorprenderás](https://open.spotify.com/album/6KK83cdEilYMgI8uHPR4Rk) | 3:28 | 2026-06-08 |  |
+| [Porque Te Extraño](https://open.spotify.com/track/2At9kdZFhADjYiOwd46ypk) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Idolos Del Pueblo](https://open.spotify.com/album/1NL9uEozaXDi9wET7qCXfG) | 3:25 | 2026-06-08 |  |
 | [Prom](https://open.spotify.com/track/0fcSrSjsn3davHBci18iT0) | [Los Caliz](https://open.spotify.com/artist/4S7g1b3zVElT70kZGKkXiz) | [Prom](https://open.spotify.com/album/3C9JUf1lop0U0NlwxSEJjX) | 2:22 | 2025-11-09 | 2026-05-27 |
 | [Prueba De Fuego](https://open.spotify.com/track/2woyQPIhYiJgQVsfpF8KsR) | [Hermanos Espinoza](https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV) | [Prueba De Fuego](https://open.spotify.com/album/5dCsAdOnWwZpo4jj8iS3yx) | 3:51 | 2024-07-02 | 2025-07-13 |
 | [Préstame Tu Corazón](https://open.spotify.com/track/1bnSKjuPEd8FPACxqA5Mos) | [Efecto Elegante](https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3) | [Préstame Tu Corazón](https://open.spotify.com/album/193sAyinQJCfAe9rWjUH36) | 3:02 | 2025-11-09 | 2026-06-04 |

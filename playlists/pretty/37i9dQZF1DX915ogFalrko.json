@@ -1,6 +1,6 @@
 {
   "description": "La playlist \u00e0 la cool pour accompagner votre d\u00eener !",
-  "num_followers": 188735,
+  "num_followers": 188796,
   "original_name": "D\u00eener entre amis",
   "owner": {
     "name": "Spotify",
@@ -703,6 +703,22 @@
     {
       "added_at": "2026-11-13 11:30:31",
       "album": {
+        "name": "Lay Low",
+        "url": "https://open.spotify.com/album/06TZNVLfMrf0vtk0WsYwj4"
+      },
+      "artists": [
+        {
+          "name": "Lou Doillon",
+          "url": "https://open.spotify.com/artist/05TeWWFqSVEUurt1lVhh4q"
+        }
+      ],
+      "duration_ms": 166080,
+      "name": "Where To Start",
+      "url": "https://open.spotify.com/track/2bhfHrX4IJzF62XKzqZpPX"
+    },
+    {
+      "added_at": "2026-11-13 11:30:31",
+      "album": {
         "name": "Forward",
         "url": "https://open.spotify.com/album/2UCpwkWg7BuHe2bHD0MTfC"
       },
@@ -723,34 +739,18 @@
     {
       "added_at": "2026-11-13 11:30:31",
       "album": {
-        "name": "Lay Low",
-        "url": "https://open.spotify.com/album/06TZNVLfMrf0vtk0WsYwj4"
+        "name": "El Hueso",
+        "url": "https://open.spotify.com/album/6sxeIWSvy8JBemcPyy0JXM"
       },
       "artists": [
         {
-          "name": "Lou Doillon",
-          "url": "https://open.spotify.com/artist/05TeWWFqSVEUurt1lVhh4q"
+          "name": "Ralphie Choo",
+          "url": "https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7"
         }
       ],
-      "duration_ms": 166080,
-      "name": "Where To Start",
-      "url": "https://open.spotify.com/track/2bhfHrX4IJzF62XKzqZpPX"
-    },
-    {
-      "added_at": "2026-11-13 11:30:31",
-      "album": {
-        "name": "Things Take Time",
-        "url": "https://open.spotify.com/album/2RsdNUtkxHHG30160YqS2e"
-      },
-      "artists": [
-        {
-          "name": "Gang of Youths",
-          "url": "https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Things Take Time",
-      "url": "https://open.spotify.com/track/6FDIHTvOLT5HC4LqtZPWaE"
+      "duration_ms": 143301,
+      "name": "El Hueso",
+      "url": "https://open.spotify.com/track/1Dr7IM4yoNwvucqW1KOAbk"
     },
     {
       "added_at": "2026-11-13 11:30:31",
@@ -767,6 +767,22 @@
       "duration_ms": 210000,
       "name": "Make believe",
       "url": "https://open.spotify.com/track/5RoQY3o3b6rupkNpNmuj8P"
+    },
+    {
+      "added_at": "2026-11-13 11:30:31",
+      "album": {
+        "name": "Things Take Time",
+        "url": "https://open.spotify.com/album/2RsdNUtkxHHG30160YqS2e"
+      },
+      "artists": [
+        {
+          "name": "Gang of Youths",
+          "url": "https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Things Take Time",
+      "url": "https://open.spotify.com/track/6FDIHTvOLT5HC4LqtZPWaE"
     },
     {
       "added_at": "2026-11-13 11:30:31",
@@ -955,22 +971,6 @@
     {
       "added_at": "2026-11-13 11:30:31",
       "album": {
-        "name": "Everything in Between",
-        "url": "https://open.spotify.com/album/0R3yHrPZWGb5QkDhZt5cCK"
-      },
-      "artists": [
-        {
-          "name": "Munan",
-          "url": "https://open.spotify.com/artist/3ua99a1Zgdi8qY3Cpv92gE"
-        }
-      ],
-      "duration_ms": 213642,
-      "name": "Till the End",
-      "url": "https://open.spotify.com/track/0TfF4m9Wt5h0a71mtpRbjW"
-    },
-    {
-      "added_at": "2026-11-13 11:30:31",
-      "album": {
         "name": "Interior",
         "url": "https://open.spotify.com/album/1knlwGtSu2giVTRen3Fk8d"
       },
@@ -987,6 +987,22 @@
     {
       "added_at": "2026-11-13 11:30:31",
       "album": {
+        "name": "Everything in Between",
+        "url": "https://open.spotify.com/album/0R3yHrPZWGb5QkDhZt5cCK"
+      },
+      "artists": [
+        {
+          "name": "Munan",
+          "url": "https://open.spotify.com/artist/3ua99a1Zgdi8qY3Cpv92gE"
+        }
+      ],
+      "duration_ms": 213642,
+      "name": "Till the End",
+      "url": "https://open.spotify.com/track/0TfF4m9Wt5h0a71mtpRbjW"
+    },
+    {
+      "added_at": "2026-11-13 11:30:31",
+      "album": {
         "name": "La Llorona",
         "url": "https://open.spotify.com/album/7J8k8Y7zfCFKMPWzUPGVuP"
       },
@@ -999,6 +1015,22 @@
       "duration_ms": 255360,
       "name": "De Cara a la Pared",
       "url": "https://open.spotify.com/track/3mnSq0DGKWTZcU3ccymC79"
+    },
+    {
+      "added_at": "2026-11-13 11:30:31",
+      "album": {
+        "name": "the van",
+        "url": "https://open.spotify.com/album/70zrCL7WfIPJQcXqzhRAho"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "duration_ms": 178001,
+      "name": "the van",
+      "url": "https://open.spotify.com/track/4C2o68XUoLpjvncsNsgwjA"
     },
     {
       "added_at": "2026-11-13 11:30:31",
@@ -1035,22 +1067,6 @@
       "duration_ms": 138181,
       "name": "Can't Help Myself",
       "url": "https://open.spotify.com/track/5pUfdVxE1331e8ugacRv4v"
-    },
-    {
-      "added_at": "2026-11-13 11:30:31",
-      "album": {
-        "name": "the van",
-        "url": "https://open.spotify.com/album/70zrCL7WfIPJQcXqzhRAho"
-      },
-      "artists": [
-        {
-          "name": "Bleachers",
-          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
-        }
-      ],
-      "duration_ms": 178001,
-      "name": "the van",
-      "url": "https://open.spotify.com/track/4C2o68XUoLpjvncsNsgwjA"
     },
     {
       "added_at": "2026-11-13 11:30:31",
@@ -1115,6 +1131,22 @@
       "duration_ms": 169818,
       "name": "found u/me",
       "url": "https://open.spotify.com/track/5LzTzcMwn1YhzPSLkYlNnX"
+    },
+    {
+      "added_at": "2026-11-13 11:30:31",
+      "album": {
+        "name": "Tell Him",
+        "url": "https://open.spotify.com/album/4xBplgdBasQJe7XBEaFhmH"
+      },
+      "artists": [
+        {
+          "name": "Romy Mars",
+          "url": "https://open.spotify.com/artist/6cJxlOHcaXLNUUKYkSecTd"
+        }
+      ],
+      "duration_ms": 157082,
+      "name": "Tell Him",
+      "url": "https://open.spotify.com/track/48OQwFBixhT1hfocKYRDOW"
     },
     {
       "added_at": "2026-11-13 11:30:31",
@@ -1187,22 +1219,6 @@
     {
       "added_at": "2026-11-13 11:30:31",
       "album": {
-        "name": "All Night",
-        "url": "https://open.spotify.com/album/1im0h8ZGiQppPqeXDLS2td"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Tea Room",
-          "url": "https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD"
-        }
-      ],
-      "duration_ms": 196813,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/6JvDU5tu5vl2aWReFKjQsL"
-    },
-    {
-      "added_at": "2026-11-13 11:30:31",
-      "album": {
         "name": "I try my best",
         "url": "https://open.spotify.com/album/0UJDFChpZ63MFtbIuQHoCS"
       },
@@ -1215,6 +1231,22 @@
       "duration_ms": 229714,
       "name": "I try my best",
       "url": "https://open.spotify.com/track/5OLopWFCNIqtYuW6UYUdwj"
+    },
+    {
+      "added_at": "2026-11-13 11:30:31",
+      "album": {
+        "name": "All Night",
+        "url": "https://open.spotify.com/album/1im0h8ZGiQppPqeXDLS2td"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Tea Room",
+          "url": "https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD"
+        }
+      ],
+      "duration_ms": 196813,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/6JvDU5tu5vl2aWReFKjQsL"
     },
     {
       "added_at": "2026-11-13 11:30:31",
@@ -1355,18 +1387,18 @@
     {
       "added_at": "2026-11-13 11:30:31",
       "album": {
-        "name": "Tell Him",
-        "url": "https://open.spotify.com/album/4xBplgdBasQJe7XBEaFhmH"
+        "name": "Burn The Witch",
+        "url": "https://open.spotify.com/album/20KFcc2YxcqOAFsrWLfwmC"
       },
       "artists": [
         {
-          "name": "Romy Mars",
-          "url": "https://open.spotify.com/artist/6cJxlOHcaXLNUUKYkSecTd"
+          "name": "Misfits Together",
+          "url": "https://open.spotify.com/artist/4y3Ml1Bz1HWbUpVvaMGR50"
         }
       ],
-      "duration_ms": 157082,
-      "name": "Tell Him",
-      "url": "https://open.spotify.com/track/48OQwFBixhT1hfocKYRDOW"
+      "duration_ms": 199226,
+      "name": "Burn The Witch",
+      "url": "https://open.spotify.com/track/3JHTGkpRXwCGaW3Hh0crug"
     },
     {
       "added_at": "2026-11-13 11:30:31",
@@ -1535,6 +1567,22 @@
     {
       "added_at": "2026-11-13 11:30:31",
       "album": {
+        "name": "Plume",
+        "url": "https://open.spotify.com/album/3Xb4WgyJpOZiTSaSxUk3S7"
+      },
+      "artists": [
+        {
+          "name": "Simon M\u00e9ny",
+          "url": "https://open.spotify.com/artist/78v3xx2RmHBOjsamAW8utQ"
+        }
+      ],
+      "duration_ms": 197020,
+      "name": "Plume",
+      "url": "https://open.spotify.com/track/1eWsvowSDRkghLQGvFL9nY"
+    },
+    {
+      "added_at": "2026-11-13 11:30:31",
+      "album": {
         "name": "idole",
         "url": "https://open.spotify.com/album/4QfPMWmVaTENkTFrmA6Gzi"
       },
@@ -1563,22 +1611,6 @@
       "duration_ms": 176097,
       "name": "Give Me Your Love Back",
       "url": "https://open.spotify.com/track/070mI5fDgAV77ZBrmoAcfs"
-    },
-    {
-      "added_at": "2026-11-13 11:30:31",
-      "album": {
-        "name": "Plume",
-        "url": "https://open.spotify.com/album/3Xb4WgyJpOZiTSaSxUk3S7"
-      },
-      "artists": [
-        {
-          "name": "Simon M\u00e9ny",
-          "url": "https://open.spotify.com/artist/78v3xx2RmHBOjsamAW8utQ"
-        }
-      ],
-      "duration_ms": 197020,
-      "name": "Plume",
-      "url": "https://open.spotify.com/track/1eWsvowSDRkghLQGvFL9nY"
     },
     {
       "added_at": "2026-11-13 11:30:31",
@@ -1615,22 +1647,6 @@
     {
       "added_at": "2026-11-13 11:30:31",
       "album": {
-        "name": "El Hueso",
-        "url": "https://open.spotify.com/album/6sxeIWSvy8JBemcPyy0JXM"
-      },
-      "artists": [
-        {
-          "name": "Ralphie Choo",
-          "url": "https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7"
-        }
-      ],
-      "duration_ms": 143301,
-      "name": "El Hueso",
-      "url": "https://open.spotify.com/track/1Dr7IM4yoNwvucqW1KOAbk"
-    },
-    {
-      "added_at": "2026-11-13 11:30:31",
-      "album": {
         "name": "Best of It",
         "url": "https://open.spotify.com/album/5Z1OyunLYvWm78f4EaFU8M"
       },
@@ -1659,22 +1675,6 @@
       "duration_ms": 238990,
       "name": "Too High",
       "url": "https://open.spotify.com/track/0efZvIaR1KatgP0Eudg2sH"
-    },
-    {
-      "added_at": "2026-11-13 11:30:31",
-      "album": {
-        "name": "Origami",
-        "url": "https://open.spotify.com/album/0fCTZZuaPxbAb1GArjeGR7"
-      },
-      "artists": [
-        {
-          "name": "Claudia Isaki",
-          "url": "https://open.spotify.com/artist/5Q8asiEUYLobc6DvKIsqOP"
-        }
-      ],
-      "duration_ms": 226534,
-      "name": "Origami",
-      "url": "https://open.spotify.com/track/2kbAnjDgC3pmHvhPMnPSsj"
     },
     {
       "added_at": "2026-11-13 11:30:31",

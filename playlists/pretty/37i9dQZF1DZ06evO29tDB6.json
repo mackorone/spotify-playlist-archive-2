@@ -1,12 +1,12 @@
 {
   "description": "This is El Tri. The essential tracks, all in one playlist.",
-  "num_followers": 146933,
+  "num_followers": 146938,
   "original_name": "This Is El Tri",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avUBgAAAAABeLH8yMRw+J1db0CwG0TAL",
+  "snapshot_id": "avZTAAAAAADz5t3TGSWOOuDGKzDJFc6V",
   "tracks": [
     {
       "added_at": null,
@@ -251,8 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Clasicas para Rockear",
-        "url": "https://open.spotify.com/album/1udzt4QE3PY1KvUinZ5xiw"
+        "name": "Otra tocada m\u00e1s",
+        "url": "https://open.spotify.com/album/4LKbyMIGm0gwSZqZV9XY4Z"
       },
       "artists": [
         {
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
         }
       ],
-      "duration_ms": 272306,
-      "name": "Virgen morena",
-      "url": "https://open.spotify.com/track/7nt6ghHg0orx4dieH5bFHp"
+      "duration_ms": 176200,
+      "name": "Nocivo para la salud",
+      "url": "https://open.spotify.com/track/6otwuzrUxVSIiTWMFcneEr"
     },
     {
       "added_at": null,
@@ -283,8 +283,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Otra tocada m\u00e1s",
-        "url": "https://open.spotify.com/album/4LKbyMIGm0gwSZqZV9XY4Z"
+        "name": "Clasicas para Rockear",
+        "url": "https://open.spotify.com/album/1udzt4QE3PY1KvUinZ5xiw"
       },
       "artists": [
         {
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
         }
       ],
-      "duration_ms": 176200,
-      "name": "Nocivo para la salud",
-      "url": "https://open.spotify.com/track/6otwuzrUxVSIiTWMFcneEr"
+      "duration_ms": 272306,
+      "name": "Virgen morena",
+      "url": "https://open.spotify.com/track/7nt6ghHg0orx4dieH5bFHp"
     },
     {
       "added_at": null,
@@ -560,9 +560,9 @@
           "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
         }
       ],
-      "duration_ms": 309893,
-      "name": "Un d\u00eda en la vida",
-      "url": "https://open.spotify.com/track/3B9zvy65m9pGZmxu7lQzLd"
+      "duration_ms": 171466,
+      "name": "La fuerza del amor",
+      "url": "https://open.spotify.com/track/1BSVbSNl3VW37uB1KvN2Om"
     },
     {
       "added_at": null,
@@ -583,54 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Otra tocada m\u00e1s",
-        "url": "https://open.spotify.com/album/4LKbyMIGm0gwSZqZV9XY4Z"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 224906,
-      "name": "Sara",
-      "url": "https://open.spotify.com/track/30E7fZpUC0Cdw1E62BRxb3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Simplemente",
-        "url": "https://open.spotify.com/album/0DEAl6Dhwr8bIITWGVQR2Y"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 325706,
-      "name": "San Juanico",
-      "url": "https://open.spotify.com/track/5yfAPz7Qac8QzSLRw4iIdL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "21 A\u00f1os despu\u00e9s Alex Lora y El Tri",
-        "url": "https://open.spotify.com/album/2kFtk6om31zv0DAxtrbDnu"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 171466,
-      "name": "La fuerza del amor",
-      "url": "https://open.spotify.com/track/1BSVbSNl3VW37uB1KvN2Om"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "20 Grandes Exitos",
         "url": "https://open.spotify.com/album/1IAzY9UInupGMgqlkroaPq"
       },
@@ -647,6 +599,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Otra tocada m\u00e1s",
+        "url": "https://open.spotify.com/album/4LKbyMIGm0gwSZqZV9XY4Z"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 224906,
+      "name": "Sara",
+      "url": "https://open.spotify.com/track/30E7fZpUC0Cdw1E62BRxb3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "21 A\u00f1os despu\u00e9s Alex Lora y El Tri",
+        "url": "https://open.spotify.com/album/2kFtk6om31zv0DAxtrbDnu"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 309893,
+      "name": "Un d\u00eda en la vida",
+      "url": "https://open.spotify.com/track/3B9zvy65m9pGZmxu7lQzLd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sinf\u00f3nico",
         "url": "https://open.spotify.com/album/2N7qb2uMZLrGRVWnFDwXj8"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 244666,
       "name": "Los minusv\u00e1lidos",
       "url": "https://open.spotify.com/track/0vLrZpp49ADN2bqinIg1mU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Simplemente",
+        "url": "https://open.spotify.com/album/0DEAl6Dhwr8bIITWGVQR2Y"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 325706,
+      "name": "San Juanico",
+      "url": "https://open.spotify.com/track/5yfAPz7Qac8QzSLRw4iIdL"
     },
     {
       "added_at": null,
@@ -783,22 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Tri Sinf\u00f3nico II",
-        "url": "https://open.spotify.com/album/23fQNeHs1eHG2nHqBZbshr"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 221493,
-      "name": "Ya estamos hartos",
-      "url": "https://open.spotify.com/track/221Kj107g9kqy0bNOk6uKc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "40 A\u00f1os Vol. 2",
         "url": "https://open.spotify.com/album/0IbZ0zWLo7N6XKleOHQovV"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 259053,
       "name": "Chilangolandia",
       "url": "https://open.spotify.com/track/0mRiKsDhYMprvTDTeXBUvA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Tri Sinf\u00f3nico II",
+        "url": "https://open.spotify.com/album/23fQNeHs1eHG2nHqBZbshr"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 221493,
+      "name": "Ya estamos hartos",
+      "url": "https://open.spotify.com/track/221Kj107g9kqy0bNOk6uKc"
     },
     {
       "added_at": null,
@@ -847,22 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Tri Sinf\u00f3nico II",
-        "url": "https://open.spotify.com/album/23fQNeHs1eHG2nHqBZbshr"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 356880,
-      "name": "El blues de la llanta",
-      "url": "https://open.spotify.com/track/22SExSRBRXSD41VYCg71Hx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Simplemente",
         "url": "https://open.spotify.com/album/0DEAl6Dhwr8bIITWGVQR2Y"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 273400,
       "name": "S\u00f3pleme usted primero",
       "url": "https://open.spotify.com/track/1sdKHMIGRYs7FDZvha1wAp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Tri Sinf\u00f3nico II",
+        "url": "https://open.spotify.com/album/23fQNeHs1eHG2nHqBZbshr"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 356880,
+      "name": "El blues de la llanta",
+      "url": "https://open.spotify.com/track/22SExSRBRXSD41VYCg71Hx"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Cantoras y compositoras de nuestra tierra, con Soledad en portada.",
-  "num_followers": 34770,
+  "num_followers": 34776,
   "original_name": "Mujeres del Folklore",
   "owner": {
     "name": "Spotify",
@@ -691,26 +691,6 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
-        "name": "Memoria del Viento",
-        "url": "https://open.spotify.com/album/0GMp8hXYHhQullpJZO38Rt"
-      },
-      "artists": [
-        {
-          "name": "Victoria Birchner",
-          "url": "https://open.spotify.com/artist/3WK96n89Ph8hEufWDG5DeS"
-        },
-        {
-          "name": "Franco Luciani",
-          "url": "https://open.spotify.com/artist/4BWj4rAdhcYB8aQXfnzfHy"
-        }
-      ],
-      "duration_ms": 243066,
-      "name": "Por el R\u00edo Volver\u00e9",
-      "url": "https://open.spotify.com/track/1AqvmegBd4YsOw3YNSu0xl"
-    },
-    {
-      "added_at": "2025-08-21 21:06:28",
-      "album": {
         "name": "Por el Contrario",
         "url": "https://open.spotify.com/album/7mqC06N49AoHgs4MaZNsXm"
       },
@@ -743,6 +723,22 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
+        "name": "Retrato de Familia",
+        "url": "https://open.spotify.com/album/4Elf50rCHcFpChAYDtzJGT"
+      },
+      "artists": [
+        {
+          "name": "Teresa Parodi",
+          "url": "https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK"
+        }
+      ],
+      "duration_ms": 208487,
+      "name": "Paisaje",
+      "url": "https://open.spotify.com/track/23EpodCa3x4eB5tlaqf9vd"
+    },
+    {
+      "added_at": "2025-08-21 21:06:28",
+      "album": {
         "name": "Tanto Amor",
         "url": "https://open.spotify.com/album/65bHLqYJeXeuIkSOEKxXuL"
       },
@@ -759,18 +755,22 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
-        "name": "Retrato de Familia",
-        "url": "https://open.spotify.com/album/4Elf50rCHcFpChAYDtzJGT"
+        "name": "Memoria del Viento",
+        "url": "https://open.spotify.com/album/0GMp8hXYHhQullpJZO38Rt"
       },
       "artists": [
         {
-          "name": "Teresa Parodi",
-          "url": "https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK"
+          "name": "Victoria Birchner",
+          "url": "https://open.spotify.com/artist/3WK96n89Ph8hEufWDG5DeS"
+        },
+        {
+          "name": "Franco Luciani",
+          "url": "https://open.spotify.com/artist/4BWj4rAdhcYB8aQXfnzfHy"
         }
       ],
-      "duration_ms": 208487,
-      "name": "Paisaje",
-      "url": "https://open.spotify.com/track/23EpodCa3x4eB5tlaqf9vd"
+      "duration_ms": 243066,
+      "name": "Por el R\u00edo Volver\u00e9",
+      "url": "https://open.spotify.com/track/1AqvmegBd4YsOw3YNSu0xl"
     },
     {
       "added_at": "2025-08-21 21:06:28",
@@ -791,22 +791,6 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
-        "name": "Tu Respuesta",
-        "url": "https://open.spotify.com/album/74mQvYUykB3WUuHIq73qto"
-      },
-      "artists": [
-        {
-          "name": "Valeria Lopez Vila",
-          "url": "https://open.spotify.com/artist/1wShh3BrIgbCfHT7wsahOA"
-        }
-      ],
-      "duration_ms": 222908,
-      "name": "Tu Respuesta",
-      "url": "https://open.spotify.com/track/1g3uiL5MyoJwo7yHsxFJPA"
-    },
-    {
-      "added_at": "2025-08-21 21:06:28",
-      "album": {
         "name": "CARNAVALITO DEL DUENDE",
         "url": "https://open.spotify.com/album/7IHXgqU3PUInEcitPjQybZ"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 172421,
       "name": "CARNAVALITO DEL DUENDE",
       "url": "https://open.spotify.com/track/6vZL8IkljDw2sR4aHSN25S"
+    },
+    {
+      "added_at": "2025-08-21 21:06:28",
+      "album": {
+        "name": "Tu Respuesta",
+        "url": "https://open.spotify.com/album/74mQvYUykB3WUuHIq73qto"
+      },
+      "artists": [
+        {
+          "name": "Valeria Lopez Vila",
+          "url": "https://open.spotify.com/artist/1wShh3BrIgbCfHT7wsahOA"
+        }
+      ],
+      "duration_ms": 222908,
+      "name": "Tu Respuesta",
+      "url": "https://open.spotify.com/track/1g3uiL5MyoJwo7yHsxFJPA"
     },
     {
       "added_at": "2025-08-21 21:06:28",
@@ -899,6 +899,22 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
+        "name": "Buscando el sol",
+        "url": "https://open.spotify.com/album/0z6ZovAkZ1nhmWwZx6KBqT"
+      },
+      "artists": [
+        {
+          "name": "Vero Marjbein",
+          "url": "https://open.spotify.com/artist/6xZKJnHq8zpj0c9tCjwhGi"
+        }
+      ],
+      "duration_ms": 195527,
+      "name": "P\u00e9talo de Sal",
+      "url": "https://open.spotify.com/track/4ivf9l9t9Mnbg5wB20wI7c"
+    },
+    {
+      "added_at": "2025-08-21 21:06:28",
+      "album": {
         "name": "Pasionarias",
         "url": "https://open.spotify.com/album/0H7GZSBLHQkseN2awfxZ2m"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 235245,
       "name": "La Jardinera",
       "url": "https://open.spotify.com/track/4DRgbwHJSiXx1698WHUcvz"
-    },
-    {
-      "added_at": "2025-08-21 21:06:28",
-      "album": {
-        "name": "Buscando el sol",
-        "url": "https://open.spotify.com/album/0z6ZovAkZ1nhmWwZx6KBqT"
-      },
-      "artists": [
-        {
-          "name": "Vero Marjbein",
-          "url": "https://open.spotify.com/artist/6xZKJnHq8zpj0c9tCjwhGi"
-        }
-      ],
-      "duration_ms": 195527,
-      "name": "P\u00e9talo de Sal",
-      "url": "https://open.spotify.com/track/4ivf9l9t9Mnbg5wB20wI7c"
     },
     {
       "added_at": "2025-08-21 21:06:28",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
-        "name": "Espejo de Amor: Anabella Zoch Canta a Peteco Carabajal",
-        "url": "https://open.spotify.com/album/5EvslgD1DNVwI7OOXBGviw"
-      },
-      "artists": [
-        {
-          "name": "Anabella Zoch",
-          "url": "https://open.spotify.com/artist/6uIokMG7rokgUCzQzAx6z8"
-        }
-      ],
-      "duration_ms": 267101,
-      "name": "C\u00f3mo P\u00e1jaros en el Aire",
-      "url": "https://open.spotify.com/track/5ZA0iEXMqSs7f9YzRnqj1u"
-    },
-    {
-      "added_at": "2025-08-21 21:06:28",
-      "album": {
         "name": "Cantora",
         "url": "https://open.spotify.com/album/7vwAQYRjCKPReZYIQYwp29"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 173373,
       "name": "La Maimare\u00f1a",
       "url": "https://open.spotify.com/track/4hsuc4Xq5UfZMoYpA3H72J"
+    },
+    {
+      "added_at": "2025-08-21 21:06:28",
+      "album": {
+        "name": "Espejo de Amor: Anabella Zoch Canta a Peteco Carabajal",
+        "url": "https://open.spotify.com/album/5EvslgD1DNVwI7OOXBGviw"
+      },
+      "artists": [
+        {
+          "name": "Anabella Zoch",
+          "url": "https://open.spotify.com/artist/6uIokMG7rokgUCzQzAx6z8"
+        }
+      ],
+      "duration_ms": 267101,
+      "name": "C\u00f3mo P\u00e1jaros en el Aire",
+      "url": "https://open.spotify.com/track/5ZA0iEXMqSs7f9YzRnqj1u"
     },
     {
       "added_at": "2025-08-21 21:06:28",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
-        "name": "Los Clasicos Del Folklore",
-        "url": "https://open.spotify.com/album/0OgGAbXNndtqf3Im0mB2yJ"
-      },
-      "artists": [
-        {
-          "name": "Margarita Palacios",
-          "url": "https://open.spotify.com/artist/0oauD1j53OsLcXjcEqIE2c"
-        }
-      ],
-      "duration_ms": 157226,
-      "name": "Recopilacion De Carnavalitos",
-      "url": "https://open.spotify.com/track/2KIv9yuwZQlsw6JB8JgAGx"
-    },
-    {
-      "added_at": "2025-08-21 21:06:28",
-      "album": {
         "name": "Jazm\u00edn",
         "url": "https://open.spotify.com/album/3CifXREMYGTc2t92VDe4k3"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 238746,
       "name": "Baguala para las dos",
       "url": "https://open.spotify.com/track/6wSRHnHUBnDKJsa2n4QkDx"
+    },
+    {
+      "added_at": "2025-08-21 21:06:28",
+      "album": {
+        "name": "Los Clasicos Del Folklore",
+        "url": "https://open.spotify.com/album/0OgGAbXNndtqf3Im0mB2yJ"
+      },
+      "artists": [
+        {
+          "name": "Margarita Palacios",
+          "url": "https://open.spotify.com/artist/0oauD1j53OsLcXjcEqIE2c"
+        }
+      ],
+      "duration_ms": 157226,
+      "name": "Recopilacion De Carnavalitos",
+      "url": "https://open.spotify.com/track/2KIv9yuwZQlsw6JB8JgAGx"
     },
     {
       "added_at": "2025-08-21 21:06:28",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
-        "name": "De Piedra y Agua",
-        "url": "https://open.spotify.com/album/6BOdeQ0LrixZT3UngksPJZ"
-      },
-      "artists": [
-        {
-          "name": "Sylvia Zabzuk",
-          "url": "https://open.spotify.com/artist/2ZJNcuNJm104OqLjD9LY3M"
-        }
-      ],
-      "duration_ms": 319139,
-      "name": "Luna De Cabotaje",
-      "url": "https://open.spotify.com/track/5qn2JqkaXBDhDSsAxiiiON"
-    },
-    {
-      "added_at": "2025-08-21 21:06:28",
-      "album": {
         "name": "Caminante",
         "url": "https://open.spotify.com/album/1SsiLXLCEC4J4EZvapU1K0"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 208856,
       "name": "Caminante",
       "url": "https://open.spotify.com/track/0Tvd59KWbv8rPMMtmZmRI2"
+    },
+    {
+      "added_at": "2025-08-21 21:06:28",
+      "album": {
+        "name": "De Piedra y Agua",
+        "url": "https://open.spotify.com/album/6BOdeQ0LrixZT3UngksPJZ"
+      },
+      "artists": [
+        {
+          "name": "Sylvia Zabzuk",
+          "url": "https://open.spotify.com/artist/2ZJNcuNJm104OqLjD9LY3M"
+        }
+      ],
+      "duration_ms": 319139,
+      "name": "Luna De Cabotaje",
+      "url": "https://open.spotify.com/track/5qn2JqkaXBDhDSsAxiiiON"
     },
     {
       "added_at": "2025-08-21 21:06:28",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
-        "name": "Trazos",
-        "url": "https://open.spotify.com/album/53Q0VkXRSkBMMQhdAMYpeF"
-      },
-      "artists": [
-        {
-          "name": "Sara Mamani",
-          "url": "https://open.spotify.com/artist/4ZgW26OroMoXsH8Tb7nHA3"
-        }
-      ],
-      "duration_ms": 256800,
-      "name": "Tres Cerritos",
-      "url": "https://open.spotify.com/track/1ojVanhVcmk2OrrTZDGhQy"
-    },
-    {
-      "added_at": "2025-08-21 21:06:28",
-      "album": {
         "name": "Noche, d\u00eda y madrugada",
         "url": "https://open.spotify.com/album/6CunOUfNEYq1oIiUP4ImDc"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 193451,
       "name": "Ojal\u00e1 te enamores",
       "url": "https://open.spotify.com/track/3DouRunRt5ZRorT4K1rTfI"
+    },
+    {
+      "added_at": "2025-08-21 21:06:28",
+      "album": {
+        "name": "Trazos",
+        "url": "https://open.spotify.com/album/53Q0VkXRSkBMMQhdAMYpeF"
+      },
+      "artists": [
+        {
+          "name": "Sara Mamani",
+          "url": "https://open.spotify.com/artist/4ZgW26OroMoXsH8Tb7nHA3"
+        }
+      ],
+      "duration_ms": 256800,
+      "name": "Tres Cerritos",
+      "url": "https://open.spotify.com/track/1ojVanhVcmk2OrrTZDGhQy"
     },
     {
       "added_at": "2025-08-21 21:06:28",

@@ -4,7 +4,7 @@
 
 > Sweet afro melodies\. Cover: Wande Coal
 
-1,099 songs - 2 day 5 hr 6 min
+1,100 songs - 2 day 5 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -697,6 +697,7 @@
 | [NAKANAMO \- V2](https://open.spotify.com/track/2WIVtwjKtZuyxA1ZQu7qsB) | [Uncle Baby](https://open.spotify.com/artist/52QEDrtqzlvcelNX429V9o), [Tiimie](https://open.spotify.com/artist/0qrPa7IFsPw9t3sLLfotz9), [Dre Foryoursoul](https://open.spotify.com/artist/3WUSqwXcNB1E8JbAdFXUAT) | [NAKANAMO \(V2\)](https://open.spotify.com/album/099PuhGWc6BiuRXKAJn8lX) | 3:06 | 2026-07-24 | 2026-07-31 |
 | [Naked Wire](https://open.spotify.com/track/5sFwnVasc8RuDlatiNHOXN) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Naked Wire](https://open.spotify.com/album/1GOlHRebm95q6OxmRwYdKG) | 2:42 | 2022-05-19 | 2022-07-30 |
 | [NEED ME](https://open.spotify.com/track/29tVTwzlKudGYkLOzbjAD3) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [NEED ME](https://open.spotify.com/album/0TTExlXyOA6Du5EF6T4T2e) | 3:12 | 2021-10-14 | 2023-04-28 |
+| [Never](https://open.spotify.com/track/1EsdgUoBXIp72WvMSd3F9g) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Never](https://open.spotify.com/album/2INhruz6kN5GiYUHnrAbpm) | 2:26 | 2026-11-13 |  |
 | [Never Let A Man Down](https://open.spotify.com/track/4E5kG2CpwJsW9iAIdSZEaY) | [Defayo](https://open.spotify.com/artist/1orV5Yry14101cKe3l9Vpn), [Elisa M.](https://open.spotify.com/artist/5jKK9Tj16bdt1NnorZ9Lbs) | [Never Let A Man Down](https://open.spotify.com/album/1gKcDUITpQHePNvCqX7SXR) | 3:07 | 2022-03-31 | 2022-09-10 |
 | [Never Love Again](https://open.spotify.com/track/0NLRTMtyvgX4HC9Yyf7fO9) | [Ogranya](https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of), [Ria Boss](https://open.spotify.com/artist/4RVL6ckos0QWCCz9dTFb5q) | [Never Love Again](https://open.spotify.com/album/0DyQM70GwzJIhxLDHeaULt) | 3:05 | 2021-11-25 | 2022-02-10 |
 | [Never Strong](https://open.spotify.com/track/0LCz6RWJVHZistEi1JQ3S1) | [Jiire Smith](https://open.spotify.com/artist/0VX3LwYsAeOKY4sKXLp9Nc) | [19](https://open.spotify.com/album/7Dp8pXGvjCbBIfzwhoo8sE) | 3:39 | 2023-01-12 | 2023-02-04 |
@@ -881,7 +882,7 @@
 | [Shigege](https://open.spotify.com/track/4XEISBCIAK72Qcfi0gDftu) | [Rvdical the Kid](https://open.spotify.com/artist/4eu9GW8WwzF6n6fb34COES), [Yung D3mz](https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf) | [Shigege](https://open.spotify.com/album/0kg93Sqf3m9RvZaXTzrnxl) | 2:35 | 2024-11-29 | 2025-01-10 |
 | [Shine](https://open.spotify.com/track/06TDTjD7efqsLwhXKv0bci) | [Elaine](https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx) | [Shine](https://open.spotify.com/album/4dyua6pD9i0Ht460lB6JOG) | 3:02 | 2022-03-18 | 2023-04-15 |
 | [show me](https://open.spotify.com/track/1t5gdRih9JNOeiRCOD2HYg) | [Chopstix](https://open.spotify.com/artist/167yXtyZFzoIEl4650nGkt), [Nolais](https://open.spotify.com/artist/1oUVVaNAeBZ6w6unHvNUCF) | [show me](https://open.spotify.com/album/1q6SyFtxA1DAu2GEflRLBp) | 2:38 | 2025-11-07 | 2025-12-05 |
-| [Show Me](https://open.spotify.com/track/4gK4aMkLAoqLsBq1jtrRhp) | [Shaiboy](https://open.spotify.com/artist/6XXxjNL1EhbvGiGTTj7IX9), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Show Me](https://open.spotify.com/album/200r1lFv3jZPypoZK0YEsP) | 2:59 | 2026-04-03 |  |
+| [Show Me](https://open.spotify.com/track/4gK4aMkLAoqLsBq1jtrRhp) | [Shaiboy](https://open.spotify.com/artist/6XXxjNL1EhbvGiGTTj7IX9), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Show Me](https://open.spotify.com/album/200r1lFv3jZPypoZK0YEsP) | 2:59 | 2026-04-03 | 2026-11-15 |
 | [Shy](https://open.spotify.com/track/0zf4pn9VXgQkXw784xZica) | [Killertunes](https://open.spotify.com/artist/1159Tto4wlVZpA3jeqXWZv), [BZ](https://open.spotify.com/artist/3KOofBJuoctTj0v5cgXHDF), [Not3s](https://open.spotify.com/artist/40NRiKuuhj1pgGYppptlBO) | [Shy](https://open.spotify.com/album/5WZgswcqvAbQfftf5LYXXg) | 2:57 | 2023-05-04 | 2023-05-12 |
 | [Shy](https://open.spotify.com/track/4fCimEld2dkOKSiShgj3As) | [TyStringz](https://open.spotify.com/artist/4tfnQIRNHLgZmdThaIkByc), [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [Shy](https://open.spotify.com/album/1jwC77IVV4q2ICgnZGBrEW) | 2:53 | 2022-04-28 | 2022-06-10 |
 | [Shy Lover](https://open.spotify.com/track/7miAnx549SadDs2wFvAzSZ) | [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9) | [Shy Lover](https://open.spotify.com/album/0MFGCY6DDl4rA0Y10S8W5I) | 2:43 | 2026-04-03 | 2026-11-01 |

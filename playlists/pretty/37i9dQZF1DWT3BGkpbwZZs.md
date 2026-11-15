@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT3BGkpbwZZs.md) - [plain]
 
 > Which character are you based on your music taste? The Hunger Games: Sunrise on the Reaping, in theaters soon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,684 likes - 93 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,831 likes - 93 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

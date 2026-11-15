@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica brasileira e as cores de um p\u00f4r do sol para completar o seu dia.",
-  "num_followers": 130345,
+  "num_followers": 130374,
   "original_name": "P\u00f4r do sol na areia",
   "owner": {
     "name": "Spotify",
@@ -371,22 +371,6 @@
     {
       "added_at": "2026-06-17 15:55:41",
       "album": {
-        "name": "O Amor Descansa Na Varanda",
-        "url": "https://open.spotify.com/album/6EmxkdaZEGD52aL5iFgmFo"
-      },
-      "artists": [
-        {
-          "name": "Bryan Behr",
-          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
-        }
-      ],
-      "duration_ms": 204998,
-      "name": "O Amor Descansa Na Varanda",
-      "url": "https://open.spotify.com/track/1AGfDQZ5u3qw40oQeh5lY6"
-    },
-    {
-      "added_at": "2026-06-17 15:55:41",
-      "album": {
         "name": "Vai sacudir, vai abalar",
         "url": "https://open.spotify.com/album/25C430Kr2rS1YAkmTUqdTN"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 140210,
       "name": "Vai sacudir, vai abalar",
       "url": "https://open.spotify.com/track/0NCo0U5CIPaclauxTLWZkG"
+    },
+    {
+      "added_at": "2026-06-17 15:55:41",
+      "album": {
+        "name": "O Amor Descansa Na Varanda",
+        "url": "https://open.spotify.com/album/6EmxkdaZEGD52aL5iFgmFo"
+      },
+      "artists": [
+        {
+          "name": "Bryan Behr",
+          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
+        }
+      ],
+      "duration_ms": 204998,
+      "name": "O Amor Descansa Na Varanda",
+      "url": "https://open.spotify.com/track/1AGfDQZ5u3qw40oQeh5lY6"
     },
     {
       "added_at": "2026-06-17 15:55:41",
@@ -803,6 +803,22 @@
     {
       "added_at": "2026-06-17 15:55:41",
       "album": {
+        "name": "Te Levar (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/53DSOKPvUINVwmFN32JqhJ"
+      },
+      "artists": [
+        {
+          "name": "Nanno",
+          "url": "https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3"
+        }
+      ],
+      "duration_ms": 173397,
+      "name": "Te Levar - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4QmLP7fU49UyWgxED0hvAI"
+    },
+    {
+      "added_at": "2026-06-17 15:55:41",
+      "album": {
         "name": "Raio de Sol",
         "url": "https://open.spotify.com/album/4xMVNUJLNLtSnsmSRbWUxp"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 206779,
       "name": "Raio de Sol",
       "url": "https://open.spotify.com/track/2mQRVgy18O2NlngYrBNfrP"
-    },
-    {
-      "added_at": "2026-06-17 15:55:41",
-      "album": {
-        "name": "Te Levar (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/53DSOKPvUINVwmFN32JqhJ"
-      },
-      "artists": [
-        {
-          "name": "Nanno",
-          "url": "https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3"
-        }
-      ],
-      "duration_ms": 173397,
-      "name": "Te Levar - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4QmLP7fU49UyWgxED0hvAI"
     },
     {
       "added_at": "2026-06-17 15:55:41",

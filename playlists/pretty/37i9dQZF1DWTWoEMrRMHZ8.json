@@ -1,6 +1,6 @@
 {
   "description": "As belas novidades da MPB. Foto: Ala\u00edde Costa, Emicida",
-  "num_followers": 352844,
+  "num_followers": 352831,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
@@ -127,22 +127,6 @@
     {
       "added_at": "2026-11-13 03:00:37",
       "album": {
-        "name": "Olha",
-        "url": "https://open.spotify.com/album/4UCapWCSeOEAKSmHXVZA3q"
-      },
-      "artists": [
-        {
-          "name": "Stefano",
-          "url": "https://open.spotify.com/artist/2Bao7Lz3ywa0lvgpwRmAVT"
-        }
-      ],
-      "duration_ms": 198702,
-      "name": "Olha",
-      "url": "https://open.spotify.com/track/5V5EFOPbPIbQxuxgGIRKDt"
-    },
-    {
-      "added_at": "2026-11-13 03:00:37",
-      "album": {
         "name": "Sua Onda",
         "url": "https://open.spotify.com/album/2aQRL0B3OTraPeCftGgK4I"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 216410,
       "name": "Sua Onda",
       "url": "https://open.spotify.com/track/0aRDSJHPIyPBGfOqxkLyTE"
+    },
+    {
+      "added_at": "2026-11-13 03:00:37",
+      "album": {
+        "name": "Olha",
+        "url": "https://open.spotify.com/album/4UCapWCSeOEAKSmHXVZA3q"
+      },
+      "artists": [
+        {
+          "name": "Stefano",
+          "url": "https://open.spotify.com/artist/2Bao7Lz3ywa0lvgpwRmAVT"
+        }
+      ],
+      "duration_ms": 198702,
+      "name": "Olha",
+      "url": "https://open.spotify.com/track/5V5EFOPbPIbQxuxgGIRKDt"
     },
     {
       "added_at": "2026-11-13 03:00:37",
@@ -363,30 +363,18 @@
     {
       "added_at": "2026-11-13 03:00:37",
       "album": {
-        "name": "Mundo de Cores",
-        "url": "https://open.spotify.com/album/1NXJ3cFMUqtmj6gif2Pcln"
+        "name": "Pra Ter Fim",
+        "url": "https://open.spotify.com/album/4PzEiRBXgj2D5hSEW4ZaL5"
       },
       "artists": [
         {
-          "name": "\u00c0VU\u00c0",
-          "url": "https://open.spotify.com/artist/7EDkQ6to7SSWWJto0gbdik"
-        },
-        {
-          "name": "Bruna Black",
-          "url": "https://open.spotify.com/artist/4XT8kTR1AgQzXS7ggdYPDX"
-        },
-        {
-          "name": "Jota.p\u00ea",
-          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
-        },
-        {
-          "name": "Maisak",
-          "url": "https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi"
+          "name": "Stefano",
+          "url": "https://open.spotify.com/artist/2Bao7Lz3ywa0lvgpwRmAVT"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Mundo de Cores",
-      "url": "https://open.spotify.com/track/6cdJQfiyQy0VlsLEqBcWfE"
+      "duration_ms": 204177,
+      "name": "Pra Ter Fim",
+      "url": "https://open.spotify.com/track/5aOcYyEFQJzLxwIunTjGyA"
     },
     {
       "added_at": "2026-11-13 03:00:37",
@@ -411,18 +399,30 @@
     {
       "added_at": "2026-11-13 03:00:37",
       "album": {
-        "name": "Pra Ter Fim",
-        "url": "https://open.spotify.com/album/4PzEiRBXgj2D5hSEW4ZaL5"
+        "name": "Mundo de Cores",
+        "url": "https://open.spotify.com/album/1NXJ3cFMUqtmj6gif2Pcln"
       },
       "artists": [
         {
-          "name": "Stefano",
-          "url": "https://open.spotify.com/artist/2Bao7Lz3ywa0lvgpwRmAVT"
+          "name": "\u00c0VU\u00c0",
+          "url": "https://open.spotify.com/artist/7EDkQ6to7SSWWJto0gbdik"
+        },
+        {
+          "name": "Bruna Black",
+          "url": "https://open.spotify.com/artist/4XT8kTR1AgQzXS7ggdYPDX"
+        },
+        {
+          "name": "Jota.p\u00ea",
+          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
+        },
+        {
+          "name": "Maisak",
+          "url": "https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi"
         }
       ],
-      "duration_ms": 204177,
-      "name": "Pra Ter Fim",
-      "url": "https://open.spotify.com/track/5aOcYyEFQJzLxwIunTjGyA"
+      "duration_ms": 192000,
+      "name": "Mundo de Cores",
+      "url": "https://open.spotify.com/track/6cdJQfiyQy0VlsLEqBcWfE"
     },
     {
       "added_at": "2026-11-13 03:00:37",
@@ -471,26 +471,6 @@
     {
       "added_at": "2026-11-13 03:00:37",
       "album": {
-        "name": "Saara No Rio",
-        "url": "https://open.spotify.com/album/3X8zN1yXYLLJntjAB996UB"
-      },
-      "artists": [
-        {
-          "name": "Jorge Vercillo",
-          "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
-        },
-        {
-          "name": "Rik Oliveira",
-          "url": "https://open.spotify.com/artist/57obwqvQ0XtMlXprugNUGz"
-        }
-      ],
-      "duration_ms": 282720,
-      "name": "Saara No Rio",
-      "url": "https://open.spotify.com/track/3fgYUrgScJ7C1zLR9u0016"
-    },
-    {
-      "added_at": "2026-11-13 03:00:37",
-      "album": {
         "name": "Dr\u00e3o",
         "url": "https://open.spotify.com/album/4TGsSN1w7Pgm888HMSW4mq"
       },
@@ -507,6 +487,26 @@
       "duration_ms": 205415,
       "name": "Dr\u00e3o",
       "url": "https://open.spotify.com/track/3iULRVHchU7ARgxHrIzsTS"
+    },
+    {
+      "added_at": "2026-11-13 03:00:37",
+      "album": {
+        "name": "Saara No Rio",
+        "url": "https://open.spotify.com/album/3X8zN1yXYLLJntjAB996UB"
+      },
+      "artists": [
+        {
+          "name": "Jorge Vercillo",
+          "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
+        },
+        {
+          "name": "Rik Oliveira",
+          "url": "https://open.spotify.com/artist/57obwqvQ0XtMlXprugNUGz"
+        }
+      ],
+      "duration_ms": 282720,
+      "name": "Saara No Rio",
+      "url": "https://open.spotify.com/track/3fgYUrgScJ7C1zLR9u0016"
     },
     {
       "added_at": "2026-11-13 03:00:37",
@@ -563,26 +563,6 @@
     {
       "added_at": "2026-11-13 03:00:37",
       "album": {
-        "name": "ContraTempo",
-        "url": "https://open.spotify.com/album/0iUFckwT5vRbdMHzUe4ktq"
-      },
-      "artists": [
-        {
-          "name": "IVYSON",
-          "url": "https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu"
-        },
-        {
-          "name": "Tuyo",
-          "url": "https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj"
-        }
-      ],
-      "duration_ms": 192519,
-      "name": "Sinto",
-      "url": "https://open.spotify.com/track/2og3ppm4mGvlbK5abmpoTj"
-    },
-    {
-      "added_at": "2026-11-13 03:00:37",
-      "album": {
         "name": "Itapuano",
         "url": "https://open.spotify.com/album/4sbckdbcPaSoyBhSFvJaax"
       },
@@ -603,6 +583,26 @@
     {
       "added_at": "2026-11-13 03:00:37",
       "album": {
+        "name": "ContraTempo",
+        "url": "https://open.spotify.com/album/0iUFckwT5vRbdMHzUe4ktq"
+      },
+      "artists": [
+        {
+          "name": "IVYSON",
+          "url": "https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu"
+        },
+        {
+          "name": "Tuyo",
+          "url": "https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj"
+        }
+      ],
+      "duration_ms": 192519,
+      "name": "Sinto",
+      "url": "https://open.spotify.com/track/2og3ppm4mGvlbK5abmpoTj"
+    },
+    {
+      "added_at": "2026-11-13 03:00:37",
+      "album": {
         "name": "Uirapuru",
         "url": "https://open.spotify.com/album/0kIt3JewcAw0yHMAHfmzsL"
       },
@@ -615,26 +615,6 @@
       "duration_ms": 102143,
       "name": "Uirapuru",
       "url": "https://open.spotify.com/track/0g0D5vPj0f3a0IX4Ji6KrJ"
-    },
-    {
-      "added_at": "2026-11-13 03:00:37",
-      "album": {
-        "name": "Caf\u00e9",
-        "url": "https://open.spotify.com/album/2gjoYpivdKaMgyqfZMrAIg"
-      },
-      "artists": [
-        {
-          "name": "Afonso Dubraz",
-          "url": "https://open.spotify.com/artist/1krhmZyrplaD7bcGcYviSe"
-        },
-        {
-          "name": "Mar.iana",
-          "url": "https://open.spotify.com/artist/48vcFBrAdtdJXjVWZKuuwH"
-        }
-      ],
-      "duration_ms": 183641,
-      "name": "Caf\u00e9",
-      "url": "https://open.spotify.com/track/6FF73EidnkO6TvgnUsZNHB"
     },
     {
       "added_at": "2026-11-13 03:00:37",
@@ -659,6 +639,26 @@
       "duration_ms": 236061,
       "name": "Garotos II - Ao Vivo",
       "url": "https://open.spotify.com/track/5D7x9PXK62bJ1FzNmsNK4l"
+    },
+    {
+      "added_at": "2026-11-13 03:00:37",
+      "album": {
+        "name": "Caf\u00e9",
+        "url": "https://open.spotify.com/album/2gjoYpivdKaMgyqfZMrAIg"
+      },
+      "artists": [
+        {
+          "name": "Afonso Dubraz",
+          "url": "https://open.spotify.com/artist/1krhmZyrplaD7bcGcYviSe"
+        },
+        {
+          "name": "Mar.iana",
+          "url": "https://open.spotify.com/artist/48vcFBrAdtdJXjVWZKuuwH"
+        }
+      ],
+      "duration_ms": 183641,
+      "name": "Caf\u00e9",
+      "url": "https://open.spotify.com/track/6FF73EidnkO6TvgnUsZNHB"
     },
     {
       "added_at": "2026-11-13 03:00:37",
@@ -843,6 +843,22 @@
     {
       "added_at": "2026-11-13 03:00:37",
       "album": {
+        "name": "AMARINA Canta Kid Abelha",
+        "url": "https://open.spotify.com/album/4iuSPxyDs724tP27eWWrEP"
+      },
+      "artists": [
+        {
+          "name": "AMARINA",
+          "url": "https://open.spotify.com/artist/51NkA7l8OQvbk3p40xzdYG"
+        }
+      ],
+      "duration_ms": 227410,
+      "name": "L\u00e1grimas e Chuva",
+      "url": "https://open.spotify.com/track/5nZ8tWzucUEgElfP919F3A"
+    },
+    {
+      "added_at": "2026-11-13 03:00:37",
+      "album": {
         "name": "Tantos Amores",
         "url": "https://open.spotify.com/album/6L0Jz9YcrAXBgw1auErWFf"
       },
@@ -859,18 +875,26 @@
     {
       "added_at": "2026-11-13 03:00:37",
       "album": {
-        "name": "AMARINA Canta Kid Abelha",
-        "url": "https://open.spotify.com/album/4iuSPxyDs724tP27eWWrEP"
+        "name": "Fa\u00e7a Chuva Ou Fa\u00e7a Sol",
+        "url": "https://open.spotify.com/album/55NNE6eRfjnatWPLa0aKx6"
       },
       "artists": [
         {
-          "name": "AMARINA",
-          "url": "https://open.spotify.com/artist/51NkA7l8OQvbk3p40xzdYG"
+          "name": "Carol Fazu",
+          "url": "https://open.spotify.com/artist/5c6ugniglmJAisZw252uwS"
+        },
+        {
+          "name": "Vanessa Da Mata",
+          "url": "https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7"
+        },
+        {
+          "name": "Liminha",
+          "url": "https://open.spotify.com/artist/7Bgh4WtG88t1VQsGKzszH7"
         }
       ],
-      "duration_ms": 227410,
-      "name": "L\u00e1grimas e Chuva",
-      "url": "https://open.spotify.com/track/5nZ8tWzucUEgElfP919F3A"
+      "duration_ms": 277858,
+      "name": "Fa\u00e7a Chuva Ou Fa\u00e7a Sol",
+      "url": "https://open.spotify.com/track/67xifhsKAR6BpUc0zuGZW5"
     },
     {
       "added_at": "2026-11-13 03:00:37",
@@ -943,22 +967,6 @@
     {
       "added_at": "2026-11-13 03:00:37",
       "album": {
-        "name": "Inofensiva Flor (Primeiro Ato)",
-        "url": "https://open.spotify.com/album/2ddBH6GqRkBj6DtsK0nzPg"
-      },
-      "artists": [
-        {
-          "name": "SalDoce",
-          "url": "https://open.spotify.com/artist/79k0fJ9NVmt26RyXfBNZuG"
-        }
-      ],
-      "duration_ms": 179029,
-      "name": "N\u00e3o Sento \u00e0 Mesa",
-      "url": "https://open.spotify.com/track/0vxOkyxPdPvz376YDuBcHZ"
-    },
-    {
-      "added_at": "2026-11-13 03:00:37",
-      "album": {
         "name": "MATUMBI (Ao vivo)",
         "url": "https://open.spotify.com/album/5yIrL1L2legY3ZrqyWjQlg"
       },
@@ -971,6 +979,22 @@
       "duration_ms": 183680,
       "name": "MATUMBI - Ao vivo",
       "url": "https://open.spotify.com/track/647qGJzdQnsazCgAz95c5Z"
+    },
+    {
+      "added_at": "2026-11-13 03:00:37",
+      "album": {
+        "name": "Inofensiva Flor (Primeiro Ato)",
+        "url": "https://open.spotify.com/album/2ddBH6GqRkBj6DtsK0nzPg"
+      },
+      "artists": [
+        {
+          "name": "SalDoce",
+          "url": "https://open.spotify.com/artist/79k0fJ9NVmt26RyXfBNZuG"
+        }
+      ],
+      "duration_ms": 179029,
+      "name": "N\u00e3o Sento \u00e0 Mesa",
+      "url": "https://open.spotify.com/track/0vxOkyxPdPvz376YDuBcHZ"
     },
     {
       "added_at": "2026-11-13 03:00:37",
@@ -1063,22 +1087,6 @@
     {
       "added_at": "2026-11-13 03:00:37",
       "album": {
-        "name": "Flor",
-        "url": "https://open.spotify.com/album/4CpygNo6hhtstE5OKqXJBt"
-      },
-      "artists": [
-        {
-          "name": "Ananda Paix\u00e3o",
-          "url": "https://open.spotify.com/artist/5LCSzaHtMSsMqXOEjnASiJ"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Flor",
-      "url": "https://open.spotify.com/track/2S298D55M4nMNNWJZxRf2D"
-    },
-    {
-      "added_at": "2026-11-13 03:00:37",
-      "album": {
         "name": "NORTEAR",
         "url": "https://open.spotify.com/album/11sBu1W6HvPSC9KrgIQLjq"
       },
@@ -1095,6 +1103,22 @@
       "duration_ms": 218651,
       "name": "NORTEAR",
       "url": "https://open.spotify.com/track/2xIOmAZZWIV7JBGqpuuwPN"
+    },
+    {
+      "added_at": "2026-11-13 03:00:37",
+      "album": {
+        "name": "Flor",
+        "url": "https://open.spotify.com/album/4CpygNo6hhtstE5OKqXJBt"
+      },
+      "artists": [
+        {
+          "name": "Ananda Paix\u00e3o",
+          "url": "https://open.spotify.com/artist/5LCSzaHtMSsMqXOEjnASiJ"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Flor",
+      "url": "https://open.spotify.com/track/2S298D55M4nMNNWJZxRf2D"
     },
     {
       "added_at": "2026-11-13 03:00:37",
@@ -1139,26 +1163,22 @@
     {
       "added_at": "2026-11-13 03:00:37",
       "album": {
-        "name": "Fa\u00e7a Chuva Ou Fa\u00e7a Sol",
-        "url": "https://open.spotify.com/album/55NNE6eRfjnatWPLa0aKx6"
+        "name": "Odisseu",
+        "url": "https://open.spotify.com/album/39UmJTD7Ej6FHjNWkSeQqf"
       },
       "artists": [
         {
-          "name": "Carol Fazu",
-          "url": "https://open.spotify.com/artist/5c6ugniglmJAisZw252uwS"
+          "name": "Zeca Baleiro",
+          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
         },
         {
-          "name": "Vanessa Da Mata",
-          "url": "https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7"
-        },
-        {
-          "name": "Liminha",
-          "url": "https://open.spotify.com/artist/7Bgh4WtG88t1VQsGKzszH7"
+          "name": "Rodrigo Bittencourt",
+          "url": "https://open.spotify.com/artist/2IlBhuwIzNLOvExaplv0tj"
         }
       ],
-      "duration_ms": 277858,
-      "name": "Fa\u00e7a Chuva Ou Fa\u00e7a Sol",
-      "url": "https://open.spotify.com/track/67xifhsKAR6BpUc0zuGZW5"
+      "duration_ms": 137564,
+      "name": "Odisseu",
+      "url": "https://open.spotify.com/track/3mdem1BGKgYecijYHTUO3n"
     },
     {
       "added_at": "2026-11-13 03:00:37",
@@ -1183,26 +1203,6 @@
     {
       "added_at": "2026-11-13 03:00:37",
       "album": {
-        "name": "Minha Pele",
-        "url": "https://open.spotify.com/album/4ByzxT38Zd94Mj1ehc7bnu"
-      },
-      "artists": [
-        {
-          "name": "Michael Pipoquinha",
-          "url": "https://open.spotify.com/artist/3vT4VjcxsNrmnyk9UjYa6N"
-        },
-        {
-          "name": "Vanessa Moreno",
-          "url": "https://open.spotify.com/artist/3E4sXUXWL4yK5adNYER3a4"
-        }
-      ],
-      "duration_ms": 264993,
-      "name": "Ser \u00c1gua",
-      "url": "https://open.spotify.com/track/04TKTnue3bVfL76UnzlrcL"
-    },
-    {
-      "added_at": "2026-11-13 03:00:37",
-      "album": {
         "name": "Flor de Maracuj\u00e1",
         "url": "https://open.spotify.com/album/6y6BalfQYIoT8Mx6Qc5bnr"
       },
@@ -1219,6 +1219,26 @@
       "duration_ms": 204537,
       "name": "Flor de Maracuj\u00e1",
       "url": "https://open.spotify.com/track/08bxoA6X4I7fdxWN0IW6DY"
+    },
+    {
+      "added_at": "2026-11-13 03:00:37",
+      "album": {
+        "name": "Minha Pele",
+        "url": "https://open.spotify.com/album/4ByzxT38Zd94Mj1ehc7bnu"
+      },
+      "artists": [
+        {
+          "name": "Michael Pipoquinha",
+          "url": "https://open.spotify.com/artist/3vT4VjcxsNrmnyk9UjYa6N"
+        },
+        {
+          "name": "Vanessa Moreno",
+          "url": "https://open.spotify.com/artist/3E4sXUXWL4yK5adNYER3a4"
+        }
+      ],
+      "duration_ms": 264993,
+      "name": "Ser \u00c1gua",
+      "url": "https://open.spotify.com/track/04TKTnue3bVfL76UnzlrcL"
     },
     {
       "added_at": "2026-11-13 03:00:37",
@@ -1331,6 +1351,26 @@
     {
       "added_at": "2026-11-13 03:00:37",
       "album": {
+        "name": "Melodia, Letra E M\u00fasica",
+        "url": "https://open.spotify.com/album/5yXsdyCtLz7hrrH89kiAO9"
+      },
+      "artists": [
+        {
+          "name": "BaianaSystem",
+          "url": "https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5"
+        },
+        {
+          "name": "Luiz Melodia",
+          "url": "https://open.spotify.com/artist/1zZjt7cDeeJSLWZYK34r7W"
+        }
+      ],
+      "duration_ms": 234262,
+      "name": "Brasil Zerado",
+      "url": "https://open.spotify.com/track/5ye9WkEzQ0PdXnLng8BCDS"
+    },
+    {
+      "added_at": "2026-11-13 03:00:37",
+      "album": {
         "name": "Vila Madalena",
         "url": "https://open.spotify.com/album/0D4bZ7N4UivEhWt734dPeA"
       },
@@ -1383,6 +1423,26 @@
       "duration_ms": 202837,
       "name": "Verde em Mim",
       "url": "https://open.spotify.com/track/576twieNfCtHJmHHw5VXyZ"
+    },
+    {
+      "added_at": "2026-11-13 03:00:37",
+      "album": {
+        "name": "N\u00e3o Resisto",
+        "url": "https://open.spotify.com/album/11UAPwO6V0XwUxs0cd5Dhm"
+      },
+      "artists": [
+        {
+          "name": "Mamacita",
+          "url": "https://open.spotify.com/artist/0zd6LHxak21D37nMKpT4k2"
+        },
+        {
+          "name": "Filhos De Jorge",
+          "url": "https://open.spotify.com/artist/2V9RQWP2Dk6IEauL7D14vE"
+        }
+      ],
+      "duration_ms": 241097,
+      "name": "N\u00e3o Resisto",
+      "url": "https://open.spotify.com/track/2H2GJZLJokgrgvtYKTSMbv"
     },
     {
       "added_at": "2026-11-13 03:00:37",
@@ -1459,46 +1519,6 @@
     {
       "added_at": "2026-11-13 03:00:37",
       "album": {
-        "name": "Odisseu",
-        "url": "https://open.spotify.com/album/39UmJTD7Ej6FHjNWkSeQqf"
-      },
-      "artists": [
-        {
-          "name": "Zeca Baleiro",
-          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
-        },
-        {
-          "name": "Rodrigo Bittencourt",
-          "url": "https://open.spotify.com/artist/2IlBhuwIzNLOvExaplv0tj"
-        }
-      ],
-      "duration_ms": 137564,
-      "name": "Odisseu",
-      "url": "https://open.spotify.com/track/3mdem1BGKgYecijYHTUO3n"
-    },
-    {
-      "added_at": "2026-11-13 03:00:37",
-      "album": {
-        "name": "N\u00e3o Resisto",
-        "url": "https://open.spotify.com/album/11UAPwO6V0XwUxs0cd5Dhm"
-      },
-      "artists": [
-        {
-          "name": "Mamacita",
-          "url": "https://open.spotify.com/artist/0zd6LHxak21D37nMKpT4k2"
-        },
-        {
-          "name": "Filhos De Jorge",
-          "url": "https://open.spotify.com/artist/2V9RQWP2Dk6IEauL7D14vE"
-        }
-      ],
-      "duration_ms": 241097,
-      "name": "N\u00e3o Resisto",
-      "url": "https://open.spotify.com/track/2H2GJZLJokgrgvtYKTSMbv"
-    },
-    {
-      "added_at": "2026-11-13 03:00:37",
-      "album": {
         "name": "Melodia, Letra E M\u00fasica",
         "url": "https://open.spotify.com/album/5yXsdyCtLz7hrrH89kiAO9"
       },
@@ -1515,26 +1535,6 @@
       "duration_ms": 181152,
       "name": "Sol",
       "url": "https://open.spotify.com/track/00NkWIcqGqBjcOcgl6IhZ4"
-    },
-    {
-      "added_at": "2026-11-13 03:00:37",
-      "album": {
-        "name": "Melodia, Letra E M\u00fasica",
-        "url": "https://open.spotify.com/album/5yXsdyCtLz7hrrH89kiAO9"
-      },
-      "artists": [
-        {
-          "name": "BaianaSystem",
-          "url": "https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5"
-        },
-        {
-          "name": "Luiz Melodia",
-          "url": "https://open.spotify.com/artist/1zZjt7cDeeJSLWZYK34r7W"
-        }
-      ],
-      "duration_ms": 234262,
-      "name": "Brasil Zerado",
-      "url": "https://open.spotify.com/track/5ye9WkEzQ0PdXnLng8BCDS"
     }
   ],
   "unique_name": "Divina MPB",

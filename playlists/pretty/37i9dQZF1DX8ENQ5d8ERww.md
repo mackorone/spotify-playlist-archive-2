@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ENQ5d8ERww.md) - [plain]
 
 > Playlist Takeover by Bligg!
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,835 likes - 49 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,837 likes - 49 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ENQ5d8ERww.md) - [plain]
 | 34 | [Du Hesch Ke](https://open.spotify.com/track/6AxLcMZFBLbBd5Hqvp7zdt) | [Webba](https://open.spotify.com/artist/017QhuKZfqKAxJHG2ZmolS), [Baze](https://open.spotify.com/artist/0EWsAmk51sjDlGl7PsvqcH) | [Deheim?](https://open.spotify.com/album/3TTzTj4qNDBe5FpnsLyjzZ) | 4:32 |
 | 35 | [Wänn](https://open.spotify.com/track/7G8YSQkUa5BOH1EDUVcPZ3) | [Bligg'N'Lexx](https://open.spotify.com/artist/2YTqyRWexXW6jaGClLdCiK) | [Nahdisnah](https://open.spotify.com/album/6RRQcMVBLhYLGxGXIMhjj4) | 3:27 |
 | 36 | [Jede Tag'n Gleiser](https://open.spotify.com/track/6fJJDogk53KAtqzeeoVhps) | [Gleiszwei](https://open.spotify.com/artist/3NjptE7Yo7b2aruvzkCHpr) | [Jede Tag'n Gleiser](https://open.spotify.com/album/36TdZUObvdhSonV6NGNPQa) | 4:22 |
-| 37 | [Geballte Hip Hop](https://open.spotify.com/track/6LqQztJDvD5ogdiAaC7bGr) | [P\-27](https://open.spotify.com/artist/0iZYuDnS5bC4TkPV6qjfwZ), [MC Rony](https://open.spotify.com/artist/56Kjn0hNGTllLfRC0YHqrq) | [Dr einzig Wäg](https://open.spotify.com/album/6WMbMSXyaowPhQV5sXXAhE) | 3:50 |
+| 37 | [Brugg](https://open.spotify.com/track/1HjO1qlADcfS0B11LNMmww) | [Taz](https://open.spotify.com/artist/2aKdREOO8umyTjMapXmKbS) | [Introspektion](https://open.spotify.com/album/21S84n0cOoQmfDVUyD8TrO) | 4:11 |
 | 38 | [Hip Hop Kultur \(feat\. Black Tiger & Skelt!\)](https://open.spotify.com/track/1FuozMI3cN9K7eZUoaYl5a) | [AOH Family](https://open.spotify.com/artist/6J8clSIX1gKyknptGxlAct), [Black Tiger](https://open.spotify.com/artist/4okygcKGLIMASoQNIldJWZ), [Skelt!](https://open.spotify.com/artist/72mwhpTF4TBBZo0erVXELM) | [Chill](https://open.spotify.com/album/2f5D1RmL2eg6iWFZPjPBxF) | 4:08 |
-| 39 | [Brugg](https://open.spotify.com/track/1HjO1qlADcfS0B11LNMmww) | [Taz](https://open.spotify.com/artist/2aKdREOO8umyTjMapXmKbS) | [Introspektion](https://open.spotify.com/album/21S84n0cOoQmfDVUyD8TrO) | 4:11 |
+| 39 | [Geballte Hip Hop](https://open.spotify.com/track/6LqQztJDvD5ogdiAaC7bGr) | [P\-27](https://open.spotify.com/artist/0iZYuDnS5bC4TkPV6qjfwZ), [MC Rony](https://open.spotify.com/artist/56Kjn0hNGTllLfRC0YHqrq) | [Dr einzig Wäg](https://open.spotify.com/album/6WMbMSXyaowPhQV5sXXAhE) | 3:50 |
 | 40 | [Du & Ich](https://open.spotify.com/track/5jAylcCbJaBKmRHgRUTxQC) | [Bligg'N'Lexx](https://open.spotify.com/artist/2YTqyRWexXW6jaGClLdCiK), [Pete Penicka](https://open.spotify.com/artist/2isO7oz1eaYNOlFJCUbWSN) | [Nahdisnah](https://open.spotify.com/album/6RRQcMVBLhYLGxGXIMhjj4) | 5:09 |
 | 41 | [Läbenslauf](https://open.spotify.com/track/3DdMYzqyIg7mXI47UTcNmN) | [Wrecked Mob](https://open.spotify.com/artist/0QIYFbo3qmvlapTnwPM6i3), [Dj Thomilla](https://open.spotify.com/artist/2WLE4ikok9I4HuBm9637rx) | [Läbenslauf](https://open.spotify.com/album/3hGDhRc16xd2dhfjLQsHZh) | 4:02 |
 | 42 | [Bruch e Waag](https://open.spotify.com/track/7xStlWtb0Wm9Brn2wCwMLj) | [Gleiszwei](https://open.spotify.com/artist/3NjptE7Yo7b2aruvzkCHpr), [Bligg](https://open.spotify.com/artist/1q4LHoD7IzquqGQR4YZRQr) | [Jede Tag'n Gleiser](https://open.spotify.com/album/36TdZUObvdhSonV6NGNPQa) | 4:33 |

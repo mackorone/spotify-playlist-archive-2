@@ -1,6 +1,6 @@
 {
   "description": "A collection of Industrial Metal - fresh and old tunes. Cover: Fear Factory",
-  "num_followers": 383355,
+  "num_followers": 383402,
   "original_name": "Industrial Metal",
   "owner": {
     "name": "Spotify",
@@ -655,22 +655,6 @@
     {
       "added_at": "2025-02-10 19:48:47",
       "album": {
-        "name": "Angst",
-        "url": "https://open.spotify.com/album/6We2VFbkhbRCQNX7Vud8aY"
-      },
-      "artists": [
-        {
-          "name": "KMFDM",
-          "url": "https://open.spotify.com/artist/3V4IvzRQYP5mzuVtkcHgVa"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "A Drug Against War",
-      "url": "https://open.spotify.com/track/0jHmidMFTjOSkzuHrNepY7"
-    },
-    {
-      "added_at": "2025-02-10 19:48:47",
-      "album": {
         "name": "Killing Joke",
         "url": "https://open.spotify.com/album/0QdWqJmpfrgIepHxGNU4Rs"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 416186,
       "name": "The Death & Resurrection Show",
       "url": "https://open.spotify.com/track/2JUo8iX8FC05xd9GEpw9BI"
+    },
+    {
+      "added_at": "2025-02-10 19:48:47",
+      "album": {
+        "name": "Angst",
+        "url": "https://open.spotify.com/album/6We2VFbkhbRCQNX7Vud8aY"
+      },
+      "artists": [
+        {
+          "name": "KMFDM",
+          "url": "https://open.spotify.com/artist/3V4IvzRQYP5mzuVtkcHgVa"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "A Drug Against War",
+      "url": "https://open.spotify.com/track/0jHmidMFTjOSkzuHrNepY7"
     },
     {
       "added_at": "2025-02-10 19:48:47",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2025-02-10 19:48:47",
       "album": {
-        "name": "Omen X",
-        "url": "https://open.spotify.com/album/0rZ68Kxj4KqbhFABfIAQxv"
-      },
-      "artists": [
-        {
-          "name": "Turmion K\u00e4til\u00f6t",
-          "url": "https://open.spotify.com/artist/76t3VPzCEYAlrZhVAY7yjg"
-        }
-      ],
-      "duration_ms": 206147,
-      "name": "Totuus",
-      "url": "https://open.spotify.com/track/110q5eExcmrgf0fsE610ON"
-    },
-    {
-      "added_at": "2025-02-10 19:48:47",
-      "album": {
         "name": "Terapunk",
         "url": "https://open.spotify.com/album/6YJolVxpGYWLOmjQ3e4Ma5"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 238590,
       "name": "Many Thanks",
       "url": "https://open.spotify.com/track/0VTDOr2TTKXeTAeXTfSLQH"
+    },
+    {
+      "added_at": "2025-02-10 19:48:47",
+      "album": {
+        "name": "Omen X",
+        "url": "https://open.spotify.com/album/0rZ68Kxj4KqbhFABfIAQxv"
+      },
+      "artists": [
+        {
+          "name": "Turmion K\u00e4til\u00f6t",
+          "url": "https://open.spotify.com/artist/76t3VPzCEYAlrZhVAY7yjg"
+        }
+      ],
+      "duration_ms": 206147,
+      "name": "Totuus",
+      "url": "https://open.spotify.com/track/110q5eExcmrgf0fsE610ON"
     },
     {
       "added_at": "2025-02-10 19:48:47",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2025-02-10 19:48:47",
       "album": {
-        "name": "Post Self",
-        "url": "https://open.spotify.com/album/4yLRI4kaOy4LhSPZ2sCVbE"
-      },
-      "artists": [
-        {
-          "name": "Godflesh",
-          "url": "https://open.spotify.com/artist/5A4ebXQf38xWIq0xSWLhsS"
-        }
-      ],
-      "duration_ms": 268500,
-      "name": "Post Self",
-      "url": "https://open.spotify.com/track/3NDXaUSkdIu36ORI7TpB7J"
-    },
-    {
-      "added_at": "2025-02-10 19:48:47",
-      "album": {
         "name": "Disobey (Disruptor Remix)",
         "url": "https://open.spotify.com/album/6qeYZ9eiG9uMyvlR3n5pK6"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 208250,
       "name": "Disobey - Disruptor Remix",
       "url": "https://open.spotify.com/track/5ovhDF3buYTpIgwgqhIwxf"
+    },
+    {
+      "added_at": "2025-02-10 19:48:47",
+      "album": {
+        "name": "Post Self",
+        "url": "https://open.spotify.com/album/4yLRI4kaOy4LhSPZ2sCVbE"
+      },
+      "artists": [
+        {
+          "name": "Godflesh",
+          "url": "https://open.spotify.com/artist/5A4ebXQf38xWIq0xSWLhsS"
+        }
+      ],
+      "duration_ms": 268500,
+      "name": "Post Self",
+      "url": "https://open.spotify.com/track/3NDXaUSkdIu36ORI7TpB7J"
     },
     {
       "added_at": "2025-02-10 19:48:47",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2025-02-10 19:48:47",
       "album": {
-        "name": "Bits and Razors",
-        "url": "https://open.spotify.com/album/1SugTKvFL1DYE9jOrEvxlb"
-      },
-      "artists": [
-        {
-          "name": "Rabbit Junk",
-          "url": "https://open.spotify.com/artist/3Cnkej21cJ1XgbAh98CbaS"
-        }
-      ],
-      "duration_ms": 243446,
-      "name": "Bits and Razors",
-      "url": "https://open.spotify.com/track/1u9wZPcZ72MtBdmsmh0FdT"
-    },
-    {
-      "added_at": "2025-02-10 19:48:47",
-      "album": {
         "name": "Burn Everything",
         "url": "https://open.spotify.com/album/3YVOIopHaBdAnj3dBe97od"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 263581,
       "name": "Burn Everything",
       "url": "https://open.spotify.com/track/3TnHNsSdOYdqQdXyivAmuH"
+    },
+    {
+      "added_at": "2025-02-10 19:48:47",
+      "album": {
+        "name": "Bits and Razors",
+        "url": "https://open.spotify.com/album/1SugTKvFL1DYE9jOrEvxlb"
+      },
+      "artists": [
+        {
+          "name": "Rabbit Junk",
+          "url": "https://open.spotify.com/artist/3Cnkej21cJ1XgbAh98CbaS"
+        }
+      ],
+      "duration_ms": 243446,
+      "name": "Bits and Razors",
+      "url": "https://open.spotify.com/track/1u9wZPcZ72MtBdmsmh0FdT"
     },
     {
       "added_at": "2025-02-10 19:48:47",

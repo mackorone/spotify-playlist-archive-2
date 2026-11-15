@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lnB9anGfHa.md) - [plain]
 
 > ⚸⚸⚸ a journey into the unknown, dark, and experimental ⚸⚸⚸ featuring Marina Herlop
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,772 likes - 75 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,769 likes - 75 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,13 +75,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lnB9anGfHa.md) - [plain]
 | 65 | [Mater Nostra](https://open.spotify.com/track/0JKTOPYIAcQDm3xXI70Td7) | [Tara Nome Doyle](https://open.spotify.com/artist/4juPbQZA8Z5lkQYtd4pNmv) | [Mater Nostra](https://open.spotify.com/album/4Vg6Hxk3DDESq2aKuuo4Vm) | 3:02 |
 | 66 | [Empty space](https://open.spotify.com/track/7hctEV1xzChyXgCzzMNpth) | [Bianca Scout](https://open.spotify.com/artist/0SViH83GsqJ0GCwnmTTlep) | [The Heart of the Anchoress](https://open.spotify.com/album/3MawvDSn4MxS2a73jPe10o) | 3:47 |
 | 67 | [First Swim, A Water Chant](https://open.spotify.com/track/3CRLEMYQG6PMUnbTqfeKVM) | [Marta Del Grandi](https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh) | [Selva \(Deluxe Edition\)](https://open.spotify.com/album/5RlbXZBXYwJJ8fmIysFdrV) | 3:43 |
-| 68 | [Tripa](https://open.spotify.com/track/2ZHOJDeaKVg5pjzUkeowg0) | [EROSÃO PERCUSSION TRIO](https://open.spotify.com/artist/6pJEWTWt1LtDGRsUI94HCp), [Mariá Portugal](https://open.spotify.com/artist/76rKC4Y5Yi4H4iPKxztPlP), [Emilio Gordoa](https://open.spotify.com/artist/0Hvy8AUVAHtj1okGk0mQ7j), [Burkhard Beins](https://open.spotify.com/artist/55mu6j4QLbeRvGSQiN7dEg) | [EROSÃO PERCUSSION TRIO](https://open.spotify.com/album/0Cz8hm5ZVAsmfXHNAi2mZ8) | 5:44 |
-| 69 | [Jardín de Planetas](https://open.spotify.com/track/1BfNftMwrFFTcyAZbPLn9x) | [Mercedes Nasta](https://open.spotify.com/artist/0eHEhyv8iCI5pLiD5Eh3vH), [Rodrigo Blanco](https://open.spotify.com/artist/21HbMlb9irHkIBRljFaoIK) | [Jardín de Planetas](https://open.spotify.com/album/2pldZMO9zTtv2DLkMaIRa7) | 6:14 |
+| 68 | [Jardín de Planetas](https://open.spotify.com/track/1BfNftMwrFFTcyAZbPLn9x) | [Mercedes Nasta](https://open.spotify.com/artist/0eHEhyv8iCI5pLiD5Eh3vH), [Rodrigo Blanco](https://open.spotify.com/artist/21HbMlb9irHkIBRljFaoIK) | [Jardín de Planetas](https://open.spotify.com/album/2pldZMO9zTtv2DLkMaIRa7) | 6:14 |
+| 69 | [Tripa](https://open.spotify.com/track/2ZHOJDeaKVg5pjzUkeowg0) | [EROSÃO PERCUSSION TRIO](https://open.spotify.com/artist/6pJEWTWt1LtDGRsUI94HCp), [Mariá Portugal](https://open.spotify.com/artist/76rKC4Y5Yi4H4iPKxztPlP), [Emilio Gordoa](https://open.spotify.com/artist/0Hvy8AUVAHtj1okGk0mQ7j), [Burkhard Beins](https://open.spotify.com/artist/55mu6j4QLbeRvGSQiN7dEg) | [EROSÃO PERCUSSION TRIO](https://open.spotify.com/album/0Cz8hm5ZVAsmfXHNAi2mZ8) | 5:44 |
 | 70 | [Good Grounds](https://open.spotify.com/track/6PWkv2o1eN0zwCjv84RgtL) | [Fallwander](https://open.spotify.com/artist/2WcqiTkQbwFH3hHZ0Xrfl9) | [Good Grounds](https://open.spotify.com/album/4NnMcBS50RFGzf2Fe49qvO) | 5:05 |
 | 71 | [Ripagnola Alle 19 \(feat\. Orelle, Martina Primavera\)](https://open.spotify.com/track/0c8mwvjTYUZUMwiLn4vhbX) | [Maladé](https://open.spotify.com/artist/4pLZb6eSKa9V8EB0vF0VTl), [Orelle](https://open.spotify.com/artist/759n9HvatPa0PARbAtn6Cs), [Martina Primavera](https://open.spotify.com/artist/1f7xLN7zodIwUg2W2McjNn) | [Ripagnola Alle 19 \(feat\. Orelle, Martina Primavera\)](https://open.spotify.com/album/4FrLdV5HORBNYmyFTHgQhF) | 2:56 |
 | 72 | [ANIMAL SEEKING](https://open.spotify.com/track/226CR861s1Xc1hrLfdPNxj) | [Astoria](https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6) | [Pt\. II](https://open.spotify.com/album/5BVjkQyN80FvN61CGaY5bl) | 3:19 |
-| 73 | [Thou Art Mortal \- Julia Holter Rework](https://open.spotify.com/track/6wt6su6c5kE2igsgHPs4Sj) | [Penelope Trappes](https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT), [Julia Holter](https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E) | [OPVS NOVUM: A Requiem Reworked](https://open.spotify.com/album/0BDOnuEIPCcya95B82Z3RY) | 4:26 |
-| 74 | [An Embroidery](https://open.spotify.com/track/3fGOSGKCGV4WTnDIOhD22M) | [Clarissa Connelly](https://open.spotify.com/artist/5YTJVNTfb9qDXATTlzuR5S) | [Life of the Forbidden](https://open.spotify.com/album/2BMxhHwUGmuagtQWxIYw3R) | 4:09 |
-| 75 | [Drum Jump](https://open.spotify.com/track/0mCZfrseEMpeQlCLf99UyG) | [Valentina Magaletti](https://open.spotify.com/artist/0jPLDwuZUzb6qZdfi5XPHz) | [Lucha Libre](https://open.spotify.com/album/5AaVrBrxC3MQ18DGqU6XUA) | 4:12 |
+| 73 | [An Embroidery](https://open.spotify.com/track/3fGOSGKCGV4WTnDIOhD22M) | [Clarissa Connelly](https://open.spotify.com/artist/5YTJVNTfb9qDXATTlzuR5S) | [Life of the Forbidden](https://open.spotify.com/album/2BMxhHwUGmuagtQWxIYw3R) | 4:09 |
+| 74 | [Drum Jump](https://open.spotify.com/track/0mCZfrseEMpeQlCLf99UyG) | [Valentina Magaletti](https://open.spotify.com/artist/0jPLDwuZUzb6qZdfi5XPHz) | [Lucha Libre](https://open.spotify.com/album/5AaVrBrxC3MQ18DGqU6XUA) | 4:12 |
+| 75 | [Thou Art Mortal \- Julia Holter Rework](https://open.spotify.com/track/6wt6su6c5kE2igsgHPs4Sj) | [Penelope Trappes](https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT), [Julia Holter](https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E) | [OPVS NOVUM: A Requiem Reworked](https://open.spotify.com/album/0BDOnuEIPCcya95B82Z3RY) | 4:26 |
 
 Snapshot ID: `AAAAAOIrM/O9bEnfjVpTRBShUaXWG9Ca`

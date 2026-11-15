@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO30BEsx.md) - [plain]
 
 > This is Gautier Capuçon\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,132 likes - 50 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,135 likes - 50 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO30BEsx.md) - [plain]
 | 49 | [Schubert: String Quintet in C Major, Op\. 163, D\. 956: II\. Adagio](https://open.spotify.com/track/25mDxI046ioWDZZgSF2MYT) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Quatuor Ébène](https://open.spotify.com/artist/2fFxNneQmtCTdIwEpfXnqe), [Gautier Capuçon](https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI) | [Schubert: String Quintet, Op\. 163 & Lieder](https://open.spotify.com/album/72zb4wpILnZEVoUfnhnDVg) | 15:13 |
 | 50 | [Haydn: Cello Concerto in D Major, Hob\. VIIb:4: II\. Adagio](https://open.spotify.com/track/4KggTORwddWKbadt65VtoS) | [Joseph Haydn](https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6), [Gautier Capuçon](https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI), [Mahler Chamber Orchestra](https://open.spotify.com/artist/5g44FyRrB0AUEdQbqW4jAo), [Daniel Harding](https://open.spotify.com/artist/3sjupE75AphhTX12fgkQv6) | [Haydn: Cello Concertos](https://open.spotify.com/album/5lIyZy3BA2mzcQjgobHQva) | 5:13 |
 
-Snapshot ID: `avUBgAAAAACmQDpKOvvnJ0MIlQx4uNAa`
+Snapshot ID: `avZTAAAAAAB0bp+gQzUf16SITuZWi0lQ`

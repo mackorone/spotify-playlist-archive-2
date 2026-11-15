@@ -1,6 +1,6 @@
 {
   "description": "Release the bats... The Cure on cover.",
-  "num_followers": 975231,
+  "num_followers": 975307,
   "original_name": "Dark & Gothic",
   "owner": {
     "name": "Spotify",
@@ -443,22 +443,6 @@
     {
       "added_at": "2026-03-20 04:00:51",
       "album": {
-        "name": "Songs to Learn & Sing",
-        "url": "https://open.spotify.com/album/0VYyqjM5H2sXj6z8ocAyjb"
-      },
-      "artists": [
-        {
-          "name": "Echo & the Bunnymen",
-          "url": "https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z"
-        }
-      ],
-      "duration_ms": 346280,
-      "name": "The Killing Moon",
-      "url": "https://open.spotify.com/track/15049rGLXHwrWtE4euUb5C"
-    },
-    {
-      "added_at": "2026-03-20 04:00:51",
-      "album": {
         "name": "Some Girls Wander by Mistake",
         "url": "https://open.spotify.com/album/5fdbQYbqTnCLNTibBdoerT"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 488011,
       "name": "Temple of Love - 1992",
       "url": "https://open.spotify.com/track/53O11dqezFoFYaaMjr1SPP"
+    },
+    {
+      "added_at": "2026-03-20 04:00:51",
+      "album": {
+        "name": "Songs to Learn & Sing",
+        "url": "https://open.spotify.com/album/0VYyqjM5H2sXj6z8ocAyjb"
+      },
+      "artists": [
+        {
+          "name": "Echo & the Bunnymen",
+          "url": "https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z"
+        }
+      ],
+      "duration_ms": 346280,
+      "name": "The Killing Moon",
+      "url": "https://open.spotify.com/track/15049rGLXHwrWtE4euUb5C"
     },
     {
       "added_at": "2026-03-20 04:00:51",
@@ -715,22 +715,6 @@
     {
       "added_at": "2026-03-20 04:00:51",
       "album": {
-        "name": "Lesbian Vampyres From Outer Space",
-        "url": "https://open.spotify.com/album/4LzNXDB14FzfvQ0DzxX0VU"
-      },
-      "artists": [
-        {
-          "name": "Scary Bitches",
-          "url": "https://open.spotify.com/artist/5jKvhXUMiw1OXFEtLNlk1w"
-        }
-      ],
-      "duration_ms": 212680,
-      "name": "Lesbian Vampyres From Outer Space",
-      "url": "https://open.spotify.com/track/3lDZlK0YCWCIkI4y9OVboy"
-    },
-    {
-      "added_at": "2026-03-20 04:00:51",
-      "album": {
         "name": "The Best Of",
         "url": "https://open.spotify.com/album/0p8Zy0wEzDYiFDcSt07UHe"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 250413,
       "name": "Atmosphere",
       "url": "https://open.spotify.com/track/0NBgmP6Yg5xZYsnIZ0pGdo"
+    },
+    {
+      "added_at": "2026-03-20 04:00:51",
+      "album": {
+        "name": "Lesbian Vampyres From Outer Space",
+        "url": "https://open.spotify.com/album/4LzNXDB14FzfvQ0DzxX0VU"
+      },
+      "artists": [
+        {
+          "name": "Scary Bitches",
+          "url": "https://open.spotify.com/artist/5jKvhXUMiw1OXFEtLNlk1w"
+        }
+      ],
+      "duration_ms": 212680,
+      "name": "Lesbian Vampyres From Outer Space",
+      "url": "https://open.spotify.com/track/3lDZlK0YCWCIkI4y9OVboy"
     },
     {
       "added_at": "2026-03-20 04:00:51",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-03-20 04:00:51",
       "album": {
-        "name": "The Botanic Verses",
-        "url": "https://open.spotify.com/album/5ZgrlWIPhODOEV0kTpiuYh"
-      },
-      "artists": [
-        {
-          "name": "The March Violets",
-          "url": "https://open.spotify.com/artist/03FKngvcynr4H8PuTP8n19"
-        }
-      ],
-      "duration_ms": 246560,
-      "name": "Snake Dance",
-      "url": "https://open.spotify.com/track/20CMNatKGvGsH9H1WjSYYZ"
-    },
-    {
-      "added_at": "2026-03-20 04:00:51",
-      "album": {
         "name": "Is Nothing Sacred?",
         "url": "https://open.spotify.com/album/2VgrqPs1veikehj6Vc0JS8"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 205693,
       "name": "Dance With Me",
       "url": "https://open.spotify.com/track/1AhLr3bpGIfeHUZ18WCpPV"
+    },
+    {
+      "added_at": "2026-03-20 04:00:51",
+      "album": {
+        "name": "The Botanic Verses",
+        "url": "https://open.spotify.com/album/5ZgrlWIPhODOEV0kTpiuYh"
+      },
+      "artists": [
+        {
+          "name": "The March Violets",
+          "url": "https://open.spotify.com/artist/03FKngvcynr4H8PuTP8n19"
+        }
+      ],
+      "duration_ms": 246560,
+      "name": "Snake Dance",
+      "url": "https://open.spotify.com/track/20CMNatKGvGsH9H1WjSYYZ"
     },
     {
       "added_at": "2026-03-20 04:00:51",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2026-03-20 04:00:51",
       "album": {
-        "name": "When I Have Fears",
-        "url": "https://open.spotify.com/album/0VUkPkmgAlCqVkh4no3t3t"
-      },
-      "artists": [
-        {
-          "name": "The Murder Capital",
-          "url": "https://open.spotify.com/artist/18M7pJRsgFVjEBZ5ufmJAp"
-        }
-      ],
-      "duration_ms": 146978,
-      "name": "Don't Cling To Life",
-      "url": "https://open.spotify.com/track/1G86SCUObSm1lP2ZXaup5l"
-    },
-    {
-      "added_at": "2026-03-20 04:00:51",
-      "album": {
         "name": "Feel It Break",
         "url": "https://open.spotify.com/album/7kZDvUzWaeZrvkEc3Jr1e8"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 295680,
       "name": "Beat And The Pulse",
       "url": "https://open.spotify.com/track/5hyEQ6BNYKYrsRNiUxrXT4"
+    },
+    {
+      "added_at": "2026-03-20 04:00:51",
+      "album": {
+        "name": "When I Have Fears",
+        "url": "https://open.spotify.com/album/0VUkPkmgAlCqVkh4no3t3t"
+      },
+      "artists": [
+        {
+          "name": "The Murder Capital",
+          "url": "https://open.spotify.com/artist/18M7pJRsgFVjEBZ5ufmJAp"
+        }
+      ],
+      "duration_ms": 146978,
+      "name": "Don't Cling To Life",
+      "url": "https://open.spotify.com/track/1G86SCUObSm1lP2ZXaup5l"
     },
     {
       "added_at": "2026-03-20 04:00:51",

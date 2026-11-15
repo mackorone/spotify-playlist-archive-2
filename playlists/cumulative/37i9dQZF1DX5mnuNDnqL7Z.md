@@ -2,7 +2,7 @@
 
 ### [Pop Girlies](https://open.spotify.com/playlist/37i9dQZF1DX5mnuNDnqL7Z)
 
-> Who run the world? Cover: XG
+> Who run the world? Cover: Dove Cameron
 
 469 songs - 1 day 0 hr 35 min
 
@@ -107,7 +107,7 @@
 | [Danceteria Afterhours](https://open.spotify.com/track/3j7BhP71ROCpc9R3w9P9UE) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Danceteria Afterhours](https://open.spotify.com/album/7jX2nfe1lBHd4BsOLwuzh9) | 3:50 | 2026-09-28 |  |
 | [Dancing](https://open.spotify.com/track/4rcF5dwIHEVOgQQhva1OOI) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [What Are The Odds](https://open.spotify.com/album/53Rf76kJAhJNtyrxLgKTRa) | 2:41 | 2026-08-25 | 2026-09-28 |
 | [Delusional](https://open.spotify.com/track/4h9sNzgP3m0gSyNGatmOa8) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [Delusional](https://open.spotify.com/album/0ypHHAUT74yYKJjdOQgqQi) | 3:16 | 2026-04-20 | 2026-06-09 |
-| [DEPENDS](https://open.spotify.com/track/23rcMbTChRPIwtCycyb3E4) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [DEPENDS](https://open.spotify.com/album/1ovXAdBxEGkXoYkIEg0IG8) | 3:05 | 2026-11-10 |  |
+| [DEPENDS](https://open.spotify.com/track/23rcMbTChRPIwtCycyb3E4) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [DEPENDS](https://open.spotify.com/album/1ovXAdBxEGkXoYkIEg0IG8) | 3:05 | 2026-11-10 | 2026-11-15 |
 | [Didn't I](https://open.spotify.com/track/4O4f29FbJH50Nu8jBXKtQT) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Didn't I](https://open.spotify.com/album/6MtBtFiKOgpwO5RaCBClhs) | 3:19 | 2026-06-23 | 2026-08-18 |
 | [Diet Pepsi](https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Diet Pepsi](https://open.spotify.com/album/0XA403JTounqFh2owquBXu) | 2:49 | 2026-03-16 | 2026-03-31 |
 | [Digital Girl](https://open.spotify.com/track/3GpQ2bhljJkAF1IXaShbMh) | [Cherry Bomb](https://open.spotify.com/artist/2MpXbvJeuKYA2qyxdB0eCM) | [Digital Girl](https://open.spotify.com/album/7sTZXQHgiLUZBUBVrugT51) | 3:07 | 2026-03-23 | 2026-04-21 |

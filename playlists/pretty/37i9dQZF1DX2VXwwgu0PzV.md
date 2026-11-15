@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. Cover: Princeton South
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,369 likes - 122 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,382 likes - 122 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,7 +116,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 106 | [OSHEY](https://open.spotify.com/track/5CMXF1DMTPfvKn1cbMXIva) | [Photizo](https://open.spotify.com/artist/37SQpQ58OXMe2bsqkan9dV) | [OSHEY](https://open.spotify.com/album/0jYWj8leKga9PB4MLfZYSQ) | 2:31 |
 | 107 | [Stay Focus](https://open.spotify.com/track/7x8MtYeLcquH4lgMNCDGK5) | [Emino Music](https://open.spotify.com/artist/65GNAr0aGMupyBKVZ4p98a), [Joebee](https://open.spotify.com/artist/2G7eSWBy0QnGT1Ot6HUbP1), [Mckelv](https://open.spotify.com/artist/1hp89EeuCGUjpcEzqAFWia), [J3:16](https://open.spotify.com/artist/5KL8TE5kpFXmPqm3i3Les5), [Ama Agbo](https://open.spotify.com/artist/1pTtCVB1Iaq6JYauGxefL5) | [Stay Focus](https://open.spotify.com/album/1oHOngiiRnWK7tgZt0rXb8) | 3:31 |
 | 108 | [On A Daily](https://open.spotify.com/track/4WWOSJZqmUw0ERQdA61KFO) | [Sam Jamz](https://open.spotify.com/artist/0WVbwaQHSJrgNuAOfxmwJd), [Agent Snypa](https://open.spotify.com/artist/5LUpT5RzeYT5aH16GfEzHJ), [Monaze](https://open.spotify.com/artist/7JNHDlrPW4GTk61apyMASG) | [On A Daily](https://open.spotify.com/album/18K7769itfoaaBnOTr9X4s) | 2:36 |
-| 109 | [Ekele](https://open.spotify.com/track/2FMTfkIPXzgyk5ZZVBRnOK) | [Masterkraft](https://open.spotify.com/artist/0lEUtJddtvvDlxtEmF9j0m), [DJ iRems](https://open.spotify.com/artist/4s7PAqbHCiBNAOEJaxywVt) | [Party Starter \(PS2\)](https://open.spotify.com/album/4xeGPODNCUeQpcnD2KcGR1) | 4:14 |
+| 109 | [Ekele](https://open.spotify.com/track/2FMTfkIPXzgyk5ZZVBRnOK) | [Masterkraft](https://open.spotify.com/artist/0lEUtJddtvvDlxtEmF9j0m), [DJ IREM$](https://open.spotify.com/artist/37hnvScWDD69kSOnSSgWQB) | [Party Starter \(PS2\)](https://open.spotify.com/album/4xeGPODNCUeQpcnD2KcGR1) | 4:14 |
 | 110 | [You God](https://open.spotify.com/track/3ZLL2PTBvwbyaWgcotVZip) | [Kachi Annuncia](https://open.spotify.com/artist/1BX5LtwtToqHi5kRICFlYf) | [You God](https://open.spotify.com/album/4Jh2UhQ9UW9piDyhGnPoEz) | 2:29 |
 | 111 | [freefall](https://open.spotify.com/track/0IbfOEL77YrIytZLoZEgLB) | [Sinmidele](https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj) | [pilgrim](https://open.spotify.com/album/44fQq4uTh4eKoeKnbgs3SV) | 3:41 |
 | 112 | [Opoor](https://open.spotify.com/track/4x8FvaKlTNG3xqH2FFIEMh) | [John Cohen](https://open.spotify.com/artist/2FtfAArq8K0ErCdNtzwK4T) | [Opoor](https://open.spotify.com/album/1Bn7ykazgGUp0jbygng6uw) | 2:29 |

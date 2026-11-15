@@ -1,12 +1,12 @@
 {
   "description": "This is Gabriela Rocha. The essential tracks, all in one playlist.",
-  "num_followers": 269073,
+  "num_followers": 269067,
   "original_name": "This Is Gabriela Rocha",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avUBgAAAAADmegxe514q/eHgJUDQ/Vcn",
+  "snapshot_id": "avZTAAAAAAATeX30cuVwKC5l/y2mem6n",
   "tracks": [
     {
       "added_at": null,
@@ -131,6 +131,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "C\u00e9u",
+        "url": "https://open.spotify.com/album/4llTlSnHmylkIjAMm5I6sU"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 469026,
+      "name": "Eu Navegarei",
+      "url": "https://open.spotify.com/track/0sorp0Pmik7rpLFMvTOQgL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u00danico (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/0U4MNi9Hwj1BIThUf571cb"
       },
@@ -147,22 +163,6 @@
       "duration_ms": 506122,
       "name": "\u00danico - Ac\u00fastico",
       "url": "https://open.spotify.com/track/4RInpfmS5zuJ8xKjrfwOaI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "C\u00e9u",
-        "url": "https://open.spotify.com/album/4llTlSnHmylkIjAMm5I6sU"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 469026,
-      "name": "Eu Navegarei",
-      "url": "https://open.spotify.com/track/0sorp0Pmik7rpLFMvTOQgL"
     },
     {
       "added_at": null,
@@ -283,6 +283,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Creio Que Tu \u00c9s a Cura",
+        "url": "https://open.spotify.com/album/5YJeGd9Rqq4X3UfRHGHsHF"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 351708,
+      "name": "Creio Que Tu \u00c9s a Cura",
+      "url": "https://open.spotify.com/track/5UQYn0E6jllOwc2LrTzufD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Eterno Presente (Ao Vivo)",
         "url": "https://open.spotify.com/album/5lkd5cPsavejvHS1MsvMxK"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 518880,
       "name": "Ele Vem - Ao Vivo",
       "url": "https://open.spotify.com/track/5nfi54wlLTj2ZtiKV3VOSk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Creio Que Tu \u00c9s a Cura",
-        "url": "https://open.spotify.com/album/5YJeGd9Rqq4X3UfRHGHsHF"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 351708,
-      "name": "Creio Que Tu \u00c9s a Cura",
-      "url": "https://open.spotify.com/track/5UQYn0E6jllOwc2LrTzufD"
     },
     {
       "added_at": null,
@@ -339,22 +339,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pequenos Levitas",
-        "url": "https://open.spotify.com/album/7l3EdlQWWtsVMq8Et1hLU5"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 202753,
-      "name": "Bom Bom Pai",
-      "url": "https://open.spotify.com/track/01xcUHBUuOGwYmi8foI61Y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "YAHWEH",
         "url": "https://open.spotify.com/album/3PkDUefjL36K6qtlMvtm0h"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 629133,
       "name": "Tu \u00e9s Poderoso - Ao vivo",
       "url": "https://open.spotify.com/track/6SNxSVENSEkLHTDcKJ2Jpk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pequenos Levitas",
+        "url": "https://open.spotify.com/album/7l3EdlQWWtsVMq8Et1hLU5"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 202753,
+      "name": "Bom Bom Pai",
+      "url": "https://open.spotify.com/track/01xcUHBUuOGwYmi8foI61Y"
     },
     {
       "added_at": null,
@@ -407,22 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pequenos Levitas",
-        "url": "https://open.spotify.com/album/7l3EdlQWWtsVMq8Et1hLU5"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 246309,
-      "name": "Meu Respirar",
-      "url": "https://open.spotify.com/track/2lBlUAnI5RnLkHx7JRL98s"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fernandinho Em Casa (ao Vivo)",
         "url": "https://open.spotify.com/album/06UxOw6wy2Mq3EgdpZZ6r8"
       },
@@ -443,6 +427,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pequenos Levitas",
+        "url": "https://open.spotify.com/album/7l3EdlQWWtsVMq8Et1hLU5"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 246309,
+      "name": "Meu Respirar",
+      "url": "https://open.spotify.com/track/2lBlUAnI5RnLkHx7JRL98s"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Uma Hist\u00f3ria Escrita pelo Dedo de Deus, Vol. 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/2SGXRWHHPEMjaOEwzmJt7R"
       },
@@ -459,6 +459,22 @@
       "duration_ms": 374986,
       "name": "Nada Al\u00e9m de Ti - Ao Vivo",
       "url": "https://open.spotify.com/track/5EDXCypGSkaJLRGNvhsL4h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ecoar 3",
+        "url": "https://open.spotify.com/album/4qINaNhLhhkXFrMrk0qFDH"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 317043,
+      "name": "Palavras",
+      "url": "https://open.spotify.com/track/79go0SZiPfEcMUIx1qJDK7"
     },
     {
       "added_at": null,
@@ -492,25 +508,9 @@
           "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
         }
       ],
-      "duration_ms": 282081,
-      "name": "Bondade de Deus",
-      "url": "https://open.spotify.com/track/1D446XqMZdTDW2EcGUj9zb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ecoar 3",
-        "url": "https://open.spotify.com/album/4qINaNhLhhkXFrMrk0qFDH"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 317043,
-      "name": "Palavras",
-      "url": "https://open.spotify.com/track/79go0SZiPfEcMUIx1qJDK7"
+      "duration_ms": 195011,
+      "name": "N\u00e3o Vou Calar Meus L\u00e1bios",
+      "url": "https://open.spotify.com/track/1Oh8XhAKOoqdJRdac0oSVE"
     },
     {
       "added_at": null,
@@ -547,22 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pequenos Levitas",
-        "url": "https://open.spotify.com/album/7l3EdlQWWtsVMq8Et1hLU5"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 195011,
-      "name": "N\u00e3o Vou Calar Meus L\u00e1bios",
-      "url": "https://open.spotify.com/track/1Oh8XhAKOoqdJRdac0oSVE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ecoar 3",
         "url": "https://open.spotify.com/album/4qINaNhLhhkXFrMrk0qFDH"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 288022,
       "name": "Vou Seguir",
       "url": "https://open.spotify.com/track/7zcBin5wuNJUuWnfRS9cOa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pequenos Levitas",
+        "url": "https://open.spotify.com/album/7l3EdlQWWtsVMq8Et1hLU5"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 282081,
+      "name": "Bondade de Deus",
+      "url": "https://open.spotify.com/track/1D446XqMZdTDW2EcGUj9zb"
     },
     {
       "added_at": null,
@@ -615,22 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pequenos Levitas",
-        "url": "https://open.spotify.com/album/7l3EdlQWWtsVMq8Et1hLU5"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 255297,
-      "name": "A B\u00ean\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/3PoGIF3VwQKqyPOINuOjWR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ecoar",
         "url": "https://open.spotify.com/album/3mayY7D6HRvqNEQr7YQHeK"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 230719,
       "name": "O Mover do Esp\u00edrito (Quero Que Valorize)",
       "url": "https://open.spotify.com/track/5A4UCKQyAVpf2GwvntqV7d"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pequenos Levitas",
+        "url": "https://open.spotify.com/album/7l3EdlQWWtsVMq8Et1hLU5"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 255297,
+      "name": "A B\u00ean\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/3PoGIF3VwQKqyPOINuOjWR"
     },
     {
       "added_at": null,
@@ -679,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pequenos Levitas",
-        "url": "https://open.spotify.com/album/7l3EdlQWWtsVMq8Et1hLU5"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 302878,
-      "name": "Vim Para Adorar-Te",
-      "url": "https://open.spotify.com/track/1EvX9oPraWjSgEKyvRc6G3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "At\u00e9 Transbordar (Ao Vivo)",
         "url": "https://open.spotify.com/album/3HjpM1erx8nlbEgmNKpIj0"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 271866,
       "name": "Pra Onde Iremos? (feat. Felippe Valad\u00e3o) - Ao Vivo",
       "url": "https://open.spotify.com/track/3eL1SOAEopSLzdzzlHaJ18"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pequenos Levitas",
+        "url": "https://open.spotify.com/album/7l3EdlQWWtsVMq8Et1hLU5"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 302878,
+      "name": "Vim Para Adorar-Te",
+      "url": "https://open.spotify.com/track/1EvX9oPraWjSgEKyvRc6G3"
     },
     {
       "added_at": null,

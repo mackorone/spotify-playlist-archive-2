@@ -1,12 +1,12 @@
 {
   "description": "These are some independent alternative rock bands you need to hear. Updated weekly.",
-  "num_followers": 933,
+  "num_followers": 938,
   "original_name": "Unsigned Alternative Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAEI8aB9YgqgRRBxawlCXcwMr32zwTy",
+  "snapshot_id": "AAAEJu/qAyNdZ7+0XN8nmXTnnKsQjpHz",
   "tracks": [
     {
       "added_at": "2026-02-16 17:21:01",
@@ -1067,6 +1067,58 @@
       "duration_ms": 240947,
       "name": "We Go High",
       "url": "https://open.spotify.com/track/400xZzpdwKLfcBpMMsxtfM"
+    },
+    {
+      "added_at": "2026-11-14 16:36:59",
+      "album": {
+        "name": "Fever & Bones",
+        "url": "https://open.spotify.com/album/1tkgilTKgANUhJuhw1SAhJ"
+      },
+      "artists": [
+        {
+          "name": "Sam Brace",
+          "url": "https://open.spotify.com/artist/6aGaZJLvzxVCAcKV1nq0oH"
+        },
+        {
+          "name": "The Merciless Bronze",
+          "url": "https://open.spotify.com/artist/3TWXXqRb1D85MC7HZAtvzK"
+        }
+      ],
+      "duration_ms": 209480,
+      "name": "Year Of Punk",
+      "url": "https://open.spotify.com/track/37nDxc0a8SSorpRNFvQiYE"
+    },
+    {
+      "added_at": "2026-11-14 17:56:56",
+      "album": {
+        "name": "Guardians of the Phallicy",
+        "url": "https://open.spotify.com/album/1onQnwCOdZxDvjoUS0YXJU"
+      },
+      "artists": [
+        {
+          "name": "AG Session",
+          "url": "https://open.spotify.com/artist/2cG7L3KAgqNIDuR8Te8bGy"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Reflection",
+      "url": "https://open.spotify.com/track/4dX0OfG8roXvyO7PVfUwg7"
+    },
+    {
+      "added_at": "2026-11-14 21:55:42",
+      "album": {
+        "name": "Un Instant",
+        "url": "https://open.spotify.com/album/61lbQnoTQLAPYH60zCC3Wv"
+      },
+      "artists": [
+        {
+          "name": "ToloV",
+          "url": "https://open.spotify.com/artist/4t3awapuIDzb4fGOMWR35Q"
+        }
+      ],
+      "duration_ms": 178693,
+      "name": "Un Instant",
+      "url": "https://open.spotify.com/track/4U4or2vzNiblQa6RX5pdn2"
     }
   ],
   "unique_name": "Unsigned Alternative Rock",

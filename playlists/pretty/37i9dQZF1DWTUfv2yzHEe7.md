@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUfv2yzHEe7.md) - [plain]
 
 > Groove it to the biggest bangers of the decade\. Cover \- Tashan
 
-[Spotify](https://open.spotify.com/user/spotify) - 527,895 likes - 50 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 528,072 likes - 50 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUfv2yzHEe7.md) - [plain]
 | 47 | [Qayamat](https://open.spotify.com/track/31grulk7jiqH0lsDlEbYXK) | [Sanjeev Darshan](https://open.spotify.com/artist/6jMkDTgOniC7meOiAFMHrx), [Sukhwinder Singh](https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz), [Sameer Anjaan](https://open.spotify.com/artist/5sifufajls8Q6k04Y4F8mH) | [Deewane \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/50tadpkRQz0u6kGmGtngf4) | 6:17 |
 | 48 | [Ek Pal Ka Jeena](https://open.spotify.com/track/5iwPZEPu8bxy1fAWnhYT7J) | [Lucky Ali](https://open.spotify.com/artist/2L16nDKTxhFGaDriR2AHTB) | [Kaho Naa Pyar Hai](https://open.spotify.com/album/264pusO3nFbYtZC63kGoA7) | 6:37 |
 | 49 | [Dhoom Machale](https://open.spotify.com/track/2cYVtBHkrkk7F2qU2Y7Fn0) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Sameer Anjaan](https://open.spotify.com/artist/5sifufajls8Q6k04Y4F8mH) | [Dhoom](https://open.spotify.com/album/6Z49LnmV2rjlk9sDVFgPHT) | 6:15 |
-| 50 | [Saaki](https://open.spotify.com/track/3zEkqnyPzhHBuHCeoWLYjQ) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Sukhwinder Singh](https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v) | [Musafir](https://open.spotify.com/album/4yOCbNcDeF2f1xs1PzLFnT) | 5:21 |
+| 50 | [Aisa Jadoo](https://open.spotify.com/track/3NEW0n3CQRFsmsIOPHcOOK) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v) | [Khakee](https://open.spotify.com/album/7DpDPOTbYwL2HNVZ9RuA7x) | 3:23 |
 
 Snapshot ID: `AAAAAIT9xY3KmVG+tarL9OpYOjA95lUb`

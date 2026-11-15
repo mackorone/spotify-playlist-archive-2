@@ -3287,6 +3287,28 @@
     },
     {
       "album": {
+        "name": "Because of Art",
+        "url": "https://open.spotify.com/album/0EgpGxu8e6fNB6fCAfaVpv"
+      },
+      "artists": [
+        {
+          "name": "Because of Art",
+          "url": "https://open.spotify.com/artist/4Cmrx83CCgN8X1hkyhkUkq"
+        },
+        {
+          "name": "Fourth Daughter",
+          "url": "https://open.spotify.com/artist/39tnRWNqVYGhzm1SipX6cA"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "Elysian",
+      "url": "https://open.spotify.com/track/4ZFx1dQvU4uBEX6czXL6AI"
+    },
+    {
+      "album": {
         "name": "Embrace (Black Coffee + Aquatone Remix)",
         "url": "https://open.spotify.com/album/3vFWCPubU6GiPuJm2wJXHv"
       },
@@ -7270,7 +7292,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 442758,
       "name": "Many Faces",
       "url": "https://open.spotify.com/track/79GGufpaLpwRPNkcGVNs1s"

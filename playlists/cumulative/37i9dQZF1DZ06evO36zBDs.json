@@ -459,6 +459,24 @@
     },
     {
       "album": {
+        "name": "\u30b7\u30f3\u30af\u30ed\u30d6\u30eb\u30fc",
+        "url": "https://open.spotify.com/album/3D7SWZt8DjxiNII2tN1W1C"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2026-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229849,
+      "name": "Little Brave",
+      "url": "https://open.spotify.com/track/2Rw2nZPPL435S4wPZqyKHD"
+    },
+    {
+      "album": {
         "name": "Love is Mystery",
         "url": "https://open.spotify.com/album/2DeFZAWkLL11D8SDiP9iva"
       },
@@ -1828,7 +1846,7 @@
       ],
       "date_added": "2025-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 249839,
       "name": "\u30eb\u30df\u30ca\u30b9 -season 03-",
       "url": "https://open.spotify.com/track/44ahmi0meqTXkzmvp2Ngxd"

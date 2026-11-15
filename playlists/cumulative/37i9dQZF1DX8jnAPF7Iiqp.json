@@ -5706,7 +5706,7 @@
       ],
       "date_added": "2026-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 148774,
       "name": "Never Adds Up (feat. In\u00e9z)",
       "url": "https://open.spotify.com/track/0Cum83rmJihiD99CkRmOCn"
@@ -6344,6 +6344,28 @@
       "duration_ms": 314482,
       "name": "Out of Love",
       "url": "https://open.spotify.com/track/6I2tNg7uOFGwYdPtOSOy2s"
+    },
+    {
+      "album": {
+        "name": "Out Of My Head",
+        "url": "https://open.spotify.com/album/4MGvTyl9Yj46RtMg5woZf5"
+      },
+      "artists": [
+        {
+          "name": "Subsonic",
+          "url": "https://open.spotify.com/artist/4D6frglSGSAHoK7W5rp92j"
+        },
+        {
+          "name": "Lauren L'aimant",
+          "url": "https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193103,
+      "name": "Out Of My Head",
+      "url": "https://open.spotify.com/track/56bocXIDqq8rOXL3aZcOIG"
     },
     {
       "album": {

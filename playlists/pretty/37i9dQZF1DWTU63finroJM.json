@@ -1,6 +1,6 @@
 {
   "description": "Meet the future of music around the world. Cover: JAS",
-  "num_followers": 88572,
+  "num_followers": 88571,
   "original_name": "RADAR Global",
   "owner": {
     "name": "Spotify",
@@ -295,6 +295,22 @@
     {
       "added_at": "2026-11-13 14:00:26",
       "album": {
+        "name": "Non sono lei",
+        "url": "https://open.spotify.com/album/2QEGkfbqwSgY9h4X5hj57Q"
+      },
+      "artists": [
+        {
+          "name": "Emili Kasa",
+          "url": "https://open.spotify.com/artist/3RjZIfNhuaISMsbzISGxvA"
+        }
+      ],
+      "duration_ms": 165029,
+      "name": "Non sono lei",
+      "url": "https://open.spotify.com/track/4pod9adi7EYyk2Asi8HcHf"
+    },
+    {
+      "added_at": "2026-11-13 14:00:26",
+      "album": {
         "name": "EL QUE COMPR\u00d3 PERDI\u00d3",
         "url": "https://open.spotify.com/album/2o3J7GZgL53V41Qy9TCsio"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 145520,
       "name": "EL QUE COMPR\u00d3 PERDI\u00d3",
       "url": "https://open.spotify.com/track/1QQ8zcJLMyO7ti83nM1d9g"
-    },
-    {
-      "added_at": "2026-11-13 14:00:26",
-      "album": {
-        "name": "Non sono lei",
-        "url": "https://open.spotify.com/album/2QEGkfbqwSgY9h4X5hj57Q"
-      },
-      "artists": [
-        {
-          "name": "Emili Kasa",
-          "url": "https://open.spotify.com/artist/3RjZIfNhuaISMsbzISGxvA"
-        }
-      ],
-      "duration_ms": 165029,
-      "name": "Non sono lei",
-      "url": "https://open.spotify.com/track/4pod9adi7EYyk2Asi8HcHf"
     },
     {
       "added_at": "2026-11-13 14:00:26",

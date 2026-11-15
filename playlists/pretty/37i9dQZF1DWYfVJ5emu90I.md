@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 
 > Heavy beats for midnight drifting in Tokyo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,004 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,008 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 | 41 | [03\- Drill Cypher 2025 \(feat\. 999dobby, Tee Shyne, STACK THE PINK, Pxrge Trxxxper, Acchi Mello & Vega KfK\)](https://open.spotify.com/track/2MWW0Zasn4VZFFORQYcyHA) | [03\- Performance](https://open.spotify.com/artist/6s8icbnXfmBIWKZBOeapej), [999dobby](https://open.spotify.com/artist/1JUeTjci5VPfOW2myLu8Tc), [Tee Shyne](https://open.spotify.com/artist/6JoFDtRf2E5KztrcF2tTiZ), [STACK THE PINK](https://open.spotify.com/artist/3NoSLTyqIc9Zonh4V7JtXt), [Pxrge Trxxxper](https://open.spotify.com/artist/4IxdeBhAksJLxEMRzvdWie), [Acchi Mello](https://open.spotify.com/artist/3xQRIjbbG10vnQzMP59lPg), [Vega KfK](https://open.spotify.com/artist/0CuFgaQzA173GenlMNWZ8u) | [03\- Drill Cypher 2025 \(feat\. 999dobby, Tee Shyne, STACK THE PINK, Pxrge Trxxxper, Acchi Mello & Vega KfK\)](https://open.spotify.com/album/0Grb4edPaQC0wWMPiyQJer) | 5:33 |
 | 42 | [Hot Rodder](https://open.spotify.com/track/31vWGyuri51ShwvgZ801WD) | [Yvng Patra](https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8), [Oddy lozy](https://open.spotify.com/artist/3SKBpwpCn3P3xCPxVhw3eb) | [Hot Rodder](https://open.spotify.com/album/4SiEuOz8dE9Padpu7Woq85) | 2:57 |
 | 43 | [BRAND NEW](https://open.spotify.com/track/1d4bUyO0JCNvuwaycbYUG8) | [₩](https://open.spotify.com/artist/5QkamTXwLqr5Ja8RCiu3XF), [Yvng Patra](https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8), [YamieZimmer](https://open.spotify.com/artist/7aqyXIegZ72uUh7d1AXR3z) | [BRAND NEW](https://open.spotify.com/album/5JYgaLjiX0ozaQctcGsf5A) | 2:50 |
-| 44 | [For Real \(feat\. Fuji Taito & SIMON\)](https://open.spotify.com/track/2zxHqRUVGPbngtOWdzwqSE) | [T\-STONE](https://open.spotify.com/artist/0xINjQE0NF8VH20g1CKg9D), [Fuji Taito](https://open.spotify.com/artist/2OaVFBtZot8aFcdKYwE39f), [SIMON](https://open.spotify.com/artist/6CcuEcSETRxpybrEt14OSx) | [Type 1 Diabetes](https://open.spotify.com/album/5WGu4r5gfIA5sZeVQGSyg8) | 3:17 |
-| 45 | [Rainy Day](https://open.spotify.com/track/3Gd02MdGmacvasxJDXeQNM) | [D3adStock](https://open.spotify.com/artist/4dLZhocl3oLLpp6IcGlhjd) | [Rainy Day](https://open.spotify.com/album/6KQNF7grqYtG4v1XwwEgc9) | 1:50 |
+| 44 | [Rainy Day](https://open.spotify.com/track/3Gd02MdGmacvasxJDXeQNM) | [D3adStock](https://open.spotify.com/artist/4dLZhocl3oLLpp6IcGlhjd) | [Rainy Day](https://open.spotify.com/album/6KQNF7grqYtG4v1XwwEgc9) | 1:50 |
+| 45 | [For Real \(feat\. Fuji Taito & SIMON\)](https://open.spotify.com/track/2zxHqRUVGPbngtOWdzwqSE) | [T\-STONE](https://open.spotify.com/artist/0xINjQE0NF8VH20g1CKg9D), [Fuji Taito](https://open.spotify.com/artist/2OaVFBtZot8aFcdKYwE39f), [SIMON](https://open.spotify.com/artist/6CcuEcSETRxpybrEt14OSx) | [Type 1 Diabetes](https://open.spotify.com/album/5WGu4r5gfIA5sZeVQGSyg8) | 3:17 |
 | 46 | [Don't](https://open.spotify.com/track/0SYgPi0sgpjurZ3zc9w7CM) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [Don't](https://open.spotify.com/album/7AIF17humOKTJLYA3g7x0h) | 3:02 |
 | 47 | [POP KILLERS \(feat\. ralph\)](https://open.spotify.com/track/6tjAXcxgDNtkvaXFUXDUQC) | [C.O.S.A.](https://open.spotify.com/artist/7kj57NIwoqvnBTSpSgrO3p), [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [POP KILLERS \(feat\. ralph\)](https://open.spotify.com/album/06l8AppEOLd6MaxxqAcLf5) | 2:39 |
 | 48 | [Sightseeing](https://open.spotify.com/track/5oSs5VhEdfF51dclcnxxq7) | [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [Sightseeing](https://open.spotify.com/album/1wd7y9qh1gjk2S0yHZ0oBt) | 2:34 |

@@ -1,6 +1,6 @@
 {
   "description": "The best new and classic South African Rock. Cover: Spoegwolf",
-  "num_followers": 28895,
+  "num_followers": 28907,
   "original_name": "SA Rock ",
   "owner": {
     "name": "Spotify",
@@ -547,18 +547,18 @@
     {
       "added_at": "2026-08-27 22:01:29",
       "album": {
-        "name": "Nagmerries (Bye Bye Baby)",
-        "url": "https://open.spotify.com/album/5yoF31BDX5GJeFY9v7TaPF"
+        "name": "KLEUR",
+        "url": "https://open.spotify.com/album/3jEq8k4lYAkqTwHawZg8E0"
       },
       "artists": [
         {
-          "name": "Francois van Coke",
-          "url": "https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF"
+          "name": "MOEGOE",
+          "url": "https://open.spotify.com/artist/3LuJllzfjmmo5p6R4HRbrZ"
         }
       ],
-      "duration_ms": 172985,
-      "name": "Nagmerries (Bye Bye Baby)",
-      "url": "https://open.spotify.com/track/4poZabWtPpWp5CL2r3rbxg"
+      "duration_ms": 201420,
+      "name": "KLEUR",
+      "url": "https://open.spotify.com/track/4lSRuva7KOITTOIf5JONxH"
     },
     {
       "added_at": "2026-08-27 22:01:29",
@@ -579,18 +579,18 @@
     {
       "added_at": "2026-08-27 22:01:29",
       "album": {
-        "name": "KLEUR",
-        "url": "https://open.spotify.com/album/3jEq8k4lYAkqTwHawZg8E0"
+        "name": "Nagmerries (Bye Bye Baby)",
+        "url": "https://open.spotify.com/album/5yoF31BDX5GJeFY9v7TaPF"
       },
       "artists": [
         {
-          "name": "MOEGOE",
-          "url": "https://open.spotify.com/artist/3LuJllzfjmmo5p6R4HRbrZ"
+          "name": "Francois van Coke",
+          "url": "https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF"
         }
       ],
-      "duration_ms": 201420,
-      "name": "KLEUR",
-      "url": "https://open.spotify.com/track/4lSRuva7KOITTOIf5JONxH"
+      "duration_ms": 172985,
+      "name": "Nagmerries (Bye Bye Baby)",
+      "url": "https://open.spotify.com/track/4poZabWtPpWp5CL2r3rbxg"
     },
     {
       "added_at": "2026-11-13 06:35:25",
@@ -751,22 +751,6 @@
     {
       "added_at": "2026-08-27 22:01:29",
       "album": {
-        "name": "U Wanna?",
-        "url": "https://open.spotify.com/album/5riz13sY3X0edT7ayWp86g"
-      },
-      "artists": [
-        {
-          "name": "Coasters",
-          "url": "https://open.spotify.com/artist/4VjyjBUcEwwx4xqtU359Ep"
-        }
-      ],
-      "duration_ms": 228804,
-      "name": "U Wanna?",
-      "url": "https://open.spotify.com/track/7BPTBvp60w8GUxtl60uhxY"
-    },
-    {
-      "added_at": "2026-08-27 22:01:29",
-      "album": {
         "name": "Lego",
         "url": "https://open.spotify.com/album/4l1TvdGZXxYmCOHJyhgCf1"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 151329,
       "name": "Lego",
       "url": "https://open.spotify.com/track/7nyB4Ld3JW9cTC0zv3v3nJ"
+    },
+    {
+      "added_at": "2026-08-27 22:01:29",
+      "album": {
+        "name": "U Wanna?",
+        "url": "https://open.spotify.com/album/5riz13sY3X0edT7ayWp86g"
+      },
+      "artists": [
+        {
+          "name": "Coasters",
+          "url": "https://open.spotify.com/artist/4VjyjBUcEwwx4xqtU359Ep"
+        }
+      ],
+      "duration_ms": 228804,
+      "name": "U Wanna?",
+      "url": "https://open.spotify.com/track/7BPTBvp60w8GUxtl60uhxY"
     },
     {
       "added_at": "2026-09-24 22:01:39",

@@ -6791,7 +6791,7 @@
     },
     {
       "album": {
-        "name": "Blueprint",
+        "name": "BLUEPRINT",
         "url": "https://open.spotify.com/album/3yicFMcjxT9VPawzGoDKhG"
       },
       "artists": [
@@ -13220,6 +13220,10 @@
         {
           "name": "Young Leosia",
           "url": "https://open.spotify.com/artist/0iBTVnJ1Sff92zCDujfvyJ"
+        },
+        {
+          "name": "YEEGOR",
+          "url": "https://open.spotify.com/artist/5dyuCkd2slWwlXXJzdrKtf"
         }
       ],
       "date_added": "2026-10-15",

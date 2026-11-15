@@ -167,6 +167,28 @@
     },
     {
       "album": {
+        "name": "Esquina 22",
+        "url": "https://open.spotify.com/album/1eghflM8a7rxXrHyMtigOO"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Aguilar",
+          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
+        },
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "date_added": "2026-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170627,
+      "name": "Canci\u00f3n De Rancho",
+      "url": "https://open.spotify.com/track/78urSTcXVSX1iDAq79EPRU"
+    },
+    {
+      "album": {
         "name": "Caricias de Prepago",
         "url": "https://open.spotify.com/album/3qCsESB0EryTIoxjn6N0AH"
       },
@@ -1426,7 +1448,7 @@
       ],
       "date_added": "2026-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 198548,
       "name": "No Se Diga M\u00e1s",
       "url": "https://open.spotify.com/track/6bYFtMOVwHuOF4Ob9atXS9"

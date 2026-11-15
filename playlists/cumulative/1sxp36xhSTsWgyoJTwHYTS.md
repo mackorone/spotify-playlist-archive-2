@@ -4,7 +4,7 @@
 
 > Submit your song: https:&\#x2F;&\#x2F;dailyplaylists.com&\#x2F;playlists&\#x2F;1sxp36xhSTsWgyoJTwHYTS
 
-261 songs - 14 hr 1 min
+262 songs - 14 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,6 +193,7 @@
 | [Party Hard](https://open.spotify.com/track/58AukOzM3s8EIivB1WAMHg) | [Briskii](https://open.spotify.com/artist/2jTasmO3nrFVP9ezrvLGjj), [Sloff](https://open.spotify.com/artist/0nIPLqgyrHkpbyPmekI7t2) | [Party Hard](https://open.spotify.com/album/0kFfVYK1162fiuA7mhmpYe) | 2:47 | 2023-11-05 |  |
 | [Pas bête](https://open.spotify.com/track/3TVUW7bJJWDOonkVCZxfLV) | [Beendo Z](https://open.spotify.com/artist/7a35Zdc78bDXJv2vYf5hSO) | [L'Élu](https://open.spotify.com/album/6UiV6zQxitBwaQ6Kw72W1i) | 2:23 | 2023-01-11 |  |
 | [Peace of Mind](https://open.spotify.com/track/3bNBmNhU8JX0PB4dWZU8m7) | [KC Da Pro$pect](https://open.spotify.com/artist/6Pa8LKNXkcv5U6dnrwQOkd) | [Balance & Loyalty](https://open.spotify.com/album/4Ni55WwTV2ewXfpSlpljqf) | 4:03 | 2024-05-28 |  |
+| [Perception spirituelle](https://open.spotify.com/track/27mHz6qa3D5QugGToOToHV) | [Colossale](https://open.spotify.com/artist/1eektsWsMeBWe0icYCQj2x) | [Magus](https://open.spotify.com/album/4dViPrbDf2sIFrnL3tffsW) | 3:44 | 2026-11-14 |  |
 | [PLAN SÉQUENCE](https://open.spotify.com/track/7MwVSWarQXpZvcPKgDbSFM) | [2IGREC](https://open.spotify.com/artist/4QoDKHsb78Q4HWjDACnzDA), [MOBL](https://open.spotify.com/artist/6MoSo5nfokWFU63rIBey5w) | [STARTING\-BLØCK](https://open.spotify.com/album/243UJpkR8DD1Ma2OA0Kv0j) | 3:03 | 2024-11-25 |  |
 | [Pour mes rêves](https://open.spotify.com/track/4Mb24opOdGWHHdOsjcVXuK) | [Colossale](https://open.spotify.com/artist/1eektsWsMeBWe0icYCQj2x) | [Le dark side du soul](https://open.spotify.com/album/4RJXZWFurXJhULupO7KcHJ) | 3:52 | 2024-12-29 |  |
 | [Premier sang](https://open.spotify.com/track/7srYONjFEFdoIOEixKTXrc) | [Totox](https://open.spotify.com/artist/5yNy7ljeyzhZI5DvItrqCX) | [Premier sang](https://open.spotify.com/album/2uJv3Hq24x0nm5RRNXOjoQ) | 2:27 | 2023-11-08 |  |

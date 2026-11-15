@@ -291,6 +291,24 @@
     },
     {
       "album": {
+        "name": "The Christmas Tracks",
+        "url": "https://open.spotify.com/album/0qMYNqlfA6PJktEw7kuXkc"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2026-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259739,
+      "name": "Blue Christmas - Live At The Carousel, Asbury Park, NJ - 2010",
+      "url": "https://open.spotify.com/track/0LSxqXL0L0d1NPdH2qFdXT"
+    },
+    {
+      "album": {
         "name": "Born In The U.S.A.",
         "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
       },
@@ -1846,7 +1864,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 257594,
       "name": "Out In the Street",
       "url": "https://open.spotify.com/track/1k7CqKKwQu4zIK6DrsuqKG"

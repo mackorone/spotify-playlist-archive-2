@@ -1,6 +1,6 @@
 {
   "description": "All the best new songs from the pop punk scene. Cover: Like Roses",
-  "num_followers": 604611,
+  "num_followers": 604615,
   "original_name": "Pop Punk's Not Dead",
   "owner": {
     "name": "Spotify",
@@ -299,8 +299,8 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "deadmeat",
-        "url": "https://open.spotify.com/album/75Nrza4VqqVE4sbKdrHBwZ"
+        "name": "SUPERMAN",
+        "url": "https://open.spotify.com/album/0Xp8U8KDNMYUREYFtS3sCy"
       },
       "artists": [
         {
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF"
         }
       ],
-      "duration_ms": 172322,
-      "name": "deadmeat",
-      "url": "https://open.spotify.com/track/4XCuMPrNAoO1Rw4AcNFSlV"
+      "duration_ms": 204092,
+      "name": "SUPERMAN",
+      "url": "https://open.spotify.com/track/4UM8YF7PvhdAs94bsxxJM7"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -379,8 +379,8 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "SUPERMAN",
-        "url": "https://open.spotify.com/album/0Xp8U8KDNMYUREYFtS3sCy"
+        "name": "deadmeat",
+        "url": "https://open.spotify.com/album/75Nrza4VqqVE4sbKdrHBwZ"
       },
       "artists": [
         {
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF"
         }
       ],
-      "duration_ms": 204092,
-      "name": "SUPERMAN",
-      "url": "https://open.spotify.com/track/4UM8YF7PvhdAs94bsxxJM7"
+      "duration_ms": 172322,
+      "name": "deadmeat",
+      "url": "https://open.spotify.com/track/4XCuMPrNAoO1Rw4AcNFSlV"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -603,22 +603,6 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "Over My Head",
-        "url": "https://open.spotify.com/album/20R4HWQ8aLGp04syk1eT8a"
-      },
-      "artists": [
-        {
-          "name": "Not My Weekend",
-          "url": "https://open.spotify.com/artist/5t72ReZUIAKtmjO3Q3B72X"
-        }
-      ],
-      "duration_ms": 182956,
-      "name": "Over My Head",
-      "url": "https://open.spotify.com/track/4E2Hj7wwnslMK5G9TOVZJX"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
         "name": "Bittersweet",
         "url": "https://open.spotify.com/album/2plIofGd5etSiMkERrAeeI"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 208168,
       "name": "Bittersweet",
       "url": "https://open.spotify.com/track/6fku7eIHq1S1grAnwTw3SB"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
+        "name": "Over My Head",
+        "url": "https://open.spotify.com/album/20R4HWQ8aLGp04syk1eT8a"
+      },
+      "artists": [
+        {
+          "name": "Not My Weekend",
+          "url": "https://open.spotify.com/artist/5t72ReZUIAKtmjO3Q3B72X"
+        }
+      ],
+      "duration_ms": 182956,
+      "name": "Over My Head",
+      "url": "https://open.spotify.com/track/4E2Hj7wwnslMK5G9TOVZJX"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -751,22 +751,6 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "A.R.S.O.N.",
-        "url": "https://open.spotify.com/album/1Y4mInJWLEVgF3ly7Cop9d"
-      },
-      "artists": [
-        {
-          "name": "Story Of The Year",
-          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
-        }
-      ],
-      "duration_ms": 158406,
-      "name": "See Through",
-      "url": "https://open.spotify.com/track/5cKBypXWgDxzGcDwX0sGwW"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
         "name": "Live Laugh Toaster Bath",
         "url": "https://open.spotify.com/album/3boNiIc5Mcyx9nl2WlbWKp"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 142769,
       "name": "Live Laugh Toaster Bath",
       "url": "https://open.spotify.com/track/2zjP51ExLSOA9bP9fdw6nS"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
+        "name": "A.R.S.O.N.",
+        "url": "https://open.spotify.com/album/1Y4mInJWLEVgF3ly7Cop9d"
+      },
+      "artists": [
+        {
+          "name": "Story Of The Year",
+          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
+        }
+      ],
+      "duration_ms": 158406,
+      "name": "See Through",
+      "url": "https://open.spotify.com/track/5cKBypXWgDxzGcDwX0sGwW"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -831,22 +831,6 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "Butterfly Effect",
-        "url": "https://open.spotify.com/album/5jW6VyljLO6aTkOp9cAP4L"
-      },
-      "artists": [
-        {
-          "name": "Honey Revenge",
-          "url": "https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK"
-        }
-      ],
-      "duration_ms": 176381,
-      "name": "Butterfly Effect",
-      "url": "https://open.spotify.com/track/0LlYTDPa9zOcmbxbQadKG4"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
         "name": "Barely Here",
         "url": "https://open.spotify.com/album/7wRLUzbIKo1teiHHukMg2U"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 164586,
       "name": "Barely Here",
       "url": "https://open.spotify.com/track/31JIr6kHiX8KOJB3M0XeLF"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
+        "name": "Butterfly Effect",
+        "url": "https://open.spotify.com/album/5jW6VyljLO6aTkOp9cAP4L"
+      },
+      "artists": [
+        {
+          "name": "Honey Revenge",
+          "url": "https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK"
+        }
+      ],
+      "duration_ms": 176381,
+      "name": "Butterfly Effect",
+      "url": "https://open.spotify.com/track/0LlYTDPa9zOcmbxbQadKG4"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -895,22 +895,6 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "Burn Me Out",
-        "url": "https://open.spotify.com/album/7EZOcXMLWBZCdaoU24ug6K"
-      },
-      "artists": [
-        {
-          "name": "Action/Adventure",
-          "url": "https://open.spotify.com/artist/7uBCPmZFHJzrQDlxHNsFwF"
-        }
-      ],
-      "duration_ms": 191010,
-      "name": "Burn Me Out",
-      "url": "https://open.spotify.com/track/3EwvHthDfMBoH1mvCDyvR2"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
         "name": "77 (feat. Avril Lavigne)",
         "url": "https://open.spotify.com/album/54XHsP7QjQy7MPPGdq5Npt"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 173842,
       "name": "77 - feat. Avril Lavigne",
       "url": "https://open.spotify.com/track/6cEG5stzTtXrrCLgWKYV6j"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
+        "name": "Burn Me Out",
+        "url": "https://open.spotify.com/album/7EZOcXMLWBZCdaoU24ug6K"
+      },
+      "artists": [
+        {
+          "name": "Action/Adventure",
+          "url": "https://open.spotify.com/artist/7uBCPmZFHJzrQDlxHNsFwF"
+        }
+      ],
+      "duration_ms": 191010,
+      "name": "Burn Me Out",
+      "url": "https://open.spotify.com/track/3EwvHthDfMBoH1mvCDyvR2"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "Still There\u2019s a Glow",
-        "url": "https://open.spotify.com/album/6Xx2GugbRprNzLpleBpepd"
-      },
-      "artists": [
-        {
-          "name": "Sweet Pill",
-          "url": "https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa"
-        }
-      ],
-      "duration_ms": 168365,
-      "name": "Sunblind",
-      "url": "https://open.spotify.com/track/22dSB54PbIpU2mgGqYhCaT"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
         "name": "BETTER",
         "url": "https://open.spotify.com/album/7knkjF5GXG1IkTniG5o7Qy"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 155668,
       "name": "BETTER",
       "url": "https://open.spotify.com/track/1Je9meCzTUNxJ8t2tG6x2E"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
+        "name": "Still There\u2019s a Glow",
+        "url": "https://open.spotify.com/album/6Xx2GugbRprNzLpleBpepd"
+      },
+      "artists": [
+        {
+          "name": "Sweet Pill",
+          "url": "https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa"
+        }
+      ],
+      "duration_ms": 168365,
+      "name": "Sunblind",
+      "url": "https://open.spotify.com/track/22dSB54PbIpU2mgGqYhCaT"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "Nice to Know Ya",
-        "url": "https://open.spotify.com/album/7A5LHfw0Txz9HOzZ8S9e6p"
-      },
-      "artists": [
-        {
-          "name": "Knuckle Puck",
-          "url": "https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm"
-        }
-      ],
-      "duration_ms": 179454,
-      "name": "Nice to Know Ya",
-      "url": "https://open.spotify.com/track/0p7Rs24bhNP9iY4TVoFYDe"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
         "name": "Can You Keep A Secret?",
         "url": "https://open.spotify.com/album/5gwPzLwLxz3XljcPbXJFL8"
       },
@@ -1375,18 +1359,18 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "Don't Let Me Get Too Low",
-        "url": "https://open.spotify.com/album/2JT0MoB5ESOA30VZwlq4af"
+        "name": "Nice to Know Ya",
+        "url": "https://open.spotify.com/album/7A5LHfw0Txz9HOzZ8S9e6p"
       },
       "artists": [
         {
-          "name": "Silverstein",
-          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
+          "name": "Knuckle Puck",
+          "url": "https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm"
         }
       ],
-      "duration_ms": 158999,
-      "name": "Don't Let Me Get Too Low",
-      "url": "https://open.spotify.com/track/2HazFhqPwSFVyLL1piMoCh"
+      "duration_ms": 179454,
+      "name": "Nice to Know Ya",
+      "url": "https://open.spotify.com/track/0p7Rs24bhNP9iY4TVoFYDe"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -1403,6 +1387,22 @@
       "duration_ms": 180563,
       "name": "F.O.M.O.",
       "url": "https://open.spotify.com/track/6jOawNlALCZPj7L0MZALIz"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
+        "name": "Don't Let Me Get Too Low",
+        "url": "https://open.spotify.com/album/2JT0MoB5ESOA30VZwlq4af"
+      },
+      "artists": [
+        {
+          "name": "Silverstein",
+          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
+        }
+      ],
+      "duration_ms": 158999,
+      "name": "Don't Let Me Get Too Low",
+      "url": "https://open.spotify.com/track/2HazFhqPwSFVyLL1piMoCh"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "Someone You Need",
-        "url": "https://open.spotify.com/album/7vwwoea4VauM5Jt2PRPbdy"
-      },
-      "artists": [
-        {
-          "name": "Broadside",
-          "url": "https://open.spotify.com/artist/7EGdqeEDe7WMqOVyDFUYyo"
-        }
-      ],
-      "duration_ms": 183375,
-      "name": "Someone You Need",
-      "url": "https://open.spotify.com/track/28aV10DPdhF068Utw7d4ZY"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
         "name": "me against me",
         "url": "https://open.spotify.com/album/0OCwUiSpRZNj9GQATlexSE"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 223229,
       "name": "me against me",
       "url": "https://open.spotify.com/track/2lj5ljvoJTA7wZnEHL8gnI"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
+        "name": "Someone You Need",
+        "url": "https://open.spotify.com/album/7vwwoea4VauM5Jt2PRPbdy"
+      },
+      "artists": [
+        {
+          "name": "Broadside",
+          "url": "https://open.spotify.com/artist/7EGdqeEDe7WMqOVyDFUYyo"
+        }
+      ],
+      "duration_ms": 183375,
+      "name": "Someone You Need",
+      "url": "https://open.spotify.com/track/28aV10DPdhF068Utw7d4ZY"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -1731,38 +1731,6 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "Teeth",
-        "url": "https://open.spotify.com/album/7dTaPP2556CsZBPoYFGvFV"
-      },
-      "artists": [
-        {
-          "name": "As December Falls",
-          "url": "https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX"
-        }
-      ],
-      "duration_ms": 164800,
-      "name": "Teeth",
-      "url": "https://open.spotify.com/track/482PoaBHh3MI4w3MzozXOr"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
-        "name": "Oxy Moron",
-        "url": "https://open.spotify.com/album/3lVC4YhcGK3nmktbvCTts6"
-      },
-      "artists": [
-        {
-          "name": "Cartel",
-          "url": "https://open.spotify.com/artist/6wQMF27xWhSyJFnO9L5mQk"
-        }
-      ],
-      "duration_ms": 246433,
-      "name": "Oxy Moron",
-      "url": "https://open.spotify.com/track/3JTy5HftSASB9yTXwoRTAn"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
         "name": "Not The Doctor ('Mile End Kicks' - Music Inspired by the Motion Picture)",
         "url": "https://open.spotify.com/album/4W622Tk0Epvc3bSZXtPN42"
       },
@@ -1783,6 +1751,22 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
+        "name": "Oxy Moron",
+        "url": "https://open.spotify.com/album/3lVC4YhcGK3nmktbvCTts6"
+      },
+      "artists": [
+        {
+          "name": "Cartel",
+          "url": "https://open.spotify.com/artist/6wQMF27xWhSyJFnO9L5mQk"
+        }
+      ],
+      "duration_ms": 246433,
+      "name": "Oxy Moron",
+      "url": "https://open.spotify.com/track/3JTy5HftSASB9yTXwoRTAn"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
         "name": "All or Nothing",
         "url": "https://open.spotify.com/album/24DUTjkvAU6WUd7vnxrPAk"
       },
@@ -1795,6 +1779,22 @@
       "duration_ms": 185442,
       "name": "All or Nothing",
       "url": "https://open.spotify.com/track/10A8idGyFoxYjRHlL08UGP"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
+        "name": "Teeth",
+        "url": "https://open.spotify.com/album/7dTaPP2556CsZBPoYFGvFV"
+      },
+      "artists": [
+        {
+          "name": "As December Falls",
+          "url": "https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX"
+        }
+      ],
+      "duration_ms": 164800,
+      "name": "Teeth",
+      "url": "https://open.spotify.com/track/482PoaBHh3MI4w3MzozXOr"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -1863,22 +1863,6 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "Run Away",
-        "url": "https://open.spotify.com/album/3WRLRzAkTcrrGemtia8jxF"
-      },
-      "artists": [
-        {
-          "name": "Fluorescents",
-          "url": "https://open.spotify.com/artist/3k7eYa4LVI5wqhLj7PACE2"
-        }
-      ],
-      "duration_ms": 183588,
-      "name": "Run Away",
-      "url": "https://open.spotify.com/track/2YcUWBymYJzYYumtJPMJE4"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
         "name": "Get Your Ass To Mars",
         "url": "https://open.spotify.com/album/41kUIzh1ng3MqRIH83oxyC"
       },
@@ -1891,6 +1875,22 @@
       "duration_ms": 270000,
       "name": "Get Your Ass To Mars",
       "url": "https://open.spotify.com/track/66OzlSp5sPkJOoeWXCh9r8"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
+        "name": "Run Away",
+        "url": "https://open.spotify.com/album/3WRLRzAkTcrrGemtia8jxF"
+      },
+      "artists": [
+        {
+          "name": "Fluorescents",
+          "url": "https://open.spotify.com/artist/3k7eYa4LVI5wqhLj7PACE2"
+        }
+      ],
+      "duration_ms": 183588,
+      "name": "Run Away",
+      "url": "https://open.spotify.com/track/2YcUWBymYJzYYumtJPMJE4"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -2039,22 +2039,6 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "Sense of Humor",
-        "url": "https://open.spotify.com/album/14IgZFyV44p90w5X5niqt4"
-      },
-      "artists": [
-        {
-          "name": "The Starting Line",
-          "url": "https://open.spotify.com/artist/3E3xrZtBU5ORqcmX78v5YZ"
-        }
-      ],
-      "duration_ms": 195865,
-      "name": "Sense of Humor",
-      "url": "https://open.spotify.com/track/6KSGtuMoKHqpRzQZuBs2Xm"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
         "name": "The Preacher",
         "url": "https://open.spotify.com/album/2YyhwLGGvX6MS21ACX7jCL"
       },
@@ -2067,6 +2051,22 @@
       "duration_ms": 175490,
       "name": "The Preacher",
       "url": "https://open.spotify.com/track/25Qkn1Kz6aEIdtSw09zVfp"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
+        "name": "Sense of Humor",
+        "url": "https://open.spotify.com/album/14IgZFyV44p90w5X5niqt4"
+      },
+      "artists": [
+        {
+          "name": "The Starting Line",
+          "url": "https://open.spotify.com/artist/3E3xrZtBU5ORqcmX78v5YZ"
+        }
+      ],
+      "duration_ms": 195865,
+      "name": "Sense of Humor",
+      "url": "https://open.spotify.com/track/6KSGtuMoKHqpRzQZuBs2Xm"
     }
   ],
   "unique_name": "Pop Punk's Not Dead",

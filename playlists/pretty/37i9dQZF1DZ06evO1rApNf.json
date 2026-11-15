@@ -1,12 +1,12 @@
 {
   "description": "This is Mau y Ricky. The essential tracks, all in one playlist.",
-  "num_followers": 127656,
+  "num_followers": 127654,
   "original_name": "This Is Mau y Ricky",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avUBgAAAAACWWqPRAZclGPy45gsEZ/KX",
+  "snapshot_id": "avZTAAAAAAA8hmXcH7O8Dcbv6iwtnwY7",
   "tracks": [
     {
       "added_at": null,
@@ -179,34 +179,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Am\u00e9n",
-        "url": "https://open.spotify.com/album/78lYOKWnja1dwjaX8kHeP5"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Montaner",
-          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
-        },
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        },
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        },
-        {
-          "name": "Evaluna Montaner",
-          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
-        }
-      ],
-      "duration_ms": 253634,
-      "name": "Am\u00e9n",
-      "url": "https://open.spotify.com/track/7AjcJrynzHWlawo87kafY2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Para Aventuras y Curiosidades",
         "url": "https://open.spotify.com/album/01yYW0rRRwlEZx1dMmc5ff"
       },
@@ -235,6 +207,34 @@
       "duration_ms": 255078,
       "name": "Mi Mala (feat. Becky G, Leslie Grace & Lali) - Remix",
       "url": "https://open.spotify.com/track/27xFMBWh15wyYGGAVrEMuK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Am\u00e9n",
+        "url": "https://open.spotify.com/album/78lYOKWnja1dwjaX8kHeP5"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Montaner",
+          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
+        },
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        },
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+        }
+      ],
+      "duration_ms": 253634,
+      "name": "Am\u00e9n",
+      "url": "https://open.spotify.com/track/7AjcJrynzHWlawo87kafY2"
     },
     {
       "added_at": null,
@@ -459,22 +459,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "TINI TINI TINI",
-        "url": "https://open.spotify.com/album/7LP6bUlMdnuqeP2etuw7wI"
+        "name": "Para Aventuras y Curiosidades",
+        "url": "https://open.spotify.com/album/01yYW0rRRwlEZx1dMmc5ff"
       },
       "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        },
         {
           "name": "Mau y Ricky",
           "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
         }
       ],
-      "duration_ms": 200960,
-      "name": "Recuerdo",
-      "url": "https://open.spotify.com/track/5cgXYVjt3tEaM8l3wZiSiV"
+      "duration_ms": 208983,
+      "name": "Perd\u00f3name",
+      "url": "https://open.spotify.com/track/4mivRZXyZbIDecPTiCtOjw"
     },
     {
       "added_at": null,
@@ -499,18 +495,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para Aventuras y Curiosidades",
-        "url": "https://open.spotify.com/album/01yYW0rRRwlEZx1dMmc5ff"
+        "name": "TINI TINI TINI",
+        "url": "https://open.spotify.com/album/7LP6bUlMdnuqeP2etuw7wI"
       },
       "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
         {
           "name": "Mau y Ricky",
           "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
         }
       ],
-      "duration_ms": 208983,
-      "name": "Perd\u00f3name",
-      "url": "https://open.spotify.com/track/4mivRZXyZbIDecPTiCtOjw"
+      "duration_ms": 200960,
+      "name": "Recuerdo",
+      "url": "https://open.spotify.com/track/5cgXYVjt3tEaM8l3wZiSiV"
     },
     {
       "added_at": null,
@@ -803,6 +803,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ricky y Mau",
+        "url": "https://open.spotify.com/album/0wfdo9fpL4o4oNBWKUPmLg"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "duration_ms": 134032,
+      "name": "B\u00e9same",
+      "url": "https://open.spotify.com/track/7s0BArZxca6bo089d0HGEC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "AFROROCKSTAR",
         "url": "https://open.spotify.com/album/6dk6SJoigUMz87JrvrAhdG"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 202351,
       "name": "Chamba",
       "url": "https://open.spotify.com/track/6wsThRu35S56XQhbeslTzm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ricky y Mau",
-        "url": "https://open.spotify.com/album/0wfdo9fpL4o4oNBWKUPmLg"
-      },
-      "artists": [
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        }
-      ],
-      "duration_ms": 134032,
-      "name": "B\u00e9same",
-      "url": "https://open.spotify.com/track/7s0BArZxca6bo089d0HGEC"
     },
     {
       "added_at": null,
@@ -879,6 +879,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ricky y Mau",
+        "url": "https://open.spotify.com/album/0wfdo9fpL4o4oNBWKUPmLg"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "duration_ms": 147237,
+      "name": "Tiroteo",
+      "url": "https://open.spotify.com/track/1DwmcCNBNKJVnFWcqOWRVH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "noche de luna",
         "url": "https://open.spotify.com/album/40CKCca9JcuNQmItQ5nh2R"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 184763,
       "name": "noche de luna",
       "url": "https://open.spotify.com/track/4JKmOu2ChCgrmP7aGQS48i"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ricky y Mau",
-        "url": "https://open.spotify.com/album/0wfdo9fpL4o4oNBWKUPmLg"
-      },
-      "artists": [
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        }
-      ],
-      "duration_ms": 147237,
-      "name": "Tiroteo",
-      "url": "https://open.spotify.com/track/1DwmcCNBNKJVnFWcqOWRVH"
     },
     {
       "added_at": null,
@@ -959,6 +959,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "desmaquillada",
+        "url": "https://open.spotify.com/album/5RMmoWngZf5SH607oGSZyc"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "desmaquillada",
+      "url": "https://open.spotify.com/track/2qh6SULIPKrCBnaXxE1cGZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "RADIO VENEZUELA",
         "url": "https://open.spotify.com/album/4oGaJumaR03P9x9AWyfCCd"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 176840,
       "name": "D\u00d3NDE EST\u00c1S",
       "url": "https://open.spotify.com/track/0GqMyvXCFtxjZTJdLNO0p1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "desmaquillada",
-        "url": "https://open.spotify.com/album/5RMmoWngZf5SH607oGSZyc"
-      },
-      "artists": [
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "desmaquillada",
-      "url": "https://open.spotify.com/track/2qh6SULIPKrCBnaXxE1cGZ"
     },
     {
       "added_at": null,

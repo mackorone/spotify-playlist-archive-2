@@ -1,12 +1,12 @@
 {
   "description": "This is Panic! At The Disco. The essential tracks, all in one playlist.",
-  "num_followers": 778237,
+  "num_followers": 778242,
   "original_name": "This Is Panic! At The Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avUBgAAAAABfgETbi1bVk0BpW5XiyOpi",
+  "snapshot_id": "avZTAAAAAACJGawPvbPDVHIEXRQ60FOF",
   "tracks": [
     {
       "added_at": null,
@@ -619,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live In Denver",
-        "url": "https://open.spotify.com/album/3njEiy8EUgjS790gpLbfsL"
+        "name": "Viva Las Vengeance",
+        "url": "https://open.spotify.com/album/25DhBz5cckEAFcivcSzSTo"
       },
       "artists": [
         {
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
         }
       ],
-      "duration_ms": 205320,
-      "name": "Karma Police - Live In Denver",
-      "url": "https://open.spotify.com/track/6tRdywsu27GKJ70tqJhYxI"
+      "duration_ms": 229517,
+      "name": "Don't Let The Light Go Out",
+      "url": "https://open.spotify.com/track/2Tg7Tc4H50u11aDpmSRQTB"
     },
     {
       "added_at": null,
@@ -651,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Viva Las Vengeance",
-        "url": "https://open.spotify.com/album/25DhBz5cckEAFcivcSzSTo"
+        "name": "Live In Denver",
+        "url": "https://open.spotify.com/album/3njEiy8EUgjS790gpLbfsL"
       },
       "artists": [
         {
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
         }
       ],
-      "duration_ms": 229517,
-      "name": "Don't Let The Light Go Out",
-      "url": "https://open.spotify.com/track/2Tg7Tc4H50u11aDpmSRQTB"
+      "duration_ms": 205320,
+      "name": "Karma Police - Live In Denver",
+      "url": "https://open.spotify.com/track/6tRdywsu27GKJ70tqJhYxI"
     },
     {
       "added_at": null,
@@ -676,41 +676,9 @@
           "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
         }
       ],
-      "duration_ms": 293826,
-      "name": "When the Day Met the Night",
-      "url": "https://open.spotify.com/track/7v1b3qExlTFrpFWrtcnUpE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Live In Denver",
-        "url": "https://open.spotify.com/album/3njEiy8EUgjS790gpLbfsL"
-      },
-      "artists": [
-        {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
-        }
-      ],
-      "duration_ms": 246413,
-      "name": "Tonight, Tonight - Live In Denver",
-      "url": "https://open.spotify.com/track/3EUriaLkbmjzgedgY133T5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vices & Virtues",
-        "url": "https://open.spotify.com/album/5S0nsfYhHa1uz10V4yoWSL"
-      },
-      "artists": [
-        {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
-        }
-      ],
-      "duration_ms": 265333,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/7l9uOhfVJC8Y0c6PXHrgbs"
+      "duration_ms": 227240,
+      "name": "She Had the World",
+      "url": "https://open.spotify.com/track/673WCjn0SxKJD4qRKczaCk"
     },
     {
       "added_at": null,
@@ -731,6 +699,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vices & Virtues",
+        "url": "https://open.spotify.com/album/5S0nsfYhHa1uz10V4yoWSL"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "duration_ms": 265333,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/7l9uOhfVJC8Y0c6PXHrgbs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live In Denver",
+        "url": "https://open.spotify.com/album/3njEiy8EUgjS790gpLbfsL"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "duration_ms": 246413,
+      "name": "Tonight, Tonight - Live In Denver",
+      "url": "https://open.spotify.com/track/3EUriaLkbmjzgedgY133T5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pretty. Odd.",
         "url": "https://open.spotify.com/album/7Hk9WbjPbN1n2GXaK7aldw"
       },
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
         }
       ],
-      "duration_ms": 227240,
-      "name": "She Had the World",
-      "url": "https://open.spotify.com/track/673WCjn0SxKJD4qRKczaCk"
+      "duration_ms": 293826,
+      "name": "When the Day Met the Night",
+      "url": "https://open.spotify.com/track/7v1b3qExlTFrpFWrtcnUpE"
     },
     {
       "added_at": null,

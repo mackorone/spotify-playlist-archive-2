@@ -4,7 +4,7 @@
 
 > This week's best new tracks of all Christian, Gospel, Worship & Inspirational music genres! Cover: Jackie Hill Perry
 
-14,264 songs - 38 day 15 hr 41 min
+14,265 songs - 38 day 15 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3548,6 +3548,7 @@
 | [For The Love Of God](https://open.spotify.com/track/0nW7Jcusb90hDt5GIR6G22) | [Celebration Music](https://open.spotify.com/artist/06dC3YuX4L5gosp5z3P9cp), [Chris Davenport](https://open.spotify.com/artist/6Lu7A9Om0rGL9dgzDLR1ed) | [Split The Sky](https://open.spotify.com/album/2fILRCr4sMQjeZAk7oYulp) | 7:11 | 2025-02-07 | 2025-02-15 |
 | [For the Love of God \(Alt Version\)](https://open.spotify.com/track/5pPe4G7yEmxeinbYLeOl2l) | [Andrew Ripp](https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN) | [For the Love of God \(Alt Version\)](https://open.spotify.com/album/7fHozbnecFx9JVrqzZep04) | 3:20 | 2023-09-22 | 2023-10-07 |
 | [For The Most Part](https://open.spotify.com/track/0S984hI9izkbO8tPDcDnKB) | [Sophia Rebekah Mitchell](https://open.spotify.com/artist/2XimxgriE1gR4uUpEEdV4f) | [For The Most Part](https://open.spotify.com/album/4pYrIfrNW8Md5VJzkNp3D6) | 3:19 | 2023-11-17 | 2023-12-16 |
+| [For The Rest Of My Life](https://open.spotify.com/track/6IesBVOJ4NtX4AD4oQk6Jz) | [Ethan Dufault](https://open.spotify.com/artist/5c7oIOloT3runmK9YMayzJ) | [For The Rest Of My Life](https://open.spotify.com/album/4hlxJC4ADPgqNUynZYaQZ6) | 3:46 | 2026-11-13 |  |
 | [For the Rest of My Life](https://open.spotify.com/track/4QexEu1mLvedBSpbmiYu3x) | [Mark Hubbard & The Voices](https://open.spotify.com/artist/79te98B7P6xCTF0msUW7gk) | [For the Rest of My Life](https://open.spotify.com/album/3CXM178LVqkOz9nPKBV7rN) | 3:24 | 2024-05-17 | 2024-06-01 |
 | [For the Sake of the Call](https://open.spotify.com/track/5JXI5jO1AJGElVylRjJanA) | [Joseph Habedank](https://open.spotify.com/artist/1E5fXe9FugDtjPJXLjc3be), [Steven Curtis Chapman](https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot) | [For the Sake of the Call](https://open.spotify.com/album/49fznoGGw1oL3t14r9gGjX) | 4:58 | 2025-10-24 | 2025-11-08 |
 | [For The Savior](https://open.spotify.com/track/1o7KC44znLpvwRNsHQh6f7) | [Rave Jesus](https://open.spotify.com/artist/3mPHVEre3DiAHKuOCBFP8D), [Caleb Gordon](https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41) | [For The Savior](https://open.spotify.com/album/5RaZuNBLeheICCtl0catVM) | 2:10 | 2026-11-13 |  |

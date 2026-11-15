@@ -4,7 +4,7 @@
 
 > This is PJ Harvey\. The essential tracks, all in one playlist.
 
-72 songs - 4 hr 13 min
+73 songs - 4 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Catherine](https://open.spotify.com/track/1FtCIt8zecbYf4mKvqJ029) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Is This Desire?](https://open.spotify.com/album/1LQlpOjLrnNvsqg6tosrYD) | 4:05 | 2026-04-11 |  |
 | [Come to Me](https://open.spotify.com/track/7xDeTALyFeNz7241qj3aJS) | [Mark Lanegan](https://open.spotify.com/artist/1fpXM23IoNckJ7NDAm8YJQ), [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Bubblegum](https://open.spotify.com/album/4tK7Hlb92sbC6OEKQG7QiJ) | 3:45 | 2025-10-28 |  |
 | [Dear Darkness](https://open.spotify.com/track/3khsLfdlKOy9uZ754psc9G) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [White Chalk](https://open.spotify.com/album/4IeJySFMS6reB6BeYzMp5j) | 3:09 | 2025-12-07 | 2026-06-26 |
-| [Donjon Droll](https://open.spotify.com/track/3QPd3jUH542XaJkIOrZoyW) | [Oliver Leith](https://open.spotify.com/artist/3oYfG3258SNid91d6wwGKJ), [Sean Shibe](https://open.spotify.com/artist/4EFuBkf11kth7fbFXIpre5), [12 Ensemble](https://open.spotify.com/artist/2em3FOAFG3NssO0tWItWuj), [GBSR Duo](https://open.spotify.com/artist/5t9dwjh5i2wjq0nZ5923jD), [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Doom and the Dooms](https://open.spotify.com/album/0qMtdEQAFu7eLqJ4ZkMsip) | 3:07 | 2026-11-09 |  |
+| [Donjon Droll](https://open.spotify.com/track/3QPd3jUH542XaJkIOrZoyW) | [Oliver Leith](https://open.spotify.com/artist/3oYfG3258SNid91d6wwGKJ), [Sean Shibe](https://open.spotify.com/artist/4EFuBkf11kth7fbFXIpre5), [12 Ensemble](https://open.spotify.com/artist/2em3FOAFG3NssO0tWItWuj), [GBSR Duo](https://open.spotify.com/artist/5t9dwjh5i2wjq0nZ5923jD), [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Doom and the Dooms](https://open.spotify.com/album/0qMtdEQAFu7eLqJ4ZkMsip) | 3:07 | 2026-11-09 | 2026-11-15 |
 | [Down By The Water](https://open.spotify.com/track/48mJX8glOrQkrSdVBjc0Wb) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [To Bring You My Love](https://open.spotify.com/album/2yMg8ronKfVDHngnlLNnl8) | 3:14 | 2025-10-28 |  |
 | [Dress](https://open.spotify.com/track/6pRWjTvrRM8vmf3LE9akXc) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Dry](https://open.spotify.com/album/0sOkhl9Sgep1t9v0wx8ffg) | 3:18 | 2025-10-28 |  |
 | [Eyepennies](https://open.spotify.com/track/2KN2jYc5w89X3odixWVp1I) | [Sparklehorse](https://open.spotify.com/artist/64tVHZVSAZhDEiOJxnb6hE), [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [It's A Wonderful Life](https://open.spotify.com/album/6iP3HGmoRXFUrKiml2QVkz) | 5:27 | 2025-10-28 |  |
@@ -78,6 +78,7 @@
 | [When Under Ether](https://open.spotify.com/track/6T74sWvcHvSAO5prlk5dDw) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [White Chalk](https://open.spotify.com/album/4IeJySFMS6reB6BeYzMp5j) | 2:22 | 2025-10-28 |  |
 | [White Chalk](https://open.spotify.com/track/5otrKJigdBWRbBNHOfFg2g) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [White Chalk](https://open.spotify.com/album/4IeJySFMS6reB6BeYzMp5j) | 3:06 | 2025-10-28 |  |
 | [Who by Fire \- From "Bad Sisters"](https://open.spotify.com/track/2E2tpCZ2sYccSSitQKtlnj) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz), [Tim Phillips](https://open.spotify.com/artist/0prMdgdyCmPmrmPQ5Sgf5h) | [Who by Fire \(From "Bad Sisters"\)](https://open.spotify.com/album/3InrIsINEyzXtVOjtTMD8z) | 2:14 | 2025-10-28 |  |
+| [Wreath](https://open.spotify.com/track/5ns6ZPjBLsSN1D0G9E2set) | [Shida Shahabi](https://open.spotify.com/artist/72kYzyvgJS9izgSp2ttqdm), [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Wreath](https://open.spotify.com/album/7ccUopmhhuaUf5jsblveTD) | 6:31 | 2026-11-15 |  |
 | [You Said Something](https://open.spotify.com/track/4m5S4wvLY031rN6beIWoRe) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Stories From The City, Stories From The Sea](https://open.spotify.com/album/0hBWhJEmVyNPG2Jq71CJXz) | 3:18 | 2025-10-28 |  |
 | [Yuri\-G](https://open.spotify.com/track/72W93VrqRaDiyn3FushDXO) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Rid Of Me](https://open.spotify.com/album/2fDJpBJhtloxzUENHlU9JB) | 3:28 | 2026-01-31 | 2026-10-18 |
 

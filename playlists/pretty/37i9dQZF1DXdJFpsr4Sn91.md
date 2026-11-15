@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 
 > Nousussa olevat hitit\. 🌪️
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,318 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,313 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,17 +34,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 | 24 | [Isosisko](https://open.spotify.com/track/1vRDoHBJzlpd9Vxviyb1Le) | [F](https://open.spotify.com/artist/38wI9qgPMb7FoMu2IrzXht) | [Isosisko](https://open.spotify.com/album/3zl7QoxDNRm3BAnqrWwhyO) | 2:44 |
 | 25 | [Miss Helsinki \(with meik & AB\)](https://open.spotify.com/track/4zHJILWfqn5mukqZUUa4bi) | [Victor Nordis](https://open.spotify.com/artist/1DAgitxRlJMroOghdSraJp), [meik](https://open.spotify.com/artist/3lWLx3XSIXTsTcWH30Xs95), [AB](https://open.spotify.com/artist/76sQrG5TTCfEKDqFhc2zWm) | [Miss Helsinki \(with meik & AB\)](https://open.spotify.com/album/10DCv3bWx2eYHuV8c5feC6) | 2:54 |
 | 26 | [en tunne](https://open.spotify.com/track/6d3Wi6MvD5bxaPJajXBiZt) | [Ella Herold](https://open.spotify.com/artist/7sokmrbjchlLzeqcOrX9aM) | [en tunne](https://open.spotify.com/album/6cDfwvDCGoGFCPRb5A4FHb) | 3:01 |
-| 27 | [BOUJEE](https://open.spotify.com/track/1h444FCFESqo0Uy9WI7iGg) | [Leyla](https://open.spotify.com/artist/6bge4X4r0wfWIDsAM1vcra) | [BOUJEE](https://open.spotify.com/album/2a9G4o3WlvzPpley7XFkcp) | 3:01 |
+| 27 | [Mielikuvitusta](https://open.spotify.com/track/5FhFbwrMFYU7WkWdkenPvR) | [Aali](https://open.spotify.com/artist/64o4iINH5TMOoQEsZsMSLf) | [Mielikuvitusta](https://open.spotify.com/album/0VMhBfd8rNpddav5BRBY4F) | 3:56 |
 | 28 | [Edestakaisin](https://open.spotify.com/track/6fONXxK5VYRSv4cFETHyBy) | [Diya](https://open.spotify.com/artist/7aVx10WNIKLScTvZm7oNk5) | [Edestakaisin](https://open.spotify.com/album/2DVilstn40JgfJzJmHgXpK) | 2:33 |
-| 29 | [Mielikuvitusta](https://open.spotify.com/track/5FhFbwrMFYU7WkWdkenPvR) | [Aali](https://open.spotify.com/artist/64o4iINH5TMOoQEsZsMSLf) | [Mielikuvitusta](https://open.spotify.com/album/0VMhBfd8rNpddav5BRBY4F) | 3:56 |
+| 29 | [BOUJEE](https://open.spotify.com/track/1h444FCFESqo0Uy9WI7iGg) | [Leyla](https://open.spotify.com/artist/6bge4X4r0wfWIDsAM1vcra) | [BOUJEE](https://open.spotify.com/album/2a9G4o3WlvzPpley7XFkcp) | 3:01 |
 | 30 | [BRATZIT](https://open.spotify.com/track/5vDouridCzcpAacDJWOabI) | [Victor Nordis](https://open.spotify.com/artist/1DAgitxRlJMroOghdSraJp), [S4RA](https://open.spotify.com/artist/6UM1oztn0RG4yv1RBO2tJB) | [BRATZIT](https://open.spotify.com/album/2S610BWMRzl23pejgTQoXC) | 2:21 |
 | 31 | [Holtiton](https://open.spotify.com/track/3kcU4sBCrp7h5uk79TyNiH) | [Nenerchy](https://open.spotify.com/artist/1qQ61UfUcWzv32i0XfTfZy) | [Holtiton](https://open.spotify.com/album/0fVcDc4SNUKdwP6mKz0PUl) | 3:07 |
-| 32 | [Annan sut pois \(feat\. Tomi Saario\)](https://open.spotify.com/track/3tmM50vAAJe4F69LfPBk25) | [Lukas Leon](https://open.spotify.com/artist/1lDaPfGRA6miVIOjZbY50n), [Tomi Saario](https://open.spotify.com/artist/1p1Q1tRavrbMGCgJdf9G0H) | [Annan sut pois \(feat\. Tomi Saario\)](https://open.spotify.com/album/4PgMeqNU555ZVxQMriLaC4) | 2:48 |
-| 33 | [Viimeinen kausi](https://open.spotify.com/track/3ZqhLmHpZVi4SVd2dvjL00) | [Edicti](https://open.spotify.com/artist/5sYAbWJ14L78hv98klUjqS) | [Toiveuusintoja](https://open.spotify.com/album/5KzDCx4IE2Sp6a8IrKg3vB) | 2:52 |
-| 34 | [Joki](https://open.spotify.com/track/1UIQksFc0StKMDjaTiuNOi) | [Coevisto](https://open.spotify.com/artist/6ntNjeOd8U1y1cFSdp6isr), [Ella Salo](https://open.spotify.com/artist/2vUt7sDnHhUm8TMouc3o0I) | [Joki](https://open.spotify.com/album/5RhuVQHcGxvdBpsmeYwdtB) | 3:18 |
+| 32 | [Joki](https://open.spotify.com/track/1UIQksFc0StKMDjaTiuNOi) | [Coevisto](https://open.spotify.com/artist/6ntNjeOd8U1y1cFSdp6isr), [Ella Salo](https://open.spotify.com/artist/2vUt7sDnHhUm8TMouc3o0I) | [Joki](https://open.spotify.com/album/5RhuVQHcGxvdBpsmeYwdtB) | 3:18 |
+| 33 | [Annan sut pois \(feat\. Tomi Saario\)](https://open.spotify.com/track/3tmM50vAAJe4F69LfPBk25) | [Lukas Leon](https://open.spotify.com/artist/1lDaPfGRA6miVIOjZbY50n), [Tomi Saario](https://open.spotify.com/artist/1p1Q1tRavrbMGCgJdf9G0H) | [Annan sut pois \(feat\. Tomi Saario\)](https://open.spotify.com/album/4PgMeqNU555ZVxQMriLaC4) | 2:48 |
+| 34 | [Viimeinen kausi](https://open.spotify.com/track/3ZqhLmHpZVi4SVd2dvjL00) | [Edicti](https://open.spotify.com/artist/5sYAbWJ14L78hv98klUjqS) | [Toiveuusintoja](https://open.spotify.com/album/5KzDCx4IE2Sp6a8IrKg3vB) | 2:52 |
 | 35 | [Paremmin ku ikin](https://open.spotify.com/track/1fwY8uM3w4yf5WefXgLFTJ) | [Roosa](https://open.spotify.com/artist/65ul8vOKWYAxspjKZvGPkg) | [Paremmin ku ikin](https://open.spotify.com/album/1mLf8g07UrbwP6f1yHfXoE) | 2:36 |
-| 36 | [Dancing Alone](https://open.spotify.com/track/7lcOwbhhqpVRqudzulstWt) | [Kiara Nelson](https://open.spotify.com/artist/1OtLLpkbo3xLGlPUQV4YHa) | [Dancing Alone](https://open.spotify.com/album/4iTpD1smBxizFvBs13HTzI) | 2:16 |
-| 37 | [Hei Supermario \(feat\. Samuell\)](https://open.spotify.com/track/3QWM72gaz0yoRobb9A014a) | [DOG HUSTLERS](https://open.spotify.com/artist/3BH7RY390iBJjKx696bIpb), [Samuell](https://open.spotify.com/artist/6McHq84vR6u1UNTdBiMKvV) | [Hei Supermario \(feat\. Samuell\)](https://open.spotify.com/album/3fyr79gc97RFsMlZnefk6Z) | 1:54 |
+| 36 | [Hei Supermario \(feat\. Samuell\)](https://open.spotify.com/track/3QWM72gaz0yoRobb9A014a) | [DOG HUSTLERS](https://open.spotify.com/artist/3BH7RY390iBJjKx696bIpb), [Samuell](https://open.spotify.com/artist/6McHq84vR6u1UNTdBiMKvV) | [Hei Supermario \(feat\. Samuell\)](https://open.spotify.com/album/3fyr79gc97RFsMlZnefk6Z) | 1:54 |
+| 37 | [Dancing Alone](https://open.spotify.com/track/7lcOwbhhqpVRqudzulstWt) | [Kiara Nelson](https://open.spotify.com/artist/1OtLLpkbo3xLGlPUQV4YHa) | [Dancing Alone](https://open.spotify.com/album/4iTpD1smBxizFvBs13HTzI) | 2:16 |
 | 38 | [Kaurismäki](https://open.spotify.com/track/5Y4H1CSghOI3oi4a0hOY90) | [Lilja Lundén](https://open.spotify.com/artist/0wNcJZGfhunx6ws14pNya1) | [Epäluotettava kertoja](https://open.spotify.com/album/30YMu7mvj6yBP5w2VMkqGz) | 3:11 |
 | 39 | [Mun sydän on mun](https://open.spotify.com/track/6fGac27NbECNcEjGsMOuMM) | [Vilma Alina](https://open.spotify.com/artist/5zmBbgxO5dvb4sbsX6dL19) | [Mun sydän on mun](https://open.spotify.com/album/5DyuYlKIlU6bDfsX2ApRcr) | 3:25 |
 | 40 | [Don't Let It Get to You](https://open.spotify.com/track/4QLSVMOYIFo4618S9UkRyb) | [Goldielocks](https://open.spotify.com/artist/5v1NrlZC6GuQq2Ci8H1A59) | [Don't Let It Get to You](https://open.spotify.com/album/2ll6LCwWcfJljpb9qGDslb) | 3:23 |

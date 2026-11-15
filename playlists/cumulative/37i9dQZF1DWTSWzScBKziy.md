@@ -4,7 +4,7 @@
 
 > Dive into a diverse collection of recent releases from Christian and inspirational artists across all genres\. Cover: Belle Frantz
 
-1,694 songs - 4 day 9 hr 41 min
+1,695 songs - 4 day 9 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -411,7 +411,8 @@
 | [Forty One](https://open.spotify.com/track/19ZQem15tyNYl8H4M40Th6) | [Samantha Ebert](https://open.spotify.com/artist/0ETOPq7bpPG7rxYsV0MEzu) | [Forty One](https://open.spotify.com/album/4CyKRwvYNl98G8TtHCHWNV) | 3:51 | 2026-02-20 | 2026-04-18 |
 | [FOUGHT 4 LOVE](https://open.spotify.com/track/4Sor9OP41KfK7AB9uJYYM1) | [Vision of Leo](https://open.spotify.com/artist/21HnuUEkcsr902YIGJRL2e), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [FOUGHT 4 LOVE](https://open.spotify.com/album/0rGLBwhYzI5VfXWztSKFHx) | 2:30 | 2022-10-29 | 2024-06-08 |
 | [Fragile \- Reimagined](https://open.spotify.com/track/1xXUBqzkcVqnt26WJLLl5k) | [Natalie Layne](https://open.spotify.com/artist/6N1l2HIYtw3RhoJ2wzLYaB) | [Fragile \(Reimagined\)](https://open.spotify.com/album/4JHezCs3CKgzWUTcaibLlo) | 3:11 | 2024-06-07 | 2024-08-10 |
-| [FREE](https://open.spotify.com/track/6m2PoI1uab7HSlRLdpTiE9) | [DKG KIE](https://open.spotify.com/artist/1eeYg6dFkaRT5GA0lsCVHA) | [FREE](https://open.spotify.com/album/12Bz8M2cn1cdmedkZCi1nw) | 2:41 | 2026-10-23 |  |
+| [FREE](https://open.spotify.com/track/5GWXshlOl3XsngVUGVNbIX) | [DKG KIE](https://open.spotify.com/artist/1eeYg6dFkaRT5GA0lsCVHA) | [WHO AM I?: DISC 2](https://open.spotify.com/album/7kp1N1Do6rQOICDFvFCg3G) | 2:38 | 2026-11-06 |  |
+| [FREE](https://open.spotify.com/track/6m2PoI1uab7HSlRLdpTiE9) | [DKG KIE](https://open.spotify.com/artist/1eeYg6dFkaRT5GA0lsCVHA) | [FREE](https://open.spotify.com/album/12Bz8M2cn1cdmedkZCi1nw) | 2:41 | 2026-10-23 | 2026-11-15 |
 | [Free](https://open.spotify.com/track/41ibCK6uOdn7BUhKqvf09e) | [Jillian Warman](https://open.spotify.com/artist/1ADnGh2KezhGKJKtxvqIQs) | [Free](https://open.spotify.com/album/0H330u3155z0sVx9zRvwwm) | 3:40 | 2025-06-06 | 2025-07-20 |
 | [FREE](https://open.spotify.com/track/1Zpr3vfsaNmZhO8YcN14pd) | [Spencer Kane](https://open.spotify.com/artist/6wRBVb1TqANRmxpqP7FKtb), [brooke](https://open.spotify.com/artist/7FUnhnuowTICdtK0KzH7Ng) | [FREE](https://open.spotify.com/album/3fMgYbhM34UYr1MtXUoJYv) | 3:03 | 2026-02-07 | 2026-03-22 |
 | [Free At Last](https://open.spotify.com/track/05PxyIJgvQSOtwWGymgsNj) | [Jason Crabb](https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq) | [Free At Last](https://open.spotify.com/album/2IBcv1U7JHj4stGwDTInUG) | 3:46 | 2022-10-29 | 2023-04-30 |

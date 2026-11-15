@@ -4,7 +4,7 @@
 
 > La playlist idéale pour se détendre en musique.
 
-555 songs - 1 day 9 hr 36 min
+556 songs - 1 day 9 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -399,7 +399,7 @@
 | [Puro](https://open.spotify.com/track/1561A0KDSbrQR4WW0dTeyt) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Puro](https://open.spotify.com/album/7LRVYzAIgLOvrDvezhVd6r) | 3:50 | 2026-02-06 | 2026-04-03 |
 | [Pushing It Down and Praying](https://open.spotify.com/track/4wO2JlPZw72Xlu6dGUW4Ce) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Pushing It Down and Praying](https://open.spotify.com/album/6bfpmfxEWqXsQHU9xc553O) | 3:54 | 2024-10-04 | 2024-12-10 |
 | [queen of the season](https://open.spotify.com/track/35Tzu0ZfS2YoDNsHfFIR7a) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [last night you said you missed me](https://open.spotify.com/album/3dp8Y5MGseZ3ahOMIP47O2) | 3:19 | 2025-09-12 |  |
-| [Rabbit Hole](https://open.spotify.com/track/5FlMiiDcXmWB2VQRb9oJV3) | [Yael Naim](https://open.spotify.com/artist/32aFdXARUiqP81SXqIPD4w) | [Solaire](https://open.spotify.com/album/5HUdII3JKk1ZNZvYUIvdep) | 3:07 | 2026-10-15 |  |
+| [Rabbit Hole](https://open.spotify.com/track/5FlMiiDcXmWB2VQRb9oJV3) | [Yael Naim](https://open.spotify.com/artist/32aFdXARUiqP81SXqIPD4w) | [Solaire](https://open.spotify.com/album/5HUdII3JKk1ZNZvYUIvdep) | 3:07 | 2026-10-15 | 2026-11-15 |
 | [Racecar](https://open.spotify.com/track/5dhnTegrm9fl3KLBU2bocS) | [Jordan Patterson](https://open.spotify.com/artist/2yKKMwAPgYB51wlkM3sY5G) | [Racecar](https://open.spotify.com/album/7j5fmYNhtiNE94h8pQ1YW4) | 5:37 | 2025-08-28 | 2025-09-19 |
 | [Radio](https://open.spotify.com/track/5qmAA3omMev40cie9rwL7p) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Radio](https://open.spotify.com/album/7kiFHLuH5FCfkmm2P53RA4) | 2:46 | 2025-07-03 | 2025-07-26 |
 | [Red Velvet \(with Ari Abdul\)](https://open.spotify.com/track/2UYAifrQTyJCocTAHk1uS8) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4), [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [Red Velvet \(with Ari Abdul\)](https://open.spotify.com/album/5OmgLcynomYwAYCDK7wa4Q) | 3:06 | 2025-01-23 | 2025-01-31 |
@@ -432,6 +432,7 @@
 | [Shrike](https://open.spotify.com/track/3ieUtb4ecQgEYxae8dzEUi) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Wasteland, Baby!](https://open.spotify.com/album/5j1ZsFyNCsnt62prbs85eE) | 4:58 | 2024-04-15 |  |
 | [Sidelines](https://open.spotify.com/track/4mMviz9DJKLPyfhxpQIBcW) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Sandhills](https://open.spotify.com/album/1ZTd9cM6FPWW4ZP0qUwhpF) | 3:25 | 2023-08-31 | 2023-09-09 |
 | [Silent Killer](https://open.spotify.com/track/30GeuZLcq4ORyG1mf5JeYT) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Lovebites](https://open.spotify.com/album/5PjXhp79Cl4FB7qCDOkm4V) | 3:52 | 2026-05-21 | 2026-07-03 |
+| [Silver Springs \- Spotify Singles](https://open.spotify.com/track/171L1i9B8JSR234FJbKDPi) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Silver Springs \(Spotify Singles\)](https://open.spotify.com/album/0fW7syaAcr6p7MpMnyq49k) | 3:20 | 2026-11-13 |  |
 | [Sing](https://open.spotify.com/track/4dTf6qu0IVqLROkGCoM2yt) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Sing](https://open.spotify.com/album/1sjXusqnhkYsWmpeKxCaDS) | 6:11 | 2026-10-15 |  |
 | [Sisters With Me](https://open.spotify.com/track/2ewg31VuWBIamb8f8APqw7) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Sisters With Me](https://open.spotify.com/album/74sxWShKdwDJAFyID1XaaP) | 4:04 | 2026-01-30 |  |
 | [Skinny Love](https://open.spotify.com/track/3B3eOgLJSqPEA0RfboIQVM) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [For Emma, Forever Ago](https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM) | 3:58 | 2022-11-25 | 2024-04-19 |

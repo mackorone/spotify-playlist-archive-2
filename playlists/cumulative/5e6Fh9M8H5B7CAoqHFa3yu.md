@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,805 songs - 6 day 19 hr 2 min
+2,807 songs - 6 day 19 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [Artificial Blue](https://open.spotify.com/track/2ZGyVQqd2uUxrigBQOiksw) | [Arya Roy](https://open.spotify.com/artist/21FTeGmTZQOBuvw2VV03w4) | [Artificial Blue](https://open.spotify.com/album/21Vz2ASI7AjK5WHt55x6JP) | 2:58 | 2026-10-05 |  |
 | [as it is](https://open.spotify.com/track/1jxALFuUf7APZqQdNaMrc2) | [Lofi u](https://open.spotify.com/artist/7tOkG8CZx1DrlER0naUlOr) | [celia](https://open.spotify.com/album/5agxtye59cweuqAUm65oj3) | 3:14 | 2026-07-27 |  |
 | [As Long As You're By My Side](https://open.spotify.com/track/6SlEZck3pbUXIl3vVnX4Ia) | [Thee Phoniques](https://open.spotify.com/artist/4aOlREicgEGbc226Uo05yN) | [Afterglow & Heartbreak](https://open.spotify.com/album/5vw6BIcRFggUB0cpT2kiTf) | 2:46 | 2026-07-12 |  |
+| [As Vidas Dos Outros](https://open.spotify.com/track/0vyUMz4LOfX7NNKeezOG6m) | [Hugo Ferrás](https://open.spotify.com/artist/2kjfGblDD0Iv8soEBX5Qgm) | [As Vidas Dos Outros](https://open.spotify.com/album/0qOY3RztQMNBVmO8v8uDTX) | 3:21 | 2026-11-14 |  |
 | [Ash Queens Arise](https://open.spotify.com/track/2poe4hybs20gwvtbbMak3V) | [ASH QUEENS](https://open.spotify.com/artist/5gxrqah9KzW1xHCbfK9wCz) | [Ash Queens](https://open.spotify.com/album/3PJt5RtP5WKqKPkWUa3MRa) | 4:09 | 2026-01-04 |  |
 | [Asi Te Quiero](https://open.spotify.com/track/1ovtRibd9A7snHsGZTyrne) | [Dany.Love](https://open.spotify.com/artist/3U04HRDLdtNVBZnEE6Y3le) | [Asi Te Quiero](https://open.spotify.com/album/54bz5FiwFx168Dy9FYw0Es) | 2:19 | 2026-03-12 |  |
 | [ASIDERAL SPACE](https://open.spotify.com/track/24Hwi2MkkwBRg4riBVSEfY) | [yogyety](https://open.spotify.com/artist/0eWeSaAWeytNuogll1VxST) | [YOGYETY & AI](https://open.spotify.com/album/4iXiqES3b6P7toYWq2ZCpd) | 3:28 | 2026-01-07 |  |
@@ -1098,6 +1099,7 @@
 | [I'll be back](https://open.spotify.com/track/28YNy52CqI0UwMa5n70wwA) | [Apex89](https://open.spotify.com/artist/0jdPGIACeHmp89qaOUEsWZ) | [I'll be back](https://open.spotify.com/album/31d7cMUoGxAt9bIKedgJJV) | 4:22 | 2026-05-29 |  |
 | [I'll Let Go](https://open.spotify.com/track/3k5NyjxlzKvSbPrZKcS7uM) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [I'll Let Go](https://open.spotify.com/album/0l61DNg32FUICvJGrSnqL2) | 2:54 | 2026-02-05 |  |
 | [I'll Love You More](https://open.spotify.com/track/7oGoQa2KyTA9Nyi4Qti2SB) | [Paul Marturano](https://open.spotify.com/artist/4ErK966kYcXS7y7s4e3MLA) | [Paul Marturano Volume 2 Two Album Set More! / Delco Girl](https://open.spotify.com/album/3l1MTuLII5RaArXBi4DJI5) | 3:37 | 2026-04-24 |  |
+| [I'll Wait for Another Day](https://open.spotify.com/track/1Gh4DU7UGMLSugXgNlTSMv) | [Terry Sedore Music](https://open.spotify.com/artist/3FeRwZfgGRpkZ7XYBuKe7T) | [I'll Wait for Another Day](https://open.spotify.com/album/3vqwVbgwEIDHVwnUqKGDIT) | 3:49 | 2026-11-14 |  |
 | [i'm a goose \- reprise](https://open.spotify.com/track/3LJ2ZqevTKnJki7wam25C5) | [Mildred's Big Day](https://open.spotify.com/artist/2ayq6NXWGwkbCzqEyTTpQv) | [i'm a goose \(reprise\)](https://open.spotify.com/album/7czib9QcakwbbulfLZNa7u) | 1:26 | 2025-09-24 |  |
 | [I'm Al!ve](https://open.spotify.com/track/1sSGgL2IeWxU2z1db0EPvy) | [Ace\_Relevant](https://open.spotify.com/artist/01TENR8djYPZL8oeh4DrBO) | [Ace\_Relevant](https://open.spotify.com/album/7j3awrP8NcOkL4VIVjwZ78) | 3:18 | 2025-09-08 |  |
 | [I'm Going Straight To Heaven](https://open.spotify.com/track/2NCq24RSUzUHfndEYNHz8H) | [MC 900 Ft\. Jesus](https://open.spotify.com/artist/2S8nYaxyItH72O4dhRWTPq), [DJ Zero](https://open.spotify.com/artist/7qEUstSKJRbr8uLC6XFPgI) | [Hell With The Lid Off](https://open.spotify.com/album/6XE7AiJAGmPxEDOedY1TTq) | 4:04 | 2026-02-07 |  |

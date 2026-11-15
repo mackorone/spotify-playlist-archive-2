@@ -1,6 +1,6 @@
 {
   "description": "Sign up for False Idols at Drumsheds <a href=\"https://register.broadwicklive.com/false-idols-london?ref=dsweb\">here</a>",
-  "num_followers": 1896,
+  "num_followers": 1897,
   "original_name": "False Idols",
   "owner": {
     "name": "Spotify",
@@ -187,22 +187,18 @@
     {
       "added_at": "2026-08-13 11:11:48",
       "album": {
-        "name": "Sign From God",
-        "url": "https://open.spotify.com/album/52wtfF7dc3lrllLzMhEQ3I"
+        "name": "Northern Star",
+        "url": "https://open.spotify.com/album/6TjfhQSmmBOEwIXkoT3fdZ"
       },
       "artists": [
         {
-          "name": "Cobrah",
-          "url": "https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne"
-        },
-        {
-          "name": "Grimes",
-          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+          "name": "Melanie C",
+          "url": "https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df"
         }
       ],
-      "duration_ms": 200200,
-      "name": "Sign From God",
-      "url": "https://open.spotify.com/track/465ZH6T2yFlcvb7B4J4M05"
+      "duration_ms": 352173,
+      "name": "I Turn To You",
+      "url": "https://open.spotify.com/track/1Le4SDanBrX8OtmnnyTNrh"
     },
     {
       "added_at": "2026-08-13 11:11:48",
@@ -223,18 +219,22 @@
     {
       "added_at": "2026-08-13 11:11:48",
       "album": {
-        "name": "Northern Star",
-        "url": "https://open.spotify.com/album/6TjfhQSmmBOEwIXkoT3fdZ"
+        "name": "Sign From God",
+        "url": "https://open.spotify.com/album/52wtfF7dc3lrllLzMhEQ3I"
       },
       "artists": [
         {
-          "name": "Melanie C",
-          "url": "https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df"
+          "name": "Cobrah",
+          "url": "https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne"
+        },
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
         }
       ],
-      "duration_ms": 352173,
-      "name": "I Turn To You",
-      "url": "https://open.spotify.com/track/1Le4SDanBrX8OtmnnyTNrh"
+      "duration_ms": 200200,
+      "name": "Sign From God",
+      "url": "https://open.spotify.com/track/465ZH6T2yFlcvb7B4J4M05"
     },
     {
       "added_at": "2026-08-13 11:11:48",
@@ -615,22 +615,6 @@
     {
       "added_at": "2026-08-13 11:11:48",
       "album": {
-        "name": "f0rbiidden l0ve$tory",
-        "url": "https://open.spotify.com/album/0Ef1aaC3SD8EPr72sOYceZ"
-      },
-      "artists": [
-        {
-          "name": "horsegiirL",
-          "url": "https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2"
-        }
-      ],
-      "duration_ms": 126000,
-      "name": "f0rbiidden l0ve$tory",
-      "url": "https://open.spotify.com/track/6krQyQ8XW0ZiNB9fjui2ur"
-    },
-    {
-      "added_at": "2026-08-13 11:11:48",
-      "album": {
         "name": "The Dark, The Light",
         "url": "https://open.spotify.com/album/5ZfJiJQqkWCRA61daHr4b5"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 234480,
       "name": "The Dark, The Light (Edit)",
       "url": "https://open.spotify.com/track/0lBXFOrDC2JlIPp6soVYpR"
+    },
+    {
+      "added_at": "2026-08-13 11:11:48",
+      "album": {
+        "name": "f0rbiidden l0ve$tory",
+        "url": "https://open.spotify.com/album/0Ef1aaC3SD8EPr72sOYceZ"
+      },
+      "artists": [
+        {
+          "name": "horsegiirL",
+          "url": "https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2"
+        }
+      ],
+      "duration_ms": 126000,
+      "name": "f0rbiidden l0ve$tory",
+      "url": "https://open.spotify.com/track/6krQyQ8XW0ZiNB9fjui2ur"
     },
     {
       "added_at": "2026-08-13 11:11:48",

@@ -282,7 +282,7 @@
       ],
       "date_added": "2026-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 187000,
       "name": "Donjon Droll",
       "url": "https://open.spotify.com/track/3QPd3jUH542XaJkIOrZoyW"
@@ -1358,6 +1358,28 @@
       "duration_ms": 134531,
       "name": "Who by Fire - From \"Bad Sisters\"",
       "url": "https://open.spotify.com/track/2E2tpCZ2sYccSSitQKtlnj"
+    },
+    {
+      "album": {
+        "name": "Wreath",
+        "url": "https://open.spotify.com/album/7ccUopmhhuaUf5jsblveTD"
+      },
+      "artists": [
+        {
+          "name": "Shida Shahabi",
+          "url": "https://open.spotify.com/artist/72kYzyvgJS9izgSp2ttqdm"
+        },
+        {
+          "name": "PJ Harvey",
+          "url": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
+        }
+      ],
+      "date_added": "2026-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391226,
+      "name": "Wreath",
+      "url": "https://open.spotify.com/track/5ns6ZPjBLsSN1D0G9E2set"
     },
     {
       "album": {

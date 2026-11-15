@@ -1,12 +1,12 @@
 {
   "description": "This is Craig David. The essential tracks, all in one playlist.",
-  "num_followers": 104664,
+  "num_followers": 104666,
   "original_name": "This Is Craig David",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avUBgAAAAADNAl7I8iWbSZojeWYIw3S9",
+  "snapshot_id": "avZTAAAAAAAF1T6JWZewWBSfHWZHmAcD",
   "tracks": [
     {
       "added_at": null,
@@ -187,6 +187,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "HONEYMOON Remix (with Craig David)",
+        "url": "https://open.spotify.com/album/737OIezy5ApYIKSsl9zlpA"
+      },
+      "artists": [
+        {
+          "name": "Parisalexa",
+          "url": "https://open.spotify.com/artist/7CZXfBcIhQ2dPEqk3N74vV"
+        },
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "duration_ms": 171333,
+      "name": "HONEYMOON Remix (with Craig David)",
+      "url": "https://open.spotify.com/track/5GpN4aH67xZ28HvpvmD1LI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Commitment",
         "url": "https://open.spotify.com/album/3LOsYrNgEAAKIkM29f5LBd"
       },
@@ -231,22 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Greatest Showman: Reimagined",
-        "url": "https://open.spotify.com/album/4dPosP4Io4sDCmeiCxVHW0"
-      },
-      "artists": [
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        }
-      ],
-      "duration_ms": 227226,
-      "name": "Come Alive - Bonus Track",
-      "url": "https://open.spotify.com/track/606YPVeUuvXnxJ19SVI0rg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Born to Do It",
         "url": "https://open.spotify.com/album/5TedEgCbtmvDnXzUtXEFJY"
       },
@@ -259,6 +263,22 @@
       "duration_ms": 277306,
       "name": "Rendezvous",
       "url": "https://open.spotify.com/track/6QaOU7xPK3UJKsoNroRCWn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Greatest Showman: Reimagined",
+        "url": "https://open.spotify.com/album/4dPosP4Io4sDCmeiCxVHW0"
+      },
+      "artists": [
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "duration_ms": 227226,
+      "name": "Come Alive - Bonus Track",
+      "url": "https://open.spotify.com/track/606YPVeUuvXnxJ19SVI0rg"
     },
     {
       "added_at": null,
@@ -295,6 +315,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Born to Do It",
+        "url": "https://open.spotify.com/album/5TedEgCbtmvDnXzUtXEFJY"
+      },
+      "artists": [
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "duration_ms": 333000,
+      "name": "Rewind",
+      "url": "https://open.spotify.com/track/5hultE7GeExA3RkTvtsear"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Re-Rewind (The Crowd Say Bo Selecta) (feat. Craig David)",
         "url": "https://open.spotify.com/album/4d76RCnCY0TcxGYbyS7vLV"
       },
@@ -315,22 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Born to Do It",
-        "url": "https://open.spotify.com/album/5TedEgCbtmvDnXzUtXEFJY"
-      },
-      "artists": [
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        }
-      ],
-      "duration_ms": 333000,
-      "name": "Rewind",
-      "url": "https://open.spotify.com/track/5hultE7GeExA3RkTvtsear"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Slicker than Your Average",
         "url": "https://open.spotify.com/album/6USRXUZXe4keGs2yUj3Fis"
       },
@@ -343,26 +363,6 @@
       "duration_ms": 215960,
       "name": "What's Your Flava? - Radio Edit",
       "url": "https://open.spotify.com/track/7rVBmwJsClMU6vOlggk5Ad"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "HONEYMOON Remix (with Craig David)",
-        "url": "https://open.spotify.com/album/737OIezy5ApYIKSsl9zlpA"
-      },
-      "artists": [
-        {
-          "name": "Parisalexa",
-          "url": "https://open.spotify.com/artist/7CZXfBcIhQ2dPEqk3N74vV"
-        },
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        }
-      ],
-      "duration_ms": 171333,
-      "name": "HONEYMOON Remix (with Craig David)",
-      "url": "https://open.spotify.com/track/5GpN4aH67xZ28HvpvmD1LI"
     },
     {
       "added_at": null,
@@ -583,26 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Following My Intuition (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0Vop2iSyeir0QntOrgamFN"
-      },
-      "artists": [
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        },
-        {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
-        }
-      ],
-      "duration_ms": 157653,
-      "name": "Ain't Giving Up",
-      "url": "https://open.spotify.com/track/3mkJigBxWd5DJUsRuwHG3f"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nothing Like This",
         "url": "https://open.spotify.com/album/4gjgWkaWRxPJc4TSflYAOr"
       },
@@ -619,6 +599,26 @@
       "duration_ms": 183645,
       "name": "Nothing Like This",
       "url": "https://open.spotify.com/track/4PFQ4EQBtJUp2jQjpmYkVA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Following My Intuition (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0Vop2iSyeir0QntOrgamFN"
+      },
+      "artists": [
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        },
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        }
+      ],
+      "duration_ms": 157653,
+      "name": "Ain't Giving Up",
+      "url": "https://open.spotify.com/track/3mkJigBxWd5DJUsRuwHG3f"
     },
     {
       "added_at": null,
@@ -655,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Story Goes...",
-        "url": "https://open.spotify.com/album/3tzENLaGyi3Jrb5AaoKrGG"
-      },
-      "artists": [
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        }
-      ],
-      "duration_ms": 242173,
-      "name": "Let Her Go",
-      "url": "https://open.spotify.com/track/07oVDSwqKCbF5ZmUqPeqvn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "What Is Love? (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1MvF4ulZKH7SaDQs9rE5nc"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 209133,
       "name": "We Were Just Kids (feat. Craig David & Kirsten Joy)",
       "url": "https://open.spotify.com/track/4w1Lnjryh7voWNEfNdj37G"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Story Goes...",
+        "url": "https://open.spotify.com/album/3tzENLaGyi3Jrb5AaoKrGG"
+      },
+      "artists": [
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "duration_ms": 242173,
+      "name": "Let Her Go",
+      "url": "https://open.spotify.com/track/07oVDSwqKCbF5ZmUqPeqvn"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Story Goes...",
-        "url": "https://open.spotify.com/album/3tzENLaGyi3Jrb5AaoKrGG"
-      },
-      "artists": [
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        }
-      ],
-      "duration_ms": 240973,
-      "name": "Separate Ways",
-      "url": "https://open.spotify.com/track/4LA0Pv5ftyW8rnDuVNWOF0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Abracadabra (feat. Craig David)",
         "url": "https://open.spotify.com/album/3ZhVhgmMYyPalwUSX6D42l"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 155076,
       "name": "Abracadabra (feat. Craig David)",
       "url": "https://open.spotify.com/track/4XIIjW8c8pPaB3tZ712yH9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Story Goes...",
+        "url": "https://open.spotify.com/album/3tzENLaGyi3Jrb5AaoKrGG"
+      },
+      "artists": [
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "duration_ms": 240973,
+      "name": "Separate Ways",
+      "url": "https://open.spotify.com/track/4LA0Pv5ftyW8rnDuVNWOF0"
     },
     {
       "added_at": null,

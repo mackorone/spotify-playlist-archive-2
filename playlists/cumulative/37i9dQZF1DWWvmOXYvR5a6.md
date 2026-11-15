@@ -4,7 +4,7 @@
 
 > Trendy x Chill K\-Hip Hop\.  \(Cover: BE'O\) \(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
 
-861 songs - 1 day 21 hr 48 min
+862 songs - 1 day 21 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,7 +231,7 @@
 | [Eureka !](https://open.spotify.com/track/4tJQbunNIaeLIIvi3MRtzW) | [Kidd King](https://open.spotify.com/artist/5bOD7SS2RP7gzcNstJeCuF) | [Eureka !](https://open.spotify.com/album/3a8eYzJzhimT8riE5962WJ) | 2:55 | 2022-04-01 | 2022-05-05 |
 | [Even for now](https://open.spotify.com/track/7GTs32zH47ux1XUPb6lOAy) | [YUNNUGU](https://open.spotify.com/artist/202toms3QJeNCFXO0BFNY4) | [Even for now](https://open.spotify.com/album/7uuAnHZW6HSP2MWPHKQKAi) | 2:41 | 2022-07-04 | 2022-07-15 |
 | [Every Day By Your Side](https://open.spotify.com/track/4ryQrzwKUStXUqKpF47fR0) | [Xbf](https://open.spotify.com/artist/61qs4x1f4a7FfV3Yqr7LW0), [Jung In](https://open.spotify.com/artist/0CO7rEbHBtpqgY9QPYJgPM), [GARY](https://open.spotify.com/artist/5myBH2YqzOgyWoTKCsydAi) | [Every Day By Your Side](https://open.spotify.com/album/2g07vkQC3BsbCmmELGG5DJ) | 3:14 | 2022-04-21 | 2022-07-27 |
-| [everybody dies](https://open.spotify.com/track/4VjXB0bVNFiEQTi3tCDtU9) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [everybody dies](https://open.spotify.com/album/3QyIQvec4deNjS7mRgrJcG) | 2:32 | 2026-04-01 |  |
+| [everybody dies](https://open.spotify.com/track/4VjXB0bVNFiEQTi3tCDtU9) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [everybody dies](https://open.spotify.com/album/3QyIQvec4deNjS7mRgrJcG) | 2:32 | 2026-04-01 | 2026-11-15 |
 | [Everything](https://open.spotify.com/track/7uy9pd7vLYQHYWFczj0urj) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [Everything](https://open.spotify.com/album/2zpEkut1D2xF0daaWj8lYt) | 3:07 | 2022-11-09 | 2023-03-27 |
 | [Ex](https://open.spotify.com/track/2qYQlzG9kllQLu9RcHPF9L) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [MaRz&B](https://open.spotify.com/album/1j0f8acKHeC5DXhr7XSn93) | 3:17 | 2022-11-03 | 2022-12-04 |
 | [Excuse](https://open.spotify.com/track/3Kvludm9mx8wPSp0YKzPOz) | [CHANHYUN](https://open.spotify.com/artist/3mVfekn5nIuqNWJCK0u1r9) | [Excuse](https://open.spotify.com/album/7gaaPrwHk3sCo8e8x9wYG5) | 3:22 | 2024-04-28 | 2024-05-10 |
@@ -848,6 +848,7 @@
 | [YES \(feat\. Jay Park, REDDY\)](https://open.spotify.com/track/7LlIANXlJFhzDHGqugugTp) | [twlv](https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [REDDY](https://open.spotify.com/artist/69H1Ooj2eBJXLTk3IEBV0v) | [Diminished](https://open.spotify.com/album/6YX73BggU7ueaQzV9PKXiO) | 2:46 | 2024-04-26 | 2024-08-21 |
 | [Yesterday](https://open.spotify.com/track/1hRmByIwcQPNjenTUU29Oy) | [Han Ji Won](https://open.spotify.com/artist/2UV1eLgWCkEf7bPKCub0Ip) | [Container Box : pilot](https://open.spotify.com/album/58FL7T5keNnKHlKHm4qG4z) | 3:04 | 2022-04-01 | 2022-04-21 |
 | [Yesterday](https://open.spotify.com/track/4mPOgPXaXFBQ9dCg6OGEFv) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Yesterday](https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT) | 3:11 | 2023-03-22 |  |
+| [YOONI](https://open.spotify.com/track/2wES7nQnbzh7wcFUHv9uPu) | [moonpil](https://open.spotify.com/artist/3kMj3OAPRWh7VU4bmcX7ha), [TWLV](https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey), [Sii](https://open.spotify.com/artist/0X9TIFzB6y6kA2pZBcRmLu) | [YOONI](https://open.spotify.com/album/6RX0AX00gXEeFxPJghGNyZ) | 2:43 | 2026-11-13 |  |
 | [You So \(feat\. migoo\)](https://open.spotify.com/track/3crfuTcFmhXGSiURgSUMSM) | [OWLER](https://open.spotify.com/artist/0xiNRwIQfriE5jZN3LDaLr), [SIM2](https://open.spotify.com/artist/6RuP6GVxx8trGK6dINhoUR), [Migoo](https://open.spotify.com/artist/7BV43zSPYFU1W7SY6QbMcH) | [Out Of Control Vol.3](https://open.spotify.com/album/59gABTdyEHWyB7qBIx7SpA) | 3:05 | 2022-08-02 | 2022-08-13 |
 | [You Up](https://open.spotify.com/track/0avIFhF3AOSVx607hoacdl) | [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY) | [Dry Flower](https://open.spotify.com/album/68Dq3HMqFPoTX1gNqSDDII) | 2:45 | 2022-04-01 | 2022-07-25 |
 | [You're So Fine](https://open.spotify.com/track/5WxYKs3nb6TGa8kThH4eAJ) | [BILL STAX](https://open.spotify.com/artist/459tVR1zPUmVwOROer0adD), [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) | [LIVE FAST DIE SKRT](https://open.spotify.com/album/1MjbVCreOaE7j2f9gQG1dR) | 3:47 | 2026-04-21 |  |

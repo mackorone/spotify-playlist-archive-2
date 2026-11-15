@@ -1,6 +1,6 @@
 {
   "description": "Le rap qu\u00e9b\u00e9cois, servi tout frais tout chaud. Photo: Souldia, Cupidon",
-  "num_followers": 89608,
+  "num_followers": 89619,
   "original_name": "Rap qu\u00e9b",
   "owner": {
     "name": "Spotify",
@@ -379,18 +379,26 @@
     {
       "added_at": "2026-11-13 05:03:01",
       "album": {
-        "name": "Fleur de lys",
-        "url": "https://open.spotify.com/album/6OLl9MuaNQpLM8rxyRutMJ"
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/2s4Fl2jD3bLsaP4q10gVCP"
       },
       "artists": [
         {
-          "name": "kinji00",
-          "url": "https://open.spotify.com/artist/19GYu85T8PlAbWVKKSDWFF"
+          "name": "Die-On",
+          "url": "https://open.spotify.com/artist/3PiPx0tAJVVmdwScvelkq3"
+        },
+        {
+          "name": "Tel Kel",
+          "url": "https://open.spotify.com/artist/1pT5N4DANkbWPnrXQuDJPM"
+        },
+        {
+          "name": "Souldia",
+          "url": "https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1"
         }
       ],
-      "duration_ms": 154074,
-      "name": "Fleur de lys",
-      "url": "https://open.spotify.com/track/5jy0jPKgPj8AUPF6HitrXn"
+      "duration_ms": 211859,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/72zxhDtfzlU8hskSF2avzQ"
     },
     {
       "added_at": "2026-11-13 05:03:01",
@@ -427,26 +435,18 @@
     {
       "added_at": "2026-11-13 05:03:01",
       "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/2s4Fl2jD3bLsaP4q10gVCP"
+        "name": "Fleur de lys",
+        "url": "https://open.spotify.com/album/6OLl9MuaNQpLM8rxyRutMJ"
       },
       "artists": [
         {
-          "name": "Die-On",
-          "url": "https://open.spotify.com/artist/3PiPx0tAJVVmdwScvelkq3"
-        },
-        {
-          "name": "Tel Kel",
-          "url": "https://open.spotify.com/artist/1pT5N4DANkbWPnrXQuDJPM"
-        },
-        {
-          "name": "Souldia",
-          "url": "https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1"
+          "name": "kinji00",
+          "url": "https://open.spotify.com/artist/19GYu85T8PlAbWVKKSDWFF"
         }
       ],
-      "duration_ms": 211859,
-      "name": "Dopamine",
-      "url": "https://open.spotify.com/track/72zxhDtfzlU8hskSF2avzQ"
+      "duration_ms": 154074,
+      "name": "Fleur de lys",
+      "url": "https://open.spotify.com/track/5jy0jPKgPj8AUPF6HitrXn"
     },
     {
       "added_at": "2026-11-13 05:03:01",
@@ -863,22 +863,18 @@
     {
       "added_at": "2026-11-13 05:03:01",
       "album": {
-        "name": "\u00c9TOILE PI\u00c8GE",
-        "url": "https://open.spotify.com/album/1bPGwUVAbR5dDQ9f3obS5D"
+        "name": "CLIC CLAC",
+        "url": "https://open.spotify.com/album/4OMTINlR66Du6jdm9wFDIN"
       },
       "artists": [
         {
-          "name": "Tizzo",
-          "url": "https://open.spotify.com/artist/0NAWq4CW7DxGwgIm1Ock5C"
-        },
-        {
-          "name": "YoAlain!",
-          "url": "https://open.spotify.com/artist/3nYuJlkCrYDZfxhWfCo8GB"
+          "name": "Mk.official",
+          "url": "https://open.spotify.com/artist/7HtuJMPqa880l1kMWmROGU"
         }
       ],
-      "duration_ms": 131180,
-      "name": "\u00c9TOILE PI\u00c8GE",
-      "url": "https://open.spotify.com/track/1iRllXDR3YsHoXoPrZhQN8"
+      "duration_ms": 160000,
+      "name": "CLIC CLAC",
+      "url": "https://open.spotify.com/track/13hnpuT9elqcOF5p5ex6Uz"
     },
     {
       "added_at": "2026-11-13 05:03:01",
@@ -963,18 +959,22 @@
     {
       "added_at": "2026-11-13 05:03:01",
       "album": {
-        "name": "CLIC CLAC",
-        "url": "https://open.spotify.com/album/4OMTINlR66Du6jdm9wFDIN"
+        "name": "\u00c9TOILE PI\u00c8GE",
+        "url": "https://open.spotify.com/album/1bPGwUVAbR5dDQ9f3obS5D"
       },
       "artists": [
         {
-          "name": "Mk.official",
-          "url": "https://open.spotify.com/artist/7HtuJMPqa880l1kMWmROGU"
+          "name": "Tizzo",
+          "url": "https://open.spotify.com/artist/0NAWq4CW7DxGwgIm1Ock5C"
+        },
+        {
+          "name": "YoAlain!",
+          "url": "https://open.spotify.com/artist/3nYuJlkCrYDZfxhWfCo8GB"
         }
       ],
-      "duration_ms": 160000,
-      "name": "CLIC CLAC",
-      "url": "https://open.spotify.com/track/13hnpuT9elqcOF5p5ex6Uz"
+      "duration_ms": 131180,
+      "name": "\u00c9TOILE PI\u00c8GE",
+      "url": "https://open.spotify.com/track/1iRllXDR3YsHoXoPrZhQN8"
     },
     {
       "added_at": "2026-11-13 05:03:01",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2026-11-13 05:03:01",
       "album": {
+        "name": "Big Wop - Mile-End sur la map",
+        "url": "https://open.spotify.com/album/4sOGzpMFd8ICEDRRED2GIS"
+      },
+      "artists": [
+        {
+          "name": "Fl\u00e9au Dicaprio",
+          "url": "https://open.spotify.com/artist/7eECqg50qMODvvrHySfQAZ"
+        }
+      ],
+      "duration_ms": 210695,
+      "name": "Fascinant",
+      "url": "https://open.spotify.com/track/095MgE6prClcNYhjBmIIlT"
+    },
+    {
+      "added_at": "2026-11-13 05:03:01",
+      "album": {
         "name": "AUCUN MENSONGE",
         "url": "https://open.spotify.com/album/1bdsdHScln4FQsbgx68S2h"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 214883,
       "name": "AUCUN MENSONGE",
       "url": "https://open.spotify.com/track/0QPuNKfrHyAegpwbwamwPm"
-    },
-    {
-      "added_at": "2026-11-13 05:03:01",
-      "album": {
-        "name": "Big Wop - Mile-End sur la map",
-        "url": "https://open.spotify.com/album/4sOGzpMFd8ICEDRRED2GIS"
-      },
-      "artists": [
-        {
-          "name": "Fl\u00e9au Dicaprio",
-          "url": "https://open.spotify.com/artist/7eECqg50qMODvvrHySfQAZ"
-        }
-      ],
-      "duration_ms": 210695,
-      "name": "Fascinant",
-      "url": "https://open.spotify.com/track/095MgE6prClcNYhjBmIIlT"
     },
     {
       "added_at": "2026-11-13 05:03:01",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2026-11-13 05:03:01",
       "album": {
+        "name": "CAP",
+        "url": "https://open.spotify.com/album/5Dwqd6Xymq56KrOjqmpskx"
+      },
+      "artists": [
+        {
+          "name": "The Alone",
+          "url": "https://open.spotify.com/artist/2T1HPiXlPPtIZwcYovhQIO"
+        }
+      ],
+      "duration_ms": 188084,
+      "name": "CAP",
+      "url": "https://open.spotify.com/track/4a38khPRsyXOWTaQbLFP1i"
+    },
+    {
+      "added_at": "2026-11-13 05:03:01",
+      "album": {
         "name": "PIKET",
         "url": "https://open.spotify.com/album/67GHamy51VbsYd2pCEupwR"
       },
@@ -1179,22 +1195,6 @@
     {
       "added_at": "2026-11-13 05:03:01",
       "album": {
-        "name": "Wrong",
-        "url": "https://open.spotify.com/album/22CdeTyceXXAhCcbWCg7Bj"
-      },
-      "artists": [
-        {
-          "name": "DawaMafia",
-          "url": "https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ"
-        }
-      ],
-      "duration_ms": 183952,
-      "name": "Wrong",
-      "url": "https://open.spotify.com/track/3o9ivo0oqcgxN53kfOSSFq"
-    },
-    {
-      "added_at": "2026-11-13 05:03:01",
-      "album": {
         "name": "Radeau Capharna\u00fcm",
         "url": "https://open.spotify.com/album/3Zt8ueRsn2X80guFi53ERf"
       },
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2026-11-13 05:03:01",
       "album": {
+        "name": "Wrong",
+        "url": "https://open.spotify.com/album/22CdeTyceXXAhCcbWCg7Bj"
+      },
+      "artists": [
+        {
+          "name": "DawaMafia",
+          "url": "https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ"
+        }
+      ],
+      "duration_ms": 183952,
+      "name": "Wrong",
+      "url": "https://open.spotify.com/track/3o9ivo0oqcgxN53kfOSSFq"
+    },
+    {
+      "added_at": "2026-11-13 05:03:01",
+      "album": {
         "name": "Kess tu connais?",
         "url": "https://open.spotify.com/album/087lSpOwE9O7aF7F1JUILs"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 140963,
       "name": "Kess tu connais?",
       "url": "https://open.spotify.com/track/6uJhWxmB5Xsvtk8KQq2Rdv"
-    },
-    {
-      "added_at": "2026-11-13 05:03:01",
-      "album": {
-        "name": "CAP",
-        "url": "https://open.spotify.com/album/5Dwqd6Xymq56KrOjqmpskx"
-      },
-      "artists": [
-        {
-          "name": "The Alone",
-          "url": "https://open.spotify.com/artist/2T1HPiXlPPtIZwcYovhQIO"
-        }
-      ],
-      "duration_ms": 188084,
-      "name": "CAP",
-      "url": "https://open.spotify.com/track/4a38khPRsyXOWTaQbLFP1i"
     },
     {
       "added_at": "2026-11-13 05:03:01",
@@ -1367,26 +1367,6 @@
     {
       "added_at": "2026-11-13 05:03:01",
       "album": {
-        "name": "SEPT ANS DE MALHEUR (titre temporaire)",
-        "url": "https://open.spotify.com/album/0GiDyRgjAurcuHRHEMok40"
-      },
-      "artists": [
-        {
-          "name": "Koriass",
-          "url": "https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq"
-        },
-        {
-          "name": "Daniel B\u00e9langer",
-          "url": "https://open.spotify.com/artist/3k0HFz1mMtmsaWYsX75MiW"
-        }
-      ],
-      "duration_ms": 245950,
-      "name": "SEPT ANS DE MALHEUR (titre permanent)",
-      "url": "https://open.spotify.com/track/3Eu93yOFSnRVWLWhOgOn1z"
-    },
-    {
-      "added_at": "2026-11-13 05:03:01",
-      "album": {
         "name": "Le c\u0153ur \u00e0 la bonne place",
         "url": "https://open.spotify.com/album/69ZYia8iytJHvAOGO13UYP"
       },
@@ -1403,6 +1383,26 @@
       "duration_ms": 212586,
       "name": "Le c\u0153ur \u00e0 la bonne place",
       "url": "https://open.spotify.com/track/6ZNpcOR6olDX8ruuR1hBII"
+    },
+    {
+      "added_at": "2026-11-13 05:03:01",
+      "album": {
+        "name": "SEPT ANS DE MALHEUR (titre temporaire)",
+        "url": "https://open.spotify.com/album/0GiDyRgjAurcuHRHEMok40"
+      },
+      "artists": [
+        {
+          "name": "Koriass",
+          "url": "https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq"
+        },
+        {
+          "name": "Daniel B\u00e9langer",
+          "url": "https://open.spotify.com/artist/3k0HFz1mMtmsaWYsX75MiW"
+        }
+      ],
+      "duration_ms": 245950,
+      "name": "SEPT ANS DE MALHEUR (titre permanent)",
+      "url": "https://open.spotify.com/track/3Eu93yOFSnRVWLWhOgOn1z"
     }
   ],
   "unique_name": "Rap qu\u00e9b",

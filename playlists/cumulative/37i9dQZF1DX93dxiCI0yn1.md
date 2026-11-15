@@ -4,7 +4,7 @@
 
 > 【サイファー音源を公開！】ABEMA「RAPSTAR 2026」公式プレイリスト。審査員や番組内で活躍したアーティスト、昨年活躍したアーティストの楽曲を毎週水曜日に更新。 マイライブラリに保存して毎週チェックしよう。
 
-450 songs - 21 hr 52 min
+452 songs - 21 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -399,6 +399,7 @@
 | [Zoomer](https://open.spotify.com/track/6kopnoNQZMlhuXEdPOyj31) | [Sadajyo](https://open.spotify.com/artist/0fDYQNROoU8HcirDMA1s4L), [Jeff Loik](https://open.spotify.com/artist/0U7hPN2sXJhXoQYR9nYeLd) | [Golden Virginia](https://open.spotify.com/album/7M5Gqvf6GFk7C8rMpIBqid) | 2:54 | 2023-10-24 | 2024-04-19 |
 | [“23freestyle”](https://open.spotify.com/track/4V1UNrnrKwpcTtiI0LMMDe) | [Spada](https://open.spotify.com/artist/2bkUNcBS4bP8AIodraQqz7), [Lil’Yukichi](https://open.spotify.com/artist/2ZTljlYtLNOOPlNzBptZmA) | [“23freestyle”](https://open.spotify.com/album/1Fvr9YVAZSY6oY6rSnSfdq) | 2:08 | 2024-02-27 | 2024-07-04 |
 | [あっそう](https://open.spotify.com/track/3a1u8dpFleOBivOxiovzp5) | [Y1ee Coyote](https://open.spotify.com/artist/5VOVkqbK1WHNI58t4sVNFH) | [SIDE:Y TAPEⅡ](https://open.spotify.com/album/2eAImN7ejapxlJlIPlJLfu) | 2:23 | 2026-10-06 | 2026-10-14 |
+| [ただのgame](https://open.spotify.com/track/2LamX32whXwtqTWFoRXgsm) | [Saggypants Shimba](https://open.spotify.com/artist/75R2U62H9bf08CifLZqTSG) | [FREESTYLE LIFESTYLE](https://open.spotify.com/album/42mYbYH1PdHpVR1I1AdXiX) | 2:03 | 2026-11-14 |  |
 | [ちなみに、テルコは俺のばぁちゃんの名だ](https://open.spotify.com/track/4O90YoFjMuvD84wOcLGUIM) | [TellU\(TellHer\)TellU\-5/テルテラテルコ](https://open.spotify.com/artist/4SWvVcRpTAmXyuTF3qiVVs) | [ちなみに、テルコは俺のばぁちゃんの名だ](https://open.spotify.com/album/52Q2tntqQmhZhbcZqlFZ8z) | 2:22 | 2026-10-20 |  |
 | [ちょっちゅね！！！ \(feat\. R\-指定\)](https://open.spotify.com/track/38nPGn1D7Spw6gNfSVHtdo) | [SEEDA](https://open.spotify.com/artist/3L1EmlKEdboomQtlRj4XtY), [R\-Shitei](https://open.spotify.com/artist/0FZn92qmQ4tpWLbGR26dBb) | [親子星 \(Deluxe\)](https://open.spotify.com/album/3hCyx8xnpqoVpXeqE3VbGu) | 2:32 | 2026-10-06 |  |
 | [へいき](https://open.spotify.com/track/2Gx6tFoIcftiSv6clpXcbf) | [wood pure luvheart](https://open.spotify.com/artist/30RL8eEQZ4jNfEkuBsElvx), [Yoyou](https://open.spotify.com/artist/217ChH8bJDq7t6NiqMK2dF) | [へいき](https://open.spotify.com/album/0upaF3EMRq07CQVZnyrzQN) | 1:58 | 2026-11-10 |  |
@@ -436,6 +437,7 @@
 | [愛](https://open.spotify.com/track/3tkkfBfQUvxRGJl2DFtBzb) | [Liza](https://open.spotify.com/artist/2lt6QQR32fKGBooeTvd2wd), [SEEDA](https://open.spotify.com/artist/3L1EmlKEdboomQtlRj4XtY) | [愛](https://open.spotify.com/album/6RGn3r2EhbosMPYYkTqKcT) | 4:08 | 2024-02-27 | 2024-07-04 |
 | [懺悔](https://open.spotify.com/track/4tlZNXlG2GauaRWcFKW0ju) | [Kee Rooz](https://open.spotify.com/artist/6aelVE9DrlIT69rDWD29lh) | [懺悔](https://open.spotify.com/album/2OgzAkEgyPvNArDpCyZhqW) | 9:24 | 2026-10-06 |  |
 | [星](https://open.spotify.com/track/3PnkPZ394LsltX5o8m9fsr) | [Masato Hayashi](https://open.spotify.com/artist/5j7m1n3HAdmbJoYMizwzk2) | [Iconic](https://open.spotify.com/album/5MlnBbSdSPGG8WFSiUUiKm) | 1:59 | 2026-10-06 | 2026-11-04 |
+| [東京の音](https://open.spotify.com/track/6V9TCHjtD3qDbTHrXudmRy) | [S TILL I DIE](https://open.spotify.com/artist/1ICd95tL6iZcEKFEQpuWaW) | [Tokyo Is Yours](https://open.spotify.com/album/27PqVKNxjETkdmPPhHKDuX) | 2:44 | 2026-11-14 |  |
 | [正夢 \(feat\. eyden\)](https://open.spotify.com/track/75oFQY95GilHqIMQYAWItl) | [ShowyVICTOR](https://open.spotify.com/artist/7wBFVrT9qEIi4FRjgqgPXA), [eyden](https://open.spotify.com/artist/0WfL2PHijCihsWmlnwYjtj) | [正夢 \(feat\. eyden\)](https://open.spotify.com/album/5KM1cPxjzMu9WRP4skATa7) | 2:45 | 2024-07-04 | 2026-10-07 |
 | [死と税金](https://open.spotify.com/track/4zqHQPgRtvVDYncm3lOxNP) | [ShowyRENZO](https://open.spotify.com/artist/1MLMBTcgBXus7IgbvLaoP4) | [2022](https://open.spotify.com/album/72PE7SlxisvDHoAqubn9Mv) | 2:22 | 2024-02-27 | 2024-07-04 |
 | [窓口](https://open.spotify.com/track/4oiKY5Fp3Z11FrCOC1HhMb) | [noma](https://open.spotify.com/artist/5lL3ZTc535xQeLqXH9cB3V) | [六ネンメベストテープ](https://open.spotify.com/album/0GOq2nZfF5ADOC9cQW2jtF) | 2:57 | 2024-02-27 | 2024-07-04 |

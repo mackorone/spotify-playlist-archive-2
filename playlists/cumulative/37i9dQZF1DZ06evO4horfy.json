@@ -700,7 +700,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-28",
+      "date_removed": null,
       "duration_ms": 149133,
       "name": "Ik Heb Zo Waanzinnig Gedroomd",
       "url": "https://open.spotify.com/track/4A7tc8ZBC1fsJaNErPnWCo"
@@ -776,7 +776,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 162575,
       "name": "Kleur de wereld groen",
       "url": "https://open.spotify.com/track/5MppH5OIxJKacTcpdfZws4"
@@ -1241,6 +1241,24 @@
     },
     {
       "album": {
+        "name": "46 - Vol avontuur",
+        "url": "https://open.spotify.com/album/1YGnCuWsBhzrFBBWwEeBku"
+      },
+      "artists": [
+        {
+          "name": "Kinderen voor Kinderen",
+          "url": "https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN"
+        }
+      ],
+      "date_added": "2026-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150734,
+      "name": "Vol avontuur",
+      "url": "https://open.spotify.com/track/1dWVNtxHec9l4iHg2YsymB"
+    },
+    {
+      "album": {
         "name": "Vol avontuur",
         "url": "https://open.spotify.com/album/1txxR6AhJym8skXydiLFci"
       },
@@ -1252,7 +1270,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 150734,
       "name": "Vol avontuur",
       "url": "https://open.spotify.com/track/38ZJJMPnIX7gHzNJGueGMJ"

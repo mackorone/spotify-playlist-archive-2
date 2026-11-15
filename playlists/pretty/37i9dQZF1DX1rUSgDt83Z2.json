@@ -1,6 +1,6 @@
 {
   "description": "Fijn voor thuis of op werk. Helemaal van eigen bodem \ud83c\uddf3\ud83c\uddf1",
-  "num_followers": 82139,
+  "num_followers": 82150,
   "original_name": "Helemaal NL",
   "owner": {
     "name": "Spotify",
@@ -87,26 +87,6 @@
     {
       "added_at": "2026-11-05 23:00:22",
       "album": {
-        "name": "Hoe hou ik dit vast",
-        "url": "https://open.spotify.com/album/3qXuDOAngn1VBoXcPYf3jh"
-      },
-      "artists": [
-        {
-          "name": "Bente",
-          "url": "https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e"
-        },
-        {
-          "name": "BL\u00d8F",
-          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        }
-      ],
-      "duration_ms": 218898,
-      "name": "Hoe hou ik dit vast",
-      "url": "https://open.spotify.com/track/4ELJFskubTyiQQJeWfFUvq"
-    },
-    {
-      "added_at": "2026-11-05 23:00:22",
-      "album": {
         "name": "Ik Ben Niet Meer Bang",
         "url": "https://open.spotify.com/album/189EqxKsLbH39r47N0VMbi"
       },
@@ -123,6 +103,26 @@
       "duration_ms": 181326,
       "name": "Ik Ben Niet Meer Bang",
       "url": "https://open.spotify.com/track/6nZo4DQDz3UMqKCXi6UvYY"
+    },
+    {
+      "added_at": "2026-11-05 23:00:22",
+      "album": {
+        "name": "Hoe hou ik dit vast",
+        "url": "https://open.spotify.com/album/3qXuDOAngn1VBoXcPYf3jh"
+      },
+      "artists": [
+        {
+          "name": "Bente",
+          "url": "https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e"
+        },
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        }
+      ],
+      "duration_ms": 218898,
+      "name": "Hoe hou ik dit vast",
+      "url": "https://open.spotify.com/track/4ELJFskubTyiQQJeWfFUvq"
     },
     {
       "added_at": "2026-11-05 23:00:22",
@@ -179,22 +179,6 @@
     {
       "added_at": "2026-11-05 23:00:22",
       "album": {
-        "name": "Ik doe het weer",
-        "url": "https://open.spotify.com/album/3tgYZD8sQAi7FMtIcuOuMN"
-      },
-      "artists": [
-        {
-          "name": "Bente",
-          "url": "https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e"
-        }
-      ],
-      "duration_ms": 205973,
-      "name": "Ik doe het weer",
-      "url": "https://open.spotify.com/track/5kfer9g13z90S33DUd6DU2"
-    },
-    {
-      "added_at": "2026-11-05 23:00:22",
-      "album": {
         "name": "(Die Man Is) Verliefd",
         "url": "https://open.spotify.com/album/6MYXtFqWqatgAk5U91a3J2"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 186799,
       "name": "(Die Man Is) Verliefd",
       "url": "https://open.spotify.com/track/3Sk76R83fWHlAO89n1IXgs"
+    },
+    {
+      "added_at": "2026-11-05 23:00:22",
+      "album": {
+        "name": "Ik doe het weer",
+        "url": "https://open.spotify.com/album/3tgYZD8sQAi7FMtIcuOuMN"
+      },
+      "artists": [
+        {
+          "name": "Bente",
+          "url": "https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e"
+        }
+      ],
+      "duration_ms": 205973,
+      "name": "Ik doe het weer",
+      "url": "https://open.spotify.com/track/5kfer9g13z90S33DUd6DU2"
     },
     {
       "added_at": "2026-11-05 23:00:22",
@@ -267,22 +267,6 @@
     {
       "added_at": "2026-11-05 23:00:22",
       "album": {
-        "name": "DWARS",
-        "url": "https://open.spotify.com/album/3D89VeRqTfJzaFXRxnNT3S"
-      },
-      "artists": [
-        {
-          "name": "Bente",
-          "url": "https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e"
-        }
-      ],
-      "duration_ms": 239333,
-      "name": "Helikopterpiloot",
-      "url": "https://open.spotify.com/track/1ZZztoTXn9uU4fQyKSJ7kU"
-    },
-    {
-      "added_at": "2026-11-05 23:00:22",
-      "album": {
         "name": "Mijn Liefste",
         "url": "https://open.spotify.com/album/71nFE5PVazkBHpII8Z08zo"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 190086,
       "name": "Mijn Liefste",
       "url": "https://open.spotify.com/track/4ymLR8R56kggSizQk8Rxcr"
+    },
+    {
+      "added_at": "2026-11-05 23:00:22",
+      "album": {
+        "name": "DWARS",
+        "url": "https://open.spotify.com/album/3D89VeRqTfJzaFXRxnNT3S"
+      },
+      "artists": [
+        {
+          "name": "Bente",
+          "url": "https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e"
+        }
+      ],
+      "duration_ms": 239333,
+      "name": "Helikopterpiloot",
+      "url": "https://open.spotify.com/track/1ZZztoTXn9uU4fQyKSJ7kU"
     },
     {
       "added_at": "2026-11-05 23:00:22",
@@ -611,6 +611,22 @@
     {
       "added_at": "2026-11-05 23:00:22",
       "album": {
+        "name": "Achterbank",
+        "url": "https://open.spotify.com/album/0dUbHeTKK4QUnzuwShg4y0"
+      },
+      "artists": [
+        {
+          "name": "Tessa June",
+          "url": "https://open.spotify.com/artist/67UrL3cZJQ2WhwqdikarKk"
+        }
+      ],
+      "duration_ms": 168260,
+      "name": "Achterbank",
+      "url": "https://open.spotify.com/track/3BCCcJO19QKG54M2EAgGMT"
+    },
+    {
+      "added_at": "2026-11-05 23:00:22",
+      "album": {
         "name": "Niets Doen",
         "url": "https://open.spotify.com/album/2k2s5a6JlV2olXRitmux9S"
       },
@@ -643,18 +659,18 @@
     {
       "added_at": "2026-11-05 23:00:22",
       "album": {
-        "name": "Achterbank",
-        "url": "https://open.spotify.com/album/0dUbHeTKK4QUnzuwShg4y0"
+        "name": "Vergeef Me",
+        "url": "https://open.spotify.com/album/1sr1TbYn17UxMa6xOqoSaN"
       },
       "artists": [
         {
-          "name": "Tessa June",
-          "url": "https://open.spotify.com/artist/67UrL3cZJQ2WhwqdikarKk"
+          "name": "MEAU",
+          "url": "https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10"
         }
       ],
-      "duration_ms": 168260,
-      "name": "Achterbank",
-      "url": "https://open.spotify.com/track/3BCCcJO19QKG54M2EAgGMT"
+      "duration_ms": 182312,
+      "name": "Vergeef Me",
+      "url": "https://open.spotify.com/track/3uWDhz3cIoWzN1944cUmq6"
     },
     {
       "added_at": "2026-11-05 23:00:22",
@@ -671,22 +687,6 @@
       "duration_ms": 149470,
       "name": "Half Open",
       "url": "https://open.spotify.com/track/6eta0oe0t2clgw0CujrVI7"
-    },
-    {
-      "added_at": "2026-11-05 23:00:22",
-      "album": {
-        "name": "Vergeef Me",
-        "url": "https://open.spotify.com/album/1sr1TbYn17UxMa6xOqoSaN"
-      },
-      "artists": [
-        {
-          "name": "MEAU",
-          "url": "https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10"
-        }
-      ],
-      "duration_ms": 182312,
-      "name": "Vergeef Me",
-      "url": "https://open.spotify.com/track/3uWDhz3cIoWzN1944cUmq6"
     },
     {
       "added_at": "2026-11-05 23:00:22",
@@ -887,22 +887,6 @@
     {
       "added_at": "2026-11-05 23:00:22",
       "album": {
-        "name": "Heel Genoeg",
-        "url": "https://open.spotify.com/album/2LRhu4DQEimbE4r1JKWCST"
-      },
-      "artists": [
-        {
-          "name": "Herman van Veen",
-          "url": "https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh"
-        }
-      ],
-      "duration_ms": 181400,
-      "name": "Heel Genoeg",
-      "url": "https://open.spotify.com/track/3uk1pTFldWwx2jfNv82mj4"
-    },
-    {
-      "added_at": "2026-11-05 23:00:22",
-      "album": {
         "name": "De Weg",
         "url": "https://open.spotify.com/album/7n9NfMSnYi59u7vGSelWAn"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 199760,
       "name": "De Weg",
       "url": "https://open.spotify.com/track/3UY1sWsqEYx7fgRBU0ItF7"
+    },
+    {
+      "added_at": "2026-11-05 23:00:22",
+      "album": {
+        "name": "Heel Genoeg",
+        "url": "https://open.spotify.com/album/2LRhu4DQEimbE4r1JKWCST"
+      },
+      "artists": [
+        {
+          "name": "Herman van Veen",
+          "url": "https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh"
+        }
+      ],
+      "duration_ms": 181400,
+      "name": "Heel Genoeg",
+      "url": "https://open.spotify.com/track/3uk1pTFldWwx2jfNv82mj4"
     },
     {
       "added_at": "2026-11-05 23:00:22",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2026-11-05 23:00:22",
       "album": {
+        "name": "Bemin Me Later (uit Liefde Voor Muziek)",
+        "url": "https://open.spotify.com/album/3re6bQy0aCXahB7xVZ7H8P"
+      },
+      "artists": [
+        {
+          "name": "Guus Meeuwis",
+          "url": "https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv"
+        }
+      ],
+      "duration_ms": 218906,
+      "name": "Bemin Me Later (uit Liefde Voor Muziek)",
+      "url": "https://open.spotify.com/track/4Ei1vwJylQLwqLkl2XJmiM"
+    },
+    {
+      "added_at": "2026-11-05 23:00:22",
+      "album": {
         "name": "Meisje",
         "url": "https://open.spotify.com/album/3uYtgXu8U7HUxhXzrgnvZi"
       },
@@ -1035,18 +1051,18 @@
     {
       "added_at": "2026-11-05 23:00:22",
       "album": {
-        "name": "Bemin Me Later (uit Liefde Voor Muziek)",
-        "url": "https://open.spotify.com/album/3re6bQy0aCXahB7xVZ7H8P"
+        "name": "Zaterdag",
+        "url": "https://open.spotify.com/album/6XjibqogPY8nHCfO6LxBwv"
       },
       "artists": [
         {
-          "name": "Guus Meeuwis",
-          "url": "https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv"
+          "name": "Sabien",
+          "url": "https://open.spotify.com/artist/5crEEdqLKMj9sfD2vdeo5o"
         }
       ],
-      "duration_ms": 218906,
-      "name": "Bemin Me Later (uit Liefde Voor Muziek)",
-      "url": "https://open.spotify.com/track/4Ei1vwJylQLwqLkl2XJmiM"
+      "duration_ms": 183794,
+      "name": "Zaterdag (Akoestisch)",
+      "url": "https://open.spotify.com/track/0ruFNPpOJweogVfyfBadpD"
     },
     {
       "added_at": "2026-11-05 23:00:22",
@@ -1067,22 +1083,6 @@
       "duration_ms": 153714,
       "name": "Is Het Gek",
       "url": "https://open.spotify.com/track/1imEuX1GPOSvGMlGbzJCD2"
-    },
-    {
-      "added_at": "2026-11-05 23:00:22",
-      "album": {
-        "name": "Zaterdag",
-        "url": "https://open.spotify.com/album/6XjibqogPY8nHCfO6LxBwv"
-      },
-      "artists": [
-        {
-          "name": "Sabien",
-          "url": "https://open.spotify.com/artist/5crEEdqLKMj9sfD2vdeo5o"
-        }
-      ],
-      "duration_ms": 183794,
-      "name": "Zaterdag (Akoestisch)",
-      "url": "https://open.spotify.com/track/0ruFNPpOJweogVfyfBadpD"
     },
     {
       "added_at": "2026-11-05 23:00:22",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2026-11-05 23:00:22",
       "album": {
-        "name": "Echo Zonder Naam",
-        "url": "https://open.spotify.com/album/073sJQiVdw8KaOHr5A5PLd"
-      },
-      "artists": [
-        {
-          "name": "Roxeanne Hazes",
-          "url": "https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6"
-        }
-      ],
-      "duration_ms": 213340,
-      "name": "Echo Zonder Naam",
-      "url": "https://open.spotify.com/track/4xBDktgMyqDhROjDZWlAXq"
-    },
-    {
-      "added_at": "2026-11-05 23:00:22",
-      "album": {
         "name": "Een Andere Jij - Akoestisch",
         "url": "https://open.spotify.com/album/0ApIodL4hUXlRbh1A7H2nf"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 165608,
       "name": "Een Andere Jij - Akoestisch",
       "url": "https://open.spotify.com/track/0VJp4AxKemC3pmhbERavxn"
+    },
+    {
+      "added_at": "2026-11-05 23:00:22",
+      "album": {
+        "name": "Echo Zonder Naam",
+        "url": "https://open.spotify.com/album/073sJQiVdw8KaOHr5A5PLd"
+      },
+      "artists": [
+        {
+          "name": "Roxeanne Hazes",
+          "url": "https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6"
+        }
+      ],
+      "duration_ms": 213340,
+      "name": "Echo Zonder Naam",
+      "url": "https://open.spotify.com/track/4xBDktgMyqDhROjDZWlAXq"
     },
     {
       "added_at": "2026-11-05 23:00:22",

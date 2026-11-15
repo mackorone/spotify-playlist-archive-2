@@ -1,6 +1,6 @@
 {
   "description": "The best indie songs from all decades for your Halloween party",
-  "num_followers": 142514,
+  "num_followers": 142511,
   "original_name": "Indie Halloween",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2026-11-01 20:21:50",
       "album": {
-        "name": "One Thousand Pictures",
-        "url": "https://open.spotify.com/album/21HqWBPHTbiD5tM7XM2Z3h"
-      },
-      "artists": [
-        {
-          "name": "Pete And The Pirates",
-          "url": "https://open.spotify.com/artist/4s80V6BJwBbS1UEbjeQejQ"
-        }
-      ],
-      "duration_ms": 188813,
-      "name": "Blood Gets Thin",
-      "url": "https://open.spotify.com/track/4Ik9Yhh91b4KsCuyx9NtyF"
-    },
-    {
-      "added_at": "2026-11-01 20:21:50",
-      "album": {
         "name": "brainrot",
         "url": "https://open.spotify.com/album/1b7N3MUAHOq7vsjelQ8VDj"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 132111,
       "name": "brainrot",
       "url": "https://open.spotify.com/track/0YRO8UVYzlPLBzt9UbsZ4L"
+    },
+    {
+      "added_at": "2026-11-01 20:21:50",
+      "album": {
+        "name": "One Thousand Pictures",
+        "url": "https://open.spotify.com/album/21HqWBPHTbiD5tM7XM2Z3h"
+      },
+      "artists": [
+        {
+          "name": "Pete And The Pirates",
+          "url": "https://open.spotify.com/artist/4s80V6BJwBbS1UEbjeQejQ"
+        }
+      ],
+      "duration_ms": 188813,
+      "name": "Blood Gets Thin",
+      "url": "https://open.spotify.com/track/4Ik9Yhh91b4KsCuyx9NtyF"
     },
     {
       "added_at": "2026-11-01 20:21:50",
@@ -683,22 +683,6 @@
     {
       "added_at": "2026-11-01 20:21:50",
       "album": {
-        "name": "It's Halloween!",
-        "url": "https://open.spotify.com/album/670eYWGcQVl6I04oCvzkDi"
-      },
-      "artists": [
-        {
-          "name": "iamnotshane",
-          "url": "https://open.spotify.com/artist/3jN7f9X0EmFnsbRS6nl6as"
-        }
-      ],
-      "duration_ms": 149117,
-      "name": "It's Halloween!",
-      "url": "https://open.spotify.com/track/2vaxJplblWuxdSzD7UdbGP"
-    },
-    {
-      "added_at": "2026-11-01 20:21:50",
-      "album": {
         "name": "Friendly Fires",
         "url": "https://open.spotify.com/album/2IYQugcYGspBIJRz67Ppft"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 213640,
       "name": "Skeleton Boy",
       "url": "https://open.spotify.com/track/7nNyOfMS79SwXWum8XHnJa"
+    },
+    {
+      "added_at": "2026-11-01 20:21:50",
+      "album": {
+        "name": "It's Halloween!",
+        "url": "https://open.spotify.com/album/670eYWGcQVl6I04oCvzkDi"
+      },
+      "artists": [
+        {
+          "name": "iamnotshane",
+          "url": "https://open.spotify.com/artist/3jN7f9X0EmFnsbRS6nl6as"
+        }
+      ],
+      "duration_ms": 149117,
+      "name": "It's Halloween!",
+      "url": "https://open.spotify.com/track/2vaxJplblWuxdSzD7UdbGP"
     },
     {
       "added_at": "2026-11-01 20:21:50",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2026-11-01 20:21:50",
       "album": {
-        "name": "Little Bit 'O Soul [From The Amazon Original Movie \u201cTotally Killer\u201d]",
-        "url": "https://open.spotify.com/album/3CiQoxlWPtdMJwLIVQyAPM"
-      },
-      "artists": [
-        {
-          "name": "The Linda Lindas",
-          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
-        }
-      ],
-      "duration_ms": 160800,
-      "name": "Little Bit 'O Soul [From The Amazon Original Movie \u201cTotally Killer\u201d]",
-      "url": "https://open.spotify.com/track/01d3ikcS8fpRKTBgOLcwqO"
-    },
-    {
-      "added_at": "2026-11-01 20:21:50",
-      "album": {
         "name": "Guero",
         "url": "https://open.spotify.com/album/1R0BP6MeMLigDNaoztxUAZ"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 255666,
       "name": "Scarecrow",
       "url": "https://open.spotify.com/track/0fhREmkuJsjaVi48aGngEr"
+    },
+    {
+      "added_at": "2026-11-01 20:21:50",
+      "album": {
+        "name": "Little Bit 'O Soul [From The Amazon Original Movie \u201cTotally Killer\u201d]",
+        "url": "https://open.spotify.com/album/3CiQoxlWPtdMJwLIVQyAPM"
+      },
+      "artists": [
+        {
+          "name": "The Linda Lindas",
+          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
+        }
+      ],
+      "duration_ms": 160800,
+      "name": "Little Bit 'O Soul [From The Amazon Original Movie \u201cTotally Killer\u201d]",
+      "url": "https://open.spotify.com/track/01d3ikcS8fpRKTBgOLcwqO"
     },
     {
       "added_at": "2026-11-01 20:21:50",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2026-11-01 20:21:50",
       "album": {
-        "name": "Shake, Shook, Shaken",
-        "url": "https://open.spotify.com/album/3GGJlh7y7yWax4SY3n9cag"
-      },
-      "artists": [
-        {
-          "name": "The D\u00f8",
-          "url": "https://open.spotify.com/artist/2mcNCn1qbZUQ3J9KHapUxj"
-        }
-      ],
-      "duration_ms": 173300,
-      "name": "Omen",
-      "url": "https://open.spotify.com/track/5q8fHfyTc63KlySBCP8DFH"
-    },
-    {
-      "added_at": "2026-11-01 20:21:50",
-      "album": {
         "name": "Attack Of The Ghost Riders",
         "url": "https://open.spotify.com/album/4efzI9xFiljTkGDwko2JO4"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 151186,
       "name": "Attack of the Ghost Riders",
       "url": "https://open.spotify.com/track/7rWoskZwxQiLsFfRXxFF50"
+    },
+    {
+      "added_at": "2026-11-01 20:21:50",
+      "album": {
+        "name": "Shake, Shook, Shaken",
+        "url": "https://open.spotify.com/album/3GGJlh7y7yWax4SY3n9cag"
+      },
+      "artists": [
+        {
+          "name": "The D\u00f8",
+          "url": "https://open.spotify.com/artist/2mcNCn1qbZUQ3J9KHapUxj"
+        }
+      ],
+      "duration_ms": 173300,
+      "name": "Omen",
+      "url": "https://open.spotify.com/track/5q8fHfyTc63KlySBCP8DFH"
     },
     {
       "added_at": "2026-11-01 20:21:50",

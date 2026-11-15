@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OIddoQVdRt.md) - [plain]
 
 > Experience the powerful messages and sounds of recent hits in Gospel music\.  Cover: Kirk Franklin
 
-[Spotify](https://open.spotify.com/user/spotify) - 697,716 likes - 50 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 697,704 likes - 50 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OIddoQVdRt.md) - [plain]
 | 49 | [Keeper Of My Soul](https://open.spotify.com/track/3muK6ysybzQ7zRh1J07RAx) | [Earnest Pugh](https://open.spotify.com/artist/3qJMkUIxNLC90m6BdgLEFt) | [Keeper Of My Soul](https://open.spotify.com/album/5DbtcUFqwk0ydSUKkXsPC1) | 3:48 |
 | 50 | [AMAZING](https://open.spotify.com/track/790NrKNQsXBi3pLrR1O6mN) | [Darrel Walls](https://open.spotify.com/artist/0yg32lKXa3MKNPxiue46WJ), [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [HEART OF MINE](https://open.spotify.com/album/63W5aLpnoN8952g4EYEDzF) | 2:48 |
 
-Snapshot ID: `AAAAAEhn0HKRfK4i0bx+DXS8rTvFfdrB`
+Snapshot ID: `AAAAAPaAqPmOZxAlKy9J3UO9HbWYKqgD`

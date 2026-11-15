@@ -1,6 +1,6 @@
 {
   "description": "100% ska en espa\u00f1ol. Tomo Como Rey en portada.",
-  "num_followers": 493563,
+  "num_followers": 493549,
   "original_name": "Ska Latino ",
   "owner": {
     "name": "Spotify",
@@ -743,6 +743,22 @@
     {
       "added_at": "2026-11-06 06:01:09",
       "album": {
+        "name": "Flamingo",
+        "url": "https://open.spotify.com/album/7uwulXVQW3ZhUnzWTDnNVU"
+      },
+      "artists": [
+        {
+          "name": "Skapital Sound",
+          "url": "https://open.spotify.com/artist/1rKV4FpTtOyl7Wcldkj1Zi"
+        }
+      ],
+      "duration_ms": 240072,
+      "name": "Ojos Caf\u00e9s",
+      "url": "https://open.spotify.com/track/7CfOeohPQbV2tLBafGGnnv"
+    },
+    {
+      "added_at": "2026-11-06 06:01:09",
+      "album": {
         "name": "La Gata Bajo la Lluvia",
         "url": "https://open.spotify.com/album/24pjyz91cui77AWSqBxSaX"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 192939,
       "name": "La Gata Bajo la Lluvia",
       "url": "https://open.spotify.com/track/2IvTvoNZP4zYhIBWRfzADg"
-    },
-    {
-      "added_at": "2026-11-06 06:01:09",
-      "album": {
-        "name": "Flamingo",
-        "url": "https://open.spotify.com/album/7uwulXVQW3ZhUnzWTDnNVU"
-      },
-      "artists": [
-        {
-          "name": "Skapital Sound",
-          "url": "https://open.spotify.com/artist/1rKV4FpTtOyl7Wcldkj1Zi"
-        }
-      ],
-      "duration_ms": 240072,
-      "name": "Ojos Caf\u00e9s",
-      "url": "https://open.spotify.com/track/7CfOeohPQbV2tLBafGGnnv"
     },
     {
       "added_at": "2026-11-06 06:01:09",
@@ -903,6 +903,38 @@
     {
       "added_at": "2026-11-06 06:01:09",
       "album": {
+        "name": "Desequilibrio",
+        "url": "https://open.spotify.com/album/2Px5P5cADenS9K7ectw7AD"
+      },
+      "artists": [
+        {
+          "name": "Dinamo",
+          "url": "https://open.spotify.com/artist/64joRc8km0DL1f5hgPhv7n"
+        }
+      ],
+      "duration_ms": 212845,
+      "name": "El asesino del tiempo",
+      "url": "https://open.spotify.com/track/4qn2ZtHRDmcfgVPnl38N8p"
+    },
+    {
+      "added_at": "2026-11-06 06:01:09",
+      "album": {
+        "name": "Flamingo",
+        "url": "https://open.spotify.com/album/7uwulXVQW3ZhUnzWTDnNVU"
+      },
+      "artists": [
+        {
+          "name": "Skapital Sound",
+          "url": "https://open.spotify.com/artist/1rKV4FpTtOyl7Wcldkj1Zi"
+        }
+      ],
+      "duration_ms": 162930,
+      "name": "Ska en la Playa",
+      "url": "https://open.spotify.com/track/5rN7Jw3sBHaGHp6MqAGl2u"
+    },
+    {
+      "added_at": "2026-11-06 06:01:09",
+      "album": {
         "name": "Y Te Aprovechas",
         "url": "https://open.spotify.com/album/66wBwAxoEJ2unPLW8zluEA"
       },
@@ -939,38 +971,6 @@
       "duration_ms": 237527,
       "name": "Siempre Fingiste Amarme",
       "url": "https://open.spotify.com/track/6jJ2wofOeao3iQDxs2KkLp"
-    },
-    {
-      "added_at": "2026-11-06 06:01:09",
-      "album": {
-        "name": "Desequilibrio",
-        "url": "https://open.spotify.com/album/2Px5P5cADenS9K7ectw7AD"
-      },
-      "artists": [
-        {
-          "name": "Dinamo",
-          "url": "https://open.spotify.com/artist/64joRc8km0DL1f5hgPhv7n"
-        }
-      ],
-      "duration_ms": 212845,
-      "name": "El asesino del tiempo",
-      "url": "https://open.spotify.com/track/4qn2ZtHRDmcfgVPnl38N8p"
-    },
-    {
-      "added_at": "2026-11-06 06:01:09",
-      "album": {
-        "name": "Flamingo",
-        "url": "https://open.spotify.com/album/7uwulXVQW3ZhUnzWTDnNVU"
-      },
-      "artists": [
-        {
-          "name": "Skapital Sound",
-          "url": "https://open.spotify.com/artist/1rKV4FpTtOyl7Wcldkj1Zi"
-        }
-      ],
-      "duration_ms": 162930,
-      "name": "Ska en la Playa",
-      "url": "https://open.spotify.com/track/5rN7Jw3sBHaGHp6MqAGl2u"
     },
     {
       "added_at": "2026-11-06 06:01:09",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2026-11-06 06:01:09",
       "album": {
-        "name": "Supersonico",
-        "url": "https://open.spotify.com/album/6pvDF6APwhBWRkuEc3gCqz"
-      },
-      "artists": [
-        {
-          "name": "Los Aut\u00e9nticos Decadentes",
-          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
-        }
-      ],
-      "duration_ms": 206933,
-      "name": "Qu\u00e9 Vas a Hacer Conmigo",
-      "url": "https://open.spotify.com/track/4J0phvYcKa1Hr1EBwH0pu3"
-    },
-    {
-      "added_at": "2026-11-06 06:01:09",
-      "album": {
         "name": "Nunca Nos Compusimos",
         "url": "https://open.spotify.com/album/6I9M5LkuP3I8ZlxFTQU4Up"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 230573,
       "name": "Envenenen a Mis Labios",
       "url": "https://open.spotify.com/track/0g6fuc3xiIsYVVkfqUNua6"
+    },
+    {
+      "added_at": "2026-11-06 06:01:09",
+      "album": {
+        "name": "Supersonico",
+        "url": "https://open.spotify.com/album/6pvDF6APwhBWRkuEc3gCqz"
+      },
+      "artists": [
+        {
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        }
+      ],
+      "duration_ms": 206933,
+      "name": "Qu\u00e9 Vas a Hacer Conmigo",
+      "url": "https://open.spotify.com/track/4J0phvYcKa1Hr1EBwH0pu3"
     },
     {
       "added_at": "2026-11-06 06:01:09",
@@ -1431,18 +1431,22 @@
     {
       "added_at": "2026-11-06 06:01:09",
       "album": {
-        "name": "Nueva Era",
-        "url": "https://open.spotify.com/album/1jpC73VTuuzGQoZtKLq2Ep"
+        "name": "Un Amor Violento",
+        "url": "https://open.spotify.com/album/6GNEPdeN4MKdGwVKnMwnC1"
       },
       "artists": [
         {
-          "name": "RU-2",
-          "url": "https://open.spotify.com/artist/7ba4WwAJngkXdgHaXO3Lcf"
+          "name": "The Skatalites",
+          "url": "https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb"
+        },
+        {
+          "name": "Alvaro Henriquez",
+          "url": "https://open.spotify.com/artist/45H7NFSk6h7YyYP6BiB3EP"
         }
       ],
-      "duration_ms": 260666,
-      "name": "El Camino de la Verdad",
-      "url": "https://open.spotify.com/track/463wt19fJK6tFKV2MSilzX"
+      "duration_ms": 289000,
+      "name": "Un Amor Violento",
+      "url": "https://open.spotify.com/track/3NX364scO2GnsYW0ux81Pc"
     },
     {
       "added_at": "2026-11-06 06:01:09",
@@ -1467,26 +1471,6 @@
     {
       "added_at": "2026-11-06 06:01:09",
       "album": {
-        "name": "Un Amor Violento",
-        "url": "https://open.spotify.com/album/6GNEPdeN4MKdGwVKnMwnC1"
-      },
-      "artists": [
-        {
-          "name": "The Skatalites",
-          "url": "https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb"
-        },
-        {
-          "name": "Alvaro Henriquez",
-          "url": "https://open.spotify.com/artist/45H7NFSk6h7YyYP6BiB3EP"
-        }
-      ],
-      "duration_ms": 289000,
-      "name": "Un Amor Violento",
-      "url": "https://open.spotify.com/track/3NX364scO2GnsYW0ux81Pc"
-    },
-    {
-      "added_at": "2026-11-06 06:01:09",
-      "album": {
         "name": "Mandar Obedeciendo",
         "url": "https://open.spotify.com/album/57q4YukTgibWMPUN3mw0DP"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 193493,
       "name": "Mandar Obedeciendo",
       "url": "https://open.spotify.com/track/3cHjMYDl0nBEL940bTxxcO"
+    },
+    {
+      "added_at": "2026-11-06 06:01:09",
+      "album": {
+        "name": "Nueva Era",
+        "url": "https://open.spotify.com/album/1jpC73VTuuzGQoZtKLq2Ep"
+      },
+      "artists": [
+        {
+          "name": "RU-2",
+          "url": "https://open.spotify.com/artist/7ba4WwAJngkXdgHaXO3Lcf"
+        }
+      ],
+      "duration_ms": 260666,
+      "name": "El Camino de la Verdad",
+      "url": "https://open.spotify.com/track/463wt19fJK6tFKV2MSilzX"
     },
     {
       "added_at": "2026-11-06 06:01:09",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2026-11-06 06:01:09",
       "album": {
-        "name": "Soledad",
-        "url": "https://open.spotify.com/album/1pg5yljiBXe1hLQcdLQ2pS"
-      },
-      "artists": [
-        {
-          "name": "Matamoska!",
-          "url": "https://open.spotify.com/artist/7K7DO7ofJfM8Y2MdLbt5oe"
-        }
-      ],
-      "duration_ms": 193226,
-      "name": "Soledad",
-      "url": "https://open.spotify.com/track/7rHSFtfYEWp5RCfscECxFY"
-    },
-    {
-      "added_at": "2026-11-06 06:01:09",
-      "album": {
         "name": "Juntos",
         "url": "https://open.spotify.com/album/38DiXVpaDu8xDofJE3xJHd"
       },
@@ -1703,6 +1687,22 @@
     {
       "added_at": "2026-11-06 06:01:09",
       "album": {
+        "name": "Soledad",
+        "url": "https://open.spotify.com/album/1pg5yljiBXe1hLQcdLQ2pS"
+      },
+      "artists": [
+        {
+          "name": "Matamoska!",
+          "url": "https://open.spotify.com/artist/7K7DO7ofJfM8Y2MdLbt5oe"
+        }
+      ],
+      "duration_ms": 193226,
+      "name": "Soledad",
+      "url": "https://open.spotify.com/track/7rHSFtfYEWp5RCfscECxFY"
+    },
+    {
+      "added_at": "2026-11-06 06:01:09",
+      "album": {
         "name": "El \u00c1tico",
         "url": "https://open.spotify.com/album/6u178zpBY3ZU10qIjYjzbm"
       },
@@ -1719,18 +1719,18 @@
     {
       "added_at": "2026-11-06 06:01:09",
       "album": {
-        "name": "No Doy Mi Alma",
-        "url": "https://open.spotify.com/album/4BuLndHzup4SXgcdgHmfb6"
+        "name": "Gustos Gustosos",
+        "url": "https://open.spotify.com/album/2UqhbfffOcIOSfPeqG1BNZ"
       },
       "artists": [
         {
-          "name": "La Tremenda Korte",
-          "url": "https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt"
+          "name": "Skapital Sound",
+          "url": "https://open.spotify.com/artist/1rKV4FpTtOyl7Wcldkj1Zi"
         }
       ],
-      "duration_ms": 227729,
-      "name": "No Doy Mi Alma",
-      "url": "https://open.spotify.com/track/2uXmcfX65KAZ52UAHNCOOE"
+      "duration_ms": 198823,
+      "name": "El Color de tus Ojos",
+      "url": "https://open.spotify.com/track/6Cx6IG27uQ0pb4HryzN3VV"
     }
   ],
   "unique_name": "Ska Latino ",

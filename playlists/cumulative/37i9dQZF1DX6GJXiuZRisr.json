@@ -3444,7 +3444,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 196691,
       "name": "Endless",
       "url": "https://open.spotify.com/track/1I7qxmsvOhsQpJLL5s7WET"
@@ -8034,7 +8034,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 153230,
       "name": "Machine",
       "url": "https://open.spotify.com/track/6SkahbG67GrZCRqq0K3tRZ"
@@ -9308,6 +9308,44 @@
       "duration_ms": 226048,
       "name": "Nothing Ever Changes",
       "url": "https://open.spotify.com/track/1oytqQdZTKnICWgqCW9SrI"
+    },
+    {
+      "album": {
+        "name": "Now Until Forever",
+        "url": "https://open.spotify.com/album/36Rd0V6qIYKIYBogd5e8k1"
+      },
+      "artists": [
+        {
+          "name": "HAL\u014c",
+          "url": "https://open.spotify.com/artist/2CHhgdnkUPWHyFseMue70n"
+        },
+        {
+          "name": "DubVision",
+          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
+        },
+        {
+          "name": "Matisse & Sadko",
+          "url": "https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88"
+        },
+        {
+          "name": "Third Party",
+          "url": "https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V"
+        },
+        {
+          "name": "Bonn",
+          "url": "https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2"
+        },
+        {
+          "name": "FORS",
+          "url": "https://open.spotify.com/artist/3IG2AmQqnXTje1NHlIQViX"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182815,
+      "name": "Now Until Forever",
+      "url": "https://open.spotify.com/track/42t7ZmVF7fuUKsySyQAJcR"
     },
     {
       "album": {
@@ -14074,6 +14112,28 @@
       "duration_ms": 226882,
       "name": "Under Pressure",
       "url": "https://open.spotify.com/track/0pts9b6iz93rMS6XKhri0V"
+    },
+    {
+      "album": {
+        "name": "Undertone",
+        "url": "https://open.spotify.com/album/6Pj4otyxWEqyhaT6JsdKEK"
+      },
+      "artists": [
+        {
+          "name": "Miss Monique",
+          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
+        },
+        {
+          "name": "Paradoks",
+          "url": "https://open.spotify.com/artist/0wKUDx34qpJqHSSGOFSAkf"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186785,
+      "name": "Undertone",
+      "url": "https://open.spotify.com/track/5AFINGs0La7oRTsG8foLA9"
     },
     {
       "album": {

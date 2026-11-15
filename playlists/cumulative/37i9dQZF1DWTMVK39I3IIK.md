@@ -4,7 +4,7 @@
 
 > unge kniv 🔪 @Albert
 
-486 songs - 1 day 0 hr 58 min
+487 songs - 1 day 1 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -333,7 +333,7 @@
 | [PRINCESS](https://open.spotify.com/track/1rfscPpZJO9r89WXN6ABU9) | [Amna Naseer](https://open.spotify.com/artist/1SgTaDWOR4enMcVASjuBcV) | [PRINCESS](https://open.spotify.com/album/3C6pXaV8U9U90CLrsxT6hJ) | 2:57 | 2025-11-13 | 2025-11-15 |
 | [Problemer](https://open.spotify.com/track/2elCXyOU2SMMBYGvSX1wkC) | [Liv](https://open.spotify.com/artist/5lABIzayBt7HcqN1LJmtGA) | [Problemer](https://open.spotify.com/album/2G63NKfJzkMw6mGRObmhOf) | 3:11 | 2026-10-08 |  |
 | [promise to pick up the phone](https://open.spotify.com/track/4OkHozB0MJuzeFiHRU2CFC) | [eee gee](https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN) | [SHE\-REX](https://open.spotify.com/album/0ioNHVLud9ieI0626t0RP9) | 3:52 | 2024-06-27 | 2025-04-11 |
-| [Provinsbørn \(feat\. Mathias Ranch\)](https://open.spotify.com/track/1Hqecy8J7ZLdjNiTBeBp92) | [USSEL](https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp), [Mathias Ranch](https://open.spotify.com/artist/1mWocDhzyzvNZJD0T2poQ8) | [Provinsbørn \(feat\. Mathias Ranch\)](https://open.spotify.com/album/5NW9UGa5mJSusgy8cPuAad) | 3:41 | 2026-08-28 |  |
+| [Provinsbørn \(feat\. Mathias Ranch\)](https://open.spotify.com/track/1Hqecy8J7ZLdjNiTBeBp92) | [USSEL](https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp), [Mathias Ranch](https://open.spotify.com/artist/1mWocDhzyzvNZJD0T2poQ8) | [Provinsbørn \(feat\. Mathias Ranch\)](https://open.spotify.com/album/5NW9UGa5mJSusgy8cPuAad) | 3:41 | 2026-08-28 | 2026-11-15 |
 | [Puff](https://open.spotify.com/track/3s3jW8NmP4eLUz32sGxCPa) | [Dopha](https://open.spotify.com/artist/7KNTK1VIkAqbjrFWGhYSwn) | [Puff](https://open.spotify.com/album/7Jn6iY8Vr6OsJ4AkqYd88E) | 3:19 | 2024-06-27 | 2024-09-29 |
 | [PUPILLER](https://open.spotify.com/track/1xoSUw7Ph8zlE1VR526FBB) | [Cano](https://open.spotify.com/artist/2Qd4bMMZa3Wc5Qaawf9Oho), [Salomon Stampe](https://open.spotify.com/artist/75TXnvyqAZUdfmD54jAaKd) | [PUPILLER](https://open.spotify.com/album/7jQF1UbqL3UI2ez2rYhfcZ) | 2:44 | 2025-10-30 | 2025-11-07 |
 | [Push & Pull](https://open.spotify.com/track/5GQ6CEB6IXh4fUj8FTpRWi) | [A Good Year](https://open.spotify.com/artist/30F8R1qAerw8VvYtRGGg0j), [Helena Gao](https://open.spotify.com/artist/2s2ztYpVGqV3BWDbAcd35h) | [Push & Pull](https://open.spotify.com/album/5PoFJ3cIu2DeUPTHE3UAkZ) | 3:19 | 2025-11-06 | 2026-02-27 |
@@ -457,6 +457,7 @@
 | [Venter Jo Bare](https://open.spotify.com/track/7j64Ql2GSIRekgOF02WIda) | [Barselona](https://open.spotify.com/artist/2wdsck730u8ZhDA7eVHw7m) | [Venter Jo Bare](https://open.spotify.com/album/7lrnQyioFl5ZAUauLNpCCg) | 3:20 | 2026-05-28 | 2026-09-26 |
 | [Venter Kun På Dig](https://open.spotify.com/track/7y5aDrMQIYHnySJk84yyUZ) | [Sira Jovina](https://open.spotify.com/artist/6J9AFauvtJJ8brNaiWwWat) | [Venter Kun På Dig](https://open.spotify.com/album/7sBpUWuaMauZvtzbgBzGnL) | 2:20 | 2025-06-05 | 2025-09-05 |
 | [venter venter](https://open.spotify.com/track/3D0gL4WndIjNjETzEumRwZ) | [Yör](https://open.spotify.com/artist/5LX065qqygHI7V6VvvZ5Sn) | [venter venter](https://open.spotify.com/album/1RHkIVr9rfmw4o3nLPurlJ) | 3:39 | 2025-05-29 | 2025-06-06 |
+| [verden er blaa \(feat\. ozzy\)](https://open.spotify.com/track/3g3U6vMUj98tZAOyBDD8C1) | [Noah Shacc](https://open.spotify.com/artist/2loViEtAOK1DPMIpeggP7Y), [ozzy](https://open.spotify.com/artist/1RJznM4DOSV69NWbkq3RA9) | [verden er blaa \(feat\. ozzy\)](https://open.spotify.com/album/6gfzN6qpkN9Z6S6VdxdEM9) | 2:27 | 2026-11-13 |  |
 | [Verona](https://open.spotify.com/track/0aFsmiYkXI9C8yoiIUZNPw) | [August Høyen](https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm) | [Verona](https://open.spotify.com/album/12Z5gFrDEo92tFLeBQOSR9) | 3:18 | 2025-05-01 | 2026-09-12 |
 | [Vilde Svaner](https://open.spotify.com/track/1yCjEZoEg0hICScFrASlMg) | [Knægt](https://open.spotify.com/artist/2ma469IFw27u95sH9V72l6) | [Vilde Svaner](https://open.spotify.com/album/0HXtOt97IMGoJgvjok6MKO) | 3:27 | 2026-05-07 | 2026-05-31 |
 | [Vilde Øjne](https://open.spotify.com/track/5hJIRRLXYauzGrqKNXqxux) | [Soleima](https://open.spotify.com/artist/71le7jtjw9hq389Fnvi6XM), [School of X](https://open.spotify.com/artist/4VL17UwE7ktJcG04WdbR9B) | [Vilde Øjne](https://open.spotify.com/album/098k8y3O9JDDX8wigSekbS) | 3:10 | 2025-07-17 | 2025-11-16 |

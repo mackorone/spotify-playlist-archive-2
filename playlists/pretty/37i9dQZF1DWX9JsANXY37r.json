@@ -1,6 +1,6 @@
 {
   "description": "drinks em casa, nada melhor",
-  "num_followers": 123571,
+  "num_followers": 123578,
   "original_name": "Drinks no Sof\u00e1",
   "owner": {
     "name": "Spotify",
@@ -943,6 +943,22 @@
     {
       "added_at": "2026-10-19 16:00:13",
       "album": {
+        "name": "Conex\u00e3o - EP",
+        "url": "https://open.spotify.com/album/7ETN1PBhrsMl5U96fCCCvn"
+      },
+      "artists": [
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        }
+      ],
+      "duration_ms": 291900,
+      "name": "Love Me Right",
+      "url": "https://open.spotify.com/track/2xWVD6aecDSHroyPVVcPpa"
+    },
+    {
+      "added_at": "2026-10-19 16:00:13",
+      "album": {
         "name": "Ruin",
         "url": "https://open.spotify.com/album/2XjN9yRFbKUZOmcudyoTpg"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 199200,
       "name": "Ruin",
       "url": "https://open.spotify.com/track/13b9uA4xt7VRbBRGM8cT9q"
-    },
-    {
-      "added_at": "2026-10-19 16:00:13",
-      "album": {
-        "name": "Conex\u00e3o - EP",
-        "url": "https://open.spotify.com/album/7ETN1PBhrsMl5U96fCCCvn"
-      },
-      "artists": [
-        {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
-        }
-      ],
-      "duration_ms": 291900,
-      "name": "Love Me Right",
-      "url": "https://open.spotify.com/track/2xWVD6aecDSHroyPVVcPpa"
     },
     {
       "added_at": "2026-10-19 16:00:13",

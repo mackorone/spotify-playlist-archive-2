@@ -4,7 +4,7 @@
 
 > This is Sarkodie\. The essential tracks, all in one playlist.
 
-256 songs - 15 hr 8 min
+257 songs - 15 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,6 +170,7 @@
 | [No Kissing Baby](https://open.spotify.com/track/0aUfOf3FhEd8IKCjCHJDky) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [God Over Everything](https://open.spotify.com/album/1BDk1Fo6GHwaHRFlMiZPvR) | 3:41 | 2021-12-28 | 2022-08-09 |
 | [No Kissing Baby](https://open.spotify.com/track/16ygpIPe2ClOoOypX6QAuH) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [God Over Everything](https://open.spotify.com/album/3QD26z4Ces1OCiVqPhn87R) | 3:41 | 2022-08-08 |  |
 | [NO SIR](https://open.spotify.com/track/1xq5og7HPgvbujGR9NR1V6) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [NO SIR](https://open.spotify.com/album/3jXQqOdt2mGJASugFOWYZr) | 2:21 | 2024-12-13 | 2025-08-31 |
+| [Nobody](https://open.spotify.com/track/7CbgxXZ1OHDuyy9thl90rC) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Rémy Adan](https://open.spotify.com/artist/4C4OK8Lx2rf53IUo1FUUBo) | [Nobody](https://open.spotify.com/album/7sn8bMHnPmcsdtYfjBWC1J) | 3:28 | 2026-11-15 |  |
 | [Nobody's Business \(feat\. Akwaboah\)](https://open.spotify.com/track/0Dv4HyaZg0dNnRf1oAZOEa) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Akwaboah](https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y) | [Mary](https://open.spotify.com/album/2B6w3GYNZFYmUPAPOEa2lo) | 4:52 | 2022-03-10 | 2022-09-17 |
 | [Non Living Thing](https://open.spotify.com/track/7H7XxS0Qbrs0NCnjijkqC1) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [No Pressure](https://open.spotify.com/album/6DZCzwNsgp4cFKdPnqnL0j) | 3:49 | 2025-09-18 |  |
 | [Non Living Thing \(feat\. Oxlade\)](https://open.spotify.com/track/5Ky8pIlNDaSQtxfY45dqMw) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [No Pressure](https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU) | 3:49 | 2021-12-28 | 2025-09-18 |
@@ -232,7 +233,7 @@
 | [This & That](https://open.spotify.com/track/5NbP5ui2Y4tfV1QmwMSUrU) | [Wendy Shay](https://open.spotify.com/artist/5yrRN6GxtTSHbcw7qxPg4S), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [This & That](https://open.spotify.com/album/0tVLgekXw4qWrenZo6HtzD) | 2:34 | 2026-11-10 |  |
 | [Till We Die](https://open.spotify.com/track/1HB8OHKrGHl1jUfIzCMLxY) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Till We Die](https://open.spotify.com/album/5qPR8jUBZNR9QCrtpuQhiV) | 3:00 | 2025-09-20 |  |
 | [Till We Die \(feat\. Ruger\)](https://open.spotify.com/track/0tdbVxn9Qewgtv2lUgD8aD) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Till We Die \(feat\. Ruger\)](https://open.spotify.com/album/75BdyAVpJgWI6Dmz9qc9zY) | 3:03 | 2023-11-10 | 2025-09-20 |
-| [Tonga](https://open.spotify.com/track/7ceisg9MpCeJoLaoPfyu0V) | [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Tonga](https://open.spotify.com/album/21RhbIIQ8i06WMDavhdgs8) | 3:22 | 2021-12-28 |  |
+| [Tonga](https://open.spotify.com/track/7ceisg9MpCeJoLaoPfyu0V) | [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Tonga](https://open.spotify.com/album/21RhbIIQ8i06WMDavhdgs8) | 3:22 | 2021-12-28 | 2026-11-15 |
 | [Too Bad](https://open.spotify.com/track/5gVqAb1vTBDnPPLxslGjix) | [Cina Soul](https://open.spotify.com/artist/16REP6XG1GtI5DBCrUF8fO), [DJ Breezy](https://open.spotify.com/artist/2wgriTkRercaFwcdptYO2Y), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Too Bad / Different Place](https://open.spotify.com/album/0hMZ4hrlLZeMtBTlZtzJg8) | 3:49 | 2024-08-13 | 2024-12-21 |
 | [TRAUMA](https://open.spotify.com/track/6JePde3UV8Bu4rcmw4Jnym) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Xlimkid](https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c) | [The Championship](https://open.spotify.com/album/5n8qjShh7JbArXrVMfJ4Cp) | 2:48 | 2024-05-26 | 2026-08-23 |
 | [Try Me](https://open.spotify.com/track/2EWgz1dixRunlenKM26QVo) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Try Me](https://open.spotify.com/album/0uG6zMQnNUmVvI20N4lr1S) | 3:16 | 2023-07-11 | 2024-05-26 |

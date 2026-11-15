@@ -242,7 +242,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 106728,
       "name": "Air Bender",
       "url": "https://open.spotify.com/track/0SC10wGF4YMLIdL1QMGlm8"
@@ -988,6 +988,24 @@
       "duration_ms": 116494,
       "name": "BUTTERCUP",
       "url": "https://open.spotify.com/track/5CZnd1cnvccvT0dJVsqdF0"
+    },
+    {
+      "album": {
+        "name": "cake batter",
+        "url": "https://open.spotify.com/album/1KGoUB0BHcQ2I1RDCAdqpK"
+      },
+      "artists": [
+        {
+          "name": "flehh",
+          "url": "https://open.spotify.com/artist/3HIibtvIiE2nEMW15sZ9Rd"
+        }
+      ],
+      "date_added": "2026-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120913,
+      "name": "cake batter",
+      "url": "https://open.spotify.com/track/6CcKcOxXq2BD3k9M9CLOHc"
     },
     {
       "album": {
@@ -2172,7 +2190,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-14",
+      "date_removed": null,
       "duration_ms": 229738,
       "name": "Fire in my heart",
       "url": "https://open.spotify.com/track/5XZN4J4EQeNYfxWBb9kBog"
@@ -2322,7 +2340,7 @@
       ],
       "date_added": "2026-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 154296,
       "name": "Futuristic",
       "url": "https://open.spotify.com/track/1o6Zs5jRxzNAZ8CrwCIhhn"
@@ -3194,7 +3212,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 108437,
       "name": "imposter",
       "url": "https://open.spotify.com/track/14DqYafHROsQH834bFBVbt"
@@ -3436,7 +3454,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-03",
+      "date_removed": null,
       "duration_ms": 163062,
       "name": "Jersey",
       "url": "https://open.spotify.com/track/4fFG5J3kEBFQ0tL6YVKrdn"

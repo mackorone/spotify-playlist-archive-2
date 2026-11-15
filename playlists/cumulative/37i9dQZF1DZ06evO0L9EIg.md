@@ -4,7 +4,7 @@
 
 > This is Volker Bertelmann\. The essential tracks, all in one playlist.
 
-89 songs - 3 hr 14 min
+90 songs - 3 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Main Title](https://open.spotify.com/track/5aj6YRk2zx5kkw9CA8xkct) | [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA) | [Dune: Prophecy \(Soundtrack from the HBO® Original Series\)](https://open.spotify.com/album/5ewoEIF9JE6aiEYT1bTwmL) | 1:32 | 2026-10-03 |  |
 | [Meine Schwester](https://open.spotify.com/track/6qM4wgNPbzwD7Tr2AKsLow) | [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA), [BEN WINKLER](https://open.spotify.com/artist/0uZx4cQRvxeZU3fRMNhSrl) | [Die Falle \(Soundtrack der Netflix Serie\)](https://open.spotify.com/album/5FhnZw1yLr4FEu6oyOgKkc) | 3:14 | 2026-11-08 |  |
 | [Mirror](https://open.spotify.com/track/7xXrZH16UoKpdSxjNslUzw) | [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA) | [Clayface \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3bz8ZlzTN77QCgjjDopO3M) | 3:07 | 2026-10-31 |  |
+| [Move To PEOC](https://open.spotify.com/track/1fJvc8HIb8r7mgT3942f0f) | [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA) | [A House Of Dynamite \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/1hUQ6j8EMIi4LZ4WjZtnmm) | 2:01 | 2026-11-15 |  |
 | [Moving Together](https://open.spotify.com/track/6QFOI61Z5QvKqTH7QoyrlN) | [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA) | [The Uprising \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3IOtkRLNMQvNKURniV5yi6) | 1:10 | 2026-10-03 | 2026-10-13 |
 | [Not What We Had Hoped](https://open.spotify.com/track/16Zj0x6oNbaa5pW0mXJ0fG) | [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA) | [Conclave \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/450n3LTCuhmCsuUJiSo66N) | 1:43 | 2026-10-03 | 2026-11-04 |
 | [One Big Step](https://open.spotify.com/track/7cOvmyDmftSkrWXocULnCP) | [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA) | [23,000 Leben \(Soundtrack des Netflix Films\)](https://open.spotify.com/album/3c7L7xViFe6ocskyuFEjzh) | 2:49 | 2026-10-03 |  |
@@ -84,7 +85,7 @@
 | [Strong Enough \(From "Ammonite" Soundtrack\)](https://open.spotify.com/track/6cq3M4RkwqcQ8ZhsSlj8Y5) | [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq), [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA), [Dustin O'Halloran & Volker Bertelmann](https://open.spotify.com/artist/6BHwRzCgENU0kmJt6yGy4x) | [Ammonite \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2BKrDhnU8yzYnNYbWoOHg0) | 1:45 | 2026-10-25 | 2026-11-08 |
 | [Sunny and George](https://open.spotify.com/track/7ptZ6zMSKkY4xmHGIuXJqx) | [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA) | [Classical Piano \- Peaceful music to fall asleep](https://open.spotify.com/album/7tUACpaBwLPreYrkYG5DWk) | 1:32 | 2026-10-03 | 2026-10-31 |
 | [Sunset Monet \(From "Adrift" Soundtrack\)](https://open.spotify.com/track/0K9XD6kV0t9JTbk5w5TdUX) | [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA) | [Adrift \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/35GBJFBQHC4SEkI4Y4XUjd) | 1:42 | 2026-10-03 |  |
-| [Taking Action & Striking Back](https://open.spotify.com/track/3feV7EMmrZAUGNoOEEg4gC) | [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA) | [La Bataille de Gaulle \- L'Âge de fer \(Bande originale du film\)](https://open.spotify.com/album/5LC1praIA0pjCadXz4oi1g) | 2:35 | 2026-10-03 |  |
+| [Taking Action & Striking Back](https://open.spotify.com/track/3feV7EMmrZAUGNoOEEg4gC) | [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA) | [La Bataille de Gaulle \- L'Âge de fer \(Bande originale du film\)](https://open.spotify.com/album/5LC1praIA0pjCadXz4oi1g) | 2:35 | 2026-10-03 | 2026-11-15 |
 | [Tears](https://open.spotify.com/track/2Zr4ykVXM7YlepA323coQ6) | [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA) | [Conclave \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/450n3LTCuhmCsuUJiSo66N) | 1:46 | 2026-10-25 | 2026-11-14 |
 | [The Abyss Calls Out](https://open.spotify.com/track/5vqycYWZ2owUDqhzlOB1OW) | [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA) | [Conclave \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/450n3LTCuhmCsuUJiSo66N) | 0:59 | 2026-10-03 | 2026-11-13 |
 | [The King's Arrival](https://open.spotify.com/track/0GHCK4hUN1RmvMlYAPRGET) | [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA) | [The Uprising \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3IOtkRLNMQvNKURniV5yi6) | 2:03 | 2026-10-10 | 2026-10-13 |

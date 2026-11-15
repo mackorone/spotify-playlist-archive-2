@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avUBgAAAAACQmBpoYmBqdui2eCk3DDbO",
+  "snapshot_id": "avZTAAAAAACWLSLfCmAOowTEYQF+6y92",
   "tracks": [
     {
       "added_at": null,
@@ -23,6 +23,22 @@
       "duration_ms": 341413,
       "name": "Shinzo wo Sasageyo !",
       "url": "https://open.spotify.com/track/5uraJqtCBvLpwt3VeomZdq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shingeki no Kiseki",
+        "url": "https://open.spotify.com/album/4YsgCmHIRwFV6n0gT6vhGh"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "duration_ms": 331946,
+      "name": "Jiyuu no Tsubasa",
+      "url": "https://open.spotify.com/track/66dEMjbh1l8CN5uShkxxiw"
     },
     {
       "added_at": null,
@@ -44,7 +60,7 @@
       "added_at": null,
       "album": {
         "name": "Seishun wa Hanabi no Youni",
-        "url": "https://open.spotify.com/album/6LyBed3rgD3tqdWnPUyacK"
+        "url": "https://open.spotify.com/album/76tpMWNeqUtVOLIh8K5IZH"
       },
       "artists": [
         {
@@ -53,24 +69,8 @@
         }
       ],
       "duration_ms": 93791,
-      "name": "Seishun wa Hanabi no Youni",
-      "url": "https://open.spotify.com/track/7rNCnPglDEZn7pboEo24gC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u697d\u5712\u3078\u306e\u9032\u6483",
-        "url": "https://open.spotify.com/album/1qVDe3gATmfpP94qykf09F"
-      },
-      "artists": [
-        {
-          "name": "Linked Horizon",
-          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
-        }
-      ],
-      "duration_ms": 313973,
-      "name": "\u9769\u547d\u306e\u591c\u306b",
-      "url": "https://open.spotify.com/track/4akldRRblVjCFXPYtG3I6y"
+      "name": "Seishun wa Hanabi no Yoni",
+      "url": "https://open.spotify.com/track/5Sr2I7jUSeH6lynNAqoLEu"
     },
     {
       "added_at": null,
@@ -87,6 +87,22 @@
       "duration_ms": 310680,
       "name": "Guren no Yumiya",
       "url": "https://open.spotify.com/track/70p3HYq9iHZisJqpDmWd1U"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u697d\u5712\u3078\u306e\u9032\u6483",
+        "url": "https://open.spotify.com/album/1qVDe3gATmfpP94qykf09F"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "duration_ms": 313973,
+      "name": "\u9769\u547d\u306e\u591c\u306b",
+      "url": "https://open.spotify.com/track/4akldRRblVjCFXPYtG3I6y"
     },
     {
       "added_at": null,
@@ -123,6 +139,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u9032\u6483\u306e\u8ecc\u8de1",
+        "url": "https://open.spotify.com/album/5FDJ6OYeCiAvGzNyVyPSMt"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "duration_ms": 306480,
+      "name": "\u7d05\u84ee\u306e\u5ea7\u6a19",
+      "url": "https://open.spotify.com/track/7FiCAJ6ewTg9YWRX92guIc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Shingeki no Kiseki",
         "url": "https://open.spotify.com/album/4YsgCmHIRwFV6n0gT6vhGh"
       },
@@ -135,22 +167,6 @@
       "duration_ms": 139173,
       "name": "Kami no Miwaza",
       "url": "https://open.spotify.com/track/6wv7PuR3zmZOhRlXC8uVH0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shingeki no Kiseki",
-        "url": "https://open.spotify.com/album/24pr7CLiiJk8rUsXcocSA4"
-      },
-      "artists": [
-        {
-          "name": "Linked Horizon",
-          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
-        }
-      ],
-      "duration_ms": 331946,
-      "name": "Jiyuu no Tsubasa",
-      "url": "https://open.spotify.com/track/188vCXc4bAejLqGhpEVBGT"
     },
     {
       "added_at": null,
@@ -187,22 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rakuen Eno Shingeki",
-        "url": "https://open.spotify.com/album/6BDIotmFsibbcl4s5uaV4D"
-      },
-      "artists": [
-        {
-          "name": "Linked Horizon",
-          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
-        }
-      ],
-      "duration_ms": 236173,
-      "name": "Tasogare no Rakuen",
-      "url": "https://open.spotify.com/track/75S5vWZUfeTs1Bf6P6yXei"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u9032\u6483\u306e\u8ecc\u8de1",
         "url": "https://open.spotify.com/album/5FDJ6OYeCiAvGzNyVyPSMt"
       },
@@ -212,9 +212,25 @@
           "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
         }
       ],
-      "duration_ms": 306480,
-      "name": "\u7d05\u84ee\u306e\u5ea7\u6a19",
-      "url": "https://open.spotify.com/track/7FiCAJ6ewTg9YWRX92guIc"
+      "duration_ms": 349693,
+      "name": "\u81ea\u7531\u306e\u4ee3\u511f",
+      "url": "https://open.spotify.com/track/2F44cjOVPs0Hod03KYF6KQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jiyuu e no Shingeki",
+        "url": "https://open.spotify.com/album/1RKh3KNIyQDZyQiSk1sod8"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "duration_ms": 252640,
+      "name": "Moshi Kono Kabe no Naka ga Ikken no Ie Datoshitara",
+      "url": "https://open.spotify.com/track/6jxk8wh8wD0m8euatyo76k"
     },
     {
       "added_at": null,
@@ -251,6 +267,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Shingeki no Kiseki",
+        "url": "https://open.spotify.com/album/24pr7CLiiJk8rUsXcocSA4"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "duration_ms": 305386,
+      "name": "Souyoku no Hikari",
+      "url": "https://open.spotify.com/track/3ffPqlc1wy97Rl4pK0DKX6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u30eb\u30af\u30bb\u30f3\u30c0\u30eb\u30af\u5c0f\u7d00\u884c",
         "url": "https://open.spotify.com/album/2y1q4O6BcBYOCpC3VPT7pP"
       },
@@ -263,22 +295,6 @@
       "duration_ms": 372004,
       "name": "\u5f7c\u306e\u8005\u306e\u540d\u306f\u2026 - Vocalized Version",
       "url": "https://open.spotify.com/track/7hrdmPqrrTKrMhwwUs893K"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u9032\u6483\u306e\u8ecc\u8de1",
-        "url": "https://open.spotify.com/album/5FDJ6OYeCiAvGzNyVyPSMt"
-      },
-      "artists": [
-        {
-          "name": "Linked Horizon",
-          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
-        }
-      ],
-      "duration_ms": 349693,
-      "name": "\u81ea\u7531\u306e\u4ee3\u511f",
-      "url": "https://open.spotify.com/track/2F44cjOVPs0Hod03KYF6KQ"
     },
     {
       "added_at": null,
@@ -315,22 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u30eb\u30af\u30bb\u30f3\u30c0\u30eb\u30af\u5c0f\u7d00\u884c",
-        "url": "https://open.spotify.com/album/2y1q4O6BcBYOCpC3VPT7pP"
-      },
-      "artists": [
-        {
-          "name": "Linked Horizon",
-          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
-        }
-      ],
-      "duration_ms": 166033,
-      "name": "\u98a8\u304c\u5439\u3044\u305f\u65e5 - Piano Solo Version",
-      "url": "https://open.spotify.com/track/6huaX3NTgDSVAYJOjOJNn5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u9032\u6483\u306e\u8ecc\u8de1",
         "url": "https://open.spotify.com/album/5FDJ6OYeCiAvGzNyVyPSMt"
       },
@@ -347,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jiyuu Eno Shingeki",
-        "url": "https://open.spotify.com/album/3SbektNvHcTUH5uP2fpiUP"
+        "name": "\u30eb\u30af\u30bb\u30f3\u30c0\u30eb\u30af\u5c0f\u7d00\u884c",
+        "url": "https://open.spotify.com/album/2y1q4O6BcBYOCpC3VPT7pP"
       },
       "artists": [
         {
@@ -356,9 +356,25 @@
           "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
         }
       ],
-      "duration_ms": 252640,
-      "name": "Moshi Kono Kabe No Naka Ga Ikken No Ie Datoshitara",
-      "url": "https://open.spotify.com/track/2nHjd0aNkPjP5MnA6kMwFm"
+      "duration_ms": 166033,
+      "name": "\u98a8\u304c\u5439\u3044\u305f\u65e5 - Piano Solo Version",
+      "url": "https://open.spotify.com/track/6huaX3NTgDSVAYJOjOJNn5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rakuen Eno Shingeki",
+        "url": "https://open.spotify.com/album/6BDIotmFsibbcl4s5uaV4D"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "duration_ms": 236173,
+      "name": "Tasogare no Rakuen",
+      "url": "https://open.spotify.com/track/75S5vWZUfeTs1Bf6P6yXei"
     },
     {
       "added_at": null,
@@ -372,9 +388,9 @@
           "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
         }
       ],
-      "duration_ms": 687298,
-      "name": "\u30eb\u30af\u30bb\u30f3\u30c0\u30eb\u30af\u7d00\u884c",
-      "url": "https://open.spotify.com/track/0PbbrQy8ZkdRf5PDyXXcgN"
+      "duration_ms": 277346,
+      "name": "\u82b1\u304c\u6563\u308b\u4e16\u754c - Vocalized Version",
+      "url": "https://open.spotify.com/track/75zWVtdvpl23vtRH4LnFS5"
     },
     {
       "added_at": null,
@@ -404,9 +420,9 @@
           "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
         }
       ],
-      "duration_ms": 326693,
-      "name": "\u7d14\u611b(\u30cf\u30fc\u30c8\u30de\u30fc\u30af) \u5341\u5b57\u7832\u706b - Long Version",
-      "url": "https://open.spotify.com/track/46XjX7wpNSn1RTWTVQDitD"
+      "duration_ms": 687298,
+      "name": "\u30eb\u30af\u30bb\u30f3\u30c0\u30eb\u30af\u7d00\u884c",
+      "url": "https://open.spotify.com/track/0PbbrQy8ZkdRf5PDyXXcgN"
     },
     {
       "added_at": null,

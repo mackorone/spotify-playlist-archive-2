@@ -1,6 +1,6 @@
 {
   "description": "Stay relaxed with these low-key beats and instrumentals.",
-  "num_followers": 1461249,
+  "num_followers": 1461190,
   "original_name": "Mellow Beats",
   "owner": {
     "name": "Spotify",
@@ -351,22 +351,6 @@
     {
       "added_at": "2026-10-20 15:32:21",
       "album": {
-        "name": "It's Ok, B U",
-        "url": "https://open.spotify.com/album/6NSTroWyAp3htlhO61s3Ep"
-      },
-      "artists": [
-        {
-          "name": "Kiefer",
-          "url": "https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J"
-        }
-      ],
-      "duration_ms": 262846,
-      "name": "It's Ok, B U",
-      "url": "https://open.spotify.com/track/471EXpx1r3ht0t2yhkTewm"
-    },
-    {
-      "added_at": "2026-10-20 15:32:21",
-      "album": {
         "name": "Do the Right Thing",
         "url": "https://open.spotify.com/album/2q295DcveRPSGXlf3MTiC2"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 121320,
       "name": "Do the Right Thing",
       "url": "https://open.spotify.com/track/6jfThgv76n9FRzyZsPcthw"
+    },
+    {
+      "added_at": "2026-10-20 15:32:21",
+      "album": {
+        "name": "It's Ok, B U",
+        "url": "https://open.spotify.com/album/6NSTroWyAp3htlhO61s3Ep"
+      },
+      "artists": [
+        {
+          "name": "Kiefer",
+          "url": "https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J"
+        }
+      ],
+      "duration_ms": 262846,
+      "name": "It's Ok, B U",
+      "url": "https://open.spotify.com/track/471EXpx1r3ht0t2yhkTewm"
     },
     {
       "added_at": "2026-10-20 15:32:21",
@@ -843,26 +843,6 @@
     {
       "added_at": "2026-10-20 15:32:21",
       "album": {
-        "name": "Sasanqua",
-        "url": "https://open.spotify.com/album/0BMJ7h0QsY0wNSjsteLRSd"
-      },
-      "artists": [
-        {
-          "name": "physis",
-          "url": "https://open.spotify.com/artist/3NPEPBUgyPFCn4qNjKdhMx"
-        },
-        {
-          "name": "re:plus",
-          "url": "https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG"
-        }
-      ],
-      "duration_ms": 134959,
-      "name": "Sasanqua",
-      "url": "https://open.spotify.com/track/08POPoMeYXmzyOnrxLQRlU"
-    },
-    {
-      "added_at": "2026-10-20 15:32:21",
-      "album": {
         "name": "Primo",
         "url": "https://open.spotify.com/album/0yQ2Z7C1W9zjXnRcVWkln4"
       },
@@ -879,6 +859,22 @@
       "duration_ms": 162324,
       "name": "Primo",
       "url": "https://open.spotify.com/track/2uCgOs0VUkQYlnXtfi4uuK"
+    },
+    {
+      "added_at": "2026-10-20 15:32:21",
+      "album": {
+        "name": "Hagaki",
+        "url": "https://open.spotify.com/album/21LKWaFjHFYtOPZ099uEdR"
+      },
+      "artists": [
+        {
+          "name": "FloFilz",
+          "url": "https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Ma \u9593",
+      "url": "https://open.spotify.com/track/28DvrpcX2EBfFpSwufPdNi"
     },
     {
       "added_at": "2026-10-20 15:32:21",
@@ -903,18 +899,22 @@
     {
       "added_at": "2026-10-20 15:32:21",
       "album": {
-        "name": "Hagaki",
-        "url": "https://open.spotify.com/album/21LKWaFjHFYtOPZ099uEdR"
+        "name": "Sasanqua",
+        "url": "https://open.spotify.com/album/0BMJ7h0QsY0wNSjsteLRSd"
       },
       "artists": [
         {
-          "name": "FloFilz",
-          "url": "https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds"
+          "name": "physis",
+          "url": "https://open.spotify.com/artist/3NPEPBUgyPFCn4qNjKdhMx"
+        },
+        {
+          "name": "re:plus",
+          "url": "https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG"
         }
       ],
-      "duration_ms": 156000,
-      "name": "Ma \u9593",
-      "url": "https://open.spotify.com/track/28DvrpcX2EBfFpSwufPdNi"
+      "duration_ms": 134959,
+      "name": "Sasanqua",
+      "url": "https://open.spotify.com/track/08POPoMeYXmzyOnrxLQRlU"
     },
     {
       "added_at": "2026-10-20 15:32:21",
@@ -931,22 +931,6 @@
       "duration_ms": 168559,
       "name": "Kingyo",
       "url": "https://open.spotify.com/track/4X6fgP1OqSe7YGtkNPPmGQ"
-    },
-    {
-      "added_at": "2026-10-20 15:32:21",
-      "album": {
-        "name": "Lavender",
-        "url": "https://open.spotify.com/album/2g4iQQOFPBFsFJYKpTo1Fk"
-      },
-      "artists": [
-        {
-          "name": "KOTARO SAITO",
-          "url": "https://open.spotify.com/artist/6VWKUdCo8AEhrI1WH8YWdX"
-        }
-      ],
-      "duration_ms": 163593,
-      "name": "Lavender",
-      "url": "https://open.spotify.com/track/5GaHYRLnydKc7artfB8zKb"
     },
     {
       "added_at": "2026-10-20 15:32:21",
@@ -971,6 +955,22 @@
       "duration_ms": 132152,
       "name": "Flow Motion",
       "url": "https://open.spotify.com/track/6letr2UF42D0KowDsi8IRN"
+    },
+    {
+      "added_at": "2026-10-20 15:32:21",
+      "album": {
+        "name": "Lavender",
+        "url": "https://open.spotify.com/album/2g4iQQOFPBFsFJYKpTo1Fk"
+      },
+      "artists": [
+        {
+          "name": "KOTARO SAITO",
+          "url": "https://open.spotify.com/artist/6VWKUdCo8AEhrI1WH8YWdX"
+        }
+      ],
+      "duration_ms": 163593,
+      "name": "Lavender",
+      "url": "https://open.spotify.com/track/5GaHYRLnydKc7artfB8zKb"
     },
     {
       "added_at": "2026-10-20 15:32:21",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2026-10-20 15:32:21",
       "album": {
-        "name": "A Kid From Yerevan (Instrumental)",
-        "url": "https://open.spotify.com/album/3Z6YYkIQiRqk8dzIB9ygFZ"
-      },
-      "artists": [
-        {
-          "name": "Full Crate",
-          "url": "https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g"
-        }
-      ],
-      "duration_ms": 164769,
-      "name": "Sinking Ship - Instrumental",
-      "url": "https://open.spotify.com/track/2hRk5nquft9v07V8VBBRaY"
-    },
-    {
-      "added_at": "2026-10-20 15:32:21",
-      "album": {
         "name": "The Scenic Route",
         "url": "https://open.spotify.com/album/7wbY6nhgh48vz5QGOGJDEo"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 173296,
       "name": "Recuring Dream",
       "url": "https://open.spotify.com/track/6dB6YYgBOPtzt37Fa0M8Eh"
+    },
+    {
+      "added_at": "2026-10-20 15:32:21",
+      "album": {
+        "name": "A Kid From Yerevan (Instrumental)",
+        "url": "https://open.spotify.com/album/3Z6YYkIQiRqk8dzIB9ygFZ"
+      },
+      "artists": [
+        {
+          "name": "Full Crate",
+          "url": "https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g"
+        }
+      ],
+      "duration_ms": 164769,
+      "name": "Sinking Ship - Instrumental",
+      "url": "https://open.spotify.com/track/2hRk5nquft9v07V8VBBRaY"
     },
     {
       "added_at": "2026-10-20 15:32:21",
@@ -1231,26 +1231,6 @@
     {
       "added_at": "2026-10-20 15:32:21",
       "album": {
-        "name": "A Journey Beyond Time",
-        "url": "https://open.spotify.com/album/0lH8ty5RoGVQtWiXQAKgyq"
-      },
-      "artists": [
-        {
-          "name": "CO-MA",
-          "url": "https://open.spotify.com/artist/32JeU19j6OcAwsPpI1dYSt"
-        },
-        {
-          "name": "Melanie Faye",
-          "url": "https://open.spotify.com/artist/4pcfFC9isxezJyTwbV1nIp"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "Clutch",
-      "url": "https://open.spotify.com/track/7M2YumoAHuH684xZICZlCC"
-    },
-    {
-      "added_at": "2026-10-20 15:32:21",
-      "album": {
         "name": "Dersen Cafe & Give Nothing",
         "url": "https://open.spotify.com/album/4YU2bHRmTiy9fSI6arBkYH"
       },
@@ -1287,6 +1267,26 @@
     {
       "added_at": "2026-10-20 15:32:21",
       "album": {
+        "name": "A Journey Beyond Time",
+        "url": "https://open.spotify.com/album/0lH8ty5RoGVQtWiXQAKgyq"
+      },
+      "artists": [
+        {
+          "name": "CO-MA",
+          "url": "https://open.spotify.com/artist/32JeU19j6OcAwsPpI1dYSt"
+        },
+        {
+          "name": "Melanie Faye",
+          "url": "https://open.spotify.com/artist/4pcfFC9isxezJyTwbV1nIp"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "Clutch",
+      "url": "https://open.spotify.com/track/7M2YumoAHuH684xZICZlCC"
+    },
+    {
+      "added_at": "2026-10-20 15:32:21",
+      "album": {
         "name": "Sunrise",
         "url": "https://open.spotify.com/album/1DZbje3Vg1XVwbzMiIzrw4"
       },
@@ -1319,26 +1319,6 @@
     {
       "added_at": "2026-10-20 15:32:21",
       "album": {
-        "name": "Tarde Invernal",
-        "url": "https://open.spotify.com/album/6dA8kioLgf0NRxEnrSLhWb"
-      },
-      "artists": [
-        {
-          "name": "Refeeld",
-          "url": "https://open.spotify.com/artist/04VwrPirvx6CXRzbEjofQP"
-        },
-        {
-          "name": "Fourth Dogma",
-          "url": "https://open.spotify.com/artist/7gkPPSM2bTubro2wyEM4Xi"
-        }
-      ],
-      "duration_ms": 142004,
-      "name": "Tarde Invernal",
-      "url": "https://open.spotify.com/track/4son9tHQEmD5NK9JNGdtlf"
-    },
-    {
-      "added_at": "2026-10-20 15:32:21",
-      "album": {
         "name": "Sakura Bloom",
         "url": "https://open.spotify.com/album/5Dz1PR8PLIh6MwS9w3ORLM"
       },
@@ -1359,22 +1339,22 @@
     {
       "added_at": "2026-10-20 15:32:21",
       "album": {
-        "name": "soul of the sky",
-        "url": "https://open.spotify.com/album/6oZXZY2VH2AqLkYdPT6iQV"
+        "name": "Tarde Invernal",
+        "url": "https://open.spotify.com/album/6dA8kioLgf0NRxEnrSLhWb"
       },
       "artists": [
         {
-          "name": "Nitsua",
-          "url": "https://open.spotify.com/artist/04aAAEbkuy8tC8xmaE0CcQ"
+          "name": "Refeeld",
+          "url": "https://open.spotify.com/artist/04VwrPirvx6CXRzbEjofQP"
         },
         {
-          "name": "Linn Mori",
-          "url": "https://open.spotify.com/artist/2XJEj3lY4tkVx0IH5Ue69E"
+          "name": "Fourth Dogma",
+          "url": "https://open.spotify.com/artist/7gkPPSM2bTubro2wyEM4Xi"
         }
       ],
-      "duration_ms": 182022,
-      "name": "Safe ground (homage of luz by haruka nakamura)",
-      "url": "https://open.spotify.com/track/5GvMAF5GSWcWaPMDYw8oMw"
+      "duration_ms": 142004,
+      "name": "Tarde Invernal",
+      "url": "https://open.spotify.com/track/4son9tHQEmD5NK9JNGdtlf"
     },
     {
       "added_at": "2026-10-20 15:32:21",
@@ -1391,6 +1371,26 @@
       "duration_ms": 140000,
       "name": "Quiet in the Garden",
       "url": "https://open.spotify.com/track/0VDIK5NEwSkD6A4Dj7FRo8"
+    },
+    {
+      "added_at": "2026-10-20 15:32:21",
+      "album": {
+        "name": "soul of the sky",
+        "url": "https://open.spotify.com/album/6oZXZY2VH2AqLkYdPT6iQV"
+      },
+      "artists": [
+        {
+          "name": "Nitsua",
+          "url": "https://open.spotify.com/artist/04aAAEbkuy8tC8xmaE0CcQ"
+        },
+        {
+          "name": "Linn Mori",
+          "url": "https://open.spotify.com/artist/2XJEj3lY4tkVx0IH5Ue69E"
+        }
+      ],
+      "duration_ms": 182022,
+      "name": "Safe ground (homage of luz by haruka nakamura)",
+      "url": "https://open.spotify.com/track/5GvMAF5GSWcWaPMDYw8oMw"
     },
     {
       "added_at": "2026-10-20 15:32:21",
@@ -1491,26 +1491,18 @@
     {
       "added_at": "2026-10-20 15:32:21",
       "album": {
-        "name": "Scintillate",
-        "url": "https://open.spotify.com/album/0adv9JqoGDSm3WhTL3jzcq"
+        "name": "pastels",
+        "url": "https://open.spotify.com/album/4eiL6uYYp4Nn2IjLgR9usG"
       },
       "artists": [
         {
-          "name": "Seizan Ishigaki",
-          "url": "https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0"
-        },
-        {
-          "name": "Lola",
-          "url": "https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT"
-        },
-        {
-          "name": "Devaloop",
-          "url": "https://open.spotify.com/artist/0eEQAbC1TFqlGdqIa5YjKY"
+          "name": "Sachiho",
+          "url": "https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa"
         }
       ],
-      "duration_ms": 173367,
-      "name": "Scintillate",
-      "url": "https://open.spotify.com/track/0I8lF4sOSnxssc99KxcBqU"
+      "duration_ms": 128571,
+      "name": "pastels",
+      "url": "https://open.spotify.com/track/2CIR0nS7E3kJxim6o4rmK0"
     }
   ],
   "unique_name": "Mellow Beats",

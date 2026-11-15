@@ -6,24 +6,8 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avUBgAAAAAAtjtIGoPv7jRy72ZZRSttd",
+  "snapshot_id": "avZTAAAAAACk6D+/rPdSLBYzrKX2bs0L",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Inferno",
-        "url": "https://open.spotify.com/album/0mu3EvWYfNwBfISSg0q03p"
-      },
-      "artists": [
-        {
-          "name": "Boards of Canada",
-          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
-        }
-      ],
-      "duration_ms": 35999,
-      "name": "Introit",
-      "url": "https://open.spotify.com/track/237EDlkjHoVAfG1FEtV0R2"
-    },
     {
       "added_at": null,
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 91706,
       "name": "Olson",
       "url": "https://open.spotify.com/track/5DZ4M3yMat79ok25rZHuA9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Inferno",
+        "url": "https://open.spotify.com/album/0mu3EvWYfNwBfISSg0q03p"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "duration_ms": 35999,
+      "name": "Introit",
+      "url": "https://open.spotify.com/track/237EDlkjHoVAfG1FEtV0R2"
     },
     {
       "added_at": null,
@@ -75,22 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inferno",
-        "url": "https://open.spotify.com/album/0mu3EvWYfNwBfISSg0q03p"
-      },
-      "artists": [
-        {
-          "name": "Boards of Canada",
-          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
-        }
-      ],
-      "duration_ms": 232550,
-      "name": "Age Of Capricorn",
-      "url": "https://open.spotify.com/track/6iQ2DAJ3fmtDzByJQAqAki"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Music Has The Right To Children",
         "url": "https://open.spotify.com/album/6LZiNXaDvhzvnXUubVOmNU"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 149080,
       "name": "Roygbiv",
       "url": "https://open.spotify.com/track/5Hf2h59YLInKlic7ooWZVd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Inferno",
+        "url": "https://open.spotify.com/album/0mu3EvWYfNwBfISSg0q03p"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "duration_ms": 232550,
+      "name": "Age Of Capricorn",
+      "url": "https://open.spotify.com/track/6iQ2DAJ3fmtDzByJQAqAki"
     },
     {
       "added_at": null,
@@ -139,22 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inferno",
-        "url": "https://open.spotify.com/album/0mu3EvWYfNwBfISSg0q03p"
-      },
-      "artists": [
-        {
-          "name": "Boards of Canada",
-          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
-        }
-      ],
-      "duration_ms": 301237,
-      "name": "Naraka",
-      "url": "https://open.spotify.com/track/6IuquJdJVxdSEgsJv5YU6Z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Music Has The Right To Children",
         "url": "https://open.spotify.com/album/6LZiNXaDvhzvnXUubVOmNU"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 75626,
       "name": "Wildlife Analysis",
       "url": "https://open.spotify.com/track/1XZdwzd8DTDvkjVc0eJ9BI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Inferno",
+        "url": "https://open.spotify.com/album/0mu3EvWYfNwBfISSg0q03p"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "duration_ms": 301237,
+      "name": "Naraka",
+      "url": "https://open.spotify.com/track/6IuquJdJVxdSEgsJv5YU6Z"
     },
     {
       "added_at": null,
@@ -203,22 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inferno",
-        "url": "https://open.spotify.com/album/0mu3EvWYfNwBfISSg0q03p"
-      },
-      "artists": [
-        {
-          "name": "Boards of Canada",
-          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
-        }
-      ],
-      "duration_ms": 78187,
-      "name": "Acts Of Magic",
-      "url": "https://open.spotify.com/track/6kJpSq9nH4AdBJjQ4iNViA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Music Has The Right To Children",
         "url": "https://open.spotify.com/album/6LZiNXaDvhzvnXUubVOmNU"
       },
@@ -235,8 +219,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Campfire Headphase",
-        "url": "https://open.spotify.com/album/6uO5B6km2Dco28tOBmZtSU"
+        "name": "Inferno",
+        "url": "https://open.spotify.com/album/0mu3EvWYfNwBfISSg0q03p"
       },
       "artists": [
         {
@@ -244,9 +228,9 @@
           "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
         }
       ],
-      "duration_ms": 51720,
-      "name": "A Moment Of Clarity",
-      "url": "https://open.spotify.com/track/1MMsn8AfguMOJMvSDxy6wo"
+      "duration_ms": 78187,
+      "name": "Acts Of Magic",
+      "url": "https://open.spotify.com/track/6kJpSq9nH4AdBJjQ4iNViA"
     },
     {
       "added_at": null,
@@ -267,8 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inferno",
-        "url": "https://open.spotify.com/album/0mu3EvWYfNwBfISSg0q03p"
+        "name": "The Campfire Headphase",
+        "url": "https://open.spotify.com/album/6uO5B6km2Dco28tOBmZtSU"
       },
       "artists": [
         {
@@ -276,9 +260,9 @@
           "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
         }
       ],
-      "duration_ms": 284850,
-      "name": "Hydrogen Helium Lithium Leviathan",
-      "url": "https://open.spotify.com/track/1NnBADacrHxF7oSprSFoWn"
+      "duration_ms": 51720,
+      "name": "A Moment Of Clarity",
+      "url": "https://open.spotify.com/track/1MMsn8AfguMOJMvSDxy6wo"
     },
     {
       "added_at": null,
@@ -299,8 +283,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Campfire Headphase",
-        "url": "https://open.spotify.com/album/6uO5B6km2Dco28tOBmZtSU"
+        "name": "Inferno",
+        "url": "https://open.spotify.com/album/0mu3EvWYfNwBfISSg0q03p"
       },
       "artists": [
         {
@@ -308,9 +292,9 @@
           "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
         }
       ],
-      "duration_ms": 44280,
-      "name": "Into The Rainbow Vein",
-      "url": "https://open.spotify.com/track/2Wo9U9sM6oi6hl5ZSBSA0B"
+      "duration_ms": 284850,
+      "name": "Hydrogen Helium Lithium Leviathan",
+      "url": "https://open.spotify.com/track/1NnBADacrHxF7oSprSFoWn"
     },
     {
       "added_at": null,
@@ -331,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inferno",
-        "url": "https://open.spotify.com/album/0mu3EvWYfNwBfISSg0q03p"
+        "name": "The Campfire Headphase",
+        "url": "https://open.spotify.com/album/6uO5B6km2Dco28tOBmZtSU"
       },
       "artists": [
         {
@@ -340,9 +324,9 @@
           "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
         }
       ],
-      "duration_ms": 204834,
-      "name": "Father And Son",
-      "url": "https://open.spotify.com/track/2jS1VIUPJnepG7sIU5nJUR"
+      "duration_ms": 44280,
+      "name": "Into The Rainbow Vein",
+      "url": "https://open.spotify.com/track/2Wo9U9sM6oi6hl5ZSBSA0B"
     },
     {
       "added_at": null,
@@ -363,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Campfire Headphase",
-        "url": "https://open.spotify.com/album/6uO5B6km2Dco28tOBmZtSU"
+        "name": "Inferno",
+        "url": "https://open.spotify.com/album/0mu3EvWYfNwBfISSg0q03p"
       },
       "artists": [
         {
@@ -372,9 +356,9 @@
           "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
         }
       ],
-      "duration_ms": 364533,
-      "name": "Satellite Anthem Icarus",
-      "url": "https://open.spotify.com/track/4b3i2rXFZx9JqQQq9KuVAj"
+      "duration_ms": 204834,
+      "name": "Father And Son",
+      "url": "https://open.spotify.com/track/2jS1VIUPJnepG7sIU5nJUR"
     },
     {
       "added_at": null,
@@ -391,6 +375,22 @@
       "duration_ms": 287403,
       "name": "Reach For The Dead",
       "url": "https://open.spotify.com/track/6ngx6PjG5Gy2y1WJl3epZQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Campfire Headphase",
+        "url": "https://open.spotify.com/album/6uO5B6km2Dco28tOBmZtSU"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "duration_ms": 364533,
+      "name": "Satellite Anthem Icarus",
+      "url": "https://open.spotify.com/track/4b3i2rXFZx9JqQQq9KuVAj"
     },
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trans Canada Highway",
-        "url": "https://open.spotify.com/album/7DcHbfXY5HpmU2ltqCxc8c"
-      },
-      "artists": [
-        {
-          "name": "Boards of Canada",
-          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
-        }
-      ],
-      "duration_ms": 320733,
-      "name": "Left Side Drive",
-      "url": "https://open.spotify.com/track/3NrNukjXkShrtZSrA89Gc4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tomorrow's Harvest",
         "url": "https://open.spotify.com/album/07Ckd8KDDxcbY5iUXjhuex"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 136047,
       "name": "Sundown",
       "url": "https://open.spotify.com/track/2wJWTSdRT4wgKAyrWtwiqA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trans Canada Highway",
+        "url": "https://open.spotify.com/album/7DcHbfXY5HpmU2ltqCxc8c"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "duration_ms": 320733,
+      "name": "Left Side Drive",
+      "url": "https://open.spotify.com/track/3NrNukjXkShrtZSrA89Gc4"
     },
     {
       "added_at": null,
@@ -491,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trans Canada Highway",
-        "url": "https://open.spotify.com/album/7DcHbfXY5HpmU2ltqCxc8c"
-      },
-      "artists": [
-        {
-          "name": "Boards of Canada",
-          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
-        }
-      ],
-      "duration_ms": 91146,
-      "name": "Under The Coke Sign",
-      "url": "https://open.spotify.com/track/67CP6JsS9XiK67JrhLg2ch"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tomorrow's Harvest",
         "url": "https://open.spotify.com/album/07Ckd8KDDxcbY5iUXjhuex"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 232886,
       "name": "Nothing Is Real",
       "url": "https://open.spotify.com/track/1rmXfdk4DFRuw6LLKoUTb0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trans Canada Highway",
+        "url": "https://open.spotify.com/album/7DcHbfXY5HpmU2ltqCxc8c"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "duration_ms": 91146,
+      "name": "Under The Coke Sign",
+      "url": "https://open.spotify.com/track/67CP6JsS9XiK67JrhLg2ch"
     },
     {
       "added_at": null,

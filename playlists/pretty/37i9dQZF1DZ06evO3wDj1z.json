@@ -1,12 +1,12 @@
 {
   "description": "This is Sergio Vega \"El Shaka\". The essential tracks, all in one playlist.",
-  "num_followers": 126575,
+  "num_followers": 126630,
   "original_name": "This Is Sergio Vega \"El Shaka\"",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avUBgAAAAAAgcOuZMc6ksDrSOtJDKdK3",
+  "snapshot_id": "avZTAAAAAACYS8hb2/6dUvwqOD3M5qrF",
   "tracks": [
     {
       "added_at": null,
@@ -475,8 +475,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Millonario De Amor",
-        "url": "https://open.spotify.com/album/13d6INVzyUnmbJlFEjvZMQ"
+        "name": "Desde el Cielo",
+        "url": "https://open.spotify.com/album/3NLkn2oW8lkfe6pLbTQiRV"
       },
       "artists": [
         {
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
         }
       ],
-      "duration_ms": 213693,
-      "name": "Me Vas A Doler",
-      "url": "https://open.spotify.com/track/6iKVu05WpKRug8ScrbIKDa"
+      "duration_ms": 152920,
+      "name": "Mi Primer Amor",
+      "url": "https://open.spotify.com/track/3Z9OK3CUYv9t5iQpweJhda"
     },
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desde el Cielo",
-        "url": "https://open.spotify.com/album/3NLkn2oW8lkfe6pLbTQiRV"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
-        }
-      ],
-      "duration_ms": 152920,
-      "name": "Mi Primer Amor",
-      "url": "https://open.spotify.com/track/3Z9OK3CUYv9t5iQpweJhda"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "M\u00e1s Exitos Con El Shaka",
         "url": "https://open.spotify.com/album/7C7OFtcJyns1tygKSowvzO"
       },
@@ -555,6 +539,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Millonario De Amor",
+        "url": "https://open.spotify.com/album/13d6INVzyUnmbJlFEjvZMQ"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "duration_ms": 213693,
+      "name": "Me Vas A Doler",
+      "url": "https://open.spotify.com/track/6iKVu05WpKRug8ScrbIKDa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cuando El Sol Salga Al Rev\u00e9s",
         "url": "https://open.spotify.com/album/3yZ3Du2ASwDDYMmQsvSlCa"
       },
@@ -567,26 +567,6 @@
       "duration_ms": 244346,
       "name": "Loco",
       "url": "https://open.spotify.com/track/2W5YzZvhA7SOsGAvk8e9Ke"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Para Toda La Vida",
-        "url": "https://open.spotify.com/album/5M1ekIVxWsYSU50Z40UMTc"
-      },
-      "artists": [
-        {
-          "name": "K-Paz De La Sierra",
-          "url": "https://open.spotify.com/artist/1TCSet7pGZCDkcXCOzH359"
-        },
-        {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
-        }
-      ],
-      "duration_ms": 212053,
-      "name": "Ni Se Te Ocurra (Para Toda La Vida)",
-      "url": "https://open.spotify.com/track/5Ud3z2t76A54Z4Uhgryp2q"
     },
     {
       "added_at": null,
@@ -623,6 +603,26 @@
       "duration_ms": 127496,
       "name": "Estrella Ca\u00edda",
       "url": "https://open.spotify.com/track/0bztHEZfIFe23wKxAbHTuT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Para Toda La Vida",
+        "url": "https://open.spotify.com/album/5M1ekIVxWsYSU50Z40UMTc"
+      },
+      "artists": [
+        {
+          "name": "K-Paz De La Sierra",
+          "url": "https://open.spotify.com/artist/1TCSet7pGZCDkcXCOzH359"
+        },
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "duration_ms": 212053,
+      "name": "Ni Se Te Ocurra (Para Toda La Vida)",
+      "url": "https://open.spotify.com/track/5Ud3z2t76A54Z4Uhgryp2q"
     },
     {
       "added_at": null,

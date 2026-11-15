@@ -20,7 +20,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 176965,
       "name": "18 Libras",
       "url": "https://open.spotify.com/track/0ah4bfpe69UbE8AeoTtVNn"
@@ -82,7 +82,7 @@
       ],
       "date_added": "2025-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-01",
+      "date_removed": null,
       "duration_ms": 167977,
       "name": "ABUNDANCIA",
       "url": "https://open.spotify.com/track/2eDoBIOHmUpXzQAaeDFaLf"
@@ -342,7 +342,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-30",
+      "date_removed": null,
       "duration_ms": 134890,
       "name": "BLUE SUSHI",
       "url": "https://open.spotify.com/track/42Ys8wiqnC6XE6bblNyKIO"
@@ -430,7 +430,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-21",
+      "date_removed": null,
       "duration_ms": 157749,
       "name": "Chambeando Recio",
       "url": "https://open.spotify.com/track/5GUn6oyW713HWxE9F1Xp0T"
@@ -496,7 +496,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 197750,
       "name": "Cupcake Quemando",
       "url": "https://open.spotify.com/track/2AEIwBU42xkLwkCj7i7USv"
@@ -584,6 +584,24 @@
       "duration_ms": 207140,
       "name": "De Peri\u00f3dico Un Gallito - En Vivo",
       "url": "https://open.spotify.com/track/0wWuyRbvxCAOUZkDwzQ1XZ"
+    },
+    {
+      "album": {
+        "name": "L7X",
+        "url": "https://open.spotify.com/album/4mJCWEIyFuWVG0gNqtb8Eo"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "date_added": "2026-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157056,
+      "name": "DEMENTE",
+      "url": "https://open.spotify.com/track/5TmsGiuF91q99y5gxt96Rx"
     },
     {
       "album": {
@@ -766,7 +784,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-03",
+      "date_removed": null,
       "duration_ms": 217250,
       "name": "El Chili Willy",
       "url": "https://open.spotify.com/track/4TBinkhZWTRdjio4DCHtCm"
@@ -1028,7 +1046,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-28",
+      "date_removed": null,
       "duration_ms": 235711,
       "name": "El Ranchero",
       "url": "https://open.spotify.com/track/4UxemidpNmPXjC7CaycnFs"
@@ -1184,7 +1202,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 170672,
       "name": "En La Bola",
       "url": "https://open.spotify.com/track/1MKSWLFVyxgdLKE8YUby50"
@@ -1506,7 +1524,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 191688,
       "name": "La Pantera",
       "url": "https://open.spotify.com/track/2vSDe7NmcUKevlHqhz59EX"
@@ -1874,10 +1892,28 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 218500,
       "name": "Ojos De Maniaco",
       "url": "https://open.spotify.com/track/52Cpyvd2dKb6XRn313nH87"
+    },
+    {
+      "album": {
+        "name": "100% Corridos Verdes",
+        "url": "https://open.spotify.com/album/2MHgqohl0QpnsFLEViC7Q4"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "date_added": "2026-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156773,
+      "name": "Olor a Kush",
+      "url": "https://open.spotify.com/track/1hhnHl9vyHvX2rMHBoOvKY"
     },
     {
       "album": {
@@ -2170,7 +2206,7 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-31",
+      "date_removed": null,
       "duration_ms": 145375,
       "name": "Seguimos Dando Lata",
       "url": "https://open.spotify.com/track/2pTffC1NB91GiaOpOEoETt"
@@ -2534,7 +2570,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 172316,
       "name": "Vida Peligrosa",
       "url": "https://open.spotify.com/track/7k7r1GvHZQ06n7fFFLrxCn"
@@ -2552,7 +2588,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 181800,
       "name": "Vida Peligrosa El Solecito",
       "url": "https://open.spotify.com/track/3dTeCvgPkIvQPP9U4RqrMd"
@@ -2610,7 +2646,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 124574,
       "name": "Yo",
       "url": "https://open.spotify.com/track/5rZl5rUeKfkP6MNXfezGYw"

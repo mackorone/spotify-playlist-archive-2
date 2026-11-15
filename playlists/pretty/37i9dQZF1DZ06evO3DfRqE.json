@@ -1,12 +1,12 @@
 {
   "description": "This is Jake Shimabukuro. The essential tracks, all in one playlist.",
-  "num_followers": 8799,
+  "num_followers": 8800,
   "original_name": "This Is Jake Shimabukuro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avUBgAAAAABrowa71cUKgcmTIJBcir3b",
+  "snapshot_id": "avZTAAAAAAAO+E+eGgStLwRLBdGIwt7O",
   "tracks": [
     {
       "added_at": null,
@@ -503,26 +503,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u02bbUkulele Friends III: The Tertiary",
-        "url": "https://open.spotify.com/album/1RzSUAa4j4AgYYb8mhn3nt"
+        "name": "Grateful",
+        "url": "https://open.spotify.com/album/46y9A8jOZER0IDa3Q8wJDc"
       },
       "artists": [
         {
-          "name": "Bryan Tolentino",
-          "url": "https://open.spotify.com/artist/61AkXSTVwtz4dLz6DMACpg"
-        },
-        {
-          "name": "Herb Ohta, Jr.",
-          "url": "https://open.spotify.com/artist/1Dp5erLcQqBYQBOR3qs1Dp"
-        },
-        {
           "name": "Jake Shimabukuro",
           "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        },
+        {
+          "name": "Justin Kawika Young",
+          "url": "https://open.spotify.com/artist/12V3c5AeHKmadjjklZACbR"
         }
       ],
-      "duration_ms": 200254,
-      "name": "Wailau",
-      "url": "https://open.spotify.com/track/29F9g4sjiRzLcLuxtUQa3M"
+      "duration_ms": 220440,
+      "name": "Grateful",
+      "url": "https://open.spotify.com/track/65G1IOmG8zB627cyYUOyHJ"
     },
     {
       "added_at": null,
@@ -547,18 +543,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Calm Seas",
-        "url": "https://open.spotify.com/album/1H1nsvFuuDcRJLTEXRfuNr"
+        "name": "\u02bbUkulele Friends III: The Tertiary",
+        "url": "https://open.spotify.com/album/1RzSUAa4j4AgYYb8mhn3nt"
       },
       "artists": [
+        {
+          "name": "Bryan Tolentino",
+          "url": "https://open.spotify.com/artist/61AkXSTVwtz4dLz6DMACpg"
+        },
+        {
+          "name": "Herb Ohta, Jr.",
+          "url": "https://open.spotify.com/artist/1Dp5erLcQqBYQBOR3qs1Dp"
+        },
         {
           "name": "Jake Shimabukuro",
           "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
         }
       ],
-      "duration_ms": 116706,
-      "name": "The Stars Are Out",
-      "url": "https://open.spotify.com/track/4tXp7gM12sZMRd6ylWbceg"
+      "duration_ms": 200254,
+      "name": "Wailau",
+      "url": "https://open.spotify.com/track/29F9g4sjiRzLcLuxtUQa3M"
     },
     {
       "added_at": null,
@@ -579,22 +583,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Grateful",
-        "url": "https://open.spotify.com/album/46y9A8jOZER0IDa3Q8wJDc"
+        "name": "Calm Seas",
+        "url": "https://open.spotify.com/album/1H1nsvFuuDcRJLTEXRfuNr"
       },
       "artists": [
         {
           "name": "Jake Shimabukuro",
           "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
-        },
-        {
-          "name": "Justin Kawika Young",
-          "url": "https://open.spotify.com/artist/12V3c5AeHKmadjjklZACbR"
         }
       ],
-      "duration_ms": 220440,
-      "name": "Grateful",
-      "url": "https://open.spotify.com/track/65G1IOmG8zB627cyYUOyHJ"
+      "duration_ms": 116706,
+      "name": "The Stars Are Out",
+      "url": "https://open.spotify.com/track/4tXp7gM12sZMRd6ylWbceg"
     },
     {
       "added_at": null,
@@ -687,6 +687,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pop Experience",
+        "url": "https://open.spotify.com/album/1nZGYKgarNbqKpUAXJb3si"
+      },
+      "artists": [
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        }
+      ],
+      "duration_ms": 143894,
+      "name": "What Was I Made For?",
+      "url": "https://open.spotify.com/track/2qtw5nakXM1a7LdghEl2Sz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Brightside",
         "url": "https://open.spotify.com/album/4aJHr1kwmCQYnOrkYUc4gK"
       },
@@ -703,46 +719,6 @@
       "duration_ms": 213621,
       "name": "Make It Paradise",
       "url": "https://open.spotify.com/track/4ZV6NV1l7yHlufiaaKI6G1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hope in the Ashes",
-        "url": "https://open.spotify.com/album/373OIvXeyphGoVfggcCdcr"
-      },
-      "artists": [
-        {
-          "name": "Lily Meola",
-          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
-        },
-        {
-          "name": "Jake Shimabukuro",
-          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
-        },
-        {
-          "name": "Mick Fleetwood",
-          "url": "https://open.spotify.com/artist/7bRRWmUqERkyOVSSU6MPFu"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        },
-        {
-          "name": "Paula Fuga",
-          "url": "https://open.spotify.com/artist/6ja6QKojqolpOJpChYXHTf"
-        },
-        {
-          "name": "Lukas Nelson",
-          "url": "https://open.spotify.com/artist/1oK57qVDixqM7no13U1mK9"
-        },
-        {
-          "name": "Iam Tongi",
-          "url": "https://open.spotify.com/artist/4HRMz0O4zNGfvgpDWYNiS3"
-        }
-      ],
-      "duration_ms": 154713,
-      "name": "Hope in the Ashes",
-      "url": "https://open.spotify.com/track/1RoNkSXNMMbBVLmApfVlMs"
     },
     {
       "added_at": null,
@@ -787,8 +763,48 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pop Experience",
-        "url": "https://open.spotify.com/album/1nZGYKgarNbqKpUAXJb3si"
+        "name": "Hope in the Ashes",
+        "url": "https://open.spotify.com/album/373OIvXeyphGoVfggcCdcr"
+      },
+      "artists": [
+        {
+          "name": "Lily Meola",
+          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
+        },
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        },
+        {
+          "name": "Mick Fleetwood",
+          "url": "https://open.spotify.com/artist/7bRRWmUqERkyOVSSU6MPFu"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        },
+        {
+          "name": "Paula Fuga",
+          "url": "https://open.spotify.com/artist/6ja6QKojqolpOJpChYXHTf"
+        },
+        {
+          "name": "Lukas Nelson",
+          "url": "https://open.spotify.com/artist/1oK57qVDixqM7no13U1mK9"
+        },
+        {
+          "name": "Iam Tongi",
+          "url": "https://open.spotify.com/artist/4HRMz0O4zNGfvgpDWYNiS3"
+        }
+      ],
+      "duration_ms": 154713,
+      "name": "Hope in the Ashes",
+      "url": "https://open.spotify.com/track/1RoNkSXNMMbBVLmApfVlMs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u30a2\u30af\u30ed\u30b9\u30fb\u30b6\u30fb\u30e6\u30cb\u30d0\u30fc\u30b9",
+        "url": "https://open.spotify.com/album/7MxHfXPU4Ke807jckZJTP3"
       },
       "artists": [
         {
@@ -796,9 +812,41 @@
           "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
         }
       ],
-      "duration_ms": 143894,
-      "name": "What Was I Made For?",
-      "url": "https://open.spotify.com/track/2qtw5nakXM1a7LdghEl2Sz"
+      "duration_ms": 276386,
+      "name": "\u30b5\u30e0\u30b7\u30f3\u30b0",
+      "url": "https://open.spotify.com/track/4x41PAoR89XK2Lnnglf4Ua"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/6XMEZ2tu6GS1WGYC2MX0ad"
+      },
+      "artists": [
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        }
+      ],
+      "duration_ms": 175914,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/69nLHPzjWmgU3HaWF1WzUI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Calm Seas",
+        "url": "https://open.spotify.com/album/1H1nsvFuuDcRJLTEXRfuNr"
+      },
+      "artists": [
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        }
+      ],
+      "duration_ms": 175173,
+      "name": "Wailau",
+      "url": "https://open.spotify.com/track/6Ii2ZCcW7pEU1Rss5sF9qh"
     },
     {
       "added_at": null,
@@ -835,54 +883,6 @@
       "duration_ms": 239906,
       "name": "Happy Day",
       "url": "https://open.spotify.com/track/5VywuMtwbWgXHw6RXDyDWj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Calm Seas",
-        "url": "https://open.spotify.com/album/1H1nsvFuuDcRJLTEXRfuNr"
-      },
-      "artists": [
-        {
-          "name": "Jake Shimabukuro",
-          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
-        }
-      ],
-      "duration_ms": 175173,
-      "name": "Wailau",
-      "url": "https://open.spotify.com/track/6Ii2ZCcW7pEU1Rss5sF9qh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u30a2\u30af\u30ed\u30b9\u30fb\u30b6\u30fb\u30e6\u30cb\u30d0\u30fc\u30b9",
-        "url": "https://open.spotify.com/album/7MxHfXPU4Ke807jckZJTP3"
-      },
-      "artists": [
-        {
-          "name": "Jake Shimabukuro",
-          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
-        }
-      ],
-      "duration_ms": 276386,
-      "name": "\u30b5\u30e0\u30b7\u30f3\u30b0",
-      "url": "https://open.spotify.com/track/4x41PAoR89XK2Lnnglf4Ua"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Golden",
-        "url": "https://open.spotify.com/album/6XMEZ2tu6GS1WGYC2MX0ad"
-      },
-      "artists": [
-        {
-          "name": "Jake Shimabukuro",
-          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
-        }
-      ],
-      "duration_ms": 175914,
-      "name": "Golden",
-      "url": "https://open.spotify.com/track/69nLHPzjWmgU3HaWF1WzUI"
     },
     {
       "added_at": null,
@@ -939,22 +939,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peace Love Ukulele",
-        "url": "https://open.spotify.com/album/0H2oBQ01a7vEEefSTWaHEy"
-      },
-      "artists": [
-        {
-          "name": "Jake Shimabukuro",
-          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
-        }
-      ],
-      "duration_ms": 200440,
-      "name": "Boy Meets Girl",
-      "url": "https://open.spotify.com/track/1AEKR4Qb9RhiFndpZfcwzB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u30b8\u30a7\u30f3\u30c8\u30ea\u30fc\u30fb\u30a6\u30a3\u30fc\u30d7\u30b9",
         "url": "https://open.spotify.com/album/0wyURoNZlzFweCCWPFO7Re"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 221560,
       "name": "\u30d6\u30ea\u30fc\u30ba - Solo",
       "url": "https://open.spotify.com/track/6hX9K24qdVTWOPuVsyDHS0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Peace Love Ukulele",
+        "url": "https://open.spotify.com/album/0H2oBQ01a7vEEefSTWaHEy"
+      },
+      "artists": [
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        }
+      ],
+      "duration_ms": 200440,
+      "name": "Boy Meets Girl",
+      "url": "https://open.spotify.com/track/1AEKR4Qb9RhiFndpZfcwzB"
     },
     {
       "added_at": null,

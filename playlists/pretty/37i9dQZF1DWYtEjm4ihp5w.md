@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 
 > Cover: ONZY
 
-[Spotify](https://open.spotify.com/user/spotify) - 448,974 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 449,434 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,22 +20,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 | 10 | [Capitaine](https://open.spotify.com/track/4a45XN9EpVDakADKfAW5iz) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [Capitaine](https://open.spotify.com/album/3PHuqQWmUGJrQ51F9yCoGV) | 2:57 |
 | 11 | [Zone De Confort](https://open.spotify.com/track/37yXgJjCGtxlgdUUja8oZH) | [Figoshin](https://open.spotify.com/artist/7vg7wkmGzMEM7p2ZkMPHJS) | [Zone De Confort](https://open.spotify.com/album/0g9VI7L7jbsDc80OG822us) | 3:04 |
 | 12 | [CESAR](https://open.spotify.com/track/4Re910e8EhQCrvUW7Yp9IC) | [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk) | [OLYMPICS](https://open.spotify.com/album/4cpZ5lDJdxU4AxY9G42dp8) | 2:33 |
-| 13 | [L7OB W DAMAR](https://open.spotify.com/track/3hiS98n1CFfjo1xXmVIBJk) | [21 Tach](https://open.spotify.com/artist/728dZrvljhCFhPJZvsEtDc) | [BACKGROUND](https://open.spotify.com/album/0TBYO9wCZ9bORB9srxxaBt) | 2:28 |
-| 14 | [AGOGO](https://open.spotify.com/track/3JoLDRWBBqGpGgOurrya6q) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [AGOGO](https://open.spotify.com/album/6pI6IwMoJ22KvSHLJ1Qwzl) | 3:07 |
-| 15 | [LAMARA](https://open.spotify.com/track/2evEgI8mF6pghXh7Vh7lhj) | [Dizzy DROS](https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh), [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [AFLAM](https://open.spotify.com/album/1vItvhhDGdNB7pydJRG2pz) | 2:59 |
+| 13 | [AGOGO](https://open.spotify.com/track/3JoLDRWBBqGpGgOurrya6q) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [AGOGO](https://open.spotify.com/album/6pI6IwMoJ22KvSHLJ1Qwzl) | 3:07 |
+| 14 | [LAMARA](https://open.spotify.com/track/2evEgI8mF6pghXh7Vh7lhj) | [Dizzy DROS](https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh), [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [AFLAM](https://open.spotify.com/album/1vItvhhDGdNB7pydJRG2pz) | 2:59 |
+| 15 | [L7OB W DAMAR](https://open.spotify.com/track/3hiS98n1CFfjo1xXmVIBJk) | [21 Tach](https://open.spotify.com/artist/728dZrvljhCFhPJZvsEtDc) | [BACKGROUND](https://open.spotify.com/album/0TBYO9wCZ9bORB9srxxaBt) | 2:28 |
 | 16 | [PILLAVE](https://open.spotify.com/track/6oAXsyL0b1vm5G43jcfNa6) | [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1) | [PILLAVE](https://open.spotify.com/album/0MXsE7FbxHDgzAeqfglpe6) | 2:33 |
-| 17 | [Tamam](https://open.spotify.com/track/7i7htxgQ0Pzz44nElJUS6U) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm) | [Tamam](https://open.spotify.com/album/43zuBeEtrlWLvuFZHQNyg0) | 2:57 |
-| 18 | [ALTER EGO](https://open.spotify.com/track/40CuKUccAO41clJy6BWqzq) | [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [KAIZEN](https://open.spotify.com/album/7hOMhbsWbzTNupVFeRnoJt) | 2:52 |
-| 19 | [CANDYSHOP](https://open.spotify.com/track/6USOPDKalJAI5Zcu0T1RNt) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [DESPERADO](https://open.spotify.com/album/3Fhd5mu9DDnph1m4j9Hioo) | 2:30 |
-| 20 | [flou](https://open.spotify.com/track/7MYuqLsIpMLtmmPaIeq8GC) | [Jbiina](https://open.spotify.com/artist/07PTXfqQ4iSxTrVs24GjCR), [Tchubi](https://open.spotify.com/artist/4ouJcIm4Q12DGd0FpPSXO1) | [flou](https://open.spotify.com/album/6x1UxTIQK7m8DIC2wm5tBX) | 2:09 |
-| 21 | [WA3RA](https://open.spotify.com/track/11MYMwWGKHlq1SSnKB6mQY) | [Mirv48](https://open.spotify.com/artist/2ORmu3PJ825VSiXknGy6Ma) | [WA3RA](https://open.spotify.com/album/19yoWQ361CpjXcqwJCdFC8) | 2:21 |
-| 22 | [10 JANVIER](https://open.spotify.com/track/0HX2NuShIsmSyHmlVl9pwK) | [VALEN](https://open.spotify.com/artist/32W9lYj8vdjc0TsHaQs1vz) | [ELEMENTS](https://open.spotify.com/album/3iEFRyxaPao392F11XQHHn) | 2:50 |
-| 23 | [Casanightmare](https://open.spotify.com/track/65dVh1R2J7aoKTSJtIqzQV) | [Gustavo 51](https://open.spotify.com/artist/2rHNFU9YnHNRjqpcT6VxPY), [Valerieblud](https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX) | [Casanightmare](https://open.spotify.com/album/4LhaAJDLMifJOgHjwFMVf8) | 3:09 |
-| 24 | [XACTEMENT](https://open.spotify.com/track/2wKLviQzTUVihGpjFVpwXQ) | [Moovd](https://open.spotify.com/artist/4WnGLrDSdRM7jnJjSVdBeR) | [XACTEMENT](https://open.spotify.com/album/5qHxgZIRM7QrChk7bl8JYH) | 2:29 |
-| 25 | [Risala](https://open.spotify.com/track/5iM87ni0SUEA0xcWOG8NQF) | [Kira7](https://open.spotify.com/artist/4Dx76KCxqLn2RB7fwtgW17), [FRIZZY](https://open.spotify.com/artist/6lje8MItIXqiZ1fvg4ti3a) | [Risala](https://open.spotify.com/album/0fEiC5AgwQAhOrvDFW7sRU) | 3:16 |
-| 26 | [RWINA](https://open.spotify.com/track/1wNQEZIB3NGITP3hXO855l) | [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk), [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [OLYMPICS](https://open.spotify.com/album/4cpZ5lDJdxU4AxY9G42dp8) | 3:25 |
-| 27 | [Jamaican](https://open.spotify.com/track/3YqxmbZW7LLyt7ZG0WlMCK) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3) | [Jamaican](https://open.spotify.com/album/4NaZZ5lcaDevJRlSwkwYEh) | 2:53 |
-| 28 | [Me vs Me](https://open.spotify.com/track/5CMUepX7SK54Qcu9Izwbyr) | [Dony](https://open.spotify.com/artist/5SPuVApDsQW9TH1UyFWtWu) | [Me vs Me](https://open.spotify.com/album/155Q6KeC5LqtwdFTFYKVUa) | 1:57 |
+| 17 | [flou](https://open.spotify.com/track/7MYuqLsIpMLtmmPaIeq8GC) | [Jbiina](https://open.spotify.com/artist/07PTXfqQ4iSxTrVs24GjCR), [Tchubi](https://open.spotify.com/artist/4ouJcIm4Q12DGd0FpPSXO1) | [flou](https://open.spotify.com/album/6x1UxTIQK7m8DIC2wm5tBX) | 2:09 |
+| 18 | [Tamam](https://open.spotify.com/track/7i7htxgQ0Pzz44nElJUS6U) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm) | [Tamam](https://open.spotify.com/album/43zuBeEtrlWLvuFZHQNyg0) | 2:57 |
+| 19 | [ALTER EGO](https://open.spotify.com/track/40CuKUccAO41clJy6BWqzq) | [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [KAIZEN](https://open.spotify.com/album/7hOMhbsWbzTNupVFeRnoJt) | 2:52 |
+| 20 | [CANDYSHOP](https://open.spotify.com/track/6USOPDKalJAI5Zcu0T1RNt) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [DESPERADO](https://open.spotify.com/album/3Fhd5mu9DDnph1m4j9Hioo) | 2:30 |
+| 21 | [XACTEMENT](https://open.spotify.com/track/2wKLviQzTUVihGpjFVpwXQ) | [Moovd](https://open.spotify.com/artist/4WnGLrDSdRM7jnJjSVdBeR) | [XACTEMENT](https://open.spotify.com/album/5qHxgZIRM7QrChk7bl8JYH) | 2:29 |
+| 22 | [WA3RA](https://open.spotify.com/track/11MYMwWGKHlq1SSnKB6mQY) | [Mirv48](https://open.spotify.com/artist/2ORmu3PJ825VSiXknGy6Ma) | [WA3RA](https://open.spotify.com/album/19yoWQ361CpjXcqwJCdFC8) | 2:21 |
+| 23 | [10 JANVIER](https://open.spotify.com/track/0HX2NuShIsmSyHmlVl9pwK) | [VALEN](https://open.spotify.com/artist/32W9lYj8vdjc0TsHaQs1vz) | [ELEMENTS](https://open.spotify.com/album/3iEFRyxaPao392F11XQHHn) | 2:50 |
+| 24 | [Casanightmare](https://open.spotify.com/track/65dVh1R2J7aoKTSJtIqzQV) | [Gustavo 51](https://open.spotify.com/artist/2rHNFU9YnHNRjqpcT6VxPY), [Valerieblud](https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX) | [Casanightmare](https://open.spotify.com/album/4LhaAJDLMifJOgHjwFMVf8) | 3:09 |
+| 25 | [Me vs Me](https://open.spotify.com/track/5CMUepX7SK54Qcu9Izwbyr) | [Dony](https://open.spotify.com/artist/5SPuVApDsQW9TH1UyFWtWu) | [Me vs Me](https://open.spotify.com/album/155Q6KeC5LqtwdFTFYKVUa) | 1:57 |
+| 26 | [Risala](https://open.spotify.com/track/5iM87ni0SUEA0xcWOG8NQF) | [Kira7](https://open.spotify.com/artist/4Dx76KCxqLn2RB7fwtgW17), [FRIZZY](https://open.spotify.com/artist/6lje8MItIXqiZ1fvg4ti3a) | [Risala](https://open.spotify.com/album/0fEiC5AgwQAhOrvDFW7sRU) | 3:16 |
+| 27 | [RWINA](https://open.spotify.com/track/1wNQEZIB3NGITP3hXO855l) | [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk), [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [OLYMPICS](https://open.spotify.com/album/4cpZ5lDJdxU4AxY9G42dp8) | 3:25 |
+| 28 | [Jamaican](https://open.spotify.com/track/3YqxmbZW7LLyt7ZG0WlMCK) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3) | [Jamaican](https://open.spotify.com/album/4NaZZ5lcaDevJRlSwkwYEh) | 2:53 |
 | 29 | [Lhouma](https://open.spotify.com/track/3cUcxgPW9sVomnspNZbaHA) | [Yvzid](https://open.spotify.com/artist/1hiAzHtDperYB5FhcWzJsW) | [Lhouma](https://open.spotify.com/album/4dlbre35ZWgCEqdgdAt70S) | 3:32 |
 | 30 | [SAMEDI \(feat\. Shaw\)](https://open.spotify.com/track/7fZb2RuXEEMnFBW3KNZt7D) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1) | [SALGOAT \(Vol\. 2\)](https://open.spotify.com/album/2uTTqkwq1aAU7fj99UcOoF) | 3:16 |
 | 31 | [DFN](https://open.spotify.com/track/17iZsqaEjJzADt8utMl80n) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [SPLIT](https://open.spotify.com/album/0v2yXgpOX31IRK27a8dcq3) | 3:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 | 49 | [OTAGE](https://open.spotify.com/track/09CMjY5ObC4G9NNyGH7Upc) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [DESPERADO](https://open.spotify.com/album/3Fhd5mu9DDnph1m4j9Hioo) | 3:13 |
 | 50 | [CVP](https://open.spotify.com/track/3ZHISEni91oxZLbjDmtsAy) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [SALGOAT \(Vol\. 2\)](https://open.spotify.com/album/2uTTqkwq1aAU7fj99UcOoF) | 2:47 |
 
-Snapshot ID: `AAAAAMZiak4VGeDNiwoXVQzSf/vWiSmg`
+Snapshot ID: `AAAAAIcd0Dba2hMIa04kwEA/H5Gsa02U`

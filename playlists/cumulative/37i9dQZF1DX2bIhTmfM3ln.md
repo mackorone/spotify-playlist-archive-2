@@ -4,7 +4,7 @@
 
 > love is in the air...breathe in
 
-1,084 songs - 2 day 4 hr 7 min
+1,085 songs - 2 day 4 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -884,7 +884,7 @@
 | [Shakomo](https://open.spotify.com/track/4qZYiNCe3OKkdW8XVQTWOZ) | [Kel\-P](https://open.spotify.com/artist/4j2hypl84JFGRz00du5JT8) | [Shakomo](https://open.spotify.com/album/63IjmA8PmGon2zeqIri90Z) | 2:30 | 2026-08-07 | 2026-08-20 |
 | [Sharp Attack](https://open.spotify.com/track/2W45RFSn0zM0eH0GFHimHS) | [Ninety](https://open.spotify.com/artist/221i8CC98rJBZAaMM9sGLK) | [Sharp Attack](https://open.spotify.com/album/0SjvPXWpMpndsohnyiS5n0) | 2:43 | 2023-09-09 | 2023-09-15 |
 | [Sharpally](https://open.spotify.com/track/19IAoqAkRQ5tC1U0p7SWpZ) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Sharpally](https://open.spotify.com/album/7adhYj6nGEGJots1OpYgdg) | 2:43 | 2023-07-20 | 2024-06-28 |
-| [Shayo](https://open.spotify.com/track/56N21lxpXGBDoDhJ8YcIna) | [Brown Joel](https://open.spotify.com/artist/2A9kNdL3S9DKEIjhZJZZfM), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [High Spirit](https://open.spotify.com/album/1HNIge0hzBU9TJIsGS83Rj) | 2:49 | 2025-10-17 |  |
+| [Shayo](https://open.spotify.com/track/56N21lxpXGBDoDhJ8YcIna) | [Brown Joel](https://open.spotify.com/artist/2A9kNdL3S9DKEIjhZJZZfM), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [High Spirit](https://open.spotify.com/album/1HNIge0hzBU9TJIsGS83Rj) | 2:49 | 2025-10-17 | 2026-11-15 |
 | [She Said](https://open.spotify.com/track/24WrsFDNWrRiyBnJa5eSJj) | [Carla Prata](https://open.spotify.com/artist/7vWp4MLdsECG1Dmu5NDLRS), [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx) | [She Said](https://open.spotify.com/album/3To0wqAZiL8bcjRK7XsSK5) | 2:28 | 2025-05-16 | 2025-07-17 |
 | [Shigege](https://open.spotify.com/track/4XEISBCIAK72Qcfi0gDftu) | [Rvdical the Kid](https://open.spotify.com/artist/4eu9GW8WwzF6n6fb34COES), [Yung D3mz](https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf) | [Shigege](https://open.spotify.com/album/0kg93Sqf3m9RvZaXTzrnxl) | 2:35 | 2024-11-29 | 2024-12-17 |
 | [Shine](https://open.spotify.com/track/06TDTjD7efqsLwhXKv0bci) | [Elaine](https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx) | [Shine](https://open.spotify.com/album/4dyua6pD9i0Ht460lB6JOG) | 3:02 | 2022-03-18 | 2023-03-04 |
@@ -961,6 +961,7 @@
 | [Sweet Tea \(Aduke\)](https://open.spotify.com/track/1L7mOi50c91uzwkmeUhClS) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Sweet Tea \(Aduke\)](https://open.spotify.com/album/419GRX5ILJgc9uIMlxFWBB) | 2:29 | 2023-09-09 | 2024-05-24 |
 | [TA NA](https://open.spotify.com/track/1AVlcHWrzy9efKVfyyuFAj) | [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT), [BGRZ](https://open.spotify.com/artist/6ZqlzWhnD6ctHRKh59uzMz) | [TA NA](https://open.spotify.com/album/5A2zjOMDnL63dcJIKRLZrx) | 3:22 | 2025-07-11 | 2025-08-26 |
 | [Ta Ta Ta \(with Jason Derulo\)](https://open.spotify.com/track/1LRGZESVn8eF7WVY5DzLNy) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Ta Ta Ta \(with Jason Derulo\)](https://open.spotify.com/album/6plZIBIIAhS0URu19s65O1) | 2:39 | 2023-04-14 | 2023-09-29 |
+| [Take Away](https://open.spotify.com/track/2nbe4zL3CBDuanu7HzmEQT) | [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6), [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ) | [Take Away](https://open.spotify.com/album/1slYaqmgpal5K94Vz58XNb) | 2:44 | 2026-11-13 |  |
 | [Talk](https://open.spotify.com/track/7LXdDDxVEMkETCMw3SX9da) | [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT) | [Talk](https://open.spotify.com/album/4rAvN7aWSeV7E13e18MCUL) | 3:16 | 2024-10-25 | 2025-08-09 |
 | [Tattoo](https://open.spotify.com/track/7yIsvwkZuWuskQrbtVWfrN) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [APOLLO](https://open.spotify.com/album/6HdrMYu33mRMYPEDB8MbPq) | 2:56 | 2022-02-11 | 2024-02-16 |
 | [Te Amo](https://open.spotify.com/track/1Bj8o6sOn78GviMwhUN8qP) | [Hyce](https://open.spotify.com/artist/1KQuzZH1ix85vt0n3iiRTA) | [Te Amo](https://open.spotify.com/album/6WwBsXaOOx96NYudFyd8w0) | 2:44 | 2026-03-20 | 2026-04-21 |

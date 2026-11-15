@@ -4,7 +4,7 @@
 
 > This is Rich Homie Quan\. The essential tracks, all in one playlist.
 
-96 songs - 5 hr 35 min
+97 songs - 5 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Ah'chi](https://open.spotify.com/track/5suBeiydHdrdMvMV98wOQp) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Ah'chi](https://open.spotify.com/album/4ktxz9GRn32r4GWaHogUr5) | 3:40 | 2024-09-07 | 2025-03-02 |
 | [Ah'chi](https://open.spotify.com/track/5sGsxrtnw9Z725OC5KOTkJ) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Forever Goin In](https://open.spotify.com/album/2ckUVZOABzUQhe3nwihUrh) | 3:41 | 2025-03-02 | 2025-05-22 |
 | [Authentic \(feat\. Clever\)](https://open.spotify.com/track/3476C9I5Qad2eqlGnrRspF) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT), [Clever](https://open.spotify.com/artist/5yy76ufVriyvidNSvXlRU1), [Matt Monaco](https://open.spotify.com/artist/5HNAKwy6K9OwZO1zkO6vax) | [Authentic \(feat\. Clever\)](https://open.spotify.com/album/1uAmD5f6sOUFpPnPDaR7ns) | 3:12 | 2024-09-07 | 2025-02-16 |
+| [Because of Me](https://open.spotify.com/track/3yyE9HiL7fudAW4FKB2Nh8) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [No Label Vol\. 2](https://open.spotify.com/album/3pwlC4orDoqHDiDImGAqcj) | 3:55 | 2026-11-15 |  |
 | [Blah Blah Blah](https://open.spotify.com/track/2NR2i4RnPZNKs85Anpyqel) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [I Promise I Will Never Stop Going In \(Deluxe Edition\)](https://open.spotify.com/album/2swWrUelezIoSdBWStNisb) | 3:12 | 2024-09-07 |  |
 | [Can't Judge Her](https://open.spotify.com/track/5CYxGXwAl0rFol5Tc8dDLD) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Still Goin In](https://open.spotify.com/album/5RhyJl0ok0NDKiHjDVg9Z9) | 3:32 | 2024-09-14 | 2024-10-09 |
 | [Celebrate \(feat\. Rich Homie Quan\)](https://open.spotify.com/track/7uxbabRF4omY1MhmIgaZ6Y) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Baby On Baby](https://open.spotify.com/album/0O1PJ0t69iTO5yWrIeIga0) | 3:12 | 2024-09-07 | 2026-08-08 |
@@ -71,7 +72,7 @@
 | [One of Quan](https://open.spotify.com/track/6p6pqAuoA9xDuyenxpzojG) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Forever Goin In](https://open.spotify.com/album/41w5rKjLxKI735hBuQ8RAs) | 3:08 | 2025-08-25 | 2025-10-05 |
 | [One of Quan](https://open.spotify.com/track/70SqOG5NhnhH5HJQCgqTUO) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Forever Goin In](https://open.spotify.com/album/2ckUVZOABzUQhe3nwihUrh) | 3:08 | 2024-10-09 | 2025-04-21 |
 | [Pallbearer](https://open.spotify.com/track/2YSSQfTGBEaAJM1Si39x1O) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [GIA : Going In Afterlife](https://open.spotify.com/album/2f3YBB9FG6FPZN2HYNoask) | 2:04 | 2026-10-16 |  |
-| [Perfect Flower](https://open.spotify.com/track/0k2zadj0ibcTAPXcGg6t7a) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Rich As In Spirit](https://open.spotify.com/album/5vW8xhq1cIBvC8IXOfPss7) | 3:34 | 2025-09-26 |  |
+| [Perfect Flower](https://open.spotify.com/track/0k2zadj0ibcTAPXcGg6t7a) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Rich As In Spirit](https://open.spotify.com/album/5vW8xhq1cIBvC8IXOfPss7) | 3:34 | 2025-09-26 | 2026-11-15 |
 | [Posture](https://open.spotify.com/track/6wFeNkWs0d65x46Xcgv8iL) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [GIA : Going In Afterlife](https://open.spotify.com/album/2f3YBB9FG6FPZN2HYNoask) | 2:14 | 2026-10-10 | 2026-10-20 |
 | [Private Room](https://open.spotify.com/track/6NtUvEqIOgO1rRkQk6F0aE) | [Boosie Badazz](https://open.spotify.com/artist/6z7xFFHxYkE9t8bwIF0Bvg), [Tony Michael](https://open.spotify.com/artist/5DVMoEqGsSj3jFCIR2inf8), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Private Room \(feat\. Rich Homie Quan\) \- Single](https://open.spotify.com/album/1EZPtQxaaD648L0RXVBUXZ) | 3:17 | 2024-09-07 |  |
 | [RedBone](https://open.spotify.com/track/2tEvKwNUradPTkXpGnbDyv) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Coma](https://open.spotify.com/album/5IwKLJtOvYIc6wPxHXdKDd) | 4:13 | 2024-10-03 | 2026-10-18 |

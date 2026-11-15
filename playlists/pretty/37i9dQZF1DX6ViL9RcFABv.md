@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ViL9RcFABv.md) - [plain]
 
 > Uma playlist de pura alma pop! Foto: João Só, Tiago Nogueira
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,626 likes - 75 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,627 likes - 75 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ViL9RcFABv.md) - [plain]
 | 66 | [Ó Miu Amor!](https://open.spotify.com/track/3VRpnJwXZacoPeTCNnL5Rv) | [Pedro Gonçalves](https://open.spotify.com/artist/234hezB1llSvVZqgtLVdzf), [Pauliteiros de Miranda \(Beiladores de Picuote\)](https://open.spotify.com/artist/6GP5MHV1AhH5SLwntr1t7e) | [Ó Miu Amor!](https://open.spotify.com/album/5z8zFzzKaxds2ibuFVozZb) | 3:55 |
 | 67 | [Parvo Que Sou](https://open.spotify.com/track/4GaQsChXx9hG7gTewYzK0j) | [Resistencia](https://open.spotify.com/artist/4irQFOvJpHzEz71jyEpJ7I) | [Parvo Que Sou](https://open.spotify.com/album/7ydMS56S2gcNy3ACyVDLER) | 4:31 |
 | 68 | [Paragem](https://open.spotify.com/track/501AJ5a3BH7JoBkh4lkp0R) | [Mariana Pereira](https://open.spotify.com/artist/6OFJLqSjsWsigPp8MTcNHm) | [Paragem](https://open.spotify.com/album/4RAN0aWYDZgfRCJyrSLW95) | 2:57 |
-| 69 | [Nos Desenhos Animados \(Nunca Acaba Mal\) \- Ao Vivo No Coliseu Do Porto](https://open.spotify.com/track/40mYWVg9HJpvUCnPJsYFUL) | [Os Azeitonas](https://open.spotify.com/artist/580DM82FybhvbJYUtEjkEz) | [Nos Desenhos Animados \(Nunca Acaba Mal\) \[Ao Vivo No Coliseu Do Porto\]](https://open.spotify.com/album/0VCNfxfuXDNqpedFVG7M4J) | 5:03 |
+| 69 | [Nos Desenhos Animados \(Nunca Acaba Mal\) \- 20 Anos Ao Vivo no Coliseu Do Porto](https://open.spotify.com/track/40mYWVg9HJpvUCnPJsYFUL) | [Os Azeitonas](https://open.spotify.com/artist/580DM82FybhvbJYUtEjkEz) | [Nos Desenhos Animados \(Nunca Acaba Mal\) \[20 Anos Ao Vivo no Coliseu Do Porto\]](https://open.spotify.com/album/0VCNfxfuXDNqpedFVG7M4J) | 5:03 |
 | 70 | [A Minha Gente](https://open.spotify.com/track/5fN2X1bs5Ux9RsoRBgQdpY) | [Mimicat](https://open.spotify.com/artist/7tTVBmiE9WeEDQdW3Q0Wn6) | [A Minha Gente](https://open.spotify.com/album/6yBhBpKdAkvseC0FwlJsgh) | 3:18 |
 | 71 | [POUCA AÇÃO](https://open.spotify.com/track/4CNNxC0M9lSlC2NtDopz2k) | [Mia Benita](https://open.spotify.com/artist/7JUhLYbVExHkPDu3i2fc4e) | [MIA](https://open.spotify.com/album/3Atrd1sPOXBjtVkJaqTrDq) | 3:10 |
 | 72 | [Amor Acabou](https://open.spotify.com/track/0Iuy7e2ZKNdqGr6QjjJHJ6) | [Mastiksoul](https://open.spotify.com/artist/3pnuQEuaodUTHoX0AEsw1h), [Fábia Rebordão](https://open.spotify.com/artist/69pyHop8tJeAxGZDxDYFr8) | [Amor Acabou](https://open.spotify.com/album/5NBb9gd7twMk2ZarIQLPkf) | 3:16 |

@@ -1,12 +1,12 @@
 {
   "description": "De Argentina para el mundo, los m\u00e1s destacados int\u00e9rpretes y compositores. Foto: Mariano Otero",
-  "num_followers": 34353,
+  "num_followers": 34358,
   "original_name": "Jazz Argentino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAH8gQwU53LWR8ZcygJH8zbTWP3sr",
+  "snapshot_id": "AAAAAAI5+bye1B8gT/6R0+cs0ZdLZv9v",
   "tracks": [
     {
       "added_at": "2026-11-06 03:00:30",
@@ -167,22 +167,18 @@
     {
       "added_at": "2026-11-06 03:00:30",
       "album": {
-        "name": "L\u00fadico",
-        "url": "https://open.spotify.com/album/2sZ7QbXywKgxPJRSsuLRhb"
+        "name": "Bajo Piel",
+        "url": "https://open.spotify.com/album/0LxsfT1gTQ9cOwbPi3q9IH"
       },
       "artists": [
         {
-          "name": "Francisco De Rosa",
-          "url": "https://open.spotify.com/artist/7L94fTdnKbG07A0lVCCeu7"
-        },
-        {
-          "name": "Francisco De Rosa Quinteto",
-          "url": "https://open.spotify.com/artist/2pEmQvGc28QuYWMoDKSOIx"
+          "name": "Guillermo Vadala",
+          "url": "https://open.spotify.com/artist/16Zrj1Fc0tOeRmdBGftuhD"
         }
       ],
-      "duration_ms": 306999,
-      "name": "Vengo a ofrecer mi coraz\u00f3n (Fito P\u00e1ez) - Francisco De Rosa (Ss), Horacio \"Kid\" Leotta (Tp), Gustavo Barrag\u00e1n (Guit), Pablo Elorza (Bass) y Santiago Hern\u00e1ndez (Drum)",
-      "url": "https://open.spotify.com/track/5p8TjTMINuuCCBpSWknwHI"
+      "duration_ms": 301000,
+      "name": "Willie",
+      "url": "https://open.spotify.com/track/1V8VQPFws4O1CrOuR4H8NF"
     },
     {
       "added_at": "2026-11-06 03:00:30",
@@ -203,18 +199,22 @@
     {
       "added_at": "2026-11-06 03:00:30",
       "album": {
-        "name": "Bajo Piel",
-        "url": "https://open.spotify.com/album/0LxsfT1gTQ9cOwbPi3q9IH"
+        "name": "L\u00fadico",
+        "url": "https://open.spotify.com/album/2sZ7QbXywKgxPJRSsuLRhb"
       },
       "artists": [
         {
-          "name": "Guillermo Vadala",
-          "url": "https://open.spotify.com/artist/16Zrj1Fc0tOeRmdBGftuhD"
+          "name": "Francisco De Rosa",
+          "url": "https://open.spotify.com/artist/7L94fTdnKbG07A0lVCCeu7"
+        },
+        {
+          "name": "Francisco De Rosa Quinteto",
+          "url": "https://open.spotify.com/artist/2pEmQvGc28QuYWMoDKSOIx"
         }
       ],
-      "duration_ms": 301000,
-      "name": "Willie",
-      "url": "https://open.spotify.com/track/1V8VQPFws4O1CrOuR4H8NF"
+      "duration_ms": 306999,
+      "name": "Vengo a ofrecer mi coraz\u00f3n (Fito P\u00e1ez) - Francisco De Rosa (Ss), Horacio \"Kid\" Leotta (Tp), Gustavo Barrag\u00e1n (Guit), Pablo Elorza (Bass) y Santiago Hern\u00e1ndez (Drum)",
+      "url": "https://open.spotify.com/track/5p8TjTMINuuCCBpSWknwHI"
     },
     {
       "added_at": "2026-11-06 03:00:30",
@@ -491,22 +491,6 @@
     {
       "added_at": "2026-11-06 03:00:30",
       "album": {
-        "name": "Nude (En Vivo)",
-        "url": "https://open.spotify.com/album/6EgEoC0cgQtzv6v7RC24cH"
-      },
-      "artists": [
-        {
-          "name": "In\u00e9s Est\u00e9vez",
-          "url": "https://open.spotify.com/artist/3kpzLtvkHcjmix7BO6GZcq"
-        }
-      ],
-      "duration_ms": 305108,
-      "name": "Learning the Blues - En Vivo",
-      "url": "https://open.spotify.com/track/4r4IhvaFjRHSX7C2B671Jf"
-    },
-    {
-      "added_at": "2026-11-06 03:00:30",
-      "album": {
         "name": "Swing Summit",
         "url": "https://open.spotify.com/album/1PXGn6AZXkN0wYsmzaX8Ed"
       },
@@ -531,26 +515,18 @@
     {
       "added_at": "2026-11-06 03:00:30",
       "album": {
-        "name": "Pianistico (Junto a Lito Vitale)",
-        "url": "https://open.spotify.com/album/4RirLmsbvetn3o23WRSUE4"
+        "name": "Nude (En Vivo)",
+        "url": "https://open.spotify.com/album/6EgEoC0cgQtzv6v7RC24cH"
       },
       "artists": [
         {
-          "name": "Alejo Leon",
-          "url": "https://open.spotify.com/artist/3GUkiSQ2yK6hHubgoLQVmm"
-        },
-        {
-          "name": "Joana Gieco",
-          "url": "https://open.spotify.com/artist/5yFDRiZNBV7oHf4es80nfG"
-        },
-        {
-          "name": "Lito Vitale",
-          "url": "https://open.spotify.com/artist/7lw1BVWquad5hKtDPU26JG"
+          "name": "In\u00e9s Est\u00e9vez",
+          "url": "https://open.spotify.com/artist/3kpzLtvkHcjmix7BO6GZcq"
         }
       ],
-      "duration_ms": 344624,
-      "name": "Pianistico (Junto a Lito Vitale)",
-      "url": "https://open.spotify.com/track/1ABl9JwT8wDDu0VkVuQu6v"
+      "duration_ms": 305108,
+      "name": "Learning the Blues - En Vivo",
+      "url": "https://open.spotify.com/track/4r4IhvaFjRHSX7C2B671Jf"
     },
     {
       "added_at": "2026-11-06 03:00:30",
@@ -595,18 +571,26 @@
     {
       "added_at": "2026-11-06 03:00:30",
       "album": {
-        "name": "Umbral de M\u00ed",
-        "url": "https://open.spotify.com/album/7MTwHtpJEAa2ACYFBbkmUR"
+        "name": "Pianistico (Junto a Lito Vitale)",
+        "url": "https://open.spotify.com/album/4RirLmsbvetn3o23WRSUE4"
       },
       "artists": [
         {
-          "name": "Mariano Otero",
-          "url": "https://open.spotify.com/artist/48Dbz6uh32ESOMasfSP1DV"
+          "name": "Alejo Leon",
+          "url": "https://open.spotify.com/artist/3GUkiSQ2yK6hHubgoLQVmm"
+        },
+        {
+          "name": "Joana Gieco",
+          "url": "https://open.spotify.com/artist/5yFDRiZNBV7oHf4es80nfG"
+        },
+        {
+          "name": "Lito Vitale",
+          "url": "https://open.spotify.com/artist/7lw1BVWquad5hKtDPU26JG"
         }
       ],
-      "duration_ms": 296653,
-      "name": "Luna",
-      "url": "https://open.spotify.com/track/2H1sdS7KlyjPhnEVa7IOej"
+      "duration_ms": 344624,
+      "name": "Pianistico (Junto a Lito Vitale)",
+      "url": "https://open.spotify.com/track/1ABl9JwT8wDDu0VkVuQu6v"
     },
     {
       "added_at": "2026-11-06 03:00:30",
@@ -627,22 +611,18 @@
     {
       "added_at": "2026-11-06 03:00:30",
       "album": {
-        "name": "El Reino del Rev\u00e9s",
-        "url": "https://open.spotify.com/album/2ozvBrtW3avwSSX3nkO8dx"
+        "name": "Umbral de M\u00ed",
+        "url": "https://open.spotify.com/album/7MTwHtpJEAa2ACYFBbkmUR"
       },
       "artists": [
         {
-          "name": "Elena Roger",
-          "url": "https://open.spotify.com/artist/3i3ZiJGsP5tkz69ad7Mbie"
-        },
-        {
-          "name": "Escalandrum",
-          "url": "https://open.spotify.com/artist/3QZEbpYuO36TVmqHEbxpkZ"
+          "name": "Mariano Otero",
+          "url": "https://open.spotify.com/artist/48Dbz6uh32ESOMasfSP1DV"
         }
       ],
-      "duration_ms": 216099,
-      "name": "El Reino del Rev\u00e9s",
-      "url": "https://open.spotify.com/track/0Jf4E2gqM2ZpRQCsQcvhFD"
+      "duration_ms": 296653,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/2H1sdS7KlyjPhnEVa7IOej"
     },
     {
       "added_at": "2026-11-06 03:00:30",
@@ -659,6 +639,26 @@
       "duration_ms": 468087,
       "name": "Sol La, Al Sol",
       "url": "https://open.spotify.com/track/22Iyd8cBIkbaJMPXBoxEzb"
+    },
+    {
+      "added_at": "2026-11-06 03:00:30",
+      "album": {
+        "name": "El Reino del Rev\u00e9s",
+        "url": "https://open.spotify.com/album/2ozvBrtW3avwSSX3nkO8dx"
+      },
+      "artists": [
+        {
+          "name": "Elena Roger",
+          "url": "https://open.spotify.com/artist/3i3ZiJGsP5tkz69ad7Mbie"
+        },
+        {
+          "name": "Escalandrum",
+          "url": "https://open.spotify.com/artist/3QZEbpYuO36TVmqHEbxpkZ"
+        }
+      ],
+      "duration_ms": 216099,
+      "name": "El Reino del Rev\u00e9s",
+      "url": "https://open.spotify.com/track/0Jf4E2gqM2ZpRQCsQcvhFD"
     },
     {
       "added_at": "2026-11-06 03:00:30",
@@ -915,6 +915,22 @@
     {
       "added_at": "2026-11-06 03:00:30",
       "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/56Qlx9sxkd5BYwbTyVjiGs"
+      },
+      "artists": [
+        {
+          "name": "Hern\u00e1n Merlo",
+          "url": "https://open.spotify.com/artist/3OEixa8KjmUUfUWNCbn60c"
+        }
+      ],
+      "duration_ms": 342480,
+      "name": "Comrade Conrad",
+      "url": "https://open.spotify.com/track/3Ln9JbUdOg9likPwczb55p"
+    },
+    {
+      "added_at": "2026-11-06 03:00:30",
+      "album": {
         "name": "Influencias",
         "url": "https://open.spotify.com/album/2Y4W9eQipZ4xcQ2uOIZImY"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 285487,
       "name": "Se\u00fal",
       "url": "https://open.spotify.com/track/2CS2wZySNIklLsBZt4rLjj"
-    },
-    {
-      "added_at": "2026-11-06 03:00:30",
-      "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/56Qlx9sxkd5BYwbTyVjiGs"
-      },
-      "artists": [
-        {
-          "name": "Hern\u00e1n Merlo",
-          "url": "https://open.spotify.com/artist/3OEixa8KjmUUfUWNCbn60c"
-        }
-      ],
-      "duration_ms": 342480,
-      "name": "Comrade Conrad",
-      "url": "https://open.spotify.com/track/3Ln9JbUdOg9likPwczb55p"
     },
     {
       "added_at": "2026-11-06 03:00:30",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2026-11-06 03:00:30",
       "album": {
-        "name": "Reuni\u00f3n",
-        "url": "https://open.spotify.com/album/1pAheMkdST8sR3A4r84opB"
-      },
-      "artists": [
-        {
-          "name": "Pepi Taveira",
-          "url": "https://open.spotify.com/artist/1KQUkFUXWpIqmoFw3YN1x2"
-        }
-      ],
-      "duration_ms": 389440,
-      "name": "Reuni\u00f3n",
-      "url": "https://open.spotify.com/track/0vUIDEAZfLQWRftPSJZmM7"
-    },
-    {
-      "added_at": "2026-11-06 03:00:30",
-      "album": {
         "name": "Fragmentos del mundo",
         "url": "https://open.spotify.com/album/0YIdJlNDggyPgR5MUyVozG"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 329264,
       "name": "El cristal de los otros",
       "url": "https://open.spotify.com/track/0lgUHiqSw3Y5k8Kfvi1eb0"
+    },
+    {
+      "added_at": "2026-11-06 03:00:30",
+      "album": {
+        "name": "Reuni\u00f3n",
+        "url": "https://open.spotify.com/album/1pAheMkdST8sR3A4r84opB"
+      },
+      "artists": [
+        {
+          "name": "Pepi Taveira",
+          "url": "https://open.spotify.com/artist/1KQUkFUXWpIqmoFw3YN1x2"
+        }
+      ],
+      "duration_ms": 389440,
+      "name": "Reuni\u00f3n",
+      "url": "https://open.spotify.com/track/0vUIDEAZfLQWRftPSJZmM7"
     },
     {
       "added_at": "2026-11-06 03:00:30",

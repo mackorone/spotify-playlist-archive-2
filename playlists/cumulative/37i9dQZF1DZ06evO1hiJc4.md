@@ -4,7 +4,7 @@
 
 > This is Labrinth\. The essential tracks, all in one playlist.
 
-116 songs - 5 hr 47 min
+117 songs - 5 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Can't Cure This](https://open.spotify.com/track/30yKtsU0Mdxa1RT9Oetlnz) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Prelude](https://open.spotify.com/album/0JYGSTiMzkrngyJAj9aE6l) | 2:41 | 2025-09-23 | 2025-11-22 |
 | [Collectors & Mens](https://open.spotify.com/track/2OkX2rHcBZ0H3gsmz1wH6c) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [You&I](https://open.spotify.com/album/2yRy6535k5n7AZMb0BUqE8) | 5:13 | 2026-10-05 |  |
 | [Covering](https://open.spotify.com/track/79RRMy751roUzddljSSgbt) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Ends & Begins](https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v) | 3:13 | 2023-12-18 | 2026-06-02 |
-| [Debris](https://open.spotify.com/track/1tNCeieDWM4H5miALnbTbb) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [COSMIC OPERA ACT I](https://open.spotify.com/album/3vSeUipyxX4zU6gEl4f1iC) | 2:55 | 2026-02-01 |  |
+| [Debris](https://open.spotify.com/track/1tNCeieDWM4H5miALnbTbb) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [COSMIC OPERA ACT I](https://open.spotify.com/album/3vSeUipyxX4zU6gEl4f1iC) | 2:55 | 2026-02-01 | 2026-11-15 |
 | [Dracula \(Nate Sees Cassie\)](https://open.spotify.com/track/6Ka7QW7OFeYnuDcYJaDJSA) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [EUPHORIA SEASON 2 OFFICIAL SCORE \(FROM THE HBO ORIGINAL SERIES\)](https://open.spotify.com/album/43tSLc6ZxW8TTRLrBO0SU1) | 2:48 | 2024-08-13 | 2026-05-29 |
 | [Earthquake \(feat\. Tinie Tempah\)](https://open.spotify.com/track/3SxiAdI8dP9AaaEz1Z24mn) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp) | [Electronic Earth \(Expanded Edition\)](https://open.spotify.com/album/6PBBbXmYV7dKnaik0fjkOI) | 4:34 | 2023-12-18 |  |
 | [Elliot's Song \(with Dominic Fike, Zendaya & Labrinth\)](https://open.spotify.com/track/5BjcI61j62j5lDmJowxcRG) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [EUPHORIA SEASON 2 OFFICIAL SCORE \(FROM THE HBO ORIGINAL SERIES\)](https://open.spotify.com/album/43tSLc6ZxW8TTRLrBO0SU1) | 2:30 | 2023-12-18 |  |
@@ -105,6 +105,7 @@
 | [Still Don't Know My Name \(From "Euphoria: Season 1" Soundtrack\)](https://open.spotify.com/track/6N22FZs2ZhPBYi3b9XPajV) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Euphoria \(Original Score from the HBO Series\)](https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea) | 2:33 | 2023-12-18 |  |
 | [Still In Love With The Pain](https://open.spotify.com/track/6yLLjhFGtImerlDezUwIgD) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [COSMIC OPERA ACT I](https://open.spotify.com/album/3vSeUipyxX4zU6gEl4f1iC) | 3:21 | 2026-02-01 | 2026-05-31 |
 | [Studio](https://open.spotify.com/track/1PcPmfBJZymQgE1yZtBF4q) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [You&I](https://open.spotify.com/album/2yRy6535k5n7AZMb0BUqE8) | 5:10 | 2026-10-08 |  |
+| [Surrender](https://open.spotify.com/track/0GYHg6N2p70SppBvjTKihd) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Surrender](https://open.spotify.com/album/2owFZLBkylLGR6J98BDoWi) | 3:47 | 2026-11-15 |  |
 | [TARENTINO](https://open.spotify.com/track/3Z26mHKpT1gqU2gj7eFfsS) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [TARENTINO](https://open.spotify.com/album/2hizWLYL5xaA5gTlW17mRg) | 2:23 | 2026-05-20 | 2026-08-07 |
 | [The Feels](https://open.spotify.com/track/3l3iCfpZsxbxWJhYoiQNkD) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Ends & Begins](https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v) | 3:17 | 2023-12-18 |  |
 | [The Joy](https://open.spotify.com/track/3pk35boHOZ1GGJTtkDfRyG) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Prelude](https://open.spotify.com/album/0JYGSTiMzkrngyJAj9aE6l) | 0:38 | 2025-09-21 | 2025-10-18 |

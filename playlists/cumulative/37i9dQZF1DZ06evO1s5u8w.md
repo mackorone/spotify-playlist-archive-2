@@ -4,7 +4,7 @@
 
 > This is Talking Heads\. The essential tracks, all in one playlist.
 
-101 songs - 6 hr 58 min
+102 songs - 7 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Air \- 2005 Remaster](https://open.spotify.com/track/6XvpjZugZzMHa2nZ1uPOka) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Fear of Music \(Deluxe Version\)](https://open.spotify.com/album/5dVZpNJraoqCo3BssinMoo) | 3:34 | 2026-07-10 | 2026-07-20 |
 | [And She Was](https://open.spotify.com/track/5JwK7v6XhG0YgqDuCgzOy8) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Little Creatures](https://open.spotify.com/album/7IMqoztesjFDgyeibke8Jz) | 3:39 | 2024-05-18 |  |
 | [Animals](https://open.spotify.com/track/1HgzFXodDkTxATcCu6ZxDq) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Fear of Music](https://open.spotify.com/album/4OLsnJQPTX0S6lODXw1MqC) | 3:30 | 2025-01-18 | 2026-08-28 |
-| [Artists Only](https://open.spotify.com/track/0TESnUvaEm6IXp38352XZG) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [More Songs About Buildings and Food](https://open.spotify.com/album/39jsLMRmrTpfdq2vE4TCUe) | 3:35 | 2026-06-25 |  |
+| [Artists Only](https://open.spotify.com/track/0TESnUvaEm6IXp38352XZG) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [More Songs About Buildings and Food](https://open.spotify.com/album/39jsLMRmrTpfdq2vE4TCUe) | 3:35 | 2026-06-25 | 2026-11-15 |
 | [Artists Only \- 2005 Remaster](https://open.spotify.com/track/18VUNjOq2uRYxZP6nQGJva) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [More Songs About Buildings and Food \(Deluxe Version\)](https://open.spotify.com/album/01RJdKvXyz515O37itqMIJ) | 3:34 | 2024-05-18 | 2024-06-21 |
 | [Big Business / I Zimbra \(Live\) \- 2023 Remaster](https://open.spotify.com/track/0RKQbaU8oYf7XK4nfYxMNU) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Stop Making Sense \(Deluxe Edition\) \[Live\]](https://open.spotify.com/album/0ydE6hjtxC05pkX164DnuK) | 7:23 | 2024-05-18 | 2025-08-28 |
 | [Blind \- 2003 Remaster](https://open.spotify.com/track/7p2AcgfakS47Augp9NDdaS) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [The Best of Talking Heads](https://open.spotify.com/album/1UIoS9WbxcNNmvUGkWlfzU) | 4:58 | 2024-07-06 | 2026-02-11 |
@@ -31,6 +31,7 @@
 | [Don't Worry About the Government](https://open.spotify.com/track/7pAAeToDaCaFROvuu8pZ92) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Talking Heads '77](https://open.spotify.com/album/0r7o2FeARRr23EZ0TJ0a8S) | 3:00 | 2025-08-30 |  |
 | [Don't Worry About the Government \- 2005 Remaster](https://open.spotify.com/track/7zPfvP2sFsLxrKqezlvVm4) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Talking Heads '77 \(Deluxe Version\)](https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN) | 3:02 | 2024-05-18 | 2025-08-30 |
 | [Dream Operator \- 2005 Remaster](https://open.spotify.com/track/1eOcZTluAXwv5ZbvpEKnvy) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC), [Jerry Harrison](https://open.spotify.com/artist/1GkiKu2FJFSBrXSL8wKFzy) | [True Stories](https://open.spotify.com/album/5PvkD4XryLL9oC4NFItYIM) | 4:38 | 2026-08-26 | 2026-08-28 |
+| [Drugs \(Alternate Version\) \- 2026 Remaster](https://open.spotify.com/track/7ljYWjAw1UnGrPTpb69pmo) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Fear Of Music \(Super Deluxe Edition\)](https://open.spotify.com/album/2mJUQL7i5kgxHjOAZ1YScA) | 3:32 | 2026-11-15 |  |
 | [First Week / Last Week...Carefree](https://open.spotify.com/track/2GscQnQSHd0n8GXN0JCej1) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Talking Heads '77](https://open.spotify.com/album/0r7o2FeARRr23EZ0TJ0a8S) | 3:21 | 2026-08-26 | 2026-08-28 |
 | [Found a Job \(Alternate Version\) \- 2025 Remaster](https://open.spotify.com/track/0a3iqciobez5QNODXBaBeI) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Found a Job \(Alternate Version\) \[2025 Remaster\]](https://open.spotify.com/album/2Kb9fPzuyHVVU0TDBDOKTa) | 5:21 | 2025-05-31 | 2025-06-27 |
 | [Found a Job \- Live](https://open.spotify.com/track/7rWq4710VbhYigwobjNwni) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Stop Making Sense \(Live\)](https://open.spotify.com/album/4FR8Z6TvIsC56NLyNomNRE) | 3:15 | 2024-05-18 |  |

@@ -2570,7 +2570,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 129449,
       "name": "BMF \u200b(f\u200beat\u200b. Byron Messia, Fireboy DML\u200b)",
       "url": "https://open.spotify.com/track/5479b6rH90I7QnI5QF1vnA"
@@ -2712,7 +2712,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 164971,
       "name": "Bolonese",
       "url": "https://open.spotify.com/track/7DBSJmoCTvuUEO5V1FngrD"
@@ -4452,7 +4452,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 181495,
       "name": "DEARLY",
       "url": "https://open.spotify.com/track/3QfF2sGXISaMK4ClAnVYYN"
@@ -6672,7 +6672,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 192941,
       "name": "Hashtag",
       "url": "https://open.spotify.com/track/5TWz9SGcGlMuVFLmtUY1v8"
@@ -8196,6 +8196,24 @@
       "duration_ms": 265882,
       "name": "Kondo",
       "url": "https://open.spotify.com/track/7k6pqLzmKGrFC5DJfTKEJy"
+    },
+    {
+      "album": {
+        "name": "KOWOPE",
+        "url": "https://open.spotify.com/album/2L1fGehxU3KbiqKaPgKoAN"
+      },
+      "artists": [
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229811,
+      "name": "KOWOPE",
+      "url": "https://open.spotify.com/track/5mMkcsSWFnSzFsh9RF9NPO"
     },
     {
       "album": {
@@ -10516,6 +10534,28 @@
       "duration_ms": 151590,
       "name": "myfavourite.mp3",
       "url": "https://open.spotify.com/track/6GWhGNVv8OveWv7WK0sd0l"
+    },
+    {
+      "album": {
+        "name": "In Tunez We Trust Vol. 1",
+        "url": "https://open.spotify.com/album/7juWJSfCEy4gJ5AfQF63RO"
+      },
+      "artists": [
+        {
+          "name": "DJ Tunez",
+          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
+        },
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202758,
+      "name": "Na Money",
+      "url": "https://open.spotify.com/track/3t1pZTZDedrrHRbxlXeVA1"
     },
     {
       "album": {
@@ -15285,6 +15325,28 @@
     },
     {
       "album": {
+        "name": "Take Away",
+        "url": "https://open.spotify.com/album/1slYaqmgpal5K94Vz58XNb"
+      },
+      "artists": [
+        {
+          "name": "Ayo Maff",
+          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
+        },
+        {
+          "name": "Naira Marley",
+          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164347,
+      "name": "Take Away",
+      "url": "https://open.spotify.com/track/2nbe4zL3CBDuanu7HzmEQT"
+    },
+    {
+      "album": {
         "name": "Take Control",
         "url": "https://open.spotify.com/album/2PPR8xDRwWykDeNBogEtMo"
       },
@@ -17142,6 +17204,28 @@
       "duration_ms": 141933,
       "name": "Weep, No More",
       "url": "https://open.spotify.com/track/6dzICV2gDRl8SjPeqLnOQv"
+    },
+    {
+      "album": {
+        "name": "Welcome To Lagos",
+        "url": "https://open.spotify.com/album/65SHs9gGDOyXxFs4vHAcCZ"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183092,
+      "name": "Welcome To Lagos",
+      "url": "https://open.spotify.com/track/6q9AMhh5M1SiCCvrh94YVh"
     },
     {
       "album": {

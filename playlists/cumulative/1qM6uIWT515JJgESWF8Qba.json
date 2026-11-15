@@ -1003,6 +1003,28 @@
     },
     {
       "album": {
+        "name": "Black Soul Vendetta",
+        "url": "https://open.spotify.com/album/3Q1t7CRjx91TZjWu15fpXn"
+      },
+      "artists": [
+        {
+          "name": "Eric Dover",
+          "url": "https://open.spotify.com/artist/7gsPTHnMvjXV2j2yI5o7rA"
+        },
+        {
+          "name": "Devilfire",
+          "url": "https://open.spotify.com/artist/4NzMsvQzasrFhegc5P5zLn"
+        }
+      ],
+      "date_added": "2026-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237893,
+      "name": "Chasing The Pain",
+      "url": "https://open.spotify.com/track/1QTIeW4raevjoFoqCnpyJN"
+    },
+    {
+      "album": {
         "name": "Cherry Vice",
         "url": "https://open.spotify.com/album/2GwrxKasqTphRbauTYFc3h"
       },

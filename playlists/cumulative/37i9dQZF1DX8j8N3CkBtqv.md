@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana, featuring Bombay the Artist, Accha Insaan, Sarodi and other exciting artists.
 
-1,661 songs - 3 day 19 hr 35 min
+1,662 songs - 3 day 19 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -652,6 +652,7 @@
 | [Jab Bhi Dekh Loon](https://open.spotify.com/track/0shEjDecXb8po7jd5aaBnv) | [Sagar Kalra](https://open.spotify.com/artist/4driSbR8mwk0EPsJ5iseMt) | [Jab Bhi Dekh Loon](https://open.spotify.com/album/3FjnRG334A3gXP6Rl302dH) | 3:20 | 2025-01-24 | 2025-02-08 |
 | [Jab Mila Tu](https://open.spotify.com/track/6y7GIEEmOatGnxZzVdGd8W) | [Arya Salvi](https://open.spotify.com/artist/4qDaKljCW1TrVRkOK3sXHF) | [Jab Mila Tu](https://open.spotify.com/album/5H76HdKdMHZKElVD6k3bHU) | 2:38 | 2025-05-16 | 2025-08-10 |
 | [Jab Se Tu](https://open.spotify.com/track/3yOmEnXO8Orz2DrHe729v3) | [PRAN](https://open.spotify.com/artist/1i4OO6yeUPbXOOBUykZFdV), [Sarkar](https://open.spotify.com/artist/2R4yA8DlTWiUCpYlC0NMZh), [RYDM](https://open.spotify.com/artist/6W9khjGtXkfdtzVH2bUIrk) | [Jab Se Tu](https://open.spotify.com/album/62rFTHBO7BMFWT1gLUzqKz) | 2:20 | 2026-09-04 | 2026-11-14 |
+| [Jabse Tum Gaye Ho](https://open.spotify.com/track/0pi1mfKSh0rBCPcwSWTQPq) | [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk) | [Jabse Tum Gaye Ho](https://open.spotify.com/album/4lArimXHItr3KAn9wRac96) | 2:46 | 2026-11-13 |  |
 | [Jabse Tum Sang](https://open.spotify.com/track/3cJ5hZLay3f4l2ABtWsu9N) | [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT), [Priyanshi Srivastava](https://open.spotify.com/artist/1Vt7a0YpqiUoIcWnIiLXMo), [Karasama Beats](https://open.spotify.com/artist/3CemHlYsyplVCugkYqW8sp) | [Jabse Tum Sang](https://open.spotify.com/album/5OKSe194rdRgGe9iFxlkuq) | 3:10 | 2024-12-06 | 2025-01-11 |
 | [Jadoo](https://open.spotify.com/track/5MQLDkiEagOTLKpfa59a06) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [Jadoo](https://open.spotify.com/album/4rgE2Rxo1YshL8GlEJNNL1) | 3:10 | 2023-04-14 | 2023-05-20 |
 | [Jadui Pari](https://open.spotify.com/track/5QPSxr7k2kyFCpZXFKm9T6) | [Raman](https://open.spotify.com/artist/60Pg5sPykBui7UZsqaoHu8) | [Jadui Pari](https://open.spotify.com/album/0B8PgzP5Vbl3GyCDKtYHwF) | 2:39 | 2023-12-08 | 2024-01-27 |
@@ -1237,7 +1238,7 @@
 | [Reply](https://open.spotify.com/track/4s4aRzq3XGJdMa7ifENl0a) | [Anami](https://open.spotify.com/artist/47YNJp3c0vE0WGNq42Wd8p) | [Reply](https://open.spotify.com/album/1Zsy8P4YKy66M0at0VVmwG) | 2:58 | 2024-10-25 | 2025-01-18 |
 | [Resham Ki Dor](https://open.spotify.com/track/0gnUcv3ZvRuW4McbtUw2wl) | [Aditya A](https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw) | [Resham Ki Dor](https://open.spotify.com/album/5WajFYo8cctUuWxTk29rSU) | 2:26 | 2025-08-22 | 2025-11-14 |
 | [Reverence](https://open.spotify.com/track/2VB5XN4H1tfwAkYWi2pRHX) | [Savera](https://open.spotify.com/artist/3CVXA5TAWpmfGPqyMqXpPb) | [Reverence](https://open.spotify.com/album/25aob4c9VgfF6LwCN0G45D) | 3:57 | 2026-04-03 | 2026-05-02 |
-| [Ribcage](https://open.spotify.com/track/5sDAKW3OQc84UMnrhuFVyO) | [Tejas](https://open.spotify.com/artist/4CK1oDthUad8mQBb8GAcfl) | [Ribcage](https://open.spotify.com/album/34dtTMu26fdXVONfe6ZeL4) | 3:28 | 2026-10-02 |  |
+| [Ribcage](https://open.spotify.com/track/5sDAKW3OQc84UMnrhuFVyO) | [Tejas](https://open.spotify.com/artist/4CK1oDthUad8mQBb8GAcfl) | [Ribcage](https://open.spotify.com/album/34dtTMu26fdXVONfe6ZeL4) | 3:28 | 2026-10-02 | 2026-11-15 |
 | [Rihaa](https://open.spotify.com/track/1BSHXk8ZlYzL5lXepb2Shi) | [Anand Bhaskar Collective](https://open.spotify.com/artist/45m11y8OUyx5EgHiKvEC3c) | [Rihaa](https://open.spotify.com/album/3R2O1pJlzKd1uWk6m2BHjk) | 4:29 | 2026-09-11 |  |
 | [Ring of Fire](https://open.spotify.com/track/4UWAREEb848f2oxm929axM) | [Dhruv Visvanath](https://open.spotify.com/artist/5npIe0yBbHoAwQ5XYVVEwn) | [Ring of Fire](https://open.spotify.com/album/1c9BDmWn2SXhImd0s2tyCH) | 2:28 | 2023-04-14 | 2023-05-27 |
 | [Romeo.](https://open.spotify.com/track/0BGkzaDbOlO8l0PosWFyyt) | [som.](https://open.spotify.com/artist/4SfYrm8nXbR7IOK04PWwU6) | [Romeo.](https://open.spotify.com/album/3FILmWCBKJpKZ2oqmspw8r) | 5:36 | 2026-07-10 | 2026-09-26 |

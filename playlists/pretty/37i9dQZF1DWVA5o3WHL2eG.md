@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume! Cover: Suena
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,814 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,876 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,13 +26,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 16 | [Dis\-moi Pierre](https://open.spotify.com/track/6OiCrvN2wIH3DROwj3JPrr) | [Zoë Më](https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN) | [Dis\-moi Pierre](https://open.spotify.com/album/4eEEPfr41WyheW6BEE4o8f) | 2:59 |
 | 17 | [Für mich da](https://open.spotify.com/track/62uqgOBogBNLWhffFgoALj) | [SOFFIE](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Kein Streit den man nicht lösen kann](https://open.spotify.com/album/61jMt8HC8MpJ2at4ebO1K8) | 2:59 |
 | 18 | [Tiptoes](https://open.spotify.com/track/1qeLlMkDuVySs1febJY0fI) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Tiptoes](https://open.spotify.com/album/2ODOdUYUH0eIXmW1mdzYf3) | 3:28 |
-| 19 | [bands breiter](https://open.spotify.com/track/3uCsn5n3t8ZEw0uBK3oS42) | [cherice](https://open.spotify.com/artist/3hdHRmL8PsniFkBS3WwuA7) | [bands breiter](https://open.spotify.com/album/5PgWcCrBneffntXJTwAvlW) | 2:12 |
-| 20 | [ARROGANT](https://open.spotify.com/track/4mcm0nIqYOK3t714LBIzwT) | [CALLI](https://open.spotify.com/artist/1Z8ZD7IOnNaWxt7PMaLiJA) | [ARROGANT](https://open.spotify.com/album/1AYgJbFYuSfWSN3KpAjdjd) | 2:40 |
-| 21 | [Diet](https://open.spotify.com/track/47GpoYIhwGSDnkR9SnXeB5) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [Diet](https://open.spotify.com/album/1ao8Ql5hzq9gUB2U6BCn5g) | 3:05 |
-| 22 | [Fang mich doch](https://open.spotify.com/track/2tRnGN7OZUe46vNlu9p5Xg) | [Caro Schaeffler](https://open.spotify.com/artist/0HOgHNCucycZ7DUyWjFhNB) | [Fang mich doch](https://open.spotify.com/album/5Jdh96S9I8wmFJFlKyTWrj) | 2:27 |
+| 19 | [GLÜCKLICH](https://open.spotify.com/track/1btpQH1Drooqqmn2fZpvQ7) | [CARLI](https://open.spotify.com/artist/669JFUZgZaJ9uuBT7cGpU6) | [GLÜCKLICH](https://open.spotify.com/album/1nsEHWrwiV7CU59OYAKtyi) | 2:07 |
+| 20 | [Fang mich doch](https://open.spotify.com/track/2tRnGN7OZUe46vNlu9p5Xg) | [Caro Schaeffler](https://open.spotify.com/artist/0HOgHNCucycZ7DUyWjFhNB) | [Fang mich doch](https://open.spotify.com/album/5Jdh96S9I8wmFJFlKyTWrj) | 2:27 |
+| 21 | [bands breiter](https://open.spotify.com/track/3uCsn5n3t8ZEw0uBK3oS42) | [cherice](https://open.spotify.com/artist/3hdHRmL8PsniFkBS3WwuA7) | [bands breiter](https://open.spotify.com/album/5PgWcCrBneffntXJTwAvlW) | 2:12 |
+| 22 | [Diet](https://open.spotify.com/track/47GpoYIhwGSDnkR9SnXeB5) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [Diet](https://open.spotify.com/album/1ao8Ql5hzq9gUB2U6BCn5g) | 3:05 |
 | 23 | [Adulta](https://open.spotify.com/track/7DocintZ5hbadFUprMSIE4) | [Suena](https://open.spotify.com/artist/3ZCy1ehzbzEAcpcHnHJYXd) | [INSTINCTA](https://open.spotify.com/album/3PLxcpG6HX1bPdqrJTUNfT) | 1:41 |
-| 24 | [GLÜCKLICH](https://open.spotify.com/track/1btpQH1Drooqqmn2fZpvQ7) | [CARLI](https://open.spotify.com/artist/669JFUZgZaJ9uuBT7cGpU6) | [GLÜCKLICH](https://open.spotify.com/album/1nsEHWrwiV7CU59OYAKtyi) | 2:07 |
-| 25 | [Somebody Like You](https://open.spotify.com/track/3bs4l5CqCmFnSTZsicJHSX) | [Dreamboys The Band](https://open.spotify.com/artist/06EJZ7IlXEqlge7HYE5pIc) | [Somebody Like You](https://open.spotify.com/album/0krzNT0R7oicchWQZotbvq) | 2:32 |
+| 24 | [Somebody Like You](https://open.spotify.com/track/3bs4l5CqCmFnSTZsicJHSX) | [Dreamboys The Band](https://open.spotify.com/artist/06EJZ7IlXEqlge7HYE5pIc) | [Somebody Like You](https://open.spotify.com/album/0krzNT0R7oicchWQZotbvq) | 2:32 |
+| 25 | [ARROGANT](https://open.spotify.com/track/4mcm0nIqYOK3t714LBIzwT) | [CALLI](https://open.spotify.com/artist/1Z8ZD7IOnNaWxt7PMaLiJA) | [ARROGANT](https://open.spotify.com/album/1AYgJbFYuSfWSN3KpAjdjd) | 2:40 |
 | 26 | [pink](https://open.spotify.com/track/2Vd5BdcrLQ9VGpoE5Ovmi7) | [verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [pink](https://open.spotify.com/album/1OoPoq8o9oQMBeane1YIRp) | 2:29 |
 | 27 | [kontrolle \(interlude\)](https://open.spotify.com/track/5xjTqKeAfaNIwKDtsInoYe) | [Charlize](https://open.spotify.com/artist/5RKUXG6hD3vVpakjwcK5IW) | [kontrolle \(interlude\)](https://open.spotify.com/album/6Y2G8pJCOhpxrI69stPWDA) | 3:30 |
 | 28 | [Take Me to Ecstasy](https://open.spotify.com/track/0ZRVGU4tml1miY4uwmDevN) | [Alyne](https://open.spotify.com/artist/3I6VTLm67GhUmOTrhM0DzY) | [Take Me to Ecstasy](https://open.spotify.com/album/7lSgVKdX8c07TZVTaffiNb) | 4:13 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 41 | [In My Mind](https://open.spotify.com/track/19FphEiURddB9emBRVtBCW) | [Jil Tanner](https://open.spotify.com/artist/6S9C7LP9TXbeJhoV18RmEK) | [In My Mind](https://open.spotify.com/album/4z68u9dgRfAEmGMmQ0AvLD) | 5:24 |
 | 42 | [Fichtenholz](https://open.spotify.com/track/6RK7JQmE5apBvnDp2JuEvz) | [Akryl](https://open.spotify.com/artist/37LWnyoq7uaCMLsnbbducU) | [Fichtenholz](https://open.spotify.com/album/0mWXFHaN1WYPKquFtol0AF) | 3:36 |
 | 43 | [Woman](https://open.spotify.com/track/30WqbMFs4uwwVpaWU11Uq9) | [Velvet Two Stripes](https://open.spotify.com/artist/7pbcgkLjLsiXKYoKvdmW9g) | [Woman](https://open.spotify.com/album/5Xe5xftckiT63kQitJSGL9) | 3:15 |
-| 44 | [Twisted Heart](https://open.spotify.com/track/0XBZOhS88pujsPJX1NfDEE) | [Blush Davis](https://open.spotify.com/artist/6miJWM5MVL1dqJeQ9cPFYE) | [Twisted Heart](https://open.spotify.com/album/2Wr9U1QGmFWz4oa4MbYAo2) | 3:20 |
-| 45 | [devil´s in the sideroom](https://open.spotify.com/track/1qKdtUsOjrJy9Ids0ZQgoe) | [Miyu Hansen](https://open.spotify.com/artist/5DJDdhg9Qijhlqf6F1Mu5L) | [devil´s in the sideroom](https://open.spotify.com/album/7xJuAVgieSui8gau66R012) | 3:31 |
+| 44 | [devil´s in the sideroom](https://open.spotify.com/track/1qKdtUsOjrJy9Ids0ZQgoe) | [Miyu Hansen](https://open.spotify.com/artist/5DJDdhg9Qijhlqf6F1Mu5L) | [devil´s in the sideroom](https://open.spotify.com/album/7xJuAVgieSui8gau66R012) | 3:31 |
+| 45 | [Twisted Heart](https://open.spotify.com/track/0XBZOhS88pujsPJX1NfDEE) | [Blush Davis](https://open.spotify.com/artist/6miJWM5MVL1dqJeQ9cPFYE) | [Twisted Heart](https://open.spotify.com/album/2Wr9U1QGmFWz4oa4MbYAo2) | 3:20 |
 | 46 | [Goodwife](https://open.spotify.com/track/7eWj1RD9as5EZjjevoxSXg) | [Friedberg](https://open.spotify.com/artist/0lqPfG8vAR30UX3cWDbCEn) | [Goodwife](https://open.spotify.com/album/35e4s1PKAh8iwiRWmqg978) | 4:10 |
 | 47 | [Frau](https://open.spotify.com/track/1a9D3hfHc1RQbbWMqEtQb3) | [IUMA](https://open.spotify.com/artist/3sQkqWv3GPcfimQ2bobl2a) | [Frau](https://open.spotify.com/album/2mVTZAD0SmBOSDRMlgxGwk) | 2:56 |
 | 48 | [Crickets](https://open.spotify.com/track/1imqari7uRLNriUvnPzdUb) | [Blush Always](https://open.spotify.com/artist/7mDJOD8ukxlDkihwPCjb4U) | [Crickets](https://open.spotify.com/album/2pkSK72orCWiROaiXtg6tN) | 2:48 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1ZJpJahEFst7u8njXeGFyv.md) - [plain]
 
 > Relax, unwind, study or work to the soundtracks of Einaudi, Bach, Beethoven, Mozart incl\. Yo\-Yo Ma, Alexis Ffrench, Alexandra Streliski and more.
 
-[Filtr UK](https://open.spotify.com/user/sonymusicuk) - 292,239 likes - 130 songs - 7 hr 5 min
+[Filtr UK](https://open.spotify.com/user/sonymusicuk) - 292,222 likes - 130 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,7 +134,7 @@ pretty - [cumulative](/playlists/cumulative/1ZJpJahEFst7u8njXeGFyv.md) - [plain]
 | 124 | [The Pearl Portrait](https://open.spotify.com/track/5ofP6UDJlIhFVA7sc20rUN) | [Patrick Hamilton](https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ) | [The Pearl Portrait](https://open.spotify.com/album/5fKlSnJFtlH0YmV3hnGqeG) | 3:27 |
 | 125 | [Una furtiva lagrima\. Romance de "L'elisir d'amore" de Donizetti](https://open.spotify.com/track/4AYwQiVKjlTiTUk4PppgHH) | [Alexandre Batta](https://open.spotify.com/artist/0UKcOO9OBkEPEgBQkoDvFw), [Gaetano Donizetti](https://open.spotify.com/artist/2jCGEMSZXMSOImpD8sqo56), [Sol Gabetta](https://open.spotify.com/artist/4XvLzjMwnILZ9YnMHOVMIN), [Irina Zahharenkova](https://open.spotify.com/artist/7BnCDrzq4rSSyMg4UXQ4ns) | [Lise Cristiani](https://open.spotify.com/album/4OpG4U8zGXUEeaqU4jpdq9) | 4:22 |
 | 126 | [Laura Marling: What He Wrote](https://open.spotify.com/track/28mrR89iMAn9mFGrpDUoEs) | [Rosie Bennet](https://open.spotify.com/artist/0kiQ1OKhXM3wmO6IGpJM7E) | [Laura Marling: What He Wrote](https://open.spotify.com/album/3Z9NFXMRlkDKLqmNwZ3gtu) | 4:08 |
-| 127 | [Of Love](https://open.spotify.com/track/5nCXByE5w0fc2zwpcbNPL9) | [Alban Claudin](https://open.spotify.com/artist/6lhj65affyKVttGzdfUrJp) | [Of Love](https://open.spotify.com/album/25oLqEVvAKsitF8EM9le2q) | 3:39 |
+| 127 | [Of Love](https://open.spotify.com/track/5nCXByE5w0fc2zwpcbNPL9) | [Alban Claudin](https://open.spotify.com/artist/6lhj65affyKVttGzdfUrJp), [Pauline Klaus](https://open.spotify.com/artist/4Atr4dkTo7hzXuNEZxvM08) | [Of Love](https://open.spotify.com/album/25oLqEVvAKsitF8EM9le2q) | 3:39 |
 | 128 | [Ubi Caritas](https://open.spotify.com/track/3ZEY08AkCmwUqw71yblRxr) | [Ola Gjeilo](https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G), [Anna Lapwood](https://open.spotify.com/artist/0e2JUvil990IURjsq2PmqP), [The Chapel Choir of Pembroke College, Cambridge](https://open.spotify.com/artist/6DPxkITuYSrDAPdhISWO35) | [Ubi Caritas \(Duruflé\) & Ubi Caritas \(Gjeilo\)](https://open.spotify.com/album/2o0mTDeS1c0e52yFKe1WQe) | 3:26 |
 | 129 | [3 Mélodies, Op\. 4, No\. 2: Allegretto, H\-U 420](https://open.spotify.com/track/2sSBIFZTfju4XsTivVXmqs) | [Fanny Mendelssohn](https://open.spotify.com/artist/2Wj0NreQeOfrGxnPIaLcCi), [Louis Philippson](https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH) | [Mélodie, Op\. 4, No\. 2](https://open.spotify.com/album/2MDjS2kICHMw8brDzJczt2) | 1:47 |
 | 130 | [Caprice sur des motifs de l'opéra 'Le comte Ory', Op\. 3: I\. Andantino sostenuto](https://open.spotify.com/track/1S9g7Iw0fjbyWGhe0mcrxK) | [Adrien François Servais](https://open.spotify.com/artist/0Cu6kEZ4NSDg6FVLS9eIBV), [Sol Gabetta](https://open.spotify.com/artist/4XvLzjMwnILZ9YnMHOVMIN), [Victor Julien\-Laferrière](https://open.spotify.com/artist/2f31hgkqBIVESuOHGmvyVX) | [Caprice sur des motifs de l'opéra 'Le comte Ory', Op\. 3/I\. Andantino sostenuto](https://open.spotify.com/album/1dziEPkKxdFZwpX1cMLzvi) | 1:58 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Bulgaria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,000 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,003 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 49 | [Nicole Kidman](https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [PRIMA](https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs) | 3:01 |
 | 50 | [Лакомия](https://open.spotify.com/track/5S0qs9IQPsBkT9VO9n4lCk) | [Diona](https://open.spotify.com/artist/5OyVwBuWRLl5npoif9l5sJ), [Bo](https://open.spotify.com/artist/7hlTtVz10Vlmp9oDPHwjUE), [Stella](https://open.spotify.com/artist/002oyMRzxTzEsBRLzACi8d), [Simona](https://open.spotify.com/artist/46FAr44jS3tCDAdSWzA2Ou) | [Лакомия](https://open.spotify.com/album/0bbUdlIg1G3WktpH845sim) | 2:21 |
 
-Snapshot ID: `Moqd8AAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MovqwAAAAAAAAAAAAAAAAAAAAAAAAGVu`

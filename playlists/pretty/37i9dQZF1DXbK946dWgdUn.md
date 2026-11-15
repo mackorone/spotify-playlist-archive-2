@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbK946dWgdUn.md) - [plain]
 
 > Groove to your favorite tracks from CoComelon!
 
-[Spotify](https://open.spotify.com/user/spotify) - 366,677 likes - 76 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 366,893 likes - 76 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbK946dWgdUn.md) - [plain]
 | 2 | [Apples And Bananas](https://open.spotify.com/track/0MTsQktnZl5JtBK9pbiYdZ) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Apples And Bananas](https://open.spotify.com/album/3sEoUfIFKLVO43Cr91FcYK) | 2:09 |
 | 3 | [The Muffin Man](https://open.spotify.com/track/15zwD4yHjV8vFQ3FdAvc8m) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [The Muffin Man](https://open.spotify.com/album/1AYN6M04oYo9pm5v658tIN) | 2:16 |
 | 4 | [Head, Shoulders, Knees And Toes](https://open.spotify.com/track/30OfsmHJTl8AMOBmBpczT1) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Head, Shoulders, Knees And Toes](https://open.spotify.com/album/1idIR4u21VRzqbCObWXAk2) | 2:14 |
-| 5 | [Farmer In The Dell](https://open.spotify.com/track/5szEy3jqYzGrtOJihgZHth) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [CoComelon Nursery Rhymes \(Songs From The Melon Patch\)](https://open.spotify.com/album/2esXt3mcUE8UkvUrKcmXaL) | 2:24 |
-| 6 | [Row Row Row Your Boat](https://open.spotify.com/track/5ENo07llUOYoWiMsVYLApd) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [CoComelon Nursery Rhymes \(Songs From The Melon Patch\)](https://open.spotify.com/album/2esXt3mcUE8UkvUrKcmXaL) | 2:50 |
+| 5 | [Farmer In The Dell](https://open.spotify.com/track/5szEy3jqYzGrtOJihgZHth) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [CoComelon Nursery Rhymes](https://open.spotify.com/album/2esXt3mcUE8UkvUrKcmXaL) | 2:24 |
+| 6 | [Row Row Row Your Boat](https://open.spotify.com/track/5ENo07llUOYoWiMsVYLApd) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [CoComelon Nursery Rhymes](https://open.spotify.com/album/2esXt3mcUE8UkvUrKcmXaL) | 2:50 |
 | 7 | [I Can Do It](https://open.spotify.com/track/1ddHqcqbyRhjmvF7W5HV3T) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [I Can Do It](https://open.spotify.com/album/7sqQD90OUBdK2JLsgKYr7M) | 2:15 |
 | 8 | [Wheels on the Bus](https://open.spotify.com/track/5wVJTaoVAbhFrQC1QZVPO3) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Nursery Rhymes by CoComelon](https://open.spotify.com/album/2r6bg0wQuP7PN1bU2fgznn) | 3:27 |
 | 9 | [Head, Shoulders, Knees And Toes \- Classic Version](https://open.spotify.com/track/6xfOJl9l0Gc5WxjmBAvQsA) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [CoComelon Essentials](https://open.spotify.com/album/6dj7EyztDD42IJqsxZ1XMz) | 2:07 |

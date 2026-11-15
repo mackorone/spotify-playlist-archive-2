@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock & alternative tracks every week\. Cover: U2
 
-[Spotify](https://open.spotify.com/user/spotify) - 960,534 likes - 228 songs - 13 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 960,227 likes - 228 songs - 13 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 51 | [Heaven Sent \(Demo\)](https://open.spotify.com/track/6l7GKreXhBmYKAf6AyWmR2) | [Trophy Eyes](https://open.spotify.com/artist/6KPdmtIl0LA5mRFSqseWhI) | [Chemical Miracle 10 Year Anniversary Edition](https://open.spotify.com/album/46ZrsWIvKhWduCa9NBEXQV) | 3:56 |
 | 52 | [Best Kept Secret](https://open.spotify.com/track/11tax3qdz52opbAnCVahOW) | [Pulley](https://open.spotify.com/artist/1D20Qqq2BnfaShwNDb00KU) | [Rise of the Underdog](https://open.spotify.com/album/0pOFIqFOEeEyOJRl6fsFHA) | 3:10 |
 | 53 | [Stain](https://open.spotify.com/track/50jpaPK56Yguju91mBrT4b) | [Reclus.É](https://open.spotify.com/artist/77myKiTzTz50cL8cMxBuvV) | [The World Can't Take Much More](https://open.spotify.com/album/0S9t5NWy0lYIBHyL4oPj7x) | 4:06 |
-| 54 | [Dive](https://open.spotify.com/track/2dmPA3WF3JGyfw8dkTilrC) | [Olive Vox](https://open.spotify.com/artist/1XT9PDbUGYnNcjDnvXvBOS) | [Dive](https://open.spotify.com/album/0SCr91WKvvNcegBpgPpEL6) | 3:07 |
+| 54 | [DIVE](https://open.spotify.com/track/2dmPA3WF3JGyfw8dkTilrC) | [Olive Vox](https://open.spotify.com/artist/1XT9PDbUGYnNcjDnvXvBOS) | [DIVE](https://open.spotify.com/album/0SCr91WKvvNcegBpgPpEL6) | 3:07 |
 | 55 | [through ebb and flow \- ACT I : The Inciting Incident](https://open.spotify.com/track/4klwszeV14RVFQySSYleuE) | [eleventwelfth](https://open.spotify.com/artist/2obLLc4blv37GYbFwqyE3t) | [ACT I \- through ebb and flow / rises](https://open.spotify.com/album/7MlFinXIY3TDNPkCMzRc7m) | 3:36 |
 | 56 | [Droplets](https://open.spotify.com/track/6VboxrzxtBOtnDT8frJpqW) | [Makari](https://open.spotify.com/artist/4YW1GDcW9hobRPMDi8v6XH) | [Droplets](https://open.spotify.com/album/3RxW4Zr2ugPiZvr3Vd3Pqa) | 3:24 |
 | 57 | [loving LEAVING](https://open.spotify.com/track/20LuseiFYBTDjthzksaZbq) | [Public Figure](https://open.spotify.com/artist/7rYd2aHl37RtAl3GEse8M1), [OUT IN FRONT](https://open.spotify.com/artist/7s6QINQAMIPJtlAK4lrKdx) | [loving LEAVING](https://open.spotify.com/album/4seAMPfLYUbWgm9fFB2iqS) | 3:23 |

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/56ZBiYuSM6W68EojT5WORo">Blush Davis</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-95 songs - 4 hr 45 min
+96 songs - 4 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,8 @@
 | [Wake Up As You](https://open.spotify.com/track/1d9vKkT7y3bhyEGstBJyXr) | [Ruuth](https://open.spotify.com/artist/6BsONo5WrLwCzPZ2qHKoN4) | [Wake Up As You](https://open.spotify.com/album/1lu63fAYGT2jj7PFH3Rlxs) | 2:38 | 2024-05-01 | 2025-01-15 |
 | [Weekend Lover](https://open.spotify.com/track/2tmtAG8HUAxAbEN9cJU3Kk) | [Ruuth](https://open.spotify.com/artist/6BsONo5WrLwCzPZ2qHKoN4) | [Weekend Lover](https://open.spotify.com/album/6jeWoIDDJJ5zZXVvWbhnOh) | 3:07 | 2024-05-01 | 2025-01-15 |
 | [When It's Over](https://open.spotify.com/track/2AgDrwMxljyyeMsJboEY6b) | [Christian Reindl](https://open.spotify.com/artist/0brORfY1t5Qs2VrWVem9SB), [Ruuth](https://open.spotify.com/artist/6BsONo5WrLwCzPZ2qHKoN4) | [When It's Over](https://open.spotify.com/album/2YaSQDrHQ3iIFRqDluoNo7) | 2:54 | 2024-05-01 | 2025-01-16 |
-| [You're Under Arrest](https://open.spotify.com/track/7IY0j2xsQqaWtVqb17xpJG) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [You're Under Arrest \(Remixes\)](https://open.spotify.com/album/1IZrGMJn3CEUr9N3DoewFd) | 3:01 | 2026-11-09 |  |
+| [You're Under Arrest](https://open.spotify.com/track/7IY0j2xsQqaWtVqb17xpJG) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [You're Under Arrest \(Remixes\)](https://open.spotify.com/album/1IZrGMJn3CEUr9N3DoewFd) | 3:01 | 2026-11-09 | 2026-11-15 |
 | [雪明かり \(Yukiakari\)](https://open.spotify.com/track/00nY3yhV4PttPKeoTnb2UG) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [雪明かり \(Yukiakari\)](https://open.spotify.com/album/6Y72DbWH9RBBVh8XNIGY16) | 3:13 | 2025-02-14 |  |
+| [체포하겠어](https://open.spotify.com/track/30T1Q5lsYzCEKzifUWwFWM) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [BREAK EVEN](https://open.spotify.com/album/2EJO4FEiAURoALN7urL3yF) | 3:01 | 2026-11-14 |  |
 
 \*This playlist was first scraped on 2024-05-02. Prior content cannot be recovered.

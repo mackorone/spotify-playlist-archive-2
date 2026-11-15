@@ -4,7 +4,7 @@
 
 > bro, che dire: quanto ti capiamo..\. \(in cover: Tommaso Ottomano aka Topo Nero Rock 🐀\)
 
-664 songs - 1 day 11 hr 37 min
+665 songs - 1 day 11 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -566,6 +566,7 @@
 | [Soli E Disperati Nel Mare Meraviglioso](https://open.spotify.com/track/51rVDNulsFqL7rU6MbcnQV) | [TROPICO](https://open.spotify.com/artist/11wRTRhOoRE8kcDgtAmuJW) | [Soli E Disperati Nel Mare Meraviglioso](https://open.spotify.com/album/2QNVMPmBUn0mUluCdq1rh0) | 3:31 | 2025-09-11 | 2025-10-10 |
 | [soli soli](https://open.spotify.com/track/5T3kVq65Kjxg4698zdogLI) | [Giuze](https://open.spotify.com/artist/2drbYqHcAqNoLoEhrzaZ5B) | [soli soli](https://open.spotify.com/album/0Ki0cUpTBIoipeFO26lJKu) | 2:40 | 2024-08-22 | 2024-10-04 |
 | [solo solissimo](https://open.spotify.com/track/2KqKsaXttrkC7Qbc493cH9) | [tellynonpiangere](https://open.spotify.com/artist/2n8rCH14DAnaBWMdkfj9hv) | [solo solissimo](https://open.spotify.com/album/6MeFwwWwuXzMjoh12g0wF2) | 3:19 | 2026-02-05 | 2026-03-20 |
+| [sono IO!](https://open.spotify.com/track/3HvGP28Oy5NyACfnWQs6aF) | [@gabriele](https://open.spotify.com/artist/6RyYnt3Q1ebcbLxYOtE9bb) | [sono IO!](https://open.spotify.com/album/1Spw6vGuMLQMy9WpN3ra07) | 1:59 | 2026-11-14 |  |
 | [Sono pazzo \(con Fulminacci\)](https://open.spotify.com/track/0ZguavIMCkppK1SLut2xDZ) | [MOBRICI](https://open.spotify.com/artist/3BV0pd7wPcsLQzO2rNiupd), [Fulminacci](https://open.spotify.com/artist/1QeqGmpgU5Yg74GNcjIIq3) | [Supernova](https://open.spotify.com/album/70ltpOxhlMHnAM6DSIerd5) | 2:41 | 2026-02-05 | 2026-03-13 |
 | [Sottobraccio](https://open.spotify.com/track/1VQKJQjZNPCYJE5EoAzVil) | [Laila Al Habash](https://open.spotify.com/artist/6TlzdBQJ60fuenBUtDARlg) | [Sottobraccio](https://open.spotify.com/album/1DdZcRfIq0l3fYFTdYXS8y) | 3:08 | 2024-06-27 | 2025-03-28 |
 | [Sottocosto](https://open.spotify.com/track/1vFMS4QY6wVqoDnaRuL0SB) | [Fulminacci](https://open.spotify.com/artist/1QeqGmpgU5Yg74GNcjIIq3) | [Sottocosto](https://open.spotify.com/album/4HBTyRWYk6ySZAs35bbCdM) | 2:57 | 2025-05-29 | 2026-02-25 |

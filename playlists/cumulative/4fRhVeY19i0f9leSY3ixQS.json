@@ -2420,7 +2420,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 219617,
       "name": "Apex",
       "url": "https://open.spotify.com/track/2uJg4BI8skBI8qId2YOBEX"
@@ -7208,7 +7208,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 112125,
       "name": "Can't You See I'm Drinking?",
       "url": "https://open.spotify.com/track/2Fj1BS57B9EI1L7gool96P"
@@ -8390,7 +8390,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 199245,
       "name": "closer",
       "url": "https://open.spotify.com/track/4WbiXLWsy7kqpXh5ijSeDC"
@@ -9632,7 +9632,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 176168,
       "name": "Ctrl Alt Delete Myself",
       "url": "https://open.spotify.com/track/0gyCri6PNIZxsFC7y2AB6Z"
@@ -13544,7 +13544,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 115166,
       "name": "empty. hollow. over.",
       "url": "https://open.spotify.com/track/2IosWGOpL0y7gQaTOLtmaq"
@@ -20833,6 +20833,24 @@
     },
     {
       "album": {
+        "name": "I Wanna Go Bang",
+        "url": "https://open.spotify.com/album/4MBSs3JI4WMhx4lqqOOGg5"
+      },
+      "artists": [
+        {
+          "name": "NIKOLINA",
+          "url": "https://open.spotify.com/artist/3d0OOhNi5k69JBZ5BVV8bc"
+        }
+      ],
+      "date_added": "2026-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271153,
+      "name": "I Wanna Go Bang",
+      "url": "https://open.spotify.com/track/7cpQ1J9ODJBZPCJJttgCLR"
+    },
+    {
+      "album": {
         "name": "I Wanna Go Home",
         "url": "https://open.spotify.com/album/0nFkSX90OgO3rWXhZK2IYU"
       },
@@ -24854,7 +24872,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 241290,
       "name": "Like a Dog",
       "url": "https://open.spotify.com/track/2WxKHF04lQ48c6ZoKIZL15"
@@ -29510,7 +29528,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 227146,
       "name": "No Hands Remained",
       "url": "https://open.spotify.com/track/3jnyYzOafWF9XENp8QSfg7"
@@ -31478,7 +31496,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 151451,
       "name": "Out of Sight Out of Mind",
       "url": "https://open.spotify.com/track/4r8lcR7J6O9sfCuShKjEQt"
@@ -33058,7 +33076,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 248936,
       "name": "poltergeist",
       "url": "https://open.spotify.com/track/7uEvKu7oJPOxg7vJqH2exC"
@@ -39450,7 +39468,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 141443,
       "name": "Spirit World",
       "url": "https://open.spotify.com/track/7swA08Nirn6t3U2V3yJHJg"
@@ -42400,7 +42418,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 181381,
       "name": "The Boy, He Bleeds",
       "url": "https://open.spotify.com/track/2zJMf8bUpPUlwcVDft67Fo"
@@ -45460,7 +45478,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 78333,
       "name": "Tracked Again!",
       "url": "https://open.spotify.com/track/4nFhcLcZEaalLN1RUYNf5f"

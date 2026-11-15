@@ -4,7 +4,7 @@
 
 > Happy songs and good vibes! A real mood booster sure to make you smile and keep you feelin’ good 😊 😊 😊 Perfect for road trips and singing in the shower! An affirmation song collection full of heartfelt, lovely moments, high vibrational energy and strong songs that make you feel unstoppable.
 
-462 songs - 1 day 2 hr 28 min
+463 songs - 1 day 2 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -315,7 +315,7 @@
 | [Padam Padam](https://open.spotify.com/track/3k0DJq2HdWJqnqor8NX0ac) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Padam Padam](https://open.spotify.com/album/7vH3G0c3n1WsgTJHBmZxdV) | 2:46 | 2023-05-23 | 2024-04-13 |
 | [Pancakes & Butter](https://open.spotify.com/track/0pJ3NjNJkDcEpHQDLB8Nc4) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Mystical Magical Rhythmical Radical Ride](https://open.spotify.com/album/0ct2cPZ49xWrgqTWk2P6Mx) | 3:51 | 2023-05-05 | 2023-12-14 |
 | [Parachute](https://open.spotify.com/track/0JnXg5Aj8ee0gCcoY6LZw6) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Parachute](https://open.spotify.com/album/6HLFw3hw45ha7IRqWxuw2M) | 3:15 | 2026-06-25 | 2026-07-25 |
-| [Parachute](https://open.spotify.com/track/6CNCGWiVR5NUZFtZMQxQBe) | [Dela Utca](https://open.spotify.com/artist/7zOMemJ8954AThsX1LfK4X) | [Parachute](https://open.spotify.com/album/1Sa3wZyxZ8aNsbdYftLj8l) | 2:21 | 2026-11-06 |  |
+| [Parachute](https://open.spotify.com/track/6CNCGWiVR5NUZFtZMQxQBe) | [Dela Utca](https://open.spotify.com/artist/7zOMemJ8954AThsX1LfK4X) | [Parachute](https://open.spotify.com/album/1Sa3wZyxZ8aNsbdYftLj8l) | 2:21 | 2026-11-06 | 2026-11-15 |
 | [Paradise](https://open.spotify.com/track/6nek1Nin9q48AVZcWs9e9D) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Mylo Xyloto](https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18) | 4:38 | 2022-07-18 |  |
 | [Paradise Calling](https://open.spotify.com/track/6FDPJaI8UySXCTSWKMsXZj) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Paradise Calling](https://open.spotify.com/album/4eO6jrqvUJMfIGOQV6HmmB) | 3:06 | 2023-08-04 | 2024-08-24 |
 | [PASSENGER](https://open.spotify.com/track/5Zv2Icw3vKuzQXZRhgmXkH) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [PASSENGER](https://open.spotify.com/album/6ZLVyO1GnQN35zYHbIB2bJ) | 2:39 | 2026-06-11 | 2026-08-29 |
@@ -425,6 +425,7 @@
 | [Too Late, Too Late](https://open.spotify.com/track/7cMKhBtW7y5QAdMwet9ApZ) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [Jeans, Boys & Jesus \(Deluxe\)](https://open.spotify.com/album/3RvEN43t9XzBsSEzBupbrq) | 2:51 | 2026-10-16 |  |
 | [Training Season](https://open.spotify.com/track/5b5cPscqVEMChvDqscVw26) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Radical Optimism](https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc) | 3:29 | 2026-10-09 |  |
 | [Training Season](https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Training Season](https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784) | 3:29 | 2024-02-16 | 2026-04-01 |
+| [Treasure](https://open.spotify.com/track/55h7vJchibLdUkxdlX3fK7) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Unorthodox Jukebox](https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI) | 2:58 | 2026-11-14 |  |
 | [Try It Again](https://open.spotify.com/track/0QS4x5Ts1YROJXScCsfBTR) | [The Slates](https://open.spotify.com/artist/5O5aAqBdU9DMMh6Ew7qnCR) | [Try It Again](https://open.spotify.com/album/3cOW2Jt0A88hPuMLFgpORx) | 4:26 | 2026-06-11 | 2026-08-01 |
 | [Turn On The Radio](https://open.spotify.com/track/3hfG2GZTSJxd1nGJOaCy2l) | [Sunny Black](https://open.spotify.com/artist/2bmzuK5Cd8sAFXdOLG7b7Z) | [Turn On The Radio](https://open.spotify.com/album/3GrO4w81YNKE3Qayi05a7f) | 2:52 | 2026-08-21 |  |
 | [UNHEALTHY \(feat\. Shania Twain\)](https://open.spotify.com/track/2doTn2LWTKN1Z0lZJG2WQw) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [UNHEALTHY \(feat\. Shania Twain\)](https://open.spotify.com/album/6QEbEpz7fWR5N3HoIiSHFo) | 2:29 | 2023-08-04 | 2023-12-14 |

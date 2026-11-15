@@ -1,6 +1,6 @@
 {
   "description": "If you're blessed!",
-  "num_followers": 22336,
+  "num_followers": 22337,
   "original_name": "Blessed",
   "owner": {
     "name": "Spotify",
@@ -489,22 +489,6 @@
       "url": "https://open.spotify.com/track/25WsThhuvxiv7i2G0qMv0h"
     },
     {
-      "added_at": "2025-02-14 00:01:09",
-      "album": {
-        "name": "Man Of Galilee",
-        "url": "https://open.spotify.com/album/6w4tBana90AXVJOxcNHdHv"
-      },
-      "artists": [
-        {
-          "name": "Judikay",
-          "url": "https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x"
-        }
-      ],
-      "duration_ms": 257644,
-      "name": "Omemma",
-      "url": "https://open.spotify.com/track/4YfOEXttugon5YXM3TjJGz"
-    },
-    {
       "added_at": "2026-01-09 00:01:29",
       "album": {
         "name": "With My Name",
@@ -519,6 +503,22 @@
       "duration_ms": 221743,
       "name": "With My Name",
       "url": "https://open.spotify.com/track/5WDbJHOq4PksAQVxQbWEQV"
+    },
+    {
+      "added_at": "2025-02-14 00:01:09",
+      "album": {
+        "name": "Man Of Galilee",
+        "url": "https://open.spotify.com/album/6w4tBana90AXVJOxcNHdHv"
+      },
+      "artists": [
+        {
+          "name": "Judikay",
+          "url": "https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x"
+        }
+      ],
+      "duration_ms": 257644,
+      "name": "Omemma",
+      "url": "https://open.spotify.com/track/4YfOEXttugon5YXM3TjJGz"
     },
     {
       "added_at": "2026-01-30 00:01:25",
@@ -575,22 +575,6 @@
       "duration_ms": 140769,
       "name": "Me & My Jesus",
       "url": "https://open.spotify.com/track/4JWi6Q3LSBu8r3hBaWnIKI"
-    },
-    {
-      "added_at": "2026-10-09 00:01:36",
-      "album": {
-        "name": "No Other Saviour",
-        "url": "https://open.spotify.com/album/3gczJFglRLc8S2VALfEwIe"
-      },
-      "artists": [
-        {
-          "name": "Minister GUC",
-          "url": "https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL"
-        }
-      ],
-      "duration_ms": 1026979,
-      "name": "No Other Saviour",
-      "url": "https://open.spotify.com/track/4aBITS0tTpnPkCjH5dVgPI"
     },
     {
       "added_at": "2026-10-16 00:01:42",
@@ -665,24 +649,20 @@
       "url": "https://open.spotify.com/track/3Vh0hKMCEOip7tfy64Mg2z"
     },
     {
-      "added_at": "2026-07-17 00:01:08",
+      "added_at": "2026-10-09 00:01:36",
       "album": {
-        "name": "Yours Truly",
-        "url": "https://open.spotify.com/album/46UJrtPx6i6Xia26H4aER2"
+        "name": "No Other Saviour",
+        "url": "https://open.spotify.com/album/3gczJFglRLc8S2VALfEwIe"
       },
       "artists": [
         {
-          "name": "Saelem",
-          "url": "https://open.spotify.com/artist/78bIYHmB39w825leFgF6Wb"
-        },
-        {
-          "name": "Ugoaelo",
-          "url": "https://open.spotify.com/artist/4q4QPKG2CblSLln7Eb3XKT"
+          "name": "Minister GUC",
+          "url": "https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL"
         }
       ],
-      "duration_ms": 173153,
-      "name": "Yours Truly",
-      "url": "https://open.spotify.com/track/47EuJYd1DTp6osZcwsTT13"
+      "duration_ms": 1026979,
+      "name": "No Other Saviour",
+      "url": "https://open.spotify.com/track/4aBITS0tTpnPkCjH5dVgPI"
     },
     {
       "added_at": "2026-07-31 00:01:30",
@@ -723,6 +703,26 @@
       "duration_ms": 233135,
       "name": "Your love",
       "url": "https://open.spotify.com/track/6sQq98ykctwIpq79syEt5x"
+    },
+    {
+      "added_at": "2026-07-17 00:01:08",
+      "album": {
+        "name": "Yours Truly",
+        "url": "https://open.spotify.com/album/46UJrtPx6i6Xia26H4aER2"
+      },
+      "artists": [
+        {
+          "name": "Saelem",
+          "url": "https://open.spotify.com/artist/78bIYHmB39w825leFgF6Wb"
+        },
+        {
+          "name": "Ugoaelo",
+          "url": "https://open.spotify.com/artist/4q4QPKG2CblSLln7Eb3XKT"
+        }
+      ],
+      "duration_ms": 173153,
+      "name": "Yours Truly",
+      "url": "https://open.spotify.com/track/47EuJYd1DTp6osZcwsTT13"
     },
     {
       "added_at": "2026-02-27 00:01:20",
@@ -1033,6 +1033,26 @@
       "url": "https://open.spotify.com/track/0xgqTe1zh9FZa1x8zpvs9H"
     },
     {
+      "added_at": "2026-10-30 00:01:06",
+      "album": {
+        "name": "God's Got Me",
+        "url": "https://open.spotify.com/album/6f4RmakpmsK4Lsi5UeVSQa"
+      },
+      "artists": [
+        {
+          "name": "KobbySalm",
+          "url": "https://open.spotify.com/artist/0O4MEIc9HB5MiTfQX5eKNB"
+        },
+        {
+          "name": "Okey Sokay",
+          "url": "https://open.spotify.com/artist/5rH5wkuOiVee4XUNFwIQw1"
+        }
+      ],
+      "duration_ms": 186428,
+      "name": "God's Got Me",
+      "url": "https://open.spotify.com/track/2vUyR4TFdNJ70Ghhkzw5jY"
+    },
+    {
       "added_at": "2026-03-27 00:01:13",
       "album": {
         "name": "Yeshua (The Summary Of My Life)",
@@ -1117,26 +1137,6 @@
       "url": "https://open.spotify.com/track/2GYMuD74LVwPQRz5KrFzid"
     },
     {
-      "added_at": "2026-10-30 00:01:06",
-      "album": {
-        "name": "God's Got Me",
-        "url": "https://open.spotify.com/album/6f4RmakpmsK4Lsi5UeVSQa"
-      },
-      "artists": [
-        {
-          "name": "KobbySalm",
-          "url": "https://open.spotify.com/artist/0O4MEIc9HB5MiTfQX5eKNB"
-        },
-        {
-          "name": "Okey Sokay",
-          "url": "https://open.spotify.com/artist/5rH5wkuOiVee4XUNFwIQw1"
-        }
-      ],
-      "duration_ms": 186428,
-      "name": "God's Got Me",
-      "url": "https://open.spotify.com/track/2vUyR4TFdNJ70Ghhkzw5jY"
-    },
-    {
       "added_at": "2026-08-14 00:01:28",
       "album": {
         "name": "My Story",
@@ -1151,26 +1151,6 @@
       "duration_ms": 442538,
       "name": "My Story",
       "url": "https://open.spotify.com/track/7ewTmEmwPoxfKESz9kwciK"
-    },
-    {
-      "added_at": "2026-10-16 00:01:42",
-      "album": {
-        "name": "Thank You Lord",
-        "url": "https://open.spotify.com/album/33x6g9QEHsv4fTQwlh3rFF"
-      },
-      "artists": [
-        {
-          "name": "Eno Michael",
-          "url": "https://open.spotify.com/artist/4gG4TRziJfH2Tjo5fUqqdk"
-        },
-        {
-          "name": "Frank Edwards",
-          "url": "https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg"
-        }
-      ],
-      "duration_ms": 291235,
-      "name": "Thank You Lord",
-      "url": "https://open.spotify.com/track/1VmZVKjhyh8d1jAEMMcW33"
     },
     {
       "added_at": "2025-12-05 00:01:10",
@@ -1191,6 +1171,26 @@
       "duration_ms": 218666,
       "name": "Upendo Overdose",
       "url": "https://open.spotify.com/track/4A5WBAFb9w2dNRI1nqxwyx"
+    },
+    {
+      "added_at": "2026-10-16 00:01:42",
+      "album": {
+        "name": "Thank You Lord",
+        "url": "https://open.spotify.com/album/33x6g9QEHsv4fTQwlh3rFF"
+      },
+      "artists": [
+        {
+          "name": "Eno Michael",
+          "url": "https://open.spotify.com/artist/4gG4TRziJfH2Tjo5fUqqdk"
+        },
+        {
+          "name": "Frank Edwards",
+          "url": "https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg"
+        }
+      ],
+      "duration_ms": 291235,
+      "name": "Thank You Lord",
+      "url": "https://open.spotify.com/track/1VmZVKjhyh8d1jAEMMcW33"
     },
     {
       "added_at": "2026-07-10 00:01:15",
@@ -1233,6 +1233,22 @@
       "url": "https://open.spotify.com/track/5v8dMFDfK1i9ssKKfWJNCD"
     },
     {
+      "added_at": "2026-11-06 00:02:01",
+      "album": {
+        "name": "Time And Time Again",
+        "url": "https://open.spotify.com/album/4l3OdPVRxcfv568WewGbMK"
+      },
+      "artists": [
+        {
+          "name": "Sal Ly",
+          "url": "https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "Time And Time Again",
+      "url": "https://open.spotify.com/track/27aUMzL7IyqoYNxdAWJpVE"
+    },
+    {
       "added_at": "2026-07-17 00:01:08",
       "album": {
         "name": "Good News",
@@ -1253,22 +1269,6 @@
       "url": "https://open.spotify.com/track/6xRCBlLNQkvUePxFgUNnTN"
     },
     {
-      "added_at": "2026-06-26 00:01:41",
-      "album": {
-        "name": "Breakthrough",
-        "url": "https://open.spotify.com/album/5Uubczhxq1GTQqGbz6SivQ"
-      },
-      "artists": [
-        {
-          "name": "No\u00ebl Mio",
-          "url": "https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Breakthrough",
-      "url": "https://open.spotify.com/track/2IKGA1CxxaDvYkdowBCvbN"
-    },
-    {
       "added_at": "2026-05-15 00:01:23",
       "album": {
         "name": "Ifunanya",
@@ -1287,6 +1287,22 @@
       "duration_ms": 314013,
       "name": "Ifunanya",
       "url": "https://open.spotify.com/track/1uxP53jaD8jAtzlPEoLzaM"
+    },
+    {
+      "added_at": "2026-06-26 00:01:41",
+      "album": {
+        "name": "Breakthrough",
+        "url": "https://open.spotify.com/album/5Uubczhxq1GTQqGbz6SivQ"
+      },
+      "artists": [
+        {
+          "name": "No\u00ebl Mio",
+          "url": "https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Breakthrough",
+      "url": "https://open.spotify.com/track/2IKGA1CxxaDvYkdowBCvbN"
     },
     {
       "added_at": "2026-07-24 00:01:56",
@@ -1385,22 +1401,6 @@
       "url": "https://open.spotify.com/track/5lDKruQKhkjGja9ih7APbM"
     },
     {
-      "added_at": "2026-11-06 00:02:01",
-      "album": {
-        "name": "Time And Time Again",
-        "url": "https://open.spotify.com/album/4l3OdPVRxcfv568WewGbMK"
-      },
-      "artists": [
-        {
-          "name": "Sal Ly",
-          "url": "https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "Time And Time Again",
-      "url": "https://open.spotify.com/track/27aUMzL7IyqoYNxdAWJpVE"
-    },
-    {
       "added_at": "2026-06-26 00:01:41",
       "album": {
         "name": "DO",
@@ -1421,6 +1421,22 @@
       "url": "https://open.spotify.com/track/5my8ScRHzur1cdz2dnnZqL"
     },
     {
+      "added_at": "2026-08-14 00:01:28",
+      "album": {
+        "name": "The Address",
+        "url": "https://open.spotify.com/album/4F7TGXjAeJtpyiOxQuI5Sl"
+      },
+      "artists": [
+        {
+          "name": "Chris Morgan",
+          "url": "https://open.spotify.com/artist/40n0HESbOmwGQh401vtbWM"
+        }
+      ],
+      "duration_ms": 223966,
+      "name": "Enough",
+      "url": "https://open.spotify.com/track/1SPeUtWyImKQQ8LyeXEKI2"
+    },
+    {
       "added_at": "2026-10-09 00:01:36",
       "album": {
         "name": "Soji",
@@ -1439,22 +1455,6 @@
       "duration_ms": 141818,
       "name": "Soji",
       "url": "https://open.spotify.com/track/10scp515H3OQXr4aT3CoID"
-    },
-    {
-      "added_at": "2026-08-14 00:01:28",
-      "album": {
-        "name": "The Address",
-        "url": "https://open.spotify.com/album/4F7TGXjAeJtpyiOxQuI5Sl"
-      },
-      "artists": [
-        {
-          "name": "Chris Morgan",
-          "url": "https://open.spotify.com/artist/40n0HESbOmwGQh401vtbWM"
-        }
-      ],
-      "duration_ms": 223966,
-      "name": "Enough",
-      "url": "https://open.spotify.com/track/1SPeUtWyImKQQ8LyeXEKI2"
     },
     {
       "added_at": "2026-09-18 00:01:36",
@@ -1513,22 +1513,6 @@
       "url": "https://open.spotify.com/track/2A8SuOIgP42ZeJbw3lyUj1"
     },
     {
-      "added_at": "2026-04-03 00:01:46",
-      "album": {
-        "name": "Yeshua!",
-        "url": "https://open.spotify.com/album/6f1T835QYYd56uvPFg2gj8"
-      },
-      "artists": [
-        {
-          "name": "Vic Lucas",
-          "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
-        }
-      ],
-      "duration_ms": 220766,
-      "name": "Yeshua!",
-      "url": "https://open.spotify.com/track/1j9kTaj53ZnU2JOXPbgGhN"
-    },
-    {
       "added_at": "2026-02-20 00:01:25",
       "album": {
         "name": "You Are There",
@@ -1547,6 +1531,26 @@
       "duration_ms": 381970,
       "name": "You Are There",
       "url": "https://open.spotify.com/track/3EAHBjhFMwuIdAS5FodQTF"
+    },
+    {
+      "added_at": "2026-11-06 00:02:01",
+      "album": {
+        "name": "Still",
+        "url": "https://open.spotify.com/album/4b3zDcT5IgrA6MTPRo4qvy"
+      },
+      "artists": [
+        {
+          "name": "Jvson",
+          "url": "https://open.spotify.com/artist/0CbUlmC1cMua8bl6aQvP6F"
+        },
+        {
+          "name": "LAMB CULTURE.",
+          "url": "https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "You are the reason",
+      "url": "https://open.spotify.com/track/4oRAFhEZxc9j3uXjTxkgJC"
     }
   ],
   "unique_name": "Blessed",

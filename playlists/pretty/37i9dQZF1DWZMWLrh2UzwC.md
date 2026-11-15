@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from Kmy Kmo, Luca Sickta,  Khai Bahar, Sarah Suhairi, Ella Langley, ATEEZ, LNGSHOT, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,477 likes - 107 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,462 likes - 107 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 67 | [HOME \(feat\. SOI\)](https://open.spotify.com/track/74sRLWLIkmsStJ4N6QLAaY) | [Mezzo](https://open.spotify.com/artist/2d8t6KshVUdTrq0tg8EB6P), [Lemese](https://open.spotify.com/artist/0DL9VpY3UsZWQyDOO5Ej2o), [SOI](https://open.spotify.com/artist/5b35BALBqCHvoV4vcbZQ1P) | [HOME \(feat\. SOI\)](https://open.spotify.com/album/5x1XDpLtiweDZ8G5AeSYWK) | 3:45 |
 | 68 | [maboroshi](https://open.spotify.com/track/1uyg1FZ9XY68aVpqr7l77A) | [Tosh Kugai](https://open.spotify.com/artist/126cRjPdUieqrzqLywzzdE) | [maboroshi](https://open.spotify.com/album/3mXqS5s61IDKwpqfDrs3TE) | 4:10 |
 | 69 | [JUST DON'T WASTE MY TIME](https://open.spotify.com/track/43T3dIoFF4IUgXOIWlgXkh) | [Brendonse7an](https://open.spotify.com/artist/65T1SQqoFSFXgUZxSWfpMN), [Reckless Escapades](https://open.spotify.com/artist/6leCbCvi7oiUDCCee0wDrm) | [JUST DON'T WASTE MY TIME](https://open.spotify.com/album/1u5PojQRl7v9vyYeOsTMdD) | 3:03 |
-| 70 | [Berjuta Sayang](https://open.spotify.com/track/0KCt7i5ztBoe5zs7OEnHEW) | [Nisa](https://open.spotify.com/artist/6wYROOAfZ97gNh5TzasS50) | [Berjuta Sayang](https://open.spotify.com/album/1odXc7OclW6s8YB4ueqULc) | 3:49 |
+| 70 | [Berjuta Sayang](https://open.spotify.com/track/0KCt7i5ztBoe5zs7OEnHEW) | [Nisa](https://open.spotify.com/artist/2xUAJS6X2qCR4cYHXeRvep) | [Berjuta Sayang](https://open.spotify.com/album/1odXc7OclW6s8YB4ueqULc) | 3:49 |
 | 71 | [Hati TanpaMu](https://open.spotify.com/track/1gPKYahMmAZdLrTBlg2diS) | [Adnin Roslan](https://open.spotify.com/artist/6I25GBSpfW8w8czYCmUFcg) | [Hati TanpaMu](https://open.spotify.com/album/1Ly6cxLrE08XjUOAfOrJms) | 3:35 |
 | 72 | [BACK OFF](https://open.spotify.com/track/6uVEHXVFEpcGuvtHiyCUjo) | [SYA](https://open.spotify.com/artist/0rW7V7HZoluUNdKnHK2lTl) | [BACK OFF](https://open.spotify.com/album/2Ggb7J1nHqddctqL1aRi0w) | 2:17 |
 | 73 | [Abe Jange Bimbey](https://open.spotify.com/track/7xLmQH9fNaSTjzEUJPrt1l) | [Rosalinda](https://open.spotify.com/artist/1vl168isbAlQSCafR9uoRU), [Eddie Hamid](https://open.spotify.com/artist/2QZnNRqtdGVuUfUYAERdd4) | [Abe Jange Bimbey](https://open.spotify.com/album/4RuMkrm2b1v4dgiFeBon7P) | 3:54 |

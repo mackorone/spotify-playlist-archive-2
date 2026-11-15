@@ -1,6 +1,6 @@
 {
   "description": "Reggaet\u00f3n de antes y de siempre en compa\u00f1\u00eda de Plan B.",
-  "num_followers": 4163561,
+  "num_followers": 4164291,
   "original_name": "Reggaet\u00f3n Viejito",
   "owner": {
     "name": "Spotify",
@@ -63,18 +63,18 @@
     {
       "added_at": "2026-09-23 16:07:56",
       "album": {
-        "name": "La player (Bandolera)",
-        "url": "https://open.spotify.com/album/57BGq6lpz8RK1cqr2fPVIi"
+        "name": "El Fenomeno",
+        "url": "https://open.spotify.com/album/5MLBEmgDNIltSfxvXesq9s"
       },
       "artists": [
         {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
         }
       ],
-      "duration_ms": 249608,
-      "name": "La player (Bandolera)",
-      "url": "https://open.spotify.com/track/0VKkyBKCXyR99navhVRqcP"
+      "duration_ms": 214120,
+      "name": "Pa' Que La Pases Bien",
+      "url": "https://open.spotify.com/track/1pLCpA1RN8avJxSD3ZCwhj"
     },
     {
       "added_at": "2026-09-23 16:07:56",
@@ -103,18 +103,18 @@
     {
       "added_at": "2026-09-23 16:07:56",
       "album": {
-        "name": "El Fenomeno",
-        "url": "https://open.spotify.com/album/5MLBEmgDNIltSfxvXesq9s"
+        "name": "La player (Bandolera)",
+        "url": "https://open.spotify.com/album/57BGq6lpz8RK1cqr2fPVIi"
       },
       "artists": [
         {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
         }
       ],
-      "duration_ms": 214120,
-      "name": "Pa' Que La Pases Bien",
-      "url": "https://open.spotify.com/track/1pLCpA1RN8avJxSD3ZCwhj"
+      "duration_ms": 249608,
+      "name": "La player (Bandolera)",
+      "url": "https://open.spotify.com/track/0VKkyBKCXyR99navhVRqcP"
     },
     {
       "added_at": "2026-09-23 16:07:56",
@@ -459,22 +459,6 @@
     {
       "added_at": "2026-09-23 16:07:56",
       "album": {
-        "name": "Me Prefieres A Mi",
-        "url": "https://open.spotify.com/album/1czm6WW5vuT5Cy1PrytBV9"
-      },
-      "artists": [
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        }
-      ],
-      "duration_ms": 195657,
-      "name": "Me Prefieres A Mi",
-      "url": "https://open.spotify.com/track/3GhmL9fuM8jwGcHCFbeo3v"
-    },
-    {
-      "added_at": "2026-09-23 16:07:56",
-      "album": {
         "name": "Mis Ojos Lloran Por Ti",
         "url": "https://open.spotify.com/album/5o36XrjVl3YdBYqt0p57Gc"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 295533,
       "name": "Mis Ojos Lloran Por Ti",
       "url": "https://open.spotify.com/track/4fFgpzgSkmn3wajioLBPOr"
+    },
+    {
+      "added_at": "2026-09-23 16:07:56",
+      "album": {
+        "name": "Me Prefieres A Mi",
+        "url": "https://open.spotify.com/album/1czm6WW5vuT5Cy1PrytBV9"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "duration_ms": 195657,
+      "name": "Me Prefieres A Mi",
+      "url": "https://open.spotify.com/track/3GhmL9fuM8jwGcHCFbeo3v"
     },
     {
       "added_at": "2026-09-23 16:07:56",
@@ -719,6 +719,30 @@
     {
       "added_at": "2026-09-23 16:07:56",
       "album": {
+        "name": "Top Of The Line",
+        "url": "https://open.spotify.com/album/0GERlfOuy87BuTAcwuO5Kb"
+      },
+      "artists": [
+        {
+          "name": "Tito \"El Bambino\"",
+          "url": "https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh"
+        },
+        {
+          "name": "Beenie Man",
+          "url": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
+        },
+        {
+          "name": "Deevani",
+          "url": "https://open.spotify.com/artist/0vLywSuTQGaeNiq9pN8sD0"
+        }
+      ],
+      "duration_ms": 173866,
+      "name": "Flow Natural",
+      "url": "https://open.spotify.com/track/2oeyvFG0mFFDHUxhPVObNk"
+    },
+    {
+      "added_at": "2026-09-23 16:07:56",
+      "album": {
         "name": "N.O.R.E. Y La Familia",
         "url": "https://open.spotify.com/album/0RLMAxS9mhy149lu93u7GA"
       },
@@ -747,30 +771,6 @@
       "duration_ms": 240973,
       "name": "Oye Mi Canto",
       "url": "https://open.spotify.com/track/3J6vrRMz6EfwH2sgYiyNhc"
-    },
-    {
-      "added_at": "2026-09-23 16:07:56",
-      "album": {
-        "name": "Top Of The Line",
-        "url": "https://open.spotify.com/album/0GERlfOuy87BuTAcwuO5Kb"
-      },
-      "artists": [
-        {
-          "name": "Tito \"El Bambino\"",
-          "url": "https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh"
-        },
-        {
-          "name": "Beenie Man",
-          "url": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
-        },
-        {
-          "name": "Deevani",
-          "url": "https://open.spotify.com/artist/0vLywSuTQGaeNiq9pN8sD0"
-        }
-      ],
-      "duration_ms": 173866,
-      "name": "Flow Natural",
-      "url": "https://open.spotify.com/track/2oeyvFG0mFFDHUxhPVObNk"
     },
     {
       "added_at": "2026-09-23 16:07:56",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2026-09-23 16:07:56",
       "album": {
-        "name": "Motivando a la Yal",
-        "url": "https://open.spotify.com/album/2aItcV9jj0LvaluaDFTLqF"
-      },
-      "artists": [
-        {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Bandida",
-      "url": "https://open.spotify.com/track/1810h6qkazO0NWahk1TyTy"
-    },
-    {
-      "added_at": "2026-09-23 16:07:56",
-      "album": {
         "name": "Conspiracion 2",
         "url": "https://open.spotify.com/album/1gEvJBXsQmn4PMDh9SYFrX"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 179093,
       "name": "Me Voy Pa'l Party",
       "url": "https://open.spotify.com/track/634SIK3O65qhslx5DLX44X"
+    },
+    {
+      "added_at": "2026-09-23 16:07:56",
+      "album": {
+        "name": "Motivando a la Yal",
+        "url": "https://open.spotify.com/album/2aItcV9jj0LvaluaDFTLqF"
+      },
+      "artists": [
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Bandida",
+      "url": "https://open.spotify.com/track/1810h6qkazO0NWahk1TyTy"
     },
     {
       "added_at": "2026-09-23 16:07:56",
@@ -2175,6 +2175,22 @@
     {
       "added_at": "2026-09-23 16:07:56",
       "album": {
+        "name": "El Que los Puso a Entonar",
+        "url": "https://open.spotify.com/album/5rlYUO0BB8CMczbXc25Wrr"
+      },
+      "artists": [
+        {
+          "name": "Alberto Stylee",
+          "url": "https://open.spotify.com/artist/5mgqYTU6dhKlEdi7DOy4uU"
+        }
+      ],
+      "duration_ms": 202053,
+      "name": "Te Imagino",
+      "url": "https://open.spotify.com/track/2RQnsXfNDcg2CvlSRSxJi9"
+    },
+    {
+      "added_at": "2026-09-23 16:07:56",
+      "album": {
         "name": "Cipote Carnaval 2011",
         "url": "https://open.spotify.com/album/14zQ8tAtR4VKcFjIvxop3l"
       },
@@ -2191,22 +2207,6 @@
       "duration_ms": 189653,
       "name": "Solos (feat. Plan B)",
       "url": "https://open.spotify.com/track/0I1mau5VjFZGDmLCpMfTyP"
-    },
-    {
-      "added_at": "2026-09-23 16:07:56",
-      "album": {
-        "name": "El Que los Puso a Entonar",
-        "url": "https://open.spotify.com/album/5rlYUO0BB8CMczbXc25Wrr"
-      },
-      "artists": [
-        {
-          "name": "Alberto Stylee",
-          "url": "https://open.spotify.com/artist/5mgqYTU6dhKlEdi7DOy4uU"
-        }
-      ],
-      "duration_ms": 202053,
-      "name": "Te Imagino",
-      "url": "https://open.spotify.com/track/2RQnsXfNDcg2CvlSRSxJi9"
     },
     {
       "added_at": "2026-09-23 16:07:56",
@@ -2307,6 +2307,22 @@
     {
       "added_at": "2026-09-23 16:07:56",
       "album": {
+        "name": "El Movimiento: The Mixtape",
+        "url": "https://open.spotify.com/album/2ouuoBa8BHjrwj68lftlaZ"
+      },
+      "artists": [
+        {
+          "name": "J Alvarez",
+          "url": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
+        }
+      ],
+      "duration_ms": 209120,
+      "name": "Ponte Pa Mi",
+      "url": "https://open.spotify.com/track/4NCLHXgKBCuFAf6m20sFKj"
+    },
+    {
+      "added_at": "2026-09-23 16:07:56",
+      "album": {
         "name": "Mis Ojos Lloran Por Ti",
         "url": "https://open.spotify.com/album/5o36XrjVl3YdBYqt0p57Gc"
       },
@@ -2327,18 +2343,18 @@
     {
       "added_at": "2026-09-23 16:07:56",
       "album": {
-        "name": "El Movimiento: The Mixtape",
-        "url": "https://open.spotify.com/album/2ouuoBa8BHjrwj68lftlaZ"
+        "name": "Nerdside",
+        "url": "https://open.spotify.com/album/34KerrXrPoanlVl1MtO2HG"
       },
       "artists": [
         {
-          "name": "J Alvarez",
-          "url": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
+          "name": "Jiggy Drama",
+          "url": "https://open.spotify.com/artist/2wJhXMulep4to8JaxUYjeY"
         }
       ],
-      "duration_ms": 209120,
-      "name": "Ponte Pa Mi",
-      "url": "https://open.spotify.com/track/4NCLHXgKBCuFAf6m20sFKj"
+      "duration_ms": 240000,
+      "name": "La Fuga",
+      "url": "https://open.spotify.com/track/4fhjhwazrEfayRC7l52TZ0"
     },
     {
       "added_at": "2026-09-23 16:07:56",
@@ -2355,22 +2371,6 @@
       "duration_ms": 280680,
       "name": "Es Dificil",
       "url": "https://open.spotify.com/track/2yIt5SGOZCHE2PuzcXfOof"
-    },
-    {
-      "added_at": "2026-09-23 16:07:56",
-      "album": {
-        "name": "Nerdside",
-        "url": "https://open.spotify.com/album/34KerrXrPoanlVl1MtO2HG"
-      },
-      "artists": [
-        {
-          "name": "Jiggy Drama",
-          "url": "https://open.spotify.com/artist/2wJhXMulep4to8JaxUYjeY"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "La Fuga",
-      "url": "https://open.spotify.com/track/4fhjhwazrEfayRC7l52TZ0"
     },
     {
       "added_at": "2026-09-23 16:07:56",
@@ -3491,18 +3491,18 @@
     {
       "added_at": "2026-09-23 16:07:56",
       "album": {
-        "name": "Reggaeton Diamond Collection",
-        "url": "https://open.spotify.com/album/3HD7DUUJXbxVd8q6Vujpri"
+        "name": "Te Quiero",
+        "url": "https://open.spotify.com/album/4GBaFbtHeZD8t8bd1jE0AD"
       },
       "artists": [
         {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+          "name": "Flex",
+          "url": "https://open.spotify.com/artist/13VwGEitoK8J0qjNjbgeTN"
         }
       ],
-      "duration_ms": 199367,
-      "name": "Yo No Soy Tu Marido",
-      "url": "https://open.spotify.com/track/10bbgurV9w05vJVGAX9jYq"
+      "duration_ms": 199110,
+      "name": "Te Quiero",
+      "url": "https://open.spotify.com/track/1Z4IqxukC6Yuer0nK7rC2R"
     },
     {
       "added_at": "2026-09-23 16:07:56",
@@ -3543,18 +3543,18 @@
     {
       "added_at": "2026-09-23 16:07:56",
       "album": {
-        "name": "Te Quiero",
-        "url": "https://open.spotify.com/album/4GBaFbtHeZD8t8bd1jE0AD"
+        "name": "Reggaeton Diamond Collection",
+        "url": "https://open.spotify.com/album/3HD7DUUJXbxVd8q6Vujpri"
       },
       "artists": [
         {
-          "name": "Flex",
-          "url": "https://open.spotify.com/artist/13VwGEitoK8J0qjNjbgeTN"
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
         }
       ],
-      "duration_ms": 199110,
-      "name": "Te Quiero",
-      "url": "https://open.spotify.com/track/1Z4IqxukC6Yuer0nK7rC2R"
+      "duration_ms": 199367,
+      "name": "Yo No Soy Tu Marido",
+      "url": "https://open.spotify.com/track/10bbgurV9w05vJVGAX9jYq"
     },
     {
       "added_at": "2026-09-23 16:07:56",
@@ -3571,6 +3571,22 @@
       "duration_ms": 152106,
       "name": "Ag\u00e1rrala - Remix",
       "url": "https://open.spotify.com/track/43yyvWNjl3yWpghcrxZYkr"
+    },
+    {
+      "added_at": "2026-09-23 16:07:56",
+      "album": {
+        "name": "Alex Gargolas Greatest Hits",
+        "url": "https://open.spotify.com/album/6JmEk1yaNPn4LFx9YPcZXv"
+      },
+      "artists": [
+        {
+          "name": "Randy Nota Loca",
+          "url": "https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav"
+        }
+      ],
+      "duration_ms": 188918,
+      "name": "Soy Una Gargola",
+      "url": "https://open.spotify.com/track/6g8su55d5ZpbMw01J7YrgE"
     },
     {
       "added_at": "2026-09-23 16:07:56",
@@ -3619,22 +3635,6 @@
     {
       "added_at": "2026-09-23 16:07:56",
       "album": {
-        "name": "Alex Gargolas Greatest Hits",
-        "url": "https://open.spotify.com/album/6JmEk1yaNPn4LFx9YPcZXv"
-      },
-      "artists": [
-        {
-          "name": "Randy Nota Loca",
-          "url": "https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav"
-        }
-      ],
-      "duration_ms": 188918,
-      "name": "Soy Una Gargola",
-      "url": "https://open.spotify.com/track/6g8su55d5ZpbMw01J7YrgE"
-    },
-    {
-      "added_at": "2026-09-23 16:07:56",
-      "album": {
         "name": "Goldstar Music La Familia Reggaeton Hits",
         "url": "https://open.spotify.com/album/4OapfRPzZGP0iphPp5byyk"
       },
@@ -3651,6 +3651,38 @@
       "duration_ms": 248406,
       "name": "D\u00e9jale Caer To' El Peso (feat. Yomo)",
       "url": "https://open.spotify.com/track/6eyrEbsUwKUPXNxv6FuCqv"
+    },
+    {
+      "added_at": "2026-09-23 16:07:56",
+      "album": {
+        "name": "DIVA- Platinum Edition",
+        "url": "https://open.spotify.com/album/0Sv18KP8WCk1eHGnhJqTrb"
+      },
+      "artists": [
+        {
+          "name": "Ivy Queen",
+          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
+        }
+      ],
+      "duration_ms": 175533,
+      "name": "Quiero Saber",
+      "url": "https://open.spotify.com/track/4VKI2yBkCE4mWhFBwZp0LU"
+    },
+    {
+      "added_at": "2026-09-23 16:07:56",
+      "album": {
+        "name": "Rankiaera",
+        "url": "https://open.spotify.com/album/7JevIXrHqNB7wRPD7Z7Jod"
+      },
+      "artists": [
+        {
+          "name": "Kino Rankins",
+          "url": "https://open.spotify.com/artist/0B02ZsmSdJvc5NECwOUZ7A"
+        }
+      ],
+      "duration_ms": 189010,
+      "name": "Sandunguera",
+      "url": "https://open.spotify.com/track/0S0TLhH8s2bMyRt2GXdkAP"
     },
     {
       "added_at": "2026-09-23 16:07:56",
@@ -3687,22 +3719,6 @@
       "duration_ms": 225693,
       "name": "Down",
       "url": "https://open.spotify.com/track/09QZbXkrHRww7Epv7qSnL0"
-    },
-    {
-      "added_at": "2026-09-23 16:07:56",
-      "album": {
-        "name": "Rankiaera",
-        "url": "https://open.spotify.com/album/7JevIXrHqNB7wRPD7Z7Jod"
-      },
-      "artists": [
-        {
-          "name": "Kino Rankins",
-          "url": "https://open.spotify.com/artist/0B02ZsmSdJvc5NECwOUZ7A"
-        }
-      ],
-      "duration_ms": 189010,
-      "name": "Sandunguera",
-      "url": "https://open.spotify.com/track/0S0TLhH8s2bMyRt2GXdkAP"
     },
     {
       "added_at": "2026-09-23 16:07:56",
@@ -3755,22 +3771,6 @@
       "duration_ms": 218928,
       "name": "Fruta Prohibida",
       "url": "https://open.spotify.com/track/4xTqyuvfoYoSoq3z7TAtnp"
-    },
-    {
-      "added_at": "2026-09-23 16:07:56",
-      "album": {
-        "name": "e5",
-        "url": "https://open.spotify.com/album/50m6CwGzwKsAcVPz9SCMrp"
-      },
-      "artists": [
-        {
-          "name": "Ivy Queen",
-          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
-        }
-      ],
-      "duration_ms": 254026,
-      "name": "Te He Querido, Te He Llorado",
-      "url": "https://open.spotify.com/track/1NrKLroOjLcSXtlq8twPrc"
     }
   ],
   "unique_name": "Reggaet\u00f3n Viejito",

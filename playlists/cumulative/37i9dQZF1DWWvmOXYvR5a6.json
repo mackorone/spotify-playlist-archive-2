@@ -4770,7 +4770,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 152079,
       "name": "everybody dies",
       "url": "https://open.spotify.com/track/4VjXB0bVNFiEQTi3tCDtU9"
@@ -17966,6 +17966,32 @@
       "duration_ms": 191220,
       "name": "Yesterday",
       "url": "https://open.spotify.com/track/4mPOgPXaXFBQ9dCg6OGEFv"
+    },
+    {
+      "album": {
+        "name": "YOONI",
+        "url": "https://open.spotify.com/album/6RX0AX00gXEeFxPJghGNyZ"
+      },
+      "artists": [
+        {
+          "name": "moonpil",
+          "url": "https://open.spotify.com/artist/3kMj3OAPRWh7VU4bmcX7ha"
+        },
+        {
+          "name": "TWLV",
+          "url": "https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey"
+        },
+        {
+          "name": "Sii",
+          "url": "https://open.spotify.com/artist/0X9TIFzB6y6kA2pZBcRmLu"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163000,
+      "name": "YOONI",
+      "url": "https://open.spotify.com/track/2wES7nQnbzh7wcFUHv9uPu"
     },
     {
       "album": {

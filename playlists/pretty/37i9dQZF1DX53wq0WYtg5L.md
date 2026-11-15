@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53wq0WYtg5L.md) - [plain]
 
 > Celebremos el orgullo mexicano con estas alegres canciones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 546,627 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 546,557 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,12 +85,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53wq0WYtg5L.md) - [plain]
 | 75 | [Popurri de Sones Jalisciences](https://open.spotify.com/track/2Pg0Zu7QpzYN1he0VfsN6L) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Bicentenario](https://open.spotify.com/album/6tFbIEt2apg5Zj1KPCdyMi) | 4:01 |
 | 76 | [El Jarabe Jalisciense](https://open.spotify.com/track/3UU2ya43dA5iRePqIs6ZMf) | [Estampas De Mexico](https://open.spotify.com/artist/3lkD5FY5TNDAToUDSPds3m) | [Estampas De Mexico: Traditional Music From Mexico](https://open.spotify.com/album/0NkD1XnjciR3tFRVXvlzVa) | 4:22 |
 | 77 | [El relampago](https://open.spotify.com/track/0iIwdN2FFXZ1VrKmhb4Lbs) | [Pepe Martinez](https://open.spotify.com/artist/5bCO2Uxyz6jC37YzE1yg94), [Mariachi Azteca](https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW) | [Mariachi from Mexico](https://open.spotify.com/album/2KYO6zfRdlOIp1OymWiedA) | 1:54 |
-| 78 | [Cielito Lindo](https://open.spotify.com/track/2GzOrRCr4yyz2DqcEqTdBS) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Lo Mejor De La Música Mexicana](https://open.spotify.com/album/35XRyDZl5xoWF0wVNQ5VeL) | 3:41 |
+| 78 | [Huapango de Moncayo](https://open.spotify.com/track/6sRcmTzalGYAERH18Nkqo6) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Sinfónico 3](https://open.spotify.com/album/5r6kbcr9qtGnpUo9uBqWwq) | 8:32 |
 | 79 | [La Bamba](https://open.spotify.com/track/5X73yzsOCpeyCzQMcCK37B) | [Sebastián Iradier](https://open.spotify.com/artist/6yjKBVFIjoLCvFIgJXzvwo), [Mariachi Azteca](https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW) | [Mariachi Azteca](https://open.spotify.com/album/7L0qYDZ1E8Pww3fz8qkMpr) | 3:44 |
 | 80 | [El Tapatio](https://open.spotify.com/track/2c7hsQ1qRngj4GhMopLE5W) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Lástima Que Sean Ajenas](https://open.spotify.com/album/1aSlbjdsAjY93SiXsqwfIL) | 3:08 |
 | 81 | [Gavilancito Sangre Cruzada](https://open.spotify.com/track/4qKnjzcIukPfpquVZW8Lnw) | [Lola Beltrán](https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p) | [Grandes Exitos](https://open.spotify.com/album/2NWbP3D49SbIgp2U9I84yj) | 2:16 |
 | 82 | [La Marcha De Zacatecas](https://open.spotify.com/track/1yNvdltBhsqVc6LwK33SCn) | [Mariachi México de Pepe Villa](https://open.spotify.com/artist/2pTMHhbToqVd0nXzEiwaRz) | [Polkas Mexicanas](https://open.spotify.com/album/2mUqMvwE655JirAbrd3sTb) | 3:01 |
-| 83 | [Huapango de Moncayo](https://open.spotify.com/track/6sRcmTzalGYAERH18Nkqo6) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Sinfónico 3](https://open.spotify.com/album/5r6kbcr9qtGnpUo9uBqWwq) | 8:32 |
+| 83 | [Cielito Lindo](https://open.spotify.com/track/2GzOrRCr4yyz2DqcEqTdBS) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Lo Mejor De La Música Mexicana](https://open.spotify.com/album/35XRyDZl5xoWF0wVNQ5VeL) | 3:41 |
 | 84 | [El mariachi](https://open.spotify.com/track/6lBalxphK1ccXVwlxYng9H) | [Mariachi Silvestre Vargas](https://open.spotify.com/artist/16RPDOVQlVowqfNnRuRlRG) | [Mexico Gran Colección Ranchera \- Mariachi Silvestre Vargas](https://open.spotify.com/album/0EdehzXJzRiKpZ2QCSrkgf) | 3:11 |
 | 85 | [El Polvorete](https://open.spotify.com/track/3x9qrtJGrYEUFutdC3I32H) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [35 Anniversary Re\-mastered Series, Vol\. 11](https://open.spotify.com/album/3pUiUb7Z4czGqyUVaNfytu) | 2:32 |
 | 86 | [Que Bonita Es Mi Tierra](https://open.spotify.com/track/450De2xJInnSzKGgFucBqP) | [Fernando De La Mora](https://open.spotify.com/artist/7n0DgT7oELfGWb30YlRatt), [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Fernando de la Mora Interpreta a Rubén Fuentes](https://open.spotify.com/album/5azGsYjlvnnqsRplgVxznL) | 3:34 |

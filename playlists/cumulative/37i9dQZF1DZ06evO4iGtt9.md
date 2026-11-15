@@ -4,7 +4,7 @@
 
 > This is Timaya\. The essential tracks, all in one playlist.
 
-132 songs - 7 hr 16 min
+133 songs - 7 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Gbagam \(feat\. Deettii & Phyno\)](https://open.spotify.com/track/2T7w6niKZZ3pQWR8MxwGim) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Deettii](https://open.spotify.com/artist/22B60sKa0PpmhadrNHuyJD), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [Gbagam \(feat\. Deettii & Phyno\)](https://open.spotify.com/album/08OTfvY73KcSjiflKgiv3R) | 3:07 | 2021-12-28 | 2023-12-14 |
 | [Gbo Se Wo \(feat\. Timaya\)](https://open.spotify.com/track/0boSTKIwz0fuPrWegoMqXs) | [Obesere](https://open.spotify.com/artist/3zCVI8q382lEWM4JwLJ8P9), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Hip Hop Mafia](https://open.spotify.com/album/10fn5C8XnQ46Lt3aas7VI0) | 4:22 | 2022-10-12 | 2023-08-31 |
 | [Get My Money Right](https://open.spotify.com/track/1ivWkOzOy7pmTYk7coyCvl) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Get My Money Right](https://open.spotify.com/album/0qcfLCEkFZqXz6yOwLPy5Z) | 2:57 | 2022-07-02 | 2024-08-18 |
-| [Get the Money](https://open.spotify.com/track/27Unp5Gb6quwfE547NF5GI) | [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [CITIZEN OF THE WORLD](https://open.spotify.com/album/3nzji2IKW3lBgsScOR0jVe) | 2:58 | 2022-12-24 |  |
+| [Get the Money](https://open.spotify.com/track/27Unp5Gb6quwfE547NF5GI) | [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [CITIZEN OF THE WORLD](https://open.spotify.com/album/3nzji2IKW3lBgsScOR0jVe) | 2:58 | 2022-12-24 | 2026-11-15 |
 | [Girls Dem](https://open.spotify.com/track/2zXALsJFKguDSbGZK6i1mB) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Epiphany](https://open.spotify.com/album/5Ez1K4VqsS6Vt2sh5Se1qL) | 3:29 | 2022-01-13 | 2022-09-06 |
 | [Givin Dem](https://open.spotify.com/track/4HDdq1RWhIBgAm5xOrqN32) | [Yung Willis](https://open.spotify.com/artist/0499FesCSNLjH8MmbeXQmr), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Kabusa Oriental Choir](https://open.spotify.com/artist/4YrSRLOhFdbVvToiE2nlpj) | [Givin Dem](https://open.spotify.com/album/4vQbd0xwxmhE1zlIm1Gr7x) | 2:34 | 2022-06-14 | 2024-08-17 |
 | [Go Low](https://open.spotify.com/track/1g9xZjJ2oO0PZsxTt4wgbA) | [Perfecta Ekpo](https://open.spotify.com/artist/2KqUTB61bKvuqAGvzRrHoK), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [The Urban Pulse, Vol\. 22](https://open.spotify.com/album/6IWCQIYFEhc9roC6oofNYf) | 3:35 | 2025-01-29 | 2025-02-02 |
@@ -97,6 +97,7 @@
 | [My Body](https://open.spotify.com/track/3IjY93g9VbfEyLRuEeRec7) | [Solidstar](https://open.spotify.com/artist/1Nuq9WJb01OoR56vu02bhX), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Solidstar](https://open.spotify.com/album/7ArDChlfOAGE3jBOe507xq) | 3:38 | 2021-12-28 |  |
 | [My Moto](https://open.spotify.com/track/6I0yiEym3CTTYl4E8NKtk8) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [My Moto](https://open.spotify.com/album/3gIFu0CH2CiaLeOBcrP3Hq) | 2:14 | 2023-05-29 | 2024-02-09 |
 | [NA MONEY \(feat\. Konshens\)](https://open.spotify.com/track/4h5MFKBQWttvsigQpnvUiq) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [GLADIATOR](https://open.spotify.com/album/79o1dxPTxk0QJhXjFoQlsE) | 2:21 | 2024-09-02 | 2024-09-14 |
+| [Never](https://open.spotify.com/track/1EsdgUoBXIp72WvMSd3F9g) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Never](https://open.spotify.com/album/2INhruz6kN5GiYUHnrAbpm) | 2:26 | 2026-11-15 |  |
 | [No Limit](https://open.spotify.com/track/5mkwf1vdNtFVFjJX44o4sV) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Gratitude](https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj) | 3:16 | 2022-09-01 | 2023-06-07 |
 | [No Pressure](https://open.spotify.com/track/2ZfwMwiJnti8JUZAHzvBnG) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [No Pressure](https://open.spotify.com/album/6DB4harKpwZ2IYfwsV6Qs8) | 2:57 | 2022-03-12 | 2024-11-16 |
 | [No Stress](https://open.spotify.com/track/4MB9KjYBDN1EsXFGDXVdfC) | [Tony Frank](https://open.spotify.com/artist/6wC3pFGIEB7mzGlBdSbseh), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [No Stress](https://open.spotify.com/album/0oZfRIJnwhVHbtgeHqoPvB) | 2:35 | 2023-05-07 | 2024-07-18 |

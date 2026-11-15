@@ -1,12 +1,12 @@
 {
   "description": "This is Sin\u00e9ad O'Connor. The essential tracks, all in one playlist.",
-  "num_followers": 82101,
+  "num_followers": 82106,
   "original_name": "This Is Sin\u00e9ad O'Connor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avUBgAAAAAAm3Pno0CwFayMSjZZe5yzb",
+  "snapshot_id": "avZTAAAAAAAkbL51Ty6obPbhAkZ3LjUR",
   "tracks": [
     {
       "added_at": null,
@@ -307,38 +307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Faith and Courage",
-        "url": "https://open.spotify.com/album/0ITyzBRmAMnwt8FwtkSu0d"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad O'Connor",
-          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
-        }
-      ],
-      "duration_ms": 255586,
-      "name": "Jealous",
-      "url": "https://open.spotify.com/track/2nC2C0GNE78vi2v3ZPeJWy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Lion and the Cobra",
-        "url": "https://open.spotify.com/album/5dVe3a5ld9uJC4VlpAXoJ6"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad O'Connor",
-          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
-        }
-      ],
-      "duration_ms": 150146,
-      "name": "Jackie",
-      "url": "https://open.spotify.com/track/0dQBgFWsfpZabdgAYIwNsO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Conjure One",
         "url": "https://open.spotify.com/album/0oUVb36vRs7xH3M6Gu2OUB"
       },
@@ -359,6 +327,38 @@
       "duration_ms": 257893,
       "name": "Tears From The Moon",
       "url": "https://open.spotify.com/track/4nBzwUdPBNuKiFfLTeG2sV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Lion and the Cobra",
+        "url": "https://open.spotify.com/album/5dVe3a5ld9uJC4VlpAXoJ6"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        }
+      ],
+      "duration_ms": 150146,
+      "name": "Jackie",
+      "url": "https://open.spotify.com/track/0dQBgFWsfpZabdgAYIwNsO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Faith and Courage",
+        "url": "https://open.spotify.com/album/0ITyzBRmAMnwt8FwtkSu0d"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        }
+      ],
+      "duration_ms": 255586,
+      "name": "Jealous",
+      "url": "https://open.spotify.com/track/2nC2C0GNE78vi2v3ZPeJWy"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Am I Not Your Girl?",
-        "url": "https://open.spotify.com/album/36G5Yxs26PEzUxSGUiAaIn"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad O'Connor",
-          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
-        }
-      ],
-      "duration_ms": 150400,
-      "name": "Why Don't You Do Right",
-      "url": "https://open.spotify.com/track/2EMPJ6nGifr0TUGm2FFzCZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I'm Not Bossy, I'm the Boss (Deluxe Version)",
         "url": "https://open.spotify.com/album/7DYDA9YjcBUsVrcwR2Xaek"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 181280,
       "name": "Take Me to Church",
       "url": "https://open.spotify.com/track/6JTxcKyKE5LUOv918ll0NE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Am I Not Your Girl?",
+        "url": "https://open.spotify.com/album/36G5Yxs26PEzUxSGUiAaIn"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        }
+      ],
+      "duration_ms": 150400,
+      "name": "Why Don't You Do Right",
+      "url": "https://open.spotify.com/track/2EMPJ6nGifr0TUGm2FFzCZ"
     },
     {
       "added_at": null,
@@ -811,22 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "You've Got Mail",
-        "url": "https://open.spotify.com/album/3xTwLJZLgcVVmUPszU8NeB"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad O'Connor",
-          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
-        }
-      ],
-      "duration_ms": 187893,
-      "name": "I Guess the Lord Must Be in New York City",
-      "url": "https://open.spotify.com/track/1jZnJWqzYmuCztcdefyZyQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Captive Original Soundtrack",
         "url": "https://open.spotify.com/album/1QOrpKGCLYMPfXT2mTaEeT"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 267106,
       "name": "Heroine",
       "url": "https://open.spotify.com/track/4i0bvDu2J8KOOxTzPs5qpc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You've Got Mail",
+        "url": "https://open.spotify.com/album/3xTwLJZLgcVVmUPszU8NeB"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        }
+      ],
+      "duration_ms": 187893,
+      "name": "I Guess the Lord Must Be in New York City",
+      "url": "https://open.spotify.com/track/1jZnJWqzYmuCztcdefyZyQ"
     },
     {
       "added_at": null,

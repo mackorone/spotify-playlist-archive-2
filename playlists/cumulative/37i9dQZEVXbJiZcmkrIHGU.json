@@ -2197,6 +2197,24 @@
     },
     {
       "album": {
+        "name": "365",
+        "url": "https://open.spotify.com/album/3JCoyTgwaB67uFXXDZKiDD"
+      },
+      "artists": [
+        {
+          "name": "Sampagne",
+          "url": "https://open.spotify.com/artist/7vohy1W7YNLxHynG44UFjS"
+        }
+      ],
+      "date_added": "2026-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125490,
+      "name": "365",
+      "url": "https://open.spotify.com/track/2puYoLAcArVFbFUceFYlYX"
+    },
+    {
+      "album": {
         "name": "36Grad",
         "url": "https://open.spotify.com/album/6WOHfkKExwlfMrHmQ7TlRC"
       },
@@ -7695,6 +7713,24 @@
     },
     {
       "album": {
+        "name": "Auf Trab",
+        "url": "https://open.spotify.com/album/1mOJGYaYx9dBgDpkUeJ7BQ"
+      },
+      "artists": [
+        {
+          "name": "Mucco",
+          "url": "https://open.spotify.com/artist/0AfMiUTAbsDPQSCXmBva4y"
+        }
+      ],
+      "date_added": "2026-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "Auf Trab",
+      "url": "https://open.spotify.com/track/7k2TiQ8DToKHVL41YfHoqq"
+    },
+    {
+      "album": {
         "name": "Auf Wiedersehen",
         "url": "https://open.spotify.com/album/4PRuCuybqXn93xLrouuDVR"
       },
@@ -12600,6 +12636,52 @@
       "duration_ms": 152164,
       "name": "Bla Bla Car",
       "url": "https://open.spotify.com/track/2S85psL2GuBbYlQK22BryI"
+    },
+    {
+      "album": {
+        "name": "BLACK (feat. Jazeek, Luciano, THIZZY52, reezy)",
+        "url": "https://open.spotify.com/album/0znAfPvrcIevD306b2QHkr"
+      },
+      "artists": [
+        {
+          "name": "Bantu Nation",
+          "url": "https://open.spotify.com/artist/0gue1dxQtQ28unbf9Z0x2f"
+        },
+        {
+          "name": "Nu51",
+          "url": "https://open.spotify.com/artist/1lAMEytqWfuvgQ8jyz8TWH"
+        },
+        {
+          "name": "G-Mac",
+          "url": "https://open.spotify.com/artist/3anm80VRRBU2mYBKvGQfoL"
+        },
+        {
+          "name": "Des",
+          "url": "https://open.spotify.com/artist/74rrdc9h8enZI0681hjxeJ"
+        },
+        {
+          "name": "Jazeek",
+          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
+        },
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        },
+        {
+          "name": "reezy",
+          "url": "https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q"
+        },
+        {
+          "name": "THIZZY52",
+          "url": "https://open.spotify.com/artist/1dVKBw8iMPpS1almxwIVI3"
+        }
+      ],
+      "date_added": "2026-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173857,
+      "name": "BLACK (feat. Jazeek, Luciano, THIZZY52, reezy)",
+      "url": "https://open.spotify.com/track/4zd9RlMM0M43UE0ZoRFH6h"
     },
     {
       "album": {
@@ -40764,7 +40846,7 @@
       ],
       "date_added": "2026-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 156106,
       "name": "IMPULSIVE",
       "url": "https://open.spotify.com/track/4TnnvhiNjsYdcHxODzNiKA"
@@ -41562,7 +41644,7 @@
       ],
       "date_added": "2026-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 161739,
       "name": "Inundauswendig",
       "url": "https://open.spotify.com/track/1DOVkuzAdnyHgDJXbp92Wq"
@@ -42219,6 +42301,24 @@
     },
     {
       "album": {
+        "name": "JAISI",
+        "url": "https://open.spotify.com/album/1z2tLmNMrZ8kcwaEp3X5uk"
+      },
+      "artists": [
+        {
+          "name": "Pajel",
+          "url": "https://open.spotify.com/artist/1bpI6QDUqmfKmV0Tlhj0Jm"
+        }
+      ],
+      "date_added": "2026-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168695,
+      "name": "JAISI",
+      "url": "https://open.spotify.com/track/0epFg8iYS5gJkpGSRlaaMM"
+    },
+    {
+      "album": {
         "name": "Jalousien",
         "url": "https://open.spotify.com/album/6qLRUaajc3YGbc3XEjuqDX"
       },
@@ -42256,7 +42356,7 @@
       ],
       "date_added": "2026-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-10",
+      "date_removed": null,
       "duration_ms": 156393,
       "name": "Jamaican (Bam Bam)",
       "url": "https://open.spotify.com/track/0Vcss0GZ1rbNI7QQPfXeg4"
@@ -48872,7 +48972,7 @@
       ],
       "date_added": "2025-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 241133,
       "name": "Lichterkinder",
       "url": "https://open.spotify.com/track/0iLyAlInsomkzvxAMYlS6R"
@@ -58771,6 +58871,48 @@
     },
     {
       "album": {
+        "name": "NASIB (BAYDA)",
+        "url": "https://open.spotify.com/album/2sYz1vZ3nsmSkkELiv5058"
+      },
+      "artists": [
+        {
+          "name": "VOLO",
+          "url": "https://open.spotify.com/artist/0PPCPsuv0iOAYKGR2SkFal"
+        },
+        {
+          "name": "SadiQ",
+          "url": "https://open.spotify.com/artist/2cbnuG01tV93pqdfr4OBqL"
+        },
+        {
+          "name": "Ghost61",
+          "url": "https://open.spotify.com/artist/3Ust4zjda1k2oady1gt6Cy"
+        },
+        {
+          "name": "Kolja Goldstein",
+          "url": "https://open.spotify.com/artist/3rZxAl7fnH4NDynhJm3MUm"
+        },
+        {
+          "name": "D\u00fa Maroc",
+          "url": "https://open.spotify.com/artist/2s0YBNTlWf61tFJwKderGS"
+        },
+        {
+          "name": "18 Karat",
+          "url": "https://open.spotify.com/artist/5oWFxbBrbk2Mw86PLUg3OZ"
+        },
+        {
+          "name": "Sa4",
+          "url": "https://open.spotify.com/artist/5qZLYtTL3ldN6Uw7OXHESR"
+        }
+      ],
+      "date_added": "2026-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286680,
+      "name": "NASIB (BAYDA)",
+      "url": "https://open.spotify.com/track/4VBFOFQ2Hh5vXUdvkLm1vJ"
+    },
+    {
+      "album": {
         "name": "Nasser Asphalt",
         "url": "https://open.spotify.com/album/5CtGJnYsn8kl1EveJwG1ES"
       },
@@ -60993,6 +61135,36 @@
     },
     {
       "album": {
+        "name": "NRC",
+        "url": "https://open.spotify.com/album/0oOd0Ihi6nzeyp6agf7Xqf"
+      },
+      "artists": [
+        {
+          "name": "LACAZETTE",
+          "url": "https://open.spotify.com/artist/7rBed6Ya7Hwa2fXbh5btJE"
+        },
+        {
+          "name": "Kalazh44",
+          "url": "https://open.spotify.com/artist/5sRQkVexJlax2iISuqL8cV"
+        },
+        {
+          "name": "GRiNGO",
+          "url": "https://open.spotify.com/artist/5Sjj30aHCmKcM9SdVX7PBK"
+        },
+        {
+          "name": "Narkaman",
+          "url": "https://open.spotify.com/artist/6iW5Q7HEHruLKYAUAuhDZl"
+        }
+      ],
+      "date_added": "2026-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300684,
+      "name": "NRC",
+      "url": "https://open.spotify.com/track/7hWwax1I24HIhP7ea4YsDT"
+    },
+    {
+      "album": {
         "name": "NRW Connect",
         "url": "https://open.spotify.com/album/68ihCoA4fG5J3wzb5MXm7r"
       },
@@ -61044,7 +61216,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 187520,
       "name": "Numb",
       "url": "https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h"
@@ -63176,7 +63348,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 186964,
       "name": "Ordinary",
       "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
@@ -64757,6 +64929,24 @@
     },
     {
       "album": {
+        "name": "Party With The Boys",
+        "url": "https://open.spotify.com/album/5Ei8O7C8Fa5oXZTNB166Sf"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "date_added": "2026-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155492,
+      "name": "Party With The Boys",
+      "url": "https://open.spotify.com/track/5d2Sj3lMKJFefwU26GInQu"
+    },
+    {
+      "album": {
         "name": "Partysau",
         "url": "https://open.spotify.com/album/7os2XcLO5jiSftCstEWzAI"
       },
@@ -64954,7 +65144,7 @@
       ],
       "date_added": "2026-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 225868,
       "name": "Patient Zero",
       "url": "https://open.spotify.com/track/11hcBLPtbMp4aQI6zGQLub"
@@ -70687,6 +70877,28 @@
     },
     {
       "album": {
+        "name": "ruf mich an",
+        "url": "https://open.spotify.com/album/24XSWTrKkedZHjM3DojGJt"
+      },
+      "artists": [
+        {
+          "name": "BILLA JOE",
+          "url": "https://open.spotify.com/artist/72y6W9pGy97xTM44dwy3F6"
+        },
+        {
+          "name": "Juju",
+          "url": "https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF"
+        }
+      ],
+      "date_added": "2026-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143546,
+      "name": "ruf mich an",
+      "url": "https://open.spotify.com/track/5wbJ7HueAkzEjexKZ6lMNk"
+    },
+    {
+      "album": {
         "name": "Ruf mich nicht mehr an",
         "url": "https://open.spotify.com/album/3IszBnRmibBoKVKab1Z6Md"
       },
@@ -71254,7 +71466,7 @@
       ],
       "date_added": "2023-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-11",
+      "date_removed": null,
       "duration_ms": 243600,
       "name": "S&M",
       "url": "https://open.spotify.com/track/7ySUcLPVX7KudhnmNcgY2D"
@@ -71838,7 +72050,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 204093,
       "name": "Santa Tell Me",
       "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
@@ -73604,7 +73816,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 151741,
       "name": "Self Aware",
       "url": "https://open.spotify.com/track/6xupcsJHo3wW2tSVKwu4mf"
@@ -85522,7 +85734,7 @@
       ],
       "date_added": "2026-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 219864,
       "name": "UNETHICAL",
       "url": "https://open.spotify.com/track/7G8EmDx7L5zRHb6rBJDqEG"
@@ -87078,6 +87290,36 @@
     {
       "album": {
         "name": "Verschwommen x Von hier an blind",
+        "url": "https://open.spotify.com/album/01DswBY7B26WeIU2M8D6yz"
+      },
+      "artists": [
+        {
+          "name": "Ski Aggu",
+          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
+        },
+        {
+          "name": "Wir sind Helden",
+          "url": "https://open.spotify.com/artist/3jiOHVFdVQjbSDVeC7RgY7"
+        },
+        {
+          "name": "Ericson",
+          "url": "https://open.spotify.com/artist/2mkCm5VNJTplOKJxcDYMpa"
+        },
+        {
+          "name": "Philemon",
+          "url": "https://open.spotify.com/artist/13k83FRrq682vqOpI7epwJ"
+        }
+      ],
+      "date_added": "2026-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115183,
+      "name": "Verschwommen x Von hier an blind",
+      "url": "https://open.spotify.com/track/1xuBGilhARR8eVh0Spww0R"
+    },
+    {
+      "album": {
+        "name": "Verschwommen x Von hier an blind",
         "url": "https://open.spotify.com/album/6nJJLeJHBmPA5Bo31czMVH"
       },
       "artists": [
@@ -87100,7 +87342,7 @@
       ],
       "date_added": "2026-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 115230,
       "name": "Verschwommen x Von hier an blind",
       "url": "https://open.spotify.com/track/4jj8g2wsOVy10m7OuJ193j"
@@ -88460,7 +88702,7 @@
       ],
       "date_added": "2025-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 201325,
       "name": "Walzer",
       "url": "https://open.spotify.com/track/605G7F1FEjm60IdXmLhlNN"

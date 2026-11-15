@@ -1735,6 +1735,32 @@
     },
     {
       "album": {
+        "name": "rap de calcinha",
+        "url": "https://open.spotify.com/album/4YgxA1mDTP5b9XRAuDaYSm"
+      },
+      "artists": [
+        {
+          "name": "CAE",
+          "url": "https://open.spotify.com/artist/2d8dvLwxR3APvLe0gcLaK0"
+        },
+        {
+          "name": "AJULLIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "winx",
+          "url": "https://open.spotify.com/artist/7c8aL5TD7eVJbiifo1QVkY"
+        }
+      ],
+      "date_added": "2026-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 69397,
+      "name": "vai ser grande\u2026 (interl\u00fadio)",
+      "url": "https://open.spotify.com/track/3uS5kQosSlXTJ7ypy3SUT2"
+    },
+    {
+      "album": {
         "name": "Brutas Amam, Choram e Sentem Raiva",
         "url": "https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj"
       },

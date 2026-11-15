@@ -4,7 +4,7 @@
 
 > La playlist à la cool pour accompagner votre dîner !
 
-296 songs - 17 hr 6 min
+297 songs - 17 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Borrowed Time](https://open.spotify.com/track/6QESYT149tN8sV6JmjHcJc) | [Emma Hoet](https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9), [bob junior](https://open.spotify.com/artist/2fug6DU1q1uRkPG9L7r2Ne) | [Borrowed Time](https://open.spotify.com/album/5UuqNdJMfNFULySh1MsgLd) | 3:00 | 2026-10-12 |  |
 | [Bottle](https://open.spotify.com/track/6RE9jLqeJftjRXERFYOK9E) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Bottle](https://open.spotify.com/album/0uZGs0m2awRRM75OD1iftN) | 4:18 | 2026-08-21 | 2026-10-13 |
 | [Boyfriend](https://open.spotify.com/track/6YCwQYs9osECgiOtfrHT7f) | [Hot Freaks](https://open.spotify.com/artist/0wGzciem2JUvglxX6Hr3E9) | [Hot Freaks Forever](https://open.spotify.com/album/4D7dYPMpxbMcyN16qUHvlL) | 3:22 | 2026-02-13 | 2026-07-25 |
+| [Burn The Witch](https://open.spotify.com/track/3JHTGkpRXwCGaW3Hh0crug) | [Misfits Together](https://open.spotify.com/artist/4y3Ml1Bz1HWbUpVvaMGR50) | [Burn The Witch](https://open.spotify.com/album/20KFcc2YxcqOAFsrWLfwmC) | 3:19 | 2026-11-13 |  |
 | [Call Me](https://open.spotify.com/track/4VuQDgGCITUEMT5NWKvWFK) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Call Me](https://open.spotify.com/album/1MQRxIVZfu0T2UM5Z5x8Sz) | 3:48 | 2025-11-06 | 2026-01-15 |
 | [Can't Help Myself](https://open.spotify.com/track/5pUfdVxE1331e8ugacRv4v) | [Snazzy](https://open.spotify.com/artist/7lDQhKVaKvuNDftiiZVrYy) | [Can't Help Myself](https://open.spotify.com/album/0BSru0mLqK04SfTZQiQ9PA) | 2:18 | 2025-12-18 |  |
 | [Carry On](https://open.spotify.com/track/3keQNqUZlDH9pT7GNFHJl4) | [Broken Back](https://open.spotify.com/artist/4nx8ehrFiCOmWgebUKshDV) | [Carry On](https://open.spotify.com/album/2lQTVys9eE0m20jZ2ac6wK) | 2:40 | 2025-10-16 | 2025-11-29 |
@@ -188,7 +189,7 @@
 | [Only You](https://open.spotify.com/track/2rDwETmcGw4ZqbuXvLQmDL) | [Theophilus London](https://open.spotify.com/artist/4EMtGVFvfCSrEmWaGV0roE), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Bebey](https://open.spotify.com/album/31e6kRTlCq4KGjg3XA6m5K) | 3:35 | 2025-07-18 | 2026-01-17 |
 | [Orange County \(feat\. Bizarrap, Kara Jackson and Anoushka Shankar\)](https://open.spotify.com/track/23XKMzf0cK0thlSxbfMqW9) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Kara Jackson](https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl), [Anoushka Shankar](https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU) | [The Hardest Thing \(feat\. Tony Allen\) / Orange County \(feat\. Bizarrap, Kara Jackson and Anoushka Shankar\)](https://open.spotify.com/album/4KP7VGPFNTDAbcnpTvrhq4) | 3:28 | 2026-01-16 | 2026-01-31 |
 | [Ordinary Creature](https://open.spotify.com/track/1jweUS5PZjpmKi4tW1qpgW) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [Ordinary Creature](https://open.spotify.com/album/40muwQzy0YCbfQAG0oZIln) | 3:40 | 2025-08-07 | 2026-04-03 |
-| [Origami](https://open.spotify.com/track/2kbAnjDgC3pmHvhPMnPSsj) | [Claudia Isaki](https://open.spotify.com/artist/5Q8asiEUYLobc6DvKIsqOP) | [Origami](https://open.spotify.com/album/0fCTZZuaPxbAb1GArjeGR7) | 3:46 | 2026-07-23 |  |
+| [Origami](https://open.spotify.com/track/2kbAnjDgC3pmHvhPMnPSsj) | [Claudia Isaki](https://open.spotify.com/artist/5Q8asiEUYLobc6DvKIsqOP) | [Origami](https://open.spotify.com/album/0fCTZZuaPxbAb1GArjeGR7) | 3:46 | 2026-07-23 | 2026-11-15 |
 | [Out Of The Blue](https://open.spotify.com/track/1RSn4iuoSFtw1K8VvWmzcn) | [bob junior](https://open.spotify.com/artist/2fug6DU1q1uRkPG9L7r2Ne), [Evan Klar](https://open.spotify.com/artist/75uckX1A3uct1uhAbAdVy2) | [P.S I Love You](https://open.spotify.com/album/0rOSkVbGUhgFTrpRJL6vqn) | 2:56 | 2025-11-06 | 2025-11-16 |
 | [Out of Time Man](https://open.spotify.com/track/3nFoPHJR1BOSrTl6jKIl1a) | [Mick Harvey](https://open.spotify.com/artist/5RyAbJ3y4yw8EbDcRblB8S) | [Two of Diamonds](https://open.spotify.com/album/7dnieoimvSordFsWN5Dec5) | 2:57 | 2025-07-18 |  |
 | [Paradis bleu](https://open.spotify.com/track/0iLicFNAMT18xb36wBrRNl) | [Revers Gagnant](https://open.spotify.com/artist/1JJFKIcDjsMUEJAini15V8), [Matild](https://open.spotify.com/artist/556svfNK6nfvqu9F6N4Eok) | [Paradis bleu](https://open.spotify.com/album/5AFmjJeQX1DxFO1YB5S7Dg) | 3:57 | 2025-07-18 | 2026-07-26 |

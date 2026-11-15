@@ -7986,7 +7986,7 @@
       ],
       "date_added": "2026-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 198595,
       "name": "Daha \u0130yi",
       "url": "https://open.spotify.com/track/2AhfH5OG1o12XEqGZUgEPT"
@@ -15874,7 +15874,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 264829,
       "name": "I\u015f\u0131kl\u0131 Yol",
       "url": "https://open.spotify.com/track/2ZM3RY8gGKVMbfXMhx0wCJ"
@@ -25757,6 +25757,24 @@
     },
     {
       "album": {
+        "name": "Sana Tutuluyorum",
+        "url": "https://open.spotify.com/album/4TAFQkdKmAYJod9WrcrPNY"
+      },
+      "artists": [
+        {
+          "name": "Hasan G\u00f6zetlik",
+          "url": "https://open.spotify.com/artist/26goe4k3AmqQSVeGW0TEWe"
+        }
+      ],
+      "date_added": "2026-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189183,
+      "name": "Sana Tutuluyorum",
+      "url": "https://open.spotify.com/track/1Oy8bIB90XUbxRX91lbbvx"
+    },
+    {
+      "album": {
         "name": "Sana Vuruldum (Ulubatl\u0131 Hasan)",
         "url": "https://open.spotify.com/album/7wHTQvIXsj6ULlSv1QDM0k"
       },
@@ -32722,6 +32740,24 @@
       "duration_ms": 183896,
       "name": "\u00d6l\u00fcyorum Anla",
       "url": "https://open.spotify.com/track/7AxK6ojozGBLlxuRaXwQQ1"
+    },
+    {
+      "album": {
+        "name": "\u00d6MERHAYYAM",
+        "url": "https://open.spotify.com/album/6nS0Cf1kM2pubtgcwHVAi3"
+      },
+      "artists": [
+        {
+          "name": "Wegh",
+          "url": "https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT"
+        }
+      ],
+      "date_added": "2026-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138666,
+      "name": "\u00d6MERHAYYAM",
+      "url": "https://open.spotify.com/track/0MCEEI8LCEUJKi4apujvff"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > your cheat sheet for all that's on the rise in alt/rock\. Cover: footballhead
 
-[Spotify](https://open.spotify.com/user/spotify) - 475,206 likes - 200 songs - 11 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 475,204 likes - 200 songs - 11 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

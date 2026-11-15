@@ -257,6 +257,28 @@
     },
     {
       "album": {
+        "name": "BLISS",
+        "url": "https://open.spotify.com/album/6nYuXUkFQTxkTZ1WT9kbz5"
+      },
+      "artists": [
+        {
+          "name": "Josh Waters",
+          "url": "https://open.spotify.com/artist/5jKjSpkbKc8CgNdrB4WEhZ"
+        },
+        {
+          "name": "Jai'Len Josey",
+          "url": "https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr"
+        }
+      ],
+      "date_added": "2026-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309024,
+      "name": "Insane (Jai'Len's Interlude)",
+      "url": "https://open.spotify.com/track/1moNXhbgdlIicUqGFpeCRS"
+    },
+    {
+      "album": {
         "name": "Southern Delicacy",
         "url": "https://open.spotify.com/album/2GqVdnApGsHmQrQWX0rVY2"
       },

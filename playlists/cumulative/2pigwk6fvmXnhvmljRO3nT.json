@@ -32479,6 +32479,24 @@
     },
     {
       "album": {
+        "name": "Mini World",
+        "url": "https://open.spotify.com/album/1r7XjAgjwlakmXC2GbPXjH"
+      },
+      "artists": [
+        {
+          "name": "Indila",
+          "url": "https://open.spotify.com/artist/0FEJqmeLRzsXj8hgcZaAyB"
+        }
+      ],
+      "date_added": "2026-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213493,
+      "name": "Derni\u00e8re danse",
+      "url": "https://open.spotify.com/track/65uoaqX5qcjXZRheAj1qQT"
+    },
+    {
+      "album": {
         "name": "Metaphor: ReFantazio Special Soundtrack",
         "url": "https://open.spotify.com/album/4t0OSUQj2rwY3vQnWRYXVm"
       },
@@ -75200,8 +75218,8 @@
       },
       "artists": [
         {
-          "name": "\u963f\u4fdd\u3000\u525b",
-          "url": "https://open.spotify.com/artist/1tlGMYIC16uiS2OFSkvpGT"
+          "name": "Takeshi Abo",
+          "url": "https://open.spotify.com/artist/6Sn7YAvyrm7TzAM1lyaLqV"
         }
       ],
       "date_added": "2026-10-20",
@@ -81666,6 +81684,24 @@
       "duration_ms": 246213,
       "name": "Love Sosa",
       "url": "https://open.spotify.com/track/01Lr5YepbgjXAWR9iOEyH1"
+    },
+    {
+      "album": {
+        "name": "Mini World",
+        "url": "https://open.spotify.com/album/1r7XjAgjwlakmXC2GbPXjH"
+      },
+      "artists": [
+        {
+          "name": "Indila",
+          "url": "https://open.spotify.com/artist/0FEJqmeLRzsXj8hgcZaAyB"
+        }
+      ],
+      "date_added": "2026-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316280,
+      "name": "Love Story",
+      "url": "https://open.spotify.com/track/6nGeLlakfzlBcFdZXteDq7"
     },
     {
       "album": {

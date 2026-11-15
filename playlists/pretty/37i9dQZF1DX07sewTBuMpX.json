@@ -1,6 +1,6 @@
 {
   "description": "De beste tunes op repeat. Cover: Idaly, Ronnie Flex & Frenna",
-  "num_followers": 141977,
+  "num_followers": 141980,
   "original_name": "Pull Up Hits",
   "owner": {
     "name": "Spotify",
@@ -207,26 +207,6 @@
     {
       "added_at": "2026-11-06 11:00:25",
       "album": {
-        "name": "VIVE LA MONNAIE",
-        "url": "https://open.spotify.com/album/07S8hnczxCG1wvNMjbq8An"
-      },
-      "artists": [
-        {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
-        },
-        {
-          "name": "Mauvais djo",
-          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
-        }
-      ],
-      "duration_ms": 184186,
-      "name": "VIVE LA MONNAIE",
-      "url": "https://open.spotify.com/track/1wNmBZcYBdIf3Dp6P96Vn8"
-    },
-    {
-      "added_at": "2026-11-06 11:00:25",
-      "album": {
         "name": "Gata Only (Remix)",
         "url": "https://open.spotify.com/album/3j6Hr2FWIsjgTKWbfRx0tu"
       },
@@ -247,6 +227,26 @@
       "duration_ms": 230513,
       "name": "Gata Only (Remix)",
       "url": "https://open.spotify.com/track/0JGTfiC4Z41GEEpMYLbWwO"
+    },
+    {
+      "added_at": "2026-11-06 11:00:25",
+      "album": {
+        "name": "VIVE LA MONNAIE",
+        "url": "https://open.spotify.com/album/07S8hnczxCG1wvNMjbq8An"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        },
+        {
+          "name": "Mauvais djo",
+          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
+        }
+      ],
+      "duration_ms": 184186,
+      "name": "VIVE LA MONNAIE",
+      "url": "https://open.spotify.com/track/1wNmBZcYBdIf3Dp6P96Vn8"
     },
     {
       "added_at": "2026-11-06 11:00:25",
@@ -307,22 +307,6 @@
     {
       "added_at": "2026-11-06 11:00:25",
       "album": {
-        "name": "Soleil",
-        "url": "https://open.spotify.com/album/5IwocCJFXNPDoBVSY88Bcw"
-      },
-      "artists": [
-        {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
-        }
-      ],
-      "duration_ms": 131563,
-      "name": "Soleil",
-      "url": "https://open.spotify.com/track/2QfcxxXiORn553zXq7qrFG"
-    },
-    {
-      "added_at": "2026-11-06 11:00:25",
-      "album": {
         "name": "Monalisa",
         "url": "https://open.spotify.com/album/6eGxth6Bbmudt9k7ybo5Ll"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 212975,
       "name": "Monalisa",
       "url": "https://open.spotify.com/track/3baPniPXS0iEII8rDUJdYP"
+    },
+    {
+      "added_at": "2026-11-06 11:00:25",
+      "album": {
+        "name": "Soleil",
+        "url": "https://open.spotify.com/album/5IwocCJFXNPDoBVSY88Bcw"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        }
+      ],
+      "duration_ms": 131563,
+      "name": "Soleil",
+      "url": "https://open.spotify.com/track/2QfcxxXiORn553zXq7qrFG"
     },
     {
       "added_at": "2026-11-06 11:00:25",
@@ -407,22 +407,6 @@
     {
       "added_at": "2026-11-06 11:00:25",
       "album": {
-        "name": "NINAO",
-        "url": "https://open.spotify.com/album/7mcrW5GLhiY9RbNJzAIzRk"
-      },
-      "artists": [
-        {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
-        }
-      ],
-      "duration_ms": 167813,
-      "name": "NINAO",
-      "url": "https://open.spotify.com/track/5lXLzaZoj4j4hfCYO687bN"
-    },
-    {
-      "added_at": "2026-11-06 11:00:25",
-      "album": {
         "name": "Mussulo (feat. Doddy)",
         "url": "https://open.spotify.com/album/1eQf5lYWtCDIbuXnhMDQtO"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 256483,
       "name": "Mussulo (feat. Doddy)",
       "url": "https://open.spotify.com/track/3VSO45erUjYsPi1IFuc43Q"
+    },
+    {
+      "added_at": "2026-11-06 11:00:25",
+      "album": {
+        "name": "NINAO",
+        "url": "https://open.spotify.com/album/7mcrW5GLhiY9RbNJzAIzRk"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        }
+      ],
+      "duration_ms": 167813,
+      "name": "NINAO",
+      "url": "https://open.spotify.com/track/5lXLzaZoj4j4hfCYO687bN"
     },
     {
       "added_at": "2026-11-06 11:00:25",
@@ -503,26 +503,6 @@
     {
       "added_at": "2026-11-06 11:00:25",
       "album": {
-        "name": "SPIDER",
-        "url": "https://open.spotify.com/album/5stpXgOAVPkVA7WDPB4IZf"
-      },
-      "artists": [
-        {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
-        },
-        {
-          "name": "DYSTINCT",
-          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
-        }
-      ],
-      "duration_ms": 188818,
-      "name": "SPIDER",
-      "url": "https://open.spotify.com/track/2fFTn0f94EopgZyfSGQuyK"
-    },
-    {
-      "added_at": "2026-11-06 11:00:25",
-      "album": {
         "name": "THIS YEAR (Blessings)",
         "url": "https://open.spotify.com/album/31Iuukwc9AgXmHyU2UmYDi"
       },
@@ -539,6 +519,26 @@
       "duration_ms": 126206,
       "name": "THIS YEAR (Blessings)",
       "url": "https://open.spotify.com/track/2VGGQdroduj4dIMGPsBzDG"
+    },
+    {
+      "added_at": "2026-11-06 11:00:25",
+      "album": {
+        "name": "SPIDER",
+        "url": "https://open.spotify.com/album/5stpXgOAVPkVA7WDPB4IZf"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        },
+        {
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+        }
+      ],
+      "duration_ms": 188818,
+      "name": "SPIDER",
+      "url": "https://open.spotify.com/track/2fFTn0f94EopgZyfSGQuyK"
     },
     {
       "added_at": "2026-11-06 11:00:25",
@@ -595,22 +595,6 @@
     {
       "added_at": "2026-11-06 11:00:25",
       "album": {
-        "name": "Waar Was Je?",
-        "url": "https://open.spotify.com/album/4kEeqiqqWBO8Uh1KSInTeC"
-      },
-      "artists": [
-        {
-          "name": "Qlas",
-          "url": "https://open.spotify.com/artist/4bB3nz947QqaXQ5DZFcZgS"
-        }
-      ],
-      "duration_ms": 148645,
-      "name": "Waar Was Je?",
-      "url": "https://open.spotify.com/track/7GLBgrDPai2M459NKWMAMf"
-    },
-    {
-      "added_at": "2026-11-06 11:00:25",
-      "album": {
         "name": "bLoOdLine",
         "url": "https://open.spotify.com/album/0WW2cx3x8Foi8d4xNLfHce"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 154062,
       "name": "ZAAZAA",
       "url": "https://open.spotify.com/track/0hVWE4YILwwpN4F1P9nxva"
+    },
+    {
+      "added_at": "2026-11-06 11:00:25",
+      "album": {
+        "name": "Waar Was Je?",
+        "url": "https://open.spotify.com/album/4kEeqiqqWBO8Uh1KSInTeC"
+      },
+      "artists": [
+        {
+          "name": "Qlas",
+          "url": "https://open.spotify.com/artist/4bB3nz947QqaXQ5DZFcZgS"
+        }
+      ],
+      "duration_ms": 148645,
+      "name": "Waar Was Je?",
+      "url": "https://open.spotify.com/track/7GLBgrDPai2M459NKWMAMf"
     },
     {
       "added_at": "2026-11-06 11:00:25",
@@ -971,26 +971,6 @@
     {
       "added_at": "2026-11-06 11:00:25",
       "album": {
-        "name": "Nu Meteen (Slide)",
-        "url": "https://open.spotify.com/album/0nbuaqiqyG3lN2wfOHgypg"
-      },
-      "artists": [
-        {
-          "name": "KM",
-          "url": "https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw"
-        },
-        {
-          "name": "Idaly",
-          "url": "https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM"
-        }
-      ],
-      "duration_ms": 153621,
-      "name": "Nu Meteen (Slide)",
-      "url": "https://open.spotify.com/track/73epTVTwGh2rSnMkrKmgJS"
-    },
-    {
-      "added_at": "2026-11-06 11:00:25",
-      "album": {
         "name": "WAHALA (FEAT. OLAMIDE)",
         "url": "https://open.spotify.com/album/59BxJKNg7wRYlJxAahb3YW"
       },
@@ -1011,18 +991,22 @@
     {
       "added_at": "2026-11-06 11:00:25",
       "album": {
-        "name": "Trop parler",
-        "url": "https://open.spotify.com/album/6Qeq7qS0CVx0s81e0eftvY"
+        "name": "Nu Meteen (Slide)",
+        "url": "https://open.spotify.com/album/0nbuaqiqyG3lN2wfOHgypg"
       },
       "artists": [
         {
-          "name": "Franglish",
-          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+          "name": "KM",
+          "url": "https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw"
+        },
+        {
+          "name": "Idaly",
+          "url": "https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM"
         }
       ],
-      "duration_ms": 183865,
-      "name": "Trop parler",
-      "url": "https://open.spotify.com/track/403UULZfsCNgiCJlf7kii4"
+      "duration_ms": 153621,
+      "name": "Nu Meteen (Slide)",
+      "url": "https://open.spotify.com/track/73epTVTwGh2rSnMkrKmgJS"
     },
     {
       "added_at": "2026-11-06 11:00:25",
@@ -1043,6 +1027,22 @@
       "duration_ms": 176892,
       "name": "Darling",
       "url": "https://open.spotify.com/track/7LtHyF0iUvR1g39UP6kI11"
+    },
+    {
+      "added_at": "2026-11-06 11:00:25",
+      "album": {
+        "name": "Trop parler",
+        "url": "https://open.spotify.com/album/6Qeq7qS0CVx0s81e0eftvY"
+      },
+      "artists": [
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        }
+      ],
+      "duration_ms": 183865,
+      "name": "Trop parler",
+      "url": "https://open.spotify.com/track/403UULZfsCNgiCJlf7kii4"
     },
     {
       "added_at": "2026-11-06 11:00:25",
@@ -1811,26 +1811,26 @@
     {
       "added_at": "2026-11-06 11:00:25",
       "album": {
-        "name": "Alsjeblieft",
-        "url": "https://open.spotify.com/album/3Y9TtesZiPzWxBXWD0GSwr"
+        "name": "Loro Piana",
+        "url": "https://open.spotify.com/album/0egHLSkTArwzqumnOHzejS"
       },
       "artists": [
         {
-          "name": "Josylvio",
-          "url": "https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx"
-        },
-        {
-          "name": "CHO",
-          "url": "https://open.spotify.com/artist/0YPIovtLh5msFPFuCcn30R"
+          "name": "Glades",
+          "url": "https://open.spotify.com/artist/2IrIxkfver7SZcOsFC0l6Q"
         },
         {
           "name": "Henkie T",
           "url": "https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El"
+        },
+        {
+          "name": "Josylvio",
+          "url": "https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx"
         }
       ],
-      "duration_ms": 200453,
-      "name": "Alsjeblieft",
-      "url": "https://open.spotify.com/track/6EqWfORn8udIwOBx6NSktf"
+      "duration_ms": 188160,
+      "name": "Loro Piana",
+      "url": "https://open.spotify.com/track/11sTBZXqq6nKIFHFRDBKnu"
     }
   ],
   "unique_name": "Pull Up Hits",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Hans Williams
 
-[Spotify](https://open.spotify.com/user/spotify) - 886,020 likes - 180 songs - 10 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 886,060 likes - 180 songs - 10 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 17 | [Rearview](https://open.spotify.com/track/0VQzD1AAKDlM3wCGyqLyA9) | [Center Mid](https://open.spotify.com/artist/4zPGRxbsiwHe6nVHaL1hlN) | [Rearview](https://open.spotify.com/album/09lYlxeh1KAe6c5siJ1q8q) | 3:07 |
 | 18 | [Pie in the Sky](https://open.spotify.com/track/699x6CXskk0UBYolCbrPBt) | [Matt Holubowski](https://open.spotify.com/artist/384YLF1kNQk9Ccl8pn7BSO) | [Pie in the Sky](https://open.spotify.com/album/6dKTA6fQL7y5KyXaEOmB48) | 4:19 |
 | 19 | [Mindless Feeling](https://open.spotify.com/track/4iVWFyMYVNZVQwTeDM4ViF) | [Schaefer Llana](https://open.spotify.com/artist/2p4lD1A4m58EkqOjvcHRsq) | [Full Circle](https://open.spotify.com/album/3ASgyeTqBANmesuXmrpfgj) | 5:00 |
-| 20 | [I Knew You When](https://open.spotify.com/track/0TNNy97FX2OpacorIjSYKF) | [Diana Silvers](https://open.spotify.com/artist/4Uf4PfiZLdUfSEksP0ppEs) | [Daughter Of Sorts](https://open.spotify.com/album/35BZ4khbT8FyzNLQHLfyzI) | 2:54 |
+| 20 | [I Knew You When](https://open.spotify.com/track/0TNNy97FX2OpacorIjSYKF) | [Diana Silvers](https://open.spotify.com/artist/4Uf4PfiZLdUfSEksP0ppEs) | [Daughter of Sorts](https://open.spotify.com/album/35BZ4khbT8FyzNLQHLfyzI) | 2:54 |
 | 21 | [The Wheel \- From The Hunger Games: Sunrise on the Reaping \- The Album](https://open.spotify.com/track/2CogABm63uPyd2qAo259RW) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [The Hunger Games](https://open.spotify.com/artist/6UdECsev3yuXe2rfLrdDiF) | [The Wheel](https://open.spotify.com/album/63skES6QZCyxqmMy1c9QtZ) | 3:07 |
 | 22 | [Texas in Flaming Tongues](https://open.spotify.com/track/6uE4NJuNswdm3DpVqXTCTG) | [Hudson Freeman](https://open.spotify.com/artist/6k3W2iGuRZrhUnfVZOMQo8) | [Doom Country](https://open.spotify.com/album/5vSqwLudI1148yxdAD80uG) | 4:03 |
 | 23 | [Separate Ways](https://open.spotify.com/track/70GkMaaL8rKjU0IOmkvpE7) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Separate Ways](https://open.spotify.com/album/2ji7m23hqSwzCPteBUC5It) | 4:05 |

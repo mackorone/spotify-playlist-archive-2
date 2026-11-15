@@ -4,7 +4,7 @@
 
 > If you're blessed!
 
-707 songs - 1 day 23 hr 51 min
+708 songs - 1 day 23 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -679,11 +679,12 @@
 | [YES](https://open.spotify.com/track/3e9GnGjPhfWcG2Bw8wgiBN) | [Theo Milford](https://open.spotify.com/artist/2WrkrqaMQZTXpMMGvxWrTD), [Danielle LaTouche](https://open.spotify.com/artist/4sexZV9stgh3w9OnFbQieQ) | [YES](https://open.spotify.com/album/1vVp9CDY3dwxcFYGfDsWbF) | 4:48 | 2025-03-31 | 2025-05-23 |
 | [Yes, I Know](https://open.spotify.com/track/3v7RvFFJkYMQU1m7VF9Qp0) | [Chris Else](https://open.spotify.com/artist/0RfGDCR6iUaAP2h3BxNHjP) | [Yes, I Know](https://open.spotify.com/album/3IebSqR46WJAtVMSwJZPOn) | 3:43 | 2025-05-23 | 2025-06-13 |
 | [Yeshua](https://open.spotify.com/track/6VDhWqHgYFJQkWC8X6GwEl) | [Jesufemi](https://open.spotify.com/artist/3Hk1MSEN7hTVpjPdKp8GRA) | [Yeshua](https://open.spotify.com/album/16HVSUhTrK4U231KZJ1Me4) | 3:05 | 2026-04-03 | 2026-05-22 |
-| [Yeshua!](https://open.spotify.com/track/1j9kTaj53ZnU2JOXPbgGhN) | [Vic Lucas](https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG) | [Yeshua!](https://open.spotify.com/album/6f1T835QYYd56uvPFg2gj8) | 3:40 | 2026-04-03 |  |
+| [Yeshua!](https://open.spotify.com/track/1j9kTaj53ZnU2JOXPbgGhN) | [Vic Lucas](https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG) | [Yeshua!](https://open.spotify.com/album/6f1T835QYYd56uvPFg2gj8) | 3:40 | 2026-04-03 | 2026-11-15 |
 | [YESU](https://open.spotify.com/track/54wWAAGkIHZG03JkcSd2cS) | [Vblaiz](https://open.spotify.com/artist/3rCZErjQlU5ZvkMrQQCJca), [Spillz Ochai](https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q) | [YESU](https://open.spotify.com/album/6AmGXpLt7W7ygyt1Ojk8el) | 2:29 | 2026-07-24 | 2026-08-21 |
 | [You](https://open.spotify.com/track/4jP9BprqNUmsG7xnb0tyHC) | [Tjsarx](https://open.spotify.com/artist/4Ndq7v7oiQdrRJvlrRY2KJ), [Spirit & Life Collective](https://open.spotify.com/artist/0hplB8E1h8iFQvA949bI2q) | [You](https://open.spotify.com/album/5yveYWC5QD8qO0fYR5MPS1) | 2:23 | 2024-10-25 | 2025-02-07 |
 | [You Are Amazing](https://open.spotify.com/track/7dHvwjFdxpxHiXmgjFyyML) | [Pita](https://open.spotify.com/artist/0dV0oacQivGSBfpLf7P3Em) | [AS I AM GRATEFUL](https://open.spotify.com/album/67P3bKHSj2ebmBQAqrvZVm) | 5:36 | 2025-09-26 | 2025-10-03 |
 | [You Are Great](https://open.spotify.com/track/0JgTmcVrSqq4dbfmlRSixK) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu), [Chizie](https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE), [Neeja](https://open.spotify.com/artist/2Q6hH4KzIrMYrpP601GUJi), [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T), [Ajay Asika](https://open.spotify.com/artist/6JTtYSXFQweCccnZnRkVs1) | [You Are Great](https://open.spotify.com/album/7EgJ4tFv1FjsMJA1voRnQb) | 3:03 | 2024-09-27 |  |
+| [You are the reason](https://open.spotify.com/track/4oRAFhEZxc9j3uXjTxkgJC) | [Jvson](https://open.spotify.com/artist/0CbUlmC1cMua8bl6aQvP6F), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [Still](https://open.spotify.com/album/4b3zDcT5IgrA6MTPRo4qvy) | 2:24 | 2026-11-06 |  |
 | [You Are The Reason](https://open.spotify.com/track/3D2Q41aYlsxIeVVNZelWkd) | [Toyin Ogunniyi](https://open.spotify.com/artist/485KdhvKOxbZt0CDo0fdAx) | [You Are The Reason](https://open.spotify.com/album/0J0hZeitQaKoLa5RPW8ob2) | 3:50 | 2025-06-27 | 2025-08-08 |
 | [You Are There](https://open.spotify.com/track/3EAHBjhFMwuIdAS5FodQTF) | [Yinka Okeleye](https://open.spotify.com/artist/0QD66eLbMvlwcjQVUtKpo9), [Olamiji Rasheed](https://open.spotify.com/artist/797ilaBFnTzTvavwB225LX) | [You Are There](https://open.spotify.com/album/0rFk98XNaIJkoPATUDYCjm) | 6:21 | 2026-02-20 |  |
 | [You Are Yahweh](https://open.spotify.com/track/7Cfe74owuRtozH7Yyx3WSI) | [Steve Crown](https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3) | [You Are Yahweh](https://open.spotify.com/album/5jx5lmaMmzQZ6NA4QWiDfp) | 4:38 | 2024-09-30 | 2025-11-28 |

@@ -6086,7 +6086,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-08",
+      "date_removed": null,
       "duration_ms": 193910,
       "name": "CARITA FELIZ",
       "url": "https://open.spotify.com/track/6bQsFck5fRznOrCfJMxF1c"
@@ -7996,7 +7996,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-13",
+      "date_removed": null,
       "duration_ms": 159600,
       "name": "Corrupta",
       "url": "https://open.spotify.com/track/1Ok4aiD2OUO6AyhrlvF98b"
@@ -11629,6 +11629,24 @@
     },
     {
       "album": {
+        "name": "El Hueso",
+        "url": "https://open.spotify.com/album/6sxeIWSvy8JBemcPyy0JXM"
+      },
+      "artists": [
+        {
+          "name": "Ralphie Choo",
+          "url": "https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7"
+        }
+      ],
+      "date_added": "2026-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143301,
+      "name": "El Hueso",
+      "url": "https://open.spotify.com/track/1Dr7IM4yoNwvucqW1KOAbk"
+    },
+    {
+      "album": {
         "name": "La 167",
         "url": "https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK"
       },
@@ -12972,7 +12990,7 @@
       ],
       "date_added": "2026-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 102760,
       "name": "ESPECIAL BB",
       "url": "https://open.spotify.com/track/5VgNVL7mBhkhAHKd19AzPA"
@@ -23285,6 +23303,36 @@
     },
     {
       "album": {
+        "name": "MI VIDA",
+        "url": "https://open.spotify.com/album/0aesFWXeKZ51QYBvBd0yPn"
+      },
+      "artists": [
+        {
+          "name": "Natos y Waor",
+          "url": "https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw"
+        },
+        {
+          "name": "Recycled J",
+          "url": "https://open.spotify.com/artist/4bWHA8fMNjzfGPQqnh5D6y"
+        },
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        },
+        {
+          "name": "Hijos de la Ruina",
+          "url": "https://open.spotify.com/artist/39pp1wX82VRlVVohxushdp"
+        }
+      ],
+      "date_added": "2026-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "MI VIDA",
+      "url": "https://open.spotify.com/track/1fmbjqcgGpjfY7YNQXqAQS"
+    },
+    {
+      "album": {
         "name": "miamor",
         "url": "https://open.spotify.com/album/6kgmi1PshVXk6ENMvQicAz"
       },
@@ -27048,7 +27096,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 260268,
       "name": "PARADIXE - REMIX",
       "url": "https://open.spotify.com/track/18YYddH2JVaiAGJ3y5BFh0"
@@ -32726,7 +32774,7 @@
       ],
       "date_added": "2026-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 118477,
       "name": "SHIPEO",
       "url": "https://open.spotify.com/track/2ixKi27ggMDke14Z5PXtv6"
@@ -34780,7 +34828,7 @@
       ],
       "date_added": "2026-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 189168,
       "name": "S\u00c9 DE TI",
       "url": "https://open.spotify.com/track/7CUdD36cDyL3WdcIKgawKi"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3grxzg.md) - [plain]
 
 > This is Danna Paola\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,153 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,144 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3grxzg.md) - [plain]
 | 49 | [Viaje A La Luz](https://open.spotify.com/track/22cnE0Ul5mYg8xeQUnj88Z) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Mimos para peques](https://open.spotify.com/album/7398zkmq6j19rKe5DTCWVa) | 2:17 |
 | 50 | [Lo Que No Sabes](https://open.spotify.com/track/0WMeFfdrLoRjDoVX0vTFnG) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [SIE7E](https://open.spotify.com/album/4J7EXFsYW1SmRWmYAjwhEo) | 3:54 |
 
-Snapshot ID: `avUBgAAAAACtUxxj//FqaNLb6kCEg+m3`
+Snapshot ID: `avZTAAAAAAAqLh9wSYyYBCKEyvzqKLbc`

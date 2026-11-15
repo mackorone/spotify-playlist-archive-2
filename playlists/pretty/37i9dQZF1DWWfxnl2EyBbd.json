@@ -1,6 +1,6 @@
 {
   "description": "Unwind and relax to the soft sound of jazz piano. ",
-  "num_followers": 371556,
+  "num_followers": 371578,
   "original_name": "Relaxing Jazz Piano",
   "owner": {
     "name": "Spotify",
@@ -283,22 +283,6 @@
     {
       "added_at": "2026-10-23 08:02:52",
       "album": {
-        "name": "Tales of the night breeze",
-        "url": "https://open.spotify.com/album/1aonWpWS7U4VY1nZU0k9Ch"
-      },
-      "artists": [
-        {
-          "name": "Ilse Fisher",
-          "url": "https://open.spotify.com/artist/2WWIVn4Edfmjx7pD5t4kPt"
-        }
-      ],
-      "duration_ms": 182279,
-      "name": "Tales of the night breeze",
-      "url": "https://open.spotify.com/track/6anvx91Qu1k2zNABNIYDOK"
-    },
-    {
-      "added_at": "2026-10-23 08:02:52",
-      "album": {
         "name": "Brooklyn Lights",
         "url": "https://open.spotify.com/album/6D64hYWbeTBlzuy8BZmVda"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 133250,
       "name": "Brooklyn Lights",
       "url": "https://open.spotify.com/track/6QZ8YKI12M3YxAI83hpERc"
+    },
+    {
+      "added_at": "2026-10-23 08:02:52",
+      "album": {
+        "name": "Tales of the night breeze",
+        "url": "https://open.spotify.com/album/1aonWpWS7U4VY1nZU0k9Ch"
+      },
+      "artists": [
+        {
+          "name": "Ilse Fisher",
+          "url": "https://open.spotify.com/artist/2WWIVn4Edfmjx7pD5t4kPt"
+        }
+      ],
+      "duration_ms": 182279,
+      "name": "Tales of the night breeze",
+      "url": "https://open.spotify.com/track/6anvx91Qu1k2zNABNIYDOK"
     },
     {
       "added_at": "2026-10-23 08:02:52",
@@ -603,8 +603,8 @@
     {
       "added_at": "2026-10-23 08:02:52",
       "album": {
-        "name": "Quite a dilemma",
-        "url": "https://open.spotify.com/album/0SWqBR8eqW0LqgJXrPUQcI"
+        "name": "I miss your laughter",
+        "url": "https://open.spotify.com/album/0pAU1cL8tBWrwH65s1NLe7"
       },
       "artists": [
         {
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/6AaWDcxoX78PME15nCCMoa"
         }
       ],
-      "duration_ms": 175833,
-      "name": "Quite a dilemma",
-      "url": "https://open.spotify.com/track/0pqVwU2Qh0DqWtCM2Z34R0"
+      "duration_ms": 159021,
+      "name": "I miss your laughter",
+      "url": "https://open.spotify.com/track/7J43Mh4UvelypkEw3VfzAp"
     },
     {
       "added_at": "2026-10-23 08:02:52",
@@ -651,6 +651,22 @@
     {
       "added_at": "2026-10-23 08:02:52",
       "album": {
+        "name": "Bewitched",
+        "url": "https://open.spotify.com/album/2Q5XyVFJf8Lloo3zLhltgJ"
+      },
+      "artists": [
+        {
+          "name": "Oliver Smith",
+          "url": "https://open.spotify.com/artist/50mD2f9PAcpylaGDNNkBk2"
+        }
+      ],
+      "duration_ms": 159615,
+      "name": "Bewitched",
+      "url": "https://open.spotify.com/track/1cnHFlrnkjFcXA7np39uAd"
+    },
+    {
+      "added_at": "2026-10-23 08:02:52",
+      "album": {
         "name": "Fading Away",
         "url": "https://open.spotify.com/album/4fBkgYYEsSKa1pICgQThET"
       },
@@ -667,6 +683,22 @@
     {
       "added_at": "2026-10-23 08:02:52",
       "album": {
+        "name": "Quite a dilemma",
+        "url": "https://open.spotify.com/album/0SWqBR8eqW0LqgJXrPUQcI"
+      },
+      "artists": [
+        {
+          "name": "Camille Blanche",
+          "url": "https://open.spotify.com/artist/6AaWDcxoX78PME15nCCMoa"
+        }
+      ],
+      "duration_ms": 175833,
+      "name": "Quite a dilemma",
+      "url": "https://open.spotify.com/track/0pqVwU2Qh0DqWtCM2Z34R0"
+    },
+    {
+      "added_at": "2026-10-23 08:02:52",
+      "album": {
         "name": "Nothing Like Home",
         "url": "https://open.spotify.com/album/2EfUCSCnXzADrYxMfT1oy6"
       },
@@ -679,38 +711,6 @@
       "duration_ms": 153200,
       "name": "Nothing Like Home",
       "url": "https://open.spotify.com/track/3sDNFPDQ90gLKk9cRuPPjb"
-    },
-    {
-      "added_at": "2026-10-23 08:02:52",
-      "album": {
-        "name": "I miss your laughter",
-        "url": "https://open.spotify.com/album/0pAU1cL8tBWrwH65s1NLe7"
-      },
-      "artists": [
-        {
-          "name": "Camille Blanche",
-          "url": "https://open.spotify.com/artist/6AaWDcxoX78PME15nCCMoa"
-        }
-      ],
-      "duration_ms": 159021,
-      "name": "I miss your laughter",
-      "url": "https://open.spotify.com/track/7J43Mh4UvelypkEw3VfzAp"
-    },
-    {
-      "added_at": "2026-10-23 08:02:52",
-      "album": {
-        "name": "Bewitched",
-        "url": "https://open.spotify.com/album/2Q5XyVFJf8Lloo3zLhltgJ"
-      },
-      "artists": [
-        {
-          "name": "Oliver Smith",
-          "url": "https://open.spotify.com/artist/50mD2f9PAcpylaGDNNkBk2"
-        }
-      ],
-      "duration_ms": 159615,
-      "name": "Bewitched",
-      "url": "https://open.spotify.com/track/1cnHFlrnkjFcXA7np39uAd"
     },
     {
       "added_at": "2026-10-23 08:02:52",
@@ -747,6 +747,22 @@
     {
       "added_at": "2026-10-23 08:02:52",
       "album": {
+        "name": "An Evening Walk",
+        "url": "https://open.spotify.com/album/4PYXwB3FNXLepaBLOpXr7V"
+      },
+      "artists": [
+        {
+          "name": "Uno Blanket",
+          "url": "https://open.spotify.com/artist/6V1Pk0mCdVkx6StOttWcev"
+        }
+      ],
+      "duration_ms": 133390,
+      "name": "An Evening Walk",
+      "url": "https://open.spotify.com/track/7cj4cJfK1juIXTuNviu9XB"
+    },
+    {
+      "added_at": "2026-10-23 08:02:52",
+      "album": {
         "name": "A Moment To Give",
         "url": "https://open.spotify.com/album/3SBA201Y91QNWpBhnQcl2C"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 163566,
       "name": "promenade",
       "url": "https://open.spotify.com/track/2r451wKpR4AKtqD0bvAyAR"
-    },
-    {
-      "added_at": "2026-10-23 08:02:52",
-      "album": {
-        "name": "An Evening Walk",
-        "url": "https://open.spotify.com/album/4PYXwB3FNXLepaBLOpXr7V"
-      },
-      "artists": [
-        {
-          "name": "Uno Blanket",
-          "url": "https://open.spotify.com/artist/6V1Pk0mCdVkx6StOttWcev"
-        }
-      ],
-      "duration_ms": 133390,
-      "name": "An Evening Walk",
-      "url": "https://open.spotify.com/track/7cj4cJfK1juIXTuNviu9XB"
     },
     {
       "added_at": "2026-10-23 08:02:52",
@@ -939,22 +939,6 @@
     {
       "added_at": "2026-10-23 08:02:52",
       "album": {
-        "name": "For One Night Only",
-        "url": "https://open.spotify.com/album/0XXtHDAZ0LARMC649OzMap"
-      },
-      "artists": [
-        {
-          "name": "Goratie",
-          "url": "https://open.spotify.com/artist/3WuT8leyL0ikW55vAra4rD"
-        }
-      ],
-      "duration_ms": 165666,
-      "name": "For One Night Only",
-      "url": "https://open.spotify.com/track/0HOhMMTzxpW8xygjVSxgpt"
-    },
-    {
-      "added_at": "2026-10-23 08:02:52",
-      "album": {
         "name": "A Few Horizons",
         "url": "https://open.spotify.com/album/4mx4n0shq5AdIy5TfFNaGP"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 140997,
       "name": "A Few Horizons",
       "url": "https://open.spotify.com/track/2s2stQDViffflCkrdkC8MD"
+    },
+    {
+      "added_at": "2026-10-23 08:02:52",
+      "album": {
+        "name": "For One Night Only",
+        "url": "https://open.spotify.com/album/0XXtHDAZ0LARMC649OzMap"
+      },
+      "artists": [
+        {
+          "name": "Goratie",
+          "url": "https://open.spotify.com/artist/3WuT8leyL0ikW55vAra4rD"
+        }
+      ],
+      "duration_ms": 165666,
+      "name": "For One Night Only",
+      "url": "https://open.spotify.com/track/0HOhMMTzxpW8xygjVSxgpt"
     },
     {
       "added_at": "2026-10-23 08:02:52",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2026-10-23 08:02:52",
       "album": {
-        "name": "Summer with You",
-        "url": "https://open.spotify.com/album/43JfSeY3jM158FdpfoqgGe"
-      },
-      "artists": [
-        {
-          "name": "Timothy Reisen",
-          "url": "https://open.spotify.com/artist/4rJYlfkVsUwDk0iDUUBU01"
-        }
-      ],
-      "duration_ms": 144533,
-      "name": "Summer with You",
-      "url": "https://open.spotify.com/track/7qZeDhgJdRcXOUmIAyCEor"
-    },
-    {
-      "added_at": "2026-10-23 08:02:52",
-      "album": {
         "name": "Here with Me",
         "url": "https://open.spotify.com/album/5zn6x74Z6tctMhmWTHBxHf"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 197190,
       "name": "Here with Me",
       "url": "https://open.spotify.com/track/1Ea4Xe2SCtPJmdeJk4bI17"
+    },
+    {
+      "added_at": "2026-10-23 08:02:52",
+      "album": {
+        "name": "Summer with You",
+        "url": "https://open.spotify.com/album/43JfSeY3jM158FdpfoqgGe"
+      },
+      "artists": [
+        {
+          "name": "Timothy Reisen",
+          "url": "https://open.spotify.com/artist/4rJYlfkVsUwDk0iDUUBU01"
+        }
+      ],
+      "duration_ms": 144533,
+      "name": "Summer with You",
+      "url": "https://open.spotify.com/track/7qZeDhgJdRcXOUmIAyCEor"
     },
     {
       "added_at": "2026-10-23 08:02:52",

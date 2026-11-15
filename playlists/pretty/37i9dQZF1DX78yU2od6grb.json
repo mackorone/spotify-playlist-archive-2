@@ -1,6 +1,6 @@
 {
   "description": "Quer fazer aquele exerc\u00edcio empolgante e sem estresse? Fizemos uma playlist com o som certo para voc\u00ea alcan\u00e7ar novas metas.",
-  "num_followers": 521928,
+  "num_followers": 521837,
   "original_name": "Corra numa Boa",
   "owner": {
     "name": "Spotify",
@@ -1255,26 +1255,6 @@
     {
       "added_at": "2025-02-07 03:01:15",
       "album": {
-        "name": "Always Will",
-        "url": "https://open.spotify.com/album/7tWc4pl3BkLrVKH02W5iWq"
-      },
-      "artists": [
-        {
-          "name": "Seeb",
-          "url": "https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq"
-        },
-        {
-          "name": "Julie Bergan",
-          "url": "https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv"
-        }
-      ],
-      "duration_ms": 207270,
-      "name": "Always Will",
-      "url": "https://open.spotify.com/track/3ndUEyT1uOX5cPvsJScvEq"
-    },
-    {
-      "added_at": "2025-02-07 03:01:15",
-      "album": {
         "name": "Right Into You",
         "url": "https://open.spotify.com/album/7gbcNX18avaFcPPYEh2eX4"
       },
@@ -1299,18 +1279,38 @@
     {
       "added_at": "2025-02-07 03:01:15",
       "album": {
-        "name": "Midnight Calls",
-        "url": "https://open.spotify.com/album/3ELMVr61XRoOsqDTC6r2sk"
+        "name": "Always Will",
+        "url": "https://open.spotify.com/album/7tWc4pl3BkLrVKH02W5iWq"
       },
       "artists": [
         {
-          "name": "Mayra",
-          "url": "https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt"
+          "name": "Seeb",
+          "url": "https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq"
+        },
+        {
+          "name": "Julie Bergan",
+          "url": "https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv"
         }
       ],
-      "duration_ms": 191569,
-      "name": "Midnight Calls",
-      "url": "https://open.spotify.com/track/6ZxsZWzg4pWzW9gEKvnLFl"
+      "duration_ms": 207270,
+      "name": "Always Will",
+      "url": "https://open.spotify.com/track/3ndUEyT1uOX5cPvsJScvEq"
+    },
+    {
+      "added_at": "2025-02-07 03:01:15",
+      "album": {
+        "name": "Without Me",
+        "url": "https://open.spotify.com/album/0zzrCTzvL4ZmR42xF46Afm"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "duration_ms": 201660,
+      "name": "Without Me",
+      "url": "https://open.spotify.com/track/5p7ujcrUXASCNwRaWNHR1C"
     },
     {
       "added_at": "2025-02-07 03:01:15",
@@ -1339,18 +1339,18 @@
     {
       "added_at": "2025-02-07 03:01:15",
       "album": {
-        "name": "Without Me",
-        "url": "https://open.spotify.com/album/0zzrCTzvL4ZmR42xF46Afm"
+        "name": "Midnight Calls",
+        "url": "https://open.spotify.com/album/3ELMVr61XRoOsqDTC6r2sk"
       },
       "artists": [
         {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+          "name": "Mayra",
+          "url": "https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt"
         }
       ],
-      "duration_ms": 201660,
-      "name": "Without Me",
-      "url": "https://open.spotify.com/track/5p7ujcrUXASCNwRaWNHR1C"
+      "duration_ms": 191569,
+      "name": "Midnight Calls",
+      "url": "https://open.spotify.com/track/6ZxsZWzg4pWzW9gEKvnLFl"
     },
     {
       "added_at": "2025-02-07 03:01:15",

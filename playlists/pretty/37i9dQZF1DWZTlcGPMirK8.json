@@ -1,6 +1,6 @@
 {
   "description": "The biggest pop hits to come from the land down under.",
-  "num_followers": 73969,
+  "num_followers": 73974,
   "original_name": "Aussie Pop Classics",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Age Of Reason",
-        "url": "https://open.spotify.com/album/4JHZh7UHLQxcdH0qQB757v"
-      },
-      "artists": [
-        {
-          "name": "John Farnham",
-          "url": "https://open.spotify.com/artist/1QxaPWG1POM8Ul6WwsHq4y"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "Two Strong Hearts",
-      "url": "https://open.spotify.com/track/3LQde40NABYOH14hWse0Yi"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
         "name": "Essential As Anything",
         "url": "https://open.spotify.com/album/5iTdMXmcuJl7bqVIsIJ76D"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 227826,
       "name": "Live It Up",
       "url": "https://open.spotify.com/track/5gTzTrw6ORSPWK9qxVKCnf"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
+        "name": "Age Of Reason",
+        "url": "https://open.spotify.com/album/4JHZh7UHLQxcdH0qQB757v"
+      },
+      "artists": [
+        {
+          "name": "John Farnham",
+          "url": "https://open.spotify.com/artist/1QxaPWG1POM8Ul6WwsHq4y"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Two Strong Hearts",
+      "url": "https://open.spotify.com/track/3LQde40NABYOH14hWse0Yi"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -899,22 +899,6 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Be The Twilight",
-        "url": "https://open.spotify.com/album/0AOg1ZrWAG6es29UAhrWyS"
-      },
-      "artists": [
-        {
-          "name": "Faker",
-          "url": "https://open.spotify.com/artist/0RaO9p4AomXaVUXzV8SPVW"
-        }
-      ],
-      "duration_ms": 227694,
-      "name": "This Heart Attack",
-      "url": "https://open.spotify.com/track/2HwlvOkwACOGFySnp16b9l"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
         "name": "Two Degrees",
         "url": "https://open.spotify.com/album/4MzuH8NMoERebcxL4x9EdR"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 255889,
       "name": "Papercuts (feat. Vera Blue)",
       "url": "https://open.spotify.com/track/6vXHaWpqkbuvzIDvR3LnKd"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
+        "name": "Be The Twilight",
+        "url": "https://open.spotify.com/album/0AOg1ZrWAG6es29UAhrWyS"
+      },
+      "artists": [
+        {
+          "name": "Faker",
+          "url": "https://open.spotify.com/artist/0RaO9p4AomXaVUXzV8SPVW"
+        }
+      ],
+      "duration_ms": 227694,
+      "name": "This Heart Attack",
+      "url": "https://open.spotify.com/track/2HwlvOkwACOGFySnp16b9l"
     },
     {
       "added_at": "2024-08-05 06:00:58",

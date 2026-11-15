@@ -1,12 +1,12 @@
 {
   "description": "This is Toby Keith. The essential tracks, all in one playlist.",
-  "num_followers": 126743,
+  "num_followers": 126746,
   "original_name": "This Is Toby Keith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avUBgAAAAABJ1CYvDT1qv82l2ycSrWPC",
+  "snapshot_id": "avZTAAAAAADFOEkF1QHDIQtbkjqdnr14",
   "tracks": [
     {
       "added_at": null,
@@ -223,22 +223,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shock 'N Y'all",
-        "url": "https://open.spotify.com/album/7xPAsIGxs8It3pVWnZEHan"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 239533,
-      "name": "Whiskey Girl",
-      "url": "https://open.spotify.com/track/2CaxgnHBHuiOYIGIyvMbCl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Boomtown",
         "url": "https://open.spotify.com/album/0g1OHe0yigASaT0nVQkjQS"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 295973,
       "name": "Who's That Man",
       "url": "https://open.spotify.com/track/3KikW7dhYZkY1eGXkIKOmG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shock 'N Y'all",
+        "url": "https://open.spotify.com/album/7xPAsIGxs8It3pVWnZEHan"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 239533,
+      "name": "Whiskey Girl",
+      "url": "https://open.spotify.com/track/2CaxgnHBHuiOYIGIyvMbCl"
     },
     {
       "added_at": null,
@@ -811,6 +811,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Drinks After Work",
+        "url": "https://open.spotify.com/album/2jj2MVDGS3rJ8KM0RF1QsH"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 212466,
+      "name": "Drinks After Work",
+      "url": "https://open.spotify.com/track/3Q74BN3z8lQIkiBC80zd07"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rodeo Rock And Roll Collection",
+        "url": "https://open.spotify.com/album/3ERoc1tfA50OkwdoJYblTY"
+      },
+      "artists": [
+        {
+          "name": "Chris LeDoux",
+          "url": "https://open.spotify.com/artist/4K3DSWzghkGUcQOEZG9gpo"
+        },
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 163666,
+      "name": "Copenhagen",
+      "url": "https://open.spotify.com/track/1ArAjl7hyquZoN7y2szoM9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "License to Chill",
         "url": "https://open.spotify.com/album/2NXJVffjFFrlAKHQtoUXmg"
       },
@@ -843,42 +879,6 @@
       "duration_ms": 183293,
       "name": "Hey Good Lookin'",
       "url": "https://open.spotify.com/track/2TSc7ee1OQPb4tuXsi2X7W"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rodeo Rock And Roll Collection",
-        "url": "https://open.spotify.com/album/3ERoc1tfA50OkwdoJYblTY"
-      },
-      "artists": [
-        {
-          "name": "Chris LeDoux",
-          "url": "https://open.spotify.com/artist/4K3DSWzghkGUcQOEZG9gpo"
-        },
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 163666,
-      "name": "Copenhagen",
-      "url": "https://open.spotify.com/track/1ArAjl7hyquZoN7y2szoM9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Drinks After Work",
-        "url": "https://open.spotify.com/album/2jj2MVDGS3rJ8KM0RF1QsH"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 212466,
-      "name": "Drinks After Work",
-      "url": "https://open.spotify.com/track/3Q74BN3z8lQIkiBC80zd07"
     },
     {
       "added_at": null,

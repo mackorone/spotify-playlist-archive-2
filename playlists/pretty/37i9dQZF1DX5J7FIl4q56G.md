@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: Silent Planet
 
-[Spotify](https://open.spotify.com/user/spotify) - 812,393 likes - 206 songs - 13 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 812,317 likes - 206 songs - 13 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

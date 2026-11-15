@@ -8814,7 +8814,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 144624,
       "name": "Rebirth (Intro)",
       "url": "https://open.spotify.com/track/7gMfVc4zfNIxuMyMGglOHa"
@@ -8850,7 +8850,7 @@
       ],
       "date_added": "2026-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-11",
+      "date_removed": null,
       "duration_ms": 104000,
       "name": "red weather",
       "url": "https://open.spotify.com/track/5pSC8KhubUzhy7039HDUOX"
@@ -15104,10 +15104,28 @@
       ],
       "date_added": "2026-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 124032,
       "name": "\u041a\u041e\u0414 \u0413\u0418\u0410\u0421",
       "url": "https://open.spotify.com/track/3OglFiVXuXn9rBd8t2aauQ"
+    },
+    {
+      "album": {
+        "name": "\u041b\u044e\u0431\u043e\u0432\u044c \u0438 \u0420\u0430\u043a\u0435\u0442\u044b, \u0427.1",
+        "url": "https://open.spotify.com/album/5ujJdrbo07FZObsDycaMgq"
+      },
+      "artists": [
+        {
+          "name": "GONE.Fludd",
+          "url": "https://open.spotify.com/artist/0ohUvVskERzK18bvWXFEqi"
+        }
+      ],
+      "date_added": "2026-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124032,
+      "name": "\u041a\u041e\u0414 \u0413\u0418\u0410\u0421",
+      "url": "https://open.spotify.com/track/7jt5qt0YwLHJ2EdWX6mQTi"
     },
     {
       "album": {
@@ -15478,7 +15496,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-12",
+      "date_removed": null,
       "duration_ms": 195789,
       "name": "\u041b\u0430\u043c\u043f\u043e\u0447\u043a\u0438",
       "url": "https://open.spotify.com/track/6c1ly1qdZbILblTz94usFG"
@@ -17706,7 +17724,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 175500,
       "name": "\u041f\u0415\u0420\u0412\u042b\u0419 \u0420\u0410\u0417",
       "url": "https://open.spotify.com/track/1E96rC1JYgZoPPw8kvxd1I"

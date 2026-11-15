@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 
 > Wyjątkowe polskie artystki na jednej playliście\. Słuchaj kobiet na cały głos! Cover: <a href="spotify:artist:6EuekoOKebcHJWIqHuBK0H">Wiktoria Kida</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,054 likes - 70 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,053 likes - 70 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 | 5 | [Zdjęcie](https://open.spotify.com/track/3TbhyHXTD5QccQZYCJtTI6) | [Evelina Ross](https://open.spotify.com/artist/1oKaZug8yJYjW4ljicp8Iw) | [Zdjęcie](https://open.spotify.com/album/0PXk9uaNawVkvMVvtJzeXN) | 2:58 |
 | 6 | [She's Back](https://open.spotify.com/track/4DLTwEDeuydMP30yHSjNtZ) | [ALICJA](https://open.spotify.com/artist/0aCRGI3PsmtCjyTCnRpRgM) | [She's Back](https://open.spotify.com/album/1Z3ghl89L8hfylENaNd5ZS) | 2:22 |
 | 7 | [Błysk](https://open.spotify.com/track/4PJCgoSFXXdEMgXVhoHcma) | [Kasia Krzyżaniak](https://open.spotify.com/artist/2kLHwEGS9prOyM4qvqjolg), [Moo Latte](https://open.spotify.com/artist/3gNjxcKLkMfZYKlLxn0O9F) | [Błysk](https://open.spotify.com/album/2mX1zqOMzPsCvaY0n6UoXo) | 3:11 |
-| 8 | [LEJ MI BBY](https://open.spotify.com/track/0ABCQ80ojrEfE5b8JLKm4j) | [maja janowska](https://open.spotify.com/artist/7qAu2kYGjO28g0CJERiQhM), [Young Leosia](https://open.spotify.com/artist/0iBTVnJ1Sff92zCDujfvyJ) | [LEJ MI BBY](https://open.spotify.com/album/3P9SN0gylidOlOgOYxfZlA) | 2:05 |
+| 8 | [LEJ MI BBY](https://open.spotify.com/track/0ABCQ80ojrEfE5b8JLKm4j) | [maja janowska](https://open.spotify.com/artist/7qAu2kYGjO28g0CJERiQhM), [Young Leosia](https://open.spotify.com/artist/0iBTVnJ1Sff92zCDujfvyJ), [YEEGOR](https://open.spotify.com/artist/5dyuCkd2slWwlXXJzdrKtf) | [LEJ MI BBY](https://open.spotify.com/album/3P9SN0gylidOlOgOYxfZlA) | 2:05 |
 | 9 | [Płynę nad chmurami](https://open.spotify.com/track/3bQI3FXBKEXA5s4kAMIfVW) | [Dagadana](https://open.spotify.com/artist/7JVB1NU2XgRA0lViT3HPrt) | [Płynę nad chmurami](https://open.spotify.com/album/4c7npzFOzjwU2Oz5baTT1f) | 4:20 |
 | 10 | [Raport](https://open.spotify.com/track/35mN0UFFpdbPwCmNJlkZl7) | [Odet](https://open.spotify.com/artist/6NluCdkugeqhK6bjknJbLl) | [Raport](https://open.spotify.com/album/5RtPXJJqxxhH6IZTF5H9fn) | 3:05 |
 | 11 | [Niebieska](https://open.spotify.com/track/2IEW11q0HyWTLmID7uuT5k) | [Bovska](https://open.spotify.com/artist/4E8L0A5xtDhcMaeBO7p0eg) | [Niebieska](https://open.spotify.com/album/0fllq1w7swGXYmTHIAczbk) | 2:59 |

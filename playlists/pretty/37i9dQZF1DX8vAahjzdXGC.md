@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari MALIQ & D'Essentials, Bernadya, Bunga Citra Lestari, NCT Dream dan masih banyak lagi dari dalam dan mancanegara.
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,678 likes - 105 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,649 likes - 105 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 74 | [Ketahuan Sedunia](https://open.spotify.com/track/3uZEIOA3ud7LsHvI14povo) | [Dhira Bongs](https://open.spotify.com/artist/1OnA7BIptSxofkEpSipGhV) | [Ketahuan Sedunia](https://open.spotify.com/album/2kXfuJ4rbJqyDUsLazIauj) | 3:02 |
 | 75 | [Break The Wall](https://open.spotify.com/track/58PcRFlWAM1ZrcPFW1sGgQ) | [MAIVE.](https://open.spotify.com/artist/5k3veZatAzPSJKXiDlOUFk) | [Break The Wall](https://open.spotify.com/album/16RWzB7uFQTKsAmgf8I10J) | 3:31 |
 | 76 | [lantai dansa](https://open.spotify.com/track/3QNXtJBxRThpIlLFq5IauU) | [Kenz](https://open.spotify.com/artist/2uMaQHQpDHTukH2gI5UiMk), [Suisei](https://open.spotify.com/artist/2Iw3yPRqjz5Xh4veKj7oqi), [Alva Gracia](https://open.spotify.com/artist/3XIfUQhOkgdfKXzL6bUX07), [kirohta](https://open.spotify.com/artist/3PXrisFNv2LkiFF2wuVY21) | [lantai dansa](https://open.spotify.com/album/0AzEwkjWFDNkRB3NLyYXwn) | 2:42 |
-| 77 | [Flutter of Romance](https://open.spotify.com/track/3sFZxUM9JPznWDmpVc1Bnc) | [kidunghara](https://open.spotify.com/artist/6aNEwNrod9qI0UZO69awmo) | [Debar Asmara \(2020 Version\)](https://open.spotify.com/album/47PHkWBBImbx4eZSVeZiGD) | 4:14 |
+| 77 | [Debar Asmara \(2020 Version\)](https://open.spotify.com/track/3sFZxUM9JPznWDmpVc1Bnc) | [kidunghara](https://open.spotify.com/artist/6aNEwNrod9qI0UZO69awmo) | [Debar Asmara \(2020 Version\)](https://open.spotify.com/album/47PHkWBBImbx4eZSVeZiGD) | 4:14 |
 | 78 | [エクレアボーイ](https://open.spotify.com/track/6DBEAEnL4qp0qtDetTqmqA) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [エクレアボーイ](https://open.spotify.com/album/19i6IGxOToyYdRQl9PkGlt) | 2:50 |
 | 79 | [Pinot noir](https://open.spotify.com/track/2DXknNYBaZlCC7tDM0i23O) | [iVy](https://open.spotify.com/artist/70lDezP0StoGMa58IcLXCc) | [reason for being](https://open.spotify.com/album/0CQJPuVnW2ruQGgBCLvj2R) | 3:12 |
 | 80 | [Girl of the moment](https://open.spotify.com/track/1F7xMt8gQywT4aJ2Vi8eZj) | [Say Now](https://open.spotify.com/artist/1p6HheoJqfYMiMC62yQIWn) | [Say what you see](https://open.spotify.com/album/2H9148vrCwSS9qB0SIv5xp) | 3:35 |

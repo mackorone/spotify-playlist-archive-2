@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFCFzZm4jFXF.md) - [plain]
 | 39 | [Still Around](https://open.spotify.com/track/0Hq59Tzh4STCnCdokgbqJb) | [Justin Mylo](https://open.spotify.com/artist/7MFJyevu6jq0shwDuVLymu), [SMBDY](https://open.spotify.com/artist/3EVIvUOdQq6byU8fIljO2e) | [Still Around](https://open.spotify.com/album/4NEFNu7aGFVM6ASDHmbacA) | 2:55 |
 | 40 | [Love's Dying](https://open.spotify.com/track/6w5rPrAbxyszX8avoRc8p9) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Volume One](https://open.spotify.com/album/0U2US6liFchgyXBw7nZozm) | 3:17 |
 | 41 | [Keep Me Young](https://open.spotify.com/track/1SO0bZ6XxtXlnRMx5UIFp2) | [Tom Martin](https://open.spotify.com/artist/4P0KP5wunIHTElWsbeCow2), [Joe Waller](https://open.spotify.com/artist/6EArtsF80MWahDlAzo86ZS) | [Keep Me Young](https://open.spotify.com/album/6uXuhIaOMfOb3eX0eMViFW) | 2:55 |
-| 42 | [Oblivion](https://open.spotify.com/track/1tDEBOvZKKzzSGvmvXldwl) | [Andromedik](https://open.spotify.com/artist/7miXLG9boDOGHJaEelSL7T) | [Oblivion](https://open.spotify.com/album/4aGYvbV5eJs3cUSl0UznCX) | 3:33 |
-| 43 | [Wilder Days](https://open.spotify.com/track/7yiZtUUC5lPtoUxF5s0KH1) | [Tors](https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0) | [Wilder Days EP](https://open.spotify.com/album/6XuJT50OLcO7j3oLNZM6Q3) | 3:37 |
-| 44 | [Stockholm](https://open.spotify.com/track/6ey4WncmCwNDailvLTUZCm) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Stockholm](https://open.spotify.com/album/3NNlYaqNHWxBhdKUJaPpcj) | 3:21 |
+| 42 | [Stockholm](https://open.spotify.com/track/6ey4WncmCwNDailvLTUZCm) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Stockholm](https://open.spotify.com/album/3NNlYaqNHWxBhdKUJaPpcj) | 3:21 |
+| 43 | [Oblivion](https://open.spotify.com/track/1tDEBOvZKKzzSGvmvXldwl) | [Andromedik](https://open.spotify.com/artist/7miXLG9boDOGHJaEelSL7T) | [Oblivion](https://open.spotify.com/album/4aGYvbV5eJs3cUSl0UznCX) | 3:33 |
+| 44 | [Wilder Days](https://open.spotify.com/track/7yiZtUUC5lPtoUxF5s0KH1) | [Tors](https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0) | [Wilder Days EP](https://open.spotify.com/album/6XuJT50OLcO7j3oLNZM6Q3) | 3:37 |
 | 45 | [Safe Place](https://open.spotify.com/track/26zJD97craL4pSO9L0G3jz) | [Jazz Morley](https://open.spotify.com/artist/3oRBiqxwxW8BYQdWYtktZo) | [Safe Place](https://open.spotify.com/album/5Fbr4tGS73s5V7siAm3hPj) | 3:43 |
 | 46 | [Ruin](https://open.spotify.com/track/2xCY38WpqpCijxPksvgw0f) | [St\. Lundi](https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH) | [Ruin](https://open.spotify.com/album/2m4DXXAkbWklfr8in5BAuZ) | 3:57 |
 | 47 | [Me and My Mind](https://open.spotify.com/track/6kaGNf9iNyoXgdF6kA0KX3) | [Jazz Morley](https://open.spotify.com/artist/3oRBiqxwxW8BYQdWYtktZo) | [Me and My Mind](https://open.spotify.com/album/0YRokH3GpJj5bhbgbb4Kn9) | 3:04 |
@@ -141,4 +141,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFCFzZm4jFXF.md) - [plain]
 | 131 | [Pon Me](https://open.spotify.com/track/6gNgcVrZceb97UQFZbKPCk) | [Craig Cavanagh](https://open.spotify.com/artist/2GTElyWjXSbnFBsqhsG8U9) | [Green Eyed Soul](https://open.spotify.com/album/1kENbrG9QMSE4Hgt5jLyd1) | 4:15 |
 | 132 | [Find You](https://open.spotify.com/track/0wtNmuETEesYuB73ni1tZU) | [Craig Cavanagh](https://open.spotify.com/artist/2GTElyWjXSbnFBsqhsG8U9) | [Green Eyed Soul](https://open.spotify.com/album/1kENbrG9QMSE4Hgt5jLyd1) | 3:48 |
 
-Snapshot ID: `AchmKgAAAACimAWX2ObCrBFMyFg1GsCz`
+Snapshot ID: `AchrygAAAABSAIPSsZv1CzIbH0Qt/Bcs`

@@ -1,12 +1,12 @@
 {
   "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Valerie June",
-  "num_followers": 1067808,
+  "num_followers": 1067779,
   "original_name": "Blues Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAjvyaU+pcdmiz/WUeMEjbJSZR2F",
+  "snapshot_id": "AAAAADZ7lK3UY6JLIidcUrOu+M7DEXMS",
   "tracks": [
     {
       "added_at": "2026-11-06 05:00:40",
@@ -635,22 +635,6 @@
     {
       "added_at": "2026-11-06 05:00:40",
       "album": {
-        "name": "Switch On",
-        "url": "https://open.spotify.com/album/5hz1I6rOVfEQWglUoS9ZJt"
-      },
-      "artists": [
-        {
-          "name": "Sweet Talk",
-          "url": "https://open.spotify.com/artist/6ZsvU0pOzv89XZ1FoBeSSi"
-        }
-      ],
-      "duration_ms": 258218,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/1I9Uda51gz1rbjh0z7Xu6T"
-    },
-    {
-      "added_at": "2026-11-06 05:00:40",
-      "album": {
         "name": "In The Pines",
         "url": "https://open.spotify.com/album/1OzEgLG6ww4gtGzIwkNvp8"
       },
@@ -683,18 +667,18 @@
     {
       "added_at": "2026-11-06 05:00:40",
       "album": {
-        "name": "What I Wouldn't Do",
-        "url": "https://open.spotify.com/album/1AmOfiZW1WaiU5l2hBaR5A"
+        "name": "Switch On",
+        "url": "https://open.spotify.com/album/5hz1I6rOVfEQWglUoS9ZJt"
       },
       "artists": [
         {
-          "name": "Shantaia",
-          "url": "https://open.spotify.com/artist/6VHwN4Sn4aQgHiEj7sUo1T"
+          "name": "Sweet Talk",
+          "url": "https://open.spotify.com/artist/6ZsvU0pOzv89XZ1FoBeSSi"
         }
       ],
-      "duration_ms": 189739,
-      "name": "What I Wouldn't Do",
-      "url": "https://open.spotify.com/track/0pVvXJtzmqExa15afINt9C"
+      "duration_ms": 258218,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/1I9Uda51gz1rbjh0z7Xu6T"
     },
     {
       "added_at": "2026-11-06 05:00:40",
@@ -715,6 +699,22 @@
       "duration_ms": 279359,
       "name": "What About The Children",
       "url": "https://open.spotify.com/track/4bGTNdEbmrDlvqYJKRKJxR"
+    },
+    {
+      "added_at": "2026-11-06 05:00:40",
+      "album": {
+        "name": "What I Wouldn't Do",
+        "url": "https://open.spotify.com/album/1AmOfiZW1WaiU5l2hBaR5A"
+      },
+      "artists": [
+        {
+          "name": "Shantaia",
+          "url": "https://open.spotify.com/artist/6VHwN4Sn4aQgHiEj7sUo1T"
+        }
+      ],
+      "duration_ms": 189739,
+      "name": "What I Wouldn't Do",
+      "url": "https://open.spotify.com/track/0pVvXJtzmqExa15afINt9C"
     },
     {
       "added_at": "2026-11-06 05:00:40",
@@ -755,22 +755,6 @@
     {
       "added_at": "2026-11-06 05:00:40",
       "album": {
-        "name": "What Happens Next",
-        "url": "https://open.spotify.com/album/1QPGtduPycBccI5ce1CRlt"
-      },
-      "artists": [
-        {
-          "name": "Shinyribs",
-          "url": "https://open.spotify.com/artist/3xkZ4A3btzE9F5oVuY25UF"
-        }
-      ],
-      "duration_ms": 265376,
-      "name": "What Happens Next",
-      "url": "https://open.spotify.com/track/4KAAIE4V89AKmYjf3pSRQm"
-    },
-    {
-      "added_at": "2026-11-06 05:00:40",
-      "album": {
         "name": "Who Am I",
         "url": "https://open.spotify.com/album/46k1LmapSWGKQWalvlFPNQ"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 296380,
       "name": "Who Am I",
       "url": "https://open.spotify.com/track/6DaUU43SjEQuCk9d67bxPr"
+    },
+    {
+      "added_at": "2026-11-06 05:00:40",
+      "album": {
+        "name": "Bloodline Maintenance",
+        "url": "https://open.spotify.com/album/5ZiQvnBPWaLdNtoZxYNuth"
+      },
+      "artists": [
+        {
+          "name": "Ben Harper",
+          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
+        }
+      ],
+      "duration_ms": 187027,
+      "name": "More Than Love",
+      "url": "https://open.spotify.com/track/2aOFeTEHfs2fXvzBtpdfni"
     },
     {
       "added_at": "2026-11-06 05:00:40",
@@ -803,18 +803,18 @@
     {
       "added_at": "2026-11-06 05:00:40",
       "album": {
-        "name": "Bloodline Maintenance",
-        "url": "https://open.spotify.com/album/5ZiQvnBPWaLdNtoZxYNuth"
+        "name": "What Happens Next",
+        "url": "https://open.spotify.com/album/1QPGtduPycBccI5ce1CRlt"
       },
       "artists": [
         {
-          "name": "Ben Harper",
-          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
+          "name": "Shinyribs",
+          "url": "https://open.spotify.com/artist/3xkZ4A3btzE9F5oVuY25UF"
         }
       ],
-      "duration_ms": 187027,
-      "name": "More Than Love",
-      "url": "https://open.spotify.com/track/2aOFeTEHfs2fXvzBtpdfni"
+      "duration_ms": 265376,
+      "name": "What Happens Next",
+      "url": "https://open.spotify.com/track/4KAAIE4V89AKmYjf3pSRQm"
     },
     {
       "added_at": "2026-11-06 05:00:40",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2026-11-06 05:00:40",
       "album": {
-        "name": "Wheel Inside A Well",
-        "url": "https://open.spotify.com/album/2za5hGrgMw3P1NgycTMEWc"
-      },
-      "artists": [
-        {
-          "name": "Pressing Strings",
-          "url": "https://open.spotify.com/artist/26ZMJzyOeTTQzwImKFsKHR"
-        }
-      ],
-      "duration_ms": 242103,
-      "name": "Wheel Inside A Well",
-      "url": "https://open.spotify.com/track/7MKADeenxWBDuSVt2sWAov"
-    },
-    {
-      "added_at": "2026-11-06 05:00:40",
-      "album": {
         "name": "Crossroads",
         "url": "https://open.spotify.com/album/4Ll4o9sr0YtDyYzJYq4VpN"
       },
@@ -1359,6 +1343,22 @@
     {
       "added_at": "2026-11-06 05:00:40",
       "album": {
+        "name": "Medium Raw",
+        "url": "https://open.spotify.com/album/2tSCbF8irTXTQdIMC80THg"
+      },
+      "artists": [
+        {
+          "name": "Early James",
+          "url": "https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY"
+        }
+      ],
+      "duration_ms": 255573,
+      "name": "I Could Just Die Right Now",
+      "url": "https://open.spotify.com/track/00cOY9F6uYZCjS49sFNVxG"
+    },
+    {
+      "added_at": "2026-11-06 05:00:40",
+      "album": {
         "name": "Days of Mellow",
         "url": "https://open.spotify.com/album/60IzFmXwMFetX2JaC9xbeu"
       },
@@ -1375,18 +1375,18 @@
     {
       "added_at": "2026-11-06 05:00:40",
       "album": {
-        "name": "Medium Raw",
-        "url": "https://open.spotify.com/album/2tSCbF8irTXTQdIMC80THg"
+        "name": "Wheel Inside A Well",
+        "url": "https://open.spotify.com/album/2za5hGrgMw3P1NgycTMEWc"
       },
       "artists": [
         {
-          "name": "Early James",
-          "url": "https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY"
+          "name": "Pressing Strings",
+          "url": "https://open.spotify.com/artist/26ZMJzyOeTTQzwImKFsKHR"
         }
       ],
-      "duration_ms": 255573,
-      "name": "I Could Just Die Right Now",
-      "url": "https://open.spotify.com/track/00cOY9F6uYZCjS49sFNVxG"
+      "duration_ms": 242103,
+      "name": "Wheel Inside A Well",
+      "url": "https://open.spotify.com/track/7MKADeenxWBDuSVt2sWAov"
     },
     {
       "added_at": "2026-11-06 05:00:40",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2026-11-06 05:00:40",
       "album": {
-        "name": "You Can't Love Me",
-        "url": "https://open.spotify.com/album/7tijSpRn4KSVy4w7foF55l"
-      },
-      "artists": [
-        {
-          "name": "Kenny Wayne Shepherd",
-          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
-        }
-      ],
-      "duration_ms": 251946,
-      "name": "You Can't Love Me",
-      "url": "https://open.spotify.com/track/4dHYQ1XOK8iTCRlTh9TDNE"
-    },
-    {
-      "added_at": "2026-11-06 05:00:40",
-      "album": {
         "name": "Take My Heart",
         "url": "https://open.spotify.com/album/5Wh8xD9g7Bu3ToOZCRMbwg"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 258651,
       "name": "Take My Heart",
       "url": "https://open.spotify.com/track/4AEUvrnxGomXqK3guvQkt8"
+    },
+    {
+      "added_at": "2026-11-06 05:00:40",
+      "album": {
+        "name": "You Can't Love Me",
+        "url": "https://open.spotify.com/album/7tijSpRn4KSVy4w7foF55l"
+      },
+      "artists": [
+        {
+          "name": "Kenny Wayne Shepherd",
+          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
+        }
+      ],
+      "duration_ms": 251946,
+      "name": "You Can't Love Me",
+      "url": "https://open.spotify.com/track/4dHYQ1XOK8iTCRlTh9TDNE"
     },
     {
       "added_at": "2026-11-06 05:00:40",
@@ -1611,18 +1611,18 @@
     {
       "added_at": "2026-11-06 05:00:40",
       "album": {
-        "name": "Take Time",
-        "url": "https://open.spotify.com/album/77VscOfK2fjWN7jkgD3Skn"
+        "name": "Neon Sounds",
+        "url": "https://open.spotify.com/album/7L8voRP33mE9BUIScs5SIL"
       },
       "artists": [
         {
-          "name": "Ruthie Foster",
-          "url": "https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F"
+          "name": "The Delta Bombers",
+          "url": "https://open.spotify.com/artist/2QDX87l1pAGzTn0D6tX8fz"
         }
       ],
-      "duration_ms": 273666,
-      "name": "Take Time",
-      "url": "https://open.spotify.com/track/0IuJfBQlL7H9GbhvIPVRMu"
+      "duration_ms": 247013,
+      "name": "Hey! You Know You Wanna!",
+      "url": "https://open.spotify.com/track/7afo9mIshxqUKPEPALwROk"
     },
     {
       "added_at": "2026-11-06 05:00:40",
@@ -1643,18 +1643,18 @@
     {
       "added_at": "2026-11-06 05:00:40",
       "album": {
-        "name": "Neon Sounds",
-        "url": "https://open.spotify.com/album/7L8voRP33mE9BUIScs5SIL"
+        "name": "Take Time",
+        "url": "https://open.spotify.com/album/77VscOfK2fjWN7jkgD3Skn"
       },
       "artists": [
         {
-          "name": "The Delta Bombers",
-          "url": "https://open.spotify.com/artist/2QDX87l1pAGzTn0D6tX8fz"
+          "name": "Ruthie Foster",
+          "url": "https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F"
         }
       ],
-      "duration_ms": 247013,
-      "name": "Hey! You Know You Wanna!",
-      "url": "https://open.spotify.com/track/7afo9mIshxqUKPEPALwROk"
+      "duration_ms": 273666,
+      "name": "Take Time",
+      "url": "https://open.spotify.com/track/0IuJfBQlL7H9GbhvIPVRMu"
     },
     {
       "added_at": "2026-11-06 05:00:40",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2026-11-06 05:00:40",
       "album": {
-        "name": "Ugly",
-        "url": "https://open.spotify.com/album/7EfWvQIahrZafZL6xiyBQ3"
-      },
-      "artists": [
-        {
-          "name": "Oh He Dead",
-          "url": "https://open.spotify.com/artist/2nLlWcvMIIGHHnDOQMi0h6"
-        }
-      ],
-      "duration_ms": 335658,
-      "name": "Cover Me",
-      "url": "https://open.spotify.com/track/3BSJNXL0i0hBNNBI8qLMaQ"
-    },
-    {
-      "added_at": "2026-11-06 05:00:40",
-      "album": {
         "name": "Seasons Change",
         "url": "https://open.spotify.com/album/1DjF9YaLZ3PKdzmwNPdwok"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 207931,
       "name": "Seasons Change",
       "url": "https://open.spotify.com/track/6s9DuDzSqgGqKoGTSWdpPu"
+    },
+    {
+      "added_at": "2026-11-06 05:00:40",
+      "album": {
+        "name": "Ugly",
+        "url": "https://open.spotify.com/album/7EfWvQIahrZafZL6xiyBQ3"
+      },
+      "artists": [
+        {
+          "name": "Oh He Dead",
+          "url": "https://open.spotify.com/artist/2nLlWcvMIIGHHnDOQMi0h6"
+        }
+      ],
+      "duration_ms": 335658,
+      "name": "Cover Me",
+      "url": "https://open.spotify.com/track/3BSJNXL0i0hBNNBI8qLMaQ"
     },
     {
       "added_at": "2026-11-06 05:00:40",

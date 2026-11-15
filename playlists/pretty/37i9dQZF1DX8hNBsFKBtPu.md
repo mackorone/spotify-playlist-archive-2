@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hNBsFKBtPu.md) - [plain]
 
 > We got you! Den bedste nye pop er samlet her\. Bette på cover 💋
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,630 likes - 198 songs - 9 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,631 likes - 198 songs - 9 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Where afrobeats meets amapiano.<br/>Cover:  Didi B
 
-246 songs - 11 hr 53 min
+247 songs - 11 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [Feel D Mood](https://open.spotify.com/track/5V24zNpUfkiMx5eWYXXCHN) | [Outsyd DJ](https://open.spotify.com/artist/0sc02G8bEK5K2jNeevd8II), [Famous Pluto](https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne), [Outsyd Eddie](https://open.spotify.com/artist/34GVjsEo3lNh6lBfcg6cV8), [Tega Boi Dc](https://open.spotify.com/artist/16CdFOraHt0BYRkeB7gT5M) | [Feel D Mood](https://open.spotify.com/album/0t6AQDnfc459I7m4NebGiv) | 2:13 | 2025-10-24 | 2026-05-22 |
 | [Fi Kan We Kan](https://open.spotify.com/track/771KDfpsOtJPQmocQpMdkR) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Fi Kan We Kan](https://open.spotify.com/album/6EKtDHfQtcqhwIPoZr7jTp) | 2:39 | 2025-10-24 |  |
 | [Figure 8 \(feat\. Pozer\)](https://open.spotify.com/track/4VlH3TF54MCxHTiWSxal5n) | [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW), [Pozer](https://open.spotify.com/artist/438fi8qqvXNEPoUrYLIO7J) | [HYBRID](https://open.spotify.com/album/0Bu9rJJqHVmHgK7Y9LXOSa) | 2:32 | 2026-02-06 | 2026-03-17 |
-| [Fire in your Eyes](https://open.spotify.com/track/0GiBsDZ5sZRVM9cH68Yj0d) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4), [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9) | [Fire in your Eyes](https://open.spotify.com/album/4DB72Q0aDAkUy3Jljnp1Ly) | 3:35 | 2026-04-24 |  |
+| [Fire in your Eyes](https://open.spotify.com/track/0GiBsDZ5sZRVM9cH68Yj0d) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4), [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9) | [Fire in your Eyes](https://open.spotify.com/album/4DB72Q0aDAkUy3Jljnp1Ly) | 3:35 | 2026-04-24 | 2026-11-15 |
 | [Follow My Lead](https://open.spotify.com/track/2nFfcx6kNN5uaFdvYCYgPE) | [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd) | [Follow My Lead](https://open.spotify.com/album/0m1MPFeX3ypxB1zAmw4r9z) | 2:20 | 2026-05-22 |  |
 | [For You](https://open.spotify.com/track/0Cn0RxpysoQYWvjHmoR1Px) | [BoyPee](https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh) | [For You](https://open.spotify.com/album/5gu7XDn325yHFlVxAGZJlP) | 2:46 | 2026-08-21 | 2026-10-26 |
 | [Forex Boys](https://open.spotify.com/track/0OCSthrrrZjFSqTn23xNNm) | [TheFeyiii](https://open.spotify.com/artist/5ZfbSFiB4X3B0RcMczWcDB), [Boy Muller](https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ) | [Forex Boys](https://open.spotify.com/album/7sCoQZBfoNTdGlTdR2Fcgg) | 2:17 | 2025-10-24 | 2026-01-15 |
@@ -234,6 +234,7 @@
 | [Tap Am](https://open.spotify.com/track/547Gs3aRtCBJFW7SdPD33x) | [Famous Pluto](https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne) | [ON MY BIRTHDAY](https://open.spotify.com/album/2VPFXrVDrzxxcLaIP2Gpvf) | 2:47 | 2026-08-19 |  |
 | [Terminator](https://open.spotify.com/track/5ycsqezujKrwviU3VFhci1) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Mr\. Money With The Vibe](https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI) | 2:35 | 2025-10-24 |  |
 | [Terminator](https://open.spotify.com/track/1oq33HJBs0rDmjjZ2rVFyG) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Terminator](https://open.spotify.com/album/27KnOMqnTWsnfBMXZ4YEuZ) | 3:54 | 2025-10-24 | 2025-12-05 |
+| [Therapy](https://open.spotify.com/track/6kHHEy1fKfQVmtvqiMupzQ) | [Ema Onigah](https://open.spotify.com/artist/3xl6xQ0sIWIWE6tiUW3hwD) | [Therapy](https://open.spotify.com/album/72n0SWvOXmuOknE5agQXxU) | 2:43 | 2026-11-13 |  |
 | [Tika](https://open.spotify.com/track/4YWqtagELt3giBdcMQYpC3) | [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [Tika](https://open.spotify.com/album/3ZOZ1sNtwlbLj0fSPDIxhq) | 2:09 | 2026-09-25 | 2026-10-03 |
 | [Time Of Our Lives](https://open.spotify.com/track/6PaDuV64iFg4PPUWmc6yc7) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW), [Time Of Our Lives](https://open.spotify.com/artist/1a0dkcZrMwhd1nbwvIxIax) | [Time Of Our Lives](https://open.spotify.com/album/566xpmRwGi7Ho4I4BoQSoF) | 2:40 | 2026-09-04 | 2026-10-05 |
 | [Today](https://open.spotify.com/track/1jYIMLLTKnecfOgccQnaHb) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [NAHAMciaga](https://open.spotify.com/album/25W5Z67RX9uv82fijyx9Yk) | 2:37 | 2026-05-22 | 2026-06-09 |

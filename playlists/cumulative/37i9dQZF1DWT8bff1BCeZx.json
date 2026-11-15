@@ -3288,7 +3288,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 144134,
       "name": "CARES",
       "url": "https://open.spotify.com/track/5SNBEdLNDwDEBO2hnDJj3Y"
@@ -5287,6 +5287,28 @@
     },
     {
       "album": {
+        "name": "Ekele Gi (Your Praise)",
+        "url": "https://open.spotify.com/album/49d8vJzEVbxFMe7HJncpdw"
+      },
+      "artists": [
+        {
+          "name": "Judikay",
+          "url": "https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x"
+        },
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210309,
+      "name": "Ekele Gi (Your Praise)",
+      "url": "https://open.spotify.com/track/7nnz0zoHemoMgN59lT8C5d"
+    },
+    {
+      "album": {
         "name": "El-Roi",
         "url": "https://open.spotify.com/album/6JNS9zkZHiyaTJTmBKqzHD"
       },
@@ -6124,6 +6146,28 @@
       "duration_ms": 140281,
       "name": "Father We Declare",
       "url": "https://open.spotify.com/track/6fDCxjnAQbcizv2yvzztGY"
+    },
+    {
+      "album": {
+        "name": "Father's House",
+        "url": "https://open.spotify.com/album/2l1rSx4woYjrFmXFNTP5Hc"
+      },
+      "artists": [
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "LE:GEND",
+          "url": "https://open.spotify.com/artist/1i0EEVYkm3H4GF8LccSAB2"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161946,
+      "name": "Father's House",
+      "url": "https://open.spotify.com/track/46bcoIj9BhA7395s5tlZMN"
     },
     {
       "album": {
@@ -8734,7 +8778,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 199321,
       "name": "Happiness Is Free",
       "url": "https://open.spotify.com/track/37ArjRef4CfvDMuQgTs1fx"
@@ -18832,7 +18876,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-09",
+      "date_removed": null,
       "duration_ms": 142835,
       "name": "see the truth",
       "url": "https://open.spotify.com/track/5y33JJj5b0kVKgV16wuxAp"
@@ -24432,7 +24476,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 206400,
       "name": "Yoyo",
       "url": "https://open.spotify.com/track/2avVNhJHTUYcAuqSiJCWH9"

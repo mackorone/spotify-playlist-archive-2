@@ -1899,6 +1899,24 @@
     },
     {
       "album": {
+        "name": "Aldrig Igen",
+        "url": "https://open.spotify.com/album/44y6ANts5tOrHbMfLRPMZD"
+      },
+      "artists": [
+        {
+          "name": "Christopher",
+          "url": "https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC"
+        }
+      ],
+      "date_added": "2026-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184906,
+      "name": "Aldrig Igen",
+      "url": "https://open.spotify.com/track/5Z5PgRZIUu8NjovVUODxEI"
+    },
+    {
+      "album": {
         "name": "Verden Er Din",
         "url": "https://open.spotify.com/album/26NKb8Yn3s987BKb4AxaJl"
       },
@@ -25099,6 +25117,24 @@
     },
     {
       "album": {
+        "name": "Illumineret",
+        "url": "https://open.spotify.com/album/0fzVt3ozZZuCEE2nPy52h5"
+      },
+      "artists": [
+        {
+          "name": "Kundo",
+          "url": "https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr"
+        }
+      ],
+      "date_added": "2026-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199137,
+      "name": "Illumineret",
+      "url": "https://open.spotify.com/track/3KoSjVffFUitmwjzOKngNp"
+    },
+    {
+      "album": {
         "name": "Illusion",
         "url": "https://open.spotify.com/album/68mwSgiHv3JF9nrw9feMrt"
       },
@@ -28868,7 +28904,7 @@
       ],
       "date_added": "2026-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 150621,
       "name": "Lad Det Br\u00e6nde",
       "url": "https://open.spotify.com/track/4tCRLYfh6l9ZO8uW0LWwy8"
@@ -35160,7 +35196,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 181270,
       "name": "Nicole Kidman",
       "url": "https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J"
@@ -38616,7 +38652,7 @@
       ],
       "date_added": "2026-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 196175,
       "name": "PPC",
       "url": "https://open.spotify.com/track/7M9Fk9ftwb9VxiImk28LBL"
@@ -48989,6 +49025,24 @@
     },
     {
       "album": {
+        "name": "Jack",
+        "url": "https://open.spotify.com/album/4wI8A68dwFEb3z8pXT390H"
+      },
+      "artists": [
+        {
+          "name": "Michael Williams",
+          "url": "https://open.spotify.com/artist/4pA9UUTKYrz88wP5NzYyVE"
+        }
+      ],
+      "date_added": "2026-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165818,
+      "name": "Tr\u00e6k Vejret",
+      "url": "https://open.spotify.com/track/3iqJmH6b9S7DfLDJRXJqEp"
+    },
+    {
+      "album": {
         "name": "Certified Lover Boy",
         "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
       },
@@ -49742,7 +49796,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-15",
       "duration_ms": 229638,
       "name": "Underneath the Tree",
       "url": "https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5"
@@ -51870,6 +51924,24 @@
       "duration_ms": 139591,
       "name": "Weekend",
       "url": "https://open.spotify.com/track/5tWttuhio8TZFdyBzfhidc"
+    },
+    {
+      "album": {
+        "name": "Jack",
+        "url": "https://open.spotify.com/album/4wI8A68dwFEb3z8pXT390H"
+      },
+      "artists": [
+        {
+          "name": "Michael Williams",
+          "url": "https://open.spotify.com/artist/4pA9UUTKYrz88wP5NzYyVE"
+        }
+      ],
+      "date_added": "2026-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145920,
+      "name": "Weezy",
+      "url": "https://open.spotify.com/track/1pbXm4AG98WMBlrFKqpgQO"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8X9gjW0N3D7.md) - [plain]
 
 > De la musique québécoise pour tous les goûts\.  Photo: King Melrose
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,824 likes - 75 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,826 likes - 75 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,14 +54,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8X9gjW0N3D7.md) - [plain]
 | 44 | [Your Name](https://open.spotify.com/track/4loIbVnRg7dZ7bOFEMrHk1) | [Marianne Beaulieu](https://open.spotify.com/artist/7dqQORpq3dlRfhgMIO58uV) | [Your Name](https://open.spotify.com/album/7c2k7DMQJAIYHjswxdkgsH) | 3:12 |
 | 45 | [Otherwise, I'm Fine](https://open.spotify.com/track/2OuNMpGtZ8xlFRIgykw9qh) | [Le Ren](https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF) | [Don't Be Funny Without Me](https://open.spotify.com/album/6sB6Bm2KkI8QjW0y7934ry) | 2:50 |
 | 46 | [Natalie \(40 Seasons Later\)](https://open.spotify.com/track/1bsLzTJRbc3uUm8PNJV5vM) | [Milk & Bone](https://open.spotify.com/artist/4fmvA5uVlZUNsje29D1PaW) | [Natalie \(40 Seasons Later\)](https://open.spotify.com/album/1E2IiNX98czYyc2R5T0vk1) | 5:32 |
-| 47 | [Stranger](https://open.spotify.com/track/1Vh31NsLrFSXN6QThbZ4T3) | [Fine Food Market](https://open.spotify.com/artist/5yLNDnaFmGzAQBjnWzdDET) | [Stranger](https://open.spotify.com/album/18QHIwoaV00kIcB3FEvr7U) | 3:55 |
-| 48 | [Un Deux Trois](https://open.spotify.com/track/3B9rkj19z4Hno7NdkN6cNe) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Jardin](https://open.spotify.com/album/3gLXNVaVPGv7TCmyRnVgky) | 3:30 |
-| 49 | [ENCORE ENCORE](https://open.spotify.com/track/5BoKkmRZBVbpjrdoMe92TO) | [Gab Bouchard](https://open.spotify.com/artist/0J0nIuBa8qMlDnlS5QrkiP) | [ENCORE ENCORE](https://open.spotify.com/album/5PVXBvRLA9BOPnRU0CYLae) | 3:11 |
+| 47 | [Un Deux Trois](https://open.spotify.com/track/3B9rkj19z4Hno7NdkN6cNe) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Jardin](https://open.spotify.com/album/3gLXNVaVPGv7TCmyRnVgky) | 3:30 |
+| 48 | [ENCORE ENCORE](https://open.spotify.com/track/5BoKkmRZBVbpjrdoMe92TO) | [Gab Bouchard](https://open.spotify.com/artist/0J0nIuBa8qMlDnlS5QrkiP) | [ENCORE ENCORE](https://open.spotify.com/album/5PVXBvRLA9BOPnRU0CYLae) | 3:11 |
+| 49 | [Stranger](https://open.spotify.com/track/1Vh31NsLrFSXN6QThbZ4T3) | [Fine Food Market](https://open.spotify.com/artist/5yLNDnaFmGzAQBjnWzdDET) | [Stranger](https://open.spotify.com/album/18QHIwoaV00kIcB3FEvr7U) | 3:55 |
 | 50 | [LLL](https://open.spotify.com/track/0i8ApYhcfjA3Xm2l3Ki5UH) | [Julyan](https://open.spotify.com/artist/10ifu6MiIcrhdrUEWJsACG) | [LLL](https://open.spotify.com/album/26hxENh1EdzBUqa1Xw4kdj) | 3:33 |
 | 51 | [Postcard](https://open.spotify.com/track/4WQ8w6jr2ZPZ021iUm2J1D) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [Postcard](https://open.spotify.com/album/2sd2am38eV9C5aKSnmZpAg) | 3:06 |
 | 52 | [Ease Your Mind](https://open.spotify.com/track/73c34EROCHGpIDvSPUbqZ5) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) | [Ease Your Mind](https://open.spotify.com/album/6dZrX3G7FhaEDIXSU5UgYA) | 3:02 |
-| 53 | [Je fais confiance au temps](https://open.spotify.com/track/36u2u14w4ljjuuty5gZU80) | [Mahéja](https://open.spotify.com/artist/3OktdsskNPl1C0BhqZABKM) | [Je fais confiance au temps](https://open.spotify.com/album/4LJ89cRVfrAUPGDmNyVV6U) | 3:17 |
-| 54 | [pauvre pomme](https://open.spotify.com/track/4W5Ny48E1oUxnYDRqurBPX) | [Etienne Dufresne](https://open.spotify.com/artist/1wVdxcnaMBJy3MII8nZalv) | [pauvre pomme](https://open.spotify.com/album/3ZTHNhGuk2adX1dIEQVxNv) | 3:57 |
+| 53 | [pauvre pomme](https://open.spotify.com/track/4W5Ny48E1oUxnYDRqurBPX) | [Etienne Dufresne](https://open.spotify.com/artist/1wVdxcnaMBJy3MII8nZalv) | [pauvre pomme](https://open.spotify.com/album/3ZTHNhGuk2adX1dIEQVxNv) | 3:57 |
+| 54 | [Je fais confiance au temps](https://open.spotify.com/track/36u2u14w4ljjuuty5gZU80) | [Mahéja](https://open.spotify.com/artist/3OktdsskNPl1C0BhqZABKM) | [Je fais confiance au temps](https://open.spotify.com/album/4LJ89cRVfrAUPGDmNyVV6U) | 3:17 |
 | 55 | [Magané](https://open.spotify.com/track/4I5xQzIE8Bm2OJ9MOST2Gr) | [Orange Lessard](https://open.spotify.com/artist/4Y7Z6989C1MbKYFpCVtvC6) | [Magané](https://open.spotify.com/album/5PBlB7kpvAKPcyXPJ7uQvH) | 2:03 |
 | 56 | [reel talk](https://open.spotify.com/track/5EByJp6cwNCzueuovl04Am) | [Alphonse Bisaillon](https://open.spotify.com/artist/2D6FbkaHZ4AYvKzp2E2Plt) | [t.o.m\. ou la trajectoire des perséides](https://open.spotify.com/album/7Knxggbd3Q6zv5jzad9hLY) | 3:19 |
 | 57 | [Ça veut toute aouère](https://open.spotify.com/track/6b7hOe2dM38hy46WDGFVaw) | [Salebarbes](https://open.spotify.com/artist/2k67IAknAbf9ShxGNRU2wB) | [Ça veut rien saouère](https://open.spotify.com/album/3rbzg7lJGKjfszf8hbu5IL) | 2:39 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8X9gjW0N3D7.md) - [plain]
 | 70 | [tout ce qui m'arrive](https://open.spotify.com/track/3j2RLn7aiBYVW6j5zXtG1l) | [Katrine Sansregret](https://open.spotify.com/artist/23l9JLbR4HKMyJLY2WuiNw) | [J’ÉCRIS LES PROBLÈMES QU’ON EST EN TRAIN DE LAISSER À NOS ENFANTS](https://open.spotify.com/album/3LL6RAPzfh8HwSYu8Xbgvv) | 2:18 |
 | 71 | [Quand](https://open.spotify.com/track/3x6v20yvhAte43kAa8Aynl) | [Sara Dufour](https://open.spotify.com/artist/3MSqVr13Lkb9iCiigUOm4S) | [Dolbeau\-Mistassini](https://open.spotify.com/album/2TnuA0032unv7gbitwMNB0) | 3:09 |
 | 72 | [Mood Ring](https://open.spotify.com/track/7rDj3Mst01U7U6GmfHImZT) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [Mood Ring](https://open.spotify.com/album/32egrBNmQPGPRSYWdkn9Xf) | 3:22 |
-| 73 | [Exit](https://open.spotify.com/track/6VkIn85vLcKt68HNSjzgFb) | [sunniva](https://open.spotify.com/artist/4yRxs98NWc2ZkVBzSapuU2) | [Exit](https://open.spotify.com/album/69WcaVxBfsOULZYJpX4fVI) | 2:12 |
-| 74 | [Ascension](https://open.spotify.com/track/6KV2gnAdcLD59u7hJoc8bZ) | [Dumas](https://open.spotify.com/artist/7HK83pzwHsZqiGchCqtMuD) | [Marathon 2 \(Mont\-Royal\)](https://open.spotify.com/album/6JkexA5EWgI9Ap5EBDTCmI) | 6:24 |
+| 73 | [Tarot](https://open.spotify.com/track/1PNaCwrKIBqjaK5FR2NnUJ) | [Marco Ema](https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ), [Rose Perron](https://open.spotify.com/artist/6arQDOSIlfPHcQntq07PwB) | [Soleil mâché \(Deluxe\)](https://open.spotify.com/album/7IGfOCio5mpupVMo6isDVp) | 4:08 |
+| 74 | [Exit](https://open.spotify.com/track/6VkIn85vLcKt68HNSjzgFb) | [sunniva](https://open.spotify.com/artist/4yRxs98NWc2ZkVBzSapuU2) | [Exit](https://open.spotify.com/album/69WcaVxBfsOULZYJpX4fVI) | 2:12 |
 | 75 | [Qu'est\-ce que je viens faire ici ?](https://open.spotify.com/track/12omaM1NjMB7wHz6RASo3R) | [Miro](https://open.spotify.com/artist/5j7ql2sFpKxWvZI6TIDfgj) | [xx](https://open.spotify.com/album/1kHCoobdUawPAZaiyll1N4) | 2:14 |
 
 Snapshot ID: `AAAAAAA23VOw1XQoj2yvy06TlWXfiiEW`

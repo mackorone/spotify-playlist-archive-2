@@ -1,6 +1,6 @@
 {
   "description": "Are you afraid of the dark?",
-  "num_followers": 463675,
+  "num_followers": 463656,
   "original_name": "Spooky",
   "owner": {
     "name": "Spotify",
@@ -155,22 +155,6 @@
     {
       "added_at": "2026-02-19 15:33:55",
       "album": {
-        "name": "When The Pawn...",
-        "url": "https://open.spotify.com/album/3o5EnVZNJXtfPV8tCoagjI"
-      },
-      "artists": [
-        {
-          "name": "Fiona Apple",
-          "url": "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
-        }
-      ],
-      "duration_ms": 219266,
-      "name": "Paper Bag",
-      "url": "https://open.spotify.com/track/0IVkP59yJ9GFF6B7IrvrxA"
-    },
-    {
-      "added_at": "2026-02-19 15:33:55",
-      "album": {
         "name": "Punisher",
         "url": "https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 271266,
       "name": "Halloween",
       "url": "https://open.spotify.com/track/2GDxR0ZGYqDQUElSQxBiNS"
+    },
+    {
+      "added_at": "2026-02-19 15:33:55",
+      "album": {
+        "name": "When The Pawn...",
+        "url": "https://open.spotify.com/album/3o5EnVZNJXtfPV8tCoagjI"
+      },
+      "artists": [
+        {
+          "name": "Fiona Apple",
+          "url": "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
+        }
+      ],
+      "duration_ms": 219266,
+      "name": "Paper Bag",
+      "url": "https://open.spotify.com/track/0IVkP59yJ9GFF6B7IrvrxA"
     },
     {
       "added_at": "2026-02-19 15:33:55",
@@ -431,22 +431,6 @@
     {
       "added_at": "2026-02-19 15:33:55",
       "album": {
-        "name": "The Land Is Inhospitable and So Are We",
-        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 168760,
-      "name": "I Love Me After You",
-      "url": "https://open.spotify.com/track/55Y5p2XyPaYBPGtzj1f9fE"
-    },
-    {
-      "added_at": "2026-02-19 15:33:55",
-      "album": {
         "name": "Famous Last Words (An Ode to Eaters)",
         "url": "https://open.spotify.com/album/47mfwMreABCnlLm7EEtHsB"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 202867,
       "name": "Famous Last Words (An Ode to Eaters)",
       "url": "https://open.spotify.com/track/7bpfZYrS4dQKxiuj6QiRaX"
+    },
+    {
+      "added_at": "2026-02-19 15:33:55",
+      "album": {
+        "name": "The Land Is Inhospitable and So Are We",
+        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 168760,
+      "name": "I Love Me After You",
+      "url": "https://open.spotify.com/track/55Y5p2XyPaYBPGtzj1f9fE"
     },
     {
       "added_at": "2026-02-19 15:33:55",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2026-02-19 15:33:55",
       "album": {
-        "name": "Head of the Love Club",
-        "url": "https://open.spotify.com/album/2cwCSDQhVHVtHzv2N8paST"
-      },
-      "artists": [
-        {
-          "name": "Gretel",
-          "url": "https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG"
-        }
-      ],
-      "duration_ms": 175500,
-      "name": "Little Vampire",
-      "url": "https://open.spotify.com/track/2DNynwcArXc2rYXgJxuBZ2"
-    },
-    {
-      "added_at": "2026-02-19 15:33:55",
-      "album": {
         "name": "Spinning Wheel",
         "url": "https://open.spotify.com/album/6vef9mkcfhLjq8tUnujtrA"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 205703,
       "name": "Spinning Wheel",
       "url": "https://open.spotify.com/track/35AFp3kz5PoMNU0TQGFwEz"
+    },
+    {
+      "added_at": "2026-02-19 15:33:55",
+      "album": {
+        "name": "Head of the Love Club",
+        "url": "https://open.spotify.com/album/2cwCSDQhVHVtHzv2N8paST"
+      },
+      "artists": [
+        {
+          "name": "Gretel",
+          "url": "https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG"
+        }
+      ],
+      "duration_ms": 175500,
+      "name": "Little Vampire",
+      "url": "https://open.spotify.com/track/2DNynwcArXc2rYXgJxuBZ2"
     },
     {
       "added_at": "2026-02-19 15:33:55",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2026-02-19 15:33:55",
       "album": {
+        "name": "Brkn",
+        "url": "https://open.spotify.com/album/2MMpWxHFQXkCoglx8bHX6G"
+      },
+      "artists": [
+        {
+          "name": "VOID",
+          "url": "https://open.spotify.com/artist/4EaGV53TWbseFZafYathL1"
+        }
+      ],
+      "duration_ms": 179805,
+      "name": "Brkn",
+      "url": "https://open.spotify.com/track/0kt17oiymmdO5hl4FpVKpu"
+    },
+    {
+      "added_at": "2026-02-19 15:33:55",
+      "album": {
         "name": "Wicked Animal",
         "url": "https://open.spotify.com/album/3gTAR3ksapRN0d01BRYr9i"
       },
@@ -1391,22 +1407,6 @@
       "duration_ms": 284745,
       "name": "Wicked Animal",
       "url": "https://open.spotify.com/track/3OU685WYjjsCh8PJ39KU73"
-    },
-    {
-      "added_at": "2026-02-19 15:33:55",
-      "album": {
-        "name": "Brkn",
-        "url": "https://open.spotify.com/album/2MMpWxHFQXkCoglx8bHX6G"
-      },
-      "artists": [
-        {
-          "name": "VOID",
-          "url": "https://open.spotify.com/artist/4EaGV53TWbseFZafYathL1"
-        }
-      ],
-      "duration_ms": 179805,
-      "name": "Brkn",
-      "url": "https://open.spotify.com/track/0kt17oiymmdO5hl4FpVKpu"
     },
     {
       "added_at": "2026-02-19 15:33:55",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2026-02-19 15:33:55",
       "album": {
-        "name": "Hard Candy",
-        "url": "https://open.spotify.com/album/0G92mUSxbHxB804ldhPOru"
-      },
-      "artists": [
-        {
-          "name": "Barrie",
-          "url": "https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g"
-        }
-      ],
-      "duration_ms": 113454,
-      "name": "Hard Candy",
-      "url": "https://open.spotify.com/track/4eEvoOiMlEaE2jbEPbYN7b"
-    },
-    {
-      "added_at": "2026-02-19 15:33:55",
-      "album": {
         "name": "a wonderful thing vomits",
         "url": "https://open.spotify.com/album/5IYtAs1OoLPnXbZyX1LBw1"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 256810,
       "name": "zi oi \u81ea\u7231",
       "url": "https://open.spotify.com/track/4Uucg1X9dhLUuRTsRkkI4X"
+    },
+    {
+      "added_at": "2026-02-19 15:33:55",
+      "album": {
+        "name": "Hard Candy",
+        "url": "https://open.spotify.com/album/0G92mUSxbHxB804ldhPOru"
+      },
+      "artists": [
+        {
+          "name": "Barrie",
+          "url": "https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g"
+        }
+      ],
+      "duration_ms": 113454,
+      "name": "Hard Candy",
+      "url": "https://open.spotify.com/track/4eEvoOiMlEaE2jbEPbYN7b"
     },
     {
       "added_at": "2026-02-19 15:33:55",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2026-02-19 15:33:55",
       "album": {
-        "name": "So Medieval",
-        "url": "https://open.spotify.com/album/5gpglBxq454hY07XTJpJ5C"
-      },
-      "artists": [
-        {
-          "name": "Blue Bendy",
-          "url": "https://open.spotify.com/artist/7Fv9bX6Oy7AhbhKXh5dgIG"
-        }
-      ],
-      "duration_ms": 200281,
-      "name": "Darp 2 / Exorcism",
-      "url": "https://open.spotify.com/track/4peyXn5Y2L8m8nKFdCfNOn"
-    },
-    {
-      "added_at": "2026-02-19 15:33:55",
-      "album": {
         "name": "I Don't Know",
         "url": "https://open.spotify.com/album/2cNtBpejkWMdxrN94XuR8z"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 330880,
       "name": "Alps",
       "url": "https://open.spotify.com/track/57cfUHZjRwwrIQaMurSIlJ"
+    },
+    {
+      "added_at": "2026-02-19 15:33:55",
+      "album": {
+        "name": "So Medieval",
+        "url": "https://open.spotify.com/album/5gpglBxq454hY07XTJpJ5C"
+      },
+      "artists": [
+        {
+          "name": "Blue Bendy",
+          "url": "https://open.spotify.com/artist/7Fv9bX6Oy7AhbhKXh5dgIG"
+        }
+      ],
+      "duration_ms": 200281,
+      "name": "Darp 2 / Exorcism",
+      "url": "https://open.spotify.com/track/4peyXn5Y2L8m8nKFdCfNOn"
     },
     {
       "added_at": "2026-02-19 15:33:55",
@@ -1635,30 +1635,18 @@
     {
       "added_at": "2026-02-19 15:33:55",
       "album": {
-        "name": "Fire Leap",
-        "url": "https://open.spotify.com/album/648ChSAlKMM1uPUvWjvpKr"
+        "name": "Religion for One",
+        "url": "https://open.spotify.com/album/3Sz2ldxbLynqngGDSrj8Dl"
       },
       "artists": [
         {
-          "name": "Katy J Pearson",
-          "url": "https://open.spotify.com/artist/6xBsaFua2lgAUlNv8Yh0nQ"
-        },
-        {
-          "name": "Drug Store Romeos",
-          "url": "https://open.spotify.com/artist/7MMjkDVrjxW9iObeZeeejh"
-        },
-        {
-          "name": "Wet Leg",
-          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
-        },
-        {
-          "name": "Sarah Meth",
-          "url": "https://open.spotify.com/artist/2cveuRnx0cbS41GQTBcuRz"
+          "name": "Fat White Family",
+          "url": "https://open.spotify.com/artist/5ztBFCBEL7OtjdAt98RnD4"
         }
       ],
-      "duration_ms": 171098,
-      "name": "Fire Leap",
-      "url": "https://open.spotify.com/track/5WbLDvtHGLuqsVVWIJrP7U"
+      "duration_ms": 199727,
+      "name": "Religion for One",
+      "url": "https://open.spotify.com/track/54Zik7AdvtDDZksQm015Z7"
     }
   ],
   "unique_name": "Spooky",
