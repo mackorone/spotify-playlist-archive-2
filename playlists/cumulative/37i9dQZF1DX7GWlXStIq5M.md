@@ -4,7 +4,7 @@
 
 > Hits e novidades do pop experimental no mesmo palco! Foto: GIANA
 
-1,243 songs - 2 day 13 hr 40 min
+1,244 songs - 2 day 13 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -255,7 +255,7 @@
 | [cinco anos em cinco minutos](https://open.spotify.com/track/1wIP79xCQuRtIOPXsWOyoI) | [Clara x Sofia](https://open.spotify.com/artist/2AiR0VxXS1sbh2bSnVAKU0) | [cinco anos em cinco minutos](https://open.spotify.com/album/10iYPXAHfK0rwB5gNQFr31) | 2:23 | 2023-10-27 | 2024-01-13 |
 | [CINZEIRO](https://open.spotify.com/track/5NBf1xo9YYuG0zPZDQ1Yca) | [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc), [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII) | [CINZEIRO](https://open.spotify.com/album/1PGgZ935Sqb7fKIZKyuMjQ) | 2:26 | 2023-08-14 | 2023-09-23 |
 | [CIRCO](https://open.spotify.com/track/1xuCgNDwq4sYyC7bruiTEg) | [A!RA](https://open.spotify.com/artist/3jZuLufN6iLKWNqvi02ynl) | [CIRCO](https://open.spotify.com/album/0kmDY8zXpuED5UFmR6XST7) | 2:39 | 2026-06-05 | 2026-07-31 |
-| [Clara](https://open.spotify.com/track/1MGhZBsBTpuoDDy6osaAf3) | [Breezia](https://open.spotify.com/artist/28IfxDlUo1Em1JPqkTGAJz) | [Clara](https://open.spotify.com/album/7pHQuVslB6cZN4bkcd1KQz) | 3:43 | 2026-06-19 |  |
+| [Clara](https://open.spotify.com/track/1MGhZBsBTpuoDDy6osaAf3) | [Breezia](https://open.spotify.com/artist/28IfxDlUo1Em1JPqkTGAJz) | [Clara](https://open.spotify.com/album/7pHQuVslB6cZN4bkcd1KQz) | 3:43 | 2026-06-19 | 2026-11-16 |
 | [Clareou](https://open.spotify.com/track/0cttxC2PCCrfSmgbA1GIwB) | [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS), [VHOOR](https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH), [Tuyo](https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj) | [Dias Antes do Baile](https://open.spotify.com/album/6LzD72fSjP8rqZe54YcipI) | 3:07 | 2023-02-24 | 2023-04-01 |
 | [Cobras na sua Mesa](https://open.spotify.com/track/5BsVi9L7F1LKQuB5QQacAg) | [Luiza Lian](https://open.spotify.com/artist/0mqrSBamArf14pPZE2Q9kW) | [7 Estrelas \| quem arrancou o céu?](https://open.spotify.com/album/5weOG4lzh2hlbs1oq5YKjy) | 2:45 | 2023-07-28 | 2023-08-23 |
 | [Codinome Exagerado](https://open.spotify.com/track/1r5xSeHHrnnAPlZD8s03N1) | [HODARI](https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67), [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [Codinome Exagerado](https://open.spotify.com/album/0d8FtFqVUeUvxMZjJl4peh) | 3:09 | 2024-04-19 | 2024-08-10 |
@@ -303,6 +303,7 @@
 | [Deixa Acender](https://open.spotify.com/track/3D1d9aNhYHsgKSOHEVWsHn) | [Barro](https://open.spotify.com/artist/49Ymz7hkosffibefJioODe), [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR) | [Deixa Acender](https://open.spotify.com/album/2Zzg1exvNmLqNCgZKHtAW8) | 2:35 | 2023-12-01 | 2024-06-01 |
 | [Deixa Acontecer](https://open.spotify.com/track/6UIiNaaOhQ19K2U8Tq61ge) | [Julia Smith](https://open.spotify.com/artist/4DfLXTDD8dF2vGIbff6fzs) | [Deixa Acontecer](https://open.spotify.com/album/0ptqouE0Ph1o1aqoxz4iiW) | 2:45 | 2024-01-26 | 2024-02-17 |
 | [DEIXA ESTAR](https://open.spotify.com/track/1h1uyRSbfQYgckDfb9EeyQ) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C), [Lulu Santos](https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [CAJU](https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj) | 5:06 | 2024-08-19 | 2025-06-21 |
+| [Deixa Eu Te Amar](https://open.spotify.com/track/3OgUROJuhlVT1Sa8KQAcMd) | [Sofia Oliveira](https://open.spotify.com/artist/5B4uV21S8qu6VkJ5diJsLC) | [Deixa Eu Te Amar](https://open.spotify.com/album/4LK8RiByhQv0Jh8XEGbTwI) | 2:33 | 2026-11-13 |  |
 | [Deixa eu te sentir](https://open.spotify.com/track/3oE47KzHTOBEA5utcirjGy) | [Bia Marques](https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R) | [Deixa eu te sentir](https://open.spotify.com/album/3l9x2o5TnRTnQyfm3PdneQ) | 2:41 | 2026-05-22 | 2026-07-03 |
 | [Deixa Fluir](https://open.spotify.com/track/1wOew8I9GjHsC9FtOPtZ7c) | [John Bianchi](https://open.spotify.com/artist/05hwMm996CzWNUUqiaLO7P) | [Clube dos Corações Partidos](https://open.spotify.com/album/6AVbmvq2Xau0692kLrF3be) | 2:41 | 2023-05-05 | 2023-06-17 |
 | [Deixa Molhar](https://open.spotify.com/track/3xzwKkGHQp8USzDQtlnHQS) | [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR) | [Deixa Molhar](https://open.spotify.com/album/2RS2bespFSSmu2RQtn00at) | 3:01 | 2025-01-17 | 2025-12-05 |

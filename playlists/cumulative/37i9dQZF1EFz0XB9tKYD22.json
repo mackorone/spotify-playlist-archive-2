@@ -1721,6 +1721,24 @@
     },
     {
       "album": {
+        "name": "Drop Anchor Here",
+        "url": "https://open.spotify.com/album/1dbEt8HquK1ogAVXcPV3ve"
+      },
+      "artists": [
+        {
+          "name": "Gabby Barrett",
+          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
+        }
+      ],
+      "date_added": "2026-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203186,
+      "name": "Drop Anchor Here",
+      "url": "https://open.spotify.com/track/5za25Jtm5rdrKKHKoAMJEa"
+    },
+    {
+      "album": {
         "name": "Denim & Rhinestones (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7KYgF3DFsc2eCamlB4JMzy"
       },
@@ -4428,6 +4446,24 @@
       "duration_ms": 198106,
       "name": "Medicine (feat. Blake Shelton)",
       "url": "https://open.spotify.com/track/7vvqns9A9v9CuC8MlUDPnC"
+    },
+    {
+      "album": {
+        "name": "The Guest Room",
+        "url": "https://open.spotify.com/album/374DcR4mOsUutxymdtqySx"
+      },
+      "artists": [
+        {
+          "name": "Jaren Johnston",
+          "url": "https://open.spotify.com/artist/5beYbzBVaQfcY8XL2DCcTs"
+        }
+      ],
+      "date_added": "2026-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146909,
+      "name": "Memories Like You",
+      "url": "https://open.spotify.com/track/5EAJAn0EqmZXfbfMhTefHf"
     },
     {
       "album": {

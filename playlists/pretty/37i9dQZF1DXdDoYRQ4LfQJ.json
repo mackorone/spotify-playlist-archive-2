@@ -1,12 +1,12 @@
 {
   "description": "Bien Chaka con LOS DOS DE TAMAULIPAS & the hottest Corridos in the U.S.",
-  "num_followers": 348273,
+  "num_followers": 348325,
   "original_name": "Bien Chaka",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKTZm6AWuTRAF3DcRkgILniiZVtG",
+  "snapshot_id": "AAAAAKrgAe5Kw2Svhw4o+ppN8bewNao0",
   "tracks": [
     {
       "added_at": "2026-11-06 21:57:51",
@@ -539,22 +539,6 @@
     {
       "added_at": "2026-11-06 21:57:51",
       "album": {
-        "name": "Noches Sin Fin",
-        "url": "https://open.spotify.com/album/465rqQUVN9J9KTCphdfAKM"
-      },
-      "artists": [
-        {
-          "name": "Herencia De Grandes",
-          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
-        }
-      ],
-      "duration_ms": 168229,
-      "name": "Cambio Mi Suerte",
-      "url": "https://open.spotify.com/track/6ZdbHIohiiimLHC5ZSDWDb"
-    },
-    {
-      "added_at": "2026-11-06 21:57:51",
-      "album": {
         "name": "Alegres - Los Mejores Exitos, Vol. 1",
         "url": "https://open.spotify.com/album/0Orm3dKLTaMjHIhQcpZesP"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 192876,
       "name": "El Del Palenque",
       "url": "https://open.spotify.com/track/59IzIYjjHoYqs6SLioYrcI"
+    },
+    {
+      "added_at": "2026-11-06 21:57:51",
+      "album": {
+        "name": "Noches Sin Fin",
+        "url": "https://open.spotify.com/album/465rqQUVN9J9KTCphdfAKM"
+      },
+      "artists": [
+        {
+          "name": "Herencia De Grandes",
+          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
+        }
+      ],
+      "duration_ms": 168229,
+      "name": "Cambio Mi Suerte",
+      "url": "https://open.spotify.com/track/6ZdbHIohiiimLHC5ZSDWDb"
     },
     {
       "added_at": "2026-11-06 21:57:51",
@@ -1247,26 +1247,6 @@
     {
       "added_at": "2026-11-06 21:57:51",
       "album": {
-        "name": "Bandida",
-        "url": "https://open.spotify.com/album/5AIi8LYYq6kwvUAxZuqUBd"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 165026,
-      "name": "Bandida",
-      "url": "https://open.spotify.com/track/4dF08DjAjgactxNnsjRod6"
-    },
-    {
-      "added_at": "2026-11-06 21:57:51",
-      "album": {
         "name": "Malas Rachas",
         "url": "https://open.spotify.com/album/0hOoMpG9nfKnFDYjyWadLG"
       },
@@ -1287,6 +1267,26 @@
       "duration_ms": 260285,
       "name": "Malas Rachas - En Vivo",
       "url": "https://open.spotify.com/track/3CRbCuucscl5CNGhvU5090"
+    },
+    {
+      "added_at": "2026-11-06 21:57:51",
+      "album": {
+        "name": "Bandida",
+        "url": "https://open.spotify.com/album/5AIi8LYYq6kwvUAxZuqUBd"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 165026,
+      "name": "Bandida",
+      "url": "https://open.spotify.com/track/4dF08DjAjgactxNnsjRod6"
     },
     {
       "added_at": "2026-11-06 21:57:51",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2026-11-06 21:57:51",
       "album": {
-        "name": "Natanael Cano, Vol.1",
-        "url": "https://open.spotify.com/album/5LfkNiWQJAV4dpUeBxxoMN"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 176230,
-      "name": "La Factura",
-      "url": "https://open.spotify.com/track/41sOOY5ifowka7cCtzLTvR"
-    },
-    {
-      "added_at": "2026-11-06 21:57:51",
-      "album": {
         "name": "Martes 13",
         "url": "https://open.spotify.com/album/4DERREe1IEROc2LTHlJrfq"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 163341,
       "name": "Martes 13",
       "url": "https://open.spotify.com/track/3E9uSlxdkqijIBCu2rYQBj"
+    },
+    {
+      "added_at": "2026-11-06 21:57:51",
+      "album": {
+        "name": "Natanael Cano, Vol.1",
+        "url": "https://open.spotify.com/album/5LfkNiWQJAV4dpUeBxxoMN"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 176230,
+      "name": "La Factura",
+      "url": "https://open.spotify.com/track/41sOOY5ifowka7cCtzLTvR"
     },
     {
       "added_at": "2026-11-06 21:57:51",
@@ -1483,6 +1483,30 @@
     {
       "added_at": "2026-11-06 21:57:51",
       "album": {
+        "name": "El Gavil\u00e1n",
+        "url": "https://open.spotify.com/album/5yRjJl7zzslQpbCX76s6Vi"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 175295,
+      "name": "El Gavil\u00e1n",
+      "url": "https://open.spotify.com/track/4ygQ5wSuzzNRevVjup1qV2"
+    },
+    {
+      "added_at": "2026-11-06 21:57:51",
+      "album": {
         "name": "Dinero No Tenia (En Vivo)",
         "url": "https://open.spotify.com/album/4I4HdAzHO28j18IibnON3F"
       },
@@ -1495,30 +1519,6 @@
       "duration_ms": 208107,
       "name": "Dinero No Tenia - En Vivo",
       "url": "https://open.spotify.com/track/78ZsL4i0PT5SjnB3WeXGj9"
-    },
-    {
-      "added_at": "2026-11-06 21:57:51",
-      "album": {
-        "name": "Aguas",
-        "url": "https://open.spotify.com/album/3M2ysOq0MWdkpDydIVZ07K"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
-        },
-        {
-          "name": "Rey Quinto",
-          "url": "https://open.spotify.com/artist/7EpdzasUopr1eDw9i66Of0"
-        }
-      ],
-      "duration_ms": 172682,
-      "name": "Aguas",
-      "url": "https://open.spotify.com/track/2KgzC2HaBfy67hMkSUDOys"
     },
     {
       "added_at": "2026-11-06 21:57:51",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2026-11-06 21:57:51",
       "album": {
-        "name": "MJ",
-        "url": "https://open.spotify.com/album/64hWsG3zGBhdTzpLdrym0V"
-      },
-      "artists": [
-        {
-          "name": "El Randal",
-          "url": "https://open.spotify.com/artist/3xy1Z8p0bYLH2cDPla9QnU"
-        }
-      ],
-      "duration_ms": 177540,
-      "name": "MJ",
-      "url": "https://open.spotify.com/track/71N2IlXaxkOAqyci6tjwES"
-    },
-    {
-      "added_at": "2026-11-06 21:57:51",
-      "album": {
         "name": "Voy Enfierrado",
         "url": "https://open.spotify.com/album/6gFwSuvC9NfquGCjxAC5UB"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 147500,
       "name": "Voy Enfierrado",
       "url": "https://open.spotify.com/track/39uJGraTSq4lC6UGfCLGm2"
+    },
+    {
+      "added_at": "2026-11-06 21:57:51",
+      "album": {
+        "name": "MJ",
+        "url": "https://open.spotify.com/album/64hWsG3zGBhdTzpLdrym0V"
+      },
+      "artists": [
+        {
+          "name": "El Randal",
+          "url": "https://open.spotify.com/artist/3xy1Z8p0bYLH2cDPla9QnU"
+        }
+      ],
+      "duration_ms": 177540,
+      "name": "MJ",
+      "url": "https://open.spotify.com/track/71N2IlXaxkOAqyci6tjwES"
     },
     {
       "added_at": "2026-11-06 21:57:51",
@@ -1683,26 +1683,6 @@
     {
       "added_at": "2026-11-06 21:57:51",
       "album": {
-        "name": "PJM",
-        "url": "https://open.spotify.com/album/0qKaJwbXwmZ9AmxnGsQCYK"
-      },
-      "artists": [
-        {
-          "name": "El Randal",
-          "url": "https://open.spotify.com/artist/3xy1Z8p0bYLH2cDPla9QnU"
-        },
-        {
-          "name": "Rey Quinto",
-          "url": "https://open.spotify.com/artist/7EpdzasUopr1eDw9i66Of0"
-        }
-      ],
-      "duration_ms": 131628,
-      "name": "PJM",
-      "url": "https://open.spotify.com/track/0YopquwKvnkylezOWZmHat"
-    },
-    {
-      "added_at": "2026-11-06 21:57:51",
-      "album": {
         "name": "Yo Vengo De La Nada",
         "url": "https://open.spotify.com/album/39jS5Ka1i5dykkd5bm06Iq"
       },
@@ -1719,6 +1699,26 @@
       "duration_ms": 156807,
       "name": "Yo Vengo De La Nada",
       "url": "https://open.spotify.com/track/2JJdNXpiCQoAeLQvVMpIEh"
+    },
+    {
+      "added_at": "2026-11-06 21:57:51",
+      "album": {
+        "name": "PJM",
+        "url": "https://open.spotify.com/album/0qKaJwbXwmZ9AmxnGsQCYK"
+      },
+      "artists": [
+        {
+          "name": "El Randal",
+          "url": "https://open.spotify.com/artist/3xy1Z8p0bYLH2cDPla9QnU"
+        },
+        {
+          "name": "Rey Quinto",
+          "url": "https://open.spotify.com/artist/7EpdzasUopr1eDw9i66Of0"
+        }
+      ],
+      "duration_ms": 131628,
+      "name": "PJM",
+      "url": "https://open.spotify.com/track/0YopquwKvnkylezOWZmHat"
     },
     {
       "added_at": "2026-11-06 21:57:51",

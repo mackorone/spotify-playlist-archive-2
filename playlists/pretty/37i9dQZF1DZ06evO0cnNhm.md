@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0cnNhm.md) - [plain]
 
 > This is Dario Marianelli\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,110 likes - 31 songs - 1 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,115 likes - 31 songs - 1 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

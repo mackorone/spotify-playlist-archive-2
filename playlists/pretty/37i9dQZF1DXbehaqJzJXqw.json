@@ -1,6 +1,6 @@
 {
   "description": "You are sipping on your coffee in a caf\u00e9 in Paris while a Jazz band plays somewhere in the background. ",
-  "num_followers": 722535,
+  "num_followers": 722698,
   "original_name": "French Jazz Caf\u00e9",
   "owner": {
     "name": "Spotify",
@@ -719,22 +719,6 @@
     {
       "added_at": "2026-06-30 12:26:56",
       "album": {
-        "name": "Merle Noir",
-        "url": "https://open.spotify.com/album/6kb00WTbKIXhUqK8VAFXod"
-      },
-      "artists": [
-        {
-          "name": "Zazou",
-          "url": "https://open.spotify.com/artist/4ThhH5H8jQ1yUDRMynALCA"
-        }
-      ],
-      "duration_ms": 289413,
-      "name": "Menilmontant",
-      "url": "https://open.spotify.com/track/7k125cYjRfIYB23FOQTeTy"
-    },
-    {
-      "added_at": "2026-06-30 12:26:56",
-      "album": {
         "name": "Rose",
         "url": "https://open.spotify.com/album/3ACdkFZ2IR9cXqeqWMz2V7"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 272733,
       "name": "Je m'ennuie",
       "url": "https://open.spotify.com/track/4Qw9NyyIYkgGzcmRnrZPrT"
+    },
+    {
+      "added_at": "2026-06-30 12:26:56",
+      "album": {
+        "name": "Merle Noir",
+        "url": "https://open.spotify.com/album/6kb00WTbKIXhUqK8VAFXod"
+      },
+      "artists": [
+        {
+          "name": "Zazou",
+          "url": "https://open.spotify.com/artist/4ThhH5H8jQ1yUDRMynALCA"
+        }
+      ],
+      "duration_ms": 289413,
+      "name": "Menilmontant",
+      "url": "https://open.spotify.com/track/7k125cYjRfIYB23FOQTeTy"
     },
     {
       "added_at": "2026-06-30 12:26:56",
@@ -975,22 +975,6 @@
     {
       "added_at": "2026-06-30 12:26:56",
       "album": {
-        "name": "A Fraction Of You",
-        "url": "https://open.spotify.com/album/64gdIpI1MJzTjRo2yZFBwS"
-      },
-      "artists": [
-        {
-          "name": "Fredrika Stahl",
-          "url": "https://open.spotify.com/artist/3hWWpC6XAABcySpC1id9Q5"
-        }
-      ],
-      "duration_ms": 217960,
-      "name": "Les jeux sont faits",
-      "url": "https://open.spotify.com/track/7JTyXQErhpjBJMVKEmL2MZ"
-    },
-    {
-      "added_at": "2026-06-30 12:26:56",
-      "album": {
         "name": "My Gentleman Friend",
         "url": "https://open.spotify.com/album/5D5eQmgvrCleIhNPOixTqh"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 186693,
       "name": "Chez Moi",
       "url": "https://open.spotify.com/track/16UdsCC8mjirUrtjA9HaG5"
+    },
+    {
+      "added_at": "2026-06-30 12:26:56",
+      "album": {
+        "name": "A Fraction Of You",
+        "url": "https://open.spotify.com/album/64gdIpI1MJzTjRo2yZFBwS"
+      },
+      "artists": [
+        {
+          "name": "Fredrika Stahl",
+          "url": "https://open.spotify.com/artist/3hWWpC6XAABcySpC1id9Q5"
+        }
+      ],
+      "duration_ms": 217960,
+      "name": "Les jeux sont faits",
+      "url": "https://open.spotify.com/track/7JTyXQErhpjBJMVKEmL2MZ"
     },
     {
       "added_at": "2026-06-30 12:26:56",
@@ -1099,26 +1099,6 @@
     {
       "added_at": "2026-06-30 12:26:56",
       "album": {
-        "name": "Venez donc chez moi",
-        "url": "https://open.spotify.com/album/1yxOTyDqxGDFFPVBql7fHO"
-      },
-      "artists": [
-        {
-          "name": "Laura Anglade",
-          "url": "https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG"
-        },
-        {
-          "name": "Sam Kirmayer",
-          "url": "https://open.spotify.com/artist/0uXK3xGtTXmMvcVVCeHee5"
-        }
-      ],
-      "duration_ms": 180139,
-      "name": "J\u2019aime Paris au mois de mai",
-      "url": "https://open.spotify.com/track/1S9iKpZkOwa8DHfpf0I27l"
-    },
-    {
-      "added_at": "2026-06-30 12:26:56",
-      "album": {
         "name": "A Fraction Of You",
         "url": "https://open.spotify.com/album/64gdIpI1MJzTjRo2yZFBwS"
       },
@@ -1147,6 +1127,26 @@
       "duration_ms": 193586,
       "name": "Si tu vas \u00e0 Paris - Remasteris\u00e9 en 2017",
       "url": "https://open.spotify.com/track/0WYNxfmeHtYss2iUaiEDCJ"
+    },
+    {
+      "added_at": "2026-06-30 12:26:56",
+      "album": {
+        "name": "Venez donc chez moi",
+        "url": "https://open.spotify.com/album/1yxOTyDqxGDFFPVBql7fHO"
+      },
+      "artists": [
+        {
+          "name": "Laura Anglade",
+          "url": "https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG"
+        },
+        {
+          "name": "Sam Kirmayer",
+          "url": "https://open.spotify.com/artist/0uXK3xGtTXmMvcVVCeHee5"
+        }
+      ],
+      "duration_ms": 180139,
+      "name": "J\u2019aime Paris au mois de mai",
+      "url": "https://open.spotify.com/track/1S9iKpZkOwa8DHfpf0I27l"
     },
     {
       "added_at": "2026-06-30 12:26:56",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2026-06-30 12:26:56",
       "album": {
-        "name": "Get Out of Town (Deluxe)",
-        "url": "https://open.spotify.com/album/5JMpQfDczhBHmpGXnuIwX4"
-      },
-      "artists": [
-        {
-          "name": "Laura Anglade",
-          "url": "https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG"
-        }
-      ],
-      "duration_ms": 316078,
-      "name": "L\u2019\u00e9tang",
-      "url": "https://open.spotify.com/track/2ilG1lCoG75pEuZX5wl7iU"
-    },
-    {
-      "added_at": "2026-06-30 12:26:56",
-      "album": {
         "name": "French Songs from France: The French Swinging Troubadour (International French Stars)",
         "url": "https://open.spotify.com/album/3qIK8oFTLL6lETrmOQMAjO"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 186666,
       "name": "Vous qui passez sans me voir",
       "url": "https://open.spotify.com/track/64i5LywVv08H1SJBoYE9S0"
+    },
+    {
+      "added_at": "2026-06-30 12:26:56",
+      "album": {
+        "name": "Get Out of Town (Deluxe)",
+        "url": "https://open.spotify.com/album/5JMpQfDczhBHmpGXnuIwX4"
+      },
+      "artists": [
+        {
+          "name": "Laura Anglade",
+          "url": "https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG"
+        }
+      ],
+      "duration_ms": 316078,
+      "name": "L\u2019\u00e9tang",
+      "url": "https://open.spotify.com/track/2ilG1lCoG75pEuZX5wl7iU"
     },
     {
       "added_at": "2026-06-30 12:26:56",

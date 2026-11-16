@@ -1,6 +1,6 @@
 {
   "description": "Modern heavenly sounds. Cover: L'Rain",
-  "num_followers": 1596214,
+  "num_followers": 1596064,
   "original_name": "Ethereal",
   "owner": {
     "name": "Spotify",
@@ -911,6 +911,22 @@
     {
       "added_at": "2026-09-17 20:11:13",
       "album": {
+        "name": "Janky Star",
+        "url": "https://open.spotify.com/album/0sZHIgeXLGWrYZasMrNKTl"
+      },
+      "artists": [
+        {
+          "name": "Grace Ives",
+          "url": "https://open.spotify.com/artist/4TZieE5978SbTInJswaay2"
+        }
+      ],
+      "duration_ms": 186866,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/0PiSok4AgEcnVSWSGiz86p"
+    },
+    {
+      "added_at": "2026-09-17 20:11:13",
+      "album": {
         "name": "Aquamarine / Arcamarine",
         "url": "https://open.spotify.com/album/1rZqd8GKPidOGirnCmU9WN"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 194180,
       "name": "Aquamarine / Arcamarine",
       "url": "https://open.spotify.com/track/5Ay8JjpPx5LUauY9G0FMuV"
-    },
-    {
-      "added_at": "2026-09-17 20:11:13",
-      "album": {
-        "name": "Janky Star",
-        "url": "https://open.spotify.com/album/0sZHIgeXLGWrYZasMrNKTl"
-      },
-      "artists": [
-        {
-          "name": "Grace Ives",
-          "url": "https://open.spotify.com/artist/4TZieE5978SbTInJswaay2"
-        }
-      ],
-      "duration_ms": 186866,
-      "name": "Lullaby",
-      "url": "https://open.spotify.com/track/0PiSok4AgEcnVSWSGiz86p"
     },
     {
       "added_at": "2026-09-17 20:11:13",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2026-09-17 20:11:13",
       "album": {
-        "name": "Blood",
-        "url": "https://open.spotify.com/album/6NLWgp3R9U9v8KMueE6i9C"
-      },
-      "artists": [
-        {
-          "name": "Kelsey Lu",
-          "url": "https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5"
-        }
-      ],
-      "duration_ms": 414466,
-      "name": "I'm Not In Love",
-      "url": "https://open.spotify.com/track/7InHgiDyJ0GtvnIVslWNPK"
-    },
-    {
-      "added_at": "2026-09-17 20:11:13",
-      "album": {
         "name": "NO SZNS",
         "url": "https://open.spotify.com/album/05kT1p6wyim40HJVzg7tt3"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 213026,
       "name": "NO SZNS",
       "url": "https://open.spotify.com/track/0dn6S6lJqAIQg90kMmWtVj"
+    },
+    {
+      "added_at": "2026-09-17 20:11:13",
+      "album": {
+        "name": "Blood",
+        "url": "https://open.spotify.com/album/6NLWgp3R9U9v8KMueE6i9C"
+      },
+      "artists": [
+        {
+          "name": "Kelsey Lu",
+          "url": "https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5"
+        }
+      ],
+      "duration_ms": 414466,
+      "name": "I'm Not In Love",
+      "url": "https://open.spotify.com/track/7InHgiDyJ0GtvnIVslWNPK"
     },
     {
       "added_at": "2026-09-17 20:11:13",
@@ -1207,26 +1207,6 @@
     {
       "added_at": "2026-09-17 20:11:13",
       "album": {
-        "name": "NEVER ENOUGH: VERSIONS",
-        "url": "https://open.spotify.com/album/1KR1VedU3v1ZeVz0S1HPDL"
-      },
-      "artists": [
-        {
-          "name": "Turnstile",
-          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
-        },
-        {
-          "name": "Hayley Williams",
-          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
-        }
-      ],
-      "duration_ms": 180386,
-      "name": "CEILING: HAYLEY WILLIAMS VERSION",
-      "url": "https://open.spotify.com/track/5jz3Lk4kb4dgOwIg4HLKxV"
-    },
-    {
-      "added_at": "2026-09-17 20:11:13",
-      "album": {
         "name": "Guilty Conscience (Tame Impala Remix)",
         "url": "https://open.spotify.com/album/0YklB1LaVFTWaEub2I3tiW"
       },
@@ -1243,6 +1223,26 @@
       "duration_ms": 214986,
       "name": "Guilty Conscience - Tame Impala Remix",
       "url": "https://open.spotify.com/track/5i5fCpsnqDJ9AfeObgd0gW"
+    },
+    {
+      "added_at": "2026-09-17 20:11:13",
+      "album": {
+        "name": "NEVER ENOUGH: VERSIONS",
+        "url": "https://open.spotify.com/album/1KR1VedU3v1ZeVz0S1HPDL"
+      },
+      "artists": [
+        {
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        },
+        {
+          "name": "Hayley Williams",
+          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
+        }
+      ],
+      "duration_ms": 180386,
+      "name": "CEILING: HAYLEY WILLIAMS VERSION",
+      "url": "https://open.spotify.com/track/5jz3Lk4kb4dgOwIg4HLKxV"
     },
     {
       "added_at": "2026-09-17 20:11:13",
@@ -1307,18 +1307,18 @@
     {
       "added_at": "2026-09-17 20:11:13",
       "album": {
-        "name": "The King Of Limbs",
-        "url": "https://open.spotify.com/album/3P17levwUPzmFfLYdAK3A7"
+        "name": "Natural Born Losers",
+        "url": "https://open.spotify.com/album/5Pmmw3iJPmS2uQ41g9kVzX"
       },
       "artists": [
         {
-          "name": "Radiohead",
-          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+          "name": "Nicole Dollanganger",
+          "url": "https://open.spotify.com/artist/0MfC3pip8rY8OFLJVVNvBO"
         }
       ],
-      "duration_ms": 290067,
-      "name": "Give Up The Ghost",
-      "url": "https://open.spotify.com/track/05NZMYuLR71Z3qrZOUiUm2"
+      "duration_ms": 139439,
+      "name": "Poacher's Pride",
+      "url": "https://open.spotify.com/track/5InE7NRPIeNayZy5HhbUxD"
     }
   ],
   "unique_name": "Ethereal",

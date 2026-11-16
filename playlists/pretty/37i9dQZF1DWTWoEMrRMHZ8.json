@@ -1,6 +1,6 @@
 {
   "description": "As belas novidades da MPB. Foto: Ala\u00edde Costa, Emicida",
-  "num_followers": 352831,
+  "num_followers": 352820,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
@@ -527,6 +527,26 @@
     {
       "added_at": "2026-11-13 03:00:37",
       "album": {
+        "name": "Itapuano",
+        "url": "https://open.spotify.com/album/4sbckdbcPaSoyBhSFvJaax"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9zar Mendes",
+          "url": "https://open.spotify.com/artist/7qfp2YUHGZ6mgcJzk4iMIP"
+        },
+        {
+          "name": "Chico Buarque",
+          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
+        }
+      ],
+      "duration_ms": 190991,
+      "name": "Tamb\u00e9m Pede Bis",
+      "url": "https://open.spotify.com/track/12WNxDkTfNOVy5qajaRn6T"
+    },
+    {
+      "added_at": "2026-11-13 03:00:37",
+      "album": {
         "name": "Dez Vidas",
         "url": "https://open.spotify.com/album/6d4sMgo6fDkPxnDPuj2fX5"
       },
@@ -559,26 +579,6 @@
       "duration_ms": 250880,
       "name": "Perfei\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/5cLOM4fndyuCxIMBanqgcp"
-    },
-    {
-      "added_at": "2026-11-13 03:00:37",
-      "album": {
-        "name": "Itapuano",
-        "url": "https://open.spotify.com/album/4sbckdbcPaSoyBhSFvJaax"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9zar Mendes",
-          "url": "https://open.spotify.com/artist/7qfp2YUHGZ6mgcJzk4iMIP"
-        },
-        {
-          "name": "Chico Buarque",
-          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
-        }
-      ],
-      "duration_ms": 190991,
-      "name": "Tamb\u00e9m Pede Bis",
-      "url": "https://open.spotify.com/track/12WNxDkTfNOVy5qajaRn6T"
     },
     {
       "added_at": "2026-11-13 03:00:37",
@@ -683,6 +683,22 @@
     {
       "added_at": "2026-11-13 03:00:37",
       "album": {
+        "name": "Desculpe o Au\u00ea",
+        "url": "https://open.spotify.com/album/1Enxf1GkO9hGUOszxHFCP0"
+      },
+      "artists": [
+        {
+          "name": "Ana Ca\u00f1as",
+          "url": "https://open.spotify.com/artist/4v1mao101nIWvxzotCSKyz"
+        }
+      ],
+      "duration_ms": 199690,
+      "name": "Desculpe o Au\u00ea",
+      "url": "https://open.spotify.com/track/0AaKcnzMnTmK4646nPOYR4"
+    },
+    {
+      "added_at": "2026-11-13 03:00:37",
+      "album": {
         "name": "Jo\u00e3o",
         "url": "https://open.spotify.com/album/4afLVA7wfxfZb3ZMV2DtUb"
       },
@@ -703,22 +719,6 @@
     {
       "added_at": "2026-11-13 03:00:37",
       "album": {
-        "name": "Desculpe o Au\u00ea",
-        "url": "https://open.spotify.com/album/1Enxf1GkO9hGUOszxHFCP0"
-      },
-      "artists": [
-        {
-          "name": "Ana Ca\u00f1as",
-          "url": "https://open.spotify.com/artist/4v1mao101nIWvxzotCSKyz"
-        }
-      ],
-      "duration_ms": 199690,
-      "name": "Desculpe o Au\u00ea",
-      "url": "https://open.spotify.com/track/0AaKcnzMnTmK4646nPOYR4"
-    },
-    {
-      "added_at": "2026-11-13 03:00:37",
-      "album": {
         "name": "Teia",
         "url": "https://open.spotify.com/album/0WSxVZLu5R8CpgU9kqKgzo"
       },
@@ -731,6 +731,30 @@
       "duration_ms": 193500,
       "name": "Teia",
       "url": "https://open.spotify.com/track/7JMMxmBYUWcEVMCUuIgsnz"
+    },
+    {
+      "added_at": "2026-11-13 03:00:37",
+      "album": {
+        "name": "Fa\u00e7a Chuva Ou Fa\u00e7a Sol",
+        "url": "https://open.spotify.com/album/55NNE6eRfjnatWPLa0aKx6"
+      },
+      "artists": [
+        {
+          "name": "Carol Fazu",
+          "url": "https://open.spotify.com/artist/5c6ugniglmJAisZw252uwS"
+        },
+        {
+          "name": "Vanessa Da Mata",
+          "url": "https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7"
+        },
+        {
+          "name": "Liminha",
+          "url": "https://open.spotify.com/artist/7Bgh4WtG88t1VQsGKzszH7"
+        }
+      ],
+      "duration_ms": 277858,
+      "name": "Fa\u00e7a Chuva Ou Fa\u00e7a Sol",
+      "url": "https://open.spotify.com/track/67xifhsKAR6BpUc0zuGZW5"
     },
     {
       "added_at": "2026-11-13 03:00:37",
@@ -779,6 +803,26 @@
     {
       "added_at": "2026-11-13 03:00:37",
       "album": {
+        "name": "Esgotada",
+        "url": "https://open.spotify.com/album/63C8OnR5KLcXiEuNN6cwhl"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ea",
+          "url": "https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7"
+        },
+        {
+          "name": "Adriana Calcanhotto",
+          "url": "https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi"
+        }
+      ],
+      "duration_ms": 238608,
+      "name": "Atitude",
+      "url": "https://open.spotify.com/track/7Ai5LRVMMervzHZpbLeFTb"
+    },
+    {
+      "added_at": "2026-11-13 03:00:37",
+      "album": {
         "name": "PROPOSTA PARA UM ESTADO CR\u00cdTICO",
         "url": "https://open.spotify.com/album/2gz25YLpqxjbkZhpcMiquh"
       },
@@ -803,26 +847,6 @@
       "duration_ms": 191792,
       "name": "PROPOSTA PARA UM ESTADO CR\u00cdTICO",
       "url": "https://open.spotify.com/track/5bCXKLqLtAsXuBwnlfRt70"
-    },
-    {
-      "added_at": "2026-11-13 03:00:37",
-      "album": {
-        "name": "Esgotada",
-        "url": "https://open.spotify.com/album/63C8OnR5KLcXiEuNN6cwhl"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ea",
-          "url": "https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7"
-        },
-        {
-          "name": "Adriana Calcanhotto",
-          "url": "https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi"
-        }
-      ],
-      "duration_ms": 238608,
-      "name": "Atitude",
-      "url": "https://open.spotify.com/track/7Ai5LRVMMervzHZpbLeFTb"
     },
     {
       "added_at": "2026-11-13 03:00:37",
@@ -871,30 +895,6 @@
       "duration_ms": 181813,
       "name": "Tantos Amores",
       "url": "https://open.spotify.com/track/0I4DvvxFa0sBuuJId2bU9L"
-    },
-    {
-      "added_at": "2026-11-13 03:00:37",
-      "album": {
-        "name": "Fa\u00e7a Chuva Ou Fa\u00e7a Sol",
-        "url": "https://open.spotify.com/album/55NNE6eRfjnatWPLa0aKx6"
-      },
-      "artists": [
-        {
-          "name": "Carol Fazu",
-          "url": "https://open.spotify.com/artist/5c6ugniglmJAisZw252uwS"
-        },
-        {
-          "name": "Vanessa Da Mata",
-          "url": "https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7"
-        },
-        {
-          "name": "Liminha",
-          "url": "https://open.spotify.com/artist/7Bgh4WtG88t1VQsGKzszH7"
-        }
-      ],
-      "duration_ms": 277858,
-      "name": "Fa\u00e7a Chuva Ou Fa\u00e7a Sol",
-      "url": "https://open.spotify.com/track/67xifhsKAR6BpUc0zuGZW5"
     },
     {
       "added_at": "2026-11-13 03:00:37",
@@ -999,6 +999,26 @@
     {
       "added_at": "2026-11-13 03:00:37",
       "album": {
+        "name": "Odisseu",
+        "url": "https://open.spotify.com/album/39UmJTD7Ej6FHjNWkSeQqf"
+      },
+      "artists": [
+        {
+          "name": "Zeca Baleiro",
+          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
+        },
+        {
+          "name": "Rodrigo Bittencourt",
+          "url": "https://open.spotify.com/artist/2IlBhuwIzNLOvExaplv0tj"
+        }
+      ],
+      "duration_ms": 137564,
+      "name": "Odisseu",
+      "url": "https://open.spotify.com/track/3mdem1BGKgYecijYHTUO3n"
+    },
+    {
+      "added_at": "2026-11-13 03:00:37",
+      "album": {
         "name": "Reconstruir / Mancha de Dend\u00ea",
         "url": "https://open.spotify.com/album/5rcaJoROklX83yCv1YPKsC"
       },
@@ -1011,22 +1031,6 @@
       "duration_ms": 176409,
       "name": "Mancha de Dend\u00ea",
       "url": "https://open.spotify.com/track/6ilAuzERZj7AnA2vGcnScQ"
-    },
-    {
-      "added_at": "2026-11-13 03:00:37",
-      "album": {
-        "name": "Quase uma trai\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/7uo4oqQbCn8fHb4FSm7yHl"
-      },
-      "artists": [
-        {
-          "name": "Frejat",
-          "url": "https://open.spotify.com/artist/3WVjDclrbHsxjxhiOqHdnw"
-        }
-      ],
-      "duration_ms": 197866,
-      "name": "Quase uma trai\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/6xFjoyv5tCdbvrH2gMeZmy"
     },
     {
       "added_at": "2026-11-13 03:00:37",
@@ -1047,6 +1051,22 @@
       "duration_ms": 186938,
       "name": "O Tempo Leva",
       "url": "https://open.spotify.com/track/6vljTD3BamQ2TFWxm26cnz"
+    },
+    {
+      "added_at": "2026-11-13 03:00:37",
+      "album": {
+        "name": "Quase uma trai\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/7uo4oqQbCn8fHb4FSm7yHl"
+      },
+      "artists": [
+        {
+          "name": "Frejat",
+          "url": "https://open.spotify.com/artist/3WVjDclrbHsxjxhiOqHdnw"
+        }
+      ],
+      "duration_ms": 197866,
+      "name": "Quase uma trai\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/6xFjoyv5tCdbvrH2gMeZmy"
     },
     {
       "added_at": "2026-11-13 03:00:37",
@@ -1163,26 +1183,6 @@
     {
       "added_at": "2026-11-13 03:00:37",
       "album": {
-        "name": "Odisseu",
-        "url": "https://open.spotify.com/album/39UmJTD7Ej6FHjNWkSeQqf"
-      },
-      "artists": [
-        {
-          "name": "Zeca Baleiro",
-          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
-        },
-        {
-          "name": "Rodrigo Bittencourt",
-          "url": "https://open.spotify.com/artist/2IlBhuwIzNLOvExaplv0tj"
-        }
-      ],
-      "duration_ms": 137564,
-      "name": "Odisseu",
-      "url": "https://open.spotify.com/track/3mdem1BGKgYecijYHTUO3n"
-    },
-    {
-      "added_at": "2026-11-13 03:00:37",
-      "album": {
         "name": "Gol de Quem? (Ao Vivo)",
         "url": "https://open.spotify.com/album/4jqMI0S8Nwgpzs36a3D3S8"
       },
@@ -1263,6 +1263,26 @@
     {
       "added_at": "2026-11-13 03:00:37",
       "album": {
+        "name": "Melodia, Letra E M\u00fasica",
+        "url": "https://open.spotify.com/album/5yXsdyCtLz7hrrH89kiAO9"
+      },
+      "artists": [
+        {
+          "name": "BaianaSystem",
+          "url": "https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5"
+        },
+        {
+          "name": "Luiz Melodia",
+          "url": "https://open.spotify.com/artist/1zZjt7cDeeJSLWZYK34r7W"
+        }
+      ],
+      "duration_ms": 234262,
+      "name": "Brasil Zerado",
+      "url": "https://open.spotify.com/track/5ye9WkEzQ0PdXnLng8BCDS"
+    },
+    {
+      "added_at": "2026-11-13 03:00:37",
+      "album": {
         "name": "Salvador",
         "url": "https://open.spotify.com/album/5nus9ry9wWPu7I8Kz2mtVr"
       },
@@ -1275,6 +1295,26 @@
       "duration_ms": 151800,
       "name": "Salvador",
       "url": "https://open.spotify.com/track/563tt8KfkDb3FFhPCSl4em"
+    },
+    {
+      "added_at": "2026-11-13 03:00:37",
+      "album": {
+        "name": "N\u00e3o Resisto",
+        "url": "https://open.spotify.com/album/11UAPwO6V0XwUxs0cd5Dhm"
+      },
+      "artists": [
+        {
+          "name": "Mamacita",
+          "url": "https://open.spotify.com/artist/0zd6LHxak21D37nMKpT4k2"
+        },
+        {
+          "name": "Filhos De Jorge",
+          "url": "https://open.spotify.com/artist/2V9RQWP2Dk6IEauL7D14vE"
+        }
+      ],
+      "duration_ms": 241097,
+      "name": "N\u00e3o Resisto",
+      "url": "https://open.spotify.com/track/2H2GJZLJokgrgvtYKTSMbv"
     },
     {
       "added_at": "2026-11-13 03:00:37",
@@ -1351,26 +1391,6 @@
     {
       "added_at": "2026-11-13 03:00:37",
       "album": {
-        "name": "Melodia, Letra E M\u00fasica",
-        "url": "https://open.spotify.com/album/5yXsdyCtLz7hrrH89kiAO9"
-      },
-      "artists": [
-        {
-          "name": "BaianaSystem",
-          "url": "https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5"
-        },
-        {
-          "name": "Luiz Melodia",
-          "url": "https://open.spotify.com/artist/1zZjt7cDeeJSLWZYK34r7W"
-        }
-      ],
-      "duration_ms": 234262,
-      "name": "Brasil Zerado",
-      "url": "https://open.spotify.com/track/5ye9WkEzQ0PdXnLng8BCDS"
-    },
-    {
-      "added_at": "2026-11-13 03:00:37",
-      "album": {
         "name": "Vila Madalena",
         "url": "https://open.spotify.com/album/0D4bZ7N4UivEhWt734dPeA"
       },
@@ -1427,26 +1447,6 @@
     {
       "added_at": "2026-11-13 03:00:37",
       "album": {
-        "name": "N\u00e3o Resisto",
-        "url": "https://open.spotify.com/album/11UAPwO6V0XwUxs0cd5Dhm"
-      },
-      "artists": [
-        {
-          "name": "Mamacita",
-          "url": "https://open.spotify.com/artist/0zd6LHxak21D37nMKpT4k2"
-        },
-        {
-          "name": "Filhos De Jorge",
-          "url": "https://open.spotify.com/artist/2V9RQWP2Dk6IEauL7D14vE"
-        }
-      ],
-      "duration_ms": 241097,
-      "name": "N\u00e3o Resisto",
-      "url": "https://open.spotify.com/track/2H2GJZLJokgrgvtYKTSMbv"
-    },
-    {
-      "added_at": "2026-11-13 03:00:37",
-      "album": {
         "name": "Fervo Unboxing - Rodrigo Ciampi",
         "url": "https://open.spotify.com/album/5RYuQybfuZ3TwiaFktJlqE"
       },
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2026-11-13 03:00:37",
       "album": {
-        "name": "NOVELA",
-        "url": "https://open.spotify.com/album/4jFFc377bqxLx1rrnDfJuh"
-      },
-      "artists": [
-        {
-          "name": "PP",
-          "url": "https://open.spotify.com/artist/69hIKin4Uhp9JkiruaTNeJ"
-        }
-      ],
-      "duration_ms": 150113,
-      "name": "Adeus",
-      "url": "https://open.spotify.com/track/03WHUsleXqD4BPfmMWM7py"
-    },
-    {
-      "added_at": "2026-11-13 03:00:37",
-      "album": {
         "name": "Os Incont\u00e1veis Desdobramentos de um Efeito Borboleta",
         "url": "https://open.spotify.com/album/5ls38bcgo7nGTJobyRayAO"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 138875,
       "name": "PIOR EM TUDO",
       "url": "https://open.spotify.com/track/6VJSeqMRawJ5OKavnBZCvT"
+    },
+    {
+      "added_at": "2026-11-13 03:00:37",
+      "album": {
+        "name": "NOVELA",
+        "url": "https://open.spotify.com/album/4jFFc377bqxLx1rrnDfJuh"
+      },
+      "artists": [
+        {
+          "name": "PP",
+          "url": "https://open.spotify.com/artist/69hIKin4Uhp9JkiruaTNeJ"
+        }
+      ],
+      "duration_ms": 150113,
+      "name": "Adeus",
+      "url": "https://open.spotify.com/track/03WHUsleXqD4BPfmMWM7py"
     },
     {
       "added_at": "2026-11-13 03:00:37",

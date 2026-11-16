@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TNDxNzIjRm.md) - [plain]
 
 > Cuando el jangueo está mejor que la fiesta\. Hanging out jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,246,381 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,246,232 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TNDxNzIjRm.md) - [plain]
 | 55 | [Thootie \(feat\. Tokischa\)](https://open.spotify.com/track/6mHIYI9coRzaIlqE6rPNN5) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [Thootie \(feat\. Tokischa\)](https://open.spotify.com/album/0TodY9XIuBX1k3DUhigXuG) | 2:31 |
 | 56 | [COSITA LINDA](https://open.spotify.com/track/1fDjHyaZnNCPo9QsuFdQVO) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [COSITA LINDA](https://open.spotify.com/album/6dyQjzZ1vQWxU28edG6AOA) | 2:19 |
 | 57 | [Botellita De Champagne](https://open.spotify.com/track/1qUwfQjdSq3Jta580WvsI3) | [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Panda Black](https://open.spotify.com/artist/1QcutbFtA6u8A2ZFTZuLSL) | [LAS FILTRADAS](https://open.spotify.com/album/4AL3l5qn3kF1FMBUoW5AKq) | 2:37 |
-| 58 | [pikito pikito](https://open.spotify.com/track/5cqtbeHYOKTb687NsG4sp3) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ), [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [pikito pikito](https://open.spotify.com/album/0hy02gZ63hkLSnoQsuGEKB) | 3:00 |
-| 59 | [Como Es Que Se Hace](https://open.spotify.com/track/2L1lCDnKE9WcnTEre5QKCP) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [Como Es Que Se Hace](https://open.spotify.com/album/0HvCpNq9SOzytIHAMIGgl8) | 3:25 |
+| 58 | [Como Es Que Se Hace](https://open.spotify.com/track/2L1lCDnKE9WcnTEre5QKCP) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [Como Es Que Se Hace](https://open.spotify.com/album/0HvCpNq9SOzytIHAMIGgl8) | 3:25 |
+| 59 | [pikito pikito](https://open.spotify.com/track/5cqtbeHYOKTb687NsG4sp3) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ), [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [pikito pikito](https://open.spotify.com/album/0hy02gZ63hkLSnoQsuGEKB) | 3:00 |
 | 60 | [CHULA](https://open.spotify.com/track/4SEQheyYUhSyCoOHvDdkla) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [BARAJA BENDITA](https://open.spotify.com/album/1B8QJFOcpBeycykDaWttDY) | 2:07 |
 | 61 | [CUPIDOxX](https://open.spotify.com/track/65pAD5JQJAgqpcnSzHGbrP) | [Juseph](https://open.spotify.com/artist/5kgDdP7a4TsvkF08gpJGX0), [La Pantera](https://open.spotify.com/artist/0IEzMvarfVycBJAXjjEZOL), [Lucho RK](https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ) | [CUPIDOxX](https://open.spotify.com/album/2sUSOrqJo2ivs5vdROMPfD) | 3:36 |
 | 62 | [BRONCEADOR](https://open.spotify.com/track/6LYg8Ks95O7GNNLfB6kh4j) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [BRONCEADOR](https://open.spotify.com/album/1xMXyKKRsXoPe34kS7w2SF) | 2:29 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TNDxNzIjRm.md) - [plain]
 | 99 | [Tú Tú Tú](https://open.spotify.com/track/3qlkTYb0DuyIbBSpd71n3x) | [Mar Solís](https://open.spotify.com/artist/4UgSSRfTxP1W7niOOa4bwl) | [Tú Tú Tú](https://open.spotify.com/album/5AKzE21t3Og9MQu7rEIwud) | 3:10 |
 | 100 | [Ay Dale](https://open.spotify.com/track/0S71WAkS1fLsGHMC4NX4zt) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Eddy Lover](https://open.spotify.com/artist/7gR53ad9JjCweCv4f9MWEX) | [Ay Dale](https://open.spotify.com/album/554YtsiV2xM17gb9XE84TP) | 2:26 |
 
-Snapshot ID: `AAAAAKUiySc8tiDyfjuVOk6fqt5Gth79`
+Snapshot ID: `AAAAAF5mmI12ojQRLUt6in1ApAdGYa7w`

@@ -4,7 +4,7 @@
 
 > Modern heavenly sounds\. Cover: L'Rain
 
-760 songs - 2 day 0 hr 6 min
+761 songs - 2 day 0 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -284,7 +284,7 @@
 | [Girl of My Dreams](https://open.spotify.com/track/5RdTT9trEnmVML9PlBqNKr) | [Guti](https://open.spotify.com/artist/6BYc2AlVqCvVqTpTvz792O) | [Late Nights and Heartbreak](https://open.spotify.com/album/2QKh9vmbvNmBwsAzptNHfF) | 3:42 | 2022-04-22 | 2022-06-01 |
 | [Girls just wanna have fun](https://open.spotify.com/track/2BbY1U7zipIeqwd9m2WyC0) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Girls just wanna have fun](https://open.spotify.com/album/0Q1LTnqlF8Dfx4B3VPd2q5) | 3:14 | 2024-10-25 | 2024-11-22 |
 | [Give it Back](https://open.spotify.com/track/7y7GePCjc1mqoLAvbjmAvK) | [Clarissa Connelly](https://open.spotify.com/artist/5YTJVNTfb9qDXATTlzuR5S) | [Give it Back](https://open.spotify.com/album/3qkkYie1eINh4qk4XJUzEW) | 6:41 | 2024-10-25 | 2024-11-16 |
-| [Give Up The Ghost](https://open.spotify.com/track/05NZMYuLR71Z3qrZOUiUm2) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [The King Of Limbs](https://open.spotify.com/album/3P17levwUPzmFfLYdAK3A7) | 4:50 | 2025-03-21 |  |
+| [Give Up The Ghost](https://open.spotify.com/track/05NZMYuLR71Z3qrZOUiUm2) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [The King Of Limbs](https://open.spotify.com/album/3P17levwUPzmFfLYdAK3A7) | 4:50 | 2025-03-21 | 2026-11-16 |
 | [Glass](https://open.spotify.com/track/0QMaNirJT0S10i9MXJFWbQ) | [Blood Cultures](https://open.spotify.com/artist/1kDqy7SpqyJ7aZi7cqSBis) | [Oh Uncertainty! A Universe Despairs](https://open.spotify.com/album/0cafqSXPiqB0jf1hiTAOI0) | 2:55 | 2021-06-03 | 2022-06-01 |
 | [Glider \- from "Sable" Original Video Game Soundtrack](https://open.spotify.com/track/3LEvqWwkTAZD29xXRNjWSk) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Glider \(from "Sable" Original Video Game Soundtrack\)](https://open.spotify.com/album/70zXnYjeRgIzhiC7gYJZpO) | 2:51 | 2021-09-10 | 2022-07-29 |
 | [Glitter and Tears \- Myra Molloy Remix](https://open.spotify.com/track/7Etq2Nj6XJkBdlUr3eKOxg) | [Ella Vos](https://open.spotify.com/artist/2zmrsXMHxagFz6vI2cD7r6), [Myra Molloy](https://open.spotify.com/artist/30yozRF4B2uaL6eDBsLH96) | [Glitter and Tears \(Myra Molloy Remix\)](https://open.spotify.com/album/5uopUaKx0wWta1xbeaLzBY) | 3:24 | 2022-11-11 | 2023-01-26 |
@@ -536,6 +536,7 @@
 | [Playground Love](https://open.spotify.com/track/052z2UsE2wPrHsBJ9tly0g) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ), [Gordon Tracks](https://open.spotify.com/artist/4DWl8U58uYeeTtlvbrLEY6) | [The Virgin Suicides \(Original Motion Picture Score\)](https://open.spotify.com/album/2E1q8eohZZ1BUQ7Bq5WUIY) | 3:31 | 2022-04-22 | 2025-07-16 |
 | [pleaser](https://open.spotify.com/track/5ldacn9iR3yFtYLrj5N3un) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [Cacophony](https://open.spotify.com/album/6iotK7DPiIqhu707ysxYpH) | 4:48 | 2024-08-30 | 2024-09-14 |
 | [Plein Air](https://open.spotify.com/track/7d0x1E8uKCbIVIdInBqR5y) | [Starcleaner Reunion](https://open.spotify.com/artist/0aE0jIMsKSVBasU5D0e5zM) | [Plein Air](https://open.spotify.com/album/0KbFiJiGYIeX8ui5Gkmz1S) | 4:47 | 2024-09-13 | 2024-10-22 |
+| [Poacher's Pride](https://open.spotify.com/track/5InE7NRPIeNayZy5HhbUxD) | [Nicole Dollanganger](https://open.spotify.com/artist/0MfC3pip8rY8OFLJVVNvBO) | [Natural Born Losers](https://open.spotify.com/album/5Pmmw3iJPmS2uQ41g9kVzX) | 2:19 | 2026-09-17 |  |
 | [Poison Arrow](https://open.spotify.com/track/2RWZiDpnwmXjiH0NPW1d3O) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Poison Arrow](https://open.spotify.com/album/2WWzSHKxSZ31NERBFALxVB) | 4:20 | 2021-06-03 | 2022-07-26 |
 | [Polly](https://open.spotify.com/track/6LQOd5wz3RmBFFZxdhSfLT) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [græ](https://open.spotify.com/album/35CHoLB0GEwYlOomriifC6) | 3:38 | 2021-06-03 | 2022-07-25 |
 | [Pool](https://open.spotify.com/track/5d1AGB455kWMjmtOQLx7Pg) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [The Baby](https://open.spotify.com/album/3mreobGzuqYw5lVcUaAlG2) | 4:29 | 2021-06-03 | 2022-07-29 |

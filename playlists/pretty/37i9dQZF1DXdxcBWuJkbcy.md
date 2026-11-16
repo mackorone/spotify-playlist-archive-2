@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxcBWuJkbcy.md) - [plain]
 
 > Pumping tracks for pumping iron!
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,808,758 likes - 79 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,808,487 likes - 79 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,10 +82,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxcBWuJkbcy.md) - [plain]
 | 72 | [NOW IT'S GONE \- ELY OAKS REMIX](https://open.spotify.com/track/52J5G1z4DN0EWeAVsW7Uob) | [IN PARALLEL](https://open.spotify.com/artist/6xaiGRpXAB9JdoSy3gzw4H), [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [NOW IT'S GONE \(ELY OAKS REMIX\)](https://open.spotify.com/album/1CoyFBEkDoXjjdy7W1XzSB) | 1:54 |
 | 73 | [Be The One](https://open.spotify.com/track/1cQld05IcUDw3RCFt7uymW) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Be The One](https://open.spotify.com/album/03CJTIUvULKcMHjr0qjZtK) | 2:49 |
 | 74 | [Satisfaction \- Hardwell & Maddix Remix](https://open.spotify.com/track/6L5xbckRDXIf5K1pwTaGkD) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6), [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Satisfaction \(Hardwell & Maddix Remix\)](https://open.spotify.com/album/417ZcOYyUtIXFpjygXHKSX) | 3:24 |
-| 75 | [Dive Into Me](https://open.spotify.com/track/2y3qIbsaOPaj0xKv20rbOQ) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Dive Into Me](https://open.spotify.com/album/4wXWmSfJIQerp2UJ2K0wEa) | 2:46 |
-| 76 | [Would You \(go to bed with me?\)](https://open.spotify.com/track/2N8gR2yftrHbZR53U5kYnX) | [Campbell](https://open.spotify.com/artist/5udgXJYWwK7cchnPSKqEkK), [Alcemist](https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0) | [Would You \(go to bed with me?\)](https://open.spotify.com/album/41f0FqPlL8qM5Dx5LS57j1) | 2:00 |
+| 75 | [Would You \(go to bed with me?\)](https://open.spotify.com/track/2N8gR2yftrHbZR53U5kYnX) | [Campbell](https://open.spotify.com/artist/5udgXJYWwK7cchnPSKqEkK), [Alcemist](https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0) | [Would You \(go to bed with me?\)](https://open.spotify.com/album/41f0FqPlL8qM5Dx5LS57j1) | 2:00 |
+| 76 | [Dive Into Me](https://open.spotify.com/track/2y3qIbsaOPaj0xKv20rbOQ) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Dive Into Me](https://open.spotify.com/album/4wXWmSfJIQerp2UJ2K0wEa) | 2:46 |
 | 77 | [Smells Like Teen Spirit](https://open.spotify.com/track/1h54366McXSNcici2LAiZP) | [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [Coopex](https://open.spotify.com/artist/3UV0wVQkft6lKLDGioqnyO), [Duncán](https://open.spotify.com/artist/4r47Uk509q9OwmR2PE6bqD), [Nito\-Onna](https://open.spotify.com/artist/79GiwayvvpyZVErpH6BLsY) | [Smells Like Teen Spirit](https://open.spotify.com/album/2aCAmbrwRnlGVviMuAvTvY) | 2:40 |
 | 78 | [Fireflies](https://open.spotify.com/track/1gbPA7apUePF8do9EfUYmq) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Fireflies](https://open.spotify.com/album/6VYjqAdWExFAfDdAudVT23) | 4:23 |
 | 79 | [Orla](https://open.spotify.com/track/0VFmkwR6SCmT7TIJThlCn9) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [Orla](https://open.spotify.com/album/7wdlY46kyc6xqANNpog05O) | 3:25 |
 
-Snapshot ID: `AAAAAAgcJ2Sz/noBewtVTsRSYAYrFqLT`
+Snapshot ID: `AAAAAPRMsbbMNL0ZsNa7RdGUquXN+cNq`

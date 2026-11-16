@@ -4,7 +4,7 @@
 
 > 50 artists who are the future of Canadian music, according to our editors\. Cover: Kunwarr
 
-2,678 songs - 5 day 16 hr 58 min
+2,679 songs - 5 day 17 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1041,7 +1041,7 @@
 | [HOLD ON](https://open.spotify.com/track/6bY0zAuSZwnjhmI1CPOLsN) | [DACEY](https://open.spotify.com/artist/76y8Or7IQGZcKZZ4B8ypw0) | [HOLD ON](https://open.spotify.com/album/1361Fn4pOTgvYVQ3kQHWcS) | 3:50 | 2022-04-01 | 2022-05-07 |
 | [Hold On](https://open.spotify.com/track/3xEnD1OBAP2AyGIwmzyNPI) | [KQ Beatz](https://open.spotify.com/artist/37NqJhwGMRS9B36mwu3EIN), [Teebee](https://open.spotify.com/artist/4aNxKsHJPOLxJS6uTsdW5t) | [Hold On](https://open.spotify.com/album/1jjaXArAhSIBEEBCBljX1B) | 3:21 | 2022-04-01 | 2022-05-07 |
 | [Hold Tight \(feat\. Darla Jade\)](https://open.spotify.com/track/053bbGyTwKCwmSzE78G2Us) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Nico de Andrea](https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD), [Darla Jade](https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T) | [Hold Tight \(feat\. Darla Jade\)](https://open.spotify.com/album/53J5G6P1Xdj6ZsgsHSlg1a) | 3:05 | 2022-05-06 | 2022-06-04 |
-| [Hold Up](https://open.spotify.com/track/0vDxEGc1fhUoFyMegX5qZ9) | [Kunwarr](https://open.spotify.com/artist/6AnFaupnhQD1Ps8DX7Z7mV), [JayB Singh](https://open.spotify.com/artist/3fQeAT5Oo93bKRwmOWo5HM) | [Hold Up](https://open.spotify.com/album/3Lge7AYe1m6JPIcFng4Jo7) | 2:23 | 2026-11-06 |  |
+| [Hold Up](https://open.spotify.com/track/0vDxEGc1fhUoFyMegX5qZ9) | [Kunwarr](https://open.spotify.com/artist/6AnFaupnhQD1Ps8DX7Z7mV), [JayB Singh](https://open.spotify.com/artist/3fQeAT5Oo93bKRwmOWo5HM) | [Hold Up](https://open.spotify.com/album/3Lge7AYe1m6JPIcFng4Jo7) | 2:23 | 2026-11-06 | 2026-11-16 |
 | [Hold You](https://open.spotify.com/track/7CrIYL4F8zpXm7bwhXUkxM) | [TOME](https://open.spotify.com/artist/2aRiWRO2A7xUI2sqZyJJmX), [Yaba Buluku Boyz](https://open.spotify.com/artist/5up0tKZtU7fxSrZl1oeyIi) | [LÖV](https://open.spotify.com/album/0xATpwMQQqS5Gb7gS16MIa) | 5:37 | 2022-11-30 | 2023-02-04 |
 | [Holding On](https://open.spotify.com/track/1mehm3BmnM8OKxmXonqcFc) | [Jayli Wolf](https://open.spotify.com/artist/09AACzWu09h30NeqLRn4Tx) | [Holding On](https://open.spotify.com/album/1Jy7L7La5zdiW6DICkIWuj) | 4:12 | 2023-05-05 | 2023-06-03 |
 | [Holla](https://open.spotify.com/track/3xMeqBNtZ5vyjcWlnfpTb4) | [Guessmi](https://open.spotify.com/artist/1iPrqRhbEuH0BRuIv16zv2) | [Holla](https://open.spotify.com/album/5C9ivT1fN9yRG73t18040F) | 2:52 | 2023-05-05 | 2023-06-03 |
@@ -2618,6 +2618,7 @@
 | [why do we keep running away?](https://open.spotify.com/track/33hgcRs7ZzFLMoRHAqpdK3) | [kkanji](https://open.spotify.com/artist/4shTGFJKXoQKYkBEEdURfs) | [why do we keep running away?](https://open.spotify.com/album/3yAHgNFPYf4IX22i7H6xgX) | 2:31 | 2024-02-02 | 2024-03-02 |
 | [Why Why](https://open.spotify.com/track/7JuZuYCMq9RK4LgnJ3xnJS) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR) | [Why Why](https://open.spotify.com/album/2oTmIJ3msSnvWWWwAqOvb5) | 3:05 | 2026-10-02 |  |
 | [Why You Gotta Be Like That?](https://open.spotify.com/track/1uFV4Ws1vVi1d4gWykmBPS) | [Maky Lavender](https://open.spotify.com/artist/7MdVBhgLJFByn0NuiMWwQ6) | [Why You Gotta Be Like That?](https://open.spotify.com/album/0SX3yZyxsZ2Go3fJpdc9eY) | 1:55 | 2023-03-04 | 2023-04-09 |
+| [Why?](https://open.spotify.com/track/4N26X9sL75PL7UgVQPsOiG) | [Kunwarr](https://open.spotify.com/artist/6AnFaupnhQD1Ps8DX7Z7mV), [Dishant](https://open.spotify.com/artist/03NjaVnVwllxUUcSUDglNJ) | [Why?](https://open.spotify.com/album/6gq9HC3DOPD96qfakj3eLw) | 2:37 | 2026-11-15 |  |
 | [WICKED GYAL](https://open.spotify.com/track/1iwXGYb4uYrRxO9mErMcj6) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [Lady Lykez](https://open.spotify.com/artist/2G7c1PLHP1kGjq6XAol0MS) | [WICKED GYAL](https://open.spotify.com/album/0qbhpOqIGOMnwveNz9Ljwb) | 3:33 | 2023-07-07 | 2023-08-05 |
 | [Wide Open \(feat\. Michaela Slinger\)](https://open.spotify.com/track/3eskIYs6c2GjLs7Hk0v1PE) | [Braden Lam](https://open.spotify.com/artist/2k874mUqyCwo44UZbbRsGr), [Michaela Slinger](https://open.spotify.com/artist/59QPoeNCHdaVDlFxw7ZDVQ) | [Wide Open \(feat\. Michaela Slinger\)](https://open.spotify.com/album/2GwFSvFseBD11Jk8TZM6fU) | 3:42 | 2025-02-07 | 2025-03-08 |
 | [Wide Open \(feat\. Michaela Slinger\)](https://open.spotify.com/track/6Qgx3mAZWONLD9wo5PYHGq) | [Braden Lam](https://open.spotify.com/artist/2k874mUqyCwo44UZbbRsGr), [Michaela Slinger](https://open.spotify.com/artist/59QPoeNCHdaVDlFxw7ZDVQ) | [The Cloudmaker's Cry](https://open.spotify.com/album/45fmKJJfgk0lCYD8MXQ9GS) | 3:42 | 2026-02-06 | 2026-03-07 |

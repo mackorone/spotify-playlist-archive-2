@@ -871,7 +871,7 @@
 - [Best New Videos](/playlists/pretty/37i9dQZF1DX2Ldddduma5t.md)
 - [Best Of Pop Punk](/playlists/pretty/317l1YGA14Vl2sRaVL8INT.md)
 - [Best Retro Songs of 2023](/playlists/pretty/37i9dQZF1DX9tAvIWoqPxV.md)
-- [Best Rock & Metal Songs of September](/playlists/pretty/37i9dQZF1DX6KE5n0wXSmh.md)
+- [Best Rock & Metal Songs of October](/playlists/pretty/37i9dQZF1DX6KE5n0wXSmh.md)
 - [Best Tracks from Tarantino Films](/playlists/pretty/37i9dQZF1DX3b9hbbPi5hD.md)
 - [Best Vocal Jazz of 2023](/playlists/pretty/37i9dQZF1DX4ieBny4Vpgk.md)
 - [Best in Class 2025](/playlists/pretty/37i9dQZF1DXcPYzOAWX8Wm.md)

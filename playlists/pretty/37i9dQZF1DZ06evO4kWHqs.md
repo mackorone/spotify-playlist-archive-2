@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4kWHqs.md) - [plain]
 
 > This is SadBoi\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 457 likes - 50 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 458 likes - 50 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4kWHqs.md) - [plain]
 | 49 | [2016 \(feat\. Cleotrapa\)](https://open.spotify.com/track/5aAn07UCzajGygnKbVLYtZ) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd), [Cleotrapa](https://open.spotify.com/artist/7sgo4MkWeGVIuR6D4cO8oc) | [DRY CRY](https://open.spotify.com/album/5pwj3YHIe3Yr008miPS5O6) | 3:20 |
 | 50 | [Sister Wives](https://open.spotify.com/track/2m1GCnwvUjyjIZp3WXjOoU) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Sister Wives](https://open.spotify.com/album/4mLU0rGW0GooTEbWEaLNLt) | 3:18 |
 
-Snapshot ID: `avZTAAAAAAA3f2c1bqipbQhgJpiz1K6S`
+Snapshot ID: `avekgAAAAACRUhBK2d1MBNO9pgpZxW6I`

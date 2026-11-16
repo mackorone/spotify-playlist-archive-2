@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 
 > welcome to our universe ft\. yeule
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,092,108 likes - 79 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,092,120 likes - 79 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 | 78 | [Lower myself down](https://open.spotify.com/track/5RPg5YBPP8lpQxSHGunIHM) | [BEEFCAKE](https://open.spotify.com/artist/6IfirsQubd1wvYMUdNQ6hj) | [Lower myself down](https://open.spotify.com/album/5vCc47IK0kiMYq7AT3EIkz) | 3:37 |
 | 79 | [E\-MOTION](https://open.spotify.com/track/47jmrl8NmxEv2bPML9E8IW) | [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [heartcore](https://open.spotify.com/album/7dWWVgDy4S6L06l3skL3EN) | 3:00 |
 
-Snapshot ID: `AAAAAAf+QocB6wpZ3mPaU56aEdeWKbZo`
+Snapshot ID: `AAAAAKs9YqeZhYy0dCen5V9Y5Z0LJWLd`

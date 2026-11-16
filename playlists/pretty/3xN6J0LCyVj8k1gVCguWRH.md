@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 
 > Obama&\#x27;s actual playlist? Nope, just a fan who grouped all his summer song picks into one list\. \(2026, 2024 &amp; 2023 + bonus tracks\) Enjoy!
 
-[SoundsDeli](https://open.spotify.com/user/soundsdeli) - 143,008 likes - 197 songs - 11 hr 56 min
+[SoundsDeli](https://open.spotify.com/user/soundsdeli) - 143,001 likes - 197 songs - 11 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

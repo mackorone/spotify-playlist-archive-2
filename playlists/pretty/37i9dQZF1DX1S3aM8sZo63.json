@@ -1,6 +1,6 @@
 {
   "description": "As\u00ed como lo pediste, ponte cursi con las canciones m\u00e1s rom\u00e1nticas. Plan de Escape en portada \ud83d\udcf8",
-  "num_followers": 1069396,
+  "num_followers": 1069353,
   "original_name": "Banda Rom\u00e1ntica",
   "owner": {
     "name": "Spotify",
@@ -295,6 +295,22 @@
     {
       "added_at": "2026-09-18 06:00:21",
       "album": {
+        "name": "Historia sin fin",
+        "url": "https://open.spotify.com/album/5IB8MY1KDGEy86lDkEmCPD"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "duration_ms": 184706,
+      "name": "Historia sin fin",
+      "url": "https://open.spotify.com/track/7LMuasDvRrwulpdKMyukDl"
+    },
+    {
+      "added_at": "2026-09-18 06:00:21",
+      "album": {
         "name": "El Karma (Deluxe Version)",
         "url": "https://open.spotify.com/album/2ReeGlHU8J7gkxsMGlpNhY"
       },
@@ -327,26 +343,6 @@
     {
       "added_at": "2026-09-18 06:00:21",
       "album": {
-        "name": "Yo Ya No Vuelvo Contigo (En Vivo)",
-        "url": "https://open.spotify.com/album/78OOLWnOyjDZRqxZXlfNk9"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        },
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 240456,
-      "name": "Yo Ya No Vuelvo Contigo - En Vivo",
-      "url": "https://open.spotify.com/track/1s59X35jDULAyOGmBuTAnd"
-    },
-    {
-      "added_at": "2026-09-18 06:00:21",
-      "album": {
         "name": "No Me Pidas Perd\u00f3n",
         "url": "https://open.spotify.com/album/1Iq9u0VsxfFDoLmX5bLTVL"
       },
@@ -363,18 +359,22 @@
     {
       "added_at": "2026-09-18 06:00:21",
       "album": {
-        "name": "Historia sin fin",
-        "url": "https://open.spotify.com/album/5IB8MY1KDGEy86lDkEmCPD"
+        "name": "Yo Ya No Vuelvo Contigo (En Vivo)",
+        "url": "https://open.spotify.com/album/78OOLWnOyjDZRqxZXlfNk9"
       },
       "artists": [
         {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
         }
       ],
-      "duration_ms": 184706,
-      "name": "Historia sin fin",
-      "url": "https://open.spotify.com/track/7LMuasDvRrwulpdKMyukDl"
+      "duration_ms": 240456,
+      "name": "Yo Ya No Vuelvo Contigo - En Vivo",
+      "url": "https://open.spotify.com/track/1s59X35jDULAyOGmBuTAnd"
     },
     {
       "added_at": "2026-09-18 06:00:21",
@@ -443,22 +443,18 @@
     {
       "added_at": "2026-09-18 06:00:21",
       "album": {
-        "name": "Qu\u00e9 Fuimos (En Vivo)",
-        "url": "https://open.spotify.com/album/6Q4VubIV6GiT3HZrjGKg8b"
+        "name": "El Primer Ministro",
+        "url": "https://open.spotify.com/album/1fLCJYEq0kv87PSPdCB0dC"
       },
       "artists": [
         {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Hernan Sepulveda",
-          "url": "https://open.spotify.com/artist/00CEIWvwRzWGVahslNZW0Z"
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
         }
       ],
-      "duration_ms": 230034,
-      "name": "Qu\u00e9 Fuimos - En Vivo",
-      "url": "https://open.spotify.com/track/1VkaO9P9BwH327jnM9VX1K"
+      "duration_ms": 145560,
+      "name": "Ma\u00f1ana Voy A Conquistarla",
+      "url": "https://open.spotify.com/track/5GFb9XV4WnIQZ3H6dr9lbd"
     },
     {
       "added_at": "2026-09-18 06:00:21",
@@ -479,18 +475,22 @@
     {
       "added_at": "2026-09-18 06:00:21",
       "album": {
-        "name": "El Primer Ministro",
-        "url": "https://open.spotify.com/album/1fLCJYEq0kv87PSPdCB0dC"
+        "name": "Qu\u00e9 Fuimos (En Vivo)",
+        "url": "https://open.spotify.com/album/6Q4VubIV6GiT3HZrjGKg8b"
       },
       "artists": [
         {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Hernan Sepulveda",
+          "url": "https://open.spotify.com/artist/00CEIWvwRzWGVahslNZW0Z"
         }
       ],
-      "duration_ms": 145560,
-      "name": "Ma\u00f1ana Voy A Conquistarla",
-      "url": "https://open.spotify.com/track/5GFb9XV4WnIQZ3H6dr9lbd"
+      "duration_ms": 230034,
+      "name": "Qu\u00e9 Fuimos - En Vivo",
+      "url": "https://open.spotify.com/track/1VkaO9P9BwH327jnM9VX1K"
     },
     {
       "added_at": "2026-09-18 06:00:21",
@@ -527,18 +527,18 @@
     {
       "added_at": "2026-09-18 06:00:21",
       "album": {
-        "name": "La Mejor De Todas",
-        "url": "https://open.spotify.com/album/6YeSYcQwO0BYw0bABVuGKW"
+        "name": "Entre Dios y El Diablo (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5Z8W1u3XfVt5Qep5gI5raN"
       },
       "artists": [
         {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
         }
       ],
-      "duration_ms": 207000,
-      "name": "La Mejor De Todas",
-      "url": "https://open.spotify.com/track/1F6BAyY4iIzHiZCnUIZDbn"
+      "duration_ms": 181986,
+      "name": "Amor Confuso",
+      "url": "https://open.spotify.com/track/4DylHCW46VE8AmQiW1EjUZ"
     },
     {
       "added_at": "2026-09-18 06:00:21",
@@ -559,18 +559,18 @@
     {
       "added_at": "2026-09-18 06:00:21",
       "album": {
-        "name": "Entre Dios y El Diablo (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5Z8W1u3XfVt5Qep5gI5raN"
+        "name": "La Mejor De Todas",
+        "url": "https://open.spotify.com/album/6YeSYcQwO0BYw0bABVuGKW"
       },
       "artists": [
         {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
         }
       ],
-      "duration_ms": 181986,
-      "name": "Amor Confuso",
-      "url": "https://open.spotify.com/track/4DylHCW46VE8AmQiW1EjUZ"
+      "duration_ms": 207000,
+      "name": "La Mejor De Todas",
+      "url": "https://open.spotify.com/track/1F6BAyY4iIzHiZCnUIZDbn"
     },
     {
       "added_at": "2026-09-18 06:00:21",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2026-09-18 06:00:21",
       "album": {
-        "name": "Te Quiero",
-        "url": "https://open.spotify.com/album/3RGJOJiJk4hoKPIvtN2gzT"
-      },
-      "artists": [
-        {
-          "name": "El Chalinillo",
-          "url": "https://open.spotify.com/artist/3ncPsQYH14tuyWl6cScIQL"
-        }
-      ],
-      "duration_ms": 167786,
-      "name": "Celoso",
-      "url": "https://open.spotify.com/track/5osv7hD0OevtSiZBJroQCY"
-    },
-    {
-      "added_at": "2026-09-18 06:00:21",
-      "album": {
         "name": "La Que Me Bateaba",
         "url": "https://open.spotify.com/album/64nt5dhPAUPQUqwNBXaRTn"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 124143,
       "name": "La Que Me Bateaba",
       "url": "https://open.spotify.com/track/3MMBQrXTIo8wsJt8PkEcaR"
+    },
+    {
+      "added_at": "2026-09-18 06:00:21",
+      "album": {
+        "name": "Te Quiero",
+        "url": "https://open.spotify.com/album/3RGJOJiJk4hoKPIvtN2gzT"
+      },
+      "artists": [
+        {
+          "name": "El Chalinillo",
+          "url": "https://open.spotify.com/artist/3ncPsQYH14tuyWl6cScIQL"
+        }
+      ],
+      "duration_ms": 167786,
+      "name": "Celoso",
+      "url": "https://open.spotify.com/track/5osv7hD0OevtSiZBJroQCY"
     },
     {
       "added_at": "2026-09-18 06:00:21",
@@ -1815,22 +1815,6 @@
     {
       "added_at": "2026-09-18 06:00:21",
       "album": {
-        "name": "Con La Misma Piedra",
-        "url": "https://open.spotify.com/album/1eF0ZEdzXqUmAJoewGZcmA"
-      },
-      "artists": [
-        {
-          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
-        }
-      ],
-      "duration_ms": 175496,
-      "name": "Con La Misma Piedra",
-      "url": "https://open.spotify.com/track/2PULXQ2unp8iRpt0cQXdZU"
-    },
-    {
-      "added_at": "2026-09-18 06:00:21",
-      "album": {
         "name": "Muero Sin Ti",
         "url": "https://open.spotify.com/album/1cMVq3vzO29T5pgdBm9LAk"
       },
@@ -1843,6 +1827,22 @@
       "duration_ms": 164917,
       "name": "Muero Sin Ti",
       "url": "https://open.spotify.com/track/7xoJTQoNra0grcha2DwiMi"
+    },
+    {
+      "added_at": "2026-09-18 06:00:21",
+      "album": {
+        "name": "Con La Misma Piedra",
+        "url": "https://open.spotify.com/album/1eF0ZEdzXqUmAJoewGZcmA"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "duration_ms": 175496,
+      "name": "Con La Misma Piedra",
+      "url": "https://open.spotify.com/track/2PULXQ2unp8iRpt0cQXdZU"
     },
     {
       "added_at": "2026-09-18 06:00:21",
@@ -1895,22 +1895,6 @@
     {
       "added_at": "2026-09-18 06:00:21",
       "album": {
-        "name": "Y Sigues Siendo T\u00fa",
-        "url": "https://open.spotify.com/album/6BLpmYtWTS9IdxVTsFQZdd"
-      },
-      "artists": [
-        {
-          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
-        }
-      ],
-      "duration_ms": 162911,
-      "name": "Y Sigues Siendo T\u00fa",
-      "url": "https://open.spotify.com/track/2csn0HOElqpk8gc8mhtGeN"
-    },
-    {
-      "added_at": "2026-09-18 06:00:21",
-      "album": {
         "name": "Te Encontr\u00e9",
         "url": "https://open.spotify.com/album/2RzFPA5sJyIiG602E6TGQY"
       },
@@ -1923,6 +1907,22 @@
       "duration_ms": 180708,
       "name": "Te Encontr\u00e9",
       "url": "https://open.spotify.com/track/035sZJHSCISbr1PeYq7aYV"
+    },
+    {
+      "added_at": "2026-09-18 06:00:21",
+      "album": {
+        "name": "Y Sigues Siendo T\u00fa",
+        "url": "https://open.spotify.com/album/6BLpmYtWTS9IdxVTsFQZdd"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "duration_ms": 162911,
+      "name": "Y Sigues Siendo T\u00fa",
+      "url": "https://open.spotify.com/track/2csn0HOElqpk8gc8mhtGeN"
     },
     {
       "added_at": "2026-09-18 06:00:21",

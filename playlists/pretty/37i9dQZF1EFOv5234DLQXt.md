@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOv5234DLQXt.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/625Qzz0OJmeDpIbOZwjf8G">Gustavo Cerati</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,614 likes - 119 songs - 8 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,613 likes - 119 songs - 8 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOv5234DLQXt.md) - [plain]
 | 74 | [Imágenes Retro \- Me Verás Volver Gira 2007](https://open.spotify.com/track/3ANCmPnNk0WBxNgBrBpLsp) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Gira Me Verás Volver](https://open.spotify.com/album/4Sy7VzDS4j1MLIYF85grsZ) | 4:24 |
 | 75 | [En Camino \- Remasterizado 2007](https://open.spotify.com/track/4EO3RjlXJbTUQdDnRGlcGa) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Signos \(Remastered\)](https://open.spotify.com/album/7s2lDvm4FwnWE5RXEoY8Gi) | 4:29 |
 | 76 | [Dietético \- Remasterizado 2007](https://open.spotify.com/track/4bvkroEWwjF8O1tcLAACUj) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Soda Stereo \(Remastered\)](https://open.spotify.com/album/3i4nU0OIi7gMmXDEhG9ZRt) | 3:46 |
-| 77 | [Altar](https://open.spotify.com/track/1BsqEVToNkZzcfLsVjwNgA) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Siempre Es Hoy](https://open.spotify.com/album/46Yq9oqsaZJb9ahoMk9iVd) | 4:01 |
-| 78 | [ZOMBI](https://open.spotify.com/track/2JxNMSXbMvzjOXyzleH5UZ) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [TURR4ZO](https://open.spotify.com/album/5nUfysd9pD76m2nxU0qHmU) | 2:34 |
+| 77 | [ZOMBI](https://open.spotify.com/track/2JxNMSXbMvzjOXyzleH5UZ) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [TURR4ZO](https://open.spotify.com/album/5nUfysd9pD76m2nxU0qHmU) | 2:34 |
+| 78 | [Altar](https://open.spotify.com/track/1BsqEVToNkZzcfLsVjwNgA) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Siempre Es Hoy](https://open.spotify.com/album/46Yq9oqsaZJb9ahoMk9iVd) | 4:01 |
 | 79 | [El Ritmo De Tus Ojos \- Remasterizado 2007](https://open.spotify.com/track/15W8Q7ZA88u4eQf5JMDaj7) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Doble Vida \(Remastered\)](https://open.spotify.com/album/0mEY1U7SZdIwDWylFm2UC4) | 3:57 |
 | 80 | [Planta \- Remasterizado 2007](https://open.spotify.com/track/2Qmv6bDN1yazfH5OrhSlI9) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Sueño Stereo \(Remastered\)](https://open.spotify.com/album/1A3VRbn7Kto2ov0LkSY0eg) | 4:52 |
 | 81 | [Terapia De Amor Intensiva \- Remasterizado 2007](https://open.spotify.com/track/57CH3KwRsQkbJH8VSDdKeI) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Doble Vida \(Remastered\)](https://open.spotify.com/album/0mEY1U7SZdIwDWylFm2UC4) | 5:40 |
@@ -128,4 +128,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOv5234DLQXt.md) - [plain]
 | 118 | [Uno Entre Mil](https://open.spotify.com/track/6acGFk7EsZFCzgziXulVFM) | [Relapso](https://open.spotify.com/artist/2TqxIOZGT5ir3F58WmCl4Z) | [Relapso](https://open.spotify.com/album/4i7xuNkPEWqlcBx31IKjq1) | 3:53 |
 | 119 | [Caravana](https://open.spotify.com/track/7xlM9YL6XDJpMhFdgRxftR) | [Relapso](https://open.spotify.com/artist/2TqxIOZGT5ir3F58WmCl4Z) | [Relapso](https://open.spotify.com/album/4i7xuNkPEWqlcBx31IKjq1) | 4:18 |
 
-Snapshot ID: `AchrygAAAAA3PyqR5VBV2hBL1BUHTZ8W`
+Snapshot ID: `AchxagAAAADb3NBdjWbRE3zCKrw5PjiN`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/78Q3Vn0T0RcTGOD6xVcOdx.md) - [plain]
 
 > www.upmusicpromotion.com &\#x2F; IG: @upmusic\_promotion &\#x2F; promo@upmusicpromotion.com
 
-[UP Music ProMotion](https://open.spotify.com/user/11141650175) - 547 likes - 53 songs - 3 hr 3 min
+[UP Music ProMotion](https://open.spotify.com/user/11141650175) - 548 likes - 55 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,5 +61,7 @@ pretty - [cumulative](/playlists/cumulative/78Q3Vn0T0RcTGOD6xVcOdx.md) - [plain]
 | 51 | [Light Up](https://open.spotify.com/track/22rvo6iIanBsteVmbWoeMB) | [H\. 4Real](https://open.spotify.com/artist/6VaTWoMnz7WhncBc4zgrKm) | [Dend Down Low](https://open.spotify.com/album/6GqaXCRPLLLBTWwZkj2Rzo) | 3:47 |
 | 52 | [Here, punx!](https://open.spotify.com/track/1iQo9Ch0BKmoCmO4af2unQ) | [Giacomo Roppa](https://open.spotify.com/artist/71XHy0XkhUu9BZtDRjjTZ2) | [No flowers for her](https://open.spotify.com/album/62gbuFKHmxgk8jIWB6YVn3) | 2:31 |
 | 53 | [Oro e Argento](https://open.spotify.com/track/4aaZkRpRoEni1QFDOUsAkw) | [Enrico Lotterini](https://open.spotify.com/artist/1Th8kg6pWPBM4FwWxCVWMT) | [Lòrico](https://open.spotify.com/album/3oIOcV8EUyZ9cOerOqAzLD) | 3:51 |
+| 54 | [2K](https://open.spotify.com/track/3rjhhaW7LJDm89QSVYllm9) | [Djcoco](https://open.spotify.com/artist/3S93elFkdnyzRxMVrexWNY) | [2K](https://open.spotify.com/album/6PKujXeSxhINs9eGi1R7cv) | 3:07 |
+| 55 | [By All Means](https://open.spotify.com/track/6ZlwOKl1epw066iFNjilEh) | [Birgitte And The Dusty Trails](https://open.spotify.com/artist/6VfH4YCvgDclCiYLJhk8zc), [Emma Birgitte Ovlien](https://open.spotify.com/artist/10ooU0BJqSyHNTaW49tCfE) | [By All Means](https://open.spotify.com/album/19QJO68vLhLR2Jm0fl58Qj) | 3:21 |
 
-Snapshot ID: `AAAClyhcryeV4oL+v1XLl4P6ko7tg4qD`
+Snapshot ID: `AAACmfghoPj5/tJCNRJeQTCd05DQZNt+`

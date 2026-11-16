@@ -4,7 +4,7 @@
 
 > FurryRadio.com, furry music for furs, by furs.
 
-634 songs - 1 day 9 hr 31 min
+635 songs - 1 day 9 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -423,6 +423,7 @@
 | [Paperback Nation](https://open.spotify.com/track/4wjkkdnvcn4y6xBqafGFRK) | [Floridian Homicide Unit](https://open.spotify.com/artist/7Jgw535Ddgb0P0TriAPdPw) | [I Love It Here, I Have Everything I Need, and All My Friends Love Me](https://open.spotify.com/album/488NhNmfs0EayMuMyw2vFu) | 2:46 | 2024-11-18 |  |
 | [Parasites](https://open.spotify.com/track/4ShFsw2COXPPeHAisX8tGp) | [YamikaDesu](https://open.spotify.com/artist/0MNjBbWyyQQtJtDIRn2930) | [Parasites](https://open.spotify.com/album/0E8ajiSwtVTreu8uWT03GE) | 3:52 | 2025-02-08 |  |
 | [Parasocial](https://open.spotify.com/track/5AJv67iLT79uijDdzfTPUm) | [Kennyoung](https://open.spotify.com/artist/1b6ywCGaEtyV4JUfGYKmk8) | [Parasocial](https://open.spotify.com/album/5zbyAiUZgCKZsuGohtQ7He) | 3:30 | 2025-01-25 |  |
+| [Party Favor](https://open.spotify.com/track/2aHxRQGqUH58sUptShLRWP) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [OodleZz](https://open.spotify.com/artist/2eCpXBK9mnqr6o9TydXu98) | [Party Favor](https://open.spotify.com/album/37LhJVLQUxJDJPxa9IaJdb) | 3:15 | 2026-11-15 |  |
 | [PARTY LIKE THIS](https://open.spotify.com/track/75KAY9fMflyNCxgMgknChO) | [fearozzles](https://open.spotify.com/artist/4XgmepqLvHMHSFgHbTKWns), [Johnny Staxx](https://open.spotify.com/artist/1f2SRb6igf9FXPgPKEKuOt), [silverluv](https://open.spotify.com/artist/6uLoUTi9Gj0xZ4Ozgdwxm6), [bobowakeup](https://open.spotify.com/artist/1SCLtqNhNEFvbuRjVMfIVl), [Bryn](https://open.spotify.com/artist/74r4YBm6qWOBKKF6MhVXVq) | [PARTY LIKE THIS](https://open.spotify.com/album/0feRHXSSAqBn2l0skYrmRM) | 3:14 | 2026-11-11 |  |
 | [PARTY SONG \(REBOUND\)](https://open.spotify.com/track/3z7lzSmS78799IxjBfkJUp) | [BASSDOG](https://open.spotify.com/artist/12nm0BL6ld04PNgVi1UwwU) | [AFTERPARTY \(REBOUND\)](https://open.spotify.com/album/6cCyVjH2D4Ne2bN6qFxiHF) | 1:40 | 2026-02-25 |  |
 | [PEOPLEPLEASER](https://open.spotify.com/track/6cq3aa06llf5ouqPX0w83y) | [NOISE ARTIFACT](https://open.spotify.com/artist/6UojgIi7c86XvCyk5NCKs5) | [PEOPLEPLEASER](https://open.spotify.com/album/22pfJGxBvUvk7yMX1tuo4h) | 2:23 | 2024-02-09 | 2025-08-13 |

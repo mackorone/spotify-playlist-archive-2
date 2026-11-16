@@ -1,6 +1,6 @@
 {
   "description": "Wyzwania, cele, zadania, spotkania, dedlajny\u2026 ale najpierw kawa.",
-  "num_followers": 113058,
+  "num_followers": 113082,
   "original_name": "... ale najpierw kawa",
   "owner": {
     "name": "Spotify",
@@ -487,6 +487,22 @@
     {
       "added_at": "2026-11-13 16:44:05",
       "album": {
+        "name": "Czy b\u0119dziemy si\u0119 pami\u0119ta\u0107?",
+        "url": "https://open.spotify.com/album/1kRRo9t5kgBQTvGnDqBVCR"
+      },
+      "artists": [
+        {
+          "name": "Sarsa",
+          "url": "https://open.spotify.com/artist/0lKCO7SCRiTCS4ZEU6l1zx"
+        }
+      ],
+      "duration_ms": 170402,
+      "name": "Czy b\u0119dziemy si\u0119 pami\u0119ta\u0107?",
+      "url": "https://open.spotify.com/track/4WYmfMKeHod1N8Ex321lER"
+    },
+    {
+      "added_at": "2026-11-13 16:44:05",
+      "album": {
         "name": "Talk To Me, Zara",
         "url": "https://open.spotify.com/album/5geHXgOaOjbB15V5Yx1bqM"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 193350,
       "name": "Talk To Me, Zara",
       "url": "https://open.spotify.com/track/58bQU5JRk0sBMUMdRy7sjk"
-    },
-    {
-      "added_at": "2026-11-13 16:44:05",
-      "album": {
-        "name": "Czy b\u0119dziemy si\u0119 pami\u0119ta\u0107?",
-        "url": "https://open.spotify.com/album/1kRRo9t5kgBQTvGnDqBVCR"
-      },
-      "artists": [
-        {
-          "name": "Sarsa",
-          "url": "https://open.spotify.com/artist/0lKCO7SCRiTCS4ZEU6l1zx"
-        }
-      ],
-      "duration_ms": 170402,
-      "name": "Czy b\u0119dziemy si\u0119 pami\u0119ta\u0107?",
-      "url": "https://open.spotify.com/track/4WYmfMKeHod1N8Ex321lER"
     },
     {
       "added_at": "2026-11-13 16:44:05",
@@ -547,6 +547,22 @@
     {
       "added_at": "2026-11-13 16:44:05",
       "album": {
+        "name": "Music Sounds",
+        "url": "https://open.spotify.com/album/0CzI8SUmd570thVYe4KYJc"
+      },
+      "artists": [
+        {
+          "name": "FAST BOY",
+          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
+        }
+      ],
+      "duration_ms": 159551,
+      "name": "Music Sounds",
+      "url": "https://open.spotify.com/track/3OLpCe3H6oGcEsvEjNDXHm"
+    },
+    {
+      "added_at": "2026-11-13 16:44:05",
+      "album": {
         "name": "AIOLI",
         "url": "https://open.spotify.com/album/2YtxeCsI2O64Zx6z6ChhAW"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 151875,
       "name": "AIOLI",
       "url": "https://open.spotify.com/track/7rPpyQOTrwogcFW1PZ6DYQ"
-    },
-    {
-      "added_at": "2026-11-13 16:44:05",
-      "album": {
-        "name": "Music Sounds",
-        "url": "https://open.spotify.com/album/0CzI8SUmd570thVYe4KYJc"
-      },
-      "artists": [
-        {
-          "name": "FAST BOY",
-          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
-        }
-      ],
-      "duration_ms": 159551,
-      "name": "Music Sounds",
-      "url": "https://open.spotify.com/track/3OLpCe3H6oGcEsvEjNDXHm"
     },
     {
       "added_at": "2026-11-13 16:44:05",
@@ -703,22 +703,6 @@
     {
       "added_at": "2026-11-13 16:44:05",
       "album": {
-        "name": "Happiness Anytime: Part 1",
-        "url": "https://open.spotify.com/album/0be9RJySbvkMaeCqMytpcH"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 211562,
-      "name": "Light the Way",
-      "url": "https://open.spotify.com/track/518z7AJPjm0oCI8vEN6S5j"
-    },
-    {
-      "added_at": "2026-11-13 16:44:05",
-      "album": {
         "name": "B\u0119dzie By\u0142o",
         "url": "https://open.spotify.com/album/6rZAWdLnycMjksTGkCY782"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 148351,
       "name": "B\u0119dzie By\u0142o",
       "url": "https://open.spotify.com/track/1F0SMCHyLQHep0GkCBdLVK"
+    },
+    {
+      "added_at": "2026-11-13 16:44:05",
+      "album": {
+        "name": "Happiness Anytime: Part 1",
+        "url": "https://open.spotify.com/album/0be9RJySbvkMaeCqMytpcH"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 211562,
+      "name": "Light the Way",
+      "url": "https://open.spotify.com/track/518z7AJPjm0oCI8vEN6S5j"
     },
     {
       "added_at": "2026-11-13 16:44:05",
@@ -875,6 +875,26 @@
     {
       "added_at": "2026-11-13 16:44:05",
       "album": {
+        "name": "jakby ok",
+        "url": "https://open.spotify.com/album/2epRg7LZCWlzDT13OzMiAh"
+      },
+      "artists": [
+        {
+          "name": "LALE",
+          "url": "https://open.spotify.com/artist/1BaXV5IqUHk4V3QkLsSN05"
+        },
+        {
+          "name": "Dizzma",
+          "url": "https://open.spotify.com/artist/7EaDsPGE5PcfbaqySXxzU1"
+        }
+      ],
+      "duration_ms": 137932,
+      "name": "jakby ok",
+      "url": "https://open.spotify.com/track/4agwHBJr7jnvS9VHEJRJ0n"
+    },
+    {
+      "added_at": "2026-11-13 16:44:05",
+      "album": {
         "name": "Tu M\u00f3j Dom",
         "url": "https://open.spotify.com/album/6mUl6kLv57WEfwkmnIoFXB"
       },
@@ -927,38 +947,6 @@
     {
       "added_at": "2026-11-13 16:44:05",
       "album": {
-        "name": "Widz\u0119 Ci\u0119",
-        "url": "https://open.spotify.com/album/5WihHGvLeXXicJVfXYqyRL"
-      },
-      "artists": [
-        {
-          "name": "Diiya",
-          "url": "https://open.spotify.com/artist/7cpXJIW3DMvOlUTHyIm4wx"
-        }
-      ],
-      "duration_ms": 143500,
-      "name": "Widz\u0119 Ci\u0119",
-      "url": "https://open.spotify.com/track/7dH6NU8Ok8JcG5TULrLjI6"
-    },
-    {
-      "added_at": "2026-11-13 16:44:05",
-      "album": {
-        "name": "Tamtej dziewczyny ju\u017c nie ma",
-        "url": "https://open.spotify.com/album/6l7Huc1Zk00By4v0QnAUJ1"
-      },
-      "artists": [
-        {
-          "name": "Natalia Grosiak",
-          "url": "https://open.spotify.com/artist/6o1HvE0HE1CZJSBIVyNcKg"
-        }
-      ],
-      "duration_ms": 197984,
-      "name": "Teraz mam serce",
-      "url": "https://open.spotify.com/track/5WTN8q8J0IbkwWmobgEvsR"
-    },
-    {
-      "added_at": "2026-11-13 16:44:05",
-      "album": {
         "name": "Serce",
         "url": "https://open.spotify.com/album/1SAGltZWmoSsN3qyS4RL1r"
       },
@@ -971,6 +959,22 @@
       "duration_ms": 168240,
       "name": "Serce",
       "url": "https://open.spotify.com/track/7CLoNAwsM3ObHdNCo6XNwn"
+    },
+    {
+      "added_at": "2026-11-13 16:44:05",
+      "album": {
+        "name": "Widz\u0119 Ci\u0119",
+        "url": "https://open.spotify.com/album/5WihHGvLeXXicJVfXYqyRL"
+      },
+      "artists": [
+        {
+          "name": "Diiya",
+          "url": "https://open.spotify.com/artist/7cpXJIW3DMvOlUTHyIm4wx"
+        }
+      ],
+      "duration_ms": 143500,
+      "name": "Widz\u0119 Ci\u0119",
+      "url": "https://open.spotify.com/track/7dH6NU8Ok8JcG5TULrLjI6"
     },
     {
       "added_at": "2026-11-13 16:44:05",
@@ -991,38 +995,18 @@
     {
       "added_at": "2026-11-13 16:44:05",
       "album": {
-        "name": "jakby ok",
-        "url": "https://open.spotify.com/album/2epRg7LZCWlzDT13OzMiAh"
+        "name": "Tamtej dziewczyny ju\u017c nie ma",
+        "url": "https://open.spotify.com/album/6l7Huc1Zk00By4v0QnAUJ1"
       },
       "artists": [
         {
-          "name": "LALE",
-          "url": "https://open.spotify.com/artist/1BaXV5IqUHk4V3QkLsSN05"
-        },
-        {
-          "name": "Dizzma",
-          "url": "https://open.spotify.com/artist/7EaDsPGE5PcfbaqySXxzU1"
+          "name": "Natalia Grosiak",
+          "url": "https://open.spotify.com/artist/6o1HvE0HE1CZJSBIVyNcKg"
         }
       ],
-      "duration_ms": 137932,
-      "name": "jakby ok",
-      "url": "https://open.spotify.com/track/4agwHBJr7jnvS9VHEJRJ0n"
-    },
-    {
-      "added_at": "2026-11-13 16:44:05",
-      "album": {
-        "name": "VOICE",
-        "url": "https://open.spotify.com/album/1jla2nToQeZX2xHYxS8cfo"
-      },
-      "artists": [
-        {
-          "name": "Margaret",
-          "url": "https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ"
-        }
-      ],
-      "duration_ms": 148640,
-      "name": "Mog\u0142e\u015b tu by\u0107",
-      "url": "https://open.spotify.com/track/040ISsaRJlzaQWpqBo81Dx"
+      "duration_ms": 197984,
+      "name": "Teraz mam serce",
+      "url": "https://open.spotify.com/track/5WTN8q8J0IbkwWmobgEvsR"
     },
     {
       "added_at": "2026-11-13 16:44:05",
@@ -1039,6 +1023,22 @@
       "duration_ms": 158783,
       "name": "A Jak",
       "url": "https://open.spotify.com/track/1IJIUgWX5Z4WTXz7S7CMB6"
+    },
+    {
+      "added_at": "2026-11-13 16:44:05",
+      "album": {
+        "name": "VOICE",
+        "url": "https://open.spotify.com/album/1jla2nToQeZX2xHYxS8cfo"
+      },
+      "artists": [
+        {
+          "name": "Margaret",
+          "url": "https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ"
+        }
+      ],
+      "duration_ms": 148640,
+      "name": "Mog\u0142e\u015b tu by\u0107",
+      "url": "https://open.spotify.com/track/040ISsaRJlzaQWpqBo81Dx"
     },
     {
       "added_at": "2026-11-13 16:44:05",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbND4ZYa46PaA.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belgium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,981 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,982 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbND4ZYa46PaA.md) - [plain]
 | 49 | [J'assume](https://open.spotify.com/track/5qRO8OcqfOc7mgTEDN12XQ) | [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc) | [J'assume](https://open.spotify.com/album/7q01MmYmGGFHADR5RYC54G) | 2:58 |
 | 50 | [melodrama](https://open.spotify.com/track/55vPnuXfuzXNW75JpuSczF) | [disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g), [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2) | [on s'en rappellera pas](https://open.spotify.com/album/2TLKicTW4h5Xpky6AinYq5) | 2:56 |
 
-Snapshot ID: `MovqwAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Mo0+mAAAAAAAAAAAAAAAAAAAAAAAAGVu`

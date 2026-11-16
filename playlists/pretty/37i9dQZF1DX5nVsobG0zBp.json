@@ -1,6 +1,6 @@
 {
   "description": "Os maiores hits do rap portugu\u00eas dos \u00faltimos anos. Foto: Richie Campbell",
-  "num_followers": 88957,
+  "num_followers": 88977,
   "original_name": "Rap Tuga Hits",
   "owner": {
     "name": "Spotify",
@@ -511,22 +511,18 @@
     {
       "added_at": "2026-09-25 12:58:09",
       "album": {
-        "name": "LONDON LP",
-        "url": "https://open.spotify.com/album/7GbrLzZ9xJ9mhwk6MO1mWf"
+        "name": "Mais Antigo",
+        "url": "https://open.spotify.com/album/6jv4CzMCPVJqt0DTlAiJw3"
       },
       "artists": [
         {
-          "name": "LON3R JOHNY",
-          "url": "https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd"
-        },
-        {
-          "name": "ProfJam",
-          "url": "https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP"
+          "name": "Bispo",
+          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
         }
       ],
-      "duration_ms": 156600,
-      "name": "0044",
-      "url": "https://open.spotify.com/track/7cfIbKCASPe9FDhYjaQnDd"
+      "duration_ms": 206466,
+      "name": "Lembrei-me",
+      "url": "https://open.spotify.com/track/5hF6VYE61LV6Jr6dy86CvI"
     },
     {
       "added_at": "2026-09-25 12:58:09",
@@ -547,18 +543,22 @@
     {
       "added_at": "2026-09-25 12:58:09",
       "album": {
-        "name": "Mais Antigo",
-        "url": "https://open.spotify.com/album/6jv4CzMCPVJqt0DTlAiJw3"
+        "name": "LONDON LP",
+        "url": "https://open.spotify.com/album/7GbrLzZ9xJ9mhwk6MO1mWf"
       },
       "artists": [
         {
-          "name": "Bispo",
-          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
+          "name": "LON3R JOHNY",
+          "url": "https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd"
+        },
+        {
+          "name": "ProfJam",
+          "url": "https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP"
         }
       ],
-      "duration_ms": 206466,
-      "name": "Lembrei-me",
-      "url": "https://open.spotify.com/track/5hF6VYE61LV6Jr6dy86CvI"
+      "duration_ms": 156600,
+      "name": "0044",
+      "url": "https://open.spotify.com/track/7cfIbKCASPe9FDhYjaQnDd"
     },
     {
       "added_at": "2026-09-25 12:58:09",

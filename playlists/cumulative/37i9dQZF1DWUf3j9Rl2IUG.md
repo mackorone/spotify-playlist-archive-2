@@ -4,7 +4,7 @@
 
 > Afrobeats' hottest singles\. Cover: Patoranking
 
-715 songs - 1 day 9 hr 44 min
+716 songs - 1 day 9 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -561,7 +561,8 @@
 | [PRAY](https://open.spotify.com/track/69bvwTwKZBlynqbMyZmEO2) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [PRAY](https://open.spotify.com/album/38stSF1VmGFy1VaatiMmp5) | 2:57 | 2023-05-11 | 2024-02-13 |
 | [Pressure](https://open.spotify.com/track/47FuxUowVBxua1XxsbLKKX) | [Peruzzi](https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Pressure](https://open.spotify.com/album/54mr7b1004Jqg9PD185VI1) | 3:06 | 2023-03-15 | 2023-05-25 |
 | [Pressure](https://open.spotify.com/track/05lhFsOWPXRjfGA7xY7XJz) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Pressure](https://open.spotify.com/album/0O7179ieea0SQIwxyFaL68) | 2:39 | 2025-05-23 | 2026-08-10 |
-| [Pretty Nun](https://open.spotify.com/track/6TX6IMV1PAlpSlrmVFurNA) | [Chella](https://open.spotify.com/artist/3Idn4rRQLKL7cDHbaWx3GI) | [Pretty Nun](https://open.spotify.com/album/1veGoY6KzA20jq35UD5kdB) | 3:31 | 2026-10-23 |  |
+| [Pretty Girls](https://open.spotify.com/track/59DqgKpSKsyCc2VE8h1SvD) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Pretty Girls](https://open.spotify.com/album/6qzU45BjfmPKlGK0KH5nxW) | 2:16 | 2026-11-13 |  |
+| [Pretty Nun](https://open.spotify.com/track/6TX6IMV1PAlpSlrmVFurNA) | [Chella](https://open.spotify.com/artist/3Idn4rRQLKL7cDHbaWx3GI) | [Pretty Nun](https://open.spotify.com/album/1veGoY6KzA20jq35UD5kdB) | 3:31 | 2026-10-23 | 2026-11-16 |
 | [Problems](https://open.spotify.com/track/5ILZEMgDCit02Og8RQfB6h) | [Curtis J](https://open.spotify.com/artist/1myX1TbX6OkGrelfyeRwxd), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Problems](https://open.spotify.com/album/0irnt3dtaoyMB5T7uqZQws) | 3:28 | 2023-06-02 | 2023-06-17 |
 | [Psalm 23](https://open.spotify.com/track/2EkJ4Qr99JOGQYCKbpyxdh) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [Psalm 23](https://open.spotify.com/album/48bDFlqazdDSVr7k4pbT1w) | 2:31 | 2024-03-29 | 2024-04-19 |
 | [Puff & Pass](https://open.spotify.com/track/6WUdooO1NS5LZadjGNwY5U) | [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd) | [Puff & Pass](https://open.spotify.com/album/2ktmJpxJYszyMXloEkbh8F) | 2:41 | 2023-09-26 | 2024-05-17 |

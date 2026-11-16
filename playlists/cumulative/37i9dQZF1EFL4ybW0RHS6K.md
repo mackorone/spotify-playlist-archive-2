@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/27oxH68ZhwZ4Td6jZztQqs">Caza</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-138 songs - 6 hr 20 min
+139 songs - 6 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,8 @@
 | [TUTU](https://open.spotify.com/track/2oUnwTaoc2fcyunjJqpGYF) | [QUIQUE](https://open.spotify.com/artist/44IF5iKnm06JFziiLsHpyJ), [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9) | [TUTU](https://open.spotify.com/album/0UUKnRb8XZFEgB9gEpUXvM) | 2:18 | 2025-12-17 |  |
 | [Twerk](https://open.spotify.com/track/0adPF4B9G5KhKY2m4zc5m7) | [Fabiola](https://open.spotify.com/artist/6CA2eS7cImKROD1MxahLgU) | [Stripper Body](https://open.spotify.com/album/7r1U399vMcdRfuJeikDLcB) | 1:57 | 2024-01-29 |  |
 | [Undress](https://open.spotify.com/track/10UALmShvACDGdJyeYIVKf) | [Dyna](https://open.spotify.com/artist/0icP5fTpaY52Ll9QHNRrFT), [Kempi](https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7), [Tur\-G](https://open.spotify.com/artist/3ront3zvcdInux0rUVQLF2), [Chase](https://open.spotify.com/artist/1hFYYkuhPdOjsSG8rs2u4u) | [Undress](https://open.spotify.com/album/5b4uCmM1uSQiZpgn99PN63) | 2:54 | 2024-01-29 | 2025-09-05 |
-| [Verrader](https://open.spotify.com/track/0J4HWGdlBxifr5oWxSZ1k5) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [Verrader](https://open.spotify.com/album/7thLppjhBwwZYlhuPKiJnP) | 2:42 | 2026-08-13 |  |
+| [Verrader](https://open.spotify.com/track/0J4HWGdlBxifr5oWxSZ1k5) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [Verrader](https://open.spotify.com/album/7thLppjhBwwZYlhuPKiJnP) | 2:42 | 2026-08-13 | 2026-11-16 |
+| [Verrader](https://open.spotify.com/track/0UD3FzI7rO47rA2Heacieo) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [Niemands Meisje](https://open.spotify.com/album/2MVb3OLPmLzhGXnfIjunua) | 2:42 | 2026-11-15 |  |
 | [Verrader](https://open.spotify.com/track/41ftob2dyXVwsrC3Q5oNIq) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [Verrader](https://open.spotify.com/album/3LxnX0bz2R5b5CWsUE3PN6) | 2:42 | 2024-02-27 | 2026-08-14 |
 | [Volmaakt](https://open.spotify.com/track/6sHGyWWfe4nSUKAvlwIya6) | [Jayh](https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF) | [Lach](https://open.spotify.com/album/5fFbetGfiyklQC2dUyHwRA) | 3:23 | 2024-01-29 |  |
 | [Wani Go](https://open.spotify.com/track/0InPwFLuX6alqv6FCLxsD0) | [Tranga Rugie](https://open.spotify.com/artist/1LgZQptrB9J0K7g6YcjyC8) | [Wani Go](https://open.spotify.com/album/6lqNC8mB9rI868iAOyuqw9) | 3:19 | 2024-01-29 |  |

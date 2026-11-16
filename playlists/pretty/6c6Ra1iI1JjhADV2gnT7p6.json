@@ -1,28 +1,28 @@
 {
   "description": "A weekly rotation of new indie,  alternative, dreampop, electronic, postpunk and lofi music \ud83d\udc9c",
-  "num_followers": 60705,
+  "num_followers": 60707,
   "original_name": "Compact Cassette",
   "owner": {
     "name": "David Dean Burkhart",
     "url": "https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j"
   },
-  "snapshot_id": "AABpc3jMVtqdAuGbyON1M+caU7rFlFXx",
+  "snapshot_id": "AABpfu7OQYi2m74L/F1KpwxaONVslmZx",
   "tracks": [
     {
       "added_at": "2026-11-14 14:02:35",
       "album": {
-        "name": "Calling You",
-        "url": "https://open.spotify.com/album/7okHEW7ELKBpQa3gmFwJHS"
+        "name": "thought you'd call",
+        "url": "https://open.spotify.com/album/4kdP1Cfc8Zbiy69YVzAYm8"
       },
       "artists": [
         {
-          "name": "Mireal",
-          "url": "https://open.spotify.com/artist/4FTaVzUP9VMDpuMJANH5Wu"
+          "name": "Joe Leytrick",
+          "url": "https://open.spotify.com/artist/5LFHwd1hbAGrwn9lMbZBSw"
         }
       ],
-      "duration_ms": 264567,
-      "name": "Calling You",
-      "url": "https://open.spotify.com/track/3eSODU70fQ9sTuw4PlvXzC"
+      "duration_ms": 172016,
+      "name": "thought you'd call",
+      "url": "https://open.spotify.com/track/6DIXeejRDxcO7bakWXLxuq"
     },
     {
       "added_at": "2026-11-14 14:02:35",
@@ -55,6 +55,22 @@
       "duration_ms": 199400,
       "name": "Ears as an Organ of Touch",
       "url": "https://open.spotify.com/track/7sRuWHzuVQYy8HYuGWJU3F"
+    },
+    {
+      "added_at": "2026-11-14 14:02:35",
+      "album": {
+        "name": "Calling You",
+        "url": "https://open.spotify.com/album/7okHEW7ELKBpQa3gmFwJHS"
+      },
+      "artists": [
+        {
+          "name": "Mireal",
+          "url": "https://open.spotify.com/artist/4FTaVzUP9VMDpuMJANH5Wu"
+        }
+      ],
+      "duration_ms": 264567,
+      "name": "Calling You",
+      "url": "https://open.spotify.com/track/3eSODU70fQ9sTuw4PlvXzC"
     },
     {
       "added_at": "2026-11-14 14:02:35",
@@ -1115,22 +1131,6 @@
     {
       "added_at": "2026-11-14 14:02:35",
       "album": {
-        "name": "brain like a silent hill",
-        "url": "https://open.spotify.com/album/6la9lAOwiilobqc1NIOowQ"
-      },
-      "artists": [
-        {
-          "name": "silt.",
-          "url": "https://open.spotify.com/artist/6u4cCTsK4Si23HKuXfhaqN"
-        }
-      ],
-      "duration_ms": 259813,
-      "name": "brain like a silent hill",
-      "url": "https://open.spotify.com/track/7zZv2zxJ1G2HdbOPmjGkaX"
-    },
-    {
-      "added_at": "2026-11-14 14:02:35",
-      "album": {
         "name": "Big Fish",
         "url": "https://open.spotify.com/album/3s36fr2MuyagKt8nqSvfrb"
       },
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2026-11-14 14:02:35",
       "album": {
-        "name": "Into The Sky",
-        "url": "https://open.spotify.com/album/3j1aeN9AH2K5AgESFkY8lI"
-      },
-      "artists": [
-        {
-          "name": "LA Priest",
-          "url": "https://open.spotify.com/artist/2JYMUWD8r1jFFjD1V3WcCX"
-        }
-      ],
-      "duration_ms": 240240,
-      "name": "Ever No",
-      "url": "https://open.spotify.com/track/7JO2t9JPvZTPjajVW9cTqF"
-    },
-    {
-      "added_at": "2026-11-14 14:02:35",
-      "album": {
         "name": "Mask Lady and Late Night Girl",
         "url": "https://open.spotify.com/album/6JZGUjizoZ1yNA2wOEDNoh"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 164306,
       "name": "99 Dimensional",
       "url": "https://open.spotify.com/track/5bp4ZuFw6uCbTm3YIaJxYA"
+    },
+    {
+      "added_at": "2026-11-14 14:02:35",
+      "album": {
+        "name": "Into The Sky",
+        "url": "https://open.spotify.com/album/3j1aeN9AH2K5AgESFkY8lI"
+      },
+      "artists": [
+        {
+          "name": "LA Priest",
+          "url": "https://open.spotify.com/artist/2JYMUWD8r1jFFjD1V3WcCX"
+        }
+      ],
+      "duration_ms": 240240,
+      "name": "Ever No",
+      "url": "https://open.spotify.com/track/7JO2t9JPvZTPjajVW9cTqF"
     },
     {
       "added_at": "2026-11-14 14:02:35",
@@ -2739,22 +2739,6 @@
       "duration_ms": 216329,
       "name": "Blood Tomorrow",
       "url": "https://open.spotify.com/track/5cfD4por2O1Tosh5qr0tVZ"
-    },
-    {
-      "added_at": "2026-11-14 14:02:35",
-      "album": {
-        "name": "thought you'd call",
-        "url": "https://open.spotify.com/album/4kdP1Cfc8Zbiy69YVzAYm8"
-      },
-      "artists": [
-        {
-          "name": "Joe Leytrick",
-          "url": "https://open.spotify.com/artist/5LFHwd1hbAGrwn9lMbZBSw"
-        }
-      ],
-      "duration_ms": 172016,
-      "name": "thought you'd call",
-      "url": "https://open.spotify.com/track/6DIXeejRDxcO7bakWXLxuq"
     },
     {
       "added_at": "2026-11-14 14:02:35",
@@ -13423,38 +13407,6 @@
       "duration_ms": 198579,
       "name": "Some1 New",
       "url": "https://open.spotify.com/track/20wcxStHowdrOGCYwo3HeI"
-    },
-    {
-      "added_at": "2026-10-25 06:33:10",
-      "album": {
-        "name": "Witches Tale",
-        "url": "https://open.spotify.com/album/6TGCju3asUHFlAkecJisox"
-      },
-      "artists": [
-        {
-          "name": "Jah PHNX",
-          "url": "https://open.spotify.com/artist/4FAtkJD7fCoiw7nECuemAG"
-        }
-      ],
-      "duration_ms": 198060,
-      "name": "Witches Tale",
-      "url": "https://open.spotify.com/track/0rVvjXuXYcZwEwoVU86qHe"
-    },
-    {
-      "added_at": "2026-10-25 06:33:10",
-      "album": {
-        "name": "It's Okay To Scream",
-        "url": "https://open.spotify.com/album/3AJR3lTpe9j2K1dD6IcCcQ"
-      },
-      "artists": [
-        {
-          "name": "Jah PHNX",
-          "url": "https://open.spotify.com/artist/4FAtkJD7fCoiw7nECuemAG"
-        }
-      ],
-      "duration_ms": 188637,
-      "name": "Pretty Face From Hell",
-      "url": "https://open.spotify.com/track/5LFZHYdcnzkCCRVXdR4VkP"
     },
     {
       "added_at": "2026-10-25 06:33:10",
@@ -24423,22 +24375,6 @@
     {
       "added_at": "2026-10-02 13:25:42",
       "album": {
-        "name": "SUE IS AFRAID",
-        "url": "https://open.spotify.com/album/1KislcbLS0ZVHxpNRccWI0"
-      },
-      "artists": [
-        {
-          "name": "sue jackson",
-          "url": "https://open.spotify.com/artist/0hLkR1uDWhvlFJnExQDbMi"
-        }
-      ],
-      "duration_ms": 191750,
-      "name": "SUE IS AFRAID - SINGLE EDIT",
-      "url": "https://open.spotify.com/track/4L5gRcJvsVlBaM3l8OGXz3"
-    },
-    {
-      "added_at": "2026-10-02 13:25:42",
-      "album": {
         "name": "Dream 3",
         "url": "https://open.spotify.com/album/4tBH5dAADB8AxIXdRQEOeH"
       },
@@ -27595,22 +27531,6 @@
     {
       "added_at": "2026-09-15 07:13:50",
       "album": {
-        "name": "Burning Heart",
-        "url": "https://open.spotify.com/album/1j5bzYCZmFYaJgaEJf5MHb"
-      },
-      "artists": [
-        {
-          "name": "Jah PHNX",
-          "url": "https://open.spotify.com/artist/4FAtkJD7fCoiw7nECuemAG"
-        }
-      ],
-      "duration_ms": 163000,
-      "name": "Burning Heart",
-      "url": "https://open.spotify.com/track/6tQkjNwSYU1KTvAypmq6O2"
-    },
-    {
-      "added_at": "2026-09-15 07:13:50",
-      "album": {
         "name": "sidekick",
         "url": "https://open.spotify.com/album/3xHk3fWRWnZ70VDxpOdMh3"
       },
@@ -29839,22 +29759,6 @@
     {
       "added_at": "2026-09-07 09:01:33",
       "album": {
-        "name": "The Righteous Sword",
-        "url": "https://open.spotify.com/album/32TePhIuyOG7Qs8u7aiYcy"
-      },
-      "artists": [
-        {
-          "name": "Siichaq",
-          "url": "https://open.spotify.com/artist/4VQdUfkcbsEeCijjsO2U8G"
-        }
-      ],
-      "duration_ms": 171773,
-      "name": "Cattle Driver",
-      "url": "https://open.spotify.com/track/0lBqghaQSpy7qV8QJfE1Gh"
-    },
-    {
-      "added_at": "2026-09-07 09:01:33",
-      "album": {
         "name": "Bute",
         "url": "https://open.spotify.com/album/0SrOYqYY8kQK07RV1Wr5DU"
       },
@@ -31251,26 +31155,6 @@
       "duration_ms": 158608,
       "name": "Cool 93",
       "url": "https://open.spotify.com/track/4wIDJTZls7ARJpZ3DjnoR3"
-    },
-    {
-      "added_at": "2026-09-01 04:50:34",
-      "album": {
-        "name": "On Ice",
-        "url": "https://open.spotify.com/album/18l3u03YGKUDLPLIC2Z9Mn"
-      },
-      "artists": [
-        {
-          "name": "Maxband",
-          "url": "https://open.spotify.com/artist/0p6j5TgQxg0Cwc1TPI3fhR"
-        },
-        {
-          "name": "A Beacon School",
-          "url": "https://open.spotify.com/artist/5Kbx8AkkM7259YdQh4rTdX"
-        }
-      ],
-      "duration_ms": 280866,
-      "name": "Nothing's Changed",
-      "url": "https://open.spotify.com/track/5nZyixq9A5NIHFbxehVPdY"
     },
     {
       "added_at": "2026-09-01 04:50:34",

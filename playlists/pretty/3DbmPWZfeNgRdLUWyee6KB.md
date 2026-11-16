@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new indie music, indie folk &amp; rock discoveries\. Fresh songs for your daily chill, focus and road trips\. Featuring Noah Kahan, Phoebe Bridgers, Sam Fender and top emerging indie artists\. Updated daily with new releases — hit save to stay tuned!
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,337 likes - 106 songs - 6 hr 14 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,337 likes - 110 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,5 +114,9 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 104 | [TENERTE](https://open.spotify.com/track/2mq5VG6H0A4Nrq0Nf0GDw7) | [Angel Dz](https://open.spotify.com/artist/1agldgGiabw5qDe00nkdTh) | [TENERTE](https://open.spotify.com/album/2upvwVL1UhgceQjwR79fpC) | 2:15 |
 | 105 | [Raat Ek Baje](https://open.spotify.com/track/1nao54F7nOzPhmhVXvVRxx) | [Samaksh](https://open.spotify.com/artist/1JvSsV27Zvlivwd0j6AtGn) | [Raat Ek Baje](https://open.spotify.com/album/6CKW0QNls4HN8xkgMmWqeH) | 3:16 |
 | 106 | [Final Warning](https://open.spotify.com/track/0cRRjEtOM3NNe8Ckh63ne9) | [CTRL FREQS](https://open.spotify.com/artist/3BV3kbIBpKGLztbqNxuWSv) | [The Switch Up](https://open.spotify.com/album/49fyyvE62sc3lkPumVcmPg) | 3:32 |
+| 107 | [com érem junts](https://open.spotify.com/track/1dm1rs168vvw1VTNJCFjhc) | [Carla Poch](https://open.spotify.com/artist/6XMDzvA4GeR4TxI9EJUEe9) | [com érem junts](https://open.spotify.com/album/7m0zJANEmDRCeO1wXmUzSj) | 3:21 |
+| 108 | [Ça nous ressemblait pas](https://open.spotify.com/track/2n7bL6Ccdq1OkOOAqwT8Ki) | [M3TIN](https://open.spotify.com/artist/5EsbNZGa7akRt7aPw3IFDw) | [Ça nous ressemblait pas](https://open.spotify.com/album/5I8ilEuS8n80UMdnamOfQg) | 4:00 |
+| 109 | [Petali](https://open.spotify.com/track/7edv8TCszqSqjkOxJEd2AC) | [Piede Sinistro](https://open.spotify.com/artist/4Hhfi2Z1ix6ZilrrwBDwZC) | [Petali](https://open.spotify.com/album/4piBiaskMrcGbkiWvpp0jL) | 6:40 |
+| 110 | [You Know](https://open.spotify.com/track/2ewL6nDW9xHY6FcngNL3NC) | [The Multides](https://open.spotify.com/artist/0EBOhu8N5TYGpwRIWe1oQG) | [You Know](https://open.spotify.com/album/53LzGxN4ZxyrfQtOkB8xDa) | 2:43 |
 
-Snapshot ID: `AAAZsjOMqzKF3u2ErfoL7XkjI4onb93H`
+Snapshot ID: `AAAZtkvfi5n2uGfBJ9YBwHR5Eu90BAR3`

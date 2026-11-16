@@ -1,6 +1,6 @@
 {
   "description": "Stay relaxed with these easy, laid-back songs.",
-  "num_followers": 2113892,
+  "num_followers": 2113824,
   "original_name": "Totally Stress Free",
   "owner": {
     "name": "Spotify",
@@ -191,22 +191,6 @@
     {
       "added_at": "2026-09-18 04:00:59",
       "album": {
-        "name": "Atlanta Millionaires Club",
-        "url": "https://open.spotify.com/album/7jXmmQ1gNTXHyTF7uvH4Tn"
-      },
-      "artists": [
-        {
-          "name": "Faye Webster",
-          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
-        }
-      ],
-      "duration_ms": 153320,
-      "name": "Right Side of My Neck",
-      "url": "https://open.spotify.com/track/3cxZT78mZDyLsLPJKcTu3U"
-    },
-    {
-      "added_at": "2026-09-18 04:00:59",
-      "album": {
         "name": "Dragon New Warm Mountain I Believe In You",
         "url": "https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 252733,
       "name": "Simulation Swarm",
       "url": "https://open.spotify.com/track/2FwDApgXk91kXvqy2oB7dz"
+    },
+    {
+      "added_at": "2026-09-18 04:00:59",
+      "album": {
+        "name": "Atlanta Millionaires Club",
+        "url": "https://open.spotify.com/album/7jXmmQ1gNTXHyTF7uvH4Tn"
+      },
+      "artists": [
+        {
+          "name": "Faye Webster",
+          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
+        }
+      ],
+      "duration_ms": 153320,
+      "name": "Right Side of My Neck",
+      "url": "https://open.spotify.com/track/3cxZT78mZDyLsLPJKcTu3U"
     },
     {
       "added_at": "2026-09-18 04:00:59",
@@ -719,22 +719,6 @@
     {
       "added_at": "2026-09-18 04:00:59",
       "album": {
-        "name": "Dying Star",
-        "url": "https://open.spotify.com/album/0HglC8wDUKL0VV5KI31bqU"
-      },
-      "artists": [
-        {
-          "name": "Ruston Kelly",
-          "url": "https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I"
-        }
-      ],
-      "duration_ms": 277293,
-      "name": "Mockingbird",
-      "url": "https://open.spotify.com/track/6fS1CEMY4LlvQNWuUMoWEQ"
-    },
-    {
-      "added_at": "2026-09-18 04:00:59",
-      "album": {
         "name": "River Fools & Mountain Saints",
         "url": "https://open.spotify.com/album/6OsF7JfA48kcvWcV4auWIl"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 193080,
       "name": "Tom Barrett",
       "url": "https://open.spotify.com/track/6YbQXUNroKs9qofA8gttor"
+    },
+    {
+      "added_at": "2026-09-18 04:00:59",
+      "album": {
+        "name": "Dying Star",
+        "url": "https://open.spotify.com/album/0HglC8wDUKL0VV5KI31bqU"
+      },
+      "artists": [
+        {
+          "name": "Ruston Kelly",
+          "url": "https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I"
+        }
+      ],
+      "duration_ms": 277293,
+      "name": "Mockingbird",
+      "url": "https://open.spotify.com/track/6fS1CEMY4LlvQNWuUMoWEQ"
     },
     {
       "added_at": "2026-09-18 04:00:59",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2026-09-18 04:00:59",
       "album": {
-        "name": "Joyride",
-        "url": "https://open.spotify.com/album/2kbQUnNWsS3C931Sx7FYzb"
-      },
-      "artists": [
-        {
-          "name": "Adam Melchor",
-          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
-        }
-      ],
-      "duration_ms": 212945,
-      "name": "Joyride",
-      "url": "https://open.spotify.com/track/0VcVy0kpfwyd5rMS5URyVD"
-    },
-    {
-      "added_at": "2026-09-18 04:00:59",
-      "album": {
         "name": "Half Woman, Half Cosmic Horror (Disco Disco)",
         "url": "https://open.spotify.com/album/1duTdDEW9NYQpRnh5rSxXf"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 210285,
       "name": "Half Woman, Half Cosmic Horror (Disco Disco)",
       "url": "https://open.spotify.com/track/3sBGDdhsXpQ4jTTy13cqCs"
+    },
+    {
+      "added_at": "2026-09-18 04:00:59",
+      "album": {
+        "name": "Joyride",
+        "url": "https://open.spotify.com/album/2kbQUnNWsS3C931Sx7FYzb"
+      },
+      "artists": [
+        {
+          "name": "Adam Melchor",
+          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
+        }
+      ],
+      "duration_ms": 212945,
+      "name": "Joyride",
+      "url": "https://open.spotify.com/track/0VcVy0kpfwyd5rMS5URyVD"
     },
     {
       "added_at": "2026-09-18 04:00:59",
@@ -1239,6 +1239,38 @@
     {
       "added_at": "2026-09-18 04:00:59",
       "album": {
+        "name": "And In The Darkness, Hearts Aglow",
+        "url": "https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A"
+      },
+      "artists": [
+        {
+          "name": "Weyes Blood",
+          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+        }
+      ],
+      "duration_ms": 363520,
+      "name": "Children of the Empire",
+      "url": "https://open.spotify.com/track/75vW355BVk8wNjOqfrjfjo"
+    },
+    {
+      "added_at": "2026-09-18 04:00:59",
+      "album": {
+        "name": "German Cars",
+        "url": "https://open.spotify.com/album/319NY8ddHWxtHWaYzbPdjT"
+      },
+      "artists": [
+        {
+          "name": "Matt Nathanson",
+          "url": "https://open.spotify.com/artist/4NGiEU3Pkd8ASRyQR30jcA"
+        }
+      ],
+      "duration_ms": 201453,
+      "name": "German Cars",
+      "url": "https://open.spotify.com/track/4yPEdX4KdqujBwQWlzhBMu"
+    },
+    {
+      "added_at": "2026-09-18 04:00:59",
+      "album": {
         "name": "Brighter Day",
         "url": "https://open.spotify.com/album/3WHIuZn32kLNVwQ1wIckKT"
       },
@@ -1267,38 +1299,6 @@
       "duration_ms": 232754,
       "name": "OptiMYSTIC",
       "url": "https://open.spotify.com/track/3I5FzqalyD3b3mfcbqrXQz"
-    },
-    {
-      "added_at": "2026-09-18 04:00:59",
-      "album": {
-        "name": "German Cars",
-        "url": "https://open.spotify.com/album/319NY8ddHWxtHWaYzbPdjT"
-      },
-      "artists": [
-        {
-          "name": "Matt Nathanson",
-          "url": "https://open.spotify.com/artist/4NGiEU3Pkd8ASRyQR30jcA"
-        }
-      ],
-      "duration_ms": 201453,
-      "name": "German Cars",
-      "url": "https://open.spotify.com/track/4yPEdX4KdqujBwQWlzhBMu"
-    },
-    {
-      "added_at": "2026-09-18 04:00:59",
-      "album": {
-        "name": "And In The Darkness, Hearts Aglow",
-        "url": "https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A"
-      },
-      "artists": [
-        {
-          "name": "Weyes Blood",
-          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
-        }
-      ],
-      "duration_ms": 363520,
-      "name": "Children of the Empire",
-      "url": "https://open.spotify.com/track/75vW355BVk8wNjOqfrjfjo"
     },
     {
       "added_at": "2026-09-18 04:00:59",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2026-09-18 04:00:59",
       "album": {
-        "name": "Missing Home",
-        "url": "https://open.spotify.com/album/7mb7CpPeL9DJCQGAEIbkHS"
-      },
-      "artists": [
-        {
-          "name": "flora cash",
-          "url": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
-        }
-      ],
-      "duration_ms": 219333,
-      "name": "Missing Home",
-      "url": "https://open.spotify.com/track/29j2Y1N3vpyvm385G4TFSS"
-    },
-    {
-      "added_at": "2026-09-18 04:00:59",
-      "album": {
         "name": "If It Ain't You",
         "url": "https://open.spotify.com/album/4hGeEwj44b63cQHRmRfDPx"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 210133,
       "name": "If It Ain't You",
       "url": "https://open.spotify.com/track/3yx9pgiep8UZ9RADXUIBsp"
+    },
+    {
+      "added_at": "2026-09-18 04:00:59",
+      "album": {
+        "name": "Missing Home",
+        "url": "https://open.spotify.com/album/7mb7CpPeL9DJCQGAEIbkHS"
+      },
+      "artists": [
+        {
+          "name": "flora cash",
+          "url": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
+        }
+      ],
+      "duration_ms": 219333,
+      "name": "Missing Home",
+      "url": "https://open.spotify.com/track/29j2Y1N3vpyvm385G4TFSS"
     },
     {
       "added_at": "2026-09-18 04:00:59",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2026-09-18 04:00:59",
       "album": {
-        "name": "Catch A Fire",
-        "url": "https://open.spotify.com/album/22nOFO4lMgF0nEpm0lNCPQ"
-      },
-      "artists": [
-        {
-          "name": "Mat Kearney",
-          "url": "https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1"
-        }
-      ],
-      "duration_ms": 193658,
-      "name": "Catch A Fire",
-      "url": "https://open.spotify.com/track/7r43gqBcINKb1o1NQ43Wcu"
-    },
-    {
-      "added_at": "2026-09-18 04:00:59",
-      "album": {
         "name": "The Stranger (feat. Sachi, Dan Reeder, Tobias Jesso Jr., John C. Reilly, Becky and the Birds)",
         "url": "https://open.spotify.com/album/0eqovZBbtZFa07tA9OGcWt"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 270366,
       "name": "The Stranger (feat. Sachi, Dan Reeder, Tobias Jesso Jr., John C. Reilly, Becky and the Birds)",
       "url": "https://open.spotify.com/track/2TfcFXI1FOsO5HCz4X6uRk"
+    },
+    {
+      "added_at": "2026-09-18 04:00:59",
+      "album": {
+        "name": "Catch A Fire",
+        "url": "https://open.spotify.com/album/22nOFO4lMgF0nEpm0lNCPQ"
+      },
+      "artists": [
+        {
+          "name": "Mat Kearney",
+          "url": "https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1"
+        }
+      ],
+      "duration_ms": 193658,
+      "name": "Catch A Fire",
+      "url": "https://open.spotify.com/track/7r43gqBcINKb1o1NQ43Wcu"
     },
     {
       "added_at": "2026-09-18 04:00:59",
@@ -1863,22 +1863,6 @@
     {
       "added_at": "2026-09-18 04:00:59",
       "album": {
-        "name": "About A House",
-        "url": "https://open.spotify.com/album/5jRQSsPgR0dQSUMNuccSWM"
-      },
-      "artists": [
-        {
-          "name": "Curiosity Shop",
-          "url": "https://open.spotify.com/artist/1T0VltNs70p1wi7Tgh2rTy"
-        }
-      ],
-      "duration_ms": 204745,
-      "name": "About A House",
-      "url": "https://open.spotify.com/track/380cfvRBQfkqcc4RGnFCAh"
-    },
-    {
-      "added_at": "2026-09-18 04:00:59",
-      "album": {
         "name": "Special Occasion",
         "url": "https://open.spotify.com/album/0VseNTH5jew2laWAJ0mKuX"
       },
@@ -1911,6 +1895,22 @@
       "duration_ms": 212502,
       "name": "Weather Balloons [Feat. Frances Cone]",
       "url": "https://open.spotify.com/track/4mOmMccRWthpaUtjPhiQm8"
+    },
+    {
+      "added_at": "2026-09-18 04:00:59",
+      "album": {
+        "name": "About A House",
+        "url": "https://open.spotify.com/album/5jRQSsPgR0dQSUMNuccSWM"
+      },
+      "artists": [
+        {
+          "name": "Curiosity Shop",
+          "url": "https://open.spotify.com/artist/1T0VltNs70p1wi7Tgh2rTy"
+        }
+      ],
+      "duration_ms": 204745,
+      "name": "About A House",
+      "url": "https://open.spotify.com/track/380cfvRBQfkqcc4RGnFCAh"
     },
     {
       "added_at": "2026-09-18 04:00:59",
@@ -2023,22 +2023,6 @@
     {
       "added_at": "2026-09-18 04:00:59",
       "album": {
-        "name": "Believer",
-        "url": "https://open.spotify.com/album/07GDCELlGH4RDhWsHrTuGb"
-      },
-      "artists": [
-        {
-          "name": "Marc Scibilia",
-          "url": "https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77"
-        }
-      ],
-      "duration_ms": 211732,
-      "name": "Believer",
-      "url": "https://open.spotify.com/track/0hr6vFOusAJgPCBgIBJNDH"
-    },
-    {
-      "added_at": "2026-09-18 04:00:59",
-      "album": {
         "name": "Hospital",
         "url": "https://open.spotify.com/album/1ENe8pdOhj33eDRWNv6Nd2"
       },
@@ -2051,6 +2035,22 @@
       "duration_ms": 213328,
       "name": "Hospital",
       "url": "https://open.spotify.com/track/7yELjeC1XSdso8N8EBrVib"
+    },
+    {
+      "added_at": "2026-09-18 04:00:59",
+      "album": {
+        "name": "Believer",
+        "url": "https://open.spotify.com/album/07GDCELlGH4RDhWsHrTuGb"
+      },
+      "artists": [
+        {
+          "name": "Marc Scibilia",
+          "url": "https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77"
+        }
+      ],
+      "duration_ms": 211732,
+      "name": "Believer",
+      "url": "https://open.spotify.com/track/0hr6vFOusAJgPCBgIBJNDH"
     },
     {
       "added_at": "2026-09-18 04:00:59",
@@ -2303,22 +2303,6 @@
     {
       "added_at": "2026-09-18 04:00:59",
       "album": {
-        "name": "Keep On Dreamin'",
-        "url": "https://open.spotify.com/album/26htWkoWquHLEiQUOqdPl5"
-      },
-      "artists": [
-        {
-          "name": "The Arcs",
-          "url": "https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK"
-        }
-      ],
-      "duration_ms": 266560,
-      "name": "Keep On Dreamin'",
-      "url": "https://open.spotify.com/track/7oeLY4eOWi6weLBqTWH0Rc"
-    },
-    {
-      "added_at": "2026-09-18 04:00:59",
-      "album": {
         "name": "Supernova",
         "url": "https://open.spotify.com/album/2m9qpnKqmy3c8FbwApTSvb"
       },
@@ -2331,6 +2315,22 @@
       "duration_ms": 211933,
       "name": "Fly Away",
       "url": "https://open.spotify.com/track/3apMZR8xEsLHEA2KvIefC7"
+    },
+    {
+      "added_at": "2026-09-18 04:00:59",
+      "album": {
+        "name": "Keep On Dreamin'",
+        "url": "https://open.spotify.com/album/26htWkoWquHLEiQUOqdPl5"
+      },
+      "artists": [
+        {
+          "name": "The Arcs",
+          "url": "https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK"
+        }
+      ],
+      "duration_ms": 266560,
+      "name": "Keep On Dreamin'",
+      "url": "https://open.spotify.com/track/7oeLY4eOWi6weLBqTWH0Rc"
     },
     {
       "added_at": "2026-09-18 04:00:59",
@@ -2399,22 +2399,6 @@
     {
       "added_at": "2026-09-18 04:00:59",
       "album": {
-        "name": "A Little Bit of Love",
-        "url": "https://open.spotify.com/album/5PN3w2kkPaP3ZDVUtwebge"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 164359,
-      "name": "A Little Bit of Love",
-      "url": "https://open.spotify.com/track/0eLXFaZoGjVbzNmMd4LpmA"
-    },
-    {
-      "added_at": "2026-09-18 04:00:59",
-      "album": {
         "name": "Ghost In The Machine",
         "url": "https://open.spotify.com/album/35uUl3hTYQfBhH8CvSsTiV"
       },
@@ -2427,6 +2411,22 @@
       "duration_ms": 330653,
       "name": "Comes In Waves",
       "url": "https://open.spotify.com/track/0gDGS8oW4kLxU7G4BYZG3y"
+    },
+    {
+      "added_at": "2026-09-18 04:00:59",
+      "album": {
+        "name": "A Little Bit of Love",
+        "url": "https://open.spotify.com/album/5PN3w2kkPaP3ZDVUtwebge"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 164359,
+      "name": "A Little Bit of Love",
+      "url": "https://open.spotify.com/track/0eLXFaZoGjVbzNmMd4LpmA"
     },
     {
       "added_at": "2026-09-18 04:00:59",

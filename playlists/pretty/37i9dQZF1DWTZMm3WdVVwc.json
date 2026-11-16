@@ -1,6 +1,6 @@
 {
   "description": "\u5bd2\u3044\u51ac\u306f\u5fc3\u3092\u6696\u3081\u308b\u30cf\u30fc\u30c8\u30d5\u30eb\u306a\u697d\u66f2\u3092\u304a\u4f9b\u306b\u3002\u3042\u306a\u305f\u306e\u65e5\u3005\u306b\u97f3\u697d\u3092\u3002",
-  "num_followers": 27209,
+  "num_followers": 27220,
   "original_name": "\u51ac\u306e\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
   "owner": {
     "name": "Spotify",
@@ -479,6 +479,22 @@
     {
       "added_at": "2025-10-24 07:45:46",
       "album": {
+        "name": "\u5e78\u305b\u306a\u7d50\u672b",
+        "url": "https://open.spotify.com/album/0THQJwnRlNNmlxtoDMp5Rf"
+      },
+      "artists": [
+        {
+          "name": "\u5927\u6edd\u8a60\u4e00",
+          "url": "https://open.spotify.com/artist/0cFJWqLH2LZPzuTGS1ljV0"
+        }
+      ],
+      "duration_ms": 276866,
+      "name": "\u5e78\u305b\u306a\u7d50\u672b",
+      "url": "https://open.spotify.com/track/5osxC77ZVAIXIE5Q3DMUuu"
+    },
+    {
+      "added_at": "2025-10-24 07:45:46",
+      "album": {
         "name": "I'm Blessed",
         "url": "https://open.spotify.com/album/5EWpB07ahlO57i3zRRaIsK"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 218500,
       "name": "I'm Blessed",
       "url": "https://open.spotify.com/track/0U8JJXyvA1ufQd1CJLTl1E"
-    },
-    {
-      "added_at": "2025-10-24 07:45:46",
-      "album": {
-        "name": "\u5e78\u305b\u306a\u7d50\u672b",
-        "url": "https://open.spotify.com/album/0THQJwnRlNNmlxtoDMp5Rf"
-      },
-      "artists": [
-        {
-          "name": "\u5927\u6edd\u8a60\u4e00",
-          "url": "https://open.spotify.com/artist/0cFJWqLH2LZPzuTGS1ljV0"
-        }
-      ],
-      "duration_ms": 276866,
-      "name": "\u5e78\u305b\u306a\u7d50\u672b",
-      "url": "https://open.spotify.com/track/5osxC77ZVAIXIE5Q3DMUuu"
     },
     {
       "added_at": "2025-10-24 07:45:46",
@@ -875,22 +875,6 @@
     {
       "added_at": "2025-03-11 22:40:18",
       "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/1B7s0MuLuwvGpSMOpzKDTN"
-      },
-      "artists": [
-        {
-          "name": "Yo-Sea",
-          "url": "https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw"
-        }
-      ],
-      "duration_ms": 209639,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/20oWyi2kyCBXvgmD41XYEm"
-    },
-    {
-      "added_at": "2025-03-11 22:40:18",
-      "album": {
         "name": "\u305d\u3046\u304b\u306a",
         "url": "https://open.spotify.com/album/543KpYnJUAHbMY8FgzjLf6"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 263866,
       "name": "\u307e\u3063\u767d",
       "url": "https://open.spotify.com/track/1Wy03yAj72MppXCDNYWNYv"
+    },
+    {
+      "added_at": "2025-03-11 22:40:18",
+      "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/1B7s0MuLuwvGpSMOpzKDTN"
+      },
+      "artists": [
+        {
+          "name": "Yo-Sea",
+          "url": "https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw"
+        }
+      ],
+      "duration_ms": 209639,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/20oWyi2kyCBXvgmD41XYEm"
     },
     {
       "added_at": "2026-11-10 09:14:46",
@@ -1113,22 +1113,6 @@
       "url": "https://open.spotify.com/track/4JQS958NdP0PqfcoYFxrhV"
     },
     {
-      "added_at": "2025-12-24 00:34:11",
-      "album": {
-        "name": "\u51ac\u82b1\u706b\u2013EP",
-        "url": "https://open.spotify.com/album/0zbszpTpirxLxedxOQdm38"
-      },
-      "artists": [
-        {
-          "name": "CROWN HEAD",
-          "url": "https://open.spotify.com/artist/0RFzlsPSCSgKapPUDwAgtK"
-        }
-      ],
-      "duration_ms": 188080,
-      "name": "\u51ac\u82b1\u2f55",
-      "url": "https://open.spotify.com/track/4PO3o4sBZx3BIqQ0v014Vv"
-    },
-    {
       "added_at": "2025-10-23 13:55:51",
       "album": {
         "name": "\u30cf\u30d4\u30cd\u30b9EP",
@@ -1143,6 +1127,22 @@
       "duration_ms": 257746,
       "name": "\u30cf\u30d4\u30cd\u30b9",
       "url": "https://open.spotify.com/track/13ndjn8Ro8ytUJQJfNVYz4"
+    },
+    {
+      "added_at": "2025-12-24 00:34:11",
+      "album": {
+        "name": "\u51ac\u82b1\u706b\u2013EP",
+        "url": "https://open.spotify.com/album/0zbszpTpirxLxedxOQdm38"
+      },
+      "artists": [
+        {
+          "name": "CROWN HEAD",
+          "url": "https://open.spotify.com/artist/0RFzlsPSCSgKapPUDwAgtK"
+        }
+      ],
+      "duration_ms": 188080,
+      "name": "\u51ac\u82b1\u2f55",
+      "url": "https://open.spotify.com/track/4PO3o4sBZx3BIqQ0v014Vv"
     },
     {
       "added_at": "2025-10-24 07:45:46",
@@ -1225,22 +1225,6 @@
       "url": "https://open.spotify.com/track/3h3bw1hR9vvsvzNyz0NG4Q"
     },
     {
-      "added_at": "2025-12-16 15:00:32",
-      "album": {
-        "name": "Won't You Call My Name?",
-        "url": "https://open.spotify.com/album/1UBebukFuzfG9fjPPveYo1"
-      },
-      "artists": [
-        {
-          "name": "Nagie Lane",
-          "url": "https://open.spotify.com/artist/1NSPGP2G2k6pZFFZERvOwC"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Won't You Call My Name?",
-      "url": "https://open.spotify.com/track/7KVUvkuNDMIK1ZFHI7Aafv"
-    },
-    {
       "added_at": "2025-03-11 22:40:18",
       "album": {
         "name": "\u9060\u3044\u8857\u306e\u3069\u3053\u304b\u3067\u2026",
@@ -1271,6 +1255,22 @@
       "duration_ms": 221900,
       "name": "shiro",
       "url": "https://open.spotify.com/track/13B7xIMV9eLj9xWO4EJF6r"
+    },
+    {
+      "added_at": "2025-12-16 15:00:32",
+      "album": {
+        "name": "Won't You Call My Name?",
+        "url": "https://open.spotify.com/album/1UBebukFuzfG9fjPPveYo1"
+      },
+      "artists": [
+        {
+          "name": "Nagie Lane",
+          "url": "https://open.spotify.com/artist/1NSPGP2G2k6pZFFZERvOwC"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Won't You Call My Name?",
+      "url": "https://open.spotify.com/track/7KVUvkuNDMIK1ZFHI7Aafv"
     },
     {
       "added_at": "2025-03-11 22:40:18",

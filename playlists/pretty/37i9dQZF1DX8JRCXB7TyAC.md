@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 
 > Workout with Haryanvi Songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,575 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,655 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 | 49 | [Grinder](https://open.spotify.com/track/5nHkaD0zCfSLa0B0Q4Jvfj) | [Candy Sheoran](https://open.spotify.com/artist/5Gv7YQyjnnTxplUzBuKSUY), [Yachi Dhounchak](https://open.spotify.com/artist/5pUmnQvCEu3sTcSZWH5USc), [Prodbysoundscape](https://open.spotify.com/artist/43ttS6rFRzusm2okv9LDqX) | [Grinder](https://open.spotify.com/album/4gzdUaPtrbO0bp6Rzm3qpS) | 2:37 |
 | 50 | [Gurjar Gang](https://open.spotify.com/track/0Suya0KkIIaqvnXtXyGMpJ) | [Jassi Kirarkot](https://open.spotify.com/artist/2MrTNaowqRRDiTj0FKHvZP), [Dc](https://open.spotify.com/artist/2FOKZV8ZRTKsJ9v90qIxoU), [Deepty](https://open.spotify.com/artist/6V0gxfUlhg6fOcQGEhcpel) | [Gurjar Gang](https://open.spotify.com/album/0LcekT7wnn60wsizvduMhe) | 2:28 |
 
-Snapshot ID: `AAAAABVuowlMqq1mao6otjNyEV6PWQPf`
+Snapshot ID: `AAAAAM38Etpj2bAWE3k60KxS2zu4wlIl`

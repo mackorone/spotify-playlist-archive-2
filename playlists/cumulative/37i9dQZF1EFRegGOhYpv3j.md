@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6Yyn4ntHauNSEpS4cnQALP">Alysa Vanderheym</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-121 songs - 6 hr 18 min
+122 songs - 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Heavyweight](https://open.spotify.com/track/4x0M6jNEij5TvgBDRAaNvH) | [Quinn L'Esperance](https://open.spotify.com/artist/6ToTVP91K1H3QoGG9iduDM) | [Heavyweight](https://open.spotify.com/album/79BhiaznS9LE2M6prxywrs) | 3:33 | 2025-01-09 | 2025-04-12 |
 | [Hindsight Is Happiness](https://open.spotify.com/track/4DsIXVIVNqFZNaVem4ZtBU) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [PATTERNS \(DELUXE\)](https://open.spotify.com/album/1RK0zPSMv6O78iP9M0irH8) | 3:12 | 2025-03-09 |  |
 | [Hold On Me](https://open.spotify.com/track/498mz1TlZyPbyEEbF0YScP) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Whitsitt Chapel](https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ) | 3:36 | 2024-04-03 |  |
+| [Hotter](https://open.spotify.com/track/7o6Qh6jSlHDRmV4eBj5Y4j) | [Jaren Johnston](https://open.spotify.com/artist/5beYbzBVaQfcY8XL2DCcTs) | [The Guest Room](https://open.spotify.com/album/374DcR4mOsUutxymdtqySx) | 2:55 | 2026-11-15 |  |
 | [How Do I Do This](https://open.spotify.com/track/2I3LMMYVOZBsnAkHmKaSke) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Rolling Up the Welcome Mat \(For Good\)](https://open.spotify.com/album/09eLFhImEeeEDKlaLznMOv) | 2:51 | 2024-04-03 |  |
 | [How Much Do You Love Me](https://open.spotify.com/track/4nede11n2Bu8fcS00E7XER) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [PATTERNS Commentary Album](https://open.spotify.com/album/0Py8hbFZ9QhI2gPEqzbla1) | 3:33 | 2024-12-11 |  |
 | [I GUESS THEY CALL IT FALLIN'](https://open.spotify.com/track/6lUpyPbjbjWGDszwpV4eqB) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [SUBJECT TO CHANGE](https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a) | 4:01 | 2024-04-03 |  |

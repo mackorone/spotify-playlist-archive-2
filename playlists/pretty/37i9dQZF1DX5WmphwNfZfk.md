@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 
 > 50 artists who are the future of Canadian music, according to our editors\. Cover: Kunwarr
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,871 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,876 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Hold Up](https://open.spotify.com/track/0vDxEGc1fhUoFyMegX5qZ9) | [Kunwarr](https://open.spotify.com/artist/6AnFaupnhQD1Ps8DX7Z7mV), [JayB Singh](https://open.spotify.com/artist/3fQeAT5Oo93bKRwmOWo5HM) | [Hold Up](https://open.spotify.com/album/3Lge7AYe1m6JPIcFng4Jo7) | 2:23 |
+| 1 | [Why?](https://open.spotify.com/track/4N26X9sL75PL7UgVQPsOiG) | [Kunwarr](https://open.spotify.com/artist/6AnFaupnhQD1Ps8DX7Z7mV), [Dishant](https://open.spotify.com/artist/03NjaVnVwllxUUcSUDglNJ) | [Why?](https://open.spotify.com/album/6gq9HC3DOPD96qfakj3eLw) | 2:37 |
 | 2 | [taste it](https://open.spotify.com/track/5h9RRknOb8NNowwPNgkpDn) | [Ethan Low](https://open.spotify.com/artist/09O5HSw8RO3aAnWNCADaKS) | [taste it](https://open.spotify.com/album/4UhdsPB6LYoROBZLYE7qx1) | 2:02 |
 | 3 | [Power](https://open.spotify.com/track/4AgFz88NHRADgVAV2MzOSq) | [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex) | [the greatest album of all time](https://open.spotify.com/album/604KxCjle0KCw0VXdoMNgj) | 3:53 |
 | 4 | [Sorry](https://open.spotify.com/track/3dhSscAi765CP5IXEIy0BT) | [MICO](https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG) | [When the lights turn on \(deluxe\)](https://open.spotify.com/album/1qbGwfRKoupCptOicxgdMc) | 2:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 | 49 | [Just Us In The Room](https://open.spotify.com/track/5VIyXmWvIgi5QPJ8CKqgKg) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [Just Us In The Room](https://open.spotify.com/album/2QtkSbLYwufnr1IeCfszHT) | 2:48 |
 | 50 | [Safe \(feat\. Savannah Ré\)](https://open.spotify.com/track/03NddMz8erSpjjioDecBh4) | [Andye](https://open.spotify.com/artist/45WqSW6mVJQNJuqF1nIKqj), [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [Safe](https://open.spotify.com/album/1Gp9CR7Nv9pAmqNjjeFyKp) | 2:50 |
 
-Snapshot ID: `AAAAAEp1TrjbOj7AkO4EFloAmmGWwLs7`
+Snapshot ID: `AAAAAKRGwSqjjO51iESRbkvW7wB7wJw0`

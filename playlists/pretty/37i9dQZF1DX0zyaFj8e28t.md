@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0zyaFj8e28t.md) - [plain]
 
 > Les plus grands tubes français des années 80\. Photo : France Gall
 
-[Spotify](https://open.spotify.com/user/spotify) - 408,979 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 408,996 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0zyaFj8e28t.md) - [plain]
 | 21 | [Mon mec à moi](https://open.spotify.com/track/1UZGVlCoNGQ6ps64QDvydQ) | [Patricia Kaas](https://open.spotify.com/artist/4JQHNk6teUNYxC27Bg0UPI) | [Mademoiselle Chante](https://open.spotify.com/album/2I1n984xfOozMfDA1TGvo7) | 4:13 |
 | 22 | [Je dois m'en aller](https://open.spotify.com/track/7fxvGz4A606ADmsAGT5r4Q) | [Niagara](https://open.spotify.com/artist/4oJ3WVkGXRBtRC0YaqMKxU) | [Encore un dernier baiser](https://open.spotify.com/album/1fNkoxAk0qg1tWuqDkKDDN) | 3:26 |
 | 23 | [Le parking des anges](https://open.spotify.com/track/0gNkBJ8M4S5pKaxEJuQEI5) | [Marc Lavoine](https://open.spotify.com/artist/3K8EYZ4Ltg6ythgGZzrFXf) | [Marc Lavoine](https://open.spotify.com/album/1kGhulcVIZIB3TYTce9TDc) | 3:56 |
-| 24 | [Pourvu qu'elles soient douces](https://open.spotify.com/track/2gNyCHDGyHrw3lCpT9LqlY) | [Mylène Farmer](https://open.spotify.com/artist/0e04xgVBPU6mE2QkSHlufD) | [Ainsi Soit Je](https://open.spotify.com/album/69x2VirNYhaRWQDxV1EX7F) | 4:52 |
-| 25 | [Si j'étais un homme](https://open.spotify.com/track/0qnN7RceovLP58nCY0fdME) | [Diane Tell](https://open.spotify.com/artist/5y65nQvIt9ABZ2Dkv5191h) | [En flèche](https://open.spotify.com/album/2ywSgXs2EVLGQMQGy2ZRIi) | 4:49 |
+| 24 | [Si j'étais un homme](https://open.spotify.com/track/0qnN7RceovLP58nCY0fdME) | [Diane Tell](https://open.spotify.com/artist/5y65nQvIt9ABZ2Dkv5191h) | [En flèche](https://open.spotify.com/album/2ywSgXs2EVLGQMQGy2ZRIi) | 4:49 |
+| 25 | [Pourvu qu'elles soient douces](https://open.spotify.com/track/2gNyCHDGyHrw3lCpT9LqlY) | [Mylène Farmer](https://open.spotify.com/artist/0e04xgVBPU6mE2QkSHlufD) | [Ainsi Soit Je](https://open.spotify.com/album/69x2VirNYhaRWQDxV1EX7F) | 4:52 |
 | 26 | [T'en va pas](https://open.spotify.com/track/6JCIbXPH5LIawW4NRLvYE8) | [Elsa Lunghini](https://open.spotify.com/artist/4Uk5eLOfWucThb2X4QLcX1) | [L'essentiel](https://open.spotify.com/album/0jfDIK7wBs6kp2RbEy3iym) | 5:28 |
 | 27 | [Duel au soleil \- 2006 Remaster](https://open.spotify.com/track/0DmECgkk7chNyhf4kaHaLN) | [Étienne Daho](https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk) | [Pop Satori \(2006 Remaster\)](https://open.spotify.com/album/0epJLxAqo8DfByqlQs1Xdb) | 4:21 |
 | 28 | [Il est libre Max](https://open.spotify.com/track/0ZuHb82X30zwYP8TVnIi8K) | [Hervé Cristiani](https://open.spotify.com/artist/4ml7309NlaZaAHeBUOThVx) | [Les inoubliables de Hervé Cristiani \- Best Of](https://open.spotify.com/album/5X7x3uX32XtxdhBcMohjNA) | 3:14 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0zyaFj8e28t.md) - [plain]
 | 33 | [La p'tite Lady](https://open.spotify.com/track/7jeK414Hj68dYeLzEUVGe8) | [Vivien Savage](https://open.spotify.com/artist/4JB4YibTxVBeW30DtePCZT) | [EP La P'tite Lady](https://open.spotify.com/album/0Lg340OEMHB1qyi919yiZQ) | 3:35 |
 | 34 | [Boule de flipper](https://open.spotify.com/track/6shGOXYAONStOPgpZI1i3E) | [Corynne Charby](https://open.spotify.com/artist/0g3UZ5TKLKBB9m35O8KAm3) | [Boule de flipper](https://open.spotify.com/album/7BbpQZ2U11hHECUP0nkD6p) | 3:51 |
 | 35 | [Joue pas](https://open.spotify.com/track/4DhapD9hNxw9vAT7RKbWZH) | [François Feldman](https://open.spotify.com/artist/3marwXSwSzZctZtvg35LOe), [Joniece Jamison](https://open.spotify.com/artist/1cv4XgiZ8UewYxrtk4XO3Q) | [Two Feldman](https://open.spotify.com/album/1nHQK7vhvM4WZgKI825yr9) | 4:11 |
-| 36 | [Disparue](https://open.spotify.com/track/280p8WbpK05bAptetUzEcx) | [Jean\-Pierre Mader](https://open.spotify.com/artist/0d7c7amZ8BhgmJ55z7foVI) | [Disparue \- EP](https://open.spotify.com/album/6InWfWweFfuMQ7kCn5CBoc) | 3:09 |
-| 37 | [Elle préfère l'amour en mer](https://open.spotify.com/track/5ZhLMUNyZWRjVWwHKDNF6H) | [Philippe Lavil](https://open.spotify.com/artist/7doURsj1UtIUUeW2kwNwWw) | [Nonchalances](https://open.spotify.com/album/1pXcmUDdmlRibJHaAMcbNr) | 2:59 |
+| 36 | [Elle préfère l'amour en mer](https://open.spotify.com/track/5ZhLMUNyZWRjVWwHKDNF6H) | [Philippe Lavil](https://open.spotify.com/artist/7doURsj1UtIUUeW2kwNwWw) | [Nonchalances](https://open.spotify.com/album/1pXcmUDdmlRibJHaAMcbNr) | 2:59 |
+| 37 | [Disparue](https://open.spotify.com/track/280p8WbpK05bAptetUzEcx) | [Jean\-Pierre Mader](https://open.spotify.com/artist/0d7c7amZ8BhgmJ55z7foVI) | [Disparue \- EP](https://open.spotify.com/album/6InWfWweFfuMQ7kCn5CBoc) | 3:09 |
 | 38 | [Elle a les yeux revolver](https://open.spotify.com/track/3uXVAyaaYadFSbbj1SQBK4) | [Marc Lavoine](https://open.spotify.com/artist/3K8EYZ4Ltg6ythgGZzrFXf) | [Best Of 85\-95](https://open.spotify.com/album/0FpLSt6Q2HLXdomOYL9oFN) | 3:36 |
 | 39 | [Embrasse moi idiot \- .](https://open.spotify.com/track/418hg3W91QSVSI7S6l3baJ) | [Bill Baxter](https://open.spotify.com/artist/3KpXJFls6MeNgtt8uyBfmf) | [Embrasse Moi Idiot](https://open.spotify.com/album/03ZiFpoAZNWSHvQAkfHM6z) | 3:45 |
 | 40 | [Tropique](https://open.spotify.com/track/0ygcmX3L2rL0fEO45NN9k0) | [Muriel Dacq](https://open.spotify.com/artist/5hqvbA1LcyFLRhTQGZQzKP) | [Tropique](https://open.spotify.com/album/45QTuP5zs9QwKdS0y0znIO) | 3:32 |

@@ -4,7 +4,7 @@
 
 > Novidades e hits do pop nacional pra te deixar mais leve\. Foto: Vitor Kley
 
-1,017 songs - 2 day 3 hr 10 min
+1,018 songs - 2 day 3 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [A LUZ NO FIM DO TÚNEL](https://open.spotify.com/track/6AuAeeY9NgQKp9Mo1BKgcA) | [Bárbara Grando](https://open.spotify.com/artist/3Q7SOEZnnLV4lzp4I09k9F) | [VASO ALQUÍMICO](https://open.spotify.com/album/5fW6zQaWR2a7BKspDKcJuC) | 3:05 | 2025-01-31 | 2025-03-29 |
 | [A Melhor Coisa do Mundo](https://open.spotify.com/track/7dg73Cj0F0MAioMwmoOmCN) | [Davi Shamá](https://open.spotify.com/artist/2VYUK62O7RydFXkOBS7rGV) | [A Melhor Coisa do Mundo](https://open.spotify.com/album/0yHKDBkFM4Er1dQ0yoGKUv) | 2:31 | 2023-01-20 | 2023-05-27 |
 | [A Menina Dança](https://open.spotify.com/track/1yBwbJLOt9BcGIfrULEfun) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [A Menina Dança](https://open.spotify.com/album/6aNPMqIIQKlCZWWEQVOggq) | 2:57 | 2026-05-29 |  |
-| [A Minha Flor](https://open.spotify.com/track/6Ws8Z00SaE191uuRtH7Z6o) | [Felipe Lobo](https://open.spotify.com/artist/1wzIEr2dddn0yLrEkbHxED) | [A Minha Flor](https://open.spotify.com/album/7uvaisCBNjJ5uWGEhKLzPX) | 3:09 | 2026-09-18 |  |
+| [A Minha Flor](https://open.spotify.com/track/6Ws8Z00SaE191uuRtH7Z6o) | [Felipe Lobo](https://open.spotify.com/artist/1wzIEr2dddn0yLrEkbHxED) | [A Minha Flor](https://open.spotify.com/album/7uvaisCBNjJ5uWGEhKLzPX) | 3:09 | 2026-09-18 | 2026-11-16 |
 | [A Primeira Vez](https://open.spotify.com/track/2nQzSlfAcve4eiux0K9Y9G) | [Os Amantes](https://open.spotify.com/artist/0CjUWR4PjqnTuxe0fPRoUs), [Jaloo](https://open.spotify.com/artist/1rdXEdH8SRIqbuTbzQzd93), [Strobo](https://open.spotify.com/artist/12ppUSYrd4ZPPhp9Uqa18g) | [Amar, AMOR!](https://open.spotify.com/album/2XBkVZMKULzi3B0KhNjHPw) | 3:36 | 2026-07-31 | 2026-08-07 |
 | [A Saudade Vem Bater](https://open.spotify.com/track/0F0ppDu7oMRYywOQfnnHGj) | [Doral](https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp) | [A Saudade Vem Bater](https://open.spotify.com/album/0hqAGPNFZZpYjd7uLRNiJV) | 2:09 | 2025-08-22 | 2026-04-04 |
 | [A Tal Canção Pra Lua \- Microfonado](https://open.spotify.com/track/3wBAFUmySuNroiqji8Zdbx) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U), [Samuel Rosa](https://open.spotify.com/artist/4fp0N4WchcumIW5HNGpPwa) | [Microfonado](https://open.spotify.com/album/7x6b3yxltKswwR4CykJA6C) | 3:28 | 2024-11-08 | 2025-02-01 |
@@ -610,6 +610,7 @@
 | [não passa vontade](https://open.spotify.com/track/1HbHUc3TamGVwXlcUolMej) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe), [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [não passa vontade](https://open.spotify.com/album/7i7MI50qJ4FZTsiz1DOsMp) | 3:41 | 2022-05-13 | 2022-12-03 |
 | [Não Presta](https://open.spotify.com/track/7hM8V71vwDG1FsuJSsiPX3) | [Sávio](https://open.spotify.com/artist/4ElL2M4IPZftmoEmkHgMiz) | [P E R T O](https://open.spotify.com/album/2yZsWNbI68GdHoFr8e9LwF) | 2:35 | 2025-02-14 | 2026-03-21 |
 | [Não Quero Vingança \- Spotify Singles](https://open.spotify.com/track/4B4yZrE4D1ZTJF9c70wOMz) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Não Quero Vingança \- Spotify Singles](https://open.spotify.com/album/32ZTfHW7lUG1u7EQmqiVgX) | 2:56 | 2022-11-09 | 2022-12-13 |
+| [Não Resisto](https://open.spotify.com/track/2H2GJZLJokgrgvtYKTSMbv) | [Mamacita](https://open.spotify.com/artist/0zd6LHxak21D37nMKpT4k2), [Filhos De Jorge](https://open.spotify.com/artist/2V9RQWP2Dk6IEauL7D14vE) | [Não Resisto](https://open.spotify.com/album/11UAPwO6V0XwUxs0cd5Dhm) | 4:01 | 2026-11-13 |  |
 | [não sei dançar \(acústico\)](https://open.spotify.com/track/53CWA2RbGgDD9uwUBFRjW4) | [Maria Maud](https://open.spotify.com/artist/2cEDFopNYB1CRgT5P8t1bM) | [a trilha do carro dos meus pais \(acústico\)](https://open.spotify.com/album/7jWkv494WDk7XCktW82BDM) | 2:24 | 2024-03-29 | 2024-06-22 |
 | [Não Sou Boa Com Palavras](https://open.spotify.com/track/2INmeHxU8r6tJubFJrpTHF) | [Sophia Stedile](https://open.spotify.com/artist/11gCuxVV7iRCmbDz30plmi) | [Mais Uma História de Amor](https://open.spotify.com/album/1Xxelq9chLN2uaKfECfVEJ) | 2:23 | 2022-08-26 | 2023-01-28 |
 | [Não Sou De Me Entregar](https://open.spotify.com/track/0tCFKbw0cXe0TIa8PzQgc0) | [Jessé Aguiar](https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC), [Caike Souza](https://open.spotify.com/artist/6tjtXcfi8CU4froDsEydxa) | [Não Sou De Me Entregar](https://open.spotify.com/album/7nR8G0opjRd3AAtzkv3qbr) | 4:02 | 2023-07-14 | 2023-08-19 |

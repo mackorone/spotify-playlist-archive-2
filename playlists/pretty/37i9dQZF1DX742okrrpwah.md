@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > SDM, Joseph Kamel, U2 x Dolly Parton et Marine x Danyl au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 418,208 likes - 112 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 418,175 likes - 112 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

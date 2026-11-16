@@ -1,6 +1,6 @@
 {
   "description": "En modo: simulacro navide\u00f1o \ud83c\udf84 \ud83c\udf85\ud83c\udffc",
-  "num_followers": 144045,
+  "num_followers": 144059,
   "original_name": "M\u00fasica Decembrina",
   "owner": {
     "name": "Spotify",
@@ -431,6 +431,22 @@
     {
       "added_at": "2026-10-24 04:59:12",
       "album": {
+        "name": "Abriendo Puertas",
+        "url": "https://open.spotify.com/album/1wXWeF4U9kpTYcBNBa1udG"
+      },
+      "artists": [
+        {
+          "name": "Gloria Estefan",
+          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
+        }
+      ],
+      "duration_ms": 279133,
+      "name": "Farolito (Little Star)",
+      "url": "https://open.spotify.com/track/62EOnIW2A0dbWZiIN82nS2"
+    },
+    {
+      "added_at": "2026-10-24 04:59:12",
+      "album": {
         "name": "Las Que Faltaban",
         "url": "https://open.spotify.com/album/6pbYCrwIfYWmp0Tz4V7CRw"
       },
@@ -451,22 +467,6 @@
     {
       "added_at": "2026-10-24 04:59:12",
       "album": {
-        "name": "Abriendo Puertas",
-        "url": "https://open.spotify.com/album/1wXWeF4U9kpTYcBNBa1udG"
-      },
-      "artists": [
-        {
-          "name": "Gloria Estefan",
-          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
-        }
-      ],
-      "duration_ms": 279133,
-      "name": "Farolito (Little Star)",
-      "url": "https://open.spotify.com/track/62EOnIW2A0dbWZiIN82nS2"
-    },
-    {
-      "added_at": "2026-10-24 04:59:12",
-      "album": {
         "name": "Sus M\u00e1s Grandes \u00c9xitos Volume 1",
         "url": "https://open.spotify.com/album/3Zh2ReqhDsU5aiR8aO6rfM"
       },
@@ -479,22 +479,6 @@
       "duration_ms": 211133,
       "name": "Sorbito De Champagne",
       "url": "https://open.spotify.com/track/4WiBMg15y8pGL1AwTowX42"
-    },
-    {
-      "added_at": "2026-10-24 04:59:12",
-      "album": {
-        "name": "A Mover el Esqueleto Con 3 Grandes",
-        "url": "https://open.spotify.com/album/0YWIrrISo3DyXAXsjKheUy"
-      },
-      "artists": [
-        {
-          "name": "Los Black Star",
-          "url": "https://open.spotify.com/artist/1Sj1R6x4FGlNFfdGG2fpnL"
-        }
-      ],
-      "duration_ms": 261000,
-      "name": "Quiero Ser Feliz",
-      "url": "https://open.spotify.com/track/2vyiAiog5grnWpiHXfrX5n"
     },
     {
       "added_at": "2026-10-24 04:59:12",
@@ -515,22 +499,18 @@
     {
       "added_at": "2026-10-24 04:59:12",
       "album": {
-        "name": "Para Mi Fanaticada",
-        "url": "https://open.spotify.com/album/43vnYNazgx4KoAaw5m4DFa"
+        "name": "A Mover el Esqueleto Con 3 Grandes",
+        "url": "https://open.spotify.com/album/0YWIrrISo3DyXAXsjKheUy"
       },
       "artists": [
         {
-          "name": "Diomedes Diaz",
-          "url": "https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG"
-        },
-        {
-          "name": "Colacho Mendoza",
-          "url": "https://open.spotify.com/artist/54LZrrClgVEeAQcFrk3BJj"
+          "name": "Los Black Star",
+          "url": "https://open.spotify.com/artist/1Sj1R6x4FGlNFfdGG2fpnL"
         }
       ],
-      "duration_ms": 255893,
-      "name": "Mensaje De Navidad",
-      "url": "https://open.spotify.com/track/5cNCj7aVKzMFiVQ85fZ7NR"
+      "duration_ms": 261000,
+      "name": "Quiero Ser Feliz",
+      "url": "https://open.spotify.com/track/2vyiAiog5grnWpiHXfrX5n"
     },
     {
       "added_at": "2026-10-24 04:59:12",
@@ -547,6 +527,26 @@
       "duration_ms": 128560,
       "name": "Con Verraquera",
       "url": "https://open.spotify.com/track/1zbFphPJy50PP88eIpMvMc"
+    },
+    {
+      "added_at": "2026-10-24 04:59:12",
+      "album": {
+        "name": "Para Mi Fanaticada",
+        "url": "https://open.spotify.com/album/43vnYNazgx4KoAaw5m4DFa"
+      },
+      "artists": [
+        {
+          "name": "Diomedes Diaz",
+          "url": "https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG"
+        },
+        {
+          "name": "Colacho Mendoza",
+          "url": "https://open.spotify.com/artist/54LZrrClgVEeAQcFrk3BJj"
+        }
+      ],
+      "duration_ms": 255893,
+      "name": "Mensaje De Navidad",
+      "url": "https://open.spotify.com/track/5cNCj7aVKzMFiVQ85fZ7NR"
     },
     {
       "added_at": "2026-10-24 04:59:12",
@@ -663,22 +663,6 @@
     {
       "added_at": "2026-10-24 04:59:12",
       "album": {
-        "name": "La Sonora Matancera y sus voces de oro, Vol. 1 (Remastered)",
-        "url": "https://open.spotify.com/album/6uFvAQZBCx1ZMWLxMO35iM"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Matancera",
-          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
-        }
-      ],
-      "duration_ms": 153414,
-      "name": "El negrito del Batey - Remastered",
-      "url": "https://open.spotify.com/track/5l3zT77F4kGXeBKs4FO2pH"
-    },
-    {
-      "added_at": "2026-10-24 04:59:12",
-      "album": {
         "name": "A Pulir la Hebilla",
         "url": "https://open.spotify.com/album/2wuO5HVLoQzltbgc5sWF3q"
       },
@@ -711,6 +695,22 @@
     {
       "added_at": "2026-10-24 04:59:12",
       "album": {
+        "name": "La Sonora Matancera y sus voces de oro, Vol. 1 (Remastered)",
+        "url": "https://open.spotify.com/album/6uFvAQZBCx1ZMWLxMO35iM"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+        }
+      ],
+      "duration_ms": 153414,
+      "name": "El negrito del Batey - Remastered",
+      "url": "https://open.spotify.com/track/5l3zT77F4kGXeBKs4FO2pH"
+    },
+    {
+      "added_at": "2026-10-24 04:59:12",
+      "album": {
         "name": "Para Bailar y Bailar con El Cuarteto Imperial",
         "url": "https://open.spotify.com/album/6Fc5kI4aGrWAEH067iJQmd"
       },
@@ -723,6 +723,22 @@
       "duration_ms": 435813,
       "name": "Mosaico de Cumbias - La Pollera Color\u00e1 / Se V\u00e1 el Caim\u00e1n / Santander de Batunga / Quiero Amanecer / 777 D\u00edas / Si Tuviera Plata Ir\u00eda a Mar de Plata / La M\u00facura / Santa Marta / La Casa Est\u00e1 Sola / Adios, Adios Coraz\u00f3n",
       "url": "https://open.spotify.com/track/54eQG8ZLvbbgAZ8NSUqlUA"
+    },
+    {
+      "added_at": "2026-10-24 04:59:12",
+      "album": {
+        "name": "Que Gran Relajo",
+        "url": "https://open.spotify.com/album/2RVseF0K75urCaJDlE5QV1"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Gutierrez",
+          "url": "https://open.spotify.com/artist/7esYnrPzQX1JWWIyWxYu5A"
+        }
+      ],
+      "duration_ms": 203333,
+      "name": "La Banda Borracha",
+      "url": "https://open.spotify.com/track/5re4akm7ImQOsyea86iSQ3"
     },
     {
       "added_at": "2026-10-24 04:59:12",
@@ -747,18 +763,18 @@
     {
       "added_at": "2026-10-24 04:59:12",
       "album": {
-        "name": "Que Gran Relajo",
-        "url": "https://open.spotify.com/album/2RVseF0K75urCaJDlE5QV1"
+        "name": "A Mover el Esqueleto Con 3 Grandes",
+        "url": "https://open.spotify.com/album/0YWIrrISo3DyXAXsjKheUy"
       },
       "artists": [
         {
-          "name": "Alfredo Gutierrez",
-          "url": "https://open.spotify.com/artist/7esYnrPzQX1JWWIyWxYu5A"
+          "name": "Los Hispanos",
+          "url": "https://open.spotify.com/artist/6zk8WqI12buD0B67tteQ5h"
         }
       ],
-      "duration_ms": 203333,
-      "name": "La Banda Borracha",
-      "url": "https://open.spotify.com/track/5re4akm7ImQOsyea86iSQ3"
+      "duration_ms": 140920,
+      "name": "Olvidemos el Pasado",
+      "url": "https://open.spotify.com/track/3GWfCPsJ0MwZkqS6Tw2IHJ"
     },
     {
       "added_at": "2026-10-24 04:59:12",
@@ -775,22 +791,6 @@
       "duration_ms": 245280,
       "name": "Tabaco y ron",
       "url": "https://open.spotify.com/track/4Wo82fEZenBEqL4dpn6Bqt"
-    },
-    {
-      "added_at": "2026-10-24 04:59:12",
-      "album": {
-        "name": "A Mover el Esqueleto Con 3 Grandes",
-        "url": "https://open.spotify.com/album/0YWIrrISo3DyXAXsjKheUy"
-      },
-      "artists": [
-        {
-          "name": "Los Hispanos",
-          "url": "https://open.spotify.com/artist/6zk8WqI12buD0B67tteQ5h"
-        }
-      ],
-      "duration_ms": 140920,
-      "name": "Olvidemos el Pasado",
-      "url": "https://open.spotify.com/track/3GWfCPsJ0MwZkqS6Tw2IHJ"
     },
     {
       "added_at": "2026-10-24 04:59:12",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-10-24 04:59:12",
       "album": {
-        "name": "A Pulir la Hebilla",
-        "url": "https://open.spotify.com/album/2wuO5HVLoQzltbgc5sWF3q"
-      },
-      "artists": [
-        {
-          "name": "Nelson Henriquez",
-          "url": "https://open.spotify.com/artist/4de5H6yG1hXqYXsL4YHRon"
-        }
-      ],
-      "duration_ms": 182333,
-      "name": "Muchacha de 15",
-      "url": "https://open.spotify.com/track/3kHLuCDIx0OV1pawSLgarA"
-    },
-    {
-      "added_at": "2026-10-24 04:59:12",
-      "album": {
         "name": "A Mover el Esqueleto Con 3 Grandes",
         "url": "https://open.spotify.com/album/0YWIrrISo3DyXAXsjKheUy"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 103960,
       "name": "Fiesta de Mi Pueblo",
       "url": "https://open.spotify.com/track/0WXMlNme92zpMKnORbFqcX"
+    },
+    {
+      "added_at": "2026-10-24 04:59:12",
+      "album": {
+        "name": "A Pulir la Hebilla",
+        "url": "https://open.spotify.com/album/2wuO5HVLoQzltbgc5sWF3q"
+      },
+      "artists": [
+        {
+          "name": "Nelson Henriquez",
+          "url": "https://open.spotify.com/artist/4de5H6yG1hXqYXsL4YHRon"
+        }
+      ],
+      "duration_ms": 182333,
+      "name": "Muchacha de 15",
+      "url": "https://open.spotify.com/track/3kHLuCDIx0OV1pawSLgarA"
     },
     {
       "added_at": "2026-10-24 04:59:12",
@@ -923,22 +923,6 @@
     {
       "added_at": "2026-10-24 04:59:12",
       "album": {
-        "name": "A Pulir la Hebilla",
-        "url": "https://open.spotify.com/album/2wuO5HVLoQzltbgc5sWF3q"
-      },
-      "artists": [
-        {
-          "name": "Nelson Henriquez",
-          "url": "https://open.spotify.com/artist/4de5H6yG1hXqYXsL4YHRon"
-        }
-      ],
-      "duration_ms": 206453,
-      "name": "Festival Vallenato",
-      "url": "https://open.spotify.com/track/6i4R9dZBaldVry3dJ3zey4"
-    },
-    {
-      "added_at": "2026-10-24 04:59:12",
-      "album": {
         "name": "Homenaje a Los Grandes Compositores de la M\u00fasica Tropical Colombiana Volume 2",
         "url": "https://open.spotify.com/album/7e2UmdoDrz2wZghz9qdjKF"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 209653,
       "name": "Navidad Negra",
       "url": "https://open.spotify.com/track/0iNxOYzs1DzUL2SUnWD4wr"
+    },
+    {
+      "added_at": "2026-10-24 04:59:12",
+      "album": {
+        "name": "A Pulir la Hebilla",
+        "url": "https://open.spotify.com/album/2wuO5HVLoQzltbgc5sWF3q"
+      },
+      "artists": [
+        {
+          "name": "Nelson Henriquez",
+          "url": "https://open.spotify.com/artist/4de5H6yG1hXqYXsL4YHRon"
+        }
+      ],
+      "duration_ms": 206453,
+      "name": "Festival Vallenato",
+      "url": "https://open.spotify.com/track/6i4R9dZBaldVry3dJ3zey4"
     },
     {
       "added_at": "2026-10-24 04:59:12",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2026-10-24 04:59:12",
       "album": {
-        "name": "Salsa Rom\u00e1ntica: Lo Mejor de la Sabrosura",
-        "url": "https://open.spotify.com/album/4Hoyewq2PnRCaGASIemZOZ"
-      },
-      "artists": [
-        {
-          "name": "La Sabrosura Orquesta",
-          "url": "https://open.spotify.com/artist/5mudirGeAjQgkS2AaIQVCb"
-        }
-      ],
-      "duration_ms": 284666,
-      "name": "Tu Amigo o Tu Amante",
-      "url": "https://open.spotify.com/track/4pvknJEcQuzyCj1b7KIkac"
-    },
-    {
-      "added_at": "2026-10-24 04:59:12",
-      "album": {
         "name": "Muy Tropical y Bailable",
         "url": "https://open.spotify.com/album/4FTPpblS9F4DOT7o46A9cU"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 220354,
       "name": "Ojitos Hechiceros",
       "url": "https://open.spotify.com/track/6ACbgxx9BXs64G1aWVXJOV"
+    },
+    {
+      "added_at": "2026-10-24 04:59:12",
+      "album": {
+        "name": "Salsa Rom\u00e1ntica: Lo Mejor de la Sabrosura",
+        "url": "https://open.spotify.com/album/4Hoyewq2PnRCaGASIemZOZ"
+      },
+      "artists": [
+        {
+          "name": "La Sabrosura Orquesta",
+          "url": "https://open.spotify.com/artist/5mudirGeAjQgkS2AaIQVCb"
+        }
+      ],
+      "duration_ms": 284666,
+      "name": "Tu Amigo o Tu Amante",
+      "url": "https://open.spotify.com/track/4pvknJEcQuzyCj1b7KIkac"
     },
     {
       "added_at": "2026-10-24 04:59:12",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2026-10-24 04:59:12",
       "album": {
-        "name": "Rep\u00edtela",
-        "url": "https://open.spotify.com/album/1S3Ao9VsfFF9v8azLqaM29"
-      },
-      "artists": [
-        {
-          "name": "Jessi Uribe",
-          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
-        }
-      ],
-      "duration_ms": 209075,
-      "name": "Rep\u00edtela",
-      "url": "https://open.spotify.com/track/6syqaRHW4FsOgdGgoWvAb1"
-    },
-    {
-      "added_at": "2026-10-24 04:59:12",
-      "album": {
         "name": "\u00c9xitos los Embajadores Vallenatos",
         "url": "https://open.spotify.com/album/4AcJClSsSiNwBjBAvO67rn"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 266949,
       "name": "El Santo Cach\u00f3n",
       "url": "https://open.spotify.com/track/62Dsro7boSt2kTr0YY3OtX"
+    },
+    {
+      "added_at": "2026-10-24 04:59:12",
+      "album": {
+        "name": "Rep\u00edtela",
+        "url": "https://open.spotify.com/album/1S3Ao9VsfFF9v8azLqaM29"
+      },
+      "artists": [
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        }
+      ],
+      "duration_ms": 209075,
+      "name": "Rep\u00edtela",
+      "url": "https://open.spotify.com/track/6syqaRHW4FsOgdGgoWvAb1"
     },
     {
       "added_at": "2026-10-24 04:59:12",
@@ -1335,26 +1335,6 @@
     {
       "added_at": "2026-10-24 04:59:12",
       "album": {
-        "name": "\u00c9xitos los Tupamaros",
-        "url": "https://open.spotify.com/album/6LmdmdH4QOVPXNqkdr9RWM"
-      },
-      "artists": [
-        {
-          "name": "Los Tupamaros",
-          "url": "https://open.spotify.com/artist/54gCRV0IGOEsK5iZFjdKXo"
-        },
-        {
-          "name": "Rochy",
-          "url": "https://open.spotify.com/artist/1RGijIKY2cwvBGXrYgFPnf"
-        }
-      ],
-      "duration_ms": 191772,
-      "name": "Todo el Mundo Necesita un Beso",
-      "url": "https://open.spotify.com/track/0YVKaTzwcFyrmQAzS6Jk41"
-    },
-    {
-      "added_at": "2026-10-24 04:59:12",
-      "album": {
         "name": "\u00c9xitos los Embajadores Vallenatos",
         "url": "https://open.spotify.com/album/4AcJClSsSiNwBjBAvO67rn"
       },
@@ -1371,6 +1351,26 @@
       "duration_ms": 258217,
       "name": "Se Le Moja la Canoa (La Canoa)",
       "url": "https://open.spotify.com/track/0JVnEzXd7T3Q0nEvveigLn"
+    },
+    {
+      "added_at": "2026-10-24 04:59:12",
+      "album": {
+        "name": "\u00c9xitos los Tupamaros",
+        "url": "https://open.spotify.com/album/6LmdmdH4QOVPXNqkdr9RWM"
+      },
+      "artists": [
+        {
+          "name": "Los Tupamaros",
+          "url": "https://open.spotify.com/artist/54gCRV0IGOEsK5iZFjdKXo"
+        },
+        {
+          "name": "Rochy",
+          "url": "https://open.spotify.com/artist/1RGijIKY2cwvBGXrYgFPnf"
+        }
+      ],
+      "duration_ms": 191772,
+      "name": "Todo el Mundo Necesita un Beso",
+      "url": "https://open.spotify.com/track/0YVKaTzwcFyrmQAzS6Jk41"
     }
   ],
   "unique_name": "M\u00fasica Decembrina",

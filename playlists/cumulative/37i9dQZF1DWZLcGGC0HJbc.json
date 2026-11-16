@@ -665,6 +665,24 @@
     },
     {
       "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/4GplUUKTt0yY6DDTjwGwm0"
+      },
+      "artists": [
+        {
+          "name": "uwase",
+          "url": "https://open.spotify.com/artist/2QuwXg3dnpvGTMeoilcszr"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164960,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/16eC6kYiQlUZRSfnARss5Q"
+    },
+    {
+      "album": {
         "name": "Sense & Nonsense",
         "url": "https://open.spotify.com/album/49C201EMuA7vMN68BRphjn"
       },
@@ -4576,7 +4594,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 198727,
       "name": "Seeing You",
       "url": "https://open.spotify.com/track/7jjQcyGSb1rNGdUmoQuBuk"

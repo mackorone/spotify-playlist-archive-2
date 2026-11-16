@@ -4,7 +4,7 @@
 
 > lay back\. chill out.
 
-459 songs - 1 day 4 hr 49 min
+460 songs - 1 day 4 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,7 +148,7 @@
 | [Found \(feat\. Brent Faiyaz\)](https://open.spotify.com/track/0GGfGINoVYiSFXPOjg3RHj) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Found \(feat\. Brent Faiyaz\)](https://open.spotify.com/album/6nuNgD841boUffjDiI8et4) | 3:29 | 2022-04-22 |  |
 | [Found A Light \(Beale Street\)](https://open.spotify.com/track/09Btkoj4YIm36KVJqomiCE) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [V.C.R](https://open.spotify.com/artist/3kCN1Q6YPXCtKflf3NPXKw) | [Found A Light \(Beale Street\)](https://open.spotify.com/album/3bryfCCYVWa9IpMyObn3PN) | 7:16 | 2025-04-30 | 2025-09-28 |
 | [Four Seasons](https://open.spotify.com/track/3I0KpA2i14kXzK0ggPWp3J) | [Merna](https://open.spotify.com/artist/0aytGYP0dzM1d37B7C31qK) | [For Seasons: Love in a Time of War](https://open.spotify.com/album/7HoEzXWmgLQNt4LAXPFWiy) | 4:27 | 2026-10-09 | 2026-10-23 |
-| [Free](https://open.spotify.com/track/5aPVQqYEEZKREbFRxLiAp5) | [Deniece Williams](https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd) | [Love Songs](https://open.spotify.com/album/5yRdzDUGp5EK8hoBvdUNNg) | 5:56 | 2023-04-14 |  |
+| [Free](https://open.spotify.com/track/5aPVQqYEEZKREbFRxLiAp5) | [Deniece Williams](https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd) | [Love Songs](https://open.spotify.com/album/5yRdzDUGp5EK8hoBvdUNNg) | 5:56 | 2023-04-14 | 2026-11-16 |
 | [Friendly Skies \(feat\. Ginuwine\)](https://open.spotify.com/track/580qfiaOR7n9PuKbRUi7qx) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Ginuwine](https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP) | [Supa Dupa Fly](https://open.spotify.com/album/6UkdyvPElK6JDkyeRClbI2) | 4:59 | 2023-04-20 | 2023-10-01 |
 | [Friends Again](https://open.spotify.com/track/4Ngjl2bK9B4iQI98DBano0) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Friends Again](https://open.spotify.com/album/6LNPtTCwhVh1GIQboI1isu) | 3:38 | 2026-02-13 |  |
 | [FROM KALLI WITH LOVE](https://open.spotify.com/track/5YNfWXqUbIhIQs45iDEcaB) | [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl) | [MOOD RING](https://open.spotify.com/album/0gSBpcyID5faN64X9wDveP) | 2:49 | 2024-05-31 | 2024-06-29 |
@@ -190,6 +190,7 @@
 | [Hold Me Up \(Thank You\)](https://open.spotify.com/track/0juMDnoo3u3uDJ32wjK2BF) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [A LA SALA](https://open.spotify.com/album/1PeC1ckDJSzYHkwo6JHbP2) | 3:49 | 2024-04-05 | 2025-12-16 |
 | [Hold On](https://open.spotify.com/track/5tqZJUHEuqdN12RZVq2l9p) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8) | [Hive Mind](https://open.spotify.com/album/27ThgFMUAx3MXLQ297DzWF) | 6:46 | 2021-08-18 |  |
 | [Homerun 2021](https://open.spotify.com/track/4JZSfAfaOHxDOqVo76l2KL) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [Homerun 2021](https://open.spotify.com/album/3eso9JkXxZyMBrjzUbsBxR) | 3:21 | 2025-06-27 | 2025-08-17 |
+| [Honeymoon](https://open.spotify.com/track/160wVfS6OgXxhyPkDYOhLi) | [54 Ultra](https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ) | [Honeymoon](https://open.spotify.com/album/5HZocqevwnLexkjpNCmG1l) | 3:08 | 2026-11-13 |  |
 | [Hot Honey \- Downtempo Mix](https://open.spotify.com/track/4qRQEUwZSsnOf9MeLwz3aQ) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE) | [Hot Honey \(Downtempo Mix\)](https://open.spotify.com/album/0SW2Gs47OUnQg74zus8RYh) | 2:55 | 2026-02-27 | 2026-03-07 |
 | [How Could I Forget You](https://open.spotify.com/track/6lPEIRTaQOeoO7ac5q2YEi) | [Etta Bond](https://open.spotify.com/artist/0zanHkxN0P38oWegA8iSQA) | [How Could I Forget You](https://open.spotify.com/album/7nTOGhNV5Eqr4Gb9Ygmmsy) | 3:34 | 2021-09-07 | 2023-05-26 |
 | [I Can't Even Cry \- A COLORS SHOW](https://open.spotify.com/track/4WRdIY3cvWLk2yeNw9rMaN) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [I Can’t Even Cry \- A COLORS SHOW](https://open.spotify.com/album/0W2BWLzGgAOZErCv5ZVT1v) | 4:03 | 2025-02-14 | 2025-03-15 |

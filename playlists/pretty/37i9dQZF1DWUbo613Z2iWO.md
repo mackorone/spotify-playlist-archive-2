@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 
 > R&B of the moment by the artists of the future\. Cover: Parisalexa
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,596 likes - 215 songs - 11 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,602 likes - 215 songs - 11 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

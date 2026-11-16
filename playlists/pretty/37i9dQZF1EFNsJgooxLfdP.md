@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFNsJgooxLfdP.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4K6JUGERv1pUGgxWwuwj06">Victoria Monét</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,606 likes - 104 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,603 likes - 104 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,9 +76,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFNsJgooxLfdP.md) - [plain]
 | 66 | [Little More Time](https://open.spotify.com/track/5wLS99Zq97F2GMJFcZuRfU) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J), [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Painted \(Deluxe Edition\)](https://open.spotify.com/album/4tOljQq0yQqk6KaWRmAwua) | 4:08 |
 | 67 | [Reach Out](https://open.spotify.com/track/5QPXPPVW730RcBAlLXIQlF) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Frequency Of Love](https://open.spotify.com/album/6uKjWjH2r2fsgfKaIsaYWw) | 2:39 |
 | 68 | [Smoke \(Reprise\)](https://open.spotify.com/track/5EBu8YZCabKgNlr5Kxy0Xw) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR II](https://open.spotify.com/album/3NwHGaFneaad7RHBKboeUw) | 1:37 |
-| 69 | [Cadillac Song](https://open.spotify.com/track/1sNw8GnBXbcpRE81JI9df4) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [My Everything](https://open.spotify.com/album/3AJFL1V5nHtDvH50DJtxZ3) | 2:50 |
-| 70 | [I'm The One](https://open.spotify.com/track/5lHK542W8im991c0y4Tcrs) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR II](https://open.spotify.com/album/3NwHGaFneaad7RHBKboeUw) | 3:29 |
-| 71 | [See You In My Dreams \(feat\. SZA\)](https://open.spotify.com/track/5sDYIz1pOavfbjfMVIMOzW) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Frequency Of Love](https://open.spotify.com/album/6uKjWjH2r2fsgfKaIsaYWw) | 2:38 |
+| 69 | [See You In My Dreams \(feat\. SZA\)](https://open.spotify.com/track/5sDYIz1pOavfbjfMVIMOzW) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Frequency Of Love](https://open.spotify.com/album/6uKjWjH2r2fsgfKaIsaYWw) | 2:38 |
+| 70 | [Cadillac Song](https://open.spotify.com/track/1sNw8GnBXbcpRE81JI9df4) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [My Everything](https://open.spotify.com/album/3AJFL1V5nHtDvH50DJtxZ3) | 2:50 |
+| 71 | [I'm The One](https://open.spotify.com/track/5lHK542W8im991c0y4Tcrs) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR II](https://open.spotify.com/album/3NwHGaFneaad7RHBKboeUw) | 3:29 |
 | 72 | [About My Issue](https://open.spotify.com/track/43u4zznE7dxdJqRS6aKu2F) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0), [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Paperwork \(Deluxe Explicit\)](https://open.spotify.com/album/6NJT4jSQtCoVAFhTmskP0h) | 4:24 |
 | 73 | [In My Bag](https://open.spotify.com/track/5aKvdpWyjO14xB04CTEpEw) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ) | [Space and Time](https://open.spotify.com/album/3FsgJirEdTynPXLGvct53E) | 3:28 |
 | 74 | [See the Light](https://open.spotify.com/track/4idUdNW28Rj7TZKk0zkrn1) | [Matrimony](https://open.spotify.com/artist/4V5UtbLYaFishr7psURF3Q) | [Montibello Memories](https://open.spotify.com/album/3Ov5WbIH9jN8mZ4z9wwTk3) | 3:35 |
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFNsJgooxLfdP.md) - [plain]
 | 90 | [Well I Do \(Interlude\)](https://open.spotify.com/track/3l555CfcMh4RUpTuPF8cZ6) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Nightmares & Lullabies Act 2](https://open.spotify.com/album/0De3mkwgF2lZdF4X5osS59) | 1:41 |
 | 91 | [90's Babies](https://open.spotify.com/track/7F1te2Bs6zaY9CzhowmGEo) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Nightmares & Lullabies Act 2](https://open.spotify.com/album/0De3mkwgF2lZdF4X5osS59) | 3:05 |
 | 92 | [Good Time x Trouble](https://open.spotify.com/track/7dZlFw9J5eK4hssDm0GIC6) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Nightmares & Lullabies \- Act 1](https://open.spotify.com/album/4w4O6rZqTzxz8yW2dIEnAA) | 4:35 |
-| 93 | [Cupid](https://open.spotify.com/track/1NgJe3trq3NaMWgb9YORMQ) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Nightmares & Lullabies Act 2](https://open.spotify.com/album/0De3mkwgF2lZdF4X5osS59) | 2:55 |
-| 94 | [Money \(Interlude\)](https://open.spotify.com/track/0fRBBaQ7N48zNplIJL8ll2) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Frequency Of Love](https://open.spotify.com/album/6uKjWjH2r2fsgfKaIsaYWw) | 1:26 |
+| 93 | [Money \(Interlude\)](https://open.spotify.com/track/0fRBBaQ7N48zNplIJL8ll2) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Frequency Of Love](https://open.spotify.com/album/6uKjWjH2r2fsgfKaIsaYWw) | 1:26 |
+| 94 | [Cupid](https://open.spotify.com/track/1NgJe3trq3NaMWgb9YORMQ) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Nightmares & Lullabies Act 2](https://open.spotify.com/album/0De3mkwgF2lZdF4X5osS59) | 2:55 |
 | 95 | [Dark Side Of The Moon \(Interlude\)](https://open.spotify.com/track/3Cw4mpHA23JED6evQOw2Xc) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Frequency Of Love](https://open.spotify.com/album/6uKjWjH2r2fsgfKaIsaYWw) | 0:37 |
 | 96 | [We Are People](https://open.spotify.com/track/4hliIBASRaoQWed8B6QY5P) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Nightmares & Lullabies \- Act 1](https://open.spotify.com/album/4w4O6rZqTzxz8yW2dIEnAA) | 3:27 |
 | 97 | [Backyard](https://open.spotify.com/track/1d94OrOOV6cog20FnChbg2) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Nightmares & Lullabies \- Act 1](https://open.spotify.com/album/4w4O6rZqTzxz8yW2dIEnAA) | 3:36 |
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFNsJgooxLfdP.md) - [plain]
 | 103 | [I'm The One \(Jingle Bells\)](https://open.spotify.com/track/1JgCZJT9mhWcZkerQVuRXY) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [A Jaguar II Christmas: The Orchestral Arrangements](https://open.spotify.com/album/6WVNnqHYc6pCrkXyXB7ai5) | 1:56 |
 | 104 | [Christmas in Hollywood](https://open.spotify.com/track/0ovd1Hjlnd1jUyMINunnKi) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [A Jaguar II Christmas: The Orchestral Arrangements](https://open.spotify.com/album/6WVNnqHYc6pCrkXyXB7ai5) | 2:59 |
 
-Snapshot ID: `AchrrAAAAAA0boW1bvewIlOHzNaM8hFd`
+Snapshot ID: `AchxTAAAAADPz/Qoiq5RGsR9/el9kKmg`

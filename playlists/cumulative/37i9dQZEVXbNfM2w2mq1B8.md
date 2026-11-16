@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Bulgaria.
 
-2,645 songs - 6 day 3 hr 31 min
+2,646 songs - 6 day 3 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -863,7 +863,7 @@
 | [Houdini](https://open.spotify.com/track/2HYFX63wP3otVIvopRS99Z) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Houdini](https://open.spotify.com/album/6Xuu2z00jxRPZei4IJ9neK) | 3:47 | 2024-06-01 | 2024-07-14 |
 | [Hours In Silence](https://open.spotify.com/track/0sSRLXxknVTQDStgU1NqpY) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 6:39 | 2022-11-05 | 2022-11-11 |
 | [House of Memories](https://open.spotify.com/track/2DgdHcjWmO3qd50RzuBLgZ) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Death of a Bachelor](https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj) | 3:28 | 2022-04-24 | 2022-06-15 |
-| [Housewife](https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Housewife](https://open.spotify.com/album/6JvmSyocXef7RZDZFaymNl) | 3:28 | 2026-10-17 |  |
+| [Housewife](https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Housewife](https://open.spotify.com/album/6JvmSyocXef7RZDZFaymNl) | 3:28 | 2026-10-17 | 2026-11-16 |
 | [HOW \- Unreleased Bonus](https://open.spotify.com/track/1yu4wwrUBAGVYjUlhwkmlP) | [V:RGO](https://open.spotify.com/artist/556XyBuO17TCo0Bviw5nCW), [Mishell](https://open.spotify.com/artist/4M47drOmnvyfjvu7H3TFH2) | [3/3, Vol\. 3](https://open.spotify.com/album/7DD5gSaNExnrTIC288V29q) | 2:34 | 2024-05-09 | 2024-05-11 |
 | [How Deep Is Your Love](https://open.spotify.com/track/22mek4IiqubGD9ctzxc69s) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Disciples](https://open.spotify.com/artist/5EehXjjMktLuJmbRsM7YfB) | [How Deep Is Your Love](https://open.spotify.com/album/3cG32DOXJoYlOHMmJIaQsm) | 3:32 | 2024-04-02 | 2024-07-05 |
 | [How Do I Make You Love Me?](https://open.spotify.com/track/2Ghp894n1laIf2w98VeAOJ) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:34 | 2022-01-08 | 2022-01-21 |
@@ -1760,7 +1760,7 @@
 | [Soaked](https://open.spotify.com/track/65zIby9Z03d1bhGvLNJNrA) | [Shy Smith](https://open.spotify.com/artist/4iIRGaMoqtdigrpCvLMKGb) | [Soaked](https://open.spotify.com/album/6cd80qsoUsGCmHasCswGhW) | 2:59 | 2024-02-20 | 2024-03-16 |
 | [Sofia Hills](https://open.spotify.com/track/788fXILjvTnAoHw4rtIJCA) | [FYRE](https://open.spotify.com/artist/5Qp3JNCRbT2jq54o50tq4F) | [Всекиму своето](https://open.spotify.com/album/5NplaKTDTEbAvDfrfmgFYl) | 3:32 | 2022-01-17 | 2022-08-27 |
 | [Sofia Hills 2](https://open.spotify.com/track/4x2ZIRc8vmRQXZ25gBuA3u) | [FYRE](https://open.spotify.com/artist/5Qp3JNCRbT2jq54o50tq4F) | [Sofia Hills 2](https://open.spotify.com/album/0lH0hg2NFvjtoHSnajaYJm) | 3:34 | 2023-10-06 | 2023-10-12 |
-| [Softcore](https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Hard To Imagine The Neighbourhood Ever Changing](https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy) | 3:26 | 2022-01-09 |  |
+| [Softcore](https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Hard To Imagine The Neighbourhood Ever Changing](https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy) | 3:26 | 2022-01-09 | 2026-11-16 |
 | [Solar Power](https://open.spotify.com/track/3KdoeNlEN0BoAKWzaRLNZa) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power](https://open.spotify.com/album/0pAF4Jr6MPQ2u0vqG2VOjd) | 3:12 | 2021-06-13 | 2021-06-16 |
 | [Solid \(feat\. Drake\)](https://open.spotify.com/track/6rTInqW3YECMkQsBEHw4sd) | [Young Stoner Life](https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Slime Language 2](https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC) | 3:35 | 2021-04-18 | 2021-04-26 |
 | [Solo](https://open.spotify.com/track/3xxjYOFR1y7By2wNDS51XV) | [BLANKA](https://open.spotify.com/artist/0ML3y0iBY1nq7HWAWP0EFm) | [Solo](https://open.spotify.com/album/4zX2oy6k4NLIThxb2Qp6LZ) | 2:34 | 2023-05-12 | 2023-05-17 |
@@ -2284,7 +2284,7 @@
 | [Да си ми ти](https://open.spotify.com/track/01od2Sgr1MUaspmEN0ewde) | [Galin](https://open.spotify.com/artist/5amPFw5XVlNzP7uSKBXtai) | [Да си ми ти](https://open.spotify.com/album/4GZg0uWDyJfzoXJWJqcA55) | 4:07 | 2022-01-05 | 2022-01-07 |
 | [Да си траят](https://open.spotify.com/track/6ARd0Qd8iunz6lNyYQZz4t) | [Tita](https://open.spotify.com/artist/5uOrQMWvhytvkjU7P3jgwV), [Djena](https://open.spotify.com/artist/07aV940tBFh4TthmbcjR3g) | [Да си траят](https://open.spotify.com/album/7iuDN1PT26uEOqzjoi5mF2) | 3:48 | 2021-05-17 | 2021-06-21 |
 | [Да си тук](https://open.spotify.com/track/4a0oV0MjoURyHnW1gz8qcg) | [Medi](https://open.spotify.com/artist/6sEfX6ntbBxeWBLggUMyyq) | [Да си тук \- Single](https://open.spotify.com/album/5yuDbOYBfw7DfzyvkkzFIM) | 3:37 | 2021-03-27\* | 2022-02-28 |
-| [Да си тук](https://open.spotify.com/track/5GeUnhnpp7NyhmBDlkvncd) | [Medi](https://open.spotify.com/artist/6sEfX6ntbBxeWBLggUMyyq) | [Да си тук](https://open.spotify.com/album/485bT5cjYdaONGp4RwtEDB) | 3:37 | 2026-03-11 | 2026-11-14 |
+| [Да си тук](https://open.spotify.com/track/5GeUnhnpp7NyhmBDlkvncd) | [Medi](https://open.spotify.com/artist/6sEfX6ntbBxeWBLggUMyyq) | [Да си тук](https://open.spotify.com/album/485bT5cjYdaONGp4RwtEDB) | 3:37 | 2026-03-11 |  |
 | [ДАЙ](https://open.spotify.com/track/0UhHVrEBaHWQXWEb5LTuGK) | [Emil TRF](https://open.spotify.com/artist/3zM12oJgWeFu7k2kl9I3UB), [JS](https://open.spotify.com/artist/3VNXb8KvI7QH5kq6jrNTLa) | [ДАЙ](https://open.spotify.com/album/5siZpJuY3aNsDNomfHZetW) | 2:24 | 2025-01-02 | 2025-02-02 |
 | [Дай Пари](https://open.spotify.com/track/1Zk36WsdidzAacKOtA2vQ4) | [Toni Storaro](https://open.spotify.com/artist/42APSc9etBGptl3otzihIZ) | [Дай Пари](https://open.spotify.com/album/2uUunQtjucMmDazVw6VynU) | 3:24 | 2025-12-03 | 2026-04-24 |
 | [Дале дале](https://open.spotify.com/track/0n0EI2pBX3dtF6MICMM6TC) | [Djordan](https://open.spotify.com/artist/4vczAVLBVJzhMndKRCsQls), [Tomas](https://open.spotify.com/artist/6Pu7616ebCHHPJkcpuiBZd) | [Дале дале](https://open.spotify.com/album/7CRtx8ujJFVrTLRYNkjknI) | 2:48 | 2025-08-15 | 2026-03-21 |
@@ -2384,6 +2384,7 @@
 | [Катинара](https://open.spotify.com/track/07semdYzIbyRJ28XhhPA7I) | [SIMONA](https://open.spotify.com/artist/6NtH0d4qlaU5FakRdrdNwq) | [Катинара](https://open.spotify.com/album/4bEbNkZ4pZq1XBcx1Ho9hy) | 2:52 | 2025-06-14 |  |
 | [Като мен](https://open.spotify.com/track/0ypymQDnbOUGK3h0P0SRVE) | [Papi Hans](https://open.spotify.com/artist/27szsMQxZzAUJrm5BmhaNY) | [Като мен](https://open.spotify.com/album/1LRrdtyt3fEjVp0iNAptHc) | 3:56 | 2022-04-23 | 2022-05-07 |
 | [Като преди](https://open.spotify.com/track/0nf8PqV3YPGbVyZWnDR9oA) | [Desi Slava](https://open.spotify.com/artist/1FYHEsfPuSTAOV5oK1CNXG), [Djordan](https://open.spotify.com/artist/4vczAVLBVJzhMndKRCsQls) | [Като преди](https://open.spotify.com/album/1bbDYtn6GLJatGb0AfpSVd) | 3:16 | 2023-12-03 | 2024-02-17 |
+| [Кафе](https://open.spotify.com/track/2lNHXijf6yi12AThmLDQ3c) | [Preslava](https://open.spotify.com/artist/2Dj0euYPa8eiI6Ee5VLBwg) | [Кафе](https://open.spotify.com/album/2W3O7gguMCFnUOFhxNN8l3) | 3:22 | 2026-11-15 |  |
 | [Кеш, кеш](https://open.spotify.com/track/2vuYIgU0KkIEAPGCPBPdh8) | [Selina](https://open.spotify.com/artist/583wxBpo6S1maGz1bqYekZ) | [Кеш, кеш](https://open.spotify.com/album/4CSOatJNTyaSI51brM2xPc) | 2:57 | 2026-05-19 |  |
 | [Когато те няма](https://open.spotify.com/track/7CW8Z1qou9zFwABZAv0Vui) | [Adam](https://open.spotify.com/artist/4OxMKohjemdbOjJHVGoudN) | [Когато те няма](https://open.spotify.com/album/2KXJRrSDs3ob5LiyeXKEgR) | 3:28 | 2022-10-12 | 2022-11-21 |
 | [Кокона](https://open.spotify.com/track/7qr5mzv5mvJjgeNorhxcEm) | [Ilian Boyd](https://open.spotify.com/artist/1LLZb3EzxafwHumGvgwy5u) | [Кокона](https://open.spotify.com/album/2IBQQsxgEwv8XB6TzkXCvg) | 3:12 | 2025-05-10 | 2025-07-03 |

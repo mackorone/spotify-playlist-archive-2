@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQLgwrlNRLz.md) - [plain]
 
 > Le plus chauds d'Afrique Francophone\. Cover: Baby Daiz & Tiakola
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,396 likes - 80 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,417 likes - 80 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,18 +73,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQLgwrlNRLz.md) - [plain]
 | 63 | [Champagne](https://open.spotify.com/track/02KQ3XZFUwq7B02nPS71fG) | [RJ Kanierra](https://open.spotify.com/artist/3bUA7po6oFl7sVyq6ukrlx) | [Champagne](https://open.spotify.com/album/3SMcEleyk37pji0boeVbSg) | 3:34 |
 | 64 | [Chebaba](https://open.spotify.com/track/2GrBcbY5ui7yYD9cz1qalO) | [DOUPI PAPILLON](https://open.spotify.com/artist/0Ndfw3wuP0M6OTL0jv96le) | [Chebaba](https://open.spotify.com/album/1oxFxatESpXiF5NxLToR74) | 3:22 |
 | 65 | [Katana \(feat\. Jungeli\)](https://open.spotify.com/track/7wdSNcLfqVXJHcECtEZ5ZI) | [Emma'a](https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx), [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7) | [Emma'a](https://open.spotify.com/album/492YAgwbV47RfRlhs2GA9w) | 2:04 |
-| 66 | [Ololo](https://open.spotify.com/track/60MmRAvElnYsbDv7fF4Lg3) | [Heaven Sam](https://open.spotify.com/artist/654ILatijxm7AEeqC6F2Aq), [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4), [Afro Live](https://open.spotify.com/artist/56NpbTj8WFa3zj7hnpp1Kx) | [Ololo](https://open.spotify.com/album/37MGKojMxN5l8hiJSIc5JR) | 2:54 |
-| 67 | [Posa Na Bina](https://open.spotify.com/track/08mU4zr52hOJR7ZyqS6Jmr) | [Hulk](https://open.spotify.com/artist/2D2Wm1oAJrDRzXVzxkyBOE) | [Posa Na Bina](https://open.spotify.com/album/1IP4dFk8PTKhyC2QUYBnw8) | 2:36 |
-| 68 | [Dady](https://open.spotify.com/track/7DYytjdsJPAtnIfjK3P2Nh) | [PSON](https://open.spotify.com/artist/1Fxk1V3Q9mWXoUKX1LnEAt), [Not3s](https://open.spotify.com/artist/40NRiKuuhj1pgGYppptlBO) | [Forgiveness](https://open.spotify.com/album/3YrpMaoOnkF0d4H7vJW7c4) | 2:59 |
+| 66 | [Dady](https://open.spotify.com/track/7DYytjdsJPAtnIfjK3P2Nh) | [PSON](https://open.spotify.com/artist/1Fxk1V3Q9mWXoUKX1LnEAt), [Not3s](https://open.spotify.com/artist/40NRiKuuhj1pgGYppptlBO) | [Forgiveness](https://open.spotify.com/album/3YrpMaoOnkF0d4H7vJW7c4) | 2:59 |
+| 67 | [Ololo](https://open.spotify.com/track/60MmRAvElnYsbDv7fF4Lg3) | [Heaven Sam](https://open.spotify.com/artist/654ILatijxm7AEeqC6F2Aq), [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4), [Afro Live](https://open.spotify.com/artist/56NpbTj8WFa3zj7hnpp1Kx) | [Ololo](https://open.spotify.com/album/37MGKojMxN5l8hiJSIc5JR) | 2:54 |
+| 68 | [Posa Na Bina](https://open.spotify.com/track/08mU4zr52hOJR7ZyqS6Jmr) | [Hulk](https://open.spotify.com/artist/2D2Wm1oAJrDRzXVzxkyBOE) | [Posa Na Bina](https://open.spotify.com/album/1IP4dFk8PTKhyC2QUYBnw8) | 2:36 |
 | 69 | [Mpiaka](https://open.spotify.com/track/6zb0KDfPWZPvL1SZPEoVDJ) | [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV) | [Mpiaka](https://open.spotify.com/album/2BUr0YXhxjIq3GGElU6izf) | 3:36 |
 | 70 | [Une histoire](https://open.spotify.com/track/3QPaMmRNvuAKYH9yMmmzLt) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Nazaland](https://open.spotify.com/album/2dJqPlx5FueJnUL6O1AYFc) | 2:53 |
 | 71 | [Bijou](https://open.spotify.com/track/5EXEDVRvpKJw3eQ4epRrD7) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7) | [Yebisa Bango / Bijou](https://open.spotify.com/album/1BBJSoccbyNXRurEYzZxn6) | 2:05 |
 | 72 | [MILLIONS](https://open.spotify.com/track/5jVNRVe4s6fyemCq82Bspt) | [L'Oiseau Rare](https://open.spotify.com/artist/4IAlTRWiKoAqAQLgyupL0U), [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [AFRO\-N\-TCHAM 1](https://open.spotify.com/album/2plqEQ8EuoEMhTxMhUwfgG) | 3:06 |
 | 73 | [No love](https://open.spotify.com/track/0LnXA52XqGjaITaGmIXJJp) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [No love](https://open.spotify.com/album/0n5zArvAPe7ZljF5p440pQ) | 3:22 |
 | 74 | [BRAND NEW](https://open.spotify.com/track/5qYAdm0GCganxCPKlbMlgS) | [Wantché](https://open.spotify.com/artist/12IHM2ppR26NmIUesKOGZQ), [Bilouki](https://open.spotify.com/artist/1NB6QyaNXhrDd82y0WyG3I) | [BRAND NEW](https://open.spotify.com/album/1tmap2Rtc9TQmtLjX8hPoe) | 2:11 |
-| 75 | [Pilé](https://open.spotify.com/track/3Vac8kKIqOTCEE3nuaIcec) | [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9) | [L'undertaker Part.1](https://open.spotify.com/album/5hgB3YhDFqOPsEd9WnWanj) | 2:36 |
+| 75 | [So Badd](https://open.spotify.com/track/6CSCKFY8fK9qzt37EuCbbO) | [Agatchu](https://open.spotify.com/artist/5ZQuf1hFcYWTqEJoWSkp65) | [So Badd](https://open.spotify.com/album/0K1pkeLRiTQF7FfaDvo9q6) | 2:29 |
 | 76 | [Yebisa Bango](https://open.spotify.com/track/3jXala0eZHs3iNJ44on0VO) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7) | [Yebisa Bango / Bijou](https://open.spotify.com/album/1BBJSoccbyNXRurEYzZxn6) | 2:29 |
-| 77 | [So Badd](https://open.spotify.com/track/6CSCKFY8fK9qzt37EuCbbO) | [Agatchu](https://open.spotify.com/artist/5ZQuf1hFcYWTqEJoWSkp65) | [So Badd](https://open.spotify.com/album/0K1pkeLRiTQF7FfaDvo9q6) | 2:29 |
+| 77 | [Pilé](https://open.spotify.com/track/3Vac8kKIqOTCEE3nuaIcec) | [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9) | [L'undertaker Part.1](https://open.spotify.com/album/5hgB3YhDFqOPsEd9WnWanj) | 2:36 |
 | 78 | [Oulala](https://open.spotify.com/track/0dFr0hDLBsFYBYZ7uqwelG) | [Kocee](https://open.spotify.com/artist/2kzxvChUUVpkgySPhCcUT6) | [Oulala](https://open.spotify.com/album/04a4hx64YQGoVHKAwPZVzQ) | 2:25 |
 | 79 | [Agent secret](https://open.spotify.com/track/30B10lRLJJkHttK73Ghyo5) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [Agent Secret](https://open.spotify.com/album/0XoS4VGmUz0yAlkirrl03X) | 2:44 |
 | 80 | [Effrayés](https://open.spotify.com/track/4ocjzDW1Ub8o6qCt39UFmU) | [Le D](https://open.spotify.com/artist/1q3qfgcLt7dhYNdWLEXgkX) | [Effrayés](https://open.spotify.com/album/0YxCQx9d9h4nvxLmX6BCjU) | 1:45 |

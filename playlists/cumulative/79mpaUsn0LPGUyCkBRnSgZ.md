@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-1,268 songs - 3 day 9 hr 56 min
+1,270 songs - 3 day 10 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,6 +200,7 @@
 | [Can't Get Enough \- 2015 Remaster](https://open.spotify.com/track/51pAliCZ3Mm7jiqgk12O5R) | [Bad Company](https://open.spotify.com/artist/5AEG63ajney2BoDXi0Vb84) | [Bad Company \(Remastered\)](https://open.spotify.com/album/5VknaZWiywvQJMpPOfB6tA) | 4:16 | 2022-05-18 |  |
 | [Can't Stand It](https://open.spotify.com/track/1QBbFLiBCOElhEJVhsMNcl) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Summerteeth](https://open.spotify.com/album/1JpaFJzzcsiulO6MdIcQdK) | 3:46 | 2023-04-19 | 2023-07-19 |
 | [Candy May](https://open.spotify.com/track/6akLn4Ruh89aJOKv9YiP4j) | [Alex Cameron](https://open.spotify.com/artist/6kGMx9MqwnbKR2EYvZvvrG) | [Forced Witness](https://open.spotify.com/album/3fjXYgK9vNOQaWCP01SLGt) | 4:08 | 2023-08-16 |  |
+| [Candy Shoppe](https://open.spotify.com/track/3arqQGuSd3iOva7BH6jLqm) | [Emeralds](https://open.spotify.com/artist/45btnwhUWFlR7Op5oTfDPv) | [Does It Look Like I'm Here?](https://open.spotify.com/album/69mR7YiwQTw7nvlFKBOp7Y) | 4:43 | 2026-11-15 |  |
 | [Capture The Flag](https://open.spotify.com/track/57WmTDCk4mWh3Mlca9OiyL) | [Broken Social Scene](https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd) | [You Forgot It In People](https://open.spotify.com/album/6nL0U84JsEJ0cRsGCnsDnJ) | 2:08 | 2024-01-19 | 2024-03-24 |
 | [Careful](https://open.spotify.com/track/63L9AjBDN3SOMbJlBkFqiZ) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Brand New Eyes](https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A) | 3:50 | 2023-03-11 |  |
 | [Carissa](https://open.spotify.com/track/4Ccs64wkyyYlst3mBiJm9B) | [Sun Kil Moon](https://open.spotify.com/artist/4G0XDEk7RbA4BBCTs917U9) | [Benji](https://open.spotify.com/album/2y2QZ4uDpzoZHgH2il5Ktu) | 6:55 | 2022-08-19 |  |
@@ -459,7 +460,7 @@
 | [Hello, There](https://open.spotify.com/track/6Hm0mU868o8cPVkQ7tOmFa) | [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW) | [Vintage Violence](https://open.spotify.com/album/2o7YjekcSP7yiLXfuSy0ly) | 2:44 | 2025-12-14 | 2026-09-11 |
 | [Hercules](https://open.spotify.com/track/15bg8bsx2AoqHu7hgRK6PU) | [Tracey Nelson](https://open.spotify.com/artist/7Ak3CpBzopE7eewhyodH7J) | [Hercules](https://open.spotify.com/album/5QWEWV25nYifxXjOYPkxjA) | 4:05 | 2026-08-17 |  |
 | [Heroes And Villains \- Remastered 2001](https://open.spotify.com/track/7BO7ZbaEmgCSSp3znPMxN4) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Smiley Smile \(Remastered\)](https://open.spotify.com/album/37rNuexqEXWeSIOiJtn3A9) | 3:39 | 2022-04-23 | 2023-08-06 |
-| [Hey Chicken](https://open.spotify.com/track/79lxyBUahh6PdMgRtKscFV) | [Loose Fur](https://open.spotify.com/artist/4OogVxC2vWAsXsTYXctXi1) | [Born Again In The USA](https://open.spotify.com/album/1aH9XaImGgHo9OYSSk9gYs) | 3:02 | 2026-09-13 |  |
+| [Hey Chicken](https://open.spotify.com/track/79lxyBUahh6PdMgRtKscFV) | [Loose Fur](https://open.spotify.com/artist/4OogVxC2vWAsXsTYXctXi1) | [Born Again In The USA](https://open.spotify.com/album/1aH9XaImGgHo9OYSSk9gYs) | 3:02 | 2026-09-13 | 2026-11-16 |
 | [Hey Mr\. Dogman!](https://open.spotify.com/track/1poEehfJMN4lQqSsXcBxNQ) | [Powerplant](https://open.spotify.com/artist/6Uh9lH1RiHWp6z8t2wXZDx) | [People in the Sun](https://open.spotify.com/album/28Oa0IXZyGHw0GpSLdkyk1) | 2:42 | 2026-01-15 |  |
 | [Hidden Place](https://open.spotify.com/track/5bnX0zhTVV1H5gNVjVhgaL) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Vespertine](https://open.spotify.com/album/5vBpIxm8ws6pWyVmTWiGE1) | 5:28 | 2022-09-30 | 2023-12-14 |
 | [Hidden Tableau](https://open.spotify.com/track/3i8wZgyyGnieoRknDKk2yU) | [Oren Ambarchi](https://open.spotify.com/artist/1fIzM2bmsXG77E5EMPtdKW) | [Cooked](https://open.spotify.com/album/0rqyaE19Aj47roRdxNDixw) | 21:41 | 2026-09-29 |  |
@@ -803,6 +804,7 @@
 | [Pangea](https://open.spotify.com/track/1DVrCUHIHQCKipeer1WnP0) | [Someone Still Loves You Boris Yeltsin](https://open.spotify.com/artist/28V657x2IVJnSW3Srw6Ubd) | [Broom](https://open.spotify.com/album/1UfpKUcPn3fHIF3g8OoApJ) | 2:48 | 2026-02-06 | 2026-02-17 |
 | [Pantyhose](https://open.spotify.com/track/7m6xr2HY0BYmBDTh2UIx02) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [French Exit](https://open.spotify.com/album/4Hai0uVzRbyTSaTPzxTY4e) | 2:57 | 2023-04-25 | 2023-05-11 |
 | [Papa Don't Preach](https://open.spotify.com/track/6A8OnjnpShshNpcqWtZRjr) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [True Blue](https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD) | 4:28 | 2025-09-20 | 2025-10-10 |
+| [Paraguaya](https://open.spotify.com/track/6BFpuCx0Hq9ZK2bZmo7l8v) | [Juana Molina](https://open.spotify.com/artist/76hliHkgP5eIbVqLT7NmQ3) | [Halo](https://open.spotify.com/album/1gNV7gHVMvM1XU0ZxrxRzL) | 3:43 | 2026-11-16 |  |
 | [PARANOIA INTRO](https://open.spotify.com/track/5cXQjDLQbbuQqJBRKvJqjW) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Cold Visions](https://open.spotify.com/album/5fjDXtY8tws1sbPFHw34pL) | 1:10 | 2024-05-28 |  |
 | [Parapet](https://open.spotify.com/track/1UtoWvSd1GdKLk5mbsbTIh) | [@](https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3) | [Mind Palace Music](https://open.spotify.com/album/7h3MMJMKzY03w8VVYgrYWr) | 1:30 | 2025-12-27 | 2026-01-01 |
 | [Partita for 8 Singers: 1\. Allemande](https://open.spotify.com/track/5UdY4qgRg3FEHdeRsR0kwi) | [Caroline Shaw](https://open.spotify.com/artist/3uUFClFtbjbjQQIq4BjY2C), [Roomful of Teeth](https://open.spotify.com/artist/3bzZhiUIN7300mrCcLsUBH), [Brad Wells](https://open.spotify.com/artist/30lPOBfWEOk8QnAHsx2eM6) | [Caroline Shaw: Partita for 8 Voices](https://open.spotify.com/album/34nuXpysKwp4l7sE3hBQBr) | 5:53 | 2025-10-08 | 2025-10-16 |

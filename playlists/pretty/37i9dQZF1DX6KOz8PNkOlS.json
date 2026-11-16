@@ -1,6 +1,6 @@
 {
   "description": "Transform your workspace into a cozy retreat with gentle tunes and warm vibes",
-  "num_followers": 595499,
+  "num_followers": 595524,
   "original_name": "Soft Office",
   "owner": {
     "name": "Spotify",
@@ -351,18 +351,22 @@
     {
       "added_at": "2026-11-06 06:00:07",
       "album": {
-        "name": "Eat You Alive",
-        "url": "https://open.spotify.com/album/4kQXEvj4Q6FLfgmkGgBwPf"
+        "name": "Too Good (Unknown Mortal Orchestra Remix)",
+        "url": "https://open.spotify.com/album/5PHJreAXfXiHlSEWigdeFN"
       },
       "artists": [
         {
-          "name": "Tokyo Tea Room",
-          "url": "https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD"
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        },
+        {
+          "name": "Unknown Mortal Orchestra",
+          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
         }
       ],
-      "duration_ms": 190000,
-      "name": "Eat You Alive",
-      "url": "https://open.spotify.com/track/1GnhDPcve5uOz4K8StzHtX"
+      "duration_ms": 235005,
+      "name": "Too Good - Unknown Mortal Orchestra Remix",
+      "url": "https://open.spotify.com/track/4jMmXKJjle1GD241r9s1oj"
     },
     {
       "added_at": "2026-11-06 06:00:07",
@@ -383,22 +387,18 @@
     {
       "added_at": "2026-11-06 06:00:07",
       "album": {
-        "name": "Too Good (Unknown Mortal Orchestra Remix)",
-        "url": "https://open.spotify.com/album/5PHJreAXfXiHlSEWigdeFN"
+        "name": "Eat You Alive",
+        "url": "https://open.spotify.com/album/4kQXEvj4Q6FLfgmkGgBwPf"
       },
       "artists": [
         {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        },
-        {
-          "name": "Unknown Mortal Orchestra",
-          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
+          "name": "Tokyo Tea Room",
+          "url": "https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD"
         }
       ],
-      "duration_ms": 235005,
-      "name": "Too Good - Unknown Mortal Orchestra Remix",
-      "url": "https://open.spotify.com/track/4jMmXKJjle1GD241r9s1oj"
+      "duration_ms": 190000,
+      "name": "Eat You Alive",
+      "url": "https://open.spotify.com/track/1GnhDPcve5uOz4K8StzHtX"
     },
     {
       "added_at": "2026-11-06 06:00:07",
@@ -835,22 +835,6 @@
     {
       "added_at": "2026-11-06 06:00:07",
       "album": {
-        "name": "XV A\u00d1OS DE REGGAE GORDO",
-        "url": "https://open.spotify.com/album/3at4JSF08mUQ9Pz8DznvWF"
-      },
-      "artists": [
-        {
-          "name": "Travelers All Stars",
-          "url": "https://open.spotify.com/artist/648TQGLrKzZRl8sxfcM6QH"
-        }
-      ],
-      "duration_ms": 170083,
-      "name": "Don\u00b4t Give Up",
-      "url": "https://open.spotify.com/track/3POhiweG6b0AEb07j2uiE2"
-    },
-    {
-      "added_at": "2026-11-06 06:00:07",
-      "album": {
         "name": "EL-MEAN",
         "url": "https://open.spotify.com/album/5dJhQ6lZr7IWiDs2ujk15J"
       },
@@ -883,6 +867,22 @@
     {
       "added_at": "2026-11-06 06:00:07",
       "album": {
+        "name": "XV A\u00d1OS DE REGGAE GORDO",
+        "url": "https://open.spotify.com/album/3at4JSF08mUQ9Pz8DznvWF"
+      },
+      "artists": [
+        {
+          "name": "Travelers All Stars",
+          "url": "https://open.spotify.com/artist/648TQGLrKzZRl8sxfcM6QH"
+        }
+      ],
+      "duration_ms": 170083,
+      "name": "Don\u00b4t Give Up",
+      "url": "https://open.spotify.com/track/3POhiweG6b0AEb07j2uiE2"
+    },
+    {
+      "added_at": "2026-11-06 06:00:07",
+      "album": {
         "name": "Eh\u00e9catl",
         "url": "https://open.spotify.com/album/5Jo4BoOirjVRMhZbbBrC5e"
       },
@@ -899,22 +899,6 @@
     {
       "added_at": "2026-11-06 06:00:07",
       "album": {
-        "name": "Love from the Other Side",
-        "url": "https://open.spotify.com/album/7Fbph706oR8vaTPcYYvp9n"
-      },
-      "artists": [
-        {
-          "name": "L'Imp\u00e9ratrice",
-          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
-        }
-      ],
-      "duration_ms": 249405,
-      "name": "Love from the Other Side",
-      "url": "https://open.spotify.com/track/49uLH3xvQLd4I4pCQacGH8"
-    },
-    {
-      "added_at": "2026-11-06 06:00:07",
-      "album": {
         "name": "Notes from a Quiet Life",
         "url": "https://open.spotify.com/album/4HYukOf0RGN2YotkEsMCue"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 176049,
       "name": "Wait on You",
       "url": "https://open.spotify.com/track/5LxSIqwKj8HAFsn2yZVm8O"
+    },
+    {
+      "added_at": "2026-11-06 06:00:07",
+      "album": {
+        "name": "Love from the Other Side",
+        "url": "https://open.spotify.com/album/7Fbph706oR8vaTPcYYvp9n"
+      },
+      "artists": [
+        {
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+        }
+      ],
+      "duration_ms": 249405,
+      "name": "Love from the Other Side",
+      "url": "https://open.spotify.com/track/49uLH3xvQLd4I4pCQacGH8"
     },
     {
       "added_at": "2026-11-06 06:00:07",
@@ -979,6 +979,22 @@
     {
       "added_at": "2026-11-06 06:00:07",
       "album": {
+        "name": "head down",
+        "url": "https://open.spotify.com/album/4nZeUiOozi6RueFN38jIyJ"
+      },
+      "artists": [
+        {
+          "name": "Habe",
+          "url": "https://open.spotify.com/artist/2BugRvdm3aasWYT3VthewW"
+        }
+      ],
+      "duration_ms": 148304,
+      "name": "head down",
+      "url": "https://open.spotify.com/track/39WOd2Pd0gaffvs6q347Xy"
+    },
+    {
+      "added_at": "2026-11-06 06:00:07",
+      "album": {
         "name": "Escrito en agua",
         "url": "https://open.spotify.com/album/6TLRkXnt12XuN7eX3uXL36"
       },
@@ -995,18 +1011,18 @@
     {
       "added_at": "2026-11-06 06:00:07",
       "album": {
-        "name": "head down",
-        "url": "https://open.spotify.com/album/4nZeUiOozi6RueFN38jIyJ"
+        "name": "Fuse",
+        "url": "https://open.spotify.com/album/5FQMRfSunEA660c3dYU2Mx"
       },
       "artists": [
         {
-          "name": "Habe",
-          "url": "https://open.spotify.com/artist/2BugRvdm3aasWYT3VthewW"
+          "name": "Everything But The Girl",
+          "url": "https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy"
         }
       ],
-      "duration_ms": 148304,
-      "name": "head down",
-      "url": "https://open.spotify.com/track/39WOd2Pd0gaffvs6q347Xy"
+      "duration_ms": 219240,
+      "name": "Run A Red Light",
+      "url": "https://open.spotify.com/track/74ixyNYERpYysIIIjcYGBK"
     },
     {
       "added_at": "2026-11-06 06:00:07",
@@ -1047,22 +1063,6 @@
     {
       "added_at": "2026-11-06 06:00:07",
       "album": {
-        "name": "Fuse",
-        "url": "https://open.spotify.com/album/5FQMRfSunEA660c3dYU2Mx"
-      },
-      "artists": [
-        {
-          "name": "Everything But The Girl",
-          "url": "https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy"
-        }
-      ],
-      "duration_ms": 219240,
-      "name": "Run A Red Light",
-      "url": "https://open.spotify.com/track/74ixyNYERpYysIIIjcYGBK"
-    },
-    {
-      "added_at": "2026-11-06 06:00:07",
-      "album": {
         "name": "Quisiera",
         "url": "https://open.spotify.com/album/4VBBhnahuowTQtwJPm4aqv"
       },
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2026-11-06 06:00:07",
       "album": {
+        "name": "Tuesday",
+        "url": "https://open.spotify.com/album/576ztM6ojdD8gFAlM8CXQo"
+      },
+      "artists": [
+        {
+          "name": "TYSON",
+          "url": "https://open.spotify.com/artist/10SYd6NatYImOQTxA88jdn"
+        }
+      ],
+      "duration_ms": 172320,
+      "name": "Tuesday",
+      "url": "https://open.spotify.com/track/6zCnQMobnm85NlmYwaj54Q"
+    },
+    {
+      "added_at": "2026-11-06 06:00:07",
+      "album": {
         "name": "M\u00e1s Cerquita",
         "url": "https://open.spotify.com/album/6K0PvWj8QYiMDQIGnDZ0Rk"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 179142,
       "name": "M\u00e1s Cerquita",
       "url": "https://open.spotify.com/track/4uBWOQCmYrXzkUvAPNrzob"
-    },
-    {
-      "added_at": "2026-11-06 06:00:07",
-      "album": {
-        "name": "Tuesday",
-        "url": "https://open.spotify.com/album/576ztM6ojdD8gFAlM8CXQo"
-      },
-      "artists": [
-        {
-          "name": "TYSON",
-          "url": "https://open.spotify.com/artist/10SYd6NatYImOQTxA88jdn"
-        }
-      ],
-      "duration_ms": 172320,
-      "name": "Tuesday",
-      "url": "https://open.spotify.com/track/6zCnQMobnm85NlmYwaj54Q"
     },
     {
       "added_at": "2026-11-06 06:00:07",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2026-11-06 06:00:07",
       "album": {
-        "name": "A-Game",
-        "url": "https://open.spotify.com/album/26rvF3JD6ZBdUJv3322c6A"
-      },
-      "artists": [
-        {
-          "name": "Brooke Combe",
-          "url": "https://open.spotify.com/artist/0JXwYf8x27ZfMO2gGuh6HO"
-        }
-      ],
-      "duration_ms": 191927,
-      "name": "A-Game",
-      "url": "https://open.spotify.com/track/0T39fS2m86sARmHc8skkGX"
-    },
-    {
-      "added_at": "2026-11-06 06:00:07",
-      "album": {
         "name": "AZUL EP",
         "url": "https://open.spotify.com/album/5lWsoyzMF7q2gmt0r0Jdp4"
       },
@@ -1195,6 +1179,22 @@
     {
       "added_at": "2026-11-06 06:00:07",
       "album": {
+        "name": "A-Game",
+        "url": "https://open.spotify.com/album/26rvF3JD6ZBdUJv3322c6A"
+      },
+      "artists": [
+        {
+          "name": "Brooke Combe",
+          "url": "https://open.spotify.com/artist/0JXwYf8x27ZfMO2gGuh6HO"
+        }
+      ],
+      "duration_ms": 191927,
+      "name": "A-Game",
+      "url": "https://open.spotify.com/track/0T39fS2m86sARmHc8skkGX"
+    },
+    {
+      "added_at": "2026-11-06 06:00:07",
+      "album": {
         "name": "Phosphorescent",
         "url": "https://open.spotify.com/album/0GgLzw8RdggLtLjpP4iSIE"
       },
@@ -1207,22 +1207,6 @@
       "duration_ms": 240449,
       "name": "Skylight",
       "url": "https://open.spotify.com/track/0kwBCyPQMZVdqpqhcv50JA"
-    },
-    {
-      "added_at": "2026-11-06 06:00:07",
-      "album": {
-        "name": "Sorry I Haven't Called",
-        "url": "https://open.spotify.com/album/5kTccsRBDxgf0Wgq4nb9PH"
-      },
-      "artists": [
-        {
-          "name": "Vagabon",
-          "url": "https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp"
-        }
-      ],
-      "duration_ms": 177733,
-      "name": "Lexicon",
-      "url": "https://open.spotify.com/track/0NprRZn1emMhdnHIOdsk0U"
     },
     {
       "added_at": "2026-11-06 06:00:07",
@@ -1259,6 +1243,22 @@
       "duration_ms": 224845,
       "name": "Colores Del Mar",
       "url": "https://open.spotify.com/track/0bYNCS0c6Uimpjcr2gswF0"
+    },
+    {
+      "added_at": "2026-11-06 06:00:07",
+      "album": {
+        "name": "Sorry I Haven't Called",
+        "url": "https://open.spotify.com/album/5kTccsRBDxgf0Wgq4nb9PH"
+      },
+      "artists": [
+        {
+          "name": "Vagabon",
+          "url": "https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp"
+        }
+      ],
+      "duration_ms": 177733,
+      "name": "Lexicon",
+      "url": "https://open.spotify.com/track/0NprRZn1emMhdnHIOdsk0U"
     },
     {
       "added_at": "2026-11-06 06:00:07",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2026-11-06 06:00:07",
       "album": {
-        "name": "Matina",
-        "url": "https://open.spotify.com/album/22Tb1zKcJiUELDEnSRA34A"
-      },
-      "artists": [
-        {
-          "name": "Zuaraz",
-          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
-        }
-      ],
-      "duration_ms": 128500,
-      "name": "Matina",
-      "url": "https://open.spotify.com/track/50DhWeIArP5tldIMUPtaVe"
-    },
-    {
-      "added_at": "2026-11-06 06:00:07",
-      "album": {
         "name": "Porvenir",
         "url": "https://open.spotify.com/album/26QGGhsiHOsXfCGpWwf9Dh"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 180388,
       "name": "Porvenir",
       "url": "https://open.spotify.com/track/2LKZIwpZK8TwlTsmzBW6ZI"
+    },
+    {
+      "added_at": "2026-11-06 06:00:07",
+      "album": {
+        "name": "Matina",
+        "url": "https://open.spotify.com/album/22Tb1zKcJiUELDEnSRA34A"
+      },
+      "artists": [
+        {
+          "name": "Zuaraz",
+          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
+        }
+      ],
+      "duration_ms": 128500,
+      "name": "Matina",
+      "url": "https://open.spotify.com/track/50DhWeIArP5tldIMUPtaVe"
     },
     {
       "added_at": "2026-11-06 06:00:07",

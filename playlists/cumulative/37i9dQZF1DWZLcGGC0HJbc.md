@@ -4,7 +4,7 @@
 
 > mindful genieten 🌱\. Cover: Sarah Julia
 
-344 songs - 20 hr 31 min
+345 songs - 20 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Big Black Car \- Cover](https://open.spotify.com/track/1gGTs9zEatXSNKwabDDrpD) | [Bertie Newman](https://open.spotify.com/artist/5FgAV3f4fiJ8tuztZ5eyWh), [Bradley Baker](https://open.spotify.com/artist/0L87ufcQdvOHWZbcrIaXcc) | [Big Black Car \(Cover\)](https://open.spotify.com/album/4bmokgLbihiveYrFGvvZrd) | 3:03 | 2025-02-03 | 2025-06-09 |
 | [Bigger Picture](https://open.spotify.com/track/0iFdtqVlV5piDnq0KUloCB) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Bigger Picture](https://open.spotify.com/album/7q4bQccI2jQ32LwE2ydM57) | 3:05 | 2026-03-02 |  |
 | [Black Hole](https://open.spotify.com/track/07gbjddL6AZ4PYKaviVMOQ) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw) | [the rest](https://open.spotify.com/album/1n0esOkFQdL74PwMwTVgtz) | 2:21 | 2024-06-27 | 2024-09-20 |
+| [Bloom](https://open.spotify.com/track/16eC6kYiQlUZRSfnARss5Q) | [uwase](https://open.spotify.com/artist/2QuwXg3dnpvGTMeoilcszr) | [Bloom](https://open.spotify.com/album/4GplUUKTt0yY6DDTjwGwm0) | 2:44 | 2026-11-12 |  |
 | [Blue](https://open.spotify.com/track/0PSliKcrngN9atHRe9sy8s) | [Ivy Falls](https://open.spotify.com/artist/3I6L2mDZUNbW1BZ5YNwqAv) | [Sense & Nonsense](https://open.spotify.com/album/49C201EMuA7vMN68BRphjn) | 4:07 | 2025-01-27 | 2026-09-11 |
 | [Body as a Meadow](https://open.spotify.com/track/0X1WV3X8xEf1Tt8nLBIWPi) | [AWKWARD i](https://open.spotify.com/artist/7A8U1UZFpc03H6UrSaX9wh) | [UNALASKA](https://open.spotify.com/album/2EfVQqJagb60EnAJNq1o9I) | 3:39 | 2025-01-23 | 2026-09-08 |
 | [Body as a Meadow](https://open.spotify.com/track/4mRShssMbisESekK0l63Z3) | [AWKWARD i](https://open.spotify.com/artist/7A8U1UZFpc03H6UrSaX9wh) | [Body as a meadow](https://open.spotify.com/album/5fS6k6t6Q8xF1Puwt6dlmE) | 3:39 | 2024-10-03 | 2024-10-23 |
@@ -256,7 +257,7 @@
 | [Science](https://open.spotify.com/track/63AnNQ9gQNOKbj6DN3sF4G) | [Boy & Bear](https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6), [Boo Seeka](https://open.spotify.com/artist/1SFz3S9eSUTc49ysstadiO) | [Science](https://open.spotify.com/album/2peHkYObRN3O5UZpr6IuTP) | 3:55 | 2025-01-27 |  |
 | [Seasons](https://open.spotify.com/track/0nagllCr1rwu7xgekjspi3) | [Jonah Capetown](https://open.spotify.com/artist/4OyvCG7MRNpX6VaVges7Ap) | [Seasons](https://open.spotify.com/album/07y8ZnWKVPn5mRdNb7zZ5p) | 2:33 | 2024-06-27 | 2025-03-16 |
 | [See You Later, I'm Gone](https://open.spotify.com/track/5XGzLK66FsXQo8udTbsEYE) | [Robert Lester Folsom](https://open.spotify.com/artist/5uQyXHg4ph7gNlnZHxt9kX) | [Ode to a Rainy Day: Archives 1972\-1975](https://open.spotify.com/album/0zL7odrtCctkeMf5OmLHZP) | 4:33 | 2026-07-07 |  |
-| [Seeing You](https://open.spotify.com/track/7jjQcyGSb1rNGdUmoQuBuk) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [Seeing You](https://open.spotify.com/album/5PMPqKGwQCGAbZhl9qdLbP) | 3:18 | 2025-10-17 |  |
+| [Seeing You](https://open.spotify.com/track/7jjQcyGSb1rNGdUmoQuBuk) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [Seeing You](https://open.spotify.com/album/5PMPqKGwQCGAbZhl9qdLbP) | 3:18 | 2025-10-17 | 2026-11-16 |
 | [Shake Off the Rain](https://open.spotify.com/track/0gVBrNtip58FmG1JlGwATM) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Shake Off the Rain](https://open.spotify.com/album/4zOqdbkSSn2PX7KMwdHxdh) | 4:42 | 2025-10-23 | 2026-09-08 |
 | [Shape of Tomorrow](https://open.spotify.com/track/426yKV0zjMdLNHb5o4SuUS) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [In Light](https://open.spotify.com/album/3TN0tiqlA7kj1o7FtJ08XV) | 3:34 | 2025-03-13 |  |
 | [She Says](https://open.spotify.com/track/5EJYO3Oa6qFUVcOOKB15w3) | [Eve Owen](https://open.spotify.com/artist/5K9H52DBfvfMzrskJkU4An) | [Don't Let The Ink Dry](https://open.spotify.com/album/7J1PTpRtEdcaUAlSFo4t7k) | 4:10 | 2025-07-03 | 2025-09-20 |

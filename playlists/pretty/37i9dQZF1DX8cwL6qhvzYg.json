@@ -1,6 +1,6 @@
 {
   "description": "Porque el barrio es el barrio y eso nadie lo va a cambiar \ud83d\ude0e\ud83d\udc83\ud83c\udffe\ud83d\udd7a\ud83c\udffe Carit BR en portada.",
-  "num_followers": 461246,
+  "num_followers": 461284,
   "original_name": "Fiesta de Barrio",
   "owner": {
     "name": "Spotify",
@@ -859,26 +859,6 @@
     {
       "added_at": "2026-11-13 18:45:23",
       "album": {
-        "name": "30 Aniversario",
-        "url": "https://open.spotify.com/album/7bYeeLp33ix2DiyM8f5It6"
-      },
-      "artists": [
-        {
-          "name": "Margarita la diosa de la cumbia",
-          "url": "https://open.spotify.com/artist/2vdi5RS6XV5Qy7J5GgDqgn"
-        },
-        {
-          "name": "Zaida y su Sonora La Tremenda",
-          "url": "https://open.spotify.com/artist/7jUKdlvwrJB1UDHMa7fP4x"
-        }
-      ],
-      "duration_ms": 259466,
-      "name": "Que nadie sepa mi sufrir (Amor de mis amores)",
-      "url": "https://open.spotify.com/track/6azC9WCgqehMj2tHoaa10b"
-    },
-    {
-      "added_at": "2026-11-13 18:45:23",
-      "album": {
         "name": "Cuando No Estas Conmigo",
         "url": "https://open.spotify.com/album/0rpNenvRSpG0ILgEFZSvym"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 201367,
       "name": "Cuando No Estas Conmigo",
       "url": "https://open.spotify.com/track/70jP2lO4kyktgLKQjE62Ak"
+    },
+    {
+      "added_at": "2026-11-13 18:45:23",
+      "album": {
+        "name": "30 Aniversario",
+        "url": "https://open.spotify.com/album/7bYeeLp33ix2DiyM8f5It6"
+      },
+      "artists": [
+        {
+          "name": "Margarita la diosa de la cumbia",
+          "url": "https://open.spotify.com/artist/2vdi5RS6XV5Qy7J5GgDqgn"
+        },
+        {
+          "name": "Zaida y su Sonora La Tremenda",
+          "url": "https://open.spotify.com/artist/7jUKdlvwrJB1UDHMa7fP4x"
+        }
+      ],
+      "duration_ms": 259466,
+      "name": "Que nadie sepa mi sufrir (Amor de mis amores)",
+      "url": "https://open.spotify.com/track/6azC9WCgqehMj2tHoaa10b"
     },
     {
       "added_at": "2026-11-13 18:45:23",
@@ -999,22 +999,6 @@
     {
       "added_at": "2026-11-13 18:45:23",
       "album": {
-        "name": "Negra Ron y Velas",
-        "url": "https://open.spotify.com/album/2CN4H5EWZliNhozx62mnWD"
-      },
-      "artists": [
-        {
-          "name": "Morgan Blanco",
-          "url": "https://open.spotify.com/artist/3ff3ZIeqM9LA1R0aPul14w"
-        }
-      ],
-      "duration_ms": 276199,
-      "name": "Negra Ron y Velas",
-      "url": "https://open.spotify.com/track/4WhZLHyENNOqKk0HOjTZLI"
-    },
-    {
-      "added_at": "2026-11-13 18:45:23",
-      "album": {
         "name": "Quisiera regresar a t\u00ed",
         "url": "https://open.spotify.com/album/0GM50rb8wZkUxA29aqWJPg"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 249498,
       "name": "Quisiera regresar a t\u00ed",
       "url": "https://open.spotify.com/track/2o722RzlVedUkzKRjr01IN"
+    },
+    {
+      "added_at": "2026-11-13 18:45:23",
+      "album": {
+        "name": "Negra Ron y Velas",
+        "url": "https://open.spotify.com/album/2CN4H5EWZliNhozx62mnWD"
+      },
+      "artists": [
+        {
+          "name": "Morgan Blanco",
+          "url": "https://open.spotify.com/artist/3ff3ZIeqM9LA1R0aPul14w"
+        }
+      ],
+      "duration_ms": 276199,
+      "name": "Negra Ron y Velas",
+      "url": "https://open.spotify.com/track/4WhZLHyENNOqKk0HOjTZLI"
     },
     {
       "added_at": "2026-11-13 18:45:23",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2026-11-13 18:45:23",
       "album": {
-        "name": "Cumbia de Marisol",
-        "url": "https://open.spotify.com/album/61sd5yEb8gDv6Ey9vHi0nE"
-      },
-      "artists": [
-        {
-          "name": "Supergrupo Son Tepito",
-          "url": "https://open.spotify.com/artist/2OsVjQ6haJx589IpLmpYBp"
-        }
-      ],
-      "duration_ms": 253266,
-      "name": "Cumbia de Marisol",
-      "url": "https://open.spotify.com/track/3S03VuRu7nAkPHisVB87ma"
-    },
-    {
-      "added_at": "2026-11-13 18:45:23",
-      "album": {
         "name": "Sus M\u00e1s Grandes \u00c9xitos, Vol. 2",
         "url": "https://open.spotify.com/album/60LUbwOhyXfoMZDOV1fXQv"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 235240,
       "name": "Cari\u00f1ito Sin MI",
       "url": "https://open.spotify.com/track/7zSluZ0cnnNomeIGYSThMm"
+    },
+    {
+      "added_at": "2026-11-13 18:45:23",
+      "album": {
+        "name": "Cumbia de Marisol",
+        "url": "https://open.spotify.com/album/61sd5yEb8gDv6Ey9vHi0nE"
+      },
+      "artists": [
+        {
+          "name": "Supergrupo Son Tepito",
+          "url": "https://open.spotify.com/artist/2OsVjQ6haJx589IpLmpYBp"
+        }
+      ],
+      "duration_ms": 253266,
+      "name": "Cumbia de Marisol",
+      "url": "https://open.spotify.com/track/3S03VuRu7nAkPHisVB87ma"
     },
     {
       "added_at": "2026-11-13 18:45:23",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2026-11-13 18:45:23",
       "album": {
-        "name": "Noches Oscuras",
-        "url": "https://open.spotify.com/album/5TJ4Loi2pZaTEfIqFpRh4B"
-      },
-      "artists": [
-        {
-          "name": "Grupo Yeah!",
-          "url": "https://open.spotify.com/artist/4kssNc4REeCjtcorA7rxt7"
-        }
-      ],
-      "duration_ms": 350511,
-      "name": "Noches Oscuras",
-      "url": "https://open.spotify.com/track/2Yr4K1V5LXpSMjWpQ6FGt9"
-    },
-    {
-      "added_at": "2026-11-13 18:45:23",
-      "album": {
         "name": "Sin Salsa No Hay Para\u00edso",
         "url": "https://open.spotify.com/album/2yc30O2X7cCE2LTzJCzO3l"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 281546,
       "name": "Achilip\u00fa",
       "url": "https://open.spotify.com/track/7sT08ys9gXDvYNyTP80zvs"
+    },
+    {
+      "added_at": "2026-11-13 18:45:23",
+      "album": {
+        "name": "Noches Oscuras",
+        "url": "https://open.spotify.com/album/5TJ4Loi2pZaTEfIqFpRh4B"
+      },
+      "artists": [
+        {
+          "name": "Grupo Yeah!",
+          "url": "https://open.spotify.com/artist/4kssNc4REeCjtcorA7rxt7"
+        }
+      ],
+      "duration_ms": 350511,
+      "name": "Noches Oscuras",
+      "url": "https://open.spotify.com/track/2Yr4K1V5LXpSMjWpQ6FGt9"
     },
     {
       "added_at": "2026-11-13 18:45:23",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2026-11-13 18:45:23",
       "album": {
-        "name": "Dile, Cuentale",
-        "url": "https://open.spotify.com/album/4KBZ7utamIypncr1uN6iqu"
-      },
-      "artists": [
-        {
-          "name": "Claudio Mor\u00e1n",
-          "url": "https://open.spotify.com/artist/7nhmhY1TyOa8drWz4O6tAO"
-        }
-      ],
-      "duration_ms": 250541,
-      "name": "Dile, Cuentale",
-      "url": "https://open.spotify.com/track/3zl1a8RoZZTYQGoeEaDjtb"
-    },
-    {
-      "added_at": "2026-11-13 18:45:23",
-      "album": {
         "name": "Mas Control",
         "url": "https://open.spotify.com/album/4Ni4cnbjZe1V6nBrjhDn4A"
       },
@@ -1611,18 +1595,18 @@
     {
       "added_at": "2026-11-13 18:45:23",
       "album": {
-        "name": "Sin Fronteras",
-        "url": "https://open.spotify.com/album/7zNROyJPmI1HfsO9QDCwd6"
+        "name": "Dile, Cuentale",
+        "url": "https://open.spotify.com/album/4KBZ7utamIypncr1uN6iqu"
       },
       "artists": [
         {
-          "name": "Su Majestad La Brissa",
-          "url": "https://open.spotify.com/artist/7a3iMWZsFMqrVItxwFVo5L"
+          "name": "Claudio Mor\u00e1n",
+          "url": "https://open.spotify.com/artist/7nhmhY1TyOa8drWz4O6tAO"
         }
       ],
-      "duration_ms": 151928,
-      "name": "16 Toneladas",
-      "url": "https://open.spotify.com/track/1XJV2D6qw73GMSAGcXu9nz"
+      "duration_ms": 250541,
+      "name": "Dile, Cuentale",
+      "url": "https://open.spotify.com/track/3zl1a8RoZZTYQGoeEaDjtb"
     },
     {
       "added_at": "2026-11-13 18:45:23",
@@ -1643,6 +1627,22 @@
       "duration_ms": 170500,
       "name": "Sera El Amor",
       "url": "https://open.spotify.com/track/4hi3efC8QrfV2PIJ8tE7sh"
+    },
+    {
+      "added_at": "2026-11-13 18:45:23",
+      "album": {
+        "name": "Sin Fronteras",
+        "url": "https://open.spotify.com/album/7zNROyJPmI1HfsO9QDCwd6"
+      },
+      "artists": [
+        {
+          "name": "Su Majestad La Brissa",
+          "url": "https://open.spotify.com/artist/7a3iMWZsFMqrVItxwFVo5L"
+        }
+      ],
+      "duration_ms": 151928,
+      "name": "16 Toneladas",
+      "url": "https://open.spotify.com/track/1XJV2D6qw73GMSAGcXu9nz"
     },
     {
       "added_at": "2026-11-13 18:45:23",
@@ -1955,26 +1955,6 @@
     {
       "added_at": "2026-11-13 18:45:23",
       "album": {
-        "name": "En Contacto (En Vivo)",
-        "url": "https://open.spotify.com/album/10ZH2j3ykzI8n6v5WPklQD"
-      },
-      "artists": [
-        {
-          "name": "Javier Rosas",
-          "url": "https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE"
-        },
-        {
-          "name": "Contacto Norte",
-          "url": "https://open.spotify.com/artist/5yMyvfg5YKQGx4EpUrcZbU"
-        }
-      ],
-      "duration_ms": 172608,
-      "name": "El Agua Clara - En Vivo",
-      "url": "https://open.spotify.com/track/1oNWnAu0CzUsB9GuBfKkWU"
-    },
-    {
-      "added_at": "2026-11-13 18:45:23",
-      "album": {
         "name": "Me Voy al Amanecer",
         "url": "https://open.spotify.com/album/0jGxlPzfSQvzY8y7MRurlr"
       },
@@ -1991,6 +1971,26 @@
       "duration_ms": 202029,
       "name": "Me Voy al Amanecer",
       "url": "https://open.spotify.com/track/044OjTSoQNelqaMaq7adLT"
+    },
+    {
+      "added_at": "2026-11-13 18:45:23",
+      "album": {
+        "name": "En Contacto (En Vivo)",
+        "url": "https://open.spotify.com/album/10ZH2j3ykzI8n6v5WPklQD"
+      },
+      "artists": [
+        {
+          "name": "Javier Rosas",
+          "url": "https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE"
+        },
+        {
+          "name": "Contacto Norte",
+          "url": "https://open.spotify.com/artist/5yMyvfg5YKQGx4EpUrcZbU"
+        }
+      ],
+      "duration_ms": 172608,
+      "name": "El Agua Clara - En Vivo",
+      "url": "https://open.spotify.com/track/1oNWnAu0CzUsB9GuBfKkWU"
     },
     {
       "added_at": "2026-11-13 18:45:23",

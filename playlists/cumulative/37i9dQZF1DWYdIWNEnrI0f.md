@@ -4,7 +4,7 @@
 
 > Let Japanese beats guide you into a calm and blissful evening\. / 心地よい夜を過ごすための日本製ビートサウンド
 
-90 songs - 4 hr 31 min
+91 songs - 4 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [balance](https://open.spotify.com/track/4mJcc7iXKgVP7gZxQs3dNr) | [BROCKBEATS](https://open.spotify.com/artist/0DrshpbzI0ItncVhYZ2BtW) | [balance](https://open.spotify.com/album/40ewMDtpcM95qQaPRIPVrN) | 3:07 | 2025-10-24 | 2026-07-19 |
 | [Beautiful Life](https://open.spotify.com/track/0p4iFPBrB5lq4XypkIDnLU) | [Rikinish](https://open.spotify.com/artist/5p0u2sKqe1dMosR65Pumks) | [GRANDMA](https://open.spotify.com/album/2Daec6JlmOMfNkMCzcuTui) | 4:11 | 2025-10-24 | 2026-10-07 |
 | [Bweyy](https://open.spotify.com/track/7jNIcMRDjKsOzqkVnnw1oL) | [Mndsgn](https://open.spotify.com/artist/4GcpBLY8g8NrmimWbssM26), [Swarvy](https://open.spotify.com/artist/1fmXn9ezSrVGjHSVc6ItcL) | [breatharian](https://open.spotify.com/album/0VtIDkYv8JNDTVh48a9GP0) | 1:18 | 2025-10-24 |  |
+| [Charkha](https://open.spotify.com/track/3liZ06vph05WBRvfHOBbeL) | [EVISBEATS](https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc), [Nagipan](https://open.spotify.com/artist/6judDBSYKSSJENpZ83zoVS) | [Charkha](https://open.spotify.com/album/31ouM4szIlnqPacpyqLpmM) | 2:59 | 2026-11-15 |  |
 | [Chess Flow](https://open.spotify.com/track/3HtEAL9JC5o1aaS0drr4fk) | [Slowmo Friends](https://open.spotify.com/artist/1GPDa2aInN4QlYRrD6qnLH) | [Chess Flow](https://open.spotify.com/album/0EsTiQtGZxSovqo6Y5EhP2) | 2:20 | 2025-10-24 |  |
 | [Clair de lune](https://open.spotify.com/track/5R7OTQUvO9M4tAvfN3C80W) | [Bajune Tobeta](https://open.spotify.com/artist/1fAAIQj0OEjNlUeGTW26W7) | [Clair de lune](https://open.spotify.com/album/1TvDFq4IjYInEpg2b5yfrY) | 3:24 | 2025-10-24 |  |
 | [Clutch](https://open.spotify.com/track/7M2YumoAHuH684xZICZlCC) | [CO\-MA](https://open.spotify.com/artist/32JeU19j6OcAwsPpI1dYSt), [Melanie Faye](https://open.spotify.com/artist/4pcfFC9isxezJyTwbV1nIp) | [A Journey Beyond Time](https://open.spotify.com/album/0lH8ty5RoGVQtWiXQAKgyq) | 2:15 | 2026-10-05 |  |
@@ -94,7 +95,7 @@
 | [Yosei](https://open.spotify.com/track/2kW5HMJTeGkaWuYqYv1ASP) | [EVISBEATS](https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc), [Nagipan](https://open.spotify.com/artist/6judDBSYKSSJENpZ83zoVS) | [岡潔 \(Oka Kiyoshi\)](https://open.spotify.com/album/54ie8dvZJk5c6WgNHIsM6Q) | 3:01 | 2026-02-10 | 2026-09-24 |
 | [Yves](https://open.spotify.com/track/4WPkKMDMWFrkKpth3KwLb2) | [Sinj Clarke](https://open.spotify.com/artist/7jDSOef767oJaystnbMU4Q) | [Yves](https://open.spotify.com/album/3iLLjXJhwzrnkO7x2s5YoI) | 5:19 | 2025-10-24 |  |
 | [zero](https://open.spotify.com/track/3g8uAk8FFwlOlFp90Lwxw4) | [invisible design](https://open.spotify.com/artist/0PGLAS23Jf5WcA4xaCmxLM) | [zero](https://open.spotify.com/album/0nVdaf3JEWpctIcv0nyFQz) | 2:27 | 2025-10-24 | 2026-01-06 |
-| [ゆれる \- Instrumental\-](https://open.spotify.com/track/6wqBWgnLdQxwjrQOCphIzD) | [EVISBEATS](https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc) | [Sketchbook](https://open.spotify.com/album/58hj3WxFm2UOKw5s1ukfHY) | 3:08 | 2025-10-24 |  |
+| [ゆれる \- Instrumental\-](https://open.spotify.com/track/6wqBWgnLdQxwjrQOCphIzD) | [EVISBEATS](https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc) | [Sketchbook](https://open.spotify.com/album/58hj3WxFm2UOKw5s1ukfHY) | 3:08 | 2025-10-24 | 2026-11-16 |
 | [アルゴリズム \(Algorithm\)](https://open.spotify.com/track/5EO2F73atj1IigcN6nPGMv) | [EVISBEATS](https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc), [Nagipan](https://open.spotify.com/artist/6judDBSYKSSJENpZ83zoVS) | [アルゴリズム \(Algorithm\)](https://open.spotify.com/album/3KaAWv5vYooRAcYWwLc5UY) | 3:27 | 2026-04-10 | 2026-09-01 |
 | [波紋](https://open.spotify.com/track/4t3ll0AOpVc4wAUakoDEtT) | [EVISBEATS](https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc), [Nagipan](https://open.spotify.com/artist/6judDBSYKSSJENpZ83zoVS) | [波紋](https://open.spotify.com/album/2ehOsRK8RmkbK47XllQ8L8) | 3:09 | 2025-10-24 |  |
 | [迷いの森](https://open.spotify.com/track/5hyzs0L6FPxvdJIZLN5eyn) | [Olive Oil](https://open.spotify.com/artist/10wpBaBV9o6cEGr1FnmYIH), [CHANNY D](https://open.spotify.com/artist/23FsJf4Uv89b1kPtqqsUFr) | [迷いの森](https://open.spotify.com/album/1xaXJ6OxH8fYZ00wMiwZT7) | 5:26 | 2025-10-24 | 2026-08-18 |

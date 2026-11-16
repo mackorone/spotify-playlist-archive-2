@@ -6216,7 +6216,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 220316,
       "name": "Crescents and the Torch",
       "url": "https://open.spotify.com/track/64XDJcykwUPjYXSvSHbhXv"
@@ -11730,6 +11730,24 @@
       "duration_ms": 223674,
       "name": "FSU",
       "url": "https://open.spotify.com/track/6LNu8Kp0Binqalakqg6GjZ"
+    },
+    {
+      "album": {
+        "name": "FSU",
+        "url": "https://open.spotify.com/album/2UCXLu1MVY5xKrqrhZQsVb"
+      },
+      "artists": [
+        {
+          "name": "Grommet",
+          "url": "https://open.spotify.com/artist/0fXjvXTc3xf5JC6a6peB20"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151734,
+      "name": "FSU",
+      "url": "https://open.spotify.com/track/7cUrY0Y5RmPezuFvCotNSQ"
     },
     {
       "album": {
@@ -21088,6 +21106,24 @@
       "duration_ms": 301371,
       "name": "Mourning The Dawn",
       "url": "https://open.spotify.com/track/0AvzlxMd2IEXZEQXNBtQNm"
+    },
+    {
+      "album": {
+        "name": "Oracle XXV",
+        "url": "https://open.spotify.com/album/21M2mUU4EMbq4bSyKDBk44"
+      },
+      "artists": [
+        {
+          "name": "Kittie",
+          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269992,
+      "name": "Mouthful Of Poison XXV",
+      "url": "https://open.spotify.com/track/3WGtvzjWBUZnO7EJSpPeSu"
     },
     {
       "album": {
@@ -33974,7 +34010,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 296953,
       "name": "Unalive",
       "url": "https://open.spotify.com/track/12jO5byKu95z7ZO7h7KGP2"

@@ -1,6 +1,6 @@
 {
   "description": "longe dos perigos noturnos",
-  "num_followers": 128255,
+  "num_followers": 128254,
   "original_name": "dengo",
   "owner": {
     "name": "Spotify",
@@ -315,22 +315,6 @@
     {
       "added_at": "2026-08-07 14:25:39",
       "album": {
-        "name": "My Boy",
-        "url": "https://open.spotify.com/album/6EI6Jmvat5PFCYXi8Cc9BD"
-      },
-      "artists": [
-        {
-          "name": "TEEKS",
-          "url": "https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ"
-        }
-      ],
-      "duration_ms": 254015,
-      "name": "My Boy",
-      "url": "https://open.spotify.com/track/6zCOiqpJqq3IJ3zv075e1P"
-    },
-    {
-      "added_at": "2026-08-07 14:25:39",
-      "album": {
         "name": "To Whom This May Concern",
         "url": "https://open.spotify.com/album/7mwyiTViOEtAtOeoilQ3QG"
       },
@@ -351,38 +335,18 @@
     {
       "added_at": "2026-08-07 14:25:39",
       "album": {
-        "name": "AIN'T U TIRED? (with Muni Long)",
-        "url": "https://open.spotify.com/album/7n7FoM7nC98uihlxb87OUX"
+        "name": "My Boy",
+        "url": "https://open.spotify.com/album/6EI6Jmvat5PFCYXi8Cc9BD"
       },
       "artists": [
         {
-          "name": "Jessie Reyez",
-          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
-        },
-        {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+          "name": "TEEKS",
+          "url": "https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ"
         }
       ],
-      "duration_ms": 221000,
-      "name": "AIN'T U TIRED? (with Muni Long)",
-      "url": "https://open.spotify.com/track/2WJ0xtMr2AVWfBWFAmtxdd"
-    },
-    {
-      "added_at": "2026-08-07 14:25:39",
-      "album": {
-        "name": "When The City Sleeps",
-        "url": "https://open.spotify.com/album/7AQJyREmqZhnetWVX9ubhj"
-      },
-      "artists": [
-        {
-          "name": "Alex Isley",
-          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
-        }
-      ],
-      "duration_ms": 209302,
-      "name": "Maybe Again",
-      "url": "https://open.spotify.com/track/4gBywkTx4P6ieTplo0euFO"
+      "duration_ms": 254015,
+      "name": "My Boy",
+      "url": "https://open.spotify.com/track/6zCOiqpJqq3IJ3zv075e1P"
     },
     {
       "added_at": "2026-08-07 14:25:39",
@@ -407,18 +371,38 @@
     {
       "added_at": "2026-08-07 14:25:39",
       "album": {
-        "name": "Lil' Obsession",
-        "url": "https://open.spotify.com/album/4w5kf2SU2JQ6NV0CZcTpTt"
+        "name": "When The City Sleeps",
+        "url": "https://open.spotify.com/album/7AQJyREmqZhnetWVX9ubhj"
       },
       "artists": [
         {
-          "name": "BOY SODA",
-          "url": "https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW"
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
         }
       ],
-      "duration_ms": 181921,
-      "name": "Lil' Obsession",
-      "url": "https://open.spotify.com/track/0GCXmACrAH2yDE8g3Fvuqn"
+      "duration_ms": 209302,
+      "name": "Maybe Again",
+      "url": "https://open.spotify.com/track/4gBywkTx4P6ieTplo0euFO"
+    },
+    {
+      "added_at": "2026-08-07 14:25:39",
+      "album": {
+        "name": "AIN'T U TIRED? (with Muni Long)",
+        "url": "https://open.spotify.com/album/7n7FoM7nC98uihlxb87OUX"
+      },
+      "artists": [
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        },
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "duration_ms": 221000,
+      "name": "AIN'T U TIRED? (with Muni Long)",
+      "url": "https://open.spotify.com/track/2WJ0xtMr2AVWfBWFAmtxdd"
     },
     {
       "added_at": "2026-08-07 14:25:39",
@@ -435,6 +419,22 @@
       "duration_ms": 256855,
       "name": "Pressha",
       "url": "https://open.spotify.com/track/7KNcY52YH6VFnYYabMgxLM"
+    },
+    {
+      "added_at": "2026-08-07 14:25:39",
+      "album": {
+        "name": "Lil' Obsession",
+        "url": "https://open.spotify.com/album/4w5kf2SU2JQ6NV0CZcTpTt"
+      },
+      "artists": [
+        {
+          "name": "BOY SODA",
+          "url": "https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW"
+        }
+      ],
+      "duration_ms": 181921,
+      "name": "Lil' Obsession",
+      "url": "https://open.spotify.com/track/0GCXmACrAH2yDE8g3Fvuqn"
     },
     {
       "added_at": "2026-08-07 14:25:39",
@@ -675,22 +675,6 @@
     {
       "added_at": "2026-08-07 14:25:39",
       "album": {
-        "name": "BERNARR.",
-        "url": "https://open.spotify.com/album/3mwj7hNvVWw3wKcJzZZEVm"
-      },
-      "artists": [
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        }
-      ],
-      "duration_ms": 211993,
-      "name": "My Life",
-      "url": "https://open.spotify.com/track/0zxEQlq4FRzOpfJQCItVNE"
-    },
-    {
-      "added_at": "2026-08-07 14:25:39",
-      "album": {
         "name": "Waiting In Vain (Spotify Singles)",
         "url": "https://open.spotify.com/album/5zlUBlDmY6dM4XFlZ3SFVs"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 252573,
       "name": "Waiting in Vain - Spotify Singles",
       "url": "https://open.spotify.com/track/5tHipIzrGqcoZ4ovlW1Aip"
+    },
+    {
+      "added_at": "2026-08-07 14:25:39",
+      "album": {
+        "name": "BERNARR.",
+        "url": "https://open.spotify.com/album/3mwj7hNvVWw3wKcJzZZEVm"
+      },
+      "artists": [
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "duration_ms": 211993,
+      "name": "My Life",
+      "url": "https://open.spotify.com/track/0zxEQlq4FRzOpfJQCItVNE"
     },
     {
       "added_at": "2026-08-07 14:25:39",
@@ -863,22 +863,6 @@
     {
       "added_at": "2026-08-07 14:25:39",
       "album": {
-        "name": "moonlit room",
-        "url": "https://open.spotify.com/album/4fNpiEQNMa4ehobympXbQi"
-      },
-      "artists": [
-        {
-          "name": "UMI",
-          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
-        }
-      ],
-      "duration_ms": 250679,
-      "name": "moonlit room",
-      "url": "https://open.spotify.com/track/5KzBH7THRVKCCmkMp1tazw"
-    },
-    {
-      "added_at": "2026-08-07 14:25:39",
-      "album": {
         "name": "Slow (feat. J Valentine)",
         "url": "https://open.spotify.com/album/2URY7aT8Ig8jxhlXK3bWOl"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 200212,
       "name": "Slow (feat. J Valentine)",
       "url": "https://open.spotify.com/track/78t5Br2LpRmlisvBzxE4mZ"
+    },
+    {
+      "added_at": "2026-08-07 14:25:39",
+      "album": {
+        "name": "moonlit room",
+        "url": "https://open.spotify.com/album/4fNpiEQNMa4ehobympXbQi"
+      },
+      "artists": [
+        {
+          "name": "UMI",
+          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
+        }
+      ],
+      "duration_ms": 250679,
+      "name": "moonlit room",
+      "url": "https://open.spotify.com/track/5KzBH7THRVKCCmkMp1tazw"
     },
     {
       "added_at": "2026-08-07 14:25:39",

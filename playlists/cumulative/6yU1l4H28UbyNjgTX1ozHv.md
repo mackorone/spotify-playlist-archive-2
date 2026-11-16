@@ -4,7 +4,7 @@
 
 > Driving songs acoustic style! Sit back and enjoy the ride!
 
-342 songs - 17 hr 27 min
+343 songs - 17 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [...Baby One More Time \- Acoustic](https://open.spotify.com/track/66lXR0yNwRhV3LuxjZ1Y95) | [The Canyon Run](https://open.spotify.com/artist/58ZUxhY97JlL7EXNsoevGZ) | [...Baby One More Time \(Acoustic\)](https://open.spotify.com/album/22ynSBd5mSfHlYTjuThit2) | 2:46 | 2024-09-21 | 2025-02-08 |
 | [1973 \- Acoustic](https://open.spotify.com/track/4DCHszO57DZHgvqalfoITR) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [All the Lost Souls](https://open.spotify.com/album/3obQJSWpREwvi19TTAvM5v) | 3:29 | 2019-10-13 |  |
 | [2002 \- Acoustic](https://open.spotify.com/track/67hLk2IWPV2kHXlbP8I79Q) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [Unplugged Acoustic, Vol\. 2](https://open.spotify.com/album/7bmh7DWf51dbPB5pDVjyIQ) | 2:25 | 2019-10-13 | 2024-07-06 |
-| [A Kind of Magic \- Acoustic](https://open.spotify.com/track/1z1XJNl0Ews2aiZlph0GJW) | [Paul Canning](https://open.spotify.com/artist/6KJzTOkw6FCQx81JK09TJN) | [A Kind of Magic \(Acoustic\)](https://open.spotify.com/album/1GZVYTu9TmdOYU1V8NEtR8) | 3:19 | 2026-09-19 |  |
+| [A Kind of Magic \- Acoustic](https://open.spotify.com/track/1z1XJNl0Ews2aiZlph0GJW) | [Paul Canning](https://open.spotify.com/artist/6KJzTOkw6FCQx81JK09TJN) | [A Kind of Magic \(Acoustic\)](https://open.spotify.com/album/1GZVYTu9TmdOYU1V8NEtR8) | 3:19 | 2026-09-19 | 2026-11-16 |
 | [Africa \- Acoustic](https://open.spotify.com/track/2oUb1OhVJ4JusGBn3qqFWU) | [Tyler Ward](https://open.spotify.com/artist/5Hc9oDGvStNGmnj44m8sHg), [Lisa Cimorelli](https://open.spotify.com/artist/3LnKjRAWZqaSyJnHqc05Rq) | [he said\. she said.](https://open.spotify.com/album/2fPoRKXtIhmc70zJlDrTY2) | 3:18 | 2021-08-01 |  |
 | [Against All Odds \- Acoustic](https://open.spotify.com/track/0Y1KPA4rxDDgbupSjHJyGe) | [Kevin Simm](https://open.spotify.com/artist/1CuoMwkIXKILoyW9dIXziU) | [Against All Odds \(Acoustic\)](https://open.spotify.com/album/1eE0hgn59NGe5auS2kRQO0) | 3:17 | 2025-01-10 |  |
 | [Ain't Nobody \- Acoustic](https://open.spotify.com/track/5WjvEQDGeckLD5BfsE3QnR) | [Kevin Simm](https://open.spotify.com/artist/1CuoMwkIXKILoyW9dIXziU), [Jae Hall](https://open.spotify.com/artist/1rxN6Kd4PGaLmhhW8ktW3d) | [Ain't Nobody \(Acoustic\)](https://open.spotify.com/album/43zIXrsyryxFsZhrTQooND) | 3:04 | 2023-02-10 | 2023-02-28 |
@@ -27,6 +27,7 @@
 | [Are You Lonesome Tonight \- Acoustic](https://open.spotify.com/track/66YElTd7MwaseFmQrl7fml) | [Mack Myles](https://open.spotify.com/artist/3Z3DcVvd27IgmmFqkV7WoW) | [Are You Lonesome Tonight \(Acoustic\)](https://open.spotify.com/album/2TcO9xgFjQFpuxIHpLazvO) | 2:45 | 2022-07-19 | 2023-02-02 |
 | [Are You Ready For Love \- Acoustic](https://open.spotify.com/track/1gSYByMOpWmlDoZbDWkoCY) | [Grace George](https://open.spotify.com/artist/5twhJoJJtAOsHl6KQjji8Z) | [Are You Ready For Love \(Acoustic\)](https://open.spotify.com/album/7y3h4tQvfsi20zAYLvHZlu) | 3:37 | 2023-09-01 | 2024-01-13 |
 | [Arthur's Theme \(Best That You Can Do\)](https://open.spotify.com/track/1SF2bj3uabmtHL3l6kpUjY) | [Plamina](https://open.spotify.com/artist/7x6A8huMVnPZ5wAzlw6HSp) | [Arthur's Theme \(Best That You Can Do\)](https://open.spotify.com/album/5DlRpjorDGkHQPmWJYceGq) | 3:36 | 2025-08-25 |  |
+| [Arthur's Theme \- Acoustic](https://open.spotify.com/track/2fI52JFsNuybJF5Lt7iBve) | [Paul Canning](https://open.spotify.com/artist/6KJzTOkw6FCQx81JK09TJN) | [Arthur's Theme \(Acoustic\)](https://open.spotify.com/album/41o634NA0lCb91LoSB1y8T) | 2:39 | 2026-11-15 |  |
 | [As Long As You Love Me \- Acoustic](https://open.spotify.com/track/25WqOFXGafpwxSb19RwXOP) | [Grace George](https://open.spotify.com/artist/5twhJoJJtAOsHl6KQjji8Z) | [As Long As You Love Me \(Acoustic\)](https://open.spotify.com/album/6LqspkIxvToYsWW9H8vGxH) | 3:16 | 2024-01-12 | 2024-11-04 |
 | [As Long As You Love Me \- Acoustic](https://open.spotify.com/track/4MeIqmkDUpzCNh25g7PaYN) | [Jae Hall](https://open.spotify.com/artist/1rxN6Kd4PGaLmhhW8ktW3d) | [As Long As You Love Me \(Acoustic\)](https://open.spotify.com/album/4TOEnObzWo2hprdRapk6Jc) | 2:38 | 2025-06-14 | 2025-07-14 |
 | [Baby I Love You](https://open.spotify.com/track/1tIRAawWBRIcOUqbu4pxt7) | [Paul Canning](https://open.spotify.com/artist/6KJzTOkw6FCQx81JK09TJN) | [Baby I Love You](https://open.spotify.com/album/3Y21Y9YDCryfDO6lhSmWRS) | 3:14 | 2025-07-05 | 2025-11-29 |

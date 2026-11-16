@@ -3775,6 +3775,24 @@
     },
     {
       "album": {
+        "name": "TOUGH ACT TO FOLLOW",
+        "url": "https://open.spotify.com/album/6sEddEBgaoufGwSBTRGD4i"
+      },
+      "artists": [
+        {
+          "name": "Lily Rose",
+          "url": "https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3"
+        }
+      ],
+      "date_added": "2026-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196671,
+      "name": "TOUGH ACT TO FOLLOW",
+      "url": "https://open.spotify.com/track/6UNYxJ3tYP0NOghZCAiKuB"
+    },
+    {
+      "album": {
         "name": "WildHorse",
         "url": "https://open.spotify.com/album/12TcV1G3QfZ48XweN8kyp4"
       },

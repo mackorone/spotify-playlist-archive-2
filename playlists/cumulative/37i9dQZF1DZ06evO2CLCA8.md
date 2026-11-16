@@ -4,7 +4,7 @@
 
 > This is Tom Petty and the Heartbreakers\. The essential tracks, all in one playlist.
 
-134 songs - 8 hr 26 min
+135 songs - 8 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,11 +94,12 @@
 | [Mystery of Love](https://open.spotify.com/track/3Q3a1YNSrQCUvAxnzUJWp3) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Mojo \(Extra Mojo Version\)](https://open.spotify.com/album/5Vd6FI8d0ZMXyrJUdCsCSP) | 4:05 | 2023-11-10 | 2024-02-02 |
 | [Needles And Pins \- Live At The The Forum/1981](https://open.spotify.com/track/6Alshe3WYMVZRbYWgijYWT) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Pack Up The Plantation: Live!](https://open.spotify.com/album/5HutXQpnb17yRXVnrolKR0) | 2:25 | 2022-10-17 |  |
 | [Never Be You](https://open.spotify.com/track/03u3Z8WrbsVpsiJtJSvzXe) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Long After Dark \(Deluxe Edition\)](https://open.spotify.com/album/1TgxyUIYTkxIMKhJqktzAQ) | 3:55 | 2024-10-20 | 2025-06-25 |
-| [Nightwatchman](https://open.spotify.com/track/7xXplDt8DI9L2kmZvVSzZ7) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Hard Promises](https://open.spotify.com/album/5OO8oMupaMhIZhMrEM8ja3) | 3:57 | 2022-06-19 |  |
+| [Nightwatchman](https://open.spotify.com/track/7xXplDt8DI9L2kmZvVSzZ7) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Hard Promises](https://open.spotify.com/album/5OO8oMupaMhIZhMrEM8ja3) | 3:57 | 2022-06-19 | 2026-11-16 |
 | [No Reason to Cry](https://open.spotify.com/track/0lG9clpLuNyQs9XfJd4EFF) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Mojo](https://open.spotify.com/album/1x0nxFkOWytBolK91qkUSJ) | 3:04 | 2022-03-29 | 2022-03-31 |
 | [Nowhere](https://open.spotify.com/track/61chTBkjt6A8GsrXOojdPV) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Damn The Torpedoes \(Deluxe Edition\)](https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b) | 3:38 | 2022-08-15 | 2022-08-26 |
 | [Out In The Cold](https://open.spotify.com/track/3m8w70z3xjmSjpc30Bn2T2) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Into The Great Wide Open](https://open.spotify.com/album/42G5ULkCRRl3crJMlg6eKd) | 3:41 | 2022-01-16 | 2026-08-27 |
 | [Parade Of Loons](https://open.spotify.com/track/4d26ASDWApFAknkgKppZbk) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Parade Of Loons](https://open.spotify.com/album/0KK6yCEZxgq41fQibK2MQH) | 3:03 | 2026-09-20 |  |
+| [Pre\-Show \- Live At The Record Plant, Sausalito, CA / April 23, 1977](https://open.spotify.com/track/1atJvGCbhwNO0uMPPGQsTE) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Origins 1971\-1978](https://open.spotify.com/album/2yADEJKwZP4vta8iEKmG8z) | 0:44 | 2026-11-16 |  |
 | [Rebels](https://open.spotify.com/track/1QN5cKoYlEkJ4aMBfqDqXe) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Southern Accents](https://open.spotify.com/album/2uslG8GJwri1ewdlK2Uuv4) | 5:21 | 2022-01-11 |  |
 | [Red River](https://open.spotify.com/track/2JnQvMvZyV8c2fiLMKHZ80) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Hypnotic Eye](https://open.spotify.com/album/55dSc0Ry199sq95DwnHFFa) | 3:59 | 2022-01-11 | 2022-01-26 |
 | [Refugee](https://open.spotify.com/track/4mcZYzoGwPRDdhWVlygiHf) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Damn The Torpedoes \(Deluxe Edition\)](https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b) | 3:21 | 2022-01-11 |  |

@@ -343,22 +343,6 @@
     {
       "added_at": "2026-04-04 06:06:32",
       "album": {
-        "name": "Live: One Last Time",
-        "url": "https://open.spotify.com/album/4q02ycz7FsngzsYDtjaIMc"
-      },
-      "artists": [
-        {
-          "name": "The Clark Sisters",
-          "url": "https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE"
-        }
-      ],
-      "duration_ms": 258373,
-      "name": "You Brought The Sunshine - Live",
-      "url": "https://open.spotify.com/track/2yK4879j9Q1XnJio6ETqJV"
-    },
-    {
-      "added_at": "2026-04-04 06:06:32",
-      "album": {
         "name": "Free To Worship",
         "url": "https://open.spotify.com/album/50pXzic1y0A1fLXp8ktvkr"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 289333,
       "name": "This Is The Day",
       "url": "https://open.spotify.com/track/0LniKzo1ZyVzqbBecrkmXe"
+    },
+    {
+      "added_at": "2026-04-04 06:06:32",
+      "album": {
+        "name": "Live: One Last Time",
+        "url": "https://open.spotify.com/album/4q02ycz7FsngzsYDtjaIMc"
+      },
+      "artists": [
+        {
+          "name": "The Clark Sisters",
+          "url": "https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE"
+        }
+      ],
+      "duration_ms": 258373,
+      "name": "You Brought The Sunshine - Live",
+      "url": "https://open.spotify.com/track/2yK4879j9Q1XnJio6ETqJV"
     },
     {
       "added_at": "2026-04-04 06:06:32",
@@ -891,18 +891,22 @@
     {
       "added_at": "2026-04-04 06:06:32",
       "album": {
-        "name": "Resilience",
-        "url": "https://open.spotify.com/album/65mjXtPcrYhjhc1JwfJTPt"
+        "name": "Verity Records: The First Decade, A Celebration Of Christmas",
+        "url": "https://open.spotify.com/album/0nn0Wkf7YNHAZzgW0qirAx"
       },
       "artists": [
         {
-          "name": "Brian Courtney Wilson",
-          "url": "https://open.spotify.com/artist/5K2BdUwQNqXy70BX2L8BQx"
+          "name": "Hezekiah Walker",
+          "url": "https://open.spotify.com/artist/0pXt4sMs2oRnt528LTYgyd"
+        },
+        {
+          "name": "The Love Fellowship Crusade Choir",
+          "url": "https://open.spotify.com/artist/3xrX4BvsX5AqroXDkwVmw1"
         }
       ],
-      "duration_ms": 241413,
-      "name": "Worth Fighting For - 1 Mic 1 Take",
-      "url": "https://open.spotify.com/track/7qF4oWmfFcJZm1lWnTJB3S"
+      "duration_ms": 290026,
+      "name": "Born To Die",
+      "url": "https://open.spotify.com/track/5LhzfQIdF2E7WQvRQNH3TB"
     },
     {
       "added_at": "2026-04-04 06:06:32",
@@ -923,6 +927,22 @@
     {
       "added_at": "2026-04-04 06:06:32",
       "album": {
+        "name": "Resilience",
+        "url": "https://open.spotify.com/album/65mjXtPcrYhjhc1JwfJTPt"
+      },
+      "artists": [
+        {
+          "name": "Brian Courtney Wilson",
+          "url": "https://open.spotify.com/artist/5K2BdUwQNqXy70BX2L8BQx"
+        }
+      ],
+      "duration_ms": 241413,
+      "name": "Worth Fighting For - 1 Mic 1 Take",
+      "url": "https://open.spotify.com/track/7qF4oWmfFcJZm1lWnTJB3S"
+    },
+    {
+      "added_at": "2026-04-04 06:06:32",
+      "album": {
         "name": "Tunnel Vision",
         "url": "https://open.spotify.com/album/36OUmfH7fvxdjJL1Zhkr8v"
       },
@@ -935,26 +955,6 @@
       "duration_ms": 237280,
       "name": "Always Jesus",
       "url": "https://open.spotify.com/track/4aGRQYEtZySJ5KRnBU6Yfn"
-    },
-    {
-      "added_at": "2026-04-04 06:06:32",
-      "album": {
-        "name": "Verity Records: The First Decade, A Celebration Of Christmas",
-        "url": "https://open.spotify.com/album/0nn0Wkf7YNHAZzgW0qirAx"
-      },
-      "artists": [
-        {
-          "name": "Hezekiah Walker",
-          "url": "https://open.spotify.com/artist/0pXt4sMs2oRnt528LTYgyd"
-        },
-        {
-          "name": "The Love Fellowship Crusade Choir",
-          "url": "https://open.spotify.com/artist/3xrX4BvsX5AqroXDkwVmw1"
-        }
-      ],
-      "duration_ms": 290026,
-      "name": "Born To Die",
-      "url": "https://open.spotify.com/track/5LhzfQIdF2E7WQvRQNH3TB"
     },
     {
       "added_at": "2026-04-04 06:06:32",
@@ -979,6 +979,22 @@
     {
       "added_at": "2026-04-04 06:06:32",
       "album": {
+        "name": "The Essential Fred Hammond",
+        "url": "https://open.spotify.com/album/4tjopW7OcRx04doP9Pgke7"
+      },
+      "artists": [
+        {
+          "name": "Fred Hammond",
+          "url": "https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484"
+        }
+      ],
+      "duration_ms": 244653,
+      "name": "Celebrate (He Lives)",
+      "url": "https://open.spotify.com/track/1HK61zJJWpppOHE7jZQwYm"
+    },
+    {
+      "added_at": "2026-04-04 06:06:32",
+      "album": {
         "name": "My Tribute",
         "url": "https://open.spotify.com/album/3CbTWKbmQz0kJnALoC5qsB"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 300800,
       "name": "Take Me Back (feat. Kirk Franklin & Kelontae Gavin)",
       "url": "https://open.spotify.com/track/6rdU89wSvs8KqkQjsbnpa7"
-    },
-    {
-      "added_at": "2026-04-04 06:06:32",
-      "album": {
-        "name": "The Essential Fred Hammond",
-        "url": "https://open.spotify.com/album/4tjopW7OcRx04doP9Pgke7"
-      },
-      "artists": [
-        {
-          "name": "Fred Hammond",
-          "url": "https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484"
-        }
-      ],
-      "duration_ms": 244653,
-      "name": "Celebrate (He Lives)",
-      "url": "https://open.spotify.com/track/1HK61zJJWpppOHE7jZQwYm"
     },
     {
       "added_at": "2026-04-04 06:06:32",
@@ -1180,9 +1180,9 @@
           "url": "https://open.spotify.com/artist/2r7fA3DrMO5JXl3uoOLkaN"
         }
       ],
-      "duration_ms": 496133,
-      "name": "The Old Rugged Cross",
-      "url": "https://open.spotify.com/track/5aDPMyBFhThZrjRJXrrGy7"
+      "duration_ms": 450840,
+      "name": "Cherish The Cross",
+      "url": "https://open.spotify.com/track/7BranHqbktqdiojkd0r07A"
     },
     {
       "added_at": "2026-04-04 06:06:32",
@@ -1260,9 +1260,9 @@
           "url": "https://open.spotify.com/artist/2r7fA3DrMO5JXl3uoOLkaN"
         }
       ],
-      "duration_ms": 450840,
-      "name": "Cherish The Cross",
-      "url": "https://open.spotify.com/track/7BranHqbktqdiojkd0r07A"
+      "duration_ms": 496133,
+      "name": "The Old Rugged Cross",
+      "url": "https://open.spotify.com/track/5aDPMyBFhThZrjRJXrrGy7"
     },
     {
       "added_at": "2026-04-04 06:06:32",

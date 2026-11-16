@@ -1,6 +1,6 @@
 {
   "description": "Pegue seu caf\u00e9, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.",
-  "num_followers": 809983,
+  "num_followers": 809994,
   "original_name": "Cafezinho",
   "owner": {
     "name": "Spotify",
@@ -519,6 +519,22 @@
     {
       "added_at": "2026-10-23 15:37:39",
       "album": {
+        "name": "Sua Onda",
+        "url": "https://open.spotify.com/album/2aQRL0B3OTraPeCftGgK4I"
+      },
+      "artists": [
+        {
+          "name": "Marisa Monte",
+          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
+        }
+      ],
+      "duration_ms": 216410,
+      "name": "Sua Onda",
+      "url": "https://open.spotify.com/track/0aRDSJHPIyPBGfOqxkLyTE"
+    },
+    {
+      "added_at": "2026-10-23 15:37:39",
+      "album": {
         "name": "Proposta",
         "url": "https://open.spotify.com/album/6kV4cGFJFBrm8xWk9RqKWD"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 224720,
       "name": "Proposta",
       "url": "https://open.spotify.com/track/7nnOpLkOGevWX6BYxs2xnP"
-    },
-    {
-      "added_at": "2026-10-23 15:37:39",
-      "album": {
-        "name": "Sua Onda",
-        "url": "https://open.spotify.com/album/2aQRL0B3OTraPeCftGgK4I"
-      },
-      "artists": [
-        {
-          "name": "Marisa Monte",
-          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
-        }
-      ],
-      "duration_ms": 216410,
-      "name": "Sua Onda",
-      "url": "https://open.spotify.com/track/0aRDSJHPIyPBGfOqxkLyTE"
     },
     {
       "added_at": "2026-10-23 15:37:39",
@@ -603,6 +603,22 @@
     {
       "added_at": "2026-10-23 15:37:39",
       "album": {
+        "name": "Ofert\u00f3rio (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3PlAbFQa9MEymxTgQC51wv"
+      },
+      "artists": [
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "duration_ms": 200045,
+      "name": "Reconvexo - Ao Vivo",
+      "url": "https://open.spotify.com/track/1yiQ58cQrQH2xLF2AuvFq2"
+    },
+    {
+      "added_at": "2026-10-23 15:37:39",
+      "album": {
         "name": "Preciso Dizer Que Te Amo",
         "url": "https://open.spotify.com/album/73TRVmgZ7pFUwLUYHzJinp"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 233990,
       "name": "Preciso Dizer Que Te Amo",
       "url": "https://open.spotify.com/track/347uerQudKYIl3pOrtnDwa"
-    },
-    {
-      "added_at": "2026-10-23 15:37:39",
-      "album": {
-        "name": "Ofert\u00f3rio (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3PlAbFQa9MEymxTgQC51wv"
-      },
-      "artists": [
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        }
-      ],
-      "duration_ms": 200045,
-      "name": "Reconvexo - Ao Vivo",
-      "url": "https://open.spotify.com/track/1yiQ58cQrQH2xLF2AuvFq2"
     },
     {
       "added_at": "2026-10-23 15:37:39",
@@ -703,22 +703,6 @@
     {
       "added_at": "2026-10-23 15:37:39",
       "album": {
-        "name": "claraboia",
-        "url": "https://open.spotify.com/album/78YxhXedN9CkDBEvBW7HNm"
-      },
-      "artists": [
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        }
-      ],
-      "duration_ms": 186326,
-      "name": "est\u00e1tua de m\u00e1rmore",
-      "url": "https://open.spotify.com/track/1SWmKvrC13wQpASlKJHPzu"
-    },
-    {
-      "added_at": "2026-10-23 15:37:39",
-      "album": {
         "name": "V\u00eanus ou Urano",
         "url": "https://open.spotify.com/album/0ssQblTZnokL6My66du4bc"
       },
@@ -735,18 +719,34 @@
     {
       "added_at": "2026-10-23 15:37:39",
       "album": {
-        "name": "Por Pouco (Bit Box)",
-        "url": "https://open.spotify.com/album/0h4xTADMMdMSOQraeakiEC"
+        "name": "claraboia",
+        "url": "https://open.spotify.com/album/78YxhXedN9CkDBEvBW7HNm"
       },
       "artists": [
         {
-          "name": "Mundo Livre S/A",
-          "url": "https://open.spotify.com/artist/7dLXGClVfy10Ug57dZE0iC"
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
         }
       ],
-      "duration_ms": 259480,
-      "name": "Meu Esquema",
-      "url": "https://open.spotify.com/track/5hO3HgwIygwqjkGsw6wdP3"
+      "duration_ms": 186326,
+      "name": "est\u00e1tua de m\u00e1rmore",
+      "url": "https://open.spotify.com/track/1SWmKvrC13wQpASlKJHPzu"
+    },
+    {
+      "added_at": "2026-10-23 15:37:39",
+      "album": {
+        "name": "Pra Gente Acordar",
+        "url": "https://open.spotify.com/album/2IoDCH4Y4KTTTm399IUwzI"
+      },
+      "artists": [
+        {
+          "name": "Gilsons",
+          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
+        }
+      ],
+      "duration_ms": 156906,
+      "name": "Voltar \u00e0 Bahia",
+      "url": "https://open.spotify.com/track/4pGs8iERniTESwC4pl6bXr"
     },
     {
       "added_at": "2026-10-23 15:37:39",
@@ -767,6 +767,22 @@
     {
       "added_at": "2026-10-23 15:37:39",
       "album": {
+        "name": "Por Pouco (Bit Box)",
+        "url": "https://open.spotify.com/album/0h4xTADMMdMSOQraeakiEC"
+      },
+      "artists": [
+        {
+          "name": "Mundo Livre S/A",
+          "url": "https://open.spotify.com/artist/7dLXGClVfy10Ug57dZE0iC"
+        }
+      ],
+      "duration_ms": 259480,
+      "name": "Meu Esquema",
+      "url": "https://open.spotify.com/track/5hO3HgwIygwqjkGsw6wdP3"
+    },
+    {
+      "added_at": "2026-10-23 15:37:39",
+      "album": {
         "name": "Ofert\u00f3rio (Ao Vivo)",
         "url": "https://open.spotify.com/album/3PlAbFQa9MEymxTgQC51wv"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 176562,
       "name": "O Le\u00e3ozinho - Ao Vivo Em S\u00e3o Paulo / 2017",
       "url": "https://open.spotify.com/track/3ejU8JMenktibKkNz9dPBL"
-    },
-    {
-      "added_at": "2026-10-23 15:37:39",
-      "album": {
-        "name": "Pra Gente Acordar",
-        "url": "https://open.spotify.com/album/2IoDCH4Y4KTTTm399IUwzI"
-      },
-      "artists": [
-        {
-          "name": "Gilsons",
-          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
-        }
-      ],
-      "duration_ms": 156906,
-      "name": "Voltar \u00e0 Bahia",
-      "url": "https://open.spotify.com/track/4pGs8iERniTESwC4pl6bXr"
     },
     {
       "added_at": "2026-10-23 15:37:39",
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2026-10-23 15:37:39",
       "album": {
-        "name": "Sede Pra Te Ver (Ac\u00fastica)",
-        "url": "https://open.spotify.com/album/7BlOX3pSGZHdVI5YyU8ZMf"
+        "name": "Ax\u00e9 Bab\u00e1",
+        "url": "https://open.spotify.com/album/5c7O2fNHtkRRFKLB6nrTgN"
       },
       "artists": [
         {
-          "name": "Breno Miranda",
-          "url": "https://open.spotify.com/artist/1BEwyy7IePkvyJpA1WSw1n"
+          "name": "Alexandre Le\u00e3o",
+          "url": "https://open.spotify.com/artist/5CmKyE7NjtR9qBq8HilUd8"
         }
       ],
-      "duration_ms": 180050,
-      "name": "Sede Pra Te Ver - Ac\u00fastica",
-      "url": "https://open.spotify.com/track/0P1JJk72Sb8o9d18SltaUS"
+      "duration_ms": 211253,
+      "name": "Vumbora Amar",
+      "url": "https://open.spotify.com/track/56qoy2jHvVhU9BVQn218dQ"
     },
     {
       "added_at": "2026-10-23 15:37:39",

@@ -1,6 +1,6 @@
 {
   "description": "Oblique: Angular. Asymmetrical. Experimental.",
-  "num_followers": 209674,
+  "num_followers": 209681,
   "original_name": "Oblique",
   "owner": {
     "name": "Spotify",
@@ -363,22 +363,6 @@
     {
       "added_at": "2026-11-05 23:09:18",
       "album": {
-        "name": "Renacer",
-        "url": "https://open.spotify.com/album/7qKcHXbgt8Jy7Rc4tZv1b5"
-      },
-      "artists": [
-        {
-          "name": "Los \u00c1rboles Mentirosos",
-          "url": "https://open.spotify.com/artist/5lV4P5M7zfo78N6IBB67nK"
-        }
-      ],
-      "duration_ms": 316576,
-      "name": "Renacer",
-      "url": "https://open.spotify.com/track/7FmCz9t1VBcDgqBqXlh2M5"
-    },
-    {
-      "added_at": "2026-11-05 23:09:18",
-      "album": {
         "name": "Rose Main Reading Room",
         "url": "https://open.spotify.com/album/1m7kJbZRrcxbMtWUOPqGVE"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 219562,
       "name": "Lie In the Gutter",
       "url": "https://open.spotify.com/track/0E6iIMjKE4h1y9jApdHcjM"
+    },
+    {
+      "added_at": "2026-11-05 23:09:18",
+      "album": {
+        "name": "Renacer",
+        "url": "https://open.spotify.com/album/7qKcHXbgt8Jy7Rc4tZv1b5"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1rboles Mentirosos",
+          "url": "https://open.spotify.com/artist/5lV4P5M7zfo78N6IBB67nK"
+        }
+      ],
+      "duration_ms": 316576,
+      "name": "Renacer",
+      "url": "https://open.spotify.com/track/7FmCz9t1VBcDgqBqXlh2M5"
     },
     {
       "added_at": "2026-11-05 23:09:18",
@@ -595,6 +595,22 @@
     {
       "added_at": "2026-11-05 23:09:18",
       "album": {
+        "name": "Something in the Room She Moves",
+        "url": "https://open.spotify.com/album/0SVglM3r51P5teNFrQ9WOE"
+      },
+      "artists": [
+        {
+          "name": "Julia Holter",
+          "url": "https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E"
+        }
+      ],
+      "duration_ms": 378289,
+      "name": "Something in the Room She Moves",
+      "url": "https://open.spotify.com/track/4q1wNhAe6axDOjReaCmOA3"
+    },
+    {
+      "added_at": "2026-11-05 23:09:18",
+      "album": {
         "name": "Organs",
         "url": "https://open.spotify.com/album/76u3zEekWcNipqChvHjTkc"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 287403,
       "name": "Organs",
       "url": "https://open.spotify.com/track/6HcEgKWXGnsXTKLFYozdOO"
-    },
-    {
-      "added_at": "2026-11-05 23:09:18",
-      "album": {
-        "name": "Something in the Room She Moves",
-        "url": "https://open.spotify.com/album/0SVglM3r51P5teNFrQ9WOE"
-      },
-      "artists": [
-        {
-          "name": "Julia Holter",
-          "url": "https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E"
-        }
-      ],
-      "duration_ms": 378289,
-      "name": "Something in the Room She Moves",
-      "url": "https://open.spotify.com/track/4q1wNhAe6axDOjReaCmOA3"
     },
     {
       "added_at": "2026-11-05 23:09:18",
@@ -867,22 +867,6 @@
     {
       "added_at": "2026-11-05 23:09:18",
       "album": {
-        "name": "Follow the Cyborg",
-        "url": "https://open.spotify.com/album/1u4u2LCBocqNltaY4Q2lli"
-      },
-      "artists": [
-        {
-          "name": "Miss Grit",
-          "url": "https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD"
-        }
-      ],
-      "duration_ms": 229183,
-      "name": "Nothing's Wrong",
-      "url": "https://open.spotify.com/track/1BHffF1YV6e1pMyjaujmvT"
-    },
-    {
-      "added_at": "2026-11-05 23:09:18",
-      "album": {
         "name": "L\u00f8veskatt",
         "url": "https://open.spotify.com/album/4brikg7YkZMYyXuIIQptE1"
       },
@@ -899,18 +883,18 @@
     {
       "added_at": "2026-11-05 23:09:18",
       "album": {
-        "name": "Corporate Shakespeare",
-        "url": "https://open.spotify.com/album/45g4yPfR9J2AsaAe3WhP1p"
+        "name": "Follow the Cyborg",
+        "url": "https://open.spotify.com/album/1u4u2LCBocqNltaY4Q2lli"
       },
       "artists": [
         {
-          "name": "Mindchatter",
-          "url": "https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn"
+          "name": "Miss Grit",
+          "url": "https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD"
         }
       ],
-      "duration_ms": 158837,
-      "name": "Corporate Shakespeare",
-      "url": "https://open.spotify.com/track/3axFIm02EBDRF2ktqRg9aR"
+      "duration_ms": 229183,
+      "name": "Nothing's Wrong",
+      "url": "https://open.spotify.com/track/1BHffF1YV6e1pMyjaujmvT"
     },
     {
       "added_at": "2026-11-05 23:09:18",
@@ -947,6 +931,22 @@
     {
       "added_at": "2026-11-05 23:09:18",
       "album": {
+        "name": "Corporate Shakespeare",
+        "url": "https://open.spotify.com/album/45g4yPfR9J2AsaAe3WhP1p"
+      },
+      "artists": [
+        {
+          "name": "Mindchatter",
+          "url": "https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn"
+        }
+      ],
+      "duration_ms": 158837,
+      "name": "Corporate Shakespeare",
+      "url": "https://open.spotify.com/track/3axFIm02EBDRF2ktqRg9aR"
+    },
+    {
+      "added_at": "2026-11-05 23:09:18",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2lGT7K0SQyk4c9jB1cddAM"
       },
@@ -963,22 +963,18 @@
     {
       "added_at": "2026-11-05 23:09:18",
       "album": {
-        "name": "Music for Peace and Harmony",
-        "url": "https://open.spotify.com/album/2nNZAWdNi2CgOAmZGlI9SW"
+        "name": "Follow The Light",
+        "url": "https://open.spotify.com/album/6v2rqiNIvp8wpwjuM52ea6"
       },
       "artists": [
         {
-          "name": "Hiro Ama",
-          "url": "https://open.spotify.com/artist/6qgKR3ZxWD8S5Fk7MJyiRJ"
-        },
-        {
-          "name": "Keeley Forsyth",
-          "url": "https://open.spotify.com/artist/3b0YRaadaoMwK4STNVeHGF"
+          "name": "Broadcast",
+          "url": "https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU"
         }
       ],
-      "duration_ms": 275194,
-      "name": "Billowing",
-      "url": "https://open.spotify.com/track/46WN9q8fQXjq9yftbCxxTk"
+      "duration_ms": 159054,
+      "name": "Follow The Light",
+      "url": "https://open.spotify.com/track/17076c3jEyuTYHYnMN6P1G"
     },
     {
       "added_at": "2026-11-05 23:09:18",
@@ -1003,22 +999,6 @@
     {
       "added_at": "2026-11-05 23:09:18",
       "album": {
-        "name": "Follow The Light",
-        "url": "https://open.spotify.com/album/6v2rqiNIvp8wpwjuM52ea6"
-      },
-      "artists": [
-        {
-          "name": "Broadcast",
-          "url": "https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU"
-        }
-      ],
-      "duration_ms": 159054,
-      "name": "Follow The Light",
-      "url": "https://open.spotify.com/track/17076c3jEyuTYHYnMN6P1G"
-    },
-    {
-      "added_at": "2026-11-05 23:09:18",
-      "album": {
         "name": "All Through The Day",
         "url": "https://open.spotify.com/album/4nZxZJv3TFbVq9cDqQjkhS"
       },
@@ -1031,6 +1011,26 @@
       "duration_ms": 182926,
       "name": "All Through The Day",
       "url": "https://open.spotify.com/track/1PzCaE03jo2hmMm261h0XP"
+    },
+    {
+      "added_at": "2026-11-05 23:09:18",
+      "album": {
+        "name": "Music for Peace and Harmony",
+        "url": "https://open.spotify.com/album/2nNZAWdNi2CgOAmZGlI9SW"
+      },
+      "artists": [
+        {
+          "name": "Hiro Ama",
+          "url": "https://open.spotify.com/artist/6qgKR3ZxWD8S5Fk7MJyiRJ"
+        },
+        {
+          "name": "Keeley Forsyth",
+          "url": "https://open.spotify.com/artist/3b0YRaadaoMwK4STNVeHGF"
+        }
+      ],
+      "duration_ms": 275194,
+      "name": "Billowing",
+      "url": "https://open.spotify.com/track/46WN9q8fQXjq9yftbCxxTk"
     },
     {
       "added_at": "2026-11-05 23:09:18",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2026-11-05 23:09:18",
       "album": {
-        "name": "Hay Veces",
-        "url": "https://open.spotify.com/album/2qZEJQ3dOSJeqGnH3EnTe7"
-      },
-      "artists": [
-        {
-          "name": "Petite Amie",
-          "url": "https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw"
-        }
-      ],
-      "duration_ms": 186445,
-      "name": "Hay Veces",
-      "url": "https://open.spotify.com/track/126s7WobIvhuZpoPpbokSe"
-    },
-    {
-      "added_at": "2026-11-05 23:09:18",
-      "album": {
         "name": "Second Spring OST",
         "url": "https://open.spotify.com/album/77dFo60ehucRXt2yDLazmI"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 151022,
       "name": "Highway Brain Planet (Credits)",
       "url": "https://open.spotify.com/track/7BGPolTJ1ptq3zxGIf64yR"
+    },
+    {
+      "added_at": "2026-11-05 23:09:18",
+      "album": {
+        "name": "Hay Veces",
+        "url": "https://open.spotify.com/album/2qZEJQ3dOSJeqGnH3EnTe7"
+      },
+      "artists": [
+        {
+          "name": "Petite Amie",
+          "url": "https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw"
+        }
+      ],
+      "duration_ms": 186445,
+      "name": "Hay Veces",
+      "url": "https://open.spotify.com/track/126s7WobIvhuZpoPpbokSe"
     },
     {
       "added_at": "2026-11-05 23:09:18",
@@ -1287,26 +1287,6 @@
     {
       "added_at": "2026-11-05 23:09:18",
       "album": {
-        "name": "There is only love and fear",
-        "url": "https://open.spotify.com/album/1uVwUTnbeJYN352RI4jRKe"
-      },
-      "artists": [
-        {
-          "name": "Bex Burch",
-          "url": "https://open.spotify.com/artist/1tdT4MNoOC6sagnhU2XEbQ"
-        },
-        {
-          "name": "Macie Stewart",
-          "url": "https://open.spotify.com/artist/4bAFS16s5qBFYuOM4gQ5Xv"
-        }
-      ],
-      "duration_ms": 290026,
-      "name": "Dawn blessings",
-      "url": "https://open.spotify.com/track/2CDErqDxCM5ggWEgiYopcl"
-    },
-    {
-      "added_at": "2026-11-05 23:09:18",
-      "album": {
         "name": "MERCY",
         "url": "https://open.spotify.com/album/0kRucvv6YTD7EJ0jduNmD0"
       },
@@ -1327,6 +1307,26 @@
     {
       "added_at": "2026-11-05 23:09:18",
       "album": {
+        "name": "There is only love and fear",
+        "url": "https://open.spotify.com/album/1uVwUTnbeJYN352RI4jRKe"
+      },
+      "artists": [
+        {
+          "name": "Bex Burch",
+          "url": "https://open.spotify.com/artist/1tdT4MNoOC6sagnhU2XEbQ"
+        },
+        {
+          "name": "Macie Stewart",
+          "url": "https://open.spotify.com/artist/4bAFS16s5qBFYuOM4gQ5Xv"
+        }
+      ],
+      "duration_ms": 290026,
+      "name": "Dawn blessings",
+      "url": "https://open.spotify.com/track/2CDErqDxCM5ggWEgiYopcl"
+    },
+    {
+      "added_at": "2026-11-05 23:09:18",
+      "album": {
         "name": "Vallahi Yok / Kirik Cam",
         "url": "https://open.spotify.com/album/5nAQCUYTxmLIvBSdrmOjSf"
       },
@@ -1339,38 +1339,6 @@
       "duration_ms": 277810,
       "name": "Vallahi Yok",
       "url": "https://open.spotify.com/track/5z9vETzqw2MYykOvfwXYWx"
-    },
-    {
-      "added_at": "2026-11-05 23:09:18",
-      "album": {
-        "name": "Rave Echoes",
-        "url": "https://open.spotify.com/album/6u9jjhBAt0b7iSxT6JxxN6"
-      },
-      "artists": [
-        {
-          "name": "Shed",
-          "url": "https://open.spotify.com/artist/3dds88EVSeBgkPCJ47ZzRZ"
-        }
-      ],
-      "duration_ms": 272762,
-      "name": "Rave Predator",
-      "url": "https://open.spotify.com/track/3TWdJBkUtFCJwoToOPN4NU"
-    },
-    {
-      "added_at": "2026-11-05 23:09:18",
-      "album": {
-        "name": "True Luck",
-        "url": "https://open.spotify.com/album/4Gsf0hLHkHEGr5ooIVCsoJ"
-      },
-      "artists": [
-        {
-          "name": "Astoria",
-          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
-        }
-      ],
-      "duration_ms": 200625,
-      "name": "True Luck",
-      "url": "https://open.spotify.com/track/5OWX5oNVa0xfn3VAIPVfJl"
     },
     {
       "added_at": "2026-11-05 23:09:18",
@@ -1391,6 +1359,22 @@
     {
       "added_at": "2026-11-05 23:09:18",
       "album": {
+        "name": "True Luck",
+        "url": "https://open.spotify.com/album/4Gsf0hLHkHEGr5ooIVCsoJ"
+      },
+      "artists": [
+        {
+          "name": "Astoria",
+          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
+        }
+      ],
+      "duration_ms": 200625,
+      "name": "True Luck",
+      "url": "https://open.spotify.com/track/5OWX5oNVa0xfn3VAIPVfJl"
+    },
+    {
+      "added_at": "2026-11-05 23:09:18",
+      "album": {
         "name": "NIGHT CRAWLING",
         "url": "https://open.spotify.com/album/2r1nEJHd2dvPfpSMnpNZRm"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 293706,
       "name": "NIGHT CRAWLING",
       "url": "https://open.spotify.com/track/1mSYUtXT32YJZg2cALSq0O"
+    },
+    {
+      "added_at": "2026-11-05 23:09:18",
+      "album": {
+        "name": "Rave Echoes",
+        "url": "https://open.spotify.com/album/6u9jjhBAt0b7iSxT6JxxN6"
+      },
+      "artists": [
+        {
+          "name": "Shed",
+          "url": "https://open.spotify.com/artist/3dds88EVSeBgkPCJ47ZzRZ"
+        }
+      ],
+      "duration_ms": 272762,
+      "name": "Rave Predator",
+      "url": "https://open.spotify.com/track/3TWdJBkUtFCJwoToOPN4NU"
     },
     {
       "added_at": "2026-11-05 23:09:18",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2026-11-05 23:09:18",
       "album": {
-        "name": "Are You There God? It\u2019s Me, @",
-        "url": "https://open.spotify.com/album/3yH4aVY5yxzxaijksQOOJk"
-      },
-      "artists": [
-        {
-          "name": "@",
-          "url": "https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3"
-        }
-      ],
-      "duration_ms": 194200,
-      "name": "Processional",
-      "url": "https://open.spotify.com/track/3leOjmmcUGrjEwpkxVQn3R"
-    },
-    {
-      "added_at": "2026-11-05 23:09:18",
-      "album": {
         "name": "artclubdiscotheque",
         "url": "https://open.spotify.com/album/6ul0Pt65txKgpSJN4I4Lig"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 335433,
       "name": "artclubdiscotheque",
       "url": "https://open.spotify.com/track/71WskoE44lUhHqrQxGxYPe"
+    },
+    {
+      "added_at": "2026-11-05 23:09:18",
+      "album": {
+        "name": "Are You There God? It\u2019s Me, @",
+        "url": "https://open.spotify.com/album/3yH4aVY5yxzxaijksQOOJk"
+      },
+      "artists": [
+        {
+          "name": "@",
+          "url": "https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3"
+        }
+      ],
+      "duration_ms": 194200,
+      "name": "Processional",
+      "url": "https://open.spotify.com/track/3leOjmmcUGrjEwpkxVQn3R"
     },
     {
       "added_at": "2026-11-05 23:09:18",

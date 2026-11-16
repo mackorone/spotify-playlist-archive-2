@@ -1,6 +1,6 @@
 {
   "description": "New and approved indie pop. Cover: Quiet Light",
-  "num_followers": 1658284,
+  "num_followers": 1658252,
   "original_name": "Indie Pop",
   "owner": {
     "name": "Spotify",
@@ -707,22 +707,6 @@
     {
       "added_at": "2026-10-09 04:02:47",
       "album": {
-        "name": "She\u2019s the Best",
-        "url": "https://open.spotify.com/album/5lxMKFdNAshWkJZsqr1FYD"
-      },
-      "artists": [
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        }
-      ],
-      "duration_ms": 262896,
-      "name": "FF",
-      "url": "https://open.spotify.com/track/5WJSOTl4LAuEipWkTMPSYo"
-    },
-    {
-      "added_at": "2026-10-09 04:02:47",
-      "album": {
         "name": "Broken chair",
         "url": "https://open.spotify.com/album/6BuY0ylaghbGdm5ohYl30w"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 222440,
       "name": "Problem Child",
       "url": "https://open.spotify.com/track/6jpiquknSI0v7bMTYwSaqx"
+    },
+    {
+      "added_at": "2026-10-09 04:02:47",
+      "album": {
+        "name": "She\u2019s the Best",
+        "url": "https://open.spotify.com/album/5lxMKFdNAshWkJZsqr1FYD"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 262896,
+      "name": "FF",
+      "url": "https://open.spotify.com/track/5WJSOTl4LAuEipWkTMPSYo"
     },
     {
       "added_at": "2026-10-09 04:02:47",
@@ -935,22 +935,6 @@
     {
       "added_at": "2026-10-09 04:02:47",
       "album": {
-        "name": "One song away from crying",
-        "url": "https://open.spotify.com/album/5xQgMsnL5a1SmABhKGhtN3"
-      },
-      "artists": [
-        {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
-        }
-      ],
-      "duration_ms": 219609,
-      "name": "One song away from crying",
-      "url": "https://open.spotify.com/track/7EzqmGOTlrzy1NxZRjeuVV"
-    },
-    {
-      "added_at": "2026-10-09 04:02:47",
-      "album": {
         "name": "In Twos",
         "url": "https://open.spotify.com/album/69T3NDWI9uysXn3tsMfPLW"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 166897,
       "name": "In Twos",
       "url": "https://open.spotify.com/track/4RlKJvvNZGrzZtupp8C2ap"
+    },
+    {
+      "added_at": "2026-10-09 04:02:47",
+      "album": {
+        "name": "One song away from crying",
+        "url": "https://open.spotify.com/album/5xQgMsnL5a1SmABhKGhtN3"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "duration_ms": 219609,
+      "name": "One song away from crying",
+      "url": "https://open.spotify.com/track/7EzqmGOTlrzy1NxZRjeuVV"
     },
     {
       "added_at": "2026-10-09 04:02:47",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2026-10-09 04:02:47",
       "album": {
-        "name": "gloria!",
-        "url": "https://open.spotify.com/album/7lasq7rFh5mygtWV08BOqh"
-      },
-      "artists": [
-        {
-          "name": "hemlocke springs",
-          "url": "https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx"
-        }
-      ],
-      "duration_ms": 201202,
-      "name": "gloria!",
-      "url": "https://open.spotify.com/track/0JvxCw2L2ChMeVpIfSwvqN"
-    },
-    {
-      "added_at": "2026-10-09 04:02:47",
-      "album": {
         "name": "The Fall",
         "url": "https://open.spotify.com/album/2fWLjKOm4gIFsJmWGt1lzC"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 218433,
       "name": "The Fall - Shadow",
       "url": "https://open.spotify.com/track/3jEU3tTP9uOMPSfySPRcJk"
+    },
+    {
+      "added_at": "2026-10-09 04:02:47",
+      "album": {
+        "name": "gloria!",
+        "url": "https://open.spotify.com/album/7lasq7rFh5mygtWV08BOqh"
+      },
+      "artists": [
+        {
+          "name": "hemlocke springs",
+          "url": "https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx"
+        }
+      ],
+      "duration_ms": 201202,
+      "name": "gloria!",
+      "url": "https://open.spotify.com/track/0JvxCw2L2ChMeVpIfSwvqN"
     },
     {
       "added_at": "2026-10-16 04:01:49",
@@ -1349,6 +1349,22 @@
       "url": "https://open.spotify.com/track/5HucDMZoey3DlT4jvofjuf"
     },
     {
+      "added_at": "2026-10-30 04:00:54",
+      "album": {
+        "name": "Eden",
+        "url": "https://open.spotify.com/album/5pPx1xu0kLg6SLP6RvXona"
+      },
+      "artists": [
+        {
+          "name": "Sofia and the Antoinettes",
+          "url": "https://open.spotify.com/artist/2Wmot0sq6wOOjvcYD4NRD7"
+        }
+      ],
+      "duration_ms": 191851,
+      "name": "Eden",
+      "url": "https://open.spotify.com/track/4AhOCTJYtVcCkftroo64VF"
+    },
+    {
       "added_at": "2026-10-09 05:26:14",
       "album": {
         "name": "After the Fact (Deluxe)",
@@ -1381,22 +1397,6 @@
       "url": "https://open.spotify.com/track/6r91l350cidymaEMcKceGc"
     },
     {
-      "added_at": "2026-10-16 04:01:49",
-      "album": {
-        "name": "Pull Me Under",
-        "url": "https://open.spotify.com/album/3V5lxN1LFCFDmCmoX37m1w"
-      },
-      "artists": [
-        {
-          "name": "bby",
-          "url": "https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM"
-        }
-      ],
-      "duration_ms": 292125,
-      "name": "Pull Me Under",
-      "url": "https://open.spotify.com/track/6r0xyOtKasCe1CpaWKs78O"
-    },
-    {
       "added_at": "2026-10-09 04:02:47",
       "album": {
         "name": "Miyazaki",
@@ -1411,6 +1411,22 @@
       "duration_ms": 204778,
       "name": "Miyazaki",
       "url": "https://open.spotify.com/track/4VdqXAgfC79LeweD9qVgVZ"
+    },
+    {
+      "added_at": "2026-10-16 04:01:49",
+      "album": {
+        "name": "Pull Me Under",
+        "url": "https://open.spotify.com/album/3V5lxN1LFCFDmCmoX37m1w"
+      },
+      "artists": [
+        {
+          "name": "bby",
+          "url": "https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM"
+        }
+      ],
+      "duration_ms": 292125,
+      "name": "Pull Me Under",
+      "url": "https://open.spotify.com/track/6r0xyOtKasCe1CpaWKs78O"
     },
     {
       "added_at": "2026-10-09 04:02:47",
@@ -1445,22 +1461,6 @@
       "url": "https://open.spotify.com/track/6CjejdRVV6I4MbDJkNKqJ6"
     },
     {
-      "added_at": "2026-10-30 04:00:54",
-      "album": {
-        "name": "Eden",
-        "url": "https://open.spotify.com/album/5pPx1xu0kLg6SLP6RvXona"
-      },
-      "artists": [
-        {
-          "name": "Sofia and the Antoinettes",
-          "url": "https://open.spotify.com/artist/2Wmot0sq6wOOjvcYD4NRD7"
-        }
-      ],
-      "duration_ms": 191851,
-      "name": "Eden",
-      "url": "https://open.spotify.com/track/4AhOCTJYtVcCkftroo64VF"
-    },
-    {
       "added_at": "2026-10-09 04:02:47",
       "album": {
         "name": "Fuck Without Feelings",
@@ -1475,38 +1475,6 @@
       "duration_ms": 208555,
       "name": "Fuck Without Feelings",
       "url": "https://open.spotify.com/track/3OgiN8HuDd4suA01Tbo5Ks"
-    },
-    {
-      "added_at": "2026-10-09 04:02:47",
-      "album": {
-        "name": "Crab",
-        "url": "https://open.spotify.com/album/5ciVjsvsNYHZEkUaNZW75B"
-      },
-      "artists": [
-        {
-          "name": "Pool Girl",
-          "url": "https://open.spotify.com/artist/7t7suXYznGBtoP2uCT0Wv2"
-        }
-      ],
-      "duration_ms": 195577,
-      "name": "Crab",
-      "url": "https://open.spotify.com/track/6v1d0oFmJnq0Md14QjTnAB"
-    },
-    {
-      "added_at": "2026-10-09 04:02:47",
-      "album": {
-        "name": "Belinda",
-        "url": "https://open.spotify.com/album/62HSUHlT6fzM1WjH8hHVWG"
-      },
-      "artists": [
-        {
-          "name": "\u03a3tella",
-          "url": "https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu"
-        }
-      ],
-      "duration_ms": 165104,
-      "name": "Belinda",
-      "url": "https://open.spotify.com/track/1rs2lOYfBKNW5OCpeTIiVf"
     },
     {
       "added_at": "2026-10-30 04:00:54",
@@ -1527,6 +1495,22 @@
     {
       "added_at": "2026-10-09 04:02:47",
       "album": {
+        "name": "Crab",
+        "url": "https://open.spotify.com/album/5ciVjsvsNYHZEkUaNZW75B"
+      },
+      "artists": [
+        {
+          "name": "Pool Girl",
+          "url": "https://open.spotify.com/artist/7t7suXYznGBtoP2uCT0Wv2"
+        }
+      ],
+      "duration_ms": 195577,
+      "name": "Crab",
+      "url": "https://open.spotify.com/track/6v1d0oFmJnq0Md14QjTnAB"
+    },
+    {
+      "added_at": "2026-10-09 04:02:47",
+      "album": {
         "name": "let the feeling die",
         "url": "https://open.spotify.com/album/1IJpjSrKuQfsjkTzFNkXLV"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 176435,
       "name": "EVERY THOUGHT I\u2019VE EVER HAD",
       "url": "https://open.spotify.com/track/3ihXuxpiMXLQRk4hknvXFN"
+    },
+    {
+      "added_at": "2026-10-09 04:02:47",
+      "album": {
+        "name": "Belinda",
+        "url": "https://open.spotify.com/album/62HSUHlT6fzM1WjH8hHVWG"
+      },
+      "artists": [
+        {
+          "name": "\u03a3tella",
+          "url": "https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu"
+        }
+      ],
+      "duration_ms": 165104,
+      "name": "Belinda",
+      "url": "https://open.spotify.com/track/1rs2lOYfBKNW5OCpeTIiVf"
     },
     {
       "added_at": "2026-10-23 04:02:09",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2026-10-09 04:02:47",
       "album": {
-        "name": "will you be coming around?",
-        "url": "https://open.spotify.com/album/4K7Uw9hrsjMBsatjmmBXCq"
-      },
-      "artists": [
-        {
-          "name": "Thomas Day",
-          "url": "https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq"
-        }
-      ],
-      "duration_ms": 169548,
-      "name": "will you be coming around?",
-      "url": "https://open.spotify.com/track/1nsj01MrKqdLb0dVPUqTG2"
-    },
-    {
-      "added_at": "2026-10-09 04:02:47",
-      "album": {
         "name": "Nothing's Accidental",
         "url": "https://open.spotify.com/album/5H2Ax7Hf3CXwmVjLYGpQGh"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 199333,
       "name": "Nothing's Accidental",
       "url": "https://open.spotify.com/track/3kY3wfC4Z6hzYxLS3mb0EH"
+    },
+    {
+      "added_at": "2026-10-09 04:02:47",
+      "album": {
+        "name": "will you be coming around?",
+        "url": "https://open.spotify.com/album/4K7Uw9hrsjMBsatjmmBXCq"
+      },
+      "artists": [
+        {
+          "name": "Thomas Day",
+          "url": "https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq"
+        }
+      ],
+      "duration_ms": 169548,
+      "name": "will you be coming around?",
+      "url": "https://open.spotify.com/track/1nsj01MrKqdLb0dVPUqTG2"
     },
     {
       "added_at": "2026-10-09 04:02:47",

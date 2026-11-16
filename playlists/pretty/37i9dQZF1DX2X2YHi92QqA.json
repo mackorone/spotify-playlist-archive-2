@@ -1,6 +1,6 @@
 {
   "description": "\u0421\u043f\u043e\u043a\u0456\u0439\u043d\u0430 \u043c\u0443\u0437\u0438\u043a\u0430 \u0434\u043b\u044f \u043f\u043e\u0432\u0456\u043b\u044c\u043d\u0438\u0445 \u0440\u0430\u043d\u043a\u0456\u0432 \u0456 \u0437\u0430\u0442\u0438\u0448\u043d\u0438\u0445 \u0432\u0435\u0447\u043e\u0440\u0456\u0432 \ud83c\udf41",
-  "num_followers": 40247,
+  "num_followers": 40246,
   "original_name": "\u041e\u0441\u0456\u043d\u043d\u0456\u0439 \u0440\u0435\u043b\u0430\u043a\u0441",
   "owner": {
     "name": "Spotify",
@@ -683,22 +683,6 @@
     {
       "added_at": "2026-09-01 09:50:26",
       "album": {
-        "name": "ellipsis",
-        "url": "https://open.spotify.com/album/3n60c52OZfy9rrlPgEVruQ"
-      },
-      "artists": [
-        {
-          "name": "Pem",
-          "url": "https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs"
-        }
-      ],
-      "duration_ms": 243314,
-      "name": "ellipsis",
-      "url": "https://open.spotify.com/track/7nHtlqsooMoimCnxQx36bV"
-    },
-    {
-      "added_at": "2026-09-01 09:50:26",
-      "album": {
         "name": "\u0421\u0442\u0430\u043d\u0435\u043c\u043e \u0442\u0438\u0448\u0435\u044e",
         "url": "https://open.spotify.com/album/3EajDdMOQJCs2j2m6fKIPG"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 189890,
       "name": "\u0421\u0442\u0430\u043d\u0435\u043c\u043e \u0442\u0438\u0448\u0435\u044e",
       "url": "https://open.spotify.com/track/2FnTCTmdUdOt3PlWDThCQs"
+    },
+    {
+      "added_at": "2026-09-01 09:50:26",
+      "album": {
+        "name": "ellipsis",
+        "url": "https://open.spotify.com/album/3n60c52OZfy9rrlPgEVruQ"
+      },
+      "artists": [
+        {
+          "name": "Pem",
+          "url": "https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs"
+        }
+      ],
+      "duration_ms": 243314,
+      "name": "ellipsis",
+      "url": "https://open.spotify.com/track/7nHtlqsooMoimCnxQx36bV"
     },
     {
       "added_at": "2026-09-01 09:50:26",
@@ -915,22 +915,6 @@
     {
       "added_at": "2026-09-01 09:50:26",
       "album": {
-        "name": "\u0431\u0443\u0442\u0438 \u043e\u043f\u0442\u0438\u043c\u0456\u0441\u0442\u043e\u043c",
-        "url": "https://open.spotify.com/album/4kHNdGMPIu00fBtXV5m9es"
-      },
-      "artists": [
-        {
-          "name": "Liza Bibikova",
-          "url": "https://open.spotify.com/artist/5QCvdC4Oxl2Uzzcehr1Knz"
-        }
-      ],
-      "duration_ms": 180988,
-      "name": "\u0431\u0443\u0442\u0438 \u043e\u043f\u0442\u0438\u043c\u0456\u0441\u0442\u043e\u043c",
-      "url": "https://open.spotify.com/track/3VwyqCE0bV1t4bY1rp5w5p"
-    },
-    {
-      "added_at": "2026-09-01 09:50:26",
-      "album": {
         "name": "\u041a\u043e\u0433\u043e \u0442\u0438 \u0432\u0438\u0433\u0430\u0434\u0430\u0432?",
         "url": "https://open.spotify.com/album/0zzcXw3obSrwf3HRjx0zYO"
       },
@@ -947,18 +931,18 @@
     {
       "added_at": "2026-09-01 09:50:26",
       "album": {
-        "name": "\u041d\u0430\u0439\u0434\u043e\u0440\u043e\u0436\u0447\u0456 \u0440\u0435\u0447\u0456 \u0443 \u0441\u0432\u0456\u0442\u0456",
-        "url": "https://open.spotify.com/album/5ghlX8TOnOWY6vf8OQlZGF"
+        "name": "\u0431\u0443\u0442\u0438 \u043e\u043f\u0442\u0438\u043c\u0456\u0441\u0442\u043e\u043c",
+        "url": "https://open.spotify.com/album/4kHNdGMPIu00fBtXV5m9es"
       },
       "artists": [
         {
-          "name": "Blooms Corda",
-          "url": "https://open.spotify.com/artist/3mlUhGSEvqMhUNu7uWB9hA"
+          "name": "Liza Bibikova",
+          "url": "https://open.spotify.com/artist/5QCvdC4Oxl2Uzzcehr1Knz"
         }
       ],
-      "duration_ms": 255258,
-      "name": "\u0421\u043f\u0456\u0440\u0456\u0447\u0443\u0430\u043b",
-      "url": "https://open.spotify.com/track/2oTMeZP9JBsDBL0SKnjWcA"
+      "duration_ms": 180988,
+      "name": "\u0431\u0443\u0442\u0438 \u043e\u043f\u0442\u0438\u043c\u0456\u0441\u0442\u043e\u043c",
+      "url": "https://open.spotify.com/track/3VwyqCE0bV1t4bY1rp5w5p"
     },
     {
       "added_at": "2026-09-01 09:50:26",
@@ -979,6 +963,22 @@
       "duration_ms": 155624,
       "name": "\u042f \u0442\u0435\u0431\u0435 \u043d\u0435 \u0447\u0443\u044e",
       "url": "https://open.spotify.com/track/6OUfXrZk7Ti5mTh73Mw3Lj"
+    },
+    {
+      "added_at": "2026-09-01 09:50:26",
+      "album": {
+        "name": "\u041d\u0430\u0439\u0434\u043e\u0440\u043e\u0436\u0447\u0456 \u0440\u0435\u0447\u0456 \u0443 \u0441\u0432\u0456\u0442\u0456",
+        "url": "https://open.spotify.com/album/5ghlX8TOnOWY6vf8OQlZGF"
+      },
+      "artists": [
+        {
+          "name": "Blooms Corda",
+          "url": "https://open.spotify.com/artist/3mlUhGSEvqMhUNu7uWB9hA"
+        }
+      ],
+      "duration_ms": 255258,
+      "name": "\u0421\u043f\u0456\u0440\u0456\u0447\u0443\u0430\u043b",
+      "url": "https://open.spotify.com/track/2oTMeZP9JBsDBL0SKnjWcA"
     },
     {
       "added_at": "2026-09-01 09:50:26",

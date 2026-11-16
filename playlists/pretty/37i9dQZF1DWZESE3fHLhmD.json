@@ -1,6 +1,6 @@
 {
   "description": "songs so golden wie der herbst ",
-  "num_followers": 1299762,
+  "num_followers": 1299655,
   "original_name": "Herbstgef\u00fchle",
   "owner": {
     "name": "Spotify",
@@ -703,22 +703,6 @@
     {
       "added_at": "2026-11-05 23:00:34",
       "album": {
-        "name": "Blame My Ex",
-        "url": "https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc"
-      },
-      "artists": [
-        {
-          "name": "The Beaches",
-          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
-        }
-      ],
-      "duration_ms": 160244,
-      "name": "Edge of the Earth",
-      "url": "https://open.spotify.com/track/4Zy6m1QjUivLl8Zt7E8uxr"
-    },
-    {
-      "added_at": "2026-11-05 23:00:34",
-      "album": {
         "name": "Volcano",
         "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 209482,
       "name": "Back On 74",
       "url": "https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO"
+    },
+    {
+      "added_at": "2026-11-05 23:00:34",
+      "album": {
+        "name": "Blame My Ex",
+        "url": "https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc"
+      },
+      "artists": [
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        }
+      ],
+      "duration_ms": 160244,
+      "name": "Edge of the Earth",
+      "url": "https://open.spotify.com/track/4Zy6m1QjUivLl8Zt7E8uxr"
     },
     {
       "added_at": "2026-11-05 23:00:34",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2026-11-05 23:00:34",
       "album": {
-        "name": "Von hier an blind",
-        "url": "https://open.spotify.com/album/4JG9iU4O51GLseXEWAkZkw"
-      },
-      "artists": [
-        {
-          "name": "Wir sind Helden",
-          "url": "https://open.spotify.com/artist/3jiOHVFdVQjbSDVeC7RgY7"
-        }
-      ],
-      "duration_ms": 210666,
-      "name": "Von hier an blind",
-      "url": "https://open.spotify.com/track/6XYydpbZMrgQbZdv5J31oU"
-    },
-    {
-      "added_at": "2026-11-05 23:00:34",
-      "album": {
         "name": "12 to 12",
         "url": "https://open.spotify.com/album/2TrTb21wiXbwQohvN1UfFV"
       },
@@ -1051,18 +1035,34 @@
     {
       "added_at": "2026-11-05 23:00:34",
       "album": {
-        "name": "Kansas Anymore",
-        "url": "https://open.spotify.com/album/4OZ6nCbn8w0cHr1m0qiD2s"
+        "name": "Von hier an blind",
+        "url": "https://open.spotify.com/album/4JG9iU4O51GLseXEWAkZkw"
       },
       "artists": [
         {
-          "name": "ROLE MODEL",
-          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
+          "name": "Wir sind Helden",
+          "url": "https://open.spotify.com/artist/3jiOHVFdVQjbSDVeC7RgY7"
         }
       ],
-      "duration_ms": 169974,
-      "name": "Writing's On The Wall",
-      "url": "https://open.spotify.com/track/4mDTqEqt0QHQFPNkz8eHjr"
+      "duration_ms": 210666,
+      "name": "Von hier an blind",
+      "url": "https://open.spotify.com/track/6XYydpbZMrgQbZdv5J31oU"
+    },
+    {
+      "added_at": "2026-11-05 23:00:34",
+      "album": {
+        "name": "Stick Season",
+        "url": "https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 257668,
+      "name": "Everywhere, Everything",
+      "url": "https://open.spotify.com/track/32iNr3J93tqFkxaMYwdRYi"
     },
     {
       "added_at": "2026-11-05 23:00:34",
@@ -1083,18 +1083,18 @@
     {
       "added_at": "2026-11-05 23:00:34",
       "album": {
-        "name": "Stick Season",
-        "url": "https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz"
+        "name": "Kansas Anymore",
+        "url": "https://open.spotify.com/album/4OZ6nCbn8w0cHr1m0qiD2s"
       },
       "artists": [
         {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+          "name": "ROLE MODEL",
+          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
         }
       ],
-      "duration_ms": 257668,
-      "name": "Everywhere, Everything",
-      "url": "https://open.spotify.com/track/32iNr3J93tqFkxaMYwdRYi"
+      "duration_ms": 169974,
+      "name": "Writing's On The Wall",
+      "url": "https://open.spotify.com/track/4mDTqEqt0QHQFPNkz8eHjr"
     },
     {
       "added_at": "2026-11-05 23:00:34",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2026-11-05 23:00:34",
       "album": {
-        "name": "to love and to lose",
-        "url": "https://open.spotify.com/album/6Q2Udysxg0bNVYU7lWxLo3"
-      },
-      "artists": [
-        {
-          "name": "Dylan",
-          "url": "https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk"
-        }
-      ],
-      "duration_ms": 181246,
-      "name": "to love and to lose",
-      "url": "https://open.spotify.com/track/25KmVoAJzApNxuj6CDDwR5"
-    },
-    {
-      "added_at": "2026-11-05 23:00:34",
-      "album": {
         "name": "Pazifik",
         "url": "https://open.spotify.com/album/0tWTZtKm5jkICfL067l5R2"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 201325,
       "name": "Walzer",
       "url": "https://open.spotify.com/track/605G7F1FEjm60IdXmLhlNN"
+    },
+    {
+      "added_at": "2026-11-05 23:00:34",
+      "album": {
+        "name": "to love and to lose",
+        "url": "https://open.spotify.com/album/6Q2Udysxg0bNVYU7lWxLo3"
+      },
+      "artists": [
+        {
+          "name": "Dylan",
+          "url": "https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk"
+        }
+      ],
+      "duration_ms": 181246,
+      "name": "to love and to lose",
+      "url": "https://open.spotify.com/track/25KmVoAJzApNxuj6CDDwR5"
     },
     {
       "added_at": "2026-11-05 23:00:34",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2026-11-05 23:00:34",
       "album": {
-        "name": "Shy Girl",
-        "url": "https://open.spotify.com/album/3geXpNNZHdQD15uZV0uRj5"
-      },
-      "artists": [
-        {
-          "name": "Haute & Freddy",
-          "url": "https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR"
-        }
-      ],
-      "duration_ms": 187727,
-      "name": "Shy Girl",
-      "url": "https://open.spotify.com/track/7KNFJbMvPdplvrolBUkK2N"
-    },
-    {
-      "added_at": "2026-11-05 23:00:34",
-      "album": {
         "name": "Cry Baby Cry",
         "url": "https://open.spotify.com/album/6iIBPT7er93Tii1o764t7j"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 188800,
       "name": "Cry Baby Cry",
       "url": "https://open.spotify.com/track/78MVrtGTJQXI3dRDOugoMG"
+    },
+    {
+      "added_at": "2026-11-05 23:00:34",
+      "album": {
+        "name": "Shy Girl",
+        "url": "https://open.spotify.com/album/3geXpNNZHdQD15uZV0uRj5"
+      },
+      "artists": [
+        {
+          "name": "Haute & Freddy",
+          "url": "https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR"
+        }
+      ],
+      "duration_ms": 187727,
+      "name": "Shy Girl",
+      "url": "https://open.spotify.com/track/7KNFJbMvPdplvrolBUkK2N"
     },
     {
       "added_at": "2026-11-05 23:00:34",

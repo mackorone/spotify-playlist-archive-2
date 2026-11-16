@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WNn0uqbB04.md) - [plain]
 
 > El Tango está más vivo que nunca 📸 Santiago Motorizado & FLORIAN
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,572 likes - 70 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,577 likes - 70 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WNn0uqbB04.md) - [plain]
 | 28 | [La Gloria](https://open.spotify.com/track/450mTC6yBia1bnYIvkOlxG) | [Gotan Project](https://open.spotify.com/artist/44ejFPE33H5aOInxNV2BFP), [Victor Hugo Morales](https://open.spotify.com/artist/5S50R3J7ByHrwFisobTZc9) | [Tango 3.0](https://open.spotify.com/album/3rII5jVhcZdgz4itaYn7vX) | 3:47 |
 | 29 | [Будем танцевать \- Listo Pa'Bailar \[1\]](https://open.spotify.com/track/71h9qwhopTUJ1KR7cNdbHo) | [Bajofondo](https://open.spotify.com/artist/4Wk0MW9d5uu6WbAgRCuH4O), [Natalia Oreiro](https://open.spotify.com/artist/0Uit4gta4PrT7HvUe8W2Xo) | [Будем танцевать \(Listo Pa'Bailar \[1\]\)](https://open.spotify.com/album/5eB3Ory8Dspo7D8RVhAPiv) | 3:54 |
 | 30 | [Línea D](https://open.spotify.com/track/35qVKJEncUuBN93wh29u9P) | [Sudestada Tango](https://open.spotify.com/artist/3wIDWa1hCa2EFZJKOjgS1S) | [Otoño](https://open.spotify.com/album/0e6nn83SoAOV6XeWDAUNkn) | 4:05 |
-| 31 | [Muchacha \(ojos de papel\)](https://open.spotify.com/track/6qBGItCcsPzUcAMsPIiSUW) | [Spinettango](https://open.spotify.com/artist/0fzRepdCbhZBArYBGRrszr), [Litto Nebbia](https://open.spotify.com/artist/2SpMjzpc9CfI6WWtwdToiA) | [Muchacha \(ojos de papel\)](https://open.spotify.com/album/32Rrsfqs8OEV3igoRZkDyl) | 3:18 |
-| 32 | [La Rosca \- Versión Remasterizada 2008](https://open.spotify.com/track/2ssFUjK5KdjiaeaI2yiGv7) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [La Marcha Del Golazo Solitario](https://open.spotify.com/album/2QbQpUf9KGyExi87PPRUsX) | 4:29 |
+| 31 | [La Rosca \- Versión Remasterizada 2008](https://open.spotify.com/track/2ssFUjK5KdjiaeaI2yiGv7) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [La Marcha Del Golazo Solitario](https://open.spotify.com/album/2QbQpUf9KGyExi87PPRUsX) | 4:29 |
+| 32 | [Muchacha \(ojos de papel\)](https://open.spotify.com/track/6qBGItCcsPzUcAMsPIiSUW) | [Spinettango](https://open.spotify.com/artist/0fzRepdCbhZBArYBGRrszr), [Litto Nebbia](https://open.spotify.com/artist/2SpMjzpc9CfI6WWtwdToiA) | [Muchacha \(ojos de papel\)](https://open.spotify.com/album/32Rrsfqs8OEV3igoRZkDyl) | 3:18 |
 | 33 | [Piazzojazz](https://open.spotify.com/track/7jxmEREf58Pq2a34p7urqH) | [Claudio Constantini](https://open.spotify.com/artist/4qXRvJuWOfBFJWqCGmIuJQ), [Federico Lechner](https://open.spotify.com/artist/5tEyp8bbcmlvlJHfGqzKui), [Hernan hock](https://open.spotify.com/artist/218kMSXSeUCGA6qnhj4BTV), [Antonio Miguel](https://open.spotify.com/artist/12WYaGwaAQfZF0hyTJgDDm), [Andrés Litwin](https://open.spotify.com/artist/2By1V9ksNozsu4QKLCQRve) | [Obstinado](https://open.spotify.com/album/7suichuH4uRGvVt3b5lUZ2) | 4:48 |
 | 34 | [Traje Unos Tangos/ Irresponsables/ Balada para un Loco \- Medley Premios Gardel](https://open.spotify.com/track/2kGq3Hvr0714szg3vpzkJa) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [Cucuza Castiello](https://open.spotify.com/artist/3JW0hQELXulJ2LmkPXJAgE), [Amelita Baltar](https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk) | [Traje Unos Tangos/ Irresponsables/ Balada para un Loco \(Medley Premios Gardel\)](https://open.spotify.com/album/6oXwPnW5e2VN6A5A71XiFV) | 3:31 |
 | 35 | [Caminito](https://open.spotify.com/track/4TiYDx9Msjyk3ZxWaiEq1h) | [Sudestada Tango](https://open.spotify.com/artist/3wIDWa1hCa2EFZJKOjgS1S), [Chino Laborde](https://open.spotify.com/artist/5OrKrSqxhTFrtScoJhqLrP) | [Otoño](https://open.spotify.com/album/0e6nn83SoAOV6XeWDAUNkn) | 4:23 |

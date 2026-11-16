@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1tUneJ0n3hvok5ORIuipoH">Alex Eskeerdo Izquierdo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-192 songs - 10 hr 30 min
+195 songs - 10 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [BITTA](https://open.spotify.com/track/5FZ1HZ9ke8CVbim5fVTXsm) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [BITTA](https://open.spotify.com/album/5sVuH0zhKKgPz21oKaCOeY) | 3:13 | 2022-06-04 |  |
 | [Black And White](https://open.spotify.com/track/7rpNuuoMbid56XkDsx2FjE) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heartbreak Weather](https://open.spotify.com/album/5gdoRB1AUsGnScCuZ8gmPp) | 3:13 | 2022-06-04 |  |
 | [Bones and Blood](https://open.spotify.com/track/4qGIpT6nFagsxOqjGCgY1M) | [John The Blind](https://open.spotify.com/artist/12U3blX0ilxf0tnejqPDYD) | [John The Blind](https://open.spotify.com/album/09cDd1zwcdM8q0rKmgRzi7) | 2:50 | 2022-06-04 |  |
+| [Bring me closer](https://open.spotify.com/track/0umQkeo8dAHekpoZLxdRoJ) | [Olivia C\. Dacal](https://open.spotify.com/artist/5UQMb52W2mfhkLJSJUzRAa) | [Take A Video](https://open.spotify.com/album/0AEpUQFKOaTreqQswi5n5d) | 3:03 | 2026-11-15 |  |
 | [Broadway Girls \(feat\. Morgan Wallen\)](https://open.spotify.com/track/7qTaDOcld0VmBWXnkbUj45) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [7220 \(Reloaded\)](https://open.spotify.com/album/1ImQBMrMvxZZqwTnFSRvhT) | 3:05 | 2025-11-10 |  |
 | [Burn \(feat\. Big Sean\)](https://open.spotify.com/track/1tv6IvWoOilhj0XbBoVVMo) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Dreams and Nightmares \(Deluxe Edition\)](https://open.spotify.com/album/0zhZDmHEtDtok393SbZ3d7) | 3:36 | 2022-06-04 |  |
 | [Celebrate](https://open.spotify.com/track/6bszzvS1tbQq3syTmSQo8x) | [Rise Up Children's Choir](https://open.spotify.com/artist/4ubm9Rvg1vip1AhBNvnEcy) | [Celebrate](https://open.spotify.com/album/0T7lSwMT9mPT8CoSxmDP5h) | 2:30 | 2025-05-26 | 2025-05-28 |
@@ -45,6 +46,7 @@
 | [Dangerously](https://open.spotify.com/track/2EbseeW2cr5zK3J8VuYntw) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Nine Track Mind \(Special Edition\)](https://open.spotify.com/album/5J4SS8wTmXdyIEVYjmHzpZ) | 3:19 | 2024-10-18 |  |
 | [Dangerously](https://open.spotify.com/track/4BLpd6QINAs4UXd1lVtdhj) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Nine Track Mind](https://open.spotify.com/album/6E0p38TjcK490itZ1Ns7bD) | 3:19 | 2022-06-04 | 2024-10-19 |
 | [Deep Down](https://open.spotify.com/track/4iK0QSCW3nmt6bsZtAjzX6) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Name Chapter: FREEFALL](https://open.spotify.com/album/63fWdGyeBj8VDjvHSUROx3) | 2:43 | 2025-05-26 |  |
+| [Devil I know](https://open.spotify.com/track/31swH2NQByptaIsyF7iqgw) | [Olivia C\. Dacal](https://open.spotify.com/artist/5UQMb52W2mfhkLJSJUzRAa) | [Take A Video](https://open.spotify.com/album/0AEpUQFKOaTreqQswi5n5d) | 3:01 | 2026-11-15 |  |
 | [Dirty Work](https://open.spotify.com/track/49brugMHYob4zfpKhHDhR9) | [Austin Mahone](https://open.spotify.com/artist/04abdnqPQe2N4fjztDea6z) | [Dirty Work](https://open.spotify.com/album/6jSAT6lkW1CoUBA6ifHSIM) | 3:07 | 2022-06-04 | 2023-12-14 |
 | [Dirty Work](https://open.spotify.com/track/53TW0KEB3fqduUfwf0LO9P) | [Austin Mahone](https://open.spotify.com/artist/04abdnqPQe2N4fjztDea6z) | [Dirty Work](https://open.spotify.com/album/6JSiQ8b11L6AzCVtFmbcH1) | 3:07 | 2023-12-13 |  |
 | [Do It Now](https://open.spotify.com/track/2zt4Gi5XBwK51LykiGUKBt) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [Intermission I & II](https://open.spotify.com/album/0m8NYS3Trz6HLZnMAaFYiH) | 3:29 | 2022-06-04 |  |
@@ -55,6 +57,7 @@
 | [Don't Say Much](https://open.spotify.com/track/6p9LXvQRz1KYAX45qA8oxT) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Money Changed Everything](https://open.spotify.com/album/5ws5VdEkQquZKXv6Zdritp) | 1:28 | 2022-06-04 |  |
 | [Done With Love](https://open.spotify.com/track/0qlAureWHln3vDCsqnkyRE) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq) | [True Colors](https://open.spotify.com/album/4jKdXIJckKh7la6xHuKwRT) | 4:56 | 2022-06-04 |  |
 | [dose](https://open.spotify.com/track/26ETsbVhx34daSYeBGmvgl) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Sleep is Exhausting](https://open.spotify.com/album/0fc1W53T3llTmKSzRgaj3s) | 3:00 | 2025-11-03 |  |
+| [Every Night](https://open.spotify.com/track/2UwiOqiYN7liReYgzqDIJ5) | [Olivia C\. Dacal](https://open.spotify.com/artist/5UQMb52W2mfhkLJSJUzRAa) | [Take A Video](https://open.spotify.com/album/0AEpUQFKOaTreqQswi5n5d) | 2:51 | 2026-11-15 |  |
 | [Everywhere](https://open.spotify.com/track/2NRpuYVJPYhxC8xyutxkoL) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heartbreak Weather](https://open.spotify.com/album/5gdoRB1AUsGnScCuZ8gmPp) | 2:48 | 2022-06-04 |  |
 | [Fire](https://open.spotify.com/track/11fPH8NoSw15IG5hWk5zLL) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Hall Of Fame \(Deluxe\)](https://open.spotify.com/album/5RlT8X7XGGLKUhoimrDl54) | 4:22 | 2022-06-04 |  |
 | [Fly](https://open.spotify.com/track/0PvbgBKA1ZMsTNrd8QVlCi) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J), [Spies in Disguise](https://open.spotify.com/artist/6KvlPV9ixIAotRrbKHWZPl) | [Fly](https://open.spotify.com/album/3Shvkj36f9cbFZOQe9Dc0K) | 2:43 | 2022-06-04 |  |

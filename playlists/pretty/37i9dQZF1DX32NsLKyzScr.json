@@ -1,6 +1,6 @@
 {
   "description": "Tap it back or go for a spin with these uptempo tracks!",
-  "num_followers": 2582605,
+  "num_followers": 2582514,
   "original_name": "Power Hour",
   "owner": {
     "name": "Spotify",
@@ -1123,26 +1123,6 @@
     {
       "added_at": "2026-11-13 05:00:56",
       "album": {
-        "name": "Help I'm Alive (BYNX Rework)",
-        "url": "https://open.spotify.com/album/4JlaaaXai3SkY4aOzGyz1f"
-      },
-      "artists": [
-        {
-          "name": "Metric",
-          "url": "https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl"
-        },
-        {
-          "name": "BYNX",
-          "url": "https://open.spotify.com/artist/2HDr90mJP3k5gaCkPIKdEn"
-        }
-      ],
-      "duration_ms": 169305,
-      "name": "Help I'm Alive - BYNX Rework",
-      "url": "https://open.spotify.com/track/6cc4X3CBJhdPbARRbyaJkP"
-    },
-    {
-      "added_at": "2026-11-13 05:00:56",
-      "album": {
         "name": "Mi Amor",
         "url": "https://open.spotify.com/album/1HIErToMnLsPxdZkoO8nYm"
       },
@@ -1163,6 +1143,26 @@
       "duration_ms": 207619,
       "name": "Mi Amor",
       "url": "https://open.spotify.com/track/2lqIo3RA26lhBY2DMDSZxG"
+    },
+    {
+      "added_at": "2026-11-13 05:00:56",
+      "album": {
+        "name": "Help I'm Alive (BYNX Rework)",
+        "url": "https://open.spotify.com/album/4JlaaaXai3SkY4aOzGyz1f"
+      },
+      "artists": [
+        {
+          "name": "Metric",
+          "url": "https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl"
+        },
+        {
+          "name": "BYNX",
+          "url": "https://open.spotify.com/artist/2HDr90mJP3k5gaCkPIKdEn"
+        }
+      ],
+      "duration_ms": 169305,
+      "name": "Help I'm Alive - BYNX Rework",
+      "url": "https://open.spotify.com/track/6cc4X3CBJhdPbARRbyaJkP"
     },
     {
       "added_at": "2026-11-13 05:00:56",
@@ -1299,22 +1299,26 @@
     {
       "added_at": "2026-11-13 05:00:56",
       "album": {
-        "name": "Frequency",
-        "url": "https://open.spotify.com/album/6Rm91r3NcNXKjNrf4xt7zm"
+        "name": "Love Parade",
+        "url": "https://open.spotify.com/album/2UfAenTFsiHb6rLqbHVMHv"
       },
       "artists": [
         {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+          "name": "Cassian",
+          "url": "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
         },
         {
-          "name": "Dimension",
-          "url": "https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S"
+          "name": "YOTTO",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+        },
+        {
+          "name": "Da Hool",
+          "url": "https://open.spotify.com/artist/0wOXK4GjUAFUDhd7mvKBbW"
         }
       ],
-      "duration_ms": 205714,
-      "name": "Frequency",
-      "url": "https://open.spotify.com/track/2X9niMzzXId2fNe3wu6l2e"
+      "duration_ms": 206308,
+      "name": "Love Parade",
+      "url": "https://open.spotify.com/track/6sx8YefY3PQgfY8TpVg34w"
     },
     {
       "added_at": "2026-11-13 05:00:56",
@@ -1343,26 +1347,22 @@
     {
       "added_at": "2026-11-13 05:00:56",
       "album": {
-        "name": "Love Parade",
-        "url": "https://open.spotify.com/album/2UfAenTFsiHb6rLqbHVMHv"
+        "name": "Frequency",
+        "url": "https://open.spotify.com/album/6Rm91r3NcNXKjNrf4xt7zm"
       },
       "artists": [
         {
-          "name": "Cassian",
-          "url": "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
         },
         {
-          "name": "YOTTO",
-          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
-        },
-        {
-          "name": "Da Hool",
-          "url": "https://open.spotify.com/artist/0wOXK4GjUAFUDhd7mvKBbW"
+          "name": "Dimension",
+          "url": "https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S"
         }
       ],
-      "duration_ms": 206308,
-      "name": "Love Parade",
-      "url": "https://open.spotify.com/track/6sx8YefY3PQgfY8TpVg34w"
+      "duration_ms": 205714,
+      "name": "Frequency",
+      "url": "https://open.spotify.com/track/2X9niMzzXId2fNe3wu6l2e"
     },
     {
       "added_at": "2026-11-13 05:00:56",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2026-11-13 05:00:56",
       "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/08R9vWGp22a2x5iqsGgMxH"
+      },
+      "artists": [
+        {
+          "name": "Marlon Hoffstadt",
+          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
+        }
+      ],
+      "duration_ms": 168173,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/3k5OdriAcdZklJxzpx8EGM"
+    },
+    {
+      "added_at": "2026-11-13 05:00:56",
+      "album": {
         "name": "Beauty In Us",
         "url": "https://open.spotify.com/album/5p39MNTTjZm34glv6Bk7E7"
       },
@@ -1563,22 +1579,6 @@
       "duration_ms": 172166,
       "name": "Beauty In Us",
       "url": "https://open.spotify.com/track/71Blq9QnHZaCsKl2Cugrjf"
-    },
-    {
-      "added_at": "2026-11-13 05:00:56",
-      "album": {
-        "name": "Breathe",
-        "url": "https://open.spotify.com/album/08R9vWGp22a2x5iqsGgMxH"
-      },
-      "artists": [
-        {
-          "name": "Marlon Hoffstadt",
-          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
-        }
-      ],
-      "duration_ms": 168173,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/3k5OdriAcdZklJxzpx8EGM"
     },
     {
       "added_at": "2026-11-13 05:00:56",
@@ -1735,26 +1735,6 @@
     {
       "added_at": "2026-11-13 05:00:56",
       "album": {
-        "name": "Torture of the Heart",
-        "url": "https://open.spotify.com/album/48NX8QQxqYKR5mK11evUBi"
-      },
-      "artists": [
-        {
-          "name": "DVBBS",
-          "url": "https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82"
-        },
-        {
-          "name": "Nelly Furtado",
-          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
-        }
-      ],
-      "duration_ms": 202248,
-      "name": "Torture of the Heart",
-      "url": "https://open.spotify.com/track/0NutjkZZwOyZKLViHN6BY5"
-    },
-    {
-      "added_at": "2026-11-13 05:00:56",
-      "album": {
         "name": "Like A Prayer",
         "url": "https://open.spotify.com/album/0P0UAa1mOYWrKpuCFklA87"
       },
@@ -1779,18 +1759,22 @@
     {
       "added_at": "2026-11-13 05:00:56",
       "album": {
-        "name": "Love To Forget",
-        "url": "https://open.spotify.com/album/0Dv5EF9qtyUl8PAEgl7aKW"
+        "name": "Torture of the Heart",
+        "url": "https://open.spotify.com/album/48NX8QQxqYKR5mK11evUBi"
       },
       "artists": [
         {
-          "name": "ARTY",
-          "url": "https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO"
+          "name": "DVBBS",
+          "url": "https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82"
+        },
+        {
+          "name": "Nelly Furtado",
+          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
         }
       ],
-      "duration_ms": 181875,
-      "name": "Love To Forget",
-      "url": "https://open.spotify.com/track/1ReHikh8XCINUyyYZybTYe"
+      "duration_ms": 202248,
+      "name": "Torture of the Heart",
+      "url": "https://open.spotify.com/track/0NutjkZZwOyZKLViHN6BY5"
     },
     {
       "added_at": "2026-11-13 05:00:56",
@@ -1811,6 +1795,22 @@
       "duration_ms": 225584,
       "name": "Short Stop",
       "url": "https://open.spotify.com/track/6ZXDqJiNIgQfWow7KruP6I"
+    },
+    {
+      "added_at": "2026-11-13 05:00:56",
+      "album": {
+        "name": "Love To Forget",
+        "url": "https://open.spotify.com/album/0Dv5EF9qtyUl8PAEgl7aKW"
+      },
+      "artists": [
+        {
+          "name": "ARTY",
+          "url": "https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO"
+        }
+      ],
+      "duration_ms": 181875,
+      "name": "Love To Forget",
+      "url": "https://open.spotify.com/track/1ReHikh8XCINUyyYZybTYe"
     },
     {
       "added_at": "2026-11-13 05:00:56",
@@ -1851,26 +1851,22 @@
     {
       "added_at": "2026-11-13 05:00:56",
       "album": {
-        "name": "Roses (feat. Richard Judge)",
-        "url": "https://open.spotify.com/album/3mgLrsA1pHfVWzvD2jc3bR"
+        "name": "Overclock",
+        "url": "https://open.spotify.com/album/6PbmwxTqYLLw8MSWfrXPJR"
       },
       "artists": [
         {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+          "name": "Kevin de Vries",
+          "url": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
         },
         {
-          "name": "bradeazy",
-          "url": "https://open.spotify.com/artist/1dESZUZevzhd5dzq9ZsMLI"
-        },
-        {
-          "name": "Richard Judge",
-          "url": "https://open.spotify.com/artist/5z275L9haKWG328mm7UFd3"
+          "name": "DAMEN",
+          "url": "https://open.spotify.com/artist/6aW9vCCdBYNKQiXAztvGwQ"
         }
       ],
-      "duration_ms": 164307,
-      "name": "Roses (feat. Richard Judge)",
-      "url": "https://open.spotify.com/track/2l0uDfDDdz1cGLvAzw474o"
+      "duration_ms": 187998,
+      "name": "Overclock",
+      "url": "https://open.spotify.com/track/7eMOYbZwgUK9c2hL54PMjj"
     },
     {
       "added_at": "2026-11-13 05:00:56",
@@ -1891,22 +1887,26 @@
     {
       "added_at": "2026-11-13 05:00:56",
       "album": {
-        "name": "Overclock",
-        "url": "https://open.spotify.com/album/6PbmwxTqYLLw8MSWfrXPJR"
+        "name": "Roses (feat. Richard Judge)",
+        "url": "https://open.spotify.com/album/3mgLrsA1pHfVWzvD2jc3bR"
       },
       "artists": [
         {
-          "name": "Kevin de Vries",
-          "url": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
         },
         {
-          "name": "DAMEN",
-          "url": "https://open.spotify.com/artist/6aW9vCCdBYNKQiXAztvGwQ"
+          "name": "bradeazy",
+          "url": "https://open.spotify.com/artist/1dESZUZevzhd5dzq9ZsMLI"
+        },
+        {
+          "name": "Richard Judge",
+          "url": "https://open.spotify.com/artist/5z275L9haKWG328mm7UFd3"
         }
       ],
-      "duration_ms": 187998,
-      "name": "Overclock",
-      "url": "https://open.spotify.com/track/7eMOYbZwgUK9c2hL54PMjj"
+      "duration_ms": 164307,
+      "name": "Roses (feat. Richard Judge)",
+      "url": "https://open.spotify.com/track/2l0uDfDDdz1cGLvAzw474o"
     },
     {
       "added_at": "2026-11-13 05:00:56",
@@ -1951,30 +1951,6 @@
     {
       "added_at": "2026-11-13 05:00:56",
       "album": {
-        "name": "All My Life (feat. John Martin)",
-        "url": "https://open.spotify.com/album/47tfbM8Z9hEHC3YtMSEcrD"
-      },
-      "artists": [
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        },
-        {
-          "name": "Frank Walker",
-          "url": "https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq"
-        },
-        {
-          "name": "John Martin",
-          "url": "https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq"
-        }
-      ],
-      "duration_ms": 172941,
-      "name": "All My Life (feat. John Martin)",
-      "url": "https://open.spotify.com/track/6ad31Nv4XWsxZqNGWzOcEd"
-    },
-    {
-      "added_at": "2026-11-13 05:00:56",
-      "album": {
         "name": "Another Life",
         "url": "https://open.spotify.com/album/3II7Hydkx3F4yOXdUGntwJ"
       },
@@ -2003,6 +1979,30 @@
       "duration_ms": 153529,
       "name": "Reckless 69",
       "url": "https://open.spotify.com/track/1E0ZDpi7dXbZAM5LuSG5uk"
+    },
+    {
+      "added_at": "2026-11-13 05:00:56",
+      "album": {
+        "name": "All My Life (feat. John Martin)",
+        "url": "https://open.spotify.com/album/47tfbM8Z9hEHC3YtMSEcrD"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Frank Walker",
+          "url": "https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq"
+        },
+        {
+          "name": "John Martin",
+          "url": "https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq"
+        }
+      ],
+      "duration_ms": 172941,
+      "name": "All My Life (feat. John Martin)",
+      "url": "https://open.spotify.com/track/6ad31Nv4XWsxZqNGWzOcEd"
     },
     {
       "added_at": "2026-11-13 05:00:56",
@@ -2387,22 +2387,6 @@
     {
       "added_at": "2026-11-13 05:00:56",
       "album": {
-        "name": "Keep Control",
-        "url": "https://open.spotify.com/album/5TQ88IYim8ADpDkDWnZWUA"
-      },
-      "artists": [
-        {
-          "name": "Kyle Watson",
-          "url": "https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "Keep Control",
-      "url": "https://open.spotify.com/track/2ldf5EYPaRXPqPlX50Sgbx"
-    },
-    {
-      "added_at": "2026-11-13 05:00:56",
-      "album": {
         "name": "Identity",
         "url": "https://open.spotify.com/album/7d6N7Y0s4UpsklTqRorhsk"
       },
@@ -2415,6 +2399,22 @@
       "duration_ms": 157847,
       "name": "Abraza",
       "url": "https://open.spotify.com/track/5LTG0kxIlsJp6n5QIUKBo2"
+    },
+    {
+      "added_at": "2026-11-13 05:00:56",
+      "album": {
+        "name": "Keep Control",
+        "url": "https://open.spotify.com/album/5TQ88IYim8ADpDkDWnZWUA"
+      },
+      "artists": [
+        {
+          "name": "Kyle Watson",
+          "url": "https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "Keep Control",
+      "url": "https://open.spotify.com/track/2ldf5EYPaRXPqPlX50Sgbx"
     },
     {
       "added_at": "2026-11-13 05:00:56",

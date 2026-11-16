@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 
 > 爽やかな1日を、スロー〜ミッドテンポな音楽と共に心地よくスタートしませんか？？
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,607 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,605 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 | 27 | [サヨナラCOLOR](https://open.spotify.com/track/2A0ujima89BfVrpG0aJnIq) | [SUPER BUTTER DOG](https://open.spotify.com/artist/3FxIxhSKWszGB3z3FoZDXh) | [grooblue](https://open.spotify.com/album/0EAMYAFAnh3421GkbvTI0e) | 5:18 |
 | 28 | [This Must Be The End](https://open.spotify.com/track/0xNmUTdY25XQocT9fcMCFk) | [Alex Amor](https://open.spotify.com/artist/5Zyv8W3WkYfo1PTbVBBHs0) | [Heavenly Bodies](https://open.spotify.com/album/3bEdIVHkADHY128d4jRy2i) | 4:10 |
 | 29 | [New To You](https://open.spotify.com/track/5bpWWMmId1gEjiw5l0fF4r) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [New To You](https://open.spotify.com/album/1EOchl5nhZjBbYYGPAK2Cq) | 2:31 |
-| 30 | [air](https://open.spotify.com/track/4p3na2GK15dJG3TQCWng8s) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs), [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1) | [air](https://open.spotify.com/album/5nVOQQOvUDshtoVbj0wtUR) | 4:26 |
-| 31 | [Flowers in June](https://open.spotify.com/track/5KcPziZTjRQUiEHFv4zAwW) | [Celine Wanyi](https://open.spotify.com/artist/6TDH7ncjLQmNKM1SdbggnZ) | [Flowers in June](https://open.spotify.com/album/73dWhP9sRHPHmZj0AZIWM9) | 3:18 |
+| 30 | [Flowers in June](https://open.spotify.com/track/5KcPziZTjRQUiEHFv4zAwW) | [Celine Wanyi](https://open.spotify.com/artist/6TDH7ncjLQmNKM1SdbggnZ) | [Flowers in June](https://open.spotify.com/album/73dWhP9sRHPHmZj0AZIWM9) | 3:18 |
+| 31 | [air](https://open.spotify.com/track/4p3na2GK15dJG3TQCWng8s) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs), [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1) | [air](https://open.spotify.com/album/5nVOQQOvUDshtoVbj0wtUR) | 4:26 |
 | 32 | [Need You Around](https://open.spotify.com/track/1q0InfGwHKTEYIHrYxh95Z) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Backflips in a Restaurant](https://open.spotify.com/album/3IKIobUDlcwhEs0tGJaLc7) | 2:45 |
 | 33 | [Love, At The End Of The World](https://open.spotify.com/track/5TDzozeZNIzs6oSTDngBbd) | [SEREN](https://open.spotify.com/artist/7834TkZnwWSMThBso3wKjL) | [Love, At The End Of The World](https://open.spotify.com/album/4N1jjlEFahaPfBEGBKkIEQ) | 3:00 |
 | 34 | [Fantasyland](https://open.spotify.com/track/1VlehMw5J8ySV6UkkuOiT2) | [Moody Joody](https://open.spotify.com/artist/0ndpuECxVStTsHhzq4Euxz) | [Fantasyland](https://open.spotify.com/album/55uT1MQ9TlY5sgV4w835ye) | 3:31 |
@@ -51,9 +51,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 | 41 | [Therapist's Daughter](https://open.spotify.com/track/4Wa4o786mF0RLlLoO2Sz4R) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Therapist's Daughter](https://open.spotify.com/album/3bcNya70WdDCtpcBK2V0Fl) | 2:53 |
 | 42 | [Kelly](https://open.spotify.com/track/5zg2SLq4J1w0y7n9TWP8s4) | [Kelly No Brakes](https://open.spotify.com/artist/0ZnVWrM636IZszLw8naK0V) | [Kelly](https://open.spotify.com/album/05y25pwHlCDzV03IBfJs7c) | 4:09 |
 | 43 | [No One Calls](https://open.spotify.com/track/5EuUiUYPMzE6Th5JFdxiNC) | [Carlina de Place](https://open.spotify.com/artist/3sH7pDSVIcvaR7AVOFeCiv) | [No One Calls](https://open.spotify.com/album/0FAMpkTEOBHFLspcPmCG6h) | 2:35 |
-| 44 | [Half Time](https://open.spotify.com/track/7vnDJaomEwLJljbe3e13Zq) | [Armlock](https://open.spotify.com/artist/7BoU3VkauvnYvttpymQ7pG) | [Half Time](https://open.spotify.com/album/0MX9JO9giB5l6KpbJilx5o) | 3:41 |
-| 45 | [I Want It Easy](https://open.spotify.com/track/5YJc3C3VJx8MpfKDfl9CTv) | [Lia Pappas\-Kemps](https://open.spotify.com/artist/7N15xabCPo5XjsUSTnGVes) | [I Want It Easy](https://open.spotify.com/album/3fZyKX3UiJOy6QtIPw0bnG) | 4:01 |
-| 46 | [Midsummer Mansion](https://open.spotify.com/track/5eknQ3ZQFqg7C45BitzhV4) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W) | [the gates](https://open.spotify.com/album/0XKZyisZfoJOCy5hK72Pnu) | 4:22 |
+| 44 | [I Want It Easy](https://open.spotify.com/track/5YJc3C3VJx8MpfKDfl9CTv) | [Lia Pappas\-Kemps](https://open.spotify.com/artist/7N15xabCPo5XjsUSTnGVes) | [I Want It Easy](https://open.spotify.com/album/3fZyKX3UiJOy6QtIPw0bnG) | 4:01 |
+| 45 | [Midsummer Mansion](https://open.spotify.com/track/5eknQ3ZQFqg7C45BitzhV4) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W) | [the gates](https://open.spotify.com/album/0XKZyisZfoJOCy5hK72Pnu) | 4:22 |
+| 46 | [Half Time](https://open.spotify.com/track/7vnDJaomEwLJljbe3e13Zq) | [Armlock](https://open.spotify.com/artist/7BoU3VkauvnYvttpymQ7pG) | [Half Time](https://open.spotify.com/album/0MX9JO9giB5l6KpbJilx5o) | 3:41 |
 | 47 | [In N Out](https://open.spotify.com/track/1qaXXn8O6sGopWeVXRnRr6) | [Zach Stephenson](https://open.spotify.com/artist/1HIoL8j6NeBRIdZLO8alwN) | [In N Out](https://open.spotify.com/album/08xTz3N0aYfduShwtz5Ec4) | 3:32 |
 | 48 | [Crawling](https://open.spotify.com/track/5gVu2dpIYNh64WzlqthDyr) | [Haley Bridge](https://open.spotify.com/artist/26Wvz5jI7hC4OZ59mRIqos) | [Crawling](https://open.spotify.com/album/6heE5ZRt9Ur9EOb8TsGbWB) | 2:08 |
 | 49 | [Bluebird](https://open.spotify.com/track/7JC9LqrsGddVUm1s1kkVtM) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Bluebird](https://open.spotify.com/album/0vfXAOcQKcNCJJNRbY6tbj) | 2:59 |
@@ -70,9 +70,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 | 60 | [Sleeping](https://open.spotify.com/track/7IqurzUAAiSkZtH0CmO04u) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [Sleeping](https://open.spotify.com/album/3MaY7jwsacEjRQDw8sG98V) | 3:32 |
 | 61 | [See You Soon](https://open.spotify.com/track/6J0iDtlXabHqZizUKWUAX8) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [See You Soon](https://open.spotify.com/album/3RnZzFLaoswdse4TKBEmmH) | 3:14 |
 | 62 | [Safe Place](https://open.spotify.com/track/2YAhGrQnWduKC9JGHR8BFj) | [Ålborg](https://open.spotify.com/artist/5RG6CMtljJC7BbVIfx0j7V) | [Safe Place](https://open.spotify.com/album/1JVaV7mszfevApAkTzzEAP) | 4:18 |
-| 63 | [Woohoo](https://open.spotify.com/track/4um1LI7lfwbCXDGfPmnXyC) | [Deb Fan](https://open.spotify.com/artist/7s1vLo9XJCtiFWWzidpl9m) | [ACT II: Silkworm](https://open.spotify.com/album/42v7lt7rHS8PatbcLTvnXV) | 2:16 |
-| 64 | [You Are Never Gone From Me](https://open.spotify.com/track/3X4aqjMeBDw4ISXy3M3Xtw) | [Morgana](https://open.spotify.com/artist/2qYwadDTn22zMJ9Q26ke0d) | [You Are Never Gone From Me](https://open.spotify.com/album/7czHkHTQJ2toJgow0V0zdQ) | 3:32 |
-| 65 | [dandelions](https://open.spotify.com/track/692Q0Ry0X0BV1C9XhORcVF) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [dandelions](https://open.spotify.com/album/4yWnb5waN424BvaVNA7N50) | 3:12 |
+| 63 | [dandelions](https://open.spotify.com/track/692Q0Ry0X0BV1C9XhORcVF) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [dandelions](https://open.spotify.com/album/4yWnb5waN424BvaVNA7N50) | 3:12 |
+| 64 | [Woohoo](https://open.spotify.com/track/4um1LI7lfwbCXDGfPmnXyC) | [Deb Fan](https://open.spotify.com/artist/7s1vLo9XJCtiFWWzidpl9m) | [ACT II: Silkworm](https://open.spotify.com/album/42v7lt7rHS8PatbcLTvnXV) | 2:16 |
+| 65 | [You Are Never Gone From Me](https://open.spotify.com/track/3X4aqjMeBDw4ISXy3M3Xtw) | [Morgana](https://open.spotify.com/artist/2qYwadDTn22zMJ9Q26ke0d) | [You Are Never Gone From Me](https://open.spotify.com/album/7czHkHTQJ2toJgow0V0zdQ) | 3:32 |
 | 66 | [Someplace Sometime Somehow](https://open.spotify.com/track/5XPm9MaJ9hlcfXURHANyIT) | [mpq](https://open.spotify.com/artist/50lYR3K96QJ3DyOHJr3Fom) | [Someplace Sometime Somehow](https://open.spotify.com/album/3dNOkKRc9HdtAfHfeVKhQ0) | 3:02 |
 | 67 | [Six Years Of Keeping On](https://open.spotify.com/track/0gSIr2lOp9I2mynmYdjzyf) | [jo from school](https://open.spotify.com/artist/3aDv6CO1l66pfxOz0RUQtT) | [Grace, Flair and Distance](https://open.spotify.com/album/3Q4kLbPexP7VnH4jymSPo6) | 3:00 |
 | 68 | [Stroll](https://open.spotify.com/track/16ZOciXTgbjHD4TxoaHxUL) | [THE CHARM PARK](https://open.spotify.com/artist/2QKf9jr434G3Mo8Hr9npPb) | [THE CHARM PARK III](https://open.spotify.com/album/6LJBCljK5gCes98Cq6HHbf) | 3:39 |
@@ -90,11 +90,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 | 80 | [It's about us](https://open.spotify.com/track/6uR1l4gP8KtnXF8fI1FqqI) | [Amiide](https://open.spotify.com/artist/7BKuLuQjskBFEVCk3JlDGR) | [It's about us](https://open.spotify.com/album/1J6AGLW8Lq80dgt0VVOrxr) | 3:38 |
 | 81 | [a plumber](https://open.spotify.com/track/7ICFekB0XzNPiqlVV9b6fI) | [jisokuryClub](https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO) | [a plumber](https://open.spotify.com/album/0rKTE4TkHK5aPKgtGTN7EN) | 3:29 |
 | 82 | [6 Years](https://open.spotify.com/track/6092TzQMKn8WgJuHHsy84h) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [6 Years](https://open.spotify.com/album/1pArqrd5AP2MuNvxAj6jDM) | 2:42 |
-| 83 | [girlhood](https://open.spotify.com/track/38PXyRblkgEYvJRAwX6XGD) | [NEW LORE](https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E) | [girlhood](https://open.spotify.com/album/3bfl3J5n57QdWtbaelu5RH) | 3:51 |
-| 84 | [My Way Home](https://open.spotify.com/track/1PmHzy1AebjGRue4hYVkpM) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Wonder, Won't You?](https://open.spotify.com/album/3aVD5rqyzp6fzi4do8MI1y) | 3:37 |
-| 85 | [B2B](https://open.spotify.com/track/2TalsuBazv4JesNUWj1QTh) | [EFI](https://open.spotify.com/artist/4h3xRZkaRJhrLs6cxtShbw) | [B2B](https://open.spotify.com/album/2EwLT20LcBAALdkeciGW9P) | 2:20 |
-| 86 | [Nothing Less](https://open.spotify.com/track/0fvmZ01vkAqUgz7aNmnNGt) | [\#1 Dads](https://open.spotify.com/artist/0RCHY4NGqCJ5GLWCYz2OiI) | [Nothing Less](https://open.spotify.com/album/0QU7RnyQ3IJX0ep4y2Vh4P) | 3:25 |
-| 87 | [Void,](https://open.spotify.com/track/0Wbjjfu5EifuNKDO0ClcP4) | [Fuyumi Abe](https://open.spotify.com/artist/3LMkQzoTUDoZaLhM58O2Ej) | [Void,](https://open.spotify.com/album/4skNJkAvcZmDW0yZXKBDJ0) | 3:15 |
+| 83 | [My Way Home](https://open.spotify.com/track/1PmHzy1AebjGRue4hYVkpM) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Wonder, Won't You?](https://open.spotify.com/album/3aVD5rqyzp6fzi4do8MI1y) | 3:37 |
+| 84 | [girlhood](https://open.spotify.com/track/38PXyRblkgEYvJRAwX6XGD) | [NEW LORE](https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E) | [girlhood](https://open.spotify.com/album/3bfl3J5n57QdWtbaelu5RH) | 3:51 |
+| 85 | [Void,](https://open.spotify.com/track/0Wbjjfu5EifuNKDO0ClcP4) | [Fuyumi Abe](https://open.spotify.com/artist/3LMkQzoTUDoZaLhM58O2Ej) | [Void,](https://open.spotify.com/album/4skNJkAvcZmDW0yZXKBDJ0) | 3:15 |
+| 86 | [B2B](https://open.spotify.com/track/2TalsuBazv4JesNUWj1QTh) | [EFI](https://open.spotify.com/artist/4h3xRZkaRJhrLs6cxtShbw) | [B2B](https://open.spotify.com/album/2EwLT20LcBAALdkeciGW9P) | 2:20 |
+| 87 | [Nothing Less](https://open.spotify.com/track/0fvmZ01vkAqUgz7aNmnNGt) | [\#1 Dads](https://open.spotify.com/artist/0RCHY4NGqCJ5GLWCYz2OiI) | [Nothing Less](https://open.spotify.com/album/0QU7RnyQ3IJX0ep4y2Vh4P) | 3:25 |
 | 88 | [Caterpillar](https://open.spotify.com/track/4Er5MHdgvsfc2zvqOMQRyI) | [Fiji Blue](https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe) | [Caterpillar](https://open.spotify.com/album/4S1zoniwS9PvDJ6n2GJW8i) | 2:49 |
 | 89 | [Reelin](https://open.spotify.com/track/2IUAGDffoWoasAGUPu5sM5) | [Squirrel Flower](https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni) | [Reelin](https://open.spotify.com/album/62Jnh12nK2w9rKee5BYNwE) | 2:42 |
 | 90 | [Fall Into You](https://open.spotify.com/track/6IpniKTQXAEjc2erLByfo2) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD), [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv) | [Fall Into You](https://open.spotify.com/album/4W2eUzZfKOC0PVE5RjCSlS) | 2:48 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 | 96 | [hopefully](https://open.spotify.com/track/3zMIgAPuXw9Q0zjAonJeBV) | [SAMOEDO](https://open.spotify.com/artist/7g6Mug4G6xLqi1odQOWdMp) | [hopefully](https://open.spotify.com/album/4ljCvm44YtilFTqYqSYZmI) | 4:14 |
 | 97 | [Sweet Lies \(feat\. Miyu Takeuchi\)](https://open.spotify.com/track/7G1A0oCpYCpOiXe05VyNBy) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [竹内美宥](https://open.spotify.com/artist/5PxUfN01MCRFIw7Quz8VZ7), [MIYUMIYU](https://open.spotify.com/artist/5lZiZQ5xaxp94Z9naAVKmg) | [Connection](https://open.spotify.com/album/3iFigjuA451SneLjONrGiK) | 3:11 |
 | 98 | [南の島](https://open.spotify.com/track/5lSvpFZXL4ExGDW8nceUKe) | [岩崎桃子](https://open.spotify.com/artist/0Yb6qJAprge68CFUcfIYu6) | [ぴかぴか](https://open.spotify.com/album/0fgbGNoJ8eIHzQoTOo6jnG) | 5:46 |
-| 99 | [LLL](https://open.spotify.com/track/0i8ApYhcfjA3Xm2l3Ki5UH) | [Julyan](https://open.spotify.com/artist/10ifu6MiIcrhdrUEWJsACG) | [LLL](https://open.spotify.com/album/26hxENh1EdzBUqa1Xw4kdj) | 3:33 |
-| 100 | [Bloom feat\. KIKI](https://open.spotify.com/track/6BsLjqplB626oHZbQvSndr) | [Ovall](https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv), [KIKI](https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM) | [Silent Storm](https://open.spotify.com/album/3DzHNZiuvnAX0TK8uAc3Os) | 3:26 |
+| 99 | [Bloom feat\. KIKI](https://open.spotify.com/track/6BsLjqplB626oHZbQvSndr) | [Ovall](https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv), [KIKI](https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM) | [Silent Storm](https://open.spotify.com/album/3DzHNZiuvnAX0TK8uAc3Os) | 3:26 |
+| 100 | [LLL](https://open.spotify.com/track/0i8ApYhcfjA3Xm2l3Ki5UH) | [Julyan](https://open.spotify.com/artist/10ifu6MiIcrhdrUEWJsACG) | [LLL](https://open.spotify.com/album/26hxENh1EdzBUqa1Xw4kdj) | 3:33 |
 
 Snapshot ID: `AAAAACW/x7yJ0z4rbii305CW3bo/WOWx`

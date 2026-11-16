@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rPchr.md) - [plain]
 
 > This is Arushi Jain\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98 likes - 28 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 99 likes - 28 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rPchr.md) - [plain]
 | 27 | [Farida](https://open.spotify.com/track/75sS8w13lxeUTKx6k0HR0K) | [Arushi Jain](https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ), [OSE](https://open.spotify.com/artist/4KVimrILKzTkQoo0A0ahvu) | [Just a Feeling](https://open.spotify.com/album/38ypqk1q18yzLtTWbetzIw) | 5:59 |
 | 28 | [Shanti](https://open.spotify.com/track/0cOT30jmHC4WVVbP9IzEWu) | [Arushi Jain](https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ), [OSE](https://open.spotify.com/artist/4KVimrILKzTkQoo0A0ahvu) | [Just a Feeling](https://open.spotify.com/album/38ypqk1q18yzLtTWbetzIw) | 5:29 |
 
-Snapshot ID: `avZTAAAAAACdRCeMUgPm5RTlfXvRUYLD`
+Snapshot ID: `avekgAAAAAA0iukB1SzhO1u+yIlAy0m+`

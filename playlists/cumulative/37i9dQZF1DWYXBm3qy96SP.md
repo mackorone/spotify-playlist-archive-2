@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: Los Bitchos
 
-2,436 songs - 5 day 22 hr 23 min
+2,437 songs - 5 day 22 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1299,7 +1299,7 @@
 | [Lucid Love](https://open.spotify.com/track/0HEO70JZIbctSuGFtf9SM6) | [Holding Absence](https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU) | [⁠Lucid Love](https://open.spotify.com/album/7sp5UmnYQIP05DsjGiYYIH) | 3:30 | 2026-07-03 | 2026-08-07 |
 | [Luckiest Man In The World](https://open.spotify.com/track/0SyEC4n2uU6OrRZRNxaogH) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [How To Dismantle An Atomic Bomb \(Re\-Assemble Edition\)](https://open.spotify.com/album/7o3k14ivnyWNPp6LM2NkgV) | 6:12 | 2024-11-22 | 2025-01-10 |
 | [Lucky Clover](https://open.spotify.com/track/6GevokAd21692eviYc1O0I) | [Whisper Doll](https://open.spotify.com/artist/5WqfNE3lDiQ7auVGw4lbuU) | [Lucky Clover](https://open.spotify.com/album/2CKeSsSVyW9dh81IfyvjU6) | 2:16 | 2026-10-01 | 2026-10-09 |
-| [Lucky, Forever](https://open.spotify.com/track/79zGDuB16RwJPPI5Vegmqa) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Pursuit of Anything](https://open.spotify.com/album/0NLI9IZhkXdAd39HJeo76c) | 4:24 | 2026-10-01 |  |
+| [Lucky, Forever](https://open.spotify.com/track/79zGDuB16RwJPPI5Vegmqa) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Pursuit of Anything](https://open.spotify.com/album/0NLI9IZhkXdAd39HJeo76c) | 4:24 | 2026-10-01 | 2026-11-16 |
 | [lyre](https://open.spotify.com/track/21NqnGe9Qfc4rSJkCSKHQP) | [Her New Knife](https://open.spotify.com/artist/3BGUNVzuoQ79pOjLxJsZZg) | [lyre](https://open.spotify.com/album/5Nqa0C4Z2vvZz6bZb2pKoC) | 2:43 | 2026-11-05 | 2026-11-13 |
 | [Machine](https://open.spotify.com/track/4OZsL523QNwRZMgJGwC2Lq) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Machine](https://open.spotify.com/album/1YSWmWb80zzj9Sp9ZEvyoD) | 4:00 | 2026-09-17 |  |
 | [MAD CONTROL](https://open.spotify.com/track/3mbumdEcCKGj7Ns04bS2U5) | [Baja](https://open.spotify.com/artist/5eNUcwvXeKJcLIrVJQhtp1) | [MAD CONTROL](https://open.spotify.com/album/4GfCf8VSvcXVfgEqoJMN7U) | 3:49 | 2024-08-09 | 2024-09-13 |
@@ -2075,6 +2075,7 @@
 | [The Hardest Thing](https://open.spotify.com/track/5ScaryMl0YslsJnBAb9CpD) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [The Hardest Thing](https://open.spotify.com/album/7LOVR9BqnzBE3fXoeq9XUi) | 3:21 | 2026-09-11 | 2026-10-02 |
 | [The Hives Forever Forever The Hives](https://open.spotify.com/track/2jfiQnjMbn7tnvcNiJIml2) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [The Hives Forever Forever The Hives](https://open.spotify.com/album/4dhvyOGnFrrfCIYoENyUiL) | 3:03 | 2025-08-14 | 2025-08-29 |
 | [The Indigo Streak](https://open.spotify.com/track/57bBIId9EiuZEMzNA54bKk) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Starcatcher](https://open.spotify.com/album/7i1NJXQNNFZPyjE0W3GPgE) | 4:04 | 2023-07-20 | 2023-07-28 |
+| [The Intersection](https://open.spotify.com/track/5s6OlGDfWIIuJ7SfWBGeFs) | [Radio Free Alice](https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj) | [What's In Between](https://open.spotify.com/album/0o3Zhp5zTfwhgCjPxPYZOj) | 3:42 | 2026-11-12 |  |
 | [The Joke](https://open.spotify.com/track/2rJXSza2JQaOajEZBUhQbJ) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [The Joke / Deranged](https://open.spotify.com/album/2zIIGIQOM1dMgI066dwBTB) | 3:57 | 2024-05-09 | 2024-05-19 |
 | [The Kid With the Crown](https://open.spotify.com/track/6kBDO64MhuMjmEOAaqXeLA) | [This Is Lorelei](https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun) | [The Kid With the Crown](https://open.spotify.com/album/39y5OKR1BBjPzqSvkcYBpa) | 4:14 | 2026-09-10 | 2026-09-26 |
 | [The Last Time](https://open.spotify.com/track/4YXmWAo4IHhHpkZbtlwBYm) | [Less Than Hollow](https://open.spotify.com/artist/6YKUQqeyWshUssuIyayCpD) | [No Looking Back](https://open.spotify.com/album/0dwAxWVt9N0HIO4QPmFZq5) | 3:21 | 2023-12-21 | 2024-01-05 |

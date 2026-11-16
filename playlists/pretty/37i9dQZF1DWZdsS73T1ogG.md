@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 
 > Descubre lo más nuevo del movimiento\. Cover: El Americano 4KT
 
-[Spotify](https://open.spotify.com/user/spotify) - 591,566 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 591,522 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [MY NIGGA](https://open.spotify.com/track/6qSQwTuSYlFL8x7y5YRVsg) | [El Americano 4KT](https://open.spotify.com/artist/7JGdIwHe5RyFZvLEuRdR7N), [THE FAVORITES](https://open.spotify.com/artist/7xCeAo7w31Gmz29052qZ5I) | [LAS PIRATIA 2.0](https://open.spotify.com/album/4jSPwznLbj9qC49kjiDmjl) | 2:29 |
+| 1 | [NAH 4 REAL](https://open.spotify.com/track/1nu5RWGJ9YLM7fsApy0uBW) | [El Americano 4KT](https://open.spotify.com/artist/7JGdIwHe5RyFZvLEuRdR7N), [THE FAVORITES](https://open.spotify.com/artist/7xCeAo7w31Gmz29052qZ5I) | [LAS PIRATIA 2.0](https://open.spotify.com/album/4jSPwznLbj9qC49kjiDmjl) | 2:31 |
 | 2 | [Últimamente \- W Sound 11](https://open.spotify.com/track/4JHDGUA2KSuqCNYtxQj44s) | [W Sound](https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4), [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Últimamente \(W Sound 11\)](https://open.spotify.com/album/6MZHIyPHLsTxQs0SqM3ipK) | 3:39 |
 | 3 | [Bello Love](https://open.spotify.com/track/6DUJpDcQrJ3N8r9MuWZA3a) | [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Lil Supa](https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K) | [Bello Love](https://open.spotify.com/album/6ycs34x4CApaQ6ctfb4smL) | 3:53 |
 | 4 | [Angelica](https://open.spotify.com/track/6YSDgb1AtIe39n8lygzERd) | [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [FANTA ROSARIO](https://open.spotify.com/artist/60QJavT1315GeS57lU0YXN) | [Kobe Brray 8](https://open.spotify.com/album/2tWsIeTy1Ta8dywMaD0zm8) | 3:28 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 | 99 | [Carolina](https://open.spotify.com/track/0aLgqklsBNnVValSEGssbz) | [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo) | [Mi Carpe Diem](https://open.spotify.com/album/5xNpY6LGUqNbluWuLJRNSl) | 2:53 |
 | 100 | [SI ME HICIERA EL DE LA LENGUA \(REMIX\) \(feat\. Luar La L\)](https://open.spotify.com/track/1ILSTelC5zM5zF1zMgb9pE) | [FANTA ROSARIO](https://open.spotify.com/artist/60QJavT1315GeS57lU0YXN), [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [SI ME HICIERA EL DE LA LENGUA \(REMIX\) \(feat\. Luar La L\)](https://open.spotify.com/album/7j6wj2Hw3jsgGqxbjAoLFe) | 5:24 |
 
-Snapshot ID: `AAAAAC0gvQoP+fMI892i9nBoq4GGqeuE`
+Snapshot ID: `AAAAADtQe/xAhr7IYNejUYGWICy+GaDp`

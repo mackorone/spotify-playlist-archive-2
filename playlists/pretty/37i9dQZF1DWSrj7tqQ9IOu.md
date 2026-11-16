@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > Les meilleurs sons du mois d'Octobre sélectionnés par les éditos de Spotify\. Photo : Snoh Aalegra
 
-[Spotify](https://open.spotify.com/user/spotify) - 401,090 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 401,080 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,10 +25,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 15 | [F4ck 4ever](https://open.spotify.com/track/7CLcLg7nH72tOmRmCqiupY) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Instinct](https://open.spotify.com/album/2VmBZ9e83yVxu4CFMpMOjq) | 3:16 |
 | 16 | [Poudrière](https://open.spotify.com/track/2F4AnwPb5Mgjb7CFF2CN53) | [La Fouine](https://open.spotify.com/artist/6QS84S3i4gwdEKqWoTtDLd), [Sinik](https://open.spotify.com/artist/1ONnyhQBTnkvg4QmI97hJg) | [Silence Radio](https://open.spotify.com/album/34QueCrNb3m1GZxzjvnk20) | 3:49 |
 | 17 | [One Car Hits Another](https://open.spotify.com/track/2eCTdjEiWw5d1BH1GCvotP) | [Panchiko](https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O), [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [One Car Hits Another](https://open.spotify.com/album/52M9CYJhNksfE3v5RTRxlL) | 3:09 |
-| 18 | [Maybe \(feat\. Lucky Daye\)](https://open.spotify.com/track/6DaDlK57XY6c5IbmWAjN8a) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Frequency Of Love](https://open.spotify.com/album/6uKjWjH2r2fsgfKaIsaYWw) | 3:43 |
-| 19 | [TAKE \(feat\. Tiakola\)](https://open.spotify.com/track/6OCuUyODOy951ky1yu4nVz) | [OMAH LAY](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [CLARITY OF MIND \(EXTENDED\)](https://open.spotify.com/album/54pgmzJXyjWZmGOzRkU9ud) | 2:22 |
-| 20 | [Canada Dry](https://open.spotify.com/track/65PLCeGlZFWbqLW8TlRZve) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [She’s the Best](https://open.spotify.com/album/5lxMKFdNAshWkJZsqr1FYD) | 3:21 |
-| 21 | [LESSTOMBÉ](https://open.spotify.com/track/2uF2XYjyn6hJSb79aa3mkf) | [Ino Casablanca](https://open.spotify.com/artist/5blvB6N3OACeH0gJL9BRqf) | [EXTASIAAAAA](https://open.spotify.com/album/3UgEqtgcM9rzK7wMmnwmTq) | 3:36 |
+| 18 | [TAKE \(feat\. Tiakola\)](https://open.spotify.com/track/6OCuUyODOy951ky1yu4nVz) | [OMAH LAY](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [CLARITY OF MIND \(EXTENDED\)](https://open.spotify.com/album/54pgmzJXyjWZmGOzRkU9ud) | 2:22 |
+| 19 | [Maybe \(feat\. Lucky Daye\)](https://open.spotify.com/track/6DaDlK57XY6c5IbmWAjN8a) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Frequency Of Love](https://open.spotify.com/album/6uKjWjH2r2fsgfKaIsaYWw) | 3:43 |
+| 20 | [LESSTOMBÉ](https://open.spotify.com/track/2uF2XYjyn6hJSb79aa3mkf) | [Ino Casablanca](https://open.spotify.com/artist/5blvB6N3OACeH0gJL9BRqf) | [EXTASIAAAAA](https://open.spotify.com/album/3UgEqtgcM9rzK7wMmnwmTq) | 3:36 |
+| 21 | [Canada Dry](https://open.spotify.com/track/65PLCeGlZFWbqLW8TlRZve) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [She’s the Best](https://open.spotify.com/album/5lxMKFdNAshWkJZsqr1FYD) | 3:21 |
 | 22 | [Flor de canela](https://open.spotify.com/track/7LYgPSU65SUgWju5fsF6GG) | [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [Flor de canela](https://open.spotify.com/album/3kJbxVlwtM3VELeSFzeevg) | 3:49 |
 | 23 | [Slide](https://open.spotify.com/track/0qdpMXB0cspUizTeX9q4xJ) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Slide](https://open.spotify.com/album/7bi37xGQrC5LMl66UG3KvI) | 3:20 |
 | 24 | [Mantra](https://open.spotify.com/track/2C03kn5yuBbreti2ZcO1og) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [SWALLOW!](https://open.spotify.com/album/3dQzmmWFcow0z84wGW6RpD) | 3:05 |

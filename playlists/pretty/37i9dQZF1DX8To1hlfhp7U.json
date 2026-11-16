@@ -1,6 +1,6 @@
 {
   "description": "Get ready for a full-body workout",
-  "num_followers": 93719,
+  "num_followers": 93730,
   "original_name": "Workout Bhangra",
   "owner": {
     "name": "Spotify",
@@ -279,26 +279,6 @@
     {
       "added_at": "2026-11-12 18:02:44",
       "album": {
-        "name": "Check It Out",
-        "url": "https://open.spotify.com/album/1vF3ag997oVOcaSYVlFytV"
-      },
-      "artists": [
-        {
-          "name": "Parmish Verma",
-          "url": "https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE"
-        },
-        {
-          "name": "Paradox",
-          "url": "https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui"
-        }
-      ],
-      "duration_ms": 195957,
-      "name": "Check It Out",
-      "url": "https://open.spotify.com/track/4VosVUajzm6nzGlSb6nP3L"
-    },
-    {
-      "added_at": "2026-11-12 18:02:44",
-      "album": {
         "name": "Illegal Weapon",
         "url": "https://open.spotify.com/album/3FZHxI5Qc9POrnW3Lr9z4P"
       },
@@ -315,6 +295,26 @@
       "duration_ms": 230000,
       "name": "Illegal Weapon",
       "url": "https://open.spotify.com/track/3Oe3VdPn6rAueriQvFhCBA"
+    },
+    {
+      "added_at": "2026-11-12 18:02:44",
+      "album": {
+        "name": "Check It Out",
+        "url": "https://open.spotify.com/album/1vF3ag997oVOcaSYVlFytV"
+      },
+      "artists": [
+        {
+          "name": "Parmish Verma",
+          "url": "https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE"
+        },
+        {
+          "name": "Paradox",
+          "url": "https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui"
+        }
+      ],
+      "duration_ms": 195957,
+      "name": "Check It Out",
+      "url": "https://open.spotify.com/track/4VosVUajzm6nzGlSb6nP3L"
     },
     {
       "added_at": "2026-11-12 18:02:44",

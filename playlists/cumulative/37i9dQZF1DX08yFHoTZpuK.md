@@ -4,7 +4,7 @@
 
 > Cutting\-edge dance music emerging from Japan.
 
-103 songs - 7 hr 17 min
+104 songs - 7 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [HYPNOTIZE](https://open.spotify.com/track/5r2FAkZaMsO5SsHwcywQTi) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [THE CORE \- 核](https://open.spotify.com/album/07J0T7JwhvJaX6ky1PiyM6) | 2:50 | 2026-01-23 |  |
 | [I SYNC](https://open.spotify.com/track/51aSWkFg6MHg2ciLjcnFRw) | [LAUSBUB](https://open.spotify.com/artist/1nK2FcujOkjFDDAr1EMo2M) | [ROMP](https://open.spotify.com/album/1aVH41SAin716xpep2O53d) | 4:19 | 2026-01-09 |  |
 | [IN THE RAIN x XDM](https://open.spotify.com/track/1V33peoBd9zVqKX5xUIjuh) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [IN THE RAIN](https://open.spotify.com/album/6ny2h77H2ss1kMCsxtY22L) | 3:14 | 2025-10-24 |  |
-| [In Your Arms](https://open.spotify.com/track/5QQCo78CIPxUwGRePzLra0) | [Triangle](https://open.spotify.com/artist/54RxQ4uMbHkUToyC78MUF5) | [In Your Arms](https://open.spotify.com/album/2IFMTH7WeuwFkA69GrPYe9) | 3:12 | 2026-08-30 |  |
+| [In Your Arms](https://open.spotify.com/track/5QQCo78CIPxUwGRePzLra0) | [Triangle](https://open.spotify.com/artist/54RxQ4uMbHkUToyC78MUF5) | [In Your Arms](https://open.spotify.com/album/2IFMTH7WeuwFkA69GrPYe9) | 3:12 | 2026-08-30 | 2026-11-16 |
 | [Iramante \(feat\. towa ainutoronica\)](https://open.spotify.com/track/35Enz9josqTO3TAssK9i5k) | [Snowk](https://open.spotify.com/artist/2IEDOKhzkk1EKk93fZ759r), [towa ainutoronica](https://open.spotify.com/artist/7yFnJKqApbDa5j8YQbUkvK) | [Iramante \(feat\. towa ainutoronica\)](https://open.spotify.com/album/4zVuJhOxMVnkKNvItySD7Y) | 5:03 | 2026-06-12 | 2026-08-12 |
 | [IYKYK](https://open.spotify.com/track/2lkhdnz6pWlErZuRLnBXTt) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [IYKYK](https://open.spotify.com/album/7wdkikXCR5G3KhzffeTMCL) | 3:00 | 2025-10-24 |  |
 | [Keep us in the loop](https://open.spotify.com/track/6O5GLEknWy44xP432YP2Ex) | [AmPm](https://open.spotify.com/artist/5Xcbv83o11Ez2XPHa1n8Pf) | [Keep us in the loop](https://open.spotify.com/album/4iphPY2yjE09hS7vDryfmU) | 3:15 | 2026-03-25 | 2026-06-11 |
@@ -99,6 +99,7 @@
 | [TRASHURE](https://open.spotify.com/track/0x9hcN9M7tZL8VipEkh6b4) | [Shinichi Osawa](https://open.spotify.com/artist/0s9KIyjWtFcsRdKtMECxFp) | [TRASHURE](https://open.spotify.com/album/2YDyOI32WjvZLSaFlOfn1U) | 2:41 | 2025-12-02 |  |
 | [Uneven Objects 1](https://open.spotify.com/track/5ZAlU658s1Y9B2QebY51OE) | [Albino Sound](https://open.spotify.com/artist/5MK0l7qvi1LxeXOhyUx8m0) | [130 EP](https://open.spotify.com/album/3EAJf5JLBRkRzue63TPRyl) | 4:57 | 2026-05-30 | 2026-06-26 |
 | [UPDOWN](https://open.spotify.com/track/7njm2KRGplV5aqcYNn4ZUh) | [plan i](https://open.spotify.com/artist/5w4PkCj88ZFwCZDi21y4Su), [S2](https://open.spotify.com/artist/0IzMiHAuFdr9HUYxgzaCS3), [MEZZ](https://open.spotify.com/artist/7LsZhGdSZFloGjMmcn5Wzu) | [UPDOWN](https://open.spotify.com/album/1NAekmeIgUBkIDOleDUnvX) | 3:26 | 2025-11-07 | 2025-12-13 |
+| [Verdant Rush](https://open.spotify.com/track/1XgXsobCO4aKMOpFtNwPcK) | [Stones Taro](https://open.spotify.com/artist/2lVqmVhV77js7wdmzUVdyB) | [Luminous Alluvium](https://open.spotify.com/album/4k2hvItPqB4GDRV5ulFwde) | 5:45 | 2026-11-15 |  |
 | [Walk Through The 8th \- DJ WADA Remix](https://open.spotify.com/track/231LOBMBTxZROggsyhV3d9) | [Ken Ishii](https://open.spotify.com/artist/0Jb1cpfG4GB6pZfroFhAw0), [Masaki Sakamoto](https://open.spotify.com/artist/0SnpRrNUq87R9ytNHgDbjT), [DJ Wada](https://open.spotify.com/artist/2RPVZCX4kne5nTAvqAH1hf) | [Walk Through The 8th \(Incl\. DJ WADA Remix\)](https://open.spotify.com/album/602TXtDh9LyAyVCl8Yejtb) | 6:05 | 2025-10-24 | 2025-11-15 |
 | [WANDALAND](https://open.spotify.com/track/21RATvsNy4HSe1pJogs0Xx) | [Shinichi Osawa](https://open.spotify.com/artist/0s9KIyjWtFcsRdKtMECxFp) | [WANDALAND](https://open.spotify.com/album/7yqwdkrebsVsReTU6dAc5j) | 2:39 | 2025-12-02 |  |
 | [Wayside](https://open.spotify.com/track/41BRWHGuqEcSZszacBBCld) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw), [Josie Man](https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ) | [We Are Always Under The Same Sky](https://open.spotify.com/album/0SpZZ8NyMsk2xlKrp9rBkJ) | 4:09 | 2025-10-24 |  |

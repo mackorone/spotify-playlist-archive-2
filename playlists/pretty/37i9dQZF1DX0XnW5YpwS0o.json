@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2016. Cover: AURORA",
-  "num_followers": 131044,
+  "num_followers": 131051,
   "original_name": "Best of Indie 2016",
   "owner": {
     "name": "Spotify",
@@ -403,22 +403,6 @@
     {
       "added_at": "2026-01-20 18:32:57",
       "album": {
-        "name": "Citizen of Glass",
-        "url": "https://open.spotify.com/album/78BjMfLH8YUXM6hbodHKmA"
-      },
-      "artists": [
-        {
-          "name": "Agnes Obel",
-          "url": "https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms"
-        }
-      ],
-      "duration_ms": 235988,
-      "name": "Familiar",
-      "url": "https://open.spotify.com/track/2EWnKuspetOzgfBtmaNZvJ"
-    },
-    {
-      "added_at": "2026-01-20 18:32:57",
-      "album": {
         "name": "Future Present Past",
         "url": "https://open.spotify.com/album/1SQjs5LxCj7J5WIZYg3h1D"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 264724,
       "name": "Threat of Joy",
       "url": "https://open.spotify.com/track/37ZgsOy8t4vMnGtMExr6ah"
+    },
+    {
+      "added_at": "2026-01-20 18:32:57",
+      "album": {
+        "name": "Citizen of Glass",
+        "url": "https://open.spotify.com/album/78BjMfLH8YUXM6hbodHKmA"
+      },
+      "artists": [
+        {
+          "name": "Agnes Obel",
+          "url": "https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms"
+        }
+      ],
+      "duration_ms": 235988,
+      "name": "Familiar",
+      "url": "https://open.spotify.com/track/2EWnKuspetOzgfBtmaNZvJ"
     },
     {
       "added_at": "2026-01-20 18:32:57",
@@ -483,6 +483,22 @@
     {
       "added_at": "2026-01-20 18:32:57",
       "album": {
+        "name": "Wild World (Complete Edition)",
+        "url": "https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 206493,
+      "name": "Good Grief",
+      "url": "https://open.spotify.com/track/1oxOiOjsi7plNOZEhoPLPj"
+    },
+    {
+      "added_at": "2026-01-20 18:32:57",
+      "album": {
         "name": "Signs of Light",
         "url": "https://open.spotify.com/album/0EFitK3T7hqin7iGMbpltM"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 281011,
       "name": "Decks Dark",
       "url": "https://open.spotify.com/track/4mRSbPLnOm54ttkTYvxxSY"
-    },
-    {
-      "added_at": "2026-01-20 18:32:57",
-      "album": {
-        "name": "Wild World (Complete Edition)",
-        "url": "https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 206493,
-      "name": "Good Grief",
-      "url": "https://open.spotify.com/track/1oxOiOjsi7plNOZEhoPLPj"
     },
     {
       "added_at": "2026-01-20 18:32:57",
@@ -627,22 +627,6 @@
     {
       "added_at": "2026-01-20 18:32:57",
       "album": {
-        "name": "A Moon Shaped Pool",
-        "url": "https://open.spotify.com/album/2ix8vWvvSp2Yo7rKMiWpkg"
-      },
-      "artists": [
-        {
-          "name": "Radiohead",
-          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
-        }
-      ],
-      "duration_ms": 220609,
-      "name": "Burn the Witch",
-      "url": "https://open.spotify.com/track/3DpuYpzkvUWXbmzCm6pfzR"
-    },
-    {
-      "added_at": "2026-01-20 18:32:57",
-      "album": {
         "name": "Home of the Strange",
         "url": "https://open.spotify.com/album/3PYk8e7eo2t5CA1Y3AvhaG"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 197426,
       "name": "Silvertongue",
       "url": "https://open.spotify.com/track/0yTJtxZJ5VLfBEHhiNUNeY"
+    },
+    {
+      "added_at": "2026-01-20 18:32:57",
+      "album": {
+        "name": "A Moon Shaped Pool",
+        "url": "https://open.spotify.com/album/2ix8vWvvSp2Yo7rKMiWpkg"
+      },
+      "artists": [
+        {
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "duration_ms": 220609,
+      "name": "Burn the Witch",
+      "url": "https://open.spotify.com/track/3DpuYpzkvUWXbmzCm6pfzR"
     },
     {
       "added_at": "2026-01-20 18:32:57",
@@ -807,22 +807,6 @@
     {
       "added_at": "2026-01-20 18:32:57",
       "album": {
-        "name": "Someone To Stay",
-        "url": "https://open.spotify.com/album/0JT94KA15duapEYHVQkq1l"
-      },
-      "artists": [
-        {
-          "name": "Vancouver Sleep Clinic",
-          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
-        }
-      ],
-      "duration_ms": 254013,
-      "name": "Someone To Stay",
-      "url": "https://open.spotify.com/track/7tMbZ0RGW0jFsBw7ipEPEV"
-    },
-    {
-      "added_at": "2026-01-20 18:32:57",
-      "album": {
         "name": "Skin",
         "url": "https://open.spotify.com/album/1sxqYNzozsrgu0Vh6jQ6Lr"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 262521,
       "name": "Say It",
       "url": "https://open.spotify.com/track/7ghmZhLpmQe9nTluI1czmr"
+    },
+    {
+      "added_at": "2026-01-20 18:32:57",
+      "album": {
+        "name": "Someone To Stay",
+        "url": "https://open.spotify.com/album/0JT94KA15duapEYHVQkq1l"
+      },
+      "artists": [
+        {
+          "name": "Vancouver Sleep Clinic",
+          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
+        }
+      ],
+      "duration_ms": 254013,
+      "name": "Someone To Stay",
+      "url": "https://open.spotify.com/track/7tMbZ0RGW0jFsBw7ipEPEV"
     },
     {
       "added_at": "2026-01-20 18:32:57",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2026-01-20 18:32:57",
       "album": {
-        "name": "First Steps",
-        "url": "https://open.spotify.com/album/1IH1Oz8jD4hyN3eg8aHdjv"
-      },
-      "artists": [
-        {
-          "name": "Two Feet",
-          "url": "https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH"
-        }
-      ],
-      "duration_ms": 129599,
-      "name": "Go Fuck Yourself",
-      "url": "https://open.spotify.com/track/3VAeTjREoKPY1exOXR4oBm"
-    },
-    {
-      "added_at": "2026-01-20 18:32:57",
-      "album": {
         "name": "wannabewithu",
         "url": "https://open.spotify.com/album/6dpQfnFTwIXPJ864jeldWW"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 456000,
       "name": "Lover Is a Day",
       "url": "https://open.spotify.com/track/76tGvMdmFKuiMew33ZNNA9"
+    },
+    {
+      "added_at": "2026-01-20 18:32:57",
+      "album": {
+        "name": "First Steps",
+        "url": "https://open.spotify.com/album/1IH1Oz8jD4hyN3eg8aHdjv"
+      },
+      "artists": [
+        {
+          "name": "Two Feet",
+          "url": "https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH"
+        }
+      ],
+      "duration_ms": 129599,
+      "name": "Go Fuck Yourself",
+      "url": "https://open.spotify.com/track/3VAeTjREoKPY1exOXR4oBm"
     },
     {
       "added_at": "2026-01-20 18:32:57",
@@ -1535,38 +1535,6 @@
     {
       "added_at": "2026-01-20 18:32:57",
       "album": {
-        "name": "22, A Million",
-        "url": "https://open.spotify.com/album/1PgfRdl3lPyACfUGH4pquG"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "33 \u201cGOD\u201d",
-      "url": "https://open.spotify.com/track/1LfWibYjk0TD8YNPtzym9A"
-    },
-    {
-      "added_at": "2026-01-20 18:32:57",
-      "album": {
-        "name": "Cleopatra",
-        "url": "https://open.spotify.com/album/5y1YWb4OONEGbxZQLRNUwO"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 201413,
-      "name": "Cleopatra",
-      "url": "https://open.spotify.com/track/5bzf1xrbqr1ttjAJuRz2xY"
-    },
-    {
-      "added_at": "2026-01-20 18:32:57",
-      "album": {
         "name": "Doubt (Summer Edit)",
         "url": "https://open.spotify.com/album/5Iz89vLs781T7u1xOgIPSZ"
       },
@@ -1583,18 +1551,18 @@
     {
       "added_at": "2026-01-20 18:32:57",
       "album": {
-        "name": "Flame",
-        "url": "https://open.spotify.com/album/2iZkVBCd88F8qnnJV9Vxje"
+        "name": "Cleopatra",
+        "url": "https://open.spotify.com/album/5y1YWb4OONEGbxZQLRNUwO"
       },
       "artists": [
         {
-          "name": "Sundara Karma",
-          "url": "https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP"
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
         }
       ],
-      "duration_ms": 227366,
-      "name": "Flame",
-      "url": "https://open.spotify.com/track/2yf63OXOJ7F7dYz9UbwlBB"
+      "duration_ms": 201413,
+      "name": "Cleopatra",
+      "url": "https://open.spotify.com/track/5bzf1xrbqr1ttjAJuRz2xY"
     },
     {
       "added_at": "2026-01-20 18:32:57",
@@ -1624,9 +1592,41 @@
           "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 309013,
-      "name": "8 (circle)",
-      "url": "https://open.spotify.com/track/47IklCMgkgWvI4jpkdrop0"
+      "duration_ms": 213000,
+      "name": "33 \u201cGOD\u201d",
+      "url": "https://open.spotify.com/track/1LfWibYjk0TD8YNPtzym9A"
+    },
+    {
+      "added_at": "2026-01-20 18:32:57",
+      "album": {
+        "name": "Real Love Baby",
+        "url": "https://open.spotify.com/album/6iTNM4iKs4myLCsqUnODJa"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "duration_ms": 189293,
+      "name": "Real Love Baby",
+      "url": "https://open.spotify.com/track/3MyQn1xBQwPtFJUUP7zB8s"
+    },
+    {
+      "added_at": "2026-01-20 18:32:57",
+      "album": {
+        "name": "Flame",
+        "url": "https://open.spotify.com/album/2iZkVBCd88F8qnnJV9Vxje"
+      },
+      "artists": [
+        {
+          "name": "Sundara Karma",
+          "url": "https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP"
+        }
+      ],
+      "duration_ms": 227366,
+      "name": "Flame",
+      "url": "https://open.spotify.com/track/2yf63OXOJ7F7dYz9UbwlBB"
     },
     {
       "added_at": "2026-01-20 18:32:57",

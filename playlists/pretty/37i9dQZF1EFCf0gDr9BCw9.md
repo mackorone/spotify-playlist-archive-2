@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5fDwKN0rk0zEGCIvuj9XFs">Billy Strayhorn</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 676 likes - 178 songs - 13 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 677 likes - 178 songs - 13 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 | 50 | [Smada](https://open.spotify.com/track/7Dmlki6DmsfeSADhrcNsI8) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Blues In Orbit](https://open.spotify.com/album/5nifIOxB4n4XLxgJDqGJUG) | 2:36 |
 | 51 | [Multi\-Colored Blue](https://open.spotify.com/track/5yOfOxh7w2NgMIvS9rMtqb) | [Roberta Gambarini](https://open.spotify.com/artist/5tW1LNzRtpzKpzTK7HAWTS) | [Easy to Love](https://open.spotify.com/album/6jLzz5vXJ760qXUA6fO5Ve) | 6:29 |
 | 52 | [Amad](https://open.spotify.com/track/7kLJahYJAdy3KYm5yqoE87) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Far East Suite](https://open.spotify.com/album/1JJIAHF3S3R7j6OzVw3fsw) | 4:29 |
-| 53 | [Agra](https://open.spotify.com/track/2x5q1OPU868c8F1f7a3UVd) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Far East Suite](https://open.spotify.com/album/1JJIAHF3S3R7j6OzVw3fsw) | 2:37 |
-| 54 | [Girls](https://open.spotify.com/track/0jz6M9pb3tH0UfQmc0fROr) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [The Nutcracker Suite \(Expanded Edition\)](https://open.spotify.com/album/6QHkNHDNvVkR3G8CDvF1Ug) | 2:40 |
+| 53 | [Girls](https://open.spotify.com/track/0jz6M9pb3tH0UfQmc0fROr) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [The Nutcracker Suite \(Expanded Edition\)](https://open.spotify.com/album/6QHkNHDNvVkR3G8CDvF1Ug) | 2:40 |
+| 54 | [Agra](https://open.spotify.com/track/2x5q1OPU868c8F1f7a3UVd) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Far East Suite](https://open.spotify.com/album/1JJIAHF3S3R7j6OzVw3fsw) | 2:37 |
 | 55 | [Depk](https://open.spotify.com/track/1VdJXVXMBvuW9Dp5zfxuFD) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Far East Suite](https://open.spotify.com/album/1JJIAHF3S3R7j6OzVw3fsw) | 2:37 |
 | 56 | [Paris Blues](https://open.spotify.com/track/0QRJ1gkliQdYdny35prqT2) | [Milt Jackson Quartet](https://open.spotify.com/artist/0OkXd29wRAUpYRin6jbXMQ) | [Statements](https://open.spotify.com/album/5bxVM8MACi8tPeNZqeaxIs) | 2:57 |
 | 57 | [Sonnet In Search of a Moor](https://open.spotify.com/track/4gnSAjbegG0GIlQTwyG6VI) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Such Sweet Thunder \(Expanded Edition\)](https://open.spotify.com/album/2atnsiXP0oFjUE7SGFdzNA) | 2:19 |
@@ -187,4 +187,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 | 177 | [Rhumbop](https://open.spotify.com/track/6ebY9lVt94BL4VWduLL0eq) | [Claude Bolling Big Band](https://open.spotify.com/artist/3YxemJtRsk1WR4ikdnfy6L), [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [A Drum Is a Woman, conte musical de Duke Ellington \(Live au Théâtre National de Chaillot en 1996\)](https://open.spotify.com/album/4sTOOHhshmGFyo6GvxHQRc) | 3:29 |
 | 178 | [Up and Down, up and Down \(I Will Lead Them up and Down\)](https://open.spotify.com/track/2miKp3bcM2dEB9FmLOG9nT) | [Czechoslovak Radio Jazz Orchestra](https://open.spotify.com/artist/6YynL3WAOLrsD1V7JFgkJc) | [Duke Ellington: Such Sweet Thunder](https://open.spotify.com/album/10AJORtPWhhRy02XfXgZ5C) | 2:52 |
 
-Snapshot ID: `Achr1AAAAAAXZJUhl+hkxQaDJzDWXUld`
+Snapshot ID: `AchxdAAAAAA3QdhkVmIA6LcFmzXQyT2D`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZeHVf.md) - [plain]
 
 > This is CeCe Winans\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,125 likes - 50 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,152 likes - 50 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZeHVf.md) - [plain]
 | 49 | [Peace On Earth](https://open.spotify.com/track/5GQ2cYa2yV3BRcTIX4opGl) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu), [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Peace On Earth](https://open.spotify.com/album/4EI2Y6wMp73xLk1JH9VIuV) | 4:36 |
 | 50 | [Jesus Loves Me](https://open.spotify.com/track/1HhMmo7BiHudre8MRAUn4w) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [The Hymns](https://open.spotify.com/album/7puuDi8qVM3WqVW2gj1aC9) | 3:06 |
 
-Snapshot ID: `avZTAAAAAACUIH1CCDkt+nseeIa/lsUC`
+Snapshot ID: `avekgAAAAAAsUTzxWrSIVc4nP/gVH38V`

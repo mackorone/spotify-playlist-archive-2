@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-2,429 songs - 5 day 5 hr 52 min
+2,430 songs - 5 day 5 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1530,7 +1530,7 @@
 | [När vinden blåser kallt](https://open.spotify.com/track/6YWDey7OfpF1UE6FD9aywI) | [Albin Johnsén](https://open.spotify.com/artist/6IfZesOI3vKCZy8pjzVknj), [William Segerdahl](https://open.spotify.com/artist/7h3jPDAAlfXOhid0q360Hh) | [När vinden blåser kallt](https://open.spotify.com/album/7gyuvekH6RECOct1BH4PKM) | 2:37 | 2022-05-20 | 2023-01-25 |
 | [Nära](https://open.spotify.com/track/2TG32mRqjRyu3m6HV7mYwk) | [UPPENBARA](https://open.spotify.com/artist/43blp0I6QmWnZmDW7yW9E7) | [Nära](https://open.spotify.com/album/35Bhcus7vIYWZAgQWELT40) | 2:25 | 2024-01-25 | 2024-02-23 |
 | [Nära dig](https://open.spotify.com/track/7iqKOoVK1vSUMbQ6WFdTDK) | [Anna Ternheim](https://open.spotify.com/artist/6xSTQT32ZxLQPe37QIC308) | [Nära dig](https://open.spotify.com/album/1rCpE2GysqULXRbD2tdgYs) | 2:42 | 2024-08-22 | 2025-02-19 |
-| [nära nåt så bra](https://open.spotify.com/track/314slNVWu8k7xw773zLLIu) | [Hanna Ferm](https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq) | [ett minne i taget](https://open.spotify.com/album/5r46KvNGLqpJ2YNPuEvUW7) | 3:06 | 2026-05-21 |  |
+| [nära nåt så bra](https://open.spotify.com/track/314slNVWu8k7xw773zLLIu) | [Hanna Ferm](https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq) | [ett minne i taget](https://open.spotify.com/album/5r46KvNGLqpJ2YNPuEvUW7) | 3:06 | 2026-05-21 | 2026-11-16 |
 | [Närmare då](https://open.spotify.com/track/49Qy5M3x7tpPPeHKJ4O6TU) | [Theo](https://open.spotify.com/artist/5vBoU7A2kwbTXyUPZK5Gq1) | [Närmare då](https://open.spotify.com/album/2oiwnIWZCXGX7b3NwwJwJY) | 2:51 | 2025-01-09 | 2025-05-23 |
 | [Nästa dag](https://open.spotify.com/track/0q5EhvrAo9zP1Qs10p3Uzc) | [noll2](https://open.spotify.com/artist/6goq2OWu3ncHBnpFtCZGHR) | [Nästa dag](https://open.spotify.com/album/6GRIajFbYcCsDvrOhrGLqx) | 2:32 | 2026-11-05 |  |
 | [Nästan där \(men aldrig fri\)](https://open.spotify.com/track/2E05ZVK7zLOvrc383jqBE0) | [Björn Holmgren](https://open.spotify.com/artist/4bVT7xfHUEirpqkTXE3Z7F) | [Nästan där \(men aldrig fri\)](https://open.spotify.com/album/5YauyqJ0gzOYmj8G8zsx90) | 2:56 | 2025-06-12 | 2025-08-16 |
@@ -2042,6 +2042,7 @@
 | [Sällskapssjuk](https://open.spotify.com/track/4ugFejJaVMZsvSMgHX9Fjj) | [Per Gessle](https://open.spotify.com/artist/5pFJ8lLOUnyEaNrrf7D1KK), [Lena Philipsson](https://open.spotify.com/artist/7rZYHhxGKbe1XepzlpDlKm) | [Sällskapssjuk](https://open.spotify.com/album/32boYR11uVt6E8lAWjrHY4) | 3:34 | 2024-05-02 | 2024-06-01 |
 | [Sätter färg på mig](https://open.spotify.com/track/5k2ASJQCLRyzg9J4gFPU6h) | [Axel Schylström](https://open.spotify.com/artist/0Oomam5yjtfqVPnscjx8GT) | [Sätter färg på mig](https://open.spotify.com/album/6ZaTXLvA5vdN28xXIbXwv1) | 2:28 | 2025-03-28 | 2025-07-04 |
 | [Så Fräsch](https://open.spotify.com/track/1mzhp880UmL26aTN99UjWu) | [Elecktra](https://open.spotify.com/artist/6vPnczhe7eoUlRdBrkISoK) | [Så Fräsch](https://open.spotify.com/album/4kw3dJQ231y8FAAZms8b8i) | 2:50 | 2024-06-06 | 2024-08-09 |
+| [Så lätt](https://open.spotify.com/track/0FTLZJk8x9qJrI7Dgwotr9) | [Genom Natten](https://open.spotify.com/artist/5UkGksYXrb5tn3IEjgVFb9) | [Så lätt](https://open.spotify.com/album/69xPHVyPT1C0V6kvB00K9g) | 3:08 | 2026-11-12 |  |
 | [Så nice](https://open.spotify.com/track/7ydwM6jH4kqbr7MOXp11NO) | [Syster Sol](https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5) | [Så nice](https://open.spotify.com/album/35gUoDZjN5C7yK6czZnp7y) | 2:49 | 2024-02-08 | 2024-03-25 |
 | [Så som i himlen](https://open.spotify.com/track/0rIuApgbdUQ2ItDiQt9pgM) | [Gogge](https://open.spotify.com/artist/7nwAfxcTz13PR6B2GqWckp) | [Så som i himlen](https://open.spotify.com/album/3juT8UbsOYGeP8LNZl06VD) | 2:34 | 2024-04-26 | 2024-05-24 |
 | [Så sött livet kan smaka](https://open.spotify.com/track/6UWivnKJZ7fojidyVzcNMp) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Svensk Rost](https://open.spotify.com/album/4WajYbYTC43tWcQx6E0OOu) | 2:49 | 2025-10-16 | 2026-02-13 |

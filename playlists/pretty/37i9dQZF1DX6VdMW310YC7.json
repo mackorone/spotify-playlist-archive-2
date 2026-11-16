@@ -1,6 +1,6 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 4012784,
+  "num_followers": 4012681,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
@@ -491,26 +491,6 @@
     {
       "added_at": "2026-11-13 05:01:01",
       "album": {
-        "name": "Smiling Through The Pain 3",
-        "url": "https://open.spotify.com/album/7btqsflspTMMLYmW7v15Z6"
-      },
-      "artists": [
-        {
-          "name": "Swimming Paul",
-          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
-        },
-        {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
-        }
-      ],
-      "duration_ms": 159325,
-      "name": "Stay Cool",
-      "url": "https://open.spotify.com/track/2415eI6C0m7OXK7J7vfdWv"
-    },
-    {
-      "added_at": "2026-11-13 05:01:01",
-      "album": {
         "name": "The Last Goodbye",
         "url": "https://open.spotify.com/album/4vpnU0Hu4c0KNq2p4nz4U2"
       },
@@ -527,6 +507,26 @@
       "duration_ms": 358983,
       "name": "The Last Goodbye",
       "url": "https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC"
+    },
+    {
+      "added_at": "2026-11-13 05:01:01",
+      "album": {
+        "name": "Smiling Through The Pain 3",
+        "url": "https://open.spotify.com/album/7btqsflspTMMLYmW7v15Z6"
+      },
+      "artists": [
+        {
+          "name": "Swimming Paul",
+          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
+        },
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        }
+      ],
+      "duration_ms": 159325,
+      "name": "Stay Cool",
+      "url": "https://open.spotify.com/track/2415eI6C0m7OXK7J7vfdWv"
     },
     {
       "added_at": "2026-11-13 05:01:01",
@@ -587,34 +587,18 @@
     {
       "added_at": "2026-11-13 05:01:01",
       "album": {
-        "name": "EVERYTHING IN ITS RIGHT PLACE",
-        "url": "https://open.spotify.com/album/3fQHrYU8bgPG5Gci6y6sjV"
+        "name": "Start Again",
+        "url": "https://open.spotify.com/album/43X6TZVig2360nHCauKFBc"
       },
       "artists": [
         {
-          "name": "jewels",
-          "url": "https://open.spotify.com/artist/4C9H5Lat1NEZasl8MQHvtB"
-        },
-        {
-          "name": "YUMA",
-          "url": "https://open.spotify.com/artist/5ynMbTlnZvBUxrxUrd6gs0"
-        },
-        {
-          "name": "SOMMA",
-          "url": "https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3"
-        },
-        {
-          "name": "MAGNUS",
-          "url": "https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w"
-        },
-        {
-          "name": "LE YORA",
-          "url": "https://open.spotify.com/artist/0JguaqQNo1CgVjFqtIXyGR"
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
         }
       ],
-      "duration_ms": 302044,
-      "name": "EVERYTHING IN ITS RIGHT PLACE",
-      "url": "https://open.spotify.com/track/03p9MCjq5ld1kRmqCGNXgs"
+      "duration_ms": 316097,
+      "name": "Start Again",
+      "url": "https://open.spotify.com/track/4pGVqPQ16iUfwE1kooCdLB"
     },
     {
       "added_at": "2026-11-13 05:01:01",
@@ -675,18 +659,34 @@
     {
       "added_at": "2026-11-13 05:01:01",
       "album": {
-        "name": "Start Again",
-        "url": "https://open.spotify.com/album/43X6TZVig2360nHCauKFBc"
+        "name": "EVERYTHING IN ITS RIGHT PLACE",
+        "url": "https://open.spotify.com/album/3fQHrYU8bgPG5Gci6y6sjV"
       },
       "artists": [
         {
-          "name": "Sultan + Shepard",
-          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+          "name": "jewels",
+          "url": "https://open.spotify.com/artist/4C9H5Lat1NEZasl8MQHvtB"
+        },
+        {
+          "name": "YUMA",
+          "url": "https://open.spotify.com/artist/5ynMbTlnZvBUxrxUrd6gs0"
+        },
+        {
+          "name": "SOMMA",
+          "url": "https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3"
+        },
+        {
+          "name": "MAGNUS",
+          "url": "https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w"
+        },
+        {
+          "name": "LE YORA",
+          "url": "https://open.spotify.com/artist/0JguaqQNo1CgVjFqtIXyGR"
         }
       ],
-      "duration_ms": 316097,
-      "name": "Start Again",
-      "url": "https://open.spotify.com/track/4pGVqPQ16iUfwE1kooCdLB"
+      "duration_ms": 302044,
+      "name": "EVERYTHING IN ITS RIGHT PLACE",
+      "url": "https://open.spotify.com/track/03p9MCjq5ld1kRmqCGNXgs"
     },
     {
       "added_at": "2026-11-13 05:01:01",
@@ -707,6 +707,26 @@
       "duration_ms": 223538,
       "name": "Caught Up In The Fire",
       "url": "https://open.spotify.com/track/1cskXAWztObojI6r2j60Al"
+    },
+    {
+      "added_at": "2026-11-13 05:01:01",
+      "album": {
+        "name": "Centuries",
+        "url": "https://open.spotify.com/album/5a43tQK1iJegXaXKz3QdB6"
+      },
+      "artists": [
+        {
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+        },
+        {
+          "name": "Prinze George",
+          "url": "https://open.spotify.com/artist/3o6TKTQIu0lCYcNtSO3i1G"
+        }
+      ],
+      "duration_ms": 287880,
+      "name": "Centuries",
+      "url": "https://open.spotify.com/track/0nRku7luPk4xnS1SU3S0am"
     },
     {
       "added_at": "2026-11-13 05:01:01",
@@ -735,22 +755,6 @@
     {
       "added_at": "2026-11-13 05:01:01",
       "album": {
-        "name": "ABOUT YOU",
-        "url": "https://open.spotify.com/album/4EisehMLZwMwc8lgLU3mWE"
-      },
-      "artists": [
-        {
-          "name": "AVAION",
-          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
-        }
-      ],
-      "duration_ms": 211875,
-      "name": "ABOUT YOU",
-      "url": "https://open.spotify.com/track/3WtsCUlsCUhmhHRY7gh97V"
-    },
-    {
-      "added_at": "2026-11-13 05:01:01",
-      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/3OQZaCnc8B6JxWyuZkCTI9"
       },
@@ -771,22 +775,18 @@
     {
       "added_at": "2026-11-13 05:01:01",
       "album": {
-        "name": "Centuries",
-        "url": "https://open.spotify.com/album/5a43tQK1iJegXaXKz3QdB6"
+        "name": "ABOUT YOU",
+        "url": "https://open.spotify.com/album/4EisehMLZwMwc8lgLU3mWE"
       },
       "artists": [
         {
-          "name": "Sultan + Shepard",
-          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
-        },
-        {
-          "name": "Prinze George",
-          "url": "https://open.spotify.com/artist/3o6TKTQIu0lCYcNtSO3i1G"
+          "name": "AVAION",
+          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
         }
       ],
-      "duration_ms": 287880,
-      "name": "Centuries",
-      "url": "https://open.spotify.com/track/0nRku7luPk4xnS1SU3S0am"
+      "duration_ms": 211875,
+      "name": "ABOUT YOU",
+      "url": "https://open.spotify.com/track/3WtsCUlsCUhmhHRY7gh97V"
     },
     {
       "added_at": "2026-11-13 05:01:01",
@@ -883,26 +883,6 @@
     {
       "added_at": "2026-11-13 05:01:01",
       "album": {
-        "name": "As Soon As I Get Home",
-        "url": "https://open.spotify.com/album/3E5N8NPp69VJcFROhdxJw7"
-      },
-      "artists": [
-        {
-          "name": "Rules",
-          "url": "https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA"
-        },
-        {
-          "name": "SHYA",
-          "url": "https://open.spotify.com/artist/3bUHVz55uXLTtxggKQyXIO"
-        }
-      ],
-      "duration_ms": 239885,
-      "name": "As Soon As I Get Home",
-      "url": "https://open.spotify.com/track/6dkawkK65WB7GeRg880lx9"
-    },
-    {
-      "added_at": "2026-11-13 05:01:01",
-      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/66nEONspKcrUL2BiKo0U4t"
       },
@@ -919,6 +899,26 @@
       "duration_ms": 200637,
       "name": "When You're Gone",
       "url": "https://open.spotify.com/track/1CfsBC96b0vxey9aVAkQlg"
+    },
+    {
+      "added_at": "2026-11-13 05:01:01",
+      "album": {
+        "name": "As Soon As I Get Home",
+        "url": "https://open.spotify.com/album/3E5N8NPp69VJcFROhdxJw7"
+      },
+      "artists": [
+        {
+          "name": "Rules",
+          "url": "https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA"
+        },
+        {
+          "name": "SHYA",
+          "url": "https://open.spotify.com/artist/3bUHVz55uXLTtxggKQyXIO"
+        }
+      ],
+      "duration_ms": 239885,
+      "name": "As Soon As I Get Home",
+      "url": "https://open.spotify.com/track/6dkawkK65WB7GeRg880lx9"
     },
     {
       "added_at": "2026-11-13 05:01:01",
@@ -963,6 +963,26 @@
     {
       "added_at": "2026-11-13 05:01:01",
       "album": {
+        "name": "Places",
+        "url": "https://open.spotify.com/album/0ztVQzAWvrm8HBVwebIsyM"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        },
+        {
+          "name": "Shimza",
+          "url": "https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX"
+        }
+      ],
+      "duration_ms": 211278,
+      "name": "Places",
+      "url": "https://open.spotify.com/track/2YiczArWQL4ScWgYrX7AXw"
+    },
+    {
+      "added_at": "2026-11-13 05:01:01",
+      "album": {
         "name": "Spirit Bird",
         "url": "https://open.spotify.com/album/5MBwoEnKyfli2K1l76HVpZ"
       },
@@ -999,26 +1019,6 @@
       "duration_ms": 185714,
       "name": "Viento",
       "url": "https://open.spotify.com/track/6ARNHLoAsHe4Xv1TTKQaYG"
-    },
-    {
-      "added_at": "2026-11-13 05:01:01",
-      "album": {
-        "name": "Places",
-        "url": "https://open.spotify.com/album/0ztVQzAWvrm8HBVwebIsyM"
-      },
-      "artists": [
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        },
-        {
-          "name": "Shimza",
-          "url": "https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX"
-        }
-      ],
-      "duration_ms": 211278,
-      "name": "Places",
-      "url": "https://open.spotify.com/track/2YiczArWQL4ScWgYrX7AXw"
     },
     {
       "added_at": "2026-11-13 05:01:01",
@@ -1267,30 +1267,6 @@
     {
       "added_at": "2026-11-13 05:01:01",
       "album": {
-        "name": "Bittersweet",
-        "url": "https://open.spotify.com/album/2YBVdVWIfh2qMHIwczlmdE"
-      },
-      "artists": [
-        {
-          "name": "Audien",
-          "url": "https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE"
-        },
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        },
-        {
-          "name": "Rosie Darling",
-          "url": "https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Bittersweet",
-      "url": "https://open.spotify.com/track/33Q6yV1CVOkgeqKmtjnWUE"
-    },
-    {
-      "added_at": "2026-11-13 05:01:01",
-      "album": {
         "name": "Finding Home",
         "url": "https://open.spotify.com/album/3CRJaVRt0ni52xagPsekyk"
       },
@@ -1315,6 +1291,30 @@
       "duration_ms": 300487,
       "name": "Magic",
       "url": "https://open.spotify.com/track/3q8D7O6GOuiNMBX8SJSt8K"
+    },
+    {
+      "added_at": "2026-11-13 05:01:01",
+      "album": {
+        "name": "Bittersweet",
+        "url": "https://open.spotify.com/album/2YBVdVWIfh2qMHIwczlmdE"
+      },
+      "artists": [
+        {
+          "name": "Audien",
+          "url": "https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE"
+        },
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        },
+        {
+          "name": "Rosie Darling",
+          "url": "https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Bittersweet",
+      "url": "https://open.spotify.com/track/33Q6yV1CVOkgeqKmtjnWUE"
     },
     {
       "added_at": "2026-11-13 05:01:01",
@@ -1435,6 +1435,38 @@
     {
       "added_at": "2026-11-13 05:01:01",
       "album": {
+        "name": "Call You Mine",
+        "url": "https://open.spotify.com/album/7iXSdSRYkTLShwvWdy2mbH"
+      },
+      "artists": [
+        {
+          "name": "HNE",
+          "url": "https://open.spotify.com/artist/2AR90aUsAcUfWSUtBCktSP"
+        }
+      ],
+      "duration_ms": 209696,
+      "name": "Call You Mine",
+      "url": "https://open.spotify.com/track/6qG5GRLvLtpT7uajaQO8UO"
+    },
+    {
+      "added_at": "2026-11-13 05:01:01",
+      "album": {
+        "name": "Next To You",
+        "url": "https://open.spotify.com/album/6M6bP82QvaUCx7AanqLBub"
+      },
+      "artists": [
+        {
+          "name": "Romain Garcia",
+          "url": "https://open.spotify.com/artist/7iCW4xyVOIklzZ2qc7pS5h"
+        }
+      ],
+      "duration_ms": 203572,
+      "name": "Next To You",
+      "url": "https://open.spotify.com/track/0Zo0QQMAV1zsImiaol6pI7"
+    },
+    {
+      "added_at": "2026-11-13 05:01:01",
+      "album": {
         "name": "AMi Vol. 1",
         "url": "https://open.spotify.com/album/4yZVkEpL1rV8n4KmSINpYb"
       },
@@ -1475,38 +1507,6 @@
     {
       "added_at": "2026-11-13 05:01:01",
       "album": {
-        "name": "Call You Mine",
-        "url": "https://open.spotify.com/album/7iXSdSRYkTLShwvWdy2mbH"
-      },
-      "artists": [
-        {
-          "name": "HNE",
-          "url": "https://open.spotify.com/artist/2AR90aUsAcUfWSUtBCktSP"
-        }
-      ],
-      "duration_ms": 209696,
-      "name": "Call You Mine",
-      "url": "https://open.spotify.com/track/6qG5GRLvLtpT7uajaQO8UO"
-    },
-    {
-      "added_at": "2026-11-13 05:01:01",
-      "album": {
-        "name": "Next To You",
-        "url": "https://open.spotify.com/album/6M6bP82QvaUCx7AanqLBub"
-      },
-      "artists": [
-        {
-          "name": "Romain Garcia",
-          "url": "https://open.spotify.com/artist/7iCW4xyVOIklzZ2qc7pS5h"
-        }
-      ],
-      "duration_ms": 203572,
-      "name": "Next To You",
-      "url": "https://open.spotify.com/track/0Zo0QQMAV1zsImiaol6pI7"
-    },
-    {
-      "added_at": "2026-11-13 05:01:01",
-      "album": {
         "name": "Sewn",
         "url": "https://open.spotify.com/album/4r51uVlWZVOutNSvswb0NH"
       },
@@ -1539,6 +1539,26 @@
       "duration_ms": 237172,
       "name": "Burning Up",
       "url": "https://open.spotify.com/track/4LJ0y24EWNaEgAfAOLXCHM"
+    },
+    {
+      "added_at": "2026-11-13 05:01:01",
+      "album": {
+        "name": "Aether",
+        "url": "https://open.spotify.com/album/24jwW4VYmuqawdcBOG6qY4"
+      },
+      "artists": [
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        },
+        {
+          "name": "CLOVES",
+          "url": "https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c"
+        }
+      ],
+      "duration_ms": 252574,
+      "name": "Everything Started Changing (feat. CLOVES)",
+      "url": "https://open.spotify.com/track/4ZRvdi2lE8YHtkOuIL9doO"
     },
     {
       "added_at": "2026-11-13 05:01:01",
@@ -1667,22 +1687,6 @@
     {
       "added_at": "2026-11-13 05:01:01",
       "album": {
-        "name": "The Ladder",
-        "url": "https://open.spotify.com/album/0BnvRhQDmp6pPITNv9jqAs"
-      },
-      "artists": [
-        {
-          "name": "George FitzGerald",
-          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
-        }
-      ],
-      "duration_ms": 249846,
-      "name": "The Ladder",
-      "url": "https://open.spotify.com/track/1nZu07VvySocuOdQ1jQuUg"
-    },
-    {
-      "added_at": "2026-11-13 05:01:01",
-      "album": {
         "name": "Fire To The Water",
         "url": "https://open.spotify.com/album/04iAq9moWG9qAJhTfeiRUV"
       },
@@ -1703,6 +1707,22 @@
     {
       "added_at": "2026-11-13 05:01:01",
       "album": {
+        "name": "The Ladder",
+        "url": "https://open.spotify.com/album/0BnvRhQDmp6pPITNv9jqAs"
+      },
+      "artists": [
+        {
+          "name": "George FitzGerald",
+          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
+        }
+      ],
+      "duration_ms": 249846,
+      "name": "The Ladder",
+      "url": "https://open.spotify.com/track/1nZu07VvySocuOdQ1jQuUg"
+    },
+    {
+      "added_at": "2026-11-13 05:01:01",
+      "album": {
         "name": "My Reflection",
         "url": "https://open.spotify.com/album/0kEg5Bj2cn0QZ89gEkBpaT"
       },
@@ -1715,26 +1735,6 @@
       "duration_ms": 257608,
       "name": "My Reflection",
       "url": "https://open.spotify.com/track/2wUOPi5t2EsSXguK0Gnkht"
-    },
-    {
-      "added_at": "2026-11-13 05:01:01",
-      "album": {
-        "name": "Here Again / Wild Again",
-        "url": "https://open.spotify.com/album/35HNH9ADGwhR3A1Ok8ahSd"
-      },
-      "artists": [
-        {
-          "name": "m\u00f6lly",
-          "url": "https://open.spotify.com/artist/6Xu5UlsnkfZs7hVBR9Gmxq"
-        },
-        {
-          "name": "Kazmyn",
-          "url": "https://open.spotify.com/artist/33MvRya7Aowzk32Yl2Rlhu"
-        }
-      ],
-      "duration_ms": 227069,
-      "name": "Here Again",
-      "url": "https://open.spotify.com/track/5ds1pxspUBAlYro772BO4x"
     },
     {
       "added_at": "2026-11-13 05:01:01",
@@ -1755,6 +1755,26 @@
       "duration_ms": 251100,
       "name": "With You",
       "url": "https://open.spotify.com/track/23NsaeC0oKF5ki7gDXIMmb"
+    },
+    {
+      "added_at": "2026-11-13 05:01:01",
+      "album": {
+        "name": "Here Again / Wild Again",
+        "url": "https://open.spotify.com/album/35HNH9ADGwhR3A1Ok8ahSd"
+      },
+      "artists": [
+        {
+          "name": "m\u00f6lly",
+          "url": "https://open.spotify.com/artist/6Xu5UlsnkfZs7hVBR9Gmxq"
+        },
+        {
+          "name": "Kazmyn",
+          "url": "https://open.spotify.com/artist/33MvRya7Aowzk32Yl2Rlhu"
+        }
+      ],
+      "duration_ms": 227069,
+      "name": "Here Again",
+      "url": "https://open.spotify.com/track/5ds1pxspUBAlYro772BO4x"
     },
     {
       "added_at": "2026-11-13 05:01:01",
@@ -1863,46 +1883,6 @@
     {
       "added_at": "2026-11-13 05:01:01",
       "album": {
-        "name": "Aether",
-        "url": "https://open.spotify.com/album/24jwW4VYmuqawdcBOG6qY4"
-      },
-      "artists": [
-        {
-          "name": "Gorgon City",
-          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
-        },
-        {
-          "name": "CLOVES",
-          "url": "https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c"
-        }
-      ],
-      "duration_ms": 252574,
-      "name": "Everything Started Changing (feat. CLOVES)",
-      "url": "https://open.spotify.com/track/4ZRvdi2lE8YHtkOuIL9doO"
-    },
-    {
-      "added_at": "2026-11-13 05:01:01",
-      "album": {
-        "name": "Electric Soul (YOTTO Remix)",
-        "url": "https://open.spotify.com/album/6Yih2X7fM2oyY2WEfxG6Hs"
-      },
-      "artists": [
-        {
-          "name": "Forester",
-          "url": "https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc"
-        },
-        {
-          "name": "YOTTO",
-          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
-        }
-      ],
-      "duration_ms": 226300,
-      "name": "Electric Soul - YOTTO Remix",
-      "url": "https://open.spotify.com/track/1zKN0MrtvBzpgOEOS8M6Jf"
-    },
-    {
-      "added_at": "2026-11-13 05:01:01",
-      "album": {
         "name": "feeling something",
         "url": "https://open.spotify.com/album/34j9PJGs4V9LPRDdOGSk92"
       },
@@ -1923,6 +1903,26 @@
       "duration_ms": 256000,
       "name": "feeling something",
       "url": "https://open.spotify.com/track/1Sp9umOnqKXjsqhELwazBY"
+    },
+    {
+      "added_at": "2026-11-13 05:01:01",
+      "album": {
+        "name": "Electric Soul (YOTTO Remix)",
+        "url": "https://open.spotify.com/album/6Yih2X7fM2oyY2WEfxG6Hs"
+      },
+      "artists": [
+        {
+          "name": "Forester",
+          "url": "https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc"
+        },
+        {
+          "name": "YOTTO",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+        }
+      ],
+      "duration_ms": 226300,
+      "name": "Electric Soul - YOTTO Remix",
+      "url": "https://open.spotify.com/track/1zKN0MrtvBzpgOEOS8M6Jf"
     },
     {
       "added_at": "2026-11-13 05:01:01",

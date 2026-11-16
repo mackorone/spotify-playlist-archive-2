@@ -54259,6 +54259,24 @@
     },
     {
       "album": {
+        "name": "Waking at Dawn",
+        "url": "https://open.spotify.com/album/5rvBOTHohJZk2aQHPJi6eU"
+      },
+      "artists": [
+        {
+          "name": "Roy Woods",
+          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
+        }
+      ],
+      "date_added": "2026-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Gwan Big up Urself",
+      "url": "https://open.spotify.com/track/5RLIG9RLyMYhQGH7MI98ny"
+    },
+    {
+      "album": {
         "name": "Dark Souls (Original Game Soundtrack)",
         "url": "https://open.spotify.com/album/3B9SD6YRBQce8AMVCL915V"
       },

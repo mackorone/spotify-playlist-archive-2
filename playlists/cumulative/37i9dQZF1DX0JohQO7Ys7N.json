@@ -517,32 +517,6 @@
     },
     {
       "album": {
-        "name": "NBO \u2018X\u2019 PRESS",
-        "url": "https://open.spotify.com/album/6czwEju8FIEBB8PMMuzpl8"
-      },
-      "artists": [
-        {
-          "name": "Xenia Manasseh",
-          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
-        },
-        {
-          "name": "Maali",
-          "url": "https://open.spotify.com/artist/0Bw2d3PrLLqnor0Y9tt9vk"
-        },
-        {
-          "name": "Hendrick Sam",
-          "url": "https://open.spotify.com/artist/3JCq2a0rntSwS9gtnhfNO9"
-        }
-      ],
-      "date_added": "2026-11-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 228000,
-      "name": "Bitter Sweet",
-      "url": "https://open.spotify.com/track/1qDz5NiUD1smerTp0bg6hA"
-    },
-    {
-      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/3zWISwsDNQcI3mDojttm6H"
       },
@@ -6150,6 +6124,32 @@
       "duration_ms": 127454,
       "name": "Some Loving",
       "url": "https://open.spotify.com/track/0mrmLmWkyFuBN66KMqihdR"
+    },
+    {
+      "album": {
+        "name": "NBO \u2018X\u2019 PRESS",
+        "url": "https://open.spotify.com/album/6czwEju8FIEBB8PMMuzpl8"
+      },
+      "artists": [
+        {
+          "name": "Xenia Manasseh",
+          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
+        },
+        {
+          "name": "Maali",
+          "url": "https://open.spotify.com/artist/0Bw2d3PrLLqnor0Y9tt9vk"
+        },
+        {
+          "name": "Hendrick Sam",
+          "url": "https://open.spotify.com/artist/3JCq2a0rntSwS9gtnhfNO9"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Something In Between",
+      "url": "https://open.spotify.com/track/1qDz5NiUD1smerTp0bg6hA"
     },
     {
       "album": {

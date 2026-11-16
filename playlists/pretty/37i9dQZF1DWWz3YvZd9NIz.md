@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 
 > The best hardstyle remixes of songs you know!
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,616 likes - 70 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,629 likes - 70 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,10 +60,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 | 50 | [Say My Name](https://open.spotify.com/track/0eJcHvpws3PMadlPdvdWMN) | [The Saints](https://open.spotify.com/artist/0CE9b5MpyYgJNxa2bNkOMc) | [Say My Name](https://open.spotify.com/album/4dqHl8fKO6P425shFTdXQP) | 2:00 |
 | 51 | [Born To Be Wild](https://open.spotify.com/track/3vAazqCsv319hC3nCFCarE) | [Gunz For Hire](https://open.spotify.com/artist/0WbAxASsYdodSlqwserDAW) | [Born To Be Wild](https://open.spotify.com/album/3qjDGn51BVWdh7ohi6b6LX) | 3:19 |
 | 52 | [Wake Me Up \- Hardstyle Mix](https://open.spotify.com/track/1H0GKvORF2YiLS6O2pr433) | [LORD HADES](https://open.spotify.com/artist/6uZI9bgqhHMDX1p4JPjQIo), [Hardstyle Covers](https://open.spotify.com/artist/5gAL0J3DdeKhYaN1jjGxRb) | [Wake Me Up](https://open.spotify.com/album/5uz4VdtMGQ93JoMkc8Ezij) | 2:59 |
-| 53 | [The Sinner](https://open.spotify.com/track/1vXhMbqeQdSpsdVNf8mP8n) | [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx), [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [Raakmo](https://open.spotify.com/artist/5RAiaze7u3rrFkJbFJ4dWG) | [The Sinner](https://open.spotify.com/album/0i17sHHGhyA9OSAPhwnYkH) | 3:29 |
-| 54 | [Cry For You](https://open.spotify.com/track/1RiqdvtgfR0yI6oj60AgiJ) | [Bloodlust](https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp) | [Cry For You](https://open.spotify.com/album/3ETkl7tsz902xmWHA9yljQ) | 2:48 |
+| 53 | [Daddy DJ](https://open.spotify.com/track/2Rq69o9Sim7evcQ382ylPR) | [Jordiz](https://open.spotify.com/artist/5xUW4ugFxRJtCe7RLIdKvV), [Karlie Chui](https://open.spotify.com/artist/3DRMPNs23drO22bqK9ceWA) | [Daddy DJ](https://open.spotify.com/album/6Fp2vEjNNadaQMw0JgbFCZ) | 3:42 |
+| 54 | [The Sinner](https://open.spotify.com/track/1vXhMbqeQdSpsdVNf8mP8n) | [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx), [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [Raakmo](https://open.spotify.com/artist/5RAiaze7u3rrFkJbFJ4dWG) | [The Sinner](https://open.spotify.com/album/0i17sHHGhyA9OSAPhwnYkH) | 3:29 |
 | 55 | [Euphoria \- Hardstyle Edit](https://open.spotify.com/track/6LABLxSNomagmMcVNhrPgA) | [Julian Brandts](https://open.spotify.com/artist/7gs4gtPp3xC3flmP0pauVd) | [Euphoria \(Hardstyle Edit\)](https://open.spotify.com/album/32FQWGoFHpoAlwtvNF0J3Z) | 3:34 |
-| 56 | [Daddy DJ](https://open.spotify.com/track/2Rq69o9Sim7evcQ382ylPR) | [Jordiz](https://open.spotify.com/artist/5xUW4ugFxRJtCe7RLIdKvV), [Karlie Chui](https://open.spotify.com/artist/3DRMPNs23drO22bqK9ceWA) | [Daddy DJ](https://open.spotify.com/album/6Fp2vEjNNadaQMw0JgbFCZ) | 3:42 |
+| 56 | [Cry For You](https://open.spotify.com/track/1RiqdvtgfR0yI6oj60AgiJ) | [Bloodlust](https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp) | [Cry For You](https://open.spotify.com/album/3ETkl7tsz902xmWHA9yljQ) | 2:48 |
 | 57 | [The Nights \- Hardstyle Edit](https://open.spotify.com/track/6V074QUpLYTJCaCJMfvX6q) | [Thymo](https://open.spotify.com/artist/0Gmzk17bmcYkxnZqyOWfbn) | [The Nights \(Hardstyle Edit\)](https://open.spotify.com/album/44i8OiSQzIOYJ69XyxooPP) | 2:30 |
 | 58 | [Halo](https://open.spotify.com/track/0ln00F04EahMrWIb1Qijqo) | [Always Mirin](https://open.spotify.com/artist/1bHV3u8ZUs2J2XNYxpvF8y) | [Halo](https://open.spotify.com/album/7ai7NJEVkIVTe2lPfYfC1X) | 2:50 |
 | 59 | [LOVE DON'T LET ME GO](https://open.spotify.com/track/2VEFILxPIsvijHQtwWSVU9) | [Krowdexx](https://open.spotify.com/artist/7Ecbym3UD6q848BAse6Qeb) | [LOVE DON'T LET ME GO](https://open.spotify.com/album/570TL1w3xvPBLH52kYinU4) | 3:04 |

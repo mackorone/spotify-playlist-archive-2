@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 
 > la nueva ola de artistas con Baskiat en portada\. 🌊✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,302 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,301 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [todonada](https://open.spotify.com/track/5LzKeL96VPG5PKANwKZyaM) | [Baskiat](https://open.spotify.com/artist/72L1NTsOwE8ZZ6kxll4UwU) | [todonada](https://open.spotify.com/album/33yQR3TBbRe4XSalCTCVNd) | 3:37 |
+| 1 | [todonada](https://open.spotify.com/track/5LzKeL96VPG5PKANwKZyaM) | [Baskiat](https://open.spotify.com/artist/72L1NTsOwE8ZZ6kxll4UwU) | [todonada](https://open.spotify.com/album/33yQR3TBbRe4XSalCTCVNd) | 3:33 |
 | 2 | [No me tokes el pelo](https://open.spotify.com/track/52NnDyxK1VLaygUNfrg1In) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [No me tokes el pelo](https://open.spotify.com/album/3PuBBQZ2r6sYoXS6qNZqVX) | 3:15 |
 | 3 | [missu\(－‸ ლ\)](https://open.spotify.com/track/7xf8DSO5glEj5hC0an7mM8) | [REYPA](https://open.spotify.com/artist/1wzeiKSV9ynzmzfLvynLiW) | [missu\(－‸ ლ\)](https://open.spotify.com/album/4I6rfGpWH83vXbuj2Rfl9m) | 2:13 |
 | 4 | [todo va a estar bien](https://open.spotify.com/track/7hxPZRwf8xYbFBtHAFUVXf) | [Azul Aimé](https://open.spotify.com/artist/2RK7ej33rvNMfEAqlWUqyY) | [todo va a estar bien](https://open.spotify.com/album/5hoZYTmJix6Mul0T4wV3xR) | 2:32 |

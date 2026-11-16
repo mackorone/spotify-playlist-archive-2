@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5d3EV11r5Nz.md) - [plain]
 
 > Lord, have mercy\. ☦️
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,161 likes - 75 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,447 likes - 75 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5d3EV11r5Nz.md) - [plain]
 | 74 | [The Communion Prayer](https://open.spotify.com/track/5HkcJpt7xdinzW1AGIMe7T) | [\*Ncense](https://open.spotify.com/artist/1jhsftNnoA2vv3WccXdMov) | [Rising from the East](https://open.spotify.com/album/7oY5EJXFdxM9nlXRsHuJfb) | 1:01 |
 | 75 | [The Dismissal \(Znammeny Chant\)](https://open.spotify.com/track/0mrmLZ0R00SLFpcjmsSiDf) | [St\. Symeon Orthodox Church Octet](https://open.spotify.com/artist/77rHMprwUfL0P6KubeEDtT) | [The Hours of Pascha](https://open.spotify.com/album/3aKLNCogCBKdtMOlS9n8UN) | 0:59 |
 
-Snapshot ID: `AAAAAPnRJd9vH3d29x5s2M0Iryr5IUeh`
+Snapshot ID: `AAAAAIWLUEYxVhrqMYm9mO/OBfVMt+QQ`

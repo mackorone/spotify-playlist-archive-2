@@ -2,9 +2,9 @@
 
 ### [발라드, 려요 \(K\-Pop Ballad Hits\)](https://open.spotify.com/playlist/37i9dQZF1DX5LEXW9eXA0n)
 
-> New & hot K\-Pop ballads\. \(Cover: LEE MU JIN \(이무진\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
+> New & hot K\-Pop ballads\. \(Cover: KYUHYUN\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,822 songs - 4 day 22 hr 20 min
+1,823 songs - 4 day 22 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Aching](https://open.spotify.com/track/017eGASA1dbhQOb942TuQx) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Alchemy of Souls, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/2lQsPX6qa4zqpcPwVLRCsU) | 4:11 | 2022-07-07 | 2022-10-08 |
 | [Acts of Goodbye](https://open.spotify.com/track/0rvda2l6aIaDdHYfC0JVSr) | [Cha ga eul](https://open.spotify.com/artist/4mSV7GdIFUByJJVxI4HyOi) | [Acts of Goodbye](https://open.spotify.com/album/2vKt7NF4G4v5lG0NCbJAiX) | 4:03 | 2026-09-30 |  |
 | [Adore \(with Choi moonseok\)](https://open.spotify.com/track/6h9VUjsb3xv5F01Wit0URp) | [LIMZY](https://open.spotify.com/artist/5UBoOzYYNpwHfwXqr1JNXS), [Choi Moon Seok](https://open.spotify.com/artist/0kgjv7IJnvcz5RmnHlXrdt) | [Adore \(with Choi moonseok\)](https://open.spotify.com/album/02RJLVNAY5wEJCrWIhR6jq) | 3:52 | 2023-02-24 | 2023-06-23 |
-| [AE](https://open.spotify.com/track/1JPbaf6KZmhKVWBuJVGZUa) | [Park Hyo Shin](https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj) | [A & E](https://open.spotify.com/album/7droYw9f5Gby9pgjzGH8yh) | 4:55 | 2026-04-03 |  |
+| [AE](https://open.spotify.com/track/1JPbaf6KZmhKVWBuJVGZUa) | [Park Hyo Shin](https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj) | [A & E](https://open.spotify.com/album/7droYw9f5Gby9pgjzGH8yh) | 4:55 | 2026-04-03 | 2026-11-16 |
 | [After A Long Time \(Our Secret Diary X ZIA\)](https://open.spotify.com/track/73ByHWU9prg74XMJHM6Nfy) | [Zia](https://open.spotify.com/artist/2vAxwTAH2OaInCfMxriCqk) | [After A Long Time \(Our Secret Diary X ZIA\)](https://open.spotify.com/album/2n59KRYHmLnU3SxfzRHKWv) | 3:30 | 2023-12-28 | 2024-05-18 |
 | [After All This Time](https://open.spotify.com/track/0ubeu6gkOuh7u2bSI1JVLQ) | [Kim Dong Ryul](https://open.spotify.com/artist/3zYyfrb4r6ZHI5Di0rB9bV) | [After All This Time](https://open.spotify.com/album/6cpEkxNAxbC0iPMrtn8BvN) | 3:25 | 2023-11-29 | 2024-03-29 |
 | [AFTER GROWING UP](https://open.spotify.com/track/7s6FOADTsp4wGwACGrCgXc) | [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot) | [LEESEOKHOON 5th EP Album 'Renewed Purpose'](https://open.spotify.com/album/7eBHjT8ryuqMRELgv3mpWS) | 3:48 | 2025-08-26 | 2025-12-05 |
@@ -108,7 +108,7 @@
 | [Always on your side](https://open.spotify.com/track/3QGPAafQu3bRCVa7mqOchZ) | [Kim Bum Soo](https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt) | [Always on your side](https://open.spotify.com/album/0nETRLU97ZOCWzSGoNqWkt) | 3:47 | 2022-03-24 | 2022-04-21 |
 | [Always with you](https://open.spotify.com/track/6tNtfR4sJfEzQmjhg7gWzy) | [Kim MinSeok](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [Always with you](https://open.spotify.com/album/1nmOHceICDLOOI3IgPHvdu) | 4:22 | 2023-02-27 | 2023-06-23 |
 | [Always With You](https://open.spotify.com/track/33P8OwNvoR8HduNAJkrAFs) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Jirisan \(Original Television Soundtrack\) Pt\. 9](https://open.spotify.com/album/5LHSj2l8CyQ5x3zRlIXUkF) | 3:26 | 2022-03-31 | 2022-06-07 |
-| [Always You](https://open.spotify.com/track/44YjvQqYO17jk0VeTY1LKe) | [Kim Won Joo](https://open.spotify.com/artist/047yOGiAm4YzgP6lgzxD0D) | [Always You \(Original Soundtrack from Recipe for Love, Pt\. 6\)](https://open.spotify.com/album/6X7eCHmm5pYJbbKn1ETnnP) | 3:44 | 2026-04-13 |  |
+| [Always You](https://open.spotify.com/track/44YjvQqYO17jk0VeTY1LKe) | [Kim Won Joo](https://open.spotify.com/artist/047yOGiAm4YzgP6lgzxD0D) | [Always You \(Original Soundtrack from Recipe for Love, Pt\. 6\)](https://open.spotify.com/album/6X7eCHmm5pYJbbKn1ETnnP) | 3:44 | 2026-04-13 | 2026-11-16 |
 | [Amazing You](https://open.spotify.com/track/6Obj7Vj37gWWqWCbS5PuYH) | [Jeon Sang Keun](https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd) | [Amazing You](https://open.spotify.com/album/2dTSzrGO5IhAXCfxDKP6s8) | 5:00 | 2025-10-20 | 2026-02-24 |
 | [an old school uniform](https://open.spotify.com/track/27QV3fXeVtjffZbeJQaGeJ) | [KCM](https://open.spotify.com/artist/2cijK40RWU3ouFUnwW8v3K) | [an old school uniform](https://open.spotify.com/album/1jNhj04U38EacwYNlb2QGw) | 4:35 | 2025-10-13 | 2026-01-21 |
 | [An Unfamiliar Day](https://open.spotify.com/track/4Q9mTqVTAHmkeJMsKZo2EZ) | [CHEN](https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq) | [DOCTOR LAWYER \(Original Television Soundtrack, Pt\. 2\)](https://open.spotify.com/album/6vlqa9cpCWCv56aMR0YwHb) | 4:04 | 2022-07-07 | 2022-09-06 |
@@ -725,6 +725,7 @@
 | [If You](https://open.spotify.com/track/3ljUQvsXMWIhjfukyHMzfS) | [BUMJIN](https://open.spotify.com/artist/3vljSA6N2aSE8U3OhNFkPy) | [If You](https://open.spotify.com/album/6VExHv2kasyrpCFgNVcQWt) | 4:11 | 2026-09-08 |  |
 | [If You Ask Me What Love Is](https://open.spotify.com/track/5zsMOF3yWT4U1Vw5eaMQFH) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [If You Ask Me What Love Is](https://open.spotify.com/album/79ZPROThlkTsw8QqWGYkPe) | 3:43 | 2024-10-16 | 2025-09-10 |
 | [If you change your mind](https://open.spotify.com/track/3j0gucP19lYwU0sSFezYFp) | [2AM](https://open.spotify.com/artist/5SnaL8SsjGMHQNyqpa8Zos) | [If you change your mind](https://open.spotify.com/album/3weNRiyxsmegdxmYnH458o) | 3:39 | 2024-01-05 | 2024-06-12 |
+| [If You Love](https://open.spotify.com/track/3Z6N5tnBhbIOdbJaxfSRDx) | [KCM](https://open.spotify.com/artist/2cijK40RWU3ouFUnwW8v3K) | [If You Love](https://open.spotify.com/album/0xPEaiuRn5rjyUM0gNwjGH) | 4:36 | 2026-11-16 |  |
 | [If you lovingly call my name](https://open.spotify.com/track/0tgxvf4rqBBeEB54h0nnRD) | [GyeongseoYeji](https://open.spotify.com/artist/5crpfIGj4lAUNuHYUY2TN9), [Jeon Gunho](https://open.spotify.com/artist/3WFFsW6pFOm0e2yVQLTYCX) | [If you lovingly call my name \(GyeongseoYeji x Jeon Gunho\)](https://open.spotify.com/album/1QD2UJupusQ9zBsldpvS3d) | 3:51 | 2023-09-14 | 2025-01-12 |
 | [If you see me](https://open.spotify.com/track/1kJSVgmiirpy69GZYealwW) | [BANHANA](https://open.spotify.com/artist/6RvPayywUEsk1MMK0Magpy) | [If you see me](https://open.spotify.com/album/3Ib1E0Oc3d6OzEAMZoSYXy) | 4:03 | 2024-12-05 | 2025-05-13 |
 | [If You See Me](https://open.spotify.com/track/6klI77nVgqRzC70S3xQy1i) | [LEEWOO](https://open.spotify.com/artist/3yqfDFGcPyMlSaR2AMKaSz) | [BY CHANCE PROJECT](https://open.spotify.com/album/0zSuVBhpSoJJZOJpT0f8Zb) | 3:25 | 2023-05-03 | 2023-09-19 |

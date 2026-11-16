@@ -1,12 +1,12 @@
 {
   "description": "Descubre el futuro de la m\u00fasica en M\u00e9xico en compa\u00f1\u00eda de Pepe Walker",
-  "num_followers": 93914,
+  "num_followers": 93916,
   "original_name": "RADAR M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGmGjxyQb2+TImulNpcMB+iqeArA",
+  "snapshot_id": "AAAAAE8kuuQbFJe1/pZnTwmVU2FIncDH",
   "tracks": [
     {
       "added_at": "2026-11-06 05:59:35",
@@ -543,22 +543,6 @@
     {
       "added_at": "2026-11-06 05:59:35",
       "album": {
-        "name": "LOBO",
-        "url": "https://open.spotify.com/album/6X2cduTYmnwObk9vQYUsbb"
-      },
-      "artists": [
-        {
-          "name": "EMJAY",
-          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
-        }
-      ],
-      "duration_ms": 147386,
-      "name": "LOBO",
-      "url": "https://open.spotify.com/track/5G2slHqvNBwVi5uefAo0lT"
-    },
-    {
-      "added_at": "2026-11-06 05:59:35",
-      "album": {
         "name": "C\u00ednico",
         "url": "https://open.spotify.com/album/2gnoJQ1HVX8hzNDsyi22gd"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 184044,
       "name": "BYE BYE",
       "url": "https://open.spotify.com/track/4fRl4vW5SN8V3zoekNCF4Z"
+    },
+    {
+      "added_at": "2026-11-06 05:59:35",
+      "album": {
+        "name": "LOBO",
+        "url": "https://open.spotify.com/album/6X2cduTYmnwObk9vQYUsbb"
+      },
+      "artists": [
+        {
+          "name": "EMJAY",
+          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
+        }
+      ],
+      "duration_ms": 147386,
+      "name": "LOBO",
+      "url": "https://open.spotify.com/track/5G2slHqvNBwVi5uefAo0lT"
     },
     {
       "added_at": "2026-11-06 05:59:35",
@@ -723,26 +723,6 @@
     {
       "added_at": "2026-11-06 05:59:35",
       "album": {
-        "name": "Dirty Money",
-        "url": "https://open.spotify.com/album/6ZY90lysSyNJyRZbLrRQyo"
-      },
-      "artists": [
-        {
-          "name": "Mosmo",
-          "url": "https://open.spotify.com/artist/72VOLmKfTw3AbBg4Nc7Inr"
-        },
-        {
-          "name": "Grupo Maximo Grado",
-          "url": "https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ"
-        }
-      ],
-      "duration_ms": 154785,
-      "name": "Dirty Money",
-      "url": "https://open.spotify.com/track/63olBLnupdKLRaOfbqFmco"
-    },
-    {
-      "added_at": "2026-11-06 05:59:35",
-      "album": {
         "name": "AYER (Plugg conciencia)",
         "url": "https://open.spotify.com/album/0WwrrFr6K8BBUgyjjuA2FR"
       },
@@ -767,6 +747,26 @@
       "duration_ms": 193674,
       "name": "AYER - Plugg conciencia",
       "url": "https://open.spotify.com/track/2cmGC5QRB7mNufvsGwwaZM"
+    },
+    {
+      "added_at": "2026-11-06 05:59:35",
+      "album": {
+        "name": "Dirty Money",
+        "url": "https://open.spotify.com/album/6ZY90lysSyNJyRZbLrRQyo"
+      },
+      "artists": [
+        {
+          "name": "Mosmo",
+          "url": "https://open.spotify.com/artist/72VOLmKfTw3AbBg4Nc7Inr"
+        },
+        {
+          "name": "Grupo Maximo Grado",
+          "url": "https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ"
+        }
+      ],
+      "duration_ms": 154785,
+      "name": "Dirty Money",
+      "url": "https://open.spotify.com/track/63olBLnupdKLRaOfbqFmco"
     },
     {
       "added_at": "2026-11-06 05:59:35",
@@ -839,26 +839,6 @@
     {
       "added_at": "2026-11-06 05:59:35",
       "album": {
-        "name": "\u2698incendi\u00e9 el jard\u00edn/// lo siento\u2698",
-        "url": "https://open.spotify.com/album/2JVmpU2d4eN05qVws1XRoP"
-      },
-      "artists": [
-        {
-          "name": "El Verumcito",
-          "url": "https://open.spotify.com/artist/0Xe3f3OUBfpL0WbRwAJXwY"
-        },
-        {
-          "name": "Emiliano Athie",
-          "url": "https://open.spotify.com/artist/1qho775jbZoPnNUR9Xtjzr"
-        }
-      ],
-      "duration_ms": 232258,
-      "name": "14 plegarias /x\\",
-      "url": "https://open.spotify.com/track/7refz4ih2vIt2O09qHowPP"
-    },
-    {
-      "added_at": "2026-11-06 05:59:35",
-      "album": {
         "name": "250cc",
         "url": "https://open.spotify.com/album/6nUtF0ygYhS5iJh8JvnfuB"
       },
@@ -879,6 +859,26 @@
       "duration_ms": 145161,
       "name": "250cc",
       "url": "https://open.spotify.com/track/0Ywh0NH8bmPTQFvQZ9G5yU"
+    },
+    {
+      "added_at": "2026-11-06 05:59:35",
+      "album": {
+        "name": "\u2698incendi\u00e9 el jard\u00edn/// lo siento\u2698",
+        "url": "https://open.spotify.com/album/2JVmpU2d4eN05qVws1XRoP"
+      },
+      "artists": [
+        {
+          "name": "El Verumcito",
+          "url": "https://open.spotify.com/artist/0Xe3f3OUBfpL0WbRwAJXwY"
+        },
+        {
+          "name": "Emiliano Athie",
+          "url": "https://open.spotify.com/artist/1qho775jbZoPnNUR9Xtjzr"
+        }
+      ],
+      "duration_ms": 232258,
+      "name": "14 plegarias /x\\",
+      "url": "https://open.spotify.com/track/7refz4ih2vIt2O09qHowPP"
     },
     {
       "added_at": "2026-11-06 05:59:35",
@@ -963,22 +963,6 @@
     {
       "added_at": "2026-11-06 05:59:35",
       "album": {
-        "name": "GU\u00c1RDAME.",
-        "url": "https://open.spotify.com/album/2Oc768ixeMZuYm1N6oxOJ0"
-      },
-      "artists": [
-        {
-          "name": "Yukun",
-          "url": "https://open.spotify.com/artist/4ov9qGZvnL4JWyKXDYSCPB"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "GU\u00c1RDAME.",
-      "url": "https://open.spotify.com/track/7n8UU4gGWIaPfKaoXjwQUx"
-    },
-    {
-      "added_at": "2026-11-06 05:59:35",
-      "album": {
         "name": "sobrio",
         "url": "https://open.spotify.com/album/3KX8pZkvemWmxWpi4gIKpY"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 240687,
       "name": "besos de esquimal",
       "url": "https://open.spotify.com/track/6yTjkPMy3fxKhD6fCwqMIt"
+    },
+    {
+      "added_at": "2026-11-06 05:59:35",
+      "album": {
+        "name": "GU\u00c1RDAME.",
+        "url": "https://open.spotify.com/album/2Oc768ixeMZuYm1N6oxOJ0"
+      },
+      "artists": [
+        {
+          "name": "Yukun",
+          "url": "https://open.spotify.com/artist/4ov9qGZvnL4JWyKXDYSCPB"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "GU\u00c1RDAME.",
+      "url": "https://open.spotify.com/track/7n8UU4gGWIaPfKaoXjwQUx"
     },
     {
       "added_at": "2026-11-06 05:59:35",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2026-11-06 05:59:35",
       "album": {
-        "name": "ETHEREA",
-        "url": "https://open.spotify.com/album/0hKkNYEMGdm5Zee2cItOZY"
-      },
-      "artists": [
-        {
-          "name": "Sofia Thompson",
-          "url": "https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK"
-        }
-      ],
-      "duration_ms": 224416,
-      "name": "Encu\u00e9ntrame en Tokio",
-      "url": "https://open.spotify.com/track/73tjbiUCCJjmhKOxIpE5eh"
-    },
-    {
-      "added_at": "2026-11-06 05:59:35",
-      "album": {
         "name": "CAMINO",
         "url": "https://open.spotify.com/album/0vUAfMyeqlXI2vHy22oKSw"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 184832,
       "name": "CAMINO",
       "url": "https://open.spotify.com/track/7HrQQQeBpXAaZkvdeX24yU"
+    },
+    {
+      "added_at": "2026-11-06 05:59:35",
+      "album": {
+        "name": "ETHEREA",
+        "url": "https://open.spotify.com/album/0hKkNYEMGdm5Zee2cItOZY"
+      },
+      "artists": [
+        {
+          "name": "Sofia Thompson",
+          "url": "https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK"
+        }
+      ],
+      "duration_ms": 224416,
+      "name": "Encu\u00e9ntrame en Tokio",
+      "url": "https://open.spotify.com/track/73tjbiUCCJjmhKOxIpE5eh"
     },
     {
       "added_at": "2026-11-06 05:59:35",
@@ -1207,26 +1207,6 @@
     {
       "added_at": "2026-11-06 05:59:35",
       "album": {
-        "name": "No puedo estar aqu\u00ed (feat. iza tkm)",
-        "url": "https://open.spotify.com/album/5ZLQVx0ai0on6tKN7FMv6j"
-      },
-      "artists": [
-        {
-          "name": "VV Brujo",
-          "url": "https://open.spotify.com/artist/3tshgsRowrEseqRaguXfZR"
-        },
-        {
-          "name": "iza tkm",
-          "url": "https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3"
-        }
-      ],
-      "duration_ms": 147586,
-      "name": "No puedo estar aqu\u00ed (feat. iza tkm)",
-      "url": "https://open.spotify.com/track/6XIe5UZSwsdgtuSTLuWlBP"
-    },
-    {
-      "added_at": "2026-11-06 05:59:35",
-      "album": {
         "name": "Todav\u00eda No",
         "url": "https://open.spotify.com/album/5ysZfMbmco9uRHe98XPiZq"
       },
@@ -1243,6 +1223,26 @@
       "duration_ms": 245669,
       "name": "Todav\u00eda No",
       "url": "https://open.spotify.com/track/43QyjSix5vl6eoSLyDBbiq"
+    },
+    {
+      "added_at": "2026-11-06 05:59:35",
+      "album": {
+        "name": "No puedo estar aqu\u00ed (feat. iza tkm)",
+        "url": "https://open.spotify.com/album/5ZLQVx0ai0on6tKN7FMv6j"
+      },
+      "artists": [
+        {
+          "name": "VV Brujo",
+          "url": "https://open.spotify.com/artist/3tshgsRowrEseqRaguXfZR"
+        },
+        {
+          "name": "iza tkm",
+          "url": "https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3"
+        }
+      ],
+      "duration_ms": 147586,
+      "name": "No puedo estar aqu\u00ed (feat. iza tkm)",
+      "url": "https://open.spotify.com/track/6XIe5UZSwsdgtuSTLuWlBP"
     },
     {
       "added_at": "2026-11-06 05:59:35",
@@ -1335,26 +1335,6 @@
     {
       "added_at": "2026-11-06 05:59:35",
       "album": {
-        "name": "DIAS LLUVIOSOS",
-        "url": "https://open.spotify.com/album/0LlsOHPgUsMadauJL0VALz"
-      },
-      "artists": [
-        {
-          "name": "Jas Marty",
-          "url": "https://open.spotify.com/artist/5TEGj13rqwwEDuuCCECNWE"
-        },
-        {
-          "name": "Plastikboy",
-          "url": "https://open.spotify.com/artist/3VN7GXEjDqW4IyEO3HgLYp"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "DIAS LLUVIOSOS",
-      "url": "https://open.spotify.com/track/76FdJ7Kb3cNaXPoOAyW2Wi"
-    },
-    {
-      "added_at": "2026-11-06 05:59:35",
-      "album": {
         "name": "T.V ADDICT (nitro)",
         "url": "https://open.spotify.com/album/727LHY7Z8C6n1S9qbbxbnJ"
       },
@@ -1371,6 +1351,26 @@
       "duration_ms": 210258,
       "name": "buttermilk 2",
       "url": "https://open.spotify.com/track/2yT6DwSVxB3WgyIUmDrnDZ"
+    },
+    {
+      "added_at": "2026-11-06 05:59:35",
+      "album": {
+        "name": "DIAS LLUVIOSOS",
+        "url": "https://open.spotify.com/album/0LlsOHPgUsMadauJL0VALz"
+      },
+      "artists": [
+        {
+          "name": "Jas Marty",
+          "url": "https://open.spotify.com/artist/5TEGj13rqwwEDuuCCECNWE"
+        },
+        {
+          "name": "Plastikboy",
+          "url": "https://open.spotify.com/artist/3VN7GXEjDqW4IyEO3HgLYp"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "DIAS LLUVIOSOS",
+      "url": "https://open.spotify.com/track/76FdJ7Kb3cNaXPoOAyW2Wi"
     },
     {
       "added_at": "2026-11-06 05:59:35",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2026-11-06 05:59:35",
       "album": {
+        "name": "QUE SE JODAN SI NO PUEDEN ASUMIR UNA BROMA",
+        "url": "https://open.spotify.com/album/1jf7Es2JD1smxFfXjH1X2f"
+      },
+      "artists": [
+        {
+          "name": "Gloory Hole",
+          "url": "https://open.spotify.com/artist/3iq1MFUd7NXDXWChm0E2mO"
+        }
+      ],
+      "duration_ms": 213753,
+      "name": "CADENAS",
+      "url": "https://open.spotify.com/track/349Ydk9bqg7hrbQHgJRTUF"
+    },
+    {
+      "added_at": "2026-11-06 05:59:35",
+      "album": {
         "name": "Llegan Y Se Van",
         "url": "https://open.spotify.com/album/06Wlr8IqqlIz3v0f2XfHs7"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 149652,
       "name": "Llegan Y Se Van",
       "url": "https://open.spotify.com/track/1Yuie40vJy35rA62TaVSAB"
-    },
-    {
-      "added_at": "2026-11-06 05:59:35",
-      "album": {
-        "name": "QUE SE JODAN SI NO PUEDEN ASUMIR UNA BROMA",
-        "url": "https://open.spotify.com/album/1jf7Es2JD1smxFfXjH1X2f"
-      },
-      "artists": [
-        {
-          "name": "Gloory Hole",
-          "url": "https://open.spotify.com/artist/3iq1MFUd7NXDXWChm0E2mO"
-        }
-      ],
-      "duration_ms": 213753,
-      "name": "CADENAS",
-      "url": "https://open.spotify.com/track/349Ydk9bqg7hrbQHgJRTUF"
     }
   ],
   "unique_name": "RADAR M\u00e9xico",

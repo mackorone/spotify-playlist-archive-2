@@ -1,6 +1,6 @@
 {
   "description": "From the very deep spirit of the almighty North. ",
-  "num_followers": 602620,
+  "num_followers": 602704,
   "original_name": "Northern Spirits",
   "owner": {
     "name": "Spotify",
@@ -539,22 +539,6 @@
     {
       "added_at": "2026-10-19 15:51:47",
       "album": {
-        "name": "Black Thunder",
-        "url": "https://open.spotify.com/album/4b9ASxLZiYaJXC4XsFgeDv"
-      },
-      "artists": [
-        {
-          "name": "The HU",
-          "url": "https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc"
-        }
-      ],
-      "duration_ms": 255000,
-      "name": "Black Thunder",
-      "url": "https://open.spotify.com/track/3cX0XeN0p3QKxtLu0MxNNy"
-    },
-    {
-      "added_at": "2026-10-19 15:51:47",
-      "album": {
         "name": "HEX",
         "url": "https://open.spotify.com/album/2T6UM5iM0cDeVnr7XVaam4"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 293988,
       "name": "Belladonna",
       "url": "https://open.spotify.com/track/01CBGRKQ7BGothCG4buKEE"
+    },
+    {
+      "added_at": "2026-10-19 15:51:47",
+      "album": {
+        "name": "Black Thunder",
+        "url": "https://open.spotify.com/album/4b9ASxLZiYaJXC4XsFgeDv"
+      },
+      "artists": [
+        {
+          "name": "The HU",
+          "url": "https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc"
+        }
+      ],
+      "duration_ms": 255000,
+      "name": "Black Thunder",
+      "url": "https://open.spotify.com/track/3cX0XeN0p3QKxtLu0MxNNy"
     },
     {
       "added_at": "2026-10-19 15:51:47",
@@ -699,38 +699,6 @@
     {
       "added_at": "2026-10-19 15:51:47",
       "album": {
-        "name": "Adore",
-        "url": "https://open.spotify.com/album/4Yf0HZRHPCZvRteeDMLcul"
-      },
-      "artists": [
-        {
-          "name": "Numenorean",
-          "url": "https://open.spotify.com/artist/2qBGuYUZX53HN4Vk7Msjlc"
-        }
-      ],
-      "duration_ms": 141750,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/3foIGbQ1FPZYJJ7RQ6v4Nj"
-    },
-    {
-      "added_at": "2026-10-19 15:51:47",
-      "album": {
-        "name": "Verjugar\u00f0ar / Walls",
-        "url": "https://open.spotify.com/album/7pLRMKZ1w4cBztLcmRdz8K"
-      },
-      "artists": [
-        {
-          "name": "Eiv\u00f8r",
-          "url": "https://open.spotify.com/artist/2dB4ya2W1Gvng8gjWSPu2H"
-        }
-      ],
-      "duration_ms": 274000,
-      "name": "Verjugar\u00f0ar / Walls",
-      "url": "https://open.spotify.com/track/3lQi8tyt2mKdCTaeTz5w0k"
-    },
-    {
-      "added_at": "2026-10-19 15:51:47",
-      "album": {
         "name": "Galdr",
         "url": "https://open.spotify.com/album/5EIujAPdoMNJepCWvKA6Tn"
       },
@@ -751,6 +719,22 @@
     {
       "added_at": "2026-10-19 15:51:47",
       "album": {
+        "name": "Adore",
+        "url": "https://open.spotify.com/album/4Yf0HZRHPCZvRteeDMLcul"
+      },
+      "artists": [
+        {
+          "name": "Numenorean",
+          "url": "https://open.spotify.com/artist/2qBGuYUZX53HN4Vk7Msjlc"
+        }
+      ],
+      "duration_ms": 141750,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/3foIGbQ1FPZYJJ7RQ6v4Nj"
+    },
+    {
+      "added_at": "2026-10-19 15:51:47",
+      "album": {
         "name": "Feast Of Silence",
         "url": "https://open.spotify.com/album/1QTNlTne1hb0WHJe0sF6K4"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 383160,
       "name": "Mandara",
       "url": "https://open.spotify.com/track/5U0awMJOLy123ikEFUIfHt"
+    },
+    {
+      "added_at": "2026-10-19 15:51:47",
+      "album": {
+        "name": "Verjugar\u00f0ar / Walls",
+        "url": "https://open.spotify.com/album/7pLRMKZ1w4cBztLcmRdz8K"
+      },
+      "artists": [
+        {
+          "name": "Eiv\u00f8r",
+          "url": "https://open.spotify.com/artist/2dB4ya2W1Gvng8gjWSPu2H"
+        }
+      ],
+      "duration_ms": 274000,
+      "name": "Verjugar\u00f0ar / Walls",
+      "url": "https://open.spotify.com/track/3lQi8tyt2mKdCTaeTz5w0k"
     },
     {
       "added_at": "2026-10-19 15:51:47",
@@ -783,22 +783,6 @@
     {
       "added_at": "2026-10-19 15:51:47",
       "album": {
-        "name": "Nor\u00f0rlj\u00f3s",
-        "url": "https://open.spotify.com/album/4UC8HNvhmz0b0ZspOcbmCa"
-      },
-      "artists": [
-        {
-          "name": "SK\u00c1LD",
-          "url": "https://open.spotify.com/artist/3uliAYf4KyTkBpVf3BiWVv"
-        }
-      ],
-      "duration_ms": 200786,
-      "name": "Nor\u00f0rlj\u00f3s",
-      "url": "https://open.spotify.com/track/0Sjps7HTP1MUPUXqBMXTt0"
-    },
-    {
-      "added_at": "2026-10-19 15:51:47",
-      "album": {
         "name": "Ella",
         "url": "https://open.spotify.com/album/4Bb09POxCDNaLQPXWO4qv9"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 234922,
       "name": "Ella",
       "url": "https://open.spotify.com/track/6QXieDRlH4Ofjg864USffV"
+    },
+    {
+      "added_at": "2026-10-19 15:51:47",
+      "album": {
+        "name": "Nor\u00f0rlj\u00f3s",
+        "url": "https://open.spotify.com/album/4UC8HNvhmz0b0ZspOcbmCa"
+      },
+      "artists": [
+        {
+          "name": "SK\u00c1LD",
+          "url": "https://open.spotify.com/artist/3uliAYf4KyTkBpVf3BiWVv"
+        }
+      ],
+      "duration_ms": 200786,
+      "name": "Nor\u00f0rlj\u00f3s",
+      "url": "https://open.spotify.com/track/0Sjps7HTP1MUPUXqBMXTt0"
     },
     {
       "added_at": "2026-10-19 15:51:47",
@@ -871,22 +871,6 @@
     {
       "added_at": "2026-10-19 15:51:47",
       "album": {
-        "name": "Heimferd",
-        "url": "https://open.spotify.com/album/5dAyptaUEbbguT3AdoJ0nK"
-      },
-      "artists": [
-        {
-          "name": "Danheim",
-          "url": "https://open.spotify.com/artist/1J1DiyVfll4d0cos64VSZb"
-        }
-      ],
-      "duration_ms": 251513,
-      "name": "Heimferd",
-      "url": "https://open.spotify.com/track/3oXOQV8tTV9kxhRu1iQQOQ"
-    },
-    {
-      "added_at": "2026-10-19 15:51:47",
-      "album": {
         "name": "Spine",
         "url": "https://open.spotify.com/album/4suNaIAqTmYMRHobGkoNQK"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 243645,
       "name": "Spine",
       "url": "https://open.spotify.com/track/5RH4pMfRt8d0jZQjk0fx3q"
+    },
+    {
+      "added_at": "2026-10-19 15:51:47",
+      "album": {
+        "name": "Heimferd",
+        "url": "https://open.spotify.com/album/5dAyptaUEbbguT3AdoJ0nK"
+      },
+      "artists": [
+        {
+          "name": "Danheim",
+          "url": "https://open.spotify.com/artist/1J1DiyVfll4d0cos64VSZb"
+        }
+      ],
+      "duration_ms": 251513,
+      "name": "Heimferd",
+      "url": "https://open.spotify.com/track/3oXOQV8tTV9kxhRu1iQQOQ"
     },
     {
       "added_at": "2026-10-19 15:51:47",
@@ -963,22 +963,6 @@
     {
       "added_at": "2026-10-19 15:51:47",
       "album": {
-        "name": "The Great Feast Underground",
-        "url": "https://open.spotify.com/album/6uTRCWcQo3LsnHFSvYCyUS"
-      },
-      "artists": [
-        {
-          "name": "Wind Rose",
-          "url": "https://open.spotify.com/artist/67ps5pbKVO7V9Fcb4lTIXz"
-        }
-      ],
-      "duration_ms": 284018,
-      "name": "The Great Feast Underground",
-      "url": "https://open.spotify.com/track/1mYq4zjy7PqLCaK8udRZEj"
-    },
-    {
-      "added_at": "2026-10-19 15:51:47",
-      "album": {
         "name": "Cyning",
         "url": "https://open.spotify.com/album/7rovqzFc7Vtb0XQBJiEgbo"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 209536,
       "name": "The Green Knight",
       "url": "https://open.spotify.com/track/3a6eoJDZAEW7TtH5KsVljC"
+    },
+    {
+      "added_at": "2026-10-19 15:51:47",
+      "album": {
+        "name": "The Great Feast Underground",
+        "url": "https://open.spotify.com/album/6uTRCWcQo3LsnHFSvYCyUS"
+      },
+      "artists": [
+        {
+          "name": "Wind Rose",
+          "url": "https://open.spotify.com/artist/67ps5pbKVO7V9Fcb4lTIXz"
+        }
+      ],
+      "duration_ms": 284018,
+      "name": "The Great Feast Underground",
+      "url": "https://open.spotify.com/track/1mYq4zjy7PqLCaK8udRZEj"
     },
     {
       "added_at": "2026-10-19 15:51:47",

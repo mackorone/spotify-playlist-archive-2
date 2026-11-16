@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3DfRqE.md) - [plain]
 
 > This is Jake Shimabukuro\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,800 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,802 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3DfRqE.md) - [plain]
 | 49 | [Makapu'u Sunrise](https://open.spotify.com/track/1grA2gXoL5HTKA9zp1pmnz) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Calm Seas](https://open.spotify.com/album/1H1nsvFuuDcRJLTEXRfuNr) | 2:40 |
 | 50 | [NADA SOUSOU](https://open.spotify.com/track/5fxN3wmbv8c121QjfbZhjZ) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Travels](https://open.spotify.com/album/4N4xt7jHI0BOL8wxTfHuVg) | 3:26 |
 
-Snapshot ID: `avZTAAAAAAAO+E+eGgStLwRLBdGIwt7O`
+Snapshot ID: `avekgAAAAAAHLlWqGZO3d6Yc7vIR24o+`

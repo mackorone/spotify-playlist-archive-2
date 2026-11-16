@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDSNCLbSH3WI.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2fdEf506uQJUK5dlS1HhNo">Dahi</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 463 likes - 170 songs - 10 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 462 likes - 170 songs - 10 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDSNCLbSH3WI.md) - [plain]
 | 86 | [The Helium Balloon](https://open.spotify.com/track/1qKduDCOSKvJPQ1PENrtF1) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Magazeen](https://open.spotify.com/artist/21D8ywf89eWxGJGx7IfMBW) | [The Album About Nothing](https://open.spotify.com/album/6aCr3UaB8lM9g6TtFB3qwd) | 4:47 |
 | 87 | [The God Smile](https://open.spotify.com/track/0GRlBzZQTBTadVwZeycIk7) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [The Album About Nothing](https://open.spotify.com/album/6aCr3UaB8lM9g6TtFB3qwd) | 5:16 |
 | 88 | [C.N.B.](https://open.spotify.com/track/5R08q0FbWLLQ5Bec8lQ3am) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Summertime '06](https://open.spotify.com/album/4Csoz10NhNJOrCTUoPBdUD) | 4:13 |
-| 89 | [Talk About It](https://open.spotify.com/track/44uZZ2tn0ucKwFrqJdhLTE) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Mez](https://open.spotify.com/artist/30C5wgn4celhRP3Tytv7R6), [Justus](https://open.spotify.com/artist/7qmpGpHTqrJfS1QhR9uYKp) | [Compton](https://open.spotify.com/album/6ZnMFVV5HDv2xmHG7bn7et) | 3:15 |
-| 90 | [Feels So Good](https://open.spotify.com/track/3HA9JaK01wlePDQLnEVqTf) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [13 Months of Sunshine](https://open.spotify.com/album/5B4zpYhcIOJXQO7YWBh0LE) | 2:11 |
+| 89 | [Feels So Good](https://open.spotify.com/track/3HA9JaK01wlePDQLnEVqTf) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [13 Months of Sunshine](https://open.spotify.com/album/5B4zpYhcIOJXQO7YWBh0LE) | 2:11 |
+| 90 | [Talk About It](https://open.spotify.com/track/44uZZ2tn0ucKwFrqJdhLTE) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Mez](https://open.spotify.com/artist/30C5wgn4celhRP3Tytv7R6), [Justus](https://open.spotify.com/artist/7qmpGpHTqrJfS1QhR9uYKp) | [Compton](https://open.spotify.com/album/6ZnMFVV5HDv2xmHG7bn7et) | 3:15 |
 | 91 | [Body Shop](https://open.spotify.com/track/4NaFV0Cq1PRJdN47anQ8ik) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Rebel Heart \(Deluxe\)](https://open.spotify.com/album/7gAghL70APCDziSZrCzpCX) | 3:39 |
 | 92 | [Handle](https://open.spotify.com/track/4MEYu03CxywIaxNuL3wRnt) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Blue Island](https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG) | 3:06 |
 | 93 | [Bi Fren](https://open.spotify.com/track/26SZ1qJihhDqvzjVjOKiQ0) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Apolonio](https://open.spotify.com/album/7HlxxaJOHK0ArY4Ae4Qfc7) | 2:51 |
@@ -148,8 +148,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDSNCLbSH3WI.md) - [plain]
 | 138 | [Borrowed Time](https://open.spotify.com/track/23CC33P3SNoT0kzCL8vnux) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Rebel Heart \(Deluxe\)](https://open.spotify.com/album/7gAghL70APCDziSZrCzpCX) | 3:24 |
 | 139 | [Day After Forever](https://open.spotify.com/track/6KQnjqWtjcgyTmqJBHfEpq) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [The Rebirth 2](https://open.spotify.com/album/6ge7TzHO6gXdfxrtavSr69) | 3:24 |
 | 140 | [No Rush](https://open.spotify.com/track/4c64pv62eIouCuPHq6CXkl) | [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz) | [STAY](https://open.spotify.com/album/733z83e8O7NxUNJvLXmmZp) | 2:56 |
-| 141 | [Played Me](https://open.spotify.com/track/4G78cLI7es3u3NLu9pIOfH) | [Ama](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L) | [I Came Home Late](https://open.spotify.com/album/2Py2P92ndsLK4oQnbhhRud) | 3:20 |
-| 142 | [Wish You Well](https://open.spotify.com/track/22TwGp4fTgPdljzpEgrfgz) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Blue Island](https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG) | 3:30 |
+| 141 | [Wish You Well](https://open.spotify.com/track/22TwGp4fTgPdljzpEgrfgz) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Blue Island](https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG) | 3:30 |
+| 142 | [Played Me](https://open.spotify.com/track/4G78cLI7es3u3NLu9pIOfH) | [Ama](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L) | [I Came Home Late](https://open.spotify.com/album/2Py2P92ndsLK4oQnbhhRud) | 3:20 |
 | 143 | [GONE \(feat\. KIRBY\)](https://open.spotify.com/track/6VnzFlhf19vmBlrIDin9y3) | [Sam Dew](https://open.spotify.com/artist/1SIw8nXWjvAKeb6Dhh85cz), [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [MOONLIT FOOLS](https://open.spotify.com/album/1QeiSQx4kOgkncEVUM5Nud) | 2:53 |
 | 144 | [Barriers](https://open.spotify.com/track/5vPxOu3JpgJqYC0MB9opob) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Blue Island](https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG) | 4:09 |
 | 145 | [DECEIVED](https://open.spotify.com/track/7Lzaeenk97uEdQltVzGPm6) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [Viceroy](https://open.spotify.com/album/6qQPlbeJBHwJd0iAzpmdoU) | 2:40 |
@@ -179,4 +179,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDSNCLbSH3WI.md) - [plain]
 | 169 | [YAH](https://open.spotify.com/track/56huEpZCBEm8qx1bWSeRf9) | [Bethel Adekogbe](https://open.spotify.com/artist/5QThtzr4WbyYjp1QMr66Gz) | [House of God](https://open.spotify.com/album/3x7I5wa60q82pPeVTxr3w8) | 2:23 |
 | 170 | [Mamacita](https://open.spotify.com/track/5FhcbG04J2xE4Yl89tU0tJ) | [TUAWKI](https://open.spotify.com/artist/5qcbpph3M3q5LKCD7TH6RZ) | [Slopped + Chewed Vol\. 4](https://open.spotify.com/album/2H7pgyDHTtaee6AL6je1xZ) | 3:40 |
 
-Snapshot ID: `Achr1AAAAAAR5kdpUTcDNpWr6u/Y0faS`
+Snapshot ID: `AchxdAAAAACyjc1lqs2fXGFE5vnZ/+Yr`

@@ -934,7 +934,7 @@
       ],
       "date_added": "2026-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 258235,
       "name": "All Night Long",
       "url": "https://open.spotify.com/track/1YMQT3sNntgjqFJQObtRre"
@@ -970,7 +970,7 @@
       ],
       "date_added": "2026-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 314210,
       "name": "All The Lovers",
       "url": "https://open.spotify.com/track/4WXNi3vDKyiOiuwz7JvkDf"
@@ -1378,7 +1378,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-15",
+      "date_removed": null,
       "duration_ms": 278108,
       "name": "Another Life",
       "url": "https://open.spotify.com/track/1XkFICmCusitYkiiAFREeG"
@@ -2736,7 +2736,7 @@
       ],
       "date_added": "2026-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 171907,
       "name": "Blood",
       "url": "https://open.spotify.com/track/6eY15HTD4h77DwxvI2wmEO"
@@ -3704,7 +3704,7 @@
       ],
       "date_added": "2026-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 308440,
       "name": "Capsule",
       "url": "https://open.spotify.com/track/11HZLz069zPopWFCU6Nhpa"
@@ -4416,6 +4416,24 @@
       "duration_ms": 196447,
       "name": "Cold Sweats",
       "url": "https://open.spotify.com/track/4xAbFkGcPhdws0Xu3lCYhG"
+    },
+    {
+      "album": {
+        "name": "Collide",
+        "url": "https://open.spotify.com/album/0FTZBHvifMAR1yv0suRkbI"
+      },
+      "artists": [
+        {
+          "name": "Deblocka",
+          "url": "https://open.spotify.com/artist/7K70cQjlQgf2V2fkOoWR7R"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372625,
+      "name": "Collide",
+      "url": "https://open.spotify.com/track/3UcSyWDgN2dT2BW0D9Qu66"
     },
     {
       "album": {
@@ -6316,6 +6334,28 @@
       "duration_ms": 419951,
       "name": "Die With Me - Bonus Track",
       "url": "https://open.spotify.com/track/2e2oV8Hlbn5HB2qSkEFRBE"
+    },
+    {
+      "album": {
+        "name": "Die Young",
+        "url": "https://open.spotify.com/album/5GYw7ZhwToCnWToUmzKmBb"
+      },
+      "artists": [
+        {
+          "name": "Corlyx",
+          "url": "https://open.spotify.com/artist/2K8LJm6DxnMVU6fQklN5Z5"
+        },
+        {
+          "name": "MGT",
+          "url": "https://open.spotify.com/artist/3PqVHXAGKxJxt6V4vR6pvi"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269793,
+      "name": "Die Young",
+      "url": "https://open.spotify.com/track/3gSNAba9cHJL3KoKfvOmxc"
     },
     {
       "album": {
@@ -10693,6 +10733,24 @@
     },
     {
       "album": {
+        "name": "I Bet you bet on me",
+        "url": "https://open.spotify.com/album/3BjBh4lXnTVJmfkyZWPaB4"
+      },
+      "artists": [
+        {
+          "name": "BLEU REINE",
+          "url": "https://open.spotify.com/artist/6pOIE4LRDfw5aooWQ39Fb3"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282789,
+      "name": "I Bet you bet on me",
+      "url": "https://open.spotify.com/track/3BdPfRImojsrXKNP8RHTgT"
+    },
+    {
+      "album": {
         "name": "I can't sleep",
         "url": "https://open.spotify.com/album/6Rdkmf96MeWXXeRAYMils3"
       },
@@ -11054,7 +11112,7 @@
       ],
       "date_added": "2026-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 116934,
       "name": "I really og",
       "url": "https://open.spotify.com/track/4TBe9Dp1K5Ntv0biMw7nsX"
@@ -13036,7 +13094,7 @@
       ],
       "date_added": "2026-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-07",
+      "date_removed": null,
       "duration_ms": 298000,
       "name": "Land's End",
       "url": "https://open.spotify.com/track/2nO4PF4VbPVtS6ZvKTZr63"
@@ -14238,7 +14296,7 @@
       ],
       "date_added": "2026-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-15",
+      "date_removed": null,
       "duration_ms": 307078,
       "name": "Man With The X-Ray Eyes",
       "url": "https://open.spotify.com/track/2wofyBPVUPUk0jvpZag9FG"
@@ -14556,7 +14614,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 340409,
       "name": "Mental Health (MIK\u2019s Miasma)",
       "url": "https://open.spotify.com/track/1gNXkCxKqF3ZFveWOVpSX4"
@@ -15777,6 +15835,24 @@
     },
     {
       "album": {
+        "name": "NewGod EP",
+        "url": "https://open.spotify.com/album/07GVpVq2xIPANJptMjKxkl"
+      },
+      "artists": [
+        {
+          "name": "pMad",
+          "url": "https://open.spotify.com/artist/3Aa4yRuvDQBCj7o0uip3fW"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228813,
+      "name": "NewGod - Radio Edit",
+      "url": "https://open.spotify.com/track/455H8GXsSpy0H6BssIHUVs"
+    },
+    {
+      "album": {
         "name": "Night / Day",
         "url": "https://open.spotify.com/album/7pmPhuflYwo2dStPyFRG7w"
       },
@@ -15846,7 +15922,7 @@
       ],
       "date_added": "2026-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-06",
+      "date_removed": null,
       "duration_ms": 330405,
       "name": "Nighttime Fever",
       "url": "https://open.spotify.com/track/73l79VEOevCdpHRKudlTwy"
@@ -15943,6 +16019,24 @@
     },
     {
       "album": {
+        "name": "Repetition Compulsion",
+        "url": "https://open.spotify.com/album/1BIo8n31CHN24ZvcRgBSNw"
+      },
+      "artists": [
+        {
+          "name": "Black Doldrums",
+          "url": "https://open.spotify.com/artist/3yAYb9TSBzWkEIVKN0Wybb"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132021,
+      "name": "No One's Talking To Me",
+      "url": "https://open.spotify.com/track/4AgXvxFvfrBNZpDpkWywTV"
+    },
+    {
+      "album": {
         "name": "Control Room Lullaby",
         "url": "https://open.spotify.com/album/41pmW1HV3QzClCAu6DXO46"
       },
@@ -15994,6 +16088,24 @@
       "duration_ms": 167830,
       "name": "no thank you",
       "url": "https://open.spotify.com/track/5DXHMz3iJWgw8MvfBoakze"
+    },
+    {
+      "album": {
+        "name": "Repetition Compulsion",
+        "url": "https://open.spotify.com/album/1BIo8n31CHN24ZvcRgBSNw"
+      },
+      "artists": [
+        {
+          "name": "Black Doldrums",
+          "url": "https://open.spotify.com/artist/3yAYb9TSBzWkEIVKN0Wybb"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312776,
+      "name": "No Words Can't Lie",
+      "url": "https://open.spotify.com/track/0mLZiulnX2slEctwSWfK71"
     },
     {
       "album": {
@@ -16502,7 +16614,7 @@
       ],
       "date_added": "2026-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 154008,
       "name": "Onyx Melange Stranded On The Coast",
       "url": "https://open.spotify.com/track/7dkXudKfSok9rSmaKemLZA"
@@ -17290,7 +17402,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 383323,
       "name": "Porcelain - White Remix",
       "url": "https://open.spotify.com/track/6cQ8vcaLnEeFSLEYQZU6xQ"
@@ -17402,7 +17514,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 253978,
       "name": "pridefool",
       "url": "https://open.spotify.com/track/1fHnQvB8Hhz5hC7dzBqecu"
@@ -17705,6 +17817,24 @@
     },
     {
       "album": {
+        "name": "Undead Reckoning",
+        "url": "https://open.spotify.com/album/4VjunBBPWEoIeACRY3h1K1"
+      },
+      "artists": [
+        {
+          "name": "First Class Coffin",
+          "url": "https://open.spotify.com/artist/4N3N7kmrgNVfglYMEKOGE7"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90000,
+      "name": "Rats",
+      "url": "https://open.spotify.com/track/7oPvx6ZC9Nr65KNJEm5VNf"
+    },
+    {
+      "album": {
         "name": "Reach for the Sky",
         "url": "https://open.spotify.com/album/17UBJSBMD5Vb8ul7Y0806C"
       },
@@ -17810,7 +17940,7 @@
       ],
       "date_added": "2026-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 258249,
       "name": "Red Rock Sunshine",
       "url": "https://open.spotify.com/track/5QfmSPJ4oVCgUfST8VW5Qs"
@@ -18128,6 +18258,24 @@
       "duration_ms": 240600,
       "name": "Ritual Lust",
       "url": "https://open.spotify.com/track/5zpTKGkHOmn26p3U4n7fT3"
+    },
+    {
+      "album": {
+        "name": "River Of Silence",
+        "url": "https://open.spotify.com/album/0qredXP0K5pfyOxH9PNFA5"
+      },
+      "artists": [
+        {
+          "name": "Techno 666",
+          "url": "https://open.spotify.com/artist/4bnTuuITQKuVScsBexqEE4"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356642,
+      "name": "River Of Silence",
+      "url": "https://open.spotify.com/track/5wrgBaF0lOfWndYlKiXh3x"
     },
     {
       "album": {
@@ -23149,6 +23297,24 @@
     },
     {
       "album": {
+        "name": "Repetition Compulsion",
+        "url": "https://open.spotify.com/album/1BIo8n31CHN24ZvcRgBSNw"
+      },
+      "artists": [
+        {
+          "name": "Black Doldrums",
+          "url": "https://open.spotify.com/artist/3yAYb9TSBzWkEIVKN0Wybb"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218349,
+      "name": "The Uncanny",
+      "url": "https://open.spotify.com/track/0hmDsEeeUQ3To80nyvxTJ1"
+    },
+    {
+      "album": {
         "name": "The Vampire Lady",
         "url": "https://open.spotify.com/album/1PDrbQvaVdlskglsaLnBmQ"
       },
@@ -24592,7 +24758,7 @@
       ],
       "date_added": "2026-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 240745,
       "name": "ulrika_adjacent_132.exe",
       "url": "https://open.spotify.com/track/4TG9Ovn6pIb3v3VLhqLRqN"
@@ -24870,7 +25036,7 @@
       ],
       "date_added": "2026-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 185510,
       "name": "Vampire Desire",
       "url": "https://open.spotify.com/track/7G4G4Dmpok1ptnbXRGSMKq"
@@ -25420,7 +25586,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-25",
+      "date_removed": null,
       "duration_ms": 231000,
       "name": "Walking out of the cave",
       "url": "https://open.spotify.com/track/6Hud5jnMcqPbtqIGPJwLqC"
@@ -26414,7 +26580,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 196171,
       "name": "Whomever You Need",
       "url": "https://open.spotify.com/track/3CSv43GAVspGJ281rrkb0M"
@@ -26872,7 +27038,7 @@
       ],
       "date_added": "2026-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 230400,
       "name": "You Think I Care",
       "url": "https://open.spotify.com/track/1cIu80Ia1EBGAFT5QalKap"

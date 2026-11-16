@@ -191,22 +191,18 @@
     {
       "added_at": "2026-09-03 07:18:48",
       "album": {
-        "name": "METAMORPHOSIS",
-        "url": "https://open.spotify.com/album/7L1vFE7gqED2lVNZaCPgW4"
+        "name": "ZONE",
+        "url": "https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44"
       },
       "artists": [
         {
-          "name": "DIMO REX",
-          "url": "https://open.spotify.com/artist/0GAYGBzZBTtYKkHIZs9ADH"
-        },
-        {
-          "name": "CAMO",
-          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
+          "name": "JIHYO",
+          "url": "https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL"
         }
       ],
-      "duration_ms": 186000,
-      "name": "GIRLFRIEND (feat. CAMO)",
-      "url": "https://open.spotify.com/track/1NxxbNWPEONvoKNZAac0DO"
+      "duration_ms": 194320,
+      "name": "Wishing On You",
+      "url": "https://open.spotify.com/track/6ulJY8ia7SDCPO4Lnge1Pu"
     },
     {
       "added_at": "2026-09-03 07:18:48",
@@ -231,18 +227,22 @@
     {
       "added_at": "2026-09-03 07:18:48",
       "album": {
-        "name": "ZONE",
-        "url": "https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44"
+        "name": "METAMORPHOSIS",
+        "url": "https://open.spotify.com/album/7L1vFE7gqED2lVNZaCPgW4"
       },
       "artists": [
         {
-          "name": "JIHYO",
-          "url": "https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL"
+          "name": "DIMO REX",
+          "url": "https://open.spotify.com/artist/0GAYGBzZBTtYKkHIZs9ADH"
+        },
+        {
+          "name": "CAMO",
+          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
         }
       ],
-      "duration_ms": 194320,
-      "name": "Wishing On You",
-      "url": "https://open.spotify.com/track/6ulJY8ia7SDCPO4Lnge1Pu"
+      "duration_ms": 186000,
+      "name": "GIRLFRIEND (feat. CAMO)",
+      "url": "https://open.spotify.com/track/1NxxbNWPEONvoKNZAac0DO"
     },
     {
       "added_at": "2026-09-03 07:18:48",
@@ -415,22 +415,6 @@
     {
       "added_at": "2026-09-03 07:18:48",
       "album": {
-        "name": "Wait On Me - The 4th Mini Album",
-        "url": "https://open.spotify.com/album/78cxz0pQ2TDtESNyCCX5Qj"
-      },
-      "artists": [
-        {
-          "name": "KAI",
-          "url": "https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak"
-        }
-      ],
-      "duration_ms": 143360,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/5cYGEaQIa9Sc7TYPYQ6nqC"
-    },
-    {
-      "added_at": "2026-09-03 07:18:48",
-      "album": {
         "name": "KEUNG",
         "url": "https://open.spotify.com/album/27DBdAQYbalG0di7blGfDc"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 191667,
       "name": "Leave",
       "url": "https://open.spotify.com/track/2JBNZs63jcrod7xJ8anwcA"
+    },
+    {
+      "added_at": "2026-09-03 07:18:48",
+      "album": {
+        "name": "Wait On Me - The 4th Mini Album",
+        "url": "https://open.spotify.com/album/78cxz0pQ2TDtESNyCCX5Qj"
+      },
+      "artists": [
+        {
+          "name": "KAI",
+          "url": "https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak"
+        }
+      ],
+      "duration_ms": 143360,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/5cYGEaQIa9Sc7TYPYQ6nqC"
     },
     {
       "added_at": "2026-09-03 07:18:48",

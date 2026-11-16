@@ -1,6 +1,6 @@
 {
   "description": "2000\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 26816,
+  "num_followers": 26828,
   "original_name": "2000\ub144\ub300 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
@@ -463,22 +463,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "Smile Again",
-        "url": "https://open.spotify.com/album/6PUXZU8KQoiC7PJGHobQ8E"
-      },
-      "artists": [
-        {
-          "name": "Baek Z Young",
-          "url": "https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5"
-        }
-      ],
-      "duration_ms": 253026,
-      "name": "\uc0ac\ub791 \uc548\ud574",
-      "url": "https://open.spotify.com/track/4wztk2LQD75UzN5UTnFK0E"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "SOLISTA Part.2",
         "url": "https://open.spotify.com/album/62vXnTYMIepnmIBEmnbwUA"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 251689,
       "name": "Last Love",
       "url": "https://open.spotify.com/track/1Uich3MOYxcBw14WavzZpi"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "Smile Again",
+        "url": "https://open.spotify.com/album/6PUXZU8KQoiC7PJGHobQ8E"
+      },
+      "artists": [
+        {
+          "name": "Baek Z Young",
+          "url": "https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5"
+        }
+      ],
+      "duration_ms": 253026,
+      "name": "\uc0ac\ub791 \uc548\ud574",
+      "url": "https://open.spotify.com/track/4wztk2LQD75UzN5UTnFK0E"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -591,22 +591,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "Pretty Girl (2nd Mini Album)",
-        "url": "https://open.spotify.com/album/0Y4MIec7qzGbGSu1uRAGPH"
-      },
-      "artists": [
-        {
-          "name": "KARA",
-          "url": "https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192"
-        }
-      ],
-      "duration_ms": 209920,
-      "name": "Pretty Girl",
-      "url": "https://open.spotify.com/track/28GE60KLxobidYzuUHW6iI"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "Wax02 : \ud654\uc7a5\uc744 \uace0\uce58\uace0",
         "url": "https://open.spotify.com/album/0lxaVhnSUrnsCreJm5sBj6"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 250386,
       "name": "\ud654\uc7a5\uc744 \uace0\uce58\uace0",
       "url": "https://open.spotify.com/track/0e70x113268aBzaBaNHmrR"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "Pretty Girl (2nd Mini Album)",
+        "url": "https://open.spotify.com/album/0Y4MIec7qzGbGSu1uRAGPH"
+      },
+      "artists": [
+        {
+          "name": "KARA",
+          "url": "https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192"
+        }
+      ],
+      "duration_ms": 209920,
+      "name": "Pretty Girl",
+      "url": "https://open.spotify.com/track/28GE60KLxobidYzuUHW6iI"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -671,22 +671,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "Honey (Special Edition)",
-        "url": "https://open.spotify.com/album/0vAZzuihx388IsfLUPamzB"
-      },
-      "artists": [
-        {
-          "name": "KARA",
-          "url": "https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Honey",
-      "url": "https://open.spotify.com/track/7K0qoyK48Um3llVR4TH0rI"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "Swan Songs",
         "url": "https://open.spotify.com/album/2r893IZjz94r7mmqxNz4A6"
       },
@@ -707,18 +691,18 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "Stand Alone",
-        "url": "https://open.spotify.com/album/67ibv6vTadhuxdFgZ4eV4i"
+        "name": "Honey (Special Edition)",
+        "url": "https://open.spotify.com/album/0vAZzuihx388IsfLUPamzB"
       },
       "artists": [
         {
-          "name": "Ha Dong Qn",
-          "url": "https://open.spotify.com/artist/7gjNpUcKOWzo2jnN7VsxoQ"
+          "name": "KARA",
+          "url": "https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192"
         }
       ],
-      "duration_ms": 259213,
-      "name": "\uadf8\ub140\ub97c \uc0ac\ub791\ud574\uc918\uc694",
-      "url": "https://open.spotify.com/track/4YQGPR4KGFMnSS8lUQPdbs"
+      "duration_ms": 195000,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/7K0qoyK48Um3llVR4TH0rI"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -739,6 +723,22 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
+        "name": "Stand Alone",
+        "url": "https://open.spotify.com/album/67ibv6vTadhuxdFgZ4eV4i"
+      },
+      "artists": [
+        {
+          "name": "Ha Dong Qn",
+          "url": "https://open.spotify.com/artist/7gjNpUcKOWzo2jnN7VsxoQ"
+        }
+      ],
+      "duration_ms": 259213,
+      "name": "\uadf8\ub140\ub97c \uc0ac\ub791\ud574\uc918\uc694",
+      "url": "https://open.spotify.com/track/4YQGPR4KGFMnSS8lUQPdbs"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
         "name": "A bicycle Ride",
         "url": "https://open.spotify.com/album/4dNI0uPp7lWdClgD8hGTVg"
       },
@@ -751,22 +751,6 @@
       "duration_ms": 222853,
       "name": "Me to You, You to Me",
       "url": "https://open.spotify.com/track/1oW9H74WFBF0AsjP2e61YZ"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
-        "name": "With L.O.V.E Brown Eyed Girls",
-        "url": "https://open.spotify.com/album/4aAT9INUonYUREjOyxDhQl"
-      },
-      "artists": [
-        {
-          "name": "Brown Eyed Girls",
-          "url": "https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7"
-        }
-      ],
-      "duration_ms": 217626,
-      "name": "LOVE",
-      "url": "https://open.spotify.com/track/6hQZn0khzhIZmMQ2erzx6q"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -787,6 +771,22 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
+        "name": "With L.O.V.E Brown Eyed Girls",
+        "url": "https://open.spotify.com/album/4aAT9INUonYUREjOyxDhQl"
+      },
+      "artists": [
+        {
+          "name": "Brown Eyed Girls",
+          "url": "https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7"
+        }
+      ],
+      "duration_ms": 217626,
+      "name": "LOVE",
+      "url": "https://open.spotify.com/track/6hQZn0khzhIZmMQ2erzx6q"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
         "name": "Reason 4 breathing?",
         "url": "https://open.spotify.com/album/7yl1TSdq0B20VPe75Y8XAa"
       },
@@ -799,22 +799,6 @@
       "duration_ms": 211520,
       "name": "\uc810\uc810",
       "url": "https://open.spotify.com/track/0IwDO38DaBE7cMl4aLgybU"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
-        "name": "Sweet Dream",
-        "url": "https://open.spotify.com/album/5VfVPotg5IHge0C8PFb5Dt"
-      },
-      "artists": [
-        {
-          "name": "Jang Na-ra",
-          "url": "https://open.spotify.com/artist/2ToVzDfnPIfgFiqkXbLsYN"
-        }
-      ],
-      "duration_ms": 236536,
-      "name": "Sweet Dream",
-      "url": "https://open.spotify.com/track/2gx9ARIznyZBYa6YyWD5fo"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -835,6 +819,22 @@
       "duration_ms": 272875,
       "name": "The man and the woman",
       "url": "https://open.spotify.com/track/4m2OYFeg88zIZBKdQKsggf"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "Sweet Dream",
+        "url": "https://open.spotify.com/album/5VfVPotg5IHge0C8PFb5Dt"
+      },
+      "artists": [
+        {
+          "name": "Jang Na-ra",
+          "url": "https://open.spotify.com/artist/2ToVzDfnPIfgFiqkXbLsYN"
+        }
+      ],
+      "duration_ms": 236536,
+      "name": "Sweet Dream",
+      "url": "https://open.spotify.com/track/2gx9ARIznyZBYa6YyWD5fo"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "Traveling You",
-        "url": "https://open.spotify.com/album/7uxUZh3iA2IAvMIlSPxZV2"
-      },
-      "artists": [
-        {
-          "name": "Un",
-          "url": "https://open.spotify.com/artist/2k3wogLJyPnkEpb2pn3GLk"
-        }
-      ],
-      "duration_ms": 251846,
-      "name": "\ud30c\ub3c4",
-      "url": "https://open.spotify.com/track/66Ea5DkLH0Ok6wR2zuqZcM"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "The 3rd Masterpiece",
         "url": "https://open.spotify.com/album/78hxnlQlbAaIsaQxG3RonV"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 298237,
       "name": "Partner for Life",
       "url": "https://open.spotify.com/track/1Ud6TKFPVyWIs0dmQhg5iL"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "Traveling You",
+        "url": "https://open.spotify.com/album/7uxUZh3iA2IAvMIlSPxZV2"
+      },
+      "artists": [
+        {
+          "name": "Un",
+          "url": "https://open.spotify.com/artist/2k3wogLJyPnkEpb2pn3GLk"
+        }
+      ],
+      "duration_ms": 251846,
+      "name": "\ud30c\ub3c4",
+      "url": "https://open.spotify.com/track/66Ea5DkLH0Ok6wR2zuqZcM"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "Want to fall in love",
-        "url": "https://open.spotify.com/album/4AJjXoKd9JVW1MI14Qulj0"
-      },
-      "artists": [
-        {
-          "name": "Johan Kim",
-          "url": "https://open.spotify.com/artist/7kqUt0kZIfski1GVmbwjG3"
-        }
-      ],
-      "duration_ms": 234533,
-      "name": "Want to fall in love",
-      "url": "https://open.spotify.com/track/0JrxJyLzc4dRNHE1Kcyycm"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "\uc0b4\ub2e4\uac00",
         "url": "https://open.spotify.com/album/0BneVJK0dUlj0q9RRjADQe"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 337066,
       "name": "In dreams",
       "url": "https://open.spotify.com/track/1hNYiYh10zoFl4L6RrLDHq"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "Want to fall in love",
+        "url": "https://open.spotify.com/album/4AJjXoKd9JVW1MI14Qulj0"
+      },
+      "artists": [
+        {
+          "name": "Johan Kim",
+          "url": "https://open.spotify.com/artist/7kqUt0kZIfski1GVmbwjG3"
+        }
+      ],
+      "duration_ms": 234533,
+      "name": "Want to fall in love",
+      "url": "https://open.spotify.com/track/0JrxJyLzc4dRNHE1Kcyycm"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "It's Different",
-        "url": "https://open.spotify.com/album/3MLXvMDzIjsWFzUFHP0Qzf"
-      },
-      "artists": [
-        {
-          "name": "GUMMY",
-          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
-        }
-      ],
-      "duration_ms": 271893,
-      "name": "\ub0a0 \uadf8\ub9cc \uc78a\uc5b4\uc694",
-      "url": "https://open.spotify.com/track/48019yKa8kJowllkqICDIi"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "\uc0b4\ub2e4\uac00",
         "url": "https://open.spotify.com/album/0BneVJK0dUlj0q9RRjADQe"
       },
@@ -1163,6 +1147,22 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
+        "name": "It's Different",
+        "url": "https://open.spotify.com/album/3MLXvMDzIjsWFzUFHP0Qzf"
+      },
+      "artists": [
+        {
+          "name": "GUMMY",
+          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
+        }
+      ],
+      "duration_ms": 271893,
+      "name": "\ub0a0 \uadf8\ub9cc \uc78a\uc5b4\uc694",
+      "url": "https://open.spotify.com/track/48019yKa8kJowllkqICDIi"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
         "name": "S.E.S. - The 1st Album",
         "url": "https://open.spotify.com/album/795tqw58HZUK0Gro9GvneZ"
       },
@@ -1175,22 +1175,6 @@
       "duration_ms": 225560,
       "name": "(\u2032Cause) I\u2032m Your Girl",
       "url": "https://open.spotify.com/track/5I8mg57tDvhGGGC3x14mIZ"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
-        "name": "Bluetory",
-        "url": "https://open.spotify.com/album/6uXXlobOpwaecX1eNZtW4O"
-      },
-      "artists": [
-        {
-          "name": "CNBLUE",
-          "url": "https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi"
-        }
-      ],
-      "duration_ms": 217835,
-      "name": "Loner",
-      "url": "https://open.spotify.com/track/7wqBDFp7JZfWp3aPaC4gHQ"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1227,6 +1211,22 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
+        "name": "fuzz . Buzz",
+        "url": "https://open.spotify.com/album/0gLmRYm4KjIRmYM9jUcEux"
+      },
+      "artists": [
+        {
+          "name": "BUZZ",
+          "url": "https://open.spotify.com/artist/4SdXXEHKFa5NSoh10QxeN2"
+        }
+      ],
+      "duration_ms": 253879,
+      "name": "You Don't Know Men",
+      "url": "https://open.spotify.com/track/5HlhynrLSnGBWfZaTOXkGc"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
         "name": "My love has faded away",
         "url": "https://open.spotify.com/album/69dtdfRPdV7cV3taX0horB"
       },
@@ -1243,18 +1243,34 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "fuzz . Buzz",
-        "url": "https://open.spotify.com/album/0gLmRYm4KjIRmYM9jUcEux"
+        "name": "Bluetory",
+        "url": "https://open.spotify.com/album/6uXXlobOpwaecX1eNZtW4O"
       },
       "artists": [
         {
-          "name": "BUZZ",
-          "url": "https://open.spotify.com/artist/4SdXXEHKFa5NSoh10QxeN2"
+          "name": "CNBLUE",
+          "url": "https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi"
         }
       ],
-      "duration_ms": 253879,
-      "name": "You Don't Know Men",
-      "url": "https://open.spotify.com/track/5HlhynrLSnGBWfZaTOXkGc"
+      "duration_ms": 217835,
+      "name": "Loner",
+      "url": "https://open.spotify.com/track/7wqBDFp7JZfWp3aPaC4gHQ"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "WHISPERS OF LOVE",
+        "url": "https://open.spotify.com/album/6IPStm5DZgYsitK37MoH3F"
+      },
+      "artists": [
+        {
+          "name": "The NuTs",
+          "url": "https://open.spotify.com/artist/56NKtypwi90dIOb5ZQZwHb"
+        }
+      ],
+      "duration_ms": 254093,
+      "name": "\uc794\uc18c\ub9ac",
+      "url": "https://open.spotify.com/track/2BWtvTeKwOJ0h0tdgUncyv"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1275,22 +1291,6 @@
       "duration_ms": 213813,
       "name": "Like A Child (feat. ALEX)",
       "url": "https://open.spotify.com/track/6ANNMivJIkzYXzh8u76IsE"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
-        "name": "WHISPERS OF LOVE",
-        "url": "https://open.spotify.com/album/6IPStm5DZgYsitK37MoH3F"
-      },
-      "artists": [
-        {
-          "name": "The NuTs",
-          "url": "https://open.spotify.com/artist/56NKtypwi90dIOb5ZQZwHb"
-        }
-      ],
-      "duration_ms": 254093,
-      "name": "\uc794\uc18c\ub9ac",
-      "url": "https://open.spotify.com/track/2BWtvTeKwOJ0h0tdgUncyv"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "Homecoming",
-        "url": "https://open.spotify.com/album/4hpVodQbGrI7WMlR9P6H4d"
-      },
-      "artists": [
-        {
-          "name": "Kim Dong Ryul",
-          "url": "https://open.spotify.com/artist/3zYyfrb4r6ZHI5Di0rB9bV"
-        }
-      ],
-      "duration_ms": 287741,
-      "name": "I say \"I love you\" again",
-      "url": "https://open.spotify.com/track/2LzM5vAdnIcVUyDah8kZpG"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "BLAQ Style",
         "url": "https://open.spotify.com/album/7nEtGoI32qBOQ1VinD31VF"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 200556,
       "name": "Stay",
       "url": "https://open.spotify.com/track/0Q2uAamKg36f2KH0NSepT7"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "Homecoming",
+        "url": "https://open.spotify.com/album/4hpVodQbGrI7WMlR9P6H4d"
+      },
+      "artists": [
+        {
+          "name": "Kim Dong Ryul",
+          "url": "https://open.spotify.com/artist/3zYyfrb4r6ZHI5Di0rB9bV"
+        }
+      ],
+      "duration_ms": 287741,
+      "name": "I say \"I love you\" again",
+      "url": "https://open.spotify.com/track/2LzM5vAdnIcVUyDah8kZpG"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
+        "name": "\uae30\uc5b5\uc18d\uc758 \uba5c\ub85c\ub514",
+        "url": "https://open.spotify.com/album/3bQEUGF2WB3YyIucl9rGKi"
+      },
+      "artists": [
+        {
+          "name": "Kim Dong Ryul",
+          "url": "https://open.spotify.com/artist/3zYyfrb4r6ZHI5Di0rB9bV"
+        }
+      ],
+      "duration_ms": 285234,
+      "name": "\uac10\uc0ac",
+      "url": "https://open.spotify.com/track/6vL9tLXg2XnsYXndqpIUQS"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
         "name": "Fine Killing Liberty : Blue Rain",
         "url": "https://open.spotify.com/album/7qYBfdhb8Lq4icwXhHoXoe"
       },
@@ -1615,22 +1631,6 @@
       "duration_ms": 244927,
       "name": "So Fresh",
       "url": "https://open.spotify.com/track/7h2JM9Sp1lAtXXyOpBiHMR"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
-        "name": "\uae30\uc5b5\uc18d\uc758 \uba5c\ub85c\ub514",
-        "url": "https://open.spotify.com/album/3bQEUGF2WB3YyIucl9rGKi"
-      },
-      "artists": [
-        {
-          "name": "Kim Dong Ryul",
-          "url": "https://open.spotify.com/artist/3zYyfrb4r6ZHI5Di0rB9bV"
-        }
-      ],
-      "duration_ms": 285234,
-      "name": "\uac10\uc0ac",
-      "url": "https://open.spotify.com/track/6vL9tLXg2XnsYXndqpIUQS"
     },
     {
       "added_at": "2024-08-05 16:59:31",

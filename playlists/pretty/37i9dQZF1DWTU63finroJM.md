@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 
 > Meet the future of music around the world\. Cover: JAS
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,571 likes - 25 songs - 1 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,568 likes - 25 songs - 1 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 11 | [FERAL CHILD ;\-0](https://open.spotify.com/track/3piymdCmCYONn6VT8mOjlW) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [QWERTY III](https://open.spotify.com/album/55CfzpEQ0WWCjLPLZZyhJY) | 2:39 |
 | 12 | [Blind Bullet](https://open.spotify.com/track/3JAY9x7Hya0gFbd6elfBII) | [Veer Sandhu](https://open.spotify.com/artist/2X1Bu6jg2Se8OclSxn4byQ), [INDERZY](https://open.spotify.com/artist/2wnEx44eFeFJDWS2rPILkJ) | [Northstar](https://open.spotify.com/album/5YQQ4T2js5PQI6US1CXBLL) | 3:20 |
 | 13 | [PALABRAS DE MUJER](https://open.spotify.com/track/52HITJzRmsa4yL9ViYRPQc) | [trouve feraud](https://open.spotify.com/artist/5wYoljDrAYqKBnbncgw27o) | [PALABRAS DE MUJER](https://open.spotify.com/album/3bzgEsh07nAlXHAuKWDuzE) | 3:43 |
-| 14 | [Tiptoes](https://open.spotify.com/track/1qeLlMkDuVySs1febJY0fI) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Tiptoes](https://open.spotify.com/album/2ODOdUYUH0eIXmW1mdzYf3) | 3:28 |
-| 15 | [LY](https://open.spotify.com/track/7c9MmK1KocaSXLhsXCDnCq) | [Dressed Like Boys](https://open.spotify.com/artist/5qQLp6Xal6S6KXEHgvxmvp) | [LY](https://open.spotify.com/album/16nQg0IJ2lgJLXxg7bR77c) | 3:24 |
+| 14 | [LY](https://open.spotify.com/track/7c9MmK1KocaSXLhsXCDnCq) | [Dressed Like Boys](https://open.spotify.com/artist/5qQLp6Xal6S6KXEHgvxmvp) | [LY](https://open.spotify.com/album/16nQg0IJ2lgJLXxg7bR77c) | 3:24 |
+| 15 | [Tiptoes](https://open.spotify.com/track/1qeLlMkDuVySs1febJY0fI) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Tiptoes](https://open.spotify.com/album/2ODOdUYUH0eIXmW1mdzYf3) | 3:28 |
 | 16 | [Saisons](https://open.spotify.com/track/5kMrK5lhPuOrUwnjtgIiLg) | [Aswell](https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc) | [Saisons](https://open.spotify.com/album/09IwKg2UvRi20lV67LKtlk) | 3:11 |
 | 17 | [Non sono lei](https://open.spotify.com/track/4pod9adi7EYyk2Asi8HcHf) | [Emili Kasa](https://open.spotify.com/artist/3RjZIfNhuaISMsbzISGxvA) | [Non sono lei](https://open.spotify.com/album/2QEGkfbqwSgY9h4X5hj57Q) | 2:45 |
 | 18 | [EL QUE COMPRÓ PERDIÓ](https://open.spotify.com/track/1QQ8zcJLMyO7ti83nM1d9g) | [Little Boogie](https://open.spotify.com/artist/51f3tNDq1t3W7OCtokDRb0), [STEREO](https://open.spotify.com/artist/6odI6L61c5EaXZnKWSJ7fj) | [EL QUE COMPRÓ PERDIÓ](https://open.spotify.com/album/2o3J7GZgL53V41Qy9TCsio) | 2:25 |

@@ -985,6 +985,24 @@
     },
     {
       "album": {
+        "name": "The Guest Room",
+        "url": "https://open.spotify.com/album/374DcR4mOsUutxymdtqySx"
+      },
+      "artists": [
+        {
+          "name": "Jaren Johnston",
+          "url": "https://open.spotify.com/artist/5beYbzBVaQfcY8XL2DCcTs"
+        }
+      ],
+      "date_added": "2026-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175256,
+      "name": "Hotter",
+      "url": "https://open.spotify.com/track/7o6Qh6jSlHDRmV4eBj5Y4j"
+    },
+    {
+      "album": {
         "name": "Rolling Up the Welcome Mat (For Good)",
         "url": "https://open.spotify.com/album/09eLFhImEeeEDKlaLznMOv"
       },

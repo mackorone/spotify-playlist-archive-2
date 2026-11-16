@@ -1,6 +1,6 @@
 {
   "description": "The best Canadian songs of the month, handpicked by Spotify Canada editors. Cover: Natek",
-  "num_followers": 2977,
+  "num_followers": 2980,
   "original_name": "Editors' Picks: Best Canadian Songs of October",
   "owner": {
     "name": "Spotify",
@@ -227,22 +227,6 @@
     {
       "added_at": "2026-11-01 04:01:35",
       "album": {
-        "name": "THE ALLIGATOR",
-        "url": "https://open.spotify.com/album/60w2zFQHJK1wpWXSI73npq"
-      },
-      "artists": [
-        {
-          "name": "Goldie Boutilier",
-          "url": "https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5"
-        }
-      ],
-      "duration_ms": 281185,
-      "name": "THE ALLIGATOR",
-      "url": "https://open.spotify.com/track/68CP4zwZSuMG623V8fQ65G"
-    },
-    {
-      "added_at": "2026-11-01 04:01:35",
-      "album": {
         "name": "no self respect!",
         "url": "https://open.spotify.com/album/2cE9NykoNpph3aah241eKp"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 181828,
       "name": "no self respect!",
       "url": "https://open.spotify.com/track/6aU6LB5zF7JiKtmMBw6I1V"
+    },
+    {
+      "added_at": "2026-11-01 04:01:35",
+      "album": {
+        "name": "THE ALLIGATOR",
+        "url": "https://open.spotify.com/album/60w2zFQHJK1wpWXSI73npq"
+      },
+      "artists": [
+        {
+          "name": "Goldie Boutilier",
+          "url": "https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5"
+        }
+      ],
+      "duration_ms": 281185,
+      "name": "THE ALLIGATOR",
+      "url": "https://open.spotify.com/track/68CP4zwZSuMG623V8fQ65G"
     },
     {
       "added_at": "2026-11-01 04:01:35",
@@ -307,22 +307,6 @@
     {
       "added_at": "2026-11-01 04:01:35",
       "album": {
-        "name": "Bogus",
-        "url": "https://open.spotify.com/album/4f0LSP6WVbPOJ89NrASCUM"
-      },
-      "artists": [
-        {
-          "name": "Fog Lake",
-          "url": "https://open.spotify.com/artist/04GCjO1r1hPelibCUq9S8H"
-        }
-      ],
-      "duration_ms": 235000,
-      "name": "Bogus",
-      "url": "https://open.spotify.com/track/7d0HmRRRzBFYJ2HBDVATl2"
-    },
-    {
-      "added_at": "2026-11-01 04:01:35",
-      "album": {
         "name": "hold me, don't hold back!",
         "url": "https://open.spotify.com/album/5ZcevGakdEaDIK8R2JSH1r"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 142068,
       "name": "hold me!",
       "url": "https://open.spotify.com/track/2ykWnVHY5hiqZiMPhv4YOY"
+    },
+    {
+      "added_at": "2026-11-01 04:01:35",
+      "album": {
+        "name": "Bogus",
+        "url": "https://open.spotify.com/album/4f0LSP6WVbPOJ89NrASCUM"
+      },
+      "artists": [
+        {
+          "name": "Fog Lake",
+          "url": "https://open.spotify.com/artist/04GCjO1r1hPelibCUq9S8H"
+        }
+      ],
+      "duration_ms": 235000,
+      "name": "Bogus",
+      "url": "https://open.spotify.com/track/7d0HmRRRzBFYJ2HBDVATl2"
     },
     {
       "added_at": "2026-11-01 04:01:35",
@@ -391,22 +391,6 @@
     {
       "added_at": "2026-11-01 04:01:35",
       "album": {
-        "name": "Gamut / Styrofoam",
-        "url": "https://open.spotify.com/album/1A2Eu2ifS8qALrj6PiV5KF"
-      },
-      "artists": [
-        {
-          "name": "Fog Lake",
-          "url": "https://open.spotify.com/artist/04GCjO1r1hPelibCUq9S8H"
-        }
-      ],
-      "duration_ms": 244125,
-      "name": "Gamut",
-      "url": "https://open.spotify.com/track/5sk7J329w6TKBZ7onE0SaB"
-    },
-    {
-      "added_at": "2026-11-01 04:01:35",
-      "album": {
         "name": "redstar",
         "url": "https://open.spotify.com/album/0Urk10HzyKwZz3ziPj3dlf"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 256651,
       "name": "redstar",
       "url": "https://open.spotify.com/track/7iswvp4cEuvT7C9593N0hE"
+    },
+    {
+      "added_at": "2026-11-01 04:01:35",
+      "album": {
+        "name": "Gamut / Styrofoam",
+        "url": "https://open.spotify.com/album/1A2Eu2ifS8qALrj6PiV5KF"
+      },
+      "artists": [
+        {
+          "name": "Fog Lake",
+          "url": "https://open.spotify.com/artist/04GCjO1r1hPelibCUq9S8H"
+        }
+      ],
+      "duration_ms": 244125,
+      "name": "Gamut",
+      "url": "https://open.spotify.com/track/5sk7J329w6TKBZ7onE0SaB"
     },
     {
       "added_at": "2026-11-01 04:01:35",

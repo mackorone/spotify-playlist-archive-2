@@ -1171,6 +1171,22 @@
     {
       "added_at": "2026-10-06 10:17:15",
       "album": {
+        "name": "Fort",
+        "url": "https://open.spotify.com/album/5NVbylJskV84EOduC6C3W7"
+      },
+      "artists": [
+        {
+          "name": "Lambb",
+          "url": "https://open.spotify.com/artist/6mzQRecVBUMepkVGAhn6io"
+        }
+      ],
+      "duration_ms": 147640,
+      "name": "Fort",
+      "url": "https://open.spotify.com/track/1vcs1gEv6TYKqlPHx0WwsC"
+    },
+    {
+      "added_at": "2026-10-06 10:17:15",
+      "album": {
         "name": "Centre of Peace",
         "url": "https://open.spotify.com/album/2WUEljT1AkJBw75JJrxoz5"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 219148,
       "name": "Centre of Peace",
       "url": "https://open.spotify.com/track/0eXpyRulLKEvTJybiU0nQu"
-    },
-    {
-      "added_at": "2026-10-06 10:17:15",
-      "album": {
-        "name": "Fort",
-        "url": "https://open.spotify.com/album/5NVbylJskV84EOduC6C3W7"
-      },
-      "artists": [
-        {
-          "name": "Lambb",
-          "url": "https://open.spotify.com/artist/6mzQRecVBUMepkVGAhn6io"
-        }
-      ],
-      "duration_ms": 147640,
-      "name": "Fort",
-      "url": "https://open.spotify.com/track/1vcs1gEv6TYKqlPHx0WwsC"
     },
     {
       "added_at": "2026-10-06 10:17:15",

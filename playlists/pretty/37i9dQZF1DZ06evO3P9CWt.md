@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3P9CWt.md) - [plain]
 
 > This is Pabllo Vittar\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 279,965 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 279,970 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3P9CWt.md) - [plain]
 | 49 | [Parabéns](https://open.spotify.com/track/3mikf8qZaNp6wrrWxHgawH) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Psirico](https://open.spotify.com/artist/20L3gYREq24KddkFreyiNv) | [111](https://open.spotify.com/album/67rOBOMZsXiQwoPpZbnC8b) | 2:16 |
 | 50 | [Open Bar \(Lean On\)](https://open.spotify.com/track/4WiViQB00IRESI6RBo7QaU) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Mulú](https://open.spotify.com/artist/4jsA7x5v8Xg3L4FGwyhGaQ) | [Vai Passar Mal Remixes](https://open.spotify.com/album/0FMRLnUbj1in2fX3yxbmx3) | 3:01 |
 
-Snapshot ID: `avZTAAAAAAD1EMxF1ROj2vxvqrTuqq2m`
+Snapshot ID: `avZTAAAAAAAlPoF4lm80Ch0UG9QuXZvN`

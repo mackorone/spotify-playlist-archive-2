@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-12-14",
-  "description": "With SPARKLEWOLF RADIO, UrvTek, STYXVII and more",
+  "description": "With UrvTek, STYXVII, SPARKLEWOLF RADIO and more",
   "name": "Kittydog Radio",
   "tracks": [
     {
@@ -88,7 +88,7 @@
       ],
       "date_added": "2026-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 157935,
       "name": "2007",
       "url": "https://open.spotify.com/track/05IkWPjeS75WWmqfVNnYXz"
@@ -316,7 +316,7 @@
       ],
       "date_added": "2026-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 140400,
       "name": "All My Frens R Rainbowz, but I'm Still Dead Inside!!!",
       "url": "https://open.spotify.com/track/7DVzWeTKujkJyfh1BJaucX"
@@ -1264,7 +1264,7 @@
       ],
       "date_added": "2026-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-09",
+      "date_removed": null,
       "duration_ms": 160959,
       "name": "BREAK YOUR BRAIN",
       "url": "https://open.spotify.com/track/3AKnWc4TGOYrYyu2slnMCT"
@@ -1514,7 +1514,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 209958,
       "name": "CATASTR0PHZ1NG ALL BY URSELF",
       "url": "https://open.spotify.com/track/3OhN8qX8J6AP2aDWPiPIHa"
@@ -1974,7 +1974,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-01",
+      "date_removed": null,
       "duration_ms": 201456,
       "name": "DEATHRAVE",
       "url": "https://open.spotify.com/track/6AcE5etPybYmRF656WUsae"
@@ -2238,7 +2238,7 @@
       ],
       "date_added": "2026-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 182543,
       "name": "Don't Worry About Me",
       "url": "https://open.spotify.com/track/75pMU35yqwg6JvKcjyO2Si"
@@ -2256,7 +2256,7 @@
       ],
       "date_added": "2026-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-15",
+      "date_removed": null,
       "duration_ms": 101210,
       "name": "DRAIN PUPPY MAIL ME IMMEDIATELY",
       "url": "https://open.spotify.com/track/7eD7HWP4KdhTczwpw29YWJ"
@@ -3010,7 +3010,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 123668,
       "name": "HA! DESERVED",
       "url": "https://open.spotify.com/track/3IP1TdI8S7JMvX8xQnDD2L"
@@ -3270,7 +3270,7 @@
       ],
       "date_added": "2025-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-07",
+      "date_removed": null,
       "duration_ms": 166891,
       "name": "i love u vro!",
       "url": "https://open.spotify.com/track/3az3CmGD2sWLsoIQZrVZi5"
@@ -3578,7 +3578,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-09",
+      "date_removed": null,
       "duration_ms": 139591,
       "name": "I'm Your Baby",
       "url": "https://open.spotify.com/track/2Xku3AcjgS3XdegLcFg6Z4"
@@ -3966,7 +3966,7 @@
       ],
       "date_added": "2024-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-10",
+      "date_removed": null,
       "duration_ms": 173333,
       "name": "JuiceBox",
       "url": "https://open.spotify.com/track/0yWm18CMc61svH5xM16X9z"
@@ -4144,7 +4144,7 @@
       ],
       "date_added": "2026-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-13",
+      "date_removed": null,
       "duration_ms": 138946,
       "name": "L37 17 0u7",
       "url": "https://open.spotify.com/track/59Bil4Qr68rk3Rz6HS5pLo"
@@ -4350,7 +4350,7 @@
       ],
       "date_added": "2026-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 193885,
       "name": "Like It Never Happened",
       "url": "https://open.spotify.com/track/7CuugUWtJwr1KroazE3l1n"
@@ -4438,6 +4438,28 @@
       "duration_ms": 200665,
       "name": "LUV3 SICK!!",
       "url": "https://open.spotify.com/track/2MJasRtiBZPIlQ6qzmsRPN"
+    },
+    {
+      "album": {
+        "name": "made with love",
+        "url": "https://open.spotify.com/album/7G6gLSqpjyD0QgN4y4H60w"
+      },
+      "artists": [
+        {
+          "name": "little purr man",
+          "url": "https://open.spotify.com/artist/2EtVScBCzjWga2zZeg3IHn"
+        },
+        {
+          "name": "Lesperado",
+          "url": "https://open.spotify.com/artist/5d0eETVtfyVBrCXsOtf2ZH"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206415,
+      "name": "made with love",
+      "url": "https://open.spotify.com/track/7sUiMNzKVGqJBJrX8rLHgL"
     },
     {
       "album": {
@@ -4684,7 +4706,7 @@
       ],
       "date_added": "2026-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 119263,
       "name": "Missed the Punchline",
       "url": "https://open.spotify.com/track/1JKmlUaSp5IxdtfOZCzNq7"
@@ -5668,7 +5690,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 127246,
       "name": "plug me in",
       "url": "https://open.spotify.com/track/56lS40vp0sFpgFwvVle1I8"
@@ -5780,7 +5802,7 @@
       ],
       "date_added": "2026-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 161495,
       "name": "pretty or dead",
       "url": "https://open.spotify.com/track/3SZDYeFROCCcqnS7JSAguv"
@@ -6058,7 +6080,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 108500,
       "name": "Remember when i was 14 that was so CRiNGE lol",
       "url": "https://open.spotify.com/track/7JGpMaiyc5cksPJwHpUYWr"
@@ -6250,7 +6272,7 @@
       ],
       "date_added": "2026-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-02",
+      "date_removed": null,
       "duration_ms": 156585,
       "name": "SEPARATION ANXIETY",
       "url": "https://open.spotify.com/track/1vGFKxSq0rzOU6MBF7MKke"
@@ -6308,7 +6330,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-27",
+      "date_removed": null,
       "duration_ms": 140487,
       "name": "Side Effects",
       "url": "https://open.spotify.com/track/3BCBxtROaMqaFXBPNdrFiA"
@@ -7198,7 +7220,7 @@
       ],
       "date_added": "2024-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 249692,
       "name": "UNDER THE MOON",
       "url": "https://open.spotify.com/track/4x6N95mRNVrJmzvAwAPIhW"
@@ -7582,7 +7604,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-15",
+      "date_removed": null,
       "duration_ms": 205125,
       "name": "www.PUPPYLUV.xoxo",
       "url": "https://open.spotify.com/track/1CnRrvxklPzRwC2oZhJhSZ"

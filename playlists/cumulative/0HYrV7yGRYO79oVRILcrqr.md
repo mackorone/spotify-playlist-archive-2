@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-880 songs - 2 day 6 hr 47 min
+882 songs - 2 day 6 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -283,7 +283,7 @@
 | [Gedankengewitter](https://open.spotify.com/track/1Hze4rox0RnhkKtJiQ5m6k) | [Elaria Sol](https://open.spotify.com/artist/5rbCDCbfSBmLmLBp9J7NDH) | [Gedankengewitter](https://open.spotify.com/album/0rKxIPQemkSVpupIUZfqjI) | 3:37 | 2026-05-27 | 2026-06-18 |
 | [Genie](https://open.spotify.com/track/00bniyPFNFRkEyER0dQX0m) | [Bit Commander](https://open.spotify.com/artist/53aISfz35xV7ZbrD9vQBPF) | [Feral Child](https://open.spotify.com/album/1BNemdbTYPHl5gPVQJMwWq) | 6:55 | 2026-03-03 | 2026-03-18 |
 | [Get Lost Blues](https://open.spotify.com/track/68TaMRM7uQyrVZz6oW1lrW) | [DELREI](https://open.spotify.com/artist/77Xku7f5rq7hfoooTiv5jW) | [Desolation and Radiation](https://open.spotify.com/album/1P6cd5pDxmFNFZedAMWwh1) | 3:47 | 2025-10-17 | 2025-11-28 |
-| [Get up on Your Feet](https://open.spotify.com/track/54QamBb8HwxpfeiTFNwaKZ) | [Jangle Wave](https://open.spotify.com/artist/46IbeWIF6yDPAZ1Me3Mrqv) | [Get up on Your Feet](https://open.spotify.com/album/3VGwnfhp3TtamNolKFcFvd) | 3:34 | 2026-09-07 | 2026-09-20 |
+| [Get up on Your Feet](https://open.spotify.com/track/54QamBb8HwxpfeiTFNwaKZ) | [Jangle Wave](https://open.spotify.com/artist/46IbeWIF6yDPAZ1Me3Mrqv) | [Get up on Your Feet](https://open.spotify.com/album/3VGwnfhp3TtamNolKFcFvd) | 3:34 | 2026-09-07 |  |
 | [Ghost in the Machine](https://open.spotify.com/track/4FpzYZW8n0ACFuqPbgYVHY) | [Dan Folland](https://open.spotify.com/artist/0LCVaqmDMsBXKbN8JINKFu) | [Ghost in the Machine](https://open.spotify.com/album/4odVoAJovnpjem0S5Fx0Oy) | 3:10 | 2026-10-16 |  |
 | [Ghostprint](https://open.spotify.com/track/5wBXiMvviukja7UJui6WCk) | [santyskies](https://open.spotify.com/artist/6Ow8olhOixQI8aiRnhcayv) | [Don’t let the overshadow](https://open.spotify.com/album/2cEf0VRnSzQtBTh9E4Iafq) | 4:40 | 2026-01-11 | 2026-03-18 |
 | [Girl Gone Bad](https://open.spotify.com/track/0CfgCWKXlUNGNO2IGpT6WF) | [Marc Miner](https://open.spotify.com/artist/1805X4Dsc005LhyxsQgu5A) | [Last Heroes](https://open.spotify.com/album/1fsRse0jMTidK4lzVSdgMF) | 4:56 | 2025-09-01 | 2025-11-28 |
@@ -423,6 +423,7 @@
 | [Lazy Days](https://open.spotify.com/track/4sGmBEwT2CWB2h8BvQvmfw) | [Steven Luke](https://open.spotify.com/artist/0qobGcpriZgcybhS24cc8f) | [Lazy Days](https://open.spotify.com/album/0GI1FjoK3nO7BeagNEJG9I) | 3:04 | 2026-10-27 |  |
 | [Leave](https://open.spotify.com/track/24eQ0gaztPwAT44pHozFI5) | [The Color Blew](https://open.spotify.com/artist/6mnHAaGTCbeNA07xwFbWvz) | [Leave](https://open.spotify.com/album/2CadloDYbh46qgdzOWfoQ0) | 3:08 | 2025-11-10 | 2025-12-17 |
 | [Leave IT \| MJ Unofficial Tribute](https://open.spotify.com/track/5ODzg3yxWLI4JfMM6Py2Wv) | [STTAP](https://open.spotify.com/artist/28gjHgZscJjNrIiBaKiodS) | [Leave IT \| MJ Unofficial Tribute](https://open.spotify.com/album/28z8XJcaUV623xWpJbPepW) | 2:35 | 2025-12-18 | 2026-04-13 |
+| [Legacy](https://open.spotify.com/track/3bV9CSt3icMdmTcReRJ5ZY) | [Larry Read](https://open.spotify.com/artist/5mBDsF7X25Gcd4AEBKI7Qk) | [Legacy](https://open.spotify.com/album/3lkSY6GAeZJRjCutg306k8) | 3:44 | 2026-11-15 |  |
 | [Let Me Rock 'n' Roll](https://open.spotify.com/track/6UMuktZrIzLl6Qby4VCdDm) | [Brave Rival](https://open.spotify.com/artist/2tjh5W0sRxYe5Vr6EUh5go) | [5 to 4](https://open.spotify.com/album/40RQR6L1VCRxJkrjV2SAah) | 4:00 | 2026-01-22 | 2026-03-18 |
 | [Let You Go](https://open.spotify.com/track/3H2Gu6g9LSp6lz01OFeiok) | [The Insomnia Night](https://open.spotify.com/artist/1kf6je9RrHLLxg5ocFLVbD) | [Let You Go](https://open.spotify.com/album/0vV45jrw2TgiqB8SDsqSmI) | 4:55 | 2025-12-08 | 2026-04-21 |
 | [Let Your Body](https://open.spotify.com/track/3RaTqgsMjx1c6ZQ8Raz6f3) | [HYDEN](https://open.spotify.com/artist/2OiZJJdrzwKkFo2c9OF9bg) | [Let Your Body](https://open.spotify.com/album/4LMRvKAVjTeYW2nRWYlhm9) | 3:50 | 2025-09-29 | 2025-12-17 |
@@ -437,6 +438,7 @@
 | [Little Girl](https://open.spotify.com/track/62lgxs50xzYUAjFLPTgfPj) | [Ryan Hanifl](https://open.spotify.com/artist/1AuTC05dE8pv2qIT1hIjMD) | [Sourpuss](https://open.spotify.com/album/6hQSWrkqdDJ1fRDxKw6jTM) | 4:13 | 2025-10-05 | 2025-11-28 |
 | [Lo Que Pudo Ser](https://open.spotify.com/track/0IwYsw7OECCgoHTbZWKmXU) | [Puerto Mariel](https://open.spotify.com/artist/4RYkqvK3dICXDfPhGaQa1C) | [Lo Que Pudo Ser](https://open.spotify.com/album/7JlXBgjl3Jrz2T6D8oevHP) | 3:50 | 2026-05-05 | 2026-05-26 |
 | [Lobotomia](https://open.spotify.com/track/0st98mLoOQ50DNdxG10UKB) | [Promécio](https://open.spotify.com/artist/0XtSb6CHFV5dI9qGIHlLBc) | [Lobotomia](https://open.spotify.com/album/68Kj6bvoCsCieVjMoULkpi) | 3:24 | 2026-07-19 | 2026-08-01 |
+| [LONGER](https://open.spotify.com/track/0FG3QSysPCDH2r4GY4wCTS) | [Nash / Russell](https://open.spotify.com/artist/7vd8lBK1CIwSTDmcQTzKfq) | [LONGER](https://open.spotify.com/album/2o8B8SEzSH8BAbmNO93wA6) | 3:00 | 2026-11-15 |  |
 | [Longshot](https://open.spotify.com/track/3IxtfCiLl7sC5ahyoWysnk) | [Saliva](https://open.spotify.com/artist/5S6hjAxgxjsLylsTtMIimO), [Johnny Van Zant](https://open.spotify.com/artist/1oLVItT6UETI2EYrGlxSt1), [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB) | [Longshot](https://open.spotify.com/album/43uhiAyZZF1ftlgHaDMKZX) | 3:33 | 2026-07-19 | 2026-08-01 |
 | [Lost and Found](https://open.spotify.com/track/3qmTYEoQo7IwEsajEfFxfn) | [Cane Rouge](https://open.spotify.com/artist/1uiVgmOdSFSlgDfbJx1rJw) | [Lost and Found](https://open.spotify.com/album/1YRH642XRDebs2vrnsxw4k) | 3:30 | 2026-07-25 |  |
 | [Lost Inside The Sound](https://open.spotify.com/track/5hvZynQUpMYVnKV0H6yM5C) | [Beyond Disdain](https://open.spotify.com/artist/2MpVNPYFczBeNjPXePyVB4), [Selene Calder](https://open.spotify.com/artist/6ol142WWS5UFXOVXQ6hRs3) | [Till Death Parts Us](https://open.spotify.com/album/6I9dVel8cyK5qwEhjq5BIb) | 4:19 | 2026-08-27 |  |

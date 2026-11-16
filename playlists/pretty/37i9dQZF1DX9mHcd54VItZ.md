@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > The best new and classic South African Rock\. Cover: Spoegwolf
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,907 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,913 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 19 | [Under The Blue](https://open.spotify.com/track/0z1AvgdpwxxQ78eGONLWbT) | [Basson Laas](https://open.spotify.com/artist/2Beab8dPjPTw62bpTfETqx) | [Man The Fields](https://open.spotify.com/album/5YcSVZlkHkuEKNK9FaAm3S) | 4:47 |
 | 20 | [Ryk Met Tyd](https://open.spotify.com/track/2LhwiVyryaBgqfUSbYNlZZ) | [Barto](https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG), [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [Ryk Met Tyd](https://open.spotify.com/album/15VflOMtWCTGAndX9rfoct) | 2:28 |
 | 21 | [HITS LIKE THIS](https://open.spotify.com/track/11ThfB3hcwaOAhNaiddxEL) | [Crying in Colour](https://open.spotify.com/artist/1gKbrFmybPXTOjGBXetQAn) | [HITS LIKE THIS](https://open.spotify.com/album/5lehiloaqbzjNQfvRZUp2Q) | 3:10 |
-| 22 | [Push Me to the Floor](https://open.spotify.com/track/20HP7Q7GMBrj88fzaWj9sx) | [The Parlotones](https://open.spotify.com/artist/6kdqDRORMlysnNj2eIOsGs) | [Stardust Galaxies](https://open.spotify.com/album/6tpTsx57LM1DmiOezpi0Ro) | 4:11 |
+| 22 | [Dagdronk](https://open.spotify.com/track/7MaLgpnWJbSYO4LhS2k0ex) | [Vanfokkingtasties](https://open.spotify.com/artist/27JfNPJM3KuEAK7AWH6fHD), [Fokofpolisiekar](https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x) | [Vanfokkingtasties Akoesties](https://open.spotify.com/album/4OaB5LtEhBtOBycsi2a5BH) | 3:30 |
 | 23 | [SIDE EFFECTS](https://open.spotify.com/track/2gHNweRTvRaw5HswmIcdEE) | [Yung Beathoven](https://open.spotify.com/artist/1jRPlDFS33VKRsW5WYBNTs) | [SIDE EFFECTS](https://open.spotify.com/album/1Smmgvbzm9OQtKP2RcMPMv) | 2:47 |
-| 24 | [Dagdronk](https://open.spotify.com/track/7MaLgpnWJbSYO4LhS2k0ex) | [Vanfokkingtasties](https://open.spotify.com/artist/27JfNPJM3KuEAK7AWH6fHD), [Fokofpolisiekar](https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x) | [Vanfokkingtasties Akoesties](https://open.spotify.com/album/4OaB5LtEhBtOBycsi2a5BH) | 3:30 |
+| 24 | [Push Me to the Floor](https://open.spotify.com/track/20HP7Q7GMBrj88fzaWj9sx) | [The Parlotones](https://open.spotify.com/artist/6kdqDRORMlysnNj2eIOsGs) | [Stardust Galaxies](https://open.spotify.com/album/6tpTsx57LM1DmiOezpi0Ro) | 4:11 |
 | 25 | [No\-stal\-gies](https://open.spotify.com/track/5HIBPVltVLt6ekTdLIOYA4) | [TonnelVisie](https://open.spotify.com/artist/4dQMIBwoSPDi238yr7jUwT) | [No\-stal\-gies](https://open.spotify.com/album/0MBHR9G8kKc0JrIAYjE1bF) | 4:13 |
 | 26 | [Sweef](https://open.spotify.com/track/67HdShOHVANbkpkYkAAk24) | [GSTRiNG](https://open.spotify.com/artist/7x8i7WdBTZtFV2VbvIoDM5) | [Sweef](https://open.spotify.com/album/3CWmDxbp2dPy8L0YV4wEw1) | 3:25 |
 | 27 | [Rukkemoer](https://open.spotify.com/track/2RkkyVfqSXNgYCQGG1VKSj) | [Ruben Eloff](https://open.spotify.com/artist/0IzjCRbwve0Gx2N7syqyVS) | [Rukkemoer](https://open.spotify.com/album/15bPUtCxJIxrGWaKbTd1xK) | 4:21 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 47 | [Aksie Braai](https://open.spotify.com/track/52YuMNXCzmAPxFIh9d8aNc) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF), [Hunter Kennedy](https://open.spotify.com/artist/1ZMCOQhfU6y2jzMHXooyKi) | [Aksie Braai](https://open.spotify.com/album/5wW3FOc9GTmnFTU736pV03) | 3:01 |
 | 48 | [Pikkewynstraat](https://open.spotify.com/track/6kHnBVq4migU2NmT7JUVPI) | [Zoé](https://open.spotify.com/artist/2J1JhQzNtZ3RURghA5aF65) | [Pikkewynstraat](https://open.spotify.com/album/3qP7RP6ZB8dG83L3FjLAv0) | 3:00 |
 | 49 | [Stellies \(feat\. Rooksein\)](https://open.spotify.com/track/5gwdkMm5nxMXUilAEADX76) | [ONS](https://open.spotify.com/artist/49NkWWXM4QGYMhiiZCCtNb), [Rooksein](https://open.spotify.com/artist/0TX0T9VkzOTEjsdzi1a4nT) | [Stellies \(feat\. Rooksein\)](https://open.spotify.com/album/7yIBnPs996KLu8Sx48GtAK) | 2:47 |
-| 50 | [Stadig](https://open.spotify.com/track/1csJ3uoKufB2TY9Jbu0Wwu) | [Schwabie](https://open.spotify.com/artist/4If0l4Y8xgtSTg2qVXVqKQ), [GSTRiNG](https://open.spotify.com/artist/7x8i7WdBTZtFV2VbvIoDM5), [Henru](https://open.spotify.com/artist/5DnO62BUKruSHizebx8Vhk) | [Stadig](https://open.spotify.com/album/7oAz7GXt9SduiB3xfKzFNy) | 3:27 |
+| 50 | [Verloor Jouself](https://open.spotify.com/track/6gyapfzo41oTNPFLMBIgA4) | [GSTRiNG](https://open.spotify.com/artist/7x8i7WdBTZtFV2VbvIoDM5) | [Verloor Jouself](https://open.spotify.com/album/62W2COHw25v2dtuQ2bxwBV) | 2:15 |
 
 Snapshot ID: `AAAAAM9uJpQbl9qTiHY6zTcjyCpcOSK9`

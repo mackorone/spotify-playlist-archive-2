@@ -4,10 +4,11 @@
 
 > www.upmusicpromotion.com &\#x2F; IG: @upmusic\_promotion &\#x2F; promo@upmusicpromotion.com
 
-369 songs - 21 hr 38 min
+371 songs - 21 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [2K](https://open.spotify.com/track/3rjhhaW7LJDm89QSVYllm9) | [Djcoco](https://open.spotify.com/artist/3S93elFkdnyzRxMVrexWNY) | [2K](https://open.spotify.com/album/6PKujXeSxhINs9eGi1R7cv) | 3:07 | 2026-11-15 |  |
 | [30 For 30 \(with Kendrick Lamar\)](https://open.spotify.com/track/3aSWXU6owkZeVhh94XxEWO) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 4:38 | 2025-01-24 | 2026-06-12 |
 | [A Bar Song \(Tipsy\)](https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [A Bar Song \(Tipsy\)](https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ) | 2:51 | 2025-01-24 | 2026-06-12 |
 | [A Flôr](https://open.spotify.com/track/3Lvfuyk01emLPPhZDX1wy6) | [Everaldo Elias](https://open.spotify.com/artist/0uQw5Dv2mu1mS3dt5D5Zm6) | [Ouça](https://open.spotify.com/album/4WG3astGOGKMJWYSc2v3gu) | 4:45 | 2026-09-15 |  |
@@ -52,6 +53,7 @@
 | [Brandos Espaços Brancos](https://open.spotify.com/track/6bfFQDzW9b717Obk9UZDVM) | [Everton Vidal](https://open.spotify.com/artist/12ejUrQ6HgI6OEvDGG8cs9) | [Nuances](https://open.spotify.com/album/14pzQStt2oOEUVjFe2bcSJ) | 4:17 | 2025-12-17 | 2026-04-06 |
 | [Buitre](https://open.spotify.com/track/5nxUPbg1pnv58NpTLOAQHD) | [Brujo Nativo](https://open.spotify.com/artist/0fAQrIC5Rz7nvbUyDV9wCX) | [Buitre](https://open.spotify.com/album/6H5XztWhk6kZApudObpKCW) | 4:13 | 2025-09-13 | 2026-04-06 |
 | [Burning Soul](https://open.spotify.com/track/07JAFOVPFj7HLNGspfJPMR) | [David Lenoc](https://open.spotify.com/artist/0bwgixs0srFeTkbOEA7CvJ) | [Burning Soul](https://open.spotify.com/album/4mrAj3lYWjzYIhnuS1dplA) | 3:08 | 2025-01-25 | 2026-06-12 |
+| [By All Means](https://open.spotify.com/track/6ZlwOKl1epw066iFNjilEh) | [Birgitte And The Dusty Trails](https://open.spotify.com/artist/6VfH4YCvgDclCiYLJhk8zc), [Emma Birgitte Ovlien](https://open.spotify.com/artist/10ooU0BJqSyHNTaW49tCfE) | [By All Means](https://open.spotify.com/album/19QJO68vLhLR2Jm0fl58Qj) | 3:21 | 2026-11-15 |  |
 | [Büitre](https://open.spotify.com/track/2SbXb00q4taXT4ewzyTVug) | [Brujo Nativo](https://open.spotify.com/artist/0fAQrIC5Rz7nvbUyDV9wCX) | [La Fuerza](https://open.spotify.com/album/5emGsXnZncj5fo2kVb2DId) | 4:12 | 2025-09-13 | 2026-04-06 |
 | [Calatrava](https://open.spotify.com/track/3RfM4fbNZl8JBmhafNuZTE) | [Nínive](https://open.spotify.com/artist/7mEBZkzw2l3paNupTuTgLI) | [Calatrava](https://open.spotify.com/album/430VtJNF57nqZpMZWiJab4) | 3:00 | 2025-06-11 | 2026-04-06 |
 | [Call Me \(Jam Version\)](https://open.spotify.com/track/1YShEig3ZEQHsuO472JvVL) | [Musicismost](https://open.spotify.com/artist/1e9D47jZbnrgXSD9HlJSPK) | [Call Me \(Jam Version\)](https://open.spotify.com/album/7aCO5xglVMZUwTjRMRaypk) | 4:01 | 2025-01-26 | 2026-06-12 |

@@ -1,6 +1,6 @@
 {
   "description": "Koffie met gemoedelijke muziek op de achtergrond.",
-  "num_followers": 398787,
+  "num_followers": 398795,
   "original_name": "'t Koffiehuis",
   "owner": {
     "name": "Spotify",
@@ -207,22 +207,6 @@
     {
       "added_at": "2026-10-15 22:00:36",
       "album": {
-        "name": "Feeling Fine",
-        "url": "https://open.spotify.com/album/5QVuQVJgf2ibf26Vc24lTx"
-      },
-      "artists": [
-        {
-          "name": "Ocie Elliott",
-          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
-        }
-      ],
-      "duration_ms": 168461,
-      "name": "Feeling Fine",
-      "url": "https://open.spotify.com/track/7rL903PspMN1lJBeFI7OKF"
-    },
-    {
-      "added_at": "2026-10-15 22:00:36",
-      "album": {
         "name": "Make It A Better Place",
         "url": "https://open.spotify.com/album/42jISsT0BzDHJZRKclpuBs"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 181413,
       "name": "Make It A Better Place",
       "url": "https://open.spotify.com/track/2Ylixb6RYn2zi8KfO56bgI"
+    },
+    {
+      "added_at": "2026-10-15 22:00:36",
+      "album": {
+        "name": "Feeling Fine",
+        "url": "https://open.spotify.com/album/5QVuQVJgf2ibf26Vc24lTx"
+      },
+      "artists": [
+        {
+          "name": "Ocie Elliott",
+          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
+        }
+      ],
+      "duration_ms": 168461,
+      "name": "Feeling Fine",
+      "url": "https://open.spotify.com/track/7rL903PspMN1lJBeFI7OKF"
     },
     {
       "added_at": "2026-10-15 22:00:36",
@@ -307,22 +307,6 @@
     {
       "added_at": "2026-10-15 22:00:36",
       "album": {
-        "name": "Without You",
-        "url": "https://open.spotify.com/album/6Elarrs52LqvI6bURFzhRU"
-      },
-      "artists": [
-        {
-          "name": "Kodaline",
-          "url": "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
-        }
-      ],
-      "duration_ms": 237000,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/1EHIhtFlI9cFgAcKuuMGXu"
-    },
-    {
-      "added_at": "2026-10-15 22:00:36",
-      "album": {
         "name": "Hold On",
         "url": "https://open.spotify.com/album/0LLTYOCYG7GVrGQIrsaf1v"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 197116,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/2SdpxZ4gq0vst59dkjwml6"
+    },
+    {
+      "added_at": "2026-10-15 22:00:36",
+      "album": {
+        "name": "Chlo\u00eb and the Next 20th Century",
+        "url": "https://open.spotify.com/album/2tfg6zi5pwuYeQ0IHYnOBz"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "duration_ms": 300240,
+      "name": "Goodbye Mr. Blue",
+      "url": "https://open.spotify.com/track/7ydJaSdC8Au68eYgspNznY"
     },
     {
       "added_at": "2026-10-15 22:00:36",
@@ -355,18 +355,18 @@
     {
       "added_at": "2026-10-15 22:00:36",
       "album": {
-        "name": "Chlo\u00eb and the Next 20th Century",
-        "url": "https://open.spotify.com/album/2tfg6zi5pwuYeQ0IHYnOBz"
+        "name": "Without You",
+        "url": "https://open.spotify.com/album/6Elarrs52LqvI6bURFzhRU"
       },
       "artists": [
         {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+          "name": "Kodaline",
+          "url": "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
         }
       ],
-      "duration_ms": 300240,
-      "name": "Goodbye Mr. Blue",
-      "url": "https://open.spotify.com/track/7ydJaSdC8Au68eYgspNznY"
+      "duration_ms": 237000,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/1EHIhtFlI9cFgAcKuuMGXu"
     },
     {
       "added_at": "2026-10-15 22:00:36",
@@ -743,22 +743,6 @@
     {
       "added_at": "2026-10-15 22:00:36",
       "album": {
-        "name": "Remedy",
-        "url": "https://open.spotify.com/album/5UOuVdbm7voBfBbdq4ZZ6A"
-      },
-      "artists": [
-        {
-          "name": "Nambyar",
-          "url": "https://open.spotify.com/artist/2OVh8vBXmBS9Sc5w6G5Ko9"
-        }
-      ],
-      "duration_ms": 206453,
-      "name": "Nomad",
-      "url": "https://open.spotify.com/track/0ZJPFFiDWl8AQSE9UiR5sg"
-    },
-    {
-      "added_at": "2026-10-15 22:00:36",
-      "album": {
         "name": "Never Felt The Rain (feat. FENNE)",
         "url": "https://open.spotify.com/album/5l1lpfVQcauzbECuyD5BxQ"
       },
@@ -779,6 +763,22 @@
     {
       "added_at": "2026-10-15 22:00:36",
       "album": {
+        "name": "Remedy",
+        "url": "https://open.spotify.com/album/5UOuVdbm7voBfBbdq4ZZ6A"
+      },
+      "artists": [
+        {
+          "name": "Nambyar",
+          "url": "https://open.spotify.com/artist/2OVh8vBXmBS9Sc5w6G5Ko9"
+        }
+      ],
+      "duration_ms": 206453,
+      "name": "Nomad",
+      "url": "https://open.spotify.com/track/0ZJPFFiDWl8AQSE9UiR5sg"
+    },
+    {
+      "added_at": "2026-10-15 22:00:36",
+      "album": {
         "name": "Last Forever",
         "url": "https://open.spotify.com/album/6zRmU09G6WpOyEEjyx415P"
       },
@@ -791,22 +791,6 @@
       "duration_ms": 194675,
       "name": "Last Forever - Acoustic",
       "url": "https://open.spotify.com/track/29H7L2HjWj6D36efQRPGBm"
-    },
-    {
-      "added_at": "2026-10-15 22:00:36",
-      "album": {
-        "name": "Pray",
-        "url": "https://open.spotify.com/album/5fJ1VOWImcJkl9QLRsRHBS"
-      },
-      "artists": [
-        {
-          "name": "MICHA",
-          "url": "https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6"
-        }
-      ],
-      "duration_ms": 184424,
-      "name": "Pray",
-      "url": "https://open.spotify.com/track/2QIwwLD84biX4Ghw2VJYCn"
     },
     {
       "added_at": "2026-10-15 22:00:36",
@@ -827,18 +811,18 @@
     {
       "added_at": "2026-10-15 22:00:36",
       "album": {
-        "name": "Northern Star",
-        "url": "https://open.spotify.com/album/5R4PL73ePjYo53hfmicqFP"
+        "name": "Pray",
+        "url": "https://open.spotify.com/album/5fJ1VOWImcJkl9QLRsRHBS"
       },
       "artists": [
         {
-          "name": "Nambyar",
-          "url": "https://open.spotify.com/artist/2OVh8vBXmBS9Sc5w6G5Ko9"
+          "name": "MICHA",
+          "url": "https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6"
         }
       ],
-      "duration_ms": 192080,
-      "name": "Northern Star",
-      "url": "https://open.spotify.com/track/4cfVHLsWpN7dwbLRLsSoSn"
+      "duration_ms": 184424,
+      "name": "Pray",
+      "url": "https://open.spotify.com/track/2QIwwLD84biX4Ghw2VJYCn"
     },
     {
       "added_at": "2026-10-15 22:00:36",
@@ -859,6 +843,22 @@
       "duration_ms": 193749,
       "name": "Illusion (feat. Tangarine) - acoustic",
       "url": "https://open.spotify.com/track/4Y86dcLLPyk5CKfGAzEjFc"
+    },
+    {
+      "added_at": "2026-10-15 22:00:36",
+      "album": {
+        "name": "Northern Star",
+        "url": "https://open.spotify.com/album/5R4PL73ePjYo53hfmicqFP"
+      },
+      "artists": [
+        {
+          "name": "Nambyar",
+          "url": "https://open.spotify.com/artist/2OVh8vBXmBS9Sc5w6G5Ko9"
+        }
+      ],
+      "duration_ms": 192080,
+      "name": "Northern Star",
+      "url": "https://open.spotify.com/track/4cfVHLsWpN7dwbLRLsSoSn"
     },
     {
       "added_at": "2026-10-15 22:00:36",
@@ -943,22 +943,6 @@
     {
       "added_at": "2026-10-15 22:00:36",
       "album": {
-        "name": "Save It For Later",
-        "url": "https://open.spotify.com/album/1JCSyDDYF8k1dAxbchvxbl"
-      },
-      "artists": [
-        {
-          "name": "BLUAI",
-          "url": "https://open.spotify.com/artist/5CJhBRBaE9MaWfPwcg2WbF"
-        }
-      ],
-      "duration_ms": 208575,
-      "name": "Not The One",
-      "url": "https://open.spotify.com/track/74Zu26EVqhfSN5QpTWtvr4"
-    },
-    {
-      "added_at": "2026-10-15 22:00:36",
-      "album": {
         "name": "What Makes A King",
         "url": "https://open.spotify.com/album/59ZHtyohHl6rHbajav5ofK"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 168433,
       "name": "What Makes A King",
       "url": "https://open.spotify.com/track/0quGcjPmKx83IghLfgcS3P"
+    },
+    {
+      "added_at": "2026-10-15 22:00:36",
+      "album": {
+        "name": "Save It For Later",
+        "url": "https://open.spotify.com/album/1JCSyDDYF8k1dAxbchvxbl"
+      },
+      "artists": [
+        {
+          "name": "BLUAI",
+          "url": "https://open.spotify.com/artist/5CJhBRBaE9MaWfPwcg2WbF"
+        }
+      ],
+      "duration_ms": 208575,
+      "name": "Not The One",
+      "url": "https://open.spotify.com/track/74Zu26EVqhfSN5QpTWtvr4"
     },
     {
       "added_at": "2026-10-15 22:00:36",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2026-10-15 22:00:36",
       "album": {
-        "name": "One Life",
-        "url": "https://open.spotify.com/album/7d3jCuEQ8pXtg0bjxtcTsC"
-      },
-      "artists": [
-        {
-          "name": "Bunch Of Grapes",
-          "url": "https://open.spotify.com/artist/4mreXDeA7Qv8DrGNKfOsdK"
-        }
-      ],
-      "duration_ms": 150937,
-      "name": "One Life",
-      "url": "https://open.spotify.com/track/4H6huybuIXixEEvEFBiltj"
-    },
-    {
-      "added_at": "2026-10-15 22:00:36",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5YcB3oSnzUImqETGH3jqeq"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 237545,
       "name": "Uncharted - Recorded at Spotify Studios Stockholm",
       "url": "https://open.spotify.com/track/2cOwUzjqyk9S4PsAW7BycC"
+    },
+    {
+      "added_at": "2026-10-15 22:00:36",
+      "album": {
+        "name": "One Life",
+        "url": "https://open.spotify.com/album/7d3jCuEQ8pXtg0bjxtcTsC"
+      },
+      "artists": [
+        {
+          "name": "Bunch Of Grapes",
+          "url": "https://open.spotify.com/artist/4mreXDeA7Qv8DrGNKfOsdK"
+        }
+      ],
+      "duration_ms": 150937,
+      "name": "One Life",
+      "url": "https://open.spotify.com/track/4H6huybuIXixEEvEFBiltj"
     },
     {
       "added_at": "2026-10-15 22:00:36",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2026-10-15 22:00:36",
       "album": {
-        "name": "Don't Leave Me Now",
-        "url": "https://open.spotify.com/album/3242iTcpKXzQe4zFTp2AMz"
-      },
-      "artists": [
-        {
-          "name": "Lucas Hamming",
-          "url": "https://open.spotify.com/artist/4iDpNIlF0YzksZ35iQf196"
-        }
-      ],
-      "duration_ms": 232082,
-      "name": "Don't Leave Me Now",
-      "url": "https://open.spotify.com/track/6WmFcu5t23LYIw6jotpn5Z"
-    },
-    {
-      "added_at": "2026-10-15 22:00:36",
-      "album": {
         "name": "Who Am I",
         "url": "https://open.spotify.com/album/2Kwf79Mrk1ms9T4lfIJiL6"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 145403,
       "name": "Who Am I",
       "url": "https://open.spotify.com/track/0YKcTnaJJ9U5QeX6TNqJ7z"
+    },
+    {
+      "added_at": "2026-10-15 22:00:36",
+      "album": {
+        "name": "Don't Leave Me Now",
+        "url": "https://open.spotify.com/album/3242iTcpKXzQe4zFTp2AMz"
+      },
+      "artists": [
+        {
+          "name": "Lucas Hamming",
+          "url": "https://open.spotify.com/artist/4iDpNIlF0YzksZ35iQf196"
+        }
+      ],
+      "duration_ms": 232082,
+      "name": "Don't Leave Me Now",
+      "url": "https://open.spotify.com/track/6WmFcu5t23LYIw6jotpn5Z"
     },
     {
       "added_at": "2026-10-15 22:00:36",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2026-10-15 22:00:36",
       "album": {
-        "name": "Another Year Will Pass",
-        "url": "https://open.spotify.com/album/5upyUvc97PJ25cRb1vLLDI"
-      },
-      "artists": [
-        {
-          "name": "n\u00e9om\u00ed",
-          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
-        }
-      ],
-      "duration_ms": 195604,
-      "name": "Another Year Will Pass",
-      "url": "https://open.spotify.com/track/2kK1NHAOsnl4WmRf4Zlv9B"
-    },
-    {
-      "added_at": "2026-10-15 22:00:36",
-      "album": {
         "name": "Apple Tree",
         "url": "https://open.spotify.com/album/1iKpZ2BXsPfibh7g897dgx"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 178336,
       "name": "Apple Tree",
       "url": "https://open.spotify.com/track/3F8qD0jYXjGweKRYv5CQRf"
+    },
+    {
+      "added_at": "2026-10-15 22:00:36",
+      "album": {
+        "name": "Another Year Will Pass",
+        "url": "https://open.spotify.com/album/5upyUvc97PJ25cRb1vLLDI"
+      },
+      "artists": [
+        {
+          "name": "n\u00e9om\u00ed",
+          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
+        }
+      ],
+      "duration_ms": 195604,
+      "name": "Another Year Will Pass",
+      "url": "https://open.spotify.com/track/2kK1NHAOsnl4WmRf4Zlv9B"
     },
     {
       "added_at": "2026-10-15 22:00:36",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2026-10-15 22:00:36",
       "album": {
-        "name": "Green Lights",
-        "url": "https://open.spotify.com/album/0pIx3rjKDxor7Uza8remku"
-      },
-      "artists": [
-        {
-          "name": "Blackbird",
-          "url": "https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL"
-        }
-      ],
-      "duration_ms": 177306,
-      "name": "Falling Easy",
-      "url": "https://open.spotify.com/track/4s0eEqOyR0ybLtBo5fkPB6"
-    },
-    {
-      "added_at": "2026-10-15 22:00:36",
-      "album": {
         "name": "Body Language",
         "url": "https://open.spotify.com/album/6FqyoSKSRukmIm6kcXaLJR"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 191040,
       "name": "Body Language",
       "url": "https://open.spotify.com/track/0lMWdThDnxoiySOEX6ur4o"
+    },
+    {
+      "added_at": "2026-10-15 22:00:36",
+      "album": {
+        "name": "Green Lights",
+        "url": "https://open.spotify.com/album/0pIx3rjKDxor7Uza8remku"
+      },
+      "artists": [
+        {
+          "name": "Blackbird",
+          "url": "https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL"
+        }
+      ],
+      "duration_ms": 177306,
+      "name": "Falling Easy",
+      "url": "https://open.spotify.com/track/4s0eEqOyR0ybLtBo5fkPB6"
     },
     {
       "added_at": "2026-10-15 22:00:36",
@@ -1287,18 +1287,18 @@
     {
       "added_at": "2026-10-15 22:00:36",
       "album": {
-        "name": "Always Lost",
-        "url": "https://open.spotify.com/album/2JnYn3rCK1aGomksow3WtA"
+        "name": "everything is now",
+        "url": "https://open.spotify.com/album/2IX0ck45O1UU4LJOEdWNgv"
       },
       "artists": [
         {
-          "name": "Emma Hessels",
-          "url": "https://open.spotify.com/artist/2EBGNZQqTRCOmaLi10FQ2g"
+          "name": "RADBOUD",
+          "url": "https://open.spotify.com/artist/55D6CsbUvFnPbVy3w0X55j"
         }
       ],
-      "duration_ms": 199000,
-      "name": "Always Lost",
-      "url": "https://open.spotify.com/track/1GLJrhvJcD7MDzH4oSfimf"
+      "duration_ms": 174130,
+      "name": "everything is now",
+      "url": "https://open.spotify.com/track/7xXrQgD8kkSYZAh7NIyGAf"
     },
     {
       "added_at": "2026-10-15 22:00:36",
@@ -1315,6 +1315,38 @@
       "duration_ms": 265866,
       "name": "Afraid Of What You Might Find",
       "url": "https://open.spotify.com/track/7cnbRTFRYERD9bPO6SkDUx"
+    },
+    {
+      "added_at": "2026-10-15 22:00:36",
+      "album": {
+        "name": "Crystal Tears",
+        "url": "https://open.spotify.com/album/5FwyV0GtSv7cFi5jf8IykE"
+      },
+      "artists": [
+        {
+          "name": "Janne Schra",
+          "url": "https://open.spotify.com/artist/7IGk0iXhaPjqvQF4Zi2R2K"
+        }
+      ],
+      "duration_ms": 222691,
+      "name": "Crystal Tears",
+      "url": "https://open.spotify.com/track/2U79GTtriUkPKJJSy4Ggeb"
+    },
+    {
+      "added_at": "2026-10-15 22:00:36",
+      "album": {
+        "name": "Always Lost",
+        "url": "https://open.spotify.com/album/2JnYn3rCK1aGomksow3WtA"
+      },
+      "artists": [
+        {
+          "name": "Emma Hessels",
+          "url": "https://open.spotify.com/artist/2EBGNZQqTRCOmaLi10FQ2g"
+        }
+      ],
+      "duration_ms": 199000,
+      "name": "Always Lost",
+      "url": "https://open.spotify.com/track/1GLJrhvJcD7MDzH4oSfimf"
     },
     {
       "added_at": "2026-10-15 22:00:36",
@@ -1343,22 +1375,6 @@
     {
       "added_at": "2026-10-15 22:00:36",
       "album": {
-        "name": "Crystal Tears",
-        "url": "https://open.spotify.com/album/5FwyV0GtSv7cFi5jf8IykE"
-      },
-      "artists": [
-        {
-          "name": "Janne Schra",
-          "url": "https://open.spotify.com/artist/7IGk0iXhaPjqvQF4Zi2R2K"
-        }
-      ],
-      "duration_ms": 222691,
-      "name": "Crystal Tears",
-      "url": "https://open.spotify.com/track/2U79GTtriUkPKJJSy4Ggeb"
-    },
-    {
-      "added_at": "2026-10-15 22:00:36",
-      "album": {
         "name": "i'm changing my mind",
         "url": "https://open.spotify.com/album/7cjunboFq4ymwahQTGiPQB"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 234336,
       "name": "adeline",
       "url": "https://open.spotify.com/track/0xMF4mYFyJXUjJPo3tcO0J"
-    },
-    {
-      "added_at": "2026-10-15 22:00:36",
-      "album": {
-        "name": "everything is now",
-        "url": "https://open.spotify.com/album/2IX0ck45O1UU4LJOEdWNgv"
-      },
-      "artists": [
-        {
-          "name": "RADBOUD",
-          "url": "https://open.spotify.com/artist/55D6CsbUvFnPbVy3w0X55j"
-        }
-      ],
-      "duration_ms": 174130,
-      "name": "everything is now",
-      "url": "https://open.spotify.com/track/7xXrQgD8kkSYZAh7NIyGAf"
     },
     {
       "added_at": "2026-10-15 22:00:36",
@@ -1631,18 +1631,18 @@
     {
       "added_at": "2026-10-15 22:00:36",
       "album": {
-        "name": "Suddenly Forever",
-        "url": "https://open.spotify.com/album/1hQ5EVAbIz9oBeRKxvIth7"
+        "name": "Toy Heart",
+        "url": "https://open.spotify.com/album/0af3f7ejJ7Y3nsLhVnvc9I"
       },
       "artists": [
         {
-          "name": "Selwyn",
-          "url": "https://open.spotify.com/artist/3X7NZ2Z357FRJxw7Plc8sZ"
+          "name": "Judy Blank",
+          "url": "https://open.spotify.com/artist/2Kqa4BYcpEq4KXX9fYmRpH"
         }
       ],
-      "duration_ms": 200000,
-      "name": "Suddenly Forever",
-      "url": "https://open.spotify.com/track/3JoomyiXjiuOrT4DzCGotR"
+      "duration_ms": 197960,
+      "name": "Toy Heart",
+      "url": "https://open.spotify.com/track/0y9CKIUQGBPdeTU3Mjo389"
     }
   ],
   "unique_name": "'t Koffiehuis",

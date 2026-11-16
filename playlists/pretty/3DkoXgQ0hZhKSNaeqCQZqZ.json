@@ -1,13 +1,33 @@
 {
   "description": "FurryRadio.com, furry music for furs, by furs.",
-  "num_followers": 1265,
+  "num_followers": 1264,
   "original_name": "FURRY RADIO",
   "owner": {
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAAGIWLRDMUQp8U0uo1BApPjh/1tuz4I",
+  "snapshot_id": "AAAGIsGVFD8CemMSgJ8xzdpOxpbAW3F0",
   "tracks": [
+    {
+      "added_at": "2026-11-15 05:53:22",
+      "album": {
+        "name": "Party Favor",
+        "url": "https://open.spotify.com/album/37LhJVLQUxJDJPxa9IaJdb"
+      },
+      "artists": [
+        {
+          "name": "ivycomb",
+          "url": "https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo"
+        },
+        {
+          "name": "OodleZz",
+          "url": "https://open.spotify.com/artist/2eCpXBK9mnqr6o9TydXu98"
+        }
+      ],
+      "duration_ms": 195236,
+      "name": "Party Favor",
+      "url": "https://open.spotify.com/track/2aHxRQGqUH58sUptShLRWP"
+    },
     {
       "added_at": "2026-11-14 02:33:33",
       "album": {

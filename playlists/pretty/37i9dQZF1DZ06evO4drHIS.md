@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4drHIS.md) - [plain]
 
 > This is Majo Aguilar\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,341 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,351 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4drHIS.md) - [plain]
 | 49 | [Así Es La Vida](https://open.spotify.com/track/5rreZRW9fX4aurmLt1e1m1) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Mi Herencia, Mi Sangre](https://open.spotify.com/album/7Fx68oIAPZovKJIIzaL1OH) | 3:06 |
 | 50 | [Hoy Va Por Ti \(feat\. Karol Sevilla\)](https://open.spotify.com/track/6kJMQNdDHnPav35RRb3hTM) | [Margarita la diosa de la cumbia](https://open.spotify.com/artist/2vdi5RS6XV5Qy7J5GgDqgn), [Benny](https://open.spotify.com/artist/3YHFRVdfHlJ98iAc50PIYk), [Mario Bautista](https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP), [Karol Sevilla](https://open.spotify.com/artist/6aBoKzSTjuIi0sY69XHLk3) | [Hoy Va Por Ti \(feat\. Karol Sevilla\)](https://open.spotify.com/album/3KFQNaFEQ1MS9hUjujOwn1) | 3:25 |
 
-Snapshot ID: `avZTAAAAAADGdTK0F4VXoTFgK7WgtZTK`
+Snapshot ID: `avekgAAAAAA8Bkje90dBXY+XR93i2wxF`

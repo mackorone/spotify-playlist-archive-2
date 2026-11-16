@@ -682,7 +682,7 @@
       ],
       "date_added": "2026-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 183448,
       "name": "4 str\u0103zi",
       "url": "https://open.spotify.com/track/35S5ZoZVCOZpYrXHqtlZDI"
@@ -2544,7 +2544,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 213333,
       "name": "Am intrebat un om (Nebunu)",
       "url": "https://open.spotify.com/track/2Qvl3q2nNNDAOHuT652h5w"
@@ -6612,7 +6612,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 179304,
       "name": "Bolnavi am\u00e2ndoi",
       "url": "https://open.spotify.com/track/2rZhXHx9kCsT8jkRbUKsDE"
@@ -11209,6 +11209,28 @@
     },
     {
       "album": {
+        "name": "Cu mine te stie lumea",
+        "url": "https://open.spotify.com/album/0g9BNBPEB56VPdjc8nnl9n"
+      },
+      "artists": [
+        {
+          "name": "Costel Biju",
+          "url": "https://open.spotify.com/artist/1XDujSZXKFYhL3lb9HLHHY"
+        },
+        {
+          "name": "Kristiyana",
+          "url": "https://open.spotify.com/artist/7sMSrc7UWnMnZo1GCuyrBy"
+        }
+      ],
+      "date_added": "2026-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200115,
+      "name": "Cu mine te stie lumea",
+      "url": "https://open.spotify.com/track/4i4h4vWvQtjOsGkl1EpJGB"
+    },
+    {
+      "album": {
         "name": "CUBA",
         "url": "https://open.spotify.com/album/2TM3q0Sf8hCcFyjLVX1mj4"
       },
@@ -11878,7 +11900,7 @@
       ],
       "date_added": "2025-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-11",
+      "date_removed": null,
       "duration_ms": 157693,
       "name": "Damelo",
       "url": "https://open.spotify.com/track/37h8o6hEV5jdmiNpZkFxRF"
@@ -16744,7 +16766,7 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 142000,
       "name": "FARMACISTA",
       "url": "https://open.spotify.com/track/0QGHB3naWsYs9Sz70RjkZ2"
@@ -23567,6 +23589,28 @@
     },
     {
       "album": {
+        "name": "Inima fara noroc",
+        "url": "https://open.spotify.com/album/3MYN0oZNgTOxktd0mnefRZ"
+      },
+      "artists": [
+        {
+          "name": "Luis Gabriel",
+          "url": "https://open.spotify.com/artist/0lD0cnzSrUjThgH9YxBF82"
+        },
+        {
+          "name": "Haziran",
+          "url": "https://open.spotify.com/artist/2GSGcb6NjNoA5eKTSKcTNL"
+        }
+      ],
+      "date_added": "2026-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244600,
+      "name": "Inima fara noroc",
+      "url": "https://open.spotify.com/track/41VEG2YqkaK7JZgjbstEW6"
+    },
+    {
+      "album": {
         "name": "CARTEA JUNGLEI",
         "url": "https://open.spotify.com/album/0kOUAVz6jKiWYp9qZjqDNh"
       },
@@ -24328,7 +24372,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-15",
+      "date_removed": null,
       "duration_ms": 184160,
       "name": "Jamaica - Live",
       "url": "https://open.spotify.com/track/4IbwrJnzm9udi46ear9lTC"
@@ -26076,7 +26120,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-30",
+      "date_removed": null,
       "duration_ms": 262960,
       "name": "Last Christmas",
       "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
@@ -30708,7 +30752,7 @@
       ],
       "date_added": "2026-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-04",
+      "date_removed": null,
       "duration_ms": 203920,
       "name": "MonCher",
       "url": "https://open.spotify.com/track/1S7tbZ8cDzZ0Pu2OOACEjX"
@@ -35686,7 +35730,7 @@
       ],
       "date_added": "2026-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 155492,
       "name": "Party With The Boys",
       "url": "https://open.spotify.com/track/5d2Sj3lMKJFefwU26GInQu"
@@ -45858,7 +45902,7 @@
       ],
       "date_added": "2026-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-22",
+      "date_removed": null,
       "duration_ms": 159007,
       "name": "SWIM",
       "url": "https://open.spotify.com/track/68lbSrXDORS51pmyjZv712"
@@ -45974,7 +46018,7 @@
       ],
       "date_added": "2025-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 196285,
       "name": "S\u0103 nu ui\u021bi c\u00e2t te-am iubit",
       "url": "https://open.spotify.com/track/5On1Z1lSOxRzTQ2N0aOTd6"
@@ -49916,7 +49960,7 @@
       ],
       "date_added": "2026-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 228750,
       "name": "ultima (noapte)",
       "url": "https://open.spotify.com/track/4xqcdWSI76WcQBottrpm1Z"

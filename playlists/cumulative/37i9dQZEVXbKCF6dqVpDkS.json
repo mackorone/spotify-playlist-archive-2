@@ -2162,7 +2162,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-15",
+      "date_removed": null,
       "duration_ms": 241562,
       "name": "All I Want for Christmas Is You",
       "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
@@ -2618,7 +2618,7 @@
       ],
       "date_added": "2026-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 161904,
       "name": "Alles Is Even Goed",
       "url": "https://open.spotify.com/track/0B5p9XLxlDpQf9SQQ41TGd"
@@ -4858,7 +4858,7 @@
       ],
       "date_added": "2026-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 145779,
       "name": "BADBAD",
       "url": "https://open.spotify.com/track/5YHHKmrMGrgPK1rnHS9Oag"
@@ -5266,6 +5266,28 @@
       "duration_ms": 140733,
       "name": "BAND4BAND (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/7iabz12vAuVQYyekFIWJxD"
+    },
+    {
+      "album": {
+        "name": "Bang Zijn In Het Donker",
+        "url": "https://open.spotify.com/album/7AQ2Ffp6jh23hIJIBfvmSw"
+      },
+      "artists": [
+        {
+          "name": "KADO",
+          "url": "https://open.spotify.com/artist/3Q00kkvihGYh7ym4vMdpdZ"
+        },
+        {
+          "name": "De Club van Sinterklaas",
+          "url": "https://open.spotify.com/artist/4GaAzGCRu6rYPmVDn3iEJ1"
+        }
+      ],
+      "date_added": "2026-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177451,
+      "name": "Bang Zijn In Het Donker",
+      "url": "https://open.spotify.com/track/7p6zXNmiYd8rIVpRB5CiYi"
     },
     {
       "album": {
@@ -13902,7 +13924,7 @@
       ],
       "date_added": "2026-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 66000,
       "name": "Eerst Geloven, Dan Zien (Intro)",
       "url": "https://open.spotify.com/track/4J1ToRGPzxijB5kbQL7As3"
@@ -15662,7 +15684,7 @@
       ],
       "date_added": "2026-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 162285,
       "name": "Feestje Op Mijn Graf",
       "url": "https://open.spotify.com/track/1XD5DhrBu0HpofkF8cv3Ii"
@@ -31714,7 +31736,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-11",
+      "date_removed": null,
       "duration_ms": 154691,
       "name": "Mo\u00ebt Dat Nou",
       "url": "https://open.spotify.com/track/0HWjXL4layDbYbCj21uzd8"
@@ -36028,7 +36050,7 @@
       ],
       "date_added": "2026-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 212472,
       "name": "Papa Had Gelijk",
       "url": "https://open.spotify.com/track/6S5nYtwN9h0SK6FrOoyCTr"
@@ -36574,6 +36596,32 @@
     {
       "album": {
         "name": "Pepernoot",
+        "url": "https://open.spotify.com/album/2ietIhIB4ZiLDhyYNAtg0J"
+      },
+      "artists": [
+        {
+          "name": "Pietje Fernando",
+          "url": "https://open.spotify.com/artist/4KkrryLOEp23xrIS0Bmp1C"
+        },
+        {
+          "name": "De Club van Sinterklaas",
+          "url": "https://open.spotify.com/artist/4GaAzGCRu6rYPmVDn3iEJ1"
+        },
+        {
+          "name": "Frans Duijts",
+          "url": "https://open.spotify.com/artist/3VVxpV5qfkhLkLZjXB274t"
+        }
+      ],
+      "date_added": "2026-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155086,
+      "name": "Pepernoot",
+      "url": "https://open.spotify.com/track/2IVtE6jHdCiF7Pg71IlHRO"
+    },
+    {
+      "album": {
+        "name": "Pepernoot",
         "url": "https://open.spotify.com/album/6juIkKWtxmUQamKgB5dB1A"
       },
       "artists": [
@@ -36818,6 +36866,28 @@
       "duration_ms": 169939,
       "name": "PICO BELLO",
       "url": "https://open.spotify.com/track/0kgCjmWBEGVEuDxk2BlgFf"
+    },
+    {
+      "album": {
+        "name": "De Leukste Liedjes",
+        "url": "https://open.spotify.com/album/2G3TqboFYvp7mtht8PkHYL"
+      },
+      "artists": [
+        {
+          "name": "De Club van Sinterklaas",
+          "url": "https://open.spotify.com/artist/4GaAzGCRu6rYPmVDn3iEJ1"
+        },
+        {
+          "name": "Danspiet",
+          "url": "https://open.spotify.com/artist/36lZXGOgNG1Y4j8mZWpUHm"
+        }
+      ],
+      "date_added": "2026-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168690,
+      "name": "Pietengym",
+      "url": "https://open.spotify.com/track/1CljRgpqTTzK94KeN6ov5j"
     },
     {
       "album": {
@@ -37290,7 +37360,7 @@
       ],
       "date_added": "2026-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-15",
+      "date_removed": null,
       "duration_ms": 192786,
       "name": "POPULAIR",
       "url": "https://open.spotify.com/track/4y31VcNe2CESLzUZ7vQN7f"
@@ -41774,7 +41844,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-08",
+      "date_removed": null,
       "duration_ms": 49473,
       "name": "Sinterklaasje Kom Maar Binnen",
       "url": "https://open.spotify.com/track/5dJJiGqsskjq7OSwNgbHoI"
@@ -50398,7 +50468,7 @@
       ],
       "date_added": "2026-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 139862,
       "name": "Wat Nou Als Het Lukt?",
       "url": "https://open.spotify.com/track/3QYKg3RR5qQcf8rlcRbgYR"
@@ -52252,7 +52322,7 @@
       ],
       "date_added": "2026-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 174790,
       "name": "Wind Tegen",
       "url": "https://open.spotify.com/track/6bkf0DIK8HV7MrYvlAT9Cg"

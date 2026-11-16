@@ -4,7 +4,7 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-662 songs - 1 day 15 hr 9 min
+663 songs - 1 day 15 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -482,7 +482,7 @@
 | [Rush Of Blood](https://open.spotify.com/track/7qKmGhUhmsqwHnYNAm2mwp) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Rush Of Blood](https://open.spotify.com/album/77uBN5BPyZA5z5K09MKRcQ) | 3:22 | 2024-08-15 | 2025-01-03 |
 | [Rytmen av ett regn](https://open.spotify.com/track/284OgQhThXzkssDt6Hdreg) | [Arvingarna](https://open.spotify.com/artist/1qC3LsWlbrRCPVRooOX81u) | [Rytmen av ett regn](https://open.spotify.com/album/5KUGbEBxb6DBveyI28Sstp) | 3:14 | 2024-06-27 | 2024-08-09 |
 | [Rädd för hundar](https://open.spotify.com/track/31zjUJQ5zQx6Jw9NMuiNDn) | [Peder Stenberg](https://open.spotify.com/artist/2MKru4ipTJZbssZpyKwtB2) | [Rädd för hundar](https://open.spotify.com/album/1RQ5oUUy9dNh0E68CdIW0t) | 4:11 | 2025-01-16 | 2025-05-30 |
-| [Rädda Liv](https://open.spotify.com/track/1HU7FMa7cj5l1Zv4R6B0dO) | [Timbuktu](https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe) | [Rädda Liv](https://open.spotify.com/album/4QqhNQxXWmPBpYZNn1p5aj) | 3:47 | 2026-06-25 |  |
+| [Rädda Liv](https://open.spotify.com/track/1HU7FMa7cj5l1Zv4R6B0dO) | [Timbuktu](https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe) | [Rädda Liv](https://open.spotify.com/album/4QqhNQxXWmPBpYZNn1p5aj) | 3:47 | 2026-06-25 | 2026-11-16 |
 | [Rädda mig](https://open.spotify.com/track/7KVTHj4gD5UTxVuxQ00uyD) | [Björn Holmgren](https://open.spotify.com/artist/4bVT7xfHUEirpqkTXE3Z7F) | [Rädda mig](https://open.spotify.com/album/4DjlkBoRfh4KmiGsUrmOwz) | 3:00 | 2025-02-14 | 2025-03-21 |
 | [Rädda mig \- Akustisk Version](https://open.spotify.com/track/2kyaSOYJpZ6pDS2YVSuxtN) | [Björn Holmgren](https://open.spotify.com/artist/4bVT7xfHUEirpqkTXE3Z7F) | [Rädda mig \(Akustisk Version\)](https://open.spotify.com/album/5iEmiVCOdySnVIodNOe2Xt) | 3:09 | 2025-04-24 | 2025-06-13 |
 | [Röda trådens slut \(akustisk version\)](https://open.spotify.com/track/1i3moAuSbui5eTUiUgRyT2) | [Sven\-Ingvars](https://open.spotify.com/artist/1nYKikHu8WWMKYVTcNyyzs) | [Röda trådens slut \(akustisk version\)](https://open.spotify.com/album/3MF0qqqvjc5Lvk3AxfzTo0) | 4:29 | 2026-01-08 | 2026-04-21 |
@@ -569,6 +569,7 @@
 | [The First Train Home](https://open.spotify.com/track/3dhWVDkvWw3CA4xUfuPMjh) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [The First Train Home](https://open.spotify.com/album/5IJoIoHhgV3xrJDs2SRXHx) | 3:32 | 2024-06-27 | 2024-08-16 |
 | [The Game](https://open.spotify.com/track/4pEcoiN93VmnYF45qYoPrW) | [Takida](https://open.spotify.com/artist/3E33tPtYu9wX1t1cp8ELAW) | [The Game](https://open.spotify.com/album/0wDTzzSQn1xqZvbmpZml0t) | 3:28 | 2025-01-09 | 2025-05-16 |
 | [The Greatest Show On Earth](https://open.spotify.com/track/1nuMwM4FenyuzMbcmx6Lxk) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Greatest Show On Earth](https://open.spotify.com/album/1QUyNWLkJ8tEaYuxBCagCb) | 5:34 | 2026-10-15 |  |
+| [The Kiss](https://open.spotify.com/track/4C9hsJRqrkTn1BO8rAZJv9) | [Niki & The Dove](https://open.spotify.com/artist/4hiLNlqr4vQdiuo1aQKSXS) | [The Kiss](https://open.spotify.com/album/7iRKKi7ffTXgwb94K3qBze) | 4:08 | 2026-11-12 |  |
 | [The Loneliest Girl In The World \- T&A Demo, March 8+9, 2020](https://open.spotify.com/track/06B38tKYdFqU2K6BZkwihV) | [Per Gessle](https://open.spotify.com/artist/5pFJ8lLOUnyEaNrrf7D1KK), [PG Roxette](https://open.spotify.com/artist/3k87PFuum7Sv7zzjw7BMIg) | [The Per Gessle Archives \- The Pop\-Up Dynamo! Demos](https://open.spotify.com/album/3T5foIHucShPqGzqSx8RsA) | 3:40 | 2026-01-15 | 2026-04-03 |
 | [The Man He Sees in Me](https://open.spotify.com/track/0Zm4ZDBtiZCDp69Cxs5TaB) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [The Man He Sees in Me](https://open.spotify.com/album/5oR5JuHZV4Yz7XvvBJHOCt) | 2:45 | 2024-06-27 | 2024-08-23 |
 | [The Player](https://open.spotify.com/track/6il2AODycNJgccBNoTQaLn) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [The Player](https://open.spotify.com/album/5qPKjblUkTscBgV0Hq8XUg) | 2:48 | 2024-08-22 | 2025-04-11 |

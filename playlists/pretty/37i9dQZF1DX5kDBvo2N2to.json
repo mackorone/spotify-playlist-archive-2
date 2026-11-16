@@ -1,6 +1,6 @@
 {
   "description": "l\u00e5tarna som inte g\u00e5r att f\u00e5 nog av. ",
-  "num_followers": 61481,
+  "num_followers": 61476,
   "original_name": "p\u00e5 repeat",
   "owner": {
     "name": "Spotify",
@@ -643,22 +643,6 @@
     {
       "added_at": "2026-11-12 23:01:09",
       "album": {
-        "name": "Fr\u00f6jdo Frido",
-        "url": "https://open.spotify.com/album/1hwTLZPs4MKVGad7frWF2e"
-      },
-      "artists": [
-        {
-          "name": "Lovet",
-          "url": "https://open.spotify.com/artist/2kSCHFK5uErN4BO7IkTrHK"
-        }
-      ],
-      "duration_ms": 156062,
-      "name": "Fr\u00f6jdo Frido",
-      "url": "https://open.spotify.com/track/05v3imcEyaTpAeWXnuurKt"
-    },
-    {
-      "added_at": "2026-11-12 23:01:09",
-      "album": {
         "name": "F\u00f6rr nu & forever",
         "url": "https://open.spotify.com/album/0VgMibLJeMzYTBq4jVXUqC"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 241180,
       "name": "R\u00e4ddare i n\u00f6den",
       "url": "https://open.spotify.com/track/1yHJl9qbcH58PEHLiRlywQ"
+    },
+    {
+      "added_at": "2026-11-12 23:01:09",
+      "album": {
+        "name": "Fr\u00f6jdo Frido",
+        "url": "https://open.spotify.com/album/1hwTLZPs4MKVGad7frWF2e"
+      },
+      "artists": [
+        {
+          "name": "Lovet",
+          "url": "https://open.spotify.com/artist/2kSCHFK5uErN4BO7IkTrHK"
+        }
+      ],
+      "duration_ms": 156062,
+      "name": "Fr\u00f6jdo Frido",
+      "url": "https://open.spotify.com/track/05v3imcEyaTpAeWXnuurKt"
     },
     {
       "added_at": "2026-11-12 23:01:09",
@@ -767,22 +767,6 @@
     {
       "added_at": "2026-11-12 23:01:09",
       "album": {
-        "name": "WHEN A GIRL CRIES",
-        "url": "https://open.spotify.com/album/4Wd9B89j1dUHo2bLYJPWch"
-      },
-      "artists": [
-        {
-          "name": "Olga Myko",
-          "url": "https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm"
-        }
-      ],
-      "duration_ms": 124590,
-      "name": "use me!!!!!!!",
-      "url": "https://open.spotify.com/track/4RvaI6d8mWCfEcGffUN52w"
-    },
-    {
-      "added_at": "2026-11-12 23:01:09",
-      "album": {
         "name": "Hurricane",
         "url": "https://open.spotify.com/album/3hEjufLp0R2YfqS6cWvCdO"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 205980,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/4rXHS9bOSDLYMABNzl9CaK"
+    },
+    {
+      "added_at": "2026-11-12 23:01:09",
+      "album": {
+        "name": "WHEN A GIRL CRIES",
+        "url": "https://open.spotify.com/album/4Wd9B89j1dUHo2bLYJPWch"
+      },
+      "artists": [
+        {
+          "name": "Olga Myko",
+          "url": "https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm"
+        }
+      ],
+      "duration_ms": 124590,
+      "name": "use me!!!!!!!",
+      "url": "https://open.spotify.com/track/4RvaI6d8mWCfEcGffUN52w"
     },
     {
       "added_at": "2026-11-12 23:01:09",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2026-11-12 23:01:09",
       "album": {
-        "name": "Black Widow",
-        "url": "https://open.spotify.com/album/5xbuyaUrvPgpPjOitEKHQU"
-      },
-      "artists": [
-        {
-          "name": "FELICIA",
-          "url": "https://open.spotify.com/artist/5KR7k79pkoPeGdMcv4DLOa"
-        }
-      ],
-      "duration_ms": 160326,
-      "name": "Black Widow",
-      "url": "https://open.spotify.com/track/39AmM0jZSFAo7MBxIYoMN8"
-    },
-    {
-      "added_at": "2026-11-12 23:01:09",
-      "album": {
         "name": "Bakom molnen",
         "url": "https://open.spotify.com/album/45YWIRQbOKBHi8FwMBTT6o"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 182400,
       "name": "Bakom molnen",
       "url": "https://open.spotify.com/track/55m2vizhdnC34lToqqzgcw"
+    },
+    {
+      "added_at": "2026-11-12 23:01:09",
+      "album": {
+        "name": "Black Widow",
+        "url": "https://open.spotify.com/album/5xbuyaUrvPgpPjOitEKHQU"
+      },
+      "artists": [
+        {
+          "name": "FELICIA",
+          "url": "https://open.spotify.com/artist/5KR7k79pkoPeGdMcv4DLOa"
+        }
+      ],
+      "duration_ms": 160326,
+      "name": "Black Widow",
+      "url": "https://open.spotify.com/track/39AmM0jZSFAo7MBxIYoMN8"
     },
     {
       "added_at": "2026-11-12 23:01:09",
@@ -1471,18 +1471,18 @@
     {
       "added_at": "2026-11-12 23:01:09",
       "album": {
-        "name": "Ung Acoustic",
-        "url": "https://open.spotify.com/album/1KcdpBGxvbV9Ke35jUvyIJ"
+        "name": "I\u2019m gonna die",
+        "url": "https://open.spotify.com/album/4L4110iqb48qGRmk5S0gol"
       },
       "artists": [
         {
-          "name": "Bruno",
-          "url": "https://open.spotify.com/artist/1Z5Q3hr2iNj6NHPKPVWtoL"
+          "name": "Dandelion",
+          "url": "https://open.spotify.com/artist/4q4PCOVbaLoCD4C3iBLs3c"
         }
       ],
-      "duration_ms": 137142,
-      "name": "Ung - Acoustic",
-      "url": "https://open.spotify.com/track/2m0qtGSqkwTYg83mhxpuok"
+      "duration_ms": 205685,
+      "name": "I\u2019m gonna die",
+      "url": "https://open.spotify.com/track/1WLL3Kstyvue7WeD71ejnq"
     },
     {
       "added_at": "2026-11-12 23:01:09",
@@ -1503,18 +1503,18 @@
     {
       "added_at": "2026-11-12 23:01:09",
       "album": {
-        "name": "I\u2019m gonna die",
-        "url": "https://open.spotify.com/album/4L4110iqb48qGRmk5S0gol"
+        "name": "Ung Acoustic",
+        "url": "https://open.spotify.com/album/1KcdpBGxvbV9Ke35jUvyIJ"
       },
       "artists": [
         {
-          "name": "Dandelion",
-          "url": "https://open.spotify.com/artist/4q4PCOVbaLoCD4C3iBLs3c"
+          "name": "Bruno",
+          "url": "https://open.spotify.com/artist/1Z5Q3hr2iNj6NHPKPVWtoL"
         }
       ],
-      "duration_ms": 205685,
-      "name": "I\u2019m gonna die",
-      "url": "https://open.spotify.com/track/1WLL3Kstyvue7WeD71ejnq"
+      "duration_ms": 137142,
+      "name": "Ung - Acoustic",
+      "url": "https://open.spotify.com/track/2m0qtGSqkwTYg83mhxpuok"
     }
   ],
   "unique_name": "p\u00e5 repeat",

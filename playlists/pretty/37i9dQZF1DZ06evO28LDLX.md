@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO28LDLX.md) - [plain]
 
 > This is Stephen Hough\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 389 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 390 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

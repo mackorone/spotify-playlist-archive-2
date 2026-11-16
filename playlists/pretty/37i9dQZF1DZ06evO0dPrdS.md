@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0dPrdS.md) - [plain]
 
 > This is Spice Girls\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,883 likes - 43 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,881 likes - 43 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0dPrdS.md) - [plain]
 | 42 | [Spice Girls Club Megamix](https://open.spotify.com/track/7r0b11XqTdRaBebhfzHCod) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF), [Guy Garrett](https://open.spotify.com/artist/0C9uLXnKf8cmfIl1shKYWK) | [Headlines \(Friendship Never Ends\)](https://open.spotify.com/album/2r1Nrcescxx8g29Zm4I6nQ) | 7:06 |
 | 43 | [Spice Chat 2 “Shall We Say ‘Goodbye’ Then?’](https://open.spotify.com/track/3BDGPPDaW1dwVjOoLO5uPl) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice \(25th Anniversary / Deluxe Edition\)](https://open.spotify.com/album/6VIvQiUIOBMxjme8LYiUlU) | 0:48 |
 
-Snapshot ID: `avZTAAAAAABl38BaaIP/3LPDiYfkX6cS`
+Snapshot ID: `avekgAAAAACFW+L9LUw4JBuBnoqPBTyl`

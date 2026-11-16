@@ -1,6 +1,6 @@
 {
   "description": "a experimental mix of rock, punk, alt & indie. Cover: YHWH Nailgun",
-  "num_followers": 295152,
+  "num_followers": 295163,
   "original_name": "Noisy",
   "owner": {
     "name": "Spotify",
@@ -795,22 +795,6 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "Real Deal",
-        "url": "https://open.spotify.com/album/20QRMueqfMw1nHWOfXZGOL"
-      },
-      "artists": [
-        {
-          "name": "Honeyglaze",
-          "url": "https://open.spotify.com/artist/0IJZjR1tj2EudGR8jvxZtM"
-        }
-      ],
-      "duration_ms": 234566,
-      "name": "Pretty Girls",
-      "url": "https://open.spotify.com/track/1qjdgDgapvORPzzB45Qi1F"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
         "name": "Hymns From The Hills",
         "url": "https://open.spotify.com/album/4dZNUFOxYuI95VGMIMZ90Q"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 214186,
       "name": "Lily Of The Valley",
       "url": "https://open.spotify.com/track/569PU1VDhtz4dngaUwvUaC"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
+        "name": "Real Deal",
+        "url": "https://open.spotify.com/album/20QRMueqfMw1nHWOfXZGOL"
+      },
+      "artists": [
+        {
+          "name": "Honeyglaze",
+          "url": "https://open.spotify.com/artist/0IJZjR1tj2EudGR8jvxZtM"
+        }
+      ],
+      "duration_ms": 234566,
+      "name": "Pretty Girls",
+      "url": "https://open.spotify.com/track/1qjdgDgapvORPzzB45Qi1F"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -923,22 +923,6 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "Attempted Martyr",
-        "url": "https://open.spotify.com/album/5rllu0aAZBaCZsllQTzYTm"
-      },
-      "artists": [
-        {
-          "name": "Prostitute",
-          "url": "https://open.spotify.com/artist/7fY4LrglQCCiDGUpz4ts47"
-        }
-      ],
-      "duration_ms": 227537,
-      "name": "Body Meat",
-      "url": "https://open.spotify.com/track/2FRsz2oqynIBu2FBk8M3FJ"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
         "name": "Sunburned in London",
         "url": "https://open.spotify.com/album/0QhhQxOzxnkc78HbKI94Nv"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 231677,
       "name": "Building 650",
       "url": "https://open.spotify.com/track/6JrtUQ97SQqVoMW5bWFd7I"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
+        "name": "Attempted Martyr",
+        "url": "https://open.spotify.com/album/5rllu0aAZBaCZsllQTzYTm"
+      },
+      "artists": [
+        {
+          "name": "Prostitute",
+          "url": "https://open.spotify.com/artist/7fY4LrglQCCiDGUpz4ts47"
+        }
+      ],
+      "duration_ms": 227537,
+      "name": "Body Meat",
+      "url": "https://open.spotify.com/track/2FRsz2oqynIBu2FBk8M3FJ"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "Fundraiser",
-        "url": "https://open.spotify.com/album/41zdUDQTzzWa0lxjCvDxID"
-      },
-      "artists": [
-        {
-          "name": "bar italia",
-          "url": "https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY"
-        }
-      ],
-      "duration_ms": 219305,
-      "name": "Fundraiser",
-      "url": "https://open.spotify.com/track/31n4AvZ46fNJl6QHgVCKL9"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
         "name": "Within Dreams",
         "url": "https://open.spotify.com/album/4IzQFnaEIseFzvMYgdQvWB"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 145173,
       "name": "Volvo (On The Road)",
       "url": "https://open.spotify.com/track/2oKZ6jL08byMcea1Bn4Q84"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
+        "name": "Fundraiser",
+        "url": "https://open.spotify.com/album/41zdUDQTzzWa0lxjCvDxID"
+      },
+      "artists": [
+        {
+          "name": "bar italia",
+          "url": "https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY"
+        }
+      ],
+      "duration_ms": 219305,
+      "name": "Fundraiser",
+      "url": "https://open.spotify.com/track/31n4AvZ46fNJl6QHgVCKL9"
     },
     {
       "added_at": "2026-07-17 17:28:38",

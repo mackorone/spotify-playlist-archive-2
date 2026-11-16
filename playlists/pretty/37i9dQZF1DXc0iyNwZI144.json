@@ -1,6 +1,6 @@
 {
   "description": "A melhor trilha sonora pra se preparar pros dias mais quentes do ano!",
-  "num_followers": 1018389,
+  "num_followers": 1018261,
   "original_name": "Projeto Ver\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -911,30 +911,6 @@
     {
       "added_at": "2026-07-24 17:31:08",
       "album": {
-        "name": "Back & Forth",
-        "url": "https://open.spotify.com/album/2WqGsuxmIREkcArxbp5IK0"
-      },
-      "artists": [
-        {
-          "name": "MK",
-          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
-        },
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        }
-      ],
-      "duration_ms": 196214,
-      "name": "Back & Forth",
-      "url": "https://open.spotify.com/track/4M8x1TR36VMQMFMbGCdoyA"
-    },
-    {
-      "added_at": "2026-07-24 17:31:08",
-      "album": {
         "name": "Save Me (feat. MKLA)",
         "url": "https://open.spotify.com/album/7pOKGKmHi9U8NM0aJ49QBo"
       },
@@ -959,22 +935,26 @@
     {
       "added_at": "2026-07-24 17:31:08",
       "album": {
-        "name": "Right Now",
-        "url": "https://open.spotify.com/album/4UsjjAKbtKzmgEz2pGbv6P"
+        "name": "Back & Forth",
+        "url": "https://open.spotify.com/album/2WqGsuxmIREkcArxbp5IK0"
       },
       "artists": [
         {
-          "name": "Nick Jonas",
-          "url": "https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi"
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
         },
         {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
         }
       ],
-      "duration_ms": 201680,
-      "name": "Right Now",
-      "url": "https://open.spotify.com/track/43wzy7JxMEfvCh8ZFeZKYk"
+      "duration_ms": 196214,
+      "name": "Back & Forth",
+      "url": "https://open.spotify.com/track/4M8x1TR36VMQMFMbGCdoyA"
     },
     {
       "added_at": "2026-07-24 17:31:08",
@@ -1003,6 +983,26 @@
     {
       "added_at": "2026-07-24 17:31:08",
       "album": {
+        "name": "Right Now",
+        "url": "https://open.spotify.com/album/4UsjjAKbtKzmgEz2pGbv6P"
+      },
+      "artists": [
+        {
+          "name": "Nick Jonas",
+          "url": "https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi"
+        },
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "duration_ms": 201680,
+      "name": "Right Now",
+      "url": "https://open.spotify.com/track/43wzy7JxMEfvCh8ZFeZKYk"
+    },
+    {
+      "added_at": "2026-07-24 17:31:08",
+      "album": {
         "name": "Natalie Don\u2019t",
         "url": "https://open.spotify.com/album/2SJm2EyIfbQQyU0ryiSqmP"
       },
@@ -1015,26 +1015,6 @@
       "duration_ms": 194346,
       "name": "Natalie Don't",
       "url": "https://open.spotify.com/track/5CO4uJ11ZVKhsO2Lu9NUSk"
-    },
-    {
-      "added_at": "2026-07-24 17:31:08",
-      "album": {
-        "name": "No Drama (feat. Craig David)",
-        "url": "https://open.spotify.com/album/4V6TDhOqvAQwyLOx3Xun8f"
-      },
-      "artists": [
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        },
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        }
-      ],
-      "duration_ms": 153309,
-      "name": "No Drama (feat. Craig David)",
-      "url": "https://open.spotify.com/track/6IIOcnq93QAaKeRX1cs16v"
     },
     {
       "added_at": "2026-07-24 17:31:08",
@@ -1059,6 +1039,26 @@
       "duration_ms": 211024,
       "name": "Human (Remix)",
       "url": "https://open.spotify.com/track/0bVp6yZEUrJzOm2agoFYZm"
+    },
+    {
+      "added_at": "2026-07-24 17:31:08",
+      "album": {
+        "name": "No Drama (feat. Craig David)",
+        "url": "https://open.spotify.com/album/4V6TDhOqvAQwyLOx3Xun8f"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        },
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "duration_ms": 153309,
+      "name": "No Drama (feat. Craig David)",
+      "url": "https://open.spotify.com/track/6IIOcnq93QAaKeRX1cs16v"
     },
     {
       "added_at": "2026-07-24 17:31:08",

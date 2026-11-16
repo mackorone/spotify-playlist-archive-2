@@ -1,6 +1,6 @@
 {
   "description": "If you're blessed!",
-  "num_followers": 22337,
+  "num_followers": 22338,
   "original_name": "Blessed",
   "owner": {
     "name": "Spotify",
@@ -521,26 +521,6 @@
       "url": "https://open.spotify.com/track/4YfOEXttugon5YXM3TjJGz"
     },
     {
-      "added_at": "2026-01-30 00:01:25",
-      "album": {
-        "name": "God, In all Seasons",
-        "url": "https://open.spotify.com/album/755o89dLMkJLE3OR4T8GOc"
-      },
-      "artists": [
-        {
-          "name": "Yadah",
-          "url": "https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q"
-        },
-        {
-          "name": "Ada Ehi",
-          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
-        }
-      ],
-      "duration_ms": 237913,
-      "name": "Boku",
-      "url": "https://open.spotify.com/track/3EX183tnITp6RMePnXFAfl"
-    },
-    {
       "added_at": "2026-05-08 00:01:38",
       "album": {
         "name": "Count",
@@ -559,6 +539,26 @@
       "duration_ms": 264000,
       "name": "Count",
       "url": "https://open.spotify.com/track/66kiV6JV3eKNO9f1VlLevC"
+    },
+    {
+      "added_at": "2026-01-30 00:01:25",
+      "album": {
+        "name": "God, In all Seasons",
+        "url": "https://open.spotify.com/album/755o89dLMkJLE3OR4T8GOc"
+      },
+      "artists": [
+        {
+          "name": "Yadah",
+          "url": "https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q"
+        },
+        {
+          "name": "Ada Ehi",
+          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
+        }
+      ],
+      "duration_ms": 237913,
+      "name": "Boku",
+      "url": "https://open.spotify.com/track/3EX183tnITp6RMePnXFAfl"
     },
     {
       "added_at": "2026-05-22 00:01:37",
@@ -817,6 +817,26 @@
       "url": "https://open.spotify.com/track/7c8gwEfww1T0J2OHyugiAt"
     },
     {
+      "added_at": "2026-11-06 00:02:01",
+      "album": {
+        "name": "Super Power",
+        "url": "https://open.spotify.com/album/6UHntVvDLLfbBcDDPT87qU"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        },
+        {
+          "name": "Banky W.",
+          "url": "https://open.spotify.com/artist/1c61yiH4iYE7cHtjAYSUu3"
+        }
+      ],
+      "duration_ms": 167045,
+      "name": "Super Power",
+      "url": "https://open.spotify.com/track/1qiAIdLOqqKQ6INFbJnNim"
+    },
+    {
       "added_at": "2026-07-31 00:01:30",
       "album": {
         "name": "This Joy",
@@ -853,24 +873,20 @@
       "url": "https://open.spotify.com/track/5z2Iiuh9BOAyeiKNm4H6Ck"
     },
     {
-      "added_at": "2026-11-06 00:02:01",
+      "added_at": "2026-05-22 00:01:37",
       "album": {
-        "name": "Super Power",
-        "url": "https://open.spotify.com/album/6UHntVvDLLfbBcDDPT87qU"
+        "name": "Want to Grow",
+        "url": "https://open.spotify.com/album/7znFZ68eRO9ACn3uxkUQEo"
       },
       "artists": [
         {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        },
-        {
-          "name": "Banky W.",
-          "url": "https://open.spotify.com/artist/1c61yiH4iYE7cHtjAYSUu3"
+          "name": "Gaise Baba",
+          "url": "https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo"
         }
       ],
-      "duration_ms": 167045,
-      "name": "Super Power",
-      "url": "https://open.spotify.com/track/1qiAIdLOqqKQ6INFbJnNim"
+      "duration_ms": 189557,
+      "name": "Want to Grow",
+      "url": "https://open.spotify.com/track/53y4ULVul9iY3XnUx5720J"
     },
     {
       "added_at": "2026-07-17 00:01:08",
@@ -887,22 +903,6 @@
       "duration_ms": 176565,
       "name": "Nothing Without Him",
       "url": "https://open.spotify.com/track/4dlkdZmcHiNQwyg248UXH0"
-    },
-    {
-      "added_at": "2026-05-22 00:01:37",
-      "album": {
-        "name": "Want to Grow",
-        "url": "https://open.spotify.com/album/7znFZ68eRO9ACn3uxkUQEo"
-      },
-      "artists": [
-        {
-          "name": "Gaise Baba",
-          "url": "https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo"
-        }
-      ],
-      "duration_ms": 189557,
-      "name": "Want to Grow",
-      "url": "https://open.spotify.com/track/53y4ULVul9iY3XnUx5720J"
     },
     {
       "added_at": "2026-08-21 00:01:32",
@@ -957,22 +957,6 @@
       "url": "https://open.spotify.com/track/2XqCY3rGj9lQtfghvaucTT"
     },
     {
-      "added_at": "2026-10-30 00:01:06",
-      "album": {
-        "name": "Dear Lord",
-        "url": "https://open.spotify.com/album/4szZZ2krox5Qs3XC0lca1r"
-      },
-      "artists": [
-        {
-          "name": "Adeyinka Alaseyori",
-          "url": "https://open.spotify.com/artist/47kN9Eik5yW2KPQciui9ob"
-        }
-      ],
-      "duration_ms": 532062,
-      "name": "Dear Lord",
-      "url": "https://open.spotify.com/track/1GypIZsEmGFqTbmUzkoEf4"
-    },
-    {
       "added_at": "2025-02-28 00:01:33",
       "album": {
         "name": "Covenant Keeping God",
@@ -993,6 +977,22 @@
       "url": "https://open.spotify.com/track/1hhgSr6jl97R9znizeUrM0"
     },
     {
+      "added_at": "2026-10-30 00:01:06",
+      "album": {
+        "name": "Dear Lord",
+        "url": "https://open.spotify.com/album/4szZZ2krox5Qs3XC0lca1r"
+      },
+      "artists": [
+        {
+          "name": "Adeyinka Alaseyori",
+          "url": "https://open.spotify.com/artist/47kN9Eik5yW2KPQciui9ob"
+        }
+      ],
+      "duration_ms": 532062,
+      "name": "Dear Lord",
+      "url": "https://open.spotify.com/track/1GypIZsEmGFqTbmUzkoEf4"
+    },
+    {
       "added_at": "2026-08-14 00:01:28",
       "album": {
         "name": "God Is Cooking",
@@ -1007,6 +1007,26 @@
       "duration_ms": 227000,
       "name": "Oruko",
       "url": "https://open.spotify.com/track/3pKSt41GhJwhCn5JFIeEcf"
+    },
+    {
+      "added_at": "2026-10-30 00:01:06",
+      "album": {
+        "name": "God's Got Me",
+        "url": "https://open.spotify.com/album/6f4RmakpmsK4Lsi5UeVSQa"
+      },
+      "artists": [
+        {
+          "name": "KobbySalm",
+          "url": "https://open.spotify.com/artist/0O4MEIc9HB5MiTfQX5eKNB"
+        },
+        {
+          "name": "Okey Sokay",
+          "url": "https://open.spotify.com/artist/5rH5wkuOiVee4XUNFwIQw1"
+        }
+      ],
+      "duration_ms": 186428,
+      "name": "God's Got Me",
+      "url": "https://open.spotify.com/track/2vUyR4TFdNJ70Ghhkzw5jY"
     },
     {
       "added_at": "2026-05-01 00:02:08",
@@ -1031,26 +1051,6 @@
       "duration_ms": 221874,
       "name": "Will Be Done",
       "url": "https://open.spotify.com/track/0xgqTe1zh9FZa1x8zpvs9H"
-    },
-    {
-      "added_at": "2026-10-30 00:01:06",
-      "album": {
-        "name": "God's Got Me",
-        "url": "https://open.spotify.com/album/6f4RmakpmsK4Lsi5UeVSQa"
-      },
-      "artists": [
-        {
-          "name": "KobbySalm",
-          "url": "https://open.spotify.com/artist/0O4MEIc9HB5MiTfQX5eKNB"
-        },
-        {
-          "name": "Okey Sokay",
-          "url": "https://open.spotify.com/artist/5rH5wkuOiVee4XUNFwIQw1"
-        }
-      ],
-      "duration_ms": 186428,
-      "name": "God's Got Me",
-      "url": "https://open.spotify.com/track/2vUyR4TFdNJ70Ghhkzw5jY"
     },
     {
       "added_at": "2026-03-27 00:01:13",
@@ -1193,6 +1193,22 @@
       "url": "https://open.spotify.com/track/1VmZVKjhyh8d1jAEMMcW33"
     },
     {
+      "added_at": "2026-11-06 00:02:01",
+      "album": {
+        "name": "Time And Time Again",
+        "url": "https://open.spotify.com/album/4l3OdPVRxcfv568WewGbMK"
+      },
+      "artists": [
+        {
+          "name": "Sal Ly",
+          "url": "https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "Time And Time Again",
+      "url": "https://open.spotify.com/track/27aUMzL7IyqoYNxdAWJpVE"
+    },
+    {
       "added_at": "2026-07-10 00:01:15",
       "album": {
         "name": "K'OSENI",
@@ -1231,22 +1247,6 @@
       "duration_ms": 172714,
       "name": "Oh My Soul",
       "url": "https://open.spotify.com/track/5v8dMFDfK1i9ssKKfWJNCD"
-    },
-    {
-      "added_at": "2026-11-06 00:02:01",
-      "album": {
-        "name": "Time And Time Again",
-        "url": "https://open.spotify.com/album/4l3OdPVRxcfv568WewGbMK"
-      },
-      "artists": [
-        {
-          "name": "Sal Ly",
-          "url": "https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "Time And Time Again",
-      "url": "https://open.spotify.com/track/27aUMzL7IyqoYNxdAWJpVE"
     },
     {
       "added_at": "2026-07-17 00:01:08",
@@ -1401,6 +1401,26 @@
       "url": "https://open.spotify.com/track/5lDKruQKhkjGja9ih7APbM"
     },
     {
+      "added_at": "2026-11-06 00:02:01",
+      "album": {
+        "name": "Still",
+        "url": "https://open.spotify.com/album/4b3zDcT5IgrA6MTPRo4qvy"
+      },
+      "artists": [
+        {
+          "name": "Jvson",
+          "url": "https://open.spotify.com/artist/0CbUlmC1cMua8bl6aQvP6F"
+        },
+        {
+          "name": "LAMB CULTURE.",
+          "url": "https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "You are the reason",
+      "url": "https://open.spotify.com/track/4oRAFhEZxc9j3uXjTxkgJC"
+    },
+    {
       "added_at": "2026-06-26 00:01:41",
       "album": {
         "name": "DO",
@@ -1457,40 +1477,20 @@
       "url": "https://open.spotify.com/track/10scp515H3OQXr4aT3CoID"
     },
     {
-      "added_at": "2026-09-18 00:01:36",
+      "added_at": "2026-03-27 00:01:13",
       "album": {
-        "name": "Only You",
-        "url": "https://open.spotify.com/album/0sivoWhfoOZLiXQwqZKPLR"
+        "name": "All My Life",
+        "url": "https://open.spotify.com/album/1HMUdkIPCBsOBJy7518Hh6"
       },
       "artists": [
         {
-          "name": "Awinnah",
-          "url": "https://open.spotify.com/artist/3VYRqGXzaXMKRSCpx5FIWX"
+          "name": "Oge Stan",
+          "url": "https://open.spotify.com/artist/3aL8XwNOqOVv8NwpVLFo1c"
         }
       ],
-      "duration_ms": 164696,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/7AAVNwpxVjSysgKs0St8bX"
-    },
-    {
-      "added_at": "2026-10-30 00:01:06",
-      "album": {
-        "name": "Those Who Belong (Spontaneous Worship)",
-        "url": "https://open.spotify.com/album/7kuEekKDBcoPYKoBI1ChtW"
-      },
-      "artists": [
-        {
-          "name": "Tomi Favored",
-          "url": "https://open.spotify.com/artist/3ioczYyxauJe6sFCd300bZ"
-        },
-        {
-          "name": "Godswill Oyor",
-          "url": "https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS"
-        }
-      ],
-      "duration_ms": 1023500,
-      "name": "Those Who Belong (Spontaneous Worship)",
-      "url": "https://open.spotify.com/track/4tK6DZ79o9u2jz6UcsmymR"
+      "duration_ms": 271699,
+      "name": "All My Life",
+      "url": "https://open.spotify.com/track/3l6ek8A46LHzqPDSbWfBXw"
     },
     {
       "added_at": "2026-06-26 00:01:41",
@@ -1513,6 +1513,22 @@
       "url": "https://open.spotify.com/track/2A8SuOIgP42ZeJbw3lyUj1"
     },
     {
+      "added_at": "2026-09-18 00:01:36",
+      "album": {
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/0sivoWhfoOZLiXQwqZKPLR"
+      },
+      "artists": [
+        {
+          "name": "Awinnah",
+          "url": "https://open.spotify.com/artist/3VYRqGXzaXMKRSCpx5FIWX"
+        }
+      ],
+      "duration_ms": 164696,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/7AAVNwpxVjSysgKs0St8bX"
+    },
+    {
       "added_at": "2026-02-20 00:01:25",
       "album": {
         "name": "You Are There",
@@ -1531,26 +1547,6 @@
       "duration_ms": 381970,
       "name": "You Are There",
       "url": "https://open.spotify.com/track/3EAHBjhFMwuIdAS5FodQTF"
-    },
-    {
-      "added_at": "2026-11-06 00:02:01",
-      "album": {
-        "name": "Still",
-        "url": "https://open.spotify.com/album/4b3zDcT5IgrA6MTPRo4qvy"
-      },
-      "artists": [
-        {
-          "name": "Jvson",
-          "url": "https://open.spotify.com/artist/0CbUlmC1cMua8bl6aQvP6F"
-        },
-        {
-          "name": "LAMB CULTURE.",
-          "url": "https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "You are the reason",
-      "url": "https://open.spotify.com/track/4oRAFhEZxc9j3uXjTxkgJC"
     }
   ],
   "unique_name": "Blessed",

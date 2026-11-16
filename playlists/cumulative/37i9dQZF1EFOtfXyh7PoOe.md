@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4VL4QRgUHPpilJ4CRhCW1I">Pablo Bowman Navarro</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-168 songs - 8 hr 17 min
+169 songs - 8 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,7 +125,8 @@
 | [nah](https://open.spotify.com/track/0DEz9z1H0UChVJrjB9Wsjf) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [after the sun goes down](https://open.spotify.com/album/4PPuC1eL0wWfqBijzhbOWg) | 2:43 | 2026-01-21 |  |
 | [New Girl](https://open.spotify.com/track/6IlunOwHwe9IF7taJZo1FK) | [Reggie ‘N’ Bollie](https://open.spotify.com/artist/3qCIifFHqOTzTAC1Sww8ms) | [Uncommon Favours](https://open.spotify.com/album/4fMDLidbvqm2HbSYGaxgva) | 3:36 | 2024-06-13 |  |
 | [New Me](https://open.spotify.com/track/64zUfXPRniUl7qKaUtpqeS) | [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA) | [New Me](https://open.spotify.com/album/16FfsigPMI9Zb4GqF0XlBS) | 3:15 | 2024-06-13 |  |
-| [Nights With You](https://open.spotify.com/track/31xqlEutnJGeu9vwkE3P6v) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Nicky Romero JAPAN COLLECTION 2021](https://open.spotify.com/album/3oxyWlxzEzX7kGgOQnqtQi) | 2:29 | 2024-06-13 |  |
+| [Nights With You](https://open.spotify.com/track/1Gx6oQEiS4h5e7ltUDN1jc) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Nights With You](https://open.spotify.com/album/1z2gtZ1VigtVV6UVNqQAuq) | 2:29 | 2026-11-15 |  |
+| [Nights With You](https://open.spotify.com/track/31xqlEutnJGeu9vwkE3P6v) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Nicky Romero JAPAN COLLECTION 2021](https://open.spotify.com/album/3oxyWlxzEzX7kGgOQnqtQi) | 2:29 | 2024-06-13 | 2026-11-16 |
 | [No Joke](https://open.spotify.com/track/2HvW7GzIbiRQGAGytSBQz6) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [No Joke](https://open.spotify.com/album/6N9L2cPBhx54BGLIQBZzvj) | 2:42 | 2025-01-09 | 2025-04-12 |
 | [Nobody \- Radio Edit](https://open.spotify.com/track/4HD4FRMS1WVcUicTXPLjMp) | [Jerome Price](https://open.spotify.com/artist/4EREP1nDxGjXE6V4sOuUy8), [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [Nobody](https://open.spotify.com/album/0K0Xjl0oZeqTrvSZtg89w5) | 3:25 | 2024-06-13 |  |
 | [Not A Lot Left To Say](https://open.spotify.com/track/5eNSMklKlKJGwyc8ucG2fv) | [needanamebro](https://open.spotify.com/artist/4hjO4rBY3DJqEhvLvCeIRp), [Say Now](https://open.spotify.com/artist/1p6HheoJqfYMiMC62yQIWn) | [Not A Lot Left To Say](https://open.spotify.com/album/33gAqq0P3nggfOQoSK9YQJ) | 2:05 | 2024-06-13 |  |

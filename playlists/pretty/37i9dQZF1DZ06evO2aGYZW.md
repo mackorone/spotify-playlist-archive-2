@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2aGYZW.md) - [plain]
 
 > This is Macklemore\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,424 likes - 48 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,426 likes - 48 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2aGYZW.md) - [plain]
 | 20 | [I Don't Belong In This Club](https://open.spotify.com/track/4Yo1ZTT9D7gUqyzgpVKkhQ) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2), [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY) | [I Don't Belong In This Club](https://open.spotify.com/album/3pEIf94XjPRgUDyIKOmIBE) | 3:42 |
 | 21 | [Growing Up \(feat\. Ed Sheeran\)](https://open.spotify.com/track/44T13PWJ87jb3lFElhVIHx) | [Macklemore & Ryan Lewis](https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC), [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [Ryan Lewis](https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [This Unruly Mess I've Made](https://open.spotify.com/album/2kqn09pydzvKvB3xWbAxY4) | 5:05 |
 | 22 | [MANIAC \(feat\. Windser\)](https://open.spotify.com/track/06ncaphlb6ccM7tdUgGhW4) | [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [Windser](https://open.spotify.com/artist/0G9ibJ5qs4Zl6iupdrVAG1) | [BEN](https://open.spotify.com/album/6K5RX7xasf8WdeQjapsThS) | 3:00 |
-| 23 | [fucked up](https://open.spotify.com/track/7iZwny5Hp9zUObbcDsGHzT) | [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY) | [fucked up](https://open.spotify.com/album/7121xvYFDW2K9p6IhiUqxs) | 3:39 |
-| 24 | [Ain't Gonna Die Tonight \(feat\. Eric Nally\)](https://open.spotify.com/track/1FgmP7AOTcn7MGYmImj0kn) | [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [Eric Nally](https://open.spotify.com/artist/3NoeRIxHApi6qe4yan2Vnn) | [GEMINI](https://open.spotify.com/album/72qA6s4fjF8Y2VX1UDMfp2) | 3:34 |
+| 23 | [Ain't Gonna Die Tonight \(feat\. Eric Nally\)](https://open.spotify.com/track/1FgmP7AOTcn7MGYmImj0kn) | [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [Eric Nally](https://open.spotify.com/artist/3NoeRIxHApi6qe4yan2Vnn) | [GEMINI](https://open.spotify.com/album/72qA6s4fjF8Y2VX1UDMfp2) | 3:34 |
+| 24 | [fucked up](https://open.spotify.com/track/7iZwny5Hp9zUObbcDsGHzT) | [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY) | [fucked up](https://open.spotify.com/album/7121xvYFDW2K9p6IhiUqxs) | 3:39 |
 | 25 | [Dance Off \(feat\. Idris Elba & Anderson .Paak\)](https://open.spotify.com/track/7pDxNYVQLKzrbkCe8OCag3) | [Macklemore & Ryan Lewis](https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC), [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [Ryan Lewis](https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp), [IDRIS](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [This Unruly Mess I've Made](https://open.spotify.com/album/2kqn09pydzvKvB3xWbAxY4) | 3:49 |
 | 26 | [1984](https://open.spotify.com/track/3qlcuL2Bse822wDSXmg1YE) | [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY) | [BEN](https://open.spotify.com/album/6K5RX7xasf8WdeQjapsThS) | 3:24 |
 | 27 | [Shadow \(feat\. IRO\) \- From Songland](https://open.spotify.com/track/09Hjv8GEDhzPxqiJCw8dSB) | [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [iRO](https://open.spotify.com/artist/3TNpNnN7Y8QhtJJnQ08YeF) | [Shadow \(feat\. IRO\) \[From Songland\]](https://open.spotify.com/album/2TZgCoAnwX3YJmOfyC2SF3) | 2:57 |

@@ -1,6 +1,6 @@
 {
   "description": "Real nasty house \ud83d\udd25\ud83d\udd25 featuring Matroda + San Pacho",
-  "num_followers": 1310461,
+  "num_followers": 1310443,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
@@ -1337,30 +1337,6 @@
       "url": "https://open.spotify.com/track/3FLfgXWxlpvBJY46PbKIud"
     },
     {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "4U",
-        "url": "https://open.spotify.com/album/5p6wULtzOrjrTlMUtrDnVr"
-      },
-      "artists": [
-        {
-          "name": "Matroda",
-          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
-        },
-        {
-          "name": "Martin Ikin",
-          "url": "https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1"
-        },
-        {
-          "name": "Sian-Lee",
-          "url": "https://open.spotify.com/artist/0JiqigemaoIuLScw1UNRr0"
-        }
-      ],
-      "duration_ms": 180703,
-      "name": "4U",
-      "url": "https://open.spotify.com/track/00GvqqIkMdHaxChyhZf9Nx"
-    },
-    {
       "added_at": "2026-10-30 04:00:32",
       "album": {
         "name": "Off Your Mind (feat. Last Lights)",
@@ -1383,6 +1359,30 @@
       "duration_ms": 155076,
       "name": "Off Your Mind (feat. Last Lights)",
       "url": "https://open.spotify.com/track/35TcttWngjTFpUCO2VuTWX"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "4U",
+        "url": "https://open.spotify.com/album/5p6wULtzOrjrTlMUtrDnVr"
+      },
+      "artists": [
+        {
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+        },
+        {
+          "name": "Martin Ikin",
+          "url": "https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1"
+        },
+        {
+          "name": "Sian-Lee",
+          "url": "https://open.spotify.com/artist/0JiqigemaoIuLScw1UNRr0"
+        }
+      ],
+      "duration_ms": 180703,
+      "name": "4U",
+      "url": "https://open.spotify.com/track/00GvqqIkMdHaxChyhZf9Nx"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1445,22 +1445,6 @@
       "url": "https://open.spotify.com/track/3jdBt6du0bbnOdvonxJgDr"
     },
     {
-      "added_at": "2026-09-18 04:02:27",
-      "album": {
-        "name": "Pop This",
-        "url": "https://open.spotify.com/album/6jN04aIOe465ymEnpIz4WG"
-      },
-      "artists": [
-        {
-          "name": "\u00d6wnboss",
-          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
-        }
-      ],
-      "duration_ms": 179076,
-      "name": "Pop This",
-      "url": "https://open.spotify.com/track/0S9kUWMb4SoO1lnjvcRD7d"
-    },
-    {
       "added_at": "2026-01-09 16:39:37",
       "album": {
         "name": "Rock My World",
@@ -1479,6 +1463,22 @@
       "duration_ms": 198750,
       "name": "Rock My World",
       "url": "https://open.spotify.com/track/6JinlTBOcePrN15YuHLWMS"
+    },
+    {
+      "added_at": "2026-09-18 04:02:27",
+      "album": {
+        "name": "Pop This",
+        "url": "https://open.spotify.com/album/6jN04aIOe465ymEnpIz4WG"
+      },
+      "artists": [
+        {
+          "name": "\u00d6wnboss",
+          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+        }
+      ],
+      "duration_ms": 179076,
+      "name": "Pop This",
+      "url": "https://open.spotify.com/track/0S9kUWMb4SoO1lnjvcRD7d"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1505,26 +1505,6 @@
       "url": "https://open.spotify.com/track/0bqk4OO4XN7nqW44PTMbdB"
     },
     {
-      "added_at": "2026-10-09 04:02:30",
-      "album": {
-        "name": "No Rush",
-        "url": "https://open.spotify.com/album/5KoOTiWTuiUDZ4GNlB3uXU"
-      },
-      "artists": [
-        {
-          "name": "Deeper Purpose",
-          "url": "https://open.spotify.com/artist/10Bo1ofGMWr6hFD7OM7W7r"
-        },
-        {
-          "name": "Ribguga",
-          "url": "https://open.spotify.com/artist/6r8StRO47B2qfuqtzddihP"
-        }
-      ],
-      "duration_ms": 158769,
-      "name": "No Rush",
-      "url": "https://open.spotify.com/track/42LRClvKFeJdysDNpa0x9Q"
-    },
-    {
       "added_at": "2026-01-09 16:39:37",
       "album": {
         "name": "Fuck It Up",
@@ -1547,6 +1527,26 @@
       "duration_ms": 132974,
       "name": "Fuck It Up",
       "url": "https://open.spotify.com/track/0PBQS0GycsYJ4yJJRjAIXU"
+    },
+    {
+      "added_at": "2026-10-09 04:02:30",
+      "album": {
+        "name": "No Rush",
+        "url": "https://open.spotify.com/album/5KoOTiWTuiUDZ4GNlB3uXU"
+      },
+      "artists": [
+        {
+          "name": "Deeper Purpose",
+          "url": "https://open.spotify.com/artist/10Bo1ofGMWr6hFD7OM7W7r"
+        },
+        {
+          "name": "Ribguga",
+          "url": "https://open.spotify.com/artist/6r8StRO47B2qfuqtzddihP"
+        }
+      ],
+      "duration_ms": 158769,
+      "name": "No Rush",
+      "url": "https://open.spotify.com/track/42LRClvKFeJdysDNpa0x9Q"
     },
     {
       "added_at": "2026-09-11 04:01:44",
@@ -2033,6 +2033,22 @@
       "url": "https://open.spotify.com/track/70uaBDprZurGxVSwaLmvvZ"
     },
     {
+      "added_at": "2026-07-17 04:01:08",
+      "album": {
+        "name": "No Bite",
+        "url": "https://open.spotify.com/album/5erPjmJ7ZdhvpuFtta4me2"
+      },
+      "artists": [
+        {
+          "name": "Marten H\u00f8rger",
+          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
+        }
+      ],
+      "duration_ms": 181417,
+      "name": "No Bite",
+      "url": "https://open.spotify.com/track/7EJHzVwc2j2wr7vD8QOHAx"
+    },
+    {
       "added_at": "2026-08-21 04:01:29",
       "album": {
         "name": "Rhythm Has Control",
@@ -2051,22 +2067,6 @@
       "duration_ms": 179076,
       "name": "Rhythm Has Control",
       "url": "https://open.spotify.com/track/0RwWAkqInG2e4zDO1lJc99"
-    },
-    {
-      "added_at": "2026-07-17 04:01:08",
-      "album": {
-        "name": "No Bite",
-        "url": "https://open.spotify.com/album/5erPjmJ7ZdhvpuFtta4me2"
-      },
-      "artists": [
-        {
-          "name": "Marten H\u00f8rger",
-          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
-        }
-      ],
-      "duration_ms": 181417,
-      "name": "No Bite",
-      "url": "https://open.spotify.com/track/7EJHzVwc2j2wr7vD8QOHAx"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -2123,30 +2123,6 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "N9",
-        "url": "https://open.spotify.com/album/2bsLNsuW1Au5kRLivucJ3c"
-      },
-      "artists": [
-        {
-          "name": "Tchami",
-          "url": "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
-        },
-        {
-          "name": "Malaa",
-          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
-        },
-        {
-          "name": "MAKJ",
-          "url": "https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "N9",
-      "url": "https://open.spotify.com/track/1PEngfnmX0SOrE1Y4CWLvE"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
         "name": "Gimme That Money",
         "url": "https://open.spotify.com/album/4SGGU2KzI9HnljEl6EjKIJ"
       },
@@ -2175,6 +2151,30 @@
       "duration_ms": 129461,
       "name": "Circus",
       "url": "https://open.spotify.com/track/0vswyChRwvb8oSsevapdZd"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "N9",
+        "url": "https://open.spotify.com/album/2bsLNsuW1Au5kRLivucJ3c"
+      },
+      "artists": [
+        {
+          "name": "Tchami",
+          "url": "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
+        },
+        {
+          "name": "Malaa",
+          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
+        },
+        {
+          "name": "MAKJ",
+          "url": "https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "N9",
+      "url": "https://open.spotify.com/track/1PEngfnmX0SOrE1Y4CWLvE"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -2257,6 +2257,22 @@
       "url": "https://open.spotify.com/track/1fq81fwfle9L3Z0dRERDvP"
     },
     {
+      "added_at": "2026-07-17 04:01:08",
+      "album": {
+        "name": "Salt on my lips",
+        "url": "https://open.spotify.com/album/0FasIYtmgj7NY5QqScruCH"
+      },
+      "artists": [
+        {
+          "name": "Chapter & Verse",
+          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
+        }
+      ],
+      "duration_ms": 219534,
+      "name": "Salt on my lips",
+      "url": "https://open.spotify.com/track/29qf4tjIsZbpjXCfLa6UWf"
+    },
+    {
       "added_at": "2026-01-09 16:39:37",
       "album": {
         "name": "Renegade Master (Don Diablo Edit)",
@@ -2313,22 +2329,6 @@
       "url": "https://open.spotify.com/track/59oNw10kWdQbWaYl2mYUVM"
     },
     {
-      "added_at": "2026-07-17 04:01:08",
-      "album": {
-        "name": "Salt on my lips",
-        "url": "https://open.spotify.com/album/0FasIYtmgj7NY5QqScruCH"
-      },
-      "artists": [
-        {
-          "name": "Chapter & Verse",
-          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
-        }
-      ],
-      "duration_ms": 219534,
-      "name": "Salt on my lips",
-      "url": "https://open.spotify.com/track/29qf4tjIsZbpjXCfLa6UWf"
-    },
-    {
       "added_at": "2026-10-02 04:01:32",
       "album": {
         "name": "Never Crash",
@@ -2383,6 +2383,22 @@
     {
       "added_at": "2026-09-18 04:02:27",
       "album": {
+        "name": "GOMF",
+        "url": "https://open.spotify.com/album/1vPI0QveO11AUXVAVCpG3N"
+      },
+      "artists": [
+        {
+          "name": "SKILAH",
+          "url": "https://open.spotify.com/artist/0ILzznvRwQsrGX7BsaDer0"
+        }
+      ],
+      "duration_ms": 156003,
+      "name": "GOMF",
+      "url": "https://open.spotify.com/track/6bR9DxoANM5XIAGmpNIvDe"
+    },
+    {
+      "added_at": "2026-09-18 04:02:27",
+      "album": {
         "name": "True",
         "url": "https://open.spotify.com/album/5dJjgvKImYTfRxdqDxpSvc"
       },
@@ -2399,22 +2415,6 @@
       "duration_ms": 199042,
       "name": "True",
       "url": "https://open.spotify.com/track/19sIfq40ZPzJJtVFFaSiUX"
-    },
-    {
-      "added_at": "2026-09-25 04:02:01",
-      "album": {
-        "name": "Keep The Heat",
-        "url": "https://open.spotify.com/album/1VDcjSEKxdZcAWNwoplzBU"
-      },
-      "artists": [
-        {
-          "name": "Curbi",
-          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
-        }
-      ],
-      "duration_ms": 200769,
-      "name": "Caliente",
-      "url": "https://open.spotify.com/track/5fFyFyZY2azjTMIS9NozEU"
     }
   ],
   "unique_name": "Nasty Bits",

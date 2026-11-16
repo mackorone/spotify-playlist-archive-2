@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7Co1jvHSQ9FFXOEY0TdPHQ">Hillary Lindsey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-458 songs - 1 day 3 hr 2 min
+460 songs - 1 day 3 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Drink Up](https://open.spotify.com/track/7lBhBYIo8ZZar90G2y4UAK) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Every Girl](https://open.spotify.com/album/0rmckhgttnp4e5WaaBCVQw) | 2:50 | 2025-09-14 | 2025-09-30 |
 | [Drive On Back](https://open.spotify.com/track/61231CJVuizcjjkpsPPPKK) | [Coffey Anderson](https://open.spotify.com/artist/29YJnMJ7MoLKPM04siMnP5) | [Come On With It](https://open.spotify.com/album/5xPnmT5CGuQp1E0vxPXveO) | 3:11 | 2024-02-27 |  |
 | [Driving Back There In My Mind \(Demo\)](https://open.spotify.com/track/09fRiBGIEVAeX7eNBipm2G) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl), [Liz Rose](https://open.spotify.com/artist/7pcKyVIatvXoHdZRr4Q3vT), [Hillary Lindsey](https://open.spotify.com/artist/5mX9Z6qHTTHHFCreShrFIA) | [Driving Back There In My Mind \(Demo\)](https://open.spotify.com/album/2dfDT5XbCDlNABvafIfLmz) | 3:41 | 2024-02-27 |  |
+| [Drop Anchor Here](https://open.spotify.com/track/5za25Jtm5rdrKKHKoAMJEa) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Drop Anchor Here](https://open.spotify.com/album/1dbEt8HquK1ogAVXcPV3ve) | 3:23 | 2026-11-15 |  |
 | [Drunk and Hungover](https://open.spotify.com/track/6mFw6OhoyHsEdRFCCNY8LP) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Denim & Rhinestones \(Deluxe Edition\)](https://open.spotify.com/album/7KYgF3DFsc2eCamlB4JMzy) | 3:04 | 2024-02-27 |  |
 | [Easy To Miss](https://open.spotify.com/track/0wmHqFVoBT0vjDSilB6R2M) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Nobody's Born With A Broken Heart](https://open.spotify.com/album/34AFxONmJ08r2blbMQCNXj) | 2:49 | 2024-05-31 |  |
 | [Easy To Miss](https://open.spotify.com/track/22CreGLxXnyqg2ktUVZShT) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Nobody’s Born With A Broken Heart \(the first few\)](https://open.spotify.com/album/10ttWGowlB9os9gWQzSwkT) | 2:49 | 2024-02-27 | 2024-06-01 |
@@ -247,6 +248,7 @@
 | [Mansion](https://open.spotify.com/track/4anMp1snWhpCRzxWObDzRZ) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Ocean](https://open.spotify.com/album/2Ni5tXmyXPTG4jeQxvSqjv) | 3:12 | 2024-02-27 |  |
 | [Map Dot Missing You](https://open.spotify.com/track/6Zn2UwxIE8A7Ppnvz6iosp) | [Triston Marez](https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88) | [Map Dot Missing You](https://open.spotify.com/album/2Bd8KaslC78hDhi2X9OikT) | 3:29 | 2024-02-27 |  |
 | [Medicine \(feat\. Blake Shelton\)](https://open.spotify.com/track/7vvqns9A9v9CuC8MlUDPnC) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Shakira\. \(Expanded Edition\) \[Spanish Version\]](https://open.spotify.com/album/5meb7aKE722LA66ssBhvfM) | 3:18 | 2024-02-27 |  |
+| [Memories Like You](https://open.spotify.com/track/5EAJAn0EqmZXfbfMhTefHf) | [Jaren Johnston](https://open.spotify.com/artist/5beYbzBVaQfcY8XL2DCcTs) | [The Guest Room](https://open.spotify.com/album/374DcR4mOsUutxymdtqySx) | 2:26 | 2026-11-15 |  |
 | [Mess With Missing You \(with Carly Pearce\)](https://open.spotify.com/track/2eL9xMNYl1R36f7eZavDpg) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI), [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Learn The Hard Way](https://open.spotify.com/album/134A79bb9B0FH4ZYxyQ3Sp) | 3:38 | 2025-11-13 |  |
 | [Million Reasons](https://open.spotify.com/track/7dZ1Odmx9jWIweQSatnRqo) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Joanne \(Deluxe\)](https://open.spotify.com/album/2ZUwFxlWo0gwTsvZ6L4Meh) | 3:25 | 2024-02-27 |  |
 | [Million Reasons \- Andrelli Remix](https://open.spotify.com/track/0zf56ykB0pVddnwcQkWSlK) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Andrelli](https://open.spotify.com/artist/5M2y5A6d5QZjw9JeKClagC) | [Million Reasons \(Andrelli Remix\)](https://open.spotify.com/album/5hm4Q0TO8mEbJCBLYMzhse) | 4:04 | 2025-01-09 | 2025-04-12 |

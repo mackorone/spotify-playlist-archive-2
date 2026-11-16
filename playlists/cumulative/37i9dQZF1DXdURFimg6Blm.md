@@ -4,7 +4,7 @@
 
 > Boost your energy with these dance tracks.
 
-821 songs - 1 day 16 hr 57 min
+822 songs - 1 day 16 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -446,7 +446,7 @@
 | [Living Without You](https://open.spotify.com/track/1KkV5NgLa2XtD00IfaCPyG) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [Living Without You](https://open.spotify.com/album/6i5EQgCokHB7wgiP68UYmA) | 3:04 | 2022-09-02 | 2023-05-06 |
 | [Location](https://open.spotify.com/track/6Ilomcr9iLplsgAvZjHkJP) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Location](https://open.spotify.com/album/12EcQ6xHwYTygFo24xncu1) | 2:28 | 2025-01-29 | 2026-04-18 |
 | [Loco Loco](https://open.spotify.com/track/1mZnxNzp17JrPyzDzkoiiC) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ) | [Loco Loco](https://open.spotify.com/album/5TENfmB9MmYxC6nmKvJ0XJ) | 2:16 | 2026-02-20 |  |
-| [Lola](https://open.spotify.com/track/3ctfB7Ia2EONVLQOpMCkRt) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [Lola](https://open.spotify.com/album/6l1M4X2wod3t8TRskGOtYH) | 3:08 | 2026-07-17 |  |
+| [Lola](https://open.spotify.com/track/3ctfB7Ia2EONVLQOpMCkRt) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [Lola](https://open.spotify.com/album/6l1M4X2wod3t8TRskGOtYH) | 3:08 | 2026-07-17 | 2026-11-16 |
 | [Lollipop](https://open.spotify.com/track/0iG3esqSDh6QJdN1zrAgyo) | [FOVOS](https://open.spotify.com/artist/1ccmwHm4DPRPR12TZVWdu8) | [Lollipop](https://open.spotify.com/album/482d91SbKIqijUyqTGQYZl) | 2:24 | 2023-09-29 | 2024-07-22 |
 | [Lonely Heart](https://open.spotify.com/track/3yWFV3cSt4w2R6btVPcc6T) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [John Alto](https://open.spotify.com/artist/0Xff4zAFYF0bHwnkSMlHCj) | [Lonely Heart](https://open.spotify.com/album/1r5dyhOBbZbiu8zs3AhVsH) | 2:43 | 2024-11-15 | 2024-12-10 |
 | [Lonely Heart](https://open.spotify.com/track/4iGjLLvo4Pax82YX3jE3Q1) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Martin Solveig](https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl), [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ), [Europa](https://open.spotify.com/artist/2NlKrNMdpYxGjt3Pvw87rC) | [Lonely Heart](https://open.spotify.com/album/4vyvkwkkwuCdLhQjWJG01q) | 2:47 | 2022-06-03 | 2023-01-22 |
@@ -532,6 +532,7 @@
 | [No Man's Land](https://open.spotify.com/track/1pzcBd8A2f2pnVCGWro0fo) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [venbee](https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1) | [No Man's Land](https://open.spotify.com/album/1FgHLHfin6Vvv1WrMWm6L4) | 2:18 | 2024-01-19 | 2024-03-16 |
 | [No Room For A Saint \(From F1® The Movie\)](https://open.spotify.com/track/5xalbHoIf0F0AmuTKlm2Ct) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [No Room For A Saint \(From F1® The Movie\)](https://open.spotify.com/album/1TQcKdaaFQjqQMoMJvZb8M) | 3:56 | 2025-05-16 | 2026-03-14 |
 | [Noche Without You](https://open.spotify.com/track/00FMfKay6lHHQpFLTSaCZe) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [SOMA](https://open.spotify.com/album/4vSNQ69cqRe2WgsdPXH3mv) | 3:23 | 2026-06-12 |  |
+| [Nothing But This](https://open.spotify.com/track/4b6K5OgM58ImrilTpLFbHR) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Bart B More](https://open.spotify.com/artist/1eOOXqRHILTxqrEUAYyQU0) | [Nothing But This](https://open.spotify.com/album/1324nP6Hx1nZ9T6EmqBLz8) | 2:18 | 2026-11-13 |  |
 | [Number 1](https://open.spotify.com/track/5HadIAY3Oray8VKuv3shgQ) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp) | [Number 1](https://open.spotify.com/album/0vkYGGLv8iwyQWdccl46j3) | 2:25 | 2023-08-04 | 2023-12-14 |
 | [O Retha](https://open.spotify.com/track/132fXaozCi3EKmNgTnWmiW) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Crush Club](https://open.spotify.com/artist/3xxRhjD7z41Q0hnNEjIifc) | [O Retha](https://open.spotify.com/album/3zu1awuyss9dK1e4dQKdIJ) | 3:48 | 2022-01-07 | 2022-05-06 |
 | [Ocean Of Tears](https://open.spotify.com/track/6oJIAZpChGNIEMAecud9SZ) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82) | [Ocean Of Tears](https://open.spotify.com/album/2zRkmxVhm6Isn66yIiBnLp) | 3:04 | 2022-08-26 | 2023-02-03 |

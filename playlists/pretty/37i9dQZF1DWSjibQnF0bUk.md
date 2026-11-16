@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjibQnF0bUk.md) - [plain]
 
 > Definitive African party starters, perfect for any jollof jam or braai! "Spray" money to these hits!
 
-[Spotify](https://open.spotify.com/user/spotify) - 601,619 likes - 60 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 601,705 likes - 60 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjibQnF0bUk.md) - [plain]
 | 34 | [UNAVAILABLE \(feat\. Musa Keys\)](https://open.spotify.com/track/2kaH2Z8ezDUKf6fNw250rZ) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 2:49 |
 | 35 | [MOTION SICKNESS \(feat\. Zlatan\)](https://open.spotify.com/track/24NCQmCRmHlUr1syzQ6fse) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [MOTION SICKNESS](https://open.spotify.com/album/0uyDxHJsxv7meDo3jI8geM) | 2:47 |
 | 36 | [Jealousy \(feat\. Leemckrazy & Ceeka RSA\)](https://open.spotify.com/track/6OGNF7mro80pMi5q1HhylS) | [Khalil Harrison](https://open.spotify.com/artist/2zq3Zm57y4TxZRbMZ05CGp), [Tyler ICU](https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4), [LeeMcKrazy](https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg), [Ceeka RSA](https://open.spotify.com/artist/5DuhT9Ix9p7qvE42w9liWY) | [Jealousy \(feat\. Leemckrazy & Ceeka RSA\)](https://open.spotify.com/album/0prfEaQxPCu9UqPSnscpoS) | 6:30 |
-| 37 | [attention!](https://open.spotify.com/track/1MGCRWKSEutuqNQwbktV7C) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [attention!](https://open.spotify.com/album/3Z9nEOl5fo7PzP9feRWyz4) | 2:35 |
-| 38 | [Loketo](https://open.spotify.com/track/78EitsAHPADPQzPG1WHqLh) | [MIK](https://open.spotify.com/artist/5iZb1gFGW7uP1NDHXJ7ZTG) | [Loketo](https://open.spotify.com/album/7FoN3QRhA0hjIxEIXGGi5w) | 3:07 |
+| 37 | [Loketo](https://open.spotify.com/track/78EitsAHPADPQzPG1WHqLh) | [MIK](https://open.spotify.com/artist/5iZb1gFGW7uP1NDHXJ7ZTG) | [Loketo](https://open.spotify.com/album/7FoN3QRhA0hjIxEIXGGi5w) | 3:07 |
+| 38 | [attention!](https://open.spotify.com/track/1MGCRWKSEutuqNQwbktV7C) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [attention!](https://open.spotify.com/album/3Z9nEOl5fo7PzP9feRWyz4) | 2:35 |
 | 39 | [Ewo](https://open.spotify.com/track/3w0eFAME3IxlonearUIaXJ) | [Famous Pluto](https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd) | [Uzama The 3rd](https://open.spotify.com/album/5LKnGwKYyreWBY14SIizkw) | 3:00 |
 | 40 | [Burukutu](https://open.spotify.com/track/4vwzDIuXLtdevmmjPtnemz) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Burukutu](https://open.spotify.com/album/5fmsGkc9fvR1MYajeQFwB7) | 5:11 |
 | 41 | [Who's Dat Girl \(feat\. Rema\)](https://open.spotify.com/track/6XaN4trfoMvRFEy8HoB4nC) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Who’s Dat Girl](https://open.spotify.com/album/3GFFUCTXVKgoGEjMgjCsqW) | 2:52 |
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjibQnF0bUk.md) - [plain]
 | 57 | [CHE](https://open.spotify.com/track/6sPehU8iJcnrSndiAoFONQ) | [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW), [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [CHE](https://open.spotify.com/album/6U7Rlp4IUTdgtaOHiycx3x) | 2:24 |
 | 58 | [ANGELS](https://open.spotify.com/track/6aQ3TBrTQ2mLzecfMpM3Og) | [Lekaa Beats](https://open.spotify.com/artist/3HzmmNkD0FRr2pBSwyUBBY), [OMAH LAY](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [ANGELS](https://open.spotify.com/album/66rFXjuBIQl029QAVfpSpM) | 3:04 |
 | 59 | [I AM](https://open.spotify.com/track/1iDNf6nP0BCXilLVVptflh) | [OMAH LAY](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [CLARITY OF MIND](https://open.spotify.com/album/28c5qLjX7puNQ96Wa86t5k) | 3:12 |
-| 60 | [BB Lifestyle](https://open.spotify.com/track/2U6SxKaCtqPV3ppj2EBb2T) | [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9), [SSSoundGawd](https://open.spotify.com/artist/3rCVow8RScBBIyrdceDOiw) | [BB Lifestyle](https://open.spotify.com/album/5aItozVOGdDVUIYXpyvZxE) | 3:08 |
+| 60 | [Ngozi](https://open.spotify.com/track/5mhM7bfzv52bzfCzlq8vH1) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Trench to Triumph](https://open.spotify.com/album/60dzSRKqWPNVTunBR1aHal) | 3:41 |
 
 Snapshot ID: `AAAAAG/issiWfK2addD4uz1heg5Uw8DJ`

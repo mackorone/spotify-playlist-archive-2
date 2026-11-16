@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGHXujRpFTl.md) - [plain]
 
 > Listen to music from and inspired by Club Kid, curated by Jordan Firstman.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,722 likes - 32 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,961 likes - 32 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

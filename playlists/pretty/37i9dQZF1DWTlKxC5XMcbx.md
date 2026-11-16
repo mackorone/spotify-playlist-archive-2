@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTlKxC5XMcbx.md) - [plain]
 
 > 即興而自在、優雅而舒緩，這形容是不是像個好夢的感覺呢？就讓美妙的爵士樂助你入眠吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,407 likes - 75 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,406 likes - 75 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,19 +69,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTlKxC5XMcbx.md) - [plain]
 | 59 | [And Suddenly There Was Love](https://open.spotify.com/track/5X6IyZNTHOehDW5BCsAqJH) | [Jonah Aardekker](https://open.spotify.com/artist/0uznEwAun1tXBVJWQASNns) | [And Suddenly There Was Love](https://open.spotify.com/album/4hQwj7s73VTBILEHWp71h4) | 4:27 |
 | 60 | [Does The Sun Really Shine On The Moon](https://open.spotify.com/track/43FAhG8BEm5L5Fa8fnC2u5) | [Marcus Bartelt](https://open.spotify.com/artist/0kqhTGbh9RtpgbiUeCHngy), [Martin Sasse](https://open.spotify.com/artist/4jmwrOP4JG1b5s7Jfzj5gT), [Martin Gjakonovski](https://open.spotify.com/artist/5v054lI3qAL9w60moMfo61), [Joost Van Schaik](https://open.spotify.com/artist/4MyNpJkDFnYbEJ21DlSuAZ) | [At Ease](https://open.spotify.com/album/49NbMNxUrcqwxpqh2V7kQm) | 7:31 |
 | 61 | [Good Morning.Goodbye](https://open.spotify.com/track/1PMlAs24OBYlwXF7OeiVYg) | [Dan Cray Trio](https://open.spotify.com/artist/5OrAzdkis91EndJhMLu42l) | [Save US](https://open.spotify.com/album/1FwITvBoG0Fq2FLNFLq9Ze) | 5:36 |
-| 62 | [Joy Is Sorrow Unmasked](https://open.spotify.com/track/1no5aBlOtuHcBeY6fWU0Oc) | [Roy Hargrove](https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs) | [Earfood](https://open.spotify.com/album/4vuijqNCK71JTiACBmdCTo) | 4:46 |
-| 63 | [Self\-Portrait in Three Colors](https://open.spotify.com/track/38C8v33eis3fa4hLf0dl8Z) | [Charles Mingus](https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H) | [Mingus Ah Um](https://open.spotify.com/album/7pojWP7x9uEFSJgw765khA) | 3:10 |
+| 62 | [Self\-Portrait in Three Colors](https://open.spotify.com/track/38C8v33eis3fa4hLf0dl8Z) | [Charles Mingus](https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H) | [Mingus Ah Um](https://open.spotify.com/album/7pojWP7x9uEFSJgw765khA) | 3:10 |
+| 63 | [Joy Is Sorrow Unmasked](https://open.spotify.com/track/1no5aBlOtuHcBeY6fWU0Oc) | [Roy Hargrove](https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs) | [Earfood](https://open.spotify.com/album/4vuijqNCK71JTiACBmdCTo) | 4:46 |
 | 64 | [Surprises](https://open.spotify.com/track/6dlrKYdYDu3UTm3cSo6rFb) | [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb) | [Wind](https://open.spotify.com/album/1zRFuPnqjBckEoOFliJyaI) | 6:27 |
 | 65 | [No Regrets](https://open.spotify.com/track/7HiCCrUE1ywpWs0wM4TpiP) | [Goblin Quartet](https://open.spotify.com/artist/0ceEvbf4gmN9my4kriQVfm) | [No Regrets](https://open.spotify.com/album/78ccjUQoTpPQNrcF8dSnQQ) | 3:09 |
 | 66 | [Stardust](https://open.spotify.com/track/4nbqUfqKObLWhuUT7PWV1N) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [Plays Ballads](https://open.spotify.com/album/2bI7k1iblL7PAIzHPA86Et) | 6:25 |
 | 67 | [Everytime around](https://open.spotify.com/track/2aFgx18xSsCjzZo9vMtyTw) | [Vernon Sanders](https://open.spotify.com/artist/1gys0wFhj7eK75U30auAF4) | [Everytime around](https://open.spotify.com/album/0xz9q4sfWXzF0e0FSPcwJJ) | 5:25 |
 | 68 | [Five Years Ago](https://open.spotify.com/track/1L2aEbr8dOnVUKoeFhmMZG) | [Leonard Peters](https://open.spotify.com/artist/3lnir5hIW9TkpCGJGUuhvk) | [Walk The Dog](https://open.spotify.com/album/1P4DJRMLQ5RhNxYkDPeUf1) | 2:55 |
-| 69 | [Gloomy Sunday](https://open.spotify.com/track/1E8CLofdHL6FVq4PXIIw9x) | [Branford Marsalis Quartet](https://open.spotify.com/artist/795yvukGj0UOfcP8uftDq9) | [Eternal](https://open.spotify.com/album/75PATxS9geJNjgSfdGzwGf) | 12:43 |
-| 70 | [So Long Blues](https://open.spotify.com/track/5AB1aToFH0q42OHPjAO4Qb) | [Bengt Hallberg](https://open.spotify.com/artist/5q3Zh4BS8gJVpcrcGOhk8J) | [Dinah](https://open.spotify.com/album/1XxaRTNUOXXUnjGxkvuBiW) | 3:44 |
+| 69 | [So Long Blues](https://open.spotify.com/track/5AB1aToFH0q42OHPjAO4Qb) | [Bengt Hallberg](https://open.spotify.com/artist/5q3Zh4BS8gJVpcrcGOhk8J) | [Dinah](https://open.spotify.com/album/1XxaRTNUOXXUnjGxkvuBiW) | 3:44 |
+| 70 | [Gloomy Sunday](https://open.spotify.com/track/1E8CLofdHL6FVq4PXIIw9x) | [Branford Marsalis Quartet](https://open.spotify.com/artist/795yvukGj0UOfcP8uftDq9) | [Eternal](https://open.spotify.com/album/75PATxS9geJNjgSfdGzwGf) | 12:43 |
 | 71 | [Endless Mind](https://open.spotify.com/track/5MTg1t0AdyxaIvSKv2Zchn) | [Richard Freeman](https://open.spotify.com/artist/2jMdNGRfKWWbu2ln2qwTvQ) | [Night in the City](https://open.spotify.com/album/7I9Av7XYxponwKOHUJqmd4) | 3:00 |
 | 72 | [Send In The Clowns](https://open.spotify.com/track/6Raz653SzfvRokSgYg9yxY) | [Ted Greene](https://open.spotify.com/artist/5GPOtnbe7RBHBUur5OzpO3) | [Solo Guitar](https://open.spotify.com/album/7fSp1R10Hsbtcfa3tvRdDX) | 4:59 |
 | 73 | [Born To Be Blue](https://open.spotify.com/track/6X94pvu9uxSEbIipBs63Ym) | [Martin Wind](https://open.spotify.com/artist/3wozHMPLuqajGrQWyiwrxT), [Bill Mays](https://open.spotify.com/artist/1ilp455TV1iDOBdrxrqKTQ), [Keith Copeland](https://open.spotify.com/artist/3fsxFG2I0ZO5Gbl6GWyMIe) | [Gone With The Wind](https://open.spotify.com/album/485SZ10AUeaKMJ5u5d1N5r) | 8:19 |
 | 74 | [Interlude No\. 3](https://open.spotify.com/track/0wvbb2MxlokwqSvbeoOOHv) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y) | [The Mourning of a Star](https://open.spotify.com/album/1dcuNuUNZNe33aMywoaTuP) | 1:17 |
-| 75 | [Sunday Kind Of Love](https://open.spotify.com/track/0IKnidRgUVph8HaApRVWD6) | [Pat Coil](https://open.spotify.com/artist/2B8UFlcrZdKZD5qV83m503) | [Java Jazz: A Bold Instrumental Jazz Roast](https://open.spotify.com/album/6QDhV4WQwbKz6Yxc0fDDet) | 5:13 |
+| 75 | [I'm Glad There Is You](https://open.spotify.com/track/5DjEG7UyHlZbP3ZaAmm6wt) | [Scott Hamilton](https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr) | [Nocturnes And Serenades](https://open.spotify.com/album/0Dx7lkginRKp6eKmLvbSqY) | 4:37 |
 
 Snapshot ID: `AAAAAOoyJW4MljfH2eYc8+niUho1UmWP`

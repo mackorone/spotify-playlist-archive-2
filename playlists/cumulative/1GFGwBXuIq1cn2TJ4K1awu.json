@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "Slipknot",
+        "url": "https://open.spotify.com/album/5lOFvOWAdy9G6p44noRILU"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2026-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199880,
+      "name": "(sic)",
+      "url": "https://open.spotify.com/track/5u2qiqQGUBy8fvXTvs9i2X"
+    },
+    {
+      "album": {
         "name": "Everybody Works",
         "url": "https://open.spotify.com/album/1ZMtgC7o6TGbzwkv5SpThU"
       },
@@ -286,7 +304,7 @@
       ],
       "date_added": "2026-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 184640,
       "name": "A Place for My Head",
       "url": "https://open.spotify.com/track/5rAxhWcgFng3s570sGO2F8"
@@ -1700,6 +1718,24 @@
       "duration_ms": 188226,
       "name": "Barbacoa",
       "url": "https://open.spotify.com/track/7dfiVl5IFfeacEfC4DRoDt"
+    },
+    {
+      "album": {
+        "name": "Aquarium (Special Edition)",
+        "url": "https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm"
+      },
+      "artists": [
+        {
+          "name": "Aqua",
+          "url": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
+        }
+      ],
+      "date_added": "2026-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197960,
+      "name": "Barbie Girl",
+      "url": "https://open.spotify.com/track/5ZrDlcxIDZyjOzHdYW1ydr"
     },
     {
       "album": {
@@ -3122,7 +3158,7 @@
       ],
       "date_added": "2026-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 208906,
       "name": "CIA Man",
       "url": "https://open.spotify.com/track/2HthOIHQvqFuChdkVERIN2"
@@ -3522,6 +3558,24 @@
       "duration_ms": 167227,
       "name": "Cross The Street",
       "url": "https://open.spotify.com/track/2q7ayA58xy4MfsSV1Au7Uw"
+    },
+    {
+      "album": {
+        "name": "Needle Paw",
+        "url": "https://open.spotify.com/album/4b6uW0x09FkRSqadcioB1u"
+      },
+      "artists": [
+        {
+          "name": "Nai Palm",
+          "url": "https://open.spotify.com/artist/5X0dCi2aVnYEV27S8wgQdF"
+        }
+      ],
+      "date_added": "2026-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268176,
+      "name": "Crossfire / So Into You",
+      "url": "https://open.spotify.com/track/2VsKJODsXzU1NtoFYIh9FM"
     },
     {
       "album": {
@@ -4386,7 +4440,7 @@
       ],
       "date_added": "2026-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 178422,
       "name": "Don't Talk (Put Your Head On My Shoulder)",
       "url": "https://open.spotify.com/track/4LHeNOCwHJvKxmH0AsQ1xt"
@@ -5047,6 +5101,24 @@
     },
     {
       "album": {
+        "name": "Sense Yourself",
+        "url": "https://open.spotify.com/album/4Tz6HMLRqTj5v1nqXGNdrE"
+      },
+      "artists": [
+        {
+          "name": "Upchuck",
+          "url": "https://open.spotify.com/artist/7mhCgHESQzEKKyWshkMTwW"
+        }
+      ],
+      "date_added": "2026-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204799,
+      "name": "Facecard",
+      "url": "https://open.spotify.com/track/6Rx1b6OWdKoyZ7vYE9AHgW"
+    },
+    {
+      "album": {
         "name": "Maps",
         "url": "https://open.spotify.com/album/3VoX4iyvy7et6Qt47e2XwS"
       },
@@ -5232,7 +5304,7 @@
       ],
       "date_added": "2026-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 195800,
       "name": "Feel It All The Time",
       "url": "https://open.spotify.com/track/5hfu9r4JcERCBwimhrPIUN"
@@ -5626,6 +5698,28 @@
       "duration_ms": 298933,
       "name": "Garden",
       "url": "https://open.spotify.com/track/3KcJEOyaLDLAERlOCBhmPA"
+    },
+    {
+      "album": {
+        "name": "Women In Music Pt. III",
+        "url": "https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM"
+      },
+      "artists": [
+        {
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+        },
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2026-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193373,
+      "name": "Gasoline (feat. Taylor Swift)",
+      "url": "https://open.spotify.com/track/645Exr2lJIO45Guht3qyIa"
     },
     {
       "album": {
@@ -7414,7 +7508,7 @@
       ],
       "date_added": "2026-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 207340,
       "name": "I Saw",
       "url": "https://open.spotify.com/track/5wDEOCfVVAqkdjkrSwDwGJ"
@@ -8286,7 +8380,7 @@
       ],
       "date_added": "2026-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 209360,
       "name": "Iris",
       "url": "https://open.spotify.com/track/4WkftVHUEzLVCQFn6tAxKt"
@@ -8782,6 +8876,24 @@
       "duration_ms": 282205,
       "name": "Kilby Girl",
       "url": "https://open.spotify.com/track/1170VohRSx6GwE6QDCHPPH"
+    },
+    {
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2026-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153946,
+      "name": "Kill Bill",
+      "url": "https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8"
     },
     {
       "album": {
@@ -10449,6 +10561,24 @@
     },
     {
       "album": {
+        "name": "This Is Jazz #14",
+        "url": "https://open.spotify.com/album/4HNlvnGISvRdhCLHvxm7Yz"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "date_added": "2026-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323226,
+      "name": "Misty",
+      "url": "https://open.spotify.com/track/4Mdo6FZj42vID4oDi6P4ZW"
+    },
+    {
+      "album": {
         "name": "Pompeii",
         "url": "https://open.spotify.com/album/4EucMR080SkRlViV1nbDK9"
       },
@@ -11223,6 +11353,24 @@
     },
     {
       "album": {
+        "name": "John Michael Montgomery",
+        "url": "https://open.spotify.com/album/5UPjyfi3zD7Oak7frjH8zk"
+      },
+      "artists": [
+        {
+          "name": "John Michael Montgomery",
+          "url": "https://open.spotify.com/artist/7mPcfx7PhnBh6n4HMCd61A"
+        }
+      ],
+      "date_added": "2026-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182693,
+      "name": "No Man's Land",
+      "url": "https://open.spotify.com/track/5FM8T2xwxQNreD45ACrxH7"
+    },
+    {
+      "album": {
         "name": "Made by These Moments",
         "url": "https://open.spotify.com/album/0UQr4EfIUbii2ufru3mnKe"
       },
@@ -11548,7 +11696,7 @@
       ],
       "date_added": "2026-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 229844,
       "name": "Object Permanence",
       "url": "https://open.spotify.com/track/28BW0WwfqqNFOnBnt2aR0l"
@@ -13474,7 +13622,7 @@
       ],
       "date_added": "2026-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 225666,
       "name": "Sandstorm",
       "url": "https://open.spotify.com/track/3dxDj8pDPlIHCIrUPXuCeG"
@@ -16179,6 +16327,24 @@
     },
     {
       "album": {
+        "name": "The Singles Collection",
+        "url": "https://open.spotify.com/album/3cgIyc6jHMSEHwRAg9PSlP"
+      },
+      "artists": [
+        {
+          "name": "The Bruisers",
+          "url": "https://open.spotify.com/artist/7fRNaFREvjGffEv7tACZOp"
+        }
+      ],
+      "date_added": "2026-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181333,
+      "name": "These 2 Boots Of Mine",
+      "url": "https://open.spotify.com/track/4kKtfD1uHLR0lWP4zcFqgU"
+    },
+    {
+      "album": {
         "name": "Start Walkin' 1965-1976",
         "url": "https://open.spotify.com/album/1J3CtRxcG9Tkuw2xQ59NEk"
       },
@@ -16442,7 +16608,7 @@
       ],
       "date_added": "2026-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 163733,
       "name": "Too Dark",
       "url": "https://open.spotify.com/track/5bTKxJfWolOjvW7A1BethF"
@@ -16868,6 +17034,42 @@
       "duration_ms": 177720,
       "name": "Until I Found You",
       "url": "https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV"
+    },
+    {
+      "album": {
+        "name": "More Than You Think You Are",
+        "url": "https://open.spotify.com/album/7fv4OVYUiixcwCGDRwvcH8"
+      },
+      "artists": [
+        {
+          "name": "Matchbox Twenty",
+          "url": "https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1"
+        }
+      ],
+      "date_added": "2026-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228706,
+      "name": "Unwell",
+      "url": "https://open.spotify.com/track/6Bm6qUCSatPAqkQllFL7oA"
+    },
+    {
+      "album": {
+        "name": "Cold Beer & Country Music",
+        "url": "https://open.spotify.com/album/2liHjGjIgWvjrfBgKGBYuF"
+      },
+      "artists": [
+        {
+          "name": "Zach Top",
+          "url": "https://open.spotify.com/artist/4FGPzWzgjURDNT7JQ8pYgH"
+        }
+      ],
+      "date_added": "2026-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236744,
+      "name": "Use Me",
+      "url": "https://open.spotify.com/track/4eGwcJ946Oj7scyzdlaFCD"
     },
     {
       "album": {
@@ -17964,7 +18166,7 @@
       ],
       "date_added": "2026-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 160813,
       "name": "You And Me",
       "url": "https://open.spotify.com/track/39FFlqltctkj6vkIcVgkec"
@@ -18184,7 +18386,7 @@
       ],
       "date_added": "2026-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 180233,
       "name": "\u8a31\u5a5a\u3063\u304d\u3085\u3093",
       "url": "https://open.spotify.com/track/6YLjq21cq39MrEGtGGQ7DU"

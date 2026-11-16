@@ -5272,7 +5272,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 290067,
       "name": "Give Up The Ghost",
       "url": "https://open.spotify.com/track/05NZMYuLR71Z3qrZOUiUm2"
@@ -10082,6 +10082,24 @@
       "duration_ms": 287720,
       "name": "Plein Air",
       "url": "https://open.spotify.com/track/7d0x1E8uKCbIVIdInBqR5y"
+    },
+    {
+      "album": {
+        "name": "Natural Born Losers",
+        "url": "https://open.spotify.com/album/5Pmmw3iJPmS2uQ41g9kVzX"
+      },
+      "artists": [
+        {
+          "name": "Nicole Dollanganger",
+          "url": "https://open.spotify.com/artist/0MfC3pip8rY8OFLJVVNvBO"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139439,
+      "name": "Poacher's Pride",
+      "url": "https://open.spotify.com/track/5InE7NRPIeNayZy5HhbUxD"
     },
     {
       "album": {

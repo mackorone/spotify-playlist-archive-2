@@ -1,12 +1,12 @@
 {
   "description": "This is Odeal. The essential tracks, all in one playlist.",
-  "num_followers": 17882,
+  "num_followers": 17917,
   "original_name": "This Is Odeal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avZTAAAAAAA1YLFveWcJJWuVN+dYLE/B",
+  "snapshot_id": "avekgAAAAADsHpPLZyqkhgFiQTKFqL2P",
   "tracks": [
     {
       "added_at": null,
@@ -875,6 +875,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lo Life",
+        "url": "https://open.spotify.com/album/5f6nHSXSMH6LpDY6om6zdH"
+      },
+      "artists": [
+        {
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        },
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 234665,
+      "name": "Lo Life",
+      "url": "https://open.spotify.com/track/7sCpLpIQ11hhAPwEXgyAwM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mwah!",
         "url": "https://open.spotify.com/album/2nACbWmfy1aPjwFXexphvQ"
       },
@@ -891,26 +911,6 @@
       "duration_ms": 128000,
       "name": "Mwah!",
       "url": "https://open.spotify.com/track/3kea45Zl41BwV83RxCxBbw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Holier (SHOWBIZ)",
-        "url": "https://open.spotify.com/album/3bj5fZFxgQrTOzc2deaNhG"
-      },
-      "artists": [
-        {
-          "name": "Olli P",
-          "url": "https://open.spotify.com/artist/1sVeCzkWGI0b1Y8NyyAJCx"
-        },
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 146165,
-      "name": "Holier (SHOWBIZ)",
-      "url": "https://open.spotify.com/track/5kMGUDbBjN6uNHEmIrnYXH"
     }
   ],
   "unique_name": "This Is Odeal",

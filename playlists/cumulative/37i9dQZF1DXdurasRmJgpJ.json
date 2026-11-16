@@ -4423,6 +4423,24 @@
     },
     {
       "album": {
+        "name": "Slidin",
+        "url": "https://open.spotify.com/album/3nSlGw0nRjALQMGVrvFxew"
+      },
+      "artists": [
+        {
+          "name": "HANA",
+          "url": "https://open.spotify.com/artist/7fmXV2O48buswss04YetaN"
+        }
+      ],
+      "date_added": "2026-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159368,
+      "name": "Slidin",
+      "url": "https://open.spotify.com/track/2wNsXxFKjKfiffzEK1RHqs"
+    },
+    {
+      "album": {
         "name": "Slow & Easy",
         "url": "https://open.spotify.com/album/0LLMweYMQL9FSdHortnpx8"
       },
@@ -5004,7 +5022,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 200226,
       "name": "Theater",
       "url": "https://open.spotify.com/track/6iltt0n1DkQ0AtCcwxXNZJ"
@@ -6512,7 +6530,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 302880,
       "name": "\u3089\u3057\u3055",
       "url": "https://open.spotify.com/track/2TRxremVZ0t2JVu5OFxbiA"
@@ -7002,6 +7020,24 @@
       "duration_ms": 202533,
       "name": "\u30b5\u30af\u30e9\u30ad\u30df\u30ef\u30bf\u30b7",
       "url": "https://open.spotify.com/track/4bM9itWEyMkLUSd2VeROAd"
+    },
+    {
+      "album": {
+        "name": "\u30b6\u30c3\u30c4\uff01\u8d85\u5e38",
+        "url": "https://open.spotify.com/album/5AtnsWEeAPZcN2kO7Hm2B9"
+      },
+      "artists": [
+        {
+          "name": "M!LK",
+          "url": "https://open.spotify.com/artist/4jhJ8cnJ9vYKyCh289nuwQ"
+        }
+      ],
+      "date_added": "2026-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205866,
+      "name": "\u30b6\u30c3\u30c4\uff01\u8d85\u5e38",
+      "url": "https://open.spotify.com/track/5u9rjyUgfIJXRk0RHKQ2GK"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 358 likes - 2,865 songs - 6 day 22 hr 41 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 358 likes - 2,885 songs - 6 day 23 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2873,5 +2873,25 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2863 | [Tie](https://open.spotify.com/track/4AhjtuVhfpm6sISXT7cGkk) | [Muupe B\. Horto](https://open.spotify.com/artist/6Dq8fIdjjfW20AXixOxyKa) | [Tuntosarvi](https://open.spotify.com/album/4WsdrEzof5vYTjPi6fXoQX) | 0:50 |
 | 2864 | [I'll Wait for Another Day](https://open.spotify.com/track/1Gh4DU7UGMLSugXgNlTSMv) | [Terry Sedore Music](https://open.spotify.com/artist/3FeRwZfgGRpkZ7XYBuKe7T) | [I'll Wait for Another Day](https://open.spotify.com/album/3vqwVbgwEIDHVwnUqKGDIT) | 3:49 |
 | 2865 | [As Vidas Dos Outros](https://open.spotify.com/track/0vyUMz4LOfX7NNKeezOG6m) | [Hugo Ferrás](https://open.spotify.com/artist/2kjfGblDD0Iv8soEBX5Qgm) | [As Vidas Dos Outros](https://open.spotify.com/album/0qOY3RztQMNBVmO8v8uDTX) | 3:21 |
+| 2866 | [I Thought You'd Be Here by Now](https://open.spotify.com/track/3ZRdnxL8n4gsYafNiPbZjB) | [Ill\-minded Cameo](https://open.spotify.com/artist/0d2y83S4erXLD8Ljm1WK03) | [I Thought You'd Be Here by Now](https://open.spotify.com/album/2FCyqZCosrGSV6IsmWdpWq) | 3:38 |
+| 2867 | [Free](https://open.spotify.com/track/0htHxQPn9yZmplXwBkOU4h) | [Ryan Khera](https://open.spotify.com/artist/5IpvrRxnMdPvJ6565rzxou) | [Free](https://open.spotify.com/album/2oXRJFwi3WlFq63Jius0WQ) | 4:31 |
+| 2868 | [Depression](https://open.spotify.com/track/1FHWsaLGj8qKas3ls13fa3) | [Karina Litty](https://open.spotify.com/artist/2oXbwQ0NVGHzaId5BdgqT1) | [Depression](https://open.spotify.com/album/3bA2qBzcz7wO7NsEIMwXcl) | 2:52 |
+| 2869 | [Minö Olen Klovni](https://open.spotify.com/track/0UqeeridaCnMDZRydSFVln) | [Muupe B\. Horto](https://open.spotify.com/artist/6Dq8fIdjjfW20AXixOxyKa) | [Tuntosarvi](https://open.spotify.com/album/4WsdrEzof5vYTjPi6fXoQX) | 4:30 |
+| 2870 | [Dörf & Kesän Balladit](https://open.spotify.com/track/4MwcTnxmrhf3kvURwzH5p0) | [Muupe B\. Horto](https://open.spotify.com/artist/6Dq8fIdjjfW20AXixOxyKa) | [Tuntosarvi](https://open.spotify.com/album/4WsdrEzof5vYTjPi6fXoQX) | 1:09 |
+| 2871 | [Van Dörf: Kivet](https://open.spotify.com/track/51AeIjqAQ38yeLtk4ofzhe) | [Muupe B\. Horto](https://open.spotify.com/artist/6Dq8fIdjjfW20AXixOxyKa) | [Dörf](https://open.spotify.com/album/7qBnyrXwtdNaGiv3PHh9QO) | 1:01 |
+| 2872 | [Lappeenrannassa](https://open.spotify.com/track/3FprAnMxvegEfa1rjmmKXI) | [Muupe B\. Horto](https://open.spotify.com/artist/6Dq8fIdjjfW20AXixOxyKa) | [Lappeenrannassa](https://open.spotify.com/album/2FLEpk7AtlJcAcPBBrM6Ow) | 2:41 |
+| 2873 | [Toista Yhtä](https://open.spotify.com/track/5Y9XyoHSHFIV80TipUeWze) | [Muupe B\. Horto](https://open.spotify.com/artist/6Dq8fIdjjfW20AXixOxyKa) | [Lappeenrannassa](https://open.spotify.com/album/2FLEpk7AtlJcAcPBBrM6Ow) | 2:47 |
+| 2874 | [Van Dörf ja Närhämän Toipuneet](https://open.spotify.com/track/4HMGJZj4EnYMZ5MXdpWrmw) | [Muupe B\. Horto](https://open.spotify.com/artist/6Dq8fIdjjfW20AXixOxyKa) | [Van Dörf ja Närhämän Toipuneet](https://open.spotify.com/album/7gyaNDALCHQHzltiLop1P4) | 1:04 |
+| 2875 | [Yläpuolellani](https://open.spotify.com/track/3HOkRmdClLtVICVbTvZL8s) | [Muupe B\. Horto](https://open.spotify.com/artist/6Dq8fIdjjfW20AXixOxyKa) | [Potero](https://open.spotify.com/album/5nz3Ups0ZNHkjhGSXHWwJD) | 3:36 |
+| 2876 | [The Road \(Tie](https://open.spotify.com/track/7CqB5WkFq77gIYaVk6TuoG) | [Muupe B\. Horto](https://open.spotify.com/artist/6Dq8fIdjjfW20AXixOxyKa) | [Dörf](https://open.spotify.com/album/7qBnyrXwtdNaGiv3PHh9QO) | 1:18 |
+| 2877 | [EM](https://open.spotify.com/track/3KKSjlHOya4AaRM6ht6eFU) | [Muupe B\. Horto](https://open.spotify.com/artist/6Dq8fIdjjfW20AXixOxyKa) | [Tuntosarvi](https://open.spotify.com/album/4WsdrEzof5vYTjPi6fXoQX) | 3:04 |
+| 2878 | [Marginaalissa](https://open.spotify.com/track/2ropdP9lwwCRnX8KgC92si) | [Muupe B\. Horto](https://open.spotify.com/artist/6Dq8fIdjjfW20AXixOxyKa) | [Potero](https://open.spotify.com/album/5nz3Ups0ZNHkjhGSXHWwJD) | 1:43 |
+| 2879 | [Harttu](https://open.spotify.com/track/7xwRIYDIxKdvdWB4jpJi3K) | [Muupe B\. Horto](https://open.spotify.com/artist/6Dq8fIdjjfW20AXixOxyKa) | [Harttu](https://open.spotify.com/album/2psiuTURhcVIVKLZwpFNWf) | 2:44 |
+| 2880 | [Aana Re](https://open.spotify.com/track/5Tgn0gmqID1c6Y4TpgfL9h) | [Muupe B\. Horto](https://open.spotify.com/artist/6Dq8fIdjjfW20AXixOxyKa) | [Potero](https://open.spotify.com/album/5nz3Ups0ZNHkjhGSXHWwJD) | 6:57 |
+| 2881 | [Kieli Kiinni Ruokapöydässä](https://open.spotify.com/track/2gKkY0iwlP2h36drAk9pUn) | [Muupe B\. Horto](https://open.spotify.com/artist/6Dq8fIdjjfW20AXixOxyKa) | [Tuntosarvi](https://open.spotify.com/album/4WsdrEzof5vYTjPi6fXoQX) | 1:56 |
+| 2882 | [Liikkeellä](https://open.spotify.com/track/3yyixx4fQcTJTNISRFQPxR) | [Muupe B\. Horto](https://open.spotify.com/artist/6Dq8fIdjjfW20AXixOxyKa) | [Lappeenrannassa](https://open.spotify.com/album/2FLEpk7AtlJcAcPBBrM6Ow) | 3:22 |
+| 2883 | [Fuerte y Claro](https://open.spotify.com/track/4EYGFw4pbPG3xapwXTnC8W) | [Pancha](https://open.spotify.com/artist/1NCyHLIUPd2MDVtExBx1Xw), [Oyaremmm](https://open.spotify.com/artist/7fjiBle1xNdkaLAUYDjxgK), [Lucy Patané](https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld) | [Fuerte y Claro](https://open.spotify.com/album/1AJUWz07LocDB4M1QsLMWl) | 3:19 |
+| 2884 | [the man stuck inside himself](https://open.spotify.com/track/0RFXzS7yeGwUcwzr5Yvvc2) | [The Human Family Band](https://open.spotify.com/artist/57cri11PnyBjk1oo6kSRja) | [the man stuck inside himself](https://open.spotify.com/album/5t68CclOhoU3hXUmiD0eZz) | 3:56 |
+| 2885 | [Diz O Que Pensas](https://open.spotify.com/track/4sXQbtVjZFcZo927FJBRt3) | [Hugo Ferrás](https://open.spotify.com/artist/2kjfGblDD0Iv8soEBX5Qgm) | [Diz O Que Pensas](https://open.spotify.com/album/1ts3BOFF0djczkeiUIJFmX) | 2:55 |
 
-Snapshot ID: `AAAMJczxEfb/irx//B5UVb1d305MZ+hS`
+Snapshot ID: `AAAMPBhmsjLKEGRSKQJdojK6/RFWuUvx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/123cOpfFuSZh45wQ4Tdjku.md) - [plain]
 
 > mostly furry
 
-[Karlito](https://open.spotify.com/user/31pthgv6rb2dvvjpngxwmd2ztjx4) - 1,325 likes - 589 songs - 1 day 5 hr 14 min
+[Karlito](https://open.spotify.com/user/31pthgv6rb2dvvjpngxwmd2ztjx4) - 1,328 likes - 591 songs - 1 day 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -597,5 +597,7 @@ pretty - [cumulative](/playlists/cumulative/123cOpfFuSZh45wQ4Tdjku.md) - [plain]
 | 587 | [UP\. DOWN\. LEFT\. RIGHT.](https://open.spotify.com/track/16oMZrqeEEEEmsyTEjTqfe) | [Studi01](https://open.spotify.com/artist/6JahkHwKoCgQsAc2wxYKy3) | [UP\. DOWN\. LEFT\. RIGHT.](https://open.spotify.com/album/5ZCN8F3DPxvplmfVJmpwuL) | 2:25 |
 | 588 | [Play Crack The Sky](https://open.spotify.com/track/1IzfZHQaAD3WRmy2E5uM60) | [When Snakes Sing](https://open.spotify.com/artist/6fXDCCpVRFZuBVqyqNNhxJ) | [Play Crack The Sky](https://open.spotify.com/album/44vu7kx1XYz4gazJPzC8pZ) | 4:34 |
 | 589 | [Harpy Hare](https://open.spotify.com/track/6pWlv50Lthad8jyd6f1TlC) | [Yaelokre](https://open.spotify.com/artist/3rRyfgGByetsaaujkjQ7rY) | [Harpy Hare](https://open.spotify.com/album/5YtN8x4Q8H7zEFroBn9yq0) | 3:00 |
+| 590 | [Party Favor](https://open.spotify.com/track/2aHxRQGqUH58sUptShLRWP) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [OodleZz](https://open.spotify.com/artist/2eCpXBK9mnqr6o9TydXu98) | [Party Favor](https://open.spotify.com/album/37LhJVLQUxJDJPxa9IaJdb) | 3:15 |
+| 591 | [Party Favor \- Instrumental](https://open.spotify.com/track/60AlTM7Y7mT9zF9vZuwcLw) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [Party Favor](https://open.spotify.com/album/37LhJVLQUxJDJPxa9IaJdb) | 3:14 |
 
-Snapshot ID: `AAACJ/qfaFntfkiBUH1KK1jSgne8bQqy`
+Snapshot ID: `AAACKJoLkPEQwBnOT4ZYExkbIhg7aUj7`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 
 > Lasă\-te inspirat pe ritmuri de hip\-hop & R'n'B\. Cover: Serotone, IRAIDA
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,782 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,775 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 | 20 | [PLOAIA](https://open.spotify.com/track/7j0IVHEgklnA3TjfZSuMBs) | [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6), [Giovanni](https://open.spotify.com/artist/47AvMC22jRN0dhoP1Lmk9o), [PRNY](https://open.spotify.com/artist/0cA9DRt344kHIuWkY87dEk) | [LUCIFER](https://open.spotify.com/album/7cZxVrz4JkxEP4lVrqX9NS) | 3:06 |
 | 21 | [Complicat](https://open.spotify.com/track/5M8RZLWYRdVjhjhr0raySE) | [Sami G](https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr), [VANILLA](https://open.spotify.com/artist/1fofiypUoSWqYH2i4frmHn) | [Complicat](https://open.spotify.com/album/5gIwB4ELoUEOaWaBkajJNa) | 2:31 |
 | 22 | [ANGELINA JOLIE](https://open.spotify.com/track/14NwdA5jpFrLI4LCs2GBtp) | [NOUA UNSPE](https://open.spotify.com/artist/1fYKCWegShlSGe4yATnpdp), [Oscar](https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F) | [ANGELINA JOLIE](https://open.spotify.com/album/6b6tDxSxIkIf8XP6p3PUNQ) | 3:07 |
-| 23 | [SCRISOARE DE CARTIER](https://open.spotify.com/track/2sU6IJD04FX2bWwH5MAH6c) | [DZWS](https://open.spotify.com/artist/5ChWT8CfHjk2PnRG70ZgWV) | [SCRISOARE DE CARTIER](https://open.spotify.com/album/5Oozk0jQPOXmIP309aDwgP) | 1:41 |
-| 24 | [Reggaeton](https://open.spotify.com/track/5a2hQFJzWF8od76LnJHnPA) | [MADATORRICELLI](https://open.spotify.com/artist/4y2uMVYqHq7SlTTfBQpdsJ), [Maria Brasil](https://open.spotify.com/artist/4EZparNGyFEDiWn83XaieN) | [Reggaeton](https://open.spotify.com/album/5mJbP3TyeakQSrKgaQiFp9) | 2:37 |
+| 23 | [Reggaeton](https://open.spotify.com/track/5a2hQFJzWF8od76LnJHnPA) | [MADATORRICELLI](https://open.spotify.com/artist/4y2uMVYqHq7SlTTfBQpdsJ), [Maria Brasil](https://open.spotify.com/artist/4EZparNGyFEDiWn83XaieN) | [Reggaeton](https://open.spotify.com/album/5mJbP3TyeakQSrKgaQiFp9) | 2:37 |
+| 24 | [SCRISOARE DE CARTIER](https://open.spotify.com/track/2sU6IJD04FX2bWwH5MAH6c) | [DZWS](https://open.spotify.com/artist/5ChWT8CfHjk2PnRG70ZgWV) | [SCRISOARE DE CARTIER](https://open.spotify.com/album/5Oozk0jQPOXmIP309aDwgP) | 1:41 |
 | 25 | [Sunt fratii tai](https://open.spotify.com/track/20OzxqFiZbojkPskuxZb5a) | [Petre Stefan](https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh) | [Direct din Tei](https://open.spotify.com/album/4ugCVHF2BNK6Aj7W9RKCWr) | 2:39 |
 | 26 | [Sa MM Care Pleaca](https://open.spotify.com/track/2sCUjlQUEVP8Sn4Lfk71T6) | [Sami G](https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr) | [Sa MM Care Pleaca](https://open.spotify.com/album/641PCOIaSeSDJaqczpIZds) | 1:59 |
 | 27 | [ultima \(noapte\)](https://open.spotify.com/track/2CGaabfPeMsfEUpYN7gOti) | [IDK](https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP), [Oscar](https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F) | [ultima \(noapte\)](https://open.spotify.com/album/6rlFAvwB2e8ye7JeQZkxZC) | 3:48 |

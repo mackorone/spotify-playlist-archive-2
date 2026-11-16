@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6yU1l4H28UbyNjgTX1ozHv.md) - [plain]
 
 > Driving songs acoustic style! Sit back and enjoy the ride!
 
-[Matt Johnson](https://open.spotify.com/user/117687144) - 8,531 likes - 159 songs - 8 hr 29 min
+[Matt Johnson](https://open.spotify.com/user/117687144) - 8,531 likes - 159 songs - 8 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,12 +13,12 @@ pretty - [cumulative](/playlists/cumulative/6yU1l4H28UbyNjgTX1ozHv.md) - [plain]
 | 3 | [Dancing in the Moonlight \- Acoustic](https://open.spotify.com/track/4dudhJneNjXsJDyCxmObVB) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [Dancing in the Moonlight \(Acoustic\)](https://open.spotify.com/album/3zbMIvyACUAWcf702wwZQu) | 2:32 |
 | 4 | [Budapest](https://open.spotify.com/track/2t7VNXaBzGDNGwSEBOHuku) | [Cloudsmiff](https://open.spotify.com/artist/0pXvuDolUqUJHNimEsgdM6) | [Budapest](https://open.spotify.com/album/3aph79xUZfjSrDJIzzzD69) | 2:07 |
 | 5 | [Dream Catch Me \- Acoustic](https://open.spotify.com/track/6gGReVbDXMtNmgYAKLmDW3) | [Jae Hall](https://open.spotify.com/artist/1rxN6Kd4PGaLmhhW8ktW3d) | [Dream Catch Me \(Acoustic\)](https://open.spotify.com/album/6vDSeFV2p6B3YANoUGyjeC) | 3:04 |
-| 6 | [Lean on Me](https://open.spotify.com/track/40qEnmwWaJW7teieAtLAsz) | [Joseph Vincent](https://open.spotify.com/artist/40JlNF1w2OiSOyj1nC4y0I) | [Lean on Me](https://open.spotify.com/album/4GveKz4QiYwIauZZp2kVuw) | 1:55 |
-| 7 | [Nothing's Gonna Stop Us Now \- Acoustic](https://open.spotify.com/track/6nCkLlvM9qyFWzGMsooYi7) | [Grace\-May](https://open.spotify.com/artist/3TKT52ZSdQhyxelhg2db5d) | [Nothing's Gonna Stop Us Now \(Acoustic\)](https://open.spotify.com/album/50KqUnGw9WgXwJ1Kcfl04a) | 3:01 |
-| 8 | [Teenage Dirtbag \- Acoustic](https://open.spotify.com/track/28UhV2P56qrhxu05pNP08W) | [Bailey Rushlow](https://open.spotify.com/artist/1tTQcokfKcsCxZaHF2pIhw) | [Teenage Dirtbag \(Acoustic\)](https://open.spotify.com/album/1kJwJ8ks6DweMzFDiJieIg) | 2:52 |
-| 9 | [There She Goes \- Acoustic](https://open.spotify.com/track/3sQyXxKc84TzAs3QTa1MDd) | [Callum J Wright](https://open.spotify.com/artist/47KiS7rrEXolpFicX0aTGe) | [There She Goes \(Acoustic\)](https://open.spotify.com/album/5YOv5PwZ1Cxh5whruPVLv6) | 3:25 |
-| 10 | [Let Her Go \- Acoustic](https://open.spotify.com/track/6ZhFyAONKGpWAxfEiT6NBE) | [Sands of Summer](https://open.spotify.com/artist/43vjXOqFOUcodqUtWIRptz) | [Let Her Go \(Acoustic\)](https://open.spotify.com/album/2dAJpIf4TPND1msGGPvzKw) | 2:33 |
-| 11 | [A Kind of Magic \- Acoustic](https://open.spotify.com/track/1z1XJNl0Ews2aiZlph0GJW) | [Paul Canning](https://open.spotify.com/artist/6KJzTOkw6FCQx81JK09TJN) | [A Kind of Magic \(Acoustic\)](https://open.spotify.com/album/1GZVYTu9TmdOYU1V8NEtR8) | 3:19 |
+| 6 | [Arthur's Theme \- Acoustic](https://open.spotify.com/track/2fI52JFsNuybJF5Lt7iBve) | [Paul Canning](https://open.spotify.com/artist/6KJzTOkw6FCQx81JK09TJN) | [Arthur's Theme \(Acoustic\)](https://open.spotify.com/album/41o634NA0lCb91LoSB1y8T) | 2:39 |
+| 7 | [Lean on Me](https://open.spotify.com/track/40qEnmwWaJW7teieAtLAsz) | [Joseph Vincent](https://open.spotify.com/artist/40JlNF1w2OiSOyj1nC4y0I) | [Lean on Me](https://open.spotify.com/album/4GveKz4QiYwIauZZp2kVuw) | 1:55 |
+| 8 | [Nothing's Gonna Stop Us Now \- Acoustic](https://open.spotify.com/track/6nCkLlvM9qyFWzGMsooYi7) | [Grace\-May](https://open.spotify.com/artist/3TKT52ZSdQhyxelhg2db5d) | [Nothing's Gonna Stop Us Now \(Acoustic\)](https://open.spotify.com/album/50KqUnGw9WgXwJ1Kcfl04a) | 3:01 |
+| 9 | [Teenage Dirtbag \- Acoustic](https://open.spotify.com/track/28UhV2P56qrhxu05pNP08W) | [Bailey Rushlow](https://open.spotify.com/artist/1tTQcokfKcsCxZaHF2pIhw) | [Teenage Dirtbag \(Acoustic\)](https://open.spotify.com/album/1kJwJ8ks6DweMzFDiJieIg) | 2:52 |
+| 10 | [There She Goes \- Acoustic](https://open.spotify.com/track/3sQyXxKc84TzAs3QTa1MDd) | [Callum J Wright](https://open.spotify.com/artist/47KiS7rrEXolpFicX0aTGe) | [There She Goes \(Acoustic\)](https://open.spotify.com/album/5YOv5PwZ1Cxh5whruPVLv6) | 3:25 |
+| 11 | [Let Her Go \- Acoustic](https://open.spotify.com/track/6ZhFyAONKGpWAxfEiT6NBE) | [Sands of Summer](https://open.spotify.com/artist/43vjXOqFOUcodqUtWIRptz) | [Let Her Go \(Acoustic\)](https://open.spotify.com/album/2dAJpIf4TPND1msGGPvzKw) | 2:33 |
 | 12 | [Stand By Me](https://open.spotify.com/track/2aO14q5CTyZcmhOFfhKlrH) | [Emily Linge](https://open.spotify.com/artist/1oHuewfSrJgCviOzYBcr5A) | [Stand By Me](https://open.spotify.com/album/6PDNYQWnVHvoTlN7DJSTTg) | 2:44 |
 | 13 | [I Don't Want to Miss a Thing](https://open.spotify.com/track/1bA1t3ZtXuvx4FqdNED5RW) | [Jada Facer](https://open.spotify.com/artist/4k51JgB5G0e33QYVpbcPuf), [Kyuri](https://open.spotify.com/artist/7l8H42qlKI2Nd0w80J49iu) | [I Don't Want to Miss a Thing](https://open.spotify.com/album/0fI8VVtUhZ9O2padLpbBHF) | 3:20 |
 | 14 | [Be My Baby](https://open.spotify.com/track/6767EYNPX0LT5AERBRRKyx) | [Thomas Law](https://open.spotify.com/artist/17oLmcamZOvri63kIr56CO) | [Be My Baby](https://open.spotify.com/album/6XiUwP6st5qWfGH0rJVvuX) | 3:03 |
@@ -168,4 +168,4 @@ pretty - [cumulative](/playlists/cumulative/6yU1l4H28UbyNjgTX1ozHv.md) - [plain]
 | 158 | [Magnetised \- Acoustic](https://open.spotify.com/track/5baXzOMmD0sf26hayRqfqI) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Magnetised \(Acoustic\)](https://open.spotify.com/album/2UQjNLTufvDV6PKx2Kn8v2) | 4:52 |
 | 159 | [Champagne Supernova \- Acoustic](https://open.spotify.com/track/4u4a98HYVpQjhF66sRNMZK) | [Blame Jones](https://open.spotify.com/artist/4FCvYJ06Q8c4AScPG501KY) | [Covers Vol\. 1 \(Acoustic\)](https://open.spotify.com/album/2iKra1NUEayECHIBkJ2sz1) | 2:43 |
 
-Snapshot ID: `AAAGONkS75HCxmz/vL70UfcOwUHmwTMi`
+Snapshot ID: `AAAGO8156v2rvlTHmrJemCyf6r1RqYFq`

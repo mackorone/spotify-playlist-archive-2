@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 2 likes - 8,496 songs - 21 day 14 hr 16 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 2 likes - 8,497 songs - 21 day 14 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -8504,5 +8504,6 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 8494 | [Gold\-Triumph](https://open.spotify.com/track/1Oy5w51bmqgPdiMtXYdrks) | [ゴールドシップ \(CV\. 上田 瞳\)](https://open.spotify.com/artist/1tODxzD6whVt82RO4FgkFE), [ナカヤマフェスタ \(CV\. 下地紫野\)](https://open.spotify.com/artist/5ElmbJJz5azpUCGshekl0P), [オルフェーヴル \(CV\. 日笠陽子\)](https://open.spotify.com/artist/2YiY6vEoIiyVW3WyDnQNIM), [ドリームジャーニー \(CV\. 吉岡茉祐\)](https://open.spotify.com/artist/19YA4Q32cgKV9x8KNb1TmN), [フェノーメノ \(CV\. 日比優理香\)](https://open.spotify.com/artist/7LTAH878GVLq890fi9i9sS), [ステイゴールド \(CV\. 松田颯水\)](https://open.spotify.com/artist/1Sxd0rOFUWr9bXtiBNFEVe), [ウマ娘 プリティーダービー](https://open.spotify.com/artist/5pTLke5Yq8nN4yaPxLPzGd) | [『ウマ娘 プリティーダービー』WINNING LIVE 34](https://open.spotify.com/album/24OSekFqXQwxTNytF41cuo) | 3:37 |
 | 8495 | [Love Story](https://open.spotify.com/track/6nGeLlakfzlBcFdZXteDq7) | [Indila](https://open.spotify.com/artist/0FEJqmeLRzsXj8hgcZaAyB) | [Mini World](https://open.spotify.com/album/1r7XjAgjwlakmXC2GbPXjH) | 5:16 |
 | 8496 | [Dernière danse](https://open.spotify.com/track/65uoaqX5qcjXZRheAj1qQT) | [Indila](https://open.spotify.com/artist/0FEJqmeLRzsXj8hgcZaAyB) | [Mini World](https://open.spotify.com/album/1r7XjAgjwlakmXC2GbPXjH) | 3:33 |
+| 8497 | [Gwan Big up Urself](https://open.spotify.com/track/5RLIG9RLyMYhQGH7MI98ny) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Waking at Dawn](https://open.spotify.com/album/5rvBOTHohJZk2aQHPJi6eU) | 3:20 |
 
-Snapshot ID: `AAAOI7w6BilQqd7h84XHH1n/l56MICzo`
+Snapshot ID: `AAAOJFefnBKUrya9sldqJof/6WZVHodQ`

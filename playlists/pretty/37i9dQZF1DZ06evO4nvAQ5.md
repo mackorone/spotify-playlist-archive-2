@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nvAQ5.md) - [plain]
 
 > This is J Boog\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,678 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,675 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nvAQ5.md) - [plain]
 | 49 | [Natural Vibration \(Hawaiian Version\)](https://open.spotify.com/track/1irrn7c9q33lajtfvmN0eX) | [Irie Love](https://open.spotify.com/artist/74BpfOquem1y8pWMXcEaQn), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Bost & Bim](https://open.spotify.com/artist/43zfbzuXQncLzV9RyHy2EP), [Gappy Ranks](https://open.spotify.com/artist/4rkmaLySgI7sl9cKfJ3tT8) | [Natural Vibration \(Hawaiian Version\)](https://open.spotify.com/album/6oM449ilpSbesrHmOxWx0B) | 3:21 |
 | 50 | [Indigenous Life](https://open.spotify.com/track/5AVIMvDz4vEQGUG0PJZJpb) | [Fiji](https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Indigenous Life](https://open.spotify.com/album/3UDKThTuWf6wbVCITpd8K2) | 3:57 |
 
-Snapshot ID: `avZTAAAAAABoWHf3ii0/cZVwHNOIEDMI`
+Snapshot ID: `avekgAAAAADu4ip4htyf5a0hbHqbl1h+`

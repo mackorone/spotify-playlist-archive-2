@@ -1,6 +1,6 @@
 {
   "description": "Laid back cratedigger hip-hop from around the world.",
-  "num_followers": 1600116,
+  "num_followers": 1600196,
   "original_name": "Jazz Rap",
   "owner": {
     "name": "Spotify",
@@ -623,22 +623,6 @@
     {
       "added_at": "2026-11-13 05:02:02",
       "album": {
-        "name": "Live Laugh Love",
-        "url": "https://open.spotify.com/album/45aldsXQsGrQxpst6z2hfR"
-      },
-      "artists": [
-        {
-          "name": "Earl Sweatshirt",
-          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
-        }
-      ],
-      "duration_ms": 173999,
-      "name": "TOURMALINE",
-      "url": "https://open.spotify.com/track/7sam5WsFimXgFOCuEOc90x"
-    },
-    {
-      "added_at": "2026-11-13 05:02:02",
-      "album": {
         "name": "Nobody Cares Till Everybody Does",
         "url": "https://open.spotify.com/album/0TpMAy5WPGObUkL5LPuuMc"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 195821,
       "name": "Talk About Us",
       "url": "https://open.spotify.com/track/7GcCIkXh9Y4qDSXnMLJgHW"
+    },
+    {
+      "added_at": "2026-11-13 05:02:02",
+      "album": {
+        "name": "Live Laugh Love",
+        "url": "https://open.spotify.com/album/45aldsXQsGrQxpst6z2hfR"
+      },
+      "artists": [
+        {
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+        }
+      ],
+      "duration_ms": 173999,
+      "name": "TOURMALINE",
+      "url": "https://open.spotify.com/track/7sam5WsFimXgFOCuEOc90x"
     },
     {
       "added_at": "2026-11-13 05:02:02",
@@ -747,6 +747,46 @@
     {
       "added_at": "2026-11-13 05:02:02",
       "album": {
+        "name": "The Actual Proof",
+        "url": "https://open.spotify.com/album/2wXkMcPSKQz0NagH6RpAwe"
+      },
+      "artists": [
+        {
+          "name": "Awon",
+          "url": "https://open.spotify.com/artist/2M9OIHcdVSxhPVCYQ3z5Rf"
+        },
+        {
+          "name": "Phoniks",
+          "url": "https://open.spotify.com/artist/5YrpR5RPxUnjQYdNw3WkkH"
+        },
+        {
+          "name": "Tiff the Gift",
+          "url": "https://open.spotify.com/artist/6gsl4EK4nr9nzkSd17vIeO"
+        }
+      ],
+      "duration_ms": 163636,
+      "name": "The Rain",
+      "url": "https://open.spotify.com/track/1aI71C2hn6RGLhNPpD2Gew"
+    },
+    {
+      "added_at": "2026-11-13 05:02:02",
+      "album": {
+        "name": "GO:OD AM (10th Anniversary)",
+        "url": "https://open.spotify.com/album/39yycJHBG2dIjrRVXqyYFR"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 283226,
+      "name": "Cable Box",
+      "url": "https://open.spotify.com/track/6rzoDBnmTFt035KRtNRKRe"
+    },
+    {
+      "added_at": "2026-11-13 05:02:02",
+      "album": {
         "name": "Bo Jackson",
         "url": "https://open.spotify.com/album/1KHFw3hsKvNGGCkXKQMrbT"
       },
@@ -771,46 +811,6 @@
       "duration_ms": 233226,
       "name": "Photographic Memories (feat. Earl Sweatshirt)",
       "url": "https://open.spotify.com/track/3RRjRfsNJ4A5Y3qAgQgAjD"
-    },
-    {
-      "added_at": "2026-11-13 05:02:02",
-      "album": {
-        "name": "GO:OD AM (10th Anniversary)",
-        "url": "https://open.spotify.com/album/39yycJHBG2dIjrRVXqyYFR"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 283226,
-      "name": "Cable Box",
-      "url": "https://open.spotify.com/track/6rzoDBnmTFt035KRtNRKRe"
-    },
-    {
-      "added_at": "2026-11-13 05:02:02",
-      "album": {
-        "name": "The Actual Proof",
-        "url": "https://open.spotify.com/album/2wXkMcPSKQz0NagH6RpAwe"
-      },
-      "artists": [
-        {
-          "name": "Awon",
-          "url": "https://open.spotify.com/artist/2M9OIHcdVSxhPVCYQ3z5Rf"
-        },
-        {
-          "name": "Phoniks",
-          "url": "https://open.spotify.com/artist/5YrpR5RPxUnjQYdNw3WkkH"
-        },
-        {
-          "name": "Tiff the Gift",
-          "url": "https://open.spotify.com/artist/6gsl4EK4nr9nzkSd17vIeO"
-        }
-      ],
-      "duration_ms": 163636,
-      "name": "The Rain",
-      "url": "https://open.spotify.com/track/1aI71C2hn6RGLhNPpD2Gew"
     },
     {
       "added_at": "2026-11-13 05:02:02",
@@ -987,6 +987,22 @@
     {
       "added_at": "2026-11-13 05:02:02",
       "album": {
+        "name": "GOD flow.",
+        "url": "https://open.spotify.com/album/0eltnSKt09LSO7oefCOb9M"
+      },
+      "artists": [
+        {
+          "name": "jev.",
+          "url": "https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF"
+        }
+      ],
+      "duration_ms": 167427,
+      "name": "GOD flow.",
+      "url": "https://open.spotify.com/track/3vSKDJjGerPGmFlTrhZScl"
+    },
+    {
+      "added_at": "2026-11-13 05:02:02",
+      "album": {
         "name": "Summer Drop (feat. Anderson .Paak)",
         "url": "https://open.spotify.com/album/0OKZ5MM08qofVfUlyORPcU"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 168573,
       "name": "Summer Drop (feat. Anderson .Paak)",
       "url": "https://open.spotify.com/track/3z8DyeoD1bZOQtEYyCL2wn"
-    },
-    {
-      "added_at": "2026-11-13 05:02:02",
-      "album": {
-        "name": "GOD flow.",
-        "url": "https://open.spotify.com/album/0eltnSKt09LSO7oefCOb9M"
-      },
-      "artists": [
-        {
-          "name": "jev.",
-          "url": "https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF"
-        }
-      ],
-      "duration_ms": 167427,
-      "name": "GOD flow.",
-      "url": "https://open.spotify.com/track/3vSKDJjGerPGmFlTrhZScl"
     },
     {
       "added_at": "2026-11-13 05:02:02",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2026-11-13 05:02:02",
       "album": {
+        "name": "Drive Slow",
+        "url": "https://open.spotify.com/album/69O3UUTrlNmJYCd9jxJ4cv"
+      },
+      "artists": [
+        {
+          "name": "Nix Northwest",
+          "url": "https://open.spotify.com/artist/1nJX9DZHvd27lKDx8NM8Rt"
+        }
+      ],
+      "duration_ms": 221333,
+      "name": "Drive Slow",
+      "url": "https://open.spotify.com/track/1is1QB3ElS0UlaEYpIHyo0"
+    },
+    {
+      "added_at": "2026-11-13 05:02:02",
+      "album": {
         "name": "MEET ME ON WOODWARD TOO",
         "url": "https://open.spotify.com/album/0jHPCp9iry8OXCnuzHqTMw"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 131609,
       "name": "MR. ROMANCE",
       "url": "https://open.spotify.com/track/3hYgdrdb8b5BJbHiozjqSo"
-    },
-    {
-      "added_at": "2026-11-13 05:02:02",
-      "album": {
-        "name": "Drive Slow",
-        "url": "https://open.spotify.com/album/69O3UUTrlNmJYCd9jxJ4cv"
-      },
-      "artists": [
-        {
-          "name": "Nix Northwest",
-          "url": "https://open.spotify.com/artist/1nJX9DZHvd27lKDx8NM8Rt"
-        }
-      ],
-      "duration_ms": 221333,
-      "name": "Drive Slow",
-      "url": "https://open.spotify.com/track/1is1QB3ElS0UlaEYpIHyo0"
     },
     {
       "added_at": "2026-11-13 05:02:02",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2026-11-13 05:02:02",
       "album": {
-        "name": "RBT",
-        "url": "https://open.spotify.com/album/7tRd6qHR20ZfJKcGYGXbai"
-      },
-      "artists": [
-        {
-          "name": "Freddie Gibbs",
-          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
-        }
-      ],
-      "duration_ms": 147504,
-      "name": "Axxtion",
-      "url": "https://open.spotify.com/track/2Uv3ZRtLNlAGvKPPga3Cru"
-    },
-    {
-      "added_at": "2026-11-13 05:02:02",
-      "album": {
         "name": "You Don\u2019t Know",
         "url": "https://open.spotify.com/album/4NAKerTspkqyqopTNwT82Q"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 250450,
       "name": "You Don't Know",
       "url": "https://open.spotify.com/track/6qCPW6pWrUNIESY7fp34D9"
+    },
+    {
+      "added_at": "2026-11-13 05:02:02",
+      "album": {
+        "name": "RBT",
+        "url": "https://open.spotify.com/album/7tRd6qHR20ZfJKcGYGXbai"
+      },
+      "artists": [
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        }
+      ],
+      "duration_ms": 147504,
+      "name": "Axxtion",
+      "url": "https://open.spotify.com/track/2Uv3ZRtLNlAGvKPPga3Cru"
     },
     {
       "added_at": "2026-11-13 05:02:02",
@@ -1827,26 +1827,6 @@
     {
       "added_at": "2026-11-13 05:02:02",
       "album": {
-        "name": "Burnout 5",
-        "url": "https://open.spotify.com/album/4IhkrsR02UX0lXwquTTsjk"
-      },
-      "artists": [
-        {
-          "name": "Jay Worthy",
-          "url": "https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q"
-        },
-        {
-          "name": "LNDN DRGS",
-          "url": "https://open.spotify.com/artist/65d2Cw70rLuVwEZwQpHtFW"
-        }
-      ],
-      "duration_ms": 139073,
-      "name": "Calamari",
-      "url": "https://open.spotify.com/track/3nL8tfuOypFqXE3oy4fnvb"
-    },
-    {
-      "added_at": "2026-11-13 05:02:02",
-      "album": {
         "name": "IMMORTAL",
         "url": "https://open.spotify.com/album/319LHi4wWscQDHlrGrS4qI"
       },
@@ -1863,6 +1843,26 @@
       "duration_ms": 185298,
       "name": "IMMORTAL",
       "url": "https://open.spotify.com/track/6zTl1HyJZfPGzc7jjgcpeq"
+    },
+    {
+      "added_at": "2026-11-13 05:02:02",
+      "album": {
+        "name": "Burnout 5",
+        "url": "https://open.spotify.com/album/4IhkrsR02UX0lXwquTTsjk"
+      },
+      "artists": [
+        {
+          "name": "Jay Worthy",
+          "url": "https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q"
+        },
+        {
+          "name": "LNDN DRGS",
+          "url": "https://open.spotify.com/artist/65d2Cw70rLuVwEZwQpHtFW"
+        }
+      ],
+      "duration_ms": 139073,
+      "name": "Calamari",
+      "url": "https://open.spotify.com/track/3nL8tfuOypFqXE3oy4fnvb"
     },
     {
       "added_at": "2026-11-13 05:02:02",
@@ -1887,6 +1887,22 @@
     {
       "added_at": "2026-11-13 05:02:02",
       "album": {
+        "name": "Quiet Miles",
+        "url": "https://open.spotify.com/album/0I2NptQ0tO8IWotNVN8qOQ"
+      },
+      "artists": [
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        }
+      ],
+      "duration_ms": 153142,
+      "name": "Blueberry",
+      "url": "https://open.spotify.com/track/7GMLETHBUF8ZndeSvi99Uc"
+    },
+    {
+      "added_at": "2026-11-13 05:02:02",
+      "album": {
         "name": "Love N Drugs",
         "url": "https://open.spotify.com/album/06WRkCTuAtCNqckOGrrksm"
       },
@@ -1907,22 +1923,6 @@
       "duration_ms": 249331,
       "name": "Love N Drugs",
       "url": "https://open.spotify.com/track/3kGK2EcioWNqaj5rfsKN5b"
-    },
-    {
-      "added_at": "2026-11-13 05:02:02",
-      "album": {
-        "name": "Quiet Miles",
-        "url": "https://open.spotify.com/album/0I2NptQ0tO8IWotNVN8qOQ"
-      },
-      "artists": [
-        {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
-        }
-      ],
-      "duration_ms": 153142,
-      "name": "Blueberry",
-      "url": "https://open.spotify.com/track/7GMLETHBUF8ZndeSvi99Uc"
     },
     {
       "added_at": "2026-11-13 05:02:02",

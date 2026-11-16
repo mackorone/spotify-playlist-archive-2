@@ -1,6 +1,6 @@
 {
   "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: Dominika P\u0142onka",
-  "num_followers": 26784,
+  "num_followers": 26785,
   "original_name": "up next",
   "owner": {
     "name": "Spotify",
@@ -231,22 +231,6 @@
     {
       "added_at": "2026-11-12 23:01:43",
       "album": {
-        "name": "Fall In Love With Me",
-        "url": "https://open.spotify.com/album/0ubfpcm64JcRxzcswazYdj"
-      },
-      "artists": [
-        {
-          "name": "Basia Ma\u0142ecka",
-          "url": "https://open.spotify.com/artist/6ORk5XjNPdW5mPj04Ac5XY"
-        }
-      ],
-      "duration_ms": 168685,
-      "name": "Fall In Love With Me",
-      "url": "https://open.spotify.com/track/0jXng1BPR8uiwt4v0rb16F"
-    },
-    {
-      "added_at": "2026-11-12 23:01:43",
-      "album": {
         "name": "Ksi\u0119ga \u017bywio\u0142\u00f3w",
         "url": "https://open.spotify.com/album/4S1xRdbttN4GYwgJSfEhD2"
       },
@@ -283,18 +267,18 @@
     {
       "added_at": "2026-11-12 23:01:43",
       "album": {
-        "name": "Moment",
-        "url": "https://open.spotify.com/album/1SxgGDpTsjFDMHbmp23CNb"
+        "name": "Fall In Love With Me",
+        "url": "https://open.spotify.com/album/0ubfpcm64JcRxzcswazYdj"
       },
       "artists": [
         {
-          "name": "Kinga Wo\u0142oszyn",
-          "url": "https://open.spotify.com/artist/1Yb0ZnfUIx73l3N47KWmed"
+          "name": "Basia Ma\u0142ecka",
+          "url": "https://open.spotify.com/artist/6ORk5XjNPdW5mPj04Ac5XY"
         }
       ],
-      "duration_ms": 194630,
-      "name": "Moment",
-      "url": "https://open.spotify.com/track/5Z1RT5LfXWW7xTiKmYmKkX"
+      "duration_ms": 168685,
+      "name": "Fall In Love With Me",
+      "url": "https://open.spotify.com/track/0jXng1BPR8uiwt4v0rb16F"
     },
     {
       "added_at": "2026-11-12 23:01:43",
@@ -311,6 +295,22 @@
       "duration_ms": 210867,
       "name": "BY\u0141BYM W STANIE ZABI\u0106",
       "url": "https://open.spotify.com/track/6QlugLgOfTY2hX8nmXAGZo"
+    },
+    {
+      "added_at": "2026-11-12 23:01:43",
+      "album": {
+        "name": "Moment",
+        "url": "https://open.spotify.com/album/1SxgGDpTsjFDMHbmp23CNb"
+      },
+      "artists": [
+        {
+          "name": "Kinga Wo\u0142oszyn",
+          "url": "https://open.spotify.com/artist/1Yb0ZnfUIx73l3N47KWmed"
+        }
+      ],
+      "duration_ms": 194630,
+      "name": "Moment",
+      "url": "https://open.spotify.com/track/5Z1RT5LfXWW7xTiKmYmKkX"
     },
     {
       "added_at": "2026-11-12 23:01:43",
@@ -507,22 +507,6 @@
     {
       "added_at": "2026-11-12 23:01:43",
       "album": {
-        "name": "\u015bni\u0142o mi si\u0119, \u017ce si\u0119 nie zakocha\u0142am",
-        "url": "https://open.spotify.com/album/2cR7zPwNhEopnGOvmsxQDn"
-      },
-      "artists": [
-        {
-          "name": "zofia justy\u0144ska",
-          "url": "https://open.spotify.com/artist/54S3G0C8oIzH1Va5WpIHS4"
-        }
-      ],
-      "duration_ms": 173382,
-      "name": "\u015bni\u0142o mi si\u0119, \u017ce si\u0119 nie zakocha\u0142am",
-      "url": "https://open.spotify.com/track/1XUeJd5kGm6k7qRix6mWqg"
-    },
-    {
-      "added_at": "2026-11-12 23:01:43",
-      "album": {
         "name": "luvvv<3",
         "url": "https://open.spotify.com/album/4hGf7Tx2EYgdb4wzDI9oay"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 120685,
       "name": "luvvv<3",
       "url": "https://open.spotify.com/track/49duYLA0Ro10jlqgoPG7s3"
+    },
+    {
+      "added_at": "2026-11-12 23:01:43",
+      "album": {
+        "name": "\u015bni\u0142o mi si\u0119, \u017ce si\u0119 nie zakocha\u0142am",
+        "url": "https://open.spotify.com/album/2cR7zPwNhEopnGOvmsxQDn"
+      },
+      "artists": [
+        {
+          "name": "zofia justy\u0144ska",
+          "url": "https://open.spotify.com/artist/54S3G0C8oIzH1Va5WpIHS4"
+        }
+      ],
+      "duration_ms": 173382,
+      "name": "\u015bni\u0142o mi si\u0119, \u017ce si\u0119 nie zakocha\u0142am",
+      "url": "https://open.spotify.com/track/1XUeJd5kGm6k7qRix6mWqg"
     },
     {
       "added_at": "2026-11-12 23:01:43",
@@ -555,6 +555,22 @@
       "duration_ms": 133333,
       "name": "Away",
       "url": "https://open.spotify.com/track/2v3Xu59V4lqBZvYvL5a8fb"
+    },
+    {
+      "added_at": "2026-11-12 23:01:43",
+      "album": {
+        "name": "365 widok\u00f3w na przysz\u0142o\u015b\u0107",
+        "url": "https://open.spotify.com/album/5Dxrh7sIALavUQhIyGHLjq"
+      },
+      "artists": [
+        {
+          "name": "metro",
+          "url": "https://open.spotify.com/artist/5TuV5KauTXLFX1ODD7mEb0"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "365 widok\u00f3w na przysz\u0142o\u015b\u0107",
+      "url": "https://open.spotify.com/track/03ZOrxyNE9Bo9CVGCpNwDc"
     },
     {
       "added_at": "2026-11-12 23:01:43",
@@ -591,22 +607,6 @@
     {
       "added_at": "2026-11-12 23:01:43",
       "album": {
-        "name": "365 widok\u00f3w na przysz\u0142o\u015b\u0107",
-        "url": "https://open.spotify.com/album/5Dxrh7sIALavUQhIyGHLjq"
-      },
-      "artists": [
-        {
-          "name": "metro",
-          "url": "https://open.spotify.com/artist/5TuV5KauTXLFX1ODD7mEb0"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "365 widok\u00f3w na przysz\u0142o\u015b\u0107",
-      "url": "https://open.spotify.com/track/03ZOrxyNE9Bo9CVGCpNwDc"
-    },
-    {
-      "added_at": "2026-11-12 23:01:43",
-      "album": {
         "name": "Nie m\u00f3wcie mi jak mam kocha\u0107",
         "url": "https://open.spotify.com/album/6lgDBd3oRzkmCAqP5zAqJK"
       },
@@ -639,6 +639,22 @@
     {
       "added_at": "2026-11-12 23:01:43",
       "album": {
+        "name": "Parasolka",
+        "url": "https://open.spotify.com/album/1V2yU8T8TMLdo11yrkws3C"
+      },
+      "artists": [
+        {
+          "name": "Nita",
+          "url": "https://open.spotify.com/artist/1AGR5KsqctsAYgxxINt5xi"
+        }
+      ],
+      "duration_ms": 185986,
+      "name": "Parasolka",
+      "url": "https://open.spotify.com/track/7ArKXOg6lAKARi5xC1QkEZ"
+    },
+    {
+      "added_at": "2026-11-12 23:01:43",
+      "album": {
         "name": "sad, alone?",
         "url": "https://open.spotify.com/album/2xWTvIrhyf2SZg3hAIyh0q"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 161904,
       "name": "sad, alone?",
       "url": "https://open.spotify.com/track/6FTZamgX8SUlpTL9xKgMtZ"
-    },
-    {
-      "added_at": "2026-11-12 23:01:43",
-      "album": {
-        "name": "Parasolka",
-        "url": "https://open.spotify.com/album/1V2yU8T8TMLdo11yrkws3C"
-      },
-      "artists": [
-        {
-          "name": "Nita",
-          "url": "https://open.spotify.com/artist/1AGR5KsqctsAYgxxINt5xi"
-        }
-      ],
-      "duration_ms": 185986,
-      "name": "Parasolka",
-      "url": "https://open.spotify.com/track/7ArKXOg6lAKARi5xC1QkEZ"
     },
     {
       "added_at": "2026-11-12 23:01:43",
@@ -715,22 +715,6 @@
     {
       "added_at": "2026-11-12 23:01:43",
       "album": {
-        "name": "pelagia",
-        "url": "https://open.spotify.com/album/3Nd6SupiS3D55rVmXhJ9tS"
-      },
-      "artists": [
-        {
-          "name": "shama",
-          "url": "https://open.spotify.com/artist/1HhRfvC2bS9XeeiR5I5UmI"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "pelagia",
-      "url": "https://open.spotify.com/track/704ZzYrKrgg4tFLfrib3HR"
-    },
-    {
-      "added_at": "2026-11-12 23:01:43",
-      "album": {
         "name": "NO LUV",
         "url": "https://open.spotify.com/album/51xvWVptIEi1fE6i4VfyiW"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 125538,
       "name": "NO LUV",
       "url": "https://open.spotify.com/track/6u6DCwbtN56Gj35AGVv46M"
+    },
+    {
+      "added_at": "2026-11-12 23:01:43",
+      "album": {
+        "name": "pelagia",
+        "url": "https://open.spotify.com/album/3Nd6SupiS3D55rVmXhJ9tS"
+      },
+      "artists": [
+        {
+          "name": "shama",
+          "url": "https://open.spotify.com/artist/1HhRfvC2bS9XeeiR5I5UmI"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "pelagia",
+      "url": "https://open.spotify.com/track/704ZzYrKrgg4tFLfrib3HR"
     },
     {
       "added_at": "2026-11-12 23:01:43",
@@ -811,6 +811,22 @@
     {
       "added_at": "2026-11-12 23:01:43",
       "album": {
+        "name": "Kr\u0119ci si\u0119 ziemia",
+        "url": "https://open.spotify.com/album/6GCVq8w7OneerzKxZnx69b"
+      },
+      "artists": [
+        {
+          "name": "Leon Krze\u015bniak",
+          "url": "https://open.spotify.com/artist/1otG4oP2AJMnYAW0ufLKEU"
+        }
+      ],
+      "duration_ms": 152213,
+      "name": "Kr\u0119ci si\u0119 ziemia",
+      "url": "https://open.spotify.com/track/1PiLxgvgCjTIaXzXolXF3g"
+    },
+    {
+      "added_at": "2026-11-12 23:01:43",
+      "album": {
         "name": "mo\u017cemorze",
         "url": "https://open.spotify.com/album/0pny6F5xvOvZy3AI6hMdj3"
       },
@@ -835,22 +851,6 @@
     {
       "added_at": "2026-11-12 23:01:43",
       "album": {
-        "name": "Kr\u0119ci si\u0119 ziemia",
-        "url": "https://open.spotify.com/album/6GCVq8w7OneerzKxZnx69b"
-      },
-      "artists": [
-        {
-          "name": "Leon Krze\u015bniak",
-          "url": "https://open.spotify.com/artist/1otG4oP2AJMnYAW0ufLKEU"
-        }
-      ],
-      "duration_ms": 152213,
-      "name": "Kr\u0119ci si\u0119 ziemia",
-      "url": "https://open.spotify.com/track/1PiLxgvgCjTIaXzXolXF3g"
-    },
-    {
-      "added_at": "2026-11-12 23:01:43",
-      "album": {
         "name": "Pick me baby",
         "url": "https://open.spotify.com/album/1zrL1yJJxEpmZmL4MYJrxW"
       },
@@ -863,22 +863,6 @@
       "duration_ms": 203101,
       "name": "Pick me baby",
       "url": "https://open.spotify.com/track/7dnvgI7XcoUn4aR9dkDO1c"
-    },
-    {
-      "added_at": "2026-11-12 23:01:43",
-      "album": {
-        "name": "Ta\u0144cz i kochaj",
-        "url": "https://open.spotify.com/album/36fNyhTRkKcKRFEZ2u3wla"
-      },
-      "artists": [
-        {
-          "name": "Nita",
-          "url": "https://open.spotify.com/artist/1AGR5KsqctsAYgxxINt5xi"
-        }
-      ],
-      "duration_ms": 173454,
-      "name": "Ta\u0144cz i kochaj",
-      "url": "https://open.spotify.com/track/2JM1chl2LrZLp2O56Pgb82"
     },
     {
       "added_at": "2026-11-12 23:01:43",
@@ -903,6 +887,22 @@
       "duration_ms": 176500,
       "name": "Presja",
       "url": "https://open.spotify.com/track/2pmb9sfLcHPC0Eouk5zb6y"
+    },
+    {
+      "added_at": "2026-11-12 23:01:43",
+      "album": {
+        "name": "Ta\u0144cz i kochaj",
+        "url": "https://open.spotify.com/album/36fNyhTRkKcKRFEZ2u3wla"
+      },
+      "artists": [
+        {
+          "name": "Nita",
+          "url": "https://open.spotify.com/artist/1AGR5KsqctsAYgxxINt5xi"
+        }
+      ],
+      "duration_ms": 173454,
+      "name": "Ta\u0144cz i kochaj",
+      "url": "https://open.spotify.com/track/2JM1chl2LrZLp2O56Pgb82"
     },
     {
       "added_at": "2026-11-12 23:01:43",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2026-11-12 23:01:43",
       "album": {
+        "name": "DESZCZOWE DNI",
+        "url": "https://open.spotify.com/album/2pf5ReLVqOuttfhzAr4g4j"
+      },
+      "artists": [
+        {
+          "name": "FANKA",
+          "url": "https://open.spotify.com/artist/5wUmzMcZxXPMi2qpddL0wg"
+        }
+      ],
+      "duration_ms": 170769,
+      "name": "DESZCZOWE DNI",
+      "url": "https://open.spotify.com/track/0orsG9bSOEiG0EDB6ujAEU"
+    },
+    {
+      "added_at": "2026-11-12 23:01:43",
+      "album": {
         "name": "po co mi to???",
         "url": "https://open.spotify.com/album/7tPg9FLiEyxhsXvSGNKzvs"
       },
@@ -1067,6 +1083,22 @@
     {
       "added_at": "2026-11-12 23:01:43",
       "album": {
+        "name": "D\u0142o\u0144 trzymam w laysach",
+        "url": "https://open.spotify.com/album/5giWPfQeLZmdiBX4XvVHBg"
+      },
+      "artists": [
+        {
+          "name": "Frank Leen",
+          "url": "https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4"
+        }
+      ],
+      "duration_ms": 146280,
+      "name": "D\u0142o\u0144 trzymam w laysach",
+      "url": "https://open.spotify.com/track/13epEQaevgVluo5VW66M9t"
+    },
+    {
+      "added_at": "2026-11-12 23:01:43",
+      "album": {
         "name": "Jestem Dla Ciebie",
         "url": "https://open.spotify.com/album/73N7avhK4kNLUbSUH1uKQp"
       },
@@ -1087,18 +1119,18 @@
     {
       "added_at": "2026-11-12 23:01:43",
       "album": {
-        "name": "D\u0142o\u0144 trzymam w laysach",
-        "url": "https://open.spotify.com/album/5giWPfQeLZmdiBX4XvVHBg"
+        "name": "Ojciec",
+        "url": "https://open.spotify.com/album/6djqQIwf8OpYjzATZf7tCx"
       },
       "artists": [
         {
-          "name": "Frank Leen",
-          "url": "https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4"
+          "name": "Kamil Hussein",
+          "url": "https://open.spotify.com/artist/2MqM2nYRVxkDzcFsAxwD9A"
         }
       ],
-      "duration_ms": 146280,
-      "name": "D\u0142o\u0144 trzymam w laysach",
-      "url": "https://open.spotify.com/track/13epEQaevgVluo5VW66M9t"
+      "duration_ms": 246683,
+      "name": "Ojciec",
+      "url": "https://open.spotify.com/track/5w8OlXrEsSfusHUYWeWUmv"
     },
     {
       "added_at": "2026-11-12 23:01:43",
@@ -1123,38 +1155,6 @@
       "duration_ms": 194181,
       "name": "Zatrzymaj si\u0119",
       "url": "https://open.spotify.com/track/5gXek4hzwj136OrPEc7ZQK"
-    },
-    {
-      "added_at": "2026-11-12 23:01:43",
-      "album": {
-        "name": "niech nie \u017cyje nam",
-        "url": "https://open.spotify.com/album/2F4muJlqRh0Owmoxa8pgJW"
-      },
-      "artists": [
-        {
-          "name": "wi\u015bniosz",
-          "url": "https://open.spotify.com/artist/4UcIjZwZDS7epHIoNUtwzu"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "niech nie \u017cyje nam",
-      "url": "https://open.spotify.com/track/0sNuqgwVY7j4ArP5v8cBnR"
-    },
-    {
-      "added_at": "2026-11-12 23:01:43",
-      "album": {
-        "name": "Plamy",
-        "url": "https://open.spotify.com/album/13XuGo1xqZV4gfrD7rB72P"
-      },
-      "artists": [
-        {
-          "name": "Natalia Marczuk",
-          "url": "https://open.spotify.com/artist/5WQXxSI1Mw50K1bAo7rd62"
-        }
-      ],
-      "duration_ms": 211705,
-      "name": "\u017bebro",
-      "url": "https://open.spotify.com/track/5lkBxACWDaBkG91TtfGDUk"
     }
   ],
   "unique_name": "up next",

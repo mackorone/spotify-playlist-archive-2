@@ -1,6 +1,6 @@
 {
   "description": "Les nouveaut\u00e9s rap franco sans fronti\u00e8res. Photo: SDM",
-  "num_followers": 25146,
+  "num_followers": 25181,
   "original_name": "Rap francophone",
   "owner": {
     "name": "Spotify",
@@ -447,18 +447,22 @@
     {
       "added_at": "2026-11-13 20:22:07",
       "album": {
-        "name": "WpointM",
-        "url": "https://open.spotify.com/album/3DQjIYAljCg3htgIMPjLf8"
+        "name": "Noum\u00e9a",
+        "url": "https://open.spotify.com/album/7lqhAywP57SUAnUBbR803I"
       },
       "artists": [
         {
-          "name": "Tiakola",
-          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+          "name": "Jok'air",
+          "url": "https://open.spotify.com/artist/2kIs76sEGiulKeqetZq6ua"
+        },
+        {
+          "name": "Linema",
+          "url": "https://open.spotify.com/artist/1JLLmatqNVWI9Ta5bIEvbl"
         }
       ],
-      "duration_ms": 180186,
-      "name": "C\u0153ur De Pirate",
-      "url": "https://open.spotify.com/track/3KfdpLKJxBGrUnCw8KBOCR"
+      "duration_ms": 228931,
+      "name": "Noum\u00e9a",
+      "url": "https://open.spotify.com/track/6bTiBd9SYQxF4MbELTekG7"
     },
     {
       "added_at": "2026-11-13 20:22:07",
@@ -479,22 +483,18 @@
     {
       "added_at": "2026-11-13 20:22:07",
       "album": {
-        "name": "Noum\u00e9a",
-        "url": "https://open.spotify.com/album/7lqhAywP57SUAnUBbR803I"
+        "name": "WpointM",
+        "url": "https://open.spotify.com/album/3DQjIYAljCg3htgIMPjLf8"
       },
       "artists": [
         {
-          "name": "Jok'air",
-          "url": "https://open.spotify.com/artist/2kIs76sEGiulKeqetZq6ua"
-        },
-        {
-          "name": "Linema",
-          "url": "https://open.spotify.com/artist/1JLLmatqNVWI9Ta5bIEvbl"
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
         }
       ],
-      "duration_ms": 228931,
-      "name": "Noum\u00e9a",
-      "url": "https://open.spotify.com/track/6bTiBd9SYQxF4MbELTekG7"
+      "duration_ms": 180186,
+      "name": "C\u0153ur De Pirate",
+      "url": "https://open.spotify.com/track/3KfdpLKJxBGrUnCw8KBOCR"
     },
     {
       "added_at": "2026-11-13 20:22:07",
@@ -715,22 +715,6 @@
     {
       "added_at": "2026-11-13 20:22:07",
       "album": {
-        "name": "Belvedere",
-        "url": "https://open.spotify.com/album/5YnbCL9UKWTNZXrISGZV8h"
-      },
-      "artists": [
-        {
-          "name": "Bello&Dallas",
-          "url": "https://open.spotify.com/artist/2zW6nGPGBEaGNENvqaw9lo"
-        }
-      ],
-      "duration_ms": 123870,
-      "name": "Belvedere",
-      "url": "https://open.spotify.com/track/5HjHYoZgZCeNvxG0IgmSNE"
-    },
-    {
-      "added_at": "2026-11-13 20:22:07",
-      "album": {
         "name": "LOVE YOU",
         "url": "https://open.spotify.com/album/3m0dYhTtuAIIwlaTofJlkq"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 147692,
       "name": "LOVE YOU",
       "url": "https://open.spotify.com/track/35eK52MQkpWLxwyIAGKKXT"
+    },
+    {
+      "added_at": "2026-11-13 20:22:07",
+      "album": {
+        "name": "Belvedere",
+        "url": "https://open.spotify.com/album/5YnbCL9UKWTNZXrISGZV8h"
+      },
+      "artists": [
+        {
+          "name": "Bello&Dallas",
+          "url": "https://open.spotify.com/artist/2zW6nGPGBEaGNENvqaw9lo"
+        }
+      ],
+      "duration_ms": 123870,
+      "name": "Belvedere",
+      "url": "https://open.spotify.com/track/5HjHYoZgZCeNvxG0IgmSNE"
     },
     {
       "added_at": "2026-11-13 20:22:07",
@@ -1155,6 +1155,26 @@
     {
       "added_at": "2026-11-13 20:22:07",
       "album": {
+        "name": "Amiri",
+        "url": "https://open.spotify.com/album/6hV6hjrXHXpACouXF1LeAa"
+      },
+      "artists": [
+        {
+          "name": "Le Crime",
+          "url": "https://open.spotify.com/artist/00edlcHg3ILdHtrYL54bxX"
+        },
+        {
+          "name": "Gambi",
+          "url": "https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ"
+        }
+      ],
+      "duration_ms": 176190,
+      "name": "Amiri",
+      "url": "https://open.spotify.com/track/1rRMf5yOHijWyYICSRkxxT"
+    },
+    {
+      "added_at": "2026-11-13 20:22:07",
+      "album": {
         "name": "Pow Pow / Allo Doudou",
         "url": "https://open.spotify.com/album/5mnRbWynBTViMMW10m1nlB"
       },
@@ -1175,26 +1195,6 @@
       "duration_ms": 219583,
       "name": "Pow Pow / Allo Doudou",
       "url": "https://open.spotify.com/track/4hTc2VnvYoOJwS8QXXhT0p"
-    },
-    {
-      "added_at": "2026-11-13 20:22:07",
-      "album": {
-        "name": "Amiri",
-        "url": "https://open.spotify.com/album/6hV6hjrXHXpACouXF1LeAa"
-      },
-      "artists": [
-        {
-          "name": "Le Crime",
-          "url": "https://open.spotify.com/artist/00edlcHg3ILdHtrYL54bxX"
-        },
-        {
-          "name": "Gambi",
-          "url": "https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ"
-        }
-      ],
-      "duration_ms": 176190,
-      "name": "Amiri",
-      "url": "https://open.spotify.com/track/1rRMf5yOHijWyYICSRkxxT"
     },
     {
       "added_at": "2026-11-13 20:22:07",
@@ -1303,26 +1303,6 @@
     {
       "added_at": "2026-11-13 20:22:07",
       "album": {
-        "name": "T'\u00e9tais o\u00f9 (feat. Morad)",
-        "url": "https://open.spotify.com/album/1Fbqsi2HxBGmopqqBQ6iBt"
-      },
-      "artists": [
-        {
-          "name": "Gradur",
-          "url": "https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl"
-        },
-        {
-          "name": "Morad",
-          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
-        }
-      ],
-      "duration_ms": 177230,
-      "name": "T'\u00e9tais o\u00f9 (feat. Morad)",
-      "url": "https://open.spotify.com/track/58o2zTwld2GgP7RQ2BYU94"
-    },
-    {
-      "added_at": "2026-11-13 20:22:07",
-      "album": {
         "name": "Casus Belli",
         "url": "https://open.spotify.com/album/14hA41kJGeJi4MfY3EcMqk"
       },
@@ -1343,18 +1323,22 @@
     {
       "added_at": "2026-11-13 20:22:07",
       "album": {
-        "name": "PEACE & LOVE",
-        "url": "https://open.spotify.com/album/6worZ4R26M8bcFOM1shkx8"
+        "name": "T'\u00e9tais o\u00f9 (feat. Morad)",
+        "url": "https://open.spotify.com/album/1Fbqsi2HxBGmopqqBQ6iBt"
       },
       "artists": [
         {
-          "name": "TIF",
-          "url": "https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH"
+          "name": "Gradur",
+          "url": "https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl"
+        },
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
         }
       ],
-      "duration_ms": 371519,
-      "name": "PEACE & LOVE",
-      "url": "https://open.spotify.com/track/4WSjxXJNib6j3DJt8NWcD6"
+      "duration_ms": 177230,
+      "name": "T'\u00e9tais o\u00f9 (feat. Morad)",
+      "url": "https://open.spotify.com/track/58o2zTwld2GgP7RQ2BYU94"
     },
     {
       "added_at": "2026-11-13 20:22:07",
@@ -1371,6 +1355,22 @@
       "duration_ms": 262557,
       "name": "Le Bon Samaritain",
       "url": "https://open.spotify.com/track/4FDa3VkaNbBXEx1oo7CwC6"
+    },
+    {
+      "added_at": "2026-11-13 20:22:07",
+      "album": {
+        "name": "PEACE & LOVE",
+        "url": "https://open.spotify.com/album/6worZ4R26M8bcFOM1shkx8"
+      },
+      "artists": [
+        {
+          "name": "TIF",
+          "url": "https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH"
+        }
+      ],
+      "duration_ms": 371519,
+      "name": "PEACE & LOVE",
+      "url": "https://open.spotify.com/track/4WSjxXJNib6j3DJt8NWcD6"
     },
     {
       "added_at": "2026-11-13 20:22:07",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2026-11-13 20:22:07",
       "album": {
+        "name": "RM-035",
+        "url": "https://open.spotify.com/album/2xi0f1E2qZiRlOpBYroJu2"
+      },
+      "artists": [
+        {
+          "name": "Mous-K",
+          "url": "https://open.spotify.com/artist/3Gcn7eKPiTv6jwqoyIhVMO"
+        }
+      ],
+      "duration_ms": 163807,
+      "name": "RM-035",
+      "url": "https://open.spotify.com/track/4oOzQaMMsqN4LRsFBEMTLw"
+    },
+    {
+      "added_at": "2026-11-13 20:22:07",
+      "album": {
         "name": "Cin\u00e9ma",
         "url": "https://open.spotify.com/album/2lmv8sms6t9KNdpVAlL8Ot"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 192000,
       "name": "Cin\u00e9ma",
       "url": "https://open.spotify.com/track/59NwklVbw1kpggri6gWN9p"
-    },
-    {
-      "added_at": "2026-11-13 20:22:07",
-      "album": {
-        "name": "RM-035",
-        "url": "https://open.spotify.com/album/2xi0f1E2qZiRlOpBYroJu2"
-      },
-      "artists": [
-        {
-          "name": "Mous-K",
-          "url": "https://open.spotify.com/artist/3Gcn7eKPiTv6jwqoyIhVMO"
-        }
-      ],
-      "duration_ms": 163807,
-      "name": "RM-035",
-      "url": "https://open.spotify.com/track/4oOzQaMMsqN4LRsFBEMTLw"
     },
     {
       "added_at": "2026-11-13 20:22:07",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2026-11-13 20:22:07",
       "album": {
+        "name": "Mati\u00e8re Noire",
+        "url": "https://open.spotify.com/album/7zfXEgQCawBuwXsG5ycP4A"
+      },
+      "artists": [
+        {
+          "name": "Djadja & Dinaz",
+          "url": "https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v"
+        }
+      ],
+      "duration_ms": 210091,
+      "name": "Maman ne dort pas",
+      "url": "https://open.spotify.com/track/13s4WADIFnSBfLYJ8KW4hr"
+    },
+    {
+      "added_at": "2026-11-13 20:22:07",
+      "album": {
         "name": "EXTASIAAAAA",
         "url": "https://open.spotify.com/album/3UgEqtgcM9rzK7wMmnwmTq"
       },
@@ -1543,26 +1559,6 @@
       "duration_ms": 171776,
       "name": "L\u00c9 TAL",
       "url": "https://open.spotify.com/track/3jL0jnNJLEC2zUHBtILCXS"
-    },
-    {
-      "added_at": "2026-11-13 20:22:07",
-      "album": {
-        "name": "1981 - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/4g5gIL6vDqvTJ2fywP1oVy"
-      },
-      "artists": [
-        {
-          "name": "La Fouine",
-          "url": "https://open.spotify.com/artist/6QS84S3i4gwdEKqWoTtDLd"
-        },
-        {
-          "name": "COLORS",
-          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
-        }
-      ],
-      "duration_ms": 171242,
-      "name": "1981 - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/4DQeKvQEgzdRU0NeG53k83"
     },
     {
       "added_at": "2026-11-13 20:22:07",
@@ -1603,6 +1599,26 @@
     {
       "added_at": "2026-11-13 20:22:07",
       "album": {
+        "name": "1981 - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/4g5gIL6vDqvTJ2fywP1oVy"
+      },
+      "artists": [
+        {
+          "name": "La Fouine",
+          "url": "https://open.spotify.com/artist/6QS84S3i4gwdEKqWoTtDLd"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+        }
+      ],
+      "duration_ms": 171242,
+      "name": "1981 - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/4DQeKvQEgzdRU0NeG53k83"
+    },
+    {
+      "added_at": "2026-11-13 20:22:07",
+      "album": {
         "name": "Savage",
         "url": "https://open.spotify.com/album/7F1ev5jdIskBh4UhwrQCua"
       },
@@ -1615,22 +1631,6 @@
       "duration_ms": 205000,
       "name": "Savage",
       "url": "https://open.spotify.com/track/70d4L0yzI02bOylHPHI77m"
-    },
-    {
-      "added_at": "2026-11-13 20:22:07",
-      "album": {
-        "name": "Mati\u00e8re Noire",
-        "url": "https://open.spotify.com/album/7zfXEgQCawBuwXsG5ycP4A"
-      },
-      "artists": [
-        {
-          "name": "Djadja & Dinaz",
-          "url": "https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v"
-        }
-      ],
-      "duration_ms": 210091,
-      "name": "Maman ne dort pas",
-      "url": "https://open.spotify.com/track/13s4WADIFnSBfLYJ8KW4hr"
     },
     {
       "added_at": "2026-11-13 20:22:07",
@@ -1723,6 +1723,22 @@
     {
       "added_at": "2026-11-13 20:22:07",
       "album": {
+        "name": "Empire",
+        "url": "https://open.spotify.com/album/3r1fvBANzOiciHjLmrjzh2"
+      },
+      "artists": [
+        {
+          "name": "Bigflo & Oli",
+          "url": "https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs"
+        }
+      ],
+      "duration_ms": 245581,
+      "name": "Empire",
+      "url": "https://open.spotify.com/track/3NBxk7pMkRgLEznxMcFwFs"
+    },
+    {
+      "added_at": "2026-11-13 20:22:07",
+      "album": {
         "name": "Mentir au psy",
         "url": "https://open.spotify.com/album/5ZyA2oZrTciyWMJJOjtVMG"
       },
@@ -1755,22 +1771,6 @@
       "duration_ms": 160320,
       "name": "FENG SHUI",
       "url": "https://open.spotify.com/track/5ZHK4qZbm9JR1AZ8FeePna"
-    },
-    {
-      "added_at": "2026-11-13 20:22:07",
-      "album": {
-        "name": "Empire",
-        "url": "https://open.spotify.com/album/3r1fvBANzOiciHjLmrjzh2"
-      },
-      "artists": [
-        {
-          "name": "Bigflo & Oli",
-          "url": "https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs"
-        }
-      ],
-      "duration_ms": 245581,
-      "name": "Empire",
-      "url": "https://open.spotify.com/track/3NBxk7pMkRgLEznxMcFwFs"
     },
     {
       "added_at": "2026-11-13 20:22:07",

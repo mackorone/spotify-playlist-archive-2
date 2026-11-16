@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women at full volume with mindfreakk! from Thailand.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,020,163 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,020,067 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 12 | [Ice In My OJ](https://open.spotify.com/track/21cbaIB8ks3dag4cqiG4zz) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Ego Death At A Bachelorette Party](https://open.spotify.com/album/3MROTtttK946gHaTkXeP8b) | 2:11 |
 | 13 | [Broken chair](https://open.spotify.com/track/7tkVtE5Tf2vM2W4oZD0hqd) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Broken chair](https://open.spotify.com/album/6BuY0ylaghbGdm5ohYl30w) | 3:40 |
 | 14 | [Dust Bowl](https://open.spotify.com/track/7aamc4vRYmHLYI2aKTDjdJ) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Willoughby Tucker, I'll Always Love You](https://open.spotify.com/album/3iSPMfhw4P30tFrROrbkFm) | 6:26 |
-| 15 | [Çok Kez](https://open.spotify.com/track/5uyuGxjbQuEXrJP9hg3sNG) | [Elif Buse Doğan](https://open.spotify.com/artist/56hgP8k96P8s7hQyMvXCHS) | [Çok Kez](https://open.spotify.com/album/1HkOsk92wv3A9qdn6Tbvll) | 2:44 |
-| 16 | [If I Let You](https://open.spotify.com/track/2VR0LfCTo1wydVWvhseMSM) | [The Womack Sisters](https://open.spotify.com/artist/6BjLHAiun9TeqC55KB3L6s) | [The Womack Sisters](https://open.spotify.com/album/7DM9ZgCLCWorHqBB1GsjRh) | 3:58 |
+| 15 | [If I Let You](https://open.spotify.com/track/2VR0LfCTo1wydVWvhseMSM) | [The Womack Sisters](https://open.spotify.com/artist/6BjLHAiun9TeqC55KB3L6s) | [The Womack Sisters](https://open.spotify.com/album/7DM9ZgCLCWorHqBB1GsjRh) | 3:58 |
+| 16 | [Çok Kez](https://open.spotify.com/track/5uyuGxjbQuEXrJP9hg3sNG) | [Elif Buse Doğan](https://open.spotify.com/artist/56hgP8k96P8s7hQyMvXCHS) | [Çok Kez](https://open.spotify.com/album/1HkOsk92wv3A9qdn6Tbvll) | 2:44 |
 | 17 | [Maheya \| Coke Studio Nu.WAV](https://open.spotify.com/track/6M9r6baHDuTaXREdS1Li47) | [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS), [AARYAN](https://open.spotify.com/artist/3b1957PW1iBjUULrNYSohi), [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C) | [Maheya \| Coke Studio Nu.WAV](https://open.spotify.com/album/0il0NJaJAT6DIG5JedUIOK) | 3:38 |
 | 18 | [Bulvár](https://open.spotify.com/track/5qUR1466s8i5FvQnVD0oUy) | [Nagy Bogi](https://open.spotify.com/artist/3VgOKuwKvAYU4aT7atESfM) | [Bulvár](https://open.spotify.com/album/06MpMOPmdvq4tlu8JzXxkn) | 2:08 |
 | 19 | [House featuring John Cale](https://open.spotify.com/track/15ApEgs3gaAMKOEj2vzH1p) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW) | [Wuthering Heights](https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e) | 3:15 |

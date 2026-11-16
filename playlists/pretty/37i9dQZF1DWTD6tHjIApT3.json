@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002A Collection of Songs by Japanese Women Vocalists.  cover: \u9ad8\u7551\u5145\u5e0c",
-  "num_followers": 139776,
+  "num_followers": 139774,
   "original_name": "Women's Voice",
   "owner": {
     "name": "Spotify",
@@ -507,8 +507,8 @@
     {
       "added_at": "2026-11-10 15:00:38",
       "album": {
-        "name": "Love me forever!",
-        "url": "https://open.spotify.com/album/66nqLuytRYSI9We2q35XOG"
+        "name": "\u597d\u304d\u3067\u3044\u3066",
+        "url": "https://open.spotify.com/album/4hoLpBzQMsqeju6vB4uuEl"
       },
       "artists": [
         {
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
         }
       ],
-      "duration_ms": 249333,
-      "name": "Love me forever!",
-      "url": "https://open.spotify.com/track/2j7w4Q2yMxa9ekzCdGhKUc"
+      "duration_ms": 245262,
+      "name": "\u597d\u304d\u3067\u3044\u3066",
+      "url": "https://open.spotify.com/track/1R5910Ugt25ZWIJxkDdfIa"
     },
     {
       "added_at": "2026-11-10 15:00:38",
@@ -587,8 +587,8 @@
     {
       "added_at": "2026-11-10 15:00:38",
       "album": {
-        "name": "\u597d\u304d\u3067\u3044\u3066",
-        "url": "https://open.spotify.com/album/4hoLpBzQMsqeju6vB4uuEl"
+        "name": "Love me forever!",
+        "url": "https://open.spotify.com/album/66nqLuytRYSI9We2q35XOG"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
         }
       ],
-      "duration_ms": 245262,
-      "name": "\u597d\u304d\u3067\u3044\u3066",
-      "url": "https://open.spotify.com/track/1R5910Ugt25ZWIJxkDdfIa"
+      "duration_ms": 249333,
+      "name": "Love me forever!",
+      "url": "https://open.spotify.com/track/2j7w4Q2yMxa9ekzCdGhKUc"
     },
     {
       "added_at": "2026-11-10 15:00:38",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2026-11-10 15:00:38",
       "album": {
+        "name": "\u6700\u5f8c\u306b\u71b1\u3044\u65e5\u3005\u3092\u72c2\u308f\u3057\u304d\u60f3\u3044\u3067",
+        "url": "https://open.spotify.com/album/4q5OSaJVTrfLYcVeOOQAbM"
+      },
+      "artists": [
+        {
+          "name": "aiko",
+          "url": "https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK"
+        }
+      ],
+      "duration_ms": 317853,
+      "name": "\u541b\u306e\u8a00\u3046\u901a\u308a",
+      "url": "https://open.spotify.com/track/5vqDHRYUy6l9fVtToRCzxf"
+    },
+    {
+      "added_at": "2026-11-10 15:00:38",
+      "album": {
         "name": "Confetti",
         "url": "https://open.spotify.com/album/5PbF9PSkjUKeACBW4E8Csc"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 158106,
       "name": "Confetti",
       "url": "https://open.spotify.com/track/5BSMdIyRjgYKO6U6QuT9ro"
-    },
-    {
-      "added_at": "2026-11-10 15:00:38",
-      "album": {
-        "name": "Kill or Kiss",
-        "url": "https://open.spotify.com/album/0oMQOKCOH1errI6cG7HVGn"
-      },
-      "artists": [
-        {
-          "name": "\u5e73\u624b\u53cb\u68a8\u5948",
-          "url": "https://open.spotify.com/artist/1sv5H7vUHgpozdrgkL1n4k"
-        }
-      ],
-      "duration_ms": 185116,
-      "name": "Kill or Kiss",
-      "url": "https://open.spotify.com/track/2kLQYErt8QPd4cg2axB7in"
     },
     {
       "added_at": "2026-11-10 15:00:38",
@@ -1075,18 +1075,18 @@
     {
       "added_at": "2026-11-10 15:00:38",
       "album": {
-        "name": "\u6700\u5f8c\u306b\u71b1\u3044\u65e5\u3005\u3092\u72c2\u308f\u3057\u304d\u60f3\u3044\u3067",
-        "url": "https://open.spotify.com/album/4q5OSaJVTrfLYcVeOOQAbM"
+        "name": "Kill or Kiss",
+        "url": "https://open.spotify.com/album/0oMQOKCOH1errI6cG7HVGn"
       },
       "artists": [
         {
-          "name": "aiko",
-          "url": "https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK"
+          "name": "\u5e73\u624b\u53cb\u68a8\u5948",
+          "url": "https://open.spotify.com/artist/1sv5H7vUHgpozdrgkL1n4k"
         }
       ],
-      "duration_ms": 317853,
-      "name": "\u541b\u306e\u8a00\u3046\u901a\u308a",
-      "url": "https://open.spotify.com/track/5vqDHRYUy6l9fVtToRCzxf"
+      "duration_ms": 185116,
+      "name": "Kill or Kiss",
+      "url": "https://open.spotify.com/track/2kLQYErt8QPd4cg2axB7in"
     },
     {
       "added_at": "2026-11-10 15:00:38",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2026-11-10 15:00:38",
       "album": {
+        "name": "LOST",
+        "url": "https://open.spotify.com/album/0MzeVNFK9IxQkBsI6Pwmgz"
+      },
+      "artists": [
+        {
+          "name": "Maya",
+          "url": "https://open.spotify.com/artist/3hYoE1ytUckiWOUW0HHgm4"
+        }
+      ],
+      "duration_ms": 221930,
+      "name": "LOST",
+      "url": "https://open.spotify.com/track/3i73Krs2ss4MpLkiuo3jiw"
+    },
+    {
+      "added_at": "2026-11-10 15:00:38",
+      "album": {
         "name": "\u590f\u8749",
         "url": "https://open.spotify.com/album/7ilZipPln1gAgFYk7d2fbu"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 199080,
       "name": "\u58f0\u306e\u8ecc\u8de1",
       "url": "https://open.spotify.com/track/0N5YLuTIySy1APi9rmSGfj"
-    },
-    {
-      "added_at": "2026-11-10 15:00:38",
-      "album": {
-        "name": "LOST",
-        "url": "https://open.spotify.com/album/0MzeVNFK9IxQkBsI6Pwmgz"
-      },
-      "artists": [
-        {
-          "name": "Maya",
-          "url": "https://open.spotify.com/artist/3hYoE1ytUckiWOUW0HHgm4"
-        }
-      ],
-      "duration_ms": 221930,
-      "name": "LOST",
-      "url": "https://open.spotify.com/track/3i73Krs2ss4MpLkiuo3jiw"
     },
     {
       "added_at": "2026-11-10 15:00:38",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2026-11-10 15:00:38",
       "album": {
-        "name": "\u547c\u3073\u3059\u3066",
-        "url": "https://open.spotify.com/album/6JPAfMvKxccCGS7LPVowxE"
-      },
-      "artists": [
-        {
-          "name": "\u4e43\u7d2b",
-          "url": "https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl"
-        }
-      ],
-      "duration_ms": 194864,
-      "name": "\u547c\u3073\u3059\u3066",
-      "url": "https://open.spotify.com/track/0NsG8pKxHHaVPnvHf1Rqtf"
-    },
-    {
-      "added_at": "2026-11-10 15:00:38",
-      "album": {
         "name": "No Epilogue",
         "url": "https://open.spotify.com/album/6ZhdDIKUvLWZQMyQkcwey3"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 221800,
       "name": "No Epilogue",
       "url": "https://open.spotify.com/track/3hGtbgqDrLBS6CeOpWiEuX"
+    },
+    {
+      "added_at": "2026-11-10 15:00:38",
+      "album": {
+        "name": "\u547c\u3073\u3059\u3066",
+        "url": "https://open.spotify.com/album/6JPAfMvKxccCGS7LPVowxE"
+      },
+      "artists": [
+        {
+          "name": "\u4e43\u7d2b",
+          "url": "https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl"
+        }
+      ],
+      "duration_ms": 194864,
+      "name": "\u547c\u3073\u3059\u3066",
+      "url": "https://open.spotify.com/track/0NsG8pKxHHaVPnvHf1Rqtf"
     },
     {
       "added_at": "2026-11-10 15:00:38",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2026-11-10 15:00:38",
       "album": {
-        "name": "\u30e1\u30f3\u30bf\u30eb\u30ec\u30f3\u30bf\u30eb",
-        "url": "https://open.spotify.com/album/48VLTTkyHcbwfvyR0B74gB"
-      },
-      "artists": [
-        {
-          "name": "\u7d2b \u4eca",
-          "url": "https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY"
-        }
-      ],
-      "duration_ms": 193430,
-      "name": "\u30e1\u30f3\u30bf\u30eb\u30ec\u30f3\u30bf\u30eb",
-      "url": "https://open.spotify.com/track/3nIeP2B5O1uwKeKVUiYjo6"
-    },
-    {
-      "added_at": "2026-11-10 15:00:38",
-      "album": {
         "name": "\u508d\u3089\u306b\u3066\u6708\u591c",
         "url": "https://open.spotify.com/album/6Wxykt1HUiXg9UT438LVqJ"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 264284,
       "name": "\u508d\u3089\u306b\u3066\u6708\u591c",
       "url": "https://open.spotify.com/track/0o73gjLRlk3XPivSBvZGAV"
+    },
+    {
+      "added_at": "2026-11-10 15:00:38",
+      "album": {
+        "name": "\u30e1\u30f3\u30bf\u30eb\u30ec\u30f3\u30bf\u30eb",
+        "url": "https://open.spotify.com/album/48VLTTkyHcbwfvyR0B74gB"
+      },
+      "artists": [
+        {
+          "name": "\u7d2b \u4eca",
+          "url": "https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY"
+        }
+      ],
+      "duration_ms": 193430,
+      "name": "\u30e1\u30f3\u30bf\u30eb\u30ec\u30f3\u30bf\u30eb",
+      "url": "https://open.spotify.com/track/3nIeP2B5O1uwKeKVUiYjo6"
     },
     {
       "added_at": "2026-11-10 15:00:38",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2026-11-10 15:00:38",
       "album": {
-        "name": "\u30de\u30a4\u30aa\u30fc\u30c0\u30fc",
-        "url": "https://open.spotify.com/album/1r71UAmUUwTDy9tVmuv3p2"
-      },
-      "artists": [
-        {
-          "name": "Leina",
-          "url": "https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae"
-        }
-      ],
-      "duration_ms": 217392,
-      "name": "\u30de\u30a4\u30aa\u30fc\u30c0\u30fc",
-      "url": "https://open.spotify.com/track/5PFQKYtkC4B1St8GSen6mk"
-    },
-    {
-      "added_at": "2026-11-10 15:00:38",
-      "album": {
         "name": "\u4eca\u65e5\u3068\u3044\u3046\u65e5\u3092",
         "url": "https://open.spotify.com/album/4BAoQY8BW3PTfjVUeH1Pfw"
       },
@@ -1595,18 +1579,18 @@
     {
       "added_at": "2026-11-10 15:00:38",
       "album": {
-        "name": "Power of Love",
-        "url": "https://open.spotify.com/album/46Miq2i2gRZrOT48q9rLBQ"
+        "name": "\u30de\u30a4\u30aa\u30fc\u30c0\u30fc",
+        "url": "https://open.spotify.com/album/1r71UAmUUwTDy9tVmuv3p2"
       },
       "artists": [
         {
-          "name": "Kana Nishino",
-          "url": "https://open.spotify.com/artist/4DDoAL8n6ob19r3jOZEbJI"
+          "name": "Leina",
+          "url": "https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae"
         }
       ],
-      "duration_ms": 220172,
-      "name": "Power of Love",
-      "url": "https://open.spotify.com/track/2FIj9489cK9Mi3LINRHvJ9"
+      "duration_ms": 217392,
+      "name": "\u30de\u30a4\u30aa\u30fc\u30c0\u30fc",
+      "url": "https://open.spotify.com/track/5PFQKYtkC4B1St8GSen6mk"
     },
     {
       "added_at": "2026-11-10 15:00:38",
@@ -1623,6 +1607,22 @@
       "duration_ms": 259771,
       "name": "\u79c1\u304c\u9078\u3093\u3060\u3082\u306e",
       "url": "https://open.spotify.com/track/0pKUmPHhQTGUb2JY99bkEX"
+    },
+    {
+      "added_at": "2026-11-10 15:00:38",
+      "album": {
+        "name": "Power of Love",
+        "url": "https://open.spotify.com/album/46Miq2i2gRZrOT48q9rLBQ"
+      },
+      "artists": [
+        {
+          "name": "Kana Nishino",
+          "url": "https://open.spotify.com/artist/4DDoAL8n6ob19r3jOZEbJI"
+        }
+      ],
+      "duration_ms": 220172,
+      "name": "Power of Love",
+      "url": "https://open.spotify.com/track/2FIj9489cK9Mi3LINRHvJ9"
     }
   ],
   "unique_name": "Women's Voice",

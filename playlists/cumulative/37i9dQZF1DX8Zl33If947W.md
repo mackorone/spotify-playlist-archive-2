@@ -4,7 +4,7 @@
 
 > Deutschsprachige Liebeslieder, die mitten ins Herz gehen ♥️
 
-108 songs - 5 hr 45 min
+109 songs - 5 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,9 +37,10 @@
 | [Falle Für Dich](https://open.spotify.com/track/1RUp6d887zj0N9CrTwYb1j) | [Tom Twers](https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO) | [Falle Für Dich](https://open.spotify.com/album/0P5Ge8SdDUCZRmaLPNUeNH) | 2:30 | 2024-02-09 |  |
 | [Für Dich](https://open.spotify.com/track/3QYi6nQ5sDi4eNh0DHZujh) | [Yvonne Catterfeld](https://open.spotify.com/artist/5bKy7Tu2BNmfoFnDC5mncZ) | [Meine Welt](https://open.spotify.com/album/7JtC00X1uVQvI5R2NcKFcX) | 4:30 | 2025-03-26 | 2026-02-14 |
 | [Für Immer](https://open.spotify.com/track/6KyYXQlUOVCFN50RJq5xLq) | [Tom Twers](https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO) | [Für Immer](https://open.spotify.com/album/2BYgvzVkCaenJvpQC2HHrf) | 2:08 | 2023-02-13 |  |
-| [Für immer ab jetzt](https://open.spotify.com/track/66mXcPaJtk3uxj86CPYZ2L) | [Johannes Oerding](https://open.spotify.com/artist/4I7D65YMlr6ZxVEGPb7q2K) | [Für immer ab jetzt](https://open.spotify.com/album/3gMlAC8jGqqbkEOpLNN339) | 3:51 | 2025-03-26 |  |
+| [Für immer ab jetzt](https://open.spotify.com/track/66mXcPaJtk3uxj86CPYZ2L) | [Johannes Oerding](https://open.spotify.com/artist/4I7D65YMlr6ZxVEGPb7q2K) | [Für immer ab jetzt](https://open.spotify.com/album/3gMlAC8jGqqbkEOpLNN339) | 3:51 | 2025-03-26 | 2026-11-16 |
 | [Größer als Liebe](https://open.spotify.com/track/6xPHZX2KN3tY2gW0LWvrBl) | [CIVO](https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8) | [Größer als Liebe](https://open.spotify.com/album/4dnAM5LPg5SUh0umeW2Ogd) | 3:06 | 2026-03-26 |  |
 | [Halt mich](https://open.spotify.com/track/5zuWCYgg7PbIB1ytoaSbLP) | [Herbert Grönemeyer](https://open.spotify.com/artist/5tG5dl5mS2wB5w72YBpsyg) | [Was Muss Muss \- Best Of](https://open.spotify.com/album/3BFKX0idyoUQAEGiK8FHhM) | 3:27 | 2025-03-26 | 2026-02-14 |
+| [Herz über Kopf](https://open.spotify.com/track/5O02usHqDBjUD1i8qBDu23) | [JORIS](https://open.spotify.com/artist/7BKePXVmQRgnkbGcrFX1G4) | [Herz über Kopf](https://open.spotify.com/album/4MUt2NmNizO5eJU9IiMF5W) | 3:24 | 2026-03-26 |  |
 | [Herzensmensch](https://open.spotify.com/track/7HBzNwzwnKLVF1GtcjnA2C) | [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [Herzensmensch](https://open.spotify.com/album/0TfmkzOkLCBvsDWKbDiVAi) | 2:40 | 2026-02-13 | 2026-10-14 |
 | [Hollywood \- Akustik Version](https://open.spotify.com/track/58B7uBTVteWmo0DOaouJXO) | [Benne](https://open.spotify.com/artist/0eS2ZGOnJi5Cp4ASTy4aBc), [Revelle](https://open.spotify.com/artist/02EVANzKGRlR3TTTiaGAoA) | [Hollywood \(Akustik Version\)](https://open.spotify.com/album/5FyuGW8u3zdhTOdhNusU92) | 2:32 | 2023-02-13 | 2024-02-11 |
 | [Home Again](https://open.spotify.com/track/0BhbRX5t6zRCLBUMtWOynf) | [JORIS](https://open.spotify.com/artist/7BKePXVmQRgnkbGcrFX1G4), [LOTTE](https://open.spotify.com/artist/3gqabzO7zvHVzAIT0Nxqa3) | [Home Again](https://open.spotify.com/album/749kLg4Sk28HuuF9MSjF3I) | 3:27 | 2023-03-06 | 2026-01-15 |

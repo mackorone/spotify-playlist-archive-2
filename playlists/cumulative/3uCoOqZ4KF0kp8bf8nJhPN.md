@@ -4,7 +4,7 @@
 
 > 
 
-332 songs - 13 hr 9 min
+333 songs - 13 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [FLUOXETINE!](https://open.spotify.com/track/1daN3DnrDJ79MhRjzIvz2j) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [RAWRXD!](https://open.spotify.com/album/6RLyOnlpXfUlTDOQYpY73K) | 1:42 | 2024-12-21 |  |
 | [For the First Time](https://open.spotify.com/track/2R4AlwtrrkMaRKojcTIzmL) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [This Old Dog](https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7) | 3:02 | 2025-04-12 |  |
 | [For The Night](https://open.spotify.com/track/2To3FpmzHogJ6FbR6o2Ic1) | [CapzLock](https://open.spotify.com/artist/4g3JG556dlxAQVKpqTbedB) | [For The Night](https://open.spotify.com/album/6jdMgrdvmAjom2IZFhpHhJ) | 1:25 | 2025-05-28 |  |
+| [forgive.](https://open.spotify.com/track/5ziYyuiChdNeuvfv6G19Ks) | [shteppi](https://open.spotify.com/artist/0MWnJHMAZneJ1JA6S8Fx1b) | [forgive.](https://open.spotify.com/album/46GXlHqWW57TWWVsBlk6cX) | 2:56 | 2026-11-13 |  |
 | [Freaks](https://open.spotify.com/track/0HUTL8i4y4MiGCPId7M7wb) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Buds](https://open.spotify.com/album/4cAEWgTGIU7kL1sgbivyGY) | 2:27 | 2025-09-05 |  |
 | [FUCK NIGGERS](https://open.spotify.com/track/0JZvx8sGxOBzVHnfASqrv7) | [Echo Datii](https://open.spotify.com/artist/4CMdC57EfHLnO1ifsTyenV), [2ooDarkive](https://open.spotify.com/artist/3vLqK6ywGHAaZtPuTcG5cy) | [FUCK NIGGERS](https://open.spotify.com/album/7KHeMoBJXe24fv7FRRBDMJ) | 2:24 | 2025-04-29 | 2025-05-01 |
 | [FUKKIRETA PLUGGNB](https://open.spotify.com/track/4RVdONWEZk40bK8PNKXEgo) | [prodvera](https://open.spotify.com/artist/40jroOrX9vVTFb19bwKuoh) | [FUKKIRETA PLUGGNB](https://open.spotify.com/album/5oUvwMrGLyJLsaGFXqgo4Z) | 1:24 | 2025-06-20 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 
 > The new wave of Latin pop 🌊 Cover: Lasso
 
-[Spotify](https://open.spotify.com/user/spotify) - 293,979 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 293,945 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 | 3 | [Borracho Otra Vez](https://open.spotify.com/track/3AMpOnSdrXqi87gaKjPxcl) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd), [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [Objetos Frágiles en Ambientes Hostiles](https://open.spotify.com/album/1s6n31eAycpCSbA4J5UyHP) | 2:47 |
 | 4 | [BRUJA](https://open.spotify.com/track/4Sqi6eRWwR6TcaEGS0IEvd) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [BRUJA](https://open.spotify.com/album/1xG4xAWcvM38Mk69z9gFtH) | 2:51 |
 | 5 | [Punto y Aparte](https://open.spotify.com/track/5JgFRTwp0rBsYBEbED4GsB) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [b sides](https://open.spotify.com/album/083rDUPOLhHFyj3w6nqzXD) | 2:49 |
-| 6 | [todonada](https://open.spotify.com/track/5LzKeL96VPG5PKANwKZyaM) | [Baskiat](https://open.spotify.com/artist/72L1NTsOwE8ZZ6kxll4UwU) | [todonada](https://open.spotify.com/album/33yQR3TBbRe4XSalCTCVNd) | 3:37 |
+| 6 | [todonada](https://open.spotify.com/track/5LzKeL96VPG5PKANwKZyaM) | [Baskiat](https://open.spotify.com/artist/72L1NTsOwE8ZZ6kxll4UwU) | [todonada](https://open.spotify.com/album/33yQR3TBbRe4XSalCTCVNd) | 3:33 |
 | 7 | [Down](https://open.spotify.com/track/5C2G9fJkUplRPY4aEOMgoI) | [ZTVZ](https://open.spotify.com/artist/6WCmoxe1uqfNMFPqHkwzfs) | [Down](https://open.spotify.com/album/1SWoztqnHAcvlYPP9bUQyI) | 2:35 |
 | 8 | [EL ANILLO](https://open.spotify.com/track/67wCgbdbkh1w40DhOQa5ag) | [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [EL ANILLO](https://open.spotify.com/album/0HV3gafLxMQXyvqfydZ0bn) | 2:22 |
 | 9 | [que seas tú \-\-](https://open.spotify.com/track/4u3KM7fGLsYRp6aN0bDNH3) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO) | [que seas tú \-\- & amor herido \. \. .](https://open.spotify.com/album/0QgnpGyTgCGrGmTFODU4l1) | 3:13 |

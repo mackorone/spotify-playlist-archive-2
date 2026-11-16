@@ -1,6 +1,6 @@
 {
   "description": "Cumbias de anta\u00f1o para bailar.",
-  "num_followers": 349893,
+  "num_followers": 349996,
   "original_name": "Cumbias Viejitas",
   "owner": {
     "name": "Spotify",
@@ -459,6 +459,22 @@
     {
       "added_at": "2025-08-13 19:19:00",
       "album": {
+        "name": "Sus M\u00e1s Grandes \u00c9xitos, Vol. 2",
+        "url": "https://open.spotify.com/album/60LUbwOhyXfoMZDOV1fXQv"
+      },
+      "artists": [
+        {
+          "name": "Pastor Lopez",
+          "url": "https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE"
+        }
+      ],
+      "duration_ms": 235240,
+      "name": "Cari\u00f1ito Sin MI",
+      "url": "https://open.spotify.com/track/7zSluZ0cnnNomeIGYSThMm"
+    },
+    {
+      "added_at": "2025-08-13 19:19:00",
+      "album": {
         "name": "Cumbia de Marisol",
         "url": "https://open.spotify.com/album/61sd5yEb8gDv6Ey9vHi0nE"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 195946,
       "name": "Ca\u00f1ita Ca\u00f1averal",
       "url": "https://open.spotify.com/track/0yn0pxR5KRY2vIY2cZ7nbd"
-    },
-    {
-      "added_at": "2025-08-13 19:19:00",
-      "album": {
-        "name": "Sus M\u00e1s Grandes \u00c9xitos, Vol. 2",
-        "url": "https://open.spotify.com/album/60LUbwOhyXfoMZDOV1fXQv"
-      },
-      "artists": [
-        {
-          "name": "Pastor Lopez",
-          "url": "https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE"
-        }
-      ],
-      "duration_ms": 235240,
-      "name": "Cari\u00f1ito Sin MI",
-      "url": "https://open.spotify.com/track/7zSluZ0cnnNomeIGYSThMm"
     },
     {
       "added_at": "2025-08-13 19:19:00",
@@ -591,22 +591,6 @@
     {
       "added_at": "2025-08-13 19:19:00",
       "album": {
-        "name": "La Del Vestido Rojo",
-        "url": "https://open.spotify.com/album/6BLCRfawi0B0rwezVC8hiS"
-      },
-      "artists": [
-        {
-          "name": "Acapulco Tropical",
-          "url": "https://open.spotify.com/artist/0wNzx85rLgKy0OXYhpCItV"
-        }
-      ],
-      "duration_ms": 221733,
-      "name": "La del Vestido Rojo",
-      "url": "https://open.spotify.com/track/5oJNIP34E9aE7rAKpGqyZp"
-    },
-    {
-      "added_at": "2025-08-13 19:19:00",
-      "album": {
         "name": "20 Joyas de la Historia Musical",
         "url": "https://open.spotify.com/album/2WSLrdOSbaiTS6efB7Xk2B"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 154052,
       "name": "Pero Tu No Estas",
       "url": "https://open.spotify.com/track/00c81raDwIJa803nmAgcU3"
+    },
+    {
+      "added_at": "2025-08-13 19:19:00",
+      "album": {
+        "name": "La Del Vestido Rojo",
+        "url": "https://open.spotify.com/album/6BLCRfawi0B0rwezVC8hiS"
+      },
+      "artists": [
+        {
+          "name": "Acapulco Tropical",
+          "url": "https://open.spotify.com/artist/0wNzx85rLgKy0OXYhpCItV"
+        }
+      ],
+      "duration_ms": 221733,
+      "name": "La del Vestido Rojo",
+      "url": "https://open.spotify.com/track/5oJNIP34E9aE7rAKpGqyZp"
     },
     {
       "added_at": "2025-08-13 19:19:00",
@@ -671,22 +671,6 @@
     {
       "added_at": "2025-08-13 19:19:00",
       "album": {
-        "name": "El Soltero",
-        "url": "https://open.spotify.com/album/0bjpHFI6ooAjv8ePZj8NsL"
-      },
-      "artists": [
-        {
-          "name": "Acapulco Tropical",
-          "url": "https://open.spotify.com/artist/0wNzx85rLgKy0OXYhpCItV"
-        }
-      ],
-      "duration_ms": 146146,
-      "name": "Cangrejito Playero",
-      "url": "https://open.spotify.com/track/6mitEFB3w4GBe8YDlLfITL"
-    },
-    {
-      "added_at": "2025-08-13 19:19:00",
-      "album": {
         "name": "Eva Mar\u00eda",
         "url": "https://open.spotify.com/album/7nsXFT6vkw3cwbv1Igyv3y"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 185280,
       "name": "Tan Bella Y Tan Presumida",
       "url": "https://open.spotify.com/track/5KOu0YxjEPkbFjP9yPCNoP"
+    },
+    {
+      "added_at": "2025-08-13 19:19:00",
+      "album": {
+        "name": "El Soltero",
+        "url": "https://open.spotify.com/album/0bjpHFI6ooAjv8ePZj8NsL"
+      },
+      "artists": [
+        {
+          "name": "Acapulco Tropical",
+          "url": "https://open.spotify.com/artist/0wNzx85rLgKy0OXYhpCItV"
+        }
+      ],
+      "duration_ms": 146146,
+      "name": "Cangrejito Playero",
+      "url": "https://open.spotify.com/track/6mitEFB3w4GBe8YDlLfITL"
     },
     {
       "added_at": "2025-08-13 19:19:00",
@@ -783,22 +783,6 @@
     {
       "added_at": "2025-08-13 19:19:00",
       "album": {
-        "name": "Sigueme",
-        "url": "https://open.spotify.com/album/1gWllGhiiVZRYJ3OXqMrOw"
-      },
-      "artists": [
-        {
-          "name": "Los Extra\u00f1os",
-          "url": "https://open.spotify.com/artist/4o42b77fvOMfJGnDVo8aWK"
-        }
-      ],
-      "duration_ms": 202666,
-      "name": "Eres",
-      "url": "https://open.spotify.com/track/1OeKx8ya9DRQBWKJmlRFJp"
-    },
-    {
-      "added_at": "2025-08-13 19:19:00",
-      "album": {
         "name": "Sus M\u00e1s Grandes \u00c9xitos",
         "url": "https://open.spotify.com/album/3NUMhmhwTK4uatK413RSOd"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 206613,
       "name": "El Ausente - Remastered",
       "url": "https://open.spotify.com/track/2yFGylyE6vbZQKXVZcvWFj"
+    },
+    {
+      "added_at": "2025-08-13 19:19:00",
+      "album": {
+        "name": "Sigueme",
+        "url": "https://open.spotify.com/album/1gWllGhiiVZRYJ3OXqMrOw"
+      },
+      "artists": [
+        {
+          "name": "Los Extra\u00f1os",
+          "url": "https://open.spotify.com/artist/4o42b77fvOMfJGnDVo8aWK"
+        }
+      ],
+      "duration_ms": 202666,
+      "name": "Eres",
+      "url": "https://open.spotify.com/track/1OeKx8ya9DRQBWKJmlRFJp"
     },
     {
       "added_at": "2025-08-13 19:19:00",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2025-08-13 19:19:00",
       "album": {
-        "name": "Tequendama de Oro, Vol. 4",
-        "url": "https://open.spotify.com/album/52k7leNvJSZROJgEZhHuku"
-      },
-      "artists": [
-        {
-          "name": "Moab",
-          "url": "https://open.spotify.com/artist/5B7UoQQ1YBUcVbrmUZ24XN"
-        }
-      ],
-      "duration_ms": 224493,
-      "name": "Ojitos Mentirosos",
-      "url": "https://open.spotify.com/track/4b8Dn37dyqyQ101TuC2Vgw"
-    },
-    {
-      "added_at": "2025-08-13 19:19:00",
-      "album": {
         "name": "50 A\u00f1os de \u00c9xitos",
         "url": "https://open.spotify.com/album/3SWZLaAfmaA9OkmzbntsrS"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 172813,
       "name": "Amor Libre",
       "url": "https://open.spotify.com/track/417hz3bOfPdXH9vKjzfM23"
+    },
+    {
+      "added_at": "2025-08-13 19:19:00",
+      "album": {
+        "name": "Tequendama de Oro, Vol. 4",
+        "url": "https://open.spotify.com/album/52k7leNvJSZROJgEZhHuku"
+      },
+      "artists": [
+        {
+          "name": "Moab",
+          "url": "https://open.spotify.com/artist/5B7UoQQ1YBUcVbrmUZ24XN"
+        }
+      ],
+      "duration_ms": 224493,
+      "name": "Ojitos Mentirosos",
+      "url": "https://open.spotify.com/track/4b8Dn37dyqyQ101TuC2Vgw"
     },
     {
       "added_at": "2025-08-13 19:19:00",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2025-08-13 19:19:00",
       "album": {
-        "name": "Grupo Ca\u00f1averal, Vol. III",
-        "url": "https://open.spotify.com/album/4lxhwVX8BPSeITPGBOzIJw"
-      },
-      "artists": [
-        {
-          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
-          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
-        }
-      ],
-      "duration_ms": 280826,
-      "name": "Echarme Al Olvido",
-      "url": "https://open.spotify.com/track/52Uy47FjbqbAh3WXejw7gU"
-    },
-    {
-      "added_at": "2025-08-13 19:19:00",
-      "album": {
         "name": "Los Gigantes De La Cumbia, Vol. 1, Disco 1",
         "url": "https://open.spotify.com/album/219roX2NTtUuwrhNoj4Bly"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 232493,
       "name": "Amor Sin Primavera",
       "url": "https://open.spotify.com/track/0SPeRV2ZKS9SBgNg9MOHZe"
+    },
+    {
+      "added_at": "2025-08-13 19:19:00",
+      "album": {
+        "name": "Grupo Ca\u00f1averal, Vol. III",
+        "url": "https://open.spotify.com/album/4lxhwVX8BPSeITPGBOzIJw"
+      },
+      "artists": [
+        {
+          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
+          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
+        }
+      ],
+      "duration_ms": 280826,
+      "name": "Echarme Al Olvido",
+      "url": "https://open.spotify.com/track/52Uy47FjbqbAh3WXejw7gU"
     },
     {
       "added_at": "2025-08-13 19:19:00",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2025-08-13 19:19:00",
       "album": {
-        "name": "El Disco de Oro para Equipos de Sonido, Vol. 2",
-        "url": "https://open.spotify.com/album/4S7gUk1Ch5OLjaskyj4F1v"
-      },
-      "artists": [
-        {
-          "name": "Rossy",
-          "url": "https://open.spotify.com/artist/5zH1mfgDhh4stcLYalyHxS"
-        }
-      ],
-      "duration_ms": 174278,
-      "name": "Carola",
-      "url": "https://open.spotify.com/track/3WdRFcWRXhChWbVpyUCxuF"
-    },
-    {
-      "added_at": "2025-08-13 19:19:00",
-      "album": {
         "name": "Cumbias de Oro: 16 Grandes \u00c9xitos",
         "url": "https://open.spotify.com/album/1lFsVuX8eLCcNU6PCG8MHY"
       },
@@ -1639,18 +1623,18 @@
     {
       "added_at": "2025-08-13 19:19:00",
       "album": {
-        "name": "No Te Voy A Perdonar, Volumen 4",
-        "url": "https://open.spotify.com/album/24V99ibPcTjI906jV1io1D"
+        "name": "El Disco de Oro para Equipos de Sonido, Vol. 2",
+        "url": "https://open.spotify.com/album/4S7gUk1Ch5OLjaskyj4F1v"
       },
       "artists": [
         {
-          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
-          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
+          "name": "Rossy",
+          "url": "https://open.spotify.com/artist/5zH1mfgDhh4stcLYalyHxS"
         }
       ],
-      "duration_ms": 232756,
-      "name": "No Te Voy A Perdonar",
-      "url": "https://open.spotify.com/track/4LDJhbXkL9ckWAOBlBQJKG"
+      "duration_ms": 174278,
+      "name": "Carola",
+      "url": "https://open.spotify.com/track/3WdRFcWRXhChWbVpyUCxuF"
     },
     {
       "added_at": "2025-08-13 19:19:00",
@@ -1671,6 +1655,22 @@
     {
       "added_at": "2025-08-13 19:19:00",
       "album": {
+        "name": "No Te Voy A Perdonar, Volumen 4",
+        "url": "https://open.spotify.com/album/24V99ibPcTjI906jV1io1D"
+      },
+      "artists": [
+        {
+          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
+          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
+        }
+      ],
+      "duration_ms": 232756,
+      "name": "No Te Voy A Perdonar",
+      "url": "https://open.spotify.com/track/4LDJhbXkL9ckWAOBlBQJKG"
+    },
+    {
+      "added_at": "2025-08-13 19:19:00",
+      "album": {
         "name": "Guaracha Sabrosona",
         "url": "https://open.spotify.com/album/2RmmHqe6EdibrcZfvRQkYk"
       },
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2025-08-13 19:19:00",
       "album": {
-        "name": "Cumbia Con Clase",
-        "url": "https://open.spotify.com/album/1cyozcO6UvvmK3LgN8Y8iy"
-      },
-      "artists": [
-        {
-          "name": "La Banda Tecno De Beto Y Juan",
-          "url": "https://open.spotify.com/artist/1Ex1iwuNNgqHvVFIeiA88I"
-        }
-      ],
-      "duration_ms": 254883,
-      "name": "Paloma Ajena",
-      "url": "https://open.spotify.com/track/7mhIpZ9VHarkdWABXLXEEk"
-    },
-    {
-      "added_at": "2025-08-13 19:19:00",
-      "album": {
         "name": "El Disco de Oro para Equipos de Sonido, Vol. 2",
         "url": "https://open.spotify.com/album/4S7gUk1Ch5OLjaskyj4F1v"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 246127,
       "name": "Que Nadie Sepa Mi Sufrir",
       "url": "https://open.spotify.com/track/0TMMqkwo2nuWGFWrq0IYxB"
+    },
+    {
+      "added_at": "2025-08-13 19:19:00",
+      "album": {
+        "name": "Cumbia Con Clase",
+        "url": "https://open.spotify.com/album/1cyozcO6UvvmK3LgN8Y8iy"
+      },
+      "artists": [
+        {
+          "name": "La Banda Tecno De Beto Y Juan",
+          "url": "https://open.spotify.com/artist/1Ex1iwuNNgqHvVFIeiA88I"
+        }
+      ],
+      "duration_ms": 254883,
+      "name": "Paloma Ajena",
+      "url": "https://open.spotify.com/track/7mhIpZ9VHarkdWABXLXEEk"
     },
     {
       "added_at": "2025-08-13 19:19:00",
@@ -1763,6 +1763,22 @@
       "duration_ms": 313613,
       "name": "El Verde De Tus Ojos",
       "url": "https://open.spotify.com/track/1UKNDMySEIHiCSXDWkDfX3"
+    },
+    {
+      "added_at": "2025-08-13 19:19:00",
+      "album": {
+        "name": "Greatest Cumbia Classics Of Colombia, Vol. 2",
+        "url": "https://open.spotify.com/album/2zTSfpbKycKhOo3hwh8OEj"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Dinamita",
+          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
+        }
+      ],
+      "duration_ms": 225333,
+      "name": "Mil Horas",
+      "url": "https://open.spotify.com/track/5XyItd5rFfdtoJsWHxON5x"
     },
     {
       "added_at": "2025-08-13 19:19:00",
@@ -1859,22 +1875,6 @@
       "duration_ms": 264186,
       "name": "Paisaje",
       "url": "https://open.spotify.com/track/6NipZljiEekGRNF6vddEP3"
-    },
-    {
-      "added_at": "2025-08-13 19:19:00",
-      "album": {
-        "name": "Greatest Cumbia Classics Of Colombia, Vol. 2",
-        "url": "https://open.spotify.com/album/2zTSfpbKycKhOo3hwh8OEj"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Dinamita",
-          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
-        }
-      ],
-      "duration_ms": 225333,
-      "name": "Mil Horas",
-      "url": "https://open.spotify.com/track/5XyItd5rFfdtoJsWHxON5x"
     },
     {
       "added_at": "2025-08-13 19:19:00",

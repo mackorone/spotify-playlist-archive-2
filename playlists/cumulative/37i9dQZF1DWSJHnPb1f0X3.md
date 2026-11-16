@@ -4,7 +4,7 @@
 
 > Upbeat dance pop to keep your heart pumping.
 
-858 songs - 1 day 18 hr 37 min
+859 songs - 1 day 18 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,8 @@
 | [Bad Memories \(feat\. Elley Duhé & FAST BOY\)](https://open.spotify.com/track/3rb0tMq42WfggucPm0HHkA) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Bad Memories \(feat\. Elley Duhé & FAST BOY\)](https://open.spotify.com/album/44aG7QLYLGotCTlu5Fc2J7) | 2:28 | 2022-07-28 | 2025-12-30 |
 | [Badman](https://open.spotify.com/track/02teKCLbOxKUIVg7DPoWCE) | [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz) | [Badman](https://open.spotify.com/album/3rTuLnXYLDhVJ0ox9oGHot) | 2:39 | 2022-03-25 | 2022-04-21 |
 | [Bang Bang \(feat\. Donna Missal\)](https://open.spotify.com/track/17JiXMOiulilj4Pgf0Yq04) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Donna Missal](https://open.spotify.com/artist/4QFHHdZkeqmneDQqKIjAN8) | [Bang Bang \(feat\. Donna Missal\)](https://open.spotify.com/album/5pVAHcpyTloN8dq49tOY9C) | 3:08 | 2022-04-08 | 2022-04-21 |
-| [Barbie Girl \- Tiësto Remix](https://open.spotify.com/track/4zPVMv84MMHehLNZYIS1Zv) | [Aqua](https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Barbie Girl \(Tiësto Remix\)](https://open.spotify.com/album/61gisYckDdbgK42QoJEl6c) | 2:35 | 2023-06-26 |  |
+| [Barbie Girl \- Tiësto Remix](https://open.spotify.com/track/4zPVMv84MMHehLNZYIS1Zv) | [Aqua](https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Barbie Girl \(Tiësto Remix\)](https://open.spotify.com/album/61gisYckDdbgK42QoJEl6c) | 2:35 | 2023-06-26 | 2026-11-16 |
+| [BbY WOW \- John Summit Remix](https://open.spotify.com/track/6i0mauyUtfJ6Wb3QLVxKc6) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q), [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [BbY WOW \- John Summit Remix](https://open.spotify.com/album/7cATL7247RiXbe4yL7KdNv) | 3:38 | 2026-11-13 |  |
 | [Beacon \(with Willa\)](https://open.spotify.com/track/4QoEvZeQpU3WYRpzZ1ktaa) | [DJ Shaan](https://open.spotify.com/artist/274JojhV4zGJX0Z6WPgg5x), [Willa](https://open.spotify.com/artist/2YE9xDQHXzmnwE8qq6Gqg8) | [Beacon](https://open.spotify.com/album/3jnyC0eGssTO4MgautVweN) | 3:00 | 2022-03-25 | 2022-04-19 |
 | [BEAT UP CHANEL$](https://open.spotify.com/track/10wJ35whDsMVQ04fhkR5QS) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [BEAT UP CHANEL$](https://open.spotify.com/album/20LgrvecBXfayOLkjbrEIU) | 3:18 | 2025-12-29 | 2026-05-12 |
 | [BED](https://open.spotify.com/track/0siYMEsGrzzzlWLXK5zJfS) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [BED](https://open.spotify.com/album/36tML2tWjDrbLW4FgrX17U) | 2:58 | 2022-07-28 | 2025-12-30 |

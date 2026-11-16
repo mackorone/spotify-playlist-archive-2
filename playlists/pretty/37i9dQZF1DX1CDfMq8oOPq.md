@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 
 > dígitos subindo 🕹️ // Cashley
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,559 likes - 50 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,553 likes - 50 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 44 | [Como que não fica milionária?](https://open.spotify.com/track/1L9xVHgIT2Ac8u90Rh6QlW) | [Soh Lopez](https://open.spotify.com/artist/3VXguqIIKhWn5pX4i7X12t), [Miranda On The Trk!](https://open.spotify.com/artist/49F1YPFCspHWmoA8tPqHLc), [Frost](https://open.spotify.com/artist/1Pwn5xh6yzHjkDdDOk5xqD) | [Como que não fica milionária?](https://open.spotify.com/album/57XV7XkmjrQkwWQRRfBCGD) | 2:23 |
 | 45 | [Modo Baddie](https://open.spotify.com/track/7isp5grJjeQEPcLS9vblVx) | [Emilly Guedes](https://open.spotify.com/artist/08UYtcjRd8osOzRZTwtmmr), [Xizoh](https://open.spotify.com/artist/0NjUbCAKnxMxMYT6adoRdI) | [Modo Baddie](https://open.spotify.com/album/2uCQhK9I8RdKFu8UT31pLb) | 2:03 |
 | 46 | [ACORDARAM AS BB QUENTE](https://open.spotify.com/track/58BLHgL9sBezLZQKLLoXjd) | [Delua Og](https://open.spotify.com/artist/3FUntHc3JwWp9Ktf8R7gjd), [DKmixx](https://open.spotify.com/artist/6vbGN6MR9WOZMsOrFurBjX) | [MUNDO DA LUA](https://open.spotify.com/album/7x0IsY34mswleE2H60sIJH) | 2:25 |
-| 47 | [TRAPSTAR](https://open.spotify.com/track/7mm7xz3BqY0vPnrvYGLchv) | [Muse Maya](https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm), [Uris](https://open.spotify.com/artist/21E1PaxkHnKuTf58fRkE8Y), [Sussa](https://open.spotify.com/artist/63T4kVGFi1RkWNQ9hnZzP5) | [PERSONA](https://open.spotify.com/album/04jYh1CKoWM1BaqcjlpOYe) | 2:02 |
-| 48 | [Chefona](https://open.spotify.com/track/53FEgvDSOvHHKt8tIgF3U9) | [LETT](https://open.spotify.com/artist/7lk4zeklQt13A8QX1IzxcJ), [iamlope$$](https://open.spotify.com/artist/2wT7Qe4IArSitWcIKqa7CZ) | [Mix Como Eu](https://open.spotify.com/album/54gHk4k81lwAihjMHxOCMB) | 2:32 |
+| 47 | [Chefona](https://open.spotify.com/track/53FEgvDSOvHHKt8tIgF3U9) | [LETT](https://open.spotify.com/artist/7lk4zeklQt13A8QX1IzxcJ), [iamlope$$](https://open.spotify.com/artist/2wT7Qe4IArSitWcIKqa7CZ) | [Mix Como Eu](https://open.spotify.com/album/54gHk4k81lwAihjMHxOCMB) | 2:32 |
+| 48 | [TRAPSTAR](https://open.spotify.com/track/7mm7xz3BqY0vPnrvYGLchv) | [Muse Maya](https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm), [Uris](https://open.spotify.com/artist/21E1PaxkHnKuTf58fRkE8Y), [Sussa](https://open.spotify.com/artist/63T4kVGFi1RkWNQ9hnZzP5) | [PERSONA](https://open.spotify.com/album/04jYh1CKoWM1BaqcjlpOYe) | 2:02 |
 | 49 | [Giragrana Girabala](https://open.spotify.com/track/0mWnU1xmvl0bChWsOEPiXz) | [Exódia Entertainment](https://open.spotify.com/artist/02rQVYHzAkTYPZv6koV920), [Lis Mc](https://open.spotify.com/artist/5OfwMhn4XgysSIxSxBvTDE), [Afrodite Bxd](https://open.spotify.com/artist/6yofdBnMvY2T1pjLwlN6i5), [Khamarinha](https://open.spotify.com/artist/1aWWrG0LM53V1ilVsiFAFI) | [Vai Tomando Mixtape Vol\. 2](https://open.spotify.com/album/5CVFSp03s0SahVsMJHnG22) | 2:19 |
 | 50 | [Amina](https://open.spotify.com/track/3g4j9Q0F4WX1Fdqo5nE2Tl) | [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT) | [Amina](https://open.spotify.com/album/4YaElPtMIzHGiDsnlqh29O) | 3:05 |
 

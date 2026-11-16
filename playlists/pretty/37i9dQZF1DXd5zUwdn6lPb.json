@@ -1,6 +1,6 @@
 {
   "description": "Enhance your focus with classical music.",
-  "num_followers": 619842,
+  "num_followers": 619928,
   "original_name": "Classical Focus",
   "owner": {
     "name": "Spotify",
@@ -639,6 +639,30 @@
     {
       "added_at": "2026-11-06 04:00:44",
       "album": {
+        "name": "Schumann: Myrthen, Op.25 - Version For Cello And Piano, 24. Du bist wie eine Blume",
+        "url": "https://open.spotify.com/album/0nNceg0mOYKmxH1p8NhNSK"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Kian Soltani",
+          "url": "https://open.spotify.com/artist/6TPa1gvIk1h4Iv1zJ2WUYQ"
+        },
+        {
+          "name": "Aaron Pilsan",
+          "url": "https://open.spotify.com/artist/2eI6Cks4QJJYwIxqx9W7Mt"
+        }
+      ],
+      "duration_ms": 110000,
+      "name": "Myrthen, Op. 25 - Version for Cello and Piano: XXIV. Du bist wie eine Blume",
+      "url": "https://open.spotify.com/track/5dFZW6bwvbFYDHXSTQRSgC"
+    },
+    {
+      "added_at": "2026-11-06 04:00:44",
+      "album": {
         "name": "Lake Reflections - Music for Flute & Harp",
         "url": "https://open.spotify.com/album/0bvSoJHPw1wfCLd2u4L5VV"
       },
@@ -679,30 +703,6 @@
     {
       "added_at": "2026-11-06 04:00:44",
       "album": {
-        "name": "Schumann: Myrthen, Op.25 - Version For Cello And Piano, 24. Du bist wie eine Blume",
-        "url": "https://open.spotify.com/album/0nNceg0mOYKmxH1p8NhNSK"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Kian Soltani",
-          "url": "https://open.spotify.com/artist/6TPa1gvIk1h4Iv1zJ2WUYQ"
-        },
-        {
-          "name": "Aaron Pilsan",
-          "url": "https://open.spotify.com/artist/2eI6Cks4QJJYwIxqx9W7Mt"
-        }
-      ],
-      "duration_ms": 110000,
-      "name": "Myrthen, Op. 25 - Version for Cello and Piano: XXIV. Du bist wie eine Blume",
-      "url": "https://open.spotify.com/track/5dFZW6bwvbFYDHXSTQRSgC"
-    },
-    {
-      "added_at": "2026-11-06 04:00:44",
-      "album": {
         "name": "C. Schumann: 3 Romances, Op. 22: No. 1, Andante molto (Arr. Knoth for Cello and Piano)",
         "url": "https://open.spotify.com/album/3q0ogG562Nocti3uDkZmAP"
       },
@@ -723,6 +723,26 @@
       "duration_ms": 190866,
       "name": "3 Romances, Op. 22: No. 1, Andante molto (Arr. Knoth for Cello and Piano)",
       "url": "https://open.spotify.com/track/1W6ZSpMRXgeM9iSJxA1xus"
+    },
+    {
+      "added_at": "2026-11-06 04:00:44",
+      "album": {
+        "name": "J.S. Bach: The Well-Tempered Clavier I: Prelude & Fugue No. 5 in D Major, BWV 850: I. Prelude",
+        "url": "https://open.spotify.com/album/2YOdUQDZ9JzCyoxumriUTh"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Minsoo Sohn",
+          "url": "https://open.spotify.com/artist/2SPassRsXiTWiRW9IBgPgL"
+        }
+      ],
+      "duration_ms": 78333,
+      "name": "The Well-Tempered Clavier I: Prelude & Fugue No. 5 in D Major, BWV 850: I. Prelude",
+      "url": "https://open.spotify.com/track/3EjmTzp2JgA1mGLCrjK4JS"
     },
     {
       "added_at": "2026-11-06 04:00:44",
@@ -751,26 +771,6 @@
       "duration_ms": 85000,
       "name": "Suite d'Abdelazer: or, the moor's revenge: Rondeau",
       "url": "https://open.spotify.com/track/1ZIFF4VPWGYA9OG3uYcFgI"
-    },
-    {
-      "added_at": "2026-11-06 04:00:44",
-      "album": {
-        "name": "J.S. Bach: The Well-Tempered Clavier I: Prelude & Fugue No. 5 in D Major, BWV 850: I. Prelude",
-        "url": "https://open.spotify.com/album/2YOdUQDZ9JzCyoxumriUTh"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Minsoo Sohn",
-          "url": "https://open.spotify.com/artist/2SPassRsXiTWiRW9IBgPgL"
-        }
-      ],
-      "duration_ms": 78333,
-      "name": "The Well-Tempered Clavier I: Prelude & Fugue No. 5 in D Major, BWV 850: I. Prelude",
-      "url": "https://open.spotify.com/track/3EjmTzp2JgA1mGLCrjK4JS"
     },
     {
       "added_at": "2026-11-06 04:00:44",
@@ -1431,6 +1431,26 @@
     {
       "added_at": "2026-11-06 04:00:44",
       "album": {
+        "name": "Piano Poems",
+        "url": "https://open.spotify.com/album/0P9VZ9lR4nwcwEDh1NgJTc"
+      },
+      "artists": [
+        {
+          "name": "Viktor Orri \u00c1rnason",
+          "url": "https://open.spotify.com/artist/18Z4spLSvLLjg7hnCS5De1"
+        },
+        {
+          "name": "\u00c1lfhei\u00f0ur Erla Gu\u00f0mundsd\u00f3ttir",
+          "url": "https://open.spotify.com/artist/7k9LWvLE4FnLTaxDM3LSUS"
+        }
+      ],
+      "duration_ms": 171397,
+      "name": "Being",
+      "url": "https://open.spotify.com/track/0lsFPRlqL6UCTUKERiFxWJ"
+    },
+    {
+      "added_at": "2026-11-06 04:00:44",
+      "album": {
         "name": "W.f. Bach: Sinfonias",
         "url": "https://open.spotify.com/album/0AHlJDfnuTSujoKtK0y9FX"
       },
@@ -1451,26 +1471,6 @@
       "duration_ms": 153800,
       "name": "Sinfonia in F Major, Fk 67 \"Dissonant\": IV. Menuet No. 1 - Menuet No. 2",
       "url": "https://open.spotify.com/track/5CfhrXtZ1II9jl8BV1v1a2"
-    },
-    {
-      "added_at": "2026-11-06 04:00:44",
-      "album": {
-        "name": "Piano Poems",
-        "url": "https://open.spotify.com/album/0P9VZ9lR4nwcwEDh1NgJTc"
-      },
-      "artists": [
-        {
-          "name": "Viktor Orri \u00c1rnason",
-          "url": "https://open.spotify.com/artist/18Z4spLSvLLjg7hnCS5De1"
-        },
-        {
-          "name": "\u00c1lfhei\u00f0ur Erla Gu\u00f0mundsd\u00f3ttir",
-          "url": "https://open.spotify.com/artist/7k9LWvLE4FnLTaxDM3LSUS"
-        }
-      ],
-      "duration_ms": 171397,
-      "name": "Being",
-      "url": "https://open.spotify.com/track/0lsFPRlqL6UCTUKERiFxWJ"
     },
     {
       "added_at": "2026-11-06 04:00:44",

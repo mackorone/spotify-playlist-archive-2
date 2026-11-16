@@ -1,6 +1,6 @@
 {
   "description": "Chasing that runner's high! ",
-  "num_followers": 735812,
+  "num_followers": 735836,
   "original_name": "Running Club",
   "owner": {
     "name": "Spotify",
@@ -643,26 +643,6 @@
     {
       "added_at": "2026-11-13 04:00:41",
       "album": {
-        "name": "Whatever",
-        "url": "https://open.spotify.com/album/2DoFm78vsYw31kJRzvIP4l"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 178273,
-      "name": "Whatever",
-      "url": "https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs"
-    },
-    {
-      "added_at": "2026-11-13 04:00:41",
-      "album": {
         "name": "Just The Way You Are",
         "url": "https://open.spotify.com/album/4820DjejEmYWCoV7lYGf8Y"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 159500,
       "name": "Just The Way You Are",
       "url": "https://open.spotify.com/track/1LepWHpwtahzEQL0vNjpEt"
+    },
+    {
+      "added_at": "2026-11-13 04:00:41",
+      "album": {
+        "name": "Whatever",
+        "url": "https://open.spotify.com/album/2DoFm78vsYw31kJRzvIP4l"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 178273,
+      "name": "Whatever",
+      "url": "https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs"
     },
     {
       "added_at": "2026-11-13 04:00:41",
@@ -703,26 +703,6 @@
     {
       "added_at": "2026-11-13 04:00:41",
       "album": {
-        "name": "Born In The Echoes",
-        "url": "https://open.spotify.com/album/3XUVUh6hisN43r2eZAOJRD"
-      },
-      "artists": [
-        {
-          "name": "The Chemical Brothers",
-          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
-        },
-        {
-          "name": "Q-Tip",
-          "url": "https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU"
-        }
-      ],
-      "duration_ms": 260696,
-      "name": "Go",
-      "url": "https://open.spotify.com/track/2Xhd1kYKj2aee7JR3nIlRe"
-    },
-    {
-      "added_at": "2026-11-13 04:00:41",
-      "album": {
         "name": "There She Goes",
         "url": "https://open.spotify.com/album/3gHDnPPOgXcueJrL1r03q2"
       },
@@ -743,6 +723,26 @@
       "duration_ms": 121874,
       "name": "There She Goes",
       "url": "https://open.spotify.com/track/2aSjWonALEwE3wTpjYMvc7"
+    },
+    {
+      "added_at": "2026-11-13 04:00:41",
+      "album": {
+        "name": "Born In The Echoes",
+        "url": "https://open.spotify.com/album/3XUVUh6hisN43r2eZAOJRD"
+      },
+      "artists": [
+        {
+          "name": "The Chemical Brothers",
+          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
+        },
+        {
+          "name": "Q-Tip",
+          "url": "https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU"
+        }
+      ],
+      "duration_ms": 260696,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/2Xhd1kYKj2aee7JR3nIlRe"
     },
     {
       "added_at": "2026-11-13 04:00:41",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2026-11-13 04:00:41",
       "album": {
-        "name": "Pump It Up",
-        "url": "https://open.spotify.com/album/5Y7ArkpG6klUEQuhTvEEpM"
-      },
-      "artists": [
-        {
-          "name": "Endor",
-          "url": "https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt"
-        }
-      ],
-      "duration_ms": 150635,
-      "name": "Pump It Up",
-      "url": "https://open.spotify.com/track/4tcPIwy0UvLYjhXLrMyx89"
-    },
-    {
-      "added_at": "2026-11-13 04:00:41",
-      "album": {
         "name": "Murder On The Dancefloor (PNAU Remix)",
         "url": "https://open.spotify.com/album/02oNjidORbldUslV7kMWAZ"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 260006,
       "name": "Murder On The Dancefloor - PNAU Remix",
       "url": "https://open.spotify.com/track/2Rhh3ZhukJfTKoBVzIYTaf"
+    },
+    {
+      "added_at": "2026-11-13 04:00:41",
+      "album": {
+        "name": "Pump It Up",
+        "url": "https://open.spotify.com/album/5Y7ArkpG6klUEQuhTvEEpM"
+      },
+      "artists": [
+        {
+          "name": "Endor",
+          "url": "https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt"
+        }
+      ],
+      "duration_ms": 150635,
+      "name": "Pump It Up",
+      "url": "https://open.spotify.com/track/4tcPIwy0UvLYjhXLrMyx89"
     },
     {
       "added_at": "2026-11-13 04:00:41",
@@ -1571,6 +1571,34 @@
       "duration_ms": 180150,
       "name": "DANGER DANGER (feat. Skepta)",
       "url": "https://open.spotify.com/track/4PyDd3GxUijMVOdJA2IQEG"
+    },
+    {
+      "added_at": "2026-11-13 04:00:41",
+      "album": {
+        "name": "BbY WOW - John Summit Remix",
+        "url": "https://open.spotify.com/album/7cATL7247RiXbe4yL7KdNv"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Judeline",
+          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
+        },
+        {
+          "name": "rusowsky",
+          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
+        }
+      ],
+      "duration_ms": 218826,
+      "name": "BbY WOW - John Summit Remix",
+      "url": "https://open.spotify.com/track/6i0mauyUtfJ6Wb3QLVxKc6"
     },
     {
       "added_at": "2026-11-13 04:00:41",
@@ -1811,34 +1839,6 @@
       "duration_ms": 166429,
       "name": "DON'T KILL THE PARTY (feat. Shoreline Mafia, Quavo & Juicy J)",
       "url": "https://open.spotify.com/track/7xe8BiG8HHl1EetMA6ygey"
-    },
-    {
-      "added_at": "2026-11-13 04:00:41",
-      "album": {
-        "name": "BbY WOW - John Summit Remix",
-        "url": "https://open.spotify.com/album/7cATL7247RiXbe4yL7KdNv"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        },
-        {
-          "name": "Judeline",
-          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
-        },
-        {
-          "name": "rusowsky",
-          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
-        }
-      ],
-      "duration_ms": 218826,
-      "name": "BbY WOW - John Summit Remix",
-      "url": "https://open.spotify.com/track/6i0mauyUtfJ6Wb3QLVxKc6"
     },
     {
       "added_at": "2026-11-13 04:00:41",
@@ -2183,6 +2183,22 @@
     {
       "added_at": "2026-11-13 04:00:41",
       "album": {
+        "name": "R U DOWN?",
+        "url": "https://open.spotify.com/album/0U4SQdmsqFF9dEeX2lzqKd"
+      },
+      "artists": [
+        {
+          "name": "Loud Luxury",
+          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
+        }
+      ],
+      "duration_ms": 139911,
+      "name": "R U DOWN?",
+      "url": "https://open.spotify.com/track/7DPGoEqSqJb8DuMjlwPCaD"
+    },
+    {
+      "added_at": "2026-11-13 04:00:41",
+      "album": {
         "name": "run",
         "url": "https://open.spotify.com/album/0rbA7c9RUVkHiNWMJ04Usk"
       },
@@ -2199,22 +2215,6 @@
       "duration_ms": 262297,
       "name": "run",
       "url": "https://open.spotify.com/track/1aUbgHRbxhm5lMpyM6Pyeb"
-    },
-    {
-      "added_at": "2026-11-13 04:00:41",
-      "album": {
-        "name": "R U DOWN?",
-        "url": "https://open.spotify.com/album/0U4SQdmsqFF9dEeX2lzqKd"
-      },
-      "artists": [
-        {
-          "name": "Loud Luxury",
-          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
-        }
-      ],
-      "duration_ms": 139911,
-      "name": "R U DOWN?",
-      "url": "https://open.spotify.com/track/7DPGoEqSqJb8DuMjlwPCaD"
     },
     {
       "added_at": "2026-11-13 04:00:41",
@@ -2283,6 +2283,34 @@
     {
       "added_at": "2026-11-13 04:00:41",
       "album": {
+        "name": "Reload (swedm\u00ae Remix)",
+        "url": "https://open.spotify.com/album/3S4SOGuORtJXHy45p1Q951"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Ingrosso",
+          "url": "https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP"
+        },
+        {
+          "name": "Tommy Trash",
+          "url": "https://open.spotify.com/artist/1tBU8jUEdVR3mqSsAqEGfD"
+        },
+        {
+          "name": "John Martin",
+          "url": "https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq"
+        },
+        {
+          "name": "swedm\u00ae",
+          "url": "https://open.spotify.com/artist/0JoFtJei4JUZYBqN0dk8UK"
+        }
+      ],
+      "duration_ms": 354375,
+      "name": "Reload - swedm\u00ae Remix",
+      "url": "https://open.spotify.com/track/712AoRHqVcCsiHc3nn4CUK"
+    },
+    {
+      "added_at": "2026-11-13 04:00:41",
+      "album": {
         "name": "I Wanna Go",
         "url": "https://open.spotify.com/album/3t1TE8ANrrQVau0Oeb3CIt"
       },
@@ -2347,30 +2375,26 @@
     {
       "added_at": "2026-11-13 04:00:41",
       "album": {
-        "name": "Reload (swedm\u00ae Remix)",
-        "url": "https://open.spotify.com/album/3S4SOGuORtJXHy45p1Q951"
+        "name": "Off Your Mind (feat. Last Lights)",
+        "url": "https://open.spotify.com/album/4ktoV4yoXYmzjblrGQnBRm"
       },
       "artists": [
         {
-          "name": "Sebastian Ingrosso",
-          "url": "https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP"
+          "name": "BIJOU",
+          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
         },
         {
-          "name": "Tommy Trash",
-          "url": "https://open.spotify.com/artist/1tBU8jUEdVR3mqSsAqEGfD"
+          "name": "BYOR",
+          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
         },
         {
-          "name": "John Martin",
-          "url": "https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq"
-        },
-        {
-          "name": "swedm\u00ae",
-          "url": "https://open.spotify.com/artist/0JoFtJei4JUZYBqN0dk8UK"
+          "name": "Last Lights",
+          "url": "https://open.spotify.com/artist/61RR77kYzFX0BnK7wbuYHh"
         }
       ],
-      "duration_ms": 354375,
-      "name": "Reload - swedm\u00ae Remix",
-      "url": "https://open.spotify.com/track/712AoRHqVcCsiHc3nn4CUK"
+      "duration_ms": 155076,
+      "name": "Off Your Mind (feat. Last Lights)",
+      "url": "https://open.spotify.com/track/35TcttWngjTFpUCO2VuTWX"
     },
     {
       "added_at": "2026-11-13 04:00:41",
@@ -2395,26 +2419,22 @@
     {
       "added_at": "2026-11-13 04:00:41",
       "album": {
-        "name": "Off Your Mind (feat. Last Lights)",
-        "url": "https://open.spotify.com/album/4ktoV4yoXYmzjblrGQnBRm"
+        "name": "Baddy On The Floor",
+        "url": "https://open.spotify.com/album/2fDJNwprKYSK4ovmRzcoe4"
       },
       "artists": [
         {
-          "name": "BIJOU",
-          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
         },
         {
-          "name": "BYOR",
-          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
-        },
-        {
-          "name": "Last Lights",
-          "url": "https://open.spotify.com/artist/61RR77kYzFX0BnK7wbuYHh"
+          "name": "Honey Dijon",
+          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
         }
       ],
-      "duration_ms": 155076,
-      "name": "Off Your Mind (feat. Last Lights)",
-      "url": "https://open.spotify.com/track/35TcttWngjTFpUCO2VuTWX"
+      "duration_ms": 222315,
+      "name": "Baddy On The Floor",
+      "url": "https://open.spotify.com/track/3CqaTHbiU2nBy3Ar9RnDHN"
     },
     {
       "added_at": "2026-11-13 04:00:41",
@@ -2443,26 +2463,6 @@
     {
       "added_at": "2026-11-13 04:00:41",
       "album": {
-        "name": "Baddy On The Floor",
-        "url": "https://open.spotify.com/album/2fDJNwprKYSK4ovmRzcoe4"
-      },
-      "artists": [
-        {
-          "name": "Jamie xx",
-          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
-        },
-        {
-          "name": "Honey Dijon",
-          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
-        }
-      ],
-      "duration_ms": 222315,
-      "name": "Baddy On The Floor",
-      "url": "https://open.spotify.com/track/3CqaTHbiU2nBy3Ar9RnDHN"
-    },
-    {
-      "added_at": "2026-11-13 04:00:41",
-      "album": {
         "name": "like JENNIE",
         "url": "https://open.spotify.com/album/2PxwTnSJW1mXpnb1HO2Tsf"
       },
@@ -2483,26 +2483,6 @@
     {
       "added_at": "2026-11-13 04:00:41",
       "album": {
-        "name": "Once In A Lifetime",
-        "url": "https://open.spotify.com/album/1m7XvswwabGbeR72Lsbyeh"
-      },
-      "artists": [
-        {
-          "name": "Dimension",
-          "url": "https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S"
-        },
-        {
-          "name": "bbyclose",
-          "url": "https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH"
-        }
-      ],
-      "duration_ms": 201379,
-      "name": "Once In A Lifetime",
-      "url": "https://open.spotify.com/track/4NZRpnuP4EZl6yohxQofP2"
-    },
-    {
-      "added_at": "2026-11-13 04:00:41",
-      "album": {
         "name": "Fuck My Computer (Frost Children Remix)",
         "url": "https://open.spotify.com/album/3mkVo55KYmJAxy21rPssZ4"
       },
@@ -2519,6 +2499,26 @@
       "duration_ms": 197956,
       "name": "Fuck My Computer - Frost Children Remix",
       "url": "https://open.spotify.com/track/4msZzTP3dJlqmHRhUb4v3f"
+    },
+    {
+      "added_at": "2026-11-13 04:00:41",
+      "album": {
+        "name": "Once In A Lifetime",
+        "url": "https://open.spotify.com/album/1m7XvswwabGbeR72Lsbyeh"
+      },
+      "artists": [
+        {
+          "name": "Dimension",
+          "url": "https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S"
+        },
+        {
+          "name": "bbyclose",
+          "url": "https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH"
+        }
+      ],
+      "duration_ms": 201379,
+      "name": "Once In A Lifetime",
+      "url": "https://open.spotify.com/track/4NZRpnuP4EZl6yohxQofP2"
     },
     {
       "added_at": "2026-11-13 04:00:41",
@@ -2667,6 +2667,22 @@
     {
       "added_at": "2026-11-13 04:00:41",
       "album": {
+        "name": "Panic Attack",
+        "url": "https://open.spotify.com/album/2XDRwEY4n0kUx2tZA2bro7"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        }
+      ],
+      "duration_ms": 172421,
+      "name": "Do It Again",
+      "url": "https://open.spotify.com/track/1d9Cd2ZDTo1YWrWrjzoFCc"
+    },
+    {
+      "added_at": "2026-11-13 04:00:41",
+      "album": {
         "name": "One More Dance",
         "url": "https://open.spotify.com/album/2SSda3QuEvaDIjaMhFEUoz"
       },
@@ -2767,30 +2783,6 @@
     {
       "added_at": "2026-11-13 04:00:41",
       "album": {
-        "name": "Movement EP",
-        "url": "https://open.spotify.com/album/1TELAVQkMosWbsgwWJTiVf"
-      },
-      "artists": [
-        {
-          "name": "Linska",
-          "url": "https://open.spotify.com/artist/5f7jxYF5js7lD5lMyIPUBq"
-        },
-        {
-          "name": "Chris Avantgarde",
-          "url": "https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U"
-        },
-        {
-          "name": "Benni Ola",
-          "url": "https://open.spotify.com/artist/4q90901wzb3GPqUBKuhoRg"
-        }
-      ],
-      "duration_ms": 176363,
-      "name": "Move",
-      "url": "https://open.spotify.com/track/5ykLR5Vvk8BmajyW6duOf5"
-    },
-    {
-      "added_at": "2026-11-13 04:00:41",
-      "album": {
         "name": "one2three (feat. Leven Kali)",
         "url": "https://open.spotify.com/album/6VkJuZchHVpZDxGbLrTtdd"
       },
@@ -2811,6 +2803,30 @@
       "duration_ms": 248578,
       "name": "one2three (feat. Leven Kali)",
       "url": "https://open.spotify.com/track/6dQxsPVLqXnJgiLLWJRE5x"
+    },
+    {
+      "added_at": "2026-11-13 04:00:41",
+      "album": {
+        "name": "Movement EP",
+        "url": "https://open.spotify.com/album/1TELAVQkMosWbsgwWJTiVf"
+      },
+      "artists": [
+        {
+          "name": "Linska",
+          "url": "https://open.spotify.com/artist/5f7jxYF5js7lD5lMyIPUBq"
+        },
+        {
+          "name": "Chris Avantgarde",
+          "url": "https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U"
+        },
+        {
+          "name": "Benni Ola",
+          "url": "https://open.spotify.com/artist/4q90901wzb3GPqUBKuhoRg"
+        }
+      ],
+      "duration_ms": 176363,
+      "name": "Move",
+      "url": "https://open.spotify.com/track/5ykLR5Vvk8BmajyW6duOf5"
     },
     {
       "added_at": "2026-11-13 04:00:41",
@@ -2919,22 +2935,6 @@
     {
       "added_at": "2026-11-13 04:00:41",
       "album": {
-        "name": "Panic Attack",
-        "url": "https://open.spotify.com/album/2XDRwEY4n0kUx2tZA2bro7"
-      },
-      "artists": [
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        }
-      ],
-      "duration_ms": 172421,
-      "name": "Do It Again",
-      "url": "https://open.spotify.com/track/1d9Cd2ZDTo1YWrWrjzoFCc"
-    },
-    {
-      "added_at": "2026-11-13 04:00:41",
-      "album": {
         "name": "START UP A RUMOUR",
         "url": "https://open.spotify.com/album/08I2aQ28yE0sGG79klKqTt"
       },
@@ -2991,6 +2991,22 @@
     {
       "added_at": "2026-11-13 04:00:41",
       "album": {
+        "name": "You Go I Go",
+        "url": "https://open.spotify.com/album/2YtVbDzIJltNu4taHmBUuY"
+      },
+      "artists": [
+        {
+          "name": "Jackie Hollander",
+          "url": "https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ"
+        }
+      ],
+      "duration_ms": 166595,
+      "name": "You Go I Go",
+      "url": "https://open.spotify.com/track/2NTojmUzspL9vNkOXKqRcV"
+    },
+    {
+      "added_at": "2026-11-13 04:00:41",
+      "album": {
         "name": "Come Find Me",
         "url": "https://open.spotify.com/album/6N1oJNIThtU27PDGpo0Fnw"
       },
@@ -3007,22 +3023,6 @@
       "duration_ms": 207149,
       "name": "Come Find Me (with Clementine Douglas)",
       "url": "https://open.spotify.com/track/71Zw15qOwDpmQTPbFVPp13"
-    },
-    {
-      "added_at": "2026-11-13 04:00:41",
-      "album": {
-        "name": "You Go I Go",
-        "url": "https://open.spotify.com/album/2YtVbDzIJltNu4taHmBUuY"
-      },
-      "artists": [
-        {
-          "name": "Jackie Hollander",
-          "url": "https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ"
-        }
-      ],
-      "duration_ms": 166595,
-      "name": "You Go I Go",
-      "url": "https://open.spotify.com/track/2NTojmUzspL9vNkOXKqRcV"
     },
     {
       "added_at": "2026-11-13 04:00:41",

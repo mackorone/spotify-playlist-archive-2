@@ -1,6 +1,6 @@
 {
   "description": "Vintage easy listening from the fifties...",
-  "num_followers": 179355,
+  "num_followers": 179358,
   "original_name": "Easy 50s",
   "owner": {
     "name": "Spotify",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "The Best Of Tony Brent",
-        "url": "https://open.spotify.com/album/26pN1w1fbL5t8EDI5XvaOn"
-      },
-      "artists": [
-        {
-          "name": "Tony Brent",
-          "url": "https://open.spotify.com/artist/4JHTfWmgZf3Hz7JLBGrJnj"
-        }
-      ],
-      "duration_ms": 154720,
-      "name": "Make It Soon - 1999 Remaster",
-      "url": "https://open.spotify.com/track/20SLjXdA0H3I5IRf4E07Hi"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "The Legendary Masters Series (Volume 1)",
         "url": "https://open.spotify.com/album/5R27t83T8Jhltww09lriMo"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 153666,
       "name": "Poor Little Fool",
       "url": "https://open.spotify.com/track/1ugZWl7RmEq95dea9hqorZ"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "The Best Of Tony Brent",
+        "url": "https://open.spotify.com/album/26pN1w1fbL5t8EDI5XvaOn"
+      },
+      "artists": [
+        {
+          "name": "Tony Brent",
+          "url": "https://open.spotify.com/artist/4JHTfWmgZf3Hz7JLBGrJnj"
+        }
+      ],
+      "duration_ms": 154720,
+      "name": "Make It Soon - 1999 Remaster",
+      "url": "https://open.spotify.com/track/20SLjXdA0H3I5IRf4E07Hi"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Skiffle - From Britain to Broadway",
-        "url": "https://open.spotify.com/album/5wxaPwp9lFcVpcjzr8YsNS"
-      },
-      "artists": [
-        {
-          "name": "Johnny Duncan & The Blue Grass Boys",
-          "url": "https://open.spotify.com/artist/5fEbMt6fvVtVp9RGkNWU5k"
-        }
-      ],
-      "duration_ms": 151186,
-      "name": "Last Train to San Fernando",
-      "url": "https://open.spotify.com/track/63fDzYusBC0MeUkmM856ug"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "Ruby Murray - Greatest Hits",
         "url": "https://open.spotify.com/album/5w3MZ0imkrTr5nkxy5IeWO"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 156373,
       "name": "I'll Come When You Call",
       "url": "https://open.spotify.com/track/1fuzK1I8Wi2d0lS1UPv4bG"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "Skiffle - From Britain to Broadway",
+        "url": "https://open.spotify.com/album/5wxaPwp9lFcVpcjzr8YsNS"
+      },
+      "artists": [
+        {
+          "name": "Johnny Duncan & The Blue Grass Boys",
+          "url": "https://open.spotify.com/artist/5fEbMt6fvVtVp9RGkNWU5k"
+        }
+      ],
+      "duration_ms": 151186,
+      "name": "Last Train to San Fernando",
+      "url": "https://open.spotify.com/track/63fDzYusBC0MeUkmM856ug"
     },
     {
       "added_at": "2023-10-17 16:18:55",

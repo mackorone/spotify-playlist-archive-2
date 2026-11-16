@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTe5ECpTKzMo.md) - [plain]
 
 > La tierra del Rap de oro puro\. Russo en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 741,726 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 741,711 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Wash Con Perfume](https://open.spotify.com/track/47rjyNFANGwKCX17cNRpLC) | [Russo](https://open.spotify.com/artist/4yzuWxT9FcCZUuzdKh1Fc4) | [SS](https://open.spotify.com/album/5FBoo7pM6iGIYWnAjlnGqA) | 2:50 |
 | 2 | [FES](https://open.spotify.com/track/6mj3eOn5r61kiRRdu4atAO) | [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce), [Omar Camacho](https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ) | [No Hay Ángeles Aquí](https://open.spotify.com/album/3Vh4oQSFSokbfcuXy7HH2i) | 3:03 |
-| 3 | [0 Detallista](https://open.spotify.com/track/0ArEuLqUKvwlTpnHTXHUnG) | [Casta](https://open.spotify.com/artist/4nN5iq2iVJ331Z788e5K0H), [Angel Cervantes](https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ) | [0 Detallista](https://open.spotify.com/album/7cuyhIhzehITLNlJL0AJ0e) | 3:26 |
+| 3 | [0 Detallista](https://open.spotify.com/track/0ArEuLqUKvwlTpnHTXHUnG) | [CASTA](https://open.spotify.com/artist/4cRoNq6q7p3fI0T8lZQImu), [Angel Cervantes](https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ) | [0 Detallista](https://open.spotify.com/album/7cuyhIhzehITLNlJL0AJ0e) | 3:26 |
 | 4 | [Dreamer Hats](https://open.spotify.com/track/1ZTBkD8l4rsiZUfsxDjMRI) | [Omar Camacho](https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ) | [Dreamer Hats](https://open.spotify.com/album/3fyvfbMSBjVFB5jHq5Dvqb) | 2:18 |
 | 5 | [Sábado de Noche](https://open.spotify.com/track/2BioSFp1kZ9uOIxOiveghK) | [Esau Ortiz](https://open.spotify.com/artist/6VcsqZOR5AtEOGeAtmutCZ), [ELMANU GOMEZ](https://open.spotify.com/artist/42njeO6C8HEoG3u118kMOS), [Joel De La P](https://open.spotify.com/artist/4qDRNT8ldCfCjSp9lBzYC5), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Sábado de Noche](https://open.spotify.com/album/4mZU1LZTaHFA4wv8P8F8vB) | 2:45 |
 | 6 | [No Me Apendejes](https://open.spotify.com/track/2dHp7SI4tRfcz7qrjIaqR5) | [Emilio Morales](https://open.spotify.com/artist/7niPvia8jlPaciHzQrDoYd) | [No Me Apendejes](https://open.spotify.com/album/0u2VE1neWBNI4We2373SCv) | 2:32 |

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JohQO7Ys7N.md) - [plain]
 
 > Kickback, Relax to some smooth R&B from Nairobi \-The city under the Sun\. Cover: Xenia Manasseh
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,913 likes - 60 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,925 likes - 60 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Chai ya saa kumi](https://open.spotify.com/track/1gQsbe5nVBPmfj5Y1d1kec) | [Ywaya Tajiri](https://open.spotify.com/artist/6wf9RfrBquBd6Galoe5oQE) | [Chai ya saa kumi](https://open.spotify.com/album/6zo9fgnkIliVQoZLSB9Wh5) | 4:00 |
 | 2 | [Ngozi Kama Jua](https://open.spotify.com/track/7lScV0vUMxy1tt2HnYGMXq) | [Bridget Blue](https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw) | [RNB](https://open.spotify.com/album/6Kb33vOoFyLLondSliPPlp) | 3:29 |
 | 3 | [Unanipa](https://open.spotify.com/track/263NrbGTVJI5draas4VOnY) | [Zaituni](https://open.spotify.com/artist/3HDy7kXvN8bcez9yh6wu3R) | [Unanipa](https://open.spotify.com/album/2MH90bwjE29b9TrsNTa47s) | 3:12 |
-| 4 | [Bitter Sweet](https://open.spotify.com/track/1qDz5NiUD1smerTp0bg6hA) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86), [Maali](https://open.spotify.com/artist/0Bw2d3PrLLqnor0Y9tt9vk), [Hendrick Sam](https://open.spotify.com/artist/3JCq2a0rntSwS9gtnhfNO9) | [NBO ‘X’ PRESS](https://open.spotify.com/album/6czwEju8FIEBB8PMMuzpl8) | 3:48 |
+| 4 | [Something In Between](https://open.spotify.com/track/1qDz5NiUD1smerTp0bg6hA) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86), [Maali](https://open.spotify.com/artist/0Bw2d3PrLLqnor0Y9tt9vk), [Hendrick Sam](https://open.spotify.com/artist/3JCq2a0rntSwS9gtnhfNO9) | [NBO ‘X’ PRESS](https://open.spotify.com/album/6czwEju8FIEBB8PMMuzpl8) | 3:48 |
 | 5 | [Running](https://open.spotify.com/track/6qk2rf87XMbLO27R3AAnCO) | [Kethan](https://open.spotify.com/artist/5xpwtUlXeMP8sywThx4tMh), [Kinoti](https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm), [Ochiko](https://open.spotify.com/artist/33hRHDCTA20GjDaJaCIEXi) | [Running](https://open.spotify.com/album/3I4mN1ycvLVaScIBXxR0fF) | 3:58 |
 | 6 | [Chizi Kwako](https://open.spotify.com/track/5I32LaDsjO03baUfHOTzav) | [Kahuti](https://open.spotify.com/artist/38bmHQVnxfWk7eEez4dYJg), [Davy Waweru](https://open.spotify.com/artist/19Y9KysWDrkmZyMy8VRpOp) | [LOVE me right](https://open.spotify.com/album/0iNZsNobOmDuhPeTgOpzUA) | 3:04 |
 | 7 | [TODAY](https://open.spotify.com/track/7zh9AoJxqvhNBSexAg0GDx) | [Muthoka](https://open.spotify.com/artist/5BSYJH7QrL8yLmFPzJedBp), [X.O](https://open.spotify.com/artist/2zu7sut23i4vR8OZPAxWyJ), [AUGUST IV](https://open.spotify.com/artist/0rSI47DldAq15E6L5pUH6T) | [TODAY](https://open.spotify.com/album/7bfcwLVnr6DnnUjMQQUhTp) | 2:59 |

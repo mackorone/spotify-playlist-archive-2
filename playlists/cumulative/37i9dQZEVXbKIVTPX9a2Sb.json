@@ -2999,6 +2999,24 @@
     },
     {
       "album": {
+        "name": "Dirty",
+        "url": "https://open.spotify.com/album/7cAU42lp78pXGS6DINrYQK"
+      },
+      "artists": [
+        {
+          "name": "Sima",
+          "url": "https://open.spotify.com/artist/7gQ6tkspAoOOoDaCuVcSwH"
+        }
+      ],
+      "date_added": "2026-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165172,
+      "name": "ASI CHCEM L\u00daBI\u0164 \u017dENU",
+      "url": "https://open.spotify.com/track/2jSPjDtJVXKZOKRjmm6opL"
+    },
+    {
+      "album": {
         "name": "PROTOTYPES",
         "url": "https://open.spotify.com/album/3GfYXb7CAmHDQOVTQEKNw4"
       },
@@ -4314,6 +4332,28 @@
       "duration_ms": 177291,
       "name": "Baddadan (feat. IRAH, Flowdan, Trigga & Takura)",
       "url": "https://open.spotify.com/track/2ZWmmrWUgDBcPSLihBMvhg"
+    },
+    {
+      "album": {
+        "name": "Dirty",
+        "url": "https://open.spotify.com/album/7cAU42lp78pXGS6DINrYQK"
+      },
+      "artists": [
+        {
+          "name": "Sima",
+          "url": "https://open.spotify.com/artist/7gQ6tkspAoOOoDaCuVcSwH"
+        },
+        {
+          "name": "ALYA",
+          "url": "https://open.spotify.com/artist/39OL7XofJjgzDzCSP3AdhB"
+        }
+      ],
+      "date_added": "2026-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154838,
+      "name": "BADDIES DNA (feat. ALYA)",
+      "url": "https://open.spotify.com/track/6rdl7WgCMPbaxdVzHD5KkF"
     },
     {
       "album": {
@@ -8733,6 +8773,28 @@
     },
     {
       "album": {
+        "name": "Dirty",
+        "url": "https://open.spotify.com/album/7cAU42lp78pXGS6DINrYQK"
+      },
+      "artists": [
+        {
+          "name": "Sima",
+          "url": "https://open.spotify.com/artist/7gQ6tkspAoOOoDaCuVcSwH"
+        },
+        {
+          "name": "Yael",
+          "url": "https://open.spotify.com/artist/5TSjeYa1XO0i6b4FVKZYYz"
+        }
+      ],
+      "date_added": "2026-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148453,
+      "name": "CHANEL (feat. Yael)",
+      "url": "https://open.spotify.com/track/3YKsNSvvTQRivRjsXw6OeA"
+    },
+    {
+      "album": {
         "name": "Chaos, Vtedy A Teraz",
         "url": "https://open.spotify.com/album/58kXwLlWTUCxkKO3OGFs5P"
       },
@@ -10596,7 +10658,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-12",
+      "date_removed": null,
       "duration_ms": 223448,
       "name": "Dai Dai",
       "url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL"
@@ -11340,7 +11402,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 195468,
       "name": "depresia nos\u00ed \u0161aty",
       "url": "https://open.spotify.com/track/2MYFqevfWFnrzAmdvtATZs"
@@ -11778,6 +11840,28 @@
       "duration_ms": 160880,
       "name": "Dinero",
       "url": "https://open.spotify.com/track/3ggtU1ZOKO8ZNiqPNyXGcm"
+    },
+    {
+      "album": {
+        "name": "Dirty",
+        "url": "https://open.spotify.com/album/7cAU42lp78pXGS6DINrYQK"
+      },
+      "artists": [
+        {
+          "name": "Sima",
+          "url": "https://open.spotify.com/artist/7gQ6tkspAoOOoDaCuVcSwH"
+        },
+        {
+          "name": "Stevie",
+          "url": "https://open.spotify.com/artist/61GFjVORR2HsJmTZBtb6vw"
+        }
+      ],
+      "date_added": "2026-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154853,
+      "name": "DIRTY (feat. Stevie)",
+      "url": "https://open.spotify.com/track/4oOJfWzWjHtVJ8qmcINcLT"
     },
     {
       "album": {
@@ -30650,7 +30734,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 197469,
       "name": "milkshake",
       "url": "https://open.spotify.com/track/1nVu2L5kUJjKsbn1sH58W6"
@@ -31800,7 +31884,7 @@
       ],
       "date_added": "2026-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 142200,
       "name": "Movin' To The Sun",
       "url": "https://open.spotify.com/track/4vTsKN15Kqo3Geo9r7FhAN"
@@ -33543,6 +33627,28 @@
     },
     {
       "album": {
+        "name": "Dirty",
+        "url": "https://open.spotify.com/album/7cAU42lp78pXGS6DINrYQK"
+      },
+      "artists": [
+        {
+          "name": "Sima",
+          "url": "https://open.spotify.com/artist/7gQ6tkspAoOOoDaCuVcSwH"
+        },
+        {
+          "name": "Caris",
+          "url": "https://open.spotify.com/artist/0PliFaVZryPetoS5p34fh2"
+        }
+      ],
+      "date_added": "2026-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171441,
+      "name": "NECHCEM \u017dI\u0164 BEZ TEBA (feat. Caris)",
+      "url": "https://open.spotify.com/track/4Cvax6gBelNMXAMS4zkKLF"
+    },
+    {
+      "album": {
         "name": "Nedl\u017e\u00edm Ti Ni\u010d",
         "url": "https://open.spotify.com/album/5gmCGM6CUUR9uYgUTLYLvQ"
       },
@@ -34654,7 +34760,7 @@
       ],
       "date_added": "2026-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 157009,
       "name": "NEZACHRANIA NAS",
       "url": "https://open.spotify.com/track/2WxEaN6jKuQGbJ32Cf3726"
@@ -39579,6 +39685,24 @@
     },
     {
       "album": {
+        "name": "Dirty",
+        "url": "https://open.spotify.com/album/7cAU42lp78pXGS6DINrYQK"
+      },
+      "artists": [
+        {
+          "name": "Sima",
+          "url": "https://open.spotify.com/artist/7gQ6tkspAoOOoDaCuVcSwH"
+        }
+      ],
+      "date_added": "2026-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140487,
+      "name": "POPCORN",
+      "url": "https://open.spotify.com/track/1Znua5xDERUTkJ0BHtjEpN"
+    },
+    {
+      "album": {
         "name": "v gastru nejsou lidi",
         "url": "https://open.spotify.com/album/7rPuZ6URXNF2GVh8NS2ulS"
       },
@@ -40228,7 +40352,7 @@
       ],
       "date_added": "2025-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 215988,
       "name": "Pre Dni",
       "url": "https://open.spotify.com/track/4vUqYLKsvAxlrvd9TEmtbw"
@@ -40378,6 +40502,28 @@
       "duration_ms": 134328,
       "name": "Pretty Boy",
       "url": "https://open.spotify.com/track/597xR7zSTBE6aZ3Qbs1YeM"
+    },
+    {
+      "album": {
+        "name": "Dirty",
+        "url": "https://open.spotify.com/album/7cAU42lp78pXGS6DINrYQK"
+      },
+      "artists": [
+        {
+          "name": "Sima",
+          "url": "https://open.spotify.com/artist/7gQ6tkspAoOOoDaCuVcSwH"
+        },
+        {
+          "name": "Dalyb",
+          "url": "https://open.spotify.com/artist/0GZP8QBchHTcjn9jFtLDtK"
+        }
+      ],
+      "date_added": "2026-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199480,
+      "name": "PRETTYBOY (feat. Dalyb)",
+      "url": "https://open.spotify.com/track/6B5R26VQEBXRuzoBlkgD0o"
     },
     {
       "album": {
@@ -40716,7 +40862,7 @@
       ],
       "date_added": "2026-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 200833,
       "name": "PROTOTYP",
       "url": "https://open.spotify.com/track/2DMop5UmWqz7X9xH3jCd9L"
@@ -40800,6 +40946,24 @@
       "duration_ms": 307013,
       "name": "Prv\u00e1",
       "url": "https://open.spotify.com/track/2fKyAD9HrKOn99FjqbbTaf"
+    },
+    {
+      "album": {
+        "name": "Dirty",
+        "url": "https://open.spotify.com/album/7cAU42lp78pXGS6DINrYQK"
+      },
+      "artists": [
+        {
+          "name": "Sima",
+          "url": "https://open.spotify.com/artist/7gQ6tkspAoOOoDaCuVcSwH"
+        }
+      ],
+      "date_added": "2026-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161538,
+      "name": "PRV\u00c9 MIESTO (onanana)",
+      "url": "https://open.spotify.com/track/5eUNXTGdNjQCPWCgoEtbpm"
     },
     {
       "album": {
@@ -43230,7 +43394,7 @@
       ],
       "date_added": "2026-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 131818,
       "name": "ROZDIELNE",
       "url": "https://open.spotify.com/track/0bXci8XBLy8XIgICg1DeKG"
@@ -44379,6 +44543,24 @@
     },
     {
       "album": {
+        "name": "Dirty",
+        "url": "https://open.spotify.com/album/7cAU42lp78pXGS6DINrYQK"
+      },
+      "artists": [
+        {
+          "name": "Sima",
+          "url": "https://open.spotify.com/artist/7gQ6tkspAoOOoDaCuVcSwH"
+        }
+      ],
+      "date_added": "2026-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158797,
+      "name": "SEBA MILOVA\u0164 VIAC",
+      "url": "https://open.spotify.com/track/3S0ugmEiHXZypJXkFNdGZN"
+    },
+    {
+      "album": {
         "name": "FR\u00cd DOM",
         "url": "https://open.spotify.com/album/45Whx5nXG7eQ3TmvgfSxXV"
       },
@@ -45184,6 +45366,24 @@
       "duration_ms": 176965,
       "name": "Show Me Love",
       "url": "https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa"
+    },
+    {
+      "album": {
+        "name": "Dirty",
+        "url": "https://open.spotify.com/album/7cAU42lp78pXGS6DINrYQK"
+      },
+      "artists": [
+        {
+          "name": "Sima",
+          "url": "https://open.spotify.com/artist/7gQ6tkspAoOOoDaCuVcSwH"
+        }
+      ],
+      "date_added": "2026-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "SHOW MUST GO ON",
+      "url": "https://open.spotify.com/track/73MIMW1HVwlMrHUPKv9viX"
     },
     {
       "album": {
@@ -46266,7 +46466,7 @@
       ],
       "date_added": "2026-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 134161,
       "name": "SNEZNA VILA",
       "url": "https://open.spotify.com/track/2DnyW1APhFhyeuRZ8YbwUR"
@@ -46624,6 +46824,24 @@
       "duration_ms": 200786,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/09CtPGIpYB4BrO8qb1RGsF"
+    },
+    {
+      "album": {
+        "name": "Dirty",
+        "url": "https://open.spotify.com/album/7cAU42lp78pXGS6DINrYQK"
+      },
+      "artists": [
+        {
+          "name": "Sima",
+          "url": "https://open.spotify.com/artist/7gQ6tkspAoOOoDaCuVcSwH"
+        }
+      ],
+      "date_added": "2026-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174246,
+      "name": "SORRY",
+      "url": "https://open.spotify.com/track/061xkiOx3oJ6Nt3YyfQjyS"
     },
     {
       "album": {
@@ -48084,7 +48302,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 199460,
       "name": "Stop The Wedding!",
       "url": "https://open.spotify.com/track/7MOO89Qv9AV7VZkt5mcqA8"
@@ -49258,7 +49476,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 167600,
       "name": "svetlo na konci tunela",
       "url": "https://open.spotify.com/track/7rgWBtS1z2UWtNUCzNWdb1"
@@ -50740,7 +50958,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 145270,
       "name": "thank you based god",
       "url": "https://open.spotify.com/track/6xBhTofgers7RYLwzyZM7e"
@@ -52596,7 +52814,7 @@
       ],
       "date_added": "2025-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 215013,
       "name": "Tras tou",
       "url": "https://open.spotify.com/track/37bzTXxhFeNN7K3fDFeGwU"
@@ -56332,6 +56550,24 @@
       "duration_ms": 267373,
       "name": "We Are The People",
       "url": "https://open.spotify.com/track/3zEN0ii6s4DHHBpnTp3RP7"
+    },
+    {
+      "album": {
+        "name": "Dirty",
+        "url": "https://open.spotify.com/album/7cAU42lp78pXGS6DINrYQK"
+      },
+      "artists": [
+        {
+          "name": "Sima",
+          "url": "https://open.spotify.com/artist/7gQ6tkspAoOOoDaCuVcSwH"
+        }
+      ],
+      "date_added": "2026-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 48901,
+      "name": "WE BACK (Intro)",
+      "url": "https://open.spotify.com/track/5ZVZmmBZ1PC3xvjf1BzjkN"
     },
     {
       "album": {
@@ -60268,7 +60504,7 @@
       ],
       "date_added": "2026-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 187200,
       "name": "\u017eena je zbra\u0148",
       "url": "https://open.spotify.com/track/4RxkEO7A1H4X0SHng27m3B"

@@ -52,7 +52,7 @@
       ],
       "date_added": "2025-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 233173,
       "name": "1968",
       "url": "https://open.spotify.com/track/2y6Mqnz8rc73kzoGw4MxnL"
@@ -88,7 +88,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-13",
+      "date_removed": null,
       "duration_ms": 372640,
       "name": "54",
       "url": "https://open.spotify.com/track/716vLwPfdagrP3kGrYPmTh"
@@ -370,7 +370,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-15",
+      "date_removed": null,
       "duration_ms": 323200,
       "name": "Allegri",
       "url": "https://open.spotify.com/track/4gfwkR7XoKv6G5OCN8jeHC"
@@ -533,6 +533,28 @@
     },
     {
       "album": {
+        "name": "FABLES",
+        "url": "https://open.spotify.com/album/7LRl9qpP0EmRxkYVGq52Sr"
+      },
+      "artists": [
+        {
+          "name": "Ekaterina Shelehova",
+          "url": "https://open.spotify.com/artist/2TGfzbEaJkHLEsRvryVhsJ"
+        },
+        {
+          "name": "Worakls",
+          "url": "https://open.spotify.com/artist/5RPzPJCg4ER1LzQkorZ31p"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311003,
+      "name": "ARRIVAL - Worakls Remix",
+      "url": "https://open.spotify.com/track/4o69Q8n8lYVqQrltHgwp1q"
+    },
+    {
+      "album": {
         "name": "Asymptote (Steven Weston Remix)",
         "url": "https://open.spotify.com/album/4ZXS8n75JlMZBBSfOcTvHn"
       },
@@ -574,7 +596,7 @@
       ],
       "date_added": "2026-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-13",
+      "date_removed": null,
       "duration_ms": 333251,
       "name": "Avalanche",
       "url": "https://open.spotify.com/track/0dyDDuZwc7pgeinNVjCRRq"
@@ -1636,7 +1658,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 250826,
       "name": "Down The Line",
       "url": "https://open.spotify.com/track/3scWnhahRG6x0Ul4bn1L62"
@@ -2256,7 +2278,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 289785,
       "name": "Feel Something - Lake Turner Remix",
       "url": "https://open.spotify.com/track/0fS7uJav3YGDivO8kxfNUt"
@@ -2404,7 +2426,7 @@
       ],
       "date_added": "2026-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 447000,
       "name": "Fumes - Joseph Ray Remix",
       "url": "https://open.spotify.com/track/1NF7abGPAKxBMNgweKUwQp"
@@ -2466,6 +2488,24 @@
       "duration_ms": 248005,
       "name": "Golden Ratio",
       "url": "https://open.spotify.com/track/2TwMYyNRaz1dQ6iWY4mEze"
+    },
+    {
+      "album": {
+        "name": "Golden Ratio",
+        "url": "https://open.spotify.com/album/2SGiYmSvmDuMLFukLJQLcj"
+      },
+      "artists": [
+        {
+          "name": "Bjokib",
+          "url": "https://open.spotify.com/artist/01hFDeuZo0Yqz82op3ttdP"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248005,
+      "name": "Golden Ratio",
+      "url": "https://open.spotify.com/track/78PQnaOjELxSNQRVZt1Z0t"
     },
     {
       "album": {
@@ -2642,7 +2682,7 @@
       ],
       "date_added": "2026-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-09",
+      "date_removed": null,
       "duration_ms": 256887,
       "name": "Hokan",
       "url": "https://open.spotify.com/track/6DkD4VQCHPPUwx0sqrOw4C"
@@ -2664,7 +2704,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 438900,
       "name": "Holocene",
       "url": "https://open.spotify.com/track/2BUcGUp1TUAOllgxRg6u2Z"
@@ -2922,7 +2962,7 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-13",
+      "date_removed": null,
       "duration_ms": 334000,
       "name": "Imelda",
       "url": "https://open.spotify.com/track/70o1QpxVB9tXoROZW2llMa"
@@ -3838,7 +3878,7 @@
       ],
       "date_added": "2026-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 383886,
       "name": "Molecular",
       "url": "https://open.spotify.com/track/2BkP6nAIGaMRfbEz1cALL2"
@@ -4138,7 +4178,7 @@
       ],
       "date_added": "2026-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-11",
+      "date_removed": null,
       "duration_ms": 255720,
       "name": "Name",
       "url": "https://open.spotify.com/track/4H0HEeJtZFCKWaV1MSTUfc"
@@ -4214,7 +4254,7 @@
       ],
       "date_added": "2026-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 205714,
       "name": "New Perspective",
       "url": "https://open.spotify.com/track/5cSzuvpbwIHDbvTdM9hdmE"
@@ -4322,7 +4362,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-15",
+      "date_removed": null,
       "duration_ms": 279440,
       "name": "Nuclear Fission",
       "url": "https://open.spotify.com/track/7MEcVIZxNQOxRmaafMVvId"
@@ -4434,7 +4474,7 @@
       ],
       "date_added": "2026-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 228099,
       "name": "Others - Electronic",
       "url": "https://open.spotify.com/track/2UwPrJ6lw3x7ZPVlDIGZWP"
@@ -4582,7 +4622,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 282701,
       "name": "Passing Days",
       "url": "https://open.spotify.com/track/7sdwHdRvLJMAWbJyrJTOto"
@@ -4680,7 +4720,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 210491,
       "name": "PEOPLE//PLEASER",
       "url": "https://open.spotify.com/track/1Tczrcus38dWH0Y54zaJmQ"
@@ -4832,7 +4872,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 240000,
       "name": "Premier contact",
       "url": "https://open.spotify.com/track/3fJPlwDCvx3dyKIoaSeANr"
@@ -4940,7 +4980,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 518240,
       "name": "Purpurreiher",
       "url": "https://open.spotify.com/track/0aNEWht4v7T61S8uREhERE"
@@ -5254,7 +5294,7 @@
       ],
       "date_added": "2026-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-08",
+      "date_removed": null,
       "duration_ms": 415960,
       "name": "Sahar",
       "url": "https://open.spotify.com/track/5vv68o859gLjUiuzkHNpV9"
@@ -5272,7 +5312,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-15",
+      "date_removed": null,
       "duration_ms": 274851,
       "name": "Samothrace",
       "url": "https://open.spotify.com/track/3ghGwVcpdzHpKnbc1d4Lhg"
@@ -5334,7 +5374,7 @@
       ],
       "date_added": "2026-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 333750,
       "name": "Saved By U - Abakus Remix",
       "url": "https://open.spotify.com/track/0huPiZomtZ9fsXuGik6ENm"
@@ -5494,7 +5534,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 429055,
       "name": "Shapes in the Spray",
       "url": "https://open.spotify.com/track/6h3ZomURqLW7JkM2S66FFL"
@@ -5538,7 +5578,7 @@
       ],
       "date_added": "2026-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 199500,
       "name": "Shark Island - Catching Flies Remix",
       "url": "https://open.spotify.com/track/57AirOkRR9ZhvhqLJzYR8q"
@@ -5690,7 +5730,7 @@
       ],
       "date_added": "2026-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-15",
+      "date_removed": null,
       "duration_ms": 235601,
       "name": "Song for the Quiet Ones",
       "url": "https://open.spotify.com/track/05r5LfktkJ3fXoxwM9enmB"
@@ -5834,7 +5874,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-15",
+      "date_removed": null,
       "duration_ms": 221066,
       "name": "Spirits of Joy",
       "url": "https://open.spotify.com/track/1jBKge3KmUCAtNazWzl93H"
@@ -6336,7 +6376,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-11",
+      "date_removed": null,
       "duration_ms": 292680,
       "name": "THE BRIDGE // 4:04AM",
       "url": "https://open.spotify.com/track/3mMtP3qD2c4vNihc2qOJst"
@@ -6444,7 +6484,7 @@
       ],
       "date_added": "2026-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 280819,
       "name": "The Night Before",
       "url": "https://open.spotify.com/track/4B5mgz7lF0MOG5Q6VYuCuE"
@@ -6781,6 +6821,28 @@
     },
     {
       "album": {
+        "name": "Uncoded",
+        "url": "https://open.spotify.com/album/1fd4p0BwWLfxO2UayETd2i"
+      },
+      "artists": [
+        {
+          "name": "Aalson",
+          "url": "https://open.spotify.com/artist/2tL0yAKQDnj1zb4V9uLeOY"
+        },
+        {
+          "name": "Polygraph",
+          "url": "https://open.spotify.com/artist/6gYJmeuuoyVX5E9ONHBfRL"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295625,
+      "name": "Uncoded",
+      "url": "https://open.spotify.com/track/5IWzlf2jQI5Gt20rlkzRut"
+    },
+    {
+      "album": {
         "name": "Understanding",
         "url": "https://open.spotify.com/album/69xTXgI572O99lGO5j9xxJ"
       },
@@ -6886,7 +6948,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-06",
+      "date_removed": null,
       "duration_ms": 206341,
       "name": "Verbier",
       "url": "https://open.spotify.com/track/7f8SsMWNbWM5Fyg9duonkz"
@@ -6908,7 +6970,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 344893,
       "name": "Verden",
       "url": "https://open.spotify.com/track/0an9zVn661Xhu94USWLmIj"
@@ -6980,7 +7042,7 @@
       ],
       "date_added": "2026-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-11",
+      "date_removed": null,
       "duration_ms": 255000,
       "name": "Volts",
       "url": "https://open.spotify.com/track/3M9veHxJCpyRkKbR7thkLA"
@@ -7240,7 +7302,7 @@
       ],
       "date_added": "2026-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 253884,
       "name": "where did all the emotion go?",
       "url": "https://open.spotify.com/track/3htZTXzNepPeycbszowENV"
@@ -7464,7 +7526,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-15",
+      "date_removed": null,
       "duration_ms": 417000,
       "name": "You and Me (We Owned It)",
       "url": "https://open.spotify.com/track/1U9zvD8HJ7zLmTPUbrosGf"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-[pma4real](https://open.spotify.com/user/jasonwaroff) - 1,347 likes - 65 songs - 3 hr 33 min
+[pma4real](https://open.spotify.com/user/jasonwaroff) - 1,364 likes - 71 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,5 +73,11 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 | 63 | [Lost In The Darkness.](https://open.spotify.com/track/3Ly5QSh3yGfNLZJPSuOf3l) | [TURN BLUE.](https://open.spotify.com/artist/2UknGqLKQShkLJweCFYzjL) | [Lost In The Darkness.](https://open.spotify.com/album/6cpcoERgYP8iD8ABpADnz0) | 3:53 |
 | 64 | [Feel the Vibes](https://open.spotify.com/track/2Yn3ht6bIMQiJhY8IRIKdn) | [Eva Ku](https://open.spotify.com/artist/2g0TDqQxF7SeIZpyloApb0) | [Feel the Vibes](https://open.spotify.com/album/7lgV9Fkn6XwxrWCQrp15zG) | 2:27 |
 | 65 | [Used To Be](https://open.spotify.com/track/3jiX9nLavQLNs0afYgP6Bf) | [Curtis Lee](https://open.spotify.com/artist/5oPWLiR5I9BqjSNgjF7bhD) | [Used To Be](https://open.spotify.com/album/1rrvrkDWzHJasEirfarXl0) | 3:50 |
+| 66 | [Última Carta](https://open.spotify.com/track/7DfztahOXQyW1wtOHuH8rx) | [Ikrus](https://open.spotify.com/artist/1Pggi3bJz4aKaokzWQeTNk) | [Última Carta](https://open.spotify.com/album/7D1tWAEvKdDvhkuTPcP8dA) | 2:22 |
+| 67 | [back again](https://open.spotify.com/track/6yD4FoZeOPQyPsyMuupj9m) | [Darro](https://open.spotify.com/artist/3X2AuZv4fn9OPLwy464PgG) | [pretty privilege](https://open.spotify.com/album/3Tkx5BQlPnMJLvCcr8IvOG) | 2:55 |
+| 68 | [Together](https://open.spotify.com/track/6bBsxc8InnRqUJIreqTvxQ) | [Brother Nature](https://open.spotify.com/artist/3tmXdtreR3DBXX5TLv4kda) | [Together](https://open.spotify.com/album/7sjQv0AEU6Wu5BpnphiWDX) | 3:40 |
+| 69 | [Nights Like These](https://open.spotify.com/track/4VA5EXvQ8AXhszTsAuZFPe) | [Lex Bauman](https://open.spotify.com/artist/0z0QAReD9ZD9jFugcn0G2g) | [The Dangerous Game](https://open.spotify.com/album/54X4nQApX8hqmZo0fAli56) | 3:55 |
+| 70 | [Father Time](https://open.spotify.com/track/6yG2tmhMQ1bUyPV55urRoq) | [Dangerous Times for the Dead](https://open.spotify.com/artist/3oYyw3Wy4IuN27X2eIFVWD) | [Father Time](https://open.spotify.com/album/1Pjg1qTNDTwtDUuSNNfraK) | 7:42 |
+| 71 | [Dreams](https://open.spotify.com/track/24q4l4i4XrTMIEVT63cT0J) | [NellyNellz](https://open.spotify.com/artist/1VznLVOSmnn2FVyXYnRcSl) | [Dreams](https://open.spotify.com/album/7F13TAN6q6AnupJv2x0QEh) | 3:56 |
 
-Snapshot ID: `AAAErDo7jEru5ErsG59nXdQu2WkpZ1kg`
+Snapshot ID: `AAAEstdynDC3D8kGQjuTwU0+4V0Bq140`

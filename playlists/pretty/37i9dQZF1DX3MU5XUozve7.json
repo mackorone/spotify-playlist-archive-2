@@ -1,6 +1,6 @@
 {
   "description": "A mix of new and classic melodic punk songs.",
-  "num_followers": 1117531,
+  "num_followers": 1117582,
   "original_name": "Skatepark Punks",
   "owner": {
     "name": "Spotify",
@@ -27,22 +27,6 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Three Cheers for Sweet Revenge",
-        "url": "https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h"
-      },
-      "artists": [
-        {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
-        }
-      ],
-      "duration_ms": 186480,
-      "name": "I'm Not Okay (I Promise)",
-      "url": "https://open.spotify.com/track/7lRlq939cDG4SzWOF4VAnd"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
         "name": "Appeal To Reason",
         "url": "https://open.spotify.com/album/4ebodSLpRqbuQjpGlDZglH"
       },
@@ -59,18 +43,18 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Riot!",
-        "url": "https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc"
+        "name": "Three Cheers for Sweet Revenge",
+        "url": "https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h"
       },
       "artists": [
         {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
         }
       ],
-      "duration_ms": 211520,
-      "name": "Misery Business",
-      "url": "https://open.spotify.com/track/6SpLc7EXZIPpy0sVko0aoU"
+      "duration_ms": 186480,
+      "name": "I'm Not Okay (I Promise)",
+      "url": "https://open.spotify.com/track/7lRlq939cDG4SzWOF4VAnd"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -87,6 +71,22 @@
       "duration_ms": 175093,
       "name": "The Anthem",
       "url": "https://open.spotify.com/track/0BRHnOFm6sjxN1i9LJrUDu"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "Riot!",
+        "url": "https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 211520,
+      "name": "Misery Business",
+      "url": "https://open.spotify.com/track/6SpLc7EXZIPpy0sVko0aoU"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -827,6 +827,22 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
+        "name": "Does This Look Infected?",
+        "url": "https://open.spotify.com/album/7yhuYfoxQIer3OcxPLfebA"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 160866,
+      "name": "Still Waiting",
+      "url": "https://open.spotify.com/track/4rLKjYqJjLU0Odg52kGL2O"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
         "name": "MY FAVORITE NIGHTMARES",
         "url": "https://open.spotify.com/album/5YwWOzaV6HGAUylT1MvoJZ"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 124191,
       "name": "SIDEWAYS (with Travis Barker)",
       "url": "https://open.spotify.com/track/0SbcVQyMO5M68AzhX8gYaS"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
-        "name": "Does This Look Infected?",
-        "url": "https://open.spotify.com/album/7yhuYfoxQIer3OcxPLfebA"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 160866,
-      "name": "Still Waiting",
-      "url": "https://open.spotify.com/track/4rLKjYqJjLU0Odg52kGL2O"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Haunted Cities",
-        "url": "https://open.spotify.com/album/10mexDSzBb2FQtuWTJs5l8"
-      },
-      "artists": [
-        {
-          "name": "Transplants",
-          "url": "https://open.spotify.com/artist/6f9zLIMqyEu7abKhGMFr5q"
-        }
-      ],
-      "duration_ms": 234807,
-      "name": "Gangsters and Thugs",
-      "url": "https://open.spotify.com/track/77LJcGtVHqhMssgqJgzpRi"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
         "name": "Father of All...",
         "url": "https://open.spotify.com/album/7ij8wQxCAexZiXZbMOHcxE"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 114331,
       "name": "Sugar Youth",
       "url": "https://open.spotify.com/track/62EiqO4OVS0v4H6Y3DtQ3e"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "Haunted Cities",
+        "url": "https://open.spotify.com/album/10mexDSzBb2FQtuWTJs5l8"
+      },
+      "artists": [
+        {
+          "name": "Transplants",
+          "url": "https://open.spotify.com/artist/6f9zLIMqyEu7abKhGMFr5q"
+        }
+      ],
+      "duration_ms": 234807,
+      "name": "Gangsters and Thugs",
+      "url": "https://open.spotify.com/track/77LJcGtVHqhMssgqJgzpRi"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Devil's Kind",
-        "url": "https://open.spotify.com/album/3z0DqLSBK7xU8SnSYpECps"
-      },
-      "artists": [
-        {
-          "name": "The Longshot",
-          "url": "https://open.spotify.com/artist/6MBlO0toUKQKFi5g0z4u3O"
-        }
-      ],
-      "duration_ms": 181224,
-      "name": "Devil's Kind",
-      "url": "https://open.spotify.com/track/1a6jJSAUgRwpUB7IrwxYOS"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
         "name": "A War Against You",
         "url": "https://open.spotify.com/album/1YucLjJNiClZ4C0J3Zi8ao"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 198400,
       "name": "Nothing Can Stop Me",
       "url": "https://open.spotify.com/track/0ziRMfe23VgL3Gp619AXU4"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "Devil's Kind",
+        "url": "https://open.spotify.com/album/3z0DqLSBK7xU8SnSYpECps"
+      },
+      "artists": [
+        {
+          "name": "The Longshot",
+          "url": "https://open.spotify.com/artist/6MBlO0toUKQKFi5g0z4u3O"
+        }
+      ],
+      "duration_ms": 181224,
+      "name": "Devil's Kind",
+      "url": "https://open.spotify.com/track/1a6jJSAUgRwpUB7IrwxYOS"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Find Me Here, Pt. 1",
-        "url": "https://open.spotify.com/album/2Kmuf6e92jIKmxmjGye33U"
-      },
-      "artists": [
-        {
-          "name": "High Wire",
-          "url": "https://open.spotify.com/artist/5djG2fWMe75twMqdSDorI6"
-        }
-      ],
-      "duration_ms": 208733,
-      "name": "When You're Gone",
-      "url": "https://open.spotify.com/track/2HwQ96y7MiYxamAERVIyOF"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
         "name": "Never Gonna Die",
         "url": "https://open.spotify.com/album/2FFUV5Qe5UzMQhKwoKk8nF"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 160120,
       "name": "Never Gonna Die",
       "url": "https://open.spotify.com/track/0vOFieMa3Awbz180AGTrz0"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "Find Me Here, Pt. 1",
+        "url": "https://open.spotify.com/album/2Kmuf6e92jIKmxmjGye33U"
+      },
+      "artists": [
+        {
+          "name": "High Wire",
+          "url": "https://open.spotify.com/artist/5djG2fWMe75twMqdSDorI6"
+        }
+      ],
+      "duration_ms": 208733,
+      "name": "When You're Gone",
+      "url": "https://open.spotify.com/track/2HwQ96y7MiYxamAERVIyOF"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "The Best Of Goldfinger",
-        "url": "https://open.spotify.com/album/2Fhk8LPPX8d14HwEKjmJ1O"
-      },
-      "artists": [
-        {
-          "name": "Goldfinger",
-          "url": "https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM"
-        }
-      ],
-      "duration_ms": 191586,
-      "name": "Here In Your Bedroom",
-      "url": "https://open.spotify.com/track/0e0qRLVKIW1JNkLZg14bQF"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
         "name": "Reclamation",
         "url": "https://open.spotify.com/album/6kkfH6nlogS6u2AaggS7fF"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 130199,
       "name": "A War Inside",
       "url": "https://open.spotify.com/track/53tHHx3mbjWDh9B9rpeLGJ"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "The Best Of Goldfinger",
+        "url": "https://open.spotify.com/album/2Fhk8LPPX8d14HwEKjmJ1O"
+      },
+      "artists": [
+        {
+          "name": "Goldfinger",
+          "url": "https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM"
+        }
+      ],
+      "duration_ms": 191586,
+      "name": "Here In Your Bedroom",
+      "url": "https://open.spotify.com/track/0e0qRLVKIW1JNkLZg14bQF"
     }
   ],
   "unique_name": "Skatepark Punks",

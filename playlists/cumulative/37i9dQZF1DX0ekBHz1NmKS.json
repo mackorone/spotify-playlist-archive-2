@@ -28468,7 +28468,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 186402,
       "name": "n\u00e4ra n\u00e5t s\u00e5 bra",
       "url": "https://open.spotify.com/track/314slNVWu8k7xw773zLLIu"
@@ -38034,6 +38034,24 @@
       "duration_ms": 170624,
       "name": "S\u00e5 Fr\u00e4sch",
       "url": "https://open.spotify.com/track/1mzhp880UmL26aTN99UjWu"
+    },
+    {
+      "album": {
+        "name": "S\u00e5 l\u00e4tt",
+        "url": "https://open.spotify.com/album/69xPHVyPT1C0V6kvB00K9g"
+      },
+      "artists": [
+        {
+          "name": "Genom Natten",
+          "url": "https://open.spotify.com/artist/5UkGksYXrb5tn3IEjgVFb9"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188448,
+      "name": "S\u00e5 l\u00e4tt",
+      "url": "https://open.spotify.com/track/0FTLZJk8x9qJrI7Dgwotr9"
     },
     {
       "album": {

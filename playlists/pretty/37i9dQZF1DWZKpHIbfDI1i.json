@@ -1,6 +1,6 @@
 {
   "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Majo Aguilar",
-  "num_followers": 881060,
+  "num_followers": 881078,
   "original_name": "Top M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -775,6 +775,26 @@
     {
       "added_at": "2026-11-13 06:00:53",
       "album": {
+        "name": "Mi Ni\u00f1a",
+        "url": "https://open.spotify.com/album/7D23YDRGp0lkOgX6dWBwj5"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        }
+      ],
+      "duration_ms": 175522,
+      "name": "Mi Ni\u00f1a",
+      "url": "https://open.spotify.com/track/6oLeiLXwyuExCdb5yKwupB"
+    },
+    {
+      "added_at": "2026-11-13 06:00:53",
+      "album": {
         "name": "Cuando No Era Cantante (Remix)",
         "url": "https://open.spotify.com/album/544ufGb3kucRiYrB93cteJ"
       },
@@ -799,26 +819,6 @@
       "duration_ms": 327488,
       "name": "Cuando No Era Cantante - Remix",
       "url": "https://open.spotify.com/track/2pbSCYzxrG0wa6qcj8IyiE"
-    },
-    {
-      "added_at": "2026-11-13 06:00:53",
-      "album": {
-        "name": "Mi Ni\u00f1a",
-        "url": "https://open.spotify.com/album/7D23YDRGp0lkOgX6dWBwj5"
-      },
-      "artists": [
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        },
-        {
-          "name": "Victor Mendivil",
-          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
-        }
-      ],
-      "duration_ms": 175522,
-      "name": "Mi Ni\u00f1a",
-      "url": "https://open.spotify.com/track/6oLeiLXwyuExCdb5yKwupB"
     },
     {
       "added_at": "2026-11-13 06:00:53",
@@ -895,6 +895,26 @@
     {
       "added_at": "2026-11-13 06:00:53",
       "album": {
+        "name": "Chulalai",
+        "url": "https://open.spotify.com/album/1HliYPbEeC03oqZAEbLlDk"
+      },
+      "artists": [
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        },
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        }
+      ],
+      "duration_ms": 213313,
+      "name": "Chulalai",
+      "url": "https://open.spotify.com/track/30RQ0dBEbRWaIxb8Sfq9pa"
+    },
+    {
+      "added_at": "2026-11-13 06:00:53",
+      "album": {
         "name": "Nadie Te Extra\u00f1a",
         "url": "https://open.spotify.com/album/1cyosajQlz2hBQv3hFajV8"
       },
@@ -927,26 +947,6 @@
       "duration_ms": 194180,
       "name": "Melancol\u00eda",
       "url": "https://open.spotify.com/track/49CcSnr5vJ74hohdCzJaHk"
-    },
-    {
-      "added_at": "2026-11-13 06:00:53",
-      "album": {
-        "name": "Chulalai",
-        "url": "https://open.spotify.com/album/1HliYPbEeC03oqZAEbLlDk"
-      },
-      "artists": [
-        {
-          "name": "Kenia Os",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        },
-        {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
-        }
-      ],
-      "duration_ms": 213313,
-      "name": "Chulalai",
-      "url": "https://open.spotify.com/track/30RQ0dBEbRWaIxb8Sfq9pa"
     },
     {
       "added_at": "2026-11-13 06:00:53",
@@ -1019,26 +1019,6 @@
     {
       "added_at": "2026-11-13 06:00:53",
       "album": {
-        "name": "Qu\u00e9 Andas Haciendo",
-        "url": "https://open.spotify.com/album/5aglfekM0ZJCRb83xKQ2Re"
-      },
-      "artists": [
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
-        {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
-        }
-      ],
-      "duration_ms": 199994,
-      "name": "Qu\u00e9 Andas Haciendo",
-      "url": "https://open.spotify.com/track/2Pv1g4OMtsdeQw3QF5v1it"
-    },
-    {
-      "added_at": "2026-11-13 06:00:53",
-      "album": {
         "name": "Chaparrita (Remix)",
         "url": "https://open.spotify.com/album/6PrdKGA2ZSkdjEQBqWzxeV"
       },
@@ -1063,6 +1043,26 @@
       "duration_ms": 266400,
       "name": "Chaparrita (Remix)",
       "url": "https://open.spotify.com/track/1Du2rsAGiX1LcCegMomlFH"
+    },
+    {
+      "added_at": "2026-11-13 06:00:53",
+      "album": {
+        "name": "Qu\u00e9 Andas Haciendo",
+        "url": "https://open.spotify.com/album/5aglfekM0ZJCRb83xKQ2Re"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "duration_ms": 199994,
+      "name": "Qu\u00e9 Andas Haciendo",
+      "url": "https://open.spotify.com/track/2Pv1g4OMtsdeQw3QF5v1it"
     },
     {
       "added_at": "2026-11-13 06:00:53",
@@ -1119,26 +1119,6 @@
     {
       "added_at": "2026-11-13 06:00:53",
       "album": {
-        "name": "Me Est\u00e1 Doliendo",
-        "url": "https://open.spotify.com/album/5JnNUibrxRMHmyIp6ZjrSr"
-      },
-      "artists": [
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 202941,
-      "name": "Me Est\u00e1 Doliendo",
-      "url": "https://open.spotify.com/track/0if2KuMjKXCdBKM2Shdpf6"
-    },
-    {
-      "added_at": "2026-11-13 06:00:53",
-      "album": {
         "name": "Cham\u00e1n",
         "url": "https://open.spotify.com/album/0TPmQlQqf3SJuw4iXBd3yi"
       },
@@ -1155,6 +1135,26 @@
       "duration_ms": 167968,
       "name": "Cham\u00e1n",
       "url": "https://open.spotify.com/track/3bfLsmZWYctP2j2ZrPRGHA"
+    },
+    {
+      "added_at": "2026-11-13 06:00:53",
+      "album": {
+        "name": "Me Est\u00e1 Doliendo",
+        "url": "https://open.spotify.com/album/5JnNUibrxRMHmyIp6ZjrSr"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 202941,
+      "name": "Me Est\u00e1 Doliendo",
+      "url": "https://open.spotify.com/track/0if2KuMjKXCdBKM2Shdpf6"
     },
     {
       "added_at": "2026-11-13 06:00:53",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2026-11-13 06:00:53",
       "album": {
+        "name": "Coraz\u00f3n Vac\u00edo",
+        "url": "https://open.spotify.com/album/5Rhbn86H35AnVyxdsoyYP0"
+      },
+      "artists": [
+        {
+          "name": "R\u00e9gulo Molina",
+          "url": "https://open.spotify.com/artist/6sbrrDwFdWvTLiq8NUykqm"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Coraz\u00f3n Vac\u00edo",
+      "url": "https://open.spotify.com/track/5Mqdw5Vr0pxbK4zS2zb1is"
+    },
+    {
+      "added_at": "2026-11-13 06:00:53",
+      "album": {
         "name": "HOTEL",
         "url": "https://open.spotify.com/album/67a6fNLaEqegUlJqwUIZBl"
       },
@@ -1403,22 +1419,6 @@
       "duration_ms": 153745,
       "name": "HOTEL",
       "url": "https://open.spotify.com/track/14DsN6NTIqzJ1hbRjy0t3j"
-    },
-    {
-      "added_at": "2026-11-13 06:00:53",
-      "album": {
-        "name": "Coraz\u00f3n Vac\u00edo",
-        "url": "https://open.spotify.com/album/5Rhbn86H35AnVyxdsoyYP0"
-      },
-      "artists": [
-        {
-          "name": "R\u00e9gulo Molina",
-          "url": "https://open.spotify.com/artist/6sbrrDwFdWvTLiq8NUykqm"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Coraz\u00f3n Vac\u00edo",
-      "url": "https://open.spotify.com/track/5Mqdw5Vr0pxbK4zS2zb1is"
     }
   ],
   "unique_name": "Top M\u00e9xico",

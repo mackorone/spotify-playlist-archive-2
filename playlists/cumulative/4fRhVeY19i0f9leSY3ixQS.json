@@ -250,7 +250,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 87754,
       "name": "2. Acuario - V.3",
       "url": "https://open.spotify.com/track/5kiaOrldpbnFaKXepsExFT"
@@ -430,7 +430,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 169217,
       "name": "6 speed",
       "url": "https://open.spotify.com/track/2CpBDi31Xtn8grUQM6a8WX"
@@ -812,7 +812,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 259307,
       "name": "About the stories",
       "url": "https://open.spotify.com/track/6odSngLSbKSSjqaMqcBqLJ"
@@ -2048,7 +2048,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 179646,
       "name": "And We'll Be Best Friends Forever",
       "url": "https://open.spotify.com/track/0KZ9y81UF6Xto8qdgmmsty"
@@ -7042,7 +7042,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 203827,
       "name": "Call That A Comeback",
       "url": "https://open.spotify.com/track/2h2rlUGYS0tkxJL0wtE8Y5"
@@ -11106,7 +11106,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 200813,
       "name": "Detonate",
       "url": "https://open.spotify.com/track/5yctlnNw82VAYM9lQNaCzK"
@@ -14639,6 +14639,24 @@
     },
     {
       "album": {
+        "name": "Falling Down",
+        "url": "https://open.spotify.com/album/5rydNFhgtyNFdgSWOPmZuD"
+      },
+      "artists": [
+        {
+          "name": "Breaches",
+          "url": "https://open.spotify.com/artist/45nCl4FXVmv4HjwLXVy2Ze"
+        }
+      ],
+      "date_added": "2026-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217928,
+      "name": "Falling Down",
+      "url": "https://open.spotify.com/track/0EuyJyhhqqUBVVN3QUCt0p"
+    },
+    {
+      "album": {
         "name": "Astro Life",
         "url": "https://open.spotify.com/album/3n8oFyAMOOqIxsneTKj89I"
       },
@@ -16900,6 +16918,24 @@
       "duration_ms": 162911,
       "name": "Get Rad",
       "url": "https://open.spotify.com/track/5mldB7JJoRKyHyOgvypPqy"
+    },
+    {
+      "album": {
+        "name": "farmoretrivial",
+        "url": "https://open.spotify.com/album/0qi35zl7qpUTnpW8GTmXk3"
+      },
+      "artists": [
+        {
+          "name": "The Grapes",
+          "url": "https://open.spotify.com/artist/7FJVysywvfT6y3XG2OsPZo"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191000,
+      "name": "GET SOMETHING!",
+      "url": "https://open.spotify.com/track/6YkhSznRxIR435KoMRJ0Hu"
     },
     {
       "album": {
@@ -28652,7 +28688,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 191033,
       "name": "Nadie sabe que aqu\u00ed estoy",
       "url": "https://open.spotify.com/track/2ziJ922Y8Hk6kbt1oRpf4z"
@@ -29600,7 +29636,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 181443,
       "name": "No Need To Know",
       "url": "https://open.spotify.com/track/74H04L5zFKU65POM05cRP4"
@@ -32178,7 +32214,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 224405,
       "name": "Paura di sentire",
       "url": "https://open.spotify.com/track/4v4cLoMwC1GTWUh8u01c7v"
@@ -36803,6 +36839,24 @@
     },
     {
       "album": {
+        "name": "Seven Minutes to Enmore",
+        "url": "https://open.spotify.com/album/3O4kklY0xpGb0GzCCyQnx9"
+      },
+      "artists": [
+        {
+          "name": "Fret",
+          "url": "https://open.spotify.com/artist/3LJDEgn0zmPEqN5ybLli86"
+        }
+      ],
+      "date_added": "2026-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211597,
+      "name": "Seven Minutes to Enmore",
+      "url": "https://open.spotify.com/track/0ERbkVGuvbQ7zER7sXwjQt"
+    },
+    {
+      "album": {
         "name": "Seven Nation Army",
         "url": "https://open.spotify.com/album/1Iq7eGMZyypXkVQg2vjX4S"
       },
@@ -38066,7 +38120,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 197297,
       "name": "Sky Mall",
       "url": "https://open.spotify.com/track/3XSufeGtdRM5jKLzewQyVu"
@@ -43702,7 +43756,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 143680,
       "name": "The Pack",
       "url": "https://open.spotify.com/track/1kAzy3e3CgVARF6C7VWEOf"

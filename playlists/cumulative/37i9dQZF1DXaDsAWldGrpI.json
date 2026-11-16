@@ -291,6 +291,24 @@
     },
     {
       "album": {
+        "name": "Arkansas Diamond/Copperhead Road (Live from Cain's Ballroom)",
+        "url": "https://open.spotify.com/album/5jnUVBr7vgLnuz1DssPxcx"
+      },
+      "artists": [
+        {
+          "name": "Waylon Wyatt",
+          "url": "https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236132,
+      "name": "Arkansas Diamond - Live from Cain's Ballroom",
+      "url": "https://open.spotify.com/track/1K4FZAVYsgffBDUIBeVvIV"
+    },
+    {
+      "album": {
         "name": "Atlantic City (Live in Jersey) [feat. Bruce Springsteen and Kings of Leon]",
         "url": "https://open.spotify.com/album/7sZ70n45HG0bZ44E7ApqXq"
       },
@@ -1218,7 +1236,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 277493,
       "name": "Drinkin' Problem - Live From Red Rocks",
       "url": "https://open.spotify.com/track/4naDfPPsElr2GuaX4nxcuG"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. Cover: Princeton South
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,382 likes - 122 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,397 likes - 122 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

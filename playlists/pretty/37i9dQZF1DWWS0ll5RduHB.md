@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS0ll5RduHB.md) - [plain]
 
 > 音楽をポケットに詰めて散歩に出かけよう。きっと新しい景色が見えてくるはず。
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,246 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,250 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,16 +26,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS0ll5RduHB.md) - [plain]
 | 16 | [Hey, People](https://open.spotify.com/track/0dQbsj0KMwoaa5xzzx4nwK) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Airplane Mode](https://open.spotify.com/album/379McNO5sSbweTq3tZi68P) | 3:40 |
 | 17 | [courage](https://open.spotify.com/track/1GxXymBkVQJtSPZhiyl2wZ) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [bad pieces](https://open.spotify.com/album/3vyo8Ev3o6olStojgqpS6U) | 3:11 |
 | 18 | [worst case](https://open.spotify.com/track/7Ma1yFac4us8oeH9dUFcRe) | [Chelsea Jordan](https://open.spotify.com/artist/6AO3in7TlN2ab2o5Cq5lrs) | [worst case](https://open.spotify.com/album/1AhPEMq3UKAxsOzzC58SD4) | 3:13 |
-| 19 | [Plein Soleil](https://open.spotify.com/track/2jYoHERAJLmbPEzgEq3q81) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Plein Soleil](https://open.spotify.com/album/34syQNcB2yboOXhcPmN78h) | 3:25 |
-| 20 | [いいんじゃない](https://open.spotify.com/track/6hJAJZixE6D1rjreTfBxNm) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [いいんじゃない](https://open.spotify.com/album/71eZv4CCScNApcSYATHObm) | 2:56 |
+| 19 | [いいんじゃない](https://open.spotify.com/track/6hJAJZixE6D1rjreTfBxNm) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [いいんじゃない](https://open.spotify.com/album/71eZv4CCScNApcSYATHObm) | 2:56 |
+| 20 | [Plein Soleil](https://open.spotify.com/track/2jYoHERAJLmbPEzgEq3q81) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Plein Soleil](https://open.spotify.com/album/34syQNcB2yboOXhcPmN78h) | 3:25 |
 | 21 | [I Love a Rainbow](https://open.spotify.com/track/3bblDd2pNGaTSWGOT6lf3y) | [Ms\. Rachel](https://open.spotify.com/artist/2VHUurTrOGljxENj3zk5Ep), [Mr\. Aron](https://open.spotify.com/artist/2vwgMqrI18rBthEJADjf5z) | [I Love a Rainbow](https://open.spotify.com/album/4ndX4Oc55aMO7u6EWRH6zJ) | 2:09 |
 | 22 | [Casual Crime](https://open.spotify.com/track/52Ww5RZpJuDWttqnIBeGr3) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [Casual Crime](https://open.spotify.com/album/35q3NeLzH7VRKep6AtGFY1) | 2:35 |
 | 23 | [Smartest Person in the Room](https://open.spotify.com/track/6VDE9z9Ld25UhlC9SXnbRX) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Sleeping Lion](https://open.spotify.com/album/1uDux5bGlSh9JUxMkQ05dE) | 3:22 |
 | 24 | [cosas malas de mí](https://open.spotify.com/track/1dNnMJZhKPnrYrS3Y3lJfT) | [Paloma Morphy](https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw) | [cosas malas de mí](https://open.spotify.com/album/2HLUGJszUAkOt4aFiQf1EW) | 2:59 |
 | 25 | [Chain Reaction](https://open.spotify.com/track/02kiA7m6xx7F7KC1ukLpTq) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Kismet](https://open.spotify.com/album/1GeE95CLSgFa5r3I5a7Q50) | 3:26 |
 | 26 | [Lucky, Forever](https://open.spotify.com/track/79zGDuB16RwJPPI5Vegmqa) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Pursuit of Anything](https://open.spotify.com/album/0NLI9IZhkXdAd39HJeo76c) | 4:24 |
-| 27 | [close to you](https://open.spotify.com/track/62EGzcAgn5m00LbligcAMY) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe), [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [close to you](https://open.spotify.com/album/11tfftWLFm6rPm63YlgfrD) | 3:31 |
-| 28 | [Home \(feat\. Hikaru Utada\)](https://open.spotify.com/track/4V9fJ12KcWd78OSAqYNO9r) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [Home \(feat\. Hikaru Utada\)](https://open.spotify.com/album/3jIzQAsO6agpgpWRMOO8uF) | 3:44 |
+| 27 | [Home \(feat\. Hikaru Utada\)](https://open.spotify.com/track/4V9fJ12KcWd78OSAqYNO9r) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [Home \(feat\. Hikaru Utada\)](https://open.spotify.com/album/3jIzQAsO6agpgpWRMOO8uF) | 3:44 |
+| 28 | [close to you](https://open.spotify.com/track/62EGzcAgn5m00LbligcAMY) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe), [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [close to you](https://open.spotify.com/album/11tfftWLFm6rPm63YlgfrD) | 3:31 |
 | 29 | [Virtuoso](https://open.spotify.com/track/2RtNoFR37ieZtxShQ5BSSI) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Sweet Fortune](https://open.spotify.com/album/6FYDpZcqoVFDb31Zo4KA5S) | 3:41 |
 | 30 | [Paradise](https://open.spotify.com/track/5xH2hp2X3Pi7bDGz35KNNX) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Paradise](https://open.spotify.com/album/7dutOE7bbKKclQKlADC76B) | 3:01 |
 | 31 | [The Kardashians](https://open.spotify.com/track/7JlbrqQVlHh8rnaTlAzy9j) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Songs From The Wedding Cake](https://open.spotify.com/album/50t0TEz7Owjimd7bakSpkg) | 4:05 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS0ll5RduHB.md) - [plain]
 | 34 | [This and That](https://open.spotify.com/track/13c64od8WGLypIJIlTivOM) | [WIM](https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz) | [This and That](https://open.spotify.com/album/2GHpkTjWIlzkHSOE8HnzIZ) | 3:22 |
 | 35 | [LOVE, LOVE, LOVE](https://open.spotify.com/track/3j49aLXWWkbjQyUyvngokI) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [LOVE, LOVE, LOVE](https://open.spotify.com/album/1blSqiJB7glrGiCVEQZG3f) | 4:02 |
 | 36 | [Who Do You Love \(feat\. The Milk Carton Kids\)](https://open.spotify.com/track/0CkRBKSBFHVsktNbT1qz2M) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL), [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [Little Miss Twain \- The Places I'll Go](https://open.spotify.com/album/025elCPgKgk6oamY3uLTZ6) | 2:59 |
-| 37 | [\(no\) te quiero perder \- BY BERSHKA MUSIC](https://open.spotify.com/track/7iOXb777qN8aqu8ulgZd6l) | [Paloma Morphy](https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw) | [\(no\) te quiero perder \[BY BERSHKA MUSIC\]](https://open.spotify.com/album/3aDgxK43chuaG2UTt9HJ9E) | 2:21 |
-| 38 | [チョコ摩訶不思議](https://open.spotify.com/track/2QhcDHMTl3HjhwThOTdFUK) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [チョコ摩訶不思議](https://open.spotify.com/album/1q0DCZHUVnVYCjAjC09rKm) | 2:25 |
+| 37 | [チョコ摩訶不思議](https://open.spotify.com/track/2QhcDHMTl3HjhwThOTdFUK) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [チョコ摩訶不思議](https://open.spotify.com/album/1q0DCZHUVnVYCjAjC09rKm) | 2:25 |
+| 38 | [\(no\) te quiero perder \- BY BERSHKA MUSIC](https://open.spotify.com/track/7iOXb777qN8aqu8ulgZd6l) | [Paloma Morphy](https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw) | [\(no\) te quiero perder \[BY BERSHKA MUSIC\]](https://open.spotify.com/album/3aDgxK43chuaG2UTt9HJ9E) | 2:21 |
 | 39 | [Big Strong Man](https://open.spotify.com/track/0dIqX63wlCNs47iwUOq0G3) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Big Strong Man](https://open.spotify.com/album/2KLdQb39rhE54nb7Razscv) | 3:49 |
 | 40 | [BRUJA](https://open.spotify.com/track/4Sqi6eRWwR6TcaEGS0IEvd) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [BRUJA](https://open.spotify.com/album/1xG4xAWcvM38Mk69z9gFtH) | 2:51 |
 | 41 | [2 Hands](https://open.spotify.com/track/0YrQ3IEz9gune1OWHEvwnX) | [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [2 Hands](https://open.spotify.com/album/1W8dfBIAzmCLLctGK7V64l) | 3:52 |

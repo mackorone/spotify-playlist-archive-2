@@ -3981,6 +3981,24 @@
     },
     {
       "album": {
+        "name": "DESZCZOWE DNI",
+        "url": "https://open.spotify.com/album/2pf5ReLVqOuttfhzAr4g4j"
+      },
+      "artists": [
+        {
+          "name": "FANKA",
+          "url": "https://open.spotify.com/artist/5wUmzMcZxXPMi2qpddL0wg"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170769,
+      "name": "DESZCZOWE DNI",
+      "url": "https://open.spotify.com/track/0orsG9bSOEiG0EDB6ujAEU"
+    },
+    {
+      "album": {
         "name": "Deszczowy lipiec",
         "url": "https://open.spotify.com/album/5VgL0uIeNvxt9BY33a0vsu"
       },
@@ -11124,7 +11142,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 156000,
       "name": "niech nie \u017cyje nam",
       "url": "https://open.spotify.com/track/0sNuqgwVY7j4ArP5v8cBnR"
@@ -11872,6 +11890,24 @@
       "duration_ms": 158268,
       "name": "Oj, dziewczyno!",
       "url": "https://open.spotify.com/track/4962ajMOnZSbhN80G0Ogk4"
+    },
+    {
+      "album": {
+        "name": "Ojciec",
+        "url": "https://open.spotify.com/album/6djqQIwf8OpYjzATZf7tCx"
+      },
+      "artists": [
+        {
+          "name": "Kamil Hussein",
+          "url": "https://open.spotify.com/artist/2MqM2nYRVxkDzcFsAxwD9A"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246683,
+      "name": "Ojciec",
+      "url": "https://open.spotify.com/track/5w8OlXrEsSfusHUYWeWUmv"
     },
     {
       "album": {
@@ -19830,7 +19866,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 211705,
       "name": "\u017bebro",
       "url": "https://open.spotify.com/track/5lkBxACWDaBkG91TtfGDUk"

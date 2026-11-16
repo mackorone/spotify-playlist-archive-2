@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Kany García & Rauw Alejandro, Tito Double P,  Ralphie Choo and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 646,477 likes - 39 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 646,504 likes - 39 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 29 | [1 a 3 Shots](https://open.spotify.com/track/0sAQB0gNu9fWYQmA5XbvF4) | [Helen Ochoa](https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD) | [Ochola](https://open.spotify.com/album/4w8lALVeveddVtSAy1zjFu) | 2:36 |
 | 30 | [Págame Por Mis Lágrimas](https://open.spotify.com/track/50xTVuUxf92cNARFnHEQrm) | [Quelle Rox](https://open.spotify.com/artist/4iDXgOhz2OE5TjrvCyNZc7) | [Princesa of Blues](https://open.spotify.com/album/5w0rYgFhzQOJwvH3MujTgQ) | 3:28 |
 | 31 | [Natural](https://open.spotify.com/track/4SGwidXo92miFR2KDX3cnD) | [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2) | [Natural](https://open.spotify.com/album/7A1kqItQjgJgk6hcd3vhEV) | 2:42 |
-| 32 | [todonada](https://open.spotify.com/track/5LzKeL96VPG5PKANwKZyaM) | [Baskiat](https://open.spotify.com/artist/72L1NTsOwE8ZZ6kxll4UwU) | [todonada](https://open.spotify.com/album/33yQR3TBbRe4XSalCTCVNd) | 3:37 |
+| 32 | [todonada](https://open.spotify.com/track/5LzKeL96VPG5PKANwKZyaM) | [Baskiat](https://open.spotify.com/artist/72L1NTsOwE8ZZ6kxll4UwU) | [todonada](https://open.spotify.com/album/33yQR3TBbRe4XSalCTCVNd) | 3:33 |
 | 33 | [Nuestra calle \(Verano del 76\)](https://open.spotify.com/track/7o6jkEuVDe3zWPy2TJM5cU) | [Gaby Noya](https://open.spotify.com/artist/7M0MRF7kyp2NTq5DssSbRX), [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Nuestra calle \(Verano del 76\)](https://open.spotify.com/album/0rHWmVAUKGGtG9k5g8vj2I) | 3:01 |
 | 34 | [Malandra](https://open.spotify.com/track/3hwiGjv7quA1dK1YmsjcHS) | [Matt Louis](https://open.spotify.com/artist/2TOIGYDgOiqlh8hqq2viwX) | [Malandra](https://open.spotify.com/album/0kBqpFewpEpGFGMqTDud56) | 2:59 |
 | 35 | [Par De Anillos](https://open.spotify.com/track/2WF1ok74LRJqUkrdBmrUBF) | [El De Las R's](https://open.spotify.com/artist/6LRccuxVVYoqRQif85sG9j) | [Par De Anillos](https://open.spotify.com/album/3gJDF6tJujCCnwoCwYuAXA) | 4:21 |

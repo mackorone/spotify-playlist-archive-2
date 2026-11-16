@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari MALIQ & D'Essentials, Bernadya, Bunga Citra Lestari, NCT Dream dan masih banyak lagi dari dalam dan mancanegara.
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,649 likes - 105 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,621 likes - 105 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

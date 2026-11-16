@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from  DJ Tunez, Solana, Patoranking, Wande Coal,  Sarkodie, Zlatan,  and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,342 likes - 75 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,435 likes - 75 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 33 | [Magic](https://open.spotify.com/track/7o0Nw1ab2ZqHYNUatC4IdR) | [Tanerélle](https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH), [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [Simulation Blue](https://open.spotify.com/album/7zBQKkz4PN69UgRPEoolGV) | 2:32 |
 | 34 | [Loke Loke](https://open.spotify.com/track/3iBZf6uZlYBQs1oA7tmkNk) | [CDQ](https://open.spotify.com/artist/1VsvlBp2dqKk2g9EVFvxXg), [Segun Johnson](https://open.spotify.com/artist/3YhrjVtLqR6E4ST4NjhA9G) | [Loke Loke](https://open.spotify.com/album/6TiOBpNR0jObeiDShk0UJv) | 2:15 |
 | 35 | [Aka Oma](https://open.spotify.com/track/45kMpM6mIfmK1FDM4PFt3y) | [Ugoccie](https://open.spotify.com/artist/23NKFSnR8yAUDQdub4vnIN) | [Aka Oma](https://open.spotify.com/album/65fPSZL5gvkAlTiFpFM8Ti) | 2:45 |
-| 36 | [Bitter Sweet](https://open.spotify.com/track/1qDz5NiUD1smerTp0bg6hA) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86), [Maali](https://open.spotify.com/artist/0Bw2d3PrLLqnor0Y9tt9vk), [Hendrick Sam](https://open.spotify.com/artist/3JCq2a0rntSwS9gtnhfNO9) | [NBO ‘X’ PRESS](https://open.spotify.com/album/6czwEju8FIEBB8PMMuzpl8) | 3:48 |
+| 36 | [Something In Between](https://open.spotify.com/track/1qDz5NiUD1smerTp0bg6hA) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86), [Maali](https://open.spotify.com/artist/0Bw2d3PrLLqnor0Y9tt9vk), [Hendrick Sam](https://open.spotify.com/artist/3JCq2a0rntSwS9gtnhfNO9) | [NBO ‘X’ PRESS](https://open.spotify.com/album/6czwEju8FIEBB8PMMuzpl8) | 3:48 |
 | 37 | [EMILIANO](https://open.spotify.com/track/3QYSi1gc17ZLnpkgufp69h) | [Brownboi vbz](https://open.spotify.com/artist/0zqksVdAIeHEJegMlCb5Z7) | [EMILIANO](https://open.spotify.com/album/1supLKqnuZqNZoyVXDqEZK) | 2:22 |
 | 38 | [Jara](https://open.spotify.com/track/4jClptbOjiRKi6c9SGuyP4) | [Hitboy Kellz](https://open.spotify.com/artist/38Fq4nvPL9X8BHv4YadDrf) | [Jara x Activate](https://open.spotify.com/album/4WRC2CBHljbWEvr3fq90Y5) | 2:45 |
 | 39 | [Kesi](https://open.spotify.com/track/6b88irsnQDkjDIuDon4cT6) | [Fena Gitu](https://open.spotify.com/artist/5uWJrA5m2FRzq2FnZAmL1W) | [Kesi](https://open.spotify.com/album/6ApURyqGTLmG6pVyDbX60Z) | 2:56 |

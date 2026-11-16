@@ -1,6 +1,6 @@
 {
   "description": "Warm and cozy jazz vibes to get you in a positive mood.\n\n",
-  "num_followers": 547845,
+  "num_followers": 547968,
   "original_name": "Feel Good Jazz",
   "owner": {
     "name": "Spotify",
@@ -155,22 +155,18 @@
     {
       "added_at": "2026-11-06 09:56:37",
       "album": {
-        "name": "Jazz Samba",
-        "url": "https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom"
+        "name": "Beyond the Sea",
+        "url": "https://open.spotify.com/album/6Z0LeTnPFEuKRDJHGBSouB"
       },
       "artists": [
         {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        },
-        {
-          "name": "Charlie Byrd",
-          "url": "https://open.spotify.com/artist/0i5yrKtlP4URcRBXQQwnik"
+          "name": "Jill Barber",
+          "url": "https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx"
         }
       ],
-      "duration_ms": 149080,
-      "name": "O Pato",
-      "url": "https://open.spotify.com/track/5PXIzyJURVKyO1cwVDuGEK"
+      "duration_ms": 175865,
+      "name": "Beyond the Sea",
+      "url": "https://open.spotify.com/track/7qASTjWMSWivEoCaCUvvQW"
     },
     {
       "added_at": "2026-11-06 09:56:37",
@@ -195,18 +191,22 @@
     {
       "added_at": "2026-11-06 09:56:37",
       "album": {
-        "name": "Beyond the Sea",
-        "url": "https://open.spotify.com/album/6Z0LeTnPFEuKRDJHGBSouB"
+        "name": "Jazz Samba",
+        "url": "https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom"
       },
       "artists": [
         {
-          "name": "Jill Barber",
-          "url": "https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx"
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Charlie Byrd",
+          "url": "https://open.spotify.com/artist/0i5yrKtlP4URcRBXQQwnik"
         }
       ],
-      "duration_ms": 175865,
-      "name": "Beyond the Sea",
-      "url": "https://open.spotify.com/track/7qASTjWMSWivEoCaCUvvQW"
+      "duration_ms": 149080,
+      "name": "O Pato",
+      "url": "https://open.spotify.com/track/5PXIzyJURVKyO1cwVDuGEK"
     },
     {
       "added_at": "2026-11-06 09:56:37",
@@ -487,22 +487,6 @@
     {
       "added_at": "2026-11-06 09:56:37",
       "album": {
-        "name": "Desafinado",
-        "url": "https://open.spotify.com/album/4Zmp4npHwNJ3cIdwv3sWz4"
-      },
-      "artists": [
-        {
-          "name": "Coleman Hawkins",
-          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
-        }
-      ],
-      "duration_ms": 173160,
-      "name": "I'm Looking Over A Four Leaf Clover (Jazz Samba)",
-      "url": "https://open.spotify.com/track/1wqrfKgBPtCHITqSwwXcxf"
-    },
-    {
-      "added_at": "2026-11-06 09:56:37",
-      "album": {
         "name": "Witchcraft",
         "url": "https://open.spotify.com/album/627o8XOKXILmclV1xIOXPH"
       },
@@ -519,18 +503,18 @@
     {
       "added_at": "2026-11-06 09:56:37",
       "album": {
-        "name": "It's All Right!",
-        "url": "https://open.spotify.com/album/14CbMw1lBMs4xI2JacW9ad"
+        "name": "Desafinado",
+        "url": "https://open.spotify.com/album/4Zmp4npHwNJ3cIdwv3sWz4"
       },
       "artists": [
         {
-          "name": "Wynton Kelly Trio",
-          "url": "https://open.spotify.com/artist/49XXRf3IT5eeUgAbYeBOmr"
+          "name": "Coleman Hawkins",
+          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
         }
       ],
-      "duration_ms": 170053,
-      "name": "It's All Right",
-      "url": "https://open.spotify.com/track/29q5W2FpwJyjZjrJROG5Mk"
+      "duration_ms": 173160,
+      "name": "I'm Looking Over A Four Leaf Clover (Jazz Samba)",
+      "url": "https://open.spotify.com/track/1wqrfKgBPtCHITqSwwXcxf"
     },
     {
       "added_at": "2026-11-06 09:56:37",
@@ -547,6 +531,22 @@
       "duration_ms": 315586,
       "name": "Wonder Why",
       "url": "https://open.spotify.com/track/5JnVSvNTtEPLe2xM1EvXGs"
+    },
+    {
+      "added_at": "2026-11-06 09:56:37",
+      "album": {
+        "name": "It's All Right!",
+        "url": "https://open.spotify.com/album/14CbMw1lBMs4xI2JacW9ad"
+      },
+      "artists": [
+        {
+          "name": "Wynton Kelly Trio",
+          "url": "https://open.spotify.com/artist/49XXRf3IT5eeUgAbYeBOmr"
+        }
+      ],
+      "duration_ms": 170053,
+      "name": "It's All Right",
+      "url": "https://open.spotify.com/track/29q5W2FpwJyjZjrJROG5Mk"
     },
     {
       "added_at": "2026-11-06 09:56:37",
@@ -599,22 +599,6 @@
     {
       "added_at": "2026-11-06 09:56:37",
       "album": {
-        "name": "Dippin'",
-        "url": "https://open.spotify.com/album/3mx9Te2p8koxBI9oe1341j"
-      },
-      "artists": [
-        {
-          "name": "Hank Mobley",
-          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
-        }
-      ],
-      "duration_ms": 491293,
-      "name": "Recado Bossa Nova - Remastered 2005/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/5K5NOAnF7DwQATrEumi6dS"
-    },
-    {
-      "added_at": "2026-11-06 09:56:37",
-      "album": {
         "name": "Twentysomething (Special Edition)",
         "url": "https://open.spotify.com/album/6YwcKkG1bEljsv9nyfCtgh"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 250280,
       "name": "I Get A Kick Out Of You",
       "url": "https://open.spotify.com/track/44a3wyIm26EbMwGEFXDdDR"
+    },
+    {
+      "added_at": "2026-11-06 09:56:37",
+      "album": {
+        "name": "Dippin'",
+        "url": "https://open.spotify.com/album/3mx9Te2p8koxBI9oe1341j"
+      },
+      "artists": [
+        {
+          "name": "Hank Mobley",
+          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+        }
+      ],
+      "duration_ms": 491293,
+      "name": "Recado Bossa Nova - Remastered 2005/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/5K5NOAnF7DwQATrEumi6dS"
     },
     {
       "added_at": "2026-11-06 09:56:37",
@@ -663,22 +663,6 @@
     {
       "added_at": "2026-11-06 09:56:37",
       "album": {
-        "name": "Lips Can Lie",
-        "url": "https://open.spotify.com/album/6LvGAaHEC2H8zl4K5DOtBM"
-      },
-      "artists": [
-        {
-          "name": "Karen Souza",
-          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
-        }
-      ],
-      "duration_ms": 229596,
-      "name": "Lips Can Lie",
-      "url": "https://open.spotify.com/track/0fhfZFkNjIlCgpQSoazP2M"
-    },
-    {
-      "added_at": "2026-11-06 09:56:37",
-      "album": {
         "name": "Three Little Words",
         "url": "https://open.spotify.com/album/20nAIJBVs6bItCdqyXzxI5"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 290666,
       "name": "Three Little Words",
       "url": "https://open.spotify.com/track/3smU34X0GvXYM6YcKO2Bwd"
+    },
+    {
+      "added_at": "2026-11-06 09:56:37",
+      "album": {
+        "name": "Lips Can Lie",
+        "url": "https://open.spotify.com/album/6LvGAaHEC2H8zl4K5DOtBM"
+      },
+      "artists": [
+        {
+          "name": "Karen Souza",
+          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
+        }
+      ],
+      "duration_ms": 229596,
+      "name": "Lips Can Lie",
+      "url": "https://open.spotify.com/track/0fhfZFkNjIlCgpQSoazP2M"
     },
     {
       "added_at": "2026-11-06 09:56:37",
@@ -1355,18 +1355,30 @@
     {
       "added_at": "2026-11-06 09:56:37",
       "album": {
-        "name": "The Architect",
-        "url": "https://open.spotify.com/album/50Jy8t0xYgSgGrCIWt5EXZ"
+        "name": "Always",
+        "url": "https://open.spotify.com/album/7cYYXhyJAKIFzDHFrwwh6a"
       },
       "artists": [
         {
-          "name": "Tyler Henderson",
-          "url": "https://open.spotify.com/artist/4edLXfn5dbnwKUZ7pNdmze"
+          "name": "Jeremy Pelt",
+          "url": "https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX"
+        },
+        {
+          "name": "Monty Alexander",
+          "url": "https://open.spotify.com/artist/30V1rKijENF5MFcGidInfh"
+        },
+        {
+          "name": "Ron Carter",
+          "url": "https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP"
+        },
+        {
+          "name": "Steve Jordan",
+          "url": "https://open.spotify.com/artist/4gI1PjT35TD1PiyAAE23JC"
         }
       ],
-      "duration_ms": 225485,
-      "name": "The Architect",
-      "url": "https://open.spotify.com/track/6IsKPToqMCdH50pD5P6AeM"
+      "duration_ms": 325652,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/5FHDoWLGGHpjmbs5uMfdqI"
     },
     {
       "added_at": "2026-11-06 09:56:37",
@@ -1403,30 +1415,18 @@
     {
       "added_at": "2026-11-06 09:56:37",
       "album": {
-        "name": "Always",
-        "url": "https://open.spotify.com/album/7cYYXhyJAKIFzDHFrwwh6a"
+        "name": "The Architect",
+        "url": "https://open.spotify.com/album/50Jy8t0xYgSgGrCIWt5EXZ"
       },
       "artists": [
         {
-          "name": "Jeremy Pelt",
-          "url": "https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX"
-        },
-        {
-          "name": "Monty Alexander",
-          "url": "https://open.spotify.com/artist/30V1rKijENF5MFcGidInfh"
-        },
-        {
-          "name": "Ron Carter",
-          "url": "https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP"
-        },
-        {
-          "name": "Steve Jordan",
-          "url": "https://open.spotify.com/artist/4gI1PjT35TD1PiyAAE23JC"
+          "name": "Tyler Henderson",
+          "url": "https://open.spotify.com/artist/4edLXfn5dbnwKUZ7pNdmze"
         }
       ],
-      "duration_ms": 325652,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/5FHDoWLGGHpjmbs5uMfdqI"
+      "duration_ms": 225485,
+      "name": "The Architect",
+      "url": "https://open.spotify.com/track/6IsKPToqMCdH50pD5P6AeM"
     },
     {
       "added_at": "2026-11-06 09:56:37",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2026-11-06 09:56:37",
       "album": {
+        "name": "Loads of Love",
+        "url": "https://open.spotify.com/album/1l1LBlpvupv6VAq2PcMByb"
+      },
+      "artists": [
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        }
+      ],
+      "duration_ms": 162912,
+      "name": "Loads of Love",
+      "url": "https://open.spotify.com/track/5Vk5QkZ5TdkiTENkIUq6Fr"
+    },
+    {
+      "added_at": "2026-11-06 09:56:37",
+      "album": {
         "name": "Skamento",
         "url": "https://open.spotify.com/album/71uoYHx7cGdN8XHAvElVg5"
       },
@@ -1535,22 +1551,6 @@
       "duration_ms": 264200,
       "name": "Skamento",
       "url": "https://open.spotify.com/track/2oQNyvZn0oDSWn73zf7FJ7"
-    },
-    {
-      "added_at": "2026-11-06 09:56:37",
-      "album": {
-        "name": "Loads of Love",
-        "url": "https://open.spotify.com/album/1l1LBlpvupv6VAq2PcMByb"
-      },
-      "artists": [
-        {
-          "name": "Caity Gyorgy",
-          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
-        }
-      ],
-      "duration_ms": 162912,
-      "name": "Loads of Love",
-      "url": "https://open.spotify.com/track/5Vk5QkZ5TdkiTENkIUq6Fr"
     },
     {
       "added_at": "2026-11-06 09:56:37",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2026-11-06 09:56:37",
       "album": {
+        "name": "Julian \"Cannonball\" Adderley",
+        "url": "https://open.spotify.com/album/18JHKcwCBtOfCGmOB7hXx8"
+      },
+      "artists": [
+        {
+          "name": "Cannonball Adderley",
+          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
+        }
+      ],
+      "duration_ms": 256839,
+      "name": "Hurricane Connie",
+      "url": "https://open.spotify.com/track/07sXOnILWyZPlqJY2faLm0"
+    },
+    {
+      "added_at": "2026-11-06 09:56:37",
+      "album": {
         "name": "Sextan Bucket",
         "url": "https://open.spotify.com/album/31JfQ2JfmnjID4AmmErkA8"
       },
@@ -1627,22 +1643,6 @@
       "duration_ms": 190000,
       "name": "Sextan Bucket",
       "url": "https://open.spotify.com/track/5WKEoxwAqPPSQvkttcvjOx"
-    },
-    {
-      "added_at": "2026-11-06 09:56:37",
-      "album": {
-        "name": "Julian \"Cannonball\" Adderley",
-        "url": "https://open.spotify.com/album/18JHKcwCBtOfCGmOB7hXx8"
-      },
-      "artists": [
-        {
-          "name": "Cannonball Adderley",
-          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
-        }
-      ],
-      "duration_ms": 256839,
-      "name": "Hurricane Connie",
-      "url": "https://open.spotify.com/track/07sXOnILWyZPlqJY2faLm0"
     },
     {
       "added_at": "2026-11-06 09:56:37",

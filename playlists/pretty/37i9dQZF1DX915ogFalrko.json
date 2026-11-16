@@ -1,6 +1,6 @@
 {
   "description": "La playlist \u00e0 la cool pour accompagner votre d\u00eener !",
-  "num_followers": 188796,
+  "num_followers": 188820,
   "original_name": "D\u00eener entre amis",
   "owner": {
     "name": "Spotify",
@@ -399,6 +399,22 @@
     {
       "added_at": "2026-11-13 11:30:31",
       "album": {
+        "name": "Odyss\u00e9e - EP",
+        "url": "https://open.spotify.com/album/346ZDnGgJudDau17EEyWWA"
+      },
+      "artists": [
+        {
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+        }
+      ],
+      "duration_ms": 248892,
+      "name": "Agitations tropicales",
+      "url": "https://open.spotify.com/track/2La21GqU4fKTQLcfLxTeoz"
+    },
+    {
+      "added_at": "2026-11-13 11:30:31",
+      "album": {
         "name": "is it cool? (feat. SZA)",
         "url": "https://open.spotify.com/album/5ZKl6FzFtBJc3edhG04gxW"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 174230,
       "name": "is it cool? (feat. SZA)",
       "url": "https://open.spotify.com/track/4olWlfIzbDyD53NhWyvdDJ"
-    },
-    {
-      "added_at": "2026-11-13 11:30:31",
-      "album": {
-        "name": "Odyss\u00e9e - EP",
-        "url": "https://open.spotify.com/album/346ZDnGgJudDau17EEyWWA"
-      },
-      "artists": [
-        {
-          "name": "L'Imp\u00e9ratrice",
-          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
-        }
-      ],
-      "duration_ms": 248892,
-      "name": "Agitations tropicales",
-      "url": "https://open.spotify.com/track/2La21GqU4fKTQLcfLxTeoz"
     },
     {
       "added_at": "2026-11-13 11:30:31",
@@ -655,6 +655,22 @@
     {
       "added_at": "2026-11-13 11:30:31",
       "album": {
+        "name": "El Hueso",
+        "url": "https://open.spotify.com/album/6sxeIWSvy8JBemcPyy0JXM"
+      },
+      "artists": [
+        {
+          "name": "Ralphie Choo",
+          "url": "https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7"
+        }
+      ],
+      "duration_ms": 143301,
+      "name": "El Hueso",
+      "url": "https://open.spotify.com/track/1Dr7IM4yoNwvucqW1KOAbk"
+    },
+    {
+      "added_at": "2026-11-13 11:30:31",
+      "album": {
         "name": "Flor de canela",
         "url": "https://open.spotify.com/album/3kJbxVlwtM3VELeSFzeevg"
       },
@@ -671,22 +687,6 @@
     {
       "added_at": "2026-11-13 11:30:31",
       "album": {
-        "name": "One song away from crying",
-        "url": "https://open.spotify.com/album/5xQgMsnL5a1SmABhKGhtN3"
-      },
-      "artists": [
-        {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
-        }
-      ],
-      "duration_ms": 219609,
-      "name": "One song away from crying",
-      "url": "https://open.spotify.com/track/7EzqmGOTlrzy1NxZRjeuVV"
-    },
-    {
-      "added_at": "2026-11-13 11:30:31",
-      "album": {
         "name": "Endless Summer",
         "url": "https://open.spotify.com/album/6YDXIYzh182auw0avklzbq"
       },
@@ -699,6 +699,22 @@
       "duration_ms": 194431,
       "name": "Dance It Out",
       "url": "https://open.spotify.com/track/1TZngJL0DBk2i13ESMiDBQ"
+    },
+    {
+      "added_at": "2026-11-13 11:30:31",
+      "album": {
+        "name": "One song away from crying",
+        "url": "https://open.spotify.com/album/5xQgMsnL5a1SmABhKGhtN3"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "duration_ms": 219609,
+      "name": "One song away from crying",
+      "url": "https://open.spotify.com/track/7EzqmGOTlrzy1NxZRjeuVV"
     },
     {
       "added_at": "2026-11-13 11:30:31",
@@ -739,38 +755,6 @@
     {
       "added_at": "2026-11-13 11:30:31",
       "album": {
-        "name": "El Hueso",
-        "url": "https://open.spotify.com/album/6sxeIWSvy8JBemcPyy0JXM"
-      },
-      "artists": [
-        {
-          "name": "Ralphie Choo",
-          "url": "https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7"
-        }
-      ],
-      "duration_ms": 143301,
-      "name": "El Hueso",
-      "url": "https://open.spotify.com/track/1Dr7IM4yoNwvucqW1KOAbk"
-    },
-    {
-      "added_at": "2026-11-13 11:30:31",
-      "album": {
-        "name": "Make believe",
-        "url": "https://open.spotify.com/album/1lglf5yZbn6fAgE7Iay13V"
-      },
-      "artists": [
-        {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Make believe",
-      "url": "https://open.spotify.com/track/5RoQY3o3b6rupkNpNmuj8P"
-    },
-    {
-      "added_at": "2026-11-13 11:30:31",
-      "album": {
         "name": "Things Take Time",
         "url": "https://open.spotify.com/album/2RsdNUtkxHHG30160YqS2e"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 195136,
       "name": "Shala-Lala-La",
       "url": "https://open.spotify.com/track/3fv0dIDalzlgaLRAvaBobT"
+    },
+    {
+      "added_at": "2026-11-13 11:30:31",
+      "album": {
+        "name": "Make believe",
+        "url": "https://open.spotify.com/album/1lglf5yZbn6fAgE7Iay13V"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Make believe",
+      "url": "https://open.spotify.com/track/5RoQY3o3b6rupkNpNmuj8P"
     },
     {
       "added_at": "2026-11-13 11:30:31",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2026-11-13 11:30:31",
       "album": {
+        "name": "Tell Him",
+        "url": "https://open.spotify.com/album/4xBplgdBasQJe7XBEaFhmH"
+      },
+      "artists": [
+        {
+          "name": "Romy Mars",
+          "url": "https://open.spotify.com/artist/6cJxlOHcaXLNUUKYkSecTd"
+        }
+      ],
+      "duration_ms": 157082,
+      "name": "Tell Him",
+      "url": "https://open.spotify.com/track/48OQwFBixhT1hfocKYRDOW"
+    },
+    {
+      "added_at": "2026-11-13 11:30:31",
+      "album": {
         "name": "Jardin d'hiver",
         "url": "https://open.spotify.com/album/0V0VGCfodx52b4QHtsA1GE"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 169818,
       "name": "found u/me",
       "url": "https://open.spotify.com/track/5LzTzcMwn1YhzPSLkYlNnX"
-    },
-    {
-      "added_at": "2026-11-13 11:30:31",
-      "album": {
-        "name": "Tell Him",
-        "url": "https://open.spotify.com/album/4xBplgdBasQJe7XBEaFhmH"
-      },
-      "artists": [
-        {
-          "name": "Romy Mars",
-          "url": "https://open.spotify.com/artist/6cJxlOHcaXLNUUKYkSecTd"
-        }
-      ],
-      "duration_ms": 157082,
-      "name": "Tell Him",
-      "url": "https://open.spotify.com/track/48OQwFBixhT1hfocKYRDOW"
     },
     {
       "added_at": "2026-11-13 11:30:31",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2026-11-13 11:30:31",
       "album": {
-        "name": "Barchords",
-        "url": "https://open.spotify.com/album/753yeghJKIjYDaLbJB2ZW9"
-      },
-      "artists": [
-        {
-          "name": "Bahamas",
-          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
-        }
-      ],
-      "duration_ms": 236720,
-      "name": "Lost In The Light",
-      "url": "https://open.spotify.com/track/25J4d78ESH2MgAJoIakB8O"
-    },
-    {
-      "added_at": "2026-11-13 11:30:31",
-      "album": {
         "name": "Sacatela",
         "url": "https://open.spotify.com/album/06nue4Ry0BmfBW1aX3RWNe"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 172026,
       "name": "Sacatela",
       "url": "https://open.spotify.com/track/7AQSnI0NylqRyXJTvN1Aku"
+    },
+    {
+      "added_at": "2026-11-13 11:30:31",
+      "album": {
+        "name": "Barchords",
+        "url": "https://open.spotify.com/album/753yeghJKIjYDaLbJB2ZW9"
+      },
+      "artists": [
+        {
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+        }
+      ],
+      "duration_ms": 236720,
+      "name": "Lost In The Light",
+      "url": "https://open.spotify.com/track/25J4d78ESH2MgAJoIakB8O"
     },
     {
       "added_at": "2026-11-13 11:30:31",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2026-11-13 11:30:31",
       "album": {
-        "name": "All Night",
-        "url": "https://open.spotify.com/album/1im0h8ZGiQppPqeXDLS2td"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Tea Room",
-          "url": "https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD"
-        }
-      ],
-      "duration_ms": 196813,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/6JvDU5tu5vl2aWReFKjQsL"
-    },
-    {
-      "added_at": "2026-11-13 11:30:31",
-      "album": {
         "name": "Angus & Julia Stone",
         "url": "https://open.spotify.com/album/3VT2E4zmRmdn1EZw5U4HK6"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 248526,
       "name": "Grizzly Bear",
       "url": "https://open.spotify.com/track/2vnY0rNwecUTknZyEpJbZR"
+    },
+    {
+      "added_at": "2026-11-13 11:30:31",
+      "album": {
+        "name": "All Night",
+        "url": "https://open.spotify.com/album/1im0h8ZGiQppPqeXDLS2td"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Tea Room",
+          "url": "https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD"
+        }
+      ],
+      "duration_ms": 196813,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/6JvDU5tu5vl2aWReFKjQsL"
     },
     {
       "added_at": "2026-11-13 11:30:31",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2026-11-13 11:30:31",
       "album": {
+        "name": "Burn The Witch",
+        "url": "https://open.spotify.com/album/20KFcc2YxcqOAFsrWLfwmC"
+      },
+      "artists": [
+        {
+          "name": "Misfits Together",
+          "url": "https://open.spotify.com/artist/4y3Ml1Bz1HWbUpVvaMGR50"
+        }
+      ],
+      "duration_ms": 199226,
+      "name": "Burn The Witch",
+      "url": "https://open.spotify.com/track/3JHTGkpRXwCGaW3Hh0crug"
+    },
+    {
+      "added_at": "2026-11-13 11:30:31",
+      "album": {
         "name": "Borrowed Time",
         "url": "https://open.spotify.com/album/5UuqNdJMfNFULySh1MsgLd"
       },
@@ -1347,22 +1363,6 @@
     {
       "added_at": "2026-11-13 11:30:31",
       "album": {
-        "name": "100S",
-        "url": "https://open.spotify.com/album/0ECvPUBuvkS1I4U8X3LAjC"
-      },
-      "artists": [
-        {
-          "name": "Milhan",
-          "url": "https://open.spotify.com/artist/3xm0hZjqHd4ImTJ3YLmjI2"
-        }
-      ],
-      "duration_ms": 201521,
-      "name": "100S",
-      "url": "https://open.spotify.com/track/6boMeUCYx9v8UG1cVfxlyb"
-    },
-    {
-      "added_at": "2026-11-13 11:30:31",
-      "album": {
         "name": "Miracle",
         "url": "https://open.spotify.com/album/2nBJ4KPNSVr6FYLdExRoAA"
       },
@@ -1387,18 +1387,18 @@
     {
       "added_at": "2026-11-13 11:30:31",
       "album": {
-        "name": "Burn The Witch",
-        "url": "https://open.spotify.com/album/20KFcc2YxcqOAFsrWLfwmC"
+        "name": "100S",
+        "url": "https://open.spotify.com/album/0ECvPUBuvkS1I4U8X3LAjC"
       },
       "artists": [
         {
-          "name": "Misfits Together",
-          "url": "https://open.spotify.com/artist/4y3Ml1Bz1HWbUpVvaMGR50"
+          "name": "Milhan",
+          "url": "https://open.spotify.com/artist/3xm0hZjqHd4ImTJ3YLmjI2"
         }
       ],
-      "duration_ms": 199226,
-      "name": "Burn The Witch",
-      "url": "https://open.spotify.com/track/3JHTGkpRXwCGaW3Hh0crug"
+      "duration_ms": 201521,
+      "name": "100S",
+      "url": "https://open.spotify.com/track/6boMeUCYx9v8UG1cVfxlyb"
     },
     {
       "added_at": "2026-11-13 11:30:31",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2026-11-13 11:30:31",
       "album": {
+        "name": "Flamingo Serenades / Flamingo Favorites",
+        "url": "https://open.spotify.com/album/2blBb1v0ylNOrzStHBhK48"
+      },
+      "artists": [
+        {
+          "name": "The Flamingos",
+          "url": "https://open.spotify.com/artist/6iygtKnPG7TRvDaTYcLOd6"
+        }
+      ],
+      "duration_ms": 198971,
+      "name": "I Only Have Eyes for You",
+      "url": "https://open.spotify.com/track/2oSMcZnGARuxk10qd6AXrT"
+    },
+    {
+      "added_at": "2026-11-13 11:30:31",
+      "album": {
         "name": "Go For The Other Side",
         "url": "https://open.spotify.com/album/47W7mP5qdbJuR7NAcgccgl"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 208000,
       "name": "Go For The Other Side",
       "url": "https://open.spotify.com/track/4i7ZRojYjzCNi2a3lpzfhs"
-    },
-    {
-      "added_at": "2026-11-13 11:30:31",
-      "album": {
-        "name": "Latino Triste",
-        "url": "https://open.spotify.com/album/2QPYqGaUgs6zmNXy0a1l3F"
-      },
-      "artists": [
-        {
-          "name": "Milhan",
-          "url": "https://open.spotify.com/artist/3xm0hZjqHd4ImTJ3YLmjI2"
-        }
-      ],
-      "duration_ms": 197478,
-      "name": "Autour de toi",
-      "url": "https://open.spotify.com/track/0nXBuHnmJJeFZMVkWAAU51"
     },
     {
       "added_at": "2026-11-13 11:30:31",
@@ -1467,18 +1467,18 @@
     {
       "added_at": "2026-11-13 11:30:31",
       "album": {
-        "name": "Flamingo Serenades / Flamingo Favorites",
-        "url": "https://open.spotify.com/album/2blBb1v0ylNOrzStHBhK48"
+        "name": "Latino Triste",
+        "url": "https://open.spotify.com/album/2QPYqGaUgs6zmNXy0a1l3F"
       },
       "artists": [
         {
-          "name": "The Flamingos",
-          "url": "https://open.spotify.com/artist/6iygtKnPG7TRvDaTYcLOd6"
+          "name": "Milhan",
+          "url": "https://open.spotify.com/artist/3xm0hZjqHd4ImTJ3YLmjI2"
         }
       ],
-      "duration_ms": 198971,
-      "name": "I Only Have Eyes for You",
-      "url": "https://open.spotify.com/track/2oSMcZnGARuxk10qd6AXrT"
+      "duration_ms": 197478,
+      "name": "Autour de toi",
+      "url": "https://open.spotify.com/track/0nXBuHnmJJeFZMVkWAAU51"
     },
     {
       "added_at": "2026-11-13 11:30:31",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2026-11-13 11:30:31",
       "album": {
-        "name": "Goanna",
-        "url": "https://open.spotify.com/album/3WK8szrOf9AHVBuBJyPjmg"
-      },
-      "artists": [
-        {
-          "name": "The Rubens",
-          "url": "https://open.spotify.com/artist/2hrWpLNoJcs1EnWSXvB6JI"
-        }
-      ],
-      "duration_ms": 179823,
-      "name": "Goanna",
-      "url": "https://open.spotify.com/track/1WlbrsIoyEIaEEXLRZohp7"
-    },
-    {
-      "added_at": "2026-11-13 11:30:31",
-      "album": {
         "name": "Fou de toi",
         "url": "https://open.spotify.com/album/4BrmiAZdqo2nXSLt9v2fVS"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 140248,
       "name": "Fou de toi",
       "url": "https://open.spotify.com/track/7mhYCEcW500M6qGhPRMk4R"
+    },
+    {
+      "added_at": "2026-11-13 11:30:31",
+      "album": {
+        "name": "Goanna",
+        "url": "https://open.spotify.com/album/3WK8szrOf9AHVBuBJyPjmg"
+      },
+      "artists": [
+        {
+          "name": "The Rubens",
+          "url": "https://open.spotify.com/artist/2hrWpLNoJcs1EnWSXvB6JI"
+        }
+      ],
+      "duration_ms": 179823,
+      "name": "Goanna",
+      "url": "https://open.spotify.com/track/1WlbrsIoyEIaEEXLRZohp7"
     },
     {
       "added_at": "2026-11-13 11:30:31",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2026-11-13 11:30:31",
       "album": {
-        "name": "San Francisco",
-        "url": "https://open.spotify.com/album/3mjRgtKH9XR8X4cJUkDpt4"
-      },
-      "artists": [
-        {
-          "name": "Claudia Isaki",
-          "url": "https://open.spotify.com/artist/5Q8asiEUYLobc6DvKIsqOP"
-        }
-      ],
-      "duration_ms": 231425,
-      "name": "San Francisco",
-      "url": "https://open.spotify.com/track/4zVQlddW37DnjsycBBysgr"
-    },
-    {
-      "added_at": "2026-11-13 11:30:31",
-      "album": {
         "name": "Rapids of Love",
         "url": "https://open.spotify.com/album/0fZHbSZLXoslXNX1xuaC8D"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 165554,
       "name": "Rapids of Love",
       "url": "https://open.spotify.com/track/5FGGgeSA7S5acKX1Z5nQPp"
+    },
+    {
+      "added_at": "2026-11-13 11:30:31",
+      "album": {
+        "name": "San Francisco",
+        "url": "https://open.spotify.com/album/3mjRgtKH9XR8X4cJUkDpt4"
+      },
+      "artists": [
+        {
+          "name": "Claudia Isaki",
+          "url": "https://open.spotify.com/artist/5Q8asiEUYLobc6DvKIsqOP"
+        }
+      ],
+      "duration_ms": 231425,
+      "name": "San Francisco",
+      "url": "https://open.spotify.com/track/4zVQlddW37DnjsycBBysgr"
     },
     {
       "added_at": "2026-11-13 11:30:31",
@@ -1679,18 +1679,22 @@
     {
       "added_at": "2026-11-13 11:30:31",
       "album": {
-        "name": "END OF THE SKY",
-        "url": "https://open.spotify.com/album/6cyLb8x3s5tF76GY0uzF45"
+        "name": "On Reste L\u00e0",
+        "url": "https://open.spotify.com/album/2CpWLA3tGSmMzVRRYqhf7L"
       },
       "artists": [
         {
-          "name": "JVLY",
-          "url": "https://open.spotify.com/artist/52flspAUwzY59cow3QC53f"
+          "name": "Revers Gagnant",
+          "url": "https://open.spotify.com/artist/1JJFKIcDjsMUEJAini15V8"
+        },
+        {
+          "name": "Amou\u00eb",
+          "url": "https://open.spotify.com/artist/5hxkInZtrkxDnUjsRqs5Ww"
         }
       ],
-      "duration_ms": 159807,
-      "name": "END OF THE SKY",
-      "url": "https://open.spotify.com/track/2laWkyz40Hn8PCodiCTo4Z"
+      "duration_ms": 237430,
+      "name": "On Reste L\u00e0",
+      "url": "https://open.spotify.com/track/3fzWpUoS1rEMJVaSfJDx9r"
     }
   ],
   "unique_name": "D\u00eener entre amis",

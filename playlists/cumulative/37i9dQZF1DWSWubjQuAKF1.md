@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: Dominika Płonka
 
-1,041 songs - 2 day 2 hr 48 min
+1,043 songs - 2 day 2 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,6 +216,7 @@
 | [Deja Vu](https://open.spotify.com/track/2NB1gNSdFonXMllNMxiAmE) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Deja Vu](https://open.spotify.com/album/0Xtj0v242nflooXf1FLutS) | 2:55 | 2025-03-20 | 2025-07-04 |
 | [DELI SUPREME](https://open.spotify.com/track/7mFj66qVnjoZUXkyPljGj8) | [MJ Deli](https://open.spotify.com/artist/4zlJMomtDhz5jPYQC0UNhE) | [DELI SUPREME](https://open.spotify.com/album/2iyTvhDOMGcBDx7Klstyio) | 2:31 | 2026-08-13 | 2026-11-13 |
 | [Destroy Me, Today](https://open.spotify.com/track/72IHFsUmObpJHWeELe2eEV) | [Marcin Maciejczak](https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2) | [Destroy Me, Today](https://open.spotify.com/album/0nzJM5ozNQ9ZynPsswgrWH) | 3:11 | 2025-02-20 | 2025-03-07 |
+| [DESZCZOWE DNI](https://open.spotify.com/track/0orsG9bSOEiG0EDB6ujAEU) | [FANKA](https://open.spotify.com/artist/5wUmzMcZxXPMi2qpddL0wg) | [DESZCZOWE DNI](https://open.spotify.com/album/2pf5ReLVqOuttfhzAr4g4j) | 2:50 | 2026-11-12 |  |
 | [Deszczowy lipiec](https://open.spotify.com/track/6xpMN7YjQ5I53StXJJK7PI) | [Zuzanna Malisz](https://open.spotify.com/artist/4jsgm84uldfJKyy0lSOF3A) | [Deszczowy lipiec](https://open.spotify.com/album/5VgL0uIeNvxt9BY33a0vsu) | 2:59 | 2024-09-13 | 2024-09-28 |
 | [DETOX](https://open.spotify.com/track/0OyEJARV585PyDx8nh8ALy) | [noffkoffska](https://open.spotify.com/artist/6OjVJRevdfShgzdCMj7CYt) | [KLUB MIŁOŚNIKÓW ZAPOMINANIA](https://open.spotify.com/album/2xETkatCnHi0bN5yfu3eRM) | 2:00 | 2026-07-09 | 2026-08-01 |
 | [DETOX](https://open.spotify.com/track/1vpbdWBrf1enMiVHHICPk0) | [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV) | [DETOX](https://open.spotify.com/album/6E2Xs9Hy9ZAXmquNIsiM00) | 2:34 | 2024-08-22 | 2024-11-08 |
@@ -586,7 +587,7 @@
 | [NIEBA](https://open.spotify.com/track/12kODAZcfMh99l0AitMXFC) | [NAUTOFON](https://open.spotify.com/artist/5zNO7pJVe7GFYrkqdYUsqG), [Dominika Płonka](https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8), [Dawid Płonka](https://open.spotify.com/artist/6P8H6nSX040u58IuahsdvF) | [NIEBA](https://open.spotify.com/album/0ZkBawe69ftL7Eiv5eeJu9) | 2:57 | 2025-06-05 | 2025-07-23 |
 | [Niebezpiecznie mi](https://open.spotify.com/track/5xi57gTzYxZ7LuSR5FglaT) | [Jan Majewski](https://open.spotify.com/artist/22jvbmwhlcx0iogTUmMMyi) | [Niebezpiecznie mi](https://open.spotify.com/album/4kC9nmSSW6BlPKI06bD23F) | 4:16 | 2024-06-28 | 2024-07-19 |
 | [Nieboskłon](https://open.spotify.com/track/5zLdBe3yVkWpu6lSsp2Xme) | [the small town kids](https://open.spotify.com/artist/1cUvJtU1uL59tjCScnbUUk), [Wiktoria Zwolińska](https://open.spotify.com/artist/1Dyn3KxMNqGRpIEeXekqhf) | [Nieboskłon](https://open.spotify.com/album/53fKRn1YK40EyjLcUNoTl8) | 3:28 | 2025-04-10 | 2025-04-18 |
-| [niech nie żyje nam](https://open.spotify.com/track/0sNuqgwVY7j4ArP5v8cBnR) | [wiśniosz](https://open.spotify.com/artist/4UcIjZwZDS7epHIoNUtwzu) | [niech nie żyje nam](https://open.spotify.com/album/2F4muJlqRh0Owmoxa8pgJW) | 2:36 | 2026-10-08 |  |
+| [niech nie żyje nam](https://open.spotify.com/track/0sNuqgwVY7j4ArP5v8cBnR) | [wiśniosz](https://open.spotify.com/artist/4UcIjZwZDS7epHIoNUtwzu) | [niech nie żyje nam](https://open.spotify.com/album/2F4muJlqRh0Owmoxa8pgJW) | 2:36 | 2026-10-08 | 2026-11-16 |
 | [Niedosyt](https://open.spotify.com/track/79cmiNPdQVHeu2qs6x4JMp) | [IGNACY](https://open.spotify.com/artist/4ccurDUZ48cXNrcrLsA9ub), [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [Central Park](https://open.spotify.com/album/0gUKAbUK0UwJsERX22e9rx) | 2:47 | 2024-06-28 | 2024-07-05 |
 | [Nienawidzisz](https://open.spotify.com/track/3hZY4ACHC3uSFZo4h8DWp8) | [huskie](https://open.spotify.com/artist/7qAmqo6RdMhZmRWNSIK8kS) | [Nienawidzisz](https://open.spotify.com/album/2FKdXqSCSlmXVcaBlZzxMk) | 3:56 | 2025-11-11 | 2026-03-13 |
 | [nieoczywiste](https://open.spotify.com/track/1plVKUf9fux7zP5ZFRgkTJ) | [Julia Mreńca](https://open.spotify.com/artist/0o67bNa457im54EQIpinH2) | [nieoczywiste](https://open.spotify.com/album/0Azj5kyi9uPhadMt3ejhB1) | 2:34 | 2024-12-13 | 2025-01-31 |
@@ -625,6 +626,7 @@
 | [Odkochaj](https://open.spotify.com/track/0ALsDccwFMj8QznHPah8fn) | [Marissa](https://open.spotify.com/artist/7lRC2ICJeiCyz2wSU6BVkH) | [Odkochaj](https://open.spotify.com/album/536Y6k6glJY1fMr8jlyZPO) | 2:43 | 2026-04-17 | 2026-07-10 |
 | [Oh No](https://open.spotify.com/track/7J6WiVtsNUjz9f0AcOzyxB) | [Julia Bojur](https://open.spotify.com/artist/7yI5GTAddn0GBCRnDOpWPK), [Ghosty](https://open.spotify.com/artist/4sqVihUCnOHMXHrhEQczy2) | [Oh No](https://open.spotify.com/album/61Cya6AJcIuZAfcoewYda4) | 2:54 | 2025-06-27 | 2025-07-04 |
 | [Oj, dziewczyno!](https://open.spotify.com/track/4962ajMOnZSbhN80G0Ogk4) | [Wiktoria Kida](https://open.spotify.com/artist/6EuekoOKebcHJWIqHuBK0H), [Księga Żywiołów](https://open.spotify.com/artist/1TqYSOMq3DVt2cUERdU4v5) | [Oj, dziewczyno!](https://open.spotify.com/album/2W9qJtY9eFjT5P2iJpbUqw) | 2:38 | 2025-05-01 | 2025-08-08 |
+| [Ojciec](https://open.spotify.com/track/5w8OlXrEsSfusHUYWeWUmv) | [Kamil Hussein](https://open.spotify.com/artist/2MqM2nYRVxkDzcFsAxwD9A) | [Ojciec](https://open.spotify.com/album/6djqQIwf8OpYjzATZf7tCx) | 4:06 | 2026-11-12 |  |
 | [okay cool](https://open.spotify.com/track/56Vxhry0axfjZN667iHCMZ) | [ENNA](https://open.spotify.com/artist/1TbnLBzj5rSZeoM522CwhS) | [okay cool](https://open.spotify.com/album/5z27JiuMszAKGSUkfRVsNg) | 2:32 | 2025-02-20 | 2025-02-28 |
 | [Okej](https://open.spotify.com/track/7G6hL64mboXjkMRjbkIAAT) | [Martyna Gąsak](https://open.spotify.com/artist/5Ne3HqzciPsPhYX4jl1obI) | [Okej](https://open.spotify.com/album/6jvK9EgxNSzVb7ekqXDfZS) | 2:43 | 2024-06-28 | 2024-08-23 |
 | [OMG](https://open.spotify.com/track/2Qz4CbdfPWwFdgpQvumvjy) | [ROZIE](https://open.spotify.com/artist/59iWoTgpD2176IjqGmNZSo) | [OMG](https://open.spotify.com/album/0oXn4IpuCHcQvEEe6a0U5C) | 3:23 | 2024-08-01 | 2025-01-24 |
@@ -1043,7 +1045,7 @@
 | [Śmiać się i płakać](https://open.spotify.com/track/2Q3Y2eR0Sx90JKWl7H265z) | [Zuza Jabłońska](https://open.spotify.com/artist/2obyllmx54A5zB0yZe5ikt) | [Śmiać się i płakać](https://open.spotify.com/album/1viZCuhPFo51923kpMvEfJ) | 2:15 | 2025-10-14 | 2025-11-23 |
 | [śniło mi się, że się nie zakochałam](https://open.spotify.com/track/1XUeJd5kGm6k7qRix6mWqg) | [zofia justyńska](https://open.spotify.com/artist/54S3G0C8oIzH1Va5WpIHS4) | [śniło mi się, że się nie zakochałam](https://open.spotify.com/album/2cR7zPwNhEopnGOvmsxQDn) | 2:53 | 2026-10-08 |  |
 | [ŻART!?](https://open.spotify.com/track/5dbs7qdEG6oiAmKN4liNSB) | [ROZIE](https://open.spotify.com/artist/59iWoTgpD2176IjqGmNZSo) | [ŻART!?](https://open.spotify.com/album/73IFHogZWsogRGF6Q4nzSH) | 2:51 | 2024-09-13 | 2025-01-24 |
-| [Żebro](https://open.spotify.com/track/5lkBxACWDaBkG91TtfGDUk) | [Natalia Marczuk](https://open.spotify.com/artist/5WQXxSI1Mw50K1bAo7rd62) | [Plamy](https://open.spotify.com/album/13XuGo1xqZV4gfrD7rB72P) | 3:31 | 2026-10-01 |  |
+| [Żebro](https://open.spotify.com/track/5lkBxACWDaBkG91TtfGDUk) | [Natalia Marczuk](https://open.spotify.com/artist/5WQXxSI1Mw50K1bAo7rd62) | [Plamy](https://open.spotify.com/album/13XuGo1xqZV4gfrD7rB72P) | 3:31 | 2026-10-01 | 2026-11-16 |
 | [ŻURAWIE](https://open.spotify.com/track/1nT0822I7pQ2qISF80IWjo) | [Barnim](https://open.spotify.com/artist/4Bp6oWHVWsocBpnqFJP4Zj) | [ŻURAWIE](https://open.spotify.com/album/5HjIBIK0vlq42Yzc4Mzm3t) | 2:25 | 2026-04-09 | 2026-05-14 |
 | [Życie, używki, kariera](https://open.spotify.com/track/4ZA0UrTvbVchyZUN3pXNfc) | [Viki Gabor](https://open.spotify.com/artist/3yCRvilOBzRkyxOsOi4tsR) | [Spektrum uczuć](https://open.spotify.com/album/5UaBEg5wbwohA7Kulzyfrr) | 2:03 | 2025-11-18 | 2025-12-19 |
 | [ŻYCZENIE](https://open.spotify.com/track/5NCbw8iGoUGHmUfmfKfgSL) | [LIJA](https://open.spotify.com/artist/46Ke0Gji5QAaMGvsTgBEj5) | [ŻYCZENIE](https://open.spotify.com/album/5uuqDKz4fqciOPrua2DMEP) | 2:53 | 2024-07-25 | 2024-11-22 |

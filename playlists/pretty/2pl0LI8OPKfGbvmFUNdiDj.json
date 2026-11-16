@@ -1,12 +1,12 @@
 {
   "description": "Hand-picked songs by unsigned bands and independent artists. Updated Daily.",
-  "num_followers": 1347,
+  "num_followers": 1364,
   "original_name": "Fresh Sounds From The Underground: Discover Unsigned and Independent Emerging Artists",
   "owner": {
     "name": "pma4real",
     "url": "https://open.spotify.com/user/jasonwaroff"
   },
-  "snapshot_id": "AAAErDo7jEru5ErsG59nXdQu2WkpZ1kg",
+  "snapshot_id": "AAAEstdynDC3D8kGQjuTwU0+4V0Bq140",
   "tracks": [
     {
       "added_at": "2026-06-05 18:13:27",
@@ -1079,6 +1079,102 @@
       "duration_ms": 230309,
       "name": "Used To Be",
       "url": "https://open.spotify.com/track/3jiX9nLavQLNs0afYgP6Bf"
+    },
+    {
+      "added_at": "2026-11-15 16:15:32",
+      "album": {
+        "name": "\u00daltima Carta",
+        "url": "https://open.spotify.com/album/7D1tWAEvKdDvhkuTPcP8dA"
+      },
+      "artists": [
+        {
+          "name": "Ikrus",
+          "url": "https://open.spotify.com/artist/1Pggi3bJz4aKaokzWQeTNk"
+        }
+      ],
+      "duration_ms": 142522,
+      "name": "\u00daltima Carta",
+      "url": "https://open.spotify.com/track/7DfztahOXQyW1wtOHuH8rx"
+    },
+    {
+      "added_at": "2026-11-15 16:20:47",
+      "album": {
+        "name": "pretty privilege",
+        "url": "https://open.spotify.com/album/3Tkx5BQlPnMJLvCcr8IvOG"
+      },
+      "artists": [
+        {
+          "name": "Darro",
+          "url": "https://open.spotify.com/artist/3X2AuZv4fn9OPLwy464PgG"
+        }
+      ],
+      "duration_ms": 175826,
+      "name": "back again",
+      "url": "https://open.spotify.com/track/6yD4FoZeOPQyPsyMuupj9m"
+    },
+    {
+      "added_at": "2026-11-15 16:48:53",
+      "album": {
+        "name": "Together",
+        "url": "https://open.spotify.com/album/7sjQv0AEU6Wu5BpnphiWDX"
+      },
+      "artists": [
+        {
+          "name": "Brother Nature",
+          "url": "https://open.spotify.com/artist/3tmXdtreR3DBXX5TLv4kda"
+        }
+      ],
+      "duration_ms": 220689,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/6bBsxc8InnRqUJIreqTvxQ"
+    },
+    {
+      "added_at": "2026-11-15 17:18:46",
+      "album": {
+        "name": "The Dangerous Game",
+        "url": "https://open.spotify.com/album/54X4nQApX8hqmZo0fAli56"
+      },
+      "artists": [
+        {
+          "name": "Lex Bauman",
+          "url": "https://open.spotify.com/artist/0z0QAReD9ZD9jFugcn0G2g"
+        }
+      ],
+      "duration_ms": 235773,
+      "name": "Nights Like These",
+      "url": "https://open.spotify.com/track/4VA5EXvQ8AXhszTsAuZFPe"
+    },
+    {
+      "added_at": "2026-11-15 17:19:16",
+      "album": {
+        "name": "Father Time",
+        "url": "https://open.spotify.com/album/1Pjg1qTNDTwtDUuSNNfraK"
+      },
+      "artists": [
+        {
+          "name": "Dangerous Times for the Dead",
+          "url": "https://open.spotify.com/artist/3oYyw3Wy4IuN27X2eIFVWD"
+        }
+      ],
+      "duration_ms": 462773,
+      "name": "Father Time",
+      "url": "https://open.spotify.com/track/6yG2tmhMQ1bUyPV55urRoq"
+    },
+    {
+      "added_at": "2026-11-15 17:43:26",
+      "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/7F13TAN6q6AnupJv2x0QEh"
+      },
+      "artists": [
+        {
+          "name": "NellyNellz",
+          "url": "https://open.spotify.com/artist/1VznLVOSmnn2FVyXYnRcSl"
+        }
+      ],
+      "duration_ms": 236962,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/24q4l4i4XrTMIEVT63cT0J"
     }
   ],
   "unique_name": "Fresh Sounds From The Underground: Discover Unsigned and Independent Emerging Artists",

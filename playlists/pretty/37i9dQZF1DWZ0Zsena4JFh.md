@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0Zsena4JFh.md) - [plain]
 
 > Yaeji en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 676,347 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 676,296 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0Zsena4JFh.md) - [plain]
 | 43 | [Mussel](https://open.spotify.com/track/4itV7xKZIKvqGOH4nmp0RL) | [Mother Soki](https://open.spotify.com/artist/08W3G3y83p0TLqqjiyKXBk) | [Mussel](https://open.spotify.com/album/2I9GUnhP5vpSnrfbZtKy2T) | 2:41 |
 | 44 | [Going Shopping](https://open.spotify.com/track/4dUOhTTMy4ITIbNQKPKYFP) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Going Shopping](https://open.spotify.com/album/4XCAqkLSm0CozIX5dQRXPI) | 4:21 |
 | 45 | [Basic Being Basic](https://open.spotify.com/track/03zWQa4ZQEMofug2Gmh6io) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Basic Being Basic](https://open.spotify.com/album/47VVI2IwHNGV3GDKMneUQl) | 2:38 |
-| 46 | [Dance This Way](https://open.spotify.com/track/0HZm3MKVd4dzVOnz2O2ixl) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [JOY II](https://open.spotify.com/album/2AygyUWRx6cWaHN3sz2mI6) | 3:14 |
-| 47 | [Ride It Out](https://open.spotify.com/track/02ha48YfyAgAOrg50ZcDNh) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Ride It Out](https://open.spotify.com/album/6vMuk0DhZDM1wClWe6ZjIA) | 3:29 |
+| 46 | [Ride It Out](https://open.spotify.com/track/02ha48YfyAgAOrg50ZcDNh) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Ride It Out](https://open.spotify.com/album/6vMuk0DhZDM1wClWe6ZjIA) | 3:29 |
+| 47 | [Dance This Way](https://open.spotify.com/track/0HZm3MKVd4dzVOnz2O2ixl) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [JOY II](https://open.spotify.com/album/2AygyUWRx6cWaHN3sz2mI6) | 3:14 |
 | 48 | [Leaveyourlove \(with Ximena Sariñana, Rawayana\)](https://open.spotify.com/track/3FBz0UdwVbWHsO0jiG200B) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Leaveyourlove \(with Ximena Sariñana, Rawayana\)](https://open.spotify.com/album/5c2muZTm3fV2s1Jp5YVsVF) | 3:02 |
-| 49 | [Where's My Love \- with Carla](https://open.spotify.com/track/50fvAL9S2IfvMWinKtSEBQ) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0), [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Where's My Love \(with Carla\)](https://open.spotify.com/album/4zC14Rw1n7omTz4JYAbNuu) | 4:03 |
+| 49 | [everything was fickle \(feat\. Arden Jones\)](https://open.spotify.com/track/4IfbHtrx4H1iupwGmiFbTJ) | [Newport](https://open.spotify.com/artist/3BfSHf6fsuUA1KMXLX1Tur), [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [everything was fickle \(feat\. Arden Jones\)](https://open.spotify.com/album/47gHozXpQgqtM96O02nqF7) | 3:15 |
 | 50 | [Delete Ya](https://open.spotify.com/track/03y6MsaseYEO7DfwqsgcAI) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Delete Ya](https://open.spotify.com/album/3UJpgWYwRE9ctZEBmHZeVK) | 3:23 |
 
 Snapshot ID: `AAAAAJZVlgUvfV20fr2352KppQnot7tu`

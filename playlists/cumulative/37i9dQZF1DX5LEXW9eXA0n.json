@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "New & hot K-Pop ballads. (Cover: LEE MU JIN (\uc774\ubb34\uc9c4)) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "New & hot K-Pop ballads. (Cover: KYUHYUN) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "\ubc1c\ub77c\ub4dc, \ub824\uc694 (K-Pop Ballad Hits)",
   "tracks": [
     {
@@ -982,7 +982,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 295007,
       "name": "AE",
       "url": "https://open.spotify.com/track/1JPbaf6KZmhKVWBuJVGZUa"
@@ -1844,7 +1844,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 224602,
       "name": "Always You",
       "url": "https://open.spotify.com/track/44YjvQqYO17jk0VeTY1LKe"
@@ -13252,6 +13252,24 @@
       "duration_ms": 219746,
       "name": "If you change your mind",
       "url": "https://open.spotify.com/track/3j0gucP19lYwU0sSFezYFp"
+    },
+    {
+      "album": {
+        "name": "If You Love",
+        "url": "https://open.spotify.com/album/0xPEaiuRn5rjyUM0gNwjGH"
+      },
+      "artists": [
+        {
+          "name": "KCM",
+          "url": "https://open.spotify.com/artist/2cijK40RWU3ouFUnwW8v3K"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276000,
+      "name": "If You Love",
+      "url": "https://open.spotify.com/track/3Z6N5tnBhbIOdbJaxfSRDx"
     },
     {
       "album": {

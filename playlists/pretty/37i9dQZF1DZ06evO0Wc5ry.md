@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Wc5ry.md) - [plain]
 
 > This is Outkast\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,140 likes - 49 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,153 likes - 49 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Wc5ry.md) - [plain]
 | 19 | [Jazzy Belle](https://open.spotify.com/track/6w4MlvpuxtbjGdL9YeTx89) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [ATLiens](https://open.spotify.com/album/1IaBCF26OjgYwUCEPaIyC0) | 4:11 |
 | 20 | [Southernplayalisticadillacmuzik](https://open.spotify.com/track/2pMAmZdHfQHyqJCXJbfhK3) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Southernplayalisticadillacmuzik](https://open.spotify.com/album/3l5AwLKqQ42VJbc5lTuP8G) | 5:17 |
 | 21 | [Gasoline Dreams \(with Khujo Goodie\)](https://open.spotify.com/track/1Jo3u8eXp8xobbrvq0FIi9) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [Khujo Goodie](https://open.spotify.com/artist/28i3mntNBlXpjstb1nHhkJ) | [Stankonia](https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj) | 3:34 |
-| 22 | [Dracula's Wedding \(feat\. Kelis\)](https://open.spotify.com/track/2EFHXO4zJRitZLpE1ztsWO) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 2:32 |
+| 22 | [She Lives in My Lap \(feat\. Rosario Dawson\)](https://open.spotify.com/track/6vV1NDCjh2afFgQ9Vb7i86) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [Rosario Dawson](https://open.spotify.com/artist/5gGhRZgP9BJL9fsFdvTzeX) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 4:27 |
 | 23 | [Two Dope Boyz \(In a Cadillac\)](https://open.spotify.com/track/2q8lHMMso6wx6pb5uwqzOs) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [ATLiens](https://open.spotify.com/album/1IaBCF26OjgYwUCEPaIyC0) | 2:42 |
 | 24 | [Skew It on the Bar\-B \(feat\. Raekwon\)](https://open.spotify.com/track/6EQ4orawx8eo0aXH0pOKLE) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [Raekwon](https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1) | [Aquemini](https://open.spotify.com/album/5ceB3rxgXqIRpsOvVzTG28) | 3:15 |
 | 25 | [Benz Or Beamer](https://open.spotify.com/track/3uo2KJXe6xaQsHhbIHNVmP) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [New Jersey Drive Vol\. 1](https://open.spotify.com/album/7DoD8us9kfckQxBjsBq9JW) | 4:16 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JdAKMqGwZ5.md) - [plain]
 
 > Las mejores novedades emergentes del mundo indie, cada viernes\. Foto: Amatria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,026 likes - 120 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,018 likes - 120 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

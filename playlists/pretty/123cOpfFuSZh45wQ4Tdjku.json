@@ -1,12 +1,12 @@
 {
   "description": "mostly furry",
-  "num_followers": 1325,
+  "num_followers": 1328,
   "original_name": "My favourite furry songs",
   "owner": {
     "name": "Karlito",
     "url": "https://open.spotify.com/user/31pthgv6rb2dvvjpngxwmd2ztjx4"
   },
-  "snapshot_id": "AAACJ/qfaFntfkiBUH1KK1jSgne8bQqy",
+  "snapshot_id": "AAACKJoLkPEQwBnOT4ZYExkbIhg7aUj7",
   "tracks": [
     {
       "added_at": "2026-10-12 04:18:08",
@@ -10323,6 +10323,42 @@
       "duration_ms": 180922,
       "name": "Harpy Hare",
       "url": "https://open.spotify.com/track/6pWlv50Lthad8jyd6f1TlC"
+    },
+    {
+      "added_at": "2026-11-15 09:02:56",
+      "album": {
+        "name": "Party Favor",
+        "url": "https://open.spotify.com/album/37LhJVLQUxJDJPxa9IaJdb"
+      },
+      "artists": [
+        {
+          "name": "ivycomb",
+          "url": "https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo"
+        },
+        {
+          "name": "OodleZz",
+          "url": "https://open.spotify.com/artist/2eCpXBK9mnqr6o9TydXu98"
+        }
+      ],
+      "duration_ms": 195236,
+      "name": "Party Favor",
+      "url": "https://open.spotify.com/track/2aHxRQGqUH58sUptShLRWP"
+    },
+    {
+      "added_at": "2026-11-15 09:02:56",
+      "album": {
+        "name": "Party Favor",
+        "url": "https://open.spotify.com/album/37LhJVLQUxJDJPxa9IaJdb"
+      },
+      "artists": [
+        {
+          "name": "ivycomb",
+          "url": "https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo"
+        }
+      ],
+      "duration_ms": 194750,
+      "name": "Party Favor - Instrumental",
+      "url": "https://open.spotify.com/track/60AlTM7Y7mT9zF9vZuwcLw"
     }
   ],
   "unique_name": "My favourite furry songs",

@@ -1,6 +1,6 @@
 {
   "description": "Lose yourself in the cosmic spheres of Psytrance.",
-  "num_followers": 606082,
+  "num_followers": 606097,
   "original_name": "Psytrance Supernova",
   "owner": {
     "name": "Spotify",
@@ -371,8 +371,8 @@
     {
       "added_at": "2026-07-17 04:01:12",
       "album": {
-        "name": "He.art (Omiki & Terra Remix)",
-        "url": "https://open.spotify.com/album/2YgMh1KbaXvV5GByqywQAU"
+        "name": "Remixes",
+        "url": "https://open.spotify.com/album/7cYQFSGIwxwOTeq3o5Iq16"
       },
       "artists": [
         {
@@ -380,17 +380,13 @@
           "url": "https://open.spotify.com/artist/3dUltShd2gJQc98Kc7Syit"
         },
         {
-          "name": "Omiki",
-          "url": "https://open.spotify.com/artist/7pHwBqsYULdAdHgSwf1q9f"
-        },
-        {
-          "name": "TERRA",
-          "url": "https://open.spotify.com/artist/6EMXsJEdrX9vLI7DWSjG5l"
+          "name": "Darma",
+          "url": "https://open.spotify.com/artist/4UUnQ0W7V2WZkt8iuouvBi"
         }
       ],
-      "duration_ms": 432676,
-      "name": "He.art - Omiki & Terra Remix",
-      "url": "https://open.spotify.com/track/0IQ2lKaun7QeB4ixCbJoIb"
+      "duration_ms": 488275,
+      "name": "Poison - Darma Remix",
+      "url": "https://open.spotify.com/track/2fS24UOnvWXqzD2eJ8qifH"
     },
     {
       "added_at": "2026-07-17 04:01:12",
@@ -479,8 +475,8 @@
     {
       "added_at": "2026-07-17 04:01:12",
       "album": {
-        "name": "Remixes",
-        "url": "https://open.spotify.com/album/7cYQFSGIwxwOTeq3o5Iq16"
+        "name": "He.art (Omiki & Terra Remix)",
+        "url": "https://open.spotify.com/album/2YgMh1KbaXvV5GByqywQAU"
       },
       "artists": [
         {
@@ -488,13 +484,17 @@
           "url": "https://open.spotify.com/artist/3dUltShd2gJQc98Kc7Syit"
         },
         {
-          "name": "Darma",
-          "url": "https://open.spotify.com/artist/4UUnQ0W7V2WZkt8iuouvBi"
+          "name": "Omiki",
+          "url": "https://open.spotify.com/artist/7pHwBqsYULdAdHgSwf1q9f"
+        },
+        {
+          "name": "TERRA",
+          "url": "https://open.spotify.com/artist/6EMXsJEdrX9vLI7DWSjG5l"
         }
       ],
-      "duration_ms": 488275,
-      "name": "Poison - Darma Remix",
-      "url": "https://open.spotify.com/track/2fS24UOnvWXqzD2eJ8qifH"
+      "duration_ms": 432676,
+      "name": "He.art - Omiki & Terra Remix",
+      "url": "https://open.spotify.com/track/0IQ2lKaun7QeB4ixCbJoIb"
     },
     {
       "added_at": "2026-07-17 04:01:12",
@@ -947,6 +947,22 @@
     {
       "added_at": "2026-07-17 04:01:12",
       "album": {
+        "name": "Echoes of Euphoria",
+        "url": "https://open.spotify.com/album/2ua5it6odgz5gpHn3YokMF"
+      },
+      "artists": [
+        {
+          "name": "Monod",
+          "url": "https://open.spotify.com/artist/0DTLDYZ7bYC0YAF1xV5VLO"
+        }
+      ],
+      "duration_ms": 302608,
+      "name": "Echoes of Euphoria",
+      "url": "https://open.spotify.com/track/4FsdFmFeaG94AMfUBuotrU"
+    },
+    {
+      "added_at": "2026-07-17 04:01:12",
+      "album": {
         "name": "Rapture",
         "url": "https://open.spotify.com/album/1lai8kxcQGXWCi8aExE4Iz"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 201739,
       "name": "Rapture",
       "url": "https://open.spotify.com/track/16V8meQabrUEUI5GRC8x4K"
-    },
-    {
-      "added_at": "2026-07-17 04:01:12",
-      "album": {
-        "name": "Echoes of Euphoria",
-        "url": "https://open.spotify.com/album/2ua5it6odgz5gpHn3YokMF"
-      },
-      "artists": [
-        {
-          "name": "Monod",
-          "url": "https://open.spotify.com/artist/0DTLDYZ7bYC0YAF1xV5VLO"
-        }
-      ],
-      "duration_ms": 302608,
-      "name": "Echoes of Euphoria",
-      "url": "https://open.spotify.com/track/4FsdFmFeaG94AMfUBuotrU"
     },
     {
       "added_at": "2026-07-17 04:01:12",
@@ -1039,6 +1039,26 @@
     {
       "added_at": "2026-07-17 04:01:12",
       "album": {
+        "name": "IM25",
+        "url": "https://open.spotify.com/album/6YEjK95sgoXQn1yGbYjHsp"
+      },
+      "artists": [
+        {
+          "name": "Infected Mushroom",
+          "url": "https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI"
+        },
+        {
+          "name": "Bliss",
+          "url": "https://open.spotify.com/artist/5kCxDwD2rjY6lKSGdAW7Lk"
+        }
+      ],
+      "duration_ms": 401167,
+      "name": "Boss La Rosh",
+      "url": "https://open.spotify.com/track/2c7y5n1q4rwHNTUPzi4HOe"
+    },
+    {
+      "added_at": "2026-07-17 04:01:12",
+      "album": {
         "name": "Elsewhere",
         "url": "https://open.spotify.com/album/3XpUhJ5qINVQxYS5OqnIUE"
       },
@@ -1063,38 +1083,26 @@
     {
       "added_at": "2026-07-17 04:01:12",
       "album": {
-        "name": "IM25",
-        "url": "https://open.spotify.com/album/6YEjK95sgoXQn1yGbYjHsp"
+        "name": "Shingara",
+        "url": "https://open.spotify.com/album/45ykr0hh1ZI3hhyBMLNZWs"
       },
       "artists": [
         {
-          "name": "Infected Mushroom",
-          "url": "https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI"
+          "name": "Jilax",
+          "url": "https://open.spotify.com/artist/4JivOD3AVVevayZVBLUk1B"
         },
         {
-          "name": "Bliss",
-          "url": "https://open.spotify.com/artist/5kCxDwD2rjY6lKSGdAW7Lk"
-        }
-      ],
-      "duration_ms": 401167,
-      "name": "Boss La Rosh",
-      "url": "https://open.spotify.com/track/2c7y5n1q4rwHNTUPzi4HOe"
-    },
-    {
-      "added_at": "2026-07-17 04:01:12",
-      "album": {
-        "name": "Gracias a la Vida",
-        "url": "https://open.spotify.com/album/20hNuXuFlGOcb1LBozzqnV"
-      },
-      "artists": [
+          "name": "3Form",
+          "url": "https://open.spotify.com/artist/6z14QEpwhH5l5jpNypfTNs"
+        },
         {
-          "name": "Tao Andra",
-          "url": "https://open.spotify.com/artist/1zcGW4JIJJPbA8SdYwNLLC"
+          "name": "Psyfeature",
+          "url": "https://open.spotify.com/artist/36n64MsjDNcijIzOojYw2F"
         }
       ],
-      "duration_ms": 348274,
-      "name": "Gracias a la Vida",
-      "url": "https://open.spotify.com/track/7cM7j8Po2ORcNOnpmMJsNn"
+      "duration_ms": 317746,
+      "name": "Shingara",
+      "url": "https://open.spotify.com/track/06uh05Zu2UpLjnH6NydLUL"
     },
     {
       "added_at": "2026-07-17 04:01:12",
@@ -1119,26 +1127,18 @@
     {
       "added_at": "2026-07-17 04:01:12",
       "album": {
-        "name": "Shingara",
-        "url": "https://open.spotify.com/album/45ykr0hh1ZI3hhyBMLNZWs"
+        "name": "Gracias a la Vida",
+        "url": "https://open.spotify.com/album/20hNuXuFlGOcb1LBozzqnV"
       },
       "artists": [
         {
-          "name": "Jilax",
-          "url": "https://open.spotify.com/artist/4JivOD3AVVevayZVBLUk1B"
-        },
-        {
-          "name": "3Form",
-          "url": "https://open.spotify.com/artist/6z14QEpwhH5l5jpNypfTNs"
-        },
-        {
-          "name": "Psyfeature",
-          "url": "https://open.spotify.com/artist/36n64MsjDNcijIzOojYw2F"
+          "name": "Tao Andra",
+          "url": "https://open.spotify.com/artist/1zcGW4JIJJPbA8SdYwNLLC"
         }
       ],
-      "duration_ms": 317746,
-      "name": "Shingara",
-      "url": "https://open.spotify.com/track/06uh05Zu2UpLjnH6NydLUL"
+      "duration_ms": 348274,
+      "name": "Gracias a la Vida",
+      "url": "https://open.spotify.com/track/7cM7j8Po2ORcNOnpmMJsNn"
     },
     {
       "added_at": "2026-07-17 04:01:12",

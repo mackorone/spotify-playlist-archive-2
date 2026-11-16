@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2I5kdP.md) - [plain]
 
 > This is Christina Vantzou\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 252 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 253 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2I5kdP.md) - [plain]
 | 49 | [Dance Rehearsal](https://open.spotify.com/track/4It0SkcS72eaqtPDaHbKXI) | [Christina Vantzou](https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR), [Margaret Hermant](https://open.spotify.com/artist/3EuUrHJPp2kp1mUfDBzlin), [Neil Leiter](https://open.spotify.com/artist/6JadM3Xj5echVd3jCNZQJS), [Vincent Werbrouck](https://open.spotify.com/artist/31zrSGTGXyG0QTKyE8QVFE), [Lieselot de Wilde](https://open.spotify.com/artist/1Kl1WpZOpVYsySdBdH9TDR), [Ben Bertrand](https://open.spotify.com/artist/2JEhCRAfJXQCuHHHAsFcPx), [Echo Collective](https://open.spotify.com/artist/0vA5v6tBmGdzhupEeUDK9S) | [No\. 5](https://open.spotify.com/album/14N1fgzW3BWvBvqSG9ySpk) | 1:35 |
 | 50 | [Valley Drone](https://open.spotify.com/track/7Cfj1CFahs2boKhte7NeFT) | [Christina Vantzou](https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR) | [No\. 3](https://open.spotify.com/album/0IFAjnkr74T7JLEwGW8sia) | 5:30 |
 
-Snapshot ID: `avZTAAAAAACcT4lfpNeTfNC6N7WI8uKW`
+Snapshot ID: `avZTAAAAAADUFspdaLq1WFdFKTaoV+0U`

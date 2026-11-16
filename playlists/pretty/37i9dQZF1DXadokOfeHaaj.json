@@ -1,6 +1,6 @@
 {
   "description": "The best new electronic indie music. Cover: FKJ",
-  "num_followers": 44205,
+  "num_followers": 44206,
   "original_name": "Indie Electronic ",
   "owner": {
     "name": "Spotify",
@@ -259,26 +259,22 @@
     {
       "added_at": "2026-11-04 09:14:06",
       "album": {
-        "name": "Solar Skin (feat. jasper.wav)",
-        "url": "https://open.spotify.com/album/5T7NY9l3JB9erPtdG5wZx7"
+        "name": "Whisper To Me",
+        "url": "https://open.spotify.com/album/45wZrMoCQ7BF8UhdedUwNv"
       },
       "artists": [
         {
-          "name": "Carlita",
-          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
+          "name": "Jimi Jules",
+          "url": "https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd"
         },
         {
-          "name": "Malive",
-          "url": "https://open.spotify.com/artist/5JsnFhU4OqgEtNXs7Sq1Vm"
-        },
-        {
-          "name": "jasper.wav",
-          "url": "https://open.spotify.com/artist/69H3w1KragVQijsuYudCor"
+          "name": "Modern Tales",
+          "url": "https://open.spotify.com/artist/5j34pD51tkc8KtqqYiBe8k"
         }
       ],
-      "duration_ms": 148571,
-      "name": "Solar Skin (feat. jasper.wav)",
-      "url": "https://open.spotify.com/track/3cH1FROo7Q1lC0N8SmdQJ1"
+      "duration_ms": 226896,
+      "name": "Whisper To Me",
+      "url": "https://open.spotify.com/track/4fJj5d2sms5UUsFyvrNjwr"
     },
     {
       "added_at": "2026-11-04 09:14:06",
@@ -315,22 +311,26 @@
     {
       "added_at": "2026-11-04 09:14:06",
       "album": {
-        "name": "Whisper To Me",
-        "url": "https://open.spotify.com/album/45wZrMoCQ7BF8UhdedUwNv"
+        "name": "Solar Skin (feat. jasper.wav)",
+        "url": "https://open.spotify.com/album/5T7NY9l3JB9erPtdG5wZx7"
       },
       "artists": [
         {
-          "name": "Jimi Jules",
-          "url": "https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd"
+          "name": "Carlita",
+          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
         },
         {
-          "name": "Modern Tales",
-          "url": "https://open.spotify.com/artist/5j34pD51tkc8KtqqYiBe8k"
+          "name": "Malive",
+          "url": "https://open.spotify.com/artist/5JsnFhU4OqgEtNXs7Sq1Vm"
+        },
+        {
+          "name": "jasper.wav",
+          "url": "https://open.spotify.com/artist/69H3w1KragVQijsuYudCor"
         }
       ],
-      "duration_ms": 226896,
-      "name": "Whisper To Me",
-      "url": "https://open.spotify.com/track/4fJj5d2sms5UUsFyvrNjwr"
+      "duration_ms": 148571,
+      "name": "Solar Skin (feat. jasper.wav)",
+      "url": "https://open.spotify.com/track/3cH1FROo7Q1lC0N8SmdQJ1"
     },
     {
       "added_at": "2026-11-04 09:14:06",
@@ -595,26 +595,6 @@
     {
       "added_at": "2026-11-04 09:14:06",
       "album": {
-        "name": "1+1+1",
-        "url": "https://open.spotify.com/album/1TNi8B4kLbNAwnXmjK8NDM"
-      },
-      "artists": [
-        {
-          "name": "Boys Noize",
-          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
-        },
-        {
-          "name": "ZEP",
-          "url": "https://open.spotify.com/artist/72OZwUYL9lvmwBvvsstpIV"
-        }
-      ],
-      "duration_ms": 176958,
-      "name": "1+1+1",
-      "url": "https://open.spotify.com/track/5HH66Sx5PCkl4xw8TwZq3g"
-    },
-    {
-      "added_at": "2026-11-04 09:14:06",
-      "album": {
         "name": "Ambiguous Desire",
         "url": "https://open.spotify.com/album/2l7Qtf3Mffx6ZIDTpyaMtS"
       },
@@ -631,6 +611,26 @@
       "duration_ms": 242541,
       "name": "Senses ft. Sampha",
       "url": "https://open.spotify.com/track/53j4dcm9Jn47sFJx8nVz5X"
+    },
+    {
+      "added_at": "2026-11-04 09:14:06",
+      "album": {
+        "name": "1+1+1",
+        "url": "https://open.spotify.com/album/1TNi8B4kLbNAwnXmjK8NDM"
+      },
+      "artists": [
+        {
+          "name": "Boys Noize",
+          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
+        },
+        {
+          "name": "ZEP",
+          "url": "https://open.spotify.com/artist/72OZwUYL9lvmwBvvsstpIV"
+        }
+      ],
+      "duration_ms": 176958,
+      "name": "1+1+1",
+      "url": "https://open.spotify.com/track/5HH66Sx5PCkl4xw8TwZq3g"
     },
     {
       "added_at": "2026-11-04 09:14:06",
@@ -671,22 +671,6 @@
     {
       "added_at": "2026-11-04 09:14:06",
       "album": {
-        "name": "Forever Now",
-        "url": "https://open.spotify.com/album/2yP3uKb0hJmDd3YuloPgYQ"
-      },
-      "artists": [
-        {
-          "name": "Jayda G",
-          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
-        }
-      ],
-      "duration_ms": 176698,
-      "name": "Forever Now",
-      "url": "https://open.spotify.com/track/09OPfu1Xy5fD0a9L93hhIh"
-    },
-    {
-      "added_at": "2026-11-04 09:14:06",
-      "album": {
         "name": "Tiger J",
         "url": "https://open.spotify.com/album/75kClBh4BxMYW2vDLRQZPv"
       },
@@ -703,18 +687,18 @@
     {
       "added_at": "2026-11-04 09:14:06",
       "album": {
-        "name": "Me and You",
-        "url": "https://open.spotify.com/album/0WzQlsyq2abojuavi9W9kD"
+        "name": "Forever Now",
+        "url": "https://open.spotify.com/album/2yP3uKb0hJmDd3YuloPgYQ"
       },
       "artists": [
         {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+          "name": "Jayda G",
+          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
         }
       ],
-      "duration_ms": 229475,
-      "name": "Me and You",
-      "url": "https://open.spotify.com/track/3K3yAN6QVsLNM3tNkn8zuo"
+      "duration_ms": 176698,
+      "name": "Forever Now",
+      "url": "https://open.spotify.com/track/09OPfu1Xy5fD0a9L93hhIh"
     },
     {
       "added_at": "2026-11-04 09:14:06",
@@ -735,6 +719,22 @@
     {
       "added_at": "2026-11-04 09:14:06",
       "album": {
+        "name": "Me and You",
+        "url": "https://open.spotify.com/album/0WzQlsyq2abojuavi9W9kD"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "duration_ms": 229475,
+      "name": "Me and You",
+      "url": "https://open.spotify.com/track/3K3yAN6QVsLNM3tNkn8zuo"
+    },
+    {
+      "added_at": "2026-11-04 09:14:06",
+      "album": {
         "name": "Round The Block",
         "url": "https://open.spotify.com/album/78DEb7OzxItyfsHEUpedmo"
       },
@@ -751,6 +751,26 @@
       "duration_ms": 162673,
       "name": "Round The Block",
       "url": "https://open.spotify.com/track/5Bxxp1dWac7F4sOI3jK0OG"
+    },
+    {
+      "added_at": "2026-11-04 09:14:06",
+      "album": {
+        "name": "Lemme Dance",
+        "url": "https://open.spotify.com/album/2IvjKUmTfaFsM0RU1bCxPF"
+      },
+      "artists": [
+        {
+          "name": "Chlo\u00e9 Caillet",
+          "url": "https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a"
+        },
+        {
+          "name": "Myd",
+          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
+        }
+      ],
+      "duration_ms": 223660,
+      "name": "Lemme Dance",
+      "url": "https://open.spotify.com/track/5mw7Yu0K0iCAI3pIKxnZ9B"
     },
     {
       "added_at": "2026-11-04 09:14:06",
@@ -779,22 +799,18 @@
     {
       "added_at": "2026-11-04 09:14:06",
       "album": {
-        "name": "Lemme Dance",
-        "url": "https://open.spotify.com/album/2IvjKUmTfaFsM0RU1bCxPF"
+        "name": "Take My Space",
+        "url": "https://open.spotify.com/album/62SfUalXptRGizTRybkeXH"
       },
       "artists": [
         {
-          "name": "Chlo\u00e9 Caillet",
-          "url": "https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a"
-        },
-        {
-          "name": "Myd",
-          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
+          "name": "nimino",
+          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
         }
       ],
-      "duration_ms": 223660,
-      "name": "Lemme Dance",
-      "url": "https://open.spotify.com/track/5mw7Yu0K0iCAI3pIKxnZ9B"
+      "duration_ms": 143473,
+      "name": "Take My Space",
+      "url": "https://open.spotify.com/track/3cIbR7s1wSEhesuYLRD9ij"
     },
     {
       "added_at": "2026-11-04 09:14:06",
@@ -819,22 +835,6 @@
     {
       "added_at": "2026-11-04 09:14:06",
       "album": {
-        "name": "Take My Space",
-        "url": "https://open.spotify.com/album/62SfUalXptRGizTRybkeXH"
-      },
-      "artists": [
-        {
-          "name": "nimino",
-          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
-        }
-      ],
-      "duration_ms": 143473,
-      "name": "Take My Space",
-      "url": "https://open.spotify.com/track/3cIbR7s1wSEhesuYLRD9ij"
-    },
-    {
-      "added_at": "2026-11-04 09:14:06",
-      "album": {
         "name": "Kaleidoscope",
         "url": "https://open.spotify.com/album/2a4KB3BrGlfUXNmOQbHPpM"
       },
@@ -847,6 +847,22 @@
       "duration_ms": 133761,
       "name": "Tell Your Friends You Love Them",
       "url": "https://open.spotify.com/track/4yYjB1TE1zkGZQnHqp49aQ"
+    },
+    {
+      "added_at": "2026-11-04 09:14:06",
+      "album": {
+        "name": "Seaford Sunset",
+        "url": "https://open.spotify.com/album/6QyjzhzhZrYj8C4ALNJIlM"
+      },
+      "artists": [
+        {
+          "name": "Pretty Girl",
+          "url": "https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98"
+        }
+      ],
+      "duration_ms": 218318,
+      "name": "Seaford Sunset",
+      "url": "https://open.spotify.com/track/50f3T8LZ1ILhUA6DohGShZ"
     },
     {
       "added_at": "2026-11-04 09:14:06",
@@ -871,38 +887,6 @@
     {
       "added_at": "2026-11-04 09:14:06",
       "album": {
-        "name": "Center Peace",
-        "url": "https://open.spotify.com/album/7eiuDmrXMfHJWqKyil5sEf"
-      },
-      "artists": [
-        {
-          "name": "Amtrac",
-          "url": "https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J"
-        }
-      ],
-      "duration_ms": 234285,
-      "name": "Center Peace",
-      "url": "https://open.spotify.com/track/79hDqKjcwPLqW1RTCdyvd3"
-    },
-    {
-      "added_at": "2026-11-04 09:14:06",
-      "album": {
-        "name": "Seaford Sunset",
-        "url": "https://open.spotify.com/album/6QyjzhzhZrYj8C4ALNJIlM"
-      },
-      "artists": [
-        {
-          "name": "Pretty Girl",
-          "url": "https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98"
-        }
-      ],
-      "duration_ms": 218318,
-      "name": "Seaford Sunset",
-      "url": "https://open.spotify.com/track/50f3T8LZ1ILhUA6DohGShZ"
-    },
-    {
-      "added_at": "2026-11-04 09:14:06",
-      "album": {
         "name": "JOY (Light In The Dark)",
         "url": "https://open.spotify.com/album/4O6IC1c67UMYoDaZp0FMWS"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 296045,
       "name": "JOY (Light In The Dark)",
       "url": "https://open.spotify.com/track/6rZfjIl7gepUSwkmi22luo"
+    },
+    {
+      "added_at": "2026-11-04 09:14:06",
+      "album": {
+        "name": "Center Peace",
+        "url": "https://open.spotify.com/album/7eiuDmrXMfHJWqKyil5sEf"
+      },
+      "artists": [
+        {
+          "name": "Amtrac",
+          "url": "https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J"
+        }
+      ],
+      "duration_ms": 234285,
+      "name": "Center Peace",
+      "url": "https://open.spotify.com/track/79hDqKjcwPLqW1RTCdyvd3"
     },
     {
       "added_at": "2026-11-04 09:14:06",
@@ -955,6 +955,22 @@
     {
       "added_at": "2026-11-04 09:14:06",
       "album": {
+        "name": "I LUV IT",
+        "url": "https://open.spotify.com/album/5oEIprEr2NPtmVt60Ajahw"
+      },
+      "artists": [
+        {
+          "name": "Suray Sertin",
+          "url": "https://open.spotify.com/artist/4Fne9Gai1GmN22jvAENRtP"
+        }
+      ],
+      "duration_ms": 166875,
+      "name": "I LUV IT",
+      "url": "https://open.spotify.com/track/4uhOF6xbnELupVcp4wqnfT"
+    },
+    {
+      "added_at": "2026-11-04 09:14:06",
+      "album": {
         "name": "Good Girl",
         "url": "https://open.spotify.com/album/1OJ2oUJcjDuiIEPrU5trpp"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 194887,
       "name": "Good Girl",
       "url": "https://open.spotify.com/track/3CWjCDuORRYDKZjdQRra4f"
-    },
-    {
-      "added_at": "2026-11-04 09:14:06",
-      "album": {
-        "name": "I LUV IT",
-        "url": "https://open.spotify.com/album/5oEIprEr2NPtmVt60Ajahw"
-      },
-      "artists": [
-        {
-          "name": "Suray Sertin",
-          "url": "https://open.spotify.com/artist/4Fne9Gai1GmN22jvAENRtP"
-        }
-      ],
-      "duration_ms": 166875,
-      "name": "I LUV IT",
-      "url": "https://open.spotify.com/track/4uhOF6xbnELupVcp4wqnfT"
     },
     {
       "added_at": "2026-11-04 09:14:06",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2026-11-04 09:14:06",
       "album": {
+        "name": "Lose All Your Friends",
+        "url": "https://open.spotify.com/album/6CNGYWi0QtwDh80KcIvnWS"
+      },
+      "artists": [
+        {
+          "name": "Friendly Fires",
+          "url": "https://open.spotify.com/artist/3mZqziCJj4pq3P2VBpmK6p"
+        }
+      ],
+      "duration_ms": 301893,
+      "name": "Lose All Your Friends",
+      "url": "https://open.spotify.com/track/0kvAaEfGZnzBQaUmqUJ2ct"
+    },
+    {
+      "added_at": "2026-11-04 09:14:06",
+      "album": {
         "name": "Elation",
         "url": "https://open.spotify.com/album/4QRm9lRAF72XSD7TyDKye3"
       },
@@ -1079,26 +1095,6 @@
       "duration_ms": 212500,
       "name": "Elation",
       "url": "https://open.spotify.com/track/5moqdrtdKL64nHKhYZ7IKD"
-    },
-    {
-      "added_at": "2026-11-04 09:14:06",
-      "album": {
-        "name": "Blue Shadows (feat. Karen O)",
-        "url": "https://open.spotify.com/album/3bTntUIL9J3VLtgALQkzh7"
-      },
-      "artists": [
-        {
-          "name": "The Avalanches",
-          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
-        },
-        {
-          "name": "Karen O",
-          "url": "https://open.spotify.com/artist/6emHCSoB4tJxTVXakbrpPz"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Blue Shadows (feat. Karen O)",
-      "url": "https://open.spotify.com/track/5bN5To0VLbNBKQDzJ1Lk6c"
     },
     {
       "added_at": "2026-11-04 09:14:06",
@@ -1123,18 +1119,22 @@
     {
       "added_at": "2026-11-04 09:14:06",
       "album": {
-        "name": "Lose All Your Friends",
-        "url": "https://open.spotify.com/album/6CNGYWi0QtwDh80KcIvnWS"
+        "name": "Blue Shadows (feat. Karen O)",
+        "url": "https://open.spotify.com/album/3bTntUIL9J3VLtgALQkzh7"
       },
       "artists": [
         {
-          "name": "Friendly Fires",
-          "url": "https://open.spotify.com/artist/3mZqziCJj4pq3P2VBpmK6p"
+          "name": "The Avalanches",
+          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
+        },
+        {
+          "name": "Karen O",
+          "url": "https://open.spotify.com/artist/6emHCSoB4tJxTVXakbrpPz"
         }
       ],
-      "duration_ms": 301893,
-      "name": "Lose All Your Friends",
-      "url": "https://open.spotify.com/track/0kvAaEfGZnzBQaUmqUJ2ct"
+      "duration_ms": 160000,
+      "name": "Blue Shadows (feat. Karen O)",
+      "url": "https://open.spotify.com/track/5bN5To0VLbNBKQDzJ1Lk6c"
     },
     {
       "added_at": "2026-11-04 09:14:06",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2026-11-04 09:14:06",
       "album": {
-        "name": "Tension",
-        "url": "https://open.spotify.com/album/1HOAbVRHClJtTRIXQcOq2Q"
-      },
-      "artists": [
-        {
-          "name": "DJ BORING",
-          "url": "https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p"
-        }
-      ],
-      "duration_ms": 285882,
-      "name": "Tension",
-      "url": "https://open.spotify.com/track/2wHUz9eFoKHvS4Fi4hIb3H"
-    },
-    {
-      "added_at": "2026-11-04 09:14:06",
-      "album": {
         "name": "mangetout (The Dare remix)",
         "url": "https://open.spotify.com/album/7zHlzM3GayR3F1IoG5Xmls"
       },
@@ -1211,18 +1195,18 @@
     {
       "added_at": "2026-11-04 09:14:06",
       "album": {
-        "name": "retrograde",
-        "url": "https://open.spotify.com/album/0WDRptbH0eIqZ0Fzx1EhQE"
+        "name": "Tension",
+        "url": "https://open.spotify.com/album/1HOAbVRHClJtTRIXQcOq2Q"
       },
       "artists": [
         {
-          "name": "Sonnee",
-          "url": "https://open.spotify.com/artist/2QmItUyhRFr5NBHFTVOBxr"
+          "name": "DJ BORING",
+          "url": "https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p"
         }
       ],
-      "duration_ms": 175257,
-      "name": "retrograde",
-      "url": "https://open.spotify.com/track/1Snept69jtJ8foNZsUrmQm"
+      "duration_ms": 285882,
+      "name": "Tension",
+      "url": "https://open.spotify.com/track/2wHUz9eFoKHvS4Fi4hIb3H"
     },
     {
       "added_at": "2026-11-04 09:14:06",
@@ -1239,6 +1223,22 @@
       "duration_ms": 151763,
       "name": "All Your Love",
       "url": "https://open.spotify.com/track/0EUvplf7cvLd1ZLumMmY3T"
+    },
+    {
+      "added_at": "2026-11-04 09:14:06",
+      "album": {
+        "name": "retrograde",
+        "url": "https://open.spotify.com/album/0WDRptbH0eIqZ0Fzx1EhQE"
+      },
+      "artists": [
+        {
+          "name": "Sonnee",
+          "url": "https://open.spotify.com/artist/2QmItUyhRFr5NBHFTVOBxr"
+        }
+      ],
+      "duration_ms": 175257,
+      "name": "retrograde",
+      "url": "https://open.spotify.com/track/1Snept69jtJ8foNZsUrmQm"
     },
     {
       "added_at": "2026-11-04 09:14:06",

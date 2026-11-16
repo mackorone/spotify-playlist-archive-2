@@ -1,6 +1,6 @@
 {
   "description": "Hit rewind on these classic Ghanaian gospel songs.",
-  "num_followers": 13380,
+  "num_followers": 13384,
   "original_name": "Ghana Gospel Classics",
   "owner": {
     "name": "Spotify",
@@ -491,6 +491,22 @@
     {
       "added_at": "2025-01-09 09:53:00",
       "album": {
+        "name": "My Vision",
+        "url": "https://open.spotify.com/album/3M2KpSQEs5CGmnAx4X5lcK"
+      },
+      "artists": [
+        {
+          "name": "Noble Nketsiah",
+          "url": "https://open.spotify.com/artist/2WecbwlimhoePvOZR06VQd"
+        }
+      ],
+      "duration_ms": 331990,
+      "name": "Metease yi",
+      "url": "https://open.spotify.com/track/3sqXQoSb19w97o2mTkeYJ3"
+    },
+    {
+      "added_at": "2025-01-09 09:53:00",
+      "album": {
         "name": "Ghana Gospel Classics, Vol. 1",
         "url": "https://open.spotify.com/album/6mQQJMMcckDuVfEPTex79h"
       },
@@ -503,26 +519,6 @@
       "duration_ms": 328855,
       "name": "Di Wo Hene",
       "url": "https://open.spotify.com/track/7cf86toNQniypAJK3Gjqwu"
-    },
-    {
-      "added_at": "2025-01-09 09:53:00",
-      "album": {
-        "name": "God of Miracles",
-        "url": "https://open.spotify.com/album/3zf0GwGizuZX3G7HBoVwgF"
-      },
-      "artists": [
-        {
-          "name": "Joe Mettle",
-          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
-        },
-        {
-          "name": "LUIGI MACLEAN",
-          "url": "https://open.spotify.com/artist/4gzBsQLndSUq2uUislBcq6"
-        }
-      ],
-      "duration_ms": 408584,
-      "name": "Bo Noo Ni (feat. Luigi Maclean)",
-      "url": "https://open.spotify.com/track/7eirw5Zy1bUWOka5g2HWrb"
     },
     {
       "added_at": "2025-01-09 09:53:00",
@@ -559,18 +555,22 @@
     {
       "added_at": "2025-01-09 09:53:00",
       "album": {
-        "name": "My Vision",
-        "url": "https://open.spotify.com/album/3M2KpSQEs5CGmnAx4X5lcK"
+        "name": "God of Miracles",
+        "url": "https://open.spotify.com/album/3zf0GwGizuZX3G7HBoVwgF"
       },
       "artists": [
         {
-          "name": "Noble Nketsiah",
-          "url": "https://open.spotify.com/artist/2WecbwlimhoePvOZR06VQd"
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+        },
+        {
+          "name": "LUIGI MACLEAN",
+          "url": "https://open.spotify.com/artist/4gzBsQLndSUq2uUislBcq6"
         }
       ],
-      "duration_ms": 331990,
-      "name": "Metease yi",
-      "url": "https://open.spotify.com/track/3sqXQoSb19w97o2mTkeYJ3"
+      "duration_ms": 408584,
+      "name": "Bo Noo Ni (feat. Luigi Maclean)",
+      "url": "https://open.spotify.com/track/7eirw5Zy1bUWOka5g2HWrb"
     },
     {
       "added_at": "2025-01-09 09:53:00",
@@ -587,22 +587,6 @@
       "duration_ms": 298396,
       "name": "Wobeye Kese - Version 1",
       "url": "https://open.spotify.com/track/5M1pUiWe3yAVTVMQE3ZM31"
-    },
-    {
-      "added_at": "2025-01-09 09:53:00",
-      "album": {
-        "name": "God of Miracles",
-        "url": "https://open.spotify.com/album/3zf0GwGizuZX3G7HBoVwgF"
-      },
-      "artists": [
-        {
-          "name": "Joe Mettle",
-          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
-        }
-      ],
-      "duration_ms": 369037,
-      "name": "Ogya",
-      "url": "https://open.spotify.com/track/0ybDJBHB8CPayBVvqYAdZv"
     },
     {
       "added_at": "2025-01-09 09:53:00",
@@ -655,6 +639,22 @@
     {
       "added_at": "2025-01-09 09:53:00",
       "album": {
+        "name": "God of Miracles",
+        "url": "https://open.spotify.com/album/3zf0GwGizuZX3G7HBoVwgF"
+      },
+      "artists": [
+        {
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+        }
+      ],
+      "duration_ms": 369037,
+      "name": "Ogya",
+      "url": "https://open.spotify.com/track/0ybDJBHB8CPayBVvqYAdZv"
+    },
+    {
+      "added_at": "2025-01-09 09:53:00",
+      "album": {
         "name": "I Am Noble",
         "url": "https://open.spotify.com/album/6DRvrYraGgKanmBJIfqwVF"
       },
@@ -671,22 +671,6 @@
       "duration_ms": 244297,
       "name": "Ayeyi",
       "url": "https://open.spotify.com/track/6EfsJGWyEb7ja8zInmtRNY"
-    },
-    {
-      "added_at": "2025-01-09 09:53:00",
-      "album": {
-        "name": "The Encounter",
-        "url": "https://open.spotify.com/album/1fTYtYwjX4neKImb9Xle2x"
-      },
-      "artists": [
-        {
-          "name": "Joe Mettle",
-          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
-        }
-      ],
-      "duration_ms": 204795,
-      "name": "Akokyem Nyame",
-      "url": "https://open.spotify.com/track/1LSikFgLBvM5zoYAlFNmE8"
     },
     {
       "added_at": "2025-01-09 09:53:00",
@@ -739,6 +723,22 @@
     {
       "added_at": "2025-01-09 09:53:00",
       "album": {
+        "name": "The Encounter",
+        "url": "https://open.spotify.com/album/1fTYtYwjX4neKImb9Xle2x"
+      },
+      "artists": [
+        {
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+        }
+      ],
+      "duration_ms": 204795,
+      "name": "Akokyem Nyame",
+      "url": "https://open.spotify.com/track/1LSikFgLBvM5zoYAlFNmE8"
+    },
+    {
+      "added_at": "2025-01-09 09:53:00",
+      "album": {
         "name": "Yesu Do",
         "url": "https://open.spotify.com/album/2zGL04iYPYg8nKkGe4Mk8k"
       },
@@ -755,22 +755,6 @@
     {
       "added_at": "2025-01-09 09:53:00",
       "album": {
-        "name": "My Testimony 2015 - 2017",
-        "url": "https://open.spotify.com/album/3DA3wDXEWQFUZq2RUsy72Y"
-      },
-      "artists": [
-        {
-          "name": "Anita Afriyie",
-          "url": "https://open.spotify.com/artist/3icOzeeIwhGWwPHymtDOS5"
-        }
-      ],
-      "duration_ms": 325093,
-      "name": "Adehye Mogya",
-      "url": "https://open.spotify.com/track/4FSQFLp4pZiAEwQ6MLRuZV"
-    },
-    {
-      "added_at": "2025-01-09 09:53:00",
-      "album": {
         "name": "Afe Ato Me",
         "url": "https://open.spotify.com/album/1QaWoExSDXeUkEEP7WKr8Q"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 314148,
       "name": "Ebenezer",
       "url": "https://open.spotify.com/track/1F4U4726baiMPBAaXCVolt"
+    },
+    {
+      "added_at": "2025-01-09 09:53:00",
+      "album": {
+        "name": "My Testimony 2015 - 2017",
+        "url": "https://open.spotify.com/album/3DA3wDXEWQFUZq2RUsy72Y"
+      },
+      "artists": [
+        {
+          "name": "Anita Afriyie",
+          "url": "https://open.spotify.com/artist/3icOzeeIwhGWwPHymtDOS5"
+        }
+      ],
+      "duration_ms": 325093,
+      "name": "Adehye Mogya",
+      "url": "https://open.spotify.com/track/4FSQFLp4pZiAEwQ6MLRuZV"
     },
     {
       "added_at": "2025-01-09 09:53:00",

@@ -1,6 +1,6 @@
 {
   "description": "Reggaet\u00f3n de antes y de siempre en compa\u00f1\u00eda de Plan B.",
-  "num_followers": 4164291,
+  "num_followers": 4164733,
   "original_name": "Reggaet\u00f3n Viejito",
   "owner": {
     "name": "Spotify",
@@ -443,22 +443,6 @@
     {
       "added_at": "2026-09-23 16:07:56",
       "album": {
-        "name": "Wisin Vs Yandel \"Los Extraterrestres\"",
-        "url": "https://open.spotify.com/album/1wqojXZPs45MXFSPlqcVkh"
-      },
-      "artists": [
-        {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
-        }
-      ],
-      "duration_ms": 209680,
-      "name": "Sexy Movimiento",
-      "url": "https://open.spotify.com/track/1Kgyx7NLtzsa3gWV1efGHu"
-    },
-    {
-      "added_at": "2026-09-23 16:07:56",
-      "album": {
         "name": "Mis Ojos Lloran Por Ti",
         "url": "https://open.spotify.com/album/5o36XrjVl3YdBYqt0p57Gc"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 295533,
       "name": "Mis Ojos Lloran Por Ti",
       "url": "https://open.spotify.com/track/4fFgpzgSkmn3wajioLBPOr"
+    },
+    {
+      "added_at": "2026-09-23 16:07:56",
+      "album": {
+        "name": "Wisin Vs Yandel \"Los Extraterrestres\"",
+        "url": "https://open.spotify.com/album/1wqojXZPs45MXFSPlqcVkh"
+      },
+      "artists": [
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        }
+      ],
+      "duration_ms": 209680,
+      "name": "Sexy Movimiento",
+      "url": "https://open.spotify.com/track/1Kgyx7NLtzsa3gWV1efGHu"
     },
     {
       "added_at": "2026-09-23 16:07:56",
@@ -535,22 +535,6 @@
     {
       "added_at": "2026-09-23 16:07:56",
       "album": {
-        "name": "Pa'l Mundo",
-        "url": "https://open.spotify.com/album/0mfiGkVJST0ysEVznu2aZP"
-      },
-      "artists": [
-        {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
-        }
-      ],
-      "duration_ms": 172680,
-      "name": "Rakata",
-      "url": "https://open.spotify.com/track/1kQqiC1rS1FiuVpeBKN0QN"
-    },
-    {
-      "added_at": "2026-09-23 16:07:56",
-      "album": {
         "name": "Exitos",
         "url": "https://open.spotify.com/album/2qSyMVTIKLArOx4GNcvutB"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 157023,
       "name": "En La Cama (feat. Daddy Yankee)",
       "url": "https://open.spotify.com/track/2Eg6dOam7cAe5turf2bnCg"
+    },
+    {
+      "added_at": "2026-09-23 16:07:56",
+      "album": {
+        "name": "Pa'l Mundo",
+        "url": "https://open.spotify.com/album/0mfiGkVJST0ysEVznu2aZP"
+      },
+      "artists": [
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        }
+      ],
+      "duration_ms": 172680,
+      "name": "Rakata",
+      "url": "https://open.spotify.com/track/1kQqiC1rS1FiuVpeBKN0QN"
     },
     {
       "added_at": "2026-09-23 16:07:56",
@@ -991,22 +991,6 @@
     {
       "added_at": "2026-09-23 16:07:56",
       "album": {
-        "name": "Mi Ni\u00f1a Bonita - Reloaded",
-        "url": "https://open.spotify.com/album/5WdtDMLZ889QUGhstd0r96"
-      },
-      "artists": [
-        {
-          "name": "Chino & Nacho",
-          "url": "https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ"
-        }
-      ],
-      "duration_ms": 216786,
-      "name": "Ni\u00f1a Bonita",
-      "url": "https://open.spotify.com/track/4u5xLMRN0dgKBFFN8FiNgv"
-    },
-    {
-      "added_at": "2026-09-23 16:07:56",
-      "album": {
         "name": "El Movimiento: The Mixtape",
         "url": "https://open.spotify.com/album/2ouuoBa8BHjrwj68lftlaZ"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 249826,
       "name": "Regalame Una Noche",
       "url": "https://open.spotify.com/track/534weu3DIwV9UELLTGanOC"
+    },
+    {
+      "added_at": "2026-09-23 16:07:56",
+      "album": {
+        "name": "Mi Ni\u00f1a Bonita - Reloaded",
+        "url": "https://open.spotify.com/album/5WdtDMLZ889QUGhstd0r96"
+      },
+      "artists": [
+        {
+          "name": "Chino & Nacho",
+          "url": "https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ"
+        }
+      ],
+      "duration_ms": 216786,
+      "name": "Ni\u00f1a Bonita",
+      "url": "https://open.spotify.com/track/4u5xLMRN0dgKBFFN8FiNgv"
     },
     {
       "added_at": "2026-09-23 16:07:56",
@@ -1140,17 +1140,13 @@
           "url": "https://open.spotify.com/artist/3P4VNQLuN1qQQnL8rMaIkL"
         },
         {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
-        },
-        {
-          "name": "Tito \"El Bambino\"",
-          "url": "https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh"
+          "name": "Tego Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
         }
       ],
-      "duration_ms": 232587,
-      "name": "Hay Algo en Ti",
-      "url": "https://open.spotify.com/track/15PxHZffHMndHQjmzYuGUv"
+      "duration_ms": 242573,
+      "name": "M\u00e9tele Saz\u00f3n",
+      "url": "https://open.spotify.com/track/5RqdUkvsV4BOXpFd5zbXFt"
     },
     {
       "added_at": "2026-09-23 16:07:56",
@@ -1256,13 +1252,17 @@
           "url": "https://open.spotify.com/artist/3P4VNQLuN1qQQnL8rMaIkL"
         },
         {
-          "name": "Tego Calder\u00f3n",
-          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        },
+        {
+          "name": "Tito \"El Bambino\"",
+          "url": "https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh"
         }
       ],
-      "duration_ms": 242573,
-      "name": "M\u00e9tele Saz\u00f3n",
-      "url": "https://open.spotify.com/track/5RqdUkvsV4BOXpFd5zbXFt"
+      "duration_ms": 232587,
+      "name": "Hay Algo en Ti",
+      "url": "https://open.spotify.com/track/15PxHZffHMndHQjmzYuGUv"
     },
     {
       "added_at": "2026-09-23 16:07:56",
@@ -1395,26 +1395,22 @@
     {
       "added_at": "2026-09-23 16:07:56",
       "album": {
-        "name": "The Last",
-        "url": "https://open.spotify.com/album/57tmzh0hsnWU8znnvEWJbe"
+        "name": "Luny Tunes Presents ERRE XI",
+        "url": "https://open.spotify.com/album/0PKXKZ0k8BPkxT4nOVFESl"
       },
       "artists": [
         {
-          "name": "Aventura",
-          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
+          "name": "Erre XI",
+          "url": "https://open.spotify.com/artist/3mqvfyOtukTRmUkZHuP1ed"
         },
         {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
-        },
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+          "name": "PeeWee",
+          "url": "https://open.spotify.com/artist/34w2CxXOMbQeaIkoKDiJhp"
         }
       ],
-      "duration_ms": 218080,
-      "name": "All Up 2 You (feat. Akon, Wisin & Yandel)",
-      "url": "https://open.spotify.com/track/48FsqSKpgoZZFr6aS1IDK5"
+      "duration_ms": 254320,
+      "name": "Carita Bonita",
+      "url": "https://open.spotify.com/track/3yuMVIBCFl6s1PDuSN3pi4"
     },
     {
       "added_at": "2026-09-23 16:07:56",
@@ -1439,22 +1435,26 @@
     {
       "added_at": "2026-09-23 16:07:56",
       "album": {
-        "name": "Luny Tunes Presents ERRE XI",
-        "url": "https://open.spotify.com/album/0PKXKZ0k8BPkxT4nOVFESl"
+        "name": "The Last",
+        "url": "https://open.spotify.com/album/57tmzh0hsnWU8znnvEWJbe"
       },
       "artists": [
         {
-          "name": "Erre XI",
-          "url": "https://open.spotify.com/artist/3mqvfyOtukTRmUkZHuP1ed"
+          "name": "Aventura",
+          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
         },
         {
-          "name": "PeeWee",
-          "url": "https://open.spotify.com/artist/34w2CxXOMbQeaIkoKDiJhp"
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
         }
       ],
-      "duration_ms": 254320,
-      "name": "Carita Bonita",
-      "url": "https://open.spotify.com/track/3yuMVIBCFl6s1PDuSN3pi4"
+      "duration_ms": 218080,
+      "name": "All Up 2 You (feat. Akon, Wisin & Yandel)",
+      "url": "https://open.spotify.com/track/48FsqSKpgoZZFr6aS1IDK5"
     },
     {
       "added_at": "2026-09-23 16:07:56",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2026-09-23 16:07:56",
       "album": {
-        "name": "Plan Calle",
-        "url": "https://open.spotify.com/album/7ku5AqOktQG9t6GsSE0BL8"
-      },
-      "artists": [
-        {
-          "name": "Latin Fresh",
-          "url": "https://open.spotify.com/artist/1NRrKr08wLdYUdSOnNDs7M"
-        }
-      ],
-      "duration_ms": 208840,
-      "name": "Bata Bata 2",
-      "url": "https://open.spotify.com/track/1N1KlnNm1NE4INLOrKN3fi"
-    },
-    {
-      "added_at": "2026-09-23 16:07:56",
-      "album": {
         "name": "El Abayarde",
         "url": "https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 213653,
       "name": "Al Natural",
       "url": "https://open.spotify.com/track/3tCdDVn9yseorLuljdFugA"
+    },
+    {
+      "added_at": "2026-09-23 16:07:56",
+      "album": {
+        "name": "Plan Calle",
+        "url": "https://open.spotify.com/album/7ku5AqOktQG9t6GsSE0BL8"
+      },
+      "artists": [
+        {
+          "name": "Latin Fresh",
+          "url": "https://open.spotify.com/artist/1NRrKr08wLdYUdSOnNDs7M"
+        }
+      ],
+      "duration_ms": 208840,
+      "name": "Bata Bata 2",
+      "url": "https://open.spotify.com/track/1N1KlnNm1NE4INLOrKN3fi"
     },
     {
       "added_at": "2026-09-23 16:07:56",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2026-09-23 16:07:56",
       "album": {
-        "name": "La Voz",
-        "url": "https://open.spotify.com/album/6agMJk2h9mZIbOheTL9YQi"
-      },
-      "artists": [
-        {
-          "name": "Yelsid",
-          "url": "https://open.spotify.com/artist/0BkX3f2WgeqNgvulzPLc7R"
-        }
-      ],
-      "duration_ms": 224725,
-      "name": "El Bus",
-      "url": "https://open.spotify.com/track/3phGZ5oFBLaEluf23rcvVJ"
-    },
-    {
-      "added_at": "2026-09-23 16:07:56",
-      "album": {
         "name": "Conspiracion 2",
         "url": "https://open.spotify.com/album/1gEvJBXsQmn4PMDh9SYFrX"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 179093,
       "name": "Me Voy Pa'l Party",
       "url": "https://open.spotify.com/track/634SIK3O65qhslx5DLX44X"
+    },
+    {
+      "added_at": "2026-09-23 16:07:56",
+      "album": {
+        "name": "La Voz",
+        "url": "https://open.spotify.com/album/6agMJk2h9mZIbOheTL9YQi"
+      },
+      "artists": [
+        {
+          "name": "Yelsid",
+          "url": "https://open.spotify.com/artist/0BkX3f2WgeqNgvulzPLc7R"
+        }
+      ],
+      "duration_ms": 224725,
+      "name": "El Bus",
+      "url": "https://open.spotify.com/track/3phGZ5oFBLaEluf23rcvVJ"
     },
     {
       "added_at": "2026-09-23 16:07:56",
@@ -1915,6 +1915,22 @@
     {
       "added_at": "2026-09-23 16:07:56",
       "album": {
+        "name": "La Familia",
+        "url": "https://open.spotify.com/album/5Fqdd85mAoGDp0K9lmbPDp"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 220853,
+      "name": "Yo Te Lo Dije",
+      "url": "https://open.spotify.com/track/7syG2WcnpcoJvxSZT9VbAa"
+    },
+    {
+      "added_at": "2026-09-23 16:07:56",
+      "album": {
         "name": "Toby Love",
         "url": "https://open.spotify.com/album/4fbI9fPXCA7DZkkef3rBuG"
       },
@@ -1935,22 +1951,6 @@
       "duration_ms": 260293,
       "name": "Tengo Un Amor (feat. Rakim & Ken-Y) - Remix Version",
       "url": "https://open.spotify.com/track/4mDWapOAzoFsHu8TPcP2R0"
-    },
-    {
-      "added_at": "2026-09-23 16:07:56",
-      "album": {
-        "name": "La Familia",
-        "url": "https://open.spotify.com/album/5Fqdd85mAoGDp0K9lmbPDp"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 220853,
-      "name": "Yo Te Lo Dije",
-      "url": "https://open.spotify.com/track/7syG2WcnpcoJvxSZT9VbAa"
     },
     {
       "added_at": "2026-09-23 16:07:56",
@@ -2271,6 +2271,22 @@
     {
       "added_at": "2026-09-23 16:07:56",
       "album": {
+        "name": "El Fenomeno",
+        "url": "https://open.spotify.com/album/5MLBEmgDNIltSfxvXesq9s"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "duration_ms": 181373,
+      "name": "\u00c9l No Se Va A Entrar",
+      "url": "https://open.spotify.com/track/6WpzXjdGVrAhRMO5F0yBD8"
+    },
+    {
+      "added_at": "2026-09-23 16:07:56",
+      "album": {
         "name": "Contra la Corriente",
         "url": "https://open.spotify.com/album/0Fwze3uCIDKHwOUFSeY8VY"
       },
@@ -2287,22 +2303,6 @@
       "duration_ms": 213577,
       "name": "Si Te Vas (feat. Kartiel)",
       "url": "https://open.spotify.com/track/2idYorcqrno522ANO7mDhY"
-    },
-    {
-      "added_at": "2026-09-23 16:07:56",
-      "album": {
-        "name": "El Fenomeno",
-        "url": "https://open.spotify.com/album/5MLBEmgDNIltSfxvXesq9s"
-      },
-      "artists": [
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        }
-      ],
-      "duration_ms": 181373,
-      "name": "\u00c9l No Se Va A Entrar",
-      "url": "https://open.spotify.com/track/6WpzXjdGVrAhRMO5F0yBD8"
     },
     {
       "added_at": "2026-09-23 16:07:56",
@@ -2359,22 +2359,6 @@
     {
       "added_at": "2026-09-23 16:07:56",
       "album": {
-        "name": "Masacre Musical",
-        "url": "https://open.spotify.com/album/7bomhBj43r4bhkdFLNoQEe"
-      },
-      "artists": [
-        {
-          "name": "De La Ghetto",
-          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
-        }
-      ],
-      "duration_ms": 280680,
-      "name": "Es Dificil",
-      "url": "https://open.spotify.com/track/2yIt5SGOZCHE2PuzcXfOof"
-    },
-    {
-      "added_at": "2026-09-23 16:07:56",
-      "album": {
         "name": "El Fenomeno",
         "url": "https://open.spotify.com/album/5MLBEmgDNIltSfxvXesq9s"
       },
@@ -2387,6 +2371,22 @@
       "duration_ms": 233840,
       "name": "Enamorado De Ti",
       "url": "https://open.spotify.com/track/6Gap7FCzt3a8Su8HzW76I4"
+    },
+    {
+      "added_at": "2026-09-23 16:07:56",
+      "album": {
+        "name": "Masacre Musical",
+        "url": "https://open.spotify.com/album/7bomhBj43r4bhkdFLNoQEe"
+      },
+      "artists": [
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        }
+      ],
+      "duration_ms": 280680,
+      "name": "Es Dificil",
+      "url": "https://open.spotify.com/track/2yIt5SGOZCHE2PuzcXfOof"
     },
     {
       "added_at": "2026-09-23 16:07:56",
@@ -2851,22 +2851,6 @@
     {
       "added_at": "2026-09-23 16:07:56",
       "album": {
-        "name": "Tranquilo",
-        "url": "https://open.spotify.com/album/3VWuyqHFsqjlV20zjKvE9W"
-      },
-      "artists": [
-        {
-          "name": "Latin Fresh",
-          "url": "https://open.spotify.com/artist/1NRrKr08wLdYUdSOnNDs7M"
-        }
-      ],
-      "duration_ms": 212401,
-      "name": "Ella Se Arrebata",
-      "url": "https://open.spotify.com/track/0oQJSzRRp9K5qbrSuzqACz"
-    },
-    {
-      "added_at": "2026-09-23 16:07:56",
-      "album": {
         "name": "Guanabanas Update, Vol. 2",
         "url": "https://open.spotify.com/album/33OqL37rJF7Kv9Sj6KsJTU"
       },
@@ -2883,6 +2867,22 @@
       "duration_ms": 229694,
       "name": "Mi Gatita y Yo",
       "url": "https://open.spotify.com/track/3SNi0cgDGKJxUOZbbnAn7w"
+    },
+    {
+      "added_at": "2026-09-23 16:07:56",
+      "album": {
+        "name": "Tranquilo",
+        "url": "https://open.spotify.com/album/3VWuyqHFsqjlV20zjKvE9W"
+      },
+      "artists": [
+        {
+          "name": "Latin Fresh",
+          "url": "https://open.spotify.com/artist/1NRrKr08wLdYUdSOnNDs7M"
+        }
+      ],
+      "duration_ms": 212401,
+      "name": "Ella Se Arrebata",
+      "url": "https://open.spotify.com/track/0oQJSzRRp9K5qbrSuzqACz"
     },
     {
       "added_at": "2026-09-23 16:07:56",
@@ -2999,22 +2999,6 @@
     {
       "added_at": "2026-09-23 16:07:56",
       "album": {
-        "name": "Back to Basics",
-        "url": "https://open.spotify.com/album/3jtdZLQVtCIgm7KRugV413"
-      },
-      "artists": [
-        {
-          "name": "Luigi 21 Plus",
-          "url": "https://open.spotify.com/artist/77GVmrLGuxNEvj2ibvT62v"
-        }
-      ],
-      "duration_ms": 224906,
-      "name": "Mala y Descarada",
-      "url": "https://open.spotify.com/track/0ItvgDqMVPkJ2sYiTCld5l"
-    },
-    {
-      "added_at": "2026-09-23 16:07:56",
-      "album": {
         "name": "Stars Are Blind",
         "url": "https://open.spotify.com/album/1ce0VwubSzMxb0y5LM29K6"
       },
@@ -3039,22 +3023,6 @@
     {
       "added_at": "2026-09-23 16:07:56",
       "album": {
-        "name": "The Money Machine Presenta: El Bando Korrupto 2",
-        "url": "https://open.spotify.com/album/04owJYXyzs72kYcy2keNrd"
-      },
-      "artists": [
-        {
-          "name": "Johnny Prez",
-          "url": "https://open.spotify.com/artist/6gm3ZEpugRTHbtEn3A6Siw"
-        }
-      ],
-      "duration_ms": 196053,
-      "name": "Vampiresa",
-      "url": "https://open.spotify.com/track/644Kky1J5BsAX9zUxziIsX"
-    },
-    {
-      "added_at": "2026-09-23 16:07:56",
-      "album": {
         "name": "2K20, Pt. 1 (Live)",
         "url": "https://open.spotify.com/album/0N091826fEGbqVB1NnKguC"
       },
@@ -3067,6 +3035,38 @@
       "duration_ms": 128259,
       "name": "Mayor Que Yo - Live",
       "url": "https://open.spotify.com/track/5JXopnXnBeEH4eiiFvhMSc"
+    },
+    {
+      "added_at": "2026-09-23 16:07:56",
+      "album": {
+        "name": "Back to Basics",
+        "url": "https://open.spotify.com/album/3jtdZLQVtCIgm7KRugV413"
+      },
+      "artists": [
+        {
+          "name": "Luigi 21 Plus",
+          "url": "https://open.spotify.com/artist/77GVmrLGuxNEvj2ibvT62v"
+        }
+      ],
+      "duration_ms": 224906,
+      "name": "Mala y Descarada",
+      "url": "https://open.spotify.com/track/0ItvgDqMVPkJ2sYiTCld5l"
+    },
+    {
+      "added_at": "2026-09-23 16:07:56",
+      "album": {
+        "name": "The Money Machine Presenta: El Bando Korrupto 2",
+        "url": "https://open.spotify.com/album/04owJYXyzs72kYcy2keNrd"
+      },
+      "artists": [
+        {
+          "name": "Johnny Prez",
+          "url": "https://open.spotify.com/artist/6gm3ZEpugRTHbtEn3A6Siw"
+        }
+      ],
+      "duration_ms": 196053,
+      "name": "Vampiresa",
+      "url": "https://open.spotify.com/track/644Kky1J5BsAX9zUxziIsX"
     },
     {
       "added_at": "2026-09-23 16:07:56",
@@ -3359,26 +3359,6 @@
     {
       "added_at": "2026-09-23 16:07:56",
       "album": {
-        "name": "Ella Se Contradice (feat. Plan B)",
-        "url": "https://open.spotify.com/album/3JYVc0zcw01y9Xjq16266O"
-      },
-      "artists": [
-        {
-          "name": "Baby Rasta y Gringo",
-          "url": "https://open.spotify.com/artist/3IEvQoAohcGX7CdrbtIle7"
-        },
-        {
-          "name": "Plan B",
-          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
-        }
-      ],
-      "duration_ms": 256756,
-      "name": "Ella Se Contradice (feat. Plan B)",
-      "url": "https://open.spotify.com/track/4nNeRNXmdZWfw3IjAnITZR"
-    },
-    {
-      "added_at": "2026-09-23 16:07:56",
-      "album": {
         "name": "Reggaeton Rulers: Los Que Ponen",
         "url": "https://open.spotify.com/album/369oPiSP9Y3CzTR6uWU4Da"
       },
@@ -3395,6 +3375,26 @@
       "duration_ms": 182186,
       "name": "Sensacion Del Bloque",
       "url": "https://open.spotify.com/track/5clFSlfkCRlhnH1cAQjSBi"
+    },
+    {
+      "added_at": "2026-09-23 16:07:56",
+      "album": {
+        "name": "Ella Se Contradice (feat. Plan B)",
+        "url": "https://open.spotify.com/album/3JYVc0zcw01y9Xjq16266O"
+      },
+      "artists": [
+        {
+          "name": "Baby Rasta y Gringo",
+          "url": "https://open.spotify.com/artist/3IEvQoAohcGX7CdrbtIle7"
+        },
+        {
+          "name": "Plan B",
+          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
+        }
+      ],
+      "duration_ms": 256756,
+      "name": "Ella Se Contradice (feat. Plan B)",
+      "url": "https://open.spotify.com/track/4nNeRNXmdZWfw3IjAnITZR"
     },
     {
       "added_at": "2026-09-23 16:07:56",
@@ -3575,22 +3575,6 @@
     {
       "added_at": "2026-09-23 16:07:56",
       "album": {
-        "name": "Alex Gargolas Greatest Hits",
-        "url": "https://open.spotify.com/album/6JmEk1yaNPn4LFx9YPcZXv"
-      },
-      "artists": [
-        {
-          "name": "Randy Nota Loca",
-          "url": "https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav"
-        }
-      ],
-      "duration_ms": 188918,
-      "name": "Soy Una Gargola",
-      "url": "https://open.spotify.com/track/6g8su55d5ZpbMw01J7YrgE"
-    },
-    {
-      "added_at": "2026-09-23 16:07:56",
-      "album": {
         "name": "La Reunion",
         "url": "https://open.spotify.com/album/7tZ6A3h843NyVgqtOD4e8Q"
       },
@@ -3635,6 +3619,22 @@
     {
       "added_at": "2026-09-23 16:07:56",
       "album": {
+        "name": "Alex Gargolas Greatest Hits",
+        "url": "https://open.spotify.com/album/6JmEk1yaNPn4LFx9YPcZXv"
+      },
+      "artists": [
+        {
+          "name": "Randy Nota Loca",
+          "url": "https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav"
+        }
+      ],
+      "duration_ms": 188918,
+      "name": "Soy Una Gargola",
+      "url": "https://open.spotify.com/track/6g8su55d5ZpbMw01J7YrgE"
+    },
+    {
+      "added_at": "2026-09-23 16:07:56",
+      "album": {
         "name": "Goldstar Music La Familia Reggaeton Hits",
         "url": "https://open.spotify.com/album/4OapfRPzZGP0iphPp5byyk"
       },
@@ -3667,22 +3667,6 @@
       "duration_ms": 175533,
       "name": "Quiero Saber",
       "url": "https://open.spotify.com/track/4VKI2yBkCE4mWhFBwZp0LU"
-    },
-    {
-      "added_at": "2026-09-23 16:07:56",
-      "album": {
-        "name": "Rankiaera",
-        "url": "https://open.spotify.com/album/7JevIXrHqNB7wRPD7Z7Jod"
-      },
-      "artists": [
-        {
-          "name": "Kino Rankins",
-          "url": "https://open.spotify.com/artist/0B02ZsmSdJvc5NECwOUZ7A"
-        }
-      ],
-      "duration_ms": 189010,
-      "name": "Sandunguera",
-      "url": "https://open.spotify.com/track/0S0TLhH8s2bMyRt2GXdkAP"
     },
     {
       "added_at": "2026-09-23 16:07:56",
@@ -3723,6 +3707,22 @@
     {
       "added_at": "2026-09-23 16:07:56",
       "album": {
+        "name": "Rankiaera",
+        "url": "https://open.spotify.com/album/7JevIXrHqNB7wRPD7Z7Jod"
+      },
+      "artists": [
+        {
+          "name": "Kino Rankins",
+          "url": "https://open.spotify.com/artist/0B02ZsmSdJvc5NECwOUZ7A"
+        }
+      ],
+      "duration_ms": 189010,
+      "name": "Sandunguera",
+      "url": "https://open.spotify.com/track/0S0TLhH8s2bMyRt2GXdkAP"
+    },
+    {
+      "added_at": "2026-09-23 16:07:56",
+      "album": {
         "name": "Chosen Few El Documental II",
         "url": "https://open.spotify.com/album/1TVl1g20UTbzmoPgyyqjCe"
       },
@@ -3735,6 +3735,22 @@
       "duration_ms": 183133,
       "name": "Frikitona",
       "url": "https://open.spotify.com/track/7Fmf6fTY42XwGIgQQR69CU"
+    },
+    {
+      "added_at": "2026-09-23 16:07:56",
+      "album": {
+        "name": "e5",
+        "url": "https://open.spotify.com/album/50m6CwGzwKsAcVPz9SCMrp"
+      },
+      "artists": [
+        {
+          "name": "Ivy Queen",
+          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
+        }
+      ],
+      "duration_ms": 254026,
+      "name": "Te He Querido, Te He Llorado",
+      "url": "https://open.spotify.com/track/1NrKLroOjLcSXtlq8twPrc"
     },
     {
       "added_at": "2026-09-23 16:07:56",
@@ -3755,22 +3771,6 @@
       "duration_ms": 212703,
       "name": "No Le Temas A \u00c9l (feat. H\u00e9ctor & Tito)",
       "url": "https://open.spotify.com/track/1eknj4ni0Cbswll0c5Fi3A"
-    },
-    {
-      "added_at": "2026-09-23 16:07:56",
-      "album": {
-        "name": "Drag\u00f3n & Caballero",
-        "url": "https://open.spotify.com/album/6Xj4l9lZzekje9ATHdGRzS"
-      },
-      "artists": [
-        {
-          "name": "Dragon & Caballero",
-          "url": "https://open.spotify.com/artist/4uRH0vTYaGWjG1MK8K8RPE"
-        }
-      ],
-      "duration_ms": 218928,
-      "name": "Fruta Prohibida",
-      "url": "https://open.spotify.com/track/4xTqyuvfoYoSoq3z7TAtnp"
     }
   ],
   "unique_name": "Reggaet\u00f3n Viejito",

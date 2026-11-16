@@ -1,6 +1,6 @@
 {
   "description": "Fall in love with the sensual sounds of Kizomba! Cover: Yasmine",
-  "num_followers": 253176,
+  "num_followers": 253197,
   "original_name": "Dancing Kizomba",
   "owner": {
     "name": "Spotify",
@@ -663,22 +663,6 @@
     {
       "added_at": "2026-11-06 00:00:56",
       "album": {
-        "name": "Eu e Tu",
-        "url": "https://open.spotify.com/album/1TC18ldQyGPVTIG7QGXBaA"
-      },
-      "artists": [
-        {
-          "name": "Badoxa",
-          "url": "https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW"
-        }
-      ],
-      "duration_ms": 202186,
-      "name": "Eu e Tu",
-      "url": "https://open.spotify.com/track/0oHKoCQ1n52RLWbX9wT8Ww"
-    },
-    {
-      "added_at": "2026-11-06 00:00:56",
-      "album": {
         "name": "Akanadja",
         "url": "https://open.spotify.com/album/2bvvjR9iZN9jo4qugFZnON"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 182023,
       "name": "Akanadja",
       "url": "https://open.spotify.com/track/5YFM2pnhKvoBUPOlBkCXrV"
+    },
+    {
+      "added_at": "2026-11-06 00:00:56",
+      "album": {
+        "name": "Eu e Tu",
+        "url": "https://open.spotify.com/album/1TC18ldQyGPVTIG7QGXBaA"
+      },
+      "artists": [
+        {
+          "name": "Badoxa",
+          "url": "https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW"
+        }
+      ],
+      "duration_ms": 202186,
+      "name": "Eu e Tu",
+      "url": "https://open.spotify.com/track/0oHKoCQ1n52RLWbX9wT8Ww"
     },
     {
       "added_at": "2026-11-06 00:00:56",
@@ -859,8 +859,8 @@
     {
       "added_at": "2026-11-06 00:00:56",
       "album": {
-        "name": "Totoloto",
-        "url": "https://open.spotify.com/album/4WunUod6SvMME077UZtvFU"
+        "name": "Suficiente",
+        "url": "https://open.spotify.com/album/1PrjC0qhFbOu2JDD4pDP8c"
       },
       "artists": [
         {
@@ -868,9 +868,9 @@
           "url": "https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L"
         }
       ],
-      "duration_ms": 190515,
-      "name": "Totoloto",
-      "url": "https://open.spotify.com/track/5etF10zgERUooGQTRe6Hbl"
+      "duration_ms": 173333,
+      "name": "Suficiente",
+      "url": "https://open.spotify.com/track/5x3IBDo1qvpD409E9mQ0IL"
     },
     {
       "added_at": "2026-11-06 00:00:56",
@@ -927,38 +927,6 @@
     {
       "added_at": "2026-11-06 00:00:56",
       "album": {
-        "name": "O Jeito Dela",
-        "url": "https://open.spotify.com/album/3soRnkMgKurzDLFH41Zb8g"
-      },
-      "artists": [
-        {
-          "name": "Gasso Franco",
-          "url": "https://open.spotify.com/artist/4vmi92Wdt4eTFUA6o4ST0i"
-        }
-      ],
-      "duration_ms": 216127,
-      "name": "O Jeito Dela - Radio Edit",
-      "url": "https://open.spotify.com/track/1IPfgonCiEuHRIsDddkBWq"
-    },
-    {
-      "added_at": "2026-11-06 00:00:56",
-      "album": {
-        "name": "Suficiente",
-        "url": "https://open.spotify.com/album/1PrjC0qhFbOu2JDD4pDP8c"
-      },
-      "artists": [
-        {
-          "name": "Soraia Ramos",
-          "url": "https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L"
-        }
-      ],
-      "duration_ms": 173333,
-      "name": "Suficiente",
-      "url": "https://open.spotify.com/track/5x3IBDo1qvpD409E9mQ0IL"
-    },
-    {
-      "added_at": "2026-11-06 00:00:56",
-      "album": {
         "name": "O Lamento",
         "url": "https://open.spotify.com/album/46dkBV8nfGFL1YB2hzq7h1"
       },
@@ -983,18 +951,34 @@
     {
       "added_at": "2026-11-06 00:00:56",
       "album": {
-        "name": "Kumpanhero",
-        "url": "https://open.spotify.com/album/4BGeYelRX48gmPxTgPNKQp"
+        "name": "Totoloto",
+        "url": "https://open.spotify.com/album/4WunUod6SvMME077UZtvFU"
       },
       "artists": [
         {
-          "name": "Dynamo",
-          "url": "https://open.spotify.com/artist/6QIDj58kioY2urnpvAttwi"
+          "name": "Soraia Ramos",
+          "url": "https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L"
         }
       ],
-      "duration_ms": 205000,
-      "name": "Kumpanhero",
-      "url": "https://open.spotify.com/track/7CJpblRFCo10gDzVCpQhEh"
+      "duration_ms": 190515,
+      "name": "Totoloto",
+      "url": "https://open.spotify.com/track/5etF10zgERUooGQTRe6Hbl"
+    },
+    {
+      "added_at": "2026-11-06 00:00:56",
+      "album": {
+        "name": "O Jeito Dela",
+        "url": "https://open.spotify.com/album/3soRnkMgKurzDLFH41Zb8g"
+      },
+      "artists": [
+        {
+          "name": "Gasso Franco",
+          "url": "https://open.spotify.com/artist/4vmi92Wdt4eTFUA6o4ST0i"
+        }
+      ],
+      "duration_ms": 216127,
+      "name": "O Jeito Dela - Radio Edit",
+      "url": "https://open.spotify.com/track/1IPfgonCiEuHRIsDddkBWq"
     },
     {
       "added_at": "2026-11-06 00:00:56",
@@ -1011,6 +995,22 @@
       "duration_ms": 223657,
       "name": "Passada",
       "url": "https://open.spotify.com/track/5ig7dqFjwpLy9FlM7IkGws"
+    },
+    {
+      "added_at": "2026-11-06 00:00:56",
+      "album": {
+        "name": "Kumpanhero",
+        "url": "https://open.spotify.com/album/4BGeYelRX48gmPxTgPNKQp"
+      },
+      "artists": [
+        {
+          "name": "Dynamo",
+          "url": "https://open.spotify.com/artist/6QIDj58kioY2urnpvAttwi"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "Kumpanhero",
+      "url": "https://open.spotify.com/track/7CJpblRFCo10gDzVCpQhEh"
     },
     {
       "added_at": "2026-11-06 00:00:56",
@@ -1423,26 +1423,6 @@
     {
       "added_at": "2026-11-06 00:00:56",
       "album": {
-        "name": "6",
-        "url": "https://open.spotify.com/album/3JeqH1j7VffeMz6XmQ5YlN"
-      },
-      "artists": [
-        {
-          "name": "Ricky Boy",
-          "url": "https://open.spotify.com/artist/3b2fO7uOvR5bgzd5IVBGSZ"
-        },
-        {
-          "name": "Djodje",
-          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
-        }
-      ],
-      "duration_ms": 173877,
-      "name": "Djan Reforma",
-      "url": "https://open.spotify.com/track/5mYj4hLB81UL0iUehhWr5Z"
-    },
-    {
-      "added_at": "2026-11-06 00:00:56",
-      "album": {
         "name": "Versos & Poesias #8: Tarde Demais",
         "url": "https://open.spotify.com/album/1xJvKUz6boFNmYfEN1i9EN"
       },
@@ -1487,6 +1467,26 @@
       "duration_ms": 429473,
       "name": "Versos & Poesias #8: Tarde Demais",
       "url": "https://open.spotify.com/track/2Gx1UvaKuM5KOXIKQV1tDv"
+    },
+    {
+      "added_at": "2026-11-06 00:00:56",
+      "album": {
+        "name": "6",
+        "url": "https://open.spotify.com/album/3JeqH1j7VffeMz6XmQ5YlN"
+      },
+      "artists": [
+        {
+          "name": "Ricky Boy",
+          "url": "https://open.spotify.com/artist/3b2fO7uOvR5bgzd5IVBGSZ"
+        },
+        {
+          "name": "Djodje",
+          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
+        }
+      ],
+      "duration_ms": 173877,
+      "name": "Djan Reforma",
+      "url": "https://open.spotify.com/track/5mYj4hLB81UL0iUehhWr5Z"
     },
     {
       "added_at": "2026-11-06 00:00:56",
@@ -1547,22 +1547,6 @@
       "duration_ms": 196948,
       "name": "N\u00e3o Deixa",
       "url": "https://open.spotify.com/track/1WuLD3wxu9e9vYkmrPHYqD"
-    },
-    {
-      "added_at": "2026-11-06 00:00:56",
-      "album": {
-        "name": "Pilon Di Pikena",
-        "url": "https://open.spotify.com/album/31w9tQ4Q0sDJRpIL9QaE4Z"
-      },
-      "artists": [
-        {
-          "name": "Soraia Ramos",
-          "url": "https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L"
-        }
-      ],
-      "duration_ms": 149700,
-      "name": "Pilon Di Pikena",
-      "url": "https://open.spotify.com/track/0EmVVA0ewHGRnj8kNctIzN"
     },
     {
       "added_at": "2026-11-06 00:00:56",
@@ -1635,22 +1619,18 @@
     {
       "added_at": "2026-11-06 00:00:56",
       "album": {
-        "name": "Onde Est\u00e1 Meu Amor?",
-        "url": "https://open.spotify.com/album/6uLQTjv1VqZZEknzLf1Krp"
+        "name": "Pilon Di Pikena",
+        "url": "https://open.spotify.com/album/31w9tQ4Q0sDJRpIL9QaE4Z"
       },
       "artists": [
         {
-          "name": "Landrick",
-          "url": "https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU"
-        },
-        {
-          "name": "Mariana Moreira",
-          "url": "https://open.spotify.com/artist/3uVkTJM20CUtJl5uCju6c1"
+          "name": "Soraia Ramos",
+          "url": "https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L"
         }
       ],
-      "duration_ms": 206000,
-      "name": "Sozinho",
-      "url": "https://open.spotify.com/track/2uPQRgyUinD2Db4BJnbg42"
+      "duration_ms": 149700,
+      "name": "Pilon Di Pikena",
+      "url": "https://open.spotify.com/track/0EmVVA0ewHGRnj8kNctIzN"
     },
     {
       "added_at": "2026-11-06 00:00:56",
@@ -1687,22 +1667,22 @@
     {
       "added_at": "2026-11-06 00:00:56",
       "album": {
-        "name": "\u00danica",
-        "url": "https://open.spotify.com/album/56u0Dym6F9KI78VjvF1yMQ"
+        "name": "Onde Est\u00e1 Meu Amor?",
+        "url": "https://open.spotify.com/album/6uLQTjv1VqZZEknzLf1Krp"
       },
       "artists": [
         {
-          "name": "Garry",
-          "url": "https://open.spotify.com/artist/3U0IGidZSk3ObLUMwDxVxS"
+          "name": "Landrick",
+          "url": "https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU"
         },
         {
-          "name": "Loony Johnson",
-          "url": "https://open.spotify.com/artist/0AJ7gzFhNKeCeIpFNikyWv"
+          "name": "Mariana Moreira",
+          "url": "https://open.spotify.com/artist/3uVkTJM20CUtJl5uCju6c1"
         }
       ],
-      "duration_ms": 234666,
-      "name": "\u00danica",
-      "url": "https://open.spotify.com/track/0hvNYD0sn7lzyswT2t08nm"
+      "duration_ms": 206000,
+      "name": "Sozinho",
+      "url": "https://open.spotify.com/track/2uPQRgyUinD2Db4BJnbg42"
     },
     {
       "added_at": "2026-11-06 00:00:56",
@@ -1719,6 +1699,26 @@
       "duration_ms": 151579,
       "name": "14",
       "url": "https://open.spotify.com/track/2PNLTYeAebJgoMOxYb7i2S"
+    },
+    {
+      "added_at": "2026-11-06 00:00:56",
+      "album": {
+        "name": "\u00danica",
+        "url": "https://open.spotify.com/album/56u0Dym6F9KI78VjvF1yMQ"
+      },
+      "artists": [
+        {
+          "name": "Garry",
+          "url": "https://open.spotify.com/artist/3U0IGidZSk3ObLUMwDxVxS"
+        },
+        {
+          "name": "Loony Johnson",
+          "url": "https://open.spotify.com/artist/0AJ7gzFhNKeCeIpFNikyWv"
+        }
+      ],
+      "duration_ms": 234666,
+      "name": "\u00danica",
+      "url": "https://open.spotify.com/track/0hvNYD0sn7lzyswT2t08nm"
     },
     {
       "added_at": "2026-11-06 00:00:56",
@@ -1859,6 +1859,22 @@
     {
       "added_at": "2026-11-06 00:00:56",
       "album": {
+        "name": "Lebam",
+        "url": "https://open.spotify.com/album/4PT2BkjO1PRu0fOThf4FCC"
+      },
+      "artists": [
+        {
+          "name": "Neyna",
+          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
+        }
+      ],
+      "duration_ms": 208468,
+      "name": "Lebam",
+      "url": "https://open.spotify.com/track/7523lVFOPO3JfiKX6u9ni7"
+    },
+    {
+      "added_at": "2026-11-06 00:00:56",
+      "album": {
         "name": "DODNABO",
         "url": "https://open.spotify.com/album/3cm1rNzKDC15VTmKn39Vz6"
       },
@@ -1875,26 +1891,6 @@
       "duration_ms": 193043,
       "name": "DODNABO",
       "url": "https://open.spotify.com/track/5VSk3DSCKkr7XZYY5qCcD5"
-    },
-    {
-      "added_at": "2026-11-06 00:00:56",
-      "album": {
-        "name": "Menta",
-        "url": "https://open.spotify.com/album/5m12RKdPcPwMzRwb9EIECk"
-      },
-      "artists": [
-        {
-          "name": "David Carreira",
-          "url": "https://open.spotify.com/artist/6tIIe4TjUAUBgebA9j53ch"
-        },
-        {
-          "name": "Djodje",
-          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
-        }
-      ],
-      "duration_ms": 196330,
-      "name": "Menta",
-      "url": "https://open.spotify.com/track/6WXfOiRWXLAPjWGkExCaUj"
     }
   ],
   "unique_name": "Dancing Kizomba",

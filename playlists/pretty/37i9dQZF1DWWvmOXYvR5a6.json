@@ -1,6 +1,6 @@
 {
   "description": "Trendy x Chill K-Hip Hop.  (Cover: BE'O) (\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
-  "num_followers": 221278,
+  "num_followers": 221268,
   "original_name": "TrenChill K-Hip Hop",
   "owner": {
     "name": "Spotify",
@@ -419,6 +419,26 @@
     {
       "added_at": "2026-11-13 05:00:21",
       "album": {
+        "name": "\uc624\ubcf4",
+        "url": "https://open.spotify.com/album/2S0zBMINP4YGKT2qHYMBZ4"
+      },
+      "artists": [
+        {
+          "name": "Panda Gomm",
+          "url": "https://open.spotify.com/artist/6GghubkP0c1FPGeffPxTWZ"
+        },
+        {
+          "name": "YANGHONGWON",
+          "url": "https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "MOONWALK",
+      "url": "https://open.spotify.com/track/1v2Mu0KVqTb583sAdHD7XU"
+    },
+    {
+      "added_at": "2026-11-13 05:00:21",
+      "album": {
         "name": "Show Me The Money 10 Episode 1",
         "url": "https://open.spotify.com/album/57an88yn23zGQ4rmor7tkX"
       },
@@ -455,26 +475,6 @@
       "duration_ms": 370533,
       "name": "Wake Up (Prod. CODE KUNST)",
       "url": "https://open.spotify.com/track/3ijq6sRH7PgRabMb83VvQO"
-    },
-    {
-      "added_at": "2026-11-13 05:00:21",
-      "album": {
-        "name": "\uc624\ubcf4",
-        "url": "https://open.spotify.com/album/2S0zBMINP4YGKT2qHYMBZ4"
-      },
-      "artists": [
-        {
-          "name": "Panda Gomm",
-          "url": "https://open.spotify.com/artist/6GghubkP0c1FPGeffPxTWZ"
-        },
-        {
-          "name": "YANGHONGWON",
-          "url": "https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "MOONWALK",
-      "url": "https://open.spotify.com/track/1v2Mu0KVqTb583sAdHD7XU"
     },
     {
       "added_at": "2026-11-13 05:00:21",
@@ -787,22 +787,18 @@
     {
       "added_at": "2026-11-13 05:00:21",
       "album": {
-        "name": "Wifey",
-        "url": "https://open.spotify.com/album/1IFsThUQRnLz29yH02sDF0"
+        "name": "SAKOPAK: Birth Mother OST",
+        "url": "https://open.spotify.com/album/1SXGzIIVzpvW4qf2XGKCWb"
       },
       "artists": [
         {
           "name": "CAMO",
           "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
-        },
-        {
-          "name": "Simon Dominic",
-          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
         }
       ],
-      "duration_ms": 124615,
-      "name": "Wifey",
-      "url": "https://open.spotify.com/track/0dXGAtiyMmunKB69wpxJdq"
+      "duration_ms": 106000,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/3Aj54sKKwEk90NqwXC0SOe"
     },
     {
       "added_at": "2026-11-13 05:00:21",
@@ -887,18 +883,22 @@
     {
       "added_at": "2026-11-13 05:00:21",
       "album": {
-        "name": "SAKOPAK: Birth Mother OST",
-        "url": "https://open.spotify.com/album/1SXGzIIVzpvW4qf2XGKCWb"
+        "name": "Wifey",
+        "url": "https://open.spotify.com/album/1IFsThUQRnLz29yH02sDF0"
       },
       "artists": [
         {
           "name": "CAMO",
           "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
+        },
+        {
+          "name": "Simon Dominic",
+          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
         }
       ],
-      "duration_ms": 106000,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/3Aj54sKKwEk90NqwXC0SOe"
+      "duration_ms": 124615,
+      "name": "Wifey",
+      "url": "https://open.spotify.com/track/0dXGAtiyMmunKB69wpxJdq"
     },
     {
       "added_at": "2026-11-13 05:00:21",
@@ -1295,26 +1295,6 @@
     {
       "added_at": "2026-11-13 05:00:21",
       "album": {
-        "name": "Stuck (Feat. Yerin Baek)",
-        "url": "https://open.spotify.com/album/1WBrel8w5536mVdYNnmQko"
-      },
-      "artists": [
-        {
-          "name": "Coogie",
-          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
-        },
-        {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Stuck (Feat. Yerin Baek)",
-      "url": "https://open.spotify.com/track/2gdhV5aSdF3L5pfp7SEPRx"
-    },
-    {
-      "added_at": "2026-11-13 05:00:21",
-      "album": {
         "name": "Baby",
         "url": "https://open.spotify.com/album/3myL1yEMNbzCosXULCjhAO"
       },
@@ -1331,6 +1311,26 @@
       "duration_ms": 189720,
       "name": "Baby",
       "url": "https://open.spotify.com/track/606Cy8x4IPNlYjKYd88pEr"
+    },
+    {
+      "added_at": "2026-11-13 05:00:21",
+      "album": {
+        "name": "Stuck (Feat. Yerin Baek)",
+        "url": "https://open.spotify.com/album/1WBrel8w5536mVdYNnmQko"
+      },
+      "artists": [
+        {
+          "name": "Coogie",
+          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
+        },
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Stuck (Feat. Yerin Baek)",
+      "url": "https://open.spotify.com/track/2gdhV5aSdF3L5pfp7SEPRx"
     },
     {
       "added_at": "2026-11-13 05:00:21",
@@ -1355,6 +1355,26 @@
     {
       "added_at": "2026-11-13 05:00:21",
       "album": {
+        "name": "HANG OUT : HIPHOPPLAYA COMPILATION ALBUM 2021 Part 3",
+        "url": "https://open.spotify.com/album/43gjv7pPlPUNcHN4DZ8ZHA"
+      },
+      "artists": [
+        {
+          "name": "Lee Young Ji",
+          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
+        },
+        {
+          "name": "\uc720\ub77c(youra)",
+          "url": "https://open.spotify.com/artist/34IEklf9glx6MtP0IBjLbJ"
+        }
+      ],
+      "duration_ms": 189157,
+      "name": "HATE ME (feat. youra) (prod. WOOGIE)",
+      "url": "https://open.spotify.com/track/5L2dd0GWhy2rXeGp0g5pnT"
+    },
+    {
+      "added_at": "2026-11-13 05:00:21",
+      "album": {
         "name": "LOVE MAZE",
         "url": "https://open.spotify.com/album/7rOm15Kcboervh20RasQPp"
       },
@@ -1375,26 +1395,6 @@
       "duration_ms": 227560,
       "name": "NG (Feat. pH-1, Jay Park)",
       "url": "https://open.spotify.com/track/1Oda9YbX3UIA8De6GhQN8M"
-    },
-    {
-      "added_at": "2026-11-13 05:00:21",
-      "album": {
-        "name": "HANG OUT : HIPHOPPLAYA COMPILATION ALBUM 2021 Part 3",
-        "url": "https://open.spotify.com/album/43gjv7pPlPUNcHN4DZ8ZHA"
-      },
-      "artists": [
-        {
-          "name": "Lee Young Ji",
-          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
-        },
-        {
-          "name": "\uc720\ub77c(youra)",
-          "url": "https://open.spotify.com/artist/34IEklf9glx6MtP0IBjLbJ"
-        }
-      ],
-      "duration_ms": 189157,
-      "name": "HATE ME (feat. youra) (prod. WOOGIE)",
-      "url": "https://open.spotify.com/track/5L2dd0GWhy2rXeGp0g5pnT"
     },
     {
       "added_at": "2026-11-13 05:00:21",
@@ -1835,6 +1835,30 @@
     {
       "added_at": "2026-11-13 05:00:21",
       "album": {
+        "name": "YOONI",
+        "url": "https://open.spotify.com/album/6RX0AX00gXEeFxPJghGNyZ"
+      },
+      "artists": [
+        {
+          "name": "moonpil",
+          "url": "https://open.spotify.com/artist/3kMj3OAPRWh7VU4bmcX7ha"
+        },
+        {
+          "name": "TWLV",
+          "url": "https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey"
+        },
+        {
+          "name": "Sii",
+          "url": "https://open.spotify.com/artist/0X9TIFzB6y6kA2pZBcRmLu"
+        }
+      ],
+      "duration_ms": 163000,
+      "name": "YOONI",
+      "url": "https://open.spotify.com/track/2wES7nQnbzh7wcFUHv9uPu"
+    },
+    {
+      "added_at": "2026-11-13 05:00:21",
+      "album": {
         "name": "LOVESICK",
         "url": "https://open.spotify.com/album/3CHydLWaSOXR2aM4q8Hqqr"
       },
@@ -1851,8 +1875,8 @@
     {
       "added_at": "2026-11-13 05:00:21",
       "album": {
-        "name": "run it back",
-        "url": "https://open.spotify.com/album/37kq1v7lGL5TlF2wCWiUfI"
+        "name": "bloom",
+        "url": "https://open.spotify.com/album/0KbszuWv3OmcHaresqffdy"
       },
       "artists": [
         {
@@ -1860,9 +1884,9 @@
           "url": "https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM"
         }
       ],
-      "duration_ms": 142971,
-      "name": "run it back",
-      "url": "https://open.spotify.com/track/3W3ozTGLZNXEiLDtnuwOFB"
+      "duration_ms": 169183,
+      "name": "bloom",
+      "url": "https://open.spotify.com/track/7K0Fs00qKCr9TxvoiwQ0Ei"
     },
     {
       "added_at": "2026-11-13 05:00:21",
@@ -1887,26 +1911,6 @@
       "duration_ms": 183428,
       "name": "NEW AMBITION SOUND!",
       "url": "https://open.spotify.com/track/0U9DUG6WjqUjRsvEMziUJC"
-    },
-    {
-      "added_at": "2026-11-13 05:00:21",
-      "album": {
-        "name": "SUPERDRY",
-        "url": "https://open.spotify.com/album/2uuomAXvY9Qz4C4QD3016j"
-      },
-      "artists": [
-        {
-          "name": "Verbal Jint",
-          "url": "https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR"
-        },
-        {
-          "name": "Luci Gang",
-          "url": "https://open.spotify.com/artist/6bdK4VbII2XlfccYCeK47S"
-        }
-      ],
-      "duration_ms": 148385,
-      "name": "SUPERDRY",
-      "url": "https://open.spotify.com/track/0hflsM22PAKRNKIjw6fyUM"
     },
     {
       "added_at": "2026-11-13 05:00:21",
@@ -1939,26 +1943,22 @@
     {
       "added_at": "2026-11-13 05:00:21",
       "album": {
-        "name": "YOONI",
-        "url": "https://open.spotify.com/album/6RX0AX00gXEeFxPJghGNyZ"
+        "name": "SUPERDRY",
+        "url": "https://open.spotify.com/album/2uuomAXvY9Qz4C4QD3016j"
       },
       "artists": [
         {
-          "name": "moonpil",
-          "url": "https://open.spotify.com/artist/3kMj3OAPRWh7VU4bmcX7ha"
+          "name": "Verbal Jint",
+          "url": "https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR"
         },
         {
-          "name": "TWLV",
-          "url": "https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey"
-        },
-        {
-          "name": "Sii",
-          "url": "https://open.spotify.com/artist/0X9TIFzB6y6kA2pZBcRmLu"
+          "name": "Luci Gang",
+          "url": "https://open.spotify.com/artist/6bdK4VbII2XlfccYCeK47S"
         }
       ],
-      "duration_ms": 163000,
-      "name": "YOONI",
-      "url": "https://open.spotify.com/track/2wES7nQnbzh7wcFUHv9uPu"
+      "duration_ms": 148385,
+      "name": "SUPERDRY",
+      "url": "https://open.spotify.com/track/0hflsM22PAKRNKIjw6fyUM"
     },
     {
       "added_at": "2026-11-13 05:00:21",
@@ -1987,8 +1987,8 @@
     {
       "added_at": "2026-11-13 05:00:21",
       "album": {
-        "name": "bloom",
-        "url": "https://open.spotify.com/album/0KbszuWv3OmcHaresqffdy"
+        "name": "run it back",
+        "url": "https://open.spotify.com/album/37kq1v7lGL5TlF2wCWiUfI"
       },
       "artists": [
         {
@@ -1996,25 +1996,25 @@
           "url": "https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM"
         }
       ],
-      "duration_ms": 169183,
-      "name": "bloom",
-      "url": "https://open.spotify.com/track/7K0Fs00qKCr9TxvoiwQ0Ei"
+      "duration_ms": 142971,
+      "name": "run it back",
+      "url": "https://open.spotify.com/track/3W3ozTGLZNXEiLDtnuwOFB"
     },
     {
       "added_at": "2026-11-13 05:00:21",
       "album": {
-        "name": "NOMO",
-        "url": "https://open.spotify.com/album/5wK3j0FzYQ03PKH7yqHK1O"
+        "name": "everybody dies",
+        "url": "https://open.spotify.com/album/3QyIQvec4deNjS7mRgrJcG"
       },
       "artists": [
         {
-          "name": "kaogaii",
-          "url": "https://open.spotify.com/artist/6zxWD2e5UlhmkO99LB4MP2"
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
         }
       ],
-      "duration_ms": 162768,
-      "name": "Sunny Spot",
-      "url": "https://open.spotify.com/track/754yslOgtbhvKZ32yJZWZs"
+      "duration_ms": 152079,
+      "name": "everybody dies",
+      "url": "https://open.spotify.com/track/4VjXB0bVNFiEQTi3tCDtU9"
     }
   ],
   "unique_name": "TrenChill K-Hip Hop",

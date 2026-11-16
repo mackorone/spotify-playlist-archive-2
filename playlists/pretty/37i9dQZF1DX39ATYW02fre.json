@@ -1,6 +1,6 @@
 {
   "description": "Beautiful electronic music for melancholy moments.",
-  "num_followers": 278254,
+  "num_followers": 278280,
   "original_name": "Melantronic",
   "owner": {
     "name": "Spotify",
@@ -851,22 +851,18 @@
     {
       "added_at": "2026-11-13 00:00:55",
       "album": {
-        "name": "Turtle Jazz",
-        "url": "https://open.spotify.com/album/73C1QVOlWsW6qhhknFI6Ws"
+        "name": "If They Only Knew?",
+        "url": "https://open.spotify.com/album/160OvH6SGn0IFRUkZBq15R"
       },
       "artists": [
         {
-          "name": "dublon",
-          "url": "https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD"
-        },
-        {
-          "name": "sunflwr",
-          "url": "https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF"
+          "name": "Archie Holmes",
+          "url": "https://open.spotify.com/artist/1FAe23gB6feByMu2oQUI4J"
         }
       ],
-      "duration_ms": 193613,
-      "name": "Turtle Jazz",
-      "url": "https://open.spotify.com/track/6Vx2Z3efuMINFSDOX1PoAu"
+      "duration_ms": 185202,
+      "name": "If They Only Knew?",
+      "url": "https://open.spotify.com/track/6FVnK1051a9f4ihuekcgMF"
     },
     {
       "added_at": "2026-11-13 00:00:55",
@@ -891,18 +887,22 @@
     {
       "added_at": "2026-11-13 00:00:55",
       "album": {
-        "name": "If They Only Knew?",
-        "url": "https://open.spotify.com/album/160OvH6SGn0IFRUkZBq15R"
+        "name": "Turtle Jazz",
+        "url": "https://open.spotify.com/album/73C1QVOlWsW6qhhknFI6Ws"
       },
       "artists": [
         {
-          "name": "Archie Holmes",
-          "url": "https://open.spotify.com/artist/1FAe23gB6feByMu2oQUI4J"
+          "name": "dublon",
+          "url": "https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD"
+        },
+        {
+          "name": "sunflwr",
+          "url": "https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF"
         }
       ],
-      "duration_ms": 185202,
-      "name": "If They Only Knew?",
-      "url": "https://open.spotify.com/track/6FVnK1051a9f4ihuekcgMF"
+      "duration_ms": 193613,
+      "name": "Turtle Jazz",
+      "url": "https://open.spotify.com/track/6Vx2Z3efuMINFSDOX1PoAu"
     }
   ],
   "unique_name": "Melantronic",

@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-623 songs - 1 day 11 hr 19 min
+629 songs - 1 day 11 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Awhile Longer](https://open.spotify.com/track/2oIeeJEISUZqeEy0tP1KFV) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [Mr\. Collision / Awhile Longer](https://open.spotify.com/album/2fZawAuY6K7uSCv7Jwb5gw) | 4:21 | 2025-12-09 | 2026-01-05 |
 | [B!tch](https://open.spotify.com/track/6yuAizja4nZcTgGHARMGbR) | [Mr.Moss](https://open.spotify.com/artist/0GLPfmHCGujAHpsDt5xQkT) | [B!tch](https://open.spotify.com/album/5bkMKZjEHxdsB6chVzgXZt) | 3:24 | 2026-08-18 | 2026-10-14 |
 | [Back 2 Back](https://open.spotify.com/track/7K02ichOW2ETR9CpgGe66n) | [Flav Gabry](https://open.spotify.com/artist/6HnknQDdmkAh8IIr2Z6rh5), [Slim Spitta](https://open.spotify.com/artist/5nfwr1v0kuonRC9Vnb573t) | [Back 2 Back](https://open.spotify.com/album/57YaD8D6CT5lTgC1Im14S2) | 4:24 | 2026-03-05 | 2026-05-26 |
+| [back again](https://open.spotify.com/track/6yD4FoZeOPQyPsyMuupj9m) | [Darro](https://open.spotify.com/artist/3X2AuZv4fn9OPLwy464PgG) | [pretty privilege](https://open.spotify.com/album/3Tkx5BQlPnMJLvCcr8IvOG) | 2:55 | 2026-11-15 |  |
 | [backseat confessions](https://open.spotify.com/track/79lCZgjb8Sw6cVqsJTJ5FA) | [DeMonte Lavon](https://open.spotify.com/artist/417b6aqhC6zWo0I5iD8Q9K) | [backseat confessions](https://open.spotify.com/album/2ZxJeVllW06njTXqorI5P4) | 4:27 | 2026-04-22 | 2026-05-26 |
 | [BackYard](https://open.spotify.com/track/5MWrY70Z923ND9CmINZlJQ) | [Between Daze](https://open.spotify.com/artist/3MHaNl5fufkpRoHJ6sbAbs) | [BackYard](https://open.spotify.com/album/7gPsLU48jdwEDbf2fJmgaq) | 3:52 | 2025-12-30 | 2026-01-25 |
 | [Bags Full Of Money](https://open.spotify.com/track/6s6ycfcQBla88TX9SmTkkD) | [Dawn Muzik Legionnaires](https://open.spotify.com/artist/0PoD2dNSuiKzEst4CfIwOl) | [Bags Full Of Money](https://open.spotify.com/album/69DIxggZ7kwksKWQotolnz) | 3:55 | 2025-11-08 | 2025-12-01 |
@@ -174,6 +175,7 @@
 | [Drank too much Freestyle](https://open.spotify.com/track/6hUqMp8aO2W9PdOZoKd6UD) | [Q\-Rhyus](https://open.spotify.com/artist/4Eb361siaO3XB8Skokxhcx) | [Drank too much Freestyle](https://open.spotify.com/album/6e07ciGpzCVKNxl2UojNYJ) | 4:01 | 2026-03-14 | 2026-05-26 |
 | [Dream](https://open.spotify.com/track/4ecImVEuf5jm9Joc2cqycN) | [Hannah Aboh](https://open.spotify.com/artist/5YKklNWFgD4II8iXeaXGjf) | [Dream](https://open.spotify.com/album/4H8CIjBwxyxZtoeA6hvAJn) | 3:47 | 2026-07-22 |  |
 | [Dreaming](https://open.spotify.com/track/2cFVv2XWyq8WFWA6nLm5gz) | [Joshua Pascua](https://open.spotify.com/artist/1TVYzXm40r4fagLpaUuCny) | [Dreaming](https://open.spotify.com/album/46qeTORxWn5S5DdtLA6796) | 3:12 | 2025-11-17 | 2026-01-05 |
+| [Dreams](https://open.spotify.com/track/24q4l4i4XrTMIEVT63cT0J) | [NellyNellz](https://open.spotify.com/artist/1VznLVOSmnn2FVyXYnRcSl) | [Dreams](https://open.spotify.com/album/7F13TAN6q6AnupJv2x0QEh) | 3:56 | 2026-11-15 |  |
 | [Drift Away](https://open.spotify.com/track/5YbeIvCEriRjdb3FGcyq70) | [eleventh ember](https://open.spotify.com/artist/1pmpxLJQT4JkSFWwFzA3Tw) | [Drift Away](https://open.spotify.com/album/1Ni8Ou8xGn2E148aktNCS6) | 3:12 | 2026-11-08 |  |
 | [Duele Perderte](https://open.spotify.com/track/1FRAtpfHzFqkZ9BIO4psKO) | [Karlex Pitt](https://open.spotify.com/artist/6RZcX1OjxVzN6j1gycuevD) | [Duele Perderte](https://open.spotify.com/album/1aFUJwOV7nmapGzTHSjYYN) | 3:14 | 2026-02-20 | 2026-05-17 |
 | [Eerie Bells](https://open.spotify.com/track/1gaUWzXr4eZe5n3RDVU8Kr) | [IDŌL](https://open.spotify.com/artist/3nmBN4kK0iZ0yoYymH7RMS) | [Eerie Bells](https://open.spotify.com/album/3vTOBKNhl3rv4Yua9BUzMY) | 3:50 | 2025-11-08 | 2025-12-01 |
@@ -195,6 +197,7 @@
 | [Falling For You](https://open.spotify.com/track/1WY1neK4eNnB4H00p2uzr1) | [MaXimum Boost](https://open.spotify.com/artist/0turMaNvhFbQANB1QKyvmN) | [Falling For You](https://open.spotify.com/album/05uHmKHapnjqAlG9QLYpU9) | 1:23 | 2025-11-17 | 2026-01-05 |
 | [Falling into the Void](https://open.spotify.com/track/78cIrudzqU1eQGHoKG1ELh) | [Beyond the touch](https://open.spotify.com/artist/7lhZrZDGFVZFlw86EmXo93) | [Strange Illusions](https://open.spotify.com/album/2mUj79wj2jdhbk3744NgG7) | 3:56 | 2026-01-29 | 2026-03-03 |
 | [Faster](https://open.spotify.com/track/6RA15eX9LyoPbn9q2Puj5u) | [At Baron Lane](https://open.spotify.com/artist/7uMc0lZt0i1E0pO2zg7YYn) | [The Cause](https://open.spotify.com/album/2ocaO3l2r9SB6lEdLO4eNY) | 2:46 | 2025-11-08 | 2025-12-01 |
+| [Father Time](https://open.spotify.com/track/6yG2tmhMQ1bUyPV55urRoq) | [Dangerous Times for the Dead](https://open.spotify.com/artist/3oYyw3Wy4IuN27X2eIFVWD) | [Father Time](https://open.spotify.com/album/1Pjg1qTNDTwtDUuSNNfraK) | 7:42 | 2026-11-15 |  |
 | [Feel the Vibes](https://open.spotify.com/track/2Yn3ht6bIMQiJhY8IRIKdn) | [Eva Ku](https://open.spotify.com/artist/2g0TDqQxF7SeIZpyloApb0) | [Feel the Vibes](https://open.spotify.com/album/7lgV9Fkn6XwxrWCQrp15zG) | 2:27 | 2026-11-11 |  |
 | [Feelings](https://open.spotify.com/track/2u6Qy7B4heQkPZVuMt3L40) | [Xellay](https://open.spotify.com/artist/2BchMZ58NcNDLLerRnF0NR) | [Feelings](https://open.spotify.com/album/6fvAeDQnOGcP2PQqnKAZeB) | 4:04 | 2025-11-02 | 2025-12-01 |
 | [Fendi Flexin Freestyle](https://open.spotify.com/track/50ECzBqkUMZTlj8dThgCyJ) | [Young.Fendi](https://open.spotify.com/artist/7J8NCqwzHIYJGVbxvTLB9E) | [Fendi Flexin Freestyle](https://open.spotify.com/album/7bO7qVHwTVAJiV0hBrkIvc) | 2:01 | 2025-12-25 | 2026-01-15 |
@@ -387,6 +390,7 @@
 | [Never Gonna Make You Mine](https://open.spotify.com/track/1SUOjtXdd7WtFlzuQlYo60) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [Never Gonna Make You Mine](https://open.spotify.com/album/3hitAWfJNEBSrzYWm2CGrz) | 3:02 | 2026-01-06 | 2026-02-21 |
 | [Nie mehr halbe Wege](https://open.spotify.com/track/5d67NYBPqOhyeSVlVMWy8K) | [Voltwechsel](https://open.spotify.com/artist/2uf0QPyHmDcE3UG5etXM0j) | [Nie mehr halbe Wege](https://open.spotify.com/album/7GyjaLz41aITtFW85NAE7T) | 3:25 | 2026-06-17 | 2026-08-08 |
 | [Night After Night](https://open.spotify.com/track/1XDirGFSQxJOw7Lt37Plfm) | [Theo Ford](https://open.spotify.com/artist/2ohDR2ERUEVCG3RgeXSS7S) | [Timelapse](https://open.spotify.com/album/71NZkMm8F19VNaLbFDQkYE) | 5:04 | 2025-12-28 | 2026-01-25 |
+| [Nights Like These](https://open.spotify.com/track/4VA5EXvQ8AXhszTsAuZFPe) | [Lex Bauman](https://open.spotify.com/artist/0z0QAReD9ZD9jFugcn0G2g) | [The Dangerous Game](https://open.spotify.com/album/54X4nQApX8hqmZo0fAli56) | 3:55 | 2026-11-15 |  |
 | [NO MORE](https://open.spotify.com/track/3qHpMci96Sgq3mam3pdDBz) | [Amanda Holley](https://open.spotify.com/artist/2ASA4rXgSzpdkJ7khMDj5j) | [NO MORE](https://open.spotify.com/album/3qrUMGe7eqlbinJrDOJKJw) | 2:55 | 2026-08-29 |  |
 | [No More Heroes](https://open.spotify.com/track/5O9TUKCbroCDPvgIWqLLsr) | [Chris Corey](https://open.spotify.com/artist/4tGupj3nwiwHdv8hyHhJLZ) | [Midnight Forever](https://open.spotify.com/album/48WzX6lRKNkIVlScImDdGZ) | 3:07 | 2026-02-08 | 2026-07-02 |
 | [No puedo pensar](https://open.spotify.com/track/2QWqsVpYnzMgUeIl2JCvNC) | [Carles Giuliani](https://open.spotify.com/artist/0mIqIlApPH7AVy5DO1Q3A0), [Caro Norte](https://open.spotify.com/artist/4wYRZ47TgRCFTlGuP27e2t) | [No puedo pensar](https://open.spotify.com/album/05DkJnHEO5uj6HRavpncNw) | 2:35 | 2025-11-17 | 2026-01-05 |
@@ -552,6 +556,7 @@
 | [Time's Up](https://open.spotify.com/track/1FzfPimBs8oQwTocCZCqU8) | [Surrounded by Spiders](https://open.spotify.com/artist/2Sr0bSlexNwK35NfqoaVIb) | [Surrounded by Spiders](https://open.spotify.com/album/3qrkAp6ZN5rEMvvCTgDztT) | 2:35 | 2025-11-19 | 2026-01-05 |
 | [TIVE QUE DEIXAR](https://open.spotify.com/track/7FdLjT6wwmPUnAIhNiPrKW) | [Nai](https://open.spotify.com/artist/5pH8tFYyic3D9sjC8NDJUe), [TX](https://open.spotify.com/artist/1DENl6mSR2p9reWTKIn2o2) | [ENTRE FASES](https://open.spotify.com/album/4nAmsLthq0DyiFcS8ACtT2) | 2:01 | 2025-12-30 | 2026-01-25 |
 | [To Find You](https://open.spotify.com/track/0MBazGV7Kw3TH9rFQNYMNW) | [Ashley Jo](https://open.spotify.com/artist/3L23lQD9NSjXEoVDWLD4Ye) | [To Find You](https://open.spotify.com/album/1btWxse1LMfelIPnD5I3X3) | 3:25 | 2026-10-27 |  |
+| [Together](https://open.spotify.com/track/6bBsxc8InnRqUJIreqTvxQ) | [Brother Nature](https://open.spotify.com/artist/3tmXdtreR3DBXX5TLv4kda) | [Together](https://open.spotify.com/album/7sjQv0AEU6Wu5BpnphiWDX) | 3:40 | 2026-11-15 |  |
 | [Tonno & Mais](https://open.spotify.com/track/0hO4qLR5aBkgjurivChdBD) | [ANNAPURNA](https://open.spotify.com/artist/024P13nvZpteU80GYonzzQ) | [Tonno & Mais](https://open.spotify.com/album/6oD2jXFjAcyLMUX2IroM45) | 3:10 | 2025-11-01 | 2025-12-01 |
 | [Too Late](https://open.spotify.com/track/5by8eIqSVBvlm9wMREqkFt) | [EMORY](https://open.spotify.com/artist/39EhSFtTCtf9fmvPiMTLan) | [Too Late](https://open.spotify.com/album/471rQ6QPYTNL74IcX8DkB5) | 2:35 | 2026-04-28 | 2026-06-14 |
 | [Too Much Pain](https://open.spotify.com/track/6C7cYHPRdv3xzEQgD9YlO2) | [Saint Josh](https://open.spotify.com/artist/0RMN8YWshpWT8UoUTczQK2), [IndepthjayBeats](https://open.spotify.com/artist/3DbS3iUEXBQmOqvh5rHOIE) | [Too Much Pain](https://open.spotify.com/album/1yMfWKrJYbOtPCgKoSJkrQ) | 2:58 | 2025-11-10 | 2025-12-01 |
@@ -626,6 +631,7 @@
 | [Your Fault](https://open.spotify.com/track/0fblNVg8bUKfBoA4WPWth9) | [Ella Kenz](https://open.spotify.com/artist/5k0qIptpKEMpMlGx2wbE8e) | [Chronic Obsessions](https://open.spotify.com/album/78hy2PK22Ll9aZaJuU4fKj) | 3:03 | 2026-10-11 |  |
 | [Yourself](https://open.spotify.com/track/3A1vzDBL3IHjzphf83E3mZ) | [Nissu](https://open.spotify.com/artist/0jFlIuRMZuBZrowaOZXEe0), [Paigey Cakey](https://open.spotify.com/artist/1Lfz8ISr2g1d33hirTmajR) | [Memories](https://open.spotify.com/album/6Kbr8PFQrTu0J2GmK8o5uz) | 3:18 | 2026-02-07 | 2026-03-03 |
 | [Ziggy Is a Alien](https://open.spotify.com/track/54MGPMwVgY22hEZ8IPZm9j) | [Vinto Van Go](https://open.spotify.com/artist/0uUd4TGlqun8VeyQ8fIMwA) | [Ziggy Is a Alien](https://open.spotify.com/album/63jS1IYn1RtilOe8kcgK1Q) | 3:43 | 2026-03-22 | 2026-05-26 |
+| [Última Carta](https://open.spotify.com/track/7DfztahOXQyW1wtOHuH8rx) | [Ikrus](https://open.spotify.com/artist/1Pggi3bJz4aKaokzWQeTNk) | [Última Carta](https://open.spotify.com/album/7D1tWAEvKdDvhkuTPcP8dA) | 2:22 | 2026-11-15 |  |
 | [Вредные привычки](https://open.spotify.com/track/6IVb14z4hVAg6ZXys0OvYE) | [AVISHA](https://open.spotify.com/artist/4UjgtBaKmWqr2hTnSZRvS5) | [Вредные привычки](https://open.spotify.com/album/4PZGbvYySz3OiyC5fH8ukp) | 2:23 | 2026-07-10 | 2026-08-08 |
 | [Дилеми](https://open.spotify.com/track/0S65e6R28vFpOoZTGTlubn) | [Gosh](https://open.spotify.com/artist/4TVuWA1a4rWfnUM6UxKfE0) | [Дилеми](https://open.spotify.com/album/0S2yXqK0zKkR2MfO31L8Hk) | 2:16 | 2025-11-22 | 2026-01-05 |
 | [Женщина](https://open.spotify.com/track/6nMGOXJqekVgIfJWUjyMQt) | [Эрик Шарипов](https://open.spotify.com/artist/4wZEqo5Khk8Dmam8PLe5xq) | [Женщина](https://open.spotify.com/album/1EauWCGwFOiE58e8Gq6Efp) | 3:04 | 2025-11-11 | 2025-12-01 |

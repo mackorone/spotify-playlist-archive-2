@@ -4,7 +4,7 @@
 
 > The best new indie music, indie folk &amp; rock discoveries\. Fresh songs for your daily chill, focus and road trips\. Featuring Noah Kahan, Phoebe Bridgers, Sam Fender and top emerging indie artists\. Updated daily with new releases — hit save to stay tuned!
 
-1,702 songs - 4 day 3 hr 16 min
+1,705 songs - 4 day 3 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -277,6 +277,7 @@
 | [Cold Nights](https://open.spotify.com/track/7iAXxZyflGT5fNSX8xBhCC) | [OXT DA MXD](https://open.spotify.com/artist/16y1zDqUVY5goABIwMGG7C) | [Cold Nights](https://open.spotify.com/album/6FTgj02lcNWhVsTIlX858A) | 4:21 | 2026-04-14 | 2026-05-14 |
 | [Cold Wind Blows](https://open.spotify.com/track/416wi20CY4p28Ez9xaXgf6) | [Deceased Me](https://open.spotify.com/artist/5Ns2AFqPjYey9cpVlJNwHU) | [Cold Wind Blows](https://open.spotify.com/album/592zWSpTLDSlH5IvAM8kSi) | 3:10 | 2026-06-29 | 2026-08-10 |
 | [Collide](https://open.spotify.com/track/4B0eMfnkjkpxoLaT5FCBCV) | [Moni Blue](https://open.spotify.com/artist/42Bo1OzDnIhT4uHboVPDz5) | [Collide](https://open.spotify.com/album/4xMd7ls1h0XjKzdev47H1h) | 3:08 | 2025-12-04 | 2026-01-05 |
+| [com érem junts](https://open.spotify.com/track/1dm1rs168vvw1VTNJCFjhc) | [Carla Poch](https://open.spotify.com/artist/6XMDzvA4GeR4TxI9EJUEe9) | [com érem junts](https://open.spotify.com/album/7m0zJANEmDRCeO1wXmUzSj) | 3:21 | 2026-11-15 |  |
 | [Com'eri](https://open.spotify.com/track/0eZh6YHeq6JZ5ZCPRgvu0Q) | [David Monni](https://open.spotify.com/artist/0yL1F00rnkzQbRlb4FBmRx) | [Com'eri](https://open.spotify.com/album/0Hd1JZLkU2hbsnhEqsxAwf) | 4:09 | 2026-03-05 | 2026-07-19 |
 | [come alive](https://open.spotify.com/track/2PHcMVs6DLwPKRJrZi2BqC) | [Maxwell LeVan](https://open.spotify.com/artist/6BAItgRso9SUbIyIpjcdm1) | [come alive](https://open.spotify.com/album/1FKPvxeD3py53CpUpLwj5D) | 3:32 | 2026-01-02 | 2026-02-03 |
 | [Come Back](https://open.spotify.com/track/49eKAgjF5UXYiNAmIOCb4d) | [OceanHeir](https://open.spotify.com/artist/1NDQkClVSZ63vwlST77bhU), [Pineberry](https://open.spotify.com/artist/66WL1CvsVUbUltz9CcvQYI) | [Come Back](https://open.spotify.com/album/3bf3Ve3cqufuD62hIQnBmJ) | 3:26 | 2026-03-19 | 2026-04-22 |
@@ -1103,6 +1104,7 @@
 | [Perdido Sin Salida](https://open.spotify.com/track/4laOCZ1hb946ZAAP6w3r4K) | [Dakerons](https://open.spotify.com/artist/3qzEIIPRfOGd2aNRR9aucw) | [Perdido Sin Salida](https://open.spotify.com/album/3BZpwMUfjggYcvkmapEPYk) | 3:35 | 2026-10-14 | 2026-11-12 |
 | [Perdidos e Achados](https://open.spotify.com/track/4Tg4kLk0wjv5lgZhfcvyn0) | [Pedro Santos Oliveira](https://open.spotify.com/artist/6ipu3U0iZEkAiULeIr8JCQ) | [Perdidos e Achados](https://open.spotify.com/album/78pXXwgrlRJwiKWKM6DVKb) | 3:18 | 2026-04-27 | 2026-06-05 |
 | [Perfect Paradise](https://open.spotify.com/track/0G2RueU8XoUokKD2pDWvVa) | [Jaco Muller](https://open.spotify.com/artist/5fYU4xr6F9OJecUbU2xHeo) | [Perfect Paradise](https://open.spotify.com/album/3GbHrP9cSd59SaLrvf1RZw) | 3:48 | 2026-05-08 | 2026-06-05 |
+| [Petali](https://open.spotify.com/track/7edv8TCszqSqjkOxJEd2AC) | [Piede Sinistro](https://open.spotify.com/artist/4Hhfi2Z1ix6ZilrrwBDwZC) | [Petali](https://open.spotify.com/album/4piBiaskMrcGbkiWvpp0jL) | 6:40 | 2026-11-15 |  |
 | [Phantom Weight](https://open.spotify.com/track/1d9W6uREzwaawiVwsUKfMT) | [Somehow Still](https://open.spotify.com/artist/2Aq4kxpeIpszxCKwgoJwae) | [Phantom Weight](https://open.spotify.com/album/17J9feK1my3d9695vldjVq) | 3:21 | 2025-12-22 | 2026-01-24 |
 | [Photographs](https://open.spotify.com/track/3IKbxWwUD73DWsEnC7JpMt) | [Elysium](https://open.spotify.com/artist/2NC1GXUAZDH9D8uu809kXg) | [Photographs](https://open.spotify.com/album/73mMrzIKfiutjKbQjCFfFi) | 6:06 | 2025-11-24 | 2026-01-05 |
 | [Pick a Side](https://open.spotify.com/track/6B4NPK1kymjumXhnJisVdP) | [Azmora](https://open.spotify.com/artist/06i8TDgphThToFQPy7aPAO) | [Pick a Side](https://open.spotify.com/album/1VBR04V2BOLxpeZLDaDw3f) | 2:52 | 2026-03-02 | 2026-03-25 |
@@ -1672,7 +1674,7 @@
 | [You Can Do the Same](https://open.spotify.com/track/2RZMibMFWns4SQhrUSqSyI) | [Cuppa' Joe](https://open.spotify.com/artist/3eMMjC1LbVq0XVxcAs43YD) | [You Can Do the Same](https://open.spotify.com/album/2cvKWCsF6EO2m5HgPclPyO) | 3:14 | 2025-12-15 | 2026-01-15 |
 | [You fill my life](https://open.spotify.com/track/3mfd2t6gCPVT4EPTshodMW) | [Debora Gioè](https://open.spotify.com/artist/6C9jZZoxXCFasaJ989cQyd) | [You fill my life](https://open.spotify.com/album/2QHcqrhbL3napTYSiPdBWI) | 3:23 | 2026-06-02 | 2026-07-03 |
 | [You Just Want Sex](https://open.spotify.com/track/1gKUHmmt034rVgEJa331K4) | [Trendsetter](https://open.spotify.com/artist/2r6KOzzHhbWaMwP2EwmUEM), [Magnus Deus](https://open.spotify.com/artist/2ucNjOKWBIEBnzvFgmJAn3), [Katty G](https://open.spotify.com/artist/5AzDXioaAPrx8SzjCyFnIB) | [You Just Want Sex](https://open.spotify.com/album/0bgSwyYZRCbSs1gDmWz1ns) | 3:32 | 2026-07-29 | 2026-08-30 |
-| [You Know](https://open.spotify.com/track/2ewL6nDW9xHY6FcngNL3NC) | [The Multides](https://open.spotify.com/artist/0EBOhu8N5TYGpwRIWe1oQG) | [You Know](https://open.spotify.com/album/53LzGxN4ZxyrfQtOkB8xDa) | 2:43 | 2025-12-05 | 2026-01-15 |
+| [You Know](https://open.spotify.com/track/2ewL6nDW9xHY6FcngNL3NC) | [The Multides](https://open.spotify.com/artist/0EBOhu8N5TYGpwRIWe1oQG) | [You Know](https://open.spotify.com/album/53LzGxN4ZxyrfQtOkB8xDa) | 2:43 | 2025-12-05 |  |
 | [You Made Me Bad](https://open.spotify.com/track/62J0xJ2NX4JXj7IZLyDZSL) | [Rayka Blake](https://open.spotify.com/artist/3ZUceWi9BIfBu7bDaocYzc) | [You Made Me Bad](https://open.spotify.com/album/461TAonuSzvYSZ77SCdpbc) | 3:40 | 2026-09-05 | 2026-10-03 |
 | [You Only Live Once](https://open.spotify.com/track/78ZUdJY596WjWnlO2rrf1H) | [ALTSOUND SRB](https://open.spotify.com/artist/4OZruhUi24VNQTmHMkU2lA) | [You Only Live Once](https://open.spotify.com/album/7A3KnD5zWY1u4obrLVdN5f) | 3:43 | 2026-06-30 | 2026-08-10 |
 | [You Orient Me](https://open.spotify.com/track/7J7pMhd7fB8UhwC7JsBDmE) | [Troy Page](https://open.spotify.com/artist/43sl6HtfaTIfUYNi7GDSSh) | [You Orient Me](https://open.spotify.com/album/5JyTywZwRy29o97qQpKZpR) | 3:30 | 2026-08-22 | 2026-09-17 |
@@ -1694,6 +1696,7 @@
 | [¿Me Vas a Amar Hasta El Final?](https://open.spotify.com/track/6uKlzmnvRUApUP5N2W16d5) | [Elio Ocampo](https://open.spotify.com/artist/6ytMeTFgXUIo5HtdCxKI1E) | [A Mess With No Solution](https://open.spotify.com/album/01jzx2n41mmV8lcwOS3ECd) | 2:54 | 2026-04-13 | 2026-05-14 |
 | [¿Vampiro o Ladrón?](https://open.spotify.com/track/7KXOz98ntMZ8eeovE9pv6N) | [Angel](https://open.spotify.com/artist/5XFum7bQUnhp2U8h2zdJGV) | [¿Vampiro o Ladrón?](https://open.spotify.com/album/2qg0w5is7kIreSaDwx7n0k) | 3:41 | 2026-05-29 | 2026-07-03 |
 | [À Britta](https://open.spotify.com/track/3fQydqrhKYKAxTnTfLD8M8) | [Virgil Segal](https://open.spotify.com/artist/6PDaVx1wgiv0IQeYtmq3Yy) | [Noir et blanc](https://open.spotify.com/album/4S88do91neHjL30FaUXFPA) | 3:28 | 2026-08-03 | 2026-08-30 |
+| [Ça nous ressemblait pas](https://open.spotify.com/track/2n7bL6Ccdq1OkOOAqwT8Ki) | [M3TIN](https://open.spotify.com/artist/5EsbNZGa7akRt7aPw3IFDw) | [Ça nous ressemblait pas](https://open.spotify.com/album/5I8ilEuS8n80UMdnamOfQg) | 4:00 | 2026-11-15 |  |
 | [Étrange inconnu](https://open.spotify.com/track/6YmGrsKNSs00IocQLWalpC) | [Perrine Hope](https://open.spotify.com/artist/7aXpehI3ni2IquIMDyMeNw) | [Étrange inconnu](https://open.spotify.com/album/2GpEFesgNc62Zu92mduL8C) | 2:50 | 2026-03-02 | 2026-03-25 |
 | [ΑΠΛΩΝΩ ΤΑ ΧΕΡΙΑ](https://open.spotify.com/track/3ynuypogogN4RbF0KA8nP7) | [M.R.P Music Song Contest](https://open.spotify.com/artist/1OHHzP3Sy9y4IfPoxfexPm) | [ΑΠΛΩΝΩ ΤΑ ΧΕΡΙΑ](https://open.spotify.com/album/6R2GCTj3ImIBsOMFp51ud1) | 3:28 | 2026-06-21 | 2026-07-19 |
 | [Θα χαθείς με τη βροχή](https://open.spotify.com/track/3a7Q9NsGva0DuemgZfoxRJ) | [Vasilis Konstantinakos](https://open.spotify.com/artist/4u6ejjlbwhKrN1NKOcpfGh), [Maria Michalaka](https://open.spotify.com/artist/4rboAqEBfIBnyA0xiiNZi2) | [Θα χαθείς με τη βροχή](https://open.spotify.com/album/4wBzl4GQclHbCliJEgSWeM) | 4:54 | 2025-12-25 | 2026-01-24 |

@@ -4,7 +4,7 @@
 
 > 🎧 hit play, lock in, get stuff done 📚
 
-2,546 songs - 4 day 0 hr 50 min
+2,547 songs - 4 day 0 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [apple dumplins](https://open.spotify.com/track/02Mxkf8nzMQd9DiBLhfhA1) | [Slacker Jack's](https://open.spotify.com/artist/3IYkO05jx2ouEKrI90Fml0) | [apple dumplins](https://open.spotify.com/album/4o2DvfLdEfzl0tmnoZhflh) | 2:33 | 2023-01-13 | 2025-11-26 |
 | [apple sauce](https://open.spotify.com/track/72bnqWOrKvRM6Wg6DZ5S76) | [heirloom](https://open.spotify.com/artist/3Q6Jurd5PQMm7Q52Xk6yuW) | [apple sauce](https://open.spotify.com/album/6LPcmzdfV2tDeIjmMsli2j) | 2:06 | 2025-04-25 | 2026-01-24 |
 | [Apricot](https://open.spotify.com/track/1EgS2J3OEw6H3G5FTidVeP) | [Mama Gecko](https://open.spotify.com/artist/3hsIheKwar2G4DBVfH3FBh) | [Apricot](https://open.spotify.com/album/1WhIjWDrM2amxtkYiSSy6Z) | 1:28 | 2022-04-15 | 2022-05-27 |
+| [Apricot Hill](https://open.spotify.com/track/4zJhHR4hXtPqVPdMKaWxB2) | [EmptyAtomic](https://open.spotify.com/artist/4rRzjnxPTlenw1v7kOGRC2) | [Apricot Hill](https://open.spotify.com/album/6Y8FBrBXR8EJBL7MQyhT9f) | 2:22 | 2026-11-13 |  |
 | [Aquarius](https://open.spotify.com/track/0s5dpPXE8slpfRHg1Hsyxf) | [OnurOHA](https://open.spotify.com/artist/59GI9tAkVAL2QjhOBRLPVZ) | [Aquarius](https://open.spotify.com/album/07HkwGY6fscrm88zYDUcIw) | 2:10 | 2022-04-15 | 2022-07-01 |
 | [Aquarius](https://open.spotify.com/track/4AXG2evgy3smvD6OymqYys) | [Saï T](https://open.spotify.com/artist/0ngA3xgG8zkQ6PV2mqtPJA) | [Aquarius](https://open.spotify.com/album/6V8QJQBvmgJRi8D5IpC3QZ) | 2:48 | 2022-11-11 | 2023-02-07 |
 | [Aquatic Crystals](https://open.spotify.com/track/4pUOWikHwi87jPXYtwwb3v) | [Nitta' Gritta'](https://open.spotify.com/artist/55psXqpj00WvVubriLCEet) | [Aquatic Crystals](https://open.spotify.com/album/2cUBsQeqRMJ3NqNVJsRW3U) | 2:05 | 2022-04-15 | 2023-02-14 |
@@ -1954,7 +1955,7 @@
 | [short walk](https://open.spotify.com/track/7mVcVwS0fnn0VudcTN38kD) | [Breezonic](https://open.spotify.com/artist/6dcAuzmzyzfUfwRyT2CIXb) | [short walk](https://open.spotify.com/album/1NrQ6xbB9B27SbKVHaOKd3) | 1:47 | 2026-01-16 |  |
 | [Shorty](https://open.spotify.com/track/74mNIO5GJ2wN4gSHBMutN6) | [Mr Muddy](https://open.spotify.com/artist/2SE4xWBKS86MFe82bCqBgE) | [Shorty](https://open.spotify.com/album/25wroZFXAqdYQyP2S6fmCF) | 1:41 | 2023-06-06 | 2024-06-26 |
 | [shrimp fried rice](https://open.spotify.com/track/3x3XohQ3tsuvhAKiWKEb2b) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [shrimp fried rice](https://open.spotify.com/album/0EkiQfwMrE5I2vo3eCwNdA) | 2:46 | 2024-10-11 | 2025-06-14 |
-| [Shutter Speed Living](https://open.spotify.com/track/7MnbTa4uKQ9ii7PsI9UTqi) | [GhostBPM](https://open.spotify.com/artist/1l0Q84vIiTxDfHS9dw7FjA) | [Shutter Speed Living](https://open.spotify.com/album/2u7Ivf0AZ9dGBN0fiOmLZP) | 2:17 | 2026-11-13 |  |
+| [Shutter Speed Living](https://open.spotify.com/track/7MnbTa4uKQ9ii7PsI9UTqi) | [GhostBPM](https://open.spotify.com/artist/1l0Q84vIiTxDfHS9dw7FjA) | [Shutter Speed Living](https://open.spotify.com/album/2u7Ivf0AZ9dGBN0fiOmLZP) | 2:17 | 2026-11-13 | 2026-11-16 |
 | [Side Ways](https://open.spotify.com/track/7hPWjXskJniJ8U2BkVbSZJ) | [Toti Cisneros](https://open.spotify.com/artist/2RzBTtaoFmXDvt5vP8lPYf), [Botânica Beats](https://open.spotify.com/artist/0ZP1LicftMFei2GdXtrErQ) | [Mussambê](https://open.spotify.com/album/6qXirHwCfJP9ryVr1ejav5) | 2:00 | 2022-10-01 | 2023-01-07 |
 | [Sightseeing](https://open.spotify.com/track/5PpqEXf7oqY1OrZz5D8E4V) | [Alazko](https://open.spotify.com/artist/43WAkxcRtIsDLkoqitUevp) | [Sightseeing](https://open.spotify.com/album/4xm9yQls3EeqojsKiIRJTw) | 2:30 | 2022-10-01 | 2023-01-07 |
 | [signs of winter](https://open.spotify.com/track/2zXSjswUO8K1kcO2h3wHvk) | [J0pie](https://open.spotify.com/artist/3c124seowxwVtBR8dGvirN) | [signs of winter](https://open.spotify.com/album/3r4lcISMEbY0VEQj1Tn6O6) | 2:05 | 2023-11-17 |  |

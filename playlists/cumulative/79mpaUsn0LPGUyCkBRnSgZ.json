@@ -3597,6 +3597,24 @@
     },
     {
       "album": {
+        "name": "Does It Look Like I'm Here?",
+        "url": "https://open.spotify.com/album/69mR7YiwQTw7nvlFKBOp7Y"
+      },
+      "artists": [
+        {
+          "name": "Emeralds",
+          "url": "https://open.spotify.com/artist/45btnwhUWFlR7Op5oTfDPv"
+        }
+      ],
+      "date_added": "2026-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283840,
+      "name": "Candy Shoppe",
+      "url": "https://open.spotify.com/track/3arqQGuSd3iOva7BH6jLqm"
+    },
+    {
+      "album": {
         "name": "You Forgot It In People",
         "url": "https://open.spotify.com/album/6nL0U84JsEJ0cRsGCnsDnJ"
       },
@@ -8434,7 +8452,7 @@
       ],
       "date_added": "2026-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 182000,
       "name": "Hey Chicken",
       "url": "https://open.spotify.com/track/79lxyBUahh6PdMgRtKscFV"
@@ -14856,6 +14874,24 @@
       "duration_ms": 268533,
       "name": "Papa Don't Preach",
       "url": "https://open.spotify.com/track/6A8OnjnpShshNpcqWtZRjr"
+    },
+    {
+      "album": {
+        "name": "Halo",
+        "url": "https://open.spotify.com/album/1gNV7gHVMvM1XU0ZxrxRzL"
+      },
+      "artists": [
+        {
+          "name": "Juana Molina",
+          "url": "https://open.spotify.com/artist/76hliHkgP5eIbVqLT7NmQ3"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223700,
+      "name": "Paraguaya",
+      "url": "https://open.spotify.com/track/6BFpuCx0Hq9ZK2bZmo7l8v"
     },
     {
       "album": {

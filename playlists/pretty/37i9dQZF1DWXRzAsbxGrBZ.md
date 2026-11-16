@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 
 > Get revived with some of the best Deep House South Africa has to offer\. Cover: !Sooks
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,706 likes - 70 songs - 7 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,761 likes - 70 songs - 7 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

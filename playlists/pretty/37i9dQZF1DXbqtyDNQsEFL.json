@@ -1,6 +1,6 @@
 {
   "description": "Gospel songs to get you in the spirit. Whether you are happy or need company to feel better, this is the right one! Cover:  Celestine Donkor",
-  "num_followers": 121907,
+  "num_followers": 121922,
   "original_name": "Be Lifted ",
   "owner": {
     "name": "Spotify",
@@ -563,6 +563,22 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
+        "name": "The Hill",
+        "url": "https://open.spotify.com/album/2RJxSCEQJGBeJHej3IM2cV"
+      },
+      "artists": [
+        {
+          "name": "Travis Greene",
+          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
+        }
+      ],
+      "duration_ms": 591333,
+      "name": "Made A Way",
+      "url": "https://open.spotify.com/track/7gricPHxqsVEq1Lml7BFVu"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
         "name": "Jireh (feat. Chandler Moore & Naomi Raine)",
         "url": "https://open.spotify.com/album/4l5yZalv0TVl70Xe13dFjl"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 598994,
       "name": "Jireh (feat. Chandler Moore & Naomi Raine)",
       "url": "https://open.spotify.com/track/7yu4816uyIqXiPvALxL44y"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "The Hill",
-        "url": "https://open.spotify.com/album/2RJxSCEQJGBeJHej3IM2cV"
-      },
-      "artists": [
-        {
-          "name": "Travis Greene",
-          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
-        }
-      ],
-      "duration_ms": 591333,
-      "name": "Made A Way",
-      "url": "https://open.spotify.com/track/7gricPHxqsVEq1Lml7BFVu"
     },
     {
       "added_at": "2026-01-23 00:01:16",
@@ -1129,6 +1129,22 @@
       "url": "https://open.spotify.com/track/55l4kRbjk7dl87kmdUAzp8"
     },
     {
+      "added_at": "2024-10-11 00:01:00",
+      "album": {
+        "name": "We Move",
+        "url": "https://open.spotify.com/album/0TGyw2J2XGuLiEq6DwAJHc"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 287831,
+      "name": "We Move",
+      "url": "https://open.spotify.com/track/1XXPxP2QYn1pPhF1oDd6Th"
+    },
+    {
       "added_at": "2026-07-17 00:01:13",
       "album": {
         "name": "Yours Truly",
@@ -1147,22 +1163,6 @@
       "duration_ms": 173153,
       "name": "Yours Truly",
       "url": "https://open.spotify.com/track/47EuJYd1DTp6osZcwsTT13"
-    },
-    {
-      "added_at": "2024-10-11 00:01:00",
-      "album": {
-        "name": "We Move",
-        "url": "https://open.spotify.com/album/0TGyw2J2XGuLiEq6DwAJHc"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 287831,
-      "name": "We Move",
-      "url": "https://open.spotify.com/track/1XXPxP2QYn1pPhF1oDd6Th"
     },
     {
       "added_at": "2024-09-13 00:01:00",
@@ -1461,20 +1461,20 @@
       "url": "https://open.spotify.com/track/66lY1eeYhJeQKrrLLFkddD"
     },
     {
-      "added_at": "2026-10-16 00:01:33",
+      "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "pilgrim",
-        "url": "https://open.spotify.com/album/44fQq4uTh4eKoeKnbgs3SV"
+        "name": "Heal Our Land (Live)",
+        "url": "https://open.spotify.com/album/67zMsfA2nQXycWFOe6CzGC"
       },
       "artists": [
         {
-          "name": "Sinmidele",
-          "url": "https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj"
+          "name": "Akesse Brempong",
+          "url": "https://open.spotify.com/artist/62l5OctR7XHGZo7H8iVSXb"
         }
       ],
-      "duration_ms": 221116,
-      "name": "freefall",
-      "url": "https://open.spotify.com/track/0IbfOEL77YrIytZLoZEgLB"
+      "duration_ms": 461003,
+      "name": "Spontaneous Worship 1 - Live",
+      "url": "https://open.spotify.com/track/1Ttb0Ex4Tyt8fPwWyCvAAi"
     },
     {
       "added_at": "2026-05-22 00:01:30",
@@ -1493,20 +1493,20 @@
       "url": "https://open.spotify.com/track/53y4ULVul9iY3XnUx5720J"
     },
     {
-      "added_at": "2023-12-15 00:01:00",
+      "added_at": "2026-10-16 00:01:33",
       "album": {
-        "name": "Heal Our Land (Live)",
-        "url": "https://open.spotify.com/album/67zMsfA2nQXycWFOe6CzGC"
+        "name": "pilgrim",
+        "url": "https://open.spotify.com/album/44fQq4uTh4eKoeKnbgs3SV"
       },
       "artists": [
         {
-          "name": "Akesse Brempong",
-          "url": "https://open.spotify.com/artist/62l5OctR7XHGZo7H8iVSXb"
+          "name": "Sinmidele",
+          "url": "https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj"
         }
       ],
-      "duration_ms": 461003,
-      "name": "Spontaneous Worship 1 - Live",
-      "url": "https://open.spotify.com/track/1Ttb0Ex4Tyt8fPwWyCvAAi"
+      "duration_ms": 221116,
+      "name": "freefall",
+      "url": "https://open.spotify.com/track/0IbfOEL77YrIytZLoZEgLB"
     },
     {
       "added_at": "2025-01-07 00:01:28",

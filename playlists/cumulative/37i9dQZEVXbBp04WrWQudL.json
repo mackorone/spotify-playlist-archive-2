@@ -782,7 +782,7 @@
       ],
       "date_added": "2026-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 231540,
       "name": "Bello Love",
       "url": "https://open.spotify.com/track/4M202ySg6hcx8a9FzXjmuh"
@@ -1118,7 +1118,7 @@
       ],
       "date_added": "2026-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-11",
+      "date_removed": null,
       "duration_ms": 161702,
       "name": "Cadeira Cativa - Ao Vivo",
       "url": "https://open.spotify.com/track/1RWNER261dOJN0u2sp7nVF"
@@ -1428,7 +1428,7 @@
       ],
       "date_added": "2026-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 256405,
       "name": "Coming Up Roses",
       "url": "https://open.spotify.com/track/4mdY2FqawYKEUgGL14fJHD"
@@ -1634,7 +1634,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-15",
+      "date_removed": null,
       "duration_ms": 278378,
       "name": "De Lejitos - Remix",
       "url": "https://open.spotify.com/track/0Yfh01HYCPRmp6k4iJWKvO"
@@ -1710,7 +1710,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 252302,
       "name": "Die With A Smile",
       "url": "https://open.spotify.com/track/1Ywk7HecwsfJWy2pxaaQZM"
@@ -1862,7 +1862,7 @@
       ],
       "date_added": "2026-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-04",
+      "date_removed": null,
       "duration_ms": 199324,
       "name": "E A\u00ed Tempo",
       "url": "https://open.spotify.com/track/5iVvBRhx0gHgAVRk2eAQaK"
@@ -2032,7 +2032,7 @@
       ],
       "date_added": "2026-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-04",
+      "date_removed": null,
       "duration_ms": 180714,
       "name": "Eu Duvido - Ao Vivo",
       "url": "https://open.spotify.com/track/3InUnLrBmKKUEUxyct6BUX"
@@ -2196,7 +2196,7 @@
       ],
       "date_added": "2026-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 223341,
       "name": "expectations (feat. Chappell Roan) - wheel of misfortune",
       "url": "https://open.spotify.com/track/4JitNOIelgPCMf5aF3tZtL"
@@ -2646,10 +2646,32 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 300091,
       "name": "hate that i made you love me",
       "url": "https://open.spotify.com/track/3idrvUQYONMAJ6EgZZqiL8"
+    },
+    {
+      "album": {
+        "name": "Have Yourself A Merry Little Christmas",
+        "url": "https://open.spotify.com/album/0rBwZEptUFZKQXSkecopYI"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        },
+        {
+          "name": "Peanuts",
+          "url": "https://open.spotify.com/artist/58JT424axIaKJNvUgVonOY"
+        }
+      ],
+      "date_added": "2026-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195434,
+      "name": "Have Yourself A Merry Little Christmas",
+      "url": "https://open.spotify.com/track/0iGq2tsmamHYm6Hj5X4yxF"
     },
     {
       "album": {
@@ -3150,6 +3172,24 @@
       "duration_ms": 216362,
       "name": "Japan",
       "url": "https://open.spotify.com/track/6jncXTsGtJadNJ0Gr87uz2"
+    },
+    {
+      "album": {
+        "name": "Jingle Bell Rock",
+        "url": "https://open.spotify.com/album/1tJYYXnms7BP6ssPSme35N"
+      },
+      "artists": [
+        {
+          "name": "Bobby Helms",
+          "url": "https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC"
+        }
+      ],
+      "date_added": "2026-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145353,
+      "name": "Jingle Bell Rock",
+      "url": "https://open.spotify.com/track/5tDCvnUhZ6i56UTamEQUo5"
     },
     {
       "album": {
@@ -3838,7 +3878,7 @@
       ],
       "date_added": "2026-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-04",
+      "date_removed": null,
       "duration_ms": 227413,
       "name": "Mentes t\u00e3o bem (Mientes tan bien)",
       "url": "https://open.spotify.com/track/4KjsYSDzuY07eUaS4Rgm6P"
@@ -3878,7 +3918,7 @@
       ],
       "date_added": "2026-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 183524,
       "name": "Meu Sil\u00eancio - Ao Vivo",
       "url": "https://open.spotify.com/track/1B3DrO9PIwoVhqOtRRIQvG"
@@ -3984,7 +4024,7 @@
       ],
       "date_added": "2026-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 269205,
       "name": "Mon Amour",
       "url": "https://open.spotify.com/track/3MJgG2A5AAKjNJiTLtH4KY"
@@ -4024,6 +4064,28 @@
       "duration_ms": 274285,
       "name": "Move Like You Do",
       "url": "https://open.spotify.com/track/3mkiclDD4FKpWTAQLDHzBM"
+    },
+    {
+      "album": {
+        "name": "Mulher Cativante",
+        "url": "https://open.spotify.com/album/4kXnTioMZ1lXPl6J5EL6xp"
+      },
+      "artists": [
+        {
+          "name": "MC Paulin da Capital",
+          "url": "https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2"
+        },
+        {
+          "name": "Mc Lipi",
+          "url": "https://open.spotify.com/artist/0cjkWe9VXcECGiOEHFuTfc"
+        }
+      ],
+      "date_added": "2026-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216948,
+      "name": "Mulher Cativante",
+      "url": "https://open.spotify.com/track/62tYBWZhHwhMdmsoEc4YBp"
     },
     {
       "album": {
@@ -4198,7 +4260,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 201310,
       "name": "NORMAL",
       "url": "https://open.spotify.com/track/5d1adDwusi5l5OsjRuIL2Z"
@@ -4256,7 +4318,7 @@
       ],
       "date_added": "2026-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 249429,
       "name": "Nova Flor (Os Homens N\u00e3o Devem Chorar) / Liguei Pra Dizer Que Te Amo / Gar\u00e7om - Ao Vivo",
       "url": "https://open.spotify.com/track/2Cdp0fwpzT6gj4NwYqfD0M"
@@ -4553,6 +4615,24 @@
     },
     {
       "album": {
+        "name": "Party With The Boys",
+        "url": "https://open.spotify.com/album/0QLEQC8i8Ql8mCajuFojF3"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "date_added": "2026-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161962,
+      "name": "Party With The Boys",
+      "url": "https://open.spotify.com/track/21L8Rl8BjxXBvzQFpnMDw5"
+    },
+    {
+      "album": {
         "name": "Patient Zero",
         "url": "https://open.spotify.com/album/0KtMqHPyc0L7unLa6wcKsA"
       },
@@ -4810,7 +4890,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-28",
+      "date_removed": null,
       "duration_ms": 197982,
       "name": "Pvta Luna",
       "url": "https://open.spotify.com/track/1zOjLMZbfWmfvYnfjts90x"
@@ -5028,6 +5108,24 @@
       "duration_ms": 220530,
       "name": "Safe Space - Live In Sydney",
       "url": "https://open.spotify.com/track/1ynoGwwk2ZhkdiQZHOkVSQ"
+    },
+    {
+      "album": {
+        "name": "Santa Tell Me",
+        "url": "https://open.spotify.com/album/58U3R37geWab1eYfUSh5zt"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2026-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340923,
+      "name": "Santa Tell Me",
+      "url": "https://open.spotify.com/track/0xai4CfhBoCFfKqPQJ9URa"
     },
     {
       "album": {
@@ -5654,7 +5752,7 @@
       ],
       "date_added": "2026-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 217386,
       "name": "Suave",
       "url": "https://open.spotify.com/track/0RqKrs1eWAXn7RFHHZMthb"
@@ -5997,6 +6095,24 @@
     },
     {
       "album": {
+        "name": "Tom and Jerry (Red Sweater Acoustic)",
+        "url": "https://open.spotify.com/album/1B8c78c2DZouOcLZHaVmnL"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "date_added": "2026-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207799,
+      "name": "Tom and Jerry - Red Sweater Acoustic",
+      "url": "https://open.spotify.com/track/406RpDo53g9DfkKtA9hR6E"
+    },
+    {
+      "album": {
         "name": "Tongue",
         "url": "https://open.spotify.com/album/6C4b221fIS6YH47swMQDgn"
       },
@@ -6044,7 +6160,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-10",
+      "date_removed": null,
       "duration_ms": 138521,
       "name": "Touch",
       "url": "https://open.spotify.com/track/15dlnZCOoJgNh6C2kIe3z4"
@@ -6232,7 +6348,7 @@
       ],
       "date_added": "2026-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 242880,
       "name": "UP",
       "url": "https://open.spotify.com/track/69PgZpQyYLWXKfgBUnAHVL"
@@ -6330,7 +6446,7 @@
       ],
       "date_added": "2026-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 155776,
       "name": "Weight Of The Feather",
       "url": "https://open.spotify.com/track/0ewOUgV2iEeiwrPuxfGlLm"
@@ -6356,7 +6472,7 @@
       ],
       "date_added": "2026-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 162424,
       "name": "WELCOME",
       "url": "https://open.spotify.com/track/1f2UbDRj6gOWLTXTP9gAJu"

@@ -1,6 +1,6 @@
 {
   "description": "This is DESTIN CONRAD. The essential tracks, all in one playlist.",
-  "num_followers": 3646,
+  "num_followers": 3647,
   "original_name": "This Is DESTIN CONRAD",
   "owner": {
     "name": "Spotify",
@@ -432,9 +432,9 @@
           "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
         }
       ],
-      "duration_ms": 146206,
-      "name": "PARTY WIT U",
-      "url": "https://open.spotify.com/track/0JuVJPstXUiXNFbBw7jwqq"
+      "duration_ms": 118666,
+      "name": "DELUSIONAL",
+      "url": "https://open.spotify.com/track/2SA9OUfBjt97F67NuAf8yT"
     },
     {
       "added_at": null,
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
         }
       ],
-      "duration_ms": 118666,
-      "name": "DELUSIONAL",
-      "url": "https://open.spotify.com/track/2SA9OUfBjt97F67NuAf8yT"
+      "duration_ms": 146206,
+      "name": "PARTY WIT U",
+      "url": "https://open.spotify.com/track/0JuVJPstXUiXNFbBw7jwqq"
     },
     {
       "added_at": null,
@@ -571,22 +571,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "wHIMSY!",
-        "url": "https://open.spotify.com/album/1Qx04kMMQn0mCWljoV7loF"
+        "name": "O.M.L. (feat. DESTIN CONRAD)",
+        "url": "https://open.spotify.com/album/6nKwjfkh8zFW2JQo1FYjq0"
       },
       "artists": [
         {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+          "name": "Mack Keane",
+          "url": "https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO"
         },
         {
-          "name": "Terrace Martin",
-          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+          "name": "ESTA.",
+          "url": "https://open.spotify.com/artist/4KZmpaIhanIo46eaQimtgO"
+        },
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
         }
       ],
-      "duration_ms": 186285,
-      "name": "NOTHING IS REAL",
-      "url": "https://open.spotify.com/track/5jttofWxJX0pp7B6jB4HMO"
+      "duration_ms": 165132,
+      "name": "O.M.L. (feat. DESTIN CONRAD)",
+      "url": "https://open.spotify.com/track/6ntO3pnXicVNsAhW67BW0S"
     },
     {
       "added_at": null,
@@ -611,26 +615,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "O.M.L. (feat. DESTIN CONRAD)",
-        "url": "https://open.spotify.com/album/6nKwjfkh8zFW2JQo1FYjq0"
+        "name": "wHIMSY!",
+        "url": "https://open.spotify.com/album/1Qx04kMMQn0mCWljoV7loF"
       },
       "artists": [
         {
-          "name": "Mack Keane",
-          "url": "https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO"
-        },
-        {
-          "name": "ESTA.",
-          "url": "https://open.spotify.com/artist/4KZmpaIhanIo46eaQimtgO"
-        },
-        {
           "name": "DESTIN CONRAD",
           "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        },
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
         }
       ],
-      "duration_ms": 165132,
-      "name": "O.M.L. (feat. DESTIN CONRAD)",
-      "url": "https://open.spotify.com/track/6ntO3pnXicVNsAhW67BW0S"
+      "duration_ms": 186285,
+      "name": "NOTHING IS REAL",
+      "url": "https://open.spotify.com/track/5jttofWxJX0pp7B6jB4HMO"
     },
     {
       "added_at": null,

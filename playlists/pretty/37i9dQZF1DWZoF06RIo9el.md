@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 
 > Las favoritas de octubre 2026\. Cover: Judeline
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,539,177 likes - 60 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,538,999 likes - 60 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 19 | [Mami](https://open.spotify.com/track/3py6ylZiCGaPQa1MWltbTz) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Mami](https://open.spotify.com/album/2qwDdtnfWmVY1DuQ8tSrvp) | 2:24 |
 | 20 | [Ola <3](https://open.spotify.com/track/3dz8m6YV4kyQGsMpZOZwJF) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Enayy](https://open.spotify.com/artist/6NxJgAQlIO7Tgs0AKGkMXZ) | [Ola <3](https://open.spotify.com/album/5QaOre1ZyTW0MrocZByawc) | 2:28 |
 | 21 | [gaviotas de cristal](https://open.spotify.com/track/73Qs48OY5Won2FWwUeh6wh) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [fill de la mar \(2026\)](https://open.spotify.com/album/6nwZerT6S5mNbj2MLdJgVt) | 1:57 |
-| 22 | [Amarillo nena](https://open.spotify.com/track/6fAiqxQlmrvQsol8Ifyejl) | [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [Amarillo nena](https://open.spotify.com/album/3mpTkXPLbbNRsjGMbo06dr) | 2:28 |
+| 22 | [si la ves](https://open.spotify.com/track/7jZepEMIwqWvnB9YFDJqCt) | [Paloma Morphy](https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw) | [si la ves](https://open.spotify.com/album/2kkqISXrbSTaVHjj1iKL5R) | 2:57 |
 | 23 | [El Árbol](https://open.spotify.com/track/1a3CdHpetHGFLATswUsWm9) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [El Árbol](https://open.spotify.com/album/2ZV7lzoMDlrzLZBswCZs3v) | 3:01 |
-| 24 | [si la ves](https://open.spotify.com/track/7jZepEMIwqWvnB9YFDJqCt) | [Paloma Morphy](https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw) | [si la ves](https://open.spotify.com/album/2kkqISXrbSTaVHjj1iKL5R) | 2:57 |
+| 24 | [Amarillo nena](https://open.spotify.com/track/6fAiqxQlmrvQsol8Ifyejl) | [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [Amarillo nena](https://open.spotify.com/album/3mpTkXPLbbNRsjGMbo06dr) | 2:28 |
 | 25 | [Detective](https://open.spotify.com/track/1nGJNFmJ2h6uG7XPoKw97K) | [Jota Rosa](https://open.spotify.com/artist/7gK06FGYa8dtJogKJXAG80), [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [Detective](https://open.spotify.com/album/6XhB8rGigLQhPiS4NO8maJ) | 2:45 |
 | 26 | [que seas tú \-\-](https://open.spotify.com/track/4u3KM7fGLsYRp6aN0bDNH3) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO) | [que seas tú \-\- & amor herido \. \. .](https://open.spotify.com/album/0QgnpGyTgCGrGmTFODU4l1) | 3:13 |
 | 27 | [MADRID](https://open.spotify.com/track/6kUvZUtJDZLZNzjhCqJ7Wk) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [MADRID](https://open.spotify.com/album/3HpVlyht3MQIXBS4VifchT) | 3:04 |
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 37 | [Calendario](https://open.spotify.com/track/21nJ85XhAOf40a4I8S2zxa) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [Calendario](https://open.spotify.com/album/3pVOUcRchfwRRkmgQMoFzX) | 3:08 |
 | 38 | [Príncipe](https://open.spotify.com/track/2b39GNmHpEx0RRbKNJEdlf) | [Blua](https://open.spotify.com/artist/43Vc14K5S0k4Vt34OpVFdM) | [Príncipe](https://open.spotify.com/album/7pgIrWQsslCCYVKvXSxcb9) | 3:01 |
 | 39 | [callaíto safari](https://open.spotify.com/track/2tpCPmC6r2HYQUfVAF9GF3) | [LOS MENOR3S](https://open.spotify.com/artist/4FkBhfL2GQLkwBwV6qNhOQ) | [CALLAÍTO SAFARI](https://open.spotify.com/album/5mRmMCVz0LKdAmpeumvpZo) | 2:56 |
-| 40 | [si](https://open.spotify.com/track/7bIHolmbqyiJ5lPtfoZfL4) | [Sparklmami](https://open.spotify.com/artist/50NGgQQCV0QLrOefzyuNh0) | [si](https://open.spotify.com/album/4KZG1pHNQdUQlNNIm4mt6f) | 2:31 |
-| 41 | [No es tu estilo](https://open.spotify.com/track/5RikicLu1IWphJ0y6BadSE) | [LOCKWARD](https://open.spotify.com/artist/52IDIMrGNbCUkHrpkf0F8y), [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [No es tu estilo](https://open.spotify.com/album/6n2DgWN6TftYJKGNcBPW1G) | 2:22 |
-| 42 | [Barbie](https://open.spotify.com/track/5ZJPlwaqxs7yX7Aqe0TTgJ) | [Huan62](https://open.spotify.com/artist/08yYd8o1CrOjIpGHP2I6zU) | [62 GANG](https://open.spotify.com/album/3lq6BbV7iqzrC50JTzs9Pu) | 1:27 |
+| 40 | [Barbie](https://open.spotify.com/track/5ZJPlwaqxs7yX7Aqe0TTgJ) | [Huan62](https://open.spotify.com/artist/08yYd8o1CrOjIpGHP2I6zU) | [62 GANG](https://open.spotify.com/album/3lq6BbV7iqzrC50JTzs9Pu) | 1:27 |
+| 41 | [si](https://open.spotify.com/track/7bIHolmbqyiJ5lPtfoZfL4) | [Sparklmami](https://open.spotify.com/artist/50NGgQQCV0QLrOefzyuNh0) | [si](https://open.spotify.com/album/4KZG1pHNQdUQlNNIm4mt6f) | 2:31 |
+| 42 | [No es tu estilo](https://open.spotify.com/track/5RikicLu1IWphJ0y6BadSE) | [LOCKWARD](https://open.spotify.com/artist/52IDIMrGNbCUkHrpkf0F8y), [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [No es tu estilo](https://open.spotify.com/album/6n2DgWN6TftYJKGNcBPW1G) | 2:22 |
 | 43 | [milveces](https://open.spotify.com/track/6u1zU6mOBjwHqO0otIC4Br) | [FaceBrooklyn](https://open.spotify.com/artist/0HGYhpDqId26b8YElUubo8) | [milveces](https://open.spotify.com/album/6hQQz7N2a348XnwyEXWYgk) | 3:40 |
 | 44 | [JEEP](https://open.spotify.com/track/7ctWQyAdC1OVpFDtqxNk8t) | [MAGNA](https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF), [Mi Compa el Chino](https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4) | [JEEP](https://open.spotify.com/album/2g5iVDVoQ1WvWTUfxhtzOm) | 3:15 |
 | 45 | [La gravedad y el tiempo.](https://open.spotify.com/track/2PSWcnLzIl0vSxEIzKfTYT) | [YOSHI](https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd), [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [La gravedad y el tiempo.](https://open.spotify.com/album/5L95oJ4x1Lrj419blyzCZM) | 2:42 |

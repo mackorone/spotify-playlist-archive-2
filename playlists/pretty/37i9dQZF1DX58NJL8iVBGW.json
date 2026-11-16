@@ -1,6 +1,6 @@
 {
   "description": "Long-shadow roots rock, folk, and Americana. Grit-worn, brooding, and  dark.",
-  "num_followers": 824527,
+  "num_followers": 824574,
   "original_name": "Southern Gothic",
   "owner": {
     "name": "Spotify",
@@ -479,22 +479,6 @@
     {
       "added_at": "2026-11-13 00:01:01",
       "album": {
-        "name": "Open Up Your Mind",
-        "url": "https://open.spotify.com/album/7AjDfTvIIbRpaByE5zkFgG"
-      },
-      "artists": [
-        {
-          "name": "Avi Kaplan",
-          "url": "https://open.spotify.com/artist/179MtpbgyNgeNnwNVqnn4p"
-        }
-      ],
-      "duration_ms": 184178,
-      "name": "Open Up Your Mind",
-      "url": "https://open.spotify.com/track/1YRGRLjCWNlwnmU5spyolO"
-    },
-    {
-      "added_at": "2026-11-13 00:01:01",
-      "album": {
         "name": "PHTHALO",
         "url": "https://open.spotify.com/album/24IlLpP9lmcbGWNVFcAUyg"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 212500,
       "name": "The Glowing",
       "url": "https://open.spotify.com/track/1ZOSoprOOKyOvlSOw1sV5V"
+    },
+    {
+      "added_at": "2026-11-13 00:01:01",
+      "album": {
+        "name": "Jace Everett",
+        "url": "https://open.spotify.com/album/0C5MT9P1lTRrVsUcQ8YLjx"
+      },
+      "artists": [
+        {
+          "name": "Jace Everett",
+          "url": "https://open.spotify.com/artist/47DQBkDU2VieRG0aJUcPJs"
+        }
+      ],
+      "duration_ms": 164440,
+      "name": "Bad Things",
+      "url": "https://open.spotify.com/track/3H0XRfbPaBqLd1UjzRMVnt"
     },
     {
       "added_at": "2026-11-13 00:01:01",
@@ -547,18 +547,18 @@
     {
       "added_at": "2026-11-13 00:01:01",
       "album": {
-        "name": "Jace Everett",
-        "url": "https://open.spotify.com/album/0C5MT9P1lTRrVsUcQ8YLjx"
+        "name": "Open Up Your Mind",
+        "url": "https://open.spotify.com/album/7AjDfTvIIbRpaByE5zkFgG"
       },
       "artists": [
         {
-          "name": "Jace Everett",
-          "url": "https://open.spotify.com/artist/47DQBkDU2VieRG0aJUcPJs"
+          "name": "Avi Kaplan",
+          "url": "https://open.spotify.com/artist/179MtpbgyNgeNnwNVqnn4p"
         }
       ],
-      "duration_ms": 164440,
-      "name": "Bad Things",
-      "url": "https://open.spotify.com/track/3H0XRfbPaBqLd1UjzRMVnt"
+      "duration_ms": 184178,
+      "name": "Open Up Your Mind",
+      "url": "https://open.spotify.com/track/1YRGRLjCWNlwnmU5spyolO"
     },
     {
       "added_at": "2026-11-13 00:01:01",
@@ -795,22 +795,6 @@
     {
       "added_at": "2026-11-13 00:01:01",
       "album": {
-        "name": "Outside Child",
-        "url": "https://open.spotify.com/album/4R21oaKCstE2fMc4XkuVlw"
-      },
-      "artists": [
-        {
-          "name": "Allison Russell",
-          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
-        }
-      ],
-      "duration_ms": 335586,
-      "name": "Hy-Brasil",
-      "url": "https://open.spotify.com/track/2OeMJJ4QlZKW0mjpbIckiq"
-    },
-    {
-      "added_at": "2026-11-13 00:01:01",
-      "album": {
         "name": "False Lankum",
         "url": "https://open.spotify.com/album/2lu7c86G1ptjMJVL9upG1H"
       },
@@ -827,18 +811,18 @@
     {
       "added_at": "2026-11-13 00:01:01",
       "album": {
-        "name": "Dark Feathers",
-        "url": "https://open.spotify.com/album/1lSnurE1qrHG1rai2ps8CK"
+        "name": "Outside Child",
+        "url": "https://open.spotify.com/album/4R21oaKCstE2fMc4XkuVlw"
       },
       "artists": [
         {
-          "name": "Renee Christine",
-          "url": "https://open.spotify.com/artist/1VGSv0y30R6THoFPMiccx2"
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
         }
       ],
-      "duration_ms": 237115,
-      "name": "Dark Feathers",
-      "url": "https://open.spotify.com/track/3ron5Rg6TcEC2eIHzhoMK5"
+      "duration_ms": 335586,
+      "name": "Hy-Brasil",
+      "url": "https://open.spotify.com/track/2OeMJJ4QlZKW0mjpbIckiq"
     },
     {
       "added_at": "2026-11-13 00:01:01",
@@ -871,6 +855,22 @@
       "duration_ms": 194982,
       "name": "Sling and Stone",
       "url": "https://open.spotify.com/track/0iDxbQIExTjJqXBLzXP8ow"
+    },
+    {
+      "added_at": "2026-11-13 00:01:01",
+      "album": {
+        "name": "Dark Feathers",
+        "url": "https://open.spotify.com/album/1lSnurE1qrHG1rai2ps8CK"
+      },
+      "artists": [
+        {
+          "name": "Renee Christine",
+          "url": "https://open.spotify.com/artist/1VGSv0y30R6THoFPMiccx2"
+        }
+      ],
+      "duration_ms": 237115,
+      "name": "Dark Feathers",
+      "url": "https://open.spotify.com/track/3ron5Rg6TcEC2eIHzhoMK5"
     },
     {
       "added_at": "2026-11-13 00:01:01",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2026-11-13 00:01:01",
       "album": {
-        "name": "Reckoning",
-        "url": "https://open.spotify.com/album/2fwzpGgUamzs0JvTNQtA9u"
-      },
-      "artists": [
-        {
-          "name": "Mary Gauthier",
-          "url": "https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS"
-        }
-      ],
-      "duration_ms": 187966,
-      "name": "Judgement Day",
-      "url": "https://open.spotify.com/track/09p0mCc89zi4lqvil3uW1Z"
-    },
-    {
-      "added_at": "2026-11-13 00:01:01",
-      "album": {
         "name": "The Dirty River Boys",
         "url": "https://open.spotify.com/album/4GOCBKcBGGzQSnGW8fwdY5"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 214040,
       "name": "Down by the River",
       "url": "https://open.spotify.com/track/1JDDXUhFhwqu6mjZzQH6Yn"
+    },
+    {
+      "added_at": "2026-11-13 00:01:01",
+      "album": {
+        "name": "Reckoning",
+        "url": "https://open.spotify.com/album/2fwzpGgUamzs0JvTNQtA9u"
+      },
+      "artists": [
+        {
+          "name": "Mary Gauthier",
+          "url": "https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS"
+        }
+      ],
+      "duration_ms": 187966,
+      "name": "Judgement Day",
+      "url": "https://open.spotify.com/track/09p0mCc89zi4lqvil3uW1Z"
     },
     {
       "added_at": "2026-11-13 00:01:01",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2026-11-13 00:01:01",
       "album": {
-        "name": "Leaving The Zoo",
-        "url": "https://open.spotify.com/album/3zmh3e8iqYzJhvEDcfmgkf"
-      },
-      "artists": [
-        {
-          "name": "Renny Conti",
-          "url": "https://open.spotify.com/artist/27C5xkyXM5kWgVqqdR9aqY"
-        }
-      ],
-      "duration_ms": 323341,
-      "name": "Leaving the Zoo",
-      "url": "https://open.spotify.com/track/48yHIdE2cS9InGZf95kKXF"
-    },
-    {
-      "added_at": "2026-11-13 00:01:01",
-      "album": {
         "name": "Magnolia Blues",
         "url": "https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 208546,
       "name": "Magnolia Blues",
       "url": "https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO"
+    },
+    {
+      "added_at": "2026-11-13 00:01:01",
+      "album": {
+        "name": "Leaving The Zoo",
+        "url": "https://open.spotify.com/album/3zmh3e8iqYzJhvEDcfmgkf"
+      },
+      "artists": [
+        {
+          "name": "Renny Conti",
+          "url": "https://open.spotify.com/artist/27C5xkyXM5kWgVqqdR9aqY"
+        }
+      ],
+      "duration_ms": 323341,
+      "name": "Leaving the Zoo",
+      "url": "https://open.spotify.com/track/48yHIdE2cS9InGZf95kKXF"
     },
     {
       "added_at": "2026-11-13 00:01:01",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2026-11-13 00:01:01",
       "album": {
+        "name": "3",
+        "url": "https://open.spotify.com/album/1hMuNxqnxcC35yTBMgQw4P"
+      },
+      "artists": [
+        {
+          "name": "honeyhoney",
+          "url": "https://open.spotify.com/artist/22tQF7y3PwRuU6ZWAV2oTM"
+        }
+      ],
+      "duration_ms": 234146,
+      "name": "God Of Love",
+      "url": "https://open.spotify.com/track/1haOmT0ndDABp11zNK92ot"
+    },
+    {
+      "added_at": "2026-11-13 00:01:01",
+      "album": {
         "name": "Little Dove",
         "url": "https://open.spotify.com/album/19XBdwZcAWUlQo8AuOiXke"
       },
@@ -1495,22 +1511,6 @@
       "duration_ms": 228176,
       "name": "Little Dove",
       "url": "https://open.spotify.com/track/00QfFBVK4riZi2YdmPbrGL"
-    },
-    {
-      "added_at": "2026-11-13 00:01:01",
-      "album": {
-        "name": "3",
-        "url": "https://open.spotify.com/album/1hMuNxqnxcC35yTBMgQw4P"
-      },
-      "artists": [
-        {
-          "name": "honeyhoney",
-          "url": "https://open.spotify.com/artist/22tQF7y3PwRuU6ZWAV2oTM"
-        }
-      ],
-      "duration_ms": 234146,
-      "name": "God Of Love",
-      "url": "https://open.spotify.com/track/1haOmT0ndDABp11zNK92ot"
     },
     {
       "added_at": "2026-11-13 00:01:01",

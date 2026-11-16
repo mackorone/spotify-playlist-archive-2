@@ -1,6 +1,6 @@
 {
   "description": "Don\u2019t Sweat It!",
-  "num_followers": 551324,
+  "num_followers": 551308,
   "original_name": "Blood, Sweat & Cheers",
   "owner": {
     "name": "Spotify",
@@ -219,22 +219,6 @@
     {
       "added_at": "2025-11-05 11:45:24",
       "album": {
-        "name": "Magma",
-        "url": "https://open.spotify.com/album/7D7V6M05UIOTjLdqbwRX0w"
-      },
-      "artists": [
-        {
-          "name": "Gojira",
-          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
-        }
-      ],
-      "duration_ms": 269533,
-      "name": "Stranded",
-      "url": "https://open.spotify.com/track/60fUDmIWuKhngaeBIVhqIV"
-    },
-    {
-      "added_at": "2025-11-05 11:45:24",
-      "album": {
         "name": "Iowa (10th Anniversary Edition)",
         "url": "https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 215600,
       "name": "People = Shit",
       "url": "https://open.spotify.com/track/0Y2i84QWPFiFHQfEQDgHya"
+    },
+    {
+      "added_at": "2025-11-05 11:45:24",
+      "album": {
+        "name": "Magma",
+        "url": "https://open.spotify.com/album/7D7V6M05UIOTjLdqbwRX0w"
+      },
+      "artists": [
+        {
+          "name": "Gojira",
+          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
+        }
+      ],
+      "duration_ms": 269533,
+      "name": "Stranded",
+      "url": "https://open.spotify.com/track/60fUDmIWuKhngaeBIVhqIV"
     },
     {
       "added_at": "2025-11-05 11:45:24",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2025-11-05 11:45:24",
       "album": {
+        "name": "Dark Passion Play",
+        "url": "https://open.spotify.com/album/23DKEup8CZAYeGdjtwnpEE"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "duration_ms": 231444,
+      "name": "Amaranth",
+      "url": "https://open.spotify.com/track/1sXdW94CrEIrYdbfON4Sxt"
+    },
+    {
+      "added_at": "2025-11-05 11:45:24",
+      "album": {
         "name": "Black Hole",
         "url": "https://open.spotify.com/album/4rTul9Y40kljIY12LiVAwB"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 179181,
       "name": "Black Hole",
       "url": "https://open.spotify.com/track/4Y7eqYTpV7fQxpYj1isN2F"
-    },
-    {
-      "added_at": "2025-11-05 11:45:24",
-      "album": {
-        "name": "Dark Passion Play",
-        "url": "https://open.spotify.com/album/23DKEup8CZAYeGdjtwnpEE"
-      },
-      "artists": [
-        {
-          "name": "Nightwish",
-          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
-        }
-      ],
-      "duration_ms": 231444,
-      "name": "Amaranth",
-      "url": "https://open.spotify.com/track/1sXdW94CrEIrYdbfON4Sxt"
     },
     {
       "added_at": "2025-11-05 11:45:24",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2025-11-05 11:45:24",
       "album": {
-        "name": "666 - World Divided",
-        "url": "https://open.spotify.com/album/0hCa6eoUtwiit26t5dNpeY"
-      },
-      "artists": [
-        {
-          "name": "Kreator",
-          "url": "https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv"
-        }
-      ],
-      "duration_ms": 284715,
-      "name": "666 - World Divided",
-      "url": "https://open.spotify.com/track/2OsCkXO8524Qxwe1pR3eAb"
-    },
-    {
-      "added_at": "2025-11-05 11:45:24",
-      "album": {
         "name": "Persistence Of Time (30th Anniversary Remaster)",
         "url": "https://open.spotify.com/album/4WZ1C5yYQ5mekCAw7zDPWA"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 428946,
       "name": "Keep It In The Family",
       "url": "https://open.spotify.com/track/6S3oeZ5RKR8Tl9DTPAjGLt"
+    },
+    {
+      "added_at": "2025-11-05 11:45:24",
+      "album": {
+        "name": "666 - World Divided",
+        "url": "https://open.spotify.com/album/0hCa6eoUtwiit26t5dNpeY"
+      },
+      "artists": [
+        {
+          "name": "Kreator",
+          "url": "https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv"
+        }
+      ],
+      "duration_ms": 284715,
+      "name": "666 - World Divided",
+      "url": "https://open.spotify.com/track/2OsCkXO8524Qxwe1pR3eAb"
     },
     {
       "added_at": "2025-11-05 11:45:24",

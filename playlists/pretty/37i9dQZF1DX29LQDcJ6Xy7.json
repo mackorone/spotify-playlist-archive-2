@@ -1,6 +1,6 @@
 {
   "description": "A collection of Industrial Metal - fresh and old tunes. Cover: Fear Factory",
-  "num_followers": 383402,
+  "num_followers": 383435,
   "original_name": "Industrial Metal",
   "owner": {
     "name": "Spotify",
@@ -915,6 +915,22 @@
     {
       "added_at": "2025-02-10 19:48:47",
       "album": {
+        "name": "TILL THE END",
+        "url": "https://open.spotify.com/album/38KsykfZ2memylz4uwThC6"
+      },
+      "artists": [
+        {
+          "name": "NA CHUI",
+          "url": "https://open.spotify.com/artist/7soJFrhNuBUefRervjk2kh"
+        }
+      ],
+      "duration_ms": 314000,
+      "name": "TILL THE END",
+      "url": "https://open.spotify.com/track/7brFX4c6J3FbsHuIEw2uHi"
+    },
+    {
+      "added_at": "2025-02-10 19:48:47",
+      "album": {
         "name": "Echogenetic",
         "url": "https://open.spotify.com/album/0f45KbfktTH1dpYgApp979"
       },
@@ -931,18 +947,18 @@
     {
       "added_at": "2025-02-10 19:48:47",
       "album": {
-        "name": "TILL THE END",
-        "url": "https://open.spotify.com/album/38KsykfZ2memylz4uwThC6"
+        "name": "Supernaut",
+        "url": "https://open.spotify.com/album/59or2rVv97PQ4dS45ohNlQ"
       },
       "artists": [
         {
-          "name": "NA CHUI",
-          "url": "https://open.spotify.com/artist/7soJFrhNuBUefRervjk2kh"
+          "name": "1000 Homo DJs",
+          "url": "https://open.spotify.com/artist/62G7ybeJSN91TgfsWsdDOb"
         }
       ],
-      "duration_ms": 314000,
-      "name": "TILL THE END",
-      "url": "https://open.spotify.com/track/7brFX4c6J3FbsHuIEw2uHi"
+      "duration_ms": 402706,
+      "name": "Supernaut",
+      "url": "https://open.spotify.com/track/1LkYAkYzqq7TbJTGfx3ixY"
     },
     {
       "added_at": "2025-02-10 19:48:47",
@@ -963,18 +979,18 @@
     {
       "added_at": "2025-02-10 19:48:47",
       "album": {
-        "name": "Supernaut",
-        "url": "https://open.spotify.com/album/59or2rVv97PQ4dS45ohNlQ"
+        "name": "Terapunk",
+        "url": "https://open.spotify.com/album/6YJolVxpGYWLOmjQ3e4Ma5"
       },
       "artists": [
         {
-          "name": "1000 Homo DJs",
-          "url": "https://open.spotify.com/artist/62G7ybeJSN91TgfsWsdDOb"
+          "name": "Dope Stars Inc.",
+          "url": "https://open.spotify.com/artist/0b3Ih1VYdJfBfCPulSWBoA"
         }
       ],
-      "duration_ms": 402706,
-      "name": "Supernaut",
-      "url": "https://open.spotify.com/track/1LkYAkYzqq7TbJTGfx3ixY"
+      "duration_ms": 238590,
+      "name": "Many Thanks",
+      "url": "https://open.spotify.com/track/0VTDOr2TTKXeTAeXTfSLQH"
     },
     {
       "added_at": "2025-02-10 19:48:47",
@@ -1007,22 +1023,6 @@
       "duration_ms": 348000,
       "name": "Deadened",
       "url": "https://open.spotify.com/track/2Vlfc5hZxy1XY6XtsOF0aD"
-    },
-    {
-      "added_at": "2025-02-10 19:48:47",
-      "album": {
-        "name": "Terapunk",
-        "url": "https://open.spotify.com/album/6YJolVxpGYWLOmjQ3e4Ma5"
-      },
-      "artists": [
-        {
-          "name": "Dope Stars Inc.",
-          "url": "https://open.spotify.com/artist/0b3Ih1VYdJfBfCPulSWBoA"
-        }
-      ],
-      "duration_ms": 238590,
-      "name": "Many Thanks",
-      "url": "https://open.spotify.com/track/0VTDOr2TTKXeTAeXTfSLQH"
     },
     {
       "added_at": "2025-02-10 19:48:47",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2025-02-10 19:48:47",
       "album": {
-        "name": "Digital Gods",
-        "url": "https://open.spotify.com/album/2dhSJeHtfSCcpEwyQCikfc"
-      },
-      "artists": [
-        {
-          "name": "Oddko",
-          "url": "https://open.spotify.com/artist/1UVYxhc5UIS5VLvUXrSo81"
-        }
-      ],
-      "duration_ms": 206346,
-      "name": "D4TM",
-      "url": "https://open.spotify.com/track/6S4Q0HDqHDsdcmfFNvyc8y"
-    },
-    {
-      "added_at": "2025-02-10 19:48:47",
-      "album": {
         "name": "Re-Industrialized",
         "url": "https://open.spotify.com/album/3dbC9oQ5is3z8VR4Ninpuv"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 249360,
       "name": "Recharger",
       "url": "https://open.spotify.com/track/3C5jj2rhMP5Qw7AiKyMoWQ"
+    },
+    {
+      "added_at": "2025-02-10 19:48:47",
+      "album": {
+        "name": "Digital Gods",
+        "url": "https://open.spotify.com/album/2dhSJeHtfSCcpEwyQCikfc"
+      },
+      "artists": [
+        {
+          "name": "Oddko",
+          "url": "https://open.spotify.com/artist/1UVYxhc5UIS5VLvUXrSo81"
+        }
+      ],
+      "duration_ms": 206346,
+      "name": "D4TM",
+      "url": "https://open.spotify.com/track/6S4Q0HDqHDsdcmfFNvyc8y"
     },
     {
       "added_at": "2025-02-10 19:48:47",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2025-02-10 19:48:47",
       "album": {
-        "name": "Bits and Razors",
-        "url": "https://open.spotify.com/album/1SugTKvFL1DYE9jOrEvxlb"
-      },
-      "artists": [
-        {
-          "name": "Rabbit Junk",
-          "url": "https://open.spotify.com/artist/3Cnkej21cJ1XgbAh98CbaS"
-        }
-      ],
-      "duration_ms": 243446,
-      "name": "Bits and Razors",
-      "url": "https://open.spotify.com/track/1u9wZPcZ72MtBdmsmh0FdT"
-    },
-    {
-      "added_at": "2025-02-10 19:48:47",
-      "album": {
         "name": "Prototype 6:17",
         "url": "https://open.spotify.com/album/0AzQ3DznOByMMtnZSt9PvM"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 208470,
       "name": "Prototype",
       "url": "https://open.spotify.com/track/7k2SHJ8HKjjW3sZcDj2eAz"
+    },
+    {
+      "added_at": "2025-02-10 19:48:47",
+      "album": {
+        "name": "Bits and Razors",
+        "url": "https://open.spotify.com/album/1SugTKvFL1DYE9jOrEvxlb"
+      },
+      "artists": [
+        {
+          "name": "Rabbit Junk",
+          "url": "https://open.spotify.com/artist/3Cnkej21cJ1XgbAh98CbaS"
+        }
+      ],
+      "duration_ms": 243446,
+      "name": "Bits and Razors",
+      "url": "https://open.spotify.com/track/1u9wZPcZ72MtBdmsmh0FdT"
     },
     {
       "added_at": "2025-02-10 19:48:47",
@@ -1599,6 +1599,26 @@
     {
       "added_at": "2025-02-10 19:48:47",
       "album": {
+        "name": "Fiction",
+        "url": "https://open.spotify.com/album/4td7ZCz71To3BiAM70k0kq"
+      },
+      "artists": [
+        {
+          "name": "Not My God",
+          "url": "https://open.spotify.com/artist/27tok8SdKheI4yBDfiIUGY"
+        },
+        {
+          "name": "Skold",
+          "url": "https://open.spotify.com/artist/71Yh3iYxx17VectgWOMvUr"
+        }
+      ],
+      "duration_ms": 236375,
+      "name": "Fiction",
+      "url": "https://open.spotify.com/track/0Y9Vvicrw9zj40jtEK4tRL"
+    },
+    {
+      "added_at": "2025-02-10 19:48:47",
+      "album": {
         "name": "The Hunger",
         "url": "https://open.spotify.com/album/6hJdzDHfOpML4CmTv86gOI"
       },
@@ -1627,26 +1647,6 @@
       "duration_ms": 243026,
       "name": "Universe",
       "url": "https://open.spotify.com/track/4J2aPhC2ODvSURePYP5DqE"
-    },
-    {
-      "added_at": "2025-02-10 19:48:47",
-      "album": {
-        "name": "Fiction",
-        "url": "https://open.spotify.com/album/4td7ZCz71To3BiAM70k0kq"
-      },
-      "artists": [
-        {
-          "name": "Not My God",
-          "url": "https://open.spotify.com/artist/27tok8SdKheI4yBDfiIUGY"
-        },
-        {
-          "name": "Skold",
-          "url": "https://open.spotify.com/artist/71Yh3iYxx17VectgWOMvUr"
-        }
-      ],
-      "duration_ms": 236375,
-      "name": "Fiction",
-      "url": "https://open.spotify.com/track/0Y9Vvicrw9zj40jtEK4tRL"
     }
   ],
   "unique_name": "Industrial Metal",

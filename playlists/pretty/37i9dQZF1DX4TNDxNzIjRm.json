@@ -1,12 +1,12 @@
 {
   "description": "Cuando el jangueo est\u00e1 mejor que la fiesta. Hanging out jams.",
-  "num_followers": 1246381,
+  "num_followers": 1246232,
   "original_name": "Jangueo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKUiySc8tiDyfjuVOk6fqt5Gth79",
+  "snapshot_id": "AAAAAF5mmI12ojQRLUt6in1ApAdGYa7w",
   "tracks": [
     {
       "added_at": "2026-11-06 15:07:44",
@@ -1143,26 +1143,6 @@
     {
       "added_at": "2026-11-06 15:07:44",
       "album": {
-        "name": "pikito pikito",
-        "url": "https://open.spotify.com/album/0hy02gZ63hkLSnoQsuGEKB"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        },
-        {
-          "name": "PEDRO SAMPAIO",
-          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
-        }
-      ],
-      "duration_ms": 180259,
-      "name": "pikito pikito",
-      "url": "https://open.spotify.com/track/5cqtbeHYOKTb687NsG4sp3"
-    },
-    {
-      "added_at": "2026-11-06 15:07:44",
-      "album": {
         "name": "Como Es Que Se Hace",
         "url": "https://open.spotify.com/album/0HvCpNq9SOzytIHAMIGgl8"
       },
@@ -1179,6 +1159,26 @@
       "duration_ms": 205320,
       "name": "Como Es Que Se Hace",
       "url": "https://open.spotify.com/track/2L1lCDnKE9WcnTEre5QKCP"
+    },
+    {
+      "added_at": "2026-11-06 15:07:44",
+      "album": {
+        "name": "pikito pikito",
+        "url": "https://open.spotify.com/album/0hy02gZ63hkLSnoQsuGEKB"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        },
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        }
+      ],
+      "duration_ms": 180259,
+      "name": "pikito pikito",
+      "url": "https://open.spotify.com/track/5cqtbeHYOKTb687NsG4sp3"
     },
     {
       "added_at": "2026-11-06 15:07:44",

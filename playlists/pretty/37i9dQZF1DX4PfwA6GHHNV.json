@@ -1,6 +1,6 @@
 {
   "description": "afrobeats daqui, de fora, de todos os cantos",
-  "num_followers": 23580,
+  "num_followers": 23579,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
@@ -507,6 +507,22 @@
     {
       "added_at": "2026-10-19 15:51:33",
       "album": {
+        "name": "MOMENTUM",
+        "url": "https://open.spotify.com/album/4GhFPTHkOdxEcz8fSEsQsx"
+      },
+      "artists": [
+        {
+          "name": "Trivia",
+          "url": "https://open.spotify.com/artist/2aedff5jy8iqr4GWGnee1g"
+        }
+      ],
+      "duration_ms": 169249,
+      "name": "Meu Jeito De Amar",
+      "url": "https://open.spotify.com/track/4AWZQMgmB8jtLQ9PfUixs1"
+    },
+    {
+      "added_at": "2026-10-19 15:51:33",
+      "album": {
         "name": "Teimosia",
         "url": "https://open.spotify.com/album/40ed9TI4ZVDLJQcobMH9mw"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 166863,
       "name": "S\u00f3",
       "url": "https://open.spotify.com/track/46czY9226dZK0vH56kvJN3"
-    },
-    {
-      "added_at": "2026-10-19 15:51:33",
-      "album": {
-        "name": "MOMENTUM",
-        "url": "https://open.spotify.com/album/4GhFPTHkOdxEcz8fSEsQsx"
-      },
-      "artists": [
-        {
-          "name": "Trivia",
-          "url": "https://open.spotify.com/artist/2aedff5jy8iqr4GWGnee1g"
-        }
-      ],
-      "duration_ms": 169249,
-      "name": "Meu Jeito De Amar",
-      "url": "https://open.spotify.com/track/4AWZQMgmB8jtLQ9PfUixs1"
     },
     {
       "added_at": "2026-10-19 15:51:33",
@@ -647,26 +647,6 @@
     {
       "added_at": "2026-10-19 15:51:33",
       "album": {
-        "name": "PR\u00caMIO",
-        "url": "https://open.spotify.com/album/2XfYpuHfSxCYfPRlLogUIn"
-      },
-      "artists": [
-        {
-          "name": "BIAB",
-          "url": "https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF"
-        },
-        {
-          "name": "Carlos do Complexo",
-          "url": "https://open.spotify.com/artist/6ub5DtvWZmTMiIuKMf0Bi2"
-        }
-      ],
-      "duration_ms": 164165,
-      "name": "PR\u00caMIO",
-      "url": "https://open.spotify.com/track/5JsziaZLCG9b96OtrXgq8c"
-    },
-    {
-      "added_at": "2026-10-19 15:51:33",
-      "album": {
         "name": "Grande",
         "url": "https://open.spotify.com/album/1eUicFF5r32q4NLYguMtiW"
       },
@@ -691,6 +671,26 @@
       "duration_ms": 234000,
       "name": "Me Balan\u00e7a Toda",
       "url": "https://open.spotify.com/track/0RILtthfBvGM3FpX7GkI4p"
+    },
+    {
+      "added_at": "2026-10-19 15:51:33",
+      "album": {
+        "name": "PR\u00caMIO",
+        "url": "https://open.spotify.com/album/2XfYpuHfSxCYfPRlLogUIn"
+      },
+      "artists": [
+        {
+          "name": "BIAB",
+          "url": "https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF"
+        },
+        {
+          "name": "Carlos do Complexo",
+          "url": "https://open.spotify.com/artist/6ub5DtvWZmTMiIuKMf0Bi2"
+        }
+      ],
+      "duration_ms": 164165,
+      "name": "PR\u00caMIO",
+      "url": "https://open.spotify.com/track/5JsziaZLCG9b96OtrXgq8c"
     },
     {
       "added_at": "2026-10-19 15:51:33",
@@ -891,30 +891,6 @@
     {
       "added_at": "2026-10-19 15:51:33",
       "album": {
-        "name": "Sem nada",
-        "url": "https://open.spotify.com/album/5x0K9eHmy0ZSVj1nej5zyF"
-      },
-      "artists": [
-        {
-          "name": "Devasto Prod",
-          "url": "https://open.spotify.com/artist/0HXL3i1AV3ZRb3BhuzSvOc"
-        },
-        {
-          "name": "Junior Lord",
-          "url": "https://open.spotify.com/artist/6rFkZxhheU9l1nODgZm4SP"
-        },
-        {
-          "name": "Marvvila",
-          "url": "https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz"
-        }
-      ],
-      "duration_ms": 156038,
-      "name": "Sem nada",
-      "url": "https://open.spotify.com/track/6ZlTGWsNYigSj5LTCK3Uy4"
-    },
-    {
-      "added_at": "2026-10-19 15:51:33",
-      "album": {
         "name": "A Beira Mar",
         "url": "https://open.spotify.com/album/3aNKW005bNZTANO5mEAO7N"
       },
@@ -935,6 +911,30 @@
       "duration_ms": 228735,
       "name": "A Beira Mar",
       "url": "https://open.spotify.com/track/0LqjYe7SBezeZEDvnC2USH"
+    },
+    {
+      "added_at": "2026-10-19 15:51:33",
+      "album": {
+        "name": "Sem nada",
+        "url": "https://open.spotify.com/album/5x0K9eHmy0ZSVj1nej5zyF"
+      },
+      "artists": [
+        {
+          "name": "Devasto Prod",
+          "url": "https://open.spotify.com/artist/0HXL3i1AV3ZRb3BhuzSvOc"
+        },
+        {
+          "name": "Junior Lord",
+          "url": "https://open.spotify.com/artist/6rFkZxhheU9l1nODgZm4SP"
+        },
+        {
+          "name": "Marvvila",
+          "url": "https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz"
+        }
+      ],
+      "duration_ms": 156038,
+      "name": "Sem nada",
+      "url": "https://open.spotify.com/track/6ZlTGWsNYigSj5LTCK3Uy4"
     },
     {
       "added_at": "2026-10-19 15:51:33",

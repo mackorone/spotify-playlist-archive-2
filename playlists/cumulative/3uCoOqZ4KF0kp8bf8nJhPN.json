@@ -1389,6 +1389,24 @@
     },
     {
       "album": {
+        "name": "forgive.",
+        "url": "https://open.spotify.com/album/46GXlHqWW57TWWVsBlk6cX"
+      },
+      "artists": [
+        {
+          "name": "shteppi",
+          "url": "https://open.spotify.com/artist/0MWnJHMAZneJ1JA6S8Fx1b"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176772,
+      "name": "forgive.",
+      "url": "https://open.spotify.com/track/5ziYyuiChdNeuvfv6G19Ks"
+    },
+    {
+      "album": {
         "name": "Buds",
         "url": "https://open.spotify.com/album/4cAEWgTGIU7kL1sgbivyGY"
       },

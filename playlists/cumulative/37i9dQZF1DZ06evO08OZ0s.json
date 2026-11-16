@@ -250,7 +250,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-16",
       "duration_ms": 175200,
       "name": "Can't Dance - Radio Edit",
       "url": "https://open.spotify.com/track/7KtcHEhIAIrTFqVIB0JoPH"
@@ -2236,6 +2236,24 @@
       "duration_ms": 183702,
       "name": "Unwrap My Heart (Tom Brownlow Remix)",
       "url": "https://open.spotify.com/track/0xpcbVpeeqt5JCkTmj57Ya"
+    },
+    {
+      "album": {
+        "name": "Unwrap My Heart (Acoustic)",
+        "url": "https://open.spotify.com/album/6Ecd2tEqe8oYEXDcghfMvt"
+      },
+      "artists": [
+        {
+          "name": "Kelli-Leigh",
+          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196795,
+      "name": "Unwrap My Heart - Acoustic",
+      "url": "https://open.spotify.com/track/2tYWVoyePBGBCevqikH7vq"
     },
     {
       "album": {

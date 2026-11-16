@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUB4Jn6piqKS.md) - [plain]
 
 > Stompers, floaters and floorshakers \- these are the tracks that defined the Northern Soul movement.
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,864 likes - 100 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,878 likes - 100 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUB4Jn6piqKS.md) - [plain]
 | 18 | [Who Do You Love](https://open.spotify.com/track/6kR2BCzArduYNuJdtezM8L) | [The Sapphires](https://open.spotify.com/artist/7hsuVq0DQonl3PnP7qkfvP) | [Best Of The Sapphires](https://open.spotify.com/album/5oaRhxwbicB0jaeEHYhq8q) | 2:39 |
 | 19 | [There's A Ghost In My House](https://open.spotify.com/track/4T20N2FPwrROVhJBb9n7rD) | [R\. Dean Taylor](https://open.spotify.com/artist/4Yg38CnYMoN09sMLf6KDdW) | [The Essential Collection](https://open.spotify.com/album/0tYlV4snWLH4rWQkX1p8nq) | 2:13 |
 | 20 | [Seven Days Too Long \- Mono](https://open.spotify.com/track/1WfHZKUkTwKQ57ukwd21PA) | [Chuck Wood](https://open.spotify.com/artist/7ot74oYptdmYydjyDmcLzg) | [The Roulette Story](https://open.spotify.com/album/6KRBqK0UvfDCATk8ORdC73) | 2:21 |
-| 21 | [I'm Gonna Run Away from You](https://open.spotify.com/track/2kmycCOxPja8DVDidFHWiz) | [Tami Lynn](https://open.spotify.com/artist/5K7ajGVh8S6bCjRjlhRVIl) | [Love Is Here And Now You're Gone](https://open.spotify.com/album/7mu0yEYB5E075aHWl2f5Hy) | 2:48 |
-| 22 | [I'm on My Way](https://open.spotify.com/track/7sw0dqaBBobrSiQY5fUZQb) | [Dean Parrish](https://open.spotify.com/artist/3Ivzb7awkvcpc5k8oPBhpV) | [For Northern Soul Collectors: Volume 1](https://open.spotify.com/album/5LfuUAzs0DljxBH9unjGW9) | 2:39 |
+| 21 | [I'm on My Way](https://open.spotify.com/track/7sw0dqaBBobrSiQY5fUZQb) | [Dean Parrish](https://open.spotify.com/artist/3Ivzb7awkvcpc5k8oPBhpV) | [For Northern Soul Collectors: Volume 1](https://open.spotify.com/album/5LfuUAzs0DljxBH9unjGW9) | 2:39 |
+| 22 | [I'm Gonna Run Away from You](https://open.spotify.com/track/2kmycCOxPja8DVDidFHWiz) | [Tami Lynn](https://open.spotify.com/artist/5K7ajGVh8S6bCjRjlhRVIl) | [Love Is Here And Now You're Gone](https://open.spotify.com/album/7mu0yEYB5E075aHWl2f5Hy) | 2:48 |
 | 23 | [Let's Wade In The Water](https://open.spotify.com/track/0l2CjLs5IuME1bZeRfNSrm) | [Marlena Shaw](https://open.spotify.com/artist/0hirZ8kPPdM9pzXpoagB4w) | [Chess Northern Soul](https://open.spotify.com/album/2DmdMq9Kk6dUAbW9lOSv5C) | 3:34 |
 | 24 | [This Love Starved Heart Of Mine \(It's Killing Me\) \- 1994 Love Starved Heart Version \(Mono\)](https://open.spotify.com/track/2dQrPamTqMPkYAGRQO76dX) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Lost & Found: Love Starved Heart \- Expanded Edition](https://open.spotify.com/album/1aGm5Z9HtjM0v0ldtDJVVB) | 2:40 |
 | 25 | [Do I Love You \(Indeed I Do\)](https://open.spotify.com/track/7hjNENnHW5O7Jxg8gkZliS) | [Frank Wilson](https://open.spotify.com/artist/7Emrl5SyjpneJuRdHqBKRN) | [Wigan Casino 40th Anniversary Album](https://open.spotify.com/album/2sPZKGxvg2RZF4d2ioEYjz) | 2:24 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUB4Jn6piqKS.md) - [plain]
 | 79 | [Under Your Powerful Love](https://open.spotify.com/track/4LHGfnRAzkwM24MMALFQxU) | [Joe Tex](https://open.spotify.com/artist/5TbXjzD8tYgMD5JU2g2F8q) | [Joe Tex Collection Vol\. 2](https://open.spotify.com/album/1fKKAl08O1wOUicU1cY0M3) | 4:26 |
 | 80 | [You Just Don't Know \(What You Do To Me\)](https://open.spotify.com/track/4Q6gZa8pEcTuaMteHEEYdl) | [Chubby Checker](https://open.spotify.com/artist/7qQJQ3YtcGlqaLg5tcypN2) | [The Hits Of '65](https://open.spotify.com/album/5ajbK1dMjom8xX40BEgmU9) | 2:30 |
 | 81 | [She Kissed Me](https://open.spotify.com/track/4QZGpOChUV3r36qd0J3gZj) | [Frankie Beverly And The Butlers](https://open.spotify.com/artist/2XVmdPWJyOZd6iRVmlQNMg) | [Cameo Parkway Pop And Soul Gems Of 1966 Vol\. 2](https://open.spotify.com/album/2Qu5NZYF3JxaG2SpcfvrTv) | 2:30 |
-| 82 | [I'm Where It's At](https://open.spotify.com/track/2ETtE2nroXLwviIrTkopbW) | [The Jades](https://open.spotify.com/artist/35ygC5lMRprqOIHZbcjsK0) | [The Northern Soul Story Vol.4: Wigan Casino](https://open.spotify.com/album/6PgTpu4A3QmoR79tNmk4Ml) | 2:28 |
-| 83 | [Just Like the Weather](https://open.spotify.com/track/1wGUSWGhLZvChd0fxsvsU0) | [Nolan Chance](https://open.spotify.com/artist/5x18L4ZZtCIepz8EelL1fm) | [Constellation of Chicago Soul](https://open.spotify.com/album/1t7urpNm3RvRxOZrWG52Fm) | 2:35 |
+| 82 | [Just Like the Weather](https://open.spotify.com/track/1wGUSWGhLZvChd0fxsvsU0) | [Nolan Chance](https://open.spotify.com/artist/5x18L4ZZtCIepz8EelL1fm) | [Constellation of Chicago Soul](https://open.spotify.com/album/1t7urpNm3RvRxOZrWG52Fm) | 2:35 |
+| 83 | [I'm Where It's At](https://open.spotify.com/track/2ETtE2nroXLwviIrTkopbW) | [The Jades](https://open.spotify.com/artist/35ygC5lMRprqOIHZbcjsK0) | [The Northern Soul Story Vol.4: Wigan Casino](https://open.spotify.com/album/6PgTpu4A3QmoR79tNmk4Ml) | 2:28 |
 | 84 | [What Shall I Do](https://open.spotify.com/track/4vHlngqfKqieP4z48uSGoH) | [Frankie & The Classicals](https://open.spotify.com/artist/4UWGfxt79IQdviWgqwTWV6) | [Northern Soul: The Collection](https://open.spotify.com/album/3uCwV0WZeLe6ElssasAInn) | 2:01 |
 | 85 | [Hit And Run](https://open.spotify.com/track/5Hoe35sDiPC7XyY1ocZI91) | [Rose Batiste](https://open.spotify.com/artist/5LP4nRFZbdswDSBbCYP4gH) | [Northern Soul Sensations](https://open.spotify.com/album/1LM4xOS5sNcoykJvQ7zXNu) | 3:11 |
 | 86 | [Name It You Got It](https://open.spotify.com/track/4rf0BgkvLftBjVCfCA9qXV) | [Micky Moonshine](https://open.spotify.com/artist/7KSmZ7H3mfxLiuh27Fc2L7) | [The Northern Soul Scene](https://open.spotify.com/album/67UoZsODIDU1g4gN1uJmSk) | 3:24 |

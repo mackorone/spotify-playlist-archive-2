@@ -1,6 +1,6 @@
 {
   "description": "The best new and classic South African Rock. Cover: Spoegwolf",
-  "num_followers": 28907,
+  "num_followers": 28913,
   "original_name": "SA Rock ",
   "owner": {
     "name": "Spotify",
@@ -367,18 +367,22 @@
     {
       "added_at": "2026-08-27 22:01:29",
       "album": {
-        "name": "Stardust Galaxies",
-        "url": "https://open.spotify.com/album/6tpTsx57LM1DmiOezpi0Ro"
+        "name": "Vanfokkingtasties Akoesties",
+        "url": "https://open.spotify.com/album/4OaB5LtEhBtOBycsi2a5BH"
       },
       "artists": [
         {
-          "name": "The Parlotones",
-          "url": "https://open.spotify.com/artist/6kdqDRORMlysnNj2eIOsGs"
+          "name": "Vanfokkingtasties",
+          "url": "https://open.spotify.com/artist/27JfNPJM3KuEAK7AWH6fHD"
+        },
+        {
+          "name": "Fokofpolisiekar",
+          "url": "https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x"
         }
       ],
-      "duration_ms": 251600,
-      "name": "Push Me to the Floor",
-      "url": "https://open.spotify.com/track/20HP7Q7GMBrj88fzaWj9sx"
+      "duration_ms": 210520,
+      "name": "Dagdronk",
+      "url": "https://open.spotify.com/track/7MaLgpnWJbSYO4LhS2k0ex"
     },
     {
       "added_at": "2026-11-13 06:35:25",
@@ -399,22 +403,18 @@
     {
       "added_at": "2026-08-27 22:01:29",
       "album": {
-        "name": "Vanfokkingtasties Akoesties",
-        "url": "https://open.spotify.com/album/4OaB5LtEhBtOBycsi2a5BH"
+        "name": "Stardust Galaxies",
+        "url": "https://open.spotify.com/album/6tpTsx57LM1DmiOezpi0Ro"
       },
       "artists": [
         {
-          "name": "Vanfokkingtasties",
-          "url": "https://open.spotify.com/artist/27JfNPJM3KuEAK7AWH6fHD"
-        },
-        {
-          "name": "Fokofpolisiekar",
-          "url": "https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x"
+          "name": "The Parlotones",
+          "url": "https://open.spotify.com/artist/6kdqDRORMlysnNj2eIOsGs"
         }
       ],
-      "duration_ms": 210520,
-      "name": "Dagdronk",
-      "url": "https://open.spotify.com/track/7MaLgpnWJbSYO4LhS2k0ex"
+      "duration_ms": 251600,
+      "name": "Push Me to the Floor",
+      "url": "https://open.spotify.com/track/20HP7Q7GMBrj88fzaWj9sx"
     },
     {
       "added_at": "2026-11-13 06:35:25",
@@ -839,26 +839,18 @@
     {
       "added_at": "2026-08-27 22:01:29",
       "album": {
-        "name": "Stadig",
-        "url": "https://open.spotify.com/album/7oAz7GXt9SduiB3xfKzFNy"
+        "name": "Verloor Jouself",
+        "url": "https://open.spotify.com/album/62W2COHw25v2dtuQ2bxwBV"
       },
       "artists": [
         {
-          "name": "Schwabie",
-          "url": "https://open.spotify.com/artist/4If0l4Y8xgtSTg2qVXVqKQ"
-        },
-        {
           "name": "GSTRiNG",
           "url": "https://open.spotify.com/artist/7x8i7WdBTZtFV2VbvIoDM5"
-        },
-        {
-          "name": "Henru",
-          "url": "https://open.spotify.com/artist/5DnO62BUKruSHizebx8Vhk"
         }
       ],
-      "duration_ms": 207397,
-      "name": "Stadig",
-      "url": "https://open.spotify.com/track/1csJ3uoKufB2TY9Jbu0Wwu"
+      "duration_ms": 135272,
+      "name": "Verloor Jouself",
+      "url": "https://open.spotify.com/track/6gyapfzo41oTNPFLMBIgA4"
     }
   ],
   "unique_name": "SA Rock ",

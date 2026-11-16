@@ -5110,7 +5110,7 @@
       ],
       "date_added": "2026-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-20",
+      "date_removed": null,
       "duration_ms": 214074,
       "name": "Get up on Your Feet",
       "url": "https://open.spotify.com/track/54QamBb8HwxpfeiTFNwaKZ"
@@ -7687,6 +7687,24 @@
     },
     {
       "album": {
+        "name": "Legacy",
+        "url": "https://open.spotify.com/album/3lkSY6GAeZJRjCutg306k8"
+      },
+      "artists": [
+        {
+          "name": "Larry Read",
+          "url": "https://open.spotify.com/artist/5mBDsF7X25Gcd4AEBKI7Qk"
+        }
+      ],
+      "date_added": "2026-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224314,
+      "name": "Legacy",
+      "url": "https://open.spotify.com/track/3bV9CSt3icMdmTcReRJ5ZY"
+    },
+    {
+      "album": {
         "name": "5 to 4",
         "url": "https://open.spotify.com/album/40RQR6L1VCRxJkrjV2SAah"
       },
@@ -7936,6 +7954,24 @@
       "duration_ms": 204396,
       "name": "Lobotomia",
       "url": "https://open.spotify.com/track/0st98mLoOQ50DNdxG10UKB"
+    },
+    {
+      "album": {
+        "name": "LONGER",
+        "url": "https://open.spotify.com/album/2o8B8SEzSH8BAbmNO93wA6"
+      },
+      "artists": [
+        {
+          "name": "Nash / Russell",
+          "url": "https://open.spotify.com/artist/7vd8lBK1CIwSTDmcQTzKfq"
+        }
+      ],
+      "date_added": "2026-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180062,
+      "name": "LONGER",
+      "url": "https://open.spotify.com/track/0FG3QSysPCDH2r4GY4wCTS"
     },
     {
       "album": {

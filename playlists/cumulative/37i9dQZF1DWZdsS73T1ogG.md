@@ -4,7 +4,7 @@
 
 > Descubre lo más nuevo del movimiento\. Cover: El Americano 4KT
 
-2,660 songs - 5 day 18 hr 35 min
+2,661 songs - 5 day 18 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1574,7 +1574,7 @@
 | [MY LOVE](https://open.spotify.com/track/2ajOfRsIVgVO4pmjeCPIzp) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Lewis Somes](https://open.spotify.com/artist/6U574RAq08wVaurzSaqEY3) | [MY LOVE](https://open.spotify.com/album/7ugkf8YbI3vpukv48xyoSK) | 2:52 | 2024-11-15 | 2025-01-25 |
 | [MY LOVE \(feat\. Arcángel\)](https://open.spotify.com/track/1HXaqcO4SEORgvIbhFquI0) | [LOS DUROS SON ELLOS](https://open.spotify.com/artist/1VgGkvTPfCmFmxFa8ik19X), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [MY LOVE \(feat\. Arcángel\)](https://open.spotify.com/album/1zv2bYT3ZqShg2Wd2NMqsG) | 3:07 | 2025-12-19 | 2026-02-21 |
 | [My Name](https://open.spotify.com/track/0O1AdqQhfLoWp0gNsG8ysy) | [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y) | [My Name](https://open.spotify.com/album/5VX1xk0uVSPBVUsD80v1ji) | 3:02 | 2023-04-09 | 2023-05-27 |
-| [MY NIGGA](https://open.spotify.com/track/6qSQwTuSYlFL8x7y5YRVsg) | [El Americano 4KT](https://open.spotify.com/artist/7JGdIwHe5RyFZvLEuRdR7N), [THE FAVORITES](https://open.spotify.com/artist/7xCeAo7w31Gmz29052qZ5I) | [LAS PIRATIA 2.0](https://open.spotify.com/album/4jSPwznLbj9qC49kjiDmjl) | 2:29 | 2026-11-13 |  |
+| [MY NIGGA](https://open.spotify.com/track/6qSQwTuSYlFL8x7y5YRVsg) | [El Americano 4KT](https://open.spotify.com/artist/7JGdIwHe5RyFZvLEuRdR7N), [THE FAVORITES](https://open.spotify.com/artist/7xCeAo7w31Gmz29052qZ5I) | [LAS PIRATIA 2.0](https://open.spotify.com/album/4jSPwznLbj9qC49kjiDmjl) | 2:29 | 2026-11-13 | 2026-11-16 |
 | [Máquina \(feat\. Go Get Music\)](https://open.spotify.com/track/4CtoAsebSZ1HNlofQvftIh) | [Los G4](https://open.spotify.com/artist/1uaiSMIzlh2Y6Fx4bC1c6s), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Ankhal](https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm), [Go Get Music](https://open.spotify.com/artist/0BKYcWhq6W4TYSLSJk1ZDJ) | [Máquina \(feat\. Go Get Music\)](https://open.spotify.com/album/0mrvBuF1bDPnMiKuhYHHhY) | 2:59 | 2023-04-28 | 2023-06-18 |
 | [Más Cara](https://open.spotify.com/track/0RrwwLDXmvCGXXzuDgwvOZ) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Más Cara](https://open.spotify.com/album/1xrj7cbZtRtEt1KjXNFQ26) | 2:35 | 2026-03-06 | 2026-06-27 |
 | [MÁS DE AHÍ](https://open.spotify.com/track/6m2G1v4Of1ioerAPTqoKsH) | [Topboy TGR](https://open.spotify.com/artist/1HYdJRbyNCkiko7TAw9rei), [Kzadores](https://open.spotify.com/artist/4y6AiRdD8ZaV9DbpmsQdei) | [MÁS DE AHÍ](https://open.spotify.com/album/5N3CPTfhHvxjPBAHSTeN2D) | 2:44 | 2025-10-27 | 2026-01-17 |
@@ -1594,6 +1594,7 @@
 | [Nadie La Mantiene](https://open.spotify.com/track/3dvMNHL50mtjkr47j9g5Qo) | [YoGambii](https://open.spotify.com/artist/5RuWFvTN5tmKqn0KUfNruD), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Nadie La Mantiene](https://open.spotify.com/album/4VsBy8wJ0Tq1gbdX7gjPPK) | 3:44 | 2022-08-19 | 2022-11-12 |
 | [Nadie Nos Vio \- Spotify Singles](https://open.spotify.com/track/0BibHMUWAVk5R4R0EpUOfX) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD), [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK) | [Nadie Nos Vio \- Spotify Singles](https://open.spotify.com/album/5TCDz405Ejfs2yEK9Mgu8c) | 2:40 | 2022-11-11 | 2023-02-11 |
 | [NAGASAKI](https://open.spotify.com/track/0sAVtc720YIqLD0w9GpLwD) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [NAGASAKI](https://open.spotify.com/album/3lzvMWNHMpcyCl0H29PiEm) | 3:26 | 2023-06-09 | 2023-08-05 |
+| [NAH 4 REAL](https://open.spotify.com/track/1nu5RWGJ9YLM7fsApy0uBW) | [El Americano 4KT](https://open.spotify.com/artist/7JGdIwHe5RyFZvLEuRdR7N), [THE FAVORITES](https://open.spotify.com/artist/7xCeAo7w31Gmz29052qZ5I) | [LAS PIRATIA 2.0](https://open.spotify.com/album/4jSPwznLbj9qC49kjiDmjl) | 2:31 | 2026-11-15 |  |
 | [Nalguita y Teta](https://open.spotify.com/track/6SuIUd8Wl5tZcyMFAV0EZJ) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Nalguita y Teta](https://open.spotify.com/album/0jwalP0wios13VlRWKILbC) | 3:07 | 2026-03-27 | 2026-07-18 |
 | [NAMORA](https://open.spotify.com/track/0WM11GL9kWOxWiaxSdd2DH) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [NAMORA](https://open.spotify.com/album/0aVCAkS55OUbNbLU7i55Qz) | 3:43 | 2025-11-15 | 2026-01-15 |
 | [NANA DEL HILO ROJO](https://open.spotify.com/track/5ycaJ8aPrySYbxyP0SB2Hf) | [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u), [Sky Rompiendo](https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW) | [SAKURA](https://open.spotify.com/album/5z4aZJ5U7LqwRc2tXk98cc) | 2:43 | 2024-04-26 | 2024-07-19 |

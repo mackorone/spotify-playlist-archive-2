@@ -4,7 +4,7 @@
 
 > 
 
-8,962 songs - 22 day 19 hr 18 min
+8,963 songs - 22 day 19 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2711,6 +2711,7 @@
 | [Guren no Yumiya](https://open.spotify.com/track/70p3HYq9iHZisJqpDmWd1U) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [Shingeki no Kiseki](https://open.spotify.com/album/24pr7CLiiJk8rUsXcocSA4) | 5:10 | 2025-05-09 |  |
 | [Guwop \(feat\. Quavo, Offset and Young Scooter\)](https://open.spotify.com/track/1BSA5I386L2IAmFQURYjIz) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [JEFFERY](https://open.spotify.com/album/7EpUpNUkkEGnaCvkcn1j4H) | 5:15 | 2025-01-15 |  |
 | [Guwop Home \(feat\. Young Thug\)](https://open.spotify.com/track/2P3y8fh4gv74LDnDUWitJV) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Everybody Looking](https://open.spotify.com/album/5GMmnwVu1VyxwZUt0T2uvJ) | 3:42 | 2025-01-03 |  |
+| [Gwan Big up Urself](https://open.spotify.com/track/5RLIG9RLyMYhQGH7MI98ny) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Waking at Dawn](https://open.spotify.com/album/5rvBOTHohJZk2aQHPJi6eU) | 3:20 | 2026-11-15 |  |
 | [Gwyn, Lord of Cinder](https://open.spotify.com/track/0g9LJzvd7Lu6qUlXIhTXsI) | [Motoi Sakuraba](https://open.spotify.com/artist/1DdhScDGl9AceKnbvgkFgz) | [Dark Souls \(Original Game Soundtrack\)](https://open.spotify.com/album/3B9SD6YRBQce8AMVCL915V) | 3:38 | 2025-05-05 |  |
 | [Gyalchester](https://open.spotify.com/track/6UjfByV1lDLW0SOVQA4NAi) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [More Life](https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK) | 3:09 | 2025-01-03 |  |
 | [Gymnopédie No\. 1](https://open.spotify.com/track/5OPT7l9b5SMwfTQgLPoNl7) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Philippe Entremont](https://open.spotify.com/artist/4x2fCu6MNErew0pb64yOBO) | [Entremont Plays Satie](https://open.spotify.com/album/2Kye14Lc1A3aBrf4GxfwAf) | 3:25 | 2026-11-03 |  |

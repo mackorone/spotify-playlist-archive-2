@@ -4,7 +4,7 @@
 
 > In this house we celebrate Australian music\. Cover: Miss Kaninna, Genesis Owusu, daine, BOY SODA, Tame Impala
 
-805 songs - 1 day 21 hr 5 min
+806 songs - 1 day 21 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Bird in Paradise](https://open.spotify.com/track/7IjOninBTGNdGfZ3g1Xidh) | [The Cat Empire](https://open.spotify.com/artist/023YMawCG3OvACmRjWxLWC) | [Bird in Paradise](https://open.spotify.com/album/4pLn7PExHV2Z66zFu4xDQc) | 4:41 | 2025-03-20 | 2025-04-04 |
 | [Bitch](https://open.spotify.com/track/375yACL0bMGmcgr1cY62r3) | [The Buoys](https://open.spotify.com/artist/338GHPl8NnzUwqpm6wpqjc) | [Bitch](https://open.spotify.com/album/2uyUeKwzu56mjv1jpII4wE) | 3:49 | 2025-08-31 | 2025-09-02 |
 | [Black Flower](https://open.spotify.com/track/5j7yfmvOnLEvwGAgK9z3aL) | [Becca Hatch](https://open.spotify.com/artist/1ypgMpyZkcMwXMkWuNFwyg) | [Black Flower](https://open.spotify.com/album/5HxRHQMz3OhYjucr6qJAeE) | 3:14 | 2026-08-27 | 2026-09-04 |
+| [BLACK SHEEP](https://open.spotify.com/track/68chs4vh0WYHDXrUgxKdWj) | [Make Them Suffer](https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT) | [BLACK SHEEP](https://open.spotify.com/album/1SsXI4HzkULJ9IgCRNdobu) | 4:09 | 2026-11-12 |  |
 | [Blackberries](https://open.spotify.com/track/2os91j4Ef5BaG6sfyBtKhY) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [bbyclose](https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH) | [Blackberries](https://open.spotify.com/album/4AX1Xa86NWZuIxqanx01cx) | 2:01 | 2025-07-17 | 2025-11-28 |
 | [Blak Nation](https://open.spotify.com/track/3n6FVMP6bgwPK19FoJPIVN) | [Emma Donovan](https://open.spotify.com/artist/1zq7VkmDHaXYNCqnNeJvLs) | [Blak Nation](https://open.spotify.com/album/1XW6cQBTbyfJNNBdLAjSS7) | 3:11 | 2025-09-01 | 2025-09-05 |
 | [Blame It On Me](https://open.spotify.com/track/6pZBCJsupkHOMqsLNKC2IH) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [Blame It On Me](https://open.spotify.com/album/5MFIzCR04bQxJDTfgbjbGY) | 2:51 | 2025-07-10 | 2025-09-02 |
@@ -631,7 +632,7 @@
 | [So Excited](https://open.spotify.com/track/3H3Iz6PAfenrPKRq0tS4oN) | [Skegss](https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a) | [So Excited](https://open.spotify.com/album/2wFLtPEYR56o8ng2gvZIi8) | 4:00 | 2025-03-04 | 2025-05-16 |
 | [So What](https://open.spotify.com/track/26DbLYaLlZVliIiqYdk1yk) | [Polly](https://open.spotify.com/artist/35oynIp89cQF1qjOZTRWkq) | [So What](https://open.spotify.com/album/1L0CpVgqgpn47oTnOimLOB) | 3:40 | 2025-02-20 | 2025-03-05 |
 | [Some Kinda Heaven](https://open.spotify.com/track/6nlH3iGFED7iT2HYGVksCV) | [Memphis LK](https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe) | [Some Kinda Heaven](https://open.spotify.com/album/3EeGkM5qgkBgkTTJvXy6VU) | 3:24 | 2026-03-12 | 2026-08-07 |
-| [Something in the Water \- Single Version](https://open.spotify.com/track/3AYcaeTecNpJGgcTZOzkXU) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Something in the Water](https://open.spotify.com/album/7oPD1sFHv0dsyTHgK7A4FF) | 3:47 | 2026-09-17 |  |
+| [Something in the Water \- Single Version](https://open.spotify.com/track/3AYcaeTecNpJGgcTZOzkXU) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Something in the Water](https://open.spotify.com/album/7oPD1sFHv0dsyTHgK7A4FF) | 3:47 | 2026-09-17 | 2026-11-16 |
 | [Sorry](https://open.spotify.com/track/3gdzRoYEL3iBJUXRgcWEB3) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Sorry](https://open.spotify.com/album/6baBfgccJbY8W2r5dwOWDZ) | 3:17 | 2025-09-11 | 2025-10-11 |
 | [SORRY](https://open.spotify.com/track/5icZ87FcdUCMYAp9VXWdd9) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [THE FIRST TIME](https://open.spotify.com/album/63IolVUykZCHMlu2zu9jHS) | 3:12 | 2024-05-31 | 2025-04-25 |
 | [SORRY! CRASH!](https://open.spotify.com/track/1fmibwNXIJ4vSlZXS3ZqkH) | [Ecca Vandal](https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf) | [SORRY! CRASH!](https://open.spotify.com/album/3XtL1iGsmeZFgTMSch4tvo) | 3:09 | 2026-04-02 | 2026-06-20 |

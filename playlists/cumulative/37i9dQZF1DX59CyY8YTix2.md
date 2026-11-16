@@ -4,7 +4,7 @@
 
 > 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: 35.7
 
-2,117 songs - 5 day 11 hr 1 min
+2,118 songs - 5 day 11 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -731,7 +731,7 @@
 | [PUKAPUKA](https://open.spotify.com/track/1r8ayvaFXkqsipf2wLQ69S) | [なきごと](https://open.spotify.com/artist/0TuzJGIGYfXb4jIlr4flYl) | [NAKIGOTO,](https://open.spotify.com/album/2yOcrZKDBPIGESP3Clk1Ax) | 3:25 | 2022-12-13 | 2023-01-14 |
 | [PUKAPUKA](https://open.spotify.com/track/34XEP2iAR98bY2KXDYjOjA) | [なきごと](https://open.spotify.com/artist/0TuzJGIGYfXb4jIlr4flYl) | [NAKIGOTO,](https://open.spotify.com/album/2OVSflRQ7zERLrLk3eAqmL) | 3:25 | 2023-01-12 | 2023-01-18 |
 | [Punk Rock Princess](https://open.spotify.com/track/6Bg2rAfxpfWtRYVykDeMv7) | [Dizzy Sunfist](https://open.spotify.com/artist/66TdubACxGacvormjPazAk) | [PUNK ROCK PRINCESS](https://open.spotify.com/album/5GL4N7eGn2Nr7rhvwRS3vY) | 2:12 | 2023-05-04 | 2023-06-07 |
-| [Pure \(feat\. Eriko Hashimoto\)](https://open.spotify.com/track/0qI9slgq5TJxNnkPFZcryt) | [PAS TASTA](https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS), [橋本絵莉子](https://open.spotify.com/artist/69k6tELwycdIAgvTInKNlM) | [Pure](https://open.spotify.com/album/38I9qOuRg17eRs0b8bgZCz) | 3:20 | 2026-01-27 |  |
+| [Pure \(feat\. Eriko Hashimoto\)](https://open.spotify.com/track/0qI9slgq5TJxNnkPFZcryt) | [PAS TASTA](https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS), [橋本絵莉子](https://open.spotify.com/artist/69k6tELwycdIAgvTInKNlM) | [Pure](https://open.spotify.com/album/38I9qOuRg17eRs0b8bgZCz) | 3:20 | 2026-01-27 | 2026-11-16 |
 | [Purple](https://open.spotify.com/track/10Ipr7AR8CGspcIERaSTNO) | [The Wisely Brothers](https://open.spotify.com/artist/11Cpz0a2etAGYbvCW6xLmb) | [THINK WISELY](https://open.spotify.com/album/6WdMLccynx5EqCuI8elJZ5) | 4:15 | 2022-10-11 | 2022-11-16 |
 | [Q&A](https://open.spotify.com/track/1LxBNrw3vXh6U87t8kV3l0) | [ソールドシュガー](https://open.spotify.com/artist/2g7ZNRIgwT0g7zRx3CrU28) | [Q&A](https://open.spotify.com/album/65XfFPPFiOGkYgrmMjSJcB) | 4:26 | 2022-06-02 | 2022-06-07 |
 | [QUEEN](https://open.spotify.com/track/0ifl6VeDZkAhEQtC1J1QBk) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [QUEEN](https://open.spotify.com/album/44LudOcruib8E2QoacG6I8) | 3:07 | 2024-10-15 |  |
@@ -1794,6 +1794,7 @@
 | [抜けていく](https://open.spotify.com/track/6Xes5DgfEgPlGKwIQwRVGQ) | [Inshow ha](https://open.spotify.com/artist/6oZfAOrVYegzxjJaaQ0LpA), [チアキ](https://open.spotify.com/artist/5BgZvhd8WV1wd3dChcjNK6) | [Through The Lonely Nights](https://open.spotify.com/album/07aGzvY0kMQTTWFuGu9WTV) | 4:34 | 2023-12-26 | 2024-01-10 |
 | [拝啓](https://open.spotify.com/track/47CyqBwdiNtf9VCPg1i6Ca) | [Hakubi](https://open.spotify.com/artist/1vgwCsZx2um1wmTgP5EkZj) | [拝啓](https://open.spotify.com/album/2mkKC4lBLlpXlkzuCbnLor) | 3:30 | 2023-08-08 | 2023-08-10 |
 | [挫けnight](https://open.spotify.com/track/13xt7BfIWGktHjF6XqazZS) | [気づいたら劇団](https://open.spotify.com/artist/0NOLzb4l1vfXEhITCKg7tP) | [ようこそ、気づいたら劇団](https://open.spotify.com/album/2Oe15Kj3qCuIBmoSflyPy1) | 2:53 | 2023-11-21 | 2023-11-29 |
+| [揺れてスカート](https://open.spotify.com/track/6jgu52TvyHqGGmUGWaWBwq) | [ちゃくら](https://open.spotify.com/artist/4y8KqtQgzRVDnQ072O7Vqr) | [揺れてスカート](https://open.spotify.com/album/6qlQUirtdVzFuMyoTLBPJW) | 3:08 | 2026-11-03 |  |
 | [揺れるほど](https://open.spotify.com/track/2mQ3FjjtqAQ8wcAM7nIa2v) | [うえきさくら](https://open.spotify.com/artist/0fAGpsxNmdwXYS0tBKvhtl) | [揺れるほど](https://open.spotify.com/album/4kqALkBsR2LoIigSr1XsTb) | 5:53 | 2024-05-21 | 2024-06-12 |
 | [故のLOVE](https://open.spotify.com/track/6vVKI6HXIsGssqGYGuKmF8) | [チョーキューメイ](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [LOVEの飽和水蒸気量](https://open.spotify.com/album/6ZVZ2hZV5bnFpLFQOqptuM) | 3:30 | 2023-01-24 | 2024-07-22 |
 | [敏感](https://open.spotify.com/track/4YPyhQj8nXCVL4oNV4ef5B) | [Inshow ha](https://open.spotify.com/artist/6oZfAOrVYegzxjJaaQ0LpA), [なかまきこ](https://open.spotify.com/artist/7aq5x0tdeZMA5THwHsYDUz) | [敏感](https://open.spotify.com/album/4mondnoMGMLlVTKUgoinCe) | 3:54 | 2023-11-21 | 2023-11-29 |

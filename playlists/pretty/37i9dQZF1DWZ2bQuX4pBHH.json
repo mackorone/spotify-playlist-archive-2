@@ -1,6 +1,6 @@
 {
   "description": "It's Shah Rukh Khan world, and we're just falling in love in it.",
-  "num_followers": 343744,
+  "num_followers": 343793,
   "original_name": "Shah Rukh Khan Hits",
   "owner": {
     "name": "Spotify",
@@ -507,22 +507,38 @@
     {
       "added_at": "2026-11-04 05:03:08",
       "album": {
-        "name": "Main Hoon Na",
-        "url": "https://open.spotify.com/album/2QyR1r0XwtvljXEZs9I3ge"
+        "name": "Pathaan",
+        "url": "https://open.spotify.com/album/2ooWY7xriwwyj23dAI32C2"
       },
       "artists": [
         {
-          "name": "Sonu Nigam",
-          "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
+          "name": "Vishal-Shekhar",
+          "url": "https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb"
         },
         {
-          "name": "Sabri Brothers",
-          "url": "https://open.spotify.com/artist/0sbtGmW8r5bxfXzla8a7eI"
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Sukriti Kakar",
+          "url": "https://open.spotify.com/artist/3FgHkfb3IqG4WKuVe1xCXM"
+        },
+        {
+          "name": "Vishal Dadlani",
+          "url": "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
+        },
+        {
+          "name": "Shekhar Ravjiani",
+          "url": "https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
         }
       ],
-      "duration_ms": 359253,
-      "name": "Tumse Milke Dil Ka",
-      "url": "https://open.spotify.com/track/1ax8ZuwRVkSdzzsIqyCNWQ"
+      "duration_ms": 208164,
+      "name": "Jhoome Jo Pathaan",
+      "url": "https://open.spotify.com/track/6FAYpZ4jve8vpvTwUvjK6H"
     },
     {
       "added_at": "2026-11-04 05:03:08",
@@ -563,38 +579,22 @@
     {
       "added_at": "2026-11-04 05:03:08",
       "album": {
-        "name": "Pathaan",
-        "url": "https://open.spotify.com/album/2ooWY7xriwwyj23dAI32C2"
+        "name": "Main Hoon Na",
+        "url": "https://open.spotify.com/album/2QyR1r0XwtvljXEZs9I3ge"
       },
       "artists": [
         {
-          "name": "Vishal-Shekhar",
-          "url": "https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb"
+          "name": "Sonu Nigam",
+          "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
         },
         {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-        },
-        {
-          "name": "Sukriti Kakar",
-          "url": "https://open.spotify.com/artist/3FgHkfb3IqG4WKuVe1xCXM"
-        },
-        {
-          "name": "Vishal Dadlani",
-          "url": "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
-        },
-        {
-          "name": "Shekhar Ravjiani",
-          "url": "https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw"
-        },
-        {
-          "name": "Kumaar",
-          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
+          "name": "Sabri Brothers",
+          "url": "https://open.spotify.com/artist/0sbtGmW8r5bxfXzla8a7eI"
         }
       ],
-      "duration_ms": 208164,
-      "name": "Jhoome Jo Pathaan",
-      "url": "https://open.spotify.com/track/6FAYpZ4jve8vpvTwUvjK6H"
+      "duration_ms": 359253,
+      "name": "Tumse Milke Dil Ka",
+      "url": "https://open.spotify.com/track/1ax8ZuwRVkSdzzsIqyCNWQ"
     },
     {
       "added_at": "2026-11-04 05:03:08",
@@ -1059,26 +1059,6 @@
     {
       "added_at": "2026-11-04 05:03:08",
       "album": {
-        "name": "Yes Boss (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4f0ooiboxVpTb7Y1jI5WH8"
-      },
-      "artists": [
-        {
-          "name": "Kumar Sanu",
-          "url": "https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn"
-        },
-        {
-          "name": "Alka Yagnik",
-          "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
-        }
-      ],
-      "duration_ms": 266066,
-      "name": "Ek Din Aap",
-      "url": "https://open.spotify.com/track/5fq7CGNYZKJm38HbLwMg9h"
-    },
-    {
-      "added_at": "2026-11-04 05:03:08",
-      "album": {
         "name": "Dilwale Dulhania Le Jayenge",
         "url": "https://open.spotify.com/album/3Z7oFffem6DRMmaVfEvm9B"
       },
@@ -1095,6 +1075,26 @@
       "duration_ms": 286694,
       "name": "Mehndi Laga Ke Rakhna",
       "url": "https://open.spotify.com/track/1bqMVta76huBpSIzTIrDM0"
+    },
+    {
+      "added_at": "2026-11-04 05:03:08",
+      "album": {
+        "name": "Yes Boss (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4f0ooiboxVpTb7Y1jI5WH8"
+      },
+      "artists": [
+        {
+          "name": "Kumar Sanu",
+          "url": "https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn"
+        },
+        {
+          "name": "Alka Yagnik",
+          "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
+        }
+      ],
+      "duration_ms": 266066,
+      "name": "Ek Din Aap",
+      "url": "https://open.spotify.com/track/5fq7CGNYZKJm38HbLwMg9h"
     },
     {
       "added_at": "2026-11-04 05:03:08",

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/21JhxcGHq3awKEjLrsnRD8">Emily Weisband</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-223 songs - 12 hr 30 min
+224 songs - 12 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,6 +213,7 @@
 | [Thy Will](https://open.spotify.com/track/1V3eyBz3pfkn9lBOlfle4x) | [Hillary Scott](https://open.spotify.com/artist/0Sk6yoUQnccty5iMhVhz9D), [Hillary Scott & The Scott Family](https://open.spotify.com/artist/4EVSOMkocOlqAZ9ujkGrQR) | [Love Remains](https://open.spotify.com/album/4eZL2PZL6UiFWrj6JAVTLJ) | 3:56 | 2026-05-19 |  |
 | [To Be Honest](https://open.spotify.com/track/5TFu4FGmslo543UyEuxS9l) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [to be honest](https://open.spotify.com/album/3m59dkD0z3TuzwwZSEGt25) | 3:25 | 2026-05-19 |  |
 | [Tomorrow](https://open.spotify.com/track/583bcrSG5vru3H4Lru9dQa) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Thank You](https://open.spotify.com/album/3IHDaf8CClvaSdgrewRPjl) | 3:23 | 2026-05-19 |  |
+| [TOUGH ACT TO FOLLOW](https://open.spotify.com/track/6UNYxJ3tYP0NOghZCAiKuB) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [TOUGH ACT TO FOLLOW](https://open.spotify.com/album/6sEddEBgaoufGwSBTRGD4i) | 3:16 | 2026-11-15 |  |
 | [Trigger](https://open.spotify.com/track/0OB3ICjuYVoojKIv46N9CH) | [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n) | [WildHorse](https://open.spotify.com/album/12TcV1G3QfZ48XweN8kyp4) | 2:55 | 2026-05-19 |  |
 | [Trust You \- with Emily Weisband](https://open.spotify.com/track/5nApMDFzAX1yg8rKCmTjfq) | [Ross Copperman](https://open.spotify.com/artist/5nHR37FDSU4I0QQta0AZ1C), [Emily Weisband](https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n) | [Trust You \(with Emily Weisband\)](https://open.spotify.com/album/2QLlIALXN4iTQP9ecqRhcy) | 2:42 | 2026-05-19 |  |
 | [Trying](https://open.spotify.com/track/2mWp5olnLmpzAReIGK18dA) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Buy Dirt](https://open.spotify.com/album/2y9DFhTWC7QQJMvygK0TzO) | 2:56 | 2026-05-19 |  |

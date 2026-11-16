@@ -1,6 +1,6 @@
 {
   "description": "Songs you love with an indie spin on it. Cover: Blondshell",
-  "num_followers": 304871,
+  "num_followers": 304877,
   "original_name": "Indie Covers",
   "owner": {
     "name": "Spotify",
@@ -591,22 +591,6 @@
     {
       "added_at": "2026-03-06 05:00:19",
       "album": {
-        "name": "Lotta Love",
-        "url": "https://open.spotify.com/album/0oVhAs8HZP3UE1G3ptBBa0"
-      },
-      "artists": [
-        {
-          "name": "Courtney Barnett",
-          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
-        }
-      ],
-      "duration_ms": 169610,
-      "name": "Lotta Love",
-      "url": "https://open.spotify.com/track/2n9y3UtCDmRUD94jlPTJCz"
-    },
-    {
-      "added_at": "2026-03-06 05:00:19",
-      "album": {
         "name": "Industry Baby",
         "url": "https://open.spotify.com/album/5T8h52l8nVMqPSGq52Q8kq"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 231381,
       "name": "Industry Baby",
       "url": "https://open.spotify.com/track/0ypcpkYOckOLxySl4m69gM"
+    },
+    {
+      "added_at": "2026-03-06 05:00:19",
+      "album": {
+        "name": "Lotta Love",
+        "url": "https://open.spotify.com/album/0oVhAs8HZP3UE1G3ptBBa0"
+      },
+      "artists": [
+        {
+          "name": "Courtney Barnett",
+          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
+        }
+      ],
+      "duration_ms": 169610,
+      "name": "Lotta Love",
+      "url": "https://open.spotify.com/track/2n9y3UtCDmRUD94jlPTJCz"
     },
     {
       "added_at": "2026-03-06 05:00:19",
@@ -847,6 +847,22 @@
     {
       "added_at": "2026-03-06 05:00:19",
       "album": {
+        "name": "Put Your Head On My Shoulder",
+        "url": "https://open.spotify.com/album/2FmUCUROgEVXZB1FBFjVCc"
+      },
+      "artists": [
+        {
+          "name": "Solya",
+          "url": "https://open.spotify.com/artist/4q2k0Txoo06ZQ41MWnQMza"
+        }
+      ],
+      "duration_ms": 151649,
+      "name": "Put Your Head On My Shoulder",
+      "url": "https://open.spotify.com/track/2FlU4KkUdASLidKT7bo47p"
+    },
+    {
+      "added_at": "2026-03-06 05:00:19",
+      "album": {
         "name": "Different Now",
         "url": "https://open.spotify.com/album/7AKbVhsHqz4enFZBTsJe4n"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 265772,
       "name": "Different Now",
       "url": "https://open.spotify.com/track/1J0aTXvZG634UfviOVGMi5"
-    },
-    {
-      "added_at": "2026-03-06 05:00:19",
-      "album": {
-        "name": "Put Your Head On My Shoulder",
-        "url": "https://open.spotify.com/album/2FmUCUROgEVXZB1FBFjVCc"
-      },
-      "artists": [
-        {
-          "name": "Solya",
-          "url": "https://open.spotify.com/artist/4q2k0Txoo06ZQ41MWnQMza"
-        }
-      ],
-      "duration_ms": 151649,
-      "name": "Put Your Head On My Shoulder",
-      "url": "https://open.spotify.com/track/2FlU4KkUdASLidKT7bo47p"
     },
     {
       "added_at": "2026-03-06 05:00:19",
@@ -935,26 +935,6 @@
     {
       "added_at": "2026-03-06 05:00:19",
       "album": {
-        "name": "Horror Show",
-        "url": "https://open.spotify.com/album/2Qse49swFybD2LtrWM5kTq"
-      },
-      "artists": [
-        {
-          "name": "The Midnight",
-          "url": "https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw"
-        },
-        {
-          "name": "Nikki Flores",
-          "url": "https://open.spotify.com/artist/21q45xu51WtV5Td6ZBJHiB"
-        }
-      ],
-      "duration_ms": 216440,
-      "name": "Because The Night",
-      "url": "https://open.spotify.com/track/32xJ7Ays4uyxMuZFxfH0Zj"
-    },
-    {
-      "added_at": "2026-03-06 05:00:19",
-      "album": {
         "name": "Pure Shores",
         "url": "https://open.spotify.com/album/486DSBXpSuq1Zd7tsTQhkZ"
       },
@@ -987,6 +967,26 @@
     {
       "added_at": "2026-03-06 05:00:19",
       "album": {
+        "name": "Horror Show",
+        "url": "https://open.spotify.com/album/2Qse49swFybD2LtrWM5kTq"
+      },
+      "artists": [
+        {
+          "name": "The Midnight",
+          "url": "https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw"
+        },
+        {
+          "name": "Nikki Flores",
+          "url": "https://open.spotify.com/artist/21q45xu51WtV5Td6ZBJHiB"
+        }
+      ],
+      "duration_ms": 216440,
+      "name": "Because The Night",
+      "url": "https://open.spotify.com/track/32xJ7Ays4uyxMuZFxfH0Zj"
+    },
+    {
+      "added_at": "2026-03-06 05:00:19",
+      "album": {
         "name": "Riptide",
         "url": "https://open.spotify.com/album/746wjyF8LAeRWH7pBGDO9S"
       },
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2026-03-06 05:00:19",
       "album": {
-        "name": "The Ballad of the Witches' Road (Pop Version) [From \"Agatha All Along\"]",
-        "url": "https://open.spotify.com/album/5JrcjA3eetOUQ5bUbKfjVm"
-      },
-      "artists": [
-        {
-          "name": "Japanese Breakfast",
-          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
-        }
-      ],
-      "duration_ms": 151395,
-      "name": "The Ballad of the Witches' Road (Pop Version) - From \"Agatha All Along\"/Soundtrack Version",
-      "url": "https://open.spotify.com/track/7v3chKWVHNbrGACa8ilNeP"
-    },
-    {
-      "added_at": "2026-03-06 05:00:19",
-      "album": {
         "name": "Float On",
         "url": "https://open.spotify.com/album/7r66RwoqENhVVxQ1vonlgb"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 176853,
       "name": "Float On",
       "url": "https://open.spotify.com/track/2ymifjFHCi1myYA58sHI4v"
+    },
+    {
+      "added_at": "2026-03-06 05:00:19",
+      "album": {
+        "name": "The Ballad of the Witches' Road (Pop Version) [From \"Agatha All Along\"]",
+        "url": "https://open.spotify.com/album/5JrcjA3eetOUQ5bUbKfjVm"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "duration_ms": 151395,
+      "name": "The Ballad of the Witches' Road (Pop Version) - From \"Agatha All Along\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/7v3chKWVHNbrGACa8ilNeP"
     },
     {
       "added_at": "2026-03-06 05:00:19",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2026-03-06 05:00:19",
       "album": {
+        "name": "Candid",
+        "url": "https://open.spotify.com/album/02b3E6hkZ8TslA7nDnrrb2"
+      },
+      "artists": [
+        {
+          "name": "Whitney",
+          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
+        }
+      ],
+      "duration_ms": 206995,
+      "name": "Strange Overtones",
+      "url": "https://open.spotify.com/track/5aHpXbgh3lZlUPJ1iqaczp"
+    },
+    {
+      "added_at": "2026-03-06 05:00:19",
+      "album": {
         "name": "Line of Fire (feat. Sharon Van Etten)",
         "url": "https://open.spotify.com/album/4pgWogA2n0iyzIGREcGy0Y"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 338733,
       "name": "Line of Fire (feat. Sharon Van Etten)",
       "url": "https://open.spotify.com/track/7gaEtTnfbMI7xjqbc0VQeS"
-    },
-    {
-      "added_at": "2026-03-06 05:00:19",
-      "album": {
-        "name": "Candid",
-        "url": "https://open.spotify.com/album/02b3E6hkZ8TslA7nDnrrb2"
-      },
-      "artists": [
-        {
-          "name": "Whitney",
-          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
-        }
-      ],
-      "duration_ms": 206995,
-      "name": "Strange Overtones",
-      "url": "https://open.spotify.com/track/5aHpXbgh3lZlUPJ1iqaczp"
     },
     {
       "added_at": "2026-03-06 05:00:19",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2026-03-06 05:00:19",
       "album": {
-        "name": "No Surprises",
-        "url": "https://open.spotify.com/album/4h8UfmHaGPZDivrHVOjAQi"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 215200,
-      "name": "No Surprises",
-      "url": "https://open.spotify.com/track/4eXOqmr69p5v8mztsEeO1R"
-    },
-    {
-      "added_at": "2026-03-06 05:00:19",
-      "album": {
         "name": "Let's Dance to Joy Division",
         "url": "https://open.spotify.com/album/72w9n6hWEOWE5QrMqrmJv8"
       },
@@ -1611,6 +1595,22 @@
     {
       "added_at": "2026-03-06 05:00:19",
       "album": {
+        "name": "No Surprises",
+        "url": "https://open.spotify.com/album/4h8UfmHaGPZDivrHVOjAQi"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 215200,
+      "name": "No Surprises",
+      "url": "https://open.spotify.com/track/4eXOqmr69p5v8mztsEeO1R"
+    },
+    {
+      "added_at": "2026-03-06 05:00:19",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1dP5gqcehoHp1lqAr8z2Yp"
       },
@@ -1623,6 +1623,26 @@
       "duration_ms": 182065,
       "name": "Need You Tonight - Spotify Singles",
       "url": "https://open.spotify.com/track/7HgqTzNm5MRVaesALaDz63"
+    },
+    {
+      "added_at": "2026-03-06 05:00:19",
+      "album": {
+        "name": "2000 Miles (from \"Oh. What. Fun.\")",
+        "url": "https://open.spotify.com/album/4THFp0pVKS4HCMUMDrTJYe"
+      },
+      "artists": [
+        {
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+        },
+        {
+          "name": "Oh. What. Fun.",
+          "url": "https://open.spotify.com/artist/5VYSkRVd4ZrQo12YhB3t7S"
+        }
+      ],
+      "duration_ms": 189372,
+      "name": "2000 Miles (from \"Oh. What. Fun.\")",
+      "url": "https://open.spotify.com/track/1CmWAnDKY4W13XRH6dC5XX"
     },
     {
       "added_at": "2026-03-06 05:00:19",
@@ -1671,26 +1691,6 @@
       "duration_ms": 234624,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/0tueLq12kgxw1s7Wd0WfIF"
-    },
-    {
-      "added_at": "2026-03-06 05:00:19",
-      "album": {
-        "name": "2000 Miles (from \"Oh. What. Fun.\")",
-        "url": "https://open.spotify.com/album/4THFp0pVKS4HCMUMDrTJYe"
-      },
-      "artists": [
-        {
-          "name": "Sharon Van Etten",
-          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
-        },
-        {
-          "name": "Oh. What. Fun.",
-          "url": "https://open.spotify.com/artist/5VYSkRVd4ZrQo12YhB3t7S"
-        }
-      ],
-      "duration_ms": 189372,
-      "name": "2000 Miles (from \"Oh. What. Fun.\")",
-      "url": "https://open.spotify.com/track/1CmWAnDKY4W13XRH6dC5XX"
     },
     {
       "added_at": "2026-03-06 05:00:19",

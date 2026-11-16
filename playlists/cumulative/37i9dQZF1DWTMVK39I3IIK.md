@@ -4,7 +4,7 @@
 
 > unge kniv 🔪 @Albert
 
-487 songs - 1 day 1 hr 0 min
+488 songs - 1 day 1 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,6 +195,7 @@
 | [Hvad Med Mig](https://open.spotify.com/track/7vdrHqdOQ7TuZSngyiIiTx) | [August Høyen](https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm) | [August](https://open.spotify.com/album/3pPCyjrhrxAO7PC4JI2STb) | 3:15 | 2024-08-29 |  |
 | [Hvad Nu Hvis](https://open.spotify.com/track/0duVSc8MQzBa1mbcDel12P) | [Ella Augusta](https://open.spotify.com/artist/77Y8znH6FsXmoGzwxbFlOz) | [Sytten](https://open.spotify.com/album/0GI9UH21kp6Gp2dEwrll0J) | 3:14 | 2024-06-27 | 2026-08-15 |
 | [Hvad Skulle Jeg Gøre Uden Dig](https://open.spotify.com/track/4PejgbI6KITxcOV89OHRt3) | [Sira Jovina](https://open.spotify.com/artist/6J9AFauvtJJ8brNaiWwWat) | [Hvad Skulle Jeg Gøre Uden Dig](https://open.spotify.com/album/6qO89wFyHbBDTiayGAmhFl) | 2:49 | 2025-04-07 | 2025-06-13 |
+| [Hvem Ved](https://open.spotify.com/track/2JDX7Ix4o73gyu28j1kqf8) | [Bette](https://open.spotify.com/artist/4gepV1NXit1T15YxX0Bv27) | [Ex](https://open.spotify.com/album/2WbVqZz1QNnaBThiOEgbQY) | 2:07 | 2026-11-13 |  |
 | [hver tredje tanke](https://open.spotify.com/track/2NvlPjW8lqMmTSLahIBH6J) | [efterglød](https://open.spotify.com/artist/12ilOlZgqYHKwSkeBWMly3) | [hver tredje tanke](https://open.spotify.com/album/3HPzIP54YDXelJvcXaHPqJ) | 2:48 | 2025-10-16 | 2025-11-01 |
 | [Hvis jeg ku'](https://open.spotify.com/track/74eJCVzPl499tMbiD8FpRM) | [Mona Moroni](https://open.spotify.com/artist/38PAFXQi0atIV2ztzlIdAS) | [Hvis jeg ku'](https://open.spotify.com/album/3kNHoFmsaqrnd0cPtlKM3c) | 3:49 | 2025-12-19 |  |
 | [Hvor du er](https://open.spotify.com/track/5WsRf49ETqbpwOTBcufFbQ) | [dreng&piger](https://open.spotify.com/artist/07JRf49TUGMnobtGeXPY73) | [Hvor du er](https://open.spotify.com/album/5827zWSldtqm71hwFcsQml) | 2:25 | 2026-08-28 |  |
@@ -331,7 +332,7 @@
 | [Postponement](https://open.spotify.com/track/22sWZmIc99HEFcX72GrjQt) | [Yvonnes](https://open.spotify.com/artist/6Zv72Nagsr9RjZYNSD4K4p) | [Postponements](https://open.spotify.com/album/1LSaYxhMy4xppaDit5Dbsc) | 2:59 | 2026-10-08 | 2026-10-24 |
 | [Pretty When I Cry](https://open.spotify.com/track/0NzUJ9Cm11emUvPzP7m0w1) | [Johanne Rosen](https://open.spotify.com/artist/3fDUHxQhNCg1E5pH7o13ph) | [Pretty When I Cry](https://open.spotify.com/album/1DXMET9Q9sSG6FakBVPb3j) | 3:04 | 2025-07-17 | 2025-07-25 |
 | [PRINCESS](https://open.spotify.com/track/1rfscPpZJO9r89WXN6ABU9) | [Amna Naseer](https://open.spotify.com/artist/1SgTaDWOR4enMcVASjuBcV) | [PRINCESS](https://open.spotify.com/album/3C6pXaV8U9U90CLrsxT6hJ) | 2:57 | 2025-11-13 | 2025-11-15 |
-| [Problemer](https://open.spotify.com/track/2elCXyOU2SMMBYGvSX1wkC) | [Liv](https://open.spotify.com/artist/5lABIzayBt7HcqN1LJmtGA) | [Problemer](https://open.spotify.com/album/2G63NKfJzkMw6mGRObmhOf) | 3:11 | 2026-10-08 |  |
+| [Problemer](https://open.spotify.com/track/2elCXyOU2SMMBYGvSX1wkC) | [Liv](https://open.spotify.com/artist/5lABIzayBt7HcqN1LJmtGA) | [Problemer](https://open.spotify.com/album/2G63NKfJzkMw6mGRObmhOf) | 3:11 | 2026-10-08 | 2026-11-16 |
 | [promise to pick up the phone](https://open.spotify.com/track/4OkHozB0MJuzeFiHRU2CFC) | [eee gee](https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN) | [SHE\-REX](https://open.spotify.com/album/0ioNHVLud9ieI0626t0RP9) | 3:52 | 2024-06-27 | 2025-04-11 |
 | [Provinsbørn \(feat\. Mathias Ranch\)](https://open.spotify.com/track/1Hqecy8J7ZLdjNiTBeBp92) | [USSEL](https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp), [Mathias Ranch](https://open.spotify.com/artist/1mWocDhzyzvNZJD0T2poQ8) | [Provinsbørn \(feat\. Mathias Ranch\)](https://open.spotify.com/album/5NW9UGa5mJSusgy8cPuAad) | 3:41 | 2026-08-28 | 2026-11-15 |
 | [Puff](https://open.spotify.com/track/3s3jW8NmP4eLUz32sGxCPa) | [Dopha](https://open.spotify.com/artist/7KNTK1VIkAqbjrFWGhYSwn) | [Puff](https://open.spotify.com/album/7Jn6iY8Vr6OsJ4AkqYd88E) | 3:19 | 2024-06-27 | 2024-09-29 |

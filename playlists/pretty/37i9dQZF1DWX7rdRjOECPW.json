@@ -1,6 +1,6 @@
 {
   "description": "Sommer, Sonne, Sommerhits \ud83d\ude42\u200d\u2194\ufe0f",
-  "num_followers": 1578883,
+  "num_followers": 1578731,
   "original_name": "Sommerhits 2026",
   "owner": {
     "name": "Spotify",
@@ -799,26 +799,6 @@
     {
       "added_at": "2026-08-06 22:01:13",
       "album": {
-        "name": "KILLY MANJARO",
-        "url": "https://open.spotify.com/album/2iYCjwIYCULB69wNmigHlg"
-      },
-      "artists": [
-        {
-          "name": "Summer Cem",
-          "url": "https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg"
-        },
-        {
-          "name": "BILLA JOE",
-          "url": "https://open.spotify.com/artist/72y6W9pGy97xTM44dwy3F6"
-        }
-      ],
-      "duration_ms": 146133,
-      "name": "KILLY MANJARO",
-      "url": "https://open.spotify.com/track/4rcQuHo8PhGshmvEVJZ4T5"
-    },
-    {
-      "added_at": "2026-08-06 22:01:13",
-      "album": {
         "name": "Soleil Bleu",
         "url": "https://open.spotify.com/album/2WxTQ8aChxbPZB6RphhXtA"
       },
@@ -835,6 +815,26 @@
       "duration_ms": 246000,
       "name": "Soleil Bleu",
       "url": "https://open.spotify.com/track/7xWvRVssTTECvWCDNgCzSH"
+    },
+    {
+      "added_at": "2026-08-06 22:01:13",
+      "album": {
+        "name": "KILLY MANJARO",
+        "url": "https://open.spotify.com/album/2iYCjwIYCULB69wNmigHlg"
+      },
+      "artists": [
+        {
+          "name": "Summer Cem",
+          "url": "https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg"
+        },
+        {
+          "name": "BILLA JOE",
+          "url": "https://open.spotify.com/artist/72y6W9pGy97xTM44dwy3F6"
+        }
+      ],
+      "duration_ms": 146133,
+      "name": "KILLY MANJARO",
+      "url": "https://open.spotify.com/track/4rcQuHo8PhGshmvEVJZ4T5"
     },
     {
       "added_at": "2026-08-06 22:01:13",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2026-08-06 22:01:13",
       "album": {
+        "name": "call me back",
+        "url": "https://open.spotify.com/album/22koXUTCFwgnWoeJSFizT1"
+      },
+      "artists": [
+        {
+          "name": "Ordinary Kid",
+          "url": "https://open.spotify.com/artist/5VT2f9Mtql9jsOPrLefzP9"
+        }
+      ],
+      "duration_ms": 114906,
+      "name": "call me back",
+      "url": "https://open.spotify.com/track/5oBuuXTgVVLuIYaJlELm0f"
+    },
+    {
+      "added_at": "2026-08-06 22:01:13",
+      "album": {
         "name": "Take My Mind",
         "url": "https://open.spotify.com/album/5Jrwoi3hNDkcSVJisOQFAP"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 171199,
       "name": "Take My Mind",
       "url": "https://open.spotify.com/track/3bB97PIqXf7WtkKeuYuXFS"
-    },
-    {
-      "added_at": "2026-08-06 22:01:13",
-      "album": {
-        "name": "call me back",
-        "url": "https://open.spotify.com/album/22koXUTCFwgnWoeJSFizT1"
-      },
-      "artists": [
-        {
-          "name": "Ordinary Kid",
-          "url": "https://open.spotify.com/artist/5VT2f9Mtql9jsOPrLefzP9"
-        }
-      ],
-      "duration_ms": 114906,
-      "name": "call me back",
-      "url": "https://open.spotify.com/track/5oBuuXTgVVLuIYaJlELm0f"
     },
     {
       "added_at": "2026-08-06 22:01:13",

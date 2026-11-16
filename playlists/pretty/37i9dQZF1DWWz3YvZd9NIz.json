@@ -1,6 +1,6 @@
 {
   "description": "The best hardstyle remixes of songs you know!",
-  "num_followers": 236616,
+  "num_followers": 236629,
   "original_name": "Hardstyle Remixes of Popular Songs",
   "owner": {
     "name": "Spotify",
@@ -1031,6 +1031,26 @@
     {
       "added_at": "2026-10-12 22:00:44",
       "album": {
+        "name": "Daddy DJ",
+        "url": "https://open.spotify.com/album/6Fp2vEjNNadaQMw0JgbFCZ"
+      },
+      "artists": [
+        {
+          "name": "Jordiz",
+          "url": "https://open.spotify.com/artist/5xUW4ugFxRJtCe7RLIdKvV"
+        },
+        {
+          "name": "Karlie Chui",
+          "url": "https://open.spotify.com/artist/3DRMPNs23drO22bqK9ceWA"
+        }
+      ],
+      "duration_ms": 222400,
+      "name": "Daddy DJ",
+      "url": "https://open.spotify.com/track/2Rq69o9Sim7evcQ382ylPR"
+    },
+    {
+      "added_at": "2026-10-12 22:00:44",
+      "album": {
         "name": "The Sinner",
         "url": "https://open.spotify.com/album/0i17sHHGhyA9OSAPhwnYkH"
       },
@@ -1055,22 +1075,6 @@
     {
       "added_at": "2026-10-12 22:00:44",
       "album": {
-        "name": "Cry For You",
-        "url": "https://open.spotify.com/album/3ETkl7tsz902xmWHA9yljQ"
-      },
-      "artists": [
-        {
-          "name": "Bloodlust",
-          "url": "https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp"
-        }
-      ],
-      "duration_ms": 168607,
-      "name": "Cry For You",
-      "url": "https://open.spotify.com/track/1RiqdvtgfR0yI6oj60AgiJ"
-    },
-    {
-      "added_at": "2026-10-12 22:00:44",
-      "album": {
         "name": "Euphoria (Hardstyle Edit)",
         "url": "https://open.spotify.com/album/32FQWGoFHpoAlwtvNF0J3Z"
       },
@@ -1087,22 +1091,18 @@
     {
       "added_at": "2026-10-12 22:00:44",
       "album": {
-        "name": "Daddy DJ",
-        "url": "https://open.spotify.com/album/6Fp2vEjNNadaQMw0JgbFCZ"
+        "name": "Cry For You",
+        "url": "https://open.spotify.com/album/3ETkl7tsz902xmWHA9yljQ"
       },
       "artists": [
         {
-          "name": "Jordiz",
-          "url": "https://open.spotify.com/artist/5xUW4ugFxRJtCe7RLIdKvV"
-        },
-        {
-          "name": "Karlie Chui",
-          "url": "https://open.spotify.com/artist/3DRMPNs23drO22bqK9ceWA"
+          "name": "Bloodlust",
+          "url": "https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp"
         }
       ],
-      "duration_ms": 222400,
-      "name": "Daddy DJ",
-      "url": "https://open.spotify.com/track/2Rq69o9Sim7evcQ382ylPR"
+      "duration_ms": 168607,
+      "name": "Cry For You",
+      "url": "https://open.spotify.com/track/1RiqdvtgfR0yI6oj60AgiJ"
     },
     {
       "added_at": "2026-10-12 22:00:44",

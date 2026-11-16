@@ -1,12 +1,12 @@
 {
   "description": "www.upmusicpromotion.com &#x2F; IG: @upmusic_promotion &#x2F; promo@upmusicpromotion.com ",
-  "num_followers": 547,
+  "num_followers": 548,
   "original_name": "Top Hits 2026 \ud83d\udd25 Best Songs Right Now, Chart Hits, Pop & R&B Hits",
   "owner": {
     "name": "UP Music ProMotion",
     "url": "https://open.spotify.com/user/11141650175"
   },
-  "snapshot_id": "AAAClyhcryeV4oL+v1XLl4P6ko7tg4qD",
+  "snapshot_id": "AAACmfghoPj5/tJCNRJeQTCd05DQZNt+",
   "tracks": [
     {
       "added_at": "2026-10-07 15:07:55",
@@ -871,6 +871,42 @@
       "duration_ms": 231479,
       "name": "Oro e Argento",
       "url": "https://open.spotify.com/track/4aaZkRpRoEni1QFDOUsAkw"
+    },
+    {
+      "added_at": "2026-11-15 19:12:51",
+      "album": {
+        "name": "2K",
+        "url": "https://open.spotify.com/album/6PKujXeSxhINs9eGi1R7cv"
+      },
+      "artists": [
+        {
+          "name": "Djcoco",
+          "url": "https://open.spotify.com/artist/3S93elFkdnyzRxMVrexWNY"
+        }
+      ],
+      "duration_ms": 187301,
+      "name": "2K",
+      "url": "https://open.spotify.com/track/3rjhhaW7LJDm89QSVYllm9"
+    },
+    {
+      "added_at": "2026-11-15 19:13:08",
+      "album": {
+        "name": "By All Means",
+        "url": "https://open.spotify.com/album/19QJO68vLhLR2Jm0fl58Qj"
+      },
+      "artists": [
+        {
+          "name": "Birgitte And The Dusty Trails",
+          "url": "https://open.spotify.com/artist/6VfH4YCvgDclCiYLJhk8zc"
+        },
+        {
+          "name": "Emma Birgitte Ovlien",
+          "url": "https://open.spotify.com/artist/10ooU0BJqSyHNTaW49tCfE"
+        }
+      ],
+      "duration_ms": 201920,
+      "name": "By All Means",
+      "url": "https://open.spotify.com/track/6ZlwOKl1epw066iFNjilEh"
     }
   ],
   "unique_name": "Top Hits 2026 \ud83d\udd25 Best Songs Right Now, Chart Hits, Pop & R&B Hits",

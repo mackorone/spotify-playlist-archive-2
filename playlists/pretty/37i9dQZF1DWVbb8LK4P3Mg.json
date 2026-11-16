@@ -1,6 +1,6 @@
 {
   "description": "Enjoy the wonderful holiday season with K-Pop! (Cover: aespa, Eartha Kitt)",
-  "num_followers": 152084,
+  "num_followers": 152181,
   "original_name": "Christmas K-Pop (\ud06c\ub9ac\uc2a4\ub9c8\uc2a4 \ucf00\uc774\ud31d)",
   "owner": {
     "name": "Spotify",
@@ -379,6 +379,22 @@
     {
       "added_at": "2026-11-13 05:15:19",
       "album": {
+        "name": "Jingle Bell Rock",
+        "url": "https://open.spotify.com/album/7dSaBwUid0hjWdJ5QzIKyu"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 130613,
+      "name": "Jingle Bell Rock",
+      "url": "https://open.spotify.com/track/0ijCESscFXtRc0dtDgu1Uv"
+    },
+    {
+      "added_at": "2026-11-13 05:15:19",
+      "album": {
         "name": "SHOW ME THE MONEY 11 Episode 3",
         "url": "https://open.spotify.com/album/5LsGOvNXMG46qugdghRGRF"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 234839,
       "name": "EYE (Feat. BIG Naughty, JUSTHIS) (Prod. R.Tee)",
       "url": "https://open.spotify.com/track/20JkEhlKCrKtzORT5qDdWE"
-    },
-    {
-      "added_at": "2026-11-13 05:15:19",
-      "album": {
-        "name": "Jingle Bell Rock",
-        "url": "https://open.spotify.com/album/7dSaBwUid0hjWdJ5QzIKyu"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        }
-      ],
-      "duration_ms": 130613,
-      "name": "Jingle Bell Rock",
-      "url": "https://open.spotify.com/track/0ijCESscFXtRc0dtDgu1Uv"
     },
     {
       "added_at": "2026-11-13 05:15:19",
@@ -547,22 +547,6 @@
     {
       "added_at": "2026-11-13 05:15:19",
       "album": {
-        "name": "SEASONS",
-        "url": "https://open.spotify.com/album/18VqntcpIxlNqJerVxFHTD"
-      },
-      "artists": [
-        {
-          "name": "JUNNY",
-          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
-        }
-      ],
-      "duration_ms": 211425,
-      "name": "SEASONS",
-      "url": "https://open.spotify.com/track/10OEQdjmXQythIMxOWK3GE"
-    },
-    {
-      "added_at": "2026-11-13 05:15:19",
-      "album": {
         "name": "Shin Wooseok's Urban Fairy Tale EP.1 'The Christmas Song'",
         "url": "https://open.spotify.com/album/7MJZs2gPJpAkFdtXQRszOI"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 296000,
       "name": "THE CHRISTMAS SONG",
       "url": "https://open.spotify.com/track/3uelQTzMtqO2wP8CALVYGS"
+    },
+    {
+      "added_at": "2026-11-13 05:15:19",
+      "album": {
+        "name": "SEASONS",
+        "url": "https://open.spotify.com/album/18VqntcpIxlNqJerVxFHTD"
+      },
+      "artists": [
+        {
+          "name": "JUNNY",
+          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
+        }
+      ],
+      "duration_ms": 211425,
+      "name": "SEASONS",
+      "url": "https://open.spotify.com/track/10OEQdjmXQythIMxOWK3GE"
     },
     {
       "added_at": "2026-11-13 05:15:19",
@@ -811,6 +811,42 @@
     {
       "added_at": "2026-11-13 05:15:19",
       "album": {
+        "name": "Lonely Christmas",
+        "url": "https://open.spotify.com/album/6EdZ5jg5tJ0vV97VzXFG7a"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "duration_ms": 217866,
+      "name": "Lonely Christmas",
+      "url": "https://open.spotify.com/track/2vJP8zpSkssJjuddm63jyS"
+    },
+    {
+      "added_at": "2026-11-13 05:15:19",
+      "album": {
+        "name": "Peppermint Tea",
+        "url": "https://open.spotify.com/album/4KIcPdqYeP6PIvzGvJGcVZ"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kang",
+          "url": "https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj"
+        },
+        {
+          "name": "Sam Ock",
+          "url": "https://open.spotify.com/artist/0823FxAYBXOeMTOWPeH9HH"
+        }
+      ],
+      "duration_ms": 211933,
+      "name": "Mr. Snowman",
+      "url": "https://open.spotify.com/track/1Bo4rmJ5bFUcq03tjJY98H"
+    },
+    {
+      "added_at": "2026-11-13 05:15:19",
+      "album": {
         "name": "Wish to Wish",
         "url": "https://open.spotify.com/album/6DmYT4XWlTpyQqKD7Z3rkx"
       },
@@ -823,6 +859,22 @@
       "duration_ms": 217000,
       "name": "Wish to Wish",
       "url": "https://open.spotify.com/track/6h49pP33Is5rIPyn70nKzt"
+    },
+    {
+      "added_at": "2026-11-13 05:15:19",
+      "album": {
+        "name": "This Christmas \u2013 Winter is Coming",
+        "url": "https://open.spotify.com/album/1U3KyC9Key12NSi9ETVExx"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "duration_ms": 215101,
+      "name": "I'm all ears",
+      "url": "https://open.spotify.com/track/7KJUpJgGaQTdSq3L5StCfi"
     },
     {
       "added_at": "2026-11-13 05:15:19",
@@ -847,38 +899,6 @@
     {
       "added_at": "2026-11-13 05:15:19",
       "album": {
-        "name": "Lonely Christmas",
-        "url": "https://open.spotify.com/album/6EdZ5jg5tJ0vV97VzXFG7a"
-      },
-      "artists": [
-        {
-          "name": "MONSTA X",
-          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
-        }
-      ],
-      "duration_ms": 217866,
-      "name": "Lonely Christmas",
-      "url": "https://open.spotify.com/track/2vJP8zpSkssJjuddm63jyS"
-    },
-    {
-      "added_at": "2026-11-13 05:15:19",
-      "album": {
-        "name": "This Christmas \u2013 Winter is Coming",
-        "url": "https://open.spotify.com/album/1U3KyC9Key12NSi9ETVExx"
-      },
-      "artists": [
-        {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
-        }
-      ],
-      "duration_ms": 215101,
-      "name": "I'm all ears",
-      "url": "https://open.spotify.com/track/7KJUpJgGaQTdSq3L5StCfi"
-    },
-    {
-      "added_at": "2026-11-13 05:15:19",
-      "album": {
         "name": "Love Again",
         "url": "https://open.spotify.com/album/5xv97ixnkOlPfPKpIoyBSO"
       },
@@ -891,26 +911,6 @@
       "duration_ms": 179653,
       "name": "Love Again",
       "url": "https://open.spotify.com/track/04Du5TkwT3to8Tjp1cDrO1"
-    },
-    {
-      "added_at": "2026-11-13 05:15:19",
-      "album": {
-        "name": "Peppermint Tea",
-        "url": "https://open.spotify.com/album/4KIcPdqYeP6PIvzGvJGcVZ"
-      },
-      "artists": [
-        {
-          "name": "Sarah Kang",
-          "url": "https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj"
-        },
-        {
-          "name": "Sam Ock",
-          "url": "https://open.spotify.com/artist/0823FxAYBXOeMTOWPeH9HH"
-        }
-      ],
-      "duration_ms": 211933,
-      "name": "Mr. Snowman",
-      "url": "https://open.spotify.com/track/1Bo4rmJ5bFUcq03tjJY98H"
     },
     {
       "added_at": "2026-11-13 05:15:19",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2026-11-13 05:15:19",
       "album": {
-        "name": "Maybe Christmas (Orchestra Version)",
-        "url": "https://open.spotify.com/album/45v0kfxliXgedtXPVCtqr2"
-      },
-      "artists": [
-        {
-          "name": "Yiruma",
-          "url": "https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz"
-        }
-      ],
-      "duration_ms": 303297,
-      "name": "Maybe Christmas - Orchestra Version",
-      "url": "https://open.spotify.com/track/3rFpFKkRZ62lHyRByZbNUj"
-    },
-    {
-      "added_at": "2026-11-13 05:15:19",
-      "album": {
         "name": "merry merry",
         "url": "https://open.spotify.com/album/0u4kQYJsfOrpnew817qr5q"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 165693,
       "name": "merry merry",
       "url": "https://open.spotify.com/track/2kGIo9vbpdBnRnOJlPAtNb"
+    },
+    {
+      "added_at": "2026-11-13 05:15:19",
+      "album": {
+        "name": "Maybe Christmas (Orchestra Version)",
+        "url": "https://open.spotify.com/album/45v0kfxliXgedtXPVCtqr2"
+      },
+      "artists": [
+        {
+          "name": "Yiruma",
+          "url": "https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz"
+        }
+      ],
+      "duration_ms": 303297,
+      "name": "Maybe Christmas - Orchestra Version",
+      "url": "https://open.spotify.com/track/3rFpFKkRZ62lHyRByZbNUj"
     },
     {
       "added_at": "2026-11-13 05:15:19",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2026-11-13 05:15:19",
       "album": {
-        "name": "THE BOYZ Special Single [Candles]",
-        "url": "https://open.spotify.com/album/0kIrSdkjAIqiQ8yhXyrtun"
-      },
-      "artists": [
-        {
-          "name": "THE BOYZ",
-          "url": "https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx"
-        }
-      ],
-      "duration_ms": 231093,
-      "name": "Candles",
-      "url": "https://open.spotify.com/track/5vT3UDjwJt87muaqyLW13W"
-    },
-    {
-      "added_at": "2026-11-13 05:15:19",
-      "album": {
         "name": "My Winter Trip",
         "url": "https://open.spotify.com/album/4VVH0BD7z9Cs4iORPbZ2Ci"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 251617,
       "name": "My Winter Trip",
       "url": "https://open.spotify.com/track/1SDRgU2C81CcOhaOvTOBCk"
+    },
+    {
+      "added_at": "2026-11-13 05:15:19",
+      "album": {
+        "name": "THE BOYZ Special Single [Candles]",
+        "url": "https://open.spotify.com/album/0kIrSdkjAIqiQ8yhXyrtun"
+      },
+      "artists": [
+        {
+          "name": "THE BOYZ",
+          "url": "https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx"
+        }
+      ],
+      "duration_ms": 231093,
+      "name": "Candles",
+      "url": "https://open.spotify.com/track/5vT3UDjwJt87muaqyLW13W"
     },
     {
       "added_at": "2026-11-13 05:15:19",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2026-11-13 05:15:19",
       "album": {
+        "name": "This Christmas - Single",
+        "url": "https://open.spotify.com/album/6NbYu2rBvmgYXjYe0rLCPQ"
+      },
+      "artists": [
+        {
+          "name": "Jyp Nation",
+          "url": "https://open.spotify.com/artist/422bFDqxTIZF6HrsneK0xO"
+        }
+      ],
+      "duration_ms": 227825,
+      "name": "This Christmas",
+      "url": "https://open.spotify.com/track/4OFYgzWbOmaZH2D6qblLRv"
+    },
+    {
+      "added_at": "2026-11-13 05:15:19",
+      "album": {
         "name": "Solo Christmas",
         "url": "https://open.spotify.com/album/3GnhJ2bDR3nR95f0y4UV5h"
       },
@@ -1267,18 +1283,34 @@
     {
       "added_at": "2026-11-13 05:15:19",
       "album": {
-        "name": "This Christmas - Single",
-        "url": "https://open.spotify.com/album/6NbYu2rBvmgYXjYe0rLCPQ"
+        "name": "Home Alone",
+        "url": "https://open.spotify.com/album/0bMqLF8krN1CGAdm6L9GbA"
       },
       "artists": [
         {
-          "name": "Jyp Nation",
-          "url": "https://open.spotify.com/artist/422bFDqxTIZF6HrsneK0xO"
+          "name": "cylinder",
+          "url": "https://open.spotify.com/artist/4ydjJObKbtpABiTRVFh2mx"
         }
       ],
-      "duration_ms": 227825,
-      "name": "This Christmas",
-      "url": "https://open.spotify.com/track/4OFYgzWbOmaZH2D6qblLRv"
+      "duration_ms": 190973,
+      "name": "Winter Theater",
+      "url": "https://open.spotify.com/track/60nU1fMu2yelgc1TN83Eop"
+    },
+    {
+      "added_at": "2026-11-13 05:15:19",
+      "album": {
+        "name": "Letters to Santa",
+        "url": "https://open.spotify.com/album/509eN4HXKIS6EfxUwBQ8S0"
+      },
+      "artists": [
+        {
+          "name": "DeVita",
+          "url": "https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B"
+        }
+      ],
+      "duration_ms": 159616,
+      "name": "I Still Believe in Santa",
+      "url": "https://open.spotify.com/track/3QzRFgACehCoVpE4jRkQCE"
     },
     {
       "added_at": "2026-11-13 05:15:19",
@@ -1299,22 +1331,6 @@
     {
       "added_at": "2026-11-13 05:15:19",
       "album": {
-        "name": "Home Alone",
-        "url": "https://open.spotify.com/album/0bMqLF8krN1CGAdm6L9GbA"
-      },
-      "artists": [
-        {
-          "name": "cylinder",
-          "url": "https://open.spotify.com/artist/4ydjJObKbtpABiTRVFh2mx"
-        }
-      ],
-      "duration_ms": 190973,
-      "name": "Winter Theater",
-      "url": "https://open.spotify.com/track/60nU1fMu2yelgc1TN83Eop"
-    },
-    {
-      "added_at": "2026-11-13 05:15:19",
-      "album": {
         "name": "The Present",
         "url": "https://open.spotify.com/album/5ZHr2d9elKGljFZiKN5H9j"
       },
@@ -1331,18 +1347,18 @@
     {
       "added_at": "2026-11-13 05:15:19",
       "album": {
-        "name": "Letters to Santa",
-        "url": "https://open.spotify.com/album/509eN4HXKIS6EfxUwBQ8S0"
+        "name": "Christmas Promises: Again",
+        "url": "https://open.spotify.com/album/4PvAlkoDM29aJSfx2BLcpu"
       },
       "artists": [
         {
-          "name": "DeVita",
-          "url": "https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B"
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
         }
       ],
-      "duration_ms": 159616,
-      "name": "I Still Believe in Santa",
-      "url": "https://open.spotify.com/track/3QzRFgACehCoVpE4jRkQCE"
+      "duration_ms": 154000,
+      "name": "Christmas Again",
+      "url": "https://open.spotify.com/track/2XPu6hAfHuQO1dVyIlACVb"
     },
     {
       "added_at": "2026-11-13 05:15:19",
@@ -1383,22 +1399,6 @@
       "duration_ms": 186533,
       "name": "Y earned (Feat. Gaeko, SOLE) (Prod. Primary, plusNONE)",
       "url": "https://open.spotify.com/track/5HbN3PIXPQiHRb3MKuqGO5"
-    },
-    {
-      "added_at": "2026-11-13 05:15:19",
-      "album": {
-        "name": "Christmas Promises: Again",
-        "url": "https://open.spotify.com/album/4PvAlkoDM29aJSfx2BLcpu"
-      },
-      "artists": [
-        {
-          "name": "CHUNG HA",
-          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "Christmas Again",
-      "url": "https://open.spotify.com/track/2XPu6hAfHuQO1dVyIlACVb"
     },
     {
       "added_at": "2026-11-13 05:15:19",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2026-11-13 05:15:19",
       "album": {
-        "name": "Another Sad Love Song",
-        "url": "https://open.spotify.com/album/0gOhggWveoOEbmB0YjaZrE"
-      },
-      "artists": [
-        {
-          "name": "GSoul",
-          "url": "https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL"
-        }
-      ],
-      "duration_ms": 184772,
-      "name": "Let Me Know - Bonus Track",
-      "url": "https://open.spotify.com/track/5iEFTzTm71gxXJnbNfHCAt"
-    },
-    {
-      "added_at": "2026-11-13 05:15:19",
-      "album": {
         "name": "Christmas is Coming",
         "url": "https://open.spotify.com/album/02vzxxDPtbNmqeQx2XHWlH"
       },
@@ -1495,34 +1479,18 @@
     {
       "added_at": "2026-11-13 05:15:19",
       "album": {
-        "name": "Christmas Dance",
-        "url": "https://open.spotify.com/album/4D7wSlC3TgPptQwEb9t5XP"
+        "name": "Another Sad Love Song",
+        "url": "https://open.spotify.com/album/0gOhggWveoOEbmB0YjaZrE"
       },
       "artists": [
         {
-          "name": "ROCKY",
-          "url": "https://open.spotify.com/artist/3bQABAi10Xqg1WsMAhYdBZ"
+          "name": "GSoul",
+          "url": "https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL"
         }
       ],
-      "duration_ms": 244173,
-      "name": "Christmas Dance",
-      "url": "https://open.spotify.com/track/5Fr2nTvU0OdhMUohTNXlA4"
-    },
-    {
-      "added_at": "2026-11-13 05:15:19",
-      "album": {
-        "name": "For Sentimental Reasons",
-        "url": "https://open.spotify.com/album/6Y9QuBzXGc5hn0zzkl8Le9"
-      },
-      "artists": [
-        {
-          "name": "Junggigo",
-          "url": "https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb"
-        }
-      ],
-      "duration_ms": 280733,
-      "name": "For Sentimental Reasons",
-      "url": "https://open.spotify.com/track/1PnnkvCYq5EVnltifNmny7"
+      "duration_ms": 184772,
+      "name": "Let Me Know - Bonus Track",
+      "url": "https://open.spotify.com/track/5iEFTzTm71gxXJnbNfHCAt"
     },
     {
       "added_at": "2026-11-13 05:15:19",
@@ -1555,6 +1523,38 @@
       "duration_ms": 207880,
       "name": "Merry Merry Christmas",
       "url": "https://open.spotify.com/track/4PrwSC5G3C9xZsmDBHV5FE"
+    },
+    {
+      "added_at": "2026-11-13 05:15:19",
+      "album": {
+        "name": "For Sentimental Reasons",
+        "url": "https://open.spotify.com/album/6Y9QuBzXGc5hn0zzkl8Le9"
+      },
+      "artists": [
+        {
+          "name": "Junggigo",
+          "url": "https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb"
+        }
+      ],
+      "duration_ms": 280733,
+      "name": "For Sentimental Reasons",
+      "url": "https://open.spotify.com/track/1PnnkvCYq5EVnltifNmny7"
+    },
+    {
+      "added_at": "2026-11-13 05:15:19",
+      "album": {
+        "name": "Christmas Dance",
+        "url": "https://open.spotify.com/album/4D7wSlC3TgPptQwEb9t5XP"
+      },
+      "artists": [
+        {
+          "name": "ROCKY",
+          "url": "https://open.spotify.com/artist/3bQABAi10Xqg1WsMAhYdBZ"
+        }
+      ],
+      "duration_ms": 244173,
+      "name": "Christmas Dance",
+      "url": "https://open.spotify.com/track/5Fr2nTvU0OdhMUohTNXlA4"
     },
     {
       "added_at": "2026-11-13 05:15:19",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2026-11-13 05:15:19",
       "album": {
-        "name": "My Favorite Winter",
-        "url": "https://open.spotify.com/album/6zF9RvcFJOgl4GV4ySUmUp"
-      },
-      "artists": [
-        {
-          "name": "Jung Seung Hwan",
-          "url": "https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng"
-        }
-      ],
-      "duration_ms": 229386,
-      "name": "My Favorite Winter",
-      "url": "https://open.spotify.com/track/4eTFVwwrGhIeS8NqwEBWZP"
-    },
-    {
-      "added_at": "2026-11-13 05:15:19",
-      "album": {
         "name": "The Christmas Number 12",
         "url": "https://open.spotify.com/album/5jVCZws60QZ11TP2nWjxOZ"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 159835,
       "name": "The Christmas Number 12",
       "url": "https://open.spotify.com/track/1VgEdXPGiCizL6DfIUDGok"
+    },
+    {
+      "added_at": "2026-11-13 05:15:19",
+      "album": {
+        "name": "My Favorite Winter",
+        "url": "https://open.spotify.com/album/6zF9RvcFJOgl4GV4ySUmUp"
+      },
+      "artists": [
+        {
+          "name": "Jung Seung Hwan",
+          "url": "https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng"
+        }
+      ],
+      "duration_ms": 229386,
+      "name": "My Favorite Winter",
+      "url": "https://open.spotify.com/track/4eTFVwwrGhIeS8NqwEBWZP"
     },
     {
       "added_at": "2026-11-13 05:15:19",
@@ -1679,6 +1679,22 @@
       "duration_ms": 174333,
       "name": "christmas recipe (feat. 16)",
       "url": "https://open.spotify.com/track/16rKQI5eOg9v47XOoA7beq"
+    },
+    {
+      "added_at": "2026-11-13 05:15:19",
+      "album": {
+        "name": "APRIL 3rd Mini Album 'Prelude'",
+        "url": "https://open.spotify.com/album/5NROq4sawLKjGwuiZydaqh"
+      },
+      "artists": [
+        {
+          "name": "APRIL",
+          "url": "https://open.spotify.com/artist/4cJ99wTjC60pXcfyISL9fa"
+        }
+      ],
+      "duration_ms": 185354,
+      "name": "Snowman (Special Ver.)",
+      "url": "https://open.spotify.com/track/5OcyTnnsLDY3TVDJJ73RAY"
     },
     {
       "added_at": "2026-11-13 05:15:19",
@@ -1711,22 +1727,6 @@
       "duration_ms": 146962,
       "name": "FOCUS",
       "url": "https://open.spotify.com/track/0Nh6t7DEzAARTHHufhPc1Q"
-    },
-    {
-      "added_at": "2026-11-13 05:15:19",
-      "album": {
-        "name": "APRIL 3rd Mini Album 'Prelude'",
-        "url": "https://open.spotify.com/album/5NROq4sawLKjGwuiZydaqh"
-      },
-      "artists": [
-        {
-          "name": "APRIL",
-          "url": "https://open.spotify.com/artist/4cJ99wTjC60pXcfyISL9fa"
-        }
-      ],
-      "duration_ms": 185354,
-      "name": "Snowman (Special Ver.)",
-      "url": "https://open.spotify.com/track/5OcyTnnsLDY3TVDJJ73RAY"
     },
     {
       "added_at": "2026-11-13 05:15:19",

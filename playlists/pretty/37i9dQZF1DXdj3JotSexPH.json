@@ -1,6 +1,6 @@
 {
   "description": "\u0627\u0636\u063a\u0637 \u0644\u0644\u0628\u062f\u0621",
-  "num_followers": 35880,
+  "num_followers": 35881,
   "original_name": "Yalla Gaming",
   "owner": {
     "name": "Spotify",
@@ -583,6 +583,22 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
+        "name": "RAVE",
+        "url": "https://open.spotify.com/album/0doOTVLn5DctSLGftsar6T"
+      },
+      "artists": [
+        {
+          "name": "Dxrk \u30c0\u30fc\u30af",
+          "url": "https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA"
+        }
+      ],
+      "duration_ms": 169245,
+      "name": "RAVE",
+      "url": "https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
         "name": "MONTAGEM XONADA",
         "url": "https://open.spotify.com/album/3JsABNfp6sTjgcawWxzmj7"
       },
@@ -607,22 +623,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "RAVE",
-        "url": "https://open.spotify.com/album/0doOTVLn5DctSLGftsar6T"
-      },
-      "artists": [
-        {
-          "name": "Dxrk \u30c0\u30fc\u30af",
-          "url": "https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA"
-        }
-      ],
-      "duration_ms": 169245,
-      "name": "RAVE",
-      "url": "https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "MATADORA",
         "url": "https://open.spotify.com/album/3quyIGy1dBWUoEVK7BWY9c"
       },
@@ -635,26 +635,6 @@
       "duration_ms": 88615,
       "name": "MATADORA",
       "url": "https://open.spotify.com/track/7jqxHXlu3Ya7WF7lD7tIXj"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
-        "name": "ACELERADA",
-        "url": "https://open.spotify.com/album/4QfLTUyV4lZPxoEt0BykuQ"
-      },
-      "artists": [
-        {
-          "name": "sma$her",
-          "url": "https://open.spotify.com/artist/1Fl1fc7bZfRVUCffh9Uudx"
-        },
-        {
-          "name": "MXZI",
-          "url": "https://open.spotify.com/artist/7kk9ucvRJim0NMM89Lml2Y"
-        }
-      ],
-      "duration_ms": 61269,
-      "name": "ACELERADA",
-      "url": "https://open.spotify.com/track/5R9FQXymzyhxjAYAkdbq5Q"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -707,6 +687,26 @@
       "duration_ms": 150674,
       "name": "Step Back!",
       "url": "https://open.spotify.com/track/6jdwbcH788txYS6Doy1F1j"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "ACELERADA",
+        "url": "https://open.spotify.com/album/4QfLTUyV4lZPxoEt0BykuQ"
+      },
+      "artists": [
+        {
+          "name": "sma$her",
+          "url": "https://open.spotify.com/artist/1Fl1fc7bZfRVUCffh9Uudx"
+        },
+        {
+          "name": "MXZI",
+          "url": "https://open.spotify.com/artist/7kk9ucvRJim0NMM89Lml2Y"
+        }
+      ],
+      "duration_ms": 61269,
+      "name": "ACELERADA",
+      "url": "https://open.spotify.com/track/5R9FQXymzyhxjAYAkdbq5Q"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -855,30 +855,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "LOS VOLTAJE",
-        "url": "https://open.spotify.com/album/7CWmZcjCHJWd7detYptzAX"
-      },
-      "artists": [
-        {
-          "name": "Sayfalse",
-          "url": "https://open.spotify.com/artist/6s4LSwgbzTAfnN6OUfegJB"
-        },
-        {
-          "name": "Yb Wasg'ood",
-          "url": "https://open.spotify.com/artist/02wf6SCDwrs2qTX09X0IRE"
-        },
-        {
-          "name": "Ariis",
-          "url": "https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR"
-        }
-      ],
-      "duration_ms": 99285,
-      "name": "LOS VOLTAJE",
-      "url": "https://open.spotify.com/track/4LkkRLP8pldQer1YRrHwkx"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "Weekend Rockstar",
         "url": "https://open.spotify.com/album/6Y6XreGMhHRm3FIqHYjGXF"
       },
@@ -907,6 +883,30 @@
       "duration_ms": 133565,
       "name": "Live Another Day",
       "url": "https://open.spotify.com/track/34lfu3S4fIcKZRNXzbdbo7"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "LOS VOLTAJE",
+        "url": "https://open.spotify.com/album/7CWmZcjCHJWd7detYptzAX"
+      },
+      "artists": [
+        {
+          "name": "Sayfalse",
+          "url": "https://open.spotify.com/artist/6s4LSwgbzTAfnN6OUfegJB"
+        },
+        {
+          "name": "Yb Wasg'ood",
+          "url": "https://open.spotify.com/artist/02wf6SCDwrs2qTX09X0IRE"
+        },
+        {
+          "name": "Ariis",
+          "url": "https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR"
+        }
+      ],
+      "duration_ms": 99285,
+      "name": "LOS VOLTAJE",
+      "url": "https://open.spotify.com/track/4LkkRLP8pldQer1YRrHwkx"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -1095,30 +1095,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "NUNCA MUDA?",
-        "url": "https://open.spotify.com/album/6JN8NKdUyRGqT2xc4qhIQ2"
-      },
-      "artists": [
-        {
-          "name": "Scythermane",
-          "url": "https://open.spotify.com/artist/5dDNNq04RjKXFOADdHd6VX"
-        },
-        {
-          "name": "NXGHT!",
-          "url": "https://open.spotify.com/artist/7lAaAGxYxk2GH8cMbTEwAL"
-        },
-        {
-          "name": "MC Fabinho da Osk",
-          "url": "https://open.spotify.com/artist/14hsjenLEdvafsGkk2CEiF"
-        }
-      ],
-      "duration_ms": 81500,
-      "name": "NUNCA MUDA?",
-      "url": "https://open.spotify.com/track/3VFySvZMSn4z4X4YDDQb0H"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "Ghost",
         "url": "https://open.spotify.com/album/4JLFGihahYS4bXj5zrYvQk"
       },
@@ -1151,6 +1127,30 @@
       "duration_ms": 117637,
       "name": "DEMONS IN MY SOUL",
       "url": "https://open.spotify.com/track/72iyEnh9p6PoyJoEnAJDjO"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "NUNCA MUDA?",
+        "url": "https://open.spotify.com/album/6JN8NKdUyRGqT2xc4qhIQ2"
+      },
+      "artists": [
+        {
+          "name": "Scythermane",
+          "url": "https://open.spotify.com/artist/5dDNNq04RjKXFOADdHd6VX"
+        },
+        {
+          "name": "NXGHT!",
+          "url": "https://open.spotify.com/artist/7lAaAGxYxk2GH8cMbTEwAL"
+        },
+        {
+          "name": "MC Fabinho da Osk",
+          "url": "https://open.spotify.com/artist/14hsjenLEdvafsGkk2CEiF"
+        }
+      ],
+      "duration_ms": 81500,
+      "name": "NUNCA MUDA?",
+      "url": "https://open.spotify.com/track/3VFySvZMSn4z4X4YDDQb0H"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -1271,26 +1271,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "ONE FOR YOU",
-        "url": "https://open.spotify.com/album/5HSr7vEpd8zbvP4F0hquzd"
-      },
-      "artists": [
-        {
-          "name": "ALLEYCVT",
-          "url": "https://open.spotify.com/artist/4JxRK2gxmri7L7OWaxnVD1"
-        },
-        {
-          "name": "Levity",
-          "url": "https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C"
-        }
-      ],
-      "duration_ms": 152516,
-      "name": "ONE FOR YOU",
-      "url": "https://open.spotify.com/track/3b26vJtV7KETHKtu4sxabB"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "i like the way you kiss me (remixes)",
         "url": "https://open.spotify.com/album/7jYsvUIbj8OktGfdnCU4LB"
       },
@@ -1307,6 +1287,26 @@
       "duration_ms": 137986,
       "name": "i like the way you kiss me - southstar remix",
       "url": "https://open.spotify.com/track/7skteOnDbwZ3ZvjSe99xv2"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "ONE FOR YOU",
+        "url": "https://open.spotify.com/album/5HSr7vEpd8zbvP4F0hquzd"
+      },
+      "artists": [
+        {
+          "name": "ALLEYCVT",
+          "url": "https://open.spotify.com/artist/4JxRK2gxmri7L7OWaxnVD1"
+        },
+        {
+          "name": "Levity",
+          "url": "https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C"
+        }
+      ],
+      "duration_ms": 152516,
+      "name": "ONE FOR YOU",
+      "url": "https://open.spotify.com/track/3b26vJtV7KETHKtu4sxabB"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -1631,26 +1631,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "Around The World",
-        "url": "https://open.spotify.com/album/6DJnx2cTEn3txXXK4Xo2Tf"
-      },
-      "artists": [
-        {
-          "name": "Niklas Dee",
-          "url": "https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE"
-        },
-        {
-          "name": "Ren\u00e9 Miller",
-          "url": "https://open.spotify.com/artist/6ngF3kF5I0prOoapltjAps"
-        }
-      ],
-      "duration_ms": 140986,
-      "name": "Around The World",
-      "url": "https://open.spotify.com/track/47KhhDku9RLDsWIJjYaXDs"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "In My Arms",
         "url": "https://open.spotify.com/album/5QWkS6NoS33Nf3N0FomUzy"
       },
@@ -1667,6 +1647,26 @@
       "duration_ms": 208000,
       "name": "In My Arms",
       "url": "https://open.spotify.com/track/6nJiqVmR1SyAu50GuDenIJ"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "Around The World",
+        "url": "https://open.spotify.com/album/6DJnx2cTEn3txXXK4Xo2Tf"
+      },
+      "artists": [
+        {
+          "name": "Niklas Dee",
+          "url": "https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE"
+        },
+        {
+          "name": "Ren\u00e9 Miller",
+          "url": "https://open.spotify.com/artist/6ngF3kF5I0prOoapltjAps"
+        }
+      ],
+      "duration_ms": 140986,
+      "name": "Around The World",
+      "url": "https://open.spotify.com/track/47KhhDku9RLDsWIJjYaXDs"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -2239,22 +2239,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "oknottobeok",
-        "url": "https://open.spotify.com/album/7Dt32PFY41gLe16zWQFFPh"
-      },
-      "artists": [
-        {
-          "name": "okgiorgio",
-          "url": "https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg"
-        }
-      ],
-      "duration_ms": 204788,
-      "name": "oknottobeok",
-      "url": "https://open.spotify.com/track/5JAtlL8M4CyF9gbgd9jUab"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "issa vibe",
         "url": "https://open.spotify.com/album/0d6Pj4XcVEMjtM7MODtLjI"
       },
@@ -2267,6 +2251,22 @@
       "duration_ms": 171428,
       "name": "issa vibe",
       "url": "https://open.spotify.com/track/0cKICIfbu0qOndy9I3rInG"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "oknottobeok",
+        "url": "https://open.spotify.com/album/7Dt32PFY41gLe16zWQFFPh"
+      },
+      "artists": [
+        {
+          "name": "okgiorgio",
+          "url": "https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg"
+        }
+      ],
+      "duration_ms": 204788,
+      "name": "oknottobeok",
+      "url": "https://open.spotify.com/track/5JAtlL8M4CyF9gbgd9jUab"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -2435,6 +2435,22 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
+        "name": "The Basement",
+        "url": "https://open.spotify.com/album/5MkryrNraC1vGE3rI7ReVr"
+      },
+      "artists": [
+        {
+          "name": "Kissimjau",
+          "url": "https://open.spotify.com/artist/48FGhVmpVUfbDb6iRMYIf0"
+        }
+      ],
+      "duration_ms": 136946,
+      "name": "The Basement",
+      "url": "https://open.spotify.com/track/3Sv9eoZL7BD1UtcnMdeV7W"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
         "name": "SPOOKY",
         "url": "https://open.spotify.com/album/4QmDrxVGw99LUJOubfPJz9"
       },
@@ -2451,22 +2467,6 @@
       "duration_ms": 96923,
       "name": "SPOOKY",
       "url": "https://open.spotify.com/track/4aT2W9wchQKAimxVFSRIva"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
-        "name": "The Basement",
-        "url": "https://open.spotify.com/album/5MkryrNraC1vGE3rI7ReVr"
-      },
-      "artists": [
-        {
-          "name": "Kissimjau",
-          "url": "https://open.spotify.com/artist/48FGhVmpVUfbDb6iRMYIf0"
-        }
-      ],
-      "duration_ms": 136946,
-      "name": "The Basement",
-      "url": "https://open.spotify.com/track/3Sv9eoZL7BD1UtcnMdeV7W"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -2511,6 +2511,26 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
+        "name": "Good Luck (Deluxe)",
+        "url": "https://open.spotify.com/album/027HKBDXnf9MZOgSul9omC"
+      },
+      "artists": [
+        {
+          "name": "Bladee",
+          "url": "https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1"
+        },
+        {
+          "name": "Mechatok",
+          "url": "https://open.spotify.com/artist/4poYOxVqlpDTelhhiJcSrW"
+        }
+      ],
+      "duration_ms": 145143,
+      "name": "God",
+      "url": "https://open.spotify.com/track/6BKy2OYJaSKqSBCSPCujrU"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
         "name": "MONTAGEM - PR FUNK",
         "url": "https://open.spotify.com/album/2HuMAoXpr6HDryNHipbCpB"
       },
@@ -2531,26 +2551,6 @@
       "duration_ms": 61634,
       "name": "MONTAGEM - PR FUNK",
       "url": "https://open.spotify.com/track/6njJR3OIp3oA0Kc4aC9Tzf"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
-        "name": "Good Luck (Deluxe)",
-        "url": "https://open.spotify.com/album/027HKBDXnf9MZOgSul9omC"
-      },
-      "artists": [
-        {
-          "name": "Bladee",
-          "url": "https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1"
-        },
-        {
-          "name": "Mechatok",
-          "url": "https://open.spotify.com/artist/4poYOxVqlpDTelhhiJcSrW"
-        }
-      ],
-      "duration_ms": 145143,
-      "name": "God",
-      "url": "https://open.spotify.com/track/6BKy2OYJaSKqSBCSPCujrU"
     },
     {
       "added_at": "2026-04-13 15:38:24",

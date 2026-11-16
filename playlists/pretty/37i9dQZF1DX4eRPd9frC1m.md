@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eRPd9frC1m.md) - [plain]
 
 > Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,563,644 likes - 75 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,563,519 likes - 75 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eRPd9frC1m.md) - [plain]
 | 40 | [Subliminals](https://open.spotify.com/track/2gyn0L8It5sc7Tw8eQlkFY) | [Saint Ludo](https://open.spotify.com/artist/3UBYL8t0DhD4uhJxF0FtGT), [Kasst 8](https://open.spotify.com/artist/1K0CrrXj2Zogdgsyc5GfLs) | [Subliminals](https://open.spotify.com/album/4h0UdEwMBtj7UmGE2RvLdX) | 2:34 |
 | 41 | [Throw It Up](https://open.spotify.com/track/0fLLrfJ4sikNitD6sDg2ne) | [Ray Volpe](https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb) | [Throw It Up](https://open.spotify.com/album/32yCWDKsr3wEDexXr6dPZB) | 3:21 |
 | 42 | [Build Me Up](https://open.spotify.com/track/56YhQOAF0X8Ch4qT3blnZP) | [Zomboy](https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq) | [Build Me Up](https://open.spotify.com/album/6ydh1dWnNuXWFOclogs2wt) | 3:02 |
-| 43 | [Club XL](https://open.spotify.com/track/7rSzIocuSBn819F5o7BRJ3) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [LEVEL UP](https://open.spotify.com/artist/1ZpDxqXS6HAvoZyCzQfKRb) | [Club XL](https://open.spotify.com/album/0EXxFwQwohLNoOjOpqdmYd) | 2:33 |
-| 44 | [RAWWW](https://open.spotify.com/track/0LySaNLaiyr0bOEsKGgALN) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI) | [RAWWW](https://open.spotify.com/album/494q4LouWhxZGIjr3wFkf1) | 2:40 |
+| 43 | [RAWWW](https://open.spotify.com/track/0LySaNLaiyr0bOEsKGgALN) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI) | [RAWWW](https://open.spotify.com/album/494q4LouWhxZGIjr3wFkf1) | 2:40 |
+| 44 | [Name Drop](https://open.spotify.com/track/02yaX0Reb1fQYIQdri4Ow8) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Wooli](https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc) | [Name Drop](https://open.spotify.com/album/6mrEmNiDqgKLM38kUpyrbp) | 3:48 |
 | 45 | [LIKE ME](https://open.spotify.com/track/3F6DRq9JshCbbjEFjcxHt5) | [Nikita, the Wicked](https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd) | [LIKE ME](https://open.spotify.com/album/4Yag5dp4W2D5lPy3OjjXT4) | 3:27 |
 | 46 | [Griztronics II \(Another Level\)](https://open.spotify.com/track/2il9NDpW87Hk2L9AjeDf8r) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO) | [Griztronics II \(Another Level\)](https://open.spotify.com/album/5X4WpuocAItWP0dtDT5BCw) | 2:45 |
 | 47 | [Bass Down Low \(feat\. DEV\) \[Trap Version\]](https://open.spotify.com/track/6ww3QtV3wV0qBfgYCfFu3C) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [MEMBA](https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u), [DEV](https://open.spotify.com/artist/7Ip2u3e5Nv6fFb5xyIHxEE) | [Bass Down Low \(feat\. DEV\) \[Trap Version\]](https://open.spotify.com/album/3bi9DlUjl64Rcd6gMddtek) | 2:46 |
-| 48 | [Name Drop](https://open.spotify.com/track/02yaX0Reb1fQYIQdri4Ow8) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Wooli](https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc) | [Name Drop](https://open.spotify.com/album/6mrEmNiDqgKLM38kUpyrbp) | 3:48 |
-| 49 | [Sh\*t's On F\*re](https://open.spotify.com/track/53VFQ23T8h7f4ECrih68nP) | [Virtual Riot](https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1) | [Sh\*t's On F\*re](https://open.spotify.com/album/6jlXZqo4qk0Fge6efnXXfS) | 4:04 |
+| 48 | [Sh\*t's On F\*re](https://open.spotify.com/track/53VFQ23T8h7f4ECrih68nP) | [Virtual Riot](https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1) | [Sh\*t's On F\*re](https://open.spotify.com/album/6jlXZqo4qk0Fge6efnXXfS) | 4:04 |
+| 49 | [Club XL](https://open.spotify.com/track/7rSzIocuSBn819F5o7BRJ3) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [LEVEL UP](https://open.spotify.com/artist/1ZpDxqXS6HAvoZyCzQfKRb) | [Club XL](https://open.spotify.com/album/0EXxFwQwohLNoOjOpqdmYd) | 2:33 |
 | 50 | [Cocaine Inside My Blunts \(Tape B Remix\)](https://open.spotify.com/track/5uCOhMc7WQy7jawqJbdhh2) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [Tape B](https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi) | [Cocaine Inside My Blunts \(Tape B Remix\)](https://open.spotify.com/album/0Mfw5FWUUwxJ7Dof1OnV4L) | 2:51 |
 | 51 | [Coast 2 Coast ft\. Flowdan](https://open.spotify.com/track/02Y5z5UbRPqpXiLHfDRzeK) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Coast 2 Coast ft\. Flowdan](https://open.spotify.com/album/2WCcmD70ox8MIQwh7k5Qgu) | 2:54 |
 | 52 | [Duel of the Fates](https://open.spotify.com/track/03oLnmuFIM4ABv68TAcizp) | [Apashe](https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN) | [Duel of the Fates](https://open.spotify.com/album/5S9MaLGpGVqKqzGcct4Fxa) | 3:22 |

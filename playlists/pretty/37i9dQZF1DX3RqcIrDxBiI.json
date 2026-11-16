@@ -1,6 +1,6 @@
 {
   "description": "Les plus belles chansons d'amour.",
-  "num_followers": 628311,
+  "num_followers": 628255,
   "original_name": "je t'aime",
   "owner": {
     "name": "Spotify",
@@ -168,9 +168,9 @@
           "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 220734,
-      "name": "Just the Way You Are",
-      "url": "https://open.spotify.com/track/47Slg6LuqLaX0VodpSCvPt"
+      "duration_ms": 230192,
+      "name": "Marry You",
+      "url": "https://open.spotify.com/track/6SKwQghsR8AISlxhcwyA9R"
     },
     {
       "added_at": "2026-02-06 18:20:07",
@@ -248,9 +248,9 @@
           "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 230192,
-      "name": "Marry You",
-      "url": "https://open.spotify.com/track/6SKwQghsR8AISlxhcwyA9R"
+      "duration_ms": 220734,
+      "name": "Just the Way You Are",
+      "url": "https://open.spotify.com/track/47Slg6LuqLaX0VodpSCvPt"
     },
     {
       "added_at": "2026-02-06 18:20:07",
@@ -575,6 +575,22 @@
     {
       "added_at": "2026-02-06 18:20:07",
       "album": {
+        "name": "Gang",
+        "url": "https://open.spotify.com/album/68rZh6SfrK9JeYsJhTwDjg"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hallyday",
+          "url": "https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA"
+        }
+      ],
+      "duration_ms": 275906,
+      "name": "Je te promets",
+      "url": "https://open.spotify.com/track/3cqLrAhTy0JYcYmGe6Dvje"
+    },
+    {
+      "added_at": "2026-02-06 18:20:07",
+      "album": {
         "name": "VersuS",
         "url": "https://open.spotify.com/album/5DD7BStcOFBl3i9z1fyr7e"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 223800,
       "name": "Avant toi",
       "url": "https://open.spotify.com/track/4iNPp0BZ4lBu7bipdWLcWk"
-    },
-    {
-      "added_at": "2026-02-06 18:20:07",
-      "album": {
-        "name": "Gang",
-        "url": "https://open.spotify.com/album/68rZh6SfrK9JeYsJhTwDjg"
-      },
-      "artists": [
-        {
-          "name": "Johnny Hallyday",
-          "url": "https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA"
-        }
-      ],
-      "duration_ms": 275906,
-      "name": "Je te promets",
-      "url": "https://open.spotify.com/track/3cqLrAhTy0JYcYmGe6Dvje"
     },
     {
       "added_at": "2026-02-06 18:20:07",

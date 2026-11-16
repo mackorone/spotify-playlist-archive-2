@@ -7549,6 +7549,46 @@
     },
     {
       "album": {
+        "name": "Party Favor",
+        "url": "https://open.spotify.com/album/37LhJVLQUxJDJPxa9IaJdb"
+      },
+      "artists": [
+        {
+          "name": "ivycomb",
+          "url": "https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo"
+        },
+        {
+          "name": "OodleZz",
+          "url": "https://open.spotify.com/artist/2eCpXBK9mnqr6o9TydXu98"
+        }
+      ],
+      "date_added": "2026-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195236,
+      "name": "Party Favor",
+      "url": "https://open.spotify.com/track/2aHxRQGqUH58sUptShLRWP"
+    },
+    {
+      "album": {
+        "name": "Party Favor",
+        "url": "https://open.spotify.com/album/37LhJVLQUxJDJPxa9IaJdb"
+      },
+      "artists": [
+        {
+          "name": "ivycomb",
+          "url": "https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo"
+        }
+      ],
+      "date_added": "2026-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194750,
+      "name": "Party Favor - Instrumental",
+      "url": "https://open.spotify.com/track/60AlTM7Y7mT9zF9vZuwcLw"
+    },
+    {
+      "album": {
         "name": "FURFAG",
         "url": "https://open.spotify.com/album/6LyPH9oyTnCrTQHwhedPF0"
       },

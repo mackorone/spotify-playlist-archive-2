@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from Mlindo The Vocalist, Internet Girl, Solana, Shakes & Les,  Ggoldie & Chlé and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,192 likes - 90 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,263 likes - 90 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

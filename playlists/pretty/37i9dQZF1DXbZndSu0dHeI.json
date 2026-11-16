@@ -1,6 +1,6 @@
 {
   "description": "Really lovely songs.",
-  "num_followers": 233964,
+  "num_followers": 233959,
   "original_name": "The Lovely Little Playlist",
   "owner": {
     "name": "Spotify",
@@ -623,6 +623,22 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
+        "name": "Love Hate Music Box",
+        "url": "https://open.spotify.com/album/2bOwdC37gg057sITTY8Ovj"
+      },
+      "artists": [
+        {
+          "name": "Rainbow Kitten Surprise",
+          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
+        }
+      ],
+      "duration_ms": 181390,
+      "name": "Meticulous",
+      "url": "https://open.spotify.com/track/2WvsvWRHvcX3bZPiJwTwpy"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
         "name": "Nothing I Need",
         "url": "https://open.spotify.com/album/3rjZ98KWpB2yMUuc48qId8"
       },
@@ -639,34 +655,34 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "Love Hate Music Box",
-        "url": "https://open.spotify.com/album/2bOwdC37gg057sITTY8Ovj"
+        "name": "Songs For The Canyon",
+        "url": "https://open.spotify.com/album/1k7iymTuRK6I4tvn0SX38I"
       },
       "artists": [
         {
-          "name": "Rainbow Kitten Surprise",
-          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
+          "name": "John Vincent III",
+          "url": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
         }
       ],
-      "duration_ms": 181390,
-      "name": "Meticulous",
-      "url": "https://open.spotify.com/track/2WvsvWRHvcX3bZPiJwTwpy"
+      "duration_ms": 240080,
+      "name": "Bluebird Singing",
+      "url": "https://open.spotify.com/track/7LlmSAqvcpjheDytACHfDu"
     },
     {
-      "added_at": "2026-08-14 13:22:54",
+      "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "Spill",
-        "url": "https://open.spotify.com/album/3NPY0pbI9pQtNOp9jzxJAa"
+        "name": "Wild",
+        "url": "https://open.spotify.com/album/2tggKTosyVKKepsled2gaO"
       },
       "artists": [
         {
-          "name": "Slow Pulp",
-          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
+          "name": "Medium Build",
+          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
         }
       ],
-      "duration_ms": 195912,
-      "name": "Spill",
-      "url": "https://open.spotify.com/track/4vjuArCMCwFOLDVCn9TG5n"
+      "duration_ms": 207353,
+      "name": "Be Your Boy",
+      "url": "https://open.spotify.com/track/0mvbSAjTbLc6ExAaDh5vlM"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -689,36 +705,20 @@
       "url": "https://open.spotify.com/track/3J2YEcRHVwnvaGNfFuKA7T"
     },
     {
-      "added_at": "2026-06-18 23:01:00",
+      "added_at": "2026-08-14 13:22:54",
       "album": {
-        "name": "Wild",
-        "url": "https://open.spotify.com/album/2tggKTosyVKKepsled2gaO"
+        "name": "Spill",
+        "url": "https://open.spotify.com/album/3NPY0pbI9pQtNOp9jzxJAa"
       },
       "artists": [
         {
-          "name": "Medium Build",
-          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
+          "name": "Slow Pulp",
+          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
         }
       ],
-      "duration_ms": 207353,
-      "name": "Be Your Boy",
-      "url": "https://open.spotify.com/track/0mvbSAjTbLc6ExAaDh5vlM"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
-        "name": "Songs For The Canyon",
-        "url": "https://open.spotify.com/album/1k7iymTuRK6I4tvn0SX38I"
-      },
-      "artists": [
-        {
-          "name": "John Vincent III",
-          "url": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
-        }
-      ],
-      "duration_ms": 240080,
-      "name": "Bluebird Singing",
-      "url": "https://open.spotify.com/track/7LlmSAqvcpjheDytACHfDu"
+      "duration_ms": 195912,
+      "name": "Spill",
+      "url": "https://open.spotify.com/track/4vjuArCMCwFOLDVCn9TG5n"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "a leith ross song",
-        "url": "https://open.spotify.com/album/3HbZ4Auys97D5iSTsjYJP4"
-      },
-      "artists": [
-        {
-          "name": "Kayla Grace",
-          "url": "https://open.spotify.com/artist/12dfSc1rVtEea2qMe38v3T"
-        }
-      ],
-      "duration_ms": 147133,
-      "name": "a leith ross song",
-      "url": "https://open.spotify.com/track/1TUlVxsllap9YEh7KMGUTi"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
         "name": "Daisy",
         "url": "https://open.spotify.com/album/6FrjprlGLkS4u8x6Y5uTPG"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 182624,
       "name": "Daisy",
       "url": "https://open.spotify.com/track/1lTJTWRQtYT9bVYcD5tiHn"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
+        "name": "a leith ross song",
+        "url": "https://open.spotify.com/album/3HbZ4Auys97D5iSTsjYJP4"
+      },
+      "artists": [
+        {
+          "name": "Kayla Grace",
+          "url": "https://open.spotify.com/artist/12dfSc1rVtEea2qMe38v3T"
+        }
+      ],
+      "duration_ms": 147133,
+      "name": "a leith ross song",
+      "url": "https://open.spotify.com/track/1TUlVxsllap9YEh7KMGUTi"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "Mechanical Bull",
-        "url": "https://open.spotify.com/album/6oCZlWPocAtzIiwB4wmYOn"
-      },
-      "artists": [
-        {
-          "name": "Etta Marcus",
-          "url": "https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg"
-        }
-      ],
-      "duration_ms": 236359,
-      "name": "Mechanical Bull",
-      "url": "https://open.spotify.com/track/5xW6tYmC8DnppbGrZClVbM"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
         "name": "How Beautiful Life Can Be",
         "url": "https://open.spotify.com/album/2vlmiZvKsLEMkbv17IM26Z"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 150662,
       "name": "How Beautiful Life Can Be - Single Version",
       "url": "https://open.spotify.com/track/3GrRJRZabcEpKD1HI59nFK"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
+        "name": "Mechanical Bull",
+        "url": "https://open.spotify.com/album/6oCZlWPocAtzIiwB4wmYOn"
+      },
+      "artists": [
+        {
+          "name": "Etta Marcus",
+          "url": "https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg"
+        }
+      ],
+      "duration_ms": 236359,
+      "name": "Mechanical Bull",
+      "url": "https://open.spotify.com/track/5xW6tYmC8DnppbGrZClVbM"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -1221,22 +1221,6 @@
       "url": "https://open.spotify.com/track/0h6X7BCq7IYKHNoXln3LX3"
     },
     {
-      "added_at": "2026-08-14 13:22:54",
-      "album": {
-        "name": "Sabbath Deep Cuts",
-        "url": "https://open.spotify.com/album/0XrxPkmUNib3Fmcko01Joi"
-      },
-      "artists": [
-        {
-          "name": "Jake Whiskin",
-          "url": "https://open.spotify.com/artist/5OvCTHhlz7qB2JAzc5b0Dq"
-        }
-      ],
-      "duration_ms": 214336,
-      "name": "Sabbath Deep Cuts",
-      "url": "https://open.spotify.com/track/0ytgwF282jWaH1rtTsJMgc"
-    },
-    {
       "added_at": "2026-06-18 23:01:00",
       "album": {
         "name": "Guts",
@@ -1251,6 +1235,22 @@
       "duration_ms": 206233,
       "name": "Guts",
       "url": "https://open.spotify.com/track/5cVBkcYGi6aiG4cnTMfN6x"
+    },
+    {
+      "added_at": "2026-08-14 13:22:54",
+      "album": {
+        "name": "Sabbath Deep Cuts",
+        "url": "https://open.spotify.com/album/0XrxPkmUNib3Fmcko01Joi"
+      },
+      "artists": [
+        {
+          "name": "Jake Whiskin",
+          "url": "https://open.spotify.com/artist/5OvCTHhlz7qB2JAzc5b0Dq"
+        }
+      ],
+      "duration_ms": 214336,
+      "name": "Sabbath Deep Cuts",
+      "url": "https://open.spotify.com/track/0ytgwF282jWaH1rtTsJMgc"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "Cinnamon",
-        "url": "https://open.spotify.com/album/4BPGLP2hhaCWdkEJGqZ6sY"
-      },
-      "artists": [
-        {
-          "name": "Jea Mira",
-          "url": "https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3"
-        }
-      ],
-      "duration_ms": 190842,
-      "name": "Cinnamon",
-      "url": "https://open.spotify.com/track/7CxcxeNMisYRbiXULp7L0L"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
         "name": "Citadel Band",
         "url": "https://open.spotify.com/album/7mMwcMgwE98WjsxiCcCiQH"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 238280,
       "name": "Ignorant Boy, Beautiful Girl (Namanama)",
       "url": "https://open.spotify.com/track/7JsvW1GU2hbMnGETSyy7ig"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
+        "name": "Cinnamon",
+        "url": "https://open.spotify.com/album/4BPGLP2hhaCWdkEJGqZ6sY"
+      },
+      "artists": [
+        {
+          "name": "Jea Mira",
+          "url": "https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3"
+        }
+      ],
+      "duration_ms": 190842,
+      "name": "Cinnamon",
+      "url": "https://open.spotify.com/track/7CxcxeNMisYRbiXULp7L0L"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "Nosebleed",
-        "url": "https://open.spotify.com/album/21ra3mXDSgrc12axMIbjsn"
-      },
-      "artists": [
-        {
-          "name": "Etta Marcus",
-          "url": "https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg"
-        }
-      ],
-      "duration_ms": 206573,
-      "name": "Nosebleed",
-      "url": "https://open.spotify.com/track/1ARLDdTUR8FPWCW65qRTq8"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
         "name": "Crash Landing",
         "url": "https://open.spotify.com/album/16yiIpsUTGRqStqX4tcc6y"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 151306,
       "name": "energizer",
       "url": "https://open.spotify.com/track/3qAYNIIiXHoycbCWku8cIU"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
+        "name": "Nosebleed",
+        "url": "https://open.spotify.com/album/21ra3mXDSgrc12axMIbjsn"
+      },
+      "artists": [
+        {
+          "name": "Etta Marcus",
+          "url": "https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg"
+        }
+      ],
+      "duration_ms": 206573,
+      "name": "Nosebleed",
+      "url": "https://open.spotify.com/track/1ARLDdTUR8FPWCW65qRTq8"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
+        "name": "Hannah Montana",
+        "url": "https://open.spotify.com/album/1rcZE2CoDdOF8W0XUC4Yjp"
+      },
+      "artists": [
+        {
+          "name": "flowerovlove",
+          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
+        }
+      ],
+      "duration_ms": 145324,
+      "name": "Hannah Montana",
+      "url": "https://open.spotify.com/track/00ko8Vr9Hbw0hJC9laqBOj"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
         "name": "Mac's Omelette",
         "url": "https://open.spotify.com/album/3CLqLECm5JopTVkD3tMikU"
       },
@@ -1603,38 +1619,6 @@
       "duration_ms": 238845,
       "name": "Mac\u2019s Omelette",
       "url": "https://open.spotify.com/track/4puNPIWV9CQLdWKy5gtkiP"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
-        "name": "it's a landslide",
-        "url": "https://open.spotify.com/album/1Oc7fvNL3yxeXfLbYN17ER"
-      },
-      "artists": [
-        {
-          "name": "beaux",
-          "url": "https://open.spotify.com/artist/6aw3gb4KA0sfz1Vac4JNaj"
-        }
-      ],
-      "duration_ms": 159730,
-      "name": "it's a landslide",
-      "url": "https://open.spotify.com/track/0uOWwP2AQqdwNuXJHeuErG"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
-        "name": "Shelter",
-        "url": "https://open.spotify.com/album/2fnADmeEO13U3Lb4PNsFo3"
-      },
-      "artists": [
-        {
-          "name": "Alice Phoebe Lou",
-          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
-        }
-      ],
-      "duration_ms": 197779,
-      "name": "Shelter",
-      "url": "https://open.spotify.com/track/0hyTH8NRRQeaFjbfoktfnc"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -1655,6 +1639,22 @@
       "duration_ms": 201240,
       "name": "Fantasneeze (feat. Matilda Mann)",
       "url": "https://open.spotify.com/track/4dsyiGRnIpw8Y1C5IXhKJi"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
+        "name": "it's a landslide",
+        "url": "https://open.spotify.com/album/1Oc7fvNL3yxeXfLbYN17ER"
+      },
+      "artists": [
+        {
+          "name": "beaux",
+          "url": "https://open.spotify.com/artist/6aw3gb4KA0sfz1Vac4JNaj"
+        }
+      ],
+      "duration_ms": 159730,
+      "name": "it's a landslide",
+      "url": "https://open.spotify.com/track/0uOWwP2AQqdwNuXJHeuErG"
     }
   ],
   "unique_name": "The Lovely Little Playlist",

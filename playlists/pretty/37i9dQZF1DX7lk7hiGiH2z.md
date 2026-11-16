@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 
 > Die schönsten Lieder für den Laternenumzug ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,945 likes - 45 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,963 likes - 45 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 33 | [Laternchen, Laternchen](https://open.spotify.com/track/02iM95Tu2YT4dsuWwIQkke) | [Kinderchor Canzonetta Berlin](https://open.spotify.com/artist/2hPcTWItqk71rEzyaHQn7R) | [St\. Martin \- Die Kinderlieder zum Laternen Fest](https://open.spotify.com/album/7K3Psz6NXHypF40QCR9kcT) | 1:32 |
 | 34 | [Laternensong](https://open.spotify.com/track/3bAGyIRfkgqHYFCaajDsQg) | [LiederTiger](https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt) | [Meine Lieblingskinderlieder zum Laternelaufen](https://open.spotify.com/album/4EdCIX7eCBKk6RgmXABFJG) | 2:28 |
 | 35 | [Hexen Laternenlauf](https://open.spotify.com/track/6PO8tFwarbJoG3XRU0Uv1y) | [Andreas Schoba: Kinderlieder einfach handgemacht](https://open.spotify.com/artist/3Av62xzOXjxLZ4XAt1V911) | [Hexen Laternenlauf](https://open.spotify.com/album/6ZsgutFQGrbdUjoWj9OdNQ) | 2:08 |
-| 36 | [Wir halten die Laternen](https://open.spotify.com/track/4BSk3N9P8FKiZzWKlBSP4M) | [Schnabi Schnabel](https://open.spotify.com/artist/3GxW2mmzRySZHcA0RUk8d8), [Kinderlieder Gang](https://open.spotify.com/artist/2MRBYMwOyQql8G4BngW89E) | [Kinderlieder \- Herbst \(2022\)](https://open.spotify.com/album/08D9Wpnkuq1Obo7ZMhGCe9) | 3:14 |
+| 36 | [Ich geh mit meiner Laterne](https://open.spotify.com/track/41VsHvhdX0cd4IF9TqKeyy) | [herrH](https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ) | [Endlich Winter!](https://open.spotify.com/album/09wNwzLZ3ahuBq3x0XyQ6o) | 3:58 |
 | 37 | [Ich geh mit meiner Laterne](https://open.spotify.com/track/2pZzhA5c2KD8CDYJUKDJht) | [Kati Breuer](https://open.spotify.com/artist/3vgsqpOJq62z2UjnRO2liy) | [Sankt Martin ritt durch Schnee und Wind \- Die 25 schönsten Laternenlieder](https://open.spotify.com/album/1WqaJkBlsb8fEz7xAI2P5Y) | 3:39 |
-| 38 | [Ich geh mit meiner Laterne](https://open.spotify.com/track/41VsHvhdX0cd4IF9TqKeyy) | [herrH](https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ) | [Endlich Winter!](https://open.spotify.com/album/09wNwzLZ3ahuBq3x0XyQ6o) | 3:58 |
+| 38 | [Wir halten die Laternen](https://open.spotify.com/track/4BSk3N9P8FKiZzWKlBSP4M) | [Schnabi Schnabel](https://open.spotify.com/artist/3GxW2mmzRySZHcA0RUk8d8), [Kinderlieder Gang](https://open.spotify.com/artist/2MRBYMwOyQql8G4BngW89E) | [Kinderlieder \- Herbst \(2022\)](https://open.spotify.com/album/08D9Wpnkuq1Obo7ZMhGCe9) | 3:14 |
 | 39 | [Wir leuchten zusammen](https://open.spotify.com/track/31llVx9c5b3iJiLuSIE98h) | [LiederTiger](https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt) | [Meine Lieblingskinderlieder zum Laternelaufen](https://open.spotify.com/album/4EdCIX7eCBKk6RgmXABFJG) | 2:30 |
 | 40 | [Ein kleines Licht](https://open.spotify.com/track/2RowFACdokspBh35bUB10Y) | [Matthias Meyer\-Göllner](https://open.spotify.com/artist/3wSCObv8i1PanMKLjj3hhC) | [Ein kleines Licht](https://open.spotify.com/album/3HY6Qx5Im7vFP8LzsLKEtS) | 3:21 |
 | 41 | [Sankt Martin St\. Martin](https://open.spotify.com/track/6oNQp4PMCIqnSnuiyJl4Qf) | [Mini Mike Und Die Singenden Kids](https://open.spotify.com/artist/3jWwWDdJZcW6EhfehsQ1sH) | [Lieder zum Mitsingen und Tanzen, Vol\. 5](https://open.spotify.com/album/2Gql38VE3aDhNDNW2h626Y) | 3:25 |

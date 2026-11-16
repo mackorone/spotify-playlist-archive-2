@@ -1,6 +1,6 @@
 {
   "description": "Le plus chauds d'Afrique Francophone. Cover: Baby Daiz & Tiakola ",
-  "num_followers": 20396,
+  "num_followers": 20417,
   "original_name": "Francophone.wav",
   "owner": {
     "name": "Spotify",
@@ -1243,6 +1243,26 @@
     {
       "added_at": "2026-11-13 00:02:15",
       "album": {
+        "name": "Forgiveness",
+        "url": "https://open.spotify.com/album/3YrpMaoOnkF0d4H7vJW7c4"
+      },
+      "artists": [
+        {
+          "name": "PSON",
+          "url": "https://open.spotify.com/artist/1Fxk1V3Q9mWXoUKX1LnEAt"
+        },
+        {
+          "name": "Not3s",
+          "url": "https://open.spotify.com/artist/40NRiKuuhj1pgGYppptlBO"
+        }
+      ],
+      "duration_ms": 179417,
+      "name": "Dady",
+      "url": "https://open.spotify.com/track/7DYytjdsJPAtnIfjK3P2Nh"
+    },
+    {
+      "added_at": "2026-11-13 00:02:15",
+      "album": {
         "name": "Ololo",
         "url": "https://open.spotify.com/album/37MGKojMxN5l8hiJSIc5JR"
       },
@@ -1279,26 +1299,6 @@
       "duration_ms": 156500,
       "name": "Posa Na Bina",
       "url": "https://open.spotify.com/track/08mU4zr52hOJR7ZyqS6Jmr"
-    },
-    {
-      "added_at": "2026-11-13 00:02:15",
-      "album": {
-        "name": "Forgiveness",
-        "url": "https://open.spotify.com/album/3YrpMaoOnkF0d4H7vJW7c4"
-      },
-      "artists": [
-        {
-          "name": "PSON",
-          "url": "https://open.spotify.com/artist/1Fxk1V3Q9mWXoUKX1LnEAt"
-        },
-        {
-          "name": "Not3s",
-          "url": "https://open.spotify.com/artist/40NRiKuuhj1pgGYppptlBO"
-        }
-      ],
-      "duration_ms": 179417,
-      "name": "Dady",
-      "url": "https://open.spotify.com/track/7DYytjdsJPAtnIfjK3P2Nh"
     },
     {
       "added_at": "2026-11-13 00:02:15",
@@ -1415,18 +1415,18 @@
     {
       "added_at": "2026-11-13 00:02:15",
       "album": {
-        "name": "L'undertaker Part.1",
-        "url": "https://open.spotify.com/album/5hgB3YhDFqOPsEd9WnWanj"
+        "name": "So Badd",
+        "url": "https://open.spotify.com/album/0K1pkeLRiTQF7FfaDvo9q6"
       },
       "artists": [
         {
-          "name": "Mauvais djo",
-          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
+          "name": "Agatchu",
+          "url": "https://open.spotify.com/artist/5ZQuf1hFcYWTqEJoWSkp65"
         }
       ],
-      "duration_ms": 156076,
-      "name": "Pil\u00e9",
-      "url": "https://open.spotify.com/track/3Vac8kKIqOTCEE3nuaIcec"
+      "duration_ms": 149714,
+      "name": "So Badd",
+      "url": "https://open.spotify.com/track/6CSCKFY8fK9qzt37EuCbbO"
     },
     {
       "added_at": "2026-11-13 00:02:15",
@@ -1447,18 +1447,18 @@
     {
       "added_at": "2026-11-13 00:02:15",
       "album": {
-        "name": "So Badd",
-        "url": "https://open.spotify.com/album/0K1pkeLRiTQF7FfaDvo9q6"
+        "name": "L'undertaker Part.1",
+        "url": "https://open.spotify.com/album/5hgB3YhDFqOPsEd9WnWanj"
       },
       "artists": [
         {
-          "name": "Agatchu",
-          "url": "https://open.spotify.com/artist/5ZQuf1hFcYWTqEJoWSkp65"
+          "name": "Mauvais djo",
+          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
         }
       ],
-      "duration_ms": 149714,
-      "name": "So Badd",
-      "url": "https://open.spotify.com/track/6CSCKFY8fK9qzt37EuCbbO"
+      "duration_ms": 156076,
+      "name": "Pil\u00e9",
+      "url": "https://open.spotify.com/track/3Vac8kKIqOTCEE3nuaIcec"
     },
     {
       "added_at": "2026-11-13 00:02:15",

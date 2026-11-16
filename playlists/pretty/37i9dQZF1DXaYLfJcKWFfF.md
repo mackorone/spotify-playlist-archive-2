@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 
 > Alternative / Indie / Folk cuts from Africa and diaspora to dive into\. Cover: Mishy Kope
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,237 likes - 80 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,250 likes - 80 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Nyana Ka Maria](https://open.spotify.com/track/3dOITBtVd1MuoTvh8NNluh) | [Jabulile Majola](https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF) | [Ipasi \(Deluxe\)](https://open.spotify.com/album/2ZJQF9AldQ1TK2WqeDQUxx) | 4:20 |
 | 2 | [Mali Spirit](https://open.spotify.com/track/4cEQJAGKi0ToNEqBs60Kpd) | [LAGOS IN PARIS](https://open.spotify.com/artist/2VaCLjX4lfeTILde1uhzMe) | [Mali Spirit](https://open.spotify.com/album/1I2XSrjEHR8vZ60fqIdBlW) | 3:36 |
-| 3 | [Farafina Mousso \- Acoustic Version](https://open.spotify.com/track/6LAbTHx8i3I8F31VLX7LR1) | [Lubiana](https://open.spotify.com/artist/7ojiPW0PaP28Dfl8CqfQ3Q) | [Farafina Mousso \(Acoustic Version\)](https://open.spotify.com/album/5phjIgyecPvk66vUx40tx8) | 2:21 |
+| 3 | [I CHANGED \(I'M UP\)](https://open.spotify.com/track/1mUqDMg4JwzH6geIDEanrx) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL) | [THOSE WHO ARE AGAINST US ALL THE TIME](https://open.spotify.com/album/0x5Y6GpGre82Z0Lx7um7XK) | 3:21 |
 | 4 | [Mmkay](https://open.spotify.com/track/3AqeEpNCUBSh7MCjwlCe2z) | [Espacio Dios](https://open.spotify.com/artist/030q9tYMZs82CHR8DV9Fid) | [Mmkay](https://open.spotify.com/album/1dY4Q7zOwAuaUCx4SKIw6I) | 1:50 |
-| 5 | [Sorry Like You Mean It](https://open.spotify.com/track/6f9QDh2uAINwIXTfmoCO1v) | [HONEYMOAN](https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV) | [Sorry Like You Mean It](https://open.spotify.com/album/34eHflHLhK2wTKYZUlgSA0) | 3:29 |
+| 5 | [Farafina Mousso \- Acoustic Version](https://open.spotify.com/track/6LAbTHx8i3I8F31VLX7LR1) | [Lubiana](https://open.spotify.com/artist/7ojiPW0PaP28Dfl8CqfQ3Q) | [Farafina Mousso \(Acoustic Version\)](https://open.spotify.com/album/5phjIgyecPvk66vUx40tx8) | 2:21 |
 | 6 | [Be A Lover](https://open.spotify.com/track/4ulgOCX4KPIPaEOpOS6QFd) | [Jembaa Groove](https://open.spotify.com/artist/2eI6PFBggdyKUDG93qJQGs), [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx), [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [Be A Lover](https://open.spotify.com/album/4V0X4r6sBK4R5RIQdJnSB0) | 2:45 |
-| 7 | [I CHANGED \(I'M UP\)](https://open.spotify.com/track/1mUqDMg4JwzH6geIDEanrx) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL) | [THOSE WHO ARE AGAINST US ALL THE TIME](https://open.spotify.com/album/0x5Y6GpGre82Z0Lx7um7XK) | 3:21 |
+| 7 | [Sorry Like You Mean It](https://open.spotify.com/track/6f9QDh2uAINwIXTfmoCO1v) | [HONEYMOAN](https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV) | [Sorry Like You Mean It](https://open.spotify.com/album/34eHflHLhK2wTKYZUlgSA0) | 3:29 |
 | 8 | [YIMPI ENGAPHELIYO](https://open.spotify.com/track/2djKgPzgBjorXuGG0iFBB6) | [Mishy Kope](https://open.spotify.com/artist/5yg2Kn6JYslUEPYkmLca5a) | [YIMPI ENGAPHELIYO](https://open.spotify.com/album/1p0wBmk6LYEmlmBb11OKsZ) | 3:53 |
 | 9 | [Heavy](https://open.spotify.com/track/2MCMoWWhsuslO8NBRAfHR0) | [Booshle G.](https://open.spotify.com/artist/1QSMqcINjuDyxFbacapl0s) | [Heavy](https://open.spotify.com/album/5DxR3lqaovRan5jG5aP4r2) | 2:46 |
 | 10 | [Let There Be Peace](https://open.spotify.com/track/3dSaO6ZsDQ0ITEzeZqNSIo) | [Vusi Mahlasela](https://open.spotify.com/artist/7tUdxVCUWjTPf3Ic90eWDJ) | [Let There Be Peace](https://open.spotify.com/album/3hKFC7E37UxuewgLYLnY4A) | 3:33 |
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 | 74 | [Adwuma](https://open.spotify.com/track/3dGJ23oxQnLpSoboXe8IYj) | [Kay Slice](https://open.spotify.com/artist/1mPNT5YwLcCKfjdTwOfSC8), [Gyedu\-Blay Ambolley](https://open.spotify.com/artist/3K7G8Czqv2acbaWlxFfjbj) | [Adwuma](https://open.spotify.com/album/0aG6AoazPMX1PL8mCIVHCs) | 3:30 |
 | 75 | [Old Days](https://open.spotify.com/track/2V5cFMSrVqHBcHauVHffSY) | [Diamond Jimma](https://open.spotify.com/artist/2751FBlPyUIlDQ9mHySmPf) | [Akanbi](https://open.spotify.com/album/5Ly3Szv83dSvm2wC1LJ7r3) | 2:24 |
 | 76 | [Somewhere Only We Go](https://open.spotify.com/track/0e5r1a7ZVAbSRvsrdOdvFv) | [Tommy WÁ](https://open.spotify.com/artist/17e35Wp915ZK8I2wCBT1Kd) | [Somewhere Only We Go](https://open.spotify.com/album/7CkVmuSarxEAaF40gwVNWm) | 3:39 |
-| 77 | [Yalwa](https://open.spotify.com/track/45wZB5tjked2XJN1AB8lcR) | [Bongeziwe Mabandla](https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy) | [Yalwa](https://open.spotify.com/album/6K8LNHPN2rCs6ljbCxREYO) | 2:34 |
-| 78 | [The Midnight Wanderer](https://open.spotify.com/track/1WiAWAb50cD1eLqstTFer4) | [LUUKHANYO](https://open.spotify.com/artist/7G3XzYYbpwW7C8Ejjf137k) | [LUCKY UU](https://open.spotify.com/album/7jyadlhqz4EylDsyD77vwx) | 3:06 |
+| 77 | [WATSHO](https://open.spotify.com/track/6KHlZfxzzMNv0u7hsbWDak) | [Mishy Kope](https://open.spotify.com/artist/5yg2Kn6JYslUEPYkmLca5a) | [WATSHO](https://open.spotify.com/album/2DLHXKEqhzvWbaEmmpdrgy) | 3:22 |
+| 78 | [Yalwa](https://open.spotify.com/track/45wZB5tjked2XJN1AB8lcR) | [Bongeziwe Mabandla](https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy) | [Yalwa](https://open.spotify.com/album/6K8LNHPN2rCs6ljbCxREYO) | 2:34 |
 | 79 | [Terranga](https://open.spotify.com/track/4d3ZHLIh4OAbvokGMwOW7v) | [Ben Aylon](https://open.spotify.com/artist/3FkvY1RH37d9vewYpzgYbr), [Cheikh Lô](https://open.spotify.com/artist/6CFWXwqEBUi0UFoIIxmg9h) | [Terranga](https://open.spotify.com/album/5uuF7pyR4LWUt2YH5W57gf) | 3:21 |
-| 80 | [take it & leave](https://open.spotify.com/track/3Ix57xjmVUtHS9bJsstXiY) | [Sishii](https://open.spotify.com/artist/7qSWBbKrqf8gIGvvZLY2KG) | [take it & leave](https://open.spotify.com/album/57hsyg2gKZM8JKGnOkZCdc) | 4:08 |
+| 80 | [The Midnight Wanderer](https://open.spotify.com/track/1WiAWAb50cD1eLqstTFer4) | [LUUKHANYO](https://open.spotify.com/artist/7G3XzYYbpwW7C8Ejjf137k) | [LUCKY UU](https://open.spotify.com/album/7jyadlhqz4EylDsyD77vwx) | 3:06 |
 
 Snapshot ID: `AAAAAB+bQmjHhW4XIIrFiP3F/y+OnYSW`

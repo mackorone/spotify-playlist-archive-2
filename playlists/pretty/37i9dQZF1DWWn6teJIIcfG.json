@@ -1,6 +1,6 @@
 {
   "description": "Get your creative juices flowing with these classical and instrumental masterpieces.",
-  "num_followers": 224444,
+  "num_followers": 224447,
   "original_name": "Creative Focus",
   "owner": {
     "name": "Spotify",
@@ -907,6 +907,22 @@
     {
       "added_at": "2026-09-25 04:01:33",
       "album": {
+        "name": "The Sound Of Snow",
+        "url": "https://open.spotify.com/album/0WIVuD9M706cCtCSTGCFZY"
+      },
+      "artists": [
+        {
+          "name": "Stephan Moccio",
+          "url": "https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg"
+        }
+      ],
+      "duration_ms": 155680,
+      "name": "The Sound of Snow",
+      "url": "https://open.spotify.com/track/2x90SHtWXagGmY5w0HVx1i"
+    },
+    {
+      "added_at": "2026-09-25 04:01:33",
+      "album": {
         "name": "Faur\u00e9: Music for Piano",
         "url": "https://open.spotify.com/album/4Bq9f1vu4WaYfBD2cfTMAm"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 120493,
       "name": "8 Pi\u00e8ces br\u00e8ves, Op. 84: No. 5, Improvisation in C-Sharp Minor",
       "url": "https://open.spotify.com/track/4hVgzGnQ6TtV3vqPgb4LhY"
-    },
-    {
-      "added_at": "2026-09-25 04:01:33",
-      "album": {
-        "name": "The Sound Of Snow",
-        "url": "https://open.spotify.com/album/0WIVuD9M706cCtCSTGCFZY"
-      },
-      "artists": [
-        {
-          "name": "Stephan Moccio",
-          "url": "https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg"
-        }
-      ],
-      "duration_ms": 155680,
-      "name": "The Sound of Snow",
-      "url": "https://open.spotify.com/track/2x90SHtWXagGmY5w0HVx1i"
     },
     {
       "added_at": "2026-09-25 04:01:33",
@@ -1011,6 +1011,26 @@
     {
       "added_at": "2026-09-25 04:01:33",
       "album": {
+        "name": "Mahler: Symphony of a Thousand Piano Variation (From Symphony No. 8, Arr. for Piano by Tim Allhoff)",
+        "url": "https://open.spotify.com/album/7dLsmUw11m06iHhMtRVhZM"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Louis Philippson",
+          "url": "https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH"
+        }
+      ],
+      "duration_ms": 142166,
+      "name": "Mahler: Symphony of a Thousand Piano Variation (After Symphony No. 8, Arr. for Piano by Tim Allhoff)",
+      "url": "https://open.spotify.com/track/4dtYQrZFUqcAiV3VhkFyev"
+    },
+    {
+      "added_at": "2026-09-25 04:01:33",
+      "album": {
         "name": "Faur\u00e9: Berceuse, Op. 16",
         "url": "https://open.spotify.com/album/3q7lJbflaSLEkDu3h5cazc"
       },
@@ -1031,26 +1051,6 @@
       "duration_ms": 237600,
       "name": "Berceuse, Op. 16",
       "url": "https://open.spotify.com/track/7sSSQHaGVwm0rNSlI2M7so"
-    },
-    {
-      "added_at": "2026-09-25 04:01:33",
-      "album": {
-        "name": "Mahler: Symphony of a Thousand Piano Variation (From Symphony No. 8, Arr. for Piano by Tim Allhoff)",
-        "url": "https://open.spotify.com/album/7dLsmUw11m06iHhMtRVhZM"
-      },
-      "artists": [
-        {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
-        },
-        {
-          "name": "Louis Philippson",
-          "url": "https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH"
-        }
-      ],
-      "duration_ms": 142166,
-      "name": "Mahler: Symphony of a Thousand Piano Variation (After Symphony No. 8, Arr. for Piano by Tim Allhoff)",
-      "url": "https://open.spotify.com/track/4dtYQrZFUqcAiV3VhkFyev"
     },
     {
       "added_at": "2026-09-25 04:01:33",
@@ -1843,6 +1843,26 @@
     {
       "added_at": "2026-09-25 04:01:33",
       "album": {
+        "name": "Luna",
+        "url": "https://open.spotify.com/album/2iKeXCLFndoxnXqpBEVbmd"
+      },
+      "artists": [
+        {
+          "name": "Ghislaine Reece-Trapp",
+          "url": "https://open.spotify.com/artist/4sQV8wJwA2L2UkVhTbzlkD"
+        },
+        {
+          "name": "Anna Lapwood",
+          "url": "https://open.spotify.com/artist/0e2JUvil990IURjsq2PmqP"
+        }
+      ],
+      "duration_ms": 286413,
+      "name": "In Paradisum",
+      "url": "https://open.spotify.com/track/57fN24C59MczUrUj0W7ijr"
+    },
+    {
+      "added_at": "2026-09-25 04:01:33",
+      "album": {
         "name": "Glass: Etude No. 6 (Arr. for Cello Solo and Orchestra by O. Jockel)",
         "url": "https://open.spotify.com/album/2BFsR5xwpCeaUDd8PFOQvq"
       },
@@ -1867,26 +1887,6 @@
       "duration_ms": 182000,
       "name": "Etude No. 6 (Arr. for Cello Solo and Orchestra by O. Jockel)",
       "url": "https://open.spotify.com/track/6hINBNGWOSTjVCTDUi1RC4"
-    },
-    {
-      "added_at": "2026-09-25 04:01:33",
-      "album": {
-        "name": "Luna",
-        "url": "https://open.spotify.com/album/2iKeXCLFndoxnXqpBEVbmd"
-      },
-      "artists": [
-        {
-          "name": "Ghislaine Reece-Trapp",
-          "url": "https://open.spotify.com/artist/4sQV8wJwA2L2UkVhTbzlkD"
-        },
-        {
-          "name": "Anna Lapwood",
-          "url": "https://open.spotify.com/artist/0e2JUvil990IURjsq2PmqP"
-        }
-      ],
-      "duration_ms": 286413,
-      "name": "In Paradisum",
-      "url": "https://open.spotify.com/track/57fN24C59MczUrUj0W7ijr"
     },
     {
       "added_at": "2026-09-25 04:01:33",
@@ -2235,6 +2235,26 @@
     {
       "added_at": "2026-09-25 04:01:33",
       "album": {
+        "name": "Chordal Drift",
+        "url": "https://open.spotify.com/album/6nHbqioJUSyUf01jRdZjLe"
+      },
+      "artists": [
+        {
+          "name": "Scoring Berlin",
+          "url": "https://open.spotify.com/artist/5aVO01MTGf8SFlZvNm98ke"
+        },
+        {
+          "name": "Roger Eno",
+          "url": "https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo"
+        }
+      ],
+      "duration_ms": 182965,
+      "name": "Chordal Drift",
+      "url": "https://open.spotify.com/track/6S30a788IqUT1ExSTQljLM"
+    },
+    {
+      "added_at": "2026-09-25 04:01:33",
+      "album": {
         "name": "Amazing Grace (Arr. Simon for Violin and Piano)",
         "url": "https://open.spotify.com/album/4AySC6MJDEh6V5P4tv0LkX"
       },
@@ -2255,26 +2275,6 @@
       "duration_ms": 221400,
       "name": "Amazing Grace (Arr. Simon for Violin and Piano)",
       "url": "https://open.spotify.com/track/4meHYHQ6Q41udKUmk6tNCe"
-    },
-    {
-      "added_at": "2026-09-25 04:01:33",
-      "album": {
-        "name": "Chordal Drift",
-        "url": "https://open.spotify.com/album/6nHbqioJUSyUf01jRdZjLe"
-      },
-      "artists": [
-        {
-          "name": "Scoring Berlin",
-          "url": "https://open.spotify.com/artist/5aVO01MTGf8SFlZvNm98ke"
-        },
-        {
-          "name": "Roger Eno",
-          "url": "https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo"
-        }
-      ],
-      "duration_ms": 182965,
-      "name": "Chordal Drift",
-      "url": "https://open.spotify.com/track/6S30a788IqUT1ExSTQljLM"
     },
     {
       "added_at": "2026-09-25 04:01:33",

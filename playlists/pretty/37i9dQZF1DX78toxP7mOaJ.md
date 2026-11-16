@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock & alternative from independent artists every Wednesday\. Cover: The Sophs
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,827 likes - 75 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,866 likes - 75 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 62 | [Igneous](https://open.spotify.com/track/4ZUm4jhPqjJFKJpo2aVZeQ) | [r\. image](https://open.spotify.com/artist/0nwynIUuC5DgX62knlri4i) | [Spitting Your Name Into the River](https://open.spotify.com/album/3XgIdalRyJ8jedO7J6YkNt) | 4:04 |
 | 63 | [Gotta Run](https://open.spotify.com/track/7sqXiIwXi9rXOo0RFQBV5i) | [SMILE](https://open.spotify.com/artist/6OY6Dxy4fEtfwYJxPdoQC8) | [Gotta Run](https://open.spotify.com/album/5XENy5Tn7T3ZO5WAOkHEj3) | 3:27 |
 | 64 | [Sweet Pill](https://open.spotify.com/track/2i1SlzXQKHm5HSJvo4RmSF) | [SPARE KID](https://open.spotify.com/artist/4NvDNAvys1tHXGCtU2Cr20) | [Sweet Pill](https://open.spotify.com/album/69inrUm1B0zI7nsE8VFfEB) | 2:47 |
-| 65 | [Minolta](https://open.spotify.com/track/4M7H51B5BkS8ajnmozIhva) | [penny loafer](https://open.spotify.com/artist/7em8QNm1ai99fHyJAOlqAL) | [Fixer](https://open.spotify.com/album/1SYmW6CXCy4FVBNr10wYwu) | 3:01 |
+| 65 | [Minolta](https://open.spotify.com/track/4M7H51B5BkS8ajnmozIhva) | [Penny Loafer](https://open.spotify.com/artist/7em8QNm1ai99fHyJAOlqAL) | [Fixer](https://open.spotify.com/album/1SYmW6CXCy4FVBNr10wYwu) | 3:01 |
 | 66 | [Around My Finger](https://open.spotify.com/track/0p03G39z3M9nTkm43JT9rN) | [Perfect 100](https://open.spotify.com/artist/0OudMfm2wZ3DUlb9AGI5zh) | [Around My Finger](https://open.spotify.com/album/7ui7ZW1dhkx02uVMyhVyju) | 2:29 |
 | 67 | [Lucile](https://open.spotify.com/track/2whmQ62VKCqzlDvj0WmGT3) | [Ballet](https://open.spotify.com/artist/0WIbNObVmemQwisszTjb1A) | [Lucile](https://open.spotify.com/album/1SIeK36MU3vha66Dz3xkCn) | 3:37 |
 | 68 | [ninetynine](https://open.spotify.com/track/4xFZDHwEh6bdqebhbU28JJ) | [Slow Fiction](https://open.spotify.com/artist/3ZyjpHbSpzsLV3ZEyJZBAW) | [dollhouse](https://open.spotify.com/album/201hc47dwex9hgvquFuPyK) | 2:43 |

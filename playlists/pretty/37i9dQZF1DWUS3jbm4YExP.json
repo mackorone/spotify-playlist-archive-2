@@ -1,6 +1,6 @@
 {
   "description": "Groovy sounds from around the world.",
-  "num_followers": 891338,
+  "num_followers": 891414,
   "original_name": "Global Groove",
   "owner": {
     "name": "Spotify",
@@ -539,22 +539,18 @@
     {
       "added_at": "2026-11-13 08:55:45",
       "album": {
-        "name": "\u00c7a fait 2x plus de bien",
-        "url": "https://open.spotify.com/album/5v03jp3rrC4R0AVFlMsMAE"
+        "name": "Tutankhamun",
+        "url": "https://open.spotify.com/album/1SKlV7QlKQLdCRX4RNJ7WS"
       },
       "artists": [
         {
-          "name": "Antonin",
-          "url": "https://open.spotify.com/artist/5Z1r1R8kuSh4FRdQh7kzmC"
-        },
-        {
-          "name": "Voilaaa",
-          "url": "https://open.spotify.com/artist/6MQoRoLtsUg7Fzi5nJGmC1"
+          "name": "Tutankhamun",
+          "url": "https://open.spotify.com/artist/6iqqrYdwxJzmxSz9ZJ72CH"
         }
       ],
-      "duration_ms": 208153,
-      "name": "\u00c7a fait du bien - Voilaaa Remix",
-      "url": "https://open.spotify.com/track/35iCo2B0jaGwYpaFP2fFZ8"
+      "duration_ms": 214661,
+      "name": "Garden",
+      "url": "https://open.spotify.com/track/3m2nRBf1Z1Ef3vCBeR2npM"
     },
     {
       "added_at": "2026-11-13 08:55:45",
@@ -575,18 +571,22 @@
     {
       "added_at": "2026-11-13 08:55:45",
       "album": {
-        "name": "Tutankhamun",
-        "url": "https://open.spotify.com/album/1SKlV7QlKQLdCRX4RNJ7WS"
+        "name": "\u00c7a fait 2x plus de bien",
+        "url": "https://open.spotify.com/album/5v03jp3rrC4R0AVFlMsMAE"
       },
       "artists": [
         {
-          "name": "Tutankhamun",
-          "url": "https://open.spotify.com/artist/6iqqrYdwxJzmxSz9ZJ72CH"
+          "name": "Antonin",
+          "url": "https://open.spotify.com/artist/5Z1r1R8kuSh4FRdQh7kzmC"
+        },
+        {
+          "name": "Voilaaa",
+          "url": "https://open.spotify.com/artist/6MQoRoLtsUg7Fzi5nJGmC1"
         }
       ],
-      "duration_ms": 214661,
-      "name": "Garden",
-      "url": "https://open.spotify.com/track/3m2nRBf1Z1Ef3vCBeR2npM"
+      "duration_ms": 208153,
+      "name": "\u00c7a fait du bien - Voilaaa Remix",
+      "url": "https://open.spotify.com/track/35iCo2B0jaGwYpaFP2fFZ8"
     },
     {
       "added_at": "2026-11-13 08:55:45",
@@ -1419,26 +1419,6 @@
     {
       "added_at": "2026-11-13 08:55:45",
       "album": {
-        "name": "Azulejos",
-        "url": "https://open.spotify.com/album/1hpTHSEosXRl8z47mcRL2J"
-      },
-      "artists": [
-        {
-          "name": "Populous",
-          "url": "https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU"
-        },
-        {
-          "name": "Ela Minus",
-          "url": "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
-        }
-      ],
-      "duration_ms": 206895,
-      "name": "Azul Oro",
-      "url": "https://open.spotify.com/track/3KgLKqA9FGDXXhhxHHgZvX"
-    },
-    {
-      "added_at": "2026-11-13 08:55:45",
-      "album": {
         "name": "Charanga",
         "url": "https://open.spotify.com/album/0GRIwTPZZAH3iibc3Yb7oe"
       },
@@ -1459,6 +1439,26 @@
       "duration_ms": 266820,
       "name": "Charanga",
       "url": "https://open.spotify.com/track/7CxwPOWDUC26Ia1odk1Mdj"
+    },
+    {
+      "added_at": "2026-11-13 08:55:45",
+      "album": {
+        "name": "Azulejos",
+        "url": "https://open.spotify.com/album/1hpTHSEosXRl8z47mcRL2J"
+      },
+      "artists": [
+        {
+          "name": "Populous",
+          "url": "https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU"
+        },
+        {
+          "name": "Ela Minus",
+          "url": "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
+        }
+      ],
+      "duration_ms": 206895,
+      "name": "Azul Oro",
+      "url": "https://open.spotify.com/track/3KgLKqA9FGDXXhhxHHgZvX"
     },
     {
       "added_at": "2026-11-13 08:55:45",
@@ -1719,6 +1719,26 @@
     {
       "added_at": "2026-11-13 08:55:45",
       "album": {
+        "name": "Koin\u00e8",
+        "url": "https://open.spotify.com/album/6PRXnH6Her6u85OU7j0GyN"
+      },
+      "artists": [
+        {
+          "name": "Pellegrino",
+          "url": "https://open.spotify.com/artist/7vCQ7NQVgCumcAWj8aaVow"
+        },
+        {
+          "name": "Zodyaco",
+          "url": "https://open.spotify.com/artist/33PuaySauEdkTeCaa3bOB1"
+        }
+      ],
+      "duration_ms": 231500,
+      "name": "Mario",
+      "url": "https://open.spotify.com/track/1EvKBtW2AE4vh6gkL0cw11"
+    },
+    {
+      "added_at": "2026-11-13 08:55:45",
+      "album": {
         "name": "Sweet Danger",
         "url": "https://open.spotify.com/album/6pIdfb0OaCvfzN6QxKOJQ2"
       },
@@ -1747,26 +1767,6 @@
       "duration_ms": 186251,
       "name": "Calima",
       "url": "https://open.spotify.com/track/59fqP4UTf9yP7xLJLyBn1I"
-    },
-    {
-      "added_at": "2026-11-13 08:55:45",
-      "album": {
-        "name": "Koin\u00e8",
-        "url": "https://open.spotify.com/album/6PRXnH6Her6u85OU7j0GyN"
-      },
-      "artists": [
-        {
-          "name": "Pellegrino",
-          "url": "https://open.spotify.com/artist/7vCQ7NQVgCumcAWj8aaVow"
-        },
-        {
-          "name": "Zodyaco",
-          "url": "https://open.spotify.com/artist/33PuaySauEdkTeCaa3bOB1"
-        }
-      ],
-      "duration_ms": 231500,
-      "name": "Mario",
-      "url": "https://open.spotify.com/track/1EvKBtW2AE4vh6gkL0cw11"
     },
     {
       "added_at": "2026-11-13 08:55:45",
@@ -2031,6 +2031,22 @@
     {
       "added_at": "2026-11-13 08:55:45",
       "album": {
+        "name": "Golden Hands",
+        "url": "https://open.spotify.com/album/68eTOEi1DZf7PoR85bsDaf"
+      },
+      "artists": [
+        {
+          "name": "Golden Hands",
+          "url": "https://open.spotify.com/artist/0lPR71mfj9LtLdNM8ZlEeZ"
+        }
+      ],
+      "duration_ms": 461120,
+      "name": "Take Me Back",
+      "url": "https://open.spotify.com/track/65NPCgLdUS0cb0w6ZiEt8d"
+    },
+    {
+      "added_at": "2026-11-13 08:55:45",
+      "album": {
         "name": "Mount Pleasant Remixed, Vol. 1",
         "url": "https://open.spotify.com/album/3ALtmr92YLgAb6cO2liYHK"
       },
@@ -2047,22 +2063,6 @@
       "duration_ms": 226568,
       "name": "Flames to Feed - Dr Rubberfunk Remix",
       "url": "https://open.spotify.com/track/2fgh5ZPeZbQ9y8b7AWC4iZ"
-    },
-    {
-      "added_at": "2026-11-13 08:55:45",
-      "album": {
-        "name": "The Age of Aquarius",
-        "url": "https://open.spotify.com/album/4hocimNA2HqHGJENlvTvws"
-      },
-      "artists": [
-        {
-          "name": "Yin Yin",
-          "url": "https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2"
-        }
-      ],
-      "duration_ms": 368108,
-      "name": "Sh\u0113nzhou V.",
-      "url": "https://open.spotify.com/track/0AULxj8PjVnPL8vuUGwVkb"
     },
     {
       "added_at": "2026-11-13 08:55:45",
@@ -2087,18 +2087,18 @@
     {
       "added_at": "2026-11-13 08:55:45",
       "album": {
-        "name": "Golden Hands",
-        "url": "https://open.spotify.com/album/68eTOEi1DZf7PoR85bsDaf"
+        "name": "The Age of Aquarius",
+        "url": "https://open.spotify.com/album/4hocimNA2HqHGJENlvTvws"
       },
       "artists": [
         {
-          "name": "Golden Hands",
-          "url": "https://open.spotify.com/artist/0lPR71mfj9LtLdNM8ZlEeZ"
+          "name": "Yin Yin",
+          "url": "https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2"
         }
       ],
-      "duration_ms": 461120,
-      "name": "Take Me Back",
-      "url": "https://open.spotify.com/track/65NPCgLdUS0cb0w6ZiEt8d"
+      "duration_ms": 368108,
+      "name": "Sh\u0113nzhou V.",
+      "url": "https://open.spotify.com/track/0AULxj8PjVnPL8vuUGwVkb"
     },
     {
       "added_at": "2026-11-13 08:55:45",
@@ -2243,6 +2243,22 @@
     {
       "added_at": "2026-11-13 08:55:45",
       "album": {
+        "name": "Consider It Done",
+        "url": "https://open.spotify.com/album/4eRgGGaoaIFT4x9JymYsH3"
+      },
+      "artists": [
+        {
+          "name": "Cocobolo",
+          "url": "https://open.spotify.com/artist/2KL4LWA8Ed7B5SscFbaLsu"
+        }
+      ],
+      "duration_ms": 195993,
+      "name": "Cocobolo",
+      "url": "https://open.spotify.com/track/7vtxV54DvYQDTSpAcFcjzZ"
+    },
+    {
+      "added_at": "2026-11-13 08:55:45",
+      "album": {
         "name": "Ombak, Ombak",
         "url": "https://open.spotify.com/album/4BuWyOgJi2Yooy0JrE0HUP"
       },
@@ -2259,22 +2275,6 @@
       "duration_ms": 199250,
       "name": "Ombak, Ombak",
       "url": "https://open.spotify.com/track/3QXXfiedawWWQQUljBwh75"
-    },
-    {
-      "added_at": "2026-11-13 08:55:45",
-      "album": {
-        "name": "Consider It Done",
-        "url": "https://open.spotify.com/album/4eRgGGaoaIFT4x9JymYsH3"
-      },
-      "artists": [
-        {
-          "name": "Cocobolo",
-          "url": "https://open.spotify.com/artist/2KL4LWA8Ed7B5SscFbaLsu"
-        }
-      ],
-      "duration_ms": 195993,
-      "name": "Cocobolo",
-      "url": "https://open.spotify.com/track/7vtxV54DvYQDTSpAcFcjzZ"
     },
     {
       "added_at": "2026-11-13 08:55:45",
@@ -2467,26 +2467,6 @@
     {
       "added_at": "2026-11-13 08:55:45",
       "album": {
-        "name": "Moonshake",
-        "url": "https://open.spotify.com/album/5t6furplfi3sWXxezzQtQA"
-      },
-      "artists": [
-        {
-          "name": "Marcello Cassanelli",
-          "url": "https://open.spotify.com/artist/2Y2ZlBMCoDBEumOLdAbGcm"
-        },
-        {
-          "name": "Gabe Costa",
-          "url": "https://open.spotify.com/artist/6LMyfO4lGSYAkJg3Yc06ZR"
-        }
-      ],
-      "duration_ms": 154445,
-      "name": "Moonshake",
-      "url": "https://open.spotify.com/track/6JmjLIr94qWA1rKOXdJgDL"
-    },
-    {
-      "added_at": "2026-11-13 08:55:45",
-      "album": {
         "name": "iZem Remixes",
         "url": "https://open.spotify.com/album/7w4HYQplaz3uezp8tUm9hf"
       },
@@ -2503,6 +2483,26 @@
       "duration_ms": 272221,
       "name": "L'origine du Monde - iZem Remix",
       "url": "https://open.spotify.com/track/1gfWtL0rEJwEJwyfaInfgu"
+    },
+    {
+      "added_at": "2026-11-13 08:55:45",
+      "album": {
+        "name": "Moonshake",
+        "url": "https://open.spotify.com/album/5t6furplfi3sWXxezzQtQA"
+      },
+      "artists": [
+        {
+          "name": "Marcello Cassanelli",
+          "url": "https://open.spotify.com/artist/2Y2ZlBMCoDBEumOLdAbGcm"
+        },
+        {
+          "name": "Gabe Costa",
+          "url": "https://open.spotify.com/artist/6LMyfO4lGSYAkJg3Yc06ZR"
+        }
+      ],
+      "duration_ms": 154445,
+      "name": "Moonshake",
+      "url": "https://open.spotify.com/track/6JmjLIr94qWA1rKOXdJgDL"
     },
     {
       "added_at": "2026-11-13 08:55:45",
@@ -2543,38 +2543,6 @@
     {
       "added_at": "2026-11-13 08:55:45",
       "album": {
-        "name": "G\u200b\u00fc\u200ble G\u200b\u00fc\u200ble",
-        "url": "https://open.spotify.com/album/1NrRCrYOOOZNDSEUBFo6yW"
-      },
-      "artists": [
-        {
-          "name": "Romano",
-          "url": "https://open.spotify.com/artist/6u3f9mIm9CziqD1NzHr2Fl"
-        }
-      ],
-      "duration_ms": 223764,
-      "name": "Guzelim Benim",
-      "url": "https://open.spotify.com/track/0FZQmNyOCR69n1KOAhpPbl"
-    },
-    {
-      "added_at": "2026-11-13 08:55:45",
-      "album": {
-        "name": "Love Warrior's Anthem",
-        "url": "https://open.spotify.com/album/0FpSLU6MAakFXThlR9K6pw"
-      },
-      "artists": [
-        {
-          "name": "Kwashibu Area Band",
-          "url": "https://open.spotify.com/artist/53PQcfQVWV5FU1Mh7Of1yP"
-        }
-      ],
-      "duration_ms": 269859,
-      "name": "M'akoma Nnwom",
-      "url": "https://open.spotify.com/track/1FkQaRUsKY4Ele0UcYF0bG"
-    },
-    {
-      "added_at": "2026-11-13 08:55:45",
-      "album": {
         "name": "Fully Loaded",
         "url": "https://open.spotify.com/album/5JdrXJhIxq21tkQTTf8BoV"
       },
@@ -2607,22 +2575,34 @@
     {
       "added_at": "2026-11-13 08:55:45",
       "album": {
-        "name": "Magnolia Tree",
-        "url": "https://open.spotify.com/album/0s8skAYOKtD2M7r6X9LptB"
+        "name": "Love Warrior's Anthem",
+        "url": "https://open.spotify.com/album/0FpSLU6MAakFXThlR9K6pw"
       },
       "artists": [
         {
-          "name": "Pale Jay",
-          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
-        },
-        {
-          "name": "Dahi",
-          "url": "https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der"
+          "name": "Kwashibu Area Band",
+          "url": "https://open.spotify.com/artist/53PQcfQVWV5FU1Mh7Of1yP"
         }
       ],
-      "duration_ms": 168837,
-      "name": "Magnolia Tree",
-      "url": "https://open.spotify.com/track/3rQWK48enFpN2cAWtrU813"
+      "duration_ms": 269859,
+      "name": "M'akoma Nnwom",
+      "url": "https://open.spotify.com/track/1FkQaRUsKY4Ele0UcYF0bG"
+    },
+    {
+      "added_at": "2026-11-13 08:55:45",
+      "album": {
+        "name": "G\u200b\u00fc\u200ble G\u200b\u00fc\u200ble",
+        "url": "https://open.spotify.com/album/1NrRCrYOOOZNDSEUBFo6yW"
+      },
+      "artists": [
+        {
+          "name": "Romano",
+          "url": "https://open.spotify.com/artist/6u3f9mIm9CziqD1NzHr2Fl"
+        }
+      ],
+      "duration_ms": 223764,
+      "name": "Guzelim Benim",
+      "url": "https://open.spotify.com/track/0FZQmNyOCR69n1KOAhpPbl"
     },
     {
       "added_at": "2026-11-13 08:55:45",
@@ -2639,6 +2619,26 @@
       "duration_ms": 353109,
       "name": "Somos",
       "url": "https://open.spotify.com/track/6IUKavHeCTT13k7zS1KKCH"
+    },
+    {
+      "added_at": "2026-11-13 08:55:45",
+      "album": {
+        "name": "Magnolia Tree",
+        "url": "https://open.spotify.com/album/0s8skAYOKtD2M7r6X9LptB"
+      },
+      "artists": [
+        {
+          "name": "Pale Jay",
+          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
+        },
+        {
+          "name": "Dahi",
+          "url": "https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der"
+        }
+      ],
+      "duration_ms": 168837,
+      "name": "Magnolia Tree",
+      "url": "https://open.spotify.com/track/3rQWK48enFpN2cAWtrU813"
     }
   ],
   "unique_name": "Global Groove",

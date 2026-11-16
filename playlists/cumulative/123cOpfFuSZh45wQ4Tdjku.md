@@ -4,7 +4,7 @@
 
 > mostly furry
 
-602 songs - 1 day 5 hr 44 min
+604 songs - 1 day 5 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -398,6 +398,8 @@
 | [Parasocial](https://open.spotify.com/track/5AJv67iLT79uijDdzfTPUm) | [Kennyoung](https://open.spotify.com/artist/1b6ywCGaEtyV4JUfGYKmk8) | [Parasocial](https://open.spotify.com/album/5zbyAiUZgCKZsuGohtQ7He) | 3:30 | 2024-05-23 |  |
 | [Parasol](https://open.spotify.com/track/6sIBSE9I3zWB4CszqP8HM6) | [Arctica The Fox](https://open.spotify.com/artist/5QyUSrN5677lRfROJSu7z8) | [Dreamscape](https://open.spotify.com/album/4pEPXJ41scirEpDmSp6Gnt) | 2:51 | 2025-04-24 |  |
 | [Part Of Me](https://open.spotify.com/track/5OVbjbDfVSkh5PZHWlzXjK) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Song Every Day For 30 Days](https://open.spotify.com/album/7qAWecHdD8NKV3saBi38Qe) | 1:31 | 2025-04-22 |  |
+| [Party Favor](https://open.spotify.com/track/2aHxRQGqUH58sUptShLRWP) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [OodleZz](https://open.spotify.com/artist/2eCpXBK9mnqr6o9TydXu98) | [Party Favor](https://open.spotify.com/album/37LhJVLQUxJDJPxa9IaJdb) | 3:15 | 2026-11-15 |  |
+| [Party Favor \- Instrumental](https://open.spotify.com/track/60AlTM7Y7mT9zF9vZuwcLw) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [Party Favor](https://open.spotify.com/album/37LhJVLQUxJDJPxa9IaJdb) | 3:14 | 2026-11-15 |  |
 | [PASS THAT POOLTOY](https://open.spotify.com/track/0EEm7WqTGLXQoFrDM3bYIx) | [Pent Up Pup](https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy) | [FURFAG](https://open.spotify.com/album/6LyPH9oyTnCrTQHwhedPF0) | 2:42 | 2025-02-24 | 2026-07-27 |
 | [Paws to the Walls \(Album Version\)](https://open.spotify.com/track/3F6W10MmpGNvuaVHRgHoqm) | [Niic](https://open.spotify.com/artist/45VASQ5Pl3K8uSuUh9wooM) | [Unleashed](https://open.spotify.com/album/36ZrBEKFyHtbNumTv7pSuA) | 4:01 | 2023-11-18 |  |
 | [Paws to the Walls \(Fursona Version\)](https://open.spotify.com/track/3IXj6ST3yW7iWO1Oq6BdsA) | [Niic](https://open.spotify.com/artist/45VASQ5Pl3K8uSuUh9wooM) | [Paws to the Walls \(Fursona Version\)](https://open.spotify.com/album/4Z3ggIxA4bxdwo0JEXqauj) | 4:45 | 2023-11-18 |  |

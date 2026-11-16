@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0TrSaB.md) - [plain]
 
 > This is Jai'Len Josey\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 235 likes - 29 songs - 1 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 234 likes - 29 songs - 1 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

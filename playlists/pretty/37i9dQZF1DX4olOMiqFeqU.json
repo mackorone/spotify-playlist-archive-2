@@ -1,6 +1,6 @@
 {
   "description": "100% Pinoy hits from your favorite artists!",
-  "num_followers": 2403744,
+  "num_followers": 2403399,
   "original_name": "OPM Favorites",
   "owner": {
     "name": "Spotify",
@@ -75,18 +75,18 @@
     {
       "added_at": "2026-10-02 03:23:34",
       "album": {
-        "name": "Umaasa",
-        "url": "https://open.spotify.com/album/5CoCHo5Uln3nDpd1q2aewW"
+        "name": "Pasilyo",
+        "url": "https://open.spotify.com/album/4shoxv60vMxSDq40tp5cSK"
       },
       "artists": [
         {
-          "name": "Calein",
-          "url": "https://open.spotify.com/artist/0DpLoyGVbhOHNR3ht2oO9y"
+          "name": "SunKissed Lola",
+          "url": "https://open.spotify.com/artist/4bLLB1dbsRVUTcMpnDGDO2"
         }
       ],
-      "duration_ms": 335624,
-      "name": "Umaasa",
-      "url": "https://open.spotify.com/track/4AULw1VRyJP17zMvwgTIUs"
+      "duration_ms": 270250,
+      "name": "Pasilyo",
+      "url": "https://open.spotify.com/track/0uZFcsx96wzbixsULmrg8o"
     },
     {
       "added_at": "2026-10-02 03:23:34",
@@ -107,18 +107,18 @@
     {
       "added_at": "2026-10-02 03:23:34",
       "album": {
-        "name": "Pasilyo",
-        "url": "https://open.spotify.com/album/4shoxv60vMxSDq40tp5cSK"
+        "name": "Umaasa",
+        "url": "https://open.spotify.com/album/5CoCHo5Uln3nDpd1q2aewW"
       },
       "artists": [
         {
-          "name": "SunKissed Lola",
-          "url": "https://open.spotify.com/artist/4bLLB1dbsRVUTcMpnDGDO2"
+          "name": "Calein",
+          "url": "https://open.spotify.com/artist/0DpLoyGVbhOHNR3ht2oO9y"
         }
       ],
-      "duration_ms": 270250,
-      "name": "Pasilyo",
-      "url": "https://open.spotify.com/track/0uZFcsx96wzbixsULmrg8o"
+      "duration_ms": 335624,
+      "name": "Umaasa",
+      "url": "https://open.spotify.com/track/4AULw1VRyJP17zMvwgTIUs"
     },
     {
       "added_at": "2026-10-02 03:23:34",
@@ -239,22 +239,6 @@
     {
       "added_at": "2026-10-02 03:23:34",
       "album": {
-        "name": "Soapdish Reloaded",
-        "url": "https://open.spotify.com/album/5frYhQPxFxiNZV7fmqybMJ"
-      },
-      "artists": [
-        {
-          "name": "Soapdish",
-          "url": "https://open.spotify.com/artist/13VRqzYJxIUpx67aASZADe"
-        }
-      ],
-      "duration_ms": 196693,
-      "name": "Tensionado",
-      "url": "https://open.spotify.com/track/1tVOhTFOtqVMmsDAJoMeja"
-    },
-    {
-      "added_at": "2026-10-02 03:23:34",
-      "album": {
         "name": "Kathang Isip",
         "url": "https://open.spotify.com/album/4nQxblVnnFPehg9ujzdJ8L"
       },
@@ -271,18 +255,18 @@
     {
       "added_at": "2026-10-02 03:23:34",
       "album": {
-        "name": "Imahe",
-        "url": "https://open.spotify.com/album/04KG42EaTfjaPbYHQ6wI3h"
+        "name": "Soapdish Reloaded",
+        "url": "https://open.spotify.com/album/5frYhQPxFxiNZV7fmqybMJ"
       },
       "artists": [
         {
-          "name": "Magnus Haven",
-          "url": "https://open.spotify.com/artist/28B54RKpJrEmDoGSTjsfY6"
+          "name": "Soapdish",
+          "url": "https://open.spotify.com/artist/13VRqzYJxIUpx67aASZADe"
         }
       ],
-      "duration_ms": 321817,
-      "name": "Imahe",
-      "url": "https://open.spotify.com/track/65sEZZaxTjLMD8vNgPoMz5"
+      "duration_ms": 196693,
+      "name": "Tensionado",
+      "url": "https://open.spotify.com/track/1tVOhTFOtqVMmsDAJoMeja"
     },
     {
       "added_at": "2026-10-02 03:23:34",
@@ -323,6 +307,22 @@
       "duration_ms": 214606,
       "name": "Sa Susunod Na Lang",
       "url": "https://open.spotify.com/track/34ob61cxp34Sf7KHK6RnSU"
+    },
+    {
+      "added_at": "2026-10-02 03:23:34",
+      "album": {
+        "name": "Imahe",
+        "url": "https://open.spotify.com/album/04KG42EaTfjaPbYHQ6wI3h"
+      },
+      "artists": [
+        {
+          "name": "Magnus Haven",
+          "url": "https://open.spotify.com/artist/28B54RKpJrEmDoGSTjsfY6"
+        }
+      ],
+      "duration_ms": 321817,
+      "name": "Imahe",
+      "url": "https://open.spotify.com/track/65sEZZaxTjLMD8vNgPoMz5"
     },
     {
       "added_at": "2026-10-02 03:23:34",
@@ -503,22 +503,6 @@
     {
       "added_at": "2026-10-02 03:23:34",
       "album": {
-        "name": "Misteryoso",
-        "url": "https://open.spotify.com/album/6BqP9dOpxUGa7gCunYMw9a"
-      },
-      "artists": [
-        {
-          "name": "Cup of Joe",
-          "url": "https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN"
-        }
-      ],
-      "duration_ms": 221641,
-      "name": "Misteryoso",
-      "url": "https://open.spotify.com/track/0kE1SmlJNLg14dgdo9kJws"
-    },
-    {
-      "added_at": "2026-10-02 03:23:34",
-      "album": {
         "name": "Nahanap Kita",
         "url": "https://open.spotify.com/album/6fPUiSWRHRKn1Gk9d5h6PW"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 317693,
       "name": "Nahanap Kita",
       "url": "https://open.spotify.com/track/0GD9U8EM8xcPvuaA50Wzpe"
+    },
+    {
+      "added_at": "2026-10-02 03:23:34",
+      "album": {
+        "name": "Misteryoso",
+        "url": "https://open.spotify.com/album/6BqP9dOpxUGa7gCunYMw9a"
+      },
+      "artists": [
+        {
+          "name": "Cup of Joe",
+          "url": "https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN"
+        }
+      ],
+      "duration_ms": 221641,
+      "name": "Misteryoso",
+      "url": "https://open.spotify.com/track/0kE1SmlJNLg14dgdo9kJws"
     },
     {
       "added_at": "2026-10-02 03:23:34",
@@ -555,22 +555,6 @@
     {
       "added_at": "2026-10-02 03:23:34",
       "album": {
-        "name": "Love And Soul",
-        "url": "https://open.spotify.com/album/1e0Tqcfn0eqgFicrFFYNMl"
-      },
-      "artists": [
-        {
-          "name": "Jireh Lim",
-          "url": "https://open.spotify.com/artist/6urxZktbtGcTIIqxQZ1d8q"
-        }
-      ],
-      "duration_ms": 236705,
-      "name": "Magkabilang Mundo",
-      "url": "https://open.spotify.com/track/5AjbSv7nkr78wzmuHEfjg0"
-    },
-    {
-      "added_at": "2026-10-02 03:23:34",
-      "album": {
         "name": "RD Covers (Live)",
         "url": "https://open.spotify.com/album/0RGrPvTkxQV7x5gX6FNrpT"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 361106,
       "name": "Nandito Ako",
       "url": "https://open.spotify.com/track/5Ykz2rfupj8lEr5eDumU0X"
+    },
+    {
+      "added_at": "2026-10-02 03:23:34",
+      "album": {
+        "name": "Love And Soul",
+        "url": "https://open.spotify.com/album/1e0Tqcfn0eqgFicrFFYNMl"
+      },
+      "artists": [
+        {
+          "name": "Jireh Lim",
+          "url": "https://open.spotify.com/artist/6urxZktbtGcTIIqxQZ1d8q"
+        }
+      ],
+      "duration_ms": 236705,
+      "name": "Magkabilang Mundo",
+      "url": "https://open.spotify.com/track/5AjbSv7nkr78wzmuHEfjg0"
     },
     {
       "added_at": "2026-10-02 03:23:34",

@@ -4,7 +4,7 @@
 
 > Les hits marocains du moment\. Cover: Lakamura
 
-552 songs - 1 day 5 hr 18 min
+554 songs - 1 day 5 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -246,6 +246,7 @@
 | [Kasseta](https://open.spotify.com/track/3UWPJ8utIHpn6xiC7T4rdw) | [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [Kasseta](https://open.spotify.com/album/5MsNlq9T81Vfp09uabHCTj) | 4:02 | 2022-06-11 | 2022-07-17 |
 | [KATA](https://open.spotify.com/track/5NKlXALZpt7pLjRZimclan) | [Lbenj](https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv) | [KATA](https://open.spotify.com/album/1ESrW2WAb59BBFxFbjpg6W) | 3:48 | 2022-11-09 | 2023-06-16 |
 | [KATANA](https://open.spotify.com/track/6bvaZEeNfpGIzDGiAfAwWp) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F), [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [SSADA](https://open.spotify.com/album/49tV3jD78I0HdqhL5GsfgY) | 2:37 | 2026-04-15 | 2026-05-29 |
+| [Keddab](https://open.spotify.com/track/7Hh4hykGxO7hT0FoFVkonP) | [ASSIA](https://open.spotify.com/artist/3x7veOAhTEg0Z3abcNQhzu) | [Keddab](https://open.spotify.com/album/430OinMfmEtvRBeKNYPbeL) | 2:46 | 2026-11-15 |  |
 | [Khalass](https://open.spotify.com/track/5RJvzygEnbZOPfwKKEQvun) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Khalass](https://open.spotify.com/album/6LdbOE0J3GsPqskSZxc7I7) | 3:20 | 2021-12-25 | 2022-06-10 |
 | [Khalini](https://open.spotify.com/track/3PoerjlVZ7f1s32kpNB0SZ) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Khalini](https://open.spotify.com/album/7aqKBhNnhezrsKD4pkIiOA) | 3:02 | 2022-07-25 | 2022-08-21 |
 | [Khalini](https://open.spotify.com/track/6d0aeCqvfluuum0UXsSfH5) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Khalini](https://open.spotify.com/album/5vJBSloyi1CQjncMIykoHs) | 3:02 | 2022-02-09 | 2022-07-29 |
@@ -259,7 +260,7 @@
 | [KIF KIF](https://open.spotify.com/track/23iRPid7TsITfNxKGL0toM) | [Lbenj](https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv) | [KIF KIF](https://open.spotify.com/album/7DeGLtJG2R45QJrHW1NLLF) | 3:47 | 2023-07-22 | 2024-10-12 |
 | [KILOWAT](https://open.spotify.com/track/5m5HDOt6RIKVsBGAm2uyN0) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [DESPERADO](https://open.spotify.com/album/3Fhd5mu9DDnph1m4j9Hioo) | 2:44 | 2026-08-16 |  |
 | [Kima Bakri](https://open.spotify.com/track/3hjXb9FRFRt7H13KlNhGPA) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [Omerta](https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC) | 2:56 | 2023-01-06 | 2023-02-25 |
-| [KIYA](https://open.spotify.com/track/4F0yYIjWU3YFFcJHTRBxs3) | [Khtek](https://open.spotify.com/artist/5l9OXfeq4VgBHZZWmkJrvN) | [KIYA](https://open.spotify.com/album/2ifKpv86aGp7T5k5fxUmPW) | 3:18 | 2026-01-27 |  |
+| [KIYA](https://open.spotify.com/track/4F0yYIjWU3YFFcJHTRBxs3) | [Khtek](https://open.spotify.com/artist/5l9OXfeq4VgBHZZWmkJrvN) | [KIYA](https://open.spotify.com/album/2ifKpv86aGp7T5k5fxUmPW) | 3:18 | 2026-01-27 | 2026-11-16 |
 | [Kolla Sa3a](https://open.spotify.com/track/1oQadPm2panJK4zXWmeqYG) | [777YM](https://open.spotify.com/artist/0RM7X5kb4RzuDItJhqy3A1) | [Kolla Sa3a](https://open.spotify.com/album/785SSEHwMU8CaP8qhR5UfV) | 2:31 | 2025-02-16 | 2025-04-02 |
 | [KOUDOUROU](https://open.spotify.com/track/4Wx54faWzcpENP6oEST3Fv) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ), [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [KOUDOUROU X BON COURAGE](https://open.spotify.com/album/05sh3hHudpCfoXlQMwqCmE) | 3:22 | 2025-07-19 | 2025-10-07 |
 | [Kouni Liya](https://open.spotify.com/track/7w599w2PChoiHg9SNXloXz) | [Chaos333](https://open.spotify.com/artist/1fP5b7OUxcCkbhUX3yKVzE) | [Kouni Liya](https://open.spotify.com/album/5dtPSOpA9sTUGxOvhXneLb) | 3:42 | 2021-12-25 | 2022-06-23 |
@@ -354,6 +355,7 @@
 | [Maria](https://open.spotify.com/track/2ieat98TO6yujpLeTsb9U4) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6), [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz) | [Omerta](https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC) | 3:13 | 2023-01-06 | 2023-02-19 |
 | [MARJANA](https://open.spotify.com/track/5lWQ5qYAy2pe11J3Ze7u9o) | [7\-Toun](https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp) | [MARJANA](https://open.spotify.com/album/4rOy8yQlICtPvNwZubYkh6) | 3:58 | 2023-08-02 | 2024-06-13 |
 | [Massari](https://open.spotify.com/track/0J65uyzYarHKfC4XHBdqfK) | [Nouamane Belaiachi](https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8) | [Massari](https://open.spotify.com/album/1h30k7HoeTkiFmlnBub3xg) | 3:26 | 2023-02-06 | 2023-04-11 |
+| [Matfahmnach](https://open.spotify.com/track/3OrCylTRGYH4bUlr91NJ00) | [Douzi](https://open.spotify.com/artist/2elOTj4JyFOFPiZOcn4RNG) | [MATFAHMNACH](https://open.spotify.com/album/1CGsahTZx78GXfJW718jl2) | 2:44 | 2026-11-15 |  |
 | [Matgheltech](https://open.spotify.com/track/00c3VyS0fPdFOZa8PNsXgX) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Matgheltech](https://open.spotify.com/album/5WBdOgzrEPdn0TB5GaYSh0) | 3:15 | 2024-07-02 | 2026-04-01 |
 | [Midaliya](https://open.spotify.com/track/1VfoAPyym2t0DqJcr3uKU3) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [Midaliya](https://open.spotify.com/album/5EKZqL6aVCaAuWOcgaELrO) | 2:33 | 2025-01-27 | 2026-05-26 |
 | [MILANO](https://open.spotify.com/track/5TR5g2mXk58AbVbHLVRbsM) | [7\-Toun](https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp) | [MILANO](https://open.spotify.com/album/7DgRfSHOYWDEV6svVQqLiJ) | 4:09 | 2021-12-25 | 2022-12-14 |
@@ -442,7 +444,7 @@
 | [Salam](https://open.spotify.com/track/12HuEuSbjbaX3TgAu917gh) | [Chaos333](https://open.spotify.com/artist/1fP5b7OUxcCkbhUX3yKVzE) | [Salam](https://open.spotify.com/album/7DZ568lgXANTKdT8rfb7tH) | 2:53 | 2022-07-13 | 2022-09-09 |
 | [Salam](https://open.spotify.com/track/0gR65ex17IbBdAvVMg74LS) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Salam](https://open.spotify.com/album/0T0nzA4p3Ma3CK8WUBCPWM) | 2:27 | 2024-04-25 | 2024-06-07 |
 | [SARA](https://open.spotify.com/track/1pI3VzxUIrXmgxc9tmhwHC) | [Milfaya](https://open.spotify.com/artist/04AJQXlTk4IiSxESsmYDvp) | [L'Mdina](https://open.spotify.com/album/4yfsWZwP2S19rizMlxjcxW) | 4:05 | 2023-02-23 | 2023-03-09 |
-| [Sarini](https://open.spotify.com/track/60fjrgy5EwyWmN8PhQVBKY) | [Mehdi Fadili](https://open.spotify.com/artist/3fRwXTuOQctGeBiWD456cG) | [Sarini](https://open.spotify.com/album/2IwrMNUgldFJy5kcqY43xA) | 2:50 | 2025-08-08 |  |
+| [Sarini](https://open.spotify.com/track/60fjrgy5EwyWmN8PhQVBKY) | [Mehdi Fadili](https://open.spotify.com/artist/3fRwXTuOQctGeBiWD456cG) | [Sarini](https://open.spotify.com/album/2IwrMNUgldFJy5kcqY43xA) | 2:50 | 2025-08-08 | 2026-11-16 |
 | [Sasasa](https://open.spotify.com/track/0ijOIF6RHKsJu7SDxKznDF) | [Zakaria Ghafouli](https://open.spotify.com/artist/5m3exVDqKodrTlc3jECMTD) | [Sasasa](https://open.spotify.com/album/5NF5qAN61aw3UbZR2RM41x) | 3:45 | 2022-07-21 | 2022-09-15 |
 | [SATA 9TTALA](https://open.spotify.com/track/2CxG2gBTQog41ZLJuFj5jo) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh), [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [DESPERADO](https://open.spotify.com/album/3Fhd5mu9DDnph1m4j9Hioo) | 3:33 | 2026-06-25 |  |
 | [SBABO NTI](https://open.spotify.com/track/1SxcIBOelPOILwkCRw42Zi) | [Lbenj](https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv) | [SBABO NTI](https://open.spotify.com/album/7GwYS8AurmMvmGKrh0j7ZG) | 4:13 | 2023-01-29 | 2023-02-24 |

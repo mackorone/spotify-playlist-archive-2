@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 
 > The best Canadian songs of the month, handpicked by Spotify Canada editors\. Cover: Natek
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,977 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,980 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,18 +21,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 | 11 | [oh well!](https://open.spotify.com/track/1WEIB44lAiiGxpmfCPDu2t) | [livingthing](https://open.spotify.com/artist/4DSxrJMbWwzezTooMm0ZTt) | [oh well!](https://open.spotify.com/album/6MBa9ByIC9IxnR5kkG2m4C) | 3:09 |
 | 12 | [FOR SIXXX IN THE MORNIN \(with Samara Cyn\)](https://open.spotify.com/track/5hGnrxC9mJHSZolU7DZPiA) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [FOR SIXXX IN THE MORNIN \(with Samara Cyn\)](https://open.spotify.com/album/2RG13AEWo5I4OQaHuvtJ5N) | 3:54 |
 | 13 | [Good By Now](https://open.spotify.com/track/714MAXEt0p1j3XDCyJ9uZT) | [Thelma & James](https://open.spotify.com/artist/60WW5HfHRijpxoTRlaU8BE) | [Good By Now](https://open.spotify.com/album/3R4ZvpbQntDFuVCJF7Rw4n) | 3:03 |
-| 14 | [THE ALLIGATOR](https://open.spotify.com/track/68CP4zwZSuMG623V8fQ65G) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [THE ALLIGATOR](https://open.spotify.com/album/60w2zFQHJK1wpWXSI73npq) | 4:41 |
-| 15 | [no self respect!](https://open.spotify.com/track/6aU6LB5zF7JiKtmMBw6I1V) | [Jahson Paynter](https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8) | [no self respect!](https://open.spotify.com/album/2cE9NykoNpph3aah241eKp) | 3:01 |
+| 14 | [no self respect!](https://open.spotify.com/track/6aU6LB5zF7JiKtmMBw6I1V) | [Jahson Paynter](https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8) | [no self respect!](https://open.spotify.com/album/2cE9NykoNpph3aah241eKp) | 3:01 |
+| 15 | [THE ALLIGATOR](https://open.spotify.com/track/68CP4zwZSuMG623V8fQ65G) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [THE ALLIGATOR](https://open.spotify.com/album/60w2zFQHJK1wpWXSI73npq) | 4:41 |
 | 16 | [Private Lives](https://open.spotify.com/track/1FuKAmuSC09b2xBlyVA1Ks) | [Death From Above 1979](https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj) | [Private Lives](https://open.spotify.com/album/4c2z5M8fhqX4PpS85aEltq) | 3:05 |
 | 17 | [MADE 4 THIS](https://open.spotify.com/track/3rwO8smwGsmi09PJ8qXyFp) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [MADE 4 THIS](https://open.spotify.com/album/1ErdNrarD5OecbKB1bVdNT) | 2:45 |
 | 18 | [gambling](https://open.spotify.com/track/26ujZuOhs0XQOySrfxhj2z) | [ridgeclub](https://open.spotify.com/artist/4MT74NV1GnOKWtwpEVRRu1) | [crawlspace](https://open.spotify.com/album/1omw5Cwq5erJu1tcEBF8s8) | 2:44 |
-| 19 | [Bogus](https://open.spotify.com/track/7d0HmRRRzBFYJ2HBDVATl2) | [Fog Lake](https://open.spotify.com/artist/04GCjO1r1hPelibCUq9S8H) | [Bogus](https://open.spotify.com/album/4f0LSP6WVbPOJ89NrASCUM) | 3:55 |
-| 20 | [hold me!](https://open.spotify.com/track/2ykWnVHY5hiqZiMPhv4YOY) | [Jahson Paynter](https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8) | [hold me, don't hold back!](https://open.spotify.com/album/5ZcevGakdEaDIK8R2JSH1r) | 2:22 |
+| 19 | [hold me!](https://open.spotify.com/track/2ykWnVHY5hiqZiMPhv4YOY) | [Jahson Paynter](https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8) | [hold me, don't hold back!](https://open.spotify.com/album/5ZcevGakdEaDIK8R2JSH1r) | 2:22 |
+| 20 | [Bogus](https://open.spotify.com/track/7d0HmRRRzBFYJ2HBDVATl2) | [Fog Lake](https://open.spotify.com/artist/04GCjO1r1hPelibCUq9S8H) | [Bogus](https://open.spotify.com/album/4f0LSP6WVbPOJ89NrASCUM) | 3:55 |
 | 21 | [Saisons](https://open.spotify.com/track/5kMrK5lhPuOrUwnjtgIiLg) | [Aswell](https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc) | [Saisons](https://open.spotify.com/album/09IwKg2UvRi20lV67LKtlk) | 3:11 |
 | 22 | [ECSTASY SURROUNDS ME \- Deetron Remix](https://open.spotify.com/track/1KYGi1WeQubvsZyWrcDwGk) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Deetron](https://open.spotify.com/artist/0d4nL4lAEkHJIqLZSHBuav) | [ECSTASY SURROUNDS ME \(Remixes\)](https://open.spotify.com/album/4OacwFQiqFB3a7ol1l5MOz) | 7:41 |
 | 23 | [Small Town Girls](https://open.spotify.com/track/4EvIeYaNzKCIGLGic8lEB3) | [MINOE](https://open.spotify.com/artist/1ck1DG8KEmO1b0DrJsbyKi) | [Small Town Girls](https://open.spotify.com/album/3ssYRKS8GZ3Q4yeA8UiT81) | 3:48 |
-| 24 | [Gamut](https://open.spotify.com/track/5sk7J329w6TKBZ7onE0SaB) | [Fog Lake](https://open.spotify.com/artist/04GCjO1r1hPelibCUq9S8H) | [Gamut / Styrofoam](https://open.spotify.com/album/1A2Eu2ifS8qALrj6PiV5KF) | 4:04 |
-| 25 | [redstar](https://open.spotify.com/track/7iswvp4cEuvT7C9593N0hE) | [Hockitay](https://open.spotify.com/artist/7bOmAhV9TyYNu90JKLiVGI) | [redstar](https://open.spotify.com/album/0Urk10HzyKwZz3ziPj3dlf) | 4:16 |
+| 24 | [redstar](https://open.spotify.com/track/7iswvp4cEuvT7C9593N0hE) | [Hockitay](https://open.spotify.com/artist/7bOmAhV9TyYNu90JKLiVGI) | [redstar](https://open.spotify.com/album/0Urk10HzyKwZz3ziPj3dlf) | 4:16 |
+| 25 | [Gamut](https://open.spotify.com/track/5sk7J329w6TKBZ7onE0SaB) | [Fog Lake](https://open.spotify.com/artist/04GCjO1r1hPelibCUq9S8H) | [Gamut / Styrofoam](https://open.spotify.com/album/1A2Eu2ifS8qALrj6PiV5KF) | 4:04 |
 | 26 | [Holding On](https://open.spotify.com/track/2r5qyhWmv8yEcbUrwGpNfT) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [Spin / Holding On](https://open.spotify.com/album/3bQXf66U0CWg0HrRObvYum) | 3:56 |
 | 27 | [Four Seasons](https://open.spotify.com/track/3I0KpA2i14kXzK0ggPWp3J) | [Merna](https://open.spotify.com/artist/0aytGYP0dzM1d37B7C31qK) | [For Seasons: Love in a Time of War](https://open.spotify.com/album/7HoEzXWmgLQNt4LAXPFWiy) | 4:27 |
 | 28 | [Black Cloud](https://open.spotify.com/track/7jta9IhHuBzggV5khD9o4v) | [Matt Holubowski](https://open.spotify.com/artist/384YLF1kNQk9Ccl8pn7BSO) | [Black Cloud](https://open.spotify.com/album/2D0ndfrBJoVA45FnDQC7cS) | 4:29 |
